@@ -4,14 +4,23 @@
 
 ### ART. 1.
 
-Dit decreet regelt een gemeenschaps- en gewestaangelegenheid. Het zet onder meer de bepalingen om van de Richtlijnen :<br />1° Richtlijn 2009/136/EG van het Europees Parlement en de Raad van 25 november 2009 tot wijziging van Richtlijn 2002/22/EG inzake de universele dienst en gebruikersrechten met betrekking tot elektronische communicatienetwerken en -diensten, Richtlijn 2002/58/EG betreffende de verwerking van persoonsgegevens en de bescherming van de persoonlijke levenssfeer in de sector elektronische communicatie en verordening (EG) nr. 2006/2004 betreffende samenwerking tussen de nationale instanties die verantwoordelijk zijn voor handhaving van de wetgeving inzake consumentenbescherming;<br />2° Richtlijn 2009/140/EG van het Europees Parlement en de Raad van 25 november 2009 tot wijziging van Richtlijn 2002/21/EG inzake een gemeenschappelijk regelgevingskader voor elektronische communicatienetwerken en -diensten, Richtlijn 2002/19/EG inzake de toegang tot en interconnectie van elektronische communicatienetwerken en bijbehorende faciliteiten, en Richtlijn 2002/20/EG betreffende de machtiging voor elektronische communicatienetwerken en -diensten;<br />3° Richtlijn 2010/13/EU van het Europees Parlement en de Raad van 10 maart 2010 betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn audiovisuele mediadiensten).
+Dit decreet regelt een gemeenschaps- en gewestaangelegenheid. Het zet onder meer de bepalingen om van de Richtlijnen :<br>
+1° Richtlijn 2002/58/EG betreffende de verwerking van persoonsgegevens en de bescherming van de persoonlijke levenssfeer in de sector elektronische communicatie;<br>
+2° ...;<br>
+3° Richtlijn 2010/13/EU van het Europees Parlement en de Raad van 10 maart 2010 betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn audiovisuele mediadiensten).
 
 ### ART. 2.
 
 In dit decreet wordt verstaan onder :<br>
-1° aanbieder van videoplatformdiensten: de natuurlijke of rechtspersoon die een videoplatformdienst aanbiedt;<br>
-1°/1 actualiteitenprogramma : een programma waarin een of meer actuele gebeurtenissen worden behandeld en/of becommentarieerd<br>
-1°/2 applicatieprogramma-interface, afgekort API : software-interface tussen externe toepassingen, die beschikbaar gesteld wordt door omroeporganisaties, dienstenverdelers of netwerkoperatoren, en de hulpmiddelen voor digitale televisie- en radio-omroep in de geavanceerde digitale eindapparatuur;<br>
+1° Aanbeveling: aanbeveling van de Europese Commissie inzake relevante markten voor producten en diensten;<br>
+1°/1 aanbieder van videoplatformdiensten: de natuurlijke of rechtspersoon die een videoplatformdienst aanbiedt;<br>
+1° /2 aanmerkelijke marktmacht : een onderneming wordt geacht aanmerkelijke marktmacht te hebben als ze, alleen of samen met andere ondernemingen, een aan machtspositie gelijkwaardige positie bezit, namelijk een economische kracht die haar in staat stelt zich in belangrijke mate onafhankelijk van haar concurrenten, klanten en uiteindelijk consumenten te gedragen;<br>
+1°/3 actualiteitenprogramma : een programma waarin een of meer actuele gebeurtenissen worden behandeld en/of becommentarieerd<br>
+1°/4 applicatieprogramma-interface, afgekort API : software-interface tussen externe toepassingen, die beschikbaar gesteld wordt door omroeporganisaties, dienstenverdelers of netwerkoperatoren, en de hulpmiddelen voor digitale televisie- en radio-omroep in de geavanceerde digitale eindapparatuur;<br>
+1° /5 AMM-richtsnoeren : richtsnoeren van de Europese Commissie voor marktanalyse en de beoordeling van aanmerkelijke marktmacht;<br>
+1° /6 Berec : het Orgaan van Europese regulerende instanties voor elektronische communicatie, opgericht bij verordening (EU) 2018/1971 van het Europees Parlement en de Raad van 11 december 2018 tot instelling van het Orgaan van Europese regulerende instanties voor elektronische communicatie (Berec) en het Bureau voor ondersteuning van Berec (Berec-Bureau), tot wijziging van Verordening (EU) 2015/2120 en tot intrekking van Verordening (EG) nr. 1211/2009;<br>
+1° /7 bijbehorende dienst : een bij een elektronisch communicatienetwerk of een elektronische communicatiedienst behorende dienst die het aanbieden, het zelf verstrekken of het geautomatiseerd aanbieden van diensten via dat netwerk of die dienst mogelijk maakt of ondersteunt of het potentieel hiertoe bezit en die voorwaardelijke toegangssystemen en elektronische programmagidsen (EPG's), alsmede andere diensten zoals identiteit, locatie en presentie-informatiediensten omvat;<br>
+1° /8 bijbehorende faciliteiten : de bij een elektronisch communicatienetwerk of een elektronische communicatiedienst behorende diensten, fysieke infrastructuren en andere faciliteiten of elementen die het aanbieden van diensten via dat netwerk of die dienst mogelijk maken of ondersteunen of het potentieel hiertoe bezitten en die gebouwen of toegangen tot gebouwen, bekabeling van gebouwen, antennes, torens en andere ondersteunende constructies, kabelgoten, kabelbuizen, masten, mangaten en straatkasten omvatten;<br>
 2° breedbeeldtelevisieprogramma : programma dat geheel of gedeeltelijk is geproduceerd en gemonteerd om te worden weergegeven in een schermvullend breedbeeldformaat. Het 16 :9-formaat geldt als referentiekader voor breedbeeldtelevisieprogramma's;<br>
 3° boodschappen van algemeen nut :<br>
 a) elke boodschap over hun beleid, die uitgaat van overheden of openbare instellingen, verenigingen of overheidsbedrijven die een meerderheid van overheidsvertegenwoordigers in de raad van bestuur hebben en een taak van openbare dienst vervullen die niet door de particuliere sector wordt uitgeoefend, en die bevoegd zijn voor en zich geheel of gedeeltelijk richten tot de Vlaamse Gemeenschap of de Nederlandstalige bevolking van het tweetalige gebied Brussel-Hoofdstad, ongeacht de vorm en ongeacht de betaling of de betalingswijze;<br>
@@ -23,8 +32,8 @@ c) elke boodschap die uitgaat van door openbare besturen erkende of gesubsidieer
 6° /1 Contactcomité: het contactcomité, vermeld in artikel 29 van richtlijn 2010/13/EU van het Europees Parlement en de Raad van 10 maart 2010 betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn audiovisuele mediadiensten);<br>
 7° dienstenverdeler : elke rechtspersoon die door middel van elektronische communicatienetwerken een of meer omroepdiensten levert aan het publiek. De omroeporganisatie die alleen de eigen omroepdiensten ter beschikking van het publiek stelt, is geen dienstenverdeler;<br>
 7° /1 door gebruikers gegenereerde inhoud: een reeks bewegende beelden, al dan niet met geluid, of een reeks van klanken of geluiden, bestemd voor het algemene publiek of een deel ervan, die ongeacht de duur ervan een afzonderlijk element vormt, die door een gebruiker is gecreeerd en door die gebruiker of een andere gebruiker is geüpload naar een videoplatformdienst;<br>
-8° elektronisch communicatienetwerk : de transmissiesystemen en in voorkomend geval de schakel- of routeringsapparatuur en andere middelen, waaronder netwerkelementen die niet actief zijn, die het mogelijk maken om signalen van radio-omroep en de televisie over te brengen via draad, radiogolven, optische of andere elektromagnetische middelen, voor zover die voor de overdracht van signalen van radio-omroep en televisie worden gebruikt, waaronder satellietomroepnetwerken, vaste (circuit- en pakketgeschakelde, met inbegrip van internet) en mobiele netwerken, elektriciteitsnetten, etheromroepnetwerken en kabelomroepnetwerken;<br>
-9° elektronische communicatiedienst : een gewoonlijk tegen vergoeding aangeboden dienst die geheel of hoofdzakelijk bestaat in het overbrengen, waaronder schakel- en routeringsverrichtingen, van signalen van radio-omroep en televisie via elektronische communicatienetwerken;<br>
+8° elektronisch communicatienetwerk : de transmissiesystemen, al dan niet gebaseerd op een permanente infrastructuur of gecentraliseerde beheercapaciteit, en in voorkomend geval de schakel- of routeringsapparatuur en andere middelen, waaronder netwerkelementen die niet actief zijn, die het mogelijk maken signalen van radio-omroep en televisie over te brengen via draad, radiogolven, optische of andere elektromagnetische middelen, voor zover deze voor overdracht van signalen van radio-omroep en televisie worden gebruikt, waaronder satellietomroepnetwerken, vaste (circuut- en pakketgeschakelde, met inbegrip van internet) en mobiele netwerken, elektriciteitsnetten, etheromroepnetwerken en kabelomroepnetwerken;<br>
+9° elektronische communicatiedienst : een gewoonlijk tegen vergoeding via elektronische communicatienetwerken aangeboden dienst die geheel of hoofdzakelijk bestaat uit het overbrengen van signalen van radio-omroep en televisie;<br>
 10° etheromroepnetwerk : elektronisch communicatienetwerk waardoor signalen van radio-omroep en televisie in digitale vorm, al dan niet gecodeerd, via aardse zenders aan derden worden doorgegeven. Een etheromroepnetwerk kan radio-omroep- en televisiesignalen doorgeven in de hele Vlaamse Gemeenschap of in een deel ervan;<br>
 11° Europese producties :<br>
 a) de volgende producties :<br>
@@ -38,7 +47,8 @@ b) de producties, vermeld in punt a), 1), en a), 2), zijn producties die voornam
 c) producties die geen Europese producties zijn als vermeld in a), maar die vervaardigd worden in het kader van tussen de lidstaten en derde landen gesloten bilaterale coproductieverdragen, worden als Europese producties beschouwd mits de coproducenten uit de Europese Gemeenschap een meerderheidsaandeel hebben in de totale productiekosten en de productie niet onder controle staat van een of meer buiten de lidstaten gevestigde producenten;<br>
 12° evenement : een voor het publiek toegankelijke gebeurtenis. De gebeurtenis vormt een afgerond geheel met een natuurlijk begin en einde. Als een evenement zich uitstrekt over verschillende dagen, wordt elke dag als een afzonderlijk evenement beschouwd;<br>
 13° exclusiviteitshouder : elke omroeporganisatie die ressorteert onder de Vlaamse Gemeenschap, een andere gemeenschap of een andere lidstaat van de Europese Unie die voor evenementen exclusieve uitzendrechten heeft verworven voor de Vlaamse Gemeenschap;<br>
-14° geavanceerde digitale eindapparatuur : settop-boxen en geïntegreerde digitale televisietoestellen voor de ontvangst van digitale interactieve omroepprogramma's;<br>
+14° geavanceerde digitale eindapparatuur : kastjes met converter en decoder en geïntegreerde digitale televisietoestellen voor de ontvangst van de digitale interactieve omroepdiensten;<br>
+14° /1 interconnectie : een specifiek type toegang dat tussen exploitanten van openbare netwerken wordt gerealiseerd door het fysiek en logisch verbinden van openbare elektronische communicatienetwerken die door dezelfde of een andere onderneming worden gebruikt om het de gebruikers van een onderneming mogelijk te maken te communiceren met die van dezelfde of van een andere onderneming of toegang te hebben tot diensten die door een andere onderneming worden aangeboden, wanneer die diensten worden aangeboden door de betrokken partijen of andere partijen die toegang hebben tot het netwerk;<br>
 15° jongere : een persoon vanaf twaalf jaar tot onder de leeftijd van zestien jaar;<br>
 15° /1 journaal : een programma bestaande uit nieuwsberichten waarin de algemene actualiteit van de dag wordt behandeld;<br>
 16° kabelomroepnetwerk : elektronisch communicatienetwerk waardoor signalen van radio-omroep en televisie al dan niet in gecodeerde vorm via elk soort van draad aan derden worden doorgegeven;<br>
@@ -47,6 +57,7 @@ c) producties die geen Europese producties zijn als vermeld in a), maar die verv
 19° kinderprogramma : een programma dat zich voornamelijk richt tot kinderen, wat onder meer kan blijken uit de inhoud, het tijdstip van uitzenden, de vormgeving, de presentatie en de wijze van aankondiging;<br>
 20° lineaire radiodienst : een lineaire auditieve omroepdienst, dat is een door een omroeporganisatie aangeboden omroepdienst voor het gelijktijdig beluisteren van auditieve programma's op basis van een programmaschema;<br>
 21° lineaire televisiedienst : een lineaire audiovisuele omroepdienst, dat is een door een omroeporganisatie aangeboden omroepdienst voor het gelijktijdig bekijken van audiovisuele programma's op basis van een programmaschema;<br>
+21° /1 netwerk met zeer hoge capaciteit : hetzij een elektronisch communicatienetwerk dat ten minste tot aan het distributiepunt volledig uit optischevezelelementen bestaat, hetzij een elektronisch communicatienetwerk dat, in gebruikelijke piekomstandigheden, in staat is om soortgelijke netwerkprestaties te bieden wat betreft downlinken uplinkbandbreedte, veerkrachtigheid van het netwerk, parameters met betrekking tot fouten, latentietijden en de veranderingen daarin. De netwerkprestaties kunnen ook als vergelijkbaar worden beschouwd als de eindgebruiker een andere gebruikservaring heeft vanwege de inherent verschillende kenmerken van het medium dat op het netwerk wordt aangesloten;<br>
 22° netwerkoperator : de aanbieder van een elektronisch communicatienetwerk. Onder aanbieden wordt begrepen het bouwen, exploiteren, leiden en beschikbaar stellen van een elektronisch communicatienetwerk;<br>
 23° niet-lineaire radiodienst : een niet-lineaire auditieve omroepdienst of auditieve omroepdienst op aanvraag, dat is een door een omroeporganisatie aangeboden omroepdienst die de gebruiker de mogelijkheid biedt om auditieve programma's te beluisteren op zijn individuele verzoek en op het door hem gekozen moment op basis van een door de omroeporganisatie geselecteerde programmacatalogus;<br>
 24° niet-lineaire televisiedienst : een niet-lineaire audiovisuele omroepdienst of audiovisuele omroepdienst op aanvraag, dat is een door een omroeporganisatie aangeboden omroepdienst die de gebruiker de mogelijkheid biedt om audiovisuele programma's te bekijken op zijn individuele verzoek en op het door hem gekozen moment op basis van een door de omroeporganisatie geselecteerde programmacatalogus;<br>
@@ -69,13 +80,14 @@ b) de houder van de exploitatierechten op het evenement;<br>
 36° /1 redactionele beslissing: een beslissing die op regelmatige basis wordt genomen met het oog op de uitoefening van redactionele verantwoordelijkheid en verband houdt met het dagelijkse beheer van de omroepdienst;<br>
 37° redactionele verantwoordelijkheid : de uitoefening van effectieve controle op de keuze van programma's en de organisatie ervan in hetzij een chronologisch schema, in geval van lineaire televisie- en radiodiensten, hetzij een catalogus, in geval van niet-lineaire televisie- en radiodiensten;<br>
 38° richtlijn audiovisuele mediadiensten : richtlijn 89/552/EEG van 3 oktober 1989 van het Europees Parlement en de Raad betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten, en de latere wijzigingen ervan;<br>
-39° satellietomroepnetwerk : elektronisch communicatienetwerk waardoor radio-omroep- en televisiesignalen in digitale vorm, al dan niet gecodeerd, via satelliet aan derden worden doorgegeven;<br>
+39° satellietomroepnetwerk : een elektronisch communicatienetwerk waardoor radio-omroep- en televisiesignalen in digitale vorm, al dan niet gecodeerd, via satelliet aan het algemene publiek worden doorgegeven;<br>
 40° secundaire lineaire omroeporganisatie : de omroep van de Vlaamse Gemeenschap of elke lineaire omroeporganisatie die geen exclusieve uitzendrechten voor de Vlaamse Gemeenschap heeft verworven, als er exclusieve uitzendrechten op het evenement zijn verleend;<br>
 41° sponsoring: elke bijdrage van een publieke of particuliere onderneming of natuurlijke persoon die zich niet bezighoudt met het aanbieden van omroepdiensten of videoplatformdiensten of met de vervaardiging van audiovisuele of auditieve werken, aan de financiering van omroepdiensten, videoplatformdiensten, door gebruikers gegenereerde inhoud of programma's, met het doel zijn of haar naam, handelsmerk, imago, activiteiten of producten meer bekendheid te geven;<br>
-42° systeem voor voorwaardelijke toegang : elke technische maatregel of regeling waarbij toegang tot een beschermd radio- of televisieomroepprogramma in begrijpelijke vorm afhankelijk wordt gemaakt van een abonnement of een andere vorm van voorafgaande individuele machtiging;<br>
+42° systeem voor voorwaardelijke toegang : elke technische maatregel, authenticatiesysteem en/of regeling waarbij toegang tot een beschermde omroepdienst in begrijpelijke vorm afhankelijk wordt gemaakt van een abonnement of een andere vorm van voorafgaande individuele machtiging;<br>
 43° televisiedienst : een audiovisuele omroepdienst;<br>
 44° televisieomroeporganisatie : een aanbieder van televisiediensten;<br>
 45° telewinkelen : rechtstreekse aanbiedingen aan het publiek die worden uitgezonden met het oog op de levering tegen betaling van goederen of diensten, met inbegrip van onroerende goederen, rechten en verplichtingen;<br>
+45° /1 transnationale markten : overeenkomstig artikel 65 van richtlijn (EU) 2018/1972 gedefinieerde markten die de Europese Unie of een aanzienlijk, zich over meer dan één lidstaat uitstrekkend, deel daarvan beslaan;<br>
 45° /1 videoplatformdienst: een dienst als vermeld in artikel 56 en 57 van het Verdrag betreffende de werking van de Europese Unie, waarbij het hoofddoel van de dienst, een daarvan losstaand gedeelte of een essentiële functie daarvan bestaat in het aanbieden van programma's, door gebruikers gegenereerde inhoud, of beide, aan het algemene publiek, waarvoor de aanbieder van het videoplatform geen redactionele verantwoordelijkheid draagt, ter informatie, vermaak of educatie via elektronische communicatienetwerken en waarvan de organisatie wordt bepaald door de aanbieder van het videoplatform, onder meer met automatische middelen of algoritmen, namelijk door weergeven, taggen en rangschikken;<br>
 46° zelfpromotie : de aanprijzing door een omroepdienst van eigen producten, diensten, programma's of netten;<br>
 47° zendapparatuur : ieder apparaat dat geheel of gedeeltelijk bestemd is om naar het publiek signalen van radio-omroep en televisie draadloos uit te zenden;<br>
@@ -910,7 +922,7 @@ De uitzending van de radio-omroepprogramma's van de landelijke en regionale radi
 <br>
 De Vlaamse Regering bepaalt de datum van die afschaffing van de FM-uitzendingen en de modaliteiten ervan. Die datum is afhankelijk van een tweejaarlijks monitoringsrapport waarin de evolutie van de groei van het totale digitale radio luisteren, de DAB+-progressie en de resultaten van sectorgedragen overleg worden nagegaan.<br>
 <br>
-§ 2. De Vlaamse Regering stelt het FM-frequentieplan op, keurt het goed en bepaalt hoeveel landelijke, regionale, netwerk- en lokale radio-omroeporganisaties kunnen worden erkend. Op basis van die frequentieplannen verleent de Vlaamse Regering de erkenningen.<br>
+§ 2. De Vlaamse Regering stelt het FM-frequentieplan op, keurt het goed en bepaalt hoeveel landelijke, regionale, netwerk- en lokale radio-omroeporganisaties kunnen worden erkend. Op basis van die frequentieplannen verleent de Vlaamse Regering de erkenningen.&nbsp;Het voornemen om wijzigingen aan het FM-frequentieplan, aan de erkenningen en aan de voorwaarden en procedures met betrekking tot het verwerven of verlengen van frequentiegebruiksrechten zoals bepaald in deze afdeling aan te brengen, wordt in het Belgisch Staatsblad bekendgemaakt. Belanghebbenden, met inbegrip van gebruikers en consumenten, kunnen voorafgaand aan de beslissing over deze wijzigingen, hun standpunt over die wijzigingen bekendmaken gedurende een raadplegingsprocedure die minimaal vier weken duurt en die wordt georganiseerd op de wijze en door de bevoegde dienst die de Vlaamse Regering aanwijst.<br>
 <br>
 De Vlaamse Regulator voor de Media verleent de FM-zendvergunningen aan de erkende landelijke, regionale, netwerk- of lokale radio-omroeporganisaties.<br>
 <br>
@@ -954,7 +966,7 @@ De landelijke, regionale, netwerk- en lokale radio-omroeporganisaties gebruiken 
 
 ### ART. 136.
 
-De Vlaamse Regering bepaalt de procedure voor de indiening van de erkenningsaanvragen en de termijnen voor het onderzoek en de afhandeling van het dossier. De erkenningsaanvragen worden in het Nederlands ingediend. De Vlaamse Regering kan een door de kandidaten te betalen inschrijvingsgeld en een vergoeding voor het behoud van de erkenning en de zendvergunning, met inbegrip van de te verstrekken financiële waarborg, bepalen.
+De Vlaamse Regering bepaalt de procedure voor de indiening van de erkenningsaanvragen en de termijnen voor het onderzoek en de afhandeling van het dossier. De erkenningsaanvragen worden in het Nederlands ingediend. De Vlaamse Regering kan een door de kandidaten te betalen inschrijvingsgeld en een vergoeding voor het behoud van de erkenning en de zendvergunning, met inbegrip van de te verstrekken financiële waarborg, bepalen.&nbsp;De erkenningen worden toegekend op basis van objectieve, transparante, concurrentiebevorderende, niet-discriminerende en proportionele criteria.
 
 ## Onderafdeling II. Landelijke radio-omroeporganisaties
 
@@ -1086,11 +1098,11 @@ In afwijking van het eerste, tweede en derde lid&nbsp;wordt de Vlaamse Regulator
 
 ### ART. 147.
 
-Particuliere radio-omroeporganisaties die hun omroepprogramma's uitsluitend via een kabel-, ethernetwerk of via het internet doorgeven, worden andere radio-omroeporganisaties genoemd en brengen de Vlaamse Regulator voor de Media daarvan op de hoogte.
+Particuliere radio-omroeporganisaties die hun omroepprogramma's niet via analoge terrestrische radio-omroepnetwerken uitzenden, worden andere radio-omroeporganisaties genoemd en brengen de Vlaamse Regulator voor de Media daarvan op de hoogte.
 
 ### ART. 148.
 
-§ 1. Het maatschappelijk doel van die omroeporganisaties bestaat in het verzorgen van radioprogramma's via een kabelomroepnetwerk, een etheromroepnetwerk, een satellietomroepnetwerk of via het internet. Ze kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van hun maatschappelijk doel.<br>
+§ 1. Het maatschappelijk doel van de omroeporganisaties, vermeld in artikel 147, bestaat in het verzorgen van radioprogramma's om ze ter beschikking te stellen van het publiek en ze te leveren via elektronische communicatienetwerken, met uitsluiting van analoge terrestrische radio-omroepnetwerken. Ze kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van hun maatschappelijk doel.<br>
 <br>
 &nbsp;§ 2. ...
 
@@ -1110,7 +1122,7 @@ Voor elk afzonderlijk omroepprogramma wordt een nieuwe kennisgeving verricht.<br
 <br>
 Elke latere wijziging van die informatie, inzonderheid elke wijziging in de raad van beheer of de raad van bestuur van de omroeporganisatie, wordt zonder verwijl aan de Vlaamse Regulator voor de Media meegedeeld.<br>
 <br>
-§ 3. De kennisgeving, vermeld in paragraaf 2, is niet vereist voor erkende landelijke, regionale, netwerk- en lokale radio-omroeporganisaties die hun programma's via een kabelomroepnetwerk, etheromroepnetwerk, satellietomroepnetwerk of via internet doorgeven.
+§ 3. De kennisgeving, vermeld in paragraaf 2, is niet vereist voor erkende landelijke, regionale, netwerk- en lokale radio-omroeporganisaties die hun programma's doorgeven of beschikbaar stellen via andere elektronische communicatienetwerken dan analoge terrestrische radio-omroepnetwerken.
 
 ## HOOFDSTUK II. Particuliere niet-lineaire radio-omroeporganisaties
 
@@ -1647,11 +1659,11 @@ Heeft de dienstenverdeler zijn keuze voor investering in coproductie van audiovi
 <br>
 De lineaire omroepprogramma's, vermeld in artikel 186, § 1 en § 2, moeten, met het oog op het verzekeren van pluralisme en culturele diversiteit in het aanbod van omroepdiensten en de bijbehorende diensten, onverkort en in hun geheel worden aangeboden. In deze titel worden onder bijbehorende diensten onder meer verstaan : ondertiteling, audiobeschrijving, gebarentaal en auditieve ondertiteling.<br>
 <br>
-§ 1/1. De bepalingen van paragraaf 1 van dit artikel zijn niet van toepassing op dienstenverdelers die toegang hebben tot elektronische communicatienetwerken als gevolg van maatregelen die de Vlaamse Regulator voor de Media heeft opgelegd met toepassing van artikel 192 van dit decreet of als gevolg van een groothandelsovereenkomst tussen dienstenverdelers waarbij de faciliteiten van de ene dienstenverdeler gebruikt worden door de andere zodat die laatste een commercieel aanbod kan definiëren. Die dienstenverdelers kunnen hun programma's doorgeven overeenkomstig artikel 187.<br>
+§ 1/1. De bepalingen van paragraaf 1 van dit artikel zijn niet van toepassing op dienstenverdelers die toegang hebben tot elektronische communicatienetwerken als gevolg van maatregelen die de Vlaamse Regulator voor de Media heeft opgelegd met toepassing van artikel 191 van dit decreet of als gevolg van een groothandelsovereenkomst tussen dienstenverdelers waarbij de faciliteiten van de ene dienstenverdeler gebruikt worden door de andere zodat die laatste een commercieel aanbod kan definiëren. Die dienstenverdelers kunnen hun programma's doorgeven overeenkomstig artikel 187.<br>
 <br>
 § 2. Dienstenverdelers die hun diensten aanbieden over netwerken die niet voor een significant aantal eindgebruikers het belangrijkste middel zijn om televisieomroepprogramma's te ontvangen, kunnen de omroepprogramma's doorgeven overeenkomstig de bepalingen van artikel 187.<br>
 <br>
-§ 3. De netwerken, vermeld in § 1, eerste lid, worden ten minste om de drie jaar, op advies van de Vlaamse Regulator voor de Media, vastgelegd door Vlaamse Regering. De Vlaamse Regering legt die netwerken een eerste maal vast in het kalenderjaar dat volgt op de datum van de inwerkingtreding van dit decreet, en kan die bepaling herzien nadat minstens één jaar verstreken is, en vervolgens elk jaar.
+§ 3. De netwerken, vermeld in § 1, eerste lid, worden ten minste om de vijf jaar, op advies van de Vlaamse Regulator voor de Media, vastgelegd door Vlaamse Regering. De Vlaamse Regering legt die netwerken een eerste maal vast in het kalenderjaar dat volgt op de datum van de inwerkingtreding van dit decreet, en kan die bepaling herzien nadat minstens één jaar verstreken is, en vervolgens elk jaar.
 
 ### ART. 186.
 
@@ -1677,8 +1689,8 @@ De Vlaamse Regering bepaalt de percentages, vermeld in het eerste lid, 2° en 3�
 3° digitale radio-omroepprogramma's van de openbare omroeporganisatie van de Vlaamse Gemeenschap, en radio-omroepprogramma's van de erkende of aangemelde radio-omroeporganisaties;<br>
 4° onverminderd artikel 168, tweede lid, de omroepprogramma's van de door de Vlaamse Gemeenschap erkende regionale televisieomroeporganisaties;<br>
 5° omroepprogramma's van de omroeporganisaties van de Franse en Duitstalige Gemeenschap van België die niet onder de toepassing van paragraaf 1 vallen, en die gericht zijn op de gehele Gemeenschap;<br>
-6° omroepprogramma's van omroeporganisaties die onder de bevoegdheid van een andere lidstaat van de Europese Gemeenschap vallen;<br>
-7° mits vooraf toestemming wordt verleend door de Vlaamse Regulator voor de Media, die in dat verband voorwaarden kan opleggen, de omroepprogramma's van omroeporganisaties die onder de bevoegdheid vallen van een land dat niet tot de Europese Gemeenschap behoort.<br>
+6° omroepprogramma's van omroeporganisaties die onder de bevoegdheid van een andere lidstaat van de Europese Unie en Europese Economische Ruimte vallen;<br>
+7° mits vooraf toestemming wordt verleend door de Vlaamse Regulator voor de Media, die in dat verband voorwaarden kan opleggen, de omroepprogramma's van omroeporganisaties die onder de bevoegdheid vallen van een land dat niet tot de Europese Unie en Europese Economische Ruimte behoort.<br>
 <br>
 § 4. De Vlaamse Regulator voor de Media moet vooraf op de hoogte worden gebracht van de doorgifte van nieuwe omroepprogramma's. De kennisgeving omvat de plaats van uitzending, de plaats van vestiging en de vermelding van het land dat bevoegd is voor de omroeporganisatie.
 
@@ -1691,8 +1703,8 @@ De dienstenverdelers die geen dienstverleners zijn als vermeld in artikel 185, �
 2° /2 onverminderd artikel 168, tweede lid, de omroepprogramma's van de door de Vlaamse Gemeenschap erkende regionale televisieomroeporganisaties;<br>
 3° omroepprogramma's van de openbare omroeporganisaties van de Franse en Duitstalige Gemeenschap van België;<br>
 4° omroepprogramma's van de omroeporganisaties van de Franse en Duitstalige Gemeenschap van België die zich richten tot de gehele gemeenschap;<br>
-5° omroepprogramma's van de omroeporganisaties die onder de bevoegdheid vallen van een andere lidstaat van de Europese Gemeenschap;<br>
-6° mits de Vlaamse Regulator voor de Media, die in dat verband voorwaarden kan opleggen, voorafgaandelijk toestemming verleent, de omroepprogramma's omroeporganisaties die onder de bevoegdheid vallen van een land dat niet tot de Europese Gemeenschap behoort;<br>
+5° omroepprogramma's van de omroeporganisaties die onder de bevoegdheid vallen van een andere lidstaat van de Europese Unie en Europese Economische Ruimte;<br>
+6° mits de Vlaamse Regulator voor de Media, die in dat verband voorwaarden kan opleggen, voorafgaandelijk toestemming verleent, de omroepprogramma's omroeporganisaties die onder de bevoegdheid vallen van een land dat niet tot de Europese Unie en Europese Economische Ruimte behoort;<br>
 7° digitale radio-omroepprogramma's van de openbare omroeporganisatie van de Vlaamse Gemeenschap en radio-omroepprogramma's van de erkende of aangemelde radio-omroeporganisaties.<br>
 <br>
 De Vlaamse Regulator voor de Media moet vooraf op de hoogte worden gebracht van de doorgifte van nieuwe omroepprogramma's. De kennisgeving omvat de plaats van uitzending, de plaats van vestiging en de vermelding van het land dat bevoegd is voor de omroeporganisatie.
@@ -1707,43 +1719,421 @@ Het is een dienstenverdeler verboden andere omroepprogramma's door te geven dan 
 
 ### ART. 189.
 
-De Vlaamse Regulator voor de Media bepaalt de relevante markten en de geografische omvang ervan voor producten en diensten in de sector van de elektronische communicatienetwerken en -diensten.
+De Vlaamse Regulator voor de Media definieert de relevante markten, in het bijzonder de relevante geografische markten, voor producten en diensten in de sector van de elektronische communicatienetwerken en -diensten in de Vlaamse Gemeenschap en houdt daarbij zoveel mogelijk rekening met de Aanbeveling, en met de AMM-richtsnoeren.<br>
+<br>
+Als de Vlaamse Regulator voor de Media een relevante markt definieert die verschilt van de markten die in de Aanbeveling van de Europese Commissie zijn gedefinieerd, legt hij zijn ontwerp voor in een openbare raadpleging als vermeld in artikel 192/14, en brengt hij de Europese Commissie daarvan op de hoogte conform artikel 192/15.
 
 ### ART. 190.
 
-§ 1. Na elke bepaling van de relevante geografische markten voert de Vlaamse Regulator voor de Media een analyse van die markten uit om te bepalen of ze daadwerkelijk concurrerend zijn.<br /><br />§ 2. Als de Vlaamse Regulator voor de Media vaststelt dat een relevante markt daadwerkelijk concurrerend is, kan hij geen enkele van de verplichtingen, vermeld in artikel 192, opleggen of handhaven.<br /><br />§ 3. Als de Vlaamse Regulator voor de Media vaststelt dat een relevante markt niet daadwerkelijk concurrerend is, gaat hij na welke ondernemingen, afzonderlijk of gezamenlijk, op die markt een aanmerkelijke marktmacht hebben, en legt hij waar passend aan die ondernemingen een of meer van de verplichtingen, vermeld in artikel 192, op.<br /><br />Een onderneming wordt geacht een aanmerkelijke marktmacht als vermeld in het eerste lid, te hebben als ze, alleen of samen met andere ondernemingen, een economische kracht bezit die haar in staat stelt zich in belangrijke mate onafhankelijk van haar concurrenten, klanten en consumenten te gedragen. Voor elke relevante markt publiceert de Vlaamse Regulator voor de Media de lijst van ondernemingen met aanmerkelijke marktmacht, met vermelding van de verplichtingen die met toepassing van het eerste lid aan elk van die ondernemingen zijn opgelegd, samen met het specifieke product of met de specifieke dienst en de geografische markten in kwestie.<br /><br />De Vlaamse Regulator voor de Media zorgt ervoor dat actuele informatie, met uitzondering van vertrouwelijke gegevens en bedrijfsgeheimen, openbaar wordt gemaakt op een wijze die waarborgt dat alle belanghebbende partijen gemakkelijk toegang tot die informatie hebben.
+§ 1. De Vlaamse Regulator voor de Media onderzoekt of de relevante markt, die conform artikel 189 wordt bepaald, aan al de volgende voorwaarden voldoet :<br>
+1° er zijn hoge en niet-tijdelijke toegangsbelemmeringen van structurele, wettelijke of reglementaire aard;<br>
+2° er is geen vooruitzicht op daadwerkelijke mededinging binnen de relevante periode, gezien de toestand van de mededinging die op infrastructuur gebaseerd is en andere mededinging die aan de toegangsbelemmeringen ten grondslag ligt;<br>
+3° het mededingingsrecht alleen is niet voldoende om het vastgestelde marktfalen op adequate wijze aan te pakken.<br>
+<br>
+De relevante markten die in de Aanbeveling van de Europese Commissie zijn vermeld, worden geacht te voldoen aan de voorwaarden, vermeld in het eerste lid, tenzij de Vlaamse Regulator voor de Media vaststelt dat niet is voldaan aan een of meer van de voorwaarden, vermeld in het eerste lid, voor de geografische markt in kwestie.<br>
+<br>
+§ 2. Bij het onderzoek, vermeld in paragraaf 1, beoordeelt de Vlaamse Regulator voor de Media ontwikkelingen vanuit een toekomstgericht perspectief indien op die relevante markt geen regelgeving op basis van dit artikel is opgelegd. De Vlaamse Regulator voor de Media houdt bij die beoordeling rekening met elk van de volgende elementen:<br>
+1° marktontwikkelingen die van invloed zijn op de waarschijnlijkheid dat de relevante markt naar daadwerkelijke mededinging neigt;<br>
+2° elke vorm van concurrentiedruk, op wholesaleen op retailniveau, ongeacht de vraag of de bronnen van die druk worden beschouwd als elektronische communicatienetwerken, elektronische communicatiediensten of andere types diensten of toepassingen die vanuit het oogpunt van de eindgebruiker vergelijkbaar zijn, en ongeacht de vraag of die druk deel uitmaakt van de relevante markt;<br>
+3° andere soorten opgelegde regelgeving of maatregelen waardoor de relevante markt dan wel de verwante retailmarkt of -markten gedurende de periode in kwestie worden beïnvloed;<br>
+4° regelgeving die is opgelegd op andere relevante markten.<br>
+<br>
+§ 3. Als de Vlaamse Regulator voor de Media na afloop van het onderzoek, vermeld in paragraaf 1, van oordeel is dat de voorwaarden, vermeld in paragraaf 1, zijn vervuld, identificeert hij de onderneming of ondernemingen met aanmerkelijke marktmacht op de relevante markt.<br>
+<br>
+De Vlaamse Regulator voor de Media kan een onderneming die aanmerkelijke marktmacht bezit op een specifieke markt aanwijzen als onderneming met aanmerkelijke marktmacht op een nauw verwante markt als de koppelingen tussen beide markten zodanig zijn dat de marktmacht op de specifieke markt op de nauw verwante markt zo kan worden gebruikt dat de marktmacht van de onderneming wordt vergroot. De Vlaamse Regulator voor de Media kan correctiemaatregelen opleggen als vermeld in artikel 192/1, 192/2, 192/3 en 192/6, om een dergelijk gebruik op de nauw verwante markt te voorkomen.
 
 ### ART. 191.
 
-De verplichtingen, vermeld in artikel 192, worden niet opgelegd aan ondernemingen die niet zijn aangewezen als ondernemingen met een aanmerkelijke marktmacht.<br>
+§ 1. De Vlaamse Regulator voor de Media legt ondernemingen met aanmerkelijke marktmacht op een relevante markt een of meer van de verplichtingen op, vermeld in artikel 192/1 tot en met 192/7 en in artikel 192/11.<br>
 <br>
-In afwijking van het eerste lid kan de Vlaamse Regulator voor de Media die verplichtingen toch opleggen aan :<br>
-1° ondernemingen die niet zijn aangewezen als ondernemingen met aanmerkelijke marktmacht als dat noodzakelijk is om aan internationale verbintenissen te voldoen;<br>
-2° alle ondernemingen die de toegang tot eindgebruikers controleren, als dat noodzakelijk is om eind-tot-eindverbindingen te waarborgen.<br>
+Op basis van het beginsel van de evenredigheid kiest de Vlaamse Regulator voor de Media voor de minst ingrijpende manier om de problemen aan te pakken die in de marktanalyse, vermeld in artikel 190, zijn geconstateerd.<br>
 <br>
-Aanbieders van elektronische communicatienetwerken kunnen door de Vlaamse Regulator voor de Media verplicht worden, als dat noodzakelijk is om de toegang van eindgebruikers tot gespecificeerde digitale omroepdiensten te waarborgen, toegang tot applicatieprogramma-interfaces en elektronische programmagidsen aan te bieden tegen billijke, redelijke en niet-discriminerende voorwaarden.<br>
+De verplichtingen, vermeld in het eerste lid :<br>
+1° zijn gebaseerd op de aard van het probleem dat de Vlaamse Regulator voor de Media in zijn marktanalyse vastgesteld heeft;<br>
+2° zijn proportioneel en houden als dat mogelijk is rekening met de kosten en de baten;<br>
+3° zijn gerechtvaardigd in het licht van de doelstellingen, vermeld in artikel 223/1;<br>
+4° worden opgelegd na een openbare raadpleging als vermeld in artikel 192/14;<br>
+5° worden meegedeeld conform artikel 192/15.<br>
 <br>
-Ondernemingen die de toegang tot eindgebruikers controleren, kunnen door de Vlaamse Regulator voor de Media, als dat gerechtvaardigd en noodzakelijk is, verplicht worden om hun diensten interoperabel te maken. Die verplichting is objectief, transparant, evenredig en niet-discriminerend.
+De Vlaamse Regulator voor de Media legt de verplichtingen, vermeld in het eerste lid, alleen op aan ondernemingen met aanmerkelijke marktmacht, zonder afbreuk te doen aan :<br>
+1° de noodzaak aan internationale afspraken te voldoen;<br>
+2° de maatregelen die de Vlaamse Regulator voor de Media heeft genomen om een passende toegang, interconnectie en interoperabiliteit van diensten te waarborgen, vermeld in artikel 200/2;<br>
+3° de bepalingen over de persoonlijke levenssfeer in de sector van de elektronische communicatie waarbij verplichtingen worden opgelegd aan andere ondernemingen dan de ondernemingen die aangewezen zijn als onderneming met een aanmerkelijke marktmacht;<br>
+4° de verplichtingen over de colocatie en het gedeelde gebruik van netwerkelementen en de bijbehorende faciliteiten, vermeld in artikel 200, § 1/1;<br>
+5° de verplichtingen over een gescheiden boekhouding voor operatoren die beschikken over uitsluitende of bijzondere rechten in andere sectoren dan die van de elektronische communicatie conform artikel 198, eerste lid, 2°, en artikel 202, eerste lid, 3°.<br>
+<br>
+Binnen het kader van de noodzaak om aan internationale afspraken te voldoen, vermeld in het vierde lid, 1°, brengt de Vlaamse Regulator voor de Media de Europese Commissie op de hoogte van beslissingen om voor ondernemingen geldende verplichtingen op te leggen, te wijzigen of op te heffen volgens de procedure, vermeld in artikel 192/15.<br>
+<br>
+§ 2. Indien de Vlaamse Regulator voor de Media in uitzonderlijke omstandigheden voornemens is aan ondernemingen die zijn aangewezen als ondernemingen met aanmerkelijke marktmacht andere verplichtingen met betrekking tot toegang of interconnectie op te leggen dan die vermeld in artikel 192/1 tot en met 192/7 en artikel 192/11, vraagt hij daarvoor toestemming aan de Europese Commissie.<br>
+<br>
+§ 3. De Vlaamse Regulator voor de Media legt de verplichtingen, vermeld in artikel 192/13, alleen op aan ondernemingen met aanmerkelijke marktmacht op een retailmarkt overeenkomstig artikel 190, § 3, als al de volgende voorwaarden zijn vervuld:<br>
+1° de Vlaamse Regulator voor de Media stelt vast, op basis van een marktanalyse die conform artikel 190, § 1, is uitgevoerd, dat er op de afgebakende retailmarkt niet genoeg mededinging is;<br>
+2° de Vlaamse Regulator voor de Media concludeert dat de verplichtingen, die met toepassing van artikel 192/1 tot en met 192/6 zijn opgelegd, niet zouden leiden tot de verwezenlijking van de doelstellingen, vermeld in artikel 223/1.<br>
+<br>
+§ 4. Als de Vlaamse Regulator voor de Media na afloop van het onderzoek, vermeld in artikel 190, § 1, oordeelt dat de voorwaarden, vermeld in artikel 190, § 1, niet zijn vervuld, legt hij geen enkele verplichting op als vermeld in artikel 192/1 tot en met 192/7 en artikel 192/11, en trekt hij de bestaande verplichtingen in.<br>
+<br>
+De Vlaamse Regulator voor de Media waarborgt dat voor de partijen waarop een dergelijke intrekking van verplichtingen een invloed heeft, een passende opzeggingstermijn in acht wordt genomen die wordt bepaald door een evenwicht tot stand te brengen tussen de volgende aspecten :<br>
+3° de noodzaak om te zorgen voor een duurzame overgang voor de begunstigden van die verplichtingen en de eindgebruikers;<br>
+4° keuze voor de eindgebruikers;<br>
+5° waarborgen dat de regelgeving niet langer van kracht blijft dan noodzakelijk is.<br>
+<br>
+Als de Vlaamse Regulator voor de Media een opzeggingstermijn als vermeld in het tweede lid bepaalt, kan hij bij bestaande overeenkomsten inzake toegang specifieke voorwaarden en opzeggingstermijnen vaststellen. De Vlaamse Regulator stelt de duur en de nadere regels van deze opzeggingstermijnen vast.<br>
+<br>
+§ 5. De Vlaamse Regulator voor de Media neemt de beslissingen, vermeld in paragraaf 1 tot en met 4:<br>
+1° binnen vijf jaar na de aanneming van een vorige beslissing als vermeld in paragraaf 1;<br>
+2° binnen drie jaar na de goedkeuring van een nieuwe Aanbeveling door de Europese Commissie, voor de markten van die aanbeveling waarvoor nog niet eerder een kennisgeving is gedaan bij de Europese Commissie conform artikel 192/15.<br>
+<br>
+Uiterlijk vier maanden vóór de periode, vermeld in het eerste lid, 1°, verstreken is, kan de Vlaamse Regulator voor de Media bij de Europese Commissie een gemotiveerd voorstel indienen om die periode met ten hoogste één jaar te aan elkaar geschreven.<br>
+<br>
+De termijnen, vermeld in het eerste lid, worden met zes maanden verlengd als de Vlaamse Regulator voor de Media de bijstand van<br>
+Berec vraagt bij de voltooiing van de analyse van de markt en de verplichtingen die moeten worden opgelegd.<br>
+<br>
+De marktanalyse en de verplichtingen die conform paragraaf 1 tot en met 4 worden opgelegd, blijven van kracht tot de inwerkingtreding van de volgende marktanalyse.<br>
+<br>
+§ 6. De Vlaamse Regulator voor de Media raadpleegt de Belgische Mededingingsautoriteit in verband met de ontwerpbeslissingen, vermeld in artikel 190, § 3, en in § 4, eerste lid, van dit artikel, om haar advies te krijgen over:<br>
+1° de bepaling van de relevante markt, vermeld in artikel 189, vanuit geografisch oogpunt en vanuit het product;<br>
+2° de beoordeling van de voorwaarden, vermeld in artikel 190, § 1, eerste lid;<br>
+3° de identificatie van de ondernemingen met aanmerkelijke marktmacht op de relevante markt, vermeld in artikel 190, § 3.<br>
+<br>
+De Vlaamse Regulator voor de Media kan de Belgische Mededingingsautoriteit raadplegen over andere onderwerpen met betrekking tot het mededingingsrecht.<br>
+<br>
+Als het advies van de Belgische Mededingingsautoriteit, vermeld in het eerste en tweede lid, dertig dagen na ontvangst van de vraag van de Vlaamse Regulator voor de Media niet is verstrekt, zet de Vlaamse Regulator voor de Media de procedure voort.<br>
+<br>
+§ 7. De Vlaamse Regulator voor de Media houdt rekening met het effect van nieuwe marktontwikkelingen, bijvoorbeeld in verband met commerciële overeenkomsten, met inbegrip van overeenkomsten over mede-investeringen, die invloed hebben op de concurrentiedynamiek. Als de nieuwe marktontwikkelingen niet belangrijk genoeg zijn om aanleiding te geven tot een nieuwe marktanalyse als vermeld in artikel 190, § 1, beoordeelt de Vlaamse Regulator voor de Media onmiddellijk of het nodig is de verplichtingen te evalueren die opgelegd zijn aan de ondernemingen die aangewezen zijn als ondernemingen met een aanmerkelijke marktmacht, en eerdere beslissingen te wijzigen, onder meer door verplichtingen in te trekken of nieuwe verplichtingen op te leggen, om te garanderen dat die verplichtingen blijven voldoen aan de voorwaarden, vermeld in paragraaf 1, derde lid. De gewijzigde verplichtingen mogen pas worden opgelegd na een openbare raadpleging en een mededeling als vermeld in artikel 192/14 en 192/15.
 
 ### ART. 192.
 
-§ 1. De Vlaamse Regulator voor de Media kan aan elke onderneming met aanmerkelijke marktmacht een of meer van de volgende verplichtingen opleggen :<br />1° verplichtingen tot transparantie met betrekking tot interconnectie of toegang. De Vlaamse Regulator voor de Media preciseert in dat verband welke informatie beschikbaar moet worden gesteld, hoe gedetailleerd ze moet zijn en op welke wijze ze moet worden gepubliceerd;<br />2° verplichtingen inzake non-discriminatie met betrekking tot interconnectie of toegang;<br />3° verplichtingen tot het voeren van gescheiden boekhoudingen met betrekking tot bepaalde met interconnectie of toegang verband houdende activiteiten;<br />4° de verplichting te goeder trouw te onderhandelen met ondernemingen die vragen om toegang tot het elektronische communicatienetwerk;<br />5° de verplichting om in te gaan op redelijke verzoeken tot toegang tot en gebruik van bepaalde netwerkonderdelen en bijbehorende faciliteiten, met inbegrip van toegang tot en gebruik van netwerkonderdelen die niet actief zijn, of ontbundelde toegang tot het aansluitnetwerk. Onder toegang wordt verstaan het onder uitdrukkelijke voorwaarden beschikbaar stellen van faciliteiten en/of diensten aan een andere onderneming met het oog op het aanbieden van elektronische communicatiediensten. Die toegang kan op exclusieve basis of op niet-exclusieve basis zijn; <br />6° verplichtingen inzake het terugverdienen van kosten en prijscontrole, inclusief onder meer verplichtingen inzake kostenoriëntering van prijzen en kostentoerekeningssystemen inzake efficiënte kosten en inzake mededingingsbeperkende tarieven.<br /><br />In uitzonderlijke omstandigheden en mits de Europese Commissie toestemming verleent, kan de Vlaamse Regulator voor de Media andere verplichtingen opleggen aan ondernemingen met aanmerkelijke marktmacht dan de verplichtingen, vermeld in het eerste lid. De Vlaamse Regulator voor de Media kan aan de verplichtingen, vermeld in het eerste lid, 4°, 5° en 6°, voorwaarden verbinden met betrekking tot billijkheid, redelijkheid en opportuniteit.<br /><br />§ 2. De overeenkomstig dit artikel opgelegde verplichtingen worden op de aard van het geconstateerde probleem gebaseerd en proportioneel toegepast.<br /><br />§ 3. De overeenkomstig dit artikel opgelegde verplichtingen worden in voorkomend geval opgelegd na openbare raadpleging en in samenwerking met de Europese Commissie, het Orgaan van Europese regelgevende instanties voor elektronische communicatie en met de nationale regelgevende instanties van andere lidstaten. De Vlaamse Regering bepaalt de procedure en de voorwaarden van de openbare raadpleging.
+Bij de transnationale markten die de Europese Commissie heeft omschreven, draagt de Vlaamse Regulator voor de Media, samen met de andere betrokken nationale regulerende instanties zorg voor de uitvoering van de marktanalyse, waarbij de AMM-richtsnoeren maximaal in acht worden genomen. Ze spreken zich op gecoördineerde wijze uit over de volgende elementen :<br>
+1° of er al dan niet van aanmerkelijke marktmacht sprake is;<br>
+2° het opleggen, handhaven, wijzigen of opheffen van de verplichtingen, vermeld in artikel 191, § 1.<br>
+<br>
+De Vlaamse Regulator voor de Media brengt, samen met de andere betrokken nationale regulerende instanties, de Europese Commissie op de hoogte van hun ontwerpmaatregelen betreffende de marktanalyse en van eventuele wettelijke verplichtingen op grond van artikel 192/15.<br>
+<br>
+Als er geen transnationale markten zijn, kan de Vlaamse Regulator voor de Media met een of meer nationale regulerende instanties van andere lidstaten ook samen de Europese Commissie op de hoogte brengen van hun ontwerpmaatregelen betreffende de marktanalyse en van eventuele wettelijke verplichtingen, als ze van mening zijn dat de marktvoorwaarden in hun respectieve rechtsgebieden voldoende homogeen zijn.
 
 ### ART. 192/1.
 
-§ 1. Als de Vlaamse Regulator voor de Media van oordeel is dat de verplichtingen, vermeld in artikel 192, § 1, er niet in geslaagd zijn daadwerkelijke concurrentie tot stand te brengen en dat er belangrijke en blijvende concurrentieproblemen en/of markt -tekortkomingen zijn vastgesteld met betrekking tot het aanbod op groothandelsniveau op bepaalde markten voor toegangsproducten, kan de Vlaamse Regulator voor de Media een verplichting opleggen aan verticaal geïntegreerde ondernemingen om activiteiten die verband houden met het aanbieden van de desbetreffende toegangsproducten op groothandelsniveau in een onafhankelijke bedrijfseenheid te plaatsen via zogenaamde functionele scheiding.<br /><br />De onafhankelijke bedrijfseenheid, vermeld in het eerste lid, moet toegangsproducten en diensten leveren aan alle ondernemingen met inbegrip van andere bedrijfseenheden binnen de moedermaatschappij, binnen dezelfde tijdspanne, onder dezelfde voorwaarden, met inbegrip van de prijs en diensten en door middel van dezelfde systemen en processen.<br /><br />§ 2. Als de Vlaamse Regulator voor de Media een functionele scheiding wil opleggen, dient hij daarvoor een verzoek in bij de Europese Commissie. Dat verzoek bevat het bewijs en een gemotiveerde evaluatie waaruit blijkt dat binnen een redelijke termijn weinig of geen kans is op daadwerkelijke of duurzame concurrentie. Het bevat ook een analyse van de verwachte impact op de regelgevende instantie, op de onderneming, met name op de werknemers van de gescheiden onderneming en op de elektronische communicatiesector als geheel, en op de stimuli om in de sector als geheel te investeren, met name in het kader van de noodzaak om te zorgen voor sociale en territoriale cohesie, en op andere belanghebbenden, met name de verwachte impact op de mededinging op het gebied van infrastructuur en eventuele gevolgen voor de consument en de redenen waarom die verplichting het efficiëntste middel is.<br /><br />§ 3. De ontwerpadviezen omvatten de volgende ontwerpmaatregelen :<br />a) de exacte aard en het niveau van scheiding, waarbij met name de rechtsstatus van de afzonderlijke bedrijfseenheid wordt vermeld;<br />b) de identificatie van de activa van de afzonderlijke bedrijfseenheid en de producten of diensten die door deze eenheid moeten worden geleverd;<br />c) de bestuursregelingen om te zorgen voor de onafhankelijkheid van het personeel dat in dienst is bij de afzonderlijke bedrijfseenheid, en de dienovereenkomstige stimulerende structuur;<br />d) voorschriften om te zorgen voor naleving van de wetgeving;<br />e) voorschriften om te zorgen voor transparantie van de operationele procedures, met name naar de belanghebbenden toe;<br />f) een toezichtprogramma om te zorgen voor naleving met inbegrip van de publicatie van een jaarverslag.<br /><br />§ 4. Naar aanleiding van het besluit van de Commissie inzake de ontwerpmaatregelen die moet worden genomen, voert de Vlaamse Regulator voor de Media, overeenkomstig artikel 190, een gecoördineerde analyse uit van de verschillende markten die verbonden zijn aan het toegangsnetwerk. Op basis van dit onderzoek kan de Vlaamse Regulator voor de Media verplichtingen bepaald in artikel 192 opleggen, handhaven, wijzigen of intrekken.<br /><br />§ 5. Een onderneming waaraan een functionele scheiding wordt opgelegd, kan, als vastgesteld is dat de onderneming aanmerkelijke marktmacht heeft overeenkomstig artikel 190, § 3, tweede lid, op elke specifieke markt onderworpen worden aan de verplichtingen, vermeld in artikel 192, § 1, of aan andere verplichtingen waaraan de Europese Commissie haar toestemming heeft verleend.
+&nbsp;§ 1. De Vlaamse Regulator voor de Media kan conform artikel 191, § 1, verplichtingen inzake transparantie met betrekking tot interconnectie of toegang opleggen op grond waarvan ondernemingen nader genoemde informatie openbaar moeten maken, zoals boekhoudkundige informatie, tarieven, technische specificaties, netwerkkenmerken en verwachte ontwikkelingen daarvan, alsook eisen en voorwaarden voor levering en gebruik, met inbegrip van voorwaarden tot wijziging van de toegang tot of het gebruik van diensten en toepassingen, namelijk wat betreft migratie van legacy-infrastructuur, als die voorwaarden door de lidstaten zijn toegestaan in overeenstemming met het Europese Unierecht.<br>
+<br>
+§ 2. Als voor een onderneming verplichtingen inzake non-discriminatie gelden, kan de Vlaamse Regulator voor de Media van die onderneming eisen dat ze een referentieofferte publiceert die voldoende gespecificeerd is om te garanderen dat de ondernemingen niet hoeven te betalen voor faciliteiten die voor de gewenste dienst niet nodig zijn. Die referentieofferte bevat een beschrijving van de offertes in kwestie, uitgesplitst in diverse elementen naargelang van de marktbehoeften, en van de eisen en voorwaarden die daaraan verbonden zijn, met inbegrip van de tarieven.<br>
+<br>
+De Vlaamse Regulator voor de Media keurt elke nieuwe referentieofferte goed vóór ze wordt gepubliceerd. De Vlaamse Regulator voor de Media kan onder meer eisen dat een referentieofferte wordt gewijzigd om uitvoering te geven aan de verplichtingen, vermeld in dit decreet.<br>
+<br>
+§ 3. De Vlaamse Regulator voor de Media preciseert welke informatie beschikbaar moet worden gesteld, hoe gedetailleerd die informatie moet zijn en op welke wijze die informatie wordt gepubliceerd.<br>
+<br>
+§ 4. Als een onderneming verplichtingen heeft in verband met wholesaletoegang tot netwerkinfrastructuur als vermeld in artikel 192/4 en 192/5, zorgt de Vlaamse Regulator voor de Media ervoor dat een referentieofferte wordt gepubliceerd waarbij zoveel mogelijk rekening wordt gehouden met de richtsnoeren van Berec wat betreft de minimumcriteria voor een referentieofferte. De Vlaamse Regulator voor de Media zorgt ervoor dat in voorkomend geval kernprestatie-indicatoren en de bijbehorende dienstverleningsniveaus worden vastgesteld en hij ziet toe op de naleving ervan.<br>
+<br>
+Daarnaast legt de Vlaamse Regulator voor de Media zo nodig bij voorbaat de boetebedragen voor het niet naleven van de kernprestatie-indicatoren en de bijbehorende dienstverleningsniveaus vast conform het recht van de Europese Unie en het nationale recht.
 
 ### ART. 192/2.
 
-§ 1. Ondernemingen waarvan is vastgesteld dat zij een aanmerkelijke marktmacht hebben, brengen de Vlaamse Regulator voor de Media vooraf en op tijd op de hoogte als ze van plan zijn hun plaatselijke toegangsnetwerkactiva, of een belangrijk deel ervan, over te dragen aan een afzonderlijke rechtspersoon met een verschillende eigenaar, of om een afzonderlijke bedrijfseenheid op te richten om alle kleinhandelaren, met inbegrip van de eigen kleinhandelsafdelingen, al dan niet volledige equivalente toegangsproducten aan te bieden.<br /><br />De ondernemingen, vermeld in het eerste lid, brengen de Vlaamse Regulator voor de Media op de hoogte van elke verandering van het voornemen, vermeld in het eerste lid, en van het eindresultaat van het scheidingsproces.<br /><br />§ 2. De Vlaamse Regulator voor de Media onderzoekt welk effect de voorgenomen transactie zal hebben op de bestaande regelgevende verplichtingen op grond van dit decreet. Daartoe voert hij een gecoördineerde analyse uit van de verschillende markten die verbonden zijn aan het toegangsnetwerk volgens de procedure, vermeld in artikel 190. Op basis van dat onderzoek kan de Vlaamse Regulator voor de Media verplichtingen opleggen, handhaven, wijzigen of intrekken volgens de voorwaarden, vermeld in artikel 192, § 3.<br /><br />§ 3. De juridisch of operationeel gescheiden bedrijfseenheden kunnen op elke specifieke markt onderworpen worden aan de verplichtingen, vermeld in artikel 192, § 1, of aan andere verplichtingen waarvoor de Europese Commissie toestemming heeft verleend, als is vastgesteld dat de onderneming aanmerkelijke marktmacht heeft overeenkomstig artikel 190, § 3, tweede lid.
+In het kader van de toepassing van artikel 190, § 3, en artikel 191, § 1, kan de Vlaamse Regulator verplichtingen inzake non-discriminatie met betrekking tot interconnectie of toegang opleggen.
 
 ### ART. 192/3.
 
-§ 1. Als een onderneming op een eerste specifieke markt aanmerkelijke marktmacht bezit, kan ze worden aangewezen als een onderneming met een aanmerkelijke marktmacht op een nauw verwante tweede markt als de marktmacht op de eerste markt kan worden gebruikt om de marktmacht van de onderneming op de tweede markt te vergroten.<br /><br />Om te vermijden dat ondernemingen naar meer macht op de tweede markt streven, kan de Vlaamse Regulator voor de Media de verplichtingen, vermeld in artikel 192, § 1, opleggen aan die ondernemingen.<br /><br />§ 2. Als de oplossingen en maatregelen die genomen worden met toepassing van paragraaf 1, tweede lid, ontoereikend zijn, kan de Vlaamse Regulator voor de Media de volgende maatregelen opleggen op de eindgebruikersmarkt :<br />1° de onderneming mag geen buitensporige prijzen vragen;<br />2° de toegang tot de markt mag niet belemmerd worden;<br />3° de mededinging mag niet beperkt worden door middel van afbraakprijzen;<br />4° er mag geen ongegronde voorkeur voor bepaalde eindgebruikers aan de dag worden gelegd;<br />5° diensten mogen niet op een onredelijke wijze gebundeld worden.<br /><br />Om de belangen van de eindgebruiker te beschermen en om daadwerkelijke mededinging te stimuleren, kan de Vlaamse Regulator voor de Media aan dergelijke ondernemingen de volgende maatregelen opleggen :<br />1° passende prijsplafonds;<br />2° de verplichting om individuele tarieven te controleren; <br />3° de verplichting om de tarieven af te stemmen op de kosten of prijzen op vergelijkbare markten.<br /><br />Als een onderneming onderworpen is aan regulering van de eindgebruikerstarieven of aan andere desbetreffende controles van de eindgebruikerstarieven, zorgt de Vlaamse Regulator voor de Media ervoor dat de noodzakelijke en geëigende kostentoerekeningssystemen worden toegepast. De Vlaamse Regulator voor de Media bepaalt welk model en welke boekhoudkundige methode moeten worden gehanteerd. Een erkende bedrijfsrevisor, aangewezen door de onderneming, ziet toe op de inachtneming van het kostentoerekeningssysteem. De onderneming draagt de kosten van de erkende bedrijfsrevisor. De Vlaamse Regulator voor de Media publiceert ieder jaar een verklaring over de inachtneming van deze bepalingen.
+In het kader van de toepassing van artikel 191, § 1, kan de Vlaamse Regulator voor de Media het voeren van gescheiden boekhoudingen voorschrijven voor bepaalde activiteiten die met interconnectie of toegang verband houden.<br>
+<br>
+De Vlaamse Regulator kan van een verticaal geïntegreerde onderneming eisen dat deze opening van zaken geeft over haar wholesaleprijzen en verrekenprijzen, onder andere om ervoor te zorgen dat de non-discriminatievoorschriften, vermeld in artikel 192/2, nageleefd worden of om, als dat nodig is, onbillijke kruissubsidiering te voorkomen.<br>
+<br>
+De Vlaamse Regulator voor de Media bepaalt welk boekhoudkundig model en welke boekhoudkundige methode de onderneming, vermeld in het tweede lid, gebruikt.<br>
+<br>
+De onderneming wijst een erkende bedrijfsrevisor aan die op kosten van de onderneming toeziet op de naleving van de beslissingen, vermeld in het eerste tot en met het derde lid. Nadat die erkende bedrijfsrevisor een rapport heeft opgesteld, maakt de Vlaamse Regulator voor de Media ieder jaar een verklaring bekend over de inachtneming van de verplichting om gescheiden boekhoudingen te voeren en om de nadere regels die daarbij horen, na te leven.<br>
+<br>
+§ 2. De Vlaamse Regulator voor de Media kan alle boekhoudkundige documenten, met inbegrip van gegevens over van derden ontvangen inkomsten, opvragen om het toezicht op de naleving van verplichtingen inzake transparantie en non-discriminatie te vergemakkelijken. De Vlaamse Regulator voor de Media bepaalt de termijn waarin de documenten worden verstrekt.<br>
+<br>
+De Vlaamse Regulator voor de Media mag informatie publiceren die bijdraagt tot een open en concurrentiegerichte markt, met inachtneming van de regels inzake vertrouwelijkheid van de bedrijfsgegevens, vermeld in artikel 235, § 2.
 
 ### ART 192/4.
 
-Om een achteruitgang van de dienstverlening en een belemmering of vertraging van het verkeer over de netwerken te voorkomen, kan de Vlaamse Regulator voor de Media minimumvoorschriften voor de kwaliteit van de diensten opleggen aan de aanbieders van elektronische communicatienetwerken. De Vlaamse Regulator voor de Media bezorgt de Europese Commissie geruime tijd voor de vaststelling van die voorschriften een samenvatting van de redenen voor optreden, de geplande voorschriften en de voorgestelde aanpak. Die informatie wordt ook aan het Orgaan van Europese regelgevende instanties voor elektronische communicatie (BEREC) ter beschikking gesteld. De Vlaamse Regulator voor de Media houdt zo veel mogelijk rekening met de opmerkingen en aanbevelingen van de Europese Commissie.
+De Vlaamse Regulator voor de Media kan conform artikel 191, § 1, ondernemingen verplichten om in te gaan op redelijke verzoeken om toegang tot en gebruik van civieltechnische voorzieningen, met inbegrip van, maar niet beperkt tot, gebouwen of toegangen tot gebouwen, kabels in gebouwen inclusief bedrading, antennes, torens en andere ondersteuningsgebouwen, palen, masten, kabelgoten, leidingen, inspectieputten, mangaten en straatkasten, als de Vlaamse Regulator voor de Media op basis van de marktanalyse concludeert dat het weigeren van toegang of het verlenen van toegang onder onredelijke voorwaarden met hetzelfde effect de ontwikkeling belemmert van een markt die gekenmerkt is door duurzame concurrentie, en niet in het belang van de eindgebruiker is.<br>
+<br>
+De Vlaamse Regulator voor de Media mag een onderneming verplichten om toegang te verlenen conform dit artikel, ongeacht of de activa die door de verplichtingen worden beïnvloed, deel uitmaken van de betrokken markt in overeenstemming met de marktanalyse, op voorwaarde dat de verplichting noodzakelijk en evenredig is met het oog op de verwezenlijking van de doelstellingen, vermeld in artikel 223/1.
+
+### ART 192/5.
+
+§ 1. Conform artikel 191, § 1, kan de Vlaamse Regulator voor de Media ondernemingen verplichten om in te gaan op redelijke verzoeken om toegang tot en gebruik van specifieke netwerkelementen en bijbehorende faciliteiten, onder andere als de Vlaamse Regulator voor de Media van mening is dat het weigeren van toegang of het opleggen van onredelijke voorwaarden met hetzelfde effect de ontwikkeling van een retailmarkt die gekenmerkt is door duurzame concurrentie, belemmert of niet in het belang van de eindgebruiker is.<br>
+<br>
+De Vlaamse Regulator voor de Media kan ondernemingen onder meer de volgende verplichtingen opleggen :<br>
+1° derden toegang verlenen tot en hun het gebruik toestaan van specifieke fysieke netwerkelementen en bijbehorende faciliteiten, in voorkomend geval met inbegrip van ontbundelde toegang tot het aansluitnetwerk en subnetwerk;<br>
+2° derden toegang verlenen tot specifieke actieve of virtuele netwerkelementen en -diensten;<br>
+3° te goeder trouw onderhandelen met ondernemingen die verzoeken om toegang;<br>
+4° toegang tot faciliteiten die al verleend is, niet intrekken;<br>
+5° op wholesalebasis specifieke diensten aanbieden voor doorverkoop door derden;<br>
+6° open toegang verlenen tot technische interfaces, protocollen of andere kerntechnologieën die onmisbaar zijn voor de interoperabiliteit van diensten of virtuele netwerkdiensten;<br>
+7° colocatie of andere vormen van gedeeld gebruik van bijbehorende faciliteiten aanbieden;<br>
+8° specifieke diensten aanbieden die nodig zijn voor de interoperabiliteit van de eind-tot-einddiensten die aan gebruikers worden geleverd;<br>
+9° toegang verlenen tot operationele ondersteuningssystemen of vergelijkbare softwaresystemen die nodig zijn om billijke concurrentie bij het aanbieden van diensten te waarborgen;<br>
+10° zorgen voor interconnectie van netwerken of netwerkfaciliteiten;<br>
+11° toegang verschaffen aan verwante diensten zoals identiteit, locatie en presentie-informatiediensten.<br>
+<br>
+De Vlaamse Regulator voor de Media kan de verplichtingen, vermeld in het tweede lid, aan voorwaarden aangaande billijkheid, redelijkheid en opportuniteit onderwerpen.<br>
+<br>
+§ 2. Als de Vlaamse Regulator voor de Media overweegt of het passend is om een of meer van de verplichtingen, vermeld in paragraaf 1, op te leggen, in het bijzonder als hij onderzoekt, in overeenstemming met het evenredigheidsbeginsel, of en hoe dergelijke verplichtingen moeten worden opgelegd, analyseert de Vlaamse Regulator voor de Media of andere vormen van toegang tot wholesale-inputs op dezelfde of een verwante wholesalemarkt voldoende zouden zijn om het geconstateerde probleem in het belang van de eindgebruikers aan te pakken. Die beoordeling omvat commerciële aanbiedingen inzake toegang, gereguleerde toegang op grond van artikel 200/2 of bestaande dan wel geplande gereguleerde toegang tot andere wholesale-inputs op grond van dit artikel. De Vlaamse Regulator voor de Media houdt met volgende elementen rekening :<br>
+1° de technische en economische levensvatbaarheid van het gebruik of de installatie van concurrerende faciliteiten, in het licht van het tempo van de marktontwikkeling, rekening houdend met de aard van en het soort interconnectie of toegang, inclusief de levensvatbaarheid van andere toeleveringsproducten zoals toegang tot kabelgoten;<br>
+2° de verwachte technologische ontwikkeling die van invloed is op het ontwerp en het beheer van netwerken;<br>
+3° de noodzaak om technologieneutraliteit te waarborgen om de partijen in staat te stellen hun eigen netwerken te ontwerpen en te beheren;<br>
+4° de haalbaarheid van de aangeboden toegangsverlening, rekening houdend met de beschikbare capaciteit;<br>
+5° de initiële investering die de eigenaar van de faciliteit heeft gedaan, rekening houdend met de verrichte overheidsinvesteringen en de risico's die aan de investering verbonden zijn, in het bijzonder rekening houdend met investeringen in netwerken met zeer hoge capaciteit en de risiconiveaus voor die netwerken;<br>
+6° de noodzaak om op lange termijn de concurrentie in stand te houden, met speciale aandacht voor economisch doeltreffende concurrentie op basis van de infrastructuur en innovatieve bedrijfsmodellen die bevorderlijk zijn voor duurzame concurrentie, zoals de modellen op basis van mede-investeringen in netwerken;<br>
+7° in voorkomend geval, de intellectuele-eigendomsrechten die van toepassing zijn;<br>
+8° het verlenen van pan-Europese diensten.<br>
+<br>
+§ 3. Als de Vlaamse Regulator voor de Media conform artikel 191, § 1, overweegt om verplichtingen op grond van artikel 192/4 of van dit artikel op te leggen, onderzoekt hij of louter de oplegging van verplichtingen conform artikel 192/4 een evenredig middel is om de concurrentie en de belangen van de eindgebruiker te bevorderen.<br>
+<br>
+§ 4. Als een onderneming in overeenstemming met de bepalingen van dit artikel verplicht wordt om toegang te verlenen, kan de Vlaamse Regulator voor de Media technische of operationele voorwaarden opleggen aan de aanbieder of de gebruikers van die toegang als dat nodig is om de normale werking van het netwerk te garanderen. Verplichtingen om specifieke technische normen of specificaties te volgen, zijn in overeenstemming met de normen en specificaties die de Europese Commissie vaststelt.
+
+### ART 192/6.
+
+§ 1. De Vlaamse Regulator voor de Media kan conform artikel 191, § 1, verplichtingen inzake het terugverdienen van kosten en prijscontrole opleggen, inclusief verplichtingen inzake kostenoriëntering van prijzen en kostentoerekeningssystemen, voor het verlenen van specifieke interconnectie- en/of toegangstypes, als uit een marktanalyse blijkt dat de onderneming in kwestie de prijzen door het ontbreken van werkelijke concurrentie op een buitensporig hoog peil kan handhaven of de marges kan uithollen, ten nadele van de eindgebruikers.<br>
+<br>
+Als de Vlaamse Regulator voor de Media bepaalt of verplichtingen inzake prijscontrole passend zijn, houdt hij rekening met de noodzaak om de mededinging te bevorderen en met de belangen van de eindgebruikers op lange termijn op het gebied van de implementatie en de toepassing van nieuwe generatienetwerken, en met name van netwerken met zeer hoge capaciteit. De Vlaamse Regulator voor de Media houdt rekening met de investeringen die de onderneming heeft gedaan, in het bijzonder om investeringen aan te moedigen, ook in nieuwe generatienetwerken. Als de Vlaamse Regulator voor de Media van mening is dat verplichtingen inzake prijscontrole passend zijn, laat hij toe dat de onderneming een redelijke opbrengst krijgt uit haar kapitaalinbreng, waarbij hij de specifieke risico's van een bepaald nieuw netwerkproject waarin wordt geïnvesteerd in aanmerking neemt.<br>
+<br>
+De Vlaamse Regulator voor de Media kan beslissen om geen verplichtingen op grond van dit artikel op te leggen of in stand te houden als hij vaststelt dat er sprake is van een aantoonbare retailprijsbeperking en dat een verplichting die conform artikel 192/1 tot en met 192/5 is opgelegd, inclusief een economische-repliceerbaarheidstoets die conform artikel 192/2 is opgelegd, voor effectieve en niet-discriminerende toegang zorgt.<br>
+<br>
+Als de Vlaamse Regulator voor de Media beslist om verplichtingen inzake prijscontrole op te leggen betreffende toegang tot bestaande netwerkelementen, houdt hij ook rekening met de voordelen van voorspelbare en stabiele wholesaleprijzen ten aanzien van het waarborgen van efficiënte markttoegang en afdoende stimulansen die erop gericht zijn dat alle ondernemingen nieuwe en verbeterde netwerken uitrollen.<br>
+<br>
+§ 2. De Vlaamse Regulator voor de Media ziet erop toe dat regelingen om kosten terug te verdienen, en tariferingsmethoden die worden opgelegd, erop gericht zijn de uitrol van nieuwe en verbeterde netwerken alsmede de efficiëntie en duurzame concurrentie te bevorderen en de eindgebruiker maximaal en op duurzame wijze voordeel te bieden. In dat verband kan de Vlaamse Regulator voor de Media ook rekening houden met beschikbare prijzen van vergelijkbare concurrerende markten.<br>
+<br>
+§ 3. Als voor een onderneming een verplichting inzake kostenoriëntering van haar tarieven geldt, is het aan haar om aan te tonen dat de tarieven worden bepaald op basis van de kosten, verhoogd met een redelijk investeringsrendement. Om de kosten die verbonden zijn aan efficiënte dienstverlening, te berekenen, kan de Vlaamse Regulator voor de Media boekhoudkundige kostenberekeningsmethoden gebruiken die losstaan van de methoden die de onderneming gebruikt. De Vlaamse Regulator voor de Media kan een onderneming verplichten volledige verantwoording af te leggen over haar tarieven en die onderneming verplichten om die tarieven aan te passen als dat nodig is.<br>
+<br>
+§ 4. De Vlaamse Regulator voor de Media zorgt ervoor dat, als de invoering van een kostentoerekeningssysteem verplicht wordt gesteld met het oog op prijscontrole, een beschrijving van dat systeem voor het publiek beschikbaar wordt gesteld waarin ten minste de hoofdcategorieën waarin de kosten worden ingedeeld, en de regels voor de toerekening van de kosten worden vermeld. De inachtneming van het kostentoerekeningssysteem wordt op kosten van de onderneming geverifieerd door een erkende revisor, die elk jaar een verklaring van overeenstemming opstelt die de Vlaamse Regulator voor de Media publiceert.
+
+### ART 192/7.
+
+§ 1. Ondernemingen die conform artikel 190 zijn aangewezen als ondernemingen met aanmerkelijke marktmacht in een of meer relevante markten, kunnen conform de procedure, vermeld in artikel 192/10, en conform de voorwaarden, vermeld in het tweede lid, afspraken aanbieden om de uitrol van een nieuw netwerk met zeer hoge capaciteit dat tot aan de gebouwen van de eindgebruiker of het basisstation uit optischevezelcomponenten bestaat, open te stellen voor mede-investeringen door andere aanbieders van elektronische communicatienetwerken of -diensten.<br>
+<br>
+Als de Vlaamse Regulator voor de Media de afspraken, vermeld in het eerste lid, evalueert, gaat hij na of het aanbod van mede-investeringen voldoet aan elk van de volgende voorwaarden :<br>
+1° het aanbod geldt op elk moment van de levensduur van het netwerk voor alle aanbieders van elektronische communicatienetwerken of -diensten;<br>
+2° het aanbod biedt andere mede-investeerders die aanbieders van elektronische communicatienetwerken of -diensten zijn, de mogelijkheid om daadwerkelijk en duurzaam te concurreren in downstreammarkten waarop de onderneming die als onderneming met aanmerkelijke marktmacht aangewezen is, actief is, onder voorwaarden die onder meer het volgende omvatten :<br>
+a) billijke, redelijke en niet-discriminerende voorwaarden die toegang bieden tot de volledige capaciteit van het netwerk voor zover de mede-investering ervoor geldt;<br>
+b) flexibiliteit wat betreft de waarde en looptijd van de deelname van elke mede-investeerder;<br>
+c) de mogelijkheid om die deelname in de toekomst uit te breiden;<br>
+d) wederzijdse rechten die de mede-investeerders verlenen na de uitrol van infrastructuur die is medegefinancierd;<br>
+3° de onderneming maakt het aanbod tijdig bekend en, als de onderneming niet voldoet aan de voorwaarden, vermeld in artikel 192/11, eerste lid, maakt ze het aanbod ten minste zes maanden voor de uitrol van het nieuwe netwerk bekend. De termijn kan op grond van nationale omstandigheden worden verlengd;<br>
+4° toegang vragende partijen die niet deelnemen aan de mede-investering, kunnen van bij de aanvang genieten van dezelfde kwaliteit, snelheid en voorwaarden en hetzelfde eindgebruikersbereik als beschikbaar vóór de uitrol, samen met een mechanisme van aanpassing in de tijd dat door de Vlaamse Regulator voor de Media wordt bevestigd in het licht van de ontwikkelingen op de relevante retailmarkten, en dat de prikkels voor de deelname aan de mede-investeringen in stand houdt. Dat mechanisme zorgt ervoor dat partijen die toegang vragen, toegang krijgen tot de elementen met zeer hoge capaciteit van het netwerk, en dit op een tijdstip en op basis van transparante en niet-discriminerende voorwaarden die passen bij de risiconiveaus waaraan de diverse medeinvesteerders in verschillende stadia van de uitrol zijn blootgesteld en met inachtneming van de mededingingscontext op de retailmarkten;<br>
+5° het aanbod voldoet ten minste aan de criteria, vermeld in paragraaf 5, en is te goeder trouw gedaan.<br>
+<br>
+§ 2. Als de Vlaamse Regulator voor de Media, rekening houdend met de resultaten van de markttoets die conform artikel 192/10, § 2, is uitgevoerd, constateert dat de aangeboden mede-investeringsafspraak voldoet aan de voorwaarden, vermeld in paragraaf 1, maakt hij die afspraak bindend conform artikel 192/10, § 3, en legt hij met betrekking tot de elementen van het nieuwe netwerk met zeer hoge capaciteit die onder de afspraken vallen, geen extra verplichtingen op grond van artikel 191, § 1, op, op voorwaarde dat ten minste één potentiële mede-investeerder een overeenkomst over mede-investering heeft gesloten met de onderneming die als onderneming met aanmerkelijke marktmacht aangewezen is.<br>
+<br>
+Het eerste lid doet geen afbreuk aan de toepassing van de regelgeving op omstandigheden die niet voldoen aan de voorwaarden van paragraaf 1, rekening houdend met de resultaten van eventueel conform artikel 192/10, § 2, uitgevoerde markttoetsen, maar die de mededinging beïnvloeden en in aanmerking worden genomen voor de toepassing van artikel 190 en 191.<br>
+<br>
+In afwijking van het eerste lid kan de Vlaamse Regulator voor de Media in naar behoren gerechtvaardigde omstandigheden conform artikel 191 tot en met 192/6 oplossingen opleggen, in stand houden of aanpassen met betrekking tot nieuwe netwerken met zeer hoge capaciteit om significante problemen met de mededinging op specifieke markten aan te pakken, als de Vlaamse Regulator voor de Media constateert dat die problemen met de mededinging, gelet op de bijzondere eigenschappen van die markten, anders niet zouden worden aangepakt.<br>
+<br>
+§ 3. De Vlaamse Regulator voor de Media monitort voortdurend de naleving van de voorwaarden, vermeld in paragraaf 1, en kan de onderneming die is aangewezen als een onderneming met aanmerkelijke marktmacht, ertoe verplichten jaarlijkse nalevingsverklaringen in te dienen. Dit artikel doet geen afbreuk aan de bevoegdheid van de Vlaamse Regulator voor de Media om beslissingen te nemen op grond van artikel 220/1 als zich een geschil voordoet tussen ondernemingen in verband met een overeenkomst inzake mede-investeringen op grond waarvan ze worden geacht te voldoen aan de voorwaarden, vermeld in paragraaf 1.<br>
+<br>
+§ 4. Bij de toepassing van dit artikel houdt de Vlaamse Regulator voor de Media rekening met de richtsnoeren van Berec ter bevordering van de consistente toepassing door de nationale regulerende instanties van de voorwaarden, vermeld in paragraaf 1, en de criteria, vermeld in paragraaf 5.<br>
+<br>
+§ 5. Als de Vlaamse Regulator voor de Media een aanbieding betreffende mede-investeringen op grond van paragraaf 1 beoordeelt, controleert hij of ten minste aan de volgende criteria is voldaan :<br>
+1° de aanbieding betreffende mede-investeringen staat op niet-discriminerende basis open voor alle ondernemingen gedurende de levensduur van het netwerk dat door middel van een aanbieding betreffende mede-investeringen is aangelegd. De onderneming die is aangewezen als onderneming met aanmerkelijke marktmacht, kan in de aanbieding redelijke voorwaarden betreffende de financiële capaciteit van ondernemingen opnemen;<br>
+2° de aanbieding betreffende mede-investeringen is transparant, namelijk:<br>
+a) de aanbieding is beschikbaar en gemakkelijk te vinden op de website van de onderneming die is aangewezen als onderneming met aanmerkelijke marktmacht;<br>
+b) de volledige voorwaarden, inclusief alle bijzonderheden, worden ter beschikking gesteld van alle potentiële bieders die belangstelling voor de aanbieding hebben, met inbegrip van de rechtsvorm van de overeenkomst betreffende mede-investering en, als dat relevant is, de belangrijkste governancevoorschriften van het mede-investeringsvehikel;<br>
+c) het proces, waaronder het stappenplan voor de oprichting en ontwikkeling van het mede-investeringsproject, wordt van tevoren vastgesteld, wordt op duidelijke wijze schriftelijk aan alle potentiële mede-investeerders uiteengezet, en alle significante mijlpalen worden op niet-discriminerende wijze aan alle ondernemingen meegedeeld;<br>
+3° de aanbieding betreffende mede-investeringen omvat voorwaarden voor potentiële investeerders op basis waarvan duurzame mededinging op lange termijn wordt bevorderd, namelijk :<br>
+a) aan alle ondernemingen worden billijke, redelijke en niet-discriminerende voorwaarden aangeboden voor de deelname aan een overeenkomst betreffende de mede-investering naargelang van het tijdstip waarop ze partij worden, onder meer voorwaarden betreffende een verplichte financiële bijdrage voor de verwerving van specifieke rechten, voorwaarden betreffende de bescherming van de mede-investeerders op grond van die rechten, zowel tijdens de aanlegfase als tijdens de exploitatiefase, en voorwaarden betreffende de deelname aan en eventuele opzegging van de overeenkomst betreffende mede-investering. Niet-discriminerende voorwaarden houden in dit verband niet in dat aan alle potentiele mede-investeerders precies dezelfde voorwaarden, met inbegrip van financiële voorwaarden, worden aangeboden, maar dat alle varianten van de aangeboden voorwaarden gerechtvaardigd zijn op basis van dezelfde objectieve, transparante, niet-discriminerende en voorspelbare criteria, zoals het aantal vastgelegde eindgebruikerslijnen;<br>
+b) de aanbieding voorziet in flexibiliteit wat betreft de waarde en looptijd van de verbintenissen die elke mede-investeerder aangaat. Bij de vaststelling van de financiële bijdrage die elke mede-investeerder levert, wordt rekening gehouden met het feit dat vroege investeerders grotere risico's lopen en eerder kapitaal inbrengen;<br>
+c) een geleidelijk toenemende premie wordt als gerechtvaardigd beschouwd voor verbintenissen die in een later stadium worden aangegaan en voor nieuwe mede-investeerders die instappen in de mede-investering nadat het project van start is gegaan, zodat rekening wordt gehouden met afnemende risico's en wordt voorkomen dat er prikkels van uitgaan om kapitaal niet in een vroeg stadium in te brengen;<br>
+d) de overeenkomst betreffende de mede-investering staat toe dat mede-investeerders verkregen rechten overdragen aan andere mede-investeerders of aan derden die bereid zijn partij te worden bij de overeenkomst betreffende de mede-investering, op voorwaarde dat de overnemende partij verplicht wordt om alle oorspronkelijke verplichtingen na te leven die in het kader van de overeenkomst betreffende de mede-investering aan de overdragende partij zijn opgelegd;<br>
+e) de mede-investeerders verlenen elkaar onder billijke en redelijke voorwaarden wederzijdse rechten betreffende toegang tot de infrastructuur waarop de mede-investering betrekking heeft, met als doel het downstream aanbieden van diensten, onder meer aan eindgebruikers, overeenkomstig transparante voorwaarden die duidelijk zijn vastgelegd in de aanbieding betreffende mede-investeringen en de daaropvolgende overeenkomst, met name als de mede-investeerders individueel en afzonderlijk verantwoordelijk zijn voor de implementatie van specifieke onderdelen van het netwerk. Als een mede-investeringsvehikel wordt gecreëerd, voorziet dat, direct of indirect, in toegang tot het netwerk voor alle mede-investeerders, op basis van de gelijkwaardigheid van inputs en onder billijke en redelijke voorwaarden, met inbegrip van financiële voorwaarden waarin rekening is gehouden met de verschillende risiconiveaus die de afzonderlijke mede-investeerders aanvaarden;<br>
+4° met de aanbieding betreffende mede-investeringen wordt een duurzame investering gewaarborgd waarmee waarschijnlijk tegemoetgekomen wordt aan toekomstige behoeften doordat nieuwe netwerkelementen worden geïmplementeerd die aanzienlijk bijdragen tot de implementatie van netwerken met een zeer hoge capaciteit.<br>
+<br>
+De Vlaamse Regulator voor de Media kan naast de criteria, vermeld in het eerste lid, aanvullende criteria bepalen als die noodzakelijk zijn om te zorgen voor toegankelijkheid voor potentiële investeerders van de mede-investering, in het licht van specifieke plaatselijke omstandigheden en van de marktstructuur.
+
+### ART 192/8.
+
+§ 1. Als de Vlaamse Regulator voor de Media beslist dat de passende verplichtingen die zijn opgelegd met toepassing van artikel 192/1 tot en met 192/6, er niet in geslaagd zijn daadwerkelijke concurrentie tot stand te brengen en dat er belangrijke en blijvende concurrentieproblemen of markttekortkomingen zijn vastgesteld met betrekking tot het aanbod op wholesaleniveau op bepaalde markten voor toegangsproducten, kan hij bij wijze van uitzonderlijke maatregel een verplichting opleggen aan een verticaal geïntegreerde onderneming om haar activiteiten die verband houden met het aanbieden van de desbetreffende toegangsproducten op wholesaleniveau, in een onafhankelijk opererende bedrijfseenheid te plaatsen.<br>
+<br>
+De onafhankelijk opererende bedrijfseenheid, vermeld in het eerste lid, levert toegangsproducten en -diensten aan alle ondernemingen, met inbegrip van andere bedrijfseenheden binnen de moedermaatschappij. Ze doet dat binnen dezelfde tijdspanne en tegen dezelfde voorwaarden, met inbegrip van de prijs en de kwaliteit van de dienstverlening, en door middel van dezelfde systemen en processen.<br>
+<br>
+§ 2. Als de Vlaamse Regulator voor de Media het voornemen heeft om functionele scheiding verplicht te stellen, dient hij daarvoor een verzoek in bij de Europese Commissie. Dat verzoek bevat al de volgende gegevens :<br>
+1° een bewijs dat de beslissing van de Vlaamse Regulator voor de Media, vermeld in paragraaf 1, rechtvaardigt;<br>
+2° een gemotiveerde evaluatie die besluit dat er binnen een redelijke termijn weinig of geen kans is op daadwerkelijke en duurzame concurrentie die op infrastructuur gegrond is;<br>
+3° een analyse van de verwachte impact op de volgende actoren en aspecten :<br>
+a) de Vlaamse Regulator voor de Media;<br>
+b) de onderneming, met name op de werknemers van de gescheiden bedrijfseenheid;<br>
+c) de elektronischecommunicatiesector als geheel;<br>
+d) de stimuli om te investeren in de elektronischecommunicatiesector, vermeld in punt c), met name in verband met de noodzaak om voor sociale en territoriale cohesie te zorgen;<br>
+e) andere belanghebbenden, met name de verwachte impact op de mededinging op het gebied van infrastructuur en eventuele gevolgen voor de consument die daaruit voortvloeien;<br>
+4° een analyse van de redenen waarom die verplichting het efficiëntste middel is om de geïdentificeerde mededingingsproblemen of de markttekortkomingen op te lossen.<br>
+<br>
+§ 3. De ontwerpmaatregel, vermeld in paragraaf 2, omvat de volgende elementen :<br>
+1° de exacte aard en het niveau van scheiding, waarbij de rechtsstatus van de afzonderlijke bedrijfseenheid wordt vermeld;<br>
+2° de identificatie van de activa van de afzonderlijke bedrijfseenheid en de producten of diensten die die eenheid moet leveren;<br>
+3° de bestuursregelingen om te zorgen voor de onafhankelijkheid van het personeel dat in dienst is bij de afzonderlijke bedrijfseenheid, en de overeenkomstige stimulerende maatregelen;<br>
+4° voorschriften om te zorgen voor de naleving van de verplichtingen;<br>
+5° voorschriften om te zorgen voor transparantie van de operationele procedures voor de belanghebbenden;<br>
+6° een toezichtprogramma om te zorgen voor naleving, met inbegrip van de publicatie van een jaarverslag.<br>
+<br>
+Naar aanleiding van het besluit van de Europese Commissie, vermeld in artikel 191, § 2, over de ontwerpmaatregel, vermeld in het eerste lid, voert de Vlaamse Regulator voor de Media een gecoördineerde analyse uit van de verschillende markten die verbonden zijn met het toegangsnetwerk conform de procedure, vermeld in artikel 190. Op basis van die analyse legt de Vlaamse Regulator voor de Media, conform artikel 192/14 en 192/15, verplichtingen op, of beslist ze om verplichtingen te handhaven, te wijzigen of in te trekken.<br>
+<br>
+§ 4. Een onderneming die functionele scheiding kreeg opgelegd, kan worden onderworpen aan alle in artikel 192/1 tot en met 192/6 bedoelde verplichtingen op elke specifieke markt wanneer is vastgesteld dat het een onderneming betreft die overeenkomstig artikel 190 is aangewezen als een onderneming met aanmerkelijke marktmacht, of andere verplichtingen die door de Europese Commissie zijn goedgekeurd.
+
+### ART 192/9.
+
+§ 1. Ondernemingen die zijn aangewezen als ondernemingen met aanmerkelijke marktmacht in een of verschillende markten conform artikel 190, brengen de Vlaamse Regulator voor de Media ten minste drie maanden vooraf op de hoogte van hun voornemen om hun plaatselijke toegangsnetwerkactiva of een belangrijk deel ervan over te dragen aan een afzonderlijke rechtseenheid met een verschillende eigenaar, of een afzonderlijke bedrijfseenheid op te richten om aan alle retailers, met inbegrip van de eigen retailafdelingen, volledige equivalente toegangsproducten te verstrekken.<br>
+<br>
+De ondernemingen, vermeld in het eerste lid, brengen de Vlaamse Regulator voor de Media ook op de hoogte van eventuele veranderingen van het voornemen, vermeld in het eerste lid, en ook van het eindresultaat van het scheidingsproces.<br>
+<br>
+De ondernemingen, vermeld in het eerste lid, kunnen ook afspraken inzake toegangsvoorwaarden aanbieden die van toepassing zullen zijn op hun netwerk tijdens een implementatieperiode nadat de voorgestelde vorm van de scheiding is geïmplementeerd, teneinde effectieve en niet-discriminerende toegang door derden te waarborgen. Het aanbod van afspraken is voldoende gedetailleerd, onder meer wat betreft het tijdschema voor de implementatie en de looptijd opdat de Vlaamse Regulator voor de Media zijn taken conform paragraaf 2 kan uitvoeren. Die afspraken kunnen een langere periode bestrijken dan de maximale periode voor marktbeoordelingen, vermeld in artikel 191, § 5.<br>
+<br>
+§ 2. De Vlaamse Regulator voor de Media onderzoekt welk effect de voorgenomen transactie heeft, in voorkomend geval in combinatie met de aangeboden afspraken, op de bestaande regulerende verplichtingen, vermeld in dit decreet.<br>
+<br>
+Hiertoe voert de Vlaamse Regulator voor de Media conform de procedure, vermeld in artikel 190, een analyse uit van de verschillende markten die verbonden zijn aan het toegangsnetwerk. De Vlaamse Regulator voor de Media neemt daarbij alle afspraken die de onderneming aanbiedt, in acht en houdt in het bijzonder rekening met de doelstellingen, vermeld in artikel 223/1. In het kader daarvan raadpleegt de Vlaamse Regulator voor de Media derden conform artikel 192/14 en richt zich daarbij in het bijzonder op derden waarop de beoogde transactie rechtstreeks invloed heeft.<br>
+<br>
+Op basis van de analyse, vermeld in het tweede lid, legt de Vlaamse Regulator voor de Media conform artikel 192/14 en 192/15 verplichtingen op, of beslist hij om verplichtingen te handhaven, te wijzigen of in te trekken. In voorkomend geval wordt de procedure, vermeld in artikel 192/11, toegepast.<br>
+<br>
+De Vlaamse Regulator voor de Media kan in zijn beslissing bepalen dat de afspraken in hun geheel of gedeeltelijk bindend zijn. In afwijking van artikel 191, § 5, kan de Vlaamse Regulator voor de Media bepalen dat de afspraken in hun geheel of gedeeltelijk bindend zijn voor de hele periode waarvoor ze worden aangeboden.<br>
+<br>
+§ 3. Als de aangeboden afspraken niet afdoende zijn om de doelstellingen, vermeld in artikel 223/1, te verwezenlijken, kan de juridisch of operationeel gescheiden bedrijfseenheid waarvan conform artikel 190 is vastgesteld dat ze op een specifieke markt aanmerkelijke marktmacht heeft, onverminderd artikel 192/11, worden onderworpen aan alle verplichtingen, vermeld in artikel 192/1 tot en met 192/6, of aan andere verplichtingen die de Europese Commissie op grond van artikel 191, § 2, heeft toegestaan.<br>
+<br>
+§ 4. De Vlaamse Regulator voor de Media houdt toezicht op de implementatie van de afspraken die de ondernemingen aanbieden en die hij conform paragraaf 2 bindend heeft gemaakt. De Vlaamse Regulator voor de Media neemt de verlenging van die afspraken in overweging als de looptijd waarvoor ze oorspronkelijk zijn aangeboden, is verstreken.
+
+### ART 192/10.
+
+§ 1. Ondernemingen die zijn aangewezen als ondernemingen met aanmerkelijke marktmacht, kunnen aan de Vlaamse Regulator voor de Media afspraken aanbieden in verband met de voorwaarden voor toegang of mede-investeringen, of beide, die voor hun netwerken gelden. Die afspraken hebben onder meer betrekking op :<br>
+1° samenwerkingsregelingen inzake de beoordeling van passende en evenredige verplichtingen op grond van artikel 191;<br>
+2° mede-investeringen in netwerken met zeer hoge capaciteit op grond van artikel 192/7;<br>
+3° doeltreffende en niet-discriminerende toegang voor derde partijen op grond van artikel 192/9 tijdens een implementatieperiode van vrijwillige scheiding door een verticaal geïntegreerde onderneming of nadat de voorgestelde vorm van scheiding is geïmplementeerd.<br>
+<br>
+Om de Vlaamse Regulator voor de Media in staat te stellen zijn beoordeling op grond van paragraaf 2 uit te voeren, is het aanbod voor afspraken voldoende gedetailleerd, onder meer wat betreft het tijdstip en de reikwijdte van de implementatie ervan en de duur ervan. Die afspraken kunnen een langere periode bestrijken dan de maximumperiode voor marktanalyse, vermeld in artikel 191, § 5.<br>
+<br>
+§ 2. Teneinde de afspraken die een onderneming op grond van paragraaf 1 heeft aangeboden, te beoordelen, verricht de Vlaamse Regulator voor de Media, tenzij die afspraken duidelijk niet aan een of meerdere desbetreffende voorwaarden of criteria voldoen, een markttoets, met name betreffende de aangeboden voorwaarden, door het organiseren van een raadpleging van belanghebbende partijen, in het bijzonder derde partijen die rechtstreekse gevolgen ondervinden. Mogelijke mede-investeerders of partijen die toegang vragen, kunnen zich uitspreken over de conformiteit van de aangeboden afspraken met de toepasselijke voorwaarden, vermeld in artikel 191, 192/7 of 192/9, en kunnen veranderingen voorstellen.<br>
+<br>
+Wat betreft de krachtens dit artikel aangeboden afspraken houdt de Vlaamse Regulator voor de Media bij de beoordeling van verplichtingen op grond van artikel 191, § 1, derde lid, in het bijzonder rekening met :<br>
+1° bewijsmateriaal inzake de billijke en redelijke aard van de aangeboden afspraken;<br>
+2° het openstaan van de afspraken voor alle marktdeelnemers;<br>
+3° de tijdige beschikbaarheid van toegang onder billijke, redelijke en nietdiscriminerende voorwaarden, onder meer tot netwerken met zeer hoge capaciteit, voordat aanverwante retaildiensten worden aangeboden;<br>
+4° de algemene mate waarin de aangeboden afspraken duurzame mededinging op downstreammarkten mogelijk maken en de uitrol en ingebruikneming van netwerken met zeer hoge capaciteit in samenwerkingsverband faciliteren ten behoeve van eindgebruikers.<br>
+<br>
+De Vlaamse Regulator voor de Media deelt, rekening houdend met alle standpunten die tijdens de raadpleging zijn geuit, en met de mate waarin die standpunten representatief zijn voor de verschillende belanghebbenden, aan de onderneming die is aangewezen als onderneming met aanmerkelijke marktmacht, zijn voorlopige conclusies mee over de vraag of de aangeboden afspraken voldoen aan de toepasselijke doelstellingen, criteria en procedures, vermeld in dit artikel en artikel 191, 192/7 of 192/9. De Vlaamse Regulator voor de Media deelt ook mee onder welke voorwaarden hij zou kunnen overwegen om de afspraken bindend te maken. De onderneming kan haar initiële aanbod herzien om rekening te houden met de conclusies van de Vlaamse Regulator voor de Media en met het oog op het voldoen aan de criteria, vermeld in dit artikel en aan de criteria, vermeld in artikel 191, 192/7 of 192/9, die van toepassing zijn.<br>
+<br>
+§ 3. Onverminderd artikel 192/7, § 2, eerste lid, kan de Vlaamse Regulator voor de Media een beslissing nemen om de afspraken geheel of gedeeltelijk bindend te maken.<br>
+<br>
+In afwijking van artikel 191, § 5, kan de Vlaamse Regulator voor de Media bepaalde afspraken of alle afspraken bindend maken voor een van de volgende perioden :<br>
+1° voor de hele periode waarvoor het aanbod geldt;<br>
+2° voor een periode van minimaal zeven jaar in geval van medeinvesteringsafspraken die op grond van artikel 192/7, § 2, eerste lid, bindend zijn gemaakt.<br>
+<br>
+Zoals bepaald in artikel 192/7 laat dit artikel de toepassing van de marktanalyseprocedure op grond van artikel 190 en het opleggen van verplichtingen op grond van artikel 191, § 1, onverlet.<br>
+<br>
+Als de Vlaamse Regulator voor de Media afspraken op grond van dit artikel bindend maakt, onderzoekt hij de volgende aspecten :<br>
+1° met toepassing van artikel 191, § 7, de gevolgen van die beslissing voor de marktontwikkeling;<br>
+2° het al dan niet passend zijn van verplichtingen die hij heeft opgelegd of die hij, bij gebrek aan afspraken, overwoog op te leggen op grond van artikel 191, § 7, of artikel 192/1 tot en met 192/6.<br>
+<br>
+Als de Vlaamse Regulator voor de Media conform artikel 192/15 de Europese Commissie, Berec en de nationale regulerende instanties van andere lidstaten op de hoogte brengt van een ontwerpmaatregel als vermeld in artikel 191, brengt hij de Europese Commissie, Berec en de nationale regulerende instanties van andere lidstaten ook op de hoogte van de beslissing tot vaststelling van de afspraak.<br>
+<br>
+§ 4. De Vlaamse Regulator voor de Media monitort, controleert en waarborgt de naleving van de afspraken die hij conform paragraaf 3 bindend heeft gemaakt op dezelfde manier als de manier waarop hij de naleving van de verplichtingen die met toepassing van artikel 191, § 1, zijn opgelegd, monitort, controleert en waarborgt.<br>
+<br>
+De Vlaamse Regulator voor de Media overweegt de verlenging van de periode waarvoor de afspraken bindend zijn gemaakt, als de initiële periode verstrijkt.<br>
+<br>
+Als de Vlaamse Regulator voor de Media concludeert dat een onderneming niet heeft voldaan aan de afspraken die conform paragraaf 3 bindend zijn gemaakt, kan hij die onderneming conform artikel 228 sancties opleggen. Onverminderd de procedure, vermeld in artikel 220, § 4, kan de Vlaamse Regulator voor de Media de verplichtingen die conform artikel 191, § 7, zijn opgelegd, opnieuw evalueren.
+
+### ART 192/11.
+
+Als de Vlaamse Regulator voor de Media een onderneming die niet actief is op een retailmarkt voor elektronische communicatiediensten conform artikel 190, § 3, aanwijst als een onderneming met aanmerkelijke marktmacht op een of meer wholesalemarkten, gaat hij na of die onderneming aan al de volgende voorwaarden voldoet :<br>
+1° alle bedrijven en bedrijfsonderdelen binnen de onderneming, alle bedrijven waarover dezelfde uiteindelijke eigenaar zeggenschap heeft, maar die niet noodzakelijk volledig in zijn bezit zijn, en eventuele aandeelhouders die zeggenschap kunnen uitoefenen over de onderneming, ontplooien alleen activiteiten op wholesalemarkten voor elektronische communicatiediensten en beogen dat ook in de toekomst te doen, en ontplooien dus geen activiteiten op een retailmarkt voor elektronische communicatiediensten die in de Europese Unie of in de Europese Economische Ruimte aan eindgebruikers worden verstrekt;<br>
+2° de onderneming is niet gebonden aan een enkele en afzonderlijke downstream actieve onderneming die activiteiten ontplooit op een retailmarkt voor elektronische communicatiediensten die aan eindgebruikers worden verstrekt, op grond van een exclusieve overeenkomst of een overeenkomst die feitelijk neerkomt op een exclusieve overeenkomst.<br>
+<br>
+Als de Vlaamse Regulator voor de Media concludeert dat aan de voorwaarden, vermeld in het eerste lid, is voldaan, kan hij aan die onderneming alleen verplichtingen op grond van artikel 192/2 en 192/5, of verplichtingen met betrekking tot eerlijke en redelijke prijzen opleggen als dat gerechtvaardigd is op basis van een marktanalyse, inclusief een prospectieve beoordeling van het waarschijnlijke gedrag van de onderneming die is aangewezen als onderneming met aanmerkelijke marktmacht.<br>
+<br>
+De Vlaamse Regulator voor de Media kan de verplichtingen die conform dit artikel aan de onderneming worden opgelegd, op elk moment heroverwegen als hij concludeert dat niet meer aan de voorwaarden, vermeld in het eerste lid, wordt voldaan, en hij past voor zover passend artikel 190 tot en met 192/6 toe. De ondernemingen brengen de Vlaamse Regulator voor de Media zonder onnodige vertraging op de hoogte van elke wijziging in de omstandigheden die relevant zijn voor de voorwaarden, vermeld in het eerste lid, 1° en 2°.<br>
+<br>
+De Vlaamse Regulator voor de Media heroverweegt ook de verplichtingen die conform dit artikel aan de onderneming zijn opgelegd, als hij op basis van bewijsdocumenten betreffende de voorwaarden die de onderneming aan haar downstreamklanten aanbiedt, concludeert dat er concurrentieproblemen zijn ontstaan of dreigen te ontstaan waardoor de eindgebruikers worden benadeeld en het noodzakelijk is een of meer van de verplichtingen, vermeld in artikel 192/1, 192/3, 192/4 of 192/6, op te leggen of de verplichtingen die conform het tweede lid zijn opgelegd, aan te passen.<br>
+<br>
+Het opleggen van verplichtingen en de heroverweging daarvan wordt uitgevoerd conform artikel 192/14 en 192/15.
+
+### ART 192/12.
+
+§ 1. Ondernemingen die zijn aangewezen als ondernemingen met aanmerkelijke marktmacht in een of verschillende markten conform artikel 190, brengen de Vlaamse Regulator voor de Media vooraf en tijdig op de hoogte als ze beogen over te gaan tot buitenbedrijfstelling of vervanging door nieuwe infrastructuur van delen van het netwerk, met inbegrip van legacy-infrastructuur die nodig is om een kopernetwerk te gebruiken waarop verplichtingen van toepassing zijn op grond van artikel 191 tot en met 192/11.<br>
+<br>
+§ 2. De Vlaamse Regulator voor de Media waarborgt dat het proces van buitenbedrijfstelling of vervanging transparante tijdschema's en voorwaarden omvat, inclusief een passende opzeggingstermijn voor de overgang. De Vlaamse Regulator voor de Media stelt vast dat, als dat nodig is, alternatieve producten van ten minste vergelijkbare kwaliteit beschikbaar zijn die toegang verstrekken tot de opgewaardeerde netwerkinfrastructuur die in de plaats komt van de vervangen elementen zodat de concurrentie en de rechten van de eindgebruikers worden verzekerd.<br>
+<br>
+De Vlaamse Regulator voor de Media kan de verplichtingen betreffende activa waarvan buitenbedrijfstelling of vervanging is beoogd, intrekken als hij heeft gecontroleerd dat de aanbieder van toegang aan al de volgende voorwaarden voldoet :<br>
+1° hij heeft passende voorwaarden voor de migratie tot stand gebracht, onder meer door een alternatief toegangsproduct van ten minste vergelijkbare kwaliteit beschikbaar te stellen waarmee partijen die toegang vragen, dezelfde eindgebruikers kunnen bereiken als met de legacy-infrastructuur;<br>
+2° hij voldoet aan de voorwaarden en het proces waarvan de Vlaamse Regulator voor de Media overeenkomstig dit artikel op de hoogte gebracht is.<br>
+<br>
+Een intrekking als vermeld in het tweede lid wordt conform artikel 192/14 en 192/15 uitgevoerd.
+
+### ART 192/13.
+
+§ 1. Met toepassing van artikel 191, § 3, legt de Vlaamse Regulator voor de Media passende nadere verplichtingen op als vermeld in paragraaf 2, aan ondernemingen die zijn aangewezen als ondernemingen met aanmerkelijke marktmacht op een specifieke retailmarkt conform artikel 190, § 3.<br>
+<br>
+§ 2. Verplichtingen die met toepassing van paragraaf 1 worden opgelegd, zijn gebaseerd op de aard van het geconstateerde probleem en evenredig en verantwoord in het licht van de doelstellingen, vermeld in artikel 223/1.<br>
+<br>
+Om de belangen van de eindgebruiker te beschermen en tegelijkertijd daadwerkelijke mededinging te stimuleren, kan de Vlaamse Regulator voor de Media aan ondernemingen als vermeld in paragaaf 1, de volgende verplichtingen opleggen :<br>
+1° passende retailprijsplafonds;<br>
+2° verplichtingen om individuele tarieven te controleren;<br>
+3° verplichtingen om de tarieven af te stemmen op de kosten of prijzen op vergelijkbare markten.<br>
+<br>
+§ 3. De Vlaamse Regulator voor de Media zorgt ervoor dat, indien een onderneming aan regelgeving inzake retailtarieven of andere desbetreffende retailcontroles is onderworpen, de noodzakelijke en geëigende kostentoerekeningssystemen worden toegepast.<br>
+<br>
+De Vlaamse Regulator voor de Media kan nader bepalen welk model en welke boekhoudkundige methodes moeten worden gehanteerd. De inachtneming van het kostentoerekeningssysteem wordt op kosten van de onderneming geverifieerd door een erkende revisor, die elk jaar een verklaring van overeenstemming opstelt die de Vlaamse Regulator voor de Media publiceert.
+
+### ART 192/14.
+
+De Vlaamse Regulator voor de Media organiseert een voorafgaande openbare raadpleging van minstens dertig dagen als hij :<br>
+1° het voornemen heeft om met toepassing van deze titel maatregelen te nemen;<br>
+2° het voornemen heeft om met toepassing van titel II beperkingen op te leggen die een belangrijke impact op de betrokken markt hebben.<br>
+<br>
+De openbare raadpleging, vermeld in het eerste lid, wordt georganiseerd met inachtneming van de regels inzake vertrouwelijkheid van de bedrijfsgegevens, vermeld in artikel 235, § 2, en met inachtneming van de regels inzake de bescherming van persoonsgegevens.<br>
+<br>
+In uitzonderlijke omstandigheden kan de periode van de openbare raadpleging, vermeld in het eerste lid, minder dan dertig dagen bedragen.<br>
+<br>
+De Vlaamse Regulator voor de Media publiceert zijn raadplegingsprocedure op zijn website.<br>
+<br>
+De Vlaamse Regulator voor de Media richt een centraal online-informatiepunt op waar inzage verkregen kan worden in alle lopende raadplegingsprocedures met betrekking tot door de Vlaamse Regulator voor de Media voorgenomen maatregelen die een belangrijke impact hebben op elektronische communicatiemarkten.<br>
+<br>
+De Vlaamse Regulator voor de Media maakt de resultaten van een openbare raadpleging openbaar met inachtneming van de regels over de vertrouwelijkheid van de bedrijfsgegevens en over de bescherming van persoonsgegevens. De Vlaamse Regulator voor de Media publiceert zijn ontwerpbeslissing zoals eventueel gewijzigd na de openbare raadpleging, vermeld in dit artikel.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels van de openbare raadpleging en van de bekendmaking van de resultaten ervan. Deze regels hebben minstens betrekking op de bekendmaking van de raadpleging, de voorwaarden voor deelname aan de raadpleging, de duur van de raadpleging en de rapportering over de raadpleging.
+
+### ART 192/15.
+
+&nbsp;§ 1. De Vlaamse Regulator voor de Media maakt elke ontwerpmaatregel die hij wil nemen bekend en deelt die, met een bijgevoegde motivering, mee aan de Europese Commissie, aan Berec en aan de nationale regulerende instanties van andere lidstaten, voor zover deze maatregel invloed heeft op de handel tussen de lidstaten en erop gericht is:<br>
+1° een passende toegang en interconnectie, of de interoperabiliteit van de diensten op te leggen conform artikel 200/2;<br>
+2° een relevante markt te definiëren die verschilt van de markten die in de Aanbeveling van de Europese Commissie, vermeld in artikel 189, tweede lid, zijn gedefinieerd;<br>
+3° conform artikel 190, § 1, tweede lid, vast te stellen dat niet voldaan is aan een van de voorwaarden, vermeld in artikel 190, § 1, eerste lid;<br>
+4° te bepalen of de kenmerken van een markt die conform artikel 190, § 3, eerste lid, en artikel 191, § 3, als relevante markt gedefinieerd is, van die aard zijn dat het al dan niet gerechtvaardigd is om regelgevingsverplichtingen op te leggen;<br>
+5° na een beslissing als vermeld in punt 4° de onderneming of ondernemingen te identificeren met een aanmerkelijke marktmacht op die markt, overeenkomstig artikel 190, § 3, eerste lid;<br>
+6° regulerende verplichtingen voor de onderneming of ondernemingen met aanmerkelijke marktmacht op te leggen, te wijzigen of in te trekken conform artikel 191, §§ 1 tot en met 4.<br>
+<br>
+§ 2. De Vlaamse Regulator voor de Media houdt zoveel mogelijk rekening met de opmerkingen die de Europese Commissie, Berec en de nationale regulerende instanties van de andere lidstaten hem binnen een maand na de kennisgeving van de ontwerpbeslissing hebben bezorgd.<br>
+<br>
+§ 3. Als de ontwerpbeslissing conform paragraaf 6 of 10 is gewijzigd, kan de Vlaamse Regulator voor de Media een openbare raadpleging starten conform artikel 192/14 en brengt hij opnieuw de Europese Commissie op de hoogte van het gewijzigde ontwerp conform paragraaf 1.<br>
+<br>
+§ 4. De Vlaamse Regulator voor de Media brengt de Europese Commissie en Berec op de hoogte van de definitieve aanneming van de ontwerpmaatregel, vermeld in paragraaf 1.<br>
+<br>
+§ 5. De Vlaamse Regulator voor de Media stelt de definitieve aanneming van de ontwerpmaatregel met twee maanden uit als al de volgende voorwaarden zijn vervuld:<br>
+1° de ontwerpbeslissing, vermeld in paragraaf 1, heeft betrekking op:<br>
+a) het definiëren van een relevante markt die verschilt van de markten die de Europese Commissie heeft gedefinieerd;<br>
+b) het aanwijzen van een onderneming die, hetzij individueel of samen met andere ondernemingen, een aanmerkelijke marktmacht op een relevante markt bezit;<br>
+2° de ontwerpbeslissing zou van invloed zijn op de handel tussen de lidstaten;<br>
+3° de Europese Commissie heeft de Vlaamse Regulator voor de Media binnen een maand vanaf de kennisgeving, vermeld in paragraaf 1, meegedeeld dat de ontwerpbeslissing een belemmering voor de interne markt opwerpt of ze heeft meegedeeld dat ze ernstige twijfels heeft over de verenigbaarheid van de ontwerpbeslissing met het Europese Unierecht.<br>
+<br>
+§ 6. Als de Europese Commissie binnen de termijn van twee maanden, vermeld in paragraaf 5, een besluit neemt dat de intrekking van de ontwerpbeslissing eist, wijzigt de Vlaamse Regulator voor de Media zijn ontwerpbeslissing of trekt ze in binnen zes maanden na de datum van het besluit van de Europese Commissie.<br>
+<br>
+§ 7. Als de Europese Commissie binnen een maand vanaf de kennisgeving van de ontwerpbeslissing van de Vlaamse Regulator voor de Media overeenkomstig artikel 192/5 meedeelt aan de Vlaamse Regulator voor de Media dat de ontwerpbeslissing, die erop gericht is een verplichting aan een onderneming met aanmerkelijke marktmacht op te leggen, te wijzigen of in te trekken, een obstakel opwerpt voor de interne markt of ernstige twijfels uit over de verenigbaarheid met het Europese Unierecht, stelt de Vlaamse Regulator voor de Media zijn beslissing uit met drie bijkomende maanden.<br>
+<br>
+§ 8. Binnen de termijn van drie maanden, vermeld in paragraaf 7, werken de Europese Commissie, Berec en de Vlaamse Regulator voor de Media nauw samen om de meest geschikte en effectieve maatregel te identificeren, rekening houdend met de doelstellingen, vermeld in artikel 223/1, en houden zij rekening met de standpunten van marktdeelnemers en de noodzaak om te zorgen voor de ontwikkeling van een consequente regelgevingspraktijk.<br>
+<br>
+§ 9. Als binnen zes weken vanaf het begin van de periode van drie maanden, vermeld in paragraaf 7, Berec een advies uitbrengt over de kennisgeving van de Europese Commissie, vermeld in paragraaf 7, waarin Berec aangeeft de ernstige twijfels van de Europese Commissie te delen, kan de Vlaamse Regulator voor de Media, voor het einde van de drie maanden, vermeld in paragraaf 7, de volgende handelingen stellen :<br>
+1° zijn ontwerpbeslissing wijzigen of intrekken, waarbij hij zoveel mogelijk rekening houdt met de kennisgeving van de Europese Commissie, vermeld in paragraaf 7, en met het voormelde advies van Berec;<br>
+2° zijn ontwerpbeslissing handhaven.<br>
+<br>
+§ 10. Als Berec de ernstige twijfels van de Europese Commissie niet deelt of geen advies uitbrengt of als de Vlaamse Regulator voor de Media zijn ontwerpbeslissing wijzigt of handhaaft conform paragraaf 9, kan de Europese Commissie binnen een maand na de periode van drie maanden, vermeld in paragraaf 7 :<br>
+1° een met redenen omklede aanbeveling uitbrengen waarin ze de Vlaamse Regulator voor de Media vraagt de ontwerpbeslissing te wijzigen of in te trekken;<br>
+2° beslissen het voorbehoud dat ze gemaakt heeft overeenkomstig paragraaf 7, op te heffen.<br>
+<br>
+Voor de ontwerpbeslissingen die onder artikel 192/7, § 2, eerste lid, vallen, kan de Europese Commissie, indien Berec haar ernstige twijfels deelt, binnen dezelfde termijn als die welke bedoeld is in het eerste lid, een besluit nemen waarbij aan de Vlaamse Regulator voor de Media wordt gevraagd om zijn ontwerp in te trekken.<br>
+<br>
+Binnen een maand vanaf de uitvaardiging van de aanbeveling van de Europese Commissie, vermeld in het eerste lid, 1°, of de opheffing van het voorbehoud, vermeld in het eerste lid, 2°, deelt de Vlaamse Regulator voor de Media aan de Europese Commissie en Berec de definitieve aangenomen beslissing mee. De voormelde periode kan verlengd worden om de Vlaamse Regulator voor de Media de mogelijkheid te bieden een openbare raadpleging over de gewijzigde ontwerpbeslissing te organiseren conform artikel 192/14.<br>
+<br>
+Als de Vlaamse Regulator voor de Media beslist de ontwerpbeslissing niet te wijzigen of in te trekken op grond van de aanbeveling, vermeld in het eerste lid, 1°, verstrekt hij daarvoor een met redenen omklede rechtvaardiging.<br>
+<br>
+§ 11. In uitzonderlijke omstandigheden kan de Vlaamse Regulator voor de Media, wanneer hij van oordeel is dat er dringend moet worden opgetreden om de concurrentie te waarborgen en de belangen van de gebruikers te beschermen, in afwijking van de procedure genoemd in paragraaf 1 en 5 onmiddellijk evenredige en voorlopige maatregelen vaststellen. De Vlaamse Regulator voor de Media deelt die maatregelen onverwijld en volledig met redenen omkleed mee aan de Europese Commissie, aan Berec en aan de nationale regulerende instanties van de andere lidstaten.<br>
+<br>
+Een besluit van de Vlaamse Regulator voor de Media om die maatregelen permanent te maken of om de periode waarvoor zij van toepassing zijn te verlengen, valt onder de bepalingen van paragraaf 1 en 5.<br>
+<br>
+§ 12. De Vlaamse Regulator voor de Media kan de ontwerpbeslissing op elk ogenblik tijdens de procedure intrekken.
 
 ## TITEL II. BEPALINGEN OVER ZENDVERGUNNINGEN VOOR HET GEBRUIK VAN FREQUENTIES
 
@@ -1781,7 +2171,26 @@ De bepalingen van deze titel zijn niet van toepassing op de oprichting en de exp
 
 ### ART. 198.
 
-Eenieder kan, onder de voorwaarden van dit hoofdstuk, een kabelomroepnetwerk aanbieden, als hij voldoet aan de volgende voorwaarden :<br />1° opgericht zijn in de vorm van een vennootschap of van een publiekrechtelijke rechtspersoon met als maatschappelijk doel het aanleggen en exploiteren van een kabelomroepnetwerk in het Vlaamse Gewest. De aanbieders van kabelomroepnetwerken kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van hun maatschappelijk doel;<br />2° in de boekhouding een onderscheid maken tussen de activiteiten in het kader van de aanleg en de exploitatie van het kabelomroepnetwerk enerzijds, en het aanbieden van andere netwerken of diensten waarvoor bijzondere of uitsluitende rechten zijn toegekend, anderzijds;<br />3° jaarlijks voor 30 juni aan de Vlaamse Regulator voor de Media een werkingsverslag, met vermelding van de aandeelhoudersstructuur, het aantal abonnees en de doorgegeven omroepprogramma's, en de balans en de jaarrekening, goedgekeurd door de algemene vergadering van aandeelhouders, voorleggen;<br />4° beschikken over de nodige technische infrastructuur of een technisch investeringsplan en een financieel plan ter zake voorleggen.<br /><br />De Vlaamse Regulator voor de Media moet vooraf, conform artikel 219, op de hoogte worden gebracht van het aanbieden van een kabelomroepnetwerk of van de overdracht ervan aan derden. De Vlaamse Regering bepaalt welke gegevens die kennisgeving aan de Vlaamse Regulator voor de Media moet bevatten en kan aanvullende verplichtingen opleggen. Die verplichtingen zijn objectief gerechtvaardigd in relatie tot het netwerk in kwestie, niet-discriminerend, proportioneel en transparant. Elke latere wijziging van de informatie in de kennisgeving wordt zonder verwijl aan de Vlaamse Regulator voor de Media meegedeeld.
+Eenieder kan, onder de voorwaarden van dit hoofdstuk, een kabelomroepnetwerk aanbieden, als hij voldoet aan de volgende voorwaarden :<br>
+1° opgericht zijn in de vorm van een vennootschap of van een publiekrechtelijke rechtspersoon met als maatschappelijk doel het aanleggen en exploiteren van een kabelomroepnetwerk in het Vlaamse Gewest. De aanbieders van kabelomroepnetwerken kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van hun maatschappelijk doel;<br>
+2° in de boekhouding een onderscheid maken tussen de activiteiten in het kader van de aanleg en de exploitatie van het kabelomroepnetwerk enerzijds, en het aanbieden van andere netwerken of diensten waarvoor bijzondere of uitsluitende rechten zijn toegekend, anderzijds;<br>
+3° jaarlijks voor 30 juni aan de Vlaamse Regulator voor de Media een werkingsverslag, met vermelding van de aandeelhoudersstructuur, het aantal abonnees en de doorgegeven omroepprogramma's, en de balans en de jaarrekening, goedgekeurd door de algemene vergadering van aandeelhouders, voorleggen;<br>
+4° beschikken over de nodige technische infrastructuur of een technisch investeringsplan en een financieel plan ter zake voorleggen.<br>
+<br>
+De Vlaamse Regulator voor de Media moet vooraf, conform artikel 219, op de hoogte worden gebracht van het aanbieden van een kabelomroepnetwerk of van de overdracht ervan aan derden. De Vlaamse Regering bepaalt welke gegevens die kennisgeving moet bevatten en welke latere wijzigingen ervan aan de Vlaamse Regulator voor de Media moeten worden meegedeeld.<br>
+<br>
+De Vlaamse Regering kan naast de verplichtingen, vermeld in het eerste lid, aanvullende verplichtingen opleggen. Die verplichtingen voldoen aan de volgende voorwaarden:<br>
+1° ze zijn objectief gerechtvaardigd in relatie tot het netwerk in kwestie;<br>
+2° ze zijn niet discriminerend;<br>
+3° ze zijn proportioneel;<br>
+4° ze zijn transparant.<br>
+<br>
+De Vlaamse Regulator voor de Media levert binnen een week na de kennisgeving, vermeld in het eerste lid, een standaardverklaring af waarin hij bevestigt dat de onderneming een kennisgeving heeft verricht conform dit artikel en artikel 219. In die verklaring wordt gestipuleerd onder welke voorwaarden de onderneming een aanvraag kan indienen met het oog op het recht om :<br>
+1° faciliteiten te installeren conform artikel 200;<br>
+2° te onderhandelen over interconnectie en toegang;<br>
+3° interconnectie te verkrijgen.<br>
+<br>
+De Vlaamse Regulator voor de Media stuurt Berec onverwijld via elektronische weg alle kennisgevingen die hij heeft ontvangen. Hij bezorgt kennisgevingen die hij ontvangen heeft vóór 21 december 2020, uiterlijk op 21 december 2021 aan Berec.
 
 ### ART. 199.
 
@@ -1789,7 +2198,87 @@ De Vlaamse Regering kan de verordeningen van algemeen bestuur en de politieveror
 
 ### ART. 200.
 
-§ 1. De aanbieders van kabelomroepnetwerken hebben het recht de kabels en de bijbehorende uitrustingen van hun kabelomroepnetwerken op hun kosten, op of onder de pleinen, wegen, straten, paden, waterlopen en vaarten die deel uitmaken van het openbaar domein, te laten aanleggen en te onderhouden op voorwaarde dat ze zich gedragen naar de wetten en besluiten van het openbaar domein en dat ze de bestemming ervan eerbiedigen.<br /><br />Alvorens dat recht uit te oefenen, onderwerpt de belanghebbende aanbieder van een kabelomroepnetwerk het plan van de plaats en de bijzonderheden van de aanleg van de geleidingen aan de goedkeuring van de overheid van wie het openbaar domein afhangt. Die overheid beslist binnen twee maanden, te rekenen vanaf de datum waarop het plan werd ingezonden. Ze brengt de belanghebbende aanbieder van een kabelomroepnetwerk op de hoogte van haar beslissing. Nadat die termijn verstreken is, geldt het stilzwijgen van de overheid als goedkeuring. In geval van blijvende onenigheid wordt beslist bij besluit van de Vlaamse Regering.<br /><br />De openbare overheden hebben in elk geval het recht om de inrichting of het plan van aanleg, alsook de daarmee verband houdende werkzaamheden, later op hun onderscheiden domein te doen wijzigen. De kosten van die werkzaamheden zijn voor rekening van de aanbieder van het kabelomroepnetwerk als de wijzigingen opgelegd zijn om een van de volgende redenen :<br />1° met het oog op de openbare veiligheid;<br />2° tot behoud van het natuur- en stedenschoon;<br />3° in het belang van de wegen, waterlopen, vaarten of een openbare dienst;<br />4° als gevolg van een verandering die de aangelanden aan de toegangen tot de eigendommen langs de gebruikte wegen hebben aangebracht.<br /><br />In andere gevallen zijn ze voor rekening van de overheid die de wijzigingen oplegt. De overheid mag vooraf een kostenbegroting eisen en, in geval van onenigheid, zelf de werkzaamheden laten uitvoeren.<br /><br />§ 1/1. De Vlaamse Regulator voor de Media kan, de bepalingen die het gebruik van het openbaar domein regelen buiten beschouwing gelaten, met inachtneming van het evenredigheidsbeginsel, om het milieu, de volksgezondheid en de openbare veiligheid te beschermen of om stedenbouwkundige of planologische redenen, doch zulks pas na een passende periode van openbare raadpleging, het gedeelde gebruik opleggen aan de aanbieders van kabelomroepnetwerken bij de aanleg van hun netwerkelementen en hun bijbehorende faciliteiten. Dat gedeelde gebruik slaat op faciliteiten of eigendom, met inbegrip van gebouwen, toegangen tot gebouwen, bekabeling van gebouwen, masten, antennes, torens en andere ondersteuningsgebouwen, kabelgoten, leidingen, mangaten en straatkasten.<br /><br />Onder bijbehorende faciliteiten wordt verstaan de diensten die horen bij een elektronisch communicatienetwerk of een elektronische communicatiedienst, fysieke infrastructuren en andere elementen die het aanbieden van diensten via dat netwerk of die dienst mogelijk maken of ondersteunen of die het potentieel daarvoor bezitten, zoals gebouwen of toegangen tot gebouwen, bekabeling van gebouwen, antennes, torens en andere ondersteunende constructies, kabelgoten, kabelbuizen, masten, mangaten en straatkasten.<br /><br />De Vlaamse Regulator voor de Media kan de verplichtingen, vermeld in het eerste lid, opleggen na een passende periode van openbare raadpleging waarin alle belanghebbende partijen in staat zijn gesteld hun standpunt naar voren te brengen.<br /><br />De Vlaamse Regulator voor de Media kan, na een passende periode van openbare raadpleging waarin alle belanghebbende partijen in staat zijn gesteld hun standpunt naar voren te brengen, verplichtingen opleggen aan de kabelomroepnetwerken voor het gedeelde gebruik van bekabeling in gebouwen of tot aan het eerste punt van samenkomst of distributie als dat zich buiten het gebouw bevindt, als duplicatie van dergelijke infrastructuur economisch inefficiënt of fysiek onuitvoerbaar is.<br /><br />De verplichtingen, vermeld in het eerste en het vierde lid, kunnen een omslagregeling voor de kosten van het gedeelde gebruik van faciliteiten of eigendom bevatten, die is aangepast aan de risico's.<br /><br />§ 2. De aanbieders van kabelomroepnetwerken hebben ook het recht om voor de aanleg van de kabels en de bijbehorende uitrustingen van hun kabelomroepnetwerken op blijvende wijze steunen en ankers aan te brengen op muren en gevels die uitgeven op de openbare weg en hun kabels in open en onbebouwde grond aan te leggen of zonder vasthechting of aanraking boven particuliere eigendommen te laten doorgaan.<br /><br />De werkzaamheden mogen pas beginnen nadat aan de eigenaars, volgens de gegevens van het kadaster, aan de huurders en de bewoners een behoorlijk aangetoonde schriftelijke kennisgeving is bezorgd.<br /><br />Als de aanbieder van een kabelomroepnetwerk het voornemen heeft kabels, bovengrondse lijnen en bijbehorende uitrustingen aan te leggen, op te ruimen of er werkzaamheden aan uit te voeren, streeft hij naar overeenstemming met degene op wiens eigendom steun wordt genomen of wiens eigendom wordt overspannen of overschreden, over de plaats en de wijze van uitvoering van de werkzaamheden.<br /><br />De uitvoering van de werkzaamheden heeft geen buitenbezitstelling tot gevolg. Het plaatsen van steunen en ankers op muren of gevels mag de eigenaar niet hinderen in zijn recht om zijn goed af te breken of te herstellen.<br /><br />De ondergrondse kabels en steunen die in een open en onbebouwde grond geplaatst zijn, moeten op verzoek van de eigenaar worden weggenomen als die zijn recht om te bouwen of te omheinen uitoefent. De kosten van het wegnemen zijn ten laste van de aanbieder van het kabelomroepnetwerk.<br /><br />De eigenaar moet evenwel ten minste twee maanden voor het begin van de werkzaamheden, vermeld in het vierde en het vijfde lid, de aanbieder van het kabelomroepnetwerk daarvan op de hoogte brengen.<br /><br />§ 3. De aanleg en de uitvoering van alle andere werken aan de kabels, bovengrondse lijnen en bijbehorende uitrustingen in, tegen en op gebouwen en in en op gronden die daarbij behoren, voor de aansluitingen op de infrastructuur in die gebouwen, moeten worden gedoogd door de eigenaar en de rechthebbende, tenzij ze bereid zijn de meerkosten van een tegenvoorstel te dragen.<br /><br />§ 4. Als takken of wortels redelijkerwijze hinderlijk zijn voor de aanleg, het onderhoud of de exploitatie van kabels, bovengrondse lijnen en bijbehorende uitrustingen, moet de eigenaar of de rechthebbende ze, op verzoek van de aanbieder van een kabelomroepnetwerk, inkorten.<br /><br />Als de eigenaar of de rechthebbende het verzoek gedurende een maand zonder gevolg heeft gelaten, mag de aanbieder van een kabelomroepnetwerk zelf overgaan tot het inkorten.<br /><br />De kosten van het inkorten zijn ten laste van :<br />1° de eigenaar of de rechthebbende, als de bomen of beplantingen zich op zijn privé-eigendom bevinden en hun takken of wortels hinderlijk zijn voor kabels, bovengrondse lijnen en bijbehorende uitrustingen :<br />a) die zich in of boven het openbaar domein bevinden;<br />b) die zich in of boven zijn privé-eigendom bevinden en die dienstig zijn voor zijn aansluiting;<br />2° de aanbieder van een kabelomroepnetwerk, in de overige gevallen.<br /><br />§ 5. Als de aanbieder van een kabelomroepnetwerk werkzaamheden uitvoert, is hij ertoe gehouden het goed te herstellen in zijn oorspronkelijke staat binnen een redelijke termijn, naargelang van het geval, hetzij door eigen toedoen, hetzij door toedoen van een derde. Van de bepalingen van het eerste lid kan bij overeenkomst tussen de aanbieder van een kabelomroepnetwerk en de eigenaar of de rechthebbende van het goed worden afgeweken.<br /><br />De bepalingen van het eerste lid zijn niet van toepassing op de schade die onvermijdelijk wordt aangericht aan een goed, als de aanbieder van een kabelomroepnetwerk een werk uitvoert dat nodig is voor de aansluitingen van de eigenaar of de rechthebbende van dat goed.<br /><br />§ 6. De vergoedingen voor schade wegens de aanleg of de exploitatie van een kabelomroepnetwerk zijn voor rekening van de aanbieder van het kabelomroepnetwerk, die aansprakelijk blijft voor alle voor derden schadelijke gevolgen.<br /><br />§ 7. De aanbieder van een kabelomroepnetwerk is verplicht onmiddellijk gevolg te geven aan elke vordering van de Vlaamse Regulator voor de Media, het Belgisch Instituut voor Postdiensten en Telecommunicatie of van elke dienst of elk bedrijf voor elektriciteitsvoorziening om elke storing in of nadelige invloed op de werking van de telefoon- of telegraafinstallaties of van de installaties voor elektriciteitsvoorziening onverwijld te doen ophouden.<br /><br />Bij gebrek daaraan worden de nodig geachte maatregelen, met inbegrip van het verplaatsen van de kabels en de bijbehorende installaties, door de diensten of bedrijven in kwestie getroffen op kosten en risico van de aanbieder van het omroepnetwerk.<br /><br />§ 8. De aangelegde kabels, bovengrondse lijnen en bijbehorende uitrustingen blijven eigendom van de aanbieder van het kabelomroepnetwerk.
+§ 1. De aanbieders van kabelomroepnetwerken hebben het recht de kabels en de bijbehorende uitrustingen van hun kabelomroepnetwerken op hun kosten, op of onder de pleinen, wegen, straten, paden, waterlopen en vaarten die deel uitmaken van het openbaar domein, te laten aanleggen en te onderhouden op voorwaarde dat ze zich gedragen naar de wetten en besluiten van het openbaar domein en dat ze de bestemming ervan eerbiedigen.<br>
+<br>
+Alvorens dat recht uit te oefenen, onderwerpt de belanghebbende aanbieder van een kabelomroepnetwerk het plan van de plaats en de bijzonderheden van de aanleg van de geleidingen aan de goedkeuring van de overheid van wie het openbaar domein afhangt. Die overheid beslist binnen twee maanden, te rekenen vanaf de datum waarop het plan werd ingezonden. Ze brengt de belanghebbende aanbieder van een kabelomroepnetwerk op de hoogte van haar beslissing. Nadat die termijn verstreken is, geldt het stilzwijgen van de overheid als goedkeuring. In geval van blijvende onenigheid wordt beslist bij besluit van de Vlaamse Regering.<br>
+<br>
+De openbare overheden hebben in elk geval het recht om de inrichting of het plan van aanleg, alsook de daarmee verband houdende werkzaamheden, later op hun onderscheiden domein te doen wijzigen. De kosten van die werkzaamheden zijn voor rekening van de aanbieder van het kabelomroepnetwerk als de wijzigingen opgelegd zijn om een van de volgende redenen :<br>
+1° met het oog op de openbare veiligheid;<br>
+2° tot behoud van het natuur- en stedenschoon;<br>
+3° in het belang van de wegen, waterlopen, vaarten of een openbare dienst;<br>
+4° als gevolg van een verandering die de aangelanden aan de toegangen tot de eigendommen langs de gebruikte wegen hebben aangebracht.<br>
+<br>
+In andere gevallen zijn ze voor rekening van de overheid die de wijzigingen oplegt. De overheid mag vooraf een kostenbegroting eisen en, in geval van onenigheid, zelf de werkzaamheden laten uitvoeren.<br>
+<br>
+§ 1/1. De Vlaamse Regulator voor de Media kan, de bepalingen die het gebruik van het openbaar domein regelen buiten beschouwing gelaten, met inachtneming van het evenredigheidsbeginsel, om het milieu, de volksgezondheid en de openbare veiligheid te beschermen of om stedenbouwkundige of planologische redenen, het gedeelde gebruik opleggen aan de aanbieders van kabelomroepnetwerken bij de aanleg van hun netwerkelementen en hun bijbehorende faciliteiten. Dat gedeelde gebruik slaat op faciliteiten of eigendom, met inbegrip van gebouwen, toegangen tot gebouwen, bekabeling van gebouwen, masten, antennes, torens en andere ondersteuningsgebouwen, kabelgoten, leidingen, mangaten en straatkasten.<br>
+<br>
+De Vlaamse Regulator voor de Media kan de verplichtingen, vermeld in het eerste lid, opleggen na een passende periode van openbare raadpleging waarin alle belanghebbende partijen in staat zijn gesteld hun standpunt naar voren te brengen.<br>
+<br>
+De Vlaamse Regulator voor de Media kan, na een passende periode van openbare raadpleging waarin alle belanghebbende partijen in staat zijn gesteld hun standpunt naar voren te brengen, verplichtingen opleggen aan de kabelomroepnetwerken voor het gedeelde gebruik van bekabeling in gebouwen of tot aan het eerste punt van samenkomst of distributie als dat zich buiten het gebouw bevindt, als duplicatie van dergelijke infrastructuur economisch inefficiënt of fysiek onuitvoerbaar is.<br>
+<br>
+De verplichtingen, vermeld in het eerste en het vierde lid, kunnen een omslagregeling voor de kosten van het gedeelde gebruik van faciliteiten of eigendom bevatten, die is aangepast aan de risico's.&nbsp;De verplichtingen, vermeld in het eerste en het vierde lid, zijn objectief, transparant, niet discriminerend en evenredig.<br>
+<br>
+§ 2. De aanbieders van kabelomroepnetwerken hebben ook het recht om voor de aanleg van de kabels en de bijbehorende uitrustingen van hun kabelomroepnetwerken op blijvende wijze steunen en ankers aan te brengen op muren en gevels die uitgeven op de openbare weg en hun kabels in open en onbebouwde grond aan te leggen of zonder vasthechting of aanraking boven particuliere eigendommen te laten doorgaan.<br>
+<br>
+De werkzaamheden mogen pas beginnen nadat aan de eigenaars, volgens de gegevens van het kadaster, aan de huurders en de bewoners een behoorlijk aangetoonde schriftelijke kennisgeving is bezorgd.<br>
+<br>
+Als de aanbieder van een kabelomroepnetwerk het voornemen heeft kabels, bovengrondse lijnen en bijbehorende uitrustingen aan te leggen, op te ruimen of er werkzaamheden aan uit te voeren, streeft hij naar overeenstemming met degene op wiens eigendom steun wordt genomen of wiens eigendom wordt overspannen of overschreden, over de plaats en de wijze van uitvoering van de werkzaamheden.<br>
+<br>
+De uitvoering van de werkzaamheden heeft geen buitenbezitstelling tot gevolg. Het plaatsen van steunen en ankers op muren of gevels mag de eigenaar niet hinderen in zijn recht om zijn goed af te breken of te herstellen.<br>
+<br>
+De ondergrondse kabels en steunen die in een open en onbebouwde grond geplaatst zijn, moeten op verzoek van de eigenaar worden weggenomen als die zijn recht om te bouwen of te omheinen uitoefent. De kosten van het wegnemen zijn ten laste van de aanbieder van het kabelomroepnetwerk.<br>
+<br>
+De eigenaar moet evenwel ten minste twee maanden voor het begin van de werkzaamheden, vermeld in het vierde en het vijfde lid, de aanbieder van het kabelomroepnetwerk daarvan op de hoogte brengen.<br>
+<br>
+§ 3. De aanleg en de uitvoering van alle andere werken aan de kabels, bovengrondse lijnen en bijbehorende uitrustingen in, tegen en op gebouwen en in en op gronden die daarbij behoren, voor de aansluitingen op de infrastructuur in die gebouwen, moeten worden gedoogd door de eigenaar en de rechthebbende, tenzij ze bereid zijn de meerkosten van een tegenvoorstel te dragen.<br>
+<br>
+§ 4. Als takken of wortels redelijkerwijze hinderlijk zijn voor de aanleg, het onderhoud of de exploitatie van kabels, bovengrondse lijnen en bijbehorende uitrustingen, moet de eigenaar of de rechthebbende ze, op verzoek van de aanbieder van een kabelomroepnetwerk, inkorten.<br>
+<br>
+Als de eigenaar of de rechthebbende het verzoek gedurende een maand zonder gevolg heeft gelaten, mag de aanbieder van een kabelomroepnetwerk zelf overgaan tot het inkorten.<br>
+<br>
+De kosten van het inkorten zijn ten laste van :<br>
+1° de eigenaar of de rechthebbende, als de bomen of beplantingen zich op zijn privé-eigendom bevinden en hun takken of wortels hinderlijk zijn voor kabels, bovengrondse lijnen en bijbehorende uitrustingen :<br>
+a) die zich in of boven het openbaar domein bevinden;<br>
+b) die zich in of boven zijn privé-eigendom bevinden en die dienstig zijn voor zijn aansluiting;<br>
+2° de aanbieder van een kabelomroepnetwerk, in de overige gevallen.<br>
+<br>
+§ 5. Als de aanbieder van een kabelomroepnetwerk werkzaamheden uitvoert, is hij ertoe gehouden het goed te herstellen in zijn oorspronkelijke staat binnen een redelijke termijn, naargelang van het geval, hetzij door eigen toedoen, hetzij door toedoen van een derde. Van de bepalingen van het eerste lid kan bij overeenkomst tussen de aanbieder van een kabelomroepnetwerk en de eigenaar of de rechthebbende van het goed worden afgeweken.<br>
+<br>
+De bepalingen van het eerste lid zijn niet van toepassing op de schade die onvermijdelijk wordt aangericht aan een goed, als de aanbieder van een kabelomroepnetwerk een werk uitvoert dat nodig is voor de aansluitingen van de eigenaar of de rechthebbende van dat goed.<br>
+<br>
+§ 6. De vergoedingen voor schade wegens de aanleg of de exploitatie van een kabelomroepnetwerk zijn voor rekening van de aanbieder van het kabelomroepnetwerk, die aansprakelijk blijft voor alle voor derden schadelijke gevolgen.<br>
+<br>
+§ 7. De aanbieder van een kabelomroepnetwerk is verplicht onmiddellijk gevolg te geven aan elke vordering van de Vlaamse Regulator voor de Media, het Belgisch Instituut voor Postdiensten en Telecommunicatie of van elke dienst of elk bedrijf voor elektriciteitsvoorziening om elke storing in of nadelige invloed op de werking van de telefoon- of telegraafinstallaties of van de installaties voor elektriciteitsvoorziening onverwijld te doen ophouden.<br>
+<br>
+Bij gebrek daaraan worden de nodig geachte maatregelen, met inbegrip van het verplaatsen van de kabels en de bijbehorende installaties, door de diensten of bedrijven in kwestie getroffen op kosten en risico van de aanbieder van het omroepnetwerk.<br>
+<br>
+§ 8. De aangelegde kabels, bovengrondse lijnen en bijbehorende uitrustingen blijven eigendom van de aanbieder van het kabelomroepnetwerk.
+
+### ART 200/1.
+
+Als de Vlaamse Regulator voor de Media, in voorkomend geval met inachtneming van de verplichtingen die voortvloeien uit een relevante marktanalyse, concludeert dat de verplichtingen die conform artikel 200, § 1/1, zijn opgelegd, onvoldoende de hoge en niet-tijdelijke economische of fysieke drempels voor replicatie aanpakken die ten grondslag liggen aan een bestaande of opkomende marktsituatie die de concurrentie-uitkomsten voor eindgebruikers in aanzienlijke mate beperkt, kan hij, onder billijke en redelijke voorwaarden, de toegangsverplichtingen uitbreiden voorbij het eerste punt van samenkomst of distributie, zodat een punt wordt bereikt dat volgens hem het dichtst bij eindgebruikers ligt, dat in staat is een toereikend aantal eindgebruikersverbindingen te bereiken om commercieel haalbaar te zijn voor efficiënte toegangsverzoekers. Bij het bepalen hoe ver voorbij het eerste punt van samenkomst of distributie die uitbreiding moet gaan, houdt de Vlaamse Regulator voor de Media zoveel mogelijk rekening met de betrokken Berec-richtsnoeren. Als dat gerechtvaardigd is in technisch of economisch opzicht kan de Vlaamse Regulator voor de Media actieve of virtuele toegangsverplichtingen opleggen.<br>
+<br>
+De Vlaamse Regulator voor de Media legt geen verplichtingen op met toepassing van het eerste lid aan aanbieders van elektronische communicatienetwerken als hij constateert dat een van de volgende gevallen zich voordoet :<br>
+1° de aanbieder voldoet aan de voorwaarden, vermeld in artikel 192/11, en hij voorziet in een haalbare en vergelijkbare alternatieve manier om eindgebruikers te bereiken door aan ondernemingen onder billijke, niet-discriminerende en redelijke voorwaarden toegang tot een netwerk met zeer hoge capaciteit aan te bieden. De Vlaamse Regulator voor de Media kan die vrijstelling uitbreiden tot andere ondernemingen die onder billijke, niet-discriminerende en redelijke voorwaarden toegang tot een netwerk met zeer hoge capaciteit aanbieden;<br>
+2° het opleggen van verplichtingen brengt de economische of financiële levensvatbaarheid van de uitrol van een nieuw netwerk, met name door kleine lokale projecten, in het gedrang.<br>
+<br>
+In afwijking van het tweede lid, 1°, kan de Vlaamse Regulator voor de Media verplichtingen opleggen aan aanbieders van elektronische communicatienetwerken die voldoen aan de criteria, vermeld in het tweede lid, 1°, als het netwerk in kwestie met openbare middelen wordt gefinancierd.<br>
+<br>
+De verplichtingen die met toepassing van dit artikel worden opgelegd, zijn objectief, transparant, evenredig en niet discriminerend. Die verplichtingen worden opgelegd met toepassing van de raadplegingsprocedures, vermeld in artikel 192/14 en 192/15.
+
+### ART 200/2.
+
+De Vlaamse Regulator voor de Media kan ingrijpen, op eigen initiatief indien dat gerechtvaardigd is, om een passende toegang en interconnectie of interoperabiliteit van diensten conform deze titel en deel VI te bevorderen en, waar nodig, te waarborgen, en om de basisdoelstellingen, vermeld in artikel 223/1, te waarborgen.<br>
+<br>
+Onverminderd maatregelen ten aanzien van ondernemingen met aanmerkelijke marktmacht in uitvoering van artikel 191, kan de Vlaamse Regulator voor de Media verplichtingen opleggen aan ondernemingen die de toegang tot eindgebruikers controleren, als dat noodzakelijk is om eind-tot-eindverbindingen te waarborgen, hetgeen in gevallen waarin zulks gerechtvaardigd is, ook de verplichting inhoudt om te zorgen voor interconnectie van hun netwerken waar dat niet reeds gebeurd is.<br>
+<br>
+Ondernemingen die de toegang tot eindgebruikers controleren, kunnen door de Vlaamse Regulator voor de Media, als dat gerechtvaardigd en noodzakelijk is, verplicht worden om hun diensten interoperabel te maken.<br>
+<br>
+Aanbieders van elektronische communicatienetwerken kunnen door de Vlaamse Regulator voor de Media verplicht worden, als dat noodzakelijk is om de toegang van eindgebruikers tot gespecificeerde digitale omroepdiensten te waarborgen, toegang tot applicatieprogramma-interfaces en elektronische programmagidsen aan te bieden tegen billijke, redelijke en niet-discriminerende voorwaarden.<br>
+<br>
+De raadplegingsprocedures, vermeld in artikel 192/14 en 192/15, zijn van toepassing. Verplichtingen en voorwaarden die conform het eerste lid worden opgelegd, zijn objectief, transparant, evenredig en niet discriminerend.<br>
+<br>
+De Vlaamse Regulator voor de Media biedt richtsnoeren en stelt de procedures inzake het verkrijgen van toegang en interconnectie voor het publiek beschikbaar teneinde te waarborgen dat kleine en middelgrote ondernemingen en operatoren met een beperkt geografisch bereik kunnen profiteren van de opgelegde verplichtingen.
 
 ## TITEL IV. HET AANBIEDEN VAN ETHEROMROEPNETWERKEN
 
@@ -1797,17 +2286,40 @@ De Vlaamse Regering kan de verordeningen van algemeen bestuur en de politieveror
 
 § 1. Niemand mag een etheromroepnetwerk aanbieden zonder schriftelijke licentie van de Vlaamse Regulator voor de Media. Die licentie is persoonlijk en mag pas aan een derde worden overgedragen na het schriftelijke akkoord van de Vlaamse Regulator voor de Media.<br>
 <br>
-De Vlaamse Regering bepaalt de duur van de licenties, vermeld in het eerste lid, de voorwaarden waaronder die kunnen worden verkregen, en de modaliteiten en de procedure voor het aanvragen, het wijzigen, het schorsen of het intrekken ervan.<br>
+De Vlaamse Regering bepaalt de duur van de licenties, vermeld in het eerste lid, de voorwaarden waaronder die kunnen worden verkregen, en de modaliteiten en de procedure voor het aanvragen, het wijzigen, het schorsen of het intrekken ervan.&nbsp;De licenties, vermeld in het eerste lid, worden toegekend op basis van objectieve, transparante, concurrentiebevorderende, niet-discriminerende en proportionele criteria.<br>
+<br>
+De Vlaamse Regering maakt wijzigingen in de duur van de licenties, in de voorwaarden waaronder die kunnen worden verkregen, in de modaliteiten en de procedure voor het aanvragen, het wijzigen, het schorsen of het intrekken ervan, en in het digitale frequentieplan, vermeld in paragraaf 2, op een passende wijze bekend. Belanghebbenden, met inbegrip van gebruikers en consumenten, kunnen voorafgaand aan de beslissing over de voormelde wijziging, hun standpunt over de wijzigingen bekendmaken gedurende een raadplegingsprocedure die minimaal vier weken duurt en die wordt georganiseerd op de wijze en door de bevoegde dienst die de Vlaamse Regering aanwijst.<br>
 <br>
 § 2. De Vlaamse Regering stelt een digitaal frequentieplan op en keurt het goed. Ze bepaalt het aantal frequentieblokken en frequentiekanalen, met inbegrip van de bijbehorende technische voorwaarden, die geheel of gedeeltelijk zullen worden toegekend aan aanbieders van etheromroepnetwerken.<br>
 <br>
 De frequentieblokken en frequentiekanalen, vermeld in het eerste lid, met inbegrip van de bijbehorende technische voorwaarden die geheel of gedeeltelijk zijn toegekend aan de aanbieder van een etheromroepnetwerk, kunnen ingetrokken, vervangen of gewijzigd worden ten gevolge van internationale of Europese regelgeving en verplichtingen.<br>
 <br>
-§ 3. De Vlaamse Regering stelt aan de openbare omroeporganisatie van de Vlaamse Gemeenschap de frequentieblokken en frequentiekanalen ter beschikking die hij nodig heeft om zijn eigen omroepprogramma's door te geven.
+§ 3. De Vlaamse Regering stelt aan de openbare omroeporganisatie van de Vlaamse Gemeenschap de frequentieblokken en frequentiekanalen ter beschikking die hij nodig heeft om de doelstellingen van algemeen belang overeenkomstig de beheersovereenkomst, vermeld in artikel 17, § 1, 1°, te verwezenlijken.<br>
+&nbsp;
 
 ### ART. 202.
 
-Om een licentie als vermeld in artikel 201 te verkrijgen, moet de aanbieder voldoen aan de volgende voorwaarden :<br />1° opgericht zijn in de vorm van een vennootschap of van een publiekrechtelijke rechtspersoon met als maatschappelijk doel het aanleggen en exploiteren van een etheromroepnetwerk in de Vlaamse Gemeenschap. De aanbieders van een etheromroepnetwerk kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van hun maatschappelijk doel;<br />2° ressorteren onder de bevoegdheid van de Vlaamse Gemeenschap;<br />3° in de boekhouding een onderscheid maken tussen de activiteiten in het kader van het aanbieden van het etheromroepnetwerk enerzijds, en het aanbieden van andere netwerken of diensten waarvoor bijzondere of uitsluitende rechten zijn toegekend, anderzijds;<br />4° jaarlijks voor 30 juni aan de Vlaamse Regulator voor de Media een werkingsverslag met vermelding van, in voorkomend geval, het aantal abonnees en van de doorgegeven omroepprogramma's, en de balans en de jaarrekening, goedgekeurd door de algemene vergadering van aandeelhouders, voorleggen;<br />5° jaarlijks een vergoeding betalen voor het gebruik van de benodigde frequentieblokken en -kanalen;<br />6° beschikken over de nodige technische infrastructuur of een technisch investeringsplan en een financieel plan ter zake voorleggen;<br />7° geen aanbieder zijn van elektronische communicatienetwerken die tegen betaling omroepdiensten of elektronische communicatiediensten aanbiedt aan eindgebruikers in Vlaanderen;<br />8° geen onderneming zijn waarin de ondernemingen, vermeld in punt 7°, zeggenschap hebben. Onder zeggenschap wordt begrepen de rechten, overeenkomsten of andere middelen die het afzonderlijk of gezamenlijk, met inachtneming van alle feitelijke en juridische omstandigheden, mogelijk maken een bepalende invloed uit te oefenen op de activiteiten van een onderneming, met name :<br />a) eigendoms- of gebruiksrechten op alle vermogensbestanddelen van een onderneming of op delen daarvan;<br />b) rechten of overeenkomsten die een bepalende invloed verschaffen op de samenstelling, het stemgedrag of de besluiten van de ondernemingsorganen.<br /><br />De Vlaamse Regering bepaalt het bedrag en de betalingsvoorwaarden van de jaarlijkse vergoeding voor het gebruik van de benodigde frequentieblokken en -kanalen, vermeld in het eerste lid, 5°.<br /><br />De Vlaamse Regering kan aanvullende verplichtingen opleggen. Die verplichtingen zijn objectief gerechtvaardigd in relatie tot het netwerk in kwestie, niet-discriminerend, proportioneel en transparant.
+Om een licentie als vermeld in artikel 201 te verkrijgen, moet de aanbieder voldoen aan de volgende voorwaarden :<br>
+1° opgericht zijn in de vorm van een vennootschap of van een publiekrechtelijke rechtspersoon met als maatschappelijk doel het aanleggen en exploiteren van een etheromroepnetwerk in de Vlaamse Gemeenschap. De aanbieders van een etheromroepnetwerk kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks aansluiten bij de verwezenlijking van hun maatschappelijk doel;<br>
+2° ressorteren onder de bevoegdheid van de Vlaamse Gemeenschap;<br>
+3° in de boekhouding een onderscheid maken tussen de activiteiten in het kader van het aanbieden van het etheromroepnetwerk enerzijds, en het aanbieden van andere netwerken of diensten waarvoor bijzondere of uitsluitende rechten zijn toegekend, anderzijds;<br>
+4° jaarlijks voor 30 juni aan de Vlaamse Regulator voor de Media een werkingsverslag met vermelding van, in voorkomend geval, het aantal abonnees en van de doorgegeven omroepprogramma's, en de balans en de jaarrekening, goedgekeurd door de algemene vergadering van aandeelhouders, voorleggen;<br>
+5° jaarlijks een vergoeding betalen voor het gebruik van de benodigde frequentieblokken en -kanalen. Die vergoeding is objectief gerechtvaardigd, transparant en niet discriminerend;<br>
+6° beschikken over de nodige technische infrastructuur of een technisch investeringsplan en een financieel plan ter zake voorleggen;<br>
+7° geen aanbieder zijn van elektronische communicatienetwerken die tegen betaling omroepdiensten of elektronische communicatiediensten aanbiedt aan eindgebruikers in Vlaanderen;<br>
+8° geen onderneming zijn waarin de ondernemingen, vermeld in punt 7°, zeggenschap hebben. Onder zeggenschap wordt begrepen de rechten, overeenkomsten of andere middelen die het afzonderlijk of gezamenlijk, met inachtneming van alle feitelijke en juridische omstandigheden, mogelijk maken een bepalende invloed uit te oefenen op de activiteiten van een onderneming, met name :<br>
+a) eigendoms- of gebruiksrechten op alle vermogensbestanddelen van een onderneming of op delen daarvan;<br>
+b) rechten of overeenkomsten die een bepalende invloed verschaffen op de samenstelling, het stemgedrag of de besluiten van de ondernemingsorganen.<br>
+<br>
+De Vlaamse Regering bepaalt het bedrag en de betalingsvoorwaarden van de jaarlijkse vergoeding voor het gebruik van de benodigde frequentieblokken en -kanalen, vermeld in het eerste lid, 5°.<br>
+<br>
+De Vlaamse Regering kan de volgende aanvullende verplichtingen verbinden aan de licenties :<br>
+1° technische en operationele voorwaarden ter voorkoming van schadelijke interferentie en voor de bescherming van de volksgezondheid tegen elektromagnetische velden, zoveel mogelijk rekening houdend met aanbeveling 1999/519/EG van de Raad van 12 juli 1999 betreffende de beperking van blootstelling van de bevolking aan elektromagnetische velden van 0 Hz-300 GHz;<br>
+2° maximumduur, onder voorbehoud van wijzigingen van het nationale frequentietoewijzingsplan;<br>
+3° voorwaarden met betrekking tot de overdracht of verhuur van spectrumgebruiksrechten die het voorwerp uitmaken van de zendvergunning, op initiatief van de houder van de vergunning.<br>
+<br>
+De verplichtingen, vermeld in het derde lid, zijn objectief gerechtvaardigd in relatie tot het netwerk in kwestie, niet discriminerend, proportioneel en transparant.<br>
+&nbsp;
 
 ### ART. 202/1.
 
@@ -1833,11 +2345,13 @@ De televisieomroeporganisaties die onder de bevoegdheid van de Vlaamse Gemeensch
 
 ### ART. 207.
 
-Elektronische communicatienetwerken, opgezet voor de distributie van digitale televisieprogramma's, moeten in staat zijn breedbeeldtelevisieprogramma's door te geven. De aanbieders van kabelomroepnetwerken en van etheromroepnetwerken die breedbeeldtelevisieprogramma's ontvangen, moeten die programma's in hetzelfde breedbeeldformaat doorgeven als dat waarin het hun wordt geleverd.
+Elektronische communicatienetwerken, opgezet voor de distributie van digitale televisieprogramma's, moeten in staat zijn breedbeeldtelevisieprogramma's door te geven. De aanbieders van elektronische communicatienetwerken die breedbeeldtelevisieprogramma's ontvangen moeten die programma's in hetzelfde breedbeeldformaat doorgeven als dat waarin het hun wordt geleverd.
 
 ### ART. 208.
 
-Elk analoog televisietoestel met een integraal beeldscherm waarvan de zichtbare diagonaal groter is dan 42 cm, dat op de markt te koop of te huur wordt aangeboden, moet voorzien zijn van ten minste een door een erkende Europese normalisatieorganisatie genormaliseerde aansluitbus met open interface die het zonder meer mogelijk maakt randapparaten, namelijk verdere decoders en digitale ontvangers, aan te sluiten.<br /><br />Elk digitaal televisietoestel met een integraal beeldscherm waarvan de zichtbare diagonaal groter is dan 30 cm, dat op de markt te koop of te huur wordt aangeboden, moet voorzien zijn van ten minste een door een erkende Europese normalisatieorganisatie genormaliseerde aansluitbus met open interface die het zonder meer mogelijk maakt randapparaten aan te sluiten en die alle elementen van een digitaal signaal doorlaat, met inbegrip van informatie over interactieve en voorwaardelijk toegankelijke diensten.
+Elk analoog televisietoestel met een integraal beeldscherm waarvan de zichtbare diagonaal groter is dan 42 cm, dat op de markt te koop of te huur wordt aangeboden, moet voorzien zijn van ten minste een door een erkende Europese normalisatieorganisatie genormaliseerde aansluitbus met open interface die het zonder meer mogelijk maakt randapparaten, namelijk verdere decoders en digitale ontvangers, aan te sluiten.<br>
+<br>
+Digitale televisietoestellen met een integraal scherm waarvan de zichtbare diagonaal groter dan dertig centimeter is en die in de Europese Unie of in de Europese Economische Ruimte worden verkocht of verhuurd, zijn voorzien van ten minste één open interface contrastekker, zoals genormaliseerd of in overeenstemming met een norm die is vastgesteld door een erkende Europese normalisatieorganisatie of in overeenstemming met een door de industrie algemeen aanvaarde specificatie, waarmee eenvoudige aansluiting van randapparatuur mogelijk is en die alle relevante elementen van een digitaal televisiesignaal doorlaat, met inbegrip van informatie betreffende interactieve en voorwaardelijk toegankelijke diensten.
 
 ### ART. 209.
 
@@ -1853,7 +2367,9 @@ De aanbieders van omroepdiensten en de dienstenverdelers die gebruikmaken van sy
 
 ### ART. 211.
 
-Alle dienstenverdelers die aanbieders zijn van systemen voor voorwaardelijke toegang, ongeacht de wijze van doorgifte, waarvan de omroeporganisaties afhangen om potentiële kijkers of luisteraars te kunnen bereiken, moeten :<br />1° aan alle televisieomroeporganisaties op eerlijke, redelijke en niet-discriminerende wijze de technische diensten aanbieden waarmee hun digitale uitzendingen kunnen worden ontvangen door kijkers die daartoe gerechtigd zijn, door middel van een decoder die door de dienstenverdeler wordt beheerd;<br />2° een gescheiden boekhouding voeren voor hun activiteiten als aanbieders van voorwaardelijke toegang, als zij ook andere activiteiten uitoefenen.
+Alle dienstenverdelers die diensten voor voorwaardelijke toegang aanbieden, ongeacht de wijze van doorgifte, die diensten voor toegang tot digitale televisieen digitale radiodiensten aanbieden en waarvan de omroeporganisaties afhangen om potentiële kijkers of luisteraars te kunnen bereiken, voldoen aan de al de volgende voorwaarden :<br>
+1° ze bieden alle omroeporganisaties onder billijke, redelijke en niet-discriminerende voorwaarden die in overeenstemming zijn met de mededingingsregels van de Europese Unie, technische diensten aan met behulp waarvan de diensten van de omroeporganisatie die op digitale wijze doorgegeven worden, door gemachtigde kijkers of luisteraars kunnen worden ontvangen door middel van decoders die de dienstenverdeler beheert en die voldoen aan het mededingingsrecht van de Europese Unie;<br>
+2° ze voeren een gescheiden boekhouding voor hun activiteiten als aanbieders van voorwaardelijke toegang.
 
 ### ART. 212.
 
@@ -1950,12 +2466,12 @@ De voorzitter van een kamer stelt het ontslag van ambtswege van een lid vast, na
 4° het geven en intrekken van de toestemming aan dienstenverdelers om omroepprogramma's door te geven;<br>
 5° het ontvangen van de verschillende soorten kennisgevingen die gericht zijn aan de Vlaamse Regulator voor de Media, vermeld in dit decreet;<br>
 6° het bepalen van de relevante markten en de geografische omvang ervan voor producten en diensten in de sector van de elektronische communicatienetwerken, en het analyseren van die markten om te bepalen of ze daadwerkelijk concurrerend zijn;<br>
-7° het identificeren van ondernemingen met aanmerkelijke marktmacht op de krachtens punt 6° geanalyseerde markten, en het opleggen, indien nodig, van een of meer van de verplichtingen, vermeld in artikel 192;<br>
-8° het in kaart brengen van concentraties in de Vlaamse mediasector;<br>
+7° het identificeren van ondernemingen met aanmerkelijke marktmacht op de krachtens punt 6° geanalyseerde markten, en het opleggen, indien nodig, van een of meer van de verplichtingen, vermeld in artikel 191;<br>
+8° het in kaart brengen van concentraties in de Vlaamse mediasector inclusief de toestand van de markt voor elektronische communicatie;<br>
 9° het toezicht op de naleving door de openbare omroeporganisatie van de beheersovereenkomst met de Vlaamse Gemeenschap, en het jaarlijks rapporteren daarover aan de Vlaamse Regering;<br>
 9°/1 het verlenen van advies aan de Vlaamse Regering indien de VRT nieuwe diensten of activiteiten wil uitoefenen die niet gedekt zijn door de beheersovereenkomst, zoals bepaald in artikel 18;<br>
 10° het uitvoeren van bijzondere opdrachten die de Vlaamse Regering indien nodig kan toevertrouwen aan de algemene kamer, voor zover die betrekking hebben op de taken, vermeld in punten 1° tot 9°/1.<br>
-11° het nemen van de maatregelen krachtens artikel 192/1, 192/2, 192/3, 200, § 1/1, en artikel 202, § 2;<br>
+11° het nemen van de maatregelen krachtens artikel 192/12, 200, § 1/1, artikel 200/1 en 200/2;<br>
 12° de uitvoering van de opdrachten omschreven in en/of voortvloeiend uit artikel 184/1 en het besluit van de Vlaamse Regering in uitvoering van artikel 184/1, § 2.<br>
 13° het toezicht houden op de correctheid van de bereikcijfers die door de dienstenverdelers ter beschikking worden gesteld, het berekenen van het gemiddeld procentueel dagbereik van de regionale televisieomroeporganisaties, en het berekenen van de afzonderlijke bereikvergoedingen als vermeld in artikel 166/1, § 2, lid 6, die de dienstenverdelers verschuldigd zijn aan de regionale omroeporganisaties;<br>
 14° met behoud van de toepassing van paragraaf 3, eerste lid, 2°, niet-bindende interpretatieve richtsnoeren opstellen die de bepalingen van dit decreet of de uitvoeringsbesluiten ervan verduidelijken;<br>
@@ -1969,7 +2485,7 @@ De voorzitter van een kamer stelt het ontslag van ambtswege van een lid vast, na
 22° het informeren van de nationale regulerende instantie of het nationale regulerende orgaan van een andere staat over de klachten of de opmerkingen, vermeld in artikel 176/8;<br>
 23° het informeren van de nationale regulerende instantie of het nationale regulerende orgaan van de andere lidstaat van de Europese Unie, vermeld in artikel 220/1.<br>
 <br>
-De algemene kamer handelt volledig autonoom bij de uitoefening van haar bevoegdheden, vermeld in paragraaf 2. In geval van betwistingen wordt de algemene kamer in rechte vertegenwoordigd door haar voorzitter.<br>
+De algemene kamer handelt volledig autonoom bij de uitoefening van haar bevoegdheden, vermeld in paragraaf 2. Bij de uitoefening van de taken, vermeld in het eerste lid, 1° tot en met 7° en 11°, houdt de algemene kamer evenwel zeer zorgvuldig rekening met door Berec aangenomen richtsnoeren, adviezen, aanbevelingen, gemeenschappelijke standpunten, beste praktijken en methodologieën; en voor de taken, vermeld in het eerste lid, 1° tot en met 7°, ook met de aanbevelingen en besluiten van de Europese Commissie die zijn aangenomen om de geharmoniseerde toepassing van richtlijn 2018/1972 te garanderen. In geval van betwistingen wordt de algemene kamer in rechte vertegenwoordigd door haar voorzitter.<br>
 <br>
 § 3. De kamer voor onpartijdigheid en bescherming van minderjarigen heeft de volgende taken:<br>
 1° uitspraak doen over geschillen die gerezen zijn naar aanleiding van de toepassing van artikel 38, 39, 40/1, 42, 72, 5°, 176/4, § 1, 1°, en artikel 176/4, § 1, 2°;<br>
@@ -1982,7 +2498,14 @@ De kamer voor onpartijdigheid en bescherming van minderjarigen doet daarbij voll
 <br>
 § 5. De Vlaamse Regulator voor de Media stelt&nbsp;jaarlijks voor de Vlaamse Regering en het Vlaams Parlement een activiteitenverslag op dat, voor 31 maart van het daaropvolgende kalenderjaar, wordt voorgelegd.<br>
 <br>
-§ 6. In het kader van deel IV en deel V werkt de Vlaamse Regulator voor de Media, als dat noodzakelijk is, samen met de bevoegde regulerende instanties voor radio-omroep en voor telecommunicatie van de gemeenschappen, de federale overheid en de andere lidstaten van de Europese Gemeenschap, met de Belgische mededingingsautoriteiten en met de regulerende en toezichthoudende instanties in de overige economische sectoren in België.<br>
+§ 6. Als dat noodzakelijk is werkt de Vlaamse Regulator voor de Media in het kader van de toepassing van deel IV en deel V samen met de volgende actoren :<br>
+1° de bevoegde regulerende instanties voor radio-omroep en voor telecommunicatie van de Franse en Duitstalige Gemeenschap, de federale overheid en de andere lidstaten van de Europese Unie en de Europese Economische Ruimte;<br>
+2° de Belgische mededingingsautoriteiten;<br>
+3° de regulerende en toezichthoudende instanties in de overige economische sectoren in België;<br>
+4° de Europese Commissie;<br>
+5° Berec.<br>
+<br>
+Na een met reden omkleed verzoek van de Europese Commissie verstrekt de Vlaamse Regulator voor de Media de Europese Commissie de informatie die ze nodig heeft om haar taken op grond van het Verdrag betreffende de werking van de Europese Unie te vervullen. Als de informatie die de Vlaamse Regulator voor de Media verstrekt, betrekking heeft op informatie die eerder door ondernemingen op verzoek van de Vlaamse Regulator voor de Media is verstrekt, worden die ondernemingen daarvan op de hoogte gebracht. Als de Europese Commissie conform dit artikel informatie vraagt aan de Vlaamse Regulator voor de Media die de Vlaamse Regulator voor de Media van ondernemingen verkregen heeft en als die ondernemingen erom verzoeken, verzoekt de Vlaamse Regulator voor de Media met opgave van de redenen de Europese Commissie om de verstrekte informatie niet aan regulerende instanties van andere lidstaten beschikbaar te stellen.<br>
 <br>
 § 7. Bij het opstellen van niet-bindende interpretatieve richtsnoeren, vermeld in paragraaf 2, eerste lid, 14°, en paragraaf 3, eerste lid, 2°, organiseert de Vlaamse Regulator voor de Media een openbare raadpleging.
 
@@ -2005,6 +2528,24 @@ Over de inhoud van reclame kan de algemene kamer enkel uitspraak doen naar aanle
 ### ART 220/1.
 
 Als een lidstaat van de Europese Unie een verzoek heeft over de activiteiten van een televisieomroeporganisatie die valt onder de bevoegdheid van de Vlaamse Gemeenschap maar een televisiedienst aanbiedt die gericht is op die lidstaat van de Europese Unie, verstrekt de Vlaamse Regulator voor de Media de regulerende instantie of het regulerende orgaan van de bevoegde lidstaat alle informatie die nuttig kan zijn om het verzoek te behandelen. De Vlaamse Regulator voor de Media doet al het mogelijke om het verzoek binnen twee maanden te behandelen.
+
+### ART 220/2.
+
+§ 1. Als in verband met de verplichtingen die met toepassing van deel V worden opgelegd, een geschil ontstaat tussen aanbieders van elektronische communicatienetwerken of -diensten, of tussen dergelijke ondernemingen en andere ondernemingen die genieten van de verplichtingen op het gebied van toegang of interconnectie, neemt de Vlaamse Regulator voor de Media, op verzoek van een van beide partijen, een bindende beslissing om het geschil te beslechten binnen vier maanden, behalve in uitzonderlijke omstandigheden. Alle betrokken partijen werken daarbij ten volle mee met de Vlaamse Regulator voor de Media.<br>
+<br>
+Bij het beslechten van een geschil houdt de Vlaamse Regulator voor de Media rekening met de doelstellingen, vermeld in artikel 223/1.<br>
+<br>
+De beslissing van de Vlaamse Regulator voor de Media, vermeld in het eerste lid, wordt openbaar gemaakt, met inachtneming van de voorschriften over vertrouwelijkheid van handelsgegevens. De Vlaamse Regulator voor de Media verstrekt aan de betrokken partijen een volledig verslag van de redenen waarop de beslissing is gebaseerd.<br>
+<br>
+§ 2. Als in verband met verplichtingen die met toepassing van deel V worden opgelegd, een geschil ontstaat tussen ondernemingen in verschillende lidstaten, kan elke partij het geschil voorleggen aan de Vlaamse Regulator voor de Media of aan de bevoegde nationale regulerende instanties uit de andere lidstaten. Als het geschil gevolgen heeft voor de handel tussen lidstaten, wordt het door de Vlaamse Regulator voor de Media ter kennis van Berec gebracht.<br>
+<br>
+De Vlaamse Regulator voor de Media houdt zoveel mogelijk rekening met de aanbeveling van Berec, waarin Berec de betrokken nationale regulerende instanties verzoekt specifieke maatregelen te nemen om het geschil te beslechten of om geen maatregelen te nemen. De Vlaamse Regulator voor de Media en/of de andere betrokken nationale regulerende instanties nemen op zo kort mogelijke termijn en in elk geval binnen een maand nadat de aanbeveling is uitgebracht, behalve in uitzonderlijke omstandigheden, maatregelen om het geschil te beslechten.<br>
+<br>
+In uitzonderlijke omstandigheden kan de Vlaamse Regulator voor de Media, als er een dringende noodzaak is om te handelen om de mededinging of de belangen van eindgebruikers te beschermen, op verzoek van de partijen of op eigen initiatief voorlopige maatregelen vaststellen zonder het advies van Berec af te wachten.<br>
+<br>
+Deze paragraaf is niet van toepassing op geschillen betreffende de coördinatie van het frequentiespectrum.<br>
+<br>
+§ 3. De procedure, vermeld in paragraaf 1 en 2, laat het recht van elke partij onverlet om een zaak bij de rechtbank aanhangig te maken.
 
 ### ART. 221.
 
@@ -2040,6 +2581,21 @@ De Vlaamse Regulator voor de Media mag het Contactcomité vragen om de zaak te o
 ### ART. 223.
 
 De Vlaamse Regulator voor de Media kan niet optreden tegen inbreuken op dit decreet op basis van feiten die langer dan zes maanden geleden hebben plaatsgevonden. Die verjaringstermijn wordt gestuit in geval van een klacht of een ambtshalve onderzoek en wordt geschorst tijdens de vakantieperiodes. De Vlaamse Regering bepaalt de termijnen van schorsing tijdens de vakantieperiodes.
+
+### ART 223/1.
+
+Bij de toewijzing van radiospectrum en de toepassing van deel IV en V streven respectievelijk de Vlaamse Regering en de Vlaamse Regulator voor de Media de volgende, in willekeurige volgorde weergegeven, algemene doelstellingen na voor zover die van toepassing zijn :<br>
+1° bevorderen van de connectiviteit met en de toegang tot, alsmede de benutting van netwerken met een zeer hoge capaciteit, met inbegrip van vaste, mobiele en draadloze netwerken, voor alle burgers en bedrijven van de Europese Unie en de Europese Economische Ruimte;<br>
+2° bevorderen van de mededinging bij het aanbieden van elektronische communicatienetwerken en bijbehorende faciliteiten, met inbegrip van efficiënte concurrentie op basis van infrastructuur, en bij het aanbieden van elektronische communicatiediensten en bijbehorende diensten;<br>
+3° bijdragen tot de ontwikkeling van de interne markt door het opheffen van resterende belemmeringen voor en het bevorderen van convergerende voorwaarden voor investeringen in en het aanbieden van elektronische communicatienetwerken, elektronische communicatiediensten, bijbehorende faciliteiten en bijbehorende diensten, in de gehele Europese Unie en de Europese Economische Ruimte, door het ontwikkelen van gemeenschappelijke regels en voorspelbare regelgeving en door het bevorderen van doeltreffend, efficiënt en gecoördineerd gebruik van het radiospectrum, open innovatie, het opzetten en ontwikkelen van trans-Europese netwerken, de verstrekking, de beschikbaarheid en de interoperabiliteit van pan-Europese diensten, en eind-tot-eindconnectiviteit;<br>
+4° bevorderen van de belangen van de burgers van de Europese Unie en van de Europese Economische Ruimte op de volgende wijze :<br>
+a) door te zorgen voor connectiviteit met en ruime beschikbaarheid en benutting van netwerken met een zeer hoge capaciteit, waaronder vaste, mobiele en draadloze netwerken, en van elektronische communicatiediensten;<br>
+b) door erop toe te zien dat op basis van daadwerkelijke mededinging optimaal kan worden geprofiteerd wat betreft keuze, prijs en kwaliteit;<br>
+c) door de beveiliging van netwerken en diensten te handhaven;<br>
+d) door een hoog gemeenschappelijk beschermingsniveau voor eindgebruikers te waarborgen via de nodige sectorspecifieke regels;<br>
+e) door aandacht te schenken aan de behoeften, zoals betaalbare prijzen, van specifiek maatschappelijke groeperingen, met name eindgebruikers met een handicap, oudere eindgebruikers en eindgebruikers met speciale sociale behoeften, en ook keuzevrijheid en gelijkwaardige toegang voor eindgebruikers met een handicap.<br>
+<br>
+De Vlaamse Regulator voor de Media handelt onpartijdig, objectief, transparant en op niet-discriminerende en evenredige wijze bij de uitvoering van de taken, vermeld in het eerste lid.
 
 ## TITEL III. BESTUUR EN WERKING
 
@@ -2132,7 +2688,17 @@ De gedelegeerd bestuurder heeft de leiding over het personeel en woont de vergad
 
 ### ART. 234.
 
-De Vlaamse Regulator voor de Media is bevoegd inlichtingen en documenten te vragen van omroeporganisaties van of erkend door de Vlaamse Gemeenschap of aangemeld bij de Vlaamse Regulator voor de Media, dienstenverdelers, aanbieders van kabelomroepnetwerken en van aanbieders van etheromroepnetwerken, als dat voor de invulling van zijn taak nodig is.<br /><br />Iedere omroeporganisatie van of erkend door de Vlaamse Gemeenschap of aangemeld bij de Vlaamse Regulator voor de Media, iedere dienstenverdeler, en iedere aanbieder van kabelomroepnetwerken en etheromroepnetwerken is verplicht om medewerking te verlenen aan de Vlaamse Regulator voor de Media en de door de Vlaamse Regering aangewezen personeelsleden van de Vlaamse overheid bij de uitoefening van hun bevoegdheden.<br /><br />Iedere omroeporganisatie van of erkend door de Vlaamse Gemeenschap of aangemeld bij de Vlaamse Regulator voor de Media is verplicht om een kopie van al haar omroepsignalen, zoals ze werden uitgezonden, te bewaren gedurende een maand, te beginnen vanaf de datum van uitzending.<br /><br />Als de Vlaamse Regulator voor de Media aan een omroeporganisatie van of erkend door de Vlaamse Gemeenschap of aangemeld bij de Vlaamse Regulator voor de Media een kopie van de omroepsignalen als vermeld in het derde lid, vraagt, bezorgt de omroeporganisatie de kopie aan de Vlaamse Regulator voor de Media binnen vijftien dagen nadat ze het verzoek heeft ontvangen. De Vlaamse Regulator voor de Media bepaalt de voorwaarden waaraan de kopie moet voldoen.
+De Vlaamse Regulator voor de Media is bevoegd inlichtingen en documenten, inclusief financiële informatie, te vragen van elke natuurlijke persoon of rechtspersoon waarop dit decreet van toepassing is, als dat voor de invulling van zijn taak nodig is of als dat gevraagd is door de Europese Commissie. Elk verzoek om informatie is in evenredigheid met de uitvoering van de taak in kwestie en wordt met redenen omkleed.<br>
+<br>
+Elke natuurlijke persoon of rechtspersoon waarop dit decreet van toepassing is is verplicht om medewerking te verlenen aan de Vlaamse Regulator voor de Media en de door de Vlaamse Regering aangewezen personeelsleden van de Vlaamse overheid bij de uitoefening van hun bevoegdheden.<br>
+<br>
+Iedere omroeporganisatie van of erkend door de Vlaamse Gemeenschap of aangemeld bij de Vlaamse Regulator voor de Media is verplicht om een kopie van al haar omroepsignalen, zoals ze werden uitgezonden, te bewaren gedurende een maand, te beginnen vanaf de datum van uitzending.<br>
+<br>
+Als de Vlaamse Regulator voor de Media aan een omroeporganisatie van of erkend door de Vlaamse Gemeenschap of aangemeld bij de Vlaamse Regulator voor de Media een kopie van de omroepsignalen als vermeld in het derde lid, vraagt, bezorgt de omroeporganisatie de kopie aan de Vlaamse Regulator voor de Media binnen vijftien dagen nadat ze het verzoek heeft ontvangen. De Vlaamse Regulator voor de Media bepaalt de voorwaarden waaraan de kopie moet voldoen.<br>
+<br>
+De Vlaamse Regulator voor de Media duidt de termijn aan waarin de inlichtingen en de documenten, vermeld in het eerste lid, moeten worden meegedeeld, en ook het niveau van specificering en deelt de ondernemingen mee voor welk doel die informatie zal worden gebruikt.<br>
+<br>
+Als de inlichtingen en de documenten, vermeld in het eerste lid, voor de Vlaamse Regulator voor de Media niet volstaan om zijn taken uit te voeren, kan hij informatie vragen aan andere relevante ondernemingen die actief zijn in de sector elektronische communicatie, de mediasector of in sectoren die er nauw mee verbonden zijn.
 
 ### ART. 235.
 
