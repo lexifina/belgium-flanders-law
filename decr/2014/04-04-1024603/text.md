@@ -253,7 +253,7 @@ Alleen de kandidaten zijn gerechtigd bij de Raad voor   Verkiezingsbetwistingen 
 
 ### ART. 23.
 
-<p>Het bezwaar wordt binnen een termijn van&nbsp;vijfenveertig dagen ingediend, te rekenen vanaf de dagtekening van het proces-verbaal van de verkiezingen.</p>
+<p>Het bezwaar wordt binnen een termijn van&nbsp;veertig dagen ingediend, te rekenen vanaf de dagtekening van het proces-verbaal van de verkiezingen.</p>
 
 <p>Een nieuwe termijn van vijftien dagen wordt geopend met ingang van de datum van de uitspraak van de definitieve veroordeling, gesteund op een klacht die is ingediend met toepassing van artikel 201 van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011.</p>
 
@@ -263,7 +263,7 @@ Alleen de kandidaten zijn gerechtigd bij de Raad voor   Verkiezingsbetwistingen 
 
 ### ART. 25.
 
-De Raad voor Verkiezingsbetwistingen doet uitspraak over het bezwaar   binnen veertig dagen na de indiening ervan. Als binnen die termijn geen   uitspraak is gedaan, wordt het bezwaar als verworpen beschouwd en is de uitslag   van de verkiezing, zoals die door het hoofdstembureau is afgekondigd,   definitief, met behoud van de toepassing van artikel 23, tweede lid, en de   beroepsmogelijkheid bij de Raad van State.<BR>
+De Raad voor Verkiezingsbetwistingen doet uitspraak over het bezwaar binnen vijfendertig dagen na de indiening ervan. Als binnen die termijn geen uitspraak is gedaan, wordt het bezwaar als verworpen beschouwd en is de uitslag van de verkiezing, zoals die door het hoofdstembureau is afgekondigd, definitief, met behoud van de toepassing van artikel 23, tweede lid, en de beroepsmogelijkheid bij de Raad van State.
 
 ### ART. 26.
 
