@@ -5728,6 +5728,10 @@ A = (Cx-1/Cx-2), waarbij:<br>
 1° Cx-1: de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
 2° Cx-2: de gezondheidsindex van de maand januari van het begrotingsjaar x- 2
 
+### ART 330/4.
+
+Aan scholen voor buitengewoon secundair onderwijs die actief zijn in het ondersteuningsmodel, in toepassing van artikel 314/8 en 314/9, wordt voor het schooljaar 2021-2022 eenmalig een budget toegekend in functie van het professionaliseren van ondersteuners. Voor het begrotingsjaar 2021 gaat het om 475.716 euro en voor begrotingsjaar 2022 gaat het om 951.763 euro. De middelen worden ingezet voor de aanstelling van personeelsleden in het schooljaar 2021-2022 die ondersteuners vervangen tijdens een periode van professionalisering. De Vlaamse Regering legt daartoe het verdelingsmechanisme over de scholen, de toepassingsmodaliteiten en de modaliteiten met betrekking tot het lokaal sociaal overleg vast.
+
 ## Onderafdeling 6. Evaluatie
 
 ### ART. 331.
