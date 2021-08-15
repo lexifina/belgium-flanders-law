@@ -2258,6 +2258,10 @@ G_Kl = het extra werkingsbudget, vermeld in het eerste lid, gedeeld door het tot
 <br>
 Het extra werkingsbudget wordt aan de schoolbesturen uitbetaald uiterlijk op 31 maart 2019.
 
+### ART 87ter.
+
+Aan scholen voor buitengewoon basisonderwijs die actief zijn in het ondersteuningsmodel, in toepassing van de artikelen 172quinquies en 172quinquies/1, wordt voor het schooljaar 2021-2022 eenmalig een budget toegekend in functie van het professionaliseren van ondersteuners. Voor het begrotingsjaar 2021 gaat het om 957.284 euro en voor het begrotingsjaar 2022 gaat het om 1.915.237 euro. De middelen worden ingezet voor de aanstelling van personeelsleden in het schooljaar 2021-2022 die ondersteuners vervangen tijdens een periode van professionalisering. De Vlaamse Regering legt daartoe het verdelingsmechanisme over de scholen, de toepassingsmodaliteiten en de modaliteiten met betrekking tot het lokaal sociaal overleg vast.
+
 ## [6° EXTRA WERKINGSBUDGET VOOR BELEIDSONDERSTEUNING (ing. Decr. 25 februari 2022, art. 2, I: 1 september 2021)]
 
 ## ONDERAFDELING E DE INVESTERINGSMIDDELEN
