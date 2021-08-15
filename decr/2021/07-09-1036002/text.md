@@ -306,6 +306,12 @@ b) een niet-begeleide minderjarige vreemdeling voor wie de voorwaarden, vermeld 
 
 In artikel 73, § 1, van hetzelfde decreet, gewijzigd bij de decreten van 13 juli 2001 en 10 juli 2003, wordt punt 6° opgeheven.
 
+### ART 94.
+
+In hetzelfde decreet wordt een artikel 87ter ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 87ter. Aan scholen voor buitengewoon basisonderwijs die actief zijn in het ondersteuningsmodel, in toepassing van de artikelen 172quinquies en 172quinquies/1, wordt voor het schooljaar 2021-2022 eenmalig een budget toegekend in functie van het professionaliseren van ondersteuners. Voor het begrotingsjaar 2021 gaat het om 957.284 euro en voor het begrotingsjaar 2022 gaat het om 1.915.237 euro. De middelen worden ingezet voor de aanstelling van personeelsleden in het schooljaar 2021-2022 die ondersteuners vervangen tijdens een periode van professionalisering. De Vlaamse Regering legt daartoe het verdelingsmechanisme over de scholen, de toepassingsmodaliteiten en de modaliteiten met betrekking tot het lokaal sociaal overleg vast.".
+
 ### ART 98.
 
 In artikel 125duodecies1, § 1, van hetzelfde decreet, ingevoegd bij het decreet van 22 juni 2007, vervangen bij het decreet van 4 juli 2008 en het laatst gewijzigd bij het decreet van 17 juni 2016, wordt tussen het eerste en het tweede lid een lid ingevoegd, dat luidt als volgt:<br>
@@ -431,6 +437,12 @@ Aan artikel 146 van dezelfde codex, vervangen bij het decreet van 26 januari 201
 2° de Vlaamse Regering beslist uiterlijk vier maanden na indiening van de aanvraag.<br>
 <br>
 Tijdens het schooljaar 2021-2022 wordt gedoogd dat de aanvrager nog met de oude eindtermen of, in voorkomend geval, de oude vervangende eindtermen werkt.".
+
+### ART 200.
+
+In dezelfde codex wordt een artikel 330/4 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 330/4. Aan scholen voor buitengewoon secundair onderwijs die actief zijn in het ondersteuningsmodel, in toepassing van artikel 314/8 en 314/9, wordt voor het schooljaar 2021-2022 eenmalig een budget toegekend in functie van het professionaliseren van ondersteuners. Voor het begrotingsjaar 2021 gaat het om 475.716 euro en voor begrotingsjaar 2022 gaat het om 951.763 euro. De middelen worden ingezet voor de aanstelling van personeelsleden in het schooljaar 2021-2022 die ondersteuners vervangen tijdens een periode van professionalisering. De Vlaamse Regering legt daartoe het verdelingsmechanisme over de scholen, de toepassingsmodaliteiten en de modaliteiten met betrekking tot het lokaal sociaal overleg vast.".
 
 ## HOOFDSTUK 17. Wijzigingen van de Codex Hoger Onderwijs van 11 oktober 2013
 
