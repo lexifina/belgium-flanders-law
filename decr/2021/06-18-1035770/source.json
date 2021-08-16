@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035770,
+  "title": "Decreet van 2021-06-18 tot wijziging van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, wat betreft zorgwonen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035770/VolledigDocument?datum=2021-08-16",
+  "source_sha256": "2a2152dfff4740eb04ef3e068dcd8cea9e28ce51adfc060948b025bd9a67627f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035770&param=informatie",
+  "as_of": "2021-08-16",
+  "made": "2021-06-18",
+  "gazette": "2021-07-02",
+  "numac": 2021031710,
+  "document_start": "2021-08-16",
+  "document_end": null,
+  "in_force": "2021-08-16",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2021-08-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
