@@ -1648,15 +1648,13 @@ b) het geheel of gedeeltelijk herbouwen of vervangen van buitenmuren of dragende
 15° verkrot : niet voldoend aan de elementaire eisen van stabiliteit;<br>
 16° woning : een goed, vermeld in artikel 1.3, § 1, eerste lid, 66°, van de Vlaamse Codex Wonen van 2021;<br>
 17° zonevreemde constructie : hetzij een constructie die niet beantwoordt aan de voor het perceel geldende bestemmingsvoorschriften en die niet gelegen is binnen een minder dan vijftien jaar oude niet-vervallen verkaveling, hetzij een constructie die gelegen is in een reservatiestrook en die niet behoort tot de nutswerken waarvoor de reservatiestrook is afgebakend;<br>
-18° zorgwonen : een vorm van wonen waarbij voldaan is aan alle hiernavolgende voorwaarden :<br>
-a) in een bestaande woning wordt één ondergeschikte wooneenheid gecreëerd,<br>
-b) de ondergeschikte wooneenheid vormt één fysiek geheel met de hoofdwooneenheid,<br>
-c) de ondergeschikte wooneenheid, daaronder niet begrepen de met de hoofdwooneenheid gedeelde ruimten, maakt ten hoogste één derde uit van het bouwvolume van de volledige woning,<br>
-d) de creatie van de ondergeschikte wooneenheid gebeurt met het oog op het huisvesten van :<br>
-1) hetzij ten hoogste twee personen, waarvan ten minste één persoon 65 jaar of ouder is;<br>
-2) hetzij ten hoogste twee personen, waarvan ten minste één persoon die hulpbehoevend is. Een hulpbehoevende persoon is een persoon met een handicap, een persoon die in aanmerking komt voor een zorgbudget voor zwaar zorgbehoevenden, een zorgbudget voor ouderen met een zorgnood of een basisondersteuningsbudget als vermeld in artikel 4, eerste lid, 1°, 2° en 3°, van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, of een persoon die een behoefte heeft aan ondersteuning om zich in zijn thuismilieu te kunnen handhaven. De kinderen ten laste van de hulpbehoevende persoon worden niet meegerekend bij het bepalen van het maximum van twee personen;<br>
-3) hetzij de zorgverlener indien de personen, vermeld in punt 1 of 2, gehuisvest blijven in de hoofdwooneenheid.<br>
-e) de eigendom, of ten minste de blote eigendom, op de hoofd- en de ondergeschikte wooneenheid berust bij dezelfde titularis of titularissen.<br>
+18° zorgwonen: een vorm van wonen waarbij voldaan is aan alle hiernavolgende voorwaarden:<br>
+a) in of bij een bestaande hoofdzakelijk vergunde woning wordt één ondergeschikte wooneenheid gecreëerd;<br>
+b) de ondergeschikte wooneenheid, vermeld in punt a), wordt gecreëerd met het oog op:<br>
+1) de huisvesting van ten hoogste twee personen, waarvan ten minste één persoon 65 jaar of ouder is;<br>
+2) de huisvesting van ten hoogste twee personen, waarvan ten minste één persoon die zorgbehoevend is. Een zorgbehoevende persoon is een persoon met een handicap, een persoon die in aanmerking komt voor een zorgbudget voor zwaar zorgbehoevenden, een zorgbudget voor ouderen met een zorgnood of een basisondersteuningsbudget als vermeld in artikel 4, eerste lid, 1°, 2° en 3°, van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, of een persoon die behoefte heeft aan ondersteuning om zich in zijn thuismilieu te kunnen handhaven. De kinderen ten laste van de zorgbehoevende persoon worden niet meegerekend bij het bepalen van het maximum van twee personen;<br>
+3) de huisvesting van de zorgverlener als de personen, vermeld in punt 1) of 2), gehuisvest blijven in de hoofdwooneenheid;<br>
+c) de eigendom, of ten minste de blote eigendom, op enerzijds de hoofdwooneenheid en anderzijds de ondergeschikte wooneenheid, vermeld in punt a), of de grond waarop die ondergeschikte wooneenheid tijdelijk wordt geplaatst, berust bij dezelfde titularis of titularissen.<br>
 &nbsp;
 
 ## HOOFDSTUK II Vergunningsplicht
@@ -1720,12 +1718,32 @@ Handelingen waarvoor een milieueffectenrapport, een passende beoordeling of een 
 
 ### ART. 4.2.4.
 
-§ 1. De verwezenlijking van een ondergeschikte wooneenheid met het oog op de creatie van een vorm van zorgwonen is meldingsplichtig op voorwaarde dat de ondergeschikte wooneenheid verwezenlijkt wordt binnen het bestaande bouwvolume van de woning.<br>
+In elk van de volgende gevallen is de verwezenlijking van een ondergeschikte wooneenheid met het oog op de creatie van een vorm van zorgwonen meldingsplichtig, voor de duur van de zorgsituatie, vermeld in artikel 4.1.1, 18°, b), van deze codex:<br>
+1° de ondergeschikte wooneenheid wordt verwezenlijkt binnen het bestaande bouwvolume van de hoofdzakelijk vergunde woning, waarbij voldaan is aan al de volgende voorwaarden:<br>
+a) de ondergeschikte wooneenheid vormt één fysiek geheel met de hoofdwooneenheid;<br>
+b) de brutovloeroppervlakte van de ondergeschikte wooneenheid maakt ten hoogste één derde uit van de brutovloeroppervlakte van de volledige woning. De ruimten die gedeeld worden met de hoofdwooneenheid, worden niet meegerekend bij het bepalen van de brutovloeroppervlakte van de ondergeschikte wooneenheid;<br>
+2° de ondergeschikte wooneenheid wordt verwezenlijkt in een bestaand, hoofdzakelijk vergund vrijstaand bijgebouw, waarbij voldaan is aan al de volgende voorwaarden:<br>
+a) de brutovloeroppervlakte van de ondergeschikte wooneenheid bedraagt maximaal vijftig vierkante meter;<br>
+b) er wordt geen bijkomende verharding aangelegd, met uitzondering van een strikt noodzakelijke toegang tot de ondergeschikte wooneenheid;<br>
+c) de noodzakelijke nutsvoorzieningen van de ondergeschikte wooneenheid takken aan op de bestaande nutsvoorzieningen van de hoofdwooneenheid;<br>
+d) de afvoer van het afvalwater van de ondergeschikte wooneenheid sluit aan op de bestaande waterafvoer van de hoofdwooneenheid;<br>
+3° een tijdelijke, verplaatsbare constructie wordt geplaatst waarin de ondergeschikte wooneenheid wordt verwezenlijkt en waarbij voldaan is aan al de volgende voorwaarden:<br>
+a) de tijdelijke, verplaatsbare constructie wordt volledig geplaatst binnen een straal van dertig meter van de hoofdwooneenheid op hetzelfde perceel als de hoofdwooneenheid of op een perceel dat onmiddellijk paalt aan het perceel van de hoofdwooneenheid;<br>
+b) de tijdelijke, verplaatsbare constructie wordt op een van de volgende plaatsen geplaatst:<br>
+1) in de zijtuin, al dan niet vrijstaand, tot op drie meter van de perceelsgrenzen;<br>
+2) in de achtertuin, al dan niet vrijstaand, tot op een meter van de perceelsgrenzen. De ondergeschikte wooneenheid kan in de achtertuin ook op of tegen de perceelsgrens geplaatst worden als ze tegen een bestaande scheidingsmuur opgericht wordt en als de bestaande scheidingsmuur niet gewijzigd wordt;<br>
+c) de tijdelijke, verplaatsbare constructie heeft een maximale hoogte van 3,5 meter;<br>
+d) de tijdelijke, verplaatsbare constructie heeft een maximale brutovloeroppervlakte van vijftig vierkante meter;<br>
+e) er wordt geen bijkomende verharding aangelegd, met uitzondering van de tijdelijke, verplaatsbare constructie zelf en een strikt noodzakelijke toegang tot de tijdelijke, verplaatsbare constructie;<br>
+f) de plaatsing van de tijdelijke, verplaatsbare constructie gaat niet gepaard met een ontbossing als vermeld in artikel 4, 15, van het Bosdecreet van 13 juni 1990 of met het aanmerkelijk wijzigen van het reliëf van de bodem, en gebeurt niet in een overstromingsgebied, vermeld in artikel 1.1.2, 10°, a), 10), van deze codex, noch in een ruimtelijk kwetsbaar gebied, met uitzondering van agrarisch gebied met ecologische waarde, agrarisch gebied met ecologisch belang en parkgebied;<br>
+g) de noodzakelijke nutsvoorzieningen takken aan op de bestaande nutsvoorzieningen van de hoofdwooneenheid;<br>
+h) de afvoer van het afvalwater sluit aan op de bestaande waterafvoer van de hoofdwooneenheid;<br>
+i) de plaatsing is tijdelijk voor een maximale totale duur van drie jaar per hoofdwooneenheid. De duur van de plaatsing kan met een nieuwe melding één keer verlengd worden met een aanvullende periode van maximaal drie jaar;<br>
+j) binnen een termijn van drie maanden na het beëindigen van de zorgsituatie, vermeld in artikel 4.1.1, 18°, b), van deze codex, worden de tijdelijke, verplaatsbare constructie en de hiervoor aangelegde strikt noodzakelijke toegang verwijderd.<br>
 <br>
-Het beëindigen van de zorgsituatie, vermeld in artikel 4.1.1, 18°, d), is eveneens meldingsplichtig.<br>
+Het beëindigen van de zorgsituatie, vermeld in artikel 4.1.1, 18°, b), is ook meldingsplichtig.<br>
 <br>
-§ 2. Indien een bestaande zorgwoning, na het beëindigen van de zorgsituatie, aangewend zal worden voor de huisvesting van meerdere gezinnen of alleenstaanden, is daartoe een voorafgaande omgevingsvergunning voor het opsplitsen van een woning vereist.<br>
-&nbsp;
+Als de zorgwoning na het beëindigen van de zorgsituatie aangewend zal worden voor de huisvesting van meerdere gezinnen of alleenstaanden is daartoe een voorafgaande omgevingsvergunning voor het wijzigen van het aantal woongelegenheden vereist.
 
 ## Sectie 3 Lokale voorschriften
 
@@ -1998,7 +2016,7 @@ Afwijkingen kunnen niet worden toegestaan voor wat betreft :<br>
 <br>
 § 2. De volgende handelingen worden niet beschouwd als afwijkend van stedenbouwkundige voorschriften en verkavelingsvoorschriften, tenzij die voorschriften deze handelingen uitdrukkelijk verbieden:<br>
 1° de plaatsing van fotovoltaïsche zonnepanelen of zonneboilers geïntegreerd in het dakvlak;<br>
-2° de creatie van een zorgwoning in de zin van artikel 4.1.1, 18° ;<br>
+2° de creatie van een zorgwoning in de zin van artikel 4.2.4;<br>
 3° het aanbrengen van isolatie aan de buitenzijde van een woning met een dikte van ten hoogste 26 centimeter.<br>
 <br>
 § 3. De volgende zaken worden niet beschouwd als strijdig met voorschriften van het gewestplan, algemene plannen van aanleg, gewestelijke of provinciale ruimtelijke uitvoeringsplannen en meer dan vijftien jaar oude verkavelingen:<br>
@@ -2203,14 +2221,14 @@ Bij de afgifte van een vergunning op grond van deze afdeling geldt de   toetsing
 
 ### ART. 4.4.12.
 
-In alle bestemmingsgebieden geldt dat de vigerende bestemmingsvoorschriften op zichzelf geen weigeringsgrond vormen bij de beoordeling van een aanvraag voor een omgevingsvergunning voor het verbouwen van een bestaande zonevreemde woning, op voorwaarde dat het aantal woongelegenheden beperkt blijft tot het bestaande aantal. De creatie van een zorgwoning in de zin van artikel 4.1.1, 18°, is wel toegelaten.<br>
+In alle bestemmingsgebieden geldt dat de vigerende bestemmingsvoorschriften op zichzelf geen weigeringsgrond vormen bij de beoordeling van een aanvraag voor een omgevingsvergunning voor het verbouwen van een bestaande zonevreemde woning, op voorwaarde dat het aantal woongelegenheden beperkt blijft tot het bestaande aantal. De creatie van een zorgwoning in de zin van artikel 4.2.4, eerste lid, 1°, is wel toegelaten.<br>
 &nbsp;
 
 ## Subsectie 2 Herbouwen op dezelfde plaats
 
 ### ART. 4.4.13.
 
-§ 1. De vigerende bestemmingsvoorschriften vormen op zichzelf geen weigeringsgrond bij de beoordeling van een aanvraag voor een omgevingsvergunning voor het herbouwen van een bestaande zonevreemde woning op dezelfde plaats, op voorwaarde dat het aantal woongelegenheden beperkt blijft tot het bestaande aantal. De creatie van een zorgwoning in de zin van artikel 4.1.1, 18°, is wel toegelaten.<br>
+§ 1. De vigerende bestemmingsvoorschriften vormen op zichzelf geen weigeringsgrond bij de beoordeling van een aanvraag voor een omgevingsvergunning voor het herbouwen van een bestaande zonevreemde woning op dezelfde plaats, op voorwaarde dat het aantal woongelegenheden beperkt blijft tot het bestaande aantal. De creatie van een zorgwoning in de zin van artikel 4.2.4, eerste lid, 1°, is wel toegelaten.<br>
 <br>
 Als het bestaande bouwvolume meer dan 1 000 m3 bedraagt, is het maximale volume van de herbouwde woning beperkt tot 1 000 m3.<br>
 <br>
@@ -2226,7 +2244,7 @@ Als het bestaande bouwvolume meer dan 1 000 m3 bedraagt, is het maximale volume 
 ### ART. 4.4.14.
 
 § 1. De vigerende bestemmingsvoorschriften vormen op zichzelf geen weigeringsgrond bij de beoordeling van een aanvraag voor een omgevingsvergunning voor het herbouwen van een bestaande zonevreemde woning op een gewijzigde plaats, op voorwaarde dat voldaan is aan alle hiernavolgende vereisten :<br>
-1° het aantal woongelegenheden blijft beperkt tot het bestaande aantal. De creatie van een zorgwoning in de zin van artikel 4.1.1, 18°, is wel toegelaten;<br>
+1° het aantal woongelegenheden blijft beperkt tot het bestaande aantal. De creatie van een zorgwoning in de zin van artikel 4.2.4, eerste lid, 1°,&nbsp; is wel toegelaten;<br>
 2° voor het herbouwen is ten minste één van volgende oorzaken aanwijsbaar :<br>
 a) de woning is getroffen door een rooilijn,<br>
 b) de woning bevindt zich in een achteruitbouwzone,<br>
@@ -2246,7 +2264,7 @@ Als het bestaande bouwvolume meer dan 1 000 m3 bedraagt, is het maximale volume 
 
 ### ART. 4.4.15.
 
-Het uitbreiden van een bestaande zonevreemde woning is vergunbaar, voor zover het bouwvolume beperkt blijft tot ten hoogste 1 000 m3 en op voorwaarde dat het aantal woongelegenheden beperkt blijft tot het bestaande aantal. De creatie van een zorgwoning in de zin van artikel 4.1.1, 18°, is wel toegelaten.<br>
+Het uitbreiden van een bestaande zonevreemde woning is vergunbaar, voor zover het bouwvolume beperkt blijft tot ten hoogste 1 000 m3 en op voorwaarde dat het aantal woongelegenheden beperkt blijft tot het bestaande aantal. De creatie van een zorgwoning in de zin van artikel 4.2.4, eerste lid, 1°,&nbsp; is wel toegelaten.<br>
 <br>
 De mogelijkheden, vermeld in het eerste lid, gelden niet in :<br>
 1° ruimtelijk kwetsbare gebieden, met uitzondering van parkgebieden;<br>
@@ -2259,7 +2277,12 @@ De mogelijkheden, vermeld in het eerste lid, gelden niet in :<br>
 
 ### ART. 4.4.16.
 
-In alle bestemmingsgebieden geldt dat de vigerende   bestemmingsvoorschriften op zichzelf geen weigeringsgrond vormen bij de   beoordeling van een aanvraag voor een omgevingsvergunning voor het verbouwen van   een bestaande zonevreemde constructie, niet zijnde woningbouw.<BR><BR>Indien de   verbouwingswerken betrekking hebben op projecten waarvoor een   omgevingsvergunning voor de exploitatie van een ingedeelde inrichting of   activiteit vereist is, gelden de mogelijkheden, vermeld in het eerste lid,   slechts indien voldaan is aan alle hiernavolgende voorwaarden :<BR>1° de   opdrachtgever beschikt op het ogenblik van de vergunningsaanvraag over de voor   een normale bedrijfsvoering noodzakelijke omgevingsvergunning;<BR>2° de   constructie werd in het jaar voorafgaand aan de vergunningsaanvraag   daadwerkelijk uitgebaat.<BR><BR>
+In alle bestemmingsgebieden geldt dat de vigerende bestemmingsvoorschriften op zichzelf geen weigeringsgrond vormen bij de beoordeling van een aanvraag voor een omgevingsvergunning voor het verbouwen van een bestaande zonevreemde constructie, niet zijnde woningbouw.&nbsp;De creatie van een zorgwoning in de zin van artikel 4.2.4, eerste lid, 2°, is wel toegelaten.<br>
+<br>
+Indien de verbouwingswerken betrekking hebben op projecten waarvoor een omgevingsvergunning voor de exploitatie van een ingedeelde inrichting of activiteit vereist is, gelden de mogelijkheden, vermeld in het eerste lid, slechts indien voldaan is aan alle hiernavolgende voorwaarden :<br>
+1° de opdrachtgever beschikt op het ogenblik van de vergunningsaanvraag over de voor een normale bedrijfsvoering noodzakelijke omgevingsvergunning;<br>
+2° de constructie werd in het jaar voorafgaand aan de vergunningsaanvraag daadwerkelijk uitgebaat.<br>
+&nbsp;
 
 ## Subsectie 2 Herbouwen op dezelfde plaats
 
@@ -2305,7 +2328,7 @@ Als een zonevreemde woning vernield of beschadigd werd ten gevolge van een vreem
 3° het bouwvolume van de herstelde woning blijft beperkt tot :<br>
 a) het vergunde of vergund geachte bouwvolume, met een maximum van 1 000 m3, indien de woning gelegen is in een ruimtelijk kwetsbaar gebied, met uitzondering van parkgebieden en agrarische gebieden met ecologisch belang of ecologische waarde,<br>
 b) 1.000 m3, indien de woning gelegen is in een ruimtelijk niet kwetsbaar gebied, in een parkgebied of in een agrarisch gebied met ecologisch belang of ecologische waarde;<br>
-4° het aantal woongelegenheden blijft beperkt tot het voor de vernietiging of de beschadiging bestaande aantal. De creatie van een zorgwoning in de zin van artikel 4.1.1, 18°, is wel toegelaten.
+4° het aantal woongelegenheden blijft beperkt tot het voor de vernietiging of de beschadiging bestaande aantal. De creatie van een zorgwoning in de zin van artikel 4.2.4 is wel toegelaten.
 
 ## Sectie 2 Andere vernietigde of beschadigde constructies
 
