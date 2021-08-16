@@ -87,11 +87,15 @@ Ter uitvoering van artikel 2, 24), van verordening (EU) nr. 2016/1012 kan een st
 <br>
 De bevoegde entiteit beoordeelt de aanvraag tot erkenning, vermeld in het eerste lid, en beslist erover op basis van wetenschappelijk advies dat wordt uitgebracht door een orgaan dat beschikt over de noodzakelijke vaardigheden en kennis op het gebied van met uitsterven bedreigde rassen.<br>
 <br>
-De bevoegde entiteit kan de erkenning, vermeld in het eerste lid, intrekken als op basis van wetenschappelijk advies van een orgaan dat beschikt over de noodzakelijke vaardigheden en kennis op het gebied van met uitsterven bedreigde rassen, wordt vastgesteld dat het ras niet meer met uitsterven bedreigd is.
+De bevoegde entiteit kan de erkenning, vermeld in het eerste lid, opheffen als op basis van wetenschappelijk advies van een orgaan dat beschikt over de noodzakelijke vaardigheden en kennis op het gebied van met uitsterven bedreigde rassen, wordt vastgesteld dat het ras niet meer met uitsterven bedreigd is.
 
 ### ART 6.
 
-De erkenningen die verleend worden conform artikel 4 van verordening (EU) nr. 2016/1012 worden bekendgemaakt in het Belgisch Staatsblad.
+De erkenningen die verleend worden conform artikel 4 van verordening (EU) nr. 2016/1012 worden openbaar bekendgemaakt door de bevoegde entiteit.
+
+### ART 6/1.
+
+De kennisgeving, vermeld in artikel 9, lid 1 en 2, van verordening (EU) nr. 2016/1012, bevat een gecoördineerde versie van het fokprogramma dat de voorgestelde wijzigingen integreert in het fokprogramma, met inbegrip van een datum en versienummer.
 
 ### ART 7.
 
@@ -125,9 +129,9 @@ Een aanvraag tot erkenning als stamboekvereniging voor een andere diersoort word
 <br>
 De bevoegde entiteit beoordeelt de aanvragen en beslist erover.<br>
 <br>
-De bevoegde entiteit kan de erkenning intrekken als de stamboekvereniging voor een andere diersoort niet voldoet aan de voorwaarden, vermeld in dit hoofdstuk.<br>
+De bevoegde entiteit kan de erkenning opheffen als de stamboekvereniging voor een andere diersoort niet voldoet aan de voorwaarden, vermeld in dit hoofdstuk.<br>
 <br>
-De erkenningen worden bekendgemaakt in het Belgisch Staatsblad.
+De bevoegde entiteit maakt de erkenningen openbaar.
 
 ### ART 12.
 
@@ -183,7 +187,7 @@ Een stamboekvereniging voor een andere diersoort kan specifieke technische activ
 
 Voordat de stamboekvereniging voor een andere diersoort significante wijzigingen aanbrengt in een fokprogramma dat is goedgekeurd conform artikel 13, brengt ze de bevoegde entiteit op de hoogte van de voorgenomen wijzigingen.<br>
 <br>
-De kennisgeving, vermeld in het eerste lid, wordt in elektronische vorm gedaan.<br>
+De kennisgeving, vermeld in het eerste lid, wordt in elektronische vorm gedaan en bevat een gecoördineerde versie van het fokprogramma dat de voorgestelde wijzigingen integreert in het fokprogramma, met inbegrip van een datum en versienummer.<br>
 <br>
 Tenzij de bevoegde entiteit binnen negentig dagen vanaf de datum van kennisgeving anders aangeeft, worden die wijzigingen geacht te zijn goedgekeurd.<br>
 <br>
@@ -321,9 +325,9 @@ Een aanvraag tot erkenning als vereniging die een vereenvoudigd beheer voert wor
 <br>
 De bevoegde entiteit beoordeelt de aanvragen en beslist erover.<br>
 <br>
-De bevoegde entiteit kan een erkenning intrekken als de vereniging die een vereenvoudigd beheer voert, niet voldoet aan de voorwaarden, vermeld in dit hoofdstuk.<br>
+De bevoegde entiteit kan een erkenning opheffen als de vereniging die een vereenvoudigd beheer voert, niet voldoet aan de voorwaarden, vermeld in dit hoofdstuk.<br>
 <br>
-De erkenningen worden bekendgemaakt in het Belgisch Staatsblad.
+De bevoegde entiteit maakt de erkenningen openbaar.
 
 ### ART 26.
 
@@ -358,7 +362,7 @@ c) de creatie van een nieuw ras of een nieuwe variëteit;<br>
 d) de reconstructie van een ras;<br>
 2° de volgende informatie bevat:<br>
 a) de naam van het ras of de variëteit die, om verwarring te voorkomen met gelijkaardige raszuivere fokdieren die in erkende stamboeken zijn ingeschreven of geregistreerd, afwijkt van de naam die gegeven is aan raszuivere fokdieren;<br>
-b) de eigenschappen van het ras waarop het fokprogramma betrekking heeft;<br>
+b) de eigenschappen van het ras of de variëteiten waarop het fokprogramma betrekking heeft;<br>
 c) de informatie over het systeem voor de identificatie van fokdieren;<br>
 d) de informatie over het systeem voor de registratie waarmee wordt gewaarborgd dat die fokdieren uitsluitend worden geregistreerd in een centrale databank als ze afzonderlijk zijn geïdentificeerd, overeenkomstig de wetgeving over de identificatie en registratie die geldt voor de diersoort;<br>
 e) de informatie over het systeem voor het registreren van de afstamming van fokdieren.
@@ -367,7 +371,7 @@ e) de informatie over het systeem voor het registreren van de afstamming van fok
 
 Voordat de vereniging die een vereenvoudigd beheer voert significante wijzigingen aanbrengt in een fokprogramma dat is goedgekeurd conform artikel 27, brengt ze de bevoegde entiteit op de hoogte van die voorgenomen wijzigingen.<br>
 <br>
-De kennisgeving, vermeld in het eerste lid, wordt in elektronische vorm gedaan.<br>
+De kennisgeving, vermeld in het eerste lid, wordt in elektronische vorm gedaan en bevat een gecoördineerde versie van het fokprogramma dat de voorgestelde wijzigingen integreert in het fokprogramma, met inbegrip van een datum en versienummer.<br>
 <br>
 Tenzij de bevoegde entiteit binnen negentig dagen vanaf de datum van kennisgeving anders aangeeft, worden die wijzigingen geacht te zijn goedgekeurd.<br>
 <br>
@@ -397,9 +401,9 @@ Een aanvraag tot erkenning als vereniging die coördinerende taken opneemt, word
 <br>
 De bevoegde entiteit beoordeelt de aanvragen en beslist erover.<br>
 <br>
-De bevoegde entiteit kan een erkenning intrekken als een vereniging die coördinerende taken opneemt niet voldoet aan de voorwaarden, vermeld in dit hoofdstuk.<br>
+De bevoegde entiteit kan een erkenning opheffen als een vereniging die coördinerende taken opneemt niet voldoet aan de voorwaarden, vermeld in dit hoofdstuk.<br>
 <br>
-De erkenningen worden bekendgemaakt in het Belgisch Staatsblad.
+De bevoegde entiteit maakt de erkenningen openbaar.
 
 ### ART 31.
 
@@ -428,7 +432,7 @@ De bevoegde entiteit beoordeelt de aanvragen en beslist erover.
 
 Voordat de vereniging die coördinerende taken uitvoert significante wijzigingen aanbrengt in haar coördinerende taken die zijn goedgekeurd conform artikel 32, brengt ze de bevoegde entiteit op de hoogte van de voorgenomen wijzigingen.<br>
 <br>
-De kennisgeving, vermeld in het eerste lid, wordt in elektronische vorm gedaan.<br>
+De kennisgeving, vermeld in het eerste lid, wordt in elektronische vorm gedaan en bevat een gecoördineerde versie van het fokprogramma dat de voorgestelde wijzigingen integreert in het fokprogramma, met inbegrip van een datum en versienummer.<br>
 <br>
 Tenzij de bevoegde entiteit binnen negentig dagen vanaf de datum van kennisgeving anders aangeeft, worden die wijzigingen geacht te zijn goedgekeurd.<br>
 <br>
@@ -472,7 +476,7 @@ Dit hoofdstuk is met behoud van de toepassing van de veterinairrechtelijke voors
 
 Om levende producten van donoren te winnen, produceren, behandelen of opslaan is een erkenning als centrum vereist.<br>
 <br>
-In afwijking van het eerste lid is geen erkenning vereist voor het winnen van sperma van levende producten van donoren als die levende producten bedoeld zijn voor wetenschappelijk onderzoek.<br>
+In afwijking van het eerste lid is geen erkenning vereist voor het winnen van levende producten van donoren als die levende producten bedoeld zijn voor wetenschappelijk onderzoek.<br>
 <br>
 In afwijking van het eerste lid is geen erkenning vereist voor het winnen van sperma van raszuivere of hybride fokberen die zijn aangemeld voor prestatieonderzoek, door een operator die beschikt over een toelating als vermeld in artikel 4, § 2, van het koninklijk besluit van 6 oktober 2006 betreffende de sanitaire voorwaarden inzake de productie, de nationale handel, het intracommunautair handelsverkeer en de invoer van varkenssperma.
 
@@ -482,18 +486,19 @@ Een aanvraag tot erkenning als centrum als vermeld in artikel 39, eerste lid, wo
 <br>
 De bevoegde entiteit beoordeelt de aanvragen en beslist erover.<br>
 <br>
-De bevoegde entiteit kan een erkenning intrekken als een centrum niet voldoet aan de voorwaarden, vermeld in dit hoofdstuk.<br>
+De bevoegde entiteit kan een erkenning opheffen als een centrum niet voldoet aan de voorwaarden, vermeld in dit hoofdstuk.<br>
 <br>
-De erkenningen worden bekendgemaakt in het Belgisch Staatsblad.
+De bevoegde entiteit maakt de erkenningen openbaar.
 
 ### ART 41.
 
 De aanvraag tot erkenning, vermeld in artikel 40, eerste lid, bevat al de volgende gegevens:<br>
-1° de naam, het ondernemingsnummer en het adres van het centrum;<br>
-2° de diersoorten waartoe de donor behoort;<br>
-3° de aard van de activiteiten die het centrum zal uitvoeren;<br>
-4° de locaties waar de activiteiten, vermeld in punt 3°, zullen plaatsvinden;<br>
-5° in voorkomend geval de stamboekvereniging of fokkerijgroepering waarmee het centrum samenwerkt voor de uitwisseling van informatie over donoren.
+1° de naam van de onderneming, het ondernemingsnummer en het adres van de zetel van het centrum;<br>
+2° de naam van de vestiging, het vestigingseenheidsnummer en het adres van de vestigingseenheid van het centrum;<br>
+3° de diersoorten waartoe de donoren behoren;<br>
+4° de aard van de activiteiten die het centrum zal uitvoeren;<br>
+5° de locaties waar de activiteiten, vermeld in punt 4°, zullen plaatsvinden;<br>
+6° in voorkomend geval de stamboekvereniging of fokkerijgroepering waarmee het centrum een overeenkomst heeft gesloten voor het afleveren van zoötechnische certificaten als vermeld in artikel 31, lid 1, en bijlage I, deel 2, 1, m), van verordening (EU) nr. 2016/1012.
 
 ### ART 42.
 
@@ -501,22 +506,20 @@ Het centrum deelt elke wijziging van de gegevens, vermeld in artikel 41, onmidde
 
 ### ART 43.
 
-Het centrum beschikt voor elke donor die aanwezig is op het centrum over een document dat de informatie bevat die vereist is conform artikel 45, en dat wordt uitgereikt door de stamboekvereniging, de fokkerijgroepering of het fokorgaan waarbij de donor is ingeschreven of geregistreerd.<br>
-<br>
-Het centrum beschikt voor elke donor waarvan levende producten aanwezig zijn op het centrum, over een document dat de informatie bevat die vereist is conform artikel 45 en dat wordt uitgereikt door de stamboekvereniging, de fokkerijgroepering of het fokorgaan waarbij de donor is ingeschreven of geregistreerd.
+Het centrum beschikt voor elke donor die aanwezig is in het centrum of waarvan levende producten zijn gewonnen in het centrum, over een zoötechnisch certificaat dat wordt uitgereikt door de stamboekvereniging, de fokkerijgroepering of het fokorgaan waarbij de donor is ingeschreven of geregistreerd. Bij paardachtigen mag het zoötechnische certificaat vervangen worden door een kopie van het zoötechnische certificaat.
 
 ### ART 44.
 
 Het centrum registreert in voorkomend geval de volgende gegevens:<br>
 1° de datum van de spermawinning, de identiteit van de donor en het aantal geproduceerde dosissen van elke spermawinning;<br>
 2° de datum van de winning van de eicellen, de identiteit van de donor en het aantal eicellen van elke winning van eicellen;<br>
-3° een lijst over de aankoop van sperma of eicellen, met vermelding van de datum van aankomst en per donor het aantal en de herkomst;<br>
-4° een lijst over de verkoop van sperma of eicellen, met vermelding van de datum van verkoop en per donor het aantal en de ontvanger;<br>
+3° een lijst over de ontvangst van sperma of eicellen, met vermelding van de datum van aankomst en per donor het aantal en de herkomst;<br>
+4° een lijst over de verzending van sperma of eicellen, met vermelding van de datum van verzending en per donor het aantal en de ontvanger;<br>
 5° de datum van winning, aankomst of aankoop van de embryo's, in voorkomend geval de coördinaten van het aanleverende centrum voor embryo's, de identificatie van de embryo's, het aantal aanwezige embryo's, de herkomst en bestemming van de embryo's, de identiteit van de donoren en de identiteit van de draagmoederdieren bij embryotransplantatie.
 
 ### ART 45.
 
-Het centrum houdt op permanente wijze al de volgende gegevens van alle dieren, waarvan levende producten beschikbaar zijn op het centrum, ter beschikking van de kopers en van de bevoegde entiteit, deelt deze gegevens actief mee aan de kopers en maakt deze gegevens openbaar:<br>
+Het centrum houdt op permanente wijze al de volgende gegevens van alle dieren, waarvan levende producten beschikbaar zijn op het centrum, ter beschikking van de kopers en van de bevoegde entiteit en maakt deze gegevens openbaar:<br>
 1° de eenduidige identificatie;<br>
 2° voor donoren:<br>
 a) de erkende stamboekvereniging, de fokkerijgroepering of het fokorgaan waarbij de donor is ingeschreven, opgenomen of geregistreerd;<br>
@@ -533,11 +536,17 @@ De bevoegde entiteit kan een model van document vastleggen met betrekking tot al
 
 ### ART 46.
 
-Elk centrum deelt, op verzoek van de stamboekvereniging of fokkerijgroepering die de donor heeft opgenomen in het stamboek of het register, gegevens over de winning of de opslag van het levend product, die nodig zijn voor het afgeven van het zoötechnisch certificaat voor het levend product, mee aan die stamboekvereniging of fokkerijgroepering.
+Elk centrum informeert de fokkers over het belang van zoötechnische certificaten voor de inschrijving van fokdieren en nakomelingen die met levende producten van fokdieren zijn geproduceerd als vermeld in artikel 30, lid 4 en 5, van verordening (EU) nr. 2016/1012.<br>
+<br>
+Elk centrum deelt op verzoek van de fokker de gegevens over de winning of de opslag van het levende product, die nodig zijn om het zoötechnische certificaat voor het levende product af te geven, mee aan de stamboekvereniging of fokkerijgroepering die dat zoötechnische certificaat moet afgeven.
 
 ### ART 47.
 
-Het centrum vermeldt op de recipiënt of op het etiket van de recipiënt minstens de identiteit van alle dieren waarvan levende producten aanwezig zijn in de recipiënt en verwijst daarbij éénduidig naar het stamboek of fokregister waarin de donoren ingeschreven, opgenomen of geregistreerd zijn. Wanneer een zoötechnisch certificaat vereist is, moeten de vermeldingen op de recipiënt en op het zoötechnisch certificaat dat het levend product vergezelt, overeenstemmen.<br>
+Het centrum vermeldt op de recipiënt of op het etiket van de recipiënt minstens de datum van de winning en de identiteit van alle dieren waarvan de recipiënt levende producten bevat.<br>
+<br>
+De identiteit van de donoren moet eenduidig verwijzen naar de identiteit waarmee de donoren zijn ingeschreven, opgenomen of geregistreerd in het stamboek of fokregister.<br>
+<br>
+Als een zoötechnisch certificaat vereist is, stemmen de vermeldingen op de recipiënt en op het zoötechnische certificaat dat het levende product vergezelt, overeen..<br>
 <br>
 De bevoegde entiteit kan de vorm en formulering van de gegevens vermeld in het eerste lid vastleggen.
 
@@ -570,7 +579,7 @@ Een aanvraag tot erkenning als gespecialiseerd pluimveebedrijf als vermeld in ar
 <br>
 De erkenningsaanvraag vermeldt:<br>
 1° de naam en het ondernemingsnummer van het bedrijf;<br>
-2° het adres van de maatschappelijke zetel;<br>
+2° de naam en het vestigingseenheidsnummer van de vestiging;<br>
 3° het adres van de installaties;<br>
 4° de capaciteit van de installaties;<br>
 5° de datum van het begin van de broed- of vermeerderingsactiviteiten;<br>
@@ -578,7 +587,9 @@ De erkenningsaanvraag vermeldt:<br>
 <br>
 De bevoegde entiteit beoordeelt de aanvragen en beslist erover.<br>
 <br>
-De bevoegde entiteit kan een erkenning intrekken als het gespecialiseerde pluimveebedrijf niet voldoet aan de voorwaarden, vermeld in dit hoofdstuk.
+De bevoegde entiteit kan een erkenning opheffen als het gespecialiseerde pluimveebedrijf niet voldoet aan de voorwaarden, vermeld in dit hoofdstuk.<br>
+<br>
+De bevoegde entiteit maakt de erkenningen openbaar.
 
 ### ART 52.
 
@@ -594,9 +605,12 @@ c) het aantal broedeieren dat uit de machine is gehaald en de identiteit van de 
 2° uitsluitend broedeieren inleggen die elk afzonderlijk gestempeld zijn conform artikel 3 van verordening (EG) nr. 617/2008;<br>
 3° de volgende gegevens, voor de vijftiende van elke maand, over de voorbije maand per soort, per categorie, per type en per broedsysteem aan de bevoegde entiteit verstrekken:<br>
 a) het aantal ingelegde broedeieren;<br>
-b) het aantal broedeieren die bestemd zijn voor intracommunautair handelsverkeer en voor uitvoer naar derde landen en de lidstaat of het derde land van bestemming;<br>
-c) het aantal uitgekomen kuikens en het aantal uitgekomen kuikens dat bestemd is voor daadwerkelijk gebruik;<br>
-d) het aantal kuikens, bestemd voor intracommunautair handelsverkeer en voor uitvoer naar derde landen, en de lidstaat of het derde land van bestemming.<br>
+b) het aantal ingevoerde broedeieren uit lidstaten en derde landen;<br>
+c) het aantal broedeieren dat bestemd is voor intracommunautair handelsverkeer en voor uitvoer naar derde landen, en de lidstaat of het derde land van bestemming;<br>
+d) het aantal broedeieren dat uit de broedmachine wordt gehaald, en de reden daarvoor;<br>
+e) het aantal uitgekomen kuikens en het aantal uitgekomen kuikens dat bestemd is voor daadwerkelijk gebruik;<br>
+f) het aantal ingevoerde kuikens uit lidstaten en derde landen dat bestemd is voor daadwerkelijk gebruik;<br>
+g) het aantal kuikens, bestemd voor intracommunautair handelsverkeer en voor uitvoer naar derde landen, en de lidstaat of het derde land van bestemming.<br>
 <br>
 In het eerste lid wordt verstaan onder broedsysteem: een systeem voor het uitbroeden van eieren met onderscheid tussen de uitkomst van kuikens in broedinstallaties en de uitkomst van kuikens in een stal.
 
@@ -657,7 +671,7 @@ De bevoegde entiteit brengt de andere lidstaten en het publiek vooraf op de hoog
 ### ART 61.
 
 De minister kan subsidies verlenen aan:<br>
-1° de stamboekverenigingen met een statutaire zetel in het Vlaamse Gewest die erkend zijn conform artikel 4 van verordening (EU) nr. 2016/1012;<br>
+1° stamboekverenigingen die door de bevoegde entiteit erkend zijn conform artikel 4 van verordening (EU) nr. 2016/1012;<br>
 2° de stamboekverenigingen voor een andere diersoort die erkend zijn conform artikel 11 van dit besluit;<br>
 3° de verenigingen die een vereenvoudigd beheer voeren, die erkend zijn conform artikel 25 van dit besluit;<br>
 4° de verenigingen die coördinerende taken uitvoeren, die erkend zijn conform artikel 30 van dit besluit.<br>
@@ -687,17 +701,19 @@ a) een schriftelijk verzoek om een subsidie te verkrijgen;<br>
 b) de werkingsperiode;<br>
 c) de activiteitenprogramma's waarvoor subsidies worden aangevraagd, met vermelding van de naam, het doel en de draagwijdte van de activiteiten en alle kwalitatieve en kwantitatieve aspecten die de vraag naar subsidie ondersteunen;<br>
 d) een financieel deel bij elk activiteitenprogramma, met opgave van de begroting en een verantwoording ervan;<br>
-e) een goedgekeurde begroting van de vereniging voor het boekjaar waarop de subsidieaanvraag betrekking heeft;<br>
-2° een afstammingscontrole uitvoert op 0,4% van de dieren die in het voorgaande jaar voor het ras in kwestie zijn ingeschreven of geregistreerd, met een minimum van één dier per ras of hybride lijn, of een afstammingscontrole uitvoert op de dieren die in de werkingsperiode voor het ras of de hybride lijn in kwestie zijn ingeschreven of geregistreerd, bij ten minste 0,4% van het aantal dieren dat in het voorgaande jaar voor het ras in kwestie zijn ingeschreven of geregistreerd, met een minimum van één dier per ras.<br>
+e) een goedgekeurde begroting van de vereniging voor het boekjaar waarop de subsidieaanvraag betrekking heeft. Als de vereniging bij het indienen van de subsidieaanvraag nog geen goedgekeurde begroting heeft voor het boekjaar waarop de subsidieaanvraag betrekking heeft, voegt de vereniging een voorlopige begroting toe. Als aan de subsidieaanvraag een voorlopige begroting is toegevoegd, bezorgt de vereniging ten laatste op 31 juli van het boekjaar waarop de subsidieaanvraag betrekking aan de bevoegde entiteit een goedgekeurde begroting;<br>
+2° een controle op de identiteit door middel van een DNA-analyse uitvoert op:<br>
+a) 0,4% van de dieren die in het voorgaande jaar voor het ras in kwestie zijn ingeschreven of geregistreerd in het stamboek of fokregister, met een minimum van één dier per ras, foklijn of kruising, of,<br>
+b) de dieren die in de werkingsperiode voor het ras, de foklijn of de kruising in kwestie zijn ingeschreven of geregistreerd in het stamboek of fokregister bij 0,4% van het aantal dieren dat in het voorgaande jaar voor het ras, de foklijn of de kruising in kwestie is ingeschreven of geregistreerd in het stamboek of fokregister, met een minimum van één dier per ras, foklijn of kruising.<br>
 <br>
-De vereiste, vermeld in het eerste lid, 2°, geldt ook als een deel van de algemene werkingssubsidie aan een vereniging als vermeld in artikel 62, eerste lid, 4°, bestemd is voor een vereniging als vermeld in artikel 62, eerste lid, 1°, 2° of 3°.
+De vereiste, vermeld in het eerste lid, 2°, geldt ook als een deel van de algemene werkingssubsidie aan een vereniging als vermeld in artikel 61, eerste lid, 4°, bestemd is voor een vereniging als vermeld in artikel 61, eerste lid, 1° of 2°.
 
 ## HOOFDSTUK 12. Toezicht
 
 ### ART 64.
 
 De verenigingen die erkend zijn conform artikel 4 van verordening (EU) nr. 2016/1012 en artikel 11, 25 en 30 van dit besluit:<br>
-1° nodigen de bevoegde entiteit uit voor de algemene vergaderingen, de raden van bestuur en de technische werkgroepen;<br>
+1° nodigen de bevoegde entiteit uit voor de algemene vergaderingen, de vergaderingen van het bestuursorgaan en de technische werkgroepen;<br>
 2° bezorgen de bevoegde entiteit de notulen van de vergaderingen, vermeld in punt 1° ;<br>
 3° bezorgen jaarlijks, binnen zes maanden na het afsluiten van hun werkingsjaar, aan de bevoegde entiteit een activiteitenverslag van het voorbije werkingsjaar. De bevoegde entiteit kan om bijkomende informatie verzoeken.<br>
 <br>
