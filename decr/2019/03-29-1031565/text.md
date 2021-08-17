@@ -160,6 +160,103 @@ In hetzelfde decreet, het laatst gewijzigd bij decreet van 22 december 2017, wor
 <br>
 "Onderafdeling 6.3. Asbestinventarisatie".
 
+### ART 18.
+
+In hetzelfde decreet wordt in onderafdeling 3, ingevoegd bij artikel 17, een artikel 33/9 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 33/9. § 1. Met behoud van de toepassing van artikel 33/14 beschikt de eigenaar van een toegankelijke constructie met risicobouwjaar uiterlijk op 31 december 2031 over een geldig asbestinventarisattest.<br>
+<br>
+Als de toegankelijke constructie met risicobouwjaar onder het stelsel van gedwongen mede-eigendom, vermeld in artikel 577-3 van het Burgerlijk Wetboek, valt, of onder de toepassing van artikel 577-2 van het Burgerlijk Wetboek, beschikt de eigenaar over een afzonderlijk geldig asbestinventarisattest voor zowel de gemeenschappelijke delen als voor het privédeel.<br>
+<br>
+Met het oog op de realisatie van de beleidsdoelstelling `Asbestveilig Vlaanderen 2040' kan de Vlaamse Regering bepaalde categorieën van toegankelijke constructies met risicobouwjaar uitsluiten van de verplichting, vermeld in het eerste lid, als het op basis van hun bouwtechnische karakteristieken niet redelijk of proportioneel is om onder de verplichting te vallen. De Vlaamse Regering kan een uitstel voor een duur van maximaal vier jaar verlenen voor de verplichting, vermeld in het eerste lid, voor bepaalde categorieën van toegankelijke constructies met risicobouwjaar na 1980.<br>
+<br>
+§ 2. Elke verhuurder van een toegankelijke constructie met risicobouwjaar die over een geldig asbestinventarisattest beschikt, overhandigt een kopie aan de huurder bij het aangaan van de huur of binnen een termijn van één maand na de datum vermeld op het asbestinventarisattest als dit afgeleverd werd tijdens een lopende huurperiode.".
+
+### ART 19.
+
+In hetzelfde decreet wordt in onderafdeling 3, ingevoegd bij artikel 17, een artikel 33/10 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 33/10. § 1. Een asbestinventarisattest wordt verkregen nadat een asbestinventaris is opgemaakt.<br>
+<br>
+§ 2. De asbestinventaris bevat minstens:<br>
+1° de identificatie van de toegankelijke constructie met risicobouwjaar;<br>
+2° een opsomming van de aangetroffen asbesthoudende of asbestverdachte materialen;<br>
+3° een aanduiding van de geïnventariseerde asbesthoudende materialen waarvoor conform artikel 33/5 of 33/6 een verwijderingsplicht geldt;<br>
+4° een risico-evaluatie van de asbesthoudende materialen;<br>
+5° een advies over urgente maatregelen ter remediëring van de vastgestelde acute blootstellingsrisico's, als dat nodig is.<br>
+<br>
+§ 3. Een asbestinventaris wordt opgemaakt door een asbestdeskundige inventarisatie als vermeld in artikel 33/16, conform een inspectieprotocol asbestinventarisatie.<br>
+<br>
+De Vlaamse Regering bepaalt hoe het inspectieprotocol asbestinventarisatie wordt vastgesteld. De Vlaamse Regering kan de verdere inhoud van het inspectieprotocol asbestinventarisatie bepalen. Het inspectieprotocol asbestinventarisatie kan bepalen welke constructie met risicobouwjaar bijkomend deel moet uitmaken van de asbestinventaris en kan bepaalde constructies met risicobouwjaar of bepaalde materialen uitsluiten van de asbestinventaris.<br>
+<br>
+De Vlaamse Regering kan bepalen onder welke voorwaarden een interne preventieadviseur of interne milieucoördinator die de werkgever heeft aangesteld, de taken van de asbestdeskundige inventarisatie, vermeld in artikel 33/16, kan vervullen om een asbestinventaris op te maken voor de toegankelijke constructie met risicobouwjaar waar de werkgever werknemers tewerkstelt.<br>
+<br>
+§ 4. De asbestdeskundige inventarisatie, vermeld in artikel 33/16, geeft de asbestinventaris in een databank asbestinventarisatie in. De asbestdeskundige inventarisatie kan conform de bepalingen van de regelgeving over de bescherming en verwerking van persoonsgegevens hierbij de volgende categorieën van persoonsgegevens verwerken: persoonlijke contactgegevens, woningkenmerken en rijksregisternummer/identificatienummer van de sociale zekerheid. De asbestdeskundige inventarisatie bewaart deze persoonsgegevens maximaal tot een geldig asbest-inventarisattest afgeleverd werd, overeenkomstig artikel 33/11.<br>
+<br>
+De databank, vermeld in het eerste lid, wordt beheerd door de OVAM. De OVAM kan in de databank, naast de gegevens, vermeld in paragraaf 2 en in artikel 33/14, § 3, tweede lid, ook conform de bepalingen van de regelgeving over de bescherming en verwerking van persoonsgegevens de volgende categorieën van persoonsgegevens verwerken: persoonlijke contactgegevens, woningkenmerken en rijksregisternummer/identificatienummer van de sociale zekerheid.<br>
+<br>
+Alle persoonsgegevens die de OVAM verkrijgt en verwerkt in het kader van de toepassing van deze afdeling, mogen uitsluitend worden aangewend voor de verwezenlijking van de bepalingen van deze onderafdeling en artikel 12 en de organisatie van het toezicht op en de handhaving van het asbestafbouwbeleid, vermeld in deze onderafdeling en artikel 12.<br>
+<br>
+De persoonsgegevens opgenomen in de databank worden maximaal bewaard tot een overdracht plaatsvindt, overeenkomstig artikel 33/14, § 3.<br>
+<br>
+De OVAM geldt als verwerkingsverantwoordelijke, zoals vermeld in artikel 4, 7°, van de Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG.<br>
+<br>
+De Vlaamse Regering bepaalt welke persoonsgegevens onder de categorieën, vermeld in het eerste en het tweede lid, worden opgenomen in de databank. De Vlaamse Regering bepaalt welke actoren toegang krijgen tot de databank alsook de omvang en de modaliteiten van hun toegangsrechten.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen omtrent het beheer en de verwerking van de gegevens en de persoonsgegevens die in de databank worden opgenomen.".
+
+### ART 20.
+
+In hetzelfde decreet wordt in onderafdeling 3, ingevoegd bij artikel 17, een artikel 33/11 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 33/11. Nadat een asbestinventaris als vermeld in artikel 33/10 correct is ingegeven in de databank, levert de OVAM een asbestinventarisattest af.<br>
+<br>
+Het asbestinventarisattest bevat minstens de geldigheidsduur, de datum, de samenvattende conclusie, de unieke code en de gegevens, vermeld in artikel 33/10, § 2.<br>
+<br>
+De Vlaamse Regering stelt nadere regels vast voor de verdere inhoud, de aflevering en de geldigheidsduur van het asbestinventarisattest.".
+
+### ART 21.
+
+In hetzelfde decreet wordt in onderafdeling 3, ingevoegd bij artikel 17, een artikel 33/12 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 33/12. De OVAM kan overgaan tot de opmaak van een asbestinventaris, conform artikel 33/10. Voor de prefinanciering en de financiering van de inventarisatie door de OVAM kan de Vlaamse Regering een regeling treffen of een overeenkomst sluiten.".
+
+### ART 22.
+
+In hetzelfde decreet wordt in onderafdeling 3, ingevoegd bij artikel 17, een artikel 33/13 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 33/13. De verplichting, vermeld in de artikel 33/9, is niet van toepassing op de openbare, technische toegankelijke constructie met risicobouwjaar.".
+
+### ART 23.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 22 december 2017, wordt in afdeling 6, ingevoegd bij artikel 6, een onderafdeling 4 ingevoegd, die luidt als volgt:<br>
+<br>
+"Onderafdeling 6.4. Verplichtingen bij overdracht".
+
+### ART 25.
+
+In hetzelfde decreet wordt in onderafdeling 4, ingevoegd bij artikel 23, een artikel 33/15 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 33/15. De verplichtingen, vermeld in artikel 33/14 zijn niet van toepassing op de openbare, technische toegankelijke constructie met risicobouwjaar.".
+
+### ART 26.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 22 december 2017, wordt in afdeling 6, ingevoegd bij artikel 6, een onderafdeling 5 ingevoegd, die luidt als volgt:<br>
+<br>
+"Onderafdeling 6.5. Asbestdeskundigen".
+
+### ART 27.
+
+In hetzelfde decreet wordt in onderafdeling 5, ingevoegd bij artikel 26, een artikel 33/16 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 33/16. De asbestdeskundige inventarisatie, vermeld in artikel 33/10, is een onafhankelijke deskundige die gecertificeerd is door een certificatie-instelling.<br>
+<br>
+De Vlaamse Regering bepaalt de voorwaarden voor de certificering van een asbestdeskundige inventarisatie, de nadere regels voor de kwaliteitsborging, de voorwaarden voor het gebruik van het certificaat en de voorwaarden en de procedure tot schorsing en opheffing van het certificaat.<br>
+<br>
+Certificatie-instellingen voor de certificering van asbestdeskundigen inventarisatie en de kwaliteitsborging ervan beschikken over een erkenning. De Vlaamse Regering bepaalt de voorwaarden en de procedure voor de erkenning, de voorwaarden en de procedure voor de schorsing en de opheffing van de erkenning en de voorwaarden voor het gebruik van de erkenning. De Vlaamse Regering legt ook de kwaliteitseisen vast en kan een instantie aanwijzen die ermee belast is de erkenning van de certificatie-instellingen te controleren.<br>
+<br>
+De OVAM is van rechtswege gecertificeerd als asbestdeskundige inventarisatie.".
+
 ### ART 28.
 
 Aan artikel 66, § 1, van hetzelfde decreet, worden een vijfde, zesde en zevende lid toegevoegd, die luiden als volgt:<br>
