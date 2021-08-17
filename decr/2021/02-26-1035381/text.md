@@ -236,6 +236,45 @@ Aan artikel 30, § 5, van hetzelfde decreet, wordt een tweede lid toegevoegd, da
 
 In artikel 33/6, vierde lid, van hetzelfde decreet, ingevoegd bij het decreet van 29 maart 2019, wordt tussen de woorden "Voor de andere" en de woorden "constructies met risicobouwjaar" het woord "publieke" ingevoegd.
 
+### ART 16.
+
+In artikel 33/9, paragraaf 1, van hetzelfde decreet, ingevoegd bij het decreet van 29 maart 2019, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid wordt het woord "geldig" opgeheven;<br>
+<br>
+2° tussen het eerste en het tweede lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+"Bij wooneenheden mag een asbestinventaris als vermeld in artikel 33/10, § 1, en een asbestinventarisattest maar betrekking hebben op één wooneenheid.";<br>
+<br>
+3° in het bestaande tweede lid, dat het derde lid wordt, wordt het woord "geldig" opgeheven;<br>
+<br>
+4° aan het bestaande tweede lid, dat het derde lid wordt, wordt de volgende zin toegevoegd:<br>
+"Voor de toegankelijke constructies met risicobouwjaar die niet vallen onder het stelsel van gedwongen mede-eigendom, vermeld in artikel 577-3 van het Burgerlijk Wetboek, of onder de toepassing van artikel 577-2 van het Burgerlijk Wetboek, kan de Vlaamse Regering de regels bepalen voor de opmaak van een asbestinventaris voor de gemeenschappelijke delen.";<br>
+<br>
+5° aan het bestaande derde lid, dat het vierde lid wordt, worden de volgende zinnen toegevoegd:<br>
+"De Vlaamse Regering kan de verplichting tot het opstellen van een asbestinventaris per wooneenheid, vermeld in het tweede lid, en het opmaken van een afzonderlijke asbestinventaris voor de gemeenschappelijke delen als voor de privatieve delen, vermeld in het derde lid, verder uitwerken. De Vlaamse Regering kan richtlijnen bepalen voor gebouwen en gebouweenheden bij de opmaak van een asbestinventaris.".
+
+### ART 17.
+
+In artikel 33/10 van hetzelfde decreet, ingevoegd bij het decreet van 29 maart 2019, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in paragraaf 3, tweede lid, wordt de zin "Het inspectieprotocol asbestinventarisatie kan bepalen welke constructies met risicobouwjaar bijkomend deel moeten uitmaken van de asbestinventaris en kan bepaalde constructies met risicobouwjaar of bepaalde materialen uitsluiten van de asbestinventaris." vervangen door de zin "Het inspectieprotocol asbestinventarisatie kan bepalen welke constructies met risicobouwjaar bijkomend deel moeten uitmaken van de asbestinventaris, kan bepaalde constructies met risicobouwjaar of bepaalde materialen uitsluiten van de asbestinventaris en kan de modaliteiten bepalen voor het opmaken van een asbestinventaris per gebouw, gebouweenheid, wooneenheid en gemeenschappelijk deel.";<br>
+<br>
+2° in paragraaf 3 wordt tussen het tweede en het derde lid een lid ingevoegd, dat luidt als volgt:<br>
+"De eigenaar van een toegankelijke constructie met risicobouwjaar stelt zijn eigendom open en toegankelijk opdat de asbestdeskundige inventarisatie veilig een volledige asbestinventaris kan opmaken. Dit recht van toegang moet uitgeoefend worden op een redelijke en proportionele wijze. De Vlaamse Regering kan hiervoor nadere regels bepalen.";<br>
+<br>
+3° in paragraaf 4, eerste lid, wordt de zin "De asbestdeskundige inventarisatie bewaart deze persoonsgegevens maximaal tot een geldig asbestinventarisattest afgeleverd werd, overeenkomstig artikel 33/11." vervangen door de zin "De asbestdeskundige inventarisatie bewaart de persoonlijke contactgegevens en het rijksregisternummer/identificatienummer van de sociale zekerheid uiterlijk tot een geldig asbestinventarisatieattest is afgeleverd conform artikel 33/11.";<br>
+<br>
+4° in paragraaf 4, vierde lid, worden de woorden "De persoonsgegevens opgenomen in de databank" vervangen door de zinsnede "De persoonlijke contactgegevens en het rijksregisternummer/identificatienummer van de sociale zekerheid die in de databank zijn opgenomen,".
+
+### ART 19.
+
+In artikel 33/16 van hetzelfde decreet, ingevoegd bij het decreet van 29 maart 2019, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het derde lid wordt tussen de woorden "legt ook de" en de woorden "kwaliteitseisen vast" de woorden "taken en" ingevoegd;<br>
+<br>
+2° er wordt een vijfde lid toegevoegd, dat luidt als volgt:<br>
+"Voor de certificering van een asbestdeskundige inventarisatie als vermeld in het eerste en het tweede lid, en de erkenning van een certificatie-instelling als vermeld in het derde lid, kan een certificatiereglement opgesteld worden. De Vlaamse Regering kan bepalen hoe dit certificatiereglement wordt vastgesteld en kan de inhoud ervan bepalen.".
+
 ### ART 20.
 
 Artikel 36 van hetzelfde decreet wordt vervangen door wat volgt:<br>
