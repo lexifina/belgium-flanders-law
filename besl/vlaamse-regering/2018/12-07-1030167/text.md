@@ -2468,11 +2468,13 @@ Vanaf 15 april 2020 wordt maandelijks een compenserend budget ingevolge de COVID
 <br>
 Wat betreft het persoonlijk aandeel van de zorggebruikers kan het compenserend budget, vermeld in het tweede lid, niet worden gewijzigd.<br>
 <br>
-Er kan een laatste keer een compenserend budget worden aangerekend voor de maand juni 2021.<br>
+Er kan een laatste keer een compenserend budget worden aangerekend voor de maand augustus 2021.<br>
+<br>
+De revalidatievoorziening heeft het recht om het compensatiebudget voor de maanden juli 2021 en augustus 2021 aan te rekenen zodra de revalidatievoorziening minstens 60% van het theoretische aantal eenheidsprestaties heeft gepresteerd en gefactureerd aan de verzekeringsinstellingen.<br>
 <br>
 § 2. In september 2021 doet het agentschap een eindafrekening voor het in paragraaf 1 bepaalde compenserend budget van het jaar 2020. Het agentschap berekent het verschil tussen de voor het jaar 2020 betaalde bedrag aan compenserend budget en het bedrag dat de revalidatievoorziening voor 90 % van het theoretisch aantal eenheidsverstrekkingen, vermeld in artikel 191, § 1, 3°, zou kunnen hebben factureren. Als een revalidatievoorziening in 2019 meer dan 90 % van het theoretisch aantal eenheidsprestaties heeft gefactureerd, wordt in de berekening van het verschil rekening gehouden met het percentage dat in 2019 werd gefactureerd. Het bedrag dat aldus werd berekend wordt hetzij teruggevorderd van de revalidatievoorziening, hetzij betaald door het agentschap.<br>
 <br>
-In september 2022 doet het agentschap een eindafrekening voor het in paragraaf 1 bepaalde compenserend budget van het jaar 2021. Hiervoor wordt dezelfde methodologie gevolgd als in het eerste lid, toegepast op de eerste zes maanden van het jaar 2021.
+In september 2022 maakt het agentschap een eindafrekening voor het compenserende budget, vermeld in paragraaf 1, van het jaar 2021. Om die eindafrekening te maken, wordt de methodologie, vermeld in het eerste lid, toegepast op het aantal maanden van het jaar 2021 waarvoor de revalidatievoorziening een compenserend budget heeft ontvangen.
 
 ## HOOFDSTUK 2. Tegemoetkomingen voor reiskosten
 
