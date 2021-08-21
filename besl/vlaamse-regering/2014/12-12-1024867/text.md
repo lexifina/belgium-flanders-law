@@ -368,7 +368,7 @@ De   procesverantwoordelijke nodigt de leidend ambtenaren en de instanties, verm
 
 <p>§ 1. Het openbaar onderzoek, vermeld in artikel 15 en 24 van het decreet van 25 april 2014, duurt zestig dagen.&nbsp;</p>
 
-<p>Tijdens de periode van zestig dagen, vermeld in het eerste lid, worden de documenten, vermeld in artikel 15, § 1, tweede lid, of artikel 24, § 1, tweede lid, van het decreet van 25 april 2014, ter inzage gelegd in het gemeentehuis van de betrokken gemeenten. De eerste dag waarop de vermelde documenten ter inzage worden gelegd, is de begindatum van het openbaar onderzoek.<br>
+<p>Tijdens de periode van zestig dagen, vermeld in het eerste lid, worden de documenten, vermeld in artikel 15, § 1, tweede lid, of artikel 24, § 1, tweede lid, van het decreet van 25 april 2014, analoog of digitaal ter inzage gelegd in het gemeentehuis van de betrokken gemeenten. De eerste dag waarop de vermelde documenten ter inzage worden gelegd, is de begindatum van het openbaar onderzoek.<br>
 <br>
 Het ontwerp van voorkeursbesluit of projectbesluit kan samen met het ontwerp van MER, met uitzondering van de door een architect opgemaakte auteursrechtelijk beschermde plannen en de documenten die aan de openbaarheid worden onttrokken, ook digitaal geraadpleegd worden op de website van de bevoegde overheid of, in voorkomend geval, op de website die specifiek voor het project in kwestie is ontwikkeld.&nbsp;<br>
 <br>
@@ -396,7 +396,7 @@ b) in voorkomend geval, op de plaats waar het project uitgevoerd zal worden conf
 5° de begin- en einddatum van het openbaar onderzoek;<br>
 6° de plaats waar de documenten, vermeld in artikel 15, § 1, tweede lid, of artikel 24, § 1, tweede lid, van het decreet van 25 april 2014, ter inzage liggen;<br>
 7° de mogelijkheid om opmerkingen of bezwaren in te dienen tijdens het openbaar onderzoek over :<br>
-a) in geval van een openbaar onderzoek over een ontwerp van voorkeursbesluit : het ontwerp van voorkeursbesluit;&nbsp;<br>
+a) in geval van een openbaar onderzoek over een ontwerp van voorkeursbesluit : het ontwerp van voorkeursbesluit en het ontwerp van MER;&nbsp;<br>
 b) in geval van een openbaar onderzoek over een ontwerp van projectbesluit : het ontwerp van projectbesluit en het ontwerp van MER;<br>
 8° de wijze waarop de opmerkingen of bezwaren, vermeld in punt 7°, ingediend kunnen worden;<br>
 9° in voorkomend geval, de datum, het uur en de plaats van de informatievergadering.</p>
@@ -436,7 +436,16 @@ Het   formulier, vermeld in artikel 22, § 2, derde lid, wordt uiterlijk op de  
 
 ### ART. 28.
 
-Voor   de aanvang van het openbaar onderzoek brengt de procesverantwoordelijke de   volgende personen per beveiligde zending op de hoogte van het ontwerp van   voorkeursbesluit of projectbesluit :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de eigenaars van de onroerende goederen die zullen worden onteigend conform   artikel 31, § 4, van het decreet van 25 april 2014;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de eigenaars van de onroerende goederen die binnen de omtrek van de percelen   liggen die getroffen zijn door een rooilijn conform artikel 32, tweede lid, van   het decreet van 25 april 2014;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de eigenaars, vruchtgebruikers of gebruikers van onroerende goederen die deel   uitmaken van het geheel van onroerende goederen in de herverkaveling conform   artikel 33, derde lid, van het decreet van 25 april 2014.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Voor de aanvang van het openbaar onderzoek brengt de procesverantwoordelijke de volgende personen per beveiligde zending op de hoogte van het ontwerp van voorkeursbesluit of projectbesluit :<br>
+1° de eigenaars van de onroerende goederen die zullen worden onteigend conform artikel 35 van het Vlaams Onteigeningsdecreet van 24 februari 2017;<br>
+2° de eigenaars van de onroerende goederen die binnen de omtrek van de percelen liggen die getroffen zijn door een rooilijn conform artikel 32, tweede lid, van het decreet van 25 april 2014;<br>
+3° de eigenaars, vruchtgebruikers of gebruikers van onroerende goederen die deel uitmaken van het geheel van onroerende goederen in de herverkaveling conform artikel 33, derde lid, van het decreet van 25 april 2014.<br>
+<br>
+Voor de aanvang van het openbaar onderzoek stuurt de procesverantwoordelijke een individuele kennisgeving met een beveiligde zending naar de eigenaar, de blote eigenaar, de erfpachthouder, de opstalhouder en de leasinggever van de onroerende goederen in kwestie als in het ontwerp van projectbesluit een erkennings-, rangschikkings- of beschermingsbesluit, als vermeld in artikel 41, eerste lid, 10°, van het decreet van 25 april 2014, geheel of gedeeltelijk wordt gewijzigd of opgeheven.<br>
+<br>
+De eigenaar, de blote eigenaar, de erfpachthouder, de opstalhouder en de leasinggever van de onroerende goederen in kwestie, vermeld in het tweede lid, brengen de gebruikers van het onroerend goed en de zakelijkrechthouders van de cultuurgoederen op de hoogte van het ontwerp van projectbesluit binnen dertig dagen na de dag van de kennisgeving, vermeld in het tweede lid.<br>
+<br>
+De eigenaar, de blote eigenaar, de erfpachthouder, de opstalhouder en de leasinggever van de onroerende goederen in kwestie, vermeld in het tweede lid, brengen de procesverantwoordelijke met een beveiligde zending op de hoogte van de eventuele verkoop, de overdracht van het eigendomsrecht of de overdracht van een ander zakelijk recht, met de bijbehorende bewijsdocumenten, binnen tien dagen na de dag van de kennisgeving, vermeld in het tweede lid. De procesverantwoordelijke vermeldt die verplichting in de kennisgeving. De nieuwe zakelijkrechthouders worden op hun beurt door de procesverantwoordelijke met een beveiligde zending van het ontwerp van projectbesluit op de hoogte gebracht.
 
 ### ART. 29.
 
@@ -583,7 +592,28 @@ De   bepalingen, vermeld in artikel 4.6.4 van het decreet van 5 april 1995 houde
 
 ### ART. 41.
 
-<P>Het   definitief vastgestelde voorkeursbesluit of projectbesluit wordt op de volgende   wijzen bekend gemaakt :&nbsp;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   een publicatie op de volgende websites :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">a)   de website van de bevoegde overheid, vermeld in artikel 6 van het decreet van 25   april 2014;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">b)   de website van de betrokken gemeenten;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">c)   de website complexe projecten;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">d)   in voorkomend geval, de website die specifiek voor het project in kwestie is   ontwikkeld;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   een publicatie in ten minste drie dagbladen of informatiebladen conform artikel   43 van dit besluit;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   een publicatie in het Belgisch Staatsblad conform artikel 44 van dit   besluit;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   een aanplakking van een affiche op volgende plaatsen :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">a)   op de aanplakplaatsen van de betrokken gemeenten conform artikel 45 en 46 van   dit besluit;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">b)   in voorkomend geval, op de plaats waar het project uitgevoerd zal worden conform   artikel 45 en 46 van dit besluit;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   in voorkomend geval, de individuele kennisgeving conform artikel 47 van dit   besluit.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   bekendmaking, vermeld in het eerste lid, vermeldt minstens de volgende gegevens   :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het voorwerp van het voorkeursbesluit of projectbesluit;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de geografische werkingssfeer van het voorkeursbesluit of   projectbesluit;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de adresgegevens van de bevoegde overheid;&nbsp;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   de plaats waar het voorkeursbesluit of projectbesluit ter inzage ligt;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   de mogelijkheid en de voorwaarden van het beroep tegen het genomen   besluit.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   informatieverstrekking, vermeld in het eerste lid, wordt gedaan met het   formulier dat ter beschikking wordt gesteld op de website complexe   projecten.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Het definitief vastgestelde voorkeursbesluit of projectbesluit wordt op de volgende wijzen bekend gemaakt :&nbsp;<br>
+1° een publicatie op de volgende websites :<br>
+a) de website van de bevoegde overheid, vermeld in artikel 6 van het decreet van 25 april 2014;<br>
+b) de website van de betrokken gemeenten;<br>
+c) de website complexe projecten;<br>
+d) in voorkomend geval, de website die specifiek voor het project in kwestie is ontwikkeld;<br>
+e) de website van de dienst bevoegd voor milieueffectrapportage;<br>
+2° een publicatie in ten minste drie dagbladen of informatiebladen conform artikel 43 van dit besluit;<br>
+3° een publicatie in het Belgisch Staatsblad conform artikel 44 van dit besluit;<br>
+4° een aanplakking van een affiche op volgende plaatsen :<br>
+a) op de aanplakplaatsen van de betrokken gemeenten conform artikel 45 en 46 van dit besluit;<br>
+b) in voorkomend geval, op de plaats waar het project uitgevoerd zal worden conform artikel 45 en 46 van dit besluit;<br>
+5° in voorkomend geval, de individuele kennisgeving conform artikel 47 van dit besluit.</p>
+
+<p>De bekendmaking, vermeld in het eerste lid, vermeldt minstens de volgende gegevens :<br>
+1° het voorwerp van het voorkeursbesluit of projectbesluit;<br>
+2° de geografische werkingssfeer van het voorkeursbesluit of projectbesluit;<br>
+3° de adresgegevens van de bevoegde overheid;&nbsp;<br>
+4° de plaats waar het voorkeursbesluit of projectbesluit ter inzage ligt;<br>
+5° de mogelijkheid en de voorwaarden van het beroep tegen het genomen besluit.</p>
+
+<p>De informatieverstrekking, vermeld in het eerste lid, wordt gedaan met het formulier dat ter beschikking wordt gesteld op de website complexe projecten.</p>
 
 ## Onderafdeling 2 Publicatie op de website
 
@@ -626,15 +656,21 @@ Het formulier, vermeld in artikel 41, derde lid, wordt nadat het besluit in kwes
 
 ### ART. 47.
 
-<p>De procesverantwoordelijke brengt met een beveiligde zending en&nbsp;nadat het besluit in kwestie definitief is vastgesteld, de instanties, vermeld in artikel 17, § 2, eerste lid, respectievelijk artikel 27, § 2, eerste lid, van het decreet van 25 april 2014, op de hoogte van het definitief vastgestelde voorkeursbesluit respectievelijk projectbesluit.</p>
+<p>De procesverantwoordelijke brengt&nbsp;nadat het besluit in kwestie definitief is vastgesteld, de instanties, vermeld in artikel 17, § 2, eerste lid, respectievelijk artikel 27, § 2, eerste lid, van het decreet van 25 april 2014, op de hoogte van het definitief vastgestelde voorkeursbesluit respectievelijk projectbesluit.</p>
 
-<p>Als het projectbesluit betrekking heeft op stedenbouwkundige handelingen, wordt de toezichthoudende architect van de werken op de hoogte gebracht van het definitief vastgestelde projectbesluit als hij daarom verzoekt.</p>
+<p>Als het projectbesluit betrekking heeft op stedenbouwkundige handelingen, wordt de toezichthoudende architect van de werken op de hoogte gebracht van het definitief vastgestelde projectbesluit als hij daarom verzoekt.<br>
+<br>
+Als een projectbesluit een erkennings-, rangschikkings- of beschermingsbesluit als vermeld in artikel 41, eerste lid, 10°, van het decreet van 25 april 2014, geheel of gedeeltelijk wijzigt of opheft, brengt de procesverantwoordelijke de eigenaar, de blote eigenaar, de erfpachthouder, de opstalhouder en de leasinggever van de onroerende goederen in kwestie met een beveiligde zending op de hoogte van het definitief vastgestelde projectbesluit.<br>
+<br>
+De eigenaar, de blote eigenaar, de erfpachthouder, de opstalhouder en de leasinggever van de beschermde onroerende goederen in kwestie, vermeld in het derde lid, brengen de gebruikers van het onroerend goed en de zakelijkrechthouders van de cultuurgoederen op de hoogte van het projectbesluit binnen dertig dagen na de dag van de kennisgeving, vermeld in het derde lid.<br>
+<br>
+De eigenaar, de blote eigenaar, de erfpachthouder, de opstalhouder en de leasinggever van de onroerende goederen in kwestie, vermeld in het derde lid, brengen de procesverantwoordelijke met een beveiligde zending op de hoogte van de eventuele verkoop, de overdracht van het eigendomsrecht of de overdracht van een ander zakelijk recht, met de bijbehorende bewijsdocumenten, binnen tien dagen na de dag van de kennisgeving, vermeld in het derde lid. De procesverantwoordelijke vermeldt die verplichting in de kennisgeving. De nieuwe zakelijkrechthouders worden op hun beurt door de procesverantwoordelijke met een beveiligde zending van het projectbesluit op de hoogte gebracht.</p>
 
 ## Onderafdeling 6 Terinzagelegging
 
 ### ART. 48.
 
-<p>Het definitief vastgestelde voorkeursbesluit respectievelijk projectbesluit wordt gedurende dertig dagen ter inzage gelegd in het gemeentehuis van de betrokken gemeenten.&nbsp;<br>
+<p>Het definitief vastgestelde voorkeursbesluit respectievelijk projectbesluit wordt gedurende dertig dagen&nbsp;analoog of digitaal ter inzage gelegd in het gemeentehuis van de betrokken gemeenten.&nbsp;<br>
 <br>
 Gedurende de periode van dertig dagen, vermeld in het eerste lid, is het definitief vastgestelde voorkeursbesluit respectievelijk projectbesluit raadpleegbaar op de volgende websites :<br>
 1° de website van de overheid die het voorkeursbesluit respectievelijk projectbesluit heeft vastgesteld;<br>
