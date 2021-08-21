@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035930,
+  "title": "Decreet van 2021-07-16 tot aanpassing van het decreet van 22 december 2017 over het lokaal bestuur, wat de delegatie van de bevoegdheid voor het ondertekenen van authentieke akten over onroerende verrichtingen betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035930/VolledigDocument?datum=2021-08-21",
+  "source_sha256": "49ed54a8d73dee4c82765b2b69b5d3c83483778e7b3f108987a9d00057482ea5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035930&param=informatie",
+  "as_of": "2021-08-21",
+  "made": "2021-07-16",
+  "gazette": "2021-08-11",
+  "numac": 2021032159,
+  "document_start": "2021-08-21",
+  "document_end": null,
+  "in_force": "2021-08-21",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-08-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
