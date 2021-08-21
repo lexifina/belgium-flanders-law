@@ -24,9 +24,27 @@ In artikel 145<sup>46/1</sup>&nbsp;van het Wetboek van de Inkomstenbelastingen 1
 
 ## Afdeling 1. Aanpassing toepassingsgebied Fonds Onroerende Goederen
 
+### ART 8.
+
+Aan artikel 19, § 2, van het decreet van 21 december 1990 houdende begrotingstechnische bepalingen alsmede bepalingen tot begeleiding van de begroting 1991, vervangen bij decreet van 25 juni 1992, gewijzigd bij decreet van 24 december 2004 en gewijzigd bij decreet van 18 december 2015, wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+"Aan het Fonds Onroerende Goederen worden tevens toegewezen de middelen ontvangen vanuit het Vlaams Klimaatfonds, vermeld in artikel 14, § 5, tweede lid, van het decreet van 13 juli 2012 houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2012.".
+
+### ART 9.
+
+Aan artikel 19, § 3, van het decreet van 21 december 1990 houdende begrotingstechnische bepalingen alsmede bepalingen tot begeleiding van de begroting 1991, vervangen bij decreet van 25 juni 1992, gewijzigd bij decreet van 24 december 2004 en gewijzigd bij decreet van 18 december 2015, wordt een vierde lid toegevoegd, dat luidt als volgt:<br>
+"De middelen van het Fonds Onroerende Goederen mogen tevens aangewend worden voor uitgaven in het kader van het Actieplan Mobiliteit en het Actieplan Gebouwen van de Vlaamse overheid in het kader van het klimaatbeleid.".
+
 ## Afdeling 2. Machtiging tot verkoop van een administratief gebouw
 
+### ART 10.
+
+Met toepassing van artikel 2, tweede lid, van het decreet van 30 november 2018 betreffende het vervreemden van onroerende domeingoederen en het vestigen en vervreemden van zakelijke rechten door de Vlaamse Gemeenschap en het Vlaamse Gewest, wordt de Vlaamse Regering ertoe gemachtigd om het administratief gebouw te 1000 Brussel, Trierstraat 9-11 (kadastraal gekend als Brussel, 5de afdeling, sectie E, nummers 441L8 en 441/03D) te verkopen aan het Europees Parlement.
+
 ## HOOFDSTUK 5. Landbouw en Visserij
+
+### ART 11.
+
+In behoorlijk gemotiveerde gevallen kan het Vlaams betaalorgaan voor het Europees Landbouwfonds voor plattelandsontwikkeling en het Europees Landbouwgarantiefonds, opgericht bij het besluit van de Vlaamse Regering van 28 maart 2003, naar analogie met artikel 54, derde lid, a), i), van de verordening (EU) Nr. 1306/2013 van het Europees Parlement en de Raad van 17 december 2013 inzake de financiering, het beheer en de monitoring van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordeningen (EEG) nr. 352/78, (EG) nr. 165/94, (EG)nr. 2799/98, (EG) nr. 814/2000, (EG) nr. 1290/2005 en (EG) nr. 485/2008 van de Raad, besluiten de terugvordering van het bedrag, voor wat betreft het gedeelte ervan dat gesubsidieerd is middels Vlaamse cofinanciering, niet voort te zetten als aan de bepalingen van dat artikel is voldaan voor het Vlaamse en Europese deel samen.
 
 ## HOOFDSTUK 6. Mobiliteit en Openbare Werken
 
@@ -80,6 +98,16 @@ Aan artikel 5 van het hetzelfde decreet, waarvan de bestaande tekst paragraaf 1 
 11° opbrengsten uit intellectuele rechten;".
 
 ## Afdeling 4. Dierenwelzijnsfonds
+
+### ART 23.
+
+In artikel 107 van het decreet van 19 december 2014 houdende bepalingen tot begeleiding van de begroting 2015, gewijzigd bij de decreten van 3 juli 2015 en 22 december 2017, worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 2, 1°, worden de volgende bepalingen toegevoegd:<br>
+"- de retributie, bedoeld in artikel 13, § 1, tweede lid;<br>
+- de retributie, bedoeld in artikel 34ter, § 2, tweede lid.";<br>
+2° in paragraaf 3 wordt tussen de zinsnede "en wetenschappelijk onderzoek," en de zinsnede "investeringen," de zinsnede "de Vlaamse Dierenwelzijnsprijs," ingevoegd;<br>
+3° in paragraaf 3 wordt tussen de woorden "in het kader van dierenwelzijn" en de zinsnede "toegekend voor 1 juli 2014" de zinsnede ", inclusief de onderzoeksprojecten" ingevoegd;<br>
+4° aan paragraaf 3 wordt na de woorden "FOD Volksgezondheid" de zinsnede ", en deze bestemd ter uitvoering van projecten in het kader van het Klimaatbeleid" toegevoegd.
 
 ## Afdeling 5. Wijziging aan de Vlaamse Codex Wonen van 2021
 
