@@ -3030,9 +3030,11 @@ De bepalingen, vermeld in het eerste en tweede lid, zijn van toepassing op het o
 
 De voorzitter van de gemeenteraad kan zijn bevoegdheid tot ondertekening opdragen aan een of meer leden van de gemeenteraad, tenzij die bevoegdheid betrekking heeft op de ondertekening van de notulen en het zittingsverslag, vermeld in artikel 277. Hij doet dat schriftelijk via een informatiedrager naar keuze. Die opdracht kan op elk moment worden herroepen.<br>
 <br>
-Het gemeenteraadslid aan wie de opdracht is gegeven, vermeldt die opdracht bij zijn handtekening.<br>
+Met behoud van de toepassing van het eerste lid kan de voorzitter van de gemeenteraad voor de ondertekening van een authentieke akte over onroerende verrichtingen van de gemeente, zijn bevoegdheid tot ondertekenen opdragen aan een medewerker van het notariskantoor, die hij aanwijst. De overdracht van die bevoegdheid gebeurt via een authentieke volmacht en beperkt zich tot de akte die in de volmacht wordt vermeld.<br>
 <br>
-De bepalingen, vermeld in het eerste en tweede lid, zijn van toepassing op het openbaar centrum voor maatschappelijk welzijn, met dien verstande dat "gemeenteraad" wordt gelezen als "raad voor maatschappelijk welzijn", en "gemeenteraadslid" wordt gelezen als "lid van de raad voor maatschappelijk welzijn".
+Het gemeenteraadslid of de medewerker van het notariskantoor aan wie de opdracht is gegeven, vermeldt die opdracht bij zijn handtekening.<br>
+<br>
+De bepalingen, vermeld in het eerste, tweede en derde lid, zijn van toepassing op het openbaar centrum voor maatschappelijk welzijn, met dien verstande dat "gemeenteraad" wordt gelezen als "raad voor maatschappelijk welzijn", en "gemeenteraadslid" wordt gelezen als "lid van de raad voor maatschappelijk welzijn".
 
 ### ART 282.
 
@@ -3044,9 +3046,11 @@ Het lid van het bijzonder comité voor de sociale dienst aan wie de opdracht is 
 
 De algemeen directeur kan zijn bevoegdheid tot ondertekening of mede-ondertekening opdragen aan een of meer personeelsleden van de gemeente, tenzij die bevoegdheid betrekking heeft op de ondertekening van de notulen en het zittingsverslag van de gemeenteraad en van de notulen van het college van burgemeester en schepenen. Hij doet dat schriftelijk via een informatiedrager naar keuze. Die opdracht kan op elk moment worden herroepen. Als dat is opgenomen in de beheersovereenkomst, vermeld in artikel 196, kan hij die bevoegdheid ook toevertrouwen aan een of meer personeelsleden van het openbaar centrum voor maatschappelijk welzijn.<br>
 <br>
-De personeelsleden aan wie de opdracht tot ondertekening of medeondertekening is gegeven, vermelden die opdracht bij hun handtekening.<br>
+Met behoud van de toepassing van het eerste lid kan de algemeen directeur voor de ondertekening van een authentieke akte over onroerende verrichtingen van de gemeente, zijn bevoegdheid tot ondertekenen of medeondertekenen overdragen aan een medewerker van het notariskantoor, die hij aanwijst. De overdracht van die bevoegdheid gebeurt via een authentieke volmacht en beperkt zich tot de akte die in de volmacht wordt vermeld.<br>
 <br>
-De bepalingen, vermeld in het eerste en tweede lid, zijn van toepassing op het openbaar centrum voor maatschappelijk welzijn, met dien verstande dat "de gemeente" wordt gelezen als "het openbaar centrum voor maatschappelijk welzijn", "gemeenteraad" wordt gelezen als "raad voor maatschappelijk welzijn", "college van burgemeester en schepenen" wordt gelezen als "vast bureau", en "openbaar centrum voor maatschappelijk welzijn" wordt gelezen als "gemeente".
+De personeelsleden&nbsp;of de medewerker van het notariskantoor aan wie de opdracht tot ondertekening of medeondertekening is gegeven, vermelden die opdracht bij hun handtekening.<br>
+<br>
+De bepalingen, vermeld in het eerste, tweede en derde lid, zijn van toepassing op het openbaar centrum voor maatschappelijk welzijn, met dien verstande dat "de gemeente" wordt gelezen als "het openbaar centrum voor maatschappelijk welzijn", "gemeenteraad" wordt gelezen als "raad voor maatschappelijk welzijn", "college van burgemeester en schepenen" wordt gelezen als "vast bureau", en "openbaar centrum voor maatschappelijk welzijn" wordt gelezen als "gemeente".
 
 ### ART 284.
 
