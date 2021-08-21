@@ -298,7 +298,7 @@ De VDAB voert, in samenspraak met het Departement WVG, een overheidsopdracht voo
 
 ### ART 27.
 
-De penhouders worden gemandateerd voor de uitvoering van trajecten die opgestart worden binnen een periode van vier jaar.<br>
+De penhouders worden gemandateerd voor de uitvoering van trajecten die opgestart worden binnen een periode van vijf jaar.<br>
 &nbsp;
 
 ## Onderafdeling 2 Compensatievergoeding voor de penhouder
