@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035932,
+  "title": "Besluit van de Vlaamse Regering van 2021-07-09 tot wijziging van diverse artikelen van het besluit van de Vlaamse Regering van 12 december 2014 tot uitvoering van het decreet van 25 april 2014 betreffende complexe projecten, wat betreft individuele kennisgevingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035932/VolledigDocument?datum=2021-08-21",
+  "source_sha256": "3e9270fc18f2e306cd483f9ca657a3b701f2088da4511c01d82c06caaab2e062",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035932&param=informatie",
+  "as_of": "2021-08-21",
+  "made": "2021-07-09",
+  "gazette": "2021-08-11",
+  "numac": 2021032154,
+  "document_start": "2021-08-21",
+  "document_end": null,
+  "in_force": "2021-08-21",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2021-08-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
