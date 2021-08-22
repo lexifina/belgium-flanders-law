@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035936,
+  "title": "Besluit van de Vlaamse Regering van 2021-07-09 tot wijziging van het koninklijk besluit van 1 maart 2013 betreffende het welzijn van paarden en pony's op kermissen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035936/VolledigDocument?datum=2021-08-22",
+  "source_sha256": "0458f5568aa8ab0c17da31df0c25f50715a0caf538415d87d111050d92d61628",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035936&param=informatie",
+  "as_of": "2021-08-22",
+  "made": "2021-07-09",
+  "gazette": "2021-08-12",
+  "numac": 2021032271,
+  "document_start": "2021-08-22",
+  "document_end": null,
+  "in_force": "2021-08-22",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2021-08-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
