@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035940,
+  "title": "Besluit van de Vlaamse Regering van 2021-04-02 tot erkenning van de beroepskwalificatie digitale vormgever web-, app- en mobiele toepassingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035940/VolledigDocument?datum=2021-08-23",
+  "source_sha256": "b650180d26659c7f7376f5e5bc73c19aa40d92d6e7560992b2fe8a68a124952d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035940&param=informatie",
+  "as_of": "2021-08-23",
+  "made": "2021-04-02",
+  "gazette": "2021-08-13",
+  "numac": 2021021573,
+  "document_start": "2021-08-23",
+  "document_end": null,
+  "in_force": "2021-08-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-08-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
