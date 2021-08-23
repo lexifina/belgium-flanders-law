@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035944,
+  "title": "Besluit van de Vlaamse Regering van 2021-04-02 tot erkenning van de beroepskwalificatie operator vouw-plakmachine in de papier- en kartonbewerkende industrie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035944/VolledigDocument?datum=2021-08-23",
+  "source_sha256": "8d8c9722e44fd7d3821848836dcb1787d716e128e6e39c58c73fb7fd7cce818a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035944&param=informatie",
+  "as_of": "2021-08-23",
+  "made": "2021-04-02",
+  "gazette": "2021-08-13",
+  "numac": 2021021577,
+  "document_start": "2021-08-23",
+  "document_end": null,
+  "in_force": "2021-08-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-08-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
