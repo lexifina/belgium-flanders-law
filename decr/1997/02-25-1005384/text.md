@@ -3078,7 +3078,11 @@ De bepalingen van deze sectie zijn uitsluitend van toepassing op de scholen voor
 
 ### ART. 139duodecies.
 
-§ 1. Scholen kunnen voor een periode van drie schooljaren aanvullende   lestijden krijgen, voor zover ze aan alle onderstaande voorwaarden voldoen   :<BR>1° op 1 februari van het voorafgaande schooljaar ten minste 40 % externe en   semi-interne regelmatige leerlingen type basisaanbod en type 3 tellen, die   beantwoorden aan de in artikel 139undecies, § 1, 1°, bedoelde   gelijkekansenindicator;<BR>2° overeenkomstig de bepalingen van artikel 139ter   decies batig gerangschikt zijn onder de in 1° bedoelde scholen en ten minste 6   aanvullende lestijden genereren.<BR><BR>§ 2. In afwijking van § 1 krijgen   scholen gedurende de schooljaren 2009-2010 en 2010-2011 slechts voor een periode   van twee schooljaren aanvullende lestijden.<BR><BR>§ 3. De regering voorziet   voor de schooljaren 2009-2010 en 2010-2011 in een sociale overgangsmaatregel   voor de scholen die in het schooljaar 2008-2009 lestijden voor het voeren van   een onderwijsvoorrangsbeleid kregen.
+Onverminderd de bepalingen in artikel 39, § 7, 2°, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs kunnen scholen jaarlijks aanvullende lestijden krijgen, voor zover ze aan alle onderstaande voorwaarden voldoen:<br>
+1° op 1 februari van het voorafgaande of daaraan voorafgaande schooljaar ten minste 40% regelmatige leerlingen type basisaanbod en type 3 tellen, die beantwoorden aan de in artikel 139undecies, § 1, 1°, bedoelde gelijkekansenindicator die niet:<br>
+a) binnen het niet rechtstreeks toegankelijke aanbod, als vermeld in artikel 2, § 1, 4°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp gebruik maken van de module verblijf in een multifunctioneel centrum, als vermeld in artikel 10 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
+b) in een internaat buitengewoon onderwijs vermeld in deel III, hoofdstuk 4, afdeling 1, onderafdeling 2, van de codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016 ingeschreven zijn;<br>
+2° overeenkomstig de bepalingen van artikel 139ter decies batig gerangschikt zijn onder de in punt 1° bedoelde scholen en ten minste 6 aanvullende lestijden genereren.
 
 ### ART 139duodecies/1.
 
