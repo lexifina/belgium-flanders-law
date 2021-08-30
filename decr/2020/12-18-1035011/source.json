@@ -2,16 +2,16 @@
   "codex_id": 1035011,
   "title": "Decreet van 2020-12-18 Programmadecreet bij de begroting 2021",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035011/VolledigDocument?datum=2021-01-09",
-  "source_sha256": "d45b4e83eb04b76ea43a7e119adb8b31715291bda6d1dd34ba7daef593f62e96",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035011/VolledigDocument?datum=2021-08-30",
+  "source_sha256": "5af29fde532f37dba8a2e6f838b5648cbacb0cfd1ce38b457f29d2cbb1d0c76c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035011&param=informatie",
-  "as_of": "2021-01-09",
+  "as_of": "2021-08-30",
   "made": "2020-12-18",
   "gazette": "2020-12-30",
   "numac": 2020016467,
   "document_start": "2021-01-01",
   "document_end": null,
-  "in_force": "2021-01-09",
+  "in_force": "2021-08-30",
   "article_versions": 74,
-  "record_form": "consolidated version as in force on 2021-01-09; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-08-30; future article versions excluded; article text as the API gives it"
 }

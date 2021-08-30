@@ -45,14 +45,17 @@ Het Fonds is een begrotingsfonds als vermeld in artikel 15, § 2, van de Vlaamse
 4° subsidies van andere overheden;<br>
 5° schenkingen en legaten;<br>
 6° boetes, schadevergoedingen en betalingen afkomstig uit dadingen;<br>
-7° het onbelast saldo vastgesteld op 31 december 2020 op het Fonds Culturele Infrastructuur, opgericht bij het decreet van 19 december 1998 houdende bepalingen tot begeleiding van de begroting 1999.<br>
+7° het onbelast saldo vastgesteld op 31 december 2020 op het Fonds Culturele Infrastructuur, opgericht bij het decreet van 19 december 1998 houdende bepalingen tot begeleiding van de begroting 1999;<br>
+8° de middelen ontvangen vanuit het Vlaams Klimaatfonds, vermeld in artikel 14, § 5, tweede lid, van het decreet van 13 juli 2012 houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2012.<br>
 <br>
 § 3. De middelen van het Fonds kunnen worden aangewend voor:<br>
 1° het verstrekken van investeringssubsidies voor het bouwen, uitbreiden, verbouwen of aankopen van cultuur- en jeugdinfrastructuur met supralokaal belang;<br>
 2° het aankopen, het bouwen en het verbouwen van de eigen cultuur- en jeugdinfrastructuur van de Vlaamse Gemeenschap en het ten laste nemen van de kosten ervan voor uitrusting en apparatuur, de eigenaarsverplichtingen, de onroerende voorheffing, verzekeringen en het eigenaarsonderhoud;<br>
 3° het betalen van huurgelden, erfpachtvergoedingen, beschikbaarheidsvergoedingen en andere kosten voor het gebruiksrecht van gebouwen en terreinen met betrekking tot cultuur en jeugd, die ressorteren onder het beheer van de bevoegde administratie van de Vlaamse Gemeenschap;<br>
 4° de uitgaven voor het vergoeden van schade met betrekking tot punt 1° tot en met 3° ;<br>
-5° specifieke werkingskosten voor de realisatie van de doelstellingen opgenomen in punt 1° tot en met 4°.
+5° specifieke werkingskosten voor de realisatie van de doelstellingen opgenomen in punt 1° tot en met 4°;<br>
+6° het verstrekken van subsidies, toelagen en leningen met betrekking tot cultuuren jeugdinfrastructuur in het kader van het klimaatbeleid.<br>
+&nbsp;
 
 ### ART 6.
 
