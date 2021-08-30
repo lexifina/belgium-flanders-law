@@ -102,7 +102,7 @@ In afwijking van artikel 3, § 2, eerste en tweede lid, zijn alleen artikel 11, 
 
 ### ART 6.
 
-Op de Vlaamse openbare instellingen, vermeld in artikel I.3, 4°, van het Bestuursdecreet van 7 december 2018 die niet behoren tot de Vlaamse deelstaat-overheid, zijn alleen artikel 42, § 1, tweede lid, 1°, 2° en 4°, artikel 43, artikel 60 tot en met 65, hoofdstuk 8, artikel 80, derde lid, en artikel 110 van toepassing.
+Als ze niet behoren tot de Vlaamse deelstaatoverheid zijn op de publiekrechtelijke vormgegeven extern verzelfstandigde agentschappen, vermeld in artikel I.3, 2°, d), van het Bestuursdecreet van 7 december 2018, en de Vlaamse openbare instellingen, vermeld in artikel I.3, 4°, van het Bestuursdecreet van 7 december 2018, alleen artikel 42, § 1, tweede lid, 1°, 2° en 4°, artikel 43, artikel 60 tot en met 65, hoofdstuk 8, artikel 80, derde lid, en artikel 110 van toepassing.
 
 ### ART 7.
 
@@ -737,7 +737,7 @@ In afwijking van het eerste lid zijn de volgende Vlaamse rechtspersonen altijd o
 3° de Vlaamse openbare instellingen, vermeld in artikel I.3, 4°, van het Bestuursdecreet van 7 december 2018;<br>
 4° de strategische adviesraden, vermeld in artikel I.3, 3°, a), van het Bestuursdecreet van 7 december 2018.<br>
 <br>
-De andere Vlaamse rechtspersonen dan die vermeld in het eerste en tweede lid en de Vlaamse openbare instellingen, vermeld in artikel 6, kunnen zich altijd vrijwillig aan de toepassing van afdeling 5 onderwerpen, mits aanvaarding door de Vlaamse Regering.
+De andere Vlaamse rechtspersonen dan die vermeld in het eerste en tweede lid en de Vlaamse openbare instellingen, vermeld in artikel 6, kunnen zich altijd vrijwillig aan de toepassing van hoofdstuk 10 onderwerpen, mits aanvaarding door de Vlaamse Regering.
 
 ### ART 81.
 
