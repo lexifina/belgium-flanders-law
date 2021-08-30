@@ -553,7 +553,7 @@ In afwijking van het eerste lid kan voor leerlingen die ingeschreven zijn in het
 
 Om te bepalen of een rechthebbende leerling als vermeld in artikel 24, in aanmerking komt voor de selectieve participatietoeslagen leerling, wordt uitgegaan van de inkomsten van het gezin waartoe de leerling behoort.<br>
 <br>
-In afwijking van het eerste lid heeft een pleegkind of pleeggast als vermeld in artikel 2, 8° en 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, recht op een volledige selectieve participatietoeslag leerling op voorwaarde dat het pleegkind of de pleeggast langer dan één jaar onafgebroken bij hetzelfde pleeggezin verblijft.<br>
+In afwijking van het eerste lid heeft een pleegkind of pleeggast als vermeld in artikel 2, 8° en 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, recht op een volledige selectieve participatietoeslag leerling op voorwaarde dat het pleegkind of de pleeggast langer dan één jaar onafgebroken bij een pleeggezin verblijft.<br>
 <br>
 Voor de toepassing van het tweede lid is artikel 25, eerste lid, van overeenkomstige toepassing.
 
