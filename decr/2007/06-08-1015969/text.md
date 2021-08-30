@@ -351,7 +351,7 @@ In afwijking van artikel 27 deelt de student die een opleiding volgt in   het ka
 
 Om te bepalen of een student in aanmerking komt voor een toelage, wordt uitgegaan van de leefeenheid van de betrokken student en het referentie-inkomen van zijn leefeenheid.<br>
 <br>
-In afwijking van het eerste lid heeft een pleegkind of pleeggast als vermeld in artikel 2, 8° en 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg recht op een volledige toelage op voorwaarde dat het pleegkind of de pleeggast langer dan één jaar onafgebroken bij hetzelfde pleeggezin verblijft.<br>
+In afwijking van het eerste lid heeft een pleegkind of pleeggast als vermeld in artikel 2, 8° en 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg recht op een volledige toelage op voorwaarde dat het pleegkind of de pleeggast langer dan één jaar onafgebroken bij een pleeggezin verblijft.<br>
 <br>
 Voor de toepassing van het tweede lid is artikel 7, eerste lid van overeenkomstige toepassing.
 
