@@ -941,11 +941,15 @@
 
 ### ART 3.20.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De woningen, vermeld in artikel 3.19, §1, 1°, worden ingeschreven op de inventarislijst op de datum van het besluit van de burgemeester, vermeld in artikel 3.12, §1, of, in geval van een beslissing tot ongeschikt- of onbewoonbaarverklaring in beroep, op de datum van het besluit, vermeld in artikel 3.16, eerste lid.</span></span></span></span><br>
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De woningen, vermeld in artikel 3.19, § 1, 1°, worden ingeschreven op de inventarislijst op de datum van het besluit van de burgemeester, vermeld in artikel 3.12, § 1. In geval van een beslissing tot ongeschiktof onbewoonbaarverklaring in beroep als vermeld in artikel 3.16, eerste lid, worden de woningen ook ingeschreven op de inventarislijst op de datum van het besluit, vermeld in artikel 3.12, § 1, tenzij:<br>
+1° het besluit, vermeld in artikel 3.12, § 1, niet tot stand gekomen is volgens de procedure, vermeld in artikel 3.12 en 3.13;<br>
+2° het een beslissing betreft als vermeld in artikel 3.15, tweede lid.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De woningen, vermeld in artikel 3.19, §1, 2°, worden ingeschreven op de inventarislijst op de datum van het besluit van de burgemeester.</span></span></span></span><br>
+In deze gevallen worden de woningen ingeschreven op de inventarislijst op de datum van het besluit, vermeld in artikel 16, eerste lid..</span></span></span><br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Dit artikel geldt ook voor de afsplitsbare woningen en voor de bedrijfsruimten waarvan de woning van de eigenaar als verblijfplaats wordt benut en een niet-afsplitsbaar onderdeel uitmaakt als vermeld in artikel 2, 1°, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten.</span></span></span></span></p>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De woningen, vermeld in artikel 3.19, §1, 2°, worden ingeschreven op de inventarislijst op de datum van het besluit van de burgemeester.</span></span></span><br>
+<br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Dit artikel geldt ook voor de afsplitsbare woningen en voor de bedrijfsruimten waarvan de woning van de eigenaar als verblijfplaats wordt benut en een niet-afsplitsbaar onderdeel uitmaakt als vermeld in artikel 2, 1°, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten.</span></span></span></p>
 
 ### ART 3.21.
 
