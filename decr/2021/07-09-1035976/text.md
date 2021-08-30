@@ -2,15 +2,61 @@
 
 ## HOOFDSTUK 1. Algemeen
 
+### ART 1.
+
+Dit decreet regelt een gewesten gemeenschapsaangelegenheid.
+
 ## HOOFDSTUK 2. Cultuur, Jeugd, Sport en Media
 
 ## Afdeling 1. Werkingsuitgaven erkenning landelijke radio-omroeporganisaties
 
+### ART 2.
+
+In artikel 33 van het decreet van 6 juli 2001 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2001, gewijzigd bij de decreten van 22 december 2006, 21 november 2008, 18 december 2009, 30 juni 2017 en 20 december 2019, wordt paragraaf 9 vervangen door wat volgt:<br>
+" § 9. Aan het fonds van het Vlaams ministerie van Cultuur, Jeugd, Sport en Media worden alle inkomsten toegewezen die verkregen worden uit de kandidaatstellingen voor landelijke radio's, netwerkradio's en lokale radio's die bij het Departement Cultuur, Jeugd en Media worden ingediend.<br>
+<br>
+De middelen van het fonds van het Vlaams ministerie van Cultuur, Jeugd, Sport en Media, verkregen op basis van het eerste lid, dienen aangewend te worden voor de betaling van de wedden en weddentoelagen van de tijdelijke personeelsleden die worden aangeworven voor het behandelen van de aanvragen inzake landelijke radio's, netwerkradio's en lokale radio's alsook voor de werkingsuitgaven naar aanleiding van de behandeling van de genoemde aanvragen.".
+
 ## Afdeling 2. Begrotingsfonds Infrastructuur Cultuur en Jeugd - klimaatbeleid
+
+### ART 3.
+
+&nbsp;In artikel 5 van het programmadecreet van 18 december 2020 bij de begroting 2021 worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 2 wordt een punt 8° toegevoegd dat luidt als volgt:<br>
+"8° de middelen ontvangen vanuit het Vlaams Klimaatfonds, vermeld in artikel 14, § 5, tweede lid, van het decreet van 13 juli 2012 houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2012.";<br>
+2° aan paragraaf 3 wordt een punt 6° toegevoegd dat luidt als volgt:<br>
+"6° het verstrekken van subsidies, toelagen en leningen met betrekking tot cultuuren jeugdinfrastructuur in het kader van het klimaatbeleid.".
 
 ## Afdeling 3. Steun aan jeugdhostels, jeugdverblijfcentra en jeugdorganisaties naar aanleiding van de COVID-19-pandemie
 
+### ART 4.
+
+§ 1. De Vlaamse Regering kent in het jaar 2021 steun toe aan hostels als vermeld in het decreet van 6 juli 2012 houdende subsidiëring van hostels, jeugdverblijfcentra, ondersteuningsstructuren en de vzw Algemene Dienst voor Jeugdtoerisme, aan jeugdverblijfcentra die erkend zijn op basis van het decreet van 18 juli 2003 betreffende de verblijven en verenigingen die een werking uitoefenen in het kader van Toerisme voor Allen, en aan de organisaties die gesubsidieerd zijn op basis van het decreet van 20 januari 2012 houdende een vernieuwd jeugden kinderrechtenbeleid. De steun kan worden toegekend aan organisaties die een structurele werkingssubsidie op basis van die decreten ontvangen.<br>
+<br>
+De Vlaamse Regering kan de regels bepalen voor de subsidievoorwaarden, de subsidiecriteria, de subsidieaanvragen, de beslissingsprocedure, het toe te kennen bedrag, de uitbetaling, de verantwoording en het toezicht. Het toe te kennen bedrag valt binnen de grenzen van de goedgekeurde kredieten van de begroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2021.<br>
+<br>
+§ 2. De administratie stelt een webtoepassing ter beschikking om informatie uit te wisselen met aanvragers of ontvangers van een subsidie.<br>
+<br>
+§ 3. De door de Vlaamse Regering aangewezen dienst treedt op als de verwerkingsverantwoordelijke van persoonsgegevens, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de uitvoering van deze afdeling.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van deze afdeling heeft betrekking op de identificatie van de persoon die de webtoepassing gebruikt als vertegenwoordiger van de aanvrager. Met betrekking tot de identificatie van deze persoon kunnen, om de gegevens in de aanvraag te controleren of aan te vullen, het beheer en de controle van de aanvragen betrekking hebben op de verwerking van het rijksregisternummer of identificatienummer van de sociale zekerheid en andere identificatiegegevens van deze persoon.<br>
+<br>
+De administratie vraagt in eerste instantie de persoonsgegevens en andere gegevens op bij de authentieke gegevensbronnen, vermeld in artikel 5 van het besluit van de Vlaamse Regering van 15 mei 2009 houdende de uitvoering van artikel III.66, III.67 en III.68 van het Bestuursdecreet van 7 december 2018. Bij gebrek daaraan kan ze die gegevens verkrijgen bij de aanvrager.<br>
+<br>
+De maximale bewaringstermijnen voor persoonsgegevens die op basis van deze afdeling worden verwerkt, conform artikel 5, 1, e), van de algemene verordening gegevensbescherming, worden vastgelegd in beheersregels, conform artikel III.81, § 2, van het Bestuursdecreet van 7 december 2018.<br>
+<br>
+De Vlaamse Regering kan de nadere regels bepalen voor de verwerking van de persoonsgegevens, de beveiliging van deze gegevens, en de passende waarborgen voor de rechten en vrijheden van de betrokkenen.
+
 ## HOOFDSTUK 3. Financiën en Begroting
+
+### ART 5.
+
+Artikel 6 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 wordt vervangen door wat volgt:<br>
+"Art. 6. Als ze niet behoren tot de Vlaamse deelstaatoverheid zijn op de publiekrechtelijke vormgegeven extern verzelfstandigde agentschappen, vermeld in artikel I.3, 2°, d), van het Bestuursdecreet van 7 december 2018, en de Vlaamse openbare instellingen, vermeld in artikel I.3, 4°, van het Bestuursdecreet van 7 december 2018, alleen artikel 42, § 1, tweede lid, 1°, 2° en 4°, artikel 43, artikel 60 tot en met 65, hoofdstuk 8, artikel 80, derde lid, en artikel 110 van toepassing.".
+
+### ART 6.
+
+&nbsp;In artikel 80, derde lid, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 wordt de zinsnede "afdeling 5" vervangen door de zinsnede "hoofdstuk 10".
 
 ### ART 7.
 
@@ -72,7 +118,62 @@ De in dit artikel bedoelde waarborgen zijn niet onderworpen aan de bepalingen va
 
 ## Afdeling 1. Wijziging van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018: VMM-heffingen
 
+### ART 13.
+
+In artikel 4.2.2.1.4. van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, gewijzigd bij decreet van 21 december 2018 houdende bepalingen tot begeleiding van de begroting 2019, worden volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 5 worden een zesde en zevende lid toegevoegd, die luiden als volgt:<br>
+"Indien de heffingsplichtige waterverontreiniging, in afwijking van wat wordt bepaald in het eerste en tweede lid, een laattijdige hernieuwingsaanvraag indient, kan de Vlaamse Milieumaatschappij na onderzoek van het dossier beslissen de verlenging van het statuut met terugwerkende kracht toe te staan vanaf de vervaldatum van het oorspronkelijke statuut. De toepassing van de overige bepalingen van dit artikel blijft daarbij onverkort.<br>
+Het met terugwerkende kracht toekennen van de verlenging geeft aanleiding tot het opleggen van een boete conform artikel 5.4.2.2, tweede lid.";<br>
+2° in paragraaf 8 wordt de zinsnede "paragrafen 2, 3, 4 en 5" vervangen door de zinsnede "paragrafen 2, 3 en 4";<br>
+3° een paragraaf 9 wordt toegevoegd, die luidt als volgt:<br>
+" § 9. Het onderzoek, vermeld in paragraaf 5, zesde lid, kan worden uitgevoerd op heffingsdossiers waarin voorafgaand aan de inwerkingtreding van paragraaf 5, zesde en zevende lid, een laattijdige hernieuwingsaanvraag werd ingediend, en waarvoor op het ogenblik van de bekendmaking van het programmadecreet van 9 juli 2021 bij de aanpassing van de begroting 2021 waarbij deze bepalingen worden ingevoegd:<br>
+1° een bezwaarschrift hangende is of reeds een beslissing over het bezwaarschrift werd genomen waartegen nog een beroepsmogelijkheid openstaat;<br>
+2° een vordering in rechte hangende is;<br>
+3° een aanvraag tot ambtshalve ontheffing als vermeld in artikel 376 van het WIB ingediend werd bij en aanvaard wordt door de Vlaamse Milieumaatschappij;<br>
+4° een navordering gevestigd werd als vermeld in artikel 4.2.4.5, § 2;<br>
+5° een aansprakelijkheidsvordering werd ingeleid voor hoven en rechtbanken.<br>
+<br>
+De heffingsplichtige dient de Vlaamse Milieumaatschappij hiertoe te verzoeken met een per post aangetekende brief, die ten laatste één jaar na de bekendmaking van het programmadecreet van 9 juli 2021 bij de aanpassing van de begroting 2021 wordt verstuurd.<br>
+<br>
+Indien de Vlaamse Milieumaatschappij na onderzoek de verlenging van het nullozersstatuut met terugwerkende kracht toekent kan, in afwijking van artikel 418 WIB, enkel het verschil tussen het oorspronkelijke heffingsbedrag vermeerderd met de eventuele heffingsverhoging en het heffingsbedrag na toepassing van de vrijstelling voor nullozing, eventueel rekening houdend met de toepassing van paragraaf 6, terugbetaald worden aan de heffingsplichtige. De toekenning met terugwerkende kracht geeft eveneens aanleiding tot het opleggen van de boete, zoals bepaald in artikel 5.4.2.2, tweede lid.<br>
+<br>
+Alle kosten verbonden aan eerdere betwistingen in dit verband blijven ten laste van de heffingsplichtige.".
+
+### ART 14.
+
+Artikel 5.4.2.2 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 5.4.2.2. De ambtenaren van de Maatschappij, bedoeld in artikel 5.4.1.2, § 1, kunnen een geldboete van 50 tot 1250 euro opleggen voor elke overtreding van hoofdstuk II van titel IV evenals van de ter uitvoering ervan genomen besluiten.<br>
+<br>
+Bij het met terugwerkende kracht toekennen van de verlenging van het nullozersstatuut, conform artikel 4.2.2.1.4, § 5, zesde en zevende lid, wordt een geldboete opgelegd van 1000 euro per heffingsjaar waarvoor de vrijstelling met terugwerkende kracht wordt toegestaan.".
+
 ## Afdeling 2. Voorstel tot invoering van een regeling voor de kwijtschelding van bepaalde in het kader van steunregelingen uit het energierecht ontstane schulden aan het Vlaamse Gewest
+
+### ART 15.
+
+In artikel 8.2.2 van het Energiedecreet van 8 mei 2009, ingevoegd bij het decreet van 19 december 2014 en gewijzigd bij de decreten van 3 juli 2015 en 30 oktober 2020, wordt paragraaf 3 opgeheven.
+
+### ART 16.
+
+In artikel 8.3.1/1 van hetzelfde decreet, ingevoegd bij het decreet van 17 februari 2017 en gewijzigd bij de decreten van 16 november 2018 en 30 oktober 2020, wordt paragraaf 3 opgeheven.
+
+### ART 17.
+
+&nbsp;In artikel 8.4.2 van hetzelfde decreet, ingevoegd bij het decreet van 17 februari 2017 en gewijzigd bij de decreten van 16 november 2018 en 30 oktober 2020, wordt paragraaf 3 opgeheven.
+
+### ART 18.
+
+&nbsp;In titel VIII van hetzelfde decreet, het laatst gewijzigd bij het decreet van 30 oktober 2020, wordt hoofdstuk VI, opgeheven bij het decreet van 14 februari 2014, opnieuw opgenomen in de volgende lezing:<br>
+"Hoofdstuk VI. Kwijtscheldingen".
+
+### ART 19.
+
+Aan titel VIII, hoofdstuk VI, van hetzelfde decreet, toegevoegd bij artikel 17, wordt een artikel 8.6.1 toegevoegd, dat luidt als volgt:<br>
+"Art. 8.6.1. De Vlaamse Regering kan op voorstel van de Vlaamse minister, bevoegd voor de energie, schulden die door een energiehuis ten aanzien van het Vlaamse Gewest in het kader van de uitvoering van artikel 8.2.2, artikel 8.3.1/1 of artikel van dit decreet werden gemaakt geheel of gedeeltelijk kwijtschelden. De Vlaamse Regering bepaalt de nadere regels met betrekking tot de modaliteiten en de voorwaarden waaronder deze kwijtschelding kan geschieden.".
+
+### ART 20.
+
+Aan titel VIII, hoofdstuk VI, van hetzelfde decreet, toegevoegd bij artikel 17, wordt een artikel 8.6.2 toegevoegd, dat luidt als volgt:<br>
+"Art. 8.6.2. De Vlaamse Regering kan op voorstel van de Vlaamse minister, bevoegd voor de energie, schulden die ten aanzien van het Vlaamse Gewest in het kader van de toekenning van steun voor energetische renovatieprojecten van noodkoopwoningen werden gemaakt geheel of gedeeltelijk kwijtschelden. De Vlaamse Regering bepaalt de nadere regels met betrekking tot de modaliteiten en de voorwaarden waaronder deze kwijtschelding kan geschieden.".
 
 ## Afdeling 3. Wijziging aan het decreet van 15 juli 2011 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap NV Vlaams Energiebedrijf
 
@@ -110,6 +211,15 @@ In artikel 107 van het decreet van 19 december 2014 houdende bepalingen tot bege
 4° aan paragraaf 3 wordt na de woorden "FOD Volksgezondheid" de zinsnede ", en deze bestemd ter uitvoering van projecten in het kader van het Klimaatbeleid" toegevoegd.
 
 ## Afdeling 5. Wijziging aan de Vlaamse Codex Wonen van 2021
+
+### ART 24.
+
+In artikel 3.20 van de Vlaamse Codex Wonen van 2021 wordt het eerste lid vervangen door wat volgt:<br>
+"De woningen, vermeld in artikel 3.19, § 1, 1°, worden ingeschreven op de inventarislijst op de datum van het besluit van de burgemeester, vermeld in artikel 3.12, § 1. In geval van een beslissing tot ongeschiktof onbewoonbaarverklaring in beroep als vermeld in artikel 3.16, eerste lid, worden de woningen ook ingeschreven op de inventarislijst op de datum van het besluit, vermeld in artikel 3.12, § 1, tenzij:<br>
+1° het besluit, vermeld in artikel 3.12, § 1, niet tot stand gekomen is volgens de procedure, vermeld in artikel 3.12 en 3.13;<br>
+2° het een beslissing betreft als vermeld in artikel 3.15, tweede lid.<br>
+<br>
+In deze gevallen worden de woningen ingeschreven op de inventarislijst op de datum van het besluit, vermeld in artikel 16, eerste lid.".
 
 ## HOOFDSTUK 8. Onderwijs en Vorming
 
@@ -153,6 +263,10 @@ Aan artikel 41, § 4, van het decreet van 20 december 2013 houdende bepalingen t
 
 ## Afdeling 6. Machtiging aan AGION voor verbintenissen voor huursubsidies
 
+### ART 32.
+
+In artikel 20 van het decreet van 30 juni 2017 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2017, het laatst gewijzigd bij het decreet van 20 december 2019, wordt het bedrag "20.200.000 euro" vervangen door het bedrag "25.200.000 euro".
+
 ## Afdeling 7. Correctie op de berekening van de besparing van de werkingsmiddelen in het deeltijds kunstonderwijs.
 
 ## Afdeling 8. Maatregelen onderwijs en vorming binnen het relanceplan Vlaamse Veerkracht
@@ -163,4 +277,87 @@ Aan artikel 41, § 4, van het decreet van 20 december 2013 houdende bepalingen t
 
 ## Afdeling 11. Huursubsidies AGION voor tijdelijke modulaire units
 
+### ART 60.
+
+§ 1. AGION wordt ertoe gemachtigd verbintenissen aan te gaan voor een totaal van maximaal 750.000 euro subsidie per jaar in het kader van een uiterst dringende capaciteitsproblematiek om een tijdelijke subsidie te geven aan de inrichtende machten van het gesubsidieerd onderwijs voor de huur en plaatsing van tijdelijke modulaire units.<br>
+<br>
+Dit bedrag wordt gekoppeld aan de consumptieprijsindex van december 2020, basis 2013, en wordt jaarlijks op 1 januari berekend.<br>
+<br>
+§ 2. De maximumtermijn van de subsidie bedraagt 3 jaar vanaf de aanvang van de huurovereenkomst. Op grond van de beoordeling van de gemotiveerde vraag van de inrichtende macht voorafgaand aan het verstrijken van de 3 jaar, kan AGION een eenmalige verlenging toestaan voor een termijn van nog eens maximaal 3 jaar.<br>
+<br>
+§ 3. De huursubsidie kan alleen worden toegekend voor projecten die beantwoorden aan de fysische normen, vermeld in artikel 7 tot en met 30 van het besluit van de Vlaamse Regering van 5 oktober 2007 houdende vaststelling van de regels die de behoefte aan nieuwbouw of uitbreiding bepalen en van de fysische en financiële normen voor de schoolgebouwen, internaten en centra voor leerlingenbegeleiding.<br>
+<br>
+§ 4. Voor de huursubsidie geldt een maximale aanvangshuur volgens de bepalingen van artikel 2, § 2 en § 3, van het besluit van de Vlaamse Regering van 4 mei 2016 houdende de regeling voor huursubsidies voor schoolinfrastructuur.<br>
+<br>
+§ 5. De huursubsidie wordt jaarlijks geïndexeerd. De jaarlijkse indexatie mag er echter niet toe leiden dat de huursubsidie in een bepaald jaar meer bedraagt dan als de initiële huursubsidie jaarlijks geïndexeerd zou worden aan de consumptieprijsindex.<br>
+<br>
+§ 6. De huursubsidie kan alleen betrekking hebben op de vergoeding van de huur. De huursubsidie kan niet van toepassing zijn op projecten die geselecteerd zijn in het kader van de inhaalbeweging voor schoolinfrastructuur, vermeld in het decreet van 7 juli 2006 betreffende de inhaalbeweging voor schoolinfrastructuur, of die geselecteerd zijn in het kader van het decreet van 25 november 2016 betreffende de alternatieve financiering van schoolinfrastructuur via projectspecifieke DBFM-overeenkomsten.<br>
+<br>
+§ 7. Voor de huursubsidie geldt hetzelfde subsidiepercentage als in de reguliere subsidiëring, vermeld in artikel 17, § 1, van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving.
+
+### ART 61.
+
+De inrichtende macht dient een gemotiveerd aanvraagdossier in bij AGION waaruit de uiterst dringende capaciteitsproblematiek objectief blijkt.<br>
+<br>
+De inrichtende macht voegt bij de aanvraag een ontwerp van huurovereenkomst die minstens het moment vermeldt waarop en de duur van de periode waarin de tijdelijke modulaire units ter beschikking worden gesteld aan de inrichtende macht.<br>
+<br>
+De inrichtende macht bezorgt ook een verklaring aan AGION waarin ze zich ertoe verbindt om:<br>
+1° de huursubsidie alleen te gebruiken voor het project en de onderwijsbestemming waarvoor ze is bedoeld;<br>
+2° elke wijziging, schorsing of beëindiging van de huurovereenkomst of van de voorwaarden voor de toegekende huursubsidie aan AGION te melden;<br>
+3° bij het ophouden van de onderwijsbestemming dat onmiddellijk aan AGION te melden, zodat AGION de huursubsidie onmiddellijk kan beëindigen.
+
+### ART 62.
+
+AGION beoordeelt de uiterst dringende capaciteitsproblematiek van het aanvraagdossier op grond van de dwingende nood en de extra plaatsen die gecreeerd worden.<br>
+<br>
+AGION kan aanvullende informatie of verduidelijkingen vragen. Als die aanvullende informatie of verduidelijking niet tijdig wordt verschaft, kan de aanvraag worden verworpen.
+
+### ART 63.
+
+De huursubsidie, vermeld in artikel 60, kan met betrekking tot de betrokken modulaire units niet gecumuleerd worden met subsidies inzake schoolinfrastructuur voor of tijdens de periode van het huren.
+
+### ART 64.
+
+Wijzigingen met betrekking tot de huurovereenkomst worden onmiddellijk voorgelegd aan AGION en kunnen leiden tot wijzigingen van de beslissing van AGION met betrekking tot de huursubsidie.
+
+### ART 65.
+
+AGION kan alle initiatieven nemen die het nodig acht om toe te zien of de voorwaarden voor de huursubsidie vervuld zijn of blijven en of de huursubsidie niet ten onrechte wordt uitbetaald.<br>
+<br>
+AGION kan onder meer bijkomende documenten en gegevens opvragen, de inrichtende macht horen en een bezoek ter plaatse brengen.
+
+### ART 66.
+
+Indien geen gevolg gegeven wordt aan de initiatieven van AGION zoals bepaald in artikel 65, kan de betaling van de huursubsidie opgeschort worden.
+
+### ART 67.
+
+&nbsp;§ 1. Indien de onderwijsbestemming van de modulaire units niet langer verzekerd is of in geval van oneigenlijk gebruik, stopt AGION met de betaling van de huursubsidie.<br>
+<br>
+§ 2. Het behoort tot de appreciatie van AGION om te bepalen of de onderwijsbestemming niet langer verzekerd is of dat er sprake is van oneigenlijk gebruik, gebaseerd op alle feitelijke en juridische elementen die bekend zijn.
+
+### ART 68.
+
+§ 1. De ten onrechte uitbetaalde huursubsidies worden verrekend met de nog verschuldigde huursubsidies.<br>
+<br>
+§ 2. Bij gebrek aan verschuldigde huursubsidies vordert AGION de ten onrechte uitgekeerde huursubsidies terug.
+
+### ART 69.
+
+Nadat de inrichtende macht op de hoogte is gebracht van het akkoord met de aanvraag van de huursubsidie, bezorgt de inrichtende macht een kopie van de definitieve huurovereenkomst, het rekeningnummer en de identiteit van de rekeninghouder aan AGION. De huursubsidie wordt uitbetaald per afgelopen kwartaal van het kalenderjaar.
+
 ## HOOFDSTUK 9. Inwerkingtreding
+
+### ART 70.
+
+Dit decreet treedt in werking 10 dagen na publicatie in het Belgisch Staatsblad, met uitzondering van:<br>
+1° artikel 8, 9, 10, 11 en 23 die in werking treden een dag na publicatie in het Belgisch Staatsblad;<br>
+2° artikel 27, 28, 33 en 34 tot en met 59 die in werking treden op 1 september 2021.<br>
+<br>
+Artikel 12 heeft uitwerking vanaf 1 juli 2021.<br>
+<br>
+Artikel 21 en 22 hebben uitwerking vanaf 1 mei 2021.<br>
+<br>
+Artikel 7, 25 en 26 hebben uitwerking vanaf 1 januari 2020.<br>
+<br>
+Artikel 29, 30 en 31 hebben uitwerking vanaf 1 januari 2021.
