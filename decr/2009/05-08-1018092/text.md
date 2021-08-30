@@ -2945,7 +2945,7 @@ De Vlaamse Regering kan bij het verstrekken van de leningen, vermeld in het eers
 <br>
 § 2. De Vlaamse Regering bepaalt de minimale voorwaarden waaraan de energiehuizen, vermeld in § 1, eerste lid, 1°, dienen te voldoen. Tussen het Vlaamse Gewest en elke energiehuis wordt een samenwerkingsovereenkomst gesloten. De Vlaamse Regering kan een tegemoetkoming geven in de personeels- en werkingskosten van de energiehuizen.<br>
 <br>
-§ 3. De Vlaamse Regering kan op voorstel van de Vlaamse minister bevoegd voor Energie schulden die door een energiehuis ten aanzien van het Vlaamse Gewest in het kader van de uitvoering van dit artikel werden gemaakt geheel of gedeeltelijk kwijtschelden. De Vlaamse Regering bepaalt nadere regels met betrekking tot de modaliteiten en de voorwaarden waaronder deze kwijtschelding kan geschieden.
+§ 3. ...
 
 ### ART 8.2.3.
 
@@ -2998,7 +2998,7 @@ De Vlaamse Regering kan bij het verstrekken van de leningen, vermeld in het eers
 <br>
 § 2. De Vlaamse Regering bepaalt de minimale voorwaarden waaraan de energiehuizen, vermeld in § 1, eerste lid, 1°, dienen te voldoen. Tussen het Vlaamse Gewest en elke energiehuis wordt een samenwerkingsovereenkomst gesloten. De Vlaamse Regering kan een tegemoetkoming geven in de personeels- en werkingskosten van de energiehuizen.<br>
 <br>
-§ 3. De Vlaamse Regering kan op voorstel van de Vlaamse minister, bevoegd voor het energiebeleid, schulden die door een energiehuis ten aanzien van het Vlaamse Gewest in het kader van de uitvoering van dit artikel werden gemaakt geheel of gedeeltelijk kwijtschelden. De Vlaamse Regering bepaalt nadere regels met betrekking tot de modaliteiten en de voorwaarden waaronder deze kwijtschelding kan geschieden.
+§ 3. ...
 
 ## Afdeling II. De onderneming als ontwikkelaar, producent of distributeur van energiezuinige producten, technieken of systemen of van hernieuwbare energietechnologieën
 
@@ -3032,7 +3032,7 @@ De Vlaamse Regering kan bij het verstrekken van de leningen, vermeld in het eers
 <br>
 § 2. De Vlaamse Regering bepaalt de minimale voorwaarden waaraan de energiehuizen, vermeld in § 1, eerste lid, 1°, dienen te voldoen. Tussen het Vlaamse Gewest en elke energiehuis wordt een samenwerkingsovereenkomst gesloten. De Vlaamse Regering kan een tegemoetkoming geven in de personeels- en werkingskosten van de energiehuizen.<br>
 <br>
-§ 3. De Vlaamse Regering kan op voorstel van de Vlaamse minister, bevoegd voor het energiebeleid, schulden die door een energiehuis ten aanzien van het Vlaamse Gewest in het kader van de uitvoering van dit artikel werden gemaakt geheel of gedeeltelijk kwijtschelden. De Vlaamse Regering bepaalt nadere regels met betrekking tot de modaliteiten en de voorwaarden waaronder deze kwijtschelding kan geschieden.
+§ 3. ...
 
 ## HOOFDSTUK V. Marktintroductieprogramma
 
@@ -3044,7 +3044,11 @@ De Vlaamse Regering kan bij het verstrekken van de leningen, vermeld in het eers
 
 ### ART. 8.6.1.
 
-<P><STRONG><EM>...</EM></STRONG></P>
+<p>De Vlaamse Regering kan op voorstel van de Vlaamse minister, bevoegd voor de energie, schulden die door een energiehuis ten aanzien van het Vlaamse Gewest in het kader van de uitvoering van artikel 8.2.2, artikel 8.3.1/1 of artikel van dit decreet werden gemaakt geheel of gedeeltelijk kwijtschelden. De Vlaamse Regering bepaalt de nadere regels met betrekking tot de modaliteiten en de voorwaarden waaronder deze kwijtschelding kan geschieden.</p>
+
+### ART 8.6.2.
+
+De Vlaamse Regering kan op voorstel van de Vlaamse minister, bevoegd voor de energie, schulden die ten aanzien van het Vlaamse Gewest in het kader van de toekenning van steun voor energetische renovatieprojecten van noodkoopwoningen werden gemaakt geheel of gedeeltelijk kwijtschelden. De Vlaamse Regering bepaalt de nadere regels met betrekking tot de modaliteiten en de voorwaarden waaronder deze kwijtschelding kan geschieden.
 
 ## HOOFDSTUK VII. Hoogte van de tegemoetkomingen
 
