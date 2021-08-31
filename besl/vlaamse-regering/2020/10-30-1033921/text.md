@@ -461,7 +461,7 @@ De gegevens worden verzameld en verwerkt voor:<br>
 
 ### ART 43.
 
-Dit besluit treedt in werking op 1 maart 2021, met uitzondering van artikel 7, tweede lid, 17, tweede lid, en artikel 36 tot en met 42, die in werking treden op 1 september 2021.
+Dit besluit treedt in werking op 1 maart 2021, met uitzondering van artikel 7, tweede lid, 17, tweede lid, en artikel 36 tot en met 42, die in werking treden op 1 april 2022.
 
 ### ART 44.
 
