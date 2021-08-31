@@ -121,4 +121,8 @@ In zover de goedkeuring van een programmatie door de Vlaamse Regering aan een we
 <br>
 De programmatie van een structuuronderdeel door een schoolbestuur die door de Vlaamse Regering niet werd goedgekeurd op basis van een motivering die niet meer strookt met de wijziging van de matrix, wordt van rechtswege omgezet in een goedkeuring van die programmatie. Deze bepaling heeft uitwerking met ingang van 1 januari 2021."
 
+### ART 68.
+
+In artikel 4, 2°, van hetzelfde besluit worden punt c) en d) opgeheven.
+
 ## HOOFDSTUK 15. Slotbepalingen

@@ -2,16 +2,16 @@
   "codex_id": 1036061,
   "title": "Besluit van de Vlaamse Regering van 2021-07-16 over het geïntegreerde ondersteuningsaanbod gelijke onderwijskansen in het secundair onderwijs en tot wijziging van diverse besluiten van de Vlaamse Regering, wat betreft studieaanbod, studietoelagen en projectsubsidiëring contractuelen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036061/VolledigDocument?datum=2021-06-25",
-  "source_sha256": "bd6565263332fec5c8720197f921a5c7b3e81aa4286a0d005766a46e3c736b9e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036061/VolledigDocument?datum=2021-08-31",
+  "source_sha256": "70d8e90bbbd52cb3c8bf4726df4a589e64be2d4bc2f807efd531db8bbf165688",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036061&param=informatie",
-  "as_of": "2021-06-25",
+  "as_of": "2021-08-31",
   "made": "2021-07-16",
   "gazette": "2021-09-20",
   "numac": 2021032580,
   "document_start": "2021-09-01",
   "document_end": null,
-  "in_force": "2021-06-25",
-  "article_versions": 6,
-  "record_form": "consolidated version as in force on 2021-06-25; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-08-31",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2021-08-31; future article versions excluded; article text as the API gives it"
 }
