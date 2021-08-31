@@ -61,7 +61,7 @@ a) de sluiting is opgelegd in het kader van de bestrijding van de COVID-19-epide
 1) een federale maatregel;<br>
 2) een Vlaamse maatregel;<br>
 3) een maatregel van de provinciegouverneur of de burgemeester als vermeld in artikel 27 van het ministerieel besluit van 28 oktober 2020 houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken;<br>
-b) de volledige of gedeeltelijke sluiting van de opvanglocatie door de afwezigheid van een of meer kinderbegeleiders naar aanleiding van een quarantaineattest of besmetting met het COVID-19-virus waardoor de gewone werking niet kan verdergezet worden overeenkomstig de geldende voorwaarden. Die sluiting is aan het agentschap gemeld conform de administratieve richtlijnen van het agentschap;<br>
+b) de volledige of gedeeltelijke sluiting van de opvanglocatie door de plotse afwezigheid van een of meer kinderbegeleiders naar aanleiding van een quarantaineattest wegens hoogrisicocontact of besmetting, of naar aanleiding van een besmetting met het COVID-19-virus waardoor de gewone werking niet kan verdergezet worden overeenkomstig de geldende voorwaarden. Die sluiting is aan het agentschap gemeld conform de administratieve richtlijnen van het agentschap. Een sluiting naar aanleiding van een quarantaineattest wegens het behoren tot een risicogroep is geen verplichte sluiting;<br>
 c) een situatie van overmacht die aan COVID-19 gerelateerd is;<br>
 22° werkdag : een dag die geen zaterdag, zondag of een van de tien wettelijke feestdagen is.
 
@@ -392,7 +392,7 @@ In artikel 24, tweede lid, van hetzelfde besluit wordt de zinsnede "Artikel 11 h
 
 Dit besluit heeft uitwerking met ingang van 1 november 2020.<br>
 <br>
-Artikel 1 tot en met 24 van dit besluit houden op uitwerking te hebben op 31 augustus 2021.
+Artikel 1 tot en met 24 van dit besluit houden op uitwerking te hebben op 31 december 2021.
 
 ### ART 30.
 
