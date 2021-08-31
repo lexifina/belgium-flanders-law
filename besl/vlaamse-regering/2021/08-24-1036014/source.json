@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036014,
+  "title": "Besluit van de Vlaamse Regering van 2021-08-24 tot wijziging van artikel 42 en 43 van het besluit van de Vlaamse Regering van 30 oktober 2020 houdende de erkenningsvoorwaarden van begeleidingsondernemingen en van begeleiders van uitzonderlijk vervoer en houdende wijziging van het besluit van de Vlaamse Regering van 20 december 2013 betreffende de bescherming van de verkeersinfrastructuur in geval van uitzonderlijk vervoer",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036014/VolledigDocument?datum=2021-08-31",
+  "source_sha256": "7ac5b98d56238daf8a5777170b1960a2eda90c152a5ccecda49350e6ecff025e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036014&param=informatie",
+  "as_of": "2021-08-31",
+  "made": "2021-08-24",
+  "gazette": "2021-08-27",
+  "numac": 2021032571,
+  "document_start": "2021-08-31",
+  "document_end": null,
+  "in_force": "2021-08-31",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-08-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
