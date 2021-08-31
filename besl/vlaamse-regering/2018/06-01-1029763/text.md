@@ -152,8 +152,8 @@ Worden progressief, leerjaar na leerjaar te beginnen met het eerste leerjaar van
 2° met ingang van 1 september 2021:<br>
 a) de artikelen 8 tot en met 10 en de bijlage 1 van het besluit van de Vlaamse Regering van 6 december 2002 betreffende de organisatie van het buitengewoon secundair onderwijs van opleidingsvorm 3;<br>
 b) artikel 1 en de bijlagen I tot en met XI van het besluit van de Vlaamse Regering van 18 juli 2008 houdende organisatie van het experimenteel voltijds gewoon secundair onderwijs volgens een modulair stelsel;<br>
-c) artikel 1 en de bijlagen I tot en met XI van het besluit van de Vlaamse Regering van 5 september 2008 houdende organisatie van het experimenteel buitengewoon secundair onderwijs volgens een modulair stelsel;<br>
-d) de artikelen 6 tot en met 8bis en de bijlagen III, III/1, III/2, III/3, III/4, IV, V, V/1, V/2, V/3, V/4, V/7, V/8, VI, VI/1 en VI/2 van het besluit van de Vlaamse Regering van 24 oktober 2008 houdende uitvoering van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap.
+c) ...;<br>
+d) ....
 
 ### ART 4/1.
 
