@@ -30,7 +30,11 @@ Uit de statuten en werking moet blijken dat de koepelvereniging de principes en 
 
 ### ART. 7.
 
-De koepelvereniging moet verder:<br /><br />1° opgericht zijn op particulier initiatief in de vorm van een vereniging zonder winstgevend doel, overeenkomstig de wet van 27 juni 1921;<br /><br />2° haar zetel hebben in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad. Op de zetel moeten in het Nederlands de nodige bewijsstukken en documenten waaruit blijkt dat aan de subsidiringsvoorwaarden is voldaan voorhanden zijn en ter beschikking gesteld worden voor onderzoek door de administratie;<br /><br />3° een boekhouding voeren volgens een model dat door de Vlaamse regering wordt goedgekeurd;<br /><br />4° jaarlijks een door de algemene vergadering goedgekeurd werkingsverslag bij de administratie indienen.
+De koepelvereniging moet verder:<br>
+1° opgericht zijn op particulier initiatief in de vorm van een vereniging zonder winstgevend doel, overeenkomstig de wettelijke verplichtingen voor verenigingen zonder winstoogmerk;<br>
+2° haar zetel hebben in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad. Op de zetel moeten in het Nederlands de nodige bewijsstukken en documenten waaruit blijkt dat aan de subsidiringsvoorwaarden is voldaan voorhanden zijn en ter beschikking gesteld worden voor onderzoek door de administratie;<br>
+3° een boekhouding voeren volgens een model dat door de Vlaamse regering wordt goedgekeurd;<br>
+4° jaarlijks een door de algemene vergadering goedgekeurd werkingsverslag bij de administratie indienen.
 
 ### ART. 8.
 
