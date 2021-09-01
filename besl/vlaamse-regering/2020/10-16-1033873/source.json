@@ -2,16 +2,16 @@
   "codex_id": 1033873,
   "title": "Besluit van de Vlaamse Regering van 2020-10-16 over het lokaal beleid buitenschoolse opvang en activiteiten en over overgangsbepalingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033873/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "bae5d9e83fe44373e0952c16c42692fd71306f21b706ca44e5952085cc59c5dd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033873/VolledigDocument?datum=2021-09-01",
+  "source_sha256": "3f35605446c8ecef91958e9f7febf8562a43095e29b7170762e54574731e6cc1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033873&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2021-09-01",
   "made": "2020-10-16",
   "gazette": "2020-11-25",
   "numac": 2020015987,
   "document_start": "2021-01-01",
   "document_end": "2021-08-31",
-  "in_force": "2021-01-01",
+  "in_force": "2021-09-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-09-01; future article versions excluded; article text as the API gives it"
 }
