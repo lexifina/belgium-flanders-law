@@ -708,6 +708,16 @@ De overgangsbepalingen die met toepassing van artikel 14, 14ter, 14quater,   14d
 
 De personeelsleden die op 31 augustus 2020 conform artikel 14 tot en met 14ter decies overgangsmaatregelen genieten, behouden die na die datum, ook als ze na die datum uit dienst treden en nadien opnieuw in dienst treden.
 
+### ART 14quinquies decies.
+
+Er gelden overgangsmaatregelen voor de personeelsleden die in de loop van het schooljaar 2020-2021 tijdelijk aangesteld zijn of tijdelijk belast zijn met een opdracht in een ambt dat uiterlijk op 31 augustus 2021 is opgericht met toepassing van artikel VI.7 van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016.<br>
+<br>
+De personeelsleden, vermeld in het eerste lid, die op basis van de reglementering die van kracht was voor 1 september 2021, organiek of via overgangsmaatregelen, in het bezit waren van een vereist bekwaamheidsbewijs voor het ambt, vermeld in het eerste lid, en geen vereist bekwaamheidsbewijs hebben voor het ambt van ICT-coördinator waarvoor ze met toepassing van een van de volgende bepalingen een ambtshalve concordantie verkregen hebben, worden geacht in het bezit te zijn van een vereist bekwaamheidsbewijs:<br>
+1° artikel 56ter van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991;<br>
+2° artikel 74quater van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991.<br>
+<br>
+De overgangsmaatregelen, vermeld in het tweede lid, gelden vanaf 1 september 2021. Voor de personeelsleden, vermeld in het eerste lid, blijven die overgangsmaatregelen na die datum behouden, ook als ze uit dienst treden en nadien opnieuw in dienst treden.
+
 ### ART. 15.
 
 De personeelsleden, bedoeld in artikel 14, blijven de salarisschaal genieten die hun op grond van de voor 1 september 1990 geldende reglementering mocht verleend worden, tenzij het bekwaamheidsbewijs waarover de personeelsleden beschikken recht geeft op een hogere salarisschaal.<br /><br />De personeelsleden, bedoeld in artikel 14, die op basis van de reglementering van kracht voor 1 september 1990:<br />- niet in het bezit waren van een vereist bekwaamheidsbewijs en die, bij toepassing van dit besluit in het bezit zijn van een vereist bekwaamheidsbewijs;<br />- niet in het bezit waren van een vereist bekwaamheidsbewijs en die, bij toepassing van dit besluit in het bezit zijn van een voldoend geacht bekwaamheidsbewijs;<br />- in het bezit waren van een vereist bekwaamheidsbewijs en die, bij toepassing van dit besluit in het bezit zijn van een vereist bekwaamheidsbewijs, blijven eveneens de salarisschaal genieten die hun op grond van de voor 1 september 1990 geldende reglementering mocht verleend worden, hetzij het bekwaamheidsbewijs waarover zij beschikken recht geeft op een hogere salarisschaal.<br /><br />De bepalingen van artikel 11 van het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs, zijn niet van toepassing.
@@ -762,4 +772,56 @@ Onverminderd het bepaalde in artikel 13, § 3 treedt dit besluit in werking op 1
 
 ### BIJLAGE I.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/20_1.pdf#page=44">Bijlage 1</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/20_1.pdf#page=44">Bijlage 1</a><br>
+<br>
+* Bij besluit van de Vlaamse Regering van 3 september 2021, BS 14 oktober 2021, worden met ingang van 1 september 2021 de volgende wijzigingen aangebracht in de bijlage:<br>
+<br>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">1° in het deel bekwaamheidsbewijzen voor het buitengewoon basisonderwijs wordt het ambt van ICT-coördinator vervangen door wat volgt:</span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">"ICT-coördinator</span></span></span>
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>vereiste</td>
+			<td>salarisschaal</td>
+		</tr>
+		<tr>
+			<td>ten minste HSO met puntengewicht 63</td>
+			<td>202</td>
+		</tr>
+		<tr>
+			<td>ten minste bachelor met puntengewicht 85</td>
+			<td>301</td>
+		</tr>
+		<tr>
+			<td>ten minste master met puntengewicht 126</td>
+			<td>501</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">2° in het deel "bekwaamheidsbewijzen voor het buitengewoon secundair onderwijs" wordt tussen het ambt van "ondersteunend personeel - administratief medewerker" en het ambt "ondersteunend personeel - opvoeder" het ambt van "ondersteunend personeel - ICT-coördinator" ingevoegd, dat luidt als volgt:</span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">"Ondersteunend personeel - ICT-coördinator</span></span></span>
+
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>vereiste</td>
+			<td>salarisschaal</td>
+		</tr>
+		<tr>
+			<td>ten minste HSO betrekking met puntenwaarde 63</td>
+			<td>202</td>
+		</tr>
+		<tr>
+			<td>ten minste bachelor betrekking met puntenwaarde 85</td>
+			<td>301</td>
+		</tr>
+		<tr>
+			<td>ten minste master betrekking met puntenwaarde 126</td>
+			<td>501</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+&nbsp;
