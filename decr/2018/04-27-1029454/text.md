@@ -248,6 +248,8 @@ Binnen de beschikbare begrotingskredieten kent de Vlaamse Regering jaarlijks mid
 <br>
 Bij de doorlichting van een centrum wordt ook de netoverstijgende regionale ondersteuningscel waaraan het deelneemt betrokken.<br>
 <br>
+§ 2/1. Ter uitvoering van de acties vervat in het speerpunt 1: van achterstand naar voorsprong en speerpunt 3: bevorderen van het mentaal welzijn van leerlingen, scholieren en studenten binnen de maatregel VV 17 van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Van kwetsbaar naar weerbaar, goedgekeurd op de ministerraad van de Vlaamse Regering van 7 mei 2021 (VR 2021 0705 VV DOC.0055-1 en 2), kan de Vlaamse Regering voor de schooljaren 2021- 2022 en 2022-2023 binnen de perken van de beschikbare deelenveloppe van 90 miljoen euro desgevallend aangevuld met middelen uit de provisie versterking onderwijs en/of de AGODI-provisie bijkomende omkadering, werkingsbudgetten of investeringsmiddelen toekennen aan de netoverstijgende regionale ondersteuningscellen. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.<br>
+<br>
 § 3. De centra maken netoverstijgend afspraken om onafhankelijke bemiddeling mogelijk te maken voor leerlingen of ouders over het ondersteuningsaanbod in functie van de leerling met specifieke onderwijsbehoeften.<br>
 <br>
 De bemiddeling wordt ingezet op verzoek van leerlingen of ouders als ze klachten hebben over:<br>
@@ -295,6 +297,14 @@ Een centrum wordt opgenomen in de erkenning als het voldoet aan de volgende voor
 7° een kwaliteitsbeleid voeren conform afdeling 8;<br>
 8° een doeltreffend beleid voeren om het rookverbod kenbaar te maken en te handhaven, controle uitoefenen op de naleving van het verbod en overtreders sancties opleggen, conform het eigen sanctiebeleid, als vermeld in het arbeidsreglement;<br>
 9° samenwerken in een netoverstijgende regionale ondersteuningscel zoals bepaald in artikel 16, § 2.
+
+### ART 19/1.
+
+De onderwijsinspectie kan voor twee of meer centra die aangestuurd worden door eenzelfde bestuur de doorlichting gezamenlijk organiseren voor een aantal of voor al die centra samen. Die gezamenlijke doorlichting gebeurt altijd met het akkoord van het bestuur, de betrokken centra die ervoor kiezen om samen doorgelicht te worden en de onderwijsinspectie. Een betrokken centrum dat niet kiest voor gezamenlijke doorlichting wordt op instellingsnummer doorgelicht.<br>
+<br>
+De onderwijsinspectie maakt bij gezamenlijke doorlichting één doorlichtingsverslag met een advies dat van toepassing is op al de centra die samen worden doorgelicht.<br>
+<br>
+De rechtsgevolgen van de doorlichting, vermeld in het artikel 22, zijn op dezelfde manier van toepassing op al de centra die samen worden doorgelicht.
 
 ### ART 20.
 
@@ -430,6 +440,10 @@ De besturen van de centra kunnen voor elk van hun centra een beroep doen op de i
 2° de behoefte aan nieuwbouw, verbouwing of uitbreiding is aangetoond, en er binnen een bepaalde gebiedsomschrijving geen bestaande gebouwen of voorzieningen beschikbaar zijn die de Vlaamse Gemeenschap geheel of gedeeltelijk heeft gefinancierd of gesubsidieerd;<br>
 3° de werken beantwoorden aan de door de Vlaamse Regering vastgestelde fysieke en financiële normen.
 
+### ART 32/1.
+
+Ter uitvoering van de acties vervat in het speerpunt 1: van achterstand naar voorsprong en speerpunt 3: bevorderen van het mentaal welzijn van leerlingen, scholieren en studenten binnen de maatregel VV 17 van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Van kwetsbaar naar weerbaar, goedgekeurd op de ministerraad van de Vlaamse Regering van 7 mei 2021 (VR 2021 0705 VV DOC.0055-1 en 2), kan de Vlaamse Regering voor de schooljaren 2021-2022 en 2022-2023 binnen de perken van de beschikbare deelenveloppe van 90 miljoen euro desgevallend aangevuld met middelen uit de provisie versterking onderwijs en/of de AGODI-provisie bijkomende werkingsbudgetten of investeringsmiddelen toekennen aan de centra. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.
+
 ## Afdeling 5. Programmatie en rationalisatie
 
 ### ART 33.
@@ -524,13 +538,43 @@ Vanaf het schooljaar 2019-2020 worden volgende groei- of dalingsmechanisme in he
 
 ### ART 41/1.
 
-Aan de centra worden voor het schooljaar 2019-2020 globaal 4,6 organieke omkaderingsgewichten aanvangsbegeleiding toegekend. Vanaf het schooljaar 2020-2021 wordt het beschikbaar aantal organieke omkaderingsgewichten evenredig aangepast aan eventuele wijzigingen aan de totaliteit van de reële omkadering van alle centra ten opzichte van het voorafgaande schooljaar.<br>
+Aan de centra worden voor het schooljaar 2021-2022 globaal 8,58 organieke omkaderingsgewichten aanvangsbegeleiding toegekend. Vanaf het schooljaar 2022-2023 wordt het beschikbaar aantal organieke omkaderingsgewichten evenredig aangepast aan eventuele wijzigingen aan de totaliteit van de reële omkadering van alle centra ten opzichte van het voorafgaande schooljaar.<br>
 <br>
 Die omkaderingsgewichten worden over de centra verdeeld in verhouding tot de reële omkadering van het centrum en het schooljaar in kwestie in de totaliteit van de reële omkadering van alle centra.<br>
 <br>
 De aanwending van de omkaderingsgewichten aanvangsbegeleiding gebeurt in wervingsambten van het technisch personeel of van het ondersteunend personeel.<br>
 <br>
-De omkaderingsgewichten aanvangsbegeleiding die elk centrum ontvangt, kunnen door elk centrum gedeeltelijk of volledig worden overgedragen aan een al dan niet netoverstijgend samenwerkingsverband van centra onderling, naar de permanente ondersteuningscel of een netoverstijgend samenwerkingsverband van de permanente ondersteuningscellen of naar een netoverstijgende regionale ondersteuningscel. Ook in het geval van overdracht kunnen die omkaderingsgewichten alleen voor aanvangsbegeleiding in wervingsambten van het technisch personeel of van het ondersteunend personeel worden aangewend.
+De omkaderingsgewichten aanvangsbegeleiding die elk centrum ontvangt, kunnen door elk centrum gedeeltelijk of volledig worden overgedragen aan een al dan niet netoverstijgend samenwerkingsverband van centra onderling, naar de permanente ondersteuningscel of een netoverstijgend samenwerkingsverband van de permanente ondersteuningscellen of naar een netoverstijgende regionale ondersteuningscel. Ook bij een overdracht kunnen die omkaderingsgewichten alleen voor de vermindering van de werkdruk, vermeld in artikel 41/3, of aanvangsbegeleiding in wervingsambten van het technisch personeel of van het ondersteunend personeel worden aangewend.
+
+### ART 41/2.
+
+Ter uitvoering van de acties vervat in het speerpunt 1: van achterstand naar voorsprong en speerpunt 3: bevorderen van het mentaal welzijn van leerlingen, scholieren en studenten binnen de maatregel VV 17 van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Van kwetsbaar naar weerbaar, goedgekeurd op de ministerraad van de Vlaamse Regering van 7 mei 2021 (VR 2021 0705 VV DOC.0055-1 en 2), kan de Vlaamse Regering voor de schooljaren 2021-2022 en 2022-2023 binnen de perken van de beschikbare enveloppe van 90 miljoen euro bijkomende omkadering toekennen aan de centra. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.
+
+### ART 41/3.
+
+Aan de centra worden voor het schooljaar 2021-2022 globaal 20,69 organieke omkaderingsgewichten voor de ondersteuning van de vermindering van de werkdruk toegekend. Vanaf het schooljaar 2022-2023 wordt het beschikbare aantal organieke omkaderingsgewichten evenredig aangepast aan eventuele wijzigingen aan de totaliteit van de reële omkadering van alle centra ten opzichte van het voorafgaande schooljaar.<br>
+<br>
+De omkaderingsgewichten voor de vermindering van de werkdruk worden over de centra verdeeld in verhouding tot de reële omkadering van het centrum en het schooljaar in kwestie in de totaliteit van de reële omkadering van alle centra.<br>
+<br>
+De omkaderingsgewichten voor de vermindering van de werkdruk worden aangewend in wervingsambten van het technisch personeel of van het ondersteunend personeel. De wijze waarop de werkdruk wordt verminderd, en de middelen worden aangewend, volgt uit lokaal overleg.<br>
+<br>
+De omkaderingsgewichten voor de vermindering van de werkdruk die elk centrum ontvangt, kunnen door elk centrum gedeeltelijk of volledig worden overgedragen aan een al dan niet netoverstijgend samenwerkingsverband van centra onderling, naar de permanente ondersteuningscel of een netoverstijgend samenwerkingsverband van de permanente ondersteuningscellen of naar een netoverstijgende regionale ondersteuningscel. Ook bij een overdracht kunnen die omkaderingsgewichten alleen voor de vermindering van de werkdruk in wervingsambten van het technisch personeel of van het ondersteunend personeel worden aangewend.
+
+### ART 41/4.
+
+Aan de centra worden voor het schooljaar 2021-2022 globaal 4,98 organieke omkaderingsgewichten samen school maken toegekend. Vanaf het schooljaar 2022-2023 wordt het beschikbare aantal organieke omkaderingsgewichten evenredig aangepast aan eventuele wijzigingen aan de totaliteit van de reële omkadering van alle centra ten opzichte van het voorafgaande schooljaar.<br>
+<br>
+De organieke omkaderingsgewichten samen school maken dienen aangewend om het sociaal overleg en onderhandeling te versterken. De omkaderingsgewichten worden aangewend voor de vertegenwoordigers van het personeel die aangesteld zijn in het centrum, conform de toepasselijke vigerende Vlaamse of federale regelgeving.<br>
+<br>
+De omkaderingsgewichten samen school maken worden over de centra verdeeld in verhouding tot de reële omkadering van het centrum en het schooljaar in kwestie in de totaliteit van de reële omkadering van alle centra.<br>
+<br>
+De omkaderingsgewichten samen school maken worden aangewend in wervingsambten van het technisch personeel of van het ondersteunend personeel.<br>
+<br>
+De Vlaams Regering keurt het afsprakenkader tussen het Gemeenschapsonderwijs en de representatieve verenigingen van de besturen van de centra voor leerlingenbegeleiding van het gesubsidieerd onderwijs en de representatieve vakorganisaties over de wijze van toekenning, de verdeling en de inzet van de aanvullende lestijden samen school maken die specifiek gericht zijn op het versterken van het lokale sociaal overleg goed.<br>
+<br>
+De omkaderingsgewichten samen school maken die elk centrum ontvangt, kunnen door elk centrum gedeeltelijk of volledig worden overgedragen aan een al dan niet netoverstijgend samenwerkingsverband van centra onderling, of naar een netoverstijgende regionale ondersteuningscel.<br>
+<br>
+Ook bij een overdracht kunnen die omkaderingsgewichten alleen voor het samen school maken in wervingsambten van het technisch personeel of van het ondersteunend personeel worden aangewend.
 
 ### ART 42.
 
