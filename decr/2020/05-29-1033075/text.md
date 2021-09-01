@@ -20,7 +20,7 @@ In afwijking van artikel 37, tweede lid, 3°, van het decreet van 15 juni 2007 b
 
 ### ART 4.
 
-In afwijking van artikel 64, § 4, van hetzelfde decreet kan de tijdelijke onderwijsbevoegdheid die de Vlaamse Regering toekent voor het schooljaar 2019- 2020, ook tijdens het schooljaar 2020-2021 uitgeoefend worden.
+In afwijking van artikel 64, § 4, van hetzelfde decreet kan de tijdelijke onderwijsbevoegdheid die de Vlaamse Regering toekent voor het schooljaar 2019- 2020, ook tijdens het schooljaar 2021-2022 uitgeoefend worden.
 
 ### ART 5.
 
