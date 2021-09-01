@@ -20,6 +20,50 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+Aan de volgende onderwijsinstellingen wordt, met toepassing van artikel 289, § 3 van de Codex Secundair Onderwijs van 17 december 2010, voor het schooljaar 2021-2022 toestemming verleend om de volgende programmatie aan te bieden:<br>
+1° GO! IBSO Woudlucht<br>
+Prosperdreef 5<br>
+3003 Leuven<br>
+Opleidingsfase Basis organisatie en logistiek<br>
+Domein: Economie en organisatie<br>
+2° GO! IBSO De Horizon Aalst<br>
+Molendreef 5<br>
+9300 Aalst<br>
+Opleidingsfase Basis confectie en textielverzorging<br>
+Domein: Maatschappij en Welzijn<br>
+3° Buso Kristus-Koning<br>
+Bethaniënlei 5<br>
+2960 Brecht<br>
+Opleidingsfase Basis confectie en textielverzorging<br>
+Domein: Maatschappij en Welzijn<br>
+4° Provinciale School voor BuSO de Wissel<br>
+Arbeidsstraat 66<br>
+3600 Genk<br>
+Opleidingsfase Basis Haarverzorging<br>
+Domein: Maatschappij en Welzijn<br>
+5° Buso Haverlo<br>
+Weidestraat 156<br>
+8310 Brugge<br>
+Opleidingsfase Basis organisatie en logistiek<br>
+Domein: Economie en organisatie<br>
+6° BuSO Bernardusscholen 8<br>
+Vlaanderenstraat 6<br>
+9700 Oudenaarde<br>
+Opleidingsfase Basis logistiek onderhoud<br>
+Domein: Maatschappij en welzijn<br>
+7° BuSO Sint-Elisabeth (OV1 &amp; OV3)<br>
+Steenovenstraat 20<br>
+3990 Peer<br>
+Opleidingsfase Basis confectie en textielverzorging<br>
+Domein: Maatschappij en Welzijn<br>
+8° Richtpunt campus Buggenhout<br>
+Platteput 11<br>
+9262 Buggenhout<br>
+Opleidingsfase Schilderen en decoratie<br>
+Domein: STEM
+
 ### ART 4.
 
 Artikel 1 van dit besluit treedt in werking op 1 september 2021.
