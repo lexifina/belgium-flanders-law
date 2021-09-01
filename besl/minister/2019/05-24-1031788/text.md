@@ -45,7 +45,14 @@ De volgende statutaire en contractuele personeelsleden van de subentiteit bevoeg
 23° Carine Vernaillen;<br>
 24° Elke Vleugels;<br>
 25° Marjoleine Walewijns;<br>
-26° Kurt Zaman.
+26° Kurt Zaman.<br>
+27° Lieven Demuys;<br>
+28° Lore Decommer;<br>
+29° Bente Milissen;<br>
+30° Yati Thiels;<br>
+31° Nele Paredaens;<br>
+32° Elien De Beule;<br>
+33° Heleen Willems.
 
 ### ART 2.
 
