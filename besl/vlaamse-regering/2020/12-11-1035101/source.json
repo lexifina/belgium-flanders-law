@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035101,
+  "title": "Besluit van de Vlaamse Regering van 2020-12-11 tot erkenning van het graduaat in de orthopedagogische begeleiding als nieuwe opleiding van de Katholieke Hogeschool Vives Zuid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035101/VolledigDocument?datum=2021-09-01",
+  "source_sha256": "b8c624cf01720bcb281ecaf2cba1b9abe7fc071ae611c9ccb0b98de56177f507",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035101&param=informatie",
+  "as_of": "2021-09-01",
+  "made": "2020-12-11",
+  "gazette": "2021-01-22",
+  "numac": 2021030167,
+  "document_start": "2021-09-01",
+  "document_end": null,
+  "in_force": "2021-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
