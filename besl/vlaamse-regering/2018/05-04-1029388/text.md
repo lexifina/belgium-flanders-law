@@ -62,6 +62,14 @@ De Vlaamse Regering beslist over de goedkeuring van het curriculumdossier, na ad
 <br>
 De termijnen in dit artikel gelden als vervaltermijnen.
 
+### ART 3/1.
+
+In afwijking van artikel 2, 3 en 5 van dit besluit worden door de Vlaamse Regering goedgekeurde curriculumdossiers die een wijziging behoeven uitsluitend omwille van technische aanpassingen aan een structuuronderdeel secundair onderwijs, al dan niet onderwijskwalificatie, enkel ter kennisgeving en voorafgaand aan het schooljaar waarin dat gewijzigd curriculumdossier van kracht wordt door de instanties, vermeld in artikel 1, bij de bevoegde dienst ingediend. Als de instanties na voorafgaande verwittiging door de bevoegde dienst uit het beleidsdomein onderwijs hieraan geen gevolg geven, dan gebeurt de desbetreffende wijziging van het curriculumdossier door voormelde bevoegde dienst.<br>
+<br>
+Onder technische aanpassingen worden de aanpassingen verstaan als vermeld in, naargelang van het geval:<br>
+1° artikel 6/1, § 2, van het besluit van de Vlaamse Regering van 6 juli 2007 tot vaststelling van de indienings- en adviseringsprocedure voor voorstellen van nieuwe structuuronderdelen in het secundair onderwijs dat niet of niet automatisch tot een onderwijskwalificatie leidt, of<br>
+2° artikel 8/1, § 2, van het besluit van de Vlaamse Regering van 10 januari 2014 houdende de uitvoering van het decreet van 30 april 2009 betreffende de kwalificatiestructuur inzake de erkenning van onderwijskwalificaties van niveau 1 tot en met niveau 4.
+
 ### ART 4.
 
 Wanneer in toepassing van artikel 146, § 1, van de Codex Secundair onderwijs van 17 december 2010 vervangende eindtermen, uitbreidingsdoelen Nederlands of specifieke eindtermen worden goedgekeurd, worden deze op vraag van het aanvragende schoolbestuur aan het curriculumdossier van het relevante structuuronderdeel of structuuronderdelen als bijlage toegevoegd. De bijlage geeft hierbij duidelijk aan welke eindtermen, uitbreidingsdoelen Nederlands of specifieke eindtermen voor het betrokken schoolbestuur vervangen worden.<br>

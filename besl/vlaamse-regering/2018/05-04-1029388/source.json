@@ -2,16 +2,16 @@
   "codex_id": 1029388,
   "title": "Besluit van de Vlaamse Regering van 2018-05-04 betreffende curriculumdossiers en leerplannen in het onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029388/VolledigDocument?datum=2020-09-01",
-  "source_sha256": "9248299ea3cae1675053405603ca2e0671ef3660b12f4278e7e27c77d93ca7d6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029388/VolledigDocument?datum=2021-09-01",
+  "source_sha256": "688e3229cf4901ea72907b4b14e23839062a6da62007e5c77bfe85d4c9f1e220",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029388&param=informatie",
-  "as_of": "2020-09-01",
+  "as_of": "2021-09-01",
   "made": "2018-05-04",
   "gazette": "2018-06-08",
   "numac": 2018012356,
   "document_start": "2018-05-07",
   "document_end": null,
-  "in_force": "2020-09-01",
-  "article_versions": 14,
-  "record_form": "consolidated version as in force on 2020-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-09-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2021-09-01; future article versions excluded; article text as the API gives it"
 }
