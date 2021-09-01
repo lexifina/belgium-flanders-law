@@ -105,6 +105,25 @@ Voor de toepassing van artikel 4, tweede lid, en artikel 6, tweede lid, wordt de
 
 ## [HOOFDSTUK 3/2. Verruimde stagebonus tijdens het schooljaar 2021-2022 en het schooljaar 2022-2023 (ing. BVR 11 maart 2022, art. 1, I: 1 september 2021)]
 
+### ART 7/4.
+
+Als al de volgende voorwaarden zijn vervuld, kan voor het schooljaar 2021-2022 en het schooljaar 2022-2023 een verruimde stagebonus worden toegekend aan een onderneming:<br>
+1° de vestiging van de onderneming waar de arbeidsdeelname van de jongere plaatsvindt, ligt in het Vlaamse Gewest;<br>
+2° de jongere heeft in de onderneming een arbeidsdeelname van minstens drie maanden tijdens het schooljaar waarvoor de verruimde stagebonus wordt aangevraagd;<br>
+3° de onderneming heeft geen recht op een stagebonus op basis van de voorwaarde, vermeld in artikel 6, tweede lid.
+
+### ART 7/5.
+
+De verruimde stagebonus, vermeld in artikel 7/4, wordt één keer per schooljaar toegekend voor elke jongere die de onderneming opleidt.<br>
+<br>
+De voormelde verruimde stagebonus telt niet mee voor de bepaling van het maximale aantal te ontvangen stagebonussen, vermeld in artikel 7, tweede lid, en artikel 14.<br>
+<br>
+De voormelde verruimde stagebonus bedraagt 500 euro.
+
+### ART 7/6.
+
+Voor de toepassing van artikel 4, tweede lid, en artikel 6, tweede lid, wordt de verruimde stagebonus, vermeld in artikel 7/4, niet beschouwd als een stagebonus.
+
 ## HOOFDSTUK 4. Procedure
 
 ### ART 8.
