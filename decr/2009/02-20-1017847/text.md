@@ -28,7 +28,13 @@ Voor de begrotingsjaren 2012, 2013 en 2015&nbsp;worden de bedragen vermeld in pa
 <br>
 § 4. Aan het bedrag, vermeld in § 2, 2°, wordt vanaf het begrotingsjaar 2017 een bedrag van 33.480 euro toegevoegd.<br>
 <br>
-§ 5. Het bedrag van de werkingsuitkering, berekend overeenkomstig de bepalingen van dit artikel, wordt verhoogd overeenkomstig het procentueel aandeel van de Hogere Zeevaartschool conform de bepalingen in artikel III.24 van de Codex Hoger Onderwijs.
+§ 5. Het bedrag van de werkingsuitkering, berekend overeenkomstig de bepalingen van dit artikel, wordt verhoogd overeenkomstig het procentueel aandeel van de Hogere Zeevaartschool conform de bepalingen in artikel III.24 van de Codex Hoger Onderwijs.<br>
+<br>
+§ 6. Het bedrag van de werkingsuitkering, dat conform dit artikel wordt berekend, wordt verhoogd overeenkomstig het procentueel aandeel van de Hogere Zeevaartschool in de aanvullende uitkeringen, vermeld in artikel III.34/1 van de Codex Hoger Onderwijs van 11 oktober 2013.
+
+### ART 2/1.
+
+Ter uitvoering van de acties vervat in het speerpunt 1 Een toekomstbestendig en wendbaar Vlaams opleidingsportfolio uitbouwen, het speerpunt 2 Veel meer mogelijkheden aanreiken om levenslang te leren binnen het hoger onderwijs en het speerpunt 3 Kwaliteitsvol verduurzamen van nieuwe werkvormen in het hoger onderwijs, binnen de maatregel VV112 Voorsprongfonds Hoger Onderwijs van het relanceplan Vlaamse Veerkracht, zoals beschreven in de visienota Voorsprongfonds Hoger Onderwijs, goedgekeurd op de Vlaamse Regering van 26 februari 2021 (VR 2021 2602 VV DOC.0011/2BIS), kan de Vlaamse Regering voor de academiejaren 2021-2022 en 2022-2023, binnen de perken van de beschikbare enveloppe van 60 miljoen euro, naast de bepalingen in artikel 2, een bijkomende werkingstoelage of projecttoelage toekennen aan de Hogere Zeevaartschool. De Vlaamse Regering bepaalt de aanwending van deze bijkomende middelen.
 
 ### ART. 3.
 
