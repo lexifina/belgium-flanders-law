@@ -371,13 +371,13 @@ De bepalingen van deze titel treden als volgt in werking:<br /><br />1° artikel
 
 ### ART. 60.
 
-[Onder de in deze titel vastgelegde voorwaarden verleent de regering een subsidie aan één expertisecentrum ter&nbsp;bevordering van participatie op school.<br>
+Onder de in deze titel vastgelegde voorwaarden verleent de regering een subsidie aan één expertisecentrum ter&nbsp;bevordering van participatie op school.<br>
 <br>
 Het expertisecentrum vervult een faciliterende rol inzake participatie op scholen, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap. Het ontplooit hiertoe een werking voor directeurs, personeel, leerlingen, ouders en leden van de lokale gemeenschap, die betrokken zijn bij de werking van de school conform de opdrachtsomschrijving bepaald in artikel 63.<br>
 <br>
-Het expertisecentrum neemt de vorm aan van een vereniging zonder winstoogmerk conform de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen.<br>
+Het expertisecentrum neemt de vorm aan van een vereniging zonder winstoogmerk conform&nbsp;de wettelijke verplichtingen voor verenigingen zonder winstoogmerk.<br>
 <br>
-De algemene vergadering van het expertisecentrum wordt samengesteld zoals omschreven in artikel 61. (verv. decr. 18 november 2005, art. 2, I: 18 januari 2006) ]
+De algemene vergadering van het expertisecentrum wordt samengesteld zoals omschreven in artikel 61.
 
 ### ART. 61.
 
