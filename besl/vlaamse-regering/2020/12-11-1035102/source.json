@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035102,
+  "title": "Besluit van de Vlaamse Regering van 2020-12-11 tot erkenning van het graduaat in het systeem- en netwerkbeheer als nieuwe opleiding van de Hogeschool West-Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035102/VolledigDocument?datum=2021-09-01",
+  "source_sha256": "58bc6a69b8e65d961d47fe167d8b47b3b9f6871749bcbb4aa1f35d72d3184a35",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035102&param=informatie",
+  "as_of": "2021-09-01",
+  "made": "2020-12-11",
+  "gazette": "2021-01-22",
+  "numac": 2021030171,
+  "document_start": "2021-09-01",
+  "document_end": null,
+  "in_force": "2021-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
