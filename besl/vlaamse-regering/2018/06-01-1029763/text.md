@@ -121,9 +121,28 @@ In bijlage 4, die bij dit besluit is gevoegd, gaan de omzettingstabellen op basi
 2° het besluit van de Vlaamse Regering van 21 december 2007 betreffende de studiegebieden en structuuronderdelen in het voltijds secundair onderwijs;<br>
 3° het besluit van de Vlaamse Regering van 18 juli 2008 houdende organisatie van het experimenteel voltijds gewoon secundair onderwijs volgens een modulair stelsel;<br>
 4° het besluit van de Vlaamse Regering van 5 september 2008 houdende organisatie van het experimenteel buitengewoon secundair onderwijs volgens een modulair stelsel;<br>
-5° het besluit van de Vlaamse Regering van 24 oktober 2008 houdende uitvoering van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap.<br>
+5° het besluit van de Vlaamse Regering van 24 oktober 2008 houdende uitvoering van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap;<br>
+6° het besluit van de Vlaamse Regering van 1 maart 2002 betreffende het experimenteel secundair onderwijs waarop het studieaanbod is gebaseerd dat wordt georganiseerd conform artikel 28, § 4, van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap.<br>
 <br>
 Voor het buitengewoon secundair onderwijs, opleidingsvorm 1 en opleidingsvorm 2, is er geen concordantie.
+
+### ART 2/1.
+
+De concordanties, vermeld in artikel 2, eerste lid, 5° en 6°, gebeuren conform de volgende concordantiekalender:<br>
+1° op 1 september 2021: als de concordantie gelijkstaat met schrapping;<br>
+2° op 1 september 2022: als de concordantie gelijkstaat met omzetting naar de tweede graad en de concordantietabel niet vermeldt "te bepalen";<br>
+3° op 1 september 2023, als al de volgende voorwaarden zijn vervuld:<br>
+a) de concordantie staat gelijk met omzetting naar de tweede graad en is niet gevat door 2° hiervoor;<br>
+b) de concordantie staat gelijk met omzetting naar de derde graad, met uitzondering van Se-n-Se;<br>
+4° op 1 september 2025: als de concordantie gelijkstaat met omzetting naar de derde graad, Se-n-Se.<br>
+<br>
+De concordantiekalender, vermeld in het eerste lid, heeft de volgende gevolgen:<br>
+1° vanaf 1 september 2021 kunnen geen leerlingen meer worden toegelaten in opleidingen leren en werken waarvan de concordantie gelijkstaat met schrapping;<br>
+2° vanaf 1 september 2022 kunnen geen leerlingen meer worden toegelaten om een getuigschrift tweede graad te behalen in opleidingen leren en werken waarvoor de concordantie is bepaald;<br>
+3° vanaf 1 september 2023 gelden al de volgende gevolgen:<br>
+a) er kunnen geen leerlingen meer worden toegelaten om een getuigschrift tweede graad te behalen in opleidingen leren en werken;<br>
+b) er kunnen geen leerlingen meer worden toegelaten om een studiegetuigschrift van het tweede leerjaar van de derde graad te behalen in opleidingen leren en werken waarvoor de concordantie is bepaald;<br>
+4° vanaf 1 september 2025 kunnen alle leerlingen die voordien een opleiding leren en werken niet of niet met vrucht hebben voltooid, studievoortgang maken in een duale opleiding na akkoord van de toelatingsklassenraad op basis van inhoudelijke aansluiting van de opleidingen in kwestie en de studieresultaten die de leerling eerder heeft behaald.
 
 ### ART 3.
 
@@ -215,6 +234,32 @@ Artikel 9 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Reger
 3° de leerlingen die uiterlijk op 31 december na de aanvang van het schooljaar de leeftijd van veertien jaar bereiken;<br>
 4° de leerlingen die tijdens het schooljaar overgaan van het tweede leerjaar A naar het tweede leerjaar B op voorwaarde van een gunstige beslissing van de toelatingsklassenraad.<br>
 Met behoud van de toepassing van artikel 31, is de verandering van een of meer basisopties in het tweede leerjaar B tijdens het schooljaar toegestaan op voorwaarde van een gunstige beslissing van de toelatingsklassenraad.".
+
+### ART 11.
+
+Artikel 10 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 7 september 2007, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 10. § 1. Met behoud van de toepassing van artikel 31 kunnen de volgende leerlingen als regelmatige leerlingen tot het eerste leerjaar van de tweede graad van een studierichting van de finaliteit doorstroom of de dubbele finaliteit worden toegelaten:<br>
+1° de leerlingen die het tweede leerjaar A met vrucht hebben beëindigd;<br>
+2° de leerlingen die het tweede leerjaar B met vrucht hebben beëindigd in de opstroomoptie;<br>
+3° de leerlingen die het tweede leerjaar B met vrucht hebben beëindigd in een andere basisoptie dan de opstroomoptie op voorwaarde van een gunstige beslissing van de toelatingsklassenraad;<br>
+4° de leerlingen die het eerste leerjaar van de tweede graad in een studierichting van de finaliteit arbeidsmarkt met vrucht hebben beëindigd op voorwaarde van een gunstige beslissing van de toelatingsklassenraad.<br>
+<br>
+§ 2. Met behoud van de toepassing van paragraaf 1 is de verandering van studierichting tijdens het schooljaar toegestaan tot en met 15 januari.".
+
+### ART 12.
+
+Artikel 11 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 7 september 2007, 12 september 2008 en 4 juni 2010, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 11. § 1. Met behoud van de toepassing van artikel 31 kunnen de volgende leerlingen als regelmatige leerlingen tot het eerste leerjaar van de tweede graad van een studierichting van de finaliteit arbeidsmarkt worden toegelaten:<br>
+1° de leerlingen die het tweede leerjaar A of het tweede leerjaar B met vrucht hebben beëindigd;<br>
+2° de leerlingen die uiterlijk op 31 december na de aanvang van het schooljaar de leeftijd van vijftien jaar bereiken.<br>
+<br>
+§ 2. Met behoud van de toepassing van paragraaf 1 is de verandering van studierichting tijdens het schooljaar toegestaan tot en met 15 januari.".
+
+### ART 13.
+
+In artikel 30, § 1, van hetzelfde besluit, worden de woorden "de overgang van het beroepsvoorbereidend leerjaar naar het tweede leerjaar van de eerste graad" vervangen door de zinsnede "de overgang van het tweede leerjaar B, met uitzondering van de opstroomoptie, naar het tweede leerjaar A".
 
 ### ART 14.
 
@@ -375,7 +420,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE 2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/09/18_1.pdf#page=161">Matrix secundair onderwijs</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/09/20_1.pdf#page=1452">Matrix secundair onderwijs</a>
 
 ### BIJLAGE 3
 
@@ -383,11 +428,11 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE 4
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/09/18_1.pdf#page=177">Concordantietabellen</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/09/20_1.pdf#page=1472">Concordantietabellen</a>
 
 ### BIJLAGE 4/1.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/09/18_1.pdf#page=291">Samenstelling van structuuronderdelen</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/09/20_1.pdf#page=1585">Samenstelling van structuuronderdelen</a>
 
 ### BIJLAGE 5
 
