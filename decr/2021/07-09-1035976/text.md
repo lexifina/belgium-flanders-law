@@ -235,6 +235,16 @@ In artikel 85bis, § 3, derde lid, 8°, van hetzelfde decreet, ingevoegd bij het
 
 ## Afdeling 2. Hertelling in het buitengewoon basisonderwijs op de eerste schooldag van oktober van het schooljaar 2021-2022
 
+### ART 27.
+
+In afwijking van artikel 137bis van het decreet basisonderwijs van 25 februari 1997, het laatst gewijzigd bij het decreet van 18 december 2020, is voor scholen voor buitengewoon basisonderwijs de eerste schooldag van oktober van het schooljaar 2021-2022 de teldag voor de berekening van de lestijden volgens de schalen, als die school voor buitengewoon basisonderwijs op de eerste schooldag van oktober van het schooljaar 2021-2022 een hoger aantal lestijden volgens de schalen genereert dan op basis van de eerste schooldag van februari van het schooljaar 2020-2021.<br>
+<br>
+De teldag, vermeld in het eerste lid, is niet van toepassing voor de berekening van andere omkadering en werkingsmiddelen.
+
+### ART 28.
+
+In afwijking van artikel 148 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 december 2020, is voor scholen voor buitengewoon basisonderwijs de eerste schooldag van oktober van het schooljaar 2021-2022 de teldag voor de berekening van de uren volgens de richtgetallen, als die school voor buitengewoon basisonderwijs op de eerste schooldag van oktober van het schooljaar 2021-2022 een hoger aantal uren volgens de richtgetallen genereert dan op basis van de eerste schooldag van februari van het schooljaar 2020-2021.
+
 ## Afdeling 3. Aanvullende werkingsmiddelen voor pedagogische begeleidingsdiensten ter versterking van de brede basiszorg en verhoogde zorg in scholen voor gewoon basisen secundair onderwijs
 
 ### ART 29.
@@ -269,11 +279,187 @@ In artikel 20 van het decreet van 30 juni 2017 houdende bepalingen tot begeleidi
 
 ## Afdeling 7. Correctie op de berekening van de besparing van de werkingsmiddelen in het deeltijds kunstonderwijs.
 
+### ART 33.
+
+In artikel 83, zesde lid, van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs, ingevoegd bij het decreet van 20 december 2019, worden de woorden "de toegekende lestijden" vervangen door de woorden "de toegekende werkingsmiddelen".
+
 ## Afdeling 8. Maatregelen onderwijs en vorming binnen het relanceplan Vlaamse Veerkracht
+
+### ART 34.
+
+§ 1. De visienota's die zijn opgenomen in de bijlagen 1, 2, 3 en 4 die bij dit decreet zijn gevoegd, worden goedgekeurd.<br>
+<br>
+§ 2. In het decreet basisonderwijs van 25 februari 1997, het laatst gewijzigd bij het decreet van 18 december 2020, wordt een artikel 67/1 ingevoegd, dat luidt als volgt:<br>
+"Artikel 67/1. § 1. Ter uitvoering van de acties vervat in het speerpunt 1: een toekomstgerichte en veilige ICT-infrastructuur, speerpunt 2: een sterk ondersteunend en doeltreffend ICT-schoolbeleid, speerpunt 3: ICT-competente leerkrachten en lerarenopleiders en aangepaste digitale leermiddelen en speerpunt 4: een kennisen adviescentrum Digisprong ten dienste van het onderwijsveld binnen de maatregel VV 15 van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Digisprong. Van achterstand naar voorsprong, goedgekeurd op de ministerraad van de Vlaamse Regering van 11 december 2020 (VR 2020 1112 DOC.1425/2QUATER), kan de Vlaamse Regering voor de schooljaren 2021-2022 en 2022-2023 binnen de perken van de beschikbare deelenveloppe van 375 miljoen euro binnen de relanceprovisie bijkomende werkingsbudgetten, investeringsmiddelen of omkadering toekennen aan de scholen of scholengemeenschappen in het gewoon en buitengewoon basisonderwijs of, wat speerpunten 3 en 4 betreft middelen toekennen ter ondersteuning van deze scholen. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.<br>
+<br>
+§ 2. Ter uitvoering van de acties vervat in het speerpunt 1: van achterstand naar voorsprong, speerpunt 2: versterking van leraren, lerarenopleiders en schoolleiders en speerpunt 3: bevorderen van het mentaal welzijn van leerlingen, scholieren en studenten binnen de maatregel VV 17 van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Van kwetsbaar naar weerbaar, goedgekeurd op de ministerraad van de Vlaamse Regering van 7 mei 2021 (VR 2021 0705 VV DOC.0055-1 en 2), kan de Vlaamse Regering voor de schooljaren 20212022 en 2022-2023 binnen de perken van de beschikbare deelenveloppe van 90 miljoen euro binnen de relanceprovisie, desgevallend aangevuld met middelen uitde provisie versterking onderwijs en/of de AGODI-provisie, bijkomende werkingsbudgetten, investeringsmiddelen of omkadering toekennen aan de scholen of scholengemeenschappen in het gewoon en buitengewoon basisonderwijs. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.".
+
+### ART 35.
+
+In het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, het laatst gewijzigd bij het decreet van 18 december 2020, wordt een nieuw hoofdstuk V/2, dat bestaat uit artikel 27/4, ingevoegd, dat luidt als volgt:<br>
+"Hoofdstuk V/2. Extra financiering en subsidiëring in het kader van de maatregelen VV15 Digisprong en VV17 Van kwetsbaar naar weerbaar, van het Vlaams relanceplan voor schooljaren 2021-2022 en 2022-2023<br>
+Art. 27/4. In het kader van de uitvoering van de speerpunten in de maatregelen VV15 Digisprong, met deelenveloppe van 375 miljoen euro binnen de relanceprovisie en VV17 Van kwetsbaar naar weerbaar, van het relanceplan Vlaamse Veerkracht, met deelenveloppe van 90 miljoen euro binnen de relanceprovisie, zoals opgenomen in de visienota's Digisprong. Van achterstand naar voorsprong, goedgekeurd op de ministerraad van de Vlaamse Regering van 11 december 2020 (VR 2020 1112 DOC.1425/2QUATER) en Van kwetsbaar naar weerbaar, goedgekeurd op de ministerraad van de Vlaamse Regering van 7 mei 2021 (VR 2021 0705 VV DOC.0055-1 en 2), voor de schooljaren 2021-2022 en 2022-2023 bijkomendewerkingsbudgetten, investeringsmiddelen of omkadering toekennen aan de pedagogische begeleidingsdiensten. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.".
+
+### ART 36.
+
+In de Codex Secundair Onderwijs van 17 december 2010, het laatst gewijzigd bij het decreet van 18 december 2020, wordt in deel III, titel 1, hoofdstuk 3, afdeling 2, een onderafdeling 6, die bestaat uit artikel 34/1 toegevoegd, die luidt als volgt:<br>
+"Onderafdeling 6. Extra financiering en subsidiëring in het kader van de maatregelen VV15 Digisprong en VV17 Van kwetsbaar naar weerbaar, van het Vlaams relanceplan voor schooljaren 2021-2022 en 2022- 2023<br>
+Artikel 34/1. § 1. Ter uitvoering van de acties vervat in het speerpunt 1: een toekomstgerichte en veilige ICT-infrastructuur, speerpunt 2: een sterk ondersteunend en doeltreffend ICT-schoolbeleid, speerpunt 3: ICT-competente leerkrachten en lerarenopleiders en aangepaste digitale leermiddelen en speerpunt 4: een kennisen adviescentrum Digisprong ten dienste van het onderwijsveld binnen de maatregel VV 15 van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Digisprong. Van achterstand naar voorsprong, goedgekeurd op de ministerraad van de Vlaamse Regering van 11 december 2020 (VR 2020 1112 DOC.1425/2QUATER), kan de Vlaamse Regering voor de schooljaren 2021-2022 en 2022-2023 binnen de perken van de beschikbare deelenveloppe van 375 miljoen euro bijkomende omkadering toekennen aan de scholen, centra of scholengemeenschappen in het gewoon en buitengewoon secundair onderwijs of, wat speerpunten 3 en 4 betreft, ter ondersteuning van deze scholen en centra. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.<br>
+<br>
+§ 2. Ter uitvoering van de acties vervat in het speerpunt 1: van achterstand naar voorsprong, speerpunt 2: versterking van leraren, lerarenopleiders en schoolleiders en speerpunt 3: bevorderen van het mentaal welzijn van leerlingen, scholieren en studenten binnen de maatregel VV 17 van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Van kwetsbaar naar weerbaar, goedgekeurd op de ministerraad van de Vlaamse Regering van 7 mei 2021 (VR 2021 0705 VV DOC.0055-1 en 2), kan de Vlaamse Regering voor de schooljaren 2021-2022 en 2022-2023 binnen de perken van de beschikbare deelenveloppe van 90 miljoen euro desgevallend aangevuld met middelen uit de provisie versterking onderwijs en/of de AGODI-provisie bijkomende omkadering toekennen aan de scholen, centra of scholengemeenschappen in het gewoon en buitengewoon secundair onderwijs. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.".
+
+### ART 37.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 18 december 2020, wordt in deel III, titel 1, hoofdstuk 3, afdeling 3, een onderafdeling 5, die bestaat uit artikel 48/1 toegevoegd, die luidt als volgt:<br>
+"Onderafdeling 5. Extra financiering en subsidiëring in het kader van de maatregelen VV15 Digisprong en VV17 Van kwetsbaar naar weerbaar van het Vlaams relanceplan voor schooljaren 2021-2022 en 2022- 2023<br>
+<br>
+Artikel 48/1. § 1. Ter uitvoering van de acties vervat in het speerpunt 1: een toekomstgerichte en veilige ICT-infrastructuur, speerpunt 2: een sterk ondersteunend en doeltreffend ICT-schoolbeleid, speerpunt 3: ICT-competente leerkrachten en lerarenopleiders en aangepaste digitale leermiddelen en speerpunt 4: een kennisen adviescentrum Digisprong ten dienste van het onderwijsveld binnen de maatregel VV 15 van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Digisprong. Van achterstand naar voorsprong, goedgekeurd op de ministerraad van de Vlaamse Regering van 11 december 2020 (VR 2020 1112 DOC.1425/2QUATER), kan de Vlaamse Regering voor de schooljaren 2021-2022 en 2022-2023 binnen de perken van de beschikbare deelenveloppe van 375 miljoen euro bijkomende werkingsbudgetten of investeringsmiddelen toekennen aan de scholen, centra of scholengemeenschappen in het gewoon en buitengewoon secundair onderwijs of, wat speerpunten 3 en 4 betreft, ter ondersteuning van deze scholen en centra. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.<br>
+<br>
+§ 2. Ter uitvoering van de acties vervat in het speerpunt 1: van achterstand naar voorsprong, speerpunt 2: versterking van leraren, lerarenopleiders en schoolleiders en speerpunt 3: bevorderen van het mentaal welzijn van leerlingen, scholieren en studenten binnen de maatregel VV 17 van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Van kwetsbaar naar weerbaar, goedgekeurd op de ministerraad van de Vlaamse Regering van 7 mei 2021 (VR 2021 0705 VV DOC.0055-1 en 2), kan de Vlaamse Regering voor de schooljaren 2021-2022 en 2022-2023 binnen de perken van de beschikbare deelenveloppe van 90 miljoen euro desgevallend aangevuld met middelen uit de provisie versterking onderwijs en/of de AGODI-provisie bijkomende werkingsbudgetten of investeringsmiddelen toekennen aan de scholen, centra of scholengemeenschappen in het gewoon en buitengewoon secundair onderwijs. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.".
+
+### ART 38.
+
+In artikel 16 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding, gewijzigd bij het decreet van 5 april 2019, wordt een paragraaf 2/1 ingevoegd, die luidt als volgt:<br>
+" § 2/1. Ter uitvoering van de acties vervat in het speerpunt 1: van achterstand naar voorsprong en speerpunt 3: bevorderen van het mentaal welzijn van leerlingen, scholieren en studenten binnen de maatregel VV 17 van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Van kwetsbaar naar weerbaar, goedgekeurd op de ministerraad van de Vlaamse Regering van 7 mei 2021 (VR 2021 0705 VV DOC.0055-1 en 2), kan de Vlaamse Regering voor de schooljaren 2021- 2022 en 2022-2023 binnen de perken van de beschikbare deelenveloppe van 90 miljoen euro desgevallend aangevuld met middelen uit de provisie versterking onderwijs en/of de AGODI-provisie bijkomende omkadering, werkingsbudgetten of investeringsmiddelen toekennen aan de netoverstijgende regionale ondersteuningscellen. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.".
+
+### ART 39.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 3 juli 2020, wordt een artikel 32/1 ingevoegd, dat luidt als volgt:<br>
+"Art. 32/1. Ter uitvoering van de acties vervat in het speerpunt 1: van achterstand naar voorsprong en speerpunt 3: bevorderen van het mentaal welzijn van leerlingen, scholieren en studenten binnen de maatregel VV 17 van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Van kwetsbaar naar weerbaar, goedgekeurd op de ministerraad van de Vlaamse Regering van 7 mei 2021 (VR 2021 0705 VV DOC.0055-1 en 2), kan de Vlaamse Regering voor de schooljaren 2021-2022 en 2022-2023 binnen de perken van de beschikbare deelenveloppe van 90 miljoen euro desgevallend aangevuld met middelen uit de provisie versterking onderwijs en/of de AGODI-provisie bijkomende werkingsbudgetten of investeringsmiddelen toekennen aan de centra. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.".
+
+### ART 40.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 3 juli 2020, wordt een artikel 41/2 ingevoegd, dat luidt als volgt:<br>
+"Art. 41/2. Ter uitvoering van de acties vervat in het speerpunt 1: van achterstand naar voorsprong en speerpunt 3: bevorderen van het mentaal welzijn van leerlingen, scholieren en studenten binnen de maatregel VV 17 van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Van kwetsbaar naar weerbaar, goedgekeurd op de ministerraad van de Vlaamse Regering van 7 mei 2021 (VR 2021 0705 VV DOC.0055-1 en 2), kan de Vlaamse Regering voor de schooljaren 2021-2022 en 2022-2023 binnen de perken van de beschikbare enveloppe van 90 miljoen euro bijkomende omkadering toekennen aan de centra. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.".
+
+### ART 41.
+
+Aan artikel 91 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, gewijzigd bij het decreet van 19 december 2014, wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"Ter uitvoering van de acties vervat in het speerpunt 1 We sensibiliseren elke Vlaming om levenslang te blijven leren via het volwassenenonderwijs, het speerpunt 2 Versterken van arbeidsmarktkansen via omen bijscholen, het speerpunt 3 Versterking van digitale competenties en het speerpunt 4 Gericht inzetten op kwalificatie, binnen de maatregel VV 19 Edusprong voor volwassenen: het volwassenenonderwijs versterkt, van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Edusprong, kan de Vlaamse Regering tijdens de schooljaren 2021-2022 en 2022-2023 binnen de perken van de beschikbare deelenveloppe van 60 miljoen euro bijkomende VTE, punten en werkingstoelagen toekennen aan de centra voor basiseducatie. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.".
+
+### ART 42.
+
+Aan artikel 101 van hetzelfde decreet, gewijzigd bij het decreet van 19 december 2014, wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"Ter uitvoering van de acties vervat in het speerpunt 1 We sensibiliseren elke Vlaming om levenslang te blijven leren via het volwassenenonderwijs, het speerpunt 2 Versterken van arbeidsmarktkansen via omen bijscholen, het speerpunt 3 Versterking van digitale competenties en het speerpunt 4 Gericht inzetten op kwalificatie binnen de maatregel VV 19 Edusprong voor volwassenen: het volwassenenonderwijs versterkt, van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Edusprong (VR 2021 1202 VV DOC.0007/2BIS), kan de Vlaamse Regering tijdens de schooljaren 2021-2022 en 2022-2023 binnen de perken van de beschikbare deelenveloppe van 60 miljoen euro bijkomende leraarsuren, punten en werkingsmiddelen toekennen aan de centra voor volwassenenonderwijs. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.".
+
+### ART 43.
+
+In de Codex Hoger Onderwijs van 11 oktober 2013 wordt een artikel 25/1 ingevoegd, dat luidt als volgt:<br>
+"Art. 25/1. Ter uitvoering van de acties vervat in het speerpunt 1 Een toekomstbestendig en wendbaar Vlaams opleidingsportfolio uitbouwen, het speerpunt 2 Veel meer mogelijkheden aanreiken om levenslang te leren binnen het hoger onderwijs en het speerpunt 3 Kwaliteitsvol verduurzamen van nieuwe werkvormen in het hoger onderwijs, binnen de maatregel VV112 Voorsprongfonds Hoger Onderwijs, van het relanceplan Vlaamse Veerkracht, zoals beschreven in de visienota Voorsprongfonds Hoger Onderwijs, goedgekeurd op de Vlaamse Regering van 26 februari 2021 (VR 2021 2602 VV DOC.0011/2BIS), kan de Vlaamse Regering voor de academiejaren 2021-2022 en 2022-2023, binnen de perken van de beschikbare enveloppe van 60 miljoen euro, naast de bepalingen in artikel III.25, een bijkomende werkingstoelage of projecttoelage toekennen aan de hogescholen en universiteiten.De Vlaamse Regering bepaalt de verdeling van die bijkomende middelen over de hogescholen en universiteiten en stelt de aanwending ervan vast.".
+
+### ART 44.
+
+In het decreet van 20 februari 2009 betreffende de Hogere Zeevaartschool wordt een artikel 2/1 ingevoegd, dat luidt als volgt:<br>
+"Art. 2/1. Ter uitvoering van de acties vervat in het speerpunt 1 Een toekomstbestendig en wendbaar Vlaams opleidingsportfolio uitbouwen, het speerpunt 2 Veel meer mogelijkheden aanreiken om levenslang te leren binnen het hoger onderwijs en het speerpunt 3 Kwaliteitsvol verduurzamen van nieuwe werkvormen in het hoger onderwijs, binnen de maatregel VV112 Voorsprongfonds Hoger Onderwijs van het relanceplan Vlaamse Veerkracht, zoals beschreven in de visienota Voorsprongfonds Hoger Onderwijs, goedgekeurd op de Vlaamse Regering van 26 februari 2021 (VR 2021 2602 VV DOC.0011/2BIS), kan de Vlaamse Regering voor de academiejaren 2021-2022 en 2022-2023, binnen de perken van de beschikbare enveloppe van 60 miljoen euro, naast de bepalingen in artikel 2, een bijkomende werkingstoelage of projecttoelage toekennen aan de Hogere Zeevaartschool. De Vlaamse Regering bepaalt de aanwending van deze bijkomende middelen.".
 
 ## Afdeling 9. Extra lestijden, lesuren en uren-leraar voor de remediëring van leerlingen die een leerachterstand hebben opgelopen door COVID-19
 
+### ART 45.
+
+In het schooljaar 2021-2022 kunnen op basis van de aanvraag, vermeld in artikel 47, aan scholen van het gewoon en buitengewoon basisen secundair onderwijs en aan centra voor deeltijds beroepssecundair onderwijs, naargelang het geval, extra lestijden, uren-leraar of lesuren worden toegekend voor de remediëring van leerlingen die een leerachterstand hebben opgelopen door de COVID-19-pandemie en de maatregelen ter bestrijding ervan.<br>
+<br>
+Die extra lestijden, uren-leraar of lesuren worden op leerlingniveau aangewend om de leerachterstand die de leerlingen hebben opgelopen door de COVID-19-pandemie en de maatregelen ter bestrijding ervan, maximaal weg te werken in de periode vanaf 1 september 2021 tot en met 30 juni 2022.<br>
+<br>
+In afwijking van het eerste lid kunnen er geen extra lestijden, uren-leraar of lesuren aangewend worden voor leerlingen in type 5-scholen en voor cursisten van de hogere beroepsopleiding Verpleegkunde.
+
+### ART 46.
+
+In afwijking van artikel 163, § 1, tweede lid, van het decreet Basisonderwijs van 25 februari 1997 kunnen de personeelsleden die worden aangesteld met de extra lestijden, vermeld in artikel 45, alleen op lesdagen en uitzonderlijk ook buiten de periode van de normale aanwezigheid van de leerlingen op school worden ingezet voor de doelstelling, vermeld in artikel 45.<br>
+<br>
+De personeelsleden die in het secundair onderwijs en de centra voor deeltijds beroepssecundair onderwijs worden aangesteld met de extra uren-leraar en lesuren, vermeld in artikel 45, kunnen alleen op lesdagen en uitzonderlijk ook buiten de periode van de normale aanwezigheid van de leerlingen op school of in het centrum worden ingezet voor de doelstelling, vermeld in artikel 45.
+
+### ART 47.
+
+§ 1. Het Agentschap voor Onderwijsdiensten, verder AGODI genoemd, deelt aan de school of het centrum het maximumaantal extra lestijden, uren-leraar of lesuren, vermeld in artikel 45, mee dat ze wekelijks kunnen aanwenden.<br>
+<br>
+Als de school of het centrum extra lestijden, uren-leraar of lesuren wil inrichten, meldt ze dit ten laatste op 1 oktober 2021. De school of het centrum verklaart hierbij op erewoord dat die lestijden, lesuren of uren-leraar gebruikt zullen worden voor de remediëring van leerlingen die een leerachterstand hebben opgelopen door COVID-19. AGODI keurt de aanvraag automatisch goed als bovenstaande voorwaarde is vervuld.<br>
+<br>
+De toegekende extra lestijden, uren-leraar of lesuren die op 15 november 2021 niet zijn ingevuld en meegedeeld aan AGODI, kunnen niet meer ingericht worden.<br>
+<br>
+§ 2. Een school heeft recht op minimaal twee wekelijkse lestijden, lesuren of uren-leraar, en maximaal het afgeronde resultaat van (A + B) x C, waarbij:<br>
+1° A: het aantal leerlingen dat de school telt op de eerste schooldag van februari 2020, die niet beantwoorden:<br>
+a) in het basisonderwijs, aan een of meer van de leerlingenkenmerken, vermeld in artikel 133, § 1, van het decreet Basisonderwijs van 25 februari 1997, vermenigvuldigd met 1;<br>
+b) in het secundair onderwijs, aan een of meer van de gelijkekansenindicatoren, vermeld in artikel 225, § 1, 1° tot en met 4°, of artikel 233, § 1, 1° tot en met 4°, van de Codex Secundair Onderwijs van 17 december 2010, vermenigvuldigd met 1;<br>
+2° B: het aantal leerlingen dat de school telt op de eerste schooldag van februari 2020, die beantwoorden:<br>
+a) in het gewoon basisonderwijs, aan een of meer van de leerlingenkenmerken, vermeld in artikel 133, § 1, van het decreet Basisonderwijs van 25 februari 1997, vermenigvuldigd met 1,2;<br>
+b) in het voltijds gewoon secundair onderwijs, aan een of meer van de gelijkekansenindicatoren, vermeld in artikel 225, § 1, 1° tot en 4°, of artikel 233, § 1, 1° tot en met 4°, van de Codex Secundair Onderwijs van 17 december 2010, vermenigvuldigd met 1,2;<br>
+3° C: 0,021438 lestijden in het basisonderwijs en 0,041192 lesuren of uren-leraar in het secundair onderwijs.<br>
+<br>
+Het resultaat dat verkregen wordt door de berekening wordt als volgt afgerond: als het eerste getal na de komma groter is dan vier, wordt er afgerond naar het hoger gelegen gehele getal, en als het eerste getal na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lager gelegen gehele getal.<br>
+<br>
+§ 3. In afwijking van paragraaf 2 heeft een centrum voor deeltijds beroepssecundair onderwijs recht op minimaal twee wekelijkse uren-leraar, en maximaal het afgeronde resultaat van D x E, waarbij:<br>
+1° D: het aantal leerlingen dat het centrum telt op de eerste schooldag van februari 2020, vermenigvuldigd met 1,2;<br>
+2° E: 0,041192 uren-leraar in het secundair onderwijs.<br>
+<br>
+Het resultaat dat verkregen wordt door de berekening wordt als volgt afgerond: als het eerste getal na de komma groter is dan vier, wordt er afgerond naar het hoger gelegen gehele getal, en als het eerste getal na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lager gelegen gehele getal.<br>
+<br>
+§ 4. In afwijking van paragraaf 2 en 3 is de teldag voor scholen en centra die opgericht werden tijdens het schooljaar 2020-2021 1 februari 2021.<br>
+<br>
+In afwijking van paragraaf 2 worden voor scholen die opgericht werden tijdens het schooljaar 2020-2021 alle leerlingen aan 1 gewogen.
+
+### ART 48.
+
+Een personeelslid dat wordt aangesteld in een betrekking die wordt ingericht met de lestijden, lesuren en uren-leraar, vermeld in artikel 45, wordt aangesteld als tijdelijk personeelslid. Het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs of het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding zijn, naargelang het geval, op die personeelsleden van toepassing, met uitzondering van de volgende bepaling: de betrekking kan niet vacant worden verklaard. Het schoolof centrumbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in die betrekking.
+
 ## Afdeling 10. Lerarenplatform basisonderwijs
+
+### ART 49.
+
+In hoofdstuk IX, afdeling 3quater, van het decreet Basisonderwijs van 25 februari 1997, ingevoegd bij het decreet van 6 juli 2018 en gewijzigd bij de decreten van 21 december 2018, 5 april 2019 en 26 juni 2020, wordt het opschrift van onderafdeling 2 vervangen door wat volgt:<br>
+"Onderafdeling 2. Werking".
+
+### ART 50.
+
+Artikel 153quaterdecies van hetzelfde decreet, ingevoegd bij het decreet van 6 juli 2018 en gewijzigd bij de decreten van 5 april 2019 en van 26 juni 2020, wordt vervangen door wat volgt:<br>
+"Art. 153quaterdecies. Vanaf het schooljaar 2021-2022 tot en met het schooljaar 2023-2024 wordt een lerarenplatform opgezet om tijdelijk aangestelde personeelsleden werkzekerheid te bieden.".
+
+### ART 51.
+
+In artikel 153quinquiesdecies van hetzelfde decreet, ingevoegd bij het decreet van 6 juli 2018, wordt het woord "pilootproject" vervangen door het woord "lerarenplatform".
+
+### ART 52.
+
+In artikel 153sexiesdecies van hetzelfde decreet, ingevoegd bij het decreet van 6 juli 2018, worden de woorden "de criteria van inzetbaarheid van de betrokken personeelsleden in pedagogisch zinvolle taken" vervangen door de woorden "de criteria om de betrokken personeelsleden taken te laten vervullen voor het wegwerken van de leerachterstand of niet-reguliere vervangingen te laten doen".
+
+### ART 53.
+
+In artikel 153septiesdecies van hetzelfde decreet, ingevoegd bij het decreet van 6 juli 2018 en gewijzigd bij het decreet van 26 juni 2020, worden de volgende wijzigingen aangebracht:<br>
+1° het getal "2500" wordt vervangen door het getal "1621";<br>
+2° de zin "Tijdens het schooljaar 2020-2021 bedraagt het aantal beschikbare voltijdse equivalenten uitzonderlijk 2291 voor alle scholen van het basisonderwijs." wordt opgeheven;<br>
+3° het getal "23,79" wordt vervangen door het getal "23,77".
+
+### ART 54.
+
+In artikel 153undevicies van hetzelfde decreet, ingevoegd bij het decreet van 6 juli 2018 en gewijzigd bij het decreet van 26 juni 2020, worden de volgende wijzigingen aangebracht:<br>
+1° het woord "oktober" wordt vervangen door het woord "september";<br>
+2° de zin "Tijdens het schooljaar 2020-2021 kan deze aanstelling al ten vroegste aanvangen op 1 september." wordt opgeheven.
+
+### ART 55.
+
+&nbsp;In artikel 153viciesbis van hetzelfde decreet, ingevoegd bij het decreet van 6 juli 2018, worden de woorden "wordt het op basis van zijn bekwaamheidsbewijs ingezet in zinvolle pedagogische taken" vervangen door de woorden "vervult het taken voor het wegwerken van de leerachterstand of doet het een niet-reguliere vervanging".
+
+### ART 56.
+
+In artikel 153viciester van hetzelfde decreet, ingevoegd bij het decreet van 6 juli 2018, worden de volgende wijzigingen aangebracht:<br>
+1° het getal "85" wordt vervangen door het getal "80";<br>
+2° de woorden "positieve of" worden telkens opgeheven;<br>
+3° de zin "Indien het bereikte inzetbaarheidspercentage hoger lag dan het vooropgestelde inzetbaarheidspercentage, wordt het aantal lestijden vermeerderd met het aantal lestijden dat overeenkomt met het aantal dat nodig was om het vooropgestelde inzetbaarheidspercentage te bereiken." wordt opgeheven.
+
+### ART 57.
+
+In hoofdstuk IX, afdeling 3quater, van hetzelfde decreet, ingevoegd bij het decreet van 6 juli 2018 en gewijzigd bij de decreten van 5 april 2019 en 26 juni 2020, wordt het opschrift van onderafdeling 6 vervangen door wat volgt:<br>
+"Onderafdeling 6. Inwerkingtreding".
+
+### ART 58.
+
+Artikel 153viciesquater van hetzelfde decreet, ingevoegd bij het decreet van 6 juli 2018 en gewijzigd bij het decreet van 5 april 2019, wordt vervangen door wat volgt:<br>
+"Art. 153viciesquater. Het lerarenplatform wordt geëvalueerd tijdens het schooljaar 2022-2023 met het oog op eventuele bijsturingen.".
+
+### ART 59.
+
+In artikel 153viciesquinquies, ingevoegd bij het decreet van 6 juli 2018 en gewijzigd bij het decreet van 26 juni 2020, worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede "1 oktober 2018" wordt vervangen door de zinsnede "1 september 2021";<br>
+2° de zinsnede "2020-2021" wordt vervangen door de zinsnede "2023-2024".
 
 ## Afdeling 11. Huursubsidies AGION voor tijdelijke modulaire units
 
@@ -361,3 +547,19 @@ Artikel 21 en 22 hebben uitwerking vanaf 1 mei 2021.<br>
 Artikel 7, 25 en 26 hebben uitwerking vanaf 1 januari 2020.<br>
 <br>
 Artikel 29, 30 en 31 hebben uitwerking vanaf 1 januari 2021.
+
+### BIJLAGE 1
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/08/20_2.pdf#page=200">Bijlage 1</a>
+
+### BIJLAGE 2
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/08/20_2.pdf#page=211">Bijlage 2</a>
+
+### BIJLAGE 3
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/08/20_2.pdf#page=220">Bijlage 3</a>
+
+### BIJLAGE 4
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/08/20_2.pdf#page=232">Bijlage 4</a>
