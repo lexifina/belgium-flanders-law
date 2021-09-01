@@ -2,16 +2,16 @@
   "codex_id": 1016254,
   "title": "Besluit van de Vlaamse Regering van 2007-09-07 betreffende de studiefinanciering van de Vlaamse Gemeenschap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016254/VolledigDocument?datum=2019-09-01",
-  "source_sha256": "18ed6a36c5b6c9d81d4bc49ff78b132b9ca7861aaa8a65c522461f78ef8991ed",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016254/VolledigDocument?datum=2021-09-01",
+  "source_sha256": "4b5e44872e8bc09dd0d50b64497a3626a6e2b2205ac200573061141f5550bdd1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016254&param=informatie",
-  "as_of": "2019-09-01",
+  "as_of": "2021-09-01",
   "made": "2007-09-07",
   "gazette": "2007-10-17",
   "numac": 2007036752,
   "document_start": null,
   "document_end": null,
-  "in_force": "2019-09-01",
+  "in_force": "2021-09-01",
   "article_versions": 37,
-  "record_form": "consolidated version as in force on 2019-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-09-01; future article versions excluded; article text as the API gives it"
 }
