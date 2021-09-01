@@ -58,6 +58,7 @@ Dat de leerling voldoet aan de voorwaarden, vermeld in punt a), 1) en 2), wordt 
 17° Gemeenschap: de Vlaamse Gemeenschap;<br>
 17° bis gemeenschappelijk curriculum: de goedgekeurde leerplannen die ten minste herkenbaar de doelen bevatten die noodzakelijk zijn om de eindtermen te bereiken of de ontwikkelingsdoelen na te streven en de schoolgebonden planning voor het nastreven van de leergebiedoverschrijdende eindtermen en ontwikkelingsdoelen;<br>
 18° gemeenschapsonderwijs: onderwijs georganiseerd door of namens de Gemeenschap;<br>
+18° bis gemotiveerd verslag: een handelingsgericht advies voor ondersteuning vanuit het ondersteuningsmodel, vermeld in artikel 172quinquies en 172quinquies/1, dat een CLB-medewerker registreert in het multidisciplinair dossier van de leerling;<br>
 19° gesubsidieerd onderwijs: vrij onderwijs of officieel onderwijs, met uitzondering van het gemeenschapsonderwijs, dat voldoet aan de voorwaarden zoals bepaald in artikel 68;<br>
 20° godsdienst of levensbeschouwing: een godsdienst of levensbeschouwing erkend door de overheid die terzake bevoegd is;<br>
 21° groep: indeling van de scholen en vestigingsplaatsen in het gewoon basisonderwijs en van de scholen in het buiten-gewoon basisonderwijs naargelang ze behoren tot het gemeenschapsonderwijs, het gesubsidieerd officieel onderwijs, het gesubsidieerd vrij onderwijs naargelang van de onderscheidene godsdiensten, of tot het gesubsidieerd vrij niet-confessioneel onderwijs;<br>
@@ -119,6 +120,7 @@ b) in het buitengewoon basisonderwijs : het pakket lestijden dat bestaat uit de 
 51° schooljaar: de periode van 1 september tot en met 31 augustus;<br>
 52° schoolopdracht van het personeel: het geheel van taken die een personeelslid in schoolverband uitvoert;<br>
 52°bis scholengemeenschap basisonderwijs: is een samenwerkingsverband dat beantwoordt aan de criteria van de artikelen 125sexies tot en met 125octies;<br>
+52° bis/0 scholengemeenschapsinstelling: een scholengemeenschapsinstelling is een instelling die geen school is en die uitsluitend opgericht kan worden binnen één scholengemeenschap en zich beperkt tot en als enige doel heeft daar personeelsleden, die werken ter ondersteuning van de scholen van de scholengemeenschap aan te stellen, te affecteren, toe te laten tot de proeftijd en vast te benoemen indien ze daarvoor in aanmerking komen.<br>
 52° bis/1 selectieve participatietoeslagen leerling: de selectieve participatietoeslagen, zoals opgenomen in boek 2, deel 2, titel 1, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid;<br>
 52° bis/1/1 SES-lestijden : lestijden, toegekend op basis van de socio-economische status van leerlingen in het gewoon basisonderwijs die gevat wordt door leerlingkenmerken;<br>
 52° bis/1/2 systematisch contact: een periodiek contact waarop de leerling en het centrum voor leerlingenbegeleiding in persoon samenzitten en er een uniform aanbod voor populaties of doelgroepen wordt voorzien ter uitvoering van het begeleidingsdomein preventieve gezondheidszorg;<br>
@@ -247,25 +249,7 @@ De regering informeert de afgevaardigden van de inrichtende machten en de repres
 
 ### ART. 11ter.
 
-§ 1. Voor elke leerling die voor het eerst in het gewoon lager onderwijs instroomt, voert de school een verplichte screening uit, die nagaat wat het niveau van de leerling inzake de onderwijstaal is. Deze screening kan nooit voor de inschrijving van de leerling uitgevoerd worden en gebeurt met een valide en betrouwbaar screeningsinstrument. Indien de resultaten van deze screening daar aanleiding toe geven, voorziet de school een taaltraject dat aansluit bij de beginsituatie en de specifieke noden van de betrokken leerling inzake de onderwijstaal.<br>
-<br>
-In afwijking van het eerste lid, is de screening niet verplicht voor anderstalige nieuwkomers zoals bepaald in artikel 3, 4° quater. Deze leerlingen krijgen in elk geval een taaltraject dat aansluit bij hun beginsituatie en specifieke noden inzake de onderwijstaal.<br>
-<br>
-§ 2. Voor leerlingen die bij de eerste instroom in het gewoon lager onderwijs de onderwijstaal onvoldoende beheersen om de lessen te kunnen volgen, kunnen scholen een taalbad organiseren.<br>
-<br>
-Met taalbad wordt bedoeld voltijdse en intensieve onderwijsactiviteiten die tot doel hebben de leerling door onderdompeling in de onderwijstaal deze onderwijstaal te laten verwerven in functie van een snelle integratie in de reguliere onderwijsactiviteiten.<br>
-<br>
-Schoolbesturen kunnen dit taalbad individueel of gezamenlijk organiseren. De duur van het taalbad voor de leerling is maximaal eenjaar.<br>
-<br>
-§ 3. In het geval scholen het taalbad gezamenlijk organiseren, is er wederzijdse samenwerking tussen de school van inschrijving en de school die het taalbad aan de leerling verstrekt. Dat houdt onder andere in het organiseren van het vervoer van de ingeschreven leerling naar de school waar het taalbad wordt georganiseerd, de communicatie tussen de school van inschrijving en de school waar het taalbad wordt georganiseerd, het opvolgen van de leerling die het taalbad volgt door de school waar de leerling is ingeschreven.<br>
-<br>
-§ 4. De leerkracht die het onderwijs in het taalbad verstrekt, wordt betrokken bij de beslissing over de duur van het taalbad.<br>
-<br>
-§ 5. Na het taalbad integreert de leerling zich in de school van inschrijving waar hij de reguliere onderwijsactiviteiten volgt.<br>
-<br>
-§ 6. In afwijking van artikel 3, 22°, a), wordt het inrichten van een taalbad niet beschouwd als een herstructurering.<br>
-<br>
-§ 7. De leerlingen die een taalbad volgen, tellen alleen mee voor financiering of subsidiering in de school waar ze zijn ingeschreven op de teldag.
+...
 
 ### ART 11quater.
 
@@ -273,7 +257,7 @@ Schoolbesturen kunnen dit taalbad individueel of gezamenlijk organiseren. De duu
 <br>
 De regering bepaalt met welk instrument de screening bij het begin van de leerplicht gebeurt, alsook het moment en de manier van afname.<br>
 <br>
-§ 2. In afwijking van paragraaf 1 is de screening niet verplicht voor anderstalige nieuwkomers zoals bepaald in artikel 3, 4° quater. Deze leerlingen krijgen vanaf het schooljaar 2021-2022 in elk geval een actief taalintegratietraject Nederlands, met in beginsel een taalbad zoals bedoeld in paragraaf 4, of een volwaardig alternatief dat dezelfde resultaten bereikt. Ook voor leerlingen die in de loop van het lager onderwijs instromen en onvoldoende het Nederlands beheersen om de lessen te kunnen volgen, kan de school beslissen dat zij een taalintegratietraject moeten volgen.<br>
+§ 2. In afwijking van paragraaf 1 is de screening niet verplicht voor anderstalige nieuwkomers zoals bepaald in artikel 3, 4° quater. Deze leerlingen krijgen vanaf het schooljaar 2021-2022 in elk geval een actief taalintegratietraject Nederlands, met in beginsel een taalbad zoals bedoeld in paragraaf 4, of een volwaardig alternatief dat dezelfde resultaten bereikt. Ook voor leerlingen die na de periode van afname van de taalscreening in het basisonderwijs instromen en onvoldoende het Nederlands beheersen om de lessen te kunnen volgen, kan de school beslissen dat zij een taalintegratietraject moeten volgen.<br>
 <br>
 § 3. Op basis van de resultaten van de taalscreening, moeten leerlingen die het Nederlands onvoldoende beheersen vanaf het schooljaar 2021-2022 een actief taalintegratietraject Nederlands volgen met in beginsel een taalbad, zoals bedoeld in paragraaf 4, of een volwaardig alternatief dat dezelfde resultaten bereikt.<br>
 <br>
@@ -324,23 +308,7 @@ Voor&nbsp;leerlingen die nog geen kleuteronderwijs volgden, is enkel een advies 
 
 ### ART. 13.
 
-§ 1. Om toegelaten te worden tot het gewoon lager onderwijs moet een leerling zes jaar zijn voor 1 januari van het lopende schooljaar. Als hij nog niet de leeftijd van zeven jaar heeft bereikt of zal bereiken voor 1 januari van het lopende schooljaar, moet hij bovendien aan een van de volgende voorwaarden voldoen :&nbsp;<br>
-1° het voorgaande schooljaar ingeschreven zijn geweest in een door de Vlaamse Gemeenschap erkende Nederlandstalige school voor kleuteronderwijs en gedurende die periode ten minste 250 halve dagen aanwezig geweest zijn; halve dagen aanwezigheid in de rijdende kleuterschool zoals bepaald in artikel 168 van dit decreet worden beschouwd als aanwezigheid in de erkende school waar de leerling ingeschreven is;<br>
-2° toegelaten zijn door de klassenraad.<br>
-<br>
-De beslissing omtrent de toelating wordt aan de ouders meegedeeld uiterlijk de tiende schooldag van september bij inschrijving vóór 1 september van het lopende schooljaar, of, bij inschrijving vanaf 1 september, uiterlijk tien schooldagen na deze inschrijving.<br>
-<br>
-In afwachting van deze mededeling is de leerling ingeschreven onder opschortende voorwaarde. Bij overschrijding van de genoemde termijn is de leerling ingeschreven.<br>
-<br>
-De schriftelijke mededeling aan de ouders van een negatieve beslissing bevat tevens de motivatie.<br>
-<br>
-§ 2. Met uitzondering van de eerste zin is paragraaf 1 niet van toepassing op leerlingen die worden ingeschreven in Franstalige scholen in de rand- en taalgrensgemeenten die deel uitmaken van het Nederlandse taalgebied.<br>
-<br>
-§ 2bis. In afwijking van § 1, 1°, bepaalt de Vlaamse Regering wanneer een leerling geacht wordt voldoende aanwezig te zijn, wanneer de school overeenkomstig artikel 8 van het besluit van de Vlaamse Regering van 17 april 1991 tot organisatie van het schooljaar in het basisonderwijs, in het deeltijds kunstonderwijs en in het onderwijs voor sociale promotie erkend, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap, over een afwijkende uurregeling beschikt.<br>
-<br>
-§ 3. De leerling die met toepassing van dit artikel verplicht wordt ingeschreven in het kleuteronderwijs, kan voor het onderricht in een van de erkende godsdiensten of de niet-confessionele zedenleer lessen bijwonen in de lagere school die zijn ouders daarvoor kiezen.<br>
-<br>
-§ 4. Om toegelaten te worden tot het buitengewoon lager onderwijs moet een leerling zes jaar zijn voor 1 januari van het lopende schooljaar.
+...
 
 ### ART 13/1.
 
@@ -364,7 +332,7 @@ Bij weigering van toelating tot het lager onderwijs beslist de klassenraad van d
 <br>
 § 3. Het advies door de school voor kleuteronderwijs wordt aan de ouders meegedeeld uiterlijk op 30 juni.<br>
 <br>
-De beslissing door de school voor lager onderwijs wordt aan de ouders meegedeeld uiterlijk de tiende schooldag van september bij inschrijving vóór 1 september van het lopende schooljaar, of, bij inschrijving vanaf 1 september, uiterlijk tien schooldagen na deze inschrijving. In afwachting van deze mededeling is de leerling ingeschreven onder opschortende voorwaarde. Bij overschrijding van de genoemde termijn is de leerling ingeschreven.<br>
+De beslissing door de school voor lager onderwijs wordt aan de ouders meegedeeld uiterlijk de tiende schooldag van september bij inschrijving vóór 1 september van het lopende schooljaar, of, bij inschrijving vanaf 1 september, uiterlijk tien schooldagen na deze inschrijving.&nbsp;Indien de leerling geen beroep kan doen op het behoud van inschrijving, conform artikel 37/9 of artikel 37bis, § 4, is de leerling in afwachting van deze mededeling ingeschreven onder opschortende voorwaarde. Bij overschrijding van de genoemde termijn is de leerling ingeschreven of toegelaten.<br>
 <br>
 De schriftelijke mededeling aan de ouders van een negatief advies of negatieve beslissing bevat tevens de motivatie.<br>
 <br>
@@ -374,17 +342,13 @@ De schriftelijke mededeling aan de ouders van een negatief advies of negatieve b
 
 ### ART. 14.
 
-§ 1. In afwijking van artikel 13, § 1, kan een leerling die 5 jaar wordt vóór 1 januari van het lopende schooljaar toegelaten worden tot het gewoon lager onderwijs. Na kennisneming van en toelichting bij het advies van het CLB en na toelating door de klassenraad overeenkomstig artikel 13, § 1, 2°, nemen de ouders daaromtrent een beslissing.<br>
-<br>
-§ 2. In afwijking van artikel 13, § 4, kan een leerling die 5 jaar wordt vóór 1 januari van het lopende schooljaar toegelaten worden tot het buitengewoon lager onderwijs. Na kennisneming van en toelichting bij de adviezen van de klassenraad en van het CLB nemen de ouders daaromtrent een beslissing.<br>
-<br>
-§ 3. Een leerling die 5 jaar wordt vóór 1 januari van het lopende schooljaar en die in het lager onderwijs toegelaten is, is onderworpen aan de leerplicht.
+...
 
 ### ART 14/0
 
 Vanaf het schooljaar 2021-2022 kan een leerling die 5 jaar wordt vóór 1 januari van het lopende schooljaar, in afwijking van artikel 13/1, § 2 en § 5, tot het lager onderwijs toegelaten worden onder de volgende voorwaarden:<br>
-1° in het gewoon onderwijs: na toelating conform artikel 13/1, § 2, 2°, indien het een leerling betreft die het voorgaande schooljaar ingeschreven was in een door de Vlaamse Gemeenschap erkende school voor Nederlandstalig kleuteronderwijs, of conform artikel 13/1, § 2, 3°, indien het een leerling betreft die het voorgaande schooljaar niet ingeschreven was in een door de Vlaamse Gemeenschap erkende school voor kleuteronderwijs. Na kennisneming van en toelichting bij het advies van het CLB nemen de ouders daaromtrent een beslissing;<br>
-2° in het buitengewoon onderwijs: na kennisneming van en toelichting bij de adviezen van de klassenraad en van het CLB nemen de ouders daaromtrent een beslissing.
+1° in het gewoon onderwijs: p verzoek van de ouders of op initiatief van de school, na toelating conform artikel 13/1, § 2, eerste lid, 2°, en § 3, indien het een leerling betreft die het voorgaande schooljaar ingeschreven was in een door de Vlaamse Gemeenschap erkende school voor Nederlandstalig kleuteronderwijs, of conform artikel 13/1, § 2, eerste lid, 3°, en § 3, indien het een leerling betreft die het voorgaande schooljaar niet ingeschreven was in een door de Vlaamse Gemeenschap erkende school voor kleuteronderwijs. Na kennisneming van en toelichting bij het advies van het CLB nemen de ouders daaromtrent een beslissing;<br>
+2° in het buitengewoon onderwijs: na kennisneming van en toelichting bij de adviezen van de klassenraad en van het CLB,&nbsp;op vraag van de ouders of op initiatief van de school,&nbsp;nemen de ouders daaromtrent een beslissing.
 
 ### ART 14/1.
 
@@ -409,7 +373,7 @@ Als de klassenraad en het CLB op basis van de evaluatie, vermeld in het tweede l
 
 ### ART. 15.
 
-<p>§ 1. Naast de toelatingsvoorwaarden bepaald in de artikelen 12, § 1, 12/1, § 2, 13, § 4, en 14, § 2, is voor de toelating van een leerling tot het buitengewoon onderwijs, met uitzondering voor de toelating tot type 5, of voor een individueel aangepast curriculum in het gewoon basisonderwijs, het doorlopen van een handelingsgericht diagnostisch traject met de opmaak van een verslag van een CLB vereist, opgesteld met inachtname van artikel 7 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding, waaruit blijkt:<br>
+<p>§ 1. Naast de toelatingsvoorwaarden bepaald in artikel 12, § 1, 12/1, § 2, 13/1, § 5, 14/0, 2°, en 14/1, § 1, § 3, § 4, is voor de toelating van een leerling tot het buitengewoon onderwijs, met uitzondering voor de toelating tot type 5, of voor een individueel aangepast curriculum in het gewoon basisonderwijs, het doorlopen van een handelingsgericht diagnostisch traject met de opmaak van een verslag van een CLB vereist, opgesteld met inachtname van artikel 7 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding, waaruit blijkt:<br>
 1° dat de fasen van het zorgcontinuüm voor de betreffende leerling werden doorlopen, tenzij de school in uitzonderlijke omstandigheden kan motiveren dat het doorlopen van een bepaalde fase niet relevant is;<br>
 2° dat met toepassing van de principes van artikel 8, tweede lid, de aanpassingen, waaronder remediërende, differentiërende, compenserende en dispenserende maatregelen die nodig zijn om de leerling binnen het gemeenschappelijk curriculum te blijven meenemen, ofwel disproportioneel, ofwel onvoldoende zijn;<br>
 3° dat de onderwijsbehoeften van de leerling werden omschreven met toepassing van een classificatiesysteem dat wetenschappelijk onderbouwd is en gebaseerd is op een interactionele visie en een sociaal model van handicap;<br>
@@ -464,11 +428,11 @@ De Vlaamse Regering bepaalt de verdere inhoud van het gemotiveerd verslag.<br>
 <br>
 § 2. In afwijking van paragraaf 1 wordt voor een leerling, die toegelaten werd tot het geïntegreerd onderwijs op basis van een inschrijvingsverslag voor het buitengewoon onderwijs, slechts een gemotiveerd verslag opgemaakt bij wijziging van het onderwijsniveau of het type, vermeld in paragraaf 1, 2°. De overgang van het kleuteronderwijs naar het lager onderwijs wordt in dit verband niet beschouwd als een wijziging van onderwijsniveau.<br>
 <br>
-§ 3. Bij wijziging van het onderwijsniveau of het type, vermeld in paragraaf 1, 2°, wordt een nieuw gemotiveerd verslag opgesteld. De overgang van het kleuteronderwijs naar het lager onderwijs wordt in dit verband niet beschouwd als een wijziging van onderwijsniveau. Een wijziging van het type, vermeld in paragraaf 1, 2°, binnen hetzelfde onderwijsniveau kan gebeuren met een addendum bij het gemotiveerd verslag, voorzien van de datum van opmaak.<br>
+§ 3. Bij wijziging van het onderwijsniveau of het type, vermeld in paragraaf 1, 2°, wordt een nieuw gemotiveerd verslag opgesteld. De overgang van het kleuteronderwijs naar het lager onderwijs wordt in dit verband niet beschouwd als een wijziging van onderwijsniveau.&nbsp;<br>
 <br>
 § 4. Als niet meer voldaan is aan de criteria, vermeld in paragraaf 1, eerste lid, 1° of 2°, heft het CLB het gemotiveerd verslag op. Als een CLB voor een leerling met een gemotiveerd verslag, een gemotiveerd verslag of verslag opmaakt met het oog op een overgang van het basisonderwijs naar het secundair onderwijs, dan vervalt het gemotiveerd verslag dat de leerling had in het basisonderwijs.<br>
 <br>
-§ 5. Voor leerlingen met gedrags- of emotionele problemen waarvoor scholen, met toepassing van artikel 172quinquies, in het schooljaar 2017-2018 al een beroep konden doen op ondersteuning ook al was er geen gemotiveerd verslag of verslag voor die leerlingen afgeleverd, moet ten laatste tegen 1 januari 2019 een gemotiveerd verslag of verslag zijn opgemaakt als er voor deze leerlingen verder nood is aan ondersteuning vanaf het schooljaar 2018-2019.</p>
+§ 5. ...</p>
 
 ## [... (opgeh. decr. 17 juni 2016, art. II.12, I: 1 september 2016)]
 
@@ -489,7 +453,7 @@ De Vlaamse Regering bepaalt de verdere inhoud van het gemotiveerd verslag.<br>
 ### ART. 20.
 
 § 1. Een regelmatige leerling is een leerling die:<br>
-1° voldoet aan de toelatingsvoorwaarden zoals bepaald in de artikelen 12, 12/1, 13, 14, 14/1, 15 of 16;<br>
+1° voldoet aan de toelatingsvoorwaarden zoals bepaald in de artikelen 12, 12/1, 13/1, 14/0, 14/1, 15 of 16;<br>
 2° slechts in één school is ingeschreven.<br>
 <br>
 § 2. Leerplichtigen zijn een regelmatige leerling als ze voldoen aan de voorwaarden, vermeld in paragraaf 1, en aan al de volgende voorwaarden:<br>
@@ -694,9 +658,9 @@ De leerplichtige leerling in het officieel kleuteronderwijs kan voor het onderri
 1° de gegevens hebben enkel betrekking op de leerlingspecifieke onderwijsloopbaan, meer bepaald de essentiële gegevens die de studieresultaten en de studievoortgang van de leerling bevorderen, monitoren, evalueren en attesteren;<br>
 2° de overdracht gebeurt enkel in het belang van de persoon op wie de onderwijsloopbaan betrekking heeft;<br>
 3° tenzij de regelgeving de overdracht verplicht stelt, gebeurt de overdracht niet indien de ouders er zich expliciet tegen verzetten, na, op hun verzoek, de gegevens te hebben ingezien.<br>
-4° een kopie van het verslag of gemotiveerd verslag van een CLB in het kader van het decreet betreffende maatregelen voor leerlingen met specifieke onderwijsbehoeften dient verplicht te worden overgedragen door de oude school aan de nieuwe school. Tevens zal het CLB dat verbonden was aan de oude school een kopie van het verslag of gemotiveerd verslag verplicht overdragen aan het CLB dat verbonden is met de nieuwe school. In het belang van de optimale begeleiding van de betrokken leerling en de organisatie van de school kunnen ouders zich tegen deze overdrachten niet verzetten.<br>
+4° een kopie van het verslag wordt door de oude school overgedragen aan de nieuwe school of de oude school brengt de nieuwe school op de hoogte van het bestaan van een handelingsgericht advies van het CLB voor ondersteuning vanuit het ondersteuningsmodel. Het CLB dat verbonden is aan de oude school draagt een verslag over aan het CLB dat verbonden is met de nieuwe school of het CLB dat verbonden is aan de oude school brengt het CLB dat verbonden is met de nieuwe school op de hoogte van het handelingsgericht advies. In het belang van de optimale begeleiding van de betrokken leerling en de organisatie van de school kunnen ouders zich tegen die overdrachten niet verzetten;<br>
 5° het schoolbestuur van de onderwijsinstelling of de gemandateerde is verwerkingsverantwoordelijke voor de verwerkingen van de persoonsgegevens voor de looptijd dat deze bewaard dienen te worden;<br>
-6° het centrumbestuur of de gemandateerde van het CLB dat het verslag of gemotiveerd verslag, vermeld in punt 4°, heeft opgesteld is verwerkingsverantwoordelijke voor de verwerkingen door of ter voorbereiding van het verslag of gemotiveerd verslag. Het centrumbestuur of de gemandateerde van het overnemende CLB is verwerkingsverantwoordelijke voor de verwerkingen na ontvangst van het verslag of gemotiveerd verslag;<br>
+6° het centrumbestuur van het CLB dat het verslag of het handelingsgericht advies voor ondersteuning vanuit het ondersteuningsmodel, vermeld in punt 4°, heeft opgesteld, is verwerkingsverantwoordelijke voor de verwerkingen door of ter voorbereiding van het verslag of handelingsgericht advies voor ondersteuning vanuit het ondersteuningsmodel. Het centrumbestuur van het overnemende CLB is verwerkingsverantwoordelijke voor de verwerkingen na de ontvangst van het verslag of handelingsgericht advies voor ondersteuning vanuit het ondersteuningsmodel.<br>
 <br>
 Gegevens die betrekking hebben op schending van leefregels door de leerling zijn echter nooit tussen scholen overdraagbaar.<br>
 <br>
@@ -799,7 +763,7 @@ Scholen gelegen in een gemeente waar geen lokaal overlegplatform is opgericht, k
 Met toepassing van artikel 23, lid 1, i), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) wordt, in de gevallen waarin volledige inzage afbreuk zou doen aan de rechten van derden, inzage in de gegevens verleend in de vorm van een gesprek, gedeeltelijke inzage of rapportage;<br>
 8° informatie over extra-murosactiviteiten.<br>
 9° de vermelding dat bij schoolverandering leerlingengegevens worden overgedragen naar de nieuwe school tenzij, en voor zover de regelgeving de overdracht niet verplicht stelt, de ouders er zich expliciet tegen verzetten na op hun verzoek deze gegevens te hebben ingezien;<br>
-10° de mededeling dat de school bij schoolverandering binnen het basisonderwijs verplicht is een kopie van het gemotiveerd verslag, vermeld in artikel 16 van dit decreet, en een kopie van het verslag, vermeld in artikel 15 van dit decreet, over te dragen aan de nieuwe school;<br>
+10° de mededeling dat de school bij schoolverandering binnen het basisonderwijs verplicht is het bestaan van een handelingsgericht advies voor ondersteuning vanuit het ondersteuningsmodel of een kopie van het verslag, vermeld in artikel 15 van dit decreet, bekend te maken of over te dragen aan de nieuwe school;<br>
 11° de contactgegevens van het centrum voor leerlingenbegeleiding waarmee de school samenwerkt, en de concrete afspraken over de dienstverlening tussen de school en het centrum voor leerlingenbegeleiding;<br>
 12° een korte beschrijving van het beleid op leerlingenbegeleiding, waarmee de school haar visie en werking in verband met leerlingenbegeleiding verduidelijkt.<br>
 13° richtlijnen over aanwezigheden, in het bijzonder voor de leerplichtige kleuters, en te laat komen.<br>
@@ -822,7 +786,7 @@ Scholen gelegen in een gemeente waar geen lokaal overlegplatform is opgericht, k
 Met toepassing van artikel 23, lid 1, i), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) wordt, in de gevallen waarin volledige inzage afbreuk zou doen aan de rechten van derden, inzage in de gegevens verleend in de vorm van een gesprek, gedeeltelijke inzage of rapportage;<br>
 12° informatie over extra-murosactiviteiten.<br>
 13° de vermelding dat bij schoolverandering leerlingengegevens worden overgedragen naar de nieuwe school tenzij, en voor zover de regelgeving de overdracht niet verplicht stelt, de ouders er zich expliciet tegen verzetten na op hun verzoek deze gegevens te hebben ingezien;<br>
-14° de mededeling dat de school bij schoolverandering binnen het basisonderwijs verplicht is een kopie van het gemotiveerd verslag, vermeld in artikel 16 van dit decreet, en een kopie van het verslag, vermeld in artikel 15 van dit decreet, over te dragen aan de nieuwe school;<br>
+14° de mededeling dat de school bij schoolverandering binnen het basisonderwijs verplicht is het bestaan van een handelingsgericht advies voor ondersteuning vanuit het ondersteuningsmodel en een kopie van het verslag, vermeld in artikel 15 van dit decreet, bekend te maken of over te dragen aan de nieuwe school;<br>
 15° eventuele beroepsprocedures buiten de verplichte beroepsprocedures zoals vermeld in punt 1° en punt 2°;<br>
 16° de contactgegevens van het centrum voor leerlingenbegeleiding waarmee de school samenwerkt, en de concrete afspraken over de dienstverlening tussen de school en het centrum voor leerlingenbegeleiding;<br>
 17° een korte beschrijving van het beleid op leerlingenbegeleiding, waarmee de school haar visie en werking in verband met leerlingenbegeleiding verduidelijkt.<br>
@@ -843,7 +807,23 @@ Het beroep als vermeld in artikel 37/1 dat behandeld wordt door de   beroepscomm
 
 ### ART. 37/3.
 
-§ 1. De beroepscommissie wordt opgericht door het schoolbestuur.<BR><BR>§   2. Het schoolbestuur bepaalt de samenstelling van de beroepscommissie, met   inachtneming van volgende bepalingen:<BR>1° de samenstelling kan per te   behandelen dossier verschillen, doch kan binnen het te behandelen dossier niet   wijzigen;<BR>2° de samenstelling is als volgt: enerzijds "interne leden", zijnde   leden van de klassenraad die besliste het getuigschrift basisonderwijs niet toe   te kennen, waaronder alleszins de directeur of zijn afgevaardigde, eventueel   aangevuld met een lid van het schoolbestuur; anderzijds "externe leden", zijnde   personen die extern zijn aan dat schoolbestuur en aan de school die besliste het   getuigschrift basisonderwijs niet uit te reiken.<BR>In voorkomend geval en voor   de toepassing van deze bepalingen:<BR>a) wordt een persoon die vanuit zijn   hoedanigheden zowel een intern lid als een extern lid is, geacht een intern lid   te zijn;<BR>b) wordt een lid van de ouderraad of, met uitzondering van het   personeel, de schoolraad van de school die besliste het getuigschrift   basisonderwijs niet toe te kennen, geacht een extern lid te zijn, tenzij de   bepaling vermeld in punt a) van toepassing is;<BR>3° de voorzitter wordt door   het schoolbestuur onder de externe leden aangeduid.<BR><BR>§ 3. Het   schoolbestuur bepaalt de werking, met inbegrip van de stemprocedure, van de   beroepscommissie, met inachtneming van volgende bepalingen:<BR>1° elk lid van   een beroepscommissie is in beginsel stemgerechtigd, met dien verstande dat bij   stemming het aantal stemgerechtigde interne leden van de beroepscommissie en het   aantal stemgerechtigde externe leden van de beroepscommissie gelijk moet zijn;   bij staking van stemmen is de stem van de voorzitter doorslaggevend;<BR>2° elk   lid van een beroepscommissie is aan discretieplicht onderworpen;<BR>3° een   beroepscommissie hoort de ouders in kwestie;<BR>4° een beroepscommissie beslist   autonoom over de stappen die worden gezet om tot een gefundeerde beslissing te   komen, waaronder eventueel het horen van een of meer leden van de klassenraad   die het getuigschrift basisonderwijs niet toegekend heeft;<BR>5° de werking van   een beroepscommissie kan geen afbreuk doen aan de statutaire rechten van   individuele personeelsleden van het onderwijs;<BR>6° een beroepscommissie   oordeelt of de genomen beslissing alleszins in overeenstemming is met de   reglementaire onderwijsbepalingen en met het schoolreglement.
+§ 1. De beroepscommissie wordt opgericht door het schoolbestuur.<br>
+<br>
+§ 2. Het schoolbestuur of zijn afgevaardige bepaalt de samenstelling van de beroepscommissie, met inachtneming van volgende bepalingen:<br>
+1° de samenstelling kan per te behandelen dossier verschillen, doch kan binnen het te behandelen dossier niet wijzigen;<br>
+2° de samenstelling is als volgt: enerzijds "interne leden", zijnde leden van de klassenraad die besliste het getuigschrift basisonderwijs niet toe te kennen, waaronder alleszins de directeur of zijn afgevaardigde, eventueel aangevuld met een lid van het schoolbestuur; anderzijds "externe leden", zijnde personen die extern zijn aan dat schoolbestuur en aan de school die besliste het getuigschrift basisonderwijs niet uit te reiken.<br>
+In voorkomend geval en voor de toepassing van deze bepalingen:<br>
+a) wordt een persoon die vanuit zijn hoedanigheden zowel een intern lid als een extern lid is, geacht een intern lid te zijn;<br>
+b) wordt een lid van de ouderraad of, met uitzondering van het personeel, de schoolraad van de school die besliste het getuigschrift basisonderwijs niet toe te kennen, geacht een extern lid te zijn, tenzij de bepaling vermeld in punt a) van toepassing is;<br>
+3° de voorzitter wordt door het schoolbestuur onder de externe leden aangeduid.<br>
+<br>
+§ 3. Het schoolbestuur bepaalt de werking, met inbegrip van de stemprocedure, van de beroepscommissie, met inachtneming van volgende bepalingen:<br>
+1° elk lid van een beroepscommissie is in beginsel stemgerechtigd, met dien verstande dat bij stemming het aantal stemgerechtigde interne leden van de beroepscommissie en het aantal stemgerechtigde externe leden van de beroepscommissie gelijk moet zijn; bij staking van stemmen is de stem van de voorzitter doorslaggevend;<br>
+2° elk lid van een beroepscommissie is aan discretieplicht onderworpen;<br>
+3° een beroepscommissie hoort de ouders in kwestie;<br>
+4° een beroepscommissie beslist autonoom over de stappen die worden gezet om tot een gefundeerde beslissing te komen, waaronder eventueel het horen van een of meer leden van de klassenraad die het getuigschrift basisonderwijs niet toegekend heeft;<br>
+5° de werking van een beroepscommissie kan geen afbreuk doen aan de statutaire rechten van individuele personeelsleden van het onderwijs;<br>
+6° een beroepscommissie oordeelt of de genomen beslissing alleszins in overeenstemming is met de reglementaire onderwijsbepalingen en met het schoolreglement.
 
 ## [Onderafdeling F Beroepsmogelijkheid tegen definitieve uitsluiting (ing. decr. 4 april 2014, art. II.11, I: 1 september 2014)]
 
@@ -853,7 +833,15 @@ Het beroep als vermeld in artikel 37/1 dat behandeld wordt door de   beroepscomm
 
 ### ART. 37/5.
 
-§ 1. De beroepscommissie wordt opgericht door het schoolbestuur.<BR><BR>§   2. Het schoolbestuur bepaalt de samenstelling van de beroepscommissie, met   inachtneming van volgende bepalingen:<BR>1° de samenstelling van de   beroepscommissie kan per te behandelen dossier verschillen, doch kan binnen het   te behandelen dossier niet wijzigen;<BR>2° de samenstelling is als volgt:   enerzijds "interne leden", zijnde leden intern aan het schoolbestuur of aan de   school waar de betwiste beslissing tot definitieve uitsluiting is genomen, met   uitzondering van de directeur of zijn afgevaardigde die de beslissing heeft   genomen; anderzijds "externe leden", zijnde personen die extern zijn aan het   schoolbestuur en aan de school waar de betwiste beslissing tot definitieve   uitsluiting is genomen.<BR>In voorkomend geval en voor de toepassing van deze   bepalingen:<BR>a) wordt een persoon die vanuit zijn hoedanigheden zowel een   intern lid als een extern lid is, geacht een intern lid te zijn;<BR>b) wordt een   lid van de ouderraad of, met uitzondering van het personeel, de schoolraad van   de school waar de betwiste beslissing tot definitieve uitsluiting is genomen,   geacht een extern lid te zijn, tenzij de bepaling vermeld in punt a) van   toepassing is;<BR>3° de voorzitter wordt door het schoolbestuur onder de externe   personen aangeduid.
+§ 1. De beroepscommissie wordt opgericht door het schoolbestuur.<br>
+<br>
+§ 2. Het schoolbestuur of zijn afgevaardigde bepaalt de samenstelling van de beroepscommissie, met inachtneming van volgende bepalingen:<br>
+1° de samenstelling van de beroepscommissie kan per te behandelen dossier verschillen, doch kan binnen het te behandelen dossier niet wijzigen;<br>
+2° de samenstelling is als volgt: enerzijds "interne leden", zijnde leden intern aan het schoolbestuur of aan de school waar de betwiste beslissing tot definitieve uitsluiting is genomen, met uitzondering van de directeur of zijn afgevaardigde die de beslissing heeft genomen; anderzijds "externe leden", zijnde personen die extern zijn aan het schoolbestuur en aan de school waar de betwiste beslissing tot definitieve uitsluiting is genomen.<br>
+In voorkomend geval en voor de toepassing van deze bepalingen:<br>
+a) wordt een persoon die vanuit zijn hoedanigheden zowel een intern lid als een extern lid is, geacht een intern lid te zijn;<br>
+b) wordt een lid van de ouderraad of, met uitzondering van het personeel, de schoolraad van de school waar de betwiste beslissing tot definitieve uitsluiting is genomen, geacht een extern lid te zijn, tenzij de bepaling vermeld in punt a) van toepassing is;<br>
+3° de voorzitter wordt door het schoolbestuur onder de externe personen aangeduid.
 
 ### ART. 37/6.
 
@@ -1304,6 +1292,8 @@ In afwijking van het eerste lid kunnen een schoolbestuur, verschillende schoolbe
 <br>
 In afwijking van het eerste lid kunnen een schoolbestuur, verschillende schoolbesturen samen of het LOP uiterlijk op 15 november 2020 een voorstel van aanmeldingsprocedure voor de inschrijvingen voor het schooljaar 2021-2022 aan de CLR voorleggen.<br>
 <br>
+In afwijking van het eerste lid kunnen een schoolbestuur, verschillende schoolbesturen samen of het LOP uiterlijk op 15 november 2021 een voorstel van aanmeldingsprocedure voor de inschrijvingen voor het schooljaar 2022-2023 aan de CLR voorleggen.<br>
+<br>
 § 2. Het dossier daartoe bevat minstens de volgende onderdelen :<br>
 1° de start en de duur van de aanmeldingsperiode of alle deelperiodes en de motivering ervan, overeenkomstig artikel 37undevicies;<br>
 2° het middel of de middelen tot aanmelden;<br>
@@ -1346,7 +1336,7 @@ c) de mededeling van de niet-gerealiseerde inschrijvingen.<br>
 1° een aangepast voorstel van aanmeldingsprocedure indienen bij de CLR. In dat geval toetst de CLR het voorstel overeenkomstig artikel 37vicies quinquies, § 3. De CLR neemt over het aangepaste voorstel van aanmeldingsprocedure een besluit uiterlijk dertig kalenderdagen volgend op de dag van de indiening ervan;<br>
 2° het voorstel van aanmeldingsprocedure, vermeld in artikel 37vicies quinquies voorleggen aan de Vlaamse Regering. In dat geval toetst de Vlaamse Regering het voorstel overeenkomstig artikel 37vicies quinquies, § 3. De Vlaamse Regering neemt over het voorstel van aanmeldingsprocedure een besluit uiterlijk dertig kalenderdagen volgend op de dag van de indiening ervan. De Vlaamse Regering bepaalt de nadere regelen inzake het verloop van de procedure.<br>
 <br>
-In afwijking van het eerste lid, kan het betrokken schoolbestuur, de meerdere betrokken schoolbesturen samen of het betrokken LOP, uiterlijk op 31 januari 2021 de initiatieven nemen zoals bepaald in het eerste lid, 1° en 2°.<br>
+In afwijking van het eerste lid, kan het betrokken schoolbestuur, de meerdere betrokken schoolbesturen samen of het betrokken LOP, uiterlijk op 31 januari 2022 de initiatieven nemen zoals bepaald in het eerste lid, 1° en 2°.<br>
 <br>
 § 2. Bij een negatief besluit, van de CLR over het, overeenkomstig paragraaf 1, 1°, voorgelegde aangepast voorstel van aanmeldingsprocedure, kan het betrokken schoolbestuur, de meerdere betrokken schoolbesturen samen of het betrokken LOP uiterlijk dertig kalenderdagen na ontvangst van het negatief besluit het aangepast voorstel van aanmeldingsprocedure of het voorstel van aanmeldingsprocedure, vermeld in artikel 37vicies quinquies, voorleggen aan de Vlaamse Regering. In dat geval toetst de Vlaamse Regering het voorstel overeenkomstig artikel 37vicies quinquies, § 3.<br>
 <br>
@@ -1466,7 +1456,7 @@ Voor de kwaliteitscontrole in functie van de erkenning en de doorlichting, zoals
 <br>
 § 2. De ontwikkelingsdoelen en eindtermen worden geformuleerd in functie van volgende sleutelcompetenties:<br>
 1. competenties op het vlak van lichamelijk, geestelijk en emotioneel bewustzijn en op vlak van lichamelijke, geestelijke en emotionele gezondheid;<br>
-2. competenties in het Nederlands;<br>
+2. competenties in het Nederlands en, voor die scholen waar onderwijs door middel van Vlaamse Gebarentaal wordt gegeven, bijkomend ook competenties in de Vlaamse Gebarentaal;<br>
 3. competenties in andere talen;<br>
 4. digitale competentie en mediawijsheid;<br>
 5. sociaal-relationele competenties;<br>
@@ -1553,7 +1543,14 @@ Met in achtneming van de door de regering opgelegde of gelijkwaardig   verklaard
 
 ### ART. 47.
 
-§ 1. Ieder schoolbestuur maakt voor elk van zijn scholen een schoolwerkplan dat ten minste volgen-de elementen bevat:<br />1° de omschrijving van het pedagogisch project zijnde het geheel van fundamentele uitgangspunten dat door het schoolbestuur voor de school wordt vastgelegd;<br />2° de organisatie van de school en voornamelijk de indeling in leerlingengroepen;<br />3° de wijze waarop het leerproces van de leerlingen wordt beoordeeld en hoe daarover wordt gerapporteerd;<br />4° de voorzieningen in het gewoon onderwijs voor leerlingen met een handicap of die leerbedreigd zijn, inclusief de samenwerkingsvormen met andere scholen van gewoon en/of buitengewoon onderwijs;<br />5° de wijze waarop de school via haar zorg- en gelijke onderwijskansenbeleid werkt aan de optimale leer- en ontwikkelingskansen van al haar leerlingen.<br /><br />§ 2. Tijdens de schooldoorlichting neemt de onderwijsinspectie kennis van het schoolwerkplan zonder de inhoud ervan te beoordelen.
+§ 1. Ieder schoolbestuur maakt voor elk van zijn scholen een schoolwerkplan dat ten minste volgen-de elementen bevat:<br>
+1° de omschrijving van het pedagogisch project zijnde het geheel van fundamentele uitgangspunten dat door het schoolbestuur voor de school wordt vastgelegd;<br>
+2° de organisatie van de school en voornamelijk de indeling in leerlingengroepen;<br>
+3° de wijze waarop het leerproces van de leerlingen wordt beoordeeld en hoe daarover wordt gerapporteerd;<br>
+4° de voorzieningen in het gewoon onderwijs voor leerlingen met een handicap of die leerbedreigd zijn, inclusief de samenwerkingsvormen met andere scholen van gewoon en/of buitengewoon onderwijs;<br>
+5° de wijze waarop de school via haar zorgbeleid, zoals bepaald in artikel 153septies, § 1, en haar gelijke onderwijskansenbeleid, zoals bepaald in artikel 153septies, § 2, werkt aan de optimale leeren ontwikkelingskansen van al haar leerlingen.<br>
+<br>
+§2. Tijdens de schooldoorlichting neemt de onderwijsinspectie kennis van het schoolwerkplan zonder de inhoud ervan te beoordelen, onverminderd de bevoegdheid van de onderwijsinspectie, conform artikel 38, § 1, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, om ook met betrekking tot de in het schoolwerkplan opgenomen thema's na te gaan of de onderwijsreglementering gerespecteerd wordt en of aan de kwaliteitsverwachtingen, opgenomen in het referentiekader onderwijskwaliteit, tegemoet gekomen wordt.
 
 ## [AFDELING 3bis LEERLINGENBEGELEIDING (ing. decr. 27 april 2018, art. 102, I: 1 september 2018)]
 
@@ -1576,7 +1573,7 @@ Voor het begeleidingsdomein preventieve gezondheidszorg omvat dat voor de school
 
 ### ART 47ter.
 
-De school ontwikkelt een beleid op leerlingenbegeleiding dat is afgestemd op het pedagogisch project, de noden van de leerlingenpopulatie en de context waarin de school zich bevindt. Het zorg- en GOK-beleid, zoals omschreven in het schoolwerkplan, wordt erin geïntegreerd. Het beleid op leerlingenbegeleiding omvat de begeleiding van de leerlingen, het ondersteunen van het handelen van het onderwijzend personeel en de coördinatie van alle leerlingbegeleidingsinitiatieven op niveau van de school. De school implementeert, evalueert en stuurt, zo nodig, dat beleid bij. Ter versterking van dat beleid voert de school een professionaliseringsbeleid.<br>
+De school ontwikkelt een beleid op leerlingenbegeleiding dat is afgestemd op het pedagogisch project, de noden van de leerlingenpopulatie en de context waarin de school zich bevindt. Het zorg- en gelijke onderwijskansenbeleid, zoals omschreven in het schoolwerkplan, wordt erin geïntegreerd. Het beleid op leerlingenbegeleiding omvat de begeleiding van de leerlingen, het ondersteunen van het handelen van het onderwijzend personeel en de coördinatie van alle leerlingbegeleidingsinitiatieven op niveau van de school. De school implementeert, evalueert en stuurt, zo nodig, dat beleid bij. Ter versterking van dat beleid voert de school een professionaliseringsbeleid.<br>
 <br>
 Bij de opmaak en evaluatie van het beleid op leerlingenbegeleiding betrekt de school relevante actoren. Voor bijkomende inhoudelijke expertise doet de school een beroep op het centrum voor leerlingenbegeleiding. Voor schoolondersteuning zoekt de school externe ondersteuning bij de pedagogische begeleidingsdienst of een andere externe dienst.<br>
 <br>
@@ -1666,7 +1663,7 @@ Leerlingen in het gewoon en het buitengewoon lager onderwijs die het getuigschri
 
 ### ART. 55.
 
-De beslissing omtrent het toekennen van het getuigschrift&nbsp;wordt uiterlijk op 30 juni aan de ouders meegedeeld. De ouders worden geacht die beslissing uiterlijk op 1 juli in ontvangst te hebben genomen. Indien de ouders niet akkoord gaan met de genomen beslissing volgt er, op vraag van de ouders, een overleg met de directeur en zijn afgevaardigde, binnen een termijn vastgelegd in het schoolreglement. De school kan dit overleg niet weigeren. Van het overleg wordt een schriftelijke neerslag gemaakt. Dit overleg kan ertoe leiden dat de directeur of zijn afgevaardigde beslist om de klassenraad opnieuw te laten samenkomen om het niet toekennen van het getuigschrift basisonderwijs te bevestigen of te wijzigen. De ouders nemen de beslissing om de klassenraad niet opnieuw te laten samenkomen, dan wel de beslissing van de klassenraad die opnieuw is samengekomen schriftelijk in ontvangst. Bij het niet in ontvangst nemen van deze beslissing door de ouders op de voorziene datum wordt ze toch geacht te zijn ontvangen op de voorziene ontvangstdatum. Indien de ouders niet akkoord gaan met de beslissing, wijst de school de ouders schriftelijk op de mogelijkheid tot beroep zoals bepaald in hoofdstuk IV, afdeling 2, onderafdeling E.
+De beslissing omtrent het toekennen van het getuigschrift&nbsp;wordt uiterlijk op 30 juni aan de ouders meegedeeld. De ouders worden geacht die beslissing uiterlijk op 1 juli in ontvangst te hebben genomen. Indien de ouders niet akkoord gaan met de genomen beslissing volgt er, op vraag van de ouders, een overleg met de directeur of zijn afgevaardigde, binnen een termijn vastgelegd in het schoolreglement. De school kan dit overleg niet weigeren. Van het overleg wordt een schriftelijke neerslag gemaakt. Dit overleg kan ertoe leiden dat de directeur of zijn afgevaardigde beslist om de klassenraad opnieuw te laten samenkomen om het niet toekennen van het getuigschrift basisonderwijs te bevestigen of te wijzigen. De ouders nemen de beslissing om de klassenraad niet opnieuw te laten samenkomen, dan wel de beslissing van de klassenraad die opnieuw is samengekomen schriftelijk in ontvangst. Bij het niet in ontvangst nemen van deze beslissing door de ouders op de voorziene datum wordt ze toch geacht te zijn ontvangen op de voorziene ontvangstdatum. Indien de ouders niet akkoord gaan met de beslissing, wijst de school de ouders schriftelijk op de mogelijkheid tot beroep zoals bepaald in hoofdstuk IV, afdeling 2, onderafdeling E.
 
 ### ART. 56.
 
@@ -1783,6 +1780,12 @@ Voor de scholen en vestigingsplaatsen die aan de in artikel 68 bepaalde voorwaar
 <br>
 § 3. [... (opgeh. decr. 13 juli 2001, art. XI. 5, I: 1 maart 2001) ]
 
+### ART 67/1.
+
+§ 1. Ter uitvoering van de acties vervat in het speerpunt 1: een toekomstgerichte en veilige ICT-infrastructuur, speerpunt 2: een sterk ondersteunend en doeltreffend ICT-schoolbeleid, speerpunt 3: ICT-competente leerkrachten en lerarenopleiders en aangepaste digitale leermiddelen en speerpunt 4: een kennisen adviescentrum Digisprong ten dienste van het onderwijsveld binnen de maatregel VV 15 van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Digisprong. Van achterstand naar voorsprong, goedgekeurd op de ministerraad van de Vlaamse Regering van 11 december 2020 (VR 2020 1112 DOC.1425/2QUATER), kan de Vlaamse Regering voor de schooljaren 2021-2022 en 2022-2023 binnen de perken van de beschikbare deelenveloppe van 375 miljoen euro binnen de relanceprovisie bijkomende werkingsbudgetten, investeringsmiddelen of omkadering toekennen aan de scholen of scholengemeenschappen in het gewoon en buitengewoon basisonderwijs of, wat speerpunten 3 en 4 betreft middelen toekennen ter ondersteuning van deze scholen. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.<br>
+<br>
+§ 2. Ter uitvoering van de acties vervat in het speerpunt 1: van achterstand naar voorsprong, speerpunt 2: versterking van leraren, lerarenopleiders en schoolleiders en speerpunt 3: bevorderen van het mentaal welzijn van leerlingen, scholieren en studenten binnen de maatregel VV 17 van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Van kwetsbaar naar weerbaar, goedgekeurd op de ministerraad van de Vlaamse Regering van 7 mei 2021 (VR 2021 0705 VV DOC.0055-1 en 2), kan de Vlaamse Regering voor de schooljaren 20212022 en 2022-2023 binnen de perken van de beschikbare deelenveloppe van 90 miljoen euro binnen de relanceprovisie, desgevallend aangevuld met middelen uitde provisie versterking onderwijs en/of de AGODI-provisie, bijkomende werkingsbudgetten, investeringsmiddelen of omkadering toekennen aan de scholen of scholengemeenschappen in het gewoon en buitengewoon basisonderwijs. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.
+
 ## ONDERAFDELING A FINANCIERINGS- EN SUBSIDIERINGSVOORWAARDEN
 
 ### ART. 68.
@@ -1854,7 +1857,11 @@ De regering bepaalt de bekwaamheidsbewijzen die toegang verlenen tot een onderwi
 
 ### ART. 76.
 
-Ieder schooljaar krijgen de schoolbesturen een werkingsbudget voor de werking, de uitrusting, het groot onderhoud van hun scholen, voor het werken aan rationeel energiegebruik in hun scholen en om tegemoet te komen aan de kosteloosheid vermeld in artikel 27 en aan de maximumfacturen vermeld in artikel 27bis.<br /><br />Bij de aanwending van het werkingsbudget moet ieder schoolbestuur rekening houden met een gelijke behandeling van al zijn gefinancierde of gesubsidieerde scholen en van al zijn leerlingen.
+Ieder schooljaar krijgen de schoolbesturen een werkingsbudget voor de werking, de uitrusting, het groot onderhoud van hun scholen, voor het werken aan rationeel energiegebruik in hun scholen en om tegemoet te komen aan de kosteloosheid vermeld in artikel 27 en aan de maximumfacturen vermeld in artikel 27bis.<br>
+<br>
+Bij de aanwending van het werkingsbudget moet ieder schoolbestuur rekening houden met een gelijke behandeling van al zijn gefinancierde of gesubsidieerde scholen en van al zijn leerlingen.<br>
+<br>
+Het werkingsbudget op basis van de leerlingenkenmerken, zoals vermeld in artikel 78, § 1, kan enkel worden aangewend in het kader van een gelijke onderwijskansenbeleid, zoals bepaald in artikel 153septies, § 2.
 
 ### ART 76bis.
 
@@ -2007,22 +2014,22 @@ Het werkingsbudget per school wordt voor een deel berekend op basis van schoolke
 
 § 1. Per school wordt het totaal aantal punten berekend door het aantal leerlingen, geteld overeenkomstig artikel 87, te vermenigvuldigen met hun puntengewicht voor schoolkenmerk 1 en 2.<br>
 <br>
-§ 2. Het werkingsbudget per school is de som van :<br>
+§ 2. Onverminderd de bepalingen in artikel 39, § 7, 2°, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs is het werkingsbudget per school de som van:<br>
 1° het resultaat van de vermenigvuldiging van het totale aantal punten per school met de GPP_SchK, zoals bepaald in artikel 81, 3°;<br>
 2° het bedrag, verkregen door het resultaat de van volgende vermenigvuldigingen :<br>
 a) B_ClliOplx ClliOpl_school;<!--[if gte mso 9]><xml> <o:DocumentProperties>  <o:Author>decockge</o:Author>  <o:Template>Normal</o:Template>  <o:LastAuthor>decockge</o:LastAuthor>  <o:Revision>1</o:Revision>  <o:TotalTime>0</o:TotalTime>  <o:Created>2008-10-20T07:32:00Z</o:Created>  <o:LastSaved>2008-10-20T07:32:00Z</o:LastSaved>  <o:Pages>1</o:Pages>  <o:Words>17</o:Words>  <o:Characters>99</o:Characters>  <o:Company>MVG</o:Company>  <o:Lines>1</o:Lines>  <o:Paragraphs>1</o:Paragraphs>  <o:CharactersWithSpaces>115</o:CharactersWithSpaces>  <o:Version>11.8132</o:Version> </o:DocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml> <w:WordDocument>  <w:SpellingState>Clean</w:SpellingState>  <w:GrammarState>Clean</w:GrammarState>  <w:HyphenationZone>21</w:HyphenationZone>  <w:PunctuationKerning></w:PunctuationKerning>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>  <w:Compatibility>   <w:BreakWrappedTables></w:BreakWrappedTables>   <w:SnapToGridInCell></w:SnapToGridInCell>   <w:WrapTextWithPunct></w:WrapTextWithPunct>   <w:UseAsianBreakRules></w:UseAsianBreakRules>   <w:DontGrowAutofit></w:DontGrowAutofit>  </w:Compatibility>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> </w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;> </w:LatentStyles></xml><![endif]--><!--[if gte mso 10]><style> /* Style Definitions */ table.MsoNormalTable	&lftaco;mso-style-name:Standaardtabel;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-parent:"e;"e;;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:"e;Times New Roman"e;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;table.MsoTableGrid	&lftaco;mso-style-name:Tabelraster;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	border:solid windowtext 1.0pt;	mso-border-alt:solid windowtext .5pt;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-border-insideh:.5pt solid windowtext;	mso-border-insidev:.5pt solid windowtext;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:"e;Times New Roman"e;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;</style><![endif]--><!--[if gte mso 9]><xml> <o:shapedefaults v:ext="e;edit"e; spidmax="e;2050"e;></o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml> <o:shapelayout v:ext="e;edit"e;>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap> </o:shapelayout></xml><![endif]-->
 <div>
-<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;" border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border-image:none; border:currentColor; mso-border-alt:solid windowtext .5pt; mso-border-insideh:.5pt solid windowtext; mso-border-insidev:.5pt solid windowtext; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-yfti-tbllook:480">
 	<tbody>
 		<tr>
-			<td style="width: 230.4pt;">
-			<p><span style="font-size: 8pt;">a) B_Clli<sub>Opl</sub>x Clli<sub>Opl</sub>_school;</span></p>
+			<td style="width:230.4pt">
+			<p><span style="font-size:8pt">a) B_Clli<sub>Opl</sub>x Clli<sub>Opl</sub>_school;</span></p>
 
-			<p><span style="font-size: 8pt;">b) B_Clli<sub>St</sub>x Clli<sub>St</sub>_school;</span></p>
+			<p><span style="font-size:8pt">b) B_Clli<sub>St</sub>x Clli<sub>St</sub>_school;</span></p>
 
-			<p><span style="font-size: 8pt;">c) B_Clli<sub>Ta</sub>x Clli<sub>Ta</sub>_school;</span></p>
+			<p><span style="font-size:8pt">c) B_Clli<sub>Ta</sub>x Clli<sub>Ta</sub>_school;</span></p>
 
-			<p><span style="font-size: 8pt;">d) B_Clli<sub>Bu</sub>x Clli<sub>Bu</sub>_school;</span></p>
+			<p><span style="font-size:8pt">d) B_Clli<sub>Bu</sub>x Clli<sub>Bu</sub>_school;</span></p>
 			</td>
 		</tr>
 	</tbody>
@@ -2264,6 +2271,14 @@ Aan scholen voor buitengewoon basisonderwijs die actief zijn in het ondersteunin
 
 ## [6° EXTRA WERKINGSBUDGET VOOR BELEIDSONDERSTEUNING (ing. Decr. 25 februari 2022, art. 2, I: 1 september 2021)]
 
+### ART 87quater.
+
+§ 1. Voor het schooljaar 2021-2022 wordt een extra werkingsbudget van 7.692.000 euro toegekend aan scholen van het gewoon en buitengewoon basisonderwijs, exclusief type 5. Ten laste van dit werkingsbudget moet personeel worden aangeworven voor beleidsondersteuning of administratieve ondersteuning conform artikel 154, § 2.<br>
+<br>
+§ 2. Het extra werkingsbudget per school wordt berekend door het aantal regelmatige leerlingen, dat de school telt op de eerste schooldag van februari 2021, te vermenigvuldigen met 10,53 euro.<br>
+<br>
+Het werkingsbudget wordt aan de schoolbesturen uiterlijk vóór 1 februari 2022 uitbetaald.
+
 ## ONDERAFDELING E DE INVESTERINGSMIDDELEN
 
 ### ART. 88.
@@ -2484,6 +2499,18 @@ De regering neemt deze beslissing na advies van de Vlaamse Onderwijsraad over de
 <br>
 De oprichting van type 9 in het schooljaar 2015-2016 wordt niet beschouwd als een herstructurering.
 
+### ART 111/1.
+
+In afwijking van artikel 111, §3, kan een schoolbestuur dat voor de programmatie van een nieuw type of een nieuwe school een goedkeuring kreeg van de Vlaamse Regering met het oog op de start van het nieuwe aanbod op 1 september 2021 ervoor opteren om de programmatie van dit nieuwe aanbod met 1 schooljaar uit te stellen zonder bijkomende aanvraag of goedkeuring.
+
+### ART 111/2.
+
+In afwijking van artikel 103, § 1, § 1bis en § 2, mag een schoolbestuur dat voor de programmatie van een nieuwe school een goedkeuring kreeg van de Vlaamse Regering met het oog op de start van het nieuwe aanbod op 1 september 2021, zonder bijkomende aanvraag of goedkeuring een tweede maal het bijkomende aanbod inrichten vanaf 1 september 2022, indien de school de programmatienormen voor dit nieuwe aanbod niet haalt op de eerste schooldag van oktober 2021. Vanaf de eerste schooldag van oktober 2022 moet de school gedurende drie opeenvolgende schooljaren de programmatienormen voor dit nieuwe aanbod bereiken op de eerste schooldag van oktober.
+
+### ART 111/3.
+
+In afwijking van de artikelen 101, § 2 en 111, § 1 en § 2, telt een type dat wordt opgericht op 1 september 2021 na een goedkeuring van de Vlaamse Regering niet mee voor het behalen van de rationalisatienormen op de eerste schooldag van oktober 2021. De school, inclusief het nieuw opgerichte type, moet aan de rationalisatienormen voldoen op de eerste schooldag van februari 2022.
+
 ## [ONDERAFDELING D OPRICHTEN VAN EEN TYPE DOOR OMVORMING (ing. Decr. 22 juni 2007, art. II.20, I: 1 september 2008)]
 
 ### ART. 112.
@@ -2703,37 +2730,68 @@ De scholengemeenschap kan het initiatief nemen om afspraken te maken omtrent de 
 
 ### ART. 125duodecies1.
 
-§ 1. De scholengemeenschap ontvangt jaarlijks een door de regering vastgelegde puntenenveloppe voor het voeren van een zorgbeleid. Deze puntenenveloppe kan enkel voor dit doel, zoals omschreven in artikel 153septies, aangewend worden.<br>
+§1. De scholengemeenschap ontvangt jaarlijks een puntenenveloppe voor het voeren van een zorgbeleid.<br>
 <br>
 Er wordt een percentage vastgelegd dat scholengemeenschappen waar gewoon basisonderwijs deel van uitmaakt, moeten gebruiken voor leerlingondersteuning in de klas in de scholen van het gewoon basisonderwijs. Dat percentage bedraagt voor het schooljaar 2020-2021 minstens 20%. Dit percentage stijgt naar 25% in het schooljaar 2021-2022, 30% in het schooljaar 2022-2023 en 35% in het schooljaar 2023-2024. Deze leerlingondersteuning kadert in de toepassing van artikel 47bis, derde lid, en artikel 153septies, § 1, 3°, van het decreet.<br>
 <br>
-Bij het vastleggen van de berekeningswijze van deze puntenenveloppe neemt de regering volgende principes in acht :<br>
-1° scholen die, op basis van artikel 125quinquies, toetreden tot een al bestaande scholengemeenschap, worden geacht deel uit te maken van de scholengemeenschap op de eerste schooldag van februari van het voorgaande schooljaar, voor de berekening van de puntenenveloppe voor het voeren van een zorgbeleid van de scholengemeenschap, op voorwaarde dat de school het schooljaar voor de toetreding tot de scholengemeenschap opgenomen was in de financierings- of subsidiëringsregeling en geen deel uitmaakte van een andere scholengemeenschap.<br>
-Scholen die op basis van artikel 125quinquies, § 4, toetreden tot een al bestaande scholengemeenschap, worden geacht deel uit te maken van de scholengemeenschap op de eerste schooldag van februari van het voorgaande schooljaar, voor de berekening van de puntenenveloppe voor het voeren van een zorgbeleid van die scholengemeenschap op voorwaarde dat de school het schooljaar voor de toetreding tot de scholengemeenschap deel uitmaakte van een scholengemeenschap die op 31 augustus van het schooljaar voor de toetreding van de school tot haar nieuwe scholengemeenschap ophoudt te bestaan.<br>
-Scholen die op basis van artikel 125quinquies een nieuwe scholengemeenschap vormen, worden geacht deel uit te maken van de scholengemeenschap op de eerste schooldag van februari van het schooljaar voorafgaand aan de start van de scholengemeenschap, voor de berekening van de puntenenveloppe voor het voeren van een zorgbeleid van die scholengemeenschap op voorwaarde dat de school het schooljaar voor de start van de scholengemeenschap geen deel uitmaakte van een andere scholengemeenschap en op voorwaarde dat de school het schooljaar voor de start van de scholengemeenschap opgenomen was in de financierings- of subsidiëringsregeling;<br>
-1°bis elke scholengemeenschap ontvangt per school voor gewoon basisonderwijs dat de scholengemeenschap telt op de eerste schooldag van februari van het voorgaande schooljaar een sokkel aan punten; Bij de start van een nieuwe zesjaarlijkse periode voor scholengemeenschappen, zoals bepaald in artikel 125quinquies, worden de scholen, die bij de start van de scholengemeenschap op 1 september deel uitmaken van de scholengemeenschap, geacht deel uit te maken van de scholengemeenschap op de eerste schooldag van februari van het voorgaande schooljaar, op voorwaarde dat de school het schooljaar voor de start van de scholengemeenschap opgenomen was in de financierings- of subsidiëringsregeling.<br>
-2° de overige punten worden lineair toegekend op basis van de leerlingenaantallen in het gewoon basisonderwijs en het aantal kleuters in het buitengewoon basisonderwijs binnen de scholengemeenschap.<br>
+De punten waar de scholengemeenschap overeenkomstig paragraaf 3, 4°, recht op heeft, dienen aangewend te worden voor taalintegratietrajecten in de scholen voor gewoon basisonderwijs zoals bedoeld in artikel 11quater, paragraaf De aanwending van deze middelen maakt deel uit van de aanwending conform het tweede lid.<br>
 <br>
-Voor de lineaire toekenning wordt er een puntengewicht vastgelegd voor :<br>
-a) kleuters in het gewoon basisonderwijs;<br>
-b) kleuters in het buitengewoon basisonderwijs;<br>
-c) leerlingen lager onderwijs in het gewoon basisonderwijs.<br>
+De overige punten uit de puntenenveloppe kunnen alleen voor het zorgbeleid, vermeld in artikel 153septies, gebruikt worden.<br>
 <br>
-§ 2. Bij het tellen van de leerlingen voor deze puntenenveloppe gelden de volgende regels :<br>
-1° in het gewoon basisonderwijs worden alleen de regelmatige leerlingen op de eerste schooldag van februari van het voorgaande schooljaar geteld; Bij de start van een nieuwe zesjaarlijkse periode voor scholengemeenschappen, zoals bepaald in artikel 125quinquies, worden de scholen, die bij de start van de scholengemeenschap op 1 september deel uitmaken van de scholengemeenschap, geacht deel uit te maken van de scholengemeenschap op de eerste schooldag van februari van het voorgaande schooljaar, op voorwaarde dat de school het schooljaar voor de start van de scholengemeenschap opgenomen was in de financierings- of subsidiëringsregeling.<br>
-2° in afwijking van 1° worden voor de CKG-scholen de leerlingen geteld op basis van het gemiddelde aantal regelmatige leerlingen tijdens de periode van twaalf maanden die voorafgaat aan de eerste schooldag van februari;<br>
-3° in het buitengewoon basisonderwijs worden alleen de regelmatige kleuters op de eerste schooldag van februari van het voorgaande schooljaar geteld; Bij de start van een nieuwe zesjaarlijkse periode voor scholengemeenschappen, zoals bepaald in artikel 125quinquies, worden de scholen, die bij de start van de scholengemeenschap op 1 september deel uitmaken van de scholengemeenschap, geacht deel uit te maken van de scholengemeenschap op de eerste schooldag van februari van het voorgaande schooljaar, op voorwaarde dat de school het schooljaar voor de start van de scholengemeenschap opgenomen was in de financierings- of subsidiëringsregeling.<br>
-4° in afwijking van punt 3°, worden in de scholen voor type 5 de kleuters geteld op basis van het gemiddeld aantal regelmatige leerlingen tijdens de periode van twaalf maanden die voorafgaat aan de eerste schooldag van februari.<br>
+§2. Bij het tellen van de leerlingen voor deze puntenenveloppe gelden de volgende regels:<br>
+1° in het gewoon basisonderwijs worden alleen de regelmatige leerlingen op de eerste schooldag van februari van het voorgaande schooljaar geteld;<br>
+2° in afwijking van punt 1° worden voor de CKG-scholen de leerlingen geteld op basis van het gemiddelde aantal regelmatige leerlingen tijdens de periode van twaalf maanden die voorafgaat aan de eerste schooldag van februari;<br>
+3° in het buitengewoon basisonderwijs worden alleen de regelmatige kleuters op de eerste schooldag van februari van het voorgaande schooljaar geteld;<br>
+4° in afwijking van punt 3°, worden in de scholen voor type 5 de kleuters geteld op basis van het gemiddeld aantal regelmatige leerlingen tijdens de periode van twaalf maanden die voorafgaat aan de eerste schooldag van februari;<br>
+5° scholen die, op basis van artikel 125quinquies, toetreden tot een al bestaande scholengemeenschap, worden geacht deel uit te maken van de scholengemeenschap op de eerste schooldag van februari van het voorgaande schooljaar, voor de berekening van de puntenenveloppe voor het voeren van een zorgbeleid van de scholengemeenschap, op voorwaarde dat de school het schooljaar voor de toetreding tot de scholengemeenschap opgenomen was in de financieringsof subsidiëringsregeling en geen deel uitmaakte van een andere scholengemeenschap;<br>
+6° scholen die op basis van artikel 125quinquies, toetreden tot een al bestaande scholengemeenschap, worden geacht deel uit te maken van de scholengemeenschap op de eerste schooldag van februari van het voorgaande schooljaar, voor de berekening van de puntenenveloppe voor het voeren van een zorgbeleid van die scholengemeenschap op voorwaarde dat de school het schooljaar voor de toetreding tot de scholengemeenschap deel uitmaakte van een scholengemeenschap die op 31 augustus van het schooljaar voor de toetreding van de school tot haar nieuwe scholengemeenschap ophoudt te bestaan;<br>
+7° scholen die op basis van artikel 125quinquies een nieuwe scholengemeenschap vormen, worden geacht deel uit te maken van de scholengemeenschap op de eerste schooldag van februari van het schooljaar voorafgaand aan de start van de scholengemeenschap, voor de berekening van de puntenenveloppe voor het voeren van een zorgbeleid van die scholengemeenschap op voorwaarde dat de school het schooljaar voor de start van de scholengemeenschap geen deel uitmaakte van een andere scholengemeenschap en op voorwaarde dat de school het schooljaar voor de start van de scholengemeenschap opgenomen was in de financieringsof subsidiëringsregeling;<br>
+8° bij de start van een nieuwe zesjaarlijkse periode voor scholengemeenschappen, zoals bepaald in artikel 125quinquies, worden de scholen, die bij de start van de scholengemeenschap op 1 september deel uitmaken van de scholengemeenschap, geacht deel uit te maken van de scholengemeenschap op de eerste schooldag van februari van het voorgaande schooljaar, op voorwaarde dat de school het schooljaar voor de start van de scholengemeenschap opgenomen was in de financieringsof subsidiëringsregeling.<br>
 <br>
-§ 3. Maximaal 10 % van de puntenenveloppe kan aangewend worden voor het aanstellen van personeelsleden die een beleidsondersteunende functie, in het kader van het zorgbeleid zoals omschreven in artikel 153septies, uitoefenen ten behoeve van de scholengemeenschap. Van dit percentage kan na akkoord in het bevoegd lokaal comité worden afgeweken.<br>
+§3. Het aantal punten waarop de scholengemeenschap recht heeft, is de som van A, B, C en D, waarbij:<br>
+1° A = het resultaat van de vermenigvuldiging van het aantal scholen voor gewoon basisonderwijs, dat de scholengemeenschap telt op de teldag, met de coëfficiënt 14;<br>
+2° B = de som van de voor elke school voor gewoon basisonderwijs van de scholengemeenschap op schoolniveau afgeronde som van a en b.<br>
+Deze afronding wordt als volgt uitgevoerd: indien het eerste cijfer na de komma van de som van a en b groter is dan vier wordt er afgerond naar het hoger gelegen geheel getal. Als het eerste cijfer na de komma van de som van a en b kleiner is dan of gelijk is aan vier wordt er afgerond naar het lager gelegen geheel getal.<br>
+Waarbij a = het resultaat van de vermenigvuldiging van het aantal regelmatige kleuters dat de school telt op de teldag of tijdens de telperiode met de coëfficiënt 0,24339.<br>
+Waarbij b = het resultaat van de vermenigvuldiging van het aantal regelmatige leerlingen lager onderwijs dat de school telt op de teldag of tijdens de telperiode met de coëfficiënt 0,20333;<br>
+3° C = de som van de resultaten van de volgende berekening voor elke school voor buitengewoon basisonderwijs van de scholengemeenschap: het aantal regelmatige kleuters op de teldag of tijdens de telperiode wordt per school vermenigvuldigd met de coëfficiënt 0,03055. Het resultaat van deze berekening wordt voor elke school afgerond naar het hogere geheel getal als het eerste cijfer na de komma groter is dan 4. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, dan wordt er afgerond naar het lager gelegen geheel getal.<br>
+4° D = de som van het voor elke school voor gewoon basisonderwijs van de scholengemeenschap op schoolniveau afgeronde getal F.<br>
+<br>
+Deze afronding wordt als volgt uitgevoerd: indien het eerste cijfer na de komma groter is dan vier wordt er afgerond naar het hoger gelegen geheel getal. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier wordt er afgerond naar het lager gelegen geheel getal.<br>
+<br>
+Waarbij F = het resultaat van de vermenigvuldiging van het aantal regelmatige kleuters die 4 jaar worden vóór 1 januari van het lopende schooljaar en die voldoen aan het leerlingenkenmerk vermeld in artikel 133, § 1, c, dat de school telt op de teldag of tijdens de telperiode met de coëfficiënt 1,208207681.<br>
+<br>
+§4. Maximaal 10% van de puntenenveloppe kan aangewend worden voor het aanstellen van personeelsleden die een beleidsondersteunende functie, in het kader van het zorgbeleid zoals omschreven in artikel 153septies, uitoefenen ten behoeve van de scholengemeenschap. Van dit percentage kan na akkoord in het bevoegd lokaal comité worden afgeweken.<br>
 <br>
 De betrekkingen die worden ingericht op basis van de overeenkomstig deze paragraaf aangewende punten komen niet in aanmerking voor vacantverklaring en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekkingen.<br>
 <br>
-§ 4. De scholengemeenschap kent, tijdens de schooljaren 2008-2009, 2009-2010, 2010-2011, 2011-2012, 2012-2013 en 2013-2014, aan elke school van de scholengemeenschap jaarlijks minimum het aantal punten toe dat de school, op basis van haar leerlingenaantal op de eerste schooldag van februari van het voorgaande schooljaar, kon inrichten op basis van de berekeningswijze, geldig tijdens het schooljaar 2007-2008 voor de puntenenveloppe toegekend voor een personeelsomkadering ter ondersteuning van het op school gevoerde zorgbeleid.<br>
+§5. De verdeling van de puntenenveloppe door de scholengemeenschap mag niet tot gevolg hebben dat bijkomende personeelsleden wegens ontstentenis van betrekking ter beschikking moeten worden gesteld, tenzij ze onmiddellijk kunnen gereaffecteerd of wedertewerkgesteld worden in een vacante of niet-vacante organieke betrekking in de scholengemeenschap en dit voor de duur van het volledige schooljaar.<br>
 <br>
-§ 5. De verdeling van de puntenenveloppe door de scholengemeenschap mag niet tot gevolg hebben dat bijkomende personeelsleden wegens ontstentenis van betrekking ter beschikking moeten worden gesteld, tenzij ze onmiddellijk kunnen gereaffecteerd of wedertewerkgesteld worden in een vacante of niet-vacante organieke betrekking in de scholengemeenschap en dit voor de duur van het volledige schooljaar.<br>
+§6. Uit deze puntenenveloppe, verkregen volgens paragraaf 3, kunnen betrekkingen in het ambt van zorgcoördinator uit de categorie beleidsen ondersteunend personeel ingericht worden.<br>
 <br>
-§ 6. De regering bepaalt de personeelscategorieën en ambten waarin op basis van de puntenenveloppe betrekkingen kunnen worden ingericht en bepaalt op welke wijze de omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen gebeurt.
+De regering bepaalt op welke wijze de omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen gebeurt.
+
+### ART 125duodecies2.
+
+§1. In een scholengemeenschap kunnen de betrokken schoolbesturen beslissen om één scholengemeenschapsinstelling op te richten. Voor zover de samenstelling van de scholengemeenschap niet wijzigt kan deze scholengemeenschapsinstelling niet opgeheven worden.<br>
+<br>
+Een voorwaarde voor de oprichting van deze scholengemeenschapsinstelling of in het geval van het vijfde lid de scholengemeenschapsinstellingen, is dat elk schoolbestuur uit de scholengemeenschap, voor wat betreft de betrokken scholengemeenschap, medeoprichter is van een scholengemeenschapsinstelling conform het derde, vierde of vijfde lid.<br>
+<br>
+Als de scholen van de scholengemeenschap tot hetzelfde schoolbestuur behoren dan is dit schoolbestuur verantwoordelijk voor de scholengemeenschapsinstelling.<br>
+<br>
+Als de scholen van de scholengemeenschap tot verschillende schoolbesturen behoren, wordt een nieuwe rechtspersoon opgericht die verantwoordelijk is voor deze scholengemeenschapsinstellinginstelling, vermeld in het eerste lid.<br>
+<br>
+Deze nieuwe rechtspersoon beperkt zich tot en heeft als enige doel om ten aanzien van de personeelsleden aangesteld in of geaffecteerd aan de scholengemeenschapsinstelling de bevoegdheden uit te oefenen die zijn vastgelegd in het decreet Rechtspositie personeelsleden gemeenschapsonderwijs hetzij het decreet Rechtspositie personeelsleden gesubsidieerd onderwijs.<br>
+<br>
+In afwijking van het eerste en het vierde lid wordt er, als de scholen van de scholengemeenschap behoren tot schoolbesturen van verschillende onderwijsnetten en er door de betrokken schoolbesturen gekozen wordt voor de oprichting van scholengemeenschapsinstellingen, één scholengemeenschapsinstelling opgericht per onderwijsnet. De scholengemeenschapsinstelling behoort tot het betrokken onderwijsnet. Als de scholen, van het betrokken onderwijsnet in de scholengemeenschap tot hetzelfde schoolbestuur behoren dan is dit schoolbestuur verantwoordelijk voor de instelling. Als de scholen, van het betrokken onderwijsnet, in de scholengemeenschap tot verschillende schoolbesturen behoren, wordt, voor die scholengemeenschap door alle betrokken schoolbesturen in de scholengemeenschap van dat onderwijsnet, een rechtspersoon opgericht die verantwoordelijk is voor de betrokken scholengemeenschapsinstelling.<br>
+<br>
+Deze nieuwe rechtspersoon beperkt zich tot en heeft uitsluitend als doel om ten aanzien van de personeelsleden aangesteld of geaffecteerd aan in de scholengemeenschapsinstelling de bevoegdheden uit te oefenen die zijn vastgelegd in het decreet Rechtspositie personeelsleden gemeenschapsonderwijs hetzij het decreet Rechtspositie personeelsleden gesubsidieerd onderwijs.<br>
+<br>
+§2. In scholengemeenschappen die conform dit artikel een scholengemeenschapsinstelling hebben opgericht maken de betrokken directies van de scholengemeenschap, binnen de geldende regelgeving, afspraken over de werking van deze scholengemeenschapsinstelling of -instellingen.<br>
+<br>
+§3. In afwijking van artikel 125duodecies, § 5, artikel 125duodecies1, § 4, tweede lid, en artikel 153sexies, § 6, kunnen in scholengemeenschappen die conform dit artikel een scholengemeenschapsinstelling hebben opgericht de betrokken betrekkingen wel vacant verklaard worden. De personeelsleden die in die betrekkingen bij de scholengemeenschapsinstelling aangesteld worden, kunnen geaffecteerd, tot de proeftijd toegelaten, vastbenoemd of gemuteerd worden. Deze punten moeten in eerste instantie steeds worden aangewend voor de instandhouding van betrekkingen van vastbenoemde personeelsleden. Er kan maximaal vacant verklaard worden in de punten vermeld in artikel 153sexies, § 4, tot het percentage dat op 1 september 2020 samengelegd werd op het niveau van de scholengemeenschap en voor wat betreft de punten vermeld in artikel 125duodecies1 kan er maximaal vacant verklaard worden tot het percentage dat op 1 september 2020 aangewend werd op scholengemeenschapsniveau. Dit percentage kan verhoogd worden na akkoord binnen het bevoegd lokaal comité, zonder dat het percentage in het volgende lid overschreden kan worden.<br>
+<br>
+Wanneer er overeenkomstig artikel 125duodecies1, § 4, eerste lid, of artikel 153sexies, § 4, afgeweken wordt van het maximum van 10% komen de betrekkingen, ingericht bovenop die 10%, niet in aanmerking voor vacantverklaring en kunnen er in geen geval personeelsleden geaffecteerd, tot de proeftijd toegelaten, vast benoemd of gemuteerd worden in deze betrekkingen.
 
 ### ART. 125terdecies.
 
@@ -2749,7 +2807,7 @@ Schoolbesturen kunnen, in overeenstemming met de afspraken die binnen de   schol
 
 ### ART. 125quinquies decies.
 
-Deze onderafdeling is van toepassing op de scholengemeenschappen basisonderwijs die uitsluitend bestaan uit scholen die behoren tot het gesubsidieerd officieel onderwijs.
+Deze onderafdeling is van toepassing op de scholengemeenschappen basisonderwijs die uitsluitend bestaan uit scholen die behoren tot het gesubsidieerd officieel onderwijs, eventueel aangevuld met een scholengemeenschapsinstelling, zoals vermeld in artikel 125duodecies2.
 
 ### ART. 125sexies decies.
 
@@ -2779,7 +2837,10 @@ Deze inlichtingen hebben betrekking op :<br>
 1° inlichtingen over de evolutie van het aantal leerlingen in de scholen van de scholengemeenschap en de weerslag ervan op tewerkstelling en infrastructuur in de scholen die tot de scholengemeenschap behoren;<br>
 2° inlichtingen over de structuur van de scholen die tot de scholengemeenschap behoren, inclusief over de mogelijke structuurwijzigingen die een weerslag kunnen hebben op de arbeidsomstandigheden en/of tewerkstelling;<br>
 3° inlichtingen over het personeelsverloop in de scholen van de scholengemeenschap;<br>
-4° inlichtingen over het aantal tijdelijke personeelsleden met een aanstelling voor bepaalde duur dat in de scholen van de scholengemeenschap het recht op een tijdelijke aanstelling van doorlopende duur verwerft op basis van een positieve beoordeling of dat geen beoordeling heeft gekregen en het aantal tijdelijke personeelsleden met een aanstelling voor bepaalde duur dat op basis van de beoordeling een verslag met werkpunten krijgt, met binnen die laatste groep een opsplitsing van diegenen die daarna een nieuwe aanstelling verkrijgen en van diegenen die daarna geen nieuwe aanstelling verkrijgen.<br>
+4° inlichtingen over het aantal tijdelijke personeelsleden met een aanstelling voor bepaalde duur dat in de scholen van de scholengemeenschap:<br>
+- het recht op een tijdelijke aanstelling van doorlopende duur verwerft op basis van een positieve beoordeling of dat geen beoordeling heeft gekregen;<br>
+- het recht op een tijdelijke aanstelling van doorlopende duur nog niet verwerft wegens een beoordeling met werkpunten, met binnen die groep een opsplitsing tussen de personeelsleden die daarna een nieuwe aanstelling verkrijgen en de personeelsleden die daarna geen nieuwe aanstelling verkrijgen;<br>
+- het recht op een tijdelijke aanstelling van doorlopende duur niet verwerft wegens een negatieve beoordeling.<br>
 <br>
 § 3. De afgevaardigden van de schoolbesturen moeten aan de leden van het OCSG inlichtingen verstrekken over beslissingen die een belangrijke weerslag kunnen hebben op de personeelsleden van de scholen van de scholengemeenschap.<br>
 <br>
@@ -2815,7 +2876,7 @@ De werkingskosten van het OCSG komen ten laste van de schoolbesturen.
 
 ### ART. 125vicies septies.
 
-Deze onderafdeling is van toepassing op de netoverschrijdende scholengemeenschappen die uitsluitend bestaan uit scholen die basisonderwijs inrichten.
+Deze onderafdeling is van toepassing op de netoverschrijdende scholengemeenschappen die uitsluitend bestaan uit scholen die basisonderwijs inrichten, eventueel aangevuld met een scholengemeenschapsinstelling, zoals vermeld in artikel 125duodecies2.
 
 ### ART. 125duodetricies.
 
@@ -2845,7 +2906,10 @@ Deze inlichtingen hebben betrekking op :<br>
 1° inlichtingen over de evolutie van het aantal leerlingen in de scholen van de scholengemeenschap en de weerslag ervan op tewerkstelling en infrastructuur in de scholen die tot de scholengemeenschap behoren;<br>
 2° inlichtingen over de structuur van de scholen die tot de scholengemeenschap behoren, inclusief over de mogelijke structuurwijzigingen die een weerslag kunnen hebben op de arbeidsomstandigheden en/of tewerkstelling;<br>
 3° inlichtingen over het personeelsverloop in de scholen van de scholengemeenschap;<br>
-4° inlichtingen over het aantal tijdelijke personeelsleden met een aanstelling voor bepaalde duur dat in de scholen van de scholengemeenschap het recht op een tijdelijke aanstelling van doorlopende duur verwerft op basis van een positieve beoordeling of dat geen beoordeling heeft gekregen en het aantal tijdelijke personeelsleden met een aanstelling voor bepaalde duur dat op basis van de beoordeling een verslag met werkpunten krijgt, met binnen die laatste groep een opsplitsing tussen de personeelsleden die daarna een nieuwe aanstelling verkrijgen en de personeelsleden die daarna geen nieuwe aanstelling verkrijgen.<br>
+4° inlichtingen over het aantal tijdelijke personeelsleden met een aanstelling voor bepaalde duur dat in de scholen van de scholengemeenschap:<br>
+- het recht op een tijdelijke aanstelling van doorlopende duur verwerft op basis van een positieve beoordeling of dat geen beoordeling heeft gekregen;<br>
+- het recht op een tijdelijke aanstelling van doorlopende duur nog niet verwerft wegens een beoordeling met werkpunten, met binnen die groep een opsplitsing tussen de personeelsleden die daarna een nieuwe aanstelling verkrijgen en de personeelsleden die daarna geen nieuwe aanstelling verkrijgen;<br>
+- het recht op een tijdelijke aanstelling van doorlopende duur niet verwerft wegens een negatieve beoordeling.<br>
 <br>
 § 3. De afgevaardigden van de schoolbesturen moeten aan de leden van het OCSG inlichtingen verstrekken over beslissingen die een belangrijke weerslag kunnen hebben op de personeelsleden van de scholen van de scholengemeenschap.<br>
 <br>
@@ -2936,7 +3000,7 @@ c) de taal die de leerling in het gezin spreekt en die verschilt van de onderwij
 
 ### ART. 134.
 
-§ 1. Het aantal SES-lestijden waarop de school voor het kleuteronderwijs recht heeft, voor het schooljaar (J)-(J+1), is de som van A, B en C waarbij :<br>
+§ 1. Het aantal SES-lestijden waarop de school voor het kleuteronderwijs, onverminderd de bepalingen in artikel 39, § 7, 2°, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs,&nbsp;recht heeft, voor het schooljaar (J)-(J+1), is de som van A, B en C waarbij :<br>
 1° A = het resultaat van de vermenigvuldiging van het aantal regelmatige kleuters, die beantwoorden aan leerlingkenmerk 1, dat de school telt op de teldag, vermeld in artikel 132, met 0,26710 lestijden;<br>
 2° B = S x het aantal regelmatige kleuters dat de school telt op de teldag, vermeld in artikel 132, vermenigvuldigd met 0,11917 lestijden, waarbij :<br>
 S = X / het aantal regelmatige leerlingen dat de school telde op de eerste schooldag van februari van het jaar J-1, waarbij :<br>
@@ -2947,7 +3011,7 @@ ii° ze zijn op de eerste schooldag van februari van het jaar J-1 regelmatig ing
 In afwijking van punt 2° is B, voor scholen voor gewoon basisonderwijs die, zoals bepaald in artikel 3, 15°, fusioneren gedurende het schooljaar dat de fusie uitwerking heeft en het daaropvolgende schooljaar gelijk aan het resultaat van 0,25 x het aantal regelmatige kleuters dat de school telt op de teldag, vermeld in artikel 132, vermenigvuldigd met 0,11917 lestijden;<br>
 4° C = het resultaat van de vermenigvuldiging van het aantal regelmatige kleuters, die beantwoorden aan leerlingkenmerk 3, dat de school telt op de teldag, vermeld in artikel 132, met 0,29116 lestijden.<br>
 <br>
-§ 2. Het aantal SES-lestijden waarop de school voor het lager onderwijs recht heeft, voor het schooljaar (J)-(J+1), is de som van A, B en C waarbij :<br>
+§ 2. Het aantal SES-lestijden waarop de school voor het lager onderwijs, onverminderd de bepalingen in artikel 39, § 7, 2°, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs,&nbsp;recht heeft, voor het schooljaar (J)-(J+1), is de som van A, B en C waarbij :<br>
 1° A = het resultaat van de vermenigvuldiging van het aantal regelmatige leerlingen lager onderwijs, die beantwoorden aan leerlingkenmerk 1, dat de school telt op de teldag, vermeld in artikel 132, met 0,26710 lestijden;<br>
 2° B = S x het aantal regelmatige leerlingen lager onderwijs dat de school telt op de teldag, vermeld in artikel 132, vermenigvuldigd met 0,11917 lestijden, waarbij : S = X / het aantal regelmatige leerlingen dat de school telde op de eerste schooldag van februari van het jaar J-1, waarbij :<br>
 X = het aantal regelmatige leerlingen die beantwoorden aan de volgende cumulatieve voorwaarden :<br>
@@ -2959,7 +3023,9 @@ In afwijking van punt 2° is B, voor scholen voor gewoon basisonderwijs die, zoa
 <br>
 § 3. De SES-lestijden verkregen volgens paragraaf 1 en paragraaf 2 worden per niveau als volgt afgerond : als het eerste cijfer na de komma groter is dan vier wordt er afgerond naar het hogere gelegen geheel getal. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier wordt er afgerond naar het lagere gelegen geheel getal.<br>
 <br>
-§ 4. Voor de toepassing van dit artikel op CKG-scholen is artikel 132, § 4, niet van toepassing.
+§ 4. Voor de toepassing van dit artikel op CKG-scholen is artikel 132, § 4, niet van toepassing.<br>
+<br>
+§5. De SES-lestijden kunnen enkel worden aangewend in het kader van een gelijke onderwijskansenbeleid, zoals bepaald in artikel 153septies, §2.
 
 ## [Subsectie 4 Additionele lestijden volgens de schalen (ing. decr. 6 juli 2012, art. 15, I: 1 september 2012)]
 
@@ -3014,7 +3080,9 @@ De regering kan voor het buitengewoon basisonderwijs, om budgettaire redenen, aa
 5° ...<br>
 6° lestijden voor het voeren van een gelijkekansenbeleid in het buitengewoon basisonderwijs.<br>
 7° lestijden in het buitengewoon basisonderwijs ter ondersteuning van de integratie van de anderstalige leerlingen voor de Nederlandstalige scholen in de rand- en taalgrensgemeenten, voor de scholen in de gemeenten die grenzen aan de randgemeenten en/of aan het Brusselse Hoofdstedelijke Gewest en voor de scholen in de gemeenten die bepaald worden door de Vlaamse Gemeenschap;<br>
-8° lestijden voor aanvangsbegeleiding, beleidsondersteuning en professionalisering.<br>
+8° lestijden voor aanvangsbegeleiding;<br>
+9° lestijden voor de ondersteuning van de kerntaak van het onderwijzend personeel;<br>
+10° lestijden samen school maken.<br>
 <br>
 De betrekkingen die worden ingericht op basis van de lestijden voor het permanent onderwijs aan huis in het buitengewoon onderwijs komen niet in aanmerking voor vacantverklaring en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekkingen.<br>
 <br>
@@ -3086,41 +3154,49 @@ b) in een internaat buitengewoon onderwijs vermeld in deel III, hoofdstuk 4, afd
 
 ### ART 139duodecies/1.
 
-In afwijking van de bepalingen van artikel 139duodecies en artikel 139terdecies, § 1, wordt de driejarige cyclus 2014-2015 tot en met 2016-2017 waarbij aan scholen een geïntegreerd ondersteuningsaanbod gelijke onderwijskansen wordt toegekend, verlengd tot en met het schooljaar 2017-2018 met behoud voor elke school van het aantal bijkomende lestijden.
+...
 
 ### ART. 139ter decies.
 
-§ 1. De toekenning van de middelen gebeurt driejaarlijks als volgt :<br />1° de in artikel 139duode cies bedoelde scholen worden gerangschikt volgens het percentage leerlingen die beantwoorden aan de in artikel 139undecies, § 1, 1°, bedoelde gelijkekansenindicator. Binnen eenzelfde percentage worden de scholen volgens het absolute aantal van deze leerlingen gerangschikt;<br />2° de leerlingen genereren een aantal punten op basis van het gewicht van de gelijkekansenindicatoren die op hen van toepassing zijn.<br /><br />§ 2. De regering bepaalt binnen de beschikbare begrotingskredieten hoeveel aanvullende lestijden een punt vertegenwoordigt.<br /><br />De regering bepaalt de personeelscategorieën en ambten waarin op basis van de aanvullende lestijden betrekkingen kunnen worden ingericht en op welke wijze de lestijden, rekening houdend met bekwaamheidsbewijzen en salarisschalen, naar de gefinancierde of gesubsidieerde betrekkingen worden omgerekend.<br /><br />De regering bepaalt tevens de regelen inzake de toekenning of herverdeling, tijdens een lopende periode van drie schooljaren, van nieuwe of vrijkomende aanvullende lestijden.<br /><br />§ 3. In de lestijden bekomen op basis van artikel 139duo decies, § 3, kunnen geen personeelsleden vastbenoemd worden.
+§ 1. De toekenning van de middelen gebeurt jaarlijks als volgt :<br>
+1° de in artikel 139duode cies bedoelde scholen worden gerangschikt volgens het percentage leerlingen die beantwoorden aan de in artikel 139undecies, § 1, 1°, bedoelde gelijkekansenindicator. Binnen eenzelfde percentage worden de scholen volgens het absolute aantal van deze leerlingen gerangschikt;<br>
+2° de leerlingen genereren een aantal punten op basis van het gewicht van de gelijkekansenindicatoren die op hen van toepassing zijn.<br>
+<br>
+§ 2. De regering bepaalt binnen de beschikbare begrotingskredieten hoeveel aanvullende lestijden een punt vertegenwoordigt.<br>
+<br>
+De regering bepaalt de personeelscategorieën en ambten waarin op basis van de aanvullende lestijden betrekkingen kunnen worden ingericht en op welke wijze de lestijden, rekening houdend met bekwaamheidsbewijzen en salarisschalen, naar de gefinancierde of gesubsidieerde betrekkingen worden omgerekend.
 
 ## [Subsectie 3 Aanwending van de middelen (ing. decr. 8 mei 2009, art. II.20, I: 1 september 2009)]
 
 ### ART. 139quater decies.
 
-§ 1. Een school die aanvullende lestijden krijgt, werkt in het eerste trimester van het eerste schooljaar een gelijkekansenbeleid uit. Vanuit een analyse van haar beginsituatie geeft de school aan :<br />1° welke concrete doelstellingen zij op het vlak van de leerlingen, de personeelsleden en de school wil bereiken. De regering bepaalt doelstellingen die kunnen worden gekozen binnen de volgende thema's :<br />a) een gericht aanbod rond taalvaardigheid;<br />b) het aanbieden van onderwijsgerichte opvoedingsondersteuning aan ouders; <br />c) het opnemen van de (laagdrempelige) sociale functie in een netwerk met partners uit andere sectoren; <br />2° op welke manier zij die doelstellingen wil bereiken; <br />3° op welke manier zij zichzelf in de loop van het tweede trimester van het tweede schooljaar evalueert. <br /><br />§ 2. De aanvullende lestijden kunnen enkel worden aangewend om de in § 1 bedoelde doelstellingen te bereiken.
+De aanvullende lestijden kunnen enkel worden aangewend in het kader van een gelijke onderwijskansenbeleid, zoals bepaald in artikel 153septies, § 2.
 
 ### ART. 139quinquies decies.
 
-De scholen betrekken in het ontwikkelen en realiseren van de in artikel 139 quater decies, § 1, bedoelde doelstellingen het centrum voor leerlingenbegeleiding waardoor ze worden begeleid.
+...
 
 ### ART. 139sexies decies.
 
-§ 1. De onderwijsinspectie gaat telkens in de loop van het laatste schooljaar na of, en in welke mate, de doelstellingen werden bereikt. Het bereiken van de doelstellingen wordt afgewogen tegenover de schoolcontext en de kenmerken van de schoolpopulatie.<br /><br />Bij een positieve evaluatie kan de school voor een nieuwe periode van drie schooljaren aanvullende lestijden krijgen indien opnieuw aan alle voorwaarden van artikel 139duodecies voldaan is.<br /><br />Bij een negatieve evaluatie verliest de school elk recht op de in artikel 139duodecies bedoelde aanvullende lestijden voor de volgende periode van drie schooljaren, tenzij de school een engagement tot remediëring aangaat. In dat geval krijgt ze de helft van het aantal aanvullende lestijden waarop ze in geval van positieve evaluatie recht zou hebben.<br /><br />Een engagement tot remediëring moet aan de volgende voorwaarden voldoen :<br />1° de scholen verbinden er zich toe een stappenplan op te stellen dat aan de volgende criteria voldoet :<br />a) het uitgangspunt van het stappenplan zijn de geformuleerde knelpunten in het evaluatieverslag van de onderwijsinspectie van de betrokken school;<br />b) de geformuleerde doelstellingen tot remediëring in het stappenplan passen binnen de doelstellingen van artikel 139 quater decies, § 1, 1°;<br />c) de doelstellingen zijn outputgericht, concreet en operationeel geformuleerd. Ze moeten voldoende controleerbaar zijn;<br />d) het stappenplan wordt vóór 1 mei van het schooljaar dat op de negatieve evaluatie volgt aan de onderwijsinspectie bezorgd;<br />e) de doelstellingen moeten gerealiseerd zijn vóór 1 juni van het schooljaar volgend op de negatieve evaluatie;<br />2° de scholen verbinden er zich toe om een beroep te doen op externe begeleiding en ondersteuning bij het opstellen en de uitvoering van het stappenplan.<br /><br />De onderwijsinspectie gaat in de maand juni van het schooljaar dat op de negatieve evaluatie volgt opnieuw na of, en in welke mate, de doelstellingen werden bereikt. Het bereiken van de doelstellingen wordt afgewogen tegenover de schoolcontext en de kenmerken van de schoolpopulatie.<br /><br />Bij een positieve evaluatie kan de school vanaf het tweede schooljaar weer een beroep doen op het volledige aantal van de in artikel 139duodecies bedoelde aanvullende lestijden. Bij een negatieve evaluatie verliest de school het recht op de in artikel 139duodecies bedoelde aanvullende lestijden voor de volgende twee schooljaren.<br /><br />§ 2. De regering legt de nadere criteria en procedurele bepalingen, waarmee de onderwijsinspectie de controle uitvoert, vast.<br />Ze voorziet voor de school in een beroepsmogelijkheid tegen een negatieve evaluatie. Het beroep wordt ingesteld bij een college van inspecteurs.
+...
 
 ## [SECTIE 4. AANVULLENDE LESTIJDEN VOOR AANVANGSBEGELEIDING (verv. decr. 25 februari 2022, art. 5, I: 1 september 2021)]
 
 ### ART 139septiesdecies.
 
-§ 1. Het totale aantal aanvullende lestijden voor aanvangsbegeleiding, beleidsondersteuning en professionalisering bedraagt, voor het schooljaar 2019-2020, in het gewoon basisonderwijs 7766 lestijden en in het buitengewoon basisonderwijs 1156 lestijden.<br>
+§ 1. Voor het schooljaar 2021-2022 bedraagt het totale aantal aanvullende lestijden voor aanvangsbegeleiding:<br>
+1° 9815 lestijden in het gewoon basisonderwijs;<br>
+2° 1416 lestijden in het buitengewoon basisonderwijs.<br>
 <br>
-Voor het schooljaar X-X+1, startend in schooljaar 2020-2021, worden de 7766 lestijden, vermeld in het eerste lid, vermenigvuldigd met de aanpassingscoëfficiënt A1 = X/Y, waarbij:<br>
+Voor het schooljaar X-X+1, vanaf het schooljaar 2022-2023, worden de lestijden, vermeld in het eerste lid, 1°, vermenigvuldigd met de aanpassingscoëfficiënt A1=X/Y, waarbij:<br>
 1° X: het totale aantal leerlingen in het gewoon basisonderwijs op de eerste schooldag van februari X;<br>
-2° Y: het totale aantal leerlingen in het gewoon basisonderwijs op de eerste schooldag van februari 2019.<br>
+2° Y: het totale aantal leerlingen in het gewoon basisonderwijs op de eerste schooldag van februari 2021.<br>
 <br>
-Voor het schooljaar X-X+1, startend in schooljaar 2020-2021, worden de 1156 lestijden, vermeld in het eerste lid, vermenigvuldigd met de aanpassingscoëfficiënt A2 = R/S, waarbij:<br>
+Voor het schooljaar X-X+1, vanaf het schooljaar 2022-2023, worden de lestijden, vermeld in het eerste lid, 2°, vermenigvuldigd met de aanpassingscoëfficiënt A2=R/S, waarbij:<br>
 1° R: het totale aantal leerlingen in het buitengewoon basisonderwijs op de eerste schooldag van februari X;<br>
-2° S: het totale aantal leerlingen in het buitengewoon basisonderwijs op de eerste schooldag van februari 2019.<br>
+2° S: het totale aantal leerlingen in het buitengewoon basisonderwijs op de eerste schooldag van februari 2021.<br>
 <br>
-§ 2. Het aantal aanvullende lestijden voor aanvangsbegeleiding, beleidsondersteuning en professionalisering waarop de school voor gewoon basisonderwijs recht heeft, is A*B, waarbij:<br>
+§ 2. Het aantal aanvullende lestijden voor aanvangsbegeleiding waarop de school voor gewoon basisonderwijs recht heeft, is A*B, waarbij:<br>
 1° A: de beschikbare lestijden voor het gewoon basisonderwijs, vermeld in paragraaf 1, gedeeld door het totale aantal lestijden in het gewoon basisonderwijs van het vorige schooljaar van alle scholen samen, waarbij onder het totale aantal lestijden in het gewoon basisonderwijs wordt verstaan de som van het totale aantal:<br>
 a) lestijden volgens de schalen;<br>
 b) SES-lestijden;<br>
@@ -3134,7 +3210,7 @@ d) aanvullende lestijden godsdienst, niet-confessionele zedenleer en cultuurbesc
 <br>
 De lestijden, vermeld in het eerste lid, worden binnen een school als volgt afgerond: als het eerste cijfer na de komma groter is dan vier, wordt er afgerond naar het hogere geheel getal. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere geheel getal.<br>
 <br>
-§ 3. Het aantal aanvullende lestijden voor aanvangsbegeleiding, beleidsondersteuning en professionalisering waarop de school voor buitengewoon basisonderwijs recht heeft, is C*D, waarbij:<br>
+§ 3. Het aantal aanvullende lestijden voor aanvangsbegeleiding waarop de school voor buitengewoon basisonderwijs recht heeft, is C*D, waarbij:<br>
 1° C: de beschikbare lestijden voor het buitengewoon basisonderwijs, vermeld in paragraaf 1, gedeeld door het totale aantal lestijden in het buitengewoon basisonderwijs van het vorige schooljaar van alle scholen samen, waarbij onder het totale aantal lestijden in het buitengewoon basisonderwijs wordt verstaan de som van het totale aantal:<br>
 a) lestijden volgens de schalen;<br>
 b) aanvullende lestijden voor het voeren van een gelijkekansenbeleid in het buitengewoon basisonderwijs;<br>
@@ -3146,467 +3222,118 @@ c) aanvullende lestijden godsdienst, niet-confessionele zedenleer en cultuurbesc
 <br>
 De lestijden, vermeld in het eerste lid, worden binnen een school als volgt afgerond: als het eerste cijfer na de komma groter is dan vier, wordt er afgerond naar het hogere geheel getal. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere geheel getal.<br>
 <br>
-§ 4. Uit de lestijden, verkregen volgens paragraaf 2, kunnen, in het gewoon kleuteronderwijs, betrekkingen worden ingericht:<br>
-1° in het ambt van kleuteronderwijzer;<br>
-2° in het ambt van leermeester lichamelijke opvoeding.<br>
+§ 4. De regering bepaalt op welke wijze de lestijden die conform paragraaf 2 en 3 worden berekend, aangewend kunnen worden en bepaalt ook de personeelscategorieën en ambten waarin op basis van die lestijden betrekkingen kunnen worden opgericht. De regering bepaalt ook op welke wijze de lestijden via omzettingstabellen omgezet kunnen worden in punten of uren.<br>
 <br>
-De lestijden, verkregen volgens paragraaf 2, worden als volgt omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van kleuteronderwijzer of leermeester lichamelijke opvoeding: de lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van kleuteronderwijzer of leermeester lichamelijke opvoeding. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.<br>
+§ 5. Als de scholen de aanvullende lestijden, vermeld in paragraaf 1, niet kunnen gebruiken voor aanvangsbegeleiding, moeten ze die gebruiken voor de ondersteuning van de kerntaak van het onderwijzend personeel conform artikel 139duodevicies, § 5.<br>
 <br>
-§ 5. De lestijden, verkregen volgens paragraaf 2, kunnen, in het gewoon kleuteronderwijs, worden ingericht in het ambt van kinderverzorger, na omzetting volgens de onderstaande tabel:<br>
-&nbsp;
-<table border="1">
-	<tbody>
-		<tr>
-			<td>lestijden</td>
-			<td>uren kinderverzorger</td>
-		</tr>
-		<tr>
-			<td>1</td>
-			<td>2</td>
-		</tr>
-		<tr>
-			<td>2</td>
-			<td>3</td>
-		</tr>
-		<tr>
-			<td>3</td>
-			<td>5</td>
-		</tr>
-		<tr>
-			<td>4</td>
-			<td>6</td>
-		</tr>
-		<tr>
-			<td>5</td>
-			<td>8</td>
-		</tr>
-		<tr>
-			<td>6</td>
-			<td>10</td>
-		</tr>
-		<tr>
-			<td>7</td>
-			<td>11</td>
-		</tr>
-		<tr>
-			<td>8</td>
-			<td>13</td>
-		</tr>
-		<tr>
-			<td>9</td>
-			<td>14</td>
-		</tr>
-		<tr>
-			<td>10</td>
-			<td>16</td>
-		</tr>
-		<tr>
-			<td>11</td>
-			<td>17</td>
-		</tr>
-		<tr>
-			<td>12</td>
-			<td>19</td>
-		</tr>
-		<tr>
-			<td>13</td>
-			<td>21</td>
-		</tr>
-		<tr>
-			<td>14</td>
-			<td>22</td>
-		</tr>
-		<tr>
-			<td>15</td>
-			<td>24</td>
-		</tr>
-		<tr>
-			<td>16</td>
-			<td>25</td>
-		</tr>
-		<tr>
-			<td>17</td>
-			<td>27</td>
-		</tr>
-		<tr>
-			<td>18</td>
-			<td>29</td>
-		</tr>
-		<tr>
-			<td>19</td>
-			<td>30</td>
-		</tr>
-		<tr>
-			<td>20</td>
-			<td>32</td>
-		</tr>
-	</tbody>
-</table>
+§ 6. ...<br>
 <br>
-De omrekening van de uren naar gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen kinderverzorger gebeurt door de som van de uren verkregen overeenkomstig het eerste lid te delen door 32 tot op de eenheid; het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.<br>
+§ 7. ...<br>
 <br>
-§ 6. Uit de lestijden, verkregen volgens paragraaf 2, kunnen, in het gewoon lager onderwijs, betrekkingen worden ingericht:<br>
-1° in het ambt van onderwijzer;<br>
-2° in het ambt van leermeester lichamelijke opvoeding;<br>
-3° in het ambt van leermeester godsdienst of niet-confessionele zedenleer.<br>
+§ 8. ...<br>
 <br>
-De lestijden, verkregen volgens paragraaf 2, worden als volgt omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van onderwijzer, leermeester lichamelijke opvoeding of leermeester godsdienst of niet-confessionele zedenleer: de lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van onderwijzer, leermeester lichamelijke opvoeding of leermeester godsdienst of niet-confessionele zedenleer. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.<br>
+§ 9. ...<br>
 <br>
-§ 7. De lestijden, verkregen volgens paragraaf 2, kunnen, in het gewoon basisonderwijs, worden omgezet in punten, na omzetting volgens de onderstaande tabel:<br>
-&nbsp;
-<table border="1">
-	<tbody>
-		<tr>
-			<td>lestijden</td>
-			<td>punten</td>
-		</tr>
-		<tr>
-			<td>1</td>
-			<td>4</td>
-		</tr>
-		<tr>
-			<td>2</td>
-			<td>7</td>
-		</tr>
-		<tr>
-			<td>3</td>
-			<td>11</td>
-		</tr>
-		<tr>
-			<td>4</td>
-			<td>14</td>
-		</tr>
-		<tr>
-			<td>5</td>
-			<td>18</td>
-		</tr>
-		<tr>
-			<td>6</td>
-			<td>21</td>
-		</tr>
-		<tr>
-			<td>7</td>
-			<td>25</td>
-		</tr>
-		<tr>
-			<td>8</td>
-			<td>28</td>
-		</tr>
-		<tr>
-			<td>9</td>
-			<td>32</td>
-		</tr>
-		<tr>
-			<td>10</td>
-			<td>35</td>
-		</tr>
-		<tr>
-			<td>11</td>
-			<td>39</td>
-		</tr>
-		<tr>
-			<td>12</td>
-			<td>43</td>
-		</tr>
-		<tr>
-			<td>13</td>
-			<td>46</td>
-		</tr>
-		<tr>
-			<td>14</td>
-			<td>50</td>
-		</tr>
-		<tr>
-			<td>15</td>
-			<td>53</td>
-		</tr>
-		<tr>
-			<td>16</td>
-			<td>57</td>
-		</tr>
-		<tr>
-			<td>17</td>
-			<td>60</td>
-		</tr>
-		<tr>
-			<td>18</td>
-			<td>64</td>
-		</tr>
-		<tr>
-			<td>19</td>
-			<td>67</td>
-		</tr>
-		<tr>
-			<td>20</td>
-			<td>71</td>
-		</tr>
-		<tr>
-			<td>21</td>
-			<td>74</td>
-		</tr>
-		<tr>
-			<td>22</td>
-			<td>78</td>
-		</tr>
-		<tr>
-			<td>23</td>
-			<td>81</td>
-		</tr>
-		<tr>
-			<td>24</td>
-			<td>85</td>
-		</tr>
-	</tbody>
-</table>
+§ 10. ...<br>
 <br>
-Uit de punten, verkregen volgens het eerste lid, kunnen de volgende ambten worden ingericht:<br>
-1° het ambt van zorgcoördinator uit de categorie beleids- en ondersteunend personeel;<br>
-2° het ambt van ICT-coördinator uit de categorie beleids- en ondersteunend personeel;<br>
-3° het ambt van administratief medewerker uit de categorie beleids- en ondersteunend personeel.<br>
-<br>
-De omrekening van punten naar de gefinancierde of gesubsidieerde voltijdse betrekkingen van het beleids- en ondersteund personeel gebeurt volgens de bepalingen van het besluit van de Vlaamse Regering van 5 maart 2004 betreffende de puntenenveloppen voor de scholengemeenschappen basisonderwijs.<br>
-<br>
-§ 8. Uit de lestijden, verkregen volgens paragraaf 3, kunnen, in het buitengewoon onderwijs, betrekkingen worden ingericht in:<br>
-1° het ambt van kleuteronderwijzer algemene en sociale vorming;<br>
-2° het ambt van onderwijzer algemene en sociale vorming;<br>
-3° het ambt van leermeester algemene en sociale vorming, specialiteit lichamelijke opvoeding;<br>
-4° het ambt van leermeester algemene en sociale vorming, compensatietechnieken braille, type 6;<br>
-5° het ambt van leermeester godsdienst of niet-confessionele zedenleer.<br>
-<br>
-De lestijden, verkregen volgens paragraaf 3, worden als volgt omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen: de lestijden worden gedeeld door 22 tot op de eenheid. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.<br>
-<br>
-§ 9. De lestijden, verkregen volgens paragraaf 3, kunnen, in het buitengewoon basisonderwijs, worden omgezet in uren paramedisch, medisch, sociaal, psychologisch en orthopedagogisch personeel, na omzetting volgens de onderstaande tabel:<br>
-&nbsp;
-<table border="1">
-	<tbody>
-		<tr>
-			<td>lestijden</td>
-			<td>uren</td>
-		</tr>
-		<tr>
-			<td>1</td>
-			<td>1</td>
-		</tr>
-		<tr>
-			<td>2</td>
-			<td>3</td>
-		</tr>
-		<tr>
-			<td>3</td>
-			<td>4</td>
-		</tr>
-		<tr>
-			<td>4</td>
-			<td>6</td>
-		</tr>
-		<tr>
-			<td>5</td>
-			<td>7</td>
-		</tr>
-		<tr>
-			<td>6</td>
-			<td>9</td>
-		</tr>
-		<tr>
-			<td>7</td>
-			<td>10</td>
-		</tr>
-		<tr>
-			<td>8</td>
-			<td>12</td>
-		</tr>
-		<tr>
-			<td>9</td>
-			<td>13</td>
-		</tr>
-		<tr>
-			<td>10</td>
-			<td>15</td>
-		</tr>
-		<tr>
-			<td>11</td>
-			<td>16</td>
-		</tr>
-		<tr>
-			<td>12</td>
-			<td>18</td>
-		</tr>
-		<tr>
-			<td>13</td>
-			<td>19</td>
-		</tr>
-		<tr>
-			<td>14</td>
-			<td>21</td>
-		</tr>
-		<tr>
-			<td>15</td>
-			<td>22</td>
-		</tr>
-		<tr>
-			<td>16</td>
-			<td>24</td>
-		</tr>
-		<tr>
-			<td>17</td>
-			<td>25</td>
-		</tr>
-		<tr>
-			<td>18</td>
-			<td>27</td>
-		</tr>
-		<tr>
-			<td>19</td>
-			<td>28</td>
-		</tr>
-		<tr>
-			<td>20</td>
-			<td>29</td>
-		</tr>
-		<tr>
-			<td>21</td>
-			<td>31</td>
-		</tr>
-		<tr>
-			<td>22</td>
-			<td>32</td>
-		</tr>
-		<tr>
-			<td>23</td>
-			<td>34</td>
-		</tr>
-		<tr>
-			<td>24</td>
-			<td>35</td>
-		</tr>
-		<tr>
-			<td>25</td>
-			<td>37</td>
-		</tr>
-		<tr>
-			<td>26</td>
-			<td>38</td>
-		</tr>
-		<tr>
-			<td>27</td>
-			<td>40</td>
-		</tr>
-	</tbody>
-</table>
-<br>
-De omrekening van uren naar de gefinancierde of gesubsidieerde voltijdse betrekkingen van het paramedisch, medisch, sociaal, psychologisch en orthopedagogisch personeel gebeurt volgens de bepalingen van het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de personeelsformatie in het buitengewoon basisonderwijs.<br>
-<br>
-§ 10. De lestijden, verkregen volgens paragraaf 3, kunnen, in het buitengewoon basisonderwijs, worden omgezet in punten, na omzetting volgens de onderstaande tabel:<br>
-&nbsp;
-<table border="1">
-	<tbody>
-		<tr>
-			<td>lestijden</td>
-			<td>punten</td>
-		</tr>
-		<tr>
-			<td>1</td>
-			<td>4</td>
-		</tr>
-		<tr>
-			<td>2</td>
-			<td>8</td>
-		</tr>
-		<tr>
-			<td>3</td>
-			<td>12</td>
-		</tr>
-		<tr>
-			<td>4</td>
-			<td>15</td>
-		</tr>
-		<tr>
-			<td>5</td>
-			<td>19</td>
-		</tr>
-		<tr>
-			<td>6</td>
-			<td>23</td>
-		</tr>
-		<tr>
-			<td>7</td>
-			<td>27</td>
-		</tr>
-		<tr>
-			<td>8</td>
-			<td>31</td>
-		</tr>
-		<tr>
-			<td>9</td>
-			<td>35</td>
-		</tr>
-		<tr>
-			<td>10</td>
-			<td>39</td>
-		</tr>
-		<tr>
-			<td>11</td>
-			<td>43</td>
-		</tr>
-		<tr>
-			<td>12</td>
-			<td>46</td>
-		</tr>
-		<tr>
-			<td>13</td>
-			<td>50</td>
-		</tr>
-		<tr>
-			<td>14</td>
-			<td>54</td>
-		</tr>
-		<tr>
-			<td>15</td>
-			<td>58</td>
-		</tr>
-		<tr>
-			<td>16</td>
-			<td>62</td>
-		</tr>
-		<tr>
-			<td>17</td>
-			<td>66</td>
-		</tr>
-		<tr>
-			<td>18</td>
-			<td>70</td>
-		</tr>
-		<tr>
-			<td>19</td>
-			<td>73</td>
-		</tr>
-		<tr>
-			<td>20</td>
-			<td>77</td>
-		</tr>
-		<tr>
-			<td>21</td>
-			<td>81</td>
-		</tr>
-		<tr>
-			<td>22</td>
-			<td>85</td>
-		</tr>
-	</tbody>
-</table>
-<br>
-Uit de punten, verkregen volgens het eerste lid, kunnen de volgende ambten worden ingericht:<br>
-1° het ambt van zorgcoördinator uit de categorie beleids- en ondersteunend personeel;<br>
-2° het ambt van ICT-coördinator uit de categorie beleids- en ondersteunend personeel;<br>
-3° het ambt van administratief medewerker uit de categorie beleids- en ondersteunend personeel.<br>
-<br>
-De omrekening van punten naar de gefinancierde of gesubsidieerde voltijdse betrekkingen van het beleids- en ondersteund personeel gebeurt volgens de bepalingen van het besluit van de Vlaamse Regering van 5 maart 2004 betreffende de puntenenveloppen voor de scholengemeenschappen basisonderwijs.<br>
-<br>
-§ 11. De Vlaamse Regering wordt gemachtigd om de omzettingstabellen vervat in dit artikel te wijzigen.
+§ 11. ...
 
 ## [SECTIE 5. AANVULLENDE LESTIJDEN VOOR DE ONDERSTEUNING VAN DE KERNTAAK VAN HET ONDERWIJZEND PERSONEEL (ing. decr. 25 februari 2022, art. 7, I: 1 september 2021)]
 
+### ART 139duodevicies.
+
+§ 1. Voor het schooljaar 2021-2022 bedraagt het totale aantal aanvullende lestijden voor de ondersteuning van de kerntaak van het onderwijzend personeel:<br>
+1° 11.000 lestijden in het gewoon basisonderwijs;<br>
+2° 989 lestijden in het buitengewoon basisonderwijs.<br>
+<br>
+Voor het schooljaar X-X+1, vanaf het schooljaar 2022-2023, worden de lestijden, vermeld in het eerste lid, 1°, vermenigvuldigd met de aanpassingscoëfficiënt A1=X/Y, waarbij:<br>
+1° X: het totale aantal leerlingen in het gewoon basisonderwijs op de eerste schooldag van februari X;<br>
+2° Y: het totale aantal leerlingen in het gewoon basisonderwijs op de eerste schooldag van februari 2021.<br>
+<br>
+Voor het schooljaar X-X+1, vanaf het schooljaar 2022-2023, worden de lestijden, vermeld in het eerste lid, 2°, vermenigvuldigd met de aanpassingscoëfficiënt A2=R/S, waarbij:<br>
+1° R: het totale aantal leerlingen in het buitengewoon basisonderwijs op de eerste schooldag van februari X;<br>
+2° S: het totale aantal leerlingen in het buitengewoon basisonderwijs op de eerste schooldag van februari 2021.<br>
+<br>
+§ 2. Het aantal aanvullende lestijden voor de ondersteuning van de kerntaak van het onderwijzend personeel waarop de school voor gewoon basisonderwijs recht heeft, wordt berekend met de formule A*B, waarbij:<br>
+1° A: de beschikbare lestijden voor het gewoon basisonderwijs, vermeld in paragraaf 1, gedeeld door het totale aantal lestijden in het gewoon basisonderwijs van het vorige schooljaar van alle scholen samen. Het voormelde totale aantal lestijden in het gewoon basisonderwijs wordt berekend door al de volgende elementen samen te tellen:<br>
+a) de lestijden volgens de schalen, vermeld in artikel 132;<br>
+b) de SES-lestijden, vermeld in artikel 134;<br>
+c) de additionele lestijden volgens de schalen die gebaseerd zijn op de leerlingleerkrachtratio, vermeld in artikel 135;<br>
+d) de aanvullende lestijden godsdienst, niet-confessionele zedenleer en cultuurbeschouwing, vermeld in artikel 138, § 1, eerste lid, 1° ;<br>
+2° B: het totale aantal lestijden van de school van het vorige schooljaar. Het voormelde totale aantal lestijden van de school wordt berekend door al de volgende elementen samen te tellen:<br>
+a) de lestijden volgens de schalen, vermeld in artikel 132;<br>
+b) de SES-lestijden, vermeld in artikel 134;<br>
+c) de additionele lestijden volgens de schalen die gebaseerd zijn op de leerlingleerkrachtratio, vermeld in artikel 135;<br>
+d) de aanvullende lestijden godsdienst, niet-confessionele zedenleer en cultuurbeschouwing, vermeld in artikel 138, § 1, eerste lid, 1°.<br>
+<br>
+Het aantal aanvullende lestijden voor de ondersteuning van de kerntaak van het onderwijzend personeel waarop de school voor gewoon basisonderwijs recht heeft, vermeld in het eerste lid, worden binnen een school afgerond naar het hogere geheel getal als het eerste cijfer na de komma groter is dan vier. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere geheel getal.<br>
+<br>
+§ 3. Het aantal aanvullende lestijden voor de ondersteuning van de kerntaak van het onderwijzend personeel waarop de school voor buitengewoon basisonderwijs recht heeft, wordt berekend met de formule C*D, waarbij:<br>
+1° C: de beschikbare lestijden voor het buitengewoon basisonderwijs, vermeld in paragraaf 1, gedeeld door het totale aantal lestijden in het buitengewoon basisonderwijs van het vorige schooljaar van alle scholen samen. Het voormelde totale aantal lestijden in het buitengewoon basisonderwijs wordt berekend door al de volgende elementen samen te tellen:<br>
+a) de lestijden volgens de schalen, vermeld in artikel 137bis;<br>
+b) de aanvullende lestijden voor het voeren van een gelijkekansenbeleid in het buitengewoon basisonderwijs, vermeld in artikel 138, § 1, eerste lid, 6° ;<br>
+c) de aanvullende lestijden godsdienst, niet-confessionele zedenleer en cultuurbeschouwing, vermeld in artikel 138, § 1, eerste lid, 1° ;<br>
+2° D: het totale aantal lestijden van de school van het vorige schooljaar. Het voormelde totale aantal lestijden van de school wordt berekend door al de volgende elementen samen te tellen:<br>
+a) de lestijden volgens de schalen, vermeld in artikel 137bis;<br>
+b) de aanvullende lestijden voor het voeren van een gelijkekansenbeleid in het buitengewoon basisonderwijs, vermeld in artikel 138, § 1, eerste lid, 6° ;<br>
+c) de aanvullende lestijden godsdienst, niet-confessionele zedenleer en cultuurbeschouwing, vermeld in artikel 138, § 1, eerste lid, 1°.<br>
+<br>
+Het aantal aanvullende lestijden voor de ondersteuning van de kerntaak van het onderwijzend personeel waarop de school voor buitengewoon basisonderwijs recht heeft, vermeld in het eerste lid, wordt binnen een school afgerond naar het hogere geheel getal als het eerste cijfer na de komma groter is dan vier. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere geheel getal.<br>
+<br>
+§ 4. De regering bepaalt de ambten waarin een school met de aanvullende lestijden voor de ondersteuning van de kerntaak van het onderwijzend personeel, vermeld in paragraaf 1, betrekkingen kan inrichten en de wijze waarop de omrekening gebeurt van de aanvullende lestijden voor de ondersteuning van de kerntaak van het onderwijzend personeel, vermeld in paragraaf 1, naar die betrekkingen.<br>
+<br>
+§ 5. De aanvullende lestijden voor de ondersteuning van de kerntaak van het onderwijzend personeel dienen aangewend te worden om de werkdruk van het onderwijzend personeel te verminderen met een effect op de lesopdracht zodat het onderwijzend personeel zich kan focussen op zijn kerntaak, vermeld in artikel 73quinquies, § 3, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 en artikel 47quinquies, § 3, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991. Er kan aan een onderwijzend personeelslid maximaal één lestijd toegekend worden. Van dat principe kan alleen worden afgeweken tot maximaal drie lestijden per onderwijzend personeelslid op grond van een gemotiveerd verzoek en na onderhandeling in het lokaal comité. Dit gemotiveerd verzoek kan zowel van de afvaardiging van het schoolbestuur als van de afvaardiging van het personeel komen.<br>
+<br>
+§ 6. In afwijking van paragraaf 5 kan een schoolbestuur tijdens de schooljaren 2021-2022 en 2022-2023 bij een tekort aan onderwijzend personeel de aanvullende lestijden voor de ondersteuning van de kerntaak van het onderwijzend personeel ook aanwenden in ambten van het beleids- en ondersteunend personeel. De regering bepaalt de wijze waarop de lestijden via omzettingstabellen kunnen worden omgezet in punten voor het beleids- en ondersteunend personeel. De criteria voor de bepaling van het tekort aan onderwijzend personeel worden bepaald in het bevoegd lokaal comité en de aanwending in ambten van het beleids- en ondersteunend personeel kan enkel worden toegepast na onderhandeling in het bevoegd lokaal comité.<br>
+<br>
+De betrekkingen die ingericht worden in ambten van het beleids- en ondersteunend personeel als vermeld in het eerste lid, komen niet in aanmerking voor vacantverklaring en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekkingen.
+
 ## [SECTIE 6. AANVULLENDE LESTIJDEN SAMEN SCHOOL MAKEN (ing. decr. 25 februari 2022, art. 9, I: 1 september 2021)]
+
+### ART 139undevicies.
+
+§ 1. Vanaf het schooljaar 2021-2022 hebben scholen recht op aanvullende lestijden samen school maken.<br>
+<br>
+§ 2. Het aantal aanvullende lestijden samen school maken waarop de school voor gewoon basisonderwijs recht heeft, wordt berekend met de formule 0,003323524*B.<br>
+<br>
+In het eerste lid wordt verstaan onder B: het totale aantal lestijden van de school van het vorige schooljaar. Het voormelde totale aantal lestijden van de school wordt berekend door al de volgende elementen samen te tellen:<br>
+1° de lestijden volgens de schalen, vermeld in artikel 132;<br>
+2° de SES-lestijden, vermeld in artikel 134;<br>
+3° de additionele lestijden volgens de schalen die gebaseerd zijn op de leerlingleerkrachtratio, vermeld in artikel 135;<br>
+4° de aanvullende lestijden godsdienst, niet-confessionele zedenleer en cultuurbeschouwing, vermeld in artikel 138, § 1, eerste lid, 1°.<br>
+<br>
+Het aantal aanvullende lestijden samen school maken waarop de school voor gewoon basisonderwijs recht heeft, vermeld in het eerste lid, worden binnen een school afgerond naar het hogere geheel getal als het eerste cijfer na de komma groter is dan vier. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere geheel getal.<br>
+<br>
+§ 3. In afwijking van paragraaf 2 hebben scholen voor gewoon basisonderwijs die conform paragraaf 2 recht hebben op meer dan drie aanvullende lestijden samen school maken, recht op drie aanvullende lestijden.<br>
+<br>
+In afwijking van paragraaf 2 hebben scholen voor gewoon basisonderwijs die conform paragraaf 2 recht hebben op minder dan één aanvullende lestijd samen school maken, recht op één aanvullende lestijd.<br>
+<br>
+§ 4. Het aantal aanvullende lestijden samen school maken waarop de school voor buitengewoon basisonderwijs recht heeft, wordt berekend met de formule 0,003366983*D.<br>
+<br>
+Voor de toepassing van het eerste lid is D=E+F+G, waarbij:<br>
+1° E: het totale aantal lestijden van de school van het vorige schooljaar. Het voormelde totale aantal lestijden van de school wordt berekend door al de volgende elementen samen te tellen:<br>
+a) de lestijden volgens de schalen, vermeld in artikel 137bis;<br>
+b) de aanvullende lestijden voor het voeren van een gelijkekansenbeleid in het buitengewoon basisonderwijs, vermeld in artikel 138, § 1, eerste lid, 6° ;<br>
+c) de aanvullende lestijden godsdienst, niet-confessionele zedenleer en cultuurbeschouwing, vermeld in artikel 138, § 1, eerste lid, 1° ;<br>
+2° F: het totale aantal uren paramedisch, medisch, sociaal, psychologisch en orthopedagogisch personeel volgens de richtgetallen, vermeld in artikel 148, van de school van het vorige schooljaar*22/32. F wordt binnen een school afgerond naar het hogere geheel getal als het eerste cijfer na de komma groter is dan vier. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere geheel getal;<br>
+3° G: lestijden, uren en begeleidingseenheden zoals toegekend aan de school in het kader van het ondersteuningsmodel op de eerste schooldag van februari van het vorige schooljaar conform artikel 172quinquies, § 3, § 4 en § 5, en artikel 172quinquies/1, § 3 en § 4. G wordt berekend op basis van de formule G=A+B+C, waarbij:<br>
+a) A: de lestijden toegekend in het kader van het ondersteuningsmodel;<br>
+b) B: de uren toegekend in het kader van het ondersteuningsmodel*22/32;<br>
+c) C: 57,93% van de begeleidingseenheden toegekend in het kader van het ondersteuningsmodel*1 gesommeerd met 42,07% van de begeleidingseenheden toegekend in het kader van het ondersteuningsmodel*22/32.<br>
+<br>
+De term G van de som, vermeld in het tweede lid, wordt afgerond naar het hogere geheel getal als het eerste cijfer na de komma groter is dan vier. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere geheel getal.<br>
+<br>
+Het aantal aanvullende lestijden samen school maken waarop de school voor buitengewoon basisonderwijs recht heeft, vermeld in het eerste lid, worden binnen een school afgerond naar het hogere geheel getal als het eerste cijfer na de komma groter is dan vier. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere geheel getal.<br>
+<br>
+§ 5. In afwijking van paragraaf 4 hebben scholen voor buitengewoon basisonderwijs die conform paragraaf 4 recht hebben op meer dan drie aanvullende lestijden samen school maken, recht op drie aanvullende lestijden samen school maken.<br>
+<br>
+In afwijking van paragraaf 4 hebben scholen voor buitengewoon basisonderwijs die conform paragraaf 4 recht hebben op minder dan één aanvullende lestijd samen school maken, recht op één aanvullende lestijd samen school maken.<br>
+<br>
+§ 6. De regering bepaalt de ambten waarin een school met de aanvullende lestijden samen school maken, vermeld in paragraaf 1, betrekkingen kan inrichten en de wijze waarop de omrekening gebeurt van de aanvullende lestijden samen school maken, vermeld in paragraaf 1, naar die betrekkingen. De regering bepaalt de wijze waarop de lestijden via omzettingstabellen omgezet kunnen worden in punten of uren.<br>
+<br>
+§ 7. De regering keurt het afsprakenkader tussen het Gemeenschapsonderwijs en de representatieve verenigingen van de inrichtende machten van het gesubsidieerd onderwijs en de representatieve vakorganisaties over de wijze van toekenning, de verdeling en de inzet van de aanvullende lestijden samen school maken die specifiek gericht zijn op het versterken van het lokale sociaal overleg goed.<br>
+<br>
+Voor de aanwending van de lestijden samen school maken kunnen de scholen samenwerken. Voor die samenwerking kunnen de lestijden samen school maken, via een overdracht als vermeld in artikel 142, overgedragen worden.
 
 ## ONDERAFDELING C TELLING
 
@@ -3711,33 +3438,41 @@ De oprichting van betrekkingen in de ambten van het beleids- en ondersteunend pe
 
 ### ART. 153quinquies.
 
-§ 1. Aan iedere school voor gewoon of buitengewoon basisonderwijs wordt jaarlijks een puntenenveloppe toegekend voor administratieve ondersteuning.<br>
+§ 1. Aan iedere school voor gewoon of buitengewoon basisonderwijs wordt jaarlijks een puntenenveloppe voor administratieve en beleidsondersteuning toegekend.<br>
 <br>
-§ 2. Aan iedere school voor gewoon of buitengewoon basisonderwijs wordt jaarlijks een puntenenveloppe toegekend voor ICT-coördinatie. De scholen kunnen de middelen alleen aanwenden als ze deel uit maken van een scholengemeenschap, scholengroep of een samenwerkingsplatform, als vermeld in artikel VI.5 van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016.
+§ 2. Aan iedere school voor gewoon of buitengewoon basisonderwijs wordt jaarlijks een puntenenveloppe toegekend voor ICT-coördinatie.&nbsp;
 
 ### ART. 153sexies.
 
-§ 1. De regering bepaalt hoe de puntenenveloppe voor ICT-coördinatie en voor administratieve ondersteuning berekend wordt en bepaalt eveneens de personeelscategorieën en ambten waarin op basis van de puntenenveloppe betrekkingen kunnen worden opgericht.<br>
+§ 1. De regering bepaalt hoe de puntenenveloppen voor ICT-coördinatie en voor administratieve en beleidsondersteuning berekend wordt en bepaalt eveneens de personeelscategorieën en ambten waarin op basis van de puntenenveloppe betrekkingen kunnen worden opgericht.<br>
 <br>
 § 2. De oprichting van betrekkingen in ambten, bedoeld in § 1, is gebaseerd op een puntensysteem, waarbij aan elk ambt een aantal punten wordt gekoppeld. Dit aantal punten wordt bepaald op basis van de weddenschaal van het personeelslid dat de betrekking uitoefent. De regering legt de puntenwaarde vast volgens de weddenschaal.<br>
 <br>
-§ 3. Het schoolbestuur/de schoolbesturen kan/kunnen de puntenenveloppes voor, ICT en administratieve ondersteuning alleen voor dat doel gebruiken.<br>
+§ 3. Het schoolbestuur/de schoolbesturen kan/kunnen de puntenenveloppes voor, ICT en administratieve en beleidsondersteuning alleen voor het doel, vermeld in artikel 153quinquies, gebruiken.<br>
 <br>
-§ 4. Maximaal 10 % van de punten uit de puntenenveloppen ICT en administratieve ondersteuning kunnen samen gelegd worden op het niveau van de scholengemeenschap. Van dit percentage kan per puntenenveloppe na akkoord in het bevoegd lokaal comité worden afgeweken.<br>
+§ 4. Maximaal 10 % van de punten uit de puntenenveloppen ICT en administratieve en beleidsondersteuning kunnen samen gelegd worden op het niveau van de scholengemeenschap. Van dit percentage kan per puntenenveloppe na akkoord in het bevoegd lokaal comité worden afgeweken.<br>
 <br>
-In afwijking van § 3 kunnen de punten voor ICT en administratieve ondersteuning die op het niveau van de scholengemeenschap samen gelegd worden, vrij aangewend worden. Scholengemeenschappen, waar scholen van het Gemeenschapsonderwijs deel van uitmaken, kunnen deze vrij aan te wenden punten aanwenden om het personeelslid dat belast is met het mandaat van algemeen directeur in de scholengroep, waar één of meerdere scholen van de scholengemeenschap deel van uitmaken, school- of klasvrij te maken. Dit samen leggen mag niet tot gevolg hebben dat personeelsleden bijkomend ter beschikking gesteld worden wegens ontstentenis van betrekking. De niet-naleving van deze bepaling heeft tot gevolg dat een terbeschikkingstelling wegens ontstentenis van betrekking geen uitwerking heeft ten aanzien van de overheid. Het schoolbestuur moet met het oog op de controle een verklaring op erewoord bezorgen aan Agodi waarin het verklaart deze bepaling in acht te nemen.<br>
+In afwijking van § 3 kunnen de punten voor ICT en administratieve en beleidsondersteuning die op het niveau van de scholengemeenschap samen gelegd worden, vrij aangewend worden. Scholengemeenschappen, waar scholen van het Gemeenschapsonderwijs deel van uitmaken, kunnen deze vrij aan te wenden punten aanwenden om het personeelslid dat belast is met het mandaat van algemeen directeur in de scholengroep, waar één of meerdere scholen van de scholengemeenschap deel van uitmaken, school- of klasvrij te maken. Dit samen leggen mag niet tot gevolg hebben dat personeelsleden bijkomend ter beschikking gesteld worden wegens ontstentenis van betrekking. De niet-naleving van deze bepaling heeft tot gevolg dat een terbeschikkingstelling wegens ontstentenis van betrekking geen uitwerking heeft ten aanzien van de overheid. Het schoolbestuur moet met het oog op de controle een verklaring op erewoord bezorgen aan Agodi waarin het verklaart deze bepaling in acht te nemen.<br>
 <br>
-§ 5. De punten voor ICT kunnen samengelegd worden op het niveau van een samenwerkingsplatform, zoals bedoeld in artikel VI.5 van de Codificatie sommige bepalingen voor het onderwijs. De punten voor ICT kunnen op het niveau van het samenwerkingsplatform enkel voor ICT-coördinatie gebruikt worden.<br>
+§ 5. ...<br>
 <br>
-Dit samenleggen mag niet tot gevolg hebben dat personeelsleden bijkomend ter beschikking gesteld worden wegens ontstentenis van betrekking. De niet-naleving van deze bepaling heeft tot gevolg dat een terbeschikkingstelling wegens ontstentenis van betrekking geen uitwerking heeft ten aanzien van de overheid. Het schoolbestuur moet met het oog op de controle een verklaring op erewoord bezorgen aan Agodi waarin het verklaart deze bepaling in acht te nemen.<br>
-<br>
-§ 6. De betrekkingen die worden ingericht op basis van de overeenkomstig de paragrafen 4 en 5 aangewende punten komen niet in aanmerking voor vacantverklaring en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekkingen.
+§ 6. De betrekkingen die worden ingericht op basis van de overeenkomstig de paragraaf 4 aangewende punten komen niet in aanmerking voor vacantverklaring en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekkingen.
 
 ## [ONDERAFDELING B ZORG- EN GELIJKE ONDERWIJSKANSENBELEID (verv. decr. 19 juli 2013, art. II.37, I: 1 september 2013)]
 
 ### ART. 153septies.
 
-Elke school in het gewoon basisonderwijs voert een zorg- en gelijke   onderwijskansenbeleid met het oog op de optimale leer- en ontwikkelingskansen   van alle leerlingen. Binnen de haar toegekende omkadering zorgt de school voor   :<BR>1° de coördinatie van alle zorg- en gelijke onderwijskanseninitiatieven op   het niveau van de school en in voorkomend geval afstemming met het beleid ter   zake van de scholengemeenschap;<BR>2° het ondersteunen van het handelen van het   onderwijzend personeel;<BR>3° het begeleiden van leerlingen;<BR>4° de   bevordering van de kleuterparticipatie.
+§1. Elke school in het gewoon basisonderwijs voert een zorgbeleid met het oog op de optimale leeren ontwikkelingskansen van alle leerlingen. Met de haar toegekende omkadering zorgt de school voor:<br>
+1° de coördinatie van alle zorginitiatieven op het niveau van de school en in voorkomend geval afstemming met het beleid ter zake van de scholengemeenschap;<br>
+2° het ondersteunen van het handelen van het onderwijzend personeel;<br>
+3° het begeleiden van leerlingen;<br>
+4° de bevordering van de kleuterparticipatie.<br>
+<br>
+§2. Elke school in het basisonderwijs voert, in samenhang met het zorgbeleid zoals vermeld in paragraaf 1 en met de haar toegekende omkadering, ook een gelijke onderwijskansenbeleid met bijzondere aandacht voor de optimale leeren ontwikkelingskansen van de leerlingen die beantwoorden aan de leerlingenkenmerken zoals bepaald in artikel 78 en artikel 133, en de gelijkekansenindicatoren zoals bepaald in artikel 139undecies, § 1. Om de optimale leeren ontwikkelingskansen van de leerlingen die beantwoorden aan de leerlingenkenmerken zoals bepaald in artikel 78 en artikel 133, en de gelijkekansenindicatoren zoals bepaald in artikel 139undecies, § 1, te realiseren dient ze het werkingsbudget en lestijden die deze leerlingen genereren ook voor deze leerlingen in te zetten.<br>
+<br>
+Dit gelijke onderwijskansenbeleid wordt gevoerd conform de kwaliteitsverwachtingen, opgenomen in het referentiekader onderwijskwaliteit, vastgelegd ter uitvoering van artikel 4, §2, eerste lid, 2°, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs. Hiertoe bepaalt de school eigen streefdoelen alsook indicatoren en een tijdspad om deze streefdoelen te bereiken.<br>
+<br>
+De externe evaluatie op het gelijke onderwijskansenbeleid van de school met inbegrip van de aanwending van het werkingsbudget op basis van de leerlingenkenmerken, en ook de SES-lestijden of de aanvullende lestijden, vermeld in artikel 85, § 2, artikel 134 en 139ter decies van dit decreet, gebeurt in het kader van de schooldoorlichting als bedoeld in artikel 36 tot en met 42 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs.
 
 ### ART. 153octies.
 
@@ -3747,7 +3482,9 @@ Elke school in het gewoon basisonderwijs voert een zorg- en gelijke   onderwijsk
 
 ### ART. 153novies.
 
-§ 1. Aan iedere school voor kleuter-, lager- en basisonderwijs wordt jaarlijks op basis van het aantal regelmatige leerlingen ingeschreven op de teldag of op basis van het gemiddeld aantal regelmatige leerlingen tijdens de telperiode die van toepassing is voor de berekening van de lestijden volgens de schalen, een puntenenveloppe voor administratief personeel toegekend.<br /><br />§ 2. In afwijking van § 1 wordt aan de scholen voor buitengewoon basisonderwijs van het type 5 een forfaitaire puntenenveloppe toegekend. De grootte van deze puntenenveloppe wordt vastgelegd door de Vlaamse regering.
+§ 1. Aan iedere school voor kleuter-, lager- en basisonderwijs wordt jaarlijks op basis van het aantal regelmatige leerlingen ingeschreven op de teldag of op basis van het gemiddeld aantal regelmatige leerlingen tijdens de telperiode die van toepassing is voor de berekening van de lestijden volgens de schalen, een puntenenveloppe voor administratieve en beleidsondersteuning toegekend.<br>
+<br>
+§ 2. In afwijking van § 1 wordt aan de scholen voor buitengewoon basisonderwijs van het type 5 een forfaitaire puntenenveloppe toegekend. De grootte van deze puntenenveloppe wordt vastgelegd door de Vlaamse regering.
 
 ## [AFDELING 3TER VERVANGINGSEENHEDEN VOOR KORTE AFWEZIGHEDEN (ing. decr. 8 mei 2009, art. II.22, I: 1 september 2008)]
 
@@ -3763,31 +3500,71 @@ Voor de toepassing van deze afdeling wordt verstaan onder :<br />1° samenwerkin
 
 ## [Onderafdeling 1 Toepassingsgebied en definities (ing. decr. 6 juli 2018, art. 25, I: 1 oktober 2018)]
 
+### ART 153duodecies.
+
+Deze afdeling is van toepassing op de wervingsambten van het bestuurs- en onderwijzend personeel, die worden vermeld in artikel 2, § 1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 en in artikel 4, § 1, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991 en die worden tewerkgesteld in de scholen van het basisonderwijs.
+
+### ART 153terdecies.
+
+Voor de toepassing van deze afdeling wordt begrepen onder :<br>
+1° reguliere vervanging :<br>
+a) een vervanging van een afwezigheid van minder dan een schooljaar die voldoet aan volgende voorwaarden :<br>
+- het te vervangen personeelslid is aangesteld in een gefinancierde of gesubsidieerde betrekking in het onderwijs;<br>
+- het personeelslid dat afwezig is, kan worden vervangen volgens de gangbare financierings- en subsidiëringsregels;<br>
+of<br>
+b) een vervanging van een korte afwezigheid op basis van afdeling 3ter van dit hoofdstuk;<br>
+2° samenwerkingsplatform :<br>
+- een scholengemeenschap; of<br>
+- meerdere scholengemeenschappen; of<br>
+- een scholengemeenschap en één of meer scholen die niet tot een scholengemeenschap behoren; of<br>
+- meerdere scholengemeenschappen en één of meer scholen die niet tot een scholengemeenschap behoren;<br>
+3° inzetbaarheidspercentage : de verhouding tussen de totale duur van de uitgeoefende reguliere vervangingen, uitgedrukt in kalenderdagen, en de totale duur van de aanstelling, uitgedrukt in kalenderdagen, telkens vermenigvuldigd met het volume van de opdracht.
+
 ## [Onderafdeling 2. Werking (verv. decr. 9 juli 2021, art. 49, I: 1 september 2021)]
 
 ### ART 153quaterdecies.
 
-Tijdens het schooljaar 2018-2019 en het schooljaar 2019-2020 wordt een pilootproject `lerarenplatform' opgezet om tijdelijk aangestelde personeelsleden werkzekerheid te bieden.&nbsp;Tijdens het schooljaar 2020-2021 wordt het lerarenplatform voor één schooljaar verlengd.
+Vanaf het schooljaar 2021-2022 tot en met het schooljaar 2023-2024 wordt een lerarenplatform opgezet om tijdelijk aangestelde personeelsleden werkzekerheid te bieden.
 
 ### ART 153quinquiesdecies.
 
-Alle scholen van het gewoon en buitengewoon basisonderwijs die deel uitmaken van een samenwerkingsplatform kunnen deelnemen aan het pilootproject.
+Alle scholen van het gewoon en buitengewoon basisonderwijs die deel uitmaken van een samenwerkingsplatform kunnen deelnemen aan het lerarenplatform.
 
 ### ART 153sexiesdecies.
 
 De deelnemende scholen moeten in het bevoegde lokaal comité onderhandelen over :<br>
 - de deelname aan het lerarenplatform;<br>
 - de criteria van aanstelling van de betrokken personeelsleden;<br>
-- de criteria van inzetbaarheid van de betrokken personeelsleden in pedagogisch zinvolle taken;<br>
+- de criteria om de betrokken personeelsleden taken te laten vervullen voor het wegwerken van de leerachterstand of niet-reguliere vervangingen te laten doen;<br>
 - de inzetbaarheid in de verschillende scholengemeenschappen indien het samenwerkingsplatform bestaat uit meerdere scholengemeenschappen of in de scholen die niet behoren tot een scholengemeenschap.
 
 ## [Onderafdeling 3 Berekening van de middelen (ing. decr. 6 juli 2018, art. 25, I: 1 oktober 2018)]
 
 ### ART 153septiesdecies.
 
-Het aantal beschikbare voltijdse equivalenten bedraagt 2500 voor alle scholen van het basisonderwijs.&nbsp;Tijdens het schooljaar 2020-2021 bedraagt het aantal beschikbare voltijdse equivalenten uitzonderlijk 2291 voor alle scholen van het basisonderwijs. Indien niet alle scholen deelnemen wordt dit aantal proportioneel verminderd. De omzetting van voltijds equivalenten naar lestijden gebeurt door het aantal voltijdse equivalenten te vermenigvuldigen met 23,79.
+Het aantal beschikbare voltijdse equivalenten bedraagt 1621 voor alle scholen van het basisonderwijs. Indien niet alle scholen deelnemen wordt dit aantal proportioneel verminderd. De omzetting van voltijds equivalenten naar lestijden gebeurt door het aantal voltijdse equivalenten te vermenigvuldigen met 23,77.
 
 ## [Onderafdeling 4 Toekenning van de middelen (ing. decr. 6 juli 2018, art. 25, I: 1 oktober 2018)]
+
+### ART 153duodevicies.
+
+Alle deelnemende scholen ontvangen lestijden voor de aanstelling van personeelsleden in het lerarenplatform. Het volume van deze lestijden per deelnemende school wordt berekend a rato van het aandeel van de lestijden van het vorige schooljaar van de betreffende school ten opzichte van het totaal aantal lestijden van het vorige schooljaar van alle deelnemende scholen samen, waarbij onder het totale aantal lestijden wordt verstaan de som van het totale aantal :<br>
+a) lestijden volgens de schalen;<br>
+b) SES-lestijden;<br>
+c) additionele lestijden volgens de schalen gebaseerd op de leerling-leerkracht -ratio;<br>
+d) aanvullende lestijden voor het voeren van een gelijkekansenbeleid in het buitengewoon basisonderwijs;<br>
+e) aanvullende lestijden godsdienst, niet-confessionele zedenleer en cultuurbeschouwing.
+
+### ART 153duodevicies/1.
+
+In afwijking van artikel 153 septies decies wordt het aantal beschikbare voltijdse equivalenten dat niet werd ingevuld omdat niet alle scholen deelnemen aan het lerarenplatform, verdeeld over de deelnemende samenwerkingsplatformen.<br>
+<br>
+Het volume van deze lestijden per deelnemend samenwerkingsplatform wordt berekend naar rato van het aandeel van de lestijden van het vorige schooljaar van de scholen van het betreffende samenwerkingsplatform ten opzichte van het totaal aantal lestijden van het vorige schooljaar van alle deelnemende scholen samen, waarbij onder het totale aantal lestijden wordt verstaan de som van het totale aantal:<br>
+1° lestijden volgens de schalen;<br>
+2° SES-lestijden;<br>
+3° additionele lestijden volgens de schalen gebaseerd op de leerling-leerkracht-ratio;<br>
+4° aanvullende lestijden voor het voeren van een gelijkekansenbeleid in het buitengewoon basisonderwijs;<br>
+5° aanvullende lestijden godsdienst, niet-confessionele zedenleer en cultuur-beschouwing.
 
 ## [Onderafdeling 5 Aanwending van de middelen (ing. decr. 6 juli 2018, art. 25, I: 1 oktober 2018)]
 
@@ -3795,29 +3572,37 @@ Het aantal beschikbare voltijdse equivalenten bedraagt 2500 voor alle scholen va
 
 De lestijden voor het lerarenplatform worden samengelegd op het niveau van het samenwerkingsplatform. Deze lestijden kunnen niet worden overgedragen naar het volgende schooljaar of naar een ander samenwerkingsplatform.<br>
 <br>
-Het personeelslid in het lerarenplatform krijgt een aanstelling die ten vroegste aanvangt op 1 oktober en uiterlijk eindigt op het einde van het schooljaar.&nbsp;Tijdens het schooljaar 2020-2021 kan deze aanstelling al ten vroegste aanvangen op 1 september. De aanstelling is alleen mogelijk in een wervingsambt van het onderwijzend personeel.<br>
+Het personeelslid in het lerarenplatform krijgt een aanstelling die ten vroegste aanvangt op 1 september en uiterlijk eindigt op het einde van het schooljaar. De aanstelling is alleen mogelijk in een wervingsambt van het onderwijzend personeel.<br>
 <br>
 De decreten Rechtspositie zijn van toepassing voor wat betreft de tijdelijke aanstelling, maar de betrekking komt niet in aanmerking voor vacantverklaring en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren, muteren, reaffecteren of wedertewerkstellen in deze betrekkingen.
 
+### ART 153vicies.
+
+Het personeelslid wordt voor ten minste een halftijdse opdracht aangesteld in de scholen die deel uitmaken van het samenwerkingsplatform. De halftijdse opdracht kan bestaan uit lestijden voor het lerarenplatform en andere lestijden.
+
+### ART 153viciessemel.
+
+Een personeelslid in het lerarenplatform wordt ingezet voor reguliere vervangingen.
+
 ### ART 153viciesbis.
 
-Als het personeelslid niet kan worden ingezet voor reguliere vervangingen, wordt het op basis van zijn bekwaamheidsbewijs ingezet in zinvolle pedagogische taken.
+Als het personeelslid niet kan worden ingezet voor reguliere vervangingen, vervult het taken voor het wegwerken van de leerachterstand of doet het een niet-reguliere vervanging.
 
 ### ART 153viciester.
 
-De personeelsleden aangesteld in het lerarenplatform moeten op het niveau van het samenwerkingsplatform samen een inzetbaarheidspercentage van 85 procent bereiken.<br>
+De personeelsleden aangesteld in het lerarenplatform moeten op het niveau van het samenwerkingsplatform samen een inzetbaarheidspercentage van 80 procent bereiken.<br>
 <br>
-Als het bereikte inzetbaarheidspercentage op positieve of negatieve wijze afwijkt van dit vooropgesteld percentage, zal dit verschil - op positieve of negatieve wijze - worden verrekend op de middelen lerarenplatform die in voorkomend geval in het daarop volgend schooljaar worden toegekend aan het samenwerkingsplatform. Indien het bereikte inzetbaarheidspercentage lager lag dan het vooropgestelde inzetbaarheidspercentage, wordt het aantal lestijden dat wordt toegekend aan een samenwerkingsplatform verminderd met het aantal lestijden dat overeenkomt met het aantal dat nodig was om het vooropgestelde inzetbaarheidspercentage te bereiken. Indien het bereikte inzetbaarheidspercentage hoger lag dan het vooropgestelde inzetbaarheidspercentage, wordt het aantal lestijden vermeerderd met het aantal lestijden dat overeenkomt met het aantal dat nodig was om het vooropgestelde inzetbaarheidspercentage te bereiken.
+Als het bereikte inzetbaarheidspercentage op negatieve wijze afwijkt van dit vooropgesteld percentage, zal dit verschil - op negatieve wijze - worden verrekend op de middelen lerarenplatform die in voorkomend geval in het daarop volgend schooljaar worden toegekend aan het samenwerkingsplatform. Indien het bereikte inzetbaarheidspercentage lager lag dan het vooropgestelde inzetbaarheidspercentage, wordt het aantal lestijden dat wordt toegekend aan een samenwerkingsplatform verminderd met het aantal lestijden dat overeenkomt met het aantal dat nodig was om het vooropgestelde inzetbaarheidspercentage te bereiken.
 
 ## [Onderafdeling 6. Inwerkingtreding (verv. decr. 9 juli 2021, art. 57, I: 1 september 2021)]
 
 ### ART 153viciesquater.
 
-Het pilootproject lerarenplatform wordt opgevolgd en gemonitord in de gemeenschappelijke vergadering van Sectorcomité X, van onderafdeling Vlaamse Gemeenschap van afdeling 2 van het Comité voor de provinciale en plaatselijke overheidsdiensten en van het overkoepelend onderhandelingscomité met de overheid en de sociale partners, met het oog op een mogelijke verdere implementatie van de maatregel.
+Het lerarenplatform wordt geëvalueerd tijdens het schooljaar 2022-2023 met het oog op eventuele bijsturingen.
 
 ### ART 153viciesquinquies.
 
-Deze afdeling treedt in werking op 1 oktober 2018 en houdt op uitwerking te hebben op het einde van het schooljaar 2020-2021.
+Deze afdeling treedt in werking op 1 september 2021 en houdt op uitwerking te hebben op het einde van het schooljaar 2023-2024.
 
 ## [AFDELING 3QUINQUIES FLEXIBILISERING VAN DE VERVANGINGEN (verv. decr. 14 juli 2023, art. 48, I: 1 september 2023)]
 
@@ -3967,7 +3752,7 @@ De regering bepaalt de wijze van verdeling van de in artikel 166 bedoelde person
 
 ### ART. 172.
 
-Conform artikel 125decies, § 1, 3°, van dit decreet kunnen scholengemeenschappen punten voor het voeren van een zorgbeleid, verkregen op basis van artikel 125duodecies1, § 3, naar andere scholengemeenschappen overdragen, teneinde speciale projecten met betrekking tot zorg mogelijk te maken. Dit overdragen dient vóór 15 oktober van het lopende schooljaar te gebeuren.
+Conform artikel 125decies, § 1, 3°, van dit decreet kunnen scholengemeenschappen punten voor het voeren van een zorgbeleid, verkregen op basis van artikel 125duodecies1, §4, naar andere scholengemeenschappen overdragen, teneinde speciale projecten met betrekking tot zorg mogelijk te maken. Dit overdragen dient vóór 15 oktober van het lopende schooljaar te gebeuren.
 
 ### ART. 172bis.
 
@@ -4101,7 +3886,7 @@ d) type 7: 2,10 begeleidingseenheden.<br>
 <br>
 De lestijden, de uren en de begeleidingseenheden worden per school voor buitengewoon onderwijs telkens per type en afzonderlijk voor punt 1° en 2° opgeteld en in geval van een decimaal getal naar de hogere eenheid afgerond.<br>
 <br>
-In functie van extra ondersteuningsnoden voor leerlingen met een verslag type 2, 4, 6 of 7 of met een inschrijvingsverslag type 2 bovenop de lestijden die ze genereren in een school voor gewoon onderwijs of het behoud van expertise en tewerkstelling in een school voor buitengewoon onderwijs die het aanbod heeft voor leerlingen conform artikel 10, § 1, 2° en/of 4°, en/of 6°, en/of 7°, kan, met toepassing van de omzettingstabel als vermeld in artikel 139septies decies, § 9, een omzetting gebeuren van lestijden naar uren of omgekeerd om voormelde leerlingen, indien de situatie het vereist, beter te ondersteunen. Deze omzetting is afhankelijk van het akkoord van de ouders en van de lokale onderhandelingscomités van de school voor gewoon en buitengewoon onderwijs.<br>
+In functie van extra ondersteuningsnoden voor leerlingen met een verslag type 2, 4, 6 of 7 of met een inschrijvingsverslag type 2 bovenop de lestijden die ze genereren in een school voor gewoon onderwijs of het behoud van expertise en tewerkstelling in een school voor buitengewoon onderwijs die het aanbod heeft voor leerlingen conform artikel 10, § 1, 2° en/of 4°, en/of 6°, en/of 7°, kan, met toepassing van de omzettingstabel , die de regering vastlegt met toepassing van artikel 139septies decies, § 4, een omzetting gebeuren van lestijden naar uren of omgekeerd om voormelde leerlingen, indien de situatie het vereist, beter te ondersteunen. Deze omzetting is afhankelijk van het akkoord van de ouders en van de lokale onderhandelingscomités van de school voor gewoon en buitengewoon onderwijs.<br>
 <br>
 § 4. De teldagen voor de toekenning van lestijden, uren en begeleidingseenheden aan scholen voor buitengewoon onderwijs zijn:<br>
 1° de eerste schooldag van oktober van het lopende schooljaar;<br>
@@ -4357,7 +4142,7 @@ Scholen die op 1 september 1997 gefinancierd of gesubsidieerd zijn, worden geach
 
 ### ART. 192.
 
-In afwijking van artikel 153sexies, § 2, worden, vanaf 1 september 2017, voor de personeelsleden vermeld in artikel 100undecies, § 3, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, bij de omrekening van de punten administratieve ondersteuning naar gefinancierde betrekkingen de helft van de punten nodig voor een betrekking in salarisschaal 202, zoals vermeld in artikel 27quindecies van het besluit van de Vlaamse Regering betreffende de personeelsformatie in het gewoon basisonderwijs van 17 juni 1997 en zoals vermeld in artikel 25sexies van het besluit van de Vlaamse Regering betreffende de personeelsformatie in het buitengewoon basisonderwijs van 17 juni 1997, afgerond naar het hoger gelegen geheel getal, in rekening gebracht.
+In afwijking van artikel 153sexies, § 2, worden, vanaf 1 september 2017, voor de personeelsleden vermeld in artikel 100undecies, § 3, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, bij de omrekening van de punten administratieve en beleidsondersteuning naar gefinancierde betrekkingen de helft van de punten nodig voor een betrekking in salarisschaal 202, zoals vermeld in artikel 27quindecies van het besluit van de Vlaamse Regering betreffende de personeelsformatie in het gewoon basisonderwijs van 17 juni 1997 en zoals vermeld in artikel 25sexies van het besluit van de Vlaamse Regering betreffende de personeelsformatie in het buitengewoon basisonderwijs van 17 juni 1997, afgerond naar het hoger gelegen geheel getal, in rekening gebracht.
 
 ### ART. 193.
 
@@ -4377,11 +4162,33 @@ De scholen die op 1 september 1995 en op 1 september 1996 ontstaan zijn uit een 
 
 ### ART. 194quater.
 
-§ 1. Aan iedere school voor gewoon kleuter-, lager- en basisonderwijs, die geen deel uit maakt van een scholengemeenschap, wordt jaarlijks op basis van het aantal regelmatige leerlingen ingeschreven op de teldag of op basis van het gemiddelde aantal regelmatige leerlingen tijdens de telperiode die van toepassing is voor de berekening van de lestijden volgens de schalen, een puntenenveloppe voor het voeren van een zorgbeleid toegekend.<br>
+§1. Aan iedere school voor gewoon basisonderwijs die geen deel uitmaakt van een scholengemeenschap wordt jaarlijks de volgende puntenenveloppe voor het voeren van een zorgbeleid toegekend:<br>
+1° 9 punten voor scholen met minder dan 100 leerlingen;<br>
+2° 17 punten voor scholen met 100 tot 149 leerlingen;<br>
+3° 24 punten voor scholen met 150 tot 299 leerlingen;<br>
+4° 42 punten voor scholen met 300 tot 449 leerlingen;<br>
+5° 61 punten voor scholen met 450 tot 599 leerlingen;<br>
+6° 85 punten voor scholen met 600 tot 699 leerlingen;<br>
+7° 102 punten voor scholen met 700 tot 749 leerlingen;<br>
+8° 109 punten voor scholen vanaf 750 leerlingen.<br>
 <br>
-§ 2. De regering bepaalt de personeelscategorieën en ambten waarin op basis van de puntenenveloppe betrekkingen kunnen worden ingericht en bepaalt op welke wijze de omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen gebeurt.<br>
+§2. De puntenenveloppe vermeld in paragraaf 1 wordt voor scholen gewoon basisonderwijs verhoogd met 0,06211 punten per leerling. Het aldus bekomen aantal punten wordt als volgt afgerond: als het eerste cijfer na de komma groter is dan vier, wordt er afgerond naar het hogere geheel getal. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier wordt er afgerond naar het lagere geheel getal.<br>
 <br>
-Minstens 20% van de puntenenveloppe voor het voeren van een zorgbeleid dient in de scholen van het gewoon basisonderwijs aangewend te worden voor leerlingondersteuning in de klas. Dit percentage stijgt naar 25% in het schooljaar 20212022, 30% in het schooljaar 2022-2023 en 35% in het schooljaar 2023-2024. Deze leerlingondersteuning kadert in de toepassing van artikel 47bis, derde lid, en artikel 153septies, 3°, van het decreet.
+§3. De puntenenveloppe vermeld in paragraaf 1 wordt voor scholen gewoon basisonderwijs verhoogd met het op schoolniveau afgeronde getal F.<br>
+<br>
+Deze afronding wordt als volgt uitgevoerd: indien het eerste cijfer na de komma groter is dan vier wordt er afgerond naar het hoger gelegen geheel getal. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier wordt er afgerond naar het lager gelegen geheel getal.<br>
+<br>
+Waarbij F = het resultaat van de vermenigvuldiging van het aantal regelmatige kleuters die 4 jaar worden vóór 1 januari van het lopende schooljaar en die voldoen aan het leerlingenkenmerk vermeld in artikel 133, § 1, c, dat de school telt op de teldag of tijdens de telperiode met de coëfficiënt 1,208207681.<br>
+<br>
+§4. Minstens 20% van de puntenenveloppe voor het voeren van een zorgbeleid dient in de scholen van het gewoon basisonderwijs aangewend te worden voor leerlingondersteuning in de klas. Dit percentage stijgt naar 25% in het schooljaar 2021-2022, 30% in het schooljaar 2022-2023 en 35% in het schooljaar 20232024. Deze leerlingondersteuning kadert in de toepassing van artikel 47bis, derde lid, en artikel 153septies, 3°, van het decreet.<br>
+<br>
+De punten waar de school overeenkomstig paragraaf 3 recht op heeft dienen aangewend te worden voor taalintegratietrajecten in de scholen voor gewoon basisonderwijs zoals bedoeld in artikel 11quater, paragraaf 3. De aanwending van deze middelen maakt deel uit van de aanwending conform het eerste lid.<br>
+<br>
+De overige punten uit de puntenenveloppe kunnen alleen voor het zorgbeleid, vermeld in artikel 153septies, gebruikt worden.<br>
+<br>
+§5. Uit deze puntenenveloppe kunnen betrekkingen in het ambt van zorgcoördinator uit de categorie beleidsen ondersteunend personeel ingericht worden.<br>
+<br>
+De regering bepaalt op welke wijze de omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen gebeurt.
 
 ### ART. 194 quinquies.
 
