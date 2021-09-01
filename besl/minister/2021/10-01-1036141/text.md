@@ -1,0 +1,27 @@
+# Ministerieel besluit van 2021-10-01 tot uitvoering van het besluit van de Vlaamse Regering van 13 november 2020 tot regeling van een algemene en selectieve subsidie voor de organisatoren van kinderopvang en buitenschoolse opvang en van maatregelen voor de gezinnen in de kinderopvang en de buitenschoolse opvang naar aanleiding van de gevolgen van het COVID-19-virus, wat betreft het bepalen van het subsidiesysteem voor de maanden september tot en met december 2021
+
+### Aanhef
+
+Rechtsgronden<br>
+Dit besluit is gebaseerd op:<br>
+- het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, artikel 5, § 2, 2°, a), ingevoegd bij het decreet van 1 maart 2019, artikel 12, gewijzigd bij de decreten van 1 maart 2019 en 3 mei 2019, en artikel 13, § 4, ingevoegd bij het decreet van 21 juni 2013 en gewijzigd bij het decreet van 19 januari 2018;<br>
+- het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters, artikel 10, 3°, en artikel 12, § 1, tweede lid;<br>
+- het besluit van de Vlaamse Regering van 13 november 2020 tot regeling van een algemene en selectieve subsidie voor de organisatoren van kinderopvang en buitenschoolse opvang en van maatregelen voor de gezinnen in de kinderopvang en de buitenschoolse opvang naar aanleiding van de gevolgen van het COVID-19-virus, artikel 3, derde lid.<br>
+<br>
+Vormvereisten<br>
+De volgende vormvereisten zijn vervuld:<br>
+- De Inspectie van Financiën heeft advies gegeven op 29 september 2021.<br>
+- Er is geen advies gevraagd aan de Raad van State, met toepassing van artikel 3, § 1, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973. Er is een dringende noodzakelijkheid omdat de Vlaamse Regering op 1 oktober 2021 besliste om de toepassing van het besluit van 13 november 2020 te verlengen van september tot en met december 2021. De vaccinatiecampagne heeft tot gevolg dat de besmettingscijfers op een beheersbaar niveau zitten, maar kinderen maken daar (nog) geen deel van uit. Daardoor verspreidt het virus zich nog altijd binnen de doelgroep van de jonge kinderen. Dat zal zo blijven de komende maanden. Daardoor moeten organisatoren bij een uitbraak in een bepaalde locatie nog altijd hun locatie sluiten, wat een financiële impact heeft.<br>
+- Zoals bepaald in het besluit van de Vlaamse Regering van 13 november 2020 tot regeling van een algemene en selectieve subsidie voor de organisatoren van kinderopvang en buitenschoolse opvang en van maatregelen voor de gezinnen in de kinderopvang en de buitenschoolse opvang naar aanleiding van de gevolgen van het COVID-19-virus, moet de minister voor elke kalendermaand bepalen of de algemene dan wel de selectieve subsidie van toepassing is. Aangezien de epidemie sinds eind april 2021 een positieve evolutie heeft ingezet, wordt ervan uitgegaan dat de huidige context van de epidemie zich zal voortzetten. Daarom wordt verondersteld dat het subsidiesysteem nu al voor september tot en met december 2021 bepaald kan worden. Enerzijds is het noodzakelijk het subsidiesysteem te baseren op zo recent mogelijke gegevens zodat de keuze zo veel mogelijk aansluit bij de realiteit. Het gaat meer bepaald om informatie over het aantal besmettingen, het aantal ziekenhuisopnames en de positiviteitsratio, in samenhang met de bestaande maatregelen van de federale overheid om de epidemie te bestrijden en ondertussen ook de vaccinatiegraad van de bevolking. Anderzijds keurde de Vlaamse Regering pas op 1 oktober 2021 de verlenging van het subsidiesysteem goed, waardoor de minister nog niet eerder uitvoering kon geven aan de delegatie. De verlenging ging echter in het voordeel van de rechtsonderhorigen retroactief in vanaf september 2021. Daardoor is het niet mogelijk om te wachten op het advies van de Raad van State om deze regelgeving goed te keuren, ook niet op een advies binnen vijf dagen. Het is immers noodzakelijk dat de sector en de gezinnen onmiddellijk rechtszekerheid krijgen over het feit dat van september tot en met december 2021 zowel voor de sector van kinderopvang van baby's en peuters als voor de sector van de buitenschoolse opvang de selectieve compensatie van toepassing is. Dat moet dringend gecommuniceerd kunnen worden, zodat organisatoren er zicht op hebben of ze voor eventuele sluitingen in september een beroep moeten doen op tijdelijke werkloosheid van medewerkers dan wel in aanmerking komen voor compensatie. Ook gezinnen moeten geïnformeerd zijn, zodat ze weten welke maatregelen gelden als een opvang verplicht gesloten is. Om die redenen wordt het ontwerp niet aan het advies van de Raad van State voorgelegd.<br>
+<br>
+DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID, GEZIN EN ARMOEDEBESTRIJDING BESLUIT:
+
+### ART 1.
+
+In de maanden september tot en met december van het jaar 2021 kan het agentschap de volgende subsidies toekennen:<br>
+1° een selectieve subsidie als vermeld in artikel 7 tot en met 9 van het besluit van de Vlaamse Regering van 13 november 2020 tot regeling van een algemene en selectieve subsidie voor de organisatoren van kinderopvang en buitenschoolse opvang en van maatregelen voor de gezinnen in de kinderopvang en de buitenschoolse opvang naar aanleiding van de gevolgen van het COVID-19-virus, voor de organisator van kinderopvang;<br>
+2° een selectieve subsidie als vermeld in artikel 12 tot en met 14 van het voormelde besluit, voor de organisator van buitenschoolse opvang.
+
+### ART 2.
+
+Dit besluit heeft uitwerking met ingang van 1 september 2021.
