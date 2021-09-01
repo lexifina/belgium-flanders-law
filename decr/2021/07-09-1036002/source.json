@@ -2,16 +2,16 @@
   "codex_id": 1036002,
   "title": "Decreet van 2021-07-09 over het onderwijs XXXI",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036002/VolledigDocument?datum=2021-08-15",
-  "source_sha256": "2f61ad87df0961d120574953b4422f6f8c5e212629e86a76b81080d6fd5ea344",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036002/VolledigDocument?datum=2021-09-01",
+  "source_sha256": "269e8a0c5d4932864c100013b70b73a25deba2b274d161cfc2b96a291036cf39",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036002&param=informatie",
-  "as_of": "2021-08-15",
+  "as_of": "2021-09-01",
   "made": "2021-07-09",
   "gazette": "2021-08-26",
   "numac": 2021032309,
   "document_start": "2021-09-01",
   "document_end": null,
-  "in_force": "2021-08-15",
-  "article_versions": 41,
-  "record_form": "consolidated version as in force on 2021-08-15; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-09-01",
+  "article_versions": 257,
+  "record_form": "consolidated version as in force on 2021-09-01; future article versions excluded; article text as the API gives it"
 }
