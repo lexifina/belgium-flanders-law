@@ -12,6 +12,14 @@ De opleidingenstructuur van het experimenteel buitengewoon secundair onderwijs v
 
 De competenties voor de modulair georganiseerde leerinhouden, vermeld in artikel 343 van de codificatie betreffende het secundair onderwijs, zijn als bijlagen XII tot en met XXII bij dit besluit gevoegd.
 
+### ART 2/1.
+
+Tot een opleiding van het experimenteel buitengewoon secundair onderwijs volgens een modulair stelsel, dat loopt tot en met het schooljaar 2024-2025, kan:<br>
+1° vanaf het schooljaar 2021-2022: geen enkele leerling worden toegelaten die, gezien zijn vooropleiding, nog ten minste vier schooljaren moet doorlopen om een getuigschrift van een opleiding te kunnen behalen;<br>
+2° vanaf het schooljaar 2022-2023: geen enkele leerling worden toegelaten die, gezien zijn vooropleiding, nog ten minste drie schooljaren moet doorlopen om een getuigschrift van een opleiding te kunnen behalen;<br>
+3° vanaf het schooljaar 2023-2024: geen enkele leerling worden toegelaten die, gezien zijn vooropleiding, nog ten minste twee schooljaren moet doorlopen om een getuigschrift van een opleiding te kunnen behalen;<br>
+4° in het schooljaar 2024-2025: geen enkele leerling worden toegelaten die, gezien zijn vooropleiding, nog ten minste één schooljaar moet doorlopen om een getuigschrift van een opleiding te kunnen behalen, tenzij in de integratiefase.
+
 ### ART. 3.
 
 De modellen van de studiebewijzen, uitgereikt in het experimenteel buitengewoon secundair onderwijs volgens een modulair stelsel, evenals de invulonderrichtingen, vermeld in artikel 347 van de codificatie betreffende het secundair onderwijs, zijn als bijlagen XXIII tot en met XXVIII bij dit besluit gevoegd.
@@ -64,11 +72,6 @@ Opleidingenstructuur - studiegebied lichaamsverzorging<br>
 ### BIJLAGE VIII.
 
 Opleidingenstructuur - studiegebied mechanica-electriciteit<br>
-&nbsp;
-
-### BIJLAGE IX.
-
-Opleidingenstructuur - studiegebied personenzorg<br>
 &nbsp;
 
 ### BIJLAGE X.

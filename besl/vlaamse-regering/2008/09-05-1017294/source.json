@@ -2,16 +2,16 @@
   "codex_id": 1017294,
   "title": "Besluit van de Vlaamse Regering van 2008-09-05 houdende organisatie van het experimenteel buitengewoon secundair onderwijs volgens een modulair stelsel",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017294/VolledigDocument?datum=2011-07-04",
-  "source_sha256": "3beb4fa70c8773e825a9fa5e1ca05140e0ae28bcf3d46aca6007b5ca3d5e9684",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017294/VolledigDocument?datum=2021-09-01",
+  "source_sha256": "e909e76b5bec6165ba7dc81009ecb9bc76c014d8f6945211ac746d5babaa5d4d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017294&param=informatie",
-  "as_of": "2011-07-04",
+  "as_of": "2021-09-01",
   "made": "2008-09-05",
   "gazette": "2008-11-14",
   "numac": 2008036286,
   "document_start": "2008-09-01",
   "document_end": "2025-08-31",
-  "in_force": "2011-07-04",
+  "in_force": "2021-09-01",
   "article_versions": 34,
-  "record_form": "consolidated version as in force on 2011-07-04; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-09-01; future article versions excluded; article text as the API gives it"
 }
