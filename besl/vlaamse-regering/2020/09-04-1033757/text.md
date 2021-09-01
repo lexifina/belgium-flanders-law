@@ -34,6 +34,10 @@ In artikel 1 van het besluit van de Vlaamse Regering van 18 november 2005 betref
 1° de zinsnede "bijlagen I tot en met XIV" wordt vervangen door de zinsnede "bijlagen V tot en met IX en bijlage XIV";<br>
 2° punt 10° wordt opgeheven.
 
+### ART 3.
+
+Bijlage X bij hetzelfde besluit wordt opgeheven.
+
 ### ART 4.
 
 In artikel 1 van het besluit van de Vlaamse Regering van 18 november 2005 betreffende de modulaire structuur van het secundair onderwijs voor sociale promotie voor het studiegebied Talen, gewijzigd bij de besluiten van de Vlaamse Regering van 1 september 2006, 11 juni 2010, 30 augustus 2016 en 19 juli 2019, worden de volgende wijzigingen aangebracht :<br>
@@ -44,9 +48,17 @@ In artikel 1 van het besluit van de Vlaamse Regering van 18 november 2005 betref
 
 Artikel 3 van hetzelfde besluit wordt opgeheven.
 
+### ART 6.
+
+Bijlage II tot en met IV bij hetzelfde besluit worden opgeheven.
+
 ### ART 7.
 
 In artikel 1 van het besluit van de Vlaamse Regering van 1 september 2006 betreffende de modulaire structuur van het secundair onderwijs voor sociale promotie voor het studiegebied mechanica-elektriciteit, gewijzigd bij de besluiten van de Vlaamse Regering van 28 februari 2014 en 5 september 2014, wordt de zinsnede "bijlage II tot en met XXXIV en bijlage XXXVII" vervangen door de zinsnede "bijlagen III en IV, bijlage VIII tot en met XI, bijlage XV, bijlage XXV tot en met XXXIV en bijlage XXXVII".
+
+### ART 8.
+
+Bijlage V, bijlage VII, bijlage XII, bijlage XVII tot en met XXI en bijlage XXIII en XXIV bij hetzelfde besluit worden opgeheven.
 
 ### ART 10.
 
@@ -102,6 +114,10 @@ Artikel 2 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Reger
 
 Aan hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 19 juli 2019, wordt een bijlage XXIX toegevoegd, die als bijlage 6 bij dit besluit is gevoegd.
 
+### ART 19.
+
+Bijlage XXVII van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 19 juli 2019, wordt opgeheven.
+
 ### ART 20.
 
 Het opschrift van het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de modulaire structuur van het secundair volwassenenonderwijs voor het studiegebied mechanica-elektriciteit wordt vervangen door wat volgt :<br>
@@ -151,6 +167,10 @@ In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regeri
 
 Aan hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 10 maart 2017, worden een bijlage XXI tot en met XXX toegevoegd, die als bijlage 7 tot en met 16 bij dit besluit zijn gevoegd.
 
+### ART 24.
+
+Bijlage V, bijlage VI en bijlage XVIII bij hetzelfde besluit, toegevoegd bij het besluit van de Vlaamse Regering van 21 september 2012, worden opgeheven.
+
 ### ART 25.
 
 Het opschrift van het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de modulaire structuur van het secundair volwassenenonderwijs voor de studiegebieden Europese hoofdtalen richtgraad 1 en 2, Europese neventalen richtgraad 1 en 2, Oosterse talen, Scandinavische talen en Slavische talen, gewijzigd bij het besluit van de Vlaamse Regering van 19 juli 2019, wordt vervangen door wat volgt :<br>
@@ -198,6 +218,10 @@ In artikel 1 van het besluit van de Vlaamse Regering van 11 juni 2010 betreffend
 4° punt 1° en 2° van het tweede lid worden opgeheven;<br>
 5° punt 3° van het tweede lid wordt opgeheven.
 
+### ART 31.
+
+Bijlage III en IV bij hetzelfde besluit worden opgeheven.
+
 ### ART 32.
 
 Aan hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 15 februari 2019, worden een bijlage XVI tot en met XXIII toegevoegd, die als bijlage 21 tot en met 28 bij dit besluit zijn gevoegd.
@@ -217,6 +241,10 @@ Artikel 3 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regeri
 ### ART 36.
 
 Artikel 4 van hetzelfde besluit wordt opgeheven.
+
+### ART 37.
+
+Bijlage 4 en 5 bij hetzelfde besluit, toegevoegd bij het besluit van de Vlaamse Regering van 1 maart 2013, worden opgeheven.
 
 ### ART 38.
 
