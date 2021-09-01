@@ -2,16 +2,16 @@
   "codex_id": 1030329,
   "title": "Besluit van de Vlaamse Regering van 2018-12-21 tot uitvoering van afdeling 6 - toekenning van betaald educatief verlof in het kader van voortdurende vorming van de werknemers - van hoofdstuk IV van de herstelwet van 22 januari 1985 houdende sociale bepalingen en tot wijziging van artikel 4 van het besluit van de Vlaamse Regering van 17 mei 2013 betreffende de loopbaanbegeleiding",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030329/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "5bfdaf2b30376691f35c205df02543f86baae48d29a1e4fd17b8e5551d628f43",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030329/VolledigDocument?datum=2021-09-01",
+  "source_sha256": "4222ac4249f4c1b5edf90e223e0be0f7555aa1973bc681a7dec4ab34e845c3a7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030329&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2021-09-01",
   "made": "2018-12-21",
   "gazette": "2019-03-04",
   "numac": 2019010609,
   "document_start": "2019-09-01",
   "document_end": null,
-  "in_force": "2021-01-01",
-  "article_versions": 49,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-09-01",
+  "article_versions": 50,
+  "record_form": "consolidated version as in force on 2021-09-01; future article versions excluded; article text as the API gives it"
 }

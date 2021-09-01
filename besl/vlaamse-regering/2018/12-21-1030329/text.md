@@ -40,11 +40,12 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° contacturen: opleidingsuren in een rechtstreeks contact tussen de instructeur of begeleider van een opleidingsactiviteit en de cursist, gebonden aan een bepaald tijdstip en plaats van opleiding. Het kan ook werkplekleren betreffen. De instructeur of begeleider van een opleidingsactiviteit werkt voor een geregistreerde opleidingsverstrekker;<br>
+1° contacturen: de opleidingsuren met een rechtstreeks contact tussen de instructeur of begeleider van een opleidingsactiviteit en de cursist, die gebonden zijn aan een bepaald tijdstip en een bepaalde plaats van opleiding. Dat rechtstreekse contact kan fysiek of digitaal zijn. Het kan ook werkplekleren betreffen. De instructeur of begeleider van een opleidingsactiviteit werkt voor een geregistreerde opleidingsverstrekker;<br>
 2° departement: het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie;<br>
 3° DmfA: de aangifte, vermeld in artikel 21 van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders;<br>
 4° minister: de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid en de professionele vorming;<br>
 5° module: een onderdeel van een arbeidsmarktgerichte opleiding waarbij een relevant geheel van competenties wordt aangeleerd en waarvoor afzonderlijk kan worden ingeschreven;<br>
+5° /1 opleiding via blended leren: een opleiding die gegeven wordt in een weloverwogen combinatie van contactleren en een onlinecomponent, waarvoor de opleidingsverstrekker gebruikmaakt van een learning management systeem om het leerproces te ondersteunen en de leerevolutie op te volgen;<br>
 6° studiepunt: een binnen de Vlaamse Gemeenschap aanvaarde internationale eenheid die overeenstemt met ten minste 25 en ten hoogste 30 uren voorgeschreven onderwijs-, leer- en evaluatieactiviteiten, waarmee de studieomvang van elke opleiding of elk opleidingsonderdeel wordt uitgedrukt als vermeld in artikel I.3, 67°, van de Codex Hoger Onderwijs;<br>
 7° werkplekleren: het aanleren en toepassen van beroepsspecifieke competenties in een reële arbeidsomgeving;<br>
 8° wet van 22 januari 1985: de herstelwet van 22 januari 1985 houdende sociale bepalingen.
@@ -60,11 +61,12 @@ In dit besluit wordt verstaan onder:<br>
 a) basiscompetenties;<br>
 b) beroepsspecifieke competenties;<br>
 c) algemene arbeidsmarktcompetenties;<br>
-2° ze omvat per jaar minstens 32 contacturen of minstens 3 studiepunten, met uitzondering van examencontracten, of minstens 32 lestijden in het volwassenenonderwijs;<br>
+2° ze omvat per jaar minstens 32 contacturen of minstens 3 studiepunten, met uitzondering van examencontracten, of minstens 32 uur opleidingstijd voor een opleiding via blended leren;<br>
 3° ze wordt gegeven door een dienstverlener die geregistreerd is conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie;<br>
-4° ze is geregistreerd bij het departement volgens de procedure, vermeld in afdeling 3 van dit hoofdstuk.<br>
+4° ze is geregistreerd bij het departement volgens de procedure, vermeld in afdeling 3 van dit hoofdstuk;<br>
+5° in geval van blended leren heeft de opleidingsverstrekker bij de indiening van de aanvraag tot registratie meegedeeld welk learning management systeem hij voor de opleiding hanteert en hoe hij het doorlopen van het leerproces en het behalen van de vooropgezette leerdoelstellingen zal opvolgen.<br>
 <br>
-In afwijking van het eerste lid gelden voor een mentoropleiding uitsluitend de voorwaarden in het eerste lid, 1°, 3° en 4°.<br>
+In afwijking van het eerste lid gelden voor een mentoropleiding uitsluitend de voorwaarden, vermeld in het eerste lid, 1°, 3°, 4° en 5°.<br>
 <br>
 Om te voldoen aan de voorwaarde, vermeld in het eerste lid, 2°, kunnen modules uit verschillende arbeidsmarktgerichte opleidingen van eenzelfde opleidingsverstrekker gecombineerd worden of moeten de aparte modules als arbeidsmarktgerichte opleidingen zijn geregistreerd.<br>
 <br>
@@ -236,6 +238,25 @@ De Beroeps- en Evaluatiecommissie beslist binnen een termijn van zestig dagen na
 <br>
 De beslissing wordt binnen een termijn van een week ter kennisgeving naar de opleidingsverstrekker en de betrokken goedkeuringsinstantie gestuurd. Als de registratie van de opleiding ingetrokken wordt, verwijdert het departement de opleiding uit de opleidingsdatabank.
 
+### ART 21/1.
+
+§ 1. De Beroeps- en Evaluatiecommissie brengt de opleidingsverstrekker met een aangetekende zending op de hoogte van het voornemen tot intrekking van het recht op Vlaams opleidingsverlof voor een opleiding als vermeld in artikel 110bis, § 2, van de wet van 22 januari 1985. De kennisgeving bevat al de volgende informatie:<br>
+1° de motivering voor de intrekking;<br>
+2° de gevolgen van de intrekking;<br>
+3° de datum waarop de intrekking uitwerking zal hebben, die ten vroegste de einddatum kan zijn van de termijn bepaald in paragraaf 2, eerste lid.<br>
+<br>
+§ 2. De opleidingsverstrekker kan binnen dertig kalenderdagen vanaf de derde werkdag die volgt op de aangetekende verzending van de kennisgeving, bij de Beroeps- en Evaluatiecommissie een verzoek indienen om gehoord te worden. Indien de geadresseerde bewijst dat de kennisgeving hem later heeft bereikt, gaat deze termijn in vanaf de datum van ontvangst.<br>
+<br>
+De opleidingsverstrekker dient een verweerdossier in bij de Beroeps- en Evaluatiecommissie om een verzoek als vermeld in het eerste lid in te dienen.<br>
+<br>
+Nadat de opleidingsverstrekker is gehoord, beslist de Beroeps- en Evaluatiecommissie of het recht op Vlaams opleidingsverlof voor de opleiding in kwestie wordt ingetrokken. De Beroeps- en Evaluatiecommissie brengt de opleidingsverstrekker binnen een week vanaf de voormelde beslissing schriftelijk op de hoogte van de beslissing.<br>
+<br>
+§ 3. Als de opleidingsverstrekker geen verzoek als vermeld in paragraaf 2, heeft ingediend, wordt, nadat de termijn, vermeld in paragraaf 2, eerste lid, verstreken is, het voornemen van de Beroeps- en Evaluatiecommissie, vermeld in paragraaf 1, van rechtswege geacht een intrekkingsbeslissing te zijn.<br>
+<br>
+§ 4. De beslissing tot intrekking van de erkenning heeft uitwerking op de datum, vermeld in die beslissing.<br>
+<br>
+Als de registratie van de opleiding ingetrokken wordt, verwijdert het departement de opleiding onmiddellijk uit de opleidingsdatabank, vermeld in artikel 3.
+
 ## HOOFDSTUK 3. Opleidingsverlof
 
 ### ART 22.
@@ -262,7 +283,9 @@ Voor de opleidingen waarbij gebruik gemaakt wordt van studiepunten, geeft elk st
 <br>
 In afwijking van lid 4 geeft de graduaatsopleiding van het hoger beroepsonderwijs tot en met het opleidingsjaar 2021-2022 per studiepunt recht op 6 uur Vlaams opleidingsverlof.<br>
 <br>
-Voor de opleidingen in het volwassenenonderwijs heeft de werknemer het recht om op het werk afwezig te zijn gedurende het voorziene aantal lestijden van de opleiding.
+Voor de opleidingen in het volwassenenonderwijs heeft de werknemer het recht om op het werk afwezig te zijn gedurende het voorziene aantal lestijden van de opleiding.<br>
+<br>
+Voor opleidingen via blended leren heeft de werknemer het recht om op het werk afwezig te zijn gedurende de voorziene opleidingstijd
 
 ### ART 24.
 
@@ -286,7 +309,9 @@ In afwijking van het eerste lid dient de werknemer in geval van gewettigde afwez
 <br>
 Een werknemer die een opleiding volgt die geen regelmatige aanwezigheid vereist, volgt de opleiding nauwgezet, zoals bepaald in artikel 116, § 2, van de wet van 22 januari 1985, als hij deelneemt aan de eindbeoordeling. Als reden voor gewettigde afwezigheid voor de contacturen en bij de eindbeoordeling, worden alle redenen die aanleiding geven tot schorsing van de arbeidsovereenkomst in hoofde van de werknemer alsook de afwezigheid om beroepsredenen die geattesteerd wordt door de werkgever aanvaard. De nauwgezetheid wordt bepaald aan de hand van de attestering van de opleidingsverstrekker van de deelname aan de eindbeoordeling.<br>
 <br>
-In afwijking van het derde lid dient de werknemer in geval van gewettigde afwezigheid bij de eindbeoordeling aan de eerstvolgende eindbeoordeling deel te nemen om nauwgezet de opleiding te volgen.
+In afwijking van het derde lid dient de werknemer in geval van gewettigde afwezigheid bij de eindbeoordeling aan de eerstvolgende eindbeoordeling deel te nemen om nauwgezet de opleiding te volgen.<br>
+<br>
+In afwijking van het derde lid volgt een werknemer een opleiding via blended leren nauwgezet als vermeld in artikel 116, § 2, van de wet van 22 januari 1985, als hij beschikt over een attest van de opleidingsverstrekker dat verklaart dat hij het leerproces doorlopen heeft.
 
 ### ART 28.
 
@@ -309,7 +334,10 @@ a) de deelname aan het examen;<br>
 b) het aantal verworven studiepunten.<br>
 3° in geval van examens voor de examencommissie, een opleiding in het volwassenonderwijs of examens voor de erkenning en certificering van verworven competenties:<br>
 a) de deelname aan het examen;<br>
-b) de datum van het behalen van het evaluatieresultaat of de aflevering van het certificaat.<br>
+b) de datum van het behalen van het evaluatieresultaat of de aflevering van het certificaat;<br>
+4° in geval van een opleiding via blended leren:<br>
+a) het attest dat verklaart dat de werknemer het leerproces heeft doorlopen;<br>
+b) de datum van aflevering van het certificaat.<br>
 <br>
 § 3. De minister bepaalt de concrete modaliteiten voor de attestering en de registratie door de opleidingsverstrekker.<br>
 <br>
