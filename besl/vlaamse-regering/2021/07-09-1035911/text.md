@@ -37,9 +37,61 @@ In artikel 3 van het besluit van de Vlaamse regering van 17 april 1991 tot organ
 
 ## HOOFDSTUK 2. Wijzigingen van het besluit van de Vlaamse regering van 17 juni 1997 betreffende de personeelsformatie in het gewoon basisonderwijs
 
+### ART 2.
+
+In het besluit van de Vlaamse regering van 17 juni 1997 betreffende de personeelsformatie in het gewoon basisonderwijs worden de volgende artikelen opgeheven :<br>
+1° artikel 30bis, ingevoegd bij het besluit van de Vlaamse Regering van 5 september 2008 en vervangen bij het besluit van de Vlaamse Regering van 18 september 2020;<br>
+2° artikel 30ter, ingevoegd bij het besluit van de Vlaamse Regering van 5 september 2008.
+
+### ART 3.
+
+In artikel 30quater, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 september 2008, wordt de zinsnede "De omrekening van punten naar de gefinancierde of gesubsidieerde voltijdse betrekkingen gebeurt als volgt :" vervangen door de zinsnede "De omrekening van punten verkregen conform artikel 194quater van het decreet naar de gefinancierde of gesubsidieerde voltijdse betrekkingen in het ambt van zorgcoördinator gebeurt als volgt:".
+
 ## HOOFDSTUK 3. Wijzigingen van het besluit van de Vlaamse regering van 5 maart 2004 betreffende de puntenenveloppen voor de scholengemeenschappen basisonderwijs
 
+### ART 4.
+
+In het besluit van de Vlaamse regering van 5 maart 2004 betreffende de puntenenveloppen voor de scholengemeenschappen basisonderwijs worden de volgende artikelen opgeheven :<br>
+1° artikel 4ter1, ingevoegd bij het besluit van de Vlaamse Regering van 7 september 2007, vervangen bij het besluit van de Vlaamse Regering van 5 september 2008 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 18 september 2020;<br>
+2° artikel 4ter2, ingevoegd bij het besluit van de Vlaamse Regering van 7 september 2007, vervangen bij het besluit van de Vlaamse Regering van 5 september 2008 en gewijzigd bij het besluit van de Vlaamse Regering van 18 september 2020.
+
 ## HOOFDSTUK 4. Wijzigingen van het besluit van de Vlaamse Regering van 30 oktober 2009 betreffende het ondersteuningsaanbod voor gelijke onderwijskansen in het buitengewoon basisonderwijs
+
+### ART 5.
+
+In artikel 2 van het besluit van de Vlaamse Regering van 30 oktober 2009 betreffende het ondersteuningsaanbod voor gelijke onderwijskansen in het buitengewoon basisonderwijs, gewijzigd bij het besluit van de Vlaamse Regering van 20 juli 2018, worden de volgende wijzigingen aangebracht :<br>
+1° in het eerste lid wordt punt 2° opgeheven;<br>
+2° in het eerste lid wordt punt 3° vervangen door wat volgt :<br>
+"3° concentratiegraad: de procentuele verhouding tussen :<br>
+a) het aantal regelmatige leerlingen in type basisaanbod en type 3 dat beantwoordt aan de in artikel 139undecies, § 1, 1° van het decreet bedoelde gelijkekansenindicator die niet :<br>
+- binnen het niet rechtstreeks toegankelijke aanbod, als vermeld in artikel 2, § 1, 40°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp gebruik maken van de module verblijf in een multifunctioneel centrum, als vermeld in artikel 10 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
+- in een internaat buitengewoon onderwijs vermeld in deel III, hoofdstuk 4, afdeling 1, onderafdeling 2, van de codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016 ingeschreven zijn;<br>
+b) het totale aantal regelmatige leerlingen in type basisaanbod en type 3 van een school, berekend op 1 februari van het voorafgaande schooljaar, die niet :<br>
+- binnen het niet rechtstreeks toegankelijke aanbod, als vermeld in artikel 2, § 1, 40°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp gebruik maken van de module verblijf in een multifunctioneel centrum, als vermeld in artikel 10 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
+- in een internaat buitengewoon onderwijs vermeld in deel III, hoofdstuk 4, afdeling 1, onderafdeling 2, van de codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016 ingeschreven zijn;<br>
+3° in het eerste lid wordt punt 5° opgeheven;<br>
+4° in het eerste lid wordt punt 7° opgeheven;<br>
+5° in het tweede lid worden de woorden "artikel 16, § 2" vervangen door de woorden "artikel 15, § 5".
+
+### ART 6.
+
+Artikel 3 van hetzelfde besluit wordt opgeheven.
+
+### ART 7.
+
+In artikel 6 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 20 juli 2018, wordt paragraaf 3 opgeheven.
+
+### ART 8.
+
+Artikel 8 en 9 van hetzelfde besluit worden opgeheven.
+
+### ART 9.
+
+In artikel 10 van hetzelfde besluit wordt de zinssnede "en artikel 8" opgeheven.
+
+### ART 10.
+
+In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 12 oktober 2012 en 20 juli 2018, wordt hoofdstuk IV, dat bestaat uit artikel 11 tot en met 15, opgeheven.
 
 ## HOOFDSTUK 5. Wijzigingen van het besluit van de Vlaamse Regering van 26 september 2014 betreffende de bepaling van de regels voor de aanvraag en de toekenning van de subsidie voor de Rijdende kleuterschool Vlaanderen
 
@@ -62,3 +114,11 @@ In artikel 7 van hetzelfde besluit wordt de zinsnede "30 april voorafgaand aan h
 In artikel 8, eerste lid, van hetzelfde besluit wordt het woord "schooljaren" vervangen door het woord "kalenderjaren".
 
 ## HOOFDSTUK 6. Slotbepalingen
+
+### ART 15.
+
+Dit besluit treedt in werking op 1 september 2021, met uitzondering van de artikelen 1, 11, 12, 13 en 14 die in werking treden op de dag die volgt op de bekendmaking van dit besluit in het Belgisch Staatsblad.
+
+### ART 16.
+
+De Vlaamse minister, bevoegd voor onderwijs en vorming, is belast met de uitvoering van dit besluit.
