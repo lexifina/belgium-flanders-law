@@ -88,7 +88,10 @@ De ambten die de leden van het administratief personeel in het buitengewoon secu
 
 ### ART. 19bis.
 
-§ 1. De ambten die de leden van het ondersteunend personeel kunnen uitoefenen in het buitengewoon secundair onderwijs bestaan uit de volgende wervingsambten :<br />1° administratief medewerker;<br />2° opvoeder. <br />
+§ 1. De ambten die de leden van het ondersteunend personeel kunnen uitoefenen in het buitengewoon secundair onderwijs bestaan uit de volgende wervingsambten :<br>
+1° administratief medewerker;<br>
+2° opvoeder;<br>
+3° ICT-coördinator.
 
 ## HOOFDSTUK IV OVERGANGSBEPALINGEN
 
