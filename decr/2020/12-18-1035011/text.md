@@ -258,7 +258,21 @@ In artikel 46 van het decreet van 23 december 2011 betreffende het duur- zaam be
 
 ## Afdeling 1. Verplaatsen van de opleiding "bachelor in de toegepaste informatica" van het studiegebied Handelswetenschappen en bedrijfskunde naar het studiegebied Industriële wetenschappen en technologie
 
+### ART 25.
+
+Aan artikel II.72 van de Codex Hoger Onderwijs van 11 oktober 2013 wordt een vierde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"De volgende professioneel gerichte bacheloropleidingen, gerangschikt in het studiegebied Handelswetenschappen en bedrijfskunde, worden vanaf het academie- jaar 2021-2022 gerangschikt in het studiegebied Industriële wetenschappen en technologie van het hoger professioneel onderwijs:<br>
+1° bachelor in de toegepaste informatica; 2° bachelor of Applied Computer Science;<br>
+3° bachelor of Applied Information Technology.".
+
 ## Afdeling 2. Toekennen van onderwijsbevoegdheid aan Odisee voor het aanbieden van de opleiding "bachelor in de toegepaste informatica" in het studiegebied Industriële wetenschappen en technologie in de vestigingsplaats Brussel-Hoofdstad
+
+### ART 26.
+
+Aan artikel II.84 van dezelfde codex, vervangen bij het decreet van 4 mei 2018, wordt een paragraaf 3 toegevoegd, die luidt als volgt:<br>
+<br>
+" § 3. Odisee kan in de vestiging Brussel-Hoofdstad in het hoger professioneel onderwijs in het studiegebied Industriële wetenschappen en technologie de opleiding "bachelor in de toegepaste informatica" aanbieden en de daarop betrekking hebbende graad van bachelor verlenen.".
 
 ## Afdeling 3. Toevoegen 8 miljoen euro voor aanpassing puntengewichten hogescholen 2021
 
