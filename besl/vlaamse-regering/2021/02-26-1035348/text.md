@@ -19,6 +19,55 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+Aan de volgende onderwijsinstellingen wordt, met toepassing van artikel 289, § 7 van de Codex Secundair Onderwijs van 17 december 2010, voor het schooljaar 2021-2022 toestemming verleend om de volgende programmatie te doen:<br>
+1° buso De Passer<br>
+Vijverhoflaan 13<br>
+8200 Sint-Michiels<br>
+2e graad Biotechnische Wetenschappen tso<br>
+studiegebied/domein: STEM<br>
+finaliteit: doorstroom;<br>
+2° buso De Passer<br>
+Vijverhoflaan 13<br>
+8200 Sint-Michiels<br>
+2e graad Maatschappij- en Welzijnswetenschappen tso<br>
+studiegebied/domein: Maatschappij en welzijn<br>
+finaliteit: doorstroom;<br>
+3° buso De Passer<br>
+Vijverhoflaan 13<br>
+8200 Sint-Michiels<br>
+Voorbereidend jaar hoger onderwijs Bijzonder wetenschappelijke vorming aso<br>
+studiegebied/domein: Algemeen secundair onderwijs;<br>
+4° buso De Passer<br>
+Vijverhoflaan 13<br>
+8200 Sint-Michiels<br>
+3e graad Handel tso<br>
+studiegebied/domein: Handel;<br>
+5° buso De Passer<br>
+Vijverhoflaan 13<br>
+8200 Sint-Michiels<br>
+3e graad Boekhouden-Informatica tso<br>
+studiegebied/domein: Handel;<br>
+6° buso Het Kompas<br>
+Bethaniënlei 5<br>
+2960 Sint-Job-In't-Goor<br>
+2e graad Hout bso<br>
+studiegebied/domein: STEM<br>
+finaliteit: arbeidsmarkt<br>
+7° buso Het Kompas<br>
+Bethaniënlei 5<br>
+2960 Sint-Job-In't-Goor<br>
+2e graad Bouw bso<br>
+studiegebied/domein: STEM<br>
+finaliteit: arbeidsmarkt<br>
+8° buso Het Kompas<br>
+Bethaniënlei 5<br>
+2960 Sint-Job-In't-Goor<br>
+2e graad Plant, dier en milieu bso<br>
+studiegebied/domein: Land- en tuinbouw<br>
+finaliteit: arbeidsmarkt.
+
 ### ART 2.
 
 Artikel 1 van dit besluit treedt in werking vanaf 1 september 2021.
