@@ -60,7 +60,9 @@ De Vlaamse regering bepaalt de nadere regelen met betrekking tot de samenstellin
 
 § 1. Met school wordt bedoeld een pedagogisch geheel, al dan niet verspreid over één of meer gebouwen en gevestigd op één of meer adressen waar onderwijs georganiseerd wordt en dat onder het gezag staat van één directeur.<br>
 <br>
-§ 2. Met pedagogische entiteit wordt bedoeld het geheel van scholen die afhangen van eenzelfde inrichtende macht en die in eenzelfde gebouwencomplex gelegen zijn.
+§ 2. Met pedagogische entiteit wordt bedoeld het geheel van scholen die afhangen van eenzelfde inrichtende macht en die in eenzelfde gebouwencomplex gelegen zijn.<br>
+<br>
+§ 3. In afwijking van paragraaf 1 wordt een scholengemeenschapsinstelling, zoals vermeld in artikel 125duodecies2 van het decreet van 25 februari 1997 betreffende het basisonderwijs en artikel 63/1 van de Codex Secundair Onderwijs, ook beschouwd als school.
 
 ## AFDELING 2 SAMENSTELLING
 
@@ -130,7 +132,12 @@ Deze inlichtingen hebben betrekking op:<br>
 1° inlichtingen over de evolutie van het aantal leerlingen en de weerslag ervan op tewerkstelling en infrastructuur;<br>
 2° inlichtingen over de structuur van de scho(o)l(en) inclusief over de fusies, overname, sluiting, uitbreiding, rationalisering of andere belangrijke structuurwijzigingen waarover de inrichtende macht onderhandelingen of besprekingen voert, en de weerslag daarvan op de evolutie van de tewerkstelling;<br>
 3° inlichtingen over het personeelsverloop;<br>
-4° het aantal tijdelijke personeelsleden met een aanstelling voor bepaalde duur dat het recht op een tijdelijke aanstelling van doorlopende duur verwerft op basis van een positieve beoordeling of dat geen beoordeling heeft gekregen en het aantal tijdelijke personeelsleden met een aanstelling voor bepaalde duur dat op basis van de beoordeling een verslag met werkpunten krijgt, met binnen die laatste groep een opsplitsing tussen de personeelsleden die daarna een nieuwe aanstelling verkrijgen en de personeelsleden die daarna geen nieuwe aanstelling verkrijgen. Die gegevens worden verstrekt per school.
+4° het aantal tijdelijke personeelsleden met een aanstelling voor bepaalde duur dat:<br>
+- het recht op een tijdelijke aanstelling van doorlopende duur verwerft op basis van een positieve beoordeling of dat geen beoordeling heeft gekregen;<br>
+- het recht op een tijdelijke aanstelling van doorlopende duur nog niet verwerft wegens een beoordeling met werkpunten, met binnen die groep een opsplitsing tussen de personeelsleden die daarna een nieuwe aanstelling verkrijgen en de personeelsleden die daarna geen nieuwe aanstelling verkrijgen;<br>
+- het recht op een tijdelijke aanstelling van doorlopende duur niet verwerft wegens een negatieve beoordeling.<br>
+<br>
+Deze gegevens worden verstrekt per school.
 
 ### ART. 28.
 
