@@ -344,6 +344,11 @@ Als het personeelslid niet is geëvalueerd, wordt aan die voorwaarde geacht vold
 <br>
 In het lokaal onderhandelingscomité worden er afspraken gemaakt over de vaste benoeming als verschillende personeelsleden over evenveel dienstanciënniteit beschikken.<br>
 <br>
+§ 4/1. In afwijking van paragraaf 3 en 4, kunnen op 1 januari 2022 personeelsleden eenmalig vastbenoemd worden boven op het maximumpercentage, vermeld in paragraaf 3, als ze voldoen aan al de volgende voorwaarden:<br>
+1° ze hebben de leeftijd van vijfenvijftig jaar bereikt op 1 januari 2022;<br>
+2° ze zijn in dienst op 1 september 2021;<br>
+3° ze hebben minimaal twintig jaar dienstanciënniteit binnen de basiseducatie.<br>
+<br>
 § 5. Een personeelslid wordt benoemd voor het volume van zijn aanstelling van onbepaalde duur of voor het volume van zijn tijdelijke andere opdracht, conform artikel 65, waarvoor het aan de vooravond van de benoeming aangesteld is. Van het voormelde volume kan alleen afgeweken worden als er onvoldoende organieke betrekkingen zijn in het centrum of het benoemingspercentage zou worden overschreden.<br>
 <br>
 § 6. Met het oog op een vaste benoeming op 1 januari van het schooljaar wordt elke vacante betrekking, uiterlijk op 15 oktober van het kalenderjaar voorafgaand aan de datum van de vaste benoeming, door het centrumbestuur meegedeeld aan alle personeelsleden van het centrum.<br>
