@@ -124,15 +124,13 @@ De Vlaamse Regering kent, binnen de grenzen van de kredieten die daartoe op de b
 3° eerste indicator: de mate waarin het lokaal bestuur kwetsbare gezinnen bereikt;<br>
 4° tweede indicator: de mate waarin het lokaal bestuur kinderen met een specifieke zorgbehoefte bereikt.<br>
 <br>
-De Vlaamse Regering kent daarnaast, binnen de grenzen van de kredieten die daartoe op de begroting van de Vlaamse Gemeenschap worden ingeschreven, op basis van de parameters en indicatoren, vermeld in het eerste lid, aan de lokale besturen een subsidie toe die bij voorrang wordt besteed aan het aanbod van kleuteropvang met een kwaliteitslabel.<br>
+Het lokaal bestuur besteedt een deel van de toegekende subsidie, vermeld in het eerste lid, aan het aanbod van kleuteropvang met een kwaliteitslabel.<br>
 <br>
-De subsidie, vermeld in het eerste lid, wordt uitbetaald overeenkomstig de regeling in artikel 13 van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds.<br>
-<br>
-De Vlaamse Regering bepaalt de nadere regels en stelt vast wat wordt verstaan onder kwetsbare gezinnen en onder kinderen met een specifieke zorgbehoefte. Ze bepaalt ook de wijze waarop de subsidie, vermeld in het tweede lid, zal worden uitbetaald.
+De Vlaamse Regering bepaalt de nadere regels, waaronder het deel van de subsidie, vermeld in het tweede lid, dat het lokaal bestuur moet besteden aan kleuteropvang met een kwaliteitslabel, en stelt vast wat wordt verstaan onder kwetsbare gezinnen en onder kinderen met een specifieke zorgbehoefte. Ze bepaalt ook de wijze waarop de subsidie zal worden uitbetaald.
 
 ### ART 13.
 
-De bepalingen van het decreet van 15 juli 2011 houdende vaststelling van de algemene regels waaronder in de Vlaamse Gemeenschap en het Vlaamse Gewest periodieke plan- en rapporteringsverplichtingen aan lokale besturen kunnen worden opgelegd, zijn van toepassing.<br>
+De bepalingen van het decreet van 15 juli 2011 houdende vaststelling van de algemene regels waaronder in de Vlaamse Gemeenschap en het Vlaamse Gewest periodieke plan- en rapporteringsverplichtingen aan lokale besturen kunnen worden opgelegd, zijn van toepassing met uitzondering van artikel 9 van dat decreet.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels voor de periodieke plan- en rapporteringsverplichtingen die van toepassing zijn voor de Vlaamse Gemeenschapscommissie.
 
@@ -212,9 +210,9 @@ Als de Vlaamse Regering gedurende de overgangstermijn een subsidie, vermeld in a
 
 ### ART 16.
 
-In afwachting van de operationalisering van de indicatoren, vermeld in artikel 12, eerste lid, 3° en 4°, en uiterlijk tot drie jaar na de inwerkingtreding van dit artikel, wordt in de plaats daarvan de subsidie in elk geval mee gebaseerd op het aantal kwetsbare gezinnen dat in de gemeente is gedomicilieerd.<br>
+Als de Vlaamse Regering gedurende de overgangstermijn, vermeld in artikel 17, eerste lid, een subsidie als vermeld in artikel 12 toekent aan lokale besturen, wordt de bestaande subsidie, vermeld in artikel 17, eerste lid, daarin verrekend en worden de indicatoren, vermeld in artikel 12, eerste lid, 3° en 4°, niet toegepast bij de bepaling van het subsidiebedrag, maar wordt wel rekening gehouden met het kansarmoedepercentage bij de selectie van lokale besturen die in aanmerking komen voor een subsidie.<br>
 <br>
-De Vlaamse Regering bepaalt wat wordt verstaan onder de kwetsbare gezinnen, vermeld in het eerste lid.
+De Vlaamse Regering bepaalt de nadere regels, minstens hoe de verrekening gebeurt, wat verstaan wordt onder het kansarmoedepercentage en hoe het kansarmoedepercentage meetelt bij de selectie van lokale besturen.
 
 ### ART 17.
 
