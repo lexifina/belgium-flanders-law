@@ -143,9 +143,11 @@ Voor elke langlopende studierichting worden voor de eerste, tweede en derde graa
 <br>
 Voor de domeinoverschrijdende initiatieopleiding worden basiscompetenties vastgelegd.<br>
 <br>
-Voor leerlingen van de vierde graad die uitstromen naar kunstbeoefening in de vrije tijd of de arbeidsmarkt gelden beroepskwalificaties. Voor leerlingen van de vierde graad die naar het hoger onderwijs willen doorstromen geldt het specifieke gedeelte van een onderwijskwalificatie.<br>
+Voor leerlingen van de vierde graad die uitstromen naar kunstbeoefening in de vrije tijd of de arbeidsmarkt gelden beroepskwalificaties. Voor leerlingen van de vierde graad die naar het hoger onderwijs willen doorstromen gelden de specifieke eindtermen van het wetenschapsdomein kunst en cultuur, vermeld in bijlage 4 van het decreet van 12 februari 2021 betreffende de onderwijsdoelen voor de tweede en derde graad van het secundair onderwijs en diverse andere verwante maatregelen.<br>
 <br>
-Voor elke kortlopende studierichting selecteert het schoolbestuur een relevant en consistent geheel van specifieke eindtermen of basiscompetenties die uitsluitend uit het desbetreffende artistieke domein worden geput.<br>
+Voor elke kortlopende studierichting, met uitzondering van de kortlopende studierichting schrijver, selecteert het schoolbestuur een relevant en consistent geheel van specifieke eindtermen of basiscompetenties die uitsluitend uit het desbetreffende artistieke domein worden geput.<br>
+<br>
+Voor de kortlopende studierichting schrijver geldt de beroepskwalificatie amateur literair schrijver.<br>
 &nbsp;
 
 ### ART 6.
@@ -495,9 +497,11 @@ Om toegelaten te worden tot de tweede graad van de domeinen dans of woordkunst-d
 <br>
 Om toegelaten te worden tot de tweede graad voor volwassenen van het domein muziek moet de leerling de leeftijd van vijftien jaar bereikt hebben op de dag van 31 december die volgt op de aanvang van het schooljaar. Mits toestemming van de directeur kan een leerling die op dat ogenblik minder dan vijftien jaar oud is toch om pedagogische redenen worden toegelaten tot de tweede graad voor volwassenen van het domein muziek.<br>
 <br>
-Om toegelaten te worden tot de tweede graad van het domein beeldende en audiovisuele kunsten moet de leerling voldoen aan een van de volgende voorwaarden:<br>
+Om toegelaten te worden tot de tweede graad van het domein beeldende en audiovisuele kunsten mag de leerling nog geen twaalf jaar zijn op de dag van 31 december die volgt op de aanvang van het schooljaar en moet voldoen aan een van de volgende voorwaarden:<br>
 1° de basiscompetenties van de eerste graad verworven hebben;<br>
-2° de leeftijd van acht jaar bereikt hebben, maar niet ouder zijn dan twaalf jaar op de dag van 31 december die volgt op de aanvang van het schooljaar.
+2° de leeftijd van acht jaar bereikt hebben op de dag van 31 december die volgt op de aanvang van het schooljaar.<br>
+<br>
+In afwijking van het derde lid kan een leerling die nog geen twaalf jaar is op de dag van 31 december die volgt op de aanvang van het schooljaar en ingeschreven is in het lager onderwijs toegelaten worden tot de tweede graad.
 
 ### ART 32.
 
@@ -643,17 +647,20 @@ Als een leerling van academie verandert of in meerdere academies les volgt, kunn
 
 ### ART 49.
 
-Voor iedere leerling houdt de academie de volgende gegevens bij, die ze aan het Agentschap voor Onderwijsdiensten bezorgt :<br>
+Voor iedere leerling houdt de academie de volgende gegevens bij, die ze aan het Agentschap voor Onderwijsdiensten bezorgt&nbsp;met het oog op het uniek identificeren van de leerlingen, het controleren van de toelatingsvoorwaarden en het toekennen van middelen :<br>
 1° de naam, de voornaam en het adres;<br>
 2° de geboortedatum;<br>
 3° de nationaliteit;<br>
 4° de al gevolgde opleidingen in een academie voor deeltijds kunstonderwijs en de resultaten;<br>
 5° de huidige opleiding in het deeltijds kunstonderwijs;<br>
-6° het rijksregisternummer of bisnummer.<br>
+6° het rijksregisternummer of bisnummer;<br>
+7° de aan- en afwezigheden bij de leeractiviteiten.<br>
 <br>
 De Vlaamse Regering bepaalt de wijze en de data waarop de gegevens, vermeld in het eerste lid, uiterlijk bezorgd moeten zijn.<br>
 <br>
 Onder bisnummer als vermeld in het eerste lid, 6°, wordt verstaan : het identificatienummer van de sociale zekerheid voor de personen die rechten hebben binnen de Belgische sociale zekerheid, maar niet opgenomen zijn in het Rijksregister.<br>
+<br>
+Het Agentschap voor Onderwijsdiensten, vermeld in het eerste lid, is de verwerkingsverantwoordelijke voor de gegevens, vermeld in het eerste lid. De maximale bewaartermijnen voor gegevens als vermeld in het eerste lid die worden bewaard conform artikel 5, lid 1, e), van de algemene verordening gegevensbescherming, worden vastgelegd in beheersregels als vermeld in artikel III.81, §2, van het Bestuursdecreet van 7 december 2018. Bij het bepalen van die bewaartermijnen wordt rekening gehouden met het kunnen garanderen van een vlot leertraject.<br>
 &nbsp;
 
 ## Onderafdeling 2 Tijdelijke en definitieve uitsluiting van leerlingen
@@ -713,7 +720,9 @@ De directeur en de leerkrachten motiveren de afwijkingen in relatie tot de leerw
 
 ### ART 54.
 
-Een regelmatige leerling is verplicht deel te nemen aan alle leeractiviteiten en zich te engageren om de vooropgestelde&nbsp;onderwijsdoelen te realiseren, behalve in geval van door het schoolbestuur gewettigde afwezigheid of behalve in geval van vrijstelling van een vak.<br>
+Een regelmatige leerling is verplicht deel te nemen aan alle leeractiviteiten en zich te engageren om de vooropgestelde&nbsp;onderwijsdoelen te realiseren, behalve in geval van gewettigde afwezigheid of behalve in geval van vrijstelling van een vak.<br>
+<br>
+De Vlaamse Regering bepaalt de redenen voor gewettigde afwezigheid.<br>
 <br>
 De academie is vrij om de indeling in klasgroepen te bepalen van de leerlingen die een bepaald vak volgen. Daarbij houdt zij rekening met de leeftijdsgebonden cognitieve en psychosociale ontwikkeling van kinderen, jongeren en volwassenen.<br>
 &nbsp;
@@ -1192,7 +1201,57 @@ De Vlaamse Regering bepaalt de termijn en de wijze waarop de overgedragen lestij
 
 ## [Onderafdeling 3. Aanvullende lestijden voor de ondersteuning van de kerntaak van het onderwijzend personeel (ing. decr. 25 februari 2022, art. 50, I: 1 september 2021)]
 
+### ART 75/1.
+
+§ 1. Voor het schooljaar 2021-2022 bedraagt het totale aantal aanvullende lestijden voor de ondersteuning van de kerntaak van het onderwijzend personeel 604 lestijden.<br>
+<br>
+Voor het schooljaar X-X+1, vanaf het schooljaar 2022-2023, worden de lestijden, vermeld in het eerste lid, vermenigvuldigd met de aanpassingscoëfficiënt A1=X/Y, waarbij:<br>
+1° X: het totale aantal leerlingen in het deeltijds kunstonderwijs op de eerste schooldag van februari X;<br>
+2° Y: het totale aantal leerlingen in het deeltijds kunstonderwijs op de eerste schooldag van februari 2021.<br>
+<br>
+§ 2. Het aantal aanvullende lestijden voor de ondersteuning van de kerntaak van het onderwijzend personeel waarop de academie voor deeltijds kunstonderwijs recht heeft, wordt berekend met de formule A*B, waarbij:<br>
+1° A: de beschikbare lestijden voor het deeltijds kunstonderwijs, vermeld in paragraaf 1, gedeeld door het totale aantal lestijden in het deeltijds kunstonderwijs van het vorige schooljaar van alle academies samen;<br>
+2° B: het totale aantal lestijden van de academie van het vorige schooljaar, waarbij onder het totale aantal lestijden van de academie de som van al de volgende elementen wordt verstaan:<br>
+a) de lestijden, vermeld in artikel 69 van dit decreet;<br>
+b) de overbruggingslestijden, vermeld in artikel 6 van het decreet van 30 april 2021 tot het nemen van dringende tijdelijke maatregelen in het onderwijs naar aanleiding van de coronacrisis (VII);<br>
+c) de bijkomende overbruggingslestijden, vermeld in artikel 7 van het voormelde decreet van 30 april 2021.<br>
+<br>
+De lestijden, vermeld in het eerste lid, worden binnen een academie afgerond naar het hogere geheel getal als het eerste cijfer na de komma groter is dan vier. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere geheel getal.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt de ambten waarin een academie met de aanvullende lestijden voor de ondersteuning van de kerntaak van het onderwijzend personeel, vermeld in paragraaf 1, betrekkingen kan inrichten en de wijze waarop de omrekening gebeurt van de aanvullende lestijden voor de ondersteuning van de kerntaak van het onderwijzend personeel, vermeld in paragraaf 1, naar die betrekkingen.<br>
+<br>
+§ 4. De aanvullende lestijden voor de ondersteuning van de kerntaak van het onderwijzend personeel worden gebruikt om de werkdruk van het onderwijzend personeel te verminderen met een effect op de lesopdracht. Er kan aan een onderwijzend personeelslid maximaal één lestijd toegekend worden. Van dat principe kan alleen worden afgeweken tot maximaal drie lestijden per onderwijzend personeelslid op grond van een gemotiveerd verzoek en na onderhandeling in het lokaal comité. Dit gemotiveerd verzoek kan zowel van de afvaardiging van het schoolbestuur als van de afvaardiging van het personeel komen. Deze toegekende lestijden kunnen, in afwijking van artikel 75, niet overgedragen worden naar het daaropvolgende schooljaar.<br>
+<br>
+§ 5. In afwijking van paragraaf 4 kan een schoolbestuur tijdens de schooljaren 2021-2022 en 2022-2023 bij een tekort aan onderwijzend personeel de aanvullende lestijden voor de ondersteuning van de kerntaak van het onderwijzend personeel ook aanwenden in ambten van het ondersteunend personeel. De criteria voor de bepaling van het tekort aan onderwijzend personeel worden bepaald in het bevoegd lokaal comité en de aanwending in ambten van het ondersteunend personeel kan enkel worden toegepast na onderhandeling in het bevoegd lokaal comité.<br>
+<br>
+De betrekkingen die ingericht worden in ambten van het ondersteunend personeel als vermeld in het eerste lid, komen niet in aanmerking voor vacantverklaring en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekkingen.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze waarop omrekening gebeurt van de aanvullende lestijden naar administratieve omkaderingseenheden voor ambten van het ondersteund personeel.
+
 ## [Onderafdeling 3/1 Aanvullende lestijden samen school maken (ing. decr. 25 februari 2022, art. 52, I: 1 september 2021)]
+
+### ART 75/2.
+
+§ 1. Vanaf het schooljaar 2021-2022 hebben academies recht op aanvullende lestijden samen school maken.<br>
+<br>
+§ 2. Het aantal aanvullende lestijden samen school maken waarop de academie recht heeft, wordt berekend met de formule 0,002051981*B.<br>
+<br>
+In het eerste lid wordt verstaan onder B: het totale aantal lestijden van de academie van het vorige schooljaar, waarbij onder het totale aantal lestijden van de academie de som van al de volgende elementen wordt verstaan:<br>
+a) de lestijden, vermeld in artikel 69 van dit decreet;<br>
+b) de overbruggingslestijden, vermeld in artikel 6 van het decreet van 30 april 2021 tot het nemen van dringende tijdelijke maatregelen in het onderwijs naar aanleiding van de coronacrisis (VII);<br>
+c) de bijkomende overbruggingslestijden, vermeld in artikel 7 van het voormelde decreet van 30 april 2021.<br>
+<br>
+De lestijden, vermeld in het eerste lid, worden binnen een academie afgerond naar het hogere geheel getal als het eerste cijfer na de komma groter is dan vier. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere geheel getal.<br>
+<br>
+§ 3. In afwijking van paragraaf 2 hebben academies die conform paragraaf 2 recht hebben op meer dan drie aanvullende lestijden samen school maken, recht op drie aanvullende lestijden.<br>
+<br>
+In afwijking van paragraaf 2 hebben academies die conform paragraaf 2 recht hebben op minder dan één aanvullende lestijd samen school maken, recht op één aanvullende lestijd.<br>
+<br>
+§ 4. De Vlaamse Regering bepaalt de ambten waarin een academie met de aanvullende lestijden samen school maken, vermeld in paragraaf 1, betrekkingen kan inrichten en de wijze waarop de omrekening gebeurt van de aanvullende lestijden samen school maken, vermeld in paragraaf 1, naar die betrekkingen. De Vlaamse Regering bepaalt ook de wijze waarop de lestijden via omzettingstabellen omgezet kunnen worden in punten of uren.<br>
+<br>
+§ 5. De Vlaamse Regering keurt het afsprakenkader tussen het Gemeenschapsonderwijs en de representatieve verenigingen van schoolbesturen van het gesubsidieerd onderwijs en de representatieve vakorganisaties over de wijze van toekenning, de verdeling en de inzet van de aanvullende lestijden samen school maken die specifiek gericht zijn op het versterken van het lokale sociaal overleg goed.<br>
+<br>
+Voor de aanwending van de lestijden samen school maken kunnen de academies samenwerken. Voor die samenwerking kunnen die lestijden, via een overdracht als vermeld in artikel 75, samengelegd worden. De scholen die samenwerken, maken in dat geval afspraken over de inzet en aanwending van de lestijden. Deze toegekende lestijden kunnen, in afwijking van artikel 75, niet overgedragen worden naar het daaropvolgende schooljaar.
 
 ## Onderafdeling 4 Bijzondere bepalingen
 
@@ -1224,85 +1283,25 @@ Als de betrokken academie, conform artikel 155, recht heeft op additionele lesti
 
 ### ART 76/1.
 
-§ 1. Een academie heeft vanaf het schooljaar 2019-2020 recht op aanvullende lestijden voor aanvangsbegeleiding die als volgt berekend worden: A x B, waarbij:<br>
+§ 1. Een academie heeft recht op aanvullende lestijden voor aanvangsbegeleiding die berekend worden met de formule A*B, waarbij:<br>
 1° A: het totale aantal lestijden van de academie, dat wordt berekend conform artikel 69 op basis van de leerlingentelling van 1 februari van het voorgaande schooljaar;<br>
 2° B: X/Y, waarbij:<br>
 a) X: het totale aantal aanvullende lestijden voor aanvangsbegeleiding voor het deeltijds kunstonderwijs;<br>
-b) Y: het totale aantal lestijden voor het deeltijds kunstonderwijs berekend conform artikel 69 op basis van de leerlingentelling van 1 februari van het voorgaande schooljaar.<br>
+b) Y: het totale aantal lestijden voor het deeltijds kunstonderwijs, dat wordt berekend conform artikel 69 op basis van de leerlingentelling van 1 februari van het voorgaande schooljaar.<br>
 <br>
-Het totale aantal aanvullende lestijden voor aanvangsbegeleiding voor het deeltijds kunstonderwijs, vermeld in het eerste lid, bedraagt, voor het schooljaar 2019-2020 326 lestijden.<br>
+Voor het schooljaar 2021-2022 bedraagt het totale aantal aanvullende lestijden voor aanvangsbegeleiding voor het deeltijds kunstonderwijs, vermeld in het eerste lid, 454 lestijden.<br>
 <br>
-Voor het schooljaar X-X+1, startend in schooljaar 2020-2021, worden de 326 lestijden, vermeld in het vorige lid, vermenigvuldigd met de aanpassingscoëfficiënt A = X/Y, waarbij:<br>
-1° X: het totale aantal leerlingen in het deeltijds kunstonderwijs op 1 februari X;<br>
-2° Y: het totale aantal leerlingen in het deeltijds kunstonderwijs op 1 februari 2019.<br>
+Voor het schooljaar X-X+1, vanaf het schooljaar 2022-2023, worden de lestijden, vermeld in het tweede lid, vermenigvuldigd met de aanpassingscoefficiënt A=X/Y, waarbij:<br>
+1° X: het totale aantal financierbare leerlingen in het deeltijds kunstonderwijs op 1 februari X;<br>
+2° Y: het totale aantal financierbare leerlingen in het deeltijds kunstonderwijs op 1 februari 2021.<br>
 <br>
-Het resultaat van de berekening, vermeld in het eerste lid, wordt als volgt afgerond: als het eerste cijfer na de komma groter is dan vier, wordt er afgerond naar het hogere geheel getal. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar de lagere eenheid.<br>
+Het resultaat van de berekening, vermeld in het eerste lid, wordt afgerond naar het hogere geheel getal als het eerste cijfer na de komma groter is dan vier. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar de lagere eenheid.<br>
 <br>
-§ 2. Met de aanvullende lestijden voor aanvangsbegeleiding organiseert de academie betrekkingen in het ambt van leraar of begeleider conform de berekening, vermeld in artikel 39 van het besluit van 4 mei 2018 van de Vlaamse Regering betreffende het opleidingsaanbod, de organisatie, de personeelsformatie, de inning van het inschrijvingsgeld en de certificering van het deeltijds kunstonderwijs. De opdracht van de leraar wordt gelijkgesteld met een van de vakken, vermeld in artikel 4, 6, 8 en 10, van hetzelfde besluit.<br>
+§ 2. De Vlaamse Regering bepaalt de wijze waarop de lestijden die conform paragraaf 1 worden berekend, gebruikt kunnen worden en bepaalt de personeelscategorieën en ambten waarin op basis van die lestijden betrekkingen kunnen worden opgericht. De Vlaamse Regering bepaalt ook hoe de lestijden via omzettingstabellen omgezet kunnen worden in punten of uren.<br>
 <br>
-§ 3. De aanvullende lestijden voor aanvangsbegeleiding kunnen worden samengelegd.<br>
+§ 3. Als academies de aanvullende lestijden, vermeld in paragraaf 1, niet kunnen gebruiken voor aanvangsbegeleiding, moeten ze die lestijden gebruiken voor de ondersteuning van de kerntaak van het onderwijzend personeel conform artikel 75/1, § 4. Deze toegekende lestijden kunnen in afwijking van artikel 75, niet overgedragen worden naar het daaropvolgende schooljaar..<br>
 <br>
-Academies die kiezen om de aanvullende lestijden samen te leggen, richten daartoe een samenwerkingsverband `aanvangsbegeleiding' op dat bestaat uit twee of meer academies. Het samenwerkingsverband maakt afspraken over de aanwending van de aanvullende lestijden.<br>
-<br>
-De Vlaamse Regering kan met betrekking tot het samenwerkingsverband, vermeld in het tweede lid, volgende maatregelen vastleggen:<br>
-1° de duur van de samenwerking;<br>
-2° de vorm van overeenkomst waarmee het samenwerkingsverband wordt opgericht;<br>
-3° de wijze en het tijdstip van mededeling van het samenwerkingsverband aan de overheid.<br>
-<br>
-Binnen het samenwerkingsverband wordt afgesproken aan welke academie het betrokken personeelslid administratief wordt aangesteld, in overleg met het betrokken personeelslid. Die personeelsleden kunnen dan niet alleen werken in de academie die hen administratief aanstelt, maar in alle academies van het samenwerkingsverband.<br>
-<br>
-§ 4. Een academie of een samenwerkingsverband, vermeld in paragraaf 3, kan een of meer lestijden voor aanvangsbegeleiding omzetten naar administratieve omkaderingseenheden. Daarbij wordt het aantal lestijden als volgt in rekening gebracht:<br>
-&nbsp;
-<table border="1">
-	<tbody>
-		<tr>
-			<td>lestijden</td>
-			<td>administratieve omkaderingseenheden</td>
-		</tr>
-		<tr>
-			<td>1</td>
-			<td>2</td>
-		</tr>
-		<tr>
-			<td>2</td>
-			<td>4</td>
-		</tr>
-		<tr>
-			<td>3</td>
-			<td>7</td>
-		</tr>
-		<tr>
-			<td>4</td>
-			<td>9</td>
-		</tr>
-		<tr>
-			<td>5</td>
-			<td>11</td>
-		</tr>
-		<tr>
-			<td>6</td>
-			<td>13</td>
-		</tr>
-		<tr>
-			<td>7</td>
-			<td>15</td>
-		</tr>
-		<tr>
-			<td>8</td>
-			<td>17</td>
-		</tr>
-		<tr>
-			<td>9</td>
-			<td>20</td>
-		</tr>
-		<tr>
-			<td>10</td>
-			<td>22</td>
-		</tr>
-	</tbody>
-</table>
-<br>
-Met de administratieve omkaderingseenheden organiseert de academie betrekkingen in het ambt van administratief medewerker conform de berekening, vermeld in artikel 46 van het besluit van 4 mei 2018 van de Vlaamse Regering betreffende het opleidingsaanbod, de organisatie, de personeelsformatie, de inning van het inschrijvingsgeld en de certificering van het deeltijds kunstonderwijs.
+§ 4. ...
 
 ## Afdeling 3 Omkadering bestuurspersoneel
 
@@ -1401,7 +1400,7 @@ waarbij :<br>
 <br>
 De A-coëfficiënt wordt voor 100% in rekening gebracht.<br>
 <br>
-Vanaf het begrotingsjaar 2020 wordt het totale werkingsbudget verminderd met 170.000 euro. Dit bedrag wordt over de academies gespreid a rato van het aantal toegekende lestijden zoals hierboven vermeld.<br>
+Vanaf het begrotingsjaar 2020 wordt het totale werkingsbudget verminderd met 170.000 euro. Dit bedrag wordt over de academies gespreid a rato van het aantal toegekende werkingsmiddelen zoals hierboven vermeld.<br>
 &nbsp;
 
 ### ART 84.
@@ -1502,8 +1501,8 @@ Het bedrag wordt afgerond naar de hogere eenheid.<br>
 ### ART 92.
 
 § 1. Om in aanmerking te komen voor het verminderde inschrijvingsgeld, vermeld in artikel 91, eerste lid, 2° of 4°, moet de leerling op de dag van de inschrijving aan minstens een van de volgende voorwaarden voldoen :<br>
-1° uitkeringsgerechtigd volledig werkloos zijn of daarmee gelijkgesteld zijn;<br>
-2° verplicht ingeschreven zijn als werkzoekende op grond van de reglementering in verband met de arbeidsvoorziening en de werkloosheid;<br>
+1° uitkeringsgerechtigd verplicht ingeschreven zijn als werkzoekende op grond van de reglementering in verband met de arbeidsvoorziening en de werkloosheid, of daarmee gelijkgesteld zijn;<br>
+2° ...<br>
 3° een leefloon van het OCMW ontvangen of een uitkering die daarmee gelijkgesteld is;<br>
 4° een inkomensgarantie voor ouderen of een rentebijslag ontvangen;<br>
 5° erkend zijn als persoon met een handicap en een tegemoetkoming van de Federale Overheidsdienst Sociale Zekerheid ontvangen;<br>
@@ -1512,6 +1511,7 @@ Het bedrag wordt afgerond naar de hogere eenheid.<br>
 8° in een gezinsvervangend tehuis of in een medisch-pedagogische instelling of in een pleeggezin verblijven;<br>
 9° het statuut van erkend politiek vluchteling bezitten;<br>
 10° begunstigde zijn van de verhoogde verzekeringstegemoetkoming.<br>
+11° houder zijn van een European Disability Card conform het protocolakkoord van 10 oktober 2016 over het project European Disability Card tussen de Federale Regering, de Vlaamse Regering, de Waalse Regering, de Franse Gemeenschapscommissie en de Duitstalige Regering.<br>
 <br>
 § 2. Een leerling die ten laste is van een persoon die aan minstens een van de voorwaarden voldoet, vermeld in paragraaf 1, komt eveneens in aanmerking voor het verminderde inschrijvingsgeld, vermeld in artikel 91, eerste lid, 2° of 4°.<br>
 <br>
@@ -1623,18 +1623,16 @@ Een academie kan erkend worden als ze aan al de volgende voorwaarden voldoet :<b
 
 Een academie die wordt opgericht, kan voorlopig erkend worden als ze voldoet aan de voorwaarden, vermeld in artikel 100, 1°, 2°, 3°, 7° en 10°.<br>
 <br>
-Een schoolbestuur dat voor een academie de voorlopige erkenning wil verkrijgen, dient uiterlijk op de dag van 1 april die aan de oprichting voorafgaat een aanvraag in bij het Agentschap voor Onderwijsdiensten. Die termijn geldt als vervaltermijn. De Vlaamse Regering legt het model van het aanvraagformulier vast.<br>
+Een schoolbestuur dat voor een academie de voorlopige erkenning wil verkrijgen, dient uiterlijk op de dag van 1 maart die aan de oprichting voorafgaat een aanvraag in bij het Agentschap voor Onderwijsdiensten. Die termijn geldt als vervaltermijn. De Vlaamse Regering legt het model van het aanvraagformulier vast.<br>
 <br>
-In afwijking van het tweede lid dient het schoolbestuur een aanvraag tot voorlopige erkenning voor een oprichting van een academie die start vanaf het schooljaar 2018-2019, in vóór 1 mei 2018. Conform artikel 35, § 1, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, gaat de onderwijsinspectie na of de academie voldoet aan de voorwaarden, vermeld in artikel 100, 1°, 2°, 3°, 7° en 10°, van dit decreet. Op basis van het advies van de onderwijsinspectie dat daaruit volgt, beslist de Vlaamse Regering, conform artikel 35, § 1, van het voormelde decreet van 8 mei 2009, een voorlopige erkenning voor één schooljaar te verlenen, ofwel geen voorlopige erkenning te verlenen.<br>
+Conform artikel 35, § 1, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, gaat de onderwijsinspectie na of de academie voldoet aan de voorwaarden, vermeld in artikel 100, 1°, 2°, 3°, 7° en 10°, van dit decreet. Op basis van het advies van de onderwijsinspectie dat daaruit volgt, beslist de Vlaamse Regering, conform artikel 35, § 1, van het voormelde decreet van 8 mei 2009, een voorlopige erkenning voor één schooljaar te verlenen, ofwel geen voorlopige erkenning te verlenen.<br>
 <br>
 Uiterlijk zes maanden na de start van het schooljaar waarin de academie voorlopig erkend wordt, onderzoekt de onderwijsinspectie, conform artikel 35, § 2, van het voormelde decreet van 8 mei 2009, via een doorlichting ter plaatse of de academie voldoet aan de voorwaarden voor een erkenning. Op basis van het advies van de onderwijsinspectie dat daaruit volgt, beslist de Vlaamse Regering, conform artikel 35, § 2, van het voormelde decreet van 8 mei 2009, uiterlijk op 31 maart van het schooljaar van de voorlopige erkenning, dat de academie voldoet aan de voorwaarden voor een erkenning als vermeld in artikel 100 van dit decreet, ofwel dat de academie niet erkend wordt vanaf het volgende schooljaar.<br>
 &nbsp;
 
 ### ART 102.
 
-&nbsp;Een schoolbestuur dat een structuuronderdeel of domein van een academie wil laten erkennen dient uiterlijk op 1 april van het schooljaar dat aan de erkenning voorafgaat een aanvraag in bij het Agentschap voor Onderwijsdiensten.<br>
-<br>
-In afwijking van het eerste lid dient het schoolbestuur een aanvraag tot erkenning van een structuuronderdeel of domein van een academie dat start vanaf het schooljaar 2018-2019, in vóór 1 mei 2018.<br>
+Een schoolbestuur dat een structuuronderdeel of domein van een academie wil laten erkennen dient uiterlijk op 1 maart van het schooljaar dat aan de erkenning voorafgaat een aanvraag in bij het Agentschap voor Onderwijsdiensten.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere aanvraagprocedure voor erkenning.<br>
 &nbsp;
@@ -1696,11 +1694,11 @@ De teldag voor de rationalisatie is 1 februari van het voorgaande schooljaar.<br
 2° voldoen aan de programmatie- en rationalisatievoorwaarden, vermeld in artikel 114 tot en met 130;<br>
 3° beschikken over een inspraakbeleid rond de afstemming van het opleidingsaanbod en de werking van de academie op haar lokale culturele omgeving, in het bijzonder de amateurkunstbeoefening.<br>
 <br>
-§ 2. Een schoolbestuur dat voor een academie of onderdeel ervan financiering of subsidiëring wil verkrijgen, dient uiterlijk op 1 april van het schooljaar dat aan de opname in de financiering- of subsidiëringsregeling voorafgaat, een aanvraag in bij het Agentschap voor Onderwijsdiensten.<br>
-<br>
-In afwijking van het eerste lid dient het schoolbestuur zijn financierings- of subsidiëringsaanvraag voor een oprichting van een onderdeel van een academie dat start vanaf het schooljaar 2018-2019, in vóór 1 mei 2018.<br>
+§ 2. Een schoolbestuur dat voor een academie of onderdeel ervan financiering of subsidiëring wil verkrijgen, dient uiterlijk op 1 maart van het schooljaar dat aan de opname in de financiering- of subsidiëringsregeling voorafgaat, een aanvraag in bij het Agentschap voor Onderwijsdiensten.<br>
 <br>
 De Vlaamse Regering neemt de beslissing over de opname in de financierings- of subsidiëringsregeling. De beslissing wordt schriftelijk of elektronisch meegedeeld aan het betrokken schoolbestuur en gaat in bij aanvang van het schooljaar dat volgt op de aanvraag tot financiering of subsidiëring.<br>
+<br>
+Als het schoolbestuur niet overgaat tot de oprichting van de academie of het onderdeel van een academie in het schooljaar dat volgt op de goedkeuring van de aanvraag tot financiering of subsidiëring, verliest het de goedkeuring. Het schoolbestuur kan een nieuwe aanvraag indienen conform het eerste lid.<br>
 <br>
 § 3. In een voorlopig erkende academie is affectatie, mutatie of vaste benoeming van personeelsleden niet mogelijk.<br>
 &nbsp;
@@ -1745,7 +1743,7 @@ Als de programmatienormen in het laatste schooljaar van de oprichtingsperiode ni
 
 ### ART 115.
 
-§ 1. Een academie kan domeinen oprichten vanaf het tweede schooljaar dat ze in de financierings- of subsidiëringsregeling is opgenomen. Daartoe moet de academie in al haar reeds opgerichte domeinen, de rationalisatienormen, vermeld in artikel 126, bereiken op de teldag van het schooljaar vóór de oprichting van het nieuwe domein.<br>
+§ 1. Een academie kan domeinen oprichten vanaf het tweede schooljaar dat ze in de financierings- of subsidiëringsregeling is opgenomen. Daartoe moet de academie in al haar reeds opgerichte domeinen en structuuronderdelen de rationalisatienormen bereiken op de teldag van het schooljaar vóór de oprichting van het nieuwe domein.<br>
 <br>
 De programmatie van een nieuw domein omvat de oprichting van de structuuronderdelen van minstens de eerste en tweede graad. Een academie kan in plaats van de eerste graad van het domein het structuuronderdeel domeinoverschrijdende initiatieopleiding oprichten of zowel de eerste graad van een domein als de domeinoverschrijdende initiatieopleiding oprichten.<br>
 <br>
@@ -1763,7 +1761,9 @@ Als de programmatienorm in het laatste schooljaar van de oprichtingsperiode niet
 
 ### ART 116.
 
-Onder de oprichting van een structuuronderdeel, vermeld in het tweede lid en in artikel 117, wordt de oprichting van een nieuw structuuronderdeel van een domein waarvan de academie al een of meer structuuronderdelen organiseert in een bestaande of nieuwe vestigingsplaats verstaan.<br>
+Onder de oprichting van een structuuronderdeel, vermeld in het derde lid en in artikel 117, wordt de oprichting van een nieuw structuuronderdeel van een domein waarvan de academie al een of meer structuuronderdelen organiseert in een of meer bestaande of nieuwe vestigingsplaatsen verstaan.<br>
+<br>
+Een schoolbestuur kan het aantal vestigingsplaatsen van dat structuuronderdeel tijdens de oprichtingsperiode niet uitbreiden.<br>
 <br>
 Structuuronderdelen worden leerjaar per leerjaar opgericht. De oprichtingsperiode duurt minimaal evenveel schooljaren als het kortste traject en maximaal evenveel schooljaren als het langste traject van het structuuronderdeel dat de academie organiseert. De leerjaren van de structuuronderdelen van de eerste graad kunnen evenwel in een tijd opgericht worden.<br>
 <br>
@@ -1775,17 +1775,17 @@ Voor de structuuronderdelen van een nieuw opgericht domein, conform artikel 115,
 § 1. Een academie kan vanaf het tweede schooljaar dat ze in de financierings- of subsidiëringsregeling is opgenomen een structuuronderdeel oprichten onder de volgende voorwaarden :<br>
 1° voor al haar domeinen en structuuronderdelen op 1 februari van het schooljaar vóór de programmatie van het nieuwe structuuronderdeel de rationalisatienormen bereiken;<br>
 2° het domein waarin het structuuronderdeel wordt opgericht in het oprichtingsjaar van het structuuronderdeel organiseren of met de oprichting ervan gestart zijn in het vorige schooljaar;<br>
-3° voor het opgerichte structuuronderdeel op de teldag van het oprichtingsjaar voldoen aan de programmatienorm, naar rato van het aantal opgerichte leerjaren in het traject met het meeste aantal leerjaren, vermeld in artikel 70.<br>
+3° voor het opgerichte structuuronderdeel per vestigingsplaats op de teldag van het oprichtingsjaar voldoen aan de programmatienorm, naar rato van het aantal opgerichte leerjaren van het langste traject, vermeld in artikel 70, dat de academie organiseert in die vestigingsplaats.<br>
 <br>
 Het quotiënt van de deling, vermeld in het eerste lid, 3°, wordt als volgt afgerond: als het eerste cijfer na de komma groter is dan vier, wordt er afgerond naar het hogere geheel getal. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier wordt er afgerond naar het lagere geheel getal.<br>
 <br>
-§ 2. Tijdens de oprichtingsperiode moet de programmatienorm telkens bereikt worden, naar rato van het aantal schooljaren dat het nieuwe structuuronderdeel al in oprichting is.<br>
+§ 2.&nbsp;Tijdens de oprichtingsperiode wordt de programmatienorm telkens bereikt per vestigingsplaats naar rato van het aantal leerjaren van het langste traject dat in die vestigingsplaats georganiseerd wordt en het aantal schooljaren dat het nieuwe structuuronderdeel al in oprichting is.<br>
 <br>
-Als de programmatienorm twee opeenvolgende teldagen niet gehaald wordt, worden de leerlingen van het structuuronderdeel vanaf dat schooljaar niet meegeteld in de omkaderingsberekening, vermeld in artikel 69 en 70.<br>
+Als de programmatienorm twee opeenvolgende teldagen niet gehaald wordt, worden de leerlingen van het structuuronderdeel in die vestigingsplaats vanaf dat schooljaar niet meegeteld in de omkaderingsberekening, vermeld in artikel 69 en 70.<br>
 <br>
-Als de programmatienorm in het laatste schooljaar van de oprichtingsperiode niet gehaald wordt, wordt de oprichtingsperiode met maximaal een schooljaar verlengd, als het structuuronderdeel op de vorige teldag de programmatienorm gehaald heeft.<br>
+Als de programmatienorm in het laatste schooljaar van de oprichtingsperiode niet gehaald wordt, wordt de oprichtingsperiode met maximaal een schooljaar verlengd, als het structuuronderdeel in die vestigingsplaats op de vorige teldag de programmatienorm gehaald heeft.<br>
 <br>
-§ 3. De rationalisatienorm geldt vanaf het schooljaar dat volgt op het schooljaar waarin minstens een traject van het nieuwe structuuronderdeel volledig is uitgebouwd en de programmatienorm, vermeld in artikel 121 of 122, bereikt wordt. Een structuuronderdeel is volledig uitgebouwd op het einde van het laatste schooljaar van de oprichtingsperiode.<br>
+§ 3.&nbsp;De rationalisatienorm geldt vanaf het schooljaar dat volgt op het schooljaar waarin in een vestigingsplaats minstens een traject van het nieuwe structuuronderdeel volledig is uitgebouwd en de programmatienorm, vermeld in artikel 121 of 122, in alle vestigingsplaatsen bereikt wordt.&nbsp;Een structuuronderdeel is volledig uitgebouwd op het einde van het laatste schooljaar van de oprichtingsperiode.<br>
 <br>
 § 4. De bepalingen in paragraaf 1, 2 en 3 zijn niet van toepassing op de structuuronderdelen specialisatie.<br>
 &nbsp;
@@ -2566,11 +2566,9 @@ De Vlaamse Regering vraagt, voordat ze een beslissing als vermeld in het derde l
 
 ### ART 131.
 
-§ 1. Een schoolbestuur kan een of meer structuuronderdelen in een vestigingsplaats overhevelen naar een andere academie, op voorwaarde dat de overheveling de studiecontinuïteit voor de leerling naar een volgende graad niet in het gedrang brengt.<br>
+§ 1. Een schoolbestuur kan een of meer structuuronderdelen in een vestigingsplaats overhevelen naar een academie van een ander schoolbestuur, op voorwaarde dat de overheveling de studiecontinuïteit voor de leerling naar een volgende graad niet in het gedrang brengt.<br>
 <br>
-De overheveling vindt in een keer plaats en heeft uitwerking op de dag van 1 september die volgt op de melding aan het Agentschap voor Onderwijsdiensten. Die melding moet gebeuren vóór 1 maart.<br>
-<br>
-In afwijking van het tweede lid meldt het schoolbestuur een overheveling die ingaat op 1 september 2018 vóór 1 mei 2018.<br>
+De overheveling vindt in een keer plaats en heeft uitwerking op de dag van 1 september die volgt op de melding aan het Agentschap voor Onderwijsdiensten. Die melding moet gebeuren uiterlijk 1 maart.<br>
 <br>
 § 2. Elke overheveling maakt het voorwerp uit van onderhandeling in het lokaal comité van zowel het overhevelende als het ontvangende schoolbestuur.<br>
 <br>
@@ -2581,18 +2579,14 @@ In afwijking van het tweede lid meldt het schoolbestuur een overheveling die ing
 
 Een schoolbestuur kan een academie overnemen van een ander schoolbestuur.<br>
 <br>
-De overname heeft uitwerking op de dag van 1 september die volgt op de melding aan het Agentschap voor Onderwijsdiensten. Die melding moet gebeuren vóór 1 maart.<br>
-<br>
-In afwijking van het tweede lid meldt het schoolbestuur een overname die ingaat op 1 september 2018 vóór 1 mei 2018.<br>
+De overname heeft uitwerking op de dag van 1 september die volgt op de melding aan het Agentschap voor Onderwijsdiensten. Die melding moet gebeuren uiterlijk 1 maart.<br>
 <br>
 Elke overname maakt het voorwerp uit van onderhandeling in het lokaal comité van zowel het schoolbestuur dat de academie overdraagt als het ontvangende schoolbestuur.<br>
 &nbsp;
 
 ### ART 133.
 
-§ 1. Een fusie van academies heeft uitwerking op de dag van 1 september die volgt op de melding aan het Agentschap voor Onderwijsdiensten. Die melding moet gebeuren vóór 1 maart.<br>
-<br>
-In afwijking van het eerste lid meldt het schoolbestuur een fusie die ingaat op 1 september 2018 vóór 1 mei 2018.<br>
+§ 1. Een fusie van academies heeft uitwerking op de dag van 1 september die volgt op de melding aan het Agentschap voor Onderwijsdiensten. Die melding moet gebeuren uiterlijk 1 maart.<br>
 <br>
 Een academie die door fusie ontstaat, wordt niet als een nieuwe oprichting beschouwd. De programmatienormen zijn niet van toepassing. Voor de clusters van opties, clusters van muziekinstrumenten, unieke optie of uniek muziekinstrument waarvoor reeds onderwijsbevoegdheid verworven werd, dient geen onderwijsbevoegdheid aangevraagd te worden.<br>
 <br>
