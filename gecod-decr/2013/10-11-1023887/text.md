@@ -962,7 +962,19 @@ Met ingang van het academiejaar 2013-2014 kunnen de hogescholen in het academisc
 
 ### ART. II.72.
 
-<P style="LINE-HEIGHT: 12.4pt; MARGIN: 0cm 0cm 0pt" class=Default>De professioneel gerichte opleidingen "bachelor in de audiovisuele technieken: beeld,   geluid en montage" en "bachelor in de audiovisuele technieken: assistentie",   gerangschikt in het studiegebied Industriële wetenschappen en technologie en   aangeboden door de Erasmushogeschool Brussel, worden vanaf het academiejaar   2013-2014 samengevoegd tot 1 opleiding, namelijk de professioneel gerichte   opleiding "bachelor in de audiovisuele kunsten". Deze opleiding wordt   gerangschikt in het studiegebied Audiovisuele en beeldende kunst van het hoger   professioneel onderwijs. <?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="LINE-HEIGHT: 12.4pt; MARGIN: 0cm 0cm 0pt" class=Default>&nbsp;</P>  <P style="LINE-HEIGHT: 12.4pt; MARGIN: 0cm 0cm 0pt" class=Default>De academisch gerichte   opleidingen "bachelor in de conservatie-restauratie" en "master in de   conservatie-restauratie", gerangschikt in het studiegebied Audiovisuele en   beeldende kunst en aangeboden door de Artesis Hogeschool Antwerpen worden vanaf   het academiejaar 2013-2014 gerangschikt in het studiegebied   Conservatie-restauratie in het academisch onderwijs. </P>  <P style="LINE-HEIGHT: 12.4pt; MARGIN: 0cm 0cm 0pt" class=Default>&nbsp;</P>  <P style="LINE-HEIGHT: 12.4pt; MARGIN: 0cm 0cm 0pt" class=Default>De academisch gerichte   opleidingen "bachelor in het milieu- en preventiemanagement" en "master in het   milieu-en preventiemanagement", gerangschikt in het studiegebied Gezondheidszorg   en aangeboden door de HUB-EHSAL, worden vanaf het academiejaar 2013-2014   gerangschikt in het studiegebied Sociale gezondheidswetenschappen in het   academisch onderwijs.</P>
+<p style="margin-left:0cm; margin-right:0cm">De professioneel gerichte opleidingen "bachelor in de audiovisuele technieken: beeld, geluid en montage" en "bachelor in de audiovisuele technieken: assistentie", gerangschikt in het studiegebied Industriële wetenschappen en technologie en aangeboden door de Erasmushogeschool Brussel, worden vanaf het academiejaar 2013-2014 samengevoegd tot 1 opleiding, namelijk de professioneel gerichte opleiding "bachelor in de audiovisuele kunsten". Deze opleiding wordt gerangschikt in het studiegebied Audiovisuele en beeldende kunst van het hoger professioneel onderwijs. <!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
+
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm">De academisch gerichte opleidingen "bachelor in de conservatie-restauratie" en "master in de conservatie-restauratie", gerangschikt in het studiegebied Audiovisuele en beeldende kunst en aangeboden door de Artesis Hogeschool Antwerpen worden vanaf het academiejaar 2013-2014 gerangschikt in het studiegebied Conservatie-restauratie in het academisch onderwijs.</p>
+
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm">De academisch gerichte opleidingen "bachelor in het milieu- en preventiemanagement" en "master in het milieu-en preventiemanagement", gerangschikt in het studiegebied Gezondheidszorg en aangeboden door de HUB-EHSAL, worden vanaf het academiejaar 2013-2014 gerangschikt in het studiegebied Sociale gezondheidswetenschappen in het academisch onderwijs.<br>
+<br>
+De volgende professioneel gerichte bacheloropleidingen, gerangschikt in het studiegebied Handelswetenschappen en bedrijfskunde, worden vanaf het academie- jaar 2021-2022 gerangschikt in het studiegebied Industriële wetenschappen en technologie van het hoger professioneel onderwijs:<br>
+1° bachelor in de toegepaste informatica; 2° bachelor of Applied Computer Science;<br>
+3° bachelor of Applied Information Technology.</p>
 
 ### ART. II.73.
 
@@ -1234,7 +1246,9 @@ a) in het hoger professioneel onderwijs de graad van bachelor kan worden verleen
 b) in het hoger beroepsonderwijs de graad van gegradueerde kan worden verleend;<br>
 5° Onderwijs, waarvoor :<br>
 a) in het hoger professioneel onderwijs de graad van bachelor kan worden verleend;<br>
-b) in het hoger beroepsonderwijs de graad van gegradueerde kan worden verleend
+b) in het hoger beroepsonderwijs de graad van gegradueerde kan worden verleend.<br>
+<br>
+§ 3. Odisee kan in de vestiging Brussel-Hoofdstad in het hoger professioneel onderwijs in het studiegebied Industriële wetenschappen en technologie de opleiding "bachelor in de toegepaste informatica" aanbieden en de daarop betrekking hebbende graad van bachelor verlenen.
 
 ### ART. II.85.
 
@@ -1772,9 +1786,8 @@ In afwijking van artikel II.108, § 2, tweede lid, bedraagt de praktijkcomponent
 <br>
 § 3. Een student die al beschikt over een van volgende diploma's of diplomacombinaties kan, in afwijking van paragraaf 2, een diploma van de educatieve bacheloropleiding voor secundair onderwijs behalen met maar één onderwijsvak :<br>
 1° een diploma van een educatieve bachelor of educatieve master;<br>
-2° een diploma van een specifieke lerarenopleiding in combinatie met een bachelor- of masterdiploma;<br>
-3° een diploma van een academische initiële lerarenopleiding, een initiële lerarenopleiding van academisch niveau of een getuigschrift pedagogische bekwaamheid in combinatie met een bachelor- of masterdiploma;<br>
-4° een studiebewijs dat krachtens een wettelijke norm, een Europese richtlijn of een internationale overeenkomst als gelijkwaardig met een van de voorgaande diploma's wordt erkend.<br>
+2° een bewijs van pedagogische bekwaamheid, als vermeld in artikel 3 van het besluit van de Vlaamse Regering 14 juni 1989 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het secundair onderwijs, in combinatie met een bachelorof masterdiploma;<br>
+3° een studiebewijs dat krachtens een wettelijke norm, een Europese richtlijn of een internationale overeenkomst als gelijkwaardig met een van de voorgaande diploma's wordt erkend;<br>
 <br>
 § 4. Een student die al beschikt over een bachelordiploma kan, in afwijking van paragraaf 2, een diploma van de educatieve bacheloropleiding voor secundair onderwijs behalen zonder de vermelding van onderwijsvakken. Tot en met het academiejaar 2022-2023 kan ook een student die beschikt over een diploma dat gelijkgeschakeld is met de graad van master, vermeld in artikel II.377 en in artikel II.378, § 1, tweede en derde lid, in afwijking van paragraaf 2 van dit artikel, een diploma van de educatieve bacheloropleiding voor secundair onderwijs behalen zonder de vermelding van onderwijsvakken.<br>
 <br>
@@ -1894,6 +1907,8 @@ De instellingen dragen de kosten van de beoordelingsprocedures, vermeld in hoofd
 2° het tarief voor de instellingsreview, vermeld in hoofdstuk 9/1, afdeling 2, bedraagt per instelling ten minste 20.000 euro en ten hoogste 60.000 euro;<br>
 3° het tarief voor de opleidingsaccreditatie, vermeld in hoofdstuk 9/1, afdeling 3, bedraagt per opleiding ten minste 5000 euro en ten hoogste 20.000 euro;<br>
 4° het tarief voor de opleidingsaccreditatie, vermeld in hoofdstuk 9/1, afdeling 4, bedraagt per opleiding ten minste 500 euro en ten hoogste 2000 euro.<br>
+5° het tarief voor de toets nieuwe opleiding, vermeld in artikel II.153/5, bedraagt per opleiding ten minste 500 euro en ten hoogste 2000 euro;<br>
+6° het tarief voor de opleidingsaccreditatie, vermeld in artikel II.170/12, vierde lid en II.170/17, § 3, bedraagt per opleiding ten minste 500 euro en ten hoogste 2000 euro.<br>
 <br>
 Vanaf 2020 worden de bedragen, vermeld in het eerste lid, en de bedragen die de Vlaamse minister bevoegd voor onderwijs bepaald heeft overeenkomstig dit lid, aangepast aan de jaarlijkse stijging van de index van de consumptieprijzen met als referentiedatum 1 september 2019. Het bedrag wordt afgerond naar het dichtstbijzijnde geheel getal.
 
@@ -2172,7 +2187,11 @@ Als de Vlaamse Regering beslist dat er geen bestaande hbo5-opleiding verwant is 
 
 ### ART. II.151.
 
-<P style="MARGIN: 0cm 0cm 0pt">De masteropleidingen die als masteropleidingen worden geselecteerd   overeenkomstig de bepalingen van een Europees financieringsprogramma ter   bevordering van de internationale samenwerking in het hoger onderwijs en   waarbinnen multi- of gezamenlijke diplomering wordt vooropgesteld, worden niet   beschouwd als nieuwe opleidingen zoals bedoeld in artikel II.150. De   instellingen kunnen deze opleidingen alleen maar aanbieden voor zover ze over de   vereiste onderwijsbevoegdheid beschikken. Deze worden geacht geaccrediteerd te   zijn tot en met het einde van het tweede academiejaar volgend op het laatste   academiejaar van de Europese erkenning of tot en met het einde van het tweede   academiejaar na de verlenging van de Europese erkenning. De duur van de   overgangsaccreditatie kan nooit meer dan 7 academiejaren zijn.<?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het instellingsbestuur kan de inschrijving voor een Erasmus Mundus   masteropleiding wel afhankelijk maken van een onderzoek naar de geschiktheid en   de bekwaamheid van de student om deze opleiding te   volgen.</P>
+<p style="margin-left:0cm; margin-right:0cm">De bacheloren masteropleidingen die worden geselecteerd&nbsp;overeenkomstig de bepalingen van een Europees financieringsprogramma ter bevordering van de internationale samenwerking in het hoger onderwijs en waarbinnen multi- of gezamenlijke diplomering wordt vooropgesteld, worden niet beschouwd als nieuwe opleidingen zoals bedoeld in artikel II.150. De instellingen kunnen deze opleidingen alleen maar aanbieden voor zover ze over de vereiste onderwijsbevoegdheid beschikken. Deze worden geacht geaccrediteerd te zijn tot en met het einde van het tweede academiejaar volgend op het laatste academiejaar van de Europese erkenning of tot en met het einde van het tweede academiejaar na de verlenging van de Europese erkenning. De duur van de overgangsaccreditatie kan nooit meer dan 7 academiejaren zijn.<!--?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /--><br>
+<br>
+Het instellingsbestuur kan de inschrijving voor een bacheloren masteropleiding die geselecteerd werd overeenkomstig de bepalingen van een Europees financieringsprogramma ter bevordering van de internationale samenwerking in het hoger onderwijs en waarbinnen multiof gezamenlijke diplomering wordt vooropgesteld,&nbsp;wel afhankelijk maken van een onderzoek naar de geschiktheid en de bekwaamheid van de student om deze opleiding te volgen.<br>
+<br>
+Een bachelorof masteropleiding die kadert binnen een `European Universities Initiative' dat als pilootproject werd goedgekeurd in 2019 of 2020, wordt geacht een opleiding te zijn die geselecteerd werd overeenkomstig de bepalingen van een Europees financieringsprogramma ter bevordering van de internationale samenwerking in het hoger onderwijs en waarbinnen multiof gezamenlijke diplomering wordt vooropgesteld, vermeld in het eerste lid. De instellingen kunnen deze opleidingen alleen maar aanbieden voor zover ze over de vereiste onderwijsbevoegdheid beschikken. Deze opleidingen starten uiterlijk in het academiejaar volgend op het academiejaar waarin het pilootproject afloopt. In afwijking van het eerste lid, worden deze opleidingen geacht geaccrediteerd te zijn tot en met het einde van het tweede academiejaar dat volgt op het einde van het academiejaar waarin de studieomvang bepaald voor de desbetreffende opleiding voor de eerste keer geheel doorlopen werd.</p>
 
 ### ART. II.152.
 
@@ -2663,11 +2682,11 @@ b) de taal van een bachelor-na-bachelor- en master-na-masteropleiding te wijzige
 4° op basis van een negatief accreditatiebesluit van de accreditatieorganisatie;<br>
 5° in geval een masteropleiding geselecteerd wordt in overeenstemming met de bepalingen van een Europees financieringsprogramma ter bevordering van de internationale samenwerking in het hoger onderwijs en waarbinnen een multi- of gezamenlijke diplomering wordt vooropgesteld;<br>
 6° op basis van een positief oordeel van de Commissie Hoger Onderwijs om een anderstalige bachelor- of masteropleiding te organiseren, waarover de Vlaamse Regering binnen een vervaltermijn van 45 dagen geen negatief oordeel heeft gegeven;<br>
-7° op basis van een positief oordeel van de Commissie Hoger Onderwijs over de verandering van vestigingsplaats van een bachelor- of masteropleiding.<br>
+7° op basis van een positief oordeel van de Commissie Hoger Onderwijs over de verandering van vestigingsplaats van een bachelor- of masteropleiding of een opleiding van het hoger beroepsonderwijs.<br>
 <br>
 De Vlaamse Regering kan de lijst van de bachelor- en masteropleidingen die de universiteiten en hogescholen aanbieden, ook aanpassen om de noodzakelijke vergelijkbaarheid, duidelijkheid en transparantie in de benamingen te realiseren, op advies van de VLUHR.<br>
 <br>
-Voor de bachelor- en masteropleidingen die de andere ambtshalve geregistreerde instellingen en de geregistreerde instellingen aanbieden, kan de Vlaamse Regering het Hogeronderwijsregister, vermeld in paragraaf 1, aanpassen op vraag van het instellingsbestuur. Voor de specificatie van de graad voegt het instellingsbestuur bij de voormelde vraag een advies van de VLUHR.<br>
+Voor de opleidingen van het hoger beroepsonderwijs, de bacheloren masteropleidingen die de andere ambtshalve geregistreerde instellingen en de geregistreerde instellingen aanbieden, kan de Vlaamse Regering de lijst, vermeld in het derde lid, voor een instelling aanpassen op verzoek van het instellingsbestuur.&nbsp;Voor de specificatie van de graad voegt het instellingsbestuur bij de voormelde vraag een advies van de VLUHR.<br>
 <br>
 De door de VLUHR en het instellingsbestuur gevraagde aanpassingen worden jaarlijks vóór 1 december van het academiejaar dat voorafgaat aan het academiejaar waarop de aanpassing van toepassing is, meegedeeld aan de bevoegde dienst van de Vlaamse overheid.<br>
 <br>
@@ -3021,12 +3040,12 @@ Daarenboven moet de student beschikken over 1 van de volgende studiebewijzen:<br
 
 ### ART. II.177.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">In afwijking van artikel II.176 neemt het instellingsbestuur in zijn onderwijsreglement afwijkende toelatingsvoorwaarden op. De afwijkende toelatingsvoorwaarden kunnen enkel rekening houden met de volgende elementen:<br>
+<p style="margin-left:0cm; margin-right:0cm">In afwijking van artikel II.176 neemt het instellingsbestuur in zijn onderwijsreglement afwijkende toelatingsvoorwaarden op. De afwijkende toelatingsvoorwaarden kunnen enkel rekening houden met de volgende elementen:<br>
 1°&nbsp;&nbsp; humanitaire redenen;<br>
 2°&nbsp;&nbsp; medische, psychische of sociale redenen;<br>
 3°&nbsp;&nbsp; het algemene niveau van de student, getoetst met een door het instellingsbestuur georganiseerde toelatingsproef. Het instellingsbestuur kan deze toetsing opdragen aan een in artikel II.232 bedoelde validerende instantie. Het instellingsbestuur kan op grond van de toetsing de inschrijving afhankelijk maken van het met succes voltooien van een voorbereidingsprogramma.<br>
 <br>
-De toelatingsproef, vermeld in het eerste lid, punt 3°, wordt uiterlijk de vijfde dag na het einde van de inschrijvingsperiode georganiseerd en gaat na of de student over de kennis en vaardigheden beschikt die vereist zijn om de opleiding in kwestie aan te vangen. Het instellingsbestuur kan de organisatie van een toelatingsproef op verzoek van de student niet weigeren.<br>
+De toelatingsproef, vermeld in het eerste lid, punt 3°, wordt uiterlijk de vijfde dag na het einde van de inschrijvingsperiode georganiseerd en gaat na of de student, die de leeftijd van achttien jaar bereikt heeft op 31 december van het academiejaar waarvoor wordt ingeschreven, over de kennis en vaardigheden beschikt die vereist zijn om de opleiding in kwestie aan te vangen. Het instellingsbestuur kan de organisatie van een toelatingsproef op verzoek van de student niet weigeren.<br>
 <br>
 Het instellingsbestuur maakt op basis van de resultaten van de toelatingsproef, vermeld in het eerste lid, punt 3°, een beoordeling op in de vorm van een schriftelijk verslag, dat opgenomen wordt in het dossier van de student.<br>
 <br>
@@ -3055,7 +3074,7 @@ De afwijkende toelatingsvoorwaarden kunnen enkel rekening houden met volgende el
 
 Voor de registratie van de kandidaten voor de toetsing van de afwijkende toelatingsvoorwaarden voor een graduaatsopleiding of een bacheloropleiding, vermeld in artikelen II.176 tot en met II.179, leggen de hogescholen, de universiteiten en de associaties een register aan. Voor de gegevensdeling tussen die instellingen en de eventuele koppeling met de Databank Hoger Onderwijs wordt het identificatienummer van het Rijksregister gebruikt.<br>
 <br>
-Iedere hogeschool, universiteit en associatie respecteert hierbij de voorwaarden zoals bepaald in de Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en stelt hiertoe in het bijzonder een interne of externe functionaris met betrekking tot de gegevensbescherming aan. De hogescholen, de universiteiten en de associaties worden voor deze verwerking aangewezen als gezamenlijke verwerkingsverantwoordelijken en verwerken gegevens over de studieloopbaan en de gegevens voor de toetsing van de afwijkende toelatingsvoorwaarden, vermeld in het eerste lid. Het register wordt maximaal vijf jaar bewaard.
+Iedere hogeschool, universiteit en associatie respecteert hierbij de voorwaarden zoals bepaald in de Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en stelt hiertoe in het bijzonder een interne of externe functionaris met betrekking tot de gegevensbescherming aan. De hogescholen, de universiteiten en de associaties worden voor deze verwerking aangewezen als gezamenlijke verwerkingsverantwoordelijken en verwerken gegevens over de studieloopbaan en de gegevens voor de toetsing van de afwijkende toelatingsvoorwaarden, vermeld in het eerste lid. Het register wordt maximaal tien jaar bewaard.
 
 ## Onderafdeling 3 Masteropleidingen
 
@@ -3256,7 +3275,11 @@ Het instellingsbestuur kan bepalen dat de inschrijving voor een master-na-master
 
 ### ART. II.197.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Een student die nog niet in   het bezit is van een bachelordiploma dat al dan niet rechtstreeks toelating   verleent tot een bachelor-na-bacheloropleiding, kan onder de voorwaarden,   bepaald door het instellingsbestuur, toegelaten worden tot de inschrijving voor   bedoelde bachelor-na-bacheloropleiding en/of het daaraan voorafgaande   voorbereidingsprogramma. <?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Voor het behalen van het   diploma van de bachelor-na-bacheloropleiding is het bezit van het diploma van de   onderliggende bacheloropleiding evenwel noodzakelijk. De bevoegde   examencommissies kunnen daartoe opeenvolgend   delibereren.</P>
+<p style="margin-left:0cm; margin-right:0cm">Een student die nog niet in het bezit is van een bachelordiploma dat al dan niet rechtstreeks toelating verleent tot een bachelor-na-bacheloropleiding, kan onder de voorwaarden, bepaald door het instellingsbestuur, toegelaten worden tot de inschrijving voor bedoelde bachelor-na-bacheloropleiding en/of het daaraan voorafgaande voorbereidingsprogramma.<br>
+<br>
+Een student die nog niet in het bezit is van een bachelordiploma kan onder de voorwaarden, bepaald door het instellingsbestuur, toegelaten worden tot de inschrijving voor de educatieve bacheloropleiding voor secundair onderwijs zonder de vermelding van onderwijsvakken, vermeld in artikel II.113, § 4.<br>
+<br>
+Voor het behalen van het diploma van de bachelor-na-bacheloropleiding&nbsp;of van de educatieve bacheloropleiding voor secundair onderwijs zonder de vermelding van onderwijsvakken,&nbsp;is het bezit van het diploma van de onderliggende bacheloropleiding evenwel noodzakelijk. De bevoegde examencommissies kunnen daartoe opeenvolgend delibereren.</p>
 
 ### ART. II.198.
 
@@ -3727,13 +3750,11 @@ De beslissing om een stage of praktisch opleidingsonderdeel vroegtijdig te beëi
 
 ### ART. II.247.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. Het instellingsbestuur verleent de graad van gegradueerde met nadere kwalificatie aan ieder die een opleiding van het hoger beroepsonderwijs met succes heeft voltooid.<br>
+<p style="margin-left:0cm; margin-right:0cm">§1. Het instellingsbestuur verleent de graad van gegradueerde met nadere kwalificatie aan ieder die een opleiding van het hoger beroepsonderwijs met succes heeft voltooid.<br>
 <br>
 §2. Het instellingsbestuur verleent de graad van bachelor met nadere kwalificatie en in voorkomend geval specificatie aan ieder die de betreffende bacheloropleiding met succes heeft voltooid.<br>
 <br>
-§3. Het instellingsbestuur verleent de graad van master met nadere kwalificatie en in voorkomend geval specificatie aan ieder die de betreffende masteropleiding met succes heeft voltooid.<br>
-<br>
-§4. Bij een diploma van gegradueerde wordt steeds een diplomasupplement uitgereikt. Dit is een document dat de inhoud van de studies van de cursist en de structuur van het onderwijs in het land waar de cursist gestudeerd heeft, verduidelijkt. De Vlaamse Regering bepaalt de modellen van het diploma van gegradueerde en van het diplomasupplement, en de nadere modaliteiten met betrekking tot het uitreiken van het diploma van gegradueerde en het diplomasupplement.</p>
+§3. Het instellingsbestuur verleent de graad van master met nadere kwalificatie en in voorkomend geval specificatie aan ieder die de betreffende masteropleiding met succes heeft voltooid.</p>
 
 ### ART. II.248.
 
@@ -3811,13 +3832,15 @@ In de graduaatsopleidingen kan evenwel een andere onderwijstaal dan het Nederlan
 <br>
 § 3. De omvang van de opleidingsonderdelen, uitgedrukt in studiepunten, aangeboden in een andere onderwijstaal dan het Nederlands in het modeltraject van die opleiding mag niet hoger zijn dan 18,33% van de totale omvang van de in die opleiding aangeboden opleidingsonderdelen, uitgedrukt in studiepunten, in het modeltraject.<br>
 <br>
-§ 4. Voor de berekening van de grenzen, vermeld in paragraaf 3, worden de opleidingsonderdelen, vermeld in paragraaf 2, 1° en 3°, niet meegeteld.
+§ 4. Voor de berekening van de grenzen, vermeld in paragraaf 3, worden de opleidingsonderdelen, vermeld in paragraaf 2, 1° en 3°, niet meegeteld.<br>
+<br>
+§ 5. In afwijking van paragraaf 1, eerste lid, wordt het onderwijs in het studiegebied Nautische wetenschappen in het Nederlands en het Frans gegeven.
 
 ## Afdeling 2 Onderwijstaal in initiële bachelor- en masteropleidingen
 
 ### ART. II.261.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. De onderwijstaal in de hogescholen en universiteiten is het Nederlands.<br>
+<p style="margin-left:0cm; margin-right:0cm">§1. De onderwijstaal in de hogescholen en universiteiten is het Nederlands.<br>
 <br>
 In de initiële bachelor-en masteropleidingen kan evenwel een andere onderwijstaal dan het Nederlands worden gebruikt, conform de bepalingen in deze afdeling. Als een instelling gebruik wil maken van die mogelijkheid, moeten de waarborgen inzake kwaliteit en democratisering, vermeld in artikel II.270 en II.271 vervuld zijn voorafgaand aan de start van de opleiding.<br>
 <br>
@@ -3826,6 +3849,7 @@ In de initiële bachelor-en masteropleidingen kan evenwel een andere onderwijsta
 2°&nbsp;&nbsp; de opleidingsonderdelen die gedoceerd worden door anderstalige gastprofessoren;<br>
 3°&nbsp;&nbsp; de anderstalige opleidingsonderdelen die, op initiatief van de student en met instemming van de instelling, worden gevolgd aan een andere instelling voor hoger onderwijs;<br>
 4°&nbsp;&nbsp; de opleidingsonderdelen waar uit de expliciet gemotiveerde beslissing de meerwaarde voor de studenten en het afnemende veld en de functionaliteit voor de opleiding blijkt.<br>
+5° de opleidingsonderdelen die deel uitmaken van een bachelorof masteropleiding die kadert binnen een `European Universities Initiative' dat als pilootproject werd goedgekeurd in 2019 of 2020, zoals beschreven in artikel II.151.<br>
 <br>
 §3. Een anderstalige initiële bacheloropleiding is een initiële bacheloropleiding waarvan de omvang van de opleidingsonderdelen, uitgedrukt in studiepunten, aangeboden in een andere onderwijstaal dan het Nederlands in het modeltraject van die opleiding hoger is dan 18,33% van de totale omvang van de in die opleiding aangeboden opleidingsonderdelen, uitgedrukt in studiepunten, in het modeltraject.<br>
 <br>
@@ -3833,7 +3857,7 @@ Een anderstalige intiële masteropleiding is een initiële masteropleiding waarv
 <br>
 §4. Voor de berekening van de grenzen, vermeld in paragraaf 3, worden de opleidingsonderdelen, vermeld in paragraaf 2, 1° en 3°,&nbsp;niet meegeteld.<br>
 <br>
-§5. In afwijking van paragraaf 1, eerste lid, wordt het onderwijs in de professioneel gerichte bacheloropleiding in de scheepswerktuigkunde en de academisch gerichte bachelor- en masteropleiding in de nautische wetenschappen in het Nederlands en het Frans gegeven</p>
+§5. In afwijking van paragraaf 1, eerste lid, wordt het onderwijs in het studiegebied Nautische wetenschappen in het Nederlands en het Frans gegeven.</p>
 
 ### ART. II.262.
 
@@ -3924,7 +3948,7 @@ Voor de opleidingen, vermeld in punt 1° en 2°, loopt deze afwijking door wanne
 
 ### ART. II.266.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. Anderstalige initiële bacheloropleidingen kunnen als volgt aangeboden worden, rekening houdend met de in dit artikel bepaalde voorschriften:<br>
+<p style="margin-left:0cm; margin-right:0cm">§1. Anderstalige initiële bacheloropleidingen kunnen als volgt aangeboden worden, rekening houdend met de in dit artikel bepaalde voorschriften:<br>
 1° anderstalige initiële professioneel gerichte bacheloropleidingen, met uitzondering van de anderstalige kunstopleidingen, vermeld in punt 3°, binnen een maximumpercentage van 9%, berekend op alle initiële professioneel gerichte bacheloropleidingen, met uitzondering van de professioneel gerichte kunstopleidingen, vermeld in punt 3° ;<br>
 2° anderstalige initiële academisch gerichte bacheloropleidingen, met uitzondering van de anderstalige kunstopleidingen, vermeld in punt 3°, binnen een maximumpercentage van 9%, berekend op alle initiële academisch gerichte bacheloropleidingen, met uitzondering van de academisch gerichte kunstopleidingen, vermeld in punt 3° ;<br>
 3° anderstalige initiële professioneel en academisch gerichte bacheloropleidingen in de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten binnen een maximumpercentage van 9%, berekend op alle initiële professioneel en academisch gerichte bacheloropleidingen in de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten.<br>
@@ -3947,6 +3971,8 @@ Bij de bepaling van de teller van de breuk wordt voor de anderstalige initiële 
 2°&nbsp;&nbsp; de in het academiejaar 2012-2013 aangeboden anderstalige masteropleidingen met taalequivalent, voor zover deze nog aangeboden worden in het desbetreffende academiejaar;<br>
 3°&nbsp;&nbsp; de in het academiejaar 2012-2013 aangeboden anderstalige initiële masteropleidingen, als vermeld in paragraaf 2, voor zover deze nog aangeboden worden in het desbetreffende academiejaar;<br>
 4°&nbsp;&nbsp; de initiële masteropleidingen die overeenkomstig artikel II.268 beschouwd worden als een anderstalige initiële masteropleiding.<br>
+<br>
+Bij de bepaling van de breuken, vermeld in het eerste lid, punt 1° en 2°, en het tweede lid van deze paragraaf, wordt geen rekening gehouden met de anderstalige initiële bachelorof masteropleidingen aangeboden door de Hogere Zeevaartschool.<br>
 <br>
 §2 De Vlaamse Regering bepaalt het percentage van de omvang aan opleidingsonderdelen, uitgedrukt in studiepunten, aangeboden in een andere onderwijstaal dan het Nederlands in de in het academiejaar 2012-2013 aangeboden initiële masteropleidingen als voorwaarde om als anderstalige initiële masteropleiding beschouwd te worden voor de toepassing van de bepaling van het maximumpercentage van 35%. Het vast te stellen percentage ligt tussen 50% en 66%.</p>
 
@@ -3978,7 +4004,7 @@ In afwijking van het tweede lid is voor een personeelslid dat doceert in een opl
 <br>
 Aan de voorwaarden vermeld in deze paragraaf moet voldaan zijn vóór 15 februari 2015.<br>
 <br>
-§2. Elk lid van het onderwijzend personeel en van het academisch personeel, belast met een onderwijsopdracht, dat geen opleidingsonderdelen in het Nederlands doceert, moet de Nederlandse taal beheersen op ERK-niveau B2. Het instellingsbestuur voorziet een verplicht integratietraject dat garandeert dat het personeelslid na twee jaar minstens de Nederlandse taal beheerst op ERK-niveau A2, dat wordt afgesloten met het vereiste beheersingsniveau op ERK-niveau B2, en dat door het betrokken personeelslid wordt afgerond binnen de vijf jaar na zijn aanstelling of op het moment van zijn benoeming. Het vereiste beheersingsniveau van de Nederlandse taal wordt aangetoond aan de hand van kwalificatiegetuigschriften uitgereikt door officieel erkende instellingen waaruit blijkt dat het personeelslid de Nederlandse taal op het vereiste niveau beheerst. Het vereiste beheersingsniveau van de Nederlandse taal wordt vermoed aanwezig te zijn als het betrokken personeelslid een Nederlandstalig bachelor- of masterdiploma of doctoraat behaald heeft in een niet-anderstalige opleiding.<br>
+§2. Elk lid van het onderwijzend personeel en van het academisch personeel, belast met een onderwijsopdracht, dat geen opleidingsonderdelen in het Nederlands doceert, moet de Nederlandse taal beheersen op ERK-niveau B2. Het instellingsbestuur voorziet een verplicht integratietraject dat garandeert dat het personeelslid na twee jaar minstens de Nederlandse taal beheerst op ERK-niveau A2, dat wordt afgesloten met het vereiste beheersingsniveau op ERK-niveau B2, en dat door het betrokken personeelslid wordt afgerond binnen de vijf jaar na zijn aanstelling of op het moment van zijn benoeming.&nbsp;Wanneer een personeelslid al langer dan vijf jaar aangesteld is of al benoemd is op het moment dat het belast wordt met een onderwijsopdracht, moet het op dat moment aan het vereiste beheersingsniveau van de Nederlandse taal voldoen. Een personeelslid dat niet aan de vereisten voor het beheersingsniveau van de Nederlandse taal voldoet, kan geen onderwijsopdracht uitoefenen.&nbsp;Het vereiste beheersingsniveau van de Nederlandse taal wordt aangetoond aan de hand van kwalificatiegetuigschriften uitgereikt door officieel erkende instellingen waaruit blijkt dat het personeelslid de Nederlandse taal op het vereiste niveau beheerst. Het vereiste beheersingsniveau van de Nederlandse taal wordt vermoed aanwezig te zijn als het betrokken personeelslid een Nederlandstalig bachelor- of masterdiploma of doctoraat behaald heeft in een niet-anderstalige opleiding.<br>
 <br>
 §3. De instellingen voorzien voor de leden van het onderwijzend personeel en van het academisch personeel in aangepaste voorzieningen, waaronder een toegankelijk en behoeftedekkend aanbod van Nederlandstalige en anderstalige taalcursussen en taalbegeleidingsmaatregelen.</p>
 
@@ -7347,11 +7373,62 @@ De bedragen, vermeld in het eerste en het tweede lid, worden vanaf het begroting
 <br>
 Vanaf het begrotingsjaar 2021 worden de totale werkingsmiddelen van de universiteiten met 8.842.117,00 euro vermeerderd. Dit bedrag wordt verdeeld op basis van het procentuele aandeel van elke universiteit in de totale werkingsmiddelen.<br>
 <br>
-De bedragen, vermeld in het eerste en het tweede lid, worden vanaf het begrotingsjaar 2022 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.</p>
+De bedragen, vermeld in het eerste en het tweede lid, worden vanaf het begrotingsjaar 2022 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.<br>
+<br>
+§ 11. De totale werkingsmiddelen van de hogescholen (met inbegrip van de Hogere Zeevaartschool) en de universiteiten worden verhoogd met de volgende bedragen:</p>
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+			<td colspan="2">2021</td>
+			<td colspan="2">Vanaf 2022</td>
+		</tr>
+		<tr>
+			<td>bestemming</td>
+			<td>hogescholen</td>
+			<td>universiteiten</td>
+			<td>hogescholen</td>
+			<td>universiteiten</td>
+		</tr>
+		<tr>
+			<td>budget wendbaar en weerbaar personeelsbeleid</td>
+			<td>2 638 575</td>
+			<td>1 776 250</td>
+			<td>4 949 207</td>
+			<td>1 703 720</td>
+		</tr>
+		<tr>
+			<td>afschaffen baremieke leeftijd</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>4 948</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>optrekken laagste lonen ATP</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>44 550</td>
+			<td>55 450</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+De bedragen voor het afschaffen van de baremieke leeftijd, de laagste lonen en voor 2021 het budget voor wendbaar en weerbaar personeelsbeleid worden verdeeld op basis van het procentuele aandeel van elke hogeschool en universiteit in de totale werkingsmiddelen.<br>
+<br>
+De verdeling en toekenning van de middelen voor wendbaar en weerbaar personeelsbeleid vanaf 2022 wordt vastgelegd in het addendum. De middelen kunnen alleen toegekend worden voor maatregelen met betrekking tot professionalisering, re-integratie en ziektepreventiebeleid.<br>
+<br>
+Vanaf het begrotingsjaar 2022 worden de bedragen, vermeld in deze paragraaf, geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.</p>
 
 ### ART. III.25.
 
 <P style="MARGIN: 0cm 0cm 0pt">§1. Vanaf het begrotingsjaar 2014 wordt de werkingsuitkering van een   hogeschool of universiteit als volgt berekend:Wi = SOWi + VOWi + SOZi +   VOZi,<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>  <P style="MARGIN: 0cm 0cm 0pt">waarbij:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">1°&nbsp;&nbsp; Wi gelijk is aan de   werkingsuitkering voor instelling i in het begrotingsjaar   t;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">2°&nbsp;&nbsp; SOWi gelijk is aan de   onderwijssokkel voor instelling i, berekend overeenkomstig artikel   III.9;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">3°&nbsp;&nbsp; VOWi gelijk is aan het   variabele onderwijsdeel voor instelling i, berekend overeenkomstig artikel   III.11;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">4°&nbsp;&nbsp; SOZi gelijk is aan de   onderzoekssokkel voor instelling i, berekend overeenkomstig artikel III.21 of   artikel III.123;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">5°&nbsp;&nbsp; VOZi gelijk is aan het   variabele onderzoeksdeel voor instelling i, berekend overeenkomstig artikel   III.22 of artikel III.123.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§2. In afwijking van paragraaf 1 wordt in het begrotingsjaar t de   werkingsuitkering van een universiteit Wi verminderd met de volgende   bedragen:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l2 level1 lfo2">1°&nbsp;&nbsp; het bedrag van de   personeelskosten, opgenomen in de overeenkomst tussen de desbetreffende   hogeschool en universiteit, zoals vermeld in artikel V.222, voor het   begrotingsjaar t;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l2 level1 lfo2">2°&nbsp;&nbsp; het bedrag, berekend op basis   van de personeelskosten, vermeld in artikel III.65, voor het begrotingsjaar   t;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l2 level1 lfo2">3°&nbsp;&nbsp; andere componenten van de   werkingsuitkering, overeenkomstig artikel II.73, §6.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§3. In afwijking van paragraaf 1 wordt in het begrotingsjaar t de   werkingsuitkering van een hogeschool Wi vermeerderd met de volgende   bedragen:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo3">1°&nbsp;&nbsp; het bedrag van de   personeelskosten, opgenomen in de overeenkomst tussen de desbetreffende   hogeschool en universiteit, zoals vermeld in artikel V.222, voor het   begrotingsjaar t;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo3">2°&nbsp;&nbsp; het bedrag, berekend op basis   van de personeelskosten, vermeld in artikel III.65, voor het begrotingsjaar   t;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo3">3°&nbsp;&nbsp; andere componenten van de   werkingsuitkering, overeenkomstig artikel II.71,   §6.</P>
+
+### ART III.25/1.
+
+Ter uitvoering van de acties vervat in het speerpunt 1 Een toekomstbestendig en wendbaar Vlaams opleidingsportfolio uitbouwen, het speerpunt 2 Veel meer mogelijkheden aanreiken om levenslang te leren binnen het hoger onderwijs en het speerpunt 3 Kwaliteitsvol verduurzamen van nieuwe werkvormen in het hoger onderwijs, binnen de maatregel VV112 Voorsprongfonds Hoger Onderwijs, van het relanceplan Vlaamse Veerkracht, zoals beschreven in de visienota Voorsprongfonds Hoger Onderwijs, goedgekeurd op de Vlaamse Regering van 26 februari 2021 (VR 2021 2602 VV DOC.0011/2BIS), kan de Vlaamse Regering voor de academiejaren 2021-2022 en 2022-2023, binnen de perken van de beschikbare enveloppe van 60 miljoen euro, naast de bepalingen in artikel III.25, een bijkomende werkingstoelage of projecttoelage toekennen aan de hogescholen en universiteiten.De Vlaamse Regering bepaalt de verdeling van die bijkomende middelen over de hogescholen en universiteiten en stelt de aanwending ervan vast.
 
 ### ART. III.26.
 
@@ -7648,6 +7725,61 @@ De universiteiten en hogescholen onderhandelen jaarlijks binnen het lokale medez
 Vanaf het begrotingsjaar 2018 worden de bedragen vermeld in het eerste lid, geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.<br>
 <br>
 § 8. Vanaf het begrotingsjaar 2017 kent de Vlaamse Regering jaarlijks binnen de beschikbare budgetten een compensatie toe aan de publiekrechtelijke hogescholen voor de meerkost van de toekenning van het gewaarborgd maandloon uit het bediendenstatuut aan hun arbeiders, zoals voorzien in het kader van cao III van 10 december 2010.</p>
+
+### III.34/1.
+
+§ 1. De hogescholen en universiteiten ontvangen de volgende aanvullende uitkeringen:
+<table border="1">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+			<td colspan="2">2021</td>
+			<td colspan="2">vanaf 2022</td>
+		</tr>
+		<tr>
+			<td>bestemming</td>
+			<td>hogescholen</td>
+			<td>universiteiten</td>
+			<td>hogescholen</td>
+			<td>universiteiten</td>
+		</tr>
+		<tr>
+			<td>bevorderen duurzame mobiliteit en verhoging fietsvergoeding</td>
+			<td>356 100</td>
+			<td>838 375</td>
+			<td>1 068 300</td>
+			<td>2 515 125</td>
+		</tr>
+		<tr>
+			<td>tegemoetkoming in het digitaliseringsbeleid</td>
+			<td>356 100</td>
+			<td>670 700</td>
+			<td>1 068 300</td>
+			<td>2 012 100</td>
+		</tr>
+		<tr>
+			<td>internetvergoeding</td>
+			<td>1 424 400</td>
+			<td>2 682 800</td>
+			<td>4 273 200</td>
+			<td>8 048 400</td>
+		</tr>
+		<tr>
+			<td>tegemoetkoming kortingskaart</td>
+			<td>89 025</td>
+			<td>167 675</td>
+			<td>89 025</td>
+			<td>167 675</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<br>
+De bedragen worden verdeeld op basis van het procentuele aandeel van elke hogeschool en universiteit in de totale werkingsmiddelen.<br>
+<br>
+Het bedrag dat conform het eerste en tweede lid wordt verkregen, wordt toegevoegd aan de werkingsmiddelen.<br>
+<br>
+§ 2. Vanaf het begrotingsjaar 2022 worden de bedragen, vermeld in dit artikel, geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.
 
 ### ART. III.35.
 
@@ -9038,6 +9170,24 @@ De partners bij de associaties kunnen personeelsleden met hun instemming   belas
 
 ## [Hoofdstuk 10. Onderwijskundig beleidsen praktijkgericht wetenschappelijk onderzoek (ing. Decr. 9 juli 2021, art. 220, I: 1 september 2021)]
 
+### ART III.98//8.
+
+De Vlaamse Regering subsidieert hogeronderwijsinstellingen voor onderwijskundig beleidsen praktijkgericht wetenschappelijk onderzoek.<br>
+<br>
+De subsidies voor het onderwijskundig beleidsen praktijkgericht wetenschappelijk onderzoek worden toegekend binnen de daartoe beschikbare begrotingskredieten.
+
+### ART III.98/9.
+
+§1. De Vlaamse Regering bepaalt de procedure op basis waarvan de hogeronderwijsinstellingen voorstellen kunnen indienen en bepaalt de criteria op basis waarvan de voorstellen worden beoordeeld en geselecteerd. De Vlaamse Regering waarborgt hierbij de onafhankelijkheid van het selectiemechanisme en de rangschikking van de geselecteerde projecten.<br>
+<br>
+§2. De beoordelingscriteria voor het toekennen van de subsidies houden onder meer rekening met de kwaliteit, de expertise van de indieners en de prijs.
+
+### ART III.98/10.
+
+De Vlaamse Regering regelt de wijze waarop de voortgang van de onderzoeken wordt opgevolgd en de regelingen over de vrijgave en het gebruik van de onderzoeksresultaten.<br>
+<br>
+De Vlaamse Regering kan complementaire regels over subsidiëring vastleggen.
+
 ## TITEL 3 Financiering van andere instellingen van hoger onderwijs en onderzoek
 
 ## Hoofdstuk 1 Fonds voor Wetenschappelijk Onderzoek-Vlaanderen
@@ -10242,7 +10392,11 @@ In afwijking van het eerste lid kan het universiteitsbestuur op grond van een om
 
 ### ART. V.25.
 
-<P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Het   universiteitsbestuur benoemt en stelt de leden van het academisch personeel aan.   Het bepaalt bij reglement de wijze waarop de ambten vacant worden   verklaard.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Een   eerste benoeming of aanstelling in, hetzij het zelfstandig academisch personeel,   hetzij het assisterend academisch personeel kan niet gebeuren dan na een   openbare oproep.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
+<p style="margin-left:0cm; margin-right:0cm">Het universiteitsbestuur benoemt en stelt de leden van het academisch personeel aan. Het bepaalt bij reglement de wijze waarop de ambten vacant worden verklaard.&nbsp;Het universiteitsbestuur kan een wervingsreserve aanleggen voor een cluster van verwante functies.<br>
+<br>
+<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /-->Een eerste benoeming of aanstelling in, hetzij het zelfstandig academisch personeel, hetzij het assisterend academisch personeel kan niet gebeuren dan na een openbare oproep.</p>
+
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
 
 ### ART. V.26.
 
@@ -10254,7 +10408,11 @@ In afwijking van het eerste lid kan het universiteitsbestuur op grond van een om
 
 ### ART. V.28.
 
-<P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Een   lid van het zelfstandig academisch personeel met een voltijdse opdracht wordt   benoemd. <?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Een   lid van het zelfstandig academisch personeel met een deeltijdse opdracht kan   ofwel benoemd worden, ofwel tijdelijk worden aangesteld voor hernieuwbare   termijnen van ten hoogste 6 jaar.</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Het   universiteitsbestuur kan in geval van eerste benoeming tot lid van het   zelfstandig academisch personeel de personen aanstellen in een tijdelijk   dienstverband als lid van het zelfstandig academisch personeel voor een periode   van ten hoogste 3 jaar met uitzicht op een vaste benoeming zonder nieuwe   vacature, indien het universiteitsbestuur de prestaties van de betrokkene   gunstig beoordeelt. In geval van   zwangerschap of langdurige en ernstige ziekte tijdens de termijn van de   aanstelling wordt op verzoek van het betrokken zelfstandig academisch   personeelslid de aanstelling met een bijkomende termijn van een jaar   verlengd.</P>
+<p style="margin-left:0cm; margin-right:0cm">Een lid van het zelfstandig academisch personeel met een voltijdse opdracht wordt benoemd.<br>
+<br>
+<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /-->Een lid van het zelfstandig academisch personeel met een deeltijdse opdracht kan ofwel benoemd worden, ofwel tijdelijk worden aangesteld voor hernieuwbare termijnen van ten hoogste 6 jaar.<br>
+<br>
+Het universiteitsbestuur kan in geval van eerste benoeming tot lid van het zelfstandig academisch personeel de personen aanstellen in een tijdelijk dienstverband als lid van het zelfstandig academisch personeel voor een periode van ten hoogste 3 jaar met uitzicht op een vaste benoeming zonder nieuwe vacature, indien het universiteitsbestuur de prestaties van de betrokkene gunstig beoordeelt. In geval van zwangerschap of langdurige en ernstige ziekte tijdens de termijn van de aanstelling wordt op verzoek van het betrokken zelfstandig academisch personeelslid de aanstelling met een bijkomende termijn van een jaar verlengd.&nbsp;Als de beoordeling gunstig is, maar het betrokken personeelslid niet voldoet aan de taalvereiste, vermeld in artikel II.270, § 2, kan het personeelslid niet benoemd worden maar kan de aanstelling met een bijkomende termijn worden verlengd om het vereiste beheersingsniveau van de Nederlandse taal te bereiken. Als de termijn wordt verlengd, wordt het personeelslid in principe benoemd zonder nieuwe beoordeling van zodra het aan het vereiste beheersingsniveau van de Nederlandse taal voldoet. De totale duur van de initiële aanstelling en de bijkomende termijn mag niet meer dan 5 jaar bedragen.</p>
 
 ### ART. V.29.
 
@@ -10987,7 +11145,11 @@ De ambten van groep 3 kunnen zowel in de graduaatsopleidingen en de professionel
 <br>
 In afwijking van het tweede lid, kan een personeelslid in een ambt van groep 1 dat aan de hiernavolgende voorwaarden voldoet, aangesteld blijven en in voorkomend geval benoemd worden in de educatieve masteropleiding voor de kunsten:<br>
 1° het personeelslid oefende tot 31 augustus 2019 een opdracht uit in de specifieke lerarenopleiding voor de kunsten;<br>
-2° het personeelslid oefent vanaf 1 september 2019 een opdracht uit in de educatieve masteropleiding voor de kunsten.</p>
+2° het personeelslid oefent vanaf 1 september 2019 een opdracht uit in de educatieve masteropleiding voor de kunsten.<br>
+<br>
+In afwijking van het tweede lid kan een personeelslid van de Hogere Zeevaartschool Antwerpen dat op 1 juni 2021 benoemd is in het ambt van praktijklector of hoofdpraktijklector onder de hiernavolgende voorwaarden dit ambt ten persoonlijken titel behouden en verder blijven uitoefenen in de opleiding scheepswerktuigkunde beperkt tot het volume van de opdracht op voormelde datum:<br>
+1° het personeelslid oefende tot 31 augustus 2021 deze opdracht uit in de professionele bachelor in de scheepswerktuigkunde;<br>
+2° het personeelslid is vanaf 1 september 2021 voor het luik onderwijs van zijn opdracht uitsluitend belast met praktijkgebonden opleidingsonderdelen in de academische bachelor van de opleiding scheepswerktuigkunde.</p>
 
 ### ART. V.122.
 
@@ -11045,7 +11207,7 @@ In afwijking van het tweede lid, kan een personeelslid in een ambt van groep 1 d
 
 ### ART. V.135.
 
-<P style="MARGIN: 0cm 0cm 0pt">Het hogeschoolbestuur kan een vacante betrekking na kandidaatstelling   toewijzen door werving, door bevordering of door ambtswijziging.<?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>
+<p style="margin-left:0cm; margin-right:0cm">Het hogeschoolbestuur kan een vacante betrekking na kandidaatstelling toewijzen door werving, door bevordering of door ambtswijziging.&nbsp;Het hogeschoolbestuur kan een wervingsreserve aanleggen voor een cluster van verwante functies.<!--?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /--></p>
 
 ### ART. V.136.
 
@@ -11099,7 +11261,7 @@ In afwijking van het tweede lid, kan een personeelslid in een ambt van groep 1 d
 
 ### ART. V.148.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. De bekwaamheidsbewijzen die, behoudens het bepaalde in paragraaf 2 van dit artikel, minimaal vereist zijn voor aanstelling en benoeming in de hierna vermelde ambten zijn:<br>
+<p style="margin-left:0cm; margin-right:0cm">§1. De bekwaamheidsbewijzen die, behoudens het bepaalde in paragraaf 2 van dit artikel, minimaal vereist zijn voor aanstelling en benoeming in de hierna vermelde ambten zijn:<br>
 1°&nbsp;&nbsp; praktijklector en hoofdpraktijklector : een diploma van&nbsp;bachelor;<br>
 2°&nbsp;&nbsp; lector en hoofdlector : een diploma van master;<br>
 3°&nbsp;&nbsp; assistent en werkleider : een diploma van master;<br>
@@ -11111,6 +11273,8 @@ In afwijking van punt 5°, worden de personeelsleden in het bezit van het diplom
 §2. Voor de artistiek gebonden onderwijsactiviteiten van de studiegebieden Audiovisuele en beeldende kunst, Muziek en podiumkunsten, Architectuur en Productontwikkeling geldt bij aanstelling en benoeming in de ambten van docent, hoofddocent, hoogleraar en gewoon hoogleraar als vereist bekwaamheidsbewijs eveneens een diploma van master, aangevuld met 6 jaar nuttige beroepservaring buiten het onderwijs.<br>
 <br>
 §3. Voor de opleiding nautische wetenschappen geldt als vereist bekwaamheidsbewijs voor de ambten van docent, hoofddocent en hoogleraar eveneens ofwel een STCW-vaarbevoegdheidsbewijs van master voor zeeschepen met een bruto tonnage van 3000 of meer ofwel het brevet van kapitein ter lange omvaart.<br>
+<br>
+Voor de academische bacheloren masteropleidingen in de scheepswerktuigkunde geldt als vereist bekwaamheidsbewijs voor de ambten van docent, hoofddocent en hoogleraar eveneens een Certificate of Competence/vaarbevoegdheidsbewijs A-III/2 als Chief Engineer, zoals beschreven in de STCW Conventie 1978 Regulation III/2.<br>
 <br>
 §4. Voor de onderwijsactiviteit "godsdienst" geldt eveneens als vereist basisbekwaamheidsbewijs voor de ambten van lector en hoofdlector : de hoedanigheid van bedienaar van de erkende eredienst.<br>
 <br>
