@@ -15,7 +15,7 @@ Besluit :
 
 ### ART 1.
 
-De graduaatsopleiding `graduaat in de HR-support' wordt erkend als nieuwe opleiding van Thomas More Mechelen-Antwerpen, vestiging Antwerpen.<br>
+De graduaatsopleiding `graduaat in de HR-support' wordt erkend als nieuwe opleiding van Thomas More Mechelen-Antwerpen, vestigingen Antwerpen en Mechelen.<br>
 <br>
 De opleiding, vermeld in het eerste lid, is ondergebracht in de studiegebieden Handelswetenschappen en bedrijfskunde en Sociaal-agogisch werk. De studieomvang van de opleiding bedraagt 120 studiepunten en de onderwijstaal is Nederlands.<br>
 <br>
