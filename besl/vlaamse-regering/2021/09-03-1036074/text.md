@@ -24,3 +24,11 @@ In afwijking van artikel 11 van het besluit van de Vlaamse regering van 24 novem
 ### ART 2.
 
 In afwijking van artikel 7, § 2, eerste lid, van het besluit van de Vlaamse Regering van 19 september 2011 houdende de subsidiëring van studenttutoring in het onderwijs in Vlaanderen wordt de uiterlijke indieningsdatum voor de studenttutoringsprojecten die van start gaan in het schooljaar 2021-2022, in de oproep bepaald.
+
+### ART 3.
+
+In artikel 3, derde lid, van het besluit van de Vlaamse Regering van 13 juli 2012 betreffende het inschrijvingsrecht in het basis- en secundair onderwijs, ingevoegd bij het besluit van de Vlaamse Regering van 19 juli 2019 en gewijzigd bij het besluit van de Vlaamse Regering van 8 mei 2020, wordt de zinsnede "het schooljaar 2019-2020, 2020-2021 en 2021-2022" telkens vervangen door de zinsnede "het schooljaar 2019-2020, 2020-2021, 2021-2022 en 2022-2023".
+
+### ART 4.
+
+In artikel 4, derde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 19 juli 2019 en gewijzigd bij het besluit van de Vlaamse Regering van 8 mei 2020, wordt de zinsnede "het schooljaar 2019-2020, 2020-2021 en 2021-2022" telkens vervangen door de zinsnede "het schooljaar 2019-2020, 2020-2021, 2021-2022 en 2022-2023".

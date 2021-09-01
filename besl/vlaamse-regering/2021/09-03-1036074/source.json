@@ -2,16 +2,16 @@
   "codex_id": 1036074,
   "title": "Besluit van de Vlaamse Regering van 2021-09-03 over dringende en tijdelijke maatregelen in het onderwijs door de COVID-19-crisis, wat betreft de examencommissie in het basisonderwijs, studenttutoring in het hoger onderwijs en inschrijvingen in het leerplichtonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036074/VolledigDocument?datum=2021-06-30",
-  "source_sha256": "ecbae8fbb894b778b315b9de2f2e946597012560283f41577c395d75c40e95a6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036074/VolledigDocument?datum=2021-09-01",
+  "source_sha256": "f424a2b64540373345f0f559f4abdead61ec1ee8a14fe286627f0492d28470d4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036074&param=informatie",
-  "as_of": "2021-06-30",
+  "as_of": "2021-09-01",
   "made": "2021-09-03",
   "gazette": "2021-09-24",
   "numac": 2021033199,
   "document_start": "2021-10-04",
   "document_end": null,
-  "in_force": "2021-06-30",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2021-06-30; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-09-01; future article versions excluded; article text as the API gives it"
 }
