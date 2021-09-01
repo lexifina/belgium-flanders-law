@@ -4689,6 +4689,14 @@ De raad kan bepalen dat het personeelslid dat onvoorzien buiten zijn   arbeidsti
 
 ## [Afdeling III. Onregelmatige prestaties van verzorgend personeel in gezinszorg (ing. BVR 3 juni 2022, art. 1, I: 1 september 2021)]
 
+### ART 142bis.
+
+Naast de wettelijk voorgeschreven inhaalrust krijgt het verzorgend personeelslid in een erkende dienst voor gezinszorg, vermeld in artikel 1, 25°, van bijlage 2 die bij het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers is gevoegd, per uur prestaties op weekdagen tussen achttien en twintig uur ofwel:<br>
+a) een toeslag op het uursalaris die gelijk is aan 15% van het uursalaris;<br>
+b) 9 minuten extra inhaalrust.<br>
+<br>
+In dit artikel wordt verstaan onder weekdag: elke dag van de week, behalve zaterdag, zondag en wettelijke feestdagen.
+
 ## HOOFDSTUK IV. De andere toelagen
 
 ## Afdeling I. De toelage voor het waarnemen van een hogere functie
