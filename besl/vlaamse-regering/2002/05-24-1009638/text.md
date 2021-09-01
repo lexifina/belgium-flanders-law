@@ -218,14 +218,14 @@ Als het resterend gedeelte van de maximumperiode van de onderbreking na de toepa
 ### ART 16/2.
 
 Personeelsleden die erkend mantelzorger zijn van een zorgbehoevende persoon, hebben het recht om hun loopbaan te onderbreken voor mantelzorg conform artikel 100ter en 102ter van de wet van 22 januari 1985 houdende sociale bepalingen.&nbsp;Ze hebben daarvoor een van de volgende opties:<br>
-1° hun loopbaan volledig onderbreken;<br>
-2° hun loopbaan gedeeltelijk onderbreken, op voorwaarde dat het personeelslid aangesteld is in een ambt met volledige prestaties.<br>
+1° hun loopbaan volledig onderbreken in periodes van een maand of een veelvoud daarvan;<br>
+2° hun loopbaan gedeeltelijk onderbreken in periodes van twee maanden of een veelvoud daarvan, op voorwaarde dat het personeelslid aangesteld is in een ambt met volledige prestaties.<br>
 <br>
 In het eerste lid wordt verstaan onder erkend mantelzorger: de persoon van wie de hoedanigheid van mantelzorger erkend is conform hoofdstuk 3 van de wet van 12 mei 2014 betreffende de erkenning van de mantelzorger.
 
 ### ART 16/3.
 
-Een personeelslid heeft recht op één maand voltijdse loopbaanonderbreking per zorgbehoevende persoon of twee maanden gedeeltelijke loopbaanonderbreking per zorgbehoevende persoon.<br>
+Een personeelslid heeft recht op drie maanden voltijdse loopbaanonderbreking per zorgbehoevende persoon of zes maanden gedeeltelijke loopbaanonderbreking per zorgbehoevende persoon.<br>
 <br>
 Het recht op volledige loopbaanonderbreking voor mantelzorg bedraagt maximaal zes maanden over de gehele beroepsloopbaan. Het recht op gedeeltelijke loopbaanonderbreking voor mantelzorg bedraagt maximaal twaalf maanden over de gehele beroepsloopbaan.<br>
 <br>
