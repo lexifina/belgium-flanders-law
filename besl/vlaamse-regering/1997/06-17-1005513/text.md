@@ -82,9 +82,610 @@ Voor de toepassing van artikel 137bis, § 5&nbsp;van het decreet is het   gemidd
 
 ## [ONDERAFDELING 1BIS LESTIJDEN VOOR AANVANGSBEGELEIDING
 
+### ART 13bis.
+
+Met toepassing van artikel 139septies decies, § 4, van het decreet kunnen uit de lestijden die conform artikel 139septies decies, § 3, van het decreet berekend worden in het buitengewoon onderwijs, in de volgende ambten betrekkingen worden ingericht:<br>
+1° in het ambt van kleuteronderwijzer algemene en sociale vorming;<br>
+2° in het ambt van onderwijzer algemene en sociale vorming;<br>
+3° in het ambt van leermeester algemene en sociale vorming, specialiteit lichamelijke opvoeding;<br>
+4° in het ambt van leermeester algemene en sociale vorming, compensatietechnieken braille, type 6;<br>
+5° in het ambt van leermeester godsdienst of niet-confessionele zedenleer.<br>
+<br>
+De lestijden worden op de volgende wijze omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen: de lestijden worden gedeeld door 22 tot op de eenheid. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.
+
+### ART 13ter.
+
+Met toepassing van artikel 139septies decies, § 4, van het decreet kunnen de lestijden die conform artikel 139septies decies, § 3, van het decreet verkregen worden, in het buitengewoon onderwijs worden omgezet in uren paramedisch, medisch, sociaal, psychologisch en orthopedagogisch personeel, na de omzetting conform de volgende tabel:
+<table border="1">
+	<tbody>
+		<tr>
+			<td>lestijden</td>
+			<td>uren</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>4</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>7</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>9</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>10</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>12</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>13</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>15</td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td>16</td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>18</td>
+		</tr>
+		<tr>
+			<td>13</td>
+			<td>19</td>
+		</tr>
+		<tr>
+			<td>14</td>
+			<td>21</td>
+		</tr>
+		<tr>
+			<td>15</td>
+			<td>22</td>
+		</tr>
+		<tr>
+			<td>16</td>
+			<td>24</td>
+		</tr>
+		<tr>
+			<td>17</td>
+			<td>25</td>
+		</tr>
+		<tr>
+			<td>18</td>
+			<td>27</td>
+		</tr>
+		<tr>
+			<td>19</td>
+			<td>28</td>
+		</tr>
+		<tr>
+			<td>20</td>
+			<td>29</td>
+		</tr>
+		<tr>
+			<td>21</td>
+			<td>31</td>
+		</tr>
+		<tr>
+			<td>22</td>
+			<td>32</td>
+		</tr>
+		<tr>
+			<td>23</td>
+			<td>34</td>
+		</tr>
+		<tr>
+			<td>24</td>
+			<td>35</td>
+		</tr>
+		<tr>
+			<td>25</td>
+			<td>37</td>
+		</tr>
+		<tr>
+			<td>26</td>
+			<td>38</td>
+		</tr>
+		<tr>
+			<td>27</td>
+			<td>40</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+De omrekening van uren naar de gefinancierde of gesubsidieerde betrekkingen van het paramedisch, medisch, sociaal, psychologisch en orthopedagogisch personeel gebeurt conform artikel 24 van het besluit van de Vlaamse regering van 17 juni 1997 betreffende de personeelsformatie in het buitengewoon basisonderwijs.
+
+### ART 13quater.
+
+Met toepassing van artikel 139septies decies, § 4, van het decreet kunnen de lestijden die conform artikel 139septies decies, § 3, van het decreet berekend worden, in het buitengewoon onderwijs worden omgezet in punten, na omzetting conform de volgende tabel:
+<table border="1">
+	<tbody>
+		<tr>
+			<td>lestijden</td>
+			<td>punten</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>4</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>8</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>12</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>15</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>19</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>23</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>27</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>31</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>35</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>39</td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td>43</td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>46</td>
+		</tr>
+		<tr>
+			<td>13</td>
+			<td>50</td>
+		</tr>
+		<tr>
+			<td>14</td>
+			<td>54</td>
+		</tr>
+		<tr>
+			<td>15</td>
+			<td>58</td>
+		</tr>
+		<tr>
+			<td>16</td>
+			<td>62</td>
+		</tr>
+		<tr>
+			<td>17</td>
+			<td>66</td>
+		</tr>
+		<tr>
+			<td>18</td>
+			<td>70</td>
+		</tr>
+		<tr>
+			<td>19</td>
+			<td>73</td>
+		</tr>
+		<tr>
+			<td>20</td>
+			<td>77</td>
+		</tr>
+		<tr>
+			<td>21</td>
+			<td>81</td>
+		</tr>
+		<tr>
+			<td>22</td>
+			<td>85</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Uit de punten die conform het eerste lid worden verkregen, kunnen de volgende ambten worden ingericht:<br>
+1° het ambt van zorgcoördinator uit de categorie beleids- en ondersteunend personeel;<br>
+2° het ambt van ICT-coördinator uit de categorie beleids- en ondersteunend personeel;<br>
+3° het ambt van administratief medewerker uit de categorie beleids- en ondersteunend personeel;<br>
+4° vanaf 1 januari 2022 het ambt van beleidsondersteuner uit de categorie beleids- en ondersteunend personeel.<br>
+<br>
+De omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen van het beleids- en ondersteund personeel gebeurt volgens conform artikelen 4quater, 4quinquies en 4sexies van het besluit van de Vlaamse regering van 5 maart 2004 betreffende de puntenenveloppen voor de scholengemeenschappen basisonderwijs.
+
+### ART 13quinquies.
+
+Met toepassing van artikel 172quinquies/1, § 3, van het decreet wordt voor de omkadering, vermeld in artikel 172quinquies/1, § 3, de tabel, vermeld in artikel 13ter, eerste lid, van dit besluit, gebruikt om de lestijden in uren om te zetten of omgekeerd.
+
 ## [ONDERAFDELING 1TER LESTIJDEN VOOR DE KERNTAAK VAN HET ONDERWIJZEND PERSONEEL (ing. BVR 22 april 2022, art. 24, I: 1 september 2021)]
 
+### ART 13sexies.
+
+§ 1. Met toepassing van artikel 139duodevicies, § 4, van het decreet kunnen uit de lestijden die conform artikel 139duodevicies, § 3, van het decreet berekend worden, in het buitengewoon onderwijs in de volgende ambten betrekkingen worden ingericht:<br>
+1° in het ambt van kleuteronderwijzer algemene en sociale vorming;<br>
+2° in het ambt van onderwijzer algemene en sociale vorming;<br>
+3° in het ambt van leermeester algemene en sociale vorming, specialiteit lichamelijke opvoeding;<br>
+4° in het ambt van leermeester algemene en sociale vorming, compensatietechnieken braille, type 6;<br>
+5° in het ambt van leermeester godsdienst of niet-confessionele zedenleer.<br>
+<br>
+De lestijden worden op de volgende wijze omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen: de lestijden worden gedeeld door 22 tot op de eenheid. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.<br>
+<br>
+§ 2. Met toepassing van artikel 139duodevicies, § 4 en § 6, van het decreet kunnen de lestijden die conform artikel 139duodevicies, § 3 van het decreet berekend worden, in het buitengewoon onderwijs worden omgezet in punten, na omzetting conform de volgende tabel:
+<table border="1">
+	<tbody>
+		<tr>
+			<td>lestijden</td>
+			<td>punten</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>4</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>8</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>12</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>15</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>19</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>23</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>27</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>31</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>35</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>39</td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td>43</td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>46</td>
+		</tr>
+		<tr>
+			<td>13</td>
+			<td>50</td>
+		</tr>
+		<tr>
+			<td>14</td>
+			<td>54</td>
+		</tr>
+		<tr>
+			<td>15</td>
+			<td>58</td>
+		</tr>
+		<tr>
+			<td>16</td>
+			<td>62</td>
+		</tr>
+		<tr>
+			<td>17</td>
+			<td>66</td>
+		</tr>
+		<tr>
+			<td>18</td>
+			<td>70</td>
+		</tr>
+		<tr>
+			<td>19</td>
+			<td>73</td>
+		</tr>
+		<tr>
+			<td>20</td>
+			<td>77</td>
+		</tr>
+		<tr>
+			<td>21</td>
+			<td>81</td>
+		</tr>
+		<tr>
+			<td>22</td>
+			<td>85</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Uit de punten die conform het eerste lid worden verkregen, kunnen de volgende ambten worden ingericht:<br>
+1° het ambt van zorgcoördinator uit de categorie beleids- en ondersteunend personeel;<br>
+2° het ambt van ICT-coördinator uit de categorie beleids- en ondersteunend personeel;<br>
+3° het ambt van administratief medewerker uit de categorie beleids- en ondersteunend personeel;<br>
+4° vanaf 1 januari 2022 het ambt van beleidsondersteuner uit de categorie beleids- en ondersteunend personeel.<br>
+<br>
+De omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen van het beleids- en ondersteund personeel gebeurt volgens conform artikelen 4quater, 4quinquies en 4sexies van het besluit van de Vlaamse regering van 5 maart 2004 betreffende de puntenenveloppen voor de scholengemeenschappen basisonderwijs.
+
 ## [ONDERAFDELING 1QUATER LESTIJDEN SAMEN SCHOOL MAKEN (ing. BVR 22 april 2022, art. 25, I: 1 september 2021)]
+
+### ART 13septies.
+
+§ 1. Met toepassing van artikel 139undevicies, § 6, van het decreet kunnen uit de lestijden die conform artikel 139undevicies, § 4 of § 5, van het decreet verkregen worden, in het buitengewoon onderwijs in de volgende ambten betrekkingen worden ingericht:<br>
+1° in het ambt van kleuteronderwijzer algemene en sociale vorming;<br>
+2° in het ambt van onderwijzer algemene en sociale vorming;<br>
+3° in het ambt van leermeester algemene en sociale vorming, specialiteit lichamelijke opvoeding;<br>
+4° in het ambt van leermeester algemene en sociale vorming, compensatietechnieken braille, type 6;<br>
+5° in het ambt van leermeester godsdienst of niet-confessionele zedenleer.<br>
+<br>
+De lestijden worden op de volgende wijze omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen: de lestijden worden gedeeld door 22 tot op de eenheid. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.<br>
+<br>
+§ 2. Met toepassing van artikel 139undevicies, § 6, van het decreet kunnen de lestijden die conform artikel 139undevicies, § 4 of § 5, van het decreet verkregen worden, in het buitengewoon onderwijs worden omgezet in uren paramedisch, medisch, sociaal, psychologisch en orthopedagogisch personeel, na de omzetting conform de volgende tabel:
+<table border="1">
+	<tbody>
+		<tr>
+			<td>lestijden</td>
+			<td>uren</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>4</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>7</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>9</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>10</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>12</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>13</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>15</td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td>16</td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>18</td>
+		</tr>
+		<tr>
+			<td>13</td>
+			<td>19</td>
+		</tr>
+		<tr>
+			<td>14</td>
+			<td>21</td>
+		</tr>
+		<tr>
+			<td>15</td>
+			<td>22</td>
+		</tr>
+		<tr>
+			<td>16</td>
+			<td>24</td>
+		</tr>
+		<tr>
+			<td>17</td>
+			<td>25</td>
+		</tr>
+		<tr>
+			<td>18</td>
+			<td>27</td>
+		</tr>
+		<tr>
+			<td>19</td>
+			<td>28</td>
+		</tr>
+		<tr>
+			<td>20</td>
+			<td>29</td>
+		</tr>
+		<tr>
+			<td>21</td>
+			<td>31</td>
+		</tr>
+		<tr>
+			<td>22</td>
+			<td>32</td>
+		</tr>
+		<tr>
+			<td>23</td>
+			<td>34</td>
+		</tr>
+		<tr>
+			<td>24</td>
+			<td>35</td>
+		</tr>
+		<tr>
+			<td>25</td>
+			<td>37</td>
+		</tr>
+		<tr>
+			<td>26</td>
+			<td>38</td>
+		</tr>
+		<tr>
+			<td>27</td>
+			<td>40</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+De omrekening van uren naar de gefinancierde of gesubsidieerde betrekkingen van het paramedisch, medisch, sociaal, psychologisch en orthopedagogisch personeel gebeurt conform artikel 24 van het besluit van de Vlaamse regering van 17 juni 1997 betreffende de personeelsformatie in het buitengewoon basisonderwijs.<br>
+<br>
+§ 3. Met toepassing van artikel 139undevicies, § 6, van het decreet kunnen de lestijden die conform artikel 139undevicies, § 4 of § 5, van het decreet verkregen worden, in het buitengewoon onderwijs worden omgezet in punten, na de omzetting conform de volgende tabel:
+<table border="1">
+	<tbody>
+		<tr>
+			<td>lestijden</td>
+			<td>punten</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>4</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>8</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>12</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>15</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>19</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>23</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>27</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>31</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>35</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>39</td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td>43</td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>46</td>
+		</tr>
+		<tr>
+			<td>13</td>
+			<td>50</td>
+		</tr>
+		<tr>
+			<td>14</td>
+			<td>54</td>
+		</tr>
+		<tr>
+			<td>15</td>
+			<td>58</td>
+		</tr>
+		<tr>
+			<td>16</td>
+			<td>62</td>
+		</tr>
+		<tr>
+			<td>17</td>
+			<td>66</td>
+		</tr>
+		<tr>
+			<td>18</td>
+			<td>70</td>
+		</tr>
+		<tr>
+			<td>19</td>
+			<td>73</td>
+		</tr>
+		<tr>
+			<td>20</td>
+			<td>77</td>
+		</tr>
+		<tr>
+			<td>21</td>
+			<td>81</td>
+		</tr>
+		<tr>
+			<td>22</td>
+			<td>85</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Uit de punten die conform het eerste lid worden verkregen, kunnen de volgende ambten worden ingericht:<br>
+1° het ambt van zorgcoördinator uit de categorie beleids- en ondersteunend personeel;<br>
+2° het ambt van ICT-coördinator uit de categorie beleids- en ondersteunend personeel;<br>
+3° het ambt van administratief medewerker uit de categorie beleids- en ondersteunend personeel;<br>
+4° vanaf 1 januari 2022 het ambt van beleidsondersteuner uit de categorie beleids- en ondersteunend personeel.<br>
+<br>
+De omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen van het beleids- en ondersteund personeel gebeurt conform artikelen 4quater, 4quinquies en 4sexies van het besluit van de Vlaamse regering van 5 maart 2004 betreffende de puntenenveloppen voor de scholengemeenschappen basisonderwijs.<br>
+<br>
+§ 4. Met toepassing van artikel 139undevicies, § 7, van het decreet worden de lestijden samen school maken aangewend op schoolniveau conform het afsprakenkader tussen de sociale partners.
 
 ## [ONDERAFDELING 1QUINQUIES OMZETTEN VAN LESTIJDEN IN PUNTEN OF UREN BIJ LERARENTEKORT (ing. BVR 9 september 2022, art. 16, I: 1 september 2022 tot 31 augustus 2025)]
 
