@@ -170,30 +170,19 @@ De Vlaamse Regering neemt een beslissing over de voorgestelde schrapping van de 
 
 ### ART. 16.
 
-<p>Het agentschap werkt voorstellen van onderwijskwalificaties uit op eigen initiatief of op vraag van belanghebbenden.</p>
-
-<p>Ieder voorstel van onderwijskwalificatie bevat :<br>
-1° de competenties van één of meer erkende beroepskwalificaties als vermeld in artikel 14 van het decreet van 30 april 2009;<br>
-2° het kwalificatieniveau;<br>
-3° de toepassing van de criteria, vermeld in artikel 15, tweede lid van het decreet van 30 april 2009;<br>
-4° de samenhang met andere voorstellen van onderwijskwalificaties en met erkende beroeps- en onderwijskwalificaties.<br>
-5° een advies over de wenselijkheid van een opleiding die leidt tot die onderwijskwalificatie en het studiegebied waartoe ze behoort.</p>
+<p>...</p>
 
 ## Afdeling 2. [... (opgeh. BVR 16 juli 2021, art. 55, I: 1 september 2021)]
 
 ### ART. 17.
 
-<p>§ 1. Elk voorstel van onderwijskwalificatie van niveau 4 wordt door het agentschap aan de VLOR voor advies voorgelegd. De VLOR brengt advies uit over de elementen, vermeld in artikel 16, 3° en 4° van dit besluit.</p>
-
-<p>Dat advies wordt bij het agentschap uitgebracht binnen dertig kalenderdagen.</p>
-
-<p>§ 2 ....</p>
+<p>...</p>
 
 ## Afdeling 3. [... (opgeh. BVR 16 juli 2021, art. 55, I: 1 september 2021)]
 
 ### ART. 18.
 
-Het agentschap legt het voorstel van onderwijskwalificatie met het   erkenningsadvies gebaseerd op het advies vermeld in artikel 17, binnen dertig   kalenderdagen voor aan de minister. De Vlaamse Regering beslist of de erkenning   al dan niet wordt verleend. De erkende onderwijskwalificatie omvat minstens de   benaming, de niveaubepaling, de beschrijving van de competenties, het   studiegebied waarin die onderwijskwalificatie zal worden aangeboden en het   jaartal van de erkenning. Elke erkende onderwijskwalificatie wordt bekendgemaakt   in het Belgisch Staatsblad.
+...
 
 ## HOOFDSTUK 4. Slotbepaling
 

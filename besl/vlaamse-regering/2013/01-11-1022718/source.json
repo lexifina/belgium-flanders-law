@@ -2,16 +2,16 @@
   "codex_id": 1022718,
   "title": "Besluit van de Vlaamse Regering van 2013-01-11 [houdende de uitvoering van het decreet van 30 april 2009 betreffende de kwalificatiestructuur inzake de erkenning van beroepskwalificaties]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022718/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "dce8d3dd27b2ce8751626711b61841f0c5415f1d808fd0bc61746b94dec13510",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022718/VolledigDocument?datum=2021-09-01",
+  "source_sha256": "7ea528787a2cba86bac3ec6a7db088f16c1043fe529f574b503f86f3e4dff58d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022718&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2021-09-01",
   "made": "2013-01-11",
   "gazette": "2013-02-11",
   "numac": 2013035108,
   "document_start": "2013-02-21",
   "document_end": null,
-  "in_force": "2021-01-01",
+  "in_force": "2021-09-01",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-09-01; future article versions excluded; article text as the API gives it"
 }
