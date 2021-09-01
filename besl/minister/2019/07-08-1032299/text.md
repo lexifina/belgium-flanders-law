@@ -43,7 +43,7 @@ c) het telefoonnummer;<br>
 2° de volgende gegevens over de opleiding:<br>
 a) de naam;<br>
 b) de eigen referentie binnen de eigen organisatie;<br>
-c) het aantal uren contactonderwijs, het aantal studiepunten of het aantal lestijden;<br>
+c) het aantal uren contactonderwijs, het aantal studiepunten, het aantal lestijden of in geval van een opleiding via blended leren, het aantal uren blended leren en het aantal uren afstandsleren;<br>
 d) als de opleiding contactonderwijs met werkplekleren betreft: het aantal uren werkplekleren;<br>
 e) de inhoud;<br>
 f) als de opleiding modules bevat, per module de volgende gegevens:<br>
@@ -52,7 +52,8 @@ f) als de opleiding modules bevat, per module de volgende gegevens:<br>
 3) de inhoud;<br>
 4) het aantal uren contactonderwijs of het aantal lestijden;<br>
 5) in voorkomend geval, het aantal uren werkplekleren;<br>
-g) een zelfanalyse over de arbeidsmarktgerichtheid op basis van het beoordelingssysteem, vermeld in artikel 2, § 1, vierde lid, van het besluit van 21 december 2018.<br>
+g) een zelfanalyse over de arbeidsmarktgerichtheid op basis van het beoordelingssysteem, vermeld in artikel 2, § 1, vierde lid, van het besluit van 21 december 2018;<br>
+h) in geval van een opleiding via blended leren, de mededeling van het learningmanagementsysteem dat wordt gehanteerd en de beschrijving van de wijze waarop wordt opgevolgd of de vooropgezette leerdoelstellingen zijn behaald.<br>
 <br>
 Voor de opleidingen, vermeld in artikel 109, § 1, 1°, a), van de wet van 22 januari 1985, geldt het eerste lid, 2°, d) en f), 5), niet. Voor de opleidingen, vermeld in artikel 109, § 1, 1°, b), van de voormelde wet, geldt het eerste lid, 2°, d) en f), niet.
 
@@ -71,7 +72,7 @@ b) het KBO-nummer of het instellingsnummer;<br>
 a) de naam;<br>
 b) in voorkomend geval, de modules waarvoor is ingeschreven;<br>
 c) het registratienummer in de opleidingsdatabank of de referentie, vermeld in artikel 3, eerste lid, 2°, b), in voorkomend geval per module;<br>
-d) het aantal contacturen, het aantal studiepunten of het aantal lestijden, in voorkomend geval per module, waarvoor is ingeschreven;<br>
+d) het aantal contacturen, het aantal studiepunten of het aantal lestijden, in voorkomend geval per module, en in geval van een opleiding via blended leren, het aantal uren blended leren waarvoor is ingeschreven;<br>
 e) de begin- en einddatum, en de datum van het examen als dat na de einddatum plaatsvindt.<br>
 <br>
 Voor de opleidingen, vermeld in artikel 109, § 1, 1°, b), van de wet van 22 januari 1985, bevat het inschrijvingsattest in plaats van de gegevens, vermeld in het eerste lid, 3°, al de volgende gegevens over de opleiding:<br>
