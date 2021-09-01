@@ -2,16 +2,16 @@
   "codex_id": 1025668,
   "title": "Ministerieel besluit van 2015-06-23 houdende vaststelling van de verzamelaanvraag en de nadere regels voor de gemeenschappelijke identificatie van percelen, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025668/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "0a2954a9b22cd62d0394aa84f463c708286d97a3fe2a346b86a54da69636d8ce",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025668/VolledigDocument?datum=2021-09-01",
+  "source_sha256": "55f85410ddb176db2627460d8294b8d4b86849337232b9cc22b9be706ae3ce4c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025668&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2021-09-01",
   "made": "2015-06-23",
   "gazette": "2015-07-24",
   "numac": 2015035918,
   "document_start": "2015-01-01",
   "document_end": "2022-12-31",
-  "in_force": "2021-01-01",
+  "in_force": "2021-09-01",
   "article_versions": 23,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-09-01; future article versions excluded; article text as the API gives it"
 }

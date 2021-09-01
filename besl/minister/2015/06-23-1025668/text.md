@@ -132,7 +132,7 @@ Het bewijs om aan te tonen dat men actieve landbouwer is, vermeld in artikel 8, 
 
 ### ART. 12.
 
-<p>&nbsp;De landbouwer moet op de uiterste indieningsdatum van de verzamelaanvraag van het desbetreffende jaar beschikken over de landbouwpercelen die hij in zijn verzamelaanvraag aangeeft voor de activering van de betalingsrechten.</p>
+<p>&nbsp;De landbouwer moet op de uiterste wijzigingsdatum van de verzamelaanvraag van het desbetreffende jaar beschikken over de landbouwpercelen die hij in zijn verzamelaanvraag aangeeft voor de activering van de betalingsrechten.</p>
 
 ## Afdeling 2 Aangifte van vergroeningselementen
 
