@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036267,
+  "title": "Besluit van de Vlaamse Regering van 2021-10-22 tot vervanging van artikel 8 van het besluit van de Vlaamse Regering van 31 maart 2006 tot regeling van sommige verloven voor de personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere Zeevaartschool en van artikel 2 van het besluit van de Vlaamse Regering van 3 juli 2009 betreffende het omstandigheidsverlof, het verlof wegens overmacht, het onbezoldigd ouderschapsverlof en het geboorteverlof in geval van overlijden of hospitalisatie van de moeder voor bepaalde personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding en tot wijziging van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof voor verminderde prestaties, gewettigd door sociale of familiale redenen en de afwezigheid voor verminderde prestaties wegens persoonlijke aangelegenheid ten gunste van de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding, wat betreft de uitbreiding van het omstandigheidsverlof bij overlijden van een partner of een kind",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036267/VolledigDocument?datum=2021-09-01",
+  "source_sha256": "814cd4cdab8d9592140fdc6197c1d3ac22fb43d45164dc7f557bebaaea0d3437",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036267&param=informatie",
+  "as_of": "2021-09-01",
+  "made": "2021-10-22",
+  "gazette": "2021-12-01",
+  "numac": 2021033861,
+  "document_start": "2021-09-01",
+  "document_end": null,
+  "in_force": "2021-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
