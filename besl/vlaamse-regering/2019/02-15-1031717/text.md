@@ -44,6 +44,10 @@ In bijlage I bij het decreet van 15 juni 2007 betreffende het volwassenenonderwi
 
 In artikel 1 van het besluit van de Vlaamse Regering van 1 september 2006 betreffende de modulaire structuur van het secundair volwassenenonderwijs voor het studiegebied ambachtelijk erfgoed, vervangen bij het besluit van de Vlaamse Regering van 8 september 2017, wordt de zinsnede "bijlage I tot en met XI" vervangen door de zinsnede "bijlage I tot en met VI en bijlage VIII tot en met XIII".
 
+### ART 3.
+
+Bijlage VII bij hetzelfde besluit wordt opgeheven.
+
 ### ART 4.
 
 Aan hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 8 september 2017, worden een bijlage XII en XIII toegevoegd, die als bijlage 2 en 3 bij dit besluit zijn gevoegd.
@@ -69,6 +73,10 @@ Artikel 2/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Rege
 ### ART 8.
 
 Bijlage IV, IX en X bij hetzelfde besluit worden opgeheven.
+
+### ART 9.
+
+Bijlage V tot en met VII en bijlage XI en XII worden opgeheven.
 
 ### ART 10.
 
