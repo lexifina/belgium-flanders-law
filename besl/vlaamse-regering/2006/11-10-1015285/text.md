@@ -113,6 +113,20 @@ Voor de beroepscommissie haar eindadvies uitbrengt, moet ze de indiener van het 
 
 De beroepscommissie deelt haar eindadvies over het beroep aan de Vlaamse Regering mee binnen twintig dagen nadat de indiener het beroep heeft aangetekend.<br /><br />Uiterlijk tien dagen na de beslissing van de Vlaamse Regering moet de inspecteur-generaal de indiener van het beroepschrift op de hoogte hebben gebracht van de beslissing.<br /><br />
 
+### ART 9/1.
+
+In afwijking van artikel 3, 4 en 5 van dit besluit worden door de Vlaamse Regering goedgekeurde leerplannen die een wijziging behoeven uitsluitend omwille van technische aanpassingen aan een structuuronderdeel secundair onderwijs, al dan niet onderwijskwalificatie, enkel ter kennisgeving en voorafgaand aan het schooljaar waarin dat gewijzigd leerplan van kracht wordt bij de inspectie-generaal ingediend.<br>
+<br>
+Onder technische aanpassingen worden de aanpassingen verstaan als vermeld in, naargelang van het geval:<br>
+1° artikel 6/1, § 2, van het besluit van de Vlaamse Regering van 6 juli 2007 tot vaststelling van de indienings- en adviseringsprocedure voor voorstellen van nieuwe structuuronderdelen in het secundair onderwijs dat niet of niet automatisch tot een onderwijskwalificatie leidt, of<br>
+2° artikel 8/1, § 2, van het besluit van de Vlaamse Regering van 10 januari 2014 houdende de uitvoering van het decreet van 30 april 2009 betreffende de kwalificatiestructuur inzake de erkenning van onderwijskwalificaties van niveau 1 tot en met niveau 4.
+
+### ART 9/2.
+
+In afwijking van artikel 3, 4 en 5 van dit besluit zijn de leerplannen die betrekking hebben op de structuuronderdelen van het eerste leerjaar van de tweede graad voor wat het schooljaar 2021-2022 betreft van rechtswege goedgekeurd als die leerplannen:<br>
+a) hetzij al uiterlijk 10 april 2021 ter goedkeuring bij de inspectie-generaal werden ingediend, vervolgens worden goedgekeurd maar nadien een wijziging behoeven uitsluitend ingevolge een wijziging met ingang van 1 september 2021 van de matrix of van de samenstelling van structuuronderdelen met een of meer beroepskwalificaties, deelkwalificaties of sets van competenties als vermeld in het besluit van de Vlaamse Regering van 1 juni 2018 houdende sommige maatregelen betreffende de modernisering van het secundair onderwijs;<br>
+b) hetzij na 10 april 2021 voor het eerst ter goedkeuring bij de inspectie-generaal worden ingediend uitsluitend ingevolge een wijziging met ingang van 1 september 2021 van de matrix als vermeld in hetzelfde besluit van 1 juni 2018.
+
 ### ART. 10.
 
 De volgende regelingen worden opgeheven :<br />1° het besluit van de Vlaamse Regering van 3 juni 1992 tot vaststelling van de goedkeuringsmodaliteiten van leerplannen;<br />2° het besluit van de Vlaamse Regering van 26 november 1996 tot vaststelling van de goedkeuringscriteria en indieningsmodaliteiten van de leerplannen voor het basisonderwijs;<br />3° het besluit van de Vlaamse Regering van 26 november 1996 tot vaststelling van de goedkeuringscriteria en indieningsmodaliteiten van de leerplannen voor het secundair onderwijs.<br /><br />
