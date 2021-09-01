@@ -31,7 +31,7 @@ Dit besluit is van toepassing op de personeelsleden, vermeld in artikel 2 van he
 
 ### ART. 3.
 
-Voor de toepassing van dit besluit worden de ambtshalve concordanties opgesomd in de bijlagen I tot en met VII.<br>
+Voor de toepassing van dit besluit worden de ambtshalve concordanties opgesomd in de bijlagen I tot en met VIII.<br>
 &nbsp;
 
 ### ART. 4.
@@ -50,7 +50,31 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE 1.
 
-In het gewoon secundair onderwijs :<BR>1° wordt het oude algemeen vak   wijsgerige stromingen ambtshalve geconcordeerd naar het nieuwe algemeen vak   filosofie;<BR>2° wordt het oude technisch vak kleding ambtshalve geconcordeerd   naar het nieuwe technisch vak mode;<BR>3° wordt het oude praktisch vak kleding   ambtshalve geconcordeerd naar het nieuwe praktisch vak mode;<BR>4° wordt, met   ingang van 1 september 2010, het technische vak technologische opvoeding   ambtshalve geconcordeerd naar het technische vak techniek;<BR>5° wordt, met   ingang van 1 september 2010, het algemene vak biologie ambtshalve geconcordeerd   naar het algemene vak natuurwetenschappen, voor de personeelsleden van het   voltijds secundair onderwijs die in het ambt van leraar secundair onderwijs in   de loop van het schooljaar 2007-2008, 2008-2009 of 2009-2010 aan een van de   volgende voorwaarden hebben voldaan : <BR>a) ze zijn titularis geweest van een   betrekking in het algemene vak biologie in de eerste graad van het gewoon   secundair onderwijs en ze zijn uiterlijk op 31 augustus 2010 voor het algemene   vak biologie vastbenoemd op basis van een vereist bekwaamheidsbewijs, organiek   of bij overgangsmaatregel; <BR>b) ze zijn tijdelijk aangesteld of tijdelijk   belast geweest in een betrekking in het algemene vak biologie in de eerste graad   van het gewoon secundair onderwijs op basis van een vereist bekwaamheidsbewijs,   organiek of bij overgangsmaatregel; <BR>6° wordt, met ingang van 1 september   2010, het algemene vak fysica ambtshalve geconcordeerd naar het algemene vak   natuurwetenschappen, voor de personeelsleden van het voltijds secundair   onderwijs die in het ambt van leraar secundair onderwijs in de loop van het   schooljaar 2007-2008, 2008-2009 of 2009-2010 aan een van de volgende voorwaarden   hebben voldaan : <BR>a) ze zijn titularis geweest van een betrekking in het   algemene vak fysica in de eerste graad van het gewoon secundair onderwijs en ze   zijn uiterlijk op 31 augustus 2010 voor het algemene vak fysica vastbenoemd op   basis van een vereist bekwaamheidsbewijs, organiek of bij overgangsmaatregel;   <BR>b) ze zijn tijdelijk aangesteld of tijdelijk belast geweest in een   betrekking in het algemene vak fysica in de eerste graad van het gewoon   secundair onderwijs op basis van een vereist bekwaamheidsbewijs, organiek of bij   overgangsmaatregel; <BR>7° wordt, met ingang van 1 september 2011, het algemene   vak biologie ambtshalve geconcordeerd naar het algemene vak natuurwetenschappen,   voor de personeelsleden van het voltijds secundair onderwijs die in het ambt van   leraar secundair onderwijs in de loop van het schooljaar 2008-2009, 2009-2010 of   2010-2011 aan een van de volgende voorwaarden hebben voldaan : <BR>a) ze zijn   titularis geweest van een betrekking in het algemene vak biologie in de eerste   graad van het gewoon secundair onderwijs en uiterlijk op 31 augustus 2011 voor   het algemene vak biologie vastbenoemd op basis van een vereist   bekwaamheidsbewijs, organiek of bij overgangsmaatregel; <BR>b) ze zijn tijdelijk   aangesteld of tijdelijk belast geweest in een betrekking in het algemene vak   biologie in de eerste graad van het gewoon secundair onderwijs op basis van een   vereist bekwaamheidsbewijs, organiek of bij overgangsmaatregel;<BR>8° wordt, met   ingang van 1 september 2011, het algemene vak fysica ambtshalve geconcordeerd   naar het algemene vak natuurwetenschappen, voor de personeelsleden van het   voltijds secundair onderwijs die in het ambt van leraar secundair onderwijs in   de loop van het schooljaar 2008-2009, 2009-2010 of 2010-2011 aan een van de   volgende voorwaarden hebben voldaan :<BR>a) ze zijn titularis geweest van een   betrekking in het algemene vak fysica in de eerste graad van het gewoon   secundair onderwijs en uiterlijk op 31 augustus 2011 voor het algemene vak   fysica vastbenoemd op basis van een vereist bekwaamheidsbewijs, organiek of bij   overgangsmaatregel; <BR>b) ze zijn tijdelijk aangesteld of tijdelijk belast   geweest in een betrekking in het algemene vak fysica in de eerste graad van het   gewoon secundair onderwijs op basis van een vereist bekwaamheidsbewijs, organiek   of bij overgangsmaatregel;<BR>9° wordt, met ingang van 1 september 2011, het   algemene vak wetenschappelijk werk ambtshalve geconcordeerd naar het algemene   vak natuurwetenschappen, voor de personeelsleden van het voltijds secundair   onderwijs die in het ambt van leraar secundair onderwijs in de loop van het   schooljaar 2008-2009, 2009-2010 of 2010-2011 aan een van de volgende voorwaarden   voldoen :<BR>a) ze zijn titularis geweest van een betrekking in het algemene vak   wetenschappelijk werk in de eerste graad van het gewoon secundair onderwijs en   ze zijn uiterlijk op 31 augustus 2011 voor het algemene vak wetenschappelijk   werk vastbenoemd op basis van een vereist bekwaamheidsbewijs, organiek of bij   overgangsmaatregel; <BR>b) ze zijn tijdelijk aangesteld of tijdelijk belast   geweest in een betrekking in het algemene vak wetenschappelijk werk in de eerste   graad van het gewoon secundair onderwijs op basis van een vereist   bekwaamheidsbewijs, organiek of bij overgangsmaatregel;<BR>10° wordt, met ingang   van 1 september 2014, het ambt van leraar ambtshalve geconcordeerd naar het ambt   van leraar niet-confessionele zedenleer, voor de personeelsleden van het   voltijds secundair onderwijs die in de loop van het schooljaar 2011-2012,   2012-2013 of 2013-2014 aan een van de volgende voorwaarden voldoen:<BR>a) ze   zijn titularis geweest van een betrekking in het algemene vak niet-confessionele   zedenleer en ze zijn uiterlijk op 31 augustus 2014 voor het algemene vak   niet-confessionele zedenleer vastbenoemd;<BR>b) ze zijn tijdelijk aangesteld of   tijdelijk belast geweest in een betrekking in het algemene vak   niet-confessionele zedenleer.<BR><BR>
+In het gewoon secundair onderwijs :<br>
+1° wordt het oude algemeen vak wijsgerige stromingen ambtshalve geconcordeerd naar het nieuwe algemeen vak filosofie;<br>
+2° wordt het oude technisch vak kleding ambtshalve geconcordeerd naar het nieuwe technisch vak mode;<br>
+3° wordt het oude praktisch vak kleding ambtshalve geconcordeerd naar het nieuwe praktisch vak mode;<br>
+4° wordt, met ingang van 1 september 2010, het technische vak technologische opvoeding ambtshalve geconcordeerd naar het technische vak techniek;<br>
+5° wordt, met ingang van 1 september 2010, het algemene vak biologie ambtshalve geconcordeerd naar het algemene vak natuurwetenschappen, voor de personeelsleden van het voltijds secundair onderwijs die in het ambt van leraar secundair onderwijs in de loop van het schooljaar 2007-2008, 2008-2009 of 2009-2010 aan een van de volgende voorwaarden hebben voldaan :<br>
+a) ze zijn titularis geweest van een betrekking in het algemene vak biologie in de eerste graad van het gewoon secundair onderwijs en ze zijn uiterlijk op 31 augustus 2010 voor het algemene vak biologie vastbenoemd op basis van een vereist bekwaamheidsbewijs, organiek of bij overgangsmaatregel;<br>
+b) ze zijn tijdelijk aangesteld of tijdelijk belast geweest in een betrekking in het algemene vak biologie in de eerste graad van het gewoon secundair onderwijs op basis van een vereist bekwaamheidsbewijs, organiek of bij overgangsmaatregel;<br>
+6° wordt, met ingang van 1 september 2010, het algemene vak fysica ambtshalve geconcordeerd naar het algemene vak natuurwetenschappen, voor de personeelsleden van het voltijds secundair onderwijs die in het ambt van leraar secundair onderwijs in de loop van het schooljaar 2007-2008, 2008-2009 of 2009-2010 aan een van de volgende voorwaarden hebben voldaan :<br>
+a) ze zijn titularis geweest van een betrekking in het algemene vak fysica in de eerste graad van het gewoon secundair onderwijs en ze zijn uiterlijk op 31 augustus 2010 voor het algemene vak fysica vastbenoemd op basis van een vereist bekwaamheidsbewijs, organiek of bij overgangsmaatregel;<br>
+b) ze zijn tijdelijk aangesteld of tijdelijk belast geweest in een betrekking in het algemene vak fysica in de eerste graad van het gewoon secundair onderwijs op basis van een vereist bekwaamheidsbewijs, organiek of bij overgangsmaatregel;<br>
+7° wordt, met ingang van 1 september 2011, het algemene vak biologie ambtshalve geconcordeerd naar het algemene vak natuurwetenschappen, voor de personeelsleden van het voltijds secundair onderwijs die in het ambt van leraar secundair onderwijs in de loop van het schooljaar 2008-2009, 2009-2010 of 2010-2011 aan een van de volgende voorwaarden hebben voldaan :<br>
+a) ze zijn titularis geweest van een betrekking in het algemene vak biologie in de eerste graad van het gewoon secundair onderwijs en uiterlijk op 31 augustus 2011 voor het algemene vak biologie vastbenoemd op basis van een vereist bekwaamheidsbewijs, organiek of bij overgangsmaatregel;<br>
+b) ze zijn tijdelijk aangesteld of tijdelijk belast geweest in een betrekking in het algemene vak biologie in de eerste graad van het gewoon secundair onderwijs op basis van een vereist bekwaamheidsbewijs, organiek of bij overgangsmaatregel;<br>
+8° wordt, met ingang van 1 september 2011, het algemene vak fysica ambtshalve geconcordeerd naar het algemene vak natuurwetenschappen, voor de personeelsleden van het voltijds secundair onderwijs die in het ambt van leraar secundair onderwijs in de loop van het schooljaar 2008-2009, 2009-2010 of 2010-2011 aan een van de volgende voorwaarden hebben voldaan :<br>
+a) ze zijn titularis geweest van een betrekking in het algemene vak fysica in de eerste graad van het gewoon secundair onderwijs en uiterlijk op 31 augustus 2011 voor het algemene vak fysica vastbenoemd op basis van een vereist bekwaamheidsbewijs, organiek of bij overgangsmaatregel;<br>
+b) ze zijn tijdelijk aangesteld of tijdelijk belast geweest in een betrekking in het algemene vak fysica in de eerste graad van het gewoon secundair onderwijs op basis van een vereist bekwaamheidsbewijs, organiek of bij overgangsmaatregel;<br>
+9° wordt, met ingang van 1 september 2011, het algemene vak wetenschappelijk werk ambtshalve geconcordeerd naar het algemene vak natuurwetenschappen, voor de personeelsleden van het voltijds secundair onderwijs die in het ambt van leraar secundair onderwijs in de loop van het schooljaar 2008-2009, 2009-2010 of 2010-2011 aan een van de volgende voorwaarden voldoen :<br>
+a) ze zijn titularis geweest van een betrekking in het algemene vak wetenschappelijk werk in de eerste graad van het gewoon secundair onderwijs en ze zijn uiterlijk op 31 augustus 2011 voor het algemene vak wetenschappelijk werk vastbenoemd op basis van een vereist bekwaamheidsbewijs, organiek of bij overgangsmaatregel;<br>
+b) ze zijn tijdelijk aangesteld of tijdelijk belast geweest in een betrekking in het algemene vak wetenschappelijk werk in de eerste graad van het gewoon secundair onderwijs op basis van een vereist bekwaamheidsbewijs, organiek of bij overgangsmaatregel;<br>
+10° wordt, met ingang van 1 september 2014, het ambt van leraar ambtshalve geconcordeerd naar het ambt van leraar niet-confessionele zedenleer, voor de personeelsleden van het voltijds secundair onderwijs die in de loop van het schooljaar 2011-2012, 2012-2013 of 2013-2014 aan een van de volgende voorwaarden voldoen:<br>
+a) ze zijn titularis geweest van een betrekking in het algemene vak niet-confessionele zedenleer en ze zijn uiterlijk op 31 augustus 2014 voor het algemene vak niet-confessionele zedenleer vastbenoemd;<br>
+b) ze zijn tijdelijk aangesteld of tijdelijk belast geweest in een betrekking in het algemene vak niet-confessionele zedenleer;<br>
+11° worden met ingang van 1 september 2021 de ambten die uiterlijk op 31 augustus 2021 zijn opgericht met toepassing van artikel VI.7 van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, ambtshalve geconcordeerd naar het wervingsambt van ICT-coördinator.<br>
+&nbsp;
 
 ## BIJLAGE II
 
@@ -74,13 +98,20 @@ In het gewoon basisonderwijs :<br />1° worden de wervingsambten van administrat
 
 ### BIJLAGE V.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2021/03/22_1.pdf#page=79">Bijlage V</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/08/11_1.pdf#page=104">Bijlage V</a><br>
+<br>
+<br>
+* Bij besluit van de Vlaamse Regering van 3 september 2021, BS 14 oktober 2021, wordt met ingang van 1 september 2021, aan bijlage V, 21°&nbsp;een punt c) toegevoegd, dat luidt als volgt:<br>
+"c) de ambten die uiterlijk op 31 augustus 2021 zijn opgericht met toepassing van artikel VI.7 van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, worden ambtshalve geconcordeerd naar het wervingsambt van ICT-coördinator."
 
 ## BIJLAGE VI
 
 ### BIJLAGE VI.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/20_1.pdf#page=1157">Bijlage VI</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/20_1.pdf#page=1157">Bijlage VI</a><br>
+<br>
+* Bij besluit van de Vlaamse Regering van 3 september 2021, BS 14 oktober 2021, wordt met ingang van 1 september 2021, aan bijlage VI een punt F toegevoegd, dat luidt als volgt:<br>
+"F. Met ingang van 1 september 2021 worden in het deeltijds kunstonderwijs de ambten die uiterlijk op 31 augustus 2021 zijn opgericht met toepassing van artikel VI.7 van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, ambtshalve geconcordeerd naar het wervingsambt van ICT-coördinator."
 
 ### BIJLAGE VII
 
@@ -90,3 +121,10 @@ Met ingang van 1 september 2018 :<br>
 1° wordt in het centrum voor leerlingenbegeleiding het ambt van administratief werker, ambtshalve geconcordeerd naar het wervingsambt van administratief medewerker;<br>
 2° wordt in het centrum voor leerlingenbegeleiding het ambt van medewerker, ambtshalve geconcordeerd naar het wervingsambt van administratief medewerker.<br>
 Gezien om gevoegd te worden bij het besluit van de Vlaamse Regering van 15 juni 2018 tot wijziging van de regelgeving betreffende de concordantie, de bekwaamheidsbewijzen en de salarisschalen van de personeelsleden van het buitengewoon onderwijs en de centra voor leerlingenbegeleiding.
+
+### BIJLAGE VIII
+
+Bijlage VIII. Ambtshalve concordantie in het buitengewoon secundair onderwijs<br>
+<br>
+In het buitengewoon secundair onderwijs:<br>
+1° worden met ingang van 1 september 2021 de ambten die uiterlijk zijn opgericht op 31 augustus 2021 met toepassing van artikel VI.7 van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, ambtshalve geconcordeerd naar het wervingsambt van ICT-coördinator.
