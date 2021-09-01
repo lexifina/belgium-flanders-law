@@ -101,12 +101,13 @@ Het niet invullen van de component werkplekleren kan, afzonderlijk voor het deel
 § 4. In overeenstemming met artikel 112, vierde lid, van de Codex Secundair Onderwijs, is het centrum voor deeltijds beroepssecundair onderwijs bevoegd om een bepaalde concrete invulling van arbeidsdeelname aan de jongere op te leggen of te ontzeggen. Het centrum zal bij die beslissing alleszins het profiel van de jongere, de meerwaarde voor de component leren en de tijdsduur van de arbeidsdeelname in overweging nemen.<br>
 <br>
 Indien zich meerdere concrete alternatieven voordoen, dan beslist het centrum na overleg met de betrokken personen. In elk geval moet steeds maximaal worden gestreefd naar een invulling van de component werkplekleren door middel van het in § 2, 1°, gestelde, waarbij er een inhoudelijke aansluiting is op de component leren.<br>
+<br>
+§ 5. Als de component werkplekleren niet wordt ingevuld conform paragraaf 1 tot en met 3, of met een NAFT, wordt de opleiding altijd volledig georganiseerd via onderwijs bij het centrum voor deeltijds beroepssecundair onderwijs of het centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen waar de leerling is ingeschreven.<br>
 &nbsp;
 
 ### ART. 7.
 
-In het deeltijds beroepssecundair onderwijs kan, in afwijking van artikelen 5 en 6, § 1, voor een jongere die is ingeschreven in een centrum voor deeltijds beroepssecundair onderwijs de component leren of de component werkplekleren worden vervangen door een NAFT.<br>
-&nbsp;
+...
 
 ## HOOFDSTUK III De component leren
 
@@ -278,7 +279,7 @@ Uitsluitend wat de leertijd betreft komt de voorwaarde met betrekking tot progra
 
 ### ART. 21.
 
-Elk centrum voor deeltijds beroepssecundair onderwijs en elk centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen is vrij in de ingebruikname van vestigingsplaatsen.<br>
+Elk centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen is vrij in de ingebruikname van vestigingsplaatsen.<br>
 <br>
 Voor de toepassing van dit decreet kan een locatie alleen de vestigingsplaats van een centrum zijn als er een deel of het geheel van het opleidings- of vormingsaanbod met eigen personeel wordt georganiseerd.<br>
 <br>
@@ -368,7 +369,13 @@ In het deeltijds beroepssecundair onderwijs kunnen stages worden   georganiseerd
 
 ### ART. 29.
 
-§ 1. Eindtermen kunnen vakgebonden of vakoverschrijdend zijn. <br /><br />Vakgebonden eindtermen worden vastgelegd voor de basisvorming, zoals bepaald in de codificatie betreffende het secundair onderwijs. De onderwijsinstelling in kwestie heeft de maatschappelijke opdracht de vakgebonden eindtermen met betrekking tot kennis, inzicht en vaardigheden bij de jongeren te bereiken. Het bereiken van die eindtermen zal worden afgewogen tegenover de schoolcontext en de kenmerken van de schoolpopulatie. Vakgebonden eindtermen met betrekking tot attitudes moeten door de onderwijsinstelling bij de jongeren worden nagestreefd.<br /><br />Vakoverschrijdende eindtermen zijn minimumdoelen die niet specifiek behoren tot een vakgebied, maar onder meer door middel van meer vakken of onderwijsprojecten worden nagestreefd. Elke instelling heeft de maatschappelijke opdracht de vakoverschrijdende eindtermen bij de jongeren na te streven. De instelling toont aan dat ze met een eigen planning aan de vakoverschrijdende eindtermen werkt.<br /><br />Elke opleidingsverstrekker beschikt over de vrijheid om leerplannen vast te stellen. Met het oog op de toepassing ervan moeten de leerplannen door de Vlaamse Regering zijn goedgekeurd, volgens de vooraf door haar bepaalde criteria. In leerplannen moeten de vakgebonden eindtermen, als ze bepaald zijn, op een herkenbare wijze worden opgenomen. Leerplannen bevatten daarnaast en desgewenst de doelen die de opleidingsverstrekker uitdrukkelijk formuleert voor de jongeren vanuit het eigen opvoedingsproject in het algemeen of de eigen visie op het vak in het bijzonder. Ook moeten leerplannen voldoende ruimte laten voor de inbreng van onderwijsinstellingen, leraren, lerarenteams of de jongeren zelf.<br /><br />§ 2. Om het studiepeil te waarborgen, en uitsluitend met het oog op de uitreiking in het deeltijds beroepssecundair onderwijs van graad- of leerjaargebonden eindstudiebewijzen, identiek aan die van het voltijds gewoon secundair onderwijs, zijn de bepalingen over eindtermen en leerplannen als vermeld in § 1 en met uitzondering van het vak lichamelijke opvoeding, van toepassing op de algemene vorming.<br /><br />Dit houdt in dat de algemene vorming wordt verstrekt op basis van enerzijds door de Vlaamse Regering goedgekeurde leerplannen waarin op herkenbare wijze de vakgebonden eindtermen moeten worden opgenomen, en anderzijds, en uiterlijk vanaf het schooljaar 2010-2011, met inachtname van de vakoverschrijdende eindtermen. <br /><br />Met vakgebonden eindtermen worden de eindtermen voor de vakken van de basisvorming bedoeld, met uitzondering van het vak lichamelijke opvoeding, van respectievelijk de tweede graad - eerste en tweede leerjaar, de derde graad - eerste en tweede leerjaar, of de derde graad - derde leerjaar, van het voltijds gewoon beroepssecundair onderwijs, naargelang van het geval. Met vakoverschrijdende eindtermen worden de eindtermen bedoeld van respectievelijk de tweede graad of de derde graad van het voltijds gewoon beroepssecundair onderwijs, naargelang van het geval.<br /><br />§ 3. Als een centrumbestuur oordeelt dat de eindtermen onvoldoende ruimte laten voor zijn eigen pedagogische en onderwijskundige opvattingen of ermee onverzoenbaar zijn, dient het bij de Vlaamse Regering een aanvraag tot afwijking in. In voorkomend geval gelden de afwijkingsvoorwaarden en -procedure die ook van toepassing zijn in het voltijds gewoon secundair onderwijs als vermeld in artikel 147 van de codificatie betreffende het secundair onderwijs.<br /><br />
+Als in het deeltijds beroepssecundair onderwijs studiebewijzen worden uitgereikt die identiek zijn aan die van het voltijds gewoon beroepssecundair onderwijs, dan zijn voor de algemene vorming de bepalingen over eindtermen en leerplannen van toepassing zoals opgenomen in de Codex Secundair Onderwijs, deel IV, titel 1, hoofdstuk 1, afdeling 3. Naargelang van het leerjaarniveau van het studiebewijs in kwestie betreft het de eindtermen en de leerplannen voor de tweede graad, voor het eerste en tweede leerjaar van de derde graad dan wel voor het derde leerjaar van de derde graad van het voltijds gewoon beroepssecundair onderwijs.<br>
+<br>
+In afwijking van het eerste lid en met in acht name van de door de Vlaamse Regering bepaalde omzettingskalender van het deeltijds beroepssecundair onderwijs naar het duaal leren, zijn evenwel volgende eindtermen niet van toepassing:<br>
+1° de eindtermen lichamelijke opvoeding van het beroepssecundair onderwijs als vermeld in het besluit van de Vlaamse Regering van 23 juni 2000, bekrachtigd bij het decreet van 18 januari 2002, en het besluit van de Vlaamse Regering van 20 september 2002, bekrachtigd bij het decreet van 20 december 2002;<br>
+2° de volgende eindtermen, vermeld in het decreet van 12 februari 2021:<br>
+a) de eindtermen 1.9, 1.10, 1.11 en 1.12 van de basisvorming van de tweede graad arbeidsmarktfinaliteit binnen de sleutelcompetentie "competenties op het vlak van lichamelijk, geestelijk en emotioneel bewustzijn/gezondheid"; en<br>
+b) de eindtermen 1.8, 1.9, 1.10 en 1.11 van de basisvorming van de derde graad arbeidsmarktfinaliteit binnen de sleutelcompetentie "competenties op het vlak van lichamelijk, geestelijk en emotioneel bewustzijn/gezondheid".
 
 ### ART. 30.
 
@@ -413,7 +420,13 @@ Voor een opleiding die zowel in de leertijd als in het deeltijds beroepssecundai
 
 ### ART. 33.
 
-Voor de toekenning van graad of leerjaargebonden eindstudiebewijzen, identiek aan die van het voltijds gewoon beroepssecundair onderwijs, zijn op de algemene vorming van de leertijd de bepalingen over eindtermen en op die eind termen gebaseerde leerplannen als vermeld in deel IV, titel 1, hoofdstuk 1, afdeling 3, van de Codex Secundair Onderwijs van 17 december 2010 van toepassing, met uitzondering van de eindtermen en leerplannen die zijn gekoppeld aan het vak lichamelijke opvoeding.
+Als in de leertijd studiebewijzen worden uitgereikt die identiek zijn aan die van het voltijds gewoon beroepssecundair onderwijs, dan zijn voor de algemene vorming de bepalingen over eindtermen en leerplannen van toepassing zoals opgenomen in de Codex Secundair Onderwijs, deel IV, titel 1, hoofdstuk 1, afdeling 3. Naargelang van het leerjaarniveau van het studiebewijs in kwestie betreft het de eindtermen en de leerplannen voor de tweede graad, voor het eerste en tweede leerjaar van de derde graad dan wel voor het derde leerjaar van de derde graad van het voltijds gewoon beroepssecundair onderwijs.<br>
+<br>
+In afwijking van het eerste lid en met inachtname van de door de Vlaamse Regering bepaalde omzettingskalender van de leertijd naar het duaal leren, zijn evenwel volgende eindtermen niet van toepassing:<br>
+1° de eindtermen lichamelijke opvoeding van het beroepssecundair onderwijs als vermeld in het besluit van de Vlaamse Regering van 23 juni 2000, bekrachtigd bij het decreet van 18 januari 2002, en het besluit van de Vlaamse Regering van 20 september 2002, bekrachtigd bij het decreet van 20 december 2002;<br>
+2° de volgende eindtermen als vermeld in het decreet van 12 februari 2021:<br>
+a) de eindtermen 1.9, 1.10, 1.11 en 1.12 van de basisvorming van de tweede graad arbeidsmarktfinaliteit binnen de sleutelcompetentie "competenties op het vlak van lichamelijk, geestelijk en emotioneel bewustzijn/gezondheid"; en<br>
+b) de eindtermen 1.8, 1.9, 1.10 en 1.11 van de basisvorming van de derde graad arbeidsmarktfinaliteit binnen de sleutelcompetentie "competenties op het vlak van lichamelijk, geestelijk en emotioneel bewustzijn/gezondheid".
 
 ## Onderafdeling V Organisatie deeltijdse vorming
 
@@ -613,7 +626,7 @@ De screening heeft betrekking op arbeidsrijpheid, interesses, motivatie en eerde
 <br>
 De middelen of methodieken voor de screening moeten, voor wat betreft de component werkplekleren, door&nbsp;de Vlaamse Regering worden gevalideerd met het oog op kwaliteitsborging.<br>
 <br>
-Het resultaat van de screening is een inschaling van de jongere in hetzij de arbeidsdeelname, hetzij de aanloopcomponent,hetzij een NAFT. Voor NAFT is een advies van het centrum voor leerlingenbegeleiding vereist. Als een jongere op een door de Vlaamse Regering nader te bepalen datum in een voortraject is ingeschreven, doorloopt die jongere opnieuw een screening met het oog op een inschaling in een NAFT, aanloopcomponent of arbeidsdeelname.<br>
+Het resultaat van de screening is een inschaling van de jongere in de arbeidsdeelname of de aanloopcomponent.<br>
 <br>
 Het resultaat van de screening bepaalt of de inschrijving in het centrum voor deeltijds beroepssecundair onderwijs of in het centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen al dan niet wordt beëindigd als vermeld in artikel 49.<br>
 <br>
@@ -636,7 +649,7 @@ Bij trajectbegeleiding kan er een beroep worden gedaan op tweedelijnsondersteuni
 
 ### ART. 64.
 
-De screening als vermeld in artikel 62, vindt zo spoedig mogelijk plaats en uiterlijk op 14 september van het schooljaar waarop de inschrijving betrekking heeft dan wel, in geval van laattijdige inschrijving, binnen 14 dagen na die inschrijving. Afhankelijk van het resultaat van de screening wordt de jongere onmiddellijk in de arbeidsdeelname de aanloopcomponent of NAFT ingeschakeld.<br>
+De screening als vermeld in artikel 62, vindt zo spoedig mogelijk plaats en uiterlijk op 14 september van het schooljaar waarop de inschrijving betrekking heeft dan wel, in geval van laattijdige inschrijving, binnen 14 dagen na die inschrijving. Afhankelijk van het resultaat van de screening wordt de jongere onmiddellijk in de arbeidsdeelname of de aanloopcomponent ingeschakeld.<br>
 <br>
 Het opstellen van het trajectbegeleidingsplan als vermeld in artikel 63 vindt zo spoedig mogelijk en uiterlijk een maand na de screening plaats.<br>
 &nbsp;
