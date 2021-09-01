@@ -97,11 +97,25 @@ In het professionaliseringsplan worden ook de aanpak en uitwerking opgenomen van
 <br>
 Het professionaliseringsplan wordt goedgekeurd door ofwel het lokaal comité ofwel, bij ontstentenis hiervan, door de algemene personeelsvergadering.<br>
 <br>
-Onder lokaal comité wordt verstaan : het voor arbeidsvoorwaarden en personeelsaangelegenheden bevoegde lokale overlegorgaan of onderhandelingsorgaan.
+Onder lokaal comité wordt verstaan : het voor arbeidsvoorwaarden en personeelsaangelegenheden bevoegde lokale overlegorgaan of onderhandelingsorgaan.<br>
+<br>
+Als aan personeelsleden professionalisering wordt opgelegd, komen de kosten ten laste van het schoolbestuur.
 
 ### ART. 9.
 
-<P>§ 1. De Vlaamse Gemeenschap stelt elk jaar nascholingsmiddelen ter   beschikking van de instellingen om het nascholingsplan uit te voeren.<BR><BR>§   2. De nascholingsmiddelen per niveau bedragen voor het begrotingsjaar   2015:<BR>1° voor het basisonderwijs: 4.007.000 euro;<BR>2° voor het secundair   onderwijs: 6.335.000 euro;<BR>3° voor het volwassenenonderwijs, met uitzondering   van de basiseducatie: 418.000 euro;<BR>4° voor het deeltijds kunstonderwijs:   255.000 euro;<BR>5° voor de CLB's: 178.000 euro;<BR>6° voor de basiseducatie:   28.000 euro.<BR><BR>Vanaf het begrotingsjaar 2016 worden deze bedragen aangepast   aan de evolutie van de gezondheidsindex.. <BR><BR>§ 3. Het aandeel in de   middelen waarop elke instelling recht heeft, wordt pro rata berekend op basis   van het aantal organieke betrekkingen in de instelling op 1 februari van het   voorafgaande begrotingsjaar, rekening houdend met het niveau waarvoor de   middelen, vermeld in § 2, bestemd zijn.<BR><BR>In afwijking van het eerste lid   worden voor de centra voor basiseducatie de middelen pro rata verdeeld op basis   van het aantal contractuelen Departement Onderwijs en Vorming, uitgedrukt in   voltijdse equivalenten.</P>
+<p>§ 1. De Vlaamse Gemeenschap stelt elk jaar nascholingsmiddelen ter beschikking van de instellingen om het nascholingsplan uit te voeren.<br>
+<br>
+§ 2. De nascholingsmiddelen per niveau bedragen voor het begrotingsjaar 2015:<br>
+1° voor het basisonderwijs: 4.007.000 euro;<br>
+2° voor het secundair onderwijs: 6.335.000 euro;<br>
+3° voor het volwassenenonderwijs, met uitzondering van de basiseducatie: 418.000 euro;<br>
+4° voor het deeltijds kunstonderwijs: 255.000 euro;<br>
+5° voor de CLB's: 178.000 euro;<br>
+6° voor de basiseducatie: 77.500 euro.<br>
+<br>
+Vanaf het begrotingsjaar 2016 worden deze bedragen aangepast aan de evolutie van de gezondheidsindex..<br>
+<br>
+§ 3. Het aandeel in de middelen waarop elke instelling recht heeft, wordt pro rata berekend op basis van het aantal organieke betrekkingen in de instelling op 1 februari van het voorafgaande begrotingsjaar, rekening houdend met het niveau waarvoor de middelen, vermeld in § 2, bestemd zijn.</p>
 
 ### ART. 10.
 
@@ -310,6 +324,10 @@ De werkingsmiddelen, vermeld in het eerste lid, worden verdeeld over deze pedago
 
 ## [HOOFDSTUK V/2. Extra financiering en subsidiëring in het kader van de maatregelen VV15 Digisprong en VV17 Van kwetsbaar naar weerbaar, van het Vlaams relanceplan voor schooljaren 2021-2022 en 2022-2023 (ing. decr. 9 juli 2021, art. 35, I: 1 september 2021)]
 
+### ART 27/4.
+
+In het kader van de uitvoering van de speerpunten in de maatregelen VV15 Digisprong, met deelenveloppe van 375 miljoen euro binnen de relanceprovisie en VV17 Van kwetsbaar naar weerbaar, van het relanceplan Vlaamse Veerkracht, met deelenveloppe van 90 miljoen euro binnen de relanceprovisie, zoals opgenomen in de visienota's Digisprong. Van achterstand naar voorsprong, goedgekeurd op de ministerraad van de Vlaamse Regering van 11 december 2020 (VR 2020 1112 DOC.1425/2QUATER) en Van kwetsbaar naar weerbaar, goedgekeurd op de ministerraad van de Vlaamse Regering van 7 mei 2021 (VR 2021 0705 VV DOC.0055-1 en 2), voor de schooljaren 2021-2022 en 2022-2023 bijkomendewerkingsbudgetten, investeringsmiddelen of omkadering toekennen aan de pedagogische begeleidingsdiensten. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.
+
 ## HOOFDSTUK VI. Extra ondersteuning in het volwassenenonderwijs
 
 ### ART. 28.
@@ -389,7 +407,7 @@ De inspecteur-generaal kan de leden van de inspectie en begeleiding van de leven
 <br>
 Na het onderzoek bezorgt de onderwijsinspectie een rapport met een advies over de voorlopige erkenning aan de Vlaamse Regering.<br>
 <br>
-De Vlaamse Regering beslist uiterlijk op 31 augustus volgend op de aanvraag van de voorlopige erkenning. Zo niet wordt de beslissing geacht gunstig te zijn.<br>
+De Vlaamse Regering beslist uiterlijk op 31 augustus volgend op de aanvraag van de voorlopige erkenning.&nbsp;Dit is een termijn van orde.<br>
 <br>
 § 2. Uiterlijk zes maanden na de start van het schooljaar onderzoekt de onderwijsinspectie, via een doorlichting, of de school voldoet aan de decretaal vastgelegde voorwaarden voor een erkenning.<br>
 <br>
@@ -397,7 +415,7 @@ De inspecteur-generaal kan de leden van de inspectie en begeleiding van de leven
 <br>
 Na de doorlichting bezorgt de onderwijsinspectie een rapport met een advies als vermeld in artikel 39, § 4, aan de Vlaamse Regering.<br>
 <br>
-De Vlaamse Regering beslist uiterlijk op 31 maart van het schooljaar van voorlopige erkenning over de erkenning. Zo niet wordt de beslissing geacht gunstig te zijn.
+De Vlaamse Regering beslist uiterlijk op 31 maart van het schooljaar van voorlopige erkenning over de erkenning.&nbsp;Dit is een termijn van orde.
 
 ## Afdeling IIbis. [... (opgeh. decr. 23 maart 2018, art. 20, I; 1 september 2018)]
 
@@ -440,10 +458,13 @@ De betrokken inspecteurs-adviseurs maken een verslag op over die specifieke opdr
 § 1. Tijdens een doorlichting van een onderwijsinstelling gaat de onderwijsinspectie na of de onderwijsinstelling :<br>
 1° de onderwijsreglementering respecteert;<br>
 2° aan de kwaliteitsverwachtingen, opgenomen in het referentiekader onderwijskwaliteit, vermeld in artikel 4, § 2, eerste lid, tegemoetkomt.<br>
+In het basis- en het secundair onderwijs, met uitzondering voor de nieuwe onderwijsinstellingen, spreekt de onderwijsinspectie ook een evaluatie uit over het gelijke onderwijskansenbeleid.<br>
+3° in het basis- en het secundair onderwijs een kwaliteitsvol beleid op leerlingenbegeleiding ontwikkelt, implementeert en evalueert, in toepassing van de reglementaire verplichtingen van instellingen op het vlak van leerlingenbegeleiding.<br>
 <br>
 Tijdens een doorlichting van een CLB gaat de onderwijsinspectie na of het CLB :<br>
 1° de CLB-reglementering respecteert;<br>
 2° aan de kwaliteitsverwachtingen, opgenomen in het referentiekader CLB-kwaliteit, vermeld in artikel 4, § 2, tweede lid, tegemoetkomt.<br>
+3° de kernactiviteiten signaalfunctie en consultatieve leerlingenbegeleiding kwaliteitsvol uitvoert.<br>
 <br>
 De inspectie onderzoekt daarbij ook de opdrachten die de instelling eventueel heeft toegewezen aan de scholengemeenschap of de scholengroep waartoe zij behoort. De scholengemeenschappen of de scholengroepen&nbsp;zijn ertoe gehouden de inspectie alle informatie hierover te verstrekken.<br>
 <br>
@@ -493,7 +514,13 @@ Een gunstig advies kan het bestuur verplichten zich te engageren om aan de tekor
 2° ongunstig advies : dit houdt in dat de procedure tot intrekking van de erkenning van de instelling of van structuuronderdelen opgestart wordt, met daarbij de vermelding van :<br>
 a) de mogelijkheid tot opschorting : dit houdt in dat het bestuur kan verzoeken dat de procedure tot intrekking van de erkenning niet opgestart wordt op voorwaarde dat het bestuur het engagement aangaat om zich bij het werken aan de tekorten extern te laten begeleiden;<br>
 b) de onmogelijkheid tot opschorting : dit houdt in dat het bestuur niet kan verzoeken dat de procedure tot intrekking van de erkenning niet opgestart wordt.<br>
-Een ongunstig advies voor een structuuronderdeel binnen een vestigingsplaats, kan nooit automatisch leiden tot de intrekking van de erkenning van dat structuuronderdeel als datzelfde structuuronderdeel ook aangeboden wordt op andere vestigingsplaatsen.
+Een ongunstig advies voor een structuuronderdeel binnen een vestigingsplaats, kan nooit automatisch leiden tot de intrekking van de erkenning van dat structuuronderdeel als datzelfde structuuronderdeel ook aangeboden wordt op andere vestigingsplaatsen.<br>
+<br>
+§6. Tijdens de eerste twee schooljaren van inwerkingtreding van bij decreet of besluit vastgelegde onderwijsdoelen, kan het niet of niet in voldoende mate bereiken of nastreven, naargelang van het geval, van die onderwijsdoelen, niet leiden tot een advies als vermeld in paragraaf 5, eerste lid, 2°.<br>
+:<br>
+§7. Voor het basisen secundair onderwijs zijn volgende evaluaties van het gelijkeonderwijskansenbeleid mogelijk:<br>
+1° een positieve evaluatie: dit heeft als gevolg dat de school het werkingsbudget op basis van de leerlingenkenmerken, alsook, naargelang het geval, de SES-lestijden, de aanvullende lestijden, de extra uren-leraar of de extra lesuren ontvangt tot de daaropvolgende schooldoorlichting, conform de berekeningen gebaseerd op, naargelang het geval, artikel 85, §2, 134 en 139ter decies van het decreet basisonderwijs van 25 februari 1997 en artikel 227, 235, 249 of 319 van de Codex Secundair Onderwijs van 17 december 2010;<br>
+2° een negatieve evaluatie: dit heeft als gevolg dat de school een engagement tot remediëring met externe begeleiding en ondersteuning moet aangaan. Als de eerstvolgende evaluatie door de onderwijsinspectie opnieuw negatief is, dan ontvangt de school vanaf het daaropvolgend schooljaar, slechts de helft van het werkingsbudget op basis van de leerlingenkenmerken, alsook, naargelang het geval, de helft van het aantal SES-lestijden, aanvullende lestijden, extra uren-leraar of extra lesuren waarop ze normaliter recht heeft en dat tot en met het schooljaar waarin een evaluatie positief is. De onderwijsinspectie evalueert de school opnieuw binnen een termijn van 1 jaar.
 
 ### ART. 40.
 
@@ -551,6 +578,22 @@ De doorlichtingsverslagen en de adviezen met betrekking tot de erkenning van de 
 3° de resultaten van voorbereidende en periodieke onderzoeken waaraan een instelling deelneemt met het oog op de interne of externe kwaliteitscontrole.
 
 ## [HOOFDSTUK IIIbis. De toegang tot persoonsgegevens (ing. Decr. 9 juli 2021, art. 145, I: 1 september 2021)]
+
+### ART 44bis.
+
+§1. De inspecteurs hebben het recht om voor de uitoefening van hun opdracht inzage te krijgen in of kopie te krijgen van persoonsgegevens. De persoonsgegevens hebben betrekking op leerlingen verbonden aan de onderwijsinstelling of begeleid door het centrum voor leerlingenbegeleiding en betreffen de gegevens die de onderwijsinstelling of het centrum voor leerlingenbegeleiding krachtens de onderwijsof CLB-reglementering in het dossier verwerken, zoals de administratieve gegevens, inschrijvingsgegevens, afwezigheden, studieresultaten en zorggegevens. De bevoegdheid heeft ook betrekking op gegevens die toegankelijk zijn via een informaticasysteem of via elk ander elektronisch apparaat.<br>
+<br>
+Als anonieme gegevens beschikbaar en actueel zijn, vragen de inspecteurs in eerste instantie inzage in die gegevens. Als dat nodig is in het licht van de opdracht, kunnen de inspecteurs inzage vragen in persoonsgegevens, als daarvoor de Europese, federale en Vlaamse regels over het verwerken van die gegevens worden gevolgd. Onder anonieme gegevens wordt verstaan: gegevens die geen betrekking hebben op een geïdentificeerde of identificeerbare natuurlijke persoon of op persoonsgegevens die zodanig anoniem zijn gemaakt dat de betrokkene niet of niet meer identificeerbaar is.<br>
+<br>
+De Vlaamse Regering stelt voorwaarden vast om de transparantie en de uitoefening van de rechten van de betrokkenen te verzekeren.<br>
+<br>
+§2. De inspecteurs respecteren het vertrouwelijke karakter van de gegevens waarvan ze kennis hebben gekregen bij de uitoefening van hun opdracht met betrekking tot de controle op de kwaliteit en op de toepassing van de onderwijsreglementering, conform artikel 32 en artikel 38 van dit decreet. Ze wenden die gegevens uitsluitend aan voor de vervulling van hun opdracht en delen die niet mee aan andere instanties.<br>
+<br>
+In afwijking van artikel 57, dragen de inspecteurs die belast zijn met de inspectie van de centra voor leerlingenbegeleiding kennis van geheimen die hun zijn toevertrouwd, in de zin van artikel 458 van het Strafwetboek, voor wat betreft de persoonsgegevens die door de centra voor leerlingenbegeleiding worden meegedeeld. De personeelsleden van de centra voor leerlingenbegeleiding delen de persoonsgegevens mee aan de onderwijsinspectie, in afwijking van artikel 11 van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs of artikel 14 van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding en artikel 7 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp.<br>
+<br>
+De inspecteurs bewaren de persoonsgegevens die ze bij de uitoefening van hun opdracht verwerken, niet langer dan nodig voor de uitoefening van die opdracht en in elk geval niet langer dan nodig voor de eindredactie van het verslag of het rapport.<br>
+<br>
+§3. De onderwijsinspectie is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming), voor de persoonsgegevens die inspecteurs bij de uitoefening van hun opdracht verwerken.
 
 ## HOOFDSTUK IV. Organisatie en financiering
 
