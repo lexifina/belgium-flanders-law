@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033493,
+  "title": "Besluit van de Vlaamse Regering van 2020-05-15 tot vastlegging van de opleidingsprofielen voor het gemoderniseerd buitengewoon secundair onderwijs van opleidingsvorm 3, wat de opleidingsfase betreft",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033493/VolledigDocument?datum=2021-09-01",
+  "source_sha256": "a1893423148d22488ebb7e8e745f083977a76c3dc665d43b801aa026e5c34389",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033493&param=informatie",
+  "as_of": "2021-09-01",
+  "made": "2020-05-15",
+  "gazette": "2020-07-30",
+  "numac": 2020041677,
+  "document_start": null,
+  "document_end": "2021-08-31",
+  "in_force": "2021-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
