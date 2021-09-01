@@ -867,6 +867,82 @@ h) de verloven van korte duur met behoud van salaris(toelage) ter gelegenheid va
 i) de verloven zonder behoud van salaris(toelage) voor een maximumduur van zes werkdagen per schooljaar;<br>
 j) een onderbreking van een doorlopende periode van maximaal twee kalenderjaren.
 
+### ART 15septiesdecies.
+
+Voor de personeelsleden voor wie op 31 augustus 2021 conform artikel 14 tot en met 15sexies decies overgangsmaatregelen gelden, blijven die maatregelen na die datum behouden, ook als ze na die datum uit dienst treden en nadien opnieuw in dienst treden, tenzij het bekwaamheidsbewijs waarover ze beschikken, recht geeft op een hogere salarisschaal.
+
+### ART 15duodevicies.
+
+Er gelden overgangsmaatregelen voor personeelsleden die aan al de volgende voorwaarden voldoen:<br>
+1° ze zijn in het bezit van een bekwaamheidsbewijs van educatieve master;<br>
+2° ze waren in de loop van het schooljaar 2020-2021 tijdelijk aangesteld of tijdelijk belast met<br>
+a) hetzij het algemeen vak geschiedenis van de dans;<br>
+b) hetzij het algemeen vak muziekcultuur: experimentele muziek;<br>
+c) hetzij het algemeen vak muziekcultuur: folk- en wereldmuziek;<br>
+d) hetzij het algemeen vak muziekcultuur: jazz-pop-rock;<br>
+e) hetzij het algemeen vak muziekcultuur: klassiek;<br>
+f) hetzij het algemeen vak muziekcultuur: musical;<br>
+g) hetzij het algemeen vak muziekcultuur: opera/muziektheater;<br>
+h) hetzij het algemeen vak muziekcultuur: oude muziek;<br>
+i) hetzij het algemeen vak muziekgeschiedenis;<br>
+j) hetzij het algemeen vak muziekgeschiedenis: experimentele muziek;<br>
+k) hetzij het algemeen vak muziekgeschiedenis: folk- en wereldmuziek;<br>
+l) hetzij het algemeen vak muziekgeschiedenis: jazz-pop-rock;<br>
+m) hetzij het algemeen vak muziekgeschiedenis: klassiek;<br>
+n) hetzij het algemeen vak muziekgeschiedenis: musical;<br>
+o) hetzij het algemeen vak muziekgeschiedenis: opera/muziektheater;<br>
+p) hetzij het algemeen vak muziekgeschiedenis: oude muziek;<br>
+q) hetzij het algemeen vak muziekkritiek;<br>
+r) hetzij het algemeen vak theaterkritiek;<br>
+s) hetzij het algemeen vak theorie van de regie;<br>
+t) hetzij het algemeen vak voorstellingsanalyse dans;<br>
+u) hetzij het kunstvak arrangeren;<br>
+v) hetzij het kunstvak danscompositie en -improvisatie;<br>
+w) hetzij het kunstvak danslab hedendaagse dans;<br>
+x) hetzij het kunstvak danslab klassieke dans;<br>
+y) hetzij het kunstvak dj-vaardigheden;<br>
+z) hetzij het kunstvak groepsmusiceren instrumentaal: folk- en wereldmuziek;<br>
+aa) hetzij het kunstvak groepsmusiceren instrumentaal: oude muziek;<br>
+ab) hetzij het kunstvak groepsmusiceren vocaal: opera/muziektheater;<br>
+ac) hetzij het kunstvak groepsmusiceren vocaal: oude muziek;<br>
+ad) hetzij het kunstvak hedendaagse muziek;<br>
+ae) hetzij het kunstvak musical dans;<br>
+af) hetzij het kunstvak muzikale en culturele vorming: folk- en wereldmuziek;<br>
+ag) hetzij het kunstvak muzikale en culturele vorming: jazz-pop-rock;<br>
+ah) hetzij het kunstvak muzikale en culturele vorming: klassiek;<br>
+ai) hetzij het kunstvak muzikale en culturele vorming: oude muziek;<br>
+aj) hetzij het kunstvak performance;<br>
+ak) hetzij het kunstvak radio maken;<br>
+al) hetzij het kunstvak scenografie;<br>
+am) hetzij het kunstvak schrijven;<br>
+an) hetzij het kunstvak spel;<br>
+ao) hetzij het kunstvak spreken en vertellen;<br>
+ap) hetzij het kunstvak storytelling;<br>
+aq) hetzij het kunstvak tekstschrijven en -vertolken;<br>
+ar) hetzij het kunstvak theatertechnieken;<br>
+as) hetzij het kunstvak verteltheater- stemregie;<br>
+at) hetzij het kunstvak woordatelier;<br>
+au) hetzij het kunstvak woordinitiatie.<br>
+<br>
+De personeelsleden, vermeld in het eerste lid, die op basis van de reglementering die van kracht was voor 1 september 2021, in het bezit waren van een vereist bekwaamheidsbewijs in een bepaalde graad voor een van de vakken vermeld in het eerste lid, organiek of via overgangsmaatregelen, en die vanaf 1 september 2021 geen vereist bekwaamheidsbewijs hebben voor diezelfde graad in datzelfde vak vermeld in het eerste lid, worden geacht in het bezit te zijn van een vereist bekwaamheidsbewijs voor diezelfde graad van datzelfde vak.<br>
+<br>
+De overgangsmaatregelen, vermeld in het tweede lid, gelden vanaf 1 september 2021. Voor de personeelsleden, vermeld in het eerste lid, blijven die overgangsmaatregelen na die datum behouden, ook als ze uit dienst treden en nadien opnieuw in dienst treden.
+
+### ART 15undevicies.
+
+Er gelden overgangsmaatregelen voor de personeelsleden die in de loop van het schooljaar 2020-2021 tijdelijk aangesteld zijn of tijdelijk belast zijn met een opdracht in een ambt dat uiterlijk op 31 augustus 2021 is opgericht met toepassing van artikel VI.7 van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016.<br>
+<br>
+De personeelsleden, vermeld in het eerste lid, die met toepassing van een van de volgende bepalingen een ambtshalve concordantie verkregen hebben naar het ambt van ICT-coördinator, blijven de salarisschaal genieten die hen op grond van de reglementering die gold voor 1 september 2021, mocht worden verleend voor het ambt, vermeld in het eerste lid, tenzij het bekwaamheidsbewijs waarover ze beschikken, recht geeft op een hogere salarisschaal:<br>
+1° artikel 56ter van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991;<br>
+2° artikel 74quater van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991.<br>
+<br>
+Bij de in het tweede lid vermelde overgangsmaatregelen gelden evenwel de volgende voorwaarden:<br>
+1° wie aangesteld is voor het ambt, vermeld in het eerste lid, op basis van een bekwaamheidsbewijs "ten minste HSO" of lager, en daarvoor een salarisschaal geniet die hoger ligt dan of gelijk is aan salarisschaal 202, blijft alleen bij concordantie naar het ambt van "ICT-coördinator 63 punten" die salarisschaal genieten;<br>
+2° wie aangesteld is voor het ambt, vermeld in het eerste lid, op basis van een bekwaamheidsbewijs "ten minste bachelor", en daarvoor een salarisschaal geniet die hoger ligt dan of gelijk is aan salarisschaal 301, blijft alleen bij concordantie naar het ambt van "ICT-coördinator 85 punten" die salarisschaal genieten;<br>
+3° wie aangesteld is voor het ambt, vermeld in het eerste lid, op basis van een bekwaamheidsbewijs "ten minste master", en daarvoor een salarisschaal geniet die hoger ligt dan of gelijk is aan salarisschaal 501, blijft alleen bij concordantie naar het ambt van "ICT-coördinator 126 punten" die salarisschaal genieten.<br>
+<br>
+De overgangsmaatregelen, vermeld in het tweede en derde lid, gelden vanaf 1 september 2021. De personeelsleden, vermeld in het eerste lid, blijven die overgangsmaatregelen na die datum behouden, ook als ze uit dienst treden en nadien opnieuw in dienst treden.
+
 ### ART 15vicies.
 
 De personeelsleden, vermeld in artikel 15septies tot en met 15decies, in artikel 15quinquiesdecies en 15sexiesdecies behouden in de overeenstemmende graad de salarisschaal die hun op grond van de reglementering die vóór 1 september 2018 van toepassing was, verleend kon worden in een bepaalde graad, tenzij het bekwaamheidsbewijs waarover ze beschikken, recht geeft op een hogere salarisschaal.<br>
@@ -893,7 +969,33 @@ De Vlaamse minister van Onderwijs is belast met de uitvoering van dit besluit.<b
 
 ### BIJLAGE I.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/20_1.pdf#page=990">Bijlage I</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/08/18_1.pdf#page=227">Bijlage 1 Bekwaamheidsbewijzen en salarisschalen deeltijds kunstonderwijs, domeinen Muziek, Woordkunst-drama en Dans</a><br>
+<br>
+* Bij besluit van de Vlaamse Regering van 3 september 2021, BS 14 oktober 2021, wordt met ingang van 1 september 2021, in de bijlage de volgende wijziging aangebracht:<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">tussen het kunstvak "Historische uitvoeringspraktijk" en het kunstvak "Improvisatie"&nbsp; wordt het ambt van "ICT-coördinator" ingevoegd, dat luidt als volgt:</span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">"ICT-coördinator</span></span></span>
+<table style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>vereiste</td>
+			<td>salarisschaal</td>
+		</tr>
+		<tr>
+			<td>ten minste HSO betrekking met puntenwaarde 63</td>
+			<td>202</td>
+		</tr>
+		<tr>
+			<td>ten minste bachelor betrekking met puntenwaarde 85</td>
+			<td>301</td>
+		</tr>
+		<tr>
+			<td>ten minste master betrekking met puntenwaarde 126</td>
+			<td>501</td>
+		</tr>
+	</tbody>
+</table>
+"<br>
+&nbsp;
 
 ### BIJLAGE II.
 
