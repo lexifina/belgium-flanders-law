@@ -487,6 +487,35 @@ h) de verloven van korte duur met behoud van salaris(toelage) ter gelegenheid va
 i) de verloven zonder behoud van salaris(toelage) voor een maximumduur van zes werkdagen per schooljaar;<br>
 j) een onderbreking van een doorlopende periode van maximum twee kalenderjaren.
 
+### ART 15quater.
+
+Voor de personeelsleden voor wie op 31 augustus 2021 conform artikel 14 tot en met 15ter overgangsmaatregelen gelden, blijven die maatregelen na die datum behouden, ook als ze na die datum uit dienst treden en nadien opnieuw in dienst treden, tenzij het bekwaamheidsbewijs waarover ze beschikken, recht geeft op een hogere salarisschaal.
+
+### ART 15quinquies.
+
+Er gelden overgangsmaatregelen voor personeelsleden die aan al de volgende voorwaarden voldoen:<br>
+1° ze zijn in het bezit van een bekwaamheidsbewijs van educatieve master;<br>
+2° ze waren in de loop van het schooljaar 2020-2021 tijdelijk aangesteld of tijdelijk belast met hetzij het kunstvak beeldatelier, hetzij het kunstvak initiatie tekenen, hetzij het kunstvak initiatie-atelier, hetzij het kunstvak specifiek artistiek atelier: sounddesign, hetzij het kunstvak waarnemingstekenen.<br>
+<br>
+De personeelsleden, vermeld in het eerste lid, die op basis van de reglementering die van kracht was voor 1 september 2021, in het bezit waren van een vereist bekwaamheidsbewijs in een bepaalde graad voor een van de vakken vermeld in het eerste lid, organiek of via overgangsmaatregelen, en die vanaf 1 september 2021 geen vereist bekwaamheidsbewijs hebben voor diezelfde graad in datzelfde vak vermeld in het eerste lid, worden geacht in het bezit te zijn van een vereist bekwaamheidsbewijs voor diezelfde graad van datzelfde vak.<br>
+<br>
+De overgangsmaatregelen, vermeld in het tweede lid, gelden vanaf 1 september 2021. Voor de personeelsleden, vermeld in het eerste lid, blijven die overgangsmaatregelen na die datum behouden, ook als ze uit dienst treden en nadien opnieuw in dienst treden.
+
+### ART 15sexies.
+
+Er gelden overgangsmaatregelen voor de personeelsleden die in de loop van het schooljaar 2020-2021 tijdelijk aangesteld zijn of tijdelijk belast zijn met een opdracht in een ambt dat uiterlijk op 31 augustus 2021 is opgericht met toepassing van artikel VI.7 van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016.<br>
+<br>
+De personeelsleden, vermeld in het eerste lid, die met toepassing van een van de volgende bepalingen een ambtshalve concordantie verkregen hebben naar het ambt van ICT-coördinator, blijven de salarisschaal genieten die hen op grond van de reglementering die gold voor 1 september 2021, mocht worden verleend voor het ambt, vermeld in het eerste lid, tenzij het bekwaamheidsbewijs waarover ze beschikken, recht geeft op een hogere salarisschaal:<br>
+1° artikel 56ter van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991;<br>
+2° artikel 74quater van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991.<br>
+<br>
+Bij de in het tweede lid vermelde overgangsmaatregelen gelden evenwel de volgende voorwaarden:<br>
+1° wie aangesteld is voor het ambt, vermeld in het eerste lid, op basis van een bekwaamheidsbewijs "ten minste HSO" of lager, en daarvoor een salarisschaal geniet die hoger ligt dan of gelijk is aan salarisschaal 202, blijft alleen bij concordantie naar het ambt van "ICT-coördinator 63 punten" die salarisschaal genieten;<br>
+2° wie aangesteld is voor het ambt, vermeld in het eerste lid, op basis van een bekwaamheidsbewijs "ten minste bachelor", en daarvoor een salarisschaal geniet die hoger ligt dan of gelijk is aan salarisschaal 301, blijft alleen bij concordantie naar het ambt van "ICT-coördinator 85 punten" die salarisschaal genieten;<br>
+3° wie aangesteld is voor het ambt, vermeld in het eerste lid, op basis van een bekwaamheidsbewijs "ten minste master", en daarvoor een salarisschaal geniet die hoger ligt dan of gelijk is aan salarisschaal 501, blijft alleen bij concordantie naar het ambt van "ICT-coördinator 126 punten" die salarisschaal genieten.<br>
+<br>
+De overgangsmaatregelen, vermeld in het tweede en derde lid, gelden vanaf 1 september 2021. De personeelsleden, vermeld in het eerste lid, blijven die overgangsmaatregelen na die datum behouden, ook als ze uit dienst treden en nadien opnieuw in dienst treden.
+
 ### ART 15septies.
 
 De personeelsleden, vermeld in artikel 15ter behouden in de overeenstemmende graad de salarisschaal die hun op grond van reglementering die vóór 1 september 2018 van toepassing was, verleend kon worden in een bepaalde graad, tenzij het bekwaamheidsbewijs waarover ze beschikken, recht geeft op een hogere salarisschaal.
@@ -511,7 +540,33 @@ De Vlaamse minister van Onderwijs is belast met de uitvoering van dit besluit.<b
 
 ### BIJLAGE I.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/20_1.pdf#page=885">Bijlage 1</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/08/18_1.pdf#page=123">Bijlage 1. Bekwaamheidsbewijzen en salarisschalen deeltijds kunstonderwijs, domein beeldende en audiovisuele kunst</a><br>
+<br>
+* Bij besluit van de Vlaamse Regering van 3september 2021, BS 14 oktober 2021, wordt met ingang van 1 september 2021 de volgende wijziging aangebracht:<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">&nbsp;tussen het kunstvak "Graffiti/street art atelier" en het kunstvak "Initiatie tekenen"&nbsp; wordt het ambt van "ICT-coördinator" ingevoegd, dat luidt als volgt:</span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">"ICT-coördinator</span></span></span>
+<table style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>vereiste</td>
+			<td>salarisschaal</td>
+		</tr>
+		<tr>
+			<td>ten minste HSO betrekking met puntenwaarde 63</td>
+			<td>202</td>
+		</tr>
+		<tr>
+			<td>ten minste bachelor betrekking met puntenwaarde 85</td>
+			<td>301</td>
+		</tr>
+		<tr>
+			<td>ten minste master betrekking met puntenwaarde 126</td>
+			<td>501</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;"<br>
+&nbsp;
 
 ### BIJLAGE II.
 
