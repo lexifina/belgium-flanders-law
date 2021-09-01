@@ -995,6 +995,14 @@ Deze afdeling is niet van toepassing op :<br />1° de secretaris van het OCMW en
 
 De salarisbijslag en uurtoeslagen voor onregelmatige prestaties die sommige personeelscategorieën in de federaal gefinancierde gezondheidsinstellingen krijgen, zijn nooit cumuleerbaar met de toeslagen vermeld in artikel 102. Die salarisbijslag en uurtoeslagen worden wat de bedragen en voorwaarden betreft, toegekend in overeenstemming met de onderrichtingen van de federale financierende overheid.
 
+### ART 103bis.
+
+Naast de wettelijk voorgeschreven inhaalrust krijgt het verzorgend personeelslid in een erkende dienst voor gezinszorg, vermeld in artikel 1, 25°, van bijlage 2 die bij het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers is gevoegd, per uur prestaties op weekdagen tussen achttien en twintig uur ofwel:<br>
+a) een toeslag op het uursalaris die gelijk is aan 15% van het uursalaris;<br>
+b) 9 minuten extra inhaalrust.<br>
+<br>
+In dit artikel wordt verstaan onder weekdag: elke dag van de week, behalve zaterdag, zondag en wettelijke feestdagen.
+
 ## Afdeling 3. De overuren
 
 ### ART. 104.
