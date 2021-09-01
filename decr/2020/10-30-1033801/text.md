@@ -21,21 +21,21 @@ In afwijking van artikel 37bis van hetzelfde decreet geldt voor inschrijvingen d
 
 ### ART 4.
 
-In afwijking van artikel 37septies, § 1, achtste en negende lid, van hetzelfde decreet is voor inschrijvingen die plaatsvinden in het schooljaar 2020-2021 voor het schooljaar 2021-2022, naast de schriftelijke bevestiging ook een elektronische bevestiging mogelijk.
+In afwijking van artikel 37septies, § 1, achtste en negende lid, van hetzelfde decreet is voor inschrijvingen die plaatsvinden in het schooljaar 2021-2022 voor het schooljaar 2022-2023, naast de schriftelijke bevestiging ook een elektronische bevestiging mogelijk.
 
 ### ART 5.
 
-In aanvulling op artikel 37undecies, § 2, tweede lid, van hetzelfde decreet wordt bij inschrijvingen voor het schooljaar 2020-2021 na het verstrijken van de termijn van zestig kalenderdagen de leerling definitief ingeschreven. Als de school pas nadat de inschrijving al gerealiseerd werd, kennis neemt van een verslag, start de termijn van zestig kalenderdagen de dag van de kennisneming.
+In aanvulling op artikel 37undecies, § 2, tweede lid, van hetzelfde decreet wordt bij inschrijvingen voor het schooljaar 2021-2022 na het verstrijken van de termijn van zestig kalenderdagen de leerling definitief ingeschreven. Als de school pas nadat de inschrijving al gerealiseerd werd, kennis neemt van een verslag, start de termijn van zestig kalenderdagen de dag van de kennisneming.
 
 ### ART 6.
 
-In afwijking van artikel 37terdecies, § 1 en § 2, van hetzelfde decreet geldt voor inschrijvingen die plaatsvinden in het schooljaar 2020-2021 voor het schooljaar 2020-2021 en voor het schooljaar 2021-2022 dat:<br>
+In afwijking van artikel 37terdecies, § 1 en § 2, van hetzelfde decreet geldt voor inschrijvingen die plaatsvinden in het schooljaar 2021-2022 voor het schooljaar 2021-2022 en voor het schooljaar 2022-2023 dat:<br>
 1° de beslissing dat een leerling wordt geweigerd, schriftelijk of elektronisch aan de ouders kan worden meegedeeld;<br>
 2° een schoolbestuur dat een leerling weigert, dat aan de bevoegde diensten van de Vlaamse Gemeenschap moet melden via de administratieve toepassingen voor het uitwisselen van leerlingengegevens tussen scholen en het Vlaams Ministerie van Onderwijs en Vorming, en niet aan het LOP. De bevoegde diensten van de Vlaamse Gemeenschap bezorgen die melding aan het LOP. De melding bevat het rijksregisternummer en de identificatiegegevens van de leerling, en de feitelijke en juridische grond van de weigering. De Vlaamse Regering kan de regels voor de opslagperioden en voor de verwerkingsactiviteiten en procedures bepalen, waaronder maatregelen om te zorgen voor een behoorlijke, veilige en transparante verwerking.
 
 ### ART 7.
 
-In afwijking van artikel 37quindecies, § 2, van hetzelfde decreet kan voor inschrijvingen die plaatsvinden in het schooljaar 2020-2021 voor het schooljaar 2020-2021 en voor het schooljaar 2021-2022, de bemiddeling van het LOP niet alleen binnen tien kalenderdagen na de schriftelijke mededeling worden opgestart, maar ook binnen tien kalenderdagen na de verzending van de elektronische mededeling.
+In afwijking van artikel 37quindecies, § 2, van hetzelfde decreet kan voor inschrijvingen die plaatsvinden in het schooljaar 2021-2022 voor het schooljaar 2021- 2022 en voor het schooljaar 2022-2023, de bemiddeling van het LOP niet alleen binnen tien kalenderdagen na de schriftelijke mededeling worden opgestart, maar ook binnen tien kalenderdagen na de verzending van de elektronische mededeling.
 
 ### ART 8.
 
@@ -116,21 +116,21 @@ In afwijking van artikel 110/1 van dezelfde codex geldt voor inschrijvingen die 
 
 ### ART 21.
 
-In afwijking van artikel 110/7, § 1, achtste en negende lid, van dezelfde codex is voor inschrijvingen die plaatsvinden in het schooljaar 2020-2021 voor het schooljaar 2021-2022, naast de schriftelijke bevestiging ook een elektronische bevestiging mogelijk.
+In afwijking van artikel 110/7, § 1, achtste en negende lid, van dezelfde codex is voor inschrijvingen die plaatsvinden in het schooljaar 2021-2022 voor het schooljaar 2022-2023, naast de schriftelijke bevestiging ook een elektronische bevestiging mogelijk.
 
 ### ART 22.
 
-In aanvulling op artikel 110/11, § 2, tweede lid, van dezelfde codex wordt bij inschrijvingen voor het schooljaar 2020-2021 na het verstrijken van de termijn van zestig kalenderdagen de leerling definitief ingeschreven. Als de school pas nadat de inschrijving al gerealiseerd werd, kennis neemt van een verslag, start de termijn van de zestig kalenderdagen de dag van de kennisneming.
+In aanvulling op artikel 110/11, § 2, tweede lid, van dezelfde codex wordt bij inschrijvingen voor het schooljaar 2021-2022 na het verstrijken van de termijn van zestig kalenderdagen de leerling definitief ingeschreven. Als de school pas nadat de inschrijving al gerealiseerd werd, kennis neemt van een verslag, start de termijn van de zestig kalenderdagen de dag van de kennisneming.
 
 ### ART 23.
 
-In afwijking van artikel 110/13, § 1 en § 2, van dezelfde codex geldt voor inschrijvingen die plaatsvinden in het schooljaar 2020-2021 voor het schooljaar 2020-2021 en voor het schooljaar 2021-2022 dat:<br>
+In afwijking van artikel 110/13, § 1 en § 2, van dezelfde codex geldt voor inschrijvingen die plaatsvinden in het schooljaar 2021-2022 voor het schooljaar 2021-2022 en voor het schooljaar 2022-2023 dat:<br>
 1° de beslissing dat een leerling wordt geweigerd, schriftelijk of elektronisch aan de ouders kan worden meegedeeld;<br>
 2° een schoolbestuur dat een leerling weigert, dat aan de bevoegde diensten van de Vlaamse Gemeenschap moet melden via de administratieve toepassingen voor het uitwisselen van leerlingengegevens tussen scholen en het Vlaams Ministerie van Onderwijs en Vorming, en niet aan het LOP. De bevoegde diensten van de Vlaamse Gemeenschap bezorgen die melding aan het LOP. De melding bevat het rijksregisternummer en de identificatiegegevens van de leerling, en de feitelijke en juridische grond van de weigering. De Vlaamse Regering kan de regels bepalen voor de opslagperioden en voor de verwerkingsactiviteiten en procedures, waaronder maatregelen om te zorgen voor een behoorlijke, veilige en transparante verwerking.
 
 ### ART 24.
 
-In afwijking van artikel 110/15, § 2, van dezelfde codex kan voor inschrijvingen die plaatsvinden in het schooljaar 2020-2021 voor het schooljaar 2020- 2021 en voor het schooljaar 2021-2022, de bemiddeling van het LOP niet alleen binnen tien kalenderdagen na de schriftelijke mededeling worden opgestart, maar ook binnen tien kalenderdagen na de verzending van de elektronische mededeling.
+In afwijking van artikel 110/15, § 2, van dezelfde codex kan voor inschrijvingen die plaatsvinden in het schooljaar 2021-2022 voor het schooljaar 2021-2022 en voor het schooljaar 2022-2023, de bemiddeling van het LOP niet alleen binnen tien kalenderdagen na de schriftelijke mededeling worden opgestart, maar ook binnen tien kalenderdagen na de verzending van de elektronische mededeling.
 
 ### ART 25.
 
