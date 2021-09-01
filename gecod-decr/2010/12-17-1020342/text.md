@@ -80,7 +80,7 @@ c) in het voltijds gewoon secundair onderwijs en het deeltijds beroepssecundair 
 14° extra lesuren : een eenheid waarin de omkadering voor het voeren van een gelijke onderwijskansenbeleid in het buitengewoon secundair onderwijs uitgedrukt wordt;<br>
 14° /0 finaliteit: een begrip dat aangeeft waarop studierichtingen prioritair voorbereiden, namelijk op het hoger onderwijs, op de arbeidsmarkt of op beide;<br>
 14° /1 gemeenschappelijk curriculum: de goedgekeurde leerplannen die ten minste herkenbaar de doelen bevatten die noodzakelijk zijn om de eindtermen te bereiken of de ontwikkelingsdoelen na te streven en de schoolgebonden planning voor het nastreven van de vakoverschrijdende eindtermen en ontwikkelingsdoelen;<br>
-14° /2 handelingsgericht advies: het centrum voor leerlingenbegeleiding geeft advies aan de leerling, de ouders of het schoolteam over keuzemogelijkheden en gedragsalternatieven of eventueel bepaalde hulp;<br>
+14° /2 gemotiveerd verslag: een handelingsgericht advies voor ondersteuning vanuit het ondersteuningsmodel, vermeld in artikel 314/8 en 314/9, dat een CLB-medewerker registreert in het multidisciplinair dossier van de leerling;<br>
 15° hoofdvestigingsplaats : vestigingsplaats waar de administratieve zetel van de school wordt ondergebracht;<br>
 15° /1 huisonderwijs :<br>
 - het onderwijs dat verstrekt wordt aan leerplichtigen van wie de ouders beslist hebben om hen niet in te schrijven in een door de Vlaamse Gemeenschap, de Franse Gemeenschap of de Duitstalige Gemeenschap erkende, gefinancierde of gesubsidieerde school of centrum;<br>
@@ -142,6 +142,7 @@ c) hetzij de oprichting van een op 1 oktober van de zes voorafgaande schooljaren
 37° /1 selectieve participatietoeslagen leerling: de selectieve participatietoeslagen, zoals opgenomen in boek 2, deel 2, titel 1, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid;<br>
 38° school : een autonome entiteit die voltijds gewoon of buitengewoon secundair onderwijs organiseert en die door de Vlaamse Gemeenschap wordt erkend, gefinancierd of gesubsidieerd en daartoe aan de hand van een uniek nummer wordt geïdentificeerd. Voor de toepassing van deel III, titel II, hoofdstuk 1/1, wordt onder school en school voor gewoon secundair onderwijs ook een centrum voor deeltijds beroepssecundair onderwijs en voor wat de opleiding in de leertijd betreft ook een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen begrepen;<br>
 39° scholengemeenschap : één school of een groep van scholen die binnen een geografische omschrijving gezamenlijk instaat voor de onderwijsvoorziening;<br>
+39° /1 scholengemeenschapsinstelling: een scholengemeenschapsinstelling is een instelling die geen onderwijsinstelling is en die uitsluitend opgericht kan worden binnen één scholengemeenschap en zich beperkt tot en als enige doel heeft daar personeelsleden, die werken ter ondersteuning van de scholen van de scholengemeenschap aan te stellen, te affecteren, toe te laten tot de proeftijd en vast te benoemen indien ze daarvoor in aanmerking komen.<br>
 40° schoolbestuur: de rechtspersoon of natuurlijke persoon die verantwoordelijk is voor één of meer scholen; wat de centra voor deeltijds beroepssecundair onderwijs en de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen betreft, kan het schoolbestuur ook worden vermeld onder de benaming centrumbestuur;<br>
 40° /1 sociaal maatschappelijke training : een buitenschoolse training voor leerlingen van opleidingsvorm 1 met als doel ervaring op te doen met het oog op een zinvolle dagbesteding in het kader van wonen, werken en vrije tijd, maar niet om beroepservaring op te doen gericht op latere betaalde arbeid;<br>
 41° ...<br>
@@ -533,11 +534,11 @@ Deze afdeling treedt in werking op 1 september 2018 en houdt op uitwerking te he
 
 ### ART 22/18.
 
-Aan scholen voor voltijds gewoon secundair onderwijs en centra voor deeltijds beroepssecundair onderwijs worden vanaf het schooljaar 2019-2020 een aantal organieke uren-leraar aanvangsbegeleiding toegekend.<br>
+Aan scholen voor voltijds gewoon secundair onderwijs en centra voor deeltijds beroepssecundair onderwijs worden vanaf het schooljaar 2021-2022 een aantal organieke uren-leraar aanvangsbegeleiding toegekend.<br>
 <br>
-Aan scholen voor buitengewoon secundair onderwijs worden vanaf het schooljaar 2019-2020 een aantal organieke lesuren aanvangsbegeleiding toegekend.<br>
+Aan scholen voor buitengewoon secundair onderwijs worden vanaf het schooljaar 2021-2022 een aantal organieke lesuren aanvangsbegeleiding toegekend.<br>
 <br>
-Ook in het geval van overdracht of herverdeling kunnen die uren-leraar en lesuren alleen voor aanvangsbegeleiding worden aangewend.<br>
+Als de uren-leraar en lesuren niet kunnen worden aangewend voor aanvangsbegeleiding, moeten de scholen die aanwenden voor de ondersteuning van de kerntaak van het onderwijzend personeel, vermeld in artikel 22/21. Bij een overdracht of herverdeling kunnen die uren ook alleen voor aanvangsbegeleiding of ondersteuning van de kerntaak van het onderwijzend personeel worden aangewend. De uit aanvangsbegeleiding toegekende uren-leraar, lesuren, en uren, inclusief de omgezette punten, kunnen, in afwijking van artikel 21 en artikel 313, § 1, niet overgedragen worden naar het daaropvolgende schooljaar..<br>
 <br>
 De uren-leraar aanvangsbegeleiding worden aangewend in wervingsambten van het bestuurs- en onderwijzend personeel of van het ondersteunend personeel. Voor de aanwending in het ondersteunend personeel worden uren-leraar omgezet naar punten als vermeld in artikel 22/20.<br>
 <br>
@@ -547,357 +548,123 @@ Voor de toepassing van de personeelsregelgeving wordt, voor wat het bestuurs- en
 
 ### ART 22/19.
 
-Het globaal beschikbaar aantal uren aanvangsbegeleiding voor het schooljaar 2019-2020 bedraagt 3649 uren en wordt als volgt verdeeld:<br>
-1° voltijds gewoon secundair onderwijs: 3086 uren-leraar;<br>
-2° buitengewoon secundair onderwijs: 491 lesuren;<br>
-3° deeltijds beroepssecundair onderwijs: 72 uren-leraar.<br>
+Voor het schooljaar 2021-2022 bedraagt het globaal beschikbare aantal uren aanvangsbegeleiding 5646 uren. Die uren worden verdeeld op de volgende wijze:<br>
+1° voltijds gewoon secundair onderwijs: 4795 uren-leraar;<br>
+2° buitengewoon secundair onderwijs: 732 lesuren;<br>
+3° deeltijds beroepssecundair onderwijs: 119 uren-leraar.<br>
 <br>
-Vanaf het schooljaar 2020-2021 wordt het globaal beschikbaar aantal uren en de verdeling over punt 1° tot en met punt 3° evenredig aangepast aan eventuele leerlingenfluctuaties ten opzichte van het voorafgaande schooljaar, waarbij altijd de eerste lesdag van februari als teldatum wordt genomen.<br>
+Vanaf het schooljaar 2022-2023 wordt het globaal beschikbare aantal uren en de verdeling over de onderwijstypes, vermeld het eerste lid, 1° tot en met 3°, evenredig aangepast aan eventuele leerlingenfluctuaties ten opzichte van het voorafgaande schooljaar. Bij die aanpassing wordt de eerste lesdag van februari altijd als teldatum genomen.<br>
 <br>
-Die uren worden over de scholen en centra als volgt verdeeld:<br>
+Het globaal beschikbare aantal uren wordt op volgende wijze verdeeld over de scholen en centra:<br>
 1° voltijds gewoon secundair onderwijs: in verhouding tot het pakket uren-leraar van de school en het schooljaar in kwestie in de totaliteit van de pakketten uren-leraar van alle scholen. Voor de toepassing van deze bepaling omvat het pakket uren-leraar:<br>
-a) de uren-leraar voor de levensbeschouwelijke vakken als vermeld in artikel 209;<br>
-b) de uren-leraar voor de niet-levensbeschouwelijke vakken als vermeld in artikel 209;<br>
-c) de uren-leraar geïntegreerd ondersteuningsaanbod als vermeld in artikel 226, 227, 234 en 235;<br>
+a) de uren-leraar voor de levensbeschouwelijke vakken, vermeld in artikel 209;<br>
+b) de uren-leraar voor de niet-levensbeschouwelijke vakken, vermeld in artikel 209;<br>
+c) de uren-leraar geïntegreerd ondersteuningsaanbod, vermeld in artikel 226, 227, 234 en 235;<br>
 2° buitengewoon secundair onderwijs: in verhouding tot het pakket lesuren van de school en het schooljaar in kwestie in de totaliteit van de pakketten lesuren van alle scholen. Voor de toepassing van deze bepaling omvat het pakket lesuren:<br>
-a) de lesuren voor de levensbeschouwelijke vakken als vermeld in artikel 300;<br>
-b) de lesuren niet-levensbeschouwing als vermeld in artikel 298, 299, 301, 302 en 303;<br>
-c) de lesuren geïntegreerd ondersteuningsaanbod als vermeld in artikel 318 en 319;<br>
-3° deeltijds beroepssecundair onderwijs: in verhouding tot het pakket uren-leraar van het centrum en het schooljaar in kwestie in de totaliteit van de pakketten uren-leraar van alle centra. Voor de toepassing van deze bepaling omvat het pakket uren-leraar de uren-leraar als vermeld in artikel 89 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap.
+a) de lesuren voor de levensbeschouwelijke vakken, vermeld in artikel 300;<br>
+b) de lesuren niet-levensbeschouwing, vermeld in artikel 298, 299, 301, 302 en 303;<br>
+c) de lesuren geïntegreerd ondersteuningsaanbod, vermeld in artikel 318 en 319;<br>
+3° deeltijds beroepssecundair onderwijs: in verhouding tot het pakket uren-leraar van het centrum en het schooljaar in kwestie in de totaliteit van de pakketten uren-leraar van alle centra. Voor de toepassing van deze bepaling omvat het pakket uren-leraar de uren-leraar, vermeld in artikel 89 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap.
 
 ### ART 22/20.
 
-De aanwending van de uren-leraar of lesuren aanvangsbegeleiding in wervingsambten van het ondersteunend personeel gebeurt op basis van de volgende omzettingstabel:<br>
-1° voltijds gewoon secundair onderwijs en deeltijds beroepssecundair onderwijs:<br>
-a) 11 uren-leraar = 31,5 punten in het geval van een halftijdse betrekking met bekwaamheidsbewijs ten minste secundair onderwijs in een wervingsambt van het ondersteunend personeel;<br>
-b) 22 uren-leraar = 63 punten in het geval van een voltijdse betrekking met bekwaamheidsbewijs ten minste secundair onderwijs in een wervingsambt van het ondersteunend personeel;<br>
-c) 11 uren-leraar = 41 punten in het geval van een halftijdse betrekking met bekwaamheidsbewijs ten minste bachelor in een wervingsambt van het ondersteunend personeel;<br>
-d) 22 uren-leraar = 82 punten in het geval van een voltijdse betrekking met bekwaamheidsbewijs ten minste bachelor in een wervingsambt van het ondersteunend personeel;<br>
-e) 10 uren-leraar = 60 punten in het geval van een halftijdse betrekking met bekwaamheidsbewijs ten minste master in een wervingsambt van het ondersteunend personeel;<br>
-f) 20 uren-leraar = 120 punten in het geval van een voltijdse betrekking met bekwaamheidsbewijs ten minste master in een wervingsambt van het ondersteunend personeel;<br>
-2° buitengewoon secundair onderwijs:<br>
-a) 11 lesuren = 31,5 punten in het geval van een halftijdse betrekking met bekwaamheidsbewijs ten minste secundair onderwijs in een wervingsambt van het ondersteunend personeel;<br>
-b) 22 lesuren = 63 punten in het geval van een voltijdse betrekking met bekwaamheidsbewijs ten minste secundair onderwijs in een wervingsambt van het ondersteunend personeel;<br>
-c) 11 lesuren = 41 punten in het geval van een halftijdse betrekking met bekwaamheidsbewijs ten minste bachelor in een wervingsambt van het ondersteunend personeel;<br>
-d) 22 lesuren = 82 punten in het geval van een voltijdse betrekking met bekwaamheidsbewijs ten minste bachelor in een wervingsambt van het ondersteunend personeel;<br>
-e) 11 lesuren = 60 punten in het geval van een halftijdse betrekking met bekwaamheidsbewijs ten minste master in een wervingsambt van het ondersteunend personeel;<br>
-f) 22 lesuren = 120 punten in het geval van een voltijdse betrekking met bekwaamheidsbewijs ten minste master in een wervingsambt van het ondersteunend personeel.<br>
-<br>
-De aanwending van de lesuren aanvangsbegeleiding in wervingsambten van het medisch, paramedisch, orthopedagogisch, psychologisch of sociaal personeel gebeurt op basis van de volgende omzettingstabellen:<br>
-1° arts, orthopedagoog en psycholoog:<br>
-&nbsp;
-<table border="1">
-	<tbody>
-		<tr>
-			<td>lesuren</td>
-			<td>uren</td>
-		</tr>
-		<tr>
-			<td>1</td>
-			<td>1</td>
-		</tr>
-		<tr>
-			<td>2</td>
-			<td>3</td>
-		</tr>
-		<tr>
-			<td>3</td>
-			<td>4</td>
-		</tr>
-		<tr>
-			<td>4</td>
-			<td>6</td>
-		</tr>
-		<tr>
-			<td>5</td>
-			<td>7</td>
-		</tr>
-		<tr>
-			<td>6</td>
-			<td>9</td>
-		</tr>
-		<tr>
-			<td>7</td>
-			<td>10</td>
-		</tr>
-		<tr>
-			<td>8</td>
-			<td>12</td>
-		</tr>
-		<tr>
-			<td>9</td>
-			<td>13</td>
-		</tr>
-		<tr>
-			<td>10</td>
-			<td>15</td>
-		</tr>
-		<tr>
-			<td>11</td>
-			<td>16</td>
-		</tr>
-		<tr>
-			<td>12</td>
-			<td>18</td>
-		</tr>
-		<tr>
-			<td>13</td>
-			<td>19</td>
-		</tr>
-		<tr>
-			<td>14</td>
-			<td>21</td>
-		</tr>
-		<tr>
-			<td>15</td>
-			<td>22</td>
-		</tr>
-		<tr>
-			<td>16</td>
-			<td>24</td>
-		</tr>
-		<tr>
-			<td>17</td>
-			<td>25</td>
-		</tr>
-		<tr>
-			<td>18</td>
-			<td>27</td>
-		</tr>
-		<tr>
-			<td>19</td>
-			<td>28</td>
-		</tr>
-		<tr>
-			<td>20</td>
-			<td>29</td>
-		</tr>
-		<tr>
-			<td>21</td>
-			<td>31</td>
-		</tr>
-		<tr>
-			<td>22</td>
-			<td>32</td>
-		</tr>
-		<tr>
-			<td>23</td>
-			<td>34</td>
-		</tr>
-		<tr>
-			<td>24</td>
-			<td>35</td>
-		</tr>
-		<tr>
-			<td>25</td>
-			<td>37</td>
-		</tr>
-		<tr>
-			<td>26</td>
-			<td>38</td>
-		</tr>
-		<tr>
-			<td>27</td>
-			<td>40</td>
-		</tr>
-	</tbody>
-</table>
-<br>
-2° ergotherapeut, kinderverzorger, kinesitherapeut, maatschappelijk werker en verpleger:<br>
-&nbsp;
-<table border="1">
-	<tbody>
-		<tr>
-			<td>lesuren</td>
-			<td>uren</td>
-		</tr>
-		<tr>
-			<td>1</td>
-			<td>1</td>
-		</tr>
-		<tr>
-			<td>2</td>
-			<td>3</td>
-		</tr>
-		<tr>
-			<td>3</td>
-			<td>4</td>
-		</tr>
-		<tr>
-			<td>4</td>
-			<td>6</td>
-		</tr>
-		<tr>
-			<td>5</td>
-			<td>7</td>
-		</tr>
-		<tr>
-			<td>6</td>
-			<td>9</td>
-		</tr>
-		<tr>
-			<td>7</td>
-			<td>10</td>
-		</tr>
-		<tr>
-			<td>8</td>
-			<td>12</td>
-		</tr>
-		<tr>
-			<td>9</td>
-			<td>13</td>
-		</tr>
-		<tr>
-			<td>10</td>
-			<td>15</td>
-		</tr>
-		<tr>
-			<td>11</td>
-			<td>16</td>
-		</tr>
-		<tr>
-			<td>12</td>
-			<td>18</td>
-		</tr>
-		<tr>
-			<td>13</td>
-			<td>19</td>
-		</tr>
-		<tr>
-			<td>14</td>
-			<td>21</td>
-		</tr>
-		<tr>
-			<td>15</td>
-			<td>22</td>
-		</tr>
-		<tr>
-			<td>16</td>
-			<td>24</td>
-		</tr>
-		<tr>
-			<td>17</td>
-			<td>25</td>
-		</tr>
-		<tr>
-			<td>18</td>
-			<td>27</td>
-		</tr>
-		<tr>
-			<td>19</td>
-			<td>28</td>
-		</tr>
-		<tr>
-			<td>20</td>
-			<td>29</td>
-		</tr>
-		<tr>
-			<td>21</td>
-			<td>31</td>
-		</tr>
-		<tr>
-			<td>22</td>
-			<td>32</td>
-		</tr>
-	</tbody>
-</table>
-<br>
-3° logopedist:<br>
-&nbsp;
-<table border="1">
-	<tbody>
-		<tr>
-			<td>lesuren</td>
-			<td>uren</td>
-		</tr>
-		<tr>
-			<td>1</td>
-			<td>1</td>
-		</tr>
-		<tr>
-			<td>2</td>
-			<td>3</td>
-		</tr>
-		<tr>
-			<td>3</td>
-			<td>4</td>
-		</tr>
-		<tr>
-			<td>4</td>
-			<td>6</td>
-		</tr>
-		<tr>
-			<td>5</td>
-			<td>7</td>
-		</tr>
-		<tr>
-			<td>6</td>
-			<td>9</td>
-		</tr>
-		<tr>
-			<td>7</td>
-			<td>10</td>
-		</tr>
-		<tr>
-			<td>8</td>
-			<td>12</td>
-		</tr>
-		<tr>
-			<td>9</td>
-			<td>13</td>
-		</tr>
-		<tr>
-			<td>10</td>
-			<td>15</td>
-		</tr>
-		<tr>
-			<td>11</td>
-			<td>16</td>
-		</tr>
-		<tr>
-			<td>12</td>
-			<td>18</td>
-		</tr>
-		<tr>
-			<td>13</td>
-			<td>19</td>
-		</tr>
-		<tr>
-			<td>14</td>
-			<td>21</td>
-		</tr>
-		<tr>
-			<td>15</td>
-			<td>22</td>
-		</tr>
-		<tr>
-			<td>16</td>
-			<td>24</td>
-		</tr>
-		<tr>
-			<td>17</td>
-			<td>25</td>
-		</tr>
-		<tr>
-			<td>18</td>
-			<td>27</td>
-		</tr>
-		<tr>
-			<td>19</td>
-			<td>28</td>
-		</tr>
-		<tr>
-			<td>20</td>
-			<td>30</td>
-		</tr>
-	</tbody>
-</table>
-<br>
-De Vlaamse Regering wordt gemachtigd om de hiervoor vermelde omzettingstabellen te wijzigen.
+De uren-leraar of lesuren aanvangsbegeleiding kunnen, met toepassing van artikel 22/18, vierde lid, worden omgezet naar punten voor de aanwending in ambten van het ondersteunend personeel, het paramedisch personeel, het medisch personeel, het sociaal personeel, het orthopedagogisch personeel of het psychologisch personeel. Deze omzetting gebeurt op basis van een omzettingstabel die de Vlaamse Regering vastlegt.
 
 ## [Onderafdeling 2/4. Aanvullende uren-leraar en lesuren voor de ondersteuning van de kerntaak van het onderwijzend personeel (ing. decr. 25 februari 2022, art. 24, I: 1 september 2021)]
 
+### ART 22/21.
+
+§ 1. Vanaf het schooljaar 2021-2022 worden aan scholen voor voltijds gewoon secundair onderwijs en centra voor deeltijds beroepssecundair onderwijs een aantal organieke uren-leraar voor de ondersteuning van de kerntaak van het onderwijzend personeel toegekend.<br>
+<br>
+Vanaf het schooljaar 2021-2022 worden aan scholen voor buitengewoon secundair onderwijs een aantal organieke lesuren voor de ondersteuning van de kerntaak van het onderwijzend personeel toegekend.<br>
+<br>
+De aanvullende uren-leraar en lesuren voor de ondersteuning van de kerntaak van het onderwijzend personeel, vermeld in artikel 47quinquies van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991 en artikel 73quinquies van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, dienen aangewend te worden om de werkdruk van het onderwijzend personeel te verminderen met een effect op de lesopdracht. Ook bij een overdracht of herverdeling kunnen die uren-leraar en lesuren alleen voor de ondersteuning van de kerntaak van het onderwijzend personeel worden aangewend. De aanvullende uren-leraar, lesuren, en uren, inclusief de omgezette punten ter ondersteuning van de kerntaak van het onderwijzend personeel, kunnen, in afwijking van artikel 21 en artikel 313, § 1, niet overgedragen worden naar het daaropvolgende schooljaar.<br>
+<br>
+Er kan aan een onderwijzend personeelslid maximaal één uur-leraar of lesuur toegekend worden. Van dat principe kan alleen worden afgeweken tot maximaal drie uren-leraar of lesuren per onderwijzend personeelslid op grond van een gemotiveerd verzoek en na onderhandeling in het lokaal comité. Dit gemotiveerd verzoek kan zowel van de afvaardiging van het schoolbestuur als van de afvaardiging van het personeel komen.<br>
+<br>
+De uren-leraar en lesuren voor de ondersteuning van de kerntaak van het onderwijzend personeel worden aangewend in wervingsambten van het onderwijzend personeel.<br>
+<br>
+Voor de toepassing van de personeelsregelgeving worden, voor het onderwijzend personeel, uren voor de ondersteuning van de kerntaak van het onderwijzend personeel beschouwd als uren die geen lesuren zijn, maar ermee gelijkgesteld worden.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 kan een schoolbestuur tijdens de schooljaren 2021-2022 en 2022-2023 bij een tekort aan onderwijzend personeel de aanvullende uren-leraar of lesuren voor de ondersteuning van de kerntaak van het onderwijzend personeel ook aanwenden in ambten van het ondersteunend personeel. De criteria voor de bepaling van het tekort aan onderwijzend personeel worden bepaald in het bevoegd lokaal comité en de aanwending in ambten van het ondersteunend personeel kan enkel worden toegepast na onderhandeling in het bevoegd lokaal comité.<br>
+<br>
+De betrekkingen die ingericht worden in ambten van het ondersteunend personeel als vermeld in het eerste lid, komen niet in aanmerking voor vacantverklaring en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekkingen.<br>
+<br>
+De Vlaamse Regering bepaalt de omzettingen van uren-leraar en lesuren naar punten.
+
+### ART 22/22.
+
+Voor het schooljaar 2021-2022 bedraagt het globaal beschikbare aantal uren voor de ondersteuning van de kerntaak van het onderwijzend personeel 9564 uren. Die uren worden verdeeld op de volgende wijze:<br>
+1° voltijds gewoon secundair onderwijs: 8188 uren-leraar;<br>
+2° buitengewoon secundair onderwijs: 1146 lesuren;<br>
+3° deeltijds beroepssecundair onderwijs: 230 uren-leraar.<br>
+<br>
+Vanaf het schooljaar 2022-2023 wordt het globaal beschikbare aantal uren en de verdeling over de onderwijstypes, vermeld in het eerste lid, 1° tot en met 3°, evenredig aangepast aan eventuele leerlingenfluctuaties ten opzichte van het voorafgaande schooljaar. Bij die aanpassing wordt de eerste lesdag van februari altijd als teldatum genomen.<br>
+<br>
+§ 3. Die uren worden conform artikel 22/19, derde lid, over de scholen en centra verdeeld.
+
 ## [Onderafdeling 2/5. Aanvullende uren-leraar en lesuren samen school maken (ing. decr. 25 februari 2022, art. 27, I: 1 september 2021)]
+
+### ART 22/23.
+
+Vanaf het schooljaar 2021-2022 worden aan scholen voor voltijds gewoon secundair onderwijs en centra voor deeltijds beroepssecundair onderwijs een aantal organieke uren-leraar samen school maken toegekend.<br>
+<br>
+Vanaf het schooljaar 2021-2022 worden aan scholen voor buitengewoon secundair onderwijs een aantal organieke lesuren samen school maken toegekend.<br>
+<br>
+De organieke uren-leraar of lesuren samen school maken dienen aangewend te worden om het sociaal overleg en onderhandeling te versterken. De uren-leraar of lestijden worden aangewend voor de vertegenwoordigers van het personeel die aangesteld zijn in de school, conform de toepasselijke vigerende Vlaamse of federale regelgeving.<br>
+<br>
+Voor de aanwending van de uren-leraar en de lesuren samen school maken kunnen de scholen samenwerken. Ook bij een overdracht of herverdeling kunnen die uren-leraar en lesuren alleen voor het samen school maken worden aangewend. De uren-leraar, lesuren en uren, inclusief de omgezette punten samen school maken, kunnen, in afwijking van artikel 21 en artikel 313, § 1, niet overgedragen worden naar het daaropvolgende schooljaar.<br>
+<br>
+De Vlaamse Regering bepaalt de ambten en personeelscategorieën waarbinnen betrekkingen kunnen worden opgericht met de uren-leraar samen school maken. De Vlaamse Regering bepaalt de omzettingen van lesuren en uren-leraar naar uren en punten.<br>
+<br>
+Voor de toepassing van de personeelsregelgeving wordt, voor het bestuurs- en onderwijzend personeel, het samen school maken beschouwd als uren die geen lesuren zijn, maar ermee gelijkgesteld worden.
+
+### ART 22/24.
+
+§ 1. Het aantal organieke uren-leraar dat wordt toegekend aan de scholen voor gewoon voltijds secundair onderwijs en centra voor deeltijds beroepssecundair onderwijs, wordt berekend met de formule 0,003190777*B.<br>
+<br>
+In het eerste lid wordt verstaan onder B: het totaalpakket uren-leraar van de school in het voorgaande schooljaar.<br>
+<br>
+Voor de toepassing van het eerste lid omvat het pakket uren-leraar:<br>
+1° de uren-leraar voor de levensbeschouwelijke vakken, vermeld in artikel 209;<br>
+2° de uren-leraar voor de niet-levensbeschouwelijke vakken, vermeld in artikel 209;<br>
+3° de uren-leraar geïntegreerd ondersteuningsaanbod, vermeld in artikel 226, 227, 234 en 235;<br>
+4° de uren-leraar vermeld in artikel 89, eerste lid, van het decreet van 10 juli 2008 betreffende het stelsel voor leren en werken in de Vlaamse Gemeenschap, wanneer het een centrum voor deeltijds beroepssecundair onderwijs betreft.<br>
+<br>
+De uren-leraar, vermeld in het eerste lid, worden binnen een school of centrum afgerond naar het hogere geheel getal als het eerste cijfer na de komma groter is dan vier. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere geheel getal.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 hebben scholen voor gewoon voltijds secundair onderwijs en centra voor deeltijds beroepssecundair onderwijs, die conform paragraaf 1 recht hebben op meer dan drie, maar minder dan zeven, organieke uren-leraar voor het samen school maken, recht op drie organieke uren-leraar.<br>
+<br>
+In afwijking van paragraaf 1 hebben scholen voor gewoon voltijds secundair onderwijs en centra voor deeltijds beroepssecundair onderwijs, die conform paragraaf 1 recht hebben op zeven organieke uren-leraar of meer, recht op zes organieke uren-leraar.<br>
+<br>
+In afwijking van paragraaf 1 hebben scholen voor gewoon voltijds secundair onderwijs en centra voor deeltijds beroepssecundair onderwijs, die conform paragraaf 1 recht hebben op minder dan één organiek uur-leraar voor het samen school maken, recht op één organiek uur-leraar.<br>
+<br>
+§ 3. Het aantal lesuren samen school maken waarop de school voor buitengewoon secundair onderwijs recht heeft, wordt berekend met de formule 0,003048098*D.<br>
+<br>
+Voor de toepassing van het eerste lid is D=E+F+G, waarbij:<br>
+1° E: het totaalpakket lesuren van de school in het voorgaande schooljaar. Voor de toepassing van E omvat het pakket lesuren:<br>
+a) de lesuren voor de levensbeschouwelijke vakken, vermeld in artikel 300;<br>
+b) de lesuren niet-levensbeschouwing, vermeld in artikel 298, 299, 301, 302 en 303;<br>
+c) de lesuren geïntegreerd ondersteuningsaanbod, vermeld in artikel 318 en 319;<br>
+2° F: de uren paramedisch personeel, medisch personeel, sociaal personeel, orthopedagogisch personeel en psychologisch personeel, volgens de richtgetallen/32*22. F wordt binnen een school afgerond naar het hogere geheel getal als het eerste cijfer na de komma groter is dan vier. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere geheel getal;<br>
+3° G: de lesuren, uren en begeleidingseenheden zoals toegekend aan de school in het kader van het ondersteuningsmodel op de eerste schooldag van februari van het vorige schooljaar, conform artikel 314/8, § 3 en § 5, en artikel 314/9, § 3. G wordt berekend met de formule G=A+B+C, waarbij:<br>
+a) A: de lesuren toegekend in kader van het ondersteuningsmodel;<br>
+b) B: de uren toegekend in het kader van het ondersteuningsmodel*22/32;<br>
+c) C: 90,43% van de begeleidingseenheden toegekend in het kader van het ondersteuningsmodel*1 gesommeerd met 9,57% van de begeleidingseenheden toegekend in het kader van het ondersteuningsmodel*22/32.<br>
+<br>
+De term G van de som, vermeld in het tweede lid, wordt binnen een school afgerond naar het hogere geheel getal als het eerste cijfer na de komma groter is dan vier. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere geheel getal.<br>
+<br>
+Het aantal lesuren samen school maken waarop een school voor buitengewoon secundair onderwijs recht heeft, zoals vermeld in het eerste lid, worden binnen een school afgerond naar het hogere geheel getal als het eerste cijfer na de komma groter is dan vier. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere geheel getal.<br>
+<br>
+§ 4. In afwijking van paragraaf 3 hebben scholen voor buitengewoon secundair onderwijs die conform paragraaf 3 recht hebben op meer dan drie organieke lesuren voor het samen school maken, recht op drie organieke lesuren.<br>
+<br>
+In afwijking van paragraaf 3 hebben scholen voor buitengewoon secundair onderwijs die conform paragraaf 3 recht hebben op minder dan één organiek lesuur voor het samen school maken, recht op één organiek lesuur.
+
+### ART 22/25.
+
+De uren-leraar of lesuren samen school maken in wervingsambten van het ondersteunend personeel worden aangewend op basis van een omzettingstabel die de Vlaamse Regering vastlegt.<br>
+<br>
+De Vlaamse Regering keurt het afsprakenkader tussen het Gemeenschapsonderwijs en de representatieve verenigingen van schoolbesturen van het gesubsidieerd onderwijs en de representatieve vakorganisaties over de wijze van toekenning, de verdeling en de inzet van de aanvullende lestijden samen school maken die specifiek gericht zijn op het versterken van het lokale sociaal overleg goed.
 
 ## Onderafdeling 3. Globale puntenenveloppe
 
@@ -973,18 +740,18 @@ bevorderingsambt van directeur;<br>
 - voor de tijdelijke verhoging van de puntenwaarde van een betrekking in een ambt van het ondersteunend personeel, vermeld in § 1, waarvan de titularis een dienstonderbreking heeft, zodat aan de vervanger een hogere salarisschaal kan worden toegekend.<br>
 <br>
 De school moet bij de aanwending van haar punten daarenboven rekening houden met volgende principes :<br>
-- ambten van het bestuurspersoneel en het ondersteunend personeel kunnen per halftijdse of voltijdse betrekking opgericht worden;<br>
-- als een school punten aanwendt voor ambten in het ondersteunend personeel moeten de personeelsleden van deze categorie uit tenminste 50% opvoeders bestaan;<br>
+-&nbsp;ambten van het bestuurspersoneel en het ondersteunend personeel kunnen per halftijdse of voltijdse betrekking opgericht worden. In afwijking hiervan kan het ambt van ICT-coördinator per voltijdse of deeltijdse betrekking opgericht worden;<br>
+- als een school punten aanwendt voor ambten in het ondersteunend personeel moeten de personeelsleden van deze categorie uit tenminste 50% opvoeders bestaan;&nbsp;Voor het bepalen van dit percentage wordt geen rekening gehouden met de personeelsleden aangesteld in het ambt van ICT-coördinator.<br>
 - een betrekking in het ambt van technisch adviseur- coördinator kan slechts worden opgericht in een school voor voltijds gewoon secundair onderwijs met een eerste graad, met technisch secundair onderwijs, met beroepssecundair onderwijs of met HBO5 verpleegkunde, een centrum voor deeltijds beroepssecundair onderwijs dat autonoom is en een school voor buitengewoon secundair onderwijs. In voormelde scholen kan ook slechts maximum één voltijdse betrekking in het ambt technisch adviseur-coördinator worden opgericht. De school verschaft ten aanzien van haar lokaal comité en ten aanzien van haar personeel volledige klaarheid over de betrekkingen die ze op basis van haar punten zal oprichten.<br>
 - als een titularis van een betrekking in een ambt van het ondersteunend personeel bij een dienstonderbreking niet of gedeeltelijk wordt vervangen, kan de school de puntenwaarde van de niet-ingevulde opdracht van de titularis gebruiken om aan een vervanger in een betrekking in een ambt van het ondersteunend personeel een hogere salarisschaal toe te kennen.<br>
 <br>
-§ 2. De scholengemeenschap kan de punten van de voorafname, bedoeld in artikel 29, § 1, als volgt en naar keuze aanwenden :<br>
+§ 2.&nbsp;Als de scholengemeenschap, conform artikel 63/1, geen scholengemeenschapsinstelling heeft opgericht, kan ze de punten van de voorafname, bedoeld in artikel 29, § 1, als volgt en naar keuze aanwenden:<br>
 - voor de oprichting van betrekkingen in ambten van het bestuurspersoneel, het ondersteunend personeel, en in het kader van taak- en functiedifferentiatie in wervingsambten van het onderwijzend, het paramedisch, medisch, sociaal, orthopedagogisch en psychologisch personeel;<br>
 - voor het school- of klasvrij maken van een personeelslid;<br>
 - voor de tijdelijke verhoging van de puntenwaarde van een betrekking in een ambt van het ondersteunend personeel, vermeld in § 1, waarvan de titularis een dienstonderbreking heeft, zodat aan de vervanger een hogere salarisschaal kan worden toegekend.<br>
 <br>
 Bij de aanwending van deze puntenenveloppe moet de scholengemeenschap rekening houden met volgende principes :<br>
-1° ambten van het bestuurspersoneel en het ondersteunend personeel kunnen per halftijdse of voltijdse betrekking opgericht worden;<br>
+1° ambten van het bestuurspersoneel en het ondersteunend personeel kunnen per halftijdse of voltijdse betrekking opgericht worden;&nbsp;In afwijking hiervan kan het ambt van ICT-coördinator per voltijdse of deeltijdse betrekking opgericht worden;<br>
 2° het personeelslid dat wordt aangesteld in een betrekking opgericht met punten van de voorafname wordt steeds als tijdelijk personeelslid aangesteld in een school van de scholengemeenschap en werkt voor de totaliteit van de scholengemeenschap;<br>
 3° als een titularis van een betrekking in een ambt van het ondersteunend personeel bij een dienstonderbreking niet of gedeeltelijk wordt vervangen, kan de scholengemeenschap de puntenwaarde van de niet-ingevulde opdracht van de titularis gebruiken om aan een vervanger in een betrekking in een ambt van het ondersteunend personeel een hogere salarisschaal toe te kennen.<br>
 <br>
@@ -994,6 +761,22 @@ De bepalingen van het decreet rechtspositie personeelsleden gemeenschapsonderwij
 - de betrekking kan niet worden vacant verklaard.<br>
 <br>
 Het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekking.<br>
+<br>
+§2bis. Als de scholengemeenschap, conform artikel 63/1, een scholengemeenschapsinstelling heeft opgericht, kan ze de punten van de voorafname, vermeld in artikel 29, § 1, op de volgende wijze aanwenden:<br>
+- voor de oprichting van betrekkingen in de scholengemeenschapsinstelling in ambten van het bestuurspersoneel, het ondersteunend personeel, en in het kader van taak- en functiedifferentiatie in wervingsambten van het onderwijzend, paramedisch, medisch, sociaal, orthopedagogisch en psychologisch personeel;<br>
+- voor het school- of klasvrij maken van een personeelslid in een school van de scholengemeenschap, dat belast is met het mandaat van algemeen directeur of van een personeelslid dat belast is met het mandaat van coördinerend directeur;<br>
+- voor de tijdelijke verhoging van de puntenwaarde van een betrekking in een ambt van het ondersteunend personeel in de scholengemeenschapsinstelling, waarvan de titularis een dienstonderbreking heeft, zodat aan de vervanger een hogere salarisschaal kan worden toegekend.<br>
+<br>
+Bij aanwending van de punten van de voorafname in de scholengemeenschapsinstelling moet de scholengemeenschap rekening houden met volgende principes:<br>
+1° in eerste instantie moeten de punten steeds worden aangewend voor de instandhouding van betrekkingen van vastbenoemde personeelsleden in ambten, bedoeld in het eerste lid;<br>
+2° als de scholengemeenschapsinstelling na toepassing van punt 1° nog punten ter beschikking heeft, kan ze deze als volgt en naar keuze aanwenden:<br>
+- voor de oprichting van betrekkingen in ambten bedoeld in het eerste lid;<br>
+- voor de toekenning van een hogere salarisschaal in een ambt van het ondersteunend personeel in toepassing van artikel 55, § 2, van het decreet Rechtspositie personeelsleden gemeenschapsonderwijs of artikel 44, § 2, van het decreet Rechtspositie personeelsleden gesubsidieerd onderwijs;<br>
+- voor de tijdelijke verhoging van de puntenwaarde van een betrekking in een ambt van het ondersteunend personeel, waarvan de titularis een dienstonderbreking heeft, zodat aan de vervanger een hogere salarisschaal kan worden toegekend;<br>
+3° ambten van het bestuurspersoneel en het ondersteunend personeel kunnen enkel per halftijdse of voltijdse betrekking opgericht worden, behoudens het ambt van ICT-coördinator dat ook als deeltijdse betrekking kan worden opgericht;<br>
+4° als een titularis van een betrekking in een ambt van het ondersteunend personeel bij een dienstonderbreking niet of gedeeltelijk wordt vervangen, kan de scholengemeenschapsinstelling de puntenwaarde van de niet-ingevulde opdracht van de titularis gebruiken om aan een vervanger in een betrekking in een ambt van het ondersteunend personeel een hogere salarisschaal toe te kennen.<br>
+<br>
+De betrekkingen die in de scholengemeenschapsinstelling of scholengemeenschapsinstellingen, al naar gelang het geval, worden ingericht in de punten van de voorafname komen in totaal tot een maximum van 10% van de globale puntenenveloppe in aanmerking voor vacantverklaring, toelating tot de proeftijd, vaste benoeming of mutatie. Als de scholengemeenschap voor haar voorafname meer dan 10% van de globale puntenenveloppe overschrijdt, als vermeld in artikel 29, § 1, dan komen de betrekkingen die in de scholengemeenschapsinstelling of scholengemeenschapsinstellingen, al naar gelang het geval, worden ingericht boven deze 10% niet in aanmerking voor vacantverklaring, toelating tot de proeftijd, vaste benoeming of mutatie. Er kan maximaal vacant verklaard worden in deze punten tot het percentage dat op 1 september 2020 vooraf genomen werd. Dit percentage kan verhoogd worden na akkoord binnen het bevoegd lokaal comité, zonder dat het percentage van 10% overschreden kan worden.<br>
 <br>
 § 3. In het gemeenschapsonderwijs is de scholengroep verplicht om het personeelslid dat belast is met het mandaat van algemeen directeur school- of klasvrij te maken. De scholengroep heeft de keuze om hiervoor punten aan te wenden van de voorafname van de globale puntenenveloppe, bedoeld in artikel 29, en/of punten van de enveloppe bedoeld in artikelen 125duodecies, § 4, en 153sexies, § 4, van het decreet Basisonderwijs van 25 februari 1997. Als een scholengroep ten minste één netoverschrijdende scholengemeenschap telt, wordt in de overeenkomst van deze scholengemeenschap vastgelegd op welke wijze aan voormelde verplichting wordt voldaan. De Vlaamse Regering bepaalt het aantal punten dat nodig is om het personeelslid dat belast is met het mandaat van algemeen directeur school- of klasvrij te maken.<br>
 <br>
@@ -1016,8 +799,8 @@ De Vlaamse Regering bepaalt eveneens het aantal punten dat nodig is om een perso
 - voor de tijdelijke verhoging van de puntenwaarde van een betrekking in een ambt van het ondersteunend personeel waarvan de titularis een dienstonderbreking heeft, zodat aan de vervanger een hogere salarisschaal kan worden toegekend.<br>
 <br>
 De school moet bij de aanwending van haar punten daarenboven rekening houden met volgende principes :<br>
-- ambten van het bestuurspersoneel en het ondersteunend personeel kunnen per halftijdse of voltijdse betrekking opgericht worden;<br>
-- als een school punten aanwendt voor ambten in het ondersteunend personeel moeten de personeelsleden van deze categorie uit tenminste 50% opvoeders bestaan;<br>
+- ambten van het bestuurspersoneel en het ondersteunend personeel kunnen per halftijdse of voltijdse betrekking opgericht worden. In afwijking hiervan kan het ambt van ICT-coördinator per voltijdse of deeltijdse betrekking opgericht worden;<br>
+- als een school punten aanwendt voor ambten in het ondersteunend personeel moeten de personeelsleden van deze categorie uit tenminste 50% opvoeders bestaan;&nbsp;Voor het bepalen van dit percentage wordt geen rekening gehouden met de personeelsleden aangesteld in het ambt van ICT-coördinator.<br>
 - een betrekking in het ambt van technisch adviseur-coördinator kan slechts worden opgericht in een school voor voltijds gewoon secundair onderwijs met een eerste graad, met technisch secundair onderwijs, met beroepssecundair onderwijs of met HBO5 verpleegkunde, een centrum voor deeltijds beroepssecundair onderwijs dat autonoom is en een school voor buitengewoon secundair onderwijs. In voormelde scholen kan ook slechts maximum één voltijdse betrekking in het ambt technisch adviseur-coördinator worden opgericht.<br>
 - als een titularis van een betrekking in een ambt van het ondersteunend personeel bij een dienstonderbreking niet of gedeeltelijk wordt vervangen, kan de school de puntenwaarde van de niet-ingevulde opdracht van de titularis gebruiken om aan een vervanger in een betrekking in een ambt van het ondersteunend personeel een hogere salarisschaal toe te kennen.<br>
 <br>
@@ -1063,6 +846,12 @@ De scholengroep deelt de vacantverklaring van voormelde betrekkingen mee aan de 
 
 ## [Onderafdeling 6. Extra financiering en subsidiëring in het kader van de maatregelen VV15 Digisprong en VV17 Van kwetsbaar naar weerbaar, van het Vlaams relanceplan voor schooljaren 2021-2022 en 2022- 2023 (ing. decr. 9 juli 2021, art. 36, I: 1 september 2021)]
 
+### ART 34/1.
+
+§ 1. Ter uitvoering van de acties vervat in het speerpunt 1: een toekomstgerichte en veilige ICT-infrastructuur, speerpunt 2: een sterk ondersteunend en doeltreffend ICT-schoolbeleid, speerpunt 3: ICT-competente leerkrachten en lerarenopleiders en aangepaste digitale leermiddelen en speerpunt 4: een kennisen adviescentrum Digisprong ten dienste van het onderwijsveld binnen de maatregel VV 15 van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Digisprong. Van achterstand naar voorsprong, goedgekeurd op de ministerraad van de Vlaamse Regering van 11 december 2020 (VR 2020 1112 DOC.1425/2QUATER), kan de Vlaamse Regering voor de schooljaren 2021-2022 en 2022-2023 binnen de perken van de beschikbare deelenveloppe van 375 miljoen euro bijkomende omkadering toekennen aan de&nbsp;scholen voor gewoon secundair onderwijs, scholen voor buitengewoon secundair onderwijs, centra voor deeltijds beroeps secundair onderwijs, centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, wat duaal leren en de leertijd betreft of, wat speerpunten 3 en 4 betreft, ter ondersteuning van deze scholen en centra. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.<br>
+<br>
+§ 2. Ter uitvoering van de acties vervat in het speerpunt 1: van achterstand naar voorsprong, speerpunt 2: versterking van leraren, lerarenopleiders en schoolleiders en speerpunt 3: bevorderen van het mentaal welzijn van leerlingen, scholieren en studenten binnen de maatregel VV 17 van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Van kwetsbaar naar weerbaar, goedgekeurd op de ministerraad van de Vlaamse Regering van 7 mei 2021 (VR 2021 0705 VV DOC.0055-1 en 2), kan de Vlaamse Regering voor de schooljaren 2021-2022 en 2022-2023 binnen de perken van de beschikbare deelenveloppe van 90 miljoen euro desgevallend aangevuld met middelen uit de provisie versterking onderwijs en/of de AGODI-provisie bijkomende omkadering toekennen aan de scholen voor gewoon secundair onderwijs, scholen voor buitengewoon secundair onderwijs, centra voor deeltijds beroeps secundair onderwijs, centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, wat duaal leren en de leertijd betreft. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.
+
 ## Afdeling 3. Financiering en subsidiëring van de werking
 
 ## Onderafdeling 1. Algemeen
@@ -1096,7 +885,13 @@ De Raad van het Gemeenschapsonderwijs, de scholengroepen en de schoolbesturen va
 
 ### ART. 41.
 
-Het werkingsbudget wordt uitbetaald aan het schoolbestuur van elke school. Het kan worden aangewend ten behoeve van al de scholen behorende tot hetzelfde schoolbestuur. Bij deze aanwending dient het schoolbestuur rekening te houden met een gelijke behandeling van zijn scholen en van de leerlingen of studenten die tot deze scholen behoren. <br /><br />De Vlaamse Regering bepaalt : <br />1° de wijze waarop de school zijn aanvraag tot financiering of subsidiëring indient; <br />2° de controlemaatregelen inzonderheid wat de aanwending van het werkingsbudget betreft. Deze controle mag evenwel geen betrekking hebben op de opportuniteit van de aanwending. (40)
+Het werkingsbudget wordt uitbetaald aan het schoolbestuur van elke school. Het kan worden aangewend ten behoeve van al de scholen behorende tot hetzelfde schoolbestuur. Bij deze aanwending dient het schoolbestuur rekening te houden met een gelijke behandeling van zijn scholen en van de leerlingen of studenten die tot deze scholen behoren.<br>
+<br>
+Het werkingsbudget op basis van de leerlingenkenmerken, zoals vermeld in artikel 242, kan enkel worden aangewend in het kader van een gelijke onderwijskansenbeleid.<br>
+<br>
+De Vlaamse Regering bepaalt :<br>
+1° de wijze waarop de school zijn aanvraag tot financiering of subsidiëring indient;<br>
+2° de controlemaatregelen inzonderheid wat de aanwending van het werkingsbudget betreft. Deze controle mag evenwel geen betrekking hebben op de opportuniteit van de aanwending. (40)
 
 ### ART. 42.
 
@@ -1104,7 +899,33 @@ In geval van overname van een school door een ander schoolbestuur, wordt het bed
 
 ### ART. 43.
 
-§ 1. De representatieve verenigingen van de schoolbesturen of schoolbesturen van de gesubsidieerde vrije scholen bepalen, voor de schoolbesturen of schoolbesturen die dit wensen, de boekhoudkundige verplichtingen inzake de vereenvoudigde boekhouding en de dubbele boekhouding zoals bepaald in artikel 17, § 4, van de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen. <br /><br />Deze boekhoudkundige verplichtingen dienen in bijkomende orde er mee rekening te houden dat de saldi, zoals bepaald conform het Europees Rekening Stelsel, door de Vlaamse Gemeenschap kunnen worden afgeleid uit de afgelegde rekeningen, zodat de Vlaamse Gemeenschap kan voldoen aan de terzake geldende Europese verplichtingen.<br /><br />§ 2. De onder § 1 bedoelde vereenvoudigde boekhouding omvat, rekening houdend met de aard en de omvang van de schoolbesturen, ten minste alle verrichtingen betreffende de mutaties in contant geld of op de rekeningen.<br /><br />§ 3. De onder § 1 bedoelde regels voor de vereenvoudigde boekhouding omvatten minimaal :<br />1° basisregels met betrekking tot het voeren van een vereenvoudigde boekhouding;<br />2° de staat van de ontvangsten en de uitgaven;<br />3° de jaarrekening;<br />4° de inventaris.<br /><br />§ 4. De onder § 1 bedoelde dubbele boekhouding omvat, rekening houdend met de aard en de omvang van de scholen, alle verrichtingen, bezittingen en schulden, rechten en verplichtingen van welke aard ook, betreffende de door de subsidiërende overheid verstrekte toelagen en de eigen middelen van elk schoolbestuur.<br /><br />§ 5. De onder § 1 bedoelde regels voor de economische boekhouding omvatten minimaal :<br />1° de vorm en de inhoud van de jaarrekening;<br />2° de waarderingsregels;<br />3° de structuur van de jaarrekening;<br />4° het schema van de balans;<br />5° het schema van de resultatenrekening;<br />6° de inhoud van de toelichting;<br />7° de inhoud van de rubrieken van de balans en van de resultatenrekening;<br />8° het minimum algemeen rekeningenstelsel.<br /><br />§ 6. De in § 1 bedoelde regels worden door elke representatieve vereniging van de schoolbesturen of schoolbesturen van de gesubsidieerde vrije scholen meegedeeld aan de Vlaamse Regering.<br /><br />§ 7. Voor de eerste maal vervullen de representatieve verenigingen van de schoolbesturen of schoolbesturen van de gesubsidieerde vrije scholen binnen 30 dagen na de inwerkingtreding van deze bepalingen, de in § 6 bedoelde verplichtingen. (42)
+§ 1. De representatieve verenigingen van de schoolbesturen of schoolbesturen van de gesubsidieerde vrije scholen bepalen, voor de schoolbesturen of schoolbesturen die dit wensen, de boekhoudkundige verplichtingen inzake de vereenvoudigde boekhouding en de dubbele boekhouding zoals bepaald in&nbsp;de wettelijke verplichtingen voor verenigingen zonder winstoogmerk.<br>
+<br>
+Deze boekhoudkundige verplichtingen dienen in bijkomende orde er mee rekening te houden dat de saldi, zoals bepaald conform het Europees Rekening Stelsel, door de Vlaamse Gemeenschap kunnen worden afgeleid uit de afgelegde rekeningen, zodat de Vlaamse Gemeenschap kan voldoen aan de terzake geldende Europese verplichtingen.<br>
+<br>
+§ 2. De onder § 1 bedoelde vereenvoudigde boekhouding omvat, rekening houdend met de aard en de omvang van de schoolbesturen, ten minste alle verrichtingen betreffende de mutaties in contant geld of op de rekeningen.<br>
+<br>
+§ 3. De onder § 1 bedoelde regels voor de vereenvoudigde boekhouding omvatten minimaal :<br>
+1° basisregels met betrekking tot het voeren van een vereenvoudigde boekhouding;<br>
+2° de staat van de ontvangsten en de uitgaven;<br>
+3° de jaarrekening;<br>
+4° de inventaris.<br>
+<br>
+§ 4. De onder § 1 bedoelde dubbele boekhouding omvat, rekening houdend met de aard en de omvang van de scholen, alle verrichtingen, bezittingen en schulden, rechten en verplichtingen van welke aard ook, betreffende de door de subsidiërende overheid verstrekte toelagen en de eigen middelen van elk schoolbestuur.<br>
+<br>
+§ 5. De onder § 1 bedoelde regels voor de economische boekhouding omvatten minimaal :<br>
+1° de vorm en de inhoud van de jaarrekening;<br>
+2° de waarderingsregels;<br>
+3° de structuur van de jaarrekening;<br>
+4° het schema van de balans;<br>
+5° het schema van de resultatenrekening;<br>
+6° de inhoud van de toelichting;<br>
+7° de inhoud van de rubrieken van de balans en van de resultatenrekening;<br>
+8° het minimum algemeen rekeningenstelsel.<br>
+<br>
+§ 6. De in § 1 bedoelde regels worden door elke representatieve vereniging van de schoolbesturen of schoolbesturen van de gesubsidieerde vrije scholen meegedeeld aan de Vlaamse Regering.<br>
+<br>
+§ 7. Voor de eerste maal vervullen de representatieve verenigingen van de schoolbesturen of schoolbesturen van de gesubsidieerde vrije scholen binnen 30 dagen na de inwerkingtreding van deze bepalingen, de in § 6 bedoelde verplichtingen. (42)
 
 ## [Onderafdeling 2. Naadloze flexibele trajecten onderwijs-welzijn (verv. decr. 3 juli 2015, art. 16, I: 1 september 2015)]
 
@@ -1148,6 +969,12 @@ De commissie garandeert dat een aanvankelijk als « onvoldoende » bevonden plan
 De Vlaamse Regering kan, afhankelijk van de beschikbare begrotingskredieten, voorzien in bijkomende financiering voor scholen met technisch of beroepsgerichte opleidingen die leiden tot de invulling van knelpuntberoepen, ten einde de kost voor leerlingen in voormelde opleidingen te verminderen. Op basis van criteria die verband houden met de kostprijzen van de opleidingen, bepaalt de Vlaamse Regering de lijst van opleidingen die voor deze bijkomende financiering in aanmerking komen en modaliteiten van deze bijkomende financiering. (47)
 
 ## [Onderafdeling 5. Extra financiering en subsidiëring in het kader van de maatregelen VV15 Digisprong en VV17 Van kwetsbaar naar weerbaar van het Vlaams relanceplan voor schooljaren 2021-2022 en 2022- 2023 (ing. decr. 9 juli 2021, art. 37, I: 1 september 2021)]
+
+### ART 48/1.
+
+§ 1. Ter uitvoering van de acties vervat in het speerpunt 1: een toekomstgerichte en veilige ICT-infrastructuur, speerpunt 2: een sterk ondersteunend en doeltreffend ICT-schoolbeleid, speerpunt 3: ICT-competente leerkrachten en lerarenopleiders en aangepaste digitale leermiddelen en speerpunt 4: een kennisen adviescentrum Digisprong ten dienste van het onderwijsveld binnen de maatregel VV 15 van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Digisprong. Van achterstand naar voorsprong, goedgekeurd op de ministerraad van de Vlaamse Regering van 11 december 2020 (VR 2020 1112 DOC.1425/2QUATER), kan de Vlaamse Regering voor de schooljaren 2021-2022 en 2022-2023 binnen de perken van de beschikbare deelenveloppe van 375 miljoen euro bijkomende werkingsbudgetten of investeringsmiddelen toekennen aan de scholen voor gewoon secundair onderwijs, scholen voor buitengewoon secundair onderwijs, centra voor deeltijds beroeps secundair onderwijs, centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, wat duaal leren en de leertijd betreft of, wat speerpunten 3 en 4 betreft, ter ondersteuning van deze scholen en centra. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.<br>
+<br>
+§ 2. Ter uitvoering van de acties vervat in het speerpunt 1: van achterstand naar voorsprong, speerpunt 2: versterking van leraren, lerarenopleiders en schoolleiders en speerpunt 3: bevorderen van het mentaal welzijn van leerlingen, scholieren en studenten binnen de maatregel VV 17 van het relanceplan Vlaamse Veerkracht, zoals opgenomen in de visienota Van kwetsbaar naar weerbaar, goedgekeurd op de ministerraad van de Vlaamse Regering van 7 mei 2021 (VR 2021 0705 VV DOC.0055-1 en 2), kan de Vlaamse Regering voor de schooljaren 2021-2022 en 2022-2023 binnen de perken van de beschikbare deelenveloppe van 90 miljoen euro desgevallend aangevuld met middelen uit de provisie versterking onderwijs en/of de AGODI-provisie bijkomende werkingsbudgetten of investeringsmiddelen toekennen aan de scholen voor gewoon secundair onderwijs, scholen voor buitengewoon secundair onder- wijs, centra voor deeltijds beroeps secundair onderwijs, centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, wat duaal leren en de leertijd betreft. De Vlaamse Regering stelt per actie de verdere modaliteiten vast.
 
 ## HOOFDSTUK 4. Scholengemeenschappen
 
@@ -1259,6 +1086,22 @@ De gewone leerlingencoëfficiënten tot vaststelling van het aantal wekelijkse u
 
 ...
 
+### ART 63/1.
+
+In een scholengemeenschap kunnen de betrokken schoolbesturen beslissen om één scholengemeenschapsinstelling op te richten.<br>
+<br>
+Voor zover de samenstelling van de scholengemeenschap niet wijzigt kan deze scholengemeenschapsinstelling niet opgeheven worden.<br>
+<br>
+Een voorwaarde voor de oprichting van deze scholengemeenschapsinstelling of in het geval van het vijfde lid de scholengemeenschapsinstellingen, is dat elk schoolbestuur uit de scholengemeenschap, voor wat betreft de betrokken scholengemeenschap, mede oprichter is van een scholengemeenschapsinstelling conform het derde, vierde of vijfde lid.<br>
+<br>
+Als de scholen van de scholengemeenschap tot hetzelfde schoolbestuur behoren dan is dit schoolbestuur verantwoordelijk voor de scholengemeenschapsinstelling.<br>
+<br>
+Als de scholen van de scholengemeenschap tot verschillende schoolbesturen behoren, wordt een rechtspersoon opgericht die verantwoordelijk is voor de scholengemeenschapsinstelling, vermeld in het eerste lid. Deze nieuwe rechtspersoon beperkt zich tot en heeft uitsluitend als doel om ten aanzien van de personeelsleden aangesteld of geaffecteerd aan de scholengemeenschapsinstelling de bevoegdheden uit te oefenen die zijn vastgelegd in het decreet Rechtspositie personeelsleden gemeenschapsonderwijs hetzij het decreet Rechtspositie personeelsleden gesubsidieerd onderwijs.<br>
+<br>
+In afwijking van het eerste en het vierde lid wordt er, als de scholen van de scholengemeenschap behoren tot schoolbesturen van verschillende onderwijsnetten en er door de betrokken schoolbesturen gekozen wordt voor de oprichting van scholengemeenschapsinstellingen, één scholengemeenschapsinstelling opgericht per onderwijsnet. De scholengemeenschapsinstelling behoort tot het betrokken onderwijsnet. Als de scholen, van het betrokken onderwijsnet in de scholengemeenschap tot hetzelfde schoolbestuur behoren dan is dit schoolbestuur verantwoordelijk voor de scholengemeenschapsinstelling. Als de scholen van het betrokken onderwijsnet in de scholengemeenschap tot verschillende schoolbesturen behoren, wordt voor die scholengemeenschap door alle betrokken schoolbesturen in de scholengemeenschap van dat onderwijsnet, een rechtspersoon opgericht die verantwoordelijk is voor de betrokken scholengemeenschapsinstelling. Deze nieuwe rechtspersoon beperkt zich tot en heeft uitsluitend als doel om ten aanzien van de personeelsleden aangesteld of geaffecteerd aan de scholengemeenschapsinstelling de bevoegdheden uit te oefenen die zijn vastgelegd in het decreet Rechtspositie personeelsleden gemeenschapsonderwijs hetzij het decreet Rechtspositie personeelsleden gesubsidieerd onderwijs.<br>
+<br>
+In scholengemeenschappen die conform dit artikel een scholengemeenschapsinstelling hebben opgericht maken de betrokken directies van de scholengemeenschap, binnen de geldende regelgeving, afspraken over de werking van deze scholengemeenschapsinstelling of -instellingen.
+
 ### ART. 64.
 
 § 1. Vastbenoemde directeurs en adjunct-directeurs van scholen van een scholengemeenschap, die door een herstructurering van scholen of van het onderwijsaanbod ter beschikking zijn gesteld of worden gesteld wegens ontstentenis van betrekking kunnen op persoonlijke titel worden tewerkgesteld in een niet-organieke personeelsformatie die aan de scholengemeenschap wordt toegevoegd, op voorwaarde dat deze personeelsleden volgens de reglementering inzake terbeschikkingstelling wegens ontstentenis van betrekking, reaffectatie en wedertewerkstelling, binnen de scholengemeenschap geen reaffectatie als directeur of adjunct-directeur of wedertewerkstelling als adjunct-directeur in een organiek ambt, kunnen bekomen. <br /><br />De aanstelling in de niet-organieke personeelsformatie schort alle reaffectatie- en wedertewerkstellingsverplichtingen buiten de scholengemeenschap op. De aanstelling wordt beschouwd als reaffectatie of wedertewerkstelling.<br /><br />§ 2. De personeelsformatie bedoeld in § 1 wordt samengesteld op basis van één personeelslid per schijf van 1.500 regelmatige leerlingen (in het voltijds gewoon secundair onderwijs, het deeltijds beroepssecundair onderwijs) op 1 februari van het voorafgaand schooljaar in de scholengemeenschap, met een maximum van vier personeelsleden per scholengemeenschap. <br /><br />§ 3. De § 1 en § 2 zijn ook van toepassing op directeurs en adjunct-directeurs die op 30 juni 1999 zijn wedertewerkgesteld in het ambt van directiesecretaris of onderdirecteur van de scholengemeenschap, op voorwaarde dat zij op 1 september 1999 personeelslid worden van een schoolbestuur binnen de scholengemeenschap. (63)
@@ -1301,7 +1144,7 @@ De Vlaamse Regering informeert de afgevaardigden van de schoolbesturen en de rep
 
 ### ART. 71.
 
-Deze onderafdeling is van toepassing op de scholengemeenschappen secundair onderwijs die uitsluitend bestaan uit scholen die behoren tot het gesubsidieerd officieel onderwijs. (70)
+Deze onderafdeling is van toepassing op de scholengemeenschappen secundair onderwijs die uitsluitend bestaan uit scholen die behoren tot het gesubsidieerd officieel onderwijs, in voorkomend geval aangevuld met een scholengemeenschapsinstelling, zoals vermeld in artikel 63/1.
 
 ### ART. 72.
 
@@ -1329,7 +1172,10 @@ Ze hebben bovendien ten minste jaarlijks recht op inlichtingen in verband met de
 1° inlichtingen over de evolutie van het aantal leerlingen in de scholen van de scholengemeenschap en de weerslag ervan op tewerkstelling en infrastructuur in de scholen die tot de scholengemeenschap behoren;<br>
 2° inlichtingen over de structuur van de scholen die tot de scholengemeenschap behoren, inclusief over de mogelijke structuurwijzigingen die een weerslag kunnen hebben op de arbeidsomstandigheden en/of tewerkstelling;<br>
 3° inlichtingen over het personeelsverloop in de scholen van de scholengemeenschap;<br>
-4° het aantal tijdelijke personeelsleden met een aanstelling voor bepaalde duur dat in de scholen van de scholengemeenschap het recht op een tijdelijke aanstelling van doorlopende duur verwerft op basis van een positieve beoordeling en het aantal tijdelijke personeelsleden met een aanstelling voor bepaalde duur dat op basis van de beoordeling een verslag met werkpunten krijgt, met binnen die laatste groep een opsplitsing tussen de personeelsleden die daarna een nieuwe aanstelling verkrijgen en de personeelsleden die daarna geen nieuwe aanstelling verkrijgen.<br>
+4° inlichtingen over het aantal tijdelijke personeelsleden met een aanstelling voor bepaalde duur dat in de scholen van de scholengemeenschap:<br>
+- het recht op een tijdelijke aanstelling van doorlopende duur verwerft op basis van een positieve beoordeling of dat geen beoordeling heeft gekregen;<br>
+- het recht op een tijdelijke aanstelling van doorlopende duur nog niet verwerft wegens een beoordeling met werkpunten, met binnen die groep een opsplitsing tussen de personeelsleden die daarna een nieuwe aanstelling verkrijgen en de personeelsleden die daarna geen nieuwe aanstelling verkrijgen;<br>
+- het recht op een tijdelijke aanstelling van doorlopende duur niet verwerft wegens een negatieve beoordeling.<br>
 <br>
 § 3. De afgevaardigden van de schoolbesturen moeten aan de leden van het OCSG inlichtingen verstrekken over beslissingen die een belangrijke weerslag kunnen hebben op de personeelsleden van de scholen van de scholengemeenschap.<br>
 <br>
@@ -1365,7 +1211,8 @@ De werkingskosten van het OCSG komen ten laste van de schoolbesturen. (81)
 
 ### ART. 83.
 
-Deze onderafdeling is van toepassing op de netoverschrijdende scholengemeenschappen die uitsluitend bestaan uit scholen die secundair onderwijs inrichten. (82)<br /><br />
+Deze onderafdeling is van toepassing op de netoverschrijdende scholengemeenschappen die uitsluitend bestaan uit scholen die secundair onderwijs inrichten, eventueel aangevuld met een scholengemeenschapsinstelling, zoals vermeld in artikel 63/1.<br>
+&nbsp;
 
 ### ART. 84.
 
@@ -1393,7 +1240,10 @@ Ze hebben bovendien ten minste jaarlijks recht op inlichtingen in verband met de
 1° inlichtingen over de evolutie van het aantal leerlingen in de scholen van de scholengemeenschap en de weerslag ervan op tewerkstelling en infrastructuur in de scholen die tot de scholengemeenschap behoren;<br>
 2° inlichtingen over de structuur van de scholen die tot de scholengemeenschap behoren, inclusief over de mogelijke structuurwijzigingen die een weerslag kunnen hebben op de arbeidsomstandigheden en/of tewerkstelling;<br>
 3° inlichtingen over het personeelsverloop in de scholen van de scholengemeenschap;<br>
-4° het aantal tijdelijke personeelsleden met een aanstelling voor bepaalde duur dat in de scholen van de scholengemeenschap het recht op een tijdelijke aanstelling van doorlopende duur verwerft op basis van een positieve beoordeling en het aantal tijdelijke personeelsleden met een aanstelling voor bepaalde duur dat op basis van de beoordeling een verslag met werkpunten krijgt, met binnen die laatste groep een opsplitsing tussen de personeelsleden die daarna een nieuwe aanstelling verkrijgen en de personeelsleden die daarna geen nieuwe aanstelling verkrijgen.<br>
+4° inlichtingen over het aantal tijdelijke personeelsleden met een aanstelling voor bepaalde duur dat in de scholen van de scholengemeenschap:<br>
+- het recht op een tijdelijke aanstelling van doorlopende duur verwerft op basis van een positieve beoordeling of dat geen beoordeling heeft gekregen;<br>
+- het recht op een tijdelijke aanstelling van doorlopende duur nog niet verwerft wegens een beoordeling met werkpunten, met binnen die groep een opsplitsing tussen de personeelsleden die daarna een nieuwe aanstelling verkrijgen en de personeelsleden die daarna geen nieuwe aanstelling verkrijgen;<br>
+- het recht op een tijdelijke aanstelling van doorlopende duur niet verwerft wegens een negatieve beoordeling.<br>
 <br>
 § 3. De afgevaardigden van de schoolbesturen moeten aan de leden van het OCSG inlichtingen verstrekken over beslissingen die een belangrijke weerslag kunnen hebben op de personeelsleden van de scholen van de scholengemeenschap.<br>
 <br>
@@ -1517,7 +1367,7 @@ Het niet-naleven van de bepalingen inzake vrijstelling van de keuze inzake leven
 
 ### ART 110/0.
 
-De bepalingen in hoofdstuk 1/1 en 1/2 zijn enkel nog van toepassing voor de inschrijvingen in het secundair onderwijs voor het schooljaar 2019-2020, 2020-2021 en 2021-2022.
+De bepalingen in hoofdstuk 1/1 en 1/2 zijn enkel nog van toepassing voor de inschrijvingen in het secundair onderwijs voor het schooljaar 2019-2020, 2020-2021, 2021-2022 en 2022-2023.
 
 ### ART. 110/1.
 
@@ -1910,6 +1760,8 @@ In afwijking van het eerste lid kunnen een schoolbestuur, verschillende schoolbe
 <br>
 In afwijking van het eerste lid kunnen een schoolbestuur, verschillende schoolbesturen samen of het LOP uiterlijk op 15 november 2020 een voorstel van aanmeldingsprocedure voor de inschrijvingen voor het schooljaar 2021-2022 aan de CLR voorleggen.<br>
 <br>
+In afwijking van het eerste lid kunnen een schoolbestuur, verschillende schoolbesturen samen of het LOP uiterlijk op 15 november 2021 een voorstel van aanmeldingsprocedure voor de inschrijvingen voor het schooljaar 2022-2023 aan de CLR voorleggen.<br>
+<br>
 § 2. Het dossier daartoe bevat ten minste de volgende onderdelen :<br>
 1° de start en de duur van de aanmeldingsperiode of alle deelperiodes en de motivering ervan, overeenkomstig artikel 110/19;<br>
 2° het middel of de middelen tot aanmelden;<br>
@@ -1951,7 +1803,7 @@ c) de mededeling van de niet-gerealiseerde inschrijvingen.<br>
 1° een aangepast voorstel van aanmeldingsprocedure indienen bij de CLR. In dat geval toetst de CLR het voorstel overeenkomstig artikel 110/25, § 3. De CLR neemt over het aangepaste voorstel van aanmeldingsprocedure een besluit uiterlijk dertig kalenderdagen volgend op de dag van de indiening ervan;<br>
 2° het voorstel van aanmeldingsprocedure, vermeld in artikel 110/25, voorleggen aan de Vlaamse Regering. In dat geval toetst de Vlaamse Regering het voorstel overeenkomstig artikel 110/25, § 3. De Vlaamse Regering neemt over het voorstel van aanmeldingsprocedure een besluit uiterlijk dertig kalenderdagen volgend op de dag van de indiening ervan. De Vlaamse Regering bepaalt de nadere regels inzake het verloop van de procedure.<br>
 <br>
-In afwijking van het eerste lid, kan het betrokken schoolbestuur, de meerdere betrokken schoolbesturen samen of het betrokken LOP, uiterlijk op 31&nbsp;januari 2021 de initiatieven nemen zoals bepaald in het eerste lid, 1° en 2°.<br>
+In afwijking van het eerste lid, kan het betrokken schoolbestuur, de meerdere betrokken schoolbesturen samen of het betrokken LOP, uiterlijk op 31&nbsp;januari 2022 de initiatieven nemen zoals bepaald in het eerste lid, 1° en 2°.<br>
 <br>
 § 2. Bij een negatief besluit van de CLR over het overeenkomstig paragraaf 1, 1° voorgelegde aangepast voorstel van aanmeldingsprocedure, kan het betrokken schoolbestuur, de meerdere betrokken schoolbesturen samen of het betrokken LOP uiterlijk dertig kalenderdagen na ontvangst van het negatief besluit het aangepast voorstel van aanmeldingsprocedure of het voorstel van aanmeldingsprocedure, vermeld in artikel 110/25, voorleggen aan de Vlaamse Regering. In dat geval toetst de Vlaamse Regering het voorstel overeenkomstig artikel 110/25, § 3.<br>
 <br>
@@ -2112,7 +1964,7 @@ c) de afspraken met betrekking tot het decretaal aan scholen en centra opgelegde
 12° de basisprincipes van het schoolbeleid met betrekking tot reclame en sponsoring;<br>
 13° een engagementsverklaring waarin wederzijdse afspraken worden opgenomen over oudercontact, regelmatige aanwezigheid en spijbelbeleid, vormen van individuele leerlingenbegeleiding en het positieve engagement ten aanzien van de onderwijstaal;<br>
 14° de vermelding dat bij schoolverandering leerlingengegevens worden overgedragen naar de nieuwe school tenzij, en voor zover de regelgeving de overdracht niet verplicht stelt, de betrokken personen er zich expliciet tegen verzetten na op hun verzoek deze gegevens te hebben ingezien;<br>
-15° de mededeling dat de school bij schoolverandering verplicht is een kopie van het eventueel gemotiveerd verslag, vermeld in artikel 352, en een kopie van het eventueel verslag, vermeld in artikel 294, § 2 tot en met § 10, over te dragen aan de nieuwe school;<br>
+15° de mededeling dat de school bij schoolverandering verplicht is het bestaan van een handelingsgericht advies voor ondersteuning vanuit het ondersteuningsmodel of een kopie van het eventuele verslag, vermeld in artikel 294, § 2 tot en met § 10, bekend te maken of over te dragen aan de nieuwe school;<br>
 16° de contactgegevens van het centrum voor leerlingenbegeleiding waarmee de school of het centrum voor deeltijds beroepssecundair onderwijs samenwerkt en de concrete afspraken over de dienstverlening van de leerlingenbegeleiding;<br>
 17° de krachtlijnen inzake de visie en werking van de school of het centrum van deeltijds beroepssecundair onderwijs binnen het gevoerde beleid op leerlingenbegeleiding;<br>
 18° de vermelding dat de betrokken personen, in voorkomend geval, de school onmiddellijk op de hoogte brengen van het feit dat de medische toestand van de leerling die is ingeschreven in een opleiding waar voedingsmiddelen worden verwerkt, een risico inhoudt op (on)rechtstreekse verontreiniging van levensmiddelen, met als gevolg dat na beslissing van de school de leerling hetzij tijdelijk bepaalde programmaonderdelen niet mag volgen, hetzij de opleiding in zijn geheel niet langer mag volgen en naar een andere opleiding moet overstappen. Daarbij wordt eveneens vermeld dat de gegevens over de medische toestand worden verwerkt onder de verantwoordelijkheid van de schooldirecteur en dat de schooldirecteur en de personeelsleden van de school die deze gegevens over de medische toestand verwerken, gehouden zijn tot geheimhouding over deze gegevens.<br>
@@ -2162,7 +2014,7 @@ De Vlaamse Regering bepaalt de voorwaarden en de procedure, met inbegrip   van e
 
 ### ART. 115/5.
 
-Een beslissing van de delibererende klassenraad waartegen de betrokken personen geen beroep of een niet ontvankelijk beroep hebben ingesteld, kan door het schoolbestuur omstreden worden geacht. In dat geval kan het schoolbestuur de klassenraad opnieuw doen samenkomen om de omstreden beslissing te heroverwegen. Het opnieuw samenkomen dient te gebeuren hetzij uiterlijk op 15 september van het daaropvolgend schooljaar, hetzij uiterlijk op 15 maart van het schooljaar in kwestie als de omstreden beslissing betrekking heeft op een Se-n-Se die eindigt op 31 januari. In het geval de dan genomen beslissing afwijkt van de omstreden beslissing, wordt ze schriftelijk en gemotiveerd onmiddellijk aan de betrokken personen meegedeeld.
+Een beslissing van de delibererende klassenraad waartegen de betrokken personen geen beroep of een niet ontvankelijk beroep hebben ingesteld, kan door het schoolbestuur omstreden worden geacht. In dat geval kan het schoolbestuur de klassenraad opnieuw doen samenkomen om de omstreden beslissing te heroverwegen. Het opnieuw samenkomen dient te gebeuren uiterlijk op 31 augustus van het schooljaar in kwestie. In afwijking hiervan is dat uiterlijk 15 februari van het schooljaar in kwestie als de omstreden beslissing betrekking heeft op een Se-n-Se die eindigt op 31 januari. In het geval de dan genomen beslissing afwijkt van de door het schoolbestuur omstreden beslissing, wordt ze schriftelijk en gemotiveerd onmiddellijk aan de betrokken personen meegedeeld. Als die afwijkende beslissing door de betrokken personen omstreden is, kunnen ze beroep instellen, waarbij de bepalingen van artikel 123/15 tot en met 123/18 van toepassing zijn.
 
 ### ART. 115/6.
 
@@ -2297,9 +2149,9 @@ Bij verandering van onderwijsinstelling door een leerling worden tussen de betro
 1° de gegevens hebben enkel betrekking op de leerlingspecifieke onderwijsloopbaan, meer bepaald de essentiële gegevens die de studieresultaten en de studievoortgang van de leerling bevorderen, monitoren, evalueren en attesteren;<br>
 2° de overdracht gebeurt enkel in het belang van de persoon op wie de onderwijsloopbaan betrekking heeft;<br>
 3° tenzij de regelgeving de overdracht verplicht stelt, gebeurt de overdracht niet indien de betrokken personen er zich expliciet tegen verzetten na, op hun verzoek, de gegevens te hebben ingezien;<br>
-4° een kopie van het verslag of gemotiveerd verslag van een CLB in het kader van het decreet betreffende maatregelen voor leerlingen met specifieke onderwijsbehoeften dient verplicht te worden overgedragen door de oude school aan de nieuwe school. Tevens zal het CLB dat verbonden was aan de oude school een kopie van het verslag of gemotiveerd verslag verplicht overdragen aan het CLB, dat verbonden is met de nieuwe school. In het belang van de optimale begeleiding van de betrokken leerling en de organisatie van de school kunnen ouders zich tegen deze overdracht niet verzetten.<br>
+4° een kopie van het verslag wordt door de oude school overgedragen aan de nieuwe school of de oude school brengt de nieuwe school op de hoogte van het bestaan van een handelingsgericht advies van het CLB voor ondersteuning vanuit het ondersteuningsmodel. Het CLB dat verbonden is aan de oude school draagt een verslag over aan het CLB dat verbonden is met de nieuwe school of het CLB dat verbonden is aan de oude school brengt het CLB dat verbonden is met de nieuwe school op de hoogte van het handelingsgericht advies. In het belang van de optimale begeleiding van de betrokken leerling en de organisatie van de school kunnen ouders zich tegen die overdrachten niet verzetten;<br>
 5° het schoolbestuur van de onderwijsinstelling of de gemandateerde is verwerkingsverantwoordelijke voor de verwerkingen van de persoonsgegevens voor de looptijd dat deze bewaard dienen te worden;<br>
-6° het centrumbestuur of de gemandateerde van het CLB dat het verslag of gemotiveerd verslag, vermeld in punt 4°, heeft opgesteld is verwerkingsverantwoordelijke voor de verwerkingen door of ter voorbereiding van het verslag of gemotiveerd verslag. Het centrumbestuur of de gemandateerde van het overnemende CLB is verwerkingsverantwoordelijke voor de verwerkingen na ontvangst van het verslag of gemotiveerd verslag.<br>
+6° het centrumbestuur van het CLB dat het verslag of het handelingsgericht advies voor ondersteuning vanuit het ondersteuningsmodel, vermeld in punt 4°, heeft opgesteld, is verwerkingsverantwoordelijke voor de verwerkingen door of ter voorbereiding van het verslag of handelingsgericht advies voor ondersteuning vanuit het ondersteuningsmodel. Het centrumbestuur van het overnemende CLB is verwerkingsverantwoordelijke voor de verwerkingen na de ontvangst van het verslag of handelingsgericht advies voor ondersteuning vanuit het ondersteuningsmodel.<br>
 <br>
 De Vlaamse Regering kan de regels bepalen omtrent de opslagperioden en de verwerkingsactiviteiten en procedures, waaronder maatregelen om te zorgen voor een behoorlijke, veilige en transparante verwerking.
 
@@ -2402,14 +2254,14 @@ Bij overschrijding van deze termijn is de omstreden definitieve uitsluiting van 
 <br>
 In een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen wordt een beroepscommissie ingesteld door het centrumbestuur.<br>
 <br>
-§ 2. In het secundair onderwijs bepaalt het school- of centrumbestuur de samenstelling van een beroepscommissie, met inachtneming van volgende bepalingen:<br>
+§ 2. In het secundair onderwijs bepaalt het school- of centrumbestuur of zijn afgevaardigde de samenstelling van een beroepscommissie, met inachtneming van volgende bepalingen:<br>
 1° de samenstelling kan per te behandelen dossier verschillen, doch kan binnen het te behandelen dossier niet wijzigen;<br>
 2° de samenstelling is als volgt: enerzijds "interne leden", zijnde leden van het school- of centrumbestuur of van de school of het centrum voor deeltijds beroepssecundair onderwijs waar de betwiste beslissing tot definitieve uitsluiting is genomen, met uitzondering van de directeur of zijn afgevaardigde die de beslissing heeft genomen; anderzijds "externe leden", zijnde personen die extern zijn aan het school- of centrumbestuur en aan de school of het centrum voor deeltijds beroepssecundair onderwijs waar de betwiste beslissing tot definitieve uitsluiting is genomen.<br>
 In voorkomend geval en voor de toepassing van deze bepalingen:<br>
 a) wordt onder lid van het school- of centrumbestuur een lid verstaan van het orgaan dat de verantwoordelijkheid voor het georganiseerde onderwijs draagt;<br>
 b) wordt een persoon die vanuit zijn hoedanigheden zowel een intern lid als een extern lid is, geacht een intern lid te zijn;<br>
 c) wordt een lid van de ouderraad, de leerlingenraad of, met uitzondering van het personeel, de schoolraad van de school of het centrum waar de betwiste beslissing tot definitieve uitsluiting is genomen, geacht een extern lid te zijn, tenzij de bepaling vermeld in punt b) van toepassing is;<br>
-3° de voorzitter wordt door het school- of centrumbestuur onder de externe personen aangeduid.<br>
+3° de voorzitter wordt door het school- of centrumbestuur of zijn afgevaardigde onder de externe personen aangeduid.<br>
 <br>
 In het secundair onderwijs bepaalt het school- of centrumbestuur de werking, met inbegrip van de stemprocedure, van een beroepscommissie, met inachtneming van volgende bepalingen:<br>
 1° elk lid van een beroepscommissie is in beginsel stemgerechtigd, met dien verstande dat bij stemming het aantal stemgerechtigde interne leden van de beroepscommissie en het aantal stemgerechtigde externe leden van de beroepscommissie gelijk moet zijn; bij staking van stemmen is de stem van de voorzitter doorslaggevend;<br>
@@ -2419,10 +2271,10 @@ In het secundair onderwijs bepaalt het school- of centrumbestuur de werking, met
 5° de werking van een beroepscommissie kan geen afbreuk doen aan de statutaire rechten van de individuele personeelsleden van het onderwijs;<br>
 6° een beroepscommissie oordeelt of de genomen beslissing alleszins in overeenstemming is met de decretale en reglementaire onderwijsbepalingen en met het school- of centrumreglement.<br>
 <br>
-§ 3. In een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen bepaalt het centrumbestuur de samenstelling van een beroepscommissie, met inachtneming van volgende bepalingen:<br>
+§ 3. In een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen bepaalt het centrumbestuur of zijn afgevaardigde de samenstelling van een beroepscommissie, met inachtneming van volgende bepalingen:<br>
 1° de samenstelling kan per te behandelen dossier verschillen, doch kan binnen het te behandelen dossier niet wijzigen;<br>
 2° de samenstelling is als volgt: enerzijds "interne leden", zijnde leden van het centrumbestuur of het centrum waar de betwiste beslissing tot definitieve uitsluiting is genomen, met uitzondering van de directeur-afgevaardigd bestuurder of zijn afgevaardigde die de beslissing heeft genomen; anderzijds "externe leden", zijnde personen die extern zijn aan het centrumbestuur en het centrum waar de betwiste beslissing tot definitieve uitsluiting is genomen;<br>
-3° de voorzitter wordt door het centrumbestuur onder de externe personen aangeduid.<br>
+3° de voorzitter wordt door het centrumbestuur of zijn afgevaardigde onder de externe personen aangeduid.<br>
 <br>
 In een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen bepaalt het centrumbestuur de werking, met inbegrip van de stemprocedure, van een beroepscommissie, met inachtneming van volgende bepalingen:<br>
 1° elk lid van een beroepscommissie is in beginsel stemgerechtigd, met dien verstande dat bij stemming het aantal stemgerechtigde interne leden van de beroepscommissie en het aantal stemgerechtigde externe leden van de beroepscommissie gelijk moet zijn; bij staking van stemmen is de stem van de voorzitter doorslaggevend;<br>
@@ -2469,14 +2321,14 @@ b) het beroep niet voldoet aan de vormvereisten opgenomen in het school- of cent
 <br>
 In de leertijd wordt een beroepscommissie ingesteld door het centrumbestuur.<br>
 <br>
-§ 2. In het secundair onderwijs bepaalt het school- of centrumbestuur de samenstelling van een beroepscommissie, met inachtneming van volgende bepalingen:<br>
+§ 2. In het secundair onderwijs bepaalt het school- of centrumbestuur of zijn afgevaardigde de samenstelling van een beroepscommissie, met inachtneming van volgende bepalingen:<br>
 1° de samenstelling kan per te behandelen dossier verschillen, doch kan binnen het te behandelen dossier niet wijzigen;<br>
 2° de samenstelling is als volgt: enerzijds "interne leden", zijnde leden van de klassenraad, waaronder alleszins de voorzitter van de klassenraad, die de betwiste evaluatiebeslissing heeft genomen, en eventueel een lid van het school- of centrumbestuur; anderzijds "externe leden", zijnde personen die extern zijn aan het school- of centrumbestuur en aan de school of het centrum voor deeltijds beroepssecundair onderwijs waar de betwiste evaluatiebeslissing is genomen.<br>
 In voorkomend geval en voor de toepassing van deze bepalingen:<br>
 a) wordt onder een lid van het school- of centrumbestuur een lid verstaan van het orgaan dat de verantwoordelijkheid voor het georganiseerde onderwijs draagt;<br>
 b) wordt een persoon die vanuit zijn hoedanigheden zowel een intern lid als een extern lid is, geacht een intern lid te zijn;<br>
 c) wordt een lid van de ouderraad, de leerlingenraad of, met uitzondering van het personeel, de schoolraad van de school of het centrum waar de betwiste evaluatiebeslissing is genomen, geacht een extern lid te zijn, tenzij de bepaling vermeld in punt b) van toepassing is;<br>
-3° de voorzitter wordt door het school- of centrumbestuur onder de externe personen aangeduid.<br>
+3° de voorzitter wordt door het school- of centrumbestuur of zijn afgevaardigde onder de externe personen aangeduid.<br>
 <br>
 In het secundair onderwijs bepaalt het school- of centrumbestuur de werking, met inbegrip van de stemprocedure, van een beroepscommissie, met inachtneming van volgende bepalingen:<br>
 1° elk lid van een beroepscommissie is in beginsel stemgerechtigd, met dien verstande dat bij stemming het aantal stemgerechtigde interne leden van de beroepscommissie en het aantal stemgerechtigde externe leden van de beroepscommissie gelijk moet zijn; bij staking van stemmen is de stem van de voorzitter doorslaggevend;<br>
@@ -2489,10 +2341,10 @@ c) het, in voorkomend geval, organiseren van de bijkomende proeven of opdrachten
 5° de werking van een beroepscommissie kan geen afbreuk doen aan de statutaire rechten van individuele personeelsleden van het onderwijs;<br>
 6° een beroepscommissie oordeelt of de genomen beslissing alleszins in overeenstemming is met de decretale en reglementaire onderwijsbepalingen en met het school- of centrumreglement.<br>
 <br>
-§ 3. In de leertijd bepaalt het centrumbestuur de samenstelling van een beroepscommissie, met inachtneming van volgende bepalingen:<br>
+§ 3. In de leertijd bepaalt het centrumbestuur of zijn afgevaardigde de samenstelling van een beroepscommissie, met inachtneming van volgende bepalingen:<br>
 1° de samenstelling kan per te behandelen dossier verschillen, doch kan binnen het te behandelen dossier niet wijzigen;<br>
 2° de samenstelling is als volgt: enerzijds "interne leden", zijnde leden van de klassenraad, waaronder alleszins de voorzitter van de klassenraad die de betwiste evaluatiebeslissing heeft genomen en eventueel een lid van het centrumbestuur in kwestie; anderzijds "externe leden", zijnde personen die extern zijn aan het centrumbestuur en aan het centrum waar de betwiste evaluatiebeslissing is genomen. Voor de toepassing van deze bepalingen, wordt een persoon die vanuit zijn hoedanigheden zowel een intern lid als een extern lid is, geacht een intern lid te zijn;<br>
-3° de voorzitter wordt door het centrumbestuur onder de externe personen aangeduid.<br>
+3° de voorzitter wordt door het centrumbestuur of zijn afgevaardigde onder de externe personen aangeduid.<br>
 <br>
 In een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen bepaalt het centrumbestuur de werking, met inbegrip van de stemprocedure, van een beroepscommissie, met inachtneming van volgende bepalingen:<br>
 1° elk lid van een beroepscommissie is in beginsel stemgerechtigd, met dien verstande dat bij stemming het aantal stemgerechtigde interne leden van de beroepscommissie en het aantal stemgerechtigde externe leden van de beroepscommissie gelijk moet zijn; bij staking van stemmen is de stem van de voorzitter doorslaggevend;<br>
@@ -2772,11 +2624,72 @@ In de matrix:<br>
 1° worden ook het studieaanbod van het deeltijds beroepssecundair onderwijs en de leertijd en het studieaanbod van het buitengewoon secundair onderwijs, opleidingsvorm 3, opgenomen onder de finaliteit arbeidsmarkt;<br>
 2° wordt ook het buitengewoon secundair onderwijs, opleidingsvorm 1 en 2, opgenomen, maar buiten de ordening op basis van studiedomeinen, finaliteiten en onderwijsvormen;<br>
 3° wordt het onthaaljaar niet opgenomen;<br>
-4° wordt het Se-n-Se niet aan onderwijsvormen gekoppeld.<br>
+4° wordt het Se-n-Se niet aan onderwijsvormen gekoppeld, behoudens bij financiering als die ook voor andere structuuronderdelen dan Se-n-Se op onderwijsvormen is gebaseerd.<br>
 <br>
 Met inachtname van het eerste tot en met het achtste lid legt de Vlaamse Regering de matrix vast.<br>
 <br>
 De Vlaamse Regering bepaalt ook de niche-studierichtingen en de beperkingen of voorwaarden die, per niche-studierichting, aan het aanbod zijn gekoppeld.<br>
+<br>
+§1/1. De studierichtingen van de tweede en de derde graad die zijn opgenomen in de matrix, worden geordend volgens disciplines met het oog op de financiering van het voltijds gewoon secundair onderwijs. Een discipline bundelt een groep van inhoudelijk verwante studierichtingen per onderwijsvorm.<br>
+<br>
+De onderwijsvorm:<br>
+1° "aso": omvat alle domeinoverschrijdende studierichtingen uit de doorstroomfinaliteit;<br>
+2° "tso": omvat alle domeingebonden studierichtingen uit de doorstroomen dubbele finaliteit die niet onder punt 3° vallen;<br>
+3° "kso": omvat alle domeingebonden studierichtingen uit de doorstroomen dubbele finaliteit die niet onder punt 2° vallen;<br>
+4° "bso": omvat alle studierichtingen uit de arbeidsmarktfinaliteit.<br>
+<br>
+Die disciplines zijn:<br>
+1° Klassiek aso;<br>
+2° Modern aso;<br>
+3° Sport aso;<br>
+4° Architectuur en beeldende kunst kso;<br>
+5° Grafische technieken en media kso;<br>
+6° Modecreatie kso;<br>
+7° Podiumkunsten kso;<br>
+8° Administratie en distributie tso;<br>
+9° Auto en tweewielers tso;<br>
+10° Biotechnologie en chemie tso;<br>
+11° Grafische technieken en media tso;<br>
+12° Horeca tso;<br>
+13° Hout en bouw tso;<br>
+14° Koeling en warmte tso;<br>
+15° Landen tuinbouw tso;<br>
+16° Lichaamsverzorging tso;<br>
+17° Maatschappelijke veiligheid so;<br>
+18° Maritiem tso;<br>
+19° Mechanica-elektriciteit tso;<br>
+20° Modecreatie tso;<br>
+21° Paramedisch tso;<br>
+22° Personenzorg tso;<br>
+23° Sport tso;<br>
+24° Technologie en industrie tso;<br>
+25° Textiel tso;<br>
+26° Toerisme, taal en cultuur tso;<br>
+27° Voeding tso;<br>
+28° Administratie en distributie bso;<br>
+29° Auto en tweewielers bso;<br>
+30° Biotechnologie en chemie bso;<br>
+31° Creatie en ambacht bso;<br>
+32° Grafische technieken en media bso;<br>
+33° Horeca bso;<br>
+34° Hout en bouw bso;<br>
+35° Koeling en warmte bso;<br>
+36° Landen tuinbouw bso;<br>
+37° Lichaamsverzorging bso<br>
+38° Maatschappelijke veiligheid bso;<br>
+39° Maritiem bso;<br>
+40° Mechanica-elektriciteit bso;<br>
+41° Modecreatie bso;<br>
+42° Moderealisatie en textielverzorging bso;<br>
+43° Paramedisch bso;<br>
+44° Personenzorg bso;<br>
+45° Sport bso;<br>
+46° Technologie en industrie bso;<br>
+47° Textiel bso;<br>
+48° Toerisme, taal en cultuur bso;<br>
+49° Voeding bso.<br>
+<br>
+De Vlaamse Regering rangschikt de studierichtingen, vermeld in het eerste lid, in de disciplines, vermeld in het derde lid.<br>
 <br>
 § 2. De studierichtingen van de finaliteit doorstroom en de dubbele finaliteit leiden in het tweede leerjaar van de derde graad tot een bewijs van onderwijskwalificatie niveau 4.<br>
 <br>
@@ -2991,7 +2904,7 @@ Ontwikkelingsdoelen zijn minimumdoelen uitsluitend voor de leerlingenpopulatie v
 
 ### ART. 142.
 
-De voor een structuuronderdeel toepasbare eindtermen of ontwikkelingsdoelen vormen de basisvorming binnen het lessenrooster. Voor het onderwijs in godsdienst, niet-confessionele zedenleer, cultuurbeschouwing en eigen cultuur en religie, dat in voorkomend geval tot de basisvorming behoort, zijn er geen eindtermen of ontwikkelingsdoelen.
+Eindtermen of ontwikkelingsdoelen vormen de basisvorming voor een groep van structuuronderdelen. Voor het onderwijs in godsdienst, niet-confessionele zedenleer, cultuurbeschouwing en eigen cultuur en religie, dat in voorkomend geval tot de basisvorming behoort, zijn er geen eindtermen of ontwikkelingsdoelen.
 
 ### ART. 143.
 
@@ -3009,7 +2922,7 @@ De eindtermen, de uitbreidingsdoelen Nederlands, de ontwikkelingsdoelen en de sp
 
 ### ART. 144.
 
-De specifieke eindtermen en de erkende beroepskwalificaties worden verworven door middel van het specifieke gedeelte van een opleiding of studierichting. Het specifieke gedeelte van de opleiding of studierichting wordt gedefinieerd als het gedeelte dat niet behoort tot de basisvorming of tot het complementaire gedeelte.
+Specifieke eindtermen en erkende beroepskwalificaties zijn specifiek voor afzonderlijke structuuronderdelen.
 
 ### ART. 145.
 
@@ -3107,6 +3020,8 @@ Leerplannen worden door de onderwijsverstrekkers ingediend bij de onderwijsinspe
 <br>
 § 2. In afwijking op paragraaf 1, vormen curriculumdossiers niet de basis voor het opstellen van de leerplannen godsdienst, niet-confessionele zedenleer, cultuurbeschouwing en eigen cultuur en religie en dienen deze leerplannen niet door de Vlaamse Regering te worden goedgekeurd. Deze leerplannen worden publiek bekendgemaakt.<br>
 <br>
+In afwijking van paragraaf 1, derde lid, mag in het schooljaar 2022-2023 een schoolbestuur leerplannen toepassen die, in voorkomend geval, aansluiten bij de door het Vlaams Parlement goedgekeurde vervangende eindtermen van de tweede graad, vermeld in artikel 146, § 5, zonder dat die leerplannen door de Vlaamse Regering zijn goedgekeurd.<br>
+<br>
 § 3. Alle leerplannen, met inbegrip van de leerplannen godsdienst, niet-confessionele zedenleer, cultuurbeschouwing of eigen cultuur en religie zijn in overeenstemming met de internationale en grondwettelijke beginselen inzake de rechten van de mens en van het kind in het bijzonder en respecteren de goedgekeurde eindtermen en ontwikkelingsdoelen. De leerplannen godsdienst, niet-confessionele zedenleer, cultuurbeschouwing en eigen cultuur en religie respecteren tevens de interlevensbeschouwelijke competenties.<br>
 <br>
 De directeur kan de levensbeschouwelijke leerlingengroepen tijdens de levensbeschouwelijke les bezoeken om administratieve redenen, om algemeen pedagogische redenen, om na te gaan of de grondwettelijke rechten en vrijheden gevrijwaard worden of voor een bespreking met de leerlingen. De directeur - of een ander personeelslid dat aangesteld is als evaluator - kan de les ook bijwonen, gelet op zijn bevoegdheid als evaluator voor niet-vakinhoudelijke en niet-vaktechnische aspecten.<br>
@@ -3177,7 +3092,9 @@ De bepalingen van deze afdeling treden progressief, leerjaar na leerjaar te begi
 
 ### ART 157/3.
 
-Het lessenrooster is het weekrooster, opgebouwd uit vakken of vakkenclusters, waarin de doelen van het curriculumdossier en het aansluitende leerplan worden gerangschikt. Met inachtname van de bepalingen van deze afdeling stelt het schoolbestuur het weekrooster vast.
+Het lessenrooster is het weekrooster, opgebouwd uit vakken of vakkenclusters, waarin de doelen van het curriculumdossier en de aansluitende leerplannen worden gerangschikt. Deze doelen, ongeacht het eindtermen, specifieke eindtermen of beroepskwalificaties betreft, mogen binnen eenzelfde vak of vakkencluster en binnen dezelfde onderwijstijd worden aangeboden.<br>
+<br>
+Met inachtneming van de bepalingen van deze afdeling stelt het schoolbestuur het weekrooster vast.
 
 ### ART 157/4.
 
@@ -3707,7 +3624,25 @@ Van zodra de titularis van het ambt van directeur van een ingebouwde middenschoo
 
 ### ART. 209.
 
-§ 1. Het aantal wekelijkse uren-leraar dat aan elke school wordt toegekend, is opgebouwd uit : <br />1° een aantal uren-leraar voor het onderwijzen van vakken, zonder rekening te houden met de vakken godsdienst, niet-confessionele zedenleer, cultuurbeschouwing en eigen cultuur en religie, alsook een aantal uren-leraar die geen lesuren zijn, bestemd voor andere prestaties dan voor het onderwijzen van vakken en aangeduid als "pedagogische ondersteuning", niet inbegrepen. <br />Het aantal uren-leraar kan worden verhoogd voor de scholen gelegen in de gemeenten met een bevolkingsdichtheid van minder dan 125 inwoners/km2, voor de Nederlandstalige scholen gelegen in het arrondissement Brussel - Hoofdstad, voor de scholen die toepassing maken van de bepalingen van artikel 192 tot en met 195 inzake rationalisatienormen en voor de op basis van objectieve criteria aangeduide categorieën leerlingen of scholen; <br />2° een aantal uren-leraar, voorbehouden voor het onderwijzen van de vakken godsdienst, niet-confessionele zedenleer, cultuurbeschouwing en eigen cultuur en religie. <br /><br />Deze bepaling is niet van toepassing op :<br />1° het derde leerjaar van de derde graad van het algemeen en het kunstsecundair onderwijs, aangeduid als voorbereidend jaar op het hoger onderwijs;<br />2° de Se-n-Se van het technisch en het kunstsecundair onderwijs;<br />3° de vierde graad;<br />4° het hoger beroepsonderwijs.<br /><br />§ 2. De Vlaamse Regering bepaalt de berekeningswijze van het aantal wekelijkse uren-leraar dat aan een school kan worden toegekend.<br /><br />De Vlaamse Regering kan op basis van de budgettaire mogelijkheden een aanwendingspercentage vastleggen van het aantal wekelijkse uren-leraar dat aan elke school toegekend wordt. (208)
+§ 1. Het aantal wekelijkse uren-leraar dat aan elke school wordt toegekend, is opgebouwd uit :<br>
+1° een aantal uren-leraar voor het onderwijzen van vakken, zonder rekening te houden met de vakken godsdienst, niet-confessionele zedenleer, cultuurbeschouwing en eigen cultuur en religie, alsook een aantal uren-leraar die geen lesuren zijn, bestemd voor andere prestaties dan voor het onderwijzen van vakken en aangeduid als "pedagogische ondersteuning", niet inbegrepen.<br>
+Het aantal uren-leraar kan worden verhoogd voor de scholen gelegen in de gemeenten met een bevolkingsdichtheid van minder dan 125 inwoners/km2, voor de Nederlandstalige scholen gelegen in het arrondissement Brussel - Hoofdstad, voor de scholen die toepassing maken van de bepalingen van artikel 192 tot en met 195 inzake rationalisatienormen en voor de op basis van objectieve criteria aangeduide categorieën leerlingen of scholen;<br>
+2° een aantal uren-leraar, voorbehouden voor het onderwijzen van de vakken godsdienst, niet-confessionele zedenleer, cultuurbeschouwing en eigen cultuur en religie.<br>
+<br>
+Deze bepaling is niet van toepassing op :<br>
+1° het derde leerjaar van de derde graad van het algemeen en het kunstsecundair onderwijs, aangeduid als voorbereidend jaar op het hoger onderwijs;<br>
+2° de Se-n-Se van het technisch en het kunstsecundair onderwijs;<br>
+3° de vierde graad;<br>
+4° het hoger beroepsonderwijs.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt de berekeningswijze van het aantal wekelijkse uren-leraar dat aan een school kan worden toegekend.<br>
+<br>
+Bij de progressieve uitrol van de modernisering van het secundair onderwijs wordt de berekeningswijze van het aantal wekelijkse uren-leraar dat aan een school kan worden toegekend die op 1 september 2021 van kracht is, maximaal behouden, met dien verstande dat:<br>
+1° de coëfficiënt uren-leraar per regelmatige leerling in een structuuronderdeel vóór de modernisering waar mogelijk wordt doorgetrokken naar het, door de concordantie, overeenkomstige structuuronderdeel vanaf de modernisering;<br>
+2° specifieke uren-leraar, al dan niet per regelmatige leerling of groep van regelmatige leerlingen, in een structuuronderdeel of groep van structuuronderdelen vóór de modernisering worden doorgetrokken naar de, door de concordantie, overeenkomstige structuuronderdelen vanaf de modernisering;<br>
+3° als uren-leraar aan disciplines zijn gekoppeld, artikel 133/4, § 1/1, van toepassing is.<br>
+<br>
+De Vlaamse Regering kan op basis van de budgettaire mogelijkheden een aanwendingspercentage vastleggen van het aantal wekelijkse uren-leraar dat aan elke school toegekend wordt. (208)
 
 ### ART 209/1.
 
@@ -3799,7 +3734,13 @@ Het personeelslid dat in een betrekking in een ambt van het varend personeel wor
 
 ### ART. 221.
 
-§ 1. Aan elke topsportschool met tweede en derde graad voltijds secundair onderwijs die onder toepassing valt van het tussen de Vlaamse Regering, de sportinstanties en de onderwijsverstrekkers gesloten topsportconvenant, wordt een betrekking van topsportschoolcoördinator toegekend. <br /><br />Deze bijkomende betrekking is niet opdeelbaar; ze kan slechts door één personeelslid, dat exclusief en voltijds met topsportschoolcoördinatie is belast, worden uitgeoefend. De betrekking wordt ingericht in één van de volgende ambten, naar keuze van het betrokken schoolbestuur : adjunct-directeur, technisch adviseur-coördinator, technisch adviseur, leraar. <br /><br />§ 2. In geval de betrekking wordt ingericht in het ambt van leraar, dan wordt de opdracht uitgeoefend onder vorm van uren die geen lesuren zijn, meer bepaald als bijzondere pedagogische taken. <br /><br />In voorkomend geval worden de desbetreffende uren niet verrekend bij toepassing van de bepaling dat maximum 3 % van het aantal uren-leraar van een school gebruikt kan worden voor bijzondere pedagogische taken, zoals vermeld in artikel 212. (220)
+§ 1.&nbsp;Aan elke school voor voltijds secundair onderwijs met ten minste vijfentwintig regelmatige leerlingen op de toepasbare teldatum in structuuronderdelen met in de benaming "topsport" die onder toepassing valt van het gesloten topsportconvenant, wordt een gefinancierde of gesubsidieerde betrekking van topsportschoolcoordinator toegekend. Die betrekking wordt niet meer toegekend als de norm twee aansluitende schooljaren niet wordt bereikt.<br>
+<br>
+Deze bijkomende betrekking is niet opdeelbaar; ze kan slechts door één personeelslid, dat exclusief en voltijds met topsportschoolcoördinatie is belast, worden uitgeoefend. De betrekking wordt ingericht in één van de volgende ambten, naar keuze van het betrokken schoolbestuur : adjunct-directeur, technisch adviseur-coördinator, technisch adviseur, leraar.<br>
+<br>
+§ 2. In geval de betrekking wordt ingericht in het ambt van leraar, dan wordt de opdracht uitgeoefend onder vorm van uren die geen lesuren zijn, meer bepaald als bijzondere pedagogische taken.<br>
+<br>
+In voorkomend geval worden de desbetreffende uren niet verrekend bij toepassing van de bepaling dat maximum 3 % van het aantal uren-leraar van een school gebruikt kan worden voor bijzondere pedagogische taken, zoals vermeld in artikel 212. (220)
 
 ## Onderafdeling 5 : Onthaalonderwijs
 
@@ -3838,31 +3779,41 @@ De documenten of verklaringen die aantonen dat leerlingen beantwoorden aan één
 
 ### ART. 226.
 
-Scholen kunnen voor een periode van drie schooljaren extra uren-leraar   krijgen, voorzover ze aan alle onderstaande voorwaarden voldoen :<BR>1° op 1   februari van het voorafgaand schooljaar ten minste 10 % regelmatige leerlingen   tellen die beantwoorden aan één of meer van de in artikel 225, § 1, 1°, 2°, 3°   en 4°, bedoelde gelijkekansenindicatoren waarbij het aantal regelmatige   leerlingen die enkel en alleen beantwoorden aan de in artikel 225, § 1, 1° of 1°   en 5°, bedoelde gelijkekansenindicatoren wordt vermenigvuldigd met een door de   Vlaamse Regering bepaalde coëfficiënt, die ten minste gelijk is aan 0,1 en ten   hoogste gelijk is aan 1; en<BR>2° overeenkomstig de bepalingen van artikel 227   batig gerangschikt zijn onder de in 1° bedoelde scholen en, voor alle graden   samen,&nbsp; ten minste zes extra uren-leraar genereren.<BR><BR>Wanneer een   school op 1 januari van het voorgaande schooljaar vestigingsplaatsen heeft die   niet in eenzelfde of aangrenzende gemeente of in het tweetalig gebied   Brussel-Hoofdstad gelegen zijn, worden de verschillende vestigingsplaatsen voor   de toepassing van de bepalingen van het eerste lid en van artikel 227 als school   beschouwd. (225)
+Scholen kunnen jaarlijks extra uren-leraar krijgen, voorzover ze aan alle onderstaande voorwaarden voldoen :<br>
+1° op 1 februari van het voorafgaande of daaraan voorafgaande schooljaar ten minste 10 % regelmatige leerlingen tellen die beantwoorden aan één of meer van de in artikel 225, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren waarbij het aantal regelmatige leerlingen die enkel en alleen beantwoorden aan de in artikel 225, § 1, 1° of 1° en 5°, bedoelde gelijkekansenindicatoren wordt vermenigvuldigd met een door de Vlaamse Regering bepaalde coëfficiënt, die ten minste gelijk is aan 0,1 en ten hoogste gelijk is aan 1; en<br>
+2° overeenkomstig de bepalingen van artikel 227 batig gerangschikt zijn onder de in 1° bedoelde scholen en, voor alle graden samen,&nbsp; ten minste zes extra uren-leraar genereren.<br>
+<br>
+Wanneer een school op 1 januari van het voorgaande schooljaar vestigingsplaatsen heeft die niet in eenzelfde of aangrenzende gemeente of in het tweetalig gebied Brussel-Hoofdstad gelegen zijn, worden de verschillende vestigingsplaatsen voor de toepassing van de bepalingen van het eerste lid en van artikel 227 als school beschouwd. (225)
 
 ### ART. 227.
 
-§ 1. De toekenning van de middelen gebeurt driejaarlijks als volgt :<br />1° de in artikel 226 bedoelde scholen worden gerangschikt volgens het percentage leerlingen die beantwoorden aan één of meer van de in artikel 225, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren, waarbij het aantal regelmatig leerlingen die enkel en alleen beantwoorden aan de in artikel 225, § 1, 1° of 1° en 5°, bedoelde gelijkekansenindicatoren wordt vermenigvuldigd met een door de Vlaamse Regering bepaalde coëfficiënt, die ten minste gelijk is aan 0,1 en ten hoogste gelijk is aan 1. Binnen eenzelfde percentage worden de scholen volgens het absoluut aantal van deze leerlingen gerangschikt;<br />2° de leerlingen genereren op basis van het gewicht van de gelijkekansenindicatoren die op hen van toepassing zijn een aantal punten;<br />3° het aantal punten van scholen met ten minste 55 % leerlingen die aan één of meer van de in artikel 225, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren beantwoorden, wordt vermenigvuldigd met een door de Vlaamse Regering vastgelegde coëfficiënt, die ten minste gelijk is aan 1 en ten hoogste gelijk is aan 1,5;<br />4° het aantal punten van scholen in het tweetalig gebied Brussel-Hoofdstad wordt vermenigvuldigd met een door de Vlaamse Regering vastgelegde coëfficiënt, die ten minste gelijk is aan 1 en ten hoogste gelijk is aan 1,5.<br /><br />§ 2. De Vlaamse Regering bepaalt binnen de beschikbare begrotingskredieten hoeveel extra uren-leraar een punt vertegenwoordigt.<br /><br />De Vlaamse Regering bepaalt tevens de regelen inzake de toekenning of herverdeling, tijdens een lopende periode van drie schooljaren, van nieuwe of vrijkomende extra uren-leraar. (226)
+§ 1.&nbsp;Onverminderd de bepalingen van artikel 39, § 7, 2°, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, gebeurt de toekenning van de extra uren-leraar jaarlijks als volgt:<br>
+1° de in artikel 226 bedoelde scholen worden gerangschikt volgens het percentage leerlingen die beantwoorden aan één of meer van de in artikel 225, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren, waarbij het aantal regelmatig leerlingen die enkel en alleen beantwoorden aan de in artikel 225, § 1, 1° of 1° en 5°, bedoelde gelijkekansenindicatoren wordt vermenigvuldigd met een door de Vlaamse Regering bepaalde coëfficiënt, die ten minste gelijk is aan 0,1 en ten hoogste gelijk is aan 1. Binnen eenzelfde percentage worden de scholen volgens het absoluut aantal van deze leerlingen gerangschikt;<br>
+2° de leerlingen genereren op basis van het gewicht van de gelijkekansenindicatoren die op hen van toepassing zijn een aantal punten;<br>
+3° het aantal punten van scholen met ten minste 55 % leerlingen die aan één of meer van de in artikel 225, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren beantwoorden, wordt vermenigvuldigd met een door de Vlaamse Regering vastgelegde coëfficiënt, die ten minste gelijk is aan 1 en ten hoogste gelijk is aan 1,5;<br>
+4° het aantal punten van scholen in het tweetalig gebied Brussel-Hoofdstad wordt vermenigvuldigd met een door de Vlaamse Regering vastgelegde coëfficiënt, die ten minste gelijk is aan 1 en ten hoogste gelijk is aan 1,5.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt binnen de beschikbare begrotingskredieten hoeveel extra uren-leraar een punt vertegenwoordigt.
 
 ### ART. 228.
 
-§ 1. Een school die extra uren-leraar krijgt, werkt in het eerste trimester van het eerste schooljaar een gelijkekansenbeleid uit. Vanuit een analyse van haar beginsituatie geeft de school aan :<br />1° welke concrete doelstelling zij op het vlak van leerlingen, van personeelsleden, respectievelijk van school wil bereiken. De Vlaamse Regering bepaalt doelstellingen die kunnen worden gekozen binnen volgende themata : a) de preventie en remediëring van ontwikkelings- en leerachterstanden, b) taalvaardigheidsonderwijs, c) intercultureel onderwijs, d) doorstroming en oriëntering, e) socio-emotionele ontwikkeling, f) leerlingen- en ouderparticipatie; en<br />2° op welke manier zij deze doelstellingen wil bereiken; en<br />3° op welke manier zij zichzelf in de loop van het tweede trimester van het tweede schooljaar evalueert. De Vlaamse Regering kan een model van zelfevaluatie vastleggen.<br /><br />§ 2. De extra uren-leraar kunnen enkel worden aangewend om de in § 1 bedoelde doelstellingen te bereiken. (227)<br /><br />
+De extra uren-leraar kunnen enkel worden aangewend om als schoolteam voor elke leerling een passende begeleiding te voorzien met het oog op gelijke onderwijskansen als vermeld in artikel 123/21 en op dat vlak tegemoet te komen aan de kwaliteitsverwachtingen, opgenomen in het referentiekader onderwijskwaliteit, vastgelegd door de Vlaamse Regering. Teneinde hieraan uitvoering te geven, bepaalt de school haar eigen streefdoelen, indicatoren en een tijdspad.
 
 ### ART. 229.
 
-De scholen betrekken in het ontwikkelen en realiseren van de in artikel 227, § 1, bedoelde doelstellingen het centrum voor leerlingenbegeleiding waardoor zij worden begeleid. (228)
+...
 
 ### ART. 230.
 
-De scholen werken mee aan driejaarlijkse evaluaties aan de hand van steekproeven die het Vlaams Ministerie van Onderwijs en Vorming uitvoert. De evaluaties meten de doelmatigheid, op macroniveau, van het geïntegreerd ondersteuningsaanbod. (229)
+...
 
 ### ART. 231.
 
-§ 1. De onderwijsinspectie gaat telkens in de loop van het derde schooljaar na of, en in welke mate, de doelstellingen werden bereikt. Het bereiken van de doelstellingen wordt afgewogen tegenover de schoolcontext en de kenmerken van de schoolpopulatie.<br /><br />Bij positieve evaluatie kan de school voor een nieuwe periode van drie schooljaren extra uren-leraar krijgen indien opnieuw aan alle voorwaarden van artikel 226 voldaan is.<br /><br />Bij negatieve evaluatie verliest de school het recht op de in artikel 226 bedoelde extra uren-leraar voor de volgende periode van drie schooljaren tenzij de school een engagement tot remediëring aangaat. In dat geval krijgen ze de helft van het aantal extra uren-leraar waarop ze in geval van positieve evaluatie recht zouden hebben.<br /><br />Een engagement tot remediëring moet aan volgende voorwaarden voldoen :<br />1° de scholen verbinden er zich toe een stappenplan op te stellen dat voldoet aan de volgende criteria :<br />a) het uitgangspunt van het stappenplan zijn de geformuleerde knelpunten in het evaluatieverslag van de onderwijsinspectie van de betrokken school;<br />b) de geformuleerde doelstellingen tot remediëring in het stappenplan passen binnen de doelstellingen zoals geformuleerd in artikel 228, § 1, 1°;<br />c) de doelstellingen zijn outputgericht, concreet en operationeel geformuleerd. Ze moeten voldoende controleerbaar zijn;<br />d) het stappenplan wordt vóór 1 mei van het schooljaar volgend op de negatieve evaluatie aan de onderwijsinspectie bezorgd;<br />e) de doelstellingen dienen gerealiseerd te zijn vóór 1 juni van het schooljaar volgend op de negatieve evaluatie;<br />2° de scholen verbinden er zich toe om een beroep te doen op externe begeleiding en ondersteuning bij het opstellen en de uitvoering van het stappenplan.<br /><br />De onderwijsinspectie gaat in de maand juni van het schooljaar volgend op de negatieve evaluatie opnieuw na of, en in welke mate, de doelstellingen werden bereikt. Het bereiken van de doelstellingen wordt afgewogen tegenover de schoolcontext en de kenmerken van de schoolpopulatie.<br /><br />Bij een positieve evaluatie zal de school vanaf het tweede schooljaar terug een beroep kunnen doen op het volledige aantal in artikel 226 bedoelde uren-leraar. <br /><br />Bij een negatieve evaluatie verliest de school het recht op de in artikel 226 bedoelde extra uren-leraar voor de volgende twee schooljaren.<br /><br />§ 2. De Vlaamse Regering legt de nadere criteria en procedurele bepalingen volgens dewelke de controle door de onderwijsinspectie geschiedt, vast. Zij voorziet in een beroepsmogelijkheid voor de school tegen een negatieve evaluatie. Het beroep wordt ingesteld bij een college van onderwijsinspecteurs. (230)
+De externe evaluatie op het gelijke onderwijskansenbeleid van de school met inbegrip van de aanwending van het werkingsbudget op basis van de leerlingenkenmerken, vermeld in artikel 242 van deze codex, en de extra uren-leraar, vermeld in artikel 226 tot en met 228 van deze codex, gebeurt in het kader van de schooldoorlichting als bedoeld in artikel 36 tot en met 42 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs.
 
 ### ART 231/1.
 
-In afwijking van de bepalingen van de artikelen 226, 227, § 1, en 231, § 1, wordt de driejarige cyclus 2014-2015 tot en met 2016-2017 waarbij aan scholen een geïntegreerd ondersteuningsaanbod gelijke onderwijskansen, eerste graad, wordt toegekend, verlengd tot en met het schooljaar 2017-2018 met behoud voor elke school van het aantal betrokken extra uren-leraar.
+...
 
 ## Onderafdeling 8 : Geïntegreerd ondersteuningsaanbod, gelijke onderwijskansen, tweede en derde graad
 
@@ -3891,11 +3842,21 @@ De in § 1, 5°, bedoelde gelijkekansenindicator wordt enkel gewogen in combinat
 
 ### ART. 234.
 
-Scholen kunnen voor een periode van drie schooljaren extra   uren-leraar/puntenwaarden krijgen, voor zover ze aan alle onderstaande   voorwaarden voldoen :<BR>1° op 1 februari van het voorafgaand schooljaar ten   minste 25 % regelmatige leerlingen tellen die beantwoorden aan één of meer van   de in artikel 233, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren,   waarbij het aantal regelmatige leerlingen die enkel en alleen beantwoorden aan   de in artikel 233, § 1, 1° of 1° en 5°, bedoelde gelijkekansenindicatoren wordt   vermenigvuldigd met een door de Vlaamse Regering bepaalde coëfficiënt, die ten   minste gelijk is aan 0,1 en ten hoogste gelijk is aan 1; en<BR>2° overeenkomstig   de bepalingen van artikel 235 batig gerangschikt zijn onder de in 1° bedoelde   scholen en, voor alle graden samen,&nbsp; ten minste zes extra uren-leraar   genereren.<BR><BR>De schoolbesturen bepalen of de extra ondersteuning   uren-leraar en/of puntenwaarden betreft. (233)
+Scholen kunnen jaarlijks extra uren-leraar/puntenwaarden krijgen, voor zover ze aan alle onderstaande voorwaarden voldoen :<br>
+1° op 1 februari van het voorafgaande of daaraan voorafgaande schooljaar ten minste 25 % regelmatige leerlingen tellen die beantwoorden aan één of meer van de in artikel 233, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren, waarbij het aantal regelmatige leerlingen die enkel en alleen beantwoorden aan de in artikel 233, § 1, 1° of 1° en 5°, bedoelde gelijkekansenindicatoren wordt vermenigvuldigd met een door de Vlaamse Regering bepaalde coëfficiënt, die ten minste gelijk is aan 0,1 en ten hoogste gelijk is aan 1; en<br>
+2° overeenkomstig de bepalingen van artikel 235 batig gerangschikt zijn onder de in 1° bedoelde scholen en, voor alle graden samen,&nbsp; ten minste zes extra uren-leraar genereren.<br>
+<br>
+De schoolbesturen bepalen of de extra ondersteuning uren-leraar en/of puntenwaarden betreft. (233)
 
 ### ART. 235.
 
-§ 1. De toekenning van de extra uren leraar/puntenwaarden gebeurt voor de tweede en derde graad van het gewoon voltijds secundair onderwijs driejaarlijks als volgt :<br />1° de in artikel 234 bedoelde scholen worden gerangschikt volgens het percentage leerlingen die beantwoorden aan één of meer van de in artikel 233, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren, waarbij het aantal regelmatige leerlingen die enkel en alleen beantwoorden aan de in artikel 233, § 1, 1° of 1° en 5°, bedoelde gelijkekansenindicatoren wordt vermenigvuldigd met een door de Vlaamse Regering bepaalde coëfficiënt, die ten minste gelijk is aan 0,1 en ten hoogste gelijk is aan 1. Binnen eenzelfde percentage worden de scholen volgens het absolute aantal van deze leerlingen gerangschikt;<br />2° de leerlingen genereren op basis van het gewicht van de gelijkekansenindicatoren die op hen van toepassing zijn een aantal punten;<br />3° het aantal punten van scholen met ten minste 55 % leerlingen die aan één of meer van de in artikel 233, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren beantwoorden, wordt vermenigvuldigd met een door de Vlaamse Regering vastgelegde coëfficiënt, die ten minste gelijk is aan 1 en ten hoogste gelijk is aan 1,5;<br />4° het aantal punten van scholen in het tweetalig gebied Brussel-Hoofdstad wordt vermenigvuldigd met een door de Vlaamse Regering vastgelegde coëfficiënt, die ten minste gelijk is aan 1 en ten hoogste gelijk is aan 1,5.<br /><br />§ 2. De Vlaamse Regering bepaalt binnen de beschikbare begrotingskredieten hoeveel extra uren-leraar of puntenwaarden een punt vertegenwoordigt.<br /><br />De Vlaamse Regering bepaalt tevens de regelen inzake de toekenning of herverdeling, tijdens een lopende periode van drie schooljaren, van nieuwe of vrijkomende extra uren-leraar of puntenwaarden. (234)
+§ 1.&nbsp;Onverminderd de bepalingen van artikel 39, § 7, 2°, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, gebeurt de toekenning van de extra uren-leraar/puntenwaarden jaarlijks als volgt:<br>
+1° de in artikel 234 bedoelde scholen worden gerangschikt volgens het percentage leerlingen die beantwoorden aan één of meer van de in artikel 233, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren, waarbij het aantal regelmatige leerlingen die enkel en alleen beantwoorden aan de in artikel 233, § 1, 1° of 1° en 5°, bedoelde gelijkekansenindicatoren wordt vermenigvuldigd met een door de Vlaamse Regering bepaalde coëfficiënt, die ten minste gelijk is aan 0,1 en ten hoogste gelijk is aan 1. Binnen eenzelfde percentage worden de scholen volgens het absolute aantal van deze leerlingen gerangschikt;<br>
+2° de leerlingen genereren op basis van het gewicht van de gelijkekansenindicatoren die op hen van toepassing zijn een aantal punten;<br>
+3° het aantal punten van scholen met ten minste 55 % leerlingen die aan één of meer van de in artikel 233, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren beantwoorden, wordt vermenigvuldigd met een door de Vlaamse Regering vastgelegde coëfficiënt, die ten minste gelijk is aan 1 en ten hoogste gelijk is aan 1,5;<br>
+4° het aantal punten van scholen in het tweetalig gebied Brussel-Hoofdstad wordt vermenigvuldigd met een door de Vlaamse Regering vastgelegde coëfficiënt, die ten minste gelijk is aan 1 en ten hoogste gelijk is aan 1,5.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt binnen de beschikbare begrotingskredieten hoeveel extra uren-leraar of puntenwaarden een punt vertegenwoordigt.
 
 ### ART. 236.
 
@@ -3903,27 +3864,27 @@ De extra uren-leraar worden uitgeoefend in het ambt van leraar of van godsdienst
 
 ### ART. 237.
 
-§ 1. Een school die extra uren-leraar of puntenwaarden krijgt, werkt in het eerste trimester van het eerste schooljaar een gelijkekansenbeleid uit. Vanuit een analyse van haar beginsituatie geeft de school aan :<br />1° welke concrete doelstelling zij op het vlak van leerlingen, van personeelsleden, respectievelijk van school wil bereiken. De Vlaamse Regering bepaalt doelstellingen die kunnen worden gekozen binnen volgende themata :<br />a) de preventie en remediëring van studie- en gedragsproblemen, <br />b) taalvaardigheidsonderwijs, <br />c) intercultureel onderwijs, <br />d) de oriëntering bij instroom en uitstroom, <br />e) leerlingen- en ouderparticipatie; en<br />2° op welke manier zij deze doelstellingen wil bereiken, en<br />3° op welke manier zij zichzelf in de loop van het tweede trimester van het tweede schooljaar evalueert. De Vlaamse Regering kan een model van zelfevaluatie vastleggen.<br /><br />§ 2. De extra uren-leraar of puntenwaarden kunnen enkel worden aangewend om de in § 1 bedoelde doelstellingen te bereiken. (236)
+De extra uren-leraar/puntenwaarden kunnen enkel worden aangewend om als schoolteam voor elke leerling een passende begeleiding te voorzien met het oog op gelijke onderwijskansen als vermeld in artikel 123/21 en op dat vlak tegemoet te komen aan de kwaliteitsverwachtingen, opgenomen in het referentiekader onderwijskwaliteit, vastgelegd door de Vlaamse Regering. Teneinde hieraan uitvoering te geven, bepaalt de school haar eigen streefdoelen, indicatoren en een tijdspad.
 
 ### ART. 238.
 
-De scholen betrekken in het ontwikkelen en realiseren van de in artikel 237, § 1, bedoelde doelstellingen het centrum voor leerlingenbegeleiding waardoor zij worden begeleid. (237)<br />
+...
 
 ### ART. 239.
 
-De scholen werken mee aan driejaarlijkse evaluaties aan de hand van steekproeven die het Vlaams Ministerie van Onderwijs en Vorming uitvoert. De evaluaties meten de doelmatigheid, op macroniveau, van het geïntegreerd ondersteuningsaanbod. (238)
+...
 
 ### ART. 240.
 
-§ 1. De onderwijsinspectie gaat telkens in de loop van het derde schooljaar na of, en in welke mate, de doelstellingen werden bereikt. Het bereiken van de doelstellingen wordt afgewogen tegenover de schoolcontext en de kenmerken van de schoolpopulatie.<br /><br />Bij positieve evaluatie kan de school voor een nieuwe periode van drie schooljaren extra uren-leraar of puntenwaarden krijgen indien opnieuw aan alle voorwaarden van artikel 234 voldaan is.<br /><br />Bij negatieve evaluatie verliest de school het recht op de in artikel 235 bedoelde extra uren-leraar of puntenwaarden voor de volgende periode van drie schooljaren tenzij de school een engagement tot remediëring aangaat. In dat geval krijgen ze de helft van het aantal extra uren-leraar of puntenwaarden waarop ze in geval van positieve evaluatie recht zouden hebben.<br /><br />Een engagement tot remediëring moet aan volgende voorwaarden voldoen :<br />1° de scholen verbinden er zich toe een stappenplan op te stellen dat voldoet aan de volgende criteria :<br />a) het uitgangspunt van het stappenplan zijn de geformuleerde knelpunten in het evaluatieverslag van de onderwijsinspectie van de betrokken school;<br />b) de geformuleerde doelstellingen tot remediëring in het stappenplan passen binnen de doelstellingen zoals geformuleerd in artikel 237, § 1, 1°;<br />c) de doelstellingen zijn outputgericht, concreet en operationeel geformuleerd. Ze moeten voldoende controleerbaar zijn;<br />d) het stappenplan moet vóór 1 mei van het schooljaar volgend op de negatieve evaluatie aan de onderwijsinspectie bezorgd worden;<br />e) de doelstellingen dienen gerealiseerd te zijn vóór 1 juni van het schooljaar volgend op de negatieve evaluatie;<br />2° de scholen verbinden er zich toe om een beroep te doen op externe begeleiding en ondersteuning bij het opstellen en de uitvoering van het stappenplan.<br /><br />De onderwijsinspectie gaat in de maand juni van het schooljaar volgend op de negatieve evaluatie opnieuw na of, en in welke mate, de doelstellingen werden bereikt. Het bereiken van de doelstellingen wordt afgewogen tegenover de schoolcontext en de kenmerken van de schoolpopulatie.<br /><br />Bij een positieve evaluatie zal de school vanaf het tweede schooljaar terug een beroep kunnen doen op het volledige aantal in artikel 235 bedoelde extra uren-leraar ofpuntenwaarden. <br /><br />Bij een negatieve evaluatie verliest de school het recht op de in artikel 235 bedoelde extra uren-leraar of puntenwaarden voor de volgende twee schooljaren.<br /><br />§ 2. De Vlaamse Regering legt de nadere criteria en procedurele bepalingen volgens dewelke de controle door de onderwijsinspectie geschiedt vast. <br /><br />Zij voorziet in een beroepsmogelijkheid voor de school tegen een negatieve evaluatie. Het beroep wordt ingesteld bij een college van onderwijsinspecteurs. (239)
+De externe evaluatie op het gelijke onderwijskansenbeleid van de school met inbegrip van de aanwending van het werkingsbudget op basis van de leerlingenkenmerken, vermeld in artikel 242 van deze codex, en de extra uren-leraar/puntenwaarden, vermeld in artikel 234 tot en met 237 van deze codex, gebeurt in het kader van de schooldoorlichting als bedoeld in artikel 36 tot en met 42 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs.
 
 ### ART. 241.
 
-De Vlaamse Regering voorziet voor het schooljaar 2008-2009, 2009-2010 en 2010-2011 in overgangsmaatregelen. <br /><br />In functie van deze overgangsmaatregelen wordt het aantal extra uren-leraar of puntenwaarden gelijke onderwijskansen dat een school in het schooljaar 2007-2008 kreeg vergeleken met het aantal uren-leraar verkregen in toepassing van artikelen 234 en 235. Het verlies van een vastgelegd aantal uren-leraar wordt beperkt tot nul. (240)
+...
 
 ### ART 241/1.
 
-In afwijking van de bepalingen van de artikelen 234, 235, § 1, en 240, § 1, wordt de driejarige cyclus 2014-2015 tot en met 2016-2017 waarbij aan scholen een geïntegreerd ondersteuningsaanbod gelijke onderwijskansen, tweede en derde graad, wordt toegekend, verlengd tot en met het schooljaar 2017-2018 met behoud voor elke school van het aantal betrokken extra uren-leraar/puntenwaarden.
+...
 
 ## Afdeling 2 : Financiering en subsidiëring van de werking
 
@@ -4071,96 +4032,92 @@ Het bedrag, verkregen door de toepassing van § 3, wordt voor het begrotingsjaar
 ### ART. 245.
 
 <!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>decockge</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>decockge</o:LastAuthor><br>  <o:Revision>2</o:Revision><br>  <o:TotalTime>12</o:TotalTime><br>  <o:Created>2011-06-28T07:19:00Z</o:Created><br>  <o:LastSaved>2011-06-28T07:19:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>220</o:Words><br>  <o:Characters>1441</o:Characters><br>  <o:Company>Vlaamse Overheid</o:Company><br>  <o:Lines>12</o:Lines><br>  <o:Paragraphs>3</o:Paragraphs><br>  <o:CharactersWithSpaces>1658</o:CharactersWithSpaces><br>  <o:Version>12.00</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:TrackMoves></w:TrackMoves><br>  <w:TrackFormatting></w:TrackFormatting><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:DoNotPromoteQF></w:DoNotPromoteQF><br>  <w:LidThemeOther>NL-BE</w:LidThemeOther><br>  <w:LidThemeAsian>X-NONE</w:LidThemeAsian><br>  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>   <w:SplitPgBreakAndParaMark></w:SplitPgBreakAndParaMark><br>   <w:DontVertAlignCellWithSp></w:DontVertAlignCellWithSp><br>   <w:DontBreakConstrainedForcedTables></w:DontBreakConstrainedForcedTables><br>   <w:DontVertAlignInTxbx></w:DontVertAlignInTxbx><br>   <w:Word11KerningPairs></w:Word11KerningPairs><br>   <w:CachedColBalance></w:CachedColBalance><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br>  <m:mathPr><br>   <m:mathFont m:val="e;Cambria Math"e;></m:mathFont><br>   <m:brkBin m:val="e;before"e;></m:brkBin><br>   <m:brkBinSub m:val="e;--"e;></m:brkBinSub><br>   <m:smallFrac m:val="e;off"e;></m:smallFrac><br>   <m:dispDef></m:dispDef><br>   <m:lMargin m:val="e;0"e;></m:lMargin><br>   <m:rMargin m:val="e;0"e;></m:rMargin><br>   <m:defJc m:val="e;centerGroup"e;></m:defJc><br>   <m:wrapIndent m:val="e;1440"e;></m:wrapIndent><br>   <m:intLim m:val="e;subSup"e;></m:intLim><br>   <m:naryLim m:val="e;undOvr"e;></m:naryLim><br>  </m:mathPr></w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; DefUnhideWhenUsed="e;true"e;<br>  DefSemiHidden="e;true"e; DefQFormat="e;false"e; DefPriority="e;99"e;<br>  LatentStyleCount="e;267"e;><br>  <w:LsdException Locked="e;false"e; Priority="e;0"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Normal"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;heading 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 7"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 8"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 9"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 7"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 8"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 9"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;35"e; QFormat="e;true"e; Name="e;caption"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;10"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Title"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; Name="e;Default Paragraph Font"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;11"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtitle"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;22"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Strong"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;20"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;59"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Table Grid"e;/><br>  <w:LsdException Locked="e;false"e; UnhideWhenUsed="e;false"e; Name="e;Placeholder Text"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;No Spacing"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; UnhideWhenUsed="e;false"e; Name="e;Revision"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;34"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;List Paragraph"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;29"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Quote"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;30"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Quote"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;19"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtle Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;21"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;31"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtle Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;32"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;33"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Book Title"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;37"e; Name="e;Bibliography"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; QFormat="e;true"e; Name="e;TOC Heading"e;></w:LsdException><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-priority:99;<br>	mso-style-qformat:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Calibri"e;,"e;sans-serif"e;;<br>	mso-ascii-font-family:Calibri;<br>	mso-ascii-theme-font:minor-latin;<br>	mso-hansi-font-family:Calibri;<br>	mso-hansi-theme-font:minor-latin;<br>	mso-bidi-font-family:"e;Times New Roman"e;;<br>	mso-bidi-theme-font:minor-bidi;<br>	mso-fareast-language:EN-US;&rgtaco;<br>table.MsoTableGrid<br>	&lftaco;mso-style-name:Tabelraster;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-priority:59;<br>	mso-style-unhide:no;<br>	border:solid black 1.0pt;<br>	mso-border-themecolor:text1;<br>	mso-border-alt:solid black .5pt;<br>	mso-border-themecolor:text1;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-border-insideh:.5pt solid black;<br>	mso-border-insideh-themecolor:text1;<br>	mso-border-insidev:.5pt solid black;<br>	mso-border-insidev-themecolor:text1;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Calibri"e;,"e;sans-serif"e;;<br>	mso-ascii-font-family:Calibri;<br>	mso-ascii-theme-font:minor-latin;<br>	mso-hansi-font-family:Calibri;<br>	mso-hansi-theme-font:minor-latin;<br>	mso-fareast-language:EN-US;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;1026"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]-->
-<p>&nbsp;</p>
+<p>B_SchK, vermeld in artikel 244, § 4, wordt als volgt verdeeld over de schoolkenmerken zoals bedoeld in artikel 242, § 1, met uitzondering van schoolkenmerk V1 en V2:<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">1° a) vóór de modernisering van het secundair onderwijs worden de puntengewichten per regelmatige leerling als volgt vastgesteld:</span></span></span></p>
 
-<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: none; mso-border-insidev: none;" border="0" cellspacing="0" cellpadding="0">
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
 	<tbody>
 		<tr>
-			<td style="width: 460.6pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">B_SchK, vermeld in artikel 244, § 4, wordt als volgt verdeeld over de schoolkenmerken zoals bedoeld in artikel 242, § 1, met uitzondering van schoolkenmerk V1 en V2:<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			<td>eerste graad</td>
+			<td>16</td>
+		</tr>
+		<tr>
+			<td>tweede en derde graad algemeen secundair onderwijs (inclusief de aso-studierichtingen die tot het studiegebied Sport behoren)</td>
+			<td>16</td>
+		</tr>
+		<tr>
+			<td>tweede en derde graad technisch en beroepssecundair onderwijs: de studiegebieden Decoratieve technieken, Fotografie, Handel, Mode, Lichaamsverzorging, Personenzorg, Sport, Toerisme, Voeding</td>
+			<td>18</td>
+		</tr>
+		<tr>
+			<td>tweede en derde graad technisch en beroepssecundair onderwijs: de studiegebieden Auto, Bouw, Chemie, Glastechnieken, Grafische communicatie en media, Hout, Juwelen, Koeling en warmte, Landen tuinbouw, Maritieme opleidingen, Maatschappelijke veiligheid, Mechanica-elektriciteit, Muziekinstrumentenbouw, Optiek, Orthopedische technieken, Tandtechnieken, Textiel</td>
+			<td>22</td>
+		</tr>
+		<tr>
+			<td>tweede en derde graad kunstsecundair onderwijs: de studiegebieden Ballet, Podiumkunsten</td>
+			<td>20</td>
+		</tr>
+		<tr>
+			<td>tweede en derde graad kunstsecundair onderwijs: het studiegebied Beeldende kunsten</td>
+			<td>18</td>
+		</tr>
+		<tr>
+			<td>hoger beroepsonderwijs verpleegkunde</td>
+			<td>20</td>
+		</tr>
+		<tr>
+			<td>deeltijds beroepssecundair onderwijs</td>
+			<td>10</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">b) vanaf de modernisering van het secundair onderwijs worden de puntengewichten per regelmatige leerling als volgt vastgesteld:</span></span></span>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">1° voor de leerlingen van het secundair onderwijs worden de puntengewichten als volgt vastgesteld :</p>
-
-			<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-themecolor: text1; mso-border-alt: solid black .5pt;" border="1" cellspacing="0" cellpadding="0">
-				<tbody>
-					<tr>
-						<td style="width: 361.1pt; background-color: transparent;">
-						<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">Eerste graad</p>
-						</td>
-						<td style="border-color: black black black rgb(240, 240, 240); width: 99.5pt; background-color: transparent;">
-						<p style="margin-right: 0cm; margin-left: 0cm;">16 punten</p>
-						</td>
-					</tr>
-					<tr>
-						<td style="border-color: rgb(240, 240, 240) black black; width: 361.1pt; background-color: transparent;">
-						<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">Tweede en derde graad technisch en beroepssecundair onderwijs, de studiegebieden decoratieve technieken, fotografie, handel, mode, lichaamsverzorging, personenzorg, sport, toerisme en voeding</p>
-						</td>
-						<td style="border-color: rgb(240, 240, 240) black black rgb(240, 240, 240); width: 99.5pt; background-color: transparent;">
-						<p style="margin-right: 0cm; margin-left: 0cm;">18 punten</p>
-						</td>
-					</tr>
-					<tr>
-						<td style="border-color: rgb(240, 240, 240) black black; width: 361.1pt; background-color: transparent;">
-						<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">Tweede en derde graad technisch en beroepssecundair onderwijs, de studiegebieden auto, bouw, chemie, glastechnieken, grafische communicatie en media, hout, juwelen, koeling en warmte, land- en tuinbouw, maritieme opleidingen, maatschappelijke veiligheid, mechanica-elektriciteit, muziekinstrumentenbouw, optiek, orthopedische technieken, tandtechnieken en textiel</p>
-						</td>
-						<td style="border-color: rgb(240, 240, 240) black black rgb(240, 240, 240); width: 99.5pt; background-color: transparent;">
-						<p style="margin-right: 0cm; margin-left: 0cm;">22 punten</p>
-						</td>
-					</tr>
-					<tr>
-						<td style="border-color: rgb(240, 240, 240) black black; width: 361.1pt; background-color: transparent;">
-						<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">Tweede en derde graad algemeen secundair onderwijs (inclusief de aso-studierichtingen die tot het studiegebied sport behoren)</p>
-						</td>
-						<td style="border-color: rgb(240, 240, 240) black black rgb(240, 240, 240); width: 99.5pt; background-color: transparent;">
-						<p style="margin-right: 0cm; margin-left: 0cm;">16 punten</p>
-						</td>
-					</tr>
-					<tr>
-						<td style="border-color: rgb(240, 240, 240) black black; width: 361.1pt; background-color: transparent;">
-						<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">Tweede en derde graad kunstonderwijs, de studiegebieden ballet en podiumkunsten</p>
-						</td>
-						<td style="border-color: rgb(240, 240, 240) black black rgb(240, 240, 240); width: 99.5pt; background-color: transparent;">
-						<p style="margin-right: 0cm; margin-left: 0cm;">20 punten</p>
-						</td>
-					</tr>
-					<tr>
-						<td style="border-color: rgb(240, 240, 240) black black; width: 361.1pt; background-color: transparent;">
-						<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">Tweede en derde graad kunstonderwijs, het studiegebied beeldende kunsten</p>
-						</td>
-						<td style="border-color: rgb(240, 240, 240) black black rgb(240, 240, 240); width: 99.5pt; background-color: transparent;">
-						<p style="margin-right: 0cm; margin-left: 0cm;">18 punten</p>
-						</td>
-					</tr>
-					<tr>
-						<td style="border-color: rgb(240, 240, 240) black black; width: 361.1pt; background-color: transparent;">
-						<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">Hoger beroepsonderwijs en Vierde graad</p>
-						</td>
-						<td style="border-color: rgb(240, 240, 240) black black rgb(240, 240, 240); width: 99.5pt; background-color: transparent;">
-						<p style="margin-right: 0cm; margin-left: 0cm;">20 punten</p>
-						</td>
-					</tr>
-					<tr>
-						<td style="border-color: rgb(240, 240, 240) black black; width: 361.1pt; background-color: transparent;">
-						<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">Deeltijds beroepssecundair onderwijs</p>
-						</td>
-						<td style="border-color: rgb(240, 240, 240) black black rgb(240, 240, 240); width: 99.5pt; background-color: transparent;">
-						<p style="margin-right: 0cm; margin-left: 0cm;">10 punten</p>
-						</td>
-					</tr>
-				</tbody>
-			</table>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">2° voor alle scholen wordt per categorie, vermeld in 1°, het aantal leerlingen, geteld op de teldatum, vermeld in 172, vermenigvuldigd met het overeenkomstige puntengewicht;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">3° het B_SchK wordt vervolgens gedeeld door het totale aantal te verdelen punten. Het quotiënt van die deling is de geldwaarde per punt voor schoolkenmerken, hierna GPP_SchK te noemen. (244)</p>
-			</td>
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>Eerste graad</td>
+			<td>16</td>
+		</tr>
+		<tr>
+			<td>Tweede en derde graad algemeen secundair onderwijs: de disciplines Klassiek, Modern, Sport</td>
+			<td>16</td>
+		</tr>
+		<tr>
+			<td>Tweede en derde graad technisch en beroepssecundair onderwijs: de disciplines Administratie en distributie, Horeca, Lichaamsverzorging, Modecreatie, Moderealisatie en textielverzorging, Personenzorg, Sport, Toerisme, taal en cultuur, Voeding</td>
+			<td>18</td>
+		</tr>
+		<tr>
+			<td>Tweede en derde graad technisch en beroepssecundair onderwijs: de disciplines Auto en tweewielers, Biotechnologie en chemie, Creatie en ambacht, Grafische technieken en media, Hout en bouw, Koeling en warmte, Landen tuinbouw, Maatschappelijke veiligheid, Maritiem, Mechanicaelektriciteit, Paramedisch, Technologie en industrie, Textiel</td>
+			<td>22</td>
+		</tr>
+		<tr>
+			<td>Tweede en derde graad kunstsecundair onderwijs: de disciplines Architectuur en beeldende kunst, Modecreatie</td>
+			<td>18</td>
+		</tr>
+		<tr>
+			<td>Tweede en derde graad kunstsecundair onderwijs: de discipline Podiumkunsten</td>
+			<td>20</td>
+		</tr>
+		<tr>
+			<td>Tweede en derde graad kunstsecundair onderwijs: de discipline Grafische technieken en media</td>
+			<td>22</td>
+		</tr>
+		<tr>
+			<td>Hoger beroepsonderwijs verpleegkunde</td>
+			<td>20</td>
+		</tr>
+		<tr>
+			<td>Deeltijds beroepssecundair onderwijs</td>
+			<td>10</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
+<p style="margin-left:0cm; margin-right:0cm">2° voor alle scholen wordt per categorie, vermeld in 1°, het aantal leerlingen, geteld op de teldatum, vermeld in 172, vermenigvuldigd met het overeenkomstige puntengewicht;</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p style="margin-left:0cm; margin-right:0cm">3° het B_SchK wordt vervolgens gedeeld door het totale aantal te verdelen punten. Het quotiënt van die deling is de geldwaarde per punt voor schoolkenmerken, hierna GPP_SchK te noemen.&nbsp;</p>
 
 ### ART. 246.
 
@@ -4289,13 +4246,13 @@ Het werkingsbudget per school wordt voor een deel berekend op basis van schoolke
 ### ART. 249.
 
 <!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>decockge</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>decockge</o:LastAuthor><br>  <o:Revision>2</o:Revision><br>  <o:TotalTime>15</o:TotalTime><br>  <o:LastPrinted>2011-06-27T06:33:00Z</o:LastPrinted><br>  <o:Created>2011-06-28T07:22:00Z</o:Created><br>  <o:LastSaved>2011-06-28T07:22:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>533</o:Words><br>  <o:Characters>2967</o:Characters><br>  <o:Company>Vlaamse Overheid</o:Company><br>  <o:Lines>24</o:Lines><br>  <o:Paragraphs>6</o:Paragraphs><br>  <o:CharactersWithSpaces>3494</o:CharactersWithSpaces><br>  <o:Version>12.00</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:TrackMoves></w:TrackMoves><br>  <w:TrackFormatting></w:TrackFormatting><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:DoNotPromoteQF></w:DoNotPromoteQF><br>  <w:LidThemeOther>NL-BE</w:LidThemeOther><br>  <w:LidThemeAsian>X-NONE</w:LidThemeAsian><br>  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>   <w:SplitPgBreakAndParaMark></w:SplitPgBreakAndParaMark><br>   <w:DontVertAlignCellWithSp></w:DontVertAlignCellWithSp><br>   <w:DontBreakConstrainedForcedTables></w:DontBreakConstrainedForcedTables><br>   <w:DontVertAlignInTxbx></w:DontVertAlignInTxbx><br>   <w:Word11KerningPairs></w:Word11KerningPairs><br>   <w:CachedColBalance></w:CachedColBalance><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br>  <m:mathPr><br>   <m:mathFont m:val="e;Cambria Math"e;></m:mathFont><br>   <m:brkBin m:val="e;before"e;></m:brkBin><br>   <m:brkBinSub m:val="e;--"e;></m:brkBinSub><br>   <m:smallFrac m:val="e;off"e;></m:smallFrac><br>   <m:dispDef></m:dispDef><br>   <m:lMargin m:val="e;0"e;></m:lMargin><br>   <m:rMargin m:val="e;0"e;></m:rMargin><br>   <m:defJc m:val="e;centerGroup"e;></m:defJc><br>   <m:wrapIndent m:val="e;1440"e;></m:wrapIndent><br>   <m:intLim m:val="e;subSup"e;></m:intLim><br>   <m:naryLim m:val="e;undOvr"e;></m:naryLim><br>  </m:mathPr></w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; DefUnhideWhenUsed="e;true"e;<br>  DefSemiHidden="e;true"e; DefQFormat="e;false"e; DefPriority="e;99"e;<br>  LatentStyleCount="e;267"e;><br>  <w:LsdException Locked="e;false"e; Priority="e;0"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Normal"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;heading 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 7"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 8"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 9"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 7"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 8"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 9"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;35"e; QFormat="e;true"e; Name="e;caption"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;10"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Title"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; Name="e;Default Paragraph Font"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;11"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtitle"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;22"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Strong"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;20"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;59"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Table Grid"e;/><br>  <w:LsdException Locked="e;false"e; UnhideWhenUsed="e;false"e; Name="e;Placeholder Text"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;No Spacing"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; UnhideWhenUsed="e;false"e; Name="e;Revision"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;34"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;List Paragraph"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;29"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Quote"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;30"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Quote"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;19"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtle Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;21"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;31"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtle Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;32"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;33"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Book Title"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;37"e; Name="e;Bibliography"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; QFormat="e;true"e; Name="e;TOC Heading"e;></w:LsdException><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-priority:99;<br>	mso-style-qformat:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Calibri"e;,"e;sans-serif"e;;<br>	mso-ascii-font-family:Calibri;<br>	mso-ascii-theme-font:minor-latin;<br>	mso-hansi-font-family:Calibri;<br>	mso-hansi-theme-font:minor-latin;<br>	mso-bidi-font-family:"e;Times New Roman"e;;<br>	mso-bidi-theme-font:minor-bidi;<br>	mso-fareast-language:EN-US;&rgtaco;<br>table.MsoTableGrid<br>	&lftaco;mso-style-name:Tabelraster;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-priority:59;<br>	mso-style-unhide:no;<br>	border:solid black 1.0pt;<br>	mso-border-themecolor:text1;<br>	mso-border-alt:solid black .5pt;<br>	mso-border-themecolor:text1;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-border-insideh:.5pt solid black;<br>	mso-border-insideh-themecolor:text1;<br>	mso-border-insidev:.5pt solid black;<br>	mso-border-insidev-themecolor:text1;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:11.0pt;<br>	font-family:"e;Calibri"e;,"e;sans-serif"e;;<br>	mso-ascii-font-family:Calibri;<br>	mso-ascii-theme-font:minor-latin;<br>	mso-hansi-font-family:Calibri;<br>	mso-hansi-theme-font:minor-latin;<br>	mso-fareast-language:EN-US;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;1026"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]-->&nbsp;
-<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: none; mso-border-insidev: none;" border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border-image:none; border:currentColor; mso-border-insideh:none; mso-border-insidev:none; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-yfti-tbllook:1184">
 	<tbody>
 		<tr>
-			<td style="width: 460.6pt; background-color: transparent;">
+			<td style="background-color:transparent; width:460.6pt">
 			<p>§ 1. Per school wordt het totale aantal punten berekend door het aantal leerlingen, geteld op de teldatum, vermeld in 172, te vermenigvuldigen met hun puntengewicht voor schoolkenmerken, met uitzondering van schoolkenmerk V1 en V2.<br>
 			<br>
-			§ 2. Het werkingsbudget per school van het gewoon secundair onderwijs is de som van :</p>
+			§ 2.&nbsp;Onverminderd de bepalingen in artikel 39, § 7, 2°, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, is het werkingsbudget per school van het gewoon secundair onderwijs de som van:</p>
 
 			<p>1° het resultaat van de vermenigvuldiging van het totale aantal punten per school met de GPP_SchK, vermeld in artikel 245, 3°;</p>
 
@@ -4381,7 +4338,7 @@ Onverminderd de door de Vlaamse Regering bepaalde toelatingsvoorwaarden, vermeld
 <br>
 Deze maximumleeftijd is evenwel niet van toepassing op :<br>
 1° leerlingen die tijdens het schooljaar 2013-2014 voltijds gewoon secundair onderwijs hebben gevolgd en vanaf het schooljaar 2014-2015 hun secundaire studie verder zetten;<br>
-2° het Se-n-Se;<br>
+2° de structuuronderdelen van het derde leerjaar van de derde graad;<br>
 3° andere dan in 2° vermelde structuuronderdelen die door de Vlaamse Regering kunnen worden vastgelegd en voor zover het betrokken schoolbestuur beslist om in een of meer van zijn scholen onderhavige bepaling voor alle leerlingen van het betrokken structuuronderdeel toe te passen.<br>
 <br>
 Voor de hbo5-opleiding Verpleegkunde geldt evenmin een maximumleeftijd.
@@ -4745,7 +4702,24 @@ Het handelingsplan geeft in voorkomend geval weer hoe het multidisciplinair team
 
 ### ART. 268.
 
-§ 1. Voor de toepassing van deze afdeling wordt verstaan onder : <BR>1°   Regelmatige leerling : de leerling die beantwoordt aan de toelatingsvoorwaarden   en, waar het voorzien is, aan de overgangsvoorwaarden en die regelmatig de   activiteiten volgt, behoudens in geval van gewettigde afwezigheid; <BR>2°   Bevolkingsdichtheid van een arrondissement : de bevolking per bestuurlijk   arrondissement, zoals die berekend werd ten gevolge van de laatst uitgevoerde   volkstelling en vastgesteld door het Nationaal Instituut voor de Statistiek,   gedeeld door de totale oppervlakte van het arrondissement, uitgedrukt in km2.   <BR><BR>De bevolkingsdichtheid, in aanmerking te nemen voor een school die   vestigingsplaatsen heeft in verschillende arrondissementen, wordt vastgesteld op   basis van volgende berekening : de totale bevolking van deze arrondissementen   worden gedeeld door de totale oppervlakte uitgedrukt in km2.&nbsp;<BR><BR>§ 2.   De scholen van het buitengewoon onderwijs worden, naargelang van het   schoolbestuur waarvan zij afhangen, voor de toepassing van deze afdeling   ingedeeld in de volgende groepen :<BR>- scholen van het   gemeenschapsonderwijs;<BR>- gesubsidieerde officiële scholen;<BR>-   gesubsidieerde vrije katholieke scholen;<BR>- gesubsidieerde vrije protestantse   scholen;<BR>- gesubsidieerde vrije israëlitische scholen;<BR>- gesubsidieerde   vrije islamitische scholen;<BR>- gesubsidieerde vrije orthodoxe scholen;<BR>-   gesubsidieerde vrije anglicaanse scholen;<BR>- gesubsidieerde vrije   niet-confessionele scholen.<BR><BR>§ 3. In geval van overmacht wordt de   tijdelijke overbrenging van een school of vestigingsplaats niet gelijkgesteld   met een nieuwe oprichting.<BR><BR>In geval van definitieve ontruiming mag het   verlaten schoolgebouw niet meer geheel of gedeeltelijk in gebruik genomen   blijven. (267)
+§ 1. Voor de toepassing van deze afdeling wordt verstaan onder :<br>
+1° Regelmatige leerling : de leerling die beantwoordt aan de toelatingsvoorwaarden en, waar het voorzien is, aan de overgangsvoorwaarden en die regelmatig de activiteiten volgt, behoudens in geval van gewettigde afwezigheid;<br>
+2° Bevolkingsdichtheid van een arrondissement : de bevolking per bestuurlijk arrondissement, zoals die berekend werd ten gevolge van de laatst uitgevoerde volkstelling en vastgesteld door het Nationaal Instituut voor de Statistiek, gedeeld door de totale oppervlakte van het arrondissement, uitgedrukt in km2.<br>
+<br>
+De bevolkingsdichtheid, in aanmerking te nemen voor een school die vestigingsplaatsen heeft in verschillende arrondissementen, wordt vastgesteld op basis van volgende berekening : de totale bevolking van deze arrondissementen worden gedeeld door de totale oppervlakte uitgedrukt in km2.&nbsp;<br>
+<br>
+§ 2. De scholen van het buitengewoon onderwijs worden, naargelang van het schoolbestuur waarvan zij afhangen, voor de toepassing van deze afdeling ingedeeld in de volgende groepen :<br>
+- scholen van het gemeenschapsonderwijs;<br>
+- gesubsidieerde officiële scholen;<br>
+- gesubsidieerde vrije katholieke scholen;<br>
+- gesubsidieerde vrije protestantse scholen;<br>
+- gesubsidieerde vrije israëlitische scholen;<br>
+- gesubsidieerde vrije islamitische scholen;<br>
+- gesubsidieerde vrije orthodoxe scholen;<br>
+- gesubsidieerde vrije anglicaanse scholen;<br>
+- gesubsidieerde vrije niet-confessionele scholen.<br>
+<br>
+§ 3.&nbsp;In geval van definitieve ontruiming mag het verlaten schoolgebouw niet meer geheel of gedeeltelijk in gebruik genomen blijven.&nbsp;
 
 ### ART. 269.
 
@@ -5055,6 +5029,10 @@ In afwijking van artikel 289 kan een op 31 augustus 2014 bestaande school   van 
 
 § 1. In afwijking van de artikelen 286 en 289 wordt de oprichting van een   nieuwe type ook als een programmatie beschouwd.<BR><BR>De school hertelt op de   datum, vermeld in artikel 271, indien er effectief leerlingen van het nieuwe   type zijn op die datum en voldaan is aan de voorwaarden bepaald in paragraaf   2.<BR><BR>Indien simultaan een nieuwe school wordt opgericht met dit nieuwe   type, moet voor de oprichting van dit nieuwe type voldaan zijn aan de   voorwaarden, bepaald in paragraaf 2 van dit artikel en voor de oprichting van de   school voldaan zijn aan de voorwaarden van artikel 286.<BR><BR>Indien simultaan   een nieuwe opleidingsvorm of een nieuwe opleiding wordt opgericht met dit nieuwe   type, moet voor de oprichting van dit nieuwe type voldaan zijn aan de   voorwaarden, bepaald in paragraaf 2 van dit artikel en voor de oprichting van de   opleidingsvorm en de opleiding voldaan zijn aan de voorwaarden van artikel   289.<BR><BR>§ 2. In een school of opleidingsvorm kan een nieuw type worden   opgericht als aan de volgende voorwaarden wordt voldaan:<BR>1° het schoolbestuur   dient een programmatiedossier in dat ten minste voldoet aan onderstaande   kwaliteitsvoorwaarden:<BR>a) het schoolbestuur dient het dossier in na overleg   binnen de schoolraad en in de wettelijk voorziene overlegorganen met het   personeel;<BR>b) het dossier bevat een omgevingsanalyse die de noodzaak, de   doelmatigheid en de leefbaarheid van het programmatievoorstel motiveert. Bij de   omgevingsanalyse wordt, waar dit voor de betrokken schoolpopulatie relevant is,   de link met eventuele aangepaste verblijfmogelijkheden, met inbegrip van   schoolexterne begeleidingsmo- gelijkheden voor jongeren met bijkomende   zorgbehoeften, expliciet behandeld;<BR>c) de school moet beschikken over de   vereiste infrastructurele en materiële voorzieningen op gebied van   toegankelijkheid en hulpmiddelen nodig voor het nieuwe type;<BR>d) de reeds   bestaande expertise of de inspanningen rond professionalisering van het team met   betrekking tot het nieuwe type worden in het dossier weergegeven.<BR>De Vlaamse   Regering kan nadere regels bepalen over de inhoud en de vorm van het   programmatiedossier en over de wijze waarop de kwaliteitsvoorwaarden worden   beoordeeld;<BR>2° de oprichting vanaf 1 september van het nieuwe type kan pas na   een gunstige beslissing van de Vlaamse Regering.<BR><BR>Het schoolbestuur stuurt   daartoe uiterlijk op 30 november van het voorafgaande schooljaar een   gemotiveerde aanvraag met het programmatiedossier aan AgODi, dat de aanvraag   voor advies aan de Vlaamse Onderwijsraad bezorgt.<BR><BR>In afwijking van het   voorgaande lid, kunnen voor de oprichting vanaf 1 september 2015 van type 9   gemotiveerde aanvragen bij AgODi ingediend worden tot uiterlijk 1 juli   2014.<BR><BR>De Vlaamse Regering neemt deze beslissing na advies van de Vlaamse   Onderwijsraad over de gegrondheid van de lokale behoefte aan extra aanbod en na   advies van AgODi en de onderwijsinspectie.<BR><BR>§ 3. De scholen voor   buitengewoon secundair onderwijs die tijdens het schooljaar 2014- 2015 een   aanbod type 1 aanboden, bieden vanaf 1 september 2015 het basisaanbod aan als   vermeld in artikel 259, § 1, 1°. Dit wordt niet beschouwd als een   herstructurering.<BR><BR>De oprichting van een type in het schooljaar 2015-2016   wordt niet beschouwd als een herstructurering.
 
+### ART 290/2.
+
+In afwijking van de artikelen 286, 289 en 290/1 mag een schoolbestuur dat voor de programmatie van een nieuw type, een nieuwe opleidingsvorm of van een nieuwe school een goedkeuring kreeg van de Vlaamse Regering met het oog op de start van het nieuwe aanbod op 1 september 2021, zonder bijkomende aanvraag of goedkeuring een tweede maal het bijkomende aanbod inrichten vanaf 1 september 2022, indien de school de programmatienormen voor dit nieuwe aanbod niet haalt op de eerste schooldag van oktober 2021. Op de eerste schooldag van oktober 2022 moet de school de programmatienormen voor dit nieuwe aanbod bereiken.
+
 ## HOOFDSTUK 2. Bepalingen betreffende leerlingen van de opleidingsvormen 1, 2, 3 en 4
 
 ## Afdeling 1. Toelatingsvoorwaarden
@@ -5305,7 +5283,7 @@ Maximum 3 % van het urenpakket en van het lesurenpakket kan worden aangewend voo
 
 ### ART. 314/1.
 
-§ 1.&nbsp;Er wordt&nbsp;gedurende de schooljaren 2013-2014,&nbsp;2014-2015, 2015-2016, 2016-2017, 2017-2018, 2018-2019, 2019-2020 en 2020-2021 aan de scholen van het buitengewoon secundair onderwijs die voldoen aan de voorwaarden bepaald in deze onderafdeling toegestaan dat, in afwijking van het artikel 20, maximum 61 lesuren, die deel uitmaken van het lesurenpakket, vermeld in de artikelen 298, 301, 302 en 303, toegekend aan een school voor buitengewoon secundair onderwijs overgedragen kunnen worden aan een centrum voor deeltijdse vorming of aan een andere instelling met ervaring in het begeleiden van de doelgroep vermeld in artikel III.314/2 en omgezet kunnen worden in kredieten. In voorkomend geval beslist het schoolbestuur, na onderhandeling in het lokale comité, over de overdracht van maximum 61 lesuren naar een centrum voor deeltijdse vorming of een andere instelling voor realisatie van leerlinggebonden activiteiten voor de doelgroep vermeld in artikel III.314/2.<br>
+§ 1.&nbsp;Er wordt&nbsp;gedurende de schooljaren 2013-2014,&nbsp;2014-2015, 2015-2016, 2016-2017, 2017-2018, 2018-2019, 2019-2020, 2020-2021 en 2021-2022 aan de scholen van het buitengewoon secundair onderwijs die voldoen aan de voorwaarden bepaald in deze onderafdeling toegestaan dat, in afwijking van het artikel 20, maximum 61 lesuren, die deel uitmaken van het lesurenpakket, vermeld in de artikelen 298, 301, 302 en 303, toegekend aan een school voor buitengewoon secundair onderwijs overgedragen kunnen worden aan een centrum voor deeltijdse vorming of aan een andere instelling met ervaring in het begeleiden van de doelgroep vermeld in artikel III.314/2 en omgezet kunnen worden in kredieten. In voorkomend geval beslist het schoolbestuur, na onderhandeling in het lokale comité, over de overdracht van maximum 61 lesuren naar een centrum voor deeltijdse vorming of een andere instelling voor realisatie van leerlinggebonden activiteiten voor de doelgroep vermeld in artikel III.314/2.<br>
 <br>
 § 2. De omzetting van lesuren en uren van een school voor buitengewoon secundair onderwijs in een krediet voor een centrum voor deeltijdse vorming of voor een andere instelling, bestemd voor de organisatie van leerlinggebonden activiteiten voor de doelgroep vermeld in artikel 314/2 wordt als volgt vastgesteld :<br>
 1° het aantal lesuren en uren dat wordt omgezet in kredieten, wordt vermenigvuldigd met veertig, dat is het aantal weken openstelling per jaar, zodat een aantal jaarlesuren en een aantal jaaruren wordt verkregen. Dat resultaat, dat in de loop van het schooljaar niet meer kan worden gewijzigd, wordt vóór 1 oktober van het schooljaar in kwestie aan het Vlaams ministerie van Onderwijs en Vorming meegedeeld;<br>
@@ -5344,7 +5322,7 @@ De betrokken scholen brengen jaarlijks verslag uit bij de stuurgroep. Na de besp
 
 ### ART. 314/4.
 
-De bepalingen van deze onderafdeling treden in werking op 1 september 2011 en houden op van kracht te zijn op 31 augustus 2021.
+De bepalingen van deze onderafdeling treden in werking op 1 september 2011 en houden op van kracht te zijn op 31 augustus 2022.
 
 ## [Onderafdeling 3/2. Waarborgregeling bij daling van het leerlingenaantal in het buitengewoon onderwijs (ing. decr. 21 maart 2014, art. III.56, I: 1 januari 2015)]
 
@@ -5493,7 +5471,7 @@ d) type 7: 2,38 begeleidingseenheden.<br>
 <br>
 De lesuren, de uren en de begeleidingseenheden worden per school voor buitengewoon onderwijs telkens per type en afzonderlijk voor punt 1° en 2° opgeteld en in geval van een decimaal getal naar de hogere eenheid afgerond.<br>
 <br>
-In functie van extra ondersteuningsnoden voor leerlingen met een verslag type 2, 4, 6 of 7 of met een inschrijvingsverslag type 2 bovenop de lesuren die ze genereren in een school voor gewoon onderwijs of het behoud van expertise en tewerkstelling in een school voor buitengewoon onderwijs die het aanbod heeft voor leerlingen conform artikel 259, § 1, 2° en/of 4°, en/of 6°, en/of 7°, kan, met toepassing van de omzettingstabel als vermeld in artikel 22/20, 2°, tweede lid, 1°, 2° en 3°, een omzetting gebeuren van lesuren naar uren of omgekeerd om voormelde leerlingen, indien de situatie het vereist, beter te ondersteunen. Deze omzetting is afhankelijk van het akkoord van de ouders en van de lokale onderhandelingscomités van de school voor gewoon en buitengewoon onderwijs.<br>
+In functie van extra ondersteuningsnoden voor leerlingen met een verslag type 2, 4, 6 of 7 of met een inschrijvingsverslag type 2 bovenop de lesuren die ze genereren in een school voor gewoon onderwijs of het behoud van expertise en tewerkstelling in een school voor buitengewoon onderwijs die het aanbod heeft voor leerlingen conform artikel 259, § 1, 2° en/of 4°, en/of 6°, en/of 7°, kan, met toepassing van omzettingstabellen voor aanwending in wervingsambten van het medisch, paramedisch, orthopedagogisch, psychologisch of sociaal personeel die de Vlaamse Regering vastlegt, een omzetting gebeuren van lesuren naar uren of omgekeerd om voormelde leerlingen, indien de situatie het vereist, beter te ondersteunen. Deze omzetting is afhankelijk van het akkoord van de ouders en van de lokale onderhandelingscomités van de school voor gewoon en buitengewoon onderwijs.<br>
 <br>
 § 4. De teldagen voor de toekenning van de lesuren, uren en begeleidingseenheden aan scholen voor buitengewoon onderwijs zijn:<br>
 1° de eerste schooldag van oktober van het lopende schooljaar;<br>
@@ -5549,27 +5527,35 @@ Artikel 216, § 5, is eveneens van toepassing in de scholen van het buitengewoon
 
 ### ART. 318.
 
-§ 1. Scholen kunnen voor een periode van drie schooljaren extra lesuren   krijgen voor zover ze aan alle onderstaande voorwaarden voldoen :<BR>1° op 1   februari van het voorafgaande schooljaar ten minste 40% externe en semi-interne   regelmatige leerlingen type basisaanbod en type 3 tellen, die beantwoorden aan   de in artikel 317, § 1, 1°, bedoelde gelijkekansenindicator;<BR>2°   overeenkomstig de bepalingen van artikel 319 batig gerangschikt zijn onder de in   punt 1°, bedoelde scholen en ten minste 6 extra lesuren genereren.<BR><BR>§ 2.   ...<BR><BR>§ 3. ...
+Scholen kunnen jaarlijks extra lesuren krijgen voor zover ze aan alle onderstaande voorwaarden voldoen:<br>
+1° op 1 februari van het voorafgaande of daaraan voorafgaande schooljaar ten minste 40% regelmatige leerlingen type basisaanbod en type 3 tellen, die beantwoorden aan de in artikel 317, §1, 1°, bedoelde gelijkekansenindicator en die niet:<br>
+- binnen het niet rechtstreeks toegankelijke aanbod, als vermeld in artikel 2, §1, 40, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp gebruik maken van de module verblijf in een multifunctioneel centrum als vermeld in artikel 10 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
+- in een internaat buitengewoon onderwijs als vermeld in deel III, hoofdstuk 4, afdeling 1, onderafdeling 2, van de codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016 ingeschreven zijn;<br>
+2° overeenkomstig de bepalingen van artikel 319 batig gerangschikt zijn onder de in punt 1° bedoelde scholen en ten minste 6 extra lesuren genereren.
 
 ### ART. 319.
 
-§ 1. De toekenning van de middelen gebeurt driejaarlijks als volgt :<BR>1°   de in artikel 318 bedoelde scholen worden gerangschikt volgens het percentage   leerlingen die beantwoorden aan de in artikel 317, § 1, 1°, bedoelde   gelijkekansenindicator. Binnen eenzelfde percentage worden de scholen volgens   het absolute aantal van die leerlingen gerangschikt; <BR>2° de leerlingen   genereren een aantal punten op basis van het gewicht van de   gelijkekansenindicatoren die op hen van toepassing zijn.<BR><BR>§ 2. De Vlaamse   Regering bepaalt binnen de beschikbare begrotingskredieten hoeveel extra lesuren   een punt vertegenwoordigt.<BR><BR>De Vlaamse Regering bepaalt de   personeelscategorieën en ambten waarin op basis van de extra lesuren   betrekkingen kunnen worden ingericht.<BR><BR>De Vlaamse Regering bepaalt tevens   de regelen inzake de toekenning of herverdeling, tijdens een lopende periode van   drie schooljaren, van nieuwe of vrijkomende extra lesuren.
+§ 1.&nbsp;Onverminderd de bepalingen van artikel 39, § 7, 2°, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, gebeurt de toekenning van de extra lesuren jaarlijks als volgt:<br>
+1° de in artikel 318 bedoelde scholen worden gerangschikt volgens het percentage leerlingen die beantwoorden aan de in artikel 317, § 1, 1°, bedoelde gelijkekansenindicator. Binnen eenzelfde percentage worden de scholen volgens het absolute aantal van die leerlingen gerangschikt;<br>
+2° de leerlingen genereren een aantal punten op basis van het gewicht van de gelijkekansenindicatoren die op hen van toepassing zijn.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt binnen de beschikbare begrotingskredieten hoeveel extra lesuren een punt vertegenwoordigt.
 
 ### ART. 320.
 
-§ 1. Een school die extra lesuren krijgt, werkt in het eerste trimester van het eerste schooljaar een gelijkekansenbeleid uit. Vanuit een analyse van haar beginsituatie geeft de school aan :<br />1° welke concrete doelstellingen ze op het vlak van de leerlingen, van de personeelsleden en de school wil bereiken. De Vlaamse Regering bepaalt doelstellingen die kunnen worden gekozen binnen de volgende thema's :<br />a) een gericht aanbod rond taalvaardigheid;<br />b) het aanbieden van onderwijsgerichte opvoedingsondersteuning aan ouders;<br />c) het opnemen van de (laagdrempelige) sociale functie in een netwerk met partners uit andere sectoren;<br />2° op welke manier zij die doelstellingen wil bereiken;<br />3° op welke manier zij zichzelf in de loop van het tweede trimester van het tweede schooljaar evalueert.<br /><br />§ 2. De extra lesuren kunnen enkel worden aangewend om de in § 1 bedoelde doelstellingen te bereiken. (319)<br /><br />
+De extra lesuren kunnen enkel worden aangewend om als schoolteam voor elke leerling een passende begeleiding te voorzien met het oog op gelijke onderwijskansen als vermeld in artikel 123/21 en op dat vlak tegemoet te komen aan de kwaliteitsverwachtingen, opgenomen in het referentiekader onderwijskwaliteit, vastgelegd door de Vlaamse Regering. Teneinde hieraan uitvoering te geven, bepaalt de school haar eigen streefdoelen, indicatoren en een tijdspad.
 
 ### ART. 321.
 
-De scholen betrekken in het ontwikkelen en realiseren van de in artikel 320, § 1, bedoelde doelstellingen het centrum voor leerlingenbegeleiding waardoor ze worden begeleid. (320)
+...
 
 ### ART. 322.
 
-§ 1. De onderwijsinspectie gaat telkens in de loop van het laatste schooljaar na of, en in welke mate, de doelstellingen werden bereikt. Het bereiken van de doelstellingen wordt afgewogen tegenover de schoolcontext en de kenmerken van de schoolpopulatie.<br /><br />Bij een positieve evaluatie kan de school voor een nieuwe periode van drie schooljaren extra lesuren krijgen indien opnieuw aan alle voorwaarden van artikel 318 voldaan is.<br /><br />Bij een negatieve evaluatie verliest de school elk recht op de in artikel 318 bedoelde extra lesuren voor de volgende periode van drie schooljaren, tenzij de school een engagement tot remediëring aangaat. In dat geval krijgt ze de helft van het aantal extra lesuren waarop ze in geval van positieve evaluatie recht zou hebben. <br /><br />Een engagement tot remediëring moet aan de volgende voorwaarden voldoen :<br />1° de scholen verbinden er zich toe een stappenplan op te stellen dat aan de volgende criteria voldoet :<br />a) het uitgangspunt van het stappenplan zijn de geformuleerde knelpunten in het evaluatieverslag van de onderwijsinspectie van de betrokken school;<br />b) de geformuleerde doelstellingen tot remediering in het stappenplan passen binnen de<br />doelstellingen van artikel 320, § 1, 1°;<br />c) de doelstellingen zijn outputgericht, concreet en operationeel geformuleerd. Ze moeten voldoende controleerbaar zijn;<br />d) het stappenplan wordt vóór 1 mei van het schooljaar dat op de negatieve evaluatie volgt, aan de onderwijsinspectie bezorgd;<br />e) de doelstellingen moeten gerealiseerd zijn vóór 1 juni van het schooljaar volgend op de negatieve evaluatie;<br />2° de scholen verbinden er zich toe om een beroep te doen op externe begeleiding en ondersteuning bij het opstellen en de uitvoering van het stappenplan.<br /><br />De onderwijsinspectie gaat in de maand juni van het schooljaar dat op de negatieve evaluatie volgt, opnieuw na of, en in welke mate, de doelstellingen werden bereikt. Het bereiken van de doelstellingen wordt afgewogen tegenover de schoolcontext en de kenmerken van de schoolpopulatie.<br /><br />Bij een positieve evaluatie kan de school vanaf het tweede schooljaar weer een beroep doen op het volledige aantal van de in artikel 318 bedoelde extra lesuren begeleidingseenheden. Bij een negatieve evaluatie verliest de school het recht op de in artikel 318 bedoelde extra lesuren voor de volgende twee schooljaren. <br /><br />§ 2. De Vlaamse Regering legt de nadere criteria en procedurele bepalingen, waarmee de onderwijsinspectie de controle uitvoert, vast.<br /><br />Ze voorziet voor de school in een beroepsmogelijkheid tegen een negatieve evaluatie. Het beroep wordt ingesteld bij een college van onderwijsinspecteurs. (321)
+De externe evaluatie op het gelijke onderwijskansenbeleid van de school met inbegrip van de aanwending van de extra lesuren, vermeld in artikel 318 tot en met 320 van deze codex, gebeurt in het kader van de schooldoorlichting als bedoeld in artikel 36 tot en met 42 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs.
 
 ### ART 322/1.
 
-In afwijking van de bepalingen van de artikelen 318, 319, § 1, en 322, § 1, wordt de driejarige cyclus 2014-2015 tot en met 2016-2017 waarbij aan scholen een geïntegreerd ondersteuningsaanbod gelijke onderwijskansen, wordt toegekend, verlengd tot en met het schooljaar 2017-2018 met behoud voor elke school van het aantal betrokken extra lesuren.
+...
 
 ## Afdeling 2. Financiering en subsidiëring van de werking
 
@@ -5939,11 +5925,9 @@ De Vlaamse Regering bepaalt de verdere inhoud van het gemotiveerd verslag.<br>
 <br>
 § 2. In afwijking van paragraaf 1 wordt voor een leerling die toegelaten werd tot het geïntegreerd secundair onderwijs op basis van een inschrijvingsverslag slechts een gemotiveerd verslag opgemaakt bij wijziging van het onderwijsniveau of van het type, vermeld in paragraaf 1, 2°.<br>
 <br>
-&nbsp;§ 3. Bij wijziging van het onderwijsniveau of van het type, vermeld in paragraaf 1, 2°, wordt een nieuw gemotiveerd verslag opgesteld. Een wijziging van het type, vermeld in paragraaf 1, 2°, binnen hetzelfde onderwijsniveau kan gebeuren met een addendum bij het gemotiveerd verslag, voorzien van de datum van opmaak.<br>
+&nbsp;§ 3. Bij wijziging van het onderwijsniveau of van het type, vermeld in paragraaf 1, 2°, wordt een nieuw gemotiveerd verslag opgesteld.&nbsp;<br>
 <br>
-§ 4. Wanneer niet meer voldaan is aan de criteria, vermeld in paragraaf 1, 1° of 2°, heft het centrum voor leerlingenbegeleiding het gemotiveerd verslag op. Wanneer een centrum voor leerlingenbegeleiding voor een leerling met een gemotiveerd verslag, een gemotiveerd verslag of verslag opmaakt in functie van een overgang van het basisonderwijs naar het secundair onderwijs, dan vervalt het gemotiveerd verslag dat de leerling had in het basisonderwijs.<br>
-<br>
-§ 5. Voor leerlingen met gedrags- of emotionele problemen waarvoor scholen, met toepassing van artikel 314/8, in het schooljaar 2017-2018 al een beroep konden doen op ondersteuning ook al was er geen gemotiveerd verslag of verslag voor die leerlingen afgeleverd, moet ten laatste tegen 1 januari 2019 een gemotiveerd verslag of verslag zijn opgemaakt als er voor deze leerlingen verder nood is aan ondersteuning in het schooljaar 2018-2019.</p>
+§ 4. Wanneer niet meer voldaan is aan de criteria, vermeld in paragraaf 1, 1° of 2°, heft het centrum voor leerlingenbegeleiding het gemotiveerd verslag op. Wanneer een centrum voor leerlingenbegeleiding voor een leerling met een gemotiveerd verslag, een gemotiveerd verslag of verslag opmaakt in functie van een overgang van het basisonderwijs naar het secundair onderwijs, dan vervalt het gemotiveerd verslag dat de leerling had in het basisonderwijs.</p>
 
 ### ART. 353.
 
@@ -6042,7 +6026,7 @@ In afwijking van het eerste lid kan een duaal structuuronderdeel ook opstarten n
 
 ### ART 357/7.
 
-§ 1. In afwachting van de progressieve uitrol van de modernisering van het secundair onderwijs vanaf 1 september 2019, zijn de duale structuuronderdelen ingericht volgens standaardtrajecten.<br>
+§1. In afwachting van de invoering van curriculumdossiers als vermeld in artikel 138, eerste lid, zijn de duale structuuronderdelen ingericht volgens standaardtrajecten.<br>
 <br>
 § 2. Voor elk duaal structuuronderdeel wordt één standaardtraject ontwikkeld, gebaseerd op een of meerdere beroepskwalificaties of één of meerdere deelkwalificaties, onder coördinatie van de bevoegde diensten van de Vlaamse Gemeenschap in overleg met de betrokken sector, het Gemeenschapsonderwijs, de representatieve verenigingen van schoolbesturen van het gesubsidieerde onderwijs, een afvaardiging van de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, het Departement Werk en Sociale Economie en de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding. Standaardtrajecten worden door de Vlaamse minister van Onderwijs en de Vlaamse minister van Werk ter goedkeuring voorgelegd aan de Vlaamse Regering.<br>
 <br>
@@ -6051,7 +6035,11 @@ Een standaardtraject bevat in elk geval:<br>
 2° de specifieke toelatingsvoorwaarden;<br>
 3° de graad en het studiegebied waartoe het structuuronderdeel behoort;<br>
 4° een clustering van beroepsgerichte competenties gebaseerd op een of meerdere beroepskwalificaties of een of meerder deelkwalificaties;<br>
-5° in voorkomend geval de algemeenvormende competenties, gebaseerd op de toepasbare eindtermen voor het overeenstemmend niet-duaal leren met uitzondering van de eindtermen lichamelijke opvoeding indien de aanbieder van de duale opleiding een centrum voor deeltijds beroepssecundair onderwijs of een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen is;<br>
+5° in voorkomend geval de algemeen vormende competenties, gebaseerd op de toepasbare eindtermen voor het overeenstemmend niet-duaal leren. Indien de aanbieder van de duale opleiding een centrum voor deeltijds beroepssecundair onderwijs of een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen is, zijn evenwel niet van toepassing:<br>
+1° vóór de modernisering: de eindtermen lichamelijke opvoeding van het beroepssecundair onderwijs als vermeld in het besluit van de Vlaamse Regering van 23 juni 2000, bekrachtigd bij het decreet van 18 januari 2002, en het besluit van de Vlaamse Regering van 20 september 2002, bekrachtigd bij het decreet van 20 december 2002;<br>
+2° vanaf de modernisering: de volgende eindtermen als vermeld in het decreet van 12 februari 2021:<br>
+a) de eindtermen 1.9, 1.10, 1.11 en 1.12 van de basisvorming van de tweede graad arbeidsmarktfinaliteit en van de tweede graad dubbele finaliteit binnen de sleutelcompetentie "competenties op het vlak van lichamelijk, geestelijk en emotioneel bewustzijn/ gezondheid"; en<br>
+b) de eindtermen 1.8, 1.9, 1.10 en 1.11 van de basisvorming van de derde graad arbeidsmarktfinaliteit en van de derde graad dubbele finaliteit binnen de sleutelcompetentie "competenties op het vlak van lichamelijk, geestelijk en emotioneel bewustzijn/ gezondheid";<br>
 6° de omvang van de werkplekcomponent;<br>
 7° welke cluster van competenties of welke combinatie van clusters van competenties die een leerling met vrucht beëindigt, recht geeft op een studiebekrachtiging;<br>
 8° de aanloopstructuuronderdelen die, afgeleid van dit standaardtraject, georganiseerd kunnen worden conform deel V/2.<br>
@@ -6087,7 +6075,9 @@ De Vlaamse Regering neemt een beslissing uiterlijk op 31 maart van het voorafgaa
 <br>
 Een aanbieder van een duaal structuuronderdeel dat in het schooljaar 2018-2019 experimenteel wordt ingericht, is vrijgesteld van programmatie zolang dit structuuronderdeel geen twee aansluitende schooljaren niet wordt ingericht.<br>
 <br>
-Op de programmaties, bedoeld in dit artikel, zijn vanaf het schooljaar 2021-2022 eveneens de bepalingen van artikel 176/1 van toepassing.
+Op de programmaties, bedoeld in dit artikel, zijn vanaf het schooljaar 2021-2022 eveneens de bepalingen van artikel 176/1 van toepassing.<br>
+<br>
+In afwijking van artikel 3, 35°, hoeft een aanbieder die op 1 september 2020 de toelating had om de opleiding beveiligingstechnicus duaal te organiseren, geen nieuwe programmatieaanvraag in te dienen met het oog op een opstart op 1 september 2021, ongeacht of die opleiding in het schooljaar 2020-2021 is georganiseerd.
 
 ## [TITEL 5. LEERLINGEN (ing. decr. 30 maart 2018, art. 22, I: 1 september 2019)]
 
