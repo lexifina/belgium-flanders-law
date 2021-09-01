@@ -105,7 +105,8 @@ De maatregelen vermeld in artikel 3, tweede lid, van het decreet van 29 maart, h
 29° de uitvoering van projectoproepen van het Europees Sociaal Fonds;<br>
 30° projectuitvoeringen in het kader van Europees Fonds voor Asiel, Migratie en Integratie;<br>
 31° de opleidingen, die georganiseerd zijn in het kader van de opleidingscheques, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 17 mei 2019 betreffende de opleidingscheques voor werknemers;<br>
-32° de opleiding, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 3 mei 2019 tot regeling van de VDAB-opleiding tot verzorgende en zorgkundige.<br>
+32° de opleiding, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 3 mei 2019 tot regeling van de VDAB-opleiding tot verzorgende en zorgkundige;<br>
+33° de deelname aan arbeidsmatige activiteiten in de sociale economie, vermeld in hoofdstuk 3/1 van het besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten.<br>
 &nbsp;
 
 ## HOOFDSTUK 3. Kwaliteitsvoorwaarden
@@ -143,9 +144,9 @@ De lijst met kwaliteitsbewijzen, vermeld in het eerste lid, wordt bekendgemaakt 
 ### ART 5.
 
 § 1. In dit artikel wordt verstaan onder:<br>
-1° assessor: de persoon die met een arbeidsovereenkomst bij een aangestelde assessmentorganisatie werkt;<br>
+1° assessor: de persoon die namens een assessmentorganisatie een assessment verricht;<br>
 2° audit: het volgens een gestandaardiseerde methodiek registreren of een dienstverlener in overeenstemming is met de vastgestelde eisen die opgenomen zijn om een bepaald kwaliteitsbewijs te behalen;<br>
-3° auditor: de persoon die met een arbeidsovereenkomst bij een aangestelde auditorganisatie werkt;<br>
+3° auditor: de persoon die namens een auditorganisatie een audit verricht;<br>
 4° audit- of assessmentorganisaties: de organisaties met rechtspersoonlijkheid die aangesteld zijn om de audit of het assessment te verrichten;<br>
 5° positieve audit of positief assessment: een audit die of een assessment dat aangeeft dat de dienstverlener op voldoende wijze in overeenstemming is met de vastgestelde eisen die opgenomen zijn om een kwaliteitsbewijs te behalen.<br>
 <br>
@@ -170,6 +171,10 @@ In het eerste lid wordt onder de vereiste internationale standaardnormen van aud
 1° de audit- of de assessmentorganisatie voldoet aan de vereiste standaardnormen, vermeld in paragraaf 3, tweede lid;<br>
 2° de auditoren of assessoren zijn geen dienstverlener en verrichten geen dienstverleningen.<br>
 <br>
+De audit- of assessmentorganisaties bezorgen bij de verklaring op erewoord, vermeld in het eerste lid, de nodige bewijsstukken.<br>
+<br>
+De Vlaamse minister, bevoegd voor werk, en de Vlaamse minister, bevoegd voor de sociale economie, stellen de lijst met de bewijsstukken, vermeld in het tweede lid, vast.<br>
+<br>
 De lijst van audit- en assessmentorganisaties die een verklaring op erewoord hebben ondertekend, wordt bekendgemaakt op de website van het departement.
 
 ### ART 6.
@@ -190,7 +195,7 @@ Om het goedkeuringsbewijs te krijgen, is de voorwaarde, vermeld in artikel 3, §
 <br>
 In het derde lid wordt verstaan onder kleine dienstverlener: een dienstverlener die minder dan vijf werknemers in dienst heeft.<br>
 <br>
-De geldigheid van het goedkeuringsbewijs loopt af na 24 maanden vanaf de datum van de inwerkingtreding van dit besluit.
+De geldigheid van het goedkeuringsbewijs en de toepassingstermijn van artikel 5, tweede lid, 3° van het decreet van 29 maart 2019 lopen af op 31 december 2022..
 
 ## HOOFDSTUK 4. Registratie van de dienstverlener
 
