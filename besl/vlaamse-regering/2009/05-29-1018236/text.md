@@ -22,7 +22,8 @@ a) stafmedewerker;<br>
 b) leraar basiseducatie;<br>
 c) beleidsondersteunend administratief medewerker;<br>
 d) uitvoerend administratief medewerker;<br>
-e) ervaringsdeskundige in de armoede en sociale uitsluiting.
+e) ervaringsdeskundige in de armoede en sociale uitsluiting;<br>
+f) ICT-coördinator.
 
 ## HOOFDSTUK III De bekwaamheidsbewijzen
 
@@ -34,7 +35,8 @@ a) de directeur : een bekwaamheidsbewijs van ten minste bachelor + bewijs van pe
 b) de adjunct-directeur : een bekwaamheidsbewijs van ten minste bachelor + bewijs van pedagogische bekwaamheid (BPB);<br>
 c) de stafmedewerker : een bekwaamheidsbewijs van ten minste bachelor;<br>
 d) de leraar basiseducatie : een bekwaamheidsbewijs van ten minste bachelor + BPB; e) de beleidsondersteunend administratief medewerker : een bekwaamheidsbewijs van ten minste hoger secundair onderwijs (HSO);<br>
-f) de ervaringsdeskundige in de armoede en sociale uitsluiting : het certificaat of het getuigschrift van de opleiding van ervaringsdeskundige in de armoede en sociale uitsluiting.<br>
+f) de ervaringsdeskundige in de armoede en sociale uitsluiting : het certificaat of het getuigschrift van de opleiding van ervaringsdeskundige in de armoede en sociale uitsluiting;<br>
+g) de ICT-coördinator: een bekwaamheidsbewijs van ten minste bachelor;<br>
 2° andere bekwaamheidsbewijzen<br>
 a) de directeur : een bekwaamheidsbewijs van ten minste bachelor;<br>
 b) de adjunct-directeur : een bekwaamheidsbewijs van ten minste bachelor;<br>
@@ -73,7 +75,8 @@ a) salarisschaal 346 : de houders van een bekwaamheidsbewijs van ten minste bach
 b) salarisschaal 301 : de houders van een bekwaamheidsbewijs van ten minste bachelor;<br>
 5° de beleidsondersteunend administratief medewerker : salarisschaal 106;<br>
 6° de uitvoerend administratief medewerker : salarisschaal 122;<br>
-7° de ervaringsdeskundige in de armoede en sociale uitsluiting : salarisschaal 122.<br>
+7° de ervaringsdeskundige in de armoede en sociale uitsluiting : salarisschaal 122;<br>
+8° de ICT-coördinator: salarisschaal 501.<br>
 <br>
 § 2. De salarisschalen vermeld in § 1, zijn vastgesteld bij het besluit van de Vlaamse Regering van 5 oktober 2018 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.<br>
 &nbsp;
