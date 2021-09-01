@@ -389,7 +389,11 @@ d) theatermaker;<br>
 6° in de kortlopende studierichting woordkunst- en dramacultuur:<br>
 a) woordkunst- en dramacultuur;<br>
 b) recensent woordkunst-drama;<br>
-7° in de kortlopende studierichting schrijver: schrijver;<br>
+7° in de kortlopende studierichting schrijver:<br>
+a) proza;<br>
+b) poëzie;<br>
+c) dramateksten;<br>
+d) literaire non-fictie;<br>
 8° in de kortlopende studierichting specialisatie woordkunst-drama: de opties, vermeld in punt 3° tot en met 5°.
 
 ## Onderafdeling 2. Vakken
@@ -404,7 +408,7 @@ b) recensent woordkunst-drama;<br>
 1° in de optie speltheater:<br>
 a) dramastudio;<br>
 b) speltheater;<br>
-2° in de optie spreek- en verteltheater:<br>
+2° in de optie spreken en vertellen:<br>
 a) spreken en vertellen;<br>
 b) woordstudio;<br>
 3° in de optie verteltheater:<br>
@@ -945,7 +949,7 @@ Als een academie onderwijsbevoegdheid heeft verworven voor een muziekinstrument,
 
 ### ART 11.
 
-In het vak instrument: klassiek kunnen de volgende muziekinstrumenten georganiseerd worden:<br>
+§ 1. In het vak instrument: klassiek kunnen de volgende muziekinstrumenten georganiseerd worden:<br>
 1° snaarinstrumenten (strijkers en tokkelinstrumenten):<br>
 a) altviool;<br>
 b) cello;<br>
@@ -1002,11 +1006,26 @@ c) ritmisch slagwerk;<br>
 a) stemvorming voor minderjarigen;<br>
 b) zang.<br>
 <br>
-In het eerste lid, 2°, e), wordt verstaan onder klavierklas: een cursus waarin tenminste twee van volgende toetsinstrumenten geïntegreerd aangeboden worden: piano, klavecimbel, clavichord, harmonium, pianoforte en orgel. De cursus is bedoeld om bepaalde leerlingen van verschillende toetsinstrumenten te laten proeven vooraleer een keuze te maken, of om een veelzijdige klavierspeler op te leiden.
+In het eerste lid, 2°, e), wordt verstaan onder klavierklas: een cursus waarin tenminste twee van volgende toetsinstrumenten geïntegreerd aangeboden worden: piano, klavecimbel, clavichord, harmonium, pianoforte, beiaard en orgel. De cursus is bedoeld om bepaalde leerlingen van verschillende toetsinstrumenten te laten proeven vooraleer een keuze te maken, of om een veelzijdige klavierspeler op te leiden.<br>
+<br>
+§ 2. In het vak begeleidingspraktijk: klassiek kunnen de volgende muziekinstrumenten georganiseerd worden:<br>
+1° accordeon;<br>
+2° bandoneon;<br>
+3° beiaard;<br>
+4° gitaar;<br>
+5° harp;<br>
+6° klavecimbel;<br>
+7° klavierklas;<br>
+8° mandoline;<br>
+9° melodisch slagwerk;<br>
+10° orgel;<br>
+11° orkestslagwerk;<br>
+12° piano;<br>
+13° ritmisch slagwerk.
 
 ### ART 12.
 
-In het vak instrument: oude muziek kunnen de volgende muziekinstrumenten georganiseerd worden:<br>
+§ 1. In het vak instrument: oude muziek kunnen de volgende muziekinstrumenten georganiseerd worden:<br>
 1° altviool;<br>
 2° barokhobo;<br>
 3° barokluit;<br>
@@ -1033,11 +1052,20 @@ In het vak instrument: oude muziek kunnen de volgende muziekinstrumenten georgan
 24° viool;<br>
 25° zang.<br>
 <br>
-In het eerste lid, 12°, wordt verstaan onder historisch toetsinstrument: clavichord, klavecimbel, orgel, pianoforte of harmonium.
+In het eerste lid, 12°, wordt verstaan onder historisch toetsinstrument: clavichord, klavecimbel, orgel, pianoforte of harmonium.<br>
+<br>
+§ 2. In het vak begeleidingspraktijk: oude muziek kunnen de volgende muziekinstrumenten georganiseerd worden:<br>
+1° barokluit;<br>
+2° historisch toetsinstrument;<br>
+3° historische gitaar;<br>
+4° historische harp;<br>
+5° mandoline;<br>
+6° renaissanceluit;<br>
+7° theorbe.
 
 ### ART 13.
 
-In het vak instrument: jazz-pop-rock kunnen de volgende muziekinstrumenten georganiseerd worden:<br>
+§ 1. In het vak instrument: jazz-pop-rock kunnen de volgende muziekinstrumenten georganiseerd worden:<br>
 1° accordeon;<br>
 2° altsaxofoon;<br>
 3° altviool;<br>
@@ -1066,11 +1094,21 @@ In het vak instrument: jazz-pop-rock kunnen de volgende muziekinstrumenten georg
 26° viool;<br>
 27° zang.<br>
 <br>
-Personeelsleden die tijdens het schooljaar 2020-2021 worden aangesteld in de vakken instrument: jazz-pop-rock: altviool, instrument: jazz-pop-rock: bastrombone, instrument: jazz-pop-rock: cello of instrument: jazz-pop-rock: eufonium, worden op basis van de studiebewijzen waarover ze beschikken aangesteld op basis van hetzij een ander bekwaamheidsbewijs, hetzij een voldoend geacht bekwaamheidsbewijs zoals die gelden voor de overige instrumenten van het vak instrument: jazz-pop-rock.
+Personeelsleden die tijdens het schooljaar 2020-2021 worden aangesteld in de vakken instrument: jazz-pop-rock: altviool, instrument: jazz-pop-rock: bastrombone, instrument: jazz-pop-rock: cello of instrument: jazz-pop-rock: eufonium, worden op basis van de studiebewijzen waarover ze beschikken aangesteld op basis van hetzij een ander bekwaamheidsbewijs, hetzij een voldoend geacht bekwaamheidsbewijs zoals die gelden voor de overige instrumenten van het vak instrument: jazz-pop-rock.<br>
+<br>
+§ 2. In het vak begeleidingspraktijk: jazz-pop-rock kunnen de volgende muziekinstrumenten georganiseerd worden:<br>
+1° accordeon;<br>
+2° basgitaar;<br>
+3° elektrische en/of akoestische gitaar;<br>
+4° keyboard;<br>
+5° melodisch slagwerk;<br>
+6° mondharmonica;<br>
+7° piano;<br>
+8° ritmisch slagwerk.
 
 ### ART 14.
 
-In het vak instrument: folk- en wereldmuziek kunnen de volgende muziekinstrumenten georganiseerd worden:<br>
+§ 1. In het vak instrument: folk- en wereldmuziek kunnen de volgende muziekinstrumenten georganiseerd worden:<br>
 1° bandoneon;<br>
 1/1° banjo;<br>
 2° blaasinstrumenten folk- en wereldmuziek;<br>
@@ -1091,13 +1129,29 @@ In het vak instrument: folk- en wereldmuziek kunnen de volgende muziekinstrument
 17° saz;<br>
 18° ud;<br>
 19° vedel;<br>
-20° zang.
+20° zang.<br>
+<br>
+§ 2. In het vak begeleidingspraktijk: folk- en wereldmuziek kunnen de volgende muziekinstrumenten georganiseerd worden:<br>
+1° bandoneon;<br>
+2° banjo;<br>
+3° chromatische accordeon;<br>
+4° concertina;<br>
+5° diatonische accordeon;<br>
+6° draailier;<br>
+7° folkgitaar;<br>
+8° hommel;<br>
+9° Keltische harp;<br>
+10° mandoline;<br>
+11° nyckelharpa;<br>
+12° piano-accordeon;<br>
+13° saz;<br>
+14° ud.
 
 ### ART 15.
 
-In artikel 14, 2° wordt verstaan onder blaasinstrumenten folk- en wereldmuziek, blaasinstrumenten eigen aan andere opties die ook gangbaar zijn in de folk- en wereldmuziek, evenals de blaasinstrumenten eigen aan de folk- en wereldmuziek.<br>
+In artikel 14, § 1, 2° wordt verstaan onder blaasinstrumenten folk- en wereldmuziek, blaasinstrumenten eigen aan andere opties die ook gangbaar zijn in de folk- en wereldmuziek, evenals de blaasinstrumenten eigen aan de folk- en wereldmuziek.<br>
 <br>
-In artikel 14, 11° wordt verstaan onder historische- en slaginstrumenten folk- en wereldmuziek, weinig voorkomende muziekinstrumenten die gebruikt worden in de folk- en wereldmuziek, evenals slaginstrumenten eigen aan de folk- en wereldmuziek.
+In artikel 14, § 1, 11° wordt verstaan onder historische- en slaginstrumenten folk- en wereldmuziek, weinig voorkomende muziekinstrumenten die gebruikt worden in de folk- en wereldmuziek, evenals slaginstrumenten eigen aan de folk- en wereldmuziek.
 
 ## Afdeling 5. De optie domeinoverschrijdende initiatieopleiding
 
@@ -1111,13 +1165,40 @@ In de optie domeinoverschrijdende initiatieopleiding wordt het vak domeinoversch
 
 ### ART 17.
 
-Conform artikel 23 van het decreet van 9 maart 2018 stelt de academie voor elke opleiding die ze organiseert een lessenrooster samen dat bestaat uit de vakken die conform artikel 4, 6, 8 en 10 van dit besluit georganiseerd kunnen worden in de desbetreffende studierichting en graad of in de domeinoverschrijdende initiatieopleiding. De academie kiest de vakken in functie van de basiscompetenties, de specifieke eindtermen of de beroepskwalificatie die de leerlingen moeten bereiken.<br>
+§ 1. Conform artikel 23 van het decreet van 9 maart 2018 stelt de academie voor elke opleiding die ze organiseert een lessenrooster samen dat bestaat uit de vakken die conform artikel 4, 6, 8 en 10 van dit besluit georganiseerd kunnen worden in de desbetreffende studierichting en graad of in de domeinoverschrijdende initiatieopleiding. De academie kiest de vakken in functie van de basiscompetenties, de specifieke eindtermen of de beroepskwalificatie die de leerlingen moeten bereiken.<br>
 <br>
 De academie verdeelt de vakken en hun minimale studieomvang evenwichtig over de verschillende leerjaren naargelang de trajecten, vermeld in artikel 12 tot en met 20 van het decreet van 9 maart 2018, die ze aanbiedt.<br>
 <br>
 Met behoud van de toepassing van artikel 22 van het decreet van 9 maart 2018 kan een academie voor een vak leeractiviteiten van een halve lestijd organiseren. Met uitzondering van de derde graad dans waarborgt de academie daarbij dat de teller van de opdrachtbreuk waarin de leraar wordt aangesteld een geheel getal is.<br>
 <br>
-Een academie die een opleiding in verschillende trajecten aanbiedt, maakt voor elk traject een afzonderlijk lessenrooster.
+Een academie die een opleiding in verschillende trajecten aanbiedt, maakt voor elk traject een afzonderlijk lessenrooster.<br>
+<br>
+§ 2. Het lessenrooster geldt voor alle leerlingen die zich voor de optie hebben ingeschreven, tenzij de leerling vrijgesteld is van een vak, conform artikel 34.<br>
+<br>
+Een academie kan voor een opleiding verschillende alternatieve lessenroosters samenstellen waaruit de leerlingen een keuze kunnen maken. De academie kan eveneens in een lessenrooster van een opleiding een of meer reeksen van mogelijke keuzevakken opnemen, waaruit de leerlingen een keuze kunnen maken.<br>
+<br>
+Overeenkomstig artikel 37, § 1, derde lid, van het decreet van 9 maart 2018 kan een leerling die in een bepaalde opleiding is ingeschreven zich niet meer opnieuw inschrijven voor dezelfde opleiding in dezelfde of een andere academie, ook al volgt hij andere keuzevakken. Overeenkomstig hetzelfde artikel kan een leerling die in een bepaalde opleiding is afgestudeerd, zich niet meer opnieuw inschrijven in dezelfde opleiding, ook al volgt hij andere keuzevakken.<br>
+<br>
+Na schriftelijke toestemming van de directeur en de betrokken leerkrachten kan een leerling als aanvulling op het lessenrooster, vermeld in artikel 21, een of meer facultatieve vakken volgen. Met behoud van de toepassing van artikel 10, § 3, tweede lid, komen daarvoor alle vakken vermeld in dit besluit in aanmerking.<br>
+<br>
+§ 3. Conform artikel 73 § 2 van het decreet van 9 maart 2018 organiseert een academie gedurende het volledige schooljaar, met uitzondering van de vakantieperiodes en vakantiedagen, vermeld in artikel 25 en 26 van dit besluit, voor elk vak dat ze opneemt in haar lessenrooster, wekelijkse leeractiviteiten, naargelang het aantal lestijden dat ze in een bepaald leerjaar aan dat vak toewijst.<br>
+<br>
+§ 4. Een academie kan de wekelijkse leeractiviteiten van een vak samenvoegen tot lesblokken als aan al de volgende voorwaarden is voldaan:<br>
+1° de samenvoeging waarborgt de continuïteit van het leerproces in relatie tot de basiscompetenties, specifieke eindtermen of beroepskwalificaties en de leeftijd van de leerlingen;<br>
+2° bij het begin van het schooljaar beschikt de academie over een jaarplanning waarin alle leeractiviteiten zijn weergegeven;<br>
+3° bij de start van het schooljaar ontvangt de leerling de jaarplanning;<br>
+4° de duurtijd van een lesblok is dezelfde als de som van de duurtijd van de lestijden die samengevoegd worden.<br>
+<br>
+§ 5. Een academie kan een leeractiviteit als vermeld in artikel 3 35°, van het decreet van 9 maart 2018, of een lesblok als vermeld in paragraaf 2, vervangen door een extramurosactiviteit. De voorbereidings- en evaluatieverslagen liggen ter inzage voor de bevoegde inspectie.<br>
+<br>
+Het eerste lid geldt niet voor extramurosactiviteiten die maar één dag duren.<br>
+<br>
+In deze paragraaf wordt verstaan onder extramurosactiviteit: een leeractiviteit die plaatsvindt buiten de academie en georganiseerd wordt voor een of meer leerlingengroepen.<br>
+<br>
+§ 6. Vanwege individuele artistieke redenen of vanwege deelname aan professionaliseringsactiviteiten kunnen leeractiviteiten op verzoek van de leraar verplaatst worden naar een ander tijdstip in de loop van het schooljaar als aan al de volgende voorwaarden is voldaan:<br>
+1° de academie beschikt over een beoordelingskader om aanvragen tot lesverplaatsing te weigeren of toe te staan;<br>
+2° de verplaatsing van de leeractiviteit wordt schriftelijk of elektronisch gemeld aan de leerlingen en betrokken personen;<br>
+3° de academie houdt een register bij met aanvragen en beslissingen over verplaatsingen van leeractiviteiten, dat ter inzage aan het Agentschap voor Onderwijsdiensten en de onderwijsinspectie kan worden voorgelegd.
 
 ## Afdeling 2. Beeldende en audiovisuele kunsten
 
@@ -1253,32 +1334,11 @@ De resterende wekelijkse lestijden van de minimale studieomvang van zes wekelijk
 
 ### ART 22.
 
-Het lessenrooster geldt voor alle leerlingen die zich voor de optie hebben ingeschreven, tenzij de leerling vrijgesteld is van een vak, conform artikel 34.<br>
-<br>
-Een academie kan voor een opleiding verschillende alternatieve lessenroosters samenstellen waaruit de leerlingen een keuze kunnen maken. De academie kan eveneens in een lessenrooster van een opleiding een of meer reeksen van mogelijke keuzevakken opnemen, waaruit de leerlingen een keuze kunnen maken.<br>
-<br>
-Overeenkomstig artikel 37, § 1, derde lid, van het decreet van 9 maart 2018 kan een leerling die in een bepaalde opleiding is ingeschreven zich niet meer opnieuw inschrijven voor dezelfde opleiding in dezelfde of een andere academie, ook al volgt hij andere keuzevakken. Overeenkomstig hetzelfde artikel kan een leerling die in een bepaalde opleiding is afgestudeerd, zich niet meer opnieuw inschrijven in dezelfde opleiding, ook al volgt hij andere keuzevakken.
+...
 
 ### ART 23.
 
-§ 1. Conform artikel 73 § 2 van het decreet van 9 maart 2018 organiseert een academie gedurende het volledige schooljaar, met uitzondering van de vakantieperiodes en vakantiedagen, vermeld in artikel 25 en 26 van dit besluit, voor elk vak dat ze opneemt in haar lessenrooster, wekelijkse leeractiviteiten, naargelang het aantal lestijden dat ze in een bepaald leerjaar aan dat vak toewijst.<br>
-<br>
-§ 2. Een academie kan de wekelijkse leeractiviteiten van een vak samenvoegen tot lesblokken als aan al de volgende voorwaarden is voldaan:<br>
-1° de samenvoeging waarborgt de continuïteit van het leerproces in relatie tot de basiscompetenties, specifieke eindtermen of beroepskwalificaties en de leeftijd van de leerlingen;<br>
-2° bij het begin van het schooljaar beschikt de academie over een jaarplanning waarin alle leeractiviteiten zijn weergegeven;<br>
-3° bij de start van het schooljaar ontvangt de leerling de jaarplanning;<br>
-4° de duurtijd van een lesblok is dezelfde als de som van de duurtijd van de lestijden die samengevoegd worden.<br>
-<br>
-§ 3. Een academie kan een leeractiviteit als vermeld in artikel 3 35°, van het decreet van 9 maart 2018, of een lesblok als vermeld in paragraaf 2, vervangen door een extramurosactiviteit. De voorbereidings- en evaluatieverslagen liggen ter inzage voor de bevoegde inspectie.<br>
-<br>
-Het eerste lid geldt niet voor extramurosactiviteiten die maar één dag duren.<br>
-<br>
-In deze paragraaf wordt verstaan onder extramurosactiviteit: een leeractiviteit die plaatsvindt buiten de academie en georganiseerd wordt voor een of meer leerlingengroepen.<br>
-<br>
-§ 4. Vanwege individuele artistieke redenen of vanwege deelname aan professionaliseringsactiviteiten kunnen leeractiviteiten op verzoek van de leraar verplaatst worden naar een ander tijdstip in de loop van het schooljaar als aan al de volgende voorwaarden is voldaan:<br>
-1° de academie beschikt over een beoordelingskader om aanvragen tot lesverplaatsing te weigeren of toe te staan;<br>
-2° de verplaatsing van de leeractiviteit wordt schriftelijk of elektronisch gemeld aan de leerlingen en betrokken personen;<br>
-3° de academie houdt een register bij met aanvragen en beslissingen over verplaatsingen van leeractiviteiten, dat ter inzage aan het Agentschap voor Onderwijsdiensten en de onderwijsinspectie kan worden voorgelegd.
+...
 
 ## Afdeling 6. Leeractiviteiten op maat
 
@@ -1360,7 +1420,9 @@ In het eerste lid wordt verstaan onder toelatingsperiode: periode van voorlopige
 <br>
 Uiterlijk twee maanden na de start van het schooljaar beoordeelt de directeur op advies van de betrokken leerkrachten of de leerling over voldoende competenties beschikt om de opleiding voort te zetten en geeft daarover schriftelijke of digitale feedback aan de leerling.<br>
 <br>
-De academie houdt een register bij met de aanvragen en gemotiveerde beslissingen over de toelatingsperiodes, dat ter inzage aan het Agentschap voor Onderwijsdiensten en aan de onderwijsinspectie kan worden voorgelegd.
+De academie houdt een register bij met de aanvragen en gemotiveerde beslissingen over de toelatingsperiodes, dat ter inzage aan het Agentschap voor Onderwijsdiensten en aan de onderwijsinspectie kan worden voorgelegd.<br>
+<br>
+Een leerling die niet voldoet aan de toelatingsvoorwaarden, vermeld in artikel 29 tot en met 36 van het decreet van 9 maart 2018, en voor wie de aanvraag en gemotiveerde beslissing over de toelatingsperiode ontbreekt, is niet regelmatig.
 
 ### ART 31.
 
@@ -1374,7 +1436,7 @@ De academie informeert alle belanghebbenden over het tijdstip en het opzet van d
 <br>
 Met behoud van de toepassing van het eerste lid kan de evaluatie van de vierde graad als selectieactiviteit gelden.<br>
 <br>
-De directeur beslist over de toelating tot een kortlopende studierichting specialisatie in samenspraak met de betrokken leerkrachten, en motiveert ze naar de leerling. In geval van een toelatingsperiode kan de directeur uiterlijk een maand na de start van het schooljaar beslissen.
+De directeur beslist over de toelating tot een kortlopende studierichting specialisatie in samenspraak met de betrokken leerkrachten, en motiveert ze naar de leerling. In geval van een toelatingsperiode kan de directeur uiterlijk een maand na de start van het schooljaar beslissen.&nbsp;De academie houdt een register bij met de aanvragen en gemotiveerde beslissingen over de toelatingsperiodes, dat ter inzage aan het Agentschap voor Onderwijsdiensten en aan de onderwijsinspectie kan worden voorgelegd. Een leerling waarvoor de gemotiveerde beslissing over de toelatingsperiode ontbreekt, is niet regelmatig.
 
 ### ART 32.
 
@@ -1437,6 +1499,34 @@ De onderwijsinspectie valideert het toetsingsinstrument als de criteria represen
 Een leerling kan op advies van de betrokken leerkrachten en na toestemming van de directeur uiterlijk op de eerste lesdag na de kerstvakantie veranderen van traject of naar een andere opleiding in hetzelfde domein overstappen, als hij voldoet aan de toelatingsvoorwaarden, vermeld in artikel 29 tot en met 33 van het decreet van 9 maart 2018.
 
 ## [Onderafdeling 6. Aan- en afwezigheden (ing. BVR 10 september 2021, art. 13, I: 1 september 2021)]
+
+### ART 35/3.
+
+Leerlingen zijn gewettigd afwezig als ze afwezig zijn om een van de volgende redenen:<br>
+1° door ziekte, na voorlegging van een medisch attest;<br>
+2° om een begrafenis- of huwelijksplechtigheid bij te wonen van een bloed- of aanverwant of van een persoon die onder hetzelfde dak woont;<br>
+3° om een religieuze feestdag te vieren van een door de Belgische Grondwet erkende levensbeschouwelijke overtuiging;<br>
+4° als de vestigingsplaats van de academie onbereikbaar of ontoegankelijk is;<br>
+5° wegens een oproeping of dagvaarding voor een rechtbank;<br>
+6° wegens maatregelen van de bijzondere jeugdzorg;<br>
+7° om een familieraad bij te wonen;<br>
+8° om actief deel te nemen aan een sportmanifestatie, stage, toernooi of wedstrijd als topsportbelofte voor een individuele selectie of als topsporter met een A- of B-statuut;<br>
+9° om actief deel te nemen aan een culturele manifestatie als de leerling een topkunstenstatuut A of B heeft voor het betrokken schooljaar;<br>
+10° wegens deelname aan een examen voor de Examencommissie secundair onderwijs;<br>
+11° door een zwangerschap: maximum 1 week voor de vermoedelijke bevallingsdatum tot maximum 9 weken na de bevalling;<br>
+12° door de uitvoering van een orde- of tuchtmaatregel;<br>
+13° wegens school- of beroepsverplichtingen;<br>
+14° wegens bepalingen in de verblijfsregeling van kinderen van gescheiden ouders.<br>
+<br>
+Het Agentschap voor Onderwijsdiensten bepaalt de documenten die voorgelegd moeten worden om de afwezigheid om een van de redenen, vermeld in het eerste lid, te staven.<br>
+<br>
+De directeur kan aan een leerling per schooljaar maximaal drie afwezigheden per vak toestaan wegens omstandigheden van persoonlijke aard. Die afwezigheden worden beschouwd als gewettigd.<br>
+<br>
+Het schoolbestuur neemt de wijze waarop leerlingen een afwezigheid melden en de verantwoording die leerlingen aan de academie bezorgen, op in haar academiereglement.
+
+### ART 35/4.
+
+De aan- en afwezigheden worden geregistreerd in het elektronisch systeem voor de uitwisseling van leerlingengegevens van het Agentschap voor Onderwijsdiensten.
 
 ## Afdeling 3. Certificering
 
@@ -1514,9 +1604,183 @@ De lestijden die een kunstacademie voor een bepaald schooljaar op grond van arti
 
 ### ART 40/1.
 
-Academies die conform artikel 76/1, § 3, van het decreet van 9 maart 2018 aanvullende lestijden voor aanvangsbegeleiding willen samenleggen in een samenwerkingsverband, sluiten onderling een overeenkomst af. Het Agentschap voor Onderwijsdiensten stelt een sjabloon voor de overeenkomst ter beschikking. Een van de betrokken academies bezorgt uiterlijk op 31 oktober een kopie van de overeenkomst aan het Agentschap voor Onderwijsdiensten.
+§ 1. De aanvullende lestijden voor aanvangsbegeleiding kunnen worden samengelegd.<br>
+<br>
+Academies die ervoor kiezen om de aanvullende lestijden samen te leggen, richten daarvoor een samenwerkingsverband aanvangsbegeleiding op dat bestaat uit twee of meer academies. Het samenwerkingsverband maakt afspraken over de aanwending van de aanvullende lestijden.<br>
+<br>
+Academies die aanvullende lestijden voor aanvangsbegeleiding willen samenleggen in een samenwerkingsverband, sluiten onderling een overeenkomst. Het Agentschap voor Onderwijsdiensten, vermeld in artikel 3, 5° van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs, stelt een sjabloon voor de overeenkomst ter beschikking. Een van de academies in kwestie bezorgt uiterlijk op 31 oktober een kopie van de overeenkomst aan het Agentschap voor Onderwijsdiensten.<br>
+<br>
+§ 2. Een academie of een samenwerkingsverband als vermeld in paragraaf 1, kan een of meer lestijden voor aanvangsbegeleiding omzetten in administratieve omkaderingseenheden. Daarbij wordt het aantal lestijden op de volgende wijze in rekening gebracht:
+<table border="1">
+	<tbody>
+		<tr>
+			<td>lestijden</td>
+			<td>administratieve omkadering</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>2</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>4</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>7</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>9</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>11</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>13</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>15</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>17</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>20</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>22</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Met de administratieve omkaderingseenheden organiseert de academie betrekkingen in het ambt van administratief medewerker conform de berekening, vermeld in artikel 46.
 
 ## [Afdeling 2. Aanwerven van gastleraren (verv. BVR 15 september 2023, art. 55, I: 1 september 2023)]
+
+### ART 40/2.
+
+§ 1. Met toepassing van artikel 75/1, § 3, van het decreet van 9 maart 2018 kunnen, uit de lestijden die conform artikel 75/1, § 2, van het decreet van 9 maart 2018 berekend worden, in het deeltijds kunstonderwijs betrekkingen worden georganiseerd in het ambt van leraar.<br>
+<br>
+De lestijden worden op de volgende wijze omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van leraar: de lestijden worden gedeeld door 20 of 22 naargelang de graad in kwestie tot op de eenheid voor het ambt van leraar. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.<br>
+<br>
+§ 2. Met toepassing van artikel 75/1, § 5, van het decreet van 9 maart 2018 kan een academie een of meer lestijden voor de ondersteuning van de kerntaak van het onderwijzend personeel omzetten in administratieve omkaderingseenheden. Daarbij wordt het aantal lestijden op de volgende wijze in rekening gebracht:
+<table border="1">
+	<tbody>
+		<tr>
+			<td>lestijden</td>
+			<td>administratieve omkadering</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>2</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>4</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>7</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>9</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>11</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>13</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>15</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>17</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>20</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>22</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Met de administratieve omkaderingseenheden organiseert de academie betrekkingen in het ambt van administratief medewerker conform de berekening, vermeld in artikel 46.
+
+### ART 40/3.
+
+§ 1. Met toepassing van artikel 75/2, § 4, van het decreet van 9 maart 2018 kunnen, uit de lestijden die conform artikel 75/2, § 2 of § 3, van het decreet van 9 maart 2018 verkregen worden, in het deeltijds kunstonderwijs betrekkingen worden georganiseerd in het ambt van leraar.<br>
+<br>
+De lestijden worden op de volgende wijze omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van leraar: de lestijden worden gedeeld door 20 of 22 naargelang de graad tot op de eenheid voor het ambt van leraar. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.<br>
+<br>
+§ 2. Een academie kan een of meer lestijden samen school maken omzetten in administratieve omkaderingseenheden. Daarbij wordt het aantal lestijden op de volgende wijze in rekening gebracht:
+<table border="1">
+	<tbody>
+		<tr>
+			<td>lestijden</td>
+			<td>administratieve omkadering</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>2</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>4</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>7</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>9</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>11</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>13</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>15</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>17</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>20</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>22</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Met de administratieve omkaderingseenheden organiseert de academie betrekkingen in het ambt van administratief medewerker conform de berekening, vermeld in artikel 46.<br>
+<br>
+§ 3. Met toepassing van artikel 75/2, § 5, van het decreet van 9 maart 2018 worden de lestijden samen school maken aangewend op schoolniveau conform het afsprakenkader tussen de sociale partners.
 
 ### ART 41.
 
@@ -1549,7 +1813,7 @@ In het eerste lid wordt verstaan onder rechtspositieregeling in het onderwijs: h
 ### ART 44.
 
 De ambten die personeelsleden mogen uitoefenen, worden als volgt vastgesteld en ingedeeld:<br>
-1° personeelscategorie ondersteunend personeel: administratief medewerker;<br>
+1° personeelscategorie ondersteunend personeel: administratief medewerker en ICT-coördinator;<br>
 2° personeelscategorie opvoedend hulppersoneel: studiemeester-opvoeder.
 
 ### ART 45.
@@ -1568,7 +1832,9 @@ In het eerste lid wordt verstaan onder effectieve wekelijkse prestaties: de feit
 <br>
 Een onvolledige opdracht in het ambt van administratief medewerker omvat het evenredige deel van de klokuren, vermeld in het eerste lid. Voor het bepalen van het voormelde evenredige deel, wordt de omrekeningstabel gebruikt die is opgenomen in bijlage 1, die bij dit besluit is gevoegd.<br>
 <br>
-§ 3. Een volledige opdracht in het ambt van studiemeester-opvoeder omvat op weekbasis 32 uren.
+§ 3. Een volledige opdracht in het ambt van studiemeester-opvoeder omvat op weekbasis 32 uren.<br>
+<br>
+§ 4. Een volledige opdracht in het ambt van ICT-coördinator omvat op weekbasis 36 uren.
 
 ## [Afdeling 5. Academie-overschrijdende expertise-uitwisseling (ing. BVR 25 september 2020, art. 11, I: 1 september 2020)]
 
@@ -1632,11 +1898,11 @@ Een leerling die conform artikel 92 § 2 van het decreet van 9 maart 2018 recht 
 <br>
 Een leerling die conform artikel 92 § 3, 1° van het decreet van 9 maart 2018 recht heeft op het verminderd inschrijvingsgeld, toont via een document uitgereikt door de gemeentelijke administratie dat hij tot dezelfde leefeenheid behoort als een persoon die het inschrijvingsgeld al heeft betaald in dezelfde of een andere academie.<br>
 <br>
-Een leerling die conform artikel 92 § 3, 2° van het decreet van 9 maart 2018 recht heeft op het verminderd inschrijvingsgeld, toont via een document uitgereikt door de gemeentelijke administratie dat hij of zij kind, broer of zus is van een persoon die het inschrijvingsgeld al heeft betaald in dezelfde of een andere academie.
+Een leerling die conform artikel 92 § 3, 1° van het decreet van 9 maart 2018 recht heeft op het verminderd inschrijvingsgeld, toont via een document uitgereikt door de gemeentelijke administratie dat hij of zij kind, broer of zus is van een persoon die het inschrijvingsgeld al heeft betaald in dezelfde of een andere academie.
 
 ### ART 50.
 
-De attesten, vermeld in artikel 47 tot en met 49, kunnen zowel in schriftelijke als elektronische vorm voorgelegd worden.<br>
+De bewijsdocumenten, vermeld in artikel 47 tot en met 49, worden uiterlijk op 31 oktober van het schooljaar in kwestie voorgelegd. Ze kunnen in schriftelijke of in elektronische vorm voorgelegd worden.<br>
 <br>
 Het Agentschap voor Onderwijsdiensten beslist of een attest uitgereikt door een andere Belgische of buitenlandse overheidsinstantie gelijkwaardig bevonden wordt met de attesten, vermeld in artikel 47 tot en met 49.
 
@@ -1654,15 +1920,15 @@ Het schoolbestuur betaalt het inschrijvingsgeld voor elk van zijn academies afzo
 
 ### ART 52.
 
-Een schoolbestuur dat conform artikel 101 van het decreet van 9 maart 2018 een voorlopige erkenning voor zijn academie wil aanvragen, dient uiterlijk op 1 april voorafgaand aan de oprichting een aanvraag in bij het Agentschap voor Onderwijsdiensten. Het Agentschap voor Onderwijsdiensten stelt een aanvraagformulier ter beschikking.
+Een schoolbestuur dat conform artikel 101 van het decreet van 9 maart 2018 een voorlopige erkenning voor zijn academie wil aanvragen, dient uiterlijk op 1 maart voorafgaand aan de oprichting een aanvraag in bij het Agentschap voor Onderwijsdiensten. Het Agentschap voor Onderwijsdiensten stelt een aanvraagformulier ter beschikking.
 
 ### ART 53.
 
-Het schoolbestuur van een academie dat conform artikel 111 van het decreet van 9 maart 2018 voor een academie financiering of subsidiëring wil verkrijgen, dient uiterlijk op 1 april voorafgaand aan de oprichting een aanvraag tot voorlopige erkenning van een academie in het deeltijds kunstonderwijs in bij het Agentschap voor Onderwijsdiensten. Het Agentschap voor Onderwijsdiensten stelt een aanvraagformulier ter beschikking.
+Het schoolbestuur van een academie dat conform artikel 111 van het decreet van 9 maart 2018 voor een academie financiering of subsidiëring wil verkrijgen, dient uiterlijk op 1 maart voorafgaand aan de oprichting een aanvraag tot voorlopige erkenning van een academie in het deeltijds kunstonderwijs in bij het Agentschap voor Onderwijsdiensten. Het Agentschap voor Onderwijsdiensten stelt een aanvraagformulier ter beschikking.
 
 ### ART 54.
 
-Het schoolbestuur van een academie dat conform artikel 102 en 111 § 2, van het decreet van 9 maart 2018, voor een onderdeel van een academie erkenning en financiering of subsidiëring wil verkrijgen, dient uiterlijk op 1 april een aanvraag in bij het Agentschap voor Onderwijsdiensten. Het Agentschap voor Onderwijsdiensten stelt een aanvraagformulier ter beschikking.<br>
+Het schoolbestuur van een academie dat conform artikel 102 en 111 § 2, van het decreet van 9 maart 2018, voor een onderdeel van een academie erkenning en financiering of subsidiëring wil verkrijgen, dient uiterlijk op 1 maart een aanvraag in bij het Agentschap voor Onderwijsdiensten. Het Agentschap voor Onderwijsdiensten stelt een aanvraagformulier ter beschikking.<br>
 <br>
 In het eerste lid wordt verstaan onder onderdeel:<br>
 1° een nieuw domein;<br>
