@@ -7,9 +7,14 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffend
 ### ART. 1.
 
 Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het secundair volwassenenonderwijs op de volgende wijze vastgelegd in de volgende bijlagen die bij dit besluit zijn gevoegd:<br>
-1° bijlage IX voor het studiegebied huishoudhulp;<br>
+1° bijlage X en XI voor het studiegebied huishoudhulp;<br>
 2° bijlage VI voor het studiegebied huishoudelijk koken;<br>
-3° bijlage VII en VIII voor het studiegebied huishoudelijke decoratie- en naaitechnieken.
+3° bijlage VII en VIII voor het studiegebied huishoudelijke decoratie- en naaitechnieken.<br>
+<br>
+Ter uitvoering van artikel 24, § 2, van het voormelde decreet wordt voor de volgende bijzondere doelgroepen op de volgende wijze afgeweken van het minimale aantal lestijden voor het studiegebied huishoudhulp:<br>
+1° de opleiding Huishoudhulp Dienstencheques kan voor traag lerende cursisten 450 lestijden omvatten, waarbij de duurtijd van de module Schoonmaak 120 lestijden omvat;<br>
+2° de opleiding Huishoudhulp Zorg kan voor traag lerende cursisten 550 lestijden omvatten, waarbij de duurtijd van de module Schoonmaak 120 lestijden omvat en de duurtijd van de module Aangepast koken in de zorgberoepen 60 lestijden omvat;<br>
+3° de opleiding Huishoudhulp Zorg kan voor snel lerende cursisten 478 lestijden omvatten, waarbij de duurtijd van de module EHBO 8 lestijden omvat.
 
 ### ART. 2.
 
@@ -70,3 +75,11 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 ### BIJLAGE IX
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/27_1.pdf#page=144">Bijlage IX</a>
+
+### BIJLAGE X
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/08/17_1.pdf#page=21">Bijlage X</a>
+
+### BIJLAGE XI
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/08/17_1.pdf#page=38">Bijlage XI</a>
