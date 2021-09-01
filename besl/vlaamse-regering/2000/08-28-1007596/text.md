@@ -10,7 +10,9 @@ Voor de personeelsleden van het gemeenschapsonderwijs worden met betrekking tot 
 
 ### ART. 3.
 
-Voor de materies die tot de bevoegdheid van de schooldirecteur behoren, wordt telkens een basiscomité voor de school opgericht. De schooldirecteur zit het voor.
+Voor de materies die tot de bevoegdheid van de schooldirecteur behoren, wordt telkens een basiscomité voor de school opgericht. De schooldirecteur zit het voor.<br>
+<br>
+Voor de materies die tot de bevoegdheid behoren van de directeur die de raad van bestuur heeft aangewezen als directeur van de scholengemeenschapsinstelling, wordt een basiscomité voor de scholengemeenschapsinstelling opgericht. De aangewezen directeur zit het voor.
 
 ### ART. 4.
 
