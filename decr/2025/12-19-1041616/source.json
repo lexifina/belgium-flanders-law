@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041616,
+  "title": "Decreet van 2025-12-19 tot wijziging van de regelgeving over het beleidsdomein Welzijn, Volksgezondheid en Gezin",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041616/VolledigDocument?datum=2021-09-01",
+  "source_sha256": "3e3ec39d110dd57e69592e649c807fe505088f95e6546bf07767d61d3d7761e7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041616&param=informatie",
+  "as_of": "2021-09-01",
+  "made": "2025-12-19",
+  "gazette": "2025-12-30",
+  "numac": 2025009791,
+  "document_start": "2026-01-09",
+  "document_end": null,
+  "in_force": "2021-09-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2021-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
