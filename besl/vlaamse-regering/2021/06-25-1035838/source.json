@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035838,
+  "title": "Besluit van de Vlaamse Regering van 2021-06-25 tot erkenning van het graduaat in het systeem- en netwerkbeheer als nieuwe opleiding van UC Leuven",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035838/VolledigDocument?datum=2021-09-01",
+  "source_sha256": "144f982cfe2cbcba151f3c4f69e1f9b087a8b4101128e3ef5d580a042697c94d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035838&param=informatie",
+  "as_of": "2021-09-01",
+  "made": "2021-06-25",
+  "gazette": "2021-07-19",
+  "numac": 2021021462,
+  "document_start": "2021-09-01",
+  "document_end": null,
+  "in_force": "2021-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
