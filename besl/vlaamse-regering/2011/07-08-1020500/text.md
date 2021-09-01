@@ -29,7 +29,9 @@ Dit besluit is van toepassing op de personeelsleden vermeld in artikel V.60 van 
 
 ### ART. 3.
 
-De personeelsleden, vermeld in artikel 2, hebben recht op de volledige terugbetaling van de kosten verbonden aan het woon-werkverkeer onder de voorwaarden, vermeld in dit besluit.<br />
+De personeelsleden, vermeld in artikel 2, hebben recht op de volledige terugbetaling van de kosten verbonden aan het woon-werkverkeer onder de voorwaarden, vermeld in dit besluit.<br>
+<br>
+In afwijking van het eerste lid is dit hoofdstuk niet van toepassing op de personeelsleden, vermeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie.
 
 ### ART. 4.
 
@@ -47,13 +49,31 @@ De personeelsleden, vermeld in artikel 2, die het volledige traject van het woon
 
 ### ART. 7.
 
-De fietsvergoeding bedraagt 0,15 euro per kilometer.
+De fietsvergoeding bedraagt 0,15 euro per kilometer.<br>
+<br>
+In afwijking van het eerste lid bedraagt de fietsvergoeding voor de personeelsleden, vermeld in artikel V.60, § 1, 7°, en artikel V.60 § 3, van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, 0,21 euro per kilometer.
 
 ### ART. 8.
 
 Tenzij in het bevoegd lokaal onderhandelingscomité een eerder tijdstip van uitbetaling is afgesproken, betaalt de werkgever de kosten verbonden aan het woon-werkverkeer maandelijks uit. De fietsvergoeding wordt betaald op grond van een verklaring op erewoord.
 
 ## [Hoofdstuk 3/1. Internetvergoeding (ing. BVR 22 april 2022, art. 43, I: 1 september 2021)]
+
+### ART 8/1.
+
+§ 1. De personeelsleden, vermeld in artikel V.60, § 1, van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, de personeelsleden, vermeld in deel III van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs en de personeelsleden, vermeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken, die voldoen aan de wettelijke bepalingen voor een fiscale vrijstelling, hebben recht op een forfaitaire internetvergoeding voor de kalendermaanden waarin ze rechten genereren op een betaling, ongeacht de omvang en de looptijd van de opdracht tijdens een kalendermaand.<br>
+<br>
+Personeelsleden die in verschillende instellingen zijn aangesteld, ontvangen één forfaitaire internetvergoeding die wordt toegekend en aangerekend op de instelling van de hoofdopdracht.<br>
+<br>
+§ 2. De instellingen bezorgen aan de bevoegde dienst van de Vlaamse Regering de gegevens van de personeelsleden die geen recht hebben op de forfaitaire internetvergoeding, vermeld in paragraaf 1, omdat ze niet voldoen aan de voorwaarden die zijn vastgelegd in de circulaire 2021/C/20 over tussenkomsten van de werkgever voor thuiswerk van 26 februari 2021 van de Federale Overheidsdienst Financiën.
+
+### ART 8/2.
+
+De personeelsleden, vermeld in artikel V.60, § 3, van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, met een opdracht van ten minste 20% die voldoen aan de wettelijke bepalingen voor een fiscale vrijstelling, hebben recht op een forfaitaire internetvergoeding voor de kalendermaanden waarin ze rechten genereren op een betaling. Personeelsleden die in verschillende hogescholen werken, ontvangen één forfaitaire internetvergoeding.
+
+### ART 8/3.
+
+De forfaitaire internetvergoeding bedraagt 20 euro per kalendermaand.
 
 ## Hoofdstuk 4. Terugbetalingsregeling tussen de school, de instelling of het centrum voor leerlingenbegeleiding en de Vlaamse Gemeenschap
 
