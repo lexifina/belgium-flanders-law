@@ -19,6 +19,45 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+Aan de volgende onderwijsinstellingen wordt, met toepassing van artikel 289, § 7 van de Codex Secundair Onderwijs van 17 december 2010, voor het schooljaar 2021-2022 toestemming verleend om de volgende programmatie te doen:<br>
+1° GO! IBSO De Horizon<br>
+Molendreef 57<br>
+9300 Aalst<br>
+3e graad Informaticabeheer tso<br>
+studiegebied/domein: Handel;<br>
+2° Secundaire scholen Sint-Ferdinand OV4<br>
+Sint-Ferdinandstraat 1<br>
+3560 Lummen<br>
+3e graad Ruwbouw duaal bso<br>
+studiegebied/domein: Bouw<br>
+finaliteit: arbeidsmarkt;<br>
+3° Secundaire scholen Sint-Ferdinand OV4<br>
+Sint-Ferdinandstraat 1<br>
+3560 Lummen<br>
+2e graad Biotechnieken tso<br>
+studiegebied/domein: STEM<br>
+finaliteit: dubbel;<br>
+4° K.I. Woluwe BuSO<br>
+Georges Henrilaan 278<br>
+1200 Brussel<br>
+2e graad Maatschappij en welzijn tso<br>
+studiegebied/domein: STEM<br>
+finaliteit: dubbel;<br>
+5° BuSo Ganspoel<br>
+Georges Henrilaan 278<br>
+1200 Brussel<br>
+2e graad Maatschappij en welzijn tso<br>
+studiegebied/domein: STEM<br>
+finaliteit: dubbel;<br>
+6° GO! SBSO Nautica<br>
+Kleiryt 5<br>
+2330 Merksplas<br>
+2e graad Organisatie en logistiek bso<br>
+studiegebied/domein: Economie en organisatie<br>
+finaliteit: arbeidsmarkt.
+
 ### ART 2.
 
 Artikel 1 van dit besluit treedt in werking vanaf 1 september 2021.
