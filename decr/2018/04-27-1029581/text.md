@@ -473,9 +473,9 @@ Een selectieve participatietoeslag lager onderwijs kan worden toegekend aan een 
 § 1. Aan een rechthebbende leerling als vermeld in artikel 24, wordt geen selectieve participatietoeslag lager onderwijs toegekend in een van de volgende gevallen:<br>
 1° in het schooljaar in kwestie is hij niet ingeschreven in een onderwijsinstelling als vermeld in artikel 29;<br>
 2° hij is ongewettigd afwezig geweest of niet voldoende aanwezig geweest;<br>
-3° uiterlijk vijftien kalenderdagen na de datum van uitschrijving in het lager onderwijs is hij niet opnieuw in het lager onderwijs ingeschreven.<br>
+3° tijdens het schooljaar uiterlijk 21 kalenderdagen na de datum van uitschrijving in het lager onderwijs is hij niet opnieuw in het lager onderwijs ingeschreven.<br>
 <br>
-§ 2. Een leerling wordt tijdens een schooljaar geacht niet voldoende aanwezig te zijn als de leerling gedurende het schooljaar in kwestie 30 al dan niet gespreide halve schooldagen ongewettigd afwezig is geweest en het daaraan voorafgaande schooljaar hetzij eveneens 30 al dan niet gespreide halve schooldagen ongewettigd afwezig is geweest, hetzij minder dan 250 halve schooldagen aanwezig is geweest indien de leerling toen nog niet onderworpen was aan de leerplicht maar wel ingeschreven was in een kleuterschool.<br>
+§ 2. Een leerling wordt tijdens een schooljaar geacht niet voldoende aanwezig te zijn als de leerling gedurende het schooljaar in kwestie 30 al dan niet gespreide halve schooldagen ongewettigd afwezig is geweest en het daaraan voorafgaande schooljaar hetzij eveneens 30 al dan niet gespreide halve schooldagen ongewettigd afwezig is geweest, hetzij minder dan 290 halve schooldagen aanwezig is geweest indien de leerling toen onderworpen was aan de leerplicht en gedurende dat schooljaar ingeschreven was in een kleuterschool, met uitzondering van de leerlingen bedoeld onder 27, § 2, 4° van dit decreet.<br>
 <br>
 § 3. Een leerling in het lager onderwijs wordt geacht aanwezig te zijn als hij niet als ongewettigd afwezig is geregistreerd in het aanwezigheidsregister van de school.<br>
 <br>
@@ -513,7 +513,7 @@ Artikel 34, 35, tweede lid, en 48, § 3 en § 6, zijn niet van toepassing op rec
 § 1. Aan een rechthebbende leerling als vermeld in artikel 24, wordt geen selectieve participatietoeslag secundair onderwijs toegekend in een van de volgende gevallen:<br>
 1° in het schooljaar in kwestie is hij niet ingeschreven in een onderwijsinstelling of centrum als vermeld in artikel 32;<br>
 2° hij is ongewettigd afwezig geweest;<br>
-3° uiterlijk vijftien kalenderdagen na de datum van uitschrijving uit een instelling voor secundair onderwijs of uit de leertijd in een centrum zoals bedoeld in artikel 32 is hij niet opnieuw ingeschreven in een instelling voor secundair onderwijs of in de leertijd in een centrum zoals bedoeld in artikel 32.<br>
+3° tijdens het schooljaar uiterlijk 21 kalenderdagen na de datum van uitschrijving uit een instelling voor secundair onderwijs of uit de leertijd in een centrum zoals bedoeld in artikel 32 is hij niet opnieuw ingeschreven in een instelling voor secundair onderwijs of in de leertijd in een centrum zoals bedoeld in artikel 32.<br>
 <br>
 In afwijking van het eerste lid, 3°, behoudt de rechthebbende leerling in het secundair onderwijs die op 30 juni van het schooljaar in kwestie niet langer ingeschreven is in een instelling voor secundair onderwijs of een centrum zoals bedoeld in artikel 32, zijn toelage, op voorwaarde dat hij in de loop van dat schooljaar zijn kwalificatie behaalde.<br>
 <br>
@@ -648,7 +648,9 @@ Bij de berekening van het bedrag van de selectieve participatietoeslag in het se
 
 ### ART 45.
 
-Het bedrag van de selectieve participatietoeslag is afhankelijk van het door de rechthebbende leerling, vermeld in artikel 24, gevolgde onderwijs, van de hoogte van de gezinsinkomsten en van de puntenlast ten aanzien van de gezinskomsten.
+Het bedrag van de selectieve participatietoeslag is afhankelijk van het door de rechthebbende leerling, vermeld in artikel 24, gevolgde onderwijs, van de hoogte van de gezinsinkomsten en van de puntenlast ten aanzien van de gezinskomsten.<br>
+<br>
+Met behoud van de toepassing van artikel 27, 30 en 34 heeft de rechthebbende leerling recht op het hoogste bedrag van de selectieve participatietoeslag overeenkomstig het gevolgde onderwijs als het gevolgde onderwijs in de loop van het schooljaar wijzigt.
 
 ## Afdeling 2. Selectieve participatietoeslag basisonderwijs
 
@@ -770,6 +772,8 @@ Een kleutertoeslag van 130 euro wordt toegekend aan een rechthebbende leerling a
 ### ART 55.
 
 § 1. Een kleutertoeslag van 130 euro wordt toegekend aan een rechthebbende leerling als vermeld in artikel 53, die drie jaar is op 31 december van het kalenderjaar vóór het jaar waarin de toeslag verschuldigd is, op voorwaarde dat de inschrijving, vermeld in artikel 54, behouden blijft voor de leerling, en op voorwaarde dat het bewijs van voldoende aanwezigheid in een betrokken schooljaar geleverd wordt, zoals nader bepaald in artikel 27, § 2, 1°, 2°, en § 3, § 4, § 5 en § 6.<br>
+<br>
+De inschrijving, vermeld in het eerste lid, wordt gecontroleerd op de dag dat de leerling vier jaar wordt. Als de leerling op dat moment niet ingeschreven is in het kleuteronderwijs, wordt de leerling geacht aan de voorwaarden te voldoen als de leerling uiterlijk 21 kalenderdagen na de uitschrijving die op dat ogenblik geldt, opnieuw ingeschreven is in het kleuteronderwijs.<br>
 <br>
 § 2. In afwijking van paragraaf 1 wordt aan een rechthebbende leerling als vermeld in artikel 53, die drie jaar is op 31 december 2018, een kleutertoeslag van 130 euro toegekend, op voorwaarde dat hij in een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor kleuteronderwijs is ingeschreven.
 
