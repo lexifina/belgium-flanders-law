@@ -57,6 +57,20 @@ In artikel 53 van bijlage 2 bij hetzelfde besluit wordt paragraaf 5 vervangen do
 <br>
 Binnen de beschikbare begrotingskredieten kunnen de individuele diensten die het percentage, vermeld in het eerste lid, overschrijden, de verhogingen, vermeld in paragraaf 3, ontvangen voor de onregelmatige prestaties die het percentage, vermeld in het eerste lid, overschrijden, op voorwaarde dat die grens op sectorniveau niet wordt overschreden. De beschikbare middelen worden verdeeld over de diensten in kwestie in verhouding tot de onregelmatige prestaties boven het percentage, vermeld in het eerste lid.".
 
+### ART 8.
+
+In bijlage 2 bij hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 27 november 2020, 28 mei 2021 en 17 september 2021, wordt een artikel 53/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 53/1. § 1. Voor de maatregel flexibiliteit tussen 18 uur en 20 uur uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non- profitsectoren voor de periode 2021 tot 2025 wordt een budget van 256.312,02 euro verdeeld tussen de erkende diensten voor gezinszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent gezinszorg voor dat jaar verhoogd wordt.<br>
+<br>
+§ 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de diensten op basis van het aantal gepresteerde uren gezinszorg tussen 18 uur en 20 uur op werkdagen als vermeld in artikel 21, tweede lid, van deze bijlage, met inbegrip van de uren die gepresteerd zijn in een centrum voor dagopvang, door het verzorgend personeel dat gefinancierd wordt met de middelen, vermeld in artikel 52, eerste lid, 1°, van deze bijlage. De diensten kunnen per gepresteerd uur maximaal 15% van het bedrag, vermeld in artikel 52, eerste lid, 1°, van deze bijlage, ontvangen. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar waarop het budget betrekking heeft.<br>
+<br>
+§ 3. De dienst bezorgt het aantal gepresteerde uren, vermeld in paragraaf 2, jaarlijks via een formulier dat het agentschap daarvoor op zijn website ter beschikking stelt, uiterlijk op 1 mei van het jaar dat volgt op het jaar waarop het budget betrekking heeft.<br>
+<br>
+Het subsidiebedrag wordt aan de diensten toegekend samen met het saldo, vermeld in artikel 66, eerste lid, van deze bijlage.<br>
+<br>
+Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, § 3, derde lid, van deze bijlage.".
+
 ### ART 9.
 
 In artikel 54, § 1, van bijlage 2 bij hetzelfde besluit wordt punt 1° vervangen door wat volgt:<br>
