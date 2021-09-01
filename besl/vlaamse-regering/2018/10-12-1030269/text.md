@@ -27,7 +27,7 @@ Besluit :
 Met behoud van de toepassing van de bepalingen van:<br>
 1° het besluit van de Vlaamse regering van 6 december 2002 betreffende de organisatie van het buitengewoon secundair onderwijs van opleidingsvorm 3, zoals gewijzigd;<br>
 2° het besluit van de Vlaamse Regering van 21 december 2007 betreffende de studiegebieden en structuuronderdelen in het voltijds secundair onderwijs, zoals gewijzigd;<br>
-3° het besluit van de Vlaamse Regering van 1 juni 2018 houdende sommige maatregelen betreffende de modernisering van het secundair onderwijs, bijlage 2, deel "structuuronderdelen duaal 2e graad", zoals gewijzigd,<br>
+3° bijlage 2, deel "Structuuronderdelen duaal 2e graad" en deel "aanloopstructuuronderdelen" van het besluit van de Vlaamse Regering van 1 juni 2018 houdende sommige maatregelen betreffende de modernisering van het secundair onderwijs.<br>
 worden de structuuronderdelen met in de benaming de term duaal waarvan de lijst is opgenomen in bijlage 1, die bij dit besluit is gevoegd, aan het studieaanbod van het secundair onderwijs toegevoegd.<br>
 <br>
 Voor het gewoon secundair onderwijs en opleidingsvorm 4 van het buitengewoon secundair onderwijs worden voor elk structuuronderdeel in kwestie het studiegebied, de graad, de onderwijsvorm en, uitsluitend voor Se-n-Se, de duurtijd, uitgedrukt in semesters, die eraan gekoppeld zijn, vastgelegd.<br>
@@ -36,7 +36,7 @@ Voor opleidingsvorm 3 van het buitengewoon secundair onderwijs is elk structuuro
 
 ### ART 2.
 
-De standaardtrajecten voor structuuronderdelen met in de benaming de term "duaal" van het gewoon secundair onderwijs en van opleidingsvorm 4 van het buitengewoon secundair onderwijs, vermeld in artikel 1, zijn opgenomen in bijlage 2, die bij dit besluit is gevoegd. De standaardtrajecten voor structuuronderdelen met in de benaming de term "duaal" van opleidingsvorm 3 van het buitengewoon secundair onderwijs, vermeld in artikel 1, zijn opgenomen in bijlage 3, die bij dit besluit is gevoegd.<br>
+De standaardtrajecten voor structuuronderdelen met in de benaming de term "duaal" van het gewoon secundair onderwijs en van opleidingsvorm 4 van het buitengewoon secundair onderwijs, vermeld in artikel 1, zijn opgenomen in bijlage 2, die bij dit besluit is gevoegd.&nbsp;In een standaardtraject kan een aanloopstructuuronderdeel worden opgenomen als dat in het voltijds gewoon secundair onderwijs wordt toegepast. De samenstelling van dat aanloopstructuuronderdeel is vastgelegd in bijlage 1/1, die bij dit besluit is gevoegd.&nbsp;De standaardtrajecten voor structuuronderdelen met in de benaming de term "duaal" van opleidingsvorm 3 van het buitengewoon secundair onderwijs, vermeld in artikel 1, zijn opgenomen in bijlage 3, die bij dit besluit is gevoegd.<br>
 <br>
 Bij de standaardtrajecten, vermeld in het eerste lid, als dat van toepassing is in opleidingsvorm 4 van het buitengewoon secundair onderwijs, met uitzondering van de Se-n-Se, gaat een tabel met, in voorkomend geval, de structuuronderdelen met in de benaming de term "duaal" en de structuuronderdelen zonder in de benaming de term "duaal" die verwant zijn. De voormelde tabel is opgenomen in bijlage 4, die bij dit besluit is gevoegd.
 
@@ -50,354 +50,11 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd
 
 ### BIJLAGE
 
-<strong>Structuuronderdelen met in de benaming de term "duaal"</strong><br>
-<br>
-A) Gewoon secundair onderwijs en opleidingsvorm 4 van het buitengewoon secundair onderwijs<br>
-Lijst geldend voor schooljaar 2020-2021<br>
-1° STUDIEGEBIED SPORT<br>
-Derde graad tso : Se-n-Se<br>
-Fitnessbegeleider duaal (2 semesters)<br>
-2° STUDIEGEBIED AUTO<br>
-Derde graad tso : eerste en tweede leerjaar<br>
-Autotechnieken duaal<br>
-Derde graad tso : Se-n-Se<br>
-Polyvalent mecanicien zware bedrijfsvoertuigen duaal (2 semesters)<br>
-Derde graad bso : eerste en tweede leerjaar<br>
-Koetswerk duaal<br>
-Onderhoudsmechanica auto duaal<br>
-Derde graad bso : specialisatiejaar<br>
-Onderhoudsmecanicien zware bedrijfsvoertuigen duaal<br>
-Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen duaal<br>
-Spuiter carrosserie duaal<br>
-3° STUDIEGEBIED BOUW<br>
-Derde graad bso : eerste en tweede leerjaar<br>
-Afwerking bouw duaal<br>
-Bouwplaatsmachinist duaal<br>
-Decoratie en schilderwerken duaal<br>
-Ruwbouw duaal<br>
-Derde graad bso : specialisatiejaar<br>
-Asfalt- en betonwegenbouwer duaal<br>
-Dakwerker duaal<br>
-Ijzervlechter en bekister-betonneerder duaal<br>
-Monteur steigerbouw duaal<br>
-Natuursteenbewerker duaal<br>
-Restauratievakman schilder-decorateur duaal<br>
-Stukadoor duaal<br>
-Vloerder - tegelzetter duaal<br>
-4° STUDIEGEBIED CHEMIE<br>
-Derde graad tso : Se-n-Se<br>
-Chemische procestechnieken duaal (2 semesters)<br>
-5° STUDIEGEBIED GRAFISCHE COMMUNICATIE EN MEDIA<br>
-Derde graad bso : specialisatiejaar<br>
-Offsetrotatie- en flexodrukker duaal<br>
-Operator digitaal drukken in de printmedia/papier- en kartonverwerking duaal<br>
-6° STUDIEGEBIED HANDEL<br>
-Derde graad tso : eerste en tweede leerjaar<br>
-Bedrijfsorganisatie duaal<br>
-Derde graad tso : Se-n-Se<br>
-Assistent (inter)nationaal goederenvervoer duaal (2 semesters)<br>
-Derde graad bso : eerste en tweede leerjaar<br>
-Logistiek duaal<br>
-Derde graad bso : specialisatiejaar<br>
-Commercieel assistent duaal<br>
-Logistiek assistent magazijn duaal<br>
-7° STUDIEGEBIED HOUT<br>
-Derde graad bso : specialisatiejaar<br>
-Daktimmerman duaal<br>
-Decor- en standenbouwer duaal<br>
-Interieurbouwer duaal<br>
-Meubelstoffeerder duaal<br>
-Operator CNC-gestuurde houtbewerkingsmachines duaal<br>
-Schrijnwerker houtbouw duaal<br>
-8° STUDIEGEBIED KOELING EN WARMTE<br>
-Derde graad tso : Se-n-Se<br>
-Technicus hernieuwbare energietechnieken duaal (2 semesters)<br>
-Derde graad bso : eerste en tweede leerjaar<br>
-Koelinstallaties duaal<br>
-Sanitaire en verwarmingsinstallaties duaal<br>
-Derde graad bso : specialisatiejaar<br>
-Technicus installatietechnieken duaal<br>
-Technicus koelinstallaties duaal<br>
-9° STUDIEGEBIED LAND- EN TUINBOUW<br>
-Tweede graad bso : eerste en tweede leerjaar<br>
-Hippisch assistent duaal<br>
-Medewerker florist duaal<br>
-Derde graad bso : eerste en tweede leerjaar<br>
-Dier en milieu duaal<br>
-Groenaanleg en -beheer duaal<br>
-Groendecoratie duaal<br>
-Plant en milieu duaal<br>
-Derde graad bso : specialisatiejaar<br>
-Florist duaal<br>
-Mecanicien tuin-, park- en bosmachines duaal<br>
-Natuurbeheerder duaal<br>
-Onderhoudsmecanicien zware bedrijfsvoertuigen land- en tuinbouw duaal<br>
-Tuinaanlegger-groenbeheerder duaal<br>
-10° STUDIEGEBIED LICHAAMSVERZORGING<br>
-Derde graad bso : eerste en tweede leerjaar<br>
-Haarverzorging duaal<br>
-Derde graad bso : specialisatiejaar<br>
-Kapper-stylist duaal<br>
-11° STUDIEGEBIED MARITIEME OPLEIDINGEN<br>
-Derde graad bso : eerste en tweede leerjaar<br>
-Binnenvaart en beperkte kustvaart duaal<br>
-Derde graad bso: specialisatiejaar<br>
-Stuurman binnenscheepvaart duaal<br>
-12° STUDIEGEBIED MECHANICA-ELEKTRICITEIT<br>
-Derde graad tso : eerste en tweede leerjaar<br>
-Elektromechanische technieken duaal<br>
-Elektrotechnieken duaal<br>
-Mechanische vormgevingstechnieken duaal<br>
-Podiumtechnieken duaal<br>
-Derde graad tso : Se-n-Se<br>
-Technieker industriële procesautomatisatie duaal (2 semesters)<br>
-Derde graad bso : eerste en tweede leerjaar<br>
-Elektrische installaties duaal<br>
-Lassen-constructie duaal<br>
-Mechanische vormgeving duaal<br>
-Preventief onderhoud machines en installaties duaal<br>
-Productie-industrie duaal<br>
-Derde graad bso : specialisatiejaar<br>
-Elektrotechnicus duaal<br>
-Installateur gebouwenautomatisering duaal<br>
-Installateur nutsvoorzieningen duaal<br>
-Lasser-monteerder duaal<br>
-Omsteller verspaning en monteerder-afregelaar duaal<br>
-Pijpfitter-fabriceur duaal<br>
-13° STUDIEGEBIED MODE<br>
-Derde graad tso : Se-n-Se<br>
-Ontwikkelaar patronen kleding- en confectieartikelen duaal (2 semesters)<br>
-Tweede graad bso : eerste en tweede leerjaar<br>
-Medewerker productielijn kleding, confectie en meubelstoffering duaal<br>
-Medewerker textielverzorging duaal<br>
-Derde graad bso : eerste en tweede leerjaar<br>
-Moderealisatie duaal<br>
-Textielverzorging duaal<br>
-Derde graad bso: specialisatiejaar<br>
-Ontwikkelaar prototypes mode duaal<br>
-14° STUDIEGEBIED PERSONENZORG<br>
-Derde graad tso : Se-n-Se<br>
-Tandartsassistent duaal (2 semesters)<br>
-Derde graad bso : specialisatiejaar<br>
-Kinderbegeleider duaal<br>
-Verzorgende/Zorgkundige duaal<br>
-15° STUDIEGEBIED TEXTIEL<br>
-Derde graad tso : Se-n-Se<br>
-Regelaar textielproductiemachines duaal (2 semesters)<br>
-Derde graad bso : eerste en tweede leerjaar<br>
-Textiel duaal<br>
-Derde graad bso : specialisatiejaar<br>
-Productieoperator textielproductielijn duaal<br>
-16° STUDIEGEBIED TOERISME<br>
-Derde graad bso : specialisatiejaar<br>
-Animator duaal<br>
-Host duaal<br>
-17° STUDIEGEBIED VOEDING<br>
-Derde graad tso : eerste en tweede leerjaar<br>
-Bakkerijtechnieken duaal<br>
-Tweede graad bso: eerste en tweede leerjaar<br>
-Medewerker (banket)bakkerij duaal<br>
-Medewerker slagerij duaal<br>
-Derde graad bso : eerste en tweede leerjaar<br>
-Brood- en banketbakkerij duaal<br>
-Grootkeuken en catering duaal<br>
-Restaurant en keuken duaal<br>
-Slagerij duaal<br>
-Derde graad bso : specialisatiejaar<br>
-Chocolatier duaal<br>
-Gespecialiseerd verkoper slagerij duaal<br>
-Grootkeukenkok duaal<br>
-Hotelreceptionist duaal<br>
-Kok duaal<br>
-Lijst geldend voor schooljaar 2021-2022<br>
-1° STUDIEGEBIED SPORT<br>
-Derde graad tso : Se-n-Se<br>
-Fitnessbegeleider duaal (2 semesters)<br>
-2° STUDIEGEBIED AUTO<br>
-Derde graad tso : eerste en tweede leerjaar<br>
-Autotechnieken duaal<br>
-Derde graad tso : Se-n-Se<br>
-Polyvalent mecanicien zware bedrijfsvoertuigen duaal (2 semesters)<br>
-Derde graad bso : eerste en tweede leerjaar<br>
-Koetswerk duaal<br>
-Onderhoudsmechanica auto duaal<br>
-Derde graad bso : specialisatiejaar<br>
-Onderhoudsmecanicien zware bedrijfsvoertuigen duaal<br>
-Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen duaal<br>
-Spuiter carrosserie duaal<br>
-3° STUDIEGEBIED BOUW<br>
-Derde graad bso : eerste en tweede leerjaar<br>
-Afwerking bouw duaal<br>
-Bouwplaatsmachinist duaal<br>
-Decoratie en schilderwerken duaal<br>
-Ruwbouw duaal<br>
-Derde graad bso : specialisatiejaar<br>
-Asfalt- en betonwegenbouwer duaal<br>
-Dakwerker duaal<br>
-IJzervlechter en bekister-betonneerder duaal<br>
-Monteur steigerbouw duaal<br>
-Natuursteenbewerker duaal<br>
-Restauratievakman schilder-decorateur duaal<br>
-Stukadoor duaal<br>
-Vloerder - tegelzetter duaal<br>
-4° STUDIEGEBIED CHEMIE<br>
-Derde graad tso : Se-n-Se<br>
-Chemische procestechnieken duaal (2 semesters)<br>
-5° STUDIEGEBIED GRAFISCHE COMMUNICATIE EN MEDIA<br>
-Derde graad bso : eerste en tweede leerjaar<br>
-Printmedia duaal<br>
-Derde graad bso : specialisatiejaar<br>
-Offsetrotatie- en flexodrukker duaal<br>
-Operator digitaal drukken in de printmedia/papier- en kartonverwerking duaal<br>
-6° STUDIEGEBIED HANDEL<br>
-Derde graad tso : eerste en tweede leerjaar<br>
-Bedrijfsorganisatie duaal<br>
-Commerciële organisatie duaal<br>
-Derde graad tso : Se-n-Se<br>
-Assistent (inter)nationaal goederenvervoer duaal (2 semesters)<br>
-Derde graad bso : eerste en tweede leerjaar<br>
-Logistiek duaal<br>
-Derde graad bso : specialisatiejaar<br>
-Commercieel assistent duaal<br>
-Logistiek assistent magazijn duaal<br>
-7° STUDIEGEBIED HOUT<br>
-Derde graad bso : specialisatiejaar<br>
-Daktimmerman duaal<br>
-Decor- en standenbouwer duaal<br>
-Interieurbouwer duaal<br>
-Meubelstoffeerder duaal<br>
-Operator CNC-gestuurde houtbewerkingsmachines duaal<br>
-Plaatser houten vloerbedekking duaal<br>
-Schrijnwerker houtbouw duaal<br>
-Trappenmaker duaal<br>
-8° STUDIEGEBIED KOELING EN WARMTE<br>
-Derde graad tso : eerste en tweede leerjaar<br>
-Koel- en warmtetechnieken duaal<br>
-Derde graad tso : Se-n-Se<br>
-Technicus hernieuwbare energietechnieken duaal (2 semesters)<br>
-Derde graad bso : eerste en tweede leerjaar<br>
-Koelinstallaties duaal<br>
-Sanitaire en verwarmingsinstallaties duaal<br>
-Derde graad bso : specialisatiejaar<br>
-Technicus installatietechnieken duaal<br>
-Technicus koelinstallaties duaal<br>
-9° STUDIEGEBIED LAND- EN TUINBOUW<br>
-Derde graad tso : eerste en tweede leerjaar<br>
-Natuur- en groentechnieken duaal<br>
-Derde graad bso : eerste en tweede leerjaar<br>
-Dier en milieu duaal<br>
-Groenaanleg en -beheer duaal<br>
-Groendecoratie duaal<br>
-Paardenhouderij duaal<br>
-Plant en milieu duaal<br>
-Derde graad bso : specialisatiejaar<br>
-Florist duaal<br>
-Mecanicien tuin-, park- en bosmachines duaal<br>
-Natuurbeheerder duaal<br>
-Onderhoudsmecanicien zware bedrijfsvoertuigen land- en tuinbouw duaal<br>
-Productiemedewerker dier duaal<br>
-Productiemedewerker plant duaal<br>
-Tuinaanlegger-groenbeheerder duaal<br>
-10° STUDIEGEBIED LICHAAMSVERZORGING<br>
-Derde graad bso : eerste en tweede leerjaar<br>
-Haarverzorging duaal<br>
-Derde graad bso : specialisatiejaar<br>
-Kapper-stylist duaal<br>
-11° STUDIEGEBIED MARITIEME OPLEIDINGEN<br>
-Derde graad bso : eerste en tweede leerjaar<br>
-Binnenvaart en beperkte kustvaart duaal<br>
-Derde graad bso: specialisatiejaar<br>
-Stuurman binnenscheepvaart duaal<br>
-12° STUDIEGEBIED MECHANICA-ELEKTRICITEIT<br>
-Derde graad tso : eerste en tweede leerjaar<br>
-Elektromechanische technieken duaal<br>
-Elektrotechnieken duaal<br>
-Mechanische vormgevingstechnieken duaal<br>
-Podiumtechnieken duaal<br>
-Derde graad tso : Se-n-Se<br>
-Beveiligingstechnicus duaal (2 semesters)<br>
-Technieker industriële procesautomatisatie duaal (2 semesters)<br>
-Derde graad bso : eerste en tweede leerjaar<br>
-Elektrische installaties duaal<br>
-Lassen-constructie duaal<br>
-Mechanische vormgeving duaal<br>
-Preventief onderhoud machines en installaties duaal<br>
-Productie-industrie duaal<br>
-Derde graad bso : specialisatiejaar<br>
-Elektrotechnicus duaal<br>
-Installateur gebouwenautomatisering duaal<br>
-Installateur nutsvoorzieningen duaal<br>
-Lasser-monteerder duaal<br>
-Omsteller verspaning en monteerder-afregelaar duaal<br>
-Pijpfitter-fabriceur duaal<br>
-13° STUDIEGEBIED MODE<br>
-Derde graad tso : Se-n-Se<br>
-Ontwikkelaar patronen kleding- en confectieartikelen duaal (2 semesters)<br>
-Derde graad bso : eerste en tweede leerjaar<br>
-Moderealisatie duaal<br>
-Textielverzorging duaal<br>
-Derde graad bso: specialisatiejaar<br>
-Ontwikkelaar prototypes mode duaal<br>
-14° STUDIEGEBIED PERSONENZORG<br>
-Derde graad tso : Se-n-Se<br>
-Tandartsassistent duaal (2 semesters)<br>
-Derde graad bso : specialisatiejaar<br>
-Kinderbegeleider duaal<br>
-Verzorgende/Zorgkundige duaal<br>
-15° STUDIEGEBIED TANDTECHNIEKEN<br>
-Derde graad tso : Se-n-Se<br>
-Dentaaltechnicus duaal (2 semesters)<br>
-16° STUDIEGEBIED TEXTIEL<br>
-Derde graad tso : Se-n-Se<br>
-Regelaar textielproductiemachines duaal (2 semesters)<br>
-Derde graad bso : eerste en tweede leerjaar<br>
-Textiel duaal<br>
-Derde graad bso : specialisatiejaar<br>
-Productieoperator textielproductielijn duaal<br>
-17° STUDIEGEBIED TOERISME<br>
-Derde graad bso : specialisatiejaar<br>
-Animator duaal<br>
-Host duaal<br>
-18° STUDIEGEBIED VOEDING<br>
-Derde graad tso : eerste en tweede leerjaar<br>
-Bakkerijtechnieken duaal<br>
-Derde graad bso : eerste en tweede leerjaar<br>
-Brood- en banketbakkerij duaal<br>
-Grootkeuken en catering duaal<br>
-Restaurant en keuken duaal<br>
-Slagerij duaal<br>
-Derde graad bso : specialisatiejaar<br>
-Chocolatier duaal<br>
-Gespecialiseerd verkoper slagerij duaal<br>
-Grootkeukenkok duaal<br>
-Hotelreceptionist duaal<br>
-Kok duaal<br>
-B) Buitengewoon secundair onderwijs (kwalificatiefase en integratiefase)<br>
-Lijst geldend voor schooljaar 2020-2021<br>
-Assistent plantaardige productie duaal<br>
-Bandenmonteur duaal<br>
-Medewerker (banket)bakkerij duaal<br>
-Medewerker fastfood duaal<br>
-Medewerker groen- en tuinbeheer duaal<br>
-Medewerker slagerij duaal<br>
-Medewerker textielverzorging duaal<br>
-Schilder duaal<br>
-Voorbewerker carrosserie duaal<br>
-Lijst geldend voor schooljaar 2021-2022<br>
-Assistent plantaardige productie duaal<br>
-Bandenmonteur duaal<br>
-Keukenmedewerker duaal<br>
-Machinaal houtbewerker duaal<br>
-Magazijnmedewerker duaal<br>
-Medewerker (banket)bakkerij duaal<br>
-Medewerker fastfood duaal<br>
-Medewerker florist duaal<br>
-Medewerker groen- en tuinbeheer duaal<br>
-Medewerker hout duaal<br>
-Medewerker slagerij duaal<br>
-Medewerker textielverzorging duaal<br>
-Schilder duaal<br>
-Voorbewerker carrosserie duaal
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/12/03_1.pdf#page=36">Link naar bijlage 1</a>
+
+### Bijlage 1/1
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/12/03_1.pdf#page=49">Link naar bijlage 1/1</a>
 
 ### BIJLAGE
 
@@ -753,7 +410,161 @@ pp) Tuinaanlegger-groenbeheerder duaal;<br>
 qq) Zorgkundige duaal;<br>
 5° de standaardtrajecten, die opgenomen zijn in bijlage 1, die bij dit besluit is gevoegd, worden toegevoegd.<br>
 <br>
-&nbsp;
+* Bij BVR van 11 december 2020, artikel 1, worden met ingang van 1 september 2021 de volgende wijzigingen aangebracht:<br>
+1° in de volgende standaardtrajecten worden in rubriek 8 "Aanloopstructuuronderdelen" de woorden "Nog te bepalen" telkens vervangen door de woorden "Niet van toepassing":<br>
+a) Asfalt- en betonwegenbouwer duaal;<br>
+b) Autotechnieken duaal;<br>
+c) Bakkerijtechnieken duaal;<br>
+d) Chemische procestechnieken duaal;<br>
+e) Chocolatier duaal;<br>
+f) Elektromechanische technieken duaal;<br>
+g) Elektrotechnieken duaal;<br>
+h) Fitnessbegeleider duaal;<br>
+i) Gespecialiseerd verkoper slagerij duaal;<br>
+j) Hotelreceptionist duaal;<br>
+k) Installateur gebouwenautomatisering duaal;<br>
+l) Lasser-monteerder duaal;<br>
+m) Natuursteenbewerker duaal;<br>
+n) Offsetrotatie- en flexodrukker duaal;<br>
+o) Onderhoudsmecanicien zware bedrijfsvoertuigen duaal;<br>
+p) Ontwikkelaar patronen kleding- en confectieartikelen duaal;<br>
+q) Ontwikkelaar prototypes mode duaal;<br>
+r) Operator digitaal drukken in de printmedia/papier- en kartonverwerking duaal;<br>
+s) Podiumtechnieken duaal;<br>
+t) Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen duaal;<br>
+u) Polyvalent mecanicien zware bedrijfsvoertuigen duaal;<br>
+v) Productieoperator textielproductielijn duaal;<br>
+w) Restauratievakman schilder-decorateur duaal;<br>
+x) Spuiter carrosserie duaal;<br>
+y) Vloerder-tegelzetter duaal;<br>
+2° in de volgende standaardtrajecten worden in rubriek 9 "Onderliggende beroepskwalificaties i.f.v. flexibele instap bij modulaire organisatie" de woorden "Nog te bepalen" telkens vervangen door de woorden "Niet van toepassing":<br>
+a) Asfalt- en betonwegenbouwer duaal;<br>
+b) Autotechnieken duaal;<br>
+c) Bakkerijtechnieken duaal;<br>
+d) Chemische procestechnieken duaal;<br>
+e) Chocolatier duaal;<br>
+f) Elektromechanische technieken duaal;<br>
+g) Elektrotechnieken duaal;<br>
+h) Fitnessbegeleider duaal;<br>
+i) Gespecialiseerd verkoper slagerij duaal;<br>
+j) Hotelreceptionist duaal;<br>
+k) Installateur gebouwenautomatisering duaal;<br>
+l) Lasser-monteerder duaal;<br>
+m) Natuursteenbewerker duaal;<br>
+n) Offsetrotatie- en flexodrukker duaal;<br>
+o) Onderhoudsmecanicien zware bedrijfsvoertuigen duaal;<br>
+p) Ontwikkelaar patronen kleding- en confectieartikelen duaal;<br>
+q) Ontwikkelaar prototypes mode duaal;<br>
+r) Operator digitaal drukken in de printmedia/papier- en kartonverwerking duaal;<br>
+s) Podiumtechnieken duaal;<br>
+t) Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen duaal;<br>
+u) Polyvalent mecanicien zware bedrijfsvoertuigen duaal;<br>
+v) Productieoperator textielproductielijn duaal;<br>
+w) Restauratievakman schilder-decorateur duaal;<br>
+x) Spuiter carrosserie duaal;<br>
+y) Vloerder-tegelzetter duaal;<br>
+3° de volgende standaardtrajecten worden opgeheven:<br>
+a) Bedrijfsorganisatie duaal;<br>
+b) Daktimmerman duaal;<br>
+c) Dakwerker duaal;<br>
+d) Decor- en standenbouwer duaal;<br>
+e) Dier en milieu duaal;<br>
+f) Groenaanleg en -beheer duaal;<br>
+g) Grootkeuken en catering duaal;<br>
+h) Grootkeukenkok duaal;<br>
+i) Hippisch assistent duaal;<br>
+j) Ijzervlechter en bekister-betonneerder duaal;<br>
+k) Interieurbouwer duaal;<br>
+l) Kinderbegeleider duaal;<br>
+m) Kok duaal;<br>
+n) Medewerker (banket)bakkerij duaal;<br>
+o) Medewerker florist duaal;<br>
+p) Medewerker productielijn kleding, confectie en meubelstoffering duaal;<br>
+q) Medewerker slagerij duaal;<br>
+r) Medewerker textielverzorging duaal;<br>
+s) Meubelstoffeerder duaal;<br>
+t) Monteur steigerbouw duaal;<br>
+u) Natuurbeheerder duaal;<br>
+v) Operator CNC-getuurde houtbewerkingsmachines duaal;<br>
+w) Plant en milieu duaal;<br>
+x) Restaurant en keuken duaal;<br>
+y) Schrijnwerker houtbouw duaal;<br>
+z) Stukadoor duaal;<br>
+aa) Technicus installatietechnieken duaal;<br>
+bb) Technicus koelinstallaties duaal;<br>
+cc) Tuinaanlegger-groenbeheerder duaal;<br>
+4° de standaardtrajecten (<a href="http://www.ejustice.just.fgov.be/mopdf/2021/02/05_1.pdf#page=5">zie link</a>)&nbsp;worden toegevoegd.<br>
+<br>
+Bij BVR van 3 september 2021, artikel 5, worden met ingang van 1 september 2021 de volgende wijzigingen aangebracht:<br>
+1° in de volgende standaardtrajecten worden in rubriek 8 "Aanloopstructuuronderdelen" de woorden "Nog te bepalen" telkens vervangen door de woorden "Niet van toepassing":<br>
+a) Asfalt- en betonwegenbouwer duaal;<br>
+b) Autotechnieken duaal;<br>
+c) Bakkerijtechnieken duaal;<br>
+d) Chemische procestechnieken duaal;<br>
+e) Chocolatier duaal;<br>
+f) Elektromechanische technieken duaal;<br>
+g) Elektrotechnieken duaal;<br>
+h) Fitnessbegeleider duaal;<br>
+i) Gespecialiseerd verkoper slagerij duaal;<br>
+j) Hotelreceptionist duaal;<br>
+k) Installateur gebouwenautomatisering duaal;<br>
+l) Lasser-monteerder duaal;<br>
+m) Natuursteenbewerker duaal;<br>
+n) Onderhoudsmecanicien zware bedrijfsvoertuigen duaal;<br>
+o) Ontwikkelaar patronen kleding- en confectieartikelen duaal;<br>
+p) Ontwikkelaar prototypes mode duaal;<br>
+q) Operator digitaal drukken in de printmedia/papier- en kartonverwerking duaal;<br>
+r) Podiumtechnieken duaal;<br>
+s) Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen duaal;<br>
+t) Polyvalent mecanicien zware bedrijfsvoertuigen duaal;<br>
+u) Productieoperator textielproductielijn duaal;<br>
+v) Spuiter carrosserie duaal;<br>
+w) Vloerder-tegelzetter duaal;<br>
+2° in de volgende standaardtrajecten worden in rubriek 9 "Onderliggende beroepskwalificaties i.f.v. flexibele instap bij modulaire organisatie" de woorden "Nog te bepalen" telkens vervangen door de woorden "Niet van toepassing":<br>
+a) Asfalt- en betonwegenbouwer duaal;<br>
+b) Autotechnieken duaal;<br>
+c) Bakkerijtechnieken duaal;<br>
+d) Chemische procestechnieken duaal;<br>
+e) Chocolatier duaal;<br>
+f) Elektromechanische technieken duaal;<br>
+g) Elektrotechnieken duaal;<br>
+h) Fitnessbegeleider duaal;<br>
+i) Gespecialiseerd verkoper slagerij duaal;<br>
+j) Hotelreceptionist duaal;<br>
+k) Installateur gebouwenautomatisering duaal;<br>
+l) Lasser-monteerder duaal;<br>
+m) Natuursteenbewerker duaal;<br>
+n) Onderhoudsmecanicien zware bedrijfsvoertuigen duaal;<br>
+o) Ontwikkelaar patronen kleding- en confectieartikelen duaal;<br>
+p) Ontwikkelaar prototypes mode duaal;<br>
+q) Operator digitaal drukken in de printmedia/papier- en kartonverwerking duaal;<br>
+r) Podiumtechnieken duaal;<br>
+s) Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen duaal;<br>
+t) Polyvalent mecanicien zware bedrijfsvoertuigen duaal;<br>
+u) Productieoperator textielproductielijn duaal;<br>
+v) Spuiter carrosserie duaal;<br>
+w) Vloerder-tegelzetter duaal;<br>
+3° de volgende standaardtrajecten worden opgeheven:<br>
+a) Afwerking bouw duaal;<br>
+b) Beveiligingstechnicus duaal;<br>
+c) Decoratie- en schilderwerken duaal;<br>
+d) Dier en milieu duaal;<br>
+e) Elektrische installaties duaal;<br>
+f) Groenaanleg en -beheer duaal;<br>
+g) Hippisch assistent duaal;<br>
+h) Koelinstallaties duaal;<br>
+i) Koetswerk duaal;<br>
+j) Lassen-constructie duaal;<br>
+k) Logistiek duaal;<br>
+l) Moderealisatie duaal;<br>
+m) Offsetrotatie- en flexodrukker duaal;<br>
+n) Paardenhouderij duaal;<br>
+o) Plant en milieu duaal;<br>
+p) Preventief onderhoud machines en installaties duaal;<br>
+q) Printmedia duaal;<br>
+r) Restauratievakman schilder-decorateur duaal;<br>
+s) Sanitaire en verwarmingsinstallaties duaal;<br>
+4° de standaardtrajecten (<a href="http://www.ejustice.just.fgov.be/mopdf/2021/12/03_1.pdf#page=52">zie link</a>) worden toegevoegd.
 
 ### BIJLAGE
 
@@ -762,8 +573,21 @@ qq) Zorgkundige duaal;<br>
 * Bij besluit van de Vlaamse Regering van 11 oktober 2019, BS 13 november 2019, worden met ingang van 1 september 2020 de volgende standaardtrajecten toegevoegd:<br>
 <a href="http://www.ejustice.just.fgov.be/mopdf/2019/11/13_1.pdf#page=521">http://www.ejustice.just.fgov.be/mopdf/2019/11/13_1.pdf#page=521</a><br>
 <br>
-* Bij besluit van de Vlaamse Regering van 3 juli 2020, BS 19 augustus 2020, worden met ingang van 1 september 2020&nbsp;de standaardtrajecten medewerker (banket) bakkerij en medewerker slagerij voor de kwalificatiefase en integratiefase vervangen door de&nbsp; <a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/19_1.pdf#page=1289">volgende</a>&nbsp;standaardtrajecten.
+* Bij besluit van de Vlaamse Regering van 3 juli 2020, BS 19 augustus 2020, worden met ingang van 1 september 2020&nbsp;de standaardtrajecten medewerker (banket) bakkerij en medewerker slagerij voor de kwalificatiefase en integratiefase vervangen door de&nbsp; <a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/19_1.pdf#page=1289">volgende</a>&nbsp;standaardtrajecten.<br>
+<br>
+* Bij BVR van 11 december 2020, art. 2, worden met ingang van 1 september 2021 de volgende wijzigingen aangebracht:<br>
+1° de volgende standaardtrajecten worden opgeheven:<br>
+a) Assistent plantaardige productie duaal (kwalificatiefase en integratiefase);<br>
+b) Medewerker fastfood duaal (kwalificatiefase en integratiefase);<br>
+c) Medewerker groen- en tuinbeheer duaal (kwalificatiefase en integratiefase);<br>
+2° de standaardtrajecten (<a href="http://www.ejustice.just.fgov.be/mopdf/2021/02/05_1.pdf#page=1335">zie link</a>) worden toegevoegd.<br>
+<br>
+* Bij BVR van 3 september 2021, art. 6, worden met ingang van 1 september 2021 de volgende wijzigingen aangebracht:<br>
+1° de volgende standaardtrajecten worden opgeheven:<br>
+a) Schilder duaal (kwalificatiefase);<br>
+b) Schilder duaal (integratiefase);<br>
+2° de standaardtrajecten (<a href="http://www.ejustice.just.fgov.be/mopdf/2021/12/03_1.pdf#page=648">zie link</a>) worden toegevoegd.
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/19_1.pdf#page=1354">Verwantschap duaal/niet-duaal in opleidingsvorm 4 van het buitengewoon secundair onderwijs </a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/12/03_1.pdf#page=682">Link naar bijlage 4</a>
