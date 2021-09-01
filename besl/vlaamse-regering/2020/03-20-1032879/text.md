@@ -42,6 +42,10 @@ In artikel 1 van het besluit van de Vlaamse Regering van 10 juli 2008 betreffend
 "1° bijlage VI, bijlage VII, bijlage XVII en XVIII, bijlage XXII en bijlage XXVIII voor het studiegebied meubelmakerij;";<br>
 2° in punt 2° wordt de zinsnede "en bijlage XXIII tot en met XXVII" vervangen door de zinsnede ", bijlage XXIII tot en met XXVII en bijlage XXIX".
 
+### ART 4.
+
+Bijlage XXII bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 18 maart 2016 en vervangen bij het besluit van de Vlaamse Regering van 8 september 2017, wordt vervangen door bijlage 3, die bij dit besluit is gevoegd.
+
 ### ART 5.
 
 Aan hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 8 september 2017, worden een bijlage XXVIII en XXIX toegevoegd, die als bijlage 4 en 5 bij dit besluit zijn gevoegd.
@@ -78,6 +82,10 @@ De Vlaamse minister, bevoegd voor onderwijs en vorming, is belast met de uitvoer
 ### BIJLAGE
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2020/04/22_1.pdf#page=59">Bijlage 2</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/04/22_1.pdf#page=63">Bijlage 3</a>
 
 ### BIJLAGE
 
