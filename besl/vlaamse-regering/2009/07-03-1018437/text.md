@@ -22,31 +22,38 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 27 maart 1991 betreffen
 
 ### ART. 2.
 
-§ 1. De personeelsleden, vermeld in artikel 1, krijgen omstandigheidsverlof naar aanleiding van de volgende gebeurtenissen :<br>
-1° huwelijk van het personeelslid en het afleggen van een verklaring van wettelijke samenwoning door het personeelslid :&nbsp;twee werkdagen;<br>
-2° ...;<br>
-3° overlijden van de echtgenoot of samenwonende partner, van een bloed- of aanverwant in de eerste graad van het personeelslid of van de samenwonende partner : vier werkdagen;<br>
-4° huwelijk of afleggen van een verklaring van wettelijke samenwoning van een kind van het personeelslid, van de echtgenoot of van de samenwonende partner : twee werkdagen;<br>
-5° huwelijk van bloed- of aanverwant in de eerste graad, die geen kind is, of in de tweede graad, van het personeelslid, van de echtgenoot of van de samenwonende partner : de dag van het huwelijk;<br>
-6° overlijden van een bloed- of aanverwant in om het even welke graad van het personeelslid of van de samenwonende partner, die onder hetzelfde dak woont als het personeelslid : twee werkdagen;<br>
-7° overlijden van een bloed- of aanverwant in de tweede graad van het personeelslid of van de samenwonende partner, die niet onder hetzelfde dak woont als het personeelslid : één werkdag;<br>
-8° bijwonen van een bijeenkomst van een familieraad, bijeengeroepen door de vrederechter : één werkdag;<br>
-9° oproeping als getuige voor een rechtscollege of persoonlijke verschijning op aanmaning van een rechtscollege : de nodige tijd;<br>
-10° de uitoefening van het ambt van voorzitter, van bijzitter of van secretaris van een stembureau of een stemopnemingsbureau : de nodige tijd;<br>
-11° om deel uit te maken van de jury van het hof van assisen : de duur van de zitting.<br>
+§ 1. Voor de toepassing van dit artikel wordt verstaan onder:<br>
+1° langdurige pleegzorg: pleegzorg zoals omschreven in artikel 30sexies § 6 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten en waarbij het kind als deel uitmakend van dat gezin in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar het gezin of de pleegouder zijn verblijfplaats heeft of de pleegouders hun verblijfplaats hebben, is ingeschreven;<br>
+2° kortdurende pleegzorg: alle vormen van pleegzorg die niet voldoen aan de voorwaarden van langdurige pleegzorg;<br>
+3° pleegkind: het kind waarvoor het personeelslid of zijn echtgenote of samenwonende partner in het kader van pleegzorg is aangesteld door de rechtbank, door een door de bevoegde gemeenschap erkende dienst voor pleegzorg, of door de bevoegde gemeenschapsdiensten inzake jeugdbescherming;<br>
+4° pleegvader en - moeder: de pleegouder die in het kader van pleegzorg is aangesteld door de rechtbank, door een door de bevoegde gemeenschap erkende dienst voor pleegzorg, of door de bevoegde gemeenschapsdiensten inzake jeugdbescherming.<br>
 <br>
-§ 2. In afwijking van § 1, 1°, krijgen de leden van het administratief personeel, de administratief medewerker van het beleids- en ondersteunend personeel, de administratief medewerker van het ondersteunend personeel en de vastbenoemde leden van het meesters-, vak- en dienstpersoneel voor hun huwelijk of voor het afleggen van een verklaring van wettelijke samenwoning vier werkdagen.<br>
+§ 2. De personeelsleden, vermeld in artikel 1, krijgen omstandigheidsverlof naar aanleiding van de volgende gebeurtenissen:<br>
+1° huwelijk van het personeelslid en het afleggen van een verklaring van wettelijke samenwoning door het personeelslid: twee werkdagen;<br>
+2° huwelijk of afleggen van een verklaring van wettelijke samenwoning van een kind van het personeelslid, van de echtgenoot of echtgenote of samenwonende partner: twee werkdagen;<br>
+3° huwelijk van bloed- of aanverwant in de eerste graad, die geen kind is, of in de tweede graad, van het personeelslid, van de echtgenoot of echtgenote of samenwonende partner: de dag van het huwelijk;<br>
+4° overlijden van de echtgenoot of echtgenote of samenwonende partner, van een kind van het personeelslid of van zijn echtgenoot of echtgenote of samenwonende partner of overlijden van een pleegkind in het kader van een langdurige pleegzorg op het moment van het overlijden of in het verleden: tien werkdagen waarbij drie dagen door het personeelslid te kiezen tijdens de periode die begint met de dag van het overlijden en eindigt de dag van de begrafenis en zeven dagen door het personeelslid te kiezen binnen het jaar na de dag van het overlijden. Er kan van de beide perioden waarin deze dagen opgenomen moeten worden, afgeweken worden op vraag van het personeelslid met akkoord van de inrichtende macht of het centrumbestuur;<br>
+5° overlijden van de vader, moeder, stiefvader, stiefmoeder, schoonzoon, schoondochter van het personeelslid of van zijn echtgenoot of echtgenote of samenwonende partner: vier werkdagen, door het personeelslid te kiezen tijdens de periode die begint met de dag van het overlijden en eindigt de dag van de begrafenis. Er kan van de periode waarin deze dagen opgenomen moeten worden, afgeweken worden op vraag van het personeelslid met akkoord van de inrichtende macht of het centrumbestuur;<br>
+6° overlijden van de pleegvader of pleegmoeder van het personeelslid in het kader van langdurige pleegzorg op het moment van het overlijden: vier werkdagen, door het personeelslid te kiezen tijdens de periode die begint met de dag van het overlijden en eindigt de dag van de begrafenis. Er kan van de periode waarin deze dagen opgenomen moeten worden, afgeweken worden op vraag van het personeelslid met akkoord van de inrichtende macht of het centrumbestuur;<br>
+7° overlijden van een bloed- of aanverwant in om het even welke graad van het personeelslid of van de echtgenoot of echtgenote of samenwonende partner, die onder hetzelfde dak woont als het personeelslid: twee werkdagen, door het personeelslid te kiezen tijdens de periode die begint met de dag van het overlijden en eindigt de dag van de begrafenis. Er kan van de periode waarin deze dagen opgenomen moeten worden, afgeweken worden op vraag van het personeelslid met akkoord van de inrichtende macht of het centrumbestuur;<br>
+8° overlijden van een bloed- of aanverwant in de tweede graad van het personeelslid of van de echtgenoot of echtgenote of samenwonende partner, die niet onder hetzelfde dak woont als het personeelslid: één werkdag, door het personeelslid op te nemen op de dag van de begrafenis. Deze dag kan op een ander moment worden opgenomen op vraag van het personeelslid met een akkoord van de inrichtende macht of het centrumbestuur;<br>
+9° overlijden van een pleegkind van het personeelslid of van zijn echtgenoot of echtgenote of samenwonende partner in het kader van kortdurende pleegzorg op het moment van het overlijden: één werkdag, door het personeelslid op te nemen op de dag van de begrafenis. Deze dag kan op een ander moment worden opgenomen op vraag van het personeelslid met akkoord van de inrichtende macht of het centrumbestuur;<br>
+10° bijwonen van een bijeenkomst van een familieraad, bijeengeroepen door de vrederechter: één werkdag;<br>
+11° oproeping als getuige voor een rechtscollege of persoonlijke verschijning op aanmaning van een rechtscollege: de nodige tijd;<br>
+12° de uitoefening van het ambt van voorzitter, van bijzitter of van secretaris van een stembureau of een stemopnemingsbureau: de nodige tijd;<br>
+13° om deel uit te maken van de jury van het hof van assisen: de duur van de zitting.<br>
 <br>
-§ 3. Het verlof moet met volledige dagen worden genomen.<br>
-&nbsp;
+§ 3. In afwijking van § 2, 1°, krijgen de leden van het administratief personeel, de administratief medewerker van het beleids- en ondersteunend personeel, de administratief medewerker van het ondersteunend personeel en de vastbenoemde leden van het meesters-, vak- en dienstpersoneel voor hun huwelijk of voor het afleggen van een verklaring van wettelijke samenwoning vier werkdagen.<br>
+<br>
+§ 4. Het verlof moet met volledige dagen worden genomen.
 
 ### ART. 3.
 
-§ 1. De personeelsleden, vermeld in artikel 1, met uitzondering van het vastbenoemd meester-, vak- en dienstpersoneel en van de vastbenoemde personeelsleden van de kinderdagverblijven van het gemeenschapsonderwijs in het tweetalige hoofdstedelijke gebied Brussel, artikel IV.19 van de Codificatie sommige bepalingen voor het onderwijs, krijgen eveneens verlof wegens overmacht die het gevolg is van de ziekte of van een ongeval van één van de volgende personen, die onder hetzelfde dak woont als het personeelslid : de echtgenoot, de samenwonende partner, een bloed- of aanverwant van het personeelslid of van de samenwonende partner, een persoon, opgenomen met het oog op zijn adoptie of de uitoefening van een pleegvoogdij.<br>
+§ 1. De personeelsleden, vermeld in artikel 1, met uitzondering van het vastbenoemd meester-, vak- en dienstpersoneel en van de vastbenoemde personeelsleden van de kinderdagverblijven van het gemeenschapsonderwijs in het tweetalige hoofdstedelijke gebied Brussel, artikel IV.19 van de Codificatie sommige bepalingen voor het onderwijs, krijgen eveneens verlof wegens overmacht die het gevolg is van de ziekte of van een ongeval van één van de volgende personen: de echtgenoot, de samenwonende partner, een bloed- of aanverwant van het personeelslid of van de samenwonende partner, een persoon, opgenomen met het oog op zijn adoptie of de uitoefening van een pleegvoogdij.<br>
 <br>
 Uit een medisch attest moet blijken dat de aanwezigheid van het personeelslid bij één of meer van de voornoemde personen vereist is.<br>
 <br>
-§ 2. De duur van het verlof mag per burgerlijk jaar niet meer dan vier werkdagen bedragen. Het verlof moet met volledige dagen worden genomen.<br>
+§ 2. De duur van het verlof mag per burgerlijk jaar niet meer dan vier werkdagen bedragen. Het verlof moet met een halve of een volledige dag worden genomen.<br>
 &nbsp;
 
 ### ART. 4.
