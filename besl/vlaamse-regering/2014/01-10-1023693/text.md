@@ -12,7 +12,7 @@ In dit besluit wordt verstaan onder :<BR>1° agentschap : het Agentschap   voor 
 
 ### ART. 2.
 
-Dit besluit is van toepassing op de erkenning van de   onderwijskwalificaties van niveau 1 tot en met niveau 4,vermeld in artikel 14,   eerste lid 1°, a), 2° a) en b), 3° a), 4° a) tot en met f) en 4°   h).<BR>
+Dit besluit is van toepassing op de erkenning van de onderwijskwalificaties van niveau 1 tot en met niveau 4, vermeld in artikel 14, eerste lid 1°, 2°, 3° en 4°, van het decreet van 30 april 2009.
 
 ## HOOFDSTUK 2 Procedure voor de erkenning van onderwijskwalificaties
 
@@ -28,14 +28,17 @@ Deelkwalificaties die gebruikt worden in een onderwijskwalificatie van niveau 1 
 
 ### ART. 4.
 
-Het agentschap werkt voorstellen van onderwijskwalificaties uit op eigen   initiatief of op vraag van belanghebbenden. Belanghebbenden kunnen hun vraag tot   opmaak van een voorstel van onderwijskwalificatie permanent bij het agentschap   indienen. Uiterlijk zes maanden na het ontvangen van een vraag legt het   agentschap hetzij de gemotiveerde beslissing tot het niet opmaken van een   voorstel hetzij het voorstel van onderwijskwalificatie voor advisering voor aan   de VLOR.<BR>
+Het agentschap werkt voorstellen van onderwijskwalificaties uit op eigen initiatief of op verzoek van belanghebbenden, die daarvoor aan het agentschap alle informatie geven die het agentschap noodzakelijk acht. Het agentschap legt hetzij de gemotiveerde beslissing tot het niet opmaken van een voorstel hetzij het voorstel van onderwijskwalificatie voor advisering voor aan de VLOR.
 
 ### ART. 5.
 
 Ieder voorstel van onderwijskwalificatie bevat :<br>
-1° de titelen het niveau;<br>
+1° de benaming en het niveau;<br>
 2° de aanvragers en de actoren die bij de opmaak betrokken zijn;<br>
-3° "de onderwijsdoelen, meer bepaald de eindtermen en de overige onderdelen waaruit de onderwijskwalificatie is samengesteld met toepassing van artikel 14 van het decreet van 30 april 2009;<br>
+3° de onderwijsdoelen waaruit de onderwijskwalificatie is samengesteld met toepassing van artikel 14 van het decreet van 30 april 2009, meer bepaald:<br>
+a) de decretale eindtermen;<br>
+b) in voorkomend geval: de decretale specifieke eindtermen of, bij ontstentenis, een beschrijving van de vooropgestelde specifieke eindtermen;<br>
+c) in voorkomend geval: de competenties van de erkende beroepskwalificaties of deelkwalificaties;<br>
 4° de benaming en het niveau van de erkende beroepskwalificatie(s) die in voorkomend geval deel uitmaken van de kwalificatie;<br>
 5° ter uitvoering van en overeenkomstig de toepassing van de criteria, vermeld in artikel 15, tweede lid van het decreet van 30 april 2009 :<br>
 a) de maatschappelijke, economische of culturele behoefte;<br>
@@ -44,14 +47,16 @@ c) een inschatting van de instroom;<br>
 d) een inschatting van de uitstroom;<br>
 e) de noodzakelijke materiële en financiële middelen en expertise;<br>
 f) de noodzakelijke samenwerking, als die vereist is;<br>
-g) de beschrijving van de plaats in de opleidingenstructuur en in voorkomend geval de vereiste voorkennis;<br>
-h) de onderwijsvorm(en), het onderwijsniveau of de onderwijsniveaus en het studiegebied of de studiegebieden, waarin de onderwijskwalificatie zal kunnen worden aangeboden;<br>
-6° de beschrijving van het onderscheidend karakter van de onderwijskwalificatie tegenover en de samenhang met andere voorstellen van onderwijskwalificaties en met erkende beroeps- en onderwijskwalificaties;<br>
+g) de beschrijving van de plaats in de opleidingsstructuur, de vereiste voorkennis en een inschatting van de wenselijkheid van een aanbodbeperking;<br>
+h) ...;<br>
+6° de beschrijving van het verschil in inhoudelijke invulling van de onderwijskwalificatie tegenover en de eventuele samenhang met andere voorstellen van onderwijskwalificaties en met erkende beroeps- en onderwijskwalificaties;<br>
 7° welke onderwijskwalificatie of kwalificaties in voorkomend geval vervangen worden.
 
 ### ART. 6.
 
-Het agentschap maakt de voorstellen van onderwijskwalificatie op. Met het   oog op het creëren van voldoende draagvlak raadpleegt het agentschap bij de   uitwerking van een voorstel tenminste :<BR>1° de eventuele aanvragers van het   voorstel van onderwijskwalificatie;<BR>2° vertegenwoordigers van de   representatieve verenigingen van inrichtende machten en het   Gemeenschapsonderwijs.<BR>
+Het agentschap maakt de voorstellen van onderwijskwalificatie op. Met het oog op het creëren van voldoende draagvlak raadpleegt het agentschap bij de uitwerking van een voorstel :<br>
+1° eventueel de aanvragers van het voorstel van onderwijskwalificatie en eventueel deskundigen;<br>
+2° vertegenwoordigers van de representatieve verenigingen van inrichtende machten en het Gemeenschapsonderwijs.
 
 ## Afdeling 3 Advisering van een onderwijskwalificatie
 
@@ -63,9 +68,52 @@ Het agentschap maakt de voorstellen van onderwijskwalificatie op. Met het   oog 
 
 ### ART. 8.
 
-<P>Het agentschap legt het voorstel van onderwijskwalificatie met een   erkenningsadvies dat gebaseerd is op het advies, vermeld in artikel 7, binnen   dertig kalenderdagen voor aan de Vlaamse minister bevoegd voor het onderwijs en   bevoegd voor de coördinatie van het vormingsbeleid. De Vlaamse Regering beslist   of de erkenning al dan niet wordt verleend. De erkende onderwijskwalificatie   omvat minstens de benaming, het niveau, de beschrijving van de eindtermen,   specifieke eindtermen en/of competenties van de erkende beroepskwalificatie(s)   waaruit de onderwijskwalificatie is samengesteld, het onderwijsniveau, de   onderwijsvorm en het studiegebied waarin de onderwijskwalificatie kan worden   aangeboden alsook het jaar waarin de erkenning werd verleend;<BR></P>  <P>Elke erkende onderwijskwalificatie wordt bekendgemaakt in het Belgisch   Staatsblad.<BR></P>
+<p>Het agentschap legt het voorstel van onderwijskwalificatie met een erkenningsadvies dat gebaseerd is op het advies, vermeld in artikel 7, voor aan de Vlaamse minister, bevoegd voor onderwijs en vorming. De Vlaamse Regering beslist of de erkenning al dan niet wordt verleend. De Vlaamse Regering beslist over een voorstel dat uiterlijk op 31 december is ingediend, uiterlijk op 30 juni daaropvolgend. Over een voorstel dat uiterlijk op 30 juni is ingediend, beslist de Vlaamse Regering uiterlijk op 31 december daaropvolgend. De voormelde termijnen gelden met behoud van de toepassing van de termijnen voor de organisatie van structuuronderdelen en de termijnen voor het verwerven van onderwijsbevoegdheid die bij decreet of besluit zijn vastgelegd. De erkende onderwijskwalificatie omvat minstens de volgende elementen:<br>
+1° de benaming;<br>
+2° het niveau;<br>
+3° de onderwijsdoelen waaruit de onderwijskwalificatie is samengesteld, meer bepaald:<br>
+a) de decretale eindtermen;<br>
+b) in voorkomend geval: de decretale specifieke eindtermen of, bij ontstentenis, een beschrijving van de vooropgestelde specifieke eindtermen;<br>
+c) in voorkomend geval: de competenties van de erkende beroepskwalificaties of deelkwalificaties;";<br>
+4° de plaats in de opleidingsstructuur waar de onderwijskwalificatie kan worden aangeboden;<br>
+5° het jaar waarin de erkenning is verleend.</p>
+
+<p>Elke erkende onderwijskwalificatie wordt bekendgemaakt in het Belgisch Staatsblad.</p>
 
 ## [HOOFDSTUK 2/1. Procedure voor de actualisering of schrapping van onderwijskwalificaties (ing. BVR 16 juli 2021, art. 62, I: 1 september 2021)]
+
+### ART 8/1.
+
+§ 1. Het agentschap werkt een voorstel tot actualisering van onderwijskwalificaties uit op eigen initiatief of op verzoek van belanghebbenden, die daarvoor aan het agentschap alle informatie geven die het agentschap noodzakelijk acht.<br>
+<br>
+Het agentschap legt het voorstel tot actualisering voor aan de vertegenwoordigers van het Gemeenschapsonderwijs en de representatieve verenigingen van inrichtende machten van het gesubsidieerd onderwijs, die advies geven over het feit of het voorstel alleen betrekking heeft op een technische aanpassing of niet, op basis van de criteria, vermeld in paragraaf 2. Het agentschap kan ook de aanvrager of deskundigen raadplegen over het dossier.<br>
+<br>
+§ 2. Onder technische aanpassingen als vermeld in paragraaf 1, worden een van de volgende aanpassingen verstaan:<br>
+1° redactionele aanpassingen van taalkundige, grammaticale of vormelijke aard, zonder afbreuk te doen aan de inhoudelijke omschrijving van de bepalingen van de erkende onderwijskwalificatie;<br>
+2° rechtzettingen van onnauwkeurigheden, zonder afbreuk te doen aan de inhoudelijke omschrijving van de bepalingen van de erkende onderwijskwalificatie;<br>
+3° wijzigingen in de naam van de onderwijskwalificatie of de naam van de beroepskwalificaties die onderdeel zijn van de onderwijskwalificatie, zonder afbreuk te doen aan de inhoudelijke omschrijving van de erkende onderwijskwalificatie, zonder wijziging van de finaliteit en zonder wijziging van de competenties;<br>
+4° wijzigingen in de beroepskwalificaties die onderdeel zijn van de onderwijskwalificatie, die beperkt zijn tot het opsplitsen of samenvoegen van beroepskwalificaties zonder wijziging van de competenties;<br>
+5° wijzigingen in de onderwijsdoelen, meer bepaald de onderdelen waaruit de onderwijskwalificatie is samengesteld met toepassing van artikel 14 van het decreet van 30 april 2009, ten gevolge van een actualisatie van een beroepskwalificatie, zonder dat de wijzigingen van de beroepskwalificatie aanleiding geven tot de toekenning van een ander kwalificatieniveau aan de beroepskwalificatie en zonder wijziging van de finaliteit.
+
+### ART 8/2.
+
+Als een voorstel tot actualisering van een erkende onderwijskwalificatie alleen betrekking heeft op een technische aanpassing, legt het agentschap het geactualiseerde dossier, samen met een advies dat gebaseerd is op het advies, vermeld in artikel 8/1, tweede lid, ter beslissing voor aan de Vlaamse minister, bevoegd voor onderwijs en vorming.<br>
+<br>
+De Vlaamse minister, bevoegd voor onderwijs en vorming, beslist over de actualisering van de onderwijskwalificatie. Indien de actualisering betrekking heeft op een wijziging als vermeld in artikel 8/1, § 2, 3° of 4°, dan wijzigt de Vlaamse minister, bevoegd voor onderwijs en vorming, in overeenstemming hiermee het besluit van de Vlaamse Regering van 1 juni 2018 houdende sommige maatregelen betreffende de modernisering van het secundair onderwijs. Over een voorstel dat uiterlijk op 31 december is ingediend, beslist de Vlaamse minister, bevoegd voor onderwijs en vorming, uiterlijk op 30 juni daaropvolgend. Over een voorstel dat uiterlijk op 30 juni is ingediend, beslist de Vlaamse minister, bevoegd voor onderwijs en vorming, uiterlijk op 31 december daaropvolgend. De voormelde termijnen gelden met behoud van de toepassing van de termijnen voor de organisatie van structuuronderdelen en de termijnen voor het verwerven van onderwijsbevoegdheid die bij decreet of besluit zijn vastgelegd.
+
+### ART 8/3.
+
+Als een actualisering van een erkende onderwijskwalificatie niet beperkt is tot een technische aanpassing, volgt het agentschap de procedure voor de erkenning van een onderwijskwalificatie, vermeld in hoofdstuk 2.
+
+### ART 8/4.
+
+§ 1. Als het dossier, vermeld in artikel 8/1, betrekking heeft op een integrale schrapping van een erkende onderwijskwalificatie, raadpleegt het agentschap de volgende actoren :<br>
+1° eventueel de aanvragers van het voorstel tot schrapping en eventueel deskundigen;<br>
+2° vertegenwoordigers van het Gemeenschapsonderwijs en de representatieve verenigingen van inrichtende machten van het gesubsidieerd onderwijs.<br>
+<br>
+§ 2. Het agentschap legt elk voorstel van schrapping van een onderwijskwalificatie voor aan de VLOR voor advies. Dat advies wordt bij het agentschap uitgebracht binnen dertig dagen na ontvangst van het voorstel.<br>
+<br>
+§ 3. Het agentschap legt het voorstel tot schrapping van onderwijskwalificatie met een advies dat gebaseerd is op het advies, vermeld in paragraaf 2, binnen dertig dagen na ontvangst van het advies, vermeld in paragraaf 2, voor aan de Vlaamse minister, bevoegd voor onderwijs en vorming. De Vlaamse Regering beslist of de onderwijskwalificatie al dan niet wordt geschrapt. Leerlingen kunnen een onderwijskwalificatie die wordt geschrapt binnen een normaal tijdsbestek en zonder onderbreking verder zetten.
 
 ## HOOFDSTUK 3 Wijzigingsbepalingen
 
