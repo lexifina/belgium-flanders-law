@@ -131,10 +131,9 @@ De beslissingen van de klassenraad moeten gemotiveerd zijn.<br>
 
 ### ART. 14.
 
-§ 1. De klassenraad beslist over het studieadvies voor een leerling op het einde van de opleidingsfase :<br>
-Voor een leerling met een verslag van het type basisaanbod, die valt onder de toepassing van artikel 259, § 4, laatste lid, van de Codex Secundair Onderwijs, is het advies, vermeld in het eerste lid, een verplicht advies. Het advies bevat minstens het advies van de klassenraad voor het vervolgtraject van de leerling in het gewoon secundair onderwijs en een opsomming van de reeds verworven competenties;<br>
+§ 1. Op het einde van de opleidingsfase geeft de klassenraad aan leerlingen met een verslag van het type basisaanbod, die vallen onder de toepassing van artikel 259, § 4, tweede lid, van de Codex Secundair Onderwijs van 17 december 2010, een studieadvies dat minstens het vervolgtraject van de leerling in het gewoon secundair onderwijs bevat. Aan alle andere leerlingen kan de klassenraad op het einde van de opleidingsfase een studieadvies geven dat minstens het vervolgtraject van de leerling in het buitengewoon secundair onderwijs bevat.<br>
 <br>
-Voor een leerling die niet onder de toepassing van het tweede lid valt, is het advies, vermeld in het eerste lid, geen verplicht studieadvies maar een mogelijkheid. Het advies bevat minstens het advies van de klassenraad voor het vervolgtraject van de leerling in het buitengewoon secundair onderwijs en een opsomming van de reeds verworven competenties.<br>
+Aan alle leerlingen wordt op het einde van de opleidingsfase een bewijs van competenties toegekend. Op dat bewijs staan de competenties opgesomd die in de opleidingsfase al verworven zijn..<br>
 <br>
 § 1/1.De klassenraad beslist over de studiesanctionering van de leerling op het einde van de kwalificatiefase, en houdt hierbij onder meer rekening met het advies van de kwalificatiecommissie met betrekking tot de kwalificatieproef. De klassenraad beslist omtrent :<br>
 - het toekennen van het getuigschrift van de opleiding;<br>
@@ -183,7 +182,7 @@ De getuigschriften, de attesten en de processen-verbaal worden ondertekend door 
 
 ### ART. 20.
 
-[De getuigschriften en attesten worden opgesteld volgens de modellen als bijlage 2 tot en met 8 van dit besluit.  <span class="reference">(verv. B.V.R. 3 september 2004, art. 2, I: 1 juni 2004)</span> ]
+De studiebewijzen worden opgesteld volgens de modellen, opgenomen in bijlage 2 tot en met 9, die bij dit besluit zijn gevoegd.
 
 ## [HOOFDSTUK IIIBIS EXPERIMENTEEL MODULAIR ONDERWIJS]
 
@@ -2037,3 +2036,7 @@ Bijlage 7. Attest van verworven bekwaamheden.<br /><br />1. Model : Formaat A4 (
 ### BIJLAGE 8.
 
 ...
+
+### BIJLAGE 9
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/09/20_1.pdf#page=14">Bewijs van competenties</a>
