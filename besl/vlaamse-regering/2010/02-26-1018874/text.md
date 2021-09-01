@@ -87,7 +87,8 @@ Het aantal prestatie-eenheden voor een ambt met volledige prestaties in de selec
 
 Het aantal prestatie-eenheden voor een ambt met volledige prestaties in de wervingsambten van het ondersteunend personeel wordt op de volgende wijze vastgesteld:<br>
 1° administratief medewerker: 32 klokuren;<br>
-2° stafmedewerker: 36 klokuren.
+2° stafmedewerker: 36 klokuren;<br>
+3° ICT-coördinator: 36 klokuren.
 
 ### ART. 5.
 
@@ -103,7 +104,7 @@ Het personeelslid dat zitting heeft in een lokaal inspraakorgaan dat opgericht i
 
 § 1. Het personeelslid dat aangesteld is in het ambt van directeur, heeft recht op een salaris dat wordt uitgedrukt in twintigsten.<br>
 <br>
-§ 2. Het personeelslid dat aangesteld is in het ambt van adjunct-directeur secundair volwassenenonderwijs, stafmedewerker, technisch adviseur of technisch adviseur-coördinator, heeft recht op een salaris dat wordt uitgedrukt in zesendertigsten.<br>
+§ 2. Het personeelslid dat aangesteld is in het ambt van adjunct-directeur secundair volwassenenonderwijs, stafmedewerker, ICT-coördinator, technisch adviseur of technisch adviseur-coördinator, heeft recht op een salaris dat wordt uitgedrukt in zesendertigsten.<br>
 <br>
 § 3. Het personeelslid dat aangesteld is in het ambt van administratief medewerker, heeft recht op een salaris dat wordt uitgedrukt in tweeëndertigsten.<br>
 <br>
