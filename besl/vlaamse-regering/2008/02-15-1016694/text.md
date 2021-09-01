@@ -31,6 +31,7 @@ De ambten die de leden van het ondersteunend personeel kunnen uitoefenen in een 
 1° wervingsambten :<br>
 a) administratief medewerker;<br>
 b) stafmedewerker;<br>
+c) ICT-coördinator;<br>
 2° selectieambten : nihil;<br>
 3° bevorderingsambten : nihil.<br>
 &nbsp;
