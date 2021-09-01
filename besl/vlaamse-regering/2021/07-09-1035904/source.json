@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035904,
+  "title": "Besluit van de Vlaamse Regering van 2021-07-09 tot wijziging van het besluit van de Vlaamse Regering van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035904/VolledigDocument?datum=2021-09-01",
+  "source_sha256": "f541a1d4d67e88d4261c1c1beffdc7d97847ecfc88b19825b4fcf1d6a6d8772e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035904&param=informatie",
+  "as_of": "2021-09-01",
+  "made": "2021-07-09",
+  "gazette": "2021-08-06",
+  "numac": 2021021618,
+  "document_start": "2021-09-01",
+  "document_end": null,
+  "in_force": "2021-09-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2021-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
