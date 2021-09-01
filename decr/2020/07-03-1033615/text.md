@@ -541,6 +541,16 @@ In bijlage IV bij hetzelfde decreet, gewijzigd bij het decreet van 19 december 2
 
 In artikel 2 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap worden de woorden "centra voor deeltijdse vorming" opgeheven.
 
+### ART 73.
+
+Aan artikel 6 van hetzelfde decreet, gewijzigd bij de decreten van 4 april 2014, 30 maart 2018 en 5 april 2019, wordt een paragraaf 5 toegevoegd, die luidt als volgt:<br>
+<br>
+" § 5. Als de component werkplekleren niet wordt ingevuld conform paragraaf 1 tot en met 3, of met een NAFT, wordt de opleiding altijd volledig georganiseerd via onderwijs bij het centrum voor deeltijds beroepssecundair onderwijs of het centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen waar de leerling is ingeschreven.".
+
+### ART 74.
+
+Artikel 7 van hetzelfde decreet, gewijzigd bij het decreet van 30 maart 2018, wordt opgeheven.
+
 ### ART 75.
 
 In artikel 10, § 1, tweede lid, van hetzelfde decreet, gewijzigd bij de decreten van 8 mei 2009, 9 juli 2010, 21 december 2012, 27 april 2018, wordt punt 10° opgeheven.
@@ -609,6 +619,10 @@ In artikel 62 van hetzelfde decreet, gewijzigd bij de decreten van 8 mei 2009 en
 3° in het bestaande derde lid, dat het tweede lid wordt, wordt de zinsnede "of, voor wat betreft de leertijd, de trajectbegeleider" opgeheven;<br>
 4° het bestaande zesde lid, dat het vijfde lid wordt, wordt vervangen door wat volgt:<br>
 "Het resultaat van de screening is een inschaling van de jongere in de arbeidsdeelname of de aanloopcomponent.".
+
+### ART 85.
+
+In artikel 64, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 30 maart 2018, wordt de zin "Afhankelijk van het resultaat van de screening wordt de jongere onmiddellijk in de arbeidsdeelname de aanloopcomponent of NAFT ingeschakeld." vervangen door de zin "Afhankelijk van het resultaat van de screening wordt de jongere onmiddellijk in de arbeidsdeelname of de aanloopcomponent ingeschakeld.".
 
 ### ART 86.
 
@@ -1433,6 +1447,10 @@ Artikel 3 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding
 In artikel 27 van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid, het laatst gewijzigd bij het decreet van 22 maart 2019, worden de volgende wijzigingen aangebracht:<br>
 1° in paragraaf 2, 3°, wordt het getal "250" vervangen door het getal "290";<br>
 2° in paragraaf 5 worden de woorden "de aanvrager of de wettelijke vertegenwoordiger" vervangen door de woorden "een ouder of een werkelijke opvoeder" en worden de woorden "de bevoegde dienst van de Vlaamse Regering" vervangen door de woorden "de uitbetalingsactor".
+
+### ART 198.
+
+In artikel 30, § 2, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 22 maart 2019, wordt de zinsnede "hetzij minder dan 250 halve schooldagen aanwezig is geweest indien de leerling toen nog niet onderworpen was aan de leerplicht maar wel ingeschreven was in een kleuterschool." vervangen door de zinsnede "hetzij minder dan 290 halve schooldagen aanwezig is geweest indien de leerling toen onderworpen was aan de leerplicht en gedurende dat schooljaar ingeschreven was in een kleuterschool, met uitzondering van de leerlingen bedoeld onder 27, § 2, 4° van dit decreet.".
 
 ## HOOFDSTUK 18. Inwerkingtreding en toepassingsgebied in de tijd
 
