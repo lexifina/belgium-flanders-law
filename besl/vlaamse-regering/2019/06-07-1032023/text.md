@@ -45,7 +45,7 @@ De "educatieve master in de gezondheidswetenschappen", met specificatie of Scien
 <br>
 De opleiding, vermeld in het eerste lid, wordt ondergebracht in het studiegebied Geneeskunde. De studieomvang bedraagt honderdtwintig studiepunten. De onderwijstaal is Nederlands.<br>
 <br>
-Het consecutief traject van de opleiding, vermeld in het eerste lid, mag door de Universiteit Antwerpen worden georganiseerd in de vestiging administratief arrondissement Antwerpen.
+Het consecutief traject van de opleiding, vermeld in het eerste lid, mag door de Universiteit Antwerpen worden georganiseerd in de vestiging administratief arrondissement Antwerpen.&nbsp;Dit traject mag eveneens georganiseerd worden in de vestigingen Mechelen en Turnhout.
 
 ### ART 4.
 
