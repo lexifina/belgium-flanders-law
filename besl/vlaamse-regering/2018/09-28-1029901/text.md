@@ -195,7 +195,11 @@ Elk voertuig beschikt over een systeem dat tijdens het onderdeel, vermeld in art
 
 Het terugkommoment kan slechts georganiseerd worden voor groepen van minstens zes en maximaal achttien deelnemers.<br>
 <br>
-Tijdens het onderdeel, vermeld in artikel 2, eerste lid, 2°, is er minstens één lesgever per zes deelnemers.
+Tijdens het onderdeel, vermeld in artikel 2, eerste lid, 2°, is er minstens één lesgever per zes deelnemers.<br>
+<br>
+Deelnemers hebben recht op redelijke aanpassingen waarin de instelling voorziet.<br>
+<br>
+Deelnemers met een gehoorhandicap, namelijk dove of slechthorende deelnemers, kunnen zich laten bijstaan door een beëdigd doventolk die de instelling aanwijst, onverminderd de eventuele toepassing van het besluit van de Vlaamse Regering van 15 januari 2016 houdende de vaststelling van overkoepelende regels voor het centraal tolkenbureau voor de beleidsdomeinen Onderwijs en Welzijn, Volksgezondheid en Gezin. De tolk mag geen betrekking uitoefenen in een erkende rijschool of op welke wijze ook professioneel rijonderricht geven.
 
 ### ART 20.
 
@@ -631,7 +635,8 @@ De gegevens, vermeld in artikel 55/3, eerste lid, 2°, 5° en 6°, worden bijgeh
 
 De verplichting om het terugkommoment te volgen, is van toepassing op:<br>
 1° de personen die vanaf 1 oktober 2017 een aanvraag hebben ingediend bij een Vlaamse gemeente om een voorlopig rijbewijs te verkrijgen;<br>
-2° de personen die vanaf 1 oktober 2017 een nieuw voorlopig rijbewijs hebben aangevraagd bij een Vlaamse gemeente met toepassing van artikel 5/1, § 2, van het koninklijk besluit van 10 juli 2006 betreffende het rijbewijs voor voertuigen van categorie B.<br>
+2° de personen die vanaf 1 oktober 2017 een nieuw voorlopig rijbewijs hebben aangevraagd bij een Vlaamse gemeente met toepassing van artikel 5/1, § 2, van het koninklijk besluit van 10 juli 2006 betreffende het rijbewijs voor voertuigen van categorie B;<br>
+3° de personen die, met bijstand van een rijschool, vanaf 1 augustus 2021 geslaagd zijn voor het praktische examen en die op het moment waarop ze het praktische examen afleggen, ingeschreven zijn in het bevolkings-, vreemdelingen- of wachtregister van een Vlaamse gemeente en geen houder zijn van een geldig voorlopig rijbewijs.<br>
 <br>
 In afwijking van het eerste lid zijn de personen die vanaf 1 oktober 2017 een nieuw voorlopig rijbewijs hebben aangevraagd met toepassing van artikel 50, § 3, van het koninklijk besluit van 23 maart 1998 betreffende het rijbewijs, als ze hun aanvankelijke voorlopige rijbewijs hebben aangevraagd vóór 1 oktober 2017, vrijgesteld van de verplichting om het terugkommoment te volgen.
 
