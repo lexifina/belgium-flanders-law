@@ -10,7 +10,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid<br /><br />
 
 ### ART. 2.
 
-In elke provincie is er één regionaal technologisch centrum, hierna RTC te noemen. Het RTC Vlaams-Brabant heeft ook het Brusselse Hoofdstedelijke Gewest in zijn werkingsgebied. Het RTC neemt de rechtsvorm aan van een vereniging zonder winstoogmerk zoals bepaald in de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen.<br>
+In elke provincie is er één regionaal technologisch centrum, hierna RTC te noemen. Het RTC Vlaams-Brabant heeft ook het Brusselse Hoofdstedelijke Gewest in zijn werkingsgebied. Het RTC neemt de rechtsvorm aan van een vereniging zonder winstoogmerk zoals bepaald in de wettelijke verplichtingen voor verenigingen zonder winstoogmerk.<br>
 <br>
 De werking van een RTC is gericht op :<br>
 1° de bewerkstelliging van synergiën tussen onderwijsinstellingen en bedrijven;<br>
