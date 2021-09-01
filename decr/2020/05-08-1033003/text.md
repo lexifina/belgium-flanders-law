@@ -97,11 +97,11 @@ Voor de toepassing van artikel 44, tweede lid, 1°, van het decreet van 8 juni 2
 
 ### ART 18.
 
-In afwijking van artikel 28 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, kan het volwassenenonderwijs als afstandsonderwijs georganiseerd worden voor de resterende periode van het schooljaar 2019-2020 na de schorsing met ingang van 13 maart 2020 van de lessen en activiteiten als gevolg van de ministeriële besluiten houdende dringende maatregelen om de verspreiding van het coronavirus COVID-19 te beperken, uitgevaardigd door de minister van Veiligheid en Binnenlandse Zaken. Afstandsonderwijs voldoet ten minste aan de volgende criteria:<br>
-1° het voldoet aan de wettelijke bepalingen van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
+In afwijking van artikel 28 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs kan het volwassenenonderwijs tijdens het schooljaar 2021-2022 ook als afstandsonderwijs georganiseerd worden. Dat afstandsonderwijs voldoet ten minste aan de volgende criteria:<br>
+1° het beantwoordt aan de wettelijke bepalingen van hetzelfde decreet van 15 juni 2017;<br>
 2° het cursusmateriaal en de didactische middelen zijn geschikt voor multimediaal gebruik;<br>
 3° de wijze van evalueren is duidelijk omschreven;<br>
-4° de deelname van de cursisten wordt systematisch opgevolgd.
+4° de deelname van cursisten wordt systematisch gevolgd.
 
 ## HOOFDSTUK 6. Afwijking van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs
 

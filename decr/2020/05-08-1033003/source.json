@@ -2,16 +2,16 @@
   "codex_id": 1033003,
   "title": "Decreet van 2020-05-08 tot het nemen van dringende tijdelijke maatregelen in het onderwijs naar aanleiding van de coronacrisis",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033003/VolledigDocument?datum=2021-06-29",
-  "source_sha256": "73547dece44ea445d2ece5aa658a6418550e1edcbcb62b8c54bceef0dbf621cf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033003/VolledigDocument?datum=2021-09-01",
+  "source_sha256": "9a1647f9136124c4fa09587f7469ad301d823a4126cca064e13b3e0e2b6c6380",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033003&param=informatie",
-  "as_of": "2021-06-29",
+  "as_of": "2021-09-01",
   "made": "2020-05-08",
   "gazette": "2020-05-14",
   "numac": 2020020886,
   "document_start": "2020-05-15",
   "document_end": null,
-  "in_force": "2021-06-29",
+  "in_force": "2021-09-01",
   "article_versions": 43,
-  "record_form": "consolidated version as in force on 2021-06-29; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-09-01; future article versions excluded; article text as the API gives it"
 }
