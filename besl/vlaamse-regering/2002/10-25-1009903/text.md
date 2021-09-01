@@ -2,13 +2,29 @@
 
 ### ART. 1.
 
-Dit besluit is van toepassing op de leden van het ondersteunend personeel die werken in het gewoon en buitengewoon secundair onderwijs, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap, en die onderworpen zijn aan:<br />1° het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs;<br />2° het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde psycho-medisch-sociale centra.<br /><br />De ambten die de leden van het ondersteunend personeel kunnen uitoefenen bestaan uit de volgende wervingsambten : <br />1° administratief medewerker;<br />2° opvoeder.
+Dit besluit is van toepassing op de leden van het ondersteunend personeel die werken in het gewoon en buitengewoon secundair onderwijs, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap, en die onderworpen zijn aan:<br>
+1° het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs;<br>
+2° het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde psycho-medisch-sociale centra.<br>
+<br>
+De ambten die de leden van het ondersteunend personeel kunnen uitoefenen bestaan uit de volgende wervingsambten :<br>
+1° administratief medewerker;<br>
+2° opvoeder;<br>
+3° ICT-coördinator.
 
 ## HOOFDSTUK I PRESTATIESTELSEL
 
 ### ART. 2.
 
-§ 1. Het aantal uren, vereist voor een ambt met volledige prestaties, voor de in artikel 1 bedoelde leden van het ondersteunend personeel wordt vastgesteld als volgt:<br />1° voor de schooljaren 1998-1999, 1999-2000 en 2000-2001:<br />a) voor het ambt van administratief medewerker: 38 uur;<br />b) voor het ambt van opvoeder: minimum 36 uur en maximum 39 uur;<br />2° vanaf 1 september 2001:<br />a) voor het ambt van administratief medewerker: 36 uur;<br />b) voor het ambt van opvoeder: minimum en maximum 36 uur.<br /><br />§ 2. Het personeelslid dat zitting heeft in een lokaal inspraakorgaan dat opgericht is door of krachtens een wet of een decreet, krijgt dienstvrijstelling om de vergaderingen van dat inspraakorgaan bij te wonen. De dienstvrijstelling wordt gelijkgesteld met een periode van dienstactiviteit.<br />
+§ 1. Het aantal uren, vereist voor een ambt met volledige prestaties, voor de in artikel 1 bedoelde leden van het ondersteunend personeel wordt vastgesteld als volgt:<br>
+1° voor de schooljaren 1998-1999, 1999-2000 en 2000-2001:<br>
+a) voor het ambt van administratief medewerker: 38 uur;<br>
+b) voor het ambt van opvoeder: minimum 36 uur en maximum 39 uur;<br>
+2° vanaf 1 september 2001:<br>
+a) voor het ambt van administratief medewerker: 36 uur;<br>
+b) voor het ambt van opvoeder: minimum en maximum 36 uur;<br>
+3° voor het ambt van ICT-coördinator: 36 uur.<br>
+<br>
+§ 2. Het personeelslid dat zitting heeft in een lokaal inspraakorgaan dat opgericht is door of krachtens een wet of een decreet, krijgt dienstvrijstelling om de vergaderingen van dat inspraakorgaan bij te wonen. De dienstvrijstelling wordt gelijkgesteld met een periode van dienstactiviteit.
 
 ## HOOFDSTUK II JAARLIJKS VAKANTIEVERLOF
 
@@ -26,7 +42,11 @@ Met ingang van het schooljaar 1998-1999 zijn de reglementaire bepalingen inzake 
 
 ### ART. 5.
 
-Met ingang van het schooljaar 1998-1999 wordt de bezoldiging van de personeelsleden die het ambt van administratief medewerker uitoefenen, vastgesteld op grond van de bepalingen van het koninklijk besluit van 1 december 1970 houdende bezoldigingsregeling van het administratief personeel, het meesters-, vak- en dienstpersoneel van de rijksinrichtingen voor kleuteronderwijs, voor lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs.<br /><br />Met ingang van het schooljaar 1998-1999 wordt de bezoldiging van de personeelsleden die het ambt van opvoeder uitoefenen, vastgesteld op grond van de bepalingen van het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs.
+Met ingang van het schooljaar 1998-1999 wordt de bezoldiging van de personeelsleden die het ambt van administratief medewerker uitoefenen, vastgesteld op grond van de bepalingen van het koninklijk besluit van 1 december 1970 houdende bezoldigingsregeling van het administratief personeel, het meesters-, vak- en dienstpersoneel van de rijksinrichtingen voor kleuteronderwijs, voor lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs.<br>
+<br>
+Met ingang van het schooljaar 1998-1999 wordt de bezoldiging van de personeelsleden die het ambt van opvoeder uitoefenen, vastgesteld op grond van de bepalingen van het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs.<br>
+<br>
+Met ingang van het schooljaar 2021-2022 wordt de bezoldiging van de personeelsleden die het ambt van ICT-coördinator uitoefenen, vastgesteld op grond van de bepalingen van het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs.
 
 ## HOOFDSTUK V SLOTBEPALINGEN
 
