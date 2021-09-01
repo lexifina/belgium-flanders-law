@@ -42,6 +42,14 @@ In de bijlage bij het besluit van de Vlaamse Regering van 23 april 2010 betreffe
 3° het woord “spuiter” wordt vervangen door de woorden “spuiter carrosserie”;<br>
 4° het woord “voorbewerker” wordt vervangen door de woorden “voorbewerker carrosserie”.
 
+### ART 6.
+
+In de bijlage bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 2 juli 2021, worden de volgende wijzigingen aangebracht:<br>
+1° het woord “demonteur-monteur” wordt vervangen door de woorden “demonteur-monteur carrosserie”;<br>
+2° het woord “plaatwerker” wordt vervangen door de woorden “plaatwerker carrosserie”;<br>
+3° het woord “spuiter” wordt vervangen door de woorden “spuiter carrosserie”;<br>
+4° het woord “voorbewerker” wordt vervangen door de woorden “voorbewerker carrosserie”.
+
 ### BIJLAGE 2
 
 Vervanging van bijlage V bij het besluit van de Vlaamse Regering van 1 september 2006 betreffende de ambtshalve concordantie<br>
