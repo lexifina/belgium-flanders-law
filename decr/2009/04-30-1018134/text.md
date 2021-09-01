@@ -265,6 +265,7 @@ a) de eindtermen lager onderwijs;<br>
 2° de onderwijskwalificaties op niveau twee bestaan uit :<br>
 a) de eindtermen basiseducatie;<br>
 b) de eindtermen tweede graad bso en één of meer erkende beroepskwalificaties of deelkwalificaties;<br>
+c) de eindtermen tweede graad arbeidsmarktfinaliteit en een of meer erkende beroepskwalificaties of deelkwalificaties;<br>
 3° de onderwijskwalificaties op niveau drie bestaan uit :<br>
 a) de eindtermen voor het tweede leerjaar derde graad bso en één of meer erkende beroepskwalificaties al dan niet aangevuld met één of meer deelkwalificaties;<br>
 4° de onderwijskwalificaties op niveau vier bestaan uit :<br>
