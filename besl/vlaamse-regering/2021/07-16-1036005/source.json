@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036005,
+  "title": "Besluit van de Vlaamse Regering van 2021-07-16 over de goedkeuring van de programmatie van het structuuronderdeel onthaaljaar voor anderstalige nieuwkomers in het voltijds secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036005/VolledigDocument?datum=2021-09-01",
+  "source_sha256": "59b049be8d59e08321c7905a3e079664c92343842138c92ca04caa254aee82e1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036005&param=informatie",
+  "as_of": "2021-09-01",
+  "made": "2021-07-16",
+  "gazette": "2021-08-26",
+  "numac": 2021032411,
+  "document_start": "2021-09-01",
+  "document_end": null,
+  "in_force": "2021-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
