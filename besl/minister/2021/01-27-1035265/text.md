@@ -20,6 +20,10 @@ DE VLAAMSE MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW 
 
 In artikel 6, vijfde lid, van het ministerieel besluit van 23 juni 2015 houdende vaststelling van de verzamelaanvraag en de nadere regels voor de gemeenschappelijke identificatie van percelen, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid, ingevoegd bij het ministerieel besluit van 8 februari 2018, wordt de zinsnede "een accountant die is ingeschreven op het tableau van het Instituut van de accountants en belastingconsulenten conform artikel 5, § 1, van de wet van 22 april 1999 betreffende de boekhoudkundige en fiscale beroepen" vervangen door de zinsnede "een gecertificeerd accountant als vermeld in artikel 2, 1°, van de wet van 17 maart 2019 betreffende de beroepen van accountant en belastingadviseur, die is ingeschreven in het openbaar register, vermeld in hoofdstuk 5 van de voormelde wet.".
 
+### ART 2.
+
+In artikel 12 van hetzelfde besluit, vervangen bij het ministerieel besluit van 19 april 2016, wordt het woord "indieningsdatum" vervangen door het woord "wijzigingsdatum".
+
 ### ART 3.
 
 Bijlage 2 bij hetzelfde besluit, vervangen bij het ministerieel besluit van 31 maart 2020, wordt vervangen door de bijlage die bij dit besluit is gevoegd.
