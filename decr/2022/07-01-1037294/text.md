@@ -31,6 +31,20 @@ In artikel 23 van hetzelfde decreet wordt het tweede lid vervangen door wat volg
 <br>
 "De vermindering, vermeld in het eerste lid, wordt niet toegepast als voor een rechtgevend kind aanspraak kan worden gemaakt op uitkeringen van dezelfde aard krachtens statutaire regels die van toepassing zijn op de ambtenaren en andere personeelsleden van de Europese Unie, in geval van een beroepsactiviteit in loondienst of zelfstandigenactiviteit in België van een ouder van het kind of de echtgenoot van die ouder.".
 
+### ART 7.
+
+In artikel 30, § 1, 3°, van hetzelfde decreet, gewijzigd bij het decreet van 22 maart 2019, worden de woorden "uiterlijk vijftien kalenderdagen" vervangen door de zinsnede "tijdens het schooljaar uiterlijk 21 kalenderdagen".
+
+### ART 8.
+
+In artikel 34, § 1, eerste lid, 3°, van hetzelfde decreet, gewijzigd bij het decreet van 22 maart 2019, worden de woorden "uiterlijk vijftien kalenderdagen" vervangen door de zinsnede "tijdens het schooljaar uiterlijk 21 kalenderdagen".
+
+### ART 9.
+
+Aan artikel 45 van hetzelfde decreet wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"Met behoud van de toepassing van artikel 27, 30 en 34 heeft de rechthebbende leerling recht op het hoogste bedrag van de selectieve participatietoeslag overeenkomstig het gevolgde onderwijs als het gevolgde onderwijs in de loop van het schooljaar wijzigt.".
+
 ### ART 10.
 
 In artikel 57, § 3, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>

@@ -2,16 +2,16 @@
   "codex_id": 1037294,
   "title": "Decreet van 2022-07-01 tot wijziging van artikel 5 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, tot wijziging van het Groeipakketdecreet van 2018 en tot uitlegging van artikel 8 van het Groeipakketdecreet van 2018",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037294/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "516327f0fe8480cce6c1490c0d15c9f70f1c423ecbfcf911ec1a1218200ca430",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037294/VolledigDocument?datum=2021-09-01",
+  "source_sha256": "340c4c1b7ce609c333a9d8b79d8a2f99b73465d6da4f582259b32c53e73a2ab3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037294&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2021-09-01",
   "made": "2022-07-01",
   "gazette": "2022-07-29",
   "numac": 2022041616,
   "document_start": "2022-08-08",
   "document_end": null,
-  "in_force": "2019-01-01",
-  "article_versions": 11,
-  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-09-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2021-09-01; future article versions excluded; article text as the API gives it"
 }
