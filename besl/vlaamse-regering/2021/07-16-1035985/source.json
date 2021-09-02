@@ -2,16 +2,16 @@
   "codex_id": 1035985,
   "title": "Besluit van de Vlaamse Regering van 2021-07-16 tot wijziging van het Energiebesluit van 19 november 2010, wat betreft de steun voor energetische renovatieprojecten van noodkoopwoningen en de energielening",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035985/VolledigDocument?datum=2021-08-23",
-  "source_sha256": "0a97dd060fddfcea61272184c3b5e2f7758732c54325b4efe35e4d99881d5f2d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035985/VolledigDocument?datum=2021-09-02",
+  "source_sha256": "81cc72e49e775d2aeea7424da82a4d1d8bedd1f44de91edeb776be8fb6d890b6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035985&param=informatie",
-  "as_of": "2021-08-23",
+  "as_of": "2021-09-02",
   "made": "2021-07-16",
   "gazette": "2021-08-23",
   "numac": 2021032356,
   "document_start": "2021-09-02",
   "document_end": null,
-  "in_force": "2021-08-23",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2021-08-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-09-02",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2021-09-02; future article versions excluded; article text as the API gives it"
 }
