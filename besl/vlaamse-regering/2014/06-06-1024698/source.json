@@ -2,16 +2,16 @@
   "codex_id": 1024698,
   "title": "Besluit van de Vlaamse Regering van 2014-06-06 tot erkenning van de onderwijskwalificatie `Graduaat in de fitnessbegeleiding'",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024698/VolledigDocument?datum=2014-11-07",
-  "source_sha256": "227b3612423f85012172948688c8cfb3b2672b1db4a45b512302d30b9c5976d6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024698/VolledigDocument?datum=2021-09-03",
+  "source_sha256": "80458c02f2b12fb5fb0a5d9de8c467bf4a7bf0c980606632b2c829a6adbf795b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024698&param=informatie",
-  "as_of": "2014-11-07",
+  "as_of": "2021-09-03",
   "made": "2014-06-06",
   "gazette": "2014-10-28",
   "numac": 2014036697,
   "document_start": "2014-11-07",
   "document_end": "2021-09-02",
-  "in_force": "2014-11-07",
+  "in_force": "2021-09-03",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-11-07; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-09-03; future article versions excluded; article text as the API gives it"
 }
