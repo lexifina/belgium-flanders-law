@@ -38,10 +38,14 @@ Als handelingen van algemeen belang, zoals bedoeld in artikel 4.1.1, 5°, van de
 9° de infrastructuur voor luchtverkeer en de erbij horende afhandeling van personen- en goederentransport, met uitzondering van infrastructuur voor louter privatief of recreatief gebruik.<br>
 10° scholenbouwprojecten en de bouw van universitaire instellingen, met inbegrip van internaten en studentenkamerwoningen;<br>
 11° de uitrustingswerken, gebouwen en constructies, in een gebied dat overeenkomstig het besluit van de Vlaamse Regering van 16 mei 2007 houdende subsidiëring van bedrijventerreinen, beschouwd wordt als wetenschapspark;<br>
-12° de bebossing, natuur- en landinrichtingswerken door of in opdracht van de overheid. De uitvoering van ruilverkavelingen door of in opdracht van de overheid;<br>
+12° de volgende projecten door of in opdracht van de overheid:<br>
+a) de bebossing, natuur- en landinrichtingswerken;<br>
+b) de uitvoering van nuttig verklaarde ruilverkavelingen;<br>
+c) de uitvoering van bodemsanering;<br>
 13° de bos- en natuurcompensatieprojecten, nodig voor de uitvoering van de handelingen vermeld in punt 1° tot en met 12°;<br>
 14° de dienstenzones langs wegen;<br>
-15° de gemeentelijke of intergemeentelijke begraafplaatsen.
+15° de gemeentelijke of intergemeentelijke begraafplaatsen.<br>
+16° verplaatsbare constructies voor gegroepeerde tijdelijke huisvesting van werknemers op voorwaarde dat is voldaan aan al de voorwaarden, vermeld in artikel 3, § 2, eerste lid, 19°, van dit besluit;
 
 ## HOOFDSTUK III [DE HANDELINGEN VAN ALGEMEEN BELANG DIE EEN RUIMTELIJKE BEPERKTE IMPACT HEBBEN OF ALS DERGELIJKE HANDELINGEN BESCHOUWD KUNNEN WORDEN (verv. BVR 20 juli 2012 , art. 3)]
 
@@ -119,6 +123,11 @@ c) de constructies zijn niet groter dan 200 vierkante meter;<br>
 18° de aanleg, wijziging of uitbreiding van sportterreinen die aansluiten bij en in functie staan van bestaande, vergunde of hoofdzakelijk vergunde sportterreinen of sportinfrastructuur, als aan al de volgende voorwaarden is voldaan :<br>
 a) de sportactiviteit wordt op regelmatige basis georganiseerd door een erkende sportclub;<br>
 b) bij de aanleg, wijziging of uitbreiding wordt de oppervlakte van de sportterreinen maximaal met 20 % vermeerderd ten opzichte van de op 1 april 2018 bestaande, vergunde of hoofdzakelijk vergunde oppervlakte van de sportterreinen en sportinfrastructuur. Als de op deze wijze berekende oppervlakte kleiner is dan 500 vierkante meter, kan een totale bijkomende oppervlakte tot 500 vierkante meter vergund worden. Als de op deze wijze berekende oppervlakte groter is dan 3000 vierkante meter, kan slechts een totale bijkomende oppervlakte tot 3000 vierkante meter vergund worden.<br>
+19° de tijdelijke plaatsing van verplaatsbare constructies en de strikt noodzakelijke ontsluitingsinfrastructuur als aan al de volgende voorwaarden is voldaan:<br>
+a) de verplaatsbare constructies dienen louter voor gegroepeerde tijdelijke huisvesting van werknemers en voor bijbehorende collectieve voorzieningen tijdens de uitvoering van vergunde stedenbouwkundige handelingen van algemeen belang;<br>
+b) per cluster van verplaatsbare constructies zijn minstens dertig slaapplaatsen voorzien;<br>
+c) de verplaatsbare constructies worden geplaatst op openbaar of privaat domein van een overheid in de buurt van de vergunde handelingen, op het goed of op minder dan vijf kilometer van het goed, of binnen de werkstrook die afgebakend is in de omgevingsvergunning voor stedenbouwkundige handelingen;<br>
+d) de verplaatsbare constructies en de ontsluitingsinfrastructuur worden cluster per cluster verwijderd binnen dertig dagen nadat de cluster gedurende minstens twee maanden niet meer gebruikt is voor de huisvesting, vermeld in punt a), en worden uiterlijk verwijderd binnen dertig dagen na het beëindigen van de stedenbouwkundige handelingen, vermeld in punt a).<br>
 <br>
 De handelingen, vermeld in het eerste lid, die niet onder paragraaf 1 vallen, mogen niet worden uitgevoerd in een ruimtelijk kwetsbaar gebied, tenzij die handelingen door de aard, ligging en oppervlakte ervan geen significante impact hebben op het ruimtelijk kwetsbare gebied.<br>
 <br>
