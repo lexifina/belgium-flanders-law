@@ -29,6 +29,12 @@ Artikel 13/1 van het besluit van de Vlaamse Regering van 15 december 2000 houden
 <br>
 "Art. 13/1. Budgethouders die starten met het PAB kunnen aanspraak maken op bijstand bij de opstart van de besteding als vermeld in artikel 16/0, § 2, van het besluit van de Vlaamse Regering van 11 december 2015 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering. Ze sluiten zich daarvoor als lid aan bij een bijstandsorganisatie die is vergund door het agentschap conform artikel 6 tot en met artikel 8 van het voormelde besluit. Ze doen dat binnen het jaar te rekenen vanaf de datum van de jeugdhulpverleningsbeslissing, vermeld in artikel 2, § 1, 28°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, over de toekenning van een persoonlijke assistentiebudget. Ze hoeven daarvoor geen lidgeld te betalen. Ze hoeven de bijstand ook niet te vergoeden met het PAB.".
 
+### ART 2.
+
+In artikel 13/2 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 december 2017 en gewijzigd bij het besluit van de Vlaamse Regering van 20 november 2020, wordt het eerste lid vervangen door wat volgt:<br>
+<br>
+"Iedere budgethouder ontvangt van het agentschap vanaf het tweede jaar van de toekenning van het PAB een bedrag van 50 euro bovenop het toegekende PAB.".
+
 ## Afdeling 2. Wijzigingen van het besluit van de Vlaamse Regering van 11 december 2015 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering
 
 ### ART 3.
