@@ -266,7 +266,7 @@ Budgethouders die starten met het PAB kunnen aanspraak maken op bijstand bij de 
 
 ### ART 13/2.
 
-Iedere budgethouder ontvangt van het agentschap een bedrag van 50 euro boven op het toegekende PAB.<br>
+Iedere budgethouder ontvangt van het agentschap vanaf het tweede jaar van de toekenning van het PAB een bedrag van 50 euro bovenop het toegekende PAB.<br>
 <br>
 De budgethouder kan het bedrag van 50 euro, vermeld in het eerste lid, aanwenden voor het betalen van het lidgeld van de bijstandsorganisatie.<br>
 <br>

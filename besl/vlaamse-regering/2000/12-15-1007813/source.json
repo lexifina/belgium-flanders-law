@@ -2,16 +2,16 @@
   "codex_id": 1007813,
   "title": "Besluit van de Vlaamse Regering van 2000-12-15 houdende vaststelling van de voorwaarden van toekenning van een [persoonlijke-assistentiebudget] aan personen met een handicap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007813/VolledigDocument?datum=2021-05-01",
-  "source_sha256": "b125fa59242dadb8f3f7d3de600ecddf28c48dd7beacece90f2a6a5bd1e2dd9e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007813/VolledigDocument?datum=2021-09-04",
+  "source_sha256": "0f7e59a6c22255a616788fdeb4218ec5f7c88659ce82b5bfb192c45e4e0d5b2a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007813&param=informatie",
-  "as_of": "2021-05-01",
+  "as_of": "2021-09-04",
   "made": "2000-12-15",
   "gazette": "2001-01-30",
   "numac": 2001035050,
   "document_start": "2001-01-01",
   "document_end": null,
-  "in_force": "2021-05-01",
+  "in_force": "2021-09-04",
   "article_versions": 35,
-  "record_form": "consolidated version as in force on 2021-05-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-09-04; future article versions excluded; article text as the API gives it"
 }
