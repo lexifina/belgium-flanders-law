@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036007,
+  "title": "Besluit van de Vlaamse Regering van 2021-07-16 tot wijziging van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de subsidiëring van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer, wat betreft inrichtingen en aankopen in het kader van natte natuur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036007/VolledigDocument?datum=2021-09-05",
+  "source_sha256": "7d38ce35fc493d5bf5de9d0ed6e03b724b8ced65faa554f905d29d3d2ff869f5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036007&param=informatie",
+  "as_of": "2021-09-05",
+  "made": "2021-07-16",
+  "gazette": "2021-08-26",
+  "numac": 2021032414,
+  "document_start": "2021-09-05",
+  "document_end": null,
+  "in_force": "2021-09-05",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2021-09-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
