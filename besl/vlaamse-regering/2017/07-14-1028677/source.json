@@ -2,16 +2,16 @@
   "codex_id": 1028677,
   "title": "Besluit van de Vlaamse Regering van 2017-07-14 betreffende de subsidiëring van de planning, de ontwikkeling en de uitvoering van het geïntegreerd natuurbeheer",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028677/VolledigDocument?datum=2020-11-01",
-  "source_sha256": "d76b9dc4d15d79f29c3329571316351afe977ffe1cc98f782dae3f3816fa7086",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028677/VolledigDocument?datum=2021-09-05",
+  "source_sha256": "37e7850f36ae8b93c776ab5b28433a55f24f101a88b83372e7cfa45af68f676d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028677&param=informatie",
-  "as_of": "2020-11-01",
+  "as_of": "2021-09-05",
   "made": "2017-07-14",
   "gazette": "2017-10-18",
   "numac": 2017031243,
   "document_start": "2017-10-28",
   "document_end": null,
-  "in_force": "2020-11-01",
+  "in_force": "2021-09-05",
   "article_versions": 65,
-  "record_form": "consolidated version as in force on 2020-11-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-09-05; future article versions excluded; article text as the API gives it"
 }

@@ -46,7 +46,8 @@ d) in voorkomend geval elektronische communicatie via een elektronisch loket van
 14° projectsubsidie natuur: een projectsubsidie voor de uitvoering van eenmalige of in de tijd beperkte maatregelen die erop gericht zijn een hogere natuurkwaliteit te ontwikkelen of het natuurlijk milieu te verbeteren om een natuurstreefbeeld te behalen als vermeld in bijlage 3 en 4 bij het besluit van 14 juli 2017;<br>
 15° restfinancieringssubsidie: een aanvullende subsidie op de subsidie die toegekend is in het kader van het LIFE-programma, subprogramma Natuur en Biodiversiteit, ter uitvoering van verordening nr. 1293/2013 van het Europees Parlement en de Raad van 11 december 2013 inzake de vaststelling van een programma voor het milieu en klimaatactie (LIFE) en tot intrekking van verordening (EG) nr. 614/2007;<br>
 16° resultaatindicator: een indicator die aangeeft of het beheer leidt tot de realisatie van het beoogde natuurstreefbeeld;<br>
-17° terrein: een privé- of openbaar terrein dat wordt beheerd of zal worden beheerd voor het natuurbehoud of als bos.
+17° terrein: een privé- of openbaar terrein dat wordt beheerd of zal worden beheerd voor het natuurbehoud of als bos.<br>
+18° natte natuur: natuur die verbonden is aan aquatische ecosystemen en aan rechtstreeks van waterlichamen afhankelijke terrestrische ecosystemen en permanent of tijdelijk verzadigd is door oppervlakte- of grondwater.
 
 ## TITEL 2. Subsidiëring van het natuurbeheer
 
@@ -119,6 +120,7 @@ Er wordt één schuldvordering ingediend voor het totaalbedrag van alle subsidie
 3° het nummer van de rekening waarop de subsidies kunnen worden overgeschreven;<br>
 4° in voorkomend geval de engagementsverklaring van de begunstigde van de subsidies dat hij de verbintenisvoorwaarden om de subsidies te verkrijgen, onderschrijft;<br>
 5° in voorkomend geval de gegevens over andere verkregen subsidies als vermeld in artikel 3, § 2, tweede lid.<br>
+6° in voorkomend geval een attest met een officiële bevestiging dat de btw op de kosten van deze subsidieaanvraag niet recupereerbaar zijn.<br>
 <br>
 Voor de schuldvordering wordt gebruikgemaakt van de formulieren, waarvan het model ter beschikking wordt gesteld op de website van het agentschap.<br>
 <br>
@@ -146,6 +148,7 @@ In geval van een gezamenlijk natuurbeheerplan wordt de subsidie aangevraagd door
 4° een beknopte verantwoording dat aan de voorwaarden is voldaan om de aangevraagde subsidie te verkrijgen;<br>
 5° in voorkomend geval een engagementsverklaring dat de aanvrager de verbintenisvoorwaarden om de subsidies te verkrijgen, onderschrijft;<br>
 6° in voorkomend geval de gegevens over andere verkregen subsidies als vermeld in artikel 3, § 2, tweede lid.<br>
+7° in voorkomend geval een attest met een officiële bevestiging dat de btw op de kosten van deze subsidieaanvraag niet recupereerbaar zijn.<br>
 <br>
 Voor de aanvraag van de subsidie wordt gebruikgemaakt van de formulieren, waarvan het model ter beschikking wordt gesteld op de website van het agentschap.<br>
 <br>
@@ -1083,7 +1086,7 @@ Om een projectsubsidie te verkrijgen, verbindt de aanvrager zich ertoe:<br>
 
 ### ART 24.
 
-De berekeningsbasis van de projectsubsidie zijn de totale en aangetoonde kosten van het werk waarvoor de projectsubsidie wordt aangevraagd, verminderd met de eventuele inkomsten van de uitvoering van het gesubsidieerde werk, behoudens de inkomsten ten gevolge van de verkoop van het gekapt hout. Maximaal 10% van die kosten, tot maximaal 5000 euro, inclusief btw, kan worden ingezet voor de voorbereiding en begeleiding van werken.<br>
+De berekeningsbasis van de projectsubsidie zijn de totale en aangetoonde kosten van het werk waarvoor de projectsubsidie wordt aangevraagd, verminderd met de eventuele inkomsten van de uitvoering van het gesubsidieerde werk, behoudens de inkomsten ten gevolge van de verkoop van het gekapt hout.&nbsp;Maximaal 10 % van die kosten, tot maximaal 35.000 euro, inclusief btw, kan worden ingezet voor de voorbereiding en begeleiding van werken, inclusief studies die niet wettelijk verplicht zijn.<br>
 <br>
 Om subsidiabel te zijn, bedragen de totale en aangetoonde kosten van het werk of de werken ten minste 3000 euro, inclusief btw.<br>
 <br>
@@ -1282,7 +1285,11 @@ Binnen de perken van het budget wordt het bedrag van de aankoopsubsidie voor ied
 8° 20 % van het aankoopbedrag, inclusief alle kosten, voor de schijf groter dan 40.000 euro en kleiner dan of gelijk aan 45.000 euro per hectare;<br>
 9° 10 % van het aankoopbedrag, inclusief alle kosten, voor de schijf groter dan 45.000 euro en kleiner dan of gelijk aan 50.000 euro per hectare.<br>
 <br>
-Als het terrein dat verworven wordt, bebost zal worden, bedraagt de aankoopsubsidie altijd 90 % van het aankoopbedrag, inclusief alle kosten, met een maximum subsidiebedrag van 5 euro/m<sup>2</sup>.<br>
+Als het terrein dat verworven wordt, bebost zal worden, bedraagt de aankoopsubsidie altijd 90 % van het aankoopbedrag, inclusief alle kosten, met een maximaal subsidiebedrag van 5 euro per vierkante meter. Die aankoopsubsidie kan aangevraagd worden tot en met 31 december 2024.<br>
+<br>
+Als het terrein dat verworven is, bestemd is om natte natuur te realiseren en als dat terrein op percelen als vermeld in artikel 37, 3° ligt of op percelen gelegen in ruimtelijk kwetsbaar gebied als vermeld in artikel 1.1.2, 10° Vlaamse Codex Ruimtelijke Ordening ligt, bedraagt de aankoopsubsidie altijd 90 % van het aankoopbedrag, inclusief alle kosten, met een maximaal subsidiebedrag van 5 euro per vierkante meter. Die aankoopsubsidie kan aangevraagd worden tot en met 30 november 2022.<br>
+<br>
+Gronden voor natte natuur als vermeld in het derde lid, zijn gronden die verbonden zijn aan aquatische ecosystemen en aan rechtstreeks van waterlichamen afhankelijke terrestrische ecosystemen en permanent of tijdelijk verzadigd zijn door oppervlakte- of grondwater.<br>
 <br>
 Als het terreinen betreft die binnen een projectgebied liggen waarvoor restfinancieringssubsidies worden verkregen, komt alleen het gedeelte van de aankoopprijs, inclusief alle kosten, dat niet gedekt is door de Europese subsidiëring die wordt verleend voor de aankoop van dat terrein, in aanmerking voor subsidiëring als vermeld in dit besluit. Op dat gedeelte van de aankoopprijs, inclusief alle kosten, wordt in afwijking van het eerste lid een percentage van 100 % toegepast.<br>
 <br>
