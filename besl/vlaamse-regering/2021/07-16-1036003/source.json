@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036003,
+  "title": "Besluit van de Vlaamse Regering van 2021-07-16 houdende delegatie aan de Vlaamse minister bevoegd voor de justitiehuizen voor de subsidiëring op basis van het koninklijk besluit van 17 december 2003 betreffende de subsidiëring van instellingen die voorzien in een gespecialiseerde begeleiding voor burgers die betrokken zijn in een gerechtelijke procedure",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036003/VolledigDocument?datum=2021-09-05",
+  "source_sha256": "7582f668f940686ad9f45b77f618546a5498df06856571440b9a5b0036292fad",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036003&param=informatie",
+  "as_of": "2021-09-05",
+  "made": "2021-07-16",
+  "gazette": "2021-08-26",
+  "numac": 2021021688,
+  "document_start": "2021-09-05",
+  "document_end": null,
+  "in_force": "2021-09-05",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-09-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
