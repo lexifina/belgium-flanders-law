@@ -18,7 +18,7 @@ De volgende personen worden aangeduid als plaatsvervangende leden van de beheers
 3° een afgevaardigde van de Vlaamse Landmaatschappij: mevrouw Annita Stevens;<br>
 4° een vertegenwoordiger van de Vlaamse minister, bevoegd voor de financiën en de begrotingen: de heer Peter Vandermeersch;<br>
 5° een vertegenwoordiger van de Vlaamse minister, bevoegd voor de digitalisering: mevrouw Karolien Van Dorpe;<br>
-6° een vertegenwoordiger van de beheerders van een netwerk van water, elektriciteit, gas, telecommunicatie, teledistributie en rioleringen in Vlaanderen: de heer Filip Broekaert.
+6° een vertegenwoordiger van de beheerders van een netwerk van water, elektriciteit, gas, telecommunicatie, teledistributie en rioleringen in Vlaanderen: de heer Henk Coppé.
 
 ### ART 3.
 
