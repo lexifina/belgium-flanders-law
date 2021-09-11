@@ -54,7 +54,7 @@ Alle steun die toegekend wordt met toepassing van dit besluit en de uitvoeringsb
 
 ### ART 3.
 
-De steunaanvrager mag geen onderneming in moeilijkheden zijn als vermeld in artikel 2, 18, van de algemene groepsvrijstellingsverordening, en geen procedure op basis van Europees recht als vermeld in artikel 1, lid 4, van de voormelde verordening, of nationaal recht hebben lopen waarbij een toegekende steun wordt teruggevorderd.<br>
+Op de indieningsdatum van de steunaanvraag mag de steunaanvrager geen onderneming in moeilijkheden zijn als vermeld in artikel 2, 18, van de algemene groepsvrijstellingsverordening, en geen procedure op basis van Europees recht als vermeld in artikel 1, lid 4, van de voormelde verordening, of nationaal recht hebben lopen waarbij een toegekende steun wordt teruggevorderd.<br>
 <br>
 Er kan geen steun worden toegekend met toepassing van dit besluit voor werkzaamheden die verband houden met de uitvoer naar derde landen of voor werkzaamheden die afhangen van het gebruik van binnenlandse goederen als vermeld in artikel 1, lid 2, van de voormelde verordening.<br>
 <br>
