@@ -2,16 +2,16 @@
   "codex_id": 1035346,
   "title": "Besluit van de Vlaamse Regering van 2021-02-26 tot wijziging van besluiten over de ecologiepremie, de strategische ecologie-investeringen, de strategische transformatiesteun, de Screen Flanders, ecologisch en veilig transport, de kmo-portefeuille/groeisubsidie, de compensatie indirecte emissiekosten, het ondernemerschap, de bedrijventerreinen, bedrijvencentra/doorgangsgebouwen en EFRO, wat betreft de aanpassingen aan de nieuwe vennootschapswetgeving en de voorwaarden voor ondernemingen in moeilijkheden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035346/VolledigDocument?datum=2021-03-01",
-  "source_sha256": "0ddf2511ba4d3594399c14e35ea038c8bccfb25276178fd25c93371bfaf6f594",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035346/VolledigDocument?datum=2021-09-11",
+  "source_sha256": "e99bcbe4ec3f2a1d81a36221c21d0566e9bfb66825719826bd57a58395635d89",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035346&param=informatie",
-  "as_of": "2021-03-01",
+  "as_of": "2021-09-11",
   "made": "2021-02-26",
   "gazette": "2021-03-24",
   "numac": 2021030565,
   "document_start": "2021-03-01",
   "document_end": null,
-  "in_force": "2021-03-01",
-  "article_versions": 25,
-  "record_form": "consolidated version as in force on 2021-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-09-11",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2021-09-11; future article versions excluded; article text as the API gives it"
 }

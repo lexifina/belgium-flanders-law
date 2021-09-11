@@ -152,6 +152,10 @@ In artikel 5, eerste lid, van hetzelfde besluit wordt tussen de woorden "van het
 
 ## HOOFDSTUK 10. Wijzigingen van het besluit van de Vlaamse Regering van 8 december 2017 tot toekenning van steun aan audiovisuele werken van het type lange fictie-, documentaire of animatiefilm, of animatiereeksen (aangehaald als het besluit Screen Flanders)
 
+### ART 19.
+
+In artikel 3, eerste lid, van het besluit van de Vlaamse Regering van 8 december 2017 tot toekenning van steun aan audiovisuele werken van het type lange fictie-, documentaire of animatiefilm, of animatiereeksen (aangehaald als het besluit Screen Flanders) worden de woorden "De steunaanvrager mag" vervangen door woorden "Op de indieningsdatum van de steunaanvraag mag de steunaanvrager".
+
 ### ART 20.
 
 Artikel 5 van hetzelfde besluit wordt vervangen door wat volgt:<br>
