@@ -165,7 +165,9 @@ De ondernemerschapsbevorderende diensten worden aan de kleine of middelgrote ond
 
 ### ART. 30.
 
-&nbsp;Ter uitvoering van artikel 25 van het   besluit van 26 februari 2016, wordt elk kalenderjaar het toepasselijke   subsidiepercentage, vermeld in artikel 18 van het voormelde besluit, en het   toepasselijke maximale subsidiebedrag, vermeld in artikel 19 van het voormelde   besluit, vastgesteld voor dat kalenderjaar op grond van de grootte van de   onderneming bij de eerste volledig ingediende subsidieaanvraag van het   kalenderjaar.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+Ter uitvoering van artikel 25 van het besluit van 26 februari 2016, wordt elk kalenderjaar het toepasselijke subsidiepercentage, vermeld in artikel 18, eerste lid, van het voormelde besluit, en het toepasselijke maximale subsidiebedrag, vermeld in artikel 19 van het voormelde besluit, vastgesteld voor dat kalenderjaar op grond van de grootte van de onderneming bij de eerste volledig ingediende subsidieaanvraag van het kalenderjaar.<br>
+<br>
+Het subsidiepercentage, vermeld in artikel 18, tweede lid, van het voormelde besluit, wordt toegepast als de kleine of middelgrote onderneming in de subsidieaanvraag aangeeft dat de ondernemerschapsbevorderende dienst betrekking heeft op cybersecurity.
 
 ### ART. 31.
 

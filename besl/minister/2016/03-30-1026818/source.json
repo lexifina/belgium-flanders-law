@@ -2,16 +2,16 @@
   "codex_id": 1026818,
   "title": "Ministerieel besluit van 2016-03-30 tot uitvoering van het besluit van de Vlaamse Regering van 26 februari 2016 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten en kmo-groeitrajecten, wat betreft de steun voor ondernemerschapsbevorderende diensten",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026818/VolledigDocument?datum=2021-06-28",
-  "source_sha256": "0415e8f7eb99f2ac7e212106667a7e8caed93acb10c112fcca0b39f40b1d04e1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026818/VolledigDocument?datum=2021-09-13",
+  "source_sha256": "f959457230c14dd2f51468ea7a74d186fa3fde9e9e16f6d346d9734d02eecd18",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026818&param=informatie",
-  "as_of": "2021-06-28",
+  "as_of": "2021-09-13",
   "made": "2016-03-30",
   "gazette": "2016-05-18",
   "numac": 2016035752,
   "document_start": "2016-04-01",
   "document_end": null,
-  "in_force": "2021-06-28",
+  "in_force": "2021-09-13",
   "article_versions": 48,
-  "record_form": "consolidated version as in force on 2021-06-28; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-09-13; future article versions excluded; article text as the API gives it"
 }
