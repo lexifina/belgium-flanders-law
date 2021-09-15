@@ -2,7 +2,17 @@
 
 ## HOOFDSTUK 1. Algemene bepaling
 
+### ART 1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid.
+
 ## HOOFDSTUK 2. Wijzigingen van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid
+
+### ART 2.
+
+Aan artikel 34/1, eerste lid, van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid, ingevoegd bij het decreet van 18 decem- ber 2020, worden een punt 4° en een punt 5° toegevoegd, die luiden als volgt:<br>
+"4° het telefoonnummer;<br>
+5° de reden voor de tijdelijke afzondering.".
 
 ## HOOFDSTUK 3. Wijzigingen van het decreet van 29 mei 2020 tot organisatie van het centrale contactonderzoek door een samenwerkingsverband van externe partners, het lokale contactonderzoek door lokale besturen of zorgraden en tot organisatie van de COVID-19-teams in het kader van COVID-19
 
@@ -128,3 +138,7 @@ De Vlaamse Regering wijst een entiteit aan die optreedt als verwerkingsverantwoo
 De persoonsgegevens, vermeld in het derde en vierde lid, worden door het lokale bestuur of het bestuur van het openbaar centrum voor maatschappelijk welzijn bewaard gedurende een termijn van maximaal dertig dagen, met uitzondering van persoonsgegevens van personen als vermeld in het eerste lid, bij wie de quarantainecoaching, vermeld in het tweede lid, 1° tot en met 7°, langer dan dertig dagen duurt. In het laatste geval worden de persoonsgegevens bewaard tot maximaal drie dagen na het einde van die ondersteuning.".
 
 ## HOOFDSTUK 4. Inwerkingtreding
+
+### ART 7.
+
+De Vlaamse Regering bepaalt voor iedere bepaling van dit decreet de datum van de inwerkingtreding.
