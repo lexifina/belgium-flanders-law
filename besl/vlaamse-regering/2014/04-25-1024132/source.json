@@ -2,16 +2,16 @@
   "codex_id": 1024132,
   "title": "Besluit van de Vlaamse Regering van 2014-04-25 tot vaststelling van de statuten van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Luchthavenontwikkelingsmaatschappij Antwerpen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024132/VolledigDocument?datum=2014-06-06",
-  "source_sha256": "8ba34583bf4de62049b054d3654a3f692a0fafca681dc422a7fb5eebb3d229e4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024132/VolledigDocument?datum=2021-09-15",
+  "source_sha256": "8c754956039bde7c09d81ea94a244bf9d4b87f08babfafb7eee98e0cc2b3fbfc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024132&param=informatie",
-  "as_of": "2014-06-06",
+  "as_of": "2021-09-15",
   "made": "2014-04-25",
   "gazette": "2014-06-06",
   "numac": 2014035551,
   "document_start": "2014-06-06",
   "document_end": "2021-09-14",
-  "in_force": "2014-06-06",
+  "in_force": "2021-09-15",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2014-06-06; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-09-15; future article versions excluded; article text as the API gives it"
 }
