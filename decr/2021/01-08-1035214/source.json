@@ -2,16 +2,16 @@
   "codex_id": 1035214,
   "title": "Decreet van 2021-01-08 tot wijziging van het decreet van 10 juli 2008 betreffende het beheer en de uitbating van de regionale luchthavens Oostende-Brugge, Kortrijk-Wevelgem en Antwerpen, wat betreft de fusie van de LOM Antwerpen en de LOM Oostende-Brugge",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035214/VolledigDocument?datum=2021-02-17",
-  "source_sha256": "c72e04c08c571518dfefdf8dfdafb40c5a2b113287de61e8ccf93935e4fc0d54",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035214/VolledigDocument?datum=2021-09-15",
+  "source_sha256": "3050c7f26d77ef36f276ce71e03bba526c25ab23ba44b5c236439c47f8399eaf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035214&param=informatie",
-  "as_of": "2021-02-17",
+  "as_of": "2021-09-15",
   "made": "2021-01-08",
   "gazette": "2021-02-16",
   "numac": 2021040323,
   "document_start": "2021-09-15",
   "document_end": null,
-  "in_force": "2021-02-17",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2021-02-17; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-09-15",
+  "article_versions": 53,
+  "record_form": "consolidated version as in force on 2021-09-15; future article versions excluded; article text as the API gives it"
 }
