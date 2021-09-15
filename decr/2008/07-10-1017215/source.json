@@ -2,16 +2,16 @@
   "codex_id": 1017215,
   "title": "Decreet van 2008-07-10 betreffende het beheer en de uitbating van de regionale luchthavens [Oostende-Brugge, Kortrijk-Wevelgem en Antwerpen (verv. decr. 8 mei 2009, art. 2)]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017215/VolledigDocument?datum=2021-02-17",
-  "source_sha256": "8fcff10be135fc9e3d9e7486f4ebd698e6d807b7ad4175f784e3b95899a20093",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017215/VolledigDocument?datum=2021-09-15",
+  "source_sha256": "3d9e93ce62b0cdc1a2951522c0f5d79a045b5795443620d69ae86c41c58ff879",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017215&param=informatie",
-  "as_of": "2021-02-17",
+  "as_of": "2021-09-15",
   "made": "2008-07-10",
   "gazette": "2008-10-22",
   "numac": 2008203684,
   "document_start": null,
   "document_end": null,
-  "in_force": "2021-02-17",
+  "in_force": "2021-09-15",
   "article_versions": 105,
-  "record_form": "consolidated version as in force on 2021-02-17; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-09-15; future article versions excluded; article text as the API gives it"
 }
