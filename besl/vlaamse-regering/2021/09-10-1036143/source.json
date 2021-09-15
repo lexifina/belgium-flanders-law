@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036143,
+  "title": "Besluit van de Vlaamse Regering van 2021-09-10 tot goedkeuring van het beoordelingskader hbo5 voor de opleiding Verpleegkunde van het hoger beroepsonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036143/VolledigDocument?datum=2021-09-15",
+  "source_sha256": "29d968ba75773d971630582bf3c4c5333da2ddc895b6fb6d6739e5e0a3f2a8c3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036143&param=informatie",
+  "as_of": "2021-09-15",
+  "made": "2021-09-10",
+  "gazette": "2021-10-14",
+  "numac": 2021033305,
+  "document_start": "2021-09-15",
+  "document_end": null,
+  "in_force": "2021-09-15",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-09-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
