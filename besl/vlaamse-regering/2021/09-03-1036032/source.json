@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036032,
+  "title": "Besluit van de Vlaamse Regering van 2021-09-03 tot vaststelling van de regels voor de toekenning van steun aan ondernemingen om materiaalkringlopen te sluiten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036032/VolledigDocument?datum=2021-09-19",
+  "source_sha256": "5615e5dd1ff72b9efd63fb2ab7d44a4a6b1ebdda5a510733ae387873331354d7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036032&param=informatie",
+  "as_of": "2021-09-19",
+  "made": "2021-09-03",
+  "gazette": "2021-09-09",
+  "numac": 2021042819,
+  "document_start": "2021-09-19",
+  "document_end": null,
+  "in_force": "2021-09-19",
+  "article_versions": 35,
+  "record_form": "consolidated version as in force on 2021-09-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
