@@ -3646,7 +3646,7 @@ In afwijking van artikel 2.7.4.1.1 bedraagt het tarief van de erfbelasting 0 % v
 4° een staat in de Europese Economische Ruimte;<br>
 5° de provincies en gemeenten in het Vlaamse Gewest;<br>
 6° de openbare instellingen van de publiekrechtelijke rechtspersonen, vermeld in punt 1° tot en met 5° ;<br>
-7° erkende sociale huisvestingsmaatschappijen als vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021;<br>
+7° erkende woonmaatschappijen als vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021;<br>
 8° het Vlaams Woningfonds;<br>
 9° dienstverlenende en opdrachthoudende verenigingen als vermeld in artikel 12, § 2, 2° en 3°, van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking;<br>
 10° verenigingen zonder winstoogmerk, ziekenfondsen en landsbonden van ziekenfondsen, internationale verenigingen zonder winstoogmerk en stichtingen van openbaar nut;<br>
@@ -4030,7 +4030,7 @@ Dat tarief is niet van toepassing op de schenkingen onder de levenden van roeren
 4° een staat van de Europese Economische Ruimte;<br>
 5° provincies en gemeenten in het Vlaamse Gewest;<br>
 6° de openbare instellingen van de publiekrechtelijke rechtspersonen, vermeld in de punt 1° tot en met 5° ;<br>
-7° erkende sociale huisvestingsmaatschappijen als vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021;<br>
+7° erkende woonmaatschappijen als vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021;<br>
 8° het Vlaams Woningfonds;<br>
 9° dienstverlenende en opdrachthoudende verenigingen als vermeld in artikel 12, § 2, 2° en 3°, van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking;<br>
 10° verenigingen zonder winstoogmerk, ziekenfondsen en landsbonden van ziekenfondsen, internationale verenigingen zonder winstoogmerk en stichtingen van openbaar nut;<br>
@@ -4465,9 +4465,9 @@ Als een akte of geschrift, overeengekomen tussen dezelfde partijen,   verschille
 
 ### ART. 2.9.4.2.3.
 
-In afwijking van artikel 2.9.4.1.1 bedraagt het verkooprecht 1,50 % voor verkoopovereenkomsten van woningen die gesloten zijn door de Vlaamse Maatschappij voor Sociaal Wonen of door de erkende sociale huisvestingsmaatschappijen, vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021, en voor kopers die voldoen aan de voorwaarden, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 29 september 2006 betreffende de voorwaarden voor de overdracht van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale huisvestingmaatschappijen ter uitvoering van de Vlaamse Codex Wonen van 2021.<br>
+In afwijking van artikel 2.9.4.1.1 bedraagt het verkooprecht 1,50 % voor verkoopovereenkomsten van woningen die gesloten zijn door de Vlaamse Maatschappij voor Sociaal Wonen of door de erkende woonmaatschappijen, vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021, en voor kopers die voldoen aan de voorwaarden, opgelegd ter uitvoering van artikel 4.27, 4.45 en 5.91 van de Vlaamse Codex Wonen van 2021.<br>
 <br>
-Als na de aankoop blijkt dat de kopers niet meer voldoen aan de voorwaarden, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 29 september 2006 betreffende de voorwaarden voor de overdracht van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale huisvestingmaatschappijen ter uitvoering van de Vlaamse Codex Wonen van 2021, of aan de voorwaarden tot behoud of bewoning, opgelegd door de Vlaamse Maatschappij voor Sociaal Wonen of door de erkende sociale huisvestingsmaatschappijen, vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021, zijn ze het verkooprecht, vermeld in artikel 2.9.4.1.1, verschuldigd na aftrek van de reeds geheven belasting.<br>
+Als na de aankoop blijkt dat de kopers niet meer voldoen aan de voorwaarden, opgelegd ter uitvoering van artikel 4.27, 4.45 en 5.91 van de Vlaamse Codex Wonen van 2021", of aan de voorwaarden tot behoud of bewoning, opgelegd door de Vlaamse Maatschappij voor Sociaal Wonen of door de erkende woonmaatschappijen, vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021, zijn ze het verkooprecht, vermeld in artikel 2.9.4.1.1, verschuldigd na aftrek van de reeds geheven belasting.<br>
 <br>
 Het verlaagde tarief, vermeld in het eerste lid, is ook van toepassing op gelijksoortige rechtspersonen die opgericht zijn volgens en onderworpen zijn aan de wetgeving van een staat van de Europese Economische Ruimte, en die bovendien hun zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Europese Economische Ruimte hebben.
 
@@ -4586,7 +4586,7 @@ De koper die de voorwaarden, vermeld in het eerste lid, 1° of 2°, niet is nage
 ### ART 2.9.4.2.13.
 
 § 1. In afwijking van artikel 2.9.4.1.1 bedraagt het verkooprecht 7 % voor overeenkomsten houdende zuivere aankoop, waarbij door een of meer natuurlijke personen samen en gelijktijdig de geheelheid volle eigendom van een woning wordt verkregen als aan de volgende voorwaarden is voldaan:<br>
-1° de verkrijger verbindt zich ertoe om binnen een termijn van drie jaar vanaf de datum van de authentieke akte een huurovereenkomst met een minimumduur van 9 jaar voor het aangekochte goed af te sluiten met een erkend sociaal verhuurkantoor met toepassing van en in overeenstemming met de voorwaarden, vermeld in artikel 4.55, tweede en derde lid, van de Vlaamse Codex Wonen van 2021, en artikel 4.168 van het Besluit Vlaamse Codex Wonen van 2021;<br>
+1° de verkrijger verbindt zich ertoe om binnen een termijn van drie jaar vanaf de datum van de authentieke akte een huurovereenkomst met een minimumduur van 9 jaar voor het aangekochte goed af te sluiten met een erkende woonmaatschappij met toepassing van en conform de voorwaarden opgelegd ter uitvoering van artikel 4.40, 4°, van de Vlaamse Codex Wonen van 2021;<br>
 2° de verkrijger verbindt zich ertoe om binnen een termijn van drie jaar en zes maanden een kopie van de geregistreerde huurovereenkomst, vermeld in punt 1°, in te dienen bij de bevoegde entiteit van de Vlaamse administratie;<br>
 3° de verplichting, vermeld in artikel 3.12.3.0.1, § 1, is nageleefd.<br>
 <br>
@@ -4596,7 +4596,7 @@ De koper die de voorwaarden, vermeld in het eerste lid, 1° en 2°, niet is nage
 <br>
 § 3. Het tarief, vermeld in paragraaf 1, kan niet worden toegepast als voor de overdracht van het gebouw, of gedeelten van het gebouw de vrijstelling, vermeld in artikel 2.9.6.0.1, eerste lid, 4°, is genoten.<br>
 <br>
-§ 4. De verkrijgers melden de voortijdige beëindiging van de geregistreerde huurovereenkomst bij de bevoegde entiteit van de Vlaamse administratie binnen vier maanden vanaf de beëindiging. Bij een beëindiging hetzij in onderling overleg tussen het erkend sociaal verhuurkantoor en de verkrijgers, hetzij door toedoen van de verkrijgers, zijn er aanvullende rechten verschuldigd.
+§ 4. De verkrijgers melden de voortijdige beëindiging van de geregistreerde huurovereenkomst bij de bevoegde entiteit van de Vlaamse administratie binnen vier maanden vanaf de beëindiging. Bij een beëindiging hetzij in onderling overleg tussen de erkende woonmaatschappij en de verkrijgers, hetzij door toedoen van de verkrijgers, zijn er aanvullende rechten verschuldigd.
 
 ### ART 2.9.4.2.14.
 
