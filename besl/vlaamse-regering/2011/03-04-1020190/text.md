@@ -20,6 +20,10 @@ Voor de toepassing van dit besluit gelden bovendien de volgende vereisten voor e
 2° de aanvrager komt voor de kinderopvanglocatie in kwestie in aanmerking voor een subsidie voor inkomenstarief als vermeld in artikel 1, 17°, van het Subsidiebesluit van 22 november 2013;<br>
 3° de aanvrager bezorgt voor de kinderopvanglocatie in kwestie de subsidiebelofte of de subsidiebeslissing in het kader van het Subsidiebesluit van 22 november 2013 aan het Fonds.<br>
 <br>
+De vereisten, vermeld in het tweede lid, 2° en 3°, zijn in de volgende gevallen niet van toepassing op de betrokken kinderopvanglocaties:<br>
+1° de kinderopvanglocatie ligt in het tweetalige gebied Brussel-Hoofdstad en de aanvrager beschikt over kinderopvangplaatsen waarvoor hem in het kader van een capaciteitsuitbreiding een bijkomende gesubsidieerde contractueel is toegewezen op basis van een overeenkomst als vermeld in artikel 101bis van de programmawet van 30 december 1988. De aanvrager bezorgt voor de kinderopvanglocatie in kwestie de beslissing tot toewijzing van het contingent gesubsidieerde contractuelen aan het Fonds;<br>
+2° de kinderopvanglocatie ligt in het tweetalige gebied Brussel-Hoofdstad of de grootsteden Antwerpen of Gent en de aanvrager beschikt over kinderopvangplaatsen waarvoor hij een subsidie van het lokaal bestuur ontvangt conform artikel 112/1, § 2, van het Procedurebesluit van 9 mei 2014. De aanvrager bezorgt voor de kinderopvanglocatie in kwestie de beslissing tot toewijzing van de subsidie aan het Fonds.<br>
+<br>
 De investeringssubsidies voor kinderopvanglocaties worden toegekend met inachtneming van het besluit 2012/21/EU van de Commissie van 20 december 2011 betreffende de toepassing van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen.
 
 ## HOOFDSTUK 2 Bouwtechnische en bouwfysische normen
