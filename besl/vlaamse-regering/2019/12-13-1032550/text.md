@@ -64,7 +64,7 @@ De algemene bouwtechnische en bouwfysische normen waaraan de infrastructuur van 
 
 ### ART 3.
 
-De infrastructuur van een centrum voor dagopvang moet voldoen aan de specifieke bouwtechnische en bouwfysische normen, vermeld in artikel 47 van bijlage 2 bij het besluit van 28 juni 2019, om voor een investeringssubsidie in aanmerking te komen.
+De infrastructuur van een centrum voor dagopvang moet voldoen aan de specifieke bouwtechnische en bouwfysische normen, vermeld in artikel 46 van bijlage 2 bij het besluit van 28 juni 2019, om voor een investeringssubsidie in aanmerking te komen.
 
 ### ART 4.
 
@@ -82,7 +82,7 @@ De infrastructuur van een centrum voor kortverblijf type 2 moet voldoen aan de s
 De infrastructuur van een lokaal dienstencentrum moet voldoen aan de normen, vermeld in artikel 18 en 19 van bijlage 1 bij het besluit van 28 juni 2019, en aan de volgende bijkomende specifieke bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen:<br>
 1° er is ten minste op één locatie een bijkomende activiteitenruimte van 60 m<sup>2</sup>;<br>
 2° het akoestisch comfort is gegarandeerd;<br>
-3° de ontvangstruimte en de activiteitenruimte zijn opdeelbaar afhankelijk van de behoeften;<br>
+3° de&nbsp;ontmoetingsruimte&nbsp;en de activiteitenruimte zijn opdeelbaar afhankelijk van de behoeften;<br>
 4° als de waarschuwingsfase van het Vlaams Warmteactieplan wordt opgestart, wordt een geklimatiseerde ruimte beschikbaar gemaakt die voldoende groot is voor alle gebruikers. Deze geklimatiseerde ruimte moet minstens 60 m<sup>2</sup> zijn, conform de minimale oppervlakte van een activiteitenruimte;<br>
 5° in elke sanitaire cel is een vast oproepsysteem aanwezig;<br>
 6° in elke leefruimte of gebruikersruimte bedraagt het raamoppervlak ten minste 1/6 van het nettovloeroppervlak. In een leefruimte met een nettovloeroppervlakte van meer dan 30 m<sup>2</sup> bedraagt het raamoppervlak ten minste 1/7 van de nettovloeroppervlakte. Het glasoppervlak van het raam in elke leefruimte begint op maximaal 85 cm hoogte, gemeten vanaf het vloeroppervlak. Er is zittend altijd een ongehinderd zicht naar buiten mogelijk;<br>
