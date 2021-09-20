@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035657,
+  "title": "Decreet van 2021-05-21 tot het invoeren van uitdovende maatregelen voor studenten van de opleidingen van het hoger beroepsonderwijs aan de Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035657/VolledigDocument?datum=2021-09-20",
+  "source_sha256": "dc8013eab883794be47ca9805d1861e0b5c446c9958d27908ba020513eb09226",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035657&param=informatie",
+  "as_of": "2021-09-20",
+  "made": "2021-05-21",
+  "gazette": "2021-06-11",
+  "numac": 2021041995,
+  "document_start": "2021-09-20",
+  "document_end": null,
+  "in_force": "2021-09-20",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-09-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
