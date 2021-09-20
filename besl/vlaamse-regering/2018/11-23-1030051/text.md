@@ -118,7 +118,13 @@ Op verzoek van de aanvrager kan het Fonds bij een verbouwing een afwijking toest
 13° aangepaste zonnewering, waarbij het zicht naar buiten zo weinig mogelijk gehinderd wordt, wordt aangebracht waar dat nodig is. Zonnewering wordt als aangepast beschouwd als het zicht op de buitenwereld niet wordt verstoord, oververhitting van de bewoners wordt vermeden en verblinding van bewoners door direct zonlicht wordt vermeden;<br>
 14° het akoestische comfort wordt gegarandeerd in alle verblijfsruimten;<br>
 15° de minimale verdiepingshoogte is 2,50 meter (vloer tot afgewerkt plafond);<br>
-16° de signalisatie is aangepast aan de doelgroep.
+16° de signalisatie is aangepast aan de doelgroep.<br>
+<br>
+Voor de volgende monumenten of gebouwen kan het Fonds op verzoek van de aanvrager een afwijking toestaan van de norm, vermeld in het eerste lid, 7° :<br>
+1° een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+2° een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+3° een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed, vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+4° een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van het Brusselse Hoofdstedelijke Gewest overeenkomstig het Brussels Wetboek van Ruimtelijke Ordening.
 
 ## Afdeling 3. Specifieke bouwtechnische en bouwfysische normen voor de internaten voor minderjarigen, [... (opgeh. BVR 20 maart 2020, art. 42, I: 1 januari 2020)] de semi-internaten, de tehuizen van kort verblijf, de units voor geïnterneerden en de units voor observatie, diagnose en behandeling
 
@@ -156,7 +162,7 @@ Voor de specifieke ruimten van de infrastructuur gelden de volgende normen:<br>
 <br>
 De ruimte, vermeld in het eerste lid, 7°, moet bovendien beantwoorden aan al de volgende normen:<br>
 1° de ruimte bevindt zich op een plaats die vlot bereikbaar is, vlot toezicht mogelijk maakt en maximale privacy biedt;<br>
-2° de ruimte is goed toegankelijk en heeft een netto-oppervlakte van ten minste 9 m<sup>2</sup>&nbsp;en heeft bijbehorende sanitaire voorzieningen;<br>
+2° de ruimte is goed toegankelijk en heeft een netto-oppervlakte van ten minste 9 m<sup>2</sup>&nbsp;en heeft bijbehorende sanitaire voorzieningen, via een sas of in de onmiddellijke nabijheid van de afzonderingsruimte;<br>
 3° de ruimte is uitgerust met een adequaat toezicht- en oproepsysteem en een aangepaste tijdaanduiding;<br>
 4° er is natuurlijke lichtinval;<br>
 5° de afwerking en inrichting houden rekening met de veiligheid en het comfort van de gebruikers en het personeel;<br>
@@ -182,7 +188,13 @@ Op verzoek van de aanvrager kan het Fonds bij een verbouwing een afwijking toest
 Voor de buitenruimte van de infrastructuur gelden de volgende normen:<br>
 1° aan de leefruimte is er een gemeenschappelijke buitenruimte die drempelloos toegankelijk is;<br>
 2° per gebruiker is er een oppervlakte van 3 m<sup>2</sup>&nbsp;beschikbaar als buitenruimte voor gebruikers, bezoekers en personeel;<br>
-3° er is een beschutte fietsenstalling voor gebruikers, bezoekers en personeel beschikbaar.
+3° er is een beschutte fietsenstalling voor gebruikers, bezoekers en personeel beschikbaar.<br>
+<br>
+Op verzoek van de aanvrager kan het Fonds voor gebouwen die in het tweetalige gebied Brussel-Hoofstad liggen of in een van de centrumsteden, vermeld in artikel 19ter decies van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, de volgende afwijkingen toestaan:<br>
+1° een afwijking op het hebben van een gemeenschappelijke buitenruimte als vermeld in het eerste lid, 1° en 2° ;<br>
+2° een afwijking op het hebben van een beschutte fietsenstalling als vermeld in het eerste lid, 3°.<br>
+<br>
+Op verzoek van de aanvrager kan het Fonds toestaan dat de gemeenschappelijke buitenruimte niet aangrenzend is voor bestaande gebouwen waar stedenbouwkundige voorschriften of erfgoedvoorschriften een aangrenzende buitenruimte onmogelijk maken. Als het Fonds toestaat dat de gemeenschappelijke buitenruimte niet aangrenzend is, kan het Fonds ook een afwijking toestaan op de normen, vermeld in het eerste lid, 2° of 3°.
 
 ### ART 9.
 
@@ -211,7 +223,13 @@ Voor het gebruikerscomfort van de infrastructuur gelden al de volgende normen:<b
 13° aangepaste zonnewering, waarbij het zicht naar buiten zo weinig mogelijk gehinderd wordt, wordt aangebracht waar dat nodig is. Zonnewering wordt als aangepast beschouwd als het zicht op de buitenwereld niet wordt verstoord, oververhitting van de bewoners wordt vermeden en verblinding van bewoners door direct zonlicht wordt vermeden;<br>
 14° het akoestische comfort wordt gegarandeerd in alle verblijfsruimten;<br>
 15° de minimale verdiepingshoogte is 2,50 m (vloer tot afgewerkt plafond);<br>
-16° de signalisatie is aangepast aan de doelgroep.
+16° de signalisatie is aangepast aan de doelgroep.<br>
+<br>
+Voor de volgende monumenten of gebouwen kan het Fonds op verzoek van de aanvrager een afwijking toestaan van de norm, vermeld in het eerste lid, 7° :<br>
+1° een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+2° een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+3° een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed, vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+4° een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van het Brusselse Hoofdstedelijke Gewest overeenkomstig het Brussels Wetboek van Ruimtelijke Ordening.
 
 ### ART 11.
 
@@ -267,8 +285,8 @@ Op verzoek van de aanvrager kan het Fonds een afwijking toestaan van de normen, 
 1° de totale netto-oppervlakte van de verblijfsruimten bedraagt minimaal 30 m<sup>2</sup>&nbsp;per bewoner. Die oppervlakte omvat de kamer van de bewoner, inclusief de individuele sanitaire cel, de gemeenschappelijke zit- en eetruimten en de gemeenschappelijke sanitaire ruimten voor bewoners;<br>
 2° alle kamers zijn eenpersoonskamers, eventueel koppelbaar;<br>
 3° een eenpersoonskamer heeft een nettovloeroppervlakte van ten minste 12 m<sup>2</sup>, sanitair niet inbegrepen;<br>
-4° elke eenpersoonskamer beschikt over een aparte, ingerichte sanitaire cel, aangepast aan de behoeften van een rolstoelgebruiker met minstens een toilet of een douche, een wastafel en bijbehorende opbergruimte;<br>
-5° alle kamers zijn integraal toegankelijk, inclusief het individuele sanitair;<br>
+4° minstens 25% van de eenpersoonskamers beschikt over een aparte, ingerichte sanitaire cel, aangepast aan de behoeften van een rolstoelgebruiker met minstens een toilet of een douche, een wastafel met warm en koud stromend water en bijbehorende opbergruimte;<br>
+5° minstens 25% van alle kamers is integraal toegankelijk, inclusief het individuele sanitair;<br>
 6° de gebruiker kan de deur van de kamer afsluiten;<br>
 7° het sanitair in de kamers kan worden beveiligd als dat noodzakelijk is;<br>
 8° de inrichting van de kamer laat de nodige flexibiliteit toe om het meubilair te plaatsen, zolang de zorg- en dienstverlening en de veiligheid niet in het gedrang komen;<br>
@@ -276,35 +294,35 @@ Op verzoek van de aanvrager kan het Fonds een afwijking toestaan van de normen, 
 <br>
 Op verzoek van de aanvrager kan het Fonds bij een verbouwing een afwijking toestaan van de norm, vermeld in het eerste lid, 3°.<br>
 <br>
-Op verzoek van de aanvrager kan het Fonds een afwijking toestaan van de normen, vermeld in het eerste lid, 4° en 5°. Als een afwijking wordt toegestaan van het eerste lid, 5°, moet altijd minstens 25% van de kamers met het bijbehorende sanitair daaraan voldoen. Als een afwijking wordt toegestaan van het eerste lid, 4°, moet er altijd een mogelijkheid bestaan om een individuele wastafel met warm en koud water te installeren op de kamer.<br>
+Op verzoek van de aanvrager kan het Fonds een afwijking toestaan van de normen, vermeld in het eerste lid, 4° en 5°. Als een afwijking wordt toegestaan van de normen, vermeld in het eerste lid, 4°, bestaat er altijd een mogelijkheid om een individuele wastafel met warm of koud water te installeren op de kamer. De leidingen en de aansluitpunten zijn daarvoor voorzien. De kamers zijn aangepast aan de noden van de doelgroep.<br>
 <br>
 § 2. Voor de kamers en het sanitair van de infrastructuur van de units voor geïnterneerden en de units voor observatie, diagnose en behandeling gelden de volgende normen:<br>
 1° de totale netto-oppervlakte van de verblijfsruimten bedraagt minimaal 30 m<sup>2</sup>&nbsp;per bewoner. Die oppervlakte omvat de kamer van de bewoner, inclusief de individuele sanitaire cel, de gemeenschappelijke zit- en eetruimten en de gemeenschappelijke sanitaire ruimten voor bewoners;<br>
 2° de verblijfsruimten vormen een aaneensluitend geheel of zijn via binnenruimten bereikbaar;<br>
 3° alle kamers zijn eenpersoonskamers, eventueel koppelbaar;<br>
 4° een eenpersoonskamer heeft een nettovloeroppervlakte van ten minste 16 m<sup>2</sup>, sanitair niet inbegrepen;<br>
-5° elke eenpersoonskamer beschikt over een aparte, ingerichte sanitaire cel, aangepast aan de behoeften van een rolstoelgebruiker met minstens een toilet, een douche, een wastafel en bijbehorende opbergruimte;<br>
-6° alle kamers zijn integraal toegankelijk, inclusief het individuele sanitair;<br>
+5° minstens 25% van de eenpersoonskamers beschikt over een aparte, ingerichte sanitaire cel, aangepast aan de behoeften van een rolstoelgebruiker met minstens een toilet, een douche, een wastafel en bijbehorende opbergruimte;<br>
+6° minstens 25% van alle kamers is integraal toegankelijk, inclusief het individuele sanitair;<br>
 7° de gebruiker kan de deur van de kamer afsluiten;<br>
 8° het sanitair in de kamers kan worden beveiligd als dat noodzakelijk is;<br>
 9° de inrichting van de kamer laat de nodige flexibiliteit toe om het meubilair te plaatsen, zolang de zorg- en dienstverlening en de veiligheid niet in het gedrang komen.<br>
 <br>
-Op verzoek van de aanvrager kan het Fonds een afwijking toestaan van de voorwaarden, vermeld in het eerste lid, 4° en 5°.<br>
+Op verzoek van de aanvrager kan het Fonds een afwijking toestaan van de normen, vermeld in het eerste lid, 4°, 5° en 6°, met behoud van de toepassing van paragraaf 2, derde en vierde lid, en met de vereiste dat de kamers aangepast moeten zijn aan de noden van de doelgroep.<br>
 <br>
 Een kamer heeft altijd een nettovloeroppervlakte van ten minste 12 m<sup>2</sup>, sanitair niet inbegrepen.<br>
 <br>
-Er bestaat altijd een mogelijkheid om de kamer te voorzien van een individuele wastafel met warm en koud stromend water.
+Er bestaat altijd een mogelijkheid om de kamer te voorzien van een individuele wastafel met warm en koud stromend water.&nbsp;De leidingen en de aansluitpunten zijn daarvoor voorzien.
 
 ### ART 18.
 
 Voor het gemeenschappelijke sanitair van de infrastructuur gelden de volgende normen:<br>
-1° het sanitair is aangepast aan de behoeften van de doelgroep;<br>
+1° het sanitair is aangepast aan de behoeften van de doelgroep;&nbsp;In ieder geval is er minstens één rolstoeltoegankelijk toilet;<br>
 2° eventuele badruimten zijn oordeelkundig gesitueerd in de buurt van de kamers. De badruimten sluiten niet aan op de keuken;<br>
 3° in de nabijheid van de kamers en van de gemeenschappelijke zit- en eetruimten is voldoende sanitair. Dat omvat ten minste:<br>
 a) één bad of douche per vijf bewoners als er geen individuele douches zijn;<br>
-b) één gemeenschappelijke badkamer met bad, douche en toilet als er individuele douches zijn;<br>
+b) één gemeenschappelijke badkamer met bad en toilet als er individuele douches zijn;<br>
 c) één toilet met wastafel per vijf bewoners als er geen individuele toiletten met wastafel zijn en één toilet met wastafel per tien bewoners als er individuele toiletten met wastafel zijn;<br>
-d) één apart aangepast toilet met wastafel bij elke zit- en eetruimte;<br>
+d) één aangepast toilet met wastafel bij elke zit- en eetruimte;<br>
 e) voldoende sanitaire installaties voor bezoekers en personeel.
 
 ### ART 19.
@@ -322,7 +340,7 @@ Het Fonds kan op verzoek van de aanvrager een afwijking toestaan van de normen, 
 De infrastructuur van de semi-internaten moet voldoen aan de volgende specifieke bouwtechnische en bouwfysische normen voor de dagopvang of semiresidentiële opvang om voor een investeringssubsidie in aanmerking te komen:<br>
 1° er zijn voldoende leef- en rustruimten. Die ruimten kunnen gescheiden worden van de therapie- en activiteitenlokalen;<br>
 2° de netto-oppervlakte van de gemeenschappelijke ruimten bedraagt minimaal 15 m<sup>2</sup>&nbsp;per gebruiker. Die oppervlakte omvat de gemeenschappelijke leef- en rustruimten, de voor de gebruikers toegankelijke keuken, activiteiten- en therapielokalen en de gemeenschappelijke sanitaire ruimten;<br>
-3° het sanitair is aangepast aan de behoeften van de doelgroep;<br>
+3° het sanitair is aangepast aan de behoeften van de doelgroep;&nbsp;In ieder geval is er minstens één rolstoeltoegankelijk toilet;<br>
 4° eventuele badruimten zijn oordeelkundig gesitueerd. Ze sluiten niet aan op de keuken;<br>
 5° in of in de nabijheid van de gemeenschappelijke ruimten is er voldoende sanitair. Dat omvat ten minste:<br>
 a) één aangepast toilet met wastafel per vijf gebruikers;<br>
@@ -364,7 +382,7 @@ Van de maximale subsidiabele oppervlakte, vermeld in het eerste lid, kan alleen 
 ### ART 23.
 
 § 1. Het basisbedrag van de investeringssubsidie voor de nieuwbouw, uitrusting en meubilering inbegrepen, is vastgesteld op:<br>
-1° voor een revalidatiecentrum: 500 euro per m<sup>2</sup>;<br>
+1° voor een revalidatiecentrum: 550 euro per m<sup>2</sup>;<br>
 2° voor een internaat voor minderjarigen: 550 per m<sup>2</sup>;<br>
 3° voor een semi-internaat: 550 per m<sup>2</sup>;<br>
 4° voor een tehuis van kort verblijf: 550 per m<sup>2</sup>;<br>
@@ -383,7 +401,7 @@ De projectfase ruwbouw, vermeld in het eerste lid, omvat de gevelsluiting, boven
 ### ART 24.
 
 § 1. Het basisbedrag van de investeringssubsidie voor uitbreiding is vastgesteld op:<br>
-1° voor een revalidatiecentrum: 450 euro per m<sup>2</sup>;<br>
+1° voor een revalidatiecentrum: 500 euro per m<sup>2</sup>;<br>
 2° voor een internaat voor minderjarigen: 500 euro per m<sup>2</sup>;<br>
 3° voor een semi-internaat: 500 euro per m<sup>2</sup>;<br>
 4° voor een tehuis van kort verblijf: 500 euro per m<sup>2</sup>;<br>
