@@ -128,40 +128,13 @@ Het samenwerkingsakkoord tussen de Staat, de Vlaamse Gemeenschap en de Franse Ge
 
 ### ART. 24.
 
-Voor de toepassing van deze afdeling worden de hierna volgende begrippen gebruikt:<br>
-1° ...;<br>
-2° gebouw: elk bebouwd onroerend goed, dat zowel het hoofdgebouw als de bijgebouwen omvat, met uitzondering van de bebouwde onroerende goederen die vallen onder de toepassing van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten;<br>
-3° gewestelijk ambtenaar: de ambtenaar die met toepassing van de regels, vastgesteld door de Vlaamse Regering wordt aangewezen en die binnen zijn ambtsgebied belast is met opdrachten inzake kwaliteitsbewaking als vermeld in titel III van de Vlaamse Wooncode;<br>
-4° sociale woonorganisaties: de Vlaamse Maatschappij voor Sociaal Wonen, de erkende sociale huisvestingsmaatschappijen, vermeld in het decreet van 15 juli 1997 houdende de Vlaamse Wooncode en het Vlaams Woningfonds van de Grote Gezinnen;<br>
-5° woning: elk onroerend goed of deel ervan dat hoofdzakelijk bestemd is voor de huisvesting van een gezin of alleenstaande;<br>
-6° ...;<br>
-7° Vlaamse Wooncode: het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
-8° ...;<br>
-9° houder van het zakelijk recht: de persoon, vermeld in artikel 2.5.2.0.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013.
+...
 
 ## ONDERAFDELING 2 [... (opgeh. Decr. 9 juli 2021, art. 198, I: 20 september 2021)]
 
 ### ART. 25.
 
-<p>§ 1. Gemeenten kunnen een register van verwaarloosde gebouwen en woningen bijhouden. Een gemeentelijke verordening kan nadere materiële en procedurele regelen bepalen.<br>
-<br>
-De opmaak, de opbouw, het beheer en de actualisering van het register van verwaarloosde gebouwen en woningen kunnen ook toevertrouwd worden aan een intergemeentelijke administratieve eenheid met rechtspersoonlijkheid of, met uitzondering van de beroepsprocedure, aan een intergemeentelijke administratieve eenheid zonder rechtspersoonlijkheid.<br>
-<br>
-§ 2. Een gebouw, ongeacht of het dienst doet als woning, wordt beschouwd als verwaarloosd, wanneer het ernstige zichtbare en storende gebreken of tekenen van verval vertoont aan buitenmuren, voegwerk, schoorstenen, dakbedekking, dakgebinte, buitenschrijnwerk, kroonlijst of dakgoten.<br>
-<br>
-§ 3. Een gebouw of een woning wordt geschrapt uit het register van verwaarloosde gebouwen en woningen als de houder van het zakelijk recht bewijst dat de zichtbare en storende gebreken en de tekenen van verval, vermeld in paragraaf 2, werden hersteld of verwijderd.<br>
-<br>
-De zichtbare en storende gebreken en de tekenen van verval, vermeld in het eerste lid, zijn in geval van sloop pas verwijderd als alle puin geruimd is.<br>
-<br>
-§ 4. Een gebouw dat of een woning die in aanmerking komt voor inventarisatie in de zin van hoofdstuk II van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten, wordt nooit als een verwaarloosd gebouw of als een verwaarloosde woning beschouwd.<br>
-<br>
-De bedrijfsruimten die op grond van artikel 2, 1°, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten worden uitgesloten van de toepassing van voormeld decreet, worden onder de aldaar vermelde voorwaarden evenmin als verwaarloosde gebouwen of woningen in de zin van deze onderafdeling beschouwd.<br>
-<br>
-§ 5. Een gebouw dat of een woning die door de gemeente geïnventariseerd is als leegstaand, kan eveneens opgenomen worden in het register van verwaarloosde gebouwen en woningen, en omgekeerd.<br>
-<br>
-Woningen die door het Vlaamse Gewest geïnventariseerd zijn als ongeschikt of onbewoonbaar, kunnen eveneens worden opgenomen in het register van verwaarloosde gebouwen en woningen, en omgekeerd.<br>
-<br>
-§ 6. De door het college van burgemeester en schepenen of het beslissingsorgaan van de intergemeentelijke administratieve eenheid met de opsporing van verwaarloosde gebouwen en woningen belaste personeelsleden bezitten de onderzoeks-, controle- en vaststellingsbevoegdheden, vermeld in artikel 6 van het decreet van 30 mei 2008 betreffende de vestiging, de invordering en de geschillenprocedure van provincie- en gemeentebelastingen.</p>
+<p>...</p>
 
 ## ONDERAFDELING 3 [... (opgeh. Decr. 9 juli 2021, art. 198, I: 20 september 2021)]
 
