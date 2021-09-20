@@ -30,6 +30,11 @@ In dit besluit wordt verstaan onder:<br>
 7° Fonds: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, opgericht bij het decreet van 2 juni 2006 tot omvorming van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden tot een intern verzelfstandigd agentschap met rechtspersoonlijkheid, en tot wijziging van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden;<br>
 8° functioneel bevoegde administratie: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, opgericht bij het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
 9° gebruiker: een persoon met een handicap of gebruiker van rechtstreeks toegankelijke zorg en ondersteuning;<br>
+9° /1. HACCP-normen: de normen waaraan moet worden voldaan in uitvoering van:<br>
+a) verordening (EG) nr. 852/2004 van het Europees Parlement en de Raad van 29 april 2004 inzake levensmiddelenhygiëne;<br>
+b) verordening (EG) nr. 178/2002 van het Europees Parlement en de Raad van 28 januari 2002 tot vaststelling van de algemene beginselen en voorschriften van de levensmiddelenwetgeving, tot oprichting van een Europese Autoriteit voor voedselveiligheid en tot vaststelling van procedures voor voedselveiligheidsaangelegenheden;<br>
+c) het koninklijk besluit van 14 november 2003 betreffende autocontrole, meldingsplicht en traceerbaarheid in de voedselketen; en<br>
+d) het ministerieel besluit van 24 oktober 2005 betreffende de versoepelingen van de toepassingsmodaliteiten van de autocontrole en de traceerbaarheid in sommige bedrijven van de levensmiddelensector.<br>
 10° infrastructuurforfait: een alternatieve vorm van investeringssubsidie als vermeld in artikel 7bis van het decreet van 23 februari 1994;<br>
 11° masterplan: de globale en beschrijvende schets met kostenraming van het geplande project of de geplande projecten, met vermelding van de doelgroep, de capaciteit, de uitvoeringstermijnen en toekomstige ontwikkelingen, met daarbij een financieel plan in verhouding tot de verwachte exploitatie;<br>
 12° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
@@ -441,14 +446,19 @@ Als het geaggregeerde infrastructuurforfait voor alle capaciteitseenheden die to
 § 2. Het deelforfait woonondersteuning wordt toegekend als de capaciteitseenheid een aangepaste woning omvat.<br>
 <br>
 § 3. Het deelforfait collectieve en ondersteunende zorglokalen wordt toegekend in de volgende gevallen:<br>
-1° de capaciteitseenheid omvat naast de aangepaste woning ook de nodige ruimte voor activiteiten en therapie, aangepast aan de (zorg)behoeften van de gebruiker, waarbij de totale netto-oppervlakte van de capaciteitseenheid ten minste 45 m<sup><span style="font-size: small;">2</span></sup> bedraagt;<br>
+1° de capaciteitseenheid omvat naast de aangepaste woning ook de nodige ruimte voor activiteiten en therapie, aangepast aan de (zorg)behoeften van de gebruiker, waarbij de totale netto-oppervlakte van de capaciteitseenheid ten minste 45 m<sup><span style="font-size:small">2</span></sup> bedraagt;<br>
 2° als het project de collectieve en ondersteunende zorglokalen omvat voor gebruikers zonder hun aangepaste woning, kan voor die gebruikers een deelforfait collectieve en ondersteunende zorglokalen worden opgestart. Op dat deelforfait wordt de verhouding toegepast van de oppervlakte van collectieve en ondersteunende zorglokalen van het project, ten opzichte van het aanvaarde aandeel aan collectieve en ondersteunende zorglokalen voor het aantal gebruikers. Dat aanvaarde aandeel wordt vastgesteld op 15 m<sup>2&nbsp; </sup>netto-oppervlakte per gebruiker.<br>
+3° als het project de functies medische dienst, of wasserij, of technische dienst, of een keuken die aan de HACCP-normen moet beantwoorden, bevat, kan daarvoor een deelforfait collectieve en ondersteunende zorglokalen worden opgestart. Op dat deelforfait wordt de verhouding toegepast van de netto- oppervlakte van die functies ten opzichte van 15 m<sup>2</sup> netto-oppervlakte. De hoogte van het deelforfait wordt onafhankelijk van de zorgzwaarte van de gebruikers vastgesteld op 5,67 euro. Respectievelijk bij de medische dienst, de wasserij, de technische dienst en de keuken vormen de ruimten die bestemd zijn voor die functie een samenhangend geheel.<br>
 <br>
-§ 4.Het forfait dagbesteding wordt toegekend als het project ten minste 15 m<sup><span style="font-size: small;">2</span></sup> netto-oppervlakte voor de capaciteitseenheid omvat.<br>
+§ 4.Het forfait dagbesteding wordt toegekend als het project ten minste 15 m<sup><span style="font-size:small">2</span></sup> netto-oppervlakte voor de capaciteitseenheid omvat.<br>
 <br>
 Als er per gebruiker minder netto-oppervlakte wordt gerealiseerd, wordt een verlaagd forfait bepaald op basis van de verhouding van de gerealiseerde oppervlakte ten opzichte van de oppervlakte, vermeld in het eerste lid.<br>
 <br>
-§ 5. Voor gebruikers van rechtstreeks toegankelijke zorg en ondersteuning wordt het infrastructuurforfait vastgesteld op basis van het maximale aantal in aanmerking te nemen bezettingsdagen voor verblijf, conform artikel 1, 7, van het besluit van de Vlaamse Regering van 22 februari 2013 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap, vermeld in artikel 21, vierde lid, door een gebruiker die behoort tot zorggroep 2.
+§ 5. Voor gebruikers van rechtstreeks toegankelijke zorg en ondersteuning wordt het infrastructuurforfait vastgesteld op basis van het maximale aantal in aanmerking te nemen bezettingsdagen voor verblijf, conform artikel 1, 7, van het besluit van de Vlaamse Regering van 22 februari 2013 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap, vermeld in artikel 21, vierde lid, door een gebruiker die behoort tot zorggroep 2.<br>
+<br>
+§ 6. Om het forfait van 2021 te berekenen, geldt dat het infrastructuurforfait niet lager is dan een van de volgende bedragen:<br>
+1° het bedrag van de subsidie van het voorgaande kalenderjaar met uitsluiting van het supplement, vermeld in artikel 22, tweede lid;<br>
+2° in elk ander geval dan het geval, vermeld in punt 1°, het berekende bedrag op basis van het veronderstelde gebruik, vermeld in artikel 22, eerste lid.
 
 ### ART 24.
 
@@ -537,7 +547,7 @@ Art. 3. Het gebouw voldoet aan al de volgende voorwaarden voor de specifieke rui
 6° er zijn voldoende medewerkerslokalen. Elke voorziening beschikt minimaal over een lokaal waar medewerkers met elkaar kunnen overleggen;<br>
 7° als voorzien wordt in een ruimte voor tijdelijke afzondering, wordt rekening gehouden met de doelgroep voor wie ze is bestemd, de frequentie waarmee ze gebruikt wordt en de gemiddelde duur van de tijdelijke afzondering. Daarnaast voldoet de ruimte aan al de volgende voorwaarden:<br>
 a) de ruimte is gesitueerd op een plaats die vlot bereikbaar is, vlot toezicht mogelijk maakt en maximale privacy biedt;<br>
-b) de ruimte is goed toegankelijk, heeft een netto-oppervlakte van ten minste 9m<sup>2&nbsp;</sup>, gerekend exclusief de sanitaire cel, en heeft bijhorende sanitaire voorzieningen;<br>
+b) de ruimte is goed toegankelijk, heeft een netto-oppervlakte van ten minste 9m<sup>2&nbsp;</sup>, gerekend exclusief de sanitaire cel, en heeft bijhorende sanitaire voorzieningen, via een sas of in de onmiddellijke nabijheid van de afzonderingsruimte;<br>
 c) de ruimte is uitgerust met een adequaat toezicht- en oproepsysteem en een aangepaste tijdaanduiding;<br>
 d) er is natuurlijke lichtinval;<br>
 e) de afwerking en inrichting houdt rekening met de veiligheid en het comfort van de gebruikers en het personeel;<br>
@@ -560,6 +570,12 @@ Art. 5. De buitenruimte van het gebouw voldoet aan al de volgende voorwaarden:<b
 1° aan de leefruimte is er een gemeenschappelijke buitenruimte die drempelloos toegankelijk is;<br>
 2° per gebruiker is een oppervlakte van 3 m2bsuperb beschikbaar als buitenruimte voor gebruikers, bezoekers en personeel;<br>
 3° er is een beschutte fietsenstalling voor gebruikers, bezoekers en personeel beschikbaar.<br>
+<br>
+Op verzoek van de aanvrager kan het Fonds voor gebouwen die in het tweetalige gebied Brussel-Hoofstad liggen of in een van de centrumsteden, vermeld in artikel 19ter decies van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds de volgende afwijkingen toestaan:<br>
+1° een afwijking op het hebben van een gemeenschappelijke buitenruimte, vermeld in het eerste lid, 1° en 2° ;<br>
+2° een afwijking op het hebben van een beschutte fietsenstalling, vermeld in het eerste lid, 3°.<br>
+<br>
+Op verzoek van de aanvrager kan het Fonds toestaan dat de gemeenschappelijke buitenruimte niet aangrenzend is voor bestaande gebouwen waar stedenbouwkundige voorschriften of erfgoedvoorschriften een aangrenzende buitenruimte onmogelijk maken. Als het Fonds toestaat dat de gemeenschappelijke buitenruimte niet aangrenzend is, kan het Fonds ook een afwijking toestaan op de voorwaarden, vermeld in het eerste lid, 2° of 3°.&nbsp;<br>
 <br>
 Art. 6. De uitrusting en inrichting van het gebouw voldoet aan al de volgende voorwaarden:<br>
 1° het gebouw wordt zodanig uitgerust dat een aangepast toezichtsysteem kan worden geïnstalleerd als dat noodzakelijk is. Het toezichtsysteem houdt altijd rekening met de privacy van de gebruiker;<br>
@@ -585,6 +601,12 @@ Art. 7. § 1. Het gebouw voldoet aan al de volgende voorwaarden voor het gebruik
 14° het akoestische comfort wordt gegarandeerd in alle verblijfsruimten;<br>
 15° de minimale verdiepingshoogte is 2,50 m (vloer tot afgewerkt plafond);<br>
 16° er is een aan de doelgroep aangepaste signalisatie.<br>
+<br>
+Voor de volgende monumenten of gebouwen kan het Fonds op verzoek van de aanvrager een afwijking toestaan van de voorwaarden, vermeld in het eerste lid, 7° :<br>
+1° een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+2° een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+3° een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed, vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+4° een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van het Brusselse Hoofdstedelijke Gewest overeenkomstig het Brussels Wetboek van Ruimtelijke Ordening.<br>
 <br>
 § 2. Als personen met een spraak- of gehoorstoornis tot de doelgroep behoren, voldoet het gebouw bijkomend aan al de volgende voorwaarden:<br>
 1° bij de bouw en inrichting worden maatregelen genomen om de voortplanting van trilling en lagefrequentiegolven te vermijden;<br>
@@ -621,7 +643,7 @@ Art. 8. Gebouwen bestemd voor woonondersteuning moeten voldoen aan al de volgend
 Op verzoek van de aanvrager kan het Fonds een afwijking toestaan van de voorwaarden, vermeld in het eerste lid.<br>
 <br>
 Art. 9. Gebouwen bestemd voor woonondersteuning voldoen aan al de volgende voorwaarden:<br>
-1° de totale netto-oppervlakte van de verblijfsruimten bedraagt minimaal 30 m2bsuperb per bewoner. Die oppervlakte omvat de kamer van de bewoner, inclusief de individuele sanitaire cel, de gemeenschappelijke zit- en eetruimten en de gemeenschappelijke sanitaire ruimten voor bewoners;<br>
+1° de totale netto-oppervlakte van de verblijfsruimten bedraagt minimaal 30 m2bsuperb per bewoner. Die oppervlakte omvat de kamer van de bewoner, inclusief de individuele sanitaire cel, de gemeenschappelijke zit- en eetruimten, de gemeenschappelijke sanitaire ruimten voor bewoners en de keuken die niet aan de HACCP-normen moet beantwoorden;<br>
 2° de verblijfsruimten vormen een aaneensluitend geheel of zijn via binnenruimten bereikbaar;<br>
 3° alle kamers zijn eenpersoonskamers, eventueel koppelbaar;<br>
 4° een eenpersoonskamer heeft een netto-vloeroppervlakte van ten minste 16 m2bsuperb, sanitair niet inbegrepen;<br>
@@ -637,16 +659,16 @@ Als er een afwijking wordt toegestaan van de voorwaarde, vermeld in het eerste l
 <br>
 Een kamer heeft altijd een netto-vloeroppervlakte van ten minste 12 m<sup>2</sup>, sanitair niet inbegrepen.<br>
 <br>
-Er bestaat altijd een mogelijkheid om de kamer te voorzien van een individuele wastafel met warm en koud stromend water.<br>
+Er bestaat altijd een mogelijkheid om de kamer te voorzien van een individuele wastafel met warm en koud stromend water.&nbsp;De leidingen en de aansluitpunten worden daarvoor voorzien.<br>
 <br>
 Art. 10. In gebouwen bestemd voor woonondersteuning voldoet het gemeenschappelijke sanitair aan al de volgende voorwaarden:<br>
-1° het sanitair is aangepast aan de behoeften van de doelgroep;<br>
+1° het sanitair is aangepast aan de behoeften van de doelgroep;&nbsp;In ieder geval is er minstens één rolstoeltoegankelijk toilet;<br>
 2° eventuele badruimten zijn oordeelkundig gesitueerd in de buurt van de kamers. De badruimten sluiten niet aan op de keuken;<br>
 3° in de nabijheid van de kamers en van de gemeenschappelijke zit- en eetruimten is voldoende sanitair. Dat omvat ten minste:<br>
 a) één bad of douche per vijf bewoners als er geen individuele douches zijn;<br>
-b) ten minste één gemeenschappelijke badkamer met bad, douche en toilet als er individuele douches zijn;<br>
+b) ten minste één gemeenschappelijke badkamer met bad en toilet als er individuele douches zijn;<br>
 c) één toilet met wastafel per vijf bewoners als er geen individuele toiletten met wastafel zijn en één toilet met wastafel per tien bewoners als er individuele toiletten met wastafel zijn;<br>
-d) één apart aangepast toilet met wastafel bij elke zit- en eetruimte;<br>
+d) één aangepast toilet met wastafel bij elke zit- en eetruimte;<br>
 e) voldoende sanitaire installaties voor bezoekers en personeel.<br>
 <br>
 Op verzoek van de aanvrager kan het Fonds een afwijking toestaan van de voorwaarde, vermeld in het eerste lid, 3°, b).<br>
@@ -669,7 +691,7 @@ a) één aangepast toilet met wastafel per vijf gebruikers;<br>
 b) één gemeenschappelijke badkamer met bad- of douchegelegenheid, toilet en wastafel;<br>
 c) voldoende sanitaire installaties voor bezoekers en personeel.<br>
 <br>
-Art. 13. De verzoeken om een afwijking, vermeld in artikel 1, 3, 8, 9 en 11, worden gemotiveerd voorgelegd aan het Fonds.<br>
+Art. 13. De verzoeken om een afwijking, vermeld in&nbsp;artikel 1, 3, 5, 7, 8, 9 en 11",&nbsp;worden gemotiveerd voorgelegd aan het Fonds.<br>
 <br>
 Het Fonds kan alleen een afwijking toestaan als de kwaliteit en de veiligheid van de hulp- en dienstverlening voldoende gegarandeerd zijn.<br>
 <br>
