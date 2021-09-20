@@ -255,7 +255,7 @@ Eerder geboekte vastgestelde rechten ten gunste van Organisatieafdeling 24, Prog
 
 ### ART. 42.
 
-§ 1. Binnen de perken van de beschikbare kredieten kan voor de verwerving en sanering van een onroerend goed dat in de inventaris is vermeld, aan de openbare centra voor maatschappelijk welzijn, gemeenten, vereniging van gemeenten, de erkende sociale huisvestingsmaatschappijen als vermeld in de Vlaamse Codex Wonen van 2021, de erkende provinciale ontwikkelingsmaatschappijen als vermeld in het decreet van 7 mei 2004 houdende vaststelling van het kader tot oprichting van provinciale ontwikkelingsmaatschappijen en het Vlaams Woningfonds voor de Grote Gezinnen een financiële steun worden toegekend van:<br>
+§ 1. Binnen de perken van de beschikbare kredieten kan voor de verwerving en sanering van een onroerend goed dat in de inventaris is vermeld, aan de openbare centra voor maatschappelijk welzijn, gemeenten, vereniging van gemeenten, de erkende woonmaatschappijen als vermeld in de Vlaamse Codex Wonen van 2021, de erkende provinciale ontwikkelingsmaatschappijen als vermeld in het decreet van 7 mei 2004 houdende vaststelling van het kader tot oprichting van provinciale ontwikkelingsmaatschappijen en het Vlaams Woningfonds voor de Grote Gezinnen een financiële steun worden toegekend van:<br>
 <br>
 - 30 % voor de verwerving van de onroerende goederen;<br>
 <br>
