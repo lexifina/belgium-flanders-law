@@ -35,23 +35,29 @@ De gebouwen waarover een voorziening in de jeugdhulp of een centrum voor ontwikk
 ### ART. 3.
 
 Om voor een investeringssubsidie in aanmerking te komen, moet de basisinfrastructuur van een residentiële voorziening ten minste bestaan uit de hierna vermelde ruimtes, waarbij de opgegeven nuttige vloeroppervlakten minima zijn:<br>
-1° per erkende module verblijf bedraagt de totale nettovloeroppervlakte van de verblijfsruimten minimaal 30 m2 per bewoner. Die oppervlakte omvat de kamer van de bewoner, inclusief de individuele sanitaire cel, de gemeenschappelijke zit- en eetruimten en de gemeenschappelijke sanitaire ruimten voor bewoners;<br>
+1° per erkende module verblijf bedraagt de totale nettovloeroppervlakte van de verblijfsruimten minimaal 30 m2 per bewoner. Die oppervlakte omvat de kamer van de bewoner, inclusief de individuele sanitaire cel, de gemeenschappelijke zit- en eetruimten, de gemeenschappelijke sanitaire ruimten voor bewoners en de keuken die niet aan de HACCP-normen moet beantwoorden;<br>
 2° een eenpersoonskamer heeft een nettovloeroppervlakte van ten minste 16 m2, sanitair niet inbegrepen, met de mogelijkheid af te wijken naar ten minste 12 m2, sanitair niet inbegrepen, als het een eenpersoonskamer voor minderjarigen betreft;<br>
 3° in de nabijheid van de kamers en van de gemeenschappelijke zit- en eetruimten is voldoende sanitair. Dat omvat ten minste:<br>
 a) één bad of douche per vijf bewoners als er geen individuele douches zijn;<br>
-b) ten minste één gemeenschappelijke badkamer met bad, douche en toilet als er individuele douches zijn;<br>
+b) ten minste één gemeenschappelijke badkamer met bad en toilet als er individuele douches zijn;<br>
 c) één toilet met wastafel per vijf bewoners als er geen individuele toiletten met wastafel zijn en één toilet met wastafel per tien bewoners als er individuele toiletten met wastafel zijn;<br>
 d) voldoende sanitaire installaties voor bezoekers en personeel;<br>
 4° elke eenpersoonskamer beschikt over een wastafel met warm en koud water;<br>
 5° een kwart van de eenpersoonskamers is integraal toegankelijk en beschikt minstens over een wastafel met warm en koud water;<br>
-6° een kwart van de gemeenschappelijke badkamers is integraal toegankelijk en beschikt minstens over een bad of een douche en een rolstoeltoegankelijk toilet met wastafel met warm en koud water, waarvan minstens één gemeenschappelijke badkamer integraal toegankelijk is en minstens beschikt over een bad, een douche en een rolstoeltoegankelijk toilet met wastafel met warm en koud water;<br>
+6° een kwart van de gemeenschappelijke badkamers is integraal toegankelijk en beschikt minstens over een bad of een douche en een rolstoeltoegankelijk toilet met wastafel met warm en koud water, waarvan minstens één gemeenschappelijke badkamer integraal toegankelijk is en minstens beschikt over een bad en een rolstoeltoegankelijk toilet met wastafel met warm en koud water;<br>
 7° de nettovloeroppervlakte van de gemeenschappelijke zit- en eetruimten bedraagt minimaal 4 m2 per gebruiker.<br>
 <br>
 De Vlaamse minister, bevoegd voor de bijstand aan personen, kan, op verzoek van de voorziening, een afwijking toestaan van de normen, vermeld in het eerste lid, 1°, 2°, 5° en 6°. Minimum moet bij deze afwijking het volgende aanwezig zijn:<br>
 1° één integraal toegankelijke eenpersoonskamer;<br>
 2° één gemeenschappelijke badkamer die integraal toegankelijk is en minstens beschikt over een douche, een bad en een rolstoeltoegankelijk toilet met wastafel met warm en koud water.<br>
 <br>
-De Vlaamse minister, bevoegd voor de bijstand aan personen, kan de voorwaarden bepalen waaronder de afwijking, vermeld in het tweede lid, kan worden toegestaan.
+De Vlaamse minister, bevoegd voor de bijstand aan personen, kan de voorwaarden bepalen waaronder de afwijking, vermeld in het tweede lid, kan worden toegestaan.<br>
+<br>
+In dit artikel wordt verstaan onder HACCP-normen, de normen waaraan moet worden voldaan in uitvoering van:<br>
+1° verordening (EG) nr. 852/2004 van het Europees Parlement en de Raad van 29 april 2004 inzake levensmiddelenhygiëne;<br>
+2° verordening (EG) nr. 178/2002 van het Europees Parlement en de Raad van 28 januari 2002 tot vaststelling van de algemene beginselen en voorschriften van de levensmiddelenwetgeving, tot oprichting van een Europese Autoriteit voor voedselveiligheid en tot vaststelling van procedures voor voedselveiligheidsaangelegenheden;<br>
+3° het koninklijk besluit van 14 november 2003 betreffende autocontrole, meldingsplicht en traceerbaarheid in de voedselketen; en<br>
+4° het ministerieel besluit van 24 oktober 2005 betreffende de versoepelingen van de toepassingsmodaliteiten van de autocontrole en de traceerbaarheid in sommige bedrijven van de levensmiddelensector.
 
 ### ART. 4.
 
@@ -133,14 +139,17 @@ De bouwfysische normen, vermeld in artikel 2 tot en met 5/1, gelden met behoud v
 
 ### ART. 7.
 
-In dit artikel wordt verstaan onder subsidiabele oppervlakte : de som van de per bouwlaag berekende nuttige vloeroppervlakte, buitenmuren inbegrepen, die in aanmerking wordt genomen voor subsidiëring.<br>
+In dit artikel wordt verstaan onder:<br>
+1° subsidiabele oppervlakte: de som van de per bouwlaag berekende nuttige vloeroppervlakte, buitenmuren inbegrepen, die in aanmerking wordt genomen voor subsidiëring;<br>
+2° centrum voor integrale gezinszorg: een erkende voorziening van de categorie 2 als vermeld in artikel 2, § 1, 2°, van het besluit van 5 april 2019.<br>
 <br>
 De subsidiabele oppervlakte bedraagt maximaal:<br>
-1° voor een voorziening in de jeugdhulp die erkend is voor een typemodule verblijf als vermeld in bijlage 1 bij het besluit van 5 april 2019: 65 m<sup>2</sup>&nbsp;per erkende module verblijf;<br>
+1° voor een voorziening in de jeugdhulp die erkend is voor een typemodule verblijf als vermeld in bijlage 1 bij het besluit van 5 april 2019,&nbsp;met uitzondering van de centra voor integrale gezinszorg: 65 m<sup>2</sup>&nbsp;per erkende module verblijf;<br>
 2° voor een voorziening in de jeugdhulp die erkend is voor de typemodule dagbegeleiding in groep, vermeld in de voormelde bijlage: 45 m<sup>2</sup>&nbsp;per erkende module dagbegeleiding in groep;<br>
 3° voor een voorziening in de jeugdhulp die erkend is voor een typemodule diagnostiek of een typemodule begeleiding of een typemodule behandeling als vermeld in de voormelde bijlage: 20 m<sup>2</sup>&nbsp;per voltijds equivalent van de maximale personeelsbezetting die in aanmerking komt voor de subsidiëring van de personeelskosten, vermeld in het voormelde besluit;<br>
 4° voor een dienst voor herstelgerichte en constructieve afhandeling als vermeld in artikel 7 van het voormelde besluit, en voor een vergunde dienst voor pleegzorg: 20 m<sup>2</sup>&nbsp;per voltijds equivalent van de personeelsformatie die de Vlaamse minister, bevoegd voor opgroeien, vaststelt;<br>
 5° voor een centrum voor ontwikkelingsstoornissen: 65 m<sup>2</sup>&nbsp;per voltijds equivalent van de personeelsformatie die de Vlaamse minister, bevoegd voor opgroeien, vaststelt.<br>
+6° voor een centrum voor integrale gezinszorg, met behoud van de toepassing van punt 2° en 3° : 65 m2 per gebruiker die het centrum volgens zijn erkenning kan opnemen.<br>
 <br>
 Van de maximale subsidiabele oppervlakte, vermeld in het tweede lid, kan alleen op gemotiveerd verzoek afgeweken worden als de erkennings- en exploitatievoorwaarden dat vereisen of omdat vanwege kleinschaligheid of de bijzonderheid van de doelgroep een meeroppervlakte vereist is om een efficiënte werking te garanderen. De afwijking kan maximaal 30% bedragen.
 
