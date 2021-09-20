@@ -5000,7 +5000,22 @@ De termijnen, die lopen vanaf de datum waarop de aanvraag uiterlijk ingediend mo
 <br>
 § 6. Als het besluit over de toets nieuwe opleiding in het kader van een omvorming als vermeld in artikel II.150/1, § 2, negatief is, kan het instellingsbestuur nog maximaal één academiejaar de om te vormen&nbsp;opleiding van het hoger beroepsonderwijs aanbieden en hiervoor studenten inschrijven. Het programma van deze opleiding wordt ingericht conform de artikelen II.67 en II.69.<br>
 <br>
-Een instelling kan na een negatief toetsingsbesluit voor een identieke opleiding nog een keer een aanvraag voor een toets nieuwe opleiding indienen. Als het besluit over de toets nieuwe opleiding in het kader van een omvorming als vermeld in artikel II.150/1, § 2, opnieuw negatief is, bouwt de instelling de opleiding af of zet ze die stop. Het instellingsbestuur garandeert de voorzieningen die nodig zijn om de ingeschreven studenten hun opleiding te kunnen laten voltooien.
+Een instelling kan na een negatief toetsingsbesluit voor een identieke opleiding nog een keer een aanvraag voor een toets nieuwe opleiding indienen. Als het besluit over de toets nieuwe opleiding in het kader van een omvorming als vermeld in artikel II.150/1, § 2, opnieuw negatief is, bouwt de instelling de opleiding af of zet ze die stop. Het instellingsbestuur garandeert de voorzieningen die nodig zijn om de ingeschreven studenten hun opleiding te kunnen laten voltooien.<br>
+<br>
+§ 7. De Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen, kan uitsluitend voor studenten die op 19 november 2020 waren ingeschreven met een diplomacontract, de volgende graduaatsopleidingen aanbieden en aan die studenten de overeenstemmende graad van gegradueerde uitreiken:<br>
+1° graduaat in het Internet of Things, erkend door de Vlaamse Regering op 19 juli 2019;<br>
+2° graduaat in de voertuigtechnieken, erkend door de Vlaamse Regering op 20 december 2019;<br>
+3° graduaat in het maatschappelijk werk, erkend door de Vlaamse Regering op 3 juli 2020.<br>
+<br>
+In afwijking van artikel II.153 vervalt de erkenning als nieuwe opleiding van de opleidingen, vermeld in het eerste lid, op het einde van het academiejaar 2022-2023.<br>
+<br>
+Studenten die op 19 november 2020 met een diplomacontract waren ingeschreven voor een van de opleidingen, vermeld in het eerste lid, hebben tot en met het academiejaar 2022-2023 het recht om de opleiding waarvoor ze zijn ingeschreven, te voltooien en in voorkomend geval de overeenstemmende graad van gegradueerde te behalen.<br>
+<br>
+De Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen, kan na 19 november 2020 andere studenten dan die, vermeld in het eerste lid, alleen inschrijven in een opleiding van het hoger beroepsonderwijs of hun de graad van gegradueerde verlenen voor die opleiding als aan volgende vier voorwaarden is voldaan:<br>
+1° de Vlaamse Regering heeft de opleiding van het hoger beroepsonderwijs van de Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen, erkend als nieuwe opleiding;<br>
+2° de erkenning van de opleiding van het hoger beroepsonderwijs als nieuwe opleiding van de Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen, komt tot stand overeenkomstig de procedure, vermeld in deel 2, titel 3, hoofdstuk 9, afdeling 3;<br>
+3° de procedure voor de erkenning van een opleiding van het hoger beroepsonderwijs als nieuwe opleiding van de Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen, is opgestart na 19 november 2020;<br>
+4° de Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen, biedt de opleiding van het hoger beroepsonderwijs aan volgens de voorwaarden, vermeld in het besluit van de Vlaamse Regering tot erkenning van de nieuwe opleiding.
 
 ### ART II.396.
 
