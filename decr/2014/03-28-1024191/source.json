@@ -2,16 +2,16 @@
   "codex_id": 1024191,
   "title": "Decreet van 2014-03-28 houdende een subsidie voor investeringen in residentiële woonwagenterreinen en doortrekkersterreinen voor woonwagenbewoners",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024191/VolledigDocument?datum=2014-06-29",
-  "source_sha256": "393f2d67b5a9ee09b52b402711ad3c2a39d38192ebdc9864e685cd53b9faa203",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024191/VolledigDocument?datum=2021-09-20",
+  "source_sha256": "4a1f0b222c582f6cb7ea903600d64ebbe308f513c2ea0b71661003b694a1ac5a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024191&param=informatie",
-  "as_of": "2014-06-29",
+  "as_of": "2021-09-20",
   "made": "2014-03-28",
   "gazette": "2014-06-19",
   "numac": 2014202522,
   "document_start": "2014-06-29",
   "document_end": "2021-09-19",
-  "in_force": "2014-06-29",
+  "in_force": "2021-09-20",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2014-06-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-09-20; future article versions excluded; article text as the API gives it"
 }
