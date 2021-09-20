@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036067,
+  "title": "Ministerieel besluit van 2021-09-16 tot vaststelling van de fase van de coronaviruspandemie in het woonbeleid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036067/VolledigDocument?datum=2021-09-20",
+  "source_sha256": "13907b54ddd45a2cbdbc4a617575dde0d3341f1a94e2ddfc87b9768b222a6a8d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036067&param=informatie",
+  "as_of": "2021-09-20",
+  "made": "2021-09-16",
+  "gazette": "2021-09-22",
+  "numac": 2021033181,
+  "document_start": "2021-09-20",
+  "document_end": null,
+  "in_force": "2021-09-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-09-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
