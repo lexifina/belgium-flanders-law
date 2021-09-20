@@ -622,24 +622,19 @@ Artikel 78 van het decreet van 23 december 2010 houdende bepalingen tot begeleid
 
 ### ART. 58.
 
-Bij het&nbsp;beleidsdomein Omgeving wordt een Dienst met Afzonderlijk Beheer opgericht met als naam « Fonds ter bestrijding van de uithuiszettingen », hierna het Fonds genoemd.<br>
-&nbsp;
+...
 
 ### ART. 59.
 
-De Vlaamse Regering regelt, in toepassing van artikel 109 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, de werking en het beheer van het Fonds.<br>
-&nbsp;
+...
 
 ### ART. 60.
 
-De middelen van het Fonds zijn :<br />1° een dotatie ten laste van de algemene uitgavenbegroting;<br />2° alle inkomsten voortvloeiend uit activiteiten en beleggingen van het Fonds;<br />3° het gebeurlijke saldo op het einde van het voorgaande begrotingsjaar op het Fonds;<br />4° de terugvorderingen voortvloeiend uit ten onrechte gedane betalingen;<br />5° de bijdragen van derden.<br /><br />
+...
 
 ### ART. 61.
 
-De middelen van het Fonds kunnen aangewend worden om uitgaven te financieren verbonden aan :<br>
-1° het verstrekken van subsidies aan de verhuurders of huurders en aan tussenpersonen die voldoen aan de voorwaarden voor het bekomen van de tegemoetkoming, zoals die bepaald worden door de Vlaamse Regering;<br>
-2° de werkingskosten eigen aan het Fonds.<br>
-&nbsp;
+...
 
 ## HOOFDSTUK 10 Vlaams Stedenfonds
 
