@@ -70,19 +70,19 @@ De Vlaamse regering bepaalt de datum van inwerkingtreding van de artikelen van a
 
 ### ART. 16.
 
-Het Investeringsfonds voor grond- en woonbeleid voor Vlaams-Brabant,   opgericht bij onderhavig artikel, wordt omgevormd tot het Vlaams   Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant.
+...
 
 ### ART. 17.
 
-<p>Het Vlaams Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant heeft rechtspersoonlijkheid. Het wordt opgericht als een Vlaamse openbare instelling van het type A. De Vlaamse Codex Overheidsfinanciën van 29 maart 2019 is op het fonds van toepassing voor zover er in dit decreet niet wordt van afgeweken.</p>
+<p>...</p>
 
 ### ART. 18.
 
-De middelen van het Vlaams Financieringsfonds voor Grond- en Woonbeleid   voor Vlaams-Brabant zijn:<BR>1° een jaarlijkse en forfaitaire dotatie ten laste   van de begroting van het Vlaamse Gewest van 3.833.000 euro. Dat bedrag wordt met   ingang van het begrotingsjaar 2014 jaarlijks minstens aangepast met de   indexatieparameters die de Vlaamse Regering hanteert bij de opmaak van de   begroting van het Vlaamse Gewest;<BR>2° het gebeurlijk saldo op het einde van   het voorgaande begrotingsjaar op het fonds;<BR>3° alle middelen die voortkomen   uit de activiteiten van het fonds.
+...
 
 ### ART. 19.
 
-Het fonds heeft de opdracht om ter realisatie van het grond- en woonbeleid   in Vlaams-Brabant, renteloze leningen toe te staan aan Vlabinvest apb, opgericht   bij artikel 1 van het besluit van de provincieraad van Vlaams-Brabant van 22   oktober 2013.<BR><BR>Het fonds is er eveneens toe gehouden om de intresten die   verschuldigd zijn ingevolge leningen die vóór 1 januari 2014 werden verstrekt   door het Investeringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant en die   hij in de loop van een kalenderjaar ontvangt, op 31 december van hetzelfde   kalenderjaar als subsidie uit te keren aan Vlabinvest apb.<BR><BR>De leningen   als vermeld in het eerste lid, worden door Vlabinvest apb uitsluitend aangewend   voor de realisatie van zijn opdracht als vermeld in artikel 3 van het besluit   van de provincieraad van Vlaams-Brabant van 22 oktober 2013 op de volgende   wijzen : <BR>1° voor het toestaan van leningen aan de initiatiefnemers;<BR>2°   voor de financiering van bouwverrichtingen die door Vlabinvest apb zelf worden   gerealiseerd.<BR><BR>Het jaarlijks leningsvolume is het bedrag van de renteloze   leningen die het fonds jaarlijks kan toestaan aan Vlabinvest apb. Dit jaarlijks   leningsvolume wordt jaarlijks beperkt tot een plafond dat is samengesteld uit de   som van : <BR>1° de jaarlijkse en forfaitaire dotatie als vermeld in artikel 18,   eerste lid, 1°;<BR>2° de ontvangen terugbetalingen van de leningen, zowel deze   toegestaan aan initiatiefnemers vóór 1 januari 2014 door het Investeringsfonds   voor Grond- en Woonbeleid voor Vlaams-Brabant als de renteloze leningen   verstrekt door het Vlaams Financieringsfonds voor Grond- en Woonbeleid voor   Vlaams-Brabant aan Vlabinvest apb vanaf 1 januari 2014 uitgezonderd de op deze   leningen verschuldigde intresten;<BR>3° het niet-belaste saldo van   niet-aangewende middelen door het Investeringsfonds voor Grond- en Woonbeleid   voor Vlaams-Brabant op 31 december 2013. Het niet-belaste saldo van de   niet-aangewende middelen omvat de liquide middelen en de nog te vorderen   dotaties, en de andere werkelijke ontvangsten en uitgaven die op de begrotings-   uitvoering van het begrotingsjaar 2013 werden aangerekend, maar die eind 2013   nog moeten worden betaald, verminderd met het nog niet opgenomen gedeelte van de   leningen die vóór 1 januari 2014 bij overeenkomst werden toegezegd;<BR>4° het   niet-aangewende saldo van de onder punt 1°, 2° en 3° vermelde middelen van het   voorgaande begrotingsjaar.<BR><BR>In de begroting wordt er een   verbintenissenmachtiging ingeschreven ten belope van het jaarlijks leningsvolume   om renteloze leningen toe te staan aan Vlabinvest apb.<BR><BR>De Vlaamse   Regering bepaalt de verdere algemene voorwaarden waaronder de in het eerste lid   vermelde leningen worden toegestaan aan Vlabinvest apb.<BR><BR>In het derde lid   wordt verstaan onder initiatiefnemers : <BR>1° de Vlaamse Maatschappij voor   Sociaal Wonen;<BR>2° een sociale huisvestingsmaatschappij;<BR>3° een gemeente of   een intergemeentelijk samenwerkingsverband;<BR>4° een openbaar centrum voor   maatschappelijk welzijn en een vereniging als vermeld in titel VIII, hoofdstuk   I, van het decreet van 19 december 2008 betreffende de organisatie van openbare   centra voor maatschappelijk welzijn;<BR>5° het Vlaams Woningfonds;<BR>6° de   provincie Vlaams-Brabant.
+...
 
 ### ART. 19bis.
 
@@ -94,7 +94,7 @@ Het fonds heeft de opdracht om ter realisatie van het grond- en woonbeleid   in 
 
 ### ART. 20.
 
-Het fonds wordt beheerd door de Vlaamse regering. Tussen het fonds en de   Vlaamse Maatschappij voor Sociaal Wonen wordt een overeenkomst gesloten met   betrekking tot het ter beschikking stellen aan het fonds van de nodige   diensten.
+...
 
 ### ART. 21.
 
@@ -106,11 +106,11 @@ Het fonds wordt beheerd door de Vlaamse regering. Tussen het fonds en de   Vlaam
 
 ### ART. 23.
 
-De Vlaamse regering stelt jaarlijks een verslag op over de werking en het beheer van het fonds. Dit verslag wordt aan het Vlaams Parlement medegedeeld.
+...
 
 ### ART. 24.
 
-De Vlaamse regering stelt de verdere regels vast betreffende de werking en het beheer van het fonds. Zij kan daarbij een leidend ambtenaar aanwijzen en sommige van haar bijkomstige en aanvullende bevoegdheden delegeren tot op het meest functionele niveau.
+...
 
 ## HOOFDSTUK III LEEFMILIEU
 
