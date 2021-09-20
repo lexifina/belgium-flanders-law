@@ -2,16 +2,16 @@
   "codex_id": 1036036,
   "title": "Besluit van de Vlaamse Regering van 2021-07-16 tot wijziging van regelgeving over de infrastructuur voor persoonsgebonden aangelegenheden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036036/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "5222ec60d618c6c92e58353be42ce16878562b066f441545bce78c0bbf132d31",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036036/VolledigDocument?datum=2021-09-20",
+  "source_sha256": "b1392538cf57683af1fe5349e1907d28c224d0c8eb5bfe7f112c4eb1d08f1930",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036036&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2021-09-20",
   "made": "2021-07-16",
   "gazette": "2021-09-10",
   "numac": 2021032706,
   "document_start": "2021-09-20",
   "document_end": null,
-  "in_force": "2021-01-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-09-20",
+  "article_versions": 38,
+  "record_form": "consolidated version as in force on 2021-09-20; future article versions excluded; article text as the API gives it"
 }
