@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036046,
+  "title": "Ministerieel besluit van 2021-08-09 tot wijziging van verschillende bijlagen bij het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036046/VolledigDocument?datum=2021-09-24",
+  "source_sha256": "f196ee2b1e3fb828283383124c017abc036957f0505183e70d84374cd07e798c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036046&param=informatie",
+  "as_of": "2021-09-24",
+  "made": "2021-08-09",
+  "gazette": "2021-09-14",
+  "numac": 2021032607,
+  "document_start": "2021-09-24",
+  "document_end": null,
+  "in_force": "2021-09-24",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2021-09-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
