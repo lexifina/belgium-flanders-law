@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036053,
+  "title": "Ministerieel besluit van 2021-09-02 tot wijziging van artikel 22/1 van het ministerieel besluit van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013 en tot wijziging van bijlage 3 van het ministerieel besluit van 25 november 2016 tot uitvoering van het Vergunningsbesluit van 22 november 2013",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036053/VolledigDocument?datum=2021-09-27",
+  "source_sha256": "740b2de371a841ea3c8e3000ed5e3b477a971026ed83726858c2db5b8c5e4114",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036053&param=informatie",
+  "as_of": "2021-09-27",
+  "made": "2021-09-02",
+  "gazette": "2021-09-17",
+  "numac": 2021032988,
+  "document_start": "2021-09-27",
+  "document_end": null,
+  "in_force": "2021-09-27",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-09-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
