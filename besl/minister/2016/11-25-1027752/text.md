@@ -277,7 +277,21 @@ f) een diploma van master of Science in de logopedische en audiologische wetensc
 10° punt 2.4 wordt opgeheven;<br>
 11° punt 3.1 en 3.2 worden vervangen door wat volgt:<br>
 "3.1 een kwalificatiebewijs als vermeld in punt 1.1 tot en met 1.9.";<br>
-12° in punt 6.4 worden tussen de woorden "een deelcertificaat van" en de woorden "een instantie" de woorden "een taalopleiding Nederlands aangeboden door" ingevoegd." (Zie MB 21 mei 2019, art. 5, I: 28 september 2019).
+12° in punt 6.4 worden tussen de woorden "een deelcertificaat van" en de woorden "een instantie" de woorden "een taalopleiding Nederlands aangeboden door" ingevoegd." (Zie MB 21 mei 2019, art. 5, I: 28 september 2019).<br>
+<br>
+* Met ingang van 27 september 2021 worden de volgende wijzigingen aangebracht:<br>
+1° in punt 1.2 wordt punt c) vervangen door wat volgt:<br>
+"c) een certificaat, een bewijs van beroepskwalificatie "kinderbegeleider baby's en peuters" niveau 4 van de Vlaamse kwalificatiestructuur en niveau 4 van het Europese kwalificatiekader;";<br>
+2° in punt 1.3 wordt punt j) opgeheven;<br>
+3° in punt 1.8 wordt een punt g) toegevoegd, dat luidt als volgt:<br>
+"g) uitgereikt tot en met 31 augustus 2022: een attest kinderbegeleider baby's en peuters, behaald aan een centrum voor volwassenenonderwijs met onderwijsbevoegdheid voor de opleiding Begeleider in de Kinderopvang. Het attest toont aan dat er 18 modules gevolgd zijn uit de opleiding Begeleider in de kinderopvang namelijk:<br>
+1) alle theoretische en praktijkmodules "Zorg in de kinderopvang" en "Begeleiding van het jonge kind";<br>
+2) de modules 2, 4, 6 en 7 "Begeleiding van het schoolgaande kind";";<br>
+4° er worden een punt 1.10 en een punt 1.11 toegevoegd, die luiden als volgt:<br>
+"1.10 kwalificatiebewijzen via een beroepskwalificerend traject dat erkend is via het gemeenschappelijk kwaliteitskader: een bewijs van beroepskwalificatie "kinderbegeleider baby's en peuters" niveau 4 van de Vlaamse kwalificatiestructuur en niveau 4 van het Europese kwalificatiekader;<br>
+1.11 een diploma van het ondernemerschapstraject kinderbegeleider baby's en peuters, tot en met 31 december 2021 uitgereikt door SYNTRA Vlaanderen of, vanaf 1 januari 2021, door het Agentschap Innoveren en Ondernemen (VLAIO).".<br>
+5°&nbsp; punt 3.1 wordt vervangen als volgt:<br>
+"3.1 een kwalificatiebewijs als vermeld in punt 1.1 tot en met 1.11.".
 
 ## BIJLAGE 4
 
