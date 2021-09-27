@@ -203,7 +203,7 @@ De startdatum, vermeld op het attest inkomenstarief, is de maand na de aanvraag 
 1° bij de start van de kinderopvang, in welk geval de startdatum steeds de maand van de start is;<br>
 2° het OCMW of de organisator een beslissing nemen als vermeld in artikel 34/1 van het Subsidiebesluit van 22 november 2013, die kan gelden met terugwerkende kracht.<br>
 <br>
-De einddatum, vermeld op het attest inkomenstarief, is de laatste dag van het kalenderjaar van de aanvraag van het attest inkomenstarief. Als het kind 3,5 jaar wordt, is de einddatum echter de laatste dag van het kwartaal waarin het kind 3,5 jaar wordt. Een individueel verminderd inkomenstarief wordt toegekend voor minstens één jaar, waarbij de einddatum telkens de laatste dag van het kwartaal is waarin het attest inkomenstarief een jaar geldigheid bereikt. Als het kind 3,5 jaar wordt, is de einddatum echter de laatste dag van het kwartaal waarin het kind 3,5 jaar wordt.
+De einddatum, vermeld op het attest inkomenstarief, is de laatste dag van het kalenderjaar van de aanvraag van het attest inkomenstarief. Als het kind drie en een half jaar, zes jaar of negen jaar wordt, is de einddatum echter de laatste dag van het kwartaal waarin het kind drie en een half jaar, zes jaar of negen jaar wordt. Een individueel verminderd inkomenstarief wordt toegekend voor minstens één jaar, waarbij de einddatum telkens de laatste dag van het kwartaal is waarin het attest inkomenstarief een jaar geldigheid bereikt. Als het kind drie en een half jaar, zes jaar of negen jaar wordt, is de einddatum echter de laatste dag van het kwartaal waarin het kind drie en een half jaar, zes jaar of negen jaar wordt.
 
 ### ART. 23.
 
