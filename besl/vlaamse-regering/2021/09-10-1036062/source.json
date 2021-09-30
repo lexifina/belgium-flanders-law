@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036062,
+  "title": "Besluit van de Vlaamse Regering van 2021-09-10 tot bepaling van de regels om subsidies te verlenen voor de uitvoering van maatregelen met een gunstig effect op milieu, klimaat of biodiversiteit",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036062/VolledigDocument?datum=2021-09-30",
+  "source_sha256": "53a9ba2a8eb859289e26a9d14a7cc670b36420c92a8e716f09cb64d064fc08b0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036062&param=informatie",
+  "as_of": "2021-09-30",
+  "made": "2021-09-10",
+  "gazette": "2021-09-20",
+  "numac": 2021033017,
+  "document_start": "2021-09-30",
+  "document_end": null,
+  "in_force": "2021-09-30",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2021-09-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
