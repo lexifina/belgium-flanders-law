@@ -30,6 +30,10 @@ In afwijking van artikel 26 van het decreet van 8 juni 2007 betreffende de studi
 
 ## HOOFDSTUK 10. Afwijkingen van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs
 
+### ART 61.
+
+In afwijking van artikel 114, § 3, 115, § 2, en 117, § 2, van hetzelfde decreet geldt dat academies, domeinen en structuuronderdelen in vestigingsplaatsen die op de teldag 1 oktober 2021 niet aan de geldende normen voldoen, gesubsidieerd of gefinancierd blijven in het schooljaar 2021-2022. Op de teldag van 1 oktober 2022 worden de voorgaande teldagen van 1 oktober 2020 en 1 oktober 2021 niet in rekening gebracht voor de programmatie.
+
 ## HOOFDSTUK 11. Afwijking van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding
 
 ## HOOFDSTUK 12. Afwijking van het besluit de Vlaamse Regering van 28 augustus 2000 inzake het tehuis van het Gemeenschapsonderwijs dat instaat voor de opname van jongeren in het kader van de hulp- en bij standsregeling
