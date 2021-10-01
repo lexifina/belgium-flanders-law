@@ -375,7 +375,19 @@ De tongvangst in ICES-gebieden VIIh, j, k is verboden in de periode van 1 januar
 <br>
 Vanaf 1 mei 2021 tot en met 31 oktober 2021 is het in de ICES-gebieden VIIh, j, k voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden van 2000 kg per vaartuig in die ICES-gebieden.<br>
 <br>
-Ingeval van gemengde visreizen met aanwezigheid in de ICES-gebieden VIIh, j, k en VIIf, g, is het in de ICES-gebieden VIIh, j, k verboden een hoeveelheid per vaartuig te overschrijden van 300 kg, in dat ICES-gebied.
+Ingeval van gemengde visreizen met aanwezigheid in de ICES-gebieden VIIh, j, k en VIIf, g, is het in de ICES-gebieden VIIh, j, k verboden een hoeveelheid per vaartuig te overschrijden van 300 kg, in dat ICES-gebied.<br>
+<br>
+Er wordt een wetenschappelijk tongquotum voorbehouden van 3 ton voor een wetenschappelijke zeereis in het vierde kwartaal van 2021 in het ICES-gebied VIIh, j, k.<br>
+<br>
+Teneinde te kunnen genieten van dit wetenschappelijk quotum richten eigenaars van vissersvaartuigen, die volgens de Officiële lijst der Belgische zeeschepen 2021 zijn uitgerust met de boomkor en die behoren tot het GVS, per aangetekende brief of per e-mail een aanvraag tot de bevoegde entiteit tegen uiterlijk 30 augustus 2021, 12 uur.<br>
+<br>
+Indien er meerdere aanvragen zijn, wordt er door de bevoegde entiteit een loting georganiseerd. Een kandidaat en een reservekandidaat worden aangeduid. Het uitgelote vaartuig komt niet in aanmerking voor een wetenschappelijk zeereis in het ICES-gebied VIIh, j, k in het jaar 2022.<br>
+<br>
+Het wetenschappelijk quotum van maximaal 3000 kg tong voor het vierde kwartaal 2021 moet in maximaal vijf opeenvolgende zeedagen worden opgevist. Het niet-opgevist deel is definitief verloren. Indien meer gevist wordt, komt dit in mindering van de normaal toegekende hoeveelheden aan het vaartuig.<br>
+<br>
+De visreis moet volledig in ICES-gebied VIIh, j, k plaatsvinden en gedurende de volledige visreis dient minstens één wetenschapper van ILVO aan boord te zijn. De aanvrager moet voor de aanmonstering van de wetenschapper de nodige maatregelen voorzien om tijdens de visreis de veiligheid van de wetenschapper te garanderen. Bovendien moet de eigenaar van het vaartuig toelaten dat desgevallend een wetenschapper inscheept tijdens reguliere visreizen ter opname van de toewijzing vermeld in lid 2.<br>
+<br>
+Indien een eigenaar van een vaartuig, aangeduid conform lid 4, behoudens in geval van overmacht, niet deelneemt aan het wetenschappelijk onderzoek, komt het vaartuig niet langer in aanmerking voor analoog wetenschappelijk onderzoek tot en met 2022 en wordt de toegekende hoeveelheid tong, voor de betreffende toewijsperiode verminderd met het aantal kg tong zoals toegewezen conform lid 2. Indien dit verschil een negatieve hoeveelheid oplevert, zal het tekort worden afgehouden van het vastgestelde tongquotum voor het betreffende vaartuig in een andere toewijsperiode in hetzelfde of volgende jaar.
 
 ## Afdeling 3. Schol
 
@@ -439,11 +451,15 @@ In de periode van 1 juli 2021 tot en met 31 oktober 2021 is het in het ICES-gebi
 
 § 1. In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 120 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 april 2021 tot en met 31 oktober 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 125 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 1 april 2021 tot en met 30 september 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 125 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+In de periode van 1 oktober tot en met 31 oktober 2021 is het In de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 In de periode van 1 januari 2021 tot en met 31 maart 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 240 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 april 2021 tot en met 31 oktober 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 250 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 1 april 2021 tot en met 30 september 2021 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 250 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+In de periode van 1 oktober 2021 tot en met 31 oktober 2021 is het In de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 In afwijking van het tweede en vierde lid, worden de maximaal toegelaten vangsthoeveelheden verdubbeld die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische zeeschepen 2021 uitsluitend uitgerust is met de planken of met de zegen.<br>
 <br>
