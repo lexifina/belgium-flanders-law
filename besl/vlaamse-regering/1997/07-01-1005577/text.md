@@ -18,12 +18,14 @@ c) de geraamde kostprijs van de saneringswerkzaamheden;<br>
 d) een tijdtabel voor de uitvoering van de saneringswerkzaamheden;<br>
 5° Registratieattest: het attest dat door het departement wordt betekend waarbij wordt vermeld dat de bedrijfsruimte officieel in de Inventaris is geregistreerd met vermelding van de reden van inventarisatie en de datum van registratie;<br>
 6° Instrumenterende ambtenaar: iedere persoon of instelling die ertoe gemachtigd is aktes van eigendomsoverdracht te verlijden;<br>
-7° Deelgemeente: de gemeente zoals ze bekend was voor de fusie van de gemeenten van 1 januari 1977;<br>
+7° ...;<br>
 8° Decreet: het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten.
 
 ### ART. 2.
 
-§ 1. De verzameling van alle percelen waarop zich minstens één   bedrijfsgebouw bevindt, die als één geheel te beschouwen zijn en die toebehoren   aan dezelfde eigenaar, vallen onder de toepassing van dit besluit. De   verzameling heeft een minimale oppervlakte van vijf are.<BR><BR>§ 2. De   activiteit in het in paragraaf 1 vernoemde bedrijfsgebouw behelst iedere   industriële, ambachtelijke, handels-, diensten-, landbouw- of tuinbouw-, opslag-   of administratieve activiteit uitgeoefend door bedrijven, ondernemingen of   zelfstandigen. Terzake is bepalend de laatste hoofdactiviteit of voor nieuwe   bedrijfsgebouwen de bestemming die aan de gebouwen in de uitgevoerde   stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige   handelingen&nbsp;werd gegeven.
+§ 1. De verzameling van alle percelen waarop zich minstens één bedrijfsgebouw bevindt, die als één geheel te beschouwen zijn en die toebehoren aan dezelfde eigenaar, vallen onder de toepassing van dit besluit. De verzameling heeft een minimale oppervlakte van vijf are.<br>
+<br>
+§ 2. De activiteit in het in paragraaf 1 vernoemde bedrijfsgebouw behelst iedere industriële, ambachtelijke, handels-, diensten-, landbouw- of tuinbouw-, opslag- of administratieve activiteit. Terzake is bepalend de laatste hoofdactiviteit of voor nieuwe bedrijfsgebouwen de bestemming die aan de gebouwen in de uitgevoerde stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige handelingen&nbsp;werd gegeven.
 
 ### ART. 3.
 
@@ -48,7 +50,37 @@ Een bedrijfsruimte wordt als leegstaand beschouwd vanaf het ogenblik dat [meer d
 
 ### ART. 6.
 
-§ 1. Jaarlijks stelt elke gemeente per deelgemeente een lijst op van de   leegstaande of verwaarloosde bedrijfsruimten op haar grondgebied. Die lijst   vermeldt voor elke leegstaande of verwaarloosde bedrijfsruimte minimaal de   volgende gegevens : <BR>1° het adres;<BR>2° de identificatiegegevens van de   eigenaar(s);<BR>3° het bedrag van het niet-geïndexeerde kadastraal   inkomen;<BR>4° de kadastrale gegevens (ligging en oppervlakte);<BR>5° in geval   van leegstand : de totale vloeroppervlakte met het werkelijke   benuttingspercentage;<BR>6° in geval van verwaarlozing : een exhaustieve   beschrijving van de aard en de omvang van de vastgestelde gebreken, vermeld in   artikel 5;<BR>7° een beschrijving van de laatste hoofdactiviteit(en) die in de   bedrijfsgebouwen plaatsvond(en), of, bij nieuwe bedrijfsgebouwen, de bestemming   die aan de gebouwen gegeven is;<BR>8° de bestemmingsvoorschriften die van   toepassing zijn volgens de geldende plannen van aanleg of ruimtelijke   uitvoeringsplannen;<BR>9° als op de bedrijfsruimte een onteigeningsmachtiging   rust : de datum van de machtiging en de instantie met   onteigeningsbevoegdheid;<BR>10° als de bedrijfsruimte krachtens decreet   beschermd is als monument of stads- of dorpsgezicht of bij ministerieel besluit   is opgenomen in een ontwerp van lijst tot bescherming: de datum van het   voormelde ministerieel besluit;<BR>11° een omschrijving van de aard van de   bedrijfsruimte.<BR><BR>De gegevens, vermeld in het eerste lid, hebben niet   alleen betrekking op het kadastraal perceel zelf waarop de bedrijfsgebouwen   liggen, maar ook op alle aangrenzende percelen die als één geheel te beschouwen   zijn en die aan dezelfde eigenaar(s) toebehoren. Al die percelen moeten evenwel   deel uitmaken of deel hebben uitgemaakt van de economische activiteit.<BR><BR>De   gemeente actualiseert jaarlijks de door haar opgestelde lijst.<BR><BR>§ 2. De   gemeente kan ter verduidelijking de volgende stukken bij de gemeentelijke lijst,   vermeld in paragraaf 1, voegen : <BR>1° het proces-verbaal van het   plaatsbezoek;<BR>2° foto's die de leegstand of de verwaarloosde toestand   aantonen;<BR>3° alle relevante stukken die uitsluitsel geven over de laatste   economische activiteit.<BR><BR>§ 3. Op de lijst, vermeld in paragraaf 1, maakt   de gemeente afzonderlijk melding van de bedrijfsruimten die al in de inventaris   zijn geregistreerd, maar die volgens haar niet meer voldoen aan de criteria van   leegstand of verwaarlozing.<BR><BR>§ 4. Vóór 1 maart van het kalenderjaar stuurt   het college van burgemeester en schepenen de gemeentelijke lijst, vermeld in   paragraaf 1 en 3, en de stukken, vermeld in paragraaf 2, door naar het   departement.<BR><BR>Een afschrift van die lijst wordt gelijktijdig opgestuurd   naar de erkende provinciale ontwikkelingsmaatschappij van de provincie waartoe   de gemeente behoort.<BR><BR>§ 5. Als er in de gemeente geen bedrijfsruimten   voorkomen die in aanmerking komen voor registratie op de gemeentelijke lijst,   stuurt het college van burgemeester en schepenen een lijst als vermeld in   paragraaf 1, met de vermelding "nihil" door.<BR><BR>§ 6. Als een gemeente de   lijst niet, niet tijdig of niet volgens de bepalingen van dit besluit   doorstuurt, verliest de gemeente gedurende 3 jaar haar aanspraak op de   forfaitaire doorstorting zoals bepaald in artikel 14 van dit besluit   .
+§ 1. Jaarlijks stelt elke gemeente een lijst op van de leegstaande of verwaarloosde bedrijfsruimten op haar grondgebied. Die lijst vermeldt voor elke leegstaande of verwaarloosde bedrijfsruimte minimaal de volgende gegevens :<br>
+1° het adres;<br>
+2° de identificatiegegevens van de eigenaar(s);<br>
+3° het bedrag van het niet-geïndexeerde kadastraal inkomen;<br>
+4° de kadastrale gegevens (ligging en oppervlakte);<br>
+5° in geval van leegstand : de totale vloeroppervlakte met het werkelijke benuttingspercentage;<br>
+6° in geval van verwaarlozing : een exhaustieve beschrijving van de aard en de omvang van de vastgestelde gebreken, vermeld in artikel 5;<br>
+7° een beschrijving van de laatste hoofdactiviteit(en) die in de bedrijfsgebouwen plaatsvond(en), of, bij nieuwe bedrijfsgebouwen, de bestemming die aan de gebouwen gegeven is;<br>
+8° de bestemmingsvoorschriften die van toepassing zijn volgens de geldende plannen van aanleg of ruimtelijke uitvoeringsplannen;<br>
+9° als op de bedrijfsruimte een onteigeningsmachtiging rust : de datum van de machtiging en de instantie met onteigeningsbevoegdheid;<br>
+10° als de bedrijfsruimte krachtens decreet beschermd is als monument of stads- of dorpsgezicht of bij ministerieel besluit is opgenomen in een ontwerp van lijst tot bescherming: de datum van het voormelde ministerieel besluit;<br>
+11° een omschrijving van de aard van de bedrijfsruimte.<br>
+<br>
+De gegevens, vermeld in het eerste lid, hebben niet alleen betrekking op het kadastraal perceel zelf waarop de bedrijfsgebouwen liggen, maar ook op alle aangrenzende percelen die als één geheel te beschouwen zijn en die aan dezelfde eigenaar(s) toebehoren. Al die percelen moeten evenwel deel uitmaken of deel hebben uitgemaakt van de economische activiteit.<br>
+<br>
+De gemeente actualiseert jaarlijks de door haar opgestelde lijst.<br>
+<br>
+§ 2. De gemeente kan ter verduidelijking de volgende stukken bij de gemeentelijke lijst, vermeld in paragraaf 1, voegen :<br>
+1° het proces-verbaal van het plaatsbezoek;<br>
+2° foto's die de leegstand of de verwaarloosde toestand aantonen;<br>
+3° alle relevante stukken die uitsluitsel geven over de laatste economische activiteit.<br>
+<br>
+§ 3. Op de lijst, vermeld in paragraaf 1, maakt de gemeente afzonderlijk melding van de bedrijfsruimten die al in de inventaris zijn geregistreerd, maar die volgens haar niet meer voldoen aan de criteria van leegstand of verwaarlozing.<br>
+<br>
+§ 4. Vóór 1 maart van het kalenderjaar stuurt het college van burgemeester en schepenen de gemeentelijke lijst, vermeld in paragraaf 1 en 3, en de stukken, vermeld in paragraaf 2, door naar het departement.<br>
+<br>
+Een afschrift van die lijst wordt gelijktijdig opgestuurd naar de erkende provinciale ontwikkelingsmaatschappij van de provincie waartoe de gemeente behoort.<br>
+<br>
+§ 5. Als er in de gemeente geen bedrijfsruimten voorkomen die in aanmerking komen voor registratie op de gemeentelijke lijst, stuurt het college van burgemeester en schepenen een lijst als vermeld in paragraaf 1, met de vermelding "nihil" door.<br>
+<br>
+§ 6. Als een gemeente de lijst niet, niet tijdig of niet volgens de bepalingen van dit besluit doorstuurt, verliest de gemeente gedurende 3 jaar haar aanspraak op de forfaitaire doorstorting zoals bepaald in artikel 3.1.0.0.1 van het Besluit Vlaamse Codex Fiscaliteit van 20 december 2013 .
 
 ### ART. 7.
 
@@ -60,7 +92,16 @@ Binnen een termijn van vijftien kalenderdagen na de officiële registratie   bet
 
 ### ART. 9.
 
-Bij overdracht van een bedrijfsruimte die in de Inventaris is   geregistreerd, is de instrumenterende ambtenaar er toe gehouden om binnen dertig   kalenderdagen, na het verlijden van de akte, via een aangetekend schrijven, naar   het departement de volgende gegevens op te sturen:<BR>1° een&nbsp;afschrift van   het registratieattest;<BR>2° de volledige identiteit en het adres van de   vroegere en van de nieuwe eigenaar(s);<BR>3° ingeval van vennootschappen de   statuten van zowel de overdragende als de overnemende vennootschap en de lijst   van de bestuurders en de aandeelhouders;<BR>4° de datum van de akte;<BR>5° een   verklaring onder ede dat:<BR>a) de vroegere eigenaar(s) wel of niet voor meer   dan 10 % van het aandeelhouderschap rechtstreeks of onrechtstreeks participeert   in de verwervende vennootschap;<BR>b) de vroegere eigenaar(s) wel of niet bloed-   en aanverwantschapsbanden heeft (hebben) met de verwervende eigenaar tot en met   de derde graad.<BR><BR>Het departement vermeldt binnen dertig kalenderdagen na   betekening van de in het eerste lid vermelde informatie de datum van het   verlijden van de authentieke akte in de Inventaris. Het departement betekent   binnen dezelfde termijn aan de nieuwe eigenaar&nbsp;de opschorting van de   heffing.
+Bij overdracht van een bedrijfsruimte die in de Inventaris is geregistreerd, is de instrumenterende ambtenaar er toe gehouden om binnen dertig kalenderdagen, na het verlijden van de akte, via een aangetekend schrijven, naar het departement de volgende gegevens op te sturen:<br>
+1° een&nbsp;afschrift van het registratieattest;<br>
+2° de volledige identiteit en het adres van de vroegere en van de nieuwe eigenaar(s);<br>
+3° ingeval van vennootschappen de statuten van zowel de overdragende als de overnemende vennootschap en de lijst van de bestuurders en de aandeelhouders;<br>
+4° de datum van de akte;<br>
+5° een verklaring onder ede dat:<br>
+a) de vroegere eigenaars wel of niet rechtstreeks of onrechtstreeks participeren in de verwervende vennootschap;<br>
+b) de vroegere eigenaar(s) wel of niet bloed- en aanverwantschapsbanden heeft (hebben) met de verwervende eigenaar tot en met de derde graad.<br>
+<br>
+Het departement vermeldt binnen dertig kalenderdagen na betekening van de in het eerste lid vermelde informatie de datum van het verlijden van de authentieke akte in de Inventaris. Het departement betekent binnen dezelfde termijn aan de nieuwe eigenaar&nbsp;de opschorting van de heffing.
 
 ### ART. 10.
 
@@ -74,7 +115,9 @@ Het departement stuurt jaarlijks, uiterlijk op 31 augustus, aan iedere   gemeent
 
 ### ART. 12.
 
-Als er aan de verwaarlozing of leegstand van een bedrijfsruimte een einde komt, stelt de eigenaar via een aangetekend schrijven het departement hiervan in kennis en vraagt uit de Inventaris te worden geschrapt. Hij kan hiertoe alle bewijsstukken bijvoegen die hij nodig acht. Zijn aanvraag tot schrapping dient gestaafd te worden door een verklaring van de burgemeester die de beëindiging van de leegstand en/of verwaarlozing bevestigt.
+Als er aan de verwaarlozing of leegstand van een bedrijfsruimte een einde komt, stelt de eigenaar via een aangetekend schrijven het departement hiervan in kennis en vraagt uit de Inventaris te worden geschrapt. Hij kan hiertoe alle bewijsstukken bijvoegen die hij nodig acht. Zijn aanvraag tot schrapping dient gestaafd te worden door een verklaring van de burgemeester die de beëindiging van de leegstand en/of verwaarlozing bevestigt.<br>
+<br>
+Overeenkomstig artikel 11, 1°, van het Decreet, kan alleen de wettelijk toegestane benutting van het bedrijfsgebouw daarbij in aanmerking worden genomen.
 
 ### ART. 13.
 
@@ -118,66 +161,137 @@ Als er aan de verwaarlozing of leegstand van een bedrijfsruimte een einde komt, 
 
 <P>...</P>
 
+## [HOOFDSTUK IV FINANCIELE ONDERSTEUNING VAN DE SANERINGSWERKZAAMHEDEN IN HET KADER VAN DE VERNIEUWING (verv. BVR 24 september 2021, art. 6, I: 1 oktober 2021)]
+
+## [AFDELING 1 AANVRAAGPROCEDURE (verv. BVR 24 september 2021, art. 6, I: 1 oktober 2021)]
+
 ### ART. 20.
 
-De aanvraag voor de belofte van subsidie voor de verwerving van bedrijfsruimten wordt ingediend door de openbare centra voor maatschappelijk welzijn, gemeenten, verenigingen van gemeenten, de erkende sociale huisvestingsmaatschappijen, vermeld in de Vlaamse Codex Wonen van 2021, de erkende Provinciale Ontwikkelingsmaatschappijen of het Vlaams Woningfonds voor de Grote Gezinnen. De aanvraag dient de volgende documenten te bevatten:<br>
-1° een kopie van het registratie-attest waaruit blijkt dat de bedrijfsruimte in de Inventaris is geregistreerd;<br>
-2° een situering en verantwoording van de beoogde verwerving en van de herbestemming;<br>
-3° een raming van de kostprijs van de beoogde verwerving, bepaald op basis van het schattingsverslag opgesteld door het Comité tot Aankoop of door de bevoegde Ontvanger der Registratie;<br>
-4° een uittreksel uit de notulen van het beheersorgaan van de initiatiefnemer, waaruit blijkt dat besloten is tot:<br>
-a) de verwerving van de bedrijfsruimten en de uitvoering van sanerings- en, herbestemmingswerkzaamheden, eventueel onder voorbehoud van toekenning van een subsidie;<br>
-b) de aanvraag voor subsidiëring van de verwerving;<br>
-c) de verbintenis om de aanvraag voor subsidiëring van de saneringswerkzaamheden in te dienen samen met de basisstudie, binnen 6 maanden na de betekening van het definitieve voorstel van subsidiebedrag voor de verwerving.
+§ 1. De rechtsgeldig ondertekende aanvraag van een subsidie voor de saneringswerkzaamheden wordt met een aangetekend schrijven ingediend bij het departement. Die aanvraag bevat al de volgende documenten:<br>
+1° de basisstudie;<br>
+2° een kopie van de omgevingsvergunning of een meldingsakte voor de saneringswerkzaamheden als die vereist is volgens de aard van de werkzaamheden, conform het decreet van 25 april 2014 betreffende de omgevingsvergunning. Als een omgevingsvergunning vereist is, wordt de subsidieaanvraag ingediend minstens zes maanden vóór de vervaltermijn van de vergunning verstrijkt;<br>
+3° voor saneringswerkzaamheden die vallen onder de toepassing van de wetgeving inzake overheidsopdrachten: het gunningsdossier;<br>
+4° voor saneringswerkzaamheden die niet vallen onder de toepassing van de wetgeving inzake overheidsopdrachten: minstens twee originele offertes van erkende aannemers, alsook het bewijs dat minstens drie erkende aannemers geraadpleegd zijn. Als de raming minimaal 124.000 euro bedraagt moet, in afwijking daarvan, het bewijs geleverd worden dat minstens zes erkende aannemers geraadpleegd zijn;<br>
+5° een eigendomsbewijs of akte van aankoop van de bedrijfsruimte of het vonnis van de rechtbank houdende gerechtelijke onteigening, waaruit blijkt dat de aanvrager hoogstens twee jaar eigenaar is van de bedrijfsruimte vanaf de datum waarop de authentieke akte verleden is;<br>
+6° een kopie van de registratieattesten waaruit blijkt dat de bedrijfsruimte twee opeenvolgende jaren in de Inventaris is geregistreerd;<br>
+7° een raming van de mogelijke opbrengst van de sanering;<br>
+8° een beschrijving van de wijze waarop bij de uitvoering van de saneringswerkzaamheden de principes van water- en energiezuinigheid, circulair slopen en klimaattransitie, vermeld in artikel 24, eerste lid, gerespecteerd zullen worden;<br>
+9° in voorkomend geval, een omstandige motivering waarom de aanvrager meent in aanmerking te komen voor de financiële steun, vermeld in artikel 42, § 1, tweede lid, 1°, van het decreet, waarbij wordt aangetoond dat het saneringsvoorstel en de te realiseren herbestemming substantieel bijdragen aan een of meer van de doelstellingen, vermeld in artikel 24, derde lid;<br>
+10° ingeval van vennootschappen bewijsstukken die de solvabiliteit van de aanvrager aantonen;<br>
+11° ingeval van vennootschappen de statuten van zowel de overdragende als de overnemende vennootschap en de lijst van de bestuurders en de aandeelhouders;<br>
+12° een verklaring onder ede dat:<br>
+a) de vroegere eigenaars niet rechtstreeks of onrechtstreeks participeren in de verwervende vennootschap;<br>
+b) de vroegere eigenaars geen bloed- en aanverwantschapsbanden hebben met de verwervende eigenaar tot en met de derde graad;<br>
+13° een verklaring dat voor dezelfde bedrijfsruimte geen financiële steun voor de verwerving ervan is aangevraagd of toegekend;<br>
+14° de verbintenis van de aanvrager om te starten met de herbestemmingswerkzaamheden uiterlijk twee jaar, of vijf jaar in geval van herbestemmingswerkzaamheden in het kader van een definitief gesloten brownfieldconvenant, na de datum van betekening van de goedkeuring van het subsidiebedrag;<br>
+15° de verbintenis van de aanvrager om geen werken uit te voeren en geen contract te sluiten met een aannemer voor de minister het subsidiebedrag heeft goedgekeurd;<br>
+16° de verbintenis van de aanvrager om de ten onrechte verleende financiële steun terug te storten aan het Vernieuwingsfonds binnen drie maanden na de terugvordering ervan;<br>
+17° het rekeningnummer bij een financiële instelling waarop de subsidie gestort moet worden.<br>
+<br>
+§ 2.Het departement onderzoekt of de subsidieaanvraag ontvankelijk en volledig is.<br>
+<br>
+Als de aanvraag onvolledig is, kan het departement vragen om de ontbrekende gegevens of documenten aan de aanvraag toe te voegen en de termijn bepalen waarbinnen dat moet gebeuren.<br>
+<br>
+Het resultaat van het onderzoek, vermeld in het eerste lid, wordt aan de aanvrager meegedeeld binnen een termijn van dertig dagen vanaf de dag na de datum waarop de subsidieaanvraag is ingediend of na de ontvangst van de ontbrekende gegevens of documenten.
 
 ### ART. 21.
 
-De minister kan de belofte van subsidie voor de verwerving verlenen, die   berekend wordt op basis van de totale kostprijs.<BR><BR>Voor de berekening van   de totale kostprijs komt in aanmerking de kostprijs zoals deze blijkt uit de   akte van aankoop, de verkoopsovereenkomst of het vonnis van de rechtbank   houdende gerechtelijke onteigening.<BR><BR>Indien evenwel deze kostprijs de   raming door de Ontvanger der Registratie of het Comité tot Aankoop voor de   verwerving van bedrijfsruimten met meer dan 10 % overschrijdt, wordt enkel het   bedrag van de raming in aanmerking genomen.
+Voor de saneringswerkzaamheden die onder de toepassing van de wetgeving inzake overheidsopdrachten vallen, kan de minister het voorstel van subsidiebedrag goedkeuren, dat berekend wordt op basis van het gunningsbedrag, exclusief btw, na aftrek van de eventuele opbrengst van de sanering.<br>
+<br>
+Voor de saneringswerkzaamheden die niet onder de toepassing van de wetgeving inzake overheidsopdrachten vallen, kan de minister het voorstel van subsidiebedrag goedkeuren, dat berekend wordt op basis van de laagste offerte, exclusief btw, die overeenstemt met het ontwerpdossier, na aftrek van de eventuele opbrengst van de sanering.<br>
+<br>
+Nadat de aanvrager de goedkeuring van het subsidiebedrag heeft ontvangen, sluit hij binnen negentig dagen het contract met de aannemer voor het bedrag, vermeld in de goedkeuring.
 
 ### ART. 22.
 
-De aanvraag voor het definitieve voorstel van subsidiebedrag dient te bevatten:<br />1° een kopie van de belofte van subsidie;<br />2° een kopie van de akte van aankoop of het vonnis van de rechtbank ingeval van een gerechtelijke onteigening;<br />3° een schuldvordering.<br /><br />De subsidie wordt ambtshalve uitbetaald na bepaling van de definitieve subsidie.<br /><br />De aanvraag voor het verkrijgen van het definitieve subsidiebedrag wordt ingediend bij het departement.
+Met behoud van de toepassing van artikel 42, § 3, van het decreet wordt de definitieve subsidie bepaald op basis van de totale kostprijs, exclusief btw, zoals berekend in de eindafrekening.<br>
+<br>
+Met behoud van de toepassing van artikel 42, § 3, van het decreet komen de volgende bedragen in aanmerking voor de berekening van de totale kostprijs:<br>
+1° de kosten van de uitvoering van de saneringswerkzaamheden, bepaald op basis van offertes en facturen, na aftrek van de eventuele opbrengst van de sanering;<br>
+2° de kosten van de onvoorziene en noodzakelijke wijzigingen en bijkomende werkzaamheden waarmee het departement voor de voorlopige oplevering zijn instemming heeft betuigd, onder voorbehoud van de goedkeuring van de eindafrekening door de minister;<br>
+3° de verrekeningen die voortvloeien uit de toepassing van de contractuele bepalingen.<br>
+<br>
+Het departement keurt de definitieve subsidie goed, behalve als er kosten zijn als vermeld in het tweede lid, 2°. In dat geval keurt de minister de definitieve subsidie goed.
 
 ### ART. 23.
 
-De initiatiefnemer moet de aanvraag voor de belofte van subsidie voor de   saneringswerkzaamheden indienen bij het departement. Die aanvraag moet de   volgende documenten bevatten:<BR>1° de basisstudie;<BR>1° /1 een kopie van de   omgevingsvergunning voor de saneringswerkzaamheden als deze vereist is volgens   de aard van de werkzaamheden of een bewijs dat de saneringswerkzaamheden gemeld   zijn, conform hoofdstuk 10 van het decreet van 25 april 2014 betreffende de   omgevingsvergunning; <BR>2° een kopie van de beslissing van het beheersorgaan   van de initiatiefnemer, houdende:<BR>a) de goedkeuring van de basisstudie en de   vastgestelde gunningswijze, eventueel onder voorbehoud van toekenning van een   subsidie en de wettelijke uitvoerbaarheid van die werkzaamheden;<BR>b) de   aanvraag tot subsidiëring van de saneringswerkzaamheden;<BR>c) de verbintenis om   een aanvang te nemen met de herbestemmingswerkzaamheden uiterlijk twee jaar of   vijf jaar in het geval van herbestemmingswerkzaamheden in het kader van een   definitief gesloten Brownfieldconvenant, na het verkrijgen van het definitieve   voorstel van subsidiebedrag voor de saneringswerkzaamheden;<BR>3° een verklaring   omtrent de eigendomssituatie en, indien nodig, de stand van zaken van de   verwerving van de bedrijfsruimten;<BR>4° een kopie van het registratieattest   waaruit blijkt dat de bedrijfsruimte in de Inventaris is   geregistreerd.<BR><BR>Als de aanvrager een subsidie heeft verkregen voor de   verwerving van geregistreerde bedrijfsruimten, wordt de aanvraag tot   subsidiëring van de saneringswerkzaamheden ingediend binnen zes maanden na de   betekening van het definitieve voorstel van subsidiebedrag voor de verwerving   van die bedrijfsruimten.<BR><BR>Het besluit van de Vlaamse regering van 21 juni   1989 houdende vaststelling van de procedure inzake de subsidiëring van bepaalde   werken, leveringen en diensten die door of op initiatief van regionale of lokale   besturen of ermee gelijkgestelde rechtspersonen worden uitgevoerd, is van   toepassing op de subsidieaanvragen bedoeld in dit artikel.
+Met het oog op de uitbetaling van de subsidie bezorgt de aanvrager de volgende documenten aan het departement:<br>
+1° foto's die de graad van uitvoering bevestigen;<br>
+2° een verklaring van de burgemeester die de uitvoeringsgraad bevestigt;<br>
+3° een verzoek om uitbetaling dat gestaafd is met facturen en vorderingsstaten van aannemers;
+
+## [AFDELING 2 VOORWAARDEN OM IN AANMERKING TE KOMEN VOOR DE FINANCIËLE STEUN (verv. BVR 24 september 2021, art. 6, I: 1 oktober 2021)]
 
 ### ART. 24.
 
-[De minister kan de belofte van subsidie voor de saneringswerkzaamheden verlenen, die berekend wordt op basis van de raming van de kostprijs van de voorgestelde werkzaamheden, na aftrek van de eventuele opbrengst van de sanering, opgemaakt op basis van de opmetingsstaat, die deel uitmaakt van het ontwerpdossier.  <span class="reference">(verv. B.V.R. 19 december 1998, art. 9, I: 5 februari 1999)</span> ]
+Bij de uitvoering van de saneringswerkzaamheden worden de volgende principes gerespecteerd:<br>
+1° water- en energiezuinigheid: het optimale gebruik van energie, warmte en water staat voorop;<br>
+2° circulair slopen: grondstoffen die vrijkomen bij het slopen, ontmantelen, demonteren en hermonteren, worden in andere projecten hoogwaardig hergebruikt;<br>
+3° klimaattransitie: de saneringswerkzaamheden dragen bij aan de reductie van verplaatsingsenergie en CO2-uitstoot. Energieverbruik wordt beperkt en er wordt maximaal gebruik gemaakt van energie uit duurzame en hernieuwbare bronnen.<br>
+<br>
+Om in aanmerking te komen voor de financiële steun mag, overeenkomstig artikel 42, § 1, zesde lid, van het Decreet, bij de vernieuwing geen vergunningsplichtige zonevreemde functiewijziging ter uitvoering van artikel 4.4.23 van de Vlaamse Codex Ruimtelijke Ordening worden doorgevoerd in een of meer van de bedrijfsgebouwen of in de bijbehorende bedrijfswoning.<br>
+<br>
+Om in aanmerking te komen voor de financiële steun, vermeld in artikel 42, § 1, tweede lid, 1°, van het Decreet, moeten het saneringsvoorstel en de te realiseren herbestemming substantieel bijdragen aan een of meer van de volgende doelstellingen:<br>
+1° de verhoging van het ruimtelijk rendement: Het saneringsvoorstel en de te realiseren herbestemming genereren een hoger ruimtelijk rendement door ontwikkelingen maximaal een plaats te geven binnen het huidige ruimtebeslag zonder afbreuk te doen aan de leefkwaliteit. Dat resulteert in een efficiënter en hernieuwd gebruik van al ingenomen ruimte. Hergebruik zorgt ervoor dat bestaande terreinen, gebouwen en constructies die niet meer gebruikt worden, opnieuw benut worden. Bij hergebruik kan het gaan zowel om renovatie als om sloop- en nieuwbouwprojecten. Woongelegenheden, werkplekken, voorzieningen en infrastructuren worden ontwikkeld door bestaande bebouwde ruimtes te transformeren en zo weinig mogelijk door open en onbebouwde ruimte in te nemen. Daarbij wordt rekening gehouden met de ligging in het duurzame vervoersysteem voor personen of goederen, de nabijheid van voorzieningen en de ligging ten opzichte van de open ruimte en groenblauwe aders;<br>
+2° ontharding en vergroening: het saneringsvoorstel en de te realiseren herbestemming versterken de ecologische samenhang en biodiversiteit en tasten de kwaliteit van de bodem niet aan. De inrichting van de ruimte draagt bij tot de versterking van het groenblauwe netwerk in een woonweefsel of op een bedrijventerrein met onder meer stadsgroen, open water, bomen, vijvers, tuinen, groendaken en -gevels of lijnvormig groen langs infrastructuren. Die groene ruimtes worden zo veel mogelijk toegankelijk en beleefbaar voor de buurt gemaakt. Het saneringsvoorstel en de te realiseren herbestemming dragen ook bij aan de biodiversiteit en de bodemkwaliteit door de ruimtelijke principes toe te passen die ingaan op aspecten zoals multifunctionaliteit, draagkracht en het ecologisch functioneren. Opvang, infiltratie en berging van water is een belangrijk aandachtspunt. Ontharding wordt gedefinieerd als het verwijderen van alle boven- en ondergrondse gebouwen en constructies die op het goed aanwezig zijn, met inbegrip van verhardingen en leidingen, zodat de bodem weer als een natuurlijke onaangeroerde bodem functioneert;<br>
+3° de transitie naar hernieuwbare energie en klimaatneutraliteit: het saneringsvoorstel en de te realiseren herbestemming verminderen de specifieke klimaatgevoeligheden door bij te dragen aan de vermindering van de stedelijke hitte, de verbetering van de luchtkwaliteit, het herstel of het vermijden van wateroverlast. Er wordt gekozen voor bouwvormen, zonoriëntaties en materiaalkeuzes die voor minder energieverbruik zorgen. De inrichting van de ruimte gaat uit van de realisatie van de klimaatdoelstellingen en optimaliseert de productie, de opslag en de distributie van hernieuwbare energie. De ruimte wordt energie-efficiënt georganiseerd en gebruikt, bijvoorbeeld door energie- en warmte-uitwisseling mogelijk te maken en door collectieve installaties voor energie te gebruiken. Energie uit duurzame en hernieuwbare bronnen wordt maximaal benut. Ook wordt gestreefd naar een ruimtelijke inrichting die voldoende veerkrachtig is om met de gevolgen van klimaatverandering om te gaan;<br>
+4° de versterking van de verweving van activiteiten of van gedeeld of meervoudig ruimtegebruik: het saneringsvoorstel en de te realiseren herbestemming zijn geschikt voor verschillende gebruikers tegelijk hetzij op verschillende momenten door zo veel mogelijk in te spelen op de behoeften van medegebruikers zonder de behoeften van de hoofdgebruiker aan te tasten. Het saneringsvoorstel en de te realiseren herbestemming dragen bij aan gedeeld en meervoudig gebruik door de ruimtelijke principes toe te passen die ingaan op aspecten zoals verweving, medegebruik en gebruik door verschillende doelgroepen.<br>
+Verweefbare activiteiten worden samengebracht. Er wordt vermeden dat functies die beter gescheiden blijven, verweven worden. Monofunctionele ontwikkeling voor wonen of voorzieningen wordt vermeden. Er wordt gestreefd naar bedrijvige kernen waar wonen, werken en winkelen elkaar onderling versterken, goed afgestemd op publieke functies zoals cultuurbeleving, onderwijs en opleiding.
+
+## [AFDELING 3 ALGEMENE BEPALINGEN (verv. BVR 24 september 2021, art. 6)]
 
 ### ART. 25.
 
-§ 1. De initiatiefnemer moet de aanvraag voor het definitieve voorstel van subsidiebedrag voor de saneringswerkzaamheden indienen bij het departement. Deze aanvraag moet het gunningsdossier bevatten.<br /><br />Binnen de perken van de beschikbare kredieten kan de minister het definitieve voorstel van subsidiebedrag voor de saneringswerkzaamheden goedkeuren, dat wordt berekend op basis van het gunningsbedrag inclusief BTW, na aftrek van de eventuele opbrengst van de sanering.<br /><br />§ 2. De definitieve subsidie wordt bepaald op basis van de totale kostprijs inclusief BTW, zoals berekend in de eindafrekening.<br /><br />Voor de berekening van de totale kostprijs komen in aanmerking:<br />1° de kosten van de uitvoering van de saneringswerkzaamheden, bepaald op basis van offertes en facturen, na aftrek van de eventuele opbrengst van de sanering;<br />2° de kosten van de onvoorziene en noodzakelijke wijzigingen en bijkomende werkzaamheden waarmee het departement voor de voorlopige oplevering zijn instemming heeft betuigd, onder voorbehoud van de goedkeuring van de eindafrekening door de minister;<br />3° de verrekeningen, voortvloeiend uit de toepassing van de contractuele bepalingen.<br /><br />Het departement keurt de definitieve subsidie goed, behalve wanneer er kosten zijn zoals bedoeld in het tweede lid, 2°. In dit geval keurt de minister de definitieve subsidie goed.
+De saneringswerkzaamheden, vermeld in artikel 2, 7°, b), van het Decreet, om het bedrijfsgebouw in een zodanige staat te brengen dat de eigenlijke herbestemmingsbouwwerkzaamheden kunnen beginnen, omvatten:<br>
+1° de gedeeltelijke sloping van interne en externe constructies en de verwijdering van uitrustingen, elementen, materialen en puin die niet bruikbaar zijn voor de herbestemmingsbouwwerkzaamheden;<br>
+2° stuttings- en schoringswerken, nieuwbouwconstructies voor zover deze laatste noodzakelijk zijn om de stabiliteit van de te behouden constructies en, in voorkomend geval, ook van aanpalende constructies te verzekeren of om de verdere aftakeling van de te behouden constructies te voorkomen;<br>
+3° grondwerken die nodig zijn om het terrein op het gepaste niveau te brengen zodat de eigenlijke herbestemmingsbouwwerkzaamheden kunnen beginnen, met uitsluiting van saneringswerken als vermeld in het decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming;<br>
+4° de verwijdering in de bedrijfsgebouwen van elementen die een gevaar inhouden of die de gezondheid kunnen schaden.<br>
+Saneringen in de milieutechnische zin zijn daar niet in begrepen.<br>
+<br>
+Sanerings- en ontmantelingswerkzaamheden van kerncentrales en installaties voor de berging en verwerking van splijtstoffen komen niet in aanmerking voor de financiële steun, vermeld in artikel 42, § 1, van het Decreet.
 
 ### ART. 26.
 
-§ 1. De aanvraag voor een subsidie voor de saneringswerkzaamheden kan   ingediend worden door elke natuurlijke persoon, privaatrechtelijke rechtspersoon   en de niet in artikel 20 vermelde publiekrechtelijke rechtspersonen. De aanvraag   wordt ingediend bij het departement en omvat de volgende documenten:<BR>1° de   basisstudie;<BR>1° /1 een kopie van de omgevingsvergunning voor de   saneringswerkzaamheden als deze vereist is volgens de aard van de werkzaamheden   of een bewijs dat de saneringswerkzaamheden gemeld zijn, conform hoofdstuk 10   van het decreet van 25 april 2014 betreffende de omgevingsvergunning;<BR>2° voor   saneringswerkzaamheden die vallen onder de toepassing van de wetgeving inzake   overheidsopdrachten : het gunningsdossier;<BR>3° voor saneringswerkzaamheden   waarop de wet, bedoeld in 2°, en haar uitvoeringsbesluiten niet van toepassing   zijn: minstens twee originele offertes van&nbsp;aannemers, evenals het bewijs   dat minstens drie&nbsp;aannemers geraadpleegd werden. Indien de raming minimaal   124.000 euro bedraagt dient, in afwijking hiervan, het bewijs geleverd te worden   dat minstens zes&nbsp;aannemers geraadpleegd werden;<BR>4° de akte van aankoop   van de bedrijfsruimte of het vonnis van de rechtbank houdende gerechtelijke   onteigening;<BR>5° een raming van de mogelijke opbrengst van de sanering;<BR>6°   de verbintenis van de aanvrager geen werken uit te voeren en geen contract te   sluiten met een aannemer voor het departement zijn goedkeuring heeft   verleend;<BR>7° de verbintenis van de aanvrager de ten onrechte verleende   financiële steun terug te storten voor rekening van het Vernieuwingsfonds binnen   drie maanden na de terugvordering ervan;<BR>8° de verbintenis om een aanvang te   nemen met de herbestemmingswerkzaamheden uiterlijk twee jaar of vijf jaar in het   geval van herbestemmingswerkzaamheden in het kader van een definitief gesloten   Brownfieldconvenant, na de betekening van de goedkeuring van het definitieve   voorstel van subsidiebedrag voor de saneringswerkzaamheden;<BR>9° een kopie van   het registratieattest waaruit blijkt dat de bedrijfsruimte in de Inventaris is   geregistreerd.<BR><BR>§ 2. Voor de saneringwerkzaamheden bedoeld in § 1, 2° kan   de minister het voorstel van subsidiebedrag goedkeuren, dat berekend wordt op   basis van het gunningsbedrag exclusief BTW, na aftrek van de eventuele opbrengst   van de sanering.<BR><BR>Voor de saneringswerkzaamheden bedoeld in § 1, 3° kan de   minister het voorstel van subsidiebedrag goedkeuren, dat berekend wordt op basis   van de laagste offerte, exclusief BTW, die overeenstemt met het ontwerpdossier,   na aftrek van de eventuele opbrengst van de sanering.<BR><BR>Na ontvangst van de   goedkeuring van het subsidiebedrag sluit de aanvrager binnen de 90 kalenderdagen   het contract met de aannemer en voor het bedrag zoals vermeld in deze   goedkeuring.<BR><BR>§ 3. De definitieve subsidie wordt bepaald op basis van de   totale kostprijs exclusief BTW, zoals berekend in de eindafrekening.<BR><BR>Voor   de berekening van de totale kostprijs komen in aanmerking:<BR>1° de kosten van   de uitvoering van de saneringswerkzaamheden, bepaald op basis van offertes en   facturen, na aftrek van de eventuele opbrengst van de sanering;<BR>2° de kosten   van de onvoorziene en noodzakelijke wijzigingen en bijkomende werkzaamheden,   waarmee het departement voor de voorlopige oplevering zijn instemming heeft   betuigd, onder voorbehoud van de goedkeuring van de eindafrekening door de   minister;<BR>3° de verrekeningen, voortvloeiend uit de toepassing van de   contractuele bepalingen.<BR><BR>Het departement keurt de definitieve subsidie   goed, behalve wanneer er kosten zijn zoals bedoeld in het tweede lid, 2°. In dit   geval keurt de minister de definitieve subsidie goed.
+De initiatiefnemer moet het bewijs leveren dat hij de verbintenis, vermeld in artikel 20, § 1, 14°, nakomt, door aan het departement ofwel een kopie te bezorgen van de betekening aan een aannemer van de goedkeuring van zijn offerte voor de herbestemmingswerkzaamheden, ofwel een attest van de burgemeester over de ingebruikneming van de herbestemming.<br>
+<br>
+Met behoud van de toepassing van artikel 48 van het Decreet worden alle overeenkomstig dit besluit uitgekeerde subsidies teruggevorderd, vermeerderd met de wettelijke verwijlintresten, als de initiatiefnemer minstens een van de verbintenissen, vermeld in artikel 20, § 1, niet nakomt, behoudens rechtvaardiging door overmacht.
+
+## [AFDELING 4 VOORSCHOTTENREGELING (verv. BVR 24 september 2021, art. 6, I: 1 oktober 2021)]
 
 ### ART. 27.
 
-Met het oog op de uitbetaling van de subsidie dient de aanvrager de   volgende documenten aan het departement op te sturen:<BR>1° foto's die de graad   van uitvoering bevestigen;<BR>2° een verklaring van de burgemeester die de   uitvoeringsgraad bevestigt;<BR>3° een verzoek om uitbetaling gestaafd met   facturen van&nbsp;aannemers;<BR>4° het rekeningnummer bij een financiële   instelling waarop de subsidie gestort moet worden.
+Op basis van de definitief toegekende subsidie kunnen de initiatiefnemers de volgende voorschotten krijgen tot beloop van:<br>
+1° 30% van het toegekende subsidiebedrag bij de ontvangst van een kopie van het bevel tot aanvang van de saneringswerkzaamheden;<br>
+2° 60% van het toegekende subsidiebedrag, eventueel aangepast aan het bedrag van de vastleggingen in min of in meer die verricht zijn sinds de datum van de toekenning van de subsidie, als het bedrag van de uitgevoerde werkzaamheden, vermeerderd met de contractuele herzieningen, zoals blijkt uit de vorderingsstaten en de bijbehorende facturen van de aannemer, meer bedraagt dan 75% van het voorschot, vermeld in punt 1°.<br>
+<br>
+De bedragen van de voorschotten worden afgerond op het lager liggende duizendtal.<br>
+<br>
+Binnen zestig dagen na het beëindigen van de saneringswerkzaamheden dient de initiatiefnemer de eindafrekening in.
 
 ### ART. 28.
 
-De saneringswerkzaamheden, vermeld in artikel 2, 7°, eerste lid, b) van   het decreet, om het bedrijfsgebouw in een zodanige staat te brengen om de   eigenlijke herbestemmingsbouwwerkzaamheden te kunnen beginnen, omvatten:<BR>1°   de gedeeltelijke sloping van interne en externe constructies en het verwijderen   van uitrustingen, elementen, materialen en puin die niet bruikbaar zijn voor de   herbestemmingsbouwwerkzaamheden;<BR>2° stuttings- en schoringswerken,   nieuwbouwconstructies voor zover deze laatste noodzakelijk zijn om de   stabiliteit van de te behouden constructies en, in voorkomend geval, ook van   aanpalende constructies, te verzekeren of om de verdere aftakeling van de te   behouden constructies te voorkomen;<BR>3° grondwerken die nodig zijn om het   terrein op het gepaste niveau te brengen om de eigenlijke   herbestemmingsbouwwerkzaamheden te kunnen beginnen, met uitsluiting van   saneringswerken voorzien in het decreet van 27 oktober 2006 betreffende de   bodemsanering en de bodembescherming;<BR>4° de verwijdering in de   bedrijfsgebouwen van elementen die een gevaar inhouden of die de gezondheid   kunnen schaden.
+Als uit de eindafrekening blijkt dat het totale bedrag van de werkelijke saneringskosten van de initiatiefnemers niet minstens 24.750 euro, exclusief btw, bedraagt, worden de voorschotten die met toepassing van artikel 27 al uitbetaald zijn, teruggevorderd.
 
 ### ART. 28bis.
 
-§ 1. De initiatiefnemer dient het bewijs te leveren dat hij de verbintenissen, bedoeld in artikel 23, eerste lid, 2°, c) en in artikel 26 § 1, 8° nakomt door aan het departement ofwel kopie te bezorgen van de betekening aan een aannemer van de goedkeuring van zijn offerte voor de herbestemmingswerkzaamheden, ofwel een attest van de burgemeester van ingebruikneming van de herbestemming.<br /><br />§ 2. Onverminderd de toepassing van artikel 48 van het decreet worden alle overeenkomstig dit besluit uitgekeerde subsidies teruggevorderd, te vermeerderen met de wettelijke verwijlintresten, indien de initiatiefnemer minstens één van de verbintenissen, bedoeld in § 1 of in artikel 20, § 1, 4°, c) niet nakomt, behoudens rechtvaardiging door overmacht.
+...
 
 ### ART. 29.
 
-Op basis van de definitief toegekende subsidie kunnen de initiatiefnemers voorschotten krijgen tot beloop van:<br /><br />1° 30 % van het toegekende subsidiebedrag bij ontvangst van een [kopie  <span class="reference">(verv. B.V.R. 23 april 2004, art. 16, I: 31 maart 2004)</span> ] van het bevel tot aanvang van de werkzaamheden;<br /><br />2° 60 % van het toegekende subsidiebedrag, eventueel aangepast aan het bedrag van de vastleggingen in min of in meer verricht sedert de datum van het toekennen van de subsidie, wanneer het bedrag van de uitgevoerde werkzaamheden, vermeerderd met de contractuele herzieningen, zoals blijkt uit de vorderingsstaten en de bijbehorende facturen van de aannemer, 75 % van het onder 1° bedoelde voorschot overschrijdt;<br /><br />3° 90 % van het toegekende subsidiebedrag aan te passen, zoals vermeld in 2° wanneer het bedrag van de uitgevoerde werkzaamheden, vermeerderd met de contractuele herzieningen, zoals blijkt uit de vorderingsstaten en de bijbehorende facturen van de aannemer, 75 % van het gecumuleerde voorschot, zoals bepaald in 2°, overschrijdt.<br /><br />De bedragen van de voorschotten worden afgerond tot het lager liggend duizendtal.<br /><br />[...  <span class="reference">(opgeh. B.V.R. 19 december 1998, art. 17, I: 5 februari 1999)</span> ]
+...
 
 ### ART. 30.
 
-[...  <span class="reference">(opgeh. B.V.R. 19 december 1998, art. 18, I: 5 februari 1999)</span> ]<br /><br />Indien uit de eindafrekening blijkt dat het totale bedrag van de werkelijk gedragen saneringskosten, uitgevoerd door de initiatiefnemers [bedoeld in artikel 26 § 1,  <span class="reference">(verv. B.V.R. 19 december 1998, art. 18, I: 5 februari 1999)</span> ] niet minstens [25.000 euro  <span class="reference">(verv. B.V.R. 13 december 2002, art. 5, I: 1 januari 2002)</span> ] exclusief BTW bedraagt, worden de inmiddels betaalde voorschotten, uitbetaald met toepassing van artikel 29, teruggevorderd.
+...
 
 ## HOOFDSTUK V ONTEIGENING TOT ALGEMEEN NUT
 
 ### ART. 31.
 
-<P>Een onteigening ten algemenen nutte kan gebeuren als:<BR>1° de eigenaar geen   voorstel tot vernieuwing, zoals bepaald in&nbsp;artikel 2.6.7.0.1 van het   besluit Vlaamse Codex Fiscaliteit van 20 december 2013 of artikel 26, ingediend   heeft binnen een periode van 1 jaar vanaf de registratie van de bedrijfsruimte   in de Inventaris;<BR>2° de vernieuwingswerkzaamheden, zoals vermeld in de   basisstudie voorzien in artikel 26, definitief zijn stopgezet zonder dat aan de   leegstand en/of de verwaarlozing een einde is gekomen.</P>
+<p>Een onteigening ten algemenen nutte kan gebeuren als:<br>
+1° de eigenaar geen voorstel tot vernieuwing, zoals bepaald in&nbsp;artikel 2.6.7.0.1 van het besluit Vlaamse Codex Fiscaliteit van 20 december 2013 of artikel 20, ingediend heeft binnen een periode van 1 jaar vanaf de registratie van de bedrijfsruimte in de Inventaris;<br>
+2° de vernieuwingswerkzaamheden, zoals vermeld in de basisstudie voorzien in artikel 20, definitief zijn stopgezet zonder dat aan de leegstand en/of de verwaarlozing een einde is gekomen.</p>
 
 ## SLOTBEPALINGEN
 
