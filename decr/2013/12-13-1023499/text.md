@@ -3229,7 +3229,11 @@ In de inventaris worden de datum van de indiening van het aanvaarde   vernieuwin
 
 ### ART. 2.6.7.4.1.
 
-<P>Nieuwe eigenaars van een geregistreerde bedrijfsruimte krijgen een   opschorting van de heffing gedurende twee jaar vanaf de datum van het verlijden   van de authentieke akte van overdracht. Als er verschillende eigenaars voor   dezelfde bedrijfsruimte zijn, en minstens één ervan een nieuwe eigenaar is,   gelet op de overdracht aan hem door erfopvolging of testament, krijgen ze een   opschorting van de heffing gedurende twee jaar vanaf de datum van   eigendomsoverdracht door erfopvolging of testament.<BR></P>  <P>De volgende rechtspersonen of natuurlijke personen worden niet beschouwd als   nieuwe eigenaar :<BR>1° de vennootschappen waarin de vroegere eigenaars van de   bedrijfsruimte rechtstreeks of onrechtstreeks participeren voor meer dan 10 %   van het aandeelhouderschap;<BR>2° bloed- en aanverwanten tot en met de derde   graad, tenzij in geval van overdracht door erfopvolging of   testament.<BR></P>
+<p>Nieuwe eigenaars van een geregistreerde bedrijfsruimte krijgen een opschorting van de heffing gedurende twee jaar vanaf de datum van het verlijden van de authentieke akte van overdracht. Als er verschillende eigenaars voor dezelfde bedrijfsruimte zijn, en minstens één ervan een nieuwe eigenaar is, gelet op de overdracht aan hem door erfopvolging of testament, krijgen ze een opschorting van de heffing gedurende twee jaar vanaf de datum van eigendomsoverdracht door erfopvolging of testament.</p>
+
+<p>De volgende rechtspersonen of natuurlijke personen worden niet beschouwd als nieuwe eigenaar :<br>
+1° de vennootschappen waarin de vroegere eigenaars van de bedrijfsruimte rechtstreeks of onrechtstreeks participeren;<br>
+2° bloed- en aanverwanten tot en met de derde graad, tenzij in geval van overdracht door erfopvolging of testament.</p>
 
 ### ART. 2.6.7.4.2.
 
