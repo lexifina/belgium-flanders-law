@@ -169,6 +169,10 @@ In bijlage III/4 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse
 
 ## HOOFDSTUK 2. Slotbepalingen
 
+### ART 19.
+
+Artikel 34, 1° van het decreet van 30 oktober 2020 tot wijziging van het Energiedecreet van 8 mei 2009, treedt in werking.
+
 ### ART 20.
 
 Bijlage III/3 bij het Energiebesluit van 19 november 2010, zoals gewijzigd bij artikel 17 van dit besluit, is van toepassing op de projecten waarvoor op de datum van inwerkingtreding van dit besluit nog geen voorlopige of definitieve projectspecifieke bandingfactor is vastgelegd, conform artikel 6.2/1.7, § 1 of § 2, van het Energiebesluit van 19 november 2010.<br>
