@@ -108,6 +108,10 @@ In artikel 40 van hetzelfde decreet worden de volgende wijzigingen   aangebracht
 
 In artikel 41 van hetzelfde decreet, vervangen bij het decreet van 19   december 2003 en gewijzigd bij het decreet van 22 juni 2012, worden de volgende   wijzigingen aangebracht :<BR>1° in paragraaf 2 worden de woorden « het aan de   heffing onderworpen goed » vervangen door de woorden « de aan de heffing   onderworpen bedrijfsruimte »;<BR>2° in paragraaf 3 worden de woorden « het aan   de heffing onderworpen goed » vervangen door de woorden « de aan de heffing   onderworpen bedrijfsruimte »;<BR>3° in paragraaf 3 worden de woorden «   betekening met een aangetekende brief » vervangen door de woorden « de   kennisgeving ».
 
+### ART. 28.
+
+...
+
 ### ART. 29.
 
 In artikel 44, § 2, van hetzelfde decreet, gewijzigd bij de decreten van   20 december 1996 en 10 maart 2006, wordt de zinsnede « het decreet van 2 juli   1981 betreffende het beheer van afvalstoffen, » vervangen door de zinsnede « het   decreet van 23 december 2011 betreffende het duurzaam beheer van   materiaalkringlopen en afvalstoffen ».
@@ -122,4 +126,4 @@ De houder van het vruchtgebruik, vermeld in artikel 2, 9°, c), van het   decree
 
 ### ART. 32.
 
-Dit decreet treedt in werking op 1 januari 2014, met uitzondering van   artikel 3 en artikel 28, die in werking treden op een door de Vlaamse Regering   te bepalen datum.
+Dit decreet treedt in werking op 1 januari 2014, met uitzondering van artikel 3, dat in werking treedt&nbsp;op een door de Vlaamse Regering te bepalen datum.
