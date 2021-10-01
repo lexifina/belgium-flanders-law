@@ -68,7 +68,7 @@ Het corona-ouderschapsverlof, vermeld in het koninklijk besluit nr. 23 van 13 me
 ### ART 8.
 
 § 1. Als het statutaire personeelslid, vermeld in artikel 1 van het besluit van 7 december 2007 en artikel 2 van het besluit van 12 november 2010, niet kan telewerken, ook niet in een andere gepaste functie, en er geen oplossing gevonden kan worden door overuren of andere vormen van verlof op te nemen, dan heeft dat personeelslid in de volgende gevallen recht op verlof:<br>
-1° als een minderjarig kind dat met hem samenwoont ofwel niet naar zijn kinderdagverblijf, ofwel niet naar school kan gaan, omdat het kinderdagverblijf, de klas of de school waarvan het deel uitmaakt wordt gesloten als gevolg van een maatregel om de verspreiding van COVID-19 te beperken;<br>
+1° in de gevallen, vermeld in artikel 8, eerste lid, van de wet van 23 december 2021 houdende tijdelijke ondersteuningsmaatregelen ten gevolge van de COVID-19-pandemie, overeenkomstig het tweede tot en met vierde lid van het voormelde artikel;<br>
 2° als het een gehandicapt kind ten laste heeft, ongeacht de leeftijd van dat kind, en dat kind niet naar een centrum voor opvang van gehandicapte personen kan gaan, omdat dat centrum wordt gesloten als gevolg van een maatregel om de verspreiding van COVID-19 te beperken;<br>
 3° als het een quarantainevoorschrift voorlegt waardoor het personeelslid zich niet naar zijn werkplek kan begeven gedurende een bepaalde periode.<br>
 <br>
