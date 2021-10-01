@@ -1,0 +1,17 @@
+{
+  "codex_id": 1035502,
+  "title": "Ministerieel besluit van 2021-04-13 houdende vaststelling van de dieren die een erfelijke aandoening vertonen als vermeld in artikel 19, § 2, en 27, § 1, van het koninklijk besluit van 27 april 2007 houdende erkenningsvoorwaarden voor inrichtingen voor dieren en de voorwaarden inzake de verhandeling van dieren",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035502/VolledigDocument?datum=2021-10-01",
+  "source_sha256": "9b405d213b3c981db9da72dd047a16625668d1dd33c0820dea589fe054233aaa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035502&param=informatie",
+  "as_of": "2021-10-01",
+  "made": "2021-04-13",
+  "gazette": "2021-04-29",
+  "numac": 2021031133,
+  "document_start": "2021-10-01",
+  "document_end": null,
+  "in_force": "2021-10-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
