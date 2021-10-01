@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036127,
+  "title": "Besluit van de Vlaamse Regering van 2021-09-17 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de internetvergoeding bij hybride werken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036127/VolledigDocument?datum=2021-10-01",
+  "source_sha256": "b4ca5c6d943ccee5bd0eacff33cf2a69c3c86a6bf6fb3fd120b89e7e2df87eec",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036127&param=informatie",
+  "as_of": "2021-10-01",
+  "made": "2021-09-17",
+  "gazette": "2021-10-11",
+  "numac": 2021022037,
+  "document_start": "2021-10-01",
+  "document_end": null,
+  "in_force": "2021-10-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
