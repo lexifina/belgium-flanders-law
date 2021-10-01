@@ -321,6 +321,47 @@ Aan artikel 9.1.31 van hetzelfde besluit wordt de volgende zin toegevoegd:<br>
 <br>
 "De minister bepaalt tot welke delen van de EPB-aangifte de eigenaar die geen aangifteplichtige is, toegang heeft.".
 
+### ART 24.
+
+Aan titel IX, hoofdstuk II, van hetzelfde besluit, het laatst gewijzigd bij besluit van de Vlaamse Regering van 11 december 2020, wordt een afdeling V, die bestaat uit artikel 9.2.17, toegevoegd, die luidt als volgt:<br>
+<br>
+"Afdeling V. Toegang van kredietgevers tot de energieprestatiecertificatendatabank<br>
+<br>
+Art. 9.2.17. § 1. Kredietgevers hebben in het kader van kredietaanvragen met een onroerende bestemming of voor energiebesparende renovaties toegang tot de volgende categorieën van persoonsgegevens van geldige energieprestatiecertificaten in de energieprestatiecertificatendatabank:<br>
+1° de identificatiegegevens van het gebouw of de gebouweenheid, met name:<br>
+a) de administratieve ligging (straat, huisnummer, busnummer, postcode, gemeente, CRAB-ID, AR-ID);<br>
+b) de gebouwID en de relevante parameters op gebouwniveau;<br>
+c) de gebouweenheidsID en de relevante parameters op gebouweenheidsniveau (verdieping, vleugel, deur) uit het gebouwenregister;<br>
+2° de gegevens over het energieprestatiecertificaat, met name:<br>
+a) het energieprestatiecertificaatnummer;<br>
+b) de ID van het energieprestatiecertificaat;<br>
+c) de geldigheidsdatum;<br>
+d) de datum van indienen van het EPC;<br>
+3° de energiegegevens van het gebouw, met name:<br>
+a) de energiescores;<br>
+b) de aanbevelingen;<br>
+c) de gemiddelde prijsindicatie van de aanbevelingen;<br>
+4° de karakteristieken van het gebouw, waaronder het bouwjaar van het gebouw.<br>
+<br>
+§ 2. Kredietgevers hebben in het kader van kredietaanvragen met een onroerende bestemming of voor energiebesparende renovaties toegang tot de volgende categorieën van persoonsgegevens van vervallen of vervangen energieprestatiecertificaten in de energieprestatiecertificatendatabank:<br>
+1° de identificatiegegevens van het gebouw of de gebouweenheid, met name:<br>
+a) de administratieve ligging (straat, huisnummer, busnummer, postcode, gemeente, CRAB-ID, AR-ID);<br>
+b) de gebouwID en de relevante parameters op gebouwniveau;<br>
+c) de gebouweenheidsID en de relevante parameters op gebouweenheidsniveau (verdieping, vleugel, deur) uit het gebouwenregister;<br>
+2° de gegevens over het energieprestatiecertificaat, met name:<br>
+a) het energieprestatiecertificaatnummer;<br>
+b) de ID van het energieprestatiecertificaat;<br>
+c) de geldigheidsdatum;<br>
+d) de datum van indienen van het EPC;<br>
+3° de energiegegevens van het gebouw, met name:<br>
+a) de energiescores.<br>
+<br>
+§ 3. Voor de verwerking van de persoonsgegevens, vermeld in paragraaf 1 en 2, door de kredietgevers, geldt een bewaartermijn van maximaal drie maanden nadat de kredietaanvraag werd toegekend of afgewezen. De kredietgever is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, van de persoonsgegevens, vermeld in het eerste lid.<br>
+<br>
+§ 4. De betrokkenen bij de verwerking van de persoonsgegevens in het kader van de toegang van kredietgevers tot de energieprestatiecertificatendatabank, vermeld in de eerste en tweede paragraaf, zijn:<br>
+1° de eigenaar van de te renoveren woning;<br>
+2° de bewoner van de te renoveren woning.".
+
 ### ART 25.
 
 In bijlage III/1 bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 21 december 2012 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 10 juli 2020, worden de volgende wijzigingen aangebracht:<br>
