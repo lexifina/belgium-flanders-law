@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036096,
+  "title": "Ministerieel besluit van 2021-09-22 over de inwerkingtreding van de toegang van de kredietgevers tot de energieprestatiecertificatendatabank",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036096/VolledigDocument?datum=2021-10-01",
+  "source_sha256": "54de26ceba707e1a93ec314310b09d7d3aff7598c5e0ea7fa2f0d76907b82db6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036096&param=informatie",
+  "as_of": "2021-10-01",
+  "made": "2021-09-22",
+  "gazette": "2021-09-29",
+  "numac": 2021021983,
+  "document_start": "2021-10-01",
+  "document_end": null,
+  "in_force": "2021-10-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
