@@ -32,3 +32,15 @@ In artikel 3, derde lid, van het besluit van de Vlaamse Regering van 13 juli 201
 ### ART 4.
 
 In artikel 4, derde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 19 juli 2019 en gewijzigd bij het besluit van de Vlaamse Regering van 8 mei 2020, wordt de zinsnede "het schooljaar 2019-2020, 2020-2021 en 2021-2022" telkens vervangen door de zinsnede "het schooljaar 2019-2020, 2020-2021, 2021-2022 en 2022-2023".
+
+### ART 5.
+
+Artikel 1 heeft uitwerking met ingang van 30 juni 2021.<br>
+<br>
+Artikel 2 heeft uitwerking met ingang van 1 mei 2021.<br>
+<br>
+De artikelen 3 en 4 hebben uitwerking met ingang van 1 september 2021.
+
+### ART 6.
+
+De Vlaamse minister, bevoegd voor onderwijs en vorming, is belast met de uitvoering van dit besluit.
