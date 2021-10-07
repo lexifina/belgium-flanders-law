@@ -193,24 +193,27 @@ Die kredieten worden opgesomd in de bij dit decreet gevoegde tabel. Zij worden a
 ### ART 9.
 
 § 1. Met toepassing van artikel 16 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 wordt het onbelast kredietsaldo in vastleggingskrediet op 31 december 2021 overgedragen naar het begrotingsjaar 2022 voor onderstaande begrotingsartikelen en samengevoegd met de overeenstemmende kredieten voor het begrotingsjaar 2022.
-<table border="1" style="width:1000px">
+<table border="1">
 	<tbody>
 		<tr>
 			<td>OMSCHRIJVING</td>
 			<td>BEGROTINGSARTIKEL</td>
 		</tr>
 		<tr>
-			<td>PROVISIONEEL KREDIET VOOR UITGAVEN TE FINANCIEREN D.M.V. DE NETTO OPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ (ARTIKEL 62 BIS VAN DE B.F.W. VAN 16.01.1989, ZOALS INGEVOEGD VIA DE B.W. VAN 13.07.2001)</td>
+			<td>PROVISIONEEL KREDIET VOOR UITGAVEN TE FINANCIEREN DOOR MIDDEL VAN DE NETTOOPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ (ARTIKEL 62BIS VAN DE B.F.W. VAN 16.01.1989, ZOALS INGEVOEGD VIA DE B.W. VAN 13.07.2001)</td>
 			<td>CB0-1CBG2AB-PR</td>
 		</tr>
 		<tr>
 			<td>PROVISIONEEL KREDIET VOOR INDEXERING VAN SALARISSEN EN SALARISTOELAGEN, DE SCHOOLPREMIES EN VOOR DE TOEPASSING VAN DE SOCIALE PROGRAMMATIES</td>
-			<td><br>
-			CB0-1CBG2AB-PR</td>
+			<td>CB0-1CBG2AB-PR</td>
 		</tr>
 		<tr>
-			<td>VAK/VEK BUFFER</td>
+			<td>VAK/VEK-BUFFER</td>
 			<td>CB0-1CBG2AB-PR</td>
+		</tr>
+		<tr>
+			<td>UITGAVEN TEN GEVOLGE VAN DOELSTELLINGEN INZAKE HERNIEUWBARE ENERGIE</td>
+			<td>CB0-1CBG2AG-PR</td>
 		</tr>
 		<tr>
 			<td>VOOR RELANCEPLAN VLAAMSE VEERKRACHT</td>
@@ -218,8 +221,7 @@ Die kredieten worden opgesomd in de bij dit decreet gevoegde tabel. Zij worden a
 		</tr>
 		<tr>
 			<td>PROVISIONEEL KREDIET VOOR ALLERHANDE UITGAVEN MET BETREKKING TOT DE ONDERSTEUNING VOOR DE INVOERING VAN DE WEGBEPRIJZING IN VLAANDEREN</td>
-			<td><br>
-			CB0-1CBX2AC-PR</td>
+			<td>CB0-1CBX2AC-PR</td>
 		</tr>
 		<tr>
 			<td>PROVISIE VOOR INVESTERINGEN IN HET KADER VAN HET ACTIEPLAN ENERGIE-EFFICIENTIE</td>
@@ -234,11 +236,15 @@ Die kredieten worden opgesomd in de bij dit decreet gevoegde tabel. Zij worden a
 			<td>CB0-1CDG2DB-WT</td>
 		</tr>
 		<tr>
-			<td>FISCALE UITGAVEN MET BETREKKING TOT DIENSTEN-EN PWA-CHEQUES</td>
+			<td>FISCALE UITGAVEN MET BETREKKING TOT DIENSTEN- EN PWA-CHEQUES</td>
 			<td>CB0-1CDG2DC-WT</td>
 		</tr>
 		<tr>
-			<td>VOOR HET NEMEN VAN PARTICIPATIES IN PMV (O.A. ZAAIKAPITAALFONDS VLAANDEREN MEDISCH CENTRUM)</td>
+			<td>DEPARTEMENT FB-DEELNEMINGEN AAN BEDRIJVEN- NIET VERDEELD</td>
+			<td>CB0-1CEX2BA-PA</td>
+		</tr>
+		<tr>
+			<td>VOOR HET NEMEN VAN PARTICIPATIES IN PMV (ONDER ANDERE ZAAIKAPITAALFONDS VLAANDEREN MEDISCH CENTRUM)</td>
 			<td>CB0-1CEX2BA-PA</td>
 		</tr>
 		<tr>
@@ -250,22 +256,38 @@ Die kredieten worden opgesomd in de bij dit decreet gevoegde tabel. Zij worden a
 			<td>CB0-1CEX2BA-PA</td>
 		</tr>
 		<tr>
-			<td>PARTICIPATIES - LRM IN HET KADER VAN SALK</td>
+			<td>PARTICIPATIES - LRM</td>
 			<td>CB0-1CEX2BA-PA</td>
 		</tr>
 		<tr>
-			<td>KREDIETVERLENINGEN AAN EN DEELNEMINGEN IN BEDRIJVEN EN FINANCIELE INSTELLINGEN EN ANDERE FINANCIELE PRODUCTEN - NIET VERDEELD</td>
-			<td><br>
-			CB0-1CEX2BA-PA</td>
+			<td>KREDIETVERLENINGEN AAN EN DEELNEMINGEN IN BEDRIJVEN EN FINANCIELE INSTELLINGEN EN ANDERE FINANCIELE PRODUCTEN-NIET VERDEELD</td>
+			<td>CB0-1CEX2BA-PA</td>
 		</tr>
 		<tr>
-			<td>DEPARTEMENT FB - DEELNEMINGEN AAN BEDRIJVEN- NIET VERDEELD</td>
+			<td>CORONA 2020 LENINGEN PMV</td>
+			<td>CB0-1CEX2BA-PA</td>
+		</tr>
+		<tr>
+			<td>RELANCE 165 - PMV-INSTRUMENTEN MAXIMAAL ONTPLOOIEN VOOR LENINGEN, KAPITAALSPARTICIPATIES EN WAARBORGEN:<br>
+			WELVAARTSFONDS (BEHEERD DOOR PMV) VAN 500 MILJOEN EURO (WAARVAN 240 MILJOEN EURO VLAAMS/ PUBLIEK EN REST PRIVAAT) - KAP VERH PMV</td>
+			<td>CB0-1CEX2BA-PA</td>
+		</tr>
+		<tr>
+			<td>RELANCE 165 - PMV-INSTRUMENTEN MAXIMAAL ONTPLOOIEN VOOR LENINGEN, KAPITAALSPARTICIPATIES EN WAARBORGEN:<br>
+			WELVAARTSFONDS (BEHEERD DOOR PMV) VAN 500 MILJOEN EURO (WAARVAN 240 MILJOEN EURO VLAAMS/ PUBLIEK EN REST PRIVAAT) - KAP VERH LRM</td>
+			<td>CB0-1CEX2BA-PA</td>
+		</tr>
+		<tr>
+			<td>RELANCE 171 - VLAANDEREN CHIPLAB VAN DE WERELD: EXTRA ESR-8-KAPITAAL OM VIA HET IMEC-XPAND-FONDS TE INVESTEREN IN BELOFTEVOLLE NANOTECH-SPIN-OFFS</td>
+			<td>CB0-1CEX2BA-PA</td>
+		</tr>
+		<tr>
+			<td>RELANCE 171 - VLAANDEREN CHIPLAB VAN DE WERELD: EXTRA ESR-8-KAPITAAL OM DE CLEANROOMCAPACITEIT VAN IMEC TE VERGROTEN</td>
 			<td>CB0-1CEX2BA-PA</td>
 		</tr>
 		<tr>
 			<td>COMPENSATIE VOOR DE GEDERFDE INKOMSTEN INGEVOLGE DE VOLLEDIGE VRIJSTELLING VAN DE ONROERENDE VOORHEFFING VOOR HET K.I. VAN NIEUW MATERIAAL EN OUTILLAGE, EN VOOR HET K.I. VAN ENERGIEZUINIGE WONINGEN EN GEBOUWEN</td>
-			<td><br>
-			CE0-1CDG2DA-WT</td>
+			<td>CE0-1CDG2DA-WT</td>
 		</tr>
 		<tr>
 			<td>BELEIDSWERKING EN INTERNATIONAAL BELEID ONDERSTEUNEN - TEWERKSTELLING</td>
@@ -274,6 +296,10 @@ Die kredieten worden opgesomd in de bij dit decreet gevoegde tabel. Zij worden a
 		<tr>
 			<td>BELEIDSWERKING EN INTERNATIONAAL BELEID ONDERSTEUNEN - BEHEER CULTUURGOEDEREN</td>
 			<td>HB0-1HBA2AF-WT</td>
+		</tr>
+		<tr>
+			<td>SPORTNOODLENINGEN</td>
+			<td>HB0-1HFD2NA-PA</td>
 		</tr>
 		<tr>
 			<td>ESF OP 2014-2020 (beperkt tot 3,4 miljoen euro)</td>
@@ -301,8 +327,7 @@ Die kredieten worden opgesomd in de bij dit decreet gevoegde tabel. Zij worden a
 		</tr>
 		<tr>
 			<td>TERUGBETALING AAN NEDERLAND VAN DE DOOR DEZE STAAT GEDANE INVESTERINGSUITGAVEN M.B.T. DE WESTERSCHELDE EN HET ZEEKANAAL GENT-TERNEUZEN</td>
-			<td><br>
-			MB0-1MIH2VB-WT</td>
+			<td>MB0-1MIH2VB-WT</td>
 		</tr>
 		<tr>
 			<td>PROVISIE KILOMETERHEFFING</td>
@@ -317,22 +342,20 @@ Die kredieten worden opgesomd in de bij dit decreet gevoegde tabel. Zij worden a
 			<td>MCU-3MIH2VA-WT</td>
 		</tr>
 		<tr>
-			<td>VERKEERSLICHTBECKNVLOEDING</td>
+			<td>VERKEERSLICHTBENVLOEDING</td>
 			<td>MDU-3MHH2RC-WT</td>
 		</tr>
 		<tr>
-			<td>ONTWIKKELEN VAN EEN COHERENT EN VOORUITSTREVEND DIERENWELZIJNSBELEID, EEN EFFICIENTE SENSIBILISERINGSSTRATEGIE EN EEN KORDAAT CONTROLEEN HANDHAVINGSBELEID (DIERENWELZIJNSFONDS)</td>
-			<td><br>
-			QB0-1QFD2MA-WT</td>
+			<td>ONTWIKKELEN VAN EEN COHERENT EN VOORUITSTREVEND DIERENWELZIJNSBELEID, EEN EFFICIENTE SENSIBILISERINGSSTRATEGIE EN EEN KORDAAT CONTROLE- EN HANDHAVINGSBELEID (DIERENWELZIJNSFONDS)</td>
+			<td>QB0-1QFD2MA-WT</td>
 		</tr>
 		<tr>
-			<td>HET UITWERKEN EN UITVOEREN VAN HET ACTIEPLAN `CLEAN POWER FOR TRANSPORT'</td>
+			<td>HET UITWERKEN EN UITVOEREN VAN HET ACTIEPLAN "CLEAN POWER FOR TRANSPORT"</td>
 			<td>QE0-1QEE2KC-WT</td>
 		</tr>
 		<tr>
 			<td>VLAAMSE MAATSCHAPPIJ VOOR SOCIAAL WONEN (VOOR SUBSIDIES SLOOP EN INFRASTRUCTUUR (SSI) EN EXCLUSIEF GEREALISEERDE OVERDRACHT VAN 2020 NAAR 2021)</td>
-			<td><br>
-			QF0-1QDG2QK-IS</td>
+			<td>QF0-1QDG2QK-IS</td>
 		</tr>
 		<tr>
 			<td>ONDERSTEUNEN VAN EEN KWALITEITSVOL ONROERENDERFGOEDBEHEER</td>
@@ -341,6 +364,14 @@ Die kredieten worden opgesomd in de bij dit decreet gevoegde tabel. Zij worden a
 		<tr>
 			<td>VLAAMSE RANDFONDS</td>
 			<td>SJ0-1SHD2FB-WT</td>
+		</tr>
+		<tr>
+			<td>AUDIT VLAANDEREN - LONEN (OVERDRACHT VOOR BEGROTINGSARTIKEL BEPERKT TOT KREDIETSALDO OP BASISALLOCATIE AUDIT LOKALE BESTUREN NA VERREKENING GEMEENSCHAPPELIJKE KOSTEN)</td>
+			<td>SB0-1SAC2ZZ-LO</td>
+		</tr>
+		<tr>
+			<td>AUDIT VLAANDEREN - WERKING EN TOELAGEN (OVERDRACHT VOOR BEGROTINGSARTIKEL BEPERKT TOT KREDIETSALDO OP BASISALLOCATIES AUDIT LOKALEN BESTUREN NA VERREKENING GEMEENSCHAPPELIJKE KOSTEN)</td>
+			<td>SB0-1SAC2ZZ-WT</td>
 		</tr>
 	</tbody>
 </table>
@@ -453,7 +484,7 @@ Die kredieten worden opgesomd in de bij dit decreet gevoegde tabel. Zij worden a
 ### ART 10.
 
 Met toepassing van artikel 21, eerste lid, 1°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 mogen de vastleggingskredieten op onderstaande begrotingsartikelen enkel worden herverdeeld bij beslissing van de Vlaamse Regering:
-<table border="1" style="width:300px">
+<table border="1">
 	<tbody>
 		<tr>
 			<td>BEGROTINGSARTIKEL</td>
@@ -528,6 +559,9 @@ Met toepassing van artikel 21, eerste lid, 1°, van de Vlaamse Codex Overheidsfi
 			<td>GB0-1GEF2QY-IS</td>
 		</tr>
 		<tr>
+			<td>GB0-1GIF2SX-IS</td>
+		</tr>
+		<tr>
 			<td>GE0-1GHF2TG-WT</td>
 		</tr>
 		<tr>
@@ -597,10 +631,12 @@ Met toepassing van artikel 21, eerste lid, 1°, van de Vlaamse Codex Overheidsfi
 			<td>MDU-3MHH2RE-WT</td>
 		</tr>
 		<tr>
-			<td>SG0-1KC2TD-LO</td>
+			<td>SG0-1SKC2TD-LO</td>
 		</tr>
 	</tbody>
 </table>
+<br>
+&nbsp;
 
 ## UITGAVEN VORIGE JAREN
 
@@ -612,13 +648,14 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 
 ### ART 12.
 
-§ 1. Binnen de perken van het betrokken begrotingsartikel kunnen volgende subsidies die geen toelage uitmaken, worden toegekend:<br>
-(in duizend euro)
-<table border="1" style="width:1000px">
+<br>
+<span style="font-size:medium"><span style="color:#000000">§ 1. Binnen de perken van het betrokken begrotingsartikel kunnen volgende subsidies die geen toelage uitmaken, worden toegekend:</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">(in duizend euro)</span></span>
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
 	<tbody>
 		<tr>
 			<td>OMSCHRIJVING</td>
-			<td>BEGROTINGSARTIKEL</td>
+			<td>BEGROTINGS- ARTIKEL</td>
 			<td>VAK</td>
 		</tr>
 		<tr>
@@ -628,8 +665,7 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>TOT DEKKING VAN HET AANDEEL IN DE INTRESTLASTEN VAN LENINGEN AANGEGAAN BIJ FORTIS BANK VOORTSPRUITEND UIT DE WAARBORG BETREFFENDE DE SCHULDVORDER. WAARVAN SPRAKE IN ARTIKEL 6BIS, VAN DE WET VAN 23.12.1963 OP DE ZIEKENHUIZEN (SECTOR 58.10)</td>
-			<td><br>
-			CB0-1CEG2BA-WT</td>
+			<td>CB0-1CEG2BA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -644,44 +680,37 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>SUBSIDIES IKV INTERNATIONALE WETENSCHAPPELIJKE EN INNOVATIESAMENWERKING</td>
-			<td><br>
-			EB0-1EBB2AB-WT</td>
+			<td>EB0-1EBB2AB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>DE CONCEPTIE, VOORBEREIDING EN UITVOERING VAN ACTIES MET BETREKKING TOT ECONOMIE</td>
-			<td><br>
-			EB0-1EBB2AC-WT</td>
+			<td>EB0-1EBB2AC-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>DE CONCEPTIE, VOORBEREIDING EN UITVOERING VAN ACTIES MET BETREKKING TOT WETENSCHAP EN INNOVATIE</td>
-			<td><br>
-			EB0-1EBB2AC-WT</td>
+			<td>EB0-1EBB2AC-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>BEVORDERING VAN DE VLAAMSE INFORMATIEMAATSCHAPPIJ IN HET KADER VAN DE LISSABONSTRATEGIE</td>
-			<td><br>
-			EB0-1EEB2JA-WT</td>
+			<td>EB0-1EEB2JA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>HET VERRICHTEN VAN WETENSCHAPPELIJK ONDERZOEK DOOR DE INSTELLINGEN VAN POSTINITIEEL ONDERWIJS EN HOGERE INSTITUTEN VOOR SCHONE KUNSTEN</td>
-			<td><br>
-			EB0-1EEB2KA-WT</td>
+			<td>EB0-1EEB2KA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>ONTWIKKELEN VAN TECHNOLOGIE EN GERICHTE TOEPASSINGEN VOOR REGENERATIEVE GENEESKUNDE</td>
-			<td><br>
-			EB0-1EFB2LC-WT</td>
+			<td>EB0-1EFB2LC-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>BEKENDMAKING VAN HET WETENSCHAPSBELEID EN HET WETENSCHAPPELIJK ONDERZOEK</td>
-			<td><br>
-			EB0-1EGB2OA-WT</td>
+			<td>EB0-1EGB2OA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -695,9 +724,13 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>DE UITVOERING VAN EU-PROJECTEN EN BIJZONDERE OPDRACHTEN VAN HET IVA AGENTSCHAP ONDERNEMEN (FONDS)</td>
-			<td><br>
-			EC0-1EAB4ZZ-WT</td>
+			<td>DE UITVOERING VAN EU PROJECTEN EN BIJZONDERE OPDRACHTEN VAN HET IVA AGENTSCHAP ONDERNEMEN (FONDS)</td>
+			<td>EC0-1EAB4ZZ-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>CORONA 2021-PROJECTEN ONDERWIJS</td>
+			<td>FB0-1FGD2GE-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -722,6 +755,16 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>PILOOTPROJECT LEERLINGENVERVOER</td>
+			<td>FB0-1FGD2GE-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>PROJECTEN TER VOORBEREIDING EN BEGELEIDING VAN DE TRANSITIE VAN VOORZIENINGEN GEFINANCIERD OF GESUBSIDIEERD BINNEN HET BELEIDSDOMEIN ONDERWIJS NAAR HET BELEIDSDOMEIN WELZIJN</td>
+			<td>FB0-1FGD2GE-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 17 EXTRA AANDACHT MEEST KWETSBAREN</td>
 			<td>FB0-1FGD2GE-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -751,6 +794,16 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
+			<td>RELANCE BUDGET 15 DIGITALE VERSNELLING LEERPLICHTONDERWIJS</td>
+			<td>FB0-1FGD2GF-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 17 EXTRA AANDACHT MEEST KWETSBAREN</td>
+			<td>FB0-1FGD2GF-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
 			<td>INTERNATIONALE SAMENWERKING</td>
 			<td>FB0-1FGD2GH-WT</td>
 			<td>&nbsp;</td>
@@ -771,6 +824,11 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
+			<td>RELANCE BUDGET 19 VERSTERKEN LEVENSLANG BLIJVEN LEREN</td>
+			<td>FB0-1FGD2GI-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
 			<td>STEM</td>
 			<td>FB0-1FGD2GI-WT</td>
 			<td>&nbsp;</td>
@@ -781,12 +839,37 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
+			<td>RELANCE BUDGET 19 VERSTERKEN LEVENSLANG BLIJVEN LEREN</td>
+			<td>FB0-1FGD2GK-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 112 VOORSPRONGFONDS HOGER ONDERWIJS</td>
+			<td>FB0-1FGD2GL-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 15 DIGITALE VERSNELLING LEERPLICHTONDERWIJS</td>
+			<td>FB0-1FGD2GL-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 19 VERSTERKEN LEVENSLANG BLIJVEN LEREN</td>
+			<td>FB0-1FGD2GL-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
 			<td>ALLERHANDE PROJECTEN IN HET KADER VAN KWALITEIT</td>
 			<td>FB0-1FGD2GN-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>BELEIDS-EN PRAKTIJKGERICHT ONDERZOEK EN EVALUATIE</td>
+			<td>BELEIDS- EN PRAKTIJKGERICHT ONDERZOEK EN EVALUATIE</td>
+			<td>FB0-1FGD2GN-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>EDUCATIES</td>
 			<td>FB0-1FGD2GN-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -796,7 +879,7 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>LEERMIDDELEN EN CURRICULUM</td>
+			<td>RELANCE BUDGET 17 EXTRA AANDACHT MEEST KWETSBAREN</td>
 			<td>FB0-1FGD2GN-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -816,14 +899,18 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>SUBSIDIES IKV KLIMAAT</td>
-			<td>FB0-1FGD4GM-WT</td>
+			<td>RELANCE BUDGET 15 DIGITALE VERSNELLING LEERPLICHTONDERWIJS</td>
+			<td>FB0-1FGD2GO-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>AANDEEL SALARISKOSTEN VOOR DE NEDERLANDSTALIGE PEUTERTUINEN, KINDERDAGVERBLIJVEN EN VOOR-EN NASCHOOLS TOEZICHT VAN DE SCHOLEN VAN HET GEMEENSCHAPSONDERWIJS IN BRUSSEL-HOOFDSTAD</td>
-			<td><br>
-			FC0-1FDD2DG-WT</td>
+			<td>AANDEEL SALARISKOSTEN VOOR DE NEDERLANDSTALIGE PEUTERTUINEN, KINDERDAGVERBLIJVEN EN VOOR- EN NASCHOOLS TOEZICHT VAN DE SCHOLEN VAN HET GEMEENSCHAPSONDERWIJS IN BRUSSEL-HOOFDSTAD</td>
+			<td>FC0-1FDD2DG-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 17 EXTRA AANDACHT MEEST KWETSBAREN</td>
+			<td>FC0-1FGD2GD-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -842,12 +929,22 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
+			<td>RELANCE BUDGET 15 DIGITALE VERSNELLING LEERPLICHTONDERWIJS</td>
+			<td>FC0-1FGD2GE-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 17 EXTRA AANDACHT MEEST KWETSBAREN</td>
+			<td>FC0-1FGD2GE-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
 			<td>STEUNPUNT LEERLINGENVERVOER BUITENGEWOON ONDERWIJS</td>
 			<td>FC0-1FGD2GE-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>SUBSIDIES IN HET KADER VAN HET INSCHRIJVINGSDECREEET/AANMELDEN</td>
+			<td>SUBSIDIES IN HET KADER VAN HET INSCHRIJVINGSDECREET/AANMELDEN</td>
 			<td>FC0-1FGD2GE-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -867,6 +964,21 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
+			<td>RELANCE BUDGET 15 DIGITALE VERSNELLING LEERPLICHTONDERWIJS</td>
+			<td>FD0-1FFD2FA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 19 VERSTERKEN LEVENSLANG BLIJVEN LEREN</td>
+			<td>FD0-1FFD2FA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 19 VERSTERKEN LEVENSLANG BLIJVEN LEREN</td>
+			<td>FD0-1FFD2FB-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
 			<td>VZW ROSAS VOOR CULTURELE INFRASTRUCTUUR</td>
 			<td>FD0-1FGD2BA-WT</td>
 			<td>&nbsp;</td>
@@ -877,19 +989,52 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
+			<td>RELANCE BUDGET 112 VOORSPRONGFONDS HOGER ONDERWIJS</td>
+			<td>FD0-1FGD2GL-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 15 DIGITALE VERSNELLING LEERPLICHTONDERWIJS</td>
+			<td>FD0-1FGD2GL-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 19 VERSTERKEN LEVENSLANG BLIJVEN LEREN</td>
+			<td>FD0-1FGD2GL-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
 			<td>LEEFVERGOEDINGEN AAN PERSONEN WAARVAN DE UITBETALING VAN HET LEEFLOON OPGESCHORT IS</td>
-			<td><br>
-			GB0-1GCE2HA-WT</td>
+			<td>GB0-1GCE2HA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 117 - ENKELBANDEN - SUBSIDIES</td>
+			<td>GB0-1GCE2HA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES TER ONDERSTEUNING VAN HET BELEID INZAKE DE OPDRACHTEN VAN DE JUSTITIEHUIZEN EN HET ELEKTRONISCH TOEZICHT</td>
-			<td><br>
-			GB0-1GCE2HA-WT</td>
+			<td>GB0-1GCE2HA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>BIJDRAGEN EN LIDMAATSCHAPSGELDEN VOOR INTERNATIONALE ORGANISATIES</td>
+			<td>GB0-1GCF2BA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 116 - ELEKTRONISCH PATIENTENDOSSIER - GEINTEGREERD ZORG EN ONDERSTEUNINGSPLAN - SUBSIDIES</td>
+			<td>GB0-1GCF2BA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 138 - OPVOLGING ACTIEPLAN MENTAAL WELZIJN - SUBSIDIES</td>
+			<td>GB0-1GCF2BA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 144 - ZORGZAME BUURTEN: VERSTERKEN VAN BUURTGERICHTE LOKALE INITIATIEVEN - SUBSIDIES</td>
 			<td>GB0-1GCF2BA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -915,12 +1060,16 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>EXPERIMENTELE EN PROJECTMATIGE SUBSIDIES IN HET KADER VAN ARMOEDEBESTRIJDING</td>
-			<td><br>
-			GB0-1GCF2CB-WT</td>
+			<td>GB0-1GCF2CB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>ONDERZOEK IN HET KADER VAN ARMOEDEBESTRIJDING</td>
+			<td>GB0-1GCF2CB-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 148 - LOKALE ARMOEDE INITIATIEVEN ONDERSTEUNEN</td>
 			<td>GB0-1GCF2CB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -930,9 +1079,8 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>UITVOERING VAN DE SAMENWERKINGSOVEREENKOMST `BESTENDIGING ARMOEDEBELEID EN STEUNPUNT ARMOEDE'</td>
-			<td><br>
-			GB0-1GCF2CB-WT</td>
+			<td>UITVOERING VAN DE SAMENWERKINGSOVEREENKOMST "BESTENDIGING ARMOEDEBELEID EN STEUNPUNT ARMOEDE"</td>
+			<td>GB0-1GCF2CB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -941,9 +1089,23 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>ALGEMEEN WELZIJNSBELEID GEFINANCIERD MET DE NETTO OPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ</td>
-			<td><br>
-			GB0-1GCF2EA-WT</td>
+			<td>ALGEMEEN WELZIJNSBELEID GEFINANCIERD MET DE NETTO-OPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ</td>
+			<td>GB0-1GCF2EA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 138 - OPVOLGING ACTIEPLAN MENTAAL WELZIJN - SUBSIDIES</td>
+			<td>GB0-1GCF2EA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 143 - ZORGZAME BUURTEN: ROL VAN APOTHEKERS ALS AANSPREEKPUNT WELZIJNSVRAGEN IN DE BUURT</td>
+			<td>GB0-1GCF2EA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 149 - ONDERSTEUNING BUURTWERK - SUBSIDIES</td>
+			<td>GB0-1GCF2EA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -958,14 +1120,12 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>FONDSEN VOOR BESTAANSZEKERHEID IN HET KADER VAN HET VLAAMS INTERSECTORAAL AKKOORD SOCIAL PROFIT</td>
-			<td><br>
-			GB0-1GCF2FA-WT</td>
+			<td>GB0-1GCF2FA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>TWEEDE PENSIOENPIJLER IN HET KADER VAN HET VLAAMS INTERSECTORAAL AKKOORD SOCIAL PROFIT</td>
-			<td><br>
-			GB0-1GCF2FA-WT</td>
+			<td>GB0-1GCF2FA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -994,19 +1154,27 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>HET ZORG-EN GEZONDHEIDSBELEID, GEFINANCIERD MET DE NETTO-OPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ</td>
-			<td><br>
-			GE0-1GDF2IA-WT</td>
+			<td>HET ZORG- EN GEZONDHEIDSBELEID, GEFINANCIERD MET DE NETTO-OPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ</td>
+			<td>GE0-1GDF2IA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>INVESTERINGSSUBSIDIES VOOR OUDERENVOORZIENINGEN GEFINANCIERD MET DE NETTO OPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ (PRO MEMORIE)</td>
-			<td><br>
-			GE0-1GDF2IA-WT</td>
+			<td>INVESTERINGSSUBSIDIES VOOR OUDERENVOORZIENINGEN GEFINANCIERD MET DE NETTO-OPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ (PRO MEMORIE)</td>
+			<td>GE0-1GDF2IA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>LASTEN UIT HET VERLEDEN IN HET KADER VAN HET SPECIAAL ONDERSTANDSFONDS</td>
+			<td>GE0-1GDF2IA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 114 - DIGITALE HULPVERLENING: KWALITEITSBEVORDERING - SUBSIDIES</td>
+			<td>GE0-1GDF2IA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 116 - ELEKTRONISCH PATIENTENDOSSIER - GEINTEGREERD ZORG EN ONDERSTEUNINGSPLAN - SUBSIDIES</td>
 			<td>GE0-1GDF2IA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -1031,7 +1199,12 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>ZIEKTEPREVENTIE-INFECTIEZIEKTEN EN VACCINATIES</td>
+			<td>RELANCE BUDGET 114 - DIGITALE HULPVERLENING: KWALITEITSBEVORDERING - SUBSIDIES</td>
+			<td>GE0-1GDF2JA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>ZIEKTEPREVENTIE - INFECTIEZIEKTEN EN VACCINATIES</td>
 			<td>GE0-1GDF2JA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -1052,6 +1225,21 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>PALLIATIEVE SAMENWERKINGSVERBANDEN EN MULTIDISCIPLINAIRE EQUIPES</td>
+			<td>GE0-1GDF2KA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 114 - DIGITALE HULPVERLENING: KWALITEITSBEVORDERING - SUBSIDIES</td>
+			<td>GE0-1GDF2KA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 115 - DIGITALISERING RIZIV-SECTOREN - SUBSIDIES</td>
+			<td>GE0-1GDF2KA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 116 - ELEKTRONISCH PATIENTENDOSSIER - GEINTEGREERD ZORG EN ONDERSTEUNINGSPLAN - SUBSIDIES</td>
 			<td>GE0-1GDF2KA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -1081,18 +1269,37 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
+			<td>RELANCE BUDGET 114 - DIGITALE HULPVERLENING: KWALITEITSBEVORDERING - SUBSIDIES</td>
+			<td>GE0-1GDF2LA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 137 - EENMALIGE INITIATIEVEN OM MENSEN DIE REEDS PSYCHISCH KWETSBAAR WAREN, TE ONDERSTEUNEN - SUBSIDIES</td>
+			<td>GE0-1GDF2LA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 138 - OPVOLGING ACTIEPLAN MENTAAL WELZIJN</td>
+			<td>GE0-1GDF2LA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
 			<td>VOORZIENINGEN IN DE GEZONDHEIDSZORG IN UITVOERING VAN HET SOCIAAL AKKOORD</td>
 			<td>GE0-1GDF2LA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>DE ERKENDE EN/OF GESUBSIDIEERDE THUISZORGVOORZIENINGEN EN -VERENIGINGEN, DIENSTEN VOOR LOGISTIEKE HULP EN AANVULLENDE THUISZORG (INCL. ONDERHOUDSKOSTEN VESTA)</td>
-			<td><br>
-			GE0-1GHF2TG-WT</td>
+			<td>DE ERKENDE EN/OF GESUBSIDIEERDE THUISZORGVOORZIENINGEN EN -VERENIGINGEN, DIENSTEN VOOR LOGISTIEKE HULP EN AANVULLENDE THUISZORG (INCLUSIEF ONDERHOUDSKOSTEN VESTA)</td>
+			<td>GE0-1GHF2TG-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>ONDERSTEUNING VAN PROJECTEN IN DE OUDERENZORG</td>
+			<td>GE0-1GHF2TG-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 45 - INZETTEN OP KWALITEIT EN `GOOD GOVERNANCE' VAN WZC &amp; VOORUITSCHUIF NIEUW BELEID - SUBSIDIES</td>
 			<td>GE0-1GHF2TG-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -1102,7 +1309,7 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>THUISEN OUDERENZORGBELEID</td>
+			<td>THUIS- EN OUDERENZORGBELEID</td>
 			<td>GE0-1GHF2TG-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -1117,12 +1324,17 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>THUIS-EN GEZINSZORG</td>
+			<td>THUIS- EN GEZINSZORG</td>
 			<td>GE0-1GHF2TH-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>GEISOLEERDE G-EN SP-DIENSTEN</td>
+			<td>GEISOLEERDE G EN SP DIENSTEN</td>
+			<td>GE0-1GHF2TI-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 115 - DIGITALISERING RIZIV-SECTOREN - SUBSIDIES</td>
 			<td>GE0-1GHF2TI-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -1142,10 +1354,14 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
+			<td>RELANCE BUDGET 115 - DIGITALISERING RIZIV-SECTOREN - SUBSIDIES</td>
+			<td>GE0-1GHF2TJ-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
 			<td>UITVOERING VAN ARTIKEL 62BIS FINANCIERINGSWET VOOR ALGEMEEN CULTUURBELEID</td>
 			<td>HB0-1HBA2AA-WT</td>
-			<td><br>
-			15.072</td>
+			<td>13.990</td>
 		</tr>
 		<tr>
 			<td>UITVOERING VAN ARTIKEL 62BIS FINANCIERINGSWET VOOR HET PARTICIPATIEBELEID</td>
@@ -1158,36 +1374,44 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
+			<td>CORONA 2021 - INNOVATIE MECHANISME</td>
+			<td>HB0-1HBA2AA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
 			<td>VRIJWILLIGERSBELEID</td>
 			<td>HB0-1HBA2AB-WT</td>
 			<td>0</td>
 		</tr>
 		<tr>
-			<td>GROTE INFRASTRUCTUUR UITZONDERLIJKE OMVANG</td>
-			<td>HB0-1HBA2BB-WT</td>
-			<td><br>
-			31.871</td>
+			<td>RELANCE BUDGET 84 - KUNST IN OPDRACHT</td>
+			<td>HB0-1HBA2BA-WT</td>
+			<td>190</td>
 		</tr>
 		<tr>
-			<td>RELANCE INVESTERINGEN IN INFRASTRUCTUUR</td>
+			<td>GROTE INFRASTRUCTUUR UITZONDERLIJKE OMVANG</td>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>33.809</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 156 - JEUGDINFRASTRUCTUUR GRATIS ENERGIESCANS</td>
 			<td>HB0-1HBA2BB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>VRIJWILLIGERSBELEID</td>
-			<td>HB0-1HBA4AA-WT</td>
-			<td>0</td>
+			<td>RELANCE BUDGET 156 - JEUGDINFRASTRUCTUUR KWALITEITSVOLLE BASISVOORZIENINGEN</td>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>TOEKENNING VAN PRIJZEN VAN DE VLAAMSE GEMEENSCHAP</td>
 			<td>HB0-1HBX2AD-WT</td>
-			<td>5.252</td>
+			<td>5.251</td>
 		</tr>
 		<tr>
 			<td>UITVOERING VAN DE VLAAMSE INTERSECTORALE AKKOORDEN (PC329.1)</td>
 			<td>HB0-1HBX2AE-WT</td>
-			<td><br>
-			35.115</td>
+			<td>35.508</td>
 		</tr>
 		<tr>
 			<td>UITVOERING VAN HET VLAAMS INTERSECTORAAL AKKOORD VIA4-KUNSTEN (PC304)</td>
@@ -1202,8 +1426,7 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		<tr>
 			<td>BEURZEN VAKMANSCHAP</td>
 			<td>HB0-1HCA2DB-WT</td>
-			<td><br>
-			3.246</td>
+			<td>3.246</td>
 		</tr>
 		<tr>
 			<td>PROJECTEN DIGITALISERING COLLECTIEREGISTRATIE</td>
@@ -1212,16 +1435,13 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>UITVOERING VAN ARTIKEL 62BIS FINANCIERINGSWET VOOR SOCIAAL CULTUREEL WERK (PRO MEMORIE)</td>
-			<td><br>
-			HB0-1HCA2DC-WT</td>
-			<td><br>
-			1.893</td>
+			<td>HB0-1HCA2DC-WT</td>
+			<td>1.893</td>
 		</tr>
 		<tr>
 			<td>BILATERALE SAMENWERKING</td>
 			<td>HB0-1HCA2EA-WT</td>
-			<td><br>
-			2.774</td>
+			<td>2.765</td>
 		</tr>
 		<tr>
 			<td>INTERNATIONALE EN INTERREGIONALE CULTURELE SAMENWERKING</td>
@@ -1234,14 +1454,19 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>SUBSIDIES AAN HET MEDIA-EDUCATIEPROJECT NIEUWS IN DE KLAS</td>
-			<td>HB0-1HEI2IC-WT</td>
-			<td>446</td>
+			<td>PROJECTSUBSIDIES JEUGD- en KINDERRECHTENBELEIDSPLAN</td>
+			<td>HB0-1HDI2GA-WT</td>
+			<td>2.153</td>
 		</tr>
 		<tr>
-			<td>ONDERSTEUNING VAN ALLERHANDE MEDIA-INITIATIEVEN IN HET BINNENLAND</td>
+			<td>ONDERSTEUNING VAN ALLERHANDE MEDIAINITIATIEVEN IN HET BINNENLAND</td>
 			<td>HB0-1HEI2JA-WT</td>
-			<td>883</td>
+			<td>746</td>
+		</tr>
+		<tr>
+			<td>INITIATIEVEN VLAAMS-NEDERLANDSE SAMENWERKING INZAKE MEDIA-BELEID</td>
+			<td>HB0-1HEI2KA-WT</td>
+			<td>419</td>
 		</tr>
 		<tr>
 			<td>UITGAVEN IN HET KADER VAN INTERNATIONALE ONTWIKKELINGSSAMENWERKING</td>
@@ -1254,12 +1479,12 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>VLAAMSE COFINANCIERING ASIEL-, MIGRATIEEN INTEGRATIEFONDS</td>
+			<td>VLAAMSE COFINANCIERING ASIEL-, MIGRATIE- EN INTEGRATIEFONDS</td>
 			<td>JB0-1JDB2AD-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>VLAAMSE COFINANCIERING ESF OP 20142020</td>
+			<td>VLAAMSE COFINANCIERING ESF OP 2014 - 2020</td>
 			<td>JB0-1JDB2AD-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -1275,44 +1500,37 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>UITGAVEN VOOR ONDERSTEUNING AANWERVINGSINCENTIVES LANGDURIG WERKZOEKENDEN</td>
-			<td><br>
-			JB0-1JDB2CH-WT</td>
+			<td>JB0-1JDB2CH-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>UITGAVEN IN HET KADER VAN HET VLAAMS INTERSECTORAAL AKKOORD (VIA) VOOR ZORG-, OPLEIDINGS-EN LOOPBAANKREDIET EN STEUN AAN WERKNEMERS VAN ONDERNEMINGEN IN MOEILIJKHEDEN</td>
-			<td><br>
-			JB0-1JDB2EB-WT</td>
+			<td>UITGAVEN IN HET KADER VAN HET VLAAMS INTERSECTORAAL AKKOORD (VIA) VOOR ZORG-, OPLEIDINGS- EN LOOPBAANKREDIET EN STEUN AAN WERKNEMERS VAN ONDERNEMINGEN IN MOEILIJKHEDEN</td>
+			<td>JB0-1JDB2EB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>UITGAVEN VOOR HET STIMULEREN VAN DE ARBEIDSHERVERDELING EN DE ARBEIDSDUURVERMINDERING IN DE OPENBARE SECTOR</td>
-			<td><br>
-			JB0-1JDB2EB-WT</td>
+			<td>JB0-1JDB2EB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>UITGAVEN VOOR HET STIMULEREN VAN DE ARBEIDSHERVERDELING EN DE ARBEIDSDUURVERMINDERING IN DE PRIVE SECTOR</td>
-			<td><br>
-			JB0-1JDB2EB-WT</td>
+			<td>UITGAVEN VOOR HET STIMULEREN VAN DE ARBEIDSHERVERDELING EN DE ARBEIDSDUURVERMINDERING IN DE PRIVE- SECTOR</td>
+			<td>JB0-1JDB2EB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>UITGAVEN IN HET KADER VAN HET VLAAMS INTERSECTORAAL AKKOORD (VIA) VOOR DE LANDINGSBANEN</td>
-			<td><br>
-			JB0-1JDB2EE-WT</td>
+			<td>JB0-1JDB2EE-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>UITGAVEN VOOR UITVOERING VAN DE SECTORCONVENANTS IN HET KADER VAN HET VLAAMS WERKGELEGENHEIDSAKKOORD</td>
-			<td><br>
-			JB0-1JDB2IB-WT</td>
+			<td>JB0-1JDB2IB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>UITGAVEN IN HET KADER VAN DUURZAAM HR-BELEID EN FOCUS OP TALENT IN BEDRIJVEN EN ORGANISATIES</td>
-			<td><br>
-			JB0-1JDB2IC-WT</td>
+			<td>JB0-1JDB2IC-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -1327,55 +1545,47 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>UITGAVEN VOOR ERSV'S TER COÖRDINATIE VAN HET SOCIO-ECONOMISCH STREEKONTWIKKELINGSBELEID EN TER FINANCIERING VAN DE PROJECTONTWIKKELAARS EAD</td>
-			<td><br>
-			JB0-1JDB2IC-WT</td>
+			<td>JB0-1JDB2IC-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>UITGAVEN IN HET KADER VAN MAATSCHAPPELIJK VERANTWOORD ONDERNEMEN (PRO MEMORIE)</td>
-			<td><br>
-			JB0-1JDB5AG-WT</td>
+			<td>JB0-1JDB5AG-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>UITGAVEN VOOR BETALING VLAAMSE COFINANCIERING IN HET KADER VAN HET ESF DOELSTELLING 2 PROGRAMMA 2007-2013 UIT TE KEREN VIA HET ESF AGENTSCHAP VLAANDEREN VZW</td>
-			<td><br>
-			JB0-1JDB5AG-WT</td>
+			<td>JB0-1JDB5AG-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>BEDRIJFS-, PRODUCT-EN PROCESINNOVATIE VOOR SOCIALE ECONOMIE</td>
+			<td>BEDRIJFS-, PRODUCT- EN PROCESINNOVATIE VOOR SOCIALE ECONOMIE</td>
 			<td>JB0-1JEB2GA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>ONDERSTEUNINGSMAATREGELEN VOOR HET ONDERNEMERSCHAP OP HET VLAK VAN DE SOCIALE ECONOMIE EN HET MAATSCHAPPELIJK VERANTWOORD ONDERNEMEN: BEHEERSVERGOEDING PARTICIPATIEFONDS VLAANDEREN</td>
-			<td><br>
-			JB0-1JEB2GA-WT</td>
+			<td>JB0-1JEB2GA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>ONDERSTEUNINGSMAATREGELEN VOOR HET ONDERNEMERSCHAP OP HET VLAK VAN DE SOCIALE ECONOMIE EN HET MAATSCHAPPELIJK VERANTWOORD ONDERNEMEN: BEHEERSVERGOEDING PMV</td>
-			<td><br>
-			JB0-1JEB2GA-WT</td>
+			<td>JB0-1JEB2GA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>ONDERSTEUNINGSMAATREGELEN VOOR LOKALE BESTUREN VOOR HET ONDERNEMERSCHAP OP HET VLAK VAN DE SOCIALE ECONOMIE EN HET MAATSCHAPPELIJK VERANTWOORD ONDERNEMEN</td>
-			<td><br>
-			JB0-1JEB2GA-WT</td>
+			<td>JB0-1JEB2GA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>ONDERSTEUNINGSMAATREGELEN VOOR VZW'S VOOR HET ONDERNEMERSCHAP OP HET VLAK VAN DE SOCIALE ECONOMIE EN HET MAATSCHAPPELIJK VERANTWOORD ONDERNEMEN</td>
-			<td><br>
-			JB0-1JEB2GA-WT</td>
+			<td>JB0-1JEB2GA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>VOOR DE BETALING VAN DE VLAAMSE CO-FINANCIERING IN HET KADER VAN HET OPERATIONEEL PROGRAMMA 2014-2020 UIT TE KEREN VIA DE AFDELING ESF EN DUURZAAM ONDERNEMEN VAN HET DEPARTEMENT WERK EN SOCIALE ECONOMIE</td>
-			<td><br>
-			JB0-1JEB2GA-WT</td>
+			<td>VOOR DE BETALING VAN DE VLAAMSE COFINANCIERING IN HET KADER VAN HET OPERATIONEEL PROGRAMMA 2014- 2020 UIT TE KEREN VIA DE AFDELING ESF EN DUURZAAM ONDERNEMEN VAN HET DEPARTEMENT WERK EN SOCIALE ECONOMIE</td>
+			<td>JB0-1JEB2GA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -1389,9 +1599,8 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>INVOEGEN ONDERSTEUNINGSMAATREGELEN SOCIALE ECONOMIE EN MAATSCHAPPELIJK VERANTWOORD ONDERNEMEN</td>
-			<td><br>
-			JB0-1JEB2HA-WT</td>
+			<td>INVOEG- EN ONDERSTEUNINGSMAATREGELEN SOCIALE ECONOMIE EN MAATSCHAPPELIJK VERANTWOORD ONDERNEMEN</td>
+			<td>JB0-1JEB2HA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -1401,26 +1610,22 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>NATIONALE LOTERIJMIDDELEN VOOR INVESTERINGSUITGAVEN BOUW EN UITRUSTING VAN BESCHUTTE WERKPLAATSEN</td>
-			<td><br>
-			JB0-1JEB2HA-WT</td>
+			<td>JB0-1JEB2HA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>SOCIALE WERKPLAATSEN INBEGREPEN KREDIETEN VOOR UITVOERING VAN DE VLAAMSE INTERSECTORALE AKKOORDEN (VIA) VOOR DE SOCIAL PROFIT</td>
-			<td><br>
-			JB0-1JEB2HA-WT</td>
+			<td>JB0-1JEB2HA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>LOKALE DIENSTENECONOMIE IKV DE SOCIALE ECONOMIE EN HET MAATSCHAPPELIJK VERANTWOORD ONDERNEMEN BIJ LOKALE OVERHEDEN</td>
-			<td><br>
-			JB0-1JEB2HB-WT</td>
+			<td>JB0-1JEB2HB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>LOKALE DIENSTENECONOMIE IKV DE SOCIALE ECONOMIE EN HET MAATSCHAPPELIJK VERANTWOORD ONDERNEMEN BIJ VZW'S</td>
-			<td><br>
-			JB0-1JEB2HB-WT</td>
+			<td>JB0-1JEB2HB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -1429,17 +1634,22 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
+			<td>EXPERTISECENTRUM INNOVATIEVE LEERWEGEN - LEVENSLANG LEREN</td>
+			<td>JB0-1JFB2FC-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
 			<td>DIENSTEN VOOR BEDRIJFSVERZORGING</td>
 			<td>KB0-1KDB2BB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>EUROPESE SCHOOLFRUITREGELING (EU-COFINANCIERING)</td>
+			<td>EUROPESE SCHOOLFRUITREGELING (EU- COFINANCIERING)</td>
 			<td>KB0-1KDB2BB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>LAND-EN TUINBOUWBELEID</td>
+			<td>LAND- EN TUINBOUWBELEID</td>
 			<td>KB0-1KDB2BB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -1459,26 +1669,23 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>PRAKTIJKCENTRA LAND-EN TUINBOUW AAN LANDBOUWCOMICEN EN WAARSCHUWINGSDIENSTEN</td>
-			<td><br>
-			KB0-1KDB2BB-WT</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>STIMULERING BIOLOGISCHE LANDBOUW (GEDEELTELIJK MET EU-COFINANCIERING)</td>
+			<td>PRAKTIJKCENTRA LAND- EN TUINBOUW AAN LANDBOUWCOMICEN EN WAARSCHUWINGSDIENSTEN</td>
 			<td>KB0-1KDB2BB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>TOEPASSEN VAN MILIEUVRIENDELIJKE LANDBOUWPRODUCTIEMETHODEN, BEDRIJFSBEGELEIDING (EU-COFINANCIERING)</td>
-			<td><br>
-			KB0-1KDB2BB-WT</td>
+			<td>STIMULERING BIOLOGISCHE LANDBOUW (GEDEELTELIJK MET EU COFINANCIERING)</td>
+			<td>KB0-1KDB2BB-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>TOEPASSEN VAN MILIEUVRIENDELIJKE LANDBOUWPRODUCTIEMETHODEN, BEDRIJFSBEGELEIDING (EU- COFINANCIERING)</td>
+			<td>KB0-1KDB2BB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>VEETEELTVERENIGINGEN IN DE FOKKERIJSECTOREN RUNDVEE, VARKENS, PAARDEN EN EZELS, KLEINE HERKAUWERS, PLUIMVEE EN KONIJNEN, GENETISCHE DIVERSITEIT EN AAN PAARDENPUNT VLAANDEREN VZW</td>
-			<td><br>
-			KB0-1KDB2BB-WT</td>
+			<td>KB0-1KDB2BB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -1489,6 +1696,11 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		<tr>
 			<td>ACTIES VAN HET FONDS VOOR LANDBOUW EN VISSERIJ (FONDS)</td>
 			<td>KB0-1KDB4BF-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>EVA VLAAMS PROMOTIECENTRUM VOOR AGRO- EN VISSERIJMARKETING (VLAM)</td>
+			<td>KB0-1KGB2FA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -1528,14 +1740,12 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>INSTELLINGEN, ORGANISATIES, VERENIGINGEN ACTIEF OP HET VLAK VAN WOON-WERKVERKEER</td>
-			<td><br>
-			MB0-1MEH2EA-WT</td>
+			<td>MB0-1MEH2EA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>MAATSCHAPPIJ VOOR HET HAVEN-, GRONDEN INDUSTRIALISATIEBELEID VOOR HET LINKERSCHELDEOEVERGEBIED</td>
-			<td><br>
-			MB0-1MEH2EA-WT</td>
+			<td>MAATSCHAPPIJ VOOR HET HAVEN-, GROND- EN INDUSTRIALISATIEBELEID VOOR HET LINKERSCHELDEOEVERGEBIED</td>
+			<td>MB0-1MEH2EA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -1560,19 +1770,17 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>IN HET KADER VAN DE COFINANCIERING DOOR HET VLAAMSE GEWEST VAN EUROPESE STEUNPROGRAMMA'S</td>
-			<td><br>
-			MB0-1MFH2LA-WT</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>MOBILITEITS- &amp; BEREIKBAARHEIDSMANAGERS (MBM)</td>
 			<td>MB0-1MFH2LA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>UITGAVEN VOOR ONDERSTEUNING AUTOBUS-EN AUTOCARSECTOR I.H.K.V. CORONAMAATREGELEN</td>
-			<td><br>
-			MB0-1MFH2LA-WT</td>
+			<td>MOBILITEITS &amp; BEREIKBAARHEIDSMANAGERS (MBM)</td>
+			<td>MB0-1MFH2LA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>UITGAVEN VOOR ONDERSTEUNING AUTOBUS- EN AUTOCARSECTOR IN HET KADER VAN CORONAMAATREGELEN</td>
+			<td>MB0-1MFH2LA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -1582,14 +1790,12 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>IN HET KADER VAN DE COFINANCIERING DOOR HET VLAAMSE GEWEST VAN EUROPESE STEUNPROGRAMMA'S</td>
-			<td><br>
-			MB0-1MHH2OA-WT</td>
+			<td>MB0-1MHH2OA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>MOBILITEITSCHARTERS TUSSEN DE VIJF VLAAMSE PROVINCIES EN DE VLAAMSE OVERHEID</td>
-			<td><br>
-			MB0-1MHH2OA-WT</td>
+			<td>MB0-1MHH2OA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -1598,21 +1804,18 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>VIAS INSTITUTE - CENTRUM VOOR RIJGESCHIKTHEID EN VOERTUIGAANPASSING (CARA)</td>
-			<td><br>
-			MB0-1MHH4NA-WT</td>
+			<td>VIAS INSTITUTE-CENTRUM VOOR RIJGESCHIKTHEID EN VOERTUIGAANPASSING (CARA)</td>
+			<td>MB0-1MHH4NA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>HINTERLANDCONNECTIVITEIT EN AANVERWANTE PROJECTEN EN HET KADER VAN DE VERHOGING VAN EFFICIENTIE VAN DE GOEDERENSTROMEN</td>
-			<td><br>
-			MB0-1MIH2SA-WT</td>
+			<td>HINTERLANDCONNECTIVITEIT EN AANVERWANTE PROJECTEN IN HET KADER VAN DE VERHOGING VAN EFFICIENTIE VAN DE GOEDERENSTROMEN</td>
+			<td>MB0-1MIH2SA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>INSTELLINGEN, ORGANISATIES EN VERENIGINGEN ACTIEF OP HET VLAK VAN DE HAVENS EN DE LOGISTIEK</td>
-			<td><br>
-			MB0-1MIH2SA-WT</td>
+			<td>MB0-1MIH2SA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -1626,9 +1829,8 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>DATABANK ONDERGROND VLAANDEREN, VLAAMSE GEOTHEEK, BODEMBESCHERMING EN NATUURLIJKE RIJKDOMMEN (INCL. UITGAVEN EU-COFINANCIERING)</td>
-			<td><br>
-			QB0-1QCE2EA-WT</td>
+			<td>DATABANK ONDERGROND VLAANDEREN, VLAAMSE GEOTHEEK, BODEMBESCHERMING EN NATUURLIJKE RIJKDOMMEN (INCLUSIEF UITGAVEN EU COFINANCIERING)</td>
+			<td>QB0-1QCE2EA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -1643,14 +1845,12 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>ONDERSTEUNING ORGANISATIES, PARTICULIEREN EN LOKALE ENTITEITEN DIE BIJDRAGEN TOT DE DOORWERKING VAN DE OPTIES VAN HET RUIMTELIJK BELEID</td>
-			<td><br>
-			QB0-1QCE2NB-WT</td>
+			<td>QB0-1QCE2NB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>INTERGEWESTELIJKE EN INTERNATIONALE PROJECTEN, COFINANCIERING VOOR COMMUNAUTAIRE INITIATIEVEN INZAKE RUIMTELIJKE ORDENING</td>
-			<td><br>
-			QB0-1QCE2NC-WT</td>
+			<td>QB0-1QCE2NC-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -1659,9 +1859,13 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
+			<td>ONDERSTEUNING BLUE DEAL</td>
+			<td>QB0-1QCE2ND-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
 			<td>ONDERSTEUNING EN PROJECTEN ONTVOOGDE GEMEENTEN TER VERHOGING VAN EEN STRATEGISCH EN DAADKRACHTIG LOKAAL RUIMTELIJK BELEID EN DE LOKALE BESTUURSKRACHT</td>
-			<td><br>
-			QB0-1QCE2ND-WT</td>
+			<td>QB0-1QCE2ND-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -1680,20 +1884,28 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
+			<td>RELANCE BUDGET 31 - GROENBLAUWE INFRASTRUCTUUR - OPEN RUIMTE</td>
+			<td>QB0-1QCE2ND-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>ONDERSTEUNING IN KADER VAN INTERNATIONAAL OMGEVINGSBELEID</td>
+			<td>QB0-1QCE2OA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
 			<td>BIJDRAGEN VERDRAGEN EN SAMENWERKINGSAKKOORDEN</td>
 			<td>QB0-1QCE2OB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>ONDERSTEUNING MILIEU-EN NATUURVERENIGINGEN VOOR DAC-STATUTEN EN UITVOERING VLAAMSE INTERPROFESSIONELE AKKOORDEN</td>
-			<td><br>
-			QB0-1QCE2OC-WT</td>
+			<td>ONDERSTEUNING MILIEU- EN NATUURVERENIGINGEN VOOR DAC- STATUTEN EN UITVOERING VLAAMSE INTERPROFESSIONELE AKKOORDEN</td>
+			<td>QB0-1QCE2OC-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>ONDERSTEUNING PROVINCIES EN VLAAMSE GEMEENSCHAPSCOMMISSIE VOOR MILIEUZORG OP SCHOOL</td>
-			<td><br>
-			QB0-1QCE2OC-WT</td>
+			<td>QB0-1QCE2OC-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -1702,7 +1914,7 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>ACTIES IN KADER VAN MAATREGELPAKKET `CLEAN POWER FOR TRANSPORT'</td>
+			<td>ACTIES IN KADER VAN MAATREGELPAKKET "CLEAN POWER FOR TRANSPORT"</td>
 			<td>QB0-1QEE2KC-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -1717,57 +1929,38 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>ONDERSTEUNING LAGERE OVERHEDEN EN VERENIGINGEN OPENBAAR BELANG VOOR WERKZAAMHEDEN EN ANDERE INITIATIEVEN<br>
-			I.U.V. BOSDECREET EN PROJECTEN TER VERGROENING VAN DE STAD</td>
-			<td><br>
-			QD0-1QCE2FA-WT</td>
+			<td>ONDERSTEUNING LAGERE OVERHEDEN EN VERENIGINGEN OPENBAAR BELANG VOOR WERKZAAMHEDEN EN ANDERE INITIATIEVEN I.U.V. BOSDECREET EN PROJECTEN TER VERGROENING VAN DE STAD</td>
+			<td>QD0-1QCE2FA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>ONDERSTEUNING MAATSCHAPPIJEN EN VERENIGINGEN VOOR BEVORDERING VAN NATUURBEHEER, -GEBRUIK EN -RECREATIE IN BUITENGEBIED</td>
-			<td><br>
-			QD0-1QCE2FA-WT</td>
+			<td>QD0-1QCE2FA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>ONDERSTEUNING PRIVE-BOSEIGENAARS VOOR DE UITVOERING VAN WERKZAAMHEDEN EN ANDERE INITIATIEVEN IN UITVOERING VAN HET BOSDECREET</td>
-			<td><br>
-			QD0-1QCE2FA-WT</td>
+			<td>ONDERSTEUNING PRIVEBOSEIGENAARS VOOR DE UITVOERING VAN WERKZAAMHEDEN EN ANDERE INITIATIEVEN IN UITVOERING VAN HET BOSDECREET</td>
+			<td>QD0-1QCE2FA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>UITGAVEN MET NETTO-OPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ VOOR DE AANKOOP EN BEHEER/INRICHTING VAN NATUURGEBIEDEN</td>
-			<td><br>
-			QD0-1QCE2FA-WT</td>
+			<td>QD0-1QCE2FA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>UITGAVEN MET NETTO-OPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ VOOR DE BESCHERMING VAN DIEREN</td>
-			<td><br>
-			QD0-1QCE2FA-WT</td>
+			<td>QD0-1QCE2FA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>INITIATIEVEN DIE HET INTERNATIONALE, FEDERALE, EN REGIONALE ENERGIEBELEID ONDERSTEUNEN (INCLUSIEF UITGAVEN MET EU-COFINANCIERING)</td>
-			<td><br>
-			QE0-1QEE2KA-WT</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>VZW COGEN VLAANDEREN VOOR DE ONDERSTEUNING VAN WARMTE-KRACHTKOPPELING</td>
+			<td>INITIATIEVEN DIE HET INTERNATIONALE, FEDERALE EN REGIONALE ENERGIEBELEID ONDERSTEUNEN (INCLUSIEF UITGAVEN MET EU COFINANCIERING)</td>
 			<td>QE0-1QEE2KA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>VZW ODE VLAANDEREN VOOR DE ONDERSTEUNING VAN DUURZAME ENERGIEBRONNEN</td>
-			<td><br>
-			QE0-1QEE2KA-WT</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>INITIATIEVEN DIE HET INTERNATIONALE, FEDERALE, EN REGIONALE ENERGIEBELEID ONDERSTEUNEN (INCLUSIEF UITGAVEN MET EU-COFINANCIERING)</td>
-			<td><br>
-			QE0-1QEE2KB-WT</td>
+			<td>INITIATIEVEN DIE HET INTERNATIONALE, FEDERALE EN REGIONALE ENERGIEBELEID ONDERSTEUNEN (INCLUSIEF UITGAVEN MET EU COFINANCIERING)</td>
+			<td>QE0-1QEE2KB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -1782,26 +1975,27 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>VOOR HET VERSTREKKEN VAN TAALCURSUSSEN EN VOOR DE ORGANISATIE VAN SPECIFIEKE TAALBELEIDSACTIES IN HET KADER VAN HET SOCIAAL HUURSTELSEL</td>
-			<td><br>
-			QF0-1QDG2PA-WT</td>
+			<td>QF0-1QDG2PA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>VOOR SHM'S TER COMPENSATIE VAN EEN FOUTIEVE HUURPRIJSBEREKENING</td>
+			<td>QF0-1QDG2PA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>VOOR SHM'S DIE ALS KREDIETBEMIDDELAAR OPTREDEN BIJ DE TOEKENNING VAN BIJZONDERE SOCIALE LENINGEN</td>
-			<td><br>
-			QF0-1QDG2PA-WT</td>
+			<td>QF0-1QDG2PA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>COMPENSATIE MINDER-INKOMSTEN VAN GEMEENTEN VOOR DE BIJSTELLING VAN DE ONROERENDE VOORHEFFING VAN 3,97% NAAR 2,40% OP WONINGEN DIE WORDEN VERHUURD AAN SVK'S</td>
-			<td><br>
-			QF0-1QDG2QA-WT</td>
+			<td>QF0-1QDG2QA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>COMPENSATIE MINDER-INKOMSTEN VAN PROVINCIES VOOR DE BIJSTELLING VAN DE ONROERENDE VOORHEFFING VAN 3,97% NAAR 2,40% OP WONINGEN DIE WORDEN VERHUURD AAN SVK'S</td>
-			<td><br>
-			QF0-1QDG2QA-WT</td>
+			<td>QF0-1QDG2QA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -1821,67 +2015,42 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>EXPERIMENTELE PROJECTEN IN HET KADER VAN HET VOEREN VAN EEN LOKAAL WOONBELEID (PRO MEMORIE)</td>
-			<td><br>
-			QF0-1QDG2SA-WT</td>
+			<td>QF0-1QDG2SA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>VOOR WONEN GEFINANCIERD MET DE NETTOOPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ (PRO MEMORIE)</td>
-			<td><br>
-			QF0-1QDG2TA-WT</td>
+			<td>VOOR WONEN GEFINANCIERD MET DE NETTO-OPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ (PRO MEMORIE)</td>
+			<td>QF0-1QDG2TA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>UITGAVEN TER UITVOERING VAN HET FONDS VOOR DE HUISVESTING MET INBEGRIP VAN ADL-PROJECTEN, VAN SUBSIDIES VOOR BIJDRAGE TOT VERBETERING VAN DE SOCIALE HUISVESTING EN DE INTERNATIONALE SAMENWERKING, VAN ZENDINGSREIZEN VAN DE VL. MIN. (FONDS)</td>
-			<td><br>
-			QF0-1QDG4TB-WT</td>
+			<td>QF0-1QDG4TB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>KMDA, BIJDRAGE VOORBEREIDINGSTRAJECT ERKENNING ALS UNESCO WERELDERFGOED</td>
+			<td>KMDA, BIJDRAGE VOORBEREIDINGSTRAJECT ERKENNING ALS UNESCO-WERELDERFGOED</td>
 			<td>QG0-1QGG2BB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>KOEPELSTRUCTUUR FONDATION LE CORBUSIER IN PARIJS VOOR UNESCO WERELDERFGOED LE CORBUSIER (ALGEMENE WERKINGSSUBSIDIE)</td>
-			<td><br>
-			QG0-1QGG2BB-WT</td>
+			<td>KOEPELSTRUCTUUR FONDATION LE CORBUSIER IN PARIJS VOOR UNESCO- WERELDERFGOED LE CORBUSIER (ALGEMENE WERKINGSSUBSIDIE)</td>
+			<td>QG0-1QGG2BB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>KOEPELSTRUCTUUR UNESCO WERELDERFGOED BEUKENWOUDEN (ALGEMENE WERKINGSSUBSIDIE)</td>
-			<td><br>
-			QG0-1QGG2BB-WT</td>
+			<td>KOEPELSTRUCTUUR UNESCO- WERELDERFGOED BEUKENWOUDEN (ALGEMENE WERKINGSSUBSIDIE)</td>
+			<td>QG0-1QGG2BB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>KOEPELSTRUCTUUR UNESCO WERELDERFGOED KOLONIEN VAN WELDADIGHEID (ALGEMENE WERKINGSSUBSIDIE)</td>
-			<td><br>
-			QG0-1QGG2BB-WT</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>KOEPELSTRUCTUUR UNESCO WERELDERFGOEDEREN BEGIJNHOVEN (ALGEMENE WERKINGSSUBSIDIE)</td>
-			<td><br>
-			QG0-1QGG2BB-WT</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>KOEPELSTRUCTUUR UNESCO WERELDERFGOEDEREN BELFORTEN (ALGEMENE WERKINGSSUBSIDIE)</td>
-			<td><br>
-			QG0-1QGG2BB-WT</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>REGIONAAL LANDSCHAP KEMPEN EN MAASLAND BIJDRAGE VOORBEREIDINGSTRAJECT ERKENNING ALS UNESCO WERELDERFGOED VAN DE HOGE KEMPEN EN DE AANGRENZENDE MIJNSITES</td>
-			<td><br>
-			QG0-1QGG2BB-WT</td>
+			<td>REGIONAAL LANDSCHAP KEMPEN EN MAASLAND BIJDRAGE VOORBEREIDINGSTRAJECT ERKENNING ALS UNESCO-WERELDERFGOED VAN DE HOGE KEMPEN EN DE AANGRENZENDE MIJNSITES</td>
+			<td>QG0-1QGG2BB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>REGULARISATIE VAN DE GEWEZEN DAC'ERS TEWERKGESTELD BIJ VZW'S EN ANDERE INSTELLINGEN</td>
-			<td><br>
-			QG0-1QGG2BC-WT</td>
+			<td>QG0-1QGG2BC-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -1896,8 +2065,7 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>ONDERSTEUNING VAN EEN VLAAMS BELEID DUURZAME ONTWIKKELING EN DE STRUCTURELE ONDERBOUWING VAN DUURZAAM BOUWEN EN WONEN IN VLAANDEREN</td>
-			<td><br>
-			SA0-1SEA2BC-WT</td>
+			<td>SA0-1SEA2BC-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -1907,26 +2075,22 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>BELEIDSDOMEINOVERSCHRIJDENDE PROJECTEN EN EVENEMENTEN DIE DE UITSTRALING VAN VLAANDEREN BEVORDEREN</td>
-			<td><br>
-			SA0-1SEA2BD-WT</td>
+			<td>SA0-1SEA2BD-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>ACTIVITEITEN TER ONDERSTEUNING VAN DE VLAAMS-NEDERLANDSE CULTURELE SAMENWERKING IN DERDE LANDEN</td>
-			<td><br>
-			SA0-1SNA2IB-WT</td>
+			<td>SA0-1SNA2IB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES AAN PERSONEN, VERENIGINGEN EN INSTELLINGEN IN BUITENLAND EN BINNENLAND IN KADER VAN DE ACTIVITEITEN VAN DE INTERNATIONALE DIPLOMATIEKE VERTEGENWOORDIGERS VAN VLAANDEREN</td>
-			<td><br>
-			SA0-1SNA2IB-WT</td>
+			<td>SA0-1SNA2IB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES AAN INTERNATIONALE ORGANISATIES EN AAN BINNENLANDSE PROMOTOREN TER UITVOERING VAN HET MULTILATERAAL BELEID</td>
-			<td><br>
-			SA0-1SNA2ID-WT</td>
+			<td>SA0-1SNA2ID-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -1935,15 +2099,13 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>SUBSIDIES AAN PERSONEN, VERENIGINGEN EN (OVERHEIDS)INSTELLINGEN IN HET BINNENEN BUITENLAND TER UITVOERING VAN HET VLAAMS BUITENLANDS BELEID EN EUROPESE AANGELEGENHEDEN</td>
-			<td><br>
-			SA0-1SNA2ID-WT</td>
+			<td>SUBSIDIES AAN PERSONEN, VERENIGINGEN EN (OVERHEIDS)INSTELLINGEN IN HET BINNEN- EN BUITENLAND TER UITVOERING VAN HET VLAAMS BUITENLANDS BELEID EN EUROPESE AANGELEGENHEDEN</td>
+			<td>SA0-1SNA2ID-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES TER ONDERSTEUNING VAN ALLERHANDE INITIATIEVEN IN VERBAND MET DE REALISATIES VAN PROJECTEN, PROGRAMMA'S EN INVESTERINGEN IN HET KADER VAN DE VLAAMSE SAMENWERKING MET REGIO'S EN LANDEN IN ONTWIKKELING</td>
-			<td><br>
-			SA0-1SOA2LA-WT</td>
+			<td>SA0-1SOA2LA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -1953,14 +2115,12 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>SUBSIDIES VOOR REALISATIE VAN PROJECTEN, PROGRAMMA'S EN INVESTERINGEN IN HET KADER VAN DE VERANKERING VAN DE INTERNATIONALE ONTWIKKELINGSAGENDA IN VLAANDEREN</td>
-			<td><br>
-			SA0-1SOA2LB-WT</td>
+			<td>SA0-1SOA2LB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>ALLERHANDE SUBSIDIES IN HET KADER VAN HET VLAAMS INTERSECTORAAL AKKOORD `SOCIAL PROFIT'</td>
-			<td><br>
-			SA0-1SOA2LC-WT</td>
+			<td>ALLERHANDE SUBSIDIES IN HET KADER VAN HET VLAAMS INTERSECTORAAL AKKOORD "SOCIAL PROFIT"</td>
+			<td>SA0-1SOA2LC-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -1974,9 +2134,13 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>AAN LOKALE OVERHEDEN EN INSTELLINGEN IN HET BINNENLAND IN HET KADER VAN HET VERBETEREN VAN HET INTERBESTUURLIJK E-GOVERNMENTBELEID WAARBIJ WORDT INGEZET OP HET VERSTERKEN VAN DE INFORMATIE-EN ICT-CAPACITEIT, DE REALISATIE VAN INTERBESTUURLIJKE KETENINTEGRATIE EN HET BETREKKEN VAN LOKALE BESTUREN EN INSTELLINGEN ALS VOLWAARDIGE PARTNERS</td>
-			<td><br>
-			SC0-1SJA2NA-WT</td>
+			<td>AAN LOKALE OVERHEDEN EN INSTELLINGEN IN HET BINNENLAND IN HET KADER VAN HET VERBETEREN VAN HET INTERBESTUURLIJK E-GOVERNMENTBELEID WAARBIJ WORDT INGEZET OP HET VERSTERKEN VAN DE INFORMATIE- EN ICT-CAPACITEIT, DE REALISATIE VAN INTERBESTUURLIJKE KETENINTEGRATIE EN HET BETREKKEN VAN LOKALE BESTUREN EN INSTELLINGEN ALS VOLWAARDIGE PARTNERS</td>
+			<td>SC0-1SJA2NA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 74 - VASTGOEDINFORMATIE</td>
+			<td>SC0-1SJA2NA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -1985,14 +2149,13 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>ALLERHANDE UITGAVEN MBT HET GELIJKEKANSENBELEID</td>
+			<td>ALLERHANDE UITGAVEN MET BETREKKING TOT HET GELIJKEKANSENBELEID</td>
 			<td>SJ0-1SFC2CA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>INTERFEDERAAL CENTRUM VOOR GELIJKE KANSEN EN BESTRIJDING VAN DISCRIMINATIE EN RACISME</td>
-			<td><br>
-			SJ0-1SFC2CA-WT</td>
+			<td>SJ0-1SFC2CA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -2001,12 +2164,27 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>ALLERHANDE UITGAVEN MBT HET INTEGRATIE-EN INBURGERINGSBELEID</td>
+			<td>RELANCE BUDGET 52 - IEDEREEN DIGITAAL - DIGIBUDDIES</td>
+			<td>SJ0-1SFC2CA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 53 - IEDEREEN DIGITAAL - OPLEIDING &amp; VORMING</td>
+			<td>SJ0-1SFC2CA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 54 - IEDEREEN DIGITAAL - TOEGANG TOT COMPUTERS &amp; INTERNET</td>
+			<td>SJ0-1SFC2CA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>ALLERHANDE UITGAVEN MBT HET INTEGRATIE- EN INBURGERINGSBELEID</td>
 			<td>SJ0-1SFC2DA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>INITIATIEVEN TER VERSTERKING VAN HET INTEGRATIE-EN INBURGERINGSBELEID</td>
+			<td>INITIATIEVEN TER VERSTERKING VAN HET INTEGRATIE- EN INBURGERINGSBELEID</td>
 			<td>SJ0-1SFC2DA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2021,26 +2199,28 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>TOELAGEN AAN VZW'S MBT HET INTEGRATIE-EN INBURGERINGSBELEID</td>
+			<td>TOELAGEN AAN VZW'S MBT HET INTEGRATIE- EN INBURGERINGSBELEID</td>
 			<td>SJ0-1SFC2DA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>AAN INITIATIEVEN IN HET KADER VAN DE VERSTERKING VAN DE VLAAMSE INBRENG IN BRUSSEL EN VAN DE VERSTERKING VAN DE BAND TUSSEN BRUSSEL EN DE REST VAN VLAANDEREN</td>
-			<td><br>
-			SJ0-1SGI2EB-WT</td>
+			<td>SJ0-1SGI2EB-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>BRUSSELSE CENTRA VOOR VOLWASSENENONDERWIJS</td>
+			<td>SJ0-1SGI2EV-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>VOOR ALLERHANDE INITIATIEVEN DIE HET VLAAMSE KARAKTER EN/OF DE INTEGRATIE BEVORDEREN VAN ANDERSTALIGEN</td>
-			<td><br>
-			SJ0-1SHD2FA-WT</td>
+			<td>SJ0-1SHD2FA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>INITIATIEVEN OM GERICHT IN TE SPELEN OP DE GROOTSTEDELIJKE EFFECTEN BINNEN DE VLAAMSE RAND</td>
-			<td><br>
-			SJ0-1SHD2FB-WT</td>
+			<td>SJ0-1SHD2FB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -2059,7 +2239,7 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>RELANCEMAATREGEL FIETSEN GEMEENTEWEGEN</td>
+			<td>RELANCE BUDGET 14 - FIETS - GEMEENTEWEGEN</td>
 			<td>SJ0-1SMC2GA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2079,12 +2259,17 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
+			<td>UITVOERING COMPENSATIEREGELING NIET-VIA-PERSONEEL VIA 6</td>
+			<td>SJ0-1SMC2GC-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
 			<td>INITIATIEVEN BINNENLANDS BESTUUR MET EEN DIGITALE COMPONENT</td>
 			<td>SJ0-1SMC2GD-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>RELANCEMAATREGEL DIGITALISERING</td>
+			<td>RELANCE BUDGET 51 - GEMEENTE ZONDER GEMEENTEHUIS</td>
 			<td>SJ0-1SMC2GD-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2095,8 +2280,7 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>ONDERSTEUNING NAAR DUURZAME EN CREATIEVE STEDEN EN SPECIFIEKE BIJDRAGEN AAN STEDEN EN THEMATISCHE PROJECTEN IKV HET STEDENBELEID</td>
-			<td><br>
-			SJ0-1SMC2HA-WT</td>
+			<td>SJ0-1SMC2HA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -2105,12 +2289,12 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>RELANCEMAATREGEL STADSVERNIEUWING</td>
+			<td>RELANCE BUDGET 104 - STADSVERNIEUWING</td>
 			<td>SJ0-1SMC2HA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>RELANCEMAATREGEL WIJKVERBETERING</td>
+			<td>RELANCE BUDGET 150 - WIJKVERBETERING</td>
 			<td>SJ0-1SMC2HA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2127,13 +2311,14 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 	</tbody>
 </table>
 <br>
-§ 2. Binnen de perken van het betrokken begrotingsartikel kunnen volgende toelagen worden toegekend:<br>
-(in duizend euro)
-<table border="1" style="width:1000px">
+<span style="font-size:medium"><span style="color:#000000">§ 2. Binnen de perken van het betrokken begrotingsartikel kunnen volgende toelagen worden toegekend:</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">(in duizend euro)</span></span>
+
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
 	<tbody>
 		<tr>
 			<td>OMSCHRIJVING</td>
-			<td>BEGROTINGSARTIKEL</td>
+			<td>BEGROTINGS- ARTIKEL</td>
 			<td>VAK</td>
 		</tr>
 		<tr>
@@ -2147,26 +2332,23 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>ACTIEPLAN `MENSELIJK KAPITAAL VOOR WETENSCHAP, TECHNOLOGIE EN INNOVATIE'</td>
+			<td>ACTIEPLAN "MENSELIJK KAPITAAL VOOR WETENSCHAP, TECHNOLOGIE EN INNOVATIE"</td>
 			<td>EB0-1EEB2GS-IS</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>BIJZONDERE ONDERZOEKSFONDSEN VOOR DE AANSTELLING VAN BIJKOMENDE ZAP-MANDATEN</td>
-			<td><br>
-			EB0-1EEB2GS-IS</td>
+			<td>BIJZONDERE ONDERZOEKSFONDSEN VOOR DE AANSTELLING VAN BIJKOMENDE ZAP- MANDATEN</td>
+			<td>EB0-1EEB2GS-IS</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>HET VERRICHTEN VAN WETENSCHAPPELIJK ONDERZOEK DOOR DE INSTELLINGEN VAN POSTINITIEEL ONDERWIJS EN HOGERE INSTITUTEN VOOR SCHONE KUNSTEN - ITG</td>
-			<td><br>
-			EB0-1EEB2GS-IS</td>
+			<td>EB0-1EEB2GS-IS</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>EXPERTISECELLEN VOOR DE POPULARISERING VAN WETENSCHAP, TECHNIEK EN TECHNOLOGISCHE INNOVATIE IN DE SCHOOT VAN DE ASSOCIATIES</td>
-			<td><br>
-			EB0-1EGB2OS-IS</td>
+			<td>EB0-1EGB2OS-IS</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -2190,19 +2372,19 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
+			<td>RELANCE BUDGET 112 VOORSPRONGFONDS HOGER ONDERWIJS</td>
+			<td>FD0-1FED2EA-IS</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 112 VOORSPRONGFONDS HOGER ONDERWIJS</td>
+			<td>FD0-1FED2EB-IS</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
 			<td>VZW DE RAND VOOR DE WERKING VAN HET MUSEUM FELIX DE BOECK</td>
 			<td>HB0-1HBA2AY-IS</td>
 			<td>97</td>
-		</tr>
-		<tr>
-			<td>KUNSTHUIS</td>
-			<td>HB0-1HBA2BV-IS</td>
-			<td>0</td>
-		</tr>
-		<tr>
-			<td>KANTL</td>
-			<td>HB0-1HBA2BW-IS</td>
-			<td>0</td>
 		</tr>
 		<tr>
 			<td>LITERATUUR VLAANDEREN</td>
@@ -2212,10 +2394,10 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		<tr>
 			<td>BEHEER KUNSTSITE</td>
 			<td>HB0-1HCA2CM-IS</td>
-			<td>2.202</td>
+			<td>2.199</td>
 		</tr>
 		<tr>
-			<td>VLAAMSE COFINANCIERING ASIEL-, MIGRATIE-EN INTEGRATIEFONDS</td>
+			<td>VLAAMSE COFINANCIERING ASIEL-, MIGRATIE- EN INTEGRATIEFONDS</td>
 			<td>JB0-1JDB2AD-IS</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2231,23 +2413,26 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>UITGAVEN VOOR GESUBSIDIEERDE CONTRACTUELEN TEWERKGESTELD BIJ DE VLAAMSE OVERHEID</td>
-			<td><br>
-			JB0-1JDB2CH-IS</td>
+			<td>JB0-1JDB2CH-IS</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>UITGAVEN VOOR ONDERSTEUNING AANWERVINGSINCENTIVES LANGDURIG WERKZOEKENDEN</td>
-			<td><br>
-			JB0-1JDB2CH-IS</td>
+			<td>JB0-1JDB2CH-IS</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>VLAAMS INFOCENTRUM LAND-EN TUINBOUW (VILT)</td>
+			<td>SUBSIDIE MVO SUSTATOOL</td>
+			<td>JB0-1JEB2GY-IS</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>VLAAMS INFOCENTRUM LAND- EN TUINBOUW (VILT)</td>
 			<td>KB0-1KDB2AU-IS</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>EIGEN VERMOGEN ILVO-DIVERSE SUBSIDIES</td>
+			<td>EIGEN VERMOGEN ILVO - DIVERSE SUBSIDIES</td>
 			<td>KB0-1KDB2BV-IS</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2273,8 +2458,7 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>ONDERZOEK MET HET OOG OP HET REALISEREN VAN DE DUURZAME ONTWIKKELINGSDOELSTELLINGEN VAN DE VN WAT LANDBOUW EN VOEDING BETREFT</td>
-			<td><br>
-			KB0-1KFB2EY-IS</td>
+			<td>KB0-1KFB2EY-IS</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -2294,8 +2478,7 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>BOUW EN DE RENOVATIE VAN KOOPWONINGEN IN HET KADER VAN SOCIALE WOONPROJECTEN (UP BESLUIT VAN 18/07/2008, HDSTK III, AFD II, ONDERAFD IV EN VI)</td>
-			<td><br>
-			QF0-1QDG2QK-IS</td>
+			<td>QF0-1QDG2QK-IS</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -2305,8 +2488,7 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>VOOR DE KOSTEN DIE WOONACTOREN MAKEN BIJ HET CONTROLEREN VAN DE EIGENDOMSVOORWAARDE IN HET BUITENLAND</td>
-			<td><br>
-			QF0-1QDG2QK-IS</td>
+			<td>QF0-1QDG2QK-IS</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -2321,8 +2503,7 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>VOOR UITGAVEN MET BETREKKING TOT RATIONEEL ENERGIEVERBRUIK EN GROENE WARMTE (PRO MEMORIE)</td>
-			<td><br>
-			QF0-1QDG2QK-IS</td>
+			<td>QF0-1QDG2QK-IS</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -2346,6 +2527,11 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
+			<td>RELANCE BUDGET 50 - DIGITALISERING INTEGRATIE &amp; INBURGERING</td>
+			<td>SJ0-1SFC2CY-IS</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
 			<td>TOELAGEN AAN HET AGENTSCHAP INTEGRATIE EN INBURGERING</td>
 			<td>SJ0-1SFC2DY-IS</td>
 			<td>&nbsp;</td>
@@ -2353,13 +2539,14 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 	</tbody>
 </table>
 <br>
-§ 3. Binnen de perken van het betrokken begrotingsartikel kunnen aan de volgende begunstigden en voor maximaal de volgende bedragen subsidies die geen toelage uitmaken, worden toegekend:<br>
-(in duizend euro)
-<table border="1" style="width:1000px">
+<span style="font-size:medium"><span style="color:#000000">§ 3. Binnen de perken van het betrokken begrotingsartikel kunnen aan de volgende begunstigden en voor maximaal de volgende bedragen subsidies die geen toelage uitmaken, worden toegekend:</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">(in duizend euro)</span></span>
+
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
 	<tbody>
 		<tr>
 			<td>BEGUNSTIGDE</td>
-			<td>BEGROTINGSARTIKEL</td>
+			<td>BEGROTINGS- ARTIKEL</td>
 			<td>BEDRAG</td>
 		</tr>
 		<tr>
@@ -2373,14 +2560,14 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>1.000</td>
 		</tr>
 		<tr>
-			<td>COFINANCIERING STEUNPUNT DUURZAAM MATERIALENBEHEER</td>
-			<td>EB0-1EBB2AG-WT</td>
-			<td>188</td>
-		</tr>
-		<tr>
 			<td>EXPERTISECENTRUM ONDERZOEK EN ONTWIKKELINGSMONITORING (ECOOM)</td>
 			<td>EB0-1EBB2AE-WT</td>
 			<td>3.350</td>
+		</tr>
+		<tr>
+			<td>COFINANCIERING STEUNPUNT DUURZAAM MATERIALENBEHEER</td>
+			<td>EB0-1EBB2AG-WT</td>
+			<td>188</td>
 		</tr>
 		<tr>
 			<td>ALAMIRE FOUNDATION</td>
@@ -2430,12 +2617,12 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		<tr>
 			<td>VLAAMSE SCHOLIERENKOEPEL</td>
 			<td>FB0-1FGD2GE-WT</td>
-			<td>523</td>
+			<td>528</td>
 		</tr>
 		<tr>
-			<td>VZW DIESLEKTIKUS-ADIBIB EN VOORLEESSOFTWARE</td>
+			<td>VZW DIESLEKTIKUS - ADIBIB EN VOORLEESSOFTWARE</td>
 			<td>FB0-1FGD2GE-WT</td>
-			<td>896</td>
+			<td>950</td>
 		</tr>
 		<tr>
 			<td>VZW KLIQ - IMPULSEN VOOR EEN HOLEBIBELEID IN HET ONDERWIJS</td>
@@ -2443,22 +2630,22 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>71</td>
 		</tr>
 		<tr>
-			<td>VZW KRIJT - KNOOPPUNT ARMOEDEONDERWIJS</td>
+			<td>VZW KRIJT - KNOOPPUNT ARMOEDE- ONDERWIJS</td>
 			<td>FB0-1FGD2GE-WT</td>
 			<td>298</td>
 		</tr>
 		<tr>
-			<td>VZW TEWERKSTELLINGSFONDS - EJ-TOELAGE</td>
+			<td>VZW TEWERKSTELLINGSFONDS VOOR HET VRIJ ONDERWIJS VLAANDEREN - EJ- TOELAGE</td>
 			<td>FB0-1FGD2GF-WT</td>
 			<td>1.107</td>
 		</tr>
 		<tr>
-			<td>VZW TEWERKSTELLINGSFONDS - VAP-DAGEN</td>
+			<td>VZW TEWERKSTELLINGSFONDS VOOR HET VRIJ ONDERWIJS VLAANDEREN - VAP-DAGEN</td>
 			<td>FB0-1FGD2GF-WT</td>
-			<td>627</td>
+			<td>2.344</td>
 		</tr>
 		<tr>
-			<td>VZW TEWERKSTELLINGSFONDS - VERBETEREN VAN DE ARBEIDSOMSTANDIGHEDEN</td>
+			<td>VZW TEWERKSTELLINGSFONDS VOOR HET VRIJ ONDERWIJS VLAANDEREN - VERBETEREN VAN DE ARBEIDSOMSTANDIGHEDEN</td>
 			<td>FB0-1FGD2GF-WT</td>
 			<td>2.381</td>
 		</tr>
@@ -2473,9 +2660,9 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>258</td>
 		</tr>
 		<tr>
-			<td>NVAO</td>
-			<td>FB0-1FGD2GN-WT</td>
-			<td>2.356</td>
+			<td>NV DE MENSEN</td>
+			<td>FB0-1FGD2GM-WT</td>
+			<td>400</td>
 		</tr>
 		<tr>
 			<td>KUL - TOETSONTWIKKELING EN PEILINGEN</td>
@@ -2483,7 +2670,12 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>1.523</td>
 		</tr>
 		<tr>
-			<td>VZW MEMOO VOOR DE EDUCATIEVE WERKING VAN MEMOO (VROEGER VIAA)</td>
+			<td>NVAO</td>
+			<td>FB0-1FGD2GN-WT</td>
+			<td>2.606</td>
+		</tr>
+		<tr>
+			<td>VZW MEMOO VOOR DE EDUCATIEVE WERKING VAN MEMOO (vroeger VIAA)</td>
 			<td>FB0-1FGD2GO-WT</td>
 			<td>231</td>
 		</tr>
@@ -2495,7 +2687,7 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		<tr>
 			<td>VZW BRAILLECENTRUM</td>
 			<td>FC0-1FGD2GE-WT</td>
-			<td>120</td>
+			<td>240</td>
 		</tr>
 		<tr>
 			<td>UNIVERSITAIRE TALENCENTRA IN HET KADER VAN HET VLAAMSE INBURGERINGSBELEID</td>
@@ -2505,7 +2697,7 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		<tr>
 			<td>VZW DE LINK</td>
 			<td>FD0-1FFD2FC-WT</td>
-			<td>372</td>
+			<td>376</td>
 		</tr>
 		<tr>
 			<td>CARITAS CATHOLICA VLAANDEREN VZW</td>
@@ -2520,47 +2712,47 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		<tr>
 			<td>FARA VZW</td>
 			<td>GB0-1GCF2EA-WT</td>
-			<td>293</td>
+			<td>299</td>
 		</tr>
 		<tr>
 			<td>KONINGIN FABIOLA HOME VZW</td>
 			<td>GB0-1GCF2EA-WT</td>
-			<td>431</td>
+			<td>439</td>
 		</tr>
 		<tr>
 			<td>MODERATOR VZW</td>
 			<td>GB0-1GCF2EA-WT</td>
-			<td>2.212</td>
+			<td>1.968</td>
 		</tr>
 		<tr>
 			<td>PAYOKE VZW</td>
 			<td>GB0-1GCF2EA-WT</td>
-			<td>191</td>
+			<td>194</td>
 		</tr>
 		<tr>
 			<td>RONDPUNT</td>
 			<td>GB0-1GCF2EA-WT</td>
-			<td>257</td>
+			<td>262</td>
 		</tr>
 		<tr>
 			<td>SOCIAAL.NET</td>
 			<td>GB0-1GCF2EA-WT</td>
-			<td>304</td>
+			<td>310</td>
 		</tr>
 		<tr>
 			<td>SOM VZW</td>
 			<td>GB0-1GCF2EA-WT</td>
-			<td>135</td>
+			<td>137</td>
 		</tr>
 		<tr>
 			<td>TREFPUNT ZELFHULP</td>
 			<td>GB0-1GCF2EA-WT</td>
-			<td>273</td>
+			<td>278</td>
 		</tr>
 		<tr>
 			<td>VLAAMS STEUNPUNT VRIJWILLIGERSWERK VZW</td>
 			<td>GB0-1GCF2EB-WT</td>
-			<td>113</td>
+			<td>115</td>
 		</tr>
 		<tr>
 			<td>VLAAMSE GEMEENSCHAPSCOMMISSIE VOOR VZW HET PUNT</td>
@@ -2571,6 +2763,11 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>SUBSIDIES IMEC</td>
 			<td>GE0-1GDF2IA-WT</td>
 			<td>500</td>
+		</tr>
+		<tr>
+			<td>NV SPORTPALEIS</td>
+			<td>HB0-1HBA2AA-WT</td>
+			<td>80</td>
 		</tr>
 		<tr>
 			<td>PUBLIQ</td>
@@ -2588,14 +2785,9 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>125</td>
 		</tr>
 		<tr>
-			<td>STEUNPUNT VRIJWILLIGERSWERK</td>
-			<td>HB0-1HBA4AA-WT</td>
-			<td>126</td>
-		</tr>
-		<tr>
 			<td>INTERCOMMUNALE MAATSCHAPPIJ OPERA VOOR VLAANDEREN</td>
 			<td>HB0-1HBA2AE-WT</td>
-			<td>1.446</td>
+			<td>1.867</td>
 		</tr>
 		<tr>
 			<td>SOCIAAL FONDS PODIUMKUNSTEN</td>
@@ -2603,19 +2795,9 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>484</td>
 		</tr>
 		<tr>
-			<td>UNIVERSITEIT ANTWERPEN</td>
-			<td>HB0-1HBX2AD-WT</td>
-			<td>74</td>
-		</tr>
-		<tr>
-			<td>UNIVERSITEIT GENT</td>
-			<td>HB0-1HBX2AD-WT</td>
-			<td>314</td>
-		</tr>
-		<tr>
-			<td>UNIVERSITEIT GENT</td>
-			<td>HB0-1HBX2AD-WT</td>
-			<td>299</td>
+			<td>CAPITOLE NV</td>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>210</td>
 		</tr>
 		<tr>
 			<td>EURO-KARTOENALE VZW</td>
@@ -2633,14 +2815,99 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>75</td>
 		</tr>
 		<tr>
-			<td>CAPITOLE NV</td>
+			<td>HERMAN TEIRLINCKHUIS</td>
 			<td>HB0-1HBA2BB-WT</td>
-			<td>210</td>
+			<td>62</td>
 		</tr>
 		<tr>
-			<td>VILLANELLA - KUNSTHUIS VOOR KINDEREN EN JONGEREN VZW</td>
+			<td>RELANCE BUDGET 156 - PULSE TRANSITIENETWERK</td>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>40</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 156 - VZW ALGEMENE DIENST VOOR JEUGDTOERISME</td>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>8.539</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 77 - STAD AALST - BELFORT - AALST</td>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>1.093</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 78 - STAD BLANKENBERGE - CULTUURHUIS - BLANKENBERGE</td>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>3.000</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 80 - STAD KORTRIJK - GROENINGEABDIJ (KORTRIJK)</td>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>7.500</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 85 - EKO NV - KURSAAL OOSTENDE</td>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>9.000</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 86 - STAD KORTRIJK - MASTERPLAN SCHOUWBURG KORTRIJK</td>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>7.800</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 87 - STAD GENT - MATERNITEIT DE BIJLOKE: DE CREATIECLUSTER (GENT)</td>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>4.980</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 88 - MOOOV VZW - MOOV - TURNHOUT</td>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>1.300</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 89 - STAD BRUGGE - MUSEA BRUGGE-NIEUWE MUSEUMSITE</td>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>27.253</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 90 - STAD SINT-NIKLAAS - MUSEUMSITE DE ZWIJGERSHOEK - SINT- NIKLAAS</td>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>900</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 91 - SPEELTEATER - KOPERGIETERY VZW - NIEUWBOUW DE KOPERGIETERY IN GENT</td>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>2.125</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 92 - STAD SINT-NIKLAAS - NIEUWE BIBLIOTHEEK - SINT-NIKLAAS</td>
 			<td>HB0-1HBA2BB-WT</td>
 			<td>300</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 93 - VLAAMS ARCHITECTUURINSTITUUT VZW - NIEUWE HUISVESTING EN DEPOTRUIMTE VOOR HET VAI</td>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>5.800</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 94 - STAD HASSELT - KUNSTENWERKPLAATS GROENPLEIN HASSELT</td>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>5.100</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 95 - STAD AALST - PARTERRE CC DE WERF AALST</td>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>450</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 96 - GEMEENTE BOOM - SCHOUWBURG - BOOM</td>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>300</td>
+		</tr>
+		<tr>
+			<td>RELANCE BUDGET 98 - STAD GENT - STAD GENT VERSNELLING OPERA GENT</td>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>11.000</td>
 		</tr>
 		<tr>
 			<td>STAD ANTWERPEN (ARENBERGSCHOUWBURG)</td>
@@ -2653,7 +2920,7 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>165</td>
 		</tr>
 		<tr>
-			<td>STAD HASSELT (BIBIOTHEEK HASSELT)</td>
+			<td>STAD HASSELT (BIBLIOTHEEK HASSELT)</td>
 			<td>HB0-1HBA2BB-WT</td>
 			<td>872</td>
 		</tr>
@@ -2661,6 +2928,31 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>STAD TONGEREN (GALLO-ROMEINS MUSEUM)</td>
 			<td>HB0-1HBA2BB-WT</td>
 			<td>500</td>
+		</tr>
+		<tr>
+			<td>VILLANELLA - KUNSTHUIS VOOR KINDEREN EN JONGEREN VZW</td>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>300</td>
+		</tr>
+		<tr>
+			<td>STEUNPUNT VRIJWILLIGERSWERK</td>
+			<td>HB0-1HBA4AA-WT</td>
+			<td>126</td>
+		</tr>
+		<tr>
+			<td>UNIVERSITEIT ANTWERPEN</td>
+			<td>HB0-1HBX2AD-WT</td>
+			<td>74</td>
+		</tr>
+		<tr>
+			<td>UNIVERSITEIT GENT</td>
+			<td>HB0-1HBX2AD-WT</td>
+			<td>299</td>
+		</tr>
+		<tr>
+			<td>UNIVERSITEIT GENT</td>
+			<td>HB0-1HBX2AD-WT</td>
+			<td>314</td>
 		</tr>
 		<tr>
 			<td>BOZAR</td>
@@ -2733,7 +3025,7 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>3.377</td>
 		</tr>
 		<tr>
-			<td>STICHTING `DE BRAKKE GROND'</td>
+			<td>STICHTING "DE BRAKKE GROND"</td>
 			<td>HB0-1HCA2EA-WT</td>
 			<td>1.504</td>
 		</tr>
@@ -2751,6 +3043,11 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>VZW STICHTING ONS ERFDEEL</td>
 			<td>HB0-1HCA2EA-WT</td>
 			<td>648</td>
+		</tr>
+		<tr>
+			<td>EUROPEES JEUGDFONDS</td>
+			<td>HB0-1HDI2HA-WT</td>
+			<td>50</td>
 		</tr>
 		<tr>
 			<td>EUROPEES JEUGDORKEST</td>
@@ -2773,6 +3070,16 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>1.790</td>
 		</tr>
 		<tr>
+			<td>MEDIA.21</td>
+			<td>HB0-1HEI2IC-WT</td>
+			<td>55</td>
+		</tr>
+		<tr>
+			<td>VLAAMSE NIEUWSMEDIA</td>
+			<td>HB0-1HEI2IC-WT</td>
+			<td>1.000</td>
+		</tr>
+		<tr>
 			<td>VZW JOURNALISMFUND.EU</td>
 			<td>HB0-1HEI2IC-WT</td>
 			<td>406</td>
@@ -2783,6 +3090,11 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>408</td>
 		</tr>
 		<tr>
+			<td>DE MENSEN NV</td>
+			<td>HB0-1HEI2JA-WT</td>
+			<td>100</td>
+		</tr>
+		<tr>
 			<td>DEELNAME AAN HET EUROPEES AUDIOVISUEEL OBSERVATORIUM</td>
 			<td>HB0-1HEI2KA-WT</td>
 			<td>20</td>
@@ -2790,7 +3102,7 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		<tr>
 			<td>STICHTING HET BESTE VAN VLAANDEREN EN NEDERLAND (BVN)</td>
 			<td>HB0-1HEI2KA-WT</td>
-			<td>989</td>
+			<td>570</td>
 		</tr>
 		<tr>
 			<td>BIOFORUM VLAANDEREN VZW</td>
@@ -2803,9 +3115,9 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>420</td>
 		</tr>
 		<tr>
-			<td>EVA VLAAMS PROMOTIECENTRUM VOOR AGROEN VISSERIJMARKETING (VLAM)</td>
+			<td>EVA VLAAMS PROMOTIECENTRUM VOOR AGRO- EN VISSERIJMARKETING (VLAM)</td>
 			<td>KB0-1KGB2FA-WT</td>
-			<td>4.891</td>
+			<td>4.884</td>
 		</tr>
 		<tr>
 			<td>I-BUS</td>
@@ -2838,11 +3150,9 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>380</td>
 		</tr>
 		<tr>
-			<td>VIAS INSTITUTE - CENTRUM VOOR RIJGESCHIKTHEID EN VOERTUIGAANPASSING (CARA)</td>
-			<td><br>
-			MB0-1MHH4NA-WT</td>
-			<td><br>
-			1.166</td>
+			<td>VIAS INSTITUTE-CENTRUM VOOR RIJGESCHIKTHEID EN VOERTUIGAANPASSING (CARA)</td>
+			<td>MB0-1MHH4NA-WT</td>
+			<td>1.166</td>
 		</tr>
 		<tr>
 			<td>VLAAMS INSTITUUT VOOR DE LOGISTIEK</td>
@@ -2870,46 +3180,47 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>530</td>
 		</tr>
 		<tr>
-			<td>VZW COGEN VLAANDEREN VOOR DE ONDERSTEUNING VAN WARMTEKRACHTKOPPELING</td>
+			<td>VZW BIOGAS-E - ONDERSTEUNING VAN AENAEROBE VERGISTING IN VLAANDEREN</td>
+			<td>QE0-1QEE2KA-WT</td>
+			<td>81</td>
+		</tr>
+		<tr>
+			<td>VZW COGEN VLAANDEREN - ONDERSTEUNING VAN WARMTEKRACHTKOPPELING</td>
 			<td>QE0-1QEE2KA-WT</td>
 			<td>121</td>
 		</tr>
 		<tr>
-			<td>VZW ODE VLAANDEREN VOOR DE ONDERSTEUNING VAN DUURZAME ENERGIEBRONNEN</td>
-			<td><br>
-			QE0-1QEE2KA-WT</td>
-			<td><br>
-			81</td>
+			<td>VZW ODE VLAANDEREN - ONDERSTEUNING VAN WARMTENETWERK VLAANDEREN</td>
+			<td>QE0-1QEE2KA-WT</td>
+			<td>68</td>
 		</tr>
 		<tr>
-			<td>HET ORGEL IN VLAANDEREN VZW</td>
+			<td>VZW ODE VLAANDEREN - ONDERSTEUNING VAN DUURZAME ENERGIEBRONNEN</td>
+			<td>QE0-1QEE2KA-WT</td>
+			<td>81</td>
+		</tr>
+		<tr>
+			<td>HET ORGEL IN VLAANDEREN VZW (WERKINGSSUBSIDIE)</td>
 			<td>QG0-1QGG2BB-WT</td>
 			<td>14</td>
 		</tr>
 		<tr>
-			<td>VZW KEMPENS LANDSCHAP BIJDRAGE VOORBEREIDINGSTRAJECT ERKENNING ALS UNESCO WERELDERFGOED VAN DE LANDLOPERSKOLONIES WORTEL EN MERKSPLAS</td>
-			<td><br>
-			QG0-1QGG2BB-WT</td>
-			<td><br>
-			8</td>
-		</tr>
-		<tr>
-			<td>VZW FORUM VLAAMSE ARCHEOLOGIE (ALGEMENE WERKINGSSUBSIDIES)</td>
+			<td>VZW FORUM VLAAMSE ARCHEOLOGIE (WERKINGSSUBSIDIE)</td>
 			<td>QG0-1QGG2BB-WT</td>
 			<td>9</td>
 		</tr>
 		<tr>
-			<td>VZW HISTORIES (ALGEMENE WERKINGSSUBSIDIES)</td>
+			<td>VZW HISTORIES (WERKINGSSUBSIDIE)</td>
 			<td>QG0-1QGG2BB-WT</td>
 			<td>43</td>
 		</tr>
 		<tr>
-			<td>HERITA VZW WERKINGSSUBSIDIES</td>
+			<td>HERITA VZW - WERKINGSSUBSIDIES</td>
 			<td>QG0-1QGG2BC-WT</td>
 			<td>2.076</td>
 		</tr>
 		<tr>
-			<td>MONUMENTENWACHT VLAANDEREN VZW</td>
+			<td>MONUMENTENWACHT VLAANDEREN VZW (WERKINGSSUBSIDIE)</td>
 			<td>QG0-1QGG2BC-WT</td>
 			<td>255</td>
 		</tr>
@@ -2920,20 +3231,28 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		</tr>
 		<tr>
 			<td>HERITA VZW - RESTAURATIE EIGEN OPEN ERFGOEDSITES VAN HERITA VZW MET NAME HET KASTEEL VAN HORST, FORT NAPOLEON EN KASTEEL VAN BEAUVOOORDE (INVESTERINGSSUBSIDIE)</td>
-			<td><br>
-			QG0-1QGG2CA-WT</td>
-			<td><br>
-			1.494</td>
+			<td>QG0-1QGG2CA-WT</td>
+			<td>1.494</td>
 		</tr>
 		<tr>
-			<td>VZW VOEREN 2000</td>
-			<td>SA0-1SEA2BD-WT</td>
-			<td>70</td>
+			<td>KERKFABRIEK SINT-BAAFS (VL-GENT), INVESTERINGSSUBSIDIE RESTAURATIE LAM GODS</td>
+			<td>QG0-1QGG2CA-WT</td>
+			<td>1.000</td>
+		</tr>
+		<tr>
+			<td>DE MENSEN NV</td>
+			<td>SA0-1SEA2BA-WT</td>
+			<td>550</td>
 		</tr>
 		<tr>
 			<td>VZW VLAANDEREN - EUROPA</td>
 			<td>SA0-1SEA2BD-WT</td>
 			<td>764</td>
+		</tr>
+		<tr>
+			<td>VZW VOEREN 2000</td>
+			<td>SA0-1SEA2BD-WT</td>
+			<td>70</td>
 		</tr>
 		<tr>
 			<td>VZW KAZERNE DOSSIN</td>
@@ -2949,6 +3268,11 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>DE SON VLAMINGEN IN DE WERELD</td>
 			<td>SA0-1SNA2ID-WT</td>
 			<td>264</td>
+		</tr>
+		<tr>
+			<td>VLAAMSE ICT ORGANISATIE VZW</td>
+			<td>SC0-1SJA2ND-WT</td>
+			<td>111</td>
 		</tr>
 		<tr>
 			<td>CENTRUM VOOR SEKSUOLOGIE EN GENDER (TIP)</td>
@@ -3001,7 +3325,7 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 			<td>1.116</td>
 		</tr>
 		<tr>
-			<td>AAN BRIK-STUDENT IN BRUSSEL VZW</td>
+			<td>AAN BRIK - STUDENT IN BRUSSEL VZW</td>
 			<td>SJ0-1SGI2EB-WT</td>
 			<td>1.747</td>
 		</tr>
@@ -3013,14 +3337,12 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 		<tr>
 			<td>AAN BRUKSELBINNENSTEBUITEN VZW</td>
 			<td>SJ0-1SGI2EB-WT</td>
-			<td>132</td>
+			<td>166</td>
 		</tr>
 		<tr>
 			<td>AAN DE VLAAMSE GEMEENSCHAPSCOMISSIE IN BRUSSEL VOOR DE ONDERSTEUNING VAN DE BREDE SCHOOL IN BRUSSEL</td>
-			<td><br>
-			SJ0-1SGI2EB-WT</td>
-			<td><br>
-			705</td>
+			<td>SJ0-1SGI2EB-WT</td>
+			<td>705</td>
 		</tr>
 		<tr>
 			<td>AAN HET HUIS VOOR GEZONDHEID VZW</td>
@@ -3120,14 +3442,14 @@ De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren we
 	</tbody>
 </table>
 <br>
-§ 4. Het Agentschap Integratie en Inburgering kan binnen het toegekende budget en voor zover dit geen invloed heeft op het ESR-vorderingensaldo van de begroting van het Agentschap, subsidies verlenen aan Brussel Onthaal vzw voor het organiseren van het sociaal tolken en vertalen in Brussel.<br>
+<span style="font-size:medium"><span style="color:#000000">§ 4. Het Agentschap Integratie en Inburgering kan binnen het toegekende budget en voor zover dit geen invloed heeft op het ESR-vorderingensaldo van de begroting van het agentschap, subsidies verlenen aan Brussel Onthaal vzw voor het organiseren van het sociaal tolken en vertalen in Brussel.</span></span><br>
 <br>
-§ 5. De Vlaamse Regering wordt gemachtigd subsidies te verstrekken of specifieke opdrachten te geven aan instellingen, groepen of personen voor de uitvoering van internationale uitvoeringsprojecten ook wanneer deze instellingen, groepen of personen, al dan niet nominatim, gesubsidieerd worden via andere begrotingsartikelen met betrekking tot het cultuurbeleid binnen de Vlaamse Gemeenschap.
+<span style="font-size:medium"><span style="color:#000000">§ 5. De Vlaamse Regering wordt gemachtigd subsidies te verstrekken of specifieke opdrachten te geven aan instellingen, groepen of personen voor de uitvoering van internationale uitvoeringsprojecten ook wanneer deze instellingen, groepen of personen, al dan niet nominatim, gesubsidieerd worden via andere begrotingsartikelen met betrekking tot het cultuurbeleid binnen de Vlaamse Gemeenschap.</span></span>
 
 ### ART 13.
 
 In uitvoering van artikel 34, § 1, derde lid, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 kunnen subsidies, aangerekend op onderstaande begrotingsartikelen, jaarlijks vastgelegd worden, ongeacht de looptijd van de subsidie:
-<table border="1" style="width:1000px">
+<table border="1">
 	<tbody>
 		<tr>
 			<td>OMSCHRIJVING</td>
@@ -3198,9 +3520,8 @@ In uitvoering van artikel 34, § 1, derde lid, van de Vlaamse Codex Overheidsfin
 			<td>FD0-1FFD2FB-WT</td>
 		</tr>
 		<tr>
-			<td>SUBSIDIES AAN DE CAW'S VOOR DE ORGANISATIEONDERSTEUNING IN HET KADER VAN DE HULPEN DIENSTVERLENING AAN GEDETINEERDEN</td>
-			<td><br>
-			GB0-1GCE2EC-WT</td>
+			<td>SUBSIDIES AAN DE CAW'S VOOR DE ORGANISATIEONDERSTEUNING IN HET KADER VAN DE HULP- EN DIENSTVERLENING AAN GEDETINEERDEN</td>
+			<td>GB0-1GCE2EC-WT</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES AAN DE COMMISSIES JURIDISCHE EERSTELIJNSBIJSTAND</td>
@@ -3228,8 +3549,7 @@ In uitvoering van artikel 34, § 1, derde lid, van de Vlaamse Codex Overheidsfin
 		</tr>
 		<tr>
 			<td>SUBSIDIES AAN LOKALE BESTUREN EN VERENIGINGEN VAN LOKALE BESTUREN VOOR DE VLAAMSE BELEIDSPRIORITEIT GOB</td>
-			<td><br>
-			GB0-1GCF2EA-WT</td>
+			<td>GB0-1GCF2EA-WT</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES AAN HET GEORGANISEERD AUTONOOM VRIJWILLIGERSWERK</td>
@@ -3289,17 +3609,15 @@ In uitvoering van artikel 34, § 1, derde lid, van de Vlaamse Codex Overheidsfin
 		</tr>
 		<tr>
 			<td>SUBSIDIES AAN PROJECTEN VANUIT HET VROEGERE FONDS VOOR COLLECTIEVE UITRUSTINGEN EN DIENSTEN EN VOOR PERSONEELSLEDEN MET EEN GEWEZEN GESCOSTATUUT</td>
-			<td><br>
-			GDF-AGEF2UA-WT</td>
+			<td>GDF-AGEF2UA-WT</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES INZAKE BINNENLANDSE ADOPTIE</td>
 			<td>GDF-AGEF2UA-WT</td>
 		</tr>
 		<tr>
-			<td>SUBSIDIES INZAKE BUITENSCHOOLSE OPVANG (INCLUSIEF GEMANDATEERDE VOORZIENINGEN, COÖRDINATIEPUNTEN EN FLEXIBELE OPVANGPOOLS VAN DOELGROEPWERKNEMERS)</td>
-			<td><br>
-			GDF-AGEF2UA-WT</td>
+			<td>SUBSIDIES INZAKE BUITENSCHOOLSE OPVANG (INCLUSIEF GEMANDATEERDE VOORZIENINGEN, COORDINATIEPUNTEN EN FLEXIBELE OPVANGPOOLS VAN DOELGROEPWERKNEMERS)</td>
+			<td>GDF-AGEF2UA-WT</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES INZAKE GEZINSOPVANG EN GROEPSOPVANG VAN BABY'S EN PEUTERS</td>
@@ -3367,8 +3685,7 @@ In uitvoering van artikel 34, § 1, derde lid, van de Vlaamse Codex Overheidsfin
 		</tr>
 		<tr>
 			<td>WERKINGSSUBSIDIES VOOR DAGVERZORGINGSCENTRA EN CENTRA VOOR KORTVERBLIJF BINNEN HERSTELVERBLIJF</td>
-			<td><br>
-			GE0-1GHF2TG-WT</td>
+			<td>GE0-1GHF2TG-WT</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES AAN DIENSTEN GEZINSZORG EN AANVULLENDE THUISZORG</td>
@@ -3387,56 +3704,48 @@ In uitvoering van artikel 34, § 1, derde lid, van de Vlaamse Codex Overheidsfin
 			<td>GH0-AGGF2RC-WT</td>
 		</tr>
 		<tr>
-			<td>SUBSIDIES AAN GESPECIALISEERDE UNITS VOOR GEINTERNEERDEN</td>
+			<td>SUBSIDIES AAN GESPECIALISEERDE UNITS VOOR GENTERNEERDEN</td>
 			<td>GH0-AGGF2RD-WT</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES AAN MULTIFUNCTIONELE CENTRA VOOR DE ONDERSTEUNING VAN MINDERJARIGE PERSONEN MET EEN HANDICAP AAN WIE EEN PERSOONSVOLGENDE CONVENANT WERD TOEGEKEND</td>
-			<td><br>
-			GH0-AGGF2RD-WT</td>
+			<td>GH0-AGGF2RD-WT</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES AAN MULTIFUNCTIONELE CENTRA VOOR MINDERJARIGE PERSONEN MET EEN HANDICAP</td>
 			<td>GH0-AGGF2RD-WT</td>
 		</tr>
 		<tr>
-			<td>SUBSIDIES AAN OBSERVATIE-, DIAGNOSE-EN BEHANDELINGSUNITS</td>
+			<td>SUBSIDIES AAN OBSERVATIE-, DIAGNOSE- EN BEHANDELINGSUNITS</td>
 			<td>GH0-AGGF2RD-WT</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES AAN VERGUNDE ZORGAANBIEDERS VOOR HET VERLENEN VAN ONDERSTEUNING AAN PERSONEN MET EEN NIET-AANGEBOREN HERSENLETSEL</td>
-			<td><br>
-			GH0-AGGF2RD-WT</td>
+			<td>GH0-AGGF2RD-WT</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES AAN VOORZIENINGEN DIE ONDERSTEUNING BIEDEN AAN PERSONEN MET EEN HANDICAP IN DE GEVANGENIS EN AAN GEINTERNEERDE PERSONEN MET EEN HANDICAP</td>
-			<td><br>
-			GH0-AGGF2RD-WT</td>
+			<td>GH0-AGGF2RD-WT</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES INZAKE DE TOEKENNING VAN EEN PERSOONLIJKE-ASSISTENTIEBUDGET AAN MINDERJARIGE PERSONEN MET EEN HANDICAP</td>
-			<td><br>
-			GH0-AGGF2RD-WT</td>
+			<td>GH0-AGGF2RD-WT</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES INZAKE DE TOEKENNING VAN EEN PERSOONSVOLGEND BUDGET AAN MEERDERJARIGE PERSONEN MET EEN HANDICAP, DE BESTEDING VAN DAT BUDGET ONDER DE VORM VAN EEN VOUCHER BIJ EEN VERGUNDE ZORGAANBIEDER EN HET GEBRUIK VAN HET BUDGET ALS CASHBUDGET</td>
-			<td><br>
-			GH0-AGGF2RD-WT</td>
+			<td>GH0-AGGF2RD-WT</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES INZAKE ONDERSTEUNING VAN PERSONEN MET EEN HANDICAP IN EEN INSTELLING IN HET BUITENLAND</td>
-			<td><br>
-			GH0-AGGF2RD-WT</td>
+			<td>GH0-AGGF2RD-WT</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIE VOOR DE OPRICHTING EN DE WERKING VAN EEN CEL DIE ASSISTENTIEHONDENSCHOLEN MACHTIGT OM ASSISTENTIEHONDEN TE ATTESTEREN</td>
-			<td><br>
-			GH0-AGGF2RE-WT</td>
+			<td>GH0-AGGF2RE-WT</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES AAN BIJSTANDSORGANISATIES DIE BUDGETHOUDERS BIJSTAAN BIJ DE BESTEDING VAN HUN BUDGET</td>
-			<td><br>
-			GH0-AGGF2RE-WT</td>
+			<td>GH0-AGGF2RE-WT</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES AAN CENTRA OF DIENSTEN VOOR REVALIDATIE</td>
@@ -3444,23 +3753,19 @@ In uitvoering van artikel 34, § 1, derde lid, van de Vlaamse Codex Overheidsfin
 		</tr>
 		<tr>
 			<td>SUBSIDIES AAN DIENSTEN ONDERSTEUNINGSPLAN VOOR HET BEGELEIDEN VAN PERSONEN MET EEN HANDICAP VOOR DE OPMAAK VAN EEN ONDERSTEUNINGSPLAN</td>
-			<td><br>
-			GH0-AGGF2RE-WT</td>
+			<td>GH0-AGGF2RE-WT</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES AAN ORGANISATIES DIE VRIJETIJDSZORG VOOR PERSONEN MET EEN HANDICAP ONTWIKKELEN, BEGELEIDEN EN BEVORDEREN</td>
-			<td><br>
-			GH0-AGGF2RE-WT</td>
+			<td>GH0-AGGF2RE-WT</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES INZAKE DE TOEKENNING VAN LOONSUBSIDIES VOOR PERSONEELSLEDEN VOORHEEN TEWERKGESTELD IN HET STELSEL VAN GESUBSIDIEERDE CONTRACTUELEN</td>
-			<td><br>
-			GH0-AGGF2RE-WT</td>
+			<td>GH0-AGGF2RE-WT</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES INZAKE DE TOEKENNING VAN LOONSUBSIDIES VOOR PERSONEELSLEDEN VOORHEEN TEWERKGESTELD IN HET STELSEL VAN HET DERDE ARBEIDSCIRCUIT</td>
-			<td><br>
-			GH0-AGGF2RE-WT</td>
+			<td>GH0-AGGF2RE-WT</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES AAN DE ZORGKASSEN</td>
@@ -3517,10 +3822,6 @@ In uitvoering van artikel 34, § 1, derde lid, van de Vlaamse Codex Overheidsfin
 		<tr>
 			<td>TOELAGEN GEZINSBELEID AAN DE GEZINNEN</td>
 			<td>GN0-AGFF2QB-WT</td>
-		</tr>
-		<tr>
-			<td>ONDERSTEUNING TEWERKSTELLINGSBELEID</td>
-			<td>JB0-1JDB2AA-WT</td>
 		</tr>
 		<tr>
 			<td>DOELGROEPVERMINDERINGEN SOCIALE ZEKERHEID</td>
@@ -3599,26 +3900,33 @@ In uitvoering van artikel 34, § 1, derde lid, van de Vlaamse Codex Overheidsfin
 			<td>JB0-1JEB2HE-WT</td>
 		</tr>
 		<tr>
-			<td>SUBSIDIERING VAN POLDERS EN WATERINGEN OP BASIS VAN HET BESLUIT VAN 14 MEI 2004 VAN DE VLAAMSE REGERING HOUDENDE DE DEFINITIEVE REGULARISATIE EN TOEKENNING VAN EEN SUBSIDIE AAN BEPAALDE INITIATIEVEN BINNEN POLDERS, WATERINGEN, MILIEU-EN NATUURVERENIGINGEN DIE PERSONEELSLEDEN TEWERKSTELLEN IN EEN GEWEZEN DAC-STATUUT</td>
-			<td><br>
-			QB0-1QCE2DW-IS</td>
+			<td>MENTORKORTINGEN</td>
+			<td>JB0-1JFB2FD-WT</td>
 		</tr>
 		<tr>
-			<td>ONDERSTEUNING MILIEU-EN NATUURVERENIGINGEN VOOR DAC-STATUTEN EN UITVOERING VLAAMSE INTERPROFESSIONELE AKKOORDEN (VIA)</td>
-			<td><br>
-			QB0-1QCE2OC-WT</td>
+			<td>SUBSIDIERING VAN POLDERS EN WATERINGEN OP BASIS VAN HET BESLUIT VAN 14 MEI 2004 VAN DE VLAAMSE REGERING HOUDENDE DE DEFINITIEVE REGULARISATIE EN TOEKENNING VAN EEN SUBSIDIE AAN BEPAALDE INITIATIEVEN BINNEN POLDERS, WATERINGEN, MILIEU- EN NATUURVERENIGINGEN DIE PERSONEELSLEDEN TEWERKSTELLEN IN EEN GEWEZEN DAC-STATUUT</td>
+			<td>QB0-1QCE2DW-IS</td>
 		</tr>
 		<tr>
-			<td>ONDERSTEUNING MILIEU-EN NATUURVERENIGINGEN (ERKENNING EN SUBSIDIERING)</td>
+			<td>ONDERSTEUNING MILIEU- EN NATUURVERENIGINGEN VOOR DAC-STATUTEN EN UITVOERING VLAAMSE INTERPROFESSIONELE AKKOORDEN (VIA)</td>
+			<td>QB0-1QCE2OC-WT</td>
+		</tr>
+		<tr>
+			<td>ONDERSTEUNING MILIEU- EN NATUURVERENIGINGEN (ERKENNING EN SUBSIDIERING)</td>
 			<td>QBX-3QCE2OC-WT</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIERING VAN DE PLANNING, DE ONTWIKKELING EN DE UITVOERING VAN HET GEINTEGREERD NATUURBEHEER</td>
-			<td><br>
-			QDX-3QCE2FA-WT</td>
+			<td>QDX-3QCE2FA-WT</td>
+		</tr>
+		<tr>
+			<td>RENTESUBSIDIE ENERGETISCHE RENOVATIES</td>
+			<td>QE0-1QEE4KE-WT</td>
 		</tr>
 	</tbody>
 </table>
+<br>
+&nbsp;
 
 ## LENINGEN
 
@@ -3632,29 +3940,29 @@ De Vlaamse Regering wordt gemachtigd leningen te verschaffen aan gesubsidieerde 
 
 ### ART 16.
 
-De Vlaamse Regering wordt gemachtigd via energiehuizen energieleningen aan sociaal zwakkere doelgroepen en energieleningen+ aan nieuwe eigenaars voor de energetische renovatie van hun woning te verstrekken voor ten belope van maximaal 84.000.000 euro per jaar en met een maximum van 330.128.000 euro in de periode 2021 tot en met 2024.
+De Vlaamse Regering wordt gemachtigd via energiehuizen energieleningen aan sociaal zwakkere doelgroepen en energieleningen+ aan nieuwe eigenaars voor de energetische renovatie van hun woning te verstrekken ten belope van maximaal 84.000.000 euro per jaar, alsook in 2021 en 2022 via de OCMW's noodkoopleningen voor het veilig en energiezuinig maken van noodkoopwoningen te verstrekken ten belope van maximaal 20.000.000 euro per jaar, en met een gezamenlijk maximum van 370.128.000 euro in de periode 2021 tot en met 2024.
 
 ### ART 17.
 
-§ 1. Het Vlaams Woningfonds kan in uitvoering van het programma 2021 Bijzondere Sociale Leningen VWF maximaal 971.259.000 euro aan bijzondere sociale leningen toekennen (begrotingsartikel QF0-1QDG5PJ-IS). Dit bedrag wordt verhoogd met het totaalbedrag van de op 31 december 2020 in samenstelling zijnde leningsaanvragen waarvoor het leningsaanbod nog niet werd verstuurd, dat enkel kan worden aangewend voor die leningsaanvragen.<br>
+§ 1. Het Vlaams Woningfonds kan in uitvoering van het programma 2021 Bijzondere Sociale Leningen VWF maximaal 978.937.000 euro aan bijzondere sociale leningen toekennen (begrotingsartikel QF0-1QDG5PJ-IS). Dit bedrag wordt verhoogd met het totaalbedrag van de op 31 december 2020 in samenstelling zijnde leningsaanvragen waarvoor het leningsaanbod nog niet werd verstuurd, dat enkel kan worden aangewend voor die leningsaanvragen.<br>
 <br>
 § 2. Het Vlaams Woningfonds kan in uitvoering van het programma 2021 Huurwaarborgleningen VWF maximaal 20.000.000 euro aan huurwaarborgleningen toekennen (begrotingsartikel QF0-1QDG5PJ-IS). Dit bedrag wordt verhoogd met het totaalbedrag van de op 31 december 2020 in samenstelling zijnde leningsaanvragen waarvoor het leningsaanbod nog niet werd verstuurd, dat enkel kan worden aangewend voor die leningsaanvragen.
 
 ### ART 18.
 
-§ 1. De VMSW kan in uitvoering van het deelprogramma FS3 2021 maximaal 1.122.312.938 euro aan FS3-leningen toekennen (begrotingsartikel QF0-1QDG5QK-IS). Dit bedrag is te verhogen met het niet aangewende deel van de machtiging voor 2020. Dit bedrag kan eventueel worden verminderd met de bedragen die worden aangewend voor de machtigingen vermeld in paragraaf 4 en 6.<br>
+§ 1. De VMSW kan in uitvoering van het deelprogramma FS3 2021 maximaal 1.133.642.000 euro aan FS3-leningen toekennen (begrotingsartikel QF0-1QDG5QK-IS). Dit bedrag is te verhogen met het niet aangewende deel van de machtiging voor 2020. Dit bedrag kan eventueel worden verminderd met de bedragen die worden aangewend voor de machtigingen vermeld in paragrafen 4 en 6.<br>
 <br>
-§ 2. De VMSW kan in uitvoering van het programma 2021 Bijzondere Sociale Leningen VMSW maximaal 5.000.000 euro aan bijzondere sociale leningen toekennen, beperkt tot wederopnames van reeds lopende leningen (begrotingsartikel QF0-1QDG5QK-IS). Dit bedrag wordt verhoogd met het totaalbedrag van de op 31 december 2020 in samenstelling zijnde leningsaanvragen waarvoor het leningsaanbod nog niet werd verstuurd, dat enkel kan worden aangewend voor die leningsaanvragen.<br>
+§ 2. De VMSW kan in uitvoering van het programma 2021 Bijzondere Sociale Leningen VMSW maximaal 10.000.000 euro aan bijzondere sociale leningen toekennen, beperkt tot wederopnames van reeds lopende leningen (begrotingsartikel QF0-1QDG5QK-IS). Dit bedrag wordt verhoogd met het totaalbedrag van de op 31 december 2020 in samenstelling zijnde leningsaanvragen waarvoor het leningsaanbod nog niet werd verstuurd, dat enkel kan worden aangewend voor die leningsaanvragen.<br>
 <br>
-§ 3. De VMSW kan in uitvoering van het rollend grondfonds van de VMSW maximaal aan leningen toekennen:<br>
+§ 3. De VMSW kan in uitvoering van het Rollend Grondfonds van de VMSW maximaal aan leningen toekennen:<br>
 - het niet opgenomen gedeelte van het leningsvolume van de jaren 2011, 2012, 2013 en 2014;<br>
 - verminderd met 20.000.000 euro;<br>
 - vermeerderd met de verkoopopbrengsten in het fonds;<br>
 - en beperkt tot een bedrag van 5.000.000 euro.<br>
 <br>
-§ 4. De VMSW kan in uitvoering van het programma grondaankopen 2021 maximaal 5.000.000 euro aan bulletleningen toekennen met een overheidstussenkomst van 100% in de interestlasten (begrotingsartikel QF0-1QDG5QK-IS). Dit bedrag kan worden verhoogd met een bedrag dat tegelijk in mindering wordt gebracht van de machtiging voor het deelprogramma FS3 2021, vermeld in paragraaf 1.<br>
+§ 4. De VMSW kan in uitvoering van het programma grondaankopen 2021 maximaal 5.000.000 euro aan bulletleningen toekennen met een overheidstussenkomst van 100 procent in de interestlasten (begrotingsartikel QF0-1QDG5QK-IS). Dit bedrag kan worden verhoogd met een bedrag dat tegelijk in mindering wordt gebracht van de machtiging voor het deelprogramma FS3 2021, vermeld in paragraaf 1.<br>
 <br>
-§ 5. De VMSW kan voor de financiering van verrichtingen die onder de opdrachten van de initiatiefnemers vallen en die niet onder de programma's vermeld onder paragraaf 1 tot en met 3 worden gefinancierd, maximaal 220.000.000 euro aan marktconforme leningen toekennen (begrotingsartikel QF0-1QDG5QK-IS).<br>
+§ 5. De VMSW kan voor de financiering van verrichtingen die onder de opdrachten van de initiatiefnemers vallen en die niet onder de programma's vermeld onder de paragrafen 1 tot en met 3 worden gefinancierd, maximaal 220.000.000 euro aan marktconforme leningen toekennen (begrotingsartikel QF0-1QDG5QK-IS).<br>
 <br>
 § 6. De VMSW kan leningen met rentevermindering verstrekken aan sociale verhuurkantoren met als doel tijdelijke liquiditeitstekorten op te vangen, voor een bedrag dat tegelijk in mindering wordt gebracht van de machtiging voor het deelprogramma FS3 2021, vermeld in paragraaf 1.
 
@@ -3766,7 +4074,7 @@ De Vlaamse Regering wordt gemachtigd het vastleggingskrediet ingeschreven onder 
 
 ### ART 38.
 
-De Vlaamse Regering wordt gemachtigd het vastleggingskrediet ingeschreven onder de begrotingsartikelen GD0-1GAF2ZZ-LO en GD0-1GAF2ZZ-WT over te hevelen naar het begrotingsartikel GB0-1GEF2UX-IS en vice versa voor de financiering van de apparaatsuitgaven van de entiteiten Opgroeien en Opgroeien Regie.
+De Vlaamse Regering wordt gemachtigd het vastleggingskrediet ingeschreven onder de begrotingsartikelen GD0-1GAF2ZZ-LO en GD0-1GAF2ZZ-WT over te hevelen naar de begrotingsartikelen GB0-1GEF2UX-IS en GB0-1GEF2MX-IS en vice versa voor de financiering van de apparaatsuitgaven van de entiteiten Opgroeien en Opgroeien Regie.
 
 ### ART 39.
 
@@ -3824,7 +4132,7 @@ De Vlaamse Regering wordt gemachtigd om de beschikbare vastleggingskredieten van
 
 ### ART 44.
 
-De Vlaamse Regering wordt gemachtigd om binnen de begroting van de dienst met afzonderlijk beheer Vlaams Infrastructuurfonds vastleggingskredieten te herverdelen over de programma's heen.
+De Vlaamse Regering wordt gemachtigd de vastleggingskredieten ingeschreven onder de begrotingsartikelen van de dienst met afzonderlijk beheer Vlaams Infrastructuurfonds en onder de begrotingsartikelen MB0-1MEH5EY-IS, MB0-1MHH5RX-IS, MB0-1MHH5RY-PA en MB0-1MIH5VY-IS onderling te herverdelen.
 
 ### ART 45.
 
@@ -3832,7 +4140,7 @@ De Vlaamse Regering wordt gemachtigd het vastleggingskrediet ingeschreven onder 
 
 ### ART 46.
 
-De Vlaamse Regering wordt gemachtigd het vastleggingskrediet ingeschreven op het begrotingsartikel SJ0-1SHD2FB-WT, geheel of gedeeltelijk over te schrijven naar bestaande en/of eventueel nieuw in te schrijven vastleggingskredieten van de uitgavenbegroting van de Vlaamse Gemeenschap voor een specifiek Vlaams Randbeleid binnen andere beleidsdomeinen.
+De Vlaamse Regering wordt gemachtigd het vastleggingskrediet ingeschreven op het begrotingsartikel SJ0-1SHD2FB-WT, geheel of gedeeltelijk over te schrijven naar bestaande en of eventueel nieuw in te schrijven vastleggingskredieten van de uitgavenbegroting van de Vlaamse Gemeenschap voor een specifiek Vlaams Randbeleid.
 
 ### ART 47.
 
