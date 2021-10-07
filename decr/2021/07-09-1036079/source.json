@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036079,
+  "title": "Decreet van 2021-07-09 houdende aanpassing van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2021",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036079/VolledigDocument?datum=2021-10-07",
+  "source_sha256": "69033bd9c0f447af336879605c3e84ffc443ec615ec1f64f336a971c519ce333",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036079&param=informatie",
+  "as_of": "2021-10-07",
+  "made": "2021-07-09",
+  "gazette": "2021-09-27",
+  "numac": 2021032652,
+  "document_start": "2021-10-07",
+  "document_end": null,
+  "in_force": "2021-10-07",
+  "article_versions": 63,
+  "record_form": "consolidated version as in force on 2021-10-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
