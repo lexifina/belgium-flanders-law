@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036092,
+  "title": "Besluit van de Vlaamse Regering van 2021-09-03 tot herverdeling van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2021",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036092/VolledigDocument?datum=2021-10-09",
+  "source_sha256": "7d76d4423f705e2bf577f73efdbb13f1f742434dba331aaada4b05fa6a677a89",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036092&param=informatie",
+  "as_of": "2021-10-09",
+  "made": "2021-09-03",
+  "gazette": "2021-09-29",
+  "numac": 2021033189,
+  "document_start": "2021-10-09",
+  "document_end": null,
+  "in_force": "2021-10-09",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-10-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
