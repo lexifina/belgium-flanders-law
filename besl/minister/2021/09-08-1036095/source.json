@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036095,
+  "title": "Ministerieel besluit van 2021-09-08 over de Scriptieprijs Binnenlands Bestuur `Guido Decoster'",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036095/VolledigDocument?datum=2021-10-09",
+  "source_sha256": "2286cc6342c1f6d9ac67fd54de55e2c8f39b880b2828cdd699188fa969df7f5b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036095&param=informatie",
+  "as_of": "2021-10-09",
+  "made": "2021-09-08",
+  "gazette": "2021-09-29",
+  "numac": 2021033212,
+  "document_start": "2021-10-09",
+  "document_end": null,
+  "in_force": "2021-10-09",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2021-10-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
