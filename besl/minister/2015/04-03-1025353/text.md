@@ -76,16 +76,16 @@ In dit hoofdstuk wordt verstaan onder:<br>
 
 ### ART 4/2.
 
-Beheerovereenkomsten die onmiddellijk op de periode van de eerste beheerovereenkomst aansluiten, kunnen gesloten worden voor een periode van twee jaar.<br>
+Beheerovereenkomsten&nbsp;die liggen binnen de beheergebieden voor soortenbescherming, vermeld in artikel 81, of die onmiddellijk op de periode van de eerste beheerovereenkomst aansluiten, kunnen gesloten worden voor een periode van twee jaar.<br>
 <br>
 Hoofdstuk 1 tot en met 8, met uitzondering van artikel 36, tweede lid van het besluit van de Vlaamse Regering van 19 september 2014 en hoofdstuk 1 tot en met 5 van dit besluit zijn van toepassing op kortlopende beheerovereenkomsten.
 
 ### ART 4/3.
 
-Kortlopende beheerovereenkomsten kunnen gesloten worden als voldaan is aan al de volgende voorwaarden:<br>
-1° de aanvraag om de beheerovereenkomst te sluiten wordt, op straffe van verval, uiterlijk op 30 november 2020, met een aangetekende brief naar de maatschappij gestuurd of bij de maatschappij afgegeven tegen ontvangstbewijs;<br>
-2° de exemplaren van de kortlopende beheerovereenkomst die de beheerder ondertekend heeft, worden op straffe van verval van de beheerovereenkomst voor 1 januari 2021 aan de maatschappij bezorgd;<br>
-3° de startdatum van de kortlopende beheerovereenkomst is 1 januari 2021;<br>
+Kortlopende beheerovereenkomsten die niet liggen binnen de beheergebieden voor soortenbescherming, vermeld in artikel 81, kunnen gesloten worden als voldaan is aan al de volgende voorwaarden:<br>
+1° de aanvraag om de beheerovereenkomst te sluiten wordt, op straffe van verval, uiterlijk op 1 oktober 2021, met een aangetekende brief naar de maatschappij gestuurd of bij de maatschappij afgegeven tegen ontvangstbewijs;<br>
+2° de exemplaren van de kortlopende beheerovereenkomst die de beheerder ondertekend heeft, worden op straffe van verval van de beheerovereenkomst voor 1 januari 2022 aan de maatschappij bezorgd;<br>
+3° de startdatum van de kortlopende beheerovereenkomst is 1 januari 2022;<br>
 4° het beheerpakket in de kortlopende beheerovereenkomst is hetzelfde als het beheerpakket in de aflopende beheerovereenkomst;<br>
 5° de afmeting van het beheervoorwerp in de kortlopende beheerovereenkomst is gelijk aan de afmeting van het beheervoorwerp opgenomen in de aflopende beheerovereenkomst. Als een deel van het beheervoorwerp waarvoor de kortlopende beheerovereenkomst, wordt aangevraagd niet voldoet aan de instapvoorwaarden wordt de afmeting van het beheervoorwerp verkleind tot het deel dat voldoet aan de instapvoorwaarden. Als de maatschappij oordeelt dat het deel van het beheervoorwerp dat nog voldoet aan de instapvoorwaarden te klein is om de beheerdoelstelling op redelijke wijze te realiseren, wordt geen kortlopende beheerovereenkomst gesloten.<br>
 <br>
@@ -94,6 +94,14 @@ In afwijking van het eerste lid, 4° wordt het beheerpakket aanleg en onderhoud 
 In afwijking van het eerste lid, 4° wordt het beheerpakket aanleg en onderhoud gemengde grasstrook plus binnen de beheerdoelstelling erosiebestrijding, perceelsrandenbeheer of soortenbescherming die is opgenomen in een aflopende beheerovereenkomst gevolgd door een kortlopende beheerovereenkomst waarin het beheerpakket onderhoud gemengde grasstrook plus binnen dezelfde beheerdoelstelling is opgenomen. Alleen als de maatschappij oordeelt dat de bestaande grasstrook onvoldoende ontwikkeld is om het beheerpakket onderhoud gemengde grasstrook plus aan te gaan, wordt een beheerpakket aanleg en onderhoud gemengde grasstrook plus aangegaan.<br>
 <br>
 In afwijking van het eerste lid, 4° wordt het beheerpakket ontwikkeling soortenrijk grasland die is opgenomen in een aflopende beheerovereenkomst gevolgd door een kortlopende beheerovereenkomst waarin het beheerpakket instandhouding soortenrijk grasland is opgenomen voor zover het perceel volgens de inventarisatie, vermeld in artikel 9, als vegetatietype het graslandtype graskruidenmix, het graslandtype bloemrijk grasland of het graslandtype schraalland heeft.
+
+### ART 4/3/1.
+
+Kortlopende beheerovereenkomsten die liggen binnen de beheergebieden voor soortenbescherming, vermeld in artikel 81, kunnen gesloten worden als voldaan is aan al de volgende voorwaarden:<br>
+1° de aanvraag om de beheerovereenkomst te sluiten wordt, op straffe van verval, uiterlijk op 1 oktober 2021 met een aangetekende brief naar de maatschappij gestuurd of bij de maatschappij afgegeven tegen ontvangstbewijs;<br>
+2° de exemplaren van de kortlopende beheerovereenkomst die de beheerder ondertekend heeft, worden op straffe van verval van de beheerovereenkomst voor 1 januari 2022 aan de maatschappij bezorgd;<br>
+3° de startdatum van de kortlopende beheerovereenkomst is 1 januari 2022;<br>
+4° er wordt geen beheerpakket aanleg en onderhoud grasstrook binnen de beheerdoelstelling erosiebestrijding in de kortlopende beheerovereenkomst opgenomen.
 
 ### ART 4/4.
 
