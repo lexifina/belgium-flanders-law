@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036104,
+  "title": "Besluit van de Vlaamse Regering van 2021-09-10 tot administratieve vereenvoudiging van het besluit van de Vlaamse Regering van 30 september 2016 betreffende het Pendelfonds",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036104/VolledigDocument?datum=2021-10-15",
+  "source_sha256": "d367621ea5d9e07db439c3334c23acfb1850bbbb70d30b34501e629cc2a0fe66",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036104&param=informatie",
+  "as_of": "2021-10-15",
+  "made": "2021-09-10",
+  "gazette": "2021-10-05",
+  "numac": 2021033195,
+  "document_start": "2021-10-15",
+  "document_end": null,
+  "in_force": "2021-10-15",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2021-10-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
