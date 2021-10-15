@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036202,
+  "title": "Besluit van de Vlaamse Regering van 2021-10-15 tot vaststelling van de regels voor de toekenning van opleidingssteun aan maatwerkbedrijven ingevolge COVID-19",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036202/VolledigDocument?datum=2021-10-15",
+  "source_sha256": "6305a6ad246bd48ccec75aeb912af84fb9c69de4a595c3885cbb89ea2dc01024",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036202&param=informatie",
+  "as_of": "2021-10-15",
+  "made": "2021-10-15",
+  "gazette": "2021-10-29",
+  "numac": 2021033705,
+  "document_start": "2021-10-15",
+  "document_end": null,
+  "in_force": "2021-10-15",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2021-10-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
