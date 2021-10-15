@@ -57,10 +57,9 @@ Voor de verwerking van persoonsgegevens die het Provinciaal Mobiliteitspunt uitv
 
 ### ART 4.
 
-De begeleidingscommissie heeft tot taak:<br>
-1° de minister te adviseren over de ingediende projecten voor het verkrijgen van een subsidie uit het Pendelfonds;<br>
-2° het departement te adviseren over de opvolging van projecten die uit het Pendelfonds een subsidie hebben verkregen.<br>
-&nbsp;
+De begeleidingscommissie heeft de volgende taken:<br>
+1° de minister adviseren bij de focus van de oproep;<br>
+2° de minister adviseren bij de evaluatie van een aflopende oproep.
 
 ### ART 5.
 
@@ -102,21 +101,28 @@ De begeleidingscommissie maakt jaarlijks een evaluatie van haar werking en stelt
 
 De minister bepaalt per projectoproep voor welke van de volgende maatregelen en onder welke eventueel aanvullende voorwaarden subsidies kunnen worden verleend:<br>
 1° infrastructurele ingrepen die functionele fietsverplaatsingen, verplaatsingen met elektrisch aangedreven fietsen, verplaatsingen met een voortbewegingstoestel of carpooling faciliteren;<br>
-2° de aankoop en leasing van bedrijfsfietsen, elektrisch aangedreven bedrijfsfietsen en bedrijfsvoortbewegingstoestellen;<br>
+2° de aankoop en leasing van bedrijfsfietsen, elektrisch aangedreven bedrijfsfietsen, bedrijfsvoortbewegingstoestellen en elektrisch aangedreven bedrijfsvoortbewegingstoestellen;<br>
 3° het gebruik van auto- of fietsdeelsystemen;<br>
 4° vergoedingen voor het gebruik van het openbaar vervoer;<br>
 5° kosten voor fietsonderhoud en de kosten voor het onderhoud van elektrisch aangedreven fietsen en voortbewegingstoestellen;<br>
 6° fietsvergoedingen;<br>
 7° onkosten verbonden aan communicatie- en sensibiliseringsinitiatieven;<br>
-8° de aankoop van uitrusting voor fietsers, gebruikers van elektrisch aangedreven fietsen en gebruikers van voortbewegingstoestellen;<br>
+8° de aankoop van uitrusting voor fietsers, voor gebruikers van elektrisch aangedreven fietsen en voor gebruikers van elektrische en niet-elektrische voortbewegingstoestellen;<br>
 9° projectcoördinatiekosten;<br>
 10° vergoedingen om innovatieve vormen van woon-werkverkeer te organiseren en te gebruiken.<br>
 <br>
 De minister bepaalt per maatregel het maximale subsidietarief . Subsidies worden verleend binnen de grenzen van de maximumtarieven en voor zover de uitgaven dateren van na de datum van de oproep, vermeld in artikel 11.<br>
 <br>
-De subsidie door het Fonds bedraagt maximaal de helft van de aanvaarde kosten die aan het ingediende project verbonden zijn met een maximum van 200.000 euro en voor een maximale termijn van 4 jaar.<br>
+De subsidie van het Pendelfonds bedraagt maximaal de helft van de aanvaarde kosten die aan het ingediende project verbonden zijn. Het maximale subsidiebedrag varieert op de volgende wijze naargelang een of meer bedrijven samen het project indienen:<br>
+1° één bedrijf: 200.000 euro;<br>
+2° twee bedrijven: 250.000 euro;<br>
+3° drie bedrijven: 300.000 euro;<br>
+4° vier bedrijven: 350.000 euro;<br>
+5° vijf of meer bedrijven: 400.000 euro.<br>
 <br>
-Elk ingediend projectvoorstel heeft op het ogenblik van de indiening betrekking op een tewerkstelling, al dan niet bedrijfsoverschrijdend, van minstens 10 personen.<br>
+De minimale termijn van een projectvoorstel is twee jaar, de maximale termijn is vier jaar.<br>
+<br>
+Elk ingediend projectvoorstel heeft op het ogenblik van de indiening betrekking op een tewerkstelling, al dan niet bedrijfsoverschrijdend, van minstens 10 personen per bedrijf.<br>
 <br>
 Als voor een van de maatregelen, vermeld in het eerste lid, een wettelijke verplichting of een verplichting uit een collectieve arbeidsovereenkomst bestaat, geldt de subsidie alleen voor de kosten die niet volgen uit die verplichting.<br>
 &nbsp;
@@ -133,53 +139,60 @@ De oproep wordt bekendgemaakt op de website van het Pendelfonds en via de commun
 
 ### ART 12.
 
-Binnen een maand na de publicatie van de oproep vraagt de projectindiener een dossiernummer aan via de website van het Pendelfonds. De projectindiener ontvangt per kerende een bevestiging van de aanvraag en een dossiernummer.
+Binnen een maand na de publicatie van de oproep vraagt de projectindiener een dossiernummer aan via de website van het Pendelfonds. De projectindiener ontvangt per kerende een bevestiging van de aanvraag, een dossiernummer en alle nodige informatie over de wijze waarop een dossier moet worden samengesteld en ingediend.
 
 ### ART 13.
 
-De projectindiener neemt binnen twee weken nadat hij een dossiernummer heeft ontvangen, contact op met het Provinciaal Mobiliteitspunt. Het Provinciaal Mobiliteitspunt bezorgt de projectindiener binnen de vijf werkdagen een wachtwoord waarmee hij het aanvraagformulier online kan invullen.<br>
-<br>
-De minister stelt het model van online aanvraagformulier vast.
-
-### ART 14.
-
-De projectindiener vult het aanvraagformulier binnen een maand nadat hij het wachtwoord ontvangen heeft, voorlopig in. Het Provinciaal Mobiliteitspunt kan hem daarbij ondersteunen.
-
-### ART 15.
-
-Nadat de projectindiener het voorlopig ingevulde aanvraagformulier heeft ingediend, beschikt het Provinciaal Mobiliteitspunt over een termijn van twee weken om de potentieelbepaling voor de modale verschuiving vast te stellen en aan de projectindiener te bezorgen.<br>
+Nadat de projectindiener een dossiernummer heeft aangevraagd en binnen zes weken na de bekendmaking van de oproep, bezorgt de projectindiener de gegevens voor de potentieelbepaling voor de modale verschuiving aan het Provinciaal Mobiliteitspunt. Het Provinciaal Mobiliteitspunt bezorgt de projectindiener uiterlijk binnen negen weken na de bekendmaking van de oproep het resultaat van de potentieelbepaling voor de modale verschuiving.<br>
 <br>
 De minister bepaalt de wijze waarop de potentieelbepaling voor de modale verschuiving wordt vastgesteld.
 
+### ART 14.
+
+...
+
+### ART 15.
+
+...
+
 ### ART 16.
 
-Binnen twee weken nadat de projectindiener de potentieelbepaling voor de modale verschuiving heeft ontvangen, laadt hij het definitief ingevulde aanvraagformulier op de website van het Pendelfonds op. De projectindiener ontvangt per kerende een bevestiging van de indiening van het dossier.
+Binnen vier maanden na de bekendmaking van de oproep dient de indiener het definitief ingevulde aanvraagformulier in op de website van het Pendelfonds. De projectindiener ontvangt per kerende een bevestiging van de indiening van het dossier.<br>
+<br>
+De minister stelt het model van het online aanvraagformulier vast.
 
 ## Afdeling 2 De beoordelingsprocedure
 
 ### ART 17.
 
-Het Provinciaal Mobiliteitspunt formuleert een advies aan de begeleidingscommissie over de ontvankelijkheid en de inhoudelijke waarde van het dossier.<br>
+Het Provinciaal Mobiliteitspunt formuleert een advies aan het departement over de ontvankelijkheid en de inhoudelijke waarde van het dossier.<br>
 <br>
 Het dossier is ontvankelijk als het aan de volgende voorwaarden voldoet:<br>
 1° het aanvraagformulier werd volledig en transparant ingevuld;<br>
 2° het dossier bevat een document waaruit het overleg en het akkoord over het project blijkt tussen de werkgevers en de werknemers.<br>
 <br>
-Het Provinciaal Mobiliteitspunt laadt zijn advies over de ontvankelijkheid en de inhoudelijke waarde van het dossier op de website van het Pendelfonds op binnen een maand nadat het definitieve aanvraagformulier is ingediend.<br>
+Het Provinciaal Mobiliteitspunt laadt zijn advies over de ontvankelijkheid en de inhoudelijke waarde van het dossier op de website van het Pendelfonds op binnen vijf maanden na de bekendmaking van de oproep.<br>
 &nbsp;
 
 ### ART 18.
 
-De begeleidingscommissie beslist over de ontvankelijkheid van een ingediend project.<br>
+Het departement beslist op basis van het advies van het Provinciaal Mobiliteitspunt over de ontvankelijkheid van een ingediend project.<br>
 <br>
-Over de ontvankelijk verklaarde projecten formuleert de begeleidingscommissie een advies binnen een maand na de datum waarop het Provinciaal Mobiliteitspunt zijn advies op de website van het Pendelfonds heeft opgeladen.<br>
+Het departement formuleert een advies over de ontvankelijk verklaarde projecten.<br>
 <br>
-Als voor een oproep het totale bedrag van de aangevraagde subsidies van de gunstig geadviseerde projecten hoger is dan het totale subsidiebedrag dat in de oproep is opgenomen, brengt de begeleidingscommissie een advies uit over de rangorde van de projecten. De rangorde wordt voor 20% bepaald op basis van de aanvaarde projectkosten per werknemer die in het potentieel is opgenomen in het kader van een modale verschuiving. Daarnaast wordt de verwachte procentuele modale verschuiving voor 30% in rekening gebracht. 50% van de weging wordt afhankelijk gemaakt van de inhoudelijke onderbouwing, meer bepaald de inhoudelijke volledigheid van het dossier, de mate waarin het dossier bijdraagt aan het mobiliteitsbeleid op Vlaams niveau in het algemeen en de mate waarin het beantwoordt aan de strategische focus van de projectoproep in het bijzonder. De minister stelt de hierbij te hanteren methodiek vast.<br>
+Als voor een oproep het totale bedrag van de aangevraagde subsidies van de gunstig geadviseerde projecten hoger is dan het totale subsidiebedrag dat in de oproep is opgenomen, brengt het departement een advies uit over de rangorde van de projecten. Die rangorde wordt op de volgende wijze bepaald:<br>
+1° de rangorde wordt voor 20% bepaald op basis van de aanvaarde projectkosten per werknemer die in het potentieel zijn opgenomen in het kader van een modale verschuiving;<br>
+2° de rangorde wordt voor 30% bepaald op basis van de verwachte procentuele modale verschuiving. De procentuele modale verschuiving wordt bekomen door de huidige modale verdeling zoals opgegeven door de projectindiener te vergelijken met de resultaten van de potentieelbepaling vermeld in artikel 13;<br>
+3° de rangorde wordt voor 50% bepaald op basis van de inhoudelijke onderbouwing, meer bepaald:<br>
+a) de inhoudelijke volledigheid en kwaliteit van het dossier;<br>
+b) de mate waarin het dossier bijdraagt aan het mobiliteitsbeleid op Vlaams niveau in het algemeen en op het niveau van de vervoerregio in kwestie;<br>
+c) de mate waarin het beantwoordt aan de strategische focus van de projectoproep in het bijzonder.<br>
 <br>
-De minister beslist op basis van het advies van de begeleidingscommissie over de goedkeuring en, in voorkomend geval, de rangorde van de projecten. De minister kan op een gemotiveerde wijze afwijken van het voorgestelde advies.<br>
+De minister stelt de methodiek vast om de rangorde te bepalen.<br>
 <br>
-Als de begeleidingscommissie geen advies heeft bezorgd binnen de termijn, vermeld in het tweede lid, kan de minister een beslissing nemen zonder het advies af te wachten.<br>
-&nbsp;
+Het departement bezorgt zijn advies over de ontvankelijk verklaarde projecten en, in voorkomend geval, over de rangorde van de projecten aan de minister.<br>
+<br>
+De minister beslist op basis van het advies van het departement over de goedkeuring en, in voorkomend geval, de rangorde van de projecten. De minister kan op een gemotiveerde wijze afwijken van het voorgestelde advies.
 
 ### ART 19.
 
@@ -189,7 +202,7 @@ Als voor een oproep het totale bedrag van de aangevraagde subsidies van de gunst
 
 ### ART 20.
 
-Zodra het project van start is gegaan, meldt de projectindiener dat aan de afdeling Beleid van het departement. Uit het betalingsbewijs van een facturatie die betrekking heeft op een van de maatregelen die in het project zijn opgenomen, moet blijken dat het project effectief van start is gegaan.<br>
+Zodra het project van start is gegaan, meldt de projectindiener dat aan het departement. Uit het betalingsbewijs van een facturatie die betrekking heeft op een van de maatregelen die in het project zijn opgenomen, moet blijken dat het project effectief van start is gegaan.<br>
 <br>
 Nadat de projectindiener de start van het project heeft aangetoond, wordt een eerste schijf van 30% van het subsidiebedrag uitbetaald.<br>
 <br>
@@ -207,19 +220,16 @@ De minister stelt het model van online opvolgingsrapport vast.<br>
 
 ### ART 22.
 
-Het Provinciaal Mobiliteitspunt formuleert op basis van het opvolgingsrapport een advies aan de begeleidingscommissie. Het advies heeft betrekking op de inhoudelijke en financiële voortgang van het project en geeft uitdrukkelijk aan of de tweede schijf van 30% van het subsidiebedrag kan worden gestort.<br>
+Het Provinciaal Mobiliteitspunt formuleert op basis van het opvolgingsrapport een advies aan het departement. Het advies heeft betrekking op de inhoudelijke en financiële voortgang van het project en geeft uitdrukkelijk aan of de tweede schijf van 30% van het subsidiebedrag kan worden gestort.<br>
 <br>
 Het Provinciaal Mobiliteitspunt laadt zijn advies op de website van het Pendelfonds op binnen een maand nadat het opvolgingsrapport werd opgeladen.<br>
 &nbsp;
 
 ### ART 23.
 
-De begeleidingscommissie formuleert een advies aan de afdeling Beleid van het departement, binnen een maand nadat het Provinciaal Mobiliteitspunt zijn advies op de website van het Pendelfonds heeft opgeladen.<br>
+Het departement beslist op basis van het advies van het Provinciaal Mobiliteitspunt over de uitbetaling van de tweede schijf, vermeld in artikel 22.<br>
 <br>
-De afdeling Beleid van het departement beslist op basis van het advies van de begeleidingscommissie over de uitbetaling van de tweede schijf. De afdeling Beleid van het departement kan op een gemotiveerde wijze afwijken van het voorgestelde advies.<br>
-<br>
-Als het project een looptijd heeft van een jaar, wordt, rekening houdend met de effectief aanvaarde uitgaven, het saldo uitbetaald of wordt tot terugvordering overgegaan. Als de begeleidingscommissie geen advies heeft verstrekt binnen de termijn, vermeld in het eerste lid, kan de afdeling Beleid van het departement een beslissing nemen zonder het advies af te wachten.<br>
-&nbsp;
+Het departement kan afwijken van het advies, vermeld in het eerste lid.
 
 ### ART 24.
 
@@ -228,13 +238,13 @@ In voorkomend geval wordt voor de opvolgingsrapportage van het tweede, derde en 
 
 ### ART 25.
 
-De projectindiener laadt binnen drie maanden na de verplichte datum het opvolgingsrapport op op de website van het Pendelfonds. Mits gegronde redenen voor de eventuele vertraging, kan de afdeling Beleid van het departement een verlenging toestaan van de termijn waarop het opvolgingsrapport wordt ingediend. Als de projectindiener niet binnen een maand gegronde redenen voor de vertraging heeft aangegeven, wordt een financiële afrekening van het dossier opgemaakt op basis van de tot op dat ogenblik bezorgde onkostenstaten en wordt het project afgesloten.
+De projectindiener laadt binnen drie maanden na de verplichte datum het opvolgingsrapport op op de website van het Pendelfonds. Mits gegronde redenen voor de eventuele vertraging, kan het departement een verlenging toestaan van de termijn waarop het opvolgingsrapport wordt ingediend. Als de projectindiener niet binnen een maand gegronde redenen voor de vertraging heeft aangegeven, wordt een financiële afrekening van het dossier opgemaakt op basis van de tot op dat ogenblik bezorgde onkostenstaten en wordt het project afgesloten.
 
 ### ART 26.
 
 Tijdens de looptijd van het project kan de projectindiener inhoudelijke aanpassingen voorstellen.<br>
 <br>
-De projectindiener bezorgt zijn voorstellen tot inhoudelijke aanpassingen van het project aan het Provinciaal Mobiliteitspunt. Het Provinciaal Mobiliteitspunt formuleert daarover een advies en bezorgt het aan de afdeling Beleid van het departement. Het departement maakt zijn beslissing bekend binnen een maand nadat het Provinciaal Mobiliteitspunt zijn advies heeft geformuleerd.<br>
+De projectindiener bezorgt zijn voorstellen tot inhoudelijke aanpassingen van het project aan het Provinciaal Mobiliteitspunt. Het Provinciaal Mobiliteitspunt formuleert daarover een advies en bezorgt het aan het departement. Het departement maakt zijn beslissing bekend binnen een maand nadat het Provinciaal Mobiliteitspunt zijn advies heeft geformuleerd.<br>
 <br>
 Het globale subsidiebedrag kan door deze inhoudelijke aanpassingen nooit overschreden worden.<br>
 &nbsp;
