@@ -313,6 +313,22 @@ De organisatie is in het geval, vermeld in het eerste lid, de verwerkingsverantw
 <br>
 De organisatie bewaart de gegevens, vermeld in het eerste lid, tot een jaar na de betekening van de beslissing om een bewijs van beroepskwalificatie, bewijs van deelkwalificatie of bewijs van competenties uit te reiken.
 
+### ART 31/1.
+
+In dit artikel wordt verstaan onder leer- en ervaringsbewijzendatabank: de leer- en ervaringsbewijzendatabank, vermeld in artikel 20 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur.<br>
+<br>
+In het kader van de registratie van de bewijzen van beroepskwalificatie, deelkwalificatie en competenties in de leer- en ervaringsbewijzendatabank bezorgt de organisatie de gegevens, vermeld in artikel 31, eerste lid, aan het departement.<br>
+<br>
+De dienst van het departement, bevoegd voor de registratie, registreert de gegevens, vermeld in het tweede lid, in de leer- en ervaringsbewijzendatabank.<br>
+<br>
+De uitwisselingen van persoonsgegevens met de leer- en ervaringsbewijzendatabank vindt plaats met tussenkomst van de Vlaamse dienstenintegrator, vermeld in artikel 3 van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator.<br>
+<br>
+Het departement is in het geval, vermeld in het tweede lid, de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
+<br>
+Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen, opgericht bij het besluit van de Vlaamse Regering van 24 april 2009 tot oprichting van het intern verzelfstandigd Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen, is de verwerkingsverantwoordelijke voor het beheer van de leer- en ervaringsbewijzendatabank.<br>
+<br>
+Het departement bewaart de gegevens, vermeld in het tweede lid, in het kader van de registratie van de bewijzen van beroepskwalificatie, deelkwalificatie en competenties in de leer- en ervaringsbewijzendatabank bij de leer- en ervaringsbewijzendatabank gedurende het leven van de lerende.
+
 ## HOOFDSTUK 8. Slotbepalingen
 
 ### ART 34.
