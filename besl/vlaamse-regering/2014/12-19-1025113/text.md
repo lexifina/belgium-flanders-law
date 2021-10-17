@@ -376,6 +376,25 @@ De   dienstverlener kan de vergoeding in het kader van de doorstroomtrajecten ni
 
 ## [HOOFDSTUK 7/1 Beroep (ing. BVR 10 september 2021, art. 3, I: 17 oktober 2021)]
 
+### ART 61/1.
+
+§ 1. De werkzoekende dient op straffe van verval bij de raad van bestuur van de VDAB een gemotiveerd verzoek tot heroverweging in binnen 45 dagen vanaf de datum van de kennisname van de beslissing van de VDAB, vermeld in artikel 7 van het decreet van 22 november 2013.<br>
+<br>
+De lokale diensteneconomie-organisatie dient op straffe van verval bij de raad van bestuur van de VDAB een gemotiveerd verzoek tot heroverweging in binnen 45 dagen vanaf de datum van de kennisname van een beslissing van de VDAB als vermeld in artikel 7 en artikel 17 tot en met 19 van het decreet van 22 november 2013.<br>
+<br>
+§ 2. De raad van bestuur van de VDAB beslist over het heroverwegingsverzoek op basis van het advies van de heroverwegingscommissie, vermeld in het vijfde lid, binnen dertig dagen na de dag waarop de raad van bestuur van de VDAB dat advies heeft ontvangen.<br>
+<br>
+De multidisciplinair samengestelde heroverwegingscommissie wordt aangesteld door de raad van bestuur van de VDAB en bestaat uit de volgende leden:<br>
+1° twee leden, voorgedragen door de VDAB, onder wie de voorzitter;<br>
+2° twee leden en een externe deskundige, voorgedragen door elk van de gespecialiseerde diensten, vermeld in het besluit van de Vlaamse Regering van 15 februari 2008 tot vaststelling van de regels voor de erkenning en financiering door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding van de gespecialiseerde trajectbepalings- en -begeleidingsdienst, de gespecialiseerde arbeidsonderzoeksdiensten en de gespecialiseerde opleidings-, begeleidings- en bemiddelingsdiensten;<br>
+3° twee leden, voorgedragen door de gebruikersorganisaties, vermeld in artikel 1, 16°, van het voormelde besluit.<br>
+<br>
+De voorgedragen leden zijn deskundig door ervaring of bezitten een andere bewezen deskundigheid op het vlak van arbeidsproblematieken van personen met een arbeidshandicap.<br>
+<br>
+Op verzoek van de heroverwegingscommissie kunnen externe deskundigen uitgenodigd worden. Die externe deskundigen hebben een raadgevende stem.<br>
+<br>
+De heroverwegingscommissie brengt haar advies uit binnen zestig dagen na de dag waarop ze het heroverwegingsdossier heeft ontvangen. De raad van bestuur van de VDAB bepaalt de nadere regels over de werking van de heroverwegingscommissie.
+
 ## HOOFDSTUK 8 Slotbepalingen
 
 ### ART. 62.
