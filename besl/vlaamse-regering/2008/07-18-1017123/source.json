@@ -2,16 +2,16 @@
   "codex_id": 1017123,
   "title": "Besluit van de Vlaamse Regering van 2008-07-18 betreffende de professionele integratie van personen met een arbeidshandicap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017123/VolledigDocument?datum=2020-10-01",
-  "source_sha256": "824a3ac60e83eb41518e13b6349ba30540814f8021fc54e9a16a8c1c7a43741e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017123/VolledigDocument?datum=2021-10-17",
+  "source_sha256": "f25331f9126b8eb3200041dcc5a254537887817f9e19e1f16cd8069f13d50a92",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017123&param=informatie",
-  "as_of": "2020-10-01",
+  "as_of": "2021-10-17",
   "made": "2008-07-18",
   "gazette": "2008-10-03",
   "numac": 2008036199,
   "document_start": "2008-10-01",
   "document_end": null,
-  "in_force": "2020-10-01",
+  "in_force": "2021-10-17",
   "article_versions": 84,
-  "record_form": "consolidated version as in force on 2020-10-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-10-17; future article versions excluded; article text as the API gives it"
 }
