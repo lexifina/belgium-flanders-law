@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037586,
+  "title": "Besluit van de Vlaamse Regering van 2022-10-21 tot wijziging van artikel 4.160/3 van het Besluit Vlaamse Codex Wonen van 2021",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037586/VolledigDocument?datum=2021-10-21",
+  "source_sha256": "a909e25c4282cea1dfd4f07aa4a46955b53b0c33deec8c8bd3038ceb37821241",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037586&param=informatie",
+  "as_of": "2021-10-21",
+  "made": "2022-10-21",
+  "gazette": "2023-01-10",
+  "numac": 2022042724,
+  "document_start": "2021-10-21",
+  "document_end": null,
+  "in_force": "2021-10-21",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-10-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
