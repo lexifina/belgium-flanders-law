@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036123,
+  "title": "Besluit van de Vlaamse Regering van 2021-09-03 tot wijziging van artikel 4.169 van het Besluit Vlaamse Codex Wonen van 2021",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036123/VolledigDocument?datum=2021-10-21",
+  "source_sha256": "bfa69efb8158adce37e8bf8c840d5c3d1fe152e271e03d9215a24c052d2839c5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036123&param=informatie",
+  "as_of": "2021-10-21",
+  "made": "2021-09-03",
+  "gazette": "2021-10-11",
+  "numac": 2021022038,
+  "document_start": "2021-10-21",
+  "document_end": null,
+  "in_force": "2021-10-21",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-10-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
