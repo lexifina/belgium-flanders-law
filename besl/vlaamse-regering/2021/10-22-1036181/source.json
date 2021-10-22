@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036181,
+  "title": "Besluit van de Vlaamse Regering van 2021-10-22 tot wijziging van de VLAREME van 28 oktober 2016, wat betreft de bedrijfsontwikkeling na bewezen mestverwerking",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036181/VolledigDocument?datum=2021-10-22",
+  "source_sha256": "469d5b9504859f314c6871d36f45868c1787c8c73513c3e6e049f1d0352ddce1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036181&param=informatie",
+  "as_of": "2021-10-22",
+  "made": "2021-10-22",
+  "gazette": "2021-10-26",
+  "numac": 2021022328,
+  "document_start": "2021-10-22",
+  "document_end": null,
+  "in_force": "2021-10-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-10-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
