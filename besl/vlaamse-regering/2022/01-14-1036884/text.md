@@ -33,3 +33,13 @@ In artikel 4 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<b
 2° in het eerste lid, 2°, wordt het bedrag "17.625,03 euro" vervangen door het bedrag "18.410,00 euro";<br>
 3° het tweede lid wordt vervangen door wat volgt:<br>
 "Het bedrag, vermeld in het eerste lid, wordt verhoudingsgewijze verminderd als een voltijdsequivalent of een fractie ervan niet wordt ingevuld gedurende een periode van meer dan dertig dagen. Als blijkt dat vanaf het moment dat de tewerkstelling wijzigt, geen of geen volledig loon verschuldigd is aan de werknemer in kwestie, wordt de subsidie verrekend met het saldo of door de organisator terugbetaald.".
+
+### ART 5.
+
+In hoofdstuk 5 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 12 maart 2021, wordt een artikel 12/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 12/1. Het agentschap maakt in 2021 een oproep bekend voor de toekenning van bijkomende subsidies in het kader van het vernieuwende project voor de aanwerving van 244 voltijdsequivalente kinderbegeleiders in de private sector en 27,77 voltijdsequivalente kinderbegeleiders in de publieke sector en voor de vervanging van de vrijgekomen voltijdsequivalente kinderbegeleiders, vermeld in artikel 4/1.".
+
+### ART 6.
+
+In artikel 13, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 12 maart 2021, wordt de zinsnede "op 31 januari 2019" vervangen door de zinsnede " negentig dagen na het versturen van de oproep, vermeld in artikel 12/1,".
