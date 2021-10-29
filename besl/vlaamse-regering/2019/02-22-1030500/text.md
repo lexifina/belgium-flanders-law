@@ -94,9 +94,13 @@ De organisator meldt aan&nbsp;het agentschap de effectieve vermindering van het 
 
 ## [HOOFDSTUK 5. Oproep, aanvraag en toekenning van de subsidie (verv. BVR 14 januari 2022, art. 4, I: 12 april 2022)]
 
+### ART 12/1.
+
+Het agentschap maakt in 2021 een oproep bekend voor de toekenning van bijkomende subsidies in het kader van het vernieuwende project voor de aanwerving van 244 voltijdsequivalente kinderbegeleiders in de private sector en 27,77 voltijdsequivalente kinderbegeleiders in de publieke sector en voor de vervanging van de vrijgekomen voltijdsequivalente kinderbegeleiders, vermeld in artikel 4/1.
+
 ### ART 13.
 
-De aanvraag van de subsidie, vermeld in dit besluit, wordt uiterlijk op 31 januari 2019 ingediend bij het agentschap, met een aanvraagformulier dat&nbsp;het agentschap ter beschikking stelt.<br>
+De aanvraag van de subsidie, vermeld in dit besluit, wordt uiterlijk negentig dagen na het versturen van de oproep, vermeld in artikel 12/1, ingediend bij het agentschap, met een aanvraagformulier dat&nbsp;het agentschap ter beschikking stelt.<br>
 <br>
 Het aanvraagformulier, vermeld in het eerste lid, bevat de volgende gegevens:<br>
 1° de naam, de rechtsvorm, het adres en het ondernemingsnummer van de organisator;<br>
