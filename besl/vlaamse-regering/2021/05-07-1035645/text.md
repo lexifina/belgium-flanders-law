@@ -83,7 +83,7 @@ De administratie maakt de oproep ten minste bekend via een website die daarvoor 
 
 ### ART 7.
 
-De maximale subsidie per project bedraagt 500.000 EUR, met een maximum van 5.000.000 EUR per oproep.
+De maximale subsidie per project bedraagt 500.000 EUR, met een maximum van 10.000.000 EUR per oproep.
 
 ### ART 8.
 
