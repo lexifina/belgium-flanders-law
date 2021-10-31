@@ -60,7 +60,7 @@ De documenten, vermeld in artikel 6, vijfde lid, van het besluit van 21 april 20
 
 Een deelnameverklaring als vermeld in artikel 7, eerste lid, van het besluit van 21 april 2017, wordt elektronisch ingediend via het e-loket.<br>
 <br>
-De uiterste indieningsdatum, vermeld in artikel 7, zesde lid, van het besluit van 21 april 2017, is&nbsp;1 oktober&nbsp;van het schooljaar in kwestie.<br>
+De uiterste indieningsdatum, vermeld in artikel 7, zesde lid, van het besluit van 21 april 2017, is 31 oktober&nbsp;van het schooljaar in kwestie.<br>
 <br>
 Als de dag, vermeld in het tweede lid, een weekenddag is, is de eerstvolgende maandag de uiterste dag voor de indiening van de deelnameverklaring.
 
