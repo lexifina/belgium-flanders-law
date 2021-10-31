@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036196,
+  "title": "Ministerieel besluit van 2021-10-14 over de oproep 2021/3 voor de thema's digitalisering, internationalisering, circulaire economie en innovatie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036196/VolledigDocument?datum=2021-10-31",
+  "source_sha256": "7604913a6a4af081953c0f9fb9fcb302527a368be87ffdeff3e7e489690dbd87",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036196&param=informatie",
+  "as_of": "2021-10-31",
+  "made": "2021-10-14",
+  "gazette": "2021-10-27",
+  "numac": 2021033522,
+  "document_start": "2021-10-31",
+  "document_end": null,
+  "in_force": "2021-10-31",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2021-10-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
