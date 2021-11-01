@@ -27,6 +27,26 @@ Conform artikel 13ter van het samenwerkingsakkoord van 14 juli 2021 kunnen organ
 <br>
 Publieke evenementen die gebruikmaken van de mogelijkheid om een COVID Safe Ticket aan hun bezoekers op te leggen, voorzien in het eerste lid, worden beschouwd als een massa-evenement.
 
+### ART 5.
+
+§ 1. Conform artikel 13ter van het samenwerkingsakkoord van 14 juli 2021 is het gebruik van het COVID Safe Ticket verplicht voor bezoekers van 12 jaar en twee maanden en ouder van:<br>
+1° publieke evenementen die als massa-evenement moeten worden beschouwd, omdat ze toegankelijk zijn voor een publiek van ten minste 3000 personen en maximaal 75.000 personen wanneer het binnen wordt georganiseerd of voor een publiek van ten minste 5000 personen en maximaal 75.000 personen wanneer het buiten wordt georganiseerd, medewerkers en organisatoren niet meegerekend;<br>
+2° proef- en pilootprojecten als vermeld in artikel 1, § 1, 12°, van het samenwerkingsakkoord van 14 juli 2021;<br>
+3° dancings en discotheken als vermeld in artikel 1, § 1, 23°, van het samenwerkingsakkoord van 14 juli 2021.<br>
+<br>
+§ 2. Conform artikel 13ter van het samenwerkingsakkoord van 14 juli 2021 is het gebruik van het COVID Safe Ticket verplicht voor bezoekers van 16 jaar en ouder van:<br>
+1° voorzieningen van horeca-activiteiten, als vermeld in artikel 1, § 1, 21°, 1°, van het samenwerkingsakkoord van 14 juli 2021, met uitzondering van:<br>
+a) de buitenruimtes van deze voorzieningen, inclusief de terrassen;<br>
+b) kortstondige toegang die niet gericht is op consumptie in de voorziening mits gebruik van een mondmasker;<br>
+c) armoedeorganisaties, voedselhulpinitiatieven en inloopcentra voor dak- en thuislozen;<br>
+2° fitnesscentra: entiteiten die bij overeenkomst of krachtens hun statuten hoofdzakelijk tot doel hebben fitnessactiviteiten te organiseren, met uitzondering van de beheersactiviteiten van deze fitnesscentra, evenals lokalen van sportcentra die hoofdzakelijk gebruikt worden om fitnessactiviteiten te organiseren.<br>
+<br>
+§ 3. Met behoud van de toepassing van de bevoegdheden van officieren van de gerechtelijke politie houden de burgemeesters toezicht op de naleving van dit decreet door de organisatoren, directies en uitbaters van aangelegenheden en voorzieningen als vermeld in paragraaf 1 en paragraaf 2.<br>
+<br>
+Met behoud van toepassing van de straffen, vermeld in het Strafwetboek, worden overtredingen bestraft met een geldboete van:<br>
+1° 50 tot 500 euro voor de bezoekers die de verplichting, vermeld in paragraaf 1 en paragraaf 2, niet naleven;<br>
+2° 50 tot 2500 euro voor de organisatoren, directieleden en uitbaters die de verplichting, vermeld in paragraaf 1 en paragraaf 2, niet naleven.
+
 ### ART 6.
 
 De persoonsgegevens worden verwerkt conform het samenwerkingsakkoord van 14 juli 2021, in het bijzonder de artikelen 12, 13 en 14, § 3, ervan.
