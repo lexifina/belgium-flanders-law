@@ -43,7 +43,7 @@ Het team Jeugdhulpregie kan alleen een persoonlijke-assistentiebudget toekennen 
 2° ze wachten al langer dan twee jaar op een persoonlijke-assistentiebudget;<br>
 3° ze wachten op een persoonlijke-assistentiebudget en verblijven in een multifunctioneel centrum.<br>
 <br>
-Het persoonlijke-assistentiebudget voor de doelgroepen, vermeld in het eerste lid, 2° en 3°, wordt toegekend in chronologische volgorde.<br>
+Het persoonlijke-assistentiebudget voor de doelgroepen wordt toegekend in chronologische volgorde.<br>
 <br>
 In het eerste lid, 3°, wordt verstaan onder verblijf: een verblijf met overnachting, met inbegrip van opvang en ondersteuning gedurende de ochtend- en avonduren, dat wordt ingezet op beslissing van de intersectorale toegangspoort
 
