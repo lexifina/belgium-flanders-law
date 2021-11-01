@@ -265,7 +265,11 @@ Als basis voor de subsidie voor werkingskosten voor het basisondersteuningsbudge
 <br>
 Als basis voor de subsidie voor werkingskosten voor de tegemoetkoming voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra en de tegemoetkoming voor mobiliteitshulpmiddelen worden de databankgegevens van het agentschap gebruikt.<br>
 <br>
-§ 2. In afwijking van paragraaf 1 wordt het saldo van de subsidie voor werkingskosten voor de zorgtickets en de mobiliteitshulpmiddelen uitbetaald op 15 november van het betrokken kalenderjaar.
+Als basis voor de subsidie voor werkingskosten voor de tegemoetkoming voor revalidatieziekenhuizen en voor het multidisciplinair overleg worden de databankgegevens van het agentschap gebruikt.<br>
+<br>
+In afwijking van het zevende lid worden voor het jaar 2022 als basis voor de subsidie voor werkingskosten voor de tegemoetkoming voor revalidatieziekenhuizen en voor het multidisciplinair overleg de databankgegevens van de verzekeringsinstellingen gebruikt voor het aantal kennisgevingen van opnames in revalidatieziekenhuizen en worden de databankgegevens van het agentschap Zorg en Gezondheid gebruikt voor het aantal aanvragen van dossiers multidisciplinair overleg.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 wordt het saldo van de subsidie voor werkingskosten voor de zorgtickets en de mobiliteitshulpmiddelen&nbsp;en de tegemoetkomingen voor het multidisciplinair overleg uitbetaald op 15 november van het betrokken kalenderjaar.
 
 ## HOOFDSTUK 3. Vergoeding van de indicatiestellingen voor [het zorgbudget voor zwaar zorgbehoevenden (verv. BVR 14 december 2018, art. 11, I: 1 januari 2019)]
 
@@ -325,11 +329,7 @@ Het percentage dat jaarlijks toekomt aan een bepaalde verzekeringsinstelling is 
 
 ### ART 16.
 
-De bedragen, vermeld in artikel 8, eerste lid, artikel 9, tweede lid, artikel 10, eerste lid en artikel 11, eerste, vijfde en zesde lid, worden, met ingang van het kalenderjaar 2018, ieder jaar op 1 januari aangepast aan de ontwikkeling van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april van het voorgaande jaar ten opzichte van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april in 2016.<br>
-<br>
-Het bedrag, vermeld in artikel 13/2, § 1, eerste lid, wordt, met ingang van het kalenderjaar 2021, ieder jaar op 1 januari aangepast aan de ontwikkeling van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april van het voorgaande jaar ten opzichte van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april in 2019.<br>
-<br>
-De bedragen, vermeld in artikel 13/3, § 1, eerste lid, en in artikel 15/2, § 2, worden, met ingang van het kalenderjaar 2020, ieder jaar op 1 januari aangepast aan de ontwikkeling van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april van het voorgaande jaar ten opzichte van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april in 2018.
+De bedragen, vermeld in artikel 8, eerste lid, artikel 9, tweede lid, artikel 10, eerste lid, artikel 11, eerste, vijfde en zesde lid, artikel 13/2, § 1, eerste lid, artikel 13/3, § 1, eerste lid, artikel 13/3/1, § 1, en artikel 15/2, § 2, worden, met ingang van het kalenderjaar 2023, ieder jaar op 1 januari aangepast aan de ontwikkeling van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april van het voorgaande jaar ten opzichte van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april in 2021.
 
 ## [HOOFDSTUK 6. Toezicht op de subsidie of vergoedingen voor de werkingskosten en de tegemoetkomingen aan de zorgkassen en de verzekeringsinstellingen (verv. BVR 14 december 2018, art. 31, I: 1 januari 2019)]
 
