@@ -963,7 +963,24 @@ De raad kan beslissen dat de eindejaarstoelage volledig of gedeeltelijk door het
 
 ### ART. 98.
 
-Het bedrag van de eindejaarstoelage is de som van het forfaitaire gedeelte   en het veranderlijke gedeelte, met dien verstande dat de eindejaarstoelage nooit   meer mag bedragen dan een twaalfde van het jaarsalaris, aangepast volgens de   indexverhogingscoëfficiënt die van toepassing is op het salaris van de maand   oktober van het in aanmerking te nemen jaar.<BR><BR>Het forfaitaire gedeelte en   het veranderlijke gedeelte worden als volgt berekend :<BR>1° het forfaitaire   gedeelte :<BR>a) het forfaitaire gedeelte bedraagt voor het jaar 2011 349,73   euro;<BR>b) vanaf 2012 wordt het forfaitaire gedeelte dat toegekend is tijdens   het vorige jaar, telkens vermeerderd met een breuk waarvan de noemer gelijk is   aan het gezondheidsindexcijfer van de maand oktober van het vorige jaar en de   teller gelijk is aan het gezondheidsindexcijfer van de maand oktober van het in   aanmerking te nemen jaar. Het resultaat daarvan wordt berekend tot op twee   decimalen nauwkeurig;<BR>c) het bedrag dat het resultaat is van de berekening,   vermeld in punt b), wordt verhoogd met 698,74 euro;<BR>d) voor het jaar 2012   wordt het bedrag dat het resultaat is van de berekening, vermeld in punt c),   voor alle personeelsleden verhoogd met 100 euro;<BR>e) vanaf het jaar 2013 wordt   het bedrag dat het resultaat is van de berekening, vermeld in punt c), voor alle   personeelsleden verhoogd met 200 euro; <BR>2° het veranderlijke gedeelte : 2,5   procent van het jaarsalaris, aangepast volgens de indexverhogingscoëfficiënt die   van toepassing is op het salaris van de maand oktober van het in aanmerking te   nemen jaar. Als het personeelslid in de maand oktober van het in aanmerking te   nemen jaar geen of slechts een gedeeltelijk salaris ontvangen heeft, dan wordt   het percentage berekend op basis van het salaris dat voor diezelfde maand   betaald zou zijn als het personeelslid zijn functie wel volledig had   uitgeoefend.<BR><BR>De verhogingen van het forfaitaire gedeelte, vermeld in het   punt 1°, c), d) en e), zijn niet van toepassing op de personeelsleden die op   grond van de federale wetgeving over de financiering van sommige   gezondheidsinstellingen recht hebben op een jaarlijkse premie en een   attractiviteitspremie. De premie en attractiviteitspremie worden toegekend in de   plaats van de genoemde verhogingen van de eindejaarstoelage in overeenstemming   met de onderrichtingen van de federale financierende overheid.
+Het bedrag van de eindejaarstoelage is de som van het forfaitaire gedeelte en het veranderlijke gedeelte, met dien verstande dat de eindejaarstoelage nooit meer mag bedragen dan een twaalfde van het jaarsalaris, aangepast volgens de indexverhogingscoëfficiënt die van toepassing is op het salaris van de maand oktober van het in aanmerking te nemen jaar.<br>
+<br>
+Het forfaitaire gedeelte en het veranderlijke gedeelte worden als volgt berekend :<br>
+1° het forfaitaire gedeelte :<br>
+a) het forfaitaire gedeelte bedraagt voor het jaar 2011 349,73 euro;<br>
+b) vanaf 2012 wordt het forfaitaire gedeelte dat toegekend is tijdens het vorige jaar, telkens vermeerderd met een breuk waarvan de noemer gelijk is aan het gezondheidsindexcijfer van de maand oktober van het vorige jaar en de teller gelijk is aan het gezondheidsindexcijfer van de maand oktober van het in aanmerking te nemen jaar. Het resultaat daarvan wordt berekend tot op twee decimalen nauwkeurig;<br>
+c) het bedrag dat het resultaat is van de berekening, vermeld in punt b), wordt verhoogd met 698,74 euro;<br>
+d) voor het jaar 2012 wordt het bedrag dat het resultaat is van de berekening, vermeld in punt c), voor alle personeelsleden verhoogd met 100 euro;<br>
+e) vanaf het jaar 2013 wordt het bedrag dat het resultaat is van de berekening, vermeld in punt c), voor alle personeelsleden verhoogd met 200 euro;<br>
+2° het veranderlijke gedeelte : 2,5 procent van het jaarsalaris, aangepast volgens de indexverhogingscoëfficiënt die van toepassing is op het salaris van de maand oktober van het in aanmerking te nemen jaar. Als het personeelslid in de maand oktober van het in aanmerking te nemen jaar geen of slechts een gedeeltelijk salaris ontvangen heeft, dan wordt het percentage berekend op basis van het salaris dat voor diezelfde maand betaald zou zijn als het personeelslid zijn functie wel volledig had uitgeoefend.<br>
+<br>
+De verhogingen van het forfaitaire gedeelte, vermeld in het punt 1°, c), d) en e), zijn niet van toepassing op de personeelsleden die op grond van de federale wetgeving over de financiering van sommige gezondheidsinstellingen recht hebben op een jaarlijkse premie en een attractiviteitspremie. De premie en attractiviteitspremie worden toegekend in de plaats van de genoemde verhogingen van de eindejaarstoelage in overeenstemming met de onderrichtingen van de federale financierende overheid.<br>
+<br>
+Voor de personeelsleden, vermeld in punt 1 onder de rubriek "dringende maatregelen koopkracht" van het deelakkoord VIA6 - koopkracht publieke sector van 22 december 2020, met uitzondering van het personeel van de federaal gefinancierde gezondheidsinstellingen, gelden de volgende bepalingen:<br>
+1° in afwijking van het tweede lid, 2°, bedraagt het veranderlijke gedeelte 3,6 procent van het jaarsalaris, vermeld in het tweede lid, 2° ;<br>
+2° als het personeelslid in kwestie recht heeft op een attractiviteitspremie, wordt die voor de toepassing van het tweede lid, 1°, in mindering gebracht van het forfaitaire gedeelte, vermeld in het tweede lid, 1°.&nbsp;<br>
+<br>
+In het vierde lid wordt verstaan onder deelakkoord VIA6 - koopkracht publieke sector van 22 december 2020: het deelakkoord van 22 december 2020 tussen de sociale partners van de publieke sector over de aanwending van de middelen koopkracht VIA6, zoals goedgekeurd bij protocol nr. 2020/5 houdende de conclusies van de onderhandelingen die op 23 december 2020 werden gevoerd in de onderafdeling `Vlaams Gewest en Vlaamse Gemeenschap' van de eerste afdeling van het comité voor de provinciale en plaatselijke overheidsdiensten over het ontwerp van het deelakkoord tussen de sociale partners van de publieke sector over de aanwending van de middelen koopkracht VIA6, dat is opgenomen in bijlage 2, die bij dit besluit is gevoegd.
 
 ### ART. 99.
 
@@ -8104,3 +8121,7 @@ Uitgewerkte salarisschalen<br>
 </table>
 
 <p>&nbsp;</p>
+
+### BIJLAGE 2.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/10/25_1.pdf#page=22">Deelakkoord VIA6</a>
