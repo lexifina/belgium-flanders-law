@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036183,
+  "title": "Besluit van de Vlaamse Regering van 2021-06-18 tot erkenning van de beroepskwalificatie medewerker stukadoorwerken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036183/VolledigDocument?datum=2021-11-05",
+  "source_sha256": "94f7da68aa09b0e7a1f3cad949f8398a00a135fd866d5bfb4af93f56d07b665e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036183&param=informatie",
+  "as_of": "2021-11-05",
+  "made": "2021-06-18",
+  "gazette": "2021-10-26",
+  "numac": 2021032814,
+  "document_start": "2021-11-05",
+  "document_end": null,
+  "in_force": "2021-11-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-11-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
