@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036189,
+  "title": "Besluit van de Vlaamse Regering van 2021-06-18 tot erkenning van de beroepskwalificatie buitenschrijnwerker aluminium/metaal",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036189/VolledigDocument?datum=2021-11-05",
+  "source_sha256": "e45c577e99059f1ec886825421455a6a801ba829b9c54e3ffa5b06ef29f7b2f0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036189&param=informatie",
+  "as_of": "2021-11-05",
+  "made": "2021-06-18",
+  "gazette": "2021-10-26",
+  "numac": 2021033343,
+  "document_start": "2021-11-05",
+  "document_end": null,
+  "in_force": "2021-11-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-11-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
