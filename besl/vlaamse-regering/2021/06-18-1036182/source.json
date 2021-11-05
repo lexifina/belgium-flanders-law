@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036182,
+  "title": "Besluit van de Vlaamse Regering van 2021-06-18 tot erkenning van de beroepskwalificatie medewerker dekvloeren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036182/VolledigDocument?datum=2021-11-05",
+  "source_sha256": "32297d34e86c847838f40426a4c5abddf0daa5b7645e9a88c717d2d0f714504d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036182&param=informatie",
+  "as_of": "2021-11-05",
+  "made": "2021-06-18",
+  "gazette": "2021-10-26",
+  "numac": 2021032813,
+  "document_start": "2021-11-05",
+  "document_end": null,
+  "in_force": "2021-11-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-11-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
