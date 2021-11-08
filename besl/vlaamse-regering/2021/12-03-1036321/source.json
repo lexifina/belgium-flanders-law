@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036321,
+  "title": "Besluit van de Vlaamse Regering van 2021-12-03 over een tijdelijke uitbreiding van het verlof wegens overmacht voor de personeelsleden van het onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036321/VolledigDocument?datum=2021-11-08",
+  "source_sha256": "34adc0abcac4f527189a022bb2d59b467724d1d9f5b0001579ab1da86b17b207",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036321&param=informatie",
+  "as_of": "2021-11-08",
+  "made": "2021-12-03",
+  "gazette": "2021-12-15",
+  "numac": 2021034281,
+  "document_start": "2021-11-08",
+  "document_end": "2023-08-31",
+  "in_force": "2021-11-08",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-11-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
