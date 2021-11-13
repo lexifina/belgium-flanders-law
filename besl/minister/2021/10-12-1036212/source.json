@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036212,
+  "title": "Ministerieel besluit van 2021-10-12 tot vaststelling van de data van het toelatingsexamen arts en het toelatingsexamen tandarts in 2022",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036212/VolledigDocument?datum=2021-11-13",
+  "source_sha256": "426dc2541571492ba4fcbf943d1c29cb745c51a9339258de831dbb6ca6fc63c8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036212&param=informatie",
+  "as_of": "2021-11-13",
+  "made": "2021-10-12",
+  "gazette": "2021-11-03",
+  "numac": 2021033593,
+  "document_start": "2021-11-13",
+  "document_end": null,
+  "in_force": "2021-11-13",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2021-11-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
