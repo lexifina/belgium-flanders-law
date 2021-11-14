@@ -1,0 +1,406 @@
+# Besluit van de Vlaamse Regering van 2021-10-15 tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2021
+
+### Aanhef
+
+Rechtsgrond(en)<br>
+Dit besluit is gebaseerd op:<br>
+- de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, artikel 21, eerste lid, 2°, b, artikel 22 en artikel 24, eerste lid;<br>
+- het decreet van 9 juli 2021 houdende aanpassing van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2021, artikel 21 § 1.<br>
+<br>
+Vormvereiste(n)<br>
+De volgende vormvereiste is vervuld:<br>
+- de Vlaamse minister, bevoegd voor het budgettair beleid, heeft zijn akkoord gegeven op 14 oktober 2021.<br>
+<br>
+Motivering<br>
+Dit besluit is gebaseerd op het volgende motief:<br>
+- De financiering van beleidsinitiatieven van de verschillende beleidsdomeinen in het kader van het relanceplan Vlaamse Veerkracht.<br>
+<br>
+Juridisch kader<br>
+Dit besluit sluit aan bij de volgende regelgeving:<br>
+- de Vlaamse Codex Overheidsfinanciën van 29 maart 2019;<br>
+- het Besluit Vlaamse Codex Overheidsfinanciën van 17 mei 2019.<br>
+<br>
+Initiatiefnemer(s)<br>
+Dit besluit wordt voorgesteld door de Vlaamse minister van Financiën en Begroting, Wonen en Onroerend Erfgoed.<br>
+<br>
+Na beraadslaging,<br>
+<br>
+DE VLAAMSE REGERING BESLUIT:
+
+### ART 1.
+
+De kredieten ingeschreven onder de begrotingsartikelen van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2021, worden herverdeeld overeenkomstig de onderstaande tabel:<br>
+(in duizend euro)
+<table border="1" style="width:800px">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="2">Begrotingsartikel</td>
+			<td rowspan="2">Ent.</td>
+			<td rowspan="2">Basisall.</td>
+			<td rowspan="2">ESR</td>
+			<td colspan="2">VAN</td>
+			<td colspan="2">NAAR</td>
+		</tr>
+		<tr>
+			<td>VAK</td>
+			<td>VEK</td>
+			<td>VAK</td>
+			<td>VEK</td>
+		</tr>
+		<tr>
+			<td>CB0-1CBG2AH-PR</td>
+			<td>CB0</td>
+			<td>1CB037</td>
+			<td>0100</td>
+			<td>48.802</td>
+			<td>22.071</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>EC0-1ECB5DY-IS</td>
+			<td>EC0</td>
+			<td>1EC243</td>
+			<td>4140</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>1232</td>
+			<td>980</td>
+		</tr>
+		<tr>
+			<td>EC0-1ECB5DY-IS</td>
+			<td>EC0</td>
+			<td>1EC247</td>
+			<td>4140</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>3000</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>FB0-1FGD2GL-WT</td>
+			<td>FB0</td>
+			<td>1FG330</td>
+			<td>1211</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>225</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>FB0-1FGD2GL-WT</td>
+			<td>FB0</td>
+			<td>1FG332</td>
+			<td>3300</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>30</td>
+			<td>30</td>
+		</tr>
+		<tr>
+			<td>FI0-1FGD2IA-WT</td>
+			<td>FI0</td>
+			<td>1FG603</td>
+			<td>1211</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>99</td>
+			<td>99</td>
+		</tr>
+		<tr>
+			<td>GB0-1GEF2MX-IS</td>
+			<td>GB0</td>
+			<td>1GE017</td>
+			<td>4140</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>1125</td>
+			<td>69</td>
+		</tr>
+		<tr>
+			<td>GB0-1GEF2UX-IS</td>
+			<td>GB0</td>
+			<td>1GE020</td>
+			<td>4140</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>11400</td>
+			<td>2100</td>
+		</tr>
+		<tr>
+			<td>GB0-1GHF2TX-IS</td>
+			<td>GB0</td>
+			<td>1GH015</td>
+			<td>4140</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>2000</td>
+			<td>2000</td>
+		</tr>
+		<tr>
+			<td>HB0-1HBA2AB-WT</td>
+			<td>HB0</td>
+			<td>1HB068</td>
+			<td>7200</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>75</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>HB0</td>
+			<td>1HB051</td>
+			<td>5210</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>51</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>HB0</td>
+			<td>1HB063</td>
+			<td>5210</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>2378</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>HB0-1HBA2BB-WT</td>
+			<td>HB0</td>
+			<td>1HB066</td>
+			<td>5210</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>387</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>JB0-1JDB2AD-IS</td>
+			<td>JB0</td>
+			<td>1JD233</td>
+			<td>4150</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>2113</td>
+			<td>529</td>
+		</tr>
+		<tr>
+			<td>JB0-1JDB2AD-WT</td>
+			<td>JB0</td>
+			<td>1JD220</td>
+			<td>3132</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>5555</td>
+			<td>1389</td>
+		</tr>
+		<tr>
+			<td>JB0-1JDB2CY-IS</td>
+			<td>JB0</td>
+			<td>1JD222</td>
+			<td>4140</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>3690</td>
+			<td>3690</td>
+		</tr>
+		<tr>
+			<td>JB0-1JFB2FY-IS</td>
+			<td>JB0</td>
+			<td>1JF140</td>
+			<td>4140</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>1500</td>
+			<td>1500</td>
+		</tr>
+		<tr>
+			<td>MB0-1MEH5EY-IS</td>
+			<td>MB0</td>
+			<td>1ME030</td>
+			<td>6141</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>2</td>
+			<td>599</td>
+		</tr>
+		<tr>
+			<td>MB0-1MFH2LA-WT</td>
+			<td>MB0</td>
+			<td>1MF063</td>
+			<td>1211</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>68</td>
+			<td>68</td>
+		</tr>
+		<tr>
+			<td>MB0-1MFH2LY-IS</td>
+			<td>MB0</td>
+			<td>1MF058</td>
+			<td>6131</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>2963</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>MB0-1MFH2LY-IS</td>
+			<td>MB0</td>
+			<td>1MF059</td>
+			<td>6131</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>1800</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>MB0-1MFH2LY-IS</td>
+			<td>MB0</td>
+			<td>1MF061</td>
+			<td>6131</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>99</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>MB0-1MHH4NA-WT</td>
+			<td>MB0</td>
+			<td>1MH020</td>
+			<td>3300</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>658</td>
+			<td>658</td>
+		</tr>
+		<tr>
+			<td>MB0-1MHH5RY-PA</td>
+			<td>MB0</td>
+			<td>1MH019</td>
+			<td>8571</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>2000</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>MB0-1MIH5VY-IS</td>
+			<td>MB0</td>
+			<td>1MI032</td>
+			<td>6141</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>3</td>
+			<td>215</td>
+		</tr>
+		<tr>
+			<td>MB0-1MIH5VY-IS</td>
+			<td>MB0</td>
+			<td>1MI033</td>
+			<td>6141</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>300</td>
+			<td>2618</td>
+		</tr>
+		<tr>
+			<td>MB0-1MIH5VY-IS</td>
+			<td>MB0</td>
+			<td>1MI034</td>
+			<td>4140</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0</td>
+			<td>14</td>
+		</tr>
+		<tr>
+			<td>MB0-1MIH5VY-IS</td>
+			<td>MB0</td>
+			<td>1MI036</td>
+			<td>6141</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>3455</td>
+			<td>554</td>
+		</tr>
+		<tr>
+			<td>QB0-1QCE2OX-IS</td>
+			<td>QB0</td>
+			<td>1QC933</td>
+			<td>6131</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>75</td>
+			<td>75</td>
+		</tr>
+		<tr>
+			<td>QG0-1QGG2CB-WT</td>
+			<td>QG0</td>
+			<td>1QG792</td>
+			<td>6321</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0</td>
+			<td>516</td>
+		</tr>
+		<tr>
+			<td>SC0-1SJA2NY-IS</td>
+			<td>SC0</td>
+			<td>1SJ223</td>
+			<td>4140</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0</td>
+			<td>3500</td>
+		</tr>
+		<tr>
+			<td>SJ0-1SFC2DY-IS</td>
+			<td>SJ0</td>
+			<td>1SF629</td>
+			<td>4170</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>1894</td>
+			<td>540</td>
+		</tr>
+		<tr>
+			<td>SJ0-1SGI5EX-IS</td>
+			<td>SJ0</td>
+			<td>1SG633</td>
+			<td>6141</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>525</td>
+			<td>303</td>
+		</tr>
+		<tr>
+			<td>SJ0-1SMC2GD-WT</td>
+			<td>SJ0</td>
+			<td>1SM646</td>
+			<td>1211</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>100</td>
+			<td>25</td>
+		</tr>
+		<tr>
+			<td colspan="4">Totaal</td>
+			<td>48.802</td>
+			<td>22.071</td>
+			<td>48.802</td>
+			<td>22.071</td>
+		</tr>
+	</tbody>
+</table>
+
+### ART 2.
+
+Als in gevolge de goedkeuring van dit besluit aanpassingen aan de begrotingen van Diensten met Afzonderlijk Beheer of Vlaamse Rechtspersonen worden aangevraagd om de toelageverhogingen op te nemen op de begrotingsposten die weerslag ondervinden van dit besluit, dan stellen deze entiteiten een voorstel van aangepaste begroting op.
+
+### ART 3.
+
+De Vlaamse minister, bevoegd voor het budgettair beleid, is belast met de uitvoering van dit besluit.

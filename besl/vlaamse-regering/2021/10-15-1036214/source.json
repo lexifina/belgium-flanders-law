@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036214,
+  "title": "Besluit van de Vlaamse Regering van 2021-10-15 tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2021",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036214/VolledigDocument?datum=2021-11-14",
+  "source_sha256": "dc11da2e0cbaf2dc2e6fc36e6e53fa56ae924c1c6d1d1f96c465386bdabbdecd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036214&param=informatie",
+  "as_of": "2021-11-14",
+  "made": "2021-10-15",
+  "gazette": "2021-11-04",
+  "numac": 2021033661,
+  "document_start": "2021-11-14",
+  "document_end": null,
+  "in_force": "2021-11-14",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-11-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
