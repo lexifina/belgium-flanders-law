@@ -104,7 +104,8 @@ b) een rechtspersoon of groepering van natuurlijke personen die voldoet aan de d
 <p>Ter uitvoering van artikel 14 van verordening (EU) nr. 1307/2013 worden de volgende percentages van de jaarlijkse enveloppe voor rechtstreekse betalingen beschikbaar gesteld als aanvullende steun voor maatregelen in het kader van plattelandsontwikkelingsprogramma's die overeenkomstig verordening (EU) nr. 1305/2013 uit het Europees Landbouwfonds voor Plattelandsontwikkeling worden gefinancierd:<br>
 1° 5 % in kalenderjaar 2015;<br>
 2° 7,5 % in kalenderjaar 2016 en 2017;<br>
-3° 10 % in kalenderjaar 2018 en 2019.</p>
+3° 10 % in kalenderjaar 2018 en 2019.<br>
+4° 10% in het kalenderjaar 2022.</p>
 
 <p>De verschillende enveloppes voor de basisbetaling, de reserve, de vergroeningsbetaling, de betaling voor jonge landbouwers, de betaling voor gekoppelde steun en de overboeking conform artikel 15 van dit besluit worden berekend op basis van de jaarlijkse enveloppe voor rechtstreekse betalingen na aftrek van de bedragen, vermeld in het eerste lid.</p>
 
