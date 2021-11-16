@@ -14,7 +14,7 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ### ART. 2.
 
-De Vlaamse regering erkent de parochies en hun gebiedsomschrijving op voorstel van het door de federale overheid erkende representatieve orgaan van de rooms-katholieke eredienst, verder het erkend representatief orgaan genoemd.<br /><br />De criteria voor de erkenning zullen worden vastgesteld bij besluit van de Vlaamse regering.
+De Vlaamse regering erkent de parochies en hun gebiedsomschrijving op voorstel van het door de federale overheid erkende representatieve orgaan van de rooms-katholieke eredienst, verder het erkend representatief orgaan genoemd.
 
 ### ART. 3.
 
@@ -28,47 +28,47 @@ De kerkfabriek is belast met de zorg voor de materiële voorwaarden die de uitoe
 
 ### ART. 4/1.
 
-De Vlaamse Regering erkent de wijzigingen van de gebiedsomschrijvingen van de erkende parochies, op voorstel van het erkend representatief orgaan. De criteria voor de erkenning, vermeld in artikel 2, tweede lid, zijn in dit geval niet van toepassing.<br /><br />De Vlaamse Regering stelt de procedureregels vast.
+...
 
 ### ART. 4/2.
 
-De Vlaamse Regering kan, op voorstel van het erkend representatief orgaan, de erkenning opheffen van een erkende annexe-kerk of kapelanij. Als aan de kapelanij een afzonderlijke kerkfabriek verbonden is, zijn evenwel artikel 4/3 tot en met 4/11 van toepassing.<br /><br />De Vlaamse Regering stelt de procedureregels vast.
+...
 
 ### ART. 4/3.
 
-De Vlaamse Regering erkent de samenvoeging van twee of meer erkende parochies door het erkend representatief orgaan. Het erkend representatief orgaan stelt de betrokken kerkfabrieken en het centraal kerkbestuur onverwijld in kennis van zijn beslissing tot samenvoeging. De criteria voor de erkenning, vermeld in artikel 2, tweede lid, zijn niet van toepassing op een dergelijke samenvoegingsprocedure.<br /><br />De Vlaamse Regering stelt de procedureregels vast.
+...
 
 ### ART. 4/4.
 
-De erkenning van de samenvoeging van twee of meer erkende parochies maakt een einde aan het bestaan van de kerkfabrieken van de samengevoegde parochies, met uitzondering van de kerkfabriek die door het representatief orgaan wordt aangeduid als de te behouden kerkfabriek. <br /><br />De erkenning van de samenvoeging van twee of meer erkende parochies maakt van rechtswege een einde aan het mandaat van de leden van de kerkraden van alle samengevoegde kerkfabrieken.<br /><br />Een dergelijke samenvoeging heeft geen invloed op de samenstelling van het centraal kerkbestuur waaronder de kerkfabrieken van de samengevoegde parochies ressorteerden, tot de eerstvolgende verkiezing van dat centraal kerkbestuur. Als er in de gemeente een centraal kerkbestuur werd opgericht, blijft dat centraal kerkbestuur bestaan, tenzij die samenvoeging er toe leidt dat er nog slechts één erkende parochie van de rooms-katholieke eredienst is waarvan de hoofdkerk op het grondgebied van de gemeente ligt. In dat laatste geval wordt het centraal kerkbestuur van die gemeente, als dat werd opgericht, opgeheven.
+...
 
 ### ART. 4/5.
 
-De leden van de kerkraad van de te behouden kerkfabriek, worden na de samenvoeging de eerste keer aangesteld door het erkend representatief orgaan, op voorstel van de door dat orgaan aangestelde verantwoordelijke van de nieuwe parochie.<br /><br />De Vlaamse Regering bepaalt bij de erkenning van de samenvoeging wanneer de eerste gedeeltelijke vernieuwing van de kerkraad plaatsvindt. Het lot wijst de leden aan die bij die eerste gedeeltelijke vernieuwing uittreden.
+...
 
 ### ART. 4/6.
 
-Vanaf de datum van de kennisgeving van de beslissing van het erkend representatief orgaan tot samenvoeging van twee of meer parochies, worden de bevoegdheden van de bestuursorganen van de kerkfabrieken van die parochies, behalve van de te behouden kerkfabriek, beperkt tot de handelingen die voortvloeien uit het dagelijkse beheer, die gaan over de dringende zaken of die betrekking hebben op de lopende zaken. Zo niet zijn de genomen beslissingen of de gevolgen ervan niet tegenstelbaar aan de bestuursorganen van de te behouden kerkfabriek.
+...
 
 ### ART. 4/7.
 
-Alle roerende goederen worden overgedragen aan de te behouden kerkfabriek.<br /><br />De in het eerste lid bedoelde overdracht wordt van rechtswege uitgevoerd. De overdracht is zonder verdere formaliteiten tegenstelbaar aan derden op de datum van de erkenning van de samenvoeging.<br /><br />De goederen, bedoeld in dit artikel, worden overgedragen in de staat waarin ze zich bevinden, met inbegrip van de lasten en de verplichtingen die eigen zijn aan de goederen.<br /><br />De te behouden kerkfabriek treedt op de datum van de erkenning van de samenvoeging in de rechten en plichten van de andere kerkfabrieken van de samengevoegde parochies voor de roerende goederen die aan haar werden overgedragen, met inbegrip van de rechten en plichten die voortvloeien uit de hangende en de toekomstige gerechtelijke procedures.
+...
 
 ### ART. 4/8.
 
-De onroerende goederen die eigendom zijn van de kerkfabrieken van de samengevoegde parochies, worden overgedragen aan de te behouden kerkfabriek, op de datum van de erkenning van de samenvoeging. De te behouden kerkfabriek neemt de rechten, plichten en lasten over van de onroerende goederen waarvan de eigendom aan haar werd overgedragen.
+...
 
 ### ART. 4/9.
 
-De te behouden kerkfabriek neemt op de datum van de erkenning van de samenvoeging de rechten, plichten en lasten over van de kerkfabrieken van de samengevoegde parochies, die voortvloeien uit overeenkomsten.
+...
 
 ### ART. 4/10.
 
-Met behoud van de toepassing van artikel 4/6 wordt elke procedure voor overheidsopdrachten voor aanneming van werken, leveringen en diensten, gegund door een van de kerkfabrieken van de samengevoegde parochies, voortgezet door de te behouden kerkfabriek, vanaf de datum van de erkenning van de samenvoeging.
+...
 
 ### ART. 4/11.
 
-De penningmeesters van de kerkfabrieken van de samengevoegde parochies maken hun eindrekening op met toepassing van artikel 56.<br /> <br />De te behouden kerkfabriek neemt van rechtswege de activa en passiva van de kerkfabrieken van de samengevoegde parochies over.<br /><br />De eindrekeningen van de penningmeesters van de kerkfabrieken van de samengevoegde parochies worden ter goedkeuring voorgelegd aan de kerkraad van de te behouden kerkfabriek.
+...
 
 ## AFDELING 2 KERKRAAD
 
@@ -164,9 +164,7 @@ In de gemeenten waar twee of meer parochies van de rooms-katholieke eredienst er
 
 Een samenvoeging van gemeenten maakt een einde aan het bestaan van de centrale kerkbesturen van de samengevoegde gemeenten en aan het mandaat van alle leden van die centrale kerkbesturen. In de nieuwe gemeente wordt een nieuw centraal kerkbestuur opgericht.<br>
 <br>
-Artikel 4/7 tot en met 4/10 zijn in die situatie van toepassing, met dien verstande dat de hiernavolgende woorden worden gelezen als volgt:<br>
-1° "de te behouden kerkfabriek" als "het nieuwe centraal kerkbestuur";<br>
-2° "de kerkfabrieken van de samengevoegde parochies" als "de centrale kerkbesturen waarvan het bestaan beëindigd wordt".
+In het geval, vermeld in het eerste lid, is artikel 43 van het erkenningsdecreet Lokale Geloofsgemeenschappen van 22 oktober 2021 van toepassing, met dien verstande dat de woorden "het te behouden bestuur van de eredienst" worden gelezen als "het nieuwe centraal kerkbestuur" en de woorden "de samengevoegde besturen van de eredienst" worden gelezen als "de centrale kerkbesturen waarvan het bestaan beëindigd wordt".
 
 ### ART. 26.
 
@@ -306,7 +304,24 @@ De kosten en uitgaven die de kerkfabriek moet dragen, zijn de volgende:<br /><br
 
 ### ART. 52/1.
 
-§ 1. De gemeentebesturen passen de tekorten bij van de exploitatie van de kerkfabrieken en dragen bij in de investeringen in de gebouwen van de eredienst.<br /><br />In afwijking van het eerste lid kan een gemeentebestuur niet verplicht worden bij te dragen in de investeringen in gebouwen van de eredienst die geen eigendom zijn van een publieke rechtspersoon. Voor de toepassing van dit lid wordt met eigendom gelijkgesteld een zakelijk recht dat voldoet aan de volgende voorwaarden : <br />1° het zakelijk recht verzekert een bij de inwerkingtreding van dit decreet bestaande kerkfabriek het genot van het goed gedurende nog ten minste dertig jaar;<br />2° bij het einde van het zakelijk recht zal de eigenaar een vergoeding verschuldigd zijn aan de kerkfabriek gelijk aan de meerwaarde die op dat tijdstip zal ontstaan door de aan de gebouwen aangebrachte verbouwingen of nieuw opgerichte gebouwen;<br />3° het zakelijk recht kan slechts vervreemd of met een zakelijk recht bezwaard wordenmet instemming van het gemeentebestuur.<br /><br />In de parochies waar er een bedienaar van de eredienst, belast met de eredienst van de parochie, verblijft, stelt de gemeente de bedienaar een pastorie ter beschikking, of, als er geen pastorie is, een woning of een woonstvergoeding.<br /><br />In de parochies waar er geen bedienaar van de eredienst, belast met de eredienst van de parochie, verblijft, stellen de gemeenten aan de kerkfabriek een ruimte ter beschikking waar de gelovigen ontvangen kunnen worden, waar de kerkraad kan vergaderen en waar het archief van de kerkfabriek kan worden bewaard, of betalen de kerkfabriek een secretariaatsvergoeding. Die verplichting geldt ook voor de parochies waar er wel een bedienaar van de eredienst, belast met de eredienst van de parochie, verblijft, als zijn woning niet geschikt is om die functies te vervullen.<br /><br />§ 2. De roerende en onroerende eigendommen en financiële beleggingen van de kerkfabriek, met uitzondering van de erkende gebouwen van de eredienst, vormen de reserves van de kerkfabriek en worden beheerd met het oog op het realiseren van een zo hoog mogelijk jaarlijks rendement, tenzij in het overleg, vermeld in artikel 33, andere afspraken gemaakt worden. Wat betreft de financiële beleggingen zijn enkel beleggingsvormen in euro met volledige kapitaalsgarantie bij erkende instellingen toegestaan.<br /><br />De gemeente kan de kerkfabriek niet verplichten om die reserves te gebruiken voor investeringen in het kerkgebouw.<br /><br />§ 3. Als de gebiedsomschrijving van een parochie zich uitstrekt over het grondgebied van meer dan één gemeente, worden de verplichtingen, vermeld in paragraaf 1 gedeeld gedragen door alle betrokken gemeenten. Als de gemeente waar de hoofdkerk van de parochie zich bevindt, de overige gemeenten niet betrekt bij het overleg, vermeld in artikel 33, of de overige gemeenten niet in kennis stelt van de beslissingen van de gemeenteraad over het meerjarenplan en het budget, overeenkomstig artikel 43, vijfde lid, en artikel 49, § 1, vierde lid, komen die verplichtingen alleen ten laste van de gemeente waar de hoofdkerk van de parochie zich bevindt.
+§ 1. De gemeentebesturen passen de tekorten bij van de exploitatie van de kerkfabrieken en dragen bij in de investeringen in de gebouwen van de eredienst.<br>
+<br>
+In afwijking van het eerste lid kan een gemeentebestuur niet verplicht worden bij te dragen in de investeringen in gebouwen van de eredienst die geen eigendom zijn van een publieke rechtspersoon. Voor de toepassing van dit lid wordt met eigendom gelijkgesteld een zakelijk recht dat voldoet aan de volgende voorwaarden :<br>
+1° het zakelijk recht verzekert een bij de inwerkingtreding van dit decreet bestaande kerkfabriek het genot van het goed gedurende nog ten minste dertig jaar;<br>
+2° bij het einde van het zakelijk recht zal de eigenaar een vergoeding verschuldigd zijn aan de kerkfabriek gelijk aan de meerwaarde die op dat tijdstip zal ontstaan door de aan de gebouwen aangebrachte verbouwingen of nieuw opgerichte gebouwen;<br>
+3° het zakelijk recht kan slechts vervreemd of met een zakelijk recht bezwaard wordenmet instemming van het gemeentebestuur.<br>
+<br>
+In de parochies waar er een bedienaar van de eredienst, belast met de eredienst van de parochie, verblijft, stelt de gemeente de bedienaar een pastorie ter beschikking, of, als er geen pastorie is, een woning of een woonstvergoeding.<br>
+<br>
+In de parochies waar er geen bedienaar van de eredienst, belast met de eredienst van de parochie, verblijft, stellen de gemeenten aan de kerkfabriek een ruimte ter beschikking waar de gelovigen ontvangen kunnen worden, waar de kerkraad kan vergaderen en waar het archief van de kerkfabriek kan worden bewaard, of betalen de kerkfabriek een secretariaatsvergoeding. Die verplichting geldt ook voor de parochies waar er wel een bedienaar van de eredienst, belast met de eredienst van de parochie, verblijft, als zijn woning niet geschikt is om die functies te vervullen.<br>
+<br>
+§ 2. De roerende en onroerende eigendommen en financiële beleggingen van de kerkfabriek, met uitzondering van de erkende gebouwen van de eredienst, vormen de reserves van de kerkfabriek en worden beheerd met het oog op het realiseren van een zo hoog mogelijk jaarlijks rendement, tenzij in het overleg, vermeld in artikel 33, andere afspraken gemaakt worden. Wat betreft de financiële beleggingen zijn enkel beleggingsvormen in euro met volledige kapitaalsgarantie bij erkende instellingen toegestaan.<br>
+<br>
+De gemeente kan de kerkfabriek niet verplichten om die reserves te gebruiken voor investeringen in het kerkgebouw.<br>
+<br>
+§ 3. Als de gebiedsomschrijving van een parochie zich uitstrekt over het grondgebied van meer dan één gemeente, worden de verplichtingen, vermeld in paragraaf 1 gedeeld gedragen door alle betrokken gemeenten. Als de gemeente waar de hoofdkerk van de parochie zich bevindt, de overige gemeenten niet betrekt bij het overleg, vermeld in artikel 33, of de overige gemeenten niet in kennis stelt van de beslissingen van de gemeenteraad over het meerjarenplan en het budget, overeenkomstig artikel 43, vijfde lid, en artikel 49, § 1, vierde lid, komen die verplichtingen alleen ten laste van de gemeente waar de hoofdkerk van de parochie zich bevindt.<br>
+<br>
+§ 4. De Vlaamse Regering kan de verplichtingen in paragraaf 1 opschorten of beperken, conform artikel 29 § 1, eerste lid, van het erkenningsdecreet Lokale Geloofsgemeenschappen van 22 oktober 2021.
 
 ## AFDELING 4 BOEKHOUDING
 
@@ -350,11 +365,15 @@ De Vlaamse regering kan, bij een gemotiveerd besluit, het besluit vernietigen va
 
 ### ART. 60.
 
-De termijn waarbinnen de overheden, genoemd in artikelen 58 en 59, een besluit van de kerkraad of van het centraal kerkbestuur kunnen schorsen of vernietigen, wordt gestuit door de verzending van een aangetekende brief waarbij de toezichthoudende overheid het dossier betreffende dit besluit bij de kerkfabriek of het centraal kerkbestuur opvraagt of aanvullende inlichtingen inwint. De aangetekende verzending van een ingediende klacht aan een toezicht-houdende overheid stuit eveneens de termijn.<br /><br />De dag na de ontvangst van het dossier of van de aanvullende inlichtingen vangt een nieuwe termijn van dertig dagen aan.
+De termijn waarin de overheden, vermeld in artikel 58 en 59, een besluit van de kerkraad of van het centraal kerkbestuur kunnen schorsen of vernietigen, wordt gestuit als de toezichthoudende overheid het dossier over dat besluit bij de kerkfabriek of het centraal kerkbestuur opvraagt of aanvullende inlichtingen vraagt. Als de toezichthoudende overheid een klacht ontvangt, stuit dat ook de termijn, op voorwaarde dat die klacht verstuurd wordt op de wijze die de Vlaamse Regering bepaalt.<br>
+<br>
+De dag nadat de toezichthoudende overheid het dossier of de aanvullende inlichtingen heeft ontvangen, begint een nieuwe termijn van dertig dagen.
 
 ### ART. 61.
 
-§ 1. Een door de toezichthoudende overheid opgevraagd besluit van een kerkraad of een centraal kerkbestuur is niet langer vatbaar voor schorsing of vernietiging door de overheden, genoemd in artikelen 58 en 59, na het verstrijken van een termijn van dertig dagen, waarbinnen de toezichthoudende overheid haar besluit naar de kerkfabriek of het centraal kerkbestuur moet versturen, die ingaat op de dag die volgt op de ontvangst hetzij van het dossier dat met een aangetekende zending is opgestuurd of tegen ontvangstbewijs is afgegeven, hetzij van de aanvullende inlichtingen, bedoeld in artikel 60.<br /><br />§ 2. De goedkeuring van de rekening houdt in elk geval in dat de beslissingen van de kerkraad en van het centraal kerkbestuur, die genomen worden in de loop van het jaar waarop de rekening betrekking heeft en die niet werden opgevraagd, noch geschorst of vernietigd werden, niet langer vatbaar zijn voor schorsing en vernietiging.
+§ 1. Een door de toezichthoudende overheid opgevraagd besluit van een kerkraad of een centraal kerkbestuur is niet langer vatbaar voor schorsing of vernietiging door de overheden, genoemd in artikelen 58 en 59, na het verstrijken van een termijn van dertig dagen, waarbinnen de toezichthoudende overheid haar besluit naar de kerkfabriek of het centraal kerkbestuur moet versturen, die ingaat op de dag die volgt op de ontvangst hetzij van het dossier, hetzij van de aanvullende inlichtingen, bedoeld in artikel 60.<br>
+<br>
+§ 2. De goedkeuring van de rekening houdt in elk geval in dat de beslissingen van de kerkraad en van het centraal kerkbestuur, die genomen worden in de loop van het jaar waarop de rekening betrekking heeft en die niet werden opgevraagd, noch geschorst of vernietigd werden, niet langer vatbaar zijn voor schorsing en vernietiging.
 
 ### ART. 62.
 
@@ -424,11 +443,15 @@ De Vlaamse regering kan, bij een gemotiveerd besluit, het besluit vernietigen va
 
 ### ART. 74.
 
-De termijn waarbinnen de overheden, genoemd in artikelen 72 en 73, een besluit van de kathedrale kerkraad kunnen schorsen of vernietigen, wordt gestuit door de verzending van een aangetekende brief waarbij de toezichthoudende overheid het dossier betreffende dit besluit bij de kathedrale kerkfabriek opvraagt of aanvullende inlichtingen inwint. De aangetekende verzending van een ingediende klacht aan een toezichthoudende overheid stuit even-eens de termijn.<br /><br />De dag na de ontvangst van het dossier of van de aanvullende inlichtingen vangt een nieuwe termijn van dertig dagen aan.
+De termijn waarin de overheden, vermeld in artikel 72 en 73, een besluit van de kathedrale kerkraad kunnen schorsen of vernietigen, wordt gestuit als de toezichthoudende overheid het dossier over dat besluit bij de kathedrale kerkfabriek opvraagt of aanvullende inlichtingen vraagt. Als de toezichthoudende overheid een klacht ontvangt, stuit dat ook de termijn, op voorwaarde dat die klacht verstuurd wordt op de wijze die de Vlaamse Regering bepaalt.<br>
+<br>
+De dag nadat de toezichthoudende overheid het dossier of de aanvullende inlichtingen heeft ontvangen, begint een nieuwe termijn van dertig dagen.
 
 ### ART. 75.
 
-§ 1. Een door de toezichthoudende overheid opgevraagd besluit van een kathedrale kerkraad is niet langer vatbaar voor schorsing of vernietiging door de overheden, genoemd in artikelen 72 en 73, na het verstrijken van een termijn van dertig dagen, waarbinnen de toezichthoudende overheid haar besluit naar de kathedrale kerkfabriek moet versturen, die ingaat op de dag die volgt op de ontvangst hetzij van het dossier dat met een aangetekende zending is op-gestuurd of tegen ontvangstbewijs is afgegeven, hetzij van de aanvullende inlichtingen, bedoeld in artikel 74.<br /><br />§ 2. De goedkeuring van de rekening houdt in elk geval in dat de beslissingen van de kathedrale kerkraad, die genomen worden in de loop van het jaar waarop de rekening betrekking heeft en die niet werden opgevraagd, noch geschorst of vernietigd werden, niet langer vatbaar zijn voor schorsing en vernietiging.
+§ 1. Een door de toezichthoudende overheid opgevraagd besluit van een kathedrale kerkraad is niet langer vatbaar voor schorsing of vernietiging door de overheden, genoemd in artikelen 72 en 73, na het verstrijken van een termijn van dertig dagen, waarbinnen de toezichthoudende overheid haar besluit naar de kathedrale kerkfabriek moet versturen, die ingaat op de dag die volgt op de ontvangst hetzij van het dossier, hetzij van de aanvullende inlichtingen, bedoeld in artikel 74.<br>
+<br>
+§ 2. De goedkeuring van de rekening houdt in elk geval in dat de beslissingen van de kathedrale kerkraad, die genomen worden in de loop van het jaar waarop de rekening betrekking heeft en die niet werden opgevraagd, noch geschorst of vernietigd werden, niet langer vatbaar zijn voor schorsing en vernietiging.
 
 ### ART. 76.
 
@@ -454,7 +477,7 @@ De bepalingen van hoofdstukken II, III en V van deze titel zijn van overeenkomst
 
 ### ART. 79.
 
-De Vlaamse regering erkent de kerkgemeenten en hun gebiedsomschrijving op voorstel van het door de federale overheid erkende representatieve orgaan van de protestantse eredienst, verder het erkend representatieve orgaan genoemd.<br /><br />De criteria voor de erkenning zullen worden vastgesteld bij besluit van de Vlaamse regering.
+De Vlaamse regering erkent de kerkgemeenten en hun gebiedsomschrijving op voorstel van het door de federale overheid erkende representatieve orgaan van de protestantse eredienst, verder het erkend representatieve orgaan genoemd.
 
 ### ART. 80.
 
@@ -612,7 +635,7 @@ De bepalingen van hoofdstuk I, afdeling 1/1, en van hoofdstukken II, III, IV en 
 
 ### ART. 115.
 
-De Vlaamse regering erkent de parochies en hun gebiedsomschrijving op voorstel van het door de federale overheid erkende representatieve orgaan van de anglicaanse eredienst, verder het erkend representatief orgaan genoemd.<br /><br />De criteria voor de erkenning zullen worden vastgesteld bij besluit van de Vlaamse regering.
+De Vlaamse regering erkent de parochies en hun gebiedsomschrijving op voorstel van het door de federale overheid erkende representatieve orgaan van de anglicaanse eredienst, verder het erkend representatief orgaan genoemd.
 
 ### ART. 116.
 
@@ -770,7 +793,7 @@ De bepalingen van hoofdstuk I, afdeling 1/1, en van hoofdstukken II, III, IV en 
 
 ### ART. 151.
 
-De Vlaamse regering erkent de Israëlitische gemeenten en hun gebiedsomschrijving op voorstel van het door de federale overheid erkende representatief orgaan van de Israëlitische eredienst, verder het erkend representatief orgaan genoemd.<br /><br />De criteria voor de erkenning zullen worden vastgesteld bij besluit van de Vlaamse regering.
+De Vlaamse regering erkent de Israëlitische gemeenten en hun gebiedsomschrijving op voorstel van het door de federale overheid erkende representatief orgaan van de Israëlitische eredienst, verder het erkend representatief orgaan genoemd.
 
 ### ART. 152.
 
@@ -930,7 +953,7 @@ De bepalingen van hoofdstuk I, afdeling 1/1, en van hoofdstukken II, III, IV en 
 
 ### ART. 187.
 
-De Vlaamse regering erkent de parochies en hun gebiedsomschrijving op voorstel van het door de federale overheid erkende representatieve orgaan van de orthodoxe eredienst, verder het erkend representatief orgaan genoemd.<br /><br />De criteria voor de erkenning zullen worden vastgesteld bij besluit van de Vlaamse regering.
+De Vlaamse regering erkent de parochies en hun gebiedsomschrijving op voorstel van het door de federale overheid erkende representatieve orgaan van de orthodoxe eredienst, verder het erkend representatief orgaan genoemd.
 
 ### ART. 188.
 
@@ -1098,11 +1121,15 @@ De Vlaamse regering kan, bij een gemotiveerd besluit, het besluit vernietigen va
 
 ### ART. 225.
 
-De termijn waarbinnen de overheden, genoemd in artikelen 223 en 224, een besluit van de kerkfabriekraad of van het centraal kerkbestuur kunnen schorsen of vernietigen, wordt gestuit door de verzending van een aangetekende brief waarbij de toezichthoudende overheid het dossier betreffende een bepaald besluit bij de orthodoxe kerkfabriek of het centraal kerkbestuur opvraagt of aanvullende inlichtingen inwint. De aangetekende verzending van een ingediende klacht aan een toezichthoudende overheid stuit eveneens de termijn.<br /><br />De dag na de ontvangst van het dossier of van de aanvullende inlichtingen vangt een nieuwe termijn van dertig dagen aan.
+De termijn waarin de overheden, vermeld in artikel 223 en 224, een besluit van de kerkfabriekraad of van het centraal kerkbestuur kunnen schorsen of vernietigen, wordt gestuit als de toezichthoudende overheid het dossier over dat besluit bij de orthodoxe kerkfabriek of het centraal kerkbestuur opvraagt of aanvullende inlichtingen vraagt. Als de toezichthoudende overheid een klacht ontvangt, stuit dat ook de termijn, op voorwaarde dat die klacht verstuurd wordt op de wijze die de Vlaamse Regering bepaalt.<br>
+<br>
+De dag nadat de toezichthoudende overheid het dossier of de aanvullende inlichtingen heeft ontvangen, begint een nieuwe termijn van dertig dagen
 
 ### ART. 226.
 
-§ 1. Een door de toezichthoudende overheid opgevraagd besluit van een kerkfabriekraad of een centraal kerkbestuur is niet langer vatbaar voor schorsing of vernietiging door de overheden, bedoeld in artikelen 222 en 223, na het verstrijken van een termijn van dertig dagen, waarbinnen de toezichthoudende overheid haar besluit naar de orthodoxe kerkfabriek of het centraal kerkbestuur moet versturen, die ingaat op de dag die volgt op de ontvangst hetzij van het dossier dat met een aangetekende zending is opgestuurd of tegen ontvangstbewijs is afgegeven, hetzij van de aanvullende inlichtingen, bedoeld in artikel 224.<br /><br />§ 2. De goedkeuring van de rekening houdt in elk geval in dat de beslissingen van de kerkfabriekraad en van het centraal kerkbestuur, die genomen worden in de loop van het jaar waarop de rekening betrekking heeft en die niet werden opgevraagd, noch geschorst of vernietigd werden, niet langer vatbaar zijn voor schorsing en vernietiging.
+§ 1. Een door de toezichthoudende overheid opgevraagd besluit van een kerkfabriekraad of een centraal kerkbestuur is niet langer vatbaar voor schorsing of vernietiging door de overheden, bedoeld in artikelen 222 en 223, na het verstrijken van een termijn van dertig dagen, waarbinnen de toezichthoudende overheid haar besluit naar de orthodoxe kerkfabriek of het centraal kerkbestuur moet versturen, die ingaat op de dag die volgt op de ontvangst hetzij van het dossier, hetzij van de aanvullende inlichtingen, bedoeld in artikel 224.<br>
+<br>
+§ 2. De goedkeuring van de rekening houdt in elk geval in dat de beslissingen van de kerkfabriekraad en van het centraal kerkbestuur, die genomen worden in de loop van het jaar waarop de rekening betrekking heeft en die niet werden opgevraagd, noch geschorst of vernietigd werden, niet langer vatbaar zijn voor schorsing en vernietiging.
 
 ### ART. 227.
 
@@ -1126,7 +1153,7 @@ De bepalingen van hoofdstuk I, afdeling 1/1, en van hoofdstukken II, III en V va
 
 ### ART. 230.
 
-De Vlaamse regering erkent de islamitische gemeenschappen en hun gebiedsomschrijving op voorstel van het door de federale overheid erkende representatief orgaan van de islamitische eredienst, verder het erkend representatief orgaan genoemd.<br /><br />De criteria voor de erkenning zullen worden vastgesteld bij besluit van de Vlaamse regering.
+De Vlaamse regering erkent de islamitische gemeenschappen en hun gebiedsomschrijving op voorstel van het door de federale overheid erkende representatief orgaan van de islamitische eredienst, verder het erkend representatief orgaan genoemd.
 
 ### ART. 231.
 
@@ -1294,11 +1321,15 @@ De Vlaamse regering kan, bij een gemotiveerd besluit, het besluit vernietigen va
 
 ### ART. 268.
 
-De termijn waarbinnen de overheden, genoemd in artikelen 266 en 267, een besluit van het comité of van het centraal bestuur kunnen schorsen of vernietigen, wordt gestuit door de verzending van een aangetekende brief waarbij de toezichthoudende overheid het dossier betreffende dit besluit bij het comité of het centraal bestuur opvraagt of aanvullende inlichtingen inwint. De aangetekende verzending van een ingediende klacht aan een toezichthoudende overheid stuit eveneens de termijn.<br /><br />De dag na de ontvangst van het dossier of van de aanvullende inlichtingen vangt een nieuwe termijn van dertig dagen aan.
+De termijn waarin de overheden, vermeld in artikel 266 en 267, een besluit van het comité of van het centraal bestuur kunnen schorsen of vernietigen, wordt gestuit als de toezichthoudende overheid het dossier over dat besluit bij het comité of het centraal bestuur opvraagt of aanvullende inlichtingen vraagt. Als de toezichthoudende overheid een klacht ontvangt, stuit dat ook de termijn, op voorwaarde dat die klacht verstuurd wordt op de wijze die de Vlaamse Regering bepaalt.<br>
+<br>
+De dag nadat de toezichthoudende overheid het dossier of de aanvullende inlichtingen heeft ontvangen, begint een nieuwe termijn van dertig dagen
 
 ### ART. 269.
 
-Een door de toezichthoudende overheid opgevraagd besluit van een comité of een centraal bestuur is niet langer vatbaar voor schorsing of vernietiging door de overheden, genoemd in artikelen 266 en 267, na het verstrijken van een termijn van dertig dagen, waarbinnen de toezichthoudende overheid haar besluit naar het comité of het centraal bestuur moet versturen, die ingaat op de dag die volgt op de ontvangst hetzij van het dossier dat met een aangetekende zending is opgestuurd of tegen ontvangstbewijs is afgegeven, hetzij van de in artikel 268 bedoelde aanvullende inlichtingen.<br /><br />De goedkeuring van de rekening houdt in elk geval in dat de beslissingen van het comité en van het centraal bestuur, die genomen worden in de loop van het jaar waarop de rekening betrekking heeft en die niet werden opgevraagd, noch geschorst of vernietigd werden, niet langer vatbaar zijn voor schorsing en vernietiging.
+Een door de toezichthoudende overheid opgevraagd besluit van een comité of een centraal bestuur is niet langer vatbaar voor schorsing of vernietiging door de overheden, genoemd in artikelen 266 en 267, na het verstrijken van een termijn van dertig dagen, waarbinnen de toezichthoudende overheid haar besluit naar het comité of het centraal bestuur moet versturen, die ingaat op de dag die volgt op de ontvangst hetzij van het dossier, hetzij van de in artikel 268 bedoelde aanvullende inlichtingen.<br>
+<br>
+De goedkeuring van de rekening houdt in elk geval in dat de beslissingen van het comité en van het centraal bestuur, die genomen worden in de loop van het jaar waarop de rekening betrekking heeft en die niet werden opgevraagd, noch geschorst of vernietigd werden, niet langer vatbaar zijn voor schorsing en vernietiging.
 
 ### ART. 270.
 

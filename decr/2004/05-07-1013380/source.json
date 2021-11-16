@@ -2,16 +2,16 @@
   "codex_id": 1013380,
   "title": "Decreet van 2004-05-07 betreffende de materiële organisatie en werking van de erkende erediensten",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013380/VolledigDocument?datum=2014-04-01",
-  "source_sha256": "3020445213a41b89f9d6aad35493428e600aa8ff5e396cc982a90ae7ae3fef62",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013380/VolledigDocument?datum=2021-11-16",
+  "source_sha256": "247f1d034dd42201af91195de83c887306607bb9bffca5e22d54c9af85af625b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013380&param=informatie",
-  "as_of": "2014-04-01",
+  "as_of": "2021-11-16",
   "made": "2004-05-07",
   "gazette": "2004-09-06",
   "numac": 2004036380,
   "document_start": "2005-03-01",
   "document_end": null,
-  "in_force": "2014-04-01",
+  "in_force": "2021-11-16",
   "article_versions": 302,
-  "record_form": "consolidated version as in force on 2014-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-11-16; future article versions excluded; article text as the API gives it"
 }
