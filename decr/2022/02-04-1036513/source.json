@@ -2,16 +2,16 @@
   "codex_id": 1036513,
   "title": "Decreet van 2022-02-04 tot het nemen van dringende maatregelen in het onderwijs naar aanleiding van de coronacrisis (IX)",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036513/VolledigDocument?datum=2021-10-01",
-  "source_sha256": "5f03ba05055dd53dcf88899d7c1687c7149a617ca95a3e8853713683758b9801",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036513/VolledigDocument?datum=2021-11-16",
+  "source_sha256": "7c01ebddc06feec2cebfbdf124f8e378d84a3f0d47bff1c30a71eebba27b42f5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036513&param=informatie",
-  "as_of": "2021-10-01",
+  "as_of": "2021-11-16",
   "made": "2022-02-04",
   "gazette": "2022-02-22",
   "numac": 2022030897,
   "document_start": "2022-02-23",
   "document_end": null,
-  "in_force": "2021-10-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2021-10-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-11-16",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2021-11-16; future article versions excluded; article text as the API gives it"
 }
