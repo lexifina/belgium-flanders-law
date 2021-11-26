@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036222,
+  "title": "Ministerieel besluit van 2021-10-15 tot wijziging van het ministerieel besluit van 26 november 2007 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036222/VolledigDocument?datum=2021-11-26",
+  "source_sha256": "f2f1f091b9d2a473c7579e001cf622de4dc7172f509a66951bc3639deeb3862f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036222&param=informatie",
+  "as_of": "2021-11-26",
+  "made": "2021-10-15",
+  "gazette": "2021-11-16",
+  "numac": 2021022362,
+  "document_start": "2021-11-26",
+  "document_end": null,
+  "in_force": "2021-11-26",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2021-11-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
