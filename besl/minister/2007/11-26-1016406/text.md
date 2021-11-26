@@ -35,7 +35,19 @@ Starterscursussen type C als vermeld in artikel 4, 1°, c), van het   besluit, a
 
 ### ART. 4/2.
 
-De korte vormingsactiviteiten, vermeld in artikel 4, 4°, van het besluit,   als het gaat om de aanvullende opleidingen betreffende de fytolicentie, moeten   voldoen aan de voorwaarden, vermeld in artikel 38 van het koninklijk besluit van   19 maart 2013 ter verwezenlijking van een duurzaam gebruik van   gewasbeschermingsmiddelen en toevoegingsstoffen.<BR><BR>De inhoud van die   opleidingen moet voorgelegd worden aan de bevoegde entiteit.<BR><BR>De bevoegde   entiteit beslist of de opleidingen gevalideerd worden als aanvullende opleiding   als vermeld in artikel 38 van het koninklijk besluit van 19 maart 2013 ter   verwezenlijking van een duurzaam gebruik van gewasbeschermingsmiddelen en   toevoegingsstoffen.<BR><BR>De deelnemerslijsten van de gevalideerde opleidingen   worden doorgegeven aan de Federale Overheidsdienst Volksgezondheid, Veiligheid   van de Voedselketen en Leefmilieu.
+§ 1. De korte vormingsactiviteiten, vermeld in artikel 4, eerste lid, 4°, van het besluit, kunnen voor dezelfde deelnemersgroep aaneensluitend op dezelfde dag worden georganiseerd, als ze georganiseerd worden door een erkend algemeen centrum of een erkend gewestelijk centrum.<br>
+<br>
+§ 2. Verschillende korte vormingsactiviteiten die bestaan uit een samenhangend geheel van theoretische of praktijklessen en die bestemd zijn voor dezelfde groep deelnemers, mogen samen maximaal negentien lesuren bedragen.<br>
+<br>
+§ 3. Bij korte vormingsactiviteiten die georganiseerd worden door een erkend algemeen of een erkend gewestelijk centrum zijn het minimumaantal deelnemers, vermeld in artikel 11, § 1, eerste lid, 5°, van het besluit, personen als vermeld in artikel 2, § 1, of artikel 2, § 2, 1°, van het besluit.<br>
+<br>
+§ 4. De korte vormingsactiviteiten, vermeld in artikel 4, 4°, van het besluit, als het gaat om de aanvullende opleidingen betreffende de fytolicentie, moeten voldoen aan de voorwaarden, vermeld in artikel 38 van het koninklijk besluit van 19 maart 2013 ter verwezenlijking van een duurzaam gebruik van gewasbeschermingsmiddelen en toevoegingsstoffen.<br>
+<br>
+De inhoud van die opleidingen moet voorgelegd worden aan de bevoegde entiteit.<br>
+<br>
+De bevoegde entiteit beslist of de opleidingen gevalideerd worden als aanvullende opleiding als vermeld in artikel 38 van het koninklijk besluit van 19 maart 2013 ter verwezenlijking van een duurzaam gebruik van gewasbeschermingsmiddelen en toevoegingsstoffen.<br>
+<br>
+De deelnemerslijsten van de gevalideerde opleidingen worden doorgegeven aan de Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu.
 
 ### ART. 5.
 
@@ -54,7 +66,7 @@ Bij de berekening van de subsidie van cursussen kunnen afwezigheden wegens ziekt
 Het minimaal vereiste aantal deelnemers, vermeld in artikel 14 van het besluit, wordt teruggebracht tot zes voor de volgende opleidingen :<br>
 1° opleidingen over thema's die specifiek bestemd zijn voor de sectoren van de biologische landbouw en de wijnbouw;<br>
 2° opleidingen over de korte keten voor de sectoren die landbouwproducten via de korte keten rechtstreeks afzetten van de producent aan de consument;<br>
-3° korte vormingsactiviteiten die gevolgd worden in het kader van lerende netwerken, namelijk reeksen van opeenvolgende vormingsmomenten met vaste leden die bedrijfsleiders zijn van minstens zes verschillende landbouwbedrijven, die onder begeleiding van een facilitator kennis en ervaringen delen en inzichten uitwisselen over de bedrijfsvoering of specifieke vragen rond thema's die eigen zijn aan de bedrijfstak met de bedoeling om in de eigen bedrijfsvoering verbeteringen aan te brengen, nieuwe methoden in te voeren en aanpassingen door te voeren. De facilitator is een lesgever die conform artikel 30 van het besluit erkend is en die onderlegd is in de materie in kwestie.<br>
+3° korte vormingsactiviteiten die gevolgd worden in het kader van lerende netwerken, namelijk reeksen van opeenvolgende vormingsmomenten met vaste leden die bedrijfsleiders zijn van minstens zes verschillende landbouwbedrijven, die onder begeleiding van een facilitator kennis en ervaringen delen en inzichten uitwisselen over de bedrijfsvoering of specifieke vragen rond thema's die eigen zijn aan de bedrijfstak met de bedoeling om in de eigen bedrijfsvoering verbeteringen aan te brengen, nieuwe methoden in te voeren en aanpassingen door te voeren. De facilitator is een lesgever die conform artikel 30 van het besluit geregistreerd is en die onderlegd is in de materie in kwestie.<br>
 &nbsp;
 
 ### ART. 9.
@@ -63,7 +75,42 @@ Het centrum dient het jaarprogramma, vermeld in artikel 34 van het   besluit, in
 
 ### ART. 10.
 
-<P>Minstens vijf werkdagen voor de aanvangsdatum van de vormingsactiviteiten,   vermeld in artikel 4 van het besluit, meldt het centrum de vormingsactiviteit   via het e-loket. De melding bevat minstens de volgende gegevens :<BR>1° de   gegevens over de opleiding die geen stage is :<BR>a) het vormingstype van de   opleiding, vermeld in artikel 4 van het besluit;<BR>a)/1 het thema, vermeld in   bijlage III die bij dit besluit is gevoegd;<BR>a)/2 de doelgroep, vermeld in   artikel 2 van het besluit;<BR>b) per activiteit :<BR>1) de datum, het begin- en   het einduur; <BR>2) het thema;<BR>3) de naam en het registratienummer van de   lesgever, vermeld in artikel 30 van het besluit;<BR>4) het adres waar de   activiteit zal plaatsvinden;<BR>5) het aantal uren theoretische lessen en   praktijklessen als vermeld in artikel 3, § 1, van het besluit;<BR>6) het aantal   uren waarvoor de lesgever een vergoeding als vermeld in artikel 36 van het   besluit wil ontvangen;<BR>7) in geval van een aanvullende opleiding betreffende   de fytolicentie de inhoud van de opleiding;<BR>2° de gegevens over de stage   :<BR>a) het vormingstype van de opleiding, vermeld in artikel 4 van het   besluit;<BR>a)/1 de doelgroep, vermeld in artikel 2 van het besluit;<BR>b) de   gegevens over het stagebedrijf :<BR>1) het btw- of KBO-nummer;<BR>2) de   naam;<BR>3) het type boekhouding op het bedrijf;<BR>c) ofwel het   rijksregisternummer van de stagiair, ofwel de volgende gegevens : <BR>1) de   voor- en achternaam;<BR>2) de woonplaats;<BR>3) de geboorteplaats;<BR>4) de   geboortedatum.<BR>d) per stageactiviteit :<BR>1) de datum, het begin- en het   einduur; <BR>2) het thema; <BR>3) het adres waar de stageactiviteit zal   plaatsvinden;<BR>4) de naam en het registratienummer van de stagemeester,   vermeld in artikel 10, 7°, van het besluit;<BR>e) het aantal stagedagen waarvoor   de stagemeester een vergoeding als vermeld in artikel 36 van het besluit wil   ontvangen.<BR><BR>De bevoegde entiteit beslist over het al of niet principieel   goedkeuren van de vormingsactiviteit overeenkomstig de voorwaarden van dit   besluit, en kent een opleidingsnummer toe.<BR><BR>Tegen een negatieve beslissing   kan het centrum op straffe van onontvankelijkheid binnen de termijn van tien   werkdagen die volgt op de datum van de betekening, met een aangetekende brief   beroep instellen bij de minister.</P>
+<p>Minstens vijf werkdagen voor de aanvangsdatum van de vormingsactiviteiten, vermeld in artikel 4 van het besluit, meldt het centrum de vormingsactiviteit via het e-loket. De melding bevat minstens de volgende gegevens :<br>
+1° de gegevens over de opleiding die geen stage is :<br>
+a) het vormingstype van de opleiding, vermeld in artikel 4 van het besluit;<br>
+a)/1 het thema, vermeld in bijlage III die bij dit besluit is gevoegd;<br>
+a)/2 de doelgroep, vermeld in artikel 2 van het besluit;<br>
+a)/3 de naam van het lerend netwerk in geval van een korte vormingsactiviteit die gevolgd wordt in het kader van een lerend netwerk als vermeld in artikel 8, 3° van dit besluit;<br>
+b) per activiteit :<br>
+1) de datum, het begin- en het einduur;<br>
+2) het thema;<br>
+3) de naam en het registratienummer van de lesgever, vermeld in artikel 30 van het besluit;<br>
+4) het adres waar de activiteit zal plaatsvinden;<br>
+5) het aantal uren theoretische lessen en praktijklessen als vermeld in artikel 3, § 1, van het besluit;<br>
+6) het aantal uren waarvoor de lesgever een vergoeding als vermeld in artikel 36 van het besluit wil ontvangen;<br>
+7) in geval van een aanvullende opleiding betreffende de fytolicentie de inhoud van de opleiding;<br>
+2° de gegevens over de stage :<br>
+a) het vormingstype van de opleiding, vermeld in artikel 4 van het besluit;<br>
+a)/1 de doelgroep, vermeld in artikel 2 van het besluit;<br>
+b) de gegevens over het stagebedrijf :<br>
+1) het btw- of KBO-nummer;<br>
+2) de naam;<br>
+3) het type boekhouding op het bedrijf;<br>
+c) ofwel het rijksregisternummer van de stagiair, ofwel de volgende gegevens :<br>
+1) de voor- en achternaam;<br>
+2) de woonplaats;<br>
+3) de geboorteplaats;<br>
+4) de geboortedatum.<br>
+d) per stageactiviteit :<br>
+1) de datum, het begin- en het einduur;<br>
+2) het thema;<br>
+3) het adres waar de stageactiviteit zal plaatsvinden;<br>
+4) de naam en het registratienummer van de stagemeester, vermeld in artikel 10, 7°, van het besluit;<br>
+e) het aantal stagedagen waarvoor de stagemeester een vergoeding als vermeld in artikel 36 van het besluit wil ontvangen.<br>
+<br>
+De bevoegde entiteit beslist over het al of niet principieel goedkeuren van de vormingsactiviteit overeenkomstig de voorwaarden van dit besluit, en kent een opleidingsnummer toe.<br>
+<br>
+Tegen een negatieve beslissing kan het centrum op straffe van onontvankelijkheid binnen de termijn van tien werkdagen die volgt op de datum van de betekening, met een aangetekende brief beroep instellen bij de minister.</p>
 
 ### ART. 11.
 
@@ -84,7 +131,33 @@ Het centrum voert bij de schuldvordering van een vervolmakingsdag een lijst met 
 
 ### ART. 14.
 
-Na afloop van de korte vormingsactiviteiten en de vervolmakingsdagen,   vermeld in artikel 4, 4° en 5°, van het besluit, dient het centrum, uiterlijk   bij de indiening van de schuldvordering, een door de lesgever ondertekend en   gedateerd verslag, met het verzoek tot uitbetaling in via het e-loket. Het   centrum bewaart het origineel verslag gedurende 10 jaar na de datum van   uitbetaling van de subsidie ter inzage van de bevoegde entiteit.<BR><BR>Het   verslag met het verzoek tot uitbetaling moet minstens de volgende gegevens   bevatten :<BR>1° de naam en het erkenningsnummer van het erkende centrum;<BR>2°   gegevens over de activiteit :<BR>a) de datum, het begin- en het einduur; <BR>b)   het thema en het opleidingsnummer van de activiteit;<BR>c) het adres waar de   activiteit heeft plaatsgevonden;<BR>d) de naam van de lokale organisator (als   het erkende centrum de activiteit niet organiseert);<BR>e) de naam van de   plaatselijke verantwoordelijke;<BR>f) het aantal deelnemers;<BR>3° de naam, het   rekeningnummer en het registratienummer van de lesgever als vermeld in artikel   30 van het besluit; <BR>4° een verklaring op erewoord van de lesgever dat   :<BR>a) de opgave van het aantal deelnemers oprecht en volledig is en dat de   activiteit heeft plaatsgevonden zoals in het verslag is vermeld;<BR>b) als de   organisator een algemeen of gewestelijk centrum is, hij voor de vergoeding een   van de volgende mogelijkheden kiest :<BR>1) hij wil dat de vergoeding gestort   wordt op het vermelde rekeningnummer;<BR>2) hij heeft voor de vormingsactiviteit   een vergoeding ontvangen en hij vermeldt het ontvangen bedrag;<BR>3) hij wil   geen vergoeding voor deze vormingsactiviteit;<BR>4) hij doet afstand van de   vergoeding en vermeldt de naam van de begunstigde.<BR><BR>Een model van het   verslag met verzoek tot uitbetaling is terug te vinden op de website van de   Vlaamse Overheid : <A   href="http://www.vlaanderen.be">http://www.vlaanderen.be</A>. Het verslag kan   ook gegenereerd worden via het e-loket.<BR><BR>
+Na afloop van de korte vormingsactiviteiten en de vervolmakingsdagen, vermeld in artikel 4, 4° en 5°, van het besluit, dient het centrum, uiterlijk bij de indiening van de schuldvordering, een door de lesgever ondertekend en gedateerd verslag, met het verzoek tot uitbetaling in via het e-loket. Het centrum bewaart het origineel verslag gedurende 10 jaar na de datum van uitbetaling van de subsidie ter inzage van de bevoegde entiteit.<br>
+<br>
+Het verslag met het verzoek tot uitbetaling moet minstens de volgende gegevens bevatten :<br>
+1° de naam en het erkenningsnummer van het erkende centrum;<br>
+2° gegevens over de activiteit :<br>
+a) de datum, het begin- en het einduur;<br>
+b) het thema en het opleidingsnummer van de activiteit;<br>
+c) het adres waar de activiteit heeft plaatsgevonden;<br>
+d) de naam van de lokale organisator (als het erkende centrum de activiteit niet organiseert);<br>
+e) de naam van de plaatselijke verantwoordelijke;<br>
+f) het aantal deelnemers;<br>
+3° de naam, het rekeningnummer en het registratienummer van de lesgever als vermeld in artikel 30 van het besluit;<br>
+4° een verklaring op erewoord van de lesgever dat :<br>
+a) de opgave van het aantal deelnemers oprecht en volledig is en dat de activiteit heeft plaatsgevonden zoals in het verslag is vermeld;<br>
+b) als de organisator een algemeen of gewestelijk centrum is, er wel of niet een vergoeding voor de lesgever wordt aangevraagd bij de bevoegde entiteit. Als er een vergoeding wordt aangevraagd, deelt de lesgever in de verklaring ook mee op welk rekeningnummer die vergoeding gestort mag worden. Dat rekeningnummer mag niet het rekeningnummer van het centrum zijn. Het algemeen of gewestelijk centrum moet een bewijs kunnen leveren van de storting van de vergoeding op het opgegeven rekeningnummer.<br>
+<br>
+Als de organisator een algemeen of gewestelijk centrum is, dan impliceert het indienen van de schuldvordering dat het centrum verklaart dat minstens tien deelnemers, of zes deelnemers als de opleiding valt onder de toepassing van artikel 8, personen zijn als vermeld in artikel 2, § 1, of § 2, 1°, van het besluit.<br>
+<br>
+Een model van het verslag met verzoek tot uitbetaling is terug te vinden op de website van de Vlaamse Overheid : <a href="http://www.vlaanderen.be">http://www.vlaanderen.be</a>. Het verslag kan ook gegenereerd worden via het e-loket.<br>
+<br>
+Het algemeen of gewestelijk centrum dient een deelnemerslijst als vermeld in artikel 13, vijfde lid, in via het e-loket als een van de volgende voorwaarden zijn vervuld:<br>
+1° er worden meer dan drie lesuren korte vormingsactiviteiten georganiseerd voor dezelfde deelnemers, op dezelfde dag en door dezelfde lesgever;<br>
+2° er worden verschillende korte vormingsactiviteiten georganiseerd voor dezelfde groep deelnemers, verspreid over verschillende dagen;<br>
+3° de korte vormingsactiviteit wordt online georganiseerd;<br>
+4° de korte vormingsactiviteit betreft een aanvullende opleiding over de fytolicentie als vermeld in artikel 4/2, § 4;<br>
+5° de korte vormingsactiviteit betreft een bijeenkomst van een lerend netwerk als vermeld in artikel 8, 3°.<br>
+&nbsp;
 
 ### ART. 15.
 
@@ -100,28 +173,30 @@ Tijdens elke vormingsactiviteit moet een algemene verantwoordelijke ter plaatse 
 
 ### ART 17/1.
 
-Met toepassing van artikel 3, § 3, van het besluit wordt toegelaten dat de naschoolse vormingsactiviteiten die de algemene en gewestelijke centra organiseren, vanaf afstand via het internet aangeboden kunnen worden als voldaan is aan de voorwaarden, vermeld in dit artikel, met behoud van de toepassing van de voorwaarden, vermeld in het besluit en in dit besluit.<br>
+Met toepassing van artikel 3, § 3, van het besluit wordt toegelaten dat de naschoolse vormingsactiviteiten op afstand via het internet aangeboden kunnen worden als voldaan is aan de voorwaarden, vermeld in dit artikel, met behoud van de toepassing van de voorwaarden, vermeld in het besluit en de overige bepalingen in dit besluit.<br>
 <br>
-De lessen die via afstandsleren worden aangeboden, zijn theoretische lessen als vermeld in artikel 3, § 1, tweede lid, van het besluit. De lessen moeten in het Nederlands aangeboden worden. Maximaal 50% van de lesuren van een cursus mag via afstandsleren aangeboden worden. Een gezamenlijke cursustest mag niet van op afstand afgenomen worden, maar mag vervangen worden door individuele live examens.<br>
+De lessen die via afstandsleren worden aangeboden, zijn theoretische lessen als vermeld in artikel 3, § 1, tweede lid, van het besluit. De lessen worden in het Nederlands aangeboden. Een gezamenlijke cursustest mag van op afstand afgenomen worden, mits via het gebruikte systeem het nodige toezicht kan gegarandeerd worden.<br>
 <br>
 De naschoolse vormingsactiviteiten kunnen alleen gegeven worden via een systeem dat de bevoegde entiteit vooraf goedgekeurd heeft.<br>
-1° Het systeem, vermeld in het derde lid, voldoet aan de volgende voorwaarden:<br>
-het systeem biedt voldoende garanties dat aan de subsidievoorwaarden, vermeld in het besluit en dit besluit, voldaan is;<br>
+<br>
+Het systeem, vermeld in het derde lid, voldoet aan al de volgende voorwaarden:<br>
+1° het systeem biedt voldoende garanties dat aan de subsidievoorwaarden, vermeld in het besluit en dit besluit, voldaan is;<br>
 2° het gaat om een livecommunicatievorm;<br>
 3° het systeem laat toe om de deelnemers te identificeren;<br>
-4° de aanwezigheid van de deelnemers kan aangetoond worden via het inloggen van de deelnemers en de duur van de specifieke sessie.<br>
+4° de aanwezigheid van de deelnemers kan aangetoond worden via het inloggen van de deelnemers en de duur van de specifieke sessie;<br>
+5° het systeem biedt voldoende garanties dat de voorwaarden inzake de bescherming van persoonsgegevens, vermeld in artikel 17/2, zijn vervuld, door een gegevensbeschermingseffectbeoordeling als vermeld in artikel 35 van de Verordening (EU) nr. 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), in te dienen.<br>
 <br>
-Conform artikel 10 meldt het centrum de vormingsactiviteit aan. Het adres van het centrum wordt vermeld als adres waar de activiteit plaatsvindt. Het centrum mailt voor de aanvang van elke activiteit een link en login naar de bevoegde identiteit om de bevoegde entiteit de mogelijkheid te bieden in te loggen voor de activiteit.<br>
+Conform artikel 10 meldt het centrum de vormingsactiviteit aan. Het adres van het centrum of van het digitale leslokaal wordt vermeld als adres waar de activiteit plaatsvindt. Het centrum mailt voor de aanvang van elke activiteit een link en login naar de bevoegde identiteit om de bevoegde entiteit de mogelijkheid te bieden in te loggen voor de activiteit.<br>
 <br>
 De documentatie over het te behandelen onderwerp mag online aangeboden worden.<br>
 <br>
-Met behoud van de toepassing van artikel 14 wordt een verslag gemaakt met de logingegevens en de naam van de deelnemers en de lesgever(s).<br>
+Voor elke online aangeboden vormingsactiviteit wordt, naast de gegevens bepaald in artikel 13 respectievelijk artikel 14, tevens een door het systeem gegenereerd verslag ingediend met de logingegevens van de deelnemers en de lesgever(s).<br>
 <br>
-Als de opleiding een cursus is, vervangt het verslag van de online activiteit de handtekening van de cursist voor de les in kwestie op de aanwezigheidslijst, vermeld in artikel 13, derde lid, 5°.<br>
+Als de opleiding een cursus is, vervangt het verslag van de onlineactiviteit voor de les in kwestie de handtekening van de lesgever op de aantekenlijst van de lesgever, vermeld in artikel 13, tweede lid, 4°, en de handtekening van de cursist op de aanwezigheidslijst, vermeld in artikel 13, derde lid, 5°.<br>
 <br>
-Als de opleiding een korte vorming of een vervolmakingsdag is, voert het centrum op het e-loket een deelnemerslijst in als vermeld in artikel 13, vijfde lid.<br>
+Als er onlinevormingsactiviteiten georganiseerd worden, mogen de lesgever en de deelnemers geen werknemers van hetzelfde bedrijf zijn.<br>
 <br>
-Als er online vormingsactiviteiten georganiseerd worden, mogen de lesgever en de deelnemers geen werknemers van hetzelfde bedrijf zijn.
+Als de onlinevormingsactiviteit georganiseerd wordt door een centrum voor hobbylandbouwvorming, wordt een deelnemer maximaal één keer per dag en per centrum meegerekend om het aantal deelnemers te bepalen van de vormingsactiviteit, vermeld in artikel 11, § 1, eerste lid, 5°, van het besluit.
 
 ### ART 17/2.
 
