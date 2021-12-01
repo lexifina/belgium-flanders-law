@@ -10,6 +10,13 @@ Aan artikel 2 van het decreet van 4 april 2014 betreffende de organisatie en de 
 "9° vergunninghouder: de vergunninghouder, vermeld in artikel 105, § 2, eerste lid, 1°, van het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
 10° de persoon die de melding heeft verricht: de persoon die de melding heeft verricht, vermeld in artikel 105, § 2, eerste lid, 1°, van het decreet van 25 april 2014 betreffende de omgevingsvergunning.".
 
+### ART 3.
+
+In artikel 20 van hetzelfde decreet, gewijzigd bij de decreten van 25 april 2014 en 9 december 2016, worden de volgende wijzigingen aangebracht:<br>
+1° tussen het tweede en het derde lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+"De vergunninghouder of de persoon die de melding heeft verricht, die wordt vermeld in de bestreden beslissing of in de bestreden aktename of niet-aktename, is van rechtswege tussenkomende partij in een hangende procedure, op voorwaarde dat hijzelf niet de beroepsindiener is. In geval van overdracht van de bestreden beslissing kan het geding worden hervat door de nieuwe vergunninghouder.";<br>
+2° in het bestaande derde lid, dat het vierde lid wordt, worden de woorden "die betrekking hebben op de verzoeken tot tussenkomst" vervangen door de woorden "om tussen te komen".
+
 ### ART 4.
 
 In artikel 21 van hetzelfde decreet, gewijzigd bij de decreten van 25 april 2014, 15 juli 2016, 9 december 2016 en 27 oktober 2017, worden de volgende wijzigingen aangebracht:<br>
@@ -51,6 +58,16 @@ In artikel 35 van hetzelfde decreet, gewijzigd bij de decreten van 3 juli 2015 e
 
 Aan artikel 37, § 2, van hetzelfde decreet, toegevoegd bij het decreet van 9 december 2016, wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
 "Onder het geval, vermeld in het eerste lid, worden ook de gevallen van feitelijke of naderhand gebonden bevoegdheid verstaan die volgen uit de toepassing van de regelgeving in het licht van de concrete gegevens en omstandigheden van het dossier.".
+
+### ART 8.
+
+In artikel 42 van hetzelfde decreet, gewijzigd bij de decreten van 25 april 2014 en 9 december 2016, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 worden de woorden "tussenuitspraak tot bemiddeling beslissen" vervangen door de woorden "proces-verbaal laten overgaan tot bemiddeling";<br>
+2° in paragraaf 2, eerste lid, wordt het woord "tussenarrest" vervangen door het woord "proces-verbaal";<br>
+3° in paragraaf 2, derde lid, 1°, worden de woorden "betreffende de ruimtelijke ordening of van het Vlaamse milieurecht" vervangen door de woorden "dat het voorwerp uitmaakt van de betwisting";<br>
+4° in paragraaf 3, vierde lid, wordt het woord "tussenarrest" vervangen door het woord "proces-verbaal" en wordt het woord "bevolen" vervangen door het woord "vastgesteld";<br>
+5° in paragraaf 4, inleidende zin, worden tussen het woord "Een" en het woord "verzoek" de woorden "gezamenlijk ondertekend" ingevoegd;<br>
+6° in paragraaf 4, 2°, wordt het woord "tussenarrest" vervangen door het woord "proces-verbaal".
 
 ### ART 9.
 
