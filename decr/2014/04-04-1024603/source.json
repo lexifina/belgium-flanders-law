@@ -2,16 +2,16 @@
   "codex_id": 1024603,
   "title": "Decreet van 2014-04-04 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024603/VolledigDocument?datum=2021-08-14",
-  "source_sha256": "930dcd1cf0408ab691544396d0f72a8ccceb7d295ee0d377620700bd88bd42f8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024603/VolledigDocument?datum=2021-12-01",
+  "source_sha256": "1366a302d6f202ba78618e98491f1cd20929b85f344554870d70e4b84c7fe031",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024603&param=informatie",
-  "as_of": "2021-08-14",
+  "as_of": "2021-12-01",
   "made": "2014-04-04",
   "gazette": "2014-10-01",
   "numac": 2014035564,
   "document_start": null,
   "document_end": null,
-  "in_force": "2021-08-14",
+  "in_force": "2021-12-01",
   "article_versions": 97,
-  "record_form": "consolidated version as in force on 2021-08-14; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-12-01; future article versions excluded; article text as the API gives it"
 }

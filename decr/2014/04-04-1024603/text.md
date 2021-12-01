@@ -174,9 +174,11 @@ De Vlaamse Regering kan regels vaststellen voor de behandeling van verzoekschrif
 
 <p>Elke belanghebbende kan tussenkomen in een hangende procedure.</p>
 
-<p>De decreten, vermeld in artikel 2, 1°, b), bepalen welke personen belanghebbende zijn.</p>
+<p>De decreten, vermeld in artikel 2, 1°, b), bepalen welke personen belanghebbende zijn.<br>
+<br>
+De vergunninghouder of de persoon die de melding heeft verricht, die wordt vermeld in de bestreden beslissing of in de bestreden aktename of niet-aktename, is van rechtswege tussenkomende partij in een hangende procedure, op voorwaarde dat hijzelf niet de beroepsindiener is. In geval van overdracht van de bestreden beslissing kan het geding worden hervat door de nieuwe vergunninghouder.</p>
 
-<p>De Vlaamse Regering bepaalt de vervaltermijnen, die niet korter mogen zijn dan twintig dagen, behalve bij vervaltermijnen die betrekking hebben op de verzoeken tot tussenkomst in de vorderingen, ingesteld conform artikel 40, § 2.</p>
+<p>De Vlaamse Regering bepaalt de vervaltermijnen, die niet korter mogen zijn dan twintig dagen, behalve bij vervaltermijnen om tussen te komen&nbsp;in de vorderingen, ingesteld conform artikel 40, § 2.</p>
 
 ### ART. 21.
 
@@ -184,35 +186,35 @@ De Vlaamse Regering kan regels vaststellen voor de behandeling van verzoekschrif
 <br>
 Het rolrecht dat verschuldigd is per verzoekende partij bij de indiening van een verzoekschrift tot schorsing, ingediend conform artikel 40, § 1 of § 2, bedraagt 100 euro.<br>
 <br>
-Het rolrecht dat verschuldigd is per tussenkomende partij bij de indiening van een verzoekschrift tot tussenkomst, bedraagt 100 euro per vordering waarin een verzoek tot tussenkomst is ingediend, ongeacht of de tussenkomst geldt voor een vordering tot vernietiging of voor een vordering tot schorsing, ingediend conform artikel 40, § 1 en § 2.<br>
+Het rolrecht dat verschuldigd is per tussenkomende partij, bedraagt 100 euro per vordering waarin ze tussenkomt, ongeacht of de tussenkomst geldt voor een vordering tot vernietiging of voor een vordering tot schorsing, ingediend conform artikel 40, § 1 en § 2.<br>
+<br>
+§ 1/1. De tussenkomende partij, vermeld in artikel 20, derde lid, is vrijgesteld van de betaling van het rolrecht.<br>
 <br>
 § 2. De leidend ambtenaar van het Departement Omgeving of het Agentschap Innoveren en Ondernemen, of bij hun afwezigheid hun gemachtigden die optreden met toepassing van artikel 105, § 2, respectievelijk 5° tot en met 7°, van het -decreet van 25 april 2014 betreffende de omgevingsvergunning, zijn vrijgesteld van de betaling van enig rolrecht.<br>
 <br>
 § 3. De verzoekende partij of tussenkomende partij die aantoont dat haar inkomsten ontoereikend zijn, is vrijgesteld van de betaling van enig rolrecht.<br>
 <br>
-De verzoekende partij of tussenkomende partij richt daarvoor een verzoek aan de Raad voor Vergunningsbetwistingen, gelijktijdig met het indienen van haar verzoekschrift.<br>
+De verzoekende partij&nbsp;richt daarvoor een verzoek aan de Raad voor Vergunningsbetwistingen, gelijktijdig met het indienen van haar verzoekschrift.<br>
 <br>
-In het geval van het ontbreken van de bewijsstukken, vermeld in het eerste lid, vraagt de griffier die op bij de verzoekende of tussenkomende partij. De griffier vraagt deze bewijsstukken evenwel niet op in het geval het een vordering tot schorsing, ingediend conform artikel 40, § 2, betreft.<br>
+De tussenkomende partij richt daarvoor een verzoek aan de Raad voor Vergunningsbetwistingen, gelijktijdig met haar tussenkomst in een vordering.<br>
 <br>
-De bewijsstukken worden bezorgd binnen een termijn van acht dagen, die ingaat de dag na de betekening van de beveiligde zending, vermeld in het derde lid.<br>
+In het geval van het ontbreken van de bewijsstukken, vermeld in het eerste lid, vraagt de griffier die&nbsp;met een beveiligde zending op bij de verzoekende of tussenkomende partij. De griffier vraagt deze bewijsstukken evenwel niet op in het geval het een vordering tot schorsing, ingediend conform artikel 40, § 2, betreft.<br>
 <br>
-Bij het niet-tijdig bezorgen van de bewijsstukken, vermeld in het vierde lid, wordt de verzoekende of tussenkomende partij geacht afstand te doen van haar vraag tot vrijstelling van het rolrecht.<br>
+De bewijsstukken worden bezorgd binnen een termijn van acht dagen, die ingaat de dag na de betekening van de beveiligde zending, vermeld in het vierde lid.<br>
+<br>
+Bij het niet-tijdig bezorgen van de bewijsstukken, vermeld in het vijfde lid, wordt de verzoekende of tussenkomende partij geacht afstand te doen van haar vraag tot vrijstelling van het rolrecht.<br>
 <br>
 De ontoereikendheid van de inkomsten wordt beoordeeld conform artikel 508/13/1 tot en met 508/13/4 van het Gerechtelijk Wetboek.<br>
 <br>
 § 4. Collectieve verzoekschriften geven aanleiding tot het betalen van zoveel malen het recht als er verzoekende partijen zijn.<br>
 <br>
-Collectieve verzoekschriften tot tussenkomst geven aanleiding tot het betalen van zoveel malen het recht als er tussenkomende partijen zijn.<br>
+Collectieve tussenkomsten&nbsp;geven aanleiding tot het betalen van zoveel malen het recht als er tussenkomende partijen zijn.<br>
 <br>
-§ 5. De griffier brengt, bij een vordering tot vernietiging en een vordering tot schorsing, ingediend conform artikel 40, § 1, de verzoekende partij of de tussenkomende partij schriftelijk op de hoogte van het bedrag, verschuldigd conform paragraaf 1, of van de beslissing over de vrijstelling van de betaling van het rolrecht.De griffier vermeldt hierbij duidelijk de sanctie, zoals vermeld in paragraaf 6.<br>
+§ 5. Gelijktijdig met de indiening van het verzoekschrift houdende een vordering tot vernietiging of een vordering tot schorsing, dat ingediend is conform artikel 40, § 1, of gelijktijdig met haar tussenkomst in de voormelde vorderingen, bezorgt de verzoekende of tussenkomende partij het bewijs dat een overschrijvingsopdracht is gegeven of dat een storting is uitgevoerd tot betaling van het rolrecht.<br>
 <br>
-De storting gebeurt binnen een termijn van vijftien dagen, die ingaat de dag na de betekening van de beveiligde zending, vermeld in het eerste lid.<br>
+Als het rolrecht, vermeld in het eerste lid, niet op tijd is gestort, nodigt de griffier de verzoekende of de tussenkomende partij met een beveiligde zending uit om het rolrecht alsnog te betalen. De griffier vermeldt daarbij de sanctie, vermeld in het derde lid. In dit geval wordt het rolrecht gestort binnen acht dagen na de dag van de betekening van de voormelde beveiligde zending.<br>
 <br>
-Als het bedrag niet binnen de termijn, vermeld in het tweede lid, is gestort door de verzoekende partij, wordt het beroep niet-ontvankelijk verklaard.<br>
-<br>
-Als het bedrag niet binnen de termijn, vermeld in het tweede lid, is gestort door de tussenkomende partij, wordt het verzoekschrift tot tussenkomst niet-ontvankelijk verklaard.<br>
-<br>
-De niet-tijdige betaling kan niet worden geregulariseerd.<br>
+Als het bedrag van het rolrecht niet op tijd is gestort door de verzoekende of tussenkomende partij, is het beroep of de tussenkomst van die partij onontvankelijk.<br>
 <br>
 § 6. Bij een vordering tot schorsing, ingesteld conform artikel 40, § 2, wordt het rolrecht, verschuldigd conform paragraaf 1, opgevraagd in de beschikking of het arrest tot bepaling van de rechtsdag.<br>
 <br>
@@ -226,7 +228,7 @@ Als de tussenkomende partij het rolrecht, verschuldigd conform paragraaf 1, niet
 <br>
 De niet-tijdige betaling kan niet worden geregulariseerd.<br>
 <br>
-§ 7. De Raad voor Vergunningsbetwistingen kan, op verzoek van een partij, een rechtsplegingsvergoeding toekennen, die een forfaitaire tegemoetkoming is in de kosten en honoraria van de advocaat van de partij die ten gronde in het gelijk wordt gesteld.<br>
+§ 7. De Raad voor Vergunningsbetwistingen kan, op verzoek van een partij, een rechtsplegingsvergoeding toekennen, die een forfaitaire tegemoetkoming is in de kosten en honoraria van de advocaat van de partij die in het gelijk wordt gesteld.<br>
 <br>
 De Vlaamse Regering bepaalt de basisbedragen en de minimum- en maximumbedragen van de rechtsplegingsvergoeding.<br>
 <br>
@@ -327,13 +329,11 @@ De ontoereikendheid van de inkomsten wordt beoordeeld conform artikel 508/13/1 t
 <br>
 § 3. Collectieve verzoekschriften geven aanleiding tot het betalen van zoveel keer het recht als er verzoekende partijen zijn.<br>
 <br>
-§ 4. De griffier brengt de verzoekende partij bij beveiligde zending op de hoogte van het bedrag, verschuldigd conform paragraaf 1, of van de beslissing over de vrijstelling van de betaling van het rolrecht. De griffier vermeldt hierbij duidelijk de sanctie, zoals vermeld in het derde lid.<br>
+§ 4. Gelijktijdig met de indiening van het verzoekschrift houdende een vordering tot vernietiging, bezorgt de verzoekende partij het bewijs dat een overschrijvingsopdracht is gegeven of dat een storting is uitgevoerd tot betaling van het rolrecht.<br>
 <br>
-Het bedrag wordt gestort binnen een termijn van vijftien dagen, die ingaat de dag na de betekening van de beveiligde zending, vermeld in het eerste lid.<br>
+Als het rolrecht, vermeld in het eerste lid, niet op tijd is gestort, nodigt de griffier de verzoekende partij met een beveiligde zending uit om het rolrecht alsnog te betalen. De griffier vermeldt daarbij duidelijk de sanctie, vermeld in het derde lid. In dit geval wordt het rolrecht gestort binnen acht dagen na de dag van de betekening van de voormelde beveiligde zending.<br>
 <br>
-Als het bedrag niet binnen de termijn, vermeld in het tweede lid, is gestort door de verzoekende partij, wordt het beroep niet-ontvankelijk verklaard.<br>
-<br>
-De niet-tijdige betaling kan niet worden geregulariseerd.
+Als het bedrag van het rolrecht niet op tijd is gestort, is het beroep onontvankelijk.
 
 ## [Afdeling 6 Bepalingen die van toepassing zijn op de Raad voor betwistingen inzake studievoortgangsbeslissingen (ing. decr. 17 maart 2023, art. 19)]
 
@@ -518,14 +518,14 @@ De Vlaamse Regering bepaalt de procedure met betrekking tot de in dit artikel be
 
 ### ART. 42.
 
-<p>§ 1. Ter oplossing van een voor de Raad voor Vergunningsbetwistingen gebrachte betwisting kan die op gezamenlijk verzoek van de partijen of op eigen initiatief maar met akkoord van de partijen met een tussenuitspraak tot bemiddeling beslissen zolang het beroep niet in beraad is genomen.<br>
+<p>§ 1. Ter oplossing van een voor de Raad voor Vergunningsbetwistingen gebrachte betwisting kan die op gezamenlijk verzoek van de partijen of op eigen initiatief maar met akkoord van de partijen met een proces-verbaal laten overgaan tot bemiddeling&nbsp;zolang het beroep niet in beraad is genomen.<br>
 <br>
-§ 2. Bij inwilliging van het verzoek tot bemiddeling zendt de griffier onmiddellijk een afschrift van het tussenarrest, vermeld in paragraaf 1, aan de partijen en aan de bemiddelaar.<br>
+§ 2. Bij inwilliging van het verzoek tot bemiddeling zendt de griffier onmiddellijk een afschrift van het proces-verbaal, vermeld in paragraaf 1, aan de partijen en aan de bemiddelaar.<br>
 <br>
 De volgende personen kunnen door de Raad voor Vergunningsbetwistingen als bemiddelaar worden aangewezen: een personeelslid van de dienst van de Bestuursrechtscolleges derden die door de partijen gezamenlijk worden voorgesteld.<br>
 <br>
 De bemiddelaar voldoet aan de volgende voorwaarden:<br>
-1° hij heeft een grondige kennis van en nuttige ervaring in het betreffende domein van het Vlaamse recht betreffende de ruimtelijke ordening of van het Vlaamse milieurecht;<br>
+1° hij heeft een grondige kennis van en nuttige ervaring in het betreffende domein van het Vlaamse recht dat het voorwerp uitmaakt van de betwisting;<br>
 2° hij geeft blijk van een vorming die passend is voor de bemiddelingspraktijk;<br>
 3° hij biedt de noodzakelijke waarborgen voor een onafhankelijke en onpartijdige bemiddeling;<br>
 4° hij heeft geen strafrechtelijke veroordelingen of tuchtrechtelijke sancties opgelopen die onverenigbaar zijn met de uitoefening van de functie van bemiddelaar.<br>
@@ -543,11 +543,11 @@ Als het bemiddelingsakkoord wordt bekrachtigd, worden in afwijking van artikel 3
 <br>
 De Raad voor Vergunningsbetwistingen kan de bekrachtiging alleen weigeren als het akkoord strijdig is met de openbare orde, de regelgeving of stedenbouwkundige voorschriften.<br>
 <br>
-Bij het ontbreken van een bemiddelingsakkoord of als de Raad voor Vergunningsbetwistingen vaststelt dat de randvoorwaarden voor een geslaagde bemiddeling niet of niet langer zijn vervuld, wordt bij tussenarrest de voortzetting van de jurisdictionele procedure bevolen.<br>
+Bij het ontbreken van een bemiddelingsakkoord of als de Raad voor Vergunningsbetwistingen vaststelt dat de randvoorwaarden voor een geslaagde bemiddeling niet of niet langer zijn vervuld, wordt bij proces-verbaal&nbsp;de voortzetting van de jurisdictionele procedure vastgesteld.<br>
 <br>
-§ 4. Een verzoek tot bemiddeling schorst de proceduretermijnen vanaf de datum van ontvangst van het verzoek door de Raad voor Vergunningsbetwistingen tot:<br>
+§ 4. Een&nbsp;gezamenlijk ondertekend verzoek tot bemiddeling schorst de proceduretermijnen vanaf de datum van ontvangst van het verzoek door de Raad voor Vergunningsbetwistingen tot:<br>
 1° de datum van bekrachtiging van het bemiddelingsakkoord, vermeld in paragraaf 3, eerste lid;<br>
-2° de dag na de betekening van het tussenarrest, vermeld in paragraaf 3, vierde lid.<br>
+2° de dag na de betekening van het proces-verbaal, vermeld in paragraaf 3, vierde lid.<br>
 <br>
 § 5. De Vlaamse Regering stelt de vormvereisten vast waaraan een verzoek tot bemiddeling moet voldoen, de mogelijkheid tot regularisatie van deze vereisten en de termijnen van de bemiddeling en alle aanvullende maatregelen betreffende de organisatie van de bemiddeling, alsook de kosten die voortvloeien uit de bemiddeling.</p>
 
