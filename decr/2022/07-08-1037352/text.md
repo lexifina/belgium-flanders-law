@@ -22,6 +22,10 @@
 
 ## HOOFDSTUK 11. Wijzigingen van de Codex Hoger Onderwijs van 11 oktober 2013
 
+### ART 76.
+
+In artikel II.33 van de Codex Hoger Onderwijs van 11 oktober 2013, gewijzigd bij het decreet van 20 december 2019, wordt in het tweede lid de zinsnede "artikel II.31, 1°, o)" vervangen door de zinsnede "artikel II.31, 1°, o) en 2°, c)".
+
 ## HOOFDSTUK 12. Wijzigingen van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs
 
 ## HOOFDSTUK 13. Wijziging van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding
