@@ -18,9 +18,13 @@ DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID, GEZIN EN ARMOEDEBESTRIJDING BE
 
 ### ART 1.
 
-In de maanden september tot en met december van het jaar 2021 kan het agentschap de volgende subsidies toekennen:<br>
+In de maanden september tot en met november van het jaar 2021 kan het agentschap de volgende subsidies toekennen:<br>
 1° een selectieve subsidie als vermeld in artikel 7 tot en met 9 van het besluit van de Vlaamse Regering van 13 november 2020 tot regeling van een algemene en selectieve subsidie voor de organisatoren van kinderopvang en buitenschoolse opvang en van maatregelen voor de gezinnen in de kinderopvang en de buitenschoolse opvang naar aanleiding van de gevolgen van het COVID-19-virus, voor de organisator van kinderopvang;<br>
-2° een selectieve subsidie als vermeld in artikel 12 tot en met 14 van het voormelde besluit, voor de organisator van buitenschoolse opvang.
+2° een selectieve subsidie als vermeld in artikel 12 tot en met 14 van het voormelde besluit, voor de organisator van buitenschoolse opvang.<br>
+<br>
+In de maand december van het jaar 2021 kan het agentschap de volgende subsidies toekennen:<br>
+1° een selectieve subsidie plus als vermeld in artikel 9/1 tot en met 9/3 van het besluit van de Vlaamse Regering van 13 november 2020 tot regeling van een algemene en selectieve subsidie voor de organisatoren van kinderopvang en buitenschoolse opvang en van maatregelen voor de gezinnen in de kinderopvang en de buitenschoolse opvang naar aanleiding van de gevolgen van het COVID-19-virus, voor de organisator van kinderopvang;<br>
+2° een selectieve subsidie plus als vermeld in artikel 14/1 tot en met 14/2 van het voormelde besluit, voor de organisator van buitenschoolse opvang.
 
 ### ART 2.
 
