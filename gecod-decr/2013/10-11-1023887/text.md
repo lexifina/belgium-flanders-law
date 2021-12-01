@@ -670,11 +670,11 @@ c)&nbsp;&nbsp;&nbsp; artikel 61 van het decreet van 8 mei 2009 betreffende de kw
 
 ### ART. II.33.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">Gedurende de periode(n) van bijzonder verlof betaalt de accreditatieorganisatie de personeelskost terug aan de instelling van oorsprong.<br>
+<p style="margin-left:0cm; margin-right:0cm">Gedurende de periode(n) van bijzonder verlof betaalt de accreditatieorganisatie de personeelskost terug aan de instelling van oorsprong.<br>
 <br>
-Onverminderd het eerste lid worden personeelsleden, bedoeld in artikel II.31, 1°, o), verloond door de entiteit van oorsprong, in de bij de accreditatieorganisatie gebruikelijke loonschaal.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
+Onverminderd het eerste lid worden personeelsleden, bedoeld in artikel II.31, 1°, o) en 2°, c), verloond door de entiteit van oorsprong, in de bij de accreditatieorganisatie gebruikelijke loonschaal.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
 
 ### ART. II.34.
 
