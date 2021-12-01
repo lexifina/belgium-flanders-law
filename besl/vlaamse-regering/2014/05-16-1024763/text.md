@@ -22,7 +22,8 @@ In dit besluit wordt verstaan onder:<br>
 9° kamervoorzitter: het lid van het College dat een kamer als vermeld in artikel 12 van het decreet voorzit;<br>
 10° het digitaal loket: het loket van de Vlaamse bestuursrechtscolleges, vermeld in artikel 8/1, § 1;<br>
 11° gebruiker: iedere natuurlijke persoon die zich na authenticatie toegang heeft verleend tot het digitaal loket;<br>
-12° Verordening 2016/679: Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG.
+12° Verordening 2016/679: Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG.<br>
+13° omgevingsloket: het digitale loket, vermeld in artikel 147, derde lid, van het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning.
 
 ### ART. 2.
 
@@ -42,7 +43,7 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART. 4.
 
-De verzoekschriften en processtukken moeten op straffe van onontvankelijkheid worden ingediend binnen de termijnen, vermeld in het decreet, de Vlaamse Codex Ruimtelijke Ordening, het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011,&nbsp;het decreet van 25 april 2014 betreffende de omgevingsvergunning,het Vlaams Onteigeningsdecreet van 24 februari 2017 en dit besluit.
+De verzoekschriften en processtukken moeten op straffe van onontvankelijkheid worden ingediend binnen de termijnen, vermeld in het decreet, de Vlaamse Codex Ruimtelijke Ordening, het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011,&nbsp;het Onroerenderfgoeddecreet van 12 juli 2013, het decreet van 25 april 2014 betreffende de omgevingsvergunning,het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid,&nbsp;het Vlaams Onteigeningsdecreet van 24 februari 2017 en dit besluit.
 
 ### ART. 5.
 
@@ -72,13 +73,19 @@ In geval van een vordering tot schorsing bij uiterst dringende noodzakelijkheid,
 <br>
 De processtukken die aan het College gericht zijn, bevatten een inventaris van de overtuigingsstukken, die overeenkomstig die inventaris genummerd zijn.<br>
 <br>
+De overtuigingsstukken die deel uitmaken van het administratief dossier dat via het verlenen van toegang tot het omgevingsloket is ingediend, worden ook in de inventaris van de overtuigingsstukken opgenomen. Met behoud van de toepassing van artikel 16, 1°, worden de voormelde overtuigingsstukken niet toegevoegd aan de processtukken.<br>
+<br>
 Op het ogenblik dat een partij voor de eerste keer een inventaris overmaakt, geeft die partij in de inventaris aan welke delen van de overtuigingsstukken ze wil onttrekken aan de terinzagelegging op de griffie en de redenen daarvoor. De onttrekking kan slechts voor de volgende delen :<br>
 1° de delen uit het project-MER of OVR die niet werden onderworpen aan het openbaar onderzoek;<br>
 2° de delen die als vertrouwelijk moeten worden behandeld.<br>
 <br>
 § 2. De griffier kan de neerlegging van afschriften van het verzoekschrift, overtuigingsstukken of processtukken bevelen.<br>
 <br>
-§ 3. Het administratief dossier bevat de bestreden beslissing, de geïnventariseerde stukken op grond waarvan die beslissing is genomen en in voorkomend geval een bewijs van de datum van de kennisgeving van de beslissing door het bestuur aan de verzoeker.<br>
+§ 3. Het administratief dossier bevat de bestreden beslissing, de stukken op grond waarvan die beslissing is genomen en in voorkomend geval een bewijs van de datum van de kennisgeving van de beslissing door het bestuur aan de verzoeker.<br>
+<br>
+Het administratief dossier dat aan het College gericht is, bevat een inventaris van de stukken, die conform die inventaris genummerd zijn.<br>
+<br>
+Voor de beroepen, vermeld in artikel 54, 2°, wordt het verlenen van toegang tot het omgevingsloket aan het College als de indiening van het administratief dossier beschouwd en geldt de vermelding in het omgevingsloket van de datum van het verlenen van toegang als de datum van de indiening. In dat geval bevat het administratief dossier, in afwijking van het tweede lid, geen inventaris.<br>
 <br>
 § 4. De partijen en hun raadsmannen kunnen ter griffie kennis nemen van de verzoekschriften, het administratief dossier, de processtukken, de overtuigingsstukken en de uitspraken.</p>
 
@@ -218,7 +225,10 @@ Een verzoekschrift dat niet, onvolledig of laattijdig is geregulariseerd, wordt 
 
 De griffier betekent met een beveiligde zending een afschrift van het verzoekschrift aan:<br>
 1° de verweerder;<br>
-2° de belanghebbenden bij de zaak, als ze kunnen worden bepaald op basis van het verzoekschrift en de bijkomende overtuigingsstukken.
+2° de belanghebbenden bij de zaak, als ze kunnen worden bepaald op basis van het verzoekschrift en de bijkomende overtuigingsstukken.<br>
+3° de vergunninghouder of de persoon die de melding heeft verricht en die wordt vermeld in de bestreden beslissing of in de bestreden aktename of niet-aktename.<br>
+<br>
+Als het verzoekschrift een vordering tot schorsing bij hoogdringendheid bevat, betekent de griffier het afschrift binnen een ordetermijn van twintig dagen, die ingaat de dag na de dag waarop de griffie het verzoekschrift heeft ontvangen. Die ordetermijn geldt niet in een verkorte procedure als vermeld in artikel 59.
 
 ## Afdeling 3 Kosten
 
@@ -226,9 +236,9 @@ De griffier betekent met een beveiligde zending een afschrift van het verzoeksch
 
 ### ART. 20.
 
-<p>Het verschuldigde rolrecht wordt gestort op de rekening van het Fonds Bestuursrechtscolleges.</p>
+<p>Het verschuldigde rolrecht wordt gestort op de rekening van het Fonds Bestuursrechtscolleges.&nbsp;Bij een storting voor de verzoekende partij wordt de naam van de verzoekende partij voor wie de betaling geldt, opgenomen als vrije mededeling.</p>
 
-<p>Bij de betekening overeenkomstig artikel 21, § 5, eerste lid, of artikel 31/1, § 4, eerste lid, van het decreet brengt de griffier de partij op de hoogte van de gegevens van het fonds, met inbegrip van het rekeningnummer, die het mogelijk maken om het verschuldigde rolrecht te storten.</p>
+<p>Bij de betekening conform artikel 59/3, eerste en tweede lid, van dit besluit, of conform artikel 21, § 5, tweede lid, en § 6, eerste lid, of artikel 31/1, § 4, tweede lid, van het decreet, brengt de griffier de partij op de hoogte van de gegevens van het fonds, vermeld in het eerste lid, met inbegrip van het rekeningnummer en een gestructureerde mededeling.</p>
 
 ## [Onderafdeling 1/1 Rechtsplegingsvergoeding (ing. BVR 21 april 2017, art. 10, I: 24 april 2017)]
 
@@ -236,11 +246,11 @@ De griffier betekent met een beveiligde zending een afschrift van het verzoeksch
 
 § 1. Het basisbedrag van de rechtsplegingsvergoeding, vermeld in artikel 21, § 7, van het decreet, bedraagt 700 euro, het minimumbedrag 140 euro en het maximumbedrag 1400 euro.<br>
 <br>
-§ 2. Het basis-, minimum- of maximumbedrag, vermeld in paragraaf 1, wordt verhoogd met een bedrag dat overeenstemt met 20% van de voormelde bedragen, als het beroep tot nietigverklaring gepaard gaat met een vordering tot schorsing als vermeld in artikel 40, § 1, of artikel 40, § 2, van het decreet.<br>
+§ 2. Als een vordering wordt afgehandeld via een verkorte procedure als vermeld in artikel 59/2, of als de vordering tot vernietiging met toepassing van artikel 71 leidt tot een vernietiging, bedraagt de verschuldigde rechtsplegingsvergoeding voor die vordering maximaal het basisbedrag.<br>
 <br>
-De bedragen van de verhogingen, vermeld in het eerste lid, worden gecumuleerd, maar de op die manier verhoogde rechtsplegingsvergoeding mag niet meer bedragen dan 140% van het basis-, minimum- of maximumbedrag, vermeld in paragraaf 1.<br>
+§ 3. De basis-, minimum- en maximumbedragen zijn verbonden aan de consumptieprijsindex die overeenstemt met 109,53 punten (basis 2013). Elke wijziging naar boven of naar beneden van 10 punten vermeerdert of vermindert de bedragen, vermeld in paragraaf 1, met 10%. De nieuwe bedragen die voortvloeien uit die wijzigingen, zijn van toepassing op de eerste dag van de maand die volgt op de maand waarin de voormelde drempel van 10 punten bereikt wordt.<br>
 <br>
-Er is geen verhoging verschuldigd als de toepassing van een verkorte procedure als vermeld in artikel 59/2 van dit besluit, leidt tot een einduitspraak of als de toepassing van artikel 71 van dit besluit leidt tot een vernietiging.
+De Vlaamse minister, bevoegd voor justitie en handhaving, past de bedragen, vermeld in paragraaf 1, aan conform de formule, vermeld in het eerste lid.
 
 ## [Onderafdeling 1/2 Kosten die voortvloeien uit de bemiddeling (ing. BVR 21 april 2017, art. 10, I: 24 april 2017)]
 
@@ -357,7 +367,7 @@ Als de voorzitter van het College of de door hem aangewezen bestuursrechter niet
 
 ### ART. 27.
 
-<p>De verweerder dient een antwoordnota,&nbsp;een geïnventariseerd administratief dossier, als dat nog niet werd ingediend, en eventuele aanvullende en geïnventariseerde overtuigingsstukken in binnen een vervaltermijn van vijfenveertig dagen, die ingaat op de dag na de betekening van het afschrift van het verzoekschrift, vermeld in artikel 19, 1°.</p>
+<p>De verweerder dient een antwoordnota,&nbsp;een administratief dossier, als dat nog niet werd ingediend, en eventuele aanvullende en geïnventariseerde overtuigingsstukken in binnen een vervaltermijn van vijfenveertig dagen, die ingaat op de dag na de betekening van het afschrift van het verzoekschrift, vermeld in artikel 19, 1°.</p>
 
 <p>Als de verweerder niet binnen die termijn, vermeld in het eerste lid, het administratief dossier indient, maant de griffier de verweerder aan om daartoe vooralsnog over te gaan binnen een door de griffier bepaalde termijn. Als de verweerder hieraan geen gevolg geeft, worden de door de verzoeker aangehaalde feiten als bewezen geacht, tenzij deze feiten kennelijk onjuist zijn.</p>
 
@@ -460,9 +470,7 @@ De griffier stelt een proces-verbaal op van het feit dat de getuige niet   versc
 <br>
 § 2. Uiterlijk vijftien dagen voor de dag van de zitting brengt de griffier de partijen, en in voorkomend geval de getuigen of deskundigen, schriftelijk op de hoogte van de inhoud van de beschikking, vermeld in paragraaf 1, en deelt hen de samenstelling van de bevoegde kamer mee.<br>
 <br>
-§ 3. In afwijking van paragraaf 1 en op het ogenblik dat de zaak in staat is, kan de kamer de zaak in beraad nemen als de partijen, met toepassing van artikel 16, zesde lid, van het decreet, in onderling overleg afzien van de behandeling van het beroep ter zitting.<br>
-<br>
-De partijen bezorgen daartoe gezamenlijk een afzonderlijk verzoek aan de kamervoorzitter.
+§ 3. In afwijking van paragraaf 1 en op het ogenblik dat de zaak in staat is, kan de kamer de zaak in beraad nemen als de partijen, met toepassing van artikel 16, zesde lid, van het decreet, in onderling overleg afzien van de behandeling van het beroep ter zitting.
 
 ### ART. 42.
 
@@ -562,7 +570,7 @@ Als het College een verbeterend arrest uitspreekt overeenkomstig artikel   39, �
 ### ART. 54.
 
 Dit deel is van toepassing op de beroepen die worden ingediend tegen :<br>
-1° valideringsbeslissingen en registratiebeslissingen, als vermeld in artikel 4.8.2 van de Vlaamse Codex Ruimtelijke Ordening;<br>
+1° registratiebeslissingen, als vermeld in artikel 4.8.2 van de Vlaamse Codex Ruimtelijke Ordening;<br>
 2° vergunningsbeslissingen en aktenames of niet-aktenames van een melding, als vermeld in artikel 105 van het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
 3° definitieve onteigeningsbesluiten, conform artikel 43 en 44 van het Vlaams Onteigeningsdecreet van 24 februari 2017.
 
@@ -651,50 +659,52 @@ Als de voorzitter van het College of de door hem aangewezen bestuursrechter niet
 
 ### ART 59/3.
 
-De griffier stelt de belanghebbenden bij de zaak, als ze kunnen worden bepaald, in de mogelijkheid een verzoek tot tussenkomst in te dienen. Hij deelt mee in welke vorderingen op dat ogenblik een tussenkomst mogelijk is, rekening houdend met de stand van de zaak.<br>
+De griffier stelt de belanghebbenden, vermeld in artikel 20, eerste en tweede lid, van het decreet, als ze kunnen worden bepaald, in de mogelijkheid om tussen te komen.<br>
 <br>
-Een belanghebbende bij de zaak die niet de mogelijkheid kreeg om een verzoek tot tussenkomst in te dienen, kan een verzoek tot tussenkomst indienen, als die tussenkomst de procedure niet vertraagt.
+De griffier deelt mee voor welke vordering het mogelijk is om een schriftelijke uiteenzetting in te dienen, rekening houdend met de stand van de zaak.<br>
+<br>
+Een belanghebbende bij de zaak die niet de mogelijkheid heeft gekregen om tussen te komen, kan alsnog tussenkomen als dat de procedure niet vertraagt.
+
+### ART 59/4.
+
+De griffier stelt de vergunninghouder die wordt vermeld in de bestreden beslissing, of de persoon die de melding heeft verricht die wordt vermeld in de bestreden aktename of niet-aktename, en die conform artikel 20, derde lid, van het decreet, van rechtswege tussenkomende partij is, in de mogelijkheid een schriftelijke uiteenzetting in te dienen.<br>
+<br>
+De griffier deelt mee voor welke vordering het mogelijk is om een schriftelijke uiteenzetting in te dienen, rekening houdend met de stand van de zaak.
 
 ### ART. 60.
 
-<p>Een verzoek tot tussenkomst wordt ingediend bij verzoekschrift, ondertekend door de verzoeker tot tussenkomst of door zijn raadsman.<br>
+<p>De tussenkomende partij of haar raadsman dagtekent en ondertekent de schriftelijke uiteenzetting, vermeld in artikel 59/3, tweede lid, en artikel 59/4, eerste lid.<br>
 <br>
-Het verzoekschrift wordt gedagtekend en bevat:<br>
-1° het opschrift "Verzoek tot tussenkomst", met aanduiding van de vordering waarvoor het verzoek tot tussenkomst geldt;<br>
-2° de naam, de hoedanigheid, de woonplaats of de zetel van de verzoeker tot tussenkomst, de gekozen woonplaats in België, en in voorkomend geval een telefoonnummer en een e-mailadres;<br>
-3° de vermelding van het rolnummer waaronder de vordering ingeschreven is, als hij dat kent;<br>
-4° een omschrijving van het belang van de verzoeker tot tussenkomst;<br>
-5° een inventaris van de overtuigingsstukken;<br>
-6° in geval van tussenkomst in de vordering tot schorsing bij hoogdringendheid, de schriftelijke uiteenzetting over de gevorderde schorsing bij hoogdringendheid;<br>
-7° in geval van tussenkomst in de vordering tot schorsing bij uiterst dringende noodzakelijkheid, de schriftelijke uiteenzetting over de gevorderde schorsing bij uiterst dringende noodzakelijkheid.<br>
+De schriftelijke uiteenzetting, vermeld in artikel 59/3, tweede lid, en artikel 59/4, eerste lid, bevat minstens al de volgende gegevens:<br>
+1° het opschrift "Schriftelijke uiteenzetting";<br>
+2° de naam, de hoedanigheid, de woonplaats of de zetel van de tussenkomende partij, de gekozen woonplaats in België, en in voorkomend geval een telefoonnummer en een e-mailadres;<br>
+3° de vermelding van het rolnummer waaronder de vordering ingeschreven is, als dat gekend is;<br>
+4° een omschrijving van het belang van de tussenkomende partij;<br>
+5° een inventaris van de overtuigingsstukken.<br>
 <br>
-De verzoeker tot tussenkomst voegt bij het verzoekschrift:<br>
-1° als hij een rechtspersoon is, en geen raadsman heeft die advocaat is, een afschrift van zijn geldende en gecoördineerde statuten en van de akte van aanstelling van zijn organen, alsook het bewijs dat het daarvoor bevoegde orgaan beslist heeft in rechte te treden;<br>
-2° de schriftelijke volmacht van zijn raadsman als die geen advocaat is;<br>
-3° de overtuigingsstukken die in de inventaris zijn vermeld en die overeenkomstig die inventaris genummerd zijn.</p>
+De tussenkomende partij voegt bij haar schriftelijke uiteenzetting:<br>
+1° als ze een rechtspersoon is en geen raadsman heeft die advocaat is: een afschrift van haar geldende en gecoördineerde statuten en van de akte van aanstelling van haar organen, en ook het bewijs dat het orgaan dat daarvoor bevoegd is, beslist heeft in rechte te treden;<br>
+2° de schriftelijke volmacht van haar raadsman als die geen advocaat is;<br>
+3° de overtuigingsstukken die in de inventaris zijn vermeld en die conform die inventaris genummerd zijn.<br>
+<br>
+De vergunninghouder die wordt vermeld in de bestreden beslissing, of de persoon die de melding heeft verricht die wordt vermeld in de bestreden aktename of niet-aktename, en die conform artikel 20, derde lid, van het decreet, van rechtswege tussenkomende partij is, voegt de stukken, vermeld in het derde lid, 1°, niet toe.</p>
 
 ### ART. 61.
 
-§ 1. Het verzoek tot tussenkomst wordt ingediend binnen een vervaltermijn van twintig dagen, die ingaat op de dag na de betekening van de brief waarin de griffier conform artikel 59/3 de belanghebbenden de mogelijkheid heeft geboden om een verzoek tot tussenkomst in te dienen.<br>
+In de volgende gevallen stelt de griffier de tussenkomende partij in staat om haar schriftelijke uiteenzetting te regulariseren:<br>
+1° de stukken, vermeld in artikel 60, derde lid, 1°, zijn in voorkomend geval niet bij de schriftelijke uiteenzetting gevoegd;<br>
+2° de schriftelijke uiteenzetting is niet ondertekend door de tussenkomende partij of haar raadsman;<br>
+3° de schriftelijke uiteenzetting bevat geen woonplaatskeuze in België als vermeld in artikel 7, § 1;<br>
+4° de schriftelijke uiteenzetting vermeldt het rolnummer van de vordering niet of bevat geen verklaring dat de tussenkomende partij het rolnummer niet kent;<br>
+5° de schriftelijke volmacht, vermeld in artikel 60, derde lid, 2°, is niet bij de schriftelijke uiteenzetting gevoegd;<br>
+6° de stukken, vermeld in artikel 60, derde lid, 3°, zijn niet bij de schriftelijke uiteenzetting gevoegd;<br>
+7° de inventaris van de overtuigingsstukken, die conform die inventaris genummerd zijn, is niet bij de schriftelijke uiteenzetting gevoegd.<br>
 <br>
-§ 2. De griffier stelt de verzoeker tot tussenkomst in staat om het verzoekschrift tot tussenkomst te regulariseren als:<br>
-1° de stukken, vermeld in artikel 60, derde lid, 1°, niet gevoegd zijn bij het verzoekschrift dat uitgaat van een rechtspersoon;<br>
-2° het verzoekschrift niet is ondertekend door de verzoeker tot tussenkomst of zijn raadsman;<br>
-3° het verzoekschrift geen woonplaatskeuze in België bevat als vermeld in artikel 7, § 1;<br>
-4° het verzoekschrift geen vermelding van het rolnummer van de vordering of geen verklaring dat de verzoeker tot tussenkomst het rolnummer niet kent, bevat;<br>
-5° de schriftelijke volmacht, vermeld in artikel 60, derde lid, 2°, niet bij het verzoekschrift gevoegd is;<br>
-6° de stukken, vermeld in artikel 60, derde lid, 3°, niet bij het verzoekschrift gevoegd zijn;<br>
-7° de inventaris van de overtuigingsstukken, die allemaal overeenkomstig die inventaris genummerd zijn, niet bij het verzoekschrift gevoegd is.<br>
+De griffier stelt, in voorkomend geval, de tussenkomende partij in staat om de vormvereisten, vermeld in het eerste lid, te regulariseren binnen een vervaltermijn van acht dagen, die ingaat op de dag na de betekening van het verzoek tot regularisatie.<br>
 <br>
-De verzoeker tot tussenkomst die zijn verzoekschrift tijdig regulariseert, wordt geacht het te hebben ingediend op de datum van de eerste verzending of neerlegging.<br>
+De tussenkomende partij die haar schriftelijke uiteenzetting tijdig regulariseert, wordt geacht die te hebben ingediend op de datum van de eerste verzending of neerlegging van de schriftelijke uiteenzetting.<br>
 <br>
-Een verzoekschrift dat niet, onvolledig of laattijdig is geregulariseerd, wordt geacht niet te zijn ingediend.<br>
-<br>
-De regularisatie vindt uiterlijk op een van de volgende tijdstippen plaats:<br>
-1° het tijdstip van de zitting waarop de vordering tot schorsing bij hoogdringendheid wordt behandeld;<br>
-2° het tijdstip waarop de schriftelijke uiteenzetting, vermeld in artikel 75, wordt ingediend.<br>
-<br>
-§ 3. In afwijking van paragraaf 1 wordt een verzoek tot tussenkomst in de vordering tot schorsing bij uiterst dringende noodzakelijkheid ingediend vanaf de dag na de betekening van de beschikking, vermeld in artikel 65, of het arrest, vermeld in artikel 65/1, en uiterlijk tot bij aanvang van de zitting waarop de vordering tot schorsing bij uiterst dringende noodzakelijkheid of de bevestiging van de schorsing bij uiterst dringende noodzakelijkheid wordt behandeld.
+Een schriftelijke uiteenzetting die niet, onvolledig of laattijdig is geregulariseerd, wordt geacht niet te zijn ingediend.
 
 ## Afdeling 4 Schorsing
 
@@ -702,31 +712,37 @@ De regularisatie vindt uiterlijk op een van de volgende tijdstippen plaats:<br>
 
 ### ART. 62.
 
-<p>De verweerder dient het geïnventariseerde administratief dossier in binnen een vervaltermijn van twintig dagen, die ingaat op de dag na de betekening van het verzoekschrift, vermeld in artikel 19, 1°, als het administratief dossier nog niet werd ingediend.</p>
-
-<p>Binnen de termijn, vermeld in het eerste lid, kan de verweerder een nota met opmerkingen over de gevorderde schorsing indienen.</p>
+<p>De verweerder dient een nota met opmerkingen over de gevorderde schorsing in binnen een vervaltermijn van twintig dagen, die ingaat na de betekening van de brief waarin de griffier de verweerder in de mogelijkheid stelt een nota met opmerkingen over de gevorderde schorsing in te dienen.<br>
+<br>
+Binnen de termijn, vermeld i n het eerste lid, dient de verweerder het administratief dossier in, als het nog niet is ingediend.</p>
 
 <p>Als het administratief dossier niet in het bezit is van de verweerder, brengt de verweerder de griffie daarvan onmiddellijk en schriftelijk op de hoogte en geeft hij aan waar het administratief dossier zich bij zijn weten bevindt. De griffier vordert de mededeling ervan aan het bestuursorgaan dat het administratief dossier onder zich heeft. Dat bestuursorgaan zendt het gevorderde dossier onmiddellijk naar de griffie.</p>
 
 <p>Als de verweerder niet binnen die termijn, vermeld in het eerste lid, het administratief dossier indient of aan het College meedeelt dat het administratief dossier niet in zijn bezit is, maant de griffier de verweerder aan om daartoe vooralsnog over te gaan binnen een door de griffier bepaalde termijn. Als de verweerder hieraan geen gevolg geeft, worden de door de verzoeker aangehaalde feiten als bewezen geacht, tenzij deze feiten kennelijk onjuist zijn.</p>
 
+### ART 62/1.
+
+Een schriftelijke uiteenzetting over de vordering tot schorsing bij hoogdringendheid wordt ingediend binnen een vervaltermijn van twintig dagen, die ingaat op de dag na de betekening van de brief waarin de griffier, conform artikel 59/3, tweede lid, en artikel 59/4, eerste lid, de mogelijkheid geeft om een schriftelijke uiteenzetting in te dienen.<br>
+<br>
+Als een verzoekschrift een vordering tot schorsing bij hoogdringendheid én een vordering tot vernietiging bevat, deelt de belanghebbende bij de zaak, binnen de termijn, vermeld in het eerste lid, mee in welke vorderingen hij wil tussen te komen.
+
 ### ART. 63.
 
 <p>De kamervoorzitter bepaalt bij beschikking:<br>
-1° de plaats, de dag en het tijdstip van de zitting waarop de vordering tot schorsing bij hoogdringendheid wordt behandeld;<br>
+1° de plaats, de dag en het tijdstip van de zitting waarop de vordering tot schorsing bij hoogdringendheid wordt behandeld;&nbsp;Die zitting vindt plaats binnen een ordetermijn van twintig dagen, die ingaat op de dag nadat het dossier in staat is;<br>
 2° de termijn waarbinnen ter griffie inzage kan worden genomen van het administratief dossier en de overtuigingsstukken.<br>
 <br>
 Uiterlijk zeven dagen voor de dag van de zitting brengt de griffier de partijen schriftelijk op de hoogte van de inhoud van de beschikking, vermeld in het eerste lid, en deelt de griffier hen de samenstelling van de bevoegde kamer mee.<br>
 <br>
 Tegelijkertijd bezorgt de griffier de volgende stukken:<br>
-1° de nota met opmerkingen over de gevorderde schorsing aan de verzoeker en aan de eventueel tussenkomende partijen;<br>
-2° in voorkomend geval, het&nbsp;verzoekschrift tot tussenkomst aan de verzoeker, de verweerder en de eventueel andere tussenkomende partijen.</p>
+1° de nota met opmerkingen over de gevorderde schorsing aan de verzoeker en aan de tussenkomende partijen;<br>
+2° in voorkomend geval, de schriftelijke uiteenzetting over de gevorderde schorsing&nbsp;aan de verzoeker, de verweerder en de andere tussenkomende partijen.</p>
 
 ## [Onderafdeling 2 Schorsing bij uiterst dringende noodzakelijkheid (ing. BVR 21 april 2017, art. 35, I: 24 april 2017)]
 
 ### ART. 64.
 
-Artikel 17, § 2, derde tot en met vijfde lid, artikel 19, 59, 59/1, 59/2 en 61, § 2, zijn niet van toepassing op de vordering tot schorsing bij uiterst dringende noodzakelijkheid.
+Artikel 17, § 2, derde tot en met vijfde lid, artikel 19, 59, 59/1, 59/2 en 61 zijn niet van toepassing op de vordering tot schorsing bij uiterst dringende noodzakelijkheid.
 
 ### ART. 65.
 
@@ -735,15 +751,13 @@ Artikel 17, § 2, derde tot en met vijfde lid, artikel 19, 59, 59/1, 59/2 en 61,
 2° de termijn waarbinnen ter griffie inzage kan worden genomen van het administratief dossier en de overtuigingsstukken;<br>
 3° de namen van een of meer van de belanghebbenden, vermeld in artikel 20, eerste en tweede lid, van het decreet, als de kamer heeft beslist een of meer belanghebbenden op te roepen;<br>
 <br>
-De griffier betekent de beschikking onmiddellijk aan de partijen en aan de belanghebbenden, vermeld in het eerste lid, 3°, en deelt hen de samenstelling van de bevoegde kamer mee.<br>
+De griffier betekent de beschikking en een afschrift van het verzoekschrift onmiddellijk aan de partijen en aan de belanghebbenden, vermeld in het eerste lid, 3°, en deelt hen de samenstelling van de bevoegde kamer mee.<br>
 <br>
-Tegelijkertijd bezorgt de griffier een afschrift van het verzoekschrift houdende vordering tot schorsing bij uiterst dringende noodzakelijkheid aan de verweerder en aan de belanghebbenden, vermeld in het eerste lid, 3°.<br>
+§ 2. De verweerder dient onmiddellijk het administratief dossier in, als het nog niet werd ingediend. Als de verweerder het administratief dossier niet van tevoren heeft toegezonden, overhandigt hij het ter zitting aan de kamervoorzitter, die de zitting kan schorsen om aan de andere partijen de gelegenheid te geven er inzage van te nemen.<br>
 <br>
-§ 2. De verweerder dient onmiddellijk het geïnventariseerde administratief dossier in, als het nog niet werd ingediend. Als de verweerder het administratief dossier niet van tevoren heeft toegezonden, overhandigt hij het ter zitting aan de kamervoorzitter, die de zitting kan schorsen om aan de andere partijen de gelegenheid te geven er inzage van te nemen.<br>
+§ 3. De verweerder kan een nota met opmerkingen over de gevorderde schorsing bij uiterst dringende noodzakelijkheid indienen vanaf de dag na de betekening van de beschikking, vermeld in paragraaf 1, en uiterlijk bij aanvang van de zitting waarop de vordering tot schorsing bij uiterst dringende noodzakelijkheid wordt behandeld. De verweerder bezorgt de nota tegelijkertijd aan de partijen en aan de belanghebbenden, vermeld in paragraaf 1, eerste lid, 3°.<br>
 <br>
-§ 3. De verweerder kan een nota met opmerkingen over de gevorderde schorsing bij uiterst dringende noodzakelijkheid indienen vanaf de dag na de betekening van de beschikking, vermeld in paragraaf 1, en uiterlijk bij aanvang van de zitting waarop de vordering tot schorsing bij uiterst dringende noodzakelijkheid wordt behandeld. De verweerder bezorgt de nota tegelijkertijd aan de verzoeker en aan de belanghebbenden, vermeld in paragraaf 1, eerste lid, 3°.<br>
-<br>
-De belanghebbenden, vermeld in paragraaf 1, eerste lid, 3°, kunnen met toepassing van artikel 60, tweede lid, 7°, in het verzoek tot tussenkomst een schriftelijke uiteenzetting over de gevorderde schorsing bij uiterst dringende noodzakelijkheid opnemen. Gelijktijdig met het indienen van het verzoek tot tussenkomst bezorgen de belanghebbenden het verzoek tot tussenkomst aan de verzoeker, de verweerder en de overige belanghebbenden, vermeld in paragraaf 1, eerste lid, 3°.
+Een schriftelijke uiteenzetting over de gevorderde schorsing bij uiterst dringende noodzakelijkheid wordt ingediend vanaf de dag na de betekening van de beschikking, vermeld in paragraaf 1, en uiterlijk bij aanvang van de zitting waarop de vordering tot schorsing bij uiterst dringende noodzakelijkheid wordt behandeld. De tussenkomende partij bezorgt de schriftelijke uiteenzetting tegelijkertijd aan de partijen en aan de belanghebbenden, vermeld in paragraaf 1, eerste lid, 3°.
 
 ### ART 65/1.
 
@@ -752,15 +766,13 @@ De belanghebbenden, vermeld in paragraaf 1, eerste lid, 3°, kunnen met toepassi
 2° de termijn waarbinnen ter griffie inzage kan worden genomen van het administratief dossier en de overtuigingsstukken;<br>
 3° de namen van een of meer van de belanghebbenden, vermeld in artikel 20, eerste en tweede lid, van het decreet, als de kamer heeft beslist een of meer belanghebbenden op te roepen.<br>
 <br>
-De griffier betekent het arrest onmiddellijk aan de partijen en aan de belanghebbenden, vermeld in het eerste lid, 3°, en deelt hen de samenstelling van de bevoegde kamer mee.<br>
+De griffier betekent het arrest&nbsp;en een afschrift van het verzoekschrift onmiddellijk aan de partijen en aan de belanghebbenden, vermeld in het eerste lid, 3°, en deelt hen de samenstelling van de bevoegde kamer mee.<br>
 <br>
-Tegelijkertijd bezorgt de griffier een afschrift van het verzoekschrift houdende vordering tot schorsing bij uiterst dringende noodzakelijkheid aan de verweerder en aan de belanghebbenden, vermeld in het eerste lid, 3°.<br>
+§ 2. De verweerder dient onmiddellijk het administratief dossier in, als het nog niet werd ingediend. Als de verweerder het administratief dossier niet van te voren heeft toegezonden, overhandigt hij het ter zitting aan de kamervoorzitter, die de zitting kan schorsen om aan de andere partijen de gelegenheid te geven er inzage van te nemen.<br>
 <br>
-§ 2. De verweerder dient onmiddellijk het geïnventariseerde administratief dossier in, als het nog niet werd ingediend. Als de verweerder het administratief dossier niet van te voren heeft toegezonden, overhandigt hij het ter zitting aan de kamervoorzitter, die de zitting kan schorsen om aan de andere partijen de gelegenheid te geven er inzage van te nemen.<br>
+§ 3. De verweerder kan een nota met opmerkingen over de gevorderde schorsing bij uiterst dringende noodzakelijkheid indienen vanaf de dag na de betekening van het arrest, vermeld in paragraaf 1, en uiterlijk bij aanvang van de zitting waarop de bevestiging van de schorsing bij uiterst dringende noodzakelijkheid wordt behandeld. De verweerder bezorgt tegelijkertijd de nota aan de partijen en aan de belanghebbenden, vermeld in paragraaf 1, eerste lid, 3°.<br>
 <br>
-§ 3. De verweerder kan een nota met opmerkingen over de gevorderde schorsing bij uiterst dringende noodzakelijkheid indienen vanaf de dag na de betekening van het arrest, vermeld in paragraaf 1, en uiterlijk bij aanvang van de zitting waarop de bevestiging van de schorsing bij uiterst dringende noodzakelijkheid wordt behandeld. De verweerder bezorgt tegelijkertijd de nota aan de verzoeker en aan de belanghebbenden, vermeld in paragraaf 1, eerste lid, 3°.<br>
-<br>
-De belanghebbenden, vermeld in paragraaf 1, eerste lid, 3°, kunnen, met toepassing van artikel 60, tweede lid, 7°, in het verzoek tot tussenkomst een schriftelijke uiteenzetting over de gevorderde schorsing bij uiterst dringende noodzakelijkheid opnemen. Gelijktijdig met het indienen van het verzoek tot tussenkomst, bezorgen de belanghebbenden het verzoek tot tussenkomst aan de verzoeker, de verweerder en de overige belanghebbenden, vermeld in paragraaf 1, eerste lid, 3°.
+Een schriftelijke uiteenzetting over de gevorderde schorsing bij uiterst dringende noodzakelijkheid wordt ingediend vanaf de dag na de betekening van het arrest, vermeld in paragraaf 1, en uiterlijk bij aanvang van de zitting waarop de bevestiging van de schorsing bij uiterst dringende noodzakelijkheid wordt behandeld. De tussenkomende partij bezorgt de schriftelijke uiteenzetting tegelijkertijd aan de partijen en aan de belanghebbenden, vermeld in paragraaf 1, eerste lid, 3°.
 
 ## [Onderafdeling 3 Zitting (verv. BVR 21 april 2017, art. 40, I: 24 april 2017)]
 
@@ -774,6 +786,8 @@ De kamervoorzitter verklaart de debatten voor gesloten en neemt de zaak in beraa
 
 ### ART. 66.
 
+Binnen een ordetermijn van dertig dagen, die ingaat op de dag na de sluiting van de debatten, spreekt de kamer waarbij een vordering tot schorsing bij hoogdringendheid aanhangig is, een arrest uit.<br>
+<br>
 Het arrest wordt met redenen omkleed, overeenkomstig artikel 32, tweede lid, van het decreet, en vermeldt de volgende gegevens:<br>
 1° de namen van de partijen, de door hen gekozen woonplaats en, in voorkomend geval, de naam en de hoedanigheid van de persoon die de partijen bijstaat of vertegenwoordigt;<br>
 2° de oproeping van partijen, van hun raadsmannen, alsook hun eventuele aanwezigheid op de zitting;<br>
@@ -873,9 +887,7 @@ De andere partijen die niet verschijnen of niet vertegenwoordigd zijn, worden ge
 
 ### ART. 74.
 
-§ 1. De verweerder dient een antwoordnota, een geïnventariseerd administratief dossier, als dat nog niet werd ingediend, en eventuele aanvullende en geïnventariseerde overtuigingsstukken in binnen een vervaltermijn van vijfenveertig dagen, die ingaat:<br>
-1° bij een vordering tot vernietiging, op de dag na de betekening van het afschrift van het verzoekschrift, vermeld in artikel 19, 1° ;<br>
-2° bij een vordering tot schorsing die tegelijk met of na de vordering tot vernietiging werd ingediend, op de dag na de betekening van de brief waarin de griffier de verweerder in de mogelijkheid stelt een antwoordnota in te dienen.<br>
+§ 1. De verweerder dient een antwoordnota, een administratief dossier, als dat nog niet is ingediend, en eventuele aanvullende en geïnventariseerde overtuigingsstukken in binnen een vervaltermijn van vijfenveertig dagen, die ingaat op de dag na de betekening van de brief waarin de griffier de verweerder in de mogelijkheid stelt een antwoordnota in te dienen.<br>
 <br>
 § 2. Als het administratief dossier niet in het bezit is van de verweerder, brengt de verweerder de griffie daarvan onmiddellijk en schriftelijk op de hoogte en geeft hij aan waar het administratief dossier zich bij zijn weten bevindt. De griffier vordert de mededeling ervan aan het bestuursorgaan dat het administratief dossier onder zich heeft. Dat bestuursorgaan zendt het gevorderde dossier onmiddellijk naar de griffie.<br>
 <br>
@@ -885,9 +897,7 @@ Als de verweerder niet binnen de termijn, vermeld in paragraaf 1, het administra
 
 ### ART. 75.
 
-De tussenkomende partij dient een schriftelijke uiteenzetting en eventuele geïnventariseerde overtuigingsstukken in binnen een vervaltermijn van dertig dagen, die ingaat:<br>
-1° bij een vordering tot vernietiging, op de dag na de betekening van de uitspraak over het verzoek tot tussenkomst;<br>
-2° bij een vordering tot schorsing die tegelijk met of na de vordering tot vernietiging werd ingediend, op de dag na de betekening van de brief waarin de griffier de tussenkomende partij in de mogelijkheid stelt een schriftelijke uiteenzetting in te dienen.
+Een schriftelijke uiteenzetting en eventuele geïnventariseerde overtuigingsstukken over de vordering tot vernietiging worden ingediend binnen een vervaltermijn van vijfenveertig dagen, die ingaat op de dag na de betekening van de brief waarin de griffier, conform artikel 59/3, tweede lid, en 59/4, eerste lid, de mogelijkheid geeft om een schriftelijke uiteenzetting in te dienen.
 
 ## Sectie 3 De wederantwoordnota of toelichtende nota van de verzoeker
 
@@ -895,7 +905,7 @@ De tussenkomende partij dient een schriftelijke uiteenzetting en eventuele geïn
 
 <p>De griffier betekent een afschrift van de antwoordnota aan de verzoeker, of deelt hem het ontbreken van een&nbsp;antwoordnota mee, en brengt de verzoeker ook op de hoogte van de neerlegging van het administratief dossier.</p>
 
-<p>In geval van een tussenkomst, betekent de griffier gelijktijdig een afschrift van de schriftelijke uiteenzetting van de tussenkomende partij aan de verzoeker.</p>
+<p>Tegelijkertijd bezorgt de griffier, in voorkomend geval, een afschrift van de schriftelijke uiteenzetting van de tussenkomende partij aan de verzoeker.</p>
 
 ### ART. 77.
 
@@ -907,7 +917,7 @@ De verzoeker kan aan de wederantwoordnota of de toelichtende nota aanvullende, g
 
 ### ART. 78.
 
-De griffier betekent een afschrift van de wederantwoordnota of de toelichtende nota aan de verweerder en, in geval van een tussenkomst, aan de tussenkomende partij.
+De griffier betekent een afschrift van de wederantwoordnota of de toelichtende nota aan de verweerder en de tussenkomende partij.
 
 ## Sectie 4 [... (opgeh. BVR 21 april 2017, art. 54, I: 24 april 2017)]
 
@@ -959,9 +969,7 @@ De griffier stelt een proces-verbaal op van het feit dat de getuige niet   versc
 <br>
 § 2. Uiterlijk vijftien dagen voor de dag van de zitting brengt de griffier de partijen, en in voorkomend geval de getuigen, schriftelijk op de hoogte van de inhoud van de beschikking, vermeld in paragraaf 1, en deelt de griffier hen de samenstelling van de bevoegde kamer mee.<br>
 <br>
-§ 3. In afwijking van paragraaf 1 en op het ogenblik dat de zaak in staat is, kan de kamer de zaak in beraad nemen als de partijen met toepassing van artikel 16, zesde lid, van het decreet, in onderling overleg afzien van de behandeling van het beroep ter zitting.<br>
-<br>
-De partijen bezorgen daartoe gezamenlijk een afzonderlijk verzoek aan de kamervoorzitter.
+§ 3. In afwijking van paragraaf 1 en op het ogenblik dat de zaak in staat is, kan de kamer de zaak in beraad nemen als de partijen met toepassing van artikel 16, zesde lid, van het decreet, in onderling overleg afzien van de behandeling van het beroep ter zitting.
 
 ### ART. 86.
 
@@ -1029,7 +1037,9 @@ De griffier betekent een afschrift van het standpunt van een partij aan de ander
 
 <p>De partijen kunnen bij het verzoek alle overtuigingsstukken voegen die ze nuttig achten.</p>
 
-<p>§ 3. Als niet voldaan is aan de vormvereisten, vermeld in paragraaf 1 en 2, stelt de griffier de partijen in staat om het verzoek tot bemiddeling te regulariseren binnen een vervaltermijn van vijftien dagen, die ingaat op de dag na de betekening van het verzoek tot regularisatie.</p>
+<p>§ 3. Als niet voldaan is aan de vormvereisten, vermeld in paragraaf 1 en 2, stelt de griffier de partijen in staat om het verzoek tot bemiddeling te regulariseren binnen een vervaltermijn van vijftien dagen, die ingaat op de dag na de betekening van het verzoek tot regularisatie.<br>
+<br>
+§ 4. De griffier stelt een proces-verbaal van het verzoek tot bemiddeling op, dat hij samen met de kamervoorzitter ondertekent.</p>
 
 ### ART. 96.
 
@@ -1037,24 +1047,21 @@ De griffier betekent een afschrift van het standpunt van een partij aan de ander
 
 ### ART. 97.
 
-<p>De kamer doet bij tussenarrest als vermeld in artikel 42, § 1, van het decreet, uitspraak over het verzoek tot bemiddeling.</p>
-
-<p>Het tussenarrest waarbij het verzoek tot bemiddeling wordt ingewilligd, vermeldt uitdrukkelijk:<br>
+<p>Het proces-verbaal als vermeld in artikel 42, § 1, van het decreet, vermeldt uitdrukkelijk:<br>
 1° het akkoord van de partijen;<br>
 2° de identiteit van de bemiddelaar;<br>
 3° de inhoud van de opdracht van de bemiddelaar;<br>
 4° de termijn van de opdracht, die maximaal zes maanden bedraagt en die ingaat op de dag na de betekening, vermeld in het vierde lid;<br>
-5° de datum waarnaar de zaak is verdaagd, die de eerste nuttige datum na het verstrijken van de termijn, vermeld in punt 4°, is.</p>
+5° de datum waarnaar de zaak is verdaagd, die de eerste nuttige datum na het verstrijken van de termijn, vermeld in punt 4°, is.<br>
+6° het bedrag van de verschuldigde bemiddelingsvergoeding.</p>
 
-<p>Het tussenarrest waarbij het verzoek tot bemiddeling wordt afgewezen, wordt met redenen omkleed.</p>
-
-<p>De griffier betekent een afschrift van het tussenarrest, vermeld in het eerste lid, aan de partijen en, in voorkomend geval, aan de bemiddelaar.</p>
+<p>De griffier betekent een afschrift van het proces-verbaal, vermeld in het eerste lid, aan de partijen en&nbsp;aan de bemiddelaar.</p>
 
 ### ART. 98.
 
-<p>De bemiddelaar beschikt over een termijn van vijftien dagen, die ingaat op de dag na de betekening van het tussenarrest, vermeld in artikel 97, om de griffier te laten weten of hij zijn opdracht aanvaardt.</p>
+<p>De bemiddelaar beschikt over een termijn van vijftien dagen, die ingaat op de dag na de betekening van het proces-verbaal, vermeld in artikel 97, om de griffier te laten weten of hij zijn opdracht aanvaardt.</p>
 
-<p>Als de aangewezen externe bemiddelaar de opdracht aanvaardt, bezorgt de griffier hem een afschrift van het administratieve dossier.</p>
+<p>Als de aangewezen externe bemiddelaar de opdracht aanvaardt, bezorgt de griffier hem een afschrift van het administratieve dossier.&nbsp;Voor de beroepen, vermeld in artikel 54, 2°, wordt het verlenen van toegang tot het omgevingsloket als het bezorgen van een afschrift van het administratief dossier beschouwd.</p>
 
 ### ART. 99.
 
@@ -1062,28 +1069,28 @@ De griffier betekent een afschrift van het standpunt van een partij aan de ander
 
 ### ART. 100.
 
-<p>§ 1. Uiterlijk tijdens de zitting, vermeld in artikel 97, tweede lid, 5°, informeren de partijen de kamer over het resultaat van de bemiddeling.</p>
+<p>§ 1. Uiterlijk tijdens de zitting, vermeld in artikel 97, eerste&nbsp;lid, 5°, informeren de partijen de kamer over het resultaat van de bemiddeling.</p>
 
 <p>§ 2. De kamer kan overeenkomstig artikel 42, § 3, van het decreet het bemiddelingsakkoord al dan niet bekrachtigen, of de voortzetting van de jurisdictionele procedure bevelen.</p>
 
-<p>§ 3. Als de partijen niet tot een akkoord zijn gekomen, kunnen ze om een nieuwe bemiddelingstermijn verzoeken.</p>
-
-<p>De kamer doet bij tussenarrest uitspraak over het verzoek om een nieuwe bemiddelingstermijn.</p>
-
-<p>Het tussenarrest waarbij het verzoek voor een nieuwe bemiddelingstermijn wordt ingewilligd, vermeldt uitdrukkelijk:<br>
+<p>§ 3. Als de partijen niet tot een akkoord zijn gekomen, kunnen ze om een nieuwe bemiddelingstermijn verzoeken.<br>
+<br>
+Het gezamenlijk verzoek om een nieuwe bemiddelingstermijn wordt geakteerd in een proces-verbaal dat de griffier en de kamervoorzitter ondertekenen.<br>
+<br>
+Het proces-verbaal waarbij het verzoek om een nieuwe bemiddelingstermijn wordt ingewilligd, vermeldt uitdrukkelijk al de volgende gegevens:<br>
 1° de inhoud van de opdracht van de bemiddelaar;<br>
-2° de nieuwe termijn van de opdracht die maximaal drie maanden bedraagt en die ingaat op de dag na de betekening van het tussenarrest;<br>
-3° de datum waarnaar de zaak is verdaagd, die de eerste nuttige datum na het verstrijken van de termijn, vermeld in punt 2°, is.</p>
+2° de nieuwe termijn van de opdracht die maximaal zes maanden bedraagt en die ingaat op de dag na de betekening van het proces-verbaal;<br>
+3° de datum waarnaar de zaak is verdaagd, die de eerste nuttige datum is nadat de termijn, vermeld in punt 2°, is verstreken.<br>
+<br>
+De griffier zendt onmiddellijk een afschrift van het proces-verbaal, vermeld in het tweede lid, aan de partijen en aan de bemiddelaar.<br>
+<br>
+Met toepassing van deze paragraaf kan de termijn van de opdracht op verzoek van de partijen telkens met maximaal zes maanden verlengd worden.<br>
+<br>
+§ 4. Als de kamer de voortzetting van de jurisdictionele procedure beveelt, wordt dat vastgesteld in een proces-verbaal. De griffier zendt onmiddellijk een afschrift van dat proces-verbaal aan de partijen en aan de bemiddelaar.</p>
 
-<p>De griffier zendt onmiddellijk een afschrift van het tussenarrest, vermeld in het tweede lid, aan de partijen en aan de bemiddelaar.</p>
+<p>§ 5. De kamer kan, op basis van de informatie die ze ontvangt op de zitting, vermeld in paragraaf 1, met een proces-verbaal&nbsp;vaststellen dat de randvoorwaarden voor een geslaagde bemiddeling niet of niet langer zijn vervuld, en kan een einde stellen aan de bemiddelingspoging.</p>
 
-<p>Met toepassing van deze paragraaf kan de termijn van de opdracht op verzoek van de partijen telkens met maximaal drie maanden verlengd worden.</p>
-
-<p>§ 4. Als de kamer bij tussenarrest de voortzetting van de jurisdictionele procedure beveelt, zendt de griffier onmiddellijk een afschrift van dit tussenarrest aan de partijen en aan de bemiddelaar.</p>
-
-<p>§ 5. De kamer kan, op basis van de informatie die ze ontvangt op de zitting, vermeld in paragraaf 1, met een tussenarrest vaststellen dat de randvoorwaarden voor een geslaagde bemiddeling niet of niet langer zijn vervuld, en kan een einde stellen aan de bemiddelingspoging.</p>
-
-<p>In dat geval zendt de griffier onmiddellijk een afschrift van het tussenarrest, vermeld in het eerste lid, aan de partijen en aan de bemiddelaar.</p>
+<p>In dat geval zendt de griffier onmiddellijk een afschrift van het proces-verbaal, vermeld in het eerste lid, aan de partijen en aan de bemiddelaar.</p>
 
 ## Onderafdeling 4 Hervatting van het geding
 
