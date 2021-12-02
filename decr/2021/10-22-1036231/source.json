@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036231,
+  "title": "Decreet van 2021-10-22 tot wijziging van artikel 2.10 en 2.11 van de Vlaamse Codex Wonen van 2021, wat de definitie betreft van leegstaande gebouwen die in hoofdzaak gediend hebben voor een economische functie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036231/VolledigDocument?datum=2021-12-02",
+  "source_sha256": "16da6a1c445bbcad9415b9a9d992a95452b41236564c286681c6bf906efbe3f1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036231&param=informatie",
+  "as_of": "2021-12-02",
+  "made": "2021-10-22",
+  "gazette": "2021-11-22",
+  "numac": 2021022370,
+  "document_start": "2021-12-02",
+  "document_end": null,
+  "in_force": "2021-12-02",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-12-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
