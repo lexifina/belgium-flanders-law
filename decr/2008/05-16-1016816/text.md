@@ -84,7 +84,24 @@ Wanneer de Vlaamse Regering of de gemeente een aanvullend reglement vaststellen 
 
 Met het oog op het innen van de parkeerretributies of -belastingen kunnen concessies of beheersovereenkomsten worden afgesloten.<br>
 <br>
-De Vlaamse Regering, de steden en de gemeenten en hun concessiehouders en de gemeentelijke verzelfstandigde agentschappen vragen, met toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd, de identiteit van de houder van de nummerplaat op bij de overheid die belast is met de inschrijving van de voertuigen.
+Voor de inning van de parkeerretributies of -belastingen, in het kader van de handhaving van het parkeerbeleid als taak van algemeen belang, worden de volgende persoonsgegevens verwerkt door de door de Vlaamse Regering aangeduide instantie, de steden en gemeenten en hun concessiehouders, en de gemeentelijke verzelfstandigde agentschappen:<br>
+1° de kentekenplaten;<br>
+2° de identificatiegegevens van de houders van de kentekenplaten;<br>
+3° de volgende technische kenmerken van de voertuigen:<br>
+a) het brandstoftype;<br>
+b) de voertuigcategorie;<br>
+c) de maximaal toegelaten massa;<br>
+d) het merk;<br>
+e) het type;<br>
+f) de kleur.<br>
+<br>
+De instanties, vermeld in het tweede lid, verzamelen en verwerken alleen de persoonsgegevens die noodzakelijk zijn om de overtreder te identificeren en die nodig zijn voor de controle en de bestraffing van de inbreuken op de aanvullende reglementen, vermeld in artikel 10/1.<br>
+<br>
+De Vlaamse Regering en de gemeenten treden op als de verwerkingsverantwoordelijke voor hun respectievelijk ingevoerde parkeerretributie of belasting, in de zin van artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) en voldoen aan de verplichtingen, vermeld in artikel 26 van de voormelde verordening, die in dat verband op hen rusten.<br>
+<br>
+De gemeentelijke verzelfstandigde agentschappen en de concessiehouders treden op als verwerker in de zin van artikel 4, 7), van de voormelde verordening.<br>
+<br>
+De instanties, vermeld in het tweede lid, kunnen de gegevens, vermeld in het tweede lid, opvragen bij de overheid die belast is met de inschrijving van de voertuigen. Ze houden die gegevens gedurende maximaal tien jaar bij.
 
 ### ART. 10/3.
 
