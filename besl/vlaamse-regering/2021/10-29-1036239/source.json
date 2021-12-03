@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036239,
+  "title": "Besluit van de Vlaamse Regering van 2021-10-29 houdende indeling bij de gemeentewegen van de gewestweg N114 Kloosterstraat tussen kilometerpunt 1,75 en 2,525 op het grondgebied van de stad Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036239/VolledigDocument?datum=2021-12-03",
+  "source_sha256": "cb156327eef44836c5a2e79990a20c1e92ac8cd8c6355a70d62e0db886c0eaf8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036239&param=informatie",
+  "as_of": "2021-12-03",
+  "made": "2021-10-29",
+  "gazette": "2021-11-23",
+  "numac": 2021043128,
+  "document_start": "2021-12-03",
+  "document_end": null,
+  "in_force": "2021-12-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-12-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
