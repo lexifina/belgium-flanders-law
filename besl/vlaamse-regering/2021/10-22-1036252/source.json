@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036252,
+  "title": "Besluit van de Vlaamse Regering van 2021-10-22 houdende indeling bij de gemeentewegen van de gewestweg N116a Herentalsebaan tussen kilometerpunt 0,0 en 1,725 op het grondgebied van de stad Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036252/VolledigDocument?datum=2021-12-06",
+  "source_sha256": "7e2138f972875c57806d4445a5922651217293f2ae579d2b3cce399da6d9dbc8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036252&param=informatie",
+  "as_of": "2021-12-06",
+  "made": "2021-10-22",
+  "gazette": "2021-11-26",
+  "numac": 2021022372,
+  "document_start": "2021-12-06",
+  "document_end": null,
+  "in_force": "2021-12-06",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2021-12-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
