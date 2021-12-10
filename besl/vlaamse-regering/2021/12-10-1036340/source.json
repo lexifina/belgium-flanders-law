@@ -2,16 +2,16 @@
   "codex_id": 1036340,
   "title": "Besluit van de Vlaamse Regering van 2021-12-10 houdende diverse dringende maatregelen in onderwijs ingevolge COVID-19",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036340/VolledigDocument?datum=2021-11-30",
-  "source_sha256": "9245a440e5f79baebe000c95049b68c039cd28de3857ec310973aa90d3a35460",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036340/VolledigDocument?datum=2021-12-10",
+  "source_sha256": "4cc3b6fa9304bf4103e93d48b00b2a6508ae8b4f71573ef704f54155dc540193",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036340&param=informatie",
-  "as_of": "2021-11-30",
+  "as_of": "2021-12-10",
   "made": "2021-12-10",
   "gazette": "2021-12-16",
   "numac": 2021034341,
   "document_start": "2021-12-10",
   "document_end": null,
-  "in_force": "2021-11-30",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2021-11-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2021-12-10",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2021-12-10; future article versions excluded; article text as the API gives it"
 }
