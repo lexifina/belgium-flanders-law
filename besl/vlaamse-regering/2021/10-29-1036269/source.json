@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036269,
+  "title": "Besluit van de Vlaamse Regering van 2021-10-29 tot wijziging van artikel 3, 7, 8, 9 en 12 van het besluit van de Vlaamse Regering van 15 april 2009 tot uitvoering van Hoofdstuk III/1 van het decreet van 6 februari 2004 betreffende een waarborgregeling voor kleine, middelgrote en grote ondernemingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036269/VolledigDocument?datum=2021-12-11",
+  "source_sha256": "5c1f665d492c1191acb363098a35b5acabbccd6837c42804580cbf9017e4dd7d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036269&param=informatie",
+  "as_of": "2021-12-11",
+  "made": "2021-10-29",
+  "gazette": "2021-12-01",
+  "numac": 2021033888,
+  "document_start": "2021-12-11",
+  "document_end": null,
+  "in_force": "2021-12-11",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2021-12-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
