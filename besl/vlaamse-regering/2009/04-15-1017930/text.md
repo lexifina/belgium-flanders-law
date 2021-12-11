@@ -25,9 +25,12 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 De financiële middelen, verstrekt door financieringsovereenkomsten waaraan de waarborg is gehecht, mogen noch rechtstreeks noch onrechtstreeks, in welke vorm ook, worden aangewend om een vergoeding te betalen aan de aandeelhouders of het management van de kredietnemer, of van de ondernemingen die eraan verbonden zijn, vermeld in artikel 11 van het Wetboek van Vennootschappen. Het verbod geldt niet voor de vergoedingen die de kredietnemer op basis van bestaande overeenkomsten verschuldigd is tegen marktconforme voorwaarden, met uitzondering van elke vorm van bonus, winstuitkering of vervroegde terugbetaling van leningen. Het bevoegde orgaan van de kredietnemer voegt bij de aanvraag van de waarborg een eenzijdige verbintenis waarin bepaald is dat aan die voorwaarde zal worden voldaan.<br>
 <br>
 § 2. Een waarborg wordt alleen verleend tot zekerheid van verbintenissen van kredietnemers die voortvloeien uit financieringsovereenkomsten in euro.<br>
+<br>
 Een waarborg is beperkt tot de hoofdsom en de interesten van de financieringsovereenkomst, verschuldigd op de datum van de opeisbaarverklaring van de financieringsovereenkomst waaraan de waarborg is gehecht door de kredietgever.<br>
 <br>
-De maximale duurtijd van de waarborg is beperkt tot acht jaar.<br>
+De maximale duurtijd van de waarborg is beperkt tot vijftien jaar.<br>
+<br>
+Voor de waarborgen, vermeld in hoofdstuk III/1, afdeling 4, van het Waarborgdecreet, is de maximale duurtijd beperkt tot zes jaar. De voormelde waarborgen kunnen uitgegeven worden tot 31 december 2021 of op een later tijdstip als daarvoor een akkoord van de Europese Commissie is verkregen conform de mededeling van de Commissie van 19 maart 2020 (C/2020/1863) Tijdelijke kaderregeling inzake staatssteun ter ondersteuning van de economie vanwege de COVID-19-uitbraak.<br>
 <br>
 § 3. De waarborg zoals bepaald in artikel 22/3 van het decreet van 6 februari 2004 betreffende een waarborgregeling voor kleine, middelgrote en grote ondernemingen kan slechts worden gecombineerd met andere steunmaatregelen, verleend voor de investering of de activiteit die werd gefinancierd met de financieringsovereenkomst waaraan de waarborg is gehecht, voor zover de maximum steunintensiteiten, vermeld in de relevante richtsnoeren of groepsvrijstellingsverordeningen, niet worden overschreden.<br>
 <br>
@@ -50,26 +53,49 @@ Participatiemaatschappij Vlaanderen wordt belast met de   dossierbehandeling, wa
 
 ### ART. 7.
 
-§ 1. De waarborgpremie wordt op voorhand door de kredietnemer betaald. Voor de eerste waarborgpremie is dat binnen tien dagen na de ondertekening van de waarborgovereenkomst en voor de daaropvolgende premies is dat op het ogenblik, zoals bepaald in de waarborgovereenkomst.<br>
+§1.&nbsp;In dit artikel wordt verstaan onder werkdag: een dag die geen zaterdag, zondag of Vlaamse of Federale wettelijke feestdag is.<br>
+<br>
+§ 1/1. De waarborgpremie wordt op voorhand door de kredietnemer betaald. Voor de eerste waarborgpremie is dat binnen tien werkdagen na de ondertekening van de waarborgovereenkomst en voor de daaropvolgende premies is dat op het ogenblik, zoals bepaald in de waarborgovereenkomst.<br>
 <br>
 § 2. De waarborgpremie wordt berekend op het maximaal beschikbare gewaarborgde bedrag in kapitaal en interesten van de financieringsovereenkomst&nbsp;op de datum waarop de waarborgpremie betaalbaar is.<br>
 <br>
-§ 3. De kredietgever bezorgt de waarborgvennootschap tijdig de nodige informatie om de waarborgpremie te berekenen.&nbsp;De kredietgever int de waarborgpremie bij de kredietnemer en stort die door aan de waarborgvennootschap.<br>
+§ 3. De kredietgever bezorgt de waarborgvennootschap tijdig de nodige informatie om de waarborgpremie te berekenen.&nbsp;De kredietgever heeft ook de volgende taken:<br>
+1° erop toezien dat de waarborgpremie betaald wordt;<br>
+2° de waarborgpremie innen bij de kredietnemer als dat nodig is en die doorstorten aan de waarborgvennootschap.<br>
 <br>
-§ 4. Als de waarborgpremie niet betaald wordt door de kredietnemer als vermeld in paragraaf 1, vervalt de waarborg van rechtswege, zonder aanmaning of kennisgeving, tenzij een van de twee volgende voorwaarden is vervuld :<br>
+§ 4. Als de waarborgpremie niet betaald wordt door de kredietnemer als vermeld in paragraaf 1/1, vervalt de waarborg van rechtswege, zonder aanmaning of kennisgeving, tenzij een van de twee volgende voorwaarden is vervuld :<br>
 1° de kredietgever voorziet binnen tien werkdagen na de datum waarop de waarborgpremie betaalbaar was, zelf in de betaling van de waarborgpremie voor rekening van de kredietnemer;<br>
 2° de financiering, vermeld in artikel 9, § 1, is al opeisbaar verklaard voor de waarborgpremie conform artikel 7, § 1, betaalbaar was.<br>
 &nbsp;
 
 ### ART. 8.
 
-§ 1. De kredietnemer zendt tussen de zestigste en dertigste dag voor de   verjaardag van de inwerkingtreding van de waarborg een verklaring over de   tewerkstelling aan de kredietgever met een afschrift aan de   waarborgvennootschap. Die verklaring heeft tot doel aan te tonen of de   kredietnemer voldoet aan het engagement op het vlak van tewerkstelling dat aan   de waarborgaanvraag werd gekoppeld, vermeld in artikel 4, § 1, 7°. Die   verklaring moet worden geattesteerd door de commissaris van de kredietnemer of   een bedrijfsrevisor.<BR><BR>§ 2. Als uit die verklaring blijkt dat het   tewerkstellingsengagement niet wordt gerespecteerd, wordt de waarborgpremie voor   het volgende jaar verhoogd met 15 % van de voor dat jaar verschuldigde   waarborgpremie. Die verhoging wordt van rechtswege toegepast als de verklaring   niet tijdig werd ingediend. De Waarborgvennootschap deelt een verhoging van de   waarborgpremie per brief mee aan de kredietgever en de   kredietnemer.<BR><BR>
+§ 1. De kredietnemer zendt&nbsp;negentig dagen na het afsluiten van haar boekjaar een verklaring over de tewerkstelling aan de kredietgever met een afschrift aan de waarborgvennootschap. Die verklaring heeft tot doel aan te tonen of de kredietnemer voldoet aan het engagement op het vlak van tewerkstelling dat aan de waarborgaanvraag werd gekoppeld, vermeld in artikel 4, § 1, 7°. Die verklaring moet worden geattesteerd door de commissaris van de kredietnemer of een bedrijfsrevisor.<br>
+<br>
+§ 2. Als uit die verklaring blijkt dat het tewerkstellingsengagement niet wordt gerespecteerd, wordt de waarborgpremie gedurende een volgende periode van twaalf maanden verhoogd met 15%. Die verhoging wordt van rechtswege toegepast als de verklaring niet tijdig werd ingediend. De Waarborgvennootschap deelt een verhoging van de waarborgpremie per brief mee aan de kredietgever en de kredietnemer.<br>
+&nbsp;
 
 ## HOOFDSTUK V Afroep van de waarborg
 
 ### ART. 9.
 
-§ 1. De kredietgever kan de waarborg afroepen als hij op grond van de   contractuele bepalingen van de financieringsovereenkomst de kredietnemer formeel   in gebreke heeft gesteld en de verschafte financiering opeisbaar heeft   verklaard.<BR><BR>Binnen zestig kalenderdagen na de opeisbaarverklaring van de   financiering deelt de kredietgever per aangetekende brief de afroep mee aan de   waarborgvennootschap. Die mededeling bevat een voorstel om de waarborg voorlopig   betaalbaar te stellen, rekening houdend met het waarborgpercentage, in   afwachting van de afsluiting van het dossier na de uitwinning van alle andere   zekerheden die aan de financieringsovereenkomst waren gehecht. Die termijn is   een vervaltermijn.<BR><BR>§ 2. Het voorstel tot voorlopige betaling bevat   :<BR>1° een afschrift van de waarborgovereenkomst;<BR>2° de motivering waarom de   financiering opeisbaar is verklaard;<BR>3° het uitstaande bedrag van de   financieringsovereenkomst in kapitaal en de interesten op de datum van de   opeisbaarverklaring van de financiering;<BR>4° een waardering van de andere   zakelijke zekerheden aan de hand van een waarderingsverslag, opgesteld door een   onafhankelijke deskundige;<BR>5° een waardering van de persoonlijke   zekerheden;<BR>6° een voorstel van afrekening waarin rekening wordt gehouden met   de verwachte realisaties;<BR>7° het rekeningnummer waarop het bedrag moet worden   overgeschreven. <BR><BR>§ 3. De waarborgvennootschap onderzoekt het voorstel tot   voorlopige betaling en voert de voorlopige betaling uit als de kredietinstelling   de contractuele voorwaarden van de lening en de waarborgovereenkomst heeft   gerespecteerd.<BR><BR>§ 4. De waarborgvennootschap kan aan de kredietinstelling   opleggen om een voorstel tot tussentijdse afrekening op te stellen na de   realisatie van één of meer zekerheden. <BR><BR>
+§ 1. De kredietgever kan de waarborg afroepen als hij op grond van de contractuele bepalingen van de financieringsovereenkomst de kredietnemer formeel in gebreke heeft gesteld en de verschafte financiering opeisbaar heeft verklaard.<br>
+<br>
+Binnen zestig dagen na de opeisbaarverklaring van de financiering deelt de kredietgever per aangetekende brief de afroep mee aan de waarborgvennootschap. Die mededeling bevat een voorstel om de waarborg voorlopig betaalbaar te stellen, rekening houdend met het waarborgpercentage, in afwachting van de afsluiting van het dossier na de uitwinning van alle andere zekerheden die aan de financieringsovereenkomst waren gehecht. Die termijn is een vervaltermijn.<br>
+<br>
+§ 2. Het voorstel tot voorlopige betaling bevat :<br>
+1° een afschrift van de waarborgovereenkomst;<br>
+2° de motivering waarom de financiering opeisbaar is verklaard;<br>
+3° het uitstaande bedrag van de financieringsovereenkomst in kapitaal en de interesten op de datum van de opeisbaarverklaring van de financiering;<br>
+4° een waardering van de andere zakelijke zekerheden aan de hand van een waarderingsverslag, opgesteld door een onafhankelijke deskundige;<br>
+5° een waardering van de persoonlijke zekerheden;<br>
+6° een voorstel van afrekening waarin rekening wordt gehouden met de verwachte realisaties;<br>
+7° het rekeningnummer waarop het bedrag moet worden overgeschreven.<br>
+<br>
+§ 3. De waarborgvennootschap onderzoekt het voorstel tot voorlopige betaling en voert de voorlopige betaling uit als de kredietinstelling de contractuele voorwaarden van de lening en de waarborgovereenkomst heeft gerespecteerd.<br>
+<br>
+§ 4. De waarborgvennootschap kan aan de kredietinstelling opleggen om een voorstel tot tussentijdse afrekening op te stellen na de realisatie van één of meer zekerheden.<br>
+&nbsp;
 
 ### ART. 10.
 
@@ -81,7 +107,14 @@ Als de voorlopige of tussentijdse betalingen het door de   waarborgvennootschap 
 
 ### ART. 12.
 
-§ 1. De betaalbaarstelling van de waarborg en elke betaling die daarop   volgt, stellen de kredietnemer&nbsp;niet vrij van haar contractuele   verplichtingen tegenover de kredietgever die voortvloeien uit de   financieringsovereenkomst.<BR><BR>§ 2. De kredietgever moet de betalingen die na   de afroep nog worden ontvangen op grond van de contractuele bepalingen van de   financieringsovereenkomst waaraan de waarborg is gehecht, meedelen aan de   waarborgvennootschap binnen de dertig kalenderdagen. De betalingen betreffen   zowel de betalingen waartoe de kredietnemer&nbsp;of een derde op vrijwillige   basis overgaat, als die welke in rechte worden afgedwongen.<BR><BR>De   kredietgever moet, volgens nadere voorwaarden die vastgelegd worden in de   waarborgovereenkomst, aan de waarborgvennootschap een evenredig deel van het   bedrag van de betalingen, vermeld in het eerste lid, die hij van de   kredietnemer&nbsp;of een derde persoon ontvangen heeft, binnen drie maanden   doorstorten na aftrek van de redelijke en verantwoorde inningskosten.<BR><BR>Het   evenredige deel van het bedrag van de door de kredietgever ontvangen betalingen   en gemaakte kosten is gelijk aan het percentage van de waarborg.   <BR><BR>
+§ 1. De betaalbaarstelling van de waarborg en elke betaling die daarop volgt, stellen de kredietnemer&nbsp;niet vrij van haar contractuele verplichtingen tegenover de kredietgever die voortvloeien uit de financieringsovereenkomst.<br>
+<br>
+§ 2. De kredietgever moet de betalingen die na de afroep nog worden ontvangen op grond van de contractuele bepalingen van de financieringsovereenkomst waaraan de waarborg is gehecht, meedelen aan de waarborgvennootschap binnen de dertig dagen. De betalingen betreffen zowel de betalingen waartoe de kredietnemer&nbsp;of een derde op vrijwillige basis overgaat, als die welke in rechte worden afgedwongen.<br>
+<br>
+De kredietgever moet, volgens nadere voorwaarden die vastgelegd worden in de waarborgovereenkomst, aan de waarborgvennootschap een evenredig deel van het bedrag van de betalingen, vermeld in het eerste lid, die hij van de kredietnemer&nbsp;of een derde persoon ontvangen heeft, binnen drie maanden doorstorten na aftrek van de redelijke en verantwoorde inningskosten.<br>
+<br>
+Het evenredige deel van het bedrag van de door de kredietgever ontvangen betalingen en gemaakte kosten is gelijk aan het percentage van de waarborg.<br>
+&nbsp;
 
 ## HOOFDSTUK V Slotbepaling
 
