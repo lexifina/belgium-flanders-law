@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036274,
+  "title": "Ministerieel besluit van 2021-11-13 houdende indeling bij de gemeentewegen van de gewestweg N12 Carnotstraat tussen kilometerpunt 0,4 en 0,91 op het grondgebied van de stad Antwerpen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036274/VolledigDocument?datum=2021-12-12",
+  "source_sha256": "f6b0634eafc53b4053f90b55dac7a850563d1d9b81412fa34d94255526148e92",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036274&param=informatie",
+  "as_of": "2021-12-12",
+  "made": "2021-11-13",
+  "gazette": "2021-12-02",
+  "numac": 2021033882,
+  "document_start": "2021-12-12",
+  "document_end": null,
+  "in_force": "2021-12-12",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2021-12-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
