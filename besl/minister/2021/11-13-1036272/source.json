@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036272,
+  "title": "Ministerieel besluit van 2021-11-13 houdende indeling bij de gemeentewegen van de gewestweg N16a Battelsesteenweg tussen kilometerpunt 0.567 en 2.565 op het grondgebied van de stad Mechelen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036272/VolledigDocument?datum=2021-12-12",
+  "source_sha256": "42af6357d2120deb96866c9fb520598e37c725f83113df23aef5b7da66363da3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036272&param=informatie",
+  "as_of": "2021-12-12",
+  "made": "2021-11-13",
+  "gazette": "2021-12-02",
+  "numac": 2021033877,
+  "document_start": "2021-12-12",
+  "document_end": null,
+  "in_force": "2021-12-12",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-12-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
