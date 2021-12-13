@@ -40,109 +40,48 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-In dit besluit wordt verstaan onder:<br>
-1° Agentschap Binnenlands Bestuur: het intern verzelfstandigd agentschap, opgericht bij het besluit van de Vlaamse Regering van 28 oktober 2005;<br>
-2° agentschap Opgroeien regie: het intern verzelfstandigd agentschap, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
-3° attest van toezicht: een attest van toezicht voor buitenschoolse gezinsopvang of groepsopvang, met uitzondering van het attest van toezicht voor vakantieopvang, toegekend door Opgroeien regie met toepassing van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
-4° buitenschoolse opvang: de opvang van kinderen die naar de basisschool, vermeld in artikel 3, 6°, van het decreet basisonderwijs van 25 februari 1997, gaan, met uitzondering van:<br>
-a) het verstrekken van onderwijs;<br>
-b) de activiteiten van internaten;<br>
-c) de activiteiten van jeugdwerk en van sportdiensten;<br>
-d) de jeugdhulpverlening, vermeld in artikel 2, § 1, 30°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
-e) het bieden van exclusieve zorg aan kinderen met een handicap;<br>
-f) het bieden van gezondheidszorg aan kinderen;<br>
-g) het passen op kinderen van klanten of bezoekers;<br>
-5° erkenning: een erkenning voor buitenschoolse gezinsopvang of groepsopvang, toegekend door Opgroeien regie met toepassing van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
-6° lokaal bestuur: het gemeentebestuur of het Openbaar Centrum voor Maatschappelijk Welzijn of, wat het tweetalige gebied Brussel-Hoofdstad betreft, de Vlaamse Gemeenschapscommissie;<br>
-7° lokale actor: organisatoren buitenschoolse opvang, jeugdwerkinitiatieven, en al wie plaatselijk een invulling geeft aan opvang van kinderen voor en zolang ze naar de basisschool gaan;<br>
-8° informele opvang: opvang door een natuurlijke persoon die de opvang niet professioneel aanbiedt;<br>
-9° opvanglocatie: een vestigingsplaats waar opvang van schoolkinderen georganiseerd wordt;<br>
-10° noodopvang: bijkomend opvangaanbod, dat plaatsvindt ofwel tijdens de schooluren in een schoolperiode ofwel overdag tijdens een vakantieperiode, wanneer geen onderwijs of opvang wordt voorzien. Dit aanbod wordt georganiseerd voor schoolkinderen voor wie geen andere opvangoplossing wordt gevonden.<br>
-11° schoolkinderen: kinderen die naar de basisschool, vermeld in artikel 3, 6°, van het decreet basisonderwijs van 25 februari 1997, gaan;<br>
-12° vakantieperiode: de periode zoals bepaald in artikel 4 van het besluit van de Vlaamse Regering van 17 april 1991 tot organisatie van het schooljaar in het basisonderwijs en in het deeltijds onderwijs georganiseerd, erkend of gesubsidieerd door de Vlaamse Gemeenschap;<br>
-13° vergunning: de vergunning toegekend aan een organisator voor het organiseren van buitenschoolse opvang in een opvanglocatie waar gelijktijdig en in dezelfde binnenruimte ook vergunde kinderopvang als vermeld in artikel 4 van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters, georganiseerd wordt.
+...
 
 ### ART 2.
 
-Het Agentschap Binnenlands Bestuur kent een eenmalige projectsubsidie toe aan de lokale besturen die op basis van de voorwaarden, vermeld in artikel 5 tot en met 7, in aanmerking komen voor een subsidie voor de compensatie van de kosten voor noodopvang van schoolkinderen vanaf 9 november 2020 tot en met 30 juni 2021.<br>
-<br>
-De toekenning van deze eenmalige projectsubsidie aan de lokale besturen gebeurt op basis van de ingediende aanvragen, vermeld in artikel 5, 1°.
+...
 
 ### ART 3.
 
-De subsidie bedraagt:<br>
-1° voor de inzet van personeel: 20 euro per effectief opgevangen kind per volledige dag en 10 euro per effectief opgevangen kind per halve dag;<br>
-2° voor de inzet of het veiligheidsonderhoud van de infrastructuur: 10 euro per effectief opgevangen kind per dag.<br>
-<br>
-In afwijking van het vorige lid, en in het geval dat er voor de noodopvang tijdens een vakantieperiode een ouderbijdrage wordt gevraagd zoals vermeld in artikel 7, tweede lid, bedraagt de subsidie:<br>
-1° voor de inzet van personeel: 10 euro per effectief opgevangen kind per volledige dag en 5 euro per effectief opgevangen kind per halve dag;<br>
-2° voor de inzet of het veiligheidsonderhoud van de infrastructuur: 5 euro per effectief opgevangen kind per dag.
+...
 
 ### ART 4.
 
-Het organiseren van de opvang van schoolkinderen in de schoolperiode gebeurt op onderstaande getrapte wijze:<br>
-1° in eerste instantie wordt de opvang door de scholen zelf georganiseerd, met maximale inzet van het beschikbare personeel en de beschikbare accommodatie in de desbetreffende gemeente. Indien de scholen de opvang van schoolkinderen niet kunnen garanderen, doen ze beroep op het lokaal bestuur dat vanuit zijn regierol bekijkt hoe de opvang van schoolkinderen tijdens de schooluren wel gegarandeerd kan worden;<br>
-2° in tweede instantie en enkel indien de opvang van schoolkinderen op school zoals vermeld in 1° niet volstaat, bekijkt het lokaal bestuur vanuit haar regierol of de organisatoren buitenschoolse opvang binnen hun beschikbare middelen kunnen voorzien in de opvang van schoolkinderen in de respectieve gemeente;<br>
-3° in laatste instantie en enkel ingeval de opvang, vermeld in punt 1° en punt 2°, niet volstaat, wordt er noodopvang georganiseerd door middel van het creëren van bijkomend opvangaanbod. Het lokale bestuur neemt hier een regierol op en geeft hierbij gelijke kansen aan elke lokale actor.<br>
-<br>
-Het organiseren van de opvang van schoolkinderen in de vakantieperiode gebeurt op onderstaande getrapte wijze:<br>
-1° in eerste instantie bekijkt het lokaal bestuur vanuit haar regierol of de organisatoren buitenschoolse opvang binnen hun beschikbare middelen kunnen voorzien in de opvang van schoolkinderen in de respectieve gemeente;<br>
-2° in laatste instantie en enkel ingeval de opvang, vermeld in punt 1°, niet volstaat, wordt de noodopvang georganiseerd door middel van het creëren van bijkomend opvangaanbod. Het lokale bestuur neemt hier een regierol op en geeft hierbij gelijke kansen aan elke lokale actor.<br>
-<br>
-Het bijkomend opvangaanbod tijdens een schoolperiode, vermeld in het eerste lid, 3°, en het bijkomend opvangaanbod tijdens een vakantieperiode, vermeld in het tweede lid, 2°, wordt gecreëerd door de lokale besturen zelf of door andere lokale actoren. Het kan hierbij om de volgende lokale actoren gaan:<br>
-1° organisatoren van buitenschoolse opvang die buiten de normale openingsuren nog bijkomend opvangaanbod willen creëren tijdens de schooluren in de schoolperiode of tijdens de vakantieperiode. Indien de noodopvang gebeurt door deze organisatoren buitenschoolse opvang, wordt bij voorkeur opvang voorzien voor kleuters;<br>
-2° bestaande en reeds bekende organisatoren buitenschoolse opvang waarvoor geen vergunning, attest van toezicht, erkenning of toestemming door Opgroeien regie toegekend werd;<br>
-3° jeugdwerkinitiatieven of sportwerkinitiatieven.<br>
-<br>
-In geval van noodopvang tijdens een vakantieperiode kunnen ook scholen vrijwillig instaan voor het creëren van bijkomend opvangaanbod.
+...
 
 ### ART 5.
 
-Om de subsidie, vermeld in artikel 2, te kunnen ontvangen, voldoet het lokaal bestuur aan de volgende voorwaarden:<br>
-1° het lokaal bestuur dient een aanvraag in die voldoet aan de voorwaarden, vermeld in artikel 6;<br>
-2° het lokaal bestuur leeft de voorwaarde inzake de getrapte organisatie van de noodopvang, vermeld in artikel 4, na en neemt hierin een regierol op;<br>
-3° het lokaal bestuur werkt voor de organisatie van de noodopvang in onderling overleg samen met andere lokale actoren. Een gelijke behandeling van het publiek aanbod en het privaat initiatief staat daarbij voorop;<br>
-4° het lokaal bestuur sluit met de lokale actoren een overeenkomst voor noodopvang af, waarin minstens het bijkomende opvangaanbod in de vorm van dagen waarvoor ze de subsidie zullen aanwenden zoals bepaald in artikel 3 van voorliggend besluit, wordt bepaald;<br>
-5° de lokale besturen vergoeden de lokale actoren voor de kosten die gemaakt werden voor het creëren van bijkomend opvangaanbod aan de hand van de parameters vastgelegd in artikel 3 van dit besluit, binnen de maand volgend op de maand waarin de noodopvang uitgevoerd werd.
+...
 
 ### ART 6.
 
-Het lokaal bestuur dient uiterlijk op 31 jul 2021 via digitale weg bij het Agentschap Binnenlands Bestuur een aanvraag in voor het ontvangen van de subsidie, vermeld in artikel 2, In deze aanvraag bezorgt het lokaal bestuur de volgende informatie:<br>
-1° de identificatiegegevens van het lokaal bestuur;<br>
-2° per lokale actor en per datum waarop de opvang heeft plaatsgevonden, het aantal effectief opgevangen kinderen in het licht van de getrapte organisatie van de noodopvang, vermeld in artikel 4;<br>
-3° een verklaring op eer dat "De gegevens over het aantal effectief opgevangen kinderen correct zijn.";<br>
-4° een verklaring op eer dat: "De organisator de voorwaarden vermeld in dit besluit heeft nageleefd.";<br>
-5° de datum en ondertekening.
+...
 
 ### ART 7.
 
-Het lokaal bestuur wendt de subsidie, vermeld in artikel 2, enkel aan ter compensatie van noodopvang die voldoet aan de volgende voorwaarden:<br>
-1° het gaat om een compensatie voor de creatie van bijkomend opvangaanbod, zoals vermeld in artikel 4;<br>
-2° het bijkomend opvangaanbod, zoals vermeld in artikel 4, wordt door geen enkele andere steunmaatregel of financieringsbron gecompenseerd;<br>
-3° het gaat om opvang tijdens de schooluren in een schoolperiode van schoolkinderen voor wie geen onderwijs op school georganiseerd wordt, maar die wel nood hebben aan opvang of om opvang tijdens een vakantieperiode van schoolkinderen die nood hebben aan opvang;<br>
-4° de subsidie wordt in geen geval aangewend om de kosten voor informele opvang te compenseren;<br>
-5° het gaat om noodopvang die georganiseerd wordt in de periode van 9 november 2020 tot en met 30 juni 2021;<br>
-6° het gaat om noodopvang die kosteloos georganiseerd wordt voor de ouders;<br>
-7° De subsidie kan in geval van opvang door organisatoren buitenschoolse opvang, enkel aangewend worden om bijkomend opvangaanbod te compenseren dat buiten de normale buitenschoolse opvanguren georganiseerd wordt en voldoet aan de voorwaarden, vermeld in dit artikel. Een organisator buitenschoolse opvang kan enkel aanspraak maken op de subsidie, vermeld in artikel 2, op voorwaarde dat hij alle beschikbare en op een andere manier gesubsidieerde opvanguren heeft uitgeput. De organisator buitenschoolse opvang bezorgt hierover een verklaring op eer aan het lokaal bestuur en kan dit op vraag van het agentschap Opgroeien regie en het Agentschap Binnenlands Bestuur ook aantonen.<br>
-<br>
-In afwijking van het eerste lid, 6°, kan er voor de noodopvang tijdens vakantieperiodes, vermeld in artikel 4, tweede lid, 2°, wel een ouderbijdrage gevraagd worden en hoeft deze noodopvang dus niet kosteloos georganiseerd te worden voor de ouders.
+...
 
 ### ART 8.
 
-Als het lokaal bestuur voldoet aan de voorwaarden om de subsidie te ontvangen, betaalt het Agentschap Binnenlands Bestuur het volledige subsidiebedrag uit, uiterlijk op 30 november 2021.
+...
 
 ### ART 9.
 
-Het Agentschap Binnenlands Bestuur en het agentschap Opgroeien regie oefenen toezicht uit op de naleving van de bepalingen van dit besluit. Het lokaal bestuur verstrekt daartoe de gevraagde inlichtingen of stukken.
+...
 
 ### ART 10.
 
-Met behoud van de toepassing van artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, zal de subsidie worden verminderd of teruggevorderd als het lokaal bestuur de bepalingen van dit besluit niet naleeft.
+...
 
 ### ART 11.
 
-De Vlaamse minister, bevoegd voor het binnenlands Bestuur en het stedenbeleid en de Vlaamse minister, bevoegd voor opgroeien, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
+...
 
 ### ART 12.
 
-Dit besluit treedt in werking op 9 november 2020.
+...
