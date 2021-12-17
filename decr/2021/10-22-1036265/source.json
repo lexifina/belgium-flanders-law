@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036265,
+  "title": "Decreet van 2021-10-22 tot wijziging van het decreet van 17 juni 2011 betreffende het beheer van de verkeersveiligheid van weginfrastructuur",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036265/VolledigDocument?datum=2021-12-17",
+  "source_sha256": "fb4325271f7227071de886de9934831b752319b8d2f87ada48e09d36f0b65363",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036265&param=informatie",
+  "as_of": "2021-12-17",
+  "made": "2021-10-22",
+  "gazette": "2021-12-01",
+  "numac": 2021022400,
+  "document_start": "2021-12-17",
+  "document_end": null,
+  "in_force": "2021-12-17",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2021-12-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
