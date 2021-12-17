@@ -10,11 +10,38 @@ Dit decreet voorziet in de gedeeltelijke omzetting van Richtlijn 2008/96/EG van 
 
 ### ART. 3.
 
-Dit decreet is van toepassing op wegen die deel uitmaken van het trans-Europese wegennet, zoals beschreven in afdeling 2 van bijlage I bij Beschikking nr. 661/2010/EU, en heeft zowel betrekking op wegen in de ontwerp- of aanlegfase als op wegen die al in gebruik zijn.<br /><br />Dit decreet is niet van toepassing op tunnels die vallen onder het decreet van 1 juni 2007 betreffende de minimumveiligheidseisen voor tunnels in het trans-Europese wegennet.<br /><br />De Vlaamse Regering kan het toepassingsgebied van dit decreet uitbreiden.<br /><br />
+Dit decreet is van toepassing op de volgende wegen:<br>
+1° wegen die deel uitmaken van het trans-Europese wegennet, autosnelwegen en andere hoofdwegen. Daarmee worden wegen in de ontwerp- of aanlegfase en wegen die al in gebruik zijn bedoeld;<br>
+2° wegen die geen wegen als vermeld in punt 1° zijn en weginfrastructuurprojecten die zich buiten stedelijke gebieden bevinden, geen toegangen naar aanliggende percelen omvatten en met financiering van de Europese Unie worden gerealiseerd, met uitzondering van wegen die niet toegankelijk zijn voor algemeen verkeer met motorvoertuigen, zoals fietspaden, of wegen die niet voor algemeen verkeer zijn ontworpen, zoals toegangswegen naar industriële, landbouw- of boslocaties.<br>
+<br>
+Dit decreet is niet van toepassing op tunnels die vallen onder het decreet van 1 juni 2007 betreffende de minimumveiligheidseisen voor tunnels in het trans-Europese wegennet.<br>
+<br>
+De Vlaamse Regering kan het toepassingsgebied van dit decreet uitbreiden.<br>
+<br>
+Op basis van naar behoren gemotiveerde redenen die verband houden met verkeersvolumes en ongevallenstatistieken, kan de Vlaamse Regering hoofdwegen met een laag veiligheidsrisico uitsluiten van het toepassingsgebied van dit decreet.<br>
+&nbsp;
 
 ### ART. 4.
 
-In dit decreet wordt verstaan onder :<br />1°Richtlijn 2008/96/EG : de richtlijn van het Europees Parlement en de Raad van 19 november 2008 betreffende het beheer van de verkeersveiligheid van weginfrastructuur;<br />2° bevoegde instantie : elke publieke of private organisatie die gelet op haar bevoegdheden door de Vlaamse Regering is aangewezen voor de uitvoering van dit decreet;<br />3° infrastructuurproject : een project voor de bouw van nieuwe weginfrastructuur of voor de grondige wijziging van het bestaande wegennet met gevolgen voor de hoeveelheid verkeersstroom;<br />4° verkeersveiligheidseffectbeoordeling van een weg : een strategische vergelijkende beoordeling van het effect dat een nieuwe weg of een grondige wijziging van het bestaande wegennet heeft op het verkeersveiligheidsniveau van het wegennet;<br />5° verkeersveiligheidsaudit van een weg : een onafhankelijke, gedetailleerde, systematische en technische verkeersveiligheidscontrole van de ontwerpkenmerken van een infrastructuurproject, in alle fasen van het project, van planning tot eerste gebruik;<br />6° classificatie van gedeelten met een hoog aantal verkeersongevallen : methode voor het identificeren, analyseren en classificeren van gedeelten van het wegennet die meer dan drie jaar in gebruik zijn en waarop een groot aantal verkeersongevallen met dodelijke afloop, in verhouding tot de verkeersstroom, heeft plaatsgevonden;<br />7° classificatie van de verkeersveiligheid van het wegennet : een methode voor het afbakenen, analyseren en indelen van gedeelten van het bestaande wegennet volgens hun potentieel voor de ontwikkeling van de verkeersveiligheid en het besparen van de kosten van ongevallen;<br />8° verkeersveiligheidsinspectie : een gewone periodieke beoordeling van de kenmerken en gebreken waarvoor onderhoudswerkzaamheden nodig zijn met het oog op de verkeersveiligheid;<br />9° richtsnoeren : door de Vlaamse Regering vastgestelde maatregelen waarin is bepaald welke stappen moeten worden gezet en welke elementen in overweging moeten worden genomen bij de toepassing van de verkeersveiligheidsprocedures vermeld in dit decreet.<br /><br />
+In dit decreet wordt verstaan onder :<br>
+1°Richtlijn 2008/96/EG : de richtlijn van het Europees Parlement en de Raad van 19 november 2008 betreffende het beheer van de verkeersveiligheid van weginfrastructuur;<br>
+1° /1 trans-Europese wegennet: het wegennet, vermeld in verordening (EU) nr. 1315/2013 van het Europees Parlement en de Raad van 11 december 2013 betreffende richtsnoeren van de Unie voor de ontwikkeling van het trans-Europees vervoersnetwerk en tot intrekking van Besluit nr. 661/2010/EU;<br>
+1° /2 autosnelweg: een weg die speciaal is ontworpen en aangelegd voor verkeer met motorvoertuigen, zonder toegangen naar aanliggende percelen, en die aan al de volgende voorwaarden voldoet:<br>
+a) behalve op bepaalde plaatsen of bepaalde tijden, voorzien zijn van gescheiden rijbanen voor beide verkeersrichtingen, die van elkaar gescheiden zijn door een strook die niet voor het verkeer bestemd is of bij uitzondering op andere wijze;<br>
+b) geen andere wegen, trein- of tramsporen, fietspaden of voetpaden gelijkvloers kruisen;<br>
+c) door specifieke verkeerstekens als autosnelweg zijn aangeduid;<br>
+1° /3 hoofdweg: een weg buiten stedelijke gebieden die grote steden of regio's, of beide, verbindt en die in de op 26 november 2019 geldende wegcategorisering behoort tot de hoogste wegcategorie onder de categorie autosnelweg;<br>
+2° bevoegde instantie : elke publieke of private organisatie die gelet op haar bevoegdheden door de Vlaamse Regering is aangewezen voor de uitvoering van dit decreet;<br>
+3° infrastructuurproject : een project voor de bouw van nieuwe weginfrastructuur of voor de grondige wijziging van het bestaande wegennet met gevolgen voor de hoeveelheid verkeersstroom;<br>
+4° verkeersveiligheidseffectbeoordeling van een weg : een strategische vergelijkende beoordeling van het effect dat een nieuwe weg of een grondige wijziging van het bestaande wegennet heeft op het verkeersveiligheidsniveau van het wegennet;<br>
+5° verkeersveiligheidsaudit van een weg : een onafhankelijke, gedetailleerde, systematische en technische verkeersveiligheidscontrole van de ontwerpkenmerken van een infrastructuurproject, in alle fasen van het project, van planning tot eerste gebruik;<br>
+6° ...<br>
+7° veiligheidsclassificatie: de indeling van delen van het bestaande wegennet in categorieën op basis van hun objectief gemeten ingebouwde veiligheid;<br>
+8° gerichte verkeersveiligheidsinspectie: een gericht onderzoek via een bezoek ter plaatse aan een bestaande weg of een weggedeelte om gevaarlijke omstandigheden, gebreken en problemen op te sporen die het risico op ongevallen en verwondingen verhogen;<br>
+8° /1 periodieke verkeersveiligheidsinspectie: een gewone periodieke beoordeling van de kenmerken en gebreken waarvoor onderhoudswerkzaamheden nodig zijn met het oog op de verkeersveiligheid;<br>
+9° richtsnoeren : door de Vlaamse Regering vastgestelde maatregelen waarin is bepaald welke stappen moeten worden gezet en welke elementen in overweging moeten worden genomen bij de toepassing van de verkeersveiligheidsprocedures vermeld in dit decreet.<br>
+10° kwetsbare weggebruikers: niet-gemotoriseerde weggebruikers, waaronder fietsers en voetgangers, en gebruikers van gemotoriseerde tweewielers.<br>
+&nbsp;
 
 ### ART. 5.
 
@@ -30,11 +57,37 @@ De Vlaamse Regering kan nadere regels bepalen voor de verkeersveiligheidseffectb
 
 ### ART. 8.
 
-Ten minste om de drie jaar wordt de classificatie van weggedeelten met een hoog aantal verkeersongevallen en van de verkeersveiligheid van het wegennet beoordeeld in het kader van de beoordelingen van de exploitatie van het wegennet. Daarbij wordt geprobeerd om te voldoen aan de criteria, vermeld in bijlage III van Richtlijn 2008/96/EG.<br /><br />Weggedeelten met een hogere prioriteit op grond van de resultaten van de classificatie van weggedeelten met een hoog aantal verkeersongevallen en van de verkeersveiligheid van het wegennet worden door deskundigenteams geïnspecteerd tijdens bezoeken ter plaatse die uitgevoerd worden aan de hand van de elementen, vermeld in bijlage III, punt 3, van richtlijn 2008/96/EG. Ten minste één lid van het deskundigenteam moet voldoen aan de eisen, vermeld in artikel 11, derde lid, 1°.<br /><br />De verbeteringsmaatregelen worden gericht op de weggedeelten, vermeld in het tweede lid. Daarbij wordt prioriteit gegeven aan de maatregelen, vermeld in bijlage III, punt 3, e), van Richtlijn 2008/96/EG, en wordt aandacht geschonken aan de maatregelen met de beste kostenbatenverhouding.<br /><br />Om weggebruikers te waarschuwen dat weggedeelten worden hersteld en dat de veiligheid van de weggebruikers gevaar kan lopen, worden passende verkeerstekens aangebracht die zowel overdag als 's nachts goed zichtbaar zijn en die op een veilige afstand zijn geplaatst.<br /><br />De nodige maatregelen worden genomen om te garanderen dat de weggebruikers op de hoogte worden gebracht van het bestaan van een weggedeelte met een hoog aantal verkeersongevallen.<br /><br />De Vlaamse Regering kan nadere regels bepalen voor de classificatie van weggedeelten met een groot aantal verkeersongevallen en het beheer van de verkeersveiligheid van het wegennet.<br /><br />
+Ten minste om de vijf jaar voert de bevoegde instantie een verkeersveiligheidsbeoordeling uit op het volledige wegennet dat in gebruik is en dat onder de toepassing van dit decreet valt. De eerste verkeersveiligheidsbeoordeling van het wegennet wordt uiterlijk in 2024 uitgevoerd.<br>
+<br>
+Bij het uitvoeren van de verkeersveiligheidsbeoordeling, vermeld in het eerste lid, kan de bevoegde instantie rekening houden met de vastgestelde indicatieve elementen, vermeld in bijlage III bij de richtlijn 2008/96/EG.<br>
+<br>
+Op basis van de verkeersveiligheidsbeoordeling, vermeld in het eerste lid, en met het oog op de prioritering van de behoeften aan verdere maatregelen, worden alle gedeelten van het wegennet ingedeeld naar veiligheidsniveau in minstens drie categorieën.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de verkeersveiligheidsbeoordelingen, vermeld in het eerste lid, en de veiligheidsclassificaties, vermeld in het derde lid.
 
 ### ART. 9.
 
 Verkeersveiligheidsinspecties van wegen die in gebruik zijn, worden uitgevoerd om de veiligheidskenmerken van de wegen te identificeren en ongevallen te voorkomen.<br /><br />De verkeersveiligheidsinspecties, vermeld in het eerste lid, bestaan uit periodieke inspecties van het wegennet en onderzoek naar mogelijke verkeersveiligheidseffecten van wegwerkzaamheden in relatie tot de verkeersstroom.<br /><br />De bevoegde instantie moet voldoende regelmatig periodieke inspecties uitvoeren zodat een toereikend verkeersveiligheidsniveau voor de desbetreffende weginfrastructuur verzekerd is.<br /><br />De Vlaamse Regering kan nadere regels bepalen voor de verkeersveiligheidsinspecties vermeld in het eerste lid, en het onderzoek naar de mogelijke verkeersveiligheidseffecten van wegwerkzaamheden.<br /><br />Met behoud van de toepassing van artikel 10 stelt de Vlaamse Regering richtsnoeren vast voor tijdelijke verkeersveiligheidsmaatregelen die van toepassing zijn op wegwerkzaamheden. Ze voert ook een passend inspectieschema uit om te verzekeren dat die richtsnoeren worden nageleefd.<br /><br />
+
+### ART 9/1.
+
+De bevoegde instanties zien erop toe dat de bevindingen van de verkeersveiligheidsbeoordelingen van het wegennet, vermeld in artikel 8, gevolgd worden door gerichte verkeersveiligheidsinspecties of directe remediërende maatregelen.<br>
+<br>
+Als gerichte verkeersveiligheidsinspecties worden uitgevoerd, kan de bevoegde instantie rekening houden met de indicatieve elementen, vermeld in bijlage IIbis van de richtlijn 2008/96/EG.<br>
+<br>
+De bevoegde instantie stelt een actieplan op van de prioriteiten die bepaald worden op basis van de risico's voor de verkeersveiligheid.<br>
+<br>
+Het actieplan, vermeld in het derde lid, volgt de uitvoering van de remedierende maatregelen op. Dat actieplan wordt regelmatig geactualiseerd door de bevoegde instantie.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de gerichte verkeersveiligheidsinspecties en de directe remediërende maatregelen, vermeld in het eerste lid, en om het actieplan, vermeld in het derde lid, op te stellen en te actualiseren.
+
+### ART 9/2.
+
+Bij de toepassing van de procedures, vermeld in artikel 5, 6, 8, 9 en 9/1, wordt rekening gehouden met de behoeften van kwetsbare weggebruikers.
+
+### ART 9/3.
+
+De bevoegde instantie besteedt in haar bestaande en toekomstige procedures voor wegmarkeringen en verkeersborden bijzondere aandacht aan de leesbaarheid en detecteerbaarheid daarvan voor menselijke bestuurders en geautomatiseerde rijhulpsystemen.
 
 ### ART. 10.
 
@@ -42,7 +95,17 @@ De Vlaamse Regering stelt richtsnoeren vast om de bevoegde instantie bij te staa
 
 ### ART. 11.
 
-De Vlaamse Regering stelt opleidingscurricula voor verkeersveiligheidsauditoren vast.<br /><br />Als verkeersveiligheidsauditoren taken uitvoeren als vermeld in dit decreet, moeten zij een eerste opleiding volgen, waarna zij een bekwaamheidscertificaat ontvangen. Vervolgens moeten zij regelmatig opleidingen volgen.<br /><br />De auditoren worden aangesteld overeenkomstig de volgende vereisten :<br />1° ze hebben relevante ervaring op het gebied van wegenontwerp, wegenverkeersveiligheidstechnieken en ongevalsanalyse of hebben daarover een opleiding gevolgd;<br />2° twee jaar nadat de Vlaamse Regering overeenkomstig artikel 10 richtsnoeren heeft vastgesteld, worden verkeersveiligheidsaudits alleen uitgevoerd door auditoren, of door teams waar auditoren deel van uitmaken, die voldoen aan de eisen, vermeld in het tweede en derde lid van dit artikel;<br />3° de auditoren zijn niet betrokken bij het ontwerp of de exploitatie van het infrastructuurproject waarop de door hen uitgevoerde audit betrekking heeft.<br /><br />De Vlaamse Regering bepaalt de nadere regels voor de aanstelling van de verkeersveiligheidsauditoren.<br /><br />
+De Vlaamse Regering stelt opleidingscurricula voor verkeersveiligheidsauditoren vast.&nbsp;Voor verkeersveiligheidsauditoren die hun opleiding volgen met ingang van 17 december 2024 omvatten de opleidingscurricula voor verkeersveiligheidsauditoren aspecten die betrekking hebben op kwetsbare weggebruikers en de infrastructuur voor die gebruikers.<br>
+<br>
+Als verkeersveiligheidsauditoren taken uitvoeren als vermeld in dit decreet, moeten zij een eerste opleiding volgen, waarna zij een bekwaamheidscertificaat ontvangen. Vervolgens moeten zij regelmatig opleidingen volgen.<br>
+<br>
+De auditoren worden aangesteld overeenkomstig de volgende vereisten :<br>
+1° ze hebben relevante ervaring op het gebied van wegenontwerp, wegenverkeersveiligheidstechnieken en ongevalsanalyse of hebben daarover een opleiding gevolgd;<br>
+2° twee jaar nadat de Vlaamse Regering overeenkomstig artikel 10 richtsnoeren heeft vastgesteld, worden verkeersveiligheidsaudits alleen uitgevoerd door auditoren, of door teams waar auditoren deel van uitmaken, die voldoen aan de eisen, vermeld in het tweede en derde lid van dit artikel;<br>
+3° de auditoren zijn niet betrokken bij het ontwerp of de exploitatie van het infrastructuurproject waarop de door hen uitgevoerde audit betrekking heeft.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de aanstelling van de verkeersveiligheidsauditoren.<br>
+&nbsp;
 
 ### ART. 12.
 
