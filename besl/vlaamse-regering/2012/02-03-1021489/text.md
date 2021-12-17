@@ -8,27 +8,104 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° auditor : houder van een conform artikel 11 afgeleverd bekwaamheidscertificaat van verkeersveiligheidsauditor;<br />2° decreet van 17 juni 2011 : het decreet van 17 juni 2011 betreffende het beheer van de verkeersveiligheid van weginfrastructuur;<br />3° initiatiefnemer : publieke of private instantie die het initiatief neemt voor een infrastructuurproject;<br />4° minister : de Vlaamse minister, bevoegd voor de openbare werken, en de Vlaamse minister, bevoegd voor het mobiliteitsbeleid en het vervoer;<br />5° wegbeheerder : publieke instantie die de weg beheert.
+In dit besluit wordt verstaan onder :<br>
+1° auditor : houder van een conform artikel 11 afgeleverd bekwaamheidscertificaat van verkeersveiligheidsauditor;<br>
+2° decreet van 17 juni 2011 : het decreet van 17 juni 2011 betreffende het beheer van de verkeersveiligheid van weginfrastructuur;<br>
+3° initiatiefnemer : publieke of private instantie die het initiatief neemt voor een infrastructuurproject;<br>
+4° minister : de Vlaamse minister, bevoegd voor de weginfrastructuur en het wegenbeleid;<br>
+5° wegbeheerder : publieke instantie die de weg beheert.
 
 ## HOOFDSTUK 2. Verkeersveiligheidseffectbeoordeling van een weg
 
 ### ART. 2.
 
-De verkeersveiligheidseffectbeoordeling van een weg, vermeld in artikel 5 van het decreet van 17 juni 2011, wordt voor alle infrastructuurprojecten in de planningsfase voor het infrastructuurproject is goedgekeurd, uitgevoerd door de wegbeheerder.
+De verkeersveiligheidseffectbeoordeling van een weg, vermeld in artikel 5 van het decreet van 17 juni 2011, wordt voor alle infrastructuurprojecten in de planningsfase voor het infrastructuurproject is goedgekeurd, uitgevoerd door de initiatiefnemer.
 
 ### ART. 3.
 
-De verkeersveiligheidseffectbeoordeling van een weg bevat minstens de volgende onderdelen :<br />1° definitie van het probleem : een omschrijving van het probleem dat zich voordoet op het vlak van verkeersveiligheid, doorstroming of een ander aspect, op basis van correcte, relevante en actuele gegevens die de wegbeheerder ter beschikking heeft;<br />2° huidige situatie en 'nietsdoen'-scenario : een omschrijving van het huidige verkeersveiligheidsniveau en de evolutie ervan in het 'nietsdoen'-scenario, zowel op korte als op lange termijn;<br />3° verkeersveiligheidsdoelstellingen : een opsomming van de verkeersveiligheidsdoelstellingen die minimaal nagestreefd worden;<br />4° beoordeling van de gevolgen voor de verkeersveiligheid van de voorgestelde alternatieven : een omschrijving van de verschillende wijzen waarop het probleem, vermeld in punt 1°, verholpen zou kunnen worden, waarbij telkens een opsomming wordt gegeven van de relevante elementen inzake de verkeersveiligheid en waarbij de gevolgen voor de verkeersveiligheid worden beoordeeld;<br />5° vergelijking van de alternatieven : een vergelijking, met inbegrip van een kosten-batenanalyse, van de alternatieven, vermeld in punt 4°, rekening houdend met de aangehaalde relevante gegevens over de verkeersveiligheid;<br />6° presentatie van de reeks van mogelijke oplossingen en gemotiveerde keuze : een opsomming van de alternatieven die voldoen aan de vooropgestelde verkeersveiligheidsdoelstellingen en de motieven die, rekening houdend met de elementen van de vergelijking, vermeld in punt 5°, aan de grondslag liggen van de uiteindelijke keuze van de wegbeheerder voor een bepaald alternatief.<br /><br />De verkeersveiligheidseffectbeoordeling van een weg houdt minstens rekening met de volgende elementen : <br />1° al dan niet dodelijke ongevallen, verminderingsdoelstellingen tegenover 'nietsdoen'-scenario;<br />2° routekeuze en verkeerspatronen;<br />3° mogelijke gevolgen voor het bestaande wegennet, zoals afritten, kruispunten en overwegen;<br />4° weggebruikers, met inbegrip van kwetsbare weggebruikers, zoals motorrijders, fietsers en voetgangers;<br />5° verkeer, zoals verkeersvolumes en onderverdeling per vervoerstype;<br />6° seizoens- en weersomstandigheden;<br />7° aanwezigheid van een voldoend aantal veilige parkeerterreinen.<br /><br />De wegbeheerder stelt van elke verkeersveiligheidseffectbeoordeling van een weg een verslag op.<br /><br />De minister bepaalt de nadere regels tot vaststelling van de inhoud en de vorm van het verslag van de verkeersveiligheidseffectbeoordeling van een weg.
+De verkeersveiligheidseffectbeoordeling van een weg bevat minstens de volgende onderdelen :<br>
+1° definitie van het probleem : een omschrijving van het probleem dat zich voordoet op het vlak van verkeersveiligheid, doorstroming of een ander aspect, op basis van correcte, relevante en actuele gegevens die de wegbeheerder ter beschikking heeft;<br>
+2° huidige situatie en 'nietsdoen'-scenario : een omschrijving van het huidige verkeersveiligheidsniveau en de evolutie ervan in het 'nietsdoen'-scenario, zowel op korte als op lange termijn;<br>
+3° verkeersveiligheidsdoelstellingen : een opsomming van de verkeersveiligheidsdoelstellingen die minimaal nagestreefd worden;<br>
+4° beoordeling van de gevolgen voor de verkeersveiligheid van de voorgestelde alternatieven : een omschrijving van de verschillende wijzen waarop het probleem, vermeld in punt 1°, verholpen zou kunnen worden, waarbij telkens een opsomming wordt gegeven van de relevante elementen inzake de verkeersveiligheid en waarbij de gevolgen voor de verkeersveiligheid worden beoordeeld;<br>
+5° vergelijking van de alternatieven : een vergelijking, met inbegrip van een kosten-batenanalyse, van de alternatieven, vermeld in punt 4°, rekening houdend met de aangehaalde relevante gegevens over de verkeersveiligheid;<br>
+6° presentatie van de reeks van mogelijke oplossingen en gemotiveerde keuze : een opsomming van de alternatieven die voldoen aan de vooropgestelde verkeersveiligheidsdoelstellingen en de motieven die, rekening houdend met de elementen van de vergelijking, vermeld in punt 5°, aan de grondslag liggen van de uiteindelijke keuze van de wegbeheerder voor een bepaald alternatief.<br>
+<br>
+De verkeersveiligheidseffectbeoordeling van een weg houdt minstens rekening met de volgende elementen :<br>
+1° al dan niet dodelijke ongevallen, verminderingsdoelstellingen tegenover 'nietsdoen'-scenario;<br>
+2° routekeuze en verkeerspatronen;<br>
+3° mogelijke gevolgen voor het bestaande wegennet, zoals afritten, kruispunten en overwegen;<br>
+4° weggebruikers, met inbegrip van kwetsbare weggebruikers, zoals motorrijders, fietsers en voetgangers;<br>
+5° verkeer zoals verkeersvolumes, met inbegrip van geraamde voetgangers- en fietsersstromen, op basis van het gebruik van aangrenzende terreinen, of de onderverdeling per vervoerstype;<br>
+6° seizoens- en weersomstandigheden;<br>
+7° aanwezigheid van een voldoend aantal veilige parkeerterreinen.<br>
+<br>
+De initiatiefnemer stelt van elke verkeersveiligheidseffectbeoordeling van een weg een verslag op.<br>
+<br>
+De minister bepaalt de nadere regels tot vaststelling van de inhoud en de vorm van het verslag van de verkeersveiligheidseffectbeoordeling van een weg.
 
 ## HOOFDSTUK 3. Verkeersveiligheidsaudit van een weg
 
 ### ART. 4.
 
-De verkeersveiligheidsaudit, vermeld in artikel 6 van het decreet van 17 juni 2011, wordt voor alle infrastructuurprojecten uitgevoerd in :<br />1° de voorontwerpfase;<br />2° de fase van het gedetailleerde ontwerp;<br />3° de fase voor de ingebruikneming : de fase tussen de aanvang van de realisatie van de horizontale en verticale signalisatie bij de uitvoering van het infrastructuurproject en de openstelling voor het verkeer;<br />4° de fase van eerste gebruik : de fase tussen de zesde en de twaalfde maand na de openstelling voor het verkeer.<br /><br />In elk van de fasen, vermeld in het eerste lid, wordt door de initiatiefnemer van een infrastructuurproject een niet bij het ontwerp of de exploitatie van het infrastructuurproject betrokken auditor aangesteld.<br /><br />Als audits door teams worden uitgevoerd, is ten minste één lid van het team een auditor.<br /><br />De initiatiefnemer bezorgt de auditor minstens de volgende informatie :<br />1° in de voorontwerpfase : informatie over het voorontwerp van het infrastructuurproject, inclusief het conform artikel 3, derde lid, opgemaakte verslag van de verkeersveiligheidseffectbeoordeling;<br />2° in de fase van het gedetailleerde ontwerp : informatie over het gedetailleerde ontwerp van het infrastructuurproject, inclusief het conform artikel 6 opgemaakte verslag van de verkeersveiligheidsaudit, uitgevoerd in de fase van het voorontwerp;<br />3° in de fase voor de ingebruikneming : informatie over de aanleg van het infrastructuurproject, alsook een toelichting daarbij tijdens een door de initiatiefnemer georganiseerd gezamenlijk plaatsbezoek, inclusief het conform artikel 6 opgemaakte verslag van de verkeersveiligheidsaudit, uitgevoerd in de fase van het gedetailleerde ontwerp;<br />4° in de fase van eerste gebruik : informatie over de periode van het eerste gebruik van het infrastructuurproject, alsook een toelichting daarbij tijdens een door de initiatiefnemer georganiseerd gezamenlijk plaatsbezoek, inclusief het conform artikel 6 opgemaakte verslag van de verkeersveiligheidsaudit, uitgevoerd in de fase net voor de ingebruikname.<br /><br />De minister bepaalt voor elke fase welke gegevens en documenten minstens moeten worden bezorgd aan de auditor.
+De verkeersveiligheidsaudit, vermeld in artikel 6 van het decreet van 17 juni 2011, wordt voor alle infrastructuurprojecten uitgevoerd in :<br>
+1° de voorontwerpfase;<br>
+2° de fase van het gedetailleerde ontwerp;<br>
+3° de fase voor de ingebruikneming : de fase tussen de aanvang van de realisatie van de horizontale en verticale signalisatie bij de uitvoering van het infrastructuurproject en de openstelling voor het verkeer;<br>
+4° de fase van eerste gebruik : de fase tussen de zesde en de twaalfde maand na de openstelling voor het verkeer.<br>
+<br>
+In elk van de fasen, vermeld in het eerste lid, wordt door de initiatiefnemer van een infrastructuurproject een niet bij het ontwerp of de exploitatie van het infrastructuurproject betrokken auditor aangesteld.<br>
+<br>
+Als audits door teams worden uitgevoerd, is ten minste één lid van het team een auditor.<br>
+<br>
+De initiatiefnemer bezorgt de auditor minstens de volgende informatie :<br>
+1° in de voorontwerpfase : informatie over het voorontwerp van het infrastructuurproject, inclusief het conform artikel 3, derde lid, opgemaakte verslag van de verkeersveiligheidseffectbeoordeling;<br>
+2° in de fase van het gedetailleerde ontwerp : informatie over het gedetailleerde ontwerp van het infrastructuurproject, inclusief het conform artikel 6 opgemaakte verslag van de verkeersveiligheidsaudit, uitgevoerd in de fase van het voorontwerp;<br>
+3° in de fase voor de ingebruikneming : informatie over de aanleg van het infrastructuurproject, alsook een toelichting daarbij tijdens een plaatsbezoek, inclusief het conform artikel 6 opgemaakte verslag van de verkeersveiligheidsaudit, uitgevoerd in de fase van het gedetailleerde ontwerp;<br>
+4° in de fase van eerste gebruik : informatie over de periode van het eerste gebruik van het infrastructuurproject, alsook een toelichting daarbij tijdens een plaatsbezoek, inclusief het conform artikel 6 opgemaakte verslag van de verkeersveiligheidsaudit, uitgevoerd in de fase net voor de ingebruikname.<br>
+<br>
+De minister bepaalt voor elke fase welke gegevens en documenten minstens moeten worden bezorgd aan de auditor.
 
 ### ART. 5.
 
-De verkeersveiligheidsaudit van een weg houdt minstens rekening met de volgende elementen : <br />1° in de voorontwerpfase : <br />a) geografische ligging, met inbegrip van de invloed van omgevingsfactoren en meteorologische omstandigheden, zoals seizoens- en weersomstandigheden;<br />b) functionaliteit van de weg binnen het wegennet; <br />c) soorten verkeer die op de nieuwe weg toegelaten zullen worden; <br />d) rijsnelheid;<br />e) horizontaal en verticaal tracé; <br />f) type, onderlinge afstand en ontwerp van op- en afritten, complexen, kruisingen, zoals spoorovergangen en overbruggingen en kruispunten;<br />g) opbouw van typedwarsprofielen, inclusief aantal en type rijstroken;<br />h) zichtbaarheid; <br />i) middelen van openbaar vervoer en de bijbehorende infrastructuur;<br />j) aard, omvang en situering van parkeerterreinen;<br />2° in de fase van het gedetailleerde ontwerp :<br />a) overeenstemming van de ontwerpkenmerken met de behoeften van de verschillende weggebruikers, in het bijzonder de kwetsbare weggebruikers;<br />b) invloed van de omgeving van de weg, inclusief de vegetatie;<br />c) horizontaal en verticaal tracé;<br />d) horizontale en verticale signalisatie, met inbegrip van de samenhang;<br />e) verlichting van wegvakken, op- en afritten, complexen, kruisingen en kruispunten;<br />f) vaste obstakels langs de weg, met inbegrip van de wegaanhorigheden;<br />g) afschermende constructies, met inbegrip van de vergevingsgezindheid;<br />h) ontwerp en bereikbaarheid van parkeerterreinen;<br />3° in de fase voor de ingebruikneming :<br />a) toestand van het wegdek en de afwatering;<br />b) horizontale en verticale signalisatie, inclusief leesbaarheid van verkeerstekens en markeringen;<br />c) veiligheid en zichtbaarheid van de weggebruiker in verschillende omstandigheden, zoals bij duisternis en onder normale weersomstandigheden;<br />4° in de fase van eerste gebruik : verkeersveiligheid in het licht van het daadwerkelijke gedrag van weggebruikers onder verschillende omstandigheden.<br /><br />In elke fase kunnen de criteria van de vorige fasen meer gedetailleerd beschreven worden of heroverwogen worden.<br /><br />In de fase voor de ingebruikneming en in de fase van het eerste gebruik brengt de auditor, om de vereiste beoordeling in verschillende omstandigheden te kunnen maken, minstens éénplaatsbezoek, bijkomend aan het gezamenlijk plaatsbezoek, vermeld in artikel 4, vierde lid.
+De verkeersveiligheidsaudit van een weg houdt minstens rekening met de volgende elementen :<br>
+1° in de voorontwerpfase :<br>
+a) geografische ligging, met inbegrip van de invloed van omgevingsfactoren en meteorologische omstandigheden, zoals seizoens- en weersomstandigheden;<br>
+b) functionaliteit van de weg binnen het wegennet;<br>
+c) soorten verkeer die op de nieuwe weg toegelaten zullen worden;<br>
+d) rijsnelheid;<br>
+e) horizontaal en verticaal tracé;<br>
+f) type, onderlinge afstand en ontwerp van op- en afritten, complexen, kruisingen, zoals spoorovergangen en overbruggingen en kruispunten;<br>
+g) opbouw van typedwarsprofielen, inclusief aantal en type rijstroken;<br>
+h) zichtbaarheid;<br>
+i) middelen van openbaar vervoer en de bijbehorende infrastructuur;<br>
+j) aard, omvang en situering van parkeerterreinen;<br>
+k) voorzieningen voor kwetsbare gebruikers, namelijk de volgende elementen:<br>
+1) voorzieningen voor voetgangers;<br>
+2) voorzieningen voor fietsers, waaronder de aanwezigheid van alternatieve routes of afscheidingen van snel gemotoriseerd verkeer;<br>
+3) voorzieningen voor gemotoriseerde tweewielers;<br>
+4) dichtheid en locatie van oversteekplaatsen voor voetgangers en fietsers;<br>
+5) voorzieningen voor voetgangers en fietsers op de wegen in kwestie in het gebied;<br>
+6) afscheiding van voetgangers en fietsers van snel gemotoriseerd verkeer of de aanwezigheid van rechtstreekse alternatieve routes via een onderliggend wegennet;<br>
+2° in de fase van het gedetailleerde ontwerp :<br>
+a) overeenstemming van de ontwerpkenmerken met de behoeften van de verschillende weggebruikers, in het bijzonder de kwetsbare weggebruikers;<br>
+b) invloed van de omgeving van de weg, inclusief de vegetatie;<br>
+c) horizontaal en verticaal tracé;<br>
+d) horizontale en verticale signalisatie, met inbegrip van de samenhang;<br>
+e) verlichting van wegvakken, op- en afritten, complexen, kruisingen en kruispunten;<br>
+f) vaste obstakels langs de weg, met inbegrip van de wegaanhorigheden;<br>
+g) afschermende constructies, met inbegrip van de vergevingsgezindheid;<br>
+h) ontwerp en bereikbaarheid van parkeerterreinen;<br>
+i) voorzieningen voor kwetsbare weggebruikers;<br>
+3° in de fase voor de ingebruikneming :<br>
+a) toestand van het wegdek en de afwatering;<br>
+b) horizontale en verticale signalisatie, inclusief leesbaarheid van verkeerstekens en markeringen;<br>
+c) veiligheid en zichtbaarheid van de weggebruiker in verschillende omstandigheden, zoals bij duisternis en onder normale weersomstandigheden;<br>
+4° in de fase van eerste gebruik : verkeersveiligheid in het licht van het daadwerkelijke gedrag van weggebruikers onder verschillende omstandigheden.<br>
+<br>
+In elke fase kunnen de criteria van de vorige fasen meer gedetailleerd beschreven worden of heroverwogen worden.<br>
+<br>
+In de fase voor de ingebruikneming en in de fase van het eerste gebruik brengt de auditor, om de vereiste beoordeling in verschillende omstandigheden te kunnen maken, minstens éénplaatsbezoek.
 
 ### ART. 6.
 
@@ -38,21 +115,57 @@ De auditor stelt van elke verkeersveiligheidsaudit van een weg een verslag op da
 
 ### ART. 7.
 
-De classificatie van weggedeelten met een hoog aantal ongevallen en van de verkeersveiligheid van het wegennet, vermeld in artikel 8 van het decreet van 17 juni 2011, wordt vastgesteld door het Departement Mobiliteit en Openbare Werken van het Vlaams ministerie van Mobiliteit en Openbare Werken, waarbij minstens rekening wordt gehouden met het aantal ongevallen met dodelijke afloop dat in de voorgaande jaren op die wegen heeft plaatsgevonden. <br /><br />Ten minste om de drie jaar wordt de door het Departement, vermeld in het eerste lid, opgestelde classificatie van weggedeelten met een hoog aantal verkeersongevallen en van de verkeersveiligheid van het wegennet door de wegbeheerder, beoordeeld om te komen tot een lijst van prioritair te behandelen gedeelten van wegen waarvoor een verbetering van de infrastructuur naar verwachting zeer doelmatig is.
+De verkeersveiligheidsbeoordeling van het wegennet, vermeld in artikel 8 van het decreet van 17 juni 2011, wordt uitgevoerd door het Departement Mobiliteit en Openbare Werken van het Vlaams Ministerie van Mobiliteit en Openbare Werken.<br>
+<br>
+Aan de hand van verkeersveiligheidsbeoordelingen van het wegennet worden het ongevalsrisico en de ernst en gevolgen van ongevallen geëvalueerd op basis van:<br>
+1° een visueel onderzoek, ter plaatse of op elektronische wijze, van de ontwerpkenmerken van de weg;<br>
+2° een analyse van de gedeelten van het wegennet die meer dan drie jaar in gebruik zijn en waarop zich in verhouding tot de verkeersstroom een groot aantal zware ongevallen heeft voorgedaan.<br>
+<br>
+De minister kan de nadere regels vaststellen voor de methodologie van de verkeersveiligheidsbeoordeling van het wegennet en de inhoud en de vorm van het verslag van de verkeersveiligheidsbeoordeling van het wegennet en houdt hierbij zoveel mogelijk rekening met de indicatieve elementen vermeld in bijlage III van de Richtlijn 2008/96/EG
 
 ## [HOOFDSTUK 5. Gerichte en periodieke verkeersveiligheidsinspecties (ing. BVR 17 december 2021, art. 8, I: 17 december 2021]
 
 ### ART. 8.
 
-Voor ieder weggedeelte dat is opgenomen in de conform artikel 7 van dit besluit opgestelde prioriteitenlijst, stelt de wegbeheerder een deskundigenteam, waarvan ten minste één lid een auditor is, aan om de inspecties tijdens bezoeken ter plaatse, vermeld in artikel 8, tweede lid, van het decreet van 17 juni 2011, uit te voeren.<br /><br />De inspecties worden uitgevoerd aan de hand van de volgende elementen :<br />1° een beschrijving van het weggedeelte;<br />2° een verwijzing naar eventuele eerdere verslagen over hetzelfde weggedeelte;<br />3° de analyse van eventuele ongevalsverslagen;<br />4° het aantal ongevallen, doden en zwaargewonden in de voorafgaande drie jaar;<br />5° potentiële corrigerende maatregelen met uiteenlopende termijnen van uitvoering, zoals :<br />a) verwijdering of bescherming van vaste obstakels langs de weg;<br />b) verlaging van snelheidslimieten en intensivering van de plaatselijke handhaving van die beperkingen;<br />c) verbetering van de zichtbaarheid in verschillende weers- en lichtomstandigheden;<br />d) verbetering van de veiligheid van de apparatuur langs de weg, zoals afschermende constructies langs de weg;<br />e) verbetering van de samenhang, zichtbaarheid, leesbaarheid en plaatsing van wegmarkeringen, inclusief het gebruik van rammelstroken, verkeersborden en -signalen;<br />f) bescherming tegen vallend gesteente, aardverschuivingen en lawines;<br />g) verbetering van de stroefheid en de oneffenheid van het wegdek;<br />h) herziening van het ontwerp van afschermde constructies langs de weg;<br />i) totstandbrenging en verbetering van scheiding van rijbanen met verschillende rijrichting;<br />j) wijziging van het ontwerp van de inhaalmogelijkheden;<br />k) verbetering van kruispunten, inclusief spoorwegovergangen;<br />l) wijziging van het tracé;<br />m) wijziging van de breedte van de weg, aanleg van vluchtstroken;<br />n) installatie van een systeem voor verkeersregeling en/of verkeerscontrole;<br />o) vermindering van mogelijke conflicten met kwetsbare weggebruikers;<br />p) aanpassing van de weg aan de actuele ontwerpnormen;<br />q) herstelling of vervanging van het wegdek;<br />r) gebruik van intelligente verkeersborden en verbetering van intelligente vervoerssystemen en telematicasystemen met het oog op interoperationaliteit, hulpverlening en markering.<br /><br />De minister bepaalt welke gegevens en documenten minstens moeten worden bezorgd aan het deskundigenteam.<br /><br />Om een beoordeling in verschillende omstandigheden te kunnen maken, brengt het deskundigenteam minstens twee bezoeken ter plaatse. <br /><br />De auditor stelt van elke inspectie een verslag op dat een schriftelijke weergave is van de besluiten van het deskundigenteam.<br /><br />De minister bepaalt de nadere regels tot vaststelling van de inhoud en de vorm van het verslag van een inspectie tijdens bezoeken ter plaatse. <br /><br />De minister maakt ook een standaardchecklist op ter ondersteuning van de uitvoering van een inspectie tijdens bezoeken ter plaatse.
+De gerichte verkeersveiligheidsinspecties, vermeld in artikel 9/1, eerste lid, van het decreet van 17 juni 2011, worden uitgevoerd door een deskundigenteam, waarvan ten minste één lid een auditor is.<br>
+<br>
+De minister kan bepalen welke gegevens en documenten minstens moeten worden bezorgd aan het deskundigenteam.<br>
+<br>
+Om een beoordeling te kunnen maken, brengt het deskundigenteam minstens één bezoek ter plaatse.<br>
+<br>
+De auditor stelt van elke inspectie een verslag op dat een schriftelijke weergave is van de besluiten van het deskundigenteam.<br>
+<br>
+De minister kan de nadere regels vaststellen om de inhoud en de vorm van het verslag van een inspectie tijdens bezoeken ter plaatse te bepalen.<br>
+<br>
+De minister kan een standaardchecklist opmaken om de uitvoering van een inspectie tijdens bezoeken ter plaatse te ondersteunen en houdt hierbij zoveel mogelijk rekening met de indicatieve elementen vermeld in bijlage IIbis van de Richtlijn 2008/96/EG.<br>
+<br>
+De wegbeheerder ziet erop toe dat de bevindingen van gerichte verkeersveiligheidsinspecties worden gevolgd door gemotiveerde besluiten waarin bepaald wordt of remediërende maatregelen nodig zijn.<br>
+De wegbeheerder onderzoekt namelijk op welke weggedeelten het nodig is de veiligheid van de weginfrastructuur te verbeteren, en stelt maatregelen vast die bij voorrang moeten worden uitgevoerd om die weggedeelten veiliger te maken.
 
 ### ART. 9.
 
-De wegbeheerder voert de verbeteringsmaatregelen uit die worden aanbevolen door het deskundigenteam, waarbij hij prioriteit geeft aan de maatregelen, vermeld in artikel 8, tweede lid, 5°, en waarbij hij aandacht schenkt aan de maatregelen met de beste kosten-batenverhouding.<br /><br />De wegbeheerder brengt, gebruikmakend van zijn website en ondersteunende communicatie, de weggebruikers op de hoogte van het bestaan van een weggedeelte met een hoog aantal verkeersongevallen.
+De wegbeheerder ziet erop toe dat de remediërende maatregelen in de eerste plaats gericht zijn op weggedeelten met een laag veiligheidsniveau en weggedeelten waar maatregelen met een groot potentieel voor de ontwikkeling van de verkeersveiligheid kunnen worden uitgevoerd en veel kosten van ongevallen kunnen worden bespaard.<br>
+<br>
+De wegbeheerder zorgt voor de opstelling en regelmatige actualisering van het actieplan, vermeld in artikel 9/1, derde lid, van het decreet van 17 juni 2011.
 
 ### ART. 10.
 
-De verkeersveiligheidsinspecties, vermeld in artikel 9 van het decreet van 17 juni 2011, worden uitgevoerd door de wegbeheerder.<br /><br />De wegbeheerder voert meermaals per jaar visuele inspecties uit en minstens eenmaal per jaar een grondige inspectie van de bouwtechnische kenmerken.<br /><br />Minimaal tweejaarlijks stelt de wegbeheerder een rapport op van de uitgevoerde verkeersveiligheidsinspecties.<br /><br />Het rapport moet zo worden opgesteld dat duidelijk blijkt dat minstens de volgende elementen aan bod zijn gekomen :<br />1° toestand van het wegdek;<br />2° verticale signalisatie;<br />3° afschermende constructies;<br />4° horizontale signalisatie;<br />5° werking van de afwatering;<br />6° verlichting;<br />7° obstakels.
+De periodieke verkeersveiligheidsinspecties, vermeld in artikel 9 van het decreet van 17 juni 2011, worden uitgevoerd door de wegbeheerder.<br>
+<br>
+De wegbeheerder voert meermaals per jaar visuele inspecties uit en minstens tweejaarlijks een grondige inspectie van de bouwtechnische kenmerken.<br>
+<br>
+Minimaal tweejaarlijks stelt de wegbeheerder een rapport op van de uitgevoerde verkeersveiligheidsinspecties.<br>
+<br>
+Het rapport moet zo worden opgesteld dat duidelijk blijkt dat minstens de volgende elementen aan bod zijn gekomen :<br>
+1° toestand van het wegdek;<br>
+2° verticale signalisatie;<br>
+3° afschermende constructies;<br>
+4° horizontale signalisatie;<br>
+5° werking van de afwatering;<br>
+6° verlichting;<br>
+7° obstakels.<br>
+<br>
+De bevoegde instantie, vermeld in artikel 9/3 van het decreet van 17 juni 2011, is de wegbeheerder.
 
 ## HOOFDSTUK 6. Certificatie van de verkeersveiligheidsauditoren
 
@@ -68,7 +181,19 @@ Het bekwaamheidscertificaat van verkeersveiligheidsauditor wordt verleend voor e
 
 ### ART. 13.
 
-§ 1. De beoordelingscommissie kan het bekwaamheidscertificaat verlengen   als de auditor gedurende de laatste vijf jaar minstens twintig uur bijscholing   als vermeld in artikel 16, heeft gevolgd.<BR><BR>De minister kan, als zij dat   nuttig acht, dat aantal verhogen van twintig uur naar maximaal zestig   uur.<BR><BR>§ 2. Het bekwaamheidscertificaat wordt verlengd voor een periode van   vijf jaar vanaf de vervaldatum van het lopende certificaat.<BR><BR>§ 3. Minstens   zes maanden voor de vervaldatum van de lopende erkenning vraagt de aanvrager met   een aangetekende brief de verlenging van het bekwaamheidscertificaat. <BR><BR>De   minister bepaalt de nadere regels tot vaststelling van de inhoud en de vorm van   de aanvraag tot verlenging van het bekwaamheidscertificaat.<BR><BR>§ 4. In geval   van verlenging van het bekwaamheidscertificaat levert de beoordelingscommissie   een nieuw door haar ondertekend bekwaamheidscertificaat af, met als titel «   Bekwaamheidscertificaat van verkeersveiligheidsauditor » en met de vermelding   van de nieuwe vervaldatum.
+§ 1.&nbsp;Als de auditor bij het verlopen van het bekwaamheidscertificaat de taken van verkeersveiligheidsauditor verder wil uitoefenen, kan dat alleen door een verlenging aan te vragen conform dit artikel.<br>
+<br>
+De beoordelingscommissie kan het bekwaamheidscertificaat verlengen als de auditor gedurende de laatste vijf jaar minstens twintig uur bijscholing als vermeld in artikel 16, heeft gevolgd.<br>
+<br>
+De minister kan, als zij dat nuttig acht, dat aantal verhogen van twintig uur naar maximaal zestig uur.<br>
+<br>
+§ 2. Het bekwaamheidscertificaat wordt verlengd voor een periode van vijf jaar vanaf de vervaldatum van het lopende certificaat.<br>
+<br>
+§ 3. Minstens zes maanden voor de vervaldatum van de lopende erkenning vraagt de aanvrager met een aangetekende brief de verlenging van het bekwaamheidscertificaat.<br>
+<br>
+De minister bepaalt de nadere regels tot vaststelling van de inhoud en de vorm van de aanvraag tot verlenging van het bekwaamheidscertificaat.<br>
+<br>
+§ 4. In geval van verlenging van het bekwaamheidscertificaat levert de beoordelingscommissie een nieuw door haar ondertekend bekwaamheidscertificaat af, met als titel « Bekwaamheidscertificaat van verkeersveiligheidsauditor » en met de vermelding van de nieuwe vervaldatum.
 
 ### ART. 14.
 
@@ -78,23 +203,118 @@ De beoordelingscommissie kan het bekwaamheidscertificaat altijd intrekken als bl
 
 ### ART. 15.
 
-§ 1. Het getuigschrift van de opleiding tot verkeersveiligheidsauditor   wordt uitgereikt aan elke persoon die de opleiding tot   verkeersveiligheidsauditor heeft gevolgd; bij elk onderdeel van het lesprogramma   van de opleiding tot verkeersveiligheidsauditor, vermeld in paragraaf 2, meer   dan 50 % van de werkelijk gegeven lesuren aanwezig was en geslaagd is voor de   eindproef.<BR><BR>§ 2. Het lesprogramma van de opleiding tot   verkeersveiligheidsauditor omvat minstens zestig uur theorie en minstens twintig   uur praktijk en bestaat uit de volgende onderdelen :<BR>1° basiselementen van   verkeersveiligheidsbeheer, minimaal veertig uur, waarbij minstens de volgende   aspecten aan bod komen :<BR>a) ongevallen : oorzaken, statistieken, analyse,   risicomanagement;<BR>b) verschillende weggebruikers en hun   verkeersveiligheidsbehoeften;<BR>c) verschillende wegcategorieën en hun   kenmerken, met bijzondere aandacht voor de hoofdwegen;<BR>d) verschillende types   kruispunten en hun kenmerken, met bijzondere aandacht voor de hoofdwegen;<BR>e)   fundamentele verkeersveiligheidselementen, zoals geometrische parameters,   fysische kenmerken van de weg, vergevingsgezindheid van de weg, continuïteit en   consistentie van de weg, leesbaarheid van de weg, weguitrusting, verlichting,   horizontale en verticale signalisatie en afschermende constructies;<BR>f)   typische verkeersveiligheidsproblemen en potentiële corrigerende   maatregelen;<BR>g) illustratie van de bovenstaande onderwerpen aan de hand van   praktische en interactieve voorbeelden;<BR>2° procedures van   verkeersveiligheidsbeheer, minimaal twintig uur, waarbij minstens de volgende   aspecten aan bod komen :<BR>a) algemene inleiding : motieven, voordelen,   kosten-batenanalyse van verkeersveiligheidsbeheer;<BR>b) juridische basis;<BR>c)   verkeersveiligheidseffectbeoordeling : betrokkenen, doel en inhoud;<BR>d)   verkeersveiligheidsaudit : betrokkenen, doel, fases, inhoud van de fases,   procesverloop;<BR>e) inspectie door deskundigenteams : betrokkenen, aanleiding,   doel, inhoud;<BR>f) standaardchecklisten en modelverslagen : doel en   gebruik;<BR>g) benodigde data en basisprincipes van dataverzameling;<BR>h)   illustratie van de bovenstaande onderwerpen aan de hand van praktische   voorbeelden;<BR>3° praktisch deel, minimaal twintig uur, bestaande uit een   gevalsstudie van elk van de verschillende fases van de audit, uit te voeren als   begeleide individuele of groepsopdrachten, waarbij zowel de   verkeersveiligheidscontrole van de ontwerpkenmerken zelf als het gebruik van de   standaardchecklist, het opstellen van het verslag en de nabespreking aan bod   komen.<BR><BR>§ 3. De eindproef van de opleiding tot verkeersveiligheidsauditor   bestaat uit een praktische proef die toelaat vast te stellen dat zowel de   vereiste theoretische als de vereiste praktische kennis verworven   werd.<BR><BR>Een persoon slaagt voor de eindproef als hij minstens 60 % procent   van de punten haalt.<BR><BR>§ 4. De opleiding tot verkeersveiligheidsauditor en   de bijbehorende eindproef wordt georganiseerd door een instelling die houder is   van de erkenning als instelling voor het organiseren van de opleiding tot   verkeersveiligheidsauditor en de bijbehorende proef, vermeld in paragraaf   5.<BR><BR>§ 5. De erkenning als instelling voor het organiseren van de opleiding   tot verkeersveiligheidsauditor en de bijbehorende eindproef wordt door de   minister, op voorstel van de beoordelingscommissie, vermeld in artikel 17,   verleend aan de instelling die het bewijs levert dat zij :<BR>1° een instelling   is als vermeld in artikel 4 of artikel 5 van het decreet van 4 april 2003   betreffende de herstructurering van het hoger onderwijs in Vlaanderen of een   samenwerkingsverband is tussen meer dan een van die instellingen;<BR>2° de   opleiding tot verkeersveiligheidsauditor, waarvan het programma minstens   beantwoordt aan het lesprogramma, vermeld in paragraaf 2, en de bijbehorende   proef, vermeld in paragraaf 3, organiseert in overeenstemming met dit   besluit;<BR>3° over in de materie onderlegde docenten beschikt en bij de   organisatie van de opleiding tot verkeersveiligheidsauditor ook gastdocenten met   een bijzondere deskundigheid op het vlak van wegenontwerp,   wegenverkeersveiligheidstechnieken of ongevalsanalyse betrekt;<BR>4° het   lesprogramma van de opleiding tot verkeersveiligheidsauditor, vermeld in   paragraaf 2, invult vanuit de verkeersomstandigheden in het Vlaamse Gewest en   met aandacht voor de Waalse, Brusselse en buitenlandse praktijken en goede   voorbeelden;<BR>5° voor het lesprogramma van de opleiding tot   verkeersveiligheidsauditor, vermeld in paragraaf 2, alle cursisten toelaat die   in het bezit zijn van een diploma van een bacheloropleiding en voor het   lesprogramma niet meer dan 3 jaar nuttige ervaring van de cursisten eist;<BR>6°   voor het onderdeel van het lesprogramma, vermeld in paragraaf 2, 3°, alleen   cursisten toelaat die de onderdelen van het lesprogramma, vermeld in paragraaf   2, 1° en 2°, gevolgd hebben;<BR>7° voor de beoordeling van de eindproef een   examenjury samenstelt waarbij minstens één jurylid wordt aangesteld door de   beoordelingscommissie, vermeld in artikel 17;<BR>8° een getuigschrift van de   opleiding tot verkeersveiligheidsauditor uitreikt aan elke cursist die de   opleiding tot verkeersveiligheidsauditor heeft gevolgd, bij elk onderdeel van   het lesprogramma, vermeld in paragraaf 2, meer dan 50 % van de werkelijk gegeven   lesuren aanwezig was en voor de eindproef, vermeld in paragraaf 3, minstens 60 %   van de punten behaalde;<BR>9° ten aanzien van de cursisten de principes inzake   eerder verworven competenties (EVC's) en eerder verworden kwalificaties (EVK's)   waarborgt als vermeld in deel I, titel III, hoofdstuk VI, afdeling 2, van het   decreet van 30 april 2004 betreffende de flexibilisering van het hoger onderwijs   in Vlaanderen en houdende dringende hogeronderwijsmaatregelen;<BR>10° ten   aanzien van de cursisten de rechtspositie waarborgt als vermeld in deel II,   titel II, van het decreet van 19 maart 2004 betreffende de rechtspositieregeling   van de student, de medezeggenschap in het hoger onderwijs, de integratie van   bepaalde afdelingen van het hoger onderwijs voor sociale promotie in de   hogescholen en de begeleiding van de herstructurering van het hoger onderwijs in   Vlaanderen.<BR><BR>§ 6. De aanvraag tot erkenning als instelling voor het   organiseren van de opleiding tot verkeersveiligheidsauditor en de bijbehorende   eindproef wordt door een instelling met een aangetekende brief ingediend bij de   beoordelingscommissie. De aanvraag tot erkenning bevat minstens :<BR>1° de   identificatiegegevens van de aanvrager :<BR>a) de naam van de instelling;<BR>b)   het statuut van de instelling;<BR>c) het adres van de maatschappelijke   zetel;<BR>d) het ondernemingsnummer;<BR>2° de gegevens en verklaringen die   bewijzen dat voldaan is aan alle voorwaarden, vermeld in paragraaf 5;<BR>3° een   ondertekende verklaring van de aanvrager dat alle gegevens naar waarheid zijn   ingevuld.<BR><BR>De minister kan nadere regels bepalen tot vaststelling van de   inhoud en de vorm van de aanvraag tot erkenning.<BR><BR>De beoordelingscommissie   onderzoekt de aanvraag tot erkenning en legt, binnen een termijn van negentig   kalenderdagen na de aanvraag, te rekenen vanaf de postdatum van de aangetekende   brief, een voorstel van beslissing voor aan de minister. De   beoordelingscommissie kan de adviestermijn met maximaal dertig kalenderdagen   verlengen bij gemotiveerde beslissing.<BR><BR>De instelling is ertoe gehouden al   de door de beoordelingscommissie in het kader van het onderzoek van de aanvraag   tot erkenning gevraagde aanvullende gegevens en documenten te verstrekken. Als   de instelling vraagt om gehoord te worden of als de beoordelingscommissie dat   nuttig acht, organiseert de beoordelingscommissie een hoorzitting waarop de   instelling wordt uitgenodigd. <BR><BR>De minister neemt op voorstel van de   beoordelingscommissie en binnen een termijn van dertig kalenderdagen na   ontvangst van het voorstel van beslissing van de beoordelingscommissie, een   beslissing tot erkenning of niet-erkenning. De beslissing wordt met een   aangetekende brief aan de instelling meegedeeld.<BR><BR>De beslissing tot   erkenning wordt bij uittreksel bekendgemaakt in het Belgisch   Staatsblad.<BR><BR>§ 7. De erkenning als instelling voor het organiseren van de   opleiding tot verkeersveiligheidsauditor en de bijbehorende eindproef wordt   verleend voor een periode van vijf jaar. Gedurende deze periode moet iedere   wijziging in de organisatie van de opleiding tot verkeersveiligheidsauditor en   de bijbehorende eindproef binnen een maand schriftelijk aan de   beoordelingscommissie worden meegedeeld.<BR><BR>§ 8. De minister kan de   erkenning als instelling voor het organiseren van de opleiding tot   verkeersveiligheidsauditor en de bijbehorende eindproef verlengen als de   instelling het bewijs levert dat zij :<BR>1° nog steeds voldoet aan de   toelatingsvoorwaarden, vermeld in paragraaf 5;<BR>2° gedurende de laatste vijf   jaar de opleiding tot verkeersveiligheidsauditor en de bijbehorende praktische   proef steeds in overeenstemming met dit besluit heeft georganiseerd.<BR><BR>De   minister kan nadere regels bepalen tot vaststelling van de inhoud en de vorm van   de aanvraag tot verlenging van de erkenning.<BR><BR>Minstens zes maanden voor de   vervaldatum van de lopende erkenning vraagt de instelling de verlenging van de   erkenning als instelling voor het organiseren van de opleiding tot   verkeersveiligheidsauditor en de bijbehorende eindproef op de wijze, vermeld in   paragraaf 6.<BR><BR>De aanvraag tot verlenging van de erkenning als instelling   voor het organiseren van de opleiding tot verkeersveiligheidsauditor en de   bijbehorende eindproef wordt behandeld op de wijze, vermeld in paragraaf   6.<BR><BR>De erkenning als instelling voor het organiseren van de opleiding tot   verkeersveiligheidsauditor en de bijbehorende eindproef wordt verlengd voor een   periode van vijf jaar vanaf de vervaldatum van de lopende erkenning. <BR><BR>§   9. De minister kan de erkenning als instelling voor het organiseren van de   opleiding tot verkeersveiligheidsauditor en de eindproef altijd intrekken als   blijkt dat de instelling de opleiding tot verkeersveiligheidsauditor en de   bijbehorende proef niet objectief, niet onafhankelijk of niet in overeenstemming   met dit besluit organiseert.<BR><BR>De beslissing tot intrekking van de   erkenning wordt pas genomen nadat de instelling is gehoord of nadat de   beoordelingscommissieop eigen initiatief of op vraag van de instelling heeft   deelgenomen aan een of meerdere onderdelen van het lesprogramma van de opleiding   tot verkeersveiligheidsauditor, en wordt met een aangetekende brief aan de   instelling meegedeeld.<BR><BR>De beslissing tot intrekking van de erkenning   wordt binnen een termijn van dertig kalenderdagen, te rekenen vanaf de dag na de   datum van de ondertekening van de beslissing door de minister, bekendgemaakt in   het Belgisch Staatsblad.
+§ 1. Het getuigschrift van de opleiding tot verkeersveiligheidsauditor wordt uitgereikt aan elke persoon die de opleiding tot verkeersveiligheidsauditor heeft gevolgd; bij elk onderdeel van het lesprogramma van de opleiding tot verkeersveiligheidsauditor, vermeld in paragraaf 2, meer dan 50 % van de werkelijk gegeven lesuren aanwezig was en geslaagd is voor de eindproef.<br>
+<br>
+§ 2. Het lesprogramma van de opleiding tot verkeersveiligheidsauditor omvat minstens zestig uur theorie en minstens twintig uur praktijk en bestaat uit de volgende onderdelen :<br>
+1° basiselementen van verkeersveiligheidsbeheer, minimaal veertig uur, waarbij minstens de volgende aspecten aan bod komen :<br>
+a) ongevallen : oorzaken, statistieken, analyse, risicomanagement;<br>
+b) verschillende weggebruikers en hun verkeersveiligheidsbehoeften;<br>
+c) verschillende wegcategorieën en hun kenmerken, met bijzondere aandacht voor de hoofdwegen;<br>
+d) verschillende types kruispunten en hun kenmerken, met bijzondere aandacht voor de hoofdwegen;<br>
+e) fundamentele verkeersveiligheidselementen, zoals geometrische parameters, fysische kenmerken van de weg, vergevingsgezindheid van de weg, continuïteit en consistentie van de weg, leesbaarheid van de weg, weguitrusting, verlichting, horizontale en verticale signalisatie en afschermende constructies;<br>
+f) typische verkeersveiligheidsproblemen en potentiële corrigerende maatregelen;<br>
+g) illustratie van de bovenstaande onderwerpen aan de hand van praktische en interactieve voorbeelden;<br>
+2° procedures van verkeersveiligheidsbeheer, minimaal twintig uur, waarbij minstens de volgende aspecten aan bod komen :<br>
+a) algemene inleiding : motieven, voordelen, kosten-batenanalyse van verkeersveiligheidsbeheer;<br>
+b) juridische basis;<br>
+c) verkeersveiligheidseffectbeoordeling : betrokkenen, doel en inhoud;<br>
+d) verkeersveiligheidsaudit : betrokkenen, doel, fases, inhoud van de fases, procesverloop;<br>
+e) inspectie door deskundigenteams : betrokkenen, aanleiding, doel, inhoud;<br>
+f) standaardchecklisten en modelverslagen : doel en gebruik;<br>
+g) benodigde data en basisprincipes van dataverzameling;<br>
+h) illustratie van de bovenstaande onderwerpen aan de hand van praktische voorbeelden;<br>
+3° praktisch deel, minimaal twintig uur, bestaande uit een gevalsstudie van elk van de verschillende fases van de audit, uit te voeren als begeleide individuele of groepsopdrachten, waarbij zowel de verkeersveiligheidscontrole van de ontwerpkenmerken zelf als het gebruik van de standaardchecklist, het opstellen van het verslag en de nabespreking aan bod komen.<br>
+<br>
+§ 3. De eindproef van de opleiding tot verkeersveiligheidsauditor bestaat uit een praktische proef die toelaat vast te stellen dat zowel de vereiste theoretische als de vereiste praktische kennis verworven werd.<br>
+<br>
+Een persoon slaagt voor de eindproef als hij minstens 60 % procent van de punten haalt.<br>
+<br>
+§ 4. De opleiding tot verkeersveiligheidsauditor en de bijbehorende eindproef wordt georganiseerd door een instelling die houder is van de erkenning als instelling voor het organiseren van de opleiding tot verkeersveiligheidsauditor en de bijbehorende proef, vermeld in paragraaf 5.<br>
+<br>
+§ 5. De erkenning als instelling voor het organiseren van de opleiding tot verkeersveiligheidsauditor en de bijbehorende eindproef wordt door de minister, op voorstel van de beoordelingscommissie, vermeld in artikel 17, verleend aan de instelling die het bewijs levert dat zij :<br>
+1° een instelling is die een van de volgende statuten bezit:<br>
+a) een scholingscentrum dat opgericht is door de openbare macht of door de instellingen die ervan afhangen;<br>
+b) een onderwijsinstelling die opgericht of erkend is door de Vlaamse Gemeenschap;<br>
+c) een collectief centrum dat erkend is bij toepassing van de besluitwet van 30 januari 1947 tot vaststelling van het statuut van oprichting en werking van Centra belast met de bevordering en de coördinatie van den technischen vooruitgang van de verschillende takken van 's lands bedrijfsleven, door het wetenschappelijk onderzoek;<br>
+d) een stichting van openbaar nut of een stichting die opgericht is bij decreet;<br>
+e) een private instelling die opgericht is als vereniging zonder winstoogmerk;<br>
+f) een officiële beroepsvereniging;<br>
+2° de opleiding tot verkeersveiligheidsauditor, waarvan het programma minstens beantwoordt aan het lesprogramma, vermeld in paragraaf 2, en de bijbehorende proef, vermeld in paragraaf 3, organiseert in overeenstemming met dit besluit;<br>
+3° over in de materie onderlegde docenten beschikt en bij de organisatie van de opleiding tot verkeersveiligheidsauditor ook gastdocenten met een bijzondere deskundigheid op het vlak van wegenontwerp, wegenverkeersveiligheidstechnieken of ongevalsanalyse betrekt;<br>
+4° het lesprogramma van de opleiding tot verkeersveiligheidsauditor, vermeld in paragraaf 2, invult vanuit de verkeersomstandigheden in het Vlaamse Gewest en met aandacht voor de Waalse, Brusselse en buitenlandse praktijken en goede voorbeelden;<br>
+5° voor het lesprogramma van de opleiding tot verkeersveiligheidsauditor, vermeld in paragraaf 2, alle cursisten toelaat die in het bezit zijn van een diploma van een bacheloropleiding en voor het lesprogramma niet meer dan 3 jaar nuttige ervaring van de cursisten eist;<br>
+6° voor het onderdeel van het lesprogramma, vermeld in paragraaf 2, 3°, alleen cursisten toelaat die de onderdelen van het lesprogramma, vermeld in paragraaf 2, 1° en 2°, gevolgd hebben;<br>
+7° voor de beoordeling van de eindproef een examenjury samenstelt waarbij minstens één jurylid wordt aangesteld door de beoordelingscommissie, vermeld in artikel 17;<br>
+8° een getuigschrift van de opleiding tot verkeersveiligheidsauditor uitreikt aan elke cursist die de opleiding tot verkeersveiligheidsauditor heeft gevolgd, bij elk onderdeel van het lesprogramma, vermeld in paragraaf 2, meer dan 50 % van de werkelijk gegeven lesuren aanwezig was en voor de eindproef, vermeld in paragraaf 3, minstens 60 % van de punten behaalde;<br>
+9° ...;<br>
+10° ....<br>
+<br>
+§ 6. De aanvraag tot erkenning als instelling voor het organiseren van de opleiding tot verkeersveiligheidsauditor en de bijbehorende eindproef wordt door een instelling met een aangetekende brief ingediend bij de beoordelingscommissie. De aanvraag tot erkenning bevat minstens :<br>
+1° de identificatiegegevens van de aanvrager :<br>
+a) de naam van de instelling;<br>
+b) het statuut van de instelling;<br>
+c) het adres van de maatschappelijke zetel;<br>
+d) het ondernemingsnummer;<br>
+2° de gegevens en verklaringen die bewijzen dat voldaan is aan alle voorwaarden, vermeld in paragraaf 5;<br>
+3° een ondertekende verklaring van de aanvrager dat alle gegevens naar waarheid zijn ingevuld.<br>
+<br>
+De minister kan nadere regels bepalen tot vaststelling van de inhoud en de vorm van de aanvraag tot erkenning.<br>
+<br>
+De beoordelingscommissie onderzoekt de aanvraag tot erkenning en legt, binnen een termijn van negentig kalenderdagen na de aanvraag, te rekenen vanaf de postdatum van de aangetekende brief, een voorstel van beslissing voor aan de minister. De beoordelingscommissie kan de adviestermijn met maximaal dertig kalenderdagen verlengen bij gemotiveerde beslissing.<br>
+<br>
+De instelling is ertoe gehouden al de door de beoordelingscommissie in het kader van het onderzoek van de aanvraag tot erkenning gevraagde aanvullende gegevens en documenten te verstrekken. Als de instelling vraagt om gehoord te worden of als de beoordelingscommissie dat nuttig acht, organiseert de beoordelingscommissie een hoorzitting waarop de instelling wordt uitgenodigd.<br>
+<br>
+De minister neemt op voorstel van de beoordelingscommissie en binnen een termijn van dertig kalenderdagen na ontvangst van het voorstel van beslissing van de beoordelingscommissie, een beslissing tot erkenning of niet-erkenning. De beslissing wordt met een aangetekende brief aan de instelling meegedeeld.<br>
+<br>
+De beslissing tot erkenning wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br>
+<br>
+§ 7. De erkenning als instelling voor het organiseren van de opleiding tot verkeersveiligheidsauditor en de bijbehorende eindproef wordt verleend voor een periode van vijf jaar. Gedurende deze periode moet iedere wijziging in de organisatie van de opleiding tot verkeersveiligheidsauditor en de bijbehorende eindproef binnen een maand schriftelijk aan de beoordelingscommissie worden meegedeeld.<br>
+<br>
+§ 8. De minister kan de erkenning als instelling voor het organiseren van de opleiding tot verkeersveiligheidsauditor en de bijbehorende eindproef verlengen als de instelling het bewijs levert dat zij :<br>
+1° nog steeds voldoet aan de toelatingsvoorwaarden, vermeld in paragraaf 5;<br>
+2° gedurende de laatste vijf jaar de opleiding tot verkeersveiligheidsauditor en de bijbehorende praktische proef steeds in overeenstemming met dit besluit heeft georganiseerd.<br>
+<br>
+De minister kan nadere regels bepalen tot vaststelling van de inhoud en de vorm van de aanvraag tot verlenging van de erkenning.<br>
+<br>
+Minstens zes maanden voor de vervaldatum van de lopende erkenning vraagt de instelling de verlenging van de erkenning als instelling voor het organiseren van de opleiding tot verkeersveiligheidsauditor en de bijbehorende eindproef op de wijze, vermeld in paragraaf 6.<br>
+<br>
+De aanvraag tot verlenging van de erkenning als instelling voor het organiseren van de opleiding tot verkeersveiligheidsauditor en de bijbehorende eindproef wordt behandeld op de wijze, vermeld in paragraaf 6.<br>
+<br>
+De erkenning als instelling voor het organiseren van de opleiding tot verkeersveiligheidsauditor en de bijbehorende eindproef wordt verlengd voor een periode van vijf jaar vanaf de vervaldatum van de lopende erkenning.<br>
+<br>
+§ 9. De minister kan de erkenning als instelling voor het organiseren van de opleiding tot verkeersveiligheidsauditor en de eindproef altijd intrekken als blijkt dat de instelling de opleiding tot verkeersveiligheidsauditor en de bijbehorende proef niet objectief, niet onafhankelijk of niet in overeenstemming met dit besluit organiseert.<br>
+<br>
+De beslissing tot intrekking van de erkenning wordt pas genomen nadat de instelling is gehoord of nadat de beoordelingscommissieop eigen initiatief of op vraag van de instelling heeft deelgenomen aan een of meerdere onderdelen van het lesprogramma van de opleiding tot verkeersveiligheidsauditor, en wordt met een aangetekende brief aan de instelling meegedeeld.<br>
+<br>
+De beslissing tot intrekking van de erkenning wordt binnen een termijn van dertig kalenderdagen, te rekenen vanaf de dag na de datum van de ondertekening van de beslissing door de minister, bekendgemaakt in het Belgisch Staatsblad.
 
 ### ART. 16.
 
-De beoordelingscommissie bepaalt, op eigen initiatief of op aanvraag, welke bijscholingen in aanmerking worden genomen als relevante bijscholingen voor de houders van een bekwaamheidscertificaat van verkeersveiligheidsauditor.<br /><br />De bijscholingen omvatten minstens vier uur en behandelen innovaties of gespecialiseerde elementen van verkeersveiligheidsbeheer of van verkeersveiligheidsmaatregelen of van infrastructuurprojecten en hun ontwerpprincipes of van de auditpraktijk.
+De beoordelingscommissie bepaalt, op eigen initiatief of op aanvraag, welke bijscholingen in aanmerking worden genomen als relevante bijscholingen voor de houders van een bekwaamheidscertificaat van verkeersveiligheidsauditor.<br>
+<br>
+De bijscholingen omvatten minstens drie uur en behandelen innovaties of gespecialiseerde elementen van verkeersveiligheidsbeheer of van verkeersveiligheidsmaatregelen of van infrastructuurprojecten en hun ontwerpprincipes of van de auditpraktijk.
 
 ## Afdeling 3. Samenstelling en werking van de beoordelingscommissie
 
 ### ART. 17.
 
-§ 1. De beoordelingscommissie bestaat uit een voorzitter, een   ondervoorzitter, die allebei personeelslid zijn van de Vlaamse Gemeenschap van   ten minste rang A2, of rang A1 als ze minstens tien jaar anciënniteit hebben, en   ten minste drie assessoren. Ze worden allemaal door de minister aangewezen op   grond van hun bijzondere deskundigheid op het vlak van wegenontwerp,   wegenverkeersveiligheidstechnieken of ongevalsanalyse voor een mandaat van   maximaal drie jaar, dat kan worden hernieuwd. <BR><BR>Door de minister wordt bij   de samenstelling van de beoordelingscommissie een plaatsvervanger aangeduid voor   elk van de door hem aangestelde leden.<BR><BR>Een lid van de   beoordelingscommissie kan het beroep van auditor niet uitoefenen.<BR><BR>§ 2. De   duur van het mandaat van de leden van de beoordelingscommissie bedraagt drie   jaar. Het mandaat is hernieuwbaar. <BR><BR>§ 3. De voorzitter, de   ondervoorzitter en de andere leden van de beoordelingscommissie oefenen hun   mandaat onbezoldigd uit. <BR><BR>§ 4. De interne organisatie van de   beoordelingscommissie wordt geregeld in een huishoudelijk reglement. Dat   huishoudelijk reglement, dat minstens regels bevat voor de bevoegdheden van de   voorzitter en de ondervoorzitter en de wijze van bijeenroeping en beraadslaging,   wordt door de beoordelingscommissie opgesteld en ter goedkeuring aan de minister   voorgelegd binnen twee maanden na de bekendmaking van dit besluit.<BR><BR>§ 5.   De beoordelingscommissie kan alleen vergaderen als de voorzitter of de   ondervoorzitter en de meerderheid van de assessoren aanwezig zijn. De   beslissingen worden bij gewone meerderheid van stemmen genomen. Bij staking van   stemmen is de stem van de voorzitter, en bij verhindering van de voorzitter de   stem van de ondervoorzitter, doorslaggevend. Als de effectieve leden verhinderd   zijn, gelden dezelfde regels voor hun plaatsvervangers.<BR><BR>§ 6. Het   secretariaat van de beoordelingscommissie wordt verzorgd door de afdeling   Beleid, Mobiliteit en Verkeersveiligheid van het Departement Mobiliteit en   Openbare Werken van het Vlaams Ministerie van Mobiliteit en Openbare Werken. De   werking van het secretariaat van de beoordelingscommissie wordt nader geregeld   in het huishoudelijk reglement, vermeld in paragraaf 4.
+§ 1. De minister wijst de leden van de beoordelingscommissie aan op grond van hun bijzondere deskundigheid op het vlak van wegenontwerp, wegenverkeersveiligheidstechnieken of ongevalsanalyse. De beoordelingscommissie bestaat uit een voorzitter, een ondervoorzitter en ten minste drie assessoren.<br>
+<br>
+§ 2. De duur van het mandaat van de leden van de beoordelingscommissie bedraagt vijf jaar. Het mandaat is hernieuwbaar.<br>
+<br>
+§ 3. De voorzitter, de ondervoorzitter en de andere leden van de beoordelingscommissie oefenen hun mandaat onbezoldigd uit.<br>
+<br>
+§ 4. De interne organisatie van de beoordelingscommissie wordt geregeld in een huishoudelijk reglement. Dat huishoudelijk reglement, dat minstens regels bevat voor de bevoegdheden van de voorzitter en de ondervoorzitter en de wijze van bijeenroeping en beraadslaging, wordt door de beoordelingscommissie opgesteld en ter goedkeuring aan de minister voorgelegd binnen twee maanden na de bekendmaking van dit besluit.<br>
+<br>
+§ 5. De beoordelingscommissie kan alleen vergaderen als de voorzitter of de ondervoorzitter en de meerderheid van de assessoren aanwezig zijn. De beslissingen worden bij gewone meerderheid van stemmen genomen. Bij staking van stemmen is de stem van de voorzitter, en bij verhindering van de voorzitter de stem van de ondervoorzitter, doorslaggevend.<br>
+&nbsp;<br>
+§ 6. Het secretariaat van de beoordelingscommissie wordt verzorgd door het Departement Mobiliteit en Openbare Werken van het Vlaams Ministerie van Mobiliteit en Openbare Werken. De werking van het secretariaat van de beoordelingscommissie wordt nader geregeld in het huishoudelijk reglement, vermeld in paragraaf 4.
 
 ## HOOFDSTUK 7. Slotbepalingen
 
 ### ART. 18.
 
-In afwijking van hoofdstuk 2 is er geen verkeersveiligheidseffectbeoordeling vereist voor een infrastructuurproject dat reeds vóór de inwerkingtreding van dit besluit is aangevat.<br /><br />In afwijking van hoofdstuk 3 zal de verkeersveiligheidsaudit voor een infrastructuurproject dat al vóór de datum van de inwerkingtreding van dit besluit aangevat is, niet worden uitgevoerd voor de lopende fase van het project. De verkeersveiligheidsaudit zal voor de eerste maal worden uitgevoerd bij de aanvang van een nieuwe fase van het infrastructuurproject.
+...
 
 ### ART. 19.
 
