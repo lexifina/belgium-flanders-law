@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036446,
+  "title": "Besluit van de Vlaamse Regering van 2021-12-17 tot wijziging van het besluit van de Vlaamse Regering van 3 februari 2012 houdende de uitvoering van het decreet van 17 juni 2011 betreffende het beheer van de verkeersveiligheid van weginfrastructuur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036446/VolledigDocument?datum=2021-12-17",
+  "source_sha256": "dcd866dd9b2b91f75ec297c08966f4510ebddfc92efeaffdff02fdbe2d7ba011",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036446&param=informatie",
+  "as_of": "2021-12-17",
+  "made": "2021-12-17",
+  "gazette": "2022-01-28",
+  "numac": 2022030012,
+  "document_start": "2021-12-17",
+  "document_end": null,
+  "in_force": "2021-12-17",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2021-12-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
