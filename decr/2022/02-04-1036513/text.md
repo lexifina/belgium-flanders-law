@@ -4,6 +4,10 @@
 
 ## HOOFDSTUK 2. Verbod op extra-murosactiviteiten met overnachting
 
+### ART 2.
+
+Voor de scholen, academies, centra en instellingen van het basisonderwijs, secundair onderwijs, deeltijds kunstonderwijs en volwassenenonderwijs zijn extra-murosactiviteiten met overnachting, met uitzondering van praktijklessen op verplaatsing, verboden vanaf 21 december 2021 tot en met 28 januari 2022.
+
 ## HOOFDSTUK 3. Afwijkingen van het decreet basisonderwijs van 25 februari 1997
 
 ### ART 8.
