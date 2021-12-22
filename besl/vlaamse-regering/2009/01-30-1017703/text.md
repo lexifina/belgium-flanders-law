@@ -35,7 +35,10 @@ Dit besluit bepaalt de werkgebieden van de Logo's, vermeld in artikel 29 van het
 
 ### ART. 3.
 
-De administrateur-generaal erkent een Logo voor zes jaar als het Logo voldoet aan de erkenningsvoorwaarden, vermeld in artikel 4.<br /><br />Aan de erkenning is een subsidie verbonden volgens de bepalingen van dit besluit. <br /><br />
+De administrateur-generaal erkent een Logo voor minimaal twee en maximaal drie jaar als het Logo voldoet aan de erkenningsvoorwaarden, vermeld in artikel 4.<br>
+<br>
+Aan de erkenning is een subsidie verbonden volgens de bepalingen van dit besluit.<br>
+&nbsp;
 
 ### ART. 4.
 
@@ -77,11 +80,32 @@ Om erkend te blijven, moet een Logo voldoen aan al de bepalingen van dit   beslu
 
 ### ART. 9.
 
-De administrateur-generaal verlengt de erkenning van een Logo voor zes jaar voor zover het dossier tot verlenging van de erkenning voldoet aan de voorwaarden, vermeld in artikel 8 en artikel 10, § 1 tot en met § 3.<br /><br />
+De administrateur-generaal verlengt de erkenning van de Logo's eenmalig voor minimaal twee en maximaal drie jaar als het dossier tot verlenging van de erkenning voldoet aan de voorwaarden, vermeld in artikel 8 en 10, § 1 tot en met § 3
 
 ### ART. 10.
 
-§ 1. Om de continuïteit van de erkenning te kunnen garanderen, verzoekt het agentschap, minimaal twaalf maanden voordat de erkenning is afgelopen, een Logo om de informatie te bezorgen die conform artikel 8 nodig is voor een verlenging van de erkenning. <br /><br />De administrateur-generaal bepaalt de nadere regels voor de vorm van die informatie en voor de wijze waarop die bezorgd moet worden. <br /><br />§ 2. Het Logo bezorgt, minimaal zes maanden voordat de erkenning is afgelopen, de informatie, vermeld in paragraaf 1, over de samenstelling van een dossier tot verlenging van een erkenning aan het agentschap.<br /><br />Het dossier tot verlenging van een erkenning is alleen ontvankelijk als het de nodige informatie, vermeld in paragraaf 1, bevat. Als het dossier onontvankelijk is, wordt het Logo minimaal drie maanden voordat de erkenning is afgelopen, daarvan op de hoogte gebracht. Binnen een termijn van een maand na de datum van het bericht van onontvankelijkheid moet het Logo het dossier vervolledigen. Als het Logo die termijn niet respecteert en de eventuele reden die daarvoor door het Logo wordt opgegeven niet door het agentschap aanvaard wordt, moet er een nieuwe aanvraag tot erkenning ingediend worden.<br /><br />§ 3. Het agentschap vervolledigt het dossier tot verlenging van een erkenning eventueel met een inspectieverslag als vermeld in artikel 35, 4°.<br /><br />§ 4. De beslissing van de administrateur-generaal waarin de erkenning wordt verlengd, wordt bezorgd aan het Logo.<br /><br />§ 5. Het voornemen tot weigering van een verlenging van erkenning wordt met een aangetekende zending ter kennis gebracht van het Logo. Dat voornemen wordt gemotiveerd.<br /><br />De aangetekende zending bevat naast het voornemen ook de uitleg over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij het agentschap.<br /><br />§ 6. Als de administrateur-generaal voordat de erkenning afgelopen is, geen beslissing als vermeld in paragraaf 4, neemt of geen voornemen uit tot weigering van de verlenging van de erkenning als vermeld in paragraaf 5, wordt de erkenning van rechtswege verlengd met drie jaar.<br /><br />De erkenning wordt van rechtswege verlengd op voorwaarde dat het Logo de termijn, vermeld in paragraaf 2, respecteert en kan, volgens de bepalingen van dit besluit, worden geschorst of ingetrokken zoals een erkenning of een verlenging van een erkenning die niet van rechtswege is toegekend.<br /><br />§ 7. Als de verlenging van de erkenning wordt geweigerd, kan het Logo in kwestie geen aanspraak maken op een vergoeding voor kosten, verbonden aan activiteiten die hebben plaatsgevonden om een verlenging van de erkenning te verkrijgen, of voor verlies van inkomsten door de weigering van de verlenging van de erkenning.<br /><br />
+§ 1. Om de continuïteit van de erkenning te kunnen garanderen, verzoekt het agentschap, minimaal twaalf maanden voordat de erkenning is afgelopen, een Logo om de informatie te bezorgen die conform artikel 8 nodig is voor een verlenging van de erkenning.<br>
+<br>
+De administrateur-generaal bepaalt de nadere regels voor de vorm van die informatie en voor de wijze waarop die bezorgd moet worden.<br>
+<br>
+§ 2. Het Logo bezorgt, minimaal zes maanden voordat de erkenning is afgelopen, de informatie, vermeld in paragraaf 1, over de samenstelling van een dossier tot verlenging van een erkenning aan het agentschap.<br>
+<br>
+Het dossier tot verlenging van een erkenning is alleen ontvankelijk als het de nodige informatie, vermeld in paragraaf 1, bevat. Als het dossier onontvankelijk is, wordt het Logo minimaal drie maanden voordat de erkenning is afgelopen, daarvan op de hoogte gebracht. Binnen een termijn van een maand na de datum van het bericht van onontvankelijkheid moet het Logo het dossier vervolledigen. Als het Logo die termijn niet respecteert en de eventuele reden die daarvoor door het Logo wordt opgegeven niet door het agentschap aanvaard wordt, moet er een nieuwe aanvraag tot erkenning ingediend worden.<br>
+<br>
+§ 3. Het agentschap vervolledigt het dossier tot verlenging van een erkenning eventueel met een inspectieverslag als vermeld in artikel 35, 4°.<br>
+<br>
+§ 4. De beslissing van de administrateur-generaal waarin de erkenning wordt verlengd, wordt bezorgd aan het Logo.<br>
+<br>
+§ 5. Het voornemen tot weigering van een verlenging van erkenning wordt met een aangetekende zending ter kennis gebracht van het Logo. Dat voornemen wordt gemotiveerd.<br>
+<br>
+De aangetekende zending bevat naast het voornemen ook de uitleg over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij het agentschap.<br>
+<br>
+§ 6. Als de administrateur-generaal voordat de erkenning afgelopen is, geen beslissing als vermeld in paragraaf 4, neemt of geen voornemen uit tot weigering van de verlenging van de erkenning als vermeld in paragraaf 5, wordt de erkenning van rechtswege verlengd met twee jaar.<br>
+<br>
+De erkenning wordt van rechtswege verlengd op voorwaarde dat het Logo de termijn, vermeld in paragraaf 2, respecteert en kan, volgens de bepalingen van dit besluit, worden geschorst of ingetrokken zoals een erkenning of een verlenging van een erkenning die niet van rechtswege is toegekend.<br>
+<br>
+§ 7. Als de verlenging van de erkenning wordt geweigerd, kan het Logo in kwestie geen aanspraak maken op een vergoeding voor kosten, verbonden aan activiteiten die hebben plaatsgevonden om een verlenging van de erkenning te verkrijgen, of voor verlies van inkomsten door de weigering van de verlenging van de erkenning.<br>
+&nbsp;
 
 ## HOOFDSTUK V Werkgebied, samenstelling en werkingsbeginselen
 
