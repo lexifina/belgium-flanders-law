@@ -2,16 +2,16 @@
   "codex_id": 1022266,
   "title": "Samenwerkingsakkoord van 2011-12-09 tussen de Vlaamse Gemeenchap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende dopingpreventie en -bestrijding in de sport",
   "type": "Samenwerkingsakkoord",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022266/VolledigDocument?datum=2016-04-02",
-  "source_sha256": "fdddf39a5f2cc253b7c108dcfad3f44f3d5bbbeb90140ec81fabc4fe5b14182e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022266/VolledigDocument?datum=2021-12-24",
+  "source_sha256": "efc0cc10fa678dd234b37687105b45124d2efbf178786c34c6e20a929d8567a9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022266&param=informatie",
-  "as_of": "2016-04-02",
+  "as_of": "2021-12-24",
   "made": "2011-12-09",
   "gazette": "2012-09-14",
   "numac": 0,
   "document_start": "2012-09-24",
   "document_end": null,
-  "in_force": "2016-04-02",
+  "in_force": "2021-12-24",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2016-04-02; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-12-24; future article versions excluded; article text as the API gives it"
 }
