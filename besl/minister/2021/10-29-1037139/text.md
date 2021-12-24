@@ -23,3 +23,12 @@ In artikel 2 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<b
 4° punt 2° wordt opgeheven;<br>
 5° in punt 5° worden de woorden "het informatie- en IT-beleid" vervangen door de woorden "de digitalisering";<br>
 6° in punt 6° wordt de naam "Filip Broekaert" vervangen door de naam "Henk Coppé".
+
+### ART 4.
+
+Artikel 1, artikel 2, 1°, 2°, 3° en 6°, en artikel 3, 1°, 2°, 4° en 5°, hebben uitwerking met ingang van 10 mei 2021.<br>
+Artikel 2, 4°, heeft uitwerking met ingang van 1 juli 2021.<br>
+Artikel 2, 5°, treedt in werking op 22 oktober 2021.<br>
+Artikel 3, 3°, heeft uitwerking met ingang van 25 maart 2021.<br>
+Artikel 3, 6°, heeft uitwerking met ingang van 10 september 2021.<br>
+&nbsp;
