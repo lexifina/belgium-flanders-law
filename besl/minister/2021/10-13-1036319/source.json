@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036319,
+  "title": "Ministerieel besluit van 2021-10-13 tot vaststelling van het gebied `Meetkerkse Moeren, poldergebied rond Houtave en overgang naar de zandstreek' in de landschapsatlas",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036319/VolledigDocument?datum=2021-12-25",
+  "source_sha256": "686be0be3ac9b74f77fef72b57de66076af93cbbfb170f3ab6106599b1d2311b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036319&param=informatie",
+  "as_of": "2021-12-25",
+  "made": "2021-10-13",
+  "gazette": "2021-12-15",
+  "numac": 2021034203,
+  "document_start": "2021-12-25",
+  "document_end": null,
+  "in_force": "2021-12-25",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2021-12-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
