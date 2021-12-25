@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036316,
+  "title": "Ministerieel besluit van 2021-11-30 tot vaststelling van de lijst voor het jaar 2022 met generieke afwijkingen van het verbod op het gebruik van pesticiden in uitvoering van artikel 5, paragraaf 2, van het besluit van de Vlaamse Regering van 15 maart 2013 houdende nadere regels inzake duurzaam gebruik van pesticiden in het Vlaamse Gewest voor niet-land- en tuinbouwactiviteiten en de opmaak van het Vlaams Actieplan Duurzaam Pesticidengebruik",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036316/VolledigDocument?datum=2021-12-25",
+  "source_sha256": "bf51e78aca83f008ebac1ec810e41224d4d3aef00b7d03c57446d07e91852f1e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036316&param=informatie",
+  "as_of": "2021-12-25",
+  "made": "2021-11-30",
+  "gazette": "2021-12-15",
+  "numac": 2021034231,
+  "document_start": "2021-12-25",
+  "document_end": null,
+  "in_force": "2021-12-25",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2021-12-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
