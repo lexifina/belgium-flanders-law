@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036344,
+  "title": "Decreet van 2021-11-26 tot instemming met de overeenkomst tussen de regering van het Koninkrijk België, de regering van de Vlaamse gemeenschap, de regering van de Franse gemeenschap, de regering van de Duitstalige gemeenschap, de regering van het Vlaamse gewest, de regering van het Waalse gewest, de regering van het Brussels hoofdstedelijk gewest en de regering van de Franse Republiek inzake het vervoer van lijken over land, gedaan te Parijs op 9 maart 2020",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036344/VolledigDocument?datum=2021-12-27",
+  "source_sha256": "67dc50d51a8912d5fd3f5b701df38c6b07875171af9dc7f8376c88a6096f96fd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036344&param=informatie",
+  "as_of": "2021-12-27",
+  "made": "2021-11-26",
+  "gazette": "2021-12-17",
+  "numac": 2021043306,
+  "document_start": "2021-12-27",
+  "document_end": null,
+  "in_force": "2021-12-27",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2021-12-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
