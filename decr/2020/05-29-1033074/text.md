@@ -221,4 +221,4 @@ Het decreet van 6 mei 2020 tot organisatie van contactonderzoek in het kader van
 
 Dit decreet heeft uitwerking met ingang van 11 mei 2020.<br>
 <br>
-Dit decreet houdt op uitwerking te hebben op een datum die de Vlaamse Regering vaststelt en uiterlijk op 31 december 2021.
+Dit decreet houdt op uitwerking te hebben op een datum die de Vlaamse Regering vaststelt en uiterlijk op 31 december 2022.

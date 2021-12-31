@@ -2,16 +2,16 @@
   "codex_id": 1033074,
   "title": "Decreet van 2020-05-29 tot organisatie van de meldingsplicht en het contactonderzoek in het kader van COVID-19",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033074/VolledigDocument?datum=2020-11-01",
-  "source_sha256": "bdd7aa34d9167218915d2fb565b928f7619d5a6d4e648e7d2064ed3a016609a5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033074/VolledigDocument?datum=2021-12-31",
+  "source_sha256": "35037b0eb2e37640c4244fd05e0bfb6d9465b109051f1504a90e32490041f6b0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033074&param=informatie",
-  "as_of": "2020-11-01",
+  "as_of": "2021-12-31",
   "made": "2020-05-29",
   "gazette": "2020-06-02",
   "numac": 2020021027,
   "document_start": "2020-05-11",
   "document_end": "2021-12-31",
-  "in_force": "2020-11-01",
+  "in_force": "2021-12-31",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2020-11-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2021-12-31; future article versions excluded; article text as the API gives it"
 }
