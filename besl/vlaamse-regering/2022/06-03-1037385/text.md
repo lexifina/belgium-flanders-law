@@ -35,3 +35,7 @@ Aan hoofdstuk 3 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse
 Art. 32/2. Een organisator met een attest van toezicht voor groepsopvang als vermeld in artikel 3 van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014, die een lokaal bestuur is, en die vanaf 1 januari 2022 beschikt over een kwaliteitslabel als vermeld in het besluit van de Vlaamse regering van 16 oktober 2020 tot toekenning van een kwaliteitslabel aan organisatoren van kleuteropvang, ontvangt van het agentschap een subsidie voor koopkrachtondersteuning. De subsidie bedraagt 168,77 euro per geattesteerde opvangplaats.<br>
 <br>
 Art. 32/3. Een organisator met een subsidie voor initiatief voor buitenschoolse opvang, een organisator met een subsidie voor buitenschoolse opvang in een afzonderlijke binnenruimte en een organisator met een subsidie voor lokale diensten die een openbaar bestuur zijn, ontvangen van het agentschap een subsidie voor koopkrachtondersteuning. De subsidie bedraagt 168,77 euro per erkende opvangplaats.".
+
+### ART 4.
+
+In artikel 32/2 en 32/3 van hetzelfde besluit, ingevoegd bij dit besluit, wordt het bedrag "168,77 euro" vervangen door het bedrag "262,10 euro".
