@@ -258,7 +258,7 @@ Het agentschap evalueert het proefproject in de loop van het jaar 2021.
 
 ### ART 30.
 
-Dit besluit treedt in werking op 20 juli 2020 en treedt buiten werking op 31 december 2021.
+Dit besluit treedt in werking op 20 juli 2020 en treedt buiten werking op 31 december 2023.
 
 ### ART 31.
 
