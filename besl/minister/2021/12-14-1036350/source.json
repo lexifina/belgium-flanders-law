@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036350,
+  "title": "Ministerieel besluit van 2021-12-14 tot vaststelling van de datum van inwerkingtreding van het besluit van de Vlaamse Regering van 3 september 2021 tot oprichting van het intern verzelfstandigd agentschap \"Agentschap Justitie en Handhaving\"",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036350/VolledigDocument?datum=2021-12-31",
+  "source_sha256": "7c8035ca420a8c8e44566bf30633c795e153ca2e6e4399b0da14c7cffb804ba4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036350&param=informatie",
+  "as_of": "2021-12-31",
+  "made": "2021-12-14",
+  "gazette": "2021-12-21",
+  "numac": 2021034467,
+  "document_start": "2021-12-31",
+  "document_end": null,
+  "in_force": "2021-12-31",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2021-12-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
