@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK 1. Algemene bepalingen
 
+### ART 1.
+
+Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
+
 ## HOOFDSTUK 2. Maatregelen voor de ontbinding van het publiekrechtelijk vormge geven extern verzelfstandigd Agentschap "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen"
 
 ### ART 2.
