@@ -119,26 +119,47 @@ Naast het aanvraagformulier, vermeld in artikel 13, bezorgt de organisator de vo
 
 ### ART 15.
 
-Het agentschap&nbsp;beslist uiterlijk op 31 maart 2019 over de toekenning van de subsidie.<br>
+Het agentschap&nbsp;beslist uiterlijk negentig dagen na de laatste dag van de termijn voor het indienen van de aanvragen, vermeld in artikel 13, eerste lid, over de toekenning van de subsidie.<br>
 <br>
 De aanvraag is ontvankelijk als ze voldoet aan al de volgende criteria:<br>
-1° de aanvraag werd tijdig ingediend, meer bepaald uiterlijk op 31 januari 2019;<br>
+1° de aanvraag werd tijdig ingediend conform artikel 13, eerste lid;<br>
 2° het aanvraagformulier dat&nbsp;het agentschap ter beschikking stelt op haar website, is ingevuld;<br>
 3° de aanvraag is naar het e-mailadres gestuurd dat vermeld wordt op het aanvraagformulier;<br>
 4° de aanvraag werd ingediend door een organisator die werkt als organisator gezinsopvang met kinderbegeleiders in het sociaal statuut van de aangesloten onthaalouders.<br>
 <br>
 De aanvraag wordt uitgesloten als aan een of meer van de volgende criteria is voldaan:<br>
 1° er zijn ernstige dossiermatige indicaties die erop wijzen dat de vergunningsvoorwaarden of de subsidievoorwaarden niet nageleefd kunnen worden;<br>
-2° er is geen duidelijk en realistisch perspectief waaruit blijkt dat de organisator in staat is om op 1 april 2019 als werkgever op te treden;<br>
-3° de aanvraag heeft betrekking op een te hoog minimumaantal gevraagde voltijdsequivalenten.<br>
+2° er is geen duidelijk en realistisch perspectief waaruit blijkt dat de organisator in staat is om negentig dagen na de datum van de toewijzingsbeslissing van de bijkomende voltijdsequivalente werknemers als werkgever op te treden;<br>
+3° ...<br>
 <br>
-Bij de beoordeling van de aanvragen geldt het volgende voorrangscriterium: de aanvragen waarbij de organisator aangeeft bereid te zijn om minstens vijf voltijdsequivalenten tewerk te stellen, hebben voorrang.<br>
+Bij de beoordeling van de aanvragen gelden de volgende voorrangscriteria:<br>
+1° in een eerste fase wordt voorrang gegeven aan de organisatoren die voor minder dan 5% van hun vergunde locaties gezinsopvang en groepsopvang als vermeld in artikel 73, derde lid van het Vergunningsbesluit van 22 november 2013, kinderbegeleiders in het werknemersstatuut in het werknemersstatuut kregen toegekend. Het agentschap kent voltijdsequivalente kinderbegeleiders toe tot een maximum van 5%, met een minimum van één voltijdsequivalente kinderbegeleider, of met een veelvoud ervan;<br>
+2° in een tweede fase wordt voorrang gegeven aan de organisatoren die voor minder dan 10% van hun vergunde locaties gezinsopvang en groepsopvang als vermeld in artikel 73, derde lid van het Vergunningsbesluit van 22 november 2013, kinderbegeleiders in het werknemersstatuut kregen toegekend. Het agentschap kent voltijdsequivalente kinderbegeleiders toe tot een maximum van 10%, met een minimum van één voltijdsequivalente kinderbegeleider, of met een veelvoud ervan;<br>
+3° in een derde fase wordt voorrang gegeven aan de organisatoren die voor minder dan 15% van hun vergunde locaties gezinsopvang en groepsopvang als vermeld in artikel 73, derde lid van het Vergunningsbesluit van 22 november 2013, kinderbegeleiders in het werknemersstatuut kregen toegekend. Het agentschap kent voltijdsequivalente kinderbegeleiders toe tot een maximum van 15%, met een minimum van één voltijdsequivalent kinderbegeleider, of met een veelvoud ervan;<br>
+4° in een vierde fase wordt voorrang gegeven aan de organisatoren die voor minder dan 20% van hun vergunde locaties gezinsopvang en groepsopvang als vermeld in artikel 73, derde lid van het Vergunningsbesluit van 22 november 2013, kinderbegeleiders in het werknemersstatuut kregen toegekend. Het agentschap kent voltijdsequivalente kinderbegeleiders toe tot een maximum van 20%, met een minimum van één voltijdsequivalente kinderbegeleider, of met een veelvoud ervan;<br>
+5° in een vijfde fase wordt voorrang gegeven aan de organisatoren die voor minder dan 25% van hun vergunde locaties gezinsopvang en groepsopvang als vermeld in artikel 73, derde lid van het Vergunningsbesluit van 22 november 2013, kinderbegeleiders in het werknemersstatuut kregen toegekend. Het agentschap kent voltijdsequivalente kinderbegeleiders toe tot een maximum van 25% met een minimum van één voltijdsequivalente kinderbegeleider, of met een veelvoud ervan.<br>
 <br>
-Het agentschap&nbsp;beoordeelt de gegrondheid van de aanvragen op basis van de som van de volgende scores:<br>
-1° de score van&nbsp;het agentschap op een maximum van 3 punten voor de behaalde bezetting in 2017;<br>
-2° de score van&nbsp;het agentschap op een maximum van 3 punten voor de plaats-onthaalouderratio.<br>
+Het aantal vergunde locaties per organisator worden vastgelegd op 1 september 2021.<br>
 <br>
-De aanvragen die voldoen aan het voorrangscriterium, vermeld in het vierde lid, worden eerst behandeld. Binnen die groep worden de aanvragen gerangschikt op basis van de score, vermeld in het vijfde lid. De aanvragen met de hoogste score komen bovenaan in de rangschikking. Binnen de groep van aanvragen die niet voldoen aan het voormelde voorrangscriterium wordt dezelfde wijze van rangschikking toegepast. De toekenningen van de subsidie gebeuren in volgorde van voormelde werkwijze en rekening houdend met het beschikbare budget.
+Als er binnen een bepaalde fase als vermeld in het vierde lid, meer aanvragen zijn dan kunnen worden toegekend, worden de beschikbare voltijdsequivalente kinderbegeleiders pro rata verdeeld over het aantal organisatoren die een aanvraag hebben ingediend voor de fase in kwestie. Als geen pro-rataverdeling mogelijk is in de fase in kwestie, wordt voorrang gegeven aan de aanvragen met de hoogste score op de scores op basis van de gegrondheid, vermeld in het zevende lid.<br>
+<br>
+Het agentschap beoordeelt de gegrondheid van de aanvragen op basis van de som van de volgende scores:<br>
+1° de score van het agentschap voor de bezetting in 2020 op drie punten. De bezetting wordt berekend conform artikel 21 van het Subsidiebesluit van 22 november 2013, en de scores worden op de volgende wijze toegekend:<br>
+a) 0 punten voor een bezettingspercentage lager dan 80%;<br>
+b) 1 punt voor een bezettingspercentage vanaf 80% en minder dan 90%;<br>
+c) 2 punten voor een bezettingspercentage vanaf 90% en minder dan 100%;<br>
+d) 3 punten voor een bezettingspercentage vanaf 100%;<br>
+2° de score van het agentschap op 1 september 2021 voor de verhouding van het aantal subsidieerbare kinderopvangplaatsen met de subsidie voor inkomenstarief voor gezinsopvang ten opzichte van het aantal vergunde locaties gezinsopvang van de organisator, hierna plaats-locatieratio te noemen, op 3 punten en waarbij de scores op de volgende wijze worden toegekend:<br>
+a) een score van 3 punten als de organisator een plaats-locatieratio heeft van maximaal 4;<br>
+b) een score van 2 punten als de organisator een plaats-locatieratio heeft van maximaal 5;<br>
+c) een score van 1 punt als de organisator een plaats-locatieratio heeft van maximaal 6;<br>
+d) een score van 0 punten als de organisator een plaats-locatieratio heeft van meer dan 6;<br>
+3° de score van het agentschap voor het bereiken van de voorrangsgroepen, vermeld in artikel 22 van het Subsidiebesluit van 22 november 2013 op 2 punten en waarbij de scores op de volgende wijze worden berekend:<br>
+a) een score van 0 punten als het percentage bereikte voorrangsgroepen in 2019 en 2020 minder dan 20% bedraagt;<br>
+b) een score van 1 punt als het percentage bereikte voorrangsgroepen in 2019 of 2020 meer dan 20% en minder dan 30% bedraagt;<br>
+c) een score van 2 punten als het percentage voorrangsgroepen in 2019 of 2020 meer dan 30% bedraagt.<br>
+<br>
+Op basis van de pro-rataverdeling en op basis van de scores, vermeld in het zesde en zevende lid, maakt het agentschap een reservelijst op voor de toekenning van de vrijgekomen voltijdsequivalente kinderbegeleiders, vermeld in artikel 4/1, en voor de toekenning van de bijkomende subsidies voor voltijdsequivalente kinderbegeleiders, vermeld in artikel 12/1. De subsidies worden toegekend in volgorde van de reservelijst en rekening houdend met het beschikbare budget.
 
 ## HOOFDSTUK 6. Evaluatie
 
