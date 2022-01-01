@@ -1243,6 +1243,10 @@ Artikel 139quinquies decies van hetzelfde decreet, ingevoegd bij het decreet van
 
 Artikel 139sexies decies van hetzelfde decreet, ingevoegd bij het decreet van 8 mei 2009, wordt opgeheven.
 
+### ART 112.
+
+In artikel 140, § 1, 6°, van hetzelfde decreet, vervangen bij het decreet van 6 juli 2012, wordt punt c) opgeheven.
+
 ### ART 113.
 
 In artikel 153quinquies, § 2, van hetzelfde decreet, gewijzigd bij het decreet van 3 juli 2020, wordt de tweede zin geschrapt.
@@ -1749,6 +1753,11 @@ In artikel 221, § 1, van dezelfde codex wordt het eerste lid vervangen door wat
 <br>
 "Aan elke school voor voltijds secundair onderwijs met ten minste vijfentwintig regelmatige leerlingen op de toepasbare teldatum in structuuronderdelen met in de benaming "topsport" die onder toepassing valt van het gesloten topsportconvenant, wordt een gefinancierde of gesubsidieerde betrekking van topsportschoolcoordinator toegekend. Die betrekking wordt niet meer toegekend als de norm twee aansluitende schooljaren niet wordt bereikt.".
 
+### ART 169.
+
+In artikel 225, § 1, van dezelfde codex, gewijzigd bij de decreten van 15 juni 2018 en 22 maart 2019, wordt punt 2° vervangen door wat volgt:<br>
+"2° de leerling is thuisloze;".
+
 ### ART 170.
 
 In artikel 226 van dezelfde codex, gewijzigd bij het decreet van 21 december 2012, worden in het eerste lid de volgende wijzigingen aangebracht:<br>
@@ -1784,6 +1793,11 @@ Artikel 231 van dezelfde codex wordt vervangen door wat volgt:<br>
 ### ART 176.
 
 Artikel 231/1 van dezelfde codex, ingevoegd bij het decreet van 16 juni 2017, wordt opgeheven.
+
+### ART 177.
+
+In artikel 233, § 1, van dezelfde codex, gewijzigd bij de decreten van 15 juni 2018 en 22 maart 2019, wordt punt 2° vervangen door wat volgt:<br>
+"2° de leerling is thuisloze;".
 
 ### ART 178.
 
@@ -1824,6 +1838,10 @@ Artikel 241 van dezelfde codex wordt opgeheven.
 ### ART 185.
 
 Artikel 241/1 van dezelfde codex, ingevoegd bij het decreet van 16 juni 2017, wordt opgeheven.
+
+### ART 186.
+
+In artikel 242, § 2, tweede lid, van dezelfde codex, gewijzigd bij het decreet van 15 juni 2018, worden de zinnen "Onder thuislozen worden de leerlingen verstaan die tijdelijk of permanent buiten het eigen gezinsverband opgenomen zijn door een gezin of persoon, een voorziening of sociale dienst, vermeld in het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand en in de wet van 8 april 1965 betreffende de jeugdbescherming, met uitzondering van de internaten, gefinancierd of gesubsidieerd door het Vlaams Ministerie van Onderwijs en Vorming. Onder thuislozen worden ook de niet-begeleide minderjarige vreemdelingen verstaan als vermeld in artikel 479 van de Programmawet I van 24 december 2002." opgeheven.
 
 ### ART 187.
 
@@ -2086,6 +2104,26 @@ Aan artikel II.266, § 1, van dezelfde codex, gewijzigd bij het decreet van 3 ju
 In artikel II.270, § 2, van dezelfde codex, gewijzigd bij het decreet van 16 juni 2017, worden tussen de tweede en de derde zin de volgende zinnen ingevoegd:<br>
 <br>
 "Wanneer een personeelslid al langer dan vijf jaar aangesteld is of al benoemd is op het moment dat het belast wordt met een onderwijsopdracht, moet het op dat moment aan het vereiste beheersingsniveau van de Nederlandse taal voldoen. Een personeelslid dat niet aan de vereisten voor het beheersingsniveau van de Nederlandse taal voldoet, kan geen onderwijsopdracht uitoefenen.".
+
+### ART 218.
+
+Aan artikel III.5 van dezelfde codex, het laatst gewijzigd bij het decreetvan 18 december 2020, wordt een paragraaf 20 toegevoegd, die luidt als volgt:<br>
+<br>
+" § 20. Het bedrag VOWprof als vermeld in of berekend conform dit artikel, wordt vermeerderd met de volgende bedragen:<br>
+1° in het begrotingsjaar 2022 met 12.000.000 euro;<br>
+2° in het begrotingsjaar 2023 met 16.000.000 euro;<br>
+3° vanaf het begrotingsjaar 2024 met 20.000.000 euro.<br>
+<br>
+Bij de opmaak van de begroting 2023 wordt het groeipad, vermeld in paragraaf 18 tot en met 20, geëvalueerd.".
+
+### ART 219.
+
+Aan artikel III.19, § 1, van dezelfde codex, het laatst gewijzigd bij het decreet van 18 december 2020, wordt een punt 9° toegevoegd, dat luidt als volgt:<br>
+"9° in afwijking van punt 1°, c), bedraagt het puntengewicht voor het studiegebied Industriële wetenschappen en technologie 1,27 voor het begrotingsjaar 2022 en 1,30 vanaf het begrotingsjaar 2023.<br>
+In afwijking van punt 1°, i), bedraagt het puntengewicht voor het studiegebied Handelswetenschappen en bedrijfskunde:<br>
+a) voor het begrotingsjaar 2022: 1,02;<br>
+b) voor het begrotingsjaar 2023: 1,04;<br>
+c) vanaf het begrotingsjaar 2024: 1,06.".
 
 ### ART 220.
 
