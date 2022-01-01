@@ -35,7 +35,8 @@ Het BDOC KBBJ is bevoegd voor volgende entiteiten:<br>
 6°&nbsp;&nbsp; Agentschap Binnenlands Bestuur (IVA);<br>
 7°&nbsp;&nbsp; Agentschap Informatie Vlaanderen (IVA);<br>
 8°&nbsp;&nbsp; Toerisme Vlaanderen (IVA);<br>
-9°&nbsp;&nbsp; Vlaams Agentschap voor Internationaal Ondernemen (EVA).<br>
+9°&nbsp;&nbsp; Vlaams Agentschap voor Internationaal Ondernemen (EVA);<br>
+10° Agentschap Justitie en Handhaving (IVA).<br>
 &nbsp;<br>
 §2. De afvaardiging van de overheid in het beleidsdomeinoverlegcomité wordt als volgt vastgesteld:<br>
 1° &nbsp; voorzitter: de voorzitter van het managementcomité van het beleidsdomein KBBJ;<br>
@@ -66,7 +67,8 @@ Het gezamenlijk basisoverlegcomité wordt benoemd als Entiteitsoverlegcomité De
 3°&nbsp;&nbsp; Agentschap Binnenlands Bestuur: entiteitsoverlegcomité Agentschap Binnenlands Bestuur, afgekort EOC ABB;<br>
 4°&nbsp;&nbsp; Agentschap Informatie Vlaanderen: entiteitsoverlegcomité Agentschap Informatie Vlaanderen, afgekort EOC AIV;<br>
 5°&nbsp;&nbsp; Toerisme Vlaanderen: entiteitsoverlegcomité Toerisme Vlaanderen, afgekort EOC TV;<br>
-6°&nbsp;&nbsp; Vlaams Agentschap voor Internationaal Ondernemen, entiteitsoverlegcomité het Vlaams Agentschap voor Internationaal Ondernemen, afgekort EOC VAIO.<br>
+6°&nbsp;&nbsp; Vlaams Agentschap voor Internationaal Ondernemen, entiteitsoverlegcomité het Vlaams Agentschap voor Internationaal Ondernemen, afgekort EOC VAIO;<br>
+7°&nbsp; &nbsp;Agentschap Justitie en Handhaving: entiteitsoverlegcomité Agentschap Justitie en Handhaving, afgekort EOC AJH.<br>
 &nbsp;<br>
 §2. De afvaardiging van de overheid in de entiteitsoverlegcomités, vermeld in paragraaf 1, wordt als volgt vastgesteld:<br>
 1° &nbsp; voorzitter: het hoofd van de entiteit;<br>
