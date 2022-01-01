@@ -16,7 +16,7 @@ Besluit :
 
 ### ART 1.
 
-Het Departement Kanselarij en Buitenlandse Zaken, Coördinatie Vlaams Handhavingsbeleid wordt aangewezen als de entiteit die bevoegd is de eindbeslissingen op strafgebied in ontvangst te nemen als vermeld in artikel 39 van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019, en als de entiteit die de rechtspraak over de handhaving van de Vlaamse regelgeving geanonimiseerd in een elektronische databank opneemt als vermeld in artikel 77 van het voormelde decreet.
+Het Agentschap Justitie en Handhaving wordt aangewezen als de entiteit die bevoegd is de eindbeslissingen op strafgebied in ontvangst te nemen als vermeld in artikel 39 van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019, en als de entiteit die de rechtspraak over de handhaving van de Vlaamse regelgeving geanonimiseerd in een elektronische databank opneemt als vermeld in artikel 77 van het voormelde decreet.
 
 ### ART 2.
 
