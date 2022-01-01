@@ -2,16 +2,16 @@
   "codex_id": 1025157,
   "title": "Besluit van de Vlaamse Regering van 2015-02-13 houdende uitvoering van het Antidopingdecreet van 25 mei 2012",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025157/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "aad01b8e9b2221a170890d3523ee208dd37985afb4ecf3afd175d6ce38b1512e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025157/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "799ad65e1c8ce42acbf2fdb7b9d7db265699725c60f1227521aca84fec49d95e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025157&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2022-01-01",
   "made": "2015-02-13",
   "gazette": "2015-03-26",
   "numac": 2015035376,
   "document_start": "2015-03-31",
   "document_end": null,
-  "in_force": "2020-01-01",
-  "article_versions": 103,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-01-01",
+  "article_versions": 125,
+  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
 }
