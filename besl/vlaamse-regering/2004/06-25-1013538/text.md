@@ -14,7 +14,14 @@ De ambten die de leden van het bestuurs- en onderwijzend personeel kunnen uitoef
 
 ### ART. 3.
 
-De ambten die de leden van het beleids- en ondersteunend personeel kunnen uitoefenen in het gewoon basisonderwijs, worden als volgt vastgesteld en ingedeeld:<br /><br />1° wervingsambten:<br /><br />a) administratief medewerker;<br /><br />b) [ICT-coördinator;  <span class="reference">(verv. B.V.R. 30 september 2005, art. 1, I: 1 september 2005)</span> ]<br /><br />[c) zorg-coördinator;  <span class="reference">(verv. B.V.R. 30 september 2005, art. 1, I: 1 september 2005)</span> ]<br /><br />2° selectieambten: nihil<br /><br />3° bevorderingsambten: nihil.
+De ambten die de leden van het beleids- en ondersteunend personeel kunnen uitoefenen in het gewoon basisonderwijs, worden als volgt vastgesteld en ingedeeld:<br>
+1° wervingsambten:<br>
+a) administratief medewerker;<br>
+b) ICT-coördinator;&nbsp;<br>
+c) zorg-coördinator;&nbsp;<br>
+d) beleidsondersteuner;<br>
+2° selectieambten: nihil<br>
+3° bevorderingsambten: nihil.
 
 ### ART. 4.
 
