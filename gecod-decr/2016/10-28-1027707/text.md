@@ -1185,6 +1185,39 @@ Volgens door de Vlaamse Regering per type van buitengewoon onderwijs en per onde
 &nbsp;<br>
 Onder groepering dient te worden verstaan: een indeling van scholen en vestigingsplaatsen in het buitengewoon basisonderwijs en het buitengewoon secundair onderwijs, naargelang ze behoren tot het gemeenschapsonderwijs, het gesubsidieerd officieel onderwijs, het gesubsidieerd vrij onderwijs naargelang van de onderscheidene godsdiensten, of het gesubsidieerd vrij niet-confessioneel onderwijs.
 
+### ART IV.35/1.
+
+§ 1. In de volgende geografische regio's is voor de toepassing binnen het buitengewoon onderwijs een collectieve afwijking op artikel IV.35 toegestaan:<br>
+1° Leuven - Heverlee;<br>
+2° Hooglede - Izegem - Ingelmunster - Roeselare - Moorslede - Torhout;<br>
+3° Antwerpen - Brasschaat - Schilde - Schoten.<br>
+<br>
+§ 2. Als de scholen voor buitengewoon onderwijs in de regio's, vermeld in paragraaf 1, er collectief voor kiezen om af te wijken van artikel IV.35, gebeurt de toekenning van het recht op leerlingenvervoer volgens het criterium en het bijbehorende regelgevend kader als ontwikkeld in die regio in de looptijd van het pilootproject Leerlingenvervoer buitengewoon onderwijs van september 2017 tot en met juni 2022.<br>
+<br>
+De gehanteerde werkwijze voor het toekennen van het recht op vervoer wordt door de regio's, vermeld in paragraaf 1, omschreven in een werkplan. Dat document maakt integraal deel uit van de werking van het leerlingenvervoer in de regio's en bevat minstens al de volgende bepalingen:<br>
+1° bepalingen over de wijze waarop het recht op vervoer wordt toegekend;<br>
+2° bepalingen over wie het recht op vervoer toekent;<br>
+3° bepalingen over de wijze waarop men een aanvraag tot leerlingenvervoer indient vanwege de schooladministratie;<br>
+4° bepalingen over de beroepsprocedure in geval van niet-akkoord;<br>
+5° bepalingen over de centrale op- en afstapplaatsen en wie ze kan gebruiken;<br>
+6° bepalingen over mobiliteitscoaching en wie dat kan volgen;<br>
+7° bepalingen over vervoer op eigen kracht en wie dat kan gebruiken;<br>
+8° bepalingen over kinderopvang en wie dat kan gebruiken;<br>
+9° bepalingen over collectieve, individuele en alternatieve vervoersmodi zoals reeds uitgetest;<br>
+10° bepalingen over de wijze waarop omgegaan wordt met rechtsgelijkheid voor leerlingen die al dan niet al naar school zijn gegaan in de geografische regio.<br>
+<br>
+§ 3. Per regio, vermeld in paragraaf 1, wordt een werkplan voor toepassing op de inschrijvingen vanaf het schooljaar 2022-2023 ter goedkeuring voorgelegd aan de Vlaamse Regering in het schooljaar 2021-2022.<br>
+<br>
+Voor het schooljaar 2023-2024 wordt een nieuw werkplan opgesteld waarin de evaluatieresultaten van de pilootfase, die ten einde loopt in juni 2022, verwerkt worden. Het eindrapport van de evaluatiefase wordt aan de regio's bezorgd.<br>
+<br>
+Het werkplan, vermeld in het eerste en tweede lid, is minstens één schooljaar geldig. Als de Vlaamse Regering of een van de regio's, vermeld in paragraaf 1, elementen in het werkplan wil wijzigen voor het daaropvolgende schooljaar, kan dat alleen in onderling overleg. Het werkplan wordt bij wijziging opnieuw voorgelegd aan de Vlaamse Regering.<br>
+<br>
+§ 4. De werking van het leerlingenvervoer in de regio's, vermeld in paragraaf 1, wordt gemonitord door de Vlaamse Regering.<br>
+<br>
+§ 5. De overgangsregeling zoals omschreven in dit artikel zal vier schooljaren gelden vanaf het schooljaar 2022-2023.<br>
+<br>
+De overgangsregeling kan eerder beëindigd worden door de Vlaamse Regering indien er een nieuw regelgevend kader voor het leerlingenvervoer in werking treedt.
+
 ## Hoofdstuk 7 Schoolboekhouding
 
 ### ART IV.36.
@@ -1917,15 +1950,18 @@ Voor de berekening van het salaris of de salaristoelage worden de prestaties ver
 3° de personen tewerkgesteld als gesubsidieerde contractuelen in de onderwijsinstellingen en de centra voor leerlingenbegeleiding;<br>
 4° de contractuelen betaald ten laste van het departement Onderwijs, met uitzondering van deze van de centra voor basiseducatie;<br>
 5° de contractuelen, betaald met het werkingsbudget van de scholen, centra, internaten of tehuizen;<br>
-6° de personeelsleden van de Brusselse kinderdagverblijven van het gemeenschapsonderwijs gelegen in het tweetalige gebied Brussel-Hoofdstad.<br>
+6° de personeelsleden van de Brusselse kinderdagverblijven van het gemeenschapsonderwijs gelegen in het tweetalige gebied Brussel-Hoofdstad;<br>
+7° de personeelsleden, vermeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie in de basiseducatie.<br>
 &nbsp;<br>
-§2. De bepalingen van dit hoofdstuk zijn niet van toepassing op de personeelsleden van de centra voor basiseducatie.<br>
+§2. ...<br>
 &nbsp;<br>
 §3. De bepalingen van dit hoofdstuk zijn van toepassing op de personeelsleden van de hogescholen in de Vlaamse Gemeenschap, met uitzondering van artikel V.62, voor wat betreft de vervoerskosten en fietsvergoedingen gemaakt vanaf het kalenderjaar 2015.
 
 ### ART V.61.
 
-De personeelsleden, bedoeld in artikel V.60, hebben onder de modaliteiten bepaald door de Vlaamse Regering recht op de volledige terugbetaling van de kosten openbaar vervoer naar en van het werk en op een maandelijkse fietsvergoeding, ten laste van de werkgever.
+De personeelsleden, vermeld in artikel V.60, § 1, 1° tot en met 6°, hebben onder de modaliteiten bepaald door de Vlaamse Regering recht op de volledige terugbetaling van de kosten openbaar vervoer naar en van het werk, ten laste van de werkgever.<br>
+<br>
+Conform de modaliteiten die de Vlaamse Regering bepaalt, hebben de personeelsleden, vermeld in artikel V.60, recht op een maandelijkse fietsvergoeding, ten laste van de werkgever.
 
 ### ART V.62.
 
