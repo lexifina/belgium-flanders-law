@@ -969,33 +969,7 @@ De Vlaamse minister van Onderwijs is belast met de uitvoering van dit besluit.<b
 
 ### BIJLAGE I.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2021/08/18_1.pdf#page=227">Bijlage 1 Bekwaamheidsbewijzen en salarisschalen deeltijds kunstonderwijs, domeinen Muziek, Woordkunst-drama en Dans</a><br>
-<br>
-* Bij besluit van de Vlaamse Regering van 3 september 2021, BS 14 oktober 2021, wordt met ingang van 1 september 2021, in de bijlage de volgende wijziging aangebracht:<br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">tussen het kunstvak "Historische uitvoeringspraktijk" en het kunstvak "Improvisatie"&nbsp; wordt het ambt van "ICT-coördinator" ingevoegd, dat luidt als volgt:</span></span></span><br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">"ICT-coördinator</span></span></span>
-<table style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
-	<tbody>
-		<tr>
-			<td>vereiste</td>
-			<td>salarisschaal</td>
-		</tr>
-		<tr>
-			<td>ten minste HSO betrekking met puntenwaarde 63</td>
-			<td>202</td>
-		</tr>
-		<tr>
-			<td>ten minste bachelor betrekking met puntenwaarde 85</td>
-			<td>301</td>
-		</tr>
-		<tr>
-			<td>ten minste master betrekking met puntenwaarde 126</td>
-			<td>501</td>
-		</tr>
-	</tbody>
-</table>
-"<br>
-&nbsp;
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/14_2.pdf#page=2166">Bekwaamheidsbewijzen en salarisschalen deeltijds kunstonderwijs, domeinen Muziek, Woordkunst-drama en Dans vanaf 1 januari 2022</a>
 
 ### BIJLAGE II.
 
