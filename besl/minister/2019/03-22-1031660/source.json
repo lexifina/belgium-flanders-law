@@ -2,16 +2,16 @@
   "codex_id": 1031660,
   "title": "Ministerieel besluit van 2019-03-22 betreffende de regels voor de erkenning en de subsidiëring van groepsgericht aanbod opvoedingsondersteuning door vrijwilligers, gericht op gezinnen met kinderen of jongeren met specifieke ondersteuningsbehoeften",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031660/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "f87b28f7a05919537eded90496b96e14f69abd61802236d895c2b4888d0e04db",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031660/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "5a681d5389187ed42584e7c19451b0c60e48abb12a33cc5040fcc91dbf0f4a0f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031660&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2022-01-01",
   "made": "2019-03-22",
   "gazette": "2019-05-10",
   "numac": 2019041138,
   "document_start": "2019-01-01",
   "document_end": null,
-  "in_force": "2021-01-01",
+  "in_force": "2022-01-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
 }
