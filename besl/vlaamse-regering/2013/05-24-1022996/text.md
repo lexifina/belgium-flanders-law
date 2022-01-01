@@ -44,7 +44,7 @@ Het lokaal bestuur bepaalt zijn beleidsdoelstellingen voor kinderopvang en   laa
 
 ### ART. 6.
 
-Het lokaal bestuur neemt de beleidsdoelstellingen voor kinderopvang op in   de strategische meerjarenplanning, en voor de gemeenten uit het tweetalige   gebied Brussel-Hoofdstad in een beleidsnota die goedgekeurd is door de Raad van   de Vlaamse Gemeenschapscommissie. <BR>
+Het lokaal bestuur neemt de beleidsdoelstellingen voor kinderopvang op in de strategische meerjarenplanning.
 
 ## HOOFDSTUK 4 Over uitbreiding van de kinderopvang adviseren
 
@@ -54,7 +54,7 @@ Het lokaal bestuur neemt de beleidsdoelstellingen voor kinderopvang op in   de s
 1° een advies over de opportuniteit van een aanvraag vergunning voor de opstart of de uitbreiding van een kinderopvanglocatie groepsopvang in de gemeente;<br>
 2° een advies met eventueel een score over een aanvraag voor subsidieerbare kinderopvangplaatsen.</p>
 
-<p>Dat advies is gebaseerd op de strategische meerjarenplanning, en voor de gemeenten uit het tweetalige gebied Brussel-Hoofdstad op de beleidsnota, vermeld in artikel 6.<br>
+<p>Dat advies is gebaseerd op de strategische meerjarenplanning.<br>
 <br>
 Het lokaal bestuur voorziet in een procedure en criteria op basis waarvan het advies wordt opgemaakt. De procedure en de criteria voldoen aan de volgende voorwaarden:<br>
 1° de criteria zijn transparant, objectief en relevant. Het lokaal bestuur motiveert dat;<br>
