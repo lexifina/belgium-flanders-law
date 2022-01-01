@@ -56,6 +56,11 @@ De aangewende opbrengsten, vermeld in het eerste lid, worden niet verrekend met 
 <br>
 §5. De huurder betaalt de vergoeding, vermeld in paragraaf 1, eerste en tweede lid, met maandelijkse voorafbetalingen of afbetalingen. De verhuurder werkt een specifieke regeling verder uit in het interne huurreglement.”.
 
+### ART 9.
+
+In artikel 6.60, §1, tweede lid, van hetzelfde besluit, vervangen bij artikel 8 van dit besluit, wordt punt 1° vervangen door wat volgt:<br>
+“1° de federale bijzondere accijns per kWh, vermeld in artikel 419, k), van de programmawet van 27 december 2004 voor elektriciteit van de GN-code 2716;”.
+
 ### ART 14.
 
 Aan artikel 7.46 van hetzelfde besluit worden een tweede, een derde, een vierde, een vijfde en een zesde lid toegevoegd, die luiden als volgt:<br>
