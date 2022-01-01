@@ -305,7 +305,7 @@ Het bezwaar schort de uitvoering van de beslissing niet op.<br>
 
 ### ART 26.
 
-Ter uitvoering van artikel 8, tweede lid, van het decreet van 26 april 2019 ontvangt de voor het afstammingscentrum vergunde organisatie jaarlijks vanaf 2020, binnen de marge van de begrotingskredieten, een basissubsidie voor personeels- en werkingskosten van 306.581,66 euro (driehonderdenzesduizend vijfhonderdeenentachtig euro zesenzestig cent).<br>
+Ter uitvoering van artikel 8, tweede lid, van het decreet van 26 april 2019 ontvangt de voor het afstammingscentrum vergunde organisatie jaarlijks vanaf 2020, binnen de marge van de begrotingskredieten, een basissubsidie voor personeels- en werkingskosten van 307.708,67 euro (driehonderdenzevenduizend zevenhonderdenacht euro zevenenzestig cent).<br>
 <br>
 Het bedrag, vermeld in het eerste lid, wordt toegekend voor de werking gedurende een volledig kalenderjaar en wordt verminderd pro rata met de maanden waarin in het jaar in kwestie geen prestaties zijn geleverd.<br>
 <br>
