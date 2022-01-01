@@ -65,7 +65,7 @@ Binnen het kader van de missie en de taken van het VIPA kan de Vlaamse Regering 
 
 ### ART. 9.
 
-Het VIPA neemt het eigenaarsonderhoud, de verbouwingswerkzaamheden en de kosten van de eerste uitrusting ten laste van het Centrum voor Opleiding en Vervolmaking van de kaderleden in Overijse.<br /><br />
+...
 
 ### ART. 10.
 
@@ -86,7 +86,30 @@ Onverminderd eventuele andere onverenigbaarheden is de functie van hoofd van het
 
 ### ART. 13.
 
-§ 1. De middelen waarover het VIPA beschikt, zijn :<br />1° dotaties;<br />2° de stortingen van een bijdrage op de gewaarborgde sommen;<br />3° huurgelden betreffende gronden of gebouwen waarvan het eigenaarsonderhoud, vermeld in artikel 9, werd toevertrouwd aan het VIPA, als-ook de volledige opbrengst uit de verkoop van die gronden of gebouwen;<br />4° alle inkomsten die voortvloeien uit de terugvordering van de verleende financiering, tegemoetkomingen, investeringssubsidies of -waarborgen door het Vlaams Fonds voor de Bouw van Ziekenhuizen en Medisch-Sociale Instellingen, door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, opgericht bij het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden, of door het VIPA, alsmede alle inkomsten die ingevolge de rechtsopvolging, vermeld in artikel 26, eerste en tweede lid, voort-vloeien uit de terugvordering van de verleende investeringssubsidies door de instelling Kind en Gezin, opgericht bij het decreet van 29 mei 1984 houdende oprichting van de instelling Kind en Gezin, door de instelling Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap, opgericht bij het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap, of door de rechtsvoorgangers van dat Vlaams fonds;<br />5° schenkingen en legaten in speciën;<br />6° het eventuele saldo op het einde van het voor-gaande begrotingsjaar;<br />7° alle inkomsten die voortvloeien uit publicaties en diensten die door het VIPA aan derden worden verstrekt tegen betaling;<br />8° toevallige ontvangsten;<br />9° alle inkomsten die voortvloeien uit de taken, vermeld in artikel 10;<br />10° ontvangsten die voortvloeien uit daden van beheer of beschikking met betrekking tot de eigen domeingoederen;<br />11° inkomsten uit eigen participaties en uit door het VIPA verstrekte leningen aan derden;<br />12° opbrengsten uit de verkoop van eigen participaties;<br />13° de subsidies waarvoor het VIPA als begunstigde in aanmerking komt;<br />14° terugvorderingen van ten onrechte gedane uitgaven;<br />15° de inkomsten uit sponsoring;<br />16° leningen;<br />17° inkomsten uit beleggingen;<br />18° inkomsten, door derden verstrekt in het kader van de taken van het VIPA.<br /><br />§ 2. Tenzij het anders is bepaald in het decreet, worden de ontvangsten, vermeld in § 1, beschouwd als ontvangsten die bestemd zijn voor de gezamenlijke uitgaven.<br /><br />§ 3. Het VIPA kan schenkingen of legaten.ontvangen. Het hoofd van het VIPA beoordeelt vooraf de opportuniteit en de risico's die verbonden zijn aan de aanvaarding.<br /><br />
+§ 1. De middelen waarover het VIPA beschikt, zijn :<br>
+1° dotaties;<br>
+2° de stortingen van een bijdrage op de gewaarborgde sommen;<br>
+3° ...<br>
+4° alle inkomsten die voortvloeien uit de terugvordering van de verleende financiering, tegemoetkomingen, investeringssubsidies of -waarborgen door het Vlaams Fonds voor de Bouw van Ziekenhuizen en Medisch-Sociale Instellingen, door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, opgericht bij het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden, of door het VIPA, alsmede alle inkomsten die ingevolge de rechtsopvolging, vermeld in artikel 26, eerste en tweede lid, voort-vloeien uit de terugvordering van de verleende investeringssubsidies door de instelling Kind en Gezin, opgericht bij het decreet van 29 mei 1984 houdende oprichting van de instelling Kind en Gezin, door de instelling Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap, opgericht bij het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap, of door de rechtsvoorgangers van dat Vlaams fonds;<br>
+5° schenkingen en legaten in speciën;<br>
+6° het eventuele saldo op het einde van het voor-gaande begrotingsjaar;<br>
+7° alle inkomsten die voortvloeien uit publicaties en diensten die door het VIPA aan derden worden verstrekt tegen betaling;<br>
+8° toevallige ontvangsten;<br>
+9° alle inkomsten die voortvloeien uit de taken, vermeld in artikel 10;<br>
+10° ontvangsten die voortvloeien uit daden van beheer of beschikking met betrekking tot de eigen domeingoederen;<br>
+11° inkomsten uit eigen participaties en uit door het VIPA verstrekte leningen aan derden;<br>
+12° opbrengsten uit de verkoop van eigen participaties;<br>
+13° de subsidies waarvoor het VIPA als begunstigde in aanmerking komt;<br>
+14° terugvorderingen van ten onrechte gedane uitgaven;<br>
+15° de inkomsten uit sponsoring;<br>
+16° leningen;<br>
+17° inkomsten uit beleggingen;<br>
+18° inkomsten, door derden verstrekt in het kader van de taken van het VIPA.<br>
+<br>
+§ 2. Tenzij het anders is bepaald in het decreet, worden de ontvangsten, vermeld in § 1, beschouwd als ontvangsten die bestemd zijn voor de gezamenlijke uitgaven.<br>
+<br>
+§ 3. Het VIPA kan schenkingen of legaten.ontvangen. Het hoofd van het VIPA beoordeelt vooraf de opportuniteit en de risico's die verbonden zijn aan de aanvaarding.<br>
+&nbsp;
 
 ### ART. 14.
 
