@@ -51,9 +51,12 @@ In dit besluit wordt verstaan onder:<br>
 1° de onderneming werft vanaf 1 januari 2017 tot en met 31 december 2019 een niet-werkende werkzoekende aan die op het ogenblik van zijn indiensttreding aan de volgende voorwaarden voldoet:<br>
 a) hij is gedurende minstens twee jaar als niet-werkende werkzoekende bij de VDAB ingeschreven;<br>
 b) op het einde van het kwartaal van de indiensttreding is hij minstens 25 jaar en heeft hij de leeftijd van 55 jaar nog niet bereikt.<br>
-1° bis de onderneming werft vanaf 1 januari 2020 een niet-werkende werkzoekende aan die op het ogenblik van zijn indiensttreding aan al de volgende voorwaarden voldoet:<br>
+1° bis de onderneming werft vanaf 1 januari 2020 tot en met 31 december 2021 een niet-werkende werkzoekende aan die op het ogenblik van zijn indiensttreding aan al de volgende voorwaarden voldoet:<br>
 a) hij is gedurende minstens twee jaar als niet-werkende werkzoekende bij de VDAB ingeschreven;<br>
 b) op het einde van het kwartaal van de indiensttreding is hij minstens 25 jaar en heeft hij de leeftijd van 56 jaar nog niet bereikt;<br>
+1° ter de onderneming werft vanaf 1 januari 2022 een niet-werkende werkzoekende aan die op het ogenblik van indiensttreding aan al de volgende voorwaarden voldoet:<br>
+a) gedurende minstens twee jaar als niet-werkende werkzoekende bij de VDAB ingeschreven zijn;<br>
+b) op het einde van het kwartaal van de indiensttreding minstens 25 jaar zijn en de leeftijd van 58 jaar nog niet bereikt hebben;<br>
 2° de onderneming sluit met de niet-werkende werkzoekende een arbeidsovereenkomst van onbepaalde duur die voldoet aan de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten;<br>
 3° de onderneming stelt de niet-werkende werkzoekende tewerk in een exploitatiezetel in het Vlaamse Gewest.<br>
 <br>
