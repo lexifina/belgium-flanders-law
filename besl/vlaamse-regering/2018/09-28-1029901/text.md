@@ -59,7 +59,7 @@ Deelnemers zijn evenwel vrijgesteld van het onderdeel, vermeld in artikel 2, eer
 
 ### ART 5.
 
-Nadat de deelnemers de drie onderdelen, vermeld in artikel 2, eerste lid, gevolgd hebben, wordt een attest terugkommoment afgeleverd, waarvan het model is opgenomen in bijlage 2, die bij dit besluit is gevoegd. De minister kan het model wijzigen.
+Nadat de deelnemers de drie onderdelen, vermeld in artikel 2, eerste lid, gevolgd hebben, wordt een attest terugkommoment afgeleverd, waarvan de minister het model bepaalt.&nbsp;
 
 ## HOOFDSTUK III. Termijn waarin het terugkommoment gevolgd moet worden
 
@@ -336,11 +336,9 @@ De opleidingsverstrekker bezorgt voor de goedkeuring, vermeld in het derde lid, 
 
 ### ART 37.
 
-Na afloop van de basisopleiding, vermeld in artikel 33, reikt de opleidingsverstrekker een getuigschrift uit aan de lesgever, waarvan het model is opgenomen in bijlage 5, die bij dit besluit is gevoegd.<br>
+Na afloop van de basisopleiding, vermeld in artikel 33, reikt de opleidingsverstrekker een getuigschrift uit aan de lesgever, waarvan de minister het model bepaalt.<br>
 <br>
-Na afloop van de bijkomende opleiding, vermeld in artikel 34, reikt de opleidingsverstrekker een getuigschrift uit aan de lesgever, waarvan het model is opgenomen in bijlage 6, die bij dit besluit is gevoegd.<br>
-<br>
-De minister kan de modellen wijzigen.
+Na afloop van de bijkomende opleiding, vermeld in artikel 34, reikt de opleidingsverstrekker een getuigschrift uit aan de lesgever, waarvan de minister het model bepaalt.
 
 ### ART 38.
 
@@ -500,7 +498,7 @@ De personeelsleden die het hoofd van het bestuur aanwijst, oefenen de functie va
 
 ### ART 55/1.
 
-De nadere voorwaarden van het proces-verbaal, vermeld in artikel 10, § 3, eerste lid, van het decreet van 9 maart 2018, zijn opgenomen in het model dat is opgenomen in bijlage 7, die bij dit besluit is gevoegd.
+De nadere voorwaarden van het proces-verbaal, vermeld in artikel 10, § 3, eerste lid, van het decreet van 9 maart 2018, zijn opgenomen in het model dat de minister bepaalt.
 
 ### ART 55/2.
 
@@ -656,7 +654,7 @@ De Vlaamse minister, bevoegd voor het verkeersveiligheidsbeleid, is belast met d
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/11/14_1.pdf#page=26">Bijlage 2</a>
+...
 
 ### BIJLAGE
 
@@ -668,12 +666,12 @@ De Vlaamse minister, bevoegd voor het verkeersveiligheidsbeleid, is belast met d
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/11/14_1.pdf#page=31">Bijlage 5</a>
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/11/14_1.pdf#page=33">Bijlage 6</a>
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/09/11_1.pdf#page=44">Bijlage 7. Model van het proces-verbaal als vermeld in artikel 55/1</a>
+...
