@@ -67,11 +67,13 @@ De bedragen in dit besluit zijn uitgedrukt tegen 100% en worden gekoppeld aan he
 
 § 1. De subsidie geldt per kalenderjaar. In afwijking daarvan ontvangt de organisator die stopt, de subsidie alleen voor de periode van 1 januari tot en met de laatste dag vóór zijn stopzetting.<br>
 <br>
-De subsidie wordt berekend op basis van het aantal gesubsidieerde opvangplaatsen op 1 januari van het kalenderjaar waarvoor de subsidie geldt of op basis van de personen die bij de organisator werken op 1 januari van het kalenderjaar waarvoor de subsidie geldt.<br>
+De subsidie wordt berekend op basis van het aantal gesubsidieerde opvangplaatsen op 1 januari van het kalenderjaar waarvoor de subsidie geldt of op basis van de personen die bij de organisator werken op 1 januari van het kalenderjaar waarvoor de subsidie geldt.&nbsp;In afwijking daarvan wordt de bijkomende subsidie, vermeld in artikel 14/1, berekend op basis van het aantal vergunde plaatsen op 1 september van het kalenderjaar dat voorafgaat aan het kalenderjaar waarvoor de subsidie geldt. Bij een stopzetting wordt de voormelde subsidie pro rata toegekend.<br>
 <br>
 § 2. De subsidie wordt betaald met één voorschot per jaar en bedraagt maximaal 80% van de geraamde subsidie. Dat voorschot wordt betaald uiterlijk op 30 juni van het kalenderjaar in kwestie. Het saldo wordt uiterlijk afgerekend op 1 april van het kalenderjaar dat volgt op het kalenderjaar in kwestie.<br>
 <br>
-In afwijking van het eerste lid kan het agentschap, bij ernstige problemen bij de organisator, en minstens als er een risico is op plotse stopzetting van de specifieke dienstverlening, of bij vermoeden van fraude door de organisator beslissen om een specifieke regeling toe te passen voor de uitbetaling van de voorschotten.
+In afwijking van het eerste lid kan het agentschap, bij ernstige problemen bij de organisator, en minstens als er een risico is op plotse stopzetting van de specifieke dienstverlening, of bij vermoeden van fraude door de organisator beslissen om een specifieke regeling toe te passen voor de uitbetaling van de voorschotten.<br>
+<br>
+In afwijking van het eerste lid wordt voor de bijkomende subsidie, vermeld in artikel 14/1, per kwartaal een voorschot van 95% uitbetaald in de eerste maand van elk kwartaal.
 
 ### ART 5.
 
@@ -109,12 +111,12 @@ Een organisator groepsopvang met een subsidie voor inkomenstarief T2a die geen o
 ### ART 8/1.
 
 Een organisator groepsopvang met een subsidie voor inkomenstarief T2a die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor koopkrachtondersteuning. De subsidie bedraagt:<br>
-1° 231,85 euro per gesubsidieerde kinderopvangplaats als de gemiddelde leeftijd van de personen, vermeld in artikel 5, vierde lid, twintig jaar is;<br>
-2° voor elk jaar boven op de gemiddelde leeftijd, vermeld in punt 1°, van twintig jaar, tot maximaal een gemiddelde leeftijd van zestig jaar wordt het bedrag, vermeld in punt 1°, verhoogd met 3,30 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie T2a ontvangt.<br>
+1° 289,85 euro per gesubsidieerde kinderopvangplaats als de gemiddelde leeftijd van de personen, vermeld in artikel 5, vierde lid, twintig jaar is;<br>
+2° voor elk jaar boven op de gemiddelde leeftijd, vermeld in punt 1°, van twintig jaar, tot maximaal een gemiddelde leeftijd van zestig jaar wordt het bedrag, vermeld in punt 1°, verhoogd met 4,53 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie T2a ontvangt.<br>
 <br>
 Een organisator groepsopvang met een subsidie voor inkomenstarief T2b die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor koopkrachtondersteuning. De subsidie bedraagt:<br>
-1° 188,11 euro per gesubsidieerde kinderopvangplaats als de gemiddelde leeftijd van de personen, vermeld in artikel 5, vierde lid, twintig jaar is;<br>
-2° voor elk jaar boven op de gemiddelde leeftijd, vermeld in punt 1°, van twintig jaar, tot maximaal een gemiddelde leeftijd van zestig jaar, wordt het bedrag, vermeld in punt 1°, verhoogd met 2,70 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie T2b ontvangt.
+1° 235,17 euro per gesubsidieerde kinderopvangplaats als de gemiddelde leeftijd van de personen, vermeld in artikel 5, vierde lid, twintig jaar is;<br>
+2° voor elk jaar boven op de gemiddelde leeftijd, vermeld in punt 1°, van twintig jaar, tot maximaal een gemiddelde leeftijd van zestig jaar, wordt het bedrag, vermeld in punt 1°, verhoogd met 3,70 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie T2b ontvangt.
 
 ### ART 9.
 
@@ -122,7 +124,7 @@ Een organisator groepsopvang met een subsidie voor inkomenstarief T2a of T2b die
 
 ### ART 9/1.
 
-Een organisator groepsopvang met een basissubsidie voor groepsopvang als vermeld in artikel 12 van het Subsidiebesluit van 22 november 2013, die een openbaar bestuur is, ontvangt van het agentschap een subsidie voor koopkrachtondersteuning. De subsidie bedraagt 384,04 euro per gesubsidieerde kinderopvangplaats.
+Een organisator groepsopvang met een basissubsidie voor groepsopvang als vermeld in artikel 12 van het Subsidiebesluit van 22 november 2013, die een openbaar bestuur is, ontvangt van het agentschap een subsidie voor koopkrachtondersteuning. De subsidie bedraagt&nbsp;558,35 euro per gesubsidieerde kinderopvangplaats.
 
 ## Afdeling 2 Gezinsopvang
 
@@ -143,12 +145,12 @@ Een organisator gezinsopvang met een subsidie voor inkomenstarief T2a die geen o
 ### ART 12/1.
 
 Een organisator gezinsopvang met een subsidie voor inkomenstarief T2a die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor koopkrachtondersteuning. De subsidie bedraagt:<br>
-1° 17,08 euro per gesubsidieerde kinderopvangplaats als de gemiddelde leeftijd van de personen, vermeld in artikel 5, vierde lid, twintig jaar is;<br>
-2° voor elk jaar boven op de gemiddelde leeftijd, vermeld in punt 1°, van twintig jaar, tot maximaal een gemiddelde leeftijd van zestig jaar, wordt het bedrag, vermeld in punt 1°, verhoogd met 0,20 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie T2a ontvangt.<br>
+1° 21,41 euro per gesubsidieerde kinderopvangplaats als de gemiddelde leeftijd van de personen, vermeld in artikel 5, vierde lid, twintig jaar is;<br>
+2° voor elk jaar boven op de gemiddelde leeftijd, vermeld in punt 1°, van twintig jaar, tot maximaal een gemiddelde leeftijd van zestig jaar, wordt het bedrag, vermeld in punt 1°, verhoogd met 0,24 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie T2a ontvangt.<br>
 <br>
 Een organisator gezinsopvang met een subsidie voor inkomenstarief T2b die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor koopkrachtondersteuning. De subsidie bedraagt:<br>
-1° 13,61 euro per gesubsidieerde kinderopvangplaats als de gemiddelde leeftijd van de personen, vermeld in artikel 5, vierde lid, twintig jaar is;<br>
-2° voor elk jaar boven op de gemiddelde leeftijd, vermeld in punt 1°, van twintig jaar, tot maximaal een gemiddelde leeftijd van zestig jaar wordt het bedrag, vermeld in punt 1°, verhoogd met 0,16 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie T2b ontvangt.
+1° 17,06 euro per gesubsidieerde kinderopvangplaats als de gemiddelde leeftijd van de personen, vermeld in artikel 5, vierde lid, twintig jaar is;<br>
+2° voor elk jaar boven op de gemiddelde leeftijd, vermeld in punt 1°, van twintig jaar, tot maximaal een gemiddelde leeftijd van zestig jaar wordt het bedrag, vermeld in punt 1°, verhoogd met 0,19 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie T2b ontvangt.
 
 ### ART 13.
 
@@ -161,6 +163,78 @@ Een organisator gezinsopvang met een subsidie voor inkomenstarief T2a of T2b die
 Een organisator gezinsopvang met een subsidie voor inkomenstarief T2a of T2b die geen openbaar bestuur is, ontvangt van het agentschap Opgroeien regie een subsidie voor de coördinatiefunctie van 16,52 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie voor inkomenstarief T2a of T2b ontvangt.
 
 ## [Afdeling 3. Subsidie aan sommige organisatoren kinderopvang voor de ondersteuning van de kinderbegeleiders op de werkvloer (ing. BVR 11 maart 2022, art. 2, I: 1 januari 2022)]
+
+### ART 14/1.
+
+De organisatoren groepsopvang die conform artikel 18 van het subsidiebesluit van 22 november 2013 een subsidie voor inkomenstarief ontvangen voor meer dan achttien plaatsen, ontvangen jaarlijks een bijkomende subsidie van 126,05 euro per vergunde plaats voor de financiële ondersteuning van de doelstellingen, vermeld in artikel 14/2. Van de bijkomende subsidie wordt minstens 90% rechtstreeks ingezet voor de ondersteuning van de kinderbegeleiders op de werkvloer en maximaal 10% voor overheadkosten.<br>
+<br>
+In het eerste lid wordt verstaan onder overheadkosten: het geheel van kosten voor coördinatie, sturing en ondersteuning van de concrete activiteiten.
+
+### ART 14/2.
+
+De organisatoren besteden de bijkomende subsidie, vermeld in artikel 14/1, om de ondersteuners van de kinderbegeleiders op de werkvloer in te zetten.<br>
+<br>
+De ondersteuning op de werkvloer, vermeld in het eerste lid, heeft de volgende doelstellingen:<br>
+1° kinderbegeleiders versterken in hun beroepscompetenties, vermeld in het beroepskwalificatieprofiel voor kinderbegeleiders, dat is opgenomen in de bijlage bij het besluit van de Vlaamse Regering van 21 april 2017 tot erkenning van de beroepskwalificatie van kinderbegeleider baby's en peuters;<br>
+2° samen met de kinderbegeleider instaan voor verzorgende en pedagogische taken bij de kinderen, en daarbij de kinderbegeleider ondersteunen op het vlak van:<br>
+a) de diverse ontwikkelingsaspecten van kinderen;<br>
+b) de aspecten van veiligheid en gezondheid in de opvang van kinderen;<br>
+c) de omgang en de communicatie met de gezinnen;<br>
+d) het inclusief omgaan met kinderen met specifieke zorgbehoeften en kinderen uit kwetsbare gezinnen;<br>
+3° samen met de verantwoordelijke en de kinderbegeleiders de dagelijkse praktijk aftoetsen aan het pedagogisch beleid van de organisator en verbeterpunten planmatig aanpakken, met kennis van de lokale netwerken die gericht zijn op het geïntegreerd beleid voor kinderen, jongeren en gezinnen;<br>
+4° in staat zijn om met betrekking tot verontrustende situaties:<br>
+a) deze te detecteren;<br>
+b) deze te bespreken met de organisator;<br>
+c) deze samen met de organisator mee op te volgen in functie van het herstel van de veiligheid;<br>
+d) het agentschap te informeren als er door de organisator geen passend gevolg gegeven wordt aan de bespreking en de opvolging vermeld in punt b) en c);<br>
+5° ondersteuning bieden tijdens of na afloop van een bezoek van Zorginspectie in het kader van een begeleidings- of opvolgingstraject van het agentschap en dit binnen de opdrachten van de ondersteuner als vermeld in deze bepaling.<br>
+<br>
+De ondersteuning van de kinderbegeleiders houdt rekening met het pedagogisch raamwerk dat in september 2014 is ontwikkeld door de vakgroep sociale agogiek van de universiteit Gent en het expertisecentrum ervaringsgericht onderwijs van de Katholieke Universiteit Leuven, in opdracht van het agentschap.
+
+### ART 14/3.
+
+De organisator groepsopvang, vermeld in artikel 14/1, zet minstens 0,2 voltijdsequivalent ondersteuner op de werkvloer in voor de doeleinden, vermeld in artikel 14/2.
+
+### ART 14/4.
+
+De organisator groepsopvang, vermeld in artikel 14/1, kan ervoor kiezen om de middelen voor de ondersteuning op de werkvloer in te zetten via een samenwerkingsverband als vermeld in artikel 14/5. De organisator is verplicht om dat te doen als hij niet kan voldoen aan de voorwaarde, vermeld in artikel 14/3.<br>
+<br>
+Bij een samenwerkingsverband als vermeld in het eerste lid, zet de organisator groepsopvang minstens 0,5 voltijdsequivalent ondersteuner op de werkvloer in.
+
+### ART 14/5.
+
+De organisator groepsopvang, vermeld in artikel 14/1 van dit besluit, kan de ondersteuning op de werkvloer organiseren via de volgende samenwerkingsverbanden:<br>
+1° een lokaal of regionaal samenwerkingsverband;<br>
+2° een samenwerkingsverband met een of meer organisatoren groepsopvang als vermeld in artikel 14/1 van dit besluit;<br>
+3° een samenwerkingsverband met een organisatie waartoe de organisator structureel behoort of met een andere organisatie als die beschikt over voldoende competenties op het vlak van ondersteuning van kinderbegeleiders;<br>
+4° het ondersteuningsnetwerk kinderopvang, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 23 februari 2018 houdende toekenning van een subsidie aan het ondersteuningsnetwerk kinderopvang;<br>
+5° een pool gezinsopvang als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 22 februari 2019 houdende de toekenning van een subsidie aan pools gezinsopvang.
+
+### ART 14/6.
+
+Als de organisator niet zelf de ondersteuningsopdracht, vermeld in artikel 14/2, opneemt, sluit hij een ondersteuningsovereenkomst met de dienstverleners. In die ondersteuningsovereenkomst worden al de volgende elementen vastgelegd:<br>
+1° de wijze waarop de ondersteuning in de locatie wordt aangeboden;<br>
+2° de concrete afspraken en modaliteiten van de ondersteuning op de werkvloer;<br>
+3° de gegevens over de kwalificatie en competenties van de ondersteuner op de werkvloer die voor de organisator is aangesteld;<br>
+4° de contactgegevens van de ondersteuner die voor de organisator is aangesteld;<br>
+5° de wijze waarop de subsidies, vermeld in artikel 14/1, worden ingezet in het samenwerkingsverband, vermeld in artikel 14/5, en de wijze waarop de vergoeding van de kosten voor de ondersteuning op de werkvloer ten laste worden genomen;<br>
+6° de wijze waarop de ondersteuning op de werkvloer wordt geëvalueerd.<br>
+<br>
+In het eerste lid wordt verstaan onder dienstverlener: de vereniging of het samenwerkingsverband, vermeld in artikel 14/5, die de ondersteuning op de werkvloer, vermeld in artikel 14/2, voor de organisator realiseert.
+
+### ART 14/7.
+
+De ondersteuners van de kinderbegeleiders beschikken over:<br>
+1° minimaal een kwalificatie van bachelorniveau;<br>
+2° competenties of ervaring op pedagogisch vlak inzake kinderopvang van baby's en peuters.
+
+### ART 14/8.
+
+Het agentschap evalueert de inzet van de ondersteuners over de subsidieperiode van de eerste drie jaar.<br>
+<br>
+De organisatoren groepsopvang, vermeld in artikel 14/1, bezorgen op verzoek van het agentschap alle nodige inlichtingen voor de evaluatie, vermeld in het eerste lid.<br>
+<br>
+De organisatoren groepsopvang, vermeld in artikel 14/1, houden uiterlijk op 15 februari van elk jaar dat volgt op de gesubsidieerde periode een functionele en financiële verantwoording ter beschikking van het agentschap, waarbij de inzet van de ontvangen subsidies wordt verantwoord met het oog op de doelstellingen, vermeld in artikel 14/2. Het agentschap kan de minimale inhoud voor de financiële en functionele verantwoording bepalen.
 
 ## HOOFDSTUK 3 Buitenschoolse opvang
 
@@ -202,7 +276,9 @@ Een organisator met een subsidie voor initiatief voor buitenschoolse opvang die 
 Een organisator met een subsidie voor initiatief voor buitenschoolse opvang die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor koopkrachtondersteuning. De subsidie bedraagt:<br>
 1° 283,07 euro per equivalentvolle opvangplaats voor de eerste 21 equivalentvolle opvangplaatsen;<br>
 2° 141,53 euro per equivalentvolle opvangplaats vanaf de 22ste equivalentvolle opvangplaats;<br>
-3° 94,36 euro per equivalentvolle opvangplaats vanaf de 23ste equivalentvolle opvangplaats.
+3° 94,36 euro per equivalentvolle opvangplaats vanaf de 23ste equivalentvolle opvangplaats.<br>
+<br>
+De organisatoren, vermeld in het eerste lid, ontvangen een bijkomend bedrag voor koopkrachtondersteuning dat door het agentschap wordt berekend op basis van hun aandeel in de transitiesubsidie erkend. Het voormelde bijkomende bedrag wordt ten vroegste geïndexeerd vanaf 1 januari 2023.
 
 ### ART 20.
 
