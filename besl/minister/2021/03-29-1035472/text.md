@@ -37,6 +37,10 @@ In artikel 5 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 2
 2° er wordt een derde lid toegevoegd, dat luidt als volgt:<br>
 "In afwijking van het tweede lid is de uiterste indieningsdatum voor het schooljaar 2020-2021 31 augustus 2021 voor een steunaanvraag die betrekking heeft op een verstrekking als vermeld in artikel 5, tweede en derde lid, van het besluit van 21 april 2017.".
 
+### ART 4.
+
+In artikel 5 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 20 september 2018 en dit besluit, wordt het derde lid opgeheven.
+
 ### ART 5.
 
 Artikel 4 treedt in werking op 1 januari 2022.
