@@ -45,6 +45,8 @@ De budgetcategorie die ter beschikking gesteld wordt aan de budgethouder, wordt 
 <br>
 De zorggebonden punten kunnen omgezet worden in bedragen in euro aan de hand van de omslagsleutel, vermeld in artikel 17, derde lid, van het besluit van 27 november 2015, die wordt geïndexeerd conform artikel 17, vierde lid, van het voormelde besluit.<br>
 <br>
+Om de zorggeboden punten om te zetten in bedragen in euro in het jaar 2022, wordt de omslagsleutel, vermeld in artikel 17, derde lid, van het besluit van 27 november 2015, die is geïndexeerd conform artikel 17, vierde lid, van het voormelde besluit, verhoogd met 3,204 %.<br>
+<br>
 De budgethouder kan het budget gebruiken als een voucher, als een cashbudget of als een combinatie van beide.
 
 ### ART 3.
