@@ -830,6 +830,42 @@ Voor onttrekkingen met water- of aaltonnen groter dan 10 m<sup>3</sup> wordt gee
 
 ## Onderafdeling 2. Melding tot onttrekken
 
+### ART 30.
+
+§ 1. Een onttrekking uit een onbevaarbare waterloop of een publieke gracht dient steeds vooraf gemeld te worden aan de betrokken waterbeheerder of de beheerder van de publieke gracht.<br>
+<br>
+In afwijking van het eerste lid zijn de volgende handelingen niet onderworpen aan een melding, voor zover de onttrekking minder dan 500 m<sup>3</sup> per jaar bedraagt:<br>
+1° weidepompen gebruiken om dieren te drenken;<br>
+2° spuittoestellen vullen om gewasbeschermingsmiddelen te gebruiken, op voorwaarde dat de gebruiker van de toestellen dusdanig te werk gaat dat er geen risico op puntverontreiniging is;<br>
+3° een water- of aalton van maximaal 10 m<sup>3</sup> vullen;<br>
+4° zonnepompen voor weidevogels en de pompen voor veedrinkpoelen.<br>
+<br>
+§ 2. Als er voor een onttrekking met een vaste inrichting een omgevingsvergunning voor stedenbouwkundige handelingen is waarvoor toepassing is gemaakt van artikel 12, § 1, derde lid, van de wet van 28 december 1967, of als hiervoor een machtiging van de waterbeheerder is, dan geldt deze omgevingsvergunning of deze machtiging als melding vermeld in paragraaf 3. Dit op voorwaarde dat de houder van de omgevingsvergunning of de machtiging de nodige gegevens over de onttrokken hoeveelheden en het voldoen aan de voorwaarden uit artikel 29, § 2 en artikel 29, § 4, bezorgt aan de waterbeheerder of de beheerder van de publieke gracht.<br>
+<br>
+Indien vaste inrichtingen opgericht werden voor de inwerkingtreding van dit artikel, verzoekt de waterbeheerder of de beheerder van de publieke gracht de houder van de omgevingsvergunning of machtiging om de informatie vermeld in het eerste lid waarover de overheid nog niet zou beschikken, aan hem te bezorgen. De houder bezorgt deze informatie binnen de 30 dagen volgend op de ontvangst van het verzoek.<br>
+<br>
+Voor vaste inrichtingen waarbij voor de omgevingsvergunning geen gebruik is gemaakt van artikel 12, derde lid, van de wet van 28 december 1967, en waarvoor geen machtiging van de waterbeheerder werd gekregen, moet de onttrekker de procedure uit paragraaf 3 volgen.<br>
+<br>
+§ 3. De onttrekker doet de melding voor de voorgenomen onttrekking aan de bevoegde waterbeheerder of de beheerder van de publieke gracht, vermeld in artikel 7 of 23ter van de wet van 28 december 1967, via een elektronisch loket.<br>
+<br>
+De melding bevat de volgende gegevens:<br>
+1° identificatie van de aanvrager:<br>
+a) naam van de natuurlijke persoon of van de rechtspersoon, die de melding indient of namens wie ze wordt ingediend;<br>
+b) woonplaats en volledig adres van de aanvrager en in het voorkomend geval de maatschappelijke, administratieve en exploitatiezetel(s);<br>
+2° de technische gegevens van de onttrekkingswijze<br>
+a) een technische beschrijving van onttrekkingsinstallatie;<br>
+b) een technische beschrijving van het debietmetingssysteem waarmee de onttrekking wordt uitgerust;<br>
+3° de locatie waar onttrokken zal worden;<br>
+4° de duur van de onttrekking die ten hoogste dertig dagen mag zijn;<br>
+5° het debiet en de hoeveelheid water die onttrokken zal worden;<br>
+6° de toepassing van het water.<br>
+<br>
+De minister kan technische gegevens over de onttrekkingswijze die deel uitmaken van de melding nader regelen.<br>
+<br>
+In het kader van de informatieoverdracht, vermeld in het eerste lid, worden de gegevens die kunnen leiden tot de identificatie van natuurlijke personen of gegevens die daarmee gekoppeld kunnen worden, verwerkt met toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens. De waterbeheerder of de beheerder van de publieke gracht wordt naargelang het geval hierbij aangewezen als verwerkingsverantwoordelijke. De minister kan de concrete taakverdeling tussen de aangewezen verwerkingsverantwoordelijken onderling regelen. De gegevens worden verwerkt om de onttrekking te kunnen organiseren, opvolgen en handhaven. De bewaartermijn van die niet- geanonimiseerde gegevens is vijf jaar na de stopzetting van de onttrekking.<br>
+<br>
+§ 4. De bevoegde waterbeheerder of beheerder van de publieke gracht gaat na of de melding alle informatie bevat vermeld in paragraaf 3, tweede lid. Desgevallend wordt de ontbrekende informatie opgevraagd bij de aanvrager. Pas na ontvangst van alle ontbrekende informatie wordt de melding als volledig beschouwd.
+
 ### ART 31.
 
 § 1. Binnen achtenveertig uur na de melding, tot onttrekking bij de bevoegde waterbeheerder of de beheerder van de publieke gracht, beoordeelt deze de melding overeenkomstig artikel 30, § 3 op volledigheid en bezorgt de aanvrager desgevallend een bewijs van volledige melding, het onttrekkingsticket genaamd. Indien de waterbeheerder geen uitspraak doet binnen achtenveertig uur, wordt de melding geacht volledig te zijn. De minister kan het model bepalen voor het onttrekkingsticket.<br>
