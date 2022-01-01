@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036955,
+  "title": "Besluit van de Vlaamse Regering van 2022-04-01 tot wijziging van het besluit van de Vlaamse Regering van 3 april 2020 tot regeling van bepaalde tijdelijke maatregelen in de beleidsvelden jeugd en media door de civiele noodsituatie met betrekking tot de volksgezondheid ingevolge het coronavirus COVID-19",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036955/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "c48c051e68885d37539dabc42719e93c6ed6bba4279541f685804082fc282a99",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036955&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2022-04-01",
+  "gazette": "2022-04-27",
+  "numac": 2022040879,
+  "document_start": "2022-05-07",
+  "document_end": null,
+  "in_force": "2022-01-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
