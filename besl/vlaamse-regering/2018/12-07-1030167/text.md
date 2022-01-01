@@ -99,17 +99,17 @@ Besluit :
 In dit besluit wordt verstaan onder:<br>
 1° agentschap: het agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
 2° beheerinstantie: een of meer personen die een initiatief van beschut wonen of een psychiatrisch verzorgingstehuis vertegenwoordigen en juridisch kunnen binden;<br>
-3° budget: het budget, vermeld in artikel 95 van de gecoördineerde wet van 10 juli 2008, dat voor ieder revalidatieziekenhuis afzonderlijk wordt vastgesteld en vereffend;<br>
+3° ...;<br>
 4° context: de familie en de naastbetrokkenen die een sociale en emotionele band hebben met de zorggebruiker;<br>
 5° Controledienst voor de ziekenfondsen en de landsbonden van ziekenfondsen: de Controledienst voor de ziekenfondsen en de landsbonden van ziekenfondsen, vermeld in artikel 49, § 1, van de wet van 6 augustus 1990 betreffende de ziekenfondsen en de landsbonden van ziekenfondsen;<br>
 6° decreet van 6 juli 2018: het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging;<br>
-7° dienstjaar: de periode die begint op 1 januari van een jaar en die op 31 december van hetzelfde jaar eindigt voor de revalidatieziekenhuizen;<br>
+7° ...;<br>
 8° gecoördineerde wet van 10 juli 2008: de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen;<br>
 9° herstellende zorg: de herstelondersteunende zorg, vermeld in artikel 54, § 1, tweede en derde lid, van het decreet van 6 juli 2018;<br>
-10° kostenplaats: een kostenplaats als vermeld in bijlage 2 van het koninklijk besluit van 14 augustus 1987 tot bepaling van de minimumindeling van het algemeen rekeningenstelsel voor de ziekenhuizen;<br>
+10° ...;<br>
 11° leidend ambtenaar: de leidend ambtenaar, vermeld in artikel 12 van het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
 12° minister: de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
-13° koninklijk besluit van 25 april 2002: het koninklijk besluit van 25 april 2002 betreffende de vaststelling en de vereffening van het budget van financiële middelen van de ziekenhuizen;<br>
+13°...;<br>
 14° netwerk: het geestelijke gezondheidsnetwerk. Dit is een geformaliseerd samenwerkingsverband dat verantwoordelijk is voor een bepaald werkgebied en betrokken is bij de zorg voor de deelpopulatie waartoe het samenwerkingsverband zich richt, en dat in samenwerking met vertegenwoordigers van gebruikers en hun context het geestelijke gezondheidsaanbod en functies faciliteert en optimaliseert;<br>
 15° netwerkpartners: de zorgvoorzieningen, initiatieven van vrijwillige en informele zorg of ondersteuning, partners uit andere sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin, en partners uit andere beleidsdomeinen die al dan niet als zodanig door de Vlaamse Gemeenschap worden erkend of gefinancierd, en die deel uitmaken van geestelijke gezondheidsnetwerken;<br>
 16° palliatief samenwerkingsverband: een samenwerkingsverband voor palliatieve verzorging als vermeld in het koninklijk besluit van 19 juni 1997 houdende vaststelling van de normen waaraan een samenwerkingsverband inzake palliatieve zorg moet voldoen om te worden erkend;<br>
@@ -240,7 +240,7 @@ De psychiatrische verzorgingstehuizen en initiatieven van beschut wonen verwerke
 
 § 1. Het agentschap verwerkt de gepseudonimiseerde persoonsgegevens van de zorggebruikers en de naam van de coördinator vermeld in bijlage 1 en 2. Deze gegevens worden bewaard tot 15 jaar na ontvangst.<br>
 <br>
-Het agentschap verwerkt de persoonsgegevens van de personeelsleden vermeld in artikel 89, artikel 144, artikel 153, § 2, 7°, d), f) en g), artikel 251, § 4, eerste lid, en § 6, derde lid, artikel 252, vijfde lid, en artikel 274, eerste lid. Deze gegevens worden bewaard tot 15 jaar na ontvangst.<br>
+Het agentschap verwerkt de persoonsgegevens van de personeelsleden vermeld in artikel 89, artikel 144, artikel 153, § 2, 7°, d), f) en g). Deze gegevens worden bewaard tot 15 jaar na ontvangst.<br>
 <br>
 De persoonsgegevens uit het personeelskostendossier, vermeld in artikel 193, derde lid, worden door het agentschap bewaard tot het ogenblik dat de tegemoetkoming voor revalidatieverstrekkingen wordt aangepast, conform artikel 193, hetzij tot één jaar na de beëindiging van de revalidatieovereenkomst.<br>
 <br>
@@ -291,7 +291,7 @@ De informaticasystemen die door de zorgvoorziening en verzekeringsinstellingen g
 
 ### ART 11.
 
-De controlelijst om de verschillende vereisten te documenteren waaraan de informaticasystemen van de zorgvoorziening of haar mandataris moeten voldoen, wordt ingevuld en is beschikbaar bij een audit van de archiveringsprocedure in de zorgvoorziening of in de verzekeringsinstelling.
+De controlelijst om de verschillende vereisten te documenteren waaraan de informaticasystemen van de zorgvoorziening of haar mandataris moeten voldoen, wordt ingevuld en is beschikbaar bij een audit van de archiveringsprocedure in de zorgvoorziening of in de zorgkas.
 
 ### ART 12.
 
@@ -321,7 +321,7 @@ De zorgvoorziening dient de aanvraag van een tegemoetkoming in met een formulier
 <br>
 De aanvraag is ontvankelijk zodra de zorgvoorziening alle gegevens bezorgd heeft die vereist zijn conform het aanvraagformulier.<br>
 <br>
-Elke aanvraag wordt rechtstreeks gericht aan één centraal contactpunt dat bepaald wordt door de betrokken verzekeringsinstelling. In afwijking daarvan kan de verzekeringsinstelling één uniek contactpunt per revalidatieziekenhuis of ziekenhuis aanwijzen voor de aanvraag van een tegemoetkoming voor de revalidatieziekenhuizen of ziekenhuis.<br>
+Elke aanvraag wordt rechtstreeks gericht aan één centraal contactpunt dat bepaald wordt door de betrokken verzekeringsinstelling.&nbsp;<br>
 <br>
 § 2. De verzekeringsinstelling is belast met de controle van de verzekeringsstatus van de zorggebruiker als rechthebbende als vermeld in artikel 2, 13°, van het decreet van 6 juli 2018, en van de vergoedingsvoorwaarden van de zorg waarvoor tegemoetkoming wordt gevraagd en vraagt, als dat nodig is, ontbrekende informatie op.<br>
 <br>
@@ -343,11 +343,7 @@ De Zorgkassencommissie brengt aan de verzekeringsinstelling verslag uit over de 
 
 ### ART 17.
 
-§ 1. Bij elke opname van een zorggebruiker in het revalidatieziekenhuis stuurt het revalidatieziekenhuis binnen drie werkdagen na de dag van de opname, de verzekeringsinstelling een kennisgeving via MyCareNet.<br>
-<br>
-Als de opname langer dan vijftien dagen duurt, stuurt het revalidatieziekenhuis via MyCareNet uiterlijk de vijftiende dag van de opname een aanvraag tot verlenging van de opname naar de verzekeringsinstelling.<br>
-<br>
-Telkens als de opname langer duurt dan het tijdvak dat de verzekeringsinstelling vastgesteld heeft, dient het revalidatieziekenhuis een nieuwe aanvraag om verlenging van de opname in bij de verzekeringsinstelling, uiterlijk de laatste dag van dat tijdvak.<br>
+§ 1. ...<br>
 <br>
 § 2. Het initiatief van beschut wonen dient de kennisgeving van opstart begeleiding in met een formulier waarvan het agentschap het model kan bepalen, binnen dertig dagen na de start van de begeleiding.<br>
 <br>
@@ -381,7 +377,7 @@ Als de Zorgkassencommissie na de termijn, vermeld in het tweede lid, een ongunst
 <br>
 § 4. De verzekeringsinstelling brengt de zorgvoorziening en de zorggebruiker binnen vijftien werkdagen die volgen op hetzij de dag van de ontvangst van het eensluidend advies van de Zorgkassencommissie, hetzij de dag van de ontvangst van de aanvraag, op de hoogte van de beslissing over de tegemoetkoming, in voorkomend geval van de reden van de weigering, en van de beroepsmogelijkheden en de termijnen waarin het beroep tegen de beslissing moet worden aangetekend. Een ongunstige beslissing wordt met een aangetekende zending verstuurd.<br>
 <br>
-§ 5. Paragraaf 1 tot en met 4, zijn niet van toepassing op de revalidatieziekenhuizen en de multidisciplinaire begeleidingsequipes.
+§ 5. Paragraaf 1 tot en met 4, zijn niet van toepassing op de multidisciplinaire begeleidingsequipes.
 
 ### ART 19.
 
@@ -397,9 +393,7 @@ De minister kan de nadere regels bepalen voor de mededeling van gegevens, vermel
 
 Het agentschap begroot voor elk kalenderjaar het totale bedrag van de kredieten, vermeld in artikel 8, 5°, van het decreet van 6 juli 2018, voor het volgende kalenderjaar voor alle sectoren, vermeld in artikel 3, eerste lid, van het voormelde decreet. Dat totale kredietbedrag is het voorschot op de tegemoetkomingen voor zorg geleverd in het kalenderjaar in kwestie dat het agentschap aan de verzekeringsinstellingen uitbetaalde.<br>
 <br>
-Voor alle sectoren met uitzondering van de sector van de revalidatieziekenhuizen wordt het totale kredietbedrag voor elk kalenderjaar vastgesteld op basis van de uitgaven van de kalenderjaren die voorafgaan aan het lopende kalenderjaar. Het totale kredietbedrag wordt in maandelijkse schijven uitbetaald.<br>
-<br>
-Voor de sector van de revalidatieziekenhuizen wordt het kredietbedrag per maand en per verzekeringsinstelling bepaald conform artikel 261.
+Voor alle sectoren wordt het totale kredietbedrag voor elk kalenderjaar vastgesteld op basis van de uitgaven van de kalenderjaren die voorafgaan aan het lopende kalenderjaar. Het totale kredietbedrag wordt in maandelijkse schijven uitbetaald.
 
 ### ART 21.
 
@@ -412,42 +406,16 @@ De verzekeringsinstellingen controleren per kwartaal en maandelijks of de uitbet
 ### ART 22.
 
 § 1. De verzekeringsinstelling wordt belast met de betaling van:<br>
-1° de tegemoetkomingen, vermeld in artikel 119, 120, 155, 156, 191, 193/1, 194 en 196, 261/1, 262, 324 en 327;<br>
-2° het vast gedeelte van het budget van de revalidatieziekenhuizen, conform artikel 261.<br>
+1° de tegemoetkomingen, vermeld in artikel 119, 120, 155, 156, 191, 193/1, 194 en 196, 324 en 327;<br>
+2° ...<br>
 <br>
 De verzekeringsinstelling betaalt de tegemoetkoming, vermeld in het eerste lid, 1°, rechtstreeks aan de zorgvoorziening.<br>
 <br>
 De verzekeringsinstelling betaalt de tegemoetkoming, vermeld in het eerste lid, 1°, uiterlijk twee maanden nadat ze de factuur ontvangen heeft. Bij laattijdige betaling is de verzekeringsinstelling op eenvoudig verzoek een verwijlintrest verschuldigd voor het bedrag van de wettelijke intrestvoet in burgerlijke zaken op de datum waarop de betaaltermijn verstreek. Die verwijlintresten lopen vanaf de eerste dag nadat de betaaltermijn is verstreken.<br>
 <br>
-De verzekeringsinstelling betaalt het vast gedeelte van het budget van de revalidatieziekenhuizen, vermeld in het eerste lid, 2°, uiterlijk op de vijfde dag van iedere maand.<br>
-<br>
 De minister kan de modaliteiten van deze betaling bepalen.<br>
 <br>
-§ 2. Nadat de verzekeringsinstelling de verzekeringsstatus van de zorggebruiker gecontroleerd heeft, stuurt ze voor de revalidatieziekenhuizen binnen drie dagen nadat ze de kennisgeving van de opname of van de verlenging ervan ontvangen heeft, via MyCareNet het revalidatieziekenhuis, ofwel de betalingsverbintenis alsook de melding of de teller van de maximumfactuur bereikt is voor het kalenderjaar waarin de zorg verleend wordt, ofwel haar weigering om de betalingsverbintenis af te leveren.<br>
-<br>
-De mededeling van de betalingsverbintenis of van weigering geldt vanaf het begin van de opname in het revalidatieziekenhuis.<br>
-<br>
-Als het revalidatieziekenhuis de vormen en termijnen, vermeld in artikel 17, § 1, naleeft, wordt de betalingsverbintenis als verworven beschouwd als de verzekeringsinstelling de formaliteiten, vermeld in het eerste lid, niet binnen de termijn vermeld in het eerste lid, vervult.<br>
-<br>
-Als het revalidatieziekenhuis herhaaldelijk te laat is met de kennisgeving van de zorg brengt de verzekeringsinstelling het revalidatieziekenhuis daarvan op de hoogte met een aangetekende zending. Als het revalidatieziekenhuis binnen dertig dagen geen enkele maatregel heeft genomen om de kennisgeving tijdig te versturen, mag de verzekeringsinstelling bij elke laattijdige versturing de tegemoetkoming weigeren gedurende de dagen van de vertraging.<br>
-<br>
-Het revalidatieziekenhuis mag de weigering, vermeld in het vorige lid, niet doorrekenen aan de zorggebruiker.<br>
-<br>
-Als een zorggebruiker ontslagen wordt uit het revalidatieziekenhuis stuurt het revalidatieziekenhuis binnen twee werkdagen na de laatste dag van zorg via MyCareNet een kennisgeving van einde zorg aan de verzekeringsinstelling. De mededeling van het geneeskundig verslag ter verantwoording van de zorg moet ingediend worden binnen dertig dagen na het ontslag.<br>
-<br>
-Bij elke verlenging wordt een geneeskundig verslag bezorgd aan de verzekeringsinstelling. Dat verslag wordt voor eensluidend advies voorgelegd aan de Zorgkassencommissie in de gevallen die de minister bepaalt.<br>
-<br>
-De prijs per verpleegdag, vermeld in artikel 262, is verschuldigd voor elke verpleegdag die ten minste één nacht behelst. Dat wil zeggen een opname die begint vóór middernacht en eindigt na acht uur de volgende dag.<br>
-<br>
-De dag van opname en de dag van ontslag worden samen als één verpleegdag beschouwd, behalve als de rechthebbende voor 12 uur opgenomen wordt op de dag van opname en vertrekt na 14 uur op de dag van zijn ontslag uit het ziekenhuis.<br>
-<br>
-In de andere gevallen, dan de gevallen, vermeld in het vorige lid worden de verpleegdagen van de rechthebbende als volgt geboekt:<br>
-1° bij opname vóór 12 uur op de dag van opname en vertrek vóór 14 uur op de dag van zijn ontslag: boeking van de dag van opname;<br>
-2° bij opname na 12 uur op de dag van opname, ongeacht het vertrekuur op de dag van ontslag: boeking van de dag van ontslag.<br>
-<br>
-Als een rechthebbende op de dag zelf van zijn opname overlijdt, is de betaling van één verpleegdag verschuldigd.<br>
-<br>
-Bij verlof van de rechthebbende mag de dag van vertrek alleen worden aangerekend als de rechthebbende de verpleeginrichting verlaat na 14 uur en mag de dag van terugkeer alleen worden aangerekend als de rechthebbende vóór 12 uur naar de verpleeginrichting terugkeert.<br>
+§ 2....<br>
 <br>
 § 3. Bij goedkeuring van de aanvraag tot opname in een psychiatrisch verzorgingstehuis stelt de verzekeringsinstelling de periode vast waarvoor de tegemoetkomingen worden toegekend. Die periode gaat op zijn vroegst in op de dag van de opname als de aanvraag binnen zeven dagen na de dag van de opname is ingediend. In voorkomend geval kan een verlenging van die periode worden aangevraagd door het voormelde psychiatrisch verzorgingstehuis met een formulier waarvan het agentschap het model heeft bepaald.<br>
 <br>
@@ -484,7 +452,7 @@ Bij de facturen voegt de zorgvoorziening per zorggebruiker en per verzekeringsin
 <br>
 De facturen en de individuele onkostennota's worden opgesteld overeenkomstig de modellen en de facturatie instructies die het agentschap heeft bepaald.<br>
 <br>
-Voor de revalidatieziekenhuizen en de revalidatievoorzieningen die gevestigd zijn in de ziekenhuizen of in de revalidatieziekenhuizen kunnen die facturaties afgezonderd worden van de facturaties in het kader van de verplichte ziekteverzekering.<br>
+Voor de revalidatievoorzieningen die gevestigd zijn in de ziekenhuizen of in de revalidatieziekenhuizen kunnen die facturaties afgezonderd worden van de facturaties in het kader van de verplichte ziekteverzekering.<br>
 <br>
 § 2. Als de facturen en de individuele onkostennota's ingediend worden via MyCareNet, voldoen ze aan de functionele vereisten en aan de vereisten van betrouwbaarheid en veiligheid volgens de geldende privacyregels.<br>
 <br>
@@ -520,13 +488,7 @@ In afwachting dat de schade effectief wordt vergoed als vermeld in artikel 22, t
 
 ### ART 28.
 
-Een tegemoetkoming voor een verblijf in een revalidatieziekenhuis mag niet gecumuleerd worden met:<br>
-1° een tegemoetkoming voor een verblijf in een ander revalidatieziekenhuis tijdens dezelfde periode;<br>
-2° een tegemoetkoming voor een verblijf in een revalidatievoorziening tijdens dezelfde periode, tenzij die revalidatievoorziening tegelijkertijd een revalidatieziekenhuis is;<br>
-3° een tegemoetkoming voor gebruik van een revalidatievoorziening tenzij die revalidatievoorziening gebruikt wordt buiten de periode van het verblijf in het revalidatieziekenhuis;<br>
-4° een tegemoetkoming voor gebruik van een multidisciplinaire begeleidingsequipe als het gebruik dezelfde periode bestrijkt;<br>
-5° een tegemoetkoming voor gebruik van of een verblijf in een woonzorgcentrum, een centrum voor dagverzorging, een centrum voor kortverblijf tijdens dezelfde periode;<br>
-6° een tegemoetkoming voor een verblijf in een psychiatrisch verzorgingstehuis tijdens dezelfde periode.
+...
 
 ### ART 29.
 
@@ -582,7 +544,7 @@ De minister kan nadere regels bepalen voor de gevallen waarin kan worden afgewek
 
 ### ART 37.
 
-Een tegemoetkoming voor een verblijf in een revalidatieziekenhuis, een tegemoetkoming voor gebruik van of verblijf in een revalidatievoorziening, een tegemoetkoming voor een verblijf in een psychiatrisch verzorgingstehuis, een begeleiding in een initiatief van beschut wonen of een tegemoetkoming voor een begeleiding door een multidisciplinaire begeleidingsequipe, mag niet worden gecumuleerd met een vergoeding voor ziekenhuisopname met minstens één overnachting op grond van de federale ziekte- en invaliditeitsverzekering als het gebruik of verblijf plaatsvindt op dezelfde dag, tenzij het gebruik of verblijf zich situeert buiten de periode van het verblijf in het ziekenhuis, of tenzij het ziekenhuis een revalidatievoorziening is.
+Een tegemoetkoming voor gebruik van of verblijf in een revalidatievoorziening, een tegemoetkoming voor een verblijf in een psychiatrisch verzorgingstehuis, een begeleiding in een initiatief van beschut wonen of een tegemoetkoming voor een begeleiding door een multidisciplinaire begeleidingsequipe, mag niet worden gecumuleerd met een vergoeding voor ziekenhuisopname met minstens één overnachting op grond van de federale ziekte- en invaliditeitsverzekering als het gebruik of verblijf plaatsvindt op dezelfde dag, tenzij het gebruik of verblijf zich situeert buiten de periode van het verblijf in het ziekenhuis, of tenzij het ziekenhuis een revalidatievoorziening is.
 
 ## Onderafdeling 2. Cumulatieverboden van tegemoetkomingen en prestaties volgens inhoud
 
@@ -1657,8 +1619,6 @@ De bedragen, vermeld in deze paragraaf, zijn gekoppeld aan het spilindexcijfer 1
 <br>
 De erkenning als initiatief van beschut of als zorgvernieuwend initiatief van een initiatief van beschut wonen dat al erkend is, wordt door de leidend ambtenaar verleend per initiatief van beschut wonen, en legt enerzijds de begeleidingscapaciteit en anderzijds de huisvestingscapaciteit vast. De erkenning vermeldt ook het adres van de woongelegenheden, vermeld in artikel 129.<br>
 <br>
-De begeleidingscapaciteit van een initiatief van beschut wonen bedraagt ten minste 64 zorggebruikers, met uitzondering van de initiatieven van beschut wonen die gevestigd zijn in het tweetalig gebied Brussel-Hoofdstad . Het initiatief van beschut wonen begeleidt zorggebruikers uit hetzelfde zorgniveau van de regionale stad, vermeld in de bijlage bij het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en welzijnsvoorzieningen.<br>
-<br>
 § 2. Het initiatief van beschut wonen leeft de vereisten na vermeld in het besluit van de Vlaamse Regering van 13 januari 2006 betreffende de boekhouding en het financieel verslag voor de voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin.
 
 ## HOOFDSTUK 2. Algemene werkingsnormen
@@ -2163,7 +2123,7 @@ De tegemoetkoming voor zorg in de prijs per verblijfdag in een initiatief van be
 <br>
 De tegemoetkoming, vermeld in het eerste lid, dekt het aanbod van zorg, vermeld in artikel 153, § 2, van dit besluit.<br>
 <br>
-Een erkend initiatief van beschut wonen dat vanaf 1 januari 2020 en vóór 1 januari 2021 ontstaan is uit de samenvoeging van twee of meer vóór 1 januari 2019 erkende initiatieven van beschut wonen, ontvangt een tegemoetkoming voor zorg die minstens evenveel bedraagt als de som van de geïndexeerde tegemoetkomingen voor zorg die de afzonderlijk erkende initiatieven van beschut wonen ontvingen in het boekjaar vóór de samenvoeging, verminderd met 1,3%. Een erkend initiatief van beschut wonen dat na 1 januari 2019 en vóór 1 januari 2020 of vanaf 1 januari 2021 en vóór 1 januari 2022 ontstaan is uit de samenvoeging van twee of meer vóór 1 januari 2019 erkende initiatieven van beschut wonen, ontvangt een tegemoetkoming voor zorg die minstens evenveel bedraagt als de som van de geïndexeerde tegemoetkomingen voor zorg die de afzonderlijk erkende initiatieven van beschut wonen ontvingen in het boekjaar vóór de samenvoeging.
+Een erkend initiatief van beschut wonen dat vanaf 1 januari 2020 en vóór 1 januari 2021 ontstaan is uit de samenvoeging van twee of meer vóór 1 januari 2019 erkende initiatieven van beschut wonen, ontvangt een tegemoetkoming voor zorg die minstens evenveel bedraagt als de som van de geïndexeerde tegemoetkomingen voor zorg die de afzonderlijk erkende initiatieven van beschut wonen ontvingen in het boekjaar vóór de samenvoeging, verminderd met 1,3%. Een erkend initiatief van beschut wonen dat na 1 januari 2019 en vóór 1 januari 2020 of vanaf 1 januari 2021 en vóór 1 januari 2023 ontstaan is uit de samenvoeging van twee of meer vóór 1 januari 2019 erkende initiatieven van beschut wonen, ontvangt een tegemoetkoming voor zorg die minstens evenveel bedraagt als de som van de geïndexeerde tegemoetkomingen voor zorg die de afzonderlijk erkende initiatieven van beschut wonen ontvingen in het boekjaar vóór de samenvoeging.
 
 ## Titel 5. Bijzondere verzekeringsstelsels
 
@@ -2911,49 +2871,25 @@ De verzekeringsinstelling vervolledigt de nieuwe aanvraag, vermeld in het eerste
 
 ### ART 239.
 
-De minister bepaalt jaarlijks het budget voor elk revalidatieziekenhuis voor een dienstjaar. Dat budget wordt op 1 januari van elk jaar vastgesteld.<br>
-<br>
-In afwijking van het eerste lid wordt het budget verhoogd vanaf de eerste dag van de maand die volgt op de maand waarin de spilindex is overschreden, conform artikel 258.<br>
-<br>
-In afwijking van het eerste lid wordt het budget voor het dienstjaar 2021 op 1 januari 2021 en op 1 juli 2021 vastgesteld.
+...
 
 ### ART 240.
 
-Het budget is samengesteld uit de volgende delen:<br>
-1° het basisbudget;<br>
-2° het voorwaardelijke budget;<br>
-3° het jaarlijks herrekende budget;<br>
-4° het corrigerende budget.
+...
 
 ## HOOFDSTUK 2. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
 ### ART 241.
 
-Het basisbudget dekt de kosten van de bestanddelen, vermeld in bijlage 3, die bij dit besluit is gevoegd, die door het budget van financiële middelen zijn gedekt conform artikel 7 van het koninklijk besluit van 25 april 2002, zoals van kracht op 31 december 2018, en die niet worden gedekt door het voorwaardelijke, jaarlijks herrekende of corrigerende budget, vermeld in artikel 243, 250 en 253 van dit besluit.
+...
 
 ### ART 242.
 
-Het basisbudget voor het dienstjaar dat op 1 januari 2019 begint bestaat uit het budget van financiële middelen, dat is vastgesteld conform het koninklijk besluit van 25 april 2002, zoals van kracht op 31 december 2018, en toegekend op 1 juli 2018, als het de kosten dekt, vermeld in artikel 241 van dit besluit.<br>
-<br>
-Het basisbudget voor het dienstjaar dat op 1 januari 2020 begint, en voor elk van de daarop volgende dienstjaren bestaat uit het basisbudget voor het dienstjaar dat begint op 1 januari 2019,&nbsp;aangevuld met de structurele integratie van de correcties die berekend zijn conform artikel 255, zoals geïndexeerd conform artikel 258.<br>
-<br>
-Het basisbudget, vermeld in het tweede lid, wordt aangevuld met het budget dat tot en met 30 juni 2018 betaald is door de Rijksdienst voor Sociale Zekerheid als premie van het Interdepartementaal Begrotingsfonds ter bevordering van de werkgelegenheid. Het budget wordt geïndexeerd conform artikel 258.<br>
-<br>
-Het basisbudget dat berekend is met toepassing van het tweede lid, wordt vanaf 1 januari 2020 verminderd met 1,3%.
+...
 
 ### ART 242/1.
 
-Om de kwalitatieve verbeteringen van de arbeidsvoorwaarden van het personeel ter uitvoering van punt 2.2.1.A. van deel III van luik III van het zesde Vlaams Intersectoraal akkoord van 30 maart 2021 voor de social/non-profitsectoren voor het jaar 2021 te financieren, wordt in het basisbudget van de private revalidatieziekenhuizen in een budget voorzien.<br>
-<br>
-Het budget, vermeld in het eerste lid, bedraagt 726.641,23 euro.<br>
-<br>
-Het budget, vermeld in het eerste lid, wordt verdeeld over de private revalidatieziekenhuizen, op basis van het aantal erkende bedden, rekening houdend met het relatief gewicht, waarbij het gewicht van een bed met kenletter G 88,24% is van het gewicht van een bed met kenletter SP.<br>
-<br>
-Voor de vaststelling van het aantal erkende bedden wordt rekening gehouden met het aantal erkende bedden, zoals dat bij het agentschap bekend is op 1 januari 2021.<br>
-<br>
-De middelen, toegekend volgens het derde lid, worden vanaf 1 mei 2021 ingezet voor het zorgpersoneel, het ondersteunend personeel of het paramedisch personeel, zowel aan het bed als voor de revalidatie van de patiënt. Elk revalidatieziekenhuis verduidelijkt aan het agentschap de invulling van het bijkomend personeel in functie van lokale behoeften of noden, na intern sociaal overleg conform de bepalingen van luik II, deel I, punt 11.2.1. van het in het eerste lid vermelde Intersectoraal akkoord.<br>
-<br>
-De onbenutte middelen, toegekend volgens het derde lid, die het gevolg zijn van een latere start dan 1 mei 2021 van de implementatie van de structurele bestemming, zijn in 2021 een compensatie voor tijdelijke bijkomende tewerkstelling om eenmalig de extra gepresteerde uren omwille van de COVID-crisis te compenseren.
+...
 
 ## HOOFDSTUK 3. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
@@ -2961,112 +2897,41 @@ De onbenutte middelen, toegekend volgens het derde lid, die het gevolg zijn van 
 
 ### ART 243.
 
-Het voorwaardelijke budget bestaat uit de volgende onderdelen:<br>
-1° het bedrag om de kwaliteitsbewaking te bevorderen;<br>
-2° het bedrag om de implementatie van het elektronisch patiëntendossier te bevorderen;<br>
-3° het provisioneel bedrag ter compensatie van de bijkomende kosten voor ziekenvervoer om de COVID-19-pandemie te beheersen.
+...
 
 ## Afdeling 2. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
 ### ART 244.
 
-In dit artikel wordt verstaan onder VIP<sup>2</sup>: het Vlaams Indicatorenproject voor Patiënten en Professionals, dat wordt gecoördineerd door het Vlaams Instituut voor Kwaliteit van Zorg, waarin ziekenhuizen worden aangespoord om de manier waarop ze zorg verlenen en de resultaten van hun zorgverlening aan de hand van kwaliteitsindicatoren te meten en te evalueren.<br>
-<br>
-Om de kwaliteitsbewaking te bevorderen, wordt een bedrag van 121.939 euro verdeeld over de revalidatieziekenhuizen die een overeenkomst hebben gesloten met het agentschap over de deelname aan het project VIP<sup>2</sup>.<br>
-<br>
-Dit onderdeel van het voorwaardelijke budget bestaat uit een forfaitair bedrag (X), dat wordt berekend op basis van de volgende formule: X = A x B/C, waarbij:<br>
-1° A: het beschikbare bedrag, vermeld in het tweede lid;<br>
-2° B: het aantal erkende bedden van het revalidatieziekenhuis in kwestie;<br>
-3° C: het totale aantal erkende bedden van de revalidatieziekenhuizen in kwestie.<br>
-<br>
-Als het bedrag (X), berekend conform het derde lid, lager is dan 10.000 euro, wordt het bedrag (X) geacht 10.000 euro te zijn.<br>
-<br>
-Voor de vaststelling van het aantal erkende bedden wordt rekening gehouden met het aantal erkende bedden, zoals dat bij het agentschap bekend is op 31 augustus van het jaar dat voorafgaat aan het dienstjaar waarop het budget betrekking heeft.<br>
-<br>
-Om dit onderdeel van het voorwaardelijke budget te behouden, bezorgen de revalidatieziekenhuizen de registratiegegevens tijdig, conform de afgesproken data, bepaald in de protocollen van de indicatoren van het project VIP<sup>2</sup>, aan het agentschap, conform de regels, bepaald in de overeenkomst die gesloten is met het agentschap over de deelname aan het project VIP<sup>2</sup>.
+...
 
 ## Afdeling 3. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
 ### ART 245.
 
-Met het oog op de realisatie van het elektronisch patiëntendossier, bepaald in actiepunt 2 van de Roadmap 2.0 van het e-gezondheidsplan, waarvan de inhoud is gedefinieerd in de Belgian Meaningful Use Criteria, hierna de BMUC te noemen, die zijn opgenomen in bijlage 4, die bij dit besluit is gevoegd, wordt een forfaitaire financiering voorzien onder de voorwaarden, vermeld in artikel 246 tot en met 249 van dit besluit.<br>
-<br>
-Dit onderdeel van het voorwaardelijke budget bestaat uit een bedrag van 667.293 euro, dat als volgt wordt verdeeld in de vorm van forfaits:<br>
-1° een sokkel per revalidatieziekenhuis;<br>
-2° een sokkel per erkend bed;<br>
-3° een acceleratorbudget;<br>
-4° een `early adopter'-budget.
+...
 
 ### ART 246.
 
-De sokkel per revalidatieziekenhuis, vermeld in artikel 245, tweede lid, 1°, wordt elk jaar berekend en is identiek voor alle revalidatieziekenhuizen. Die sokkel bedraagt:<br>
-1° voor het dienstjaar 2019: 10 % van het beschikbare bedrag, vermeld in artikel 245, tweede lid;<br>
-2° voor elk dienstjaar vanaf het dienstjaar 2020: 5 % van het beschikbare bedrag, vermeld in artikel 245, tweede lid.<br>
-<br>
-Om voor de financiering, vermeld in het eerste lid, in aanmerking te komen, moet het revalidatieziekenhuis jaarlijks voldoen aan de voorwaarden voor de mededeling van de gegevens, vermeld in titel 5.<br>
-<br>
-Als een revalidatieziekenhuis de voorwaarden voor de mededeling van de gegevens, vermeld in titel 5, niet respecteert, wordt het toegekende bedrag voor het jaar in kwestie gerecupereerd in het volgende budget. Het gerecupereerde bedrag wordt conform dezelfde modaliteiten herverdeeld onder de andere revalidatieziekenhuizen op het moment dat het volgende budget wordt toegekend.
+...
 
 ### ART 247.
 
-De sokkel per erkend bed, vermeld in artikel 245, tweede lid, 2°, wordt elk jaar berekend. Voor de vastlegging van het aantal erkende bedden wordt rekening gehouden met de erkende bedden, zoals bekend bij het agentschap op het ogenblik van de berekening van het budget. Die sokkel bedraagt:<br>
-1° voor het dienstjaar 2019: 15 % van het beschikbare bedrag, vermeld in artikel 245, tweede lid;<br>
-2° voor elk dienstjaar vanaf het dienstjaar 2020: 10 % van het beschikbare bedrag, vermeld in artikel 245, tweede lid.<br>
-<br>
-Om voor de financiering, vermeld in het eerste lid, in aanmerking te komen, moet het revalidatieziekenhuis jaarlijks voldoen aan de voorwaarden voor de mededeling van de gegevens, vermeld in titel 5.<br>
-<br>
-Als een revalidatieziekenhuis de voorwaarden voor de mededeling van de gegevens, vermeld in titel 5, niet respecteert, wordt het toegekende bedrag voor het jaar in kwestie gerecupereerd in het volgende budget. Het gerecupereerde bedrag wordt conform dezelfde modaliteiten, herverdeeld onder de andere revalidatieziekenhuizen op het moment dat het volgende budget wordt toegekend.
+...
 
 ### ART 248.
 
-§ 1. Het acceleratorbudget, vermeld in artikel 245, tweede lid, 3°, is een bijkomend bedrag dat wordt toegekend aan de revalidatieziekenhuizen als stimulans om het proces te accelereren. Het acceleratorbudget wordt elk jaar berekend per revalidatieziekenhuis. Het acceleratorbudget bedraagt:<br>
-1° voor het dienstjaar 2019: 65 % van het beschikbare bedrag, vermeld in artikel 245, tweede lid;<br>
-2° voor de dienstjaren 2020, 2021, 2022 en 2023: 70 % van het beschikbare bedrag, vermeld in artikel 245, tweede lid;<br>
-3° voor elk dienstjaar vanaf het dienstjaar 2024: 85 % van het beschikbare bedrag, vermeld in artikel 245, tweede lid.<br>
-<br>
-§ 2. Om voor het dienstjaar 2019 voor de financiering, vermeld in paragraaf 1, 1°, in aanmerking te komen, moet het revalidatieziekenhuis uiterlijk op 31 juli 2018 en conform artikel 61/1, § 4, van het koninklijk besluit van 25 april 2002, zoals van kracht op 31 december 2018, een implementatiedatum voor een geïntegreerd elektronisch patiëntendossier vastleggen, alsook een stappenplan waarin de implementatiedata worden vermeld van de zeven basisfunctionaliteiten die zijn omschreven in de BMUC.<br>
-<br>
-Het acceleratorbudget wordt verdeeld onder de revalidatieziekenhuizen die voldoen aan de voorwaarden, vermeld in het eerste lid, naar rata van het aantal erkende bedden, zoals bekend bij het agentschap op het ogenblik van de berekening van het budget.<br>
-<br>
-§ 3. Voor het dienstjaar 2020 wordt een vast deel gevormd door 80 % van de financiering, vermeld in paragraaf 1, 2°, en een variabel deel door 20 % van de financiering, vermeld in paragraaf 1, 2°.<br>
-<br>
-Om voor de financiering van het vaste deel, vermeld in het eerste lid, in aanmerking te komen, moet het revalidatieziekenhuis uiterlijk op 31 juli 2019 een implementatiedatum voor een geïntegreerd elektronisch patiëntendossier vastleggen, alsook een stappenplan waarin de implementatiedata worden vermeld van de zeven basisfunctionaliteiten die zijn omschreven in de BMUC. Het revalidatieziekenhuis bezorgt die informatie uiterlijk op 31 augustus 2019 aan het agentschap. Het bedrag voor het vaste deel wordt verdeeld naar rata van het aantal erkende bedden, zoals bekend bij het agentschap op het ogenblik van de berekening van het budget.<br>
-<br>
-Om voor de financiering van het variabele deel, vermeld in het eerste lid, in aanmerking te komen, moet het revalidatieziekenhuis op 31 juli 2019 stap 1 van de functionaliteit "elektronische ontslagbrief" van de BMUC, opgenomen in bijlage 4, die bij dit besluit is gevoegd, gerealiseerd hebben. De realisatie wordt gemeten als de verhouding van het aantal ontslagen patiënten in de periode van 1 februari 2019 tot en met 31 juli 2019 voor wie een elektronische ontslagbrief beschikbaar is gesteld op de HUB, ten opzichte van het totale aantal patiënten dat is ontslagen in dezelfde periode. Het revalidatieziekenhuis meldt, via een verklaring op erewoord, uiterlijk op 31 augustus 2019, het gemeten percentage aan het agentschap. Het bedrag voor het variabele deel wordt verdeeld naar rata van het aantal erkende bedden, zoals bekend bij het agentschap op het ogenblik van de berekening van het budget.<br>
-<br>
-§ 4. Om voor het dienstjaar 2021 voor de financiering, vermeld in paragraaf 1, 2°, in aanmerking te komen, moet het revalidatieziekenhuis stap 1 van de BMUC, opgenomen in bijlage 4, die bij dit besluit is gevoegd, voor alle functionaliteiten gerealiseerd hebben op 31 juli 2020. Het revalidatieziekenhuis meldt, via een verklaring op erewoord, uiterlijk op 31 augustus 2020, voor elk van de functionaliteiten van de BMUC het gerealiseerde percentage. Het bedrag wordt verdeeld naar rata van het aantal erkende bedden, zoals bekend bij het agentschap op het ogenblik van de berekening van het budget.<br>
-<br>
-§ 5. Om voor het dienstjaar 2022 voor de financiering, vermeld in paragraaf 1, 2°, in aanmerking te komen, moet het revalidatieziekenhuis stap 2 van de BMUC, opgenomen in bijlage 4, die bij dit besluit is gevoegd, voor alle functionaliteiten gerealiseerd hebben op 31 juli 2021. Het revalidatieziekenhuis meldt, via een verklaring op erewoord, uiterlijk op 31 augustus 2021, voor elk van de functionaliteiten van de BMUC het gerealiseerde percentage. Het bedrag wordt verdeeld naar rata van het aantal erkende bedden, zoals bekend bij het agentschap op het ogenblik van de berekening van het budget.<br>
-<br>
-§ 6. Om voor het dienstjaar 2023 voor de financiering, vermeld in paragraaf 1, 2°, in aanmerking te komen, moet het revalidatieziekenhuis stap 3 van de BMUC, opgenomen in bijlage 4, die bij dit besluit is gevoegd, voor alle functionaliteiten gerealiseerd hebben op 31 juli 2022. Het revalidatieziekenhuis meldt, via een verklaring op erewoord, uiterlijk op 31 augustus 2022, voor elk van de functionaliteiten van de BMUC het gerealiseerde percentage. Het bedrag wordt verdeeld naar rata van het aantal erkende bedden, zoals bekend bij het agentschap op het ogenblik van de berekening van het budget.<br>
-<br>
-§ 7. Om vanaf het dienstjaar 2024 voor de financiering, vermeld in paragraaf 1, 3°, in aanmerking te komen, moet het revalidatieziekenhuis stap 4 van de BMUC, opgenomen in bijlage 4, die bij dit besluit is gevoegd, voor alle functionaliteiten gerealiseerd hebben op 31 juli 2023. Het revalidatieziekenhuis meldt, via een verklaring op erewoord, uiterlijk op 31 augustus 2023, voor elk van de functionaliteiten van de BMUC het gerealiseerde percentage. Het bedrag wordt verdeeld naar rata van het aantal erkende bedden, zoals bekend bij het agentschap op het ogenblik van de berekening van het budget.
+...
 
 ### ART 249.
 
-§ 1. Het `early adopter'-budget, vermeld in artikel 245, tweede lid, 4°, is een bijkomend bedrag dat wordt toegekend aan de revalidatieziekenhuizen als stimulans om de functionaliteiten van de BMUC sneller dan de timing, vermeld in artikel 248, te implementeren. Het `early-adopter'-budget wordt jaarlijks voor elk revalidatieziekenhuis berekend. Het `early-adopter'-budget bedraagt:<br>
-1° voor het dienstjaar 2019: 10 % van het beschikbare bedrag, vermeld in artikel 245, tweede lid;<br>
-2° voor de dienstjaren 2020, 2021, 2022 en 2023: 15 % van het beschikbare bedrag, vermeld in artikel 245, tweede lid.<br>
-<br>
-Het `early adopter'-budget wordt verdeeld onder de revalidatieziekenhuizen die voldoen aan de voorwaarden, vermeld in paragaaf 2 tot en met 6, naar rata van het aantal erkende bedden, zoals bekend bij het agentschap op het moment van de berekening van het budget.<br>
-<br>
-De voorwaarden, vermeld in paragraaf 2 tot en met 6, zijn gebaseerd op een puntensysteem. Voor elke behaalde stap, vermeld in bijlage 1 van de BMUC, opgenomen in bijlage 4, die bij dit besluit is gevoegd, wordt per functionaliteit van de BMUC één punt toegekend.<br>
-<br>
-§ 2. Om voor het dienstjaar 2019 voor de financiering, vermeld in paragraaf 1, eerste lid, 1°, in aanmerking te komen, moet het revalidatieziekenhuis minstens een punt hebben behaald op 31 juli 2018.<br>
-<br>
-§ 3. Om voor het dienstjaar 2020 voor de financiering, vermeld in paragraaf 1, eerste lid, 2°, in aanmerking te komen, moet het revalidatieziekenhuis minstens twee punten hebben behaald op 31 juli 2019. Het revalidatieziekenhuis meldt, via een verklaring op erewoord, uiterlijk op 31 augustus 2019, hoeveel punten het heeft behaald.<br>
-<br>
-§ 4. Om voor het dienstjaar 2021 voor de financiering, vermeld in paragraaf 1, eerste lid, 2°, in aanmerking te komen, moet het revalidatieziekenhuis minstens veertien punten hebben behaald op 31 juli 2010. Het revalidatieziekenhuis meldt, via een verklaring op erewoord, uiterlijk op 31 augustus 2010, hoeveel punten het heeft behaald.<br>
-<br>
-§ 5. Om voor het dienstjaar 2022 voor de financiering, vermeld in paragraaf 1, eerste lid, 2°, in aanmerking te komen, moet het revalidatieziekenhuis minstens eenentwintig punten hebben behaald op 31 juli 2021. Het revalidatieziekenhuis meldt, via een verklaring op erewoord, uiterlijk op 31 augustus 2021, hoeveel punten het heeft behaald.<br>
-<br>
-§ 6. Om voor het dienstjaar 2023 voor de financiering, vermeld paragraaf 1, eerste lid, 2°, in aanmerking te komen, moet het revalidatieziekenhuis achtentwintig punten hebben behaald op 31 juli 2022. Het revalidatieziekenhuis meldt, via een verklaring op erewoord, uiterlijk op 31 augustus 2022, hoeveel punten het heeft behaald.
+...
 
 ## Afdeling 4. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
 ### ART 249/1.
 
-In het BRZ wordt voor het dienstjaar 2021 een provisioneel bedrag van 600 euro per volledige schijf van vijftien erkende bedden toegekend ter compensatie van de bijkomende kosten voor ziekenvervoer in het kader van de COVID-19-pandemie. De minister bepaalt de nadere voorwaarden in een overeenkomst met de revalidatieziekenhuizen.
+...
 
 ## HOOFDSTUK 4. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
@@ -3074,236 +2939,69 @@ In het BRZ wordt voor het dienstjaar 2021 een provisioneel bedrag van 600 euro p
 
 ### ART 250.
 
-Het jaarlijks herrekende budget bestaat uit de volgende onderdelen:<br>
-1° het bedrag ter compensatie van de eindeloopbaanmaatregelen;<br>
-2° het bedrag ter compensatie van het complement van de attractiviteitspremie;<br>
-3° het bedrag ter compensatie van de functiekwalificatie ter uitvoering van het Vijfde Vlaams Intersectoraal akkoord van 8 juni 2018 voor de social/nonprofitsectoren voor de periode 2018-2021.<br>
-4° het bedrag ter compensatie van de functiekwalificatie ter uitvoering van het Zesde Vlaams Intersectoraal akkoord van 30 maart 2021 voor de social/non-profitsectoren voor het jaar 2021.
+...
 
 ## Afdeling 2. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
 ### ART 251.
 
-§ 1. In dit artikel wordt verstaan onder:<br>
-1° eindeloopbaanmaatregelen: de maatregelen, genomen in het akkoord van 26 april 2005 betreffende de federale gezondheidssectoren, gesloten tussen de federale regering en de representatieve organisaties van de private non-profitsector, en het protocol nr. 148/2 van 29 juni 2005, 5 juli 2005 en 18 juli 2005 van het Gemeenschappelijk Comité voor het geheel van de openbare diensten;<br>
-2° personeelsleden:<br>
-a) het verplegend en verzorgend personeel, vermeld in artikel 8, 5° en 8°, van de gecoördineerde wet van 10 juli 2008. Onder verzorgend personeel worden ook de werknemers verstaan die onder een ermee overeenstemmende loonschaal vallen;<br>
-b) de sociaal verpleegkundigen;<br>
-c) de kinesitherapeuten, de ergotherapeuten, de logopedisten en de diëtisten;<br>
-d) de opvoeders-begeleiders geïntegreerd in de zorgteams;<br>
-e) de maatschappelijk assistenten en de psychologische assistenten in de zorgunits of geïntegreerd in het therapeutische programma;<br>
-f) de psychologen, de orthopedagogen en de pedagogen in de zorgunits of geïntegreerd in het therapeutische programma;<br>
-g) de laboratoriumtechnologen;<br>
-h) de technologen van de medische beeldvorming;<br>
-i) de technici van medisch materiaal, in het bijzonder in de sterilisatiediensten;<br>
-j) het patiëntenvervoer;<br>
-k) de logistieke assistenten;<br>
-l) de assistenten in de ziekenhuisverzorging;<br>
-m) de personen, vermeld in artikel 152 en 153 van de gecoördineerde wet van 10 mei 2015 betreffende de uitoefening van de gezondheidszorgberoepen;<br>
-3° verantwoorde afwezigheidsperiode: de niet-gepresteerde dagen of uren die gelijkgesteld worden, als ze aanleiding gegeven hebben tot het betalen van een vergoeding door de instelling. Daarin zitten ook de dagen waarop het personeelslid wegens ziekte of invaliditeit op disponibiliteit is gesteld.<br>
-<br>
-De omschrijving van de beroepen, vermeld in het eerste lid, verwijst naar de reëel uitgeoefende functie.<br>
-<br>
-§ 2. Om de eindeloopbaanmaatregelen te financieren, wordt in het jaarlijks herrekende budget een bedrag vastgelegd.<br>
-<br>
-De revalidatieziekenhuizen hebben recht op een jaarlijks bedrag ter compensatie van de maatregelen voor de vrijstelling van arbeidsprestaties in het kader van de eindeloopbaanproblematiek, op voorwaarde dat ze onderworpen zijn aan de toepassing van het akkoord van 26 april 2005 betreffende de federale gezondheidssectoren, gesloten tussen de federale regering en de representatieve organisaties van de private non-profitsector, en het protocol nr. 148/2 van 29 juni 2005, 5 juli 2005 en 18 juli 2005 van het Gemeenschappelijk Comité voor het geheel van de openbare diensten.<br>
-<br>
-Het bedrag dekt alleen de voordelen, vermeld in dit besluit, en is alleen mogelijk als de voormelde collectieve arbeidsovereenkomst of het voormeld protocolakkoord voorziet in de volgende voordelen en als de betrokken personeelsleden die voordelen ook daadwerkelijk krijgen:<br>
-1° de voltijdse personeelsleden die de leeftijd van 45, 50 of 55 jaar bereikt hebben, hebben recht op een vrijstelling van hun arbeidsprestaties met respectievelijk 96 uur, 192 uur of 288 uur per jaar. Die vrijstelling treedt in werking vanaf de eerste dag van de maand waarin de bovenvermelde respectieve leeftijdsgrenzen bereikt worden. De beoefenaars van de verpleegkunde kunnen ook opteren voor het behoud van de prestaties met een premie van respectievelijk 5,26 %, 10,52 % of 15,78 %, berekend op hun voltijdse wedde. Bij combinatie van opties vanaf de leeftijd van 50 jaar wordt de tegemoetkoming toegekend op basis van een opsplitsing in volledige schijven van 2 uur. De personeelsleden werken binnen het revalidatieziekenhuis. Het personeel dat tewerkgesteld is in de diensten die beschouwd worden als niet-ziekenhuisactiviteiten, vallen buiten de beschouwing als vermeld in punt 3.3 van bijlage 2 van het koninklijk besluit van 14 augustus 1987 tot bepaling van de minimumindeling van het algemeen rekeningenstelsel voor de ziekenhuizen, met uitzondering van de personen die onder kostenplaatsen 900 tot 909 vallen;<br>
-2° het personeelslid dat deeltijds werkt, heeft recht op een gelijk aantal uren van vrijstelling van prestaties of, voor de beoefenaars van de verpleegkunde, een equivalente premie die gelijk is aan de proportionele toepassing van de vrijstelling van arbeidsprestaties of de premie. Aan de werknemers van de privésector die deeltijds tewerkgesteld zijn, zal, rekening houdend met de collectieve arbeidsovereenkomst nr. 35 van 27 februari 1981 betreffende sommige bepalingen van het arbeidsrecht ten aanzien van de deeltijdse arbeid, voorgesteld worden om binnen de voorwaarden, vermeld in artikel 4 van de bovenvermelde collectieve arbeidsovereenkomst nr. 35, de wekelijkse arbeidsduur die ingeschreven is in hun arbeidsovereenkomst, automatisch te verhogen. Ze krijgen eventueel een vrijstelling van de prestaties op basis van hun nieuwe contract. Bij de werknemers van de publieke sector die deeltijds tewerkgesteld zijn en voor wie de eindeloopbaanmaatregelen gelden, is de werkgever ertoe gehouden hen drie maanden vóór de datum van intrede in het stelsel van de eindeloopbaan of van hun toegang tot een hoger recht in het kader, voor te stellen dat de wekelijkse arbeidsduur, ingeschreven in hun arbeidsovereenkomst, verhoogd wordt naar rato van het aantal uren van vrijstelling van prestaties dat bepaald is voor de leeftijdscategorie waartoe ze behoren. De werknemer is ertoe gehouden uiterlijk één maand vóór zijn intrede tot het stelsel of zijn hoger recht in het kader van de eindeloopbaan, aan de werkgever ofwel zijn akkoord met die verhoging van zijn wekelijkse arbeidsduur te betekenen ofwel zijn weigering mee te delen. In dat laatste geval geldt voor de werknemer de vermindering van de wekelijkse arbeidsduur van zijn arbeidsprestaties die is bepaald voor de leeftijdscategorie waartoe hij behoort, in verhouding tot zijn wekelijkse arbeidsduur ten opzichte van een voltijds tewerkgestelde werknemer;<br>
-3° de werknemers die gedurende een referentieperiode van 24 maanden voorafgaand aan de maand waarin ze de leeftijd van respectievelijk 45, 50 of 55 jaar bereiken, minstens 200 uur bij dezelfde werkgever verricht hebben in een of meer functies, waardoor ze het supplement voor onregelmatige prestaties, namelijk prestaties op zaterdag, zondag, feestdag, nachtdienst of onderbroken diensten, of elke andere vergoeding die valt onder een collectieve arbeidsovereenkomst of een protocolakkoord, ontvangen hebben, of die een compensatierust door die prestaties gekregen hebben, worden gelijkgesteld met de personeelsleden. De verantwoorde afwezigheidsperioden komen in aanmerking op basis van het gemiddelde van de rest van de referentieperiode. De werknemer die niet meer aan die voorwaarde van 200 uur onregelmatige prestaties over een referentieperiode van maximaal 24 maanden voldoet, behoudt de verkregen vrijstelling van prestatie, maar kan bij de overgang naar een hogere leeftijdscategorie een bijkomende vrijstelling van arbeidsprestaties krijgen. De deeltijdse werknemers bewijzen een aantal uren van onregelmatige prestaties dat overeenstemt met 200 uur, berekend naar verhouding van de arbeidsduur over een referentieperiode van maximaal 24 maanden. De werknemer die, op het moment dat hij de leeftijd van 45, 50 of 55 jaar bereikt, geen 200 uur onregelmatige prestaties bij dezelfde werkgever gewerkt heeft of die vanaf 50 jaar niet meer aan die voorwaarde voldoet, treedt toe tot het statuut van geassimileerd personeel, en dus tot het recht op vrijstelling van arbeidsprestaties op het moment dat hij die 200 uur in de loop van een periode van maximaal 24 achtereenvolgende maanden heeft uitgevoerd. De vrijstelling van arbeidsprestaties gaat dan in op de dag die in de collectieve arbeidsovereenkomst of het protocolakkoord dat van toepassing is, wordt bepaald;<br>
-4° de begunstigde personen van de eindeloopbaanmaatregelen vóór 1 oktober 2005 blijven erover genieten. De begunstigde personen van de eindeloopbaanmaatregelen die vóór 1 oktober 2005 worden ingesteld, die de keuze van loonpremie hebben gemaakt, blijven de loopbaanpremie krijgen;<br>
-5° de werknemers die vrijgesteld zijn van prestaties, worden nog altijd beschouwd als werknemers die hun contractuele of statutaire arbeidsduur behouden;<br>
-6° de optie van vrijstelling is altijd definitief. Het behoud van de prestaties met premie kan daarentegen op elk ogenblik in een vrijstelling van arbeidsprestaties worden omgezet.<br>
-<br>
-§ 3. Het bedrag, vermeld in paragraaf 2, wordt vastgesteld voor de personeelscategorieën, vermeld in het tweede lid, conform de regels, vermeld in het derde lid.<br>
-<br>
-Er zijn volgende personeelscategorieën:<br>
-1° personeelscategorie a: de verpleegkundigen, de sociaal verpleegkundigen en de assistenten in de ziekenhuisverzorging;<br>
-2° personeelscategorie b: de kinesitherapeuten, de ergotherapeuten, de logopedisten, de diëtisten, de opvoeders-begeleiders, geïntegreerd in zorgteams, de maatschappelijk assistenten en de psychologisch assistenten in zorgteams of geïntegreerd in het therapeutische programma, de psychologen, de orthopedagogen en de pedagogen in de zorgteams of geïntegreerd in het therapeutische programma, de laboratoriumtechnologen en de technologen van de medische beeldvorming;<br>
-3° personeelscategorie c: de verzorgenden en de werknemers, vermeld in artikel 152 en 153 van de gecoördineerde wet van 10 mei 2015 betreffende de uitoefening van de gezondheidszorgberoepen;<br>
-4° personeelscategorie d: het gelijkgestelde personeel, de technici van medisch materiaal, inzonderheid in sterilisatiediensten, de medewerkers patiëntenvervoer en de logistiek assistenten.<br>
-<br>
-Het bedrag (F), vermeld in paragraaf 2, wordt berekend conform formule F = F1 + F2, waarbij:<br>
-1° F1: het verschuldigde bedrag voor de compenserende indienstneming van personeelsleden die voor de vrijstelling van de wekelijkse arbeidsprestaties opteren. F1 wordt berekend conform de formule F1 = Ai * T1/S * N/Y, waarbij:<br>
-a) Aa: 50.560,38 euro voor categorie a;<br>
-b) Ab: 50.560,38 euro voor categorie b;<br>
-c) Ac: 41.203,52 euro voor categorie c;<br>
-d) Ad: 41.164,38 euro voor categorie d;<br>
-e) T1: wekelijks aantal vrijgestelde uren die de werknemer ter compensatie in dienst genomen is of de werknemer die zijn arbeidsduur verhoogt, compenseert;<br>
-f) S: wekelijkse arbeidsregeling die toegepast wordt in het revalidatieziekenhuis;<br>
-g) N: jaarlijks aantal werkuren dat de werkgever moet bezoldigen ter compensatie van de vrijgestelde uren van de begunstigde werknemers voor het beschouwde jaar in het kader van de eindeloopbaanmaatregelen;<br>
-h) Y: theoretisch aantal jaarlijkse werkuren die de werknemer die ter compensatie in dienst genomen is, ten opzichte van zijn arbeidsovereenkomst, zijn daad van individuele benoeming of het aanhangsel bij zijn arbeidsovereenkomst in geval van verhoging van de werktijd moet presteren;<br>
-2° F2: het bedrag voor de premie. F2 wordt berekend conform de formule F2 = Ai * H/38 * T2/S * N/Y, waarbij:<br>
-a) Aa: 69.753,17 euro voor categorie a;<br>
-b) Ab: 69.753.17 euro voor categorie b;<br>
-c) Ac: 51.951,39 euro voor categorie c;<br>
-d) Ad: 46.941,53 euro voor categorie d;<br>
-e) H: equivalent van het wekelijkse aantal uren van vrijstelling van arbeidsprestaties in het kader van de toekenning van een premie voor een voltijdse werknemer ten opzichte van zijn leeftijd;<br>
-f) T2: aantal per week te presteren uren die voortvloeien uit de arbeidsovereenkomst of de individuele benoemingsakte, die in voorkomend geval uitgeoefend zijn in de functie waarvoor de maatregel geldt;<br>
-g) S: wekelijkse arbeidsregeling, toegepast in het revalidatieziekenhuis;<br>
-h) N: jaarlijks aantal werkuren dat de werkgever bezoldigt in het kader van de eindeloopbaanmaatregelen voor het beschouwde jaar;<br>
-i) Y: theoretisch jaarlijks aantal werkuren die de begunstigde moet presteren volgens zijn arbeidsovereenkomst of zijn individuele benoeming.<br>
-<br>
-§ 4. De revalidatieziekenhuizen verstrekken de volgende inlichtingen voor de uitwerking van het bedrag, vermeld in paragraaf 2:<br>
-1° een uniek identificatienummer per personeelslid;<br>
-2° de geboortedatum;<br>
-3° de functie;<br>
-4° de gekozen optie tussen de vrijstelling van arbeidsprestaties en de premie voor elk van de schijven;<br>
-5° de kostenplaats waar de lasten in rekening worden gebracht;<br>
-6° het aantal uren van vrijstelling van arbeidsprestaties dat het personeelslid kan verkrijgen ten opzichte van zijn leeftijd;<br>
-7° de wekelijks uurregeling in het revalidatieziekenhuis;<br>
-8° het aantal uren dat het personeel moet presteren, zoals blijkt uit het arbeidscontract of de individuele benoemingsakte, in voorkomend geval verminderd naar verhouding van de prestaties die het personeelslid verricht heeft in de functie die het voordeel van de maatregel, vermeld in deze paragraaf, verantwoordt;<br>
-9° de datum van de aanwerving;<br>
-10° de eventuele vertrekdatum;<br>
-11° in geval van gelijkgesteld personeel, het aantal uren onregelmatige prestaties, met een minimum van 200 uren op 24 maanden;<br>
-12° de door de werkgever niet-bezoldigde perioden van afwezigheid alsook hun aard. Dit zijn niet-gelijkgestelde dagen of uren.<br>
-<br>
-De revalidatieziekenhuizen verstrekken de inlichtingen, vermeld in het eerste lid, aan het agentschap, conform de voorwaarden, vermeld in artikel 271 en 272, 3°.<br>
-<br>
-Als de ziekenhuisbeheerder de inlichtingen, vermeld in het eerste lid, niet binnen de termijn, vermeld in artikel 271, aan het agentschap verstrekt, worden de bedragen, vermeld in paragraaf 5, teruggevorderd.<br>
-<br>
-§ 5. Het bedrag, vermeld in paragraaf 2, wordt jaarlijks berekend conform paragraaf 3. Het bedrag voor het dienstjaar n wordt berekend op basis van de verstrekte inlichtingen van het dienstjaar n-2.<br>
-<br>
-Voor de dienstjaren 2014, 2015 en 2016, waarvoor het bedrag wordt berekend conform artikel 79, § 3, van het koninklijk besluit van 25 april 2002, zoals van kracht op 31 december 2018, wordt een inhaalbedrag vereffend, conform artikel 255, § 1.<br>
-<br>
-§ 6. Voor de personeelsleden die hebben geopteerd voor de wekelijkse vrijstelling van arbeidsprestaties, bewijst de ziekenhuisbeheerder dat de vrijgemaakte arbeidstijd en de toegekende financiering gecompenseerd zijn door nieuwe aanwervingen of door een verhoging van de wekelijkse arbeidsduur door de personeelsleden. De volgende werknemers komen niet in aanmerking: de voltijdse werknemers voor wie de eindeloopbaanmaatregelen gelden, en de werknemers voor wie het revalidatieziekenhuis al een financiering van een overheidsinstantie krijgt in het kader van het arbeidsbeleid.<br>
-<br>
-De totale hoeveelheid per personeelscategorie, vermeld in paragraaf 3, tweede lid, van het personeel te compenseren uren wordt prioritair door dezelfde personeelscategorie van het personeel gecompenseerd.<br>
-<br>
-De toegekende financiering wordt, in voorkomend geval, begrensd tot het werkelijke totale aantal vervangingen. Daarvoor bezorgt de ziekenhuisbeheerder tegelijk met de gegevens, vermeld in paragraaf 4, eerste lid, de volgende gegevens:<br>
-1° een uniek identificatienummer per personeelslid;<br>
-2° de geboortedatum;<br>
-3° de datum van in- en uitdiensttreding;<br>
-4° de functie;<br>
-5° de wekelijkse compensatiewerktijd van de nieuwe werknemer of de verhoging van de uurprestaties van de werknemer in functie die zijn werktijd verhoogt;<br>
-6° perioden van afwezigheid die de werkgever niet bezoldigt en hun aard. Dit zijn niet-gelijkgestelde dagen of uren;<br>
-7° kostenplaats voor imputatie;<br>
-8° de datum van het begin van het bijvoegsel bij de overeenkomst van de werknemer die de werktijd verhoogt, of de overeenkomst van de nieuwe werknemer;<br>
-9° de einddatum van de overeenkomst.<br>
-<br>
-§ 7. De ziekenhuisbeheerder bezorgt de ondernemingsraad of het plaatselijke overlegcomité een jaarlijkse inventaris van de eindeloopbaanmaatregelen.
+...
 
 ## Afdeling 3. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
 ### ART 252.
 
-In dit artikel wordt onder toegelaten voltijdsequivalenten verstaan: de werknemers, vermeld in de collectieve arbeidsovereenkomst van 30 juni 2006, gesloten in het Paritair Comité voor de gezondheidsdiensten, tot uitvoering van punt 10 van het akkoord van 26 april 2005 betreffende de federale gezondheidssectoren voor de privésector.<br>
-<br>
-Om het complement van de attractiviteitspremie, vermeld in punt 10 van het akkoord van 26 april 2005 betreffende de federale gezondheidssectoren afgesloten tussen de federale regering en de representatieve organisaties van de private non-profitsector, en in punt 13 van het protocol nr. 148/2 van 29 juni 2005, 5 juli 2005 en 18 juli 2005 van het Gemeenschappelijk Comité voor het geheel van de openbare diensten, te financieren, wordt in het jaarlijks herrekende budget in een budget voorzien, conform het derde lid.<br>
-<br>
-Voor het complement van de attractiviteitspremie die aan alle werknemers van de openbare revalidatieziekenhuizen wordt toegekend, wordt aan elk revalidatieziekenhuis een bedrag toegekend dat wordt berekend door het aantal toegelaten voltijdsequivalenten van het revalidatieziekenhuis te vermenigvuldigen met 803,75 euro. Die 803,75 euro omvat 596,83 euro verhoogd met de werkgeversbijdrage.<br>
-<br>
-Voor het complement van de attractiviteitspremie die aan alle werknemers van de private revalidatieziekenhuizen wordt toegekend, wordt aan elk revalidatieziekenhuis een bedrag toegekend dat wordt berekend door het aantal toegelaten voltijdsequivalenten van het revalidatieziekenhuis te vermenigvuldigen met 833,89 euro. Die 833,89 euro omvat 619,21 euro verhoogd met de werkgeversbijdrage.<br>
-<br>
-De revalidatieziekenhuizen verstrekken de volgende inlichtingen voor de uitwerking van de bedragen, vermeld in het derde en vierde lid:<br>
-1° een uniek identificatienummer per personeelslid;<br>
-2° de functie;<br>
-3° het aantal uren dat het personeel moet presteren, zoals vastgelegd in het arbeidscontract of de individuele benoemingsakte.<br>
-<br>
-Het bedrag ter compensatie van het complement van de attractiviteitspremie wordt elk dienstjaar opnieuw berekend. Het bedrag voor het dienstjaar n wordt berekend op basis van de verstrekte inlichtingen, vermeld in het vijfde lid, van het dienstjaar n-2.<br>
-<br>
-Voor de dienstjaren 2014, 2015 en 2016, waarvoor het bedrag ter compensatie van het complement van de attractiviteitspremie wordt berekend conform artikel 79bis van het koninklijk besluit van 25 april 2002, zoals van kracht op 31 december 2018, wordt een inhaalbedrag vereffend conform artikel 255, § 2, van dit besluit.
+...
 
 ## Afdeling 4. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
 ### ART 252/1.
 
-Om de loonsverhoging ter uitvoering van punt 2.1.1. van het Vijfde Vlaams Intersectoraal akkoord van 8 juni 2018 voor de social/non-profitsectoren voor de periode 2018-2021, te financieren, wordt in het jaarlijks herrekende budget van de private revalidatieziekenhuizen in een budget voorzien.<br>
-<br>
-Voor het dienstjaar 2019 bedraagt het budget, vermeld in het eerste lid, 199.728 euro.<br>
-<br>
-Voor de dienstjaren 2020 en 2021 bedraagt het budget, vermeld in het eerste lid, 1.003.426 euro. Dit bedrag van 1.003.426 euro wordt enerzijds verhoogd met een factor die de stijging van de loonkost tot 2020, respectievelijk tot 2021 uitdrukt op basis van de evolutie van de index, van de anciënniteit en van het aantal vte. Datzelfde bedrag wordt anderzijds verminderd met de voorafname zoals bepaald in punt 1.1.1 van het Vijfde Vlaams Intersectoraal akkoord van 8 juni 2018 in het kader van de versterking van de tweede pensioenpijler.<br>
-<br>
-Het budget, vermeld in het tweede en derde lid, wordt provisioneel verdeeld over de private revalidatieziekenhuizen, rekening houdend met het aantal voltijdse equivalente personeelsleden per revalidatieziekenhuis dat conform artikel 252 in aanmerking komt voor de berekening van het complement van de attractiviteitspremie.<br>
-<br>
-De definitieve verdeling van het budget, vermeld in het tweede en derde lid, per revalidatieziekenhuis, wordt bepaald op basis van de berekening die de vzw IFIC in oktober 2019, maart 2020 , maart 2021 en maart 2022 aan het agentschap meedeelt, ermee rekening houdend dat het budget, vermeld in het tweede en derde lid, niet mag worden overschreden. Hiertoe wordt conform artikel 255, § 3, voorzien in een corrigerend bedrag voor de dienstjaren 2020 , 2021 en 2022.
+...
 
 ## Afdeling 5. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
 ### ART 252/2.
 
-Om de loonsverhoging ter uitvoering van punt 1.1. van deel III van luik III van het zesde Vlaams Intersectoraal akkoord van 30 maart 2021 voor de social/non-profitsectoren voor het jaar 2021 te financieren, wordt in het jaarlijks herrekende budget van de private revalidatieziekenhuizen in een budget voorzien.<br>
-<br>
-Het budget, vermeld in het eerste lid, bedraagt 4.016.190,49 euro.<br>
-<br>
-Het budget, vermeld in het eerste lid, wordt provisioneel verdeeld over de private revalidatieziekenhuizen, rekening houdend met het aantal voltijdsequivalent personeelsleden per revalidatieziekenhuis dat conform artikel 252 in aanmerking komt voor de berekening van het complement van de attractiviteitspremie.<br>
-<br>
-De definitieve verdeling van het budget, vermeld in het eerste lid, per revalidatieziekenhuis, wordt bepaald op basis van de berekening die de vzw IFIC in juni 2022 aan het agentschap meedeelt. Daarbij wordt ermee rekening gehouden dat het bedrag, vermeld in het tweede lid, niet mag worden overschreden. Hiertoe wordt conform artikel 255, § 3, voorzien in een corrigerend bedrag voor het dienstjaar 2022.
+...
 
 ## HOOFDSTUK 5. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
 ### ART 253.
 
-Het corrigerende budget bestaat uit de volgende onderdelen:<br>
-1° de correcties voor de voorbije dienstjaren, vastgesteld conform artikel 254;<br>
-2° de inhaalbedragen voor een tekort of een teveel aan ontvangsten ten opzichte van het budget voor het lopende dienstjaar of het budget dat vastgesteld is voor een of meer van de vorige dienstjaren, namelijk:<br>
-a) de bedragen, vastgesteld conform artikel 255;<br>
-b) de bedragen, vastgesteld conform artikel 256;<br>
-3° de bedragen in geval van sluiting of opening van ziekenhuisbedden, vastgesteld conform artikel 257;<br>
-4° de bedragen voor de afrekening van de provisionele bedragen die conform artikel 257/1 zijn vastgesteld.
+...
 
 ### ART 254.
 
-Een tekort of een teveel aan ontvangsten voor de voorbije dienstjaren wordt verrekend in het corrigerende budget van het dienstjaar dat volgt op het jaar waarin de fout is vastgesteld. De correcties voor de dienstjaren tot en met 2018 worden berekend conform de bepalingen van het koninklijk besluit van 25 april 2002, zoals van kracht op 31 december 2018.
+...
 
 ### ART 255.
 
-§ 1. Om de eindeloopbaanmaatregelen, vermeld in artikel 251, te financieren, wordt voor de dienstjaren 2014, 2015 en 2016 een inhaalbedrag voorzien in het corrigerende budget.<br>
-<br>
-Het bedrag, vermeld in het eerste lid, is het verschil tussen het definitieve en het provisionele bedrag, berekend conform artikel 79, § 3, 3°, van het koninklijk besluit van 25 april 2002, zoals van kracht op 31 december 2018.<br>
-<br>
-§ 2. Om het complement van de attractiviteitspremie, vermeld in artikel 252, te financieren, wordt, voor de dienstjaren 2014, 2015 en 2016 een inhaalbedrag voorzien in het corrigerende budget.<br>
-<br>
-Het bedrag, vermeld in het eerste lid, is het verschil tussen het bedrag dat inbegrepen is in het budget van financiële middelen voor de jaren, vermeld in het eerste lid, en het bedrag dat voor die jaren wordt berekend conform artikel 79bis van het koninklijk besluit van 25 april 2002, zoals van kracht op 31 december 2018, en op basis van de verstrekte inlichtingen voor dat jaar.<br>
-<br>
-§ 3. Om de loonsverhoging door de functieclassificatie, vermeld in artikel 252/1, te financieren voor de dienstjaren 2019, 2020 en 2021, wordt een corrigerend bedrag vastgesteld in respectievelijk het corrigerende budget voor het dienstjaren 2020 en 2021.<br>
-<br>
-Het bedrag, vermeld in het eerste lid, is het verschil tussen het provisionele bedrag dat het revalidatieziekenhuis conform artikel 252/1, vierde lid, ontvangt en het bedrag dat de vzw IFIC voor dat revalidatieziekenhuis conform artikel 252/1, vijfde lid, meedeelt.
+...
 
 ### ART 256.
 
-Voor de herziening van de opsplitsing van het vaste en variabele gedeelte van het budget dat conform artikel 260, § 2, bij beëindiging van elk dienstjaar wordt berekend, wordt in een inhaalbedrag voorzien in het corrigerende budget.
+...
 
 ### ART 257.
 
-In geval van een vermindering van het aantal erkende ziekenhuisbedden in een revalidatieziekenhuis wordt 80 % van het basisbudget proportioneel verminderd in verhouding tot de vermindering van de bedcapaciteit.<br>
-<br>
-In geval van een vermeerdering van het aantal erkende ziekenhuisbedden in een revalidatieziekenhuis:<br>
-1° door de vermindering van het aantal ziekenhuisbedden in een ander revalidatieziekenhuis wordt het basisbudget vermeerderd met het bedrag waarmee het basisbudget van het andere revalidatieziekenhuis is verminderd;<br>
-2° door de vermindering van het aantal ziekenhuisbedden in een ziekenhuis, die voortvloeit uit een samenwerkingsakkoord gesloten tussen de Vlaamse Gemeenschap en de federale overheid conform artikel 47/9, § 5, van de bijzondere wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten, wordt het basisbudget vermeerderd met een bedrag dat wordt bepaald door de Vlaamse Regering;<br>
-3° wordt in alle andere gevallen, dan de gevallen, vermeld in punt 1° en 2°, 80 % van het basisbudget proportioneel vermeerderd in verhouding tot de vermeerdering van de bedcapaciteit.
+...
 
 ### ART 257/1.
 
-Er wordt een bedrag ter beschikking gesteld in het corrigerende budget voor de afrekening van provisioneel toegekende bedragen.<br>
-<br>
-Voor het dienstjaar 2022 wordt een bedrag ter beschikking gesteld dat berekend wordt als het verschil tussen het provisioneel toegekende bedrag, vermeld in artikel 249/1, en de werkelijke kosten van het ziekenvervoer om de COVID-19 pandemie te beheersen. De minister bepaalt de manier waarop het revalidatieziekenhuis de werkelijke kosten moet staven in de overeenkomst, vermeld in artikel 249/1. Indien de werkelijke kosten minder bedragen dan het ter beschikking gestelde bedrag, kan het verschil teruggevorderd worden
+...
 
 ## HOOFDSTUK 6. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
 ### ART 258.
 
-De volgende delen van het budget, vermeld in artikel 240, worden geïndexeerd conform het derde lid:<br>
-1° 97 % van het basisbudget;<br>
-2° 100 % van het voorwaardelijke budget;<br>
-3° 100 % van het jaarlijks herrekende budget.<br>
-<br>
-Het corrigerende budget wordt niet geïndexeerd.<br>
-<br>
-De delen van het budget, vermeld in het eerste lid, en de bedragen vermeld in dit besluit, zijn, tenzij het anders is vermeld, gekoppeld aan het spilindexcijfer 103,04 (basis=2013) en worden aangepast conform de wet van 2 augustus 1971 houdende inrichting van een stelsel waarbij de wedden, lonen, pensioenen, toelagen en tegemoetkomingen ten laste van de openbare schatkist, sommige sociale uitkeringen, de bezoldigingsgrenzen waarmee rekening dient gehouden bij de berekening van sommige bijdragen van de sociale zekerheid der arbeiders, alsmede de verplichtingen op sociaal gebied opgelegd aan de zelfstandigen, aan het indexcijfer van de consumptieprijzen worden gekoppeld.
+...
 
 ## Titel 2. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
 ### ART 259.
 
-De beslissing van de minister over de vaststelling van het budget, vermeld in artikel 239 en 265, wordt aan de ziekenhuisbeheerder meegedeeld door het agentschap.<br>
-<br>
-Als de ziekenhuisbeheerder niet akkoord gaat met de berekening van het budget, kan hij binnen dertig dagen nadat hij de beslissing over de vaststelling van het budget heeft ontvangen, bezwaar aantekenen bij de minister met een aangetekende zending die gericht is aan de leidend ambtenaar.<br>
-<br>
-De beslissing van de minister over het bezwaar wordt binnen dertig dagen nadat hij het bezwaar heeft ontvangen, aan de ziekenhuisbeheerder meegedeeld.<br>
-<br>
-Als de ziekenhuisbeheerder geen bezwaar heeft ingediend conform het tweede lid, wordt hij van rechtswege geacht akkoord te gaan met de vaststelling van het budget.
+...
 
 ## Titel 3. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
@@ -3311,166 +3009,81 @@ Als de ziekenhuisbeheerder geen bezwaar heeft ingediend conform het tweede lid, 
 
 ### ART 260.
 
-§ 1. Het vast gedeelte van het budget wordt gevormd door 80 % van het basisbudget, vermeld in artikel 241, vermeerderd met het voorwaardelijke budget, het jaarlijks herrekende budget en het corrigerende budget, vermeld in artikel 243, 250 en 253.<br>
-<br>
-Het variabele gedeelte van het budget wordt gevormd door 20 % van het basisbudget.<br>
-<br>
-§ 2. Zowel het vaste, als het variabele gedeelte wordt in twee gedeelten opgesplitst. Het ene gedeelte wordt berekend op basis van het aantal verpleegdagen van het laatst bekende dienstjaar voor de patiënten, vermeld in artikel 115 van de gecoördineerde wet van 10 juli 2008. Het andere gedeelte wordt berekend op basis van het aantal verpleegdagen van het laatst bekende dienstjaar voor de patiënten, vermeld in artikel 116 van de voormelde wet.<br>
-<br>
-Zodra het dienstjaar is beëindigd, wordt de opsplitsing van het vaste en variabele gedeelte op basis van de specifieke gegevens van dit dienstjaar herzien om de opsplitsing, vermeld in het eerste lid, in overeenstemming te brengen met de reële verhouding tussen het aantal patiënten, vermeld in artikel 115 van de gecoördineerde wet van 10 juli 2008, enerzijds, en artikel 116 van de gecoördineerde wet van 10 juli 2008, anderzijds. Die herziening wordt verrekend in het corrigerende budget conform artikel 256.
+...
 
 ## HOOFDSTUK 2. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
 ### ART 261.
 
-Voor de patiënten, vermeld in artikel 115 van de gecoördineerde wet van 10 juli 2008, wordt het vaste gedeelte, vermeld in artikel 260, § 1, eerste lid, van dit besluit, door de verzekeringsinstellingen in twaalfden vereffend, en dat in evenredigheid met hun respectievelijk aandeel van de gerealiseerde verpleegdagen in de loop van het laatst bekende dienstjaar voor het revalidatieziekenhuis in kwestie, binnen de termijn, vastgesteld door de minister.<br>
-<br>
-Voor de patiënten, vermeld in het eerste lid, wordt het variabele gedeelte, vermeld in artikel 260, § 1, tweede lid, volledig vereffend volgens een prijs per verpleegdag. De prijs per verpleegdag wordt bepaald door het variabele gedeelte te delen door de verpleegdagen die tijdens het laatst bekende dienstjaar gerealiseerd zijn voor patiënten die onder dit hoofdstuk vallen.
+...
 
 ### ART 261/1.
 
-Vanaf april 2020 wordt een budgetgarantie voorzien als bepaald in dit artikel.<br>
-<br>
-Vanaf 15 april 2020 wordt maandelijks een compenserend budget ingevolge de COVID-19 pandemie betaald. Het compenserend budget is het verschil tussen een twaalfde van het variabel gedeelte van het budget, vermeld in artikel 260, § 1, tweede lid van dit besluit en het bedrag dat, met respect voor de bepalingen van dit besluit, aan de verzekeringsinstellingen gefactureerd werd voor de gerealiseerde verpleegdagen in de voorbije maand.<br>
-<br>
-Wat betreft het persoonlijk aandeel van de zorggebruikers kan het compenserend budget, vermeld in het tweede lid, niet worden gewijzigd.<br>
-<br>
-Er kan een laatste keer een compenserend budget worden aangerekend voor de maand juni 2021.
+...
 
 ## HOOFDSTUK 3. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
 ### ART 262.
 
-Voor de patiënten, vermeld in artikel 116 van de gecoördineerde wet van 10 juli 2008, stelt de minister een prijs per verpleegdag vast. Het vaste en het variabele gedeelte van het budget, vermeld in artikel 260, § 1, van dit besluit, worden opgeteld en gedeeld door verpleegdagen die de tijdens het laatst bekende dienstjaar gerealiseerd zijn.
+...
 
 ### ART 263.
 
-Als de ziekenhuisverpleging aanleiding geeft tot een tegemoetkoming van de Rijksdienst voor Sociale Zekerheid voor de overzeese sociale zekerheid, of van de Hulpkas voor Ziekte- en Invaliditeitsverzekering voor de oorlogsinvaliden, oud-strijders en oorlogsslachtoffers, en de zeevarenden, in het raam van hun eigen reglementering, of van een Openbaar Centrum voor Maatschappelijk Welzijn voor behoeftigen, wordt 22 % van de conform artikel 262 berekende prijs per verpleegdag betaald door de Vlaamse Gemeenschap. Het resterend gedeelte van de conform artikel 262 berekende prijs per verpleegdag valt, naargelang het geval, ten laste van de Rijksdienst voor Sociale Zekerheid, voor de overzeese sociale zekerheid, of van de Hulpkas voor Ziekte- en Invaliditeitsverzekering voor de oorlogsinvaliden, oud-strijders en oorlogsslachtoffers, en de zeevarenden, in het raam van hun eigen reglementering, of van een Openbaar Centrum voor Maatschappelijk Welzijn.
+...
 
 ## HOOFDSTUK 4. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
 ### ART 264.
 
-§ 1. Als een revalidatieziekenhuis, de voorwaarden, vermeld in titel 4, niet naleeft, stuurt het agentschap het revalidatieziekenhuis elektronisch een herinnering die een termijn van dertig dagen vaststelt om te voldoen aan de voorwaarden.<br>
-<br>
-Als het agentschap bij het verstrijken van de termijn, vermeld in het eerste lid, vaststelt dat de ziekenhuisbeheerder niet het gewenste gevolg heeft gegeven, vermindert de minister het budget van het revalidatieziekenhuis met maximaal 30 % vanaf de eerste dag van de maand die volgt op de maand waarin de termijn is verstreken, tot het revalidatieziekenhuis aan de voorwaarden voldoet. Om de duur van die sanctie vast te stellen, wordt elke begonnen maand als een volledige maand beschouwd. De hoogte van het percentage staat in verhouding tot de zwaarwichtigheid van de inbreuk en de herhaling ervan.<br>
-<br>
-§ 2. Als een revalidatieziekenhuis de voorwaarden, vermeld in titel 5, niet naleeft, stuurt het agentschap het revalidatieziekenhuis elektronisch een herinnering die een nieuwe termijn van dertig dagen vaststelt om de gegevens, vermeld in titel 5, mee te delen.<br>
-<br>
-Als het agentschap bij het verstrijken van de termijn, vermeld in het eerste lid, vaststelt dat de ziekenhuisbeheerder niet het gewenste gevolg heeft gegeven, vermindert de minister het budget van het revalidatieziekenhuis met 10 % vanaf de eerste dag van de maand die op de maand waarin termijn is verstreken, tot de gevraagde inlichtingen in bezit zijn van het agentschap. Om de duur van die sanctie vast te stellen, wordt elke begonnen maand als een volledige maand beschouwd.<br>
-<br>
-Als het agentschap zes maanden na het verstrijken van de termijn, vermeld in het eerste lid, vaststelt dat de ziekenhuisbeheerder niet het gewenste gevolg heeft gegeven, wordt het gedeelte van het budget dat betrekking heeft op de ontbrekende gegevens bij de eerstvolgende vaststelling van het budget gelijkgesteld aan nul.
+...
 
 ### ART 265.
 
-De minister kan de toekenning van het budget of een gedeelte ervan stopzetten als het revalidatieziekenhuis niet beschikt over de vereiste erkenning, vermeld in artikel 58, 66 en 67 van de gecoördineerde wet van 10 juli 2008, de vergunning, vermeld in artikel 39 van de voormelde wet, of de toelating, vermeld in artikel 54 en 57 van de voormelde wet. Die stopzetting geldt voor het budget of het gedeelte ervan dat betrekking heeft op die erkenning, vergunning of toelating.<br>
-<br>
-De minister kan een beslissing, als vermeld in het eerste lid, pas nemen nadat het agentschap aan het revalidatieziekenhuis elektronisch een herinnering heeft gestuurd om zijn verplichtingen na te komen binnen een door het agentschap bepaalde termijn en het revalidatieziekenhuishuis daaraan geen gevolg heeft gegeven.
+...
 
 ## Titel 4. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
 ### ART 266.
 
-§ 1. Uiterlijk bij de aanvang van een opname wordt aan de patiënt, of aan de persoon die, conform artikel 12 tot en met 14 van de wet van 22 augustus 2002 betreffende de rechten van de patiënt, een patiënt kan vertegenwoordigen, hierna "de vertegenwoordiger" te noemen, een bundel documenten ter ondertekening aangeboden.<br>
-<br>
-Die bundel documenten bestaat uit de twee volgende documenten:<br>
-1° een opnameverklaring, opgemaakt conform het model, die opgenomen is in bijlage 5 of 6, die bij dit besluit zijn gevoegd, al naargelang het gaat om een klassieke opname in een revalidatieziekenhuis of een daghospitalisatie in een revalidatieziekenhuis;<br>
-2° een document met de nodige toelichting bij de opnameverklaring volgens het model, die opgenomen is in bijlage 7, die bij dit besluit is gevoegd.<br>
-<br>
-De bundel, documenten informeert de patiënt over de financiële implicaties van een opname in het revalidatieziekenhuis. Het revalidatieziekenhuis besteedt er, bij voorkeur voorafgaand aan de opname en uiterlijk op het moment van de opname zelf, de nodige tijd aan om de inhoud van de opnameverklaring en de financiële implicaties van een opname in het revalidatieziekenhuis aan de hand van het toelichtingsdocument, vermeld in het tweede lid, 2°, mondeling toe te lichten.<br>
-<br>
-§ 2. Een overzichtslijst met de actuele prijzen van de goederen en diensten die in het revalidatieziekenhuis aangeboden worden, wordt in het revalidatieziekenhuis ter beschikking gesteld van de patiënt. Het revalidatieziekenhuis informeert de patiënt duidelijk en uitdrukkelijk waar de overzichtslijst in het revalidatieziekenhuis geconsulteerd kan worden. Daarnaast publiceert het revalidatieziekenhuis de overzichtslijst op zijn website.<br>
-<br>
-§ 3. In paragraaf 1, tweede lid, 1°, wordt verstaan onder daghospitalisatie: het geheel van geplande diagnostische of therapeutische verrichtingen in de verschillende medische disciplines, waarbij de patiënt op dezelfde dag als die waarop hij is opgenomen, uit het revalidatieziekenhuis ontslagen wordt. Die verrichtingen vereisen de daadwerkelijke inzet van medisch, verpleegkundig of paramedisch personeel van het revalidatieziekenhuis vanwege de medische toestand van de patiënt die behoefte heeft aan een verlengd medisch of verpleegkundig toezicht of door de medisch-technische complexiteit van de procedure en de veiligheid van de patiënt.<br>
-<br>
-§ 4. De cursief gedrukte tekst in de modellen, die opgenomen zijn in bijlage 5, 6 en 7, die bij dit besluit zijn gevoegd, duiden de passages aan die het revalidatieziekenhuis kan weglaten als die niet van toepassing zijn in het revalidatieziekenhuis in kwestie. Als de titel van een rubriek in de modellen cursief gedrukt staat, kan die hele rubriek weggelaten worden als de inhoud van die rubriek in het revalidatieziekenhuis of bij een specifieke opname niet van toepassing is. Elke andere wijziging, weglating of toevoeging in de modellen, die opgenomen zijn in bijlage 5, 6 en 7, die bij dit besluit zijn gevoegd, is niet toegelaten.<br>
-<br>
-De ziekenhuisbeheerder van het revalidatieziekenhuis ziet er in het bijzonder op toe dat alle elementen die in de opnameverklaring in percent uitgedrukt zijn, behoorlijk zijn ingevuld en geactualiseerd en dat alle andere gevraagde informatie wordt verstrekt.<br>
-<br>
-In afwijking van het eerste lid mogen revalidatieziekenhuizen die noch kamersupplementen, noch ereloonsupplementen aanrekenen, ook afwijken van de niet-cursief gedrukte tekst van de modellen, die opgenomen zijn in bijlage 5, 6 en 7, die bij dit besluit zijn gevoegd, afwijken. Ze mogen de patiënt op een vereenvoudigde manier informeren over de financiële implicaties van een opname in het revalidatieziekenhuis.<br>
-<br>
-§ 5. De opnameverklaring wordt volledig ingevuld.<br>
-<br>
-De opnameverklaring wordt in twee exemplaren ondertekend, waarvan de ziekenhuisbeheerder en de patiënt of zijn vertegenwoordiger ieder één exemplaar ontvangen. Het gebruik van doorslagpapier of een elektronische handtekening is daarbij toegestaan. De patiënt ontvangt altijd een papieren versie van de ondertekende opnameverklaring, ook als de opnameverklaring elektronisch ondertekend is.<br>
-<br>
-Het revalidatieziekenhuis bewaart de ondertekende opnameverklaring minstens gedurende een periode van twee jaar nadat de laatste factuur verstuurd is die betrekking heeft op de opname die aanleiding heeft gegeven tot de ondertekening van de opnameverklaring in kwestie.
+...
 
 ### ART 267.
 
-De overzichtslijst, vermeld in artikel 266, § 2, met de actuele prijzen van de goederen en diensten die in het revalidatieziekenhuis aangeboden worden, maakt een onderscheid tussen de kosten die verbonden zijn aan het comfort van de kamer, de kosten voor eten en drinken, de kosten voor hygiënische producten, de kosten voor de was, de kosten voor de begeleider van de patiënt en de kosten voor andere diverse goederen en diensten.<br>
-<br>
-Als een forfaitair bedrag wordt toegepast om het gebruik van verschillende voormelde goederen en diensten te dekken, dan worden de goederen en diensten die door dat forfait worden gedekt, ook gespecificeerd.
+...
 
 ### ART 268.
 
-Ongeacht de regeling die van toepassing is voor de inning van de erelonen, vermeldt de ziekenhuisbeheerder van het revalidatieziekenhuis in de opnameverklaring welk percentage de artsen van het revalidatieziekenhuis ten opzichte van de verbintenistarieven hanteren bij de bepaling van de supplementen. In de gevallen waarin dat niet bij wet is opgelegd, kan de ziekenhuisbeheerder verduidelijken dat het om maximumpercentages gaat.
+...
 
 ### ART 269.
 
-De ziekenhuisbeheerder van het revalidatieziekenhuis stelt aan iedereen die zich vooraf wil informeren, een exemplaar ter beschikking van de opnameverklaring met daarin de geldende tarieven, waaronder die welke specifiek voor het revalidatieziekenhuis zijn vastgesteld.<br>
-<br>
-Elk revalidatieziekenhuis deelt, op eenvoudig verzoek van het agentschap, een exemplaar van de opnameverklaringen die in het revalidatieziekenhuis gebruikt worden, kunnen voorleggen. Op de opnameverklaringen zijn de tarieven ingevuld die in het revalidatieziekenhuis gelden. Als dat van toepassing is, zijn ze aangepast volgens de mogelijkheden, vermeld in artikel 266, § 4, mee.
+...
 
 ## Titel 5. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
 ### ART 270.
 
-De gegevens over de financiële toestand en de bedrijfsuitkomsten omvatten:<br>
-1° de eindbalans;<br>
-2° de resultatenrekening, opgesplitst per activiteitencentrum;<br>
-3° een tabel waarin de samenstellende elementen van de verdeelsleutels, toegepast in de beheersboekhouding overzichtelijk worden weergegeven;<br>
-4° het verslag van de bedrijfsrevisor, vermeld in artikel 88 van de gecoördineerde wet van 10 juli 2008.<br>
-<br>
-De gegevens die noodzakelijk zijn voor de vaststelling van het budget, omvatten:<br>
-1° het jaaroverzicht van het aantal verpleegdagen, die gerealiseerd zijn gedurende het dienstjaar in kwestie, alsook de uitsplitsing van die dagen per betalingsinstelling;<br>
-2° de gegevens over de eindeloopbaanmaatregelen, vermeld in artikel 251, § 4, eerste lid en § 6, derde lid;<br>
-3° de gegevens betreffende het complement van de attractiviteitspremie, vermeld in artikel 252, vijfde lid.<br>
-<br>
-De gegevens over de activiteiten en de kwaliteitsopvolging omvatten:<br>
-1° het maandoverzicht van de volgende gegevens voor de maand in kwestie, enerzijds voor alle patiënten en anderzijds voor de patiënten voor wie de verzekeringsinstellingen, vermeld in artikel 261, een financiële tegemoetkoming hebben verleend:<br>
-a) de verpleegdagen;<br>
-b) de opnamen in het revalidatieziekenhuis;<br>
-2° de ontslagen uit het revalidatieziekenhuis;<br>
-3° de door de Vlaamse Regering nader te bepalen gegevens over de activiteiten en de kwaliteitsopvolging van het revalidatieziekenhuis.<br>
-<br>
-De gegevens die verband houden met de medische activiteiten, mogen geen gegevens bevatten die de natuurlijke persoon waarop ze betrekking hebben, rechtstreeks identificeren. Er mogen geen handelingen worden verricht die erop gericht zijn om die gegevens in verband te brengen met de geïdentificeerde natuurlijke persoon waarop ze betrekking hebben, tenzij die handelingen nodig zijn om ambtenaren, aangestelden of adviserend artsen aangewezen als vermeld in artikel 127 van de gecoördineerde wet van 10 juli 2008, de waarachtigheid van de meegedeelde gegevens te laten nagaan.
+...
 
 ### ART 271.
 
-De gegevens, vermeld in artikel 270, worden uiterlijk op 31 augustus van het jaar dat volgt op het jaar waarop ze betrekking hebben, meegedeeld aan het agentschap.
+...
 
 ### ART 272.
 
-De gegevens, vermeld in artikel 270, worden als volgt meegedeeld:<br>
-1° de gegevens, vermeld in artikel 270, eerste lid, 1°, 2° en 4°, conform de bepalingen van het koninklijk besluit van 19 juni 2007 betreffende de jaarrekeningen van de ziekenhuizen;<br>
-2° de gegevens, vermeld in artikel 270, eerste lid, 3°, conform de modaliteiten die door de minister worden bepaald;<br>
-3° de gegevens, vermeld in artikel 270, tweede lid, conform de modaliteiten die door de minister worden bepaald;<br>
-4° de gegevens, vermeld in artikel 270, derde lid, 1°, conform bijlage 8, die bij dit besluit is gevoegd;<br>
-5° de gegevens, vermeld in artikel 270, derde lid, 2°, conform de voorwaarden die de Vlaamse Regering bepaalt.
+...
 
 ### ART 273.
 
-De stukken tot staving van de gegevens, vermeld in artikel 270, eerste lid, worden gedurende tien jaar bewaard door het revalidatieziekenhuis.<br>
-<br>
-De stukken tot staving van de gegevens, vermeld in artikel 270, tweede lid en derde lid, worden gedurende vijf jaar bewaard door het revalidatieziekenhuis.
+...
 
 ### ART 274.
 
-Binnen een maand na de bekendmaking van dit besluit deelt de ziekenhuisbeheerder van het revalidatieziekenhuis aan het agentschap de voor- en achternaam, het professionele adres, het telefoonnummer en het e-mailadres mee van:<br>
-1° de directeur, de hoofdarts en het hoofd van het verpleegkundig departement van het revalidatieziekenhuis;<br>
-2° de persoon of personen die ervoor verantwoordelijk zijn van de gegevens, vermeld in artikel 270, eerste lid, van het revalidatieziekenhuis mee te delen;<br>
-3° de persoon of personen die ervoor verantwoordelijk zijn de statistische gegevens, vermeld in artikel 270, van het revalidatieziekenhuis mee te delen;<br>
-4° de veiligheidsconsulent, vermeld in deel I. Algemene normen die op al de inrichtingen toepasselijk zijn, punt III. Organisatorische normen, 9° quater, g), van de bijlage bij het koninklijk besluit van 23 oktober 1964 tot bepaling van de normen die door de ziekenhuizen en hun diensten moeten worden nageleefd.<br>
-<br>
-Bij de oprichting van een nieuw revalidatieziekenhuis of in geval van samenwerking van revalidatieziekenhuizen met een of meer revalidatieziekenhuizen of ziekenhuizen wordt de mededeling, vermeld in het eerste lid, gedaan binnen een maand nadat de voorlopige erkenning van het revalidatieziekenhuis of van de erkenning van de samenwerkingsvorm van de revalidatieziekenhuizen betekend is.<br>
-<br>
-Elke wijziging van de personen, vermeld in het eerste lid, wordt binnen een maand meegedeeld.<br>
-<br>
-Het revalidatieziekenhuis bewaart de persoonsgegevens, vermeld in het eerste lid, tot één jaar na vertrek van de betrokkene.
+...
 
 ### ART 275.
 
-De minister of het agentschap kan aan de ziekenhuisbeheerder van het revalidatieziekenhuis alle gegevens opvragen die nuttig zijn voor de vaststelling van het budget.
+...
 
 ## Deel 6. Multidisciplinaire begeleidingsequipes voor palliatieve verzorging
 
