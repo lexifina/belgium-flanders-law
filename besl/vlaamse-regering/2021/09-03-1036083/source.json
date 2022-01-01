@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036083,
+  "title": "Besluit van de Vlaamse Regering van 2021-09-03 tot wijziging van artikel 5, 37 en 55/1 van het besluit van de Vlaamse Regering van 28 september 2018 houdende het terugkommoment in het kader van de rijopleiding categorie B en tot opheffing van bijlage 2, 5, 6 en 7 bij dat besluit",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036083/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "f35f7a586953ecf006e92d1280fa4d7e655c6206a841726de6ad3a935445dc06",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036083&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2021-09-03",
+  "gazette": "2021-09-28",
+  "numac": 2021033204,
+  "document_start": "2022-01-01",
+  "document_end": null,
+  "in_force": "2022-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
