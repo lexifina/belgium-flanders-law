@@ -72,11 +72,11 @@ De jaarlijkse rapportage, vermeld in artikel 39 van het besluit van 28   maart 2
 
 <p>Om het subsidiebedrag, vermeld in artikel 61 van het besluit van 28 maart 2014, voor elk erkend en gesubsidieerd expertisecentrum kraamzorg vast te stellen, wordt een vast bedrag vermeerderd met een variabel bedrag.<br>
 <br>
-Het vaste bedrag, vermeld in het eerste lid, bedraagt voor een expertisecentrum kraamzorg 46.530,45 euro (zessenveertigduizend vijfhonderddertig euro vijvenveertig cent).<br>
+Het vaste bedrag, vermeld in het eerste lid, bedraagt voor een expertisecentrum kraamzorg 47.084,98 euro (zevenenveertigduizend vierentachtig euro achtennegentig cent).<br>
 <br>
 Om het variabele bedrag, vermeld in het eerste lid, te berekenen, geldt een basisbedrag dat bestaat uit het aantal minderjarigen in het werkingsgebied, vermenigvuldigd met 0,52 euro (tweeënvijftig cent). Het basisbedrag wordt vermeerderd met het bedrag dat verkregen wordt door de samengestelde indicator te vermenigvuldigen met 20% van het basisbedrag en met een bedrag dat rekening houdt met de evolutie van de geldelijke anciënniteit, vermeld in artikel 61, § 1/1, eerste lid, 3°, van het besluit van 28 maart 2014.<br>
 <br>
-Het maximale subsidiebedrag dat aan een expertisecentrum kraamzorg kan worden toegekend, rekening houdend met de beschikbare begrotingskredieten, bedraagt 89.378,53 euro (negenentachtigduizend driehonderdachtenzeventig euro drieënvijftig cent).<br>
+Het maximale subsidiebedrag dat aan een expertisecentrum kraamzorg kan worden toegekend, rekening houdend met de beschikbare begrotingskredieten, bedraagt 89.933,06 euro (negentachtigduizend negenhonderddrieëndertig euro zes cent).<br>
 <br>
 De subsidie, vermeld in dit artikel, is gekoppeld aan de spilindex die van toepassing is op 1 januari 2021. De bedragen worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing wordt telkens gedaan vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.</p>
 
