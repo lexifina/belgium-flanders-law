@@ -24,9 +24,11 @@ In dit besluit wordt verstaan onder:<br>
 4° hulpkas: "de Hulpkas voor ziekte- en invaliditeitsverzekering", vermeld in artikel 5 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;<br>
 5° landsbond: een landsbond als vermeld in artikel 6 tot en met 8 van de wet van 6 augustus 1990 betreffende de ziekenfondsen en de landsbonden van ziekenfondsen;<br>
 6° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
+6° /1 multidisciplinair overleg: een multidisciplinair overleg als vermeld in artikel 2, eerste lid, 20° /1, van het decreet van 18 mei 2018;<br>
 7° overnamedecreet : decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging;<br>
 8° premies: de premies voor de Vlaamse sociale bescherming, vermeld in artikel 45 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
-9° tegemoetkoming: een financiële tegemoetkoming bepaald in artikel 2, 30° van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming of een tegemoetkoming vermeld in de artikels 19 tot en met 43 van het overnamedecreet;<br>
+8° /1 revalidatieziekenhuis: een revalidatieziekenhuis als vermeld in artikel 2, eerste lid, 27°, van het decreet van 18 mei 2018;<br>
+9° tegemoetkoming: een financiële tegemoetkoming bepaald in artikel 2, 30° van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming of een tegemoetkoming als vermeld in artikel 18 tot en met 40 van het overnamedecreet;<br>
 10° verzekeringsinstelling: een landsbond, de Hulpkas en de Kas der geneeskundige verzorging van HR Rail";<br>
 11° zorgkas: een erkende zorgkas, of de vzw Vlaamse Zorgkas, vermeld in artikel 18 en artikel 21 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.
 
@@ -81,7 +83,7 @@ Het gaat hier om alle&nbsp;premies en tegemoetkomingen van het huidige jaar en v
 ### ART 7.
 
 Het totaalbedrag van de subsidie voor werkingskosten bedraagt de som van de volgende subsidies:<br>
-1° de subsidie voor werkingskosten voor de aansluiting bij de Vlaamse sociale bescherming en de zorgverzekeringstegemoetkoming;<br>
+1° de subsidie voor werkingskosten voor de aansluiting bij de Vlaamse sociale bescherming en het zorgbudget voor zwaar zorgbehoevenden;<br>
 2° de subsidie voor het basisondersteuningsbudget;<br>
 3° de subsidie voor het zorgbudget voor ouderen met een zorgnood.
 
@@ -89,7 +91,7 @@ Het totaalbedrag van de subsidie voor werkingskosten bedraagt de som van de volg
 
 ### ART 8.
 
-De jaarlijkse subsidie voor werkingskosten is gelijk aan 8.812.536 euro voor alle erkende zorgkassen. Dat bedrag wordt verdeeld onder de zorgkassen conform artikel 9.<br>
+De jaarlijkse subsidie voor werkingskosten is gelijk aan&nbsp;8.985.465 euro voor alle erkende zorgkassen. Dat bedrag wordt verdeeld onder de zorgkassen conform artikel 9.<br>
 <br>
 Als een zorgkas in de loop van een jaar erkend wordt of als een erkende zorgkas vrijwillig haar activiteiten stopzet of haar erkenning verliest, wordt de subsidie pro rata berekend.<br>
 <br>
@@ -101,7 +103,7 @@ Vanaf het jaar 2022 wordt het bedrag, vermeld in het eerste lid, zoals geïndexe
 
 In dit artikel wordt verstaan onder lopend dossier: een dossier van een zorgbehoevende dat is goedgekeurd en waarvan de termijn voor tegemoetkomingen nog niet verstreken is. Het agentschap kan bij het opvragen van de bewijsstukken nader bepalen welke dossiers beschouwd worden als lopende dossiers.<br>
 <br>
-Het agentschap betaalt jaarlijks een forfaitaire vergoeding van 71.453 euro aan elke erkende zorgkas die meer dan 20.000 leden en 400 lopende dossiers heeft op 31 december van het voorgaande jaar.<br>
+Het agentschap betaalt jaarlijks een forfaitaire vergoeding van&nbsp;72.855 euro aan elke erkende zorgkas die meer dan 20.000 leden en 400 lopende dossiers heeft op 31 december van het voorgaande jaar.<br>
 <br>
 Het agentschap betaalt aan elke erkende zorgkas een forfaitaire vergoeding van 3 euro per dossier voor een tegemoetkoming voor mantel- en thuiszorg die nog loopt op 31 december van het voorgaande jaar en waarvoor de zorgkas de gegevens van de mantelzorger of mantelzorgers van de gebruiker geregistreerd heeft. Het agentschap heeft voor het verstrekken van die vergoeding een maximaal budget van 200.000 euro.<br>
 <br>
@@ -122,7 +124,7 @@ S = (0,5 * (R * a/A)) + (0,25 * (R * b/B)) + (0,25 * (R * c/C))<br>
 
 ### ART 10.
 
-Het agentschap kent aan de erkende zorgkassen een subsidie voor werkingskosten voor het basisondersteuningsbudget toe. De subsidie bedraagt 389.500 euro.<br>
+Het agentschap kent aan de erkende zorgkassen een subsidie voor werkingskosten voor het basisondersteuningsbudget toe. De subsidie bedraagt 398.208 euro.<br>
 <br>
 Dat bedrag wordt verdeeld onder de erkende zorgkassen op basis van het percentage personen met een basisondersteuningsbudget per zorgkas ten opzichte van alle personen met een basisondersteuningsbudget bij de erkende zorgkassen. Het gaat om het percentage personen met een basisondersteuningsbudget op 31 december van het voorgaande jaar, behalve voor het jaar 2017 waar het om het percentage personen op 31 december van het jaar in kwestie gaat.<br>
 <br>
@@ -132,7 +134,7 @@ Als een zorgkas in de loop van een jaar erkend wordt of als een erkende zorgkas 
 
 ### ART 11.
 
-Het agentschap kent aan de erkende zorgkassen een jaarlijkse subsidie voor werkingskosten voor&nbsp;het zorgbudget voor ouderen met een zorgnood toe. De subsidie bedraagt 3.359.362 euro.<br>
+Het agentschap kent aan de erkende zorgkassen een jaarlijkse subsidie voor werkingskosten voor&nbsp;het zorgbudget voor ouderen met een zorgnood toe. De subsidie bedraagt 3.267.072 euro.<br>
 <br>
 Dat bedrag wordt verdeeld onder de erkende zorgkassen op basis van het percentage personen met&nbsp;een zorgbudget voor ouderen met een zorgnood per zorgkas ten opzichte van alle personen met&nbsp;een zorgbudget voor ouderen met een zorgnood bij de erkende zorgkassen.<br>
 <br>
@@ -193,13 +195,14 @@ In afwijking van het derde en het vierde lid gaat het voor het jaar 2017 om het 
 
 Het totaalbedrag van de subsidie voor werkingskosten van de zorgtickets en de mobiliteitshulpmiddelen bedraagt de som van volgende subsidies:<br>
 1° de subsidie voor werkingskosten voor de tegemoetkomingen voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra;<br>
-2° de subsidie voor werkingskosten voor de tegemoetkomingen voor mobiliteitshulpmiddelen.
+2° de subsidie voor werkingskosten voor de tegemoetkomingen voor mobiliteitshulpmiddelen.<br>
+3° de subsidie voor werkingskosten voor de tegemoetkomingen voor de revalidatieziekenhuizen en de tegemoetkomingen voor het multidisciplinair overleg.
 
 ## [Onderafdeling 2. Subsidie voor werkingskosten voor de tegemoetkoming voor mobiliteitshulpmiddelen (ing. BVR 14 december 2018, art. 17, I: 1 januari 2019)]
 
 ### ART 13/2.
 
-§ 1. Het agentschap kent aan de erkende zorgkassen een jaarlijkse subsidie voor werkingskosten voor de tegemoetkomingen voor mobiliteitshulpmiddelen toe. De subsidie bedraagt&nbsp;6.790.615 euro.<br>
+§ 1. Het agentschap kent aan de erkende zorgkassen een jaarlijkse subsidie voor werkingskosten voor de tegemoetkomingen voor mobiliteitshulpmiddelen toe. De subsidie bedraagt 6.605.015 euro.<br>
 <br>
 Dat bedrag wordt verdeeld onder de erkende zorgkassen op basis van het percentage personen met een dossier mobiliteitshulpmiddelen per zorgkas ten opzichte van het totaal aantal personen met een dossier mobiliteitshulpmiddelen bij alle erkende zorgkassen. Het gaat om het percentage personen met een dossier mobiliteitshulpmiddelen in het voorgaande jaar, behalve voor het jaar 2019 waar het om het percentage personen in het jaar in kwestie gaat.<br>
 <br>
@@ -219,7 +222,7 @@ De helft van het bedrag, vermeld in het eerste lid, wordt in 2019 toegekend op b
 
 ### ART 13/3.
 
-§ 1. Het agentschap kent aan de erkende zorgkassen een jaarlijkse subsidie voor werkingskosten voor de tegemoetkomingen voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra toe. De subsidie bedraagt 7.444.910 euro.<br>
+§ 1. Het agentschap kent aan de erkende zorgkassen een jaarlijkse subsidie voor werkingskosten voor de tegemoetkomingen voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra toe. De subsidie bedraagt 7.376.363 euro.<br>
 <br>
 Dat bedrag wordt verdeeld onder de erkende zorgkassen op basis van het percentage personen met een tegemoetkoming voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra per zorgkas ten opzichte van het totaal aantal personen met een tegemoetkoming voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra bij alle erkende zorgkassen. Het gaat om het percentage personen met een tegemoetkoming voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra op 31 december van het voorgaande jaar, behalve voor het jaar 2019 waar het om het percentage personen op 31 juli 2019 gaat.<br>
 <br>
@@ -232,6 +235,16 @@ Dat bedrag wordt verdeeld onder de erkende zorgkassen op basis van het percentag
 De helft van het bedrag, vermeld in het eerste lid, wordt in 2019 toegekend op basis van een door de zorgkassen aangeleverde lijst van werkzaamheden naar aanleiding van de ontbrekende IT. Het Agentschap levert hiervoor het sjabloon. Het Agentschap beoordeelt bij de definitieve afrekening, vermeld in art 14 par 2, of de uitbetaling van dit bedrag voldoende is gestaafd door de aangeleverde lijst, in welk geval zij kan beslissen tot gehele of gedeeltelijke toekenning ervan.
 
 ## [Onderafdeling 3/1. Subsidie voor werkingskosten voor de tegemoetkomingen voor revalidatieziekenhuizen en de tegemoetkomingen voor het multidisciplinair overleg (ing. BVR 17 december 2021, art. 12, I: 1 januari 2022)]
+
+### ART 13/3/1.
+
+§ 1. Het agentschap kent aan de erkende zorgkassen een jaarlijkse subsidie toe voor werkingskosten voor de tegemoetkomingen voor revalidatieziekenhuizen en voor het multidisciplinair overleg. De subsidie bedraagt 1.316.547 euro.<br>
+<br>
+§ 2. Het bedrag, vermeld in paragraaf 1, wordt verdeeld onder de erkende zorgkassen op basis van het percentage kennisgevingen van opnames in revalidatieziekenhuizen en vergoedbare aanvragen van dossiers multidisciplinair overleg per zorgkas ten opzichte van het totale aantal kennisgevingen van opnames in revalidatieziekenhuizen en vergoedbare aanvragen van dossiers multidisciplinair overleg bij alle erkende zorgkassen. Het gaat om het totale aantal opnames en dossiers van 1 januari tot en met 31 december van het voorgaande jaar.<br>
+<br>
+In afwijking van het eerste lid wordt het bedrag voor het jaar 2022 verdeeld onder de erkende zorgkassen op basis van het percentage kennisgevingen van opnames in revalidatieziekenhuizen per verzekeringsinstelling die een zorgkas heeft opgericht, en het percentage vergoedbare aanvragen van dossiers multidisciplinair overleg per zorgkas, ten opzichte van het totale aantal kennisgevingen van opnames in revalidatieziekenhuizen bij alle verzekeringsinstellingen die een zorgkas hebben opgericht, en het totale aantal vergoedbare aanvragen van dossiers multidisciplinair overleg bij alle erkende zorgkassen. Het gaat om het totale aantal opnames in revalidatieziekenhuizen van 1 januari tot en met 31 december 2020 en om het totale aantal dossiers multidisciplinair overleg van 1 januari tot en met 31 december 2021.<br>
+<br>
+Als een zorgkas in de loop van een jaar erkend wordt of als een erkende zorgkas vrijwillig haar activiteiten stopzet of haar erkenning verliest, wordt de subsidie pro rata berekend.
 
 ## [Onderafdeling 3/2. Subsidie voor werkingskosten voor de tegemoetkomingen voor psychiatrische verzorgingstehuizen (ing. BVR 20 januari 2023, art. 3, I: 1 januari 2023)]
 
@@ -247,7 +260,31 @@ Het agentschap verdeelt voor de vijftiende dag van de eerste maand van elk kwart
 <br>
 Het voorschot wordt verdeeld onder de erkende zorgkassen op basis van het percentage personen met een tegemoetkoming voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra per zorgkas ten opzichte van het totaal aantal personen met een tegemoetkoming voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra bij de erkende zorgkassen. Het gaat om het percentage personen met een tegemoetkoming voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra op 31 december van het voorgaande jaar. Voor het jaar 2019 wordt het voorschot verdeeld op basis van het percentage personen met een dossier zorgbudget voor zwaar zorgbehoevenden in het kader van residentiële zorg per zorgkas ten opzichte van het totaal aantal personen met een dossier zorgbudget voor zwaar zorgbehoevenden in het kader van residentiële zorg bij de erkende zorgkassen. Het gaat om het percentage personen met een dossier zorgbudget voor zwaar zorgbehoevenden in het kader van residentiële zorg op 31 december 2018
 
+### ART 13/5.
+
+Het agentschap verdeelt voor de vijftiende dag van de eerste maand van elk kwartaal verhoudingsgewijs over de erkende zorgkassen een voorschot van 20% van het bedrag, vermeld in artikel 13/3/1, § 1.
+
 ## [Onderafdeling 5. Bepaling van een subsidie voor investeringskosten in ICT-toepassingen binnen de Vlaamse sociale bescherming (ing. BVR 17 december 2021, art. 15, I: 1 januari 2022)]
+
+### ART 13/6.
+
+§ 1. Het agentschap kent aan de erkende zorgkassen voor het jaar 2021 een subsidie toe voor werkingskosten voor investeringen in ICT-toepassingen voor de tegemoetkomingen voor revalidatieziekenhuizen, revalidatieconventies, de psychiatrische verzorgingstehuizen, de initiatieven voor beschut wonen en de multidisciplinaire begeleidingsequipes voor palliatieve verzorging. Die subsidie wordt aangewend voor de ontwikkeling en het onderhoud van die ICT-toepassingen binnen de Vlaamse sociale bescherming. De subsidie bedraagt 650.275 euro.<br>
+<br>
+Het agentschap verdeelt vanaf 1 november 2021 in 2021 over de erkende zorgkassen een voorschot van 80% van het bedrag, vermeld in het eerste lid. Het bedrag wordt op de volgende wijze verdeeld:<br>
+1° Christelijke Mutualiteit - Zorgkas Vlaanderen: 203.249,95 euro;<br>
+2° Neutrale Zorgkas Vlaanderen: 30.536,91 euro;<br>
+3° Zorgkas van de Socialistische Mutualiteiten: 131.875,77 euro;<br>
+4° Zorgkas van de Liberale Ziekenfondsen: 40.369,07 euro;<br>
+5° Zorgkas van de Onafhankelijke Ziekenfondsen: 114.188,29 euro.<br>
+<br>
+§ 2. Het agentschap verdeelt het saldo van 20% van het bedrag, vermeld in paragraaf 1, eerste lid, op de volgende wijze:<br>
+1° Christelijke Mutualiteit - Zorgkas Vlaanderen: 50.812,49 euro;<br>
+2° Neutrale Zorgkas Vlaanderen: 7.634,23 euro;<br>
+3° Zorgkas van de Socialistische Mutualiteiten: 32.968,94 euro;<br>
+4° Zorgkas van de Liberale Ziekenfondsen: 10.092,27 euro;<br>
+5° Zorgkas van de Onafhankelijke Ziekenfondsen: 28.547,07 euro.<br>
+<br>
+Het agentschap betaalt het saldo uit nadat de jaarrekening en het boekhoudkundig verslag van de zorgkassen over de aanwending van de subsidie door het agentschap zijn goedgekeurd.
 
 ## [Afdeling 5. Definitieve vaststelling van de subsidies en verrekening van de voorschotten (verv. BVR 14 december 2018, art. 23)]
 
@@ -303,7 +340,7 @@ De verzekeringsinstelling bezorgt aan het agentschap Zorg en Gezondheid de verei
 
 § 1. Het Agentschap Zorg en Gezondheid stelt de vergoeding voor werkingskosten vast.<br>
 <br>
-§ 2. De subsidie voor alle verzekeringsinstellingen tezamen bedraagt per jaar 5.264.000 euro.<br>
+§ 2. De subsidie voor alle verzekeringsinstellingen tezamen bedraagt per jaar 4.117.086 euro.<br>
 <br>
 § 3. Dat bedrag wordt verdeeld onder de verzekeringsinstellingen op basis van het totaal aantal unieke opnames of aanvragen van patiënten van alle voorzieningen per verzekeringsinstelling van het voorgaande jaar voor wie een tegemoetkoming werd uitbetaald voor de zorg, vermeld in artikel 3 van het overnamedecreet.<br>
 <br>
@@ -324,6 +361,30 @@ Het percentage dat jaarlijks toekomt aan een bepaalde verzekeringsinstelling is 
 2° aan het Agentschap Zorg en Gezondheid de vereiste bewijsstukken bezorgt om de subsidies te berekenen. Het Agentschap Zorg en Gezondheid bepaalt de nadere regels waaraan de bewijsstukken moeten voldoen en de termijn waarin de bewijsstukken ingediend moeten worden.<br>
 <br>
 § 7. De door een verzekeringsinstelling onrechtmatig betaalde tegemoetkomingen worden in mindering gebracht van de subsidie voor werkingskosten van die verzekeringsinstelling, met uitzondering van de niet gerecupereerde tegemoetkomingen waarvoor het Agentschap financieel verantwoordelijk is.
+
+### ART 15/3.
+
+§ 1. Het agentschap kent aan de verzekeringsinstellingen voor het jaar 2021 een subsidie toe voor werkingskosten voor investeringen in ICT-toepassingen. Die subsidie wordt aangewend voor de ontwikkeling en het onderhoud van al de ICT-toepassingen die nodig zijn voor de opdrachten conform het overnamedecreet. De subsidie bedraagt 2.200.000 euro.<br>
+<br>
+Het agentschap verdeelt vanaf 1 november 2021 in 2021 tussen de verzekeringsinstellingen een voorschot van 80% van het bedrag, vermeld in het eerste lid. Het bedrag wordt op de volgende wijze verdeeld:<br>
+1° Landsbond der Christelijke Mutualiteiten: 515.680 euro;<br>
+2° Landsbond van de Neutrale Ziekenfondsen: 79.376 euro;<br>
+3° Nationaal Verbond van Socialistische Mutualiteiten: 372.768 euro;<br>
+4° Landsbond van Liberale Mutualiteiten: 100.496 euro;<br>
+5° Landsbond van de Onafhankelijke Ziekenfondsen: 308.176 euro;<br>
+6° Hulpkas voor Ziekte- en Invaliditeitsverzekering: 190.784 euro;<br>
+7° Kas der Geneeskundige Verzorging van HR Rail: 192.720 euro.<br>
+<br>
+§ 2. Het agentschap verdeelt het saldo van 20% van het bedrag, vermeld in paragraaf 1, eerste lid, op de volgende wijze tussen de verzekeringsinstellingen:<br>
+1° Landsbond der Christelijke Mutualiteiten: 128.920 euro;<br>
+2° Landsbond van de Neutrale Ziekenfondsen: 19.844 euro;<br>
+3° Nationaal Verbond van Socialistische Mutualiteiten: 93.192 euro;<br>
+4° Landsbond van Liberale Mutualiteiten: 25.124 euro;<br>
+5° Landsbond van de Onafhankelijke Ziekenfondsen: 77.044 euro;<br>
+6° Hulpkas voor Ziekte- en Invaliditeitsverzekering: 47.696 euro;<br>
+7° Kas der Geneeskundige Verzorging van HR Rail: 48.180 euro.<br>
+<br>
+§ 3. Het agentschap betaalt aan de verzekeringsinstelling het saldo van 20% van het bedrag, vermeld in paragraaf 1, eerste lid, uit nadat de jaarrekening en het boekhoudkundig verslag van de verzekeringsinstellingen over de aanwending van de subsidie door het agentschap Zorg en Gezondheid zijn goedgekeurd.
 
 ## [HOOFDSTUK 5. Koppeling van de index van de subsidie of begrotingskredieten voor de werkingskosten en de tegemoetkomingen aan de zorgkassen en de verzekeringsinstellingen (verv. BVR 14 december 2018, art. 29, I: 1 januari 2019)]
 
