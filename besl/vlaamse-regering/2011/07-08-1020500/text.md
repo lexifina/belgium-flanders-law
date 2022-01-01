@@ -49,9 +49,7 @@ De personeelsleden, vermeld in artikel 2, die het volledige traject van het woon
 
 ### ART. 7.
 
-De fietsvergoeding bedraagt 0,15 euro per kilometer.<br>
-<br>
-In afwijking van het eerste lid bedraagt de fietsvergoeding voor de personeelsleden, vermeld in artikel V.60, § 1, 7°, en artikel V.60 § 3, van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, 0,21 euro per kilometer.
+De fietsvergoeding bedraagt 0,21 euro per kilometer.
 
 ### ART. 8.
 
