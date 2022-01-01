@@ -20,7 +20,7 @@ d) het medisch schooltoezicht en de medisch verantwoorde sportbeoefening;<br>
 5° beleid inzake Vlaamse sociale bescherming en het beleid inzake personen met een handicap: het beleid voor de aangelegenheden, vermeld in artikel 5, § 1, I, 2°, 3°, 4° en 5°, en II, 4° en 5°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, waarvoor de Vlaamse Gemeenschap bevoegd is, met uitzondering van:<br>
 a) de beroepsopleiding, de omscholing, de herscholing en het tewerkstellingsbeleid van mindervaliden;<br>
 b) het vervoer van mindervaliden;<br>
-6° beleid inzake welzijn en justitiehuizen: het beleid voor de aangelegenheden, vermeld in artikel 5, § 1, II, 2°, 7° en 8°, en III, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, waarvoor de Vlaamse Gemeenschap bevoegd is, met uitzondering van de organieke regels betreffende de openbare centra voor maatschappelijk welzijn;<br>
+6° beleid inzake welzijn: het beleid voor de aangelegenheden, vermeld in artikel 5, § 1, II, 2° en 7°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, waarvoor de Vlaamse Gemeenschap bevoegd is, met uitzondering van de organieke regels betreffende de openbare centra voor maatschappelijk welzijn;<br>
 7° private uitbetalingsactor: een private rechtspersoon, vergund met het oog op de uitbetaling van toelagen in het kader van het gezinsbeleid als vermeld in artikel 2, 8°, van het decreet van 7 juli 2017 tot oprichting van een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid, tot vaststelling van vergunningsnormen voor private uitbetalingsactoren en tot wijziging van het decreet van 30 april 2004 betreffende de oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
 8° SERV: de Sociaal-Economische Raad van Vlaanderen;<br>
 9° Vlaamse Raad WVG: de Vlaamse Raad voor Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3;<br>
@@ -41,7 +41,7 @@ De Vlaamse Raad WVG heeft geen rechtspersoonlijkheid.
 
 ### ART 4.
 
-§ 1. De Vlaamse Raad WVG heeft de volgende opdrachten met betrekking tot het beleid inzake Vlaamse sociale bescherming en het beleid inzake personen met een handicap, het beleid inzake gezondheid, het beleid inzake welzijn en justitiehuizen en het beleid inzake gezin en jongerenwelzijn:<br>
+§ 1. De Vlaamse Raad WVG heeft de volgende opdrachten met betrekking tot het beleid inzake Vlaamse sociale bescherming en het beleid inzake personen met een handicap, het beleid inzake gezondheid, het beleid inzake welzijn en het beleid inzake gezin en jongerenwelzijn:<br>
 1° overleg plegen en akkoorden sluiten over strategische beleidsaangelegenheden;<br>
 2° advies uitbrengen over de hoofdlijnen van dat beleid;<br>
 3° bijdragen tot het vormen van een beleidsvisie;<br>
@@ -81,7 +81,7 @@ De Vlaamse Raad WVG is samengesteld uit vier kamers:<br>
 
 De intersectorale kamer:<br>
 1° sluit akkoorden en levert adviezen, reflecties en beleidsvoorstellen als vermeld in artikel 4, § 1, eerste lid, met betrekking tot het beleid van twee of drie sectorale kamers;<br>
-2° sluit akkoorden en levert adviezen, reflecties en beleidsvoorstellen als vermeld in artikel 4, § 1, eerste lid, met betrekking tot het beleid inzake welzijn en justitiehuizen;<br>
+2° sluit akkoorden en levert adviezen, reflecties en beleidsvoorstellen als vermeld in artikel 4, § 1, eerste lid, met betrekking tot het beleid inzake welzijn;<br>
 3° beslecht bevoegdheidsconflicten tussen de kamers van de Vlaamse Raad WVG.
 
 ### ART 7.
@@ -104,12 +104,12 @@ De intersectorale kamer bestaat uit:<br>
 1° de vertegenwoordigers van de Vlaamse Regering;<br>
 2° vier vertegenwoordigers van de werkgevers;<br>
 3° vier vertegenwoordigers van de werknemers;<br>
-4° acht vertegenwoordigers van voorzieningen of zelfstandige zorgverstrekkers die actief zijn in het beleid inzake welzijn en justitiehuizen, het beleid inzake Vlaamse sociale bescherming en het beleid inzake personen met een handicap, het beleid inzake gezondheid en het beleid inzake gezin en jongerenwelzijn;<br>
+4° acht vertegenwoordigers van voorzieningen of zelfstandige zorgverstrekkers die actief zijn in het beleid inzake welzijn, het beleid inzake Vlaamse sociale bescherming en het beleid inzake personen met een handicap, het beleid inzake gezondheid en het beleid inzake gezin en jongerenwelzijn;<br>
 5° twee vertegenwoordigers van ziekenfondsen;<br>
 6° twee vertegenwoordigers van zorgkassen;<br>
 7° één vertegenwoordiger van een private uitbetalingsactor;<br>
-8° vier vertegenwoordigers van gebruikers in het kader van het beleid inzake welzijn en justitiehuizen, het beleid inzake Vlaamse sociale bescherming en het beleid inzake personen met een handicap, het beleid inzake gezondheid en het beleid inzake gezin en jongerenwelzijn;<br>
-9° één onafhankelijke deskundige in het beleid inzake welzijn en justitiehuizen of het beleid inzake Vlaamse sociale bescherming en het beleid inzake personen met een handicap of het beleid inzake gezondheid of het beleid inzake gezin en jongerenwelzijn, die zetelt met raadgevende stem.<br>
+8° vier vertegenwoordigers van gebruikers in het kader van het beleid inzake welzijn, het beleid inzake Vlaamse sociale bescherming en het beleid inzake personen met een handicap, het beleid inzake gezondheid en het beleid inzake gezin en jongerenwelzijn;<br>
+9° één onafhankelijke deskundige in het beleid inzake welzijn of het beleid inzake Vlaamse sociale bescherming en het beleid inzake personen met een handicap of het beleid inzake gezondheid of het beleid inzake gezin en jongerenwelzijn, die zetelt met raadgevende stem.<br>
 <br>
 De Vlaamse Regering bepaalt welke personeelsleden van de Vlaamse administratie het overleg in de intersectorale kamer met raadgevende stem kunnen bij wonen wanneer die beraadslaagt over uit te brengen akkoorden.
 
@@ -159,14 +159,14 @@ De Vlaamse Regering bepaalt welke personeelsleden van de Vlaamse administratie h
 Met uitzondering van de leden, vermeld in artikel 10, eerste lid, 1° en 9°, artikel 11, eerste lid, 1° en 7°, artikel 12, eerste lid, 1° en 7°, en artikel 13, eerste lid, 1° en 7°, worden de leden van de kamers van de Vlaamse Raad WVG voorgedragen als volgt:<br>
 1° de vertegenwoordigers, vermeld in artikel 10, eerste lid, 2°, artikel 11, eerste lid, 2°, artikel 12, eerste lid, 2°, en artikel 13, eerste lid, 2°, worden voorgedragen door de representatieve werkgeversorganisaties;<br>
 2° de vertegenwoordigers, vermeld in artikel 10, eerste lid, 3°, artikel 11, eerste lid, 3°, artikel 12, eerste lid, 3°, en artikel 13, eerste lid, 3°, worden voorgedragen door de representatieve werknemersorganisaties;<br>
-3° de vertegenwoordigers, vermeld in artikel 10, eerste lid, 4°, worden voorgedragen door de organisaties die de voorzieningen of de zelfstandige zorgverstrekkers vertegenwoordigen die actief zijn in het beleid inzake welzijn en justitiehuizen, het beleid inzake Vlaamse sociale bescherming en het beleid inzake personen met een handicap, het beleid inzake gezondheid en het beleid inzake gezin en jongerenwelzijn;<br>
+3° de vertegenwoordigers, vermeld in artikel 10, eerste lid, 4°, worden voorgedragen door de organisaties die de voorzieningen of de zelfstandige zorgverstrekkers vertegenwoordigen die actief zijn in het beleid inzake welzijn, het beleid inzake Vlaamse sociale bescherming en het beleid inzake personen met een handicap, het beleid inzake gezondheid en het beleid inzake gezin en jongerenwelzijn;<br>
 4° de vertegenwoordigers, vermeld in artikel 11, eerste lid, 4°, worden voorgedragen door de organisaties die de voorzieningen of de zelfstandige zorgverstrekkers vertegenwoordigen die actief zijn in het beleid inzake Vlaamse sociale bescherming en het beleid inzake personen met een handicap;<br>
 5° de vertegenwoordigers, vermeld in artikel 12, eerste lid, 4°, worden voorgedragen door de organisaties die de voorzieningen of de zelfstandige zorgverstrekkers vertegenwoordigen die actief zijn in het beleid inzake gezondheid;<br>
 6° de vertegenwoordigers, vermeld in artikel 13, eerste lid, 4°, worden voorgedragen door de organisaties die de voorzieningen of de zelfstandige zorgverstrekkers vertegenwoordigen die actief zijn in het beleid inzake gezin en jongerenwelzijn;<br>
 7° de vertegenwoordigers, vermeld in artikel 10, eerste lid, 6°, en artikel 11, eerste lid, 5°, worden voorgedragen door de zorgkassen;<br>
 8° de vertegenwoordigers, vermeld in artikel 10, eerste lid, 5°, en artikel 12, eerste lid, 5°, worden voorgedragen door de ziekenfondsen;<br>
 9° de vertegenwoordigers, vermeld in artikel 10, eerste lid, 7°, en artikel 13, eerste lid, 5°, worden voorgedragen door de private uitbetalingsactor;<br>
-10° de vertegenwoordigers, vermeld in artikel 10, eerste lid, 8°, worden voorgedragen door organisaties die gebruikers vertegenwoordigen in het kader van het beleid inzake welzijn en justitiehuizen, het beleid inzake Vlaamse sociale bescherming en het beleid inzake personen met een handicap, het beleid inzake gezondheid en het beleid inzake gezin en jongerenwelzijn;<br>
+10° de vertegenwoordigers, vermeld in artikel 10, eerste lid, 8°, worden voorgedragen door organisaties die gebruikers vertegenwoordigen in het kader van het beleid inzake welzijn, het beleid inzake Vlaamse sociale bescherming en het beleid inzake personen met een handicap, het beleid inzake gezondheid en het beleid inzake gezin en jongerenwelzijn;<br>
 11° de vertegenwoordigers, vermeld in artikel 11, eerste lid, 6°, worden voorgedragen door organisaties die gebruikers vertegenwoordigen in het kader van het beleid inzake Vlaamse sociale bescherming en het beleid inzake personen met een handicap;<br>
 12° de vertegenwoordigers, vermeld in artikel 12, eerste lid, 6°, worden voorgedragen door organisaties die gebruikers vertegenwoordigen in het kader van het beleid inzake gezondheid;<br>
 13° de vertegenwoordigers, vermeld in artikel 13, eerste lid, 6°, worden voorgedragen door organisaties die gebruikers vertegenwoordigen in het kader van het beleid inzake gezin en jongerenwelzijn.<br>
