@@ -140,7 +140,8 @@ Zij draagt de titel "Vlaams minister van Justitie en Handhaving, Omgeving, Energ
 10° Natuurinvest;<br>
 11° het Vlaams Energie- en Klimaatagentschap;<br>
 12° het Vlaams Energiebedrijf;<br>
-13° Toerisme Vlaanderen.
+13° Toerisme Vlaanderen;<br>
+14° Agentschap Justitie en Handhaving.
 
 ### ART 7.
 
