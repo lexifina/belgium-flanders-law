@@ -2,16 +2,16 @@
   "codex_id": 1035836,
   "title": "Besluit van de Vlaamse Regering van 2021-06-25 tot bepaling van een aantal maatregelen ter ondersteuning van de woonzorgcentra, de centra voor kortverblijf, de centra voor dagverzorging en de centra voor dagopvang naar aanleiding van de COVID-19-crisis vanaf 1 april 2021",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035836/VolledigDocument?datum=2021-04-01",
-  "source_sha256": "5bd6fca52b21a693b94e5de67c02cc38b3d23ecf2bf1aae900cf1d388bd535a2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035836/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "a4aedb0ed48c5bcfde6ac0869eaee5911cdd51590a8daf9e5b2429befe7b016a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035836&param=informatie",
-  "as_of": "2021-04-01",
+  "as_of": "2022-01-01",
   "made": "2021-06-25",
   "gazette": "2021-07-19",
   "numac": 2021031880,
   "document_start": "2021-04-01",
   "document_end": null,
-  "in_force": "2021-04-01",
+  "in_force": "2022-01-01",
   "article_versions": 61,
-  "record_form": "consolidated version as in force on 2021-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
 }
