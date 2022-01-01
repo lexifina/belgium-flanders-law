@@ -15,18 +15,24 @@ Dit decreet is van toepassing onder voorbehoud van de bepalingen van het Unierec
 ### ART 2.
 
 In dit decreet wordt verstaan onder:<br>
-1° administratief aansluiten: de aansluiting zonder premiebetaling bij een zorgkas, door personen op wie de Vlaamse sociale bescherming niet van toepassing is of die zich niet vrijwillig hebben aangesloten bij een zorgkas, maar die wel een beroep doen op zorg deel uitmakend van de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, 4° tot en met 9° ;<br>
+1° administratief aansluiten: de aansluiting zonder premiebetaling bij een zorgkas, door personen op wie de Vlaamse sociale bescherming niet van toepassing is of die zich niet vrijwillig hebben aangesloten bij een zorgkas, maar die wel een beroep doen op zorg deel uitmakend van de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, 4° tot en met 10° ;<br>
 2° agentschap: het Agentschap voor Vlaamse Sociale Bescherming, vermeld in artikel 9;<br>
 3° algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
 4° basisondersteuningsbudget: een bedrag als vermeld in artikel 2, 2°, van het decreet van 25 april 2014 houdende de persoonsvolgende financiering;<br>
 5° BelRAI: verzamelterm voor wetenschappelijk onderbouwde beoordelingsinstrumenten, gebaseerd op het internationale interRAI-instrumentarium. Het gaat om gevalideerde beoordelingsinstrumenten om de gezondheids- en welzijnssituatie van gebruikers op een gestandaardiseerde en gestructureerde manier in beeld te brengen met als doel een hoogkwalitatieve zorgplanning en kwaliteitsmonitoring te realiseren;<br>
+5° /1 centrum voor dagverzorging: een zorgvoorziening als vermeld in artikel 23 van het Woonzorgdecreet van 15 februari 2019;<br>
+5° /2 centrum voor dagverzorging met een bijkomende erkenning: een zorgvoorziening als vermeld in artikel 46 van het Woonzorgdecreet van 15 februari 2019;<br>
+5° /3 centrum voor kortverblijf: het centrum voor kortverblijf type 1, vermeld in artikel 26, § 1, tweede lid, 1°, van het Woonzorgdecreet van 15 februari 2019, met uitsluiting van het centrum voor kortverblijf dat uitgebaat wordt in de daartoe bestemde lokalen van een erkend centrum voor herstelverblijf;<br>
+5° /4 centrum voor kortverblijf met een bijkomende erkenning: een zorgvoorziening als vermeld in artikel 45 van het Woonzorgdecreet van 15 februari 2019;<br>
 6° bijdrage voor woon- en leefkosten: de vergoeding voor diensten en goederen, verricht of geleverd door de zorgvoorziening, die niet worden vergoed door het zorgticket noch door de gebruikersbijdrage;<br>
 7° buitengewone zorg: de zorg in het kader van revalidatie of geestelijke gezondheidszorg, al dan niet verleend buiten het Nederlandse taalgebied of buiten de door de Vlaamse Gemeenschap erkende zorgvoorzieningen in het tweetalige gebied Brussel-Hoofdstad, waarvoor, in het concrete geval, in geen tegemoetkoming is voorzien krachtens de reglementaire bepalingen van de Belgische verzekering voor geneeskundige verzorging, krachtens de bepalingen van dit decreet, met uitzondering van artikel 55 of krachtens de wettelijke bepalingen van een buitenlandse regeling voor verplichte verzekering;<br>
 8° decreet houdende de persoonsvolgende financiering: het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap;<br>
+8° /1 decreet van 6 juli 2018: het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging;<br>
 9° erkende zorgkas: een zorgkas, opgericht door een instantie als vermeld in artikel 18, die erkend is krachtens artikel 19;<br>
 10° Expertencommissie: de Expertencommissie gespecialiseerde zorg, vermeld in artikel 39;<br>
 11° gebruiker: iedere natuurlijke persoon die een beroep doet of kan doen op de Vlaamse sociale bescherming, vermeld in artikel 4;<br>
 12° gebruikersbijdrage: een financiële bijdrage in de zorgkosten ten laste van de gebruiker die een beroep doet op zorg of een responsabiliseringsbijdrage voor een mobiliteitshulpmiddel;<br>
+12° /1 gegevens over gezondheid: gegevens over gezondheid als vermeld in artikel 4, 15), van de algemene verordening gegevensbescherming;<br>
 13° gezondheidsbeleid: het beleid met betrekking tot het geheel van de aangelegenheden, vermeld in artikel 5, § 1, I, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waarvoor de Vlaamse Gemeenschap bevoegd is;<br>
 14° ICF: International Classification of Functioning, Disability and Health; het betreft een begrippenkader, ontwikkeld door de Wereldgezondheidsorganisatie, waarmee het mogelijk is om het functioneren van mensen en eventuele problemen die mensen tijdens het functioneren ondervinden, te beschrijven;<br>
 15° ICT: de informatie- en communicatietechnologie;<br>
@@ -35,16 +41,19 @@ In dit decreet wordt verstaan onder:<br>
 18° kaderdecreet: het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br>
 19° mantelzorger: de natuurlijke persoon die vanuit een sociale en emotionele band een of meer personen met verminderd zelfzorgvermogen, niet beroepshalve maar meer dan occasioneel, helpt en ondersteunt in het dagelijkse leven;<br>
 20° mobiliteitshulpmiddelen: de hulpmiddelen die bedoeld zijn om de bewegingsfunctie te ondersteunen, namelijk rolstoelen, loophulpmiddelen, orthopedische driewielfietsen, stasystemen, zitkussens ter preventie van doorzitwonden, modulair aanpasbare systemen ter ondersteuning van de zithouding en onderstellen en de aanpassingen ervan. Een rolstoel, loophulpmiddel of orthopedische driewielfiets zijn speciaal ontworpen toestellen om personen te helpen zich binnenshuis en buitenshuis te verplaatsen;<br>
+20° /1 multidisciplinair overleg: een overleg waarbij zorgaanbieders van verschillende disciplines aanwezig zijn, naast een overlegorganisator, en waarbij de zorg en ondersteuning in de thuissituatie voor een gebruiker wordt afgestemd, het zorgproces wordt gestroomlijnd en het zorgteam rond die gebruiker wordt afgebakend;<br>
 21° niet-medische hulp- en dienstverlening: de hulp en bijstand die derden verlenen aan een persoon met een verminderde zelfredzaamheid in residentieel, semiresidentieel of ambulant verband;<br>
+21° /1 overlegorganisator: een zorgaanbieder die, op verzoek van een gebruiker, de mantelzorger van de gebruiker of een zorgaanbieder van het zorgteam, het multidisciplinair overleg voorbereidt, vastlegt en zorgt voor de vastlegging van de gemaakte afspraken in een zorgen ondersteuningsplan, vanuit een neutrale en onafhankelijke positie ten aanzien van het zorgteam;<br>
 22° Patiëntenrichtlijn: richtlijn 2011/24/EU van het Europees Parlement en de Raad van 9 maart 2011 betreffende de toepassing van de rechten van patiënten bij grensoverschrijdende gezondheidszorg;<br>
-23° persoonsvolgend budget: het geheel van tegemoetkomingen, vermeld in artikel 58, dat bestaat uit een zorgbudget dat cash wordt uitbetaald, een zorgticket dat via een trekkingsrecht wordt toegekend of een tegemoetkoming voor mobiliteitshulpmiddelen;<br>
+23° persoonsvolgend budget: het geheel van tegemoetkomingen, vermeld in artikel 58, dat bestaat uit een zorgbudget dat cash wordt uitbetaald, een zorgticket dat via een trekkingsrecht wordt toegekend, een tegemoetkoming voor mobiliteitshulpmiddelen, een tegemoetkoming voor de organisatie van en de deelname aan multidisciplinair overleg of een tegemoetkoming voor reiskosten;<br>
 24° pijler van de Vlaamse sociale bescherming: een van de verschillende onderdelen van de Vlaamse sociale bescherming, vermeld in artikel 4;<br>
 25° revalidatie: de behandeling, de diagnostiek of de ondersteuning die verleend wordt in een revalidatieziekenhuis of in een revalidatievoorziening, waarvoor de Vlaamse Gemeenschap bevoegd is conform artikel 128, § 1, van de Grondwet;<br>
+25° /2 revalidatieverstrekking: de volledige therapeutische activiteit per tijdsdeel, in contact met de gebruiker of zijn context, en de ondersteunende werking om die activiteit mogelijk te maken;<br>
 26° revalidatievoorziening: zorgvoorziening, andere dan een revalidatieziekenhuis, die revalidatie aanbiedt, vermeld in punt 25° ;<br>
 27° revalidatieziekenhuis: een zorgvoorziening voor gezondheidszorg waarin passende zorg aangeboden wordt aan patiënten van wie de gezondheidstoestand de opname of het verblijf vereisen, met als doel de gezondheidstoestand te herstellen of te verbeteren door de ziekte te bestrijden of de patiënt te revalideren als vermeld in artikel 5, § 1, I, eerste lid, 3° en 4°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
 28° rolstoel: een manuele rolstoel, een elektronische rolstoel, een elektronische scooter, een manuele kinderrolstoel of een elektronische kinderrolstoel;<br>
 29° stasysteem: een stasysteem is een toestel dat personen met een ernstige of volledige beperking van de stafunctie toelaat rechtop te staan;<br>
-30° tegemoetkoming: een zorgbudget als vermeld in deel 2, titel 2, een zorgticket als vermeld in deel 2, titel 3, of tegemoetkoming voor mobiliteitshulpmiddelen als vermeld in deel 2, titel 4;<br>
+30° tegemoetkoming: een zorgbudget, een zorgticket, een tegemoetkoming voor mobiliteitshulpmiddelen, een tegemoetkoming voor de organisatie van en de deelname aan multidisciplinair overleg of een tegemoetkoming voor reiskosten;<br>
 31° toezichthoudende autoriteit: de toezichthoudende autoriteit als vermeld in artikel 4, 21), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
 32° trekkingsrecht: het recht op een persoonsvolgend budget dat verloopt via een rechtstreekse betaling door de zorgkas aan de erkende zorgvoorziening of verstrekker van mobiliteitshulpmiddelen die zorg verleent aan de gebruiker;<br>
 33° VAPH: het Vlaams Agentschap voor Personen met een Handicap, opgericht bij artikel 3 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
@@ -55,14 +64,18 @@ In dit decreet wordt verstaan onder:<br>
 38° Vlaamse Zorgkas: de vzw Vlaamse Zorgkas opgericht door het Vlaams Zorgfonds;<br>
 39° welzijnsbeleid: het beleid inzake de bijstand aan personen met betrekking tot het geheel van aangelegenheden, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waarvoor de Vlaamse Gemeenschap bevoegd is, met uitzondering van het beleid inzake onthaal en integratie van inwijkelingen, vermeld in artikel 5, § 1, II, 3°, van de voormelde bijzondere wet;<br>
 40° wonen: ingeschreven zijn in het bevolkingsregister of in het vreemdelingenregister, of ingeschreven zijn in het wachtregister voor personen die jonger zijn dan achttien jaar;<br>
+40° /1 woonzorgcentrum: een zorgvoorziening als vermeld in artikel 33 van het Woonzorgdecreet van 15 februari 2019;<br>
+40° /2 woonzorgcentrum met een bijkomende erkenning: een zorgvoorziening als vermeld in artikel 44, § 1, van het Woonzorgdecreet van 15 februari 2019;<br>
 41° Woonzorgdecreet: Woonzorgdecreet van 15 februari 2019;<br>
 42° zelfzorg: de beslissingen en de acties die een natuurlijke persoon in het dagelijkse leven uitvoert om te voldoen aan zijn basisbehoeften, en de bijbehorende activiteiten. Die activiteiten kunnen onder meer betrekking hebben op de uitvoering van huishoudelijke activiteiten, het leggen van sociale contacten en de mogelijkheid om zich te ontplooien en zich te oriënteren in tijd en ruimte;<br>
-43° Ziekteverzekeringswet: de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;<br>
+43° ...;<br>
 44° zorg: alle vormen van zorg en ondersteuning gefinancierd in uitvoering van dit decreet, inclusief revalidatie;<br>
+44° /1 zorgaanbieder: een zorgaanbieder als vermeld in artikel 2, 14°, van het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders;<br>
 45° zorgbehoefte: de behoefte van een gebruiker aan zorg, objectief vastgesteld aan de hand van een indicatiestelling;<br>
 46° zorgbudget: een vrij besteedbare tegemoetkoming, die door de zorgkas cash wordt uitbetaald aan de cliënt, voor kosten die gepaard gaan met zorgbehoevendheid, toegekend met toepassing van deel 2, titel 2, van dit decreet;<br>
 47° zorgkas: een erkende zorgkas of de Vlaamse Zorgkas;<br>
 48° Zorgkassencommissie: de Zorgkassencommissie, vermeld in artikel 33;<br>
+48° /1 zorgteam: een zorgteam als vermeld in artikel 2, 19°, van het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders;<br>
 49° zorgticket: de tussenkomst in de kost van zorg, waarvan de omvang wordt bepaald op basis van de zorgbehoefte van de gebruiker, onder meer vastgesteld aan de hand van BelRAI en uitbetaald door de zorgkas onder de vorm van een trekkingsrecht;<br>
 50° zorgverlener: elke natuurlijke persoon die op een beroepsmatige wijze zorg verleent in het kader van dit decreet;<br>
 51° Zorgverzekeringsdecreet: het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering;<br>
@@ -116,7 +129,8 @@ De Vlaamse sociale bescherming heeft onder meer betrekking op de volgende pijler
 6° de revalidatie die voornamelijk gericht is op het herstel van fysieke functies;<br>
 7° de thuiszorg;<br>
 8° de transmurale zorg;<br>
-9° de mobiliteitshulpmiddelen.<br>
+9° de mobiliteitshulpmiddelen;<br>
+10° het multidisciplinair overleg.<br>
 <br>
 De Vlaamse Regering legt de nadere invulling vast van de pijlers, vermeld in het eerste lid.
 
@@ -230,7 +244,7 @@ De dotaties, vermeld in paragraaf 1, eerste lid, 1°, worden voor elk begrotings
 <br>
 De omvang van de premies, vermeld in paragraaf 1, eerste lid, 2°, wordt berekend op basis van een aantal parameters waaronder:<br>
 1° het aantal leden;<br>
-2° het aantal leden met recht op een verhoogde tegemoetkoming in de ziekteverzekering, vermeld in artikel 37, § 19, van de Ziekteverzekeringswet.<br>
+2° het aantal leden met recht op een verhoogde tegemoetkoming als vermeld in artikel 37, § 19, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, voor wie sociale correcties worden toegepast conform artikel 45, § 1, vierde en vijfde lid, van dit decreet.<br>
 <br>
 § 4. De Vlaamse Regering bepaalt de nadere regels voor het beheer van de inkomsten uit beleggingen, vermeld in paragraaf 1, eerste lid, 3°.<br>
 <br>
@@ -273,7 +287,7 @@ Het raadgevend comité stelt een huishoudelijk reglement op en legt het ter goed
 
 Om erkend te worden moet een zorgkas door de volgende instanties zijn opgericht:<br>
 1° landsbonden van ziekenfondsen of alle ziekenfondsen met administratieve zetel in het Vlaamse Gewest of in het Brusselse Hoofdstedelijke Gewest of minstens vier ziekenfondsen met administratieve zetel in het Vlaamse Gewest of in het Brusselse Hoofdstedelijke Gewest, via een maatschappij van onderlinge bijstand, onderworpen aan de wet van 6 augustus 1990 betreffende de ziekenfondsen en de landsbonden van ziekenfondsen, die actief zijn in het gehele territorium van het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad;<br>
-2° de Kas der Geneeskundige Verzorging, vermeld in artikel 6 van de Ziekteverzekeringswet;<br>
+2° de Kas der Geneeskundige Verzorging, vermeld in artikel 6 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;<br>
 3° verzekeringsondernemingen die vallen onder de toepassing van de wet van 13 maart 2016 op het statuut van en het toezicht op de verzekerings- of herverzekeringsondernemingen, en die actief zijn in het hele territorium van het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad.<br>
 <br>
 De Vlaamse Regering bepaalt wat wordt verstaan onder "actief zijn in het hele territorium van het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad".
@@ -453,7 +467,9 @@ Bij het agentschap wordt een interdisciplinaire Zorgkassencommissie opgericht.
 De Zorgkassencommissie wordt belast met de volgende taken:<br>
 1° de controle op de indicatiestellingen, vermeld in artikel 66 en artikel 109, met uitzondering van de gevallen waarin een beroep wordt gedaan op een externe dienstverlener;<br>
 2° de controle op de beoordeling van het vereiste hulpmiddel door de verstrekker van mobiliteitshulpmiddelen en de aflevering ervan;<br>
-3° de a posteriori controle van de revalidatievoorzieningen en de revalidatieziekenhuizen volgens de parameters bepaald door de Vlaamse Regering.<br>
+3° de controle op de aangevraagde tegemoetkomingen voor zorg, in de gevallen bepaald door de Vlaamse Regering;<br>
+4° de adviesverlening over de ontvankelijkheid van de aanvraag van een tegemoetkoming op basis van bijzondere noden, vermeld in artikel 129;<br>
+5° de controle van de toepassing van het evaluatie-instrument, vermeld in artikel 145, 148, 150 en 152.<br>
 <br>
 De Vlaamse Regering kan de Zorgkassencommissie belasten met bijkomende taken.
 
@@ -485,7 +501,7 @@ De Vlaamse Regering kan nadere kwaliteitsvoorwaarden bepalen ten aanzien van de 
 
 ### ART 37.
 
-§ 1. De Zorgkassencommissie beschikt over de gegevens van de gebruikers die noodzakelijk zijn voor de uitoefening van haar taken. Die gegevens hebben onder meer betrekking op de indicatiestellingen en de eraan gekoppelde tegemoetkomingen die haar ter controle worden voorgelegd, conform artikel 34, eerste lid, 1°.<br>
+§ 1. De Zorgkassencommissie beschikt over de gegevens van de gebruikers, met inbegrip van de gegevens over de gezondheid, die noodzakelijk zijn voor de uitoefening van haar taken. Die gegevens hebben onder meer betrekking op de indicatiestellingen, de aanvragen en de eraan gekoppelde tegemoetkomingen die haar ter controle worden voorgelegd, conform artikel 34, eerste lid.<br>
 <br>
 § 2. De leden van de Zorgkassencommissie zijn gebonden door de geheimhoudingsplicht met betrekking tot de gegevens waarvan ze bij de uitoefening van hun opdracht kennis krijgen en die daarmee verband houden.<br>
 <br>
@@ -515,7 +531,7 @@ De Vlaamse Regering bepaalt het statuut en de vergoeding van de leden van de Exp
 <br>
 Het agentschap is belast met de administratieve ondersteuning en aansturing van de Expertencommissie.<br>
 <br>
-§ 2. De Expertencommissie beschikt over de gegevens van de gebruikers die noodzakelijk zijn voor de uitoefening van haar taken.<br>
+§ 2. De Expertencommissie beschikt over de gegevens van de gebruikers, met inbegrip van de gegevens over de gezondheid, die noodzakelijk zijn voor de uitoefening van haar taken.<br>
 <br>
 § 3. De leden van de Expertencommissie zijn gebonden door de geheimhoudingsplicht met betrekking tot de gegevens waarvan ze bij de uitoefening van hun opdracht kennis krijgen en die daarmee verband houden.<br>
 <br>
@@ -524,9 +540,9 @@ Elke overtreding van deze paragraaf wordt gestraft met een geldboete van honderd
 ### ART 40.
 
 De Expertencommissie wordt onder meer belast met de volgende taken:<br>
-1° een eensluidend advies verlenen met het oog op de door de zorgkas te verlenen voorafgaande toestemmingen aan gebruikers conform de verordening (EG) nr. 883/2004;<br>
-2° een eensluidend advies verlenen met het oog op de door de zorgkas te verlenen voorafgaande toestemmingen voor geplande zorg in een andere lidstaat van de Europese Unie dan België, in IJsland, in Liechtenstein, in Noorwegen en in Zwitserland overeenkomstig de richtlijn 2011/24/EU;<br>
-3° een eensluidend advies verlenen met het oog op de door de zorgkas te nemen beslissingen over vragen om tegemoetkomingen voor buitengewone zorg, vermeld in artikel 55 van dit decreet;<br>
+1° een advies verlenen met het oog op de door de zorgkas te verlenen voorafgaande toestemmingen aan gebruikers conform de verordening (EG) nr. 883/2004;<br>
+2° een advies verlenen met het oog op de door de zorgkas te verlenen voorafgaande toestemmingen voor geplande zorg in een andere lidstaat van de Europese Unie dan België, in IJsland, in Liechtenstein, in Noorwegen en in Zwitserland overeenkomstig de richtlijn 2011/24/EU;<br>
+3° een advies verlenen met het oog op de door de zorgkas te nemen beslissingen over vragen om tegemoetkomingen voor buitengewone zorg, vermeld in artikel 55 van dit decreet;<br>
 4° advies verlenen over behandelprogramma's aan de bevoegde minister in dialoog met de betrokken sectorale adviescommissie, vermeld in artikel 38 van dit decreet.<br>
 <br>
 De Vlaamse Regering kan de Expertencommissie belasten met bijkomende taken.
@@ -541,11 +557,14 @@ De Vlaamse Regering kan de Expertencommissie belasten met bijkomende taken.
 1° aangesloten zijn bij een zorgkas conform de bepalingen van artikel 42 van dit decreet;<br>
 2° op het ogenblik van de uitvoering van de tegemoetkoming legaal verblijven in een lidstaat van de Europese Unie of in de krachtens verordening (EG) nr. 883/2004 gelijkgestelde staten IJsland, Liechtenstein, Noorwegen of Zwitserland;<br>
 3° beantwoorden aan de toepassingsvoorwaarden van de betreffende pijler van de Vlaamse sociale bescherming;<br>
-4° wat het recht op een zorgbudget betreft, gedurende ten minste vijf jaar, die voorafgaan aan de opening van het recht op tegemoetkoming conform dit decreet, ononderbroken in het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad wonen of ononderbroken sociaal verzekerd zijn in de lidstaten van de Europese Unie, in de andere staten die partij zijn bij de Europese Economische Ruimte of in Zwitserland. Voor kinderen tot de leeftijd van achttien jaar geldt die voorwaarde niet, voor de hele duur van de uitvoering van de tegemoetkomingen en voor de duur van de eventuele verlenging ervan.<br>
+4° wat het recht op een zorgbudget betreft, gedurende ten minste vijf jaar, die voorafgaan aan de opening van het recht op tegemoetkoming conform dit decreet, ononderbroken in het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad wonen of ononderbroken sociaal verzekerd zijn in de lidstaten van de Europese Unie, in de andere staten die partij zijn bij de Europese Economische Ruimte of in Zwitserland. Voor kinderen tot de leeftijd van achttien jaar geldt die voorwaarde niet, voor de hele duur van de uitvoering van de tegemoetkomingen en voor de duur van de eventuele verlenging ervan;<br>
+5° [... (vernietigd bij arrest 2023/112 van het Grondwettelijk Hof van 20 juli 2023)].<br>
 <br>
 De gebruiker, vermeld in artikel 3, § 1, tweede en vijfde lid, en artikel 3, § 2, vijfde lid, die, vanaf het ogenblik dat hij zich kon aansluiten, zich niet vrijwillig heeft aangesloten bij een zorgkas binnen een door de Vlaamse Regering te bepalen termijn, moet gedurende ten minste vijf jaar, voorafgaand aan de opening van het recht op een tegemoetkoming conform dit decreet, ononderbroken aangesloten zijn bij een zorgkas of sociaal verzekerd zijn in een andere lidstaat van de Europese Unie dan België, in een andere staat dan België die partij is bij de Europese Economische Ruimte of in Zwitserland.<br>
 <br>
 De gebruiker, vermeld in artikel 3, § 1, derde en vierde lid, en artikel 3, § 2, vierde lid, die, vanaf het ogenblik dat hij zich kon aansluiten, zich niet vrijwillig heeft aangesloten bij een zorgkas binnen een door de Vlaamse Regering te bepalen termijn moet, gedurende ten minste vijf jaar, voorafgaand aan de opening van het recht op een zorgbudget conform dit decreet, ononderbroken aangesloten zijn bij een zorgkas of sociaal verzekerd zijn in een andere lidstaat van de Europese Unie dan België, in een andere staat dan België die partij is bij de Europese Economische Ruimte of in Zwitserland.<br>
+<br>
+Wat de tegemoetkoming in het kader van het multidisciplinair overleg betreft, is de termijn van ononderbroken aansluiting, vermeld in het tweede lid, niet van toepassing.<br>
 <br>
 De termijn van ononderbroken aansluiting, vermeld in het tweede en derde lid, wordt, ook na een verhuizing of onderbreking van de aansluiting, toegepast, als de gebruiker op de datum van de opening van het recht op de tegemoetkoming aan een van de volgende voorwaarden voldoet:<br>
 1° vrijwillig onder het toepassingsgebied van de Vlaamse sociale bescherming vallen;<br>
@@ -553,7 +572,9 @@ De termijn van ononderbroken aansluiting, vermeld in het tweede en derde lid, wo
 <br>
 Met het oog op de opening van het recht van de gebruiker als vermeld in artikel 3, § 1, tweede en vijfde lid, en artikel 3, § 2, vijfde lid, op de toekenning van een zorgticket of van een tegemoetkoming voor mobiliteitshulpmiddelen, kan de termijn van ononderbroken aansluiting, vermeld in het tweede lid, onder de door de Vlaamse Regering bepaalde voorwaarden, worden vervangen door de betaling door de gebruiker van een bedrag dat de Vlaamse Regering bepaalt, op basis van de periode waarin de gebruiker zich niet heeft aangesloten terwijl hij daartoe wel in de mogelijkheid was. Dat bedrag wordt verhoogd met een bedrag dat overeenstemt met het bedrag van de administratieve geldboete, vermeld in artikel 47, § 1. Artikel 47 is van overeenkomstige toepassing op dit lid.<br>
 <br>
-§ 2. De Vlaamse Regering bepaalt de bijkomende regels voor de voorwaarden om aanspraak te kunnen maken op de rechten in het kader van dit decreet.
+§ 2. De Vlaamse Regering bepaalt de bijkomende regels voor de voorwaarden om aanspraak te kunnen maken op de rechten in het kader van dit decreet.<br>
+<br>
+De Vlaamse Regering bepaalt hoe aangetoond wordt dat voldaan is aan de voorwaarden, vermeld in paragraaf 1, eerste lid, 4° en 5°.&nbsp;
 
 ## HOOFDSTUK 2. Aansluiting bij een zorgkas
 
@@ -579,17 +600,17 @@ Elke persoon als vermeld in artikel 3, § 2, vijfde lid, van dit decreet, die in
 
 ### ART 43.
 
-Elke persoon die in het Nederlandse taalgebied woont en op wie de Vlaamse sociale bescherming niet van toepassing is, en die een beroep doet op zorg in het kader van de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, 4° tot en met 9°, moet zich in voorkomend geval, ongeacht zijn leeftijd, administratief aansluiten bij een zorgkas.<br>
+Elke persoon die in het Nederlandse taalgebied woont en op wie de Vlaamse sociale bescherming niet van toepassing is, en die een beroep doet op zorg in het kader van de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, 4° tot en met 10°, moet zich in voorkomend geval, ongeacht zijn leeftijd, administratief aansluiten bij een zorgkas.<br>
 <br>
-Elke persoon die in het tweetalige gebied Brussel-Hoofdstad woont en die niet vrijwillig is aangesloten bij een zorgkas als vermeld in artikel 42, § 1, tweede lid, of op wie de Vlaamse sociale bescherming niet van toepassing is, en die een beroep doet op zorg in het kader van de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, 4° tot en met 9°, in een door de Vlaamse Gemeenschap erkende zorgvoorziening gelegen in het tweetalige gebied Brussel-Hoofdstad, moet zich in voorkomend geval, ongeacht zijn leeftijd, administratief aansluiten bij een zorgkas.<br>
+Elke persoon die in het tweetalige gebied Brussel-Hoofdstad woont en die niet vrijwillig is aangesloten bij een zorgkas als vermeld in artikel 42, § 1, tweede lid, of op wie de Vlaamse sociale bescherming niet van toepassing is, en die een beroep doet op zorg in het kader van de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, 4° tot en met 10°, in een door de Vlaamse Gemeenschap erkende zorgvoorziening gelegen in het tweetalige gebied Brussel-Hoofdstad, moet zich in voorkomend geval, ongeacht zijn leeftijd, administratief aansluiten bij een zorgkas.<br>
 <br>
-Elke persoon die buiten het Nederlandse taalgebied woont, die naar het Nederlandse taalgebied reist met het oogmerk om gedurende zijn verblijf zorg te ontvangen in het kader van de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, 4° tot en met 9°, en die niet aangesloten is bij een zorgkas conform artikel 42, § 1, § 2 of § 3, moet zich in voorkomend geval, ongeacht zijn leeftijd, administratief aansluiten bij een zorgkas.<br>
+Elke persoon die buiten het Nederlandse taalgebied woont, die naar het Nederlandse taalgebied reist met het oogmerk om gedurende zijn verblijf zorg te ontvangen in het kader van de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, 4° tot en met 10°, en die niet aangesloten is bij een zorgkas conform artikel 42, § 1, § 2 of § 3, moet zich in voorkomend geval, ongeacht zijn leeftijd, administratief aansluiten bij een zorgkas.<br>
 <br>
-Elke persoon die buiten het tweetalige gebied Brussel-Hoofdstad woont, die naar het tweetalige gebied Brussel-Hoofdstad reist met het oogmerk om gedurende zijn verblijf zorg te ontvangen in het kader van de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, 4° tot en met 9°, in een door de Vlaamse Gemeenschap erkende zorgvoorziening, en die niet aangesloten is bij een zorgkas conform artikel 42, § 1, § 2 of § 3, moet zich in voorkomend geval, ongeacht zijn leeftijd, administratief aansluiten bij een zorgkas.
+Elke persoon die buiten het tweetalige gebied Brussel-Hoofdstad woont, die naar het tweetalige gebied Brussel-Hoofdstad reist met het oogmerk om gedurende zijn verblijf zorg te ontvangen in het kader van de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, 4° tot en met 9°, in een door de Vlaamse Gemeenschap erkende zorgvoorziening of in het kader van de pijler van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, 10°, en die niet aangesloten is bij een zorgkas conform artikel 42, § 1, § 2 of § 3, moet zich in voorkomend geval, ongeacht zijn leeftijd, administratief aansluiten bij een zorgkas.
 
 ### ART 44.
 
-§ 1. In afwijking van artikel 41, kunnen personen die zijn geschrapt uit het bevolkingsregister conform artikel 8 van de wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten en tot wijziging van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen en op wie de Vlaamse sociale bescherming niet van toepassing is, een beroep doen op zorg in het kader van de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, 4° tot en met 9°, van dit decreet, als ze feitelijk in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad verblijven en als ze aangesloten zijn of aangesloten zijn geweest bij een zorgkas conform artikel 42 van dit decreet.<br>
+§ 1. In afwijking van artikel 41, kunnen personen die zijn geschrapt uit het bevolkingsregister conform artikel 8 van de wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten en tot wijziging van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen en op wie de Vlaamse sociale bescherming niet van toepassing is, een beroep doen op zorg in het kader van de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, 4° tot en met 10°, van dit decreet, als ze feitelijk in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad verblijven en als ze aangesloten zijn of aangesloten zijn geweest bij een zorgkas conform artikel 42 van dit decreet.<br>
 <br>
 De persoon, vermeld in het eerste lid, moet zich in voorkomend geval administratief aansluiten bij een zorgkas.<br>
 <br>
@@ -597,7 +618,7 @@ De persoon, vermeld in het eerste lid, moet aantonen dat hij feitelijk in het Ne
 <br>
 De Vlaamse Regering kan bijkomende voorwaarden bepalen waaraan de persoon, vermeld in het eerste lid, moet voldoen.<br>
 <br>
-§ 2. In afwijking van artikel 41, kunnen staatlozen die onder de toepassing vallen van het verdrag betreffende de status van staatlozen, ondertekend te New York op 28 september 1954, en op wie de Vlaamse sociale bescherming niet van toepassing is, een beroep doen op zorg in het kader van de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, 4° tot en met 9°, van dit decreet, als ze feitelijk in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad verblijven.<br>
+§ 2. In afwijking van artikel 41, kunnen staatlozen die onder de toepassing vallen van het verdrag betreffende de status van staatlozen, ondertekend te New York op 28 september 1954, en op wie de Vlaamse sociale bescherming niet van toepassing is, een beroep doen op zorg in het kader van de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, 4° tot en met 10°, van dit decreet, als ze feitelijk in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad verblijven.<br>
 <br>
 De persoon, vermeld in het eerste lid, moet zich, in voorkomend geval, administratief aansluiten bij een zorgkas.<br>
 <br>
@@ -605,7 +626,7 @@ De persoon, vermeld in het eerste lid, moet aantonen dat hij feitelijk in het Ne
 <br>
 De Vlaamse Regering kan bijkomende voorwaarden bepalen waaraan de persoon, vermeld in het eerste lid, moet voldoen.<br>
 <br>
-§ 3. In afwijking van artikel 41, kunnen personen die jonger zijn dan achttien jaar en op wie de Vlaamse sociale bescherming niet van toepassing is, een beroep doen op zorg in het kader van de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, 4° tot en met 9°, van dit decreet, als ze feitelijk in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad verblijven.<br>
+§ 3. In afwijking van artikel 41, kunnen personen die jonger zijn dan achttien jaar en op wie de Vlaamse sociale bescherming niet van toepassing is, een beroep doen op zorg in het kader van de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, 4° tot en met 10°, van dit decreet, als ze feitelijk in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad verblijven.<br>
 <br>
 De personen, vermeld in het eerste lid, moeten zich, in voorkomend geval, administratief aansluiten bij een zorgkas.<br>
 <br>
@@ -621,7 +642,9 @@ De Vlaamse Regering bepaalt de bijkomende regels voor de leeftijd en de termijn 
 <br>
 De Vlaamse Regering kan categorieën van personen, op wie alleen bepaalde pijlers van dit decreet van toepassing zijn, geheel of gedeeltelijk vrijstellen van de verplichte premiebetaling.<br>
 <br>
-De Vlaamse Regering kan sociale correcties toepassen voor de leden met recht op een verhoogde tegemoetkoming in de ziekteverzekering als vermeld in artikel 37, § 19, van de Ziekteverzekeringswet.<br>
+De Vlaamse Regering kan sociale correcties toepassen voor de leden met recht op een verhoogde tegemoetkoming in de ziekteverzekering als vermeld in artikel 37, § 19, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994.<br>
+<br>
+[... (vernietigd bij arrest Grondwettelijk Hof 2023/112 van 20 juli 2023)]<br>
 <br>
 De Vlaamse Regering kan, bij substantiële verhoging van de premies, deze ook moduleren, rekening houdend met de financiële draagkracht van de gebruiker.<br>
 <br>
@@ -635,14 +658,15 @@ Het opvragen van de premies wordt beperkt tot een periode die de Vlaamse Regerin
 1° na het overlijden van de aangeslotene;<br>
 2° als de aangeslotene het voorwerp is van een collectieve schuldenregeling;<br>
 3° als de aangeslotene in staat van faillissement verklaard is;<br>
-4° als de aangeslotene door een gerechtsdeurwaarder insolvabel verklaard is.
+4° als de aangeslotene door een gerechtsdeurwaarder insolvabel verklaard is;<br>
+5° als aan de aangeslotene het beschermingsstatuut van tijdelijk ont-heemde is toegekend, vermeld in artikel 57/29 van de wet van 15 decem-ber 1980 betreffende de toegang tot het grondgebied, het verblijf de vestiging en de verwijdering van vreemdelingen.
 
 ### ART 46.
 
 § 1. De Vlaamse Regering bepaalt de regels voor de aftrek van niet tijdig betaalde premies voor de Vlaamse sociale bescherming van het uit te keren zorgbudget.<br>
-In de gevallen waarin de gebruiker geen recht heeft op een zorgbudget en behoefte heeft aan zorg in het kader van de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, 4° tot en met 9°, van dit decreet, bepaalt de Vlaamse Regering de procedure voor de inning door de zorgkas van niet tijdig betaalde premies.<br>
+In de gevallen waarin de gebruiker geen recht heeft op een zorgbudget en behoefte heeft aan zorg in het kader van de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, 4° tot en met 10°, van dit decreet, bepaalt de Vlaamse Regering de procedure voor de inning door de zorgkas van niet tijdig betaalde premies.<br>
 <br>
-§ 2. De zorgkas kan personen vrijstellen van de betaling van niet tijdig betaalde premies of de premies verminderen wanneer de gebruiker zich bevindt in een behartigenswaardige situatie, en behoefte heeft aan zorg in het kader van de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, 4° tot en met 9°, van dit decreet.<br>
+§ 2. De zorgkas kan personen vrijstellen van de betaling van niet tijdig betaalde premies of de premies verminderen wanneer de gebruiker zich bevindt in een behartigenswaardige situatie, en behoefte heeft aan zorg in het kader van de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, 4° tot en met 10°, van dit decreet.<br>
 <br>
 De volgende categorieën van gebruikers worden van rechtswege geacht zich in een behartigenswaardige situatie als vermeld in het eerste lid, te bevinden:<br>
 1° gebruikers die, op het ogenblik dat zij zorg nodig hebben, in budgetbegeleiding of -beheer zijn bij een OCMW of bij een door de Vlaamse Gemeenschap erkende instelling voor schuldbemiddeling;<br>
@@ -657,7 +681,7 @@ De behartigenswaardige situatie, vermeld in het eerste lid, kan naast de gevalle
 
 § 1. Een administratieve geldboete van 250 euro wordt opgelegd aan de persoon die aangesloten is bij een zorgkas en die de premie, vermeld in artikel 45, twee keer niet of slechts gedeeltelijk heeft betaald.<br>
 <br>
-Voor personen die op 1 januari van het jaar dat voorafgaat aan het jaar waarin de administratieve boete wordt opgelegd, recht hebben op de verhoogde verzekeringstegemoetkoming, vermeld in artikel 37, § 19, van de Ziekteverzekeringswet, bedraagt de administratieve geldboete 100 euro.<br>
+Voor personen die op 1 januari van het jaar dat voorafgaat aan het jaar waarin de administratieve boete wordt opgelegd, recht hebben op de verhoogde verzekeringstegemoetkoming, vermeld in artikel 37, § 19, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, bedraagt de administratieve geldboete 100 euro.<br>
 <br>
 De Vlaamse Regering bepaalt de voorwaarden waaronder bepaalde jaren waarvoor de premie niet of slechts gedeeltelijk is betaald, niet in aanmerking worden genomen voor de toepassing van het eerste lid.<br>
 <br>
@@ -697,19 +721,17 @@ Met behoud van de toepassing van andersluidende regelgeving hebben de gegevens d
 1° algemene verordening gegevensbescherming: de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van de richtlijn 95/45/EG;<br>
 2° toegangspoort: de toegangspoort, vermeld in artikel 17 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp.<br>
 <br>
-§ 2. De persoonsgegevens worden in het kader van de Vlaamse sociale bescherming verwerkt conform de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens. De verwerking van persoonsgegevens is gebaseerd op artikel 6, eerste lid, 1), c), van de voormelde verordening en, wat gegevens over gezondheid betreft, op artikel 9, tweede lid, 2), h), van de voormelde verordening.<br>
-<br>
-De Vlaamse Regering specificeert, na advies van de bevoegde toezichthoudende autoriteit, de gegevens waarop artikel 22, tweede lid, artikel 23, § 1, eerste lid, artikel 37, § 1, artikel 39, § 2, artikel 50, artikel 65, tweede lid, en artikel 133, § 5, betrekking hebben. De verwerking van die gegevens vindt plaats met toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing zijn bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder zijn of worden gespecificeerd.<br>
+§ 2. De persoonsgegevens worden in het kader van de Vlaamse sociale bescherming verwerkt conform de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens. De verwerking van persoonsgegevens is gebaseerd op artikel 6, lid 1, c), van de voormelde verordening en, wat gegevens over gezondheid betreft, op artikel 9, lid 2, h), van de voormelde verordening.<br>
 <br>
 De gegevens over gezondheid, vermeld in het eerste lid, worden verwerkt conform artikel 9, derde lid, van de voormelde verordening, door of onder de verantwoordelijkheid van een beroepsbeoefenaar die aan het beroepsgeheim is gebonden, of door een andere persoon die tot geheimhouding is gehouden.<br>
 <br>
-§ 3. Met het oog op de uitvoering van de bevoegdheden en taken, geregeld bij of krachtens dit decreet, worden persoonsgegevens van de gebruiker, inclusief gegevens als vermeld in artikel 4, 15), van de algemene verordening gegevensbescherming, verwerkt door:<br>
+§ 3. Met het oog op de uitvoering van de bevoegdheden en taken, geregeld bij of krachtens dit decreet, worden persoonsgegevens van de gebruiker, inclusief gegevens over de gezondheid, verwerkt door:<br>
 1° het VAPH;<br>
 2° de toegangspoort;<br>
 3° het agentschap;<br>
 4° de zorgkassen;<br>
 5° de indicatiestellers;<br>
-6° de zorgvoorzieningen en de verstrekkers van mobiliteitshulpmiddelen;<br>
+6° de zorgvoorzieningen, de deelnemers aan het multidisciplinair overleg en de verstrekkers van mobiliteitshulpmiddelen;<br>
 7° de Zorgkassencommissie;<br>
 8° de externe dienstverleners, vermeld in artikel 34, eerste lid, 1°, van dit decreet;<br>
 9° de Expertencommissie, vermeld in artikel 39;<br>
@@ -717,48 +739,64 @@ De gegevens over gezondheid, vermeld in het eerste lid, worden verwerkt conform 
 11° de actoren die belast zijn met de behandeling van administratieve beroepen, conform artikel 71, artikel 76, § 5, artikel 80, § 5, artikel 88, § 3, en artikel 92, § 5, van dit decreet;<br>
 12° de adviserend artsen van de verzekeringsinstellingen, de diensten maatschappelijk werk van de ziekenfondsen en de openbare centra voor maatschappelijk welzijn, vermeld in artikel 50.<br>
 <br>
-De Vlaamse Regering kan nadere regels bepalen voor de vorm waarin en de wijze waarop de persoonsgegevens worden uitgewisseld.<br>
+De instanties, vermeld in het eerste lid, verwerken de volgende persoonsgegevens van de gebruiker:<br>
+1° de persoonsgegevens die noodzakelijk zijn voor de identificatie van de gebruiker in kwestie en in voorkomend geval de vertegenwoordiger of mantelzorger van de gebruiker;<br>
+2° de persoonsgegevens, met inbegrip van de gegevens over de gezondheid, die noodzakelijk zijn voor de organisatie en de financiering van de zorg, met inbegrip van de berekening van de bijdragen ten laste van de gebruiker, en voor de vervulling van de opdrachten van de betrokken instantie.<br>
+<br>
+De Vlaamse Regering specificeert de persoonsgegevens, vermeld in het tweede lid.<br>
+<br>
+De Vlaamse Regering specificeert in elk geval de gegevens waarop artikel 22, tweede lid, artikel 23, § 1, eerste lid, artikel 37, § 1, artikel 39, § 2, artikel 50, artikel 65, tweede lid, en artikel 133, § 5, betrekking hebben.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de vorm waarin en de wijze waarop de persoonsgegevens, met inbegrip van de gegevens over de gezondheid, worden uitgewisseld.<br>
+<br>
+§ 3/1. Om de bevoegdheden en taken die bij of krachtens dit decreet worden bepaald, uit te voeren, worden persoonsgegevens van leden van de Zorgkassencommissie, de Expertencommissie, de sectorale adviescommissies, vermeld in artikel 38, de Adviescommissie Mobiliteitshulpmiddelen, vermeld in artikel 132, en de Bijzondere Technische Commissie, vermeld in artikel 133, verwerkt door het agentschap.<br>
+<br>
+Het agentschap verwerkt persoonsgegevens ter identificatie van de leden van de commissies, vermeld in het eerste lid. De Vlaamse Regering kan die persoonsgegevens specificeren.<br>
+<br>
+§ 3/2. Het agentschap kan persoonsgegevens verwerken over de medewerkers die ingezet worden in de zorgvoorzieningen en de zelfstandigen die zorg verlenen in de zorgvoorzieningen. Die gegevens zijn noodzakelijk om de sociale akkoorden uit te voeren en om de financiering die toekomt aan de zorgvoorzieningen te berekenen. De Vlaamse Regering bepaalt welke gegevens worden verwerkt.<br>
+<br>
+Als dat noodzakelijk is, vraagt het agentschap de gegevens, vermeld in het eerste lid, aan de zorgvoorzieningen in kwestie.<br>
 <br>
 § 4. De verwerkingsverantwoordelijken in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming zijn:<br>
-1° het agentschap, voor de verwerking van persoonsgegevens in het kader van de controles op indicatiestellingen en de aansturing van die controles, in het kader van de behandeling van de administratieve beroepen tegen beslissingen van de zorgkas, met het oog op de uitvoering van de opdrachten van de Expertencommissie, met het oog op de uitvoering van de opdrachten van de Bijzondere Technische Commissie en voor het beheer van de databank, vermeld in artikel 70;<br>
-2° de zorgkassen, voor de verwerking van indicatiestellingen en voor de verwerking van persoonsgegevens in het kader van hun opdrachten, vermeld in artikel 22;<br>
-3° het agentschap en de zorgkassen, voor de verwerking van persoonsgegevens in het kader van het digitaal platform Vlaamse Sociale Bescherming en de gemeenschappelijke applicaties Vlaamse sociale bescherming, vermeld in artikel 28;<br>
-4° de zorgvoorzieningen en de verstrekkers van mobiliteitshulpmiddelen, voor de verwerking van persoonsgegevens in het kader van hun zorgrelatie met de gebruiker.<br>
+1° het agentschap, voor de verwerking van persoonsgegevens van gebruikers in het kader van de controles op indicatiestellingen en de aansturing van die controles, in het kader van de behandeling van de administratieve beroepen tegen beslissingen van de zorgkas, met het oog op de uitvoering van de opdrachten van de Expertencommissie, met het oog op de uitvoering van de opdrachten van de Bijzondere Technische Commissie en voor het beheer van de databank, vermeld in artikel 70, voor de verwerking van persoonsgegevens van leden van de Zorgkassencommissie, de Expertencommissie, de sectorale adviescommissies, de Adviescommissie Mobiliteitshulpmiddelen en de Bijzondere Technische Commissie en voor de verwerking van persoonsgegevens van medewerkers die ingezet worden in de zorgvoorzieningen en de zelfstandigen die zorg verlenen in de zorgvoorzieningen;<br>
+2° de zorgkassen, voor de verwerking van indicatiestellingen , voor de verwerking van persoonsgegevens van gebruikers in het kader van hun opdrachten, vermeld in artikel 22, en voor de doorgifte van persoonsgegevens conform artikel 46/1;<br>
+3° het agentschap en de zorgkassen, voor de verwerking van persoonsgegevens&nbsp;van gebruikers in het kader van het digitaal platform Vlaamse Sociale Bescherming en de gemeenschappelijke applicaties Vlaamse sociale bescherming, vermeld in artikel 28;<br>
+4° de zorgvoorzieningen, de deelnemers aan het multidisciplinair overleg en de verstrekkers van mobiliteitshulpmiddelen, voor de verwerking van persoonsgegevens&nbsp;van gebruikers in het kader van hun zorgrelatie met de gebruiker.<br>
 <br>
-§ 5. De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autoriteit, gedurende welke termijn de verwerkte persoonsgegevens maximaal zullen worden bewaard.<br>
+§ 5. De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autoriteit, gedurende welke termijn de verwerkte persoonsgegevens, met inbegrip van de gegevens over de gezondheid, maximaal zullen worden bewaard.<br>
 <br>
-§ 6. De verwerking van persoonsgegevens vindt plaats met respect voor de rechten van de betrokken gebruikers.<br>
+§ 6. De verwerking van persoonsgegevens, met inbegrip van de gegevens over de gezondheid, vindt plaats met respect voor de rechten van de betrokken gebruikers.<br>
 <br>
 De zorgkassen zijn verantwoordelijk voor het verstrekken van informatie in hun individuele communicatie en interactie met gebruikers en hun vertegenwoordigers, met inbegrip van de contactgegevens van de functionaris van de gegevensbescherming als bedoeld in artikel 37 van de algemene verordening gegevensbescherming.<br>
 <br>
 § 7. De instanties, vermeld in paragraaf 4, bezorgen aan het agentschap alle gegevens waarover ze beschikken in het kader van de uitvoering van dit decreet, met het oog op analyse van die gegevens, evidencebased beleidsvoering voor het Vlaamse welzijns- en gezondheidsbeleid en de informatieverstrekking daarover. Die gegevens zijn geanonimiseerd. De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autoriteit, welke gegevens bezorgd worden, alsook de wijze waarop en de periodiciteit waarmee de gegevens bezorgd worden.<br>
 <br>
-§ 8. De zorgkassen bezorgen aan het Intermutualistisch Agentschap alle gegevens waarover ze beschikken in het kader van de uitvoering van dit decreet, met het oog op de analyse van die gegevens door het Intermutualistisch Agentschap. De doorgifte en analyse vindt plaats met het doel om verdere beleidsvorming te informeren. Die gegevens zijn geanonimiseerd. De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autoriteit, welke gegevens bezorgd worden, alsook de wijze waarop en de periodiciteit waarmee de gegevens bezorgd worden.<br>
+§ 8. De zorgkassen bezorgen aan het Intermutualistisch Agentschap alle gegevens waarover ze beschikken in het kader van de uitvoering van dit decreet, met het oog op de analyse van die gegevens door het Intermutualistisch Agentschap. De doorgifte en analyse vindt plaats met het doel om verdere beleidsvorming te informeren. Die gegevens zijn gepseudonimiseerd. De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autoriteit, welke gegevens bezorgd worden, alsook de wijze waarop en de periodiciteit waarmee de gegevens bezorgd worden.<br>
 <br>
 In het eerste lid wordt verstaan onder het Intermutualistisch Agentschap: het Intermutualistisch Agentschap opgericht overeenkomstig artikel 278 van de programmawet I van 24 december 2002.
 
 ### ART 50.
 
-De zorgkassen enerzijds en de ziekenfondsen en verzekeringsinstellingen, vermeld in artikel 2, g) en i), van de Ziekteverzekeringswet anderzijds, wisselen onder elkaar gegevens uit die noodzakelijk zijn in het kader van de toepassing van de bepalingen van dit decreet, conform een overeenkomst die daarover wordt gesloten.<br>
+De zorgkassen enerzijds en de ziekenfondsen en verzekeringsinstellingen, vermeld in artikel 2, g) en i), van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994 anderzijds, wisselen onder elkaar gegevens, met inbegrip van de gegevens over gezondheid, uit die noodzakelijk zijn in het kader van de toepassing van de bepalingen van dit decreet, conform een overeenkomst die daarover wordt gesloten.<br>
 <br>
 De gegevens, vermeld in het eerste lid, kunnen onder meer betrekking hebben op:<br>
 1° de verzekeringsstatus van gebruikers in het kader van de verplichte verzekering voor geneeskundige verzorging en uitkeringen;<br>
 2° de informatie die noodzakelijk is om de Europese en internationale regelgeving uit te voeren;<br>
 3° de informatie die noodzakelijk is om dubbele financiering van zorgkosten te vermijden.<br>
 <br>
-De adviserend artsen, vermeld in artikel 154 van de Ziekteverzekeringswet, hebben toegang tot de gegevens van gebruikers die verwerkt worden in het kader van dit decreet en die dienstig zijn voor de uitoefening van hun opdrachten, vermeld in artikel 153 van de Ziekteverzekeringswet en in het kader van dit decreet.<br>
+De adviserend artsen, vermeld in artikel 154 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, hebben toegang tot de gegevens van gebruikers, met inbegrip van de gegevens over gezondheid, die verwerkt worden in het kader van dit decreet en die dienstig zijn voor de uitoefening van hun opdrachten, vermeld in artikel 153 van de Ziekteverzekeringswet en in het kader van dit decreet.<br>
 <br>
-De diensten maatschappelijk werk van de ziekenfondsen, vermeld in artikel 19 van het Woonzorgdecreet, hebben toegang tot de gegevens van gebruikers die verwerkt worden in het kader van dit decreet en die dienstig zijn voor de uitoefening van hun opdrachten, vermeld in artikel&nbsp;20 van het Woonzorgdecreet.<br>
+De diensten maatschappelijk werk van de ziekenfondsen, vermeld in artikel 19 van het Woonzorgdecreet, hebben toegang tot de gegevens van gebruikers, met inbegrip van de gegevens over gezondheid, die verwerkt worden in het kader van dit decreet en die dienstig zijn voor de uitoefening van hun opdrachten, vermeld in artikel&nbsp;20 van het Woonzorgdecreet.<br>
 <br>
-De openbare centra voor maatschappelijk welzijn, vermeld in artikel 1 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, hebben toegang tot de gegevens van gebruikers die verwerkt worden in het kader van dit decreet en die dienstig zijn voor de uitoefening van hun opdrachten, vermeld in hoofdstuk IV van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn.<br>
+De openbare centra voor maatschappelijk welzijn, vermeld in artikel 1 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, hebben toegang tot de gegevens van gebruikers, met inbegrip van de gegevens over gezondheid, die verwerkt worden in het kader van dit decreet en die dienstig zijn voor de uitoefening van hun opdrachten, vermeld in hoofdstuk IV van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn.<br>
 <br>
 Het VAPH, vermeld in artikel 3 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, heeft toegang tot gegevens van gebruikers die verwerkt worden in het kader van dit decreet en die dienstig zijn voor de uitoefening van zijn opdracht, vermeld in artikel 6, 2°, van het voormelde decreet.
 
 ### ART 51.
 
-Met het oog op de opname van een gebruiker in een zorgvoorziening of met het oog op de verstrekking van een mobiliteitshulpmiddel aan een gebruiker, hebben de betrokken zorgvoorziening of de betrokken verstrekker van mobiliteitshulpmiddelen toegang tot de volgende gegevens:<br>
+Met het oog op de opstart van zorg aan een gebruiker hebben de betrokken zorgvoorziening, de betrokken deelnemers aan het multidisciplinair overleg of de betrokken verstrekker van mobiliteitshulpmiddelen toegang tot de volgende gegevens:<br>
 1° de zorgkas waarbij de betrokken gebruiker is aangesloten;<br>
-2° de verzekeringsstatus van de betrokken gebruiker, met inbegrip van de eventuele achterstallen die de gebruiker heeft in het kader van de premiebetaling.
+2° de verzekeringsstatus van de betrokken gebruiker, met inbegrip van de eventuele achterstallen die de gebruiker heeft in het kader van de premiebetaling en in voorkomend geval de reden waarom iemand niet is aangesloten bij een zorgkas.
 
 ### ART 52.
 
@@ -766,11 +804,7 @@ Met het oog op de opname van een gebruiker in een zorgvoorziening of met het oog
 <br>
 In afwijking van het eerste lid, kunnen de zorgkassen een beroep doen op een andere bron in de mate dat de informatiegegevens niet bij het Rijksregister kunnen worden verkregen.<br>
 <br>
-§ 2. De informatiegegevens, vermeld in paragraaf 1, die bij het Rijksregister van de natuurlijke personen zijn verkregen, in een elektronisch bestand opgeslagen zijn en aan het dossier toegevoegd zijn, hebben bewijswaarde tot bewijs van het tegendeel.<br>
-<br>
-De Vlaamse Regering bepaalt de voorwaarden en de procedures volgens welke de informatiegegevens, vermeld in het eerste lid, moeten worden bewaard om hun bewijswaarde naar herkomst en datum te garanderen.<br>
-<br>
-Als het bewijs van het tegendeel, vermeld in het eerste lid, door de betrokken instelling wordt aanvaard, deelt die de inhoud van het aldus aanvaarde informatiegegeven, als inlichting, mee aan het Rijksregister van de natuurlijke personen en voegt bij die mededelingen de bewijsstukken daarvan.
+§ 2. ...
 
 ### ART 53.
 
@@ -778,11 +812,13 @@ Als het bewijs van het tegendeel, vermeld in het eerste lid, door de betrokken i
 <br>
 In afwijking van het eerste lid, kan het agentschap een beroep doen op een andere bron in de mate dat de informatiegegevens niet bij het Rijksregister kunnen worden verkregen.<br>
 <br>
-§ 2. De informatiegegevens, vermeld in paragraaf 1, die bij het Rijksregister van de natuurlijke personen zijn verkregen, in een elektronisch bestand opgeslagen zijn en aan het dossier toegevoegd zijn, hebben bewijswaarde tot bewijs van het tegendeel.<br>
+§ 2. ....
+
+### ART 53/1.
+
+In de gevallen bepaald door de Vlaamse Regering gebruiken het agentschap, de zorgkassen, de zorgvoorzieningen, de deelnemers aan het multidisciplinair overleg en de verstrekkers van mobiliteitshulpmiddelen het rijksregisternummer van gebruikers.<br>
 <br>
-De Vlaamse Regering bepaalt de voorwaarden en de procedures volgens welke de informatiegegevens, vermeld in het eerste lid, moeten worden bewaard om hun bewijswaarde naar herkomst en datum te garanderen.<br>
-<br>
-Als het bewijs van het tegendeel, vermeld in het eerste lid, door de betrokken instelling wordt aanvaard, deelt die de inhoud van het aldus aanvaarde informatiegegeven, als inlichting, mee aan het Rijksregister van de natuurlijke personen en voegt bij die mededelingen de bewijsstukken daarvan.
+In de gevallen bepaald door de Vlaamse Regering gebruikt het agentschap het rijksregisternummer van de medewerkers die ingezet worden in de zorgvoorzieningen en de zelfstandigen die zorg verlenen in de zorgvoorzieningen en van de leden van de Zorgkassencommissie, de Expertencommissie en de Bijzondere Technische Commissie, vermeld in artikel 133
 
 ### ART 54.
 
@@ -813,7 +849,7 @@ De Vlaamse Regering kan bijkomende categorieën bepalen waaronder de personen, v
 
 ### ART 58.
 
-De zorggebonden financiering bestaat uit de toekenning door de zorgkas van tegemoetkomingen aan gebruikers in de vorm van een persoonsvolgend budget. Dat persoonsvolgend budget kan bestaan in de toekenning van een zorgbudget, in de toekenning van een zorgticket of in de toekenning van een tegemoetkoming voor mobiliteitshulpmiddelen.<br>
+De zorggebonden financiering bestaat uit de toekenning door de zorgkas van tegemoetkomingen aan gebruikers in de vorm van een persoonsvolgend budget. Dat persoonsvolgend budget kan bestaan in de toekenning van een zorgbudget, in de toekenning van een zorgticket, in de toekenning van een tegemoetkoming voor mobiliteitshulpmiddelen, in de toekenning van een tegemoetkoming voor de organisatie van of deelname aan multidisciplinair overleg of in de toekenning van een tegemoetkoming voor reiskosten.<br>
 <br>
 Het zorgbudget, vermeld in het eerste lid, heeft betrekking op de volgende pijlers van de Vlaamse sociale bescherming:<br>
 1° het zorgbudget voor zwaar zorgbehoevenden;<br>
@@ -835,7 +871,13 @@ De zorgkas beslist over de toekenning van het persoonsvolgend budget. Zij kan ge
 
 De Vlaamse Regering bepaalt de nadere regels voor de wijze waarop het persoonsvolgend budget aan de gebruiker wordt toegekend.<br>
 <br>
-De Vlaamse Regering bepaalt de nadere voorwaarden en de wijze waarop de tegemoetkomingen, ook retroactief, kunnen worden uitgevoerd.
+Als de tegemoetkomingen op aanvraag worden toegekend, bepaalt de Vlaamse Regering de voorwaarden en de procedures voor de aanvraag van tegemoetkomingen bij de zorgkassen.<br>
+<br>
+De zorgkassen behandelen de aanvragen en nemen een beslissing over de toekenning van tegemoetkomingen conform de voorwaarden en de procedures, vermeld in het tweede lid.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere voorwaarden en de wijze waarop de tegemoetkomingen, ook retroactief, kunnen worden uitgevoerd.<br>
+<br>
+De Vlaamse Regering bepaalt de voorwaarden en de procedures voor de financiële en administratieve betrekkingen tussen de gebruikers, de zorgkassen en de zorgvoorzieningen in het kader van de aanvraag, de toekenning en de uitbetaling van de tegemoetkomingen die worden toegekend op basis van dit decreet.
 
 ### ART 61.
 
@@ -849,23 +891,37 @@ De Vlaamse Regering bepaalt de wijze waarop en de voorwaarden waaronder de verja
 
 ## HOOFDSTUK 2. Indicatiestelling
 
+### ART 70/1.
+
+De Vlaamse Regering kan subsidies toekennen aan organisaties voor de ontwikkeling, het onderhoud, de ondersteuning bij de implementatie en het operationeel houden van een BelRAI-applicatie, met het oog op de indicatiestelling en de zorgplanning en -evaluatie van gebruikers.<br>
+<br>
+De Vlaamse Regering bepaalt in voorkomend geval de nadere regels voor de subsidies, vermeld in het eerste lid, met inbegrip van het subsidiebedrag en de wijze waarop het toezicht op de besteding van de subsidies gebeurt.
+
 ## HOOFDSTUK 3. Beroepsprocedures
+
+### ART 71.
+
+De gebruiker of zijn vertegenwoordiger kunnen, in de gevallen bepaald door de Vlaamse Regering, administratief beroep aantekenen tegen beslissingen van de zorgkas over de toekenning van het persoonsvolgend budget of tegen herzieningen door de zorgkas van die beslissingen conform artikel 69. De Vlaamse Regering regelt de administratieve beroepsprocedure en kan bepalen wie het administratief beroep behandelt.
+
+### ART 72.
+
+Na uitputting van de administratieve beroepsprocedure, vermeld in artikel 71, kan door de gebruiker of zijn vertegenwoordiger bij de arbeidsrechtbank beroep aangetekend worden tegen beslissingen over de toekenning van de zorggebonden financiering of tegen herzieningen van die beslissingen. Die vordering wordt, op straffe van niet-ontvankelijkheid, ingediend binnen een termijn van drie maanden vanaf de datum van de ontvangst van de bestreden beslissing.
 
 ## HOOFDSTUK 4. Cumulatie en subrogatie
 
 ### ART 73.
 
-De Vlaamse Regering kan nadere regels en voorwaarden bepalen voor de eventuele cumulatie van tegemoetkomingen voor verschillende pijlers van de Vlaamse sociale bescherming of zorgvormen. Ze kan inzonderheid nadere regels en voorwaarden bepalen die specifiek gelden voor gebruikers die wonen in het tweetalige gebied Brussel-Hoofdstad.
+De Vlaamse Regering kan voorwaarden en procedures bepalen voor de eventuele cumulatie van tegemoetkomingen van de Vlaamse sociale bescherming of zorgvormen. Ze kan inzonderheid voorwaarden en procedures bepalen die specifiek gelden voor gebruikers die wonen in het tweetalige gebied Brussel-Hoofdstad.
 
 ### ART 74.
 
-De tegemoetkomingen in het kader van dit decreet worden, conform de regels en onder de voorwaarden die de Vlaamse Regering kan vaststellen, geweigerd of verminderd als de gebruiker of, in geval van het zorgbudget voor ouderen met een zorgnood, de persoon met wie hij een gezin vormt, krachtens andere wetten, decreten, ordonnanties of reglementaire bepalingen of krachtens vreemde wetten, voor dezelfde behoefte aan zorg al een tegemoetkoming heeft gekregen.<br>
+De Vlaamse Regering kan voorwaarden en procedures bepalen over de eventuele cumulatie van tegemoetkomingen die voortvloeien uit dit decreet enerzijds en tegemoetkomingen krachtens andere wetten, decreten, ordonnanties of reglementaire bepalingen of krachtens vreemde wetten anderzijds.<br>
 <br>
-De gebruiker of, in geval van het zorgbudget voor ouderen met een zorgnood, de persoon met wie hij een gezin vormt, moet zijn aanspraak op de tegemoetkoming, vermeld in het eerste lid, doen gelden en brengt de zorgkas daar in voorkomend geval van op de hoogte.
+De gebruiker of, in geval van het zorgbudget voor ouderen met een zorgnood, de persoon met wie hij een gezin vormt, moet&nbsp;in voorkomend geval zijn aanspraak op de tegemoetkoming krachtens andere wetten, decreten, ordonnanties of reglementaire bepalingen of krachtens vreemde wetten, vermeld in het eerste lid, doen gelden en brengt de zorgkas daar in voorkomend geval van op de hoogte.
 
 ### ART 75.
 
-§ 1. De tegemoetkomingen in het kader van dit decreet worden, conform de regels en onder de voorwaarden die de Vlaamse Regering kan vaststellen, geweigerd of verminderd als de gebruiker, krachtens andere wetten, decreten, ordonnanties of reglementaire bepalingen, krachtens vreemde wetten, krachtens gemeen recht of krachtens een overeenkomst, werkelijk een schadeloosstelling ontvangt, voor dezelfde schade en op grond van dezelfde behoefte aan zorg.<br>
+§ 1. De tegemoetkomingen in het kader van dit decreet worden, conform de regels en onder de voorwaarden die de Vlaamse Regering kan vaststellen, geweigerd of verminderd als de gebruiker, krachtens andere wetten, decreten, ordonnanties of reglementaire bepalingen, krachtens vreemde wetten, krachtens gemeen recht of krachtens het interne stelsel van een internationale of supranationale organisatie, werkelijk een schadeloosstelling ontvangt, voor dezelfde schade en op grond van dezelfde behoefte aan zorg.<br>
 <br>
 De gebruiker moet zijn aanspraak op de schadeloosstelling, vermeld in het eerste lid, doen gelden en brengt de zorgkas daar in voorkomend geval van op de hoogte.<br>
 <br>
@@ -873,15 +929,25 @@ Als de schadeloosstelling, vermeld in het eerste lid, minder bedraagt dan de teg
 <br>
 De Vlaamse Regering kan de voorwaarden bepalen waarin de tegemoetkomingen verleend in het kader van de Vlaamse sociale bescherming worden toegekend in afwachting van de effectieve ontvangst door de gebruiker van de schadeloosstelling, vermeld in het eerste lid.<br>
 <br>
-§ 2. De zorgkas treedt in de plaats van de gebruiker om een aanspraak op de schadeloosstelling te laten gelden en informeert de gebruiker daarover. Die indeplaatsstelling geldt ten belope van het bedrag van de verleende tegemoetkomingen, vermeld in het eerste lid van paragraaf 1, voor het geheel van de sommen die krachtens andere wetten, decreten, ordonnanties of reglementaire bepalingen, krachtens vreemde wetten, krachtens gemeen recht of krachtens een overeenkomst verschuldigd zijn.<br>
+§ 2. De zorgkas treedt in de plaats van de gebruiker om een aanspraak op de schadeloosstelling te laten gelden en informeert de gebruiker daarover. Die indeplaatsstelling geldt ten belope van het bedrag van de verleende tegemoetkomingen, vermeld in het eerste lid van paragraaf 1, voor het geheel van de sommen die krachtens andere wetten, decreten, ordonnanties of reglementaire bepalingen, krachtens vreemde wetten, krachtens gemeen recht of krachtens het interne stelsel van een internationale of supranationale organisatie verschuldigd zijn.<br>
 <br>
-Indien degene die schadeloosstelling verschuldigd is de verzekeringsinstelling, vermeld in artikel 136, § 2, van de Ziekteverzekeringswet, verwittigt van zijn voornemen om de rechthebbende schadeloos te stellen, dan brengt de verzekeringsinstelling de zorgkas van de rechthebbende op de hoogte van die verwittiging, in zoverre de schadeloosstelling een van de pijlers betreft van de Vlaamse sociale bescherming.<br>
+Indien degene die schadeloosstelling verschuldigd is de verzekeringsinstelling, vermeld in artikel 136, § 2, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, verwittigt van zijn voornemen om de rechthebbende schadeloos te stellen, dan brengt de verzekeringsinstelling de zorgkas van de rechthebbende op de hoogte van die verwittiging, in zoverre de schadeloosstelling een van de pijlers betreft van de Vlaamse sociale bescherming.<br>
 <br>
 Degene die de schadeloosstelling verschuldigd is, kan de zorgkas ook rechtstreeks verwittigen van zijn voornemen om de gebruiker schadeloos te stellen.<br>
 <br>
 De overeenkomst die tot stand gekomen is tussen de gebruiker en degene die de schadeloosstelling verschuldigd is, kan niet tegen de zorgkas worden aangevoerd zonder haar instemming. Als de zorgkas geen partij is, bezorgt de gebruiker een kopie van de tot stand gekomen akkoorden of gerechtelijke beslissingen.<br>
 <br>
-De Vlaamse Regering bepaalt de voorwaarden en de procedure voor de uitoefening van de rechten, vermeld in het eerste lid. De Vlaamse Regering kan bepalen dat daarbij een beroep wordt gedaan op een door haar aangeduide, externe dienstverlener.
+Als degene die schadeloosstelling verschuldigd is, nalaat de verzekeringsinstelling of de zorgkas in te lichten conform het tweede of het derde lid, kan hij de betalingen die hij verrichtte ten gunste van de gebruiker niet aanvoeren tegen de zorgkas. In geval van dubbele betaling blijven die betalingen definitief verworven voor de gebruiker.<br>
+<br>
+De zorgkas heeft een eigen recht van terugvordering van de verleende tegemoetkomingen tegenover het Belgisch Gemeenschappelijk Waarborgfonds, vermeld in artikel 15, 85°, van de wet van 13 maart 2016 op het statuut van en het toezicht op de verzekeringsof herverzekeringsondernemingen, in de gevallen, vermeld in artikel 19bis-11 van de wet van 21 november 1989 betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen.<br>
+<br>
+De schade, vermeld in dit artikel, wordt niet geacht volledig vergoed te zijn als de tegemoetkomingen in het kader van de Vlaamse sociale bescherming het bedrag van de toegekende schadeloosstelling overtreffen.<br>
+<br>
+De tegemoetkomingen die worden toegekend op grond van dit decreet, zijn in dit geval terugvorderbaar van degene die schadeloosstelling verschuldigd is, ongeacht of er een dading is geweest of niet.<br>
+<br>
+De Vlaamse Regering bepaalt de voorwaarden en de procedure voor de uitoefening van de rechten, vermeld in het eerste lid. De Vlaamse Regering kan bepalen dat daarbij een beroep wordt gedaan op een door haar aangeduide, externe dienstverlener.<br>
+<br>
+&nbsp;§ 3. Dit artikel is niet van toepassing op de vergoedingen die toegekend zijn met toepassing van de wet van 31 maart 2010 betreffende de vergoeding van schade als gevolg van gezondheidszorg, met uitzondering van de gevallen, vermeld in artikel 3, § 2, van de voormelde wet.
 
 ## HOOFDSTUK 5. Terugvordering van ten onrechte uitbetaalde tegemoetkomingen
 
@@ -893,17 +959,61 @@ De Vlaamse Regering bepaalt de voorwaarden en de procedure voor de uitoefening v
 <br>
 § 3. De terugvordering van ten onrechte uitbetaalde tegemoetkomingen verjaart na twee jaar, vanaf de datum waarop de tegemoetkoming is uitbetaald.<br>
 <br>
-In afwijking van het eerste lid wordt de termijn van twee jaar voor de terugvordering van de ten onrechte betaalde tegemoetkomingen aangepast naar vijf jaar als de ten onrechte betaalde tegemoetkomingen verkregen zijn door bedrieglijke handelingen of door valse of opzettelijk onvolledige verklaringen van de gebruiker of zijn vertegenwoordiger.<br>
+In afwijking van het eerste lid wordt de termijn van twee jaar voor de terugvordering van de ten onrechte betaalde tegemoetkomingen aangepast naar vijf jaar als de ten onrechte betaalde tegemoetkomingen verkregen zijn door bedrieglijke handelingen of door valse of opzettelijk onvolledige verklaringen van de zorgvoorziening, de verstrekker van mobiliteitshulpmiddelen, de deelnemer aan het multidisciplinair overleg, de vervoerder, de gebruiker of de vertegenwoordiger van de gebruiker.<br>
 <br>
 Een aangetekende brief stuit de verjaring.<br>
 <br>
 § 4. De Vlaamse Regering bepaalt welke instantie, in de situaties vermeld in paragraaf 1 tot en met 3, financieel verantwoordelijk is voor de niet teruggevorderde tegemoetkomingen.<br>
 <br>
-§ 5. De gebruiker of zijn vertegenwoordiger kan administratief beroep aantekenen tegen de beslissingen van de zorgkas over de terugvordering. De Vlaamse Regering regelt de administratieve beroepsprocedure. Ze kan een multidisciplinair samengestelde administratieve beroepscommissie oprichten of bepalen wie het administratief beroep behandelt. De Vlaamse Regering bepaalt de samenstelling van deze beroepscommissie en kan binnen die administratieve beroepscommissie verschillende kamers instellen. Ze kan presentiegelden en vergoedingen bepalen.<br>
+§ 5. De zorgvoorziening, de verstrekker van mobiliteitshulpmiddelen, de deelnemer aan het multidisciplinair overleg, de vervoerder, de gebruiker of de vertegenwoordiger van de gebruiker kan administratief beroep aantekenen tegen de beslissingen van de zorgkas over de terugvordering. De Vlaamse Regering regelt de administratieve beroepsprocedure. Ze kan een multidisciplinair samengestelde administratieve beroepscommissie oprichten of bepalen wie het administratief beroep behandelt. De Vlaamse Regering bepaalt de samenstelling van deze beroepscommissie en kan binnen die administratieve beroepscommissie verschillende kamers instellen. Ze kan presentiegelden en vergoedingen bepalen.<br>
 <br>
-Na uitputting van de administratieve beroepsprocedure, vermeld in het eerste lid, kan door de gebruiker of zijn vertegenwoordiger bij de arbeidsrechtbank beroep aangetekend worden. Die vordering wordt, op straffe van niet-ontvankelijkheid, ingediend binnen een termijn van drie maanden vanaf de datum van de ontvangst van de bestreden beslissing.
+Na uitputting van de administratieve beroepsprocedure, vermeld in het eerste lid, kan door de zorgvoorziening, de verstrekker van mobiliteitshulpmiddelen, de deelnemer aan het multidisciplinair overleg, de vervoerder, de gebruiker of de vertegenwoordiger van de gebruiker bij de arbeidsrechtbank beroep aangetekend worden. Die vordering wordt, op straffe van niet-ontvankelijkheid, ingediend binnen een termijn van drie maanden vanaf de datum van de ontvangst van de bestreden beslissing.
 
 ## [HOOFDSTUK 6. Sancties ten laste van de zorgvoorzieningen (ing. decr. 18 juni 2021, art. 40, I: 1 januari 2022)]
+
+### ART 76/1.
+
+§ 1. Het is de zorgvoorzieningen, de verstrekkers van mobiliteitshulpmiddelen en de deelnemers aan het multidisciplinair overleg verboden:<br>
+1° de documenten die de betaling van de tegemoetkomingen toestaan, op te stellen of te laten opstellen, af te leveren of te laten afleveren als de zorg niet werd verleend of als de zorg werd verleend tijdens een periode waarvoor de zorgvoorziening, de verstrekker van mobiliteitshulpmiddelen of de deelnemer aan het multidisciplinair overleg geen goedkeuring heeft ontvangen;<br>
+2° de documenten die de betaling van de tegemoetkomingen toestaan, op te stellen of te laten opstellen, af te leveren of te laten afleveren als die niet conform dit decreet en de uitvoeringsbesluiten ervan zijn;<br>
+3° de documenten die de betaling van de tegemoetkomingen toestaan, niet af te leveren als de aflevering ervan verplicht is;<br>
+4° de documenten die de betaling van de tegemoetkomingen toestaan, op te stellen of te laten opstellen als die onregelmatig zijn doordat ze de administratieve formaliteiten met betrekking tot de vergoedingsvoorwaarden van de zorg niet respecteren.<br>
+<br>
+De Vlaamse Regering bepaalt wat wordt verstaan onder documenten die de betaling van de tegemoetkomingen toestaan als vermeld in het eerste lid. Die documenten betreffen de papieren documenten en de documenten in elektronische versie conform artikel 48.<br>
+<br>
+§ 2. In de gevallen van paragraaf 1, eerste lid, 1° en 2°, is de zorgvoorziening, de verstrekker van mobiliteitshulpmiddelen of de deelnemer aan het multidisciplinair overleg ertoe gehouden de volledige waarde van de tegemoetkomingen die ten onrechte ten laste werden gelegd van de Vlaamse Gemeenschap terug te betalen.<br>
+<br>
+§ 3. Bij een inbreuk op paragraaf 1, eerste lid, 1°, slaat de terugbetaling op de volledige waarde van de zorg die ten onrechte ten laste van de Vlaamse Gemeenschap werd gelegd.<br>
+<br>
+Bij een inbreuk op paragraaf 1, eerste lid, 2°, komt de terugbetaling overeen met de door de Vlaamse Gemeenschap geleden financiële schade als de schade nog niet werd vergoed op basis van een andere bepaling van dit decreet.<br>
+<br>
+§ 4. De inbreuken op paragraaf 1, eerste lid, kunnen aanleiding geven tot een administratieve geldboete, opgelegd door het agentschap.<br>
+<br>
+De inbreuken op paragraaf 1, eerste lid, 1°, kunnen aanleiding geven tot een administratieve geldboete van 50% tot 200% van de waarde van de terugbetaling.<br>
+<br>
+De inbreuken op paragraaf 1, eerste lid, 2°, kunnen aanleiding geven tot een administratieve geldboete van 5% tot 150% van de waarde van de terugbetaling.<br>
+<br>
+De inbreuken op paragraaf 1, eerste lid, 3° en 4°, kunnen aanleiding geven tot een administratieve geldboete van 50 euro tot 500 euro.<br>
+<br>
+Het bedrag van de administratieve geldboete, vermeld in het tweede en derde lid, bedraagt maximaal 5000 euro.<br>
+<br>
+Artikel 68, § 2 tot en met § 5, is van overeenkomstige toepassing.<br>
+<br>
+De administratieve geldboete kan enkel worden opgelegd, voor zover het Openbaar Ministerie oordeelt dat er geen strafvervolging moet worden ingesteld of geen toepassing maakt van de artikelen 216bis en 216ter van het Wetboek van Strafvordering.<br>
+<br>
+Het openbaar ministerie bezorgt aan de bevoegde administratie een kennisgeving van zijn beslissing om al dan niet strafvervolging in te stellen, een minnelijke schikking bedoeld in artikel 216bis van het Wetboek van Strafvordering of een bemiddeling in strafzaken bedoeld in artikel 216ter van hetzelfde wetboek voor te stellen.<br>
+<br>
+§ 5. De zorg waarvan is vastgesteld dat ze in strijd is met de regels, vermeld in paragraaf 1, eerste lid, 1° en 2°, kan niet nogmaals ter uitbetaling worden ingediend bij de zorgkas.
+
+### ART 76/2.
+
+Als er bij de zorgvoorziening, de verstrekker van mobiliteitshulpmiddelen of de deelnemer aan het multidisciplinair overleg sprake is van ernstige, nauwkeurige en met elkaar overeenstemmende aanwijzingen van bedrog, kunnen de uitbetalingen door de zorgkassen volledig of gedeeltelijk worden geschorst voor een periode van maximaal twaalf maanden.<br>
+<br>
+Elke zorgkas of elke gebruiker kan de aanwijzingen, vermeld in het eerste lid, melden aan het agentschap, dat ook op eigen initiatief kan handelen. Als een zorgkas aanwijzingen meldt aan het agentschap, deelt ze die gelijktijdig mee aan de andere zorgkassen.<br>
+<br>
+De Vlaamse Regering bepaalt de procedure om de schorsing, vermeld in het eerste lid, op te leggen.<br>
+<br>
+De zorgvoorziening, de verstrekker van mobiliteitshulpmiddelen of de deelnemer aan het multidisciplinair overleg kan binnen drie maanden na de kennisgeving van de beslissing tot schorsing een niet-schorsend beroep instellen bij de arbeidsrechtbank.
 
 ## TITEL 2. Het zorgbudget
 
@@ -1194,13 +1304,11 @@ De verminderingen van de inkomstenbronnen van erkende zorgvoorzieningen door de 
 2° onder de door de Vlaamse Regering vastgestelde voorwaarden voor het ontvangen van zorg in een andere lidstaat van de Europese Unie, in een andere staat die partij is bij de Europese Economische Ruimte of in Zwitserland conform de Patiëntenrichtlijn of conform de overeenkomsten gesloten tussen de Vlaamse overheid en zorgvoorzieningen in andere lidstaten van de Europese Unie;<br>
 3° onder de voorwaarden, bepaald door de Vlaamse Regering, of op grond van afspraken gemaakt in het kader van samenwerkingsakkoorden met andere deelstaten, voor het ontvangen of het verlenen van zorg in andere deelstaten.<br>
 <br>
-De zorgkas neemt de beslissing tot toekenning van de tegemoetkomingen, vermeld in het eerste lid, na eensluidend advies van de Expertencommissie. De Vlaamse Regering bepaalt de voorwaarden en de procedure voor de toekenning van de tegemoetkomingen, vermeld in deze paragraaf.
+De Vlaamse Regering kan de voorwaarden en de procedure bepalen voor de toekenning van de tegemoetkomingen, vermeld in het eerste lid. De zorgkas neemt de beslissing tot toekenning van de tegemoetkomingen, in voorkomend geval na eensluidend advies van de Expertencommissie.
 
 ### ART 104.
 
-Tegen de beslissingen van de zorgkas, vermeld in artikel 103, kan door de gebruiker of zijn vertegenwoordiger beroep worden aangetekend bij de arbeidsrechtbank binnen een termijn van drie maanden na de ontvangst van de bestreden beslissing. Met het beroep tegen de beslissing van de zorgkas wordt tegelijkertijd beroep aangetekend tegen het eensluidend advies van de Expertencommissie.<br>
-<br>
-In de gevallen, vermeld in het eerste lid, wordt zowel de zorgkas als het agentschap opgeroepen om als verweerder te verschijnen in de procedure voor de arbeidsrechtbank. Als de gebruiker nalaat om beide partijen te laten oproepen conform het door hem neergelegde verzoekschrift, betrekt het Openbaar Ministerie bij de arbeidsgerechten de ontbrekende partij alsnog in de procedure conform artikel 138bis van het Gerechtelijk Wetboek.<br>
+Als de gebruiker of de vertegenwoordiger van de gebruiker beroep instelt tegen de beslissing van de zorgkas die na een eensluidend advies van de Expertencommissie is genomen, vermeld in artikel 103, § 2, tweede lid, brengt de zorgkas het agentschap daarvan op de hoogte. De zorgkas deelt het agentschap de beroepsakte mee. Het agentschap kan vrijwillig tussenkomen in de procedure voor de arbeidsrechtbank conform artikel 813 van het Gerechtelijk Wetboek.<br>
 <br>
 Het agentschap kan een beroep doen op de Expertencommissie in het kader van het verweer voor de arbeidsrechtbank.
 
@@ -1245,6 +1353,8 @@ De Vlaamse Regering bepaalt het bedrag van de tegemoetkomingen voor mobiliteitsh
 De Vlaamse Regering bepaalt de voorwaarden en de procedures voor de erkenning van indicatiestellers en legt de procedures vast voor de toepassing door indicatiestellers van indicatiestellingen en voor de evaluatie door de verstrekker van mobiliteitshulpmiddelen van het mobiliteitshulpmiddel waarvoor de gebruiker op basis van de indicatiestelling in aanmerking komt.<br>
 <br>
 De Vlaamse Regering bepaalt de voorwaarden waaronder de indicatiesteller wordt vergoed voor de toepassing van indicatiestellingen en legt het bedrag van de vergoedingen vast.<br>
+<br>
+§ 2/1. Verstrekkers van mobiliteitshulpmiddelen of andere personen die betrokken zijn bij de verstrekking van mobiliteitshulpmiddelen zijn niet aanwezig bij de toepassing van de indicatiestelling door de indicatiesteller.<br>
 <br>
 § 3. Conform de door de Vlaamse Regering bepaalde voorwaarden en procedures kan de gebruiker met een snel degeneratieve aandoening die al in het bezit is van een mobiliteitshulpmiddel ingevolge de toepassing van een indicatiestelling als vermeld in paragraaf 2, een gemotiveerde aanvraag indienen voor een tegemoetkoming voor een ander mobiliteitshulpmiddel zonder dat daarvoor een nieuwe indicatiestelling vereist is.<br>
 <br>
@@ -1304,7 +1414,7 @@ Ingeval van schrapping van een mobiliteitshulpmiddel van de lijst, bepaalt de Vl
 
 ### ART 114.
 
-§ 1. De Vlaamse Regering bepaalt de tarieven die de verstrekker van mobiliteitshulpmiddelen mag aanrekenen in het kader van de verkoop en de verhuur van mobiliteitshulpmiddelen. De Vlaamse Regering bepaalt de wijze waarop de tarieven worden geïndexeerd.<br>
+§ 1. De Vlaamse Regering bepaalt de wijze waarop de tarieven worden bepaald die de verstrekker van mobiliteitshulpmiddelen mag aanrekenen in het kader van de verkoop en de verhuur van mobiliteitshulpmiddelen.&nbsp;<br>
 <br>
 De tarieven, vermeld in het eerste lid, worden aangerekend aan de zorgkassen ten belope van het bedrag van de tegemoetkoming waarop de gebruiker recht heeft, conform artikel 105.<br>
 <br>
@@ -1388,6 +1498,11 @@ Die bijkomende voorwaarden kunnen onder meer betrekking hebben op:<br>
 3° bijkomende competenties of kwalificaties met het oog op de verkoop of de verhuur van mobiliteitshulpmiddelen aan gebruikers met snel degeneratieve aandoeningen;<br>
 4° administratieve verplichtingen.<br>
 <br>
+De verstrekkers van mobiliteitshulpmiddelen mogen hun praktijkvoering aan het publiek alleen bekendmaken onder de volgende voorwaarden:<br>
+1° de praktijkinformatie is waarheidsgetrouw, objectief, relevant en verifieerbaar en ze is wetenschappelijk onderbouwd;<br>
+2° de praktijkinformatie zet niet aan tot overconsumptie;<br>
+3° de praktijkinformatie vermeldt de bijzondere beroepstitels waarover de verstrekker van mobiliteitshulpmiddelen beschikt. De voormelde voorwaarde sluit niet uit dat de verstrekker van mobiliteitshulpmiddelen ook kan informeren over bepaalde opleidingen waarvoor geen bijzondere beroepstitel bestaat.<br>
+<br>
 De Vlaamse Regering bepaalt de procedure voor de toepassing van de bijkomende voorwaarden, vermeld in het eerste lid, en organiseert de controle op de toepassing hiervan.
 
 ### ART 123.
@@ -1405,7 +1520,7 @@ De Vlaamse Regering regelt het toezicht en de controle door de zorgkassen op de 
 
 ### ART 124.
 
-Als er tekortkomingen worden vastgesteld in het kader van de procedures en de voorwaarden, vermeld in artikel 123, of als wordt vastgesteld dat de verstrekker van mobiliteitshulpmiddelen systematisch een verkeerde evaluatie maakt van de mobilteitshulpmiddelen waarvoor gebruikers in aanmerking komen, kan de machtiging van de betreffende verstrekker van mobiliteitshulpmiddelen, vermeld in artikel 122, worden geschorst of ingetrokken.<br>
+Als er tekortkomingen worden vastgesteld in het kader van de naleving van de voorwaarde, vermeld in artikel 108, § 2/1, van de voorwaarden, vermeld in artikel 122, derde lid, of van de procedures en de voorwaarden, vermeld in artikel 123, of als wordt vastgesteld dat de verstrekker van mobiliteitshulpmiddelen systematisch een verkeerde evaluatie maakt van de mobiliteitshulpmiddelen waarvoor gebruikers in aanmerking komen, kan de machtiging van de betreffende verstrekker van mobiliteitshulpmiddelen, vermeld in artikel 122, worden geschorst of ingetrokken.<br>
 <br>
 De Vlaamse Regering bepaalt door wie de machtiging wordt geschorst of ingetrokken. De Vlaamse Regering bepaalt wat wordt verstaan onder een systematisch verkeerde evaluatie van de mobiliteitshulpmiddelen waarvoor gebruikers in aanmerking komen als vermeld in het eerste lid, en legt de periode van de schorsing van de machtiging vast.<br>
 <br>
@@ -1415,7 +1530,7 @@ Na uitputting van de bezwaarprocedure, vermeld in het derde lid, kan tegen de be
 
 ### ART 125.
 
-§ 1. Als er tekortkomingen worden vastgesteld in het kader van de procedures en de voorwaarden, vermeld in artikel 123, kan het agentschap een administratieve geldboete opleggen aan de betreffende verstrekker van mobiliteitshulpmiddelen of aan de onderneming in opdracht waarvan de betreffende verstrekker van mobiliteitshulpmiddelen werkt.<br>
+§ 1. Als er tekortkomingen worden vastgesteld in het kader van&nbsp;de naleving van de voorwaarde, vermeld in artikel 108, § 2/1, van de voorwaarden, vermeld in artikel 122, derde lid, of van de procedures en de voorwaarden, vermeld in artikel 123, kan het agentschap een administratieve geldboete opleggen aan de betreffende verstrekker van mobiliteitshulpmiddelen of aan de onderneming in opdracht waarvan de betreffende verstrekker van mobiliteitshulpmiddelen werkt.<br>
 <br>
 Het bedrag van de administratieve geldboete, vermeld in het eerste lid, bedraagt minstens 500 euro en maximaal 5000 euro.<br>
 <br>
@@ -1437,9 +1552,7 @@ De Vlaamse Regering kan modeldocumenten ter beschikking stellen die, in voorkome
 
 ### ART 127.
 
-Tegen de beslissingen van de zorgkas over de toekenning van de tegemoetkoming, vermeld in artikel 105, kan door de gebruiker of zijn vertegenwoordiger beroep worden aangetekend bij de arbeidsrechtbank binnen een termijn van drie maanden na ontvangst van de bestreden beslissing. Met het beroep tegen de beslissing van de zorgkas wordt tegelijkertijd beroep aangetekend tegen het eensluidend advies van de Zorgkassencommissie, verleend conform artikel 126, § 3.<br>
-<br>
-In de gevallen, vermeld in het eerste lid, worden zowel de zorgkas als het agentschap opgeroepen om als verweerder te verschijnen in de procedure voor de arbeidsrechtbank. Als de gebruiker nalaat om beide partijen te laten oproepen conform het door hem neergelegde verzoekschrift, betrekt het Openbaar Ministerie bij de arbeidsgerechten de ontbrekende partij alsnog in de procedure conform artikel 138bis van het Gerechtelijk Wetboek.<br>
+Als de gebruiker of de vertegenwoordiger van de gebruiker beroep instelt tegen de beslissing van de zorgkas die na een eensluidend advies van de Zorgkassencommissie als vermeld in artikel 126, § 3, is genomen, brengt de zorgkas het agentschap daarvan op de hoogte. De zorgkas deelt het agentschap de beroepsakte mee. Het agentschap kan vrijwillig tussenkomen in de procedure voor de arbeidsrechtbank conform artikel 813 van het Gerechtelijk Wetboek.<br>
 <br>
 Het agentschap kan een beroep doen op de Zorgkassencommissie in het kader van het verweer voor de arbeidsrechtbank.
 
@@ -1457,9 +1570,7 @@ De zorgkas behandelt de aanvragen, vermeld in het eerste lid, conform de voorwaa
 <br>
 De Vlaamse Regering legt de voorwaarden, procedures en termijnen vast voor de indiening, de ontvankelijkheidsverklaring en de beoordeling van de aanvragen, vermeld in het eerste lid. Ze kan, wat de ontvankelijkheidsverklaring betreft, een beroep doen op de Zorgkassencommissie.<br>
 <br>
-Tegen de beslissingen van de zorgkas, genomen conform het tweede en derde lid, kan de gebruiker of zijn vertegenwoordiger beroep aantekenen bij de arbeidsrechtbank binnen een termijn van drie maanden na de ontvangst van de bestreden beslissing. Met het beroep tegen de beslissing van de zorgkas wordt tegelijkertijd beroep aangetekend tegen het eensluidend advies van de Bijzondere Technische Commissie of de Zorgkassencommissie.<br>
-<br>
-In de gevallen, vermeld in het vierde lid, wordt zowel de zorgkas als het agentschap opgeroepen om als verweerder te verschijnen in de procedure voor de arbeidsrechtbank. Als de gebruiker nalaat om beide partijen te laten oproepen conform het door hem neergelegde verzoekschrift, betrekt het Openbaar Ministerie bij de arbeidsgerechten de ontbrekende partij alsnog in de procedure conform artikel 138bis van het Gerechtelijk Wetboek.<br>
+Als de gebruiker of de vertegenwoordiger van de gebruiker beroep instelt tegen de beslissing van de zorgkas die na een eensluidend advies van de Bijzondere Technische Commissie, vermeld in artikel 133, of de Zorgkassencommissie is genomen, brengt de zorgkas het agentschap daarvan op de hoogte. De zorgkas deelt het agentschap de beroepsakte mee. Het agentschap kan vrijwillig tussenkomen in de procedure voor de arbeidsrechtbank conform artikel 813 van het Gerechtelijk Wetboek.<br>
 <br>
 Het agentschap kan een beroep doen op de Bijzondere Technische Commissie of de Zorgkassencommissie in het kader van het verweer voor de arbeidsrechtbank.
 
@@ -1511,7 +1622,7 @@ De Bijzondere Technische Commissie kan over de toekenning van tegemoetkomingen v
 <br>
 § 4. De Vlaamse Regering kan bijkomende taken opleggen aan de Bijzondere Technische Commissie.<br>
 <br>
-§ 5. De Bijzondere Technische Commissie beschikt over de gegevens van de gebruikers die noodzakelijk zijn voor de uitoefening van haar taken.<br>
+§ 5. De Bijzondere Technische Commissie beschikt over de gegevens van de gebruikers, met inbegrip van de gegevens over de gezondheid, die noodzakelijk zijn voor de uitoefening van haar taken.<br>
 <br>
 § 6. De leden van de Bijzondere Technische Commissie zijn gebonden door de geheimhoudingsplicht met betrekking tot de gegevens waarvan ze bij de uitoefening van hun opdracht kennis krijgen en die daarmee verband houden.<br>
 <br>
@@ -1569,6 +1680,12 @@ Voor de pijlers, vermeld in artikel 4, eerste lid, 4° en 7°, zet de Vlaamse Re
 
 In het kader van de uitvoering van de sociale akkoorden die betrekking hebben op de gezondheidssector en als die sociale akkoorden betrekking hebben op de woonzorgcentra, de centra voor dagverzorging, de centra voor kortverblijf, de psychiatrische verzorgingstehuizen, de initiatieven van beschut wonen, de revalidatievoorzieningen, de revalidatieziekenhuizen en de multidisciplinaire begeleidingsequipes voor palliatieve verzorging, bepaalt de Vlaamse Regering de maatregelen waarvan de Vlaamse Gemeenschap de financiële weerslag ten laste neemt en legt de Vlaamse Regering de voorwaarden en de procedure vast met het oog op de vaststelling van de financiële weerslag, het bedrag en de betaling van de financiële tegemoetkoming.
 
+### ART 139/2.
+
+De Vlaamse Regering kan initiatieven nemen ter bevordering van de aantrekkelijkheid van de gezondheidszorgberoepen in zorgvoorzieningen waarvan de Vlaamse Gemeenschap de financiële weerslag ten laste neemt. Die initiatieven kunnen onder meer betrekking hebben op de werkomstandigheden, de vergoedingsvoorwaarden, arbeidsduurvermindering en vermindering van werklast, opleiding, kwalificatie en vorming en betrokkenheid in het besluitvormingsproces.<br>
+<br>
+De Vlaamse Regering bepaalt de voorwaarden en de procedure met het oog op de vaststelling van de financiële weerslag, het bedrag en de betaling van de financiële tegemoetkoming.
+
 ## [TITEL 1/1. (verv. decr. 18 juni 2021, art. 60)] Tijdelijke bepalingen voor de woonzorgcentra, de [centra voor dagverzorging en (verv. decr. 15 februari 2019, art. 86, I: 1 januari 2020)] de centra voor kortverblijf
 
 ## HOOFDSTUK 1. Algemene bepaling
@@ -1591,7 +1708,7 @@ De Vlaamse Regering bepaalt onder meer:<br>
 3° een eventuele voorschotregeling met betrekking tot de dagprijs;<br>
 4° het eventuele bedrag van de waarborgsom en de mogelijke aanwending ervan;<br>
 5° de regeling en de tarieven voor terugbetaling van de niet-gebruikte leveringen en diensten, in het bijzonder bij tijdelijke afwezigheid of bij overlijden;<br>
-6° de regeling voor de transparantie van de bewonersfactuur.<br>
+6° de regeling voor de transparantie van de gebruikersfactuur.<br>
 <br>
 In dit artikel wordt verstaan onder:<br>
 1° dagprijs: de prijs per dag die de bewoner of zijn vertegenwoordiger moet betalen en die minimaal de kostprijselementen voor huisvesting en verzorging van de bewoner omvat, die beschouwd worden als deel van de normale activiteiten van een woonzorgcentrum, centrum voor dagverzorging of centrum voor kortverblijf;<br>
@@ -1607,13 +1724,11 @@ De Vlaamse Regering kan regels en criteria bepalen voor de beheersing van de uit
 
 ### ART 143.
 
-In het kader van de uitvoering van de sociale akkoorden die betrekking hebben op de gezondheidssector en in de mate dat de sociale akkoorden betrekking hebben op de woonzorgcentra, centra voor dagverzorging en centra voor kortverblijf, bepaalt de Vlaamse Regering de maatregelen waarvan de Vlaamse Gemeenschap de financiële weerslag ten laste neemt en legt de Vlaamse Regering de voorwaarden en de procedure vast met het oog op de vaststelling van de financiële weerslag, het bedrag en de betaling van de financiële tegemoetkoming.
+...
 
 ### ART 144.
 
-De Vlaamse Regering kan initiatieven nemen ter bevordering van de aantrekkelijkheid van de gezondheidszorgberoepen in zorgvoorzieningen waarvan de Vlaamse Gemeenschap de financiële weerslag ten laste neemt. Die initiatieven kunnen onder meer betrekking hebben op de werkomstandigheden, de vergoedingsvoorwaarden, arbeidsduurvermindering en vermindering van werklast, opleiding, kwalificatie en vorming en betrokkenheid in het besluitvormingsproces.<br>
-<br>
-De Vlaamse Regering bepaalt de voorwaarden en de procedure met het oog op de vaststelling van de financiële weerslag, het bedrag en de betaling van de financiële tegemoetkoming.
+...
 
 ## HOOFDSTUK 3. Tijdelijke bepalingen alleen van toepassing op de woonzorgcentra
 
@@ -1752,7 +1867,7 @@ Artikel 146 is van overeenkomstige toepassing op de centra voor dagverzorging, v
 
 ### ART 150/1.
 
-Als een dagverzorgingscentrum het agentschap opzettelijk verkeerde gegevens verstrekt om een hogere tegemoetkoming te verkrijgen dan de tegemoetkoming waarop het op basis van de reële gegevens recht heeft, kan het agentschap, naast de terugvordering van de tegemoetkomingen die ten onrechte zijn uitbetaald, aan het dagverzorgingscentrum in kwestie een administratieve geldboete opleggen.<br>
+Als een centrum voor dagverzorging het agentschap opzettelijk verkeerde gegevens verstrekt om een hogere tegemoetkoming te verkrijgen dan de tegemoetkoming waarop het op basis van de reële gegevens recht heeft, kan het agentschap, naast de terugvordering van de tegemoetkomingen die ten onrechte zijn uitbetaald, aan het centrum voor dagverzorging in kwestie een administratieve geldboete opleggen.<br>
 <br>
 Het bedrag van de administratieve geldboete, vermeld in het eerste lid, bedraagt minstens 500 euro en maximaal 50.000 euro.<br>
 <br>
@@ -1867,6 +1982,22 @@ Als de gebruiker of de vertegenwoordiger van de gebruiker beroep instelt tegen d
 ## [TITEL 5. Tijdelijke bepalingen voor de multidisciplinaire begeleidingsequipes voor palliatieve verzorging (ing. decr. 18 juni 2021, art. 82, I: 1 januari 2024)]
 
 ## [TITEL 6. Tijdelijke bepalingen voor het multidisciplinair overleg (ing. decr. 18 juni 2021, art. 85, I: 1 januari 2022)]
+
+### ART 154/17.
+
+De organisatie van en de deelname aan een multidisciplinair overleg rond een gebruiker kan vergoed worden in de vorm van een tegemoetkoming. De Vlaamse Regering bepaalt de regels en de voorwaarden waaraan het multidisciplinair overleg rond een gebruiker moet voldoen om voor vergoeding in aanmerking te komen.<br>
+<br>
+De tegemoetkoming wordt rechtstreeks uitbetaald aan de deelnemers aan het multidisciplinair overleg. De Vlaamse Regering bepaalt welke deelnemers aan het multidisciplinair overleg een tegemoetkoming kunnen krijgen, welke taken die deelnemers moeten uitoefenen en aan welke voorwaarden die deelnemers moeten voldoen om voor een tegemoetkoming in aanmerking te komen.
+
+### ART 154/18.
+
+De Vlaamse Regering bepaalt de regels om de tegemoetkoming aan te vragen en om het bedrag van de tegemoetkoming te berekenen en ze bepaalt de wijze van uitbetaling van de tegemoetkoming voor de organisatie van en de deelname aan een multidisciplinair overleg.<br>
+<br>
+De Vlaamse Regering bepaalt de voorwaarden en de procedures voor de financiële en administratieve betrekkingen tussen de gebruikers, de deelnemers aan het multidisciplinaire overleg en de zorgkassen.
+
+### ART 154/19.
+
+Artikel 103 en 104 zijn van overeenkomstige toepassing op de toekenning van tegemoetkomingen voor de organisatie van en de deelname aan een multidisciplinair overleg.
 
 ## [TITEL 7. Tijdelijke bepalingen voor de toekenning van tegemoetkomingen voor reiskosten (ing. decr. 18 juni 2021, art. 89)]
 
@@ -2083,7 +2214,7 @@ De Vlaamse Regering bepaalt de overgangsmaatregelen voor de voorwaarden waaronde
 
 ### ART 181.
 
-Tot op een door de Vlaamse Regering te bepalen datum, moet `zorgticket' worden gelezen als `tegemoetkoming voor zorg in een woonzorgcentrum, een centrum voor dagverzorging of een centrum voor kortverblijf'.
+Tot op een door de Vlaamse Regering te bepalen datum, moet `zorgticket' worden gelezen als `tegemoetkoming voor zorg in een woonzorgcentrum, een centrum voor dagverzorging een centrum voor kortverblijf, een psychiatrisch verzorgingstehuis, een initiatief van beschut wonen, een revalidatievoorziening of een revalidatieziekenhuis of een tegemoetkoming voor begeleiding door een multidisciplinaire begeleidingsequipe voor palliatieve verzorging.
 
 ### ART 182.
 
@@ -2091,27 +2222,27 @@ De Vlaamse Regering kan, voor elke pijler van de Vlaamse sociale bescherming, ov
 
 ### ART 183.
 
-In het kader van de vergoeding van indicatiestellers conform artikel 108, § 2, vierde lid, kan de Vlaamse Regering overgangsmaatregelen bepalen voor de tijdelijke voortzetting van de toekenning van vergoedingen aan multidisciplinaire teams overeenkomstig revalidatieovereenkomsten voor het opstellen van multidisciplinaire functioneringsrapporten in het raam van de nomenclatuur van de mobiliteitshulpmiddelen.
+In het kader van de vergoeding van indicatiestellers conform artikel 108, § 2, vijfde lid, kan de Vlaamse Regering overgangsmaatregelen bepalen voor de tijdelijke voortzetting van de toekenning van vergoedingen aan multidisciplinaire teams overeenkomstig revalidatieovereenkomsten voor het opstellen van multidisciplinaire functioneringsrapporten.
 
 ### ART 184.
 
-De adviserend artsen voeren verder de controles uit conform artikel 153, § 1, eerste lid, 4), van de Ziekteverzekeringswet zolang geen beroep kan worden gedaan op de Zorgkassencommissie voor de uitvoering van de controles, vermeld in artikel 109, 145, § 2, 148, § 2, 150, § 2, en 152, § 2, van dit decreet.
+De adviserend artsen voeren verder de controles uit conform artikel 153, § 1, eerste lid, 4), van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994 zolang geen beroep kan worden gedaan op de Zorgkassencommissie voor de uitvoering van de controles, vermeld in artikel 109, 145, § 2, 148, § 2, 150, § 2, en 152, § 2, van dit decreet.
 
 ### ART 185.
 
 De Vlaamse Regering kan overgangsmaatregelen bepalen voor de behandeling van dossiers in verband met tegemoetkomingen voor zorg in woonzorgcentra, centra voor dagverzorging of centra voor kortverblijf, voor revalidatie, voor geestelijke gezondheidszorg, voor thuiszorg of voor mobiliteitshulpmiddelen, die betrekking hebben op de periode vóór de inwerkingtreding van de betreffende bepalingen van dit decreet.<br>
 <br>
-De Vlaamse Regering kan voorwaarden en procedures bepalen voor de behandeling van en de beslissing over de aanvragen, vermeld in het eerste lid en, in voorkomend geval, voor de uitbetaling van de tegemoetkomingen. Daarvoor kan een overeenkomst worden gesloten tussen de Vlaamse Gemeenschap en de verzekeringsinstellingen bedoeld in artikel 2, i), van de Ziekteverzekeringswet.
+De Vlaamse Regering kan voorwaarden en procedures bepalen voor de behandeling van en de beslissing over de aanvragen, vermeld in het eerste lid en, in voorkomend geval, voor de uitbetaling van de tegemoetkomingen. Daarvoor kan een overeenkomst worden gesloten tussen de Vlaamse Gemeenschap en de verzekeringsinstellingen bedoeld in artikel 2, i), van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994.
 
 ### ART 186.
 
-Voor de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, 4° en 9°, van dit decreet, kan de Vlaamse Regering in maatregelen voorzien voor de overgang van uitgaven in dat kader door het Rijksinstituut voor Ziekte- en Invaliditeitsverzekering aan de verzekeringsinstellingen, vermeld in artikel 2, i), van de Ziekteverzekeringswet naar uitgaven in dat kader door het agentschap aan de zorgkassen.
+Voor de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, 4° en 9°, van dit decreet, kan de Vlaamse Regering in maatregelen voorzien voor de overgang van uitgaven in dat kader door het Rijksinstituut voor Ziekte- en Invaliditeitsverzekering aan de verzekeringsinstellingen, vermeld in artikel 2, i), van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994 naar uitgaven in dat kader door het agentschap aan de zorgkassen.
 
 ## TITEL 3. Coördinatie
 
 ### ART 187.
 
-De Vlaamse Regering kan de bepalingen van dit decreet en de bepalingen van het Woonzorgdecreet van 13 maart 2009, het decreet van 25 april 2014 betreffende de organisatie van het netwerk voor de gegevensdeling tussen de actoren in de zorg, het decreet van 19 januari 2018 houdende het overheidstoezicht in het kader van het welzijns- en gezondheidsbeleid en, wat het basisondersteuningsbudget betreft, het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap en het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap coördineren, met inachtneming van de wijzigingen die daarin uitdrukkelijk of stilzwijgend zijn aangebracht tot aan het tijdstip van de coördinatie.<br>
+De Vlaamse Regering kan de bepalingen van dit decreet en de bepalingen van het Woonzorgdecreet van 15 februari 2019, het decreet van 25 april 2014 betreffende de organisatie van het netwerk voor de gegevensdeling tussen de actoren in de zorg, het decreet van 19 januari 2018 houdende het overheidstoezicht in het kader van het welzijns- en gezondheidsbeleid, het decreet van 6 juli 2018, het decreet van 5 april 2019 betreffende de organisatie en ondersteuning van het geestelijke gezondheidsaanbod, het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders" en, wat het basisondersteuningsbudget betreft, het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap en het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap coördineren, met inachtneming van de wijzigingen die daarin uitdrukkelijk of stilzwijgend zijn aangebracht tot aan het tijdstip van de coördinatie.<br>
 <br>
 Daartoe kan de Vlaamse Regering:<br>
 1° de volgorde en de nummering van de te coördineren bepalingen veranderen en in het algemeen de teksten naar de vorm wijzigen;<br>
@@ -2126,4 +2257,4 @@ Daartoe kan de Vlaamse Regering:<br>
 
 De bepalingen van dit decreet treden in werking op 1 januari 2019, met uitzondering van artikel 4, 5°, 6°, 7° en 8°, artikel 7, artikel 34, eerste lid, 3°, artikel 38, tweede lid, wat de pijler vermeld in artikel 4, 7° betreft, de artikelen 55 en 56, artikel 58, derde lid, 2°, 3°, 4° en 5°, de artikelen 63 tot en met 72, artikel 95, artikel 96, de artikelen 97 tot en met 101 en artikel 136, waarvoor de Vlaamse Regering per bepaling de datum van inwerkingtreding bepaalt, en met uitzondering van artikel 139 dat in werking treedt de tiende dag na de bekendmaking van dit decreet in het Belgisch Staatsblad.<br>
 <br>
-Artikel 140 tot en met 154 treden buiten werking op een door de Vlaamse Regering per bepaling vast te stellen datum.
+Artikel 139/1 tot en met 154/21 treden buiten werking op een door de Vlaamse Regering per bepaling vast te stellen datum.
