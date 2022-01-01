@@ -8,7 +8,15 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° beleidsteam : een team als   vermeld in artikel 10, eerste lid, van het decreet van 8 maart 2013;<BR>2°   coördinatieteam : een team als vermeld in artikel 11 van het decreet van 8 maart   2013;<BR>3° decreet van 8 maart 2013 : het decreet van 8 maart 2013 betreffende   de organisatie van hulp- en dienstverlening aan gedetineerden;<BR>4° gemengde   commissie : de gemengde commissie, vermeld in artikel 9 van het decreet van 8   maart 2013;<BR>5° lokaal actieplan : het plan, vermeld in artikel 10, eerste   lid, van het decreet van 8 maart 2013;<BR>6° strategisch plan : het plan,   vermeld in artikel 8 van het decreet van 8 maart 2013;<BR>7° Zorginspectie:   Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in   artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart   2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende   de inwerkingtreding van regelgeving tot oprichting van agentschappen in het   beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van   regelgeving met betrekking tot dat beleidsdomein.<BR>
+In dit besluit wordt verstaan onder :<br>
+1° Agentschap Justitie en Handhaving: het Agentschap Justitie en Handhaving, opgericht bij het besluit van de Vlaamse Regering van 3 september 2021 tot oprichting van het intern verzelfstandigd agentschap "Agentschap Justitie en Handhaving"<br>
+1°/1 beleidsteam : een team als vermeld in artikel 10, eerste lid, van het decreet van 8 maart 2013;<br>
+2° coördinatieteam : een team als vermeld in artikel 11 van het decreet van 8 maart 2013;<br>
+3° decreet van 8 maart 2013 : het decreet van 8 maart 2013 betreffende de organisatie van hulp- en dienstverlening aan gedetineerden;<br>
+4° gemengde commissie : de gemengde commissie, vermeld in artikel 9 van het decreet van 8 maart 2013;<br>
+5° lokaal actieplan : het plan, vermeld in artikel 10, eerste lid, van het decreet van 8 maart 2013;<br>
+6° strategisch plan : het plan, vermeld in artikel 8 van het decreet van 8 maart 2013;<br>
+7° Zorginspectie: Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.
 
 ## HOOFDSTUK 2 Organisatie van de Vlaamse hulp- en dienstverlening aan gedetineerden
 
@@ -29,9 +37,10 @@ In dit besluit wordt verstaan onder :<BR>1° beleidsteam : een team als   vermel
 10° de centra voor algemeen welzijnswerk;<br>
 11° de stuurgroep, vermeld in artikel 2, 42°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
 12° de vereniging die met toepassing van artikel 15 van het Participatiedecreet van 18 januari 2008 gesubsidieerd wordt voor de bevordering van de culturele en sportieve participatie van gedetineerden;<br>
-13° de centra voor geestelijke gezondheidszorg.</p>
+13° de centra voor geestelijke gezondheidszorg;<br>
+14° het Agentschap Justitie en Handhaving.</p>
 
-<p>Het voorzitterschap en het secretariaat van de gemengde commissie worden opgenomen door het Departement Welzijn, Volksgezondheid en Gezin.</p>
+<p>Het voorzitterschap en het secretariaat van de gemengde commissie worden opgenomen door het Agentschap Justitie en Handhaving.</p>
 
 ### ART. 3.
 
@@ -71,9 +80,9 @@ Het coördinatieteam zorgt voor de organisatie van het hulp- en   dienstverlenin
 
 ### ART. 10.
 
-De Vlaamse minister, bevoegd voor de bijstand aan personen, is coördinerend minister voor de hulp- en dienstverlening aan gedetineerden.<br>
+De Vlaamse minister, bevoegd voor de coördinatie van hulp- en dienstverlening aan gedetineerden en geïnterneerden, is coördinerend minister voor de hulp- en dienstverlening aan gedetineerden.<br>
 <br>
-Het departement Welzijn, Volksgezondheid en Gezin is verantwoordelijk voor de coördinatie van de organisatie van de hulp- en dienstverlening aan gedetineerden.
+Het Agentschap Justitie en Handhaving is verantwoordelijk voor de coördinatie van de organisatie van de hulp- en dienstverlening aan gedetineerden.
 
 ## HOOFDSTUK 3 [... (opgeh. BVR 8 september 2023, art. 3, I: 1 juli 2024)]
 
