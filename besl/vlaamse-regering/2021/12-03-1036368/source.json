@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036368,
+  "title": "Besluit van de Vlaamse Regering van 2021-12-03 tot wijziging van het Energiebesluit van 19 november 2010, wat betreft energiegemeenschappen, inwerkingtreding van energiedelen en peer-to-peerhandel van groene stroom door één actieve afnemer aan één andere actieve afnemer en informatieverstrekking door de leverancier aan de netgebruiker",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036368/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "bf1595a414b43a4d6bdec5bbf8e2a074236632a57ab35907d55f73c16801a57d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036368&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2021-12-03",
+  "gazette": "2021-12-28",
+  "numac": 2021022749,
+  "document_start": "2022-01-01",
+  "document_end": null,
+  "in_force": "2022-01-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
