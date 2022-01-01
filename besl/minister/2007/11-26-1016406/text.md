@@ -14,7 +14,7 @@ De personen, vermeld in artikel 2, § 1, 1°, 2° en 3°, van het besluit, bewij
 <br>
 Voor de personen, vermeld in artikel 2, § 1, 4°, van het besluit, volstaat een verklaring van de werkgever.<br>
 <br>
-De personen, vermeld in artikel 2, § 1, 5°, van het besluit, vermelden het nummer van hun fytolicentie.<br>
+De personen, vermeld in artikel 2, § 1, 5°, van het besluit, vermelden het nummer van hun fytolicentie.&nbsp;Alleen de fytolicenties "Assistent professioneel gebruik", "Professioneel gebruik" of "Distributie/Voorlichting" als vermeld in artikel 20, § 3, van het koninklijk besluit van 19 maart 2013 ter verwezenlijking van een duurzaam gebruik van gewasbeschermingsmiddelen en toevoegingsstoffen, komen in aanmerking voor de toekenning van een subsidie voor naschoolse opleidingsinitiatieven in de landbouwsector.<br>
 <br>
 De personen, vermeld in artikel 2, § 1, 6°, van het besluit, verklaren dat ze geregistreerd zijn bij het Federaal Agentschap voor de Veiligheid van de Voedselketen.<br>
 &nbsp;
@@ -31,7 +31,42 @@ Starterscursussen type B als vermeld in artikel 4, 1°, b), van het besluit moet
 
 ### ART. 4/1.
 
-Starterscursussen type C als vermeld in artikel 4, 1°, c), van het   besluit, als het gaat om de basisopleidingen betreffende de fytolicentie, moeten   voldoen aan de voorwaarden, vermeld in artikel 33 van het koninklijk besluit van   19 maart 2013 ter verwezenlijking van een duurzaam gebruik van   gewasbeschermingsmiddelen en toevoegingsstoffen, en moeten minstens de volgende   inhoud omvatten:<BR>1° fytolicentie 1: assistent professioneel gebruik:<BR>a)   alle relevante wetgeving: 1 lesuur;<BR>b) gewasbeschermingsmiddelen: 1   lesuur;<BR>c) correct gebruik van gewasbeschermingsmiddelen: 5 lesuren;<BR>d)   risico's van gewasbeschermingsmiddelen: 5 lesuren;<BR>e) toegepaste   gewasbescherming met voornaamste ziekten en plagen: 4 lesuren;<BR>2°   fytolicentie 2: professioneel gebruik:<BR>a) alle relevante wetgeving: 10   lesuren;<BR>b) gewasbescherming: 10 lesuren;<BR>c) gewasbeschermingsmiddelen: 10   lesuren;<BR>d) correct gebruik van gewasbeschermingsmiddelen: 10 lesuren;<BR>e)   risico's van gewasbeschermingsmiddelen: 10 lesuren;<BR>f) toegepaste   gewasbescherming: 10 lesuren;<BR>3° fytolicentie 3: distributeur:<BR>a) alle   relevante wetgeving: 10 lesuren;<BR>b) gewasbescherming: 20 lesuren;<BR>c)   gewasbeschermingsmiddelen: 20 lesuren;<BR>d) correct gebruik van   gewasbeschermingsmiddelen: 15 lesuren;<BR>e) risico's van   gewasbeschermingsmiddelen: 15 lesuren;<BR>f) toegepaste gewasbescherming: 40   lesuren.<BR><BR>De opleidingen, vermeld in het eerste lid, moeten gegeven worden   door lesgevers die zelf in het bezit zijn van een fytolicentie 3, of lesgever   zijn in door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde   instellingen voor basisonderwijs, secundair onderwijs, hoger onderwijs,   volwassenenonderwijs of deeltijds kunstonderwijs, of in centra voor vorming van   zelfstandigen en kleine en middelgrote ondernemingen, wat de leertijd betreft.   De verplichte thema's waarvoor geen fytolicentie nodig is, mogen gegeven worden   door experten in het thema in kwestie.<BR><BR>De opleidingen, vermeld in het   eerste lid, moeten afgesloten worden met een schriftelijke cursustest, waarvan   de vragen opgesteld worden door de bevoegde entiteit. Een personeelslid van de   bevoegde entiteit moet uitgenodigd worden op de cursustest.<BR><BR>De   opleidingen fytolicentie 2 en 3 moeten bijkomend worden afgesloten door een   mondelinge test voor een jury die bestaat uit minstens één vertegenwoordiger van   de bevoegde entiteit en een expert gewasbescherming. Een vertegenwoordiger van   het organiserend centrum mag bij de test aanwezig zijn als   waarnemer.
+Starterscursussen type C als vermeld in artikel 4, eerste lid, 1°, c), van het besluit, als het gaat om de basisopleidingen over de fytolicentie, moeten voldoen aan de voorwaarden, vermeld in artikel 33 van het koninklijk besluit van 19 maart 2013 ter verwezenlijking van een duurzaam gebruik van gewasbeschermingsmiddelen en toevoegingsstoffen.<br>
+<br>
+De basisopleidingen, vermeld in het eerste lid, omvatten de volgende inhoud:<br>
+1° fytolicentie 1: assistent professioneel gebruik:<br>
+a) alle relevante wetgeving: één lesuur;<br>
+b) gewasbeschermingsmiddelen: één lesuur;<br>
+c) correct gebruik van gewasbeschermingsmiddelen: vijf lesuren;<br>
+d) risico's van gewasbeschermingsmiddelen: vijf lesuren;<br>
+e) toegepaste gewasbescherming met voornaamste ziekten en plagen: vier lesuren;<br>
+2° fytolicentie 2: professioneel gebruik:<br>
+a) alle relevante wetgeving: tien lesuren;<br>
+b) gewasbescherming: tien lesuren;<br>
+c) gewasbeschermingsmiddelen: tien lesuren;<br>
+d) correct gebruik van gewasbeschermingsmiddelen: tien lesuren;<br>
+e) risico's van gewasbeschermingsmiddelen: tien lesuren;<br>
+f) toegepaste gewasbescherming: tien lesuren;<br>
+3° fytolicentie 3: distributie/voorlichting:<br>
+a) alle relevante wetgeving: tien lesuren;<br>
+b) gewasbescherming: twintig lesuren;<br>
+c) gewasbeschermingsmiddelen: twintig lesuren;<br>
+d) correct gebruik van gewasbeschermingsmiddelen: vijftien lesuren;<br>
+e) risico's van gewasbeschermingsmiddelen: vijftien lesuren;<br>
+f) toegepaste gewasbescherming: veertig lesuren.<br>
+<br>
+Alleen de opleidingen om de fytolicentie 1, 2 en 3 te behalen, kunnen worden georganiseerd. De opleiding om de fytolicentie 2 te behalen, wordt georganiseerd voor een van de volgende doelgroepen:<br>
+1° de eetbare plantaardige productie;<br>
+2° de niet-eetbare plantaardige productie;<br>
+3° de biologische productie.<br>
+<br>
+Een opleiding met combinatie van de verschillende doelgroepen, vermeld in het derde lid, is niet toegestaan.<br>
+<br>
+De opleidingen, vermeld in het eerste lid, moeten gegeven worden door lesgevers die zelf in het bezit zijn van een fytolicentie 3, of lesgever zijn in door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde instellingen voor basisonderwijs, secundair onderwijs, hoger onderwijs, volwassenenonderwijs of deeltijds kunstonderwijs, of in centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, wat de leertijd betreft. De verplichte thema's waarvoor geen fytolicentie nodig is, mogen gegeven worden door experten in het thema in kwestie.<br>
+<br>
+De opleidingen, vermeld in het eerste lid, moeten afgesloten worden met een schriftelijke cursustest, waarvan de vragen opgesteld worden door de bevoegde entiteit. Een personeelslid van de bevoegde entiteit moet uitgenodigd worden op de cursustest.&nbsp;De bevoegde entiteit stelt een huishoudelijk reglement op met de praktische organisatie van de examens.<br>
+<br>
+De opleidingen fytolicentie 2 en 3 moeten bijkomend worden afgesloten door een mondelinge test voor een jury die bestaat uit minstens één vertegenwoordiger van de bevoegde entiteit en een expert gewasbescherming. Een vertegenwoordiger van het organiserend centrum mag bij de test aanwezig zijn als waarnemer.
 
 ### ART. 4/2.
 
