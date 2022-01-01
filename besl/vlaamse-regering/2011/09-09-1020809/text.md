@@ -8,7 +8,20 @@ De Vlaamse Regering,<br /><br />Gelet op Verordening (EG) nr. 1698/2005 van de R
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <BR>1° besluit van de Vlaamse   Regering van 12 december 2008 : het besluit van de Vlaamse Regering van 12   december 2008 betreffende de biologische productie en de etikettering van   biologische producten;<BR>2° minister : de Vlaamse minister, bevoegd voor de   landbouw;<BR>3° bevoegde entiteit: het Departement Landbouw en Visserij van het   Vlaams Ministerie van Landbouw en Visserij;<BR>4° ...<BR>5°   <STRONG><EM>...</EM></STRONG><BR>6° ... <BR>7° ...<BR>8° ...<BR>9° ...<BR>10°   verordening 834/2007 : Verordening (EG) nr. 834/2007 van de Raad van 28 juni   2007 inzake de biologische productie en de etikettering van biologische   producten en tot intrekking van Verordening (EEG) nr. 2092/91;<BR>11°   verzamelaanvraag : de verzamelaanvraag, vermeld in artikel 1, 4°, van het   besluit van de Vlaamse Regering van 9 februari 2007 houdende bepalingen tot   inrichting van een gemeenschappelijke identificatie van landbouwers,   exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het   landbouwbeleid.<BR>12° overeenkomst: de verbintenis,vermeld in artikel 63, lid   2, van Verordening (EG) nr. 889/2008 van de Commissie van 5 september 2008 tot   vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 834/2007 van   de Raad inzake de biologische productie en de etikettering van biologische   producten, wat de biologische productie, de etikettering en de controle   betreft;<BR>13° landbouwer : de landbouwer vermeld in artikel 2, 7°, van het   decreet van 22 december 2006 houdende inrichting van een gemeenschappelijke   identificatie van landbouwers, exploitaties en landbouwgrond in het kader van   het meststoffenbeleid en van het landbouwbeleid.
+In dit besluit wordt verstaan onder :<br>
+1° besluit van 29 oktober 2021: het besluit van de Vlaamse Regering van 29 oktober 2021 over de biologische productie en de etikettering van biologische producten;<br>
+2° minister : de Vlaamse minister, bevoegd voor de landbouw en de zeevisserij;<br>
+3° bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+4° controleorgaan: het controleorgaan dat erkend is conform artikel 24 en 25 van het besluit van 29 oktober 2021;<br>
+5° <strong><em>...</em></strong><br>
+6° ...<br>
+7° ...<br>
+8° ...<br>
+9° ...<br>
+10° verordening (EU) 2018/848: verordening (EU) 2018/848 van het Europees Parlement en de Raad van 30 mei 2018 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EG) nr. 834/2007 van de Raad;<br>
+11° verzamelaanvraag : de verzamelaanvraag, vermeld in artikel 1, 4°, van het besluit van de Vlaamse Regering van 9 februari 2007 houdende bepalingen tot inrichting van een gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid.<br>
+12° ...;<br>
+13° landbouwer : de landbouwer vermeld in artikel 2, 7°, van het decreet van 22 december 2006 houdende inrichting van een gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid.
 
 ### ART. 1/1.
 
@@ -24,15 +37,28 @@ Afhankelijk van de kredieten op de begroting van het Vlaamse Gewest die   daarto
 
 ### ART. 3.
 
-Afhankelijk van de kredieten op de begroting van het Vlaamse Gewest die   daartoe goedgekeurd zijn, kan de minister per kalenderjaar steun verlenen aan   landbouwers die in het kalenderjaar in kwestie voldoen aan de volgende   voorwaarden : <BR>1° als producent als vermeld in artikel 1, 8°, van het besluit   van de Vlaamse Regering van 12 december 2008, deelnemen aan de   voedselkwaliteitsregeling die is ingesteld bij verordening 834/2007;<BR>2°   uiterlijk op de uiterste indieningsdatum van de verzamelaanvraag een   overeenkomst hebben afgesloten met een controleorgaan dat erkend is met   toepassing van artikel 5 van het besluit van de Vlaamse Regering van 12 december   2008, waarin de producent verklaart dat hij zijn onderneming onder controle   stelt van het controleorgaan;<BR>3° in het Vlaamse Gewest beschikken over   minstens één actieve exploitatie als vermeld in artikel 2, 9°, van het decreet   van 22 december 2006 houdende inrichting van een gemeenschappelijke   identificatie van landbouwers, exploitaties en landbouwgrond in het kader van   het meststoffenbeleid en van het landbouwbeleid.
+Afhankelijk van de kredieten op de begroting van het Vlaamse Gewest die daartoe goedgekeurd zijn, kan de minister per kalenderjaar steun verlenen aan landbouwers die in het kalenderjaar in kwestie voldoen aan de volgende voorwaarden :<br>
+1° als landbouwer deelnemen aan de voedselkwaliteitsregeling die is ingesteld bij verordening (EU) 2018/848;<br>
+2° onder het toepassingsgebied van het besluit van 29 oktober 2021 vallen;<br>
+3° uiterlijk op de uiterste indieningsdatum van de verzamelaanvraag:<br>
+a) de verplichtingen, vermeld in artikel 12 van het besluit van 29 oktober 2021, vervuld hebben;<br>
+b) bij de bevoegde entiteit een melding ingediend hebben voor de activiteit landbouwer conform artikel 13 van het besluit van 29 oktober 2021&nbsp;
 
 ### ART. 4.
 
-<P>De steun, vermeld in artikel 3, is beperkt tot het vaste gedeelte van de   jaarlijkse controlekosten voor primaire productie, exclusief btw, vermeld in   artikel 9 van het besluit van de Vlaamse Regering van 12 december 2008. De   kosten voor een verscherpte controle en de extra controlekosten voor gemengde   activiteit als vermeld in het besluit van de Vlaamse Regering van 12 december   2008, komen niet in aanmerking voor subsidiëring.<BR><BR>De steun bedraagt   maximaal 1000 euro per begunstigde per jaar. Als het beschikbare budget   ontoereikend is, wordt de steun pro rata verminderd. Het ministerieel besluit   waarin de steun wordt toegekend aan de begunstigden, vermeldt in voorkomend   geval het steunpercentage.<BR><BR>De controlekosten waarvoor de landbouwer   rechtstreeks of onrechtstreeks steun verkrijgt via verordening (EU) nr.   1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot   vaststelling van een gemeenschappelijke ordening van de markten voor   landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG)   nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad, komen niet in   aanmerking voor de steun, vermeld in artikel 3.</P>
+<p>De steun, vermeld in artikel 3, is beperkt tot het bedrag dat gelijk is aan het vaste gedeelte van de jaarlijkse controlekosten voor landbouwproductie, exclusief btw, vermeld in artikel 69 van het besluit van 29 oktober 2021.<br>
+<br>
+De steun bedraagt maximaal 1000 euro per begunstigde per jaar. Als het beschikbare budget ontoereikend is, wordt de steun pro rata verminderd. Het ministerieel besluit waarin de steun wordt toegekend aan de begunstigden, vermeldt in voorkomend geval het steunpercentage.<br>
+<br>
+De controlekosten waarvoor de landbouwer rechtstreeks of onrechtstreeks steun verkrijgt via verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad, komen niet in aanmerking voor de steun, vermeld in artikel 3.</p>
 
 ### ART. 5.
 
-Om in aanmerking te komen voor de steun, vermeld in artikel 3, moet de   landbouwer een steunaanvraag en betalingsaanvraag via de jaarlijkse   verzamelaanvraag indienen.<BR><BR>In het kader van de steunaanvraag en   betalingsaanvraag dient de landbouwer een verklaring op eer in door middel van   het formulier ter beschikking gesteld door de bevoegde entiteit.<BR><BR>De steun   voor een bepaald kalenderjaar wordt berekend op het bedrag van de controlekosten   voor primaire productie voor het kalenderjaar in kwestie,verminderd met het   bedrag van de kosten voor verscherpte controle, zoals het zal worden   gefactureerd door het controleorgaan,tenzij de landbouwer voor 31 oktober van   het kalenderjaar in kwestie een ander bedrag meldt aan de bevoegde entiteit. Die   factuur moet de kosten voor verscherpte controle apart vermelden.
+Om in aanmerking te komen voor de steun, vermeld in artikel 3, moet de landbouwer een aanvraag via de jaarlijkse verzamelaanvraag indienen.<br>
+<br>
+Bij de aanvraag neemt de landbouwer een verklaring op erewoord op in verband met alle ontvangen de-minimissteun over een periode van drie belastingjaren en het al dan niet bereiken van het drempelbedrag, vermeld in artikel 3, lid 2, van verordening (EU) nr. 1408/2013 van de Commissie van 18 december 2013 inzake de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun in de landbouwsector.<br>
+<br>
+De steun voor een bepaald kalenderjaar wordt berekend op basis van de door het controleorgaan aan de landbouwer gefactureerde vergoeding, vermeld in artikel 69 van het besluit van 29 oktober 2021, voor het kalenderjaar in kwestie, uitgezonderd het bedrag van de kosten voor verscherpte controle en de kosten voor gemengde activiteit, tenzij de landbouwer voor 31 oktober van het kalenderjaar in kwestie een ander bedrag meldt aan de bevoegde entiteit. Die factuur vermeldt de kosten voor verscherpte controle en gemengde activiteit apart. Als dat bedrag lager is dan het bedrag van het vaste gedeelte van de jaarlijkse controlekosten voor landbouwproductie, wordt de steun verminderd tot dat bedrag..
 
 ### ART. 6.
 
@@ -40,7 +66,7 @@ Om in aanmerking te komen voor de steun, vermeld in artikel 3, moet de   landbou
 
 ### ART. 7.
 
-Een landbouwer die gesanctioneerd is met een schorsing van zijn bedrijf als vermeld in artikel 34 van het besluit van de Vlaamse Regering van 12 december 2008, wordt van de steun, vermeld in artikel 3 van dit besluit, uitgesloten voor het hele kalenderjaar waarin de schorsing is opgelegd.
+Een landbouwer die gesanctioneerd is met een schorsing van zijn bedrijf als vermeld in artikel 56, tweede lid, 9°, van het besluit van 29 oktober 2021, wordt van de steun, vermeld in artikel 3 van dit besluit, uitgesloten voor het hele kalenderjaar waarin de schorsing is opgelegd.
 
 ## Afdeling 2. Steunverlening voor deelname aan de voedselkwaliteitsregelingen die zijn ingesteld bij verordening 509/2006 en 510/2006
 
@@ -106,9 +132,26 @@ Een landbouwer die gesanctioneerd is met een schorsing van zijn bedrijf als verm
 
 ### ART. 22.
 
-De controle op de aanwending van de steun, vermeld in artikel 3, wordt   uitgeoefend door personeelsleden van de bevoegde entiteit.<BR><BR>De landbouwers   moeten alle documenten en inlichtingen verstrekken die noodzakelijk zijn voor de   controle.<BR><BR>De bevoegde entiteit kan de vereiste controlegegevens opvragen   bij de controleorganen die erkend zijn overeenkomstig artikel 5 van het besluit   van de Vlaamse Regering van 12 december 2008. De controleorganen moeten alle   inlichtingen verstrekken die noodzakelijk zijn voor de controle.<BR><BR>Binnen   de bevoegde entiteit kunnen&nbsp;alle gegevens uitgewisseld worden&nbsp; die   nodig zijn voor de uitvoering van dit besluit en haar   uitvoeringsbepalingen.<BR><BR>Wanneer blijkt dat de landbouwers niet voldoen aan   de voorwaarden, vermeld in dit besluit of haar uitvoeringsbepalingen, wordt de   verleende steun door&nbsp;de bevoegde entiteit teruggevorderd.
+De controle op de aanwending van de steun, vermeld in artikel 3, wordt uitgeoefend door personeelsleden van de bevoegde entiteit.<br>
+<br>
+De landbouwers moeten alle documenten en inlichtingen verstrekken die noodzakelijk zijn voor de controle.<br>
+<br>
+De bevoegde entiteit kan de vereiste controlegegevens opvragen bij de controleorganen. De controleorganen moeten alle inlichtingen verstrekken die noodzakelijk zijn voor de controle.<br>
+<br>
+Binnen de bevoegde entiteit kunnen&nbsp;alle gegevens uitgewisseld worden&nbsp; die nodig zijn voor de uitvoering van dit besluit en haar uitvoeringsbepalingen.<br>
+<br>
+Wanneer blijkt dat de landbouwers niet voldoen aan de voorwaarden, vermeld in dit besluit of haar uitvoeringsbepalingen, wordt de verleende steun door&nbsp;de bevoegde entiteit teruggevorderd.
 
 ## [HOOFDSTUK 4/1. Gegevensverwerking (ing. BVR 28 januari 2022, art. 8, I: 1 januari 2022)]
+
+### ART 22/1.
+
+De bevoegde entiteit is verwerkingsverantwoordelijke als vermeld in artikel 4, punt 7, van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
+<br>
+Voor de uitvoering van dit besluit kunnen de volgende categorieën van gegevens van landbouwers verwerkt worden:<br>
+1° identificatiegegevens;<br>
+2° gegevens inzake de controle van de landbouwer door een controleorgaan;<br>
+3° financiële gegevens.
 
 ## HOOFDSTUK 5. Wijzigingsbepaling
 
