@@ -2,16 +2,16 @@
   "codex_id": 1035729,
   "title": "Besluit van de Vlaamse Regering van 2021-05-21 tot vergoeding van sociale verhuurders voor het uitvoeren van onderzoek naar buitenlands onroerend bezit van sociale huurders",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035729/VolledigDocument?datum=2021-06-24",
-  "source_sha256": "4cd14b869db326d49c34eae875a4d885a0992f8911210b27f2303a4dc5396c22",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035729/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "5074309594cf6146e0fa44940b8771be2463fe06074a9a7a04e60584d303b86a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035729&param=informatie",
-  "as_of": "2021-06-24",
+  "as_of": "2022-01-01",
   "made": "2021-05-21",
   "gazette": "2021-06-23",
   "numac": 2021031594,
   "document_start": "2021-06-24",
   "document_end": "2021-12-31",
-  "in_force": "2021-06-24",
+  "in_force": "2022-01-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2021-06-24; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
 }
