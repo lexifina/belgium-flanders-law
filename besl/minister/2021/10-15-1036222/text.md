@@ -24,6 +24,50 @@ Dit besluit is gebaseerd op de volgende motieven:<br>
 <br>
 DE VLAAMSE MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALEECONOMIE EN LANDBOUW BESLUIT:
 
+### ART 1.
+
+Aan artikel 2, derde lid, van het ministerieel besluit van 26 november 2007 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector, vervangen bij het ministerieel besluit van 7 november 2014, wordt de volgende zin toegevoegd:<br>
+"Alleen de fytolicenties "Assistent professioneel gebruik", "Professioneel gebruik" of "Distributie/Voorlichting" als vermeld in artikel 20, § 3, van het koninklijk besluit van 19 maart 2013 ter verwezenlijking van een duurzaam gebruik van gewasbeschermingsmiddelen en toevoegingsstoffen, komen in aanmerking voor de toekenning van een subsidie voor naschoolse opleidingsinitiatieven in de landbouwsector.".
+
+### ART 2.
+
+In artikel 4/1 van hetzelfde besluit, ingevoegd bij het ministerieel besluit van 7 november 2014 en gewijzigd bij het ministerieel besluit van 24 februari 2015, worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt vervangen door wat volgt:<br>
+"Starterscursussen type C als vermeld in artikel 4, eerste lid, 1°, c), van het besluit, als het gaat om de basisopleidingen over de fytolicentie, moeten voldoen aan de voorwaarden, vermeld in artikel 33 van het koninklijk besluit van 19 maart 2013 ter verwezenlijking van een duurzaam gebruik van gewasbeschermingsmiddelen en toevoegingsstoffen.";<br>
+<br>
+2° tussen het eerste en het tweede lid worden drie leden ingevoegd, die luiden als volgt:<br>
+"De basisopleidingen, vermeld in het eerste lid, omvatten de volgende inhoud:<br>
+1° fytolicentie 1: assistent professioneel gebruik:<br>
+a) alle relevante wetgeving: één lesuur;<br>
+b) gewasbeschermingsmiddelen: één lesuur;<br>
+c) correct gebruik van gewasbeschermingsmiddelen: vijf lesuren;<br>
+d) risico's van gewasbeschermingsmiddelen: vijf lesuren;<br>
+e) toegepaste gewasbescherming met voornaamste ziekten en plagen: vier lesuren;<br>
+2° fytolicentie 2: professioneel gebruik:<br>
+a) alle relevante wetgeving: tien lesuren;<br>
+b) gewasbescherming: tien lesuren;<br>
+c) gewasbeschermingsmiddelen: tien lesuren;<br>
+d) correct gebruik van gewasbeschermingsmiddelen: tien lesuren;<br>
+e) risico's van gewasbeschermingsmiddelen: tien lesuren;<br>
+f) toegepaste gewasbescherming: tien lesuren;<br>
+3° fytolicentie 3: distributie/voorlichting:<br>
+a) alle relevante wetgeving: tien lesuren;<br>
+b) gewasbescherming: twintig lesuren;<br>
+c) gewasbeschermingsmiddelen: twintig lesuren;<br>
+d) correct gebruik van gewasbeschermingsmiddelen: vijftien lesuren;<br>
+e) risico's van gewasbeschermingsmiddelen: vijftien lesuren;<br>
+f) toegepaste gewasbescherming: veertig lesuren.<br>
+<br>
+Alleen de opleidingen om de fytolicentie 1, 2 en 3 te behalen, kunnen worden georganiseerd. De opleiding om de fytolicentie 2 te behalen, wordt georganiseerd voor een van de volgende doelgroepen:<br>
+1° de eetbare plantaardige productie;<br>
+2° de niet-eetbare plantaardige productie;<br>
+3° de biologische productie.<br>
+<br>
+Een opleiding met combinatie van de verschillende doelgroepen, vermeld in het derde lid, is niet toegestaan.";<br>
+<br>
+3° aan het bestaande derde lid, dat het zesde lid wordt, wordt de volgende zin toegevoegd:<br>
+"De bevoegde entiteit stelt een huishoudelijk reglement op met de praktische organisatie van de examens.".
+
 ### ART 3.
 
 In artikel 4/2 van hetzelfde besluit, ingevoegd bij het ministerieel besluit van 7 november 2014 en gewijzigd bij het ministerieel besluit van 24 februari 2015, waarvan de bestaande tekst paragraaf 4 zal vormen, worden een paragraaf 1 tot en met 3 ingevoegd, die luiden als volgt:<br>
