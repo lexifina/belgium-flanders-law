@@ -12,7 +12,24 @@ Dit besluit is van toepassing op het personeel van het gewoon en buitengewoon ba
 
 ### ART. 3.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° ...<br />2° decreet: het decreet betreffende het basisonderwijs van 25 februari 1997;<br />3° medisch personeel: arts;<br />4° ...<br />5° onderwijzend personeel:<br />a) onderwijzer, onderwijzer ASV, kleuteronderwijzer, kleuteronderwijzer ASV, leermeester lichamelijke opvoeding en leermeester compensatietechniek Braille in type 6;<br />b) leermeester godsdienst, leermeester niet-confessionele zedenleer; <br />6° onderwijzer: de onderwijzer belast met de functie van klastitularis, de onderwijzer belast met de functie van ambulante leerkracht, de onderwijzer belast met de functie van taakleraar, de onderwijzer belast met individueel onderwijs en de onderwijzer belast met opvoedende activiteiten, de leermeester bijzondere vakken andere dan lichamelijke opvoeding;<br />7° orthopedagogisch personeel: orthopedagoog;<br />8° paramedisch personeel:<br />a) in het gewoon basisonderwijs: kinderverzorger; <br />b) in het buitengewoon basisonderwijs: logopedist, kinesitherapeut, ergotherapeut, verpleger en kinderverzorger; <br />9° psychologisch personeel: psycholoog;<br />10° sociaal personeel: maatschappelijk werker;<br />11° beleids- en ondersteunend personeel: administratief medewerker, [ICT-coördinator en zorg-coördinator. <br />12° personeel : administratief personeel bedoeld in artikel 192 van het decreet, onderwijzend, paramedisch, medisch, sociaal, psychologisch, orthopedagogisch en beleids- en ondersteunend personeel;<br />13° lokaal comité : het lokaal overlegorgaan of onderhandelingsorgaan bevoegd voor arbeidsvoorwaarden en personeelsaangelegenheden.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° ...<br>
+2° decreet: het decreet betreffende het basisonderwijs van 25 februari 1997;<br>
+3° medisch personeel: arts;<br>
+4° ...<br>
+5° onderwijzend personeel:<br>
+a) onderwijzer, onderwijzer ASV, kleuteronderwijzer, kleuteronderwijzer ASV, leermeester lichamelijke opvoeding en leermeester compensatietechniek Braille in type 6;<br>
+b) leermeester godsdienst, leermeester niet-confessionele zedenleer;<br>
+6° onderwijzer: de onderwijzer belast met de functie van klastitularis, de onderwijzer belast met de functie van ambulante leerkracht, de onderwijzer belast met de functie van taakleraar, de onderwijzer belast met individueel onderwijs en de onderwijzer belast met opvoedende activiteiten, de leermeester bijzondere vakken andere dan lichamelijke opvoeding;<br>
+7° orthopedagogisch personeel: orthopedagoog;<br>
+8° paramedisch personeel:<br>
+a) in het gewoon basisonderwijs: kinderverzorger;<br>
+b) in het buitengewoon basisonderwijs: logopedist, kinesitherapeut, ergotherapeut, verpleger en kinderverzorger;<br>
+9° psychologisch personeel: psycholoog;<br>
+10° sociaal personeel: maatschappelijk werker;<br>
+11° beleids- en ondersteunend personeel: administratief medewerker, [ICT-coördinator, zorgcoördinator en beleidsondersteuner.<br>
+12° personeel : administratief personeel bedoeld in artikel 192 van het decreet, onderwijzend, paramedisch, medisch, sociaal, psychologisch, orthopedagogisch en beleids- en ondersteunend personeel;<br>
+13° lokaal comité : het lokaal overlegorgaan of onderhandelingsorgaan bevoegd voor arbeidsvoorwaarden en personeelsaangelegenheden.
 
 ## HOOFDSTUK II [TAKEN DIE NIET TOT HET TAKEN- EN OPDRACHTENPAKKET VAN HET PERSONEEL KUNNEN BEHOREN (verv. BVR 18 juli 2008, art. 2, I: 1juni 2008)]
 
