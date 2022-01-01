@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036335,
+  "title": "Decreet van 2021-11-19 tot wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013, wat betreft de vermindering van de onroerende voorheffing voor nieuwbouw en de toepassingsvoorwaarden van het verlaagd tarief voor de aankoop van een enige eigen woning met een verbintenis tot ingrijpende energetische renovatie of tot sloop en herbouw",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036335/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "b134f60c8d61d7bcb2becca57e0b7cdc4fe2af232d3f39b2794705302d6d8503",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036335&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2021-11-19",
+  "gazette": "2021-12-16",
+  "numac": 2021034280,
+  "document_start": "2022-01-01",
+  "document_end": null,
+  "in_force": "2022-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
