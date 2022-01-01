@@ -56,11 +56,11 @@ De   opdrachten, vermeld in artikel 40 van het besluit van 28 maart 2014, worden
 
 <p>Om het subsidiebedrag, vermeld in artikel 61 van het besluit van 28 maart 2014, voor elk erkend en gesubsidieerd groepsgericht aanbod opvoedingsondersteuning door vrijwilligers vast te stellen, wordt een vast bedrag vermeerderd met een variabel bedrag.<br>
 <br>
-Het vaste bedrag, vermeld in het eerste lid, bedraagt voor een groepsgericht aanbod opvoedingsondersteuning door vrijwilligers 75.088,89 euro (vijvenzeventigduizend achtentachtig euro negenentachtig cent).<br>
+Het vaste bedrag, vermeld in het eerste lid, bedraagt voor een groepsgericht aanbod opvoedingsondersteuning door vrijwilligers 75.865,23 euro (vijvenzeventigduizend achthonderdvijvenzestig euro drieëntwintig cent).<br>
 <br>
 Om het variabele bedrag, vermeld in het eerste lid, te berekenen, geldt een basisbedrag dat bestaat uit het aantal minderjarigen in het werkingsgebied, vermenigvuldigd met 0,04 euro (vier cent). Het basisbedrag wordt vermeerderd met het bedrag dat verkregen wordt door de samengestelde indicator te vermenigvuldigen met 20% van het basisbedrag en met een bedrag dat rekening houdt met de evolutie van de geldelijke anciënniteit, vermeld in artikel 61, § 1/1, eerste lid, 3°, van het besluit van 28 maart 2014.<br>
 <br>
-Het maximale subsidiebedrag dat aan een groepsgericht aanbod opvoedingsondersteuning door vrijwilligers kan worden toegekend, rekening houdend met de beschikbare begrotingskredieten, bedraagt 130.027,73 euro (honderddertigduizend zevenentwintig euro drieënzeventig cent).<br>
+Het maximale subsidiebedrag dat aan een groepsgericht aanbod opvoedingsondersteuning door vrijwilligers kan worden toegekend, rekening houdend met de beschikbare begrotingskredieten, bedraagt 130.804,08 euro (honderddertigduizend achthonderdenvier euro acht cent).<br>
 <br>
 De subsidie, vermeld in dit artikel, is gekoppeld aan de spilindex die van toepassing is op 1 januari 2021. De bedragen worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing wordt telkens gedaan vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.</p>
 
