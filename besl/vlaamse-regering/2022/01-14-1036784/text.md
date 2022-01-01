@@ -91,6 +91,11 @@ In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 6 o
 
 In artikel 37, eerste lid, 1°, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 7 februari 2020, wordt het bedrag "4164,00 euro" vervangen door het bedrag "5.373,28 euro".
 
+### ART 11.
+
+In artikel 12 van het Overgangsbesluit subsidies buitenschoolse opvang van 24 september 2021 wordt punt 6° vervangen door wat volgt:<br>
+"6° een VIA-subsidie als vermeld in artikel 16 tot en met 18, 19/1, 20 tot en met 23, 24/1 tot en met 26, 27/1, 28 tot en met 30, 31/1, 32, 33, 34, 34/1 en 36 van het besluit van 17 maart 2017, en de subsidie voor buitenschoolse opvang, wat artikel 37 van het voormelde besluit betreft;".
+
 ### ART 12.
 
 Dit besluit heeft uitwerking met ingang van 1 mei 2021, met uitzondering van de artikelen 4, 5 en 10, die uitwerking hebben met ingang van 1 januari 2021.<br>
