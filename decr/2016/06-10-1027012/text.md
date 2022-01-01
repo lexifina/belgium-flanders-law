@@ -13,7 +13,7 @@ In dit decreet wordt verstaan onder :<br>
 2° agentschap Sport Vlaanderen : het agentschap, opgericht bij het decreet van 7 mei 2004 betreffende het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Sport Vlaanderen";<br>
 2° /1 aanspreekpunt integriteit (API) : persoon of personen die het aanspreekpunt vormen voor gevallen van grensoverschrijdend gedrag waarbij de individuele fysieke, psychische en seksuele integriteit van personen wordt geschaad. Het aanspreekpunt integriteit is belast met de eerste opvang en doorverwijzing, en zorgt voor de coördinatie van interne procedures ter bevordering van de integriteit van personen. Het aanspreekpunt integriteit is belast met de preventie en ondersteuning, en moet vormen van grensoverschrijdend gedrag tegengaan;<br>
 3° beleidsplan : een vierjaarlijks document waarin de sportfederatie, de koepelorganisatie, de organisatie voor de sportieve vrijetijdsbesteding, het G-sportplatform en de organisatie voor risicovechtsporten hun visie, strategie en volledige werking, met inbegrip van hun kwaliteitsbeleid, weergeven;<br>
-4° G-sport : de sportparticipatie uitgeoefend door personen met een auditieve, fysieke, psychische, verstandelijke of visuele handicap of beperking;<br>
+4° G-sport: de sportparticipatie, uitgeoefend door personen met een auditieve, fysieke, verstandelijke of visuele beperking, met een psychische kwetsbaarheid of met een chronische aandoening;<br>
 5° jeugd : personen tot achttien jaar;<br>
 5° /1 integriteitsbeleid: een beleid met maatregelen die de sportfederatie in acht moet nemen met het oog op de bewaring en de bevordering van de individuele fysieke, psychische en seksuele integriteit van personen;<br>
 6° kansengroep : een geheel van personen die vanwege één of meer gemeenschappelijke persoons- of situationele kenmerken feitelijk ongelijke kansen hebben inzake sportparticipatie en voor wie bijgevolg een specifiek sport- en beweegbeleid noodzakelijk is;<br>
@@ -143,7 +143,7 @@ De Vlaamse Regering bepaalt de nadere uitwerking van de beleidsfocussen, vermeld
 a) unisportfederaties van categorie A1 als vermeld in artikel 21, 1° : ten minste 500 aangesloten leden;<br>
 b) unisportfederaties van categorie A2 als vermeld in artikel 21, 2° : ten minste 1500 aangesloten leden;<br>
 c) unisportfederaties van categorie B als vermeld in artikel 21, 3° : ten minste 30.000 aangesloten leden;<br>
-d) unisportfederaties van categorie G-sport als vermeld in artikel 21, 4° : ten minste 1500 aangesloten leden;<br>
+d) unisportfederaties van categorie G-sport als vermeld in artikel 21, 4° : ten minste 500 aangesloten leden;<br>
 e) multisportfederaties als vermeld in artikel 26 : ten minste 10.000 aangesloten leden. De fusiebewegingen die hieruit voortvloeien worden na een jaar geëvalueerd;<br>
 3° aan alle aangesloten leden via de sportclubs gedurende het sportjaar sportactiviteiten op verantwoorde wijze aanbieden, waarbij het gaat om een voldoende regelmatige en fysieke inspanning, individueel of in ploegverband, met enerzijds voor de unisportfederaties een competitief en recreatief karakter, en anderzijds voor de multisportfederaties een competitiegericht of recreatief karakter. Het betreft activiteiten waarbij de sportbeoefenaar de bedoeling heeft zijn lichamelijke ontwikkeling te stimuleren of zijn lichamelijke conditie op peil te houden of te verbeteren;<br>
 3° /1 een integriteitsbeleid voeren. De Vlaamse Regering bepaalt de nadere voorwaarden voor het voeren van dat integriteitsbeleid;<br>
@@ -267,7 +267,7 @@ Het goed bestuur van de sportfederatie, vermeld in het eerste lid, 3°, heeft be
 <br>
 De Vlaamse Regering bepaalt de nadere indicatoren per kwaliteitsprincipe, hun aandeel in de korf en de berekeningswijze van de korf.<br>
 <br>
-§ 4. Om het bedrag van de basissubsidie, vermeld in paragraaf 2, van de unisportfederatie G-sport te bepalen, wordt het aantal aangesloten leden van de unisportfederatie G-sport vermenigvuldigd met 2.
+§ 4. ...
 
 ### ART 17.
 
@@ -317,7 +317,7 @@ De unisportfederaties worden ingedeeld in de volgende vier categorieën :<br>
 1° categorie A1 : een sportfederatie die in haar doelstelling en werking uitsluitend de organisatie, de promotie en de kwaliteitszorg van één sporttak op het oog heeft. De sporttak komt voor op de sporttakkenlijst. De sportfederatie kan als enige, via haar nationale koepel, deelnemen aan de Olympische Spelen. De sportfederatie heeft als enige, via haar nationale koepel, een officiële affiliatie met de internationale federatie van de sport. De internationale sportfederatie moet op haar beurt door het Internationaal Olympisch Comité aanvaard zijn als Olympische sportfederatie;<br>
 2° categorie A2 : een sportfederatie die in haar doelstelling en werking uitsluitend de organisatie, de promotie en de kwaliteitszorg van één sporttak op het oog heeft. De sporttak komt voor op de sporttakkenlijst. De sportfederatie kan als enige, via haar nationale koepel, deelnemen aan Wereldkampioenschappen of de Wereldspelen. De sportfederatie heeft als enige, via haar nationale koepel, een officiële affiliatie met de internationale federatie van de sport. De internationale sportfederatie moet op haar beurt volwaardig lid met stemrecht zijn van SportAccord;<br>
 3° categorie B : een sportfederatie die in haar doelstelling en werking uitsluitend de organisatie, de promotie en de kwaliteitszorg van één sporttak op het oog heeft. De sporttak komt voor op de sporttakkenlijst. Voor de sporttak bestaat geen internationale federatie van de sport die een officiële affiliatie heeft met het Internationaal Olympisch Comité of met SportAccord;<br>
-4° categorie G-sport : een sportfederatie voor personen met een handicap die in haar doelstelling en werking uitsluitend de organisatie, de promotie en de kwaliteitszorg van een of meer sporttakken op het oog heeft. De sporttakken komen voor op de sporttakkenlijst. De sportfederatie kan als enige, via haar nationale koepel, deelnemen aan de Paralympische Spelen. De sportfederatie heeft, via haar nationale koepel, een officiële affiliatie met het Internationaal Paralympisch Comité.
+4° categorie G-sport : een sportfederatie voor G-sport die in haar doelstelling en werking de organisatie, de promotie en de kwaliteitszorg van een of meer sporttakken op het oog heeft. De sporttakken komen voor op de sporttakkenlijst. De sportfederatie kan als enige, via haar nationale koepel, deelnemen aan de Paralympische Spelen. De sportfederatie heeft, via haar nationale koepel, een officiële affiliatie met het Internationaal Paralympisch Comité.
 
 ## Afdeling 2. Basisopdrachten van de gesubsidieerde unisportfederaties
 
@@ -593,12 +593,26 @@ Het saldo van de algemene werkingssubsidie wordt uitbetaald voor 1 juli van het 
 ### ART 50.
 
 Om in aanmerking te komen voor subsidies, moet de unisportfederatie G-sport, vermeld in artikel 21, 4°, naast de basisopdrachten, vermeld in artikel 22, de volgende bijkomende basisopdrachten uitvoeren :<br>
-1° sporttechnische ondersteuning bieden aan andere erkende sportfederaties die een geïntegreerde G-sportwerking willen aanbieden in hun sportfederatie;<br>
-2° samenwerken met het gesubsidieerde G-sportplatform, vermeld in artikel 53, voor overkoepelende en transversale taken.
+1° sporttechnische, sportpromotionele, sportmedische en ethische ondersteuning bieden aan andere erkende sportfederaties die een geïntegreerde G-sportwerking willen aanbieden in hun sportfederatie;<br>
+2° als kennis- en ondersteuningscentrum G-sport de volgende basisopdrachten uitvoeren:<br>
+a) het aanspreekpunt zijn voor alle betrokken G-sportactoren in Vlaanderen en die G-sportactoren ondersteunen via een doorgedreven samenwerking;<br>
+b) een loketfunctie uitvoeren in het kenbaar maken van het G-sportlandschap;<br>
+c) een kenniscentrum zijn over thema's die voor G-sport relevant zijn;<br>
+d) de brede bevolking sensibiliseren voor G-sport;<br>
+e) G-sporters toeleiden en activeren via transversale samenwerking en netwerking met het middenveld;<br>
+f) de Vlaamse overheid adviseren op het vlak van G-sport.<br>
+<br>
+De Vlaamse Regering kan de opdrachten, vermeld in het eerste lid, nader specificeren.<br>
+<br>
+De samenwerkingsovereenkomst van de unisportfederatie G-sport, vermeld in artikel 17, betreft ook de optimalisering van de praktische en concrete uitvoering van de bijkomende basisopdrachten, vermeld in het eerste lid.<br>
+<br>
+De unisportfederatie G-sport duidt in haar beleidsplan, vermeld in artikel 4, eerste lid, 15°, en artikel 11, § 1, eerste lid, 8°, ook haar werking als kennis- en ondersteuningscentrum G-sport voor de volgende olympiade met de organisatorische en financiële planning en geeft aan op welke manier de opdrachten, vermeld in het eerste lid, beleidsmatig ingevuld zullen worden.
 
 ### ART 51.
 
-Voor de opdrachten, vermeld in artikel 50, 1° en 2°, wordt de basissubsidie, vermeld in artikel 16, § 2, verhoogd met minstens 60.000 euro.
+Voor de opdrachten, vermeld in artikel 50, 1° en 2°, wordt de basissubsidie, vermeld in artikel 16, § 2, verhoogd met minstens 60.000 euro.<br>
+<br>
+Om in aanmerking te komen voor de verhoging van de basissubsidie, vermeld in het eerste lid, worden de algemene vergadering en het bestuursorgaan van de unisportfederatie G-sport aangevuld met onafhankelijke experten.
 
 ## Titel 2. [... (opgeh. decr. 15 oktober 2021, art. 8, I: 1 januari 2022)]
 
@@ -606,57 +620,33 @@ Voor de opdrachten, vermeld in artikel 50, 1° en 2°, wordt de basissubsidie, v
 
 ### ART 52.
 
-Om als G-sportplatform erkend te worden en te blijven, moet de organisatie aan de volgende voorwaarden voldoen :<br>
-1° opgericht zijn als vereniging zonder winstoogmerk conform de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen;<br>
-2° zijn zetel hebben in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br>
-3° in zijn statuten de structurele ondersteuning van de G-sport in Vlaanderen als hoofddoelstelling hebben;<br>
-4° minimaal drie jaar werkzaam zijn in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad als aanspreekpunt voor sportbeoefening voor personen met een handicap;<br>
-5° jaarlijks het door de algemene vergadering goedgekeurde financiële verslag en het werkingsverslag van het voorbije werkingsjaar bij het agentschap Sport Vlaanderen indienen, en ervoor zorgen dat alle gegevens die verband houden met de erkenningsvoorwaarden, op de zetel of het secretariaat van de organisatie in het Nederlands voorhanden zijn, en die ter beschikking stellen voor onderzoek door het agentschap Sport Vlaanderen.<br>
-<br>
-Het G-sportplatform wordt erkend volgens de procedure, vermeld in artikel 65 tot en met 68, en de erkenning wordt voor de duur van een olympiade toegekend door de Vlaamse Regering.
+...
 
 ## HOOFDSTUK 2. [... (opgeh. decr. 15 oktober 2021, art. 8, I: 1 januari 2022)]
 
 ### ART 53.
 
-§ 1. Om voor subsidiëring in aanmerking te komen, voert het erkende G-sportplatform de volgende opdrachten uit :<br>
-1° het aanspreekpunt zijn voor alle betrokken G-sportactoren in Vlaanderen en die G-sportactoren ondersteunen via een doorgedreven samenwerking;<br>
-2° een loketfunctie uitvoeren in het kenbaar maken van het G-sportlandschap;<br>
-3° een kenniscentrum zijn over thema's die relevant zijn voor G-sport;<br>
-4° de brede bevolking sensibiliseren voor G-sport;<br>
-5° toeleiden en activeren van G-sporters via transversale samenwerking en netwerking met het middenveld;<br>
-6° een samenwerkingsprotocol sluiten met de gesubsidieerde unisportfederatie G-sport;<br>
-7° het aanspreekpunt uitbouwen, structureren en beheren om de opdrachten, vermeld in punt 1° tot en met 6°, kwaliteitsvol uit te voeren.<br>
-<br>
-De Vlaamse Regering kan de opdrachten, vermeld in het eerste lid, nader specificeren.<br>
-<br>
-§ 2. Om in aanmerking te komen voor subsidiëring, legt het G-sportplatform een beleidsplan voor de volgende olympiade voor aan het agentschap Sport Vlaanderen waarin het zijn organisatorische en financiële planning uiteenzet en aangeeft op welke manier de opdrachten, vermeld in paragraaf 1, beleidsmatig ingevuld worden. Het beleidsplan wordt op basis van effectmeting jaarlijks geëvalueerd en zo nodig bijgestuurd. De resultaten van de evaluatie worden opgenomen in het werkingsverslag.
+...
 
 ### ART 54.
 
-De algemene vergadering en de raad van bestuur van het G-sportplatform bestaan uit vertegenwoordigers van de non-profitsportsector, aangevuld met experten.<br>
-<br>
-De Vlaamse Regering kan de samenstelling van de algemene vergadering en de raad van bestuur bepalen en de nadere voorwaarden vastleggen waaraan ze moeten voldoen.
+...
 
 ### ART 55.
 
-De subsidies voor het G-sportplatform worden jaarlijks toegekend en omvatten werkingssubsidies en personeelssubsidies. De subsidie wordt aangewend voor de uitvoering van de opdrachten, vermeld in artikel 53, § 1. De Vlaamse Regering kan de verhouding tussen de personeels- en werkingssubsidies bepalen.
+...
 
 ### ART 56.
 
-Het gesubsidieerde G-sportplatform maakt een jaarlijks verslag op, dat bestaat uit een werkingsverslag en een financieel verslag over de uitvoering van het beleidsplan in het voorgaande werkingsjaar. Indien uit het jaarlijks verslag blijkt dat het G-sportplatform een of meer opdrachten niet uitvoert, komt zij niet in aanmerking voor subsidiëring op basis van dit decreet.
+...
 
 ### ART 57.
 
-Onder voorbehoud dat de ingediende subsidieaanvraag van het G-sportplatform voor het lopende werkingsjaar is goedgekeurd door de Vlaamse Regering, wordt een voorschot van de subsidie, vermeld in artikel 55, uitbetaald.<br>
-<br>
-Het voorschot bedraagt 90 % van de subsidie waarop het G-sportplatform aanspraak kan maken op basis van de ingediende subsidieaanvraag voor het lopende werkingsjaar.<br>
-<br>
-Het saldo van de subsidie wordt uitbetaald vóór 1 juli van het jaar dat volgt op het gesubsidieerde werkingsjaar, nadat de Vlaamse Regering de definitieve subsidie voor het werkingsjaar heeft goedgekeurd.
+...
 
 ### ART 58.
 
-Het G-sportplatform wordt gesubsidieerd volgens de subsidiëringsprocedure, vermeld in artikel 69, 70, 71, 73 en 74. De subsidies worden jaarlijks toegekend door de Vlaamse Regering.
+...
 
 ## DEEL 6. Erkenning en subsidiëring van een organisatie voor risicovechtsporten
 
