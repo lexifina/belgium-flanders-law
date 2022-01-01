@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036621,
+  "title": "Besluit van de Vlaamse Regering van 2022-01-14 tot wijziging van artikel 6 van het koninklijk besluit van 16 mei 2003 tot uitvoering van het Hoofdstuk 7 van Titel IV van de programmawet van 24 december 2002 (I), betreffende de harmonisering en vereenvoudiging van de regelingen inzake verminderingen van de sociale zekerheidsbijdragen en artikel 2 van het besluit van de Vlaamse Regering van 17 februari 2017 tot toekenning van aanwervingsincentives voor langdurig werkzoekenden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036621/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "7d9cf17b7923cae0bc3736d430611c0352e61ea8ba1f2f74472c810fcf95c50a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036621&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2022-01-14",
+  "gazette": "2022-03-10",
+  "numac": 2022030571,
+  "document_start": "2022-01-01",
+  "document_end": null,
+  "in_force": "2022-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
