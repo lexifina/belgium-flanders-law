@@ -144,6 +144,8 @@ Als het met toepassing van het eerste lid berekende bedrag voor het jaar x lager
 <br>
 § 2. Voor het eerste jaar van de toekenning van een PAB wordt het maximumbedrag dat is vastgesteld conform artikel 8, § 1, herrekend naar rato van de resterende dagen van het kalenderjaar.<br>
 <br>
+§2bis Het maximumbedrag voor het jaar 2022 dat is vastgesteld conform artikel 8, §1, en geïndexeerd is conform paragraaf 1, wordt verhoogd met 3,56 %.<br>
+<br>
 §3. Als de budgethouder een overeenkomst sluit als vermeld in artikel 12, §1, eerste lid, 1°, of §2, eerste lid, 1°, kan hij aanspraak maken op een verhoging van het maximumbedrag dat conform artikel 8, §1, is vastgesteld, geïndexeerd conform paragraaf 1, met maximaal 15,75% van de volgende kosten die verband houden met een arbeidsovereenkomst en die vermeld worden op de kostenstaten, vermeld in artikel 11/1, §2, eerste lid, die worden ingediend bij het agentschap:&nbsp;<br>
 1°&nbsp;&nbsp; &nbsp;brutolonen;<br>
 2°&nbsp;&nbsp; &nbsp;vakantiegeld;&nbsp;<br>
