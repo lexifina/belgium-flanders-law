@@ -2,16 +2,16 @@
   "codex_id": 1032847,
   "title": "Besluit van de Vlaamse Regering van 2020-04-03 tot regeling van bepaalde tijdelijke maatregelen in de beleidsvelden jeugd en media door de civiele noodsituatie met betrekking tot de volksgezondheid ingevolge het coronavirus COVID-19",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032847/VolledigDocument?datum=2021-03-05",
-  "source_sha256": "5c6f558c2193a09bec21525a7de7c2778c669867a903126c109aacadfe73e109",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032847/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "45d361021d4fc8cc4f926846c391cd5746951458c03f1c90d4e52ecbb911e045",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032847&param=informatie",
-  "as_of": "2021-03-05",
+  "as_of": "2022-01-01",
   "made": "2020-04-03",
   "gazette": "2020-04-09",
   "numac": 2020020774,
   "document_start": "2020-04-03",
   "document_end": null,
-  "in_force": "2021-03-05",
+  "in_force": "2022-01-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2021-03-05; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
 }

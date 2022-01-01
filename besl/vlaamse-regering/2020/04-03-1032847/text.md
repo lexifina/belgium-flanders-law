@@ -81,8 +81,8 @@ In artikel 17/1, § 3, eerste lid, van het van hetzelfde decreet wordt punt 3° 
 ### ART 6.
 
 Met behoud van artikel 4, § 1 van het besluit van de Vlaamse Regering van 9 mei 2014 betreffende de kadervormingstrajecten, vermeld in artikel 17/1 van het decreet van 20 januari 2012 houdende een vernieuwd jeugd- en kinderrechtenbeleid wordt:<br>
-1° in de periode van 13 maart 2020 tot en met 31 december 2021, aan een deelnemer van het theoretisch gedeelte na het volgen van minimaal 15 cursusuren toegelaten een begeleide stage in het jeugdwerk te doen. De stage die 50 uren duurt moet uiterlijk op 31 december 2021 afgerond zijn;<br>
-2° de termijn van maximaal drie jaar, zoals vermeld in het vierde lid van paragraaf 1 van hetzelfde besluit, verlengd tot uiterlijk 31 december 2021 voor deelnemers die in de periode van 13 maart 2020 tot en met 31 december 2021 de maximale trajecttermijn van drie jaar bereiken.
+1° in de periode van 13 maart 2020 tot en met 31 december 2022, aan een deelnemer van het theoretisch gedeelte na het volgen van minimaal 15 cursusuren toegelaten een begeleide stage in het jeugdwerk te doen. De stage die 50 uren duurt moet uiterlijk op 31 december 2022 afgerond zijn;<br>
+2° de termijn van maximaal drie jaar, zoals vermeld in het vierde lid van paragraaf 1 van hetzelfde besluit, verlengd tot uiterlijk 31 december 2022 voor deelnemers die in de periode van 13 maart 2020 tot en met 31 december 2022 de maximale trajecttermijn van drie jaar bereiken.
 
 ### ART 7.
 
