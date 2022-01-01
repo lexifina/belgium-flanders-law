@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037290,
+  "title": "Besluit van de Vlaamse Regering van 2022-05-06 tot bepaling van de voorwaarden voor de toekenning van een subsidie aan het Fonds voor Bestaanszekerheid voor de Sociale Werkplaatsen en tot wijziging van artikel 131quinquies van het koninklijk besluit van 25 november 1991 houdende werkloosheidsreglementering en artikel 3 van het besluit van de Vlaamse regering van 27 oktober 1993 tot veralgemening van het stelsel van gesubsidieerde contractuelen, en tot opheffing van artikel 4bis van het koninklijk besluit van 3 mei 1999 tot uitvoering van artikel 7, § 1, derde lid, m, van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders betreffende de herinschakeling van zeer moeilijk te plaatsen werklozen en artikel 49 van het besluit van de Vlaamse Regering van 17 februari 2017 tot uitvoering van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037290/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "39fec7a3f01d2d23746c11651cdf2d8d77d91ab33d8b027ad974c2d04aa16c88",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037290&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2022-05-06",
+  "gazette": "2022-07-28",
+  "numac": 2022032272,
+  "document_start": "2022-01-01",
+  "document_end": null,
+  "in_force": "2022-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
