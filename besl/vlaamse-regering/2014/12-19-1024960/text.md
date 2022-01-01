@@ -16,34 +16,15 @@ Besluit :
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br>
-1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie;<br>
-1°/1 attest van toezicht : een attest van toezicht voor buitenschoolse gezinsopvang, groepsopvang of vakantieopvang als vermeld in artikel 3, § 1, van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
-2° brandveiligheidsattesten A, B en C : de brandveiligheidsattesten A, B of C, vermeld in artikel 12 van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
-3° brandveiligheidsvoorschriften : de specifieke brandveiligheidsvoorschriften, vermeld in artikel 12 van het Kwaliteitsbesluit buitenschoolse opvang van 16 mei 2014;<br>
-4° buitenschoolse opvang : de opvang, vermeld in artikel 1, 1°, van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
-5° decreet van 30 april 2004 : het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid het agentschap;<br>
-6° elektronische handtekening : een geavanceerde elektronische handtekening met gekwalificeerd certificaat als vermeld in artikel 2, 2° en 4°, van de wet van 9 juli 2001 houdende vaststelling van bepaalde regels in verband met het juridisch kader voor de elektronische handtekening, de elektronisch aangetekende zending en certificatiediensten;<br>
-7° erkenning : een erkenning voor buitenschoolse gezinsopvang of groepsopvang als vermeld in artikel 3, § 1, van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
-8° gezinsopvang : de buitenschoolse opvang buiten de gezinswoning van het kind en voor maximaal acht tegelijk aanwezige kinderen;<br>
-9° groepsopvang : de buitenschoolse opvang buiten de gezinswoning van het kind en met minimaal negen tegelijk aanwezige kinderen;<br>
-10° minister : de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
-11° opvangvorm : de groepsopvang of gezinsopvang;<br>
-12° organisator : de natuurlijke persoon of rechtspersoon die buitenschoolse opvang organiseert;<br>
-13° subsidie : een of meer van de subsidies als vermeld in het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014;<br>
-14° subsidieerbare opvangplaats : een opvangplaats waarvoor de organisator over een beslissing tot toekenning van een subsidie van het agentschap beschikt;<br>
-15° technische commissie : de technische commissie voor de brandveiligheid, vermeld in het besluit van de Vlaamse Regering van 5 juni 2009 tot oprichting van een technische commissie voor de brandveiligheid in de voorzieningen van Welzijn, Volksgezondheid en Gezin;<br>
-16° vakantieopvang : de buitenschoolse opvang tijdens de vakantieperioden, vermeld in artikel 4 van het besluit van de Vlaamse Regering van 17 april 1991 tot organisatie van het schooljaar in het basisonderwijs en in het deeltijds onderwijs georganiseerd, erkend of gesubsidieerd door de Vlaamse Gemeenschap.
+...
 
 ### ART. 2.
 
-Dit besluit wordt aangehaald als : Procedurebesluit   Buitenschoolse Opvang van 19 december 2014.
+...
 
 ### ART. 3.
 
-<p>Ten aanzien van de organisator, en tenzij dit besluit het anders bepaalt, worden de termijnen voor het aantekenen van bezwaar die beginnen te lopen vanaf een kennisgeving met een aangetekende brief of met een gewone brief door het agentschap, berekend vanaf de derde werkdag die volgt op de dag waarop de brief aan de postdiensten overhandigd is, tenzij de geadresseerde het tegendeel bewijst.</p>
-
-<p>Voor de berekening van alle termijnen als vermeld in dit besluit, is de vervaldag altijd in de termijn begrepen. Als de vervaldag een zaterdag, een zondag of een wettelijke feestdag is, wordt de vervaldag verplaatst naar de eerstvolgende werkdag.</p>
+...
 
 ## Titel 2. Erkenning of attest van toezicht
 
@@ -51,27 +32,23 @@ Dit besluit wordt aangehaald als : Procedurebesluit   Buitenschoolse Opvang van 
 
 ### ART. 4.
 
-Het agentschap kent een attest van toezicht of een erkenning toe als :<br>
-1° de aanvraag van de organisator voor een erkenning of een attest van toezicht ontvankelijk is;<br>
-2° de organisator voldoet aan de voorwaarden.
+...
 
 ### ART. 5.
 
-<p>Het agentschap kan bij de beoordeling van de vraag of voldaan is aan de voorwaarden om een erkenning of een attest van toezicht te krijgen, rekening houden met de gegevens die blijken uit het dossier en uit inspectie ter plaatse, evenals met andere elementen die een gegronde indicatie vormen van&nbsp;het gegeven dat de organisator niet aan de voorwaarden voldoet of zal kunnen voldoen.</p>
-
-<p>Als het agentschap het voornemen heeft om de erkenning of het attest van toezicht te weigeren op basis van een gegronde indicatie als vermeld in het eerste lid, wordt de organisator gehoord. De termijn, vermeld in artikel 22, wordt geschorst.</p>
+...
 
 ### ART. 6.
 
-Een organisator met een attest van toezicht of met een   erkenning moet voor een opvanglocatie een nieuw attest van toezicht of een   nieuwe erkenning aanvragen als :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de opvangvorm wijzigt;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de organisator wijzigt;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de opvanglocatie verhuist.
+...
 
 ### ART. 7.
 
-Een organisator met een attest van toezicht of met een erkenning moet voor een opvanglocatie een aanpassing van het attest van toezicht of de erkenning vragen als hij een hoger aantal opvangplaatsen met attest van toezicht of erkenning wil. Als hij een lager aantal opvangplaatsen wil op het attest van toezicht of de erkenning, volstaat een elektronische melding daarvan aan het agentschap, om een aangepast attest van toezicht of erkenning toe te kennen.
+...
 
 ### ART. 8.
 
-De organisator met een attest van toezicht of een erkenning bezorgt elke wijziging van de gegevens, vermeld in artikel 9 tot en met 11, elektronisch of met de post aan het agentschap.
+...
 
 ## HOOFDSTUK 2. Aanvraag, toekenning, stopzetting en opheffing van een erkenning of een attest van toezicht
 
@@ -79,133 +56,69 @@ De organisator met een attest van toezicht of een erkenning bezorgt elke wijzigi
 
 ### ART. 9.
 
-De aanvraag van een erkenning of een attest van toezicht voor gezinsopvang of voor groepsopvang wordt ingediend met het aanvraagformulier van het agentschap, dat de volgende gegevens bevat :<br>
-1° de gegevens om te oordelen of de activiteit onder het toepassingsgebied van het decreet van 30 april 2004 en de uitvoeringsbesluiten ervan valt;<br>
-2° voor de organisatoren die gevestigd zijn in het tweetalige gebied Brussel-Hoofdstad : de taal waarin de organisatie van de buitenschoolse opvang gebeurt;<br>
-3° de gegevens over de organisator :<br>
-a) de naam, de rechtsvorm, het adres en het ondernemingsnummer van de organisator;<br>
-b) de identiteitsgegevens en contactgegevens, waaronder minstens de voor- en achternaam, het telefoonnummer en het e-mailadres van de contactpersoon van de organisator;<br>
-4° de gegevens over de opvanglocatie waarvoor de erkenning of het attest van toezicht wordt aangevraagd :<br>
-a) de naam en het adres van de opvanglocatie;<br>
-b) het gevraagde aantal opvangplaatsen;<br>
-c) de startdatum of de vermoedelijke startdatum;<br>
-d) het aanbod;<br>
-e) de informatie of de lokalen deel uitmaken van een school;<br>
-5° de gegevens over de verantwoordelijke van de opvanglocatie :<br>
-a) de identiteitsgegevens en contactgegevens van de verantwoordelijke, waaronder minstens de voor- en achternaam, het rijksregisternummer of het vreemdelingennummer, de geboortedatum, het geslacht, het telefoonnummer en het e-mailadres;<br>
-b) het hoogst behaalde kwalificatiebewijs van de verantwoordelijke;<br>
-6° alleen voor gezinsopvang : de gegevens over de kinderbegeleiders : de identiteitsgegevens van de kinderbegeleider, waaronder minstens de voor- en achternaam, de geboortedatum en het geslacht;<br>
-7° de context van de aanvraag;<br>
-8° de toestemming van alle meerderjarige natuurlijke personen die de lokalen bewonen om controlebezoeken te laten uitvoeren in de bewoonde lokalen die voor de buitenschoolse opvang dienen;<br>
-9° een verklaring op erewoord over :<br>
-a) het feit dat de persoon die de aanvraag indient, gemachtigd is om te handelen in naam van de organisator;<br>
-b) de kennisname van de voorwaarden, vermeld in het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
-10° de datum en een handtekening vanwege de organisator.
+...
 
 ### ART. 10.
 
-De aanvraag van een attest van toezicht voor vakantieopvang wordt ingediend met het aanvraagformulier van het agentschap, dat de volgende gegevens bevat :<br>
-1° de gegevens om te oordelen of de activiteit onder het toepassingsgebied van het decreet van 30 april 2004 en de uitvoeringsbesluiten ervan valt;<br>
-2° voor de organisatoren die gevestigd zijn in het tweetalige gebied Brussel-Hoofdstad : de taal waarin de organisatie van de buitenschoolse opvang gebeurt;<br>
-3° de gegevens over de organisator :<br>
-a) de naam, de rechtsvorm, het adres en het ondernemingsnummer van de organisator;<br>
-b) de identiteitsgegevens en contactgegevens, waaronder minstens de voor- en achternaam, het geslacht, het telefoonnummer en het e-mailadres van de contactpersoon van de organisator;<br>
-4° de gegevens over de opvanglocatie waarvoor het attest van toezicht voor vakantieopvang wordt aangevraagd :<br>
-a) de naam en het adres van de opvanglocatie;<br>
-b) de specificaties van de opvanglocatie;<br>
-c) de vakantieperioden waarvoor het attest van toezicht voor vakantieopvang wordt aangevraagd;<br>
-d) het aantal opvangplaatsen;<br>
-e) de openingsdagen;<br>
-f) de informatie of de lokalen deel uitmaken van een school;<br>
-5° de gegevens over de verantwoordelijke van de opvanglocatie :<br>
-a) de identiteitsgegevens en contactgegevens van de verantwoordelijke, waaronder minstens de voor- en achternaam, het rijksregisternummer of het vreemdelingennummer, de geboortedatum, het geslacht, het telefoonnummer en het e-mailadres;<br>
-b) het hoogst behaalde kwalificatiebewijs van de verantwoordelijke;<br>
-6° de verklaring op erewoord over :<br>
-a) het feit dat de persoon die de aanvraag indient, gemachtigd is om te handelen in naam van de organisator;<br>
-b) het feit dat voldaan is aan de voorwaarden voor een attest van toezicht voor vakantieopvang, vermeld in het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
-7° de datum en de handtekening van de organisator.
+...
 
 ### ART. 11.
 
-Naast het aanvraagformulier, vermeld in artikel 9 en 10, bezorgt de organisator de volgende documenten, met de post of elektronisch, volgens de administratieve richtlijnen van het agentschap :<br>
-1° voor een erkenning of een attest van toezicht voor groepsopvang :<br>
-a) het brandveiligheidsattest A of B;<br>
-b) het uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, of een gelijkwaardig attest voor de verantwoordelijke, vermeld in artikel 33, § 1, eerste lid, 1°, van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
-2° voor een erkenning of een attest van toezicht voor gezinsopvang :<br>
-a) het document, vermeld in punt 1°, b);<br>
-b) het uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, of een gelijkwaardig attest voor de kinderbegeleider, vermeld in artikel 38, § 1, eerste lid, 1°, van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
-3° voor een attest van toezicht voor vakantieopvang : het document, vermeld in punt 1°, b).
+...
 
 ### ART. 12.
 
-De organisator die een aanvraag indient na een weigering van   een eerdere aanvraag van een erkenning of een attest van toezicht voor dezelfde   opvanglocatie, of na een opheffing van een erkenning of een attest van toezicht   van die opvanglocatie, bezorgt boven op de documenten, vermeld in artikel 11,   bijkomende documenten waaruit blijkt dat de reden waarop de voorafgaande   weigering of opheffing is gebaseerd, niet langer bestaat.
+...
 
 ## Afdeling 2. Aanvraag van een aanpassing van een erkenning of een attest van toezicht
 
 ### ART. 13.
 
-De aanvraag van een aanpassing van de erkenning of het attest van toezicht voor gezinsopvang of groepsopvang, of het attest van toezicht voor vakantieopvang, wordt ingediend met een specifiek aanvraagformulier van het agentschap, dat de volgende gegevens bevat :<br>
-1° de identificatiegegevens van de organisator, meer bepaald de naam, de rechtsvorm en het ondernemingsnummer;<br>
-2° de naam, het dossiernummer en het adres van de opvanglocatie;<br>
-3° het aantal opvangplaatsen dat de organisator wil na de aanpassing;<br>
-4° de datum vanaf wanneer de organisator het aangepaste aantal opvangplaatsen wil;<br>
-5° de datum en een handtekening vanwege de organisator.
+...
 
 ### ART. 14.
 
-Naast het aanvraagformulier, vermeld in artikel 13, bezorgt   de organisator met een erkenning of een attest van toezicht voor groepsopvang   het brandveiligheidsattest A of B.
+...
 
 ## [Afdeling 2/1. De aanvraag van een erkenning of een attest van toezicht bij wijziging van de organisator (ing. BVR 21 oktober 2016, art. 29, I: 4 december 2016)]
 
 ### ART 14/1.
 
-De organisator die op het moment van de aanvraag gelijktijdig een aanvraag indient voor verschillende erkenningen voor dezelfde opvangvorm, of voor verschillende attesten van toezicht voor dezelfde opvangvorm, die overgenomen worden van een andere organisator die ze wil stopzetten, en die in feite niets wijzigt aan de organisatie en aan de personen die instaan voor de organisatie:<br>
-1° hoeft de documenten, vermeld in artikel 11, niet te bezorgen;<br>
-2° hoeft de reeds toegekende afwijkingen van de infrastructuur of brandveiligheid niet opnieuw aan te vragen op voorwaarde dat hij de beslissing over de afwijking naleeft.
+...
 
 ### ART 14/2.
 
-De organisator die wijzigt van rechtsvorm, maar in feite niets wijzigt aan de organisatie en aan de personen die instaan voor de organisatie:<br>
-1° hoeft de documenten, vermeld in artikel 11, niet te bezorgen;<br>
-2° hoeft de reeds toegekende afwijkingen van de infrastructuur of brandveiligheid niet opnieuw aan te vragen op voorwaarde dat hij de beslissing over de afwijking naleeft.
+...
 
 ## Afdeling 3. Ontvankelijkheid van de aanvraag van een erkenning of een attest van toezicht of van de aanpassing ervan
 
 ### ART. 15.
 
-De   aanvraag van een erkenning of een attest van toezicht of de aanvraag van een   aanpassing van een erkenning of een attest van toezicht, is ontvankelijk als aan   de volgende voorwaarden is voldaan :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de activiteit waarvoor een erkenning of een attest van toezicht wordt   aangevraagd valt onder het toepassingsgebied van het decreet van 30 april 2004   en de uitvoeringsbesluiten ervan;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de aanvraag is volledig ingevuld en ondertekend;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de noodzakelijke documenten zijn bezorgd.
+...
 
 ### ART. 16.
 
-Het agentschap bezorgt na de ontvangst van de aanvraag een ontvangstmelding aan de organisator.
+...
 
 ### ART. 17.
 
-Het agentschap beslist over de ontvankelijkheid van de aanvraag uiterlijk dertig kalenderdagen na de datum van de ontvangst van het aanvraagformulier, vermeld in artikel 9, 10 en 13.
+...
 
 ### ART. 18.
 
-<p>Als de aanvraag onvolledig is, meldt het agentschap dat zo snel mogelijk elektronisch aan de organisator. Vanaf die melding wordt de termijn, vermeld in artikel 17, geschorst voor maximaal dertig kalenderdagen zodat de organisator de aanvraag binnen die termijn kan vervolledigen.</p>
+...
 
 ### ART. 19.
 
-De beslissing over de ontvankelijkheid van de aanvraag bevat de volgende gegevens :<br>
-1° de naam en het ondernemingsnummer van de organisator;<br>
-2° de naam en het adres van de opvanglocatie;<br>
-3° het dossiernummer;<br>
-4° de beslissing;<br>
-5° de contactgegevens van het agentschap;<br>
-6° de datum van de beslissing en een handtekening vanwege het agentschap.
+...
 
 ### ART. 20.
 
-Het agentschap bezorgt op de volgende wijze de beslissing over de ontvankelijkheid van de aanvraag uiterlijk vijftien kalenderdagen na de datum van de beslissing aan de organisator :<br>
-1° als de aanvraag ontvankelijk is : elektronisch;<br>
-2° als de aanvraag onontvankelijk is : elektronisch en met een aangetekende brief.
+...
 
 ### ART. 21.
 
-Als het agentschap geen beslissing heeft genomen of de organisator daarvan niet op de hoogte heeft gebracht binnen de termijnen die van toepassing zijn, wordt de aanvraag van een erkenning of een attest van toezicht of de aanvraag van aanpassing van een erkenning of een attest van toezicht geacht ontvankelijk te zijn, op voorwaarde dat de organisator een ontvangstmelding van het agentschap heeft ontvangen.
+...
 
 ## Afdeling 4. Gegrondheid van de aanvraag van een erkenning of een attest van toezicht of van de aanpassing ervan
 
@@ -213,131 +126,85 @@ Als het agentschap geen beslissing heeft genomen of de organisator daarvan niet 
 
 ### ART. 22.
 
-<p>Het agentschap beslist over de gegrondheid van de aanvraag van een erkenning of attest van toezicht voor gezinsopvang of groepsopvang, of de aanvraag van aanpassing van een erkenning of een attest van toezicht voor gezinsopvang of groepsopvang uiterlijk honderdtwintig kalenderdagen na de datum van de beslissing over de ontvankelijkheid van de aanvraag, vermeld in artikel 17.</p>
-
-<p>In geval van toekenning kan het attest van toezicht of de erkenning voor gezinsopvang of groepsopvang op zijn vroegste ingaan vanaf de datum van ontvangst van de volledige aanvraag van het attest van toezicht of de erkenning.</p>
+...
 
 ### ART. 23.
 
-De termijn, vermeld in artikel 22, wordt met maximaal dertig kalenderdagen geschorst als het agentschap :<br>
-1° bijkomende gegevens vraagt aan de organisator;<br>
-2° vraagt om de organisator te horen. Dat is altijd het geval als het agentschap het voornemen heeft om de erkenning of het attest van toezicht te weigeren met toepassing van artikel 5.
+...
 
 ### ART. 24.
 
-<p>Binnen de termijn, vermeld in artikel 22, verrichten de personeelsleden van Zorginspectie een onderzoek ter plaatse om na te gaan of voldaan is aan de voorwaarden voor een erkenning of een attest van toezicht voor gezinsopvang of groepsopvang.</p>
-
-<p><br>
-Zorginspectie maakt een verslag met advies op over het onderzoek, vermeld in het eerste lid, en bezorgt dat aan het agentschap.</p>
+...
 
 ### ART. 25.
 
-De beslissing tot toekenning, gedeeltelijke toekenning of weigering van een erkenning of een attest van toezicht voor gezinsopvang of groepsopvang bevat minstens de volgende gegevens :<br>
-1° de naam en het ondernemingsnummer van de organisator;<br>
-2° de naam en het adres van de opvanglocatie;<br>
-3° het dossiernummer;<br>
-4° de beslissing;<br>
-5° in geval van gedeeltelijke toekenning of weigering : de mogelijkheid om bezwaar aan te tekenen en de wijze waarop dat moet gebeuren;<br>
-6° in geval van volledige of gedeeltelijke toekenning :<br>
-a) de ingangsdatum van de erkenning of het attest van toezicht;<br>
-b) het aantal opvangplaatsen waarvoor de erkenning of het attest van toezicht wordt toegekend;<br>
-c) de vermelding dat de erkenning of het attest van toezicht kan worden gewijzigd, geschorst of opgeheven als vastgesteld wordt dat de organisator niet langer voldoet aan de voorwaarden die op hem van toepassing zijn overeenkomstig het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
-7° de datum van de beslissing en een handtekening vanwege het agentschap.
+...
 
 ### ART. 26.
 
-<p>Het agentschap bezorgt de beslissing over de erkenning of het attest van toezicht voor gezinsopvang of groepsopvang, vermeld in artikel 25, uiterlijk vijftien kalenderdagen na de datum van de beslissing aan de organisator :<br>
-1° in geval van toekenning : elektronisch;<br>
-2° in geval van weigering of in geval van toekenning van een lager aantal opvangplaatsen dan gevraagd : elektronisch en met een aangetekende brief.</p>
-
-<p><br>
-Het agentschap brengt het plaatselijke college van burgemeester en schepenen op de hoogte van de genomen beslissing.</p>
+...
 
 ### ART. 27.
 
-Als het agentschap geen beslissing heeft genomen of de organisator daarvan niet op de hoogte heeft gebracht binnen de termijnen die van toepassing zijn, wordt de erkenning of het attest van toezicht geacht toegekend te zijn voor het gevraagde aantal opvangplaatsen, op voorwaarde dat de organisator een ontvangstmelding van het agentschap heeft ontvangen.
+...
 
 ## Onderafdeling 2. Attest van toezicht voor vakantieopvang
 
 ### ART. 28.
 
-<p>Het agentschap beslist over de gegrondheid van de aanvraag van een attest van toezicht voor vakantieopvang of de aanvraag van aanpassing van een attest van toezicht voor vakantieopvang op basis van de aanvraag uiterlijk dertig kalenderdagen na de datum van de beslissing over de ontvankelijkheid van de aanvraag ervan, vermeld in artikel 17.</p>
-
-<p><br>
-In geval van toekenning, kan het attest van toezicht voor vakantieopvang op zijn vroegste ingaan vanaf de datum van ontvangst van de volledige aanvraag van het attest van toezicht voor vakantieopvang.</p>
+...
 
 ### ART. 29.
 
-De beslissing tot toekenning, gedeeltelijke toekenning of   weigering van het attest van toezicht voor vakantieopvang of de aanpassing   ervan, bevat minstens de gegevens, vermeld in artikel 25.
+...
 
 ### ART. 30.
 
-<p>Het agentschap bezorgt de beslissing over het attest van toezicht voor vakantieopvang of de aanpassing ervan, vermeld in artikel 29, uiterlijk vijftien kalenderdagen na de datum van de beslissing aan de organisator :<br>
-1° in geval van toekenning : elektronisch;<br>
-2° in geval van weigering of in geval van toekenning van een lager aantal opvangplaatsen dan gevraagd : elektronisch en bij aangetekende brief.</p>
-
-<p><br>
-Het agentschap brengt het plaatselijke college van burgemeester en schepenen op de hoogte van de genomen beslissing.</p>
+...
 
 ### ART. 31.
 
-Als het agentschap geen beslissing heeft genomen of de organisator daarvan niet op de hoogte heeft gebracht binnen de termijnen die van toepassing zijn, wordt het attest van toezicht voor vakantieopvang of de aanpassing ervan geacht toegekend te zijn voor het gevraagde aantal opvangplaatsen, op voorwaarde dat de organisator een ontvangstmelding van het agentschap heeft ontvangen.
+...
 
 ## Afdeling 5. Stopzetting van de erkenning of het attest van toezicht
 
 ### ART. 32.
 
-Als de organisator met een erkenning of een attest van toezicht beslist tot volledige definitieve stopzetting van de werking van de opvanglocatie of gedeeltelijke definitieve stopzetting, zijnde een vermindering van het aantal opvangplaatsen als vermeld in artikel 7, meldt hij dat elektronisch uiterlijk vijf kalenderdagen na de stopzetting aan het agentschap. Hij bezorgt daarbij de volgende gegevens :<br>
-1° de naam, de rechtsvorm en het ondernemingsnummer van de organisator;<br>
-2° de naam en het adres van de opvanglocatie;<br>
-3° het dossiernummer;<br>
-4° de datum van volledige stopzetting of vermindering;<br>
-5° als het geen volledige stopzetting betreft : het aantal opvangplaatsen waarvoor de organisator de vermindering wil;<br>
-5° /1 als het een volledige stopzetting betreft: de reden van stopzetting en, in geval van overname door een andere organisator, de gegevens van de nieuwe organisator;<br>
-6° de datum en de handtekening van de organisator.
+...
 
 ### ART. 33.
 
-Het agentschap bezorgt uiterlijk vijftien kalenderdagen na de datum van ontvangst van de melding de bevestiging van de stopzetting.
+...
 
 ## Afdeling 6. Schorsing, opheffing of wijziging van de erkenning of het attest van toezicht
 
 ### ART. 34.
 
-<p>Als het agentschap het voornemen heeft om de erkenning of het attest van toezicht te schorsen, op te heffen of te wijzigen als vermeld in artikel 60 van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014, brengt het agentschap de organisator op de hoogte van dat voornemen en de motieven ervan.</p>
-
-<p>De organisator kan op dit voornemen en de motieven ervan reageren binnen een door het agentschap bepaalde termijn. Deze termijn bedraagt in elk geval maximum dertig kalenderdagen.</p>
+...
 
 ### ART. 35.
 
-Het agentschap beslist uiterlijk zestig kalenderdagen na ontvangst van het antwoord van de organisator, vermeld in artikel 34, tweede lid, of, bij gebrek aan antwoord, na verloop van de termijn, vermeld in artikel 34, tweede lid, over de schorsing, opheffing of wijziging van de erkenning of het attest van toezicht.
+...
 
 ### ART. 36.
 
-De beslissing tot schorsing, opheffing of wijziging bevat minstens de volgende gegevens :<br>
-1° de naam en het ondernemingsnummer van de organisator;<br>
-2° de naam en het adres van de opvanglocatie;<br>
-3° het dossiernummer;<br>
-4° de beslissing;<br>
-5° de ingangsdatum van de schorsing, opheffing of wijziging;<br>
-6° de mogelijkheid om bezwaar aan te tekenen en de wijze waarop dat moet gebeuren;<br>
-7° de datum van de beslissing en een handtekening vanwege het agentschap.
+...
 
 ### ART. 37.
 
-Het agentschap bezorgt de beslissing tot schorsing, opheffing of wijziging uiterlijk vijftien kalenderdagen na de datum van de beslissing aan de organisator elektronisch en met een aangetekende brief.
+...
 
 ### ART. 38.
 
-Als er ernstige redenen zijn die de opheffing noodzakelijk maken, en in het bijzonder als de veiligheid of de gezondheid van de opgevangen kinderen ernstig in gevaar wordt gebracht, kan het agentschap de erkenning of het attest van toezicht onmiddellijk schorsen of opheffen, zonder het voornemen te uiten, vermeld in artikel 34.
+...
 
 ### ART. 39.
 
-Het agentschap brengt het plaatselijke college van burgemeester en schepenen op de hoogte van de genomen beslissing.
+...
 
 ### ART. 40.
 
-Het agentschap kan de gezinnen van de kinderen die opgevangen worden in de opvangvoorziening wiens erkenning of attest van toezicht geweigerd wordt, en van wie het de woonplaats kent op de hoogte brengen van de genomen beslissing.
+...
 
 ## HOOFDSTUK 3. Attesten in het kader van een erkenning of een attest van toezicht
 
@@ -347,98 +214,51 @@ Het agentschap kan de gezinnen van de kinderen die opgevangen worden in de opvan
 
 ### ART. 41.
 
-<P>De   organisator van groepsopvang vraagt schriftelijk een brandveiligheidsattest aan   bij de burgemeester van de gemeente waar de opvanglocatie ligt.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   aanvraag bevat de volgende gegevens :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de identificatiegegevens en de contactgegevens van de organisator;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   het adres van de opvanglocatie waar de organisator buitenschoolse opvang wil   doen;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   het beoogde aantal opvangplaatsen;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   de intentie of er in de opvanglocatie buitenschoolse opvang 's nachts zal   plaatsvinden;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   de datum vanaf wanneer de brandweerdienst een bezoek ter plaatse kan   brengen;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   het gegeven of de organisator voor de opvanglocatie al over een   brandveiligheidsattest A, B of C beschikt.</P>
+...
 
 ### ART. 42.
 
-De burgemeester geeft de opdracht aan de bevoegde   brandweerdienst om :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   een onderzoek ter plaatse te verrichten naar de naleving van de   brandveiligheidsvoorschriften door de organisator;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   een verslag op te stellen van het onderzoek en dat aan hem te bezorgen. In   voorkomend geval moet het verslag een duidelijke opsomming bevatten van de   niet-nageleefde brandveiligheidsvoorschriften met de vermelding of daardoor de   veiligheid van de kinderen of de medewerkers in het gedrang   komt.
+...
 
 ### ART. 43.
 
-De burgemeester stelt een brandveiligheidsattest op aan de   hand van het verslag dat afgeleverd is door de bevoegde brandweerdienst. Het   brandveiligheidsattest wordt opgesteld als volgt :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   als uit het verslag blijkt dat de opvanglocatie aan de   brandveiligheidsvoorschriften voldoet, een brandveiligheidsattest A, dat van   rechtswege vervalt na verloop van acht jaar of bij uitreiking van een nieuw   brandveiligheidsattest voor dezelfde opvanglocatie en in het geval, vermeld in   artikel 12, derde lid, van het Kwaliteitsbesluit Buitenschoolse Opvang van 16   mei 2014;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   als uit het verslag blijkt dat de opvanglocatie niet volledig aan de   brandveiligheidsvoorschriften voldoet, maar dat de veiligheid van de kinderen en   de medewerkers niet in het gedrang komt, een brandveiligheidsattest B, waarvan   de burgemeester de geldigheidsduur bepaalt die maximaal acht jaar kan   zijn;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   als uit het verslag blijkt dat de opvanglocatie niet volledig aan de   brandveiligheidsvoorschriften voldoet en dat de veiligheid van de kinderen en de   medewerkers in het gedrang komt, een brandveiligheidsattest C, dat alleen   vervalt bij de uitreiking van een nieuw brandveiligheidsattest voor dezelfde   opvanglocatie.
+...
 
 ### ART. 44.
 
-<p>Uiterlijk drie maanden na de ontvangst van de aanvraag van een brandveiligheidsattest bezorgt de burgemeester het brandveiligheidsattest en het bijbehorende verslag van de bevoegde brandweerdienst aan de organisator.</p>
-
-<p><br>
-Als het een brandveiligheidsattest C betreft voor een organisator die al een erkenning of een attest van toezicht heeft voor buitenschoolse opvang op de betreffende opvanglocatie, bezorgt de burgemeester dat brandveiligheidsattest met het bijbehorende verslag van de bevoegde brandweerdienst gelijktijdig aan het agentschap.</p>
+...
 
 ## Onderafdeling 2. Verlenging of omzetting van een brandveiligheidsattest B
 
 ### ART. 45.
 
-<P>De   organisator vraagt uiterlijk vijf maanden voor het verstrijken van de   geldigheidstermijn van het brandveiligheidsattest B een verlenging van het   brandveiligheidsattest B of een omzetting naar een brandveiligheidsattest A aan   bij de burgemeester.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   aanvraag, vermeld in het eerste lid, bevat :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de identificatiegegevens en de contactgegevens van de organisator;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   bij de eerste aanvraag van een verlenging of omzetting : een omschrijving van de   wijze waarop de vastgestelde tekorten verholpen zijn of een stappenplan met een   duidelijke omschrijving van de wijze waarop de vastgestelde tekorten verholpen   zullen worden, met een opgave van de uitvoeringstermijn en de aan te wenden   middelen en de vermelding voor welke tekorten een aanvraag van een afwijking als   vermeld in artikel 48 en 49, ingediend wordt.</P>
+...
 
 ### ART. 46.
 
-<P>Als het de eerste aanvraag van een verlenging of omzetting   betreft, bezorgt de burgemeester de omschrijving of het stappenplan aan de   bevoegde brandweerdienst, die de effectiviteit ervan beoordeelt en advies   daarover geeft aan de burgemeester.</P>  <P><BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Bij   elke volgende aanvraag geeft de burgemeester een opdracht aan de brandweerdienst   als vermeld in artikel 42.</P>
+...
 
 ### ART. 47.
 
-<p>Uiterlijk drie maanden na de ontvangst van de aanvraag van een verlenging of omzetting bezorgt de burgemeester aan de organisator een van de volgende documenten :<br>
-1° een brandveiligheidsattest A en het bijbehorende verslag van de bevoegde brandweerdienst;<br>
-2° het nieuwe brandveiligheidsattest B met een geldigheidstermijn die hij zelf bepaalt, er rekening mee houdend dat de totale geldigheidsduur van een brandveiligheidsattest B maximaal acht jaar is, en het bijbehorende verslag van de bevoegde brandweerdienst;<br>
-3° het bericht dat het bij aanvang uitgereikte brandveiligheidsattest B niet verlengd kan worden en een brandveiligheidsattest C wordt afgeleverd als :<br>
-a) er geen stappenplan is bezorgd;<br>
-b) uit het advies van de brandweer blijkt dat het stappenplan onvoldoende garanties bevat om op termijn aan de brandveiligheidsvoorschriften te voldoen;<br>
-c) de totale geldigheidsduur van eerdere brandveiligheidsattesten B de maximale duur van acht jaar bereikt heeft.</p>
-
-<p><br>
-In het geval, vermeld in het eerste lid, 3°, brengt de burgemeester ook het agentschap op de hoogte.</p>
+...
 
 ## Afdeling 2. Attest tot afwijking van de voorwaarden over infrastructuur en brandveiligheid
 
 ### ART. 48.
 
-<p>De aanvraag van een afwijking van de voorwaarden over de infrastructuur als vermeld in artikel 57, 1°, van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014, wordt ingediend met het aanvraagformulier van het agentschap, dat de volgende gegevens bevat :<br>
-1° de identificatiegegevens en de contactgegevens van de organisator;<br>
-2° de naam en het adres van de opvanglocatie;<br>
-3° het dossiernummer;<br>
-4° de voorwaarde waarvoor een afwijking wordt gevraagd;<br>
-5° de motivatie waarom een afwijking wordt gevraagd;<br>
-6° de context en een voorstel met maatregelen die een gelijkwaardige veiligheid en kwaliteit kunnen garanderen;<br>
-7° de datum en een handtekening vanwege de organisator.</p>
-
-<p>Naast het aanvraagformulier, vermeld het eerste lid, bezorgt de organisator, met de post of elektronisch, voor de aanvraag van een afwijking van de voorwaarde, vermeld in artikel 10 van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014, een berekening van de nettovloeroppervlakte van de speelruimte, vermeld in artikel 10 van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014.<br>
-<br>
-Het agentschap kan naast de informatie en stukken, vermeld in het eerste en tweede lid, bijkomende informatie of stukken opvragen uiterlijk vijftien kalenderdagen na ontvangst van het aanvraagformulier tot afwijking, vermeld in het eerste lid.</p>
-
-<p>Het agentschap bezorgt na ontvangst van de aanvraag een ontvangstmelding.</p>
+...
 
 ### ART. 49.
 
-<p>De aanvraag van een afwijking van de brandveiligheidsvoorschriften, vermeld in artikel 57, 2°, van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014, wordt ingediend bij de technische commissie voor de brandveiligheid met het aanvraagformulier van de technische commissie, dat de volgende gegevens bevat :<br>
-1° de identificatiegegevens en de contactgegevens van de organisator;<br>
-2° de naam, het adres en het aantal opvangplaatsen van de opvanglocatie;<br>
-3° de omschrijving van de opvanglocatie waarvoor een afwijking gevraagd wordt;<br>
-4° de voorwaarde waarvan een afwijking wordt gevraagd;<br>
-5° de motivatie waarom een afwijking wordt gevraagd;<br>
-6° de context en een voorstel met maatregelen die een gelijkwaardige veiligheid en kwaliteit kunnen garanderen;<br>
-7° de datum en een handtekening vanwege de organisator.</p>
-
-<p>Naast het aanvraagformulier, vermeld in het eerste lid, bezorgt de organisator, met de post of elektronisch, minstens de volgende documenten die de gegevens, vermeld in het eerste lid, aantonen :<br>
-1° een duidelijk grondplan van de opvanglocatie op schaal 1/50 of 1/100 met minstens de volgende aanduidingen :<br>
-a) de speelruimtes met alle binnenafmetingen en het aantal kinderen dat er opgevangen zal worden;<br>
-b) de sanitaire ruimte;<br>
-c) de buitenspeelruimte;<br>
-d) ...;<br>
-e) de eventuele andere aanwezige lokalen met benoeming van hun functie;<br>
-2° het verslag van de bevoegde brandweerdienst en, in voorkomend geval, het brandveiligheidsattest, het stappenplan en het advies van de brandweer over dat stappenplan.</p>
-
-<p>De technische commissie kan naast de informatie en stukken, vermeld in het eerste en tweede lid, bijkomende informatie of stukken opvragen na ontvangst van het aanvraagformulier van afwijking, vermeld in het eerste lid.</p>
-
-<p>De technische commissie bezorgt na ontvangst van de aanvraag een ontvangstmelding.</p>
+...
 
 ### ART. 50.
 
-Het agentschap beslist over de aanvraag van een afwijking uiterlijk zestig kalenderdagen na ontvangst van de aanvraag, vermeld in artikel 48, of na de ontvangst van het advies van de technische commissie voor de aanvraag, vermeld in artikel 49, en stuurt de beslissing en het eventuele advies van de technische commissie daarover aan de organisator uiterlijk vijftien kalenderdagen na de beslissing :<br>
-1° als de aanvraag ingewilligd wordt : elektronisch;<br>
-2° als de aanvraag gedeeltelijk of niet ingewilligd wordt : elektronisch en met een aangetekende brief.
+...
 
 ### ART. 51.
 
-Als het agentschap geen beslissing heeft genomen of de organisator daarvan niet op de hoogte heeft gebracht binnen de termijnen die van toepassing zijn, wordt de afwijking geacht toegekend te zijn, op voorwaarde dat de organisator een ontvangstmelding van het agentschap of van de technische commissie heeft ontvangen.
+...
 
 ## Titel 3. Subsidie
 
@@ -446,55 +266,29 @@ Als het agentschap geen beslissing heeft genomen of de organisator daarvan niet 
 
 ### ART. 52.
 
-Het agentschap kent een subsidie toe als aan de volgende voorwaarden is voldaan :<br>
-1° er budget te verdelen is;<br>
-2° een subsidiebelofte is toegekend door het agentschap na een algemene oproep en op basis van de programmatieregels;<br>
-3° de aanvraag van de organisator voor een subsidietoekenning ontvankelijk is;<br>
-4° de organisator, naargelang de subsidie, een erkenning, een attest van toezicht of een vergunning heeft;<br>
-5° de organisator, na onderzoek ten gronde, recht blijkt te hebben op de subsidie.<br>
-Voor de subsidies, vermeld in artikel 12, 32 en 72, 1°, van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014, geldt de voorwaarde, vermeld in het eerste lid, 2°, niet.
+...
 
 ### ART. 53.
 
-Het agentschap kan bij de beoordeling van de vraag of voldaan is aan de voorwaarden om een subsidie te krijgen, rekening houden met de gegevens die blijken uit het dossier en uit een inspectie ter plaatse, alsook met andere elementen die een gegronde indicatie vormen van het gegeven dat de organisator niet aan de voorwaarden voldoet of zal kunnen voldoen.<br>
-<br>
-Als het agentschap het voornemen heeft om de subsidie te weigeren op basis van een gegronde indicatie als vermeld in het eerste lid, wordt de organisator gehoord. Dat heeft geen schorsing van de termijnen, vermeld in artikel 70, 78 en 109, als gevolg.
+...
 
 ### ART. 54.
 
-Een organisator geeft voor een bestaande subsidiebelofte of subsidie elke wijziging van de gegevens of de documenten, vermeld in artikel 58, 59, 80, 93, 96 en 99, elektronisch of met de post door aan het agentschap.
+...
 
 ### ART. 55.
 
-<p>Alle aanvragen van een subsidie worden ingediend met een aanvraagformulier van het agentschap. Elektronische aanvraagformulieren moeten ondertekend worden met een elektronische handtekening.</p>
-
-<p><br>
-In afwijking van het eerste lid kan de organisator die niet beschikt over een Belgische identiteitskaart, een elektronisch aanvraagformulier met de hand ondertekenen en met de post versturen.</p>
+...
 
 ## HOOFDSTUK 2. Programmatieregels en algemene oproep
 
 ### ART. 56.
 
-<p>De subsidies, vermeld in artikel 19, 42, 49, 63 en 72, 2° en 3°, van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014, worden verdeeld op basis van de programmatieregels, vastgesteld door de minister.</p>
-
-<p>De minister bepaalt per uitbreidingsronde :<br>
-1° het totaal te verdelen subsidiebudget;<br>
-2° hoeveel van het te verdelen subsidiebudget bestemd is voor welke subsidie;<br>
-3° hoeveel van het te verdelen subsidiebudget bestemd is voor gezinsopvang, groepsopvang en vakantieopvang;<br>
-4° of er een voorafname is voor bepaalde gebieden of in functie van specifieke situaties;<br>
-5° de criteria die het agentschap hanteert bij de beoordeling;<br>
-6° de wijze waarop het budget effectief verdeeld wordt, waarbij rekening gehouden wordt met het beschikbare aanbod&nbsp;of het aantal schoolgaande kinderen.</p>
+...
 
 ### ART. 57.
 
-Het agentschap doet op basis van de programmatieregels, vermeld in artikel 56, een algemene oproep tot indiening van een aanvraag van een subsidiebelofte, en vermeldt daarbij :<br>
-1° dat het om een standaard vergelijkende procedure gaat waarbij de beslissingen tot subsidiebelofte definitief zijn, ondanks een eventueel bezwaar of beroep tegen een weigeringsbeslissing van een andere aanvrager;<br>
-2° de begindatum en einddatum voor de indiening van een aanvraag van een subsidiebelofte, waarbij de termijn tussen de begindatum en de einddatum minstens twee maanden bedraagt;<br>
-3° de beslissingstermijnen, vermeld in artikel 62 tot en met 74;<br>
-4° het aanvraagformulier dat gebruikt moet worden;<br>
-5° de criteria van ontvankelijkheid en gegrondheid;<br>
-6° het totaal te verdelen subsidiebudget, en de wijze waarop het verdeeld zal worden conform artikel 56;<br>
-7° een raming van het aantal toe te kennen subsidieerbare opvangplaatsen en het soort opvangplaatsen op basis van de bepaling, vermeld in punt 6°.
+...
 
 ## HOOFDSTUK 3. Aanvraag en toekenning van een subsidiebelofte
 
@@ -502,150 +296,105 @@ Het agentschap doet op basis van de programmatieregels, vermeld in artikel 56, e
 
 ### ART. 58.
 
-De aanvraag van een subsidiebelofte wordt ingediend met het aanvraagformulier van het agentschap, dat de volgende gegevens bevat :<br>
-1° de gegevens over de organisator :<br>
-a) de naam, de rechtsvorm, het adres en het ondernemingsnummer van de organisator;<br>
-b) de identiteitsgegevens en de contactgegevens, waaronder minstens de voor- en achternaam, het telefoonnummer en het e-mailadres van de contactpersoon van de organisator;<br>
-2° de context van de aanvraag;<br>
-3° de gewenste startdatum van de subsidies en hoe die realiseerbaar is;<br>
-4° de gegevens over de subsidie die gevraagd wordt :<br>
-a) welke subsidie gevraagd wordt;<br>
-b) voor welke opvangvorm de subsidie gevraagd wordt;<br>
-c) het gevraagde aantal subsidieerbare opvangplaatsen, en meer bepaald voor wat betreft de subsidie voor initiatief buitenschoolse opvang het aantal subsidieerbare opvangplaatsen per opvangmoment;<br>
-5° de gegevens over de wijze waarop de organisator de specifieke dienstverlening zal uitvoeren :<br>
-a) als dat relevant is : de naam en het adres van de opvanglocatie en een situeringsplan in de gemeente;<br>
-b) de gegevens waaruit blijkt dat voldaan is aan de bepalingen van de algemene oproep, vermeld in artikel 57;<br>
-c) de beoogde financieringsbasis voor de werking;<br>
-d) de eventuele samenwerkingsverbanden;<br>
-e) de geplande personeelsformatie;<br>
-6° een verklaring op erewoord over :<br>
-a) het feit dat de persoon die de aanvraag doet, gemachtigd is om te handelen in naam van de organisator;<br>
-b) de kennisname van de voorwaarden voor de specifieke dienstverlening, vermeld in het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014;<br>
-7° de datum en een handtekening vanwege de organisator.
+...
 
 ### ART. 59.
 
-Naast het aanvraagformulier, vermeld in artikel 58, bezorgt de organisator de documenten waaruit blijkt dat voldaan is aan de bepalingen van de algemene oproep, vermeld in artikel 57, met de post of elektronisch, volgens de administratieve richtlijnen van het agentschap.
+...
 
 ### ART. 60.
 
-De aanvraag wordt ingediend binnen de in de algemene oproep   vastgelegde termijn, vermeld in artikel 57.
+...
 
 ### ART. 61.
 
-De organisator die een aanvraag doet na een terugvordering, een stopzetting, een schorsing of een vermindering van een subsidie door het agentschap, bezorgt boven op de documenten, vermeld in artikel 59, bijkomende documenten waaruit blijkt dat de reden waarop de terugvordering, de stopzetting, de schorsing of de vermindering is gebaseerd, niet langer bestaat.
+...
 
 ## [Afdeling 1/1. Subsidiebelofte bij wijziging van de organisator (ing. BVR 21 oktober 2016, art. 33, I: 4 december 2016)]
 
 ### ART 61/1.
 
-Als de organisator van een opvanglocatie die recht heeft op een subsidiebelofte, stopt, vervalt van rechtswege het recht op die subsidiebelofte. Het recht op een subsidiebelofte kan niet worden verhandeld.
+...
 
 ## Afdeling 2. Ontvankelijkheid van de aanvraag
 
 ### ART. 62.
 
-De   aanvraag van een subsidiebelofte is ontvankelijk als de aanvraag aan de volgende   voorwaarden voldoet. De aanvraag :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   wordt ingediend binnen de in de oproep vastgelegde termijnen;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   bevat de nodige gegevens op het aanvraagformulier, vermeld in artikel   58;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   bevat de nodige documenten, vermeld in artikel 59 en 61;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   voldoet aan eventuele bijkomende ontvankelijkheidsvoorwaarden als vermeld in   artikel 57, 5°.
+...
 
 ### ART. 63.
 
-Het agentschap bezorgt na ontvangst van de aanvraag een ontvangstmelding.
+...
 
 ### ART. 64.
 
-Het agentschap beslist over de ontvankelijkheid van de aanvraag uiterlijk dertig kalenderdagen na de datum van de ontvangst van de aanvraag.
+...
 
 ### ART. 65.
 
-<p>Als de aanvraag onvolledig is, meldt het agentschap dat zo snel mogelijk elektronisch aan de organisator. Vanaf die melding wordt de termijn, vermeld in artikel 64, geschorst voor maximaal dertig kalenderdagen zodat de organisator de aanvraag binnen die termijn kan vervolledigen.</p>
+...
 
 ### ART. 66.
 
-De beslissing over de ontvankelijkheid van de aanvraag bevat de volgende gegevens :<br>
-1° de naam en het ondernemingsnummer van de organisator;<br>
-2° de beslissing;<br>
-3° de contactgegevens van het agentschap;<br>
-4° de datum van de beslissing en een handtekening vanwege het agentschap.
+...
 
 ### ART. 67.
 
-Het agentschap bezorgt op de volgende wijze de beslissing over de ontvankelijkheid van de aanvraag uiterlijk vijftien kalenderdagen na de datum van de beslissing aan de organisator :<br>
-1° als de aanvraag ontvankelijk is : elektronisch;<br>
-2° als de aanvraag onontvankelijk is : elektronisch en met een aangetekende brief.
+...
 
 ### ART. 68.
 
-Als het agentschap geen beslissing heeft genomen of de organisator daarvan niet op de hoogte heeft gebracht binnen de termijnen die van toepassing zijn, wordt de aanvraag van een subsidiebelofte geacht ontvankelijk te zijn, op voorwaarde dat de organisator een ontvangstmelding van het agentschap heeft ontvangen.
+...
 
 ## Afdeling 3. Gegrondheid van de aanvraag
 
 ### ART. 69.
 
-Het agentschap maakt een voorstel van verdeling van de beschikbare subsidieerbare plaatsen op basis van het totaal te verdelen subsidiebudget, en de wijze waarop het verdeeld zal worden, vermeld in artikel 57, 6°.
+...
 
 ### ART. 70.
 
-Het agentschap beslist over de gegrondheid van de aanvraag van een subsidiebelofte op basis van het voorstel van verdeling uiterlijk negentig kalenderdagen na de einddatum voor de indiening van de aanvraag van een subsidiebelofte. Als die termijn van negentig kalenderdagen geheel of gedeeltelijk in de maand juli of augustus valt, wordt de termijn met dertig kalenderdagen verlengd.
+...
 
 ### ART. 71.
 
-Het agentschap kan tijdens de termijn, vermeld in artikel 70, bijkomende gegevens vragen aan de organisator. De organisator bezorgt die gegevens binnen de door het agentschap bepaalde termijn.
+...
 
 ### ART. 72.
 
-<p>De beslissing tot toekenning, gedeeltelijke toekenning of weigering van een subsidiebelofte bevat minstens de volgende gegevens :<br>
-1° de naam en het ondernemingsnummer van de organisator;<br>
-2° de beslissing;<br>
-3° in geval van toekenning of gedeeltelijke toekenning :<br>
-a) de startdatum en de einddatum van de subsidiebelofte;<br>
-b) het aantal subsidieerbare opvangplaatsen en het soort subsidie waarvoor een subsidiebelofte wordt toegekend;<br>
-c) de vermelding dat de subsidiebelofte gedeeltelijk of volledig kan worden stopgezet als vastgesteld wordt dat er een gegronde indicatie is als vermeld in artikel 53;<br>
-d) de mogelijkheid en de modaliteiten om een verlenging van de subsidiebelofte te vragen;<br>
-4° in geval van gedeeltelijke toekenning of weigering : de mogelijkheid om bezwaar aan te tekenen en de wijze waarop dat moet gebeuren;<br>
-5° in geval van weigering van de subsidiebelofte : de vermelding van het gevolg daarvan, meer bepaald dat er geen subsidie toegekend kan worden;<br>
-6° de datum van de beslissing en een handtekening vanwege het agentschap.</p>
+...
 
 ### ART. 73.
 
-Het agentschap bezorgt op de volgende wijze de beslissing over de subsidiebelofte uiterlijk vijftien kalenderdagen na de datum van de beslissing aan de organisator :<br>
-1° in geval van toekenning : elektronisch;<br>
-2° in geval van weigering of gedeeltelijke toekenning : elektronisch en met een aangetekende brief.
+...
 
 ### ART. 74.
 
-<p>Als het agentschap geen beslissing heeft genomen of de organisator daarvan niet op de hoogte heeft gebracht binnen de termijnen die van toepassing zijn, wordt de subsidiebelofte geacht geweigerd te zijn. Het agentschap kan nadien nog een andere beslissing nemen.</p>
+...
 
 ## Afdeling 4. Verlenging van de subsidiebelofte
 
 ### ART. 75.
 
-<p>De subsidiebelofte heeft een geldigheidsduur van één jaar. De organisator kan eenmalig een verlenging vragen van de subsidiebelofte bij het agentschap voor maximaal dezelfde geldigheidsduur als in aanvang.</p>
-
-<p>Als de subsidiebelofte binnen de geldigheidsduur niet omgezet is in een subsidietoekenning, vervalt de subsidiebelofte van rechtswege.</p>
+...
 
 ### ART. 76.
 
-De aanvraag van een verlenging wordt uiterlijk dertig kalenderdagen voor de einddatum van de geldigheid van de subsidiebelofte bezorgd aan het agentschap.
+...
 
 ### ART. 77.
 
-De aanvraag van een verlenging wordt ingediend met het aanvraagformulier van het agentschap dat de volgende gegevens bevat :<br>
-1° de naam en het ondernemingsnummer van de organisator;<br>
-2° de vermelding voor welke subsidiebelofte een verlenging wordt aangevraagd;<br>
-3° de redenen waarom de aanvankelijke termijn niet gehaald is;<br>
-4° de motivatie waarom de omzetting in een subsidietoekenning na een verlenging van de termijn wel realiseerbaar is.
+...
 
 ### ART. 78.
 
-Het agentschap beslist over de aanvraag van een verlenging uiterlijk dertig kalenderdagen na de ontvangst van de aanvraag, vermeld in artikel 77.
+...
 
 ## Afdeling 5. Opheffing van de subsidiebelofte
 
 ### ART. 79.
 
-Het agentschap kan de subsidiebelofte eenzijdig opheffen in de volgende gevallen :<br>
-1° als het agentschap vaststelt dat er ernstige redenen zijn die de opheffing noodzakelijk maken;<br>
-2° als de elementen van het ingediende dossier grondig gewijzigd worden.
+...
 
 ## HOOFDSTUK 4. Aanvraag, toekenning en stopzetting van de subsidie
 
@@ -655,237 +404,145 @@ Het agentschap kan de subsidiebelofte eenzijdig opheffen in de volgende gevallen
 
 ### ART. 80.
 
-De aanvraag van een subsidie na een subsidiebelofte wordt ingediend met het aanvraagformulier van het agentschap, dat de volgende gegevens bevat :<br>
-1° de datum vanaf wanneer de organisator de subsidies effectief wil laten ingaan;<br>
-2° de gegevens over de organisator :<br>
-a) de naam, de rechtsvorm, het adres, het rekeningnummer en het ondernemingsnummer van de organisator. Als de organisator een feitelijke vereniging is, moet het rekeningnummer slaan op de feitelijke vereniging zelf;<br>
-b) de identiteitsgegevens en de contactgegevens, waaronder minstens de voor- en achternaam, het telefoonnummer en het e-mailadres van de contactpersoon van de organisator;<br>
-3° de gegevens over de organisatie van de buitenschoolse opvang waarvoor de subsidietoekenning wordt aangevraagd :<br>
-a) het gevraagde aantal subsidieerbare opvangplaatsen, en meer bepaald voor wat betreft de subsidie voor initiatief buitenschoolse opvang het aantal subsidieerbare opvangplaatsen per opvangmoment;<br>
-b) de verwijzing naar de subsidiebelofte;<br>
-c) de opvanglocatie waar de organisator de specifieke dienstverlening zal aanbieden;<br>
-4° een verklaring op erewoord over :<br>
-a) het feit dat de persoon die de aanvraag doet, gemachtigd is om te handelen in naam van de organisator;<br>
-b) de kennisname van de voorwaarden voor de specifieke dienstverlening, vermeld in het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014;<br>
-5° de datum en een handtekening vanwege de organisator.
+...
 
 ### ART. 81.
 
-<p>De aanvraag van een subsidie na een subsidiebelofte wordt ingediend op zijn vroegste zes maanden voor de datum waarop de organisator de subsidies wil laten ingaan.</p>
-
-<p>Als de organisator nog niet hetzelfde aantal opvangplaatsen met een erkenning of attest van toezicht heeft als waarvoor hij een subsidie aanvraagt, kan de aanvraag bovendien alleen gedaan worden als er gelijktijdig voor hetzelfde aantal opvangplaatsen een aanvraag van een erkenning of een attest van toezicht, naargelang de subsidie, wordt ingediend. In dat geval wordt de aanvraag van een subsidie, waarvoor de organisator opvangplaatsen nodig heeft met een erkenning of attest van toezicht, als ontvangen beschouwd op de datum van beslissing tot erkenning of attest van toezicht voor het nodige aantal opvangplaatsen.</p>
-
-<p>De subsidie die toegekend wordt aan een organisator met een vergunning kan op zijn vroegste ingaan vanaf de dag van de beslissing van het agentschap, tenzij de subsidiebelofte het anders bepaalt.</p>
-
-<p>De subsidie die toegekend wordt aan een organisator met een erkenning of attest van toezicht kan op zijn vroegste ingaan op de datum dat de organisator voldoende opvangplaatsen met een erkenning of attest van toezicht heeft en op zijn vroegste op de ingangsdatum van de subsidiebelofte. De ingangsdatum van de subsidie kan in elk geval maximum 6 maanden voorafgaan aan de datum van beslissing tot subsidietoekenning.</p>
+...
 
 ### ART. 82.
 
-De organisator die een aanvraag doet na een eerdere aanvraag van een subsidie die geweigerd is, of van wie een eerdere subsidie teruggevorderd, verminderd, geschorst of volledig stopgezet is door het agentschap, bezorgt bijkomende documenten waaruit blijkt dat de reden waarop de voorafgaande weigering, terugvordering, vermindering, schorsing of stopzetting is gebaseerd, niet langer bestaat.
+...
 
 ### ART. 83.
 
-De toekenning van de subsidie geldt voor maximaal tien   jaar.
+...
 
 ## Onderafdeling 2. Aanvraag van een bevestiging van subsidie na een reeds toegekende subsidie
 
 ### ART. 84.
 
-De organisator die na verloop van tien jaar verder gesubsidieerd wil worden, dient een aanvraag van een bevestiging van de subsidie bij het agentschap in volgens een vereenvoudigde procedure. De aanvraag kan op zijn vroegste zes maanden en uiterlijk dertig kalenderdagen voor het verstrijken van de termijn van tien jaar vanaf de eerste subsidieerbare opvangplaats van de organisator ingediend worden.
+...
 
 ### ART. 85.
 
-De aanvraag van een bevestiging van subsidie wordt ingediend met het aanvraagformulier van het agentschap dat de volgende gegevens bevat :<br>
-1° de gegevens over de organisator, meer bepaald de naam, de rechtsvorm, het adres en het ondernemingsnummer van de organisator;<br>
-2° het aantal en de soort subsidieerbare opvangplaatsen waarvoor een bevestiging gevraagd wordt;<br>
-3° een verklaring op erewoord over het feit dat de persoon die de aanvraag doet, gemachtigd is om te handelen in naam van de organisator;<br>
-4° de datum en een handtekening vanwege de organisator.
+...
 
 ### ART. 86.
 
-Als het agentschap de bevestiging van de subsidie toekent, geldt ook die voor maximaal tien jaar. Vanaf dan volgt de organisator altijd de vereenvoudigde procedure tot bevestiging van de subsidie, vermeld in artikel 84 en 85, zolang de organisator verdere subsidiëring wil.
+...
 
 ## Onderafdeling 3. Aanvraag van een wijziging van een subsidietoekenning bij verhuizing
 
 ### ART. 87.
 
-De organisator van groepsopvang of gezinsopvang die een wijziging van de toekenning van de subsidie, vermeld in artikel 19, 42, 49, 63 en 72, 2° en 3°, van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014, wil, meer bepaald een overheveling van subsidieerbare opvangplaatsen naar een andere gemeente voor groepsopvang of naar een andere zorgregio voor gezinsopvang, wanneer de opvanglocatie verhuist, dient daarvoor een aanvraag in bij het agentschap.
+...
 
 ### ART. 88.
 
-<p>De aanvraag van een wijziging van een subsidietoekenning wordt ingediend met het aanvraagformulier van het agentschap, dat de volgende gegevens bevat :<br>
-1° de gegevens over de organisator :<br>
-a) de naam, de rechtsvorm, het adres en het ondernemingsnummer van de organisator;<br>
-b) de identiteitsgegevens en de contactgegevens, waaronder minstens de voor- en achternaam, het telefoonnummer en het e-mailadres van de contactpersoon van de organisator;<br>
-2° de gemeente naar waar de subsidieerbare opvangplaatsen worden overgeheveld en de datum vanaf wanneer die wijziging mag ingaan;<br>
-3° een motivering van de aanvraag;<br>
-4° een verklaring op erewoord over het feit dat de persoon die de aanvraag doet, gemachtigd is om te handelen in naam van de organisator;<br>
-5° de datum en de handtekening van de organisator.</p>
+...
 
 ### ART. 89.
 
-<p>Het agentschap kan de aanvraag van een wijziging van een subsidietoekenning toekennen in de volgende gevallen :<br>
-1° de nieuwe opvanglocatie bevindt zich op korte afstand van de opvanglocatie waar de subsidieerbare opvangplaatsen zich bevonden;<br>
-2° de organisator kan aantonen dat de gemeente of de zorgregio waarnaar de opvanglocatie verhuist, een grotere nood heeft aan buitenschoolse opvang dan de gemeente of de zorgregio waar de opvanglocatie was;<br>
-3° zowel het lokaal bestuur van de gemeente van waaruit de opvanglocatie vertrekt als het lokaal bestuur waarnaar de opvanglocatie verhuist, geeft een positief advies over de verhuizing.</p>
-
-<p>Voor de organisator van gezinsopvang is de voorwaarde, vermeld in het eerste lid, 3°, niet van toepassing.</p>
+...
 
 ### ART. 90.
 
-Als het agentschap een wijziging van de subsidietoekenning toekent, gaat die op zijn vroegste in op de dag dat de opvanglocatie op het nieuwe adres een erkenning of attest van toezicht heeft.
+...
 
 ## Onderafdeling 4. Aanvraag van een subsidietoekenning bij wijziging van de organisator
 
 ### ART. 91.
 
-<p>Als de organisator van een opvanglocatie die recht heeft op subsidie en voldoet aan de subsidievoorwaarden, wijzigt, vervalt van rechtswege het recht op die subsidie voor de nieuwe organisator. Het recht op subsidies kan niet worden verhandeld.</p>
-
-<p>De nieuwe organisator kan dezelfde subsidietoekenning vragen bij het agentschap buiten een algemene oproep, zodat hij de specifieke dienstverlening, verbonden aan de subsidie, kan uitvoeren zodra hij een erkenning, attest van toezicht of vergunning krijgt voor de opvanglocatie en onder de volgende voorwaarden :<br>
-1° de nieuwe organisator neemt de reeds gesloten schriftelijke overeenkomsten met de gezinnen voor buitenschoolse opvang over van de vorige organisator;<br>
-2° de buitenschoolse opvang vindt plaats op dezelfde opvanglocatie;<br>
-3° de nieuwe organisator dient uiterlijk zeven kalenderdagen voor de officiële wijziging van de organisator ingaat, de aanvraag van een subsidietoekenning bij wijziging van de organisator in bij het agentschap;<br>
-4° de vorige organisator doet schriftelijk afstand van zijn recht op voorbehoud, vermeld in artikel 8 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014.</p>
+...
 
 ### ART. 92.
 
-<p>De aanvraag van een subsidietoekenning bij wijziging van de organisator wordt ingediend met het aanvraagformulier van het agentschap dat de gegevens, vermeld in artikel 80, bevat en een verklaring op erewoord over het voldoen aan de voorwaarden, vermeld in artikel 91, tweede lid, 1°, 2° en 4°.</p>
-
-<p>De subsidietoekenning bij wijziging van de organisator gaat ten vroegste in op de dag dat de nieuwe organisator een erkenning of attest van toezicht heeft.</p>
+...
 
 ## Onderafdeling 5. Aanvraag van een subsidie voor basisaanbod buitenschoolse opvang
 
 ### ART. 93.
 
-<p>De aanvraag van een subsidie voor basisaanbod buitenschoolse opvang wordt ingediend met het aanvraagformulier van het agentschap, dat de volgende gegevens bevat :<br>
-1° de gegevens over de organisator :<br>
-a) de naam, de rechtsvorm, het adres, het rekeningnummer en het ondernemingsnummer van de organisator. Als de organisator een feitelijke vereniging is, moet het rekeningnummer slaan op de feitelijke vereniging zelf;<br>
-b) de identiteitsgegevens en de contactgegevens, waaronder minstens de voor- en achternaam, het telefoonnummer en het e-mailadres van de contactpersoon van de organisator;<br>
-2° de naam en het adres van de opvanglocatie;<br>
-3° de openingsdagen en de openingsuren van de opvanglocatie;<br>
-4° een verklaring op erewoord over het voldoen aan de voorwaarden voor de specifieke dienstverlening, vermeld in artikel 15 tot en met 18 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014.</p>
-
-<p>Naast het aanvraagformulier, vermeld in het eerste lid, bezorgt de organisator met de post of elektronisch, volgens de administratieve richtlijnen van het agentschap, een kwalificatiebewijs als vermeld in artikel 17 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014.</p>
+...
 
 ### ART. 94.
 
-<p>De subsidie voor basisaanbod buitenschoolse opvang kan op zijn vroegst ingaan vanaf de startdatum van het attest van toezicht.</p>
-
-<p>De subsidie voor basisaanbod buitenschoolse opvang gaat in vanaf de startdatum van het attest van toezicht als de volledige aanvraag uiterlijk zestig kalenderdagen na de beslissing tot toekenning van het attest van toezicht wordt bezorgd aan het agentschap.</p>
-
-<p>De subsidie voor basisaanbod buitenschoolse opvang gaat op zijn vroegste in op de datum van de volledige aanvraag als die aanvraag later dan zestig kalenderdagen na de beslissing tot toekenning van het attest van toezicht wordt bezorgd aan het agentschap.</p>
+...
 
 ### ART. 95.
 
-<P>De subsidietoekenning geldt voor maximaal tien jaar. De   organisator die na verloop van tien jaar verder gesubsidieerd wil worden, volgt   de procedure, vermeld in artikel 84 tot en met 86.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Bij   verhuizing van een opvanglocatie binnen dezelfde gemeente, behoudt de   organisator het recht op voorbehoud van de subsidie. Bij wijziging van de   organisator van de opvanglocatie met een subsidietoekenning, gelden de   mogelijkheid, de procedure en de voorwaarden, vermeld in artikel 91 en   92.</P>
+...
 
 ## Onderafdeling 6. Aanvraag van een subsidie voor kinderen uit achtergestelde gebieden
 
 ### ART. 96.
 
-De aanvraag van een subsidie voor kinderen uit achtergestelde gebieden wordt ingediend met het aanvraagformulier van het agentschap, dat de volgende gegevens bevat :<br>
-1° de gegevens over de organisator :<br>
-a) de naam, de rechtsvorm, het adres, het rekeningnummer en het ondernemingsnummer van de organisator. Als de organisator een feitelijke vereniging is, moet het rekeningnummer slaan op de feitelijke vereniging zelf;<br>
-b) de identiteitsgegevens en de contactgegevens, waaronder minstens de voor- en achternaam, het telefoonnummer en het e-mailadres van de contactpersoon van de organisator;<br>
-2° de naam en het adres van de opvanglocatie;<br>
-3° de openingsdagen en de openingsuren van de opvanglocatie;<br>
-4° een verklaring op erewoord dat de organisator het voorgaande kalenderjaar heeft voldaan aan de voorwaarden voor de specifieke dienstverlening, vermeld in artikel 35 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014.
+...
 
 ### ART. 97.
 
-De aanvraag van een subsidie voor kinderen uit achtergestelde   gebieden wordt ingediend in het kalenderjaar dat volgt op het kalenderjaar   waarin de organisator de specifieke dienstverlening heeft   uitgevoerd.
+...
 
 ### ART. 98.
 
-De subsidietoekenning geldt voor het jaar waarin de   specifieke dienstverlening gerealiseerd wordt.
+...
 
 ## Onderafdeling 7. Aanvraag van een subsidie voor individuele inclusieve buitenschoolse opvang
 
 ### ART. 99.
 
-<p>De aanvraag van een subsidie voor individuele inclusieve buitenschoolse opvang wordt ingediend, per opgevangen kind met specifieke zorgbehoefte, met het aanvraagformulier van het agentschap, dat de volgende gegevens bevat :<br>
-1° de datum vanaf wanneer en tot wanneer de organisator de subsidies wil krijgen;<br>
-2° de identiteitsgegevens en de contactgegevens van de organisator, waaronder de naam, de rechtsvorm, het adres, het rekeningnummer en het ondernemingsnummer van de organisator. Als de organisator een feitelijke vereniging is, moet het rekeningnummer slaan op de feitelijke vereniging zelf;<br>
-3° de identiteitsgegevens en de contactgegevens van de persoon die meer informatie kan geven over de aanvraag, waaronder de voor- en achternaam, het telefoonnummer en het e-mailadres van die persoon;<br>
-4° de gegevens over de opvanglocatie waar het kind opgevangen wordt, waaronder de opvangvorm, het dossiernummer, de naam en het adres;<br>
-5° de identiteitsgegevens van het kind voor wie de subsidie wordt aangevraagd, waaronder de voor- en achternaam, de geboortedatum, een uniek identificatienummer en de datum waarop de buitenschoolse opvang start;<br>
-5° /1 een attest van een professionele deskundige die niet verbonden is aan de organisator, waarin de problematiek van het kind beschreven wordt, en de duurtijd van de problematiek die specifieke zorg in het kader van kinderopvang noodzakelijk maakt;<br>
-6° de omschrijving van de specifieke zorg die het kind nodig heeft, en hoe de organisator voldoet aan de bepaling, vermeld in artikel 75 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014, en met een toelichting hoe dat gelinkt wordt aan de problematiek van het kind die blijkt uit het attest van de professionele deskundige, vermeld in punt 5° /1;<br>
-7° de vermelding dat het gezin ingelicht is over de verwerking van de persoonsgegevens van het kind;<br>
-8° een verklaring op erewoord over :<br>
-a) het feit dat de persoon die de aanvraag doet, gemachtigd is om te handelen in naam van de organisator;<br>
-b) de kennisname van de voorwaarden voor de specifieke dienstverlening, vermeld in het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014;<br>
-9° de datum en een handtekening vanwege de organisator.</p>
+...
 
 ### ART. 100.
 
-Als het agentschap de aanvraag van een subsidie voor individuele inclusieve buitenschoolse opvang toekent, kan die subsidie toegekend worden vanaf de eerste dag dat het kind met een specifieke zorgbehoefte in de opvanglocatie opgevangen wordt, met een maximale terugwerking van zes maanden ten opzichte van de datum van de aanvraag.
+...
 
 ### ART. 101.
 
-Het agentschap kan de subsidie voor individuele inclusieve buitenschoolse opvang toekennen :<br>
-1° voor onbepaalde duur, voor de periode dat het kind in de opvanglocatie opgevangen wordt;<br>
-2° voor bepaalde duur, voor de periode dat er een specifieke zorgbehoefte aanwezig is.
+...
 
 ## [Onderafdeling 8. Aanvraag van een subsidie voor ex-generatiepact (ing. BVR 6 oktober 2017, art. 10, I: 15 maart 2017)]
 
 ### ART 101/1.
 
-De aanvraag van een subsidie voor ex-generatiepact als vermeld in artikel 89/1 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014, wordt ingediend met het aanvraagformulier van het agentschap, dat de volgende gegevens bevat:<br>
-1° de naam, de rechtsvorm en het ondernemingsnummer van de organisator;<br>
-2° het aantal en welke plaatsen ex-generatiepact dat wordt aangevraagd;<br>
-3° de reden waarom de aanvraag wordt ingediend;<br>
-4° de datum vanaf wanneer de organisator de subsidies wenst te ontvangen;<br>
-5° de gegevens van de opvanglocatie waar de organisator de subsidies zal inzetten;<br>
-6° de verklaring of er al voldoende erkende opvangplaatsen beschikbaar zijn of dat deze nog moeten worden aangevraagd.
+...
 
 ## Afdeling 2. Ontvankelijkheid van de aanvraag
 
 ### ART. 102.
 
-Het agentschap stuurt na ontvangst van de aanvraag een ontvangstmelding aan de organisator.
+...
 
 ### ART. 103.
 
-Het agentschap beslist over de ontvankelijkheid van de aanvragen, vermeld in artikel 80 tot en met 101/1, uiterlijk dertig kalenderdagen na de datum van de ontvangst van de aanvraag.
+...
 
 ### ART. 104.
 
-<p>Als de aanvraag onvolledig is, meldt het agentschap dat zo snel mogelijk elektronisch aan de organisator. Vanaf die melding wordt de termijn, vermeld in artikel 103, geschorst voor maximaal dertig kalenderdagen zodat de organisator de aanvraag binnen die termijn kan vervolledigen.</p>
+...
 
 ### ART. 105.
 
-De aanvraag is ontvankelijk als de aanvraag aan de volgende voorwaarden voldoet. De aanvraag :<br>
-1° wordt binnen de vastgelegde termijnen ingediend;<br>
-2° wordt ingediend met het aanvraagformulier van het agentschap en volgens de richtlijnen van het agentschap;<br>
-3° bevat de nodige gegevens;<br>
-4° bevat de nodige documenten;<br>
-5° wordt ingediend met een geldige subsidiebelofte, met uitzondering voor de subsidie voor basisaanbod buitenschoolse opvang, de subsidie voor kinderen uit achtergestelde gebieden en de subsidie voor individuele inclusieve buitenschoolse opvang;<br>
-6° de organisator heeft de rechtsvorm die noodzakelijk is om de subsidie te ontvangen.
+...
 
 ### ART. 106.
 
-De beslissing over de ontvankelijkheid van de aanvraag bevat de volgende gegevens :<br>
-1° de naam en het ondernemingsnummer van de organisator;<br>
-2° de beslissing;<br>
-3° de contactgegevens van het agentschap;<br>
-4° de datum van de beslissing en een handtekening vanwege het agentschap.
+...
 
 ### ART. 107.
 
-Het agentschap bezorgt op de volgende wijze de beslissing over de ontvankelijkheid van de aanvraag uiterlijk vijftien kalenderdagen na de datum van de beslissing aan de organisator :<br>
-1° als de aanvraag ontvankelijk is : elektronisch;<br>
-2° als de aanvraag onontvankelijk is : elektronisch en met een aangetekende brief.
+...
 
 ### ART. 108.
 
-Als het agentschap geen beslissing heeft genomen of de organisator daarvan niet op de hoogte heeft gebracht binnen de termijnen die van toepassing zijn, wordt de aanvraag van een subsidie geacht ontvankelijk te zijn, op voorwaarde dat de organisator een ontvangstmelding van het agentschap heeft ontvangen.
+...
 
 ## Afdeling 3. Gegrondheid van de aanvraag
 
 ### ART. 109.
 
-Het agentschap beslist over de gegrondheid van de aanvraag, vermeld in artikel 80 tot en met 101, uiterlijk zestig kalenderdagen na de datum van de beslissing over de ontvankelijkheid van de aanvraag van een subsidietoekenning, vermeld in artikel 103.
+...
 
 ### ART. 110.
 
@@ -893,157 +550,93 @@ Het agentschap beslist over de gegrondheid van de aanvraag, vermeld in artikel 8
 
 ### ART. 111.
 
-De beslissing tot toekenning, gedeeltelijke toekenning of weigering van een aanvraag als vermeld in artikel 80 tot en met 101/1, bevat minstens de volgende gegevens :<br>
-1° de naam en het ondernemingsnummer van de organisator;<br>
-2° de beslissing;<br>
-3° in geval van toekenning of gedeeltelijke toekenning :<br>
-a) de begindatum en de einddatum van de subsidie;<br>
-b) het aantal opvangplaatsen waarvoor de subsidie wordt toegekend;<br>
-c) de opvanglocatie of het gebied waaraan de subsidies worden toegekend;<br>
-d) de vermelding dat de subsidie kan worden verminderd, geschorst of stopgezet als vastgesteld wordt dat de organisator niet langer voldoet aan de subsidievoorwaarden, met behoud van de toepassing van artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof;<br>
-4° in geval van gedeeltelijke toekenning of weigering van de subsidie : de mogelijkheid om bezwaar aan te tekenen en de wijze waarop dat moet gebeuren;<br>
-5° in geval van weigering van de subsidie : de vermelding van het gevolg daarvan, meer bepaald dat er geen subsidies zullen worden uitbetaald;<br>
-6° de datum van de beslissing en een handtekening vanwege het agentschap.
+...
 
 ### ART. 112.
 
-Het agentschap bezorgt op de volgende wijze de beslissing over de subsidietoekenning uiterlijk vijftien kalenderdagen na de datum van de beslissing aan de organisator :<br>
-1° in geval van toekenning : elektronisch;<br>
-2° in geval van weigering of in geval van toekenning van een lager aantal subsidieerbare opvangplaatsen dan gevraagd : elektronisch en met een aangetekende brief.
+...
 
 ### ART. 113.
 
-Als het agentschap geen beslissing heeft genomen of de organisator daarvan niet op de hoogte heeft gebracht binnen de termijnen die van toepassing zijn, wordt de subsidie geacht toegekend te zijn, op voorwaarde dat de organisator een ontvangstmelding van het agentschap heeft ontvangen.
+...
 
 ## Afdeling 4. Heractiveren van een toekenning van subsidie voor structurele inclusieve kinderopvang na subsidie voor Centrum inclusieve kinderopvang
 
 ### ART. 114.
 
-<p>Conform artikel 73, 2°, van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014 kan de subsidie voor structurele inclusieve buitenschoolse opvang niet gecumuleerd worden met de subsidie voor een Centrum inclusieve kinderopvang. De subsidieerbare opvangplaatsen met een subsidie voor structurele inclusieve buitenschoolse opvang van een organisator die daarna in dezelfde zorgregio een subsidie voor een Centrum inclusieve kinderopvang toegekend krijgt, zullen in de periode dat de subsidie voor een Centrum inclusieve kinderopvang betaald wordt, niet gesubsidieerd worden.</p>
-
-<p>Als de subsidie voor een Centrum inclusieve kinderopvang van de organisator stopt, kan hij een aanvraag indienen volgens de richtlijnen van het agentschap om de subsidieerbare opvangplaatsen met een subsidie voor structurele inclusieve buitenschoolse opvang aansluitend te laten heractiveren.</p>
-
-<p>De aanvraag, vermeld in het tweede lid, wordt ingediend :<br>
-1° met het aanvraagformulier van het agentschap;<br>
-2° uiterlijk dertig kalenderdagen voor de stopzetting van de subsidies voor Centrum inclusieve kinderopvang;<br>
-3° als de organisator voldoet aan de voorwaarden voor de subsidie voor structurele inclusieve buitenschoolse opvang, vermeld in artikel 80 tot en met 83, van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014.</p>
-
-<p>Als voldaan is aan de voorwaarden, vermeld in het derde lid, zal het agentschap de subsidieerbare opvangplaatsen met subsidie voor structurele inclusieve buitenschoolse opvang waarover de organisator voordien beschikte, heractiveren vanaf het moment dat de subsidie voor Centrum inclusieve kinderopvang stopt.</p>
+...
 
 ## Afdeling 5. Stopzetting van de subsidie door de organisator
 
 ### ART. 115.
 
-<p>Als de organisator de specifieke dienstverlening niet meer wil uitvoeren en de bijbehorende subsidie niet meer wil ontvangen, kan hij beslissen tot volledige stopzetting of gedeeltelijke stopzetting van de subsidie. In dat geval meldt hij dat uiterlijk een maand voor de stopzetting elektronisch aan het agentschap. Hij bezorgt daarbij de volgende gegevens :<br>
-1° het ondernemingsnummer van de organisator;<br>
-2° het dossiernummer;<br>
-3° het aantal subsidieerbare opvangplaatsen dat wordt stopgezet en de opvanglocatie;<br>
-4° de datum van de stopzetting;<br>
-5° of hij nog beroep wil doen op een voorbehoud voor die subsidie;<br>
-6° de datum en de handtekening vanwege de organisator.</p>
-
-<p>Het agentschap bezorgt uiterlijk vijftien kalenderdagen na de datum van de ontvangst van de melding de bevestiging van de stopzetting en de gevolgen ervan, meer bepaald dat er geen subsidie meer zal worden uitbetaald, aan de organisator elektronisch en met een aangetekende brief.</p>
-
-<p>In elk geval kan een stopzetting van een subsidie pas ingaan op de eerste dag van de maand die volgt op de melding daarvan aan het agentschap, tenzij de erkenning, het attest van toezicht of de vergunning gelijktijdig wordt stopgezet.</p>
-
-<p>De organisator die zijn subsidie voor werken met inkomenstarief wil stopzetten, voorziet in een redelijke overgangsperiode voor de gezinnen. Bij gebrek daaraan kan het agentschap beslissen tot terugvordering van de betaalde subsidie, vermeld in het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014. De organisator neemt daarover de nodige bepalingen op in de schriftelijke overeenkomst en het huishoudelijk reglement.</p>
+...
 
 ## Afdeling 6. Vermindering, schorsing of stopzetting van subsidie
 
 ### ART. 116.
 
-Het agentschap kan de subsidie verminderen, schorsen of stopzetten als de organisator de voorwaarden die op hem van toepassing zijn, vermeld in het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014, niet naleeft of het toezicht verhindert, met behoud van de toepassing van artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.
+...
 
 ### ART. 117.
 
-<p>Als het agentschap het voornemen heeft om de subsidie te verminderen, te schorsen of stop te zetten, dan brengt het agentschap de organisator op de hoogte van dit voornemen en de motieven ervan.</p>
-
-<p>De organisator heeft dertig kalenderdagen om die motieven te beantwoorden.</p>
+...
 
 ### ART. 118.
 
-Het agentschap beslist uiterlijk zestig kalenderdagen na ontvangst van het antwoord van de organisator, vermeld in artikel 117, tweede lid, of, bij gebrek aan antwoord, na het verlopen van de termijn, vermeld in artikel 117, tweede lid, over de vermindering, schorsing of stopzetting van de subsidie.
+...
 
 ### ART. 119.
 
-De beslissing tot vermindering, schorsing of stopzetting van de subsidie bevat minstens de volgende gegevens :<br>
-1° de naam en het ondernemingsnummer van de organisator;<br>
-2° de naam en het adres van de opvanglocatie;<br>
-3° het dossiernummer;<br>
-4° de beslissing;<br>
-5° de ingangsdatum van de beslissing;<br>
-6° de mogelijkheid om bezwaar aan te tekenen en de wijze waarop dat moet gebeuren;<br>
-7° de datum van de beslissing en een handtekening vanwege het agentschap.
+...
 
 ### ART. 120.
 
-Het agentschap bezorgt de beslissing uiterlijk vijftien kalenderdagen na de datum van de beslissing aan de organisator elektronisch en met een aangetekende brief.
+...
 
 ### ART. 121.
 
-Als er ernstige redenen zijn die de vermindering, schorsing of stopzetting noodzakelijk maken, en in het bijzonder als de veiligheid of de gezondheid van de opgevangen kinderen ernstig in gevaar wordt gebracht, kan het agentschap de subsidie onmiddellijk verminderen, schorsen of stopzetten, zonder het voornemen te uiten, vermeld in artikel 117, met behoud van de toepassing van artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.
+...
 
 ### ART. 122.
 
-Het agentschap brengt het plaatselijk college van burgemeester en schepenen op de hoogte van de genomen beslissing.
+...
 
 ## Titel 4. Bezwaar tegen de beslissing van [het agentschap (verv. BVR 12 maart 2021, art. 336, I: 18 april 2019)]
 
 ### ART. 123.
 
-De organisator kan uiterlijk dertig kalenderdagen na de kennisgeving van de beslissing, vermeld in artikel 22, 28, 35, 70, 78, 109 en 119, bezwaar aantekenen bij het agentschap met een aangetekende brief. De aangetekende brief moet de volgende gegevens bevatten :<br>
-1° de naam en het ondernemingsnummer van de organisator;<br>
-2° de naam en het adres van de opvanglocatie;<br>
-3° het dossiernummer;<br>
-4° de motivering van het bezwaar;<br>
-5° de vermelding of de organisator wil gehoord worden;<br>
-6° de datum en de handtekening van de organisator.
+...
 
 ### ART. 124.
 
-Het agentschap stuurt een elektronische ontvangstmelding en beslist over de ontvankelijkheid van het bezwaar uiterlijk tien kalenderdagen na de datum van de ontvangst van het bezwaar.
+...
 
 ### ART. 125.
 
-Het bezwaar is ontvankelijk als het aan de volgende voorwaarden voldoet. Het bezwaar :<br>
-1° is tijdig en aangetekend aan het agentschap bezorgd als vermeld in artikel 123;<br>
-2° bevat de nodige gegevens, vermeld in artikel 123.
+...
 
 ### ART. 126.
 
-Het bezwaar tegen de beslissingen, vermeld in artikel 22, 28,   34, 70, 78, 109 en 119, wordt ten gronde behandeld en over het bezwaar wordt   beslist volgens de regels die zijn vastgesteld bij of ter uitvoering van   hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van de   Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid   en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en   Gezin en (Kandidaat-)pleegzorgers.
+...
 
 ### ART. 127.
 
-Het bezwaar schort de uitvoering van de beslissing niet   op.
+...
 
 ## [Titel 4/1. Gevolgen van de vrijwillige samenvoeging van gemeenten (ing. BVR 14 september 2018, art. 13, I: 2 november 2018)]
 
 ### ART 127/1.
 
-Als gemeenten waarvan het lokaal bestuur of het OCMW een organisator van buitenschoolse opvang is, samengevoegd worden op basis van het decreet van 22 december 2017 over het lokaal bestuur, zet het agentschap de erkenningen, de attesten van toezicht, de vergunningen, de subsidiebeloftes en de subsidietoekenningen van de samengevoegde gemeenten automatisch stop. Het agentschap kent dan nieuwe erkenningen, attesten van toezicht, vergunningen, subsidiebeloftes en subsidietoekenningen met hetzelfde voorwerp als vóór de samenvoeging toe aan de nieuwe gemeente of het nieuwe OCMW.<br>
-<br>
-De nieuwe gemeente of OCMW behoudt bij ongewijzigde omstandigheden na de samenvoeging van gemeenten voor de subsidie voor initiatief voor buitenschoolse opvang de bedragen voor de verschillende schijven equivalentvolle opvangplaatsen, vermeld in artikel 20 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014, zoals die zijn toegekend aan de samengevoegde gemeenten.<br>
-<br>
-Het agentschap telt de subsidieerbare opvangplaatsen groepsopvang of gezinsopvang met subsidie voor inkomenstarief samen van de samengevoegde gemeenten die vóór de samenvoeging tot verschillende subsidiegroepen groepsopvang of gezinsopvang behoorden, en door de samenvoeging van de gemeenten tot dezelfde subsidiegroep groepsopvang of gezinsopvang behoren.<br>
-<br>
-De procedures voor een samengevoegde gemeente of een samengevoegd OCMW op basis van artikel 58 tot en met 60 van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014 of op basis van artikel 95 tot en met 97 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014 kunnen voortgezet worden in de nieuwe gemeente of het nieuwe OCMW.<br>
-<br>
-Voor de toepassing van artikel 22 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014 zal het agentschap in het kalenderjaar waarin de gemeenten samengevoegd zijn, nagaan of de samengevoegde gemeenten samen de vereiste minimumbezetting haalden tijdens het kalenderjaar voorafgaand aan de samenvoeging. Op basis daarvan volgt de schorsing of de evenredige vermindering van de subsidie.<br>
-<br>
-Het agentschap bezorgt de nieuwe gemeente en het nieuwe OCMW de nieuwe erkenningen, attesten van toezicht, vergunningen, subsidiebeloftes en subsidietoekenningen.
+...
 
 ### ART 127/2.
 
-Als gemeenten samengevoegd worden op basis van het decreet van 22 december 2017 over het lokaal bestuur, past het agentschap de gegevens van de erkenningen, attesten van toezicht, de subsidiebeloftes en de subsidietoekenningen van alle organisatoren in de samengevoegde gemeenten automatisch aan.<br>
-<br>
-Het agentschap telt de subsidieerbare opvangplaatsen groepsopvang samen van een organisator die vóór de samenvoeging van gemeenten opvanglocaties groepsopvang had die tot verschillende gemeenten behoorden, en door de samenvoeging tot dezelfde gemeente behoren.<br>
-<br>
-Het agentschap bezorgt de organisatoren de aangepaste erkenningen, attesten van toezicht, vergunningen, subsidiebeloftes en subsidietoekenningen.
+...
 
 ### ART 127/3.
 
-Voor de subsidieerbare opvangplaatsen, waarvoor een voorbehoud loopt zoals vermeld in artikel 6, tweede lid, 2° van het Subsidiebesluit van 22 november 2013 op het moment van de samenvoeging van de gemeenten, loopt de termijn voorzien in artikel 4, 2°, van het ministerieel besluit tot uitvoering van het van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013, verder.
+...
 
 ## Titel 5. Slotbepalingen
 
@@ -1051,7 +644,7 @@ Voor de subsidieerbare opvangplaatsen, waarvoor een voorbehoud loopt zoals verme
 
 ### ART. 128.
 
-Het   ministerieel besluit van 12 juni 2001 houdende vaststelling van de procedure tot   het verlenen, het verlengen, het weigeren of het intrekken van een principieel   akkoord, een erkenning en subsidiëring van initiatieven voor buitenschoolse   opvang, gewijzigd bij het ministerieel besluit van 13 april 2005, 23 juli 2008,   1 september 2009 en 13 december 2013, wordt opgeheven.
+...
 
 ## HOOFDSTUK 2. Overgangsbepalingen
 
@@ -1059,52 +652,52 @@ Het   ministerieel besluit van 12 juni 2001 houdende vaststelling van de procedu
 
 ### ART. 129.
 
-De   procedures tot het verkrijgen van een attest van toezicht die al lopen op de   datum van de inwerkingtreding van dit besluit, worden verder behandeld en   beoordeeld op basis van de geldende regelgeving van voor de inwerkingtreding van   dit besluit.
+...
 
 ### ART. 130.
 
-De procedures tot het verkrijgen van de financiële   basisondersteuning of een financiële ondersteuning voor flexibele opvang, op   basis van het besluit van de Vlaamse Regering van 13 februari 2009 houdende de   voorwaarden inzake financiële ondersteuning van zelfstandige   opvangvoorzieningen, die al lopen op de datum van de inwerkingtreding van dit   besluit, worden verder behandeld en beoordeeld op basis van de geldende   regelgeving van voor de inwerkingtreding van dit besluit.
+...
 
 ### ART. 131.
 
-De procedures tot het verkrijgen van de subsidie voor   kinderen uit achtergestelde gebieden op basis van het ministerieel besluit van 9   juli 2001 houdende de voorwaarden inzake subsidiëring van initiatieven voor   buitenschoolse opvang die al lopen op de datum van de inwerkingtreding van dit   besluit, worden verder behandeld en beoordeeld op basis van de geldende   regelgeving van voor de inwerkingtreding van dit besluit.
+...
 
 ### ART. 132.
 
-De procedures tot het verkrijgen van een erkenning of   toestemming na een principieel akkoord voor een erkenning of toestemming op   basis van het ministerieel besluit van 12 juni 2001 over vaststelling van   procedure tot het verlenen, het verlengen, het weigeren of het intrekken van een   principieel akkoord, een erkenning en subsidiëring van kinderdagverblijven en   diensten voor onthaalouders of op basis van het ministerieel besluit van 12 juni   2001 houdende vaststelling van de procedure tot het verlenen, het verlengen, het   weigeren of het intrekken van een principieel akkoord, een erkenning en   subsidiëring van initiatieven voor buitenschoolse opvang die al lopen op de   datum van de inwerkingtreding van dit besluit, worden verder behandeld en   beoordeeld op basis van de geldende regelgeving van voor de inwerkingtreding van   dit besluit.
+...
 
 ### ART. 133.
 
-De procedures tot het verkrijgen van een subsidie voor   individuele inclusieve kinderopvang op basis van het ministerieel besluit van 21   april 2009 houdende de voorwaarden tot toekenning van een extra financiële   ondersteuning voor de inclusieve opvang van kinderen met een specifieke   zorgbehoefte aan organiserende besturen en voorzieningen, die al lopen op de   datum van de inwerkingtreding van dit besluit, worden verder behandeld en   beoordeeld op basis van de geldende regelgeving van voor de inwerkingtreding van   dit besluit.
+...
 
 ## Afdeling 2. Omzetting van een principieel akkoord voor erkende plaatsen
 
 ### ART. 134.
 
-Voor de organisatoren die op de datum van de inwerkingtreding van dit besluit een principieel akkoord voor erkende plaatsen met subsidiegarantie hebben van het agentschap op basis van het ministerieel besluit van 12 juni 2001 over vaststelling van procedure tot het verlenen, het verlengen, het weigeren of het intrekken van een principieel akkoord, een erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders of op basis van het ministerieel besluit van 12 juni 2001 houdende vaststelling van de procedure tot het verlenen, het verlengen, het weigeren of het intrekken van een principieel akkoord, een erkenning en subsidiëring van initiatieven voor buitenschoolse opvang, wordt dat akkoord automatisch omgezet in een subsidiebelofte van het agentschap. De subsidiebelofte heeft betrekking op hetzelfde aantal opvangplaatsen dat in aanmerking komt voor een toekenning van subsidie. De initiële geldigheidsduur van het principieel akkoord loopt door en start niet opnieuw bij de omzetting.
+...
 
 ## Afdeling 3. Bestaande organisatoren
 
 ### ART. 135.
 
-Voor organisatoren die op de datum van de inwerkingtreding van dit besluit al een subsidie ontvangen van het agentschap, begint de termijn van tien jaar, vermeld in artikel 83 en 95, te lopen vanaf de inwerkingtreding van dit besluit.
+...
 
 ### ART. 136.
 
-De organisator die op de datum van de inwerkingtreding van   dit besluit een subsidie ontvangt als Centrum inclusieve kinderopvang of een   subsidie voor structurele inclusieve buitenschoolse opvang op basis van het   ministerieel besluit van 21 april 2009 houdende de voorwaarden tot toekenning   van een extra financiële ondersteuning voor de inclusieve opvang van kinderen   met een specifieke zorgbehoefte aan organiserende besturen en voorzieningen,   moet voor de kinderen met een specifieke zorgbehoefte die al opgevangen worden   in de opvanglocatie voor 1 april 2014, geen afzonderlijke aanvraag van een   subsidie voor individuele inclusieve opvang indienen.
+...
 
 ## Afdeling 4. Hangende bezwaren of beroepen
 
 ### ART. 137.
 
-De beroepen of bezwaren die voor 1 april 2014 ingediend zijn bij het agentschap, worden verder behandeld met toepassing van de regels die van kracht waren bij de indiening.
+...
 
 ## HOOFDSTUK 3. Inwerkingtredingsbepaling en uitvoeringbepaling
 
 ### ART. 138.
 
-Dit   besluit heeft uitwerking met ingang van 1 april 2014.
+...
 
 ### ART. 139.
 
-De Vlaamse minister, bevoegd voor de bijstand aan personen,   is belast met de uitvoering van dit besluit.
+...

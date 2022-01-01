@@ -2,16 +2,16 @@
   "codex_id": 1024960,
   "title": "Besluit van de Vlaamse Regering van 2014-12-19 houdende de procedures voor de aanvraag en de toekenning van een erkenning, een attest van toezicht en de subsidies voor buitenschoolse opvang (citeeropschrift: \"Procedurebesluit Buitenschoolse Opvang van 19 december 2014\")",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024960/VolledigDocument?datum=2019-04-18",
-  "source_sha256": "3b585081c09c374f8921c49907229fd5295fd02fb7bc4c615129c784152ace94",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024960/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "65b0d4b3a340b3cc57791758b01d2f85fcb7b735f6c9194a9a1226f65c3022a5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024960&param=informatie",
-  "as_of": "2019-04-18",
+  "as_of": "2022-01-01",
   "made": "2014-12-19",
   "gazette": "2015-02-04",
   "numac": 2015035084,
   "document_start": "2014-04-01",
   "document_end": "2021-12-31",
-  "in_force": "2019-04-18",
+  "in_force": "2022-01-01",
   "article_versions": 147,
-  "record_form": "consolidated version as in force on 2019-04-18; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
 }
