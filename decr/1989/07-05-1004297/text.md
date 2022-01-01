@@ -12,7 +12,9 @@ Voor de toepassing van dit decreet wordt verstaan onder:<br /><br />1° de Vlaam
 
 ### ART. 3.
 
-De kennisgevingen waarin dit decreet voorziet inzake besluiten van de Vlaamse regering of beslis-singen van de Vlaamse Gemeenschapscommissie en van het College gebeuren door het toesturen van een voor eensluidend verklaard afschrift bij ter post aangetekende zending of bij afgifte tegen ontvangstbewijs.
+Elke kennisgeving of verzending, vermeld in dit decreet, gebeurt digitaal.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze waarop de kennisgeving of verzending, vermeld in het eerste lid, gebeurt.
 
 ## HOOFDSTUK II HET ALGEMEEN ADMINISTRATIEF TOEZICHT
 
@@ -44,9 +46,7 @@ De Vlaamse regering kan de vernietigingstermijn éénmaal met ten hoogste twinti
 
 Openbare aanbesteding of algemene offerteaanvraag
 <p>§ 1. Aan de goedkeuring van de Vlaamse regering zijn onderworpen:<br>
-<br>
-1° de vaststelling van de jaarlijkse begroting van ontvangsten en uitgaven en het afsluiten van de jaarlijkse rekening van ontvangsten en uitgaven van de Vlaamse Gemeenschapscommissie;<br>
-<br>
+1° het meerjarenplan, de aanpassing van het meerjarenplan en de jaarrekening;<br>
 2° de beslissingen inzake de keuze van de wijze van gunning en de gunningsvoorwaarden van opdrachten voor aanneming van werken, leveringen of diensten waarvan de totale waarde volgende bedragen overschrijdt:<br>
 <br>
 <!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Martine</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>deschrmb</o:LastAuthor><br>  <o:Revision>2</o:Revision><br>  <o:TotalTime>1</o:TotalTime><br>  <o:Created>2008-03-06T07:57:00Z</o:Created><br>  <o:LastSaved>2008-03-06T07:57:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>51</o:Words><br>  <o:Characters>285</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>2</o:Lines><br>  <o:Paragraphs>1</o:Paragraphs><br>  <o:CharactersWithSpaces>335</o:CharactersWithSpaces><br>  <o:Version>11.8107</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br>table.MsoTableGrid<br>	&lftaco;mso-style-name:Tabelraster;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	border:solid windowtext 1.0pt;<br>	mso-border-alt:solid windowtext .5pt;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-border-insideh:.5pt solid windowtext;<br>	mso-border-insidev:.5pt solid windowtext;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;2050"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]--></p>
@@ -120,19 +120,15 @@ Openbare aanbesteding of algemene offerteaanvraag
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
-<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
-
 <p>Deze bedragen kunnen door de Vlaamse regering worden gewijzigd;<br>
-<br>
 3° de aanvaarding van schenkingen en legaten;<br>
-<br>
 4° de vaststelling van de personeelsformatie en van het administratief en geldelijk statuut van de personeelsleden behorend tot de diensten van het College.<br>
 <br>
-§ 2. Het besluit tot al dan niet goedkeuring wordt genomen binnen zestig dagen na ontvangst door de Vlaamse regering van de beslissingen bedoeld in § 1. Het besluit wordt binnen een termijn van vijf werkdagen ter kennis gebracht van de Vlaamse gemeenschapscommissie. De Vlaamse regering kan de goedkeuringstermijn uitsluitend verlengen inzake de goedkeuring van de jaarlijkse begroting bedoeld in § 1, 1°. Dit besluit tot verlenging wordt gemotiveerd en binnen voornoemde termijn van zestig dagen ter kennis gebracht van de Vlaamse Gemeenschapscommissie.<br>
+§ 2. Het besluit tot al dan niet goedkeuring wordt genomen binnen zestig dagen na ontvangst door de Vlaamse regering van de beslissingen bedoeld in § 1. Het besluit wordt binnen een termijn van vijf werkdagen ter kennis gebracht van de Vlaamse gemeenschapscommissie. De Vlaamse Regering kan de voormelde goedkeuringstermijn van zestig dagen tot maximaal honderdvijftig dagen verlengen in geval van de goedkeuring van de jaarrekening, vermeld in paragraaf 1, 1°. Dit besluit tot verlenging wordt gemotiveerd en binnen voornoemde termijn van zestig dagen ter kennis gebracht van de Vlaamse Gemeenschapscommissie.<br>
 <br>
 Wanneer binnen voornoemde termijnen geen besluit wordt getroffen en ter kennis gebracht, wordt de Vlaamse regering geacht de vereiste goedkeuring te hebben verleend.<br>
+<br>
+De Vlaamse Regering keurt de jaarrekening goed op voorwaarde dat de jaarrekening juist en volledig is en een waar en getrouw beeld geeft van de financiële toestand van de Vlaamse Gemeenschapscommissie.<br>
 <br>
 Besluiten waarbij de Vlaamse Regering de goedkeuring weigert worden gemotiveerd.</p>
 
