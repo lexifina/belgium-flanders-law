@@ -601,6 +601,18 @@ Het bedrag dat conform het eerste en tweede lid wordt verkregen, wordt toegevoeg
 <br>
 § 2. Vanaf het begrotingsjaar 2022 worden de bedragen, vermeld in dit artikel, geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.".
 
+### ART 34.
+
+Aan artikel V.240, § 2, van dezelfde codex wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"Voor aanpassingen aan het arbeidsreglement voor materies die wettelijk in het arbeidsreglement moeten worden opgenomen is het akkoord van ten minste één van de representatieve vakorganisaties nodig.".
+
+### ART 35.
+
+In artikel V.244, § 1, van dezelfde codex, gewijzigd bij de decreten van 25 april 2014, 19 juni 2015 en 1 maart 2019, wordt tussen het tweede en het derde lid een lid ingevoegd, dat luidt als volgt:<br>
+<br>
+"Voor aanpassingen aan het arbeidsreglement voor materies die wettelijk in het arbeidsreglement moeten worden opgenomen is het akkoord van ten minste één van de representatieve vakorganisaties nodig.".
+
 ## HOOFDSTUK 8. Wijzigingen van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016
 
 ### ART 36.
@@ -712,6 +724,21 @@ Het budget wordt als volgt vastgelegd:<br>
 11° vanaf het begrotingsjaar 2022 wordt 655.000 euro toegekend aan het Gemeenschapsonderwijs voor vorming en het verbeteren van de loon- en arbeidsvoorwaarden van de personeelsleden voor- en naschoolse opvang in het Gemeenschapsonderwijs.<br>
 <br>
 Vanaf begrotingsjaar 2022 worden deze bedragen aangepast aan de evolutie van de gezondheidsindex.".
+
+### ART 46.
+
+In artikel V.60 van dezelfde codificatie worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 1 wordt een punt 7° toegevoegd, dat luidt als volgt:<br>
+"7° de personeelsleden, vermeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie in de basiseducatie.";<br>
+2° paragraaf 2 wordt opgeheven.
+
+### ART 47.
+
+In artikel V.61 van dezelfde codificatie worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede "bedoeld in artikel V.60," wordt vervangen door de zinsnede ", vermeld in artikel V.60, § 1, 1° tot en met 6°, ";<br>
+2° de woorden "en op een maandelijkse fietsvergoeding" worden opgeheven;<br>
+3° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"Conform de modaliteiten die de Vlaamse Regering bepaalt, hebben de personeelsleden, vermeld in artikel V.60, recht op een maandelijkse fietsvergoeding, ten laste van de werkgever.".
 
 ### ART 48.
 
