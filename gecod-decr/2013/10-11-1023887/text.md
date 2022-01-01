@@ -5253,7 +5253,7 @@ Het bedrag, vermeld in punt 1°, a), wordt vanaf het begrotingsjaar 2012 geïnde
 
 <p>&nbsp;</p>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-image:none; border:1pt solid windowtext; mso-border-alt:solid windowtext .5pt; mso-border-insideh:.75pt outset #222222; mso-border-insidev:.75pt outset #222222; mso-cellspacing:0cm; mso-padding-alt:2.25pt 2.25pt 2.25pt 2.25pt">
+<table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent">
@@ -5325,14 +5325,14 @@ De bedragen, vermeld in deze paragraaf, zijn op indexniveau 2011.<br>
 <br>
 §6. Vanaf het begrotingsjaar 2014 worden voor de componenten SOWprof2014, SOWhko2014 en SOWun2014, vermeld in paragraaf 2, de volgende bedragen vastgelegd:</p>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border-image:none; border:currentColor; mso-border-alt:solid windowtext .5pt; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-yfti-tbllook:1184">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; width:118.8pt">
 			<p>1° SOWprof2014</p>
 			</td>
 			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; width:148.85pt">
-			<p style="text-align:right">59.667.613,95 euro;</p>
+			<p>59.667.613,95 euro;</p>
 			</td>
 		</tr>
 		<tr>
@@ -5340,7 +5340,7 @@ De bedragen, vermeld in deze paragraaf, zijn op indexniveau 2011.<br>
 			<p>2° SOWhko2014</p>
 			</td>
 			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:148.85pt">
-			<p style="text-align:right">3.845.018,60 euro;</p>
+			<p>3.845.018,60 euro;</p>
 			</td>
 		</tr>
 		<tr>
@@ -5348,7 +5348,7 @@ De bedragen, vermeld in deze paragraaf, zijn op indexniveau 2011.<br>
 			<p>3° SOWun2014</p>
 			</td>
 			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:148.85pt">
-			<p style="text-align:right">42.493.641,94 euro.</p>
+			<p>42.493.641,94 euro.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -5379,7 +5379,7 @@ In afwijking van het bepaalde in het eerste lid worden voor de begrotingsjaren 2
 
 <p>&nbsp;</p>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-image:none; border:1pt outset #222222; mso-border-alt:outset #222222 .75pt; mso-cellspacing:0cm; mso-padding-alt:2.25pt 2.25pt 2.25pt 2.25pt">
+<table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent">
@@ -5447,7 +5447,7 @@ Voor het begrotingsjaar 2015 worden de indexeringsbepalingen opgenomen in paragr
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>bedrag professionele kunstopleidingen</td>
-			<td>bedrag bijzondere weddeschalen</td>
+			<td>bedrag bijzondere salarisschalen</td>
 		</tr>
 		<tr>
 			<td>2012</td>
@@ -5475,70 +5475,70 @@ Voor het begrotingsjaar 2015 worden de indexeringsbepalingen opgenomen in paragr
 			<td>&nbsp;</td>
 			<td>&nbsp;10.900.000</td>
 			<td>100.000</td>
-			<td>900.000</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>2016</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;14.300.000</td>
 			<td>100.000</td>
-			<td>3.700.000</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>2017</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;17.666.520</td>
 			<td>100.000</td>
-			<td>3.700.000</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>2018</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;20.966.520</td>
 			<td>100.000</td>
-			<td>3.700.000</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>2019</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;24.366.520</td>
 			<td>100.000</td>
-			<td>3.700.000</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>2020</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;27.766.520</td>
 			<td>100.000</td>
-			<td>3.700.000</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>2021</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;27.766.520</td>
 			<td>100.000</td>
-			<td>3.700.000</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>2022</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;31.166.520</td>
 			<td>100.000</td>
-			<td>3.700.000</td>
+			<td>2.000.000</td>
 		</tr>
 		<tr>
 			<td>2023</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;34.566.520</td>
 			<td>100.000</td>
-			<td>3.700.000</td>
+			<td>2.000.000</td>
 		</tr>
 		<tr>
 			<td>vanaf 2024</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;37.066.520</td>
 			<td>100.000</td>
-			<td>3.700.000</td>
+			<td>2.000.000</td>
 		</tr>
 	</tbody>
 </table>
@@ -5548,7 +5548,41 @@ De bedragen die in het begrotingsjaar t nominaal worden toegevoegd, zijnde de ve
 <br>
 Vanaf het begrotingsjaar 2014 wordt jaarlijks een bedrag toegevoegd van 1.254.057,83 euro aan VOWhko2014. Dit bedrag is op indexniveau 2011 en wordt vanaf het begrotingsjaar 2012 jaarlijks geïndexeerd aan de hand van de indexformule vermeld in paragraaf 9.<br>
 <br>
-Het bedrag dat nodig is voor de aanpassing van de regeling van de bijzondere weddeschalen, wordt alleen toegekend als er een generieke regeling is uitgewerkt voor de uitoefening van nevenactiviteiten in het hoger onderwijs.<br>
+Het bedrag bijzondere salarisschalen, vermeld in het eerste lid, wordt gedurende de begrotingsjaren 2022 tot en met 2028 volgens de volgende percentages verdeeld over de hogescholen:</p>
+
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:1px solid #231f20; height:19px; vertical-align:top; width:461px">Hogeschool Gent</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:1px solid #231f20; height:19px; vertical-align:top; width:90px">31,35%</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:461px">Erasmushogeschool Brussel</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:90px">20,66%</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:461px">LUCA School of Arts</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:90px">23,17%</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:461px">Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:90px">5,11%</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:461px">Hogeschool PXL</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:90px">4,86%</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:461px">Artesis Plantijn Hogeschool Antwerpen</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:90px">14,85%</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+Met ingang van het begrotingsjaar 2023 wordt ieder jaar 1/7 van het bedrag bijzondere salarisschalen, vermeld in het eerste lid, overgedragen naar VOWhko2014.<br>
+<br>
+Het bedrag voor de aanpassing van de bijzondere salarisschalen is op indexniveau 2022 en wordt vanaf het begrotingsjaar 2023 jaarlijks geïndexeerd aan de hand van de indexformule, vermeld in paragraaf 9.<br>
 <br>
 §13. De bedragen VOWun en VOZun, als vermeld of berekend conform dit artikel, worden vermeerderd met de volgende bedragen en de bedragen, vermeld in paragraaf 2, zijn de volgende (uitgedrukt in euro):</p>
 
@@ -5700,8 +5734,7 @@ De bedragen, vermeld in deze paragraaf, zijn op indexniveau 2015 en worden vanaf
 <br>
 De bedragen, vermeld in deze paragraaf, zijn op indexniveau 2016 en worden vanaf het begrotingsjaar 2017 jaarlijks geïndexeerd aan de hand van de indexformule, vermeld in paragraaf 9 van dit artikel.<br>
 <br>
-§ 16. Volgende bedragen, uitgedrukt in euro, worden toegevoegd aan de bedragen VOWprof, als vermeld of berekend overeenkomstig dit artikel:<br>
-&nbsp;
+§ 16.&nbsp;Volgende bedragen, uitgedrukt in euro, worden toegevoegd aan de bedragen VOWprof, vermeld of berekend overeenkomstig dit artikel:
 <table border="1">
 	<tbody>
 		<tr>
@@ -5717,8 +5750,12 @@ De bedragen, vermeld in deze paragraaf, zijn op indexniveau 2016 en worden vanaf
 			<td>76.782,60</td>
 		</tr>
 		<tr>
-			<td>Vanaf begrotingsjaar 2022</td>
+			<td>Begrotingsjaar 2022</td>
 			<td>102.376,80</td>
+		</tr>
+		<tr>
+			<td>Vanaf begrotingsjaar 2023</td>
+			<td>127.971,00</td>
 		</tr>
 	</tbody>
 </table>
@@ -5733,7 +5770,14 @@ Vanaf het begrotingsjaar 2025 wordt het bedrag voor VOWhbo, vermeld in deze para
 <br>
 § 18. In het begrotingsjaar 2020 wordt het bedrag VOWprof, vermeld in of berekend conform dit artikel, vermeerderd met 4.000.000 euro.<br>
 <br>
-§ 19. In het begrotingsjaar 2021 wordt het bedrag VOWprof, vermeld in of berekend conform dit artikel, vermeerderd met 8.000.000 euro.
+§ 19. In het begrotingsjaar 2021 wordt het bedrag VOWprof, vermeld in of berekend conform dit artikel, vermeerderd met 8.000.000 euro.<br>
+<br>
+§20. Het bedrag VOWprof als vermeld in of berekend conform dit artikel, wordt vermeerderd met de volgende bedragen:<br>
+1° in het begrotingsjaar 2022 met 12.000.000 euro;<br>
+2° in het begrotingsjaar 2023 met 16.000.000 euro;<br>
+3° vanaf het begrotingsjaar 2024 met 20.000.000 euro.<br>
+<br>
+Bij de opmaak van de begroting 2023 wordt het groeipad, vermeld in paragraaf 18 tot en met 20, geëvalueerd.
 
 ### ART. III.6.
 
@@ -6123,8 +6167,6 @@ In het geval dat een student beantwoordt aan meer dan 1 categorie van studentenk
 <br>
 1°&nbsp;&nbsp;&nbsp;voor de professioneel gerichte opleidingen aan de hogescholen :</p>
 
-<p>&nbsp;</p>
-
 <table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-image:none; border:1pt outset #222222; mso-border-alt:outset #222222 .75pt; mso-cellspacing:0cm; mso-padding-alt:2.25pt 2.25pt 2.25pt 2.25pt">
 	<tbody>
 		<tr>
@@ -6210,10 +6252,9 @@ In het geval dat een student beantwoordt aan meer dan 1 categorie van studentenk
 	</tbody>
 </table>
 
-<p>1° /1 voor de opleidingen in het hoger beroepsonderwijs aan de hogescholen :<br>
-&nbsp;</p>
+<p>1° /1 voor de opleidingen in het hoger beroepsonderwijs aan de hogescholen :</p>
 
-<table>
+<table border="1">
 	<tbody>
 		<tr>
 			<td>Studiegebied</td>
@@ -6259,8 +6300,6 @@ In het geval dat een student beantwoordt aan meer dan 1 categorie van studentenk
 </table>
 
 <p>2°&nbsp;&nbsp; voor de academisch gerichte opleidingen aan de hogescholen :</p>
-
-<p>&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-image:none; border:1pt outset #222222; mso-border-alt:outset #222222 .75pt; mso-cellspacing:0cm; mso-padding-alt:2.25pt 2.25pt 2.25pt 2.25pt">
 	<tbody>
@@ -6347,11 +6386,7 @@ In het geval dat een student beantwoordt aan meer dan 1 categorie van studentenk
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
 <p>3°&nbsp;&nbsp; voor de academisch gerichte opleidingen aan de universiteiten :</p>
-
-<p>&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-image:none; border:1pt outset #222222; mso-border-alt:outset #222222 .75pt; mso-cellspacing:0cm; mso-padding-alt:2.25pt 2.25pt 2.25pt 2.25pt">
 	<tbody>
@@ -6636,11 +6671,7 @@ In het geval dat een student beantwoordt aan meer dan 1 categorie van studentenk
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
 <p>4°&nbsp;&nbsp; voor de academisch gerichte bachelor- en masteropleidingen in de studiegebieden Architectuur, Industriële wetenschappen en technologie, Biotechniek, Productontwikkeling, Toegepaste taalkunde en Handelswetenschappen en bedrijfskunde, die met ingang van het academiejaar 2013-2014 geïntegreerd worden in een universiteit, evolueert het puntengewicht als volgt:</p>
-
-<p>&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse; border-image:none; border:currentColor; mso-border-alt:solid windowtext .5pt; mso-border-insideh:.5pt solid windowtext; mso-border-insidev:.5pt solid windowtext; mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
 	<tbody>
@@ -6892,8 +6923,6 @@ In het geval dat een student beantwoordt aan meer dan 1 categorie van studentenk
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
 <p>5°&nbsp;&nbsp; Vanaf het begrotingsjaar 2014 wordt aan iedere universiteit die met ingang van het academiejaar 2013-2014 academische hogeschoolopleidingen integreert, een bijkomende opstartfinanciering toegekend van 200.000 euro. Dit bedrag wordt jaarlijks afgebouwd met 10% van het initiële bedrag. Het saldo wordt vanaf het begrotingsjaar 2015 voor 55% toegevoegd aan het variabele onderwijsdeel VOWun2014 en voor 45% aan het variabele onderzoeksdeel VOZun2014. Dit bedrag wordt jaarlijks geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.<br>
 <br>
 6° In afwijking van punt 1°, c), bedraagt voor het begrotingsjaar 2020 het puntengewicht voor het studiegebied Industriële Wetenschappen en Technologie 1,25. In afwijking van punt 1°, i), bedraagt voor het begrotingsjaar 2020 het puntengewicht voor het studiegebied Handelswetenschappen en Bedrijfskunde 1,01.<br>
@@ -6902,6 +6931,12 @@ In het geval dat een student beantwoordt aan meer dan 1 categorie van studentenk
 In afwijking van punt 1°, i), bedraagt voor het begrotingsjaar 2021 het puntengewicht voor het studiegebied Handelswetenschappen en bedrijfskunde 1,01;<br>
 <br>
 8° in afwijking van punt 1°, i), bedraagt voor het begrotingsjaar 2021 het puntengewicht voor de bacheloropleiding "bachelor in de toegepaste informatica" 1,25.<br>
+<br>
+9° in afwijking van punt 1°, c), bedraagt het puntengewicht voor het studiegebied Industriële wetenschappen en technologie 1,27 voor het begrotingsjaar 2022 en 1,30 vanaf het begrotingsjaar 2023.<br>
+In afwijking van punt 1°, i), bedraagt het puntengewicht voor het studiegebied Handelswetenschappen en bedrijfskunde:<br>
+a) voor het begrotingsjaar 2022: 1,02;<br>
+b) voor het begrotingsjaar 2023: 1,04;<br>
+c) vanaf het begrotingsjaar 2024: 1,06.<br>
 <br>
 § 1/1. In het begrotingsjaar 2014 bedraagt het puntengewicht voor de doctoraten in het studiegebied Nautische wetenschappen 3.<br>
 Voor de berekening van het variabele onderzoeksdeel, vermeld in artikel III.22, worden met ingang van het begrotingsjaar 2015 voor de weging van het aantal doctoraatsdiploma's de volgende puntengewichten gebruikt:</p>
@@ -7107,7 +7142,140 @@ De puntengewichten voor de voorbereidingsprogramma’s en schakelprogramma’s d
 
 ### ART. III.22.
 
-<P style="MARGIN: 0cm 0cm 0pt">§1. Bij de berekening van het variabele   onderzoeksdeel van een universiteit (VOZi) wordt het bedrag van het variabele   onderzoeksdeel VOZun, respectievelijk VOZun2014, vermeld in of berekend   overeenkomstig artikel III.5, verdeeld over de universiteiten volgens de   procentuele verdeelsleutel, vermeld in paragraaf 2 van dit artikel.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§2. De verdeelsleutel is het gewogen gemiddelde   van de volgende 4 elementen:</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l1 level1 lfo2">1°&nbsp;&nbsp;   het procentuele aandeel van iedere associatie in het aantal academisch gerichte   initiële bachelor- en masterdiploma’s, uitgereikt door de universiteit en door   de hogescholen die deel uitmaken van de betreffende associatie in de   academiejaren t-7/t-6 tot en met t-3/t-2. Op de uitgereikte diploma’s wordt het   puntengewicht van het studiegebied, vermeld in artikel III.19, toegepast. Voor   de academisch gerichte bachelor- en masteropleidingen die met ingang van het   academiejaar 2013-2014 geïntegreerd worden in een universiteit, evolueert het   puntengewicht overeenkomstig artikel III.19, §1, 4°. Voor de academisch gerichte   kunstopleidingen wordt de som van het puntengewicht in artikel III.19, §1, 2°,   en artikel III.19, §4, toegepast;</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l1 level1 lfo2">2°&nbsp;&nbsp;   het procentuele aandeel van iedere universiteit in het aantal   doctoraatsdiploma’s, uitgereikt in de academiejaren t-7/t-6 tot en met t-3/t-2,   met toepassing van het puntengewicht van het studiegebied, vermeld in artikel   III.19;</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l1 level1 lfo2">3°&nbsp;&nbsp;   het procentuele aandeel van iedere universiteit in het aantal publicaties en het   aantal citaties over de jaren t-12 tot en met t-3. De publicaties en citaties   worden vastgesteld overeenkomstig de voorschriften, vastgelegd bij of krachtens   artikel 63/1 van het decreet van 30 april 2009 betreffende de organisatie en   financiering van het wetenschaps- en innovatiebeleid;</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l1 level1 lfo2">4°&nbsp;&nbsp;   het procentuele aandeel van iedere universiteit in de parameter “mobiliteit en   diversiteit”, dat is het procentuele aandeel van elke universiteit in het aantal   eerste aanstellingen of benoemingen in een graad van het zelfstandig academisch   personeel over de jaren t-6 tot en met t-2&nbsp;van:</P>  <P   style="MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -18pt; mso-list: l3 level1 lfo3">a)&nbsp;&nbsp;&nbsp;   personen die gepromoveerd zijn tot doctor aan een andere universiteit dan de   aanstellende of benoemende universiteit;</P>  <P   style="MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -18pt; mso-list: l3 level1 lfo3">b)&nbsp;&nbsp;&nbsp;   personen die aan de aanstellende of benoemende universiteit gepromoveerd zijn   tot doctor, maar gedurende de laatste 5 jaar ten minste 3 jaar geen deel hebben   uitgemaakt van het personeel bij die universiteit of een andere universiteit,   bij een universitair ziekenhuis, een hogeschool, een publieke   onderzoeksorganisatie of een onderzoeksorganisatie die structurele financiering   krijgt vanuit de Vlaamse begroting;</P>  <P   style="MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -18pt; mso-list: l3 level1 lfo3">c)&nbsp;&nbsp;&nbsp;   personen van het vrouwelijke geslacht.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Onder eerste aanstelling of benoeming als vermeld   in het eerste lid, wordt verstaan de indiensttreding bij de universiteit in 1   van de graden van het zelfstandig academisch personeel overeenkomstig deel 5,   titel 1, hoofdstuk 1, afdeling 3.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Bij de bepaling van het aantal aanstellingen en   benoemingen:</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l0 level1 lfo4">1°&nbsp;&nbsp;   wordt geen rekening gehouden met dubbeltellingen, in de zin dat een persoon die   bij de aanstelling of benoeming aan een universiteit voldoet aan 2 criteria als   vermeld in het eerste lid, 4°, eenmaal wordt geteld;</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l0 level1 lfo4">2°   worden alleen aanstellingen of benoemingen van ten minste 80% aan de   universiteit in rekening genomen, inclusief gemengde aanstellingen aan enerzijds   de universiteit en anderzijds:<BR>a) het daaraan verbonden academisch   ziekenhuis. Voor de toepassing van deze bepaling wordt het Universitair   Ziekenhuis Gent respectievelijk het Universitair Ziekenhuis Antwerpen beschouwd   als verbonden met de Universiteit Gent respectievelijk de Universiteit   Antwerpen;<BR>b) het Fonds voor Wetenschappelijk Onderzoek-Vlaanderen;<BR>c) het   Agentschap Innoveren en Ondernemen;<BR>d) de strategische onderzoekscentra   (iMinds, IMEC, VITO, VIB en Flanders Make).</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">De gegevens voor de berekening van de parameter   “mobiliteit en diversiteit” worden aangeleverd door de Vlaamse   Interuniversitaire Raad na een gezamenlijke validatie ervan door de   universiteiten, de overheid en de commissarissen die toezicht uitoefenen op de   universiteiten.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN-TOP: 0cm">§3. Voor de weging van de elementen, vermeld in   paragraaf 2, worden de volgende factoren toegepast:</P>  <TABLE class=MsoNormalTable   style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; MARGIN: auto auto auto 5.4pt; BORDER-LEFT: medium none; mso-table-layout-alt: fixed; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext"   cellSpacing=0 cellPadding=0 border=1>    <TBODY>    <TR style="HEIGHT: 12.6pt; mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-TOP: windowtext 1pt solid; HEIGHT: 12.6pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 148.85pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt"       vAlign=top width=198>        <P>begrotingsjaar</P></TD>      <TD       style="BORDER-TOP: windowtext 1pt solid; HEIGHT: 12.6pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>2013</P></TD>      <TD       style="BORDER-TOP: windowtext 1pt solid; HEIGHT: 12.6pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>2014 en 2015</P></TD>      <TD       style="BORDER-TOP: windowtext 1pt solid; HEIGHT: 12.6pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>2016 en 2017</P></TD>      <TD       style="BORDER-TOP: windowtext 1pt solid; HEIGHT: 12.6pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>2018 en 2019</P></TD>      <TD       style="BORDER-TOP: windowtext 1pt solid; HEIGHT: 12.6pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>2020 en 2021</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 1">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 148.85pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=198>        <P>diploma’s</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>0,24</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>0,24</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>0,24</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>0,23</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>0,225</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 2">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 148.85pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=198>        <P>doctoraten</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>0,40</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>0,39</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>0,38</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>0,38</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>0,375</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 3">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 148.85pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=198>        <P>publicaties en citaten</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>0,30</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>0,30</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>0,30</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>0,30</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>0,30</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 4; mso-yfti-lastrow: yes">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 148.85pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=198>        <P>diversiteit en mobiliteit</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>0,06</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>0,07</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>0,08</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>0,09</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 60.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=81>        <P>0,10</P></TD></TR></TBODY></TABLE>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§4. In afwijking van paragraaf 1 wordt tot en met   het begrotingsjaar 2013 0,23% van het bedrag van het variabele onderzoeksdeel,   vermeld of berekend conform artikel III.5, voorafgenomen voor de HUB-KUB. Voor   de berekening van het procentuele aandeel in het aantal doctoraatsdiploma’s, in   het aantal publicaties en citaties en in het aantal eerste aanstellingen of   benoemingen, vermeld in paragraaf 2 van dit artikel, wordt de HUB-KUB   uitgezonderd.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Vanaf het begrotingsjaar 2014 worden voor de   bepalingen van paragraaf 1, 2 en 3, de Katholieke Universiteit Leuven en de   HUB-KUB als 1 universiteit beschouwd. Voor de berekening van het variabele   onderzoeksdeel worden het aantal uitgereikte initiële bachelordiploma’s, het   aantal uitgereikte doctoraatsdiploma’s, het aantal publicaties en citaties, en   het aantal eerste aanstellingen of benoemingen van de HUB-KUB geteld bij de   aantallen van de Katholieke Universiteit Leuven.</P>
+<p style="margin-left:0cm; margin-right:0cm">§1. Bij de berekening van het variabele onderzoeksdeel van een universiteit (VOZi) wordt het bedrag van het variabele onderzoeksdeel VOZun, respectievelijk VOZun2014, vermeld in of berekend overeenkomstig artikel III.5, verdeeld over de universiteiten volgens de procentuele verdeelsleutel, vermeld in paragraaf 2 van dit artikel.<br>
+<br>
+§2. De verdeelsleutel is het gewogen gemiddelde van de volgende 4 elementen:<br>
+1°&nbsp;&nbsp; het procentuele aandeel van iedere associatie in het aantal academisch gerichte initiële bachelor- en masterdiploma’s, uitgereikt door de universiteit en door de hogescholen die deel uitmaken van de betreffende associatie in de academiejaren t-7/t-6 tot en met t-3/t-2. Op de uitgereikte diploma’s wordt het puntengewicht van het studiegebied, vermeld in artikel III.19, toegepast. Voor de academisch gerichte bachelor- en masteropleidingen die met ingang van het academiejaar 2013-2014 geïntegreerd worden in een universiteit, evolueert het puntengewicht overeenkomstig artikel III.19, §1, 4°. Voor de academisch gerichte kunstopleidingen wordt de som van het puntengewicht in artikel III.19, §1, 2°, en artikel III.19, §4, toegepast;<br>
+2°&nbsp;&nbsp; het procentuele aandeel van iedere universiteit in het aantal doctoraatsdiploma’s, uitgereikt in de academiejaren t-7/t-6 tot en met t-3/t-2, met toepassing van het puntengewicht van het studiegebied, vermeld in artikel III.19;<br>
+3°&nbsp;&nbsp; het procentuele aandeel van iedere universiteit in het aantal publicaties en het aantal citaties over de jaren t-12 tot en met t-3. De publicaties en citaties worden vastgesteld overeenkomstig de voorschriften, vastgelegd bij of krachtens artikel 63/1 van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid;<br>
+4°&nbsp;&nbsp; het procentuele aandeel van iedere universiteit in de parameter “mobiliteit en diversiteit”, dat is het procentuele aandeel van elke universiteit in het aantal eerste aanstellingen of benoemingen in een graad van het zelfstandig academisch personeel over de jaren t-6 tot en met t-2&nbsp;van:<br>
+a)&nbsp;&nbsp;&nbsp; personen die gepromoveerd zijn tot doctor aan een andere universiteit dan de aanstellende of benoemende universiteit;<br>
+b)&nbsp;&nbsp;&nbsp; personen die aan de aanstellende of benoemende universiteit gepromoveerd zijn tot doctor, maar gedurende de laatste 5 jaar ten minste 3 jaar geen deel hebben uitgemaakt van het personeel bij die universiteit of een andere universiteit, bij een universitair ziekenhuis, een hogeschool, een publieke onderzoeksorganisatie of een onderzoeksorganisatie die structurele financiering krijgt vanuit de Vlaamse begroting;<br>
+c)&nbsp;&nbsp;&nbsp; personen van het vrouwelijke geslacht.<br>
+<br>
+Onder eerste aanstelling of benoeming als vermeld in het eerste lid, wordt verstaan de indiensttreding bij de universiteit in 1 van de graden van het zelfstandig academisch personeel overeenkomstig deel 5, titel 1, hoofdstuk 1, afdeling 3.<br>
+<br>
+Bij de bepaling van het aantal aanstellingen en benoemingen:<br>
+1°&nbsp;&nbsp; wordt geen rekening gehouden met dubbeltellingen, in de zin dat een persoon die bij de aanstelling of benoeming aan een universiteit voldoet aan 2 criteria als vermeld in het eerste lid, 4°, eenmaal wordt geteld;<br>
+2° worden alleen aanstellingen of benoemingen van ten minste 80% aan de universiteit in rekening genomen, inclusief gemengde aanstellingen aan enerzijds de universiteit en anderzijds:<br>
+a) het daaraan verbonden academisch ziekenhuis. Voor de toepassing van deze bepaling wordt het Universitair Ziekenhuis Gent respectievelijk het Universitair Ziekenhuis Antwerpen beschouwd als verbonden met de Universiteit Gent respectievelijk de Universiteit Antwerpen;<br>
+b) het Fonds voor Wetenschappelijk Onderzoek-Vlaanderen;<br>
+c) het Agentschap Innoveren en Ondernemen;<br>
+d) de strategische onderzoekscentra (iMinds, IMEC, VITO, VIB en Flanders Make).<br>
+<br>
+De gegevens voor de berekening van de parameter “mobiliteit en diversiteit” worden aangeleverd door de Vlaamse Interuniversitaire Raad na een gezamenlijke validatie ervan door de universiteiten, de overheid en de commissarissen die toezicht uitoefenen op de universiteiten.<br>
+<br>
+§3. Voor de weging van de elementen, vermeld in paragraaf 2, worden de volgende factoren toegepast:</p>
+
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-bottom:medium none; border-collapse:collapse; border-left:medium none; border-right:medium none; border-top:medium none; margin:auto auto auto 5.4pt; mso-border-alt:solid windowtext .5pt; mso-border-insideh:.5pt solid windowtext; mso-border-insidev:.5pt solid windowtext; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-table-layout-alt:fixed">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; height:12.6pt; vertical-align:top; width:148.85pt">
+			<p>begrotingsjaar</p>
+			</td>
+			<td style="background-color:transparent; height:12.6pt; vertical-align:top; width:60.95pt">
+			<p>2013</p>
+			</td>
+			<td style="background-color:transparent; height:12.6pt; vertical-align:top; width:60.95pt">
+			<p>2014 en 2015</p>
+			</td>
+			<td style="background-color:transparent; height:12.6pt; vertical-align:top; width:60.95pt">
+			<p>2016 en 2017</p>
+			</td>
+			<td style="background-color:transparent; height:12.6pt; vertical-align:top; width:60.95pt">
+			<p>2018 en 2019</p>
+			</td>
+			<td style="background-color:transparent; height:12.6pt; vertical-align:top; width:60.95pt">
+			<p>vanaf 2020</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:148.85pt">
+			<p>diploma’s</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:60.95pt">
+			<p>0,24</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:60.95pt">
+			<p>0,24</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:60.95pt">
+			<p>0,24</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:60.95pt">
+			<p>0,23</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:60.95pt">
+			<p>0,225</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:148.85pt">
+			<p>doctoraten</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:60.95pt">
+			<p>0,40</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:60.95pt">
+			<p>0,39</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:60.95pt">
+			<p>0,38</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:60.95pt">
+			<p>0,38</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:60.95pt">
+			<p>0,375</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:148.85pt">
+			<p>publicaties en citaten</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:60.95pt">
+			<p>0,30</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:60.95pt">
+			<p>0,30</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:60.95pt">
+			<p>0,30</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:60.95pt">
+			<p>0,30</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:60.95pt">
+			<p>0,30</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:148.85pt">
+			<p>diversiteit en mobiliteit</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:60.95pt">
+			<p>0,06</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:60.95pt">
+			<p>0,07</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:60.95pt">
+			<p>0,08</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:60.95pt">
+			<p>0,09</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:60.95pt">
+			<p>0,10</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="margin-left:0cm; margin-right:0cm"><br>
+§4. In afwijking van paragraaf 1 wordt tot en met het begrotingsjaar 2013 0,23% van het bedrag van het variabele onderzoeksdeel, vermeld of berekend conform artikel III.5, voorafgenomen voor de HUB-KUB. Voor de berekening van het procentuele aandeel in het aantal doctoraatsdiploma’s, in het aantal publicaties en citaties en in het aantal eerste aanstellingen of benoemingen, vermeld in paragraaf 2 van dit artikel, wordt de HUB-KUB uitgezonderd.<br>
+<br>
+Vanaf het begrotingsjaar 2014 worden voor de bepalingen van paragraaf 1, 2 en 3, de Katholieke Universiteit Leuven en de HUB-KUB als 1 universiteit beschouwd. Voor de berekening van het variabele onderzoeksdeel worden het aantal uitgereikte initiële bachelordiploma’s, het aantal uitgereikte doctoraatsdiploma’s, het aantal publicaties en citaties, en het aantal eerste aanstellingen of benoemingen van de HUB-KUB geteld bij de aantallen van de Katholieke Universiteit Leuven.</p>
 
 ## Afdeling 4 De berekening van de werkingsuitkering
 
@@ -7408,32 +7576,30 @@ De bedragen, vermeld in het eerste en het tweede lid, worden vanaf het begroting
 		</tr>
 		<tr>
 			<td>budget wendbaar en weerbaar personeelsbeleid</td>
-			<td>2 638 575</td>
-			<td>1 776 250</td>
-			<td>4 949 207</td>
-			<td>1 703 720</td>
+			<td>2.638.575</td>
+			<td>1.776.250</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>afschaffen baremieke leeftijd</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>4 948</td>
+			<td>5.047</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>optrekken laagste lonen ATP</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>44 550</td>
-			<td>55 450</td>
+			<td>45.441</td>
+			<td>56.559</td>
 		</tr>
 	</tbody>
 </table>
 
 <p><br>
 De bedragen voor het afschaffen van de baremieke leeftijd, de laagste lonen en voor 2021 het budget voor wendbaar en weerbaar personeelsbeleid worden verdeeld op basis van het procentuele aandeel van elke hogeschool en universiteit in de totale werkingsmiddelen.<br>
-<br>
-De verdeling en toekenning van de middelen voor wendbaar en weerbaar personeelsbeleid vanaf 2022 wordt vastgelegd in het addendum. De middelen kunnen alleen toegekend worden voor maatregelen met betrekking tot professionalisering, re-integratie en ziektepreventiebeleid.<br>
 <br>
 Vanaf het begrotingsjaar 2022 worden de bedragen, vermeld in deze paragraaf, geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.</p>
 
@@ -7633,62 +7799,62 @@ Deze bedragen worden met ingang van het begrotingsjaar 2012 geïndexeerd overeen
 §4. Het bedrag van VOWprof wordt verminderd met het bedrag voor de financiering van de voortgezette lerarenopleidingen die niet tot bachelor-na-bacheloropleidingen zijn omgevormd. Vanaf het begrotingsjaar 2007 ontvangen de hogescholen die een voortgezette lerarenopleiding organiseren waaruit geen bachelor-na-bacheloropleiding is ontstaan, per in het vorig academiejaar afgeleverd diploma 1944,79 euro. Als het totale bedrag meer dan 317.000,77 euro bedraagt, dan wordt dit bedrag verdeeld over de hogescholen op basis van het aantal in het vorig academiejaar afgeleverde diploma's. Deze bedragen worden jaarlijks aangepast op de wijze bepaald in artikel III.5.<br>
 <br>
 §5. Volgende bedragen, uitgedrukt in euro, worden als aanvullende uitkering toegevoegd aan de werkingsuitkering van HUB-EHSAL of aan de werkingsuitkering van diens rechtsopvolger:
-<table class="MsoNormalTable" style="border: 1pt outset rgb(34, 34, 34); border-image: none; mso-cellspacing: 0cm; mso-border-alt: outset #222222 .75pt; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-yfti-tbllook: 1184;" border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-image:none; border:1pt outset #222222; mso-border-alt:outset #222222 .75pt; mso-cellspacing:0cm; mso-padding-alt:2.25pt 2.25pt 2.25pt 2.25pt; mso-yfti-tbllook:1184">
 	<tbody>
 		<tr>
-			<td style="width: 123.5pt; background-color: transparent;">
+			<td style="background-color:transparent; width:123.5pt">
 			<p>Begrotingsjaar 2008</p>
 			</td>
-			<td style="width: 3cm; background-color: transparent;">
-			<p style="text-align: right;">390.777,68</p>
+			<td style="background-color:transparent; width:3cm">
+			<p style="text-align:right">390.777,68</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 123.5pt; background-color: transparent;">
+			<td style="background-color:transparent; width:123.5pt">
 			<p>Begrotingsjaar 2009</p>
 			</td>
-			<td style="width: 3cm; background-color: transparent;">
-			<p style="text-align: right;">1.451.459,94</p>
+			<td style="background-color:transparent; width:3cm">
+			<p style="text-align:right">1.451.459,94</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 123.5pt; background-color: transparent;">
+			<td style="background-color:transparent; width:123.5pt">
 			<p>Begrotingsjaar 2010</p>
 			</td>
-			<td style="width: 3cm; background-color: transparent;">
-			<p style="text-align: right;">1.451.459,94</p>
+			<td style="background-color:transparent; width:3cm">
+			<p style="text-align:right">1.451.459,94</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 123.5pt; background-color: transparent;">
+			<td style="background-color:transparent; width:123.5pt">
 			<p>Begrotingsjaar 2011</p>
 			</td>
-			<td style="width: 3cm; background-color: transparent;">
-			<p style="text-align: right;">1.161.167,95</p>
+			<td style="background-color:transparent; width:3cm">
+			<p style="text-align:right">1.161.167,95</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 123.5pt; background-color: transparent;">
+			<td style="background-color:transparent; width:123.5pt">
 			<p>Begrotingsjaar 2012</p>
 			</td>
-			<td style="width: 3cm; background-color: transparent;">
-			<p style="text-align: right;">870.875,96</p>
+			<td style="background-color:transparent; width:3cm">
+			<p style="text-align:right">870.875,96</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 123.5pt; background-color: transparent;">
+			<td style="background-color:transparent; width:123.5pt">
 			<p>Begrotingsjaar 2013</p>
 			</td>
-			<td style="width: 3cm; background-color: transparent;">
-			<p style="text-align: right;">580.583,98</p>
+			<td style="background-color:transparent; width:3cm">
+			<p style="text-align:right">580.583,98</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 123.5pt; background-color: transparent;">
+			<td style="background-color:transparent; width:123.5pt">
 			<p>Begrotingsjaar 2014</p>
 			</td>
-			<td style="width: 3cm; background-color: transparent;">
-			<p style="text-align: right;">290.291,99</p>
+			<td style="background-color:transparent; width:3cm">
+			<p style="text-align:right">290.291,99</p>
 			</td>
 		</tr>
 	</tbody>
@@ -7696,12 +7862,11 @@ Deze bedragen worden met ingang van het begrotingsjaar 2012 geïndexeerd overeen
 
 <p>Vanaf het begrotingsjaar 2009 worden de bedragen vermeld in het eerste lid, geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.<br>
 <br>
-§ 6. Vanaf het begrotingsjaar 2015 ontvangen de hogescholen en de universiteiten een bedrag van 804.000 euro voor de vorming en opleiding van het personeel aan de hogescholen en universiteiten. Dat bedrag wordt onder de universiteiten en hogescholen verdeeld naar rato van het aandeel van elke instelling in de werkingsuitkering voor het voorgaande begrotingsjaar. Het bedrag dat zo verkregen wordt, wordt met behoud van de bestemming ervan toegevoegd aan de werkingsuitkering.<br>
+§ 6. Vanaf het begrotingsjaar 2022 ontvangen de universiteiten een bedrag van 464.000 euro voor de vorming en opleiding van het personeel aan de universiteiten. Dat bedrag wordt onder de universiteiten&nbsp; verdeeld naar rato van het aandeel van elke instelling in de werkingsuitkering voor het voorgaande begrotingsjaar. Het bedrag dat zo verkregen wordt, wordt met behoud van de bestemming ervan toegevoegd aan de werkingsuitkering.<br>
 <br>
-De universiteiten en hogescholen onderhandelen jaarlijks binnen het lokale medezeggenschapsorgaan met de afgevaardigden van het personeel over de geplande vormingsinitiatieven en rapporteren over het resultaat van de vormingsinitiatieven van het voorgaande begrotingsjaar.<br>
+De universiteiten&nbsp;onderhandelen jaarlijks binnen het lokale medezeggenschapsorgaan met de afgevaardigden van het personeel over de geplande vormingsinitiatieven en rapporteren over het resultaat van de vormingsinitiatieven van het voorgaande begrotingsjaar.<br>
 <br>
-§ 7. Volgende bedragen, uitgedrukt in euro, worden als aanvullende uitkering toegevoegd aan de werkingsuitkering van de Artesis Plantijn Hogeschool Antwerpen:<br>
-&nbsp;</p>
+§ 7. Volgende bedragen, uitgedrukt in euro, worden als aanvullende uitkering toegevoegd aan de werkingsuitkering van de Artesis Plantijn Hogeschool Antwerpen:</p>
 
 <table border="1">
 	<tbody>
@@ -7743,7 +7908,7 @@ Vanaf het begrotingsjaar 2018 worden de bedragen vermeld in het eerste lid, geï
 
 ### III.34/1.
 
-§ 1. De hogescholen en universiteiten ontvangen de volgende aanvullende uitkeringen:
+§ 1.&nbsp;De hogescholen en universiteiten ontvangen de volgende aanvullende uitkeringen:
 <table border="1">
 	<tbody>
 		<tr>
@@ -7760,39 +7925,114 @@ Vanaf het begrotingsjaar 2018 worden de bedragen vermeld in het eerste lid, geï
 		</tr>
 		<tr>
 			<td>bevorderen duurzame mobiliteit en verhoging fietsvergoeding</td>
-			<td>356 100</td>
-			<td>838 375</td>
-			<td>1 068 300</td>
-			<td>2 515 125</td>
+			<td>356.100</td>
+			<td>838.375</td>
+			<td>1.089.666</td>
+			<td>2.565.428</td>
 		</tr>
 		<tr>
-			<td>tegemoetkoming in het digitaliseringsbeleid</td>
-			<td>356 100</td>
-			<td>670 700</td>
-			<td>1 068 300</td>
-			<td>2 012 100</td>
+			<td>tegemoetkoming in het digitaliserings- beleid</td>
+			<td>356.100</td>
+			<td>670.700</td>
+			<td>1.089.666</td>
+			<td>2.052.342</td>
 		</tr>
 		<tr>
 			<td>internetvergoeding</td>
-			<td>1 424 400</td>
-			<td>2 682 800</td>
-			<td>4 273 200</td>
-			<td>8 048 400</td>
+			<td>1.424.400</td>
+			<td>2.682.800</td>
+			<td>4.358.664</td>
+			<td>8.209.368</td>
 		</tr>
 		<tr>
 			<td>tegemoetkoming kortingskaart</td>
-			<td>89 025</td>
-			<td>167 675</td>
-			<td>89 025</td>
-			<td>167 675</td>
+			<td>89.025</td>
+			<td>167.675</td>
+			<td>90.806</td>
+			<td>171.029</td>
+		</tr>
+		<tr>
+			<td>wendbaar en weerbaar personeelsbeleid</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>3.060.000</td>
+			<td>1.737.794</td>
+		</tr>
+		<tr>
+			<td>re-integratiecoaches</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>688.500</td>
+			<td>&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
 <br>
-<br>
 De bedragen worden verdeeld op basis van het procentuele aandeel van elke hogeschool en universiteit in de totale werkingsmiddelen.<br>
 <br>
-Het bedrag dat conform het eerste en tweede lid wordt verkregen, wordt toegevoegd aan de werkingsmiddelen.<br>
+In afwijking van het tweede lid, worden de bedragen voor de re-integratiecoaches als volgt verdeeld:
+<table border="1">
+	<tbody>
+		<tr>
+			<td>hogeschool</td>
+			<td>bedrag (in euro)</td>
+		</tr>
+		<tr>
+			<td>1° Arteveldehogeschool</td>
+			<td>57.375</td>
+		</tr>
+		<tr>
+			<td>2° Erasmushogeschool Brussel</td>
+			<td>38.250</td>
+		</tr>
+		<tr>
+			<td>3° Hogeschool Gent</td>
+			<td>76.500</td>
+		</tr>
+		<tr>
+			<td>4° LUCA School of Arts</td>
+			<td>38.250</td>
+		</tr>
+		<tr>
+			<td>5° Hogeschool West-Vlaanderen</td>
+			<td>38.250</td>
+		</tr>
+		<tr>
+			<td>6° Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen</td>
+			<td>57.375</td>
+		</tr>
+		<tr>
+			<td>7° Katholieke Hogeschool Vives Noord en Katholieke Hogeschool Vives Zuid</td>
+			<td>57.375</td>
+		</tr>
+		<tr>
+			<td>8° Thomas More Kempen en Thomas More Mechelen-Antwerpen</td>
+			<td>76.500</td>
+		</tr>
+		<tr>
+			<td>9° UC Leuven en UC Limburg</td>
+			<td>76.500</td>
+		</tr>
+		<tr>
+			<td>10° Odisee</td>
+			<td>57.375</td>
+		</tr>
+		<tr>
+			<td>11° Artesis Plantijn Hogeschool Antwerpen</td>
+			<td>57.375</td>
+		</tr>
+		<tr>
+			<td>12° Hogeschool PXL</td>
+			<td>38.250</td>
+		</tr>
+		<tr>
+			<td>13° Hogere Zeevaartschool</td>
+			<td>19.125</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Het bedrag dat conform het eerste, tweede en derde lid wordt verkregen, wordt toegevoegd aan de werkingsmiddelen.<br>
 <br>
 § 2. Vanaf het begrotingsjaar 2022 worden de bedragen, vermeld in dit artikel, geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.
 
@@ -8097,10 +8337,13 @@ De gegenereerde middelen, vermeld in punt 1° en 2°, zijn het aantal leraarsure
 § 2. De som van de middelen zoals toegekend aan de hogescholen overeenkomstig paragraaf 1, 2°, wordt cumulatief vermenigvuldigd met het volgende percentage:<br>
 1° voor het begrotingsjaar 2020: het percentage van de evolutie tussen het aan- tal lestijden waarvoor werd ingeschreven gedeeld door 12 van het schooljaar 2018-2019 en het aantal lestijden waarvoor werd ingeschreven gedeeld door 12 van het schooljaar 2017-2018 van alle betrokken centra voor volwassenen- onderwijs;<br>
 2° voor het begrotingsjaar 2021: het percentage van de evolutie tussen het aan- tal opgenomen studiepunten in de graduaatsopleidingen van het academiejaar 2019-2020 in de hogescholen en het aantal lestijden waarvoor werd inge schreven gedeeld door 12 van het schooljaar 2018-2019 van alle betrokken centra voor volwassenenonderwijs;<br>
-3° voor het begrotingsjaar 2022: het percentage van de evolutie tussen het aan- tal opgenomen studiepunten in de graduaatsopleidingen van het academie- jaar 2020-2021 en het aantal opgenomen studiepunten van het academiejaar 2019-2020 in de hogescholen;<br>
-4° voor de begrotingsjaren 2023 en 2024 monitort de Vlaamse Regering bud- gettaire effecten van de open-endfinanciering van de graduaatsopleidingen tweemaal per jaar in functie van begrotingsopmaak en begrotingscontrole. Op basis van deze monitoring kan de regering ingrijpen in het groeimechanisme om deze effecten onder controle te houden en eventueel beslissen om over te stappen op een budgetbeheersbaar financieringssysteem.<br>
+3° voor het begrotingsjaar 2022: het percentage van de evolutie tussen het aantal opgenomen studiepunten in de graduaatsopleidingen van het academiejaar 2020-2021 en het aantal opgenomen studiepunten van het academiejaar 2019-2020 in de hogescholen vermenigvuldigd met 8/12, en met het percentage van de evolutie tussen het aantal opgenomen studie- punten in de graduaatsopleidingen van het academiejaar 2020-2021 en het aantal opgenomen studiepunten van het academiejaar 2019-2020 in de hogescholen, beperkt tot 2% en vermenigvuldigd met 4/12;<br>
+4° voor het begrotingsjaar 2023: het percentage van de evolutie tussen het aantal opgenomen studiepunten in de graduaatsopleidingen van het academiejaar 2021-2022 en het aantal opgenomen studiepunten van het academiejaar 2020-2021 in de hogescholen, beperkt tot 2%;<br>
+5° voor het begrotingsjaar 2024: het percentage van de evolutie tussen het aantal opgenomen studiepunten in de graduaatsopleidingen van het academiejaar 2022-2023 en het aantal opgenomen studiepunten van het academiejaar 2021-2022 in de hogescholen, beperkt tot 2%.<br>
 <br>
-De groei berekend overeenkomstig het eerste lid wordt jaarlijks onder de betrokken hogescholen verdeeld op basis van hun aandeel in de groei van het aan- tal lestijden gedeeld door 12 respectievelijk het aantal opgenomen studiepunten.<br>
+In de begrotingsjaren 2020 en 2021 wordt de groei, berekend overeenkomstig het eerste lid, verdeeld onder de betrokken hogescholen op basis van hun aandeel in de groei van het aantal lestijden gedeeld door 12 respectievelijk het aantal opgenomen studiepunten.<br>
+<br>
+In de begrotingsjaren 2022, 2023 en 2024 wordt de groei, berekend overeenkomstig het eerste lid, berekend per hogeschool op het budget van de hogeschool in kwestie.<br>
 <br>
 § 3. De middelen, vermeld in paragraaf 1, worden vanaf het begrotingsjaar 2020 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.<br>
 <br>
@@ -9411,29 +9654,19 @@ Het bedrag voor de Antwerp Management School, berekend overeenkomstig dit artike
 
 ### ART. III.119.
 
-<p style="margin-left:0cm; margin-right:0cm">§1. De Vlaamse Regering kan in de vorm van een jaarlijkse toelage bijdragen in de financiering van de hogere instituten voor schone kunsten en van instellingen die excellente kunstopleidingen organiseren.<br>
+<p style="margin-left:0cm; margin-right:0cm">§ 1. De Vlaamse Regering kan in de vorm van een jaarlijkse toelage bijdragen in de financiering van de Hogere Instituten voor Schone Kunsten en van instellingen die excellente kunstopleidingen organiseren.<br>
 <br>
-Het totale bedrag van de toelage wordt vastgesteld op 3.202.000 euro vanaf 1 januari 2007.<br>
+De toelage aan P.A.R.T.S. (Performing Arts Research and Training Studios) wordt vanaf het begrotingsjaar 2022 vastgesteld op 1.309.000 euro.<br>
 <br>
-Dit bedrag wordt vanaf het begrotingsjaar 2008 jaarlijks op de volgende wijze aangepast :</p>
-
-<p style="margin-left:0cm; margin-right:0cm">0,8 x (Ln/L07) + (Cn/C07) waarbij :</p>
-
-<p style="margin-left:0cm; margin-right:0cm">- Ln/L07 gelijk is aan de verhouding tussen de geraamde index van de eenheidsloonkosten op het einde van het betrokken begrotingsjaar en de index van de eenheidsloonkosten op het einde van het begrotingsjaar 2007;</p>
-
-<p style="margin-left:0cm; margin-right:0cm">- Cn/C07 gelijk is aan de verhouding tussen de geraamde index van de consumptieprijzen op het einde van het betrokken begrotingsjaar en de index van de consumptieprijzen op het einde van het begrotingsjaar 2007.<br>
+De toelage aan het Orpheus Instituut wordt vanaf het begrotingsjaar 2022 vastgesteld op 757.000 euro.<br>
 <br>
-De indexformule vermeld in het derde lid wordt in het begrotingsjaar 2010 niet toegepast.<br>
+De toelage aan de IOA (International Opera Academy) wordt vanaf het begrotingsjaar 2022 vastgesteld op 576.000 euro.<br>
 <br>
-Voor de begrotingsjaren 2012, 2013 en 2015 wordt het bedrag, vermeld in het tweede lid, geïndexeerd aan de hand van de volgende indexformule:</p>
-
-<p style="margin-left:0cm; margin-right:0cm">0,8 x (Ln/L07) + 0,2 waarbij :</p>
-
-<p style="margin-left:0cm; margin-right:0cm">- Ln/L07 gelijk is aan de verhouding tussen de geraamde index van de eenheidsloonkosten op het einde van het betrokken begrotingsjaar en de index van de eenheidsloonkosten op het einde van het begrotingsjaar 2007.<br>
+De toelage aan het HISK (Hoger Instituut voor Schone Kunsten) wordt voor het begrotingsjaar 2022 vastgesteld op 1.000.000 euro.<br>
 <br>
-In de begrotingsjaren 2015 en 2016 wordt een bedrag van 250.000 euro toegevoegd aan de toelage vermeld in deze paragraaf.<br>
+De toelage aan PoPoK (Posthogeschool voor Podiumkunsten) wordt voor het begrotingsjaar 2022 vastgesteld op 461.000 euro.<br>
 <br>
-Vanaf het begrotingsjaar 2018 wordt een bedrag van 400.000 euro toegevoegd aan de toelage, vermeld in deze paragraaf.<br>
+De bedragen, vermeld in deze paragraaf, worden binnen de perken van de begroting van de Vlaamse Gemeenschap vanaf het begrotingsjaar 2022 jaarlijks geïndexeerd aan de hand van de indexeringsformule, vermeld in artikel III.5, § 9.<br>
 <br>
 §2. De in paragraaf 1 bedoelde hogere instituten voor schone kunsten worden opgericht met als doel posthogeschoolvormingen te organiseren inzake de opleidingen van de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten. De posthogeschoolvorming wordt bekrachtigd met de titel van 'Laureaat van het Hoger Instituut voor Schone Kunsten'. Deze laureaatsvorming heeft tot doel aan afgestudeerden uit de betrokken sectoren en aan jonge kunstenaars de mogelijkheid te bieden hun artistiek talent verder te ontplooien. Deze instituten worden beheerd door een vereniging zonder winstgevend doel die met betrekking tot de posthogeschoolvorming optreedt als overkoepelende instantie voor alle hogescholen die een opleiding in de betrokken sectoren organiseren.<br>
 <br>
@@ -9455,18 +9688,13 @@ De besluiten die de Vlaamse Regering neemt in uitvoering van de bepalingen van d
 <br>
 §5. In afwijking van het bepaalde in paragraaf 3 kunnen lopende beheersovereenkomsten maximaal 2 keer met ten hoogste 1 jaar verlengd worden, in geval de evaluatie van de wijze waarop de lopende beheersovereenkomst werd uitgevoerd, onvoldoende positief is om een nieuwe beheersovereenkomst met een looptijd van 5 jaar af te sluiten. Indien na deze verlenging(en) naar het oordeel van de Vlaamse Regering de betrokken instelling een deugdelijk beleidsplan heeft voorgelegd, kan een nieuwe beheersovereenkomst met een looptijd van maximaal 4 jaar worden gesloten.<br>
 <br>
-§ 6. De bedragen voor de hogere instituten voor schone kunsten en voor de instellingen die excellente kunstopleidingen organiseren, berekend overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2015 met 2 % verminderd. Voor de berekening van de 2 % worden de bijkomende toelagen van 250.000 euro in 2015 en 2016 en van 400.000 euro vanaf 2018 niet in rekening gebracht.<br>
+§ 6. ....<br>
 <br>
-§ 7. De bedragen voor de hogere instituten voor schone kunsten en voor de instellingen die excellente kunstopleidingen organiseren, berekend overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2020 met 265.000 euro verminderd.<br>
+§ 7. ....<br>
 <br>
-§ 8. De toelage, vermeld in paragraaf 1 en berekend overeenkomstig dit artikel, wordt in het begrotingsjaar 2021 als volgt verdeeld over de hogere instituten voor schone kunsten en de instellingen die excellente kunstopleidingen organiseren:<br>
-1° de toelage voor P.A.R.T.S. (Performing Arts, Research and Training Studies) wordt vastgesteld op 1.297.000 euro;<br>
-2° de toelage voor het HISK (Hoger Instituut voor Schone Kunsten) wordt vast- gesteld op 1.178.000 euro;<br>
-3° de toelage voor het Orpheus Instituut wordt vastgesteld op 750.000 euro;<br>
-4° de toelage voor de IOA (International Opera Academy) wordt vastgesteld op 497.000 euro;<br>
-5° de toelage voor PoPoK (Posthogeschool voor Podiumkunsten) wordt vastgesteld op 457.000 euro.<br>
+§ 8. ....<br>
 <br>
-De bedragen vermeld in het eerste lid, worden in het begrotingsjaar 2021 geïndexeerd overeenkomstig de bepalingen in paragraaf 1 van dit artikel.</p>
+§ 9. ....</p>
 
 ## TITEL 4 Evaluatie
 
@@ -11904,7 +12132,9 @@ Elke delegatie kan een beroep doen op technici.</p>
 5° de organisatorische maatregelen met een rechtstreeks effect op de arbeidsorganisatie of de organisatie van het werk;<br>
 6° alle bevoegdheden die in particuliere bedrijven opgedragen zijn aan de comités voor preventie en bescherming op het werk.<br>
 <br>
-§2. De onderhandelingen leiden tot een protocol van akkoord of tot een protocol waarin de standpunten van de respectieve afvaardigingen van de representatieve vakorganisaties worden weergegeven.</p>
+§2. De onderhandelingen leiden tot een protocol van akkoord of tot een protocol waarin de standpunten van de respectieve afvaardigingen van de representatieve vakorganisaties worden weergegeven.<br>
+<br>
+Voor aanpassingen aan het arbeidsreglement voor materies die wettelijk in het arbeidsreglement moeten worden opgenomen is het akkoord van ten minste één van de representatieve vakorganisaties nodig.</p>
 
 ### ART. V.241.
 
@@ -11944,9 +12174,11 @@ Elke delegatie kan een beroep doen op technici.</p>
 
 ### ART. V.244.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. In de onderhandelingscomités in de gesubsidieerde vrije hogescholen onderhandelen het hogeschoolbestuur en de representatieve vakorganisaties over de aangelegenheden, bedoeld in en krachtens de artikelen 2, 9 en 11 van de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel. Het arbeidsreglement in de hogescholen vormt daarenboven eveneens voorwerp van onderhandeling in het hogeschoolonderhandelingscomité. Over dezelfde aangelegenheden kan niet én in het hogeschoolonderhandelingscomité én op een ander niveau worden onderhandeld.<br>
+<p style="margin-left:0cm; margin-right:0cm">§1. In de onderhandelingscomités in de gesubsidieerde vrije hogescholen onderhandelen het hogeschoolbestuur en de representatieve vakorganisaties over de aangelegenheden, bedoeld in en krachtens de artikelen 2, 9 en 11 van de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel. Het arbeidsreglement in de hogescholen vormt daarenboven eveneens voorwerp van onderhandeling in het hogeschoolonderhandelingscomité. Over dezelfde aangelegenheden kan niet én in het hogeschoolonderhandelingscomité én op een ander niveau worden onderhandeld.<br>
 <br>
 In de onderhandelingscomités in de gesubsidieerde officiële hogeschool onderhandelen het hogeschoolbestuur en de representatieve vakorganisaties over de aangelegenheden bedoeld in en krachtens de artikelen 2, 6, 9 en 11 van de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel, met dien verstande dat over dezelfde aangelegenheden niet én in het hogeschoolonderhandelingscomité én op een ander niveau kan worden onderhandeld.<br>
+<br>
+Voor aanpassingen aan het arbeidsreglement voor materies die wettelijk in het arbeidsreglement moeten worden opgenomen is het akkoord van ten minste één van de representatieve vakorganisaties nodig.<br>
 <br>
 Bovendien bezorgt het hogeschoolbestuur de onderhandelingscomités de volgende inlichtingen, verslagen en bescheiden:<br>
 1°&nbsp;&nbsp; algemene informatie met betrekking tot de werking en de organisatie van de hogeschool;<br>
