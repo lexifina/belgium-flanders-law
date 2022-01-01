@@ -2,16 +2,16 @@
   "codex_id": 1010837,
   "title": "Besluit van de Vlaamse Regering van 2003-01-24 tot vaststelling en indeling van de ambten in het buitengewoon onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010837/VolledigDocument?datum=2021-09-01",
-  "source_sha256": "a96a831b0c9a538b30e5f603764adafa47239c5d50a338be6092d12881b50d9d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010837/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "2895758e0b7913128a773af35054716ebdaadfc0e7e755ba0d8132e1189daa1a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010837&param=informatie",
-  "as_of": "2021-09-01",
+  "as_of": "2022-01-01",
   "made": "2003-01-24",
   "gazette": "2003-04-11",
   "numac": 2003200576,
   "document_start": "2002-09-01",
   "document_end": null,
-  "in_force": "2021-09-01",
+  "in_force": "2022-01-01",
   "article_versions": 38,
-  "record_form": "consolidated version as in force on 2021-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
 }

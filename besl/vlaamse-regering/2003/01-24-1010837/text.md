@@ -34,7 +34,16 @@ De ambten die de leden van het medisch personeel in het buitengewoon basisonderw
 
 ### ART. 7bis.
 
-De ambten die de leden van het beleids- en ondersteunend personeel kunnen uitoefenen in het buitengewoon basisonderwijs worden als volgt vastgesteld en ingedeeld:<br /><br />1° wervingsambten:<br /><br />a) administratief medewerker;<br /><br />b)  <span class="reference">(ing. B.V.R. 5 december 2003, art. 2, I: 1 september 2003)</span> ] [ ICT-coördinator  <span class="reference">(verv. B.V.R. 30 september 2005, art. 1, I : 1 september 2005)</span> ]<br /><br />[c) zorg-coördinator ;  <span class="reference">(ing. B.V.R. 30 september 2005, art. 1, I : 1 september 2005)</span> ]<br /><br />[2° selectieambten:<br /><br />nihil;<br /><br />3° bevorderingsambten<br /><br />nihil.  <span class="reference">(ing. B.V.R. 5 december 2003, art. 2, I: 1 september 2003)</span> ]
+De ambten die de leden van het beleids- en ondersteunend personeel kunnen uitoefenen in het buitengewoon basisonderwijs worden als volgt vastgesteld en ingedeeld:<br>
+1° wervingsambten:<br>
+a) administratief medewerker;<br>
+b) ICT-coördinator;<br>
+c) zorg-coördinator;&nbsp;<br>
+d) beleidsondersteuner<br>
+2° selectieambten:<br>
+nihil;<br>
+3° bevorderingsambten<br>
+nihil.
 
 ### ART. 8.
 
