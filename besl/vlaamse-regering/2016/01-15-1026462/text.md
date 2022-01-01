@@ -104,11 +104,14 @@ De vergoeding van de tolken&nbsp;Gebarentaal en schrijftolken wordt hen rechtstr
 
 ### ART. 11.
 
-<p>De uren dienstverlening die de tolken Gebarentaal effectief hebben gepresteerd en die zijn aanvaard door het centraal tolkenbureau, de tijd van de verplaatsing niet inbegrepen, worden vergoed naar rato van 36,35 euro per gefactureerd vol of begonnen uur.</p>
-
-<p>De verplaatsingskosten van de tolken worden vergoed conform de modaliteiten, vermeld in de samenwerkingsovereenkomst. Verplaatsingen met de wagen worden vergoed tegen 0,25 euro per werkelijk afgelegde kilometer.</p>
-
-<p>Het bedrag, vermeld in het eerste lid, wordt jaarlijks op 1 januari aangepast volgens de formule: 36,35 x [index december jaar x-1/index december 2014].</p>
+<p>De uren dienstverlening die de tolken Gebarentaal en schrijftolken daadwerkelijk hebben gepresteerd en die zijn aanvaard door het centraal tolkenbureau, de tijd van de verplaatsing niet inbegrepen, worden vanaf 1 januari 2022 verloond naar rato van 41,58 euro per gefactureerd vol of begonnen tolkuur.<br>
+<br>
+Het uurloon wordt vanaf 2023 jaarlijks geïndexeerd op 1 januari volgens de afgevlakte gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, conform de volgende formule: uurloon van het voorgaande jaar x G-index van december van het voorgaande jaar/G-index van december van het jaar daarvoor.<br>
+<br>
+Naast deze jaarlijkse indexering wordt het uurloon vanaf 1 januari 2023 verhoogd met 4 euro per gefactureerd vol of begonnen tolkuur en vanaf 1 januari 2024 wordt het uurloon nogmaals verhoogd met 4 euro per gefactureerd vol of begonnen tolkuur.<br>
+<br>
+De verplaatsingskosten van de tolken Gebarentaal en van de schrijftolken worden vergoed conform de modaliteiten, vermeld in de samenwerkingsovereenkomst. Verplaatsingen met de wagen worden vergoed tegen 0,3707 euro per werkelijk afgelegde kilometer. De<br>
+kilometervergoeding voor verplaatsingen met de wagen wordt jaarlijks aangepast aan het geldende bedrag voor personeelsleden van de diensten van de Vlaamse overheid, vermeld in artikel VII 80 van het Besluit Vlaams personeelsstatuut van 13 januari 2006.</p>
 
 ## HOOFDSTUK 7 Het centraal tolkenbureau
 
