@@ -26,6 +26,10 @@ In hoofdstuk 2, afdeling 1, van het besluit van de Vlaamse Regering van 17 maart
 <br>
 "Art. 9/1. Een organisator groepsopvang met een basissubsidie voor groepsopvang als vermeld in artikel 12 van het Subsidiebesluit van 22 november 2013, die een openbaar bestuur is, ontvangt van het agentschap een subsidie voor koopkrachtondersteuning. De subsidie bedraagt 384,04 euro per gesubsidieerde kinderopvangplaats.".
 
+### ART 2.
+
+In artikel 9/1 van hetzelfde besluit, ingevoegd bij dit besluit, wordt het bedrag "384,04 euro" vervangen door het bedrag "558,35 euro".
+
 ### ART 3.
 
 Aan hoofdstuk 3 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 6 oktober 2017, 7 februari 2020 en 12 maart 2021, wordt een afdeling 7, die bestaat uit artikel 32/2 en artikel 32/3, toegevoegd, die luidt als volgt:<br>
@@ -39,3 +43,13 @@ Art. 32/3. Een organisator met een subsidie voor initiatief voor buitenschoolse 
 ### ART 4.
 
 In artikel 32/2 en 32/3 van hetzelfde besluit, ingevoegd bij dit besluit, wordt het bedrag "168,77 euro" vervangen door het bedrag "262,10 euro".
+
+### ART 5.
+
+In artikel 8 van het Overgangsbesluit subsidies buitenschoolse opvang van 24 september 2021 wordt punt 3° vervangen door wat volgt:<br>
+"3° een VIA-subsidie als vermeld in artikel 15 en artikel 32/2 van het besluit van 17 maart 2017 betreffende de subsidiëring van de organisatoren kinderopvang en buitenschoolse opvang ter uitvoering van het Vlaams Intersectoraal akkoord, gewijzigd bij de besluiten van de Vlaamse Regering van 6 oktober 2017, 7 februari 2020 en 12 maart 2021.".
+
+### ART 6.
+
+In artikel 12 van hetzelfde besluit, gewijzigd bij besluit van de Vlaamse regering van 14 januari 2022, wordt punt 6° vervangen door wat volgt:<br>
+"6° een VIA-subsidie als vermeld in artikel 16 tot en met 18, 19/1, 20 tot en met 23, 24/1 tot en met 26, 27/1, 28 tot en met 30, 31/1, 32, 32/3, 33, 34, 34/1 en 36 van het besluit van 17 maart 2017 betreffende de subsidiëring van de organisatoren kinderopvang en buitenschoolse opvang ter uitvoering van het Vlaams Intersectoraal akkoord, gewijzigd bij de besluiten van de Vlaamse Regering van 6 oktober 2017, 7 februari 2020 en 12 maart 2021, en de subsidie voor buitenschoolse opvang, wat artikel 37 van het voormelde besluit betreft;".
