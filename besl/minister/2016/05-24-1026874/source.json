@@ -2,16 +2,16 @@
   "codex_id": 1026874,
   "title": "Ministerieel besluit van 2016-05-24 betreffende de regels voor de erkenning en de subsidiëring van ambulant aanbod preventieve gezinsondersteuning voor schoolgaande kinderen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026874/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "938fd57981e2e9b1ed5eb39cbc0378bdb99fa05144bc287fb975e56ca730b414",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026874/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "461d67b1b64d1fdf4cd1e68cf2568765a6a5914d33f249fd9e9dd2e5b7aa7c39",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026874&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2022-01-01",
   "made": "2016-05-24",
   "gazette": "2016-06-10",
   "numac": 2016035924,
   "document_start": "2016-06-20",
   "document_end": null,
-  "in_force": "2021-01-01",
+  "in_force": "2022-01-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
 }
