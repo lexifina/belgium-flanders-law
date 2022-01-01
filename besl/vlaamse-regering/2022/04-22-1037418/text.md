@@ -429,7 +429,15 @@ Bijlage I bij het besluit van de Vlaamse Regering van 14 juni 1989 betreffende d
 
 ## Afdeling 2. Wijziging van het besluit van de Vlaamse Regering van 27 juni 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen en de bezoldigingsregeling in het gewoon basisonderwijs
 
+### ART 10.
+
+De bijlage bij het besluit van de Vlaamse Regering van 27 juni 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen en de bezoldigingsregeling in het gewoon basisonderwijs, vervangen bij het besluit van de Vlaamse Regering van 17 juli 2020, wordt vervangen door bijlage 2, die bij dit besluit is gevoegd.
+
 ## Afdeling 3. Wijziging van het besluit van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen en de bezoldiging in het buitengewoon onderwijs
+
+### ART 11.
+
+In bijlage I bij het besluit van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen en de bezoldigingsregeling in het buitengewoon onderwijs, vervangen bij het besluit van de Vlaamse Regering van 17 juli 2020, wordt het deel `bekwaamheidsbewijzen buitengewoon basisonderwijs' vervangen door bijlage 3, die bij dit besluit is gevoegd.
 
 ## Afdeling 4. Wijziging van het besluit van de Vlaamse regering van 15 december 1993 tot uitvoering van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken
 
@@ -450,6 +458,10 @@ In afwijking van het eerste lid worden de salarisschalen die verbonden zijn aan 
 § 2. De salarisschalen vermeld in paragraaf 1 worden vastgesteld bij het besluit van de Vlaamse Regering van 5 oktober 2018 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.".
 
 ## Afdeling 5. Wijziging van het besluit van de Vlaamse regering van 17 juni 1997 betreffende de opdracht van het personeel in het basisonderwijs
+
+### ART 13.
+
+In artikel 3, 11°, van het besluit van de Vlaamse regering van 17 juni 1997 betreffende de opdracht van het personeel in het basisonderwijs, ingevoegd bij het besluit van de Vlaamse Regering van 5 december 2003 en vervangen bij het besluit van de Vlaamse Regering van 30 september 2005, worden de woorden "en zorgcoördinator" vervangen door de zinsnede ", zorgcoördinator en beleidsondersteuner".
 
 ## Afdeling 6. Wijzigingen van het besluit van de Vlaamse regering van 17 juni 1997 betreffende de personeelsformatie in het gewoon basisonderwijs
 
@@ -1039,6 +1051,353 @@ Uit de punten die conform het eerste lid verkregen worden, kunnen de volgende am
 De omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen van het beleids- en ondersteund personeel gebeurt conform artikelen 4quater, 4quinquies en 4sexies van het besluit van de Vlaamse regering van 5 maart 2004 betreffende de puntenenveloppen voor de scholengemeenschappen basisonderwijs.<br>
 <br>
 § 5. Met toepassing van artikel 139undevicies, § 7, van het decreet worden de lestijden samen school maken aangewend op schoolniveau conform het afsprakenkader tussen de sociale partners.".
+
+### ART 17.
+
+In hoofdstuk IIIter van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 december 2003 en gewijzigd bij het besluit van de Vlaamse Regering van 5 september 2008, wordt het opschrift van afdeling B vervangen door wat volgt:<br>
+"Afdeling B. Administratie en beleidsondersteuning".
+
+### ART 18.
+
+In artikel 27undecies van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 december 2003, worden de woorden "voor administratief personeel" vervangen door de woorden "voor administratieve en beleidsondersteuning".
+
+### ART 19.
+
+Artikel 27duodecies van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 december 2003, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 27duodecies. § 1. Met toepassing van artikel 153sexies, § 1, van het decreet heeft elke school voor gewoon basisonderwijs recht op een basisenveloppe van negen punten voor administratieve en beleidsondersteuning.<br>
+<br>
+§ 2. Per school voor gewoon basisonderwijs wordt naast de punten, vermeld in paragraaf 1, een bijkomend aantal punten voor administratieve en beleidsondersteuning toegekend dat berekend wordt door het gewogen aantal regelmatige leerlingen dat ingeschreven is op de teldag, of het gemiddelde aantal regelmatige leerlingen tijdens de telperiode die van toepassing is voor de berekening van de lestijden volgens de schalen, te vermenigvuldigen met de puntenwaarde 0,28152 per leerling, waarbij de wegingscoëfficiënt voor een leerling lager onderwijs gelijk is aan 1 en de wegingscoëfficiënt voor een kleuter gelijk is aan 0,6636.<br>
+<br>
+De punten, vermeld in het eerste lid, worden binnen een school afgerond naar het hogere gehele getal als het eerste cijfer na de komma groter is dan vier. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere gehele getal.".
+
+### ART 20.
+
+Artikel 27terdecies van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 december 2003, wordt opgeheven.
+
+### ART 21.
+
+In artikel 27quaterdecies van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 december 2003, worden de volgende wijzigingen aangebracht:<br>
+1° de woorden "of terdecies" worden opgeheven;<br>
+2° de woorden "kan het ambt van administratief medewerker" worden vervangen door de woorden "kunnen de ambten van administratief medewerker en beleidsondersteuner".
+
+### ART 22.
+
+In artikel 27quindecies van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 december 2003, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 wordt een punt 2° bis ingevoegd, dat luidt als volgt:<br>
+"2° bis als een betrekking wordt ingericht die de weddeschaal 148 genereert, worden voor een voltijdse betrekking 85 punten in rekening gebracht;";<br>
+2° in paragraaf 1 wordt een punt 3° bis ingevoegd, dat luidt als volgt:<br>
+"3° bis als een betrekking wordt ingericht die de weddeschaal 501 genereert, worden voor een voltijdse betrekking 126 punten in rekening gebracht;";<br>
+3° in paragraaf 2 wordt de tabel vervangen door de volgende tabel:
+<table border="1">
+	<tbody>
+		<tr>
+			<td>puntenwaarde</td>
+			<td>63</td>
+			<td>82</td>
+			<td>85</td>
+			<td>120</td>
+			<td>126</td>
+		</tr>
+		<tr>
+			<td>aantal uren</td>
+			<td>punten</td>
+			<td>punten</td>
+			<td>punten</td>
+			<td>punten</td>
+			<td>punten</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>2</td>
+			<td>2</td>
+			<td>2</td>
+			<td>3</td>
+			<td>4</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>4</td>
+			<td>5</td>
+			<td>5</td>
+			<td>7</td>
+			<td>7</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>5</td>
+			<td>7</td>
+			<td>7</td>
+			<td>10</td>
+			<td>11</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>7</td>
+			<td>9</td>
+			<td>9</td>
+			<td>13</td>
+			<td>14</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>9</td>
+			<td>11</td>
+			<td>12</td>
+			<td>17</td>
+			<td>18</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>11</td>
+			<td>14</td>
+			<td>14</td>
+			<td>20</td>
+			<td>21</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>12</td>
+			<td>16</td>
+			<td>17</td>
+			<td>23</td>
+			<td>25</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>14</td>
+			<td>18</td>
+			<td>19</td>
+			<td>27</td>
+			<td>28</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>16</td>
+			<td>21</td>
+			<td>21</td>
+			<td>30</td>
+			<td>32</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>18</td>
+			<td>23</td>
+			<td>24</td>
+			<td>33</td>
+			<td>35</td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td>19</td>
+			<td>25</td>
+			<td>26</td>
+			<td>37</td>
+			<td>39</td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>21</td>
+			<td>27</td>
+			<td>28</td>
+			<td>40</td>
+			<td>42</td>
+		</tr>
+		<tr>
+			<td>13</td>
+			<td>23</td>
+			<td>30</td>
+			<td>31</td>
+			<td>43</td>
+			<td>46</td>
+		</tr>
+		<tr>
+			<td>14</td>
+			<td>25</td>
+			<td>32</td>
+			<td>33</td>
+			<td>47</td>
+			<td>49</td>
+		</tr>
+		<tr>
+			<td>15</td>
+			<td>26</td>
+			<td>34</td>
+			<td>35</td>
+			<td>50</td>
+			<td>53</td>
+		</tr>
+		<tr>
+			<td>16</td>
+			<td>28</td>
+			<td>36</td>
+			<td>38</td>
+			<td>53</td>
+			<td>56</td>
+		</tr>
+		<tr>
+			<td>17</td>
+			<td>30</td>
+			<td>39</td>
+			<td>40</td>
+			<td>57</td>
+			<td>60</td>
+		</tr>
+		<tr>
+			<td>18</td>
+			<td>32</td>
+			<td>41</td>
+			<td>42</td>
+			<td>60</td>
+			<td>63</td>
+		</tr>
+		<tr>
+			<td>19</td>
+			<td>33</td>
+			<td>43</td>
+			<td>45</td>
+			<td>63</td>
+			<td>67</td>
+		</tr>
+		<tr>
+			<td>20</td>
+			<td>35</td>
+			<td>46</td>
+			<td>47</td>
+			<td>67</td>
+			<td>70</td>
+		</tr>
+		<tr>
+			<td>21</td>
+			<td>37</td>
+			<td>48</td>
+			<td>50</td>
+			<td>70</td>
+			<td>74</td>
+		</tr>
+		<tr>
+			<td>22</td>
+			<td>39</td>
+			<td>50</td>
+			<td>52</td>
+			<td>73</td>
+			<td>77</td>
+		</tr>
+		<tr>
+			<td>23</td>
+			<td>40</td>
+			<td>52</td>
+			<td>54</td>
+			<td>77</td>
+			<td>81</td>
+		</tr>
+		<tr>
+			<td>24</td>
+			<td>42</td>
+			<td>55</td>
+			<td>57</td>
+			<td>80</td>
+			<td>84</td>
+		</tr>
+		<tr>
+			<td>25</td>
+			<td>44</td>
+			<td>57</td>
+			<td>59</td>
+			<td>83</td>
+			<td>88</td>
+		</tr>
+		<tr>
+			<td>26</td>
+			<td>46</td>
+			<td>59</td>
+			<td>61</td>
+			<td>87</td>
+			<td>91</td>
+		</tr>
+		<tr>
+			<td>27</td>
+			<td>47</td>
+			<td>62</td>
+			<td>64</td>
+			<td>90</td>
+			<td>95</td>
+		</tr>
+		<tr>
+			<td>28</td>
+			<td>49</td>
+			<td>64</td>
+			<td>66</td>
+			<td>93</td>
+			<td>98</td>
+		</tr>
+		<tr>
+			<td>29</td>
+			<td>51</td>
+			<td>66</td>
+			<td>68</td>
+			<td>97</td>
+			<td>102</td>
+		</tr>
+		<tr>
+			<td>30</td>
+			<td>53</td>
+			<td>68</td>
+			<td>71</td>
+			<td>100</td>
+			<td>105</td>
+		</tr>
+		<tr>
+			<td>31</td>
+			<td>54</td>
+			<td>71</td>
+			<td>73</td>
+			<td>103</td>
+			<td>109</td>
+		</tr>
+		<tr>
+			<td>32</td>
+			<td>56</td>
+			<td>73</td>
+			<td>76</td>
+			<td>107</td>
+			<td>112</td>
+		</tr>
+		<tr>
+			<td>33</td>
+			<td>58</td>
+			<td>75</td>
+			<td>78</td>
+			<td>110</td>
+			<td>116</td>
+		</tr>
+		<tr>
+			<td>34</td>
+			<td>60</td>
+			<td>77</td>
+			<td>80</td>
+			<td>113</td>
+			<td>119</td>
+		</tr>
+		<tr>
+			<td>35</td>
+			<td>61</td>
+			<td>80</td>
+			<td>83</td>
+			<td>117</td>
+			<td>123</td>
+		</tr>
+		<tr>
+			<td>36</td>
+			<td>63</td>
+			<td>82</td>
+			<td>85</td>
+			<td>120</td>
+			<td>126</td>
+		</tr>
+	</tbody>
+</table>
+".
 
 ## Afdeling 7. Wijzigingen van het besluit van de Vlaamse regering van 17 juni 1997 betreffende de personeelsformatie in het buitengewoon basisonderwijs en betreffende coördinatieopdrachten door ondersteuningsnetwerken in het basis- en secundair onderwijs
 
@@ -1649,6 +2008,350 @@ De omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen va
 <br>
 § 4. Met toepassing van artikel 139undevicies, § 7, van het decreet worden de lestijden samen school maken aangewend op schoolniveau conform het afsprakenkader tussen de sociale partners.".
 
+### ART 26.
+
+In artikel 25bis van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 maart 2004, worden de woorden "voor administratief personeel" vervangen door de woorden "voor administratieve en beleidsondersteuning".
+
+### ART 27.
+
+Artikel 25ter van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 maart 2004 en gewijzigd bij het besluit van de Vlaamse Regering van 19 juli 2007, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 25ter. § 1. Met toepassing van artikel 153sexies, § 1, van het decreet heeft elke school voor buitengewoon basisonderwijs, met uitzondering van type 5-scholen, recht op een basisenveloppe voor administratieve en beleidsondersteuning van negen punten.<br>
+<br>
+§ 2. Per school voor buitengewoon basisonderwijs, met uitzondering van type 5-scholen, wordt naast de punten, vermeld in paragraaf 1, een bijkomend aantal punten voor administratieve en beleidsondersteuning toegekend die berekend wordt door het gewogen aantal regelmatige leerlingen dat ingeschreven is op de teldag, of het gemiddelde aantal regelmatige leerlingen tijdens de telperiode die van toepassing is voor de berekening van de lestijden volgens de schalen, te vermenigvuldigen met de puntenwaarde 0,39272 per leerling, waarbij de wegingscoëfficiënt voor een leerling lager onderwijs gelijk is aan 1 en de wegingscoëfficiënt voor een kleuter gelijk is aan 0,6636.<br>
+<br>
+De punten, vermeld in het eerste lid, worden binnen een school afgerond naar het hogere gehele getal als het eerste cijfer na de komma groter is dan vier. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere gehele getal.<br>
+<br>
+§ 3. Elke type 5-school in het buitengewoon basisonderwijs heeft recht op een basisenveloppe van 53 punten. Daarnaast wordt een bijkomende puntenenveloppe toegekend van 41 punten per bijkomende vestigingsplaats.".
+
+### ART 28.
+
+Artikel 25quater van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 maart 2004, wordt opgeheven.
+
+### ART 29.
+
+In artikel 25quinquies van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 maart 2004, worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede "of artikel 25quater" wordt opgeheven;<br>
+2° de woorden "kan het ambt van administratief medewerker" worden vervangen door de woorden "kunnen de ambten van administratief medewerker en beleidsondersteuner".
+
+### ART 30.
+
+In artikel 25sexies van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 maart 2004, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 wordt een punt 2° bis ingevoegd, dat luidt als volgt:<br>
+"2° bis als een betrekking wordt ingericht die de weddenschaal 148 genereert, worden voor een voltijdse betrekking 85 punten in rekening gebracht;";<br>
+2° in paragraaf 1 wordt een punt 3° bis ingevoegd, dat luidt als volgt:<br>
+"3° bis als een betrekking wordt ingericht die de weddenschaal 501 genereert, worden voor een voltijdse betrekking 126 punten in rekening gebracht;";<br>
+3° in paragraaf 2 wordt de tabel vervangen door de volgende tabel:
+<table border="1">
+	<tbody>
+		<tr>
+			<td>puntenwaarde</td>
+			<td>63</td>
+			<td>82</td>
+			<td>85</td>
+			<td>120</td>
+			<td>126</td>
+		</tr>
+		<tr>
+			<td>aantal uren</td>
+			<td>punten</td>
+			<td>punten</td>
+			<td>punten</td>
+			<td>punten</td>
+			<td>punten</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>2</td>
+			<td>2</td>
+			<td>2</td>
+			<td>3</td>
+			<td>4</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>4</td>
+			<td>5</td>
+			<td>5</td>
+			<td>7</td>
+			<td>7</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>5</td>
+			<td>7</td>
+			<td>7</td>
+			<td>10</td>
+			<td>11</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>7</td>
+			<td>9</td>
+			<td>9</td>
+			<td>13</td>
+			<td>14</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>9</td>
+			<td>11</td>
+			<td>12</td>
+			<td>17</td>
+			<td>18</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>11</td>
+			<td>14</td>
+			<td>14</td>
+			<td>20</td>
+			<td>21</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>12</td>
+			<td>16</td>
+			<td>17</td>
+			<td>23</td>
+			<td>25</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>14</td>
+			<td>18</td>
+			<td>19</td>
+			<td>27</td>
+			<td>28</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>16</td>
+			<td>21</td>
+			<td>21</td>
+			<td>30</td>
+			<td>32</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>18</td>
+			<td>23</td>
+			<td>24</td>
+			<td>33</td>
+			<td>35</td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td>19</td>
+			<td>25</td>
+			<td>26</td>
+			<td>37</td>
+			<td>39</td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>21</td>
+			<td>27</td>
+			<td>28</td>
+			<td>40</td>
+			<td>42</td>
+		</tr>
+		<tr>
+			<td>13</td>
+			<td>23</td>
+			<td>30</td>
+			<td>31</td>
+			<td>43</td>
+			<td>46</td>
+		</tr>
+		<tr>
+			<td>14</td>
+			<td>25</td>
+			<td>32</td>
+			<td>33</td>
+			<td>47</td>
+			<td>49</td>
+		</tr>
+		<tr>
+			<td>15</td>
+			<td>26</td>
+			<td>34</td>
+			<td>35</td>
+			<td>50</td>
+			<td>53</td>
+		</tr>
+		<tr>
+			<td>16</td>
+			<td>28</td>
+			<td>36</td>
+			<td>38</td>
+			<td>53</td>
+			<td>56</td>
+		</tr>
+		<tr>
+			<td>17</td>
+			<td>30</td>
+			<td>39</td>
+			<td>40</td>
+			<td>57</td>
+			<td>60</td>
+		</tr>
+		<tr>
+			<td>18</td>
+			<td>32</td>
+			<td>41</td>
+			<td>42</td>
+			<td>60</td>
+			<td>63</td>
+		</tr>
+		<tr>
+			<td>19</td>
+			<td>33</td>
+			<td>43</td>
+			<td>45</td>
+			<td>63</td>
+			<td>67</td>
+		</tr>
+		<tr>
+			<td>20</td>
+			<td>35</td>
+			<td>46</td>
+			<td>47</td>
+			<td>67</td>
+			<td>70</td>
+		</tr>
+		<tr>
+			<td>21</td>
+			<td>37</td>
+			<td>48</td>
+			<td>50</td>
+			<td>70</td>
+			<td>74</td>
+		</tr>
+		<tr>
+			<td>22</td>
+			<td>39</td>
+			<td>50</td>
+			<td>52</td>
+			<td>73</td>
+			<td>77</td>
+		</tr>
+		<tr>
+			<td>23</td>
+			<td>40</td>
+			<td>52</td>
+			<td>54</td>
+			<td>77</td>
+			<td>81</td>
+		</tr>
+		<tr>
+			<td>24</td>
+			<td>42</td>
+			<td>55</td>
+			<td>57</td>
+			<td>80</td>
+			<td>84</td>
+		</tr>
+		<tr>
+			<td>25</td>
+			<td>44</td>
+			<td>57</td>
+			<td>59</td>
+			<td>83</td>
+			<td>88</td>
+		</tr>
+		<tr>
+			<td>26</td>
+			<td>46</td>
+			<td>59</td>
+			<td>61</td>
+			<td>87</td>
+			<td>91</td>
+		</tr>
+		<tr>
+			<td>27</td>
+			<td>47</td>
+			<td>62</td>
+			<td>64</td>
+			<td>90</td>
+			<td>95</td>
+		</tr>
+		<tr>
+			<td>28</td>
+			<td>49</td>
+			<td>64</td>
+			<td>66</td>
+			<td>93</td>
+			<td>98</td>
+		</tr>
+		<tr>
+			<td>29</td>
+			<td>51</td>
+			<td>66</td>
+			<td>68</td>
+			<td>97</td>
+			<td>102</td>
+		</tr>
+		<tr>
+			<td>30</td>
+			<td>53</td>
+			<td>68</td>
+			<td>71</td>
+			<td>100</td>
+			<td>105</td>
+		</tr>
+		<tr>
+			<td>31</td>
+			<td>54</td>
+			<td>71</td>
+			<td>73</td>
+			<td>103</td>
+			<td>109</td>
+		</tr>
+		<tr>
+			<td>32</td>
+			<td>56</td>
+			<td>73</td>
+			<td>76</td>
+			<td>107</td>
+			<td>112</td>
+		</tr>
+		<tr>
+			<td>33</td>
+			<td>58</td>
+			<td>75</td>
+			<td>78</td>
+			<td>110</td>
+			<td>116</td>
+		</tr>
+		<tr>
+			<td>34</td>
+			<td>60</td>
+			<td>77</td>
+			<td>80</td>
+			<td>113</td>
+			<td>119</td>
+		</tr>
+		<tr>
+			<td>35</td>
+			<td>61</td>
+			<td>80</td>
+			<td>83</td>
+			<td>117</td>
+			<td>123</td>
+		</tr>
+		<tr>
+			<td>36</td>
+			<td>63</td>
+			<td>82</td>
+			<td>85</td>
+			<td>120</td>
+			<td>126</td>
+		</tr>
+	</tbody>
+</table>
+".
+
 ## Afdeling 8. Wijziging van het besluit van de Vlaamse regering van 20 oktober 2000 tot vaststelling van de niveaus, de graden en de daaraan verbonden salarisschalen van het administratief en technisch personeel van de universiteiten in de Vlaamse Gemeenschap
 
 ### ART 31.
@@ -1680,11 +2383,131 @@ vervangen door de rij
 
 ## Afdeling 9. Wijziging van het besluit van de Vlaamse regering van 24 januari 2003 tot vaststelling en indeling van de ambten in het buitengewoon onderwijs
 
+### ART 32.
+
+Aan artikel 7bis, 1°, van het besluit van de Vlaamse regering van 24 januari 2003 tot vaststelling en indeling van de ambten in het buitengewoon onderwijs, ingevoegd bij het besluit van de Vlaamse Regering van 5 december 2003 en gewijzigd bij het besluit van de Vlaamse Regering van 30 september 2005, wordt een punt d) toegevoegd, dat luidt als volgt:<br>
+"d) beleidsondersteuner.".
+
 ## Afdeling 10. Wijzigingen van het besluit van de Vlaamse regering van 21 februari 2003 houdende vaststelling van de loopbaanstructuur en van de salarisschalen van het administratief en technisch personeel van de hogescholen in de Vlaamse Gemeenschap
+
+### ART 33.
+
+Aan artikel 5, § 2, van het besluit van de Vlaamse regering van 21 februari 2003 houdende vaststelling van de loopbaanstructuur en van de salarisschalen van het administratief en technisch personeel van de hogescholen in de Vlaamse Gemeenschap wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"Voor de personeelsleden die vanaf 1 januari 2022 voor het eerst in dienst treden, geldt geen minimumleeftijd meer. De minimumleeftijden, vermeld in de bijlage die bij dit besluit is gevoegd, zijn niet op hen van toepassing.
+
+### ART 34.
+
+In de bijlage bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 30 oktober 2020, worden in de tabel de volgende wijzigingen aangebracht:<br>
+1° de rij
+<table border="1">
+	<tbody>
+		<tr>
+			<td>D1</td>
+			<td>D11 (574)</td>
+			<td>18 jaar</td>
+			<td>13.744,00</td>
+			<td>17.171,64</td>
+			<td>3 x 1: 151,30<br>
+			10 x 2: 270,34<br>
+			1 x 13: 270,34</td>
+		</tr>
+	</tbody>
+</table>
+wordt vervangen door de rij
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>D1</td>
+			<td>D11 (574)</td>
+			<td>18 jaar</td>
+			<td>14.197,90</td>
+			<td>17.171,64</td>
+			<td>1 x 4 : 270,34 9 x 2 : 270,34<br>
+			1 x 13 : 270,34</td>
+		</tr>
+	</tbody>
+</table>
+2° de rij
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>D1</td>
+			<td>D12 (575)</td>
+			<td>18 jaar</td>
+			<td>14.009,26</td>
+			<td>19.195,86</td>
+			<td>3 x 1: 151,30<br>
+			13 x 2: 338,05 1 x 7: 338,05</td>
+		</tr>
+	</tbody>
+</table>
+wordt vervangen door de rij
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>D1</td>
+			<td>D12 (575)</td>
+			<td>18 jaar</td>
+			<td>14.463,16</td>
+			<td>19.195,86</td>
+			<td>1 x 4 : 338,05<br>
+			12 x 2 : 338,05 1 x 7 : 338,05</td>
+		</tr>
+	</tbody>
+</table>
+a";<br>
+3° de rij
+<table border="1">
+	<tbody>
+		<tr>
+			<td>C1</td>
+			<td>C11 (577)</td>
+			<td>20 jaar</td>
+			<td>14.644,68</td>
+			<td>19.589,08</td>
+			<td>3 x 1: 288,70 2 x 2: 337,07 8 x 2: 378,24<br>
+			1 x 13: 378,24</td>
+		</tr>
+	</tbody>
+</table>
+wordt vervangen door de rij
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>C1</td>
+			<td>C11 (577)</td>
+			<td>20 jaar</td>
+			<td>15.510,78</td>
+			<td>19.589,08</td>
+			<td>1 x 4 : 337,07 1 x 2 : 337,07 8 x 2 : 378,24<br>
+			1 x 13 : 378,24</td>
+		</tr>
+	</tbody>
+</table>
+".
 
 ## Afdeling 11. Wijzigingen van het besluit van de Vlaamse regering van 5 maart 2004 betreffende de puntenenveloppen voor de scholengemeenschappen basisonderwijs
 
+### ART 35.
+
+Aan artikel 4ter, § 1, van het besluit van de Vlaamse regering van 5 maart 2004 betreffende de puntenenveloppen voor de scholengemeenschappen basisonderwijs, ingevoegd bij het besluit van de Vlaamse Regering van 30 september 2005, wordt een punt 4° toegevoegd, dat luidt als volgt:<br>
+"4° het ambt van beleidsondersteuner uit de categorie beleids- en ondersteunend personeel.".
+
+### ART 36.
+
+In artikel 4quater, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 30 september 2005, worden de woorden "in het ambt van zorg-coördinator" vervangen door woorden "in de ambten van zorg-coördinator en beleidsondersteuner".
+
 ## Afdeling 12. Wijziging van het besluit van de Vlaamse Regering van 25 juni 2004 tot vaststelling en indeling van de ambten in de instellingen van het gewoon basisonderwijs
+
+### ART 37.
+
+Aan artikel 3, 1°, van het besluit van de Vlaamse Regering van 25 juni 2004 tot vaststelling en indeling van de ambten in de instellingen van het gewoon basisonderwijs, gewijzigd bij het besluit van de Vlaamse Regering van 30 september 2005, wordt een punt d) toegevoegd, dat luidt als volgt:<br>
+"d) beleidsondersteuner;".
 
 ## Afdeling 13. Wijzigingen van het besluit van de Vlaamse Regering van 3 juli 2009 betreffende het omstandigheidsverlof, het verlof wegens overmacht, het onbezoldigd ouderschapsverlof en het geboorteverlof in geval van overlijden of hospitalisatie van de moeder voor bepaalde personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding en tot wijziging van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof voor verminderde prestaties, gewettigd door sociale of familiale redenen en de afwezigheid voor verminderde prestaties wegens persoonlijke aangelegenheid ten gunste van de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding
 
@@ -1710,6 +2533,12 @@ Aan artikel 3 van hetzelfde besluit wordt een tweede lid toegevoegd, dat luidt a
 Aan artikel 7 van hetzelfde besluit wordt een tweede lid ingevoegd, dat luidt als volgt:<br>
 <br>
 "In afwijking van het eerste lid bedraagt de fietsvergoeding voor de personeelsleden, vermeld in artikel V.60, § 1, 7°, en artikel V.60 § 3, van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, 0,21 euro per kilometer.".
+
+### ART 42.
+
+Artikel 7 van hetzelfde besluit, gewijzigd bij dit besluit, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 7. De fietsvergoeding bedraagt 0,21 euro per kilometer."
 
 ### ART 43.
 
@@ -1919,6 +2748,12 @@ In artikel 2 van het besluit van de Vlaamse Regering van 5 oktober 2018 houdende
 "Voor de personeelsleden die vanaf 1 september 2021 voor het eerst in dienst treden, geldt geen minimumleeftijd meer. De minimumleeftijden, vermeld in de bijlage die bij dit besluit is gevoegd, zijn niet van toepassing op hen.".
 
 ## Afdeling 17. Wijziging van het besluit van de Vlaamse Regering van 5 oktober 2018 tot vaststelling van de salarisschalen van de leden van het onderwijzend personeel van de hogescholen in de Vlaamse Gemeenschap
+
+### ART 47.
+
+Aan artikel 2 van het besluit van de Vlaamse Regering van 5 oktober 2018 tot vaststelling van de salarisschalen van de leden van het onderwijzend personeel van de hogescholen in de Vlaamse Gemeenschap, gewijzigd bij het besluit van de Vlaamse Regering van 30 oktober 2020, wordt een paragraaf 3 toegevoegd, die luidt als volgt:<br>
+<br>
+" § 3. Voor de personeelsleden die vanaf 1 januari 2022 voor het eerst in dienst treden, geldt geen minimumleeftijd meer. De minimumleeftijden, vermeld in paragraaf 2, zijn niet van toepassing op hen.".
 
 ## HOOFDSTUK 6. Afsprakenkader samen school maken
 
