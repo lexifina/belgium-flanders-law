@@ -52,7 +52,7 @@ Een startende zelfstandige die in 2019 geen volledig beroepsinkomen heeft, wordt
 
 Alle steun die toegekend wordt met toepassing van dit hoofdstuk en de uitvoeringsbesluiten ervan, wordt verleend binnen de grenzen en voorwaarden, vermeld in Verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (Publicatieblad van 24 december 2013, L 352) en de latere wijzigingen ervan.<br>
 <br>
-In afwijking van het eerste lid kan de steunaanvrager uitdrukkelijk kiezen dat de steun wordt toegekend binnen de grenzen en de voorwaarden, vermeld in de tijdelijke kaderregeling COVID-19, punt 3.1. De beslissing tot toekenning van de steun moet in dat geval worden genomen uiterlijk op 31 december 2021.
+In afwijking van het eerste lid kan de steunaanvrager uitdrukkelijk kiezen dat de steun wordt toegekend binnen de grenzen en de voorwaarden, vermeld in de tijdelijke kaderregeling COVID-19, punt 3.1.&nbsp;
 
 ### ART 3.
 

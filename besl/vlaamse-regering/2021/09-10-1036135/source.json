@@ -2,16 +2,16 @@
   "codex_id": 1036135,
   "title": "Besluit van de Vlaamse Regering van 2021-09-10 betreffende het Vlaams Beschermingsmechanisme voor ondernemingen die een omzetdaling hebben ten gevolge van de coronavirusmaatregelen van 28 oktober 2020 en tot wijziging van artikel 9/1 van het besluit van de Vlaamse Regering van 20 maart 2020 over de corona hinderpremie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036135/VolledigDocument?datum=2021-10-12",
-  "source_sha256": "04b6f24384fe58541045ef76433dd88c464f48b446c19a2e012e81807b87ec01",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036135/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "78848785a1376334696eed87328f8540d24ba90a1ce8cf99074e704497b8e228",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036135&param=informatie",
-  "as_of": "2021-10-12",
+  "as_of": "2022-01-01",
   "made": "2021-09-10",
   "gazette": "2021-10-12",
   "numac": 2021022125,
   "document_start": "2021-10-12",
   "document_end": null,
-  "in_force": "2021-10-12",
+  "in_force": "2022-01-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2021-10-12; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
 }
