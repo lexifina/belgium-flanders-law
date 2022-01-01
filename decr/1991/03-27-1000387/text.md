@@ -840,7 +840,17 @@ In afwijking van het eerste lid kan het ambt van ICT-coördinator door een volti
 
 ### ART. 40octies.
 
-De Vlaamse regering bepaalt de administratieve en geldelijke toestand van de personeelsleden van het beleids- en ondersteunend personeel.<br /><br />In afwachting dat de Vlaamse regering nieuwe uitvoeringsbesluiten vastlegt voor de personeelsleden van het beleids- en ondersteunend personeel van het basisonderwijs, gelden voor:<br />1° de administratieve medewerker de bepalingen die van toepassing zijn voor de administratieve medewerker in het secundair onderwijs met betrekking tot:<br />- de prestatieregeling;<br />- de jaarlijkse vakantieregeling;<br />- de verlofregeling;<br />- de bezoldiging;<br />2° de ICT-coördinator en de zorgcoördinator de bepalingen die van toepassing zijn voor het onderwijzend personeel met betrekking tot:<br />- de jaarlijkse vakantieregeling;<br />- de verlofregeling.
+De Vlaamse regering bepaalt de administratieve en geldelijke toestand van de personeelsleden van het beleids- en ondersteunend personeel.<br>
+<br>
+In afwachting dat de Vlaamse regering nieuwe uitvoeringsbesluiten vastlegt voor de personeelsleden van het beleids- en ondersteunend personeel van het basisonderwijs, gelden voor:<br>
+1° de administratieve medewerker de bepalingen die van toepassing zijn voor de administratieve medewerker in het secundair onderwijs met betrekking tot:<br>
+- de prestatieregeling;<br>
+- de jaarlijkse vakantieregeling;<br>
+- de verlofregeling;<br>
+- de bezoldiging;<br>
+2° de ICT-coördinator, de beleidsondersteuner en de zorgcoördinator de bepalingen die van toepassing zijn voor het onderwijzend personeel met betrekking tot:<br>
+- de jaarlijkse vakantieregeling;<br>
+- de verlofregeling.
 
 ## [AFDELING 7 (ing. decr. 10 juli 2003, art. 55)] [INZETBAARHEID VAN DE PERSONEELSLEDEN BINNEN DE SCHOLENGEMEENSCHAPPEN (verv. Decr. 9 juli 2021, art. 51, I: 1 september 2021)]
 
