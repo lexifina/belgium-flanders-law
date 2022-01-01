@@ -4,17 +4,7 @@
 
 ### ART. 1.
 
-§ 1. Er wordt een dienst met afzonderlijk beheer opgericht, zoals bedoeld in artikel 140 van het konink-lijk besluit van 17 juli 1991 houdende coördinatie van de wetten op de rijkscomptabiliteit onder debenaming "Centrum voor informatie, communicatie en vorming in de Welzijnssector" (afgekort Cicov).<br>
-<br>
-§ 2. De dienst wordt belast met de uitvoering van activiteiten die verband houden met vorming, communicatie en informatie in het kader van het welzijnsbeleid.<br>
-<br>
-Binnen deze opdracht zal de dienst vormings- en informatieactiviteiten van de Vlaamse regering logistiek en inhoudelijk ondersteunen, zorgen voor de redactie van publicaties en zorgen voor de aanmaak van deze publicaties via drukwerk of andere technieken.<br>
-<br>
-De dienst organiseert binnen het kader van zijn opdracht vormings-, overleg, en informatieactiviteiten in het vormingscentrum gelegen Terlindenlaan 14 te Overijse en zorgt voor het onthaal en de ontvangst van de participanten.<br>
-<br>
-§ 3. De dienst beschikt voor de uitvoering van haar activiteiten over een jaarlijkse dotatie ten laste van de begroting van de Vlaamse Gemeenschap en over de inkomsten uit de activiteiten en publicaties bedoeld onder § 2.<br>
-<br>
-Ten laste van deze dienst met afzonderlijk beheer vallen alle uitgaven die verband houden met de in § 2 opgesomde activiteiten alsmede de werkingsuitgaven en uitgaven voor klein materieel voor het onderhoud en de uitrusting van het centrum te Overijse.
+...
 
 ## HOOFDSTUK II JEUGDWERKBELEID
 
