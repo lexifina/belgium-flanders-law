@@ -32,9 +32,8 @@ Dit besluit is van toepassing op de leden van het onderwijzend personeel van de 
 <br>
 Aan de ambten van assistent, werkleider, doctor-assistent, docent, hoofddocent, hoogleraar en gewoon hoogleraar is ook een bijzondere salarisschaal verbonden.<br>
 <br>
-<br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">§ 2. De salarisschalen van het onderwijzend personeel van de hogescholen worden vastgesteld op de wijze, vermeld in de volgende tabel:</span></span></span>
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+§ 2. De salarisschalen van het onderwijzend personeel van de hogescholen worden vastgesteld op de wijze, vermeld in de volgende tabel:
+<table border="1">
 	<tbody>
 		<tr>
 			<td>ambt</td>
@@ -89,12 +88,12 @@ Aan de ambten van assistent, werkleider, doctor-assistent, docent, hoofddocent, 
 		<tr>
 			<td>&nbsp;</td>
 			<td>&nbsp;508 (24j.)<br>
-			bijzondere salaris-schaal</td>
-			<td>18.497,11</td>
-			<td>32.144,62</td>
-			<td>3 x 1: 536,21<br>
-			11 x 2:1003,24<br>
-			1 x 11: 1003,24</td>
+			bijzondere salarisschaal</td>
+			<td>19.699,42</td>
+			<td>34.234,04</td>
+			<td>3 x 1: &nbsp; 571,07<br>
+			11 x 2: 1068,45<br>
+			1 x 11: 1068,45</td>
 		</tr>
 		<tr>
 			<td>werkleider doctor-assistent</td>
@@ -108,12 +107,12 @@ Aan de ambten van assistent, werkleider, doctor-assistent, docent, hoofddocent, 
 		<tr>
 			<td>&nbsp;</td>
 			<td>&nbsp;510 (24j.)<br>
-			bijzondere salaris-schaal</td>
-			<td>20.416,92</td>
-			<td>34.064,43</td>
-			<td>3 x 1: 536,21<br>
-			11 x 2: 1003,24<br>
-			1 x 11: 1003,24</td>
+			bijzondere salarisschaal</td>
+			<td>21.744,02</td>
+			<td>36.278,64</td>
+			<td>3 x 1: &nbsp; 571,07<br>
+			11 x 2: 1068,45<br>
+			1 x 11: 1068,45</td>
 		</tr>
 		<tr>
 			<td>Docent</td>
@@ -128,11 +127,11 @@ Aan de ambten van assistent, werkleider, doctor-assistent, docent, hoofddocent, 
 			<td>&nbsp;</td>
 			<td>&nbsp;512 (24j.)<br>
 			bijzondere salarisschaal</td>
-			<td>22.599,39</td>
-			<td>36.673,65</td>
-			<td>3 x 1: 552,94<br>
-			11 x 2: 1034,62<br>
-			1 x 11: 1034,62</td>
+			<td>24.068,35</td>
+			<td>39.057,43</td>
+			<td>3 x 1: &nbsp; 588.88<br>
+			11 x 2: 1101,87<br>
+			1 x 11: 1101.87</td>
 		</tr>
 		<tr>
 			<td>Hoofddocent</td>
@@ -146,12 +145,12 @@ Aan de ambten van assistent, werkleider, doctor-assistent, docent, hoofddocent, 
 		<tr>
 			<td>&nbsp;</td>
 			<td>&nbsp;513 (24j.)<br>
-			bijzondere salaris-schaal</td>
-			<td>24.369,02</td>
-			<td>39.320,78</td>
-			<td>3 x 1: 656,48<br>
-			11 x 2: 1081,86<br>
-			1 x 11: 1081,86</td>
+			bijzondere salarisschaal</td>
+			<td>25.953,01</td>
+			<td>41.876,63</td>
+			<td>&nbsp; 3 x 1: &nbsp; 699,15<br>
+			11 x 2: 1152,18<br>
+			1 x 11: 1152,18</td>
 		</tr>
 		<tr>
 			<td>Hoogleraar</td>
@@ -165,12 +164,12 @@ Aan de ambten van assistent, werkleider, doctor-assistent, docent, hoofddocent, 
 		<tr>
 			<td>&nbsp;</td>
 			<td>&nbsp;519 (24j.)<br>
-			bijzondere salaris-schaal</td>
-			<td>28.146,92</td>
-			<td>42.221,18</td>
-			<td>3 x 1: 552,94<br>
-			11 x 2: 1034,62<br>
-			1 x 11: 1034,62</td>
+			bijzondere salarisschaal</td>
+			<td>29.976,67</td>
+			<td>44.965,56</td>
+			<td>3 x 1: &nbsp; 588,88<br>
+			11 x 2: 1101,87<br>
+			1 x 11: 1101,87</td>
 		</tr>
 		<tr>
 			<td>gewoon hoogleraar</td>
@@ -184,17 +183,17 @@ Aan de ambten van assistent, werkleider, doctor-assistent, docent, hoofddocent, 
 		<tr>
 			<td>&nbsp;</td>
 			<td>&nbsp;521 (24j.)<br>
-			bijzondere salaris-schaal</td>
-			<td>36.437,91</td>
-			<td>57.171,72</td>
-			<td>3 x 1: 764,23<br>
-			11 x 2: 1536,76<br>
-			1 x 11: 1536,76</td>
+			bijzondere salarisschaal</td>
+			<td>38.806,37</td>
+			<td>60.887,88</td>
+			<td>3 x 1: &nbsp; 813,90<br>
+			11 x 2: 1636,65<br>
+			1 x 11: 1636,65</td>
 		</tr>
 	</tbody>
 </table>
 <br>
-&nbsp;
+§ 3. Voor de personeelsleden die vanaf 1 januari 2022 voor het eerst in dienst treden, geldt geen minimumleeftijd meer. De minimumleeftijden, vermeld in paragraaf 2, zijn niet van toepassing op hen.
 
 ### ART 3.
 
