@@ -229,16 +229,16 @@ Een overschot als vermeld in het eerste lid, wordt gecompenseerd door een tekort
 Er wordt voor elk vertrouwenscentrum kindermishandeling jaarlijks aanvullend een tegemoetkoming voor anciënniteitsontwikkeling vastgesteld, op basis van het verschil in gemiddelde anciënniteit van de personeelsleden van het vertrouwenscentrum kindermishandeling in het voorgaande jaar, in vergelijking met het basisjaar 2016.<br>
 <br>
 § 2. Onverminderd artikel 27, paragraaf 1, behoudt het vertrouwenscentrum kindermishandeling, vermeld in artikel 53, bij de berekening van het subsidiebedrag, vermeld in paragraaf 1, eerste lid, het volgende subsidiebedrag dat op dat vertrouwenscentrum kindermishandeling betrekking heeft:<br>
-1° vertrouwenscentrum kindermishandeling Antwerpen: 1.626.910,85 euro (een miljoen zeshonderdzesentwintigduizend negenhonderdentien euro vijfentachtig cent);<br>
-2° vertrouwenscentrum kindermishandeling Brussel-Hoofdstad: 894.196,56 euro (achthonderdvierennegentigduizend honderdzesennegentig euro zesenvijftig cent);<br>
-3° vertrouwenscentrum kindermishandeling Limburg: 1.009.918,42 euro (een miljoen negenduizend negenhonderdachttien euro tweeënveertig cent);<br>
-4° vertrouwenscentrum kindermishandeling Oost-Vlaanderen: 1.245.123,14 euro (een miljoen tweehonderdvijfenveertigduizend honderddrieëntwintig euro veertien cent);<br>
-5° vertrouwenscentrum kindermishandeling Vlaams-Brabant: 1.130.249,38 euro (een miljoen honderddertigduizend tweehonderdnegenenveertig euro achtendertig cent);<br>
-6° vertrouwenscentrum kindermishandeling West-Vlaanderen: 1.135.978,33 euro (een miljoen honderdvijfendertigduizend negenhonderdachtenzeventig euro drieëndertig cent).<br>
+1° vertrouwenscentrum kindermishandeling Antwerpen: 1.644.181,23 euro (een miljoen zeshonderdvierenveertigduizend honderdeenentachtig euro drieëntwintig cent);<br>
+2° vertrouwenscentrum kindermishandeling Brussel-Hoofdstad: 907.994,25 euro (negenhonderdenzevenduizend negenhonderdvierennegentig euro vijfentwintig cent);<br>
+3° vertrouwenscentrum kindermishandeling Limburg: 1.024.794,48 euro (een miljoen vierentwintigduizend zevenhonderdvierennegentig euro achtenveertig cent);<br>
+4° vertrouwenscentrum kindermishandeling Oost-Vlaanderen: 1.261.066,59 euro (een miljoen tweehonderdeenenzestigduizend zesenzestig euro negenenvijftig cent);<br>
+5° vertrouwenscentrum kindermishandeling Vlaams-Brabant: 1.144.558,84 euro (een miljoen honderdvierenveertigduizend vijfhonderdachtenvijftig euro vierentachtig cent);<br>
+6° vertrouwenscentrum kindermishandeling West-Vlaanderen: 1.151.033,50 euro (een miljoen honderdeenenvijftigduizend drieëndertig euro vijftig cent).<br>
 <br>
-§ 3. De jaarlijkse aanvullende subsidie voor het vertrouwenscentrum kindermishandeling dat de elektronische toegang via de chat verzekert, vermeld in artikel 10, § 1, tweede lid, bedraagt 106.453,90 euro (honderdenzesduizend vierhonderddrieënvijftig euro negentig cent). Als de elektronische toegang via de chat door meer dan één vertrouwenscentrum kindermishandeling wordt verzekerd, bepaalt het agentschap na overleg met de betrokken vertrouwenscentra kindermishandeling de verdeling van de aanvullende subsidie over de betreffende vertrouwenscentra kindermishandeling.<br>
+§ 3. De jaarlijkse aanvullende subsidie voor het vertrouwenscentrum kindermishandeling dat de elektronische toegang via de chat verzekert, vermeld in artikel 10, § 1, tweede lid, bedraagt 116.101,98 euro (honderdzestienduizend honderdeneen euro achtennegentig cent). Als de elektronische toegang via de chat door meer dan één vertrouwenscentrum kindermishandeling wordt verzekerd, bepaalt het agentschap na overleg met de betrokken vertrouwenscentra kindermishandeling de verdeling van de aanvullende subsidie over de betreffende vertrouwenscentra kindermishandeling.<br>
 <br>
-§ 3/1. De jaarlijkse subsidie voor de partnerorganisatie bedraagt 100.968,13 euro (honderdduizend negenhonderdachtenzestig euro dertien cent).<br>
+§ 3/1. De jaarlijkse subsidie voor de partnerorganisatie bedraagt 101.767,18 euro (honderdeneenduizend zevenhonderdzevenenzestig euro achttien cent).<br>
 <br>
 § 4. De subsidies, vermeld in dit artikel, zijn gekoppeld aan de spilindex die van toepassing is op 1 januari 2021. De bedragen worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing wordt telkens gedaan vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.
 
@@ -246,9 +246,11 @@ Er wordt voor elk vertrouwenscentrum kindermishandeling jaarlijks aanvullend een
 
 ### ART 32.
 
-Het agentschap betaalt uiterlijk op het einde van het eerste kwartaal van het jaar een voorschot uit van 90 % van het geraamde subsidiebedrag van dat jaar.<br>
+Het agentschap betaalt bij het begin van elk kwartaal aan het vertrouwenscentrum kindermishandeling een voorschot uit dat 90% van de geraamde subsidie bedraagt.<br>
 <br>
-Voor het jaar waarin de subsidie wordt opgestart, wordt het voorschot uitbetaald na de kennisgeving van de beslissing tot toekenning van de subsidie conform artikel 46, derde lid.<br>
+Het agentschap betaalt bij het begin van het eerste kwartaal van het jaar aan de partnerorganisatie een voorschot uit dat 90% van de geraamde subsidie voor dat jaar bedraagt.<br>
+<br>
+Voor het jaar waarin de subsidie wordt opgestart, wordt het eerste voorschot uitbetaald in de maand die volgt op de maand waarin het agentschap de aanvrager op de hoogte brengt van de beslissing tot toekenning van de subsidie conform artikel 46, derde lid.<br>
 <br>
 Na de verwerking van het financieel verslag, vermeld in artikel 29, wordt het eventuele saldo van het subsidiebedrag uitbetaald. Als door de uitbetaling van het volledige saldo een van de maxima, vermeld in artikel 30, wordt overschreden, wordt het saldo verminderd met het bedrag dat de maxima overschrijdt. Het agentschap brengt het vertrouwenscentrum kindermishandeling en de partnerorganisatie op de hoogte van de voormelde saldoafrekening.
 

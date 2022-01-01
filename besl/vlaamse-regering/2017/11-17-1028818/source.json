@@ -2,16 +2,16 @@
   "codex_id": 1028818,
   "title": "Besluit van de Vlaamse Regering van 2017-11-17 betreffende de erkenning en subsidiëring van de vertrouwenscentra kindermishandeling en de partnerorganisatie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028818/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "65b0bbe50c24f1d85ca00bb27817146d99af2e0d540944635748e46d44da2cc2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028818/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "3b8c001eb68263e6d3bc220dd714b7e1ccab942c163e88a996a8459979a70f80",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028818&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2022-01-01",
   "made": "2017-11-17",
   "gazette": "2017-12-15",
   "numac": 2017031838,
   "document_start": "2018-01-01",
   "document_end": null,
-  "in_force": "2021-01-01",
+  "in_force": "2022-01-01",
   "article_versions": 57,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
 }
