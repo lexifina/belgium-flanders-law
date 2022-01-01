@@ -205,6 +205,10 @@ In artikel 485 van hetzelfde besluit, gewijzigd bij besluit van de Vlaamse Reger
 
 In artikel 487, § 2, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 7 december 2018, wordt het getal "13,50" vervangen door het getal "15".
 
+### ART 18.
+
+In boek 3, deel 2, titel 3, hoofdstuk 1, afdeling 1, van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 4 december 2020, wordt onderafdeling 20, die bestaat uit artkel 504/3, opgeheven.
+
 ### ART 19.
 
 Aan boek 3, deel 2, titel 3, hoofdstuk 1, afdeling 1, van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 4 december 2020, wordt een onderafdeling 21, die bestaat uit artikel 504/4, toegevoegd, die luidt als volgt:<br>
