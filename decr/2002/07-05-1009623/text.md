@@ -97,6 +97,8 @@ Vanaf het eerste jaar van de tweede bestuursperiode is de toe te passen index ge
 
 § 1. Het berekende gemeentelijk aandeel, na de toepassing van de waarborgregeling, bedoeld in artikel 10 van dit decreet, wordt verminderd als de aanslagvoeten voor de aanvullende personenbelasting of de opcentiemen op de onroerende voorheffing van die gemeente, in het jaar dat aan de berekening voorafgaat, lager zijn dan de respectieve drempelwaarden van 5 % en&nbsp;441 opcentiemen. Die vermindering bedraagt respectievelijk 0,5 % voor elk tiende van een procent en vijfentwintig&nbsp;vierhonderdeenenveertigste procent voor elke opcentiem onder de drempelwaarde.<br>
 <br>
+Als de gemeente gedifferentieerde tarieven voor de opcentiemen op de onroerende voorheffing heeft vastgesteld overeenkomstig artikel 41 van het decreet van 22 december 2017 over het lokaal bestuur, wordt het eerste lid van toepassing als het gewogen gemiddelde van alle tarieven lager ligt dan de drempelwaarde van 441 opcentiemen. Voor de berekening van het gewogen gemiddelde wordt aan de verschillende tarieven een wegingsfactor toegekend die overeenstemt met het aandeel van het belastbaar kadastraal inkomen waarop elk tarief van toepassing is, in verhouding tot het totale belastbare kadastrale inkomen van de gemeente.<br>
+<br>
 § 2. De som van de bedragen die in mindering wordt gebracht van de gemeenten bedoeld in § 1, wordt evenredig verdeeld onder de overige gemeenten, behalve onder de gemeenten van wie de aandelen overeenkomstig de bepalingen in artikel 10, verhoogd werden tot de gewaarborgde ontvangst.<br>
 <br>
 § 3. De vermindering van de aandelen op basis van de fiscale aanslagvoeten wordt gradueel ingevoerd vanaf het jaar 2004. Voor 2004 wordt slechts een derde van de berekende vermindering afgehouden van het gemeentelijk aandeel. Voor 2005 is dat twee derden, voor 2006 en volgende jaren 100 %.
@@ -113,7 +115,7 @@ Vanaf het eerste jaar van de tweede bestuursperiode is de toe te passen index ge
 
 ### ART. 13.
 
-Op het einde van de eerste maand van elk kwartaal wordt, onverminderd de bepalingen van artikel 21, aan elke gemeente en aan elk OCMW een voorschot uitbetaald dat gelijk is aan één vierde van hun aandeel, volgens de verhouding bepaald in artikel 12, en zonder de jaarlijkse inhouding bepaald in artikel 19sexies, § 1, en de vermindering bepaald in artikel 19septies van het laatste jaar waarvoor de Vlaamse regering de definitieve verdeling heeft bepaald.
+Op het einde van de maanden januari tot en met oktober van elk jaar worden, onverminderd de bepalingen van artikel 21, aan elke gemeente en aan elk OCMW een voorschot uitbetaald dat gelijk is aan één tiende van hun aandeel, volgens de verhouding bepaald in artikel 12, en zonder de jaarlijkse inhouding bepaald in artikel 19sexies, § 1, en de vermindering bepaald in artikel 19septies van het laatste jaar waarvoor de Vlaamse regering de definitieve verdeling heeft bepaald.
 
 ### ART. 14.
 
@@ -137,7 +139,9 @@ De Vlaamse regering bepaalt de modaliteiten voor de uitbetaling van de voorschot
 
 ### ART. 19.
 
-Onverminderd de regels bepaald in de artikelen 41 en 50 van de wetten op de rijkscomptabiliteit, gecoördineerd op 17 juli 1991, worden de aan de gemeenten en OCMW's toegekende voorschotten en eindsaldi in het kader van dit decreet vrijgesteld van het voorafgaand visum van het Rekenhof. Het Rekenhof kan een controle a posteriori verrichten met betrekking tot de toepassing van dit decreet.
+Onverminderd de regels bepaald in de artikelen 41 en 50 van de wetten op de rijkscomptabiliteit, gecoördineerd op 17 juli 1991, worden de aan de gemeenten en OCMW's toegekende voorschotten en eindsaldi in het kader van dit decreet vrijgesteld van het voorafgaand visum van het Rekenhof. Het Rekenhof kan een controle a posteriori verrichten met betrekking tot de toepassing van dit decreet.<br>
+<br>
+Voor de jaarlijkse toekenningsbesluiten van voorschotten, eindsaldi en subsidiebedragen in het kader van dit decreet is geen voorafgaande controle, zoals bedoeld in artikel 75 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, vereist.
 
 ## [HOOFDSTUK IIIbis BIJZONDERE BEPALINGEN INZAKE DE VASTSTELLING EN VERDELING VAN DE AANVULLENDE DOTATIE TER COMPENSATIE VAN DE AFSCHAFFING VAN DE ELIATAKS (ing. decr. 21 december 2007, art. 53, I: 31 oktober 2007)]
 
@@ -151,7 +155,7 @@ Onverminderd de regels bepaald in de artikelen 41 en 50 van de wetten op de rijk
 
 ### ART. 19quater.
 
-De gemeentelijke aandelen in de aanvullende dotatie waarvan sprake in artikel 19bis en berekend overeenkomstig de bepalingen van artikel 19ter, worden voor het volledige bedrag aan de gemeenten betaald op het einde van de eerste maand van het tweede kwartaal.<br /><br />In afwijking van het in het eerste lid bepaalde kunnen de gemeentelijke aandelen in de aanvullende dotatie voor het jaar 2009 voor het volledige bedrag betaald worden in het jaar 2008.
+De gemeentelijke aandelen in de aanvullende dotatie waarvan sprake in artikel 19bis en berekend overeenkomstig de bepalingen van artikel 19ter, worden aan de gemeenten betaald&nbsp;in tien gelijke delen, telkens op het einde van de maanden januari tot en met oktober van het begrotingsjaar.
 
 ### ART. 19quinquies.
 
@@ -169,7 +173,7 @@ Vóór de jaarlijkse inhouding bepaald in artikel 19sexies, § 1, tweede lid, wo
 
 ### ART. 19octies.
 
-De inhouding zoals bepaald in artikel 19 sexies, § 1, en de vermindering van artikel 19septies worden gelijkmatig verrekend op de vier kwartaalvoorschotten op het aandeel van elk van de genoemde besturen voor het daaropvolgende jaar.
+De inhouding zoals bepaald in artikel 19 sexies, § 1, en de vermindering van artikel 19septies worden gelijkmatig verrekend op de&nbsp;tien voorschotten op het aandeel van elk van de genoemde besturen voor het daaropvolgende jaar.
 
 ## [HOOFDSTUK IIIquater BIJZONDERE BEPALINGEN OVER DE VASTSTELLING VAN DE AANVULLENDE DOTATIE (ing. decr. 22 december 2017, art. 46, I: 1 januari 2018)]
 
@@ -183,7 +187,7 @@ De lijst met gemeenten en hun aandelen in de aanvullende dotatie, vermeld in art
 
 ### ART. 19undecies.
 
-De gemeentelijke aandelen in de aanvullende dotatie, vermeld in artikel 19decies, worden aan de gemeenten uitbetaald voor 50% op het einde van april van het begrotingsjaar, voor 25% op het einde van oktober van het begrotingsjaar en voor 25% op het einde van januari van het volgende begrotingsjaar.
+De gemeentelijke aandelen in de aanvullende dotatie, vermeld in artikel 19decies, worden aan de gemeenten uitbetaald in tien gelijke delen, telkens op het einde van de maanden januari tot en met oktober van het begrotingsjaar.
 
 ### ART. 19duodecies.
 
@@ -203,7 +207,7 @@ De waarborgregeling uit het Sociaal Impulsfonds 2002 is van toepassing op de aan
 
 ### ART 19quinquies decies.
 
-De aandelen in de aanvullende dotatie, vermeld in artikel 19quater decies, worden aan de centrumsteden Antwerpen, Gent, Aalst, Brugge, Genk, Hasselt, Kortrijk, Leuven, Mechelen, Oostende, Roeselare, Sint-Niklaas en Turnhout uitbetaald in vier gelijke delen, telkens op het einde van de eerste maand van elk kwartaal.
+De aandelen in de aanvullende dotatie, vermeld in artikel 19quater decies, worden aan de centrumsteden Antwerpen, Gent, Aalst, Brugge, Genk, Hasselt, Kortrijk, Leuven, Mechelen, Oostende, Roeselare, Sint-Niklaas en Turnhout uitbetaald in tien gelijke delen, telkens op het einde van de maanden januari tot en met oktober van het begrotingsjaar.
 
 ### ART 19sexies decies.
 
@@ -228,7 +232,7 @@ Vanaf het begrotingsjaar 2019 wordt het bedrag voor de stad Kortrijk, vermeld in
 
 ### ART 19duodevicies.
 
-De bedragen vermeld in artikel 19septies decies, worden aan de gemeenten uitbetaald in vier gelijke delen, telkens op het einde van de eerste maand van elk kwartaal.
+De bedragen vermeld in artikel 19septies decies, worden aan de gemeenten uitbetaald&nbsp;in tien gelijke delen, telkens op het einde van de maanden januari tot en met oktober van het begrotingsjaar.
 
 ### ART 19undevicies.
 
