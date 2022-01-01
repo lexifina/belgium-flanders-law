@@ -8,6 +8,11 @@
 
 ## HOOFDSTUK 4. Wijzigingen van het decreet basisonderwijs van 25 februari 1997
 
+### ART 4.
+
+In artikel 3 van het decreet basisonderwijs van 25 februari 1997, het laatst gewijzigd bij het decreet van 9 juli 2021, wordt punt 52° bis/2 vervangen door wat volgt:<br>
+"52° bis/2 thuisloze: een leerling die tijdelijk of permanent buiten het eigen gezinsverband opgenomen is door een gezin of persoon, een voorziening of een sociale dienst, bedoeld in het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand, met uitzondering van de internaten die gefinancierd of gesubsidieerd worden door het Departement Onderwijs en Vorming van de Vlaamse Gemeenschap, of een leerling die een niet-begeleide minderjarige vreemdeling is als vermeld in artikel 479 van de programmawet I van 24 december 2002;".
+
 ### ART 5.
 
 In artikel 3 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 9 juli 2021, worden de volgende wijzigingen aangebracht:<br>
@@ -46,6 +51,11 @@ In artikel 153septies, § 2, van hetzelfde decreet, ingevoegd bij het decreet va
 ## HOOFDSTUK 7. Wijziging van het decreet van 30 november 2007 betreffende het flankerend onderwijsbeleid op lokaal niveau.
 
 ## HOOFDSTUK 8. Wijzigingen van de Codex Secundair Onderwijs van 17 december 2010
+
+### ART 25.
+
+In artikel 3 van de Codex Secundair Onderwijs van 17 december 2010, het laatst gewijzigd bij het decreet van 9 juli 2021, wordt punt 43° /2 vervangen door wat volgt:<br>
+"43° /2 thuisloze: een leerling die tijdelijk of permanent buiten het eigen gezinsverband opgenomen is door een gezin of persoon, een voorziening of een sociale dienst, bedoeld in het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand, met uitzondering van de internaten die gefinancierd of gesubsidieerd worden door het Departement Onderwijs en Vorming van de Vlaamse Gemeenschap of een leerling die een niet-begeleide minderjarige vreemdeling is als vermeld in artikel 479 van de Programmawet I van 24 december 2002;".
 
 ### ART 26.
 
