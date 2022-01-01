@@ -54,8 +54,8 @@ d) Voka, Vlaams netwerk van ondernemingen;<br>
 a) één door Algemeen Belgisch Vakverbond;<br>
 b) één door Algemeen Christelijk Vakverbond;<br>
 c) één door Algemene Centrale der Liberale Vakbonden van België;<br>
-d) de vertegenwoordiger van een sectorale vakbond die actief is in het beleid inzake welzijn en justitiehuizen, het beleid inzake Vlaamse Sociale Bescherming en het beleid inzake personen met een handicap, het beleid inzake gezondheid en het beleid inzake gezin en jongerenwelzijn wordt gezamenlijk voorgedragen door de koepels, vermeld in punten a), b) en c);<br>
-3° de acht vertegenwoordigers van voorzieningen of zelfstandige zorgverstrekkers die actief zijn in het beleid inzake welzijn en justitiehuizen, het beleid inzake Vlaamse Sociale Bescherming en het beleid inzake personen met een handicap, het beleid inzake gezondheid en het beleid inzake gezin en jongerenwelzijn:<br>
+d) de vertegenwoordiger van een sectorale vakbond die actief is in het beleid inzake welzijn, het beleid inzake Vlaamse Sociale Bescherming en het beleid inzake personen met een handicap, het beleid inzake gezondheid en het beleid inzake gezin en jongerenwelzijn wordt gezamenlijk voorgedragen door de koepels, vermeld in punten a), b) en c);<br>
+3° de acht vertegenwoordigers van voorzieningen of zelfstandige zorgverstrekkers die actief zijn in het beleid inzake welzijn, het beleid inzake Vlaamse Sociale Bescherming en het beleid inzake personen met een handicap, het beleid inzake gezondheid en het beleid inzake gezin en jongerenwelzijn:<br>
 a) één door Federatie van Vrije Beroepen;<br>
 b) één door SOM de Federatie van Sociale Ondernemingen;<br>
 c) één door Vereniging van diensten voor gezinszorg van de Vlaamse Gemeenschap;<br>
@@ -73,7 +73,7 @@ a) Zorgkas van de Onafhankelijke Ziekenfondsen;<br>
 b) Zorgkas van de Socialistische mutualiteiten.<br>
 6° de vertegenwoordiger van een van de volgende private uitbetalingsactoren:<br>
 My Family, Infino, Parentia of Kidslife;<br>
-7° de vier vertegenwoordigers van gebruikers in het kader van het beleid inzake welzijn en justitiehuizen, het beleid inzake Vlaamse Sociale Bescherming en het beleid inzake personen met een handicap, het beleid inzake gezondheid en het beleid inzake gezin en jongerenwelzijn:<br>
+7° de vier vertegenwoordigers van gebruikers in het kader van het beleid inzake welzijn, het beleid inzake Vlaamse Sociale Bescherming en het beleid inzake personen met een handicap, het beleid inzake gezondheid en het beleid inzake gezin en jongerenwelzijn:<br>
 a) één door Gezinsbond;<br>
 b) één door Vlaamse Ouderenraad;<br>
 c) één door Vlaams Patiëntenplatform;<br>
