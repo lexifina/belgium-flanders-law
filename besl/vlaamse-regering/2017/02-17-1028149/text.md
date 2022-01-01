@@ -546,7 +546,7 @@ Het variabele aandeel van de begeleidingspremie bedraagt:<br>
 
 ### ART 49.
 
-De premie die conform het besluit van de Vlaamse Regering van 27 oktober 1993 tot veralgemening van het stelsel van gesubsidieerde contractuelen wordt toegekend aan de werkvloerbegeleider, vermeld in artikel 3, § 1, 12°, van het voormelde besluit, in dienst van het maatwerkbedrijf of de maatwerkafdeling, wordt in mindering gebracht van de vergoeding voor begeleiding, vermeld in artikel 48 van dit besluit.
+...
 
 ## Afdeling 3 Werkondersteunende maatregelen bij aanwerving
 
