@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036783,
+  "title": "Decreet van 2022-03-18 tot wijziging van het Energiedecreet van 8 mei 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036783/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "5e073b9f9592bf009c63a31c4eacfb2792e3ee158c118358ca4f8cc7081fe8f9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036783&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2022-03-18",
+  "gazette": "2022-03-30",
+  "numac": 2022031329,
+  "document_start": "2022-04-09",
+  "document_end": null,
+  "in_force": "2022-01-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
