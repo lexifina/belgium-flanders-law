@@ -65,22 +65,22 @@ In het streven naar maximale toegankelijkheid en laagdrempeligheid als   vermeld
 Om het subsidiebedrag, vermeld in artikel 61 van het besluit van 28 maart 2014, voor elke erkende en gesubsidieerde opvoedingswinkel vast te stellen, wordt een vast bedrag vermeerderd met een variabel bedrag.<br>
 <br>
 Het vaste bedrag, vermeld in het eerste lid, bedraagt voor een opvoedingswinkel in:<br>
-1° de grootstad Antwerpen of Gent: 53.190,90 euro (drieënvijftigduizend honderdnegentig euro negentig cent);<br>
-2° het tweetalige gebied Brussel-Hoofdstad: 53.190,90 euro (drieënvijftigduizend honderdnegentig euro negentig cent);<br>
-3° een centrumstad, met uitzondering van Antwerpen en Gent: 24.052,95 euro (vierentwintigduizend tweeënvijftig euro vijvennegentig cent);<br>
-4° een niet-centrumstad: 10.872,27 euro (tienduizend achthonderdtweeënzeventig euro zevenentwintig cent).<br>
+1° de grootstad Antwerpen of Gent: 53.560,59 euro (drieënvijftigduizend vijfhonderdzestig euro negenenvijftig cent);<br>
+2° het tweetalige gebied Brussel-Hoofdstad: 53.560,59 euro (drieënvijftigduizend vijfhonderdzestig euro negenenvijftig cent);<br>
+3° een centrumstad, met uitzondering van Antwerpen en Gent: 24.237,80 euro (vierentwintigduizend;<br>
+4° een niet-centrumstad: 10.983,17 euro (tienduizend negenhonderddrieëntachtig euro zeventien cent).<br>
 <br>
 Om het variabele bedrag, vermeld in het eerste lid, te berekenen, geldt een basisbedrag dat bestaat uit het aantal minderjarigen in het werkingsgebied, vermenigvuldigd met 0.68 euro (achtenzestig cent). Het basisbedrag wordt vermeerderd met het bedrag dat verkregen wordt door de samengestelde indicator te vermenigvuldigen met 20% van het basisbedrag en met een bedrag dat rekening houdt met de evolutie van de geldelijke anciënniteit, vermeld in artikel 61, § 1/1, eerste lid, 3°, van het besluit van 28 maart 2014.<br>
 <br>
 Het maximale subsidiebedrag dat aan een opvoedingswinkel kan worden toegekend, rekening houdend met de beschikbare begrotingskredieten, bedraagt voor een opvoedingswinkel in:<br>
-1° de grootstad Antwerpen of Gent: 59.292,90 euro (negenenvijftigduizend tweehonderdtweeënnegentig euro negentig cent);<br>
-2° het tweetalige gebied Brussel-Hoofdstad: 59.292,90 euro (negenenvijftigduizend tweehonderdtweeënnegentig euro negentig cent);<br>
-3° een centrumstad, met uitzondering van Antwerpen en Gent: 32.188,95 euro (tweeëndertigduizend honderdachtentachtig euro vijvennegentig cent);<br>
+1° de grootstad Antwerpen of Gent: 59.662,59 euro (negenenvijftigduizend zeshonderdtweeënzestig euro negenenvijftig cent);<br>
+2° het tweetalige gebied Brussel-Hoofdstad: 59.662,59 euro (negenenvijftigduizend zeshonderdtweeënzestig euro negenenvijftig cent);<br>
+3° een centrumstad, met uitzondering van Antwerpen en Gent: 32.373,80 euro (tweeëndertigduizend driehonderddrieënzeventig euro tachtig cent);<br>
 4° een niet-centrumstad met:<br>
-a) minder dan 10.000 minderjarigen: 13.414,77 euro (dertienduizend vierhonderdveertien euro zevenenzeventig cent);<br>
-b) 10.000 tot en met 20.000 minderjarigen: 21.042,27 euro (eenentwintigduizend tweeënveertig euro zevenentwintig cent);<br>
-c) 20.001 tot en met 30.000 minderjarigen: 26.127,27 euro (zessentwintigduizend honderdzevenentwintig euro zevenentwintig cent);<br>
-d) meer dan 30.000 minderjarigen: 36.297,27 euro (zessendertigduizend tweehonderdzevenennegentig euro zevenentwintig cent.<br>
+a) minder dan 10.000 minderjarigen: 13.525,67 euro (dertienduizend vijfhonderdvijventwintig euro zevenenzestig cent);<br>
+b) 10.000 tot en met 20.000 minderjarigen: 21.153,17 euro (eenentwintigduizend honderddrieënvijfitg euro zeventien cent);<br>
+c) 20.001 tot en met 30.000 minderjarigen: 26.238,17 euro (zessentwintigduizend tweehonderdachtendertig euro zeventien cent);<br>
+d) meer dan 30.000 minderjarigen: 36.408,17 euro (zessendertigduizend vierhonderdenacht euro zeventien cent).<br>
 <br>
 De subsidie, vermeld in dit artikel, is gekoppeld aan de spilindex die van toepassing is op 1 januari 2021. De bedragen worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing wordt telkens gedaan vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.
 
