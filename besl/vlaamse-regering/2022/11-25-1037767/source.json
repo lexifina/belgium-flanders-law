@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037767,
+  "title": "Besluit van de Vlaamse Regering van 2022-11-25 tot wijziging van het besluit van de Vlaamse regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap en het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders, wat betreft de eenmalige verhoging van de persoonlijke-assitentiebudgetten en de persoonsvolgende budgetten voor personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037767/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "167b698ef40e7226d84faa3fdc683a6737a30612682ee96f916337e501c556d4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037767&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2022-11-25",
+  "gazette": "2023-01-30",
+  "numac": 2022034667,
+  "document_start": "2022-01-01",
+  "document_end": null,
+  "in_force": "2022-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
