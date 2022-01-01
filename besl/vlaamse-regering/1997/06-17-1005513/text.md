@@ -767,399 +767,346 @@ Met toepassing van artikel 150, § 2 van het decreet worden uit het urenpakket z
 
 ### ART. 25bis.
 
-Met toepassing van artikel 153novies van het decreet wordt aan iedere school voor buitengewoon basisonderwijs een puntenenveloppe voor administratief personeel toegekend.  <span class="reference">(ing. B.V.R. 5 maart 2004, art. 1, I: 1 september 2003)</span> ]
+Met toepassing van artikel 153novies van het decreet wordt aan iedere school voor buitengewoon basisonderwijs een puntenenveloppe voor administratieve en beleidsondersteuning.
 
 ### ART. 25ter.
 
-§ 1. De totale puntenenveloppe voor het gesubsidieerd buitengewoon basisonderwijs wordt per schooljaar berekend door het binnen de begrotingskredieten beschikbare budget voor administratief personeel in het gesubsidieerd buitengewoon basisonderwijs te delen door de geldwaarde per punt. De geldwaarde per punt wordt bepaald door de gemiddelde loonkost van een full-time betrekking te delen door 82.<br /><br />§ 2. Elke school, met uitzondering van de type 5 scholen, heeft recht op een basisenveloppe van 9 punten.<br /><br />§ 3. Per school, met uitzondering van de type 5 scholen, wordt een bijkomende puntenenveloppe toegekend die berekend wordt door het gewogen aantal regelmatige leerlingen ingeschreven op de teldag of het gemiddeld aantal regelmatige leerlingen tijdens de telperiode die van toepassing is voor de berekening van de lestijden volgens de schalen, te vermenigvuldigen met de puntenwaarde per leerling en waarbij:<br /><br />- de wegingcoëfficiënt voor een leerling lager onderwijs gelijk is aan 1 en de wegingscoëfficiënt voor een kleuter gelijk is aan 0,6636;<br /><br />- de puntenwaarde per leerling het resultaat is van de volgende bewerking:<br /><br />totale puntenveloppe - (9 x aantal scholen van het gesubsidieerd buitengewoon basisonderwijs met uitzondering van de type 5 scholen) / totaal gewogen aantal leerlingen gesubsidieerd buitengewoon basisonderwijs met uitzondering van de leerlingen in de type 5 scholen;<br /><br />- het resultaat van de berekening van deze bijkomende puntenenveloppe wordt afgerond naar de hogere eenheid indien het eerste cijfer na de komma groter is dan 4.<br /><br />§ 4. Elke type 5 school in het buitengewoon basisonderwijs heeft recht op een basisenveloppe van 53 punten. Daarnaast wordt een bijkomende puntenenveloppe toegekend van 41 punten per bijkomende vestigingsplaats.
+§ 1. Met toepassing van artikel 153sexies, § 1, van het decreet heeft elke school voor buitengewoon basisonderwijs, met uitzondering van type 5-scholen, recht op een basisenveloppe voor administratieve en beleidsondersteuning van negen punten.<br>
+<br>
+§ 2. Per school voor buitengewoon basisonderwijs, met uitzondering van type 5-scholen, wordt naast de punten, vermeld in paragraaf 1, een bijkomend aantal punten voor administratieve en beleidsondersteuning toegekend die berekend wordt door het gewogen aantal regelmatige leerlingen dat ingeschreven is op de teldag, of het gemiddelde aantal regelmatige leerlingen tijdens de telperiode die van toepassing is voor de berekening van de lestijden volgens de schalen, te vermenigvuldigen met de puntenwaarde 0,39272 per leerling, waarbij de wegingscoëfficiënt voor een leerling lager onderwijs gelijk is aan 1 en de wegingscoëfficiënt voor een kleuter gelijk is aan 0,6636.<br>
+<br>
+De punten, vermeld in het eerste lid, worden binnen een school afgerond naar het hogere gehele getal als het eerste cijfer na de komma groter is dan vier. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere gehele getal.<br>
+<br>
+§ 3. Elke type 5-school in het buitengewoon basisonderwijs heeft recht op een basisenveloppe van 53 punten. Daarnaast wordt een bijkomende puntenenveloppe toegekend van 41 punten per bijkomende vestigingsplaats.
 
 ### ART. 25quater.
 
-§ 1. De totale puntenenveloppe voor het buitengewoon basisonderwijs van het gemeen-schapsonderwijs wordt per schooljaar berekend door het binnen de begrotingskredieten beschikbare budget voor admi-nistratief personeel in het gewoon basisonderwijs van het gemeenschapsonderwijs te delen door de geldwaarde per punt. De geldwaarde per punt wordt bepaald door de gemiddelde loonkost van een full-time betrekking te delen door 82.<br /><br />§ 2. Elke school heeft recht op een basisenveloppe van 9 punten.<br /><br />§ 3. Per school wordt een bijkomende puntenenveloppe toegekend die berekend wordt door het gewogen aantal regelmatige leerlingen ingeschreven op de teldag of het gemiddeld aantal regelmatige leerlingen tijdens de telperiode die van toepassing is voor de berekening van de lestijden volgens de schalen, te vermenigvuldigen met de puntenwaarde per leerling en waarbij:<br /><br />- de wegingscoëfficiënt voor een leerling lager onderwijs gelijk is aan 1 en de wegingscoëfficiënt voor een kleuter gelijk is aan 0,6636;<br /><br />- de puntenwaarde per leerling wordt bepaald door de volgende bewerking:<br /><br />totale puntenveloppe - (9 x aantal gemeenschapsscholen buitengewoon basisonderwijs) / totaal gewogen aantal leerlingen buitengewoon basisonderwijs van het gemeenschapsonderwijs;<br /><br />- het resultaat van de berekening van deze bijkomende puntenenveloppe wordt afgerond naar de hogere eenheid indien het eerste cijfer na de komma groter is dan 4.  <span class="reference">(ing. B.V.R. 5 maart 2004, art. 1, I: 1 september 2003)</span> ]
+...
 
 ### ART. 25quinquies.
 
-Uit de puntenenveloppe, verkregen volgens artikel 25ter of artikel 25quater, kan het ambt van administratief medewerker worden ingericht uit de categorie van beleids- en ondersteunend personeel.  <span class="reference">(ing.B.V.R. 5 maart 2004, art. 1, I: 1 september 2003)</span> ]
+Uit de puntenenveloppe, verkregen volgens artikel 25ter, kunnen de ambten van administratief medewerker en beleidsondersteuner worden ingericht uit de categorie van beleids- en ondersteunend personeel.
 
 ### ART. 25sexies.
 
 § 1. De omrekening van punten naar de gefinancierde of gesubsidieerde voltijdse betrekkingen gebeurt als volgt:<br>
-<br>
 1° indien een betrekking wordt ingericht die de weddenschaal 202 genereert, wordt voor een voltijdse betrekking 63 punten in rekening gebracht;<br>
-<br>
 2° indien een betrekking wordt ingericht die de weddenschaal 158 genereert, wordt voor een voltijdse betrekking 82 punten in rekening gebracht;<br>
-<br>
+2° bis als een betrekking wordt ingericht die de weddenschaal 148 genereert, worden voor een voltijdse betrekking 85 punten in rekening gebracht;<br>
 3° indien een betrekking wordt ingericht die de weddenschaal 542 genereert, wordt voor een voltijdse betrekking 120 punten in rekening gebracht;<br>
-<br>
+3° bis als een betrekking wordt ingericht die de weddenschaal 501 genereert, worden voor een voltijdse betrekking 126 punten in rekening gebracht;<br>
 4° indien een betrekking wordt ingenomen door een personeelslid dat ingevolge een beslissing van de administratieve gezondheidsdienst ter beschikking is gesteld wegens ontstentenis van betrekking en wedertewerkgesteld wordt als administratieve medewerker, worden voor een voltijdse betrekking 63 punten in rekening gebracht.<br>
 <br>
-§ 2. Voor de aanwending in uren wordt de toegekende puntenenveloppe omgezet volgens de onderstaande tabel:<br>
-&nbsp;
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+§ 2. Voor de aanwending in uren wordt de toegekende puntenenveloppe omgezet volgens de onderstaande tabel:
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:100.3pt">
-			<p>Puntenwaarde</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:84.3pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:92pt">
-			<p>63</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:92pt">
-			<p>82</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:92pt">
-			<p>120</p>
-			</td>
+			<td>puntenwaarde</td>
+			<td>63</td>
+			<td>82</td>
+			<td>85</td>
+			<td>120</td>
+			<td>126</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:100.3pt">
-			<p>Aantal uren</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:84.3pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92pt">
-			<p>Punten</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92pt">
-			<p>Punten</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92pt">
-			<p>Punten</p>
-			</td>
+			<td>aantal uren</td>
+			<td>punten</td>
+			<td>punten</td>
+			<td>punten</td>
+			<td>punten</td>
+			<td>punten</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:100.3pt">
-			<p>1</p>
-
-			<p>2</p>
-
-			<p>3</p>
-
-			<p>4</p>
-
-			<p>5</p>
-
-			<p>6</p>
-
-			<p>7</p>
-
-			<p>8</p>
-
-			<p>9</p>
-
-			<p>10</p>
-
-			<p>11</p>
-
-			<p>12</p>
-
-			<p>13</p>
-
-			<p>14</p>
-
-			<p>15</p>
-
-			<p>16</p>
-
-			<p>17</p>
-
-			<p>18</p>
-
-			<p>19</p>
-
-			<p>20</p>
-
-			<p>21</p>
-
-			<p>22</p>
-
-			<p>23</p>
-
-			<p>24</p>
-
-			<p>25</p>
-
-			<p>26</p>
-
-			<p>27</p>
-
-			<p>28</p>
-
-			<p>29</p>
-
-			<p>30</p>
-
-			<p>31</p>
-
-			<p>32</p>
-
-			<p>33</p>
-
-			<p>34</p>
-
-			<p>35</p>
-
-			<p>36</p>
-
-			<p><em>(ing.B.V.R. 5 maar 2004, art. 1, I: 1 september 2003)</em><strong>]</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:84.3pt">
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>18</p>
-
-			<p>19</p>
-
-			<p>21</p>
-
-			<p>23</p>
-
-			<p>25</p>
-
-			<p>26</p>
-
-			<p>28</p>
-
-			<p>30</p>
-
-			<p>32</p>
-
-			<p>33</p>
-
-			<p>35</p>
-
-			<p>37</p>
-
-			<p>39</p>
-
-			<p>40</p>
-
-			<p>42</p>
-
-			<p>44</p>
-
-			<p>46</p>
-
-			<p>47</p>
-
-			<p>49</p>
-
-			<p>51</p>
-
-			<p>53</p>
-
-			<p>54</p>
-
-			<p>56</p>
-
-			<p>58</p>
-
-			<p>60</p>
-
-			<p>61</p>
-
-			<p>63</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92pt">
-			<p>2</p>
-
-			<p>4</p>
-
-			<p>5</p>
-
-			<p>7</p>
-
-			<p>9</p>
-
-			<p>11</p>
-
-			<p>12</p>
-
-			<p>14</p>
-
-			<p>16</p>
-
-			<p>23</p>
-
-			<p>25</p>
-
-			<p>27</p>
-
-			<p>30</p>
-
-			<p>32</p>
-
-			<p>34</p>
-
-			<p>36</p>
-
-			<p>39</p>
-
-			<p>41</p>
-
-			<p>43</p>
-
-			<p>46</p>
-
-			<p>48</p>
-
-			<p>50</p>
-
-			<p>52</p>
-
-			<p>55</p>
-
-			<p>57</p>
-
-			<p>59</p>
-
-			<p>62</p>
-
-			<p>64</p>
-
-			<p>66</p>
-
-			<p>68</p>
-
-			<p>71</p>
-
-			<p>73</p>
-
-			<p>75</p>
-
-			<p>77</p>
-
-			<p>80</p>
-
-			<p>82</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92pt">
-			<p>2</p>
-
-			<p>5</p>
-
-			<p>7</p>
-
-			<p>9</p>
-
-			<p>11</p>
-
-			<p>14</p>
-
-			<p>16</p>
-
-			<p>18</p>
-
-			<p>21</p>
-
-			<p>33</p>
-
-			<p>37</p>
-
-			<p>40</p>
-
-			<p>43</p>
-
-			<p>47</p>
-
-			<p>50</p>
-
-			<p>53</p>
-
-			<p>57</p>
-
-			<p>60</p>
-
-			<p>63</p>
-
-			<p>67</p>
-
-			<p>70</p>
-
-			<p>73</p>
-
-			<p>77</p>
-
-			<p>80</p>
-
-			<p>83</p>
-
-			<p>87</p>
-
-			<p>90</p>
-
-			<p>93</p>
-
-			<p>97</p>
-
-			<p>100</p>
-
-			<p>103</p>
-
-			<p>107</p>
-
-			<p>110</p>
-
-			<p>113</p>
-
-			<p>117</p>
-
-			<p>120</p>
-
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92pt">
-			<p>3</p>
-
-			<p>7</p>
-
-			<p>10</p>
-
-			<p>13</p>
-
-			<p>17</p>
-
-			<p>20</p>
-
-			<p>23</p>
-
-			<p>27</p>
-
-			<p>30</p>
-			</td>
+			<td>1</td>
+			<td>2</td>
+			<td>2</td>
+			<td>2</td>
+			<td>3</td>
+			<td>4</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>4</td>
+			<td>5</td>
+			<td>5</td>
+			<td>7</td>
+			<td>7</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>5</td>
+			<td>7</td>
+			<td>7</td>
+			<td>10</td>
+			<td>11</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>7</td>
+			<td>9</td>
+			<td>9</td>
+			<td>13</td>
+			<td>14</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>9</td>
+			<td>11</td>
+			<td>12</td>
+			<td>17</td>
+			<td>18</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>11</td>
+			<td>14</td>
+			<td>14</td>
+			<td>20</td>
+			<td>21</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>12</td>
+			<td>16</td>
+			<td>17</td>
+			<td>23</td>
+			<td>25</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>14</td>
+			<td>18</td>
+			<td>19</td>
+			<td>27</td>
+			<td>28</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>16</td>
+			<td>21</td>
+			<td>21</td>
+			<td>30</td>
+			<td>32</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>18</td>
+			<td>23</td>
+			<td>24</td>
+			<td>33</td>
+			<td>35</td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td>19</td>
+			<td>25</td>
+			<td>26</td>
+			<td>37</td>
+			<td>39</td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>21</td>
+			<td>27</td>
+			<td>28</td>
+			<td>40</td>
+			<td>42</td>
+		</tr>
+		<tr>
+			<td>13</td>
+			<td>23</td>
+			<td>30</td>
+			<td>31</td>
+			<td>43</td>
+			<td>46</td>
+		</tr>
+		<tr>
+			<td>14</td>
+			<td>25</td>
+			<td>32</td>
+			<td>33</td>
+			<td>47</td>
+			<td>49</td>
+		</tr>
+		<tr>
+			<td>15</td>
+			<td>26</td>
+			<td>34</td>
+			<td>35</td>
+			<td>50</td>
+			<td>53</td>
+		</tr>
+		<tr>
+			<td>16</td>
+			<td>28</td>
+			<td>36</td>
+			<td>38</td>
+			<td>53</td>
+			<td>56</td>
+		</tr>
+		<tr>
+			<td>17</td>
+			<td>30</td>
+			<td>39</td>
+			<td>40</td>
+			<td>57</td>
+			<td>60</td>
+		</tr>
+		<tr>
+			<td>18</td>
+			<td>32</td>
+			<td>41</td>
+			<td>42</td>
+			<td>60</td>
+			<td>63</td>
+		</tr>
+		<tr>
+			<td>19</td>
+			<td>33</td>
+			<td>43</td>
+			<td>45</td>
+			<td>63</td>
+			<td>67</td>
+		</tr>
+		<tr>
+			<td>20</td>
+			<td>35</td>
+			<td>46</td>
+			<td>47</td>
+			<td>67</td>
+			<td>70</td>
+		</tr>
+		<tr>
+			<td>21</td>
+			<td>37</td>
+			<td>48</td>
+			<td>50</td>
+			<td>70</td>
+			<td>74</td>
+		</tr>
+		<tr>
+			<td>22</td>
+			<td>39</td>
+			<td>50</td>
+			<td>52</td>
+			<td>73</td>
+			<td>77</td>
+		</tr>
+		<tr>
+			<td>23</td>
+			<td>40</td>
+			<td>52</td>
+			<td>54</td>
+			<td>77</td>
+			<td>81</td>
+		</tr>
+		<tr>
+			<td>24</td>
+			<td>42</td>
+			<td>55</td>
+			<td>57</td>
+			<td>80</td>
+			<td>84</td>
+		</tr>
+		<tr>
+			<td>25</td>
+			<td>44</td>
+			<td>57</td>
+			<td>59</td>
+			<td>83</td>
+			<td>88</td>
+		</tr>
+		<tr>
+			<td>26</td>
+			<td>46</td>
+			<td>59</td>
+			<td>61</td>
+			<td>87</td>
+			<td>91</td>
+		</tr>
+		<tr>
+			<td>27</td>
+			<td>47</td>
+			<td>62</td>
+			<td>64</td>
+			<td>90</td>
+			<td>95</td>
+		</tr>
+		<tr>
+			<td>28</td>
+			<td>49</td>
+			<td>64</td>
+			<td>66</td>
+			<td>93</td>
+			<td>98</td>
+		</tr>
+		<tr>
+			<td>29</td>
+			<td>51</td>
+			<td>66</td>
+			<td>68</td>
+			<td>97</td>
+			<td>102</td>
+		</tr>
+		<tr>
+			<td>30</td>
+			<td>53</td>
+			<td>68</td>
+			<td>71</td>
+			<td>100</td>
+			<td>105</td>
+		</tr>
+		<tr>
+			<td>31</td>
+			<td>54</td>
+			<td>71</td>
+			<td>73</td>
+			<td>103</td>
+			<td>109</td>
+		</tr>
+		<tr>
+			<td>32</td>
+			<td>56</td>
+			<td>73</td>
+			<td>76</td>
+			<td>107</td>
+			<td>112</td>
+		</tr>
+		<tr>
+			<td>33</td>
+			<td>58</td>
+			<td>75</td>
+			<td>78</td>
+			<td>110</td>
+			<td>116</td>
+		</tr>
+		<tr>
+			<td>34</td>
+			<td>60</td>
+			<td>77</td>
+			<td>80</td>
+			<td>113</td>
+			<td>119</td>
+		</tr>
+		<tr>
+			<td>35</td>
+			<td>61</td>
+			<td>80</td>
+			<td>83</td>
+			<td>117</td>
+			<td>123</td>
+		</tr>
+		<tr>
+			<td>36</td>
+			<td>63</td>
+			<td>82</td>
+			<td>85</td>
+			<td>120</td>
+			<td>126</td>
 		</tr>
 	</tbody>
 </table>
+&nbsp;
 
 <p>&nbsp;</p>
 
