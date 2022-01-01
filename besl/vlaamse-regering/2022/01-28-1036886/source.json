@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036886,
+  "title": "Besluit van de Vlaamse Regering van 2022-01-28 tot wijziging van het besluit van de Vlaamse Regering van 9 september 2011 tot het verlenen van steun voor deelname aan Europees erkende voedselkwaliteitsregelingen en van het besluit van de Vlaamse Regering van 4 juli 2014 tot het verlenen van hectaresteun voor de biologische productiemethode met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor de periode 2014-2020",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036886/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "5e6fa228782bba19be35dc657da85d31ffd9f0f81da5c961548aa3a5a8a41735",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036886&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2022-01-28",
+  "gazette": "2022-04-12",
+  "numac": 2022040485,
+  "document_start": "2022-01-01",
+  "document_end": null,
+  "in_force": "2022-01-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
