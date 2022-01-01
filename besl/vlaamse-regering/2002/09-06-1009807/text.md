@@ -20,7 +20,7 @@
 
 ### ART. 4.
 
-De indicator "de leerling is tijdelijk of permanent buiten het eigen gezinsverband opgenomen door een gezin of persoon, een voorziening of een sociale dienst, bedoeld in de gecoördineerde decreten van 4 april 1990 inzake bijzondere jeugdbijstand, met uitzondering van de internaten gefinancierd of gesubsidieerd door het departement Onderwijs van het Ministerie van de Vlaamse Gemeenschap" wordt vastgesteld op basis van een verklaring van de persoon, de voorziening of de sociale dienst die de leerling tijdelijk of permanent opneemt. Of de leerling een niet-begeleide minderjarige vreemdeling is als vermeld in artikel 479 van de programmawet I van 24 december 2002, wordt vastgesteld op basis van een attest, afgeleverd door een instantie die onafhankelijk is van de school.
+...
 
 ### ART. 4bis.
 
@@ -120,7 +120,7 @@ De indicator "de leerling is tijdelijk of permanent buiten het eigen gezinsverba
 
 ### ART. 19bis.
 
-De indicator "de leerling is tijdelijk of permanent buiten het eigen gezinsverband opgenomen door een gezin of persoon, een voorziening of een sociale dienst, als vermeld in de gecoördineerde decreten van 4 april 1990 inzake bijzondere jeugdbijstand, met uitzondering van de internaten gefinancierd of gesubsidieerd door het departement Onderwijs en Vorming van de Vlaamse Overheid wordt vastgesteld op basis van een verklaring van de persoon, de voorziening of de sociale dienst die de leerling tijdelijk of permanent opneemt. Of de leerling een niet-begeleide minderjarige vreemdeling is als vermeld in artikel 479 van de programmawet I van 24 december 2002, wordt vastgesteld op basis van een attest, afgeleverd door een instantie die onafhankelijk is van de school.
+...
 
 ### ART. 19ter.
 
