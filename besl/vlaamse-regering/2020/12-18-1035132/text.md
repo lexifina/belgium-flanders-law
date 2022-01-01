@@ -29,8 +29,8 @@ In dit besluit wordt verstaan onder :<br>
 1° algemene verordening gegevensbescherming: Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
 2° commissie: de erkennings- en bemiddelingscommissie voor slachtoffers van historisch misbruik, vermeld in artikel 3, eerste lid, van het decreet van 13 juli 2018;<br>
 3° decreet van 13 juli 2018: het decreet van 13 juli 2018 houdende de erkennings- en bemiddelingscommissie voor slachtoffers van historisch misbruik;<br>
-4° Departement Welzijn, Volksgezondheid en Gezin: het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 1 van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein;<br>
-5° secretaris-generaal: het hoofd van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 11 van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.
+4° Agentschap Justitie en Handhaving: het Agentschap Justitie en Handhaving, opgericht bij het besluit van de Vlaamse Regering van 3 september 2021 tot oprichting van het intern verzelfstandigd agentschap "Agentschap Justitie en Handhaving";<br>
+5° hoofd van het agentschap: het hoofd van het Agentschap Justitie en Handhaving, vermeld in artikel 9 van het besluit van de Vlaamse Regering van 3 september 2021 tot oprichting van het intern verzelfstandigd agentschap "Agentschap Justitie en Handhaving".
 
 ## HOOFDSTUK 2. Samenstelling
 
@@ -44,9 +44,9 @@ De samenstelling van de commissie voldoet aan de volgende voorwaarden :<br>
 
 ### ART 3.
 
-De leden van de commissie worden benoemd door de secretaris-generaal.<br>
+De leden van de commissie worden benoemd door het hoofd van het agentschap.<br>
 <br>
-Het mandaat van de leden van de commissie eindigt bij vrijwillig ontslag of bij ontslag door de secretaris-generaal.
+Het mandaat van de leden van de commissie eindigt bij vrijwillig ontslag of bij ontslag door het hoofd van het agentschap.
 
 ## HOOFDSTUK 3. Werking
 
@@ -97,7 +97,7 @@ De vergaderingen, vermeld in het eerste lid, kunnen, met goedkeuring van de voor
 
 ### ART 8.
 
-De werking van de commissie wordt gefaciliteerd door het Departement Welzijn, Volksgezondheid en Gezin. De opdracht van het Departement Welzijn, Volksgezondheid en Gezin bestaat uit :<br>
+De werking van de commissie wordt gefaciliteerd door het Agentschap Justitie en Handhaving. De opdracht van het Agentschap Justitie en Handhaving bestaat uit :<br>
 1° het waarnemen van het secretariaat van de commissie;<br>
 2° het ter beschikking stellen van een coördinator van de commissie.<br>
 3° de bekendmaking van de commissie, zowel bij de burger als bij de betrokken sectoren.<br>
@@ -131,11 +131,11 @@ De leden van de commissie ontvangen elk een vergoeding van 75 euro per bijgewoon
 <br>
 De leden van de commissie ontvangen, zowel in geval van gesprekken als in geval van vergaderingen van de commissie, een vergoeding voor de gemaakte reiskosten volgens de regeling die geldt voor de vergoeding van reiskosten van personeelsleden van de Vlaamse overheid.<br>
 <br>
-De uitbetaling van de vergoedingen, vermeld in het eerste tot en met derde lid, gebeurt door het Departement Welzijn, Volksgezondheid en Gezin.
+De uitbetaling van de vergoedingen, vermeld in het eerste tot en met derde lid, gebeurt door het Agentschap Justitie en Handhaving.
 
 ### ART 11.
 
-De commissie is gevestigd op het adres van het departement Welzijn, Volksgezondheid en Gezin.
+De commissie is gevestigd op het adres van het Agentschap Justitie en Handhaving.
 
 ### ART 12.
 
