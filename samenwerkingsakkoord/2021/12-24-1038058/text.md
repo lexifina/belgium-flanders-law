@@ -28,3 +28,94 @@ de Duitstalige Gemeenschap, vertegenwoordigd door de minister-president en de vi
 de Gemeenschappelijke Gemeenschapscommissie, vertegenwoordigd door de &nbsp;voorzitter van het Verenigd College en de Leden van het Verenigd College belast met Gezinsbijslagen;<br>
 <br>
 Zijn het volgende overeengekomen:
+
+### ART 1.
+
+Definities<br>
+<br>
+1° Deelentiteiten: de Vlaamse Gemeenschap, voor de gebiedsomschrijving van het Nederlandse taalgebied; het Waalse Gewest, voor de gebiedsomschrijving van het Franse taalgebied; de Gemeenschappelijke Gemeenschapscommissie, voor de gebiedsomschrijving van het tweetalige gebied Brussel-Hoofdstad en de Duitstalige Gemeenschap, voor de&nbsp;gebiedsomschrijving van het Duitse taalgebied;&nbsp;<br>
+2° Samenwerkingsakkoord van 6 september 2017: het samenwerkingsakkoord van 6 september 2017 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de aanknopingsfactoren, het beheer van de lasten van het verleden, de gegevensuitwisseling inzake de gezinsbijslagen en de praktische regels betreffende de bevoegdheidsoverdracht tussen de kinderbijslagfondsen;<br>
+3° vzw Orint: de vzw die werd opgericht ingevolge het samenwerkingsakkoord van 30 mei 2018 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de oprichting van het interregionaal orgaan voor de gezinsbijslagen.
+
+### ART 2.
+
+De deelentiteiten vervullen met betrekking tot de gezinsbijslagen gezamenlijk de functie als verbindingsorgaan, zoals bepaald in artikel 1, §2, b) van Verordening 987/2009 tot vaststelling van de wijze van toepassing van Verordening (EG) nr. 883/2004 betreffende de coördinatie van de socialezekerheidsstelsels. De deelentiteiten verzekeren gezamenlijk eenzelfde functie bij de toepassing van bilaterale verdragen met betrekking tot de gezinsbijslagen.
+
+### ART 3.
+
+De deelentiteiten verzekeren met betrekking tot de opdrachten vermeld in artikel 2 de correcte toepassing van de aanknopingsfactoren zoals opgenomen in artikel 2 van het samenwerkingsakkoord van 6 september 2017.<br>
+<br>
+De aanvragen die, met betrekking tot de toepassing waarnaar wordt verwezen in het eerste lid, de deelentiteiten bereiken, worden over de deelentiteiten verdeeld overeenkomstig de verdeelsleutel die werd vastgelegd in art. 47/5, § 5 van de Bijzondere Wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten.<br>
+<br>
+De deelentiteiten evalueren deze verdeelsleutel om de twee jaar. De regeringen van de deelentiteiten kunnen via een uitvoerend samenwerkingsakkoord een verdeelsleutel bepalen die nauwer aansluit bij de administratieve realiteit van de behandeling van de aanvragen.<br>
+<br>
+Er wordt voorzien in een structurele rapportering aan de regeringen van de deelentiteiten met betrekking tot de toepassing waarnaar verwezen wordt in het eerste en tweede lid. De modaliteiten met betrekking tot deze rapportering worden verder uitgewerkt in een uitvoerend samenwerkingsakkoord tussen de regeringen van de deelentiteiten.
+
+### ART 4.
+
+De aanvragen, waarvan sprake in artikel 3, lid 2, worden binnen de 3 werkdagen na schriftelijke of telefonische ontvangst, toegewezen aan een deelentiteit overeenkomstig de verdeelsleutel waarvan sprake in artikel 3, lid 2.<br>
+<br>
+Een deelentiteit aan wie een aanvraag werd toegewezen behandelt deze binnen de achtste werkdag. Indien een deelentiteit vaststelt dat zij niet bevoegd is, bezorgt zij de aanvraag ten laatste de achtste werkdag nadat de aanvraag haar werd toegewezen. Deze termijn wordt geschorst tijdens de periodes waarvan sprake in onderstaande leden.<br>
+<br>
+De deelentiteit die een verzoek moet behandelen, verzamelt zo veel mogelijk uit eigen beweging alle ontbrekende inlichtingen om de toepassing van de aanknopingsfactoren, zoals opgenomen in artikel 2 van het samenwerkingsakkoord van 6 september 2017, te kunnen beoordelen. De deelentiteit kan inlichtingen die noodzakelijk zijn om een beslissing te nemen, opvragen bij een binnenlandse of buitenlandse dienst of instelling, alsook bij de betrokkene zelf.<br>
+<br>
+Als de deelentiteit uiterlijk binnen een termijn van drie maanden geen antwoord ontvangt, verstuurt deze een rappel waarin aan de binnenlandse dienst of instelling of de betrokkene een laatste termijn van één maand toegekend wordt om te antwoorden. Als de deelentiteit geen antwoord ontvangt binnen die termijn, neemt deze een beslissing op basis van de gegevens waarover hij beschikt.<br>
+<br>
+In afwijking van hetgeen in het voorgaande lid bepaald is, wacht de deelentiteit het antwoord van de betrokkene of de binnenlandse dienst of instelling zelf af als de betrokkene of binnenlandse dienst of instelling binnen de termijn om te antwoorden, vermeld in het voorgaande lid, een reden opgegeven heeft die een langere antwoordtermijn rechtvaardigt.<br>
+<br>
+Als de deelentiteit inlichtingen opvraagt bij een buitenlandse dienst of instelling die noodzakelijk zijn om een beslissing te nemen, wordt de termijn, vermeld in het tweede lid, geschorst vanaf het moment dat de deelentiteit de vraag gesteld heeft totdat hij een antwoord ontvangen heeft.<br>
+<br>
+Een deelentiteit die een verzoek om inlichtingen ontvangt, in het kader van een onderzoek met betrekking tot de in het eerste lid vermelde aanknopingsfactoren, van een andere deelentiteit, bezorgt de inlichtingen binnen een termijn van acht werkdagen na ontvangst van de vraag. Als de deelentiteit niet over de nodige gegevens beschikt, brengt hij de deelentiteit die de vraag stelde daarvan op de hoogte binnen dezelfde termijn.<br>
+<br>
+De deelentiteiten bepalen in een uitvoerend samenwerkingsakkoord de nadere voorwaarden met betrekking tot de behandeling van de aanvragen waarvan sprake in dit artikel.
+
+### ART 5.
+
+De deelentiteiten verwerken met het oog op de correcte toepassing van de aanknopingsfactoren, zoals bepaald in artikel 3, lid 1, de volgende categorieën van<br>
+persoonsgegevens over de kinderen en de sociaal verzekerde waarvan sprake in artikel 2 van het samenwerkingsakkoord van 6 september 2017:<br>
+1° identificatiegegevens;<br>
+2° persoonlijke kenmerken;<br>
+3° de samenstelling van het gezin;<br>
+4° beroepsmatige of gelijkgestelde situaties;<br>
+5° gegevens over gerechtelijke maatregelen.<br>
+<br>
+De deelentiteiten zijn, elk wat hen betreft, verwerkingsverantwoordelijke voor bovenvermelde persoonsgegevens die zij verwerken. De deelentiteiten bepalen in een uitvoerend samenwerkingsakkoord de nadere voorwaarden voor de verwerking van deze gegevens.<br>
+<br>
+De persoonsgegevens, vermeld in het eerste lid, worden door de Vlaamse Gemeenschap. het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap bewaard overeenkomstig de bewaartermijnen voorzien in respectievelijk artikel 7, §11 van het Groeipakketdecreet van 2018, artikel 109 van het Decreet van 8 februari 2018 met betrekking tot het beheer en de betaling van de gezinsbijslagen, artikel 34 van de Ordonnantie van 4 april 2019 tot vaststelling van het betaalcircuit voor de gezinsbijslag en artikel 23 van het Besluit van de Regering van 29 november 2018 tot uitvoering van het decreet van 23 april 2018 betreffende de gezinsbijslagen.
+
+### ART 6.
+
+De kosten die samenhangen met de toepassing van artikel 2, worden over de deelentiteiten verdeeld overeenkomstig de verdeelsleutel die werd vastgelegd in artikel 47/ 5, § 5 van de Bijzondere Wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten. De deelentiteiten evalueren deze verdeelsleutel om de twee jaar. De regeringen van de deelentiteiten kunnen via een uitvoerend samenwerkingsakkoord een verdeelsleutel of kostenverdeling bepalen die nauwer aansluit bij de administratieve realiteit van de behandeling van de aanvragen.
+
+### ART 7.
+
+De eventuele meningsverschillen die ontstaan tussen de deelentiteiten met betrekking tot de interpretatie of de uitvoering van onderhavig samenwerkingsakkoord en het samenwerkingsakkoord van 6 september 2017 worden opgenomen in de schoot van een ad hoc commissie samengesteld uit een vertegenwoordiger van elke deelentiteit. Bij gebrek aan overeenstemming, wordt het meningsverschil onderworpen aan een samenwerkingsgerecht in de zin van artikel 92bis, § 5 van de bijzondere wet van 8 augustus 1980 met betrekking tot de hervorming der instellingen. De leden van dit samenwerkingsgerecht zullen aangeduid worden door de respectievelijke regeringen van de deelentiteiten. De werkingsmiddelen van het samenwerkingsgerecht zullen verdeeld worden over de deelentiteiten overeenkomstig de verdeelsleutel die werd vastgelegd in artikel 47/5, § 5 van de Bijzondere Wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten.<br>
+<br>
+Artikel 12, lid 1 en 2 van het samenwerkingsakkoord van 6 september 2017 wordt opgeheven.
+
+### ART 8.
+
+De deelentiteiten staan in voor het beheer van de archieven van FAMlFED en de vzw Orint. Zij sluiten daartoe gezamenlijk de nodige overeenkomsten af met een derde partij of staan zelf in voor het beheer van deze archieven.<br>
+<br>
+De kosten die samenhangen met de toepassing van het eerste lid worden over de deelentiteiten verdeeld overeenkomstig de verdeelsleutel die werd vastgelegd in artikel 47/5, § 5 van de Bijzondere Wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten. De deelentiteiten evalueren deze verdeelsleutel om de twee jaar. De regeringen van de deelentiteiten kunnen via een uitvoerende samenwerkingsakkoord een verdeelsleutel of kostenverdeling bepalen die nauwer aansluit bij de administratieve realiteit van de behandeling van de aanvragen.
+
+### ART 9.
+
+De deelentiteiten staan gezamenlijk in voor de afwikkeling van FAMIFED na de opheffing ervan. Zij staan gezamenlijk in voor de facturen gericht aan FAMIFED vanaf 1 januari 2022. Na de uitstap van de Vlaamse Gemeenschap uit de vzw Orint op 1 januari 2022 staan de deelentiteiten gezamenlijk in voor de facturen gericht aan deze vzw met betrekking tot de periode voorafgaand aan 1 januari 2022.<br>
+<br>
+Deze facturen worden verdeeld overeenkomstig de verdeelsleutel die werd vastgelegd in artikel 47/5, § 5 van de Bijzondere Wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten die van toepassing is in het jaar waarin de factuur werd opgesteld door de betrokken schuldeiser, met uitzondering van facturen met betrekking tot het Kadaster en de Trivia-toepassing, op dewelke de verdeelsleutel wordt toegepast zoals deze werd gehanteerd binnen de vzw Orint tijdens het werkingsjaar 2021.
+
+### ART 10.
+
+De kosten die samenhangen met de uitstap van de Vlaamse Gemeenschap uit de vzw Orint op 1 januari 2022 worden over de deelentiteiten verdeeld overeenkomstig de verdeelsleutel die werd vastgelegd in artikel 47/5, § 5 van de Bijzondere Wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten.<br>
+<br>
+De deelentiteiten evalueren deze verdeelsleutel om de twee jaar. De regeringen van de deelentiteiten kunnen via een uitvoerend samenwerkingsakkoord een verdeelsleutel of kostenverdeling bepalen die nauwer aansluit bij de administratieve realiteit van de behandeling van de aanvragen.
+
+### ART 11.
+
+Iriscare staat in voor het informaticatechnische beheer van het Kadaster en de Triviatoepassing, dewelke in stand worden gehouden door de deelentiteiten overeenkomstig<br>
+artikel 8 van het samenwerkingsakkoord van 6 september 2017. Iriscare zal voor dit informaticatechnische beheer rechtstreeks kunnen factureren aan de overige deelentiteiten, overeenkomstig de contractuele bepalingen die met de respectievelijke deelentiteiten zullen worden overeen gekomen.
+
+### ART 12.
+
+Dit samenwerkingsakkoord treedt in werking op 1 januari 2022.
