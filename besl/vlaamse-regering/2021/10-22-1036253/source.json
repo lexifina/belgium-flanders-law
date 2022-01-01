@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036253,
+  "title": "Besluit van de Vlaamse Regering van 2021-10-22 tot wijziging van het Besluit Vlaamse Codex Wonen van 2021, wat betreft de bijzondere sociale leningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036253/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "f97e60e7ab73d1c3b98d3caebbbe66595e43ebee2cf58d8c7cbc40858533c85b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036253&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2021-10-22",
+  "gazette": "2021-11-26",
+  "numac": 2021043148,
+  "document_start": "2022-01-01",
+  "document_end": null,
+  "in_force": "2022-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
