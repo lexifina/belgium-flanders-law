@@ -35,21 +35,12 @@ Besluit :<br>
 
 ### ART 1.
 
-Voor het Nederlandse taalgebied worden de resultaten voor de afzonderlijke kalenderjaren 2022 tot en met 2026, zoals vervat in de "SVR-projecties van de bevolking en de huishoudens voor Vlaamse steden en gemeenten, 2015-2030" die door de Studiedienst van de Vlaamse Regering werd uitgevoerd, vastgelegd voor de toepassing voor de jaren 2017 tot en met 2021 van de programmacijfers, vermeld in artikel 3 van de bijlage IX bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers.<br>
-&nbsp;
+...
 
 ### ART 2.
 
-Voor het tweetalig gebied Brussel-Hoofdstad wordt 30% van de resultaten van de bevolkingsprojectie voor de afzonderlijke kalenderjaren 2022 tot en met 2026, zoals vervat in "Bevolkingsvooruitzichten 2007-2060" van het Nationaal Instituut voor de Statistiek en het Federaal Planbureau, vastgelegd voor de toepassing voor de jaren 2017 tot en met 2021 van de programmacijfers, vermeld in artikel 3 van de bijlage IX bij het besluit van de Vlaamse Regering van 24 juli 2009, vermeld in artikel 1.<br>
-<br>
-Van de aldus berekende programmaruimte voor het tweetalige gebied Brussel-Hoofdstad wordt 70% toegewezen aan volgende drie zones van het tweetalige gebied Brussel-Hoofdstad :<br>
-1° de zone Noord-Oost met de gemeenten Schaarbeek, Evere, Sint-Joost-ten-Node, Haren en de zogenaamde scharnierzone Neder-over-Heembeek,<br>
-2° de zone Noord-West met de gemeenten Sint-Agatha-Berchem, Ganshoren, Jette en Laken en de gemeenten Koekelberg en Sint-Jans-Molenbeek,<br>
-3° de zone Zuid-West met de gemeente Anderlecht.<br>
-<br>
-De overige 30% van de aldus berekende programmaruimte van het tweetalige gebied Brussel-Hoofdstad wordt toegewezen aan de overige gemeenten van het tweetalige gebied Brussel-Hoofdstad.<br>
-&nbsp;
+...
 
 ### ART 3.
 
-Dit besluit treedt in werking op 1 januari 2017.
+...
