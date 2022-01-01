@@ -722,6 +722,10 @@ In bijlage IX bij hetzelfde besluit, het laatst gewijzigd bij het besluit van de
 "8. Beschouw de som van het totale geëiste buitenluchttoevoerdebiet en het totale geëiste afvoerdebiet naar buiten van de EPW-eenheid.<br>
 Ten hoogste 2% van de som, vermeld in het eerste lid, wordt vrijgesteld van de eisen, vermeld in deze bijlage. Wanneer bij toepassing van deze regeling de ganse EPB-eenheid voldoet aan de eisen uit deze bijlage, wordt verondersteld dat ook elke ruimte afzonderlijk voldoet aan die eisen.".
 
+### ART 56.
+
+Bijlage XII bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 26 november 2013 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 30 november 2018, wordt vervangen door de bijlage 3 die bij dit besluit is gevoegd.
+
 ### ART 57.
 
 In bijlage XIII bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 27 oktober 2017, worden volgende wijzigingen aangebracht:<br>
