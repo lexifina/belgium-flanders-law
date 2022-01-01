@@ -113,6 +113,8 @@ De bedragen van de toelagen in het kader van het gezinsbeleid, en in voorkomend 
 <br>
 In afwijking van het voorgaande lid start de jaarlijkse verhoging met een index van 2 %, zoals opgenomen in het vorige lid, voor het bedrag voor het derde jongste kind en oudere kinderen, vermeld in artikel 210, § 2, tweede lid, en het bedrag van de leeftijdsbijslagen, vermeld in artikel 212, § 1 en § 2, en artikel 213, zoals die voor deze bedragen ingevolge de koppeling uit het eerste lid werden bekomen op 31 december 2019, vanaf 1 september 2025.<br>
 <br>
+In afwijking van het vierde lid wordt het basisbedrag, vermeld in artikel 13, en het bedrag voor het jongste kind en het tweede jongste kind, vermeld in artikel 210, § 2, tweede lid, waar de evolutie gekoppeld is aan de jaarlijkse verhoging met een index van 2%, zoals bepaald in het vierde lid, in 2022, 2023 en 2024 jaarlijks op 1 september verhoogd met een index van 1%.<br>
+<br>
 § 2. Als ingevolge de toepassing van paragraaf 1 de bedragen van de toelagen eindigen op een gedeelte van een cent, wordt het uit te betalen bedrag vastgesteld zonder rekening te houden met het gedeelte van een cent als dat minder dan 0,5 cent bedraagt. Als het gedeelte 0,5 cent of meer bedraagt, wordt het voor een cent gerekend.<br>
 <br>
 De afronding op een cent naar boven of naar beneden wordt gedaan op het totaal uit te betalen bedrag voor het rechtgevende kind, het rechthebbende kind of de rechthebbende leerling.<br>
@@ -812,10 +814,6 @@ De inschrijving, vermeld in het eerste lid, wordt gecontroleerd op de dag dat de
 2° als het ontvoogd is of de leeftijd van zestien jaar bereikt heeft, en als het zijn woonplaats niet bij zijn ouders of werkelijke opvoeders heeft. Aan die laatste voorwaarde is voldaan als het kind beschikt over een afzonderlijke woonplaats, namelijk de plaats die als hoofdverblijf is ingeschreven in de bevolkingsregisters overeenkomstig artikel 32, 3°, van het Gerechtelijk Wetboek, of als met officiële documenten wordt aangetoond dat de gegevens in de bevolkingsregisters niet of niet meer overeenstemmen met de realiteit;<br>
 3° als het zelf begunstigde is voor een of meer van zijn kinderen;<br>
 4° als het een niet-begeleide minderjarige is als vermeld in titel XIII, hoofdstuk VI, van de Programmawet (I) van 24 december 2002, als er geen werkelijke opvoeder kan worden aangewezen conform artikel 59 van dit decreet.<br>
-<br>
-Het rechtgevende kind, vermeld in het eerste lid, kan evenwel in zijn eigen belang een andere persoon als begunstigde aanwijzen, op voorwaarde dat die persoon met het kind in kwestie verbonden is door verwantschap of aanverwantschap in de eerste graad. De verwantschap die verworven is door adoptie, wordt in aanmerking genomen. Als het rechtgevende kind zijn woonplaats niet bij de aangewezen persoon heeft, heeft de aanwijzing geen wijziging van de gezinssamenstelling van die persoon tot gevolg en kan dit kind niet worden meegeteld in het gezin van die persoon tot bepaling van de gezinsgrootte voor de toepassing van artikel 18.<br>
-<br>
-De Vlaamse Regering kan de wijze bepalen waarop het rechtgevende kind, vermeld in het eerste lid, een andere persoon als begunstigde kan aanwijzen.<br>
 <br>
 Het rechtgevende kind, vermeld in het eerste lid, is rechtsbekwaam om zelf als eiser of verweerder in rechte op te treden in de geschillen over zijn rechten op de gezinsbijslagen, vermeld in deel 1 van boek 2, met behoud van toepassing van artikel 9, § 1, van titel XIII, hoofdstuk VI, van de Programmawet (I) van 24 december 2002.
 
