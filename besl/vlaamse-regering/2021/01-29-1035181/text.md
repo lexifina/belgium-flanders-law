@@ -29,6 +29,10 @@ In artikel 2 van het besluit van de Vlaamse Regering van 24 mei 2013 houdende he
 2° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
 "Het lokaal bestuur treedt bij de uitvoering van de taak, vermeld in het eerste lid, neutraal op, onder andere door de rol van lokale regisseur en de rol van organisator te scheiden.".
 
+### ART 2.
+
+In artikel 6 van hetzelfde besluit wordt de zinsnede ", en voor de gemeenten uit het tweetalige gebied Brussel-Hoofdstad in een beleidsnota die goedgekeurd is door de Raad van de Vlaamse Gemeenschapscommissie" opgeheven.
+
 ### ART 3.
 
 In artikel 7 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
@@ -46,6 +50,22 @@ Het lokaal bestuur voorziet in een procedure met hoorrecht voor de organisator o
 
 ## HOOFDSTUK 2. Wijzigingen van het Vergunningsbesluit van 22 november 2013
 
+### ART 4.
+
+In artikel 2 van het Vergunningsbesluit van 22 november 2013, gewijzigd bij de besluiten van de Vlaamse Regering van 4 april 2014 en 23 februari 2018, wordt in het tweede lid punt 3° opgeheven.
+
+### ART 5.
+
+Artikel 13 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+"Art. 13. De organisator van groepsopvang voldoet aan volgende voorwaarden:<br>
+1° de kinderopvanglocatie voor groepsopvang voldoet aan de specifieke brandveiligheidsvoorschriften, vermeld in artikel 23, eerste lid;<br>
+2° hij heeft een advies van het lokaal bestuur van de gemeente waar de kinderopvanglocatie voor groepsopvang zich bevindt, over een van de volgende elementen, rekening houdend met de lokale context:<br>
+a) de opportuniteit van de opstart van een nieuwe kinderopvanglocatie voor groepsopvang;<br>
+b) de opportuniteit van de uitbreiding van een bestaande kinderopvanglocatie met minstens negen vergunde plaatsen.<br>
+<br>
+Het voldoen aan de startvoorwaarde, vermeld in het eerste lid, 1°, blijkt uit een brandveiligheidsattest als vermeld in artikel 23, tweede lid. Het voldoen aan de startvoorwaarde, vermeld in het eerste lid, 2°, blijkt uit het advies van het lokaal bestuur, vermeld in dat punt 2°. ".
+
 ## HOOFDSTUK 3. Wijzigingen van het Procedurebesluit van 9 mei 2014
 
 ### ART 6.
@@ -61,6 +81,11 @@ In artikel 1 van het Procedurebesluit van 9 mei 2014, gewijzigd bij de besluiten
 
 In artikel 3, tweede lid, 1°, van hetzelfde besluit wordt punt c) opgeheven.
 
+### ART 8.
+
+Aan artikel 8, eerste lid, 5°, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 7 juni 2019, wordt een punt f) toegevoegd, dat luidt als volgt:<br>
+"f) voor de organisator van groepsopvang: welke acties de organisator onderneemt naar aanleiding van het advies over de opportuniteit van het lokaal bestuur, vermeld in artikel 2, 3°, van het Vergunningsbesluit van 22 november 2013;".
+
 ### ART 9.
 
 In artikel 9 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 9 oktober 2015 en 8 september 2017, worden de volgende wijzigingen aangebracht:<br>
@@ -73,6 +98,34 @@ In artikel 9 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Re
 In artikel 10, 1°, b), van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
 1° de woorden "voor het gevraagde aantal kinderopvangplaatsen voor gezinsopvang een attest draagkracht heeft en" worden opgeheven;<br>
 2° tussen de woorden "positief advies" en de woorden "en een brandveiligheidsattest" wordt de zinsnede ", een advies over de opportuniteit van het lokaal bestuur als vermeld in artikel 52/2, of een bewijs van de aanvraag ervan" ingevoegd.
+
+### ART 11.
+
+In artikel 12 van hetzelfde besluit wordt een punt 4/1° ingevoegd, dat luidt als volgt:<br>
+"4/1° in geval van een aanvraag voor minstens negen bijkomende vergunde kinderopvangplaatsen: de acties die de organisator onderneemt naar aanleiding van het advies over de opportuniteit van het lokaal bestuur, vermeld in artikel 52/2;".
+
+### ART 12.
+
+In artikel 13, eerste lid, en tweede lid, 1°, van hetzelfde besluit wordt de zinsnede "artikel 9, 3°, a) en b)" vervangen door de zinsnede "artikel 9, 3°, a) tot en met c)".
+
+### ART 13.
+
+Aan titel 2, hoofdstuk 3, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 9 oktober 2015 en 8 september 2017, wordt een afdeling 4, die bestaat uit artikel 52/1 tot en met 52/4, toegevoegd, die luidt als volgt:<br>
+<br>
+"Afdeling 4. Opportuniteitsadvies<br>
+<br>
+Art. 52/1. De organisator van groepsopvang vraagt schriftelijk een advies aan over de opportuniteit als vermeld in artikel 52/2, bij het lokaal bestuur van de gemeente waar de kinderopvanglocatie ligt.<br>
+<br>
+De aanvraag bevat al de volgende gegevens:<br>
+1° de identificatiegegevens en de contactgegevens van de organisator;<br>
+2° het adres van de kinderopvanglocatie waar de organisator de kinderopvang wil starten of uitbreiden;<br>
+3° het beoogde aantal plaatsen dat het voorwerp is van de opstart of uitbreiding van de kinderopvanglocatie.<br>
+<br>
+Art. 52/2. Het lokaal bestuur onderzoekt en geeft een advies over de opportuniteit van de opstart of de uitbreiding van de kinderopvanglocatie op basis van de procedure en de criteria, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 24 mei 2013 houdende het lokaal beleid kinderopvang.<br>
+<br>
+Art. 52/3. Uiterlijk dertig kalenderdagen na de datum waarop het lokaal bestuur de aanvraag, vermeld in artikel 52/1, heeft ontvangen, bezorgt het lokaal bestuur een gemotiveerd advies over de opportuniteit als vermeld in artikel 52/2, aan de organisator.<br>
+<br>
+Art. 52/4. De organisator heeft de mogelijkheid om opmerkingen te formuleren op het advies over de opportuniteit, vermeld in artikel 52/2, binnen dertig kalenderdagen na de dag waarop hij het advies heeft ontvangen. Het lokaal bestuur behandelt de opmerkingen conform de procedure, vermeld in artikel 7 vierde lid, van het besluit van de Vlaamse Regering van 24 mei 2013 houdende het lokaal beleid kinderopvang.".
 
 ### ART 14.
 
