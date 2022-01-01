@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036228,
+  "title": "Decreet van 2021-10-22 tot wijziging van het Energiedecreet van 8 mei 2009, wat een verbod op de plaatsing of vervanging van een stookolieketel betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036228/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "8133bde030ae30e63a237ba5a9cebf8d3f661e011e50abbffa35d7389e69cc0c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036228&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2021-10-22",
+  "gazette": "2021-11-19",
+  "numac": 2021022409,
+  "document_start": "2022-01-01",
+  "document_end": null,
+  "in_force": "2022-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
