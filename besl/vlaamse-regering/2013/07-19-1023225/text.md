@@ -10,7 +10,20 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° decreet van 16 maart 2012 :   het decreet van 16 maart 2012 betreffende het economisch   ondersteuningsbeleid;<BR>2° minister : de Vlaamse minister, bevoegd voor   Economie;<BR>3° algemene vrijstellingsverordening: verordening (EU) nr. 651/2014   van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond   van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar   worden verklaard (Publicatieblad van 26 juni 2014, L 187, blz. 1 - 78), en de   latere wijzigingen ervan;<BR>4° Agentschap Innoveren en Ondernemen: het intern   verzelfstandigd agentschap zonder rechtspersoonlijkheid dat behoort tot het   beleidsdomein EWI;<BR>5° onderneming : de onderneming, vermeld in artikel 3, 1°,   van het decreet van 16 maart 2012;<BR>6° kleine, middelgrote en grote   ondernemingen : de ondernemingen, vermeld in artikel 3, 2°, 3° en 4°, van het   decreet van 16 maart 2012;<BR>7° regionale steungebieden : de gebieden, vermeld   in artikel 3, 7°, van het decreet van 16 maart 2012; <BR>8° steun : de steun,   vermeld in artikel 3, 5°, van het decreet van 16 maart 2012;<BR>9°   steunintensiteit : de steunintensiteit, vermeld in artikel 3, 6°, van het   decreet van 16 maart 2012;<BR>10° ontvangstmelding : de brief van het Agentschap   Innoveren en Ondernemen waarbij wordt bevestigd dat de steunaanvraag goed werd   ontvangen en is geregistreerd en waarin de vroegst mogelijke startdatum van het   project wordt meegedeeld; <BR>11° bevestigingsbrief : de brief van het   Agentschap Innoveren en Ondernemen waarbij wordt bevestigd dat, onder voorbehoud   van de uiteindelijke uitkomst van een gedetailleerd onderzoek, het project   ontvankelijk is en aan de vastgestelde voorwaarden voldoet om in aanmerking te   komen voor steun; <BR>12° transformatieproject : een gepland veranderingsproces   in een onderneming of in een groep van samenwerkende ondernemingen dat   betrekking heeft op de implementatie van de strategie in de processen en de   organisatie van de onderneming(en) wat betreft innovatie, internationalisering   en verduurzaming. Een transformatieproject werkt in op bedrijfspraktijken zoals   de implementatie en de vermarkting van innovaties, de invoering van nieuwe   businessmodellen, de samenwerking met andere bedrijven of kennisinstellingen,   het bewerken van nieuwe internationale markten met groeipotentieel, het   efficiënter werken met materialen en energie en met een meer optimale benutting   van het menselijk potentieel. Het transformatieproject draagt bij tot een   duurzame versterking van het economische weefsel in Vlaanderen. Het project moet   leiden tot een versterking van de diverse waardeketens of clusters, en moet   zorgen voor een duurzame werkgelegenheid. <BR>13° transformatieplan : het plan   dat het transformatieproject, vermeld in artikel 1, 12°, beschrijft, bestaat uit   vier aparte onderdelen : omschrijving van het transformatieproject zelf, de   bijdrage en effecten ervan op de onderneming, de impact van het   transformatieproject op de Vlaamse economie en de beschrijving van de uitwerking   van het transformatieproject in termen van management en de kwaliteitsbewaking   binnen het project. In het transformatieplan moeten de inhoudelijke   krachtlijnen, de doelstellingen en de belangrijkste mijlpalen van het project   zijn uitgewerkt, evenals de timing waarbinnen deze mijlpalen zullen worden   gerealiseerd. Ook de rentabiliteit en de effectiviteit van het project moeten in   het plan worden aangetoond.<BR>
+In dit besluit wordt verstaan onder :<br>
+1° decreet van 16 maart 2012 : het decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid;<br>
+2° minister : de Vlaamse minister, bevoegd voor Economie;<br>
+3° algemene vrijstellingsverordening: verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (Publicatieblad van 26 juni 2014, L 187, blz. 1 - 78), en de latere wijzigingen ervan;<br>
+4° Agentschap Innoveren en Ondernemen: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid dat behoort tot het beleidsdomein EWI;<br>
+5° onderneming : de onderneming, vermeld in artikel 3, 1°, van het decreet van 16 maart 2012;<br>
+6° kleine, middelgrote en grote ondernemingen : de ondernemingen, vermeld in artikel 3, 2°, 3° en 4°, van het decreet van 16 maart 2012;<br>
+7° regionale steungebieden : de gebieden, vermeld in artikel 3, 7°, van het decreet van 16 maart 2012;<br>
+8° steun : de steun, vermeld in artikel 3, 5°, van het decreet van 16 maart 2012;<br>
+9° steunintensiteit : de steunintensiteit, vermeld in artikel 3, 6°, van het decreet van 16 maart 2012;<br>
+10° ontvangstmelding : de brief van het Agentschap Innoveren en Ondernemen waarbij wordt bevestigd dat de steunaanvraag goed werd ontvangen en is geregistreerd en waarin de vroegst mogelijke startdatum van het project wordt meegedeeld;<br>
+11° ...;<br>
+12° transformatieproject : een gepland veranderingsproces in een onderneming of in een groep van samenwerkende ondernemingen dat betrekking heeft op de implementatie van de strategie in de processen en de organisatie van de onderneming(en) wat betreft innovatie, internationalisering en verduurzaming. Een transformatieproject werkt in op bedrijfspraktijken zoals de implementatie en de vermarkting van innovaties, de invoering van nieuwe businessmodellen, de samenwerking met andere bedrijven of kennisinstellingen, het bewerken van nieuwe internationale markten met groeipotentieel, het efficiënter werken met materialen en energie en met een meer optimale benutting van het menselijk potentieel. Het transformatieproject draagt bij tot een duurzame versterking van het economische weefsel in Vlaanderen. Het project moet leiden tot een versterking van de diverse waardeketens of clusters, en moet zorgen voor een duurzame werkgelegenheid.<br>
+13° transformatieplan: het plan dat het transformatieproject beschrijft en waarin de inhoudelijke krachtlijnen, de doelstellingen en de belangrijkste mijlpalen van het project worden uitgewerkt, en ook de timing waarin die mijlpalen worden gerealiseerd.
 
 ## Afdeling 2 Definitie van kleine, middelgrote en grote ondernemingen
 
@@ -63,9 +76,9 @@ Met behoud van de toepassing van artikel 14, punt 5, van de algemene   vrijstell
 
 <p>De samenwerkende ondernemingen mogen geen partner- of verbonden ondernemingen zijn in de zin van de definitie van kleine en middelgrote ondernemingen, vermeld in bijlage I van de algemene vrijstellingsverordening.</p>
 
-<p>§ 2. Bij de beslissing wordt een steunbedrag toegekend dat bestaat uit een basissteun voor het transformatieproject, eventueel verhoogd met een bonussteun voor de bijkomende tewerkstelling.</p>
+<p>§ 2. Er wordt een basissteun toegekend voor het transformatieproject.</p>
 
-<p>Met behoud van de toepassing van artikel 9 bedraagt het plafond voor de totale basissteun, bestaande uit de som van de basissteun voor het in aanmerking komende opleidingsbedrag en de basissteun voor het in aanmerking komende investeringsbedrag, een miljoen euro (1.000.000 euro) per aanvragende onderneming en per kalenderjaar.</p>
+<p>Met behoud van de toepassing van artikel 9 bedraagt het plafond voor de totale basissteun, bestaande uit de som van de basissteun voor het in aanmerking komende opleidingsbedrag en de basissteun voor het in aanmerking komende investeringsbedrag, vijfhonderdduizend euro (500.000 euro) per aanvragende onderneming en per kalenderjaar. Voor transformatieprojecten met een uitzonderlijk belang op vlak van duurzaamheid of klimaat, bedraagt dit plafond één miljoen euro (1.000.000 euro) per aanvragende onderneming en per kalenderjaar.</p>
 
 <p>De steun wordt proportioneel verdeeld over de begunstigde ondernemingen op basis van het in aanmerking komende opleidingsbedrag en het in aanmerking komende investeringsbedrag per begunstigde onderneming, zoals die worden bepaald door het Agentschap Innoveren en Ondernemen.</p>
 
@@ -105,7 +118,7 @@ Binnen de beschikbare begrotingskredieten kan steun worden verleend aan   ondern
 
 ### ART. 14.
 
-De steun wordt toegekend in de vorm van een basissteun voor het   transformatieproject en eventueel een bonussteun voor de bijkomende   tewerkstelling.<BR>
+De steun wordt toegekend in de vorm van een basissteun voor het transformatieproject.
 
 ### ART. 15.
 
@@ -121,7 +134,9 @@ De kosten die maximaal in aanmerking komen, zijn die welke zijn opgenomen   in a
 
 ### ART. 18.
 
-<P>§ 1. De basissteun wordt geplafonneerd op één miljoen euro (1.000.000 euro)   per aanvragende onderneming, met behoud van de toepassing van artikel 8, § 2,   tweede lid. <BR></P>  <P>De bonussteun voor de bijkomende tewerkstelling kan maximaal 25 % bedragen   van de basissteun. <BR></P>  <P>§ 2. De minister bepaalt de vaststelling van de aanvangstewerkstelling, de   duur van de realisatie- en de bewijsperiode voor de bijkomende tewerkstelling,   het over te leggen bewijs van de gerealiseerde bijkomende tewerkstelling en het   schema voor het bepalen van het percentage van de bonussteun.   <BR></P>
+<p>§ 1. De basissteun wordt geplafonneerd op vijfhonderdduizend euro (500.000 euro) per aanvragende onderneming en op één miljoen euro (1.000.000 euro) per aanvragende onderneming voor transformatieprojecten met een uitzonderlijk belang op vlak van duurzaamheid of klimaat, met behoud van de toepassing van artikel 8, § 2, tweede lid.</p>
+
+<p>§ 2. ...</p>
 
 ## Afdeling 4 Procedure
 
@@ -133,7 +148,9 @@ De kosten die maximaal in aanmerking komen, zijn die welke zijn opgenomen   in a
 
 ### ART. 20.
 
-<P>De steunaanvraag wordt individueel getoetst aan ontvankelijkheids- en   beoordelingscriteria als vermeld in artikel 21 tot en met 23.<BR></P>  <P>Het Agentschap Innoveren en Ondernemen brengt de onderneming schriftelijk op   de hoogte van de beslissing over de ontvankelijkheid of onontvankelijkheid, met   vermelding van de motivering en de beroepsmogelijkheden. Voor ontvankelijke   dossiers gebeurt dit door een bevestigingsbrief. <BR></P>
+<p>De steunaanvraag wordt individueel getoetst aan ontvankelijkheids- en beoordelingscriteria als vermeld in artikel 21 tot en met 23.</p>
+
+<p>Het Agentschap Innoveren en Ondernemen brengt de onderneming schriftelijk op de hoogte van de beslissing over de onontvankelijkheid, vermeld in artikel 24, eerste lid, en van de beslissing over de steunverlening, vermeld in artikel 24, tweede en derde lid.</p>
 
 ## Onderafdeling 2 Ontvankelijkheidscriteria
 
@@ -143,8 +160,14 @@ De kosten die maximaal in aanmerking komen, zijn die welke zijn opgenomen   in a
 1° het dossier is volledig;<br>
 2° bij het aanvraagformulier is een kwalitatief transformatieplan met een opleidingsluik gevoegd dat, voor zover in de onderneming een ondernemingsraad aanwezig is, aan de ondernemingsraad is voorgelegd;<br>
 3° de aanvragende onderneming beschikt over voldoende financieringscapaciteit op basis van een geloofwaardig financieel plan;<br>
-4° de onderneming beschikt over een kwalitatief transformatieplan;<br>
-5° het transformatieproject valt op afdoende wijze binnen het beoogde toepassingsgebied van dit besluit.</p>
+4° de onderneming beschikt over een kwalitatief transformatieplan dat bestaat uit volgende rubrieken:<br>
+a) de managementsamenvatting;<br>
+b) de voorstelling van de individuele onderneming of van alle samenwerkende ondernemingen waarin het transformatieproject wordt gerealiseerd;<br>
+c) de beschrijving van het transformatieproject dat altijd een investeringsdeel, een opleidingsdeel, een deel financieringsmiddelen, een deel duurzaamheid en een deel tewerkstelling in het Vlaamse Gewest bevat;<br>
+d) de beschrijving van het stimulerende effect en de noodzaak van de steun;<br>
+e) de beschrijving van de wijze waarop de individuele onderneming of samenwerkende ondernemingen de verschillende beoordelingscriteria van het transformatieproject concreet invullen;<br>
+5° het transformatieproject valt op afdoende wijze binnen het beoogde toepassingsgebied van dit besluit;<br>
+6° de onderneming is niet uitgesloten van steun conform de voorwaarden, vermeld in het decreet van 16 maart 2012, dit besluit en de uitvoeringsbesluiten ervan.</p>
 
 <p>De aanvragende onderneming toont in het bijgevoegde transformatieplan aan dat de aangevraagde steun noodzakelijk is en een stimulerend effect heeft voor het opleidingsluik. Enkel het additionele gedeelte van de opleidingen dat essentieel is voor het kunnen doorvoeren van het totale transformatieproject, komt in aanmerking.</p>
 
@@ -154,7 +177,14 @@ De kosten die maximaal in aanmerking komen, zijn die welke zijn opgenomen   in a
 
 ### ART. 22.
 
-<P>§ 1. De mate waarin het strategisch transformatieproject voldoet aan de   kenmerken van transformatie zal door middel van een transformatietoets worden   beoordeeld zowel op niveau van het bedrijf als op niveau van de Vlaamse   economie. <BR>Naast de beoordeling van het project zelf, zullen de dossiers op   volgende wijze beoordeeld worden op de volgende assen :<BR>1° beoordeling op   bedrijfsniveau : het transformatieplan zal worden beoordeeld op basis van de   volgende criteria :<BR>a) de mate waarin het project zal bijdragen tot de   versterking van de onderneming en de groei van de innovatiecapaciteit van de   onderneming;<BR>b) de mate waarin de internationalisering van de onderneming   wordt bevorderd;<BR>c) de mate waarin het project bijdraagt tot het duurzaam   ondernemen;<BR>d) de kwaliteit van de implementatie en het management van het   project;<BR>2° beoordeling op niveau van de Vlaamse economie : <BR>Het   transformatieplan zal worden beoordeeld op basis van de mate waarin het project   zal bijdragen tot de versterking van de waardeketen of cluster die voor   Vlaanderen van strategisch belang is, de zogenaamde positieve spillover   effecten. <BR>Het kan hierbij gaan over de volgende aspecten : <BR>a) een   versterking van de onderneming in haar interne waardeketen, zijnde een   versterking van de positie van de onderneming binnen haar (multinationale)   groep; <BR>b) een versterking in de externe waardeketen, zijnde buiten de   onderneming naar toeleveranciers, afnemers, kennispartners, of andere partners;   <BR>c) het belang van de onderneming in haar waardeketen voor de Vlaamse   economie.<BR></P>  <P>§ 2. De minister bepaalt de invulling en het gewicht van de   beoordelingscriteria voor beide assen, de methodiek en praktische organisatie   van de transformatietoets, rekening houdende met de beleidsprioriteiten en de   beschikbare middelen.<BR></P>
+<p>De mate waarin het strategische transformatieproject voldoet aan de kenmerken van transformatie wordt met een transformatietoets beoordeeld. Het transformatieproject wordt daarbij beoordeeld op basis van al de volgende criteria:<br>
+1° de mate waarin het project innovatief is;<br>
+2° de mate waarin het project bijdraagt tot de internationale competitiviteit van de onderneming;<br>
+3° de mate waarin het project bijdraagt tot de verduurzaming op ecologisch vlak of tot het terugdringen van de broeikasgasuitstoot of aan de adaptatie aan klimaatverandering en tot de verduurzaming op sociaal vlak;<br>
+4° de mate waarin het project bijdraagt tot de verankering van de onderneming en de tewerkstelling en de algemene versterking van de onderneming in haar interne en externe waardeketen;<br>
+5° de mate waarin het project bijdraagt tot de versterking van de waardeketen of cluster die voor Vlaanderen van strategisch belang is, en tot de versterking van de Vlaamse economie.<br>
+<br>
+De minister bepaalt de invulling en het gewicht van de beoordelingscriteria, vermeld in het eerste lid, en de methodiek en praktische organisatie van de transformatietoets, vermeld in het eerste lid, rekening houdend met de beleidsprioriteiten en de beschikbare middelen</p>
 
 ### ART. 23.
 
@@ -164,7 +194,11 @@ De kosten die maximaal in aanmerking komen, zijn die welke zijn opgenomen   in a
 
 ### ART. 24.
 
-<P>De minister beslist over de steunverlening als de steun minder of gelijk is   aan vijfhonderdduizend euro (500.000 euro).<BR></P>  <P>De Vlaamse Regering beslist over de steunverlening als de steun meer bedraagt   dan vijfhonderdduizend euro (500.000 euro).<BR></P>
+<p>Het Agentschap Innoveren en Ondernemen beslist over de (on)ontvankelijkheid van de steunaanvraag.<br>
+<br>
+De minister beslist over de steunverlening als de steun minder of gelijk is aan vijfhonderdduizend euro (500.000 euro).</p>
+
+<p>De Vlaamse Regering beslist over de steunverlening als de steun meer bedraagt dan vijfhonderdduizend euro (500.000 euro).</p>
 
 ## HOOFDSTUK 3 Steun voor transformatie-investeringen
 
@@ -190,7 +224,15 @@ In dit artikel wordt verstaan onder verplaatsing: de verplaatsing, vermeld in ar
 
 ### ART. 27.
 
-<P>§ 1. De investeringen die verband houden met het ingediende   transformatieproject starten op zijn vroegst op de datum vermeld in de   ontvangstmelding en uiterlijk zes maanden na die datum.<BR></P>  <P>De investeringsperiode heeft een duur van maximaal drie jaar, die loopt vanaf   de werkelijke startdatum. De vroegst mogelijke startdatum is de eerste dag van   de maand die volgt op de maand waarin de steunaanvraag wordt ingediend.<BR></P>  <P>De investeringen starten ofwel op de datum van de eerste factuur, ofwel op de   datum van de akte van de verwerving van een onroerend goed, ofwel op de datum   van het leasingcontract. <BR></P>  <P>De minister kan de termijnen, vermeld in deze paragraaf, op gemotiveerd   verzoek en op advies van de administratie, verlengen.<BR></P>  <P>§ 2. In afwijking van paragraaf 1, starten de investeringen van een grote   onderneming, die verband houden met een transformatietraject van meer dan   vijftig miljoen euro (50.000.000 euro) in aanmerking komende investeringen, op   zijn vroegst op de datum vermeld in de bevestigingsbrief en uiterlijk zes   maanden na die datum.<BR></P>
+<p>§ 1. De investeringen die verband houden met het ingediende transformatieproject starten op zijn vroegst op de datum vermeld in de ontvangstmelding en uiterlijk zes maanden na die datum.</p>
+
+<p>De investeringsperiode heeft een duur van maximaal drie jaar, die loopt vanaf de werkelijke startdatum. De vroegst mogelijke startdatum is de eerste dag van de maand die volgt op de maand waarin de steunaanvraag wordt ingediend.</p>
+
+<p>De investeringen starten ofwel op de datum van de eerste factuur, ofwel op de datum van de akte van de verwerving van een onroerend goed, ofwel op de datum van het leasingcontract.</p>
+
+<p>De minister kan de termijnen, vermeld in deze paragraaf, op gemotiveerd verzoek en op advies van de administratie, verlengen.</p>
+
+<p>§ 2. In afwijking van paragraaf 1, starten de investeringen van een grote onderneming, die verband houden met een transformatietraject van meer dan vijftig miljoen euro (50.000.000 euro) in aanmerking komende investeringen, op zijn vroegst op de datum vermeld in de ontvangstmelding en uiterlijk zes maanden na die datum.</p>
 
 ### ART. 28.
 
@@ -200,7 +242,7 @@ In dit artikel wordt verstaan onder verplaatsing: de verplaatsing, vermeld in ar
 
 ### ART. 29.
 
-De steun wordt toegekend in de vorm van een basissteun voor het   transformatieproject en eventueel een bonussteun voor de bijkomende   tewerkstelling.<BR>
+De steun wordt toegekend in de vorm van een basissteun voor het transformatieproject.
 
 ### ART. 30.
 
@@ -208,7 +250,36 @@ De steun wordt toegekend in de vorm van een basissteun voor het   transformatiep
 
 ### ART. 31.
 
-<P>§ 1. De in aanmerking komende investeringen mogen alleen de aankoopprijs   omvatten, met uitsluiting van lasten en belastingen. <BR></P>  <P>§ 2. De materiële investeringen en de immateriële investeringen, vermeld in   artikel 11 van het decreet van 16 maart 2012, komen in aanmerking in de mate dat   ze bijdragen aan de transformatie. De waarde van het grondaandeel is niet   subsidiabel. <BR></P>  <P>Die investeringen moeten op de volgende rubrieken van de jaarrekening geboekt   worden :<BR>1° 21 immateriële vaste activa;<BR>2° 22 terreinen en   gebouwen;<BR>3° 23 installaties, machines en uitrusting;<BR>4° 24 rollend   materieel;<BR>5° 25 vaste activa in leasing of op grond van een soortgelijk   recht;<BR>6° 26 andere materiële vaste activa;<BR>7° 27 vaste activa in aanbouw   en vooruitbetalingen.<BR></P>  <P>§ 3. Die investeringen komen in aanmerking met behoud van de bijzondere   Europese regelgeving betreffende de verlening van staatssteun in specifieke   sectoren.<BR></P>  <P>Voor de rubriek rollend materieel komt voor het goederenvervoer over de weg   voor derden alleen getrokken materieel in aanmerking dat bestemd is voor   gecombineerd vervoer waarbij verschillende transportmodi betrokken zijn.   <BR></P>  <P>§ 4. De volgende investeringen komen niet in aanmerking :<BR>1° de   investeringen die de steunaanvragende onderneming gratis of onder bezwarende   titel ter beschikking stelt aan derden, met uitzondering van de ter   beschikkingstelling aan een kennisinstelling of aan een van de andere   steunaanvragende ondernemingen waarmee wordt samengewerkt; <BR>2° de   investeringen, voorheen geactiveerd en opgenomen in een afschrijvingstabel, die   verworven worden van onderneming waarin de steunaanvragende :<BR>a) een   onderneming waarin de steunaanvragende onderneming rechtstreeks of   onrechtstreeks participeert;<BR>b) een onderneming die rechtstreeks of   onrechtstreeks participeert in de steunaanvragende onderneming;<BR>De minister   kan afwijken van dit punt indien de steunaanvragende onderneming opgericht is   binnen het jaar voor de steunaanvraag en nog niet over voldoende financiële   middelen kan beschikken om de noodzakelijke investeringen te financieren. In dat   geval kan de minister toestaan dat aan deze voorwaarde slechts dient voldaan te   zijn op het einde van de in artikel 27 vermelde termijnen, waarbij zal worden   gekeken naar de identiteit van de aandeelhouders en bestuurders van de   voorlaatste eigenaar van de verworven activa;<BR>3° de investeringen die   verworven worden van een zaakvoerder, een bestuurder of een aandeelhouder van de   steunaanvragende onderneming of van een andere onderneming met dezelfde   zaakvoerder, bestuurder of aandeelhouder; <BR>De minister kan afwijken van dit   punt indien de steunaanvragende onderneming opgericht is binnen het jaar voor de   steunaanvraag en nog niet over voldoende financiële middelen kan beschikken om   de noodzakelijke investeringen te financieren. In dat geval kan de minister   toestaan dat aan deze voorwaarde slechts dient voldaan te zijn op het einde van   de in artikel 27 vermelde termijnen, waarbij zal worden gekeken naar de   identiteit van de aandeelhouders en bestuurders van de voorlaatste eigenaar van   de verworven activa;<BR>4° de investeringen die in geval van aankoop niet   verworven worden in volle eigendom; <BR>5° de investeringen met betrekking tot   de exploitatie van een bedrijvencentrum of een doorgangsgebouw;<BR>6° uitgaven   die reeds gesteund werden op basis van andere steunregelingen.<BR></P>  <P>§ 5. De minister kan de lijst van investeringen die niet in aanmerking komen,   vermeld in paragraaf 4, aanpassen.<BR></P>
+<p>§ 1. De in aanmerking komende investeringen mogen alleen de aankoopprijs omvatten, met uitsluiting van lasten en belastingen.</p>
+
+<p>§ 2. De materiële investeringen en de immateriële investeringen, vermeld in artikel 11 van het decreet van 16 maart 2012, komen in aanmerking in de mate dat ze bijdragen aan de transformatie. De waarde van het grondaandeel is niet subsidiabel.</p>
+
+<p>Die investeringen moeten op de volgende rubrieken van de jaarrekening geboekt worden :<br>
+1° 21 immateriële vaste activa;<br>
+2° 22 terreinen en gebouwen;<br>
+3° 23 installaties, machines en uitrusting;<br>
+4° 24 rollend materieel;<br>
+5° 25 vaste activa in leasing of op grond van een soortgelijk recht;<br>
+6° 26 andere materiële vaste activa;<br>
+7° 27 vaste activa in aanbouw en vooruitbetalingen.</p>
+
+<p>§ 3. Die investeringen komen in aanmerking met behoud van de bijzondere Europese regelgeving betreffende de verlening van staatssteun in specifieke sectoren.</p>
+
+<p>Voor de rubriek rollend materieel komt voor het goederenvervoer over de weg voor derden alleen getrokken materieel in aanmerking dat bestemd is voor gecombineerd vervoer waarbij verschillende transportmodi betrokken zijn.</p>
+
+<p>§ 4. De volgende investeringen komen niet in aanmerking :<br>
+1° de investeringen die de steunaanvragende onderneming gratis of onder bezwarende titel ter beschikking stelt aan derden, met uitzondering van de ter beschikkingstelling aan een kennisinstelling of aan een van de andere steunaanvragende ondernemingen waarmee wordt samengewerkt;<br>
+2° de investeringen, voorheen geactiveerd en opgenomen in een afschrijvingstabel, die verworven worden van onderneming waarin de steunaanvragende :<br>
+a) een onderneming waarin de steunaanvragende onderneming rechtstreeks of onrechtstreeks participeert;<br>
+b) een onderneming die rechtstreeks of onrechtstreeks participeert in de steunaanvragende onderneming;<br>
+De minister kan afwijken van dit punt indien de steunaanvragende onderneming opgericht is binnen het jaar voor de steunaanvraag en nog niet over voldoende financiële middelen kan beschikken om de noodzakelijke investeringen te financieren. In dat geval kan de minister toestaan dat aan deze voorwaarde slechts dient voldaan te zijn op het einde van de in artikel 27 vermelde termijnen, waarbij zal worden gekeken naar de identiteit van de aandeelhouders en bestuurders van de voorlaatste eigenaar van de verworven activa;<br>
+3° de investeringen die verworven worden van een zaakvoerder, een bestuurder of een aandeelhouder van de steunaanvragende onderneming of van een andere onderneming met dezelfde zaakvoerder, bestuurder of aandeelhouder;<br>
+De minister kan afwijken van dit punt indien de steunaanvragende onderneming opgericht is binnen het jaar voor de steunaanvraag en nog niet over voldoende financiële middelen kan beschikken om de noodzakelijke investeringen te financieren. In dat geval kan de minister toestaan dat aan deze voorwaarde slechts dient voldaan te zijn op het einde van de in artikel 27 vermelde termijnen, waarbij zal worden gekeken naar de identiteit van de aandeelhouders en bestuurders van de voorlaatste eigenaar van de verworven activa;<br>
+4° de investeringen die in geval van aankoop niet verworven worden in volle eigendom;<br>
+5° de investeringen met betrekking tot de exploitatie van een bedrijvencentrum of een doorgangsgebouw;<br>
+6° de uitgaven waarvoor al staatssteun, in de zin van artikel 107, lid 1, van het Verdrag betreffende de werking van de Europese Unie, is verleend op basis van andere steunregelingen of -beslissingen.</p>
+
+<p>§ 5. De minister kan de lijst van investeringen die niet in aanmerking komen, vermeld in paragraaf 4, aanpassen.</p>
 
 ### ART. 32.
 
@@ -216,7 +287,9 @@ De steun wordt toegekend in de vorm van een basissteun voor het   transformatiep
 
 ### ART. 33.
 
-<P>§ 1. De basissteun wordt geplafonneerd op één miljoen euro (1.000.000 euro)   per aanvragende onderneming, met behoud van de toepassing van artikel 8, § 2,   tweede lid. <BR></P>  <P>De bonussteun voor de bijkomende tewerkstelling kan maximaal 25 % bedragen   van de basissteun.<BR></P>  <P>§ 2. De minister bepaalt de vaststelling van de aanvangstewerkstelling, de   duur van de realisatie- en bewijsperiode voor de bijkomende tewerkstelling, het   over te leggen bewijs van de gerealiseerde bijkomende tewerkstelling en het   schema voor het bepalen van het percentage van de bonussteun.   <BR></P>
+<p>§ 1. De basissteun wordt geplafonneerd op vijfhonderdduizend euro (500.000 euro) per aanvragende onderneming en op één miljoen euro (1.000.000 euro) per aanvragende onderneming voor transformatieprojecten met een uitzonderlijk belang op vlak van duurzaamheid of klimaat, met behoud van de toepassing van artikel 8, § 2, tweede lid.</p>
+
+<p>§ 2. ...</p>
 
 ## Afdeling 4 Procedure
 
@@ -228,7 +301,9 @@ De steun wordt toegekend in de vorm van een basissteun voor het   transformatiep
 
 ### ART. 35.
 
-<P>De steunaanvraag wordt individueel getoetst aan ontvankelijkheids- en   beoordelingscriteria.<BR></P>  <P>Het Agentschap Innoveren en Ondernemen brengt de onderneming schriftelijk op   de hoogte van de beslissing over de ontvankelijkheid of onontvankelijkheid, met   vermelding van de motivering en de beroepsmogelijkheden. Voor ontvankelijke   dossiers gebeurt dit door een bevestigingsbrief.<BR></P>
+<p>De steunaanvraag wordt individueel getoetst aan ontvankelijkheids- en beoordelingscriteria.</p>
+
+<p>Het Agentschap Innoveren en Ondernemen brengt de onderneming schriftelijk op de hoogte van de beslissing over de onontvankelijkheid, vermeld in artikel 39, eerste lid, en van de beslissing over de steunverlening, vermeld in artikel 39, tweede en derde lid.</p>
 
 ## Onderafdeling 2 Ontvankelijkheidscriteria
 
@@ -238,8 +313,14 @@ De steun wordt toegekend in de vorm van een basissteun voor het   transformatiep
 1° het dossier is volledig;<br>
 2° bij het aanvraagformulier is een kwalitatief transformatieplan met een investeringsluik gevoegd;<br>
 3° de aanvragende onderneming beschikt over voldoende financieringscapaciteit op basis van een geloofwaardig financieel plan;<br>
-4° de onderneming beschikt over een kwalitatief transformatieplan;<br>
-5° het transformatieproject valt op afdoende wijze binnen het beoogde toepassingsgebied van dit besluit.</p>
+4° de onderneming beschikt over een kwalitatief transformatieplan dat bestaat uit volgende rubrieken:<br>
+a) de managementsamenvatting;<br>
+b) de voorstelling van de individuele onderneming of van alle samenwerkende ondernemingen waarin het transformatieproject wordt gerealiseerd;<br>
+c) de beschrijving van het transformatieproject dat altijd een investeringsdeel, een opleidingsdeel, een deel financieringsmiddelen, een deel duurzaamheid en een deel tewerkstelling in het Vlaamse Gewest bevat;<br>
+d) de beschrijving van het stimulerende effect en de noodzaak van de steun;<br>
+e) de beschrijving van de wijze waarop de individuele onderneming of samenwerkende ondernemingen de verschillende beoordelingscriteria van het transformatieproject concreet invullen;<br>
+5° het transformatieproject valt op afdoende wijze binnen het beoogde toepassingsgebied van dit besluit;<br>
+6° de onderneming is niet uitgesloten van steun conform de voorwaarden, vermeld in het decreet van 16 maart 2012, dit besluit en de uitvoeringsbesluiten ervan.</p>
 
 <p>De aanvragende onderneming toont in het bijgevoegde transformatieplan aan dat de aangevraagde steun noodzakelijk is en een stimulerend effect heeft voor het investeringsluik. Enkel het additionele gedeelte van de investeringen dat essentieel is voor het kunnen doorvoeren van het totale transformatieproject, komt in aanmerking. Grote ondernemingen moeten aantonen dat de steun hun lokalisatiegedrag naar de regionale steungebieden beïnvloedt.</p>
 
@@ -249,7 +330,14 @@ De steun wordt toegekend in de vorm van een basissteun voor het   transformatiep
 
 ### ART. 37.
 
-<P>§ 1. De mate waarin het strategisch transformatieproject voldoet aan de   kenmerken van transformatie zal door middel van een transformatietoets worden   beoordeeld zowel op niveau van het bedrijf als op niveau van de Vlaamse   economie. <BR></P>  <P>Naast de beoordeling van het project zelf, zullen de dossiers op volgende   wijze beoordeeld worden op de volgende assen :<BR>1° beoordeling op   bedrijfsniveau : het transformatieplan zal worden beoordeeld op basis van de   volgende criteria :<BR>a) de mate waarin het project zal bijdragen tot de   versterking van de onderneming en de groei van de innovatiecapaciteit van de   onderneming;<BR>b) de mate waarin de internationalisering van de onderneming   wordt bevorderd;<BR>c) de mate waarin het project bijdraagt tot het duurzaam   ondernemen;<BR>d) de kwaliteit van de implementatie en het management van het   project;<BR>2° beoordeling op niveau van de Vlaamse economie : <BR></P>  <P>Het transformatieplan zal worden beoordeeld op basis van de mate waarin het   project zal bijdragen tot de versterking van de waardeketen of cluster die voor   Vlaanderen van strategisch belang is, de zogenaamde positieve spillover   effecten. <BR></P>  <P>Het kan hierbij gaan over de volgende aspecten : <BR>a) een versterking van   de onderneming in haar interne waardeketen, zijnde een versterking van de   positie van de onderneming binnen haar (multinationale) groep; <BR>b) een   versterking in de externe waardeketen, zijnde buiten de onderneming naar   toeleveranciers, afnemers, kennispartners, of andere partners; <BR>c) het belang   van de onderneming in haar waardeketen voor de Vlaamse economie.<BR></P>  <P>§ 2. De minister bepaalt de invulling en het gewicht van de   beoordelingscriteria voor beide assen, de methodiek en praktische organisatie   van de transformatietoets, rekening houdende met de beleidsprioriteiten en de   beschikbare middelen.<BR></P>
+<p>De mate waarin het strategische transformatieproject voldoet aan de kenmerken van transformatie wordt met een transformatietoets beoordeeld. Het transformatieproject wordt daarbij beoordeeld op basis van al de volgende criteria:<br>
+1° de mate waarin het project innovatief is;<br>
+2° de mate waarin het project bijdraagt tot de internationale competitiviteit van de onderneming;<br>
+3° de mate waarin het project bijdraagt tot de verduurzaming op ecologisch vlak of tot het terugdringen van de broeikasgasuitstoot of aan de adaptatie aan klimaatverandering en tot de verduurzaming op sociaal vlak;<br>
+4° de mate waarin het project bijdraagt tot de verankering van de onderneming en de tewerkstelling en de algemene versterking van de onderneming in haar interne en externe waardeketen;<br>
+5° de mate waarin het project bijdraagt tot de versterking van de waardeketen of cluster die voor Vlaanderen van strategisch belang is, en tot de versterking van de Vlaamse economie.<br>
+<br>
+De minister bepaalt de invulling en het gewicht van de beoordelingscriteria, vermeld in het eerste lid, en de methodiek en praktische organisatie van de transformatietoets, vermeld in het eerste lid, rekening houdend met de beleidsprioriteiten en de beschikbare middelen.</p>
 
 ### ART. 38.
 
@@ -259,7 +347,11 @@ De steun wordt toegekend in de vorm van een basissteun voor het   transformatiep
 
 ### ART. 39.
 
-<P>De minister beslist over de steunverlening als de steun minder of gelijk is   aan vijfhonderdduizend euro (500.000 euro).<BR></P>  <P>De Vlaamse Regering beslist over de steunverlening als de steun meer bedraagt   dan vijfhonderdduizend euro (500.000 euro).<BR></P>
+<p>Het Agentschap Innoveren en Ondernemen beslist over de (on)ontvankelijkheid van de steunaanvraag.<br>
+<br>
+De minister beslist over de steunverlening als de steun minder of gelijk is aan vijfhonderdduizend euro (500.000 euro).</p>
+
+<p>De Vlaamse Regering beslist over de steunverlening als de steun meer bedraagt dan vijfhonderdduizend euro (500.000 euro).</p>
 
 ## HOOFDSTUK 4 Uitbetaling en verjaring
 
@@ -278,16 +370,14 @@ b) het Agentschap Innoveren en Ondernemen de mogelijkheid heeft gehad om vast te
 1) de in aanmerking komende transformatieopleidingen volledig zijn gerealiseerd;<br>
 2) de in aanmerking komende transformatie-investeringen volledig zijn gerealiseerd en deze investeringen in en door de aanvragende onderneming worden geëxploiteerd;<br>
 3) ...;<br>
-4) de op het moment van de steuntoekenning vastgelegde aanvangstewerkstelling minstens behouden blijft. In geval van daling van de aanvangstewerkstelling wordt de volledige steun pro rata verminderd;<br>
+4) de in het transformatieplan beschreven doelstelling over tewerkstelling in het Vlaamse Gewest, vermeld in artikel 21, derde lid, c), en artikel 36, derde lid, c), volledig is behaald;<br>
 5) aan alle voorwaarden, vermeld in het decreet van 16 maart 2012 en in dit besluit, is voldaan.</p>
 
 <p>Als de opleidingen of investeringen, vermeld in punt 3°, b), 1) en 2), niet volledig zijn gerealiseerd, wordt de steun voor de opleidingen of investeringen pro rata verminderd.</p>
 
 ### ART. 41.
 
-<p>De bonussteun, vermeld in artikel 18 en 33, voor de bijkomende tewerkstelling wordt achteraf in een keer aan de onderneming uitbetaald na overlegging van het bewijs van realisatie van de beloofde bijkomende tewerkstelling.</p>
-
-<p>Als de vooropgestelde tewerkstellingsvooruitzichten niet of niet volledig worden gerealiseerd, kan de bonussteun respectievelijk niet worden uitbetaald of trapsgewijs worden verminderd, op basis van een door de minister opgesteld schema.</p>
+<p>...</p>
 
 ### ART. 41/1.
 
@@ -295,13 +385,21 @@ Er wordt geen subsidie uitbetaald aan ondernemingen die een procedure op basis v
 
 ### ART. 42.
 
-Met toepassing van artikel 39 van het decreet van 16 maart 2012 worden de aanvragen tot uitbetaling ingediend binnen&nbsp;twaalf maanden na het beëindigen van het totale transformatieproject voor de basissteun of na realisatie van de vooropgestelde tewerkstellingsvooruitzichten voor de bonussteun.
+Met toepassing van artikel 39 van het decreet van 16 maart 2012 worden de aanvragen tot uitbetaling ingediend binnen&nbsp;twaalf maanden na het beëindigen van het totale transformatieproject voor de basissteun.
 
 ## HOOFDSTUK 5 Terugvordering
 
 ### ART. 43.
 
-De steun wordt teruggevorderd binnen tien jaar na de indieningsdatum van   de steunaanvraag, in geval van :<BR>1° faillissement, vereffening,   boedelafstand, ontbinding, vrijwillige of gerechtelijke verkoop, sluiting in het   kader van een sociaaleconomische herstructureringsoperatie met   tewerkstellingsafbouw tot gevolg binnen zeven jaar na het beëindigen van de   investeringen en opleidingen; <BR>2° vervreemding of wijziging van de   oorspronkelijke bestemming of het gebruik van de investeringen binnen vijf jaar   na het beëindigen van de investeringen, met behoud van de toepassing van artikel   14, punt 5, van de algemene vrijstellingsverordening;<BR>3° niet-naleving van de   wettelijke informatie- en raadplegingsprocedures bij collectief ontslag binnen   zeven jaar na het beëindigen van de investeringen en opleidingen;<BR>4°   niet-naleving van de voorwaarden die zijn opgelegd bij het decreet van 16 maart   2012, dit besluit of de uitvoeringsbesluiten binnen een periode van vijf jaar na   het beëindigen van de investeringen en opleidingen.<BR>
+De steun wordt teruggevorderd binnen tien jaar na de indieningsdatum van de steunaanvraag, in geval van :<br>
+1° faillissement, vereffening, boedelafstand, ontbinding, vrijwillige of gerechtelijke verkoop, sluiting in het kader van een sociaaleconomische herstructureringsoperatie met tewerkstellingsafbouw tot gevolg binnen zeven jaar na het beëindigen van de investeringen en opleidingen;<br>
+2° vervreemding of wijziging van de oorspronkelijke bestemming of het gebruik van de investeringen binnen vijf jaar na het beëindigen van de investeringen, met behoud van de toepassing van artikel 14, punt 5, van de algemene vrijstellingsverordening;<br>
+3° niet-naleving van de wettelijke informatie- en raadplegingsprocedures bij collectief ontslag binnen zeven jaar na het beëindigen van de investeringen en opleidingen;<br>
+4° niet-naleving van de voorwaarden die zijn opgelegd bij het decreet van 16 maart 2012, dit besluit of de uitvoeringsbesluiten binnen een periode van vijf jaar na het beëindigen van de investeringen en opleidingen.<br>
+<br>
+Als het strategisch transformatieproject niet wordt uitgevoerd conform de beschrijving in het transformatieplan van de concrete invulling van de beoordelingscriteria, vermeld in artikel 22, eerste lid en 37, eerste lid, de minimale in aanmerking komende opleidingskosten, vermeld in artikel 17, of het minimale in aanmerking komende investeringsbedrag, vermeld in artikel 32, niet worden gerealiseerd, wordt de steun volledig teruggevorderd.<br>
+<br>
+Als de opleidingen of investeringen, vermeld in het eerste lid, 3°, b), 1) en 2), niet volledig zijn gerealiseerd, wordt de steun voor de opleidingen of investeringen pro rata verminderd en gedeeltelijk niet uitbetaald of geheel of gedeeltelijk teruggevorderd.
 
 ### ART. 44.
 
