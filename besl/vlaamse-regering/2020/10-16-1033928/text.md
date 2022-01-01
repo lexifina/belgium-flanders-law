@@ -233,7 +233,7 @@ Als de aanvraag onvolledig is of fout is ingediend, meldt het agentschap dat zo 
 <br>
 Het agentschap kan bij het onderzoek en de beoordeling van de aanvraag rekening houden met de gegevens die blijken uit het dossier en uit de inspectie ter plaatse, en ook met andere elementen die een gegronde indicatie vormen van het gegeven dat de organisator niet aan de voorwaarden, vermeld in artikel 4 tot en met 20 van dit besluit, voldoet of zal kunnen voldoen.<br>
 <br>
-Als het agentschap het voornemen heeft om het kwaliteitslabel te weigeren met toepassing van het derde lid, wordt de organisator gehoord. De termijn, vermeld in het eerste lid, is in dat geval geschorst vanaf de dag waarop het agentschap het voornemen meedeelt aan de organisator tot en met de dag waarop de organisator wordt gehoord.
+Als het agentschap het voornemen heeft om het kwaliteitslabel te weigeren op basis van gegronde indicatie zoals vermeld in het derde lid, wordt de organisator gehoord. De termijn, vermeld in het eerste lid, is in dat geval geschorst vanaf de dag waarop het agentschap het voornemen meedeelt aan de organisator tot en met de dag waarop de organisator wordt gehoord.
 
 ### ART 23.
 
@@ -249,7 +249,12 @@ De organisator meldt voor elke opvanglocatie met een kwaliteitslabel aan het age
 1° de wijziging van de identiteitsgegevens en de contactgegevens van de contactpersoon van de organisator;<br>
 2° de wijziging van de gegevens van de verantwoordelijke, met inbegrip van een uittreksel uit het strafregister van de nieuwe verantwoordelijke als vermeld in artikel 16;<br>
 3° de datum van de definitieve stopzetting van een opvanglocatie;<br>
-4° de tijdelijke stopzetting van een opvanglocatie van minstens één ononderbroken jaar, met vermelding van de datum van de stopzetting, de reden van stopzetting, de vermoedelijke duur van de stopzetting en de datum van de herstart.
+4° de tijdelijke stopzetting van een opvanglocatie van minstens één ononderbroken jaar, met vermelding van de datum van de stopzetting, de reden van stopzetting, de vermoedelijke duur van de stopzetting en de datum van de herstart;<br>
+5° de definitieve of tijdelijke verhuizing van de opvanglocatie.<br>
+<br>
+De melding gebeurt conform de administratieve richtlijnen van het agentschap.<br>
+<br>
+De organisator informeert het lokaal bestuur van een verhuizing en de stopzetting van een opvanglocatie.
 
 ## HOOFDSTUK 4. Toezicht
 
@@ -323,7 +328,30 @@ Het bezwaar schorst de uitvoering van de beslissing, tenzij de beslissing bij dr
 
 ## [HOOFDSTUK 6/1. Overgangsbepalingen (ing. BVR 24 september 2021, art. 13, I: 1 januari 2022)]
 
+### ART 33/1.
+
+Voor de organisator die op 1 januari 2022 van rechtswege een kwaliteitslabel toegekend krijgt als vermeld in artikel 35, en die nog geen rechtspersoonlijkheid heeft, geldt een overgangsperiode van vier jaar om te voldoen aan de verplichting tot het hebben van rechtspersoonlijkheid, vermeld in artikel 6.
+
+### ART 33/2.
+
+Voor de organisator die op 1 januari 2022 van rechtswege een kwaliteitslabel toegekend krijgt als vermeld in artikel 35, geldt een overgangsperiode van vier jaar om te voldoen aan de verplichting tot het voorrang geven aan kleuters, vermeld in artikel 7, 2°.
+
+### ART 33/3.
+
+Voor de organisator die op 1 januari 2022 van rechtswege een kwaliteitslabel toegekend krijgt voor zijn locaties met een attest van toezicht als vermeld in artikel 35, geldt een overgangsperiode van vier jaar om te voldoen aan de verplichting waarbij 80% van de begeleiders een vorming heeft voltooid die de competenties, vermeld in artikel 15, derde lid, aanleert, of beschikt over een ervaringsbewijs dat aantoont dat die competenties verworven zijn.
+
 ## HOOFDSTUK 7. Slotbepalingen
+
+### ART 34.
+
+De volgende regelingen worden opgeheven:<br>
+1° het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014, gewijzigd bij het besluit van de Vlaamse Regering van 30 januari 2015, 21 oktober 2016, 7 september 2018 en 25 januari 2019;<br>
+2° het Procedurebesluit Buitenschoolse Opvang van 19 december 2014, gewijzigd bij het besluit van de Vlaamse Regering van 21 oktober 2016, 6 oktober 2017, 14 september 2018, 21 december 2018 en 25 januari 2019;<br>
+3° het ministerieel besluit van 23 mei 2014 tot uitvoering van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014 en tot wijziging van artikel 5 van het ministerieel besluit van 27 februari 2014 ter uitvoering van artikel 8, 11, 40, 43 en 73, van het Vergunningsbesluit van 22 november 2013, wat betreft de kwalificatiebewijzen en attesten, gewijzigd bij het ministerieel besluit van 11 oktober 2018.
+
+### ART 35.
+
+De organisator met een attest van toezicht, een erkenning of een toestemming als vermeld in een van de besluiten, vermeld in artikel 34, met uitzondering van de organisator die alleen een attest van toezicht voor vakantieopvang heeft, krijgt van rechtswege een kwaliteitslabel.
 
 ### ART 36.
 
