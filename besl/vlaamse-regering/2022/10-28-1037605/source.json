@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037605,
+  "title": "Besluit van de Vlaamse Regering van 2022-10-28 tot vaststelling van het totale aantal subsidiabele uren gezinszorg en het totale aantal subsidiabele uren schoonmaakhulp, karweihulp of oppashulp voor de diensten voor gezinszorg voor het jaar 2022, en van het bedrag voor de maatregelen uit de Vlaamse Intersectorale Akkoorden voor de social/non-profitsectoren voor de diensten voor gezinszorg en de centra voor dagopvang, en tot wijziging van het besluit van de Vlaamse Regering van 24 september 2021 tot bepaling van een aantal evaluatiecriteria voor de programmatie van diensten voor gezinszorg en van een aantal criteria voor de verdeling van de extra uren gezinszorg over de erkende diensten voor gezinszorg, naar aanleiding van de COVID-19-pandemie en VIA6",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037605/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "533e10292c70a95f68c8612722e2e6c74a82862a2ba761c312c20a7f9e2907ca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037605&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2022-10-28",
+  "gazette": "2023-01-16",
+  "numac": 2022034183,
+  "document_start": "2022-01-01",
+  "document_end": null,
+  "in_force": "2022-01-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
