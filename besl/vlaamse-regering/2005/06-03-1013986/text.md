@@ -231,7 +231,7 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		</tr>
 		<tr>
 			<td>justitie en handhaving</td>
-			<td>justitiehuizen en elektronisch toezicht</td>
+			<td>justitie en handhaving</td>
 		</tr>
 		<tr>
 			<td>interne dienstverlening Vlaamse overheid</td>
@@ -466,7 +466,7 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 
 <br>
 § 1. Het beleidsdomein Welzijn, Volksgezondheid en Gezin omvat de volgende beleidsvelden en bevoegdheden:
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
+<table border="1">
 	<tbody>
 		<tr>
 			<td>beleidsveld</td>
@@ -474,7 +474,7 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		</tr>
 		<tr>
 			<td>welzijn</td>
-			<td>de bijstand aan personen, vermeld in artikel 5, § 1, II, 2°, 7° en 8°, van de bijzondere wet:<br>
+			<td>de bijstand aan personen, vermeld in artikel 5, § 1, II, 2°, van de bijzondere wet:<br>
 			1° het beleid inzake maatschappelijk welzijn, met inbegrip van:<br>
 			a) de openbare centra voor maatschappelijk welzijn, met uitzondering van de bestuurlijke organisatie van en het administratief toezicht op de openbare centra voor maatschappelijk welzijn<br>
 			b) het algemeen welzijnswerk<br>
@@ -519,8 +519,7 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 </table>
 <br>
 § 2. Het beleidsdomein Welzijn, Volksgezondheid en Gezin omvat de volgende inhoudelijke structuurelementen:
-
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
+<table border="1">
 	<tbody>
 		<tr>
 			<td>beleidsveld</td>
@@ -998,12 +997,13 @@ De aangelegenheden die bij artikel 3 tot en met 13 aan de verschillende beleidsd
 
 ### ART. 17.
 
-<p>§ 1. Voor het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie wordt het Vlaams Ministerie met de naam " Kanselarij, Bestuur, Buitenlandse Zaken en Justitie" opgericht, dat bestaat uit het Departement "Kanselarij en Buitenlandse Zaken", de Dienst van de Bestuursrechtscolleges en vijf agentschappen zonder rechtspersoonlijkheid:<br>
+<p>§ 1. Voor het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie wordt het Vlaams Ministerie met de naam " Kanselarij, Bestuur, Buitenlandse Zaken en Justitie" opgericht, dat bestaat uit het Departement "Kanselarij en Buitenlandse Zaken", de Dienst van de Bestuursrechtscolleges en zes agentschappen zonder rechtspersoonlijkheid:<br>
 1° Audit Vlaanderen;<br>
 2° Agentschap Overheidspersoneel;<br>
 3° Agentschap Facilitair Bedrijf;<br>
 4° Agentschap Binnenlands Bestuur;<br>
-5° Agentschap Digitaal Vlaanderen.<br>
+5° Agentschap Digitaal Vlaanderen;<br>
+6° Agentschap Justitie en Handhaving.<br>
 <br>
 § 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie behoren, zijn :<br>
 1° de Rand;<br>
