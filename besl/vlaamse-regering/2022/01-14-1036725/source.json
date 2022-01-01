@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036725,
+  "title": "Besluit van de Vlaamse Regering van 2022-01-14 over de Cultuurprijzen van de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036725/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "b4d2560e3e16007a249294693c9f6ce51931207f50880b8d83d867e10efa573d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036725&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2022-01-14",
+  "gazette": "2022-03-22",
+  "numac": 2022030821,
+  "document_start": "2022-01-01",
+  "document_end": null,
+  "in_force": "2022-01-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
