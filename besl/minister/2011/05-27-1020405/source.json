@@ -2,16 +2,16 @@
   "codex_id": 1020405,
   "title": "Ministerieel besluit van 2011-05-27 tot vaststelling van productievoorschriften betreffende de biologische productie",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020405/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "cacfc792dcb47ab2c03c2efd8456830bd8624a226675a3302feef169d592f45c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020405/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "6d926bd1ef5b826e7ebdddf66856f27dff5a3526f488888a9adfd52336ac3e5a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020405&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2022-01-01",
   "made": "2011-05-27",
   "gazette": "2011-07-08",
   "numac": 2011035521,
   "document_start": "2011-07-18",
   "document_end": "2021-12-31",
-  "in_force": "2015-01-01",
+  "in_force": "2022-01-01",
   "article_versions": 36,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
 }
