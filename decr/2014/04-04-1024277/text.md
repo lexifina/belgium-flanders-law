@@ -16,8 +16,9 @@ Dit decreet voorziet in de gedeeltelijke omzetting van richtlijn 2014/61/EU van 
 
 &nbsp;In dit decreet wordt verstaan onder:<br>
 1° het agentschap: het intern verzelfstandigd agentschap Digitaal Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen;<br>
-2° andere geplande inname: een geplande inname van de openbare weg voor enige andere reden dan een werkopdracht;<br>
+2° ...<br>
 2° /1 civiele werken: een geheel van bouwkundige of civieltechnische werken met een oppervlakte van meer dan 50 m², dat bestemd is om een economische of technische functie te vervullen en dat een of meer elementen van een fysieke infrastructuur omvat;<br>
+2° /1/1 dringend grondwerk: een niet-geplande inname waarbij de openbare weg wordt opengebroken en die, onafhankelijk van de grootte, onmiddellijk moet worden uitgevoerd voor de veiligheid of voor de continuïteit van de nutsfunctie of dienstverlening, of om verdere schade te voorkomen;<br>
 2° /2 elektronisch communicatienetwerk: de transmissiesystemen, de schakel- of routeringsapparatuur en andere middelen, zoals netwerkelementen die niet actief zijn, die het mogelijk maken signalen over te brengen, ongeacht de aard van de overgebrachte informatie, via:<br>
 a) draad;<br>
 b) radiogolven;<br>
@@ -26,13 +27,19 @@ d) elektriciteitsnetten, als ze voor de overdracht van signalen worden gebruikt;
 e) netwerken voor de transmissie van radio-omroep en televisie.<br>
 Vaste terrestrische netwerken omvatten circuit- en pakketgeschakelde netwerken, met inbegrip van internet. Het gaat enkel om elektronische-communicatienetwerken die geheel of hoofdzakelijk gebruikt worden om voor het publiek beschikbare elektronische-communicatiediensten aan te bieden ter ondersteuning van de overdracht van informatie tussen netwerkaansluitpunten;<br>
 2° /3 elektronische-communicatieoperator: een onderneming die elektronische-communicatienetwerken bouwt, exploiteert, leidt of beschikbaar stelt, of waaraan een vergunning is verleend om elektronische-communicatienetwerken te bouwen, te exploiteren, te leiden of beschikbaar te stellen;<br>
-3° ernstige hinder: het afsluiten voor alle weggebruikers of voor groepen van weggebruikers van de rijbaan, van één of meer rijstroken, van een rijrichting, of van een bijzondere overrijdbare bedding;<br>
+3° evenement: een geplande inname voor een gebeurtenis waarbij muziek, kunst, cultuur, sport, religie, wetenschap, een economische activiteit, of een combinatie daarvan centraal staat;<br>
+3° /0/1 evenementenzone: een zone die de plaats van de geplande inname aangeeft voor de organisatie van een evenement;<br>
 3° /1 fysieke infrastructuur: elk element van een netwerk dat bedoeld is om er andere elementen van een netwerk in onder te brengen zonder dat het zelf een actief element van het netwerk wordt, zoals buizen, masten, kabelgoten, inspectieputten, mangaten, straatkasten, gebouwen of ingangen in gebouwen, antenne-installaties, torens en palen. Kabels, met inbegrip van ongebruikte glasvezels, zijn geen fysieke infrastructuur;<br>
-4° Generiek Informatieplatform Openbaar Domein, hierna GIPOD te noemen: het elektronisch informatiesysteem voor de uitwisseling van informatie en voor de ontsluiting voor het grote publiek over geplande innames van de openbare weg;<br>
-5° geplande inname van de openbare weg: het bezetten van de openbare weg voor werkzaamheden of andere activiteiten, met een aanvangsdatum, een duurtijd en een zone die minstens vijf werkdagen vooraf worden bepaald;<br>
+4° Generiek Informatieplatform Openbaar Domein, hierna GIPOD te noemen: het elektronisch informatiesysteem voor de uitwisseling van informatie over innames en geplande hinder en voor de ontsluiting voor het grote publiek over innames, geplande hinder en omleidingen;<br>
+5° ...<br>
 5° /1 geschillencommissie: de geschillencommissie voor de coördinatie van de civiele werken;<br>
+5° /2 grondwerk: een geplande inname waarbij de openbare weg wordt opengebroken;<br>
+5° /3 grondwerkzone: een zone, een adres, of de x/y-coördinaten die de plaats aangeven waar de openbare weg wordt opengebroken voor de uitvoering van grondwerken;<br>
 6° Grootschalig Referentie Bestand, hierna GRB te noemen: het databanksysteem, vermeld in artikel 2, 3°, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand;<br>
-7° initiatiefnemer: de natuurlijke persoon of rechtspersoon die een werkopdracht laat uitvoeren;<br>
+6° /1 hinder: gevolgen van een inname voor de normale mobiliteit van een bepaalde doelgroep;<br>
+7° initiatiefnemer: de natuurlijke persoon of rechtspersoon die een&nbsp;inname uitvoert of&nbsp;laat uitvoeren;<br>
+7° /0/1 inname: een activiteit waardoor voor bepaalde of onbepaalde duur een bepaalde zone van de openbare weg wordt ingenomen om grondwerken, dringende grondwerken, werken of evenementen te realiseren;<br>
+7° /0/2 jaartoelating signalisatie: een toelating op jaarbasis om signalisatie te plaatsen;<br>
 7° /1 kritieke nationale infrastructuur: de infrastructuur die als kritiek is aangeduid ter uitvoering van de wet van 1 juli 2011 betreffende de beveiliging en de bescherming van kritieke infrastructuren;<br>
 7° /2 netwerkexploitant: een onderneming die fysieke infrastructuur aanbiedt voor een van de volgende diensten:<br>
 a) de distributie van gas, als die dienst onder de Vlaamse bevoegdheid valt;<br>
@@ -42,20 +49,28 @@ d) de productie, het transport of de distributie van water, met inbegrip van de 
 e) de volgende vervoersdiensten:<br>
 1) de wegen en de waterwegen;<br>
 2) de havens, luchthavens en De Lijn;<br>
-8° omleiding: een alternatieve route die de weggebruikers kunnen volgen in geval van een geplande inname van de openbare weg;<br>
+8° omleiding: een alternatieve route die de weggebruikers kunnen volgen in geval van een inname;<br>
+8° /1 project: een groepering van geplande innames, hinder en omleidingen die gecoördineerd worden uitgevoerd;<br>
+8° /2 projectaanvraag: een aanvraag van een initiatiefnemer tot samenwerking met andere initiatiefnemers, met als doel het creëren van een project om grondwerken, werken, of de combinatie van beide gecoördineerd uit te voeren;<br>
+8° /3 signalisatievergunning: de vergunning van de bevoegde overheid om voor de uitvoering van grondwerken, werken of evenementen signalisatie te plaatsen, conform artikel 78.1.1 van het koninklijk besluit van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en van het gebruik van de openbare weg. De signalisatievergunning kan in voorkomend geval ook de werfzone of evenementenzone aanduiden;<br>
+8° /4 sleufsynergie: de registratie van een samenwerking tussen initiatiefnemers om nutswerken in dezelfde sleuf gecoördineerd uit te voeren;<br>
+8° /5 sleufsynergieaanvraag: een aanvraag van een initiatiefnemer tot samenwerking met andere initiatiefnemers, met als doel het creëren van een sleufsynergie;<br>
 9° synergie: de registratie van een samenwerking tussen initiatiefnemers om welbepaalde werken gecoördineerd uit te voeren;<br>
 10° synergieaanvraag: een aanvraag van een initiatiefnemer tot samenwerking met andere initiatiefnemers, met als doel het creëren van een synergie;<br>
-11° verplaatsingswerk: een werkopdracht voor de verplaatsing of heraanleg van nutsleidingen die veroorzaakt wordt door een andere werkopdracht;<br>
-12° werkopdracht: een geplande inname van de openbare weg voor het uitvoeren van werkzaamheden waarbij de openbare weg wordt opengebroken;<br>
-13° werkopdracht van categorie 1: een werkopdracht waarbij een oppervlakte van meer dan 50 m² wordt opengebroken;<br>
-14° werkopdracht van categorie 2: een werkopdracht waarbij een oppervlakte van minstens 3 m² en niet meer dan 50 m² wordt opengebroken;<br>
-15° werkopdracht van categorie 3: een werkopdracht waarbij een oppervlakte van minder dan 3 m² wordt opengebroken.
+11° verplaatsingswerk: een grondwerk voor de verplaatsing of de heraanleg van nutsleidingen, dat veroorzaakt wordt door een ander grondwerk;<br>
+12° werfzone: een zone die de plaats aangeeft van de geplande inname die nodig is voor de uitvoering van de grondwerken of werken, de stockage of doorgang van materiaal, werfvoertuigen en toestellen en de veilige doorgang van voetgangers en fietsers;<br>
+13° werk: een geplande inname, met uitzondering van een inname voor grondwerken of evenementen;
 
 ## HOOFDSTUK 2 Doel van het GIPOD
 
 ### ART. 4.
 
-Het GIPOD heeft tot doel om de informatiestromen, gerelateerd aan het proces van een geplande inname van de openbare weg in het Vlaamse Gewest, te optimaliseren en op die manier de hinder voor de maatschappij in haar geheel en de weggebruikers in het bijzonder te beperken.<br>
+Het GIPOD is het unieke uitwisselingsplatform dat de volgende doelstellingen heeft:<br>
+1° hinder door geplande innames op openbaar domein minimaliseren, in het bijzonder door de afstemming tussen grondwerken te faciliteren en conflicten tussen geplande innames te vermijden;<br>
+2° een overzicht bieden van de locatie en de initiatiefnemer van de geregistreerde innames op het openbaar domein;<br>
+3° de informatiestromen en administratieve processen die gerelateerd zijn aan innames op het openbaar domein optimaliseren en vereenvoudigen;<br>
+4° toegang geven tot informatie in het GIPOD aan de diensten die het algemeen belang behartigen zodat ze hun dienstverlening kunnen verzekeren;<br>
+5° het principe van unieke gegevensinzameling realiseren door data en systemen te linken.<br>
 <br>
 Het doel is ook, tegen lagere kosten, de uitrol van elektronische-communicatienetwerken met hoge snelheid te vergemakkelijken en te stimuleren door een efficiëntere aanleg van nieuwe fysieke infrastructuur.
 
@@ -67,7 +82,37 @@ Het doel is ook, tegen lagere kosten, de uitrol van elektronische-communicatiene
 
 ### ART. 6.
 
-Het gebruik van het GIPOD is kosteloos.<BR>
+§ 1. Het gebruik van het GIPOD is kosteloos.<br>
+<br>
+§ 2. Het agentschap is eigenaar van het GIPOD.<br>
+<br>
+Het agentschap treedt op als beheerder van de publieke informatie uit het GIPOD en stelt publieke informatie uit het GIPOD voor commercieel en niet-commercieel hergebruik ter beschikking, zonder vergoeding te vragen voor de toegang tot of het gebruik van de informatie.<br>
+<br>
+§ 3. De kosten voor het onderhoud, de exploitatie, het operationeel beheer en de verdere evolutie van het GIPOD worden voor de helft gefinancierd door het Vlaamse Gewest en voor de helft door bijdragen van alle netbeheerders van fysieke leidingnetten, vermeld in artikel 2, 7°, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand.<br>
+<br>
+De kosten worden verdeeld over alle netbeheerders, vermeld in het eerste lid, in verhouding tot de volgende elementen:<br>
+1° de aanwezigheid van de verschillende fysieke detailnetten per gemeente en de mogelijke interventies daarop;<br>
+2° de lengte van de vervoersnetten, zoals berekend volgens de verdeelsleutel van de GRB-heffing van het heffingsjaar 2016, zoals opgenomen in de GRB-heffingsbiljetten van dat jaar en voor de watersector de verdeelsleutel van het heffingsjaar 2018, zoals opgenomen in de GRB-heffingsbiljetten van dat jaar.<br>
+<br>
+De verdeling van de kosten voor het onderhoud, de exploitatie, het operationeel beheer en de verdere evolutie is vastgelegd in de tabel die is opgenomen in de bijlage die bij dit decreet is gevoegd. De Vlaamse Regering kan de verdeling van die kosten wijzigen, overeenkomstig het tweede lid, als het landschap van de netbeheerders, vermeld in het eerste lid, wijzigt, omdat er onder meer netbeheerders bijkomen, fusioneren, splitsen of niet langer actief zijn.<br>
+<br>
+Het eerste jaar dat een nieuwe netbeheerder als vermeld in het eerste lid toetreedt, betaalt die een bijdrage die overeenstemt met de kleinste bijdrage van de verdeelsleutel, vermeld in het tweede lid, 2°. Vanaf het jaar dat daarop volgt, is de GRB-heffingssleutel van het jaar van de toetreding van de nieuwe speler van toepassing voor de verdeling van de kosten, zoals opgenomen in de GRB-heffingsbiljetten van dat jaar.<br>
+<br>
+De bijdragen zijn verschuldigd door de persoon die op 31 december voorafgaand aan het bijdragejaar, netbeheerder is van het betrokken fysieke leidingnet. Indien op die datum geen enkele persoon de hoedanigheid van netbeheerder had, is de persoon of zijn rechtsopvolger onder algemene titel die als laatste de hoedanigheid van netbeheerder had voor het betrokken net verplicht tot de bijdrage.<br>
+<br>
+Indien de netbeheerder de bijdrage niet binnen de betalingstermijn betaalt, wordt het bedrag van de bijdrage verhoogd met 10 procent. Op het verhoogde bedrag is de wettelijke interest verschuldigd, vanaf het verstrijken van de betalingstermijn.<br>
+<br>
+Het agentschap is belast met de vestiging en de invordering van de bijdragen voor rekening van het Eigen Vermogen Digitaal Vlaanderen. De Vlaamse Regering duidt de personeelsleden aan van het agentschap die belast zijn met de vestiging van de bijdragen, met de invordering ervan en met de controle op de naleving van de verplichtingen betreffende deze bijdragen, en kan nadere regels met betrekking tot hun bevoegdheden bepalen.<br>
+<br>
+Bij gebrek aan voldoening van bijdrage, de verhoging, interesten en toebehoren wordt door de met de invordering belaste ambtenaar een dwangbevel uitgevaardigd. Dat dwangbevel wordt geviseerd en uitvoerbaar verklaard door het personeelslid dat daartoe aangewezen is door de Vlaamse Regering.<br>
+<br>
+Het dwangbevel wordt betekend bij gerechtsdeurwaardersexploot of bij aangetekend schrijven.<br>
+<br>
+Op het dwangbevel zijn de bepalingen toepasselijk van deel V van het Gerechtelijk Wetboek houdende bewarend beslag en middelen van tenuitvoerlegging.<br>
+<br>
+Ingeval de bijdrageplichtige een verzet aantekent tegen het dwangbevel, is de uitvoerbaarheid van het dwangbevel geschorst. Evenwel kan de met de invordering belaste ambtenaar, voor de definitieve beslechting van het geschil, een procedure in kortgeding inleiden bij de voorzitter van de rechtbank waar dit geschil in eerste aanleg aanhangig wordt gemaakt, teneinde de bijdrageplichtige te doen veroordelen tot betaling van een provisie op het bij dwangbevel gevorderde bedrag.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels betreffende de vestiging en invordering van de bijdragen.
 
 ### ART. 7.
 
@@ -79,52 +124,160 @@ Elke natuurlijke persoon of rechtspersoon die het GIPOD gebruikt conform   artik
 
 ### ART. 8.
 
-<p>§ 1. Elke werkopdracht van categorie 1 wordt ingegeven in het GIPOD door de initiatiefnemer of door een natuurlijk persoon of rechtspersoon die de initiatiefnemer heeft aangewezen.</p>
-
-<p>Elke werkopdracht van categorie 2 die ernstige hinder zal veroorzaken, wordt ingegeven in het GIPOD door de initiatiefnemer of door een natuurlijk persoon of rechtspersoon die de initiatiefnemer heeft aangewezen.</p>
-
-<p>Elke werkopdracht van categorie 3 waarvoor een omleiding voor het gemotoriseerd verkeer vereist is, wordt ingegeven in het GIPOD door de initiatiefnemer of door een natuurlijk persoon of rechtspersoon die de initiatiefnemer heeft aangewezen. De Vlaamse Regering kan de verplichting tot het ingeven in het GIPOD uitbreiden tot andere werkopdrachten van categorie 3 die een of meer vormen van ernstige hinder zullen veroorzaken.</p>
-
-<p>§ 2. Een werkopdracht wordt in het GIPOD ingegeven vóór de aanvang van de werkzaamheden die een inname van de openbare weg tot gevolg hebben, binnen de volgende termijnen:<br>
-1° voor een werkopdracht van categorie 1, als die geen aanleiding kan geven tot een verplaatsingswerk: uiterlijk twee maanden vóór de geplande aanvang van de werkzaamheden;<br>
-2° voor een werkopdracht van categorie 1, als die aanleiding kan geven tot een verplaatsingswerk of als die opgenomen is in een door de initiatiefnemer verplicht te beheren meerjarenplanning: vanaf het moment dat de zone van de werkzaamheden bekend zijn en uiterlijk zes maanden vóór de geplande aanvang van de werkzaamheden;<br>
-3° voor een werkopdracht van categorie 2 of categorie 3: binnen de termijnen die door de Vlaamse Regering worden bepaald.</p>
-
-<p>§ 3. Bij het ingeven van de werkopdracht wordt in het GIPOD, rekening houdend met de informatie die op dat moment beschikbaar is, minstens een duidelijke beschrijving ingegeven van de werkopdracht alsook van de zone waarbinnen de werkopdracht zal worden uitgevoerd. Die informatie wordt zo nauwkeurig mogelijk ingetekend op basis van het GRB.</p>
+<p>§ 1. Elk grondwerk wordt in het GIPOD ingegeven door de initiatiefnemer of door een natuurlijk persoon of rechtspersoon die de initiatiefnemer heeft aangewezen.<br>
+<br>
+De Vlaamse Regering kan een limitatieve lijst van uitzonderingen op de verplichting, vermeld in het eerste lid, vastleggen. Deze lijst bevat grondwerken die een beperkte oppervlakte en impact hebben.<br>
+<br>
+§ 2. Binnen de termijnen die de Vlaamse Regering bepaalt, wordt een grondwerk in het GIPOD ingegeven voor de aanvang van de werkzaamheden die een inname van de openbare weg tot gevolg hebben.<br>
+<br>
+§ 3. Bij het ingeven van het grondwerk, vermeld in paragraaf 2, wordt in het GIPOD minstens een duidelijke beschrijving ingegeven van het grondwerk en van de grondwerkzone, rekening houdend met de informatie die op dat moment beschikbaar is. Die informatie wordt zo nauwkeurig mogelijk ingetekend op basis van het GRB.<br>
+<br>
+§ 4. In deze paragraaf wordt verstaan onder jaarvergunning grondwerken: een vergunning op jaarbasis van de bevoegde overheid om bepaalde grondwerken uit te voeren.<br>
+<br>
+Als de initiatiefnemer over een toelating of over een jaarvergunning grondwerken moet beschikken, of die grondwerken moet melden aan de domeinbeheerder, richt de initiatiefnemer of een natuurlijk persoon of rechtspersoon die de initiatiefnemer heeft aangewezen, alle meldingen en de volgende aanvragen met de nodige documenten aan de domeinbeheerder via het GIPOD:<br>
+1° alle aanvragen tot toelating;<br>
+2° alle aanvragen voor een jaarvergunning grondwerken.<br>
+<br>
+Als de gemeente bij een aanvraag of melding als vermeld in het tweede lid geen domeinbeheerder is, wordt de gemeente altijd op de hoogte gebracht van de voormelde aanvragen of meldingen via het GIPOD.<br>
+<br>
+De domeinbeheerder verstuurt elk antwoord in het kader van de aanvraag, vermeld in het tweede lid, via het GIPOD.<br>
+<br>
+De verplichtingen, vermeld in dit decreet, doen geen afbreuk aan de bepalingen uit toepasselijke sectorreglementering.<br>
+<br>
+De Vlaamse Regering bepaalt:<br>
+1° welke minimale informatie over de aanvraag, melding of jaarvergunning grondwerken moet worden geregistreerd;<br>
+2° welke minimale informatie over het antwoord in het GIPOD moet worden geregistreerd;<br>
+3° de termijnen waarin de gegevens vanuit het e-loket naar het GIPOD moeten worden doorgestuurd.<br>
+<br>
+§ 5. De initiatiefnemer, of een natuurlijk persoon of rechtspersoon die de initiatiefnemer heeft aangewezen, dient alle aanvragen tot signalisatievergunning of jaarvergunning signalisatie, met uitzondering van de aanvragen voor signalisatie op autosnelwegen, bij de gemeente in via het e-loket van de gemeente of via het e-loket van het GIPOD als de gemeente zelf niet over een e-loket beschikt.<br>
+<br>
+De Vlaamse Regering bepaalt de volgende elementen voor de aanvraag, vermeld in het eerste lid, die via het e-loket van de gemeente of via het e-loket van GIPOD gebeurt:<br>
+1° de minimale informatie die moet worden geregistreerd over de aanvraag en het antwoord in het GIPOD;<br>
+2° de manier waarop de informatie, vermeld in punt 1°, in het GIPOD moet worden geregistreerd;<br>
+3° de termijnen waarin de gegevens vanuit het e-loket naar het GIPOD moeten worden doorgestuurd.</p>
 
 ## Afdeling 2 [Verplichting om een werk in te geven (verv. Decr. 17 december 2021, art. 8, I: 1 januari 2022)]
 
 ### ART. 9.
 
-<p>§ 1. Elke andere geplande inname, die ernstige hinder zal veroorzaken, wordt, door de gemeente, of door de natuurlijke persoon of rechtspersoon die de gemeente heeft aangewezen, ingegeven in het GIPOD, tenzij de gemeente daar onmogelijk kennis van kan hebben. De Vlaamse Regering bepaalt de termijnen waarbinnen de gegevens in het GIPOD moeten worden ingegeven.</p>
-
-<p>De Vlaamse Regering kan de verplichting tot ingave uitbreiden naar andere wegbeheerders en rechtspersonen voor de andere geplande innames waarvan de gemeente onmogelijk kennis kan hebben.</p>
-
-<p>§ 2. Bij een andere geplande inname wordt in het GIPOD, rekening houdend met de informatie die op dat moment beschikbaar is, minstens een duidelijke beschrijving ingegeven van de inname, alsook van de zone waarbinnen de inname zich situeert. Die informatie wordt zo nauwkeurig mogelijk ingetekend op basis van het GRB.</p>
+<p>§ 1. De initiatiefnemer, of een natuurlijk persoon of rechtspersoon die de initiatiefnemer heeft aangewezen, geven in het GIPOD elk werk in dat voldoet aan al de volgende voorwaarden:<br>
+1° het leidt tot hinder die veroorzaakt wordt door minstens een van de volgende situaties:<br>
+a) er wordt een rijstrook ingenomen, eventueel door de verplichte gang voor fietsers of voetgangers;<br>
+b) een deel van een rijstrook wordt ingenomen, eventueel door de verplichte gang voor fietsers of voetgangers, waardoor er een beurtelingse voorrangsregeling moet worden ingesteld of tijdelijke verkeerslichten worden gebruikt;<br>
+c) er wordt eenrichtingsverkeer opgeheven of ingesteld;<br>
+d) er wordt een straat afgesloten;<br>
+e) er wordt een omleiding ingesteld;<br>
+2° het neemt meer dan een dag in beslag;<br>
+3° er is een signalisatievergunning voor nodig.<br>
+<br>
+De Vlaamse Regering bepaalt de termijnen waarin de gegevens, vermeld in het eerste lid, in het GIPOD moeten worden ingegeven.<br>
+<br>
+Ten vroegste twee jaar na de datum van de inwerkingtreding van dit artikel kan de Vlaamse Regering de verplichting, vermeld in het eerste lid, uitbreiden tot andere werken die hinder veroorzaken.<br>
+<br>
+§ 2. Bij een werk wordt in het GIPOD minstens een duidelijke beschrijving ingegeven van het werk en van de werfzone, rekening houdend met de informatie die op dat moment beschikbaar is. Die informatie wordt zo nauwkeurig mogelijk ingetekend op basis van het GRB.<br>
+<br>
+§ 3. De initiatiefnemer, of een natuurlijk persoon of rechtspersoon die de initiatiefnemer heeft aangewezen, dient alle aanvragen tot signalisatievergunning of jaarvergunning signalisatie, met uitzondering van de aanvragen voor signalisatie op autosnelwegen, bij de gemeente in via het e-loket van de gemeente of via het e-loket van het GIPOD als de gemeente niet over een eigen e-loket beschikt.<br>
+<br>
+Als de aanvraag, vermeld in het eerste lid, via het e-loket van de gemeente gebeurt, stuurt de gemeente de voor het GIPOD noodzakelijke informatie door naar het GIPOD, wat resulteert in een registratie in het GIPOD.<br>
+<br>
+Als de aanvraag, vermeld in het eerste lid, via het e-loket van het GIPOD wordt ingediend, wordt het werk automatisch geregistreerd in het GIPOD.<br>
+<br>
+De Vlaamse Regering bepaalt de volgende elementen voor de aanvraag, vermeld in het eerste lid, die via het e-loket van de gemeente of via het GIPOD gebeurt:<br>
+1° de minimale informatie die over de aanvraag en het antwoord in het GIPOD moet worden geregistreerd;<br>
+2° de manier waarop die informatie in het GIPOD moet worden geregistreerd;<br>
+3° de termijnen waarin de gegevens vanuit het e-loket naar het GIPOD moeten worden doorgestuurd.</p>
 
 ## [Afdeling 3. Verplichting om een evenement in te geven (ing. Decr. 17 december 2021, art. 10, I: 1 januari 2022)]
+
+### ART 9/1.
+
+§ 1. De initiatiefnemer, of een natuurlijk persoon of rechtspersoon die de initiatiefnemer heeft aangewezen, geeft in het GIPOD elk evenement in dat voldoet aan al de volgende voorwaarden:<br>
+1° het leidt tot hinder die veroorzaakt wordt door minstens een van de volgende situaties:<br>
+a) er wordt een rijstrook ingenomen, inclusief de inname van de rijstrook door de verplichte gang voor fietsers of voetgangers;<br>
+b) er wordt een deel van een rijstrook ingenomen, inclusief de inname van de rijstrook door de verplichte gang voor fietsers of voetgangers, waardoor er een beurtelingse voorrangsregeling moet worden ingesteld of het gebruik van tijdelijke verkeerslichten;<br>
+c) er wordt eenrichtingsverkeer opgeheven of ingesteld;<br>
+d) er wordt een straat afgesloten;<br>
+e) er wordt een omleiding ingesteld;<br>
+2° het neemt meer dan een werkdag in beslag.<br>
+<br>
+De Vlaamse Regering bepaalt de termijnen waarin de gegevens, vermeld in het eerste lid, in het GIPOD moeten worden ingegeven.<br>
+<br>
+Ten vroegste twee jaar na de datum van de inwerkingtreding van dit artikel kan de Vlaamse Regering de verplichting, vermeld in het eerste lid, uitbreiden tot andere evenementen.<br>
+<br>
+§ 2. Bij een evenement wordt in het GIPOD minstens een duidelijke beschrijving ingegeven van het evenement en van de evenementenzone, rekening houdend met de informatie die op dat moment beschikbaar is. Die informatie wordt zo nauwkeurig mogelijk ingetekend op basis van het GRB.
 
 ## [HOOFDSTUK 4/1 Verplichting om een niet-geplande inname van de openbare weg in te geven (ing. Decr. 17 december 2021, art. 12, I: 1 januari 2022)]
 
 ## [Afdeling 1. Verplichting om een dringend grondwerk in te geven (ing. Decr. 17 december 2021, art. 13, I: 1 januari 2022)]
 
+### ART 9/2.
+
+§ 1. Elk dringend grondwerk wordt ingegeven in het GIPOD door de initiatiefnemer of door een natuurlijk persoon of rechtspersoon die de initiatiefnemer heeft aangewezen.<br>
+<br>
+§ 2. Een dringend grondwerk wordt in het GIPOD ingegeven binnen de termijn die de Vlaamse Regering bepaalt.<br>
+<br>
+§ 3. Bij het ingeven van een dringend grondwerk als vermeld in paragraaf 1 wordt in het GIPOD minstens een duidelijke beschrijving ingegeven van de aard van het dringende grondwerk en van de grondwerkzone, rekening houdend met de informatie die op dat moment beschikbaar is. Die informatie wordt zo nauwkeurig mogelijk ingetekend op basis van het GRB.
+
 ## [HOOFDSTUK 4/2 Verplichting om hinder op de openbare weg in te geven (ing. Decr. 17 december 2021, art.15, I: 1 januari 2022)]
+
+### ART 9/3.
+
+De gemeente, of een natuurlijk persoon of rechtspersoon die de gemeente heeft aangewezen, geeft de hinder die de inname veroorzaakt in het GIPOD in als een geplande inname leidt tot minstens een van de volgende situaties:<br>
+1° er wordt een rijstrook ingenomen, inclusief de inname van de rijstrook door de verplichte gang voor fietsers of voetgangers;<br>
+2° er wordt een deel van een rijstrook ingenomen, inclusief de inname van de rijstrook door de verplichte gang voor fietsers of voetgangers, waardoor er een beurtelingse voorrangsregeling moet worden ingesteld of het gebruik van tijdelijke verkeerslichten;<br>
+3° eenrichtingsverkeer wordt opgeheven of ingesteld;<br>
+4° een straat wordt afgesloten;<br>
+5° er wordt een omleiding ingesteld.<br>
+<br>
+Bij hinder wordt minstens een duidelijke beschrijving ingegeven van de hinder en van de hinderzone waarin de hinder zich bevindt en ook van de gevolgen van de hinder, rekening houdend met de informatie die op dat moment beschikbaar is. Die informatie wordt zo nauwkeurig mogelijk ingetekend op basis van het GRB.<br>
+<br>
+In het tweede lid wordt verstaan onder hinderzone: de plaats op de openbare weg waar de gevolgen van een inname zich voordoen.<br>
+<br>
+De initiatiefnemer of een natuurlijk of rechtspersoon die de initiatiefnemer heeft aangewezen, dient de aanvraag tot een signalisatievergunning in met de vereiste gegevens conform artikel 8, § 5, en artikel 9, § 3.
 
 ## HOOFDSTUK 5 [Verplichting om een samenwerkingszone en samenwerkingsaanvragen in te geven (verv. Decr. 17 december 2021, art. 17, I: 1 januari 2022)]
 
 ### ART. 10.
 
-Om synergieaanvragen van andere initiatiefnemers te kunnen ontvangen en   beantwoorden geeft elke initiatiefnemer in het GIPOD een synergie-interessezone   in die minstens zijn bestaande werkingsgebied dekt. Die ingegeven zone bepaalt   het gebied waarvoor de initiatiefnemer synergieaanvragen zal   ontvangen.<BR>
+Om samenwerkingsaanvragen van andere initiatiefnemers te kunnen ontvangen en beantwoorden, geeft elke initiatiefnemer in het GIPOD een samenwerkingszone in die minstens zijn bestaande werkingsgebied dekt. Die ingegeven zone bepaalt het gebied waarvoor de initiatiefnemer samenwerkingsaanvragen ontvangt.<br>
+<br>
+De samenwerkingsaanvraag, vermeld in het eerste lid, kan bestaan uit een sleufsynergieaanvraag of een projectaanvraag.
 
 ### ART. 11.
 
-<P>§ 1. Voor elke werkopdracht van categorie 1 geeft de initiatiefnemer in het   GIPOD een synergieaanvraag in, uiterlijk twee maanden voor de geplande aanvang   van de werkopdracht.<BR></P>  <P>§ 2. De initiatiefnemer is vrijgesteld van de verplichting, vermeld in   paragraaf 1, in een van de twee volgende gevallen:<BR>1° de werkopdracht wordt   opgegeven in antwoord op een synergieaanvraag die voor een andere werkopdracht   werd aangemaakt;<BR>2° voor de werkopdracht heeft uiterlijk zes maanden voor de   geplande aanvang van de werkzaamheden een coördinatievergadering plaatsgehad.   Die vergadering wordt georganiseerd door de initiatiefnemer met als doel   werkzaamheden in de zone van de werkopdracht op elkaar af te stemmen. De   initiatiefnemer nodigt daarvoor ten minste de wegbeheerders, de maatschappijen   voor geregeld vervoer en de beheerders van kabels en leidingen uit, voor zover   de synergie-interessezone van deze partijen overlapt met de zone van de   werkopdracht.<BR></P>  <P>§ 3. De initiatiefnemer die de synergieaanvraag ingeeft in het GIPOD, bepaalt   in die aanvraag de termijn waarbinnen de andere initiatiefnemers dienen te   antwoorden.<BR></P>  <P>Als de ontvanger van de synergieaanvraag binnen de antwoordtermijn die in de   synergieaanvraag is opgegeven, geen antwoord heeft verstrekt, geldt dat als een   negatief antwoord vanwege die ontvanger.<BR></P>  <P>Als een of meer ontvangers de synergieaanvraag binnen de opgegeven   antwoordtermijn positief beantwoorden, met opgave van een werkopdracht, wordt   een synergie in het GIPOD ingegeven. De synergie wordt ingegeven door de   initiatiefnemer van de synergieaanvraag of, in onderling overleg, door een   ontvanger van de synergieaanvraag.<BR></P>  <P>De Vlaamse Regering bepaalt de termijnen waarbinnen de synergie in het GIPOD   moet worden ingegeven.<BR></P>
+<p>§ 1. In dit artikel wordt verstaan onder grondwerk van categorie 1: een grondwerk waarbij een oppervlak van meer dan 50 m2, of een lengte van meer dan 100 lopende meter wordt opengebroken, of waarbij een boring van meer dan 50 lopende meter wordt uitgevoerd.<br>
+<br>
+§ 2. Voor elk grondwerk van categorie 1 geeft de initiatiefnemer een sleufsynergieaanvraag of een projectaanvraag in het GIPOD in conform paragraaf 3 en 4.<br>
+<br>
+§ 3. Voor elk grondwerk van categorie 1 waarbij de initiatiefnemer de intentie heeft om nutswerken in een gemeenschappelijke sleuf uit te voeren, en waarvoor binnen de zone in kwestie nog geen relevante sleufsynergie of sleufsynergieaanvraag bestaat, geeft de initiatiefnemer, of de natuurlijke persoon of rechtspersoon die de initiatiefnemer heeft aangewezen, een sleufsynergieaanvraag in het GIPOD in, uiterlijk twee maanden voor de geplande aanvang van het grondwerk.<br>
+<br>
+Als het grondwerk wordt ingegeven als antwoord op een sleufsynergieaanvraag die voor een ander grondwerk is aangemaakt, is de initiatiefnemer vrijgesteld van de verplichting, vermeld in het eerste lid.<br>
+<br>
+De ontvangers van de sleufsynergieaanvraag geven binnen vijftien dagen na de ontvangst van de aanvraag een antwoord op de sleufsynergieaanvraag, vermeld in het eerste lid. Als de ontvanger van die sleufsynergieaanvraag binnen de voormelde antwoordtermijn geen antwoord heeft verstrekt, geldt dat als een negatief antwoord van die ontvanger.<br>
+<br>
+De ontvangers van de sleufsynergieaanvraag die een positief antwoord hebben verstrekt binnen vijftien dagen na de ontvangst van de aanvraag, koppelen binnen vijfenveertig dagen na de ontvangst van de aanvraag minstens één grondwerk aan de aanvraag.<br>
+<br>
+Als de ontvangers van de sleufsynergieaanvraag die een positief antwoord hebben verstrekt binnen vijftien dagen na de ontvangst van de aanvraag, geen grondwerk koppelen binnen vijfenveertig kalenderdagen na de ontvangst van de aanvraag, geldt dat als een negatief antwoord.<br>
+<br>
+§ 4. Voor elk grondwerk van categorie 1 waarbij de initiatiefnemer niet de intentie heeft om nutswerken in een gemeenschappelijke sleuf uit te voeren, geeft de initiatiefnemer, of de natuurlijke persoon of rechtspersoon die de initiatiefnemer heeft aangewezen, een projectaanvraag in het GIPOD in, uiterlijk twee maanden voor de geplande aanvang van het grondwerk.<br>
+<br>
+Als uiterlijk zes maanden voor de geplande aanvang van de werkzaamheden een coördinatievergadering heeft plaatsgevonden, is de initiatiefnemer vrijgesteld van de verplichting, vermeld in het eerste lid. Die coördinatievergadering wordt georganiseerd door de initiatiefnemer met als doel werkzaamheden in de grondwerkzone op elkaar af te stemmen. De initiatiefnemer nodigt voor de coördinatievergadering ten minste de betrokken gemeente, de domeinbeheerders, de maatschappijen voor geregeld vervoer en de beheerders van kabels en leidingen uit als de samenwerkingszone van die partijen overlapt met de grondwerkzone.<br>
+<br>
+De initiatiefnemer die de projectaanvraag, vermeld in het eerste lid, ingeeft in het GIPOD, bepaalt de termijn waarin de ontvangers van de projectaanvraag op de projectaanvraag moeten antwoorden.<br>
+<br>
+Deze termijn bedraagt minstens twintig dagen na de ontvangst van de aanvraag. Als de ontvanger van de projectaanvraag binnen die antwoordtermijn geen antwoord heeft verstrekt, geldt dat als een negatief antwoord van die ontvanger.<br>
+<br>
+De initiatiefnemer die de projectvraag, vermeld in het eerste lid, ingeeft in het GIPOD, bepaalt de termijn waarin de ontvangers van de projectaanvraag die een positief antwoord hebben verstrekt binnen de termijn, vermeld in het vierde lid, een grondwerk moeten koppelen. Deze termijn bedraagt minstens vijfenvijftig dagen vanaf ontvangst van de projectaanvraag.<br>
+<br>
+Als de ontvangers van de projectaanvraag die een positief antwoord hebben verstrekt binnen de termijn, vermeld in het vierde lid, geen grondwerk koppelen binnen de termijn, vermeld in het vijfde lid, geldt dat als een negatief antwoord.<br>
+<br>
+De Vlaamse Regering bepaalt vanaf wanneer projectvragen verplicht zijn.</p>
 
 ## HOOFDSTUK 6 Verplichting tot het ingeven van een omleiding
 
 ### ART. 12.
 
-<p>Als een omleiding wordt ingesteld voor een werkopdracht of een andere geplande inname, wordt die in het GIPOD ingegeven.</p>
+<p>Als een omleiding wordt ingesteld voor een grondwerk, een werk of een evenement, wordt die in het GIPOD ingegeven.</p>
 
 <p>De Vlaamse Regering bepaalt:<br>
 1° de informatie die minstens moet worden ingegeven bij de omleiding;<br>
@@ -207,7 +360,7 @@ Als een dossier dat persoonsgegevens als vermeld in het eerste lid, bevat, naar 
 
 ### ART 16/1.
 
-In afwijking van artikel 8, § 1 en § 2, geven de netwerkexploitanten en de elektronische-communicatieoperatoren of natuurlijke personen of rechtspersonen, die ze aanwijzen, alle civiele werken in GIPOD in, als een elektronische-communicatieoperator voor hetzelfde gebied een synergie-interessezone heeft ingegeven.<br>
+In afwijking van artikel 8, § 1 en § 2, geven de netwerkexploitanten en de elektronische-communicatieoperatoren of natuurlijke personen of rechtspersonen, die ze aanwijzen, alle civiele werken in GIPOD in, als een elektronische-communicatieoperator voor hetzelfde gebied een&nbsp;samenwerkingszone heeft ingegeven.<br>
 <br>
 Het civiele werk wordt uiterlijk twee maanden voor de geplande aanvang van de werkzaamheden in GIPOD ingegeven als het geen aanleiding kan geven tot een verplaatsingswerk. Het civiele werk wordt vanaf het moment dat de zone van de werkzaamheden bekend is en uiterlijk zes maanden voor de geplande aanvang van de werkzaamheden in GIPOD ingegeven als het aanleiding kan geven tot een verplaatsingswerk of als het werk opgenomen is in een door de netwerkexploitant of elektronische-communicatieoperator verplicht te beheren meerjarenplanning.<br>
 <br>
@@ -215,7 +368,7 @@ Het civiele werk wordt in GIPOD ingegeven conform artikel 8, § 3.
 
 ### ART 16/2.
 
-De netwerkexploitanten en de elektronische-communicatieoperatoren verstrekken over civiele werken waarvoor een vergunning is verleend, waarvoor een vergunningsprocedure loopt of waarvoor binnen de komende zes maanden een eerste vergunning wordt aangevraagd, al de volgende informatie als een elektronische-communicatieoperator voor hetzelfde gebied een synergie-interessezone heeft ingegeven:<br>
+De netwerkexploitanten en de elektronische-communicatieoperatoren verstrekken over civiele werken waarvoor een vergunning is verleend, waarvoor een vergunningsprocedure loopt of waarvoor binnen de komende zes maanden een eerste vergunning wordt aangevraagd, al de volgende informatie als een elektronische-communicatieoperator voor hetzelfde gebied een&nbsp;samenwerkingszone heeft ingegeven:<br>
 1° de locatie en het type werkzaamheden;<br>
 2° de netwerkelementen die erbij betrokken zijn;<br>
 3° de geraamde datum voor de aanvang van de werkzaamheden en de duur ervan;<br>
@@ -241,7 +394,7 @@ De Vlaamse Regering kan bepalen dat het ingeven van de planning, vermeld in het 
 <br>
 § 3. Een synergie wordt conform artikel 11 aangevraagd.<br>
 <br>
-Als de netwerkexploitant of de elektronische-communicatieoperator een coördinatievergadering als vermeld in artikel 11, § 2, organiseert voor civiele werken, nodigt hij ten minste de elektronische-communicatieoperatoren uit van wie de synergie-interessezone en de zone van het civiele werk elkaar overlappen.<br>
+Als de netwerkexploitant of de elektronische-communicatieoperator een coördinatievergadering als vermeld in artikel 11, § 4, organiseert voor civiele werken, nodigt hij ten minste de elektronische-communicatieoperatoren uit van wie de&nbsp;samenwerkingszone en de zone van het civiele werk elkaar overlappen.<br>
 <br>
 § 4. De Vlaamse Regering kan de prijszetting regelen voor de coördinatie van de civiele werken als die geheel of gedeeltelijk verricht zijn met financiële steun van het Vlaamse Gewest.<br>
 <br>
@@ -326,3 +479,117 @@ Het innen en invorderen van de administratieve geldboete verloopt conform artike
 <p>Dit decreet treedt in werking op de eerste dag van de vierentwintigste maand die volgt op de maand waarin het in het Belgisch Staatsblad is bekendgemaakt, met uitzondering van artikel 8, § 1, tweede en derde lid, artikel 8, § 2, 3°, en artikel 9 en 12.</p>
 
 <p>Artikel 8, § 1, tweede en derde lid, artikel 8, § 2, 3°, en artikel 9 en 12, treden in werking op een door de Vlaamse Regering vast te stellen datum en ten vroegste op de datum, vermeld in het eerste lid.</p>
+
+### BIJLAGE
+
+Tabel met de verdeling van de kosten voor het onderhoud, de exploitatie, het operationeel beheer en de verdere evolutie, als vermeld in artikel 6, § 3, derde lid<br>
+&nbsp;
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>Netbeheerder van fysieke infrastructuur</td>
+			<td>Eindtotaal (%)</td>
+			<td>Vanaf 2022</td>
+		</tr>
+		<tr>
+			<td>Fluvius</td>
+			<td>39,31%</td>
+			<td>117 916,64 EUR</td>
+		</tr>
+		<tr>
+			<td>Proximus NV</td>
+			<td>17,8586%</td>
+			<td>53 575,70 EUR</td>
+		</tr>
+		<tr>
+			<td>Telenet</td>
+			<td>10,6988%</td>
+			<td>32 096,54 EUR</td>
+		</tr>
+		<tr>
+			<td>De Watergroep</td>
+			<td>9,4871%</td>
+			<td>28 461,35 EUR</td>
+		</tr>
+		<tr>
+			<td>Farys</td>
+			<td>5,4%</td>
+			<td>16 191,13 EUR</td>
+		</tr>
+		<tr>
+			<td>PIDPA</td>
+			<td>4,8039%</td>
+			<td>14 411,76 EUR</td>
+		</tr>
+		<tr>
+			<td>Aquafin</td>
+			<td>3,4161%</td>
+			<td>10 248,42 EUR</td>
+		</tr>
+		<tr>
+			<td>Elia Asset</td>
+			<td>2,6792%</td>
+			<td>8 037,49 EUR</td>
+		</tr>
+		<tr>
+			<td>Fluxys Belgium NV</td>
+			<td>1,3158%</td>
+			<td>3 947,42 EUR</td>
+		</tr>
+		<tr>
+			<td>Water-link</td>
+			<td>1,3046%</td>
+			<td>3 913,87 EUR</td>
+		</tr>
+		<tr>
+			<td>Orange Belgium MES</td>
+			<td>0,4966%</td>
+			<td>1 489,65 EUR</td>
+		</tr>
+		<tr>
+			<td>Eurofiber NV</td>
+			<td>0,4350%</td>
+			<td>1 304,92 EUR</td>
+		</tr>
+		<tr>
+			<td>Air Liquide Industries Belgium NV</td>
+			<td>0,4277%</td>
+			<td>1 283,06 EUR</td>
+		</tr>
+		<tr>
+			<td>Syntigo Scarlet Business</td>
+			<td>0,3604%</td>
+			<td>1 081,32 EUR</td>
+		</tr>
+		<tr>
+			<td>IWVA</td>
+			<td>0,3527%</td>
+			<td>1 058,01 EUR</td>
+		</tr>
+		<tr>
+			<td>Level 3 Communications SA</td>
+			<td>0,2621%</td>
+			<td>786,25 EUR</td>
+		</tr>
+		<tr>
+			<td>VIVAQUA</td>
+			<td>0,2127%</td>
+			<td>638,10 EUR</td>
+		</tr>
+		<tr>
+			<td>Interoute Belgium NV</td>
+			<td>0,1787%</td>
+			<td>536,16 EUR</td>
+		</tr>
+		<tr>
+			<td>Colt Technology Services NV</td>
+			<td>0,1455%</td>
+			<td>436,58 EUR</td>
+		</tr>
+		<tr>
+			<td>NMP</td>
+			<td>0,1398%</td>
+			<td>419,43 EUR</td>
+		</tr>
+	</tbody>
+</table>
