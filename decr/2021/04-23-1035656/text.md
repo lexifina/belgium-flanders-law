@@ -2,6 +2,14 @@
 
 ## HOOFDSTUK 1. Inleidende bepalingen, doelstellingen en instrumenten
 
+### ART 1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid.
+
+### ART 2.
+
+Dit decreet wordt aangehaald als: Kunstendecreet van 23 april 2021.
+
 ### ART 3.
 
 In dit decreet wordt verstaan onder:<br>
@@ -36,6 +44,47 @@ b) hij is betrokken bij activiteiten in het kader van kunst binnen de Vlaamse Ge
 19° werkingssubsidie: een subsidie die toegekend wordt om een structurele activiteit te ondersteunen die een continu en permanent karakter vertoont en die de subsidiëring van een kern van personeelsleden, een basistoelage voor de werking en een subsidiëring op grond van werkelijk gepresteerde activiteiten omvat.<br>
 <br>
 De Vlaamse Regering wijst de dienst, vermeld in het eerste lid, 1°, aan.
+
+### ART 4.
+
+Dit decreet heeft tot doel de bloei van een professioneel en kwaliteitsvol, duurzaam, maatschappelijk en cultureel divers kunstenlandschap te stimuleren, de internationale samenwerking en uitwisseling van de kunsten te bevorderen en de maatschappelijke inbedding ervan te vergroten.<br>
+<br>
+Dit decreet doet dat door:<br>
+1° de functies in het kunstenveld te benoemen en te ondersteunen;<br>
+2° kortlopende initiatieven van kunstenaars, kunstwerkers en organisaties te ondersteunen;<br>
+3° de structurele werking van kunstenorganisaties en organisaties met specifieke kerntaken te ondersteunen;<br>
+4° buitenlandse presentaties van kunstenaars, kunstwerkers of kunstenorganisaties te ondersteunen;<br>
+5° een kunstverwervingsbeleid te voeren;<br>
+6° de spreiding, uitleen en aankoop van kunst te bevorderen;<br>
+7° de andere bestuursniveaus erbij te betrekken in het kader van een complementair kunstenbeleid.
+
+### ART 5.
+
+§ 1. De Vlaamse Regering ontwikkelt een strategische visie over het beleidskader voor de kunsten voor een periode van vijf jaar. Die strategische visie wordt geformuleerd in een strategische visienota die de beleidsnota Cultuur concretiseert.<br>
+<br>
+&nbsp;§ 2. De strategische visienota bevat minstens de volgende elementen:<br>
+1° een breed georiënteerde omgevingsanalyse die verder gaat dan het kunstenveld;<br>
+2° de nieuwe uitdagingen die om beleidsaandacht vragen;<br>
+3° de prioriteiten voor de legislatuur;<br>
+4° de eventuele voorstellen voor een impulsbeleid;<br>
+5° de aandachtspunten bij de beoordeling van en de beslissing over aanvragen van subsidies, vermeld in artikel 33, § 1, 4°, en artikel 56, § 1, 4° ;<br>
+6° een lijst van prioritaire landen en regio's in het kader van het internationale kunstenbeleid;<br>
+7° de verhouding tot steden en gemeenten en de Vlaamse Gemeenschapscommissie, rekening houdend met de bijdragen die ze in het kader van artikel 6 geleverd hebben.<br>
+<br>
+§ 3. De vzw Kunstensteunpunt, vermeld in hoofdstuk 4, afdeling 4, onderafdeling 2, levert een bijdrage aan de opbouw van de strategische visienota, vermeld in paragraaf 1, door een landschapstekening aan te leveren bij de administratie, uiterlijk op 1 september van het jaar vóór het jaar waarin de strategische visienota wordt voorgelegd, vermeld in paragraaf 4.<br>
+<br>
+De landschapstekening, vermeld in het eerste lid, is gebaseerd op een sterkte-zwakteanalyse, die de sterktes, zwaktes, kansen en bedreigingen van het kunstenveld beschrijft. De landschapstekening bevat kwalitatieve en kwantitatieve gegevens van het kunstenveld binnen de Vlaamse Gemeenschap, met inbegrip van cijfers over de internationale context, de aanwijzing van hiaten en overaanbod, de beschrijving van de huidige trends en de opsomming van opportuniteiten om het kunstenbeleid te optimaliseren.<br>
+<br>
+Het Kunstensteunpunt werkt voor de uitwerking van de landschapstekening in dialoog met de administratie.<br>
+<br>
+§ 4. De Vlaamse Regering legt de strategische visienota voor aan het Vlaams Parlement uiterlijk op 1 april van het tweede volledige jaar van de legislatuur van het Vlaams Parlement.
+
+### ART 6.
+
+De Vlaamse Regering betrekt de Vlaamse steden en gemeenten en de Vlaamse Gemeenschapscommissie op de volgende wijze bij de uitvoering van dit decreet:<br>
+1° ze vraagt aan de Vlaamse steden en gemeenten een schriftelijke bijdrage voor de opmaak van de strategische visienota, vermeld in artikel 5. Het opstellen van deze bijdrage gebeurt na of in overleg met de representatieve organisatie die hun belangen behartigt en de Vlaamse Gemeenschapscommissie. In die schriftelijke bijdrage formuleren de Vlaamse steden en gemeenten hun visie op het belang en de ontwikkeling van kunstenorganisaties met een landelijke of internationale uitstraling die op hun grondgebied gevestigd zijn, in relatie tot hun lokale kunstenbeleid;<br>
+2° de Vlaamse steden en gemeenten waar kunstenorganisaties gevestigd zijn die een werkingssubsidie aanvragen, en, in voorkomend geval, de Vlaamse Gemeenschapscommissie kunnen op hun verzoek of op verzoek van de Vlaamse Regering gehoord worden na de beoordeling van de aanvraag van de betrokken kunstenorganisaties, vermeld in artikel 10, § 4;<br>
+3° de Vlaamse steden en gemeenten waar de kunstenorganisaties met een werkingssubsidie voor twee beleidsperiodes, vermeld in artikel 50, tweede lid, en de kunstinstellingen, vermeld in artikel 61, gevestigd zijn, en, in voorkomend geval, de Vlaamse Gemeenschapscommissie, worden betrokken bij het sluiten van de beheersovereenkomsten, vermeld in artikel 75, met de voormelde kunstenorganisaties.
 
 ## HOOFDSTUK 2. Gemeenschappelijke bepalingen voor alle subsidies
 
@@ -130,27 +179,303 @@ Een aanvraag als vermeld in het eerste lid, kan gesubsidieerd worden als ze vold
 <br>
 § 6. De Vlaamse Regering kan voor alle subsidies de toepasselijke subsidievoorwaarden nader bepalen.
 
+### ART 11.
+
+§ 1. De subsidies, vermeld in dit decreet, kunnen onderling niet gecombineerd worden.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 kunnen de tegemoetkomingen voor internationale presentatiemomenten, vermeld in hoofdstuk 3, afdeling 4, onderafdeling 2, en de subsidies voor internationale presentatieprojecten, vermeld in hoofdstuk 3, afdeling 4, onderafdeling 3, wel onderling gecombineerd worden indien het gaat over verschillende initiatieven, en kunnen ze gecombineerd worden met een van de volgende subsidies:<br>
+1° een beurs als vermeld in hoofdstuk 3, afdeling 2;<br>
+2° een projectsubsidie als vermeld in hoofdstuk 3, afdeling 3;<br>
+3° een residentiebeurs als vermeld in hoofdstuk 3, afdeling 4, onderafdeling 1;<br>
+4° een werkingssubsidie als vermeld in hoofdstuk 4.<br>
+<br>
+De toegekende werkingssubsidie, vermeld in het eerste lid, 4°, mag een bepaald grensbedrag niet overschrijden, om combineerbaar te zijn met een tegemoetkoming voor een internationale presentatiemoment of een subsidie voor een internationaal presentatieproject. De Vlaamse Regering bepaalt nader dit grensbedrag.
+
+### ART 12.
+
+De Vlaamse Regering bepaalt voor elk van de subsidie-instrumenten, vermeld in dit decreet, de nadere regels voor de volgende aspecten:<br>
+1° de indiening van de aanvraag;<br>
+2° de beoordeling van de aanvraag;<br>
+3° de toekenning van de subsidie;<br>
+4° de aanpassing van het beleidsplan als dat van toepassing is;<br>
+5° de opmaak en evaluatie van de beheersovereenkomst als dat van toepassing is;<br>
+6° de uitbetaling van de subsidie;<br>
+7° de verantwoording van de subsidie;<br>
+8° het toezicht op de aanwending van de subsidie;<br>
+9° de eventuele remediëring en de maatregelen.<br>
+<br>
+De Vlaamse Regering voorziet bij de bepaling van de procedure voor de beoordeling van aanvragen voor werkingssubsidies, vermeld in hoofdstuk 4, de mogelijkheid voor de aanvrager om een toelichting te geven bij de aanvraag en de mogelijkheid om via een repliek te reageren op het voorlopig resultaat van de beoordeling.<br>
+<br>
+Bij de bepaling van de nadere regels, vermeld in het eerste lid, houdt de Vlaamse Regering rekening met de eigenheid van elk subsidie-instrument en de proportionaliteit ten opzichte van de eventuele begrenzing van het maximale subsidiebedrag.
+
+### ART 13.
+
+De administratie heeft de volgende taken:<br>
+1° ze onderzoekt voor elke aanvraag of de aanvrager voldoet aan de voorwaarden in kwestie;<br>
+2° ze organiseert de toetsing aan de beoordelingscriteria;<br>
+3° ze stelt in voorkomend geval een ontwerp van beslissing op.
+
+### ART 14.
+
+§ 1. De subsidies, vermeld in dit decreet, worden in de vorm van voorschotten beschikbaar gesteld na de ondertekening van het subsidiebesluit.<br>
+<br>
+De Vlaamse Regering bepaalt de hoogte en de wijze van uitbetaling van de voorschotten.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 wordt de subsidie volledig uitbetaald na de ondertekening van het subsidiebesluit als het subsidiebedrag niet hoger is dan een bedrag dat de Vlaamse Regering bepaalt.
+
+### ART 15.
+
+Kunstenaars, kunstwerkers en organisaties die een subsidie ontvangen, leggen daarover een verantwoording af. De administratie oefent toezicht uit op de aanwending van de subsidie die op basis van dit decreet wordt toegekend.<br>
+<br>
+Het moment waarop de verantwoording wordt ingediend en de vormvereisten waaraan deze verantwoording moet voldoen, worden bepaald door de Vlaamse Regering als onderdeel van de nadere bepalingen van de verantwoording, vermeld in artikel 12, eerste lid, 7°.<br>
+<br>
+Tijdens het toezicht controleert de administratie:<br>
+1° of de subsidieontvanger voldoet aan de subsidievereisten, vermeld in het vierde tot en met het zesde lid, als die van toepassing zijn, en de subsidievereisten, vermeld in artikel 7 en 17;<br>
+2° of de subsidie overeenkomstig artikel 11 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, gebruikt is voor het doel waarvoor ze is verleend. Er kan afgeweken worden van deze wet indien de subsidieontvanger kan motiveren dat afwijkingen van het aanvraagdossier of het geactualiseerde beleidsplan noodzakelijk waren.<br>
+<br>
+De subsidievereiste voor een kunstenaar die een beurs, een residentiebeurs of een tegemoetkoming voor een internationaal presentatiemoment ontving, is dat hij in de verantwoording toelicht op welke wijze de subsidie heeft bijgedragen tot zijn professionele artistieke ontwikkeling.<br>
+<br>
+De subsidievereisten voor de ontvanger van een projectsubsidie of werkingssubsidie zijn:<br>
+1° bij de vergoeding van medewerkers, ongeacht hun statuut, past hij de principes van fair practices toe. De Vlaamse Regering kan nadere regels bepalen over de toepassing van de principes van fair practices;<br>
+2° als de subsidieontvanger een rechtspersoon is, leeft hij de toepasselijke cao's na en voert hij een boekhouding conform de bepalingen over de jaarrekening, vermeld in het Wetboek van vennootschappen en verenigingen van 23 maart 2019.<br>
+<br>
+Bijkomend aan de subsidievereisten, vermeld in het vijfde lid, voldoet een ontvanger van een werkingssubsidie aan al de bijkomende subsidievereisten:<br>
+1° hij draagt zorg voor het eigen archief. De Vlaamse Regering kan nadere regels bepalen over de zorg voor het eigen archief;<br>
+2° hij leeft de principes van goed bestuur na. De Vlaamse Regering bepaalt nader de principes van goed bestuur;<br>
+3° hij leeft aanvullende voorwaarden na die de Vlaamse Regering kan bepalen over het minimumpercentage van eigen inkomsten en het minimumpercentage van het toegekende financieringsbudget dat gebruikt moet worden om medewerkers en kunstenaars te honoreren;<br>
+4° hij past kennisopbouw en kennisdeling toe in de werking.<br>
+<br>
+Het toezicht, vermeld in het eerste en derde lid, wordt steekproefsgewijs en risicogedreven uitgevoerd en houdt rekening met de proportionaliteit, vermeld in artikel 12, derde lid.
+
+### ART 16.
+
+Als er bij het toezicht, vermeld in artikel 15 van dit decreet, ernstige tekortkomingen worden vastgesteld, kan de Vlaamse Regering, in afwijking van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, een of meer van de volgende maatregelen nemen:<br>
+1° inhouding of terugvordering van de volledige toegekende subsidie of van een deel ervan;<br>
+2° bij werkingssubsidies, evaluatie en bijstelling of definitieve stopzetting van de toegekende werkingssubsidie;<br>
+3° bij werkingssubsidies waarvoor een beheersovereenkomst is gesloten als vermeld in artikel 75 van dit decreet, een bijsturing van het beleid. Voor die organisaties bepaalt de Vlaamse Regering de mogelijke maatregelen nader in de beheersovereenkomst.<br>
+<br>
+De maatregelen staan in een redelijke verhouding tot de vastgestelde tekortkomingen.
+
+### ART 17.
+
+Voor alle ontvangers van een subsidie op basis van dit decreet geldt als bijkomende subsidievereiste dat in alle gedrukte en digitale communicatie, bij elke mededeling, verklaring, publicatie en presentatie in het kader van de gesubsidieerde activiteit de steun van de Vlaamse Gemeenschap vermeld wordt, door de standaardlogo's en de bijbehorende tekst en baselines te gebruiken die de Vlaamse Regering vaststelt.
+
 ## HOOFDSTUK 3. Kortlopende subsidies
 
 ## Afdeling 1. Gemeenschappelijke bepalingen voor kortlopende subsidies
+
+### ART 18.
+
+Het budget voor de kortlopende subsidies vertegenwoordigt een bepaald minimumpercentage ten opzichte van het totale jaarlijkse kunstenbudget voor de subsidiëring van de instrumenten, vermeld in dit hoofdstuk en in hoofdstuk 4, afdeling 2.<br>
+<br>
+De Vlaamse Regering bepaalt het minimumpercentage, vermeld in het eerste lid.
+
+### ART 19.
+
+De Vlaamse Regering bepaalt het maximumbedrag van de volgende subsidies:<br>
+1° de beurzen, vermeld in afdeling 2;<br>
+2° de residentiebeurzen, vermeld in afdeling 4, onderafdeling 1;<br>
+3° de tegemoetkomingen voor internationale presentatiemomenten, vermeld in afdeling 4, onderafdeling 2.<br>
+<br>
+De Vlaamse Regering kan het maximumbedrag bepalen van de volgende subsidies:<br>
+1° de projectsubsidies, vermeld in afdeling 3;<br>
+2° de subsidies voor internationale presentatieprojecten, vermeld in afdeling 4, onderafdeling 3.<br>
+<br>
+De Vlaamse Regering kan het aantal beurzen, vermeld in afdeling 2, en het aantal residentiebeurzen, vermeld in afdeling 4, onderafdeling 1, dat jaarlijks wordt toegekend, bepalen.
+
+### ART 20.
+
+De Vlaamse Regering kan aan de administratie de bevoegdheid verlenen om met betrekking tot bepaalde subsidie-instrumenten de subsidiebeslissing te nemen. Ze houdt daarbij rekening met klantgerichtheid, de eigenheid van elk subsidie-instrument en de eventuele begrenzing van het maximale subsidiebedrag.
+
+### ART 21.
+
+Subsidies aan kunstenaars en kunstwerkers worden verleend en uitbetaald aan de aanvrager als natuurlijke persoon, tenzij de aanvrager voor de uitbetaling een rechtspersoon aanwijst.<br>
+<br>
+De uitbetaling aan een rechtspersoon is niet mogelijk voor de beurzen, vermeld in afdeling 2, en de residentiebeurzen, vermeld in afdeling 4, onderafdeling 1.
 
 ## Afdeling 2. Beurzen
 
 ## Onderafdeling 1. Gemeenschappelijke bepalingen voor beurzen
 
+### ART 22.
+
+De Vlaamse Regering kan een van de volgende beurzen toekennen aan een kunstenaar:<br>
+1° een beurs opkomend talent voor een looptijd van maximaal één jaar;<br>
+2° een beurs bewezen talent voor een looptijd van maximaal drie jaar.
+
+### ART 23.
+
+Een beurs wordt toegekend voor een forfaitair bedrag per jaar. De Vlaamse Regering bepaalt het forfaitaire bedrag per jaar voor elke soort beurs.
+
+### ART 24.
+
+Een kunstenaar kan maar één keer per kalenderjaar een aanvraag voor een beurs indienen.
+
 ## Onderafdeling 2. Beurs opkomend talent
+
+### ART 25.
+
+De Vlaamse Regering kan het maximale aantal keer dat een beurs opkomend talent toegekend kan worden aan een kunstenaar in de loop van zijn loopbaan, bepalen.
+
+### ART 26.
+
+Naast de subsidievoorwaarden, vermeld in artikel 7, derde lid, en artikel 8, voldoet een aanvraag voor een beurs opkomend talent aan de volgende bijkomende subsidievoorwaarden:<br>
+1° de aanvraag heeft betrekking op een subsidieperiode die van start gaat meer dan een jaar nadat de aanvrager zijn basisstudies in de kunsten heeft afgerond, of, als de aanvrager geen basisstudies in de kunsten heeft gevolgd, meer dan een jaar nadat zijn artistieke loopbaan is begonnen;<br>
+2° de aanvrager kan beschouwd worden als een opkomend talent;<br>
+3° de aanvraag wordt niet louter ingediend om een opleiding in dag- of avondonderwijs te kunnen volgen.
+
+### ART 27.
+
+§ 1. Voor een beurs opkomend talent zijn de volgende beoordelingscriteria van toepassing:<br>
+1° de kwaliteit van de motivatie, het werkplan en de begeleiding;<br>
+2° de kwaliteit en het groeipotentieel van het beginnende oeuvre.<br>
+<br>
+§ 2. Indien de bevoegde experten, vermeld in artikel 85, § 1, eerste lid, 1°, vaststellen dat een aanvraag voor een beurs opkomend talent geen opkomend talent betreft maar een bewezen talent, kunnen de experten adviseren om niet een beurs opkomend talent toe te kennen, maar een beurs bewezen talent.
 
 ## Onderafdeling 3. Beurs bewezen talent
 
+### ART 28.
+
+De aanvrager van een beurs bewezen talent kan bij de aanvraag kiezen voor een looptijd van één, twee of drie jaar.<br>
+<br>
+De Vlaamse Regering kan de totale maximale looptijd bepalen, uitgedrukt in aantal jaren, van alle beurzen bewezen talent die een kunstenaar in de loop van zijn loopbaan toegekend kan krijgen.
+
+### ART 29.
+
+Naast de algemene subsidievoorwaarden, vermeld in artikel 7, derde lid, en artikel 8, voldoet een aanvraag voor een beurs bewezen talent aan de volgende bijkomende subsidievoorwaarden:<br>
+1° de aanvrager kan beschouwd worden als een bewezen talent;<br>
+2° de aanvraag wordt niet louter ingediend om een opleiding in dag- of avondonderwijs te kunnen volgen.
+
+### ART 30.
+
+§ 1. Voor een beurs bewezen talent zijn de volgende beoordelingscriteria van toepassing:<br>
+1° de kwaliteit van de motivatie, de kwaliteit van het onderzoeksof heroriënteringstraject, de begeleiding daarbij en het werkplan;<br>
+2° de kwaliteit van het oeuvre.<br>
+<br>
+§ 2. Indien de bevoegde experten, vermeld in artikel 85, § 1, eerste lid, 1°, vaststellen dat een aanvraag voor een beurs bewezen talent geen bewezen talent betreft, maar een opkomend talent, kunnen de experten adviseren om niet een beurs bewezen talent toe te kennen, maar een beurs opkomend talent.
+
 ## Afdeling 3. Projectsubsidies
+
+### ART 31.
+
+De Vlaamse Regering kan een projectsubsidie toekennen aan een kunstenaar, een kunstwerker of een organisatie voor een looptijd van maximaal drie jaar.
+
+### ART 32.
+
+Naast de algemene subsidievoorwaarden, vermeld in artikel 7, derde lid, artikel 8 en artikel 10, voldoet een aanvraag van een projectsubsidie aan de volgende bijkomende subsidievoorwaarden:<br>
+1° voor het project wordt geen aanvraag ingediend in het kader van de toepassing van andere regelgeving binnen het beleidsveld Cultuur;<br>
+2° voor het project wordt maar één aanvraag ingediend per indiendatum in het kader van dit decreet, ongeacht wie de aanvrager is.
+
+### ART 33.
+
+§ 1. Voor een projectsubsidie zijn de volgende beoordelingscriteria van toepassing:<br>
+1° de kwaliteit van het inhoudelijke concept, waaronder de landelijke of internationale uitstraling, de kwaliteit van de eventuele samenwerkingsverbanden en de concrete uitwerking;<br>
+2° de kwaliteit van de zakelijke aanpak en de realiteitszin en redelijkheid van de begroting, met aandacht voor een correcte vergoeding van kunstenaars, de principes van fair practices en integriteit;<br>
+3° de relevantie van het initiatief voor de discipline of het kunstenlandschap;<br>
+4° de mate waarin het initiatief een of meer aandachtspunten uitvoert uit de strategische visienota, vermeld in artikel 5, § 2, 5°.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt nader het beoordelingscriterium, vermeld in paragraaf 1, 1°, en specificeert dat voor elke functie in de vorm van functiespecifieke subcriteria.<br>
+<br>
+Bij de indiening van een aanvraag voor een projectsubsidie wijst de aanvrager de functie of functies van het project aan. De aangewezen functie of functies bepaalt of bepalen welke functiespecifieke subcriteria, vermeld in het eerste lid, van toepassing zijn voor de beoordeling van de aanvraag.<br>
+<br>
+§ 3. De Vlaamse Regering kan nader bepalen op welke wijze de aanvrager de principes van fair practices en integriteit kan naleven, opgenomen in het beoordelingscriterium, vermeld in paragraaf 1, 2°.
 
 ## Afdeling 4. Internationale subsidies
 
 ## Onderafdeling 1. Residentiebeurzen
 
+### ART 34.
+
+De Vlaamse Regering kan een residentiebeurs toekennen aan een kunstenaar voor een residentie in een binnen- of buitenlandse residentieplek.<br>
+<br>
+In afwijking van artikel 8 komt de creatieve activiteit binnen het werkterrein van Literatuur Vlaanderen wel in aanmerking voor de aanvraag en toekenning van een residentiebeurs, indien de residentieplek daarvoor geschikt is. De Vlaamse Regering bepaalt de residentieplekken die hiervoor in aanmerking komen.
+
+### ART 35.
+
+De Vlaamse Regering kan het maximale aantal kunstenaars per binnen- of buitenlandse residentieplek dat een residentiebeurs kan krijgen, bepalen.<br>
+<br>
+De Vlaamse Regering bepaalt het maximale aantal keer dat een kunstenaar in de loop van zijn loopbaan een residentiebeurs toegekend kan krijgen.
+
+### ART 36.
+
+De Vlaamse Regering kan met residentieplekken een samenwerkingsovereenkomst sluiten.<br>
+<br>
+De Vlaamse Regering bepaalt de voorwaarden en de inhoud van de samenwerkingsovereenkomst.
+
+### ART 37.
+
+Naast de algemene subsidievoorwaarden, vermeld in artikel 7, derde lid, en artikel 8, voldoet een aanvraag voor een residentiebeurs aan de volgende bijkomende subsidievoorwaarden:<br>
+1° de door de aanvrager gekozen residentieplek beschikt over rechtspersoonlijkheid;<br>
+2° de door de aanvrager gekozen residentieplek biedt residenties aan;<br>
+3° indien de gekozen residentieplek gevestigd is in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, is het aanbieden van residenties een structureel uitgebouwd onderdeel van haar werking.
+
+### ART 38.
+
+Voor de residentiebeurs zijn de volgende beoordelingscriteria van toepassing:<br>
+1° de kwaliteit van het oeuvre van de kunstenaar;<br>
+2° de meerwaarde van de residentie voor de praktijk van de kunstenaar, met specifieke aandacht voor de kansen op internationale netwerking.<br>
+<br>
+Als een organisatie waarmee de Vlaamse Regering geen samenwerkingsovereenkomst heeft gesloten als vermeld in artikel 36, de residentie aanbiedt, zijn ook de volgende beoordelingscriteria van toepassing:<br>
+1° de kwaliteit en internationale uitstraling van de residentieplek;<br>
+2° de kwaliteit van de werkcontext en de omkadering die de residentieplek aanbiedt.
+
+### ART 39.
+
+De Vlaamse Regering kan bepalen welke kosten in aanmerking komen voor een residentiebeurs.
+
+### ART 40.
+
+In afwijking van artikel 85, § 2, derde lid, kan een aangewezen residentieplek waarmee de Vlaamse Regering een samenwerkingsovereenkomst heeft gesloten als vermeld in artikel 36, optreden als expert om een ontvankelijke aanvraag voor een residentiebeurs te beoordelen.
+
 ## Onderafdeling 2. Tegemoetkomingen voor internationale presentatiemomenten
 
+### ART 41.
+
+De Vlaamse Regering kan een subsidie toekennen als tegemoetkoming in de kosten, verbonden aan een internationaal presentatiemoment.<br>
+<br>
+De Vlaamse Regering kan bepalen welke kosten in aanmerking komen voor de tegemoetkoming, vermeld in het eerste lid.
+
+### ART 42.
+
+Naast de algemene subsidievoorwaarden, vermeld in artikel 7, derde lid, artikel 8 en artikel 10, voldoet een aanvraag voor een tegemoetkoming voor internationale presentatiemomenten aan de volgende bijkomende subsidievoorwaarden:<br>
+1° de aanvraag heeft betrekking op minstens een publiek toegankelijk presentatiemoment in het buitenland van een actor uit de kunstensector;<br>
+2° de actor uit de kunstensector betreft een kunstenaar of een kunstenorganisatie die in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad gevestigd is.
+
+### ART 43.
+
+Voor een tegemoetkoming als vermeld in artikel 41, zijn de volgende beoordelingscriteria van toepassing:<br>
+1° de kwaliteit van het internationale presentatiemoment;<br>
+2° de kwaliteit van het werk van de betrokken kunstenaar of kunstenaars;<br>
+3° de redelijkheid van de ingebrachte kosten.
+
 ## Onderafdeling 3. Internationale presentatieprojecten
+
+### ART 44.
+
+De Vlaamse Regering kan voor de presentatie van kunstproducties in het buitenland een subsidie internationaal presentatieproject toekennen voor een looptijd van maximaal één jaar.<br>
+<br>
+De Vlaamse Regering kan bepalen welke kosten in aanmerking komen voor de subsidie, vermeld in het eerste lid.
+
+### ART 45.
+
+Per kunstproductie kan maar één keer een subsidie voor een internationaal presentatieproject worden toegekend. De aanvraag kan wel verschillende presentaties van die kunstproductie omvatten, al dan niet op verschillende buitenlandse presentatieplekken.
+
+### ART 46.
+
+Naast de algemene subsidievoorwaarden, vermeld in artikel 7, derde lid, artikel 8 en artikel 10, voldoet een aanvraag voor een subsidie voor een internationaal presentatieproject aan de volgende bijkomende subsidievoorwaarden:<br>
+1° de aanvraag heeft betrekking op minstens de presentatie van een kunstproductie aan een publiek in het buitenland;<br>
+2° de aanvraag heeft betrekking op het werk van een kunstenaar of het werk van een kunstenorganisatie die in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad gevestigd is.
+
+### ART 47.
+
+Voor een subsidie voor een internationaal presentatieproject zijn de volgende beoordelingscriteria van toepassing:<br>
+1° de kwaliteit van het te presenteren werk;<br>
+2° de kwaliteit en de uitstraling van de presentatieplek;<br>
+3° de realiteitszin en de redelijkheid van de begroting;<br>
+4° de relevantie van het initiatief voor het kunstenlandschap;<br>
+5° de mate waarin het project het internationale cultuurbeleid in prioritaire regio's en landen ondersteunt, vermeld in de beleidsnota Cultuur of in de strategische visienota, vermeld in artikel 5.<br>
+<br>
+De Vlaamse Regering bepaalt de prioritaire regio's en landen in de beleidsnota Cultuur of in de strategische visienota na overleg met de kunstensector. De Vlaamse Regering bepaalt nader met welke actoren en op welke wijze het voormelde overleg wordt gehouden.
 
 ## HOOFDSTUK 4. Werkingssubsidies
 
@@ -403,7 +728,86 @@ De Vlaamse Regering kan aan vzw Kunst in Huis aanvullende taken toewijzen.
 
 ## Afdeling 5. Beheersovereenkomsten
 
+### ART 75.
+
+Na de beslissing over het bedrag van de werkingssubsidie, vermeld in artikel 51, sluit de Vlaamse Regering een beheersovereenkomst voor een periode van vijf jaar met:<br>
+1° elke kunstenorganisatie die een werkingssubsidie toegekend kreeg voor twee beleidsperiodes, vermeld in artikel 50, tweede lid;<br>
+2° elke kunstinstelling, vermeld in afdeling 3;<br>
+3° elke organisatie met specifieke kerntaken, vermeld in afdeling 4.<br>
+<br>
+In de beheersovereenkomst worden concrete afspraken gemaakt over:<br>
+1° de subsidiëring van de werking;<br>
+2° de rollen, opdrachten of kerntaken;<br>
+3° de samenwerking, naargelang de inhoudelijke noodzaak, met andere organisaties binnen of buiten het kunstenveld;<br>
+4° de modaliteiten voor de werking en de evaluatie;<br>
+5° de mandaatfuncties;<br>
+6° de modaliteiten voor het toezicht en de maatregelen;<br>
+7° de eventuele specifieke opdrachten;<br>
+8° de eventuele verwerking en mededeling van persoonsgegevens.<br>
+<br>
+De beheersovereenkomsten gaan in bij de start van een beleidsperiode.<br>
+<br>
+Als de Vlaamse Regering niet tijdig een beheersovereenkomst sluit, blijft de lopende beheersovereenkomst van kracht.<br>
+<br>
+Als de Vlaamse Regering niet tijdig een beheersovereenkomst sluit en er geen lopende beheersovereenkomst is, wordt toezicht gehouden op de werking van de organisatie in kwestie op basis van het geactualiseerde beleidsplan, vermeld in artikel 52, § 2 en § 3.
+
+### ART 76.
+
+§ 1. Minstens een keer per vijf jaar evalueert de administratie en een ad-hoccommissie van experten als vermeld in artikel 85, § 3, eerste lid, 3°, de werking en de beheersovereenkomst van elke kunstenorganisatie die een werkingssubsidie toegekend kreeg voor twee beleidsperiodes, elke kunstinstelling en elke organisatie met specifieke kerntaken. Die evaluatie heeft de volgende doelstellingen:<br>
+1° in geval van een kunstinstelling of een kunstenorganisatie met een werkingssubsidie voor twee beleidsperiodes: nagaan of de kunstenorganisatie nog voldoet aan de van toepassing zijnde voorwaarden en bijkomende beoordelingscriteria, vermeld in artikel 58, 59 of 63;<br>
+2° in geval van een organisatie met specifieke kerntaken: nagaan op welke manier de organisatie haar kerntaken realiseert;<br>
+3° nagaan op welke manier de beheersovereenkomst wordt uitgevoerd.<br>
+<br>
+De evaluatie wordt uitgevoerd in het derde of vierde jaar van de beleidsperiode.<br>
+<br>
+De betrokken organisaties verwerken de conclusies van de evaluatie in het beleidsplan en de begroting voor de volgende beleidsperiode, vermeld in artikel 50, vierde lid.<br>
+<br>
+§ 2. Ten gevolge van de evaluatie van de beheersovereenkomst en de daaropvolgende beoordeling van het ingediende beleidsplan en de begroting kan de Vlaamse Regering het bedrag van de werkingssubsidie bijstellen. De partijen sluiten vervolgens een aangepaste beheersovereenkomst in samenhang met de actualisering van het beleidsplan en de begroting, vermeld in artikel 52, § 2, rekening houdend met:<br>
+1° de evaluatie van de beheersovereenkomst, vermeld in paragraaf 1;<br>
+2° de beoordeling van het beleidsplan en de begroting, vermeld in artikel 49;<br>
+3° de strategische visienota, vermeld in artikel 5.<br>
+<br>
+§ 3. Als uit de evaluatie blijkt dat niet meer voldaan is aan de voorwaarden, vermeld in paragraaf 1, eerste lid, 1°, kan de Vlaamse Regering een of meerdere maatregelen opleggen, vermeld in artikel 16.
+
 ## HOOFDSTUK 5. Collectie Vlaamse Gemeenschap
+
+### ART 77.
+
+Om een kwaliteitsvolle en representatieve collectie van hedendaagse kunst van de Vlaamse Gemeenschap uit te bouwen, kan de Vlaamse Regering kunstwerken aankopen.<br>
+<br>
+De administratie stelt de aangekochte kunstwerken digitaal beschikbaar en kan de kunstwerken presenteren in:<br>
+1° musea;<br>
+2° tijdelijke tentoonstellingen;<br>
+3° publiek toegankelijke instellingen van de Vlaamse overheid.
+
+### ART 78.
+
+Een kunstwerk kan worden aangekocht als het voldoet aan al de volgende voorwaarden:<br>
+1° het is gecreëerd door een op het ogenblik van het sluiten van de aankoop levende professionele kunstenaar;<br>
+2° het is gecreëerd door een kunstenaar die betrokken is bij activiteiten in het kader van kunst binnen de Vlaamse Gemeenschap.
+
+### ART 79.
+
+Een commissie van experten als vermeld in artikel 85, § 3, eerste lid, 4°, legt, uiterlijk zes maanden na haar aanstelling, een visieplan voor de duur van haar mandaat ter goedkeuring voor aan de minister, en kadert al haar aankoopvoorstellen in dit visieplan.<br>
+<br>
+Deze commissie van experten selecteert minstens een keer per jaar binnen het beschikbare budget kunstwerken die in aanmerking komen voor aankoop en houdt daarbij rekening met de volgende beoordelingscriteria:<br>
+1° de kwaliteit van het kunstwerk;<br>
+2° het toonaangevende karakter, het potentiële belang en de uitstraling van het oeuvre van de kunstenaar binnen de landelijke en internationale context van de hedendaagse beeldende kunst;<br>
+3° de plaats en het belang van het kunstwerk binnen het oeuvre van de kunstenaar;<br>
+4° de vraagprijs van het kunstwerk;<br>
+5° als dat van toepassing is, de mate waarin het kunstwerk een lacune invult in de collectie van de Vlaamse Gemeenschap of van de musea, die op basis van het Cultureelerfgoeddecreet van 24 februari 2017 ingedeeld zijn bij het landelijke niveau of aangeduid zijn als cultureelerfgoedinstelling.<br>
+<br>
+De administratie verzorgt het secretariaat en toetst de selectie aan het beschikbare budget.<br>
+<br>
+De administratie bezorgt minstens een keer per jaar een gemotiveerd aankoopvoorstel aan de Vlaamse Regering op basis van de selectie, vermeld in het tweede lid.
+
+### ART 80.
+
+De Vlaamse Regering beslist over een aankoop op basis van het gemotiveerd aankoopvoorstel, vermeld in artikel 79, vierde lid.
+
+### ART 81.
+
+De Vlaamse Regering bepaalt nader de modaliteiten van de aankoop in een overeenkomst met de kunstenaar of met de vertegenwoordiger die hij gekozen heeft, met inbegrip van de auteursrechtelijke prerogatieven voor het recht en de toelating tot grafische reproductie, en de digitale beschikbaarstelling, vermeld in artikel 77, tweede lid.
 
 ## HOOFDSTUK 6. Organisatie van de beoordeling
 
@@ -470,12 +874,125 @@ In een ad-hoccommissie van experten kunnen ook experten buiten de pool worden aa
 
 ## Afdeling 4. Landschapscommissie
 
+### ART 86.
+
+§ 1. De Vlaamse Regering richt een keer per legislatuur een Landschapscommissie op met het oog op integrale landschapszorg bij de beoordeling van werkingssubsidies, vermeld in hoofdstuk 4.<br>
+<br>
+De Landschapscommissie is samengesteld uit experten die binnen en buiten de pool kunnen worden aangesteld, om kennis over de beoordelingsmethodiek en de disciplines en ook kennis over het bredere kunstenveld te waarborgen.<br>
+<br>
+De Landschapscommissie zorgt voor evenwicht en samenhang over de verschillende disciplines heen door een bijkomend advies op te stellen over:<br>
+1° de toekenning van werkingssubsidies aan de kunstenorganisaties, vermeld in hoofdstuk 4, afdeling 2, met inbegrip van de toekenning van werkingssubsidies voor twee beleidsperiodes, vermeld in artikel 50, tweede lid;<br>
+2° de eventuele functies, rollen, subdisciplines of aandachtspunten uit de visienota, vermeld in artikel 5, § 2, 5°, die niet of onvoldoende worden opgenomen door de kunstenorganisaties die worden voorgesteld voor subsidiëring. De Vlaamse Regering kan deze elementen meenemen in de onderhandeling met de organisaties, vermeld in artikel 75, eerste lid, in het kader van het afsluiten van de beheersovereenkomst.<br>
+<br>
+§ 2. De Landschapscommissie neemt haar taak op na afronding van de beoordeling door de beoordelingscommissies, vermeld in afdeling 3.<br>
+<br>
+De administratie bezorgt de definitieve adviezen van de beoordelingscommissies aan de Landschapscommissie.<br>
+<br>
+§ 3. De Landschapscommissie beoordeelt alleen de aanvragen met een positief advies van de beoordelingscommissies die niet geselecteerd zijn door de beoordelingscommissies binnen het beschikbare budget per discipline, vermeld in artikel 85, § 1, vierde lid.<br>
+<br>
+De Landschapscommissie beoordeelt de aanvragen, vermeld in het eerste lid, aan de hand van de beoordelingscriteria, vermeld in artikel 56, § 1, 3° en 4°, op een disciplineoverschrijdend niveau.<br>
+<br>
+Voor de beoordeling, vermeld in het eerste lid, deelt de administratie aan de Landschapscommissie het beschikbare budget mee voor dit bijkomende advies. Dat budget vertegenwoordigt een percentage van het beschikbare budget voor de beoordeling en toekenning van alle werkingssubsidies voor kunstenorganisaties, vermeld in hoofdstuk 4, afdeling 2.<br>
+<br>
+De Vlaamse Regering bepaalt het percentage, vermeld in het derde lid.<br>
+<br>
+§ 4. In het bijkomende advies over de aanvragen van kunstenorganisaties voor werkingssubsidies voor twee beleidsperiodes, vermeld in paragraaf 1, derde lid, 1°, houdt de Landschapscommissie rekening met de volgende afwegingen:<br>
+1° een evenwichtige verdeling over disciplines, in relatie tot de verhoudingen in het kunstenveld;<br>
+2° een evenwichtige verdeling over functies;<br>
+3° een regionale spreiding.
+
 ## HOOFDSTUK 7. Bepalingen over de gegevensverwerking
+
+### ART 87.
+
+De administratie treedt op als de verwerkingsverantwoordelijke van persoonsgegevens, vermeld in artikel 4, 7), van de Algemene Verordening Gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van dit decreet, om de doelstellingen vermeld in artikel 4 van dit decreet te kunnen bereiken.<br>
+<br>
+Kunstenorganisaties, kunstinstellingen en organisaties met specifieke kerntaken mogen persoonsgegevens verwerken in het kader van het indienen van hun aanvraag bij de administratie en de uitvoering van hun taken zoals bepaald in het kader van dit decreet. Zij treden in dat geval op als verwerkingsverantwoordelijke van die persoonsgegevens.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van dit decreet heeft betrekking op volgende categorieën van betrokkenen:<br>
+1° kunstenaars, zoals gedefinieerd in artikel 3, 9° ;<br>
+2° kunstwerkers, zoals gedefinieerd in artikel 3, 14° ;<br>
+3° medewerkers;<br>
+4° leden van commissies en experten;<br>
+5° contactpersonen bij de organisaties;<br>
+6° personen die vermeld worden in de aanvragen en de bijlagen ervan.<br>
+<br>
+De verwerking van persoonsgegevens in het kader van dit decreet heeft betrekking op volgende categorieën van persoonsgegevens:<br>
+1° identificatiegegevens, rijksregisternummer of identificatienummer van de sociale zekerheid en andere identificatiegegevens;<br>
+2° financiële gegevens;<br>
+3° opleidingsgegevens;<br>
+4° loonen tewerkstellingsgegevens;<br>
+5° gegevens over artistieke output en expertise.
+
+### ART 88.
+
+De administratie vraagt in eerste instantie de persoonsgegevens en andere gegevens op bij de authentieke gegevensbronnen, vermeld in artikel 5 van het besluit van de Vlaamse Regering van 15 mei 2009 houdende de uitvoering van artikel III.66, III.67 en III.68 van het Bestuursdecreet van 7 december 2018. Bij gebrek daaraan kan de administratie die gegevens verkrijgen bij de aanvrager.<br>
+<br>
+De administratie wisselt in het kader van de uitvoering van dit decreet minstens de volgende persoonsgegevens uit met de volgende instanties:<br>
+1° de tewerkstellingsgegevens van de aanvrager met de Rijksdienst voor Sociale Zekerheid;<br>
+2° het rijksregisternummer, de identificatiegegevens van de aanvragers met het Rijksregister van de natuurlijke personen.<br>
+<br>
+De uitwisselingen van persoonsgegevens vinden plaats met tussenkomst van de bevoegde dienstenintegratoren, vermeld in artikel 3 van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator.
+
+### ART 89.
+
+De maximale bewaringstermijnen voor persoonsgegevens die op basis van dit decreet worden verwerkt, conform artikel 5, lid 1, e), van de Algemene Verordening Gegevensbescherming, worden vastgelegd in beheersregels, conform artikel III.81, § 2, van het Bestuursdecreet van 7 december 2018. Bij het bepalen van deze bewaartermijnen dient rekening te worden gehouden met de cultuurhistorische waarde van de dossiers.
+
+### ART 90.
+
+De administratie kan de gegevens van begunstigden die een beurs, projectsubsidies, internationale subsidies of werkingssubsidie hebben ontvangen, bekendmaken.<br>
+<br>
+Bedoelde bekendmaking omvat de volgende informatie:<br>
+1° de voornaam en de familienaam voor de begunstigden die een natuurlijke persoon zijn;<br>
+2° de volledige officiële naam zoals deze is ingeschreven in de authentieke bron zoals gedefinieerd in artikel 86, voor de begunstigden die een rechtspersoon zijn;<br>
+3° de volledige naam van de vereniging zoals deze is ingeschreven in de authentieke bron zoals gedefinieerd in artikel 86 of anderszins officieel is erkend, voor de begunstigden die een vereniging van natuurlijke of rechtspersonen zonder eigen rechtspersoonlijkheid zijn;<br>
+4° de gemeente waar de begunstigde woont of is ingeschreven in de authentieke bron zoals gedefinieerd in artikel 86, en, indien voorhanden, de postcode of het deel daarvan dat de gemeente identificeert;<br>
+5° het subsidie-instrument zoals bedoeld in artikel 3, 18° ;<br>
+6° de som van de bedragen die elke begunstigde voor het subsidie-instrument zoals bedoeld in artikel 3, 18°, heeft ontvangen.
+
+### ART 91.
+
+De Vlaamse Regering kan de nadere regels bepalen voor de verwerking van de persoonsgegevens, de beveiliging van deze gegevens, en de passende waarborgen voor de rechten en vrijheden van de betrokkenen.
 
 ## HOOFDSTUK 8. Slotbepalingen
 
 ## Afdeling 1. Opheffingsbepaling
 
+### ART 92.
+
+Het Kunstendecreet van 13 december 2013, het laatst gewijzigd bij het decreet van 29 maart 2019, wordt opgeheven.
+
 ## Afdeling 2. Overgangsbepalingen
 
+### ART 93.
+
+De strategische visienota die opgesteld is op basis van het Kunstendecreet van 13 december 2013 en die ingediend is bij het Vlaams Parlement op 30 maart 2020 en ingeschreven als parlementair document 258 (2019-2020) - Nr. 1, blijft geldig tot de goedkeuring van de volgende strategische visienota, vermeld in artikel 5.
+
+### ART 94.
+
+De Adviescommissie Kunsten en de pool van beoordelaars die aangesteld zijn op basis van het Kunstendecreet van 2013, blijven aangesteld voor de uitvoering van hun opdracht, tot er een nieuwe aanstelling plaatsvindt van de Adviescommissie Kunsten of pool van experten op basis van dit decreet.
+
+### ART 95.
+
+De werkingssubsidies en beheersovereenkomsten die op basis van het Kunstendecreet van 13 december 2013, zoals van kracht tot 31 december 2021, voor de periode 2017-2021 toegekend en gesloten zijn, worden verlengd tot en met 31 december 2022.
+
+### ART 96.
+
+De eerste vijfjarige beleidsperiode voor werkingssubsidies, vermeld in artikel 50, eerste lid, begint op 1 januari 2023.
+
+### ART 97.
+
+In artikel 13 van het decreet van 7 mei 2004 houdende aanvullende subsidies voor tewerkstelling in de culturele sector, vervangen bij het decreet van 29 maart 2019, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt het jaartal "2022" vervangen door het jaartal "2023";<br>
+2° in het eerste lid worden de woorden "Kunstendecreet van 13 december 2013" vervangen door de zinsnede "Kunstendecreet van 23 april 2021";<br>
+3° in het tweede lid wordt de zinsnede "2019, 2020 en 2021" vervangen door de zinsnede "2019, 2020, 2021 en 2022".
+
 ## Afdeling 3. Inwerkingtreding
+
+### ART 98.
+
+Dit decreet treedt in werking op 1 januari 2022, met uitzondering van artikel 3, artikel 7 tot en met 9, artikel 10, § 4, artikel 48 tot en met 74 en artikel 82 tot en met 85, die in werking treden op 1 november 2021.<br>
+<br>
+Een kunstenorganisatie die op 15 september 2021 een aanvraag indient voor een projectsubsidie in het kader van het Kunstendecreet van 13 december 2013 en op 1 december 2021 een aanvraag indient voor een werkingssubsidie voor de beleidsperiode 2023-2027 in het kader van het Kunstendecreet van 23 april 2021, beperkt de aanvraag van de projectsubsidie tot een looptijd van maximaal één jaar.<br>
+<br>
+Een kunstenorganisatie met een toegekende werkingssubsidie voor de periode 2017-2022, kan geen aanvraag indienen voor projectsubsidies, in te dienen uiterlijk op 15 september 2021, vermeld in het tweede lid.
