@@ -2,16 +2,16 @@
   "codex_id": 1035459,
   "title": "Besluit van de Vlaamse Regering van 2021-02-26 over de loopbaanonderbreking voor mantelzorg, over de omzetting van lestijden in uren kinderverzorging, over de erkenning van beroepskwalificaties voor gereglementeerde beroepen in het onderwijs in het kader van de Europese Richtlijn 2005/36 en over een meelooptraject voor directeur in het basisonderwijs, deeltijds kunstonderwijs, secundair onderwijs, volwassenenonderwijs en de centra voor leerlingenbegeleiding",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035459/VolledigDocument?datum=2021-03-01",
-  "source_sha256": "ade6cb41e3c7e13eb7a8a4d09d95eab4932b2efa575236e668b124d9e94cc5f7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035459/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "49d672a703bd1813c9e0818cc7accf6fd4767035ba21b737e9b5f00ef5b8e683",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035459&param=informatie",
-  "as_of": "2021-03-01",
+  "as_of": "2022-01-01",
   "made": "2021-02-26",
   "gazette": "2021-04-19",
   "numac": 2021041029,
   "document_start": "2020-09-01",
   "document_end": null,
-  "in_force": "2021-03-01",
+  "in_force": "2022-01-01",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2021-03-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
 }

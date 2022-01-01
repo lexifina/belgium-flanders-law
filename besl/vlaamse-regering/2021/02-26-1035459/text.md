@@ -171,14 +171,21 @@ De externe persoon moet voor deze tijdelijke aanstelling voldoen aan de volgende
 
 ### ART 15.
 
-§ 1. Per kalenderjaar kunnen maximum volgend aantal meelooptrajecten worden gefinancierd of gesubsidieerd:<br>
-- in het basisonderwijs maximum 304 meelooptrajecten;<br>
-- in secundair onderwijs maximum 166 meelooptrajecten;<br>
-- in het deeltijds kunstonderwijs maximum 11 meelooptrajecten;<br>
-- in het volwassenenonderwijs (CVO + CBE) maximum 9 meelooptrajecten;<br>
-- in de CLB maximum 9 meelooptrajecten.<br>
+§ 1. Tijdens het kalenderjaar 2021 kunnen maximaal het volgende aantal meelooptrajecten worden gefinancierd of gesubsidieerd:<br>
+1° in het basisonderwijs maximaal 304 meelooptrajecten;<br>
+2° in het secundair onderwijs maximaal 166 meelooptrajecten;<br>
+3° in het deeltijds kunstonderwijs maximaal 11 meelooptrajecten;<br>
+4° in het volwassenenonderwijs (CVO + CBE) maximaal 9 meelooptrajecten;<br>
+5° in de CLB maximaal 9 meelooptrajecten.<br>
 <br>
-Een aangevat meelooptraject wordt, ongeacht de duurtijd van het traject, steeds beschouwd als een aangewend meelooptraject.<br>
+Tijdens het kalenderjaar 2022 kunnen maximaal het volgende aantal meelooptrajecten worden gefinancierd of gesubsidieerd:<br>
+1° in het basisonderwijs maximaal 195 meelooptrajecten;<br>
+2° in het secundair onderwijs maximaal 106 meelooptrajecten;<br>
+3° in het deeltijds kunstonderwijs maximaal 9 meelooptrajecten;<br>
+4° in het volwassenenonderwijs (CVO + CBE) maximaal 7 meelooptrajecten;<br>
+5° in de CLB maximaal 7 meelooptrajecten.<br>
+<br>
+Een aangevat meelooptraject wordt, ongeacht de duurtijd van het traject, altijd als een aangewend meelooptraject beschouwd.<br>
 <br>
 § 2. De inrichtende macht of het centrumbestuur, vermeld in artikel 10, dient uiterlijk een maand voor de startdatum ervan, een aanvraag tot financiering of subsidiering van een meelooptraject in:<br>
 - bij het Agentschap voor Onderwijsdiensten als het gaat om een meelooptraject in een instelling van het basisonderwijs, deeltijds kunstonderwijs, secundair onderwijs of in een centrum voor leerlingenbegeleiding;<br>
