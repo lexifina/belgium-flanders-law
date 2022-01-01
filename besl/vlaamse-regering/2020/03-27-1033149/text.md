@@ -152,7 +152,7 @@ De leden van de Vlaamse Regering zijn, ieder wat hem of haar betreft, belast met
 <p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">5°&nbsp;de Vlaamse minister van Justitie en Handhaving, Omgeving, Energie en Toerisme is, bevoegd voor:</span></span></p>
 
 <ol style="list-style-type:lower-alpha">
-	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de projectleider van het N-project Coördinatie Vlaams Handhavingsbeleid, die personeelslid is van het </span></span></span>Departement Kanselarij en Buitenlandse Zaken<span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">;</span></span></span></li>
+	<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de projectleider van het N-project Coördinatie Vlaams Handhavingsbeleid</span></span></span><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">;</span></span></span></li>
 	<li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">de personeelsleden van het Departement Omgeving, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van:</span></span></span>
 	<ol>
 		<li><span style="font-size:11pt"><span style="font-family:Verdana,sans-serif"><span style="font-size:10.0pt">het dierenwelzijn;</span></span></span></li>
