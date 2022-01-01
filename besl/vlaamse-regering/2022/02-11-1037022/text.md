@@ -40,6 +40,10 @@ In artikel 30 van bijlage 2 bij het besluit van de Vlaamse Regering van 28 juni 
 <br>
 "De dienst stelt per 110 gebruikers, aan wie hij gezinszorg door verzorgend personeel biedt, één voltijdsequivalent begeleidend personeel tewerk. Per 55 extra gebruikers aan wie hij gezinszorg aanbiedt, stelt hij daarbovenop één halftijdsequivalent begeleidend personeel tewerk.".
 
+### ART 3.
+
+In artikel 30, eerste lid, van bijlage 2 bij hetzelfde besluit, vervangen bij dit besluit, wordt het getal "110" vervangen door het getal "105" en wordt het getal "55" vervangen door het getal "53".
+
 ### ART 4.
 
 In artikel 52 van bijlage 2 bij hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
@@ -49,6 +53,10 @@ In artikel 52 van bijlage 2 bij hetzelfde besluit worden de volgende wijzigingen
 "Het subsidiebedrag, vermeld in het eerste lid, 4°, wordt verhoogd met 1279 euro om de maatregel administratieve optimalisatie uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025 uit te voeren.";<br>
 3° in het bestaande vijfde lid, dat het zesde lid wordt, worden de woorden "het derde en het vierde lid" vervangen door de woorden "het vierde en het vijfde lid".
 
+### ART 5.
+
+In artikel 52, eerste lid, 2°, van bijlage 2 bij hetzelfde besluit, vervangen bij dit besluit, wordt het bedrag "44.188 euro" vervangen door het bedrag "45.081 euro" en wordt het getal "110" vervangen door het getal "105".
+
 ### ART 6.
 
 In artikel 53 van bijlage 2 bij hetzelfde besluit wordt paragraaf 5 vervangen door wat volgt:<br>
@@ -56,6 +64,10 @@ In artikel 53 van bijlage 2 bij hetzelfde besluit wordt paragraaf 5 vervangen do
 " § 5. De verhogingen, vermeld in paragraaf 3, worden begrensd tot 4,87% van het toegekende urencontingent.<br>
 <br>
 Binnen de beschikbare begrotingskredieten kunnen de individuele diensten die het percentage, vermeld in het eerste lid, overschrijden, de verhogingen, vermeld in paragraaf 3, ontvangen voor de onregelmatige prestaties die het percentage, vermeld in het eerste lid, overschrijden, op voorwaarde dat die grens op sectorniveau niet wordt overschreden. De beschikbare middelen worden verdeeld over de diensten in kwestie in verhouding tot de onregelmatige prestaties boven het percentage, vermeld in het eerste lid.".
+
+### ART 7.
+
+In artikel 53, § 5, eerste lid, van bijlage 2 bij hetzelfde besluit, vervangen bij dit besluit, wordt het percentage "4,87%" vervangen door het percentage "5,2%".
 
 ### ART 8.
 
@@ -75,6 +87,10 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, § 3,
 
 In artikel 54, § 1, van bijlage 2 bij hetzelfde besluit wordt punt 1° vervangen door wat volgt:<br>
 "1° voor het begeleidend personeel: x/110 van het subsidiebedrag, vermeld in artikel 52, eerste lid, 2°, van deze bijlage;".
+
+### ART 10.
+
+In artikel 54, § 1, 1°, van bijlage 2 bij hetzelfde besluit, vervangen bij dit besluit, wordt de zinsnede "x/110" vervangen door de zinsnede "x/105".
 
 ### ART 11.
 
@@ -140,6 +156,10 @@ Artikel 65 van bijlage 2 bij hetzelfde besluit wordt vervangen door wat volgt:<b
 <br>
 "Art. 65. Het aantal uren bijscholing dat in aanmerking komt voor subsidiëring, wordt per dienst begrensd tot 2,33% van het toegekende urencontingent. Dat urencontingent bijscholing komt boven op het toegekende urencontingent.".
 
+### ART 18.
+
+In artikel 65 van bijlage 2 bij hetzelfde besluit, vervangen bij dit besluit, wordt het percentage "2,33%" vervangen door het percentage "2,5%".
+
 ### ART 19.
 
 In artikel 69, eerste lid, van bijlage 2 bij hetzelfde besluit worden de woorden "eerste lid" vervangen door de woorden "eerste en derde lid".
@@ -176,6 +196,12 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, § 3,
 In artikel 79 van bijlage 2 bij hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
 1° in paragraaf 1, 1°, en paragraaf 2, 1°, wordt het getal "1450" vervangen door het getal "1445";<br>
 2° in paragraaf 1, 2°, en paragraaf 2, 2°, wordt het getal "1330" vervangen door het getal "1325".
+
+### ART 24.
+
+In artikel 79 van bijlage 2 bij hetzelfde besluit, gewijzigd bij dit besluit, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, 1°, en paragraaf 2, 1°, wordt het getal "1445" vervangen door het getal "1442";<br>
+2° in paragraaf 1, 2°, en paragraaf 2, 2°, wordt het getal "1325" vervangen door het getal "1322".
 
 ### ART 25.
 
