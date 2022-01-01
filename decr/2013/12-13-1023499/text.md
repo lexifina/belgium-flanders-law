@@ -282,15 +282,16 @@ Eenheden boven het tiende geven recht op een verhoging van de vermindering met 8
 1° 20 % van de onroerende voorheffing gedurende tien jaar voor woningen waarvoor de aanvraag van een stedenbouwkundige vergunning is ingediend vóór 1 januari 2013 en die op 1 januari van het aanslagjaar een E-peil hebben van ten hoogste E60;<br>
 2° 20 % van de onroerende voorheffing gedurende tien jaar voor andere gebouwde onroerende goederen dan woningen waarvoor de aanvraag van een stedenbouwkundige vergunning is ingediend vóór 1 januari 2013 en die op 1 januari van het aanslagjaar een E-peil hebben van ten hoogste E70;<br>
 3° 40 % van de onroerende voorheffing gedurende tien jaar voor gebouwde onroerende goederen waarvoor de aanvraag van een stedenbouwkundige vergunning is ingediend vóór 1 januari 2013 en die op 1 januari van het aanslagjaar een E-peil hebben van ten hoogste E40;<br>
-4° 50% van de onroerende voorheffing gedurende vijf jaar voor gebouwde onroerende goederen waarvoor de aanvraag van een stedenbouwkundige vergunning na 31 december 2012 is ingediend en die op 1 januari van het aanslagjaar ten hoogste een E-peil hebben volgens de onderstaande tabel:<br>
-&nbsp;</p>
+4° 50% van de onroerende voorheffing gedurende vijf jaar voor gebouwde onroerende goederen waarvoor de aanvraag van een stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige handelingen na 31 december 2012 is ingediend en die op 1 januari van het aanslagjaar ten hoogste een E-peil hebben als vermeld in de volgende tabel:</p>
 
 <table border="1">
 	<tbody>
 		<tr>
-			<td>datum aanvraag stedenbouwkundige vergunning</td>
-			<td>E-peil nieuwbouw</td>
-			<td>E-peil ingrijpende energetische renovatie</td>
+			<td>datum aanvraag stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige handelingen</td>
+			<td>E-peil<br>
+			nieuwbouw</td>
+			<td>E-peil ingrijpende<br>
+			energetische renovatie</td>
 		</tr>
 		<tr>
 			<td>vanaf 1 januari 2013 tot en met 31 december 2013</td>
@@ -313,26 +314,28 @@ Eenheden boven het tiende geven recht op een verhoging van de vermindering met 8
 			<td>E90</td>
 		</tr>
 		<tr>
-			<td>vanaf 1 januari 2020</td>
+			<td>vanaf 1 januari 2020 tot en met 31 december 2021</td>
 			<td>E30</td>
+			<td>/</td>
+		</tr>
+		<tr>
+			<td>vanaf 1 januari 2022 tot en met 31 december 2022</td>
+			<td>E20</td>
 			<td>/</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>5° 100% van de onroerende voorheffing gedurende vijf jaar voor gebouwde onroerende goederen waarvoor de aanvraag van een stedenbouwkundige vergunning is ingediend na 31 december 2012 en die op 1 januari van het aanslagjaar een E-peil hebben volgens de volgende tabel:</p>
+<p>5° 100% van de onroerende voorheffing gedurende vijf jaar voor gebouwde onroerende goederen waarvoor de aanvraag van een stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige handelingen is ingediend na 31 december 2012 en die op 1 januari van het aanslagjaar een E-peil hebben als vermeld in de volgende tabel:</p>
 
 <table border="1">
 	<tbody>
 		<tr>
-			<td>datum aanvraag stedenbouwkundigevergunning</td>
-			<td>E-peil nieuwbouw</td>
-			<td>E-peil ingrijpende energetische renovatie</td>
-		</tr>
-		<tr>
-			<td>datum aanvraag stedenbouwkundige vergunning</td>
-			<td>E-peil nieuwbouw</td>
-			<td>E-peil ingrijpendeenergetische renovatie</td>
+			<td>datum aanvraag stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige handelingen</td>
+			<td>E-peil<br>
+			nieuwbouw</td>
+			<td>E-peil ingrijpende<br>
+			energetische renovatie</td>
 		</tr>
 		<tr>
 			<td>vanaf 1 januari 2013 tot en met 31 december 2014</td>
@@ -340,33 +343,45 @@ Eenheden boven het tiende geven recht op een verhoging van de vermindering met 8
 			<td>/</td>
 		</tr>
 		<tr>
-			<td>Vanaf 1 januari 2015 tot en met 31 december 2015</td>
+			<td>vanaf 1 januari 2015 tot en met 31 december 2015</td>
 			<td>E30</td>
 			<td>/</td>
 		</tr>
 		<tr>
-			<td>Vanaf 1 januari 2016 tot en met 30 september 2016</td>
+			<td>vanaf 1 januari 2016 tot en met 30 september 2016</td>
 			<td>E20</td>
 			<td>/</td>
 		</tr>
 		<tr>
-			<td>vanaf 1 oktober 2016</td>
+			<td>vanaf 1 oktober 2016 tot en met 31 december 2021</td>
 			<td>E20</td>
+			<td>E60</td>
+		</tr>
+		<tr>
+			<td>vanaf 1 januari 2022 tot en met 31 december 2022</td>
+			<td>E10</td>
+			<td>E60</td>
+		</tr>
+		<tr>
+			<td>vanaf 1 januari 2023</td>
+			<td>/</td>
 			<td>E60</td>
 		</tr>
 	</tbody>
 </table>
 
-<p><br>
+<p>6° 50% van de onroerende voorheffing gedurende vijf jaar voor gebouwde onroerende goederen waarvoor de aanvraag van een omgevingsvergunning voor stedenbouwkundige handelingen na 31 december 2022 is ingediend en die na herbouw of gedeeltelijke herbouw op 1 januari van het aanslagjaar een E-peil hebben van ten hoogste E20;<br>
+7° 100% van de onroerende voorheffing gedurende vijf jaar voor gebouwde onroerende goederen waarvoor de aanvraag van een omgevingsvergunning voor stedenbouwkundige handelingen na 31 december 2022 is ingediend en die na herbouw of gedeeltelijke herbouw op 1 januari van het aanslagjaar een E-peil hebben van ten hoogste E10.<br>
+<br>
 Het E-peil, vermeld in het eerste lid, is het peil van primair energieverbruik, zoals berekend ter uitvoering van titel XI van het Energiedecreet van 8 mei 2009.<br>
 <br>
 De grens van het E-peil waaraan het gebouwde onroerend goed moet voldoen voor de vermindering, wordt vastgesteld rekening houdend met het ogenblik waarop de volledige aanvraag van een stedenbouwkundige vergunning is ingediend.<br>
 <br>
 De termijn van tien jaar, vermeld in het eerste lid, 1° tot en met 3°, neemt een aanvang in het jaar dat volgt op het jaar waarin het E-peil dat recht geeft op een vermindering, voor de eerste keer is bepaald voor het gebouwde onroerend goed in kwestie. Die termijn kan op zijn vroegst een aanvang nemen vanaf het aanslagjaar 2009.<br>
 <br>
-De termijn van vijf jaar, vermeld in het eerste lid, 4° en 5°, neemt een aanvang in het jaar dat volgt op het jaar waarin het E-peil dat recht geeft op een vermindering, voor de eerste keer is bepaald voor het gebouwde onroerend goed in kwestie. Die termijn kan op zijn vroegst een aanvang nemen vanaf het aanslagjaar 2014.<br>
+De termijn van vijf jaar, vermeld in het eerste lid, 4° tot en met 7°&nbsp;, neemt een aanvang in het jaar dat volgt op het jaar waarin het E-peil dat recht geeft op een vermindering, voor de eerste keer is bepaald voor het gebouwde onroerend goed in kwestie. Die termijn kan op zijn vroegst een aanvang nemen vanaf het aanslagjaar 2014.<br>
 <br>
-Alleen de gebouwde onroerende goederen waarvoor het vereiste E-peil voor het gebouw als geheel is bepaald, komen in aanmerking voor de verminderingen, vermeld in het eerste lid. De verminderingen worden alleen toegekend als het gaat om renovatie of nieuwbouw als vermeld in artikel 1.1.1, § 2, 50° en 110°, van het Energiebesluit van 19 november 2010.<br>
+Alleen de gebouwde onroerende goederen waarvoor het vereiste E-peil voor het gebouw als geheel is bepaald, komen in aanmerking voor de verminderingen, vermeld in het eerste lid. De verminderingen worden alleen toegekend als het gaat om gedeeltelijke herbouw, herbouw, renovatie of nieuwbouw als vermeld in artikel 1.1.1, § 2, 46/2°, 47/2°, 50° en 110°, van het Energiebesluit van 19 november 2010 en als is voldaan aan alle EPB-eisen, vermeld in titel IX, hoofdstuk I, van het Energiebesluit van 19 november 2010, die op de omgevingsvergunning(en) voor stedenbouwkundige handelingen van het specifieke bouwproject van toepassing zijn.<br>
 <br>
 Bij de overdracht van een onroerend goed waarvoor een vermindering als vermeld in het eerste lid, is verleend, wordt de vermindering vanaf het aanslagjaar dat volgt op het jaar van de overdracht, verder toegekend aan de verkrijger van het goed, voor de nog resterende aanslagjaren in de periode van tien jaar of vijf jaar.</p>
 
@@ -389,7 +404,7 @@ Bij de overdracht van een onroerend goed waarvoor een vermindering als vermeld i
 
 ### ART. 2.1.5.0.3.
 
-De verminderingen, vermeld in artikel 2.1.5.0.1, § 1, 1° tot en met 3°,   artikel 2.1.5.0.1, § 2, eerste lid, 1° tot en met 5°, en artikel 2.1.5.0.2, § 1,   1° en 2°, worden beoordeeld naar de toestand op 1 januari van het jaar waarnaar   het aanslagjaar van de onroerende voorheffing wordt genoemd. Die verminderingen   kunnen worden samengevoegd, met uitzondering van de vermindering, vermeld in   artikel 2.1.5.0.1, § 2, eerste lid, 3°, die niet samengevoegd kan worden met de   verminderingen, vermeld in artikel 2.1.5.0.1, § 2, eerste lid, 1° en 2°.   <BR>
+De verminderingen, vermeld in artikel 2.1.5.0.1, § 1, 1° tot en met 3°, artikel 2.1.5.0.1, § 2, eerste lid, 1° tot en met 7°, en artikel 2.1.5.0.2, § 1, 1° en 2°, worden beoordeeld naar de toestand op 1 januari van het jaar waarnaar het aanslagjaar van de onroerende voorheffing wordt genoemd. Die verminderingen kunnen worden samengevoegd, met uitzondering van de vermindering, vermeld in artikel 2.1.5.0.1, § 2, eerste lid, 3°, die niet samengevoegd kan worden met de verminderingen, vermeld in artikel 2.1.5.0.1, § 2, eerste lid, 1° en 2°.
 
 ### ART. 2.1.5.0.4.
 
@@ -4451,7 +4466,7 @@ In geval van een openbare verkoop van onroerende goederen, in   verschillende lo
 
 ### ART. 2.9.4.1.1.
 
-Het verkooprecht bedraagt 10 %.
+Het verkooprecht bedraagt 12 %.
 
 ### ART. 2.9.4.1.2.
 
@@ -4549,7 +4564,9 @@ Het voordeel van de toepassing van de tariefvermindering uit dit artikel kan nie
 
 ### ART 2.9.4.2.11.
 
-§ 1. In afwijking van artikel 2.9.4.1.1 bedraagt het verkooprecht&nbsp;6 % voor overeenkomsten houdende zuivere aankoop, waarbij door een of meer natuurlijke personen samen en gelijktijdig de geheelheid volle eigendom van een woning wordt verkregen om er hun hoofdverblijfplaats te vestigen.<br>
+§ 1. In afwijking van artikel 2.9.4.1.1 bedraagt het verkooprecht 3 % voor overeenkomsten houdende zuivere aankoop, waarbij door een of meer natuurlijke personen samen en gelijktijdig de geheelheid volle eigendom van een woning wordt verkregen om er hun hoofdverblijfplaats te vestigen.<br>
+<br>
+In afwijking van het eerste lid bedraagt het tarief 6% voor overeenkomsten houdende zuivere aankoop waarvan de authentieke akte uiterlijk op 31 december 2023 is verleden, als de verkrijger opteert voor de vermindering, vermeld in artikel 2.9.5.0.1, of de ontheffing, vermeld in artikel 3.6.0.0.6, § 3.<br>
 <br>
 § 2. Om het verlaagde tarief, vermeld in paragraaf 1, te kunnen toepassen, moeten alle volgende voorwaarden vervuld zijn:<br>
 1° de verkrijger is op de datum van de authentieke aankoopakte niet voor de geheelheid volle eigenaar van een andere woning of bouwgrond. Als er verschillende verkrijgers zijn, zijn ze op de vermelde datum niet samen voor de geheelheid volle eigenaar van een andere woning of bouwgrond;<br>
@@ -4559,33 +4576,43 @@ Het voordeel van de toepassing van de tariefvermindering uit dit artikel kan nie
 De koper die de voorwaarde, vermeld in het eerste lid, 2°, niet is nagekomen, is aanvullende rechten verschuldigd.<br>
 <br>
 § 3. In afwijking van paragraaf 2, 1°, wordt geen rekening gehouden met de woning of de bouwgrond als:<br>
-1° de verkrijger zich ertoe verbindt om dit onroerend goed uiterlijk één jaar na de datum van de authentieke akte volledig en ten bezwarende titel te vervreemden en aantoont dat er een causaal verband bestaat tussen die vervreemding en de verkrijging tegen het verlaagd tarief, vermeld in paragraaf 1, en als de verkrijger voldoet aan de verplichting, vermeld in artikel 3.12.3.0.1, § 3, vijfde lid;<br>
+1° de verkrijger zich ertoe verbindt om dit onroerend goed uiterlijk twee jaar na de datum van de authentieke akte volledig en ten bezwarende titel te vervreemden en aantoont dat er een causaal verband bestaat tussen die vervreemding en de verkrijging tegen het verlaagd tarief, vermeld in paragraaf 1, en als de verkrijger voldoet aan de verplichting, vermeld in artikel 3.12.3.0.1, § 3, vijfde lid;<br>
 2° het onroerend goed uiterlijk een jaar na de datum van de authentieke akte van verkrijging, al dan niet gedwongen, wordt onteigend en als de verkrijger voldoet aan de verplichting, vermeld in artikel 3.12.3.0.1, § 3, zesde lid.<br>
 <br>
 De koper die de voorwaarden, vermeld in het eerste lid, 1° of 2°, niet is nagekomen, is aanvullende rechten verschuldigd.<br>
 <br>
 § 4. In geval van een overdracht, die aan een opschortende voorwaarde is onderworpen&nbsp;die nog niet is vervuld op datum van de authentieke akte, wordt voor de toepassing van dit artikel de datum van vervulling van de voorwaarde in de plaats gesteld van de datum van de authentieke akte.<br>
 <br>
-§ 5. Het tarief, vermeld in paragraaf 1, kan niet worden toegepast als voor de overdracht van het gebouw of gedeelten van het gebouw de vrijstelling, vermeld in artikel 2.9.6.0.1, eerste lid, 4°, is genoten.
+§ 5. Het tarief, vermeld in paragraaf 1, kan niet worden toegepast als voor de overdracht van het gebouw of gedeelten van het gebouw de vrijstelling, vermeld in artikel 2.9.6.0.1, eerste lid, 4°, is genoten.<br>
+<br>
+§ 6. Het tarief, vermeld in paragraaf 1, eerste lid, kan niet gecombineerd worden met de vermindering, vermeld in artikel 2.9.5.0.1, of de ontheffing, vermeld in artikel 3.6.0.0.6, § 3.
 
 ### ART 2.9.4.2.12.
 
-§ 1. Het verlaagde tarief, vermeld in artikel 2.9.4.2.11, wordt verminderd tot&nbsp;5 % als aan al de volgende voorwaarden is voldaan:<br>
+§ 1. Het verlaagde tarief,&nbsp;vermeld in artikel 2.9.4.2.11, § 1, eerste lid, wordt verminderd tot 1%&nbsp;als aan al de volgende voorwaarden is voldaan:<br>
 1° de verkrijger verbindt zich ertoe aan de aangekochte woning een ingrijpende energetische renovatie uit te voeren als vermeld in artikel 1.1.1, § 2, 50°, van het Energiebesluit van 19 november 2010, een gedeeltelijke herbouw uit te voeren als vermeld in artikel 1.1.1, § 2, 46/2°, of een herbouw uit te voeren als vermeld in artikel 1.1.1, § 2, 47/2°, van het voormelde besluit;<br>
-2° de verkrijger moet binnen een termijn van vijf jaar vanaf de datum van de authentieke aankoopakte een energieprestatiecertificaat bouw als vermeld in artikel 9.2.11 van het Energiebesluit van 19 november 2010, bekomen waaruit blijkt dat de werken die aan de aangekochte woning uitgevoerd zijn, betrekking hebben op werken als vermeld in punt 1° ;<br>
+2° de verkrijger heeft binnen een termijn van zes jaar vanaf de datum van de authentieke aankoopakte een EPB-aangifte als vermeld in artikel 1.1.3, 47°, van het Energiedecreet van 8 mei 2009, laten indienen waaruit blijkt dat de werken die aan de aangekochte woning uitgevoerd zijn, betrekking hebben op werken als vermeld in punt 1° en dat is voldaan aan alle EPB-eisen, vermeld in titel IX, hoofdstuk I, van het Energiebesluit van 19 november 2010, die op de omgevingsvergunning(en) voor stedenbouwkundige handelingen van het specifieke bouwproject van toepassing zijn;<br>
 3° de verkrijger is op de datum van de authentieke aankoopakte niet voor de geheelheid volle eigenaar van een andere woning of bouwgrond. Als er verschillende verkrijgers zijn, zijn ze op de vermelde datum niet samen voor de geheelheid volle eigenaar van een andere woning of bouwgrond;<br>
-4° de verkrijger verbindt zich ertoe zijn inschrijving in het bevolkingsregister of het vreemdelingenregister te nemen op het adres van de aangekochte woning binnen vijf jaar na de datum van de authentieke aankoopakte;<br>
+4° de verkrijger verbindt zich ertoe zijn inschrijving in het bevolkingsregister of het vreemdelingenregister te nemen op het adres van de aangekochte woning binnen zes jaar na de datum van de authentieke aankoopakte;<br>
 5° de verplichting, vermeld in artikel 3.12.3.0.1, § 1, is nageleefd.<br>
 <br>
 De&nbsp;koper die de voorwaarden, vermeld in het eerste lid, 1°, 2° en 4°, niet is nagekomen, is aanvullende rechten verschuldigd.<br>
 <br>
+Als de verkrijger zich ertoe verbindt een gedeeltelijke herbouw of een herbouw uit te voeren als vermeld in het eerste lid, 1°, wordt voor de toepassing van het verlaagd tarief met een woning gelijkgesteld een huis of het geheel of gedeelte van een verdieping van een gebouw dat op een bepaald moment in de periode van vijf jaar voorafgaand aan de datum van de authentieke aankoopakte hoofdzakelijk tot huisvesting heeft gediend van één gezin of een persoon, als de verklaring, vermeld in artikel 3.12.3.0.1, § 3, zevende lid, is gedaan.<br>
+<br>
+De koper die de voorwaarde, vermeld in het derde lid, niet is nagekomen, is aanvullende rechten verschuldigd<br>
+<br>
+In afwijking van het eerste lid bedraagt het tarief 5% voor overeenkomsten houdende zuivere aankoop waarvan de authentieke akte uiterlijk op 31 december 2023 is verleden, als de verkrijger opteert voor de vermindering, vermeld in artikel 2.9.5.0.1, of de ontheffing, vermeld in artikel 3.6.0.0.6, § 3.<br>
+<br>
 § 2. In afwijking van paragraaf 1, 3°, wordt geen rekening gehouden met de woning of de bouwgrond als:<br>
-1° de verkrijger zich ertoe verbindt om dit onroerend goed uiterlijk één jaar na de datum van de authentieke akte volledig en ten bezwarende titel te vervreemden en aantoont dat er een causaal verband bestaat tussen die vervreemding en de verkrijging tegen het verlaagd tarief, vermeld in paragraaf 1, en als de verkrijger voldoet aan de verplichting, vermeld in artikel 3.12.3.0.1, § 3, zevende lid;<br>
-2° het onroerend goed uiterlijk een jaar na de datum van de authentieke akte van verkrijging, al dan niet gedwongen, wordt onteigend en als de verkrijger voldoet aan de verplichting, vermeld in artikel 3.12.3.0.1, § 3, achtste lid.<br>
+1° de verkrijger zich ertoe verbindt om dit onroerend goed uiterlijk twee jaar na de datum van de authentieke akte volledig en ten bezwarende titel te vervreemden en aantoont dat er een causaal verband bestaat tussen die vervreemding en de verkrijging tegen het verlaagd tarief, vermeld in paragraaf 1, en als de verkrijger voldoet aan de verplichting, vermeld in artikel 3.12.3.0.1, § 3, achtste lid;<br>
+2° het onroerend goed uiterlijk een jaar na de datum van de authentieke akte van verkrijging, al dan niet gedwongen, wordt onteigend en als de verkrijger voldoet aan de verplichting, vermeld in artikel 3.12.3.0.1, § 3, negende lid.<br>
 <br>
 De koper die de voorwaarden, vermeld in het eerste lid, 1° of 2°, niet is nagekomen, is aanvullende rechten verschuldigd.<br>
 <br>
-§ 3. In geval van een overdracht, die aan een opschortende voorwaarde is onderworpen die nog niet is vervuld op datum van de authentieke akte, wordt voor de toepassing van dit artikel de datum van vervulling van de voorwaarde in de plaats gesteld van de datum van de akte.
+§ 3. In geval van een overdracht, die aan een opschortende voorwaarde is onderworpen die nog niet is vervuld op datum van de authentieke akte, wordt voor de toepassing van dit artikel de datum van vervulling van de voorwaarde in de plaats gesteld van de datum van de akte.<br>
+<br>
+§ 4. Het tarief, vermeld in paragraaf 1, eerste lid, kan niet gecombineerd worden met de vermindering, vermeld in artikel 2.9.5.0.1, of de ontheffing, vermeld in artikel 3.6.0.0.6, § 3.
 
 ### ART 2.9.4.2.13.
 
@@ -4619,8 +4646,8 @@ Om het tarief, vermeld in paragraaf 1, te kunnen toepassen, voldoen de verkrijge
 Het voordeel van de toepassing van de tariefvermindering, vermeld in paragraaf 1, kan niet gecombineerd worden met de premies, vermeld in artikel 10.2.1 van het Onroerenderfgoeddecreet van 12 juli 2013,&nbsp;noch met de vermindering van de personenbelasting, vermeld in artikel 145<sup>36</sup> van het Wetboek van de Inkomstenbelastingen 1992, als de voormelde premies of de belastingvermindering betrekking hebben op dezelfde beheersmaatregelen, werkzaamheden of diensten als de beheersmaatregelen, de werkzaamheden of de diensten, vermeld in artikel 2.9.4.2.10, § 2, 1°.<br>
 <br>
 § 5. In afwijking van de voorwaarde, vermeld in artikel 2.9.4.2.11, § 2, eerste lid, 1°, wordt er geen rekening gehouden met de woning of de bouwgrond als:<br>
-1° de verkrijger zich ertoe verbindt om dit onroerend goed uiterlijk één jaar na de datum van de authentieke akte volledig en ten bezwarende titel te vervreemden en aantoont dat er een causaal verband bestaat tussen die vervreemding en de verkrijging tegen het verlaagd tarief, vermeld in paragraaf 1, en als de verkrijger voldoet aan de verplichting, vermeld in artikel 3.12.3.0.1, § 3, negende lid;<br>
-2° het onroerend goed uiterlijk een jaar na de datum van de authentieke akte van verkrijging, al dan niet gedwongen, wordt onteigend en als de verkrijger voldoet aan de verplichting, vermeld in artikel 3.12.3.0.1, § 3, tiende lid.<br>
+1° de verkrijger zich ertoe verbindt om dit onroerend goed uiterlijk twee jaar na de datum van de authentieke akte volledig en ten bezwarende titel te vervreemden en aantoont dat er een causaal verband bestaat tussen die vervreemding en de verkrijging tegen het verlaagd tarief, vermeld in paragraaf 1, en als de verkrijger voldoet aan de verplichting, vermeld in artikel 3.12.3.0.1, § 3, tiende lid;<br>
+2° het onroerend goed uiterlijk een jaar na de datum van de authentieke akte van verkrijging, al dan niet gedwongen, wordt onteigend en als de verkrijger voldoet aan de verplichting, vermeld in artikel 3.12.3.0.1, § 3, elfde lid.<br>
 <br>
 De koper die de voorwaarden, vermeld in het eerste lid, 1° of 2°, niet is nagekomen, is aanvullende rechten verschuldigd.<br>
 <br>
@@ -4628,11 +4655,19 @@ De koper die de voorwaarden, vermeld in het eerste lid, 1° of 2°, niet is nage
 <br>
 § 7. De koper die de voorwaarden, vermeld in paragraaf 2, tweede lid, 1°, en artikel 2.9.4.2.11, § 2, eerste lid, 1°, niet is nagekomen, is aanvullende rechten verschuldigd.
 
+### ART 2.9.4.2.15.
+
+§ 1. In afwijking van artikel 2.9.4.1.1 bedraagt het verkooprecht 10% voor verkoopovereenkomsten van onbebouwde landgoederen en onbebouwde onroerende goederen waarvoor een natuurbeheerplan type twee of drie als vermeld in artikel 16ter, § 1, 2° en 3°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, is goedgekeurd conform artikel 16octies van het voormelde decreet.<br>
+<br>
+§ 2. Voor de toepassing van het verlaagd tarief, vermeld in paragraaf 1, moeten naargelang het geval de volgende voorwaarden vervuld zijn:<br>
+1° de verkrijgers van het onbebouwde landgoed voldoen aan de verplichting, vermeld in artikel 3.12.3.0.1, § 1;<br>
+2° de verkrijgers van het onbebouwd onroerend goed voldoen aan de verplichting, vermeld in artikel 3.12.3.0.1, § 1 en § 3.
+
 ## [Afdeling 5. Verminderingen (ing. Decr. 19 december 2014, art. 144, I: 1 januari 2015)]
 
 ### ART. 2.9.5.0.1.
 
-In geval van zuivere aankoop van een tot bewoning aangewend of bestemd onroerend goed door een natuurlijke persoon om er zijn hoofdverblijfplaats te vestigen, wordt zijn wettelijk aandeel in de belastingen die met toepassing van artikel 2.9.4.1.1, artikel 2.9.4.2.11, artikel 2.9.4.2.12, artikel 2.9.4.2.13 of artikel 2.9.4.2.14 verschuldigd waren op de aankoop van de woning die hem voorheen tot hoofdverblijfplaats heeft gediend of van de bouwgrond waarop die woning is opgericht, in mindering gebracht van zijn wettelijk aandeel in de belastingen, verschuldigd op de nieuwe aankoop, op voorwaarde dat de authentieke akte van de nieuwe aankoop is verleden binnen twee jaar na de datum van het verlijden van de authentieke akte die aanleiding heeft gegeven of geeft tot een van de volgende handelingen :<br>
+In geval van zuivere aankoop van een tot bewoning aangewend of bestemd onroerend goed waarvan de authentieke akte uiterlijk op 31 december 2023 wordt verleden&nbsp;door een natuurlijke persoon om er zijn hoofdverblijfplaats te vestigen, wordt zijn wettelijk aandeel in de belastingen die met toepassing van artikel 2.9.4.1.1, artikel 2.9.4.2.11, artikel 2.9.4.2.12, artikel 2.9.4.2.13 of artikel 2.9.4.2.14 verschuldigd waren op de aankoop van de woning&nbsp;waarvan de authentieke akte voor 1 januari 2022 werd verleden en&nbsp;die hem voorheen tot hoofdverblijfplaats heeft gediend of van de bouwgrond waarop die woning is opgericht, in mindering gebracht van zijn wettelijk aandeel in de belastingen, verschuldigd op de nieuwe aankoop, op voorwaarde dat de authentieke akte van de nieuwe aankoop is verleden binnen twee jaar na de datum van het verlijden van de authentieke akte die aanleiding heeft gegeven of geeft tot een van de volgende handelingen :<br>
 1° de heffing van het verkooprecht op de zuivere wederverkoop van de woning die hem voorheen tot hoofdverblijfplaats heeft gediend, of de heffing van het verdeelrecht op de verdeling van die woning waarbij de natuurlijke persoon al zijn rechten erin heeft afgestaan;<br>
 2° de vrijstelling van het verkooprecht met toepassing van artikel 2.9.6.0.1, eerste lid, 4°, voor de zuivere wederverkoop van de woning die hem voorheen tot hoofdverblijfplaats heeft gediend, of de vrijstelling van het verdeelrecht met toepassing van artikel 2.10.6.0.1, eerste lid, 1°, voor de verdeling van die woning, waarbij de natuurlijke persoon al zijn rechten erin heeft afgestaan.<br>
 Als de authentieke akte van vervreemding geen aanleiding geeft tot een van de voormelde handelingen omdat de vervreemding onderworpen is aan een niet-vervulde opschortende voorwaarde, wordt de termijn van twee jaar gerekend vanaf de datum van de registratie van de authentieke akte of het geschrift dat aanleiding heeft gegeven of geeft tot een van de handelingen, vermeld in 1° of 2°.<br>
@@ -4659,11 +4694,21 @@ Voor de toepassing van artikel 2.9.5.0.1 tot en met artikel 2.9.5.0.3 en   voor 
 
 ### ART 2.9.5.0.5.
 
-Als er voor alle verkrijgers toepassing wordt gemaakt van het verlaagde tarief, vermeld in artikel 2.9.4.2.11 of 2.9.4.2.12, en als de totale belastbare grondslag van de verkrijging niet hoger is dan 200.000 euro, wordt er een rechtenvermindering toegestaan van respectievelijk 5600 euro of 4800 euro op het totaal van de op de aankoop berekende rechten. Als het verschuldigde verkooprecht lager is dan, naargelang het geval, hetzij 5600 euro, hetzij 4800 euro, dan wordt de rechtenvermindering verlaagd tot het bedrag van dit verkooprecht.<br>
+§ 1. Als er voor alle verkrijgers toepassing wordt gemaakt van het verlaagde tarief, vermeld in artikel 2.9.4.2.11, § 1, eerste lid, of artikel 2.9.4.2.12, § 1, eerste lid, en als de totale belastbare grondslag van het onroerend goed niet hoger is dan 220.000 euro, wordt er een rechtenvermindering toegestaan van respectievelijk 2800 euro of 960 euro op het totaal van de op de aankoop berekende rechten. Als het verschuldigde verkooprecht lager is dan, naargelang het geval, hetzij 2800 euro, hetzij 960 euro, dan wordt de rechtenvermindering verlaagd tot het bedrag van dit verkooprecht.<br>
 <br>
-Als er slechts voor sommige verkrijgers toepassing wordt gemaakt van het verlaagde tarief, vermeld in artikel 2.9.4.2.11 of 2.9.4.2.12, en als de totale belastbare grondslag van de verkrijging niet hoger is dan 200.000 euro, wordt de rechtenvermindering van 5600 euro of 4800 euro herleid tot het breukdeel van deze bedragen dat overeenstemt met het aandeel van de betrokken verkrijgers in de totale aankoop. Als het door deze verkrijgers verschuldigde verkooprecht lager is dan het overeenkomstig breukdeel van, naar gelang het geval, hetzij 5600 euro, hetzij 4800 euro, dan wordt de rechtenvermindering verlaagd tot het bedrag van het wettelijk aandeel van deze verkrijgers in het totale verschuldigde verkooprecht.<br>
+Als er slechts voor sommige verkrijgers toepassing wordt gemaakt van het verlaagde tarief, vermeld in artikel 2.9.4.2.11, § 1, eerste lid, of artikel 2.9.4.2.12, § 1, eerste lid, en als de totale belastbare grondslag van het onroerend goed niet hoger is dan 220.000 euro, wordt de rechtenvermindering van 2800 euro of 960 euro herleid tot het breukdeel van deze bedragen dat overeenstemt met het aandeel van de betrokken verkrijgers in de totale aankoop. Als het door deze verkrijgers verschuldigde verkooprecht lager is dan het overeenkomstige breukdeel van, naargelang het geval, hetzij 2800 euro, hetzij 960 euro, dan wordt de rechtenvermindering verlaagd tot het bedrag van het wettelijk aandeel van deze verkrijgers in het totale verschuldigde verkooprecht.<br>
 <br>
-Voor de onroerende goederen gelegen op het grondgebied van de kernsteden en de gemeenten van de Vlaamse Rand rond Brussel zoals bepaald in artikel 1.1.0.0.2, twaalfde lid, 8° en 9°, wordt de rechtenvermindering, vermeld in het eerste lid, toegestaan als de belastbare grondslag van de verkrijging niet hoger is dan 220.000 euro.
+Als er slechts voor een deel van de verkrijging toepassing wordt gemaakt van het verlaagd tarief, vermeld in artikel 2.9.4.2.11, § 1, eerste lid, of artikel 2.9.4.2.12, § 1, eerste lid, en als de totale belastbare grondslag van het onroerend goed niet hoger is dan 220.000 euro, wordt de rechtenvermindering van 2800 euro of 960 euro herleid tot het breukdeel van deze bedragen dat overeenstemt met het aandeel van de verkrijging waarvoor het verlaagde tarief, vermeld in artikel 2.9.4.2.11, § 1, eerste lid, of artikel 2.9.4.2.12, § 1, eerste lid, wordt toegepast.<br>
+<br>
+Voor de onroerende goederen gelegen op het grondgebied van de kernsteden en de gemeenten van de Vlaamse Rand rond Brussel zoals bepaald in artikel 1.1.0.0.2, twaalfde lid, 8° en 9°, wordt de rechtenvermindering, vermeld in het eerste lid, toegestaan als de totale belastbare grondslag van het onroerend goed niet hoger is dan 240.000 euro.<br>
+<br>
+§ 2. Als er voor alle verkrijgers toepassing wordt gemaakt van het verlaagde tarief, vermeld in artikel 2.9.4.2.11, § 1, tweede lid, of artikel 2.9.4.2.12, § 1, vijfde lid, en als de totale belastbare grondslag van het onroerend goed niet hoger is dan 220.000 euro, wordt er een rechtenvermindering toegestaan van respectievelijk 5600 euro of 4800 euro op het totaal van de op de aankoop berekende rechten. Als het verschuldigde verkooprecht lager is dan, naargelang het geval, hetzij 5600 euro, hetzij 4800 euro, dan wordt de rechtenvermindering verlaagd tot het bedrag van dit verkooprecht.<br>
+<br>
+Als er slechts voor sommige verkrijgers toepassing wordt gemaakt van het verlaagde tarief, vermeld in artikel 2.9.4.2.11, § 1, tweede lid, of artikel 2.9.4.2.12, § 1, vijfde lid, en als de totale belastbare grondslag van het onroerend goed niet hoger is dan 220.000 euro, wordt de rechtenvermindering van 5600 euro of 4800 euro herleid tot het breukdeel van deze bedragen dat overeenstemt met het aan- deel van de betrokken verkrijgers in de totale aankoop. Als het door deze verkrijgers verschuldigde verkooprecht lager is dan het overeenkomstig breukdeel van, naargelang het geval, hetzij 5600 euro, hetzij 4800 euro, dan wordt de rechtenvermindering verlaagd tot het bedrag van het wettelijk aandeel van deze verkrijgers in het totale verschuldigde verkooprecht.<br>
+<br>
+Als er slechts voor een deel van de verkrijging toepassing wordt gemaakt van het verlaagd tarief, vermeld in artikel 2.9.4.2.11, § 1, tweede lid, of artikel 2.9.4.2.12, § 1, vijfde lid, en als de totale belastbare grondslag van het onroerend goed niet hoger is dan 220.000 euro, wordt de rechtenvermindering van 5600 euro of 4800 euro herleid tot het breukdeel van deze bedragen dat overeenstemt met het aandeel van de verkrijging waarvoor het verlaagde tarief, vermeld in artikel 2.9.4.2.11, § 1, tweede lid, of artikel 2.9.4.2.12, § 1, vijfde lid, wordt toegepast.<br>
+<br>
+Voor de onroerende goederen gelegen op het grondgebied van de kernsteden en de gemeenten van de Vlaamse Rand rond Brussel zoals bepaald in artikel 1.1.0.0.2, twaalfde lid, 8° en 9°, wordt de rechtenvermindering, vermeld in het eerste lid, toegestaan als de totale belastbare grondslag van het onroerend goed niet hoger is dan 240.000 euro.
 
 ## [Afdeling 6. Vrijstellingen (ing. Decr. 19 december 2014, art. 149, I: 1 januari 2015)]
 
@@ -5781,7 +5826,7 @@ In afwijking van artikel 3.4.2.0.1 moeten alle belastingen en toebehoren   onver
 
 In afwijking van artikel 3.4.2.0.1 moet de belastingschuldige de registratiebelasting onmiddellijk na de bezorging van het aanslagbiljet betalen.<br>
 <br>
-Het eerste lid is niet van toepassing op de aanvullende rechten op het verkooprecht,&nbsp;vermeld in artikel 2.9.4.2.3, tweede lid, artikel 2.9.4.2.11, § 2, tweede lid, of § 3, tweede lid, artikel 2.9.4.2.12, § 1, tweede lid, of § 2, tweede lid, artikel 2.9.4.2.13, § 1, tweede lid, artikel 2.9.4.2.14, § 5, tweede lid, of § 7, en artikel 2.9.5.0.3, tweede lid, en de daaraan verbonden belastingverhogingen, vermeld in artikel 3.18.0.0.11 en artikel 3.18.0.0.12.
+Het eerste lid is niet van toepassing op de aanvullende rechten op het verkooprecht,&nbsp;vermeld in artikel 2.9.4.2.3, tweede lid, artikel 2.9.4.2.11, § 2, tweede lid, of § 3, tweede lid, artikel 2.9.4.2.12, § 1, tweede lid, vierde lid, of § 2, tweede lid, artikel 2.9.4.2.13, § 1, tweede lid, artikel 2.9.4.2.14, § 5, tweede lid, of § 7, en artikel 2.9.5.0.3, tweede lid, en de daaraan verbonden belastingverhogingen, vermeld in artikel 3.18.0.0.11 en artikel 3.18.0.0.12.
 
 ## Afdeling 3 Wijze van betaling
 
@@ -6008,9 +6053,9 @@ De registratiebelasting die betrekking heeft op het gedeelte van de prijs en de 
 <br>
 In geval van gedeeltelijke wederverkoop wordt in het verzoek tot teruggave het deel van de aanschaffingsprijs dat betrekking heeft op het wederverkochte gedeelte, nader aangegeven onder controle van de bevoegde entiteit van de Vlaamse administratie.<br>
 <br>
-§ 2/1. Wat de registratiebelasting betreft, verleent het bevoegde personeelslid ook ontheffing van het bedrag aan registratiebelasting dat meer bedraagt dan het verkooprecht, vermeld in artikel 2.9.4.2.11, § 1, artikel 2.9.4.2.12 en artikel 2.9.4.2.14, op voorwaarde dat een verzoek is ingediend binnen een termijn van vijf jaar vanaf 1 januari van het jaar waarin het recht tot teruggave is ontstaan. In het verzoek tot teruggave moet worden aangetoond dat de woning of bouwgrond die de toepassing van het verlaagde tarief van artikel 2.9.4.2.11, § 1, artikel 2.9.4.2.12 en artikel 2.9.4.2.14, heeft verhinderd, uiterlijk een jaar na de datum van de authentieke akte van verkrijging van de andere woning volledig en ten bezwarende titel is vervreemd, en dat er een causaal verband bestaat tussen die vervreemding en de verkrijging. Bovendien moet in het verzoek tot teruggave worden voldaan aan de verplichting, vermeld in artikel 3.12.3.0.1, § 1 en § 3.<br>
+§ 2/1. Wat de registratiebelasting betreft, verleent het bevoegde personeelslid ook ontheffing van het bedrag aan registratiebelasting dat meer bedraagt dan het verkooprecht, vermeld in artikel 2.9.4.2.11, § 1, artikel 2.9.4.2.12 en artikel 2.9.4.2.14, op voorwaarde dat een verzoek is ingediend binnen een termijn van vijf jaar vanaf 1 januari van het jaar waarin het recht tot teruggave is ontstaan. In het verzoek tot teruggave moet worden aangetoond dat de woning of bouwgrond die de toepassing van het verlaagde tarief van artikel 2.9.4.2.11, § 1, artikel 2.9.4.2.12 en artikel 2.9.4.2.14, heeft verhinderd, uiterlijk twee jaar na de datum van de authentieke akte van verkrijging van de andere woning volledig en ten bezwarende titel is vervreemd, en dat er een causaal verband bestaat tussen die vervreemding en de verkrijging. Bovendien moet in het verzoek tot teruggave worden voldaan aan de verplichting, vermeld in artikel 3.12.3.0.1, § 1 en § 3.<br>
 <br>
-§ 3. Wat de registratiebelasting betreft, verleent het bevoegde personeelslid ook ontheffing van de registratiebelasting op voorwaarde dat een verzoek is ingediend binnen een termijn van vijf jaar vanaf 1 januari van het jaar waarin het recht tot teruggave is ontstaan, waarin wordt aangetoond dat een zuivere verkoop heeft plaatsgevonden door een natuurlijke persoon van een woning in het Vlaamse Gewest, waarin hij op een ogenblik zijn hoofdverblijfplaats heeft gehad in de periode van achttien maanden voorafgaand aan de zuivere aankoop van het onroerend goed dat hij als zijn nieuwe hoofdverblijfplaats aanwendt of bestemt, en, in geval van verdeling van een dergelijke woning, waarbij de natuurlijke persoon al zijn rechten erin heeft afgestaan. De ontheffing wordt verleend voor het wettelijk aandeel in de registratiebelasting die geheven is op de aankoop van het onroerend goed dat de natuurlijke persoon als zijn nieuwe hoofdverblijfplaats aanwendt of bestemt, op voorwaarde dat de authentieke akte van de verkoop of de verdeling is verleden binnen twee jaar, of vijf jaar in geval van de aankoop van een bouwgrond, na de datum van het verlijden van de authentieke akte van de nieuwe aankoop.<br>
+§ 3. Wat de registratiebelasting betreft, verleent het bevoegde personeelslid ook ontheffing van de registratiebelasting op voorwaarde dat een verzoek is ingediend binnen een termijn van vijf jaar vanaf 1 januari van het jaar waarin het recht tot teruggave is ontstaan, waarin wordt aangetoond dat een zuivere verkoop heeft plaatsgevonden door een natuurlijke persoon van een woning in het Vlaamse Gewest,&nbsp;waarvan de authentieke aankoopakte voor 1 januari 2022 werd verleden, en&nbsp;waarin hij op een ogenblik zijn hoofdverblijfplaats heeft gehad in de periode van achttien maanden voorafgaand aan de zuivere aankoop van het onroerend goed dat hij als zijn nieuwe hoofdverblijfplaats aanwendt of bestemt waarvan de akte uiterlijk op 31 december 2023 werd verleden, en, in geval van verdeling van een dergelijke woning, waarbij de natuurlijke persoon al zijn rechten erin heeft afgestaan. De ontheffing wordt verleend voor het wettelijk aandeel in de registratiebelasting die geheven is op de aankoop van het onroerend goed dat de natuurlijke persoon als zijn nieuwe hoofdverblijfplaats aanwendt of bestemt, op voorwaarde dat de authentieke akte van de verkoop of de verdeling is verleden binnen twee jaar, of vijf jaar in geval van de aankoop van een bouwgrond, na de datum van het verlijden van de authentieke akte van de nieuwe aankoop.<br>
 <br>
 De registratiebelasting, betaald voor de verkrijging van een onroerend goed dat niet in het Vlaamse Gewest ligt, alsook de aanvullende rechten die om om het even welke reden op een aankoop zijn geheven, zijn uitgesloten van de teruggave, overeenkomstig de bepalingen van deze paragraaf.<br>
 <br>
@@ -6517,7 +6562,7 @@ Als openbare of private kredietinstellingen of -inrichtingen kredieten,   lening
 1° de voorwaarden van het abattement, vermeld in artikel 2.8.3.0.4, vervuld zijn;<br>
 2° de voorwaarden van het verlaagde tarief dat ze willen verkrijgen, vervuld zijn;<br>
 3° de voorwaarden van hetzij de vermindering, hetzij de vrijstelling die ze willen verkrijgen, vervuld zijn of vervuld zullen worden;<br>
-4° ze de toepassing vragen van artikel 2.8.6.0.3, artikel 2.8.6.0.8, artikel 2.8.6.0.9, artikel 2.9.4.2.10, artikel 2.9.4.2.11, artikel 2.9.4.2.12, artikel 2.9.4.2.13, artikel 2.9.4.2.14, artikel 2.9.5.0.1, artikel 2.9.6.0.1, eerste lid, 4°, artikel 2.9.6.0.2,&nbsp;artikel 2.9.6.0.7, artikel 2.10.4.0.1, tweede lid, artikel 2.10.6.0.1, eerste lid, 2°, of artikel 2.10.6.0.2;<br>
+4° ze de toepassing vragen van artikel 2.8.6.0.3, artikel 2.8.6.0.8, artikel 2.8.6.0.9, artikel 2.9.4.2.10, artikel 2.9.4.2.11, § 1, eerste lid, artikel 2.9.4.2.11, § 1, tweede lid, artikel 2.9.4.2.12, § 1, eerste lid, artikel 2.9.4.2.12, § 1, vijfde lid, artikel 2.9.4.2.13, artikel 2.9.4.2.14, artikel 2.9.4.2.15, artikel 2.9.5.0.1, artikel 2.9.6.0.1, eerste lid, 4°, artikel 2.9.6.0.2,&nbsp;artikel 2.9.6.0.7, artikel 2.10.4.0.1, tweede lid, artikel 2.10.6.0.1, eerste lid, 2°, of artikel 2.10.6.0.2;<br>
 5° het geschonken onroerend goed een beschermd monument is en dat het voornemen bestaat toepassing te vragen van artikel 2.8.4.4.1.<br>
 <br>
 § 2. Als partijen de toepassing vragen van het abattement, vermeld in artikel 2.10.3.0.2, maken ze ook melding van het aantal kinderen die recht geven op een verhoging van het bedrag, vermeld in dat artikel, met vermelding van hun naam, geboortedatum en afstammingsband.<br>
@@ -6536,32 +6581,36 @@ Als de partijen de toepassing van het verlaagde tarief, vermeld in artikel 2.9.4
 1° melding wordt gemaakt van het goedgekeurde beheersplan, vermeld in artikel 2.9.4.2.10, § 2, 2°, van dit decreet, met opgave van de referentie, alsook de datum van de goedkeuring van het beheersplan door het agentschap, vermeld in artikel 2.1, 2°, van het Onroerenderfgoeddecreet van 12 juli 2013. Als het beheersplan nog niet is opgemaakt en goedgekeurd op het moment van het verlijden van de authentieke akte van verkrijging, bestaat de verklaring in de melding dat er een beheersplan opgemaakt zal worden als vermeld in artikel 8.1.1 tot en met 8.1.3 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
 2° de partijen melding maken van hun kennis van artikel 10.5.2 van het Onroerenderfgoeddecreet van 12 juli 2013.<br>
 <br>
-Als partijen voor de toepassing van het verlaagde tarief, vermeld in artikel 2.9.4.2.11, § 1, de toepassing van artikel 2.9.4.2.11, § 3, 1°, inroepen, is ook vereist dat in de verklaring, vermeld in paragraaf 1:<br>
-1° melding wordt gemaakt van de onroerende goederen die de toepassing van het verlaagde tarief, vermeld in artikel 2.9.4.2.11, § 1, verhinderen;<br>
-2° wordt gesteld dat de verkrijger de onroerende goederen, vermeld in punt 1°, binnen een jaar na de datum van de authentieke akte van verkrijging volledig en onder bezwarende titel zal vervreemden;<br>
-3° wordt aangetoond door de verkrijger dat er een causaal verband bestaat tussen de vervreemding, vermeld in punt 2°, en de verkrijging tegen het verlaagde tarief, vermeld in artikel 2.9.4.2.11, § 1.<br>
+Als partijen voor de toepassing van het verlaagde tarief, vermeld in artikel 2.9.4.2.11, § 1, eerste lid, of artikel 2.9.4.2.11, § 1, tweede lid, de toepassing van artikel 2.9.4.2.11, § 3, 1°, inroepen, is ook vereist dat in de verklaring, vermeld in paragraaf 1:<br>
+1° melding wordt gemaakt van de onroerende goederen die de toepassing van het verlaagde tarief, vermeld in artikel artikel 2.9.4.2.11, § 1, eerste lid, of artikel 2.9.4.2.11, § 1, tweede lid, verhinderen;<br>
+2° wordt gesteld dat de verkrijger de onroerende goederen, vermeld in punt 1°, binnen twee jaar na de datum van de authentieke akte van verkrijging volledig en onder bezwarende titel zal vervreemden;<br>
+3° wordt aangetoond door de verkrijger dat er een causaal verband bestaat tussen de vervreemding, vermeld in punt 2°, en de verkrijging tegen het verlaagde tarief, vermeld in artikel 2.9.4.2.11, § 1, eerste lid, of artikel 2.9.4.2.11, § 1, tweede lid.<br>
 <br>
-Als partijen voor de toepassing van het verlaagde tarief, vermeld in artikel 2.9.4.2.11, § 1, de toepassing van artikel 2.9.4.2.11, § 3, 2°, inroepen, is ook vereist dat in de verklaring, vermeld in paragraaf 1:<br>
-1° melding wordt gemaakt van de onroerende goederen die de toepassing van het verlaagde tarief, vermeld in artikel 2.9.4.2.11, § 1, verhinderen;<br>
+Als partijen voor de toepassing van het verlaagde tarief, vermeld in artikel artikel 2.9.4.2.11, § 1, eerste lid, of artikel 2.9.4.2.11, § 1, tweede lid, de toepassing van artikel 2.9.4.2.11, § 3, 2°, inroepen, is ook vereist dat in de verklaring, vermeld in paragraaf 1:<br>
+1° melding wordt gemaakt van de onroerende goederen die de toepassing van het verlaagde tarief, vermeld in artikel 2.9.4.2.11, § 1, eerste lid, of artikel 2.9.4.2.11, § 1, tweede lid, verhinderen;<br>
 2° wordt gesteld dat de onroerende goederen, vermeld in punt 1°, binnen een jaar na de datum van de akte van verkrijging, al dan niet gedwongen, worden onteigend.<br>
 <br>
-Als partijen voor de toepassing van het verlaagde tarief, vermeld in artikel 2.9.4.2.12, § 1, de toepassing van artikel 2.9.4.2.12, § 2, 1°, inroepen, is ook vereist dat in de verklaring, vermeld in paragraaf 1:<br>
-1° melding wordt gemaakt van de onroerende goederen die de toepassing van het verlaagde tarief, vermeld in artikel 2.9.4.2.12, § 1, verhinderen;<br>
-2° wordt gesteld dat de verkrijger de onroerende goederen, vermeld in punt 1°, binnen een jaar na de datum van de authentieke akte van verkrijging volledig en onder bezwarende titel zal vervreemden;<br>
-3° wordt aangetoond door de verkrijger dat er een causaal verband bestaat tussen de vervreemding, vermeld in punt 2°, en de verkrijging tegen het verlaagde tarief, vermeld in artikel 2.9.4.2.12, § 1.<br>
+Als partijen voor de toepassing van het verlaagde tarief, vermeld in&nbsp;artikel 2.9.4.2.12, § 1, eerste lid, of artikel 2.9.4.2.12, § 1, vijfde lid, de toepassing van artikel 2.9.4.2.12, § 1, derde lid,&nbsp;inroepen, is ook vereist dat in de verklaring, vermeld in paragraaf 1, wordt gesteld dat er in een periode van 5 jaar voorafgaand aan de datum van de authentieke aankoopakte een inschrijving in het bevolkingsregister of het vreemdelingenregister op het adres van het aangekochte goed is geweest.<br>
 <br>
-Als partijen voor de toepassing van het verlaagde tarief, vermeld in artikel 2.9.4.2.12, § 1, de toepassing van artikel 2.9.4.2.12, § 2, 2°, inroepen, is ook vereist dat in de verklaring, vermeld in paragraaf 1:<br>
-1° melding wordt gemaakt van de onroerende goederen die de toepassing van het verlaagde tarief, vermeld in artikel 2.9.4.2.12, § 1, verhinderen;<br>
+Als partijen voor de toepassing van het verlaagde tarief, vermeld in artikel 2.9.4.2.12, § 1, eerste lid, of artikel 2.9.4.2.12, § 1, vijfde lid, de toepassing van artikel 2.9.4.2.12, § 2, 1°, inroepen, is ook vereist dat in de verklaring, vermeld in paragraaf 1:<br>
+1° melding wordt gemaakt van de onroerende goederen die de toepassing van het verlaagde tarief, vermeld in artikel artikel 2.9.4.2.12, § 1, eerste lid, of artikel 2.9.4.2.12, § 1, vijfde lid, verhinderen;<br>
+2° wordt gesteld dat de verkrijger de onroerende goederen, vermeld in punt 1°, binnen twee jaar na de datum van de authentieke akte van verkrijging volledig en onder bezwarende titel zal vervreemden;<br>
+3° wordt aangetoond door de verkrijger dat er een causaal verband bestaat tussen de vervreemding, vermeld in punt 2°, en de verkrijging tegen het verlaagde tarief, vermeld in artikel artikel 2.9.4.2.12, § 1, eerste lid, of artikel 2.9.4.2.12, § 1, vijfde lid.<br>
+<br>
+Als partijen voor de toepassing van het verlaagde tarief, vermeld in artikel 2.9.4.2.12, § 1, eerste lid, of artikel 2.9.4.2.12, § 1, vijfde lid, de toepassing van artikel 2.9.4.2.12, § 2, 2°, inroepen, is ook vereist dat in de verklaring, vermeld in paragraaf 1:<br>
+1° melding wordt gemaakt van de onroerende goederen die de toepassing van het verlaagde tarief, vermeld in artikel 2.9.4.2.12, § 1, eerste lid, of artikel 2.9.4.2.12, § 1, vijfde lid, verhinderen;<br>
 2° wordt gesteld dat de onroerende goederen, vermeld in punt 1°, binnen een jaar na de datum van de akte van verkrijging, al dan niet gedwongen, worden onteigend.<br>
 <br>
 Als partijen voor de toepassing van het verlaagde tarief, vermeld in artikel 2.9.4.2.14, § 1, de toepassing van artikel 2.9.4.2.14, § 5, 1°, inroepen, is ook vereist dat in de verklaring, vermeld in paragraaf 1:<br>
 1° melding wordt gemaakt van de onroerende goederen die de toepassing van het verlaagde tarief, vermeld in artikel 2.9.4.2.14, § 1, verhinderen;<br>
-2° wordt gesteld dat de verkrijger de onroerende goederen, vermeld in punt 1°, binnen een jaar na de datum van de authentieke akte van verkrijging volledig en onder bezwarende titel zal vervreemden;<br>
+2° wordt gesteld dat de verkrijger de onroerende goederen, vermeld in punt 1°, binnen twee jaar na de datum van de authentieke akte van verkrijging volledig en onder bezwarende titel zal vervreemden;<br>
 3° wordt aangetoond door de verkrijger dat er een causaal verband bestaat tussen de vervreemding, vermeld in punt 2°, en de verkrijging tegen het verlaagde tarief, vermeld in artikel 2.9.4.2.14, § 1.<br>
 <br>
 Als partijen voor de toepassing van het verlaagde tarief, vermeld in artikel 2.9.4.2.14, § 1, de toepassing van artikel 2.9.4.2.14, § 5, 2°, inroepen, is ook vereist dat in de verklaring, vermeld in paragraaf 1:<br>
 1° melding wordt gemaakt van de onroerende goederen die de toepassing van het verlaagde tarief, vermeld in artikel 2.9.4.2.14, § 1, verhinderen;<br>
 2° wordt gesteld dat de onroerende goederen, vermeld in punt 1°, binnen een jaar na de datum van de akte van verkrijging, al dan niet gedwongen, worden onteigend.<br>
+<br>
+Als de partijen de toepassing van het verlaagd tarief, vermeld in artikel 2.9.4.2.15, § 1, van dit decreet, inroepen voor de aankoop van een onbebouwd onroerend goed, wordt bij de akte, vermeld in paragraaf 1, een afschrift van de beslissing tot goedkeuring van het natuurbeheerplan als vermeld in artikel 16octies, § 1, eerste lid, 5°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu toegevoegd.<br>
 <br>
 § 4. Voor de toepassing van de vermindering, vermeld in artikel 2.8.5.0.1, moeten in de akte van schenking de voornamen, de achternaam, de woonplaats, de geboorteplaats en de geboortedatum van de kinderen van de belastingplichtige vermeld worden.<br>
 <br>
@@ -7264,7 +7313,7 @@ Een belastingverhoging van 20 % van de registratiebelasting, respectievelijk van
 4° de schenker en de begiftigden in geval van de onjuiste verklaring, vermeld in artikel 2.8.4.2.3, tweede lid;<br>
 4° /1 elk van de begiftigden die de verbintenis, vermeld in artikel 2.8.4.3.1, § 2, derde lid, niet is nagekomen;<br>
 5° de belastingplichtige die voor de toepassing van artikel 2.8.5.0.1 over het aantal afstammelingen een onjuiste verklaring heeft afgelegd;<br>
-6° de verkrijger in geval van onjuiste vermeldingen van de voorwaarden, vermeld in artikel 2.9.4.2.11, § 2, eerste lid, 1°, artikel 2.9.4.2.12, § 1, eerste lid, 1°, 2° en 3°, artikel 2.9.4.2.13, § 1, eerste lid, 1° en 2°, of artikel 2.9.4.2.14, § 1;<br>
+6° de verkrijger in geval van onjuiste vermeldingen van de voorwaarden, vermeld in artikel 2.9.4.2.11, § 2, eerste lid, 1°, artikel 2.9.4.2.12, § 1, eerste lid, 1°, 2° en 3°, artikel 2.9.4.2.12, § 1, derde lid, artikel 2.9.4.2.13, § 1, eerste lid, 1° en 2°, of artikel 2.9.4.2.14, § 1;<br>
 7° de verkrijger, als het verlaagde tarief, vermeld in artikel 2.9.4.2.11 of artikel 2.9.4.2.12, vervalt bij gebrek aan inschrijving in het bevolkingsregister of het vreemdelingenregister op het adres van het aangekochte goed binnen de termijn, vermeld in artikel 2.9.4.2.11, § 2, eerste lid, 2°, of artikel 2.9.4.2.12, § 1, eerste lid, 4° ;<br>
 7° /1 de verkrijger, als het verlaagde tarief, vermeld in artikel 2.9.4.2.11, § 1, vervalt bij gebrek aan vervreemding van de woning of de bouwgrond en waarmee voor de toepassing van artikel 2.9.4.2.11, § 2, eerste lid, 1°, geen rekening is gehouden binnen de termijn, vermeld in artikel 2.9.4.2.11, § 3, 1°;<br>
 7° /2 de verkrijger, als het verlaagde tarief, vermeld in artikel 2.9.4.2.12, § 1, vervalt bij gebrek aan tijdige uitvoering van de renovatie, vermeld in artikel 2.9.4.2.12, § 1, eerste lid, 1°, of bij gebrek aan naleving van de voorwaarde, vermeld in artikel 2.9.4.2.12, § 1, eerste lid, 2° ;<br>
