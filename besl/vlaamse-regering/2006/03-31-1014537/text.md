@@ -20,10 +20,6 @@ Binnen het Vlaams Ministerie van Welzijn, Volksgezondheid en Gezin wordt het Dep
 3° het beheren van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden;<br>
 4° het organiseren van de managementondersteunende dienstverlening van het departement, het intern verzelfstandigd agentschap Zorg en Gezondheid en het intern verzelfstandigd agentschap Jongerenwelzijn.<br>
 <br>
-De taken, vermeld in het eerste lid, 2°, hebben ook betrekking op de organisatie, de werking en de opdrachten van de justitiehuizen en van de dienst die de uitwerking en de opvolging van het elektronisch toezicht verzekert.<br>
-<br>
-De taken, vermeld in het eerste lid, 2°, hebben ook betrekking op de organisatie en de werking van de erkennings- en bemiddelingscommissie voor slachtoffers van historisch misbruik, opgericht bij artikel 3, eerste lid, van het decreet van 13 juli 2018 houdende de erkennings- en bemiddelingscommissie voor slachtoffers van historisch misbruik.<br>
-<br>
 § 2. Het departement heeft naast de taken, vermeld in paragraaf 1, ook de volgende taken:<br>
 1° het controleren, toetsen, checken, vaststellen van het concrete functioneren van de doelgroep, vermeld in artikel 2, § 2, tweede lid, met het oog op het evalueren van de conformiteit ten overstaan van de normen, zoals vervat in formele referentieteksten, in het kader van een vergunnings-, attesterings- of erkenningsprocedure, in het kader van zijn autonome voortgangscontroleopdracht of op verzoek van een afdeling van het departement of van een agentschap van het beleidsdomein Welzijn, Volksgezondheid en Gezin of in het kader van klachten over de dienstverlening van de door het departement geïnspecteerde voorzieningen;<br>
 2° de rapportering en de adviesverlening aan afdelingen van het departement en aan de agentschappen van het beleidsdomein Welzijn, Volksgezondheid en Gezin, in het kader van de taak, vermeld in punt 1° ;<br>
