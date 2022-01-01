@@ -52,30 +52,30 @@ Casemanagement kan ingezet worden als er nood is aan verduidelijking van de casu
 
 De persoon met een handicap komt in aanmerking voor bemiddeling als voldaan is aan al de volgende voorwaarden:<br>
 1° het agentschap heeft een budget ter beschikking gesteld aan de persoon met een handicap;<br>
-2° de budgethouder doet voor de besteding van het budget een beroep op hoogdrempelige individuele bijstand van een bijstandsorganisatie of heeft daar in de afgelopen twaalf maanden een beroep op gedaan;<br>
+2° de budgethouder doet voor de besteding van het budget een beroep op hoogdrempelige individuele bijstand van een bijstandsorganisatie of heeft daar in de afgelopen twaalf maanden een beroep op gedaan of een opdrachthouder consulentenwerking biedt ondersteuning conform artikel 5 van het besluit van de Vlaamse Regering van 20 juli 2018 houdende erkenning en subsidiëring van opdrachthouders Consulentenwerking;<br>
 3° de situatie van de persoon met een handicap is complex omdat expertise in verschillende disciplines nodig is, omdat er meervoudige diagnoses zijn, of omdat er een combinatie is van een handicap en bijkomende psychische problemen en gedragsproblemen.
 
 ### ART 4.
 
 Intensieve bemiddeling moet door de budgethouder worden aangevraagd bij het agentschap.<br>
 <br>
-De aanvraag voor bemiddeling wordt door de budgethouder bij het agentschap ingediend met een aanvraagformulier waarvan het model vastgesteld is door het agentschap. De budgethouder vermeldt in de aanvraag de bijstandsorganisatie die hem hoogdrempelige individuele bijstand heeft verleend en waarmee het agentschap in het kader van de intensieve bemiddeling kan samenwerken.<br>
+De aanvraag voor intensieve bemiddeling wordt door de budgethouder bij het agentschap ingediend met een aanvraagformulier waarvan het model vastgesteld is door het agentschap. De budgethouder vermeldt in de aanvraag de bijstandsorganisatie die hem hoogdrempelige individuele bijstand heeft verleend of hij vermeldt de opdrachthouder consulentenwerking, vermeld in artikel 3, 2°.<br>
 <br>
 De aanvraag kan op papier of elektronisch worden ingediend, op de wijze die het agentschap bepaalt.<br>
 <br>
 Het agentschap behandelt de aanvraag binnen dertig kalenderdagen, te rekenen vanaf de datum van de aanvraag. De datum van de aanvraag is de datum van de poststempel, of de datum waarop de aanvraag elektronisch wordt ingediend.<br>
 <br>
-Het agentschap beoordeelt of voldaan is aan al de voorwaarden, vermeld in artikel 3, en of collectieve bemiddeling, casemanagement of een combinatie van beide wordt ingezet.<br>
+Het agentschap beoordeelt of voldaan is aan al de voorwaarden, vermeld in artikel 3.<br>
 <br>
-De beslissing van het agentschap over de vraag naar intensieve bemiddeling wordt meegedeeld aan de budgethouder en de bijstandsorganisatie, vermeld in het tweede lid.<br>
+De beslissing van het agentschap over de vraag naar intensieve bemiddeling wordt meegedeeld aan de budgethouder en aan de bijstandsorganisatie of de opdrachthouder consulentenwerking, vermeld in het tweede lid.<br>
 <br>
-Als het agentschap van oordeel is dat casemanagement moet worden ingezet, deelt het agentschap zijn beslissing over de aanvraag naar intensieve bemiddeling ook mee aan de opdrachthouder consulentenwerking die moet instaan voor het casemanagement conform artikel 5.
+Het agentschap stelt vast of collectieve bemiddeling of casemanagement of een combinatie van beide wordt ingezet.
 
 ## Afdeling 2. Casemanagement
 
 ### ART 5.
 
-Casemanagement omvat bemiddeling op een intensieve en vasthoudende wijze, om voor personen met een complexe ondersteuningsnood tot een stabiele en vraaggestuurde organisatie van hun ondersteuning te komen. Daarbij wordt samengewerkt met de bijstandsorganisatie, vermeld in artikel 4, tweede lid, en op een intensieve wijze overleg gepleegd met en bemiddeld bij potentiële aanbieders van zorg en ondersteuning. Als dat nodig is, worden bijkomende methoden ingezet zoals alternatieve beeldvorming, coaching van aanbieders van zorg en ondersteuning, vorming en intervisie, het opzetten van samenwerkingsverbanden en netwerken. In voorkomend geval wordt voorzien in nazorg.
+Casemanagement omvat bemiddeling op een intensieve en vasthoudende wijze, om voor personen met een complexe ondersteuningsnood tot een stabiele en vraaggestuurde organisatie van hun ondersteuning te komen. Daarbij wordt samengewerkt met de bijstandsorganisatie als in het aanvraagformulier, vermeld in artikel 4, tweede lid, een bijstandsorganisatie is vermeld, en op een intensieve wijze overleg gepleegd met en bemiddeld bij potentiële aanbieders van zorg en ondersteuning. Als dat nodig is, worden bijkomende methoden ingezet zoals alternatieve beeldvorming, coaching van aanbieders van zorg en ondersteuning, vorming en intervisie, het opzetten van samenwerkingsverbanden en netwerken. In voorkomend geval wordt voorzien in nazorg.
 
 ### ART 6.
 
@@ -95,11 +95,7 @@ De opdrachthouders consulentenwerking maken jaarlijks een verslag op over het ca
 
 ### ART 9.
 
-Het agentschap verleent aan de opdrachthouders consulentenwerking een subsidie van maximaal 25.000 euro per jaar en per provincie als vergoeding voor het organiseren van casemanagement op basis van een beslissing van het agentschap over de inzet van casemanagement in het kader van de intensieve bemiddeling, in de gevallen, vermeld in artikel 7, tweede lid, waarin de resterende middelen van het budget van de persoon met een handicap ontoereikend zijn.<br>
-<br>
-Minstens 80 % van het subsidiebedrag, vermeld in het eerste lid, wordt aangewend voor personeelskosten. Maximaal 20 % mag worden aangewend voor werkingskosten.<br>
-<br>
-Het subsidiebedrag, vermeld in het eerste lid, is gekoppeld aan het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen. De basisindex is de spilindex die van toepassing is op 1 januari 2018. De subsidiebedragen worden telkens op 1 januari van het kalenderjaar aangepast volgens de formule: subsidiebedrag x index 1 januari kalenderjaar/basisindex 1 januari 2018.
+...
 
 ## Afdeling 3. Collectieve bemiddeling
 
@@ -116,7 +112,8 @@ Het agentschap nodigt minimaal de volgende personen, organisaties en diensten ui
 2° de bijstandsorganisatie, vermeld in artikel 4, tweede lid;<br>
 3° de vergunde zorgaanbieders die hun activiteiten uitoefenen in de zorgregio en die een antwoord kunnen bieden op de vraag naar zorg en ondersteuning van de persoon met een handicap of op een deel van de vraag;<br>
 4° de vergunde zorgaanbieders die hun activiteiten uitoefenen in een andere zorgregio en die een antwoord kunnen bieden op de vraag naar zorg en ondersteuning van de persoon met een handicap;<br>
-5° de aanbieders van zorg en ondersteuning die niet vergund of erkend zijn door het agentschap, maar die een rol kunnen spelen bij het vinden van een oplossing voor de persoon met een handicap.<br>
+5° de aanbieders van zorg en ondersteuning die niet vergund of erkend zijn door het agentschap, maar die een rol kunnen spelen bij het vinden van een oplossing voor de persoon met een handicap;<br>
+6° de opdrachthouder consulentenwerking, vermeld in artikel 4, tweede lid.<br>
 <br>
 De bijstandsorganisatie, vermeld in het eerste lid, 2°, en de vergunde zorgaanbieders, vermeld in het eerste lid, 3°, zijn aanwezig op de collectieve bemiddeling. Die aanwezigheid houdt een actieve betrokkenheid bij het overleg in en een engagement om te zoeken naar oplossingen voor de budgethouder.<br>
 <br>
