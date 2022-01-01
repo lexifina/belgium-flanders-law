@@ -36,7 +36,7 @@ Dit besluit wordt aangehaald als: Vergunningsbesluit van 22 november   2013.
 <p>De organisator heeft bovendien :<br>
 1° een risicoanalyse als vermeld in artikel 24, § 1;<br>
 2° ...<br>
-3° een bewijs van aanvraag tot advies van het lokaal bestuur van de gemeente waar de kinderopvanglocatie zich bevindt, over de uitbreiding van de kinderopvang binnen het eigen grondgebied, meer bepaald over de nog op te starten kinderopvanglocatie van de organisator. Deze verplichting geldt alleen voor de organisator van groepsopvang.</p>
+3° ....</p>
 
 <p>De startvoorwaarden, vermeld in het eerste en tweede lid, blijken uit een verklaring op erewoord van de organisator opgenomen in het aanvraagformulier van een vergunning voor kinderopvang van het agentschap.</p>
 
@@ -88,7 +88,13 @@ De organisator van gezinsopvang zorgt ervoor dat elke kinderbegeleider de   modu
 
 ### ART. 13.
 
-<P>De kinderopvanglocatie voor groepsopvang voldoet aan de specifieke   brandveiligheidsvoorschriften, vermeld in artikel 23, eerste lid.<BR></P>  <P>Dat blijkt uit een brandveiligheidsattest als vermeld in artikel 23, tweede   lid.<BR></P>
+De organisator van groepsopvang voldoet aan volgende voorwaarden:<br>
+1° de kinderopvanglocatie voor groepsopvang voldoet aan de specifieke brandveiligheidsvoorschriften, vermeld in artikel 23, eerste lid;<br>
+2° hij heeft een advies van het lokaal bestuur van de gemeente waar de kinderopvanglocatie voor groepsopvang zich bevindt, over een van de volgende elementen, rekening houdend met de lokale context:<br>
+a) de opportuniteit van de opstart van een nieuwe kinderopvanglocatie voor groepsopvang;<br>
+b) de opportuniteit van de uitbreiding van een bestaande kinderopvanglocatie met minstens negen vergunde plaatsen.<br>
+<br>
+Het voldoen aan de startvoorwaarde, vermeld in het eerste lid, 1°, blijkt uit een brandveiligheidsattest als vermeld in artikel 23, tweede lid. Het voldoen aan de startvoorwaarde, vermeld in het eerste lid, 2°, blijkt uit het advies van het lokaal bestuur, vermeld in dat punt 2°.
 
 ## HOOFDSTUK 3 Werkingsvoorwaarden
 
