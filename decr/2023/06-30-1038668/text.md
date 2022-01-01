@@ -42,6 +42,42 @@
 
 ## Afdeling 13. Herziening verdeling bedrag bijzondere salarisschalen
 
+### ART 24.
+
+In artikel III.5, §12, van de Codex Hoger Onderwijs van 11 oktober 2013, gewijzigd bij de decreten van 18 december 2020 en 8 juli 2022, worden tussen het derde en het vierde lid twee leden ingevoegd, die luiden als volgt:<br>
+<br>
+“Het bedrag bijzondere salarisschalen, vermeld in het eerste lid, wordt gedurende de begrotingsjaren 2022 tot en met 2028 volgens de volgende percentages verdeeld over de hogescholen:
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:1px solid #231f20; height:19px; vertical-align:top; width:461px">Hogeschool Gent</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:1px solid #231f20; height:19px; vertical-align:top; width:90px">31,35%</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:461px">Erasmushogeschool Brussel</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:90px">20,66%</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:461px">LUCA School of Arts</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:90px">23,17%</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:461px">Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:90px">5,11%</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:461px">Hogeschool PXL</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:90px">4,86%</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:461px">Artesis Plantijn Hogeschool Antwerpen</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:19px; vertical-align:top; width:90px">14,85%</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Met ingang van het begrotingsjaar 2023 wordt ieder jaar 1/7 van het bedrag bijzondere salarisschalen, vermeld in het eerste lid, overgedragen naar VOWhko2014.”.
+
 ## Afdeling 14. Extra werkingsbudget digitalisering Centra voor Leerlingenbegeleiding
 
 ## Afdeling 15. Extra werkingsbudget Centra voor Leerlingenbegeleiding
