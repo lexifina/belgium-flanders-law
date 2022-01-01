@@ -51,7 +51,7 @@ In dit besluit wordt verstaan onder:<br>
 <br>
 § 2. De Vlaamse minister, bevoegd voor onderwijs en vorming, en de Vlaamse minister, bevoegd voor de competenties, regelen samen het secretariaat van het Vlaams Partnerschap Duaal Leren.<br>
 <br>
-§ 3. De Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding wordt aangewezen als de dienst, vermeld in artikel 2bis, § 3, tweede lid, van het decreet van 10 juni 2016.<br>
+§ 3. Het departement wordt aangewezen als de dienst, vermeld in artikel 2bis, § 3, tweede lid, van het decreet van 10 juni 2016.<br>
 <br>
 Het Vlaams Partnerschap Duaal Leren sluit met de in het eerste lid vermelde dienst hiervoor een samenwerkingsakkoord.<br>
 <br>
