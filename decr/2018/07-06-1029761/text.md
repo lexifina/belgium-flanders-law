@@ -30,7 +30,7 @@ In dit decreet wordt verstaan onder:<br>
 13° rechthebbende: een persoon als vermeld in artikel 32 van de wet gecoördineerd op 14 juli 1994, die voldoet aan de voorwaarden om in aanmerking te komen voor een tegemoetkoming in het kader van de wet gecoördineerd op 14 juli 1994, opgenomen in die wet en in de uitvoeringsbesluiten ervan;<br>
 14° revalidatie: de diagnostiek, behandeling of ondersteuning die verleend wordt in een revalidatieziekenhuis of in een revalidatievoorziening, waarvoor de Vlaamse Gemeenschap bevoegd is conform artikel 128, § 1, van de Grondwet, met inbegrip van de opmaak van rolstoeladviesrapporten;<br>
 15° revalidatieverstrekking: de volledige therapeutische activiteit per tijdsdeel, in contact met de rechthebbende of zijn context, en de ondersteunende werking om die activiteit mogelijk te maken;<br>
-16° revalidatievoorziening: een zorgvoorziening die uitgebaat wordt door een rechtspersoon die uitsluitend de uitbating van een of meer zorgvoorzieningen als statutair doel heeft, en waarmee de Vlaamse Regering een revalidatieovereenkomst heeft gesloten;<br>
+16° revalidatievoorziening: een zorgvoorziening die uitgebaat wordt door een rechtspersoon waarmee de Vlaamse Regering een revalidatieovereenkomst heeft gesloten;<br>
 17° revalidatieziekenhuis: een zorgvoorziening voor gezondheidszorg als vermeld in artikel 5, § 1, I, eerste lid, 3° en 4°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waarin passende zorg wordt aangeboden aan patiënten van wie de gezondheidstoestand de opname of het verblijf vereisen, met als doel de gezondheidstoestand te herstellen of te verbeteren door de ziekte te bestrijden of de patiënt te revalideren;<br>
 18° sectorale adviescommissies: de commissies, vermeld in artikel 38 van het decreet van 18 mei 2018;<br>
 19° toezichthoudende autoriteit: een toezichthoudende autoriteit als vermeld in artikel 4, 21), van de algemene verordening gegevensbescherming;<br>
@@ -643,6 +643,18 @@ De Vlaamse Regering bepaalt de voorwaarden en de procedure met het oog op de vas
 
 ## [HOOFDSTUK 6. Subsidiëring (ing. decr. 18 juni 2021, art. 104, I: 1 januari 2022)]
 
+### ART 53/1.
+
+Met behoud van de toepassing van de financiering in het kader van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994 en in het kader van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden, kan de Vlaamse Regering, binnen de begrotingskredieten, subsidies verlenen aan de zorgvoorzieningen, vermeld in artikel 3 van dit decreet.<br>
+<br>
+De subsidies, vermeld in het eerste lid, mogen niet hetzelfde voorwerp hebben als financieringen in het kader van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.<br>
+<br>
+De Vlaamse Regering bepaalt de regels voor de aanvraag, de vaststelling, de toekenning en de vereffening van de subsidies.<br>
+<br>
+Bij het bepalen van de subsidie aan een zorgvoorziening legt de Vlaamse Regering de opdrachten van die zorgvoorziening vast, en desgevallend ook de personeelsformatie die ze moet inzetten, de subsidievoorwaarden waaraan ze moet voldoen, de resultaten die ze moet bereiken en de wijze waarop de subsidie verantwoord moet worden.<br>
+<br>
+Als ter uitvoering van dit decreet staatssteun in de zin van het Verdrag betreffende de werking van de Europese Unie wordt verleend aan een onderneming, wordt die staatssteun toegekend met inachtneming van het besluit 2012/21/EU van de Commissie van 20 december 2011 betreffende de toepassing van artikel 106, lid 2, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen.
+
 ## TITEL 3. Psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieziekenhuizen en -voorzieningen en multidisciplinaire -begeleidingsequipes
 
 ## HOOFDSTUK 1. Psychiatrische verzorgingstehuizen en initiatieven van beschut wonen
@@ -743,7 +755,7 @@ De Vlaamse Regering kan categorieën van rechthebbenden in psychiatrische verzor
 
 ### ART 65.
 
-De Vlaamse Regering legt de financiering en de financieringsvoorwaarden vast voor de zorgvernieuwende initiatieven, vermeld in artikel 59.
+De Vlaamse Regering kan de financiering en de financieringsvoorwaarden vastleggen voor de zorgvernieuwende initiatieven, vermeld in artikel 59.
 
 ## Afdeling 6. Tegemoetkoming voor zorg in de opnemingsprijs en de prijs per verblijfdag en aanvullende financiering buiten de tegemoetkoming
 
