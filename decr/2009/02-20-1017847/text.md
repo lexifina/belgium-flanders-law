@@ -14,9 +14,9 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 <br>
 De werkingsuitkering draagt bij in de dekking van de gewone uitgaven voor onderwijs, onderzoek, maatschappelijke en wetenschappelijke dienstverlening, de financiering van investeringen, de afbetaling van leningen en voor de administratie van de instelling, met inbegrip van de roerende uitrustingen.<br>
 <br>
-§ 2. Het bedrag van de werkingsuitkering bestemd voor de Hogere Zeevaartschool wordt vastgesteld op 4.279.000,00 euro (prijsniveau 2010). Dit bedrag is samengesteld uit :<br>
-1° een onderwijssokkel van 200.000,00 euro;<br>
-2° een variabel onderwijsdeel van 4.079.000,00 euro.<br>
+§ 2. Het bedrag van de werkingsuitkering bestemd voor de Hogere Zeevaartschool wordt vastgesteld op 5.375.631,00 euro (prijsniveau 2021). Dit bedrag is samengesteld uit :<br>
+1° een onderwijssokkel van 2.000.000,00 euro;<br>
+2° een variabel onderwijsdeel van 3.375.631,00 euro.<br>
 <br>
 Het bedrag, bestemd voor de uitbetaling van de verhoging van het vakantiegeld ter uitvoering van CAO II hoger onderwijs, wordt toegevoegd aan het bedrag van de werkingsuitkering.<br>
 <br>
