@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036912,
+  "title": "Ministerieel besluit van 2022-02-23 tot vastlegging van het totale aantal voltijdse equivalenten per erkende dienst maatschappelijk werk van het ziekenfonds voor 2022",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036912/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "269f3311345191d3f3bf2edfffb6be7ae625b45755b39a419d1ca88776f041b9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036912&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2022-02-23",
+  "gazette": "2022-04-14",
+  "numac": 2022020417,
+  "document_start": "2022-01-01",
+  "document_end": "2022-12-31",
+  "in_force": "2022-01-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
