@@ -24,10 +24,10 @@ Besluit :<br>
 In dit besluit wordt verstaan onder:<br>
 1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie;<br>
 1°/1 bijzonder reglement: het bijzonder reglement van 2 september 1997 tot vaststelling van de wijze waarop het Fonds voor Collectieve Uitrustingen en Diensten de opbrengst van de ontvangen bijdragen toewijst aan de toekenning van subsidies voor projecten voor de opvang van kinderen van 2,5 tot 12 jaar en sommige projecten voor de opvang van kinderen van 0 tot 3 jaar;<br>
-2° erkenning voor buitenschoolse groepsopvang : een buitenschoolse opvanglocatie voor groepsopvang met een erkenning op basis van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
+2° ...;<br>
 3° koninklijk besluit van 19 augustus 1997: het koninklijk besluit van 19 augustus 1997 tot vaststelling van de wijze waarop het Fonds voor collectieve uitrustingen en diensten de opbrengst van de ontvangen bijdragen toewijst aan de toekenning van subsidies voor projecten voor de opvang van kinderen van 2,5 tot 12 jaar en sommige projecten voor de opvang van kinderen van 0 tot 3 jaar;<br>
-4° project FCUD: een organisator van buitenschoolse opvang en opvang zieke kinderen, die in 2014 gesubsidieerd is met toepassing van het koninklijk besluit van 19 augustus 1997 en het bijzonder reglement;<br>
-5° project gesco: een organisator van kinderopvang, buitenschoolse opvang of opvang van zieke kinderen, die in 2014 gesubsidieerd is met toepassing van het besluit van de Vlaamse Regering van 27 oktober 1993 houdende uitvoering van het koninklijk besluit nr. 474 van 28 oktober 1986 tot opzetting van een stelsel van door de Staat gesubsidieerde contractuelen bij sommige plaatselijke besturen;<br>
+4° project FCUD: een organisator van opvang zieke kinderen, die in 2014 gesubsidieerd is met toepassing van het koninklijk besluit van 19 augustus 1997 en het bijzonder reglement;<br>
+5° project gesco: een organisator van kinderopvang of opvang van zieke kinderen, die in 2014 gesubsidieerd is met toepassing van het besluit van de Vlaamse Regering van 27 oktober 1993 houdende uitvoering van het koninklijk besluit nr. 474 van 28 oktober 1986 tot opzetting van een stelsel van door de Staat gesubsidieerde contractuelen bij sommige plaatselijke besturen;<br>
 6° subsidie voor initiatief buitenschoolse opvang: een subsidie voor initiatief buitenschoolse opvang als vermeld in artikel 19 tot en met artikel 31 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014.<br>
 &nbsp;
 
@@ -42,10 +42,6 @@ Het agentschap kent met ingang van 1 januari 2016 een subsidie toe:<br>
 a) de voorwaarden, vermeld in het koninklijk besluit 19 augustus 1997 en het bijzonder reglement;<br>
 b) het project FCUD heeft minstens 80% bezetting per kalenderjaar. Voor de berekening van de bezetting geldt het aantal aanwezigheidsdagen als basis;<br>
 c) het project FCUD bezorgt de aanwezigheidsdagen, de inkomsten, de uitgaven en het bewijs van effectieve tewerkstelling van de personeelsleden met het vroegere FCUD-statuut aan het agentschap, volgens de administratieve richtlijnen van Kind en Gezin.<br>
-<br>
-Voor een project FCUD dat als enige opvangactiviteit buitenschoolse opvang heeft, geldt de voorwaarde, vermeld in het eerste lid, 3°, niet, maar geldt als voorwaarde dat de subsidie, vermeld in het eerste lid, 2°, ingezet wordt op een opvanglocatie met een erkenning voor buitenschoolse groepsopvang en die voldoet aan de voorwaarden voor een subsidie voor initiatief buitenschoolse opvang.<br>
-<br>
-Voor een project FCUD dat als enige activiteit regionale coördinatie van buitenschoolse opvang heeft, stopt de subsidie met ingang van 1 januari 2019. Voor een project FCUD dat niet als enige activiteit regionale coördinatie van buitenschoolse opvang heeft, wordt de subsidie voor die regionale coördinatie van buitenschoolse opvang stopgezet met ingang van 1 januari 2019.<br>
 &nbsp;
 
 ## HOOFDSTUK 3 Project gesco
@@ -63,8 +59,6 @@ a) het project gesco behoudt het aantal voltijdsequivalenten, vermeld in punt 2�
 b) het project gesco bezorgt het bewijs van effectieve tewerkstelling van het aantal voltijdsequivalenten, vermeld in punt 2°, c), aan het agentschap, volgens de administratieve richtlijnen van het agentschap.<br>
 <br>
 De elementen, vermeld in het eerste lid, 2°, a) tot en met c), kunnen toegekend worden op voorwaarde dat de nodige gegevens daarvoor bezorgd zijn en dat het project geregulariseerd is conform het besluit van de Vlaamse Regering van 18 december 2015 tot regularisatie en uitdoving van arbeidsplaatsen van gesubsidieerde contractuelen die zijn tewerkgesteld met een overeenkomst als vermeld in artikel 1, 12°, 14°, 15° en 36°, van het besluit van de Vlaamse Regering van 27 oktober 1993 tot veralgemening van het stelsel van gesubsidieerde contractuelen, en artikel 1, 13°, van het besluit van de Vlaamse Regering van 27 oktober 1993 houdende uitvoering van het koninklijk besluit nr. 474 van 28 oktober 1986 tot opzetting van een stelsel van door de Staat gesubsidieerde contractuelen bij sommige plaatselijke besturen.<br>
-<br>
-Voor een project gesco dat als enige opvangactiviteit buitenschoolse opvang heeft, geldt bovenop de voorwaarden, vermeld in het eerste lid, 3°, dat het personeel ingezet wordt op een opvanglocatie met een erkenning voor buitenschoolse groepsopvang en die voldoet aan de voorwaarden voor een subsidie voor initiatief buitenschoolse opvang.<br>
 &nbsp;
 
 ## HOOFDSTUK 4 Gemeenschappelijke bepalingen
