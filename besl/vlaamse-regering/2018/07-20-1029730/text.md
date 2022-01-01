@@ -51,7 +51,8 @@ Consulentenwerking omvat de volgende activiteiten:<br>
 1° een probleemanalyse en beeldvorming uitvoeren bij vastgelopen situaties met als doel dat de persoon met een handicap of met een vermoeden van handicap door de ondersteuning vanuit de consulentenwerking in de reguliere woon- en leefsituatie kan blijven of er zo snel mogelijk kan terugkeren, of doorverwezen wordt naar meer gepaste ondersteuning;<br>
 2° een begeleidingsplan opmaken met handvaten rond aanpak en nodige aanpassingen;<br>
 3° ondersteuning bieden bij de implementatie van de adviezen van het begeleidingsplan en vervolgondersteuning bieden als dat aangewezen is;<br>
-4° zorgen voor kennisoverdracht aan andere professionelen uit diverse sectoren.<br>
+4° zorgen voor kennisoverdracht aan andere professionelen uit diverse sectoren;<br>
+5° bemiddeling organiseren zodat er daadwerkelijk ondersteuning op maat wordt gerealiseerd. In dat kader kan een beroep gedaan worden op het agentschap om het bemiddelingstraject te faciliteren.<br>
 <br>
 Consulentenwerking betrekt alle relevante actoren uit de omgeving van de gebruiker bij de uitvoering van de activiteiten, vermeld in het eerste lid.<br>
 <br>
@@ -77,18 +78,21 @@ Als de persoon met een handicap of met een vermoeden van handicap zijn woonplaat
 
 ### ART 9.
 
-Het agentschap kent aan een opdrachthouder Consulentwerking een subsidie van maximaal 30.000 euro (dertigduizend euro) per jaar toe.<br>
+Het agentschap kent aan een opdrachthouder Consulentwerking een subsidie van maximaal 57.750 euro (zevenvijftigduizend zevenhonderdvijftig euro) per jaar toe.<br>
 <br>
 Het subsidiebedrag, vermeld in het eerste lid, wordt op de volgende wijze uitbetaald:<br>
-1° 80% van het subsidiebedrag, vermeld in het eerste lid, wordt betaald in de tweede maand van het kalenderjaar waarop het subsidiebedrag betrekking heeft;<br>
-2° 20% van het subsidiebedrag wordt betaald in de maand april van het jaar dat volgt op het kalenderjaar waarop het subsidiebedrag betrekking heeft, nadat het agentschap het jaarverslag, vermeld in artikel 10, heeft goedgekeurd.<br>
+1° 80% van het subsidiebedrag wordt betaald in de tweede maand van het kalenderjaar waarop het subsidiebedrag betrekking heeft;<br>
+2° 20% van het subsidiebedrag wordt betaald in de maand april van het jaar dat volgt op het kalenderjaar waarop het subsidiebedrag betrekking heeft, nadat het agentschap het jaarverslag, vermeld in artikel 10 van dit besluit, heeft goedgekeurd, en, als de subsidie wordt aangewend conform het derde lid, 4°, nadat het agentschap het jaarverslag, vermeld in artikel 8 van het besluit van de Vlaamse Regering van 20 juli 2018 over de bemiddeling, de afstemming en de planning in het kader van persoonsvolgende financiering voor meerderjarige personen met een handicap heeft goedgekeurd.<br>
 <br>
 Een subsidie als vermeld in het eerste lid, kan worden aangewend voor:<br>
 1° personeelskosten voor de coördinatie van de consulentenwerking;<br>
-2° de vergoeding van de leden van het netwerk, vermeld in artikel 7;<br>
-3° de uitvoering van activiteiten als vermeld in artikel 5<br>
+2° de vergoeding van de leden van het netwerk, vermeld in artikel 7 van dit besluit;<br>
+3° de uitvoering van activiteiten als vermeld in artikel 5, eerste lid van dit besluit;<br>
+4° de vergoeding van casemanagement als vermeld in artikel 5 van het besluit van de Vlaamse Regering van 20 juli 2018 over de bemiddeling, de afstemming en de planning in het kader van persoonsvolgende financiering voor meerderjarige personen met een handicap, als het budget van de persoon met een handicap ontoereikend is om het casemanagement te vergoeden conform artikel 7, tweede lid, van het voormelde besluit.<br>
 <br>
-Het maximale subsidiebedrag, vermeld in het eerste lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met het gezondheidsindexcijfer, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, conform de volgende formule: subsidiebedrag x G-index december 20.. / G-index van de maand vóór de maand waarin dit besluit in werking treedt.
+Minstens 80% van het subsidiebedrag, vermeld in het eerste lid, wordt aangewend voor personeelskosten. Maximaal 20% mag worden aangewend voor werkingskosten.<br>
+<br>
+Het maximale subsidiebedrag, vermeld in het eerste lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de afgevlakte gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, conform de volgende formule: het maximale geïndexeerde subsidiebedrag van het voorgaande jaar x G-index van december van het voorgaande jaar/G-index van december van het jaar daarvoor.
 
 ### ART 10.
 
