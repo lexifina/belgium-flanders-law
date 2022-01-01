@@ -200,13 +200,11 @@ De persoonsgegevens voorzien in het eerste lid worden bewaard tot vijf jaar na d
 
 ### ART 15.
 
-De Vlaamse Regering keurt een overgangsplan goed voor een periode van zes jaar, te rekenen vanaf de inwerkingtreding van dit artikel, met de mogelijkheid tot tussentijdse bijsturing. Het overgangsplan heeft minstens betrekking op de volgende elementen:<br>
-1° een budgettaire meerjarenplanning;<br>
-2° de bepaling van wetenschappelijk onderbouwde indicatoren om artikel 12, eerste lid, 3° en 4°, te operationaliseren.<br>
+Het lokaal bestuur geeft in zijn meerjarenplanning aan wat de gekozen beleidsopties zijn met betrekking tot het continueren van het aanbod van kleuteropvang en opvang lager onderwijs na afloop van de overgangstermijn, vermeld in artikel 17, eerste lid.<br>
 <br>
-Het lokaal bestuur geeft in zijn meerjarenplanning aan wat de gekozen beleidsopties zijn om de continuïteit van het aanbod van kleuteropvang en opvang lager onderwijs tijdens de overgangstermijn zo veel mogelijk te verzekeren.<br>
+Na afloop van de overgangstermijn, vermeld in artikel 17, eerste lid, wordt minstens 75% van de toegekende subsidie, vermeld in artikel 12, aan de realisatie van het aanbod van kleuteropvang en opvang lager onderwijs besteed. Dit gedurende een periode van zes jaar.<br>
 <br>
-Als de Vlaamse Regering gedurende de overgangstermijn een subsidie, vermeld in artikel 12, toekent aan lokale besturen, dan wordt de bestaande subsidie, vermeld in artikel 17, eerste lid, daarin verrekend.
+De Vlaamse Regering bepaalt, voor wat het tweede lid betreft, de nadere regels, minstens de manier waarop het lokaal bestuur deze opdracht opneemt en hierover rapporteert en wat verstaan wordt onder de realisatie van het aanbod van kleuteropvang en opvang lager onderwijs
 
 ### ART 16.
 
@@ -216,7 +214,7 @@ De Vlaamse Regering bepaalt de nadere regels, minstens hoe de verrekening gebeur
 
 ### ART 17.
 
-De organisator die een subsidie als vermeld in de onderstaande besluiten ontvangt, behoudt die subsidie gedurende een overgangstermijn van zes jaar:<br>
+De organisator die een subsidie voor aanbod buitenschoolse opvang als vermeld in de onderstaande besluiten ontvangt, behoudt die subsidie gedurende een overgangstermijn van 1 januari 2021 tot en met 31 december 2025:<br>
 1° het besluit van de Vlaamse Regering van 16 mei 2014 houdende de subsidievoorwaarden voor buitenschoolse gezinsopvang en groepsopvang;<br>
 2° het besluit van de Vlaamse Regering van 15 juli 2016 betreffende subsidiëring van projecten vanuit het vroegere Fonds voor Collectieve Uitrusting en Diensten en voor personeelsleden met een gewezen gescostatuut;<br>
 3° het besluit van de Vlaamse Regering van 27 november 2015 houdende de voorwaarden voor de erkenning en de subsidiëring van gemandateerde voorzieningen, coördinatiepunten en flexibele opvangpools van doelgroepwerknemers, de voorwaarden voor de toestemming en de subsidiëring van lokale diensten buurtgerichte buitenschoolse opvang, en de voorwaarden voor een aanvullende subsidie voor organisatoren met een vergunning groepsopvang en een plussubsidie;<br>
@@ -229,6 +227,16 @@ Gedurende de overgangstermijn, die eventueel wordt verkort op een wijze als verm
 Het blijft mogelijk voor een organisator of een kandidaat-organisator om, na overleg met het lokaal bestuur en op voorwaarde van onderlinge toestemming, de gesubsidieerde activiteit volledig of gedeeltelijk over te nemen van een andere organisator.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels die van toepassing zijn gedurende de overgangstermijn, minstens met betrekking tot kwetsbare gezinnen en kinderen met een specifieke zorgbehoefte, en met betrekking tot de eventuele inkorting van de overgangstermijn, vermeld in het tweede lid.
+
+### ART 17/1.
+
+Na afloop van de overgangstermijn, vermeld in artikel 17, eerste lid, krijgen de lokale besturen van de gemeenten die een substantieel subsidieverlies lijden ten opzichte van de subsidies die op grond van artikel 17, eerste lid, aan de organisatoren werden verleend, een gedeeltelijke compensatie. Dit gedurende een periode van vier jaar.<br>
+<br>
+Van het totale beschikbare budget voor de subsidie, vermeld in artikel 12, wordt 10% ingezet voor deze compensatie.<br>
+<br>
+Na afloop van de overgangstermijn, vermeld in artikel 17, eerste lid, worden de indicatoren, vermeld in artikel 12, eerste lid, 3° en 4°, niet toegepast bij de bepaling van het subsidiebedrag, maar wordt het subsidiebedrag wel mee gebaseerd op het kansarmoedepercentage in verhouding tot het aantal gezinnen binnen de gemeente. Dit gedurende een periode van vier jaar.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels, minstens de uitwerking van de compensatieregeling en wat verstaan wordt onder het kansarmoedepercentage, vermeld in het derde lid.
 
 ## Afdeling 2. Wijzigingsbepalingen
 
