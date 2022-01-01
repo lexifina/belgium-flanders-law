@@ -76,9 +76,9 @@ De Vlaamse Regering legt voor de sectoren, vermeld in artikel 9, 1°, 3°, 4° e
 
 ### ART. 13.
 
-De middelen, aangevuld met indexering, die voor de aanvullende subsidie voor tewerkstelling beschikbaar zijn voor de organisaties, vermeld in bijlage 1, die bij dit decreet is gevoegd, worden vanaf het werkingsjaar 2022 overgeheveld naar de begrotingsartikelen bestemd voor het Kunstendecreet van 13 december 2013 en overeenkomstig de bepalingen van dat decreet toegekend en verantwoord.<br>
+De middelen, aangevuld met indexering, die voor de aanvullende subsidie voor tewerkstelling beschikbaar zijn voor de organisaties, vermeld in bijlage 1, die bij dit decreet is gevoegd, worden vanaf het werkingsjaar 2023 overgeheveld naar de begrotingsartikelen bestemd voor het&nbsp;Kunstendecreet van 23 april 2021 en overeenkomstig de bepalingen van dat decreet toegekend en verantwoord.<br>
 <br>
-In de werkingsjaren 2019, 2020 en 2021 gelden voor de organisaties, vermeld in bijlage 1, de volgende overgangsmaatregelen:<br>
+In de werkingsjaren&nbsp;2019, 2020, 2021 en 2022 gelden voor de organisaties, vermeld in bijlage 1, de volgende overgangsmaatregelen:<br>
 1° de middelen die voor de aanvullende subsidie voor tewerkstelling beschikbaar zijn, worden toegevoegd aan de subsidies die zij voor het geheel van hun werking ontvangen op basis van het Kunstendecreet van 13 december 2013. In afwijking van de artikelen 5 en 6, is de maximale hoogte van die middelen per organisatie vastgelegd zoals vermeld in bijlage 1, die bij dit decreet is gevoegd. Deze middelen worden geïndexeerd met als basis het werkingsjaar 2017;<br>
 2° de middelen die voor de aanvullende subsidie voor tewerkstelling beschikbaar zijn, kunnen enkel aangewend worden voor de betaling van de loonkosten van een personeelslid tewerkgesteld op een geregulariseerde DAC-arbeidsplaats binnen de organisatie;<br>
 3° om de aanvullende subsidie voor tewerkstelling voor het betrokken werkingsjaar te kunnen behouden, moet de organisatie gedurende het volledige werkingsjaar de toegekende voltijdse equivalenten (VTE) tewerkgesteld hebben. De voltijdse equivalenten per organisatie zijn vermeld in bijlage 1, die bij dit decreet is gevoegd;<br>
