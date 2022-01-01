@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037151,
+  "title": "Ministerieel besluit van 2022-05-23 tot uitbetaling van een subsidie aan Rendac bv als tegemoetkoming in de ophaal- en verwerkingskosten van krengen van landbouwdieren bij veehouders voor 2022",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037151/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "eaefabb4fadab5b18d47515b07111e706e8573e996289b4751283de4aed15863",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037151&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2022-05-23",
+  "gazette": "2022-06-17",
+  "numac": 2022041588,
+  "document_start": "2022-01-01",
+  "document_end": "2022-12-31",
+  "in_force": "2022-01-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
