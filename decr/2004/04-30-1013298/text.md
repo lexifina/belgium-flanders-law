@@ -66,7 +66,7 @@ Dit decreet regelt zowel een gewest- als een gemeenschapsaangelegenheid.
 55° de doelgroepverminderingen, vermeld in titel IV, hoofdstuk 7, afdeling 3, onderafdeling 1 tot en met 3, onderafdeling 5, 5bis, 7, en 10 tot en met 15, van de programmawet (I) van 24 december 2002;<br>
 56° de jongerenbonus non-profit, bepaald in artikelen 79 tot en met 86 van de wet van 23 december 2005 betreffende het generatiepact;<br>
 57° de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers;<br>
-58° de wet van 19 februari 1965 betreffende de uitoefening van de zelfstandige beroepsactiviteiten der vreemdelingen;<br>
+58° het decreet van 15 oktober 2021 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen;<br>
 59° de toekenning van transitiepremies voor ondernemers, vermeld in artikel 3 van het decreet van 22 december 2017 houdende een premie om de transitie van werkzoekenden naar ondernemerschap te stimuleren.<br>
 60° de opleidingscheques voor werknemers, vermeld in artikel 2 van het decreet van 22 maart 2019 betreffende de opleidingscheques voor werknemers, de invoering van een registratieverplichting voor sportmakelaars en tot wijziging van diverse andere bepalingen inzake het beleidsdomein Werk en Sociale Economie.<br>
 <br>
@@ -406,18 +406,18 @@ b) hebben gebruikgemaakt van die gegevens, terwijl ze weten dat de aldus verkreg
 
 ### ART 13/4.
 
-§ 1. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op de wet van 19 februari 1965 betreffende de uitoefening van zelfstandige beroepsactiviteiten der vreemdelingen en de uitvoeringsbesluiten ervan aan een vreemdeling een administratieve geldboete opgelegd worden van 500 tot 5000 euro als hij :<br>
-1° een zelfstandige activiteit uitoefent zonder in het bezit te zijn van een beroepskaart;<br>
-2° een zelfstandige activiteit uitoefent zonder de grenzen of de voorwaarden van de beroepskaart te respecteren;<br>
-3° een zelfstandige activiteit uitoefent niettegenstaande de staking van de bedrijvigheid is gelast of de sluiting van de geëxploiteerde zaak is bevolen.
+Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het decreet van 15 oktober 2021 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen en de uitvoeringsbesluiten ervan aan de buitenlandse onderdaan een administratieve geldboete van 500 tot 5000 euro opgelegd worden:<br>
+1° hij oefent een zelfstandige beroepsactiviteit uit zonder in het bezit te zijn van een beroepskaart;<br>
+2° hij oefent een zelfstandige beroepsactiviteit uit zonder de grenzen of de voorwaarden van de beroepskaart te respecteren;<br>
+3° hij oefent een zelfstandige beroepsactiviteit uit niettegenstaande de staking van de bedrijvigheid is gelast of de sluiting van de geëxploiteerde zaak is bevolen.
 
 ### ART 13/5.
 
-§ 1. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kunnen voor de volgende inbreuken op de wet van 19 februari 1965 betreffende de uitoefening van zelfstandige beroepsactiviteiten der vreemdelingen en de uitvoeringsbesluiten ervan de volgende personen een administratieve geldboete van 1800 euro tot 18.000 euro krijgen :<br>
-1° een vreemdeling die in strijd met de bepalingen van deze wet en de uitvoeringsbesluiten ervan een zelfstandige activiteit uitoefent zonder toegelaten of gemachtigd te zijn tot een verblijf van meer dan drie maanden of tot vestiging in België;<br>
-2° een vreemdeling die door listige kunstgrepen aan te wenden een beroepskaart onrechtmatig verkrijgt of in zijn bezit heeft;<br>
-3° eenieder die wetens en willens onjuiste of onvolledige verklaringen heeft afgelegd of onjuiste documenten heeft bezorgd, om een beroepskaart ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
-4° eenieder die wetens en willens heeft nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die hij gehouden is te verstrekken, om een beroepskaart ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden.
+Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kunnen voor de volgende inbreuken op het decreet van 15 oktober 2021 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen en de uitvoeringsbesluiten ervan de volgende personen een administratieve geldboete van 1800 euro tot 18.000 euro krijgen:<br>
+1° een buitenlandse onderdaan die in strijd met de bepalingen van dit decreet en de uitvoeringsbesluiten ervan een zelfstandige beroepsactiviteit uitoefent zonder toegelaten of gemachtigd te zijn tot een verblijf van meer dan drie maanden of tot vestiging in België;<br>
+2° een buitenlandse onderdaan die een beroepskaart onrechtmatig verkrijgt of in zijn bezit heeft;<br>
+3° eenieder die onjuiste of onvolledige verklaringen heeft afgelegd of onjuiste documenten heeft bezorgd, om een beroepskaart ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+4° eenieder die heeft nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die hij gehouden is te verstrekken, om een beroepskaart ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden.
 
 ### ART 13/6.
 
@@ -462,7 +462,9 @@ b) hebben gebruikgemaakt van die gegevens, terwijl ze weten dat de aldus verkreg
 
 ### ART. 14.
 
-Wanneer de inbreuk door zijn aangestelde of lasthebber is begaan, is de administratieve geldboete alleen op het opleidingscentrum, de werkgever of, in voorkomend geval, de gebruiker, van toepassing.
+Wanneer de inbreuk door zijn aangestelde of lasthebber is begaan, is de administratieve geldboete alleen op het opleidingscentrum, de werkgever of, in voorkomend geval, de gebruiker, van toepassing.<br>
+<br>
+De rechtspersoon is hoofdelijk gehouden tot het betalen van de administratieve geldboete die opgelegd is aan zijn werkende vennoten of mandatarissen op basis van artikel 13/4 en 13/5 van dit decreet, als de inbreuk een intrinsiek verband heeft met de verwezenlijking van zijn doel of de waarneming van zijn belangen, of als de inbreuk voor zijn rekening is gepleegd.
 
 ### ART. 15.
 
