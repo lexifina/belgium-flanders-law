@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036030,
+  "title": "Besluit van de Vlaamse Regering van 2021-07-09 tot vaststelling van de wijze van communicatie tussen de Vlaamse Gemeenschapscommissie en de Vlaamse Regering in het kader van bestuurlijk toezicht en tot vaststelling van de digitale rapportering over de gegevens van de beleidsrapporten van de Vlaamse Gemeenschapscommissie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036030/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "c54aeab32b975197c6e86e5db8b30a56c712282ad3943df47edd87aebb0f8d69",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036030&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2021-07-09",
+  "gazette": "2021-09-09",
+  "numac": 2021032697,
+  "document_start": "2022-01-01",
+  "document_end": null,
+  "in_force": "2022-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
