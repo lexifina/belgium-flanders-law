@@ -33,6 +33,10 @@ Aan artikel 5 van het besluit van de Vlaamse Regering van 21 april 2017 betreffe
 <br>
 In afwijking van het derde lid vindt voor het schooljaar 2020-2021 de periode van tien weken waarin de eerste periode van verstrekking gebeurt, plaats van 1 september 2020 tot en met 30 juni 2021, en vindt de periode van tien weken waarin de tweede periode van verstrekking gebeurt, plaats van 1 januari 2021 tot en met 30 juni 2021.".
 
+### ART 2.
+
+In artikel 5 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 20 juli 2018 en dit besluit, worden het vijfde en het zesde lid opgeheven.
+
 ### ART 3.
 
 Artikel 2 treedt in werking op 1 januari 2022.
