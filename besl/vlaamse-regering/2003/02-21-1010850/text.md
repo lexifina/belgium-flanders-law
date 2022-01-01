@@ -22,7 +22,14 @@ De dienst-, niveau- en schaalancienniteit worden uitgedrukt in jaren en volle ka
 
 ### ART. 5.
 
-§ 1. De salarisschalen bestaan uit:<br /><br />1° een minimumsalaris;<br /><br />2° salaristrappen die het resultaat zijn van tussentijdse salarisverhogingen;<br /><br />3° een maximumsalaris.<br /><br />§ 2. De personeelsleden die de minimumleeftijd van de salarisschaal nog niet hebben bereikt, ontvangen het minimumsalaris.
+§ 1. De salarisschalen bestaan uit:<br>
+1° een minimumsalaris;<br>
+2° salaristrappen die het resultaat zijn van tussentijdse salarisverhogingen;<br>
+3° een maximumsalaris.<br>
+<br>
+§ 2. De personeelsleden die de minimumleeftijd van de salarisschaal nog niet hebben bereikt, ontvangen het minimumsalaris.<br>
+<br>
+Voor de personeelsleden die vanaf 1 januari 2022 voor het eerst in dienst treden, geldt geen minimumleeftijd meer. De minimumleeftijden, vermeld in de bijlage die bij dit besluit is gevoegd, zijn niet op hen van toepassing.
 
 ### ART. 6.
 
@@ -72,4 +79,203 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/12/11_1.pdf#page=45">Tabel loopbaanstructuur met graden en salarisschalen van het administratief en technisch personeel</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/12/11_1.pdf#page=45">Tabel loopbaanstructuur met graden en salarisschalen van het administratief en technisch personeel</a><br>
+<br>
+* Bij besluit van de Vlaamse Regering van 22 april 2022, BS 22 september 2022, worden met ingang van 1 januari 2022, de volgende wijzigingen aangebracht aan de bijlage:<br>
+<br>
+1° de rij
+<table border="1">
+	<tbody>
+		<tr>
+			<td>D1</td>
+			<td>D11 (574)</td>
+			<td>18 jaar</td>
+			<td>13.744,00</td>
+			<td>17.171,64</td>
+			<td>3 x 1: 151,30<br>
+			10 x 2: 270,34<br>
+			1 x 13: 270,34</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+wordt vervangen door de rij
+<table border="1">
+	<tbody>
+		<tr>
+			<td>D1</td>
+			<td>D11 (574)</td>
+			<td>18 jaar</td>
+			<td>14.197,90</td>
+			<td>17.171,64</td>
+			<td>1 x 4 : 270,34 9 x 2 : 270,34<br>
+			1 x 13 : 270,34</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+2° de rij
+<table border="1">
+	<tbody>
+		<tr>
+			<td>D1</td>
+			<td>D12 (575)</td>
+			<td>18 jaar</td>
+			<td>14.009,26</td>
+			<td>19.195,86</td>
+			<td>3 x 1: 151,30<br>
+			13 x 2: 338,05 1 x 7: 338,05</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+wordt vervangen door de rij
+<table border="1">
+	<tbody>
+		<tr>
+			<td>D1</td>
+			<td>D12 (575)</td>
+			<td>18 jaar</td>
+			<td>14.463,16</td>
+			<td>19.195,86</td>
+			<td>1 x 4 : 338,05<br>
+			12 x 2 : 338,05 1 x 7 : 338,05</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+3° de rij
+<table border="1">
+	<tbody>
+		<tr>
+			<td>C1</td>
+			<td>C11 (577)</td>
+			<td>20 jaar</td>
+			<td>14.644,68</td>
+			<td>19.589,08</td>
+			<td>3 x 1: 288,70 2 x 2: 337,07 8 x 2: 378,24<br>
+			1 x 13: 378,24</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+wordt vervangen door de rij
+<table border="1">
+	<tbody>
+		<tr>
+			<td>C1</td>
+			<td>C11 (577)</td>
+			<td>20 jaar</td>
+			<td>15.510,78</td>
+			<td>19.589,08</td>
+			<td>1 x 4 : 337,07 1 x 2 : 337,07 8 x 2 : 378,24<br>
+			1 x 13 : 378,24</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+* Bij besluit van de Vlaamse Regering van 2 december 2022, worden met ingang van 1 januari 2022, de volgende wijzigingen aangebracht aan de bijlage:<br>
+<br>
+1° de rij<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:56px">D1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:94px">D11 (574)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:76px">18 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:95px">14.197,90</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:94px">17.171,64</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:136px">&nbsp; 1 x 4 : 270,34<br>
+			&nbsp; 9 x 2 : 270,34<br>
+			1 x 13 : 270,34</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+wordt vervangen door de rij<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:56px">D1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:94px">D11 (574)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:76px">18 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:95px">14.197,90</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:94px">17.171,64</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:136px">&nbsp; 1 x 5 : 270,34<br>
+			&nbsp; 9 x 2 : 270,34<br>
+			1 x 13 : 270,34</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+2° de rij<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:56px">D1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:94px">D12 (575)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:76px">18 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:95px">14.463,16</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:94px">19.195,86</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:136px">&nbsp; 1 x 4 : 338,05<br>
+			12 x 2 : 338,05<br>
+			&nbsp; 1 x 7 : 338,05</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+wordt vervangen door de rij<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:56px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:94px">D12 (575)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:76px">18 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:95px">14.463,16</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:94px">19.195,86</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:136px">&nbsp; 1 x 5 : 338,05<br>
+			12 x 2 : 338,05<br>
+			&nbsp; 1 x 7 : 338,05</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+3° de rij<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:56px">C1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:94px">C11 (577)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:76px">20 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:95px">15.510,78</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:94px">19.589,08</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:136px">&nbsp; 1 x 4 : 337,07<br>
+			&nbsp; 1 x 2 : 337,07<br>
+			&nbsp; 8 x 2 : 378,24<br>
+			1 x 13 : 378,24</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+wordt vervangen door de rij<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:56px">C1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:94px">C11 (577)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:76px">20 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:95px">15.510,78</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:94px">19.589,08</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:136px">&nbsp; 1 x 5 : 337,07<br>
+			&nbsp; 1 x 2 : 337,07<br>
+			&nbsp; 8 x 2 : 378,24<br>
+			1 x 13 : 378,24</td>
+		</tr>
+	</tbody>
+</table>
