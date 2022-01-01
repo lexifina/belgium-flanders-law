@@ -2101,10 +2101,13 @@ De Vlaamse Regering kan, binnen de perken van de kredieten die daarvoor op de be
 
 ### ART 4.62.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Om zijn opdrachten uit te voeren kan het VWF alle onroerende en roerende verrichtingen realiseren die daartoe rechtstreeks of onrechtstreeks bijdragen. Bedoeld worden onder meer:</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">1° onroerende goederen huren, kopen of ruilen of er andere zakelijke rechten op verwerven;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">2° deze onroerende goederen renoveren, vervangen of bebouwen en ze vervolgens verhuren, onderverhuren of er zakelijke rechten op afstaan;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">3° bijzondere sociale leningen toestaan.</span></span></span></span></p>
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Om zijn opdrachten uit te voeren kan het VWF alle onroerende en roerende verrichtingen realiseren die daartoe rechtstreeks of onrechtstreeks bijdragen. Bedoeld worden onder meer:</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">1° onroerende goederen huren, kopen of ruilen of er andere zakelijke rechten op verwerven;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">2° deze onroerende goederen renoveren, vervangen of bebouwen en ze vervolgens verhuren, onderverhuren of er zakelijke rechten op afstaan;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">3° bijzondere sociale leningen toestaan.<br>
+4° na goedkeuring door de Vlaamse Regering, het verder afhandelen van aanvullende woonleningen die de provincies hebben toegekend voor het kopen, bouwen en verbouwen van woningen in het Vlaamse Gewest.<br>
+<br>
+Het VWF dat volgens het eerste lid, 4°, optreedt als kredietgever wordt toegelaten om op te treden als kredietgever inzake consumentenkrediet als vermeld in artikel VII.159, § 1 en § 2, van het Wetboek van Economisch Recht.</span></span></span></p>
 
 ### ART 4.63.
 
@@ -2259,7 +2262,7 @@ De Vlaamse Regering kan, binnen de perken van de kredieten die daarvoor op de be
 <span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">b) de verhuring van andere woningen dan sociale woningen krachtens boek 6, met het oog op het bereiken van het bindend sociaal objectief, vermeld in artikel 2.28;</span></span></span><br>
 <span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">c) de verkoop van andere woningen en kavels dan sociale woningen en kavels met toepassing van artikel 5.91, met het oog op het bereiken van het bindend sociaal objectief, vermeld in artikel 2.27;</span></span></span><br>
 <span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">4° de verrichtingen van de erkende ondersteuningsstructuur, vermeld in artikel 4.72, krachtens dit boek;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">5° de verrichtingen van de erkende kredietmaatschappijen, vermeld in artikel 5.58, eerste lid, 1°;</span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">5° de verrichtingen van de erkende kredietmaatschappijen, vermeld in artikel 5.58;</span></span></span><br>
 <span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">6° de volgende verrichtingen van Vlabinvest apb:</span></span></span><br>
 <span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">a) de beslissingen tot beschikbaarstelling, inclusief bewijsstukken, voor verhuring, erfpacht of verkoop van woningen en kavels binnen een woonproject met sociaal karakter;</span></span></span><br>
 <span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">b) de beoordeling, inclusief bewijsstukken, van de kandidaat-huurders, -erfpachtnemers of -kopers door het beoordelingscomité.</span></span></span><br>
@@ -2356,7 +2359,7 @@ De Vlaamse Regering kan, binnen de perken van de kredieten die daarvoor op de be
 
 ### ART 4.89.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De toezichthouder kan een administratieve geldboete opleggen aan de sociale woonorganisaties met uitzondering van de VMSW, aan de erkende ondersteuningsstructuur, vermeld in artikel 4.72, en aan de erkende kredietmaatschappijen, vermeld in artikel 5.58, eerste lid, 1°, die, na schriftelijk in gebreke te zijn gesteld, een overtreding handhaven van de bepalingen van deze codex of van de uitvoeringsbesluiten ervan die betrekking hebben op de voorwaarden om erkend te kunnen worden en te blijven, of die een overtreding plegen tegen dezelfde reglementaire bepalingen als vermeld in de ingebrekestelling of die een beslissing uitvoeren die geschorst of vernietigd werd.</span></span></span><br>
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De toezichthouder kan een administratieve geldboete opleggen aan de sociale woonorganisaties met uitzondering van de VMSW, aan de erkende ondersteuningsstructuur, vermeld in artikel 4.72, en aan de erkende kredietmaatschappijen, vermeld in artikel 5.58, die, na schriftelijk in gebreke te zijn gesteld, een overtreding handhaven van de bepalingen van deze codex of van de uitvoeringsbesluiten ervan die betrekking hebben op de voorwaarden om erkend te kunnen worden en te blijven, of die een overtreding plegen tegen dezelfde reglementaire bepalingen als vermeld in de ingebrekestelling of die een beslissing uitvoeren die geschorst of vernietigd werd.</span></span></span><br>
 <br>
 <span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De toezichthouder kan een administratieve geldboete opleggen aan de VMSW, het OCMW, een welzijnsvereniging, de gemeente en een intergemeentelijk samenwerkingsverband die, na schriftelijk in gebreke te zijn gesteld, de uitoefening van het toezicht, vermeld in artikel 4.79 en 4.81, tweede lid, verhindert, of die de door de Vlaamse Regering bepaalde termijnen om het toezicht mogelijk te maken niet respecteert.&nbsp;De toezichthouder kan een administratieve geldboete opleggen aan de gemeente, het OCMW, de welzijnsvereniging en het intergemeentelijk samenwerkingsverband die, na schriftelijk in gebreke te zijn gesteld, de herinvesteringsverplichting, vermeld in artikel 4.1/1, niet naleeft.</span></span></span><br>
 <br>
@@ -2840,49 +2843,56 @@ De sociale woonbeleidsconvenanten bewaken de verhouding die door het Ruimtelijk 
 
 ### ART 5.58.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Het Vlaamse Gewest waarborgt, onder de voorwaarden die de Vlaamse Regering stelt, de terugbetaling van de hoofdsom en de betaling van de interest en de extra kosten van sociale leningen toegestaan door:</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">1° de kredietmaatschappijen die, onder de voorwaarden die de Vlaamse Regering bepaalt, door de Vlaamse Regering of door de rechtsvoorganger van de VMSW erkend zijn;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">2° elke kredietinstelling, hiertoe erkend bij besluit van de Vlaamse Regering.</span></span></span></span><br>
+<p style="margin-left:0cm; margin-right:0cm">Om de erkenning te behouden die ze verkregen met toepassing van artikel 5.58, eerste lid, 1°, zoals dit vóór 1 januari 2022 gold, dienen de kredietmaatschappijen aan de volgende voorwaarden te voldoen:<br>
+1° de kredietmaatschappij heeft als hoofdzakelijk maatschappelijk doel het toekennen en beheren van sociale leningen voor het bouwen, kopen, verbouwen, behouden of het energetische renoveren van een bescheiden woning ten behoeve van natuurlijke personen die geen andere woning in volle eigendom bezitten en die woning zelf bewonen of zullen bewonen;<br>
+2° de kredietmaatschappij beschikt over een vergunning als kredietgever verkregen bij de Autoriteit voor Financiële Diensten en Markten (FSMA), vermeld in artikel VII.159, § 1, van het Wetboek van Economisch Recht;<br>
+3° de kredietmaatschappij verbindt zich in haar statuten, de voorwaarden, bepalingen en verplichtingen, vermeld in dit hoofdstuk, na te leven en het toezicht van de toezichthouder daarop te aanvaarden;<br>
+4° de maatschappelijke zetel of exploitatiezetel van de kredietmaatschappij ligt in het Vlaamse Gewest;<br>
+5° de kredietmaatschappij keert een dividend uit dat niet hoger is dan de rentevoet, vastgesteld door de Koning ter uitvoering van de wet van 20 juli 1955 houdende instelling van een Nationale Raad voor de Coöperatie, toegepast op het gestorte kapitaal, zonder dat dat dividend hoger is dan 25% van de te bestemmen winst van het boekjaar.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De waarborg van het Vlaamse Gewest heeft ten hoogste betrekking op het gedeelte van de lening dat 60% van de verkoopwaarde van de woning overschrijdt.&nbsp; </span></span></span></span></p>
+De Vlaamse Regering stelt aanvullende voorwaarden voor het behoud van de erkenning vast met betrekking tot:<br>
+1° de interne en externe controle;<br>
+2° het liquiditeitsbeheer en de beleggingen;<br>
+3° het minimaal eigen vermogen;<br>
+4° de solvabiliteit.<br>
+<br>
+Een bescheiden woning, vermeld in het eerste lid, 1°, is hetzij een woning die door de VMSW, een sociale huisvestingsmaatschappij of het VWF wordt bestemd om verkocht te worden aan woonbehoeftige gezinnen of alleenstaanden, hetzij een te bouwen, te kopen, te verbouwen of te behouden woning waarvan de verkoopwaarde maximaal 225.000 euro bedraagt. Dat bedrag wordt verhoogd met 15% als de woning gelegen is in een gemeente die is opgenomen in cluster 1 of cluster 2 van de lijst die is opgenomen in bijlage 19 bij het Besluit Vlaamse Codex Wonen van 2021 en wordt cumulatief verhoogd met 5%:<br>
+1° voor elke persoon ten laste;<br>
+2° voor ieder van de ascendenten van de ontlener die op de datum van de leningsaanvraag sedert ten minste zes maanden met hem samenwoont.<br>
+<br>
+De maximale verkoopwaarde wordt op 1 januari aangepast aan de gezondheidsindex van de maand november die aan de aanpassing voorafgaat met als basisindex die van de maand november 2012. Het resultaat wordt afgerond naar het eerstvolgende veelvoud van 1000 euro.</p>
 
 ### ART 5.59.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§1. De kredietinstelling houdt op de geleende bedragen een bijdrage in ten voordele van het “Waarborgfonds sociale leningen” dat wordt opgericht als een begrotingsfonds als vermeld in artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.</span></span></span></span><br>
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§1.&nbsp;Aan het Waarborgfonds sociale leningen, dat werd opgericht als een begrotingsfonds als vermeld in artikel 15, § 2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, worden de ontvangsten die voortvloeien uit terugwinningen, de inkomsten uit de wederverkoop van ingekochte onroerende goederen en de intresten op belegde sommen toegewezen.</span></span></span><br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Aan het Waarborgfonds sociale leningen worden benevens voormelde bijdragen ook de ontvangsten die voortvloeien uit terugwinningen, de inkomsten uit de wederverkoop van ingekochte onroerende goederen en de intresten op belegde sommen toegewezen.</span></span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§2. De middelen van het fonds kunnen enkel aangewend worden voor de roerende voorheffing op intrestenopbrengsten, bankkosten, tegemoetkomingen aan de kredietmaatschappijen en -instellingen ter uitvoering van de gewestwaarborg, alsook voor de aankoop van onroerende goederen.</span></span></span><br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§2. De middelen van het fonds kunnen enkel aangewend worden voor de roerende voorheffing op intrestenopbrengsten, bankkosten, tegemoetkomingen aan de kredietmaatschappijen en -instellingen ter uitvoering van de gewestwaarborg, alsook voor de aankoop van onroerende goederen.</span></span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§3. De Vlaamse Regering stelt de gevallen vast waarbij, om bijzondere sociale redenen, de sommen die in het kader van de uitvoering van de waarborg, vermeld in paragraaf 2, aan de kredietmaatschappijen en -instellingen werden betaald, niet worden teruggevorderd bij de kredietnemers.</span></span></span><br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§3. De Vlaamse Regering stelt de gevallen vast waarbij, om bijzondere sociale redenen, de sommen die in het kader van de uitvoering van de waarborg, vermeld in paragraaf 2, aan de kredietmaatschappijen en -instellingen werden betaald, niet worden teruggevorderd bij de kredietnemers.</span></span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§4. Alle schulden, vorderingen en tegoeden van het Fonds voor de waarborgstelling met betrekking tot huisvesting, vermeld in artikel 28 en 32 van het decreet van 21 december 1990 houdende begrotingstechnische bepalingen alsmede bepalingen tot begeleiding van de begroting 1991, worden overgenomen door het Waarborgfonds sociale leningen. Op het fonds kan rechtstreeks worden beschikt door de rekenplichtige die de ontvangsten heeft gedaan.</span></span></span><br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§4. Alle schulden, vorderingen en tegoeden van het Fonds voor de waarborgstelling met betrekking tot huisvesting, vermeld in artikel 28 en 32 van het decreet van 21 december 1990 houdende begrotingstechnische bepalingen alsmede bepalingen tot begeleiding van de begroting 1991, worden overgenomen door het Waarborgfonds sociale leningen. Op het fonds kan rechtstreeks worden beschikt door de rekenplichtige die de ontvangsten heeft gedaan.</span></span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§5. De Vlaamse Regering regelt het beheer van het fonds en bepaalt de hoogte van de bijdrage, die in geen geval meer mag bedragen dan 0,5% van de geleende bedragen.</span></span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§6. Het geleende bedrag mag niet hoger zijn dan de verkoopwaarde van de woning. De Vlaamse Regering stelt de overige voorwaarden vast, onder meer inzake de maximumverkoopwaarde van de woning, de minimum- en maximumnormen voor de woningen en de eigendomsvoorwaarden in hoofde van de ontlener.</span></span></span></span><br>
-<br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">§7. De kredietmaatschappijen, vermeld in artikel 5.58, eerste lid, 1°, kunnen ook leningen toestaan aan leners ter financiering van vroeger aangegane schulden, voor de renovatie, de koop of de bouw van hun woning, onder de voorwaarden die door de Vlaamse Regering worden bepaald.&nbsp;</span></p>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§5. De Vlaamse Regering regelt het beheer van het fonds.</span></span></span></p>
 
 ### ART 5.60.
 
-<span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Het Vlaamse Gewest waarborgt, binnen het plafond vermeld in de begrotingsdecreten, en onder de voorwaarden die de Vlaamse Regering stelt, de terugbetaling van de hoofdsom en de betaling van de interest en de extra kosten van de kredieten aangegaan door de in artikel 5.58, eerste lid, 1°, vermelde kredietmaatschappijen. De onder deze voorwaarden opgenomen kredieten zijn voor 100% gewaarborgd. </span></span>
+<span style="font-size:10.0pt">...</span>
 
 ### ART 5.61.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De Vlaamse Regering stelt de voorwaarden vast waaronder de kredietmaatschappijen, vermeld in artikel 5.58, eerste lid, 1°, kunnen intekenen op het maatschappelijk kapitaal van sociale woonorganisaties, van vennootschappen die erkend zijn bij of krachtens deze codex, en van verzekeringstussenpersonen als vermeld in artikel 1, 3°, van de wet van 27 maart 1995 betreffende de verzekerings- en herverzekeringsbemiddeling en de distributie van verzekeringen.</span></span></span></span><br>
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De Vlaamse Regering stelt de voorwaarden vast waaronder de kredietmaatschappijen, vermeld in artikel 5.58, kunnen intekenen op het maatschappelijk kapitaal van sociale woonorganisaties, van vennootschappen die erkend zijn bij of krachtens deze codex, en van verzekeringstussenpersonen als vermeld in artikel 1, 3°, van de wet van 27 maart 1995 betreffende de verzekerings- en herverzekeringsbemiddeling en de distributie van verzekeringen.</span></span></span><br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De Vlaamse Regering stelt de voorwaarden vast waaronder sociale woonorganisaties, vennootschappen die erkend zijn bij of krachtens deze codex, kredietmaatschappijen als vermeld in artikel 5.58, eerste lid, 1°, uitgezonderd, en verzekeringstussenpersonen als vermeld in artikel 1, 3°, van de wet van 27 maart 1995 betreffende de verzekerings- en herverzekeringsbemiddeling en de distributie van verzekeringen, kunnen intekenen op het maatschappelijk kapitaal van een kredietmaatschappij als vermeld in artikel 5.58, eerste lid, 1°, gezamenlijk voor ten hoogste een vierde van het maatschappelijk kapitaal van de kredietmaatschappij.</span></span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De Vlaamse Regering stelt de voorwaarden vast waaronder sociale woonorganisaties, vennootschappen die erkend zijn bij of krachtens deze codex, kredietmaatschappijen als vermeld in artikel 5.58, uitgezonderd, en verzekeringstussenpersonen als vermeld in artikel 1, 3°, van de wet van 27 maart 1995 betreffende de verzekerings- en herverzekeringsbemiddeling en de distributie van verzekeringen, kunnen intekenen op het maatschappelijk kapitaal van een kredietmaatschappij als vermeld in artikel 5.58, eerste lid, 1°, gezamenlijk voor ten hoogste een vierde van het maatschappelijk kapitaal van de kredietmaatschappij.</span></span></span><br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De kredietmaatschappij wendt de netto-opbrengst van de participatie, vermeld in het eerste lid, aan voor de financiering van de sociale leningen, vermeld in deze codex. </span></span></span></span></p>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De kredietmaatschappij wendt de netto-opbrengst van de participatie, vermeld in het eerste lid, aan voor de financiering van de sociale leningen, vermeld in deze codex. </span></span></span></p>
 
 ### ART 5.62.
 
-<span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De Vlaamse Regering legt de voorwaarden vast voor het interne beheer en het rekeningstelsel dat de kredietmaatschappijen, vermeld in artikel 5.58, eerste lid, 1°, hanteren. </span></span>
+<span style="font-size:10.0pt">De Vlaamse Regering legt de voorwaarden vast voor het interne beheer en het rekeningstelsel dat de kredietmaatschappijen, vermeld in artikel 5.58, hanteren. </span>
 
 ### ART 5.63.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Bij uitwinning of ter voorkoming van een uitwinning van de waarborg vermeld in artikel 5.60, kan de Vlaamse Regering het VWF opdracht geven tot overname van de activa en passiva van de in artikel 5.58, eerste lid, 1°, vermelde kredietmaatschappijen. </span></span></span></span></p>
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Bij uitwinning of ter voorkoming van een uitwinning van de waarborg vermeld in artikel 5.60, kan de Vlaamse Regering het VWF opdracht geven tot overname van de activa en passiva van de in artikel 5.58,&nbsp;vermelde kredietmaatschappijen. </span></span></span></p>
 
 ### ART 5.64.
 
@@ -3506,11 +3516,11 @@ De Vlaamse Regering kan aanvullende entiteiten aanduiden waaraan persoonsgegeven
 8° woningkenmerken;<br>
 9° [... (vernietigd arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)];<br>
 10° [... (vernietigd arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)];<br>
-11°[... (vernietigd arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)];<br>
+11° [... (vernietigd arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)];<br>
 12° [... (vernietigd arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)];<br>
 13° [... (vernietigd arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)];<br>
 14° [... (vernietigd arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)];<br>
-15° [... (vernietigd arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)]:;.<br>
+15° [... (vernietigd arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)].<br>
 16° verbruiksgegevens.<br>
 <br>
 [... (vernietigd arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)].<br>
@@ -3534,7 +3544,7 @@ De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 3°, past op de persoon
 2° [... (vernietigd arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)];<br>
 3° [... (vernietigd arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)];<br>
 4° de persoonsgegevens, vermeld in paragraaf 3, eerste lid, 1° en 2°, aan de organisaties die belast zijn met de uitvoering van het Vlaamse integratieen inburgeringsbeleid voor de realisatie van de verplichting, vermeld in artikel 6.20, eerste lid, 5° en 6° ;<br>
-5° de persoonsgegevens, vermeld in paragraaf 3, eerste lid, 1°, 2°, 3°, 4°, 5°, 6°, 13° en 15°, de inschrijving en schrapping in het inschrijvingsregister, de toewijzing van een sociale woning, de weigeringen van een aanbod en de duurtijd van de aaneengesloten inschrijvingen bij een domiciliemaatschappij aan het agentschap dat door de Vlaamse Regering wordt aangewezen om na te gaan of voldaan is aan de voorwaarden en verplichtingen van boek 5, deel 5, titel 3, en de voorwaarden en verplichtingen die de Vlaamse Regering vaststelt conform die titel;<br>
+5° de persoonsgegevens, vermeld in paragraaf 3, eerste lid, 1°, 2°, 3°, 4°, 5°, 6°, 13° en 15°, de inschrijving en schrapping in het inschrijvingsregister, de toewijzing van een sociale woning, de weigeringen van een aanbod en de duurtijd van de aaneengesloten inschrijvingen bij een domiciliemaatschappij aan het agentschap dat door de Vlaamse Regering wordt aangewezen om na te gaan of voldaan is aan de voorwaarden en verplichtingen van boek 5, deel 5, titel 2 en 3, en de voorwaarden en verplichtingen die de Vlaamse Regering vaststelt conform die titel;<br>
 6° de persoonsgegevens, vermeld in paragraaf 3, eerste lid, aan de toezichthouder, vermeld in artikel 4.79, met het oog op het uitoefenen van het toezicht.<br>
 7° de persoonsgegevens, vermeld in paragraaf 3, eerste lid, 16°, aan een private partner voor de berekening van de vergoeding, vermeld in artikel 6.25, eerste lid.<br>
 <br>
@@ -3545,6 +3555,12 @@ De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 3°, past op de persoon
 § 8. De VMSW coördineert de elektronische gegevensstromen en elektronische informatie-uitwisseling tussen de diverse actoren, vermeld in dit boek. Alle elektronische gegevens mogen in dat kader via de VMSW uitgewisseld worden. De VMSW mag de gegevens ook gebruiken voor statistische verwerking en mag ze ter beschikking stellen van de andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking. De VMSW kan de persoonsgegevens verder verwerken voor doeleinden, vermeld in artikel 1.5, die verenigbaar zijn met de oorspronkelijke doeleinden.<br>
 <br>
 § 9. De verwerkingsverantwoordelijken, vermeld in paragraaf 2, 1° en 2°, nemen de nodige maatregelen om de juistheid van de persoonsgegevens, vermeld in paragraaf 3, te garanderen.
+
+### ART 6.3/2.
+
+De verhuurder die nagaat of voldaan is aan de voorwaarden inzake onroerend bezit, vermeld in artikel 6.8, eerste lid, 2°, artikel 6.11 en 6.21, eerste lid, kan voor het onroerend bezit in het buitenland, een beroep doen op private of publieke partners. De Vlaamse Regering kan de entiteit aanduiden die een raamovereenkomst sluit waarin de private partners worden aangeduid.<br>
+<br>
+Binnen de perken van de kredieten die daarvoor op de begroting van het Vlaamse Gewest ingeschreven worden, kan de Vlaamse Regering, onder de voorwaarden die ze bepaalt, een vergoeding betalen aan de verhuurder die een beroep doet op de private partners die aangeduid zijn in de raamovereenkomst, vermeld in het eerste lid.
 
 ## Deel 2. Woningregister
 
@@ -4067,7 +4083,7 @@ Dit artikel is niet van toepassing op sociale verhuurkantoren.</p>
 <span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">1° artikel 9, tweede lid, wat de woningen betreft die het Vlaamse Gewest, als rechtsopvolger van het Nationaal Instituut voor de Huisvesting, afgeschaft bij de wet van 28 december 1984, bouwt in het kader van vernieuwende en experimentele woonprojecten zoals bedoeld in artikel 5.3 van deze codex;</span></span></span><br>
 <span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">2° artikel 20, tweede lid, en 21 wat de onroerende verrichtingen van de VHM of haar rechtsopvolger en de woonmaatschappijen betreft; </span></span></span><br>
 <span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">3° artikel 23, wat de akten betreffende de VHM of haar rechtsopvolger en de woonmaatschappijen betreft; </span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">4° artikel 89 wat de akten betreffende de in artikel 5.58, eerste lid, 1°, vermelde kredietmaatschappijen betreft. </span></span></span><br>
+<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">4° artikel 89 wat de akten betreffende de in artikel 5.58, vermelde kredietmaatschappijen betreft. </span></span></span><br>
 <br>
 <span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§3. In afwijking van §1 blijven de hierna vermelde bepalingen van de Huisvestingscode gelden voor de ernaast vermelde verrichtingen, voor zover die verrichtingen dateren van vóór de inwerkingtreding van de opheffingsbepalingen van §1 die er betrekking op hebben:</span></span></span><br>
 <span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">1° artikel 38, tweede lid, 1°, a) en b), 41, 79, 80bis en 81 tot en met 82bis, wat de door de Staat en het Vlaamse Gewest te dragen lasten betreft inzake gewaarborgde leningen, aangegaan door de VHM, het VWF of hun rechtsvoorgangers;</span></span></span><br>
