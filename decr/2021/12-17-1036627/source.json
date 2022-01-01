@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036627,
+  "title": "Decreet van 2021-12-17 tot wijziging van het Energiedecreet van 8 mei 2009, wat betreft toewijzingen aan het Energiefonds, wijzigingen betreffende flexibiliteit en energiedelen, de uitbouw van het energiedataplatform en de herziening van de administratieve geldboetes aangaande installatie-eisen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036627/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "69e1f982406e0842f6c72d053cd94c98e6f5f8176ca84b78c78a8db12d60f68b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036627&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2021-12-17",
+  "gazette": "2022-03-11",
+  "numac": 2022030262,
+  "document_start": "2022-03-21",
+  "document_end": null,
+  "in_force": "2022-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
