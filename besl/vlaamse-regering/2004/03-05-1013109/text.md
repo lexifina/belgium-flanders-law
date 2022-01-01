@@ -146,7 +146,17 @@ Voor de weging van de leerlingen, vermeld in het eerste lid, 2°, d), gelden de 
 
 ### ART. 4ter.
 
-§ 1. Uit de puntenenveloppe verkregen volgens artikel 3, § 3, van dit besluit en/of de punten die conform artikel 153sexies, § 4, van het decreet vrij aangewend kunnen worden voor de ondersteuning van de scholengemeenschap kunnen de volgende ambten worden ingericht:<br /><br />1° het ambt van zorg-coördinator uit de categorie beleids- en ondersteunend personeel;<br /><br />2° het ambt van ICT-coördinator uit de categorie beleids- en ondersteunend personeel;<br /><br />3° het ambt van administratief medewerker uit de categorie beleids- en ondersteunend personeel.<br /><br />§ 2. Uit de puntenenveloppe verkregen volgens artikel 3, § 3, en/of de punten die conform artikel 153sexies, § 4, van het decreet vrij aangewend kunnen worden voor de ondersteuning van de scholengemeenschap kunnen eveneens personeelsleden worden aangesteld die een beleidsondersteunende functie uitoefenen ten behoeve van de scholengemeenschap. Deze personeelsleden kunnen worden aangesteld in één van de ambten vermeld in § 1, of in de wervingsambten van kleuteronderwijzer, onderwijzer, kleuteronderwijzer ASV en onderwijzer ASV.<br /><br />De aanstelling in één van deze ambten doet geen afbreuk aan de bepaling dat de betrokken personeelsleden alleen kunnen<br /><br />worden ingezet in een beleidsondersteunende functie ten behoeve van de scholengemeenschap; ze worden vrijgesteld van hun schoolopdracht.  <span class="reference">(ing. B.V.R. 30 september 2005, art. 3, I: 1 september 2005)</span> ]
+§ 1. Uit de puntenenveloppe verkregen volgens artikel 3, § 3, van dit besluit en/of de punten die conform artikel 153sexies, § 4, van het decreet vrij aangewend kunnen worden voor de ondersteuning van de scholengemeenschap kunnen de volgende ambten worden ingericht:<br>
+1° het ambt van zorg-coördinator uit de categorie beleids- en ondersteunend personeel;<br>
+2° het ambt van ICT-coördinator uit de categorie beleids- en ondersteunend personeel;<br>
+3° het ambt van administratief medewerker uit de categorie beleids- en ondersteunend personeel;<br>
+4° het ambt van beleidsondersteuner uit de categorie beleids- en ondersteunend personeel.<br>
+<br>
+§ 2. Uit de puntenenveloppe verkregen volgens artikel 3, § 3, en/of de punten die conform artikel 153sexies, § 4, van het decreet vrij aangewend kunnen worden voor de ondersteuning van de scholengemeenschap kunnen eveneens personeelsleden worden aangesteld die een beleidsondersteunende functie uitoefenen ten behoeve van de scholengemeenschap. Deze personeelsleden kunnen worden aangesteld in één van de ambten vermeld in § 1, of in de wervingsambten van kleuteronderwijzer, onderwijzer, kleuteronderwijzer ASV en onderwijzer ASV.<br>
+<br>
+De aanstelling in één van deze ambten doet geen afbreuk aan de bepaling dat de betrokken personeelsleden alleen kunnen<br>
+<br>
+worden ingezet in een beleidsondersteunende functie ten behoeve van de scholengemeenschap; ze worden vrijgesteld van hun schoolopdracht. (ing. B.V.R. 30 september 2005, art. 3, I: 1 september 2005) ]
 
 ## [HOOFDSTUK III PUNTENENVELOPPE VOOR HET VOEREN VAN EEN ZORGBELEID (verv. BVR 5 september 2008, art. 3)]
 
@@ -162,36 +172,35 @@ Voor de weging van de leerlingen, vermeld in het eerste lid, 2°, d), gelden de 
 
 ### ART. 4quater.
 
-<p>§ 1. De omrekening van punten naar de gefinancierde of gesubsidieerde voltijdse betrekkingen in het ambt van zorg-coördinator gebeurt als volgt:<br>
+<p>§ 1. De omrekening van punten naar de gefinancierde of gesubsidieerde voltijdse betrekkingen in de ambten van zorg-coördinator en beleidsondersteuner gebeurt als volgt:<br>
 1° indien een betrekking wordt ingericht die de weddenschaal 148 genereert, wordt voor een voltijdse betrekking 85 punten in rekening gebracht;<br>
 2° indien een betrekking wordt ingericht die de weddenschaal 501 genereert, wordt voor een voltijdse betrekking 126 punten in rekening gebracht;<br>
 3° de som van het aantal punten van de betrekkingen die per opleidingsniveau en ambt worden ingericht, bedraagt nooit meer dan het aantal punten dat vereist is voor een betrekking die bestaat uit de som van de uren die in het betrokken ambt en opleidingsniveau worden ingericht.<br>
 <br>
 Voor de aanwending in uren wordt de toegekende puntenenveloppe omgezet volgens de onderstaande tabel:<br>
-<br>
-</p>
+&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
+			<td style="background-color:transparent; vertical-align:top; width:153.5pt">
 			<p>Puntenwaarde</p>
 
 			<p>Aantal uren</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
+			<td style="background-color:transparent; vertical-align:top; width:153.55pt">
 			<p>85</p>
 
 			<p>Punten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
+			<td style="background-color:transparent; vertical-align:top; width:153.55pt">
 			<p>126</p>
 
 			<p>Punten</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="background-color:transparent; vertical-align:top; width:153.5pt">
 			<p>1</p>
 
 			<p>2</p>
@@ -264,7 +273,7 @@ Voor de aanwending in uren wordt de toegekende puntenenveloppe omgezet volgens d
 
 			<p>36</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td style="background-color:transparent; vertical-align:top; width:153.55pt">
 			<p>2</p>
 
 			<p>5</p>
@@ -337,7 +346,7 @@ Voor de aanwending in uren wordt de toegekende puntenenveloppe omgezet volgens d
 
 			<p>85</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td style="background-color:transparent; vertical-align:top; width:153.55pt">
 			<p>4</p>
 
 			<p>7</p>
@@ -413,8 +422,6 @@ Voor de aanwending in uren wordt de toegekende puntenenveloppe omgezet volgens d
 		</tr>
 	</tbody>
 </table>
-
-<p>(ing. B.V.R. 30 september 2005, art. 4, I: 1 september 2005) ]</p>
 
 ### ART. 4quinquies.
 
