@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036169,
+  "title": "Besluit van de Vlaamse Regering van 2021-09-03 over de projectsubsidies voor geregulariseerde arbeidsplaatsen van voormalige gesubsidieerde contractuelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036169/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "17477641a89fd08d808ea8f836ae35c20fe9a2f9b6233b5d46fb6124965b21e8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036169&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2021-09-03",
+  "gazette": "2021-10-21",
+  "numac": 2021022221,
+  "document_start": "2022-01-01",
+  "document_end": null,
+  "in_force": "2022-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
