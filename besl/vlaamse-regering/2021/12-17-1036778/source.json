@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036778,
+  "title": "Besluit van de Vlaamse Regering van 2021-12-17 houdende de erkenningsvoorwaarden, de erkenningsprocedure en het toezicht op de Vlaamse advies- en beleidsparticipatieraad van personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036778/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "d3004938601bc457f76928dacf2918fce683b29705ee0e26cae78e803b323f6d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036778&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2021-12-17",
+  "gazette": "2022-03-29",
+  "numac": 2022040276,
+  "document_start": "2022-01-01",
+  "document_end": null,
+  "in_force": "2022-01-01",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
