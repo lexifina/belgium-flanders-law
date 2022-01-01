@@ -34,9 +34,10 @@ a) voor een evaluatie in een spreekkamer: 83,29 euro;<br>
 b) voor een evaluatie aan huis: 83,29 euro;<br>
 c) voor een evaluatie onder begeleiding van een mentorarts: 41,65 euro;<br>
 2° voor de opdrachten die hij in het kader van een beroepsprocedure voor de arbeidsrechtbank heeft uitgevoerd, vermeld in artikel 25, derde lid, van het voormelde besluit:<br>
-a) voor een tegenexpertise in het kader van een beroepsprocedure voor de arbeidsrechtbank: 174,10 euro;<br>
-b) voor een omstandig verslag in geval van afwezigheid bij een beroepsprocedure: 87,06 euro;<br>
-3° voor de opleidingen, vermeld in artikel 25, eerste lid, 2°, van het voormelde besluit, waarvan Kind en Gezin heeft bepaald dat het die vergoedt: 66,63 euro per uur.
+a) voor het opstellen van een omstandig verslag in het kader van een tegenexpertise: 87,06 euro;<br>
+b) voor de aanwezigheid op de gerechtelijke zitting van de arbeidsrechtbank: 87,04 euro;<br>
+3° voor de opleidingen, vermeld in artikel 25, eerste lid, 2°, van het voormelde besluit, waarvan Kind en Gezin heeft bepaald dat het die vergoedt: 66,63 euro per uur;<br>
+4° voor de uitvoering van andere opdrachten, vermeld in artikel 32/1 van het voormelde besluit: 66,63 euro per uur.
 
 ### ART 4.
 
@@ -49,6 +50,12 @@ De bedragen, vermeld in artikel 2, 3 en 4, zijn uitgedrukt tegen 100% en worden 
 Ze worden gekoppeld aan de afgevlakte gezondheidsindex, vermeld in artikel 2, § 2, eerste lid, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, die wordt berekend en toegepast conform artikel 2 tot en met 2quater van het voormelde besluit.<br>
 <br>
 De aanpassing van de bedragen gebeurt telkens twee maanden nadat de voormelde afgevlakte gezondheidsindex een bepaalde drempelwaarde overschrijdt.
+
+### ART 5/1.
+
+De bedragen, vermeld in artikel 2, 3 en 4 van dit besluit, zijn exclusief de belasting over de toegevoegde waarde.<br>
+<br>
+Ze worden verhoogd met 21% indien de MDT-arts of de evaluerend arts niet geniet van de vrijstellingsregeling bedoeld in artikel 56bis, van het wetboek van de belasting over de toegevoegde waarde.
 
 ## HOOFDSTUK 3. Kennis van het Nederlands
 
