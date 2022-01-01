@@ -43,3 +43,48 @@ In hoofdstuk 5 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse R
 ### ART 6.
 
 In artikel 13, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 12 maart 2021, wordt de zinsnede "op 31 januari 2019" vervangen door de zinsnede " negentig dagen na het versturen van de oproep, vermeld in artikel 12/1,".
+
+### ART 7.
+
+In artikel 15 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 12 maart 2021, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid wordt de zinsnede "op 31 maart 2019" vervangen door de zinsnede "negentig dagen na de laatste dag van de termijn voor het indienen van de aanvragen, vermeld in artikel 13, eerste lid,";<br>
+<br>
+2° in het tweede lid, 1°, wordt de zinsnede ", meer bepaald uiterlijk op 31 januari 2019" vervangen door de zinsnede "conform artikel 13, eerste lid";<br>
+<br>
+3° in het derde lid, 2°, wordt de zinsnede "op 1 april 2019" vervangen door de woorden "negentig dagen na de datum van de toewijzingsbeslissing van de bijkomende voltijdsequivalente werknemers";<br>
+<br>
+4° in het derde lid wordt punt 3° opgeheven;<br>
+<br>
+5° het vierde lid tot en met het zesde lid worden vervangen door wat volgt:<br>
+<br>
+"Bij de beoordeling van de aanvragen gelden de volgende voorrangscriteria:<br>
+1° in een eerste fase wordt voorrang gegeven aan de organisatoren die voor minder dan 5% van hun vergunde locaties gezinsopvang en groepsopvang als vermeld in artikel 73, derde lid van het Vergunningsbesluit van 22 november 2013, kinderbegeleiders in het werknemersstatuut in het werknemersstatuut kregen toegekend. Het agentschap kent voltijdsequivalente kinderbegeleiders toe tot een maximum van 5%, met een minimum van één voltijdsequivalente kinderbegeleider, of met een veelvoud ervan;<br>
+2° in een tweede fase wordt voorrang gegeven aan de organisatoren die voor minder dan 10% van hun vergunde locaties gezinsopvang en groepsopvang als vermeld in artikel 73, derde lid van het Vergunningsbesluit van 22 november 2013, kinderbegeleiders in het werknemersstatuut kregen toegekend. Het agentschap kent voltijdsequivalente kinderbegeleiders toe tot een maximum van 10%, met een minimum van één voltijdsequivalente kinderbegeleider, of met een veelvoud ervan;<br>
+3° in een derde fase wordt voorrang gegeven aan de organisatoren die voor minder dan 15% van hun vergunde locaties gezinsopvang en groepsopvang als vermeld in artikel 73, derde lid van het Vergunningsbesluit van 22 november 2013, kinderbegeleiders in het werknemersstatuut kregen toegekend. Het agentschap kent voltijdsequivalente kinderbegeleiders toe tot een maximum van 15%, met een minimum van één voltijdsequivalent kinderbegeleider, of met een veelvoud ervan;<br>
+4° in een vierde fase wordt voorrang gegeven aan de organisatoren die voor minder dan 20% van hun vergunde locaties gezinsopvang en groepsopvang als vermeld in artikel 73, derde lid van het Vergunningsbesluit van 22 november 2013, kinderbegeleiders in het werknemersstatuut kregen toegekend. Het agentschap kent voltijdsequivalente kinderbegeleiders toe tot een maximum van 20%, met een minimum van één voltijdsequivalente kinderbegeleider, of met een veelvoud ervan;<br>
+5° in een vijfde fase wordt voorrang gegeven aan de organisatoren die voor minder dan 25% van hun vergunde locaties gezinsopvang en groepsopvang als vermeld in artikel 73, derde lid van het Vergunningsbesluit van 22 november 2013, kinderbegeleiders in het werknemersstatuut kregen toegekend. Het agentschap kent voltijdsequivalente kinderbegeleiders toe tot een maximum van 25% met een minimum van één voltijdsequivalente kinderbegeleider, of met een veelvoud ervan.<br>
+<br>
+Het aantal vergunde locaties per organisator worden vastgelegd op 1 september 2021.<br>
+<br>
+Als er binnen een bepaalde fase als vermeld in het vierde lid, meer aanvragen zijn dan kunnen worden toegekend, worden de beschikbare voltijdsequivalente kinderbegeleiders pro rata verdeeld over het aantal organisatoren die een aanvraag hebben ingediend voor de fase in kwestie. Als geen pro-rataverdeling mogelijk is in de fase in kwestie, wordt voorrang gegeven aan de aanvragen met de hoogste score op de scores op basis van de gegrondheid, vermeld in het zevende lid.";<br>
+<br>
+6° er worden een zevende en achtste lid toegevoegd, die luiden als volgt:<br>
+<br>
+"Het agentschap beoordeelt de gegrondheid van de aanvragen op basis van de som van de volgende scores:<br>
+1° de score van het agentschap voor de bezetting in 2020 op drie punten. De bezetting wordt berekend conform artikel 21 van het Subsidiebesluit van 22 november 2013, en de scores worden op de volgende wijze toegekend:<br>
+a) 0 punten voor een bezettingspercentage lager dan 80%;<br>
+b) 1 punt voor een bezettingspercentage vanaf 80% en minder dan 90%;<br>
+c) 2 punten voor een bezettingspercentage vanaf 90% en minder dan 100%;<br>
+d) 3 punten voor een bezettingspercentage vanaf 100%;<br>
+2° de score van het agentschap op 1 september 2021 voor de verhouding van het aantal subsidieerbare kinderopvangplaatsen met de subsidie voor inkomenstarief voor gezinsopvang ten opzichte van het aantal vergunde locaties gezinsopvang van de organisator, hierna plaats-locatieratio te noemen, op 3 punten en waarbij de scores op de volgende wijze worden toegekend:<br>
+a) een score van 3 punten als de organisator een plaats-locatieratio heeft van maximaal 4;<br>
+b) een score van 2 punten als de organisator een plaats-locatieratio heeft van maximaal 5;<br>
+c) een score van 1 punt als de organisator een plaats-locatieratio heeft van maximaal 6;<br>
+d) een score van 0 punten als de organisator een plaats-locatieratio heeft van meer dan 6;<br>
+3° de score van het agentschap voor het bereiken van de voorrangsgroepen, vermeld in artikel 22 van het Subsidiebesluit van 22 november 2013 op 2 punten en waarbij de scores op de volgende wijze worden berekend:<br>
+a) een score van 0 punten als het percentage bereikte voorrangsgroepen in 2019 en 2020 minder dan 20% bedraagt;<br>
+b) een score van 1 punt als het percentage bereikte voorrangsgroepen in 2019 of 2020 meer dan 20% en minder dan 30% bedraagt;<br>
+c) een score van 2 punten als het percentage voorrangsgroepen in 2019 of 2020 meer dan 30% bedraagt.<br>
+<br>
+Op basis van de pro-rataverdeling en op basis van de scores, vermeld in het zesde en zevende lid, maakt het agentschap een reservelijst op voor de toekenning van de vrijgekomen voltijdsequivalente kinderbegeleiders, vermeld in artikel 4/1, en voor de toekenning van de bijkomende subsidies voor voltijdsequivalente kinderbegeleiders, vermeld in artikel 12/1. De subsidies worden toegekend in volgorde van de reservelijst en rekening houdend met het beschikbare budget.".
