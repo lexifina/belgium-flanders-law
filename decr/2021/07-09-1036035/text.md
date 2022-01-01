@@ -1230,6 +1230,14 @@ De Vlaamse Regering kan aanvullende entiteiten aanduiden waaraan persoonsgegeven
 <br>
 § 8. De VMSW coördineert de elektronische gegevensstromen en elektronische informatie-uitwisseling tussen de diverse actoren, vermeld in dit boek. Alle elektronische gegevens mogen in dat kader via de VMSW uitgewisseld worden. De VMSW mag de gegevens ook gebruiken voor statistische verwerking en mag ze ter beschikking stellen van de andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking. De VMSW kan de persoonsgegevens verder verwerken voor doeleinden, vermeld in artikel 1.5, die verenigbaar zijn met de oorspronkelijke doeleinden.".
 
+### ART 161.
+
+Aan boek 6, deel 1, van dezelfde codex wordt een artikel 6.3/2 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 6.3/2. De verhuurder die nagaat of voldaan is aan de voorwaarden inzake onroerend bezit, vermeld in artikel 6.8, eerste lid, 2°, artikel 6.11 en 6.21, eerste lid, kan voor het onroerend bezit in het buitenland, een beroep doen op private of publieke partners. De Vlaamse Regering kan de entiteit aanduiden die een raamovereenkomst sluit waarin de private partners worden aangeduid.<br>
+<br>
+Binnen de perken van de kredieten die daarvoor op de begroting van het Vlaamse Gewest ingeschreven worden, kan de Vlaamse Regering, onder de voorwaarden die ze bepaalt, een vergoeding betalen aan de verhuurder die een beroep doet op de private partners die aangeduid zijn in de raamovereenkomst, vermeld in het eerste lid.".
+
 ### ART 190.
 
 In artikel 6.34 van dezelfde codex worden de volgende wijzigingen aangebracht:<br>
