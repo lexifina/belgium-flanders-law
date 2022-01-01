@@ -48,11 +48,14 @@ In dit besluit wordt verstaan onder:<br>
 Een organisator kan een erkenning krijgen voor een consultatiebureau. Meer specifiek gaat het om een erkenning voor:<br>
 1° een regulier consultatiebureau;<br>
 2° een consultatiebureau in een Opvangcentrum voor asielzoekers;<br>
-3° een prenataal consultatiebureau in de grootstad Antwerpen of Gent, of in het tweetalige gebied Brussel-Hoofdstad.<br>
+3° een prenataal consultatiebureau in de grootstad Antwerpen of Gent, of in het tweetalige gebied Brussel-Hoofdstad;<br>
+4° een consultatiebureau op een locatie met een permanente dienstverlening waar ouders kunnen verblijven.<br>
 <br>
 Bij de erkenning wordt automatisch een bijbehorende subsidie toegekend. De erkenning geldt voor maximaal tien jaar. Als de erkenning niet langer geldig is, wordt de bijbehorende subsidie niet langer toegekend.<br>
 <br>
-In afwijking van het tweede lid, geldt de erkenning voor een prenataal consultatiebureau, vermeld in het eerste lid, 3°, voor drie jaar.
+In afwijking van het tweede lid, geldt de erkenning voor een prenataal consultatiebureau, vermeld in het eerste lid, 3°, voor drie jaar.<br>
+<br>
+De bepalingen in dit besluit die gelden voor de consultatiebureaus als vermeld in het eerste lid, 2°, gelden eveneens voor de consultatiebureaus als vermeld in het eerste lid, 4°.&nbsp;
 
 ### ART 3.
 
@@ -80,7 +83,9 @@ De organisator heeft een visie over de organisatie en het beheer van een consult
 
 De organisator is een lokaal bestuur, universitaire instelling of is opgericht als vereniging zonder winstoogmerk conform de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de stichtingen en de Europese politieke partijen en stichtingen.<br>
 <br>
-De organisator heeft de geschiktheid en integriteit om op een rechtmatige manier, rekening houdend met geldende normen en waarden, kwaliteitsvol een consultatiebureau te organiseren en te beheren. De organisator doet aan goed bestuur.
+De organisator heeft de geschiktheid en integriteit om op een rechtmatige manier, rekening houdend met geldende normen en waarden, kwaliteitsvol een consultatiebureau te organiseren en te beheren. De organisator doet aan goed bestuur.<br>
+<br>
+In afwijking van het eerste en tweede lid van dit besluit kan een erkenning voor een consultatiebureau hiernaast ook worden toegekend aan een organisator zonder rechtspersoonlijkheid als het gaat om een consultatiebureau in het tweetalige gebied Brussel Hoofdstad, of als het om een consultatiebureau gaat op een locatie met een permanente dienstverlening waar ouders kunnen verblijven.
 
 ### ART 8.
 
@@ -346,7 +351,7 @@ Het agentschap kent jaarlijks per prenataal consultatiebureau, vermeld in artike
 2° een variabele component voor werkingskosten die als volgt wordt berekend:<br>
 a) een bedrag van 27,07 euro per toegekend uur voor de organisatie van het preventief consultaanbod;<br>
 b) het bedrag berekend conform punt a), wordt verhoogd met 17,5% voor een kwaliteitsvolle werking;<br>
-3° een variabele component van 0,77 euro (zevenenzeventig cent) per uitgevoerd zittingsuur voor personeelskosten van de organisator, ter uitvoering van het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social-/non-profitsectoren voor de periode 2021-2025.<br>
+3° een variabele component van&nbsp;0,90 euro (negentig cent) per uitgevoerd zittingsuur voor personeelskosten van de organisator, ter uitvoering van het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social-/non-profitsectoren voor de periode 2021-2025.<br>
 <br>
 Voor de organisatie en het beheer van het preventief consultaanbod in een Opvangcentrum voor asielzoekers of op een locatie buiten het consultatiebureau conform artikel 25, en voor de organisatie en het beheer van het prenataal consultaanbod bestaat het subsidiebedrag alleen uit de variabele component, vermeld in het eerste lid, 2°, a), en de variabele component, vermeld in het eerste lid, 3°.<br>
 <br>
@@ -921,14 +926,22 @@ Vanaf 1 januari 2019 krijgt elke organisator met een erkenning voor een consulta
 <br>
 Vanaf 1 januari 2019 krijgt elke organisator met een erkenning voor een consultatiebureau in het tweetalige gebied Brussel-Hoofdstad gedurende drie jaar bovenop de subsidie, vermeld in artikel 41, een jaarlijkse bijkomende subsidie van 1.000 euro per consultatiebureau gelegen in het tweetalige gebied Brussel-Hoofdstad voor de verdere uitbouw van een kwaliteitsvol preventief consultaanbod in het tweetalige gebied Brussel-Hoofdstad.<br>
 <br>
-De subsidie wordt toegekend voor een periode van drie jaar te rekenen vanaf 1 januari 2019.
+De subsidie wordt toegekend voor een periode van drie jaar te rekenen vanaf 1 januari 2019.<br>
+<br>
+De erkenning, het percentage extra uren en de bijkomende subsidie, vermeld in respectievelijk het eerste, derde en vierde lid, wordt met één jaar verlengd op voorwaarde dat de organisator de inspanningsverbintenis aangaat om de werking van het consultatiebureau vanaf 1 januari 2023 te integreren in het Huis van het Kind Brussel, vermeld in artikel 3, eerste lid, van het besluit van de Vlaamse Regering van 4 februari 2022 over de subsidiëring van een geïntegreerd Vlaams gezinsbeleid in het tweetalige gebied Brussel-Hoofdstad.<br>
+<br>
+Vanaf 1 januari 2023 gaat elke erkenning, automatisch over naar het Huis van het Kind Brussel, vermeld in artikel 3, eerste lid, van voormeld besluit. Deze erkenning heeft dezelfde geldigheidsduur als bepaald in artikel 2 van dit besluit. De overdracht van de erkenning doet geen enkele afbreuk aan titel twee, hoofdstuk 2 van dit besluit. De werking van het consultatiebureau wordt geïntegreerd in het Huis van het Kind Brussel. Het Huis van het Kind Brussel beslist welke actoren instaan voor de organisatie en het beheer van de consultatiebureaus in het werkingsgebied.<br>
+<br>
+De afwijking van artikel 95, vermeld in het eerste lid, wordt met één jaar verlengd. Het aantal uren dat de actor, vermeld in het vorig lid, per consultatiebureau minstens zou moeten behalen voor de organisatie van het preventief consultaanbod conform artikel 40 bedraagt 182 uren. Het agentschap kan de erkenning van een consultatiebureau opheffen als het twee opeenvolgende jaren minder dan 182 uren behaalt. Het agentschap kan afwijken van de beslissing om de erkenning op te heffen, als het Huis van het Kind Brussel daarvoor een gemotiveerde aanvraag indient.
 
 ### ART 97.
 
 Het agentschap kent aan de volgende organisatoren een erkenning voor drie jaar toe voor de organisatie en het beheer van een prenataal consultatiebureau:<br>
 1° vzw CAW Antwerpen voor het prenataal consultatiebureau gelegen op het Willy Vandersteenplein 1 in 2060 Antwerpen;<br>
 2° vzw Thuishulp voor het prenataal consultatiebureau gelegen in de Atletenstraat 80 in 2020 Antwerpen;<br>
-3° vzw Kind en Preventie voor het prenataal consultatiebureau gelegen in de Pothoekstraat 112 in 2060 Antwerpen en het prenataal consultatiebureau gelegen in de Bevrijdingslaan 88 in 9000 Gent.
+3° vzw Kind en Preventie voor het prenataal consultatiebureau gelegen in de Pothoekstraat 112 in 2060 Antwerpen en het prenataal consultatiebureau gelegen in de Bevrijdingslaan 88 in 9000 Gent.<br>
+<br>
+Vanaf 1 januari 2022 worden de erkenningen voor de organisatie en het beheer van een prenataal consultatiebureau, vermeld in het eerste lid, voor een periode van een jaar verlengd.
 
 ### ART 98.
 
@@ -955,7 +968,7 @@ De organisator, vermeld in het eerste lid, krijgt een maandelijkse subsidie die 
 <br>
 § 2. Bovenop de subsidies, vermeld in paragraaf 1, krijgt de organisator, vermeld in paragraaf 1, met arts-bedienden nog een bijkomende subsidie tot uitvoering van het vierde Vlaamse Intersectoraal Akkoord van 2 december 2011 voor de private social- en non-profitsectoren voor de periode 2011 tot 2015, het vijfde Vlaams Intersectoraal Akkoord van 8 juni 2018 voor de social/non profitsectoren voor de periode 2018-2020 en het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social-/non-profitsectoren voor de periode 2021-2025.<br>
 <br>
-De subsidie, vermeld in het eerste lid, bedraagt 4,42 euro (vier euro tweeënveertig cent) per uur uitgevoerd door een arts-bediende. Dat bedrag wordt geïndexeerd conform artikel 41, § 1, derde lid.<br>
+De subsidie, vermeld in het eerste lid, bedraagt 4,66 euro (vier euro zesenzestig cent) per uur uitgevoerd door een arts-bediende. Dat bedrag wordt geïndexeerd conform artikel 41, § 1, derde lid.<br>
 <br>
 § 3. De organisatoren die een beroep willen doen op de overgangsbepaling, vermeld in paragraaf 1, eerste lid, melden dat uiterlijk vóór 1 februari 2019 aan het agentschap. Als er een einde komt aan hun overeenkomst met de arts-bediende, melden ze dat onmiddellijk aan het agentschap. Vanaf 1 januari 2019 mogen geen nieuwe bediendencontracten met artsen afgesloten worden.
 
