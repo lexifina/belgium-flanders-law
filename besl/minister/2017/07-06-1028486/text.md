@@ -28,6 +28,7 @@ De volgende sportorganisaties zijn voor onbepaalde duur erkend als Vlaamse sport
 5° Danssport Vlaanderen vzw, Kempenlaan 27, bus 1, 2300 Turnhout, met ondernemingsnummer 0419.848.464;<br>
 6° Federatie Disco, Show en Freestyle vzw, Sint-Benedictusstraat 2, 3020 Herent, met ondernemingsnummer 0861.389.791;<br>
 7° Federatie van Amateurs Motorcrossbonden van Vlaanderen vzw, Acacialaan 21, 2630 Aartselaar 0455.029.473;<br>
+7° /1 Flemish American Football League vzw, H. Pauwelslaan 1/11, 1200 Brussel, met ondernemingsnummer 0449.232.437;<br>
 8° FROS Multisport Vlaanderen vzw, Boomgaardstraat 22, bus 35, 2600 Berchem, met ondernemingsnummer 0471.187.495;<br>
 9° Gezinssport Vlaanderen vzw, Troonstraat 125, 1050 Brussel, met ondernemingsnummer 0415.866.714;<br>
 9° /1 Grappling Vlaanderen vzw, Putse 3A, 9571 Lierde, met ondernemingsnummer 0477.139.733;<br>
