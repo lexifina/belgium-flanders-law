@@ -92,6 +92,15 @@ In artikel 31 van het besluit van de Vlaamse Regering van 17 november 2017 betre
 16° in paragraaf 3/1 wordt de zinsnede "100.968,13 euro (honderdduizend negenhonderdachtenzestig euro dertien cent)" vervangen door de zinsnede "101.767,18 euro (honderdeneenduizend zevenhonderdzevenenzestig euro achttien cent)";<br>
 17° in paragraaf 4 wordt de zin "De subsidies, vermeld in dit artikel, zijn gekoppeld aan de spilindex die van toepassing is op 1 januari 2019." vervangen door de zin "De subsidies, vermeld in dit artikel, zijn gekoppeld aan de spilindex die van toepassing is op 1 januari 2021.".
 
+### ART 7.
+
+In artikel 32 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° het eerste en het tweede lid worden vervangen door wat volgt:<br>
+"Het agentschap betaalt bij het begin van elk kwartaal aan het vertrouwenscentrum kindermishandeling een voorschot uit dat 90% van de geraamde subsidie bedraagt.<br>
+Het agentschap betaalt bij het begin van het eerste kwartaal van het jaar aan de partnerorganisatie een voorschot uit dat 90% van de geraamde subsidie voor dat jaar bedraagt.";<br>
+2° tussen het tweede en het derde lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+"Voor het jaar waarin de subsidie wordt opgestart, wordt het eerste voorschot uitbetaald in de maand die volgt op de maand waarin het agentschap de aanvrager op de hoogte brengt van de beslissing tot toekenning van de subsidie conform artikel 46, derde lid.".
+
 ## HOOFDSTUK 6. Wijzigingen van het besluit van de Vlaamse Regering van 12 oktober 2018 houdende de erkenning en de subsidiëring van consultatiebureaus en de erkenning van consultatiebureauartsen
 
 ### ART 8.
