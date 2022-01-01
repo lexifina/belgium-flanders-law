@@ -45,10 +45,17 @@ De pool gezinsopvang:<br>
 
 ### ART 3.
 
-De pool gezinsopvang biedt ondersteuning aan organisatoren met als doel:<br>
+De pool gezinsopvang biedt ondersteuning over beleidsvoerend vermogen aan organisatoren met als doel:<br>
 1° organisatoren versterken in hun zelfredzaamheid en initiatiefkracht, met het oog op een kwaliteitsvolle en duurzame sector en dienstverlening;<br>
 2° organisatoren bijstaan gedurende al de volgende fases van kinderopvang: de informatiefase, de prestart, de start, de werking en de stopzetting of overname;<br>
-3° organisatoren geïntegreerd ondersteunen bij de onderling samenhangende thema's, vermeld in artikel 32, eerste lid, van het Vergunningsbesluit van 22 november 2013.<br>
+3° de organisatoren geïntegreerd ondersteunen op de volgende onderling samenhangende thema's:<br>
+a) het organisatorisch beleid, met inbegrip van het financieel beleid en sociaal ondernemerschap;<br>
+b) de toegankelijkheid, met aandacht voor kwetsbare gezinnen en kinderen met een specifieke zorgbehoefte;<br>
+c) het pedagogisch beleid;<br>
+d) het medewerkersbeleid, met aandacht voor het draagvlak van medewerkers;<br>
+e) monitoring en evaluatie.<br>
+<br>
+In het eerste lid wordt verstaan onder beleidsvoerend vermogen: de mate waarin de organisator in staat is om een zelfstandig beleid te voeren, rekening houdend met de beschikbare beleidsruimte, met de eigen doelstellingen en met de lokale context, en de mate waarin de activiteiten van de verantwoordelijke en van de medewerkers op elkaar zijn afgestemd zodat ze bijdragen aan de ontplooiing van kinderen.<br>
 <br>
 De pool gezinsopvang biedt ondersteuning in de vorm van:<br>
 1° vraaggestuurd ondersteunen op maat van de organisator;<br>
@@ -61,9 +68,46 @@ De ondersteuning wordt afgestemd met het ondersteuningsnetwerk kinderopvang, ges
 <br>
 De pool gezinsopvang kan geen organisatoren ondersteunen die reeds ondersteund worden door het ondersteuningsnetwerk kinderopvang, gesubsidieerd conform het besluit van de Vlaamse Regering van 23 februari 2018 houdende toekenning van een subsidie aan het ondersteuningsnetwerk kinderopvang, voor dezelfde aspecten.
 
+### ART 3/1.
+
+De pool gezinsopvang biedt, rekening houdend met de samenwerkingsovereenkomst, vermeld in artikel 5, ondersteuning van kinderbegeleiders op de werkvloer, in samenhang met de opdrachten, vermeld in artikel 3 en 4.<br>
+<br>
+De ondersteuning op de werkvloer, vermeld in het eerste lid, heeft de volgende doelstellingen:<br>
+1° kinderbegeleiders versterken in hun beroepscompetenties, vermeld in het beroepskwalificatieprofiel voor kinderbegeleiders, dat is opgenomen in de bijlage bij het besluit van de Vlaamse Regering van 21 april 2017 tot erkenning van de beroepskwalificatie kinderbegeleider baby's en peuters en, wat betreft de niet-gekwalificeerde kinderbegeleiders, in nauwe afstemming met de acties, vermeld in artikel 4, eerste lid, 3° en 4°, van dit besluit;<br>
+2° samen met de kinderbegeleiders instaan voor verzorgende en pedagogische taken bij de kinderen, en daarbij de kinderbegeleiders ondersteunen op het vlak van:<br>
+a) de diverse ontwikkelingsaspecten van kinderen;<br>
+b) de aspecten van veiligheid en gezondheid in de opvang van kinderen;<br>
+c) de omgang en de communicatie met de gezinnen;<br>
+d) het inclusief omgaan met kinderen met specifieke zorgbehoeften en kinderen uit kwetsbare gezinnen;<br>
+3° samen met de verantwoordelijke en de kinderbegeleiders de dagelijkse praktijk aftoetsen aan het pedagogisch beleid van de organisator en verbeterpunten planmatig aanpakken, met kennis van de lokale netwerken die gericht zijn op het geïntegreerd beleid voor kinderen, jongeren en gezinnen;<br>
+4° in staat zijn om met betrekking tot verontrustende situaties:<br>
+a) deze te detecteren;<br>
+b) deze te bespreken met de organisator;<br>
+c) deze samen met de organisator mee op te volgen in functie van het herstel van de veiligheid;<br>
+d) het agentschap te informeren als er door de organisator geen passend gevolg gegeven wordt aan de bespreking en de opvolging vermeld in punt b) en c);<br>
+5° ondersteuning bieden tijdens of na afloop van een bezoek van Zorginspectie in het kader van een begeleidings- of opvolgingstraject van het agentschap en dit binnen de opdrachten van de ondersteuner als vermeld in deze bepaling.<br>
+<br>
+De ondersteuning van de kinderbegeleiders houdt rekening met het pedagogisch raamwerk dat in september 2014 is ontwikkeld door de vakgroep sociale agogiek van de universiteit Gent en het expertisecentrum ervaringsgericht onderwijs van de Katholieke Universiteit Leuven, in opdracht van het agentschap.
+
+### ART 3/2.
+
+De pool gezinsopvang sluit een ondersteuningsovereenkomst met de organisator voor wie hij de dienstverlening, vermeld in artikel 3, 3/1 en 4 van dit besluit, opneemt. In die ondersteuningsovereenkomst worden de volgende elementen vastgelegd:<br>
+1° de wijze waarop de ondersteuning voor de locatie wordt aangeboden;<br>
+2° de afspraken en modaliteiten van de ondersteuning;<br>
+3° de gegevens over de kwalificatie en competenties van de aangestelde ondersteuner;<br>
+4° de contactgegevens van de aangestelde ondersteuner;<br>
+5° in voorkomend geval, de overdracht van de subsidie door de organisator die voor de ondersteuning op de werkvloer een beroep doet op een pool gezinsopvang;<br>
+6° de wijze waarop de ondersteuning wordt geëvalueerd.
+
+### ART 3/3.
+
+De ondersteuners van de kinderbegeleiders beschikken over:<br>
+1° minimaal een kwalificatie van bachelorniveau;<br>
+2° competenties of ervaring op pedagogisch vlak inzake kinderopvang van baby's en peuters.
+
 ### ART 4.
 
-De pool gezinsopvang heeft als specifieke opdracht om niet-gekwalificeerde kinderbegeleiders te ondersteunen door mentoren in te zetten voor de volgende acties:<br>
+De pool gezinsopvang heeft, in samenhang met de algemene opdracht, vermeld in artikel 3/1, als specifieke opdracht om niet-gekwalificeerde kinderbegeleiders te ondersteunen&nbsp;door mentoren in te zetten voor de volgende acties:<br>
 1° het ontwikkelen of optimaliseren van instrumenten om competenties te identificeren en te documenteren;<br>
 2° een kwalificerend traject uittesten in samenwerking met een EVC-testcentrum;<br>
 3° competenties identificeren en documenteren;<br>
@@ -85,19 +129,26 @@ De pools gezinsopvang geven de volgende gegevens periodiek door aan het agentsch
 ### ART 5.
 
 De pool gezinsopvang sluit een samenwerkingsovereenkomst met het agentschap, die de volgende elementen bevat:<br>
-1° voor de opdrachten, vermeld in artikel 3 en 4: een inhoudelijk en budgettair meerjarenplan per pool gezinsopvang;<br>
+1° voor de opdrachten, vermeld in artikel 3, 3/1 en 4: een inhoudelijk en budgettair meerjarenplan per pool gezinsopvang;<br>
 2° voor de opdracht, vermeld in artikel 4: een gezamenlijk meerjarenplan over de wijze waarop de niet-gekwalificeerde kinderbegeleiders tussen de pools gezinsopvang verdeeld zullen worden;<br>
 3° de modaliteiten van de rapportering, de opvolging, de actualisering en de evaluatie van de elementen, vermeld in het meerjarenplan.<br>
 <br>
 De budgettaire planning en de rapportering aan&nbsp;het agentschap over de elementen, vermeld in het eerste lid, bevatten respectievelijk een begroting, met een overzicht van de voorzienbare inkomsten en de geraamde uitgaven, en een gescheiden boekhouding die de inkomsten en de uitgaven transparant afzondert. Daarbij geldt telkens de volgende globale verdeelsleutel:<br>
-1° 40 % van het budget wordt besteed aan de opdracht, vermeld in artikel 3;<br>
-2° 60 % van het budget wordt besteed aan de opdracht, vermeld in artikel 4.
+1° 40 % van het budget, vermeld in artikel 6, eerste lid, wordt besteed aan de opdracht, vermeld in artikel 3;<br>
+2° 60 % van het budget, vermeld in artikel 6, eerste lid, wordt besteed aan de opdracht, vermeld in artikel 4;<br>
+3° 90% van het budget, vermeld in artikel 6, tweede lid, wordt rechtstreeks ingezet voor de ondersteuning van de kinderbegeleiders op de werkvloer en maximaal 10% van het budget wordt ingezet voor overheadkosten.<br>
+<br>
+In het tweede lid, 3°, wordt verstaan onder overheadkosten: het geheel van kosten voor coördinatie, sturing en ondersteuning van de concrete activiteiten.
 
 ## HOOFDSTUK 3. Subsidie
 
 ### ART 6.
 
-De jaarlijkse subsidie bedraagt 71,72 euro per gesubsidieerde kinderopvangplaats die ondersteund wordt op 1 januari van het subsidiejaar.
+De jaarlijkse subsidie&nbsp;voor de opdrachten, vermeld in artikel 3 en 4, bedraagt 71,72 euro per gesubsidieerde kinderopvangplaats die ondersteund wordt op 1 januari van het subsidiejaar.<br>
+<br>
+De jaarlijkse subsidie voor de opdrachten, vermeld in artikel 3/1 van dit besluit, bedraagt 64,75 euro per vergunde kinderopvangplaats van een organisator gezinsopvang of groepsopvang die werkt met kinderbegeleiders in het sociaal statuut van de aangesloten onthaalouders of met werknemers in het kader van het vernieuwend project werknemersstatuut van de kinderbegeleiders, vermeld in het besluit van de Vlaamse Regering van 22 februari 2019 houdende de toekenning van een subsidie voor een vernieuwend project werknemersstatuut van de kinderbegeleider gezinsopvang.<br>
+<br>
+De subsidie, vermeld in het tweede lid, wordt jaarlijks berekend op basis van de vergunde plaatsen op 1 september van het kalenderjaar dat voorafgaat aan het kalenderjaar waarvoor de subsidie geldt. Bij een stopzetting van een organisator wordt de subsidie pro rata toegekend. In afwijking van artikel 13 en 14 wordt de subsidie automatisch uitbetaald door het agentschap.
 
 ### ART 7.
 
@@ -105,9 +156,13 @@ De subsidie wordt toegekend met inachtneming van het besluit 2012/21/EU van de C
 
 ### ART 8.
 
-De subsidie geldt voor een duur van vijf jaar, op voorwaarde dat:<br>
-1° de pool gezinsopvang voldoet aan de voorwaarden voor de realisatie van de opdrachten, vermeld in artikel 3 en 4, en specifiek ook aan de voorwaarden, vermeld in artikel 2, tweede lid;<br>
-2°&nbsp;het agentschap de werking positief evalueert, uiterlijk na drie jaar. De organisatoren of hun vertegenwoordigers worden betrokken bij die tussentijdse evaluatie.
+De subsidie geldt voor een duur van zes jaar, op voorwaarde dat:<br>
+1° de pool gezinsopvang voldoet aan de voorwaarden voor de realisatie van de opdrachten, vermeld in artikel 3, 3/1 en 4, en specifiek ook aan de voorwaarden, vermeld in artikel 2, tweede lid;<br>
+2°&nbsp;het agentschap de werking positief evalueert, uiterlijk na drie jaar. De organisatoren of hun vertegenwoordigers worden betrokken bij die tussentijdse evaluatie.<br>
+<br>
+Bij de evaluatie, vermeld in het eerste lid, 2°, wordt specifiek ook de inzet van de ondersteuners op de werkvloer, vermeld in artikel 3/1, geëvalueerd. De pool gezinsopvang bezorgt op verzoek van het agentschap alle nodige inlichtingen met het oog op die evaluatie.<br>
+<br>
+Elke pool gezinsopvang stelt een commissaris-revisor aan die, aanvullend op zijn wettelijke taak en opdracht, jaarlijks attesteert dat de subsidies, vermeld in artikel 6, alleen worden gebruikt voor de opdrachten, vermeld in artikel 3, 3/1, 4 en 5.
 
 ### ART 9.
 
@@ -129,7 +184,7 @@ Deze aanpassing gebeurt telkens twee maanden nadat de afgevlakte gezondheidsinde
 
 ### ART 11.
 
-De subsidie wordt betaald met een voorschot van 80 % per kwartaal, behalve in geval van een vermoeden van ernstige problemen, en minstens als er een risico is op plotse stopzetting van de opdrachten of bij een vermoeden van fraude. In dat geval kan&nbsp;het agentschap beslissen om geen voorschot of een lager voorschot te betalen. Het saldo wordt afgerekend uiterlijk op 1 april van het kalenderjaar dat volgt op het kalenderjaar in kwestie, behalve als de opdrachten niet meer worden opgenomen. In dat geval wordt het saldo afgerekend in het kwartaal dat volgt op de stopzetting van de opdrachten.
+De subsidie wordt betaald met een voorschot van 80 % per kwartaal, behalve in geval van een vermoeden van ernstige problemen, en minstens als er een risico is op plotse stopzetting van de opdrachten of bij een vermoeden van fraude. In dat geval kan&nbsp;het agentschap beslissen om geen voorschot of een lager voorschot te betalen. Het saldo wordt afgerekend uiterlijk op 15 mei van het kalenderjaar dat volgt op het kalenderjaar in kwestie, behalve als de opdrachten niet meer worden opgenomen. In dat geval wordt het saldo afgerekend in het kwartaal dat volgt op de stopzetting van de opdrachten.
 
 ### ART 12.
 
@@ -180,7 +235,7 @@ In artikel 59, § 1, eerste lid, van hetzelfde besluit worden de woorden "en art
 
 ### ART 19.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2019 en treedt buiten werking op 31 december 2023.
+Dit besluit heeft uitwerking met ingang van 1 januari 2019 en treedt buiten werking op 31 december 2024.
 
 ### ART 20.
 
