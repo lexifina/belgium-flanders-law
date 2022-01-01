@@ -13,6 +13,7 @@
 In dit besluit wordt verstaan onder :<br>
 1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie;<br>
 1°/1 basissubsidie : de subsidie voor de realisatie van een basisaanbod met een werking, vermeld in artikel 7 van het decreet van 20 april 2012;<br>
+1° /2 buitenschools: opvang van kleuters en kinderen uit de lagere school;<br>
 2° contracthouder : de persoon uit het gezin waarmee de organisator een schriftelijke overeenkomst voor kinderopvang heeft;<br>
 3° decreet van 20 april 2012 : het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
 3° /1 ...;<br>
@@ -25,6 +26,7 @@ In dit besluit wordt verstaan onder :<br>
 7° /2 kind ten laste: een kind voor wie de contracthouder of de inwonende persoon financiële verantwoordelijkheid draagt, tot het einde van het kalenderjaar waarin het kind twaalf jaar wordt;<br>
 8° kinderen met een specifieke zorgbehoefte : de kinderen die door medische of psychosociale problemen meer intensieve zorgen nodig hebben;<br>
 9° kinderopvangprestatie : de aanwezigheid van een kind per dag per kinderopvanglocatie;<br>
+9° /0 kleuteropvang: kleuteropvang met een kwaliteitslabel, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 16 oktober 2020 tot toekenning van een kwaliteitslabel aan organisatoren van kleuteropvang;<br>
 9° /1 Kruispuntbank: de Kruispuntbank van de sociale zekerheid, vermeld in de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
 10° kwetsbaar gezin : een gezin dat beantwoordt aan minstens twee van de volgende kenmerken, waarvan minstens één kenmerk als vermeld in punt b), d) of e) :<br>
 a) wat de werksituatie betreft, nood hebben aan kinderopvang om werk te zoeken of te houden of om een beroepsgerichte opleiding daarvoor te volgen;<br>
@@ -41,7 +43,7 @@ e) wat het opleidingsniveau betreft, geen diploma secundair onderwijs hebben;<br
 a) opgevangen kind met inkomenstarief: het opgevangen kind waarvoor de organisator het systeem inkomenstarief toepast;<br>
 b) opgevangen kind met vrije prijs: het opgevangen kind waarvoor de organisator een vrije prijs vraagt;<br>
 14° plussubsidie : de subsidie voor de realisatie van kinderopvangopdrachten ter ondersteuning van kwetsbare gezinnen en voor de realisatie van toegang voor die gezinnen, vermeld in artikel 9 van het decreet van 20 april 2012;<br>
-14° /1 subsidie voor Centrum inclusieve kinderopvang: de subsidie voor het voeren van een proactief opnamebeleid, de realisatie van inclusieve kinderopvang, de verspreiding van expertise en sensibiliseren inzake inclusieve kinderopvang, in samenwerking met andere actoren die instaan voor inclusie, aan een organisator met minstens 22 gesubsidieerde kinderopvangplaatsen met een subsidie voor inkomenstarief binnen die zorgregio;<br>
+14° /1 subsidie voor Centrum inclusieve kinderopvang: de subsidie voor het voeren van een proactief opnamebeleid, de realisatie van inclusieve kinderopvang, de verspreiding van expertise en sensibiliseren inzake inclusieve kinderopvang, in samenwerking met andere actoren die instaan voor inclusie, aan een organisator met minstens 22 gesubsidieerde kinderopvangplaatsen met een subsidie voor inkomenstarief binnen die zorgregio of aan een organisator van kleuteropvang;<br>
 14° /2 subsidie voor dringende kinderopvang: de subsidie voor de realisatie van een specifieke opdracht als vermeld in artikel 10, 3°, van het decreet van 20 april 2012, meer bepaald de organisatie van kinderopvang op heel korte termijn en in afwachting van doorstroming van het kind naar de reguliere kinderopvang, als dat nodig is;<br>
 15° subsidie voor inclusieve kinderopvang : de subsidie voor de realisatie van opdrachten in het kader van inclusieve kinderopvang van kinderen met een specifieke zorgbehoefte, vermeld in artikel 10, 2°, van het decreet van 20 april 2012;<br>
 16° subsidie voor individuele inclusieve kinderopvang : de subsidie voor de realisatie van inclusieve kinderopvang van een individueel kind met een specifieke zorgbehoefte voor wie het agentschap een specifieke toekenning van bepaalde duur deed;<br>
@@ -235,7 +237,11 @@ a) de kinderopvangprestaties 's nachts;<br>
 b) de kinderopvangprestaties voor de kinderen die tot het thuismilieu van de kinderbegeleider gezinsopvang behoren, en voor wie de kinderbegeleider de verantwoordelijkheid draagt;<br>
 c) de kinderopvangprestaties waarvoor de organisator ervoor kiest om niet met het systeem inkomenstarief te werken als vermeld in artikel 27, tweede lid;<br>
 3° er worden niet meer kinderopvangprestaties gesubsidieerd dan 120% van het aantal gesubsidieerde kinderopvangplaatsen, vermenigvuldigd met het minimum aantal verplichte openingsdagen, vermeld in artikel 14. Voor de berekening van dat percentage tellen kinderopvangprestaties die vijf tot elf uur duren, mee voor 100%, en kinderopvangprestaties die minder dan vijf uur duren, voor 60%;<br>
-4° de prestatie die verricht wordt in het kader van het aanbod om de doelstellingen te verwezenlijken, vermeld in artikel 5 of 7 van het besluit van de Vlaamse Regering van 5 maart 2021 over de financiering van vernieuwend aanbod in de preventieve gezinsondersteuningen, en die niet in de vergunde kinderopvanglocatie plaatsvindt, wordt aanvullend gelijkgesteld aan een kinderopvangprestatie als vermeld in punt 1°.</p>
+4° de prestatie die verricht wordt in het kader van het aanbod om de doelstellingen te verwezenlijken, vermeld in artikel 5 of 7 van het besluit van de Vlaamse Regering van 5 maart 2021 over de financiering van vernieuwend aanbod in de preventieve gezinsondersteuningen, en die niet in de vergunde kinderopvanglocatie plaatsvindt, wordt aanvullend gelijkgesteld aan een kinderopvangprestatie als vermeld in punt 1°.<br>
+<br>
+In afwijking van het tweede lid, 1°, bedraagt de subsidie 40% van het bedrag voor een kinderopvangprestatie van een kind dat buitenschools opgevangen wordt, die minder dan drie uur duurt.<br>
+<br>
+De organisator kan, voor kinderen die buitenschools opgevangen worden, de verschillende verblijfstijden van minder dan één uur van een kind per week samentellen. In dat geval tellen die verblijfstijden als één kinderopvangprestatie.</p>
 
 <p>Het deel op basis van de leeftijd van de personen, vermeld in het eerste lid, 2°, wordt als volgt berekend :<br>
 1° de subsidie bedraagt 431,42 euro per gesubsidieerde kinderopvangplaats per kalenderjaar als de gemiddelde leeftijd van die personen twintig jaar is;<br>
@@ -256,7 +262,11 @@ De minister bepaalt de nadere regels, onder meer op welke wijze de verantwoordel
 a) de kinderopvangprestaties 's nachts;<br>
 b) de kinderopvangprestaties waarvoor de organisator ervoor kiest om niet met het systeem inkomenstarief te werken als vermeld in artikel 27, tweede lid;<br>
 3° er worden niet meer kinderopvangprestaties gesubsidieerd dan 120% van het aantal gesubsidieerde kinderopvangplaatsen, vermenigvuldigd met het minimum aantal verplichte openingsdagen, vermeld in artikel 14. Voor de berekening van dat percentage tellen kinderopvangprestaties die vijf tot elf uur duren, mee voor 100%, en kinderopvangprestaties die minder dan vijf uur duren, voor 60%;<br>
-4° de prestatie die verricht wordt in het kader van het aanbod om de doelstellingen te verwezenlijken, vermeld in artikel 5 of 7 van het besluit van de Vlaamse Regering van 5 maart 2021 over de financiering van vernieuwend aanbod in de preventieve gezinsondersteuning, en die niet in de vergunde kinderopvanglocatie plaatsvindt, wordt aanvullend gelijkgesteld aan een kinderopvangprestatie als vermeld in punt 2°.</p>
+4° de prestatie die verricht wordt in het kader van het aanbod om de doelstellingen te verwezenlijken, vermeld in artikel 5 of 7 van het besluit van de Vlaamse Regering van 5 maart 2021 over de financiering van vernieuwend aanbod in de preventieve gezinsondersteuning, en die niet in de vergunde kinderopvanglocatie plaatsvindt, wordt aanvullend gelijkgesteld aan een kinderopvangprestatie als vermeld in punt 2°.<br>
+<br>
+In afwijking van het tweede lid, 1°, bedraagt de subsidie 40% van het bedrag voor een kinderopvangprestatie van een kind dat buitenschools opgevangen wordt, die minder dan drie uur duurt.<br>
+<br>
+De organisator kan, voor kinderen die buitenschools opgevangen worden, de verschillende verblijfstijden van minder dan één uur van een kind per week samentellen. In dat geval tellen die verblijfstijden als één kinderopvangprestatie.</p>
 
 <p>Het deel op basis van de leeftijd van de personen, vermeld in het eerste lid, 2°, wordt als volgt berekend :<br>
 1° de subsidie bedraagt&nbsp;5286,12 euro per gesubsidieerde kinderopvangplaats per kalenderjaar als de gemiddelde leeftijd van deze personen twintig jaar is;<br>
@@ -341,7 +351,7 @@ Als de organisator niet voldoet aan de voorwaarden, vermeld in het tweede lid, k
 
 ### ART 27/2.
 
-...
+De organisator die beschikt over subsidies voor inkomenstarief voor gezinsopvang of groepsopvang, gerealiseerd door samenwerkende onthaalouders, kan de subsidies, vermeld in dit besluit, ook inzetten in locaties waar uitsluitend buitenschoolse opvang wordt aangeboden, op voorwaarde dat de organisator voldoet aan de voorwaarden, vermeld in het Vergunningsbesluit van 22 november 2013, met uitzondering van artikel 19, 20, 21, 3° en 4°, van het voormelde besluit. De organisator vraagt voor die locaties een vergunning aan.
 
 ### ART 27/3.
 
@@ -375,7 +385,13 @@ In afwijking van artikel 28 kan de organisator ervoor kiezen dat er niet   betaa
 
 ### ART. 30.
 
-<P>Het inkomenstarief dekt de kinderopvangprestaties met een duurtijd tot elf   uur, met uitzondering van 's nachts. Voor kinderopvangprestaties met een   duurtijd tot vijf uur geldt 60 % van het inkomenstarief. Het laagst mogelijke   bedrag is in elk geval het bedrag van het laagst mogelijke inkomenstarief, zoals   wordt vastgesteld door de minister.<BR></P>  <P>De minister bepaalt de nadere regels voor de bepaling van de   verblijfstijden.<BR></P>
+<p>Het inkomenstarief dekt de kinderopvangprestaties met een duurtijd tot elf uur, met uitzondering van 's nachts. Voor kinderopvangprestaties met een duurtijd tot vijf uur geldt 60 % van het inkomenstarief. Het laagst mogelijke bedrag is in elk geval het bedrag van het laagst mogelijke inkomenstarief, zoals wordt vastgesteld door de minister.<br>
+<br>
+In afwijking van het eerste lid geldt voor kinderopvangprestaties van een kind dat buitenschools opgevangen wordt, die minder dan drie uur duren, 40% van het inkomenstarief.<br>
+<br>
+De organisator kan voor kinderen die buitenschools opgevangen worden, de verschillende verblijfstijden van minder dan één uur van een kind per week samentellen. In dat geval tellen die verblijfstijden als één kinderopvangprestatie.</p>
+
+<p>De minister bepaalt de nadere regels voor de bepaling van de verblijfstijden.</p>
 
 ### ART. 31.
 
@@ -727,15 +743,15 @@ De subsidie voor Centrum inclusieve kinderopvang bedraagt 32.845 euro per   kale
 ### ART. 50/2.
 
 De organisator zorgt voor:<br>
-1° het realiseren van een proactief opnamebeleid om kinderen met een specifieke zorgbehoefte een kinderopvangplaats te geven in een of meer eigen kinderopvanglocaties, in samenwerking met andere organisatoren, met instanties die werken met gezinnen met een kind met een specifieke zorgbehoefte en met de lokale loketten kinderopvang uit de zorgregio;<br>
-2° het realiseren van inclusieve kinderopvang in een of meer eigen kinderopvanglocaties, waarbij wordt samengewerkt met een netwerk van beschikbare instellingen of zorgverleners met een specifieke expertise in verband met kinderen met een specifieke zorgbehoefte, waarop een beroep kan worden gedaan voor samenwerking, of met belangenverenigingen van gezinnen als ervaringsdeskundigen, zodat minstens de opdrachten, vermeld in artikel 50/4, gerealiseerd worden;<br>
-3° het uitbouwen en verspreiden van expertise tot de realisatie van inclusieve kinderopvang binnen de volledige zorgregio, in samenwerking met door het agentschap erkende pedagogische ondersteuningsorganisaties en met het lokaal overleg kinderopvang, met specifieke aandacht voor begeleidingstrajecten ter ondersteuning van andere organisatoren kinderopvang bij de realisatie van inclusieve kinderopvang. Het doel daarbij is dat minstens zeven kinderopvanglocaties minstens één kind met een specifieke zorgbehoefte opvangen;<br>
-4° het mee uitvoeren van lokale en provinciale doelstellingen op het vlak van inclusie, zoals opgenomen in de meerjarenplanning van het lokaal of provinciaal bestuur, in samenwerking met het lokaal bestuur en met andere actoren die actief zijn in de zorgregio en die instaan voor de begeleiding van personen met een handicap of voor het beleid daarrond;<br>
-5° het sensibiliseren van organisatoren van kinderopvang en partners binnen de zorgregio voor de realisatie van inclusieve kinderopvang;<br>
+1° het realiseren van een proactief opnamebeleid om kinderen met een specifieke zorgbehoefte een kinderopvangplaats te geven in een of meer eigen kinderopvanglocaties of eigen locaties kleuteropvang, in samenwerking met andere organisatoren, met instanties die werken met gezinnen met een kind met een specifieke zorgbehoefte en met de lokale loketten kinderopvang uit de zorgregio;<br>
+2° het realiseren van inclusieve kinderopvang in een of meer eigen kinderopvanglocaties of eigen locaties kleuteropvang, waarbij wordt samengewerkt met een netwerk van beschikbare instellingen of zorgverleners met een specifieke expertise in verband met kinderen met een specifieke zorgbehoefte, waarop een beroep kan worden gedaan voor samenwerking, of met belangenverenigingen van gezinnen als ervaringsdeskundigen, zodat minstens de opdrachten, vermeld in artikel 50/4, gerealiseerd worden;<br>
+3° het uitbouwen en verspreiden van expertise tot de realisatie van inclusieve kinderopvang binnen de volledige zorgregio, in samenwerking met het ondersteuningsnetwerk kinderopvang en met het lokaal overleg kinderopvang, met specifieke aandacht voor begeleidingstrajecten ter ondersteuning van andere organisatoren kinderopvang of kleuteropvang bij de realisatie van inclusieve kinderopvang. Het doel daarbij is dat minstens zeven kinderopvanglocaties&nbsp;of locaties kleuteropvang minstens één kind met een specifieke zorgbehoefte opvangen;<br>
+4° het mee uitvoeren van lokale doelstellingen op het vlak van inclusie, zoals opgenomen in de meerjarenplanning van het lokaal bestuur, in samenwerking met het lokaal bestuur en met andere actoren die actief zijn in de zorgregio en die instaan voor de begeleiding van personen met een handicap of voor het beleid daarrond;<br>
+5° het sensibiliseren van organisatoren van kinderopvang&nbsp;of kleuteropvang en partners binnen de zorgregio voor de realisatie van inclusieve kinderopvang;<br>
 6° het informeren van en voorzien in inspraak voor gezinnen en belanghebbenden, bij de opdrachten, vermeld in punt 1° tot en met 4° ;<br>
 7° een aangepaste personeelsinzet voor de realisatie van de opdrachten, vermeld in punt 1° tot en met 6°.<br>
 <br>
-De kinderopvanglocaties, vermeld in het eerste lid, 3°, liggen binnen de zorgregio van de organisator en zijn van andere organisatoren. Voor een organisator van gezinsopvang geldt daarbij dat de eigen kinderbegeleiders niet meegeteld kunnen worden voor het aantal te begeleiden kinderopvanglocaties.
+De kinderopvanglocaties of locaties kleuteropvang, vermeld in het eerste lid, 3°, liggen binnen de zorgregio van de organisator en zijn van andere organisatoren. Voor een organisator van gezinsopvang geldt daarbij dat de eigen kinderbegeleiders niet meegeteld kunnen worden voor het aantal te begeleiden kinderopvanglocaties.
 
 ### ART. 50/3.
 
@@ -823,7 +839,7 @@ Het bedrag van de basissubsidie voor groepsopvang, vermeld in artikel 12, wordt 
 
 <p>§ 1. ....</p>
 
-<p>§ 2. De subsidie voor inkomenstarief voor gezinsopvang, meer bepaald het deel op basis van de leeftijd van de personen, vermeld in artikel 17, eerste lid, 2°, wordt gedurende een overgangsperiode van twaalf jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend als vermeld in artikel 17, derde lid, 1° en 2°, voor kinderopvangplaatsen die voordien gesubsidieerd waren tegen het tarief voor een openbaar bestuur op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende de overgangsperiode gelden de volgende bedragen :<br>
+<p>§ 2. De subsidie voor inkomenstarief voor gezinsopvang, meer bepaald het deel op basis van de leeftijd van de personen, vermeld in artikel 17, eerste lid, 2°, wordt gedurende een overgangsperiode van twaalf jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend als vermeld in artikel 17, vijfde lid, 1° en 2°, voor kinderopvangplaatsen die voordien gesubsidieerd waren tegen het tarief voor een openbaar bestuur op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende de overgangsperiode gelden de volgende bedragen :<br>
 1° de subsidie bedraagt 343,75 euro per gesubsidieerde kinderopvangplaats per kalenderjaar, als de gemiddelde leeftijd van de personen, vermeld in artikel 17, eerste lid, 2°, twintig jaar is;<br>
 2° voor elk jaar boven op de gemiddelde leeftijd van twintig jaar wordt de subsidie verhoogd met 5,91 euro per gesubsidieerde kinderopvangplaats, tot maximaal een gemiddelde leeftijd van zestig jaar.</p>
 
@@ -831,7 +847,7 @@ Het bedrag van de basissubsidie voor groepsopvang, vermeld in artikel 12, wordt 
 
 <p>§ 1. De subsidie voor inkomenstarief voor groepsopvang, meer bepaald het deel op basis van kinderopvangprestaties, vermeld in artikel 18, tweede lid, 1°, wordt gedurende een overgangsperiode van twaalf jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend voor kinderopvangplaatsen die voordien gesubsidieerd waren als samenwerkende onthaalouders op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende de overgangsperiode gelden de bedragen, vermeld in artikel 17, tweede lid, 1°.</p>
 
-<p>De subsidie voor inkomenstarief voor groepsopvang, meer bepaald het deel op basis van de leeftijd van de personen, vermeld in artikel 18, eerste lid, 2°, wordt gedurende een overgangsperiode van twaalf jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend als vermeld in artikel 18, derde lid, 1° en 2°, voor kinderopvangplaatsen die voordien gesubsidieerd waren als samenwerkende onthaalouders op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende de overgangsperiode gelden de volgende bedragen :<br>
+<p>De subsidie voor inkomenstarief voor groepsopvang, meer bepaald het deel op basis van de leeftijd van de personen, vermeld in artikel 18, eerste lid, 2°, wordt gedurende een overgangsperiode van twaalf jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend als vermeld in artikel 18, vijfde lid, 1° en 2°, voor kinderopvangplaatsen die voordien gesubsidieerd waren als samenwerkende onthaalouders op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende de overgangsperiode gelden de volgende bedragen :<br>
 1° voor kinderopvangplaatsen die voordien gesubsidieerd waren tegen het tarief voor een openbaar bestuur :<br>
 a) de subsidie bedraagt 343,75 euro per gesubsidieerde kinderopvangplaats per kalenderjaar, als de gemiddelde leeftijd van de personen, vermeld in artikel 18, eerste lid, 2°, twintig jaar is;<br>
 b) voor elk jaar bovenop de gemiddelde leeftijd van twintig jaar wordt de subsidie verhoogd met 5,91 euro per gesubsidieerde kinderopvangplaats, tot maximaal een gemiddelde leeftijd van zestig jaar;<br>
@@ -839,7 +855,7 @@ b) voor elk jaar bovenop de gemiddelde leeftijd van twintig jaar wordt de subsid
 a) de subsidie bedraagt 431,42 euro per gesubsidieerde kinderopvangplaats per kalenderjaar, als de gemiddelde leeftijd van de personen, vermeld in artikel 18, eerste lid, 2°, twintig jaar is;<br>
 b) voor elk jaar boven op de gemiddelde leeftijd van twintig jaar wordt de subsidie verhoogd met 7,42 euro per gesubsidieerde kinderopvangplaats, tot maximaal een gemiddelde leeftijd van zestig jaar.</p>
 
-<p>§ 2. De subsidie voor inkomenstarief voor groepsopvang, meer bepaald het deel op basis van de leeftijd van de personen, vermeld in artikel 18, eerste lid, 2°, wordt gedurende een overgangsperiode van twaalf jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend als vermeld in artikel 18, derde lid, 1° en 2°, voor kinderopvangplaatsen die voordien gesubsidieerd waren voor het inkomensgerelateerd systeem op basis van het besluit, vermeld in artikel 52, 4°, voor subsidieerbare plaatsen die tussen 1 april 2015 en 31 maart 2021 worden toegekend zoals vermeld in dit lid en voor subsidieerbare plaatsen die vanaf 1 april 2021 worden toegekend alleen als de organisator vraagt om ze toe te kennen op basis van dit lid omdat hij al subsidieerbare plaatsen heeft die zijn toegekend op dezelfde basis. Gedurende de overgangsperiode gelden de volgende bedragen :<br>
+<p>§ 2. De subsidie voor inkomenstarief voor groepsopvang, meer bepaald het deel op basis van de leeftijd van de personen, vermeld in artikel 18, eerste lid, 2°, wordt gedurende een overgangsperiode van twaalf jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend als vermeld in artikel 18, vijfde lid, 1° en 2°, voor kinderopvangplaatsen die voordien gesubsidieerd waren voor het inkomensgerelateerd systeem op basis van het besluit, vermeld in artikel 52, 4°, voor subsidieerbare plaatsen die tussen 1 april 2015 en 31 maart 2021 worden toegekend zoals vermeld in dit lid en voor subsidieerbare plaatsen die vanaf 1 april 2021 worden toegekend alleen als de organisator vraagt om ze toe te kennen op basis van dit lid omdat hij al subsidieerbare plaatsen heeft die zijn toegekend op dezelfde basis. Gedurende de overgangsperiode gelden de volgende bedragen :<br>
 1° de subsidie bedraagt 2133,89 euro per gesubsidieerde kinderopvangplaats per kalenderjaar, als de gemiddelde leeftijd van de personen, vermeld in artikel 18, eerste lid, 2°, twintig jaar is;<br>
 2° voor elk jaar boven op de gemiddelde leeftijd van twintig jaar wordt de subsidie verhoogd met 40,38 euro per gesubsidieerde kinderopvangplaats, tot maximaal een gemiddelde leeftijd van 60 jaar.<br>
 <br>
@@ -852,7 +868,7 @@ Binnen de overgangsperiode van twaalf jaar en voor de bedragen, vermeld in het e
 6° fase 6: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 355,87 euro en het bedrag, vermeld in eerste lid, 2°, met 6,23 euro;<br>
 7° fase 7: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 355,07 euro en het bedrag, vermeld in het eerste lid, 2°, met 6,20 euro.</p>
 
-<p>§ 3. De subsidie voor inkomenstarief voor groepsopvang, meer bepaald het deel op basis van de leeftijd van de personen, vermeld in artikel 18, eerste lid, 2°, wordt gedurende een overgangsperiode van twaalf jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend, als vermeld in artikel 18, derde lid, 1° en 2°, voor een aantal kinderopvangplaatsen die voordien gesubsidieerd waren voor een peutertuin en voor een crèche met kinderopvangplaatsen die voordien gesubsidieerd waren tegen het tarief voor een openbaar bestuur, op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende de overgangsperiode gelden voor dat aantal kinderopvangplaatsen de bedragen en het groeipad, vermeld in paragraaf 2.</p>
+<p>§ 3. De subsidie voor inkomenstarief voor groepsopvang, meer bepaald het deel op basis van de leeftijd van de personen, vermeld in artikel 18, eerste lid, 2°, wordt gedurende een overgangsperiode van twaalf jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend, als vermeld in artikel 18, vijfde lid, 1° en 2°, voor een aantal kinderopvangplaatsen die voordien gesubsidieerd waren voor een peutertuin en voor een crèche met kinderopvangplaatsen die voordien gesubsidieerd waren tegen het tarief voor een openbaar bestuur, op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende de overgangsperiode gelden voor dat aantal kinderopvangplaatsen de bedragen en het groeipad, vermeld in paragraaf 2.</p>
 
 <p>De minister bepaalt de nadere regels, onder meer de verhouding van het aantal kinderopvangplaatsen, en wat betreft de peutertuinen, enerzijds voor kinderopvangplaatsen die voordien gesubsidieerd waren volgens het tarief voor een peutertuin van een openbaar bestuur, en anderzijds volgens het tarief voor een peutertuin van een vzw.</p>
 
@@ -897,7 +913,9 @@ In afwijking van artikel 21 heeft de organisator een bezetting :<BR>1° van   70
 Zolang de kinderbegeleider werkt volgens het sociaal statuut van de aangesloten onthaalouders, betaalt de organisator aan de kinderbegeleider:<br>
 1° een kostenvergoeding van 21,55 euro per kinderopvangprestatie die vijf tot elf uur duurt, 60% van dat bedrag per kinderopvangprestatie die minder dan vijf uur duurt, en 160% van dat bedrag per kinderopvangprestatie die elf uur of meer duurt, of per kinderopvangprestatie 's nachts;<br>
 2° de subsidie flexibele gezinsopvang, vermeld in artikel 40/1, eerste lid, 1° ;<br>
-3° de subsidie voor individuele inclusieve kinderopvang, vermeld in artikel 41, per kinderopvangprestatie van een kind met een specifieke zorgbehoefte voor wie het agentschap een specifieke toekenning van bepaalde duur heeft verleend.
+3° de subsidie voor individuele inclusieve kinderopvang, vermeld in artikel 41, per kinderopvangprestatie van een kind met een specifieke zorgbehoefte voor wie het agentschap een specifieke toekenning van bepaalde duur heeft verleend.<br>
+<br>
+In afwijking van het eerste lid betaalt de organisator een kostenvergoeding aan de kinderbegeleider van 40% van het bedrag per kinderopvangprestatie van een kind dat buitenschools opgevangen wordt, die minder dan drie uur duurt.
 
 ## HOOFDSTUK 3 Subsidies van andere overheidsinstanties
 
