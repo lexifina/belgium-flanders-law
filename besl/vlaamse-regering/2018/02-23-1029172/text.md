@@ -39,32 +39,32 @@ Besluit :<br>
 
 In dit besluit wordt verstaan onder :<br>
 1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie;<br>
-2° organisatoren : organisatoren of kandidaat-organisatoren van kinderopvang.<br>
+1° /1 kinderopvang: de kinderopvang, vermeld in artikel 2 van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
+1° /2 kleuteropvang: de kleuteropvang met kwaliteitslabel, vermeld in artikel 2, 13°, van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
+2° organisator: organisator of kandidaat-organisator van kinderopvang of kleuteropvang.<br>
 &nbsp;
 
 ### ART 2.
 
-Het agentschap kent een subsidie toe aan het ondersteuningsnetwerk kinderopvang, dat de vorm aanneemt van een rechtspersoon zonder winstoogmerk, en als uitsluitende opdracht heeft de opdrachten, vermeld in artikel 3, 4 en 5, te realiseren.
+Het agentschap kent een subsidie toe aan het ondersteuningsnetwerk kinderopvang, dat de vorm aanneemt van een rechtspersoon zonder winstoogmerk, en als uitsluitende opdracht heeft de opdrachten, vermeld in artikel 3, 4, 4/1 en 5, te realiseren.
 
 ## HOOFDSTUK 2 Opdrachten
 
 ### ART 3.
 
-Het ondersteuningsnetwerk kinderopvang biedt, rekening houdend met de samenwerkingsovereenkomst, vermeld in artikel 5, vraaggestuurd ondersteuning aan organisatoren, en leidt organisatoren toe naar relevante partners die de ondersteuning kunnen opnemen.<br>
+Het ondersteuningsnetwerk kinderopvang biedt, rekening houdend met de samenwerkingsovereenkomst, vermeld in artikel 5, ondersteuning voor beleidsvoerend vermogen aan organisatoren, en leidt organisatoren toe naar relevante partners die de ondersteuning kunnen opnemen.<br>
+<br>
+In het eerste lid wordt verstaan onder beleidsvoerend vermogen: de mate waarin de organisator in staat is om een zelfstandig beleid te voeren, rekening houdend met de beschikbare beleidsruimte, met de eigen doelstellingen en met de lokale context, en de mate waarin de activiteiten van de verantwoordelijke en van de medewerkers op elkaar zijn afgestemd zodat ze bijdragen aan de ontplooiing van kinderen.<br>
 <br>
 Het doel van de ondersteuning is :<br>
 1° de organisatoren versterken in hun zelfredzaamheid en initiatiefkracht, met het oog op een kwaliteitsvolle en duurzame sector en dienstverlening;<br>
 2° de organisatoren bijstaan gedurende alle fases van kinderopvang : de informatiefase, de prestart, de start, de werking en de stopzetting of overname;<br>
-3° de organisatoren geïntegreerd ondersteunen op de volgende onderling samenhangende thema's :<br>
-a) infrastructuur;<br>
-b) veiligheid en gezondheid;<br>
-c) omgang met kinderen en gezinnen;<br>
-d) medewerkers;<br>
-e) organisatorisch management;<br>
-f) samenwerking met het agentschap, het lokaal bestuur, het lokaal loket kinderopvang en andere lokale partners;<br>
-g) opnamebeleid, met bijzondere aandacht voor kwetsbare gezinnen;<br>
-h) inclusieve opvang van kinderen met een specifieke zorgbehoefte;<br>
-i) flexibele opvang.<br>
+3° de organisatoren geïntegreerd ondersteunen op de volgende onderling samenhangende thema's:<br>
+a) het organisatorisch beleid, met inbegrip van het financieel beleid en sociaal ondernemerschap;<br>
+b) de toegankelijkheid, met aandacht voor kwetsbare gezinnen en kinderen met een specifieke zorgbehoefte;<br>
+c) het pedagogisch beleid;<br>
+d) het medewerkersbeleid, met aandacht voor het draagvlak van medewerkers;<br>
+e) monitoring en evaluatie.<br>
 &nbsp;
 
 ### ART 4.
@@ -75,26 +75,74 @@ De ondersteuning, vermeld in artikel 3, wordt gegeven in de vorm van :<br>
 3° het adviseren over de manier waarop werk wordt gemaakt van de thema's, vermeld in artikel 3, tweede lid, 3°.<br>
 &nbsp;
 
+### ART 4/1.
+
+Het ondersteuningsnetwerk kinderopvang biedt, rekening houdend met de samenwerkingsovereenkomst, vermeld in artikel 5, ondersteuning van kinderbegeleiders op de werkvloer, in samenhang met de opdracht, vermeld in artikel 3.<br>
+<br>
+De ondersteuning op de werkvloer, vermeld in het eerste lid, heeft de volgende doelstellingen:<br>
+1° kinderbegeleiders versterken in hun beroepscompetenties, vermeld in het beroepskwalificatieprofiel voor kinderbegeleiders, dat is opgenomen in de bijlage bij het besluit van de Vlaamse Regering van 21 april 2017 tot erkenning van de beroepskwalificatie kinderbegeleider baby's en peuters;<br>
+2° samen met de kinderbegeleiders instaan voor verzorgende en pedagogische taken bij de kinderen, en daarbij de kinderbegeleiders ondersteunen op het vlak van:<br>
+a) de diverse ontwikkelingsaspecten van kinderen;<br>
+b) de aspecten van veiligheid en gezondheid in de opvang van kinderen;<br>
+c) de omgang en de communicatie met de gezinnen;<br>
+d) het inclusief omgaan met kinderen met specifieke zorgbehoeften en kinderen uit kwetsbare gezinnen;<br>
+3° samen met de verantwoordelijke en de kinderbegeleiders de dagelijkse praktijk aftoetsen aan het pedagogisch beleid van de organisator en verbeterpunten planmatig aanpakken met kennis van de lokale netwerken die gericht zijn op het geïntegreerd beleid voor kinderen, jongeren en gezinnen;<br>
+4° in staat zijn om met betrekking tot verontrustende situaties:<br>
+a) deze te detecteren;<br>
+b) deze te bespreken met de organisator;<br>
+c) deze samen met de organisator mee op te volgen in functie van het herstel van de veiligheid;<br>
+d) het agentschap te informeren als er door de organisator geen passend gevolg gegeven wordt aan de bespreking en de opvolging vermeld in punt b) en c);<br>
+5° ondersteuning bieden tijdens of na afloop van een bezoek van Zorginspectie in het kader van een begeleidings- of opvolgingstraject van het agentschap en dit binnen de opdrachten van de ondersteuner als vermeld in deze bepaling.<br>
+<br>
+De ondersteuning van de kinderbegeleiders houdt rekening met het pedagogisch raamwerk dat in september 2014 is ontwikkeld door de vakgroep sociale agogiek van de universiteit Gent en het expertisecentrum ervaringsgericht onderwijs van de Katholieke Universiteit Leuven, in opdracht van het agentschap.
+
+### ART 4/2.
+
+De ondersteuners van de kinderbegeleiders beschikken over:<br>
+1° minimaal een kwalificatie van bachelorniveau;<br>
+2° competenties of ervaring op pedagogisch vlak inzake kinderopvang van baby's en peuters.
+
 ### ART 5.
 
-Het ondersteuningsnetwerk kinderopvang sluit een samenwerkingsovereenkomst met het agentschap. Die overeenkomst bevat de volgende elementen :<br>
-1° de prioriteiten voor de opdrachten, vermeld in artikel 3 en 4, op het vlak van inhoud, budget en doelgroep;<br>
-2° de inhoudelijke planning, de budgettaire planning en de evaluatie van de opdrachten, vermeld in artikel 3 en 4;<br>
-3° de mogelijke prijs die aan de organisatoren gevraagd kan worden voor de ondersteuning;<br>
-4° de modaliteiten van de actualisering, minstens jaarlijks, van de in 1° tot en met 3° vermelde elementen.<br>
+Het ondersteuningsnetwerk kinderopvang sluit, met het oog op de ondersteuning, vermeld in artikel 3, 4 en 4/1, een samenwerkingsovereenkomst met het agentschap. Die overeenkomst bevat al de volgende elementen:<br>
+1° de opdrachten, vermeld in artikel 3 en 4, op het vlak van inhoud, budget en doelgroep;<br>
+2° de inhoudelijke planning, de budgettaire planning en de evaluatie van de opdrachten, vermeld in artikel 3, 4 en 4/1;<br>
+3° de modaliteiten van de actualisering, minstens jaarlijks, van de elementen, vermeld in punt 1° en 2° ;<br>
+4° de manier waarop de opdrachten, vermeld in artikel 4/1, aansluiten bij de opdrachten, vermeld in artikel 3 en 4.<br>
 <br>
-Bij de bepaling van de prioriteiten, vermeld in het eerste lid, 1°, geldt dat voor de ondersteuning, vermeld in artikel 4, 1°, voorrang wordt gegeven aan kleinschalige kinderopvanglocaties en aan kinderopvanglocaties waarvoor de organisatoren geen of een beperkte subsidie krijgen.<br>
+Bij de bepaling van de opdrachten, vermeld in het eerste lid, 1°, geldt dat voor de ondersteuning, vermeld in artikel 4, 1°, voorrang wordt gegeven aan kleinschalige kinderopvanglocaties en aan kinderopvanglocaties waarvoor de organisatoren geen of een beperkte subsidie krijgen.<br>
 <br>
-De budgettaire planning en de evaluatie, vermeld in het eerste lid, 2°, bevat een begroting met een overzicht van de voorzienbare inkomsten en de geraamde uitgaven, en een boekhouding die de inkomsten en de uitgaven transparant afzondert.<br>
-<br>
-Bij de bepaling van de mogelijke prijs, vermeld in het eerste lid, 3°, geldt voor kleinschalige kinderopvanglocaties en voor kinderopvanglocaties waarvoor de organisatoren geen of een beperkte subsidie krijgen dat de ondersteuning kosteloos wordt aangeboden.<br>
-&nbsp;
+De budgettaire planning en de evaluatie, vermeld in het eerste lid, 2°, bevat een begroting met een overzicht van de voorzienbare inkomsten en de geraamde uitgaven, en een boekhouding die de inkomsten en de uitgaven transparant afzondert.
+
+### ART 5/1.
+
+Het ondersteuningsnetwerk kinderopvang sluit een ondersteuningsovereenkomst met de organisator voor wie hij de dienstverlening, vermeld in artikel 3, 4 en 4/1 van dit besluit, opneemt. In die ondersteuningsovereenkomst worden de volgende elementen vastgelegd:<br>
+1° de wijze waarop de ondersteuning voor de locatie wordt aangeboden;<br>
+2° de concrete afspraken en modaliteiten van de ondersteuning;<br>
+3° de gegevens over de kwalificatie en competenties van de ondersteuners die voor de organisator zijn aangesteld;<br>
+4° de contactgegevens van de ondersteuners die voor de organisator zijn aangesteld;<br>
+5° in voorkomend geval, de overdracht van de subsidie door de organisator die voor de ondersteuning op de werkvloer een beroep doet op het ondersteuningsnetwerk kinderopvang;<br>
+6° de wijze waarop de ondersteuning wordt geëvalueerd.
 
 ## HOOFDSTUK 3 Subsidie
 
 ### ART 6.
 
-&nbsp;De subsidie bedraagt&nbsp;2.996.076,1 euro op jaarbasis.
+&nbsp;De subsidie&nbsp;voor de opdrachten, vermeld in artikel 3 en 4, bedraagt&nbsp;2.996.076,1 euro op jaarbasis.<br>
+<br>
+De subsidie voor de opdrachten, vermeld in artikel 4/1 van dit besluit, wordt jaarlijks berekend op basis van de vergunde plaatsen op 1 september van het kalenderjaar dat voorafgaat aan het kalenderjaar waarvoor de subsidie geldt. De subsidie wordt op de volgende wijze berekend:<br>
+1° 126,05 euro per vergunde plaats groepsopvang voor de volgende organisatoren:<br>
+a) de organisatoren groepsopvang die geen subsidie voor inkomenstarief krijgen als vermeld in artikel 18 van het Subsidiebesluit van 22 november 2013, ongeacht het aantal plaatsen;<br>
+b) de organisatoren groepsopvang die de subsidie voor inkomenstarief krijgen, vermeld in artikel 18 van het Subsidiebesluit van 22 november 2013, tot en met achttien plaatsen op het niveau van organisator;<br>
+2° 64,75 euro per vergunde plaats gezinsopvang voor de volgende organisatoren:<br>
+a) de organisatoren van gezinsopvang die geen subsidie voor inkomenstarief krijgen als vermeld in artikel 17 van het Subsidiebesluit van 22 november 2013;<br>
+b) de organisatoren van gezinsopvang die een subsidie voor inkomenstarief krijgen als vermeld in artikel 17 van het Subsidiebesluit van 22 november 2013, met uitzondering van de organisatoren van gezinsopvang die werken met kinderbegeleiders in het sociaal statuut van de aangesloten onthaalouders of met werknemers in het kader van het vernieuwend project werknemersstatuut van de kinderbegeleiders, vermeld in het besluit van de Vlaamse Regering van 22 februari 2019 houdende de toekenning van een subsidie voor een vernieuwend project werknemersstatuut van de kinderbegeleider gezinsopvang.<br>
+<br>
+Bij een stopzetting van een organisator als vermeld in het tweede lid, wordt de subsidie pro rata toegekend.<br>
+<br>
+Van de subsidie, vermeld in het tweede lid, wordt minstens 90% rechtstreeks ingezet voor de ondersteuning van de kinderbegeleiders op de werkvloer en maximaal 10% voor overheadkosten.<br>
+<br>
+In het vierde lid wordt verstaan onder overheadkosten: het geheel van kosten voor coördinatie, sturing en ondersteuning van de concrete activiteiten.
 
 ### ART 7.
 
@@ -103,17 +151,19 @@ De subsidie wordt toegekend met inachtneming van het besluit 2012/21/EU van de C
 
 ### ART 8.
 
-Zolang het ondersteuningsnetwerk kinderopvang voldoet aan de voorwaarden voor de realisatie van de opdrachten, vermeld in artikel 3, 4 en 5, geldt de subsidie voor een duur van drie jaar.<br>
+Zolang het ondersteuningsnetwerk kinderopvang voldoet aan de voorwaarden voor de realisatie van de opdrachten, vermeld in artikel 3, 4, 4/1, 5 en 5/1, geldt de subsidie voor een duur van drie jaar.<br>
 <br>
 Als het agentschap de werking positief evalueert, wordt de subsidie telkens automatisch verlengd door het agentschap voor drie jaar.<br>
 <br>
 Het agentschap betrekt de organisatoren of hun vertegenwoordigers bij de evaluatie, vermeld in het tweede lid.<br>
+<br>
+Bij de evaluatie, vermeld in het tweede lid, wordt specifiek ook de inzet van de ondersteuners op de werkvloer, vermeld in artikel 4/1, geëvalueerd. Het ondersteuningsnetwerk kinderopvang bezorgt op verzoek van het agentschap alle nodige inlichtingen met het oog op die evaluatie.<br>
 &nbsp;
 
 ### ART 9.
 
 Het ondersteuningsnetwerk kinderopvang kan op de volgende wijze reserves opbouwen met de subsidies, vermeld in dit besluit :<br>
-1° de reserves worden aangewend om de opdrachten, vermeld in artikel 3, 4 en 5, te realiseren;<br>
+1° de reserves worden aangewend om de opdrachten, vermeld in artikel 3, 4, 4/1, 5 en 5/1, te realiseren;<br>
 2° maximaal 20% van het subsidiebedrag kan als reserve overgedragen worden naar het volgende kalenderjaar;<br>
 3° de gecumuleerde reserve, opgebouwd uit de jaarlijkse subsidiebedragen, vermeld in punt 2°, is maximaal 50% van de jaarlijkse subsidiebedragen, vermeld in punt 2° ;<br>
 4° als het maximum, vermeld in punt 2° en 3°, overschreden wordt, wordt het overschreden bedrag teruggestort aan het agentschap, tenzij het ondersteuningsnetwerk kinderopvang een aanwendingsplan of aanzuiveringsplan heeft dat voldoet aan een aantal criteria, waaronder de goedkeuring van de Inspectie van Financiën van de Vlaamse overheid.<br>
@@ -121,7 +171,7 @@ Het ondersteuningsnetwerk kinderopvang kan op de volgende wijze reserves opbouwe
 
 ### ART 10.
 
-Het ondersteuningsnetwerk kinderopvang stelt een commissaris-revisor aan die, aanvullend op zijn wettelijke taak en opdracht, jaarlijks attesteert dat de subsidie, vermeld in artikel 6, alleen aangewend wordt voor de opdrachten, vermeld in artikel 3, 4 en 5.
+Het ondersteuningsnetwerk kinderopvang stelt een commissaris-revisor aan die, aanvullend op zijn wettelijke taak en opdracht, jaarlijks attesteert dat de subsidie, vermeld in artikel 6, alleen aangewend wordt voor de opdrachten, vermeld in artikel 3, 4, 4/1, 5 en 5/1.
 
 ### ART 11.
 
@@ -138,9 +188,9 @@ Deze aanpassing gebeurt telkens twee maanden nadat de afgevlakte gezondheidsinde
 
 De subsidie wordt betaald met voorschotten per kwartaal en een saldoafrekening.<br>
 <br>
-De voorschotten bedragen telkens 20% van het bedrag, vermeld in artikel 6, en worden de eerste maand van elk kwartaal betaald. Het saldo wordt betaald uiterlijk op 1 april van het jaar dat volgt op het betreffende kalenderjaar.<br>
+De voorschotten bedragen telkens 20% van het bedrag, vermeld in artikel 6, en worden de eerste maand van elk kwartaal betaald. Het saldo wordt betaald uiterlijk op 15 mei van het jaar dat volgt op het betreffende kalenderjaar.<br>
 <br>
-In afwijking van het eerste en het tweede lid kan het agentschap, bij ernstige problemen bij het ondersteuningsnetwerk kinderopvang, en minstens als er een risico is op plotse stopzetting van de opdrachten, vermeld in artikel 3, 4 en 5, of bij vermoeden van fraude door het ondersteuningsnetwerk kinderopvang, beslissen om specifieke maatregelen te nemen voor de betaling van de voorschotten en de saldoafrekening, zoals het niet betalen of het verminderen van het bedrag van een voorschot.<br>
+In afwijking van het eerste en het tweede lid kan het agentschap, bij ernstige problemen bij het ondersteuningsnetwerk kinderopvang, en minstens als er een risico is op plotse stopzetting van de opdrachten, vermeld in artikel 3, 4, 4/1, 4/2, 5 en 5/1, of bij vermoeden van fraude door het ondersteuningsnetwerk kinderopvang, beslissen om specifieke maatregelen te nemen voor de betaling van de voorschotten en de saldoafrekening, zoals het niet betalen of het verminderen van het bedrag van een voorschot.<br>
 &nbsp;
 
 ### ART 13.
@@ -247,8 +297,7 @@ De organisaties, vermeld in het eerste lid :<br>
 
 ### ART 26.
 
-In de samenwerkingsovereenkomst, vermeld in artikel 5, wordt bepaald hoe de middelen van het voormalige project `Ondersteuning van de kwaliteitszorg in de kinderopvang' van de provincie Limburg aan de vzw Limburgs Steunpunt Kinderopvang, meer bepaald&nbsp;94.000 euro van het bedrag, vermeld in artikel 6, worden ingezet, gedurende een overgangstermijn van drie jaar.<br>
-&nbsp;
+...
 
 ## HOOFDSTUK 7 Opheffingsbepaling
 
