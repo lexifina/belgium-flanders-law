@@ -143,6 +143,34 @@ In afwijking van het eerste en het tweede lid hoeft er voor gebouweenheden met e
 
 In artikel 9.2.7/2, derde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 30 november 2018, worden tussen de woorden "de energiedeskundige type A" en de woorden "ter beschikking gesteld" de woorden "ondertekend en" ingevoegd.
 
+### ART 21.
+
+Aan titel IX van het Energiebesluit van 19 november 2010, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 11 december 2020, wordt hoofdstuk III, dat bestaat uit artikel 9.3.1 en artikel 9.3.2, opnieuw opgenomen in de volgende lezing :<br>
+<br>
+"Hoofdstuk III. Renovatieverplichting voor niet-residentiële gebouwen<br>
+<br>
+Art. 9.3.1. § 1. Niet-residentiële gebouwen en niet-residentiële eenheden voldoen binnen uiterlijk vijf jaar na de datum van het verlijden van de authentieke akte bij een notariële overdracht in volle eigendom, het vestigen van een opstalrecht of het vestigen van een erfpacht aan de volgende minimale energieprestatieniveaus :<br>
+1° als voor dakisolatie de minimale R-waarde van 0,75 m<sup>2</sup>K/W niet gehaald wordt op de datum van het verlijden van de authentieke akte, wordt dakisolatie met een maximale U-waarde van 0,24 W/m<sup>2</sup>K geplaatst;<br>
+2° aanwezig enkel glas wordt vervangen door beglazing met een maximale U-waarde 1 W/m<sup>2</sup>K;<br>
+3° aanwezige centrale warmteopwekkers die deel uitmaken van een installatie voor ruimteverwarming die ouder dan vijftien jaar zijn op de datum van het verlijden van de authentieke akte, worden vervangen door een nieuwe warmteopwekker, tenzij kan worden aangetoond dat de installatie voor ruimteverwarming aan de minimale installatie-eisen voor renovatie, zoals beschreven in Bijlage XII van dit besluit, voldoet. Als er een aardgasnet aanwezig is in de straat, mag daarbij geen nieuwe stookolieketel geplaatst worden.<br>
+4° Koelinstallaties die ouder zijn dan vijftien jaar op de datum van het verlijden van de authentieke akte en gebruik maken van koelmiddelen op basis van ozonlaagafbrekende stoffen, zoals omschreven in titel II, hoofdstuk 1.1, artikel 1.1.2 van het VLAREM of gebruik maken van koelmiddelen met een GWP-waarde van minstens 2500, berekend volgens de methodiek vastgelegd in bijlagen I, II en IV van EU-verordening 517/2014, worden verplicht vervangen door koelinstallaties die geen gebruik maken van dergelijke koelmiddelen.<br>
+<br>
+Niet-residentiële eenheden die deel uitmaken van een groter gebouw waarbij niet alle eenheden worden overgedragen, voldoen alleen voor de individuele onderdelen van die eenheid aan de verplichtingen, vermeld in het eerste lid. Verschillende niet-residentiële eenheden die samen een niet-residentieel gebouw vormen en waarbij het gebouw in totaliteit wordt overgedragen, voldoen voor alle onderdelen aan de verplichtingen, vermeld in het eerste lid.<br>
+<br>
+§ 2. Naast de verplichtingen vermeld in paragraaf 1 behalen kleine niet-residentiële eenheden die samen een niet-residentieel gebouw vormen, die in totaliteit worden overgedragen en waarbij de datum van het verlijden van de authentieke akte bij een notariële overdracht in volle eigendom, het vestigen van een opstalrecht of het vestigen van een erfpacht plaatsvindt vanaf 1 januari 2022, bijkomend binnen vijf jaar vanaf de datum van de authentieke akte ook een energieprestatiecertificaat kleine niet-residentiële gebouwen of residentiële gebouwen met een minimaal energieprestatielabel C, afhankelijk van de bestemming van de gebouweenheid.<br>
+<br>
+§ 3. In afwijking van paragraaf 2 kunnen kleine niet-residentiële eenheden als vermeld in paragraaf 2, er ook voor kiezen om vanaf 1 januari 2023 te voldoen aan de verplichting, vermeld in paragraaf 4, die wordt opgelegd aan grote niet-residentiële eenheden.<br>
+<br>
+§ 4. Naast de verplichtingen vermeld in paragraaf 1 behalen grote niet-residentiële eenheden die samen een niet-residentieel gebouw vormen, die in totaliteit worden overgedragen en waarbij de datum van het verlijden van de authentieke akte bij een notariële overdracht in volle eigendom, het vestigen van een opstalrecht of het vestigen van een erfpacht plaatsvindt vanaf 1 januari 2023, bijkomend binnen vijf jaar vanaf de datum van de authentieke akte ook een minimaal aandeel hernieuwbare energie van 5%.<br>
+<br>
+Art. 9.3.2. In afwijking van artikel 9.3.1 zijn niet-residentiële gebouwen die binnen vijf jaar na de aankoop of na de vestiging van de erfpacht of het opstalrecht worden gesloopt vrijgesteld van de renovatieverplichting, vermeld in artikel 9.3.1.<br>
+<br>
+In afwijking van artikel 9.3.1 is een niet-residentieel gebouw dat een beschermd monument is, deel uitmaakt van een beschermd cultuurhistorisch landschap, stads- of dorpsgezicht of voorkomt op de inventaris van bouwkundig erfgoed, vrijgesteld van de verplichtingen vermeld in artikel 9.3.1, paragraaf 1, 1° en 2° voor de schildelen van het gebouw waarop de bescherming rust en de verplichtingen vermeld in artikel 9.3.1, paragraaf 2 en paragraaf 4.<br>
+<br>
+De minister kan nadere regels vaststellen over de wijze waarop aangetoond wordt dat het niet-residentiële gebouw onder de uitzonderingen, vermeld in het eerste en tweede lid valt.<br>
+<br>
+Art. 9.3.3. De verplichtingen zoals vermeld in artikel 9.3.1 worden opgelegd aan respectievelijk de eigenaar, de opstalhouder of de erfpachter. Wanneer er meerdere eigenaars, opstalhouders of erfpachters zijn, rust deze verplichting op elk van hen".
+
 ### ART 25.
 
 In artikel 12.3.22 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 9 oktober 2020, wordt de zinsnede "9.2.4" vervangen door de zinsnede "9.2.5".
