@@ -32,54 +32,52 @@
 
 ### ART. 1.
 
-In   dit besluit wordt verstaan onder :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   Departement WSE : het Departement Werk en Sociale Economie van het Vlaams   Ministerie van Werk en Sociale Economie;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   minister : de Vlaamse minister, bevoegd voor het   tewerkstellingsbeleid.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 2.
 
-De   minister kent de beroepskaarten toe. De minister kan die bevoegdheid verder   delegeren aan personeelsleden die onder zijn gezag staan.
+...
 
 ### ART. 3.
 
-Het   Departement WSE beoordeelt of de aanvragen tot het verkrijgen, verlengen, of   vernieuwen van een beroepskaart ontvankelijk zijn.
+...
 
 ### ART. 4.
 
-De   vreemdeling van wie de beroepskaart wordt geweigerd, kan bij de minister beroep   aantekenen.
+...
 
 ## Hoofdstuk 2 Samenstelling en werking van de Raad voor Economisch Onderzoek inzake Vreemdelingen
 
 ### ART. 5.
 
-De   heer Kris Jozef Maria Luyckx, met woonplaats in 2000 Antwerpen, Meir 80, bus   5.4, wordt benoemd tot voorzitter van de Raad voor Economisch Onderzoek inzake   Vreemdelingen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 6.
 
-Mevr.   Erica Caluwaerts, met woonplaats in 2000 Antwerpen, Amerikalei 138, wordt   benoemd tot ondervoorzitter van de Raad voor Economisch Onderzoek inzake   Vreemdelingen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 7.
 
-De volgende personen worden benoemd als lid van de Raad voor Economisch Onderzoek inzake Vreemdelingen :<br>
-1° de heer Valens Jozef Michel Delbarre als lid; Mevr. Sofie Roels en Mevr. Sabine Johanna Gerda Berkvens als plaatsvervanger;<br>
-2°&nbsp;Mevr. Saskia Baele en Mevr. Karen Jozef C Cambré als lid; Mevr. Ann Bogman, de heer Wouter Ottevaere en de heer Josse Theo Barbé als plaatsvervanger.
+...
 
 ### ART. 8.
 
-<P>Artikel   1 tot en met 13 van het besluit van de Vlaamse Regering van 27 januari 1988   houdende sommige maatregelen tot harmonisatie van de toelagen en presentiegelden   aan commissarissen, gemachtigden van financiën, afgevaardigden van de Vlaamse   regering, voorzitters en leden van niet-adviserende bijzondere commissies of van   raden van bestuur van instellingen en ondernemingen die onder de Vlaamse   regering behoren zijn van toepassing op de voorzitter en de ondervoorzitter van   de Raad, op het vlak van toelagen, presentiegelden en vergoedingen wegens reis-   en verblijfkosten.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Voor   de toepassing van de voormelde bepalingen is de Raad ingedeeld in categorie II   als vermeld in artikel 3, § 1, b) van het voormeld besluit, en hebben de   voorzitter en de ondervoorzitter van de Raad de hoedanigheid van de personen,   vermeld in artikel 1, 3°, van het voormelde besluit.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Er   wordt in een aanvullend representatiebudget van 2000 euro per jaar uitgetrokken   voor de voorzitter van de adviescommissie.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+...
 
 ### ART. 9.
 
-&nbsp;De leden van de Raad voor Economisch Onderzoek inzake Vreemdelingen worden benoemd voor een termijn van vier jaar, die afloopt op 31 december 2018. Na afloop van die termijn zal de minister de voorzitter, de ondervoorzitter, de gewone en de plaatsvervangende leden van de Raad voor Economisch Onderzoek inzake Vreemdelingen benoemen.
+...
 
 ### ART. 10.
 
-Het   Departement WSE neemt het secretariaat van de Raad voor Economisch Onderzoek   inzake Vreemdelingen waar.
+...
 
 ## Hoofdstuk 3 Slotbepalingen
 
 ### ART. 11.
 
-Dit   besluit heeft uitwerking op 1 januari 2015.
+...
 
 ### ART. 12.
 
-&nbsp;De Vlaamse minister, bevoegd voor het   tewerkstellingsbeleid, is belast met de uitvoering van dit   besluit.
+...
