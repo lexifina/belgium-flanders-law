@@ -103,6 +103,10 @@ In artikel 1.1.1, § 2, van het Energiebesluit van 19 november 2010, het laatst 
 In artikel 1.1.2 van hetzelfde besluit, het laatst gewijzigd bij besluit van de Vlaamse Regering van 9 oktober 2020, wordt punt 1° vervangen door wat volgt:<br>
 "1° richtlijn (EU) 2018/2001 van het Europees Parlement en de Raad van 11 december 2018 ter bevordering van het gebruik van energie uit hernieuwbare bronnen;".
 
+### ART 9.
+
+In titel III, hoofdstuk I, afdeling V, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 23 september 2011 en 17 mei 2019, wordt onderafdeling II, die bestaat uit artikel 3.1.39 tot en met 3.1.41, opgeheven.
+
 ### ART 10.
 
 In artikel 3.1.52, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 17 mei 2019 en gewijzigd bij het besluit van de Vlaamse Regering van 17 juli 2020, wordt het zevende lid vervangen door wat volgt:<br>
