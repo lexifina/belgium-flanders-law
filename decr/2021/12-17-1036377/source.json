@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036377,
+  "title": "Decreet van 2021-12-17 tot wijziging van het GIPOD-decreet van 4 april 2014",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036377/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "1f81e6407c6eb14ee8208eca268455801240dc31328b7b896c778ad3794f4167",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036377&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2021-12-17",
+  "gazette": "2021-12-31",
+  "numac": 2021043555,
+  "document_start": "2022-01-01",
+  "document_end": null,
+  "in_force": "2022-01-01",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
