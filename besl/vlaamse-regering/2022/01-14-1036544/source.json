@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036544,
+  "title": "Besluit van de Vlaamse Regering van 2022-01-14 tot wijziging van diverse besluiten naar aanleiding van de oprichting van het Agentschap Justitie en Handhaving",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036544/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "ebabd9e54712491887ebe6da6fdac815d6eab70c959edd8f515ccd44b1ad20db",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036544&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2022-01-14",
+  "gazette": "2022-03-02",
+  "numac": 2022040095,
+  "document_start": "2022-01-01",
+  "document_end": null,
+  "in_force": "2022-01-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
