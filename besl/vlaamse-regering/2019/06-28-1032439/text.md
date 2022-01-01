@@ -1282,7 +1282,7 @@ c)&nbsp;in het universitair onderwijs: het studiegebied lichamelijke opvoeding, 
 
 ### ART 30.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De dienst stelt per 110 gebruikers, aan wie hij gezinszorg door verzorgend personeel biedt, één voltijdsequivalent begeleidend personeel tewerk. Per 55 extra gebruikers aan wie hij gezinszorg aanbiedt, stelt hij daarbovenop één halftijdsequivalent begeleidend personeel tewerk.</span></span><br>
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De dienst stelt per 105&nbsp;gebruikers, aan wie hij gezinszorg door verzorgend personeel biedt, één voltijdsequivalent begeleidend personeel tewerk. Per 53&nbsp;extra gebruikers aan wie hij gezinszorg aanbiedt, stelt hij daarbovenop één halftijdsequivalent begeleidend personeel tewerk.</span></span><br>
 <br>
 <span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Een begeleidend personeelslid of een lid van het omkaderingspersoneel beschikt over de nodige competenties voor de opdrachten, vermeld in artikel 1, 2°, die aan hem worden toegewezen. Hij beschikt bij de indiensttreding over een van de volgende graden of studiebewijzen:</span></span><br>
 <span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de graad van bachelor;</span></span></span></span><br>
@@ -1491,7 +1491,7 @@ De aanvraag tot omzetting van vte logistiek personeel als vermeld in het eerste 
 
 <p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De subsidie bestaat uit:</span></span><br>
 <span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;een forfaitair bedrag van 27,3771 euro per gepresteerd uur en per uur bijscholing, als subsidiëring van het verzorgend personeel en van het &nbsp;&nbsp;&nbsp;&nbsp; bevorderen van de deskundigheid van het verzorgend personeel; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2° een forfaitair bedrag van 44.188 euro per jaar en per 110 geholpen gebruikers, als subsidiëring van het begeleidend personeel;</span></span></span></span><br>
+<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2° een forfaitair bedrag van 45.081 euro per jaar en per 105&nbsp;geholpen gebruikers, als subsidiëring van het begeleidend personeel;</span></span></span></span><br>
 <span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;een forfaitair bedrag van 21.853&nbsp;euro per jaar en per 75 vte verzorgend personeel, als subsidiëring van het leidinggevend personeel; </span></span></span></span><br>
 <span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;een forfaitair bedrag van 26.970&nbsp;euro per jaar en per 200 geholpen gebruikers als subsidiëring van de administratie- en coördinatiekosten.</span></span></span></span><br>
 <br>
@@ -1521,13 +1521,13 @@ Voor alle andere verplaatsingen dan de verplaatsingen, vermeld in het vierde en 
 <br>
 <span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Prestaties tussen 22 uur en 7 uur die korter zijn dan 8 uur worden, binnen het urencontingent, gelijkgesteld met een prestatie van 8 uur.</span></span><br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§ 5. De verhogingen, vermeld in paragraaf 3, worden begrensd tot 4,87% van het toegekende urencontingent.<br>
+<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§ 5. De verhogingen, vermeld in paragraaf 3, worden begrensd tot 5,2% van het toegekende urencontingent.<br>
 <br>
 Binnen de beschikbare begrotingskredieten kunnen de individuele diensten die het percentage, vermeld in het eerste lid, overschrijden, de verhogingen, vermeld in paragraaf 3, ontvangen voor de onregelmatige prestaties die het percentage, vermeld in het eerste lid, overschrijden, op voorwaarde dat die grens op sectorniveau niet wordt overschreden. De beschikbare middelen worden verdeeld over de diensten in kwestie in verhouding tot de onregelmatige prestaties boven het percentage, vermeld in het eerste lid..</span></span></p>
 
 ### ART 53/1.
 
-§ 1. Voor de maatregel flexibiliteit tussen 18 uur en 20 uur uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non- profitsectoren voor de periode 2021 tot 2025 wordt een budget van 256.312,02 euro verdeeld tussen de erkende diensten voor gezinszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent gezinszorg voor dat jaar verhoogd wordt.<br>
+§ 1. Voor de maatregel flexibiliteit tussen 18 uur en 20 uur uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non- profitsectoren voor de periode 2021 tot 2025 wordt een budget van 782.238,65 euro verdeeld tussen de erkende diensten voor gezinszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent gezinszorg voor dat jaar verhoogd wordt.<br>
 <br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de diensten op basis van het aantal gepresteerde uren gezinszorg tussen 18 uur en 20 uur op werkdagen als vermeld in artikel 21, tweede lid, van deze bijlage, met inbegrip van de uren die gepresteerd zijn in een centrum voor dagopvang, door het verzorgend personeel dat gefinancierd wordt met de middelen, vermeld in artikel 52, eerste lid, 1°, van deze bijlage. De diensten kunnen per gepresteerd uur maximaal 15% van het bedrag, vermeld in artikel 52, eerste lid, 1°, van deze bijlage, ontvangen. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar waarop het budget betrekking heeft.<br>
 <br>
@@ -1540,7 +1540,7 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, § 3,
 ### ART 54.
 
 <p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. Voor de berekening van de subsidies, vermeld in artikel 52, eerste lid, 2°, 3°, en 4°, van deze bijlage, zijn naargelang van het aantal geholpen gebruikers en het aantal vte verzorgend personeel, de volgende subsidiefracties mogelijk: </span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1° voor het begeleidend personeel: x/110 van het subsidiebedrag, vermeld in artikel 52, eerste lid, 2°, van deze bijlage; </span></span></span></span><br>
+<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1° voor het begeleidend personeel: x/105&nbsp;van het subsidiebedrag, vermeld in artikel 52, eerste lid, 2°, van deze bijlage; </span></span></span></span><br>
 <span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;voor het leidinggevend personeel: x/75 van het subsidiebedrag, vermeld in artikel 52, eerste lid, 3°, van deze bijlage, vanaf 75 vte; </span></span></span></span><br>
 <span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;voor de administratie- en coördinatiekosten: x/200 van het subsidiebedrag, vermeld in artikel 52, eerste lid, 4°, van deze bijlage.</span></span></span></span><br>
 <br>
@@ -1583,7 +1583,7 @@ De toeslag wordt samen met het saldo, vermeld in artikel 66, eerste lid, van dez
 
 ### ART 58.
 
-<p style="margin-left:0cm; margin-right:0cm">§1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld van 7.223.155,68 euro tussen de erkende private diensten voor gezinszorg.<br>
+<p style="margin-left:0cm; margin-right:0cm">§1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld van 8.720.806,33 euro&nbsp;tussen de erkende private diensten voor gezinszorg.<br>
 <br>
 §2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens in verband met werkdruk die ze bezorgen aan Zorggezind. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
 <br>
@@ -1597,7 +1597,7 @@ Het bedrag, vermeld in paragraaf 1, is gekoppeld aan het prijsindexcijfer dat be
 
 ### ART 59.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. Voor de vergoeding van verplaatsingen met de fiets of bromfiets in opdracht wordt een budget van 166.068,83 euro verdeeld tussen de erkende diensten voor gezinszorg.</span></span><br>
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. Voor de vergoeding van verplaatsingen met de fiets of bromfiets in opdracht wordt een budget van 168.106,93 euro verdeeld tussen de erkende diensten voor gezinszorg.</span></span><br>
 <br>
 <span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het deel van het budget, vermeld in het eerste lid, dat in het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft, aan personeel van gezinszorg is toegekend, stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent gezinszorg wordt verhoogd voor het jaar waarop het budget betrekking heeft.</span></span><br>
 <br>
@@ -1618,7 +1618,7 @@ Het bedrag, vermeld in paragraaf 1, is gekoppeld aan het prijsindexcijfer dat be
 <br>
 <span style="font-size:10pt">Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, §3, derde lid,</span> <span style="font-size:10pt">van deze bijlage.<br>
 <br>
-§ 4. Voor de maatregel verplaatsingen met de fiets of bromfiets in opdracht wordt ter uitvoering van het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025 een extra budget van 35.621,61 euro boven op het budget, vermeld in paragraaf 1, eerste lid, verdeeld tussen de private diensten voor gezinszorg.<br>
+§ 4. Voor de maatregel verplaatsingen met de fiets of bromfiets in opdracht wordt ter uitvoering van het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025 een extra budget van 36.045,72 euro boven op het budget, vermeld in paragraaf 1, eerste lid, verdeeld tussen de private diensten voor gezinszorg.<br>
 <br>
 Het deel van het budget, vermeld in het eerste lid, dat in het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft, aan verzorgend personeel is toegekend, stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent gezinszorg wordt verhoogd voor het jaar waarop het budget betrekking heeft.<br>
 <br>
@@ -1658,7 +1658,7 @@ Het bedrag, vermeld in paragraaf 1, eerste lid, wordt geïndexeerd conform artik
 
 ### ART 61.
 
-<p style="margin-left:0cm; margin-right:0cm">§1. Voor de maatregel eindejaarspremie wordt een budget van 9.451.326,40 euro verdeeld tussen de erkende private diensten voor gezinszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
+<p style="margin-left:0cm; margin-right:0cm">§1. Voor de maatregel eindejaarspremie wordt een budget van 9.614.834,35 euro verdeeld tussen de erkende private diensten voor gezinszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
 <br>
 §2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens in verband met de eindejaarspremie die ze bezorgen aan Zorggezind. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop het budget betrekking heeft.<br>
 <br>
@@ -1670,11 +1670,11 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, §3, 
 
 ### ART 62.
 
-<p style="margin-left:0cm; margin-right:0cm">§ 1. Voor de maatregelen managementondersteuning, koopkracht, uurroosterverstoring, innovatie en digitalisering, en de baremaverhoging voor het verzorgend personeel en de omkadering wordt een budget van 31.822.307,93 euro verdeeld tussen de erkende private diensten voor gezinszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
+<p style="margin-left:0cm; margin-right:0cm">§ 1. Voor de maatregelen managementondersteuning, koopkracht, uurroosterverstoring, innovatie en digitalisering, en de baremaverhoging voor het verzorgend personeel en de omkadering wordt een budget van 36.880.566,51 euro verdeeld tussen de erkende private diensten voor gezinszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
 <br>
-§ 2. 87,14% van het budget, vermeld in paragraaf 1, waarvan 75,59% voor koopkracht van het verzorgend personeel en het overige personeel, 0,23% voor uurroosterverstoring en 3,64% voor innovatie en digitalisering, wordt evenredig verdeeld tussen de private diensten op basis van het toegewezen urencontingent gezinszorg van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
+§ 2. 88,46% van het budget, vermeld in paragraaf 1, waarvan 78,66% voor koopkracht van het verzorgend personeel en het overige personeel, 0,60% voor uurroosterverstoring en 3,15% voor innovatie en digitalisering, wordt evenredig verdeeld tussen de private diensten op basis van het toegewezen urencontingent gezinszorg van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
 <br>
-§ 3. 12,86% van het budget, vermeld in paragraaf 1, waarvan 89,08% voor koopkracht van het begeleidend personeel, wordt evenredig verdeeld tussen de private diensten op basis van het effectieve aantal gesubsidieerde vte begeleidend personeel van gezinszorg van het tweede kalenderjaar dat voorafgaat aan het kalenderjaar waarop dat budget betrekking heeft, zoals berekend in Vesta.<br>
+§ 3. 11,54% van het budget, vermeld in paragraaf 1, waarvan 89,32% voor koopkracht van het begeleidend personeel, wordt evenredig verdeeld tussen de private diensten op basis van het effectieve aantal gesubsidieerde vte begeleidend personeel van gezinszorg van het tweede kalenderjaar dat voorafgaat aan het kalenderjaar waarop dat budget betrekking heeft, zoals berekend in Vesta.<br>
 <br>
 § 4. Het subsidiebedrag wordt aan de private diensten toegekend samen met hun voorschot van het derde trimester.<br>
 <br>
@@ -1682,9 +1682,9 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, § 3,
 
 ### ART 63.
 
-<p style="margin-left:0cm; margin-right:0cm">§ 1. Voor de maatregel werkdrukvermindering, koopkracht en innovatie en digitalisering wordt er een budget verdeeld van 4.791.090,51 euro tussen de erkende openbare diensten voor gezinszorg.<br>
+<p style="margin-left:0cm; margin-right:0cm">§ 1. Voor de maatregel werkdrukvermindering, koopkracht en innovatie en digitalisering wordt er een budget verdeeld van 7.988.574,59 euro tussen de erkende openbare diensten voor gezinszorg.&nbsp;Het budget voor de maatregel koopkracht en voor de maatregel innovatie en digitalisering stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
 <br>
-9,28% van het budget, vermeld in het eerste lid, is voor de maatregel werkdrukvermindering, 76,85% van het voormelde budget is voor de koopkrachtmaatregel, en 4,23% van het voormelde budget is voor de maatregel innovatie en digitalisering uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025.<br>
+8,35% van het budget, vermeld in het eerste lid, is voor de maatregel werkdrukvermindering, 83,29% van het voormelde budget is voor de koopkrachtmaatregel, en 2,58% van het voormelde budget is voor de maatregel innovatie en digitalisering uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025.<br>
 <br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de openbare diensten op basis van het toegewezen urencontingent gezinszorg van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
 <br>
@@ -1706,7 +1706,7 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, § 3,
 
 ### ART 65.
 
-<p style="margin-left:0cm; margin-right:0cm">Het aantal uren bijscholing dat in aanmerking komt voor subsidiëring, wordt per dienst begrensd tot 2,33% van het toegekende urencontingent. Dat urencontingent bijscholing komt boven op het toegekende urencontingent.</p>
+<p style="margin-left:0cm; margin-right:0cm">Het aantal uren bijscholing dat in aanmerking komt voor subsidiëring, wordt per dienst begrensd tot 2,5% van het toegekende urencontingent. Dat urencontingent bijscholing komt boven op het toegekende urencontingent.</p>
 
 ### ART 66.
 
@@ -1777,7 +1777,7 @@ Het bedrag, vermeld in het eerste lid, wordt verhoogd met 100,45 euro om de maat
 
 <p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De private diensten ontvangen voor managementondersteuning en de baremaverhoging voor omkadering een bedrag van 153,63 euro per vte logistiek personeel en per vte doelgroepwerknemer.<br>
 <br>
-Het bedrag, vermeld in het eerste lid, wordt verhoogd met 1623,42 euro om de koopkrachtmaatregel uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025 uit te voeren.</span></span><br>
+Het bedrag, vermeld in het eerste lid, wordt verhoogd met 1932,08 euro om de koopkrachtmaatregel uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025 uit te voeren.</span></span><br>
 <br>
 <span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het bedrag, vermeld in het eerste en het tweede lid, wordt geïndexeerd conform artikel 58, §3, derde lid, van deze bijlage.</span></span></p>
 
@@ -1795,7 +1795,7 @@ Het bedrag, vermeld in het eerste lid, wordt verhoogd met 1623,42 euro om de koo
 
 ### ART 77.
 
-§1. Voor de maatregel eindejaarspremie wordt een budget van 2.412.801,26 euro verdeeld tussen de erkende private diensten&nbsp;<br>
+§1. Voor de maatregel eindejaarspremie wordt een budget van 2.414.085,05 euro verdeeld tussen de erkende private diensten&nbsp;<br>
 <br>
 §2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens over de eindejaarspremie die ze bezorgen aan Zorggezind. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop het budget betrekking heeft.<br>
 <br>
@@ -1808,7 +1808,7 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, §3, 
 
 ### ART 78.
 
-<p style="margin-left:0cm; margin-right:0cm">§1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld tussen de erkende private diensten. Dat budget bedraagt 2.323.165,35 euro.<br>
+<p style="margin-left:0cm; margin-right:0cm">§1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld tussen de erkende private diensten. Dat budget bedraagt 2.316.102,60 euro.<br>
 <br>
 §2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens in verband met werkdruk die ze bezorgen aan Zorggezind. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
 <br>
@@ -1822,7 +1822,7 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, §3, 
 
 ### ART 78/1.
 
-§ 1. Voor de maatregel koopkracht uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025 wordt een budget van 840.835,66 euro verdeeld tussen de erkende openbare diensten.<br>
+§ 1. Voor de maatregel koopkracht uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025 wordt een budget van 795.491,24 euro verdeeld tussen de erkende openbare diensten.<br>
 <br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de openbare diensten op basis van de gegevens over de koopkracht die ze bezorgen aan VVSG. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop het budget betrekking heeft.<br>
 <br>
@@ -1835,13 +1835,13 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, § 3,
 ### ART 79.
 
 <p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. Om de subsidie, berekend conform artikel 71 tot en met 76 van deze bijlage, volledig te verkrijgen toont de dienst de volgende elementen aan:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de dienst realiseert op jaarbasis per vte logistiek personeel minstens 95% van het gemiddelde van 1445&nbsp;gefactureerde uren;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de dienst realiseert op jaarbasis per vte doelgroepwerknemer minstens 95% van het gemiddelde van 1325&nbsp;gefactureerde uren;</span></span></span></span><br>
+<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de dienst realiseert op jaarbasis per vte logistiek personeel minstens 95% van het gemiddelde van 1442&nbsp;gefactureerde uren;</span></span></span></span><br>
+<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de dienst realiseert op jaarbasis per vte doelgroepwerknemer minstens 95% van het gemiddelde van 1322&nbsp;gefactureerde uren;</span></span></span></span><br>
 <span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;de dienst toont, met betrekking tot de norm begeleidend personeel van 1 vte op 17,5 vte logistiek personeel en de norm leidinggevend personeel van 1 vte op 100 vte logistiek personeel, aan dat hij minstens 90% van de som van het aantal vte op jaarbasis dat resulteert uit de toepassing van beide normen, effectief heeft tewerkgesteld.</span></span></span></span><br>
 <br>
 <span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§2. Voor de bewijsvoering van de voorwaarden, vermeld in paragraaf 1, wordt het personeel dat conform dit besluit is toegewezen, in aanmerking genomen. Dat betekent dat:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;alleen het toegewezen aantal vte logistiek personeel en de prestaties van het logistiek personeel in aanmerking worden genomen om 95% van het gemiddelde van 1445&nbsp;gefactureerde uren te bereiken;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;alleen het toegewezen aantal vte doelgroepwerknemers en de prestaties van de doelgroepwerknemers in aanmerking worden genomen om 95% van het gemiddelde van 1325&nbsp;gefactureerde uren te bereiken;</span></span></span></span><br>
+<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;alleen het toegewezen aantal vte logistiek personeel en de prestaties van het logistiek personeel in aanmerking worden genomen om 95% van het gemiddelde van 1442&nbsp;gefactureerde uren te bereiken;</span></span></span></span><br>
+<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;alleen het toegewezen aantal vte doelgroepwerknemers en de prestaties van de doelgroepwerknemers in aanmerking worden genomen om 95% van het gemiddelde van 1322&nbsp;gefactureerde uren te bereiken;</span></span></span></span><br>
 <span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;het toegewezen aantal vte logistiek personeel en het toegewezen aantal vte doelgroepwerknemers in aanmerking worden genomen om de norm voor het begeleidend personeel en de norm voor het leidinggevend personeel te berekenen.</span></span></span></span><br>
 <br>
 <span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§3. De tijd die een logistiek personeelslid of een doelgroepwerknemer nodig heeft om zich van de ene naar de andere gebruiker te verplaatsen, wordt in aanmerking genomen voor de berekening van de gefactureerde uren, vermeld in paragraaf 1 en 2, op voorwaarde dat die twee hulpverleningsmomenten aansluitend zijn.</span></span><br>
@@ -1914,7 +1914,7 @@ De minister kan de nadere subsidiëringswijze en de vorm, de inhoud en de organi
 
 ### ART 86.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De subsidiebedragen, vermeld in artikel 84, tweede en derde lid, van deze bijlage worden voor een centrum voor dagopvang van een private dienst verhoogd met 200,09 euro om de maatregel eindejaarspremie&nbsp;en de maatregel baremaverhoging voor omkadering uit het vijfde Vlaams Intersectoraal Akkoord van 8 juni 2018 voor de social/non profitsectoren voor de periode 2018 tot 2020 uit te voeren, en met 775,50 euro om de koopkrachtmaatregel uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025 uit te voeren.</span></span></p>
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De subsidiebedragen, vermeld in artikel 84, tweede en derde lid, van deze bijlage worden voor een centrum voor dagopvang van een private dienst verhoogd met 200,09 euro om de maatregel eindejaarspremie&nbsp;en de maatregel baremaverhoging voor omkadering uit het vijfde Vlaams Intersectoraal Akkoord van 8 juni 2018 voor de social/non profitsectoren voor de periode 2018 tot 2020 uit te voeren, en met 915,21 euro om de koopkrachtmaatregel uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025 uit te voeren.</span></span></p>
 
 <ol>
 </ol>
