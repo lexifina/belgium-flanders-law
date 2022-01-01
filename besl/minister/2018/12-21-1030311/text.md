@@ -12,36 +12,36 @@ Besluit :
 
 ### ART 1.
 
-Het attest, vermeld in artikel 6, derde lid, 1°, wordt opgesteld conform het model dat opgenomen is in bijlage 1, die bij dit besluit is gevoegd.
+...
 
 ### ART 2.
 
-Het attest, vermeld in artikel 6, derde lid, 2°, wordt opgesteld conform het model dat opgenomen is in bijlage 2, die bij dit besluit is gevoegd.
+...
 
 ### ART 3.
 
-Het attest, vermeld in artikel 6, derde lid, 3°, wordt opgesteld conform het model dat opgenomen is in bijlage 3, die bij dit besluit is gevoegd.
+...
 
 ### ART 4.
 
-Het attest, vermeld in artikel 6, derde lid, 4°, wordt opgesteld conform het model dat opgenomen is in bijlage 4, die bij dit besluit is gevoegd.
+...
 
 ### ART 5.
 
-Dit besluit treedt in werking op 1 januari 2019.
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/02/27_1.pdf#page=74">Bijlage 1</a>
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/02/27_1.pdf#page=76">Bijlage 2</a>
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/02/27_1.pdf#page=78">Bijlage 3</a>
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/02/27_1.pdf#page=80">Bijlage 4</a>
+...
