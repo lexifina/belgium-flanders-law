@@ -50,3 +50,7 @@ Een ambtenaar heeft tijdens het verlof, vermeld in paragraaf 1, recht op een ver
 Voor de toepassing van het tweede lid geldt er een beperking van het brutosalaris op jaarbasis tot 21.000 euro aan 100%.<br>
 <br>
 Een contractueel personeelslid heeft tijdens het verlof, vermeld in paragraaf 1, geen recht op salaris.".
+
+### ART 2.
+
+...

@@ -2,16 +2,16 @@
   "codex_id": 1036489,
   "title": "Besluit van de Vlaamse Regering van 2021-12-17 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de invoering van een tijdelijk verlof bij sluiting van de school, de opvang of het centrum voor opvang voor personen met een handicap als gevolg van een maatregel om de verspreiding van het coronavirus SARS-CoV-2 te beperken",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036489/VolledigDocument?datum=2021-10-01",
-  "source_sha256": "f2e2e39e058391dbb45ce27c526a05270973cf9679f6cc455823d1de219d2ecb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036489/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "0dadd69a085e986d0d0c244fb58430b34952449bc02f1c4bafc81c7d03ceee63",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036489&param=informatie",
-  "as_of": "2021-10-01",
+  "as_of": "2022-01-01",
   "made": "2021-12-17",
   "gazette": "2022-02-15",
   "numac": 2022030782,
   "document_start": "2022-02-25",
   "document_end": null,
-  "in_force": "2021-10-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2021-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
 }
