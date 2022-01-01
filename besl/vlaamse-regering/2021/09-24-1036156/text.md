@@ -58,7 +58,7 @@ In dit artikel wordt verstaan onder VIA6: het zesde Vlaams intersectoraal akkoor
 
 ### ART 6.
 
-In afwijking van artikel 50, tweede lid, van bijlage 2 bij het besluit van 28 juni 2019 houdt de Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, bij de bepaling van de criteria voor de beoordeling van de aanvraag van extra uren gezinszorg voor het werkingsjaar 2022 en 2023 alleen rekening met de realisatie van het toegekende urencontingent gezinszorg van de dienst.
+In afwijking van artikel 50, tweede lid, van bijlage 2 bij het besluit van 28 juni 2019 houdt de Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, bij de bepaling van de criteria voor de beoordeling van de aanvraag van extra uren gezinszorg voor het werkingsjaar 2022, 2023, 2024 en 2025 alleen rekening met de realisatie van het toegekende urencontingent gezinszorg van de dienst.
 
 ### ART 7.
 
@@ -72,7 +72,7 @@ In afwijking van artikel 50, vierde lid, van bijlage 2 bij het besluit van 28 ju
 
 Artikel 2, vijfde lid tot en met elfde lid, en artikel 3, § 1 en § 3, van het verdelingsbesluit zijn niet van toepassing voor het werkingsjaar 2022, 2023 en 2024.<br>
 <br>
-Artikel 3, § 2, van het verdelingsbesluit is niet van toepassing voor het werkingsjaar 2022 en 2023.
+Artikel 3, § 2, van het verdelingsbesluit is niet van toepassing voor het werkingsjaar 2022, 2023, 2024 en 2025.
 
 ### ART 10.
 
