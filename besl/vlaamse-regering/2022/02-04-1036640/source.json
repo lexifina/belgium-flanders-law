@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036640,
+  "title": "Besluit van de Vlaamse Regering van 2022-02-04 tot wijziging van het Besluit Vlaamse Codex Wonen van 2021, wat betreft de stopzetting van de dubbele waarborg die het Vlaamse Gewest verstrekt aan de erkende kredietmaatschappijen en tot bepaling van de aanvullende erkenningsvoorwaarden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036640/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "ea70d66ceaeb9dc895044cea4b39726c6820336bb307fd1109f65a70467d8593",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036640&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2022-02-04",
+  "gazette": "2022-03-11",
+  "numac": 2022031038,
+  "document_start": "2022-01-01",
+  "document_end": null,
+  "in_force": "2022-01-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
