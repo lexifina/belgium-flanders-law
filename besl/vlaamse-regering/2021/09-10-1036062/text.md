@@ -25,7 +25,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 In dit besluit wordt verstaan onder:<br>
 1° Beheerovereenkomst: een overeenkomst die conform het besluit van de Vlaamse Regering van 19 september 2014 tot het verlenen van subsidies voor beheerovereenkomsten met toepassing van Verordening (EU) nr. 1305/2013 van het Europees Parlement en de Raad van 17 december 2013 inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor plattelandsontwikkeling, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 24 februari 2017, gesloten is;<br>
-2° beschikbare begrotingskredieten: een bedrag van 6.000.000,00 euro, dat vanuit het relanceprovisie-artikel CB0-1CBG2AH-PR naar het begrotingsartikel KB0-1KDH2BB-WT0 is herverdeeld;<br>
+2° beschikbare begrotingskredieten: een bedrag van 10.450.000,00 euro, dat vanuit het relanceprovisie-artikel CB0-1CBG2AH-PR naar het begrotingsartikel KB0-1KDX2BB-WT (KD124) is herverdeeld;<br>
 3° bevoegde entiteit: het Departement Landbouw en Visserij, vermeld in artikel 26 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 4° ecologisch beheerd grasland: de landbouwpercelen waarop grasland op een ecologische wijze wordt beheerd als vermeld in artikel 12;<br>
 5° effectieve organische koolstof: de koolstof die aanwezig is in vers organisch materiaal, dat voor een groot gedeelte door bodemmicro-organismen wordt gebruikt als voedselbron en dat één jaar na toediening nog in de bodem aanwezig is;<br>
@@ -75,9 +75,16 @@ Op een landbouwperceel kan voor verschillende maatregelen een verbintenis afgesl
 
 ### ART 3.
 
-De subsidie, vermeld in artikel 2 van dit besluit, wordt verleend, na akkoord van de Europese Commissie, overeenkomstig de voorwaarden, vermeld in 1.1.5.1. van de richtsnoeren van de Europese Unie voor staatssteun in de landbouw- en de bosbouwsector en in plattelandsgebieden 2014-2020 (2014/C 204/01).<br>
+De subsidie, vermeld in artikel 2 van dit besluit, wordt verleend, na akkoord van de Europese Commissie, overeenkomstig de voorwaarden, vermeld in 1.1.5.1. van de richtsnoeren van de Europese Unie voor staatssteun in de landbouw- en de bosbouwsector en in plattelandsgebieden 2014-2020 (2014/C 204/01) inzonderheid aan de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;conform punt 26 van de voormelde richtsnoeren komen ondernemingen in moeilijkheden niet in aanmerking voor de steun;<br>
+2°&nbsp;&nbsp; &nbsp;conform punt 27 van de voormelde richtsnoeren worden ondernemingen waartegen een bevel tot terugvordering uitstaat ingevolge een eerder besluit van de Commissie waarin steun onrechtmatig en onverenigbaar met de interne markt is aangemerkt, niet in aanmerking voor steun;<br>
+3°&nbsp;&nbsp; &nbsp;conform punt 100 van de voormelde richtsnoeren mag steun voor identificeerbare in aanmerking komende kosten met andere staatssteun worden gecumuleerd, zolang het bij die steun om andere identificeerbare in aanmerking komende kosten gaat.<br>
 <br>
-Er kunnen pas subsidies worden toegekend na goedkeuring van de steunmaatregel door de Europese Commissie.
+Er kunnen pas subsidies worden toegekend na goedkeuring van de steunmaatregel door de Europese Commissie.<br>
+<br>
+Steun voor identificeerbare in aanmerking komende kosten mag niet gecumuleerd worden met andere staatssteun voor dezelfde in aanmerking komende kosten die volledig of gedeeltelijk overlappen.<br>
+<br>
+Conform punt 724 en 725 van de richtsnoeren, vermeld in het eerste lid, worden de verbintenissen die in het kader van dit besluit worden aangegaan, ook aangepast als de dwingende normen, vereisten of verplichtingen, vermeld in punt 210 van de richtsnoeren, vermeld in het eerste lid, worden gewijzigd.
 
 ### ART 4.
 
@@ -133,10 +140,10 @@ In afwijking van het eerste lid, geeft de landbouwer voor de maatregelen, zoals 
 Voor een maatregel als vermeld in artikel 2, eerste lid, 1° tot en met 4°, krijgt de landbouwer per verbintenis een maximaal subsidiebedrag, uitgedrukt in euro per hectare als vermeld in artikel 11 tot en met 15 en artikel 17.<br>
 <br>
 De beschikbare begrotingskredieten worden verdeeld volgens de volgende verdeelsleutel:<br>
-1° 20 % van de beschikbare begrotingskredieten is voorbehouden voor de maatregel, vermeld in artikel 2, eerste lid, 1° ;<br>
-2° 20 % van de beschikbare begrotingskredieten is voorbehouden voor de maatregel, vermeld in artikel 2, eerste lid, 2° ;<br>
-3° 20 % van de beschikbare begrotingskredieten is voorbehouden voor de maatregel, vermeld in artikel 2, eerste lid, 3° ;<br>
-4° 20 % van de beschikbare begrotingskredieten is voorbehouden voor de maatregel, vermeld in artikel 2, eerste lid, 4°.<br>
+1° 22 % van de beschikbare begrotingskredieten is voorbehouden voor de maatregel, vermeld in artikel 2, eerste lid, 1° ;<br>
+2° 22 % van de beschikbare begrotingskredieten is voorbehouden voor de maatregel, vermeld in artikel 2, eerste lid, 2° ;<br>
+3° 22 % van de beschikbare begrotingskredieten is voorbehouden voor de maatregel, vermeld in artikel 2, eerste lid, 3° ;<br>
+4° 22 % van de beschikbare begrotingskredieten is voorbehouden voor de maatregel, vermeld in artikel 2, eerste lid, 4°.<br>
 <br>
 Als de som van de goedgekeurde verbintenisaanvragen voor een maatregel als vermeld in artikel 2, eerste lid, 1° tot en met 4°, het beschikbare begrotingskrediet van die maatregel niet overschrijdt, wordt het maximale subsidiebedrag, vermeld in het eerste lid, uitbetaald.<br>
 <br>
@@ -148,7 +155,7 @@ De bevoegde entiteit berekent het definitieve subsidiebedrag na afloop van de ve
 
 ### ART 10.
 
-Voor een maatregel als vermeld in artikel 2, eerste lid, 5°, krijgt de landbouwer per verbintenis een maximaal subsidiebedrag, uitgedrukt in euro per hectare als vermeld in artikel 19. Dat bedrag is afhankelijk van het beschikbare budget, dat bestaat uit 20 % van de beschikbare begrotingskredieten en een bedrag van 925.000,00 euro dat gefinancieerd wordt uit het Vlaams Klimaatfonds.<br>
+Voor een maatregel als vermeld in artikel 2, eerste lid, 5°, krijgt de landbouwer per verbintenis een maximaal subsidiebedrag, uitgedrukt in euro per hectare als vermeld in artikel 19. Dat bedrag is afhankelijk van het beschikbare budget, dat bestaat uit 12 % van de beschikbare begrotingskredieten en een bedrag van 925.000,00 euro dat gefinancieerd wordt uit het Vlaams Klimaatfonds.<br>
 <br>
 Als de som van de goedgekeurde verbintenisaanvragen voor de maatregel, vermeld in artikel 2, eerste lid, 5°, het beschikbare budget, vermeld in het eerste lid, niet overschrijdt, wordt het maximale subsidiebedrag, vermeld in het eerste lid, uitbetaald.<br>
 <br>
