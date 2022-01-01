@@ -96,12 +96,12 @@ In toepassing van artikel 93, vierde lid van de wet wordt het toepassingsgebied,
 4. gerechtigden op financiële maatschappelijke hulp;<br>
 5. de werknemers van het Derde Arbeidscircuit;<br>
 6. de gesubsidieerde contractuelen;<br>
-7 de doelgroepwerknemers van het maatwerkbedrijf, vermeld in artikel 3, 2°, b), van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling;<br>
+7 de doelgroepwerknemers van het maatwerkbedrijf, vermeld in artikel 3, 2°, a), en b), van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling;<br>
 8. de werknemers tewerkgesteld op basis van het besluit van de Vlaamse Regering van 10 juli 2008 betreffende werkervaring;<br>
 9. de werknemers tewerkgesteld op basis van artikel 63 tot en met artikel 69 van het besluit van de Vlaamse regering van 21 december 1988 houdende de organisatie van de arbeidsbemiddeling en beroepsopleiding;<br>
 10. de herintreders;<br>
 11. de uitkeringsgerechtigde volledige werklozen die worden aangeworven als opleider in een opleidingsproject, zoals bepaald in artikel 8;<br>
-12 de niet-werkende werkzoekenden die worden aangeworven als werkvloerbegeleider als vermeld in artikel 46 van het besluit van de Vlaamse Regering van 17 februari 2017 tot uitvoering van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling;<br>
+12 ...;<br>
 13. de niet-werkende werkzoekenden of uitkeringsgerechtigd volledig werklozen die behoren tot de kansengroepen, die tewerkgesteld worden in een knelpuntberoep of die tewerkgesteld worden in een topsportproject.<br>
 <br>
 § 2. In toepassing van artikel 97, § 3 van de wet kan de minister de periodes bepalen die met de werkloosheidsduur van een uitkeringsgerechtigd volledig werkloze of met de periode van inschrijving als werkzoekende gelijkgesteld worden.
