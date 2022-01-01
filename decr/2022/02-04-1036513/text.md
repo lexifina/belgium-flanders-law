@@ -10,6 +10,12 @@ Voor de scholen, academies, centra en instellingen van het basisonderwijs, secun
 
 ## HOOFDSTUK 3. Afwijkingen van het decreet basisonderwijs van 25 februari 1997
 
+### ART 6.
+
+In afwijking van artikel 16, § 3, van hetzelfde decreet blijft het gemotiveerde verslag van een leerling rechtsgeldig bij de overstap van het basisonderwijs naar het secundair onderwijs in het schooljaar 2021-2022, op voorwaarde dat nog steeds voldaan is aan de criteria, vermeld in artikel 16, § 1, eerste lid, 1° of 2°, van hetzelfde decreet. Als niet langer aan die criteria voldaan is, heft het centrum voor leerlingenbegeleiding het gemotiveerde verslag op. Uiterlijk op 1 september 2022 maakt het centrum voor leerlingenbegeleiding van de secundaire school een nieuw gemotiveerd verslag op als vermeld in artikel 352, § 1, van de Codex Secundair Onderwijs van 17 december 2010.<br>
+<br>
+Als er geen nieuw gemotiveerd verslag werd opgemaakt, vervalt de rechtsgeldigheid van het gemotiveerde verslag, vermeld in het eerste lid.
+
 ### ART 8.
 
 In afwijking van artikel 37bis van hetzelfde decreet geldt voor inschrijvingen die plaatsvinden in het schooljaar 2021-2022 voor het schooljaar 2021-2022 en het schooljaar 2022-2023 dat:<br>
@@ -39,6 +45,14 @@ In afwijking van artikel 37vicies sexies van hetzelfde decreet kan of kunnen het
 <br>
 Bij een tweede negatief besluit van de CLR of bij een negatief besluit van de Vlaamse Regering biedt de CLR een aanmeldingsprocedure aan het betrokken schoolbestuur, de verschillende betrokken schoolbesturen samen of het betrokken LOP aan voor de inschrijvingen voor het schooljaar 2022-2023, zodat ze daarmee alsnog hun inschrijvingen kunnen organiseren voor het schooljaar 2022-2023.
 
+### ART 11.
+
+In afwijking van artikel 84 van hetzelfde decreet kan de Vlaamse Regering in de periode van 1 januari 2022 tot en met 31 augustus 2022 aan scholen voor gewoon basisonderwijs extra werkingsbudget toekennen om de kosten te compenseren die ze maken om hun onderwijsaanbod in veilige omstandigheden te organiseren. De Vlaamse Regering bepaalt de wijze waarop het bedrag per school berekend wordt en de wijze waarop het uitbetaald wordt.
+
+### ART 12.
+
+In afwijking van artikel 85sexies van hetzelfde decreet kan de Vlaamse Regering in de periode van 1 januari 2022 tot en met 31 augustus 2022 aan scholen voor buitengewoon basisonderwijs extra werkingsbudget toekennen om de kosten te compenseren die ze maken om hun onderwijsaanbod in veilige omstandigheden te organiseren. De Vlaamse Regering bepaalt de wijze waarop het bedrag per school berekend wordt en de wijze waarop het uitbetaald wordt.
+
 ## [HOOFDSTUK 3/1. Afwijking van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap (ing. decr. 8 juli 2022, art. 82, I: 1 september 2021)]
 
 ### ART 12/1.
@@ -49,11 +63,23 @@ In afwijking van artikel 26 van het decreet van 8 juni 2007 betreffende de studi
 
 ## Afdeling 1. Afwijkingen van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs
 
+### ART 18.
+
+In afwijking van artikel 89 van hetzelfde decreet kan de Vlaamse Regering in de periode van 1 januari 2022 tot en met 31 augustus 2022 aan de centra voor basiseducatie een extra werkingstoelage toekennen om de kosten te compenseren die ze maken om hun onderwijsaanbod in veilige omstandigheden te organiseren. De Vlaamse Regering bepaalt de wijze waarop het bedrag per centrum berekend wordt en de wijze waarop het uitbetaald wordt.
+
+### ART 20.
+
+In afwijking van artikel 108 van hetzelfde decreet kan de Vlaamse Regering in de periode van 1 januari 2022 tot en met 31 augustus 2022 aan de centra voor volwassenenonderwijs een extra werkingstoelage toekennen om de kosten te compenseren die ze maken om hun onderwijsaanbod in veilige omstandigheden te organiseren. De Vlaamse Regering bepaalt de wijze waarop het bedrag per centrum berekend wordt en de wijze waarop het uitbetaald wordt.
+
 ## Afdeling 2. Wijzigingen aan het decreet van 15 juni 2007 betreffende het volwassenenonderwijs
 
 ## HOOFDSTUK 5. Afwijkingen van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap
 
 ## HOOFDSTUK 6. Afwijking van het decreet van 20 februari 2009 betreffende de Hogere Zeevaartschool
+
+### ART 33.
+
+In afwijking van artikel 2 van het decreet van 20 februari 2009 betreffende de Hogere Zeevaartschool kan de Vlaamse Regering tijdens het academiejaar 2021-2022 een bijkomende toelage toekennen aan de Hogere Zeevaartschool.
 
 ## HOOFDSTUK 7. Afwijkingen van de Codex Secundair Onderwijs van 17 december 2010
 
@@ -87,17 +113,63 @@ In dat geval toetst de CLR het voorstel overeenkomstig artikel 110/25, § 3. De 
 <br>
 Bij een tweede negatief besluit van de CLR of bij een negatief besluit van de Vlaamse Regering biedt de CLR een aanmeldingsprocedure aan het betrokken schoolbestuur, de verschillende betrokken schoolbesturen samen of het betrokken LOP aan voor de inschrijvingen van het schooljaar 2022-2023, zodat ze daarmee alsnog hun inschrijvingen kunnen organiseren voor het schooljaar 2022-2023.
 
+### ART 38.
+
+In afwijking van artikel 248 van dezelfde codex kan de Vlaamse Regering in de periode van 1 januari 2022 tot en met 31 augustus 2022 aan scholen voor gewoon secundair onderwijs en centra voor deeltijds beroepssecundair onderwijs extra werkingsbudget toekennen om de kosten te compenseren die ze maken om hun onderwijsaanbod in veilige omstandigheden te organiseren. De Vlaamse Regering bepaalt de wijze waarop het bedrag per school of per centrum berekend wordt en de wijze waarop het uitbetaald wordt.
+
+### ART 41.
+
+In afwijking van artikel 328 van dezelfde codex kan de Vlaamse Regering in de periode van 1 januari 2022 tot en met 31 augustus 2022 aan scholen voor buitengewoon secundair onderwijs extra werkingsbudget toekennen om de kosten te compenseren die ze maken om hun onderwijsaanbod in veilige omstandigheden te organiseren. De Vlaamse Regering bepaalt de wijze waarop het bedrag per school berekend wordt en de wijze waarop het uitbetaald wordt.
+
+### ART 43.
+
+In afwijking van artikel 352, § 3, van dezelfde codex is het gemotiveerde verslag, vermeld in artikel 6 van dit decreet, rechtsgeldig bij de overstap van een leerling van het basisonderwijs naar het secundair onderwijs in het schooljaar 2021-2022, op voorwaarde dat voldaan is aan de criteria, vermeld in artikel 352, § 1, eerste lid, 1° of 2°, van dezelfde codex. Als niet langer aan die criteria voldaan is, heft het centrum voor leerlingenbegeleiding het gemotiveerde verslag op. Uiterlijk op 1 september 2022 maakt het centrum voor leerlingenbegeleiding van de secundaire school een nieuw gemotiveerd verslag als vermeld in artikel 352, § 1, van dezelfde codex op.<br>
+<br>
+Als er geen nieuw gemotiveerd verslag werd opgemaakt, vervalt de rechtsgeldigheid van het gemotiveerde verslag, vermeld in het eerste lid.
+
+### ART 44.
+
+In afwijking van artikel 357/25 van dezelfde codex kan de Vlaamse Regering in de periode van 1 januari 2022 tot en met 31 augustus 2022 aan de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen extra werkingsbudget toekennen om de kosten te compenseren die ze maken om hun onderwijsaanbod in veilige omstandigheden te organiseren. De Vlaamse Regering bepaalt de wijze waarop het bedrag per centrum berekend wordt en de wijze waarop het uitbetaald wordt.
+
 ## HOOFDSTUK 8. Afwijkingen van de Codex Hoger Onderwijs van 11 oktober 2013
+
+### ART 53.
+
+In afwijking van artikel III.25 van dezelfde codex kan de Vlaamse Regering tijdens het academiejaar 2021-2022 een bijkomende werkingstoelage toekennen aan de hogescholen en universiteiten.
+
+### ART 54.
+
+In afwijking van artikel III.67 van dezelfde codex kan de Vlaamse Regering tijdens het academiejaar 2021-2022 een bijkomende sociale toelage toekennen aan de hogescholen en universiteiten.
+
+### ART 55.
+
+In afwijking van artikel III.74, III.114, III.118 en III.119 van dezelfde codex kan de Vlaamse Regering tijdens het academiejaar 2021-2022 een bijkomende toelage toekennen aan de Bijzondere Universitaire Instituten, de Evangelische Theologische Faculteit en de Faculteit voor Protestantse Theologie en Religiestudies, de stichtingen van openbaar nut voor postinitieel onderwijs en de hogere instituten en andere instellingen voor Schone Kunsten.
 
 ## HOOFDSTUK 9. Afwijkingen van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016
 
+### ART 56.
+
+In afwijking van artikel III.1 tot en met III.48 van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, bekrachtigd bij het decreet van 23 december 2016, kan de Vlaamse Regering in de periode van 1 januari 2022 tot en met 31 augustus 2022 aan de daarin opgesomde internaten en tehuizen extra werkingsbudget toekennen voor de vergoeding van de kosten van de veilige organisatie van het aanbod.
+
 ## HOOFDSTUK 10. Afwijkingen van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs
+
+### ART 59.
+
+In afwijking van artikel 83 van hetzelfde decreet kan de Vlaamse Regering in de periode van 1 januari 2022 tot en met 31 augustus 2022 aan academies van het gesubsidieerd onderwijs extra werkingsbudget toekennen om de kosten te compenseren die ze maken om het onderwijsaanbod in veilige omstandigheden te organiseren. De Vlaamse Regering bepaalt de wijze waarop het bedrag per academie berekend wordt en de wijze waarop het uitbetaald wordt.
+
+### ART 60.
+
+In afwijking van artikel 84 van hetzelfde decreet kan de Vlaamse Regering in de periode van 1 januari 2022 tot en met 31 augustus 2022 aan academies van het gemeenschapsonderwijs extra werkingsbudget toekennen om de kosten te compenseren die ze maken om het onderwijsaanbod in veilige omstandigheden te organiseren. De Vlaamse Regering bepaalt de wijze waarop het bedrag per academie berekend wordt en de wijze waarop het uitbetaald wordt.
 
 ### ART 61.
 
 In afwijking van artikel 114, § 3, 115, § 2, en 117, § 2, van hetzelfde decreet geldt dat academies, domeinen en structuuronderdelen in vestigingsplaatsen die op de teldag 1 oktober 2021 niet aan de geldende normen voldoen, gesubsidieerd of gefinancierd blijven in het schooljaar 2021-2022. Op de teldag van 1 oktober 2022 worden de voorgaande teldagen van 1 oktober 2020 en 1 oktober 2021 niet in rekening gebracht voor de programmatie.
 
 ## HOOFDSTUK 11. Afwijking van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding
+
+### ART 62.
+
+In afwijking van artikel 26 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding kan de Vlaamse Regering in de periode van 1 januari 2022 tot en met 31 augustus 2022 aan centra voor leerlingenbegeleiding extra werkingsbudget toekennen om de kosten te compenseren die ze maken om hun werking in veilige omstandigheden te organiseren. De Vlaamse Regering bepaalt de wijze waarop het bedrag per centrum berekend wordt en de wijze waarop het uitbetaald wordt.
 
 ## HOOFDSTUK 12. Afwijking van het besluit de Vlaamse Regering van 28 augustus 2000 inzake het tehuis van het Gemeenschapsonderwijs dat instaat voor de opname van jongeren in het kader van de hulp- en bij standsregeling
 
