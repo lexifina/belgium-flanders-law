@@ -36,7 +36,7 @@ Vlaamse Sportfederatie vzw, Zuiderlaan 13, 9000 Gent, met ondernemingsnummer 044
 
 ### ART 3.
 
-G-sport Vlaanderen vzw, Bredabaan 31, 2930 Brasschaat, met ondernemingsnummer 0664.606.188, wordt voor de olympiade 2021 - 2024 erkend als G-sportplatform.
+...
 
 ### ART 4.
 
