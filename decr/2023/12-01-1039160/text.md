@@ -1,5 +1,10 @@
 # Decreet van 2023-12-01 houdende diverse bepalingen over het beleidsdomein Welzijn, Volksgezondheid en Gezin
 
+### ART 27.
+
+Aan artikel 45, §3, van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming wordt een punt 5° toegevoegd, dat luidt als volgt:<br>
+“5° als aan de aangeslotene het beschermingsstatuut van tijdelijk ontheemde is toegekend, vermeld in artikel 57/29 van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf de vestiging en de verwijdering van vreemdelingen.”.
+
 ### ART 35.
 
 In artikel 7, §1, van het Woonzorgdecreet van 15 februari 2019 wordt tussen het eerste en het tweede lid een lid ingevoegd, dat luidt als volgt:<br>

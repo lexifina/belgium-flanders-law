@@ -2,16 +2,16 @@
   "codex_id": 1039160,
   "title": "Decreet van 2023-12-01 houdende diverse bepalingen over het beleidsdomein Welzijn, Volksgezondheid en Gezin",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039160/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "11d4c18c894479eb7b7d2f719368414ae3266108893a92b6c1a1944bc8704890",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039160/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "a9457467772fc4236aca86ae773be3daf623fb72fb83ec055d0f085da016ac73",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039160&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2022-01-01",
   "made": "2023-12-01",
   "gazette": "2024-01-10",
   "numac": 2023048654,
   "document_start": "2024-01-20",
   "document_end": null,
-  "in_force": "2020-01-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2020-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
 }
