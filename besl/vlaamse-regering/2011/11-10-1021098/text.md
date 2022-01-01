@@ -222,7 +222,7 @@ Het FWO lanceert in samenwerking met de universiteiten periodiek een Odysseusopr
 § 3. ...<br>
 <br>
 § 4. Kandidaten moeten :<br>
-1° uiterlijk één jaar voor de datum van de aanvraag een hoofdaanstelling aan een buitenlandse instelling hebben;<br>
+1° op de datum van de aanvraag een hoofdaanstelling aan een buitenlandse instelling hebben;<br>
 2° gedurende minstens drie jaar in de afgelopen vijf jaar aan een buitenlandse instelling verbonden zijn geweest;<br>
 3° aan de criteria van excellentie voldoen, zoals blijkt uit het CV en de bibliografie;<br>
 4° een onderzoeksplan bij de betreffende universiteit of universiteiten indienen dat een begroting bevat met een indicatieve verdeling van de geplande uitgaven over een periode van vijf jaar. De universiteit of universiteiten moeten dat onderzoeksplan goedkeuren. Het onderzoeksplan moet passen in het universitaire onderzoeksbeleid.<br>
