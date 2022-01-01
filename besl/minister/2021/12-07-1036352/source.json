@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036352,
+  "title": "Ministerieel besluit van 2021-12-07 tot wijziging van het ministerieel besluit van 29 november 2019 houdende vaststelling van de verboden lijst, vermeld in artikel 9 van het Antidopingdecreet van 25 mei 2012, wat de verboden lijst 2022 betreft",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036352/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "fcbc76525eb443f66d02bbac09b5fcc6624c1cf6a6b4308c10b6f92f144c773e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036352&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2021-12-07",
+  "gazette": "2021-12-22",
+  "numac": 2021022728,
+  "document_start": "2022-01-01",
+  "document_end": null,
+  "in_force": "2022-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
