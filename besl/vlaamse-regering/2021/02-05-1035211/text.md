@@ -50,7 +50,7 @@ Een startende zelfstandige die in 2019 geen volledig beroepsinkomen heeft, wordt
 
 ### ART 2.
 
-Alle steun die toegekend wordt met toepassing van dit besluit en de uitvoeringsbesluiten ervan, wordt verleend binnen de grenzen en de voorwaarden, vermeld in de tijdelijke kaderregeling COVID-19. De beslissing tot toekenning van de steun moet worden genomen uiterlijk op 31 december 2021.<br>
+Alle steun die toegekend wordt met toepassing van dit besluit en de uitvoeringsbesluiten ervan, wordt verleend binnen de grenzen en de voorwaarden, vermeld in de tijdelijke kaderregeling COVID-19.<br>
 <br>
 De regelgeving in dit besluit valt onder de toepassing van punt 3.1 van de tijdelijke kaderregeling COVID-19.
 
