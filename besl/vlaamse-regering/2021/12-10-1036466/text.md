@@ -23,3 +23,17 @@ DE VLAAMSE REGERING BESLUIT:
 
 Aan artikel 2 van het besluit van de Vlaamse Regering van 15 juli 2016 tot wijziging van artikel 1 van het koninklijk besluit van 28 december 2011 betreffende uitvoering van het attractiviteitsplan voor het verpleegkundig beroep, in bepaalde federale gezondheidssectoren, wat betreft de premies voor de titels en bijzondere beroepsbekwaamheden en ongemakkelijke prestaties, wordt de volgende zinsnede toegevoegd:<br>
 "tot en met de datum die voorafgaat aan de datum waarop de verpleegkundige in de loonsverhoging stapt zoals bepaald in het Vlaamse intersectoraal akkoord van 31 maart 2021.".
+
+### ART 2.
+
+Aan artikel 499 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming wordt een paragraaf 2 toegevoegd, die luidt als volgt:<br>
+<br>
+" § 2. Voor de berekening van de tegemoetkoming, vermeld in paragraaf 1, wordt de verpleegkundige in een woonzorgcentrum die op 31 maart 2021 recht had op een premie als vermeld in paragraaf 1, eveneens beschouwd als de rechthebbende op die premie.".
+
+### ART 3.
+
+Dit besluit treedt in werking op 1 januari 2022, met uitzondering van artikel 1, dat uitwerking heeft met ingang van 1 april 2021.
+
+### ART 4.
+
+De Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, en de Vlaamse minister, bevoegd voor de sociale bescherming, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
