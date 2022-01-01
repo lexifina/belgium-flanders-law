@@ -230,7 +230,11 @@ Een pedagogische begeleidingsdienst die recht heeft op minder dan twintig halfti
 
 ### ART. 17.
 
-§ 1. De pedagogische begeleidingsdiensten kunnen beschikken over een aantal personeelsleden uit de instellingen aan wie een verlof wegens bijzondere opdracht, zoals vermeld in artikel 51quater, § 2, 1°, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding of artikel 77quater, § 2, 1°, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs, is toegekend. <br /><br />Dat verlof wegens bijzondere opdracht kan worden uitgeoefend in 150,5 voltijdse betrekkingen.<br /><br />§ 2. De betrekkingen worden verdeeld over de pedagogische begeleidingsdiensten naar rato van het aandeel in de organieke betrekkingen in de instellingen die verbonden zijn aan de pedagogische begeleidingsdiensten. Voor de verdeling van de verloven, vermeld in § 1, worden de organieke betrekkingen van de instellingen die verbonden zijn aan de pedagogische begeleidingsdiensten die niet beschikken over een personeelsformatie, samengeteld.
+§ 1. De pedagogische begeleidingsdiensten kunnen beschikken over een aantal personeelsleden uit de instellingen aan wie een verlof wegens bijzondere opdracht, zoals vermeld in artikel 51quater, § 2, 1°, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding of artikel 77quater, § 2, 1°, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs, is toegekend.<br>
+<br>
+Dat verlof wegens bijzondere opdracht kan voor schooljaar 2021-2022 worden uitgeoefend in 150,5 voltijdse betrekkingen. Voor schooljaar 2022-2023 kan het verlof wegens bijzondere opdracht worden uitgeoefend in 106 voltijdse betrekkingen. Vanaf schooljaar 2023-2024 kunnen er 53,5 voltijdse betrekkingen verlof wegens bijzondere opdracht worden uitgeoefend.<br>
+<br>
+§ 2. De pedagogische begeleidingsdiensten die niet beschikken over een personeelsformatie hebben samen elk schooljaar recht op 1,5 voltijdse betrekkingen verlof wegens bijzondere opdracht. De overige betrekkingen worden verdeeld over de pedagogische begeleidingsdiensten met personeelsformatie naar rato van het aandeel in de organieke betrekkingen in de onderwijsinstellingen die verbonden zijn aan die pedagogische begeleidingsdiensten.
 
 ## Afdeling III. Werkingsmiddelen
 
@@ -247,6 +251,19 @@ De pedagogische begeleidingsdiensten ontvangen jaarlijks 84.000 euro aan aanvull
 De pedagogische begeleidingsdiensten van het Katholiek Onderwijs Vlaanderen, de Onderwijsvereniging van Steden en Gemeenten, het Provinciaal Onderwijs Vlaanderen en het Onderwijs van de Vlaamse Gemeenschap, GO! ontvangen in begrotingsjaar 2021 3,5 miljoen euro aan aanvullende werkingsmiddelen voor de ondersteuning van scholen voor gewoon basisen secundair onderwijs in de versterking van hun brede basiszorg en verhoogde zorg.<br>
 <br>
 De aanvullende werkingsmiddelen, vermeld in het eerste lid, worden verdeeld over deze pedagogische begeleidingsdiensten naar rato van het aantal organieke betrekkingen in de onderwijsinstellingen verbonden aan de pedagogische begeleidingsdienst.
+
+### ART 19/2.
+
+Voor het begeleiden van de implementatie van bepaalde beleidsprioriteiten van de Vlaamse Regering, zoals bepaald in artikel 15, § 1, eerste lid, 4°, ontvangen de pedagogische begeleidingsdiensten:<br>
+1° in het begrotingsjaar 2022 5.000.000 euro aan aanvullende werkingsmiddelen;<br>
+2° in het begrotingsjaar 2023 6.500.000 euro aan aanvullende werkingsmiddelen;<br>
+3° vanaf het begrotingsjaar 2024 8.000.000 euro aan aanvullende werkingsmiddelen.<br>
+<br>
+De aanvullende werkingsmiddelen, vermeld in het eerste lid, worden verdeeld over alle pedagogische begeleidingsdiensten naar rato van het aantal organieke betrekkingen in de onderwijsinstellingen verbonden aan de pedagogische begeleidingsdienst. De Vlaamse Regering bepaalt de beleidsprioriteiten waarvoor de middelen aangewend worden en de verdeling van de middelen over deze beleids prioriteiten.<br>
+<br>
+De aanvullende werkingsmiddelen, vermeld in het eerste lid, kunnen aangewend worden voor salarissen en werkingskosten. De uitgaven voor de salarissen bedragen minimaal 80 procent van de jaarlijkse middelen. De aanvullende werkingsmiddelen worden vanaf begrotingsjaar 2025 geïndexeerd. 80% van het bedrag volgt de evolutie van de gezondheidsindex en 20% van het bedrag volgt 75% van de gezondheidsindex.<br>
+<br>
+De indexering is gebaseerd op de toename van de gezondheidsindex in de maand januari van het begrotingsjaar x-1 ten opzichte van de gezondheidsindex in de maand januari van het begrotingsjaar x-2.
 
 ### ART. 20.
 
@@ -619,7 +636,11 @@ Bij de Vlaamse Regering wordt een inspectie opgericht, onder leiding van   een i
 
 ### ART. 48.
 
-De Vlaamse Regering richt een permanent overlegorgaan op waarin de inspectie en de pedagogische begeleidingsdiensten elkaar regelmatig ontmoeten in functie van hun opdrachten.<br /><br />Voor zover het overleg ook betrekking heeft op het volwassenenonderwijs, wordt ook het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs, vermeld in artikel 43 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs betrokken. <br /><br />Het overlegorgaan maakt jaarlijks een rapport op over haar werking en bezorgt dit aan de Vlaamse Regering.
+De Vlaamse Regering richt een permanent overlegorgaan op waarin de inspectie en de pedagogische begeleidingsdiensten elkaar regelmatig ontmoeten in functie van hun opdrachten.<br>
+<br>
+Voor zover het overleg ook betrekking heeft op het volwassenenonderwijs, wordt ook de representatieve groepering van de Centra voor Basiseducatie, vermeld in artikel 43 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs betrokken.<br>
+<br>
+Het overlegorgaan maakt jaarlijks een rapport op over haar werking en bezorgt dit aan de Vlaamse Regering.
 
 ## DEEL III. RECHTSPOSITIE INSPECTIE
 
