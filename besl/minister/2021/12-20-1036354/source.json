@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036354,
+  "title": "Ministerieel besluit van 2021-12-20 tot uitvoering van het besluit van de Vlaamse Regering van 13 februari 2015 houdende uitvoering van het Antidopingdecreet van 25 mei 2012, wat betreft de monsterafnameprocedure en de beheersketen van monsters",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036354/VolledigDocument?datum=2022-01-01",
+  "source_sha256": "d3ecdcb3408a2fc934e8465b39a4567e6c2ac6fd9c1076dfd583ee41ddb21b28",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036354&param=informatie",
+  "as_of": "2022-01-01",
+  "made": "2021-12-20",
+  "gazette": "2021-12-23",
+  "numac": 2021043482,
+  "document_start": "2022-01-01",
+  "document_end": null,
+  "in_force": "2022-01-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
