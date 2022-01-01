@@ -95,6 +95,7 @@ b) het gevraagde aantal kinderopvangplaatsen;<br>
 c) het feit of er kinderopvang 's nachts wordt georganiseerd;<br>
 d) het feit of er kinderen buitenschools worden opgevangen;<br>
 e) het feit of en voor hoeveel plaatsen de kinderopvanglocatie zal voldoen aan de voorwaarden voor bepaalde subsidies;<br>
+f) voor de organisator van groepsopvang: welke acties de organisator onderneemt naar aanleiding van het advies over de opportuniteit van het lokaal bestuur, vermeld in artikel 2, 3°, van het Vergunningsbesluit van 22 november 2013;<br>
 6° de toestemming van alle meerderjarige natuurlijke personen die de lokalen bewonen, om controlebezoeken te laten uitvoeren in de bewoonde lokalen die voor kinderopvang dienen;<br>
 7° de gegevens over de verantwoordelijke van de kinderopvanglocatie:<br>
 a) de identiteitsgegevens en de contactgegevens van de verantwoordelijke, waaronder minstens de voor- en achternaam, het rijksregisternummer of het vreemdelingennummer, de geboortedatum, het geslacht, het telefoonnummer en het e-mailadres;<br>
@@ -122,6 +123,7 @@ Naast het elektronische aanvraagformulier, vermeld in artikel 8, bezorgt de orga
 3° voor groepsopvang:<br>
 a) een verslag over de infrastructuur met een advies infrastructuur;<br>
 b) het brandveiligheidsattest A of B;<br>
+c) het advies over de opportuniteit van het lokaal bestuur, vermeld in artikel 52/2. Als het lokaal bestuur het opportuniteitsadvies niet binnen de termijn, vermeld in artikel 52/3, bezorgt, voegt de organisator het bewijs van de aanvraag van dat advies toe;<br>
 4° voor gezinsopvang:<br>
 a) een uittreksel uit het strafregister van alle kinderbegeleiders als vermeld in artikel 10 en 43, § 2, eerste lid, 1°, van het Vergunningsbesluit van 22 november 2013;<br>
 b) een uittreksel uit het strafregister van alle personen met regelmatig direct contact in de kinderopvanglocatie als vermeld in artikel 10 en 45, eerste lid, 1°, van het Vergunningsbesluit van 22 november 2013;<br>
@@ -132,7 +134,7 @@ c) ...
 De organisator die op het moment van de aanvraag van een vergunning minstens twaalf vergunningen heeft voor hetzij gezinsopvang hetzij groepsopvang, en een aanvraag indient voor dezelfde opvangvorm, moet de documenten, vermeld in artikel 9, niet bezorgen op voorwaarde dat:<br>
 1° hij op het elektronische aanvraagformulier, vermeld in artikel 8, bijkomend een verklaring op erewoord ondertekent dat hij:<br>
 a) de documenten, vermeld in artikel 9, heeft;<br>
-b) voor het gevraagde aantal kinderopvangplaatsen voor groepsopvang een verslag over de infrastructuur met een positief advies en een brandveiligheidsattest A of B heeft;<br>
+b) voor het gevraagde aantal kinderopvangplaatsen voor groepsopvang een verslag over de infrastructuur met een positief advies, een advies over de opportuniteit van het lokaal bestuur als vermeld in artikel 52/2, of een bewijs van de aanvraag ervan&nbsp;en een brandveiligheidsattest A of B heeft;<br>
 2° er geen gegronde indicatie is waaruit blijkt dat de verklaringen van de organisator niet overeenstemmen met de realiteit.
 
 ### ART. 11.
@@ -148,13 +150,15 @@ De aanvraag tot aanpassing van de vergunning wordt elektronisch ingediend met ee
 2° de naam, het dossiernummer en het adres van de kinderopvanglocatie;<br>
 3° het aantal vergunde kinderopvangplaatsen dat men wenst na de aanpassing;<br>
 4° de datum vanaf wanneer men het aangepast aantal vergunde kinderopvangplaatsen wil;<br>
+4/1° in geval van een aanvraag voor minstens negen bijkomende vergunde kinderopvangplaatsen: de acties die de organisator onderneemt naar aanleiding van het advies over de opportuniteit van het lokaal bestuur, vermeld in artikel 52/2;<br>
 5° de datum en de handtekening van de organisator.
 
 ### ART. 13.
 
 Naast het aanvraagformulier, vermeld in artikel 12, bezorgt de organisator voor groepsopvang de documenten, vermeld in artikel 9, 3°, a) en b), en voor gezinsopvang de documenten, vermeld in artikel 9, 4°, c), met de post of elektronisch, volgens de administratieve richtlijnen van het agentschap.<br>
+<br>
 De organisator die op het moment van de aanvraag tot aanpassing van een vergunning minstens twaalf vergunningen heeft voor hetzij gezinsopvang hetzij groepsopvang, en een aanvraag indient voor dezelfde opvangvorm, moet de documenten, vermeld in het eerste lid, niet bezorgen op voorwaarde dat:<br>
-1° hij op het aanvraagformulier, vermeld in artikel 12, bijkomend een verklaring op erewoord ondertekent dat hij voor groepsopvang de documenten, vermeld in artikel 9, 3°, a) en b), en voor gezinsopvang de documenten, vermeld in artikel 9, 4°, c), heeft;<br>
+1° hij op het aanvraagformulier, vermeld in artikel 12, bijkomend een verklaring op erewoord ondertekent dat hij voor groepsopvang de documenten, vermeld in&nbsp;artikel 9, 3°, a) tot en met c), en voor gezinsopvang de documenten, vermeld in artikel 9, 4°, c), heeft;<br>
 2° er geen gegronde indicatie is waaruit blijkt dat de verklaringen van de organisator niet overeenstemmen met de realiteit.
 
 ## [Afdeling 2/1 Aanvraag van een vergunning bij wijziging van de organisator (ing. BVR 9 oktober 2015, art. 47, I: 1 september 2015)]
@@ -481,6 +485,27 @@ Het agentschap stuurt de beslissing aan de organisator of aan de persoon voor wi
 Als het agentschap geen beslissing heeft genomen of de aanvrager daarvan niet op de hoogte heeft gebracht binnen de termijnen die van toepassing zijn, wordt het attest van afwijking geacht toegekend te zijn, op voorwaarde dat de aanvrager een ontvangstmelding van het agentschap heeft ontvangen.
 
 ## [Afdeling 4 Opportuniteitsadvies (ing. BVR 29 januari 2021, art. 13, I: 1 januari 2022)]
+
+### ART 52/1.
+
+De organisator van groepsopvang vraagt schriftelijk een advies aan over de opportuniteit als vermeld in artikel 52/2, bij het lokaal bestuur van de gemeente waar de kinderopvanglocatie ligt.<br>
+<br>
+De aanvraag bevat al de volgende gegevens:<br>
+1° de identificatiegegevens en de contactgegevens van de organisator;<br>
+2° het adres van de kinderopvanglocatie waar de organisator de kinderopvang wil starten of uitbreiden;<br>
+3° het beoogde aantal plaatsen dat het voorwerp is van de opstart of uitbreiding van de kinderopvanglocatie.
+
+### ART 52/2.
+
+Het lokaal bestuur onderzoekt en geeft een advies over de opportuniteit van de opstart of de uitbreiding van de kinderopvanglocatie op basis van de procedure en de criteria, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 24 mei 2013 houdende het lokaal beleid kinderopvang.
+
+### ART 52/3.
+
+Uiterlijk dertig kalenderdagen na de datum waarop het lokaal bestuur de aanvraag, vermeld in artikel 52/1, heeft ontvangen, bezorgt het lokaal bestuur een gemotiveerd advies over de opportuniteit als vermeld in artikel 52/2, aan de organisator.
+
+### ART 52/4.
+
+De organisator heeft de mogelijkheid om opmerkingen te formuleren op het advies over de opportuniteit, vermeld in artikel 52/2, binnen dertig kalenderdagen na de dag waarop hij het advies heeft ontvangen. Het lokaal bestuur behandelt de opmerkingen conform de procedure, vermeld in artikel 7 vierde lid, van het besluit van de Vlaamse Regering van 24 mei 2013 houdende het lokaal beleid kinderopvang.
 
 ## TITEL 3 Subsidie
 
