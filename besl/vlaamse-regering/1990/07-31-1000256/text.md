@@ -760,7 +760,7 @@ Worden opgeheven voorzover zij bekwaamheidsbewijzen vaststellen wat de instellin
 
 ### ART. 19bis.
 
-De bekwaamheidsbewijzen en salarisschalen, vermeld in bijlage I, die bij dit besluit is gevoegd, treden in werking op 1 september 2019.
+De bekwaamheidsbewijzen en salarisschalen, vermeld in bijlage I, die bij dit besluit is gevoegd, treden in werking op 1 januari 2022.
 
 ### ART. 20.
 
@@ -772,56 +772,8 @@ Onverminderd het bepaalde in artikel 13, § 3 treedt dit besluit in werking op 1
 
 ### BIJLAGE I.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/20_1.pdf#page=44">Bijlage 1</a><br>
+<a href="https://www.ejustice.just.fgov.be/cgi/summary_body.pl?language=nl&amp;pub_date=#EDITION1#page=967">Bekwaamheidsbewijzen en salarisschalen in het buitengewoon basisonderwijs vanaf 1 januari 2022</a><br>
 <br>
-* Bij besluit van de Vlaamse Regering van 3 september 2021, BS 14 oktober 2021, worden met ingang van 1 september 2021 de volgende wijzigingen aangebracht in de bijlage:<br>
-<br>
-<br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">1° in het deel bekwaamheidsbewijzen voor het buitengewoon basisonderwijs wordt het ambt van ICT-coördinator vervangen door wat volgt:</span></span></span><br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">"ICT-coördinator</span></span></span>
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
-	<tbody>
-		<tr>
-			<td>vereiste</td>
-			<td>salarisschaal</td>
-		</tr>
-		<tr>
-			<td>ten minste HSO met puntengewicht 63</td>
-			<td>202</td>
-		</tr>
-		<tr>
-			<td>ten minste bachelor met puntengewicht 85</td>
-			<td>301</td>
-		</tr>
-		<tr>
-			<td>ten minste master met puntengewicht 126</td>
-			<td>501</td>
-		</tr>
-	</tbody>
-</table>
-<br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">2° in het deel "bekwaamheidsbewijzen voor het buitengewoon secundair onderwijs" wordt tussen het ambt van "ondersteunend personeel - administratief medewerker" en het ambt "ondersteunend personeel - opvoeder" het ambt van "ondersteunend personeel - ICT-coördinator" ingevoegd, dat luidt als volgt:</span></span></span><br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">"Ondersteunend personeel - ICT-coördinator</span></span></span>
-
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
-	<tbody>
-		<tr>
-			<td>vereiste</td>
-			<td>salarisschaal</td>
-		</tr>
-		<tr>
-			<td>ten minste HSO betrekking met puntenwaarde 63</td>
-			<td>202</td>
-		</tr>
-		<tr>
-			<td>ten minste bachelor betrekking met puntenwaarde 85</td>
-			<td>301</td>
-		</tr>
-		<tr>
-			<td>ten minste master betrekking met puntenwaarde 126</td>
-			<td>501</td>
-		</tr>
-	</tbody>
-</table>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/14_2.pdf#page=1872">Bekwaamheidsbewijzen en salarisschalen in het buitengewoon secundair onderwijs vanaf 1 januari 2022</a><br>
 <br>
 &nbsp;
