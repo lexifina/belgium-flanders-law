@@ -395,6 +395,81 @@ In artikel 17 van hetzelfde decreet, gewijzigd bij de decreten van 19 december 2
 4° aan punt 2° wordt de volgende zin toegevoegd:<br>
 "In voorkomend geval noteert de dopingcontroleur dat verzet op het verslag van de dopingtest;".
 
+### ART 19.
+
+In artikel 20 van hetzelfde decreet, vervangen bij het decreet van 19 december 2014, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° paragraaf 1 en 2 worden vervangen door wat volgt:<br>
+" § 1. Voor de toepassing van dit hoofdstuk worden de elitesporters die in het Nederlandse taalgebied wonen, door NADO Vlaanderen ingedeeld in categorie A, B of C volgens de lijst van sportdisciplines A en B, die de regering bepaalt aan de hand van de criteria, vermeld in het tweede lid:<br>
+1° categorie A: deze groep bestaat enerzijds uit elitesporters die een discipline van categorie A beoefenen, en anderzijds, in voorkomend geval, uit de sporters, vermeld in paragraaf 3, tweede tot en met vierde lid, en artikel 21, § 3, tweede en derde lid, en de sporters die conform artikel 21, § 4, vijfde lid, aan verblijfsgegevens van categorie A zijn onderworpen;<br>
+2° categorie B: deze groep bestaat uit elitesporters die een discipline van categorie B beoefenen;<br>
+3° categorie C: deze groep bestaat uit elitesporters die niet vallen onder de categorieën, vermeld in punt 1° en 2°.<br>
+<br>
+Op basis van de volgende criteria kan de regering een sportdiscipline categoriseren als A of B als vermeld in het eerste lid:<br>
+1° A: het gaat om een individuele discipline die gevoelig is voor dopinggebruik buiten wedstrijdverband;<br>
+2° B: het gaat om een ploegdiscipline die gevoelig is voor dopinggebruik buiten wedstrijdverband.<br>
+<br>
+De dopinggevoeligheid van een sportdiscipline als vermeld in het tweede lid, wordt bepaald op basis van de volgende criteria:<br>
+1° de statistieken van dopingpraktijken voor de sportdiscipline of sporttak in kwestie;<br>
+2° de fysieke of fysiologische eisen om performant te zijn in de sportdiscipline of sporttak in kwestie;<br>
+3° de populariteit van de sportdiscipline of sporttak in kwestie op nationaal niveau;<br>
+4° het belang op financieel vlak en mediavlak van de sporttak of sportdiscipline in kwestie.<br>
+<br>
+§ 2. De elitesporters uit categorie A vormen de nationale geregistreerde doelgroep.<br>
+<br>
+De elitesporters uit categorie A en B vormen de nationale doelgroep.<br>
+<br>
+De elitesporters uit categorie C hoeven voor NADO Vlaanderen geen verblijfsgegevens in te dienen, maar kunnen conform artikel 20, § 3, tweede tot en met vierde lid, wel onderworpen worden aan de verplichting om verblijfs- gegevens in te dienen.<br>
+<br>
+Alle sporters die verblijfsgegevens moeten indienen, geven voldoende accurate verblijfsgegevens op opdat een ADO hen dagelijks op een opgegeven plaats onaangekondigd kan vinden en aan een dopingtest kan onderwerpen. Als dat niet het geval is, kan, met behoud van de toepassing van de gevolgen, vermeld in artikel 21, als de omstandigheden het rechtvaardigen, de elitesporter vervolgd worden wegens een dopingpraktijk als vermeld in artikel 3, § 1, 3° of 5°.<br>
+<br>
+De elitesporters uit categorie A, B en C kunnen verplicht worden verblijfsgegevens in te dienen voor een andere ADO. Als meer dan één ADO een sporter verplicht om verblijfsgegevens in te dienen, wordt voorrang gegeven aan de ADO die de zwaarste verplichtingen oplegt. Die ADO krijgt in dat geval het beheer van de verblijfsgegevens, met toegang voor elke andere ADO die in voorkomend geval de sporter heeft opgenomen in een nationale of inter- nationale doelgroep of met bevoegdheid om de sporter aan dopingtests te onderwerpen. In geen geval wordt de voormelde elitesporter verplicht om verblijfsgegevens in te dienen voor meer dan één ADO.";<br>
+<br>
+2° paragraaf 3, tweede lid, wordt vervangen door wat volgt:<br>
+"NADO Vlaanderen kan elke elitesporter wiens prestaties er plots en opmerkelijk op vooruitgaan, of tegen wie ernstige aanwijzingen van een dopingpraktijk bestaan, ertoe verplichten zijn verblijfsgegevens door te geven als spor- ter van categorie A conform artikel 21, § 1, voor een periode van maximum twaalf maanden. Die periode kan worden verlengd voor een nieuwe periode van maximum twaalf maanden als de ernstige aanwijzingen van een doping- praktijk bevestigd worden en blijven bestaan.";<br>
+<br>
+3° aan paragraaf 3 worden een derde en vierde lid toegevoegd, die luiden als volgt:<br>
+<br>
+"Met behoud van de toepassing van het tweede lid kan NADO Vlaanderen elke sporter die onder de bevoegdheid van NADO Vlaanderen valt, tegen wie ernstige vermoedens van een dopingpraktijk bestaan in het kader van een gevoerd dopingonderzoek, in voorkomend geval gevoerd in samenwerking met een of meerdere andere antidopingorganisaties, politiediensten of gerechtelijke diensten, verplichten verblijfsgegevens door te geven als sporter van categorie A, conform artikel 21, § 1, voor een periode van maximum twaalf maanden. Die periode kan worden verlengd voor een nieuwe periode van maximum twaalf maanden als de ernstige aanwijzingen bevestigd worden en blijven bestaan.<br>
+<br>
+Met behoud van de toepassing van het tweede en derde lid kan NADO Vlaanderen elke sporter die op een preselectielijst voor de Olympische Spelen, Paralympische Spelen, Europese kampioenschappen of wereldkampioen- schappen staat, verplichten verblijfsgegevens door te geven overeenkomstig categorie A. Dat kan pas uitgeoefend worden voor een maximumduur van twaalf maanden die ten vroegste negen maanden voor de wedstrijd in kwestie aanvangt en ten laatste drie maanden na afloop van die wedstrijd eindigt.".
+
+### ART 20.
+
+In artikel 21 van hetzelfde decreet, vervangen bij het decreet van 19 december 2014, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° paragraaf 2 wordt opgeheven;<br>
+<br>
+2° in paragraaf 3, eerste lid, wordt de zinsnede "categorie C" vervangen door de zinsnede "categorie B";<br>
+<br>
+3° in paragraaf 3, tweede lid, wordt de zinsnede "categorie C" vervangen door de zinsnede "categorie B" en wordt de zinsnede "categorie A of B" vervangen door de zinsnede "categorie A";<br>
+<br>
+4° in paragraaf 3, derde lid, wordt de zinsnede "categorie C" vervangen door de zinsnede "categorie B";<br>
+<br>
+5° in paragraaf 3, derde lid, wordt het woord "achttien" vervangen door het woord "twaalf";<br>
+<br>
+6° in paragraaf 3, vierde lid, wordt de zinsnede "categorie C" vervangen door de zinsnede "categorie B";<br>
+<br>
+7° paragraaf 4 wordt vervangen door wat volgt:<br>
+<br>
+" § 4. Een elitesporter van categorie A of B die zich teruggetrokken heeft uit de sport op nationaal of internationaal niveau, maar later weer aan wedstrijden op nationaal of internationaal niveau wil deelnemen, kan pas weer toegelaten worden om deel te nemen aan nationale of internationale wedstrijden nadat hij NADO Vlaanderen en zijn internationale federatie schriftelijk op de hoogte heeft gebracht van zijn voorgenomen terugkeer in wedstrijdverband, uiterlijk zes maanden voor de datum daarvan.<br>
+<br>
+Het WADA kan in samenspraak met de NADO die bevoegdheid had over de sporter op het ogenblik dat de sporter zich teruggetrokken heeft, een afwijking toekennen van de regel van schriftelijke kennisgeving zes maanden voor de terugkeer in wedstrijdverband, vermeld in het eerste lid, als de strikte toepassing van die regel voor de elitesporter in kwestie onbillijk zou zijn.<br>
+<br>
+Elk sportief resultaat van een elitesporter als vermeld in het eerste lid, die geen kennisgeving heeft gedaan conform het eerste lid, wordt geannuleerd, tenzij de sporter kan aantonen dat hij niet redelijkerwijs had kunnen weten dat het ging om een wedstrijd van internationaal of nationaal niveau.<br>
+<br>
+Als een elitesporter als vermeld in het eerste lid, zich terugtrekt uit de sport tijdens een periode van uitsluiting die het gevolg is van een disciplinaire uitspraak op grond van dopingpraktijken, die in kracht van gewijsde is gegaan, kan die sporter geen toelating krijgen om aan nationale of internationale wedstrijden deel te nemen zonder dat hij conform het eerste lid de bevoegde NADO en internationale federatie zes maanden of een periode gelijk aan het resterende deel van de uitsluiting, als die langer is dan zes maanden, vooraf schriftelijk op de hoogte heeft gebracht.<br>
+<br>
+Vanaf de ontvangst van een schriftelijke kennisgeving conform het eerste lid, kan de betrokken ADO de sporter in kwestie onderwerpen aan controles buiten wedstrijdverband en hem verplichten verblijfgegevens in te dienen overeenkomstig de categorie waartoe hij behoorde op het ogenblik van zijn terugtrekking uit de sport.".
+
+### ART 21.
+
+In artikel 22 van hetzelfde decreet, gewijzigd bij het decreet van 19 december 2014, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in paragraaf 1 wordt de zin "In uitzonderlijke door de elitesporter te motiveren gevallen, waarin het mededelen van de verblijfsgegevens door middel van ADAMS niet mogelijk is, mogen de verblijfsgegevens doorgegeven worden aan NADO Vlaanderen via e-mail of sms." opgeheven;<br>
+<br>
+2° in paragraaf 3, eerste lid, worden tussen de woorden "een mogelijke" en de woorden "overtreding inzake" de woorden "niet-nakoming van de verplichting om verblijfsgegevens in te dienen of te actualiseren of een" ingevoegd.
+
 ### ART 22.
 
 Artikel 23/1 van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014, wordt vervangen door wat volgt:<br>
