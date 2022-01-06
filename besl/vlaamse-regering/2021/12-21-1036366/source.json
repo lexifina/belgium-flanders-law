@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036366,
+  "title": "Besluit van de Vlaamse Regering van 2021-12-21 waarbij de hevige regenval die zich voordeed van 14 juli 2021 tot en met 16 juli 2021 als een ramp wordt beschouwd en waarbij de geografische uitgestrektheid van die ramp wordt afgebakend",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036366/VolledigDocument?datum=2022-01-06",
+  "source_sha256": "5c60b7968c42788da09120ecb9bcab4499000328220a9273e62ea52a31c8fd37",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036366&param=informatie",
+  "as_of": "2022-01-06",
+  "made": "2021-12-21",
+  "gazette": "2021-12-27",
+  "numac": 2021034449,
+  "document_start": "2022-01-06",
+  "document_end": null,
+  "in_force": "2022-01-06",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2022-01-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
