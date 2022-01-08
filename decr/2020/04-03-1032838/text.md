@@ -91,7 +91,13 @@ De Vlaamse Regering kan voor de extra categorieën, vermeld in het eerste lid, e
 
 ### ART 9.
 
-Artikel 6 tot en met 8 zijn alleen van toepassing tijdens de periode van de civiele noodsituatie met betrekking tot de volksgezondheid die bepaald is met toepassing van artikel 4, § 1, eerste lid, 1°, van het decreet van 20 maart 2020 en die is gestart op 20 maart 2020, alsook voor de eventuele aansluitende verlenging van die periode.
+Artikel 6 tot en met 8 zijn alleen van toepassing tijdens de periode van de civiele noodsituatie met betrekking tot de volksgezondheid die bepaald is met toepassing van artikel 4, § 1, eerste lid, 1°, van het decreet van 20 maart 2020 en die is gestart op 20 maart 2020, alsook voor de eventuele aansluitende verlenging van die periode.<br>
+<br>
+Vanaf één maand na inwerkingtreding van artikel 23 van het programmadecreet van 23 december 2021 bij de begroting 2022 worden geen nieuwe rechthebbenden op de vergoeding als vermeld in artikel 6, § 1, meer aanvaard.<br>
+<br>
+Tijdig ontvangen maar onvolledige dossiers kunnen tot uiterlijk twee maanden na inwerkingtreding van artikel 23 van voormeld programmadecreet aangevuld worden met bewijsstukken.<br>
+<br>
+Twee maanden na inwerkingtreding van artikel 23 van voormeld programmadecreet vervalt het recht op de vergoeding voor die rechthebbenden die zich niet tijdig hebben gemeld of voor die dossiers die nog niet vervolledigd zijn.
 
 ### ART 10.
 
