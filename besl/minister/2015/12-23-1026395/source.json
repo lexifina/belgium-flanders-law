@@ -2,16 +2,16 @@
   "codex_id": 1026395,
   "title": "Ministerieel besluit van 2015-12-23 houdende de uitvoering van artikel 16 en de aanpassing van het besluit van de Vlaamse Regering van 19 juli 2013 tot toekenning van strategische transformatiesteun aan ondernemingen in het Vlaamse Gewest en de aanpassing van de ministeriële besluiten ecologiepremie en strategische ecologiesteun aan de algemene groepsvrijstellingsverordening",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026395/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "123724f8518f512cc5c2f0fdbf3203473e3bb17cd2cc25a57d1488a18c9723cb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026395/VolledigDocument?datum=2022-01-10",
+  "source_sha256": "a659c59c8fc2a07b376cf7fb4df445c381e2cb6c9f0ec35db44673a44a9a6397",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026395&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2022-01-10",
   "made": "2015-12-23",
   "gazette": "2016-02-04",
   "numac": 2016035067,
   "document_start": "2015-01-01",
   "document_end": null,
-  "in_force": "2015-01-01",
+  "in_force": "2022-01-10",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-01-10; future article versions excluded; article text as the API gives it"
 }
