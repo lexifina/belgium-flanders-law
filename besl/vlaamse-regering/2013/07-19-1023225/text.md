@@ -437,4 +437,4 @@ De Vlaamse minister, bevoegd voor Economie, is belast met de uitvoering   van di
 
 ### BIJLAGE
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2021/06/28_1.pdf#page=187">De sectoren, vermeld in artikel 11, eerste lid en artikel 26, eerste lid.</a></p>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/10_1.pdf#page=46">De sectoren, vermeld in artikel 11, eerste lid, en artikel 26, eerste lid.</a></p>
