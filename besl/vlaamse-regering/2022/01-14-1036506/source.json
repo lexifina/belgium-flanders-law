@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036506,
+  "title": "Besluit van de Vlaamse Regering van 2022-01-14 tot erkenning van de onderwijskwalificatie Moderne Talen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036506/VolledigDocument?datum=2022-01-15",
+  "source_sha256": "e4805224289ac4d81c7e303e1a76dafacf5b177ddadd152711264bab2b3e352a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036506&param=informatie",
+  "as_of": "2022-01-15",
+  "made": "2022-01-14",
+  "gazette": "2022-02-18",
+  "numac": 2022020154,
+  "document_start": "2022-01-15",
+  "document_end": null,
+  "in_force": "2022-01-15",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2022-01-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
