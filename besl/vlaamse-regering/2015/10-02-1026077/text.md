@@ -68,6 +68,7 @@ De minister kan de elementen, vermeld in het vierde lid, nader bepalen en vormel
 <p>De steunintensiteit is afhankelijk van de mate waarin de investering opbrengst verhogend of kostenbesparend is, en bedraagt maximaal:<br>
 1° 100% voor de investeringen met een verwaarloosbaar productief karakter, vermeld in bijlage 3, die bij dit besluit is gevoegd;<br>
 2° 75% voor de investeringen waarvoor een secundair positief effect op de productie bewezen is of waarbij een secundair negatief effect van de productie vermeden wordt, vermeld in bijlage 3, die bij dit besluit is gevoegd;<br>
+3° 50% voor de investeringen die alleen een niet-productieve meerwaarde hebben tegenover de andere bestaande productieve systemen, vermeld in bijlage 3, die bij dit besluit is gevoegd.<br>
 <br>
 De investeringspremie wordt betaald nadat de aanvrager de betalingsaanvraag heeft ingediend en nadat de bevoegde entiteit de voorwaarden voor het verkrijgen van de steun heeft gecontroleerd.<br>
 <br>
@@ -572,9 +573,9 @@ De Vlaamse minister, bevoegd voor de landbouw, is belast met de uitvoering   van
 
 ### Bijlage 3
 
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;"><u>Maximale steunintensiteit als vermeld in artikel 5, tweede lid</u></span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000"><u>Maximale steunintensiteit als vermeld in artikel 5, tweede lid</u></span></span><br>
 &nbsp;
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
 	<tbody>
 		<tr>
 			<td>thema</td>
@@ -717,6 +718,11 @@ De Vlaamse minister, bevoegd voor de landbouw, is belast met de uitvoering   van
 			<td>75%</td>
 		</tr>
 		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;elektronische waterpeilmeters (+peilbuis)</td>
+			<td>50%</td>
+		</tr>
+		<tr>
 			<td>water - wateropslag met infiltratie</td>
 			<td>wetland</td>
 			<td>100%</td>
@@ -752,6 +758,21 @@ De Vlaamse minister, bevoegd voor de landbouw, is belast met de uitvoering   van
 			<td>75%</td>
 		</tr>
 		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;wateropslag voor regenwater</td>
+			<td>50%</td>
+		</tr>
+		<tr>
+			<td>waterkwaliteit</td>
+			<td>machines voor mechanische onkruidbestrijding en loofverwijdering</td>
+			<td>50%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;weerstation voor gebruik binnen waarnemings- en waarschuwingssysteem met als doel de toepassing van geïntegreerde gewasbescherming</td>
+			<td>50%</td>
+		</tr>
+		<tr>
 			<td>erosie/bodem</td>
 			<td>hoge houthakseldam (&gt;75 cm)</td>
 			<td>100%</td>
@@ -780,6 +801,21 @@ De Vlaamse minister, bevoegd voor de landbouw, is belast met de uitvoering   van
 			<td>&nbsp;</td>
 			<td>&nbsp;wilgentenendam (min. 50 cm)</td>
 			<td>100%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;drempelmachine</td>
+			<td>50%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;graslandwoeler</td>
+			<td>50%</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;compostkeerder</td>
+			<td>50%</td>
 		</tr>
 	</tbody>
 </table>

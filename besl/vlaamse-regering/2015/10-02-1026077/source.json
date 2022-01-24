@@ -2,16 +2,16 @@
   "codex_id": 1026077,
   "title": "Besluit van de Vlaamse Regering van 2015-10-02 betreffende steun aan niet-productieve investeringen en aan de ontwikkeling van kleine landbouwbedrijven",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026077/VolledigDocument?datum=2021-06-26",
-  "source_sha256": "deead624d2e0ca782a307ddf839a55dcdced3c645b12f0c10c2b22d5dfba0d4d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026077/VolledigDocument?datum=2022-01-24",
+  "source_sha256": "4c7111519487b95be2f9a0941494204a731b1889fd42043ee53429b58f0c62fa",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026077&param=informatie",
-  "as_of": "2021-06-26",
+  "as_of": "2022-01-24",
   "made": "2015-10-02",
   "gazette": "2015-11-12",
   "numac": 2015036306,
   "document_start": "2015-11-13",
   "document_end": "2022-12-31",
-  "in_force": "2021-06-26",
+  "in_force": "2022-01-24",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2021-06-26; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-01-24; future article versions excluded; article text as the API gives it"
 }
