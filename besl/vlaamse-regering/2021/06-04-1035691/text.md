@@ -66,6 +66,11 @@ In artikel 5 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<b
 De minister kan in bijkomende documenten voorzien die bij de betalingsaanvraag moeten worden gevoegd.<br>
 De aanvaardbare investeringskosten bestaan voor maximaal 10% uit kosten voor het technische verantwoordingsadvies, vermeld in artikel 4.".
 
+### ART 5.
+
+Aan artikel 5, tweede lid, van hetzelfde besluit, vervangen bij dit besluit, wordt een punt 3° toegevoegd, dat luidt als volgt:<br>
+"3° 50% voor de investeringen die alleen een niet-productieve meerwaarde hebben tegenover de andere bestaande productieve systemen, vermeld in bijlage 3, die bij dit besluit is gevoegd.".
+
 ### ART 6.
 
 Artikel 6 van hetzelfde besluit wordt vervangen door wat volgt:<br>
@@ -129,6 +134,10 @@ Bijlage 2 bij hetzelfde besluit wordt vervangen door bijlage 2, die bij dit besl
 ### ART 11.
 
 Aan hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 september 2018, wordt een bijlage 3 toegevoegd, die bij dit besluit is gevoegd.
+
+### ART 12.
+
+Bijlage 3 bij hetzelfde besluit, toegevoegd bij dit besluit, wordt vervangen door de bijlage, die als bijlage 4 bij dit besluit is gevoegd.
 
 ### ART 13.
 
