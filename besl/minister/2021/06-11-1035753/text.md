@@ -35,9 +35,17 @@ De investeringen, vermeld in artikel 6, § 1, tweede lid, 1° en 10°, van het b
 De maximale subsidiabele investeringsbedragen, vermeld in artikel 9, derde lid, van het besluit van 2 oktober 2015, zijn opgenomen in bijlage 3, die bij dit besluit is gevoegd.<br>
 De bedragen, vermeld in bijlage 3, die bij dit besluit is gevoegd, zijn exclusief btw.
 
+### ART 6.
+
+Bijlage 3, gevoegd bij dit besluit, wordt vervangen door de bijlage, die als bijlage 4 bij dit besluit is gevoegd.
+
 ### ART 7.
 
 De bijkomende voorwaarden voor investeringen, vermeld in artikel 9, derde lid, van het besluit van 2 oktober 2015, zijn opgenomen in bijlage 5, die bij dit besluit is gevoegd.
+
+### ART 8.
+
+Bijlage 5, gevoegd bij dit besluit, wordt vervangen door de bijlage, die als bijlage 6 bij dit besluit is gevoegd.
 
 ### ART 9.
 
@@ -53,7 +61,7 @@ Artikel 6 en 8 treden in werking op een datum die de minister vaststelt en niet 
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2021/06/28_1.pdf#page=258">Bijlage 3</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/06/28_1.pdf#page=261">De maximale subsidiabele investeringsbedragen per oppervlakte- of lengte-eenheid of per stuk, in euro als vermeld in artikel 5.</a>
 
 ### BIJLAGE
 
@@ -61,7 +69,7 @@ Artikel 6 en 8 treden in werking op een datum die de minister vaststelt en niet 
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2021/06/28_1.pdf#page=264">Bijlage 5</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/06/28_1.pdf#page=283">Bijkomende voorwaarden voor investeringen als vermeld in artikel 7.</a>
 
 ### BIJLAGE
 
