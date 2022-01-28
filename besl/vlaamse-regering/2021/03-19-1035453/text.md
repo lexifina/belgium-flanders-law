@@ -32,7 +32,8 @@ DE VLAAMSE REGERING BESLUIT:
 In dit besluit wordt verstaan onder:<br>
 1° erkend dierenasiel: het dierenasiel dat conform artikel 5 van de wet van 14 augustus 1986 is erkend;<br>
 2° minister: de Vlaamse minister, bevoegd voor het dierenwelzijn;<br>
-3° wet van 14 augustus 1986: de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren.
+3° wet van 14 augustus 1986: de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren;<br>
+4° dienst: de subentiteit van het Departement Omgeving die bevoegd is voor het dierenwelzijn.
 
 ## HOOFDSTUK 2.Subsidie
 
@@ -76,7 +77,7 @@ De minister bepaalt de verdeelsleutel die toegepast wordt op het bedrag, vermeld
 3° aquaria;<br>
 4° hondenverblijven;<br>
 5° kattenverblijven;<br>
-6° knaagdierenverblijven;<br>
+6° konijnen- en knaagdierenverblijven;<br>
 7° terraria;<br>
 8° vijvers;<br>
 9° volières.
@@ -85,9 +86,9 @@ De minister bepaalt de verdeelsleutel die toegepast wordt op het bedrag, vermeld
 
 ### ART 6.
 
-Het erkende dierenasiel dient uiterlijk op 31 mei van ieder jaar een subsidieaanvraag in bij de dienst. Het erkende dierenasiel gebruikt daarvoor het formulier dat de dienst op zijn website ter beschikking stelt.<br>
+Het erkende dierenasiel dient uiterlijk op 31 maart van ieder jaar een subsidieaanvraag in bij de dienst. Het erkende dierenasiel gebruikt daarvoor het formulier dat de dienst op zijn website ter beschikking stelt.&nbsp;Wanneer de subsidieaanvraag tijdig werd ingediend maar onvolledig is, vraagt de dienst de ontbrekende informatie op. Het asiel bezorgt deze informatie aan de dienst uiterlijk binnen de 7 dagen na de datum van de vraag tot vervollediging, bij gebreke waaraan de aanvraag als onvolledig wordt verworpen.<br>
 <br>
-De dienst beslist over de toekenning van de subsidie uiterlijk zestig dagen na de dag waarop hij de volledige subsidieaanvraag heeft ontvangen. De dienst brengt het erkende dierenasiel op de hoogte van die beslissing uiterlijk vijftien dagen nadat hij de beslissing heeft genomen.
+De dienst beslist over de toekenning van de subsidie uiterlijk op 31 mei van ieder jaar waarin het de subsidieaanvragen heeft ontvangen. De dienst brengt het erkende dierenasiel op de hoogte van die beslissing uiterlijk vijftien dagen nadat hij de beslissing heeft genomen.
 
 ### ART 7.
 
