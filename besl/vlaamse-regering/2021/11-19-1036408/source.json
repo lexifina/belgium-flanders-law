@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036408,
+  "title": "Besluit van de Vlaamse Regering van 2021-11-19 houdende indeling bij de gemeentewegen van de gewestweg N129a Frans de l'Arbrelaan tussen kilometerpunt 0,1 en 0,35 op het grondgebied van de stad Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036408/VolledigDocument?datum=2022-01-28",
+  "source_sha256": "0869eee7590caeb7236f164361da535488bd01b5d62f1d9290207b2d0f4a59bb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036408&param=informatie",
+  "as_of": "2022-01-28",
+  "made": "2021-11-19",
+  "gazette": "2022-01-18",
+  "numac": 2021043349,
+  "document_start": "2022-01-28",
+  "document_end": null,
+  "in_force": "2022-01-28",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-01-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
