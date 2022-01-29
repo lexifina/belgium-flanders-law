@@ -13,7 +13,7 @@ In dit decreet wordt verstaan onder:<br>
 
 ### ART 3.
 
-Conform artikel 13bis en 13ter van het samenwerkingsakkoord van 14 juli 2021 is het inzetten van het COVID Safe Ticket toegestaan bij bezoekers van 12 jaar en twee maanden en ouder van volgende voorzieningen voor residentiële opvang van kwetsbare personen als vermeld in artikel 1, § 1, 21°, 5°, van hetzelfde samenwerkingsakkoord, meer bepaald van:<br>
+Conform artikel 13bis en 13ter van het samenwerkingsakkoord van 14 juli 2021 is het inzetten van het COVID Safe Ticket toegestaan bij bezoekers van 12 jaar en drie maanden en ouder van volgende voorzieningen voor residentiële opvang van kwetsbare personen als vermeld in artikel 1, § 1, 21°, 5°, van hetzelfde samenwerkingsakkoord, meer bepaald van:<br>
 1° ziekenhuizen;<br>
 2° woonzorgcentra;<br>
 3° revalidatieziekenhuizen;<br>
@@ -21,7 +21,7 @@ Conform artikel 13bis en 13ter van het samenwerkingsakkoord van 14 juli 2021 is 
 
 ### ART 4.
 
-Conform artikel 13ter van het samenwerkingsakkoord van 14 juli 2021 kunnen organisatoren van publieke evenementen, die toegankelijk zijn voor een publiek van ten minste 200 personen en maximaal 2999 personen wanneer het binnen wordt georganiseerd en ten minste 400 personen en maximaal 4999 personen wanneer het buiten wordt georganiseerd, medewerkers en organisatoren niet meegerekend, het COVID Safe Ticket inzetten bij bezoekers van 12 jaar en twee maanden en ouder op voorwaarde dat:<br>
+Conform artikel 13ter van het samenwerkingsakkoord van 14 juli 2021 kunnen organisatoren van publieke evenementen, die toegankelijk zijn voor een publiek van ten minste 200 personen en maximaal 2999 personen wanneer het binnen wordt georganiseerd en ten minste 400 personen en maximaal 4999 personen wanneer het buiten wordt georganiseerd, medewerkers en organisatoren niet meegerekend, het COVID Safe Ticket inzetten bij bezoekers van 12 jaar en drie maanden en ouder op voorwaarde dat:<br>
 1° de bezoekers voorafgaandelijk worden geïnformeerd dat een COVID Safe Ticket nodig is voor de toegang tot het evenement;<br>
 2° de bezoekers worden geïnformeerd over de verwerking van hun persoonsgegevens in het kader van het COVID Safe Ticket.<br>
 <br>
@@ -29,7 +29,7 @@ Publieke evenementen die gebruikmaken van de mogelijkheid om een COVID Safe Tick
 
 ### ART 5.
 
-§ 1. Conform artikel 13ter van het samenwerkingsakkoord van 14 juli 2021 is het gebruik van het COVID Safe Ticket verplicht voor bezoekers van 12 jaar en twee maanden en ouder van:<br>
+§ 1. Conform artikel 13ter van het samenwerkingsakkoord van 14 juli 2021 is het gebruik van het COVID Safe Ticket verplicht voor bezoekers van 12 jaar en drie maanden en ouder van:<br>
 1° publieke evenementen die als massa-evenement moeten worden beschouwd, omdat ze toegankelijk zijn voor een publiek van ten minste 3000 personen en maximaal 75.000 personen wanneer het binnen wordt georganiseerd of voor een publiek van ten minste 5000 personen en maximaal 75.000 personen wanneer het buiten wordt georganiseerd, medewerkers en organisatoren niet meegerekend;<br>
 2° proef- en pilootprojecten als vermeld in artikel 1, § 1, 12°, van het samenwerkingsakkoord van 14 juli 2021;<br>
 3° dancings en discotheken als vermeld in artikel 1, § 1, 23°, van het samenwerkingsakkoord van 14 juli 2021.<br>
@@ -57,6 +57,6 @@ Dit decreet treedt in werking op de dag die volgt op de bekendmaking ervan in he
 
 ### ART 8.
 
-Dit decreet treedt buiten werking op 31 januari 2022.<br>
+Dit decreet treedt buiten werking op de datum waarop de epidemische noodsituatie die werd afgekondigd overeenkomstig artikel 3, § 1, van de wet van 14 augustus 2021 betreffende de maatregelen van bestuurlijke politie tijdens een epidemische noodsituatie, afloopt.<br>
 <br>
-De Vlaamse Regering kan voor iedere bepaling van dit decreet een datum van buitenwerkingtreding vaststellen die voorafgaat aan 31 januari 2022.
+De Vlaamse Regering kan voor iedere bepaling van dit decreet een datum van buitenwerkingtreding vaststellen die vroeger valt dan de datum, vermeld in het eerste lid.
