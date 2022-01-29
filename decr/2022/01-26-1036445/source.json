@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036445,
+  "title": "Decreet van 2022-01-26 tot wijziging van het decreet van 29 oktober 2021 over het COVID Safe Ticket, wat betreft de verhoging van de onderste leeftijdsgrens voor het gebruik van het COVID Safe Ticket en de koppeling van de buitenwerkingtreding van het decreet van 29 oktober 2021 aan de epidemische noodsituatie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036445/VolledigDocument?datum=2022-01-29",
+  "source_sha256": "782f55bf6677f83edc320a000d181fd8e32d708ad6c9433607aa66005c50e91c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036445&param=informatie",
+  "as_of": "2022-01-29",
+  "made": "2022-01-26",
+  "gazette": "2022-01-28",
+  "numac": 2022030484,
+  "document_start": "2022-01-29",
+  "document_end": null,
+  "in_force": "2022-01-29",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2022-01-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
