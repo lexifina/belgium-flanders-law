@@ -241,17 +241,17 @@ a) de woonzorgcentra;<br>
 b) de centra voor kortverblijf;<br>
 c) de revalidatieziekenhuizen;<br>
 2° vakbondspremiebijdrage: de bijdrage, vermeld in artikel 4, 2°, van de wet van 1 september 1980 betreffende de toekenning en de uitbetaling van een vakbondspremie aan sommige personeelsleden van de overheidssector;<br>
-3° referentiejaar: het kalenderjaar voorafgaat aan het jaar waarin het recht op de uitbetaling van de vakbondspremie ontstaat.
+3° referentiejaar: het kalenderjaar dat voorafgaat aan het jaar waarin het recht op de uitbetaling van de vakbondspremie ontstaat.
 
 ### ART 12.
 
-Elk jaar stort het agentschap een tegemoetkoming in de kosten voor de vakbondspremiebijdrage aan de RSZ. Die tegemoetkoming moet worden aangewend bij de inning van de vakbondspremiebijdragen die verschuldigd zijn voor de werknemers die werken in de voorzieningendie tot de provinciale en lokale besturen behoren.<br>
+Elk jaar stort het agentschap een tegemoetkoming in de kosten voor de vakbondspremiebijdrage aan de woonzorgcentra en de centra voor kortverblijf die behoren tot de openbare sector. Die tegemoetkoming moet worden aangewend bij de inning van de vakbondspremiebijdragen die verschuldigd zijn voor de werknemers die werken in de voorzieningen die tot de provinciale en lokale besturen behoren.<br>
 <br>
 Elk jaar stort het agentschap een tegemoetkoming in de kosten voor vakbondspremies aan het Syndicaal Fonds Non-Profit dat bestaat uit de representatieve werknemersorganisaties en dat de juridische vorm heeft van een vzw. Die tegemoetkoming wordt aangewend om een vakbondspremie uit te keren.
 
 ### ART 13.
 
-De tegemoetkoming, vermeld in artikel 12, eerste lid, bedraagt 562.316,74 euro.<br>
+Het bedrag van de tegemoetkoming, vermeld in artikel 12, eerste lid, wordt per woonzorgcentrum en centrum voor kortverblijf op de volgende wijze bepaald: 562.316,74 euro x het aantal erkende woongelegenheden van het woonzorgcentrum en het centrum voor kortverblijf samen op 30 juni van het referentiejaar / het totale aantal erkende woongelegenheden van de woonzorgcentra en centra voor kortverblijf die behoren tot de openbare sector op 30 juni van het referentiejaar.<br>
 <br>
 De tegemoetkoming, vermeld in artikel 12, tweede lid, bedraagt 1.039.066,10 euro.<br>
 <br>
@@ -267,17 +267,11 @@ Het bedrag, vermeld in artikel 13, tweede lid, wordt gestort op voorwaarde dat u
 
 ### ART 15.
 
-Het agentschap stort de tegemoetkoming, vermeld in artikel 13, eerste lid, uiterlijk op 31 januari van het jaar na het referentiejaar daan de RSZ, met vermelding van het referentiejaar.<br>
-<br>
 Het agentschap stort de tegemoetkoming, vermeld in artikel 13, tweede lid, uiterlijk op 31 januari van het jaar na het referentiejaar aan de vzw Syndicaal Fonds Non-Profit, met vermelding van het referentiejaar.
 
 ### ART 16.
 
-Voor de voorzieningen die behoren tot de provinciale en lokale besturen, aangesloten bij de RSZ, wordt de vakbondspremiebijdrage voor een deel gedekt door de tegemoetkoming, vermeld in artikel 13, eerste lid. Het agentschap berekent die tegemoetkoming, per aangeslotene, met de volgende formule: OA = (T/PB) * PA, waarbij:<br>
-1° OA = de omslag van de tegemoetkoming voor aangeslotene A;<br>
-2° T = de tegemoetkoming, vermeld in artikel 13, eerste lid;.<br>
-3° PB = het totale aantal erkende woongelegenheden in de woonzorgcentra die behoren tot de provinciale en lokale besturen en die aangesloten zijn bij de RSZ, op 30 juni van het referentiejaar;<br>
-4° PA =het aantal woongelegenheden in de woonzorgcentra die behoren tot de provinciale en lokale besturen en die aangesloten zijn bij de RSZ, op 30 juni van het referentiejaar.
+...
 
 ## [HOOFDSTUK 3/1. Financiering jobcreatie en tegemoetkoming jobs fiscale en sociale maribel (ing. BVR 7 december 2018, art. 14, I: 1 januari 2019)]
 
