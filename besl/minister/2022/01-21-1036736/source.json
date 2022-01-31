@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036736,
+  "title": "Ministerieel besluit van 2022-01-21 tot verlenging van het ministerieel besluit van 19 december 2016 tot vaststelling van een soortenbeschermingsprogramma voor de knoflookpad",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036736/VolledigDocument?datum=2022-01-31",
+  "source_sha256": "f63695fdf9a4909cb4408535e0defedcfe7155e71599dd755e9bbbad09de505c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036736&param=informatie",
+  "as_of": "2022-01-31",
+  "made": "2022-01-21",
+  "gazette": "2022-03-22",
+  "numac": 2022030750,
+  "document_start": "2022-01-31",
+  "document_end": null,
+  "in_force": "2022-01-31",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-01-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
