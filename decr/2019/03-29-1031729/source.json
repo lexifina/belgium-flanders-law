@@ -2,16 +2,16 @@
   "codex_id": 1031729,
   "title": "Decreet van 2019-03-29 houdende de Vlaamse Codex Overheidsfinanciën (citeeropschrift: \"Vlaamse Codex Overheidsfinanciën van 29 maart 2019\" of \"VCO\")",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031729/VolledigDocument?datum=2021-08-30",
-  "source_sha256": "979361f17db0fdf5d9593a26391328187d5b6c791a36204400720a83e89d77e8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031729/VolledigDocument?datum=2022-02-01",
+  "source_sha256": "9278512270fd2cf1c1f66ab9e4d36198f43a12806d19d3f9da782daa2bd3d424",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031729&param=informatie",
-  "as_of": "2021-08-30",
+  "as_of": "2022-02-01",
   "made": "2019-03-29",
   "gazette": "2019-05-29",
   "numac": 2019012533,
   "document_start": "2020-01-01",
   "document_end": null,
-  "in_force": "2021-08-30",
+  "in_force": "2022-02-01",
   "article_versions": 187,
-  "record_form": "consolidated version as in force on 2021-08-30; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-02-01; future article versions excluded; article text as the API gives it"
 }

@@ -883,7 +883,7 @@ De Vlaamse Regering kan bijkomende regels vaststellen voor een waarborgverlening
 
 ### ART 103.
 
-De Vlaamse Regering kan beslissen om risicodekking van entiteiten waarop dit hoofdstuk van toepassing is, gecentraliseerd te plaatsen bij een of meer&nbsp; verzekeringsondernemingen. De Vlaamse Regering kan voor het verzekeringsbeheer een beroep doen op een verzekeringsmakelaar.<br>
+De Vlaamse Regering kan beslissen om de volledige of gedeeltelijke risicodekking van alle of bepaalde entiteiten waarop dit hoofdstuk van toepassing is, gecentraliseerd te plaatsen bij een of meer&nbsp; verzekeringsondernemingen. De Vlaamse Regering kan voor het verzekeringsbeheer een beroep doen op een verzekeringsmakelaar.<br>
 <br>
 De Vlaamse Regering bepaalt ook de wijze waarop het gecentraliseerde verzekeringsbeheer wordt georganiseerd.
 
