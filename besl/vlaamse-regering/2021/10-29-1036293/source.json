@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036293,
+  "title": "Besluit van de Vlaamse Regering van 2021-10-29 tot wijziging van artikel 1 van het besluit van de Vlaamse Regering van 25 maart 2005 houdende reglementering van de handel in en de keuring van zaaizaad van groenvoedergewassen en artikel 1/1 van het besluit van de Vlaamse Regering van 16 december 2005 houdende de reglementering van de handel in en de keuring van zaaigranen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036293/VolledigDocument?datum=2022-02-01",
+  "source_sha256": "96e6e0f458380d888e1fb61710b9106b819b2542f6733873a233ea544a8a43b1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036293&param=informatie",
+  "as_of": "2022-02-01",
+  "made": "2021-10-29",
+  "gazette": "2021-12-10",
+  "numac": 2021033987,
+  "document_start": "2022-02-01",
+  "document_end": null,
+  "in_force": "2022-02-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2022-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
