@@ -2,15 +2,15 @@
 
 ### ART. 1.
 
-Ter uitvoering van artikel 14 en 15, § 1, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs worden in bijlage VII tot en met XIII voor de modulaire structuur van het studiegebied Talen, behorende tot het secundair onderwijs voor sociale promotie, de opleidingsprofielen als volgt vastgelegd:<br>
+Ter uitvoering van artikel 14 en 15, § 1, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs worden in&nbsp;bijlage IX tot en met XIII voor de modulaire structuur van het studiegebied Talen, behorende tot het secundair onderwijs voor sociale promotie, de opleidingsprofielen als volgt vastgelegd:<br>
 1° ...<br>
 2° ...<br>
 3° ...<br>
 4° ...<br>
 5° ...<br>
 6° ...<br>
-7° in bijlage VII de modulaire opleiding « Arabisch, Chinees, Japans richtgraad 1 »;<br>
-8° in bijlage VIII de modulaire opleiding « Arabisch, Chinees, Japans richtgraad 2 »;<br>
+7° ...;<br>
+8° ...<br>
 9° in bijlage IX de modulaire opleiding « Andere Talen: Deens, Duits, Engels, Frans, Italiaans, Portugees, Spaans, Zweeds Professioneel Bedrijfsgericht richtgraad 2 »;<br>
 10° in bijlage X de modulaire opleiding « Andere Talen: Deens, Duits, Engels, Frans, Italiaans, Portugees, Spaans, Zweeds Professioneel Bedrijfsgericht richtgraad 3 »;<br>
 11° in bijlage XI de modulaire opleiding « Andere Talen: Deens, Duits, Engels, Frans, Italiaans, Portugees, Spaans, Zweeds Professioneel Juridisch richtgraad 3 »;<br>
@@ -122,7 +122,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/23_1_2.pdf#page=1" title=" Bijlage XX" target="_blank" class="pdf">Bijlage XX</a>
+...
 
 ### BIJLAGE
 
