@@ -41,7 +41,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE 1.
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/01_1.pdf#page=56">Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwassenenonderwijs als vermeld in artikel 1, 1°</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/01_1.pdf#page=131">Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwassenenonderwijs als vermeld in artikel 1, 1°</a>
 
 ### BIJLAGE 2.
 
