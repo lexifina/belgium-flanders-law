@@ -58,6 +58,14 @@ In de bijlage bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Re
 3° het woord “spuiter” wordt vervangen door de woorden “spuiter carrosserie”;<br>
 4° het woord “voorbewerker” wordt vervangen door de woorden “voorbewerker carrosserie”.
 
+### ART 8.
+
+In de bijlage bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 9 september 2022, worden de volgende wijzigingen aangebracht:<br>
+1° het woord “demonteur-monteur” wordt vervangen door de woorden “demonteur-monteur carrosserie”;<br>
+2° het woord “plaatwerker” wordt vervangen door de woorden “plaatwerker carrosserie”;<br>
+3° het woord “spuiter” wordt vervangen door de woorden “spuiter carrosserie”;<br>
+4° het woord “voorbewerker” wordt vervangen door de woorden “voorbewerker carrosserie”.
+
 ### BIJLAGE 2
 
 Vervanging van bijlage V bij het besluit van de Vlaamse Regering van 1 september 2006 betreffende de ambtshalve concordantie<br>
