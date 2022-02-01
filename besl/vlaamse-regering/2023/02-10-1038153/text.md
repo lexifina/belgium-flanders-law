@@ -34,3 +34,7 @@ In artikel VII 70septies van hetzelfde besluit, ingevoegd bij het besluit van de
 In artikel X 38bis, §3, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 17 juli 2020, worden de volgende wijzigingen aangebracht:<br>
 1° in het eerste lid, worden de woorden “een maand” vervangen door de woorden “drie maanden”;<br>
 2° in het tweede lid, worden de woorden “twee maanden” vervangen door de woorden “zes maanden”.
+
+### ART 11.
+
+Bijlage 5 bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, en laatst vervangen bij het besluit van de Vlaamse Regering van 14 januari 2022, wordt vervangen door de bijlage, die bij dit besluit is gevoegd.
