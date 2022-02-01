@@ -564,7 +564,11 @@ p) Preventief onderhoud machines en installaties duaal;<br>
 q) Printmedia duaal;<br>
 r) Restauratievakman schilder-decorateur duaal;<br>
 s) Sanitaire en verwarmingsinstallaties duaal;<br>
-4° de standaardtrajecten (<a href="http://www.ejustice.just.fgov.be/mopdf/2021/12/03_1.pdf#page=52">zie link</a>) worden toegevoegd.
+4° de standaardtrajecten (<a href="http://www.ejustice.just.fgov.be/mopdf/2021/12/03_1.pdf#page=52">zie link</a>) worden toegevoegd.<br>
+<br>
+* Bij BVR van 21 januari 2022, BS 29 april 2022, worden met ingang van 1 februari 2022 de volgende wijzigingen aangebracht:<br>
+1° het standaardtraject Verzorgende/Zorgkundige duaal wordt opgeheven;<br>
+2° <a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/29_1.pdf#page=38">het standaardtraject Verzorgende/Zorgkundige duaal</a>, wordt toegevoegd&nbsp;
 
 ### BIJLAGE
 
