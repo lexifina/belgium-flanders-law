@@ -7,8 +7,7 @@
 <p>§ 1. Voor de toepassing van dit besluit, wordt verstaan onder:<br>
 <br>
 1° groenvoedergewassen : de gewassen en kiemen van de volgende geslachten en soorten :<br>
-<br>
-</p>
+&nbsp;</p>
 
 <table border="1" cellpadding="0">
 	<tbody>
@@ -190,7 +189,7 @@
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent">
-			<p>&nbsp;16) Festuca trachyphylla (Hack.) Krajina</p>
+			<p>&nbsp;16) Festuca trachyphylla (Hack.) Hack.</p>
 			</td>
 			<td style="background-color:transparent">
 			<p>hardzwenkgras;</p>
@@ -543,9 +542,6 @@ Onder groenvoedergewassen vallen ook de volgende hybriden die verkregen zijn doo
 	<tbody>
 		<tr>
 			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
 			<p>&nbsp;c) andere soorten</p>
 			</td>
 			<td style="background-color:transparent">
@@ -559,9 +555,6 @@ Onder groenvoedergewassen vallen ook de volgende hybriden die verkregen zijn doo
 	<tbody>
 		<tr>
 			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
 			<p>&nbsp;1) Brassica napus L. var. Napobrassica (L.) Rchb.</p>
 			</td>
 			<td style="background-color:transparent">
@@ -569,9 +562,6 @@ Onder groenvoedergewassen vallen ook de volgende hybriden die verkregen zijn doo
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
 			<td style="background-color:transparent">
 			<p>&nbsp;2) Brassica oleracea L. convar. acephala (DC.) Alef. var. medullosa Thell. + var. viridis L.</p>
 			</td>
@@ -581,9 +571,6 @@ Onder groenvoedergewassen vallen ook de volgende hybriden die verkregen zijn doo
 		</tr>
 		<tr>
 			<td style="background-color:transparent">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent">
 			<p>&nbsp;3) Phacelia tanacetifolia Benth.</p>
 			</td>
 			<td style="background-color:transparent">
@@ -591,25 +578,23 @@ Onder groenvoedergewassen vallen ook de volgende hybriden die verkregen zijn doo
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">&nbsp;</td>
 			<td style="background-color:transparent">3bis) Plantago lanceolata L.</td>
 			<td style="background-color:transparent">smalle weegbree</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent">
-			<p>&nbsp;</p>
+			<p>&nbsp;4) Raphanus sativus L. var. oleiformis Pers.&nbsp;</p>
 			</td>
 			<td style="background-color:transparent">
-			<p>&nbsp;4) Raphanus sativus L. var. oleiformis Pers. "</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>bladrammenas,".</p>
+			<p>bladrammenas.</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>2° prebasiszaad: kwekerszaad van generaties die aan het basiszaad voorafgaan, dat door een tot keuring bevoegde entiteit officieel is onderzocht en goedgekeurd volgens de voor de keuring van basiszaad geldende voorschriften;<br>
+<p>De minister bepaalt de voorwaarden voor de uitvoering van deze bepalingen en kan de bepalingen, vermeld in dit punt 1°, aanvullen en wijzigen conform de beslissingen van de instellingen van de Europese Gemeenschap.<br>
+<br>
+2° prebasiszaad: kwekerszaad van generaties die aan het basiszaad voorafgaan, dat door een tot keuring bevoegde entiteit officieel is onderzocht en goedgekeurd volgens de voor de keuring van basiszaad geldende voorschriften;<br>
 <br>
 3° basiszaad:<br>
 a) zaad van gekweekte rassen: zaad,<br>
@@ -1189,7 +1174,7 @@ A. Tabel.<br>
 			(% zuiver zaad)</td>
 			<td>totaal</td>
 			<td>van één enkele soort</td>
-			<td>Elytrigia repens</td>
+			<td>Elymus repens</td>
 		</tr>
 		<tr>
 			<td>1</td>
@@ -2688,13 +2673,13 @@ o) Het percentage van het aantal zaden Lupinus spp. van een andere kleur mag nie
 -in andere Lupinus spp. dan bittere lupinen : 1 %.<br>
 p) Het percentage van het aantal bittere zaden in rassen van Lupinus spp. mag niet meer bedragen dan 2,5 %.<br>
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">3. Het zaad is nagenoeg vrij van plaagorganismen die de bruikbaarheid en de kwaliteit van het zaad verminderen. Het zaad voldoet ook aan de volgende eisen:</span></span></span><br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">1° de eisen voor EU-quarantaineorganismen, plaagorganismen met quarantainestatus voor een beschermd gebied en gereguleerde niet-quarantaineorganismen die zijn opgenomen in de uitvoeringshandelingen die zijn vastgesteld krachtens verordening (EU) 2016/2031 van het Europees Parlement en de Raad van 26 oktober 2016 betreffende beschermende maatregelen tegen plaagorganismen bij planten, tot wijziging van de Verordeningen (EU) nr. 228/2013, (EU) nr. 652/2014 en (EU) nr. 1143/2014 van het Europees Parlement en de Raad en tot intrekking van de Richtlijnen 69/464/EEG, 74/647/EEG, 93/85/EEG, 98/57/EG, 2000/29/EG, 2006/91/EG en 2007/33/EG van de Raad;</span></span></span><br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">2° de eisen, vermeld in de maatregelen die krachtens artikel 30, lid 1, van de voormelde verordening zijn vastgesteld.</span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000">3. Het zaad is nagenoeg vrij van plaagorganismen die de bruikbaarheid en de kwaliteit van het zaad verminderen. Het zaad voldoet ook aan de volgende eisen:</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">1° de eisen voor EU-quarantaineorganismen, plaagorganismen met quarantainestatus voor een beschermd gebied en gereguleerde niet-quarantaineorganismen die zijn opgenomen in de uitvoeringshandelingen die zijn vastgesteld krachtens verordening (EU) 2016/2031 van het Europees Parlement en de Raad van 26 oktober 2016 betreffende beschermende maatregelen tegen plaagorganismen bij planten, tot wijziging van de Verordeningen (EU) nr. 228/2013, (EU) nr. 652/2014 en (EU) nr. 1143/2014 van het Europees Parlement en de Raad en tot intrekking van de Richtlijnen 69/464/EEG, 74/647/EEG, 93/85/EEG, 98/57/EG, 2000/29/EG, 2006/91/EG en 2007/33/EG van de Raad;</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">2° de eisen, vermeld in de maatregelen die krachtens artikel 30, lid 1, van de voormelde verordening zijn vastgesteld.</span></span><br>
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">De aanwezigheid van gereguleerde niet-quarantaineorganismen op het zaad en de respectieve categorieën voldoet aan de eisen, vermeld in de volgende tabel:</span></span></span></p>
+<span style="font-size:medium"><span style="color:#000000">De aanwezigheid van gereguleerde niet-quarantaineorganismen op het zaad en de respectieve categorieën voldoet aan de eisen, vermeld in de volgende tabel:</span></span></p>
 
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-transform:none; widows:2; word-spacing:0px">
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
 	<tbody>
 		<tr>
 			<td>gereguleerde niet-quarantaine-organismen of symptomen veroorzaakt door gereguleerde niet quarantaineorganismen</td>
@@ -2721,7 +2706,7 @@ p) Het percentage van het aantal bittere zaden in rassen van Lupinus spp. mag ni
 </table>
 
 <p><br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Onder de voormelde gereguleerde niet-quarantaineorganismen wordt verstaan: de door de EU gereguleerde niet-quarantaineorganismen, vermeld in artikel 36 van de voormelde verordening.</span></span></span><br>
+<span style="font-size:medium"><span style="color:#000000">Onder de voormelde gereguleerde niet-quarantaineorganismen wordt verstaan: de door de EU gereguleerde niet-quarantaineorganismen, vermeld in artikel 36 van de voormelde verordening.</span></span><br>
 <br>
 II. BASISZAAD<br>
 Voor basiszaad gelden de voorwaarden, vermeld in deel I, tenzij het hieronder anders is bepaald :<br>
@@ -2752,7 +2737,7 @@ A. Tabel :<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>ste
 			andere dan<br>
 			Rumex acetosella en<br>
 			Rumex maritimus</td>
-			<td>Elytrigia repens</td>
+			<td>Elymus repens</td>
 			<td>Alopecurus<br>
 			myosuroides</td>
 			<td>Melilotus spp.</td>
