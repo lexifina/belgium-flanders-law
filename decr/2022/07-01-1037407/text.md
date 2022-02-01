@@ -7,6 +7,12 @@ In artikel 62 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<
 2° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
 "De toegang van het Rekenhof, vermeld in het eerste lid, wordt digitaal verleend. Als de informatie waartoe toegang wordt verleend niet digitaal bestaat, wordt ze eerst gedigitaliseerd om de toegang ertoe te verlenen.".
 
+### ART 32.
+
+In artikel 103, eerste lid, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° tussen de woorden "beslissen om" en de woorden "risicodekking van" worden de woorden "de volledige of gedeeltelijke" ingevoegd;<br>
+2° tussen de woorden "risicodekking van" en de woorden "entiteiten waarop" worden de woorden "alle of bepaalde" ingevoegd.
+
 ### ART 33.
 
 In artikel 109 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
