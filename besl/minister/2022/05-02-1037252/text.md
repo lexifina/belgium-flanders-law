@@ -1,0 +1,33 @@
+# Ministerieel besluit van 2022-05-02 over de verdeling van de middelen voor de terbeschikkingstelling van budgetten voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor het jaar 2022
+
+### Aanhef
+
+Rechtsgronden<br>
+Dit besluit is gebaseerd op:<br>
+- het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, artikel 8, 3°, gewijzigd bij het decreet van 25 april 2014;<br>
+- het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap, artikel 15;<br>
+- het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget, artikel 37/0, § 1.<br>
+<br>
+Vormvereiste(n)<br>
+De volgende vormvereiste is vervuld:<br>
+- De inspectie van Financiën heeft advies gegeven op 29 maart 2022.<br>
+<br>
+DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID, GEZIN EN ARMOEDEBESTRIJDING
+
+### ART 1.
+
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, opgericht bij het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
+2° budget: een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning als vermeld in hoofdstuk 5 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap.
+
+### ART 2.
+
+Het agentschap bepaalt voor het jaar 2022 welk aandeel van de middelen die vastgesteld zijn op zijn begroting voor de terbeschikkingstelling van budgetten, nodig zijn voor de terbeschikkingstelling van een budget aan de personen met een handicap, vermeld in artikel 37, § 2 en § 3, van het besluit van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget.
+
+### ART 3.
+
+De middelen die vastgesteld zijn op de begroting van het agentschap voor de terbeschikkingstelling van budgetten na aftrek van 20 miljoen euro voor het experiment deelbudgetten voor personen met een handicap van prioriteitengroep 2 en na aftrek van het aandeel dat noodzakelijk is voor de terbeschikkingstellingen, vermeld in artikel 2, in voorkomend geval aangevuld met de middelen die worden toegekend vanuit de Relanceprovisie, worden in het jaar 2022 besteed voor de terbeschikkingstelling van budgetten aan personen met een handicap uit prioriteitengroep 1.
+
+### ART 4.
+
+Dit besluit heeft uitwerking met ingang van 1 januari 2022.

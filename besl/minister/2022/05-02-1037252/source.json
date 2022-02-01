@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037252,
+  "title": "Ministerieel besluit van 2022-05-02 over de verdeling van de middelen voor de terbeschikkingstelling van budgetten voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor het jaar 2022",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037252/VolledigDocument?datum=2022-02-01",
+  "source_sha256": "e92aa67e7b677bac4e141861876286277fa08777ef6ac5eb3809445aae672195",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037252&param=informatie",
+  "as_of": "2022-02-01",
+  "made": "2022-05-02",
+  "gazette": "2022-07-15",
+  "numac": 2022032025,
+  "document_start": "2022-02-01",
+  "document_end": null,
+  "in_force": "2022-02-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2022-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
