@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036297,
+  "title": "Ministerieel besluit van 2021-09-21 tot wijziging van bijlage II bij het besluit van de Vlaamse Regering van 25 maart 2005 houdende reglementering van de handel in en de keuring van zaaizaad van groenvoedergewassen en bijlage I, II en III bij het besluit van de Vlaamse Regering van 16 december 2005 houdende de reglementering van de handel in en de keuring van zaaigranen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036297/VolledigDocument?datum=2022-02-01",
+  "source_sha256": "cf08afe8a3093ff5f3fd2aab389a4053747fb30d40f648afadefcafd5730138d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036297&param=informatie",
+  "as_of": "2022-02-01",
+  "made": "2021-09-21",
+  "gazette": "2021-12-10",
+  "numac": 2021033988,
+  "document_start": "2022-02-01",
+  "document_end": null,
+  "in_force": "2022-02-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2022-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
