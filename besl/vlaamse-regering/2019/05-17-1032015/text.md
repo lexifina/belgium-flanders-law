@@ -1650,7 +1650,7 @@ Bij herfinanciering als vermeld in artikel 98 van de codex is geen additionele b
 
 ### ART 91.
 
-De volgende risico's worden gecentraliseerd geplaatst:<br>
+De volgende risico's kunnen gecentraliseerd worden geplaatst:<br>
 1° algemene burgerlijke aansprakelijkheid;<br>
 2° objectieve aansprakelijkheid na brand en ontploffing;<br>
 3° alle risico's brand van het patrimonium;<br>
