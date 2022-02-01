@@ -10,7 +10,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 13 juli 2001 betreffend
 
 ### ART. 2.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het secundair volwassenenonderwijs van het studiegebied bibliotheek-, archief- en documentatiekunde, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage II tot en met IV, die bij dit besluit zijn gevoegd.<br>
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het secundair volwassenenonderwijs van het studiegebied bibliotheek-, archief- en documentatiekunde, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage I en bijlage IV tot en met VII, die bij dit besluit zijn gevoegd.<br>
 <br>
 Ter uitvoering van artikel 24, § 2, van het voormelde decreet wordt voor bijzondere doelgroepen op de wijze, vermeld in het derde lid, van het minimale aantal lestijden afgeweken.<br>
 <br>
@@ -61,3 +61,15 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 ### BIJLAGE IV
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2018/02/05_1.pdf#page=449">Bijlage IV</a>
+
+### BIJLAGE V
+
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/06/08_1.pdf#page=698">Link naar bijlage V</a>
+
+### BIJLAGE VI
+
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/06/08_1.pdf#page=707">Link naar bijlage VI</a>
+
+### BIJLAGE VII
+
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/06/08_1.pdf#page=716">Link naar bijlage VII</a>
