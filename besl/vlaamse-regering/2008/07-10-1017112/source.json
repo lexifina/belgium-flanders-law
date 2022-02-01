@@ -2,16 +2,16 @@
   "codex_id": 1017112,
   "title": "Besluit van de Vlaamse Regering van 2008-07-10 [betreffende de modulaire structuur van het secundair volwassenenonderwijs voor de studiegebieden bakkerij, drankenkennis, horeca, en slagerij (verv. BVR 13 juli 2018, art. 8, I: 1 september 2018)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017112/VolledigDocument?datum=2021-09-01",
-  "source_sha256": "568f1a1bc5b10d220f72e9137fcf8b4b85657ef4d66d49616906dd5c956de1eb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017112/VolledigDocument?datum=2022-02-01",
+  "source_sha256": "44f5733e8d751ebf48bd22a1059cbebfc1d5e10694fa2dc66283cd21ffdc0956",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017112&param=informatie",
-  "as_of": "2021-09-01",
+  "as_of": "2022-02-01",
   "made": "2008-07-10",
   "gazette": "2008-10-01",
   "numac": 2008036113,
   "document_start": "2008-09-01",
   "document_end": null,
-  "in_force": "2021-09-01",
-  "article_versions": 78,
-  "record_form": "consolidated version as in force on 2021-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-02-01",
+  "article_versions": 84,
+  "record_form": "consolidated version as in force on 2022-02-01; future article versions excluded; article text as the API gives it"
 }

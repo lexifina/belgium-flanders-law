@@ -8,8 +8,8 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffend
 
 Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het secundair volwassenenonderwijs op de volgende wijze vastgelegd in de volgende bijlagen die bij dit besluit zijn gevoegd:<br>
 1° bijlage XLI tot en met XLVI voor het studiegebied bakkerij;<br>
-2° bijlage XXXVII en bijlage XXXVIII voor het studiegebied drankenkennis;<br>
-3° bijlage XIX, bijlage XXIV en XXV, bijlage XXVIII tot en met XXX, bijlage XXXIV tot en met XXXVI en bijlage LIX tot en met LXIX voor het studiegebied horeca;<br>
+2° bijlage LXX voor het studiegebied drankenkennis;<br>
+3°&nbsp;bijlage XXIX en XXX, bijlage LIX tot en met LXIX en bijlage LXXI tot en met LXXIV voor het studiegebied horeca;<br>
 4° bijlage XLVII tot en met LIV voor het studiegebied slagerij.<br>
 <br>
 Ter uitvoering van artikel 24, § 2, van het voormelde decreet wordt voor bijzondere doelgroepen op de volgende wijze afgeweken van het minimale aantal lestijden:<br>
@@ -47,7 +47,17 @@ r) de opleiding Keukenmedewerker kan voor snel lerende cursisten 80 lestijden om
 s) de opleiding Kok kan voor traag lerende cursisten 1200 lestijden omvatten, waarbij de modules Eenvoudige vlees- en gevogeltegerechten, Eenvoudige visgerechten, Eenvoudige gerechten met groenten en kruiden en Eenvoudige nagerechten elk 60 lestijden omvatten en de modules Bistrogerechten vlees en gevogelte, Bistrogerechten vis, Bistrogerechten met groenten en kruiden, Bistronagerechten, Initiatie ontvangst en bediening van gasten, Restaurant à la carte, Restaurant à la carte en keukenorganisatie en Restaurant à la carte en keukenbeheer elk 120 lestijden omvatten;<br>
 t) de opleiding Kok kan voor snel lerende cursisten 400 lestijden omvatten, waarbij de modules Eenvoudige vlees- en gevogeltegerechten, Eenvoudige visgerechten, Eenvoudige gerechten met groenten en kruiden en Eenvoudige nagerechten elk 20 lestijden omvatten en de modules Bistrogerechten vlees en gevogelte, Bistrogerechten vis, Bistrogerechten met groenten en kruiden, Bistronagerechten, Initiatie ontvangst en bediening van gasten, Restaurant à la carte, Restaurant à la carte en keukenorganisatie en Restaurant à la carte en keukenbeheer elk 40 lestijden omvatten;<br>
 u) de uitbreidingsmodule Eventcatering na de opleidingen Chef de Partie Desserten, Gebak en Brood, Chef de Partie Groenten, Fruit en Kruiden Chef de Partie Vlees, Wild en Gevogelte, Chef de Partie Vis, Schaal- en Schelpdieren, Grootkeukenkok en Kok kan voor traag lerende cursisten 120 lestijden omvatten;<br>
-v) de uitbreidingsmodule Eventcatering na de opleidingen Chef de Partie Desserten, Gebak en Brood, Chef de Partie Groenten, Fruit en Kruiden Chef de Partie Vlees, Wild en Gevogelte, Chef de Partie Vis, Schaal- en Schelpdieren, Grootkeukenkok en Kok kan voor snel lerende cursisten 40 lestijden omvatten.
+v) de uitbreidingsmodule Eventcatering na de opleidingen Chef de Partie Desserten, Gebak en Brood, Chef de Partie Groenten, Fruit en Kruiden Chef de Partie Vlees, Wild en Gevogelte, Chef de Partie Vis, Schaal- en Schelpdieren, Grootkeukenkok en Kok kan voor snel lerende cursisten 40 lestijden omvatten.<br>
+w) de opleiding Sommelier kan voor traag lerende cursisten 1080 lestijden omvatten, waarbij alle modules 120 lestijden omvatten;<br>
+x) de opleiding Sommelier kan voor snel lerende cursisten 360 lestijden omvatten, waarbij alle modules 40 lestijden omvatten;<br>
+y) de opleiding Barman kan voor traag lerende cursisten 360 lestijden omvatten, waarbij de modules Eenvoudige barsnacks en ijsbereidingen en Bartender 60 lestijden omvatten en de modules Initiatie bartender en Cocktails en mocktails 120 lestijden omvatten;<br>
+z) de opleiding Barman kan voor snel lerende cursisten 120 lestijden omvatten, waarbij de modules Eenvoudige barsnacks en ijsbereidingen en Bartender 20 lestijden omvatten en de modules Initiatie bartender en Cocktails en mocktails 40 lestijden omvatten;<br>
+aa) de opleiding Hulpbarman kan voor traag lerende cursisten 180 lestijden omvatten, waarbij de module Eenvoudige barsnacks en ijsbereidingen 60 lestijden omvat en de module Initiatie bartender 120 lestijden omvat;<br>
+ab) de opleiding Hulpbarman kan voor snel lerende cursisten 60 lestijden omvatten, waarbij de module Eenvoudige barsnacks en ijsbereidingen 20 lestijden omvat en de module Initiatie bartender 40 lestijden omvat;<br>
+ac) de opleiding Hulpkelner kan voor traag lerende cursisten 240 lestijden omvatten, waarbij alle modules 120 lestijden omvatten;<br>
+ad) de opleiding Hulpkelner kan voor snel lerende cursisten 80 lestijden omvatten, waarbij alle modules 40 lestijden omvatten;<br>
+ae) de opleiding Kelner kan voor traag lerende cursisten 600 lestijden omvatten, waarbij alle modules 120 lestijden omvatten;<br>
+af) de opleiding Kelner kan voor snel lerende cursisten 200 lestijden omvatten, waarbij alle modules 40 lestijden omvatten.
 
 ### ART. 2.
 
@@ -354,3 +364,27 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 ### BIJLAGE LXIX
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2021/08/17_1.pdf#page=395">Bijlage LXIX</a>
+
+### BIJLAGE Bijlage LXX
+
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/06/08_1.pdf#page=226">Link naar bijlage LXX</a>
+
+### BIJLAGE Bijlage LXXI
+
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/06/08_1.pdf#page=248">Link naar bijlage LXXI</a>
+
+### BIJLAGE LXXII
+
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/06/08_1.pdf#page=266">Link naar bijlage LXXII</a>
+
+### BIJLAGE LXXIII
+
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/06/08_1.pdf#page=279">Link naar bijlage LXXIII</a>
+
+### BIJLAGE LXXIV
+
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/06/08_1.pdf#page=292">Link naar bijlage LXXIV</a>
+
+### BIJLAGE LXXV
+
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/06/08_1.pdf#page=312">Link naar bijlage LXXV</a>
