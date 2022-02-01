@@ -133,4 +133,4 @@ niet opgenomen<br /><br />stelt formulier vast
 
 ### BIJLAGE III
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2021/08/11_1.pdf#page=64">Modules in het secundair volwassenenonderwijs waarvoor nuttige ervaring aangevraagd kan worden. </a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/12_1.pdf#page=423">Bijlage III</a>
