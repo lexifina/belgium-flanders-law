@@ -10,142 +10,82 @@ Dit besluit voorziet in de omzetting van :<br />1° de Richtlijn 66/402/EEG van 
 
 Avena nuda L<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>decockge</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>decockge</o:LastAuthor><br>  <o:Revision>1</o:Revision><br>  <o:TotalTime>2</o:TotalTime><br>  <o:Created>2010-06-25T07:01:00Z</o:Created><br>  <o:LastSaved>2010-06-25T07:03:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>138</o:Words><br>  <o:Characters>759</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>6</o:Lines><br>  <o:Paragraphs>1</o:Paragraphs><br>  <o:CharactersWithSpaces>896</o:CharactersWithSpaces><br>  <o:Version>11.9999</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]-->
 <p>Voor de toepassing van dit besluit wordt verstaan onder:<br>
-<br>
-1° granen : planten van de volgende soorten, die voor de landbouw of de tuinbouw zijn bestemd, met uitzondering van sierdoeleinden:</p>
+1° granen: planten van de volgende soorten, die voor de landbouw of de tuinbouw zijn bestemd, met uitzondering van sierdoeleinden:</p>
 
-<div>
-<table border="1" cellpadding="0" class="MsoNormalTable" style="border-bottom:1pt outset; border-left:1pt outset; border-right:1pt outset; border-top:1pt outset; mso-border-alt:outset windowtext .25pt; mso-border-insideh:.25pt outset windowtext; mso-border-insidev:.25pt outset windowtext; mso-cellspacing:1.5pt">
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="width:171.25pt">
-			<p style="text-align:justify">Avena nuda L.<!--?xml:namespace prefix = o ns =         ""e;urn:schemas-microsoft-com:office:office"e;xmlns:w="e;urn:schemas-microsoft-com:office:word"e;xmlns="e;http://www.w3.org/TR/REC-html40"e;"         /--></p>
-			</td>
-			<td style="width:282.85pt">
-			<p style="text-align:justify">naakte haver</p>
-			</td>
+			<td>Avena nuda L.</td>
+			<td>naakte haver</td>
 		</tr>
 		<tr>
-			<td style="width:171.25pt">
-			<p style="text-align:justify">Avena sativa L. (omvat A. byzantina K. Koch)</p>
-			</td>
-			<td style="width:282.85pt">
-			<p style="text-align:justify">haver</p>
-			</td>
+			<td>Avena sativa L. (omvat A. byzantina K. Koch)</td>
+			<td>haver</td>
 		</tr>
 		<tr>
-			<td style="width:171.25pt">
-			<p style="text-align:justify">Avena strigosa Schreb.</p>
-			</td>
-			<td style="width:282.85pt">
-			<p style="text-align:justify">evene</p>
-			</td>
+			<td>Avena strigosa Schreb.</td>
+			<td>evene</td>
 		</tr>
 		<tr>
-			<td style="width:171.25pt">
-			<p style="text-align:justify">Hordeumvulgare L.</p>
-			</td>
-			<td style="width:282.85pt">
-			<p style="text-align:justify">gerst</p>
-			</td>
+			<td>Hordeum vulgare L.</td>
+			<td>gerst</td>
 		</tr>
 		<tr>
-			<td style="width:171.25pt">
-			<p style="text-align:justify">Oryza sativa</p>
-			</td>
-			<td style="width:282.85pt">
-			<p style="text-align:justify">rijst</p>
-			</td>
+			<td>Oryza sativa L.</td>
+			<td>rijst</td>
 		</tr>
 		<tr>
-			<td style="width:171.25pt">
-			<p style="text-align:justify">Phalariscanariensis L.</p>
-			</td>
-			<td style="width:282.85pt">
-			<p style="text-align:justify">kanariezaad</p>
-			</td>
+			<td>Phalaris canariensis L.</td>
+			<td>kanariezaad</td>
 		</tr>
 		<tr>
-			<td style="width:171.25pt">
-			<p style="text-align:justify">Secale cereale L.</p>
-			</td>
-			<td style="width:282.85pt">
-			<p style="text-align:justify">rogge</p>
-			</td>
+			<td>Secale cereale L.</td>
+			<td>rogge</td>
 		</tr>
 		<tr>
-			<td style="width:171.25pt">
-			<p style="text-align:justify">Sorghumbicolor (L.) Moench</p>
-			</td>
-			<td style="width:282.85pt">
-			<p style="text-align:justify">sorgho</p>
-			</td>
+			<td>Sorghum bicolor (L.) Moench subsp. bicolor</td>
+			<td>sorgho</td>
 		</tr>
 		<tr>
-			<td style="width:171.25pt">
-			<p style="text-align:justify">Sorghumsudanense (Piper) Stapf</p>
-			</td>
-			<td style="width:282.85pt">
-			<p style="text-align:justify">soedangras</p>
-			</td>
+			<td>Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse</td>
+			<td>soedangras</td>
 		</tr>
 		<tr>
-			<td style="width:171.25pt">
-			<p style="text-align:justify">xTriticosecale Wittm. ex A. Camus</p>
-			</td>
-			<td style="width:282.85pt">
-			<p style="text-align:justify">hybriden die het gevolg zijn van de kruising van een soort van het geslacht Triticum met een soort van het geslacht Secale</p>
-			</td>
+			<td>xTriticosecale Wittm. ex A. Camus</td>
+			<td>hybriden die het gevolg zijn van de kruising van een soort van het geslacht Triticum met een soort van het geslacht Secale</td>
 		</tr>
 		<tr>
-			<td style="width:171.25pt">
-			<p style="text-align:justify">Triticumaestivum L.</p>
-			</td>
-			<td style="width:282.85pt">
-			<p style="text-align:justify">zachte tarwe</p>
-			</td>
+			<td>Triticum aestivum L. subsp. Aestivum</td>
+			<td>zachte tarwe</td>
 		</tr>
 		<tr>
-			<td style="width:171.25pt">
-			<p style="text-align:justify">Triticumdurum Desf.</p>
-			</td>
-			<td style="width:282.85pt">
-			<p style="text-align:justify">harde tarwe</p>
-			</td>
+			<td>Triticum turgidum L. subsp. durum (Desf.) van Slageren</td>
+			<td>harde tarwe</td>
 		</tr>
 		<tr>
-			<td style="width:171.25pt">
-			<p style="text-align:justify">Triticumspelta L.</p>
-			</td>
-			<td style="width:282.85pt">
-			<p style="text-align:justify">spelt</p>
-			</td>
+			<td>Triticum aestivum L. subsp. spelta (L.) Thell.</td>
+			<td>spelt</td>
 		</tr>
 		<tr>
-			<td style="width:171.25pt">
-			<p style="text-align:justify">Zea mais L.(partim)</p>
-			</td>
-			<td style="width:282.85pt">
-			<p style="text-align:justify">Mais, met uitzondering van popcorn en suikermais</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="width:455.6pt">
-			<p style="text-align:justify">&nbsp;</p>
-
-			<p style="text-align:justify">De definitie geldt ook voor de volgende hybriden die het product zijn van een kruising van de hierboven vermelde soorten.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:171.25pt">
-			<p style="text-align:justify">Sorghumbicolor (L.) Moench x Sorghum sudanense (Piper) Stapf</p>
-			</td>
-			<td style="width:282.85pt">
-			<p style="text-align:justify">hybriden die het product zijn van een kruising van Sorghum bicolor en Sorghum sudanense</p>
-			</td>
+			<td>Zea mays L.(partim)</td>
+			<td>maïs, met uitzondering van popcorn en suikermaïs</td>
 		</tr>
 	</tbody>
 </table>
-Tenzij het anders bepaald is, gelden voor zaad van de vermelde hybriden de normen of andere voorwaarden die van toepassing zijn voor zaad van elk van de soorten waaruit ze zijn verkregen.<br>
+<br>
+Deze definitie geldt ook voor de volgende hybriden die het product zijn van een kruising van de soorten, vermeld in de voorgaande tabel.
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Sorghum bicolor (L.) Moench subsp. bicolor x Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse</td>
+			<td>hybriden die het product zijn van een kruising van Sorghum bicolor (L.) Moench subsp. bicolor en Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+Tenzij het anders bepaald is, gelden voor zaad van de voormelde hybriden de normen of andere voorwaarden die van toepassing zijn voor zaad van elk van de soorten waaruit ze zijn verkregen.<br>
+De minister bepaalt de voorwaarden voor de uitvoering van deze bepalingen en kan de bepalingen, vermeld in dit punt 1°, aanvullen en wijzigen conform de beslissingen van de instellingen van de Europese Gemeenschap.</p>
 2° rassen, hybriden en inteeltlijnen van maïs en Sorghum spp.:<br>
 a) vrij bestoven ras: voldoende homogeen en bestendig ras;<br>
 b) ingeteelde stam: voldoende homogene en bestendige lijn, die gedurende verscheidene opeenvolgende generaties door kunstmatige zelfbevruchting onder gelijktijdige selectie of door gelijkwaardige maatregelen is verkregen;<br>
@@ -198,15 +138,13 @@ a) door autoriteiten van een staat;<br>
 b) door publiekrechtelijke of privaatrechtelijke rechtspersonen die handelen onder de verantwoordelijkheid van een lidstaat, op voorwaarde dat ze geen bijzonder voordeel ontlenen aan de resultaten van deze maatregelen;<br>
 c) voor hulpwerkzaamheden door beëdigde natuurlijke personen die handelen onder het toezicht van een lidstaat, op voorwaarde dat ze geen bijzonder voordeel ontlenen aan de resultaten van die maatregelen;<br>
 12° minister: de Vlaamse minister, bevoegd voor het Landbouwbeleid;<br>
-13° bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+13° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 14° in de handel brengen: de verkoop, het bezit met het oog op de verkoop, het aanbieden voor verkoop en iedere beschikbaarstelling, levering of overdracht van zaaizaad aan derden, tegen of zonder vergoeding, met het oog op commercieel gebruik.<br>
 Onder "in de handel brengen" wordt niet verstaan de handel in zaaizaad die niet is gericht op commercieel gebruik van het ras, zoals het beschikbaar stellen van zaaizaad aan officiële onderzoeks- en controle-instantie of de levering van zaaizaad aan verleners van diensten voor verwerking of verpakking, voorzover de verlener van diensten geen rechten op het geleverde zaaizaad verwerft.<br>
 Onder "in de handel brengen" wordt niet verstaan het leveren van zaaizaad onder bepaalde voorwaarden aan verleners van diensten voor de productie van bepaalde landbouwgrondstoffen voor industriële doeleinden, of voor vermeerdering van zaaizaad voor dat doel, voorzover de verlener van diensten geen rechten op het geleverde zaaizaad verwerft, noch op het product van de oogst. De leverancier van het zaaizaad verstrekt de certificeringsdienst een afschrift van de delen in kwestie van het contract met de dienstverlener, en daarin wordt vermeld aan welke normen en voorwaarden het verstrekte zaaizaad op dat moment voldoet.<br>
-De voorwaarden voor de uitvoering van deze bepalingen worden vastgesteld door de minister overeenkomstig de beslissingen van de instellingen van de Europese Gemeenschap.</div>
-
-<div>&nbsp;</div>
-
-<div>&nbsp;</div>
+De voorwaarden voor de uitvoering van deze bepalingen worden vastgesteld door de minister overeenkomstig de beslissingen van de instellingen van de Europese Gemeenschap.<br>
+&nbsp;<br>
+&nbsp;
 
 ### ART. 1/2.
 
@@ -433,9 +371,10 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid, is belast met de uitvoerin
 </table>
 
 <p><br>
-(*) In gebieden waar de aanwezigheid van S. halepense of S. sudanense een specifiek probleem voor kruisbestuiving vormt, geldt het volgende:<br>
-a) gewassen voor de productie van basiszaad van Sorghum bicolor of hybriden daarvan moeten worden geïsoleerd op een afstand van minimaal 800 meter van een bron van een dergelijk verontreinigend pollen;<br>
-b) gewassen voor de productie van gecertificeerd zaad van Sorghum bicolor of hybriden daarvan moeten worden geïsoleerd op een afstand van minimaal 400 meter van een bron van een dergelijk verontreinigend pollen.<br>
+(*) In gebieden waar de aanwezigheid van S. halepense of S. bicolor subsp. drummondii een specifiek probleem met betrekking tot kruisbestuiving vormt, geldt het volgende:<br>
+a) gewassen voor de productie van basiszaad van Sorghum bicolor subsp. bicolor of hybriden daarvan moeten worden geïsoleerd op een afstand van minimaal 800 m van enige bron van dergelijk verontreinigend pollen;<br>
+b) gewassen voor de productie van gecertificeerd zaad van Sorghum bicolor subsp. bicolor of hybriden daarvan moeten worden geïsoleerd op een afstand van minimaal 400 m van enige bron van dergelijk verontreinigend pollen.<br>
+<br>
 De minimumafstanden in de bovenstaande tabel hoeven niet in acht te worden genomen als er voldoende bescherming tegen ongewenste vreemdbestuiving aanwezig is.</p>
 
 <p><br>
@@ -551,19 +490,16 @@ ii) voor basiszaad moet, indien gebruik wordt gemaakt van mannelijke steriliteit
 <br>
 c) Zo nodig moet gecertificeerd zaad worden geproduceerd in gemengde teelt van een vrouwelijke, mannelijke steriele kruisingspartner met een mannelijke kruisingspartner die de mannelijke fertiliteit herstelt.<br>
 <br>
-5. Gewassen voor de productie van gecertificeerd zaad van hybriden van Avena nuda, Avena sativa, Avena strigosa, Oryza sativa, Triticum aestivum, Triticum durum, Triticum spelta en zelfbestuivende xTriticosecale en gewassen voor de productie van gecertificeerd zaad van hybriden van Hordeum vulgare door middel van een andere techniek dan cytoplasmatische mannelijke steriliteit (CMS)<br>
-<br>
-a) Het gewas moet voldoen aan de onderstaande normen betreffende de afstand tot dicht in de buurt gelegen bestuivingsbronnen die tot ongewenste vreemdbestuiving kunnen leiden :<br>
-- de minimumafstand tot de vrouwelijke kruisingspartner is 25 m ten opzichte van ieder ander ras van dezelfde soort, met uitzondering van een gewas van de mannelijke kruisingspartner;<br>
-- de afstand behoeft niet in acht te worden genomen wanneer er voldoende bescherming tegen ongewenste vreemdbestuiving aanwezig is.<br>
-<br>
-b) Het gewas moet voldoende rasecht en raszuiver zijn wat de kenmerken van de kruisingspartners betreft.<br>
-<br>
-Als het zaad wordt geproduceerd door gebruikmaking van een chemische-hybridisatieagens moet het gewas voldoen aan de volgende andere normen of voorwaarden :<br>
-i) de minimale raszuiverheid van iedere kruisingspartner bedraagt :<br>
-- Avena nuda, Avena sativa, Avena strigosa, Hordeum vulgare, Oryza sativa, Triticum aestivum, Triticum durum, Triticum spelta : 99,7 %;<br>
-- zelfbestuivende xTriticosecale : 99,0 %;<br>
-ii) de minimale hybriditeit moet 95 % bedragen. Het percentage van de hybriditeit moet worden bepaald volgens gangbare internationale methoden voor zover dergelijke methoden bestaan. Als de raszuiverheid wordt bepaald via zaadonderzoek vóór de certificering, hoeft bij de veldkeuring niet de hybriditeit te worden bepaald.<br>
+5. Gewassen voor de productie van gecertificeerd zaad van hybriden van Avena nuda, Avena sativa, Avena strigosa, Oryza sativa, Triticum aestivum subsp. aestivum, Triticum turgidum subsp. durum, Triticum aestivum subsp. spelta en zelfbestuivende xTriticosecale en gewassen voor de productie van gecertificeerd zaad van hybriden van Hordeum vulgare door middel van een andere techniek dan cytoplasmatische mannelijke steriliteit (CMS) voldoen aan de volgende voorwaarden:<br>
+a) het gewas voldoet aan de volgende normen over de afstand tot dicht in de buurt gelegen bestuivingsbronnen die tot ongewenste vreemdbestuiving kunnen leiden:<br>
+1) de minimumafstand tot de vrouwelijke kruisingspartner is 25 m ten opzichte van ieder ander ras van dezelfde soort, met uitzondering van een gewas van de mannelijke kruisingspartner;<br>
+2) de afstand, vermeld in punt 1), hoeft niet in acht te worden genomen als er voldoende bescherming tegen ongewenste vreemdbestuiving aanwezig is;<br>
+b) het gewas is voldoende rasecht en raszuiver wat de kenmerken van de kruisingspartners betreft.<br>
+Als het zaad wordt geproduceerd door gebruikmaking van een chemische-hybridisatieagens, voldoet het gewas aan de volgende andere normen of voorwaarden:<br>
+a) de minimale raszuiverheid van iedere kruisingspartner bedraagt:<br>
+1) voor Avena nuda, Avena sativa, Avena strigosa, Hordeum vulgare, Oryza sativa, Triticum aestivum subsp. aestivum, Triticum turgidum subsp. durum en Triticum aestivum subsp. spelta: 99,7%;<br>
+2) voor zelfbestuivende xTriticosecale: 99,0%;<br>
+b) de minimale hybriditeit bedraagt 95%. Het percentage van de hybriditeit wordt bepaald volgens de gangbare internationale methoden als dergelijke methoden bestaan. Als de raszuiverheid wordt bepaald via zaadonderzoek vóór de certificering, hoeft bij de veldkeuring niet de hybriditeit te worden bepaald.<br>
 <br>
 5/1. Gewassen voor de productie van basiszaad en gecertificeerd zaad van hybriden van Hordeum vulgare door middel van de CMS-techniek :<br>
 a)Het gewas moet voldoen aan de onderstaande normen voor de afstand tot dicht in de buurt gelegen bestuivingsbronnen die tot ongewenste vreemdbestuiving kunnen leiden :</p>
@@ -652,7 +588,7 @@ Bij de veldkeuringen moeten de volgende punten in acht worden genomen :<br>
 A. De stand en het ontwikkelingsstadium van het gewas moeten een afdoend onderzoek mogelijk maken.<br>
 <br>
 B. Het aantal veldkeuringen bedraagt ten minste :<br>
-a) voor Avena nuda, Avena sativa, Avena strigosa, Hordeum vulgare, Oryza sativa, Phalaris canariensis, xTriticosecale, Triticum aestivum, Triticum durum, Triticum spelta, Secale cereale : één;<br>
+a) voor Avena nuda, Avena sativa, Avena strigosa, Hordeum vulgare, Oryza sativa, Phalaris canariensis, xTriticosecale, Triticum aestivum subsp. aestivum, Triticum turgidum subsp. durum, Triticum aestivum subsp. spelta, Secale cereale: één;<br>
 b) voor Sorghum spp. en Zea mays tijdens de bloeitijd :<br>
 aa) vrij bestoven rassen : één;<br>
 bb) ingeteelde stammen of hybriden : drie.<br>
@@ -672,51 +608,31 @@ Het zaad moet voldoende rasecht en raszuiver zijn of, in het geval van zaad van 
 <br>
 Zaad van de onderstaande soorten moet met name voldoen aan de volgende andere normen of voorwaarden :<br>
 <br>
-A. Avena nuda, Avena sativa, Avena strigosa, Hordeum vulgare, Oryza sativa, Triticum aestivum, Triticum durum, Triticum spelta andere dan hybriden in elk geval :<br>
-</p>
+A. Avena nuda, Avena sativa, Avena strigosa, Hordeum vulgare, Oryza sativa, Triticum aestivum subsp. aestivum, Triticum turgidum subsp. durum, Triticum aestivum subsp. spelta andere dan hybriden voldoen in elk geval aan de volgende voorwaarden:</p>
 
-<table border="1" cellpadding="0">
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; width:195.35pt">
-			<p>Categorie</p>
-			</td>
-			<td style="background-color:transparent; width:114.75pt">
-			<p>Minimale raszuiverheid %</p>
-			</td>
+			<td>Categorie</td>
+			<td>minimale raszuiverheid (%)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; width:195.35pt">
-			<p>basiszaad</p>
-			</td>
-			<td style="background-color:transparent; width:114.75pt">
-			<p>99,9</p>
-			</td>
+			<td>Basiszaad</td>
+			<td>99,9</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; width:195.35pt">
-			<p>gecertificeerd zaad, eerste vermeerdering</p>
-			</td>
-			<td style="background-color:transparent; width:114.75pt">
-			<p>99,7</p>
-			</td>
+			<td>gecertificeerd zaad, eerste vermeerdering</td>
+			<td>99,7</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; width:195.35pt">
-			<p>gecertificeerd zaad, tweede vermeerdering</p>
-			</td>
-			<td style="background-color:transparent; width:114.75pt">
-			<p>99,0</p>
-			</td>
+			<td>gecertificeerd zaad, tweede vermeerdering</td>
+			<td>99,0</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Of aan de eisen inzake minimale raszuiverheid is voldaan, wordt hoofdzakelijk nagegaan door middel van de in bijlage I omschreven veldkeuringen.<br>
+<p><br>
+Of aan de voormelde eisen inzake minimale raszuiverheid is voldaan, wordt hoofdzakelijk nagegaan via de veldkeuringen, vermeld in bijlage I..<br>
 <br>
 B. Zelfbestuivende rassen van xTriticosecale andere dan hybriden :<br>
 </p>
@@ -764,13 +680,12 @@ B. Zelfbestuivende rassen van xTriticosecale andere dan hybriden :<br>
 
 <p>Of aan de eisen inzake minimale raszuiverheid is voldaan, wordt hoofdzakelijk nagegaan door middel van de in bijlage I omschreven veldkeuringen.<br>
 <br>
-C. Hybriden van Avena nuda, Avena sativa, Avena strigosa, Hordeum vulgare, Oryza sativa, Triticum aestivum, Triticum durum, Triticum spelta en zelfbestuivende xTriticosecale.<br>
+C. Hybriden van Avena nuda, Avena sativa, Avena strigosa, Hordeum vulgare, Oryza sativa, Triticum aestivum subsp. aestivum, Triticum turgidum subsp. durum, Triticum aestivum subsp. spelta en zelfbestuivende xTriticosecale<br>
 <br>
-De minimale raszuiverheid van zaad van de categorie "gecertificeerd zaad" moet 90% bedragen.<br>
-<br>
-Voor Hordeum vulgare die met CMS is geproduceerd, bedraagt de minimale raszuiverheid 85%. Andere onzuiverheden dan de hersteller mogen niet meer dan 2% bedragen.<br>
-<br>
-De minimale raszuiverheid wordt gecontroleerd via officiële nacontroles op een adequaat gedeelte van de zaadmonsters.<br>
+De minimale raszuiverheid van zaad van de categorie "gecertificeerd zaad" bedraagt 90%.<br>
+Voor Hordeum vulgare die met CMS is geproduceerd, bedraagt deze 85%.<br>
+Andere onzuiverheden dan de hersteller bedragen niet meer dan 2%.<br>
+De minimale raszuiverheid wordt gecontroleerd via officiële nacontroles op een adequaat gedeelte van de zaadmonsters..<br>
 <br>
 D. Sorghum spp. en Zea mays :<br>
 <br>
@@ -861,7 +776,7 @@ A. Tabel :<br>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; width:81.25pt">
-			<p>Avena sativa, Avena strigosa, Hordeum vulgare, Triticum aestivum, Triticum durum, Triticum spelta :</p>
+			<p>Avena sativa, Avena strigosa, Hordeum vulgare, Triticum aestivum subsp. aestivum, Triticum turgidum subsp. durum, Triticum aestivum subsp. spelta:</p>
 			</td>
 			<td style="background-color:transparent; width:48.2pt">
 			<p>&nbsp;</p>
@@ -1638,134 +1553,134 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van uitvoeringsrichtlijn 201
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>soort</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>maximumgewicht van een partij (ton)</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>minimumgewicht van een monster dat van een partij wordt genomen (gram)</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>gewicht van het monster voor de bepaling van het aantal, vermeld in bijlage II, punt 2, A, kolom 4 tot en met 10, en in bijlage II, punt 3 (gram)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>1</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>2</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>3</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>4</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
-			<p>Avena nuda, Avena sativa, Avena strigosa, Hordeum vulgare, Triticum aestivum, Triticum durum, Triticum spelta, Secale cereale, xTriticosecale</p>
+			<td>
+			<p>Avena nuda, Avena sativa, Avena strigosa, Hordeum vulgare, Triticum aestivum subsp. aestivum, Triticum turgidum subsp. durum, Triticum aestivum subsp. spelta, Secale cereale, xTriticosecale</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>30</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>1.000</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>500</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>Phalaris canariensis</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>10</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>400</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>200</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>Oryza sativa</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>30</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>500</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>500</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">Sorghum bicolor (L.) Moench</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>Sorghum bicolor (L.) Moench subsp. bicolor</td>
+			<td>
 			<p>30</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>900</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>900</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">Sorghum sudanense (Piper) Stapf</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse</td>
+			<td>
 			<p>10</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>250</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>250</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">Hybriden van Sorghum bicolor (L.) Moench x Sorghum sudanense (Piper) Stapf</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>Hybriden van Sorghum bicolor (L.) Moench subsp. bicolor x Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse</td>
+			<td>
 			<p>30</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>300</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>300</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">Zea mays, basiszaad van ingeteelde stammen</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>Zea mays, basiszaad van ingeteelde stammen</td>
+			<td>
 			<p>40</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>250</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>250</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>Zea mays, basiszaad van andere dan ingeteelde stammen; gecertificeerd zaad</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>40</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>1.000</p>
 			</td>
-			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<td>
 			<p>1.000</p>
 			</td>
 		</tr>
