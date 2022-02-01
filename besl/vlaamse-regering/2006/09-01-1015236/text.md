@@ -98,11 +98,7 @@ In het gewoon basisonderwijs :<br />1° worden de wervingsambten van administrat
 
 ### BIJLAGE V.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2021/08/11_1.pdf#page=104">Bijlage V</a><br>
-<br>
-<br>
-* Bij besluit van de Vlaamse Regering van 3 september 2021, BS 14 oktober 2021, wordt met ingang van 1 september 2021, aan bijlage V, 21°&nbsp;een punt c) toegevoegd, dat luidt als volgt:<br>
-"c) de ambten die uiterlijk op 31 augustus 2021 zijn opgericht met toepassing van artikel VI.7 van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, worden ambtshalve geconcordeerd naar het wervingsambt van ICT-coördinator."
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/12_1.pdf#page=466">Bijlage V</a>
 
 ## BIJLAGE VI
 
