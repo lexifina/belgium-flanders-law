@@ -2,16 +2,16 @@
   "codex_id": 1036419,
   "title": "Besluit van de Vlaamse Regering van 2021-11-19 tot wijziging van het besluit van de Vlaamse Regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap en het besluit van de Vlaamse Regering van 8 november 2013 houdende de organisatie van pleegzorg",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036419/VolledigDocument?datum=2021-11-01",
-  "source_sha256": "000816e123562ba4e76d15708112dd1deb94d49bd230d7cd640255b5031f0d10",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036419/VolledigDocument?datum=2022-02-03",
+  "source_sha256": "990dfc19176d929c89ea65310b671e3069b40d9404ac1fc910ba49f340da0d4f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036419&param=informatie",
-  "as_of": "2021-11-01",
+  "as_of": "2022-02-03",
   "made": "2021-11-19",
   "gazette": "2022-01-24",
   "numac": 2021022854,
   "document_start": "2022-02-03",
   "document_end": null,
-  "in_force": "2021-11-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2021-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-02-03",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2022-02-03; future article versions excluded; article text as the API gives it"
 }

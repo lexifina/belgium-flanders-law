@@ -33,4 +33,23 @@ In artikel 4, tweede lid, van het besluit van de Vlaamse Regering van 15 decembe
 
 ## HOOFDSTUK 2. Wijzigingen van het besluit van de Vlaamse Regering van 8 november 2013 houdende de organisatie van pleegzorg
 
+### ART 2.
+
+In artikel 55, § 3, tweede lid, van het besluit van de Vlaamse Regering van 8 november 2013 houdende de organisatie van pleegzorg, gewijzigd bij het besluit van de Vlaamse Regering van 17 mei 2019, worden de woorden "het pleeggezin van oorsprong" vervangen door de woorden "het gezin van oorsprong".
+
+### ART 3.
+
+In artikel 62, § 1, derde lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 17 mei 2019, worden de volgende wijzigingen aangebracht:<br>
+1° tussen het woord "pleeggast" en het woord "opvangt" worden de woorden "of een meerderjarig pleegkind" ingevoegd;<br>
+2° tussen het woord "pleeggast" en het woord "in" worden de woorden "of een meerderjarig pleegkind" ingevoegd;<br>
+3° tussen het woord "pleeggast" en de zinsnede ", na" worden de woorden "of een meerderjarig pleegkind" ingevoegd.
+
 ## HOOFDSTUK 3. Slotbepalingen
+
+### ART 4.
+
+Artikel 1 heeft uitwerking met ingang van 1 november 2021.
+
+### ART 5.
+
+De Vlaamse minister, bevoegd voor opgroeien, is belast met de uitvoering van dit besluit.
