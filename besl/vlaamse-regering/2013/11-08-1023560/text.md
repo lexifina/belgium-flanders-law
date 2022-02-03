@@ -440,7 +440,7 @@ De subsidie wordt verleend op voorwaarde dat:<br>
 
 <p>§ 3. Als na de toetsing van de kenmerken van een pleegkind of pleeggast aan het profiel van het geselecteerde pleeggezin, vermeld in paragraaf 2, tweede lid, blijkt dat het pleeggezin geschikt is om als pleeggezin voor het pleegkind of de pleeggast te fungeren, gaat de dienst voor pleegzorg na of het pleeggezin voldoet aan de voorwaarden, vermeld in artikel 14, § 2, eerste lid, van het decreet van 29 juni 2012. Als ook aan die voorwaarden is voldaan, levert de dienst voor pleegzorg aan het pleeggezin een attest af waarin wordt gemotiveerd waarom het pleegkind of de pleeggast aan het pleeggezin wordt toevertrouwd.</p>
 
-<p>Bij de toetsing van de kenmerken van een pleegkind of pleeggast aan het profiel van het pleeggezin houdt de dienst voor pleegzorg in voorkomend geval rekening met bevindingen uit hulpverlening die voordien aan het pleegkind of de pleeggast werden verstrekt. Ook waakt de dienst erover dat de ideologische, filosofische en godsdienstige overtuiging van het pleegkind of de pleeggast en het pleeggezin van oorsprong gerespecteerd worden.</p>
+<p>Bij de toetsing van de kenmerken van een pleegkind of pleeggast aan het profiel van het pleeggezin houdt de dienst voor pleegzorg in voorkomend geval rekening met bevindingen uit hulpverlening die voordien aan het pleegkind of de pleeggast werden verstrekt. Ook waakt de dienst erover dat de ideologische, filosofische en godsdienstige overtuiging van het pleegkind of de pleeggast en het gezin van oorsprong gerespecteerd worden.</p>
 
 ### ART. 56.
 
@@ -542,7 +542,7 @@ Conform artikel 15 van het decreet van 29 juni 2012 deelt de dienst voor   pleeg
 <p><br>
 Aan de vergunde diensten voor pleegzorg wordt een bijkomende forfaitaire subsidie van 0,7 euro per pleegkind of pleeggast als vermeld in het eerste lid, en per opvangdag toegekend. Met die extra middelen kan de dienst voor pleegzorg zelf een bedrag toekennen aan de pleegzorger voor een aantoonbare verhoogde zorgzwaartesituatie, af te bakenen in de tijd. Die middelen worden door de dienst voor pleegzorg beheerd en jaarlijks verantwoord. Ze kunnen niet als reserve worden aangelegd. Daarvoor worden afspraken gemaakt tussen de verschillende vergunde diensten, die door elke dienst voor overleg worden voorgelegd aan de participatieraad, vermeld in artikel 13.</p>
 
-<p>Als een pleegzorger een pleeggast opvangt die eigen inkomsten heeft, bedraagt de bijdrage van de pleeggast in de kosten van de pleegzorg 513 euro per maand. Als echter de eigen inkomsten van de pleeggast, na vrijstelling voor een bedrag van 344 euro, lager zijn dan 513 euro per maand, wordt het verschil bijkomend gesubsidieerd. De minister kan een lijst opstellen met de eigen inkomsten die mee in rekening genomen worden om de eigen inkomsten te berekenen.</p>
+<p>Als een pleegzorger een pleeggast of een meerderjarig pleegkind opvangt die eigen inkomsten heeft, bedraagt de bijdrage van de pleeggast&nbsp;of een meerderjarig pleegkind in de kosten van de pleegzorg 513 euro per maand. Als echter de eigen inkomsten van de pleeggast of een meerderjarig pleegkind, na vrijstelling voor een bedrag van 344 euro, lager zijn dan 513 euro per maand, wordt het verschil bijkomend gesubsidieerd. De minister kan een lijst opstellen met de eigen inkomsten die mee in rekening genomen worden om de eigen inkomsten te berekenen.</p>
 
 <p>De bedragen, vermeld in het eerste tot en met derde lid, zijn gekoppeld aan de spilindex die van toepassing was op 1 januari 2013.</p>
 
