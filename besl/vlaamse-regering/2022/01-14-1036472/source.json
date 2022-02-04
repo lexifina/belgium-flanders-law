@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036472,
+  "title": "Besluit van de Vlaamse Regering van 2022-01-14 tot wijziging van artikel 2, 3, 4 en 6 van het besluit van de Vlaamse Regering van 25 juni 2021 tot uitvoering van artikel 47/1 van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036472/VolledigDocument?datum=2022-02-04",
+  "source_sha256": "c9bd58da234e50bb89fd181eba07215076278b68c92ad23c016f3f5e42225ff7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036472&param=informatie",
+  "as_of": "2022-02-04",
+  "made": "2022-01-14",
+  "gazette": "2022-02-04",
+  "numac": 2022020108,
+  "document_start": "2022-02-04",
+  "document_end": null,
+  "in_force": "2022-02-04",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2022-02-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
