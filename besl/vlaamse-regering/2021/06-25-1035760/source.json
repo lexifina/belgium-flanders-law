@@ -2,16 +2,16 @@
   "codex_id": 1035760,
   "title": "Besluit van de Vlaamse Regering van 2021-06-25 tot uitvoering van artikel 47/1 van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035760/VolledigDocument?datum=2021-12-30",
-  "source_sha256": "45216c0652767cbc5dab321569a5107a5bc778525aa42c5b3450fa1366636036",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035760/VolledigDocument?datum=2022-02-04",
+  "source_sha256": "7f575c39ce2a4f96469098030c6494cfea3e393061aef703882510d54fdf6c91",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035760&param=informatie",
-  "as_of": "2021-12-30",
+  "as_of": "2022-02-04",
   "made": "2021-06-25",
   "gazette": "2021-06-29",
   "numac": 2021031774,
   "document_start": "2021-06-29",
   "document_end": "2022-04-26",
-  "in_force": "2021-12-30",
+  "in_force": "2022-02-04",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2021-12-30; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-02-04; future article versions excluded; article text as the API gives it"
 }

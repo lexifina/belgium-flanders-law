@@ -29,16 +29,16 @@ In dit besluit wordt verstaan onder:<br>
 ### ART 2.
 
 § 1. De termijn van de tijdelijke afzondering, vermeld in artikel 47/1, § 1, eerste lid, van het decreet van 21 november 2003, is:<br>
-1° minimaal tien dagen na aanvang van de symptomen en tot ten minste drie dagen zonder koorts en met verbetering van de respiratoire symptomen, als er symptomen van COVID-19 zijn;<br>
-2° tien dagen vanaf de datum van de COVID-19-test, als er geen symptomen van COVID-19 zijn.<br>
+1° minimaal zeven dagen na aanvang van de symptomen en tot ten minste drie dagen zonder koorts en met verbetering van de respiratoire symptomen, als er symptomen van COVID-19 zijn;<br>
+2° zeven dagen vanaf de datum van de COVID-19-test, als er geen symptomen van COVID-19 zijn.<br>
 <br>
 Voor personen die in een hoogrisicogebied zijn geweest dat geen hoogrisicogebied is waar zorgwekkende varianten sterk aanwezig zijn, duurt de tijdelijke afzondering, vermeld in artikel 47/1, § 2, eerste lid, van het voormelde decreet, tien dagen vanaf de laatste dag dat de persoon in kwestie in een hoogrisicogebied is geweest, tenzij die persoon een negatieve COVID-19-test heeft ondergaan vanaf de zevende dag van de tijdelijke afzondering.<br>
 <br>
 Voor personen die in een hoogrisicogebied zijn geweest dat een hoogrisicogebied is waar zorgwekkende varianten sterk aanwezig zijn, duurt de tijdelijke afzondering, vermeld in artikel 47/1, § 2, eerste lid, van het voormelde decreet, tien dagen vanaf de laatste dag dat de persoon in kwestie in een hoogrisicogebied is geweest.<br>
 <br>
-De tijdelijke afzondering, vermeld in artikel 47/1, § 3, eerste lid, van het voormelde decreet, duurt tien dagen vanaf het laatste contact dat heeft geleid tot een verhoogd risico op COVID-19, tenzij de persoon an een van de volgende voorwaarden voldoet:<br>
-1° hij is niet ingeënt als vermeld in artikel 6, § 2, derde lid, van dit besluit en heeft een negatieve PCR-test ondergaan vanaf de zevende dag van die tijdelijke afzondering;<br>
-2° hij is ingeënt als vermeld in artikel 6, § 2, derde lid, van dit besluit en heeft een negatieve PCR-test ondergaan vanaf de vijfde dag van die tijdelijke afzondering en bij een dagelijkse negatieve zelftest vanaf de vierde dag tot het negatieve resultaat van de PCR-test.<br>
+De tijdelijke afzondering, vermeld in artikel 47/1, § 3, eerste lid, van het voormelde decreet, duurt tien dagen vanaf het laatste contact dat heeft geleid tot een verhoogd risico op COVID-19, tenzij de persoon aan een van de volgende voorwaarden voldoet:<br>
+1° hij is niet deels of volledig ingeënt als vermeld in artikel 6, § 2, vierde en vijfde lid, van dit besluit en heeft een negatieve PCR-test ondergaan vanaf de zevende dag van die tijdelijke afzondering;<br>
+2° hij is deels ingeënt als vermeld in artikel 6, § 2, vierde lid, van dit besluit en heeft een dagelijkse negatieve zelftest vanaf de vierde dag.<br>
 <br>
 In afwijking van het vierde lid, duurt de tijdelijke afzondering, vermeld in artikel 47/1, § 3, eerste lid, van het voormelde decreet, tien dagen vanaf het laatste contact dat heeft geleid tot een verhoogd risico op COVID-19 als de persoon, vermeld in artikel 47/1, § 1, eerste lid, van hetzelfde decreet, waarmee men in contact is geweest, besmet is met een zorgwekkende variant.<br>
 <br>
@@ -121,13 +121,13 @@ De personen, vermeld in het eerste lid, moeten aan de volgende voorwaarden voldo
 
 Een persoon als vermeld in artikel 47/1, § 2, eerste lid, van het decreet van 21 november 2003 is verplicht&nbsp;om zich onmiddellijk na zijn aankomst te melden conform artikel 47/1, § 2, tweede lid, van het voormelde decreet en&nbsp;om zich op de zevende dag van de tijdelijke afzondering opnieuw bij een COVID-19-test-centrum, bij een triagecentrum of bij zijn behandelend arts te melden, zodat hij nog een COVID-19-test kan ondergaan.<br>
 <br>
-Een persoon als vermeld in artikel 47/1, § 2, eerste lid, van het voormelde decreet, die conform artikel 4 of 5 van dit besluit is vrijgesteld van de tijdelijke afzondering of de verplichting om zich onmiddellijk bij een COVID-19-testcentrum, een triagecentrum of bij zijn behandelend arts te melden na een negatief testresultaat, is verplicht om zich op de zevende dag vanaf de laatste dag dat de persoon in kwestie in een hoogrisicogebied is geweest, bij een COVID-19-testcentrum, bij een triagecentrum of bij zijn behandelend arts te melden, zodat hij nog een COVID-19-test kan ondergaan.
+Een persoon als vermeld in artikel 47/1, § 2, eerste lid, van het voormelde decreet, die conform artikel 5 van dit besluit is vrijgesteld van de tijdelijke afzondering of de verplichting om zich onmiddellijk bij een COVID-19-testcentrum, een triagecentrum of bij zijn behandelend arts te melden na een negatief testresultaat, is verplicht om zich op de zevende dag vanaf de laatste dag dat de persoon in kwestie in een hoogrisicogebied is geweest, bij een COVID-19-testcentrum, bij een triagecentrum of bij zijn behandelend arts te melden, zodat hij nog een COVID-19-test kan ondergaan.
 
 ### ART 4.
 
 Voor kinderen jonger dan 12 jaar die in een hoogrisicogebied zijn geweest dat geen hoogrisicogebied is waar verhoogde aandacht voor zorgwekkende varianten is en dat geen hoogrisicogebied is waar zorgwekkende varianten sterk aanwezig zijn, gelden de tijdelijke afzondering en de verplichtingen om zich bij een COVID-19-testcentrum, triagecentrum of behandeld arts te melden niet.<br>
 <br>
-Voor kinderen tot en met twaalf jaar met een verhoogd risico op COVID-19 als vermeld in artikel 47/1, § 3, eerste lid, van het decreet van 21 november 2003, geldt de tijdelijke afzondering, vermeld in artikel 47/1, § 3, eerste lid, van het voormelde decreet, niet als het hoogrisicocontact heeft plaatsgevonden op school of in een andere collectiviteit waar kinderen en jongeren worden opgevangen en ze negatief hebben getest bij een PCR-test op dag 1, met tijdelijke afzondering tot het testresultaat bekend is.<br>
+In afwijking van artikel 2, § 1, vierde lid, van dit besluit duurt de tijdelijke afzondering, vermeld in artikel 47/1, § 3, eerste lid, van het decreet van 21 november 2003, voor kinderen tot en met twaalf jaar met een verhoogd risico op COVID-19 als vermeld in artikel 47/1, § 3, eerste lid, van het voormelde decreet, vijf dagen als het hoogrisicocontact heeft plaatsgevonden op school of in de kinderopvang.<br>
 <br>
 Voor kinderen jonger dan 6 jaar met een verhoogd risico op COVID-19 als vermeld in artikel 47/1, § 3, eerste lid, van het decreet van 21 november 2003 gelden de verplichtingen om zich bij een COVID-19-testcentrum, triagecentrum of behandelend arts te melden niet, tenzij de ambtenaren-artsen en de ambtenaren, vermeld in artikel 44, § 3, 2° en 3°, van hetzelfde decreet, in specifieke omstandigheden anders oordelen.
 
@@ -171,15 +171,33 @@ De essentiële redenen, vermeld in artikel 47/1, § 2, vierde lid, 3°, van het 
 
 ### ART 6.
 
-§ 1. De personen, vermeld in artikel 47/1, § 3, eerste lid, van het decreet van 21 november 2003, worden via het centrale contactcentrum, via een lokaal contactcentrum of via een arts op de hoogte gebracht van het feit dat ze een verhoogd risico op COVID-19 hebben.<br>
+§ 1. De personen, vermeld in artikel 47/1, § 3, eerste lid, van het decreet van 21 november 2003, worden via het centrale contactcentrum, via een lokaal contactcentrum, via een arts , via een ambtenaar-arts als vermeld in artikel 44, § 3, 2°, van het voormelde decreet of via een ambtenaar als vermeld in artikel 44, § 3, 3°, van het voormelde decreet, op de hoogte gebracht van het feit dat ze een verhoogd risico op COVID-19 hebben.<br>
 <br>
-Er is een verhoogd risico op COVID-19 als vermeld in artikel 47/1, § 3, eerste lid, van het voormelde decreet als dat door het centrale contactcentrum, een lokaal contactcentrum of een arts wordt vastgesteld conform de richtlijnen van de bevoegde federale dienst conform artikel 47/1, § 3, vijfde lid, van hetzelfde decreet.<br>
+Er is een verhoogd risico op COVID-19 als vermeld in artikel 47/1, § 3, eerste lid, van het voormelde decreet als dat door het centrale contactcentrum, een lokaal contactcentrum, een arts, een ambtenaar-arts of een ambtenaar als vermeld in artikel 44, § 3, 2° en 3°, van het voormelde decreet, wordt vastgesteld conform de richtlijnen van de bevoegde federale dienst conform artikel 47/1, § 3, vijfde lid, van hetzelfde decreet.<br>
 <br>
-§ 2. Een persoon als vermeld in artikel 47/1, § 3, eerste lid, van het decreet van 21 november 2003, die niet is ingeënt tegen COVID-19, is verplicht om onmiddellijk nadat hij heeft kennisgenomen van het feit dat hij een verhoogd risico heeft op COVID-19, zich te melden conform artikel 47/1, § 3, tweede lid, van het voormelde decreet, zodat hij een COVID-19-test kan ondergaan, en om zich op de zevende dag van de tijdelijke afzondering opnieuw te melden, zodat hij nog een COVID-19-test kan ondergaan.<br>
+§ 2. Een persoon als vermeld in artikel 47/1, § 3, eerste lid, van het decreet van 21 november 2003, die niet&nbsp;deels of volledig is ingeënt tegen COVID-19, is verplicht om onmiddellijk nadat hij heeft kennisgenomen van het feit dat hij een verhoogd risico heeft op COVID-19, zich te melden conform artikel 47/1, § 3, tweede lid, van het voormelde decreet, zodat hij een COVID-19-test kan ondergaan, en om zich op de zevende dag van de tijdelijke afzondering opnieuw te melden, zodat hij nog een COVID-19-test kan ondergaan.<br>
 <br>
-Een persoon als vermeld in artikel 47/1, § 3, eerste lid, van het voormelde decreet, die is ingeënt tegen COVID-19, is verplicht om op de vijfde dag van de tijdelijke afzondering conform artikel 47/1, § 3, tweede lid, van het voormelde decreet, zich te melden, zodat hij een COVID-19-test kan ondergaan.<br>
+De tijdelijke afzondering, vermeld in artikel 47/1, § 3, eerste lid, van het voormelde decreet, geldt niet voor personen die geen symptomen van COVID-19 hebben en bij wie de kans op besmetting na een hoogrisicocontact laag wordt ingeschat omdat ze kunnen aantonen dat ze volledig zijn ingeënt tegen COVID-19 met een vaccin dat is goedgekeurd door het Europees Geneesmiddelenagentschap of Covishield R, tenzij de ambtenaren-artsen en de ambtenaren, vermeld in artikel 44, § 3, 2° en 3°, van het voormelde decreet, in specifieke omstandigheden anders oordelen.<br>
 <br>
-In het eerste en tweede lid wordt verstaan onder ingeënt tegen COVID-19: de persoon is meer dan twee weken gevaccineerd met twee doses van een vaccin waarvan twee doses zijn vereist of is meer dan twee weken gevaccineerd met een vaccin waarvan maar een dosis is vereist. Het vaccin moet goedgekeurd zijn door het Europees Geneesmiddelenagentschap of Covishield R zijn.
+De verplichting om zich bij een COVID-19-testcentrum, triagecentrum of behandelend arts te melden conform artikel 47/1, § 3, tweede lid, van het voormelde decreet, geldt niet voor personen die geen symptomen van COVID-19 hebben en bij wie de kans op besmetting na een hoogrisicocontact laag wordt ingeschat omdat ze kunnen aantonen dat ze deels of volledig zijn ingeënt tegen COVID-19 met een vaccin dat is goedgekeurd door het Europees Geneesmiddelenagentschap of Covishield R, tenzij de ambtenaren-artsen en de ambtenaren, vermeld in artikel 44, § 3, 2° en 3°, van het voormelde decreet, in specifieke omstandigheden anders oordelen.<br>
+<br>
+In het eerste en het derde lid wordt verstaan onder deels ingeënt tegen COVID-19: een persoon die achttien jaar of ouder is en langer dan vijf maanden is gevaccineerd met:<br>
+1° twee doses van een vaccin waarvan twee doses zijn vereist;<br>
+2° een vaccin waarvan maar een dosis is vereist.<br>
+<br>
+In het eerste tot en met het derde lid wordt verstaan onder volledig ingeënt tegen COVID-19:<br>
+1° een persoon die twaalf tot zeventien jaar is en meer dan twee weken is gevaccineerd met:<br>
+a) twee doses van een vaccin waarvan twee doses zijn vereist;<br>
+b) een vaccin waarvan maar een dosis is vereist;<br>
+2° een persoon die achttien jaar of ouder is en meer dan twee weken maar niet langer dan vijf maanden is gevaccineerd met:<br>
+a) twee doses van een vaccin waarvan twee doses zijn vereist;<br>
+b) een vaccin waarvan maar een dosis is vereist;<br>
+3° een persoon die achttien jaar of ouder is en is gevaccineerd met:<br>
+a) twee doses van een vaccin waarvan twee doses zijn vereist en een boostervaccin;<br>
+b) een vaccin waarvan maar een dosis is vereist en een boostervaccin;<br>
+4° een persoon die achttien jaar of ouder is, niet langer dan vijf maanden beschikt over een herstelcertificaat en is gevaccineerd met:<br>
+a) twee doses van een vaccin waarvan twee doses zijn vereist;<br>
+b) een vaccin waarvan maar een dosis is vereist.
 
 ### ART 7.
 
