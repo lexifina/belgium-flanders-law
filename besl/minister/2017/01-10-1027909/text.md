@@ -30,14 +30,15 @@ De volgende personen worden aangewezen als ambtenaren die belast zijn met de opd
 3° ...;<br>
 4° Kathleen Derbaix;<br>
 5° ...;<br>
-6° Lina Grooten;<br>
+6° ...;<br>
 7° Karola Imbrechts;<br>
 8° Barbara Jans;<br>
 9° Erwin Mariën;<br>
 10° Karolien Schoonjans;<br>
 11° Leen Torfs;<br>
 12° ...;<br>
-13° Mark Schaerlaekens.<br>
+13° Mark Schaerlaekens;<br>
+14° Bruno Reiners.<br>
 &nbsp;
 
 ### ART 3.
@@ -48,14 +49,15 @@ De volgende personen worden aangewezen als ambtenaren die belast zijn met de opd
 3° ...;<br>
 4° Kathleen Derbaix;<br>
 5° ...;<br>
-6° Lina Grooten;<br>
+6° ...;<br>
 7° Karola Imbrechts;<br>
 8° Barbara Jans;<br>
 9° Erwin Mariën;<br>
 10° Karolien Schoonjans;<br>
 11° Leen Torfs;<br>
 12°...;<br>
-13° Mark Schaerlaekens.<br>
+13° Mark Schaerlaekens;<br>
+14° Bruno Reiners.<br>
 &nbsp;
 
 ### ART 4.
