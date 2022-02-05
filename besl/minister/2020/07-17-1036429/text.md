@@ -42,3 +42,11 @@ In hoofdstuk 2 van hetzelfde besluit wordt een artikel 4/1 ingevoegd, dat luidt 
 ### ART 5.
 
 In artikel 5 wordt het getal "15" vervangen door het getal "8".
+
+### ART 6.
+
+Artikel 3, 4 en 5 treden in werking op 1 september 2020.<br>
+<br>
+Artikel 1 heeft uitwerking met ingang van 1 juni 2020.<br>
+<br>
+Artikel 2 heeft uitwerking met ingang van 1 juli 2020.
