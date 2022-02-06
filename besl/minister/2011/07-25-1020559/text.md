@@ -24,20 +24,14 @@ Dit besluit treedt in werking drie maanden na de bekendmaking ervan in het Belgi
 <br>
 <br>
 * Bij MB van 3 juli 2018, BS 8 augustus 2018 worden de volgende wijzigingen aangebracht met ingang van 18 augustus 2018:<br>
-<br>
 -&nbsp;In punt 3 van bijlage 3 van de bijlage worden de woorden "bijlage 4" vervangen door de woorden "bijlage 3".<br>
-<br>
 -&nbsp;In punt 4.2 van bijlage 3 van de bijlage worden de woorden "bijlage 4" vervangen door de woorden "bijlage 3".<br>
-<br>
 -&nbsp;In punt 5.3.3.2 van bijlage 3 van de bijlageworden de volgende wijzigingen aangebracht :<br>
 1° de zinsnede "(1) Alle niet-steenachtige materialen (inclusief glas) en alle materialen die worden vermeld in het eenheidsreglement artikel 7.6.1.1 punt 2", wordt vervangen door de zinsnede "(1) Alle niet-steenachtige materialen (exclusief glas) en alle materialen die worden vermeld in het eenheidsreglement artikel 7.6.1.1 punt 2";<br>
 2° de zinsnede "Toetsingswaarde : 0,2 % (m/m) fysische verontreinigingen" wordt vervangen door de zinsnede "Toetsingswaarden: 0,2 % (m/m) fysische verontreinigingen, 2 % (m/m) glas".<br>
-<br>
 - In punt 6.3.2 van bijlage 3 van de bijlage worden de volgende wijzigingen aangebracht:<br>
 1° de zinsnede "(1) Alle niet-steenachtige materialen (inclusief glas) en alle materialen die worden vermeld in het eenheidsreglement artikel 7.6.1.1 punt 2", wordt vervangen door de zinsnede "(1) Alle niet-steenachtige materialen (exclusief glas) en alle materialen die worden vermeld in het eenheidsreglement artikel 7.6.1.1, punt 2";<br>
 2° de zinsnede "Toetsingswaarde : 0,2 % (m/m) fysische verontreinigingen" wordt vervangen door de zinsnede "Toetsingswaarden : 0,2 % (m/m) fysische verontreinigingen, 2 % (m/m) glas".<br>
-<br>
-<br>
 <br>
 * In afwijking van de bepalingen van artikel 7.6.3.D van de bijlage kan de OVAM normwaarden voor de uitloogbaarheid van zeefzand vaststellen, bepaald met de VLAREBO-methode, die afwijken van bijlage VII van het VLAREBO.<br>
 <br>
@@ -50,4 +44,7 @@ Dit besluit treedt in werking drie maanden na de bekendmaking ervan in het Belgi
 * Bij MB van 19 december 2019, BS 28 januari 2020 worden de volgende wijzigingen aangebracht met ingang van 7 februari 2020:<br>
 - In punt 5.3.3.2 van bijlage 3, wordt de zinsnede "(1) Alle niet-steenachtige materialen (inclusief glas) en alle materialen die worden vermeld in het eenheidsreglement artikel 7.6.1.1 punt 2", vervangen door de zinsnede "(1) Alle niet-steenachtige materialen (exclusief glas en ferro-metalen) en alle materialen die worden vermeld in het eenheidsreglement artikel 7.6.1.1 punt 2".<br>
 - In punt 6.3.2 van bijlage 3, wordt de zinsnede "(1) Alle niet-steenachtige materialen (inclusief glas) en alle materialen die worden vermeld in het eenheidsreglement artikel 7.6.1.1 punt 2", vervangen door de zinsnede "(1) Alle niet-steenachtige materialen (exclusief glas en ferro-metalen) en alle materialen die worden vermeld in het eenheidsreglement artikel 7.6.1.1 punt 2".<br>
-- In artikel 7.6.1.1 van de bijlage, wordt de zinsnede "Vanaf 1 januari 2020 mag de certificaathouder het puin dat hij als LMRP heeft geaccepteerd, niet meer als HMRP verwerken." vervangen door de zinsnede "Vanaf 1 januari 2022 mag de certificaathouder het puin dat hij als LMRP heeft geaccepteerd, niet meer als HMRP verwerken.".</p>
+- In artikel 7.6.1.1 van de bijlage, wordt de zinsnede "Vanaf 1 januari 2020 mag de certificaathouder het puin dat hij als LMRP heeft geaccepteerd, niet meer als HMRP verwerken." vervangen door de zinsnede "Vanaf 1 januari 2022 mag de certificaathouder het puin dat hij als LMRP heeft geaccepteerd, niet meer als HMRP verwerken.".<br>
+<br>
+* Bij MB van 14 december 2021, BS 27 januari 2022 worden de volgende wijzigingen aangebracht met ingang van 6 februari 2022:<br>
+-&nbsp;het jaartal "2022" wordt vervangen door het jaartal "2023";</p>
