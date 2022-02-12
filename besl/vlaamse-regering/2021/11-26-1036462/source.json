@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036462,
+  "title": "Besluit van de Vlaamse Regering van 2021-11-26 tot vaststelling van de regels voor de subsidiëring van wolfwerende maatregelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036462/VolledigDocument?datum=2022-02-12",
+  "source_sha256": "665a84e386206aed22d2a180e116ffec735193baa9ec7b67fb9366b5f3194681",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036462&param=informatie",
+  "as_of": "2022-02-12",
+  "made": "2021-11-26",
+  "gazette": "2022-02-02",
+  "numac": 2022030003,
+  "document_start": "2022-02-12",
+  "document_end": null,
+  "in_force": "2022-02-12",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2022-02-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
