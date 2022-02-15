@@ -199,7 +199,7 @@ Het   ministerieel besluit van 19 augustus 2009 tot instelling van een   bedrijf
 <br>
 <span style="color:#000000">Bijlage 1. Agromilieu- en klimaatmaatregelen en andere maatregelen als vermeld in artikel 15</span><br>
 <span style="color:#000000">1. Agromilieu- en klimaatmaatregelen en andere maatregelen waarvoor de verzamelaanvraag dient als betalingsaanvraag en in voorkomend geval als verbintenisaanvraag</span>
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
+<table border="1">
 	<tbody>
 		<tr>
 			<td>&nbsp;</td>
@@ -281,10 +281,46 @@ Het   ministerieel besluit van 19 augustus 2009 tot instelling van een   bedrijf
 			<td>BOS3</td>
 			<td>bebossing van landbouwgrond - onderhoud en inkomenscompensatie (PDPO3)</td>
 		</tr>
+		<tr>
+			<td>27°</td>
+			<td>EKG</td>
+			<td>inzaai van productief kruidenrijk grasland</td>
+		</tr>
+		<tr>
+			<td>28°</td>
+			<td>EEG</td>
+			<td>ecolologisch beheerd grasland</td>
+		</tr>
+		<tr>
+			<td>29°</td>
+			<td>EET</td>
+			<td>inzaai milieu-, klimaat-, en biodiversiteitsvriendelijke teelten</td>
+		</tr>
+		<tr>
+			<td>30°</td>
+			<td>EPK</td>
+			<td>precisielandbouw - plaatsspecifiek bekalken</td>
+		</tr>
+		<tr>
+			<td>31°</td>
+			<td>-</td>
+			<td>precisielandbouw - automatische GPS aansturing van machines</td>
+		</tr>
+		<tr>
+			<td>32°</td>
+			<td>-</td>
+			<td>verhogen van organisch koolstofgehalte bouwland</td>
+		</tr>
+		<tr>
+			<td>33°</td>
+			<td>-</td>
+			<td>voedermanagement voor melkvee</td>
+		</tr>
 	</tbody>
 </table>
 <br>
-<span style="font-size:medium"><span style="color:#000000">2. Agromilieu- en klimaatmaatregelen en andere maatregelen waarvoor de verzamelaanvraag dient als melding van percelen</span></span>
+<br>
+<span style="color:#000000">2. Agromilieu- en klimaatmaatregelen en andere maatregelen waarvoor de verzamelaanvraag dient als melding van percelen</span>
 
 <table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
 	<tbody>
@@ -489,4 +525,4 @@ Het   ministerieel besluit van 19 augustus 2009 tot instelling van een   bedrijf
 
 ### BIJLAGE 2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2021/03/03_2.pdf#page=113">Voorbereidingsblad voor de verzamelaanvraag als vermeld in artikel 3, tweede lid</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/05/09_1.pdf#page=56">Bijlage 2. Voorbereidingsblad voor de verzamelaanvraag als vermeld in artikel 3, tweede lid</a>
