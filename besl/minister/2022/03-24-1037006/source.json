@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037006,
+  "title": "Ministerieel besluit van 2022-03-24 tot wijziging van bijlage 1 en 2 bij het ministerieel besluit van 23 juni 2015 houdende vaststelling van de verzamelaanvraag en de nadere regels voor de gemeenschappelijke identificatie van percelen, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037006/VolledigDocument?datum=2022-02-15",
+  "source_sha256": "8ef8e3cf492c63a95f01d39d468346925b1b665da8470c9216aea61b7315eed2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037006&param=informatie",
+  "as_of": "2022-02-15",
+  "made": "2022-03-24",
+  "gazette": "2022-05-09",
+  "numac": 2022040611,
+  "document_start": "2022-02-15",
+  "document_end": null,
+  "in_force": "2022-02-15",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2022-02-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
