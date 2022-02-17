@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036493,
+  "title": "Besluit van de Vlaamse Regering van 2021-12-17 tot wijziging van artikel 40 van het besluit van de Vlaamse Regering van 29 september 2017 betreffende wijk-werken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036493/VolledigDocument?datum=2022-02-17",
+  "source_sha256": "f6bbc10504891748708dbbcfbf6d604ec03f723e8c1e74186884f458d5b5f9cb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036493&param=informatie",
+  "as_of": "2022-02-17",
+  "made": "2021-12-17",
+  "gazette": "2022-02-16",
+  "numac": 2022030039,
+  "document_start": "2022-02-17",
+  "document_end": null,
+  "in_force": "2022-02-17",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-02-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
