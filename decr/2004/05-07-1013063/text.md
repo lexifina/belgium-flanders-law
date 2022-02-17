@@ -84,10 +84,10 @@ d) het verzorgen van de trajectbegeleiding van werkzoekenden, door, onder meer, 
 e) het verzorgen van de loopbaanbegeleiding van werknemers, door, onder meer, de bevordering, de organisatie en het verstrekken van begeleiding van werknemers en het toekennen van tegemoetkomingen voor de begeleiding in functie van de persoonlijke aspiraties van elke werknemer inzake het beheer van zijn persoonlijke beroepsloopbaan;<br>
 f) het organiseren en bevorderen van het levenslang leren van werkzoekenden en werknemers;<br>
 g) de kennisverzameling en -verspreiding inzake de arbeidsmarkt en zijn werking;<br>
-h) het stimuleren van duurzame partnerschappen ter bevordering van de dienstverlening inzake arbeidsbemiddeling, opleiding en begeleiding met het oog op de inschakeling op de arbeidsmarkt;<br>
-i) het instaan voor de netwerkvorming ter bevordering van de dienstverlening inzake arbeidsbemiddeling, opleiding en begeleiding met het oog op de inschakeling op de arbeidsmarkt, door, onder meer, de uitbouw en het onderhouden van netwerken op Vlaams, nationaal, supranationaal en internationaal vlak die bijdragen tot de verwezenlijking van de missie van de VDAB;<br>
+h) het stimuleren van duurzame partnerschappen ter bevordering van de dienstverlening inzake activering, arbeidsbemiddeling, opleiding en begeleiding met het oog op de inschakeling op de arbeidsmarkt en het verzekeren van een duurzame loopbaan, onder andere door de erkenning en subsidiëring van organisaties die instaan voor het verzorgen van de arbeidsbemiddeling, de trajectbegeleiding, de beroepsoriëntering en de competentieontwikkeling;<br>
+i) het instaan voor de netwerkvorming ter bevordering van de dienstverlening inzake&nbsp;activering, arbeidsbemiddeling, opleiding en begeleiding met het oog op de inschakeling op de arbeidsmarkt, door, onder meer, de uitbouw en het onderhouden van netwerken op Vlaams, nationaal, supranationaal en internationaal vlak die bijdragen tot de verwezenlijking van de missie van de VDAB;<br>
 j) de coördinatie van de uitvoering van de projecten van de Vlaamse regering en van de Europese projecten die op de in dit artikel bedoelde taken betrekking hebben;<br>
-k) het instaan voor de productontwikkeling en -innovatie inzake de dienstverlening aan werkzoekenden, werknemers en werkgevers inzake arbeidsbemiddeling, opleiding en begeleiding met het oog op de inschakeling op de arbeidsmarkt door, onder meer, de ontwikkeling van nieuwe diensten en producten en/of de opwaardering van bestaande diensten en producten inzake arbeidsbemiddeling, begeleiding en opleiding met het oog op de inschakeling op de arbeidsmarkt, via inzonderheid samenwerkingsovereenkomsten met andere organisaties die rechtspersoonlijkheid bezitten en met werknemers- en/of werkgeversorganisaties en die beschikken over specifieke kennis, in het bijzonder met betrekking tot specifieke doelgroepen;<br>
+k) het instaan voor de productontwikkeling en -innovatie inzake de dienstverlening aan werkzoekenden, werknemers en werkgevers inzake&nbsp;activering, arbeidsbemiddeling, opleiding en begeleiding met het oog op de inschakeling op de arbeidsmarkt door, onder meer, de ontwikkeling van nieuwe diensten en producten en/of de opwaardering van bestaande diensten en producten inzake&nbsp;activering, arbeidsbemiddeling, begeleiding en opleiding met het oog op de inschakeling op de arbeidsmarkt, via inzonderheid samenwerkingsovereenkomsten met andere organisaties die rechtspersoonlijkheid bezitten en met werknemers- en/of werkgeversorganisaties en die beschikken over specifieke kennis, in het bijzonder met betrekking tot specifieke doelgroepen;<br>
 <br>
 2° taken op het vlak van de arbeidsbemiddeling:<br>
 a) de organisatie en bevordering van de aanwerving en de plaatsing van werkzoekenden en werknemers;<br>
@@ -174,15 +174,19 @@ g) de financiering van de leertijd.<br>
 De Vlaamse Regering bepaalt wie verantwoordelijk is voor de uitbetaling, de werkvoorwaarden en de geldelijke regeling van de lesgevers in de leertijd;<br>
 h) een beleid binnen de leertijd voor de inbedding van doel- en kansengroepen ontwikkelen en coördineren.<br>
 <br>
+16° taken in het kader van kwaliteit:<br>
+a) de kwaliteit van de eigen dienstverlening en van die van dienstverleners als vermeld in artikel 22/2, vierde lid, van dit decreet, waarborgen, als die dienstverleners in opdracht van VDAB dienstverlening aanbieden ten aanzien van iedere persoon op beroepsactieve leeftijd en ten aanzien van werkgevers;<br>
+b) een geïntegreerd en integraal kwaliteitsbeleid voeren.<br>
+<br>
 De Vlaamse Regering bepaalt de verschillende categorieën van de doelgroep, vermeld in het eerste lid, 12°, a).<br>
 <br>
-§ 2. De Vlaamse regering kan nadere regels uitvaardigen betreffende de in artikel 5, § 1, vermelde aangelegenheden. In deze regels kunnen de taken van het agentschap verder worden gepreciseerd en/of geconcretiseerd.<br>
+§ 2. De Vlaamse regering kan nadere regels uitvaardigen over de taken, vermeld in paragraaf 1/1. In deze regels kunnen de taken van het agentschap verder worden gepreciseerd en/of geconcretiseerd.<br>
 <br>
-§ 3. De VDAB staat in voor het verzekerd aanbod inzake de in § 1 bedoelde taken en inzake de krachtens § 2 daaraan aangebrachte preciseringen en/of concretiseringen.<br>
+§ 3. De VDAB staat in voor het verzekerd aanbod inzake de taken, vermeld in paragraaf 1/1, en inzake de krachtens § 2 daaraan aangebrachte preciseringen en/of concretiseringen.<br>
 <br>
-§ 4. Onverminderd andersluidende bepalingen in andere decreten en/of de uitvoeringsbesluiten daarvan en onverminderd hetgeen is bepaald in de volgende leden, worden de taken bedoeld in § 1 in beginsel gratis aangeboden.<br>
+§ 4. Onverminderd andersluidende bepalingen in andere decreten en/of de uitvoeringsbesluiten daarvan en onverminderd hetgeen is bepaald in de volgende leden, worden de taken bedoeld in paragraaf 1/1 in beginsel gratis aangeboden.<br>
 <br>
-Conform de door de beheersovereenkomst te bepalen voorwaarden en modaliteiten kan de VDAB, bij gemotiveerde beslissing van de raad van bestuur en voor de in die beslissing aangewezen diensten, van de werkgever, de werknemer, de werkzoekende, of, desgevallend, de persoon behorend tot een specifieke categorie van belanghebbenden als bedoeld in artikel 5, § 1, tweede lid, een vergoeding vragen.<br>
+De Vlaamse Regering bepaalt de gevallen waarin VDAB, bij gemotiveerde beslissing van de raad van bestuur, van de werkgever, de werknemer, de werkzoekende of, desgevallend, de persoon behorend tot een specifieke categorie van belanghebbenden als bedoeld in paragraaf 1/1, tweede lid, een vergoeding kan vragen.<br>
 <br>
 De in het tweede lid bedoelde mogelijkheid geldt niet voor de taken van universele dienstverlening die, in alle omstandigheden, steeds kosteloos moeten worden aangeboden.
 
@@ -192,7 +196,7 @@ De in het tweede lid bedoelde mogelijkheid geldt niet voor de taken van universe
 <br>
 § 2. Als rechtspersoon is de VDAB algemeen rechts-, handelings- en procesbekwaam, zulks binnen de perken van zijn missie en takenstelling als bedoeld in respectievelijk de artikelen 4 en 5 en binnen de perken van het Bestuursdecreet.<br>
 <br>
-Onverminderd het bepaalde in het Bestuursdecreet, in dit decreet, in andere decreten en in hun uitvoeringsbesluiten, beschikt de VDAB, met het oog op de vervulling van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken, tevens over de hierna vermelde bijzondere bevoegdheden die de VDAB uitoefent in overeenstemming met het bepaalde in het Bestuursdecreet en in dit decreet, zijn uitvoeringsbesluiten en de beheersovereenkomst die de VDAB verbindt:<br>
+Onverminderd het bepaalde in het Bestuursdecreet, in dit decreet, in andere decreten en in hun uitvoeringsbesluiten, beschikt de VDAB, met het oog op de vervulling van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken, tevens over de hierna vermelde bijzondere bevoegdheden die de VDAB uitoefent in overeenstemming met het bepaalde in het Bestuursdecreet en in dit decreet en de uitvoeringsbesluiten ervan:<br>
 1° rekening houdende met het bepaalde in artikel 5, § 4, het bepalen en opleggen van een vergoeding voor de dienstverlening van VDAB, de universele dienstverlening uitgezonderd;<br>
 2° het sluiten van samenwerkingsovereenkomsten met één of meer van de hierna vermelde instellingen of personen, indien zulks nodig is voor de vervulling van zijn missie en taakstelling:<br>
 a) binnenlandse, buitenlandse of supra- of internationale overheidsinstellingen werkzaam binnen een soortgelijke bevoegdheidssfeer als de VDAB;<br>
@@ -250,7 +254,7 @@ De raad van bestuur is bevoegd om alle handelingen die nodig of dienstig zijn vo
 3° ...;<br>
 4° het bepalen van de regels op grond waarvan de VDAB samenwerkingsovereenkomsten met private arbeidsmarktactoren kan sluiten;<br>
 5° het beslissen over de deelname van de VDAB aan de oprichting van of de deelname in, alsmede het bestuur of de leiding en de financiering van publiek- of privaatrechtelijke rechtspersonen;<br>
-6° de goedkeuring van de rapportering aan de Vlaamse regering over de uitvoering van de beheersovereenkomst;<br>
+6° de goedkeuring van de rapportering aan de Vlaamse regering over de uitvoering van het jaarlijkse ondernemingsplan;<br>
 7° het rapporteren over de uitvoering van de begroting;<br>
 8° het vaststellen van de vergoedingen bedoeld in artikel 5, § 4, tweede lid.
 
@@ -275,12 +279,17 @@ De gedelegeerd bestuurder wordt bijgestaan door twee algemene directeurs.
 § 1. Onverminderd andere wettelijke en/of decretale bepalingen en hun uitvoeringsbesluiten is de gedelegeerd bestuurder, binnen de perken van dit decreet en zijn uitvoeringsbesluiten, alsmede van het huishoudelijk reglement bedoeld in artikel 16, belast met het dagelijks bestuur van de VDAB.<br>
 <br>
 De inhoud van het dagelijks bestuur wordt nader vastgelegd in het huishoudelijk reglement bedoeld in artikel 16 en omvat in elk geval:<br>
-1° inzake het management van de dienstverlening: de voorbereiding en de uitvoering van de strategische meerjarenplannen en jaarlijkse ondernemingsplannen, voortvloeiende uit de beheersovereenkomst en goedgekeurd door de raad van bestuur;<br>
-2° inzake de productontwikkeling: het ontwikkelen van nieuwe en het verbeteren van bestaande diensten, producten en processen die kaderen in het beleid van de VDAB, inpasbaar zijn in de strategische planning en werden goedgekeurd door de raad van bestuur;<br>
+1° inzake het management van de dienstverlening: de voorbereiding en de uitvoering van de strategische meerjarenplannen en jaarlijkse ondernemingsplannen, voortvloeiende uit de beleidscyclus en goedgekeurd door de raad van bestuur;<br>
+2° over de productontwikkeling:<br>
+a) nieuwe diensten, producten en processen ontwikkelen, na goedkeuring<br>
+door de raad van bestuur als er een strategische impact is;<br>
+b) bestaande diensten, producten en processen verbeteren;<br>
 3° inzake het personeelsbeleid: het voeren van een coherent personeelsbeleid, afgestemd op de strategische evolutie van het agentschap en de omgevingsfactoren waarbinnen de dienstverlening plaatsvindt overeenkomstig de rechtspositieregeling van het personeel alsmede met de richtlijnen van de raad van bestuur dienaangaande;<br>
 4° inzake het financieel beleid: de uitvoering van alle budgettaire en boekhoudkundige verrichtingen, met inbegrip van het registreren van de verbintenissen, de goedkeuring en de boeking van de verplichtingen, de boeking van de vorderingen en het doen van alle ontvangsten en uitgaven binnen de machtigende begroting;<br>
-5° inzake het beheer van de infrastructuur: het voeren van een coherent beleid voor gebouwen, verbruiks- en patrimoniumgoederen, een efficiënt voorraadbeheer, alsmede het optimaal beheren van de infrastructuur van de VDAB binnen de limieten van het door de raad van bestuur goedgekeurde investeringsprogramma;<br>
-6° inzake communicatie en public relations: het voeren van een eigentijds intern en extern communicatiebeleid, met inbegrip van een proactief en reactief mediabeleid, in overeenstemming met de door de raad van bestuur vastgelegde richtlijnen dienaangaande.<br>
+5° inzake het beheer van de infrastructuur: het voeren van een coherent beleid voor gebouwen, verbruiks- en patrimoniumgoederen, een efficiënt voorraadbeheer, alsmede het optimaal beheren van de infrastructuur van de VDAB binnen de limieten van de vastgoedstrategie die de raad van bestuur goedkeurt;<br>
+6° inzake communicatie en public relations: het voeren van een eigentijds intern en extern communicatiebeleid, met inbegrip van een proactief en reactief mediabeleid,&nbsp;in voorkomend geval in overeenstemming met de door de raad van bestuur vastgelegde richtlijnen dienaangaande.<br>
+<br>
+Al de diensten, producten en processen, vermeld in het tweede lid, 2°, passen in het beleid van VDAB en zijn inpasbaar in de strategische planning.<br>
 <br>
 § 2. De gedelegeerd bestuurder is belast met de voorbereiding van de beslissingen van de raad van bestuur.Hij verstrekt aan de raad van bestuur alle inlichtingen en brengt alle voorstellen die voor de werking van de VDAB nuttig of nodig zijn op de agenda van de raad van bestuur.<br>
 <br>
@@ -302,9 +311,25 @@ De inhoud van het dagelijks bestuur wordt nader vastgelegd in het huishoudelijk 
 
 ### ART. 17.
 
-De VDAB wordt bij het sluiten van de beheersovereenkomst vertegenwoordigd door de raad van bestuur.
+VDAB past geen geautomatiseerde individuele besluitvorming met rechtsgevolgen toe.<br>
+<br>
+In het eerste lid wordt verstaan onder geautomatiseerde individuele besluitvorming met rechtsgevolgen: beslissingen nemen op basis van louter technische systemen, zonder enige dienstige menselijke tussenkomst, die gevolgen hebben voor de wettelijke rechten van het individu of die significante, gelijkaardige gevolgen voor zijn persoon met zich meebrengen.<br>
+<br>
+Elk proces waarbij het technische systeem geen enkele impact op de vooraf geprogrammeerde uitkomst heeft, valt niet onder het verbod, vermeld in het eerste lid.<br>
+<br>
+De Vlaamse Regering kan bepalen welke processen niet vallen onder het verbod, vermeld in het eerste lid.
 
 ## [AFDELING 2 ETHISCHE RAAD (ing. decr. 14 januari 2022, art. 9, I: 17 februari 2022)]
+
+### ART 17/1.
+
+Er wordt een Ethische Raad opgericht die toezicht houdt op en onafhankelijk advies verleent over het gebruik van artificiële intelligentie, profilering, zoals bedoeld in artikel 4, 4), van de algemene verordening gegevensbescherming, en geautomatiseerde individuele besluitvorming binnen VDAB.<br>
+<br>
+Minstens de helft van de leden van de Ethische Raad werkt niet bij VDAB. De samenstelling van de Ethische Raad wordt vastgesteld door de raad van bestuur. De raad van bestuur wijst ook de voorzitter van de Ethische Raad aan onder de leden die niet bij VDAB werken.<br>
+<br>
+De raad van bestuur stelt de leden en de voorzitter van de Ethische Raad aan voor een periode van vijf jaar.<br>
+<br>
+De werkingsprincipes van de Ethische Raad worden vastgelegd in een huishoudelijk reglement dat ter goedkeuring wordt voorgelegd aan de raad van bestuur.
 
 ## HOOFDSTUK VI DIVERSE BEPALINGEN INZAKE DE VERHOUDING VAN DE VDAB MET ANDERE PARTIJEN ACTIEF OP HET VLAK VAN DE ARBEIDSBEMIDDELING, DE BEGELEIDING EN DE OPLEIDING MET HET OOG OP DE INSCHAKELING OP DE ARBEIDSMARKT
 
@@ -312,7 +337,15 @@ De VDAB wordt bij het sluiten van de beheersovereenkomst vertegenwoordigd door d
 
 ### ART. 18.
 
-&nbsp;§ 1. Tussen de entiteit binnen de Vlaamse overheid die instaat voor   de vorming van zelfstandigen en kleine en middelgrote ondernemingen en de VDAB   kan een samenwerkingsovereenkomst inzake de versterking van het   competentiebeleid worden gesloten.<BR><BR>Tussen het Departement   Onderwijs/Agentschap voor Kwaliteitszorg in Onderwijs en Vorming en de VDAB kan   een samenwerkingsovereenkomst inzake de versterking van het competentiebeleid   worden gesloten. <BR><BR>§ 2. Opdat de in § 1 bedoelde samenwerkingsovereenkomst   uitvoerbaar zou worden, is een voorafgaandelijke goedkeuring vereist van de   Vlaamse regering.<BR><BR>Het bepaalde in het eerste lid geldt tevens voor   eventuele wijzigingen aan de bedoelde samenwerkingsovereenkomst.<BR><BR>§ 3. De   coördinatie van de uitvoering van de in § 1 bedoelde samenwerkingsovereenkomst   kan geheel of gedeeltelijk worden toevertrouwd aan een daartoe door de Vlaamse   regering aangewezen of opgerichte managementgroep.
+&nbsp;§ 1. ...<br>
+<br>
+Tussen het Departement Onderwijs/Agentschap voor Kwaliteitszorg in Onderwijs en Vorming en de VDAB kan een samenwerkingsovereenkomst inzake de versterking van het competentiebeleid worden gesloten.<br>
+<br>
+§ 2. Opdat de in § 1 bedoelde samenwerkingsovereenkomst uitvoerbaar zou worden, is een voorafgaandelijke goedkeuring vereist van de Vlaamse regering.<br>
+<br>
+Het bepaalde in het eerste lid geldt tevens voor eventuele wijzigingen aan de bedoelde samenwerkingsovereenkomst.<br>
+<br>
+§ 3. De coördinatie van de uitvoering van de in § 1 bedoelde samenwerkingsovereenkomst kan geheel of gedeeltelijk worden toevertrouwd aan een daartoe door de Vlaamse regering aangewezen of opgerichte managementgroep.
 
 ### ART. 19.
 
@@ -346,7 +379,9 @@ Elk individu heeft de keuze om al dan niet een persoonlijk bestand op het elektr
 <br>
 Als een individu bepaalde diensten inzake arbeidsbemiddeling, trajectbegeleiding, loopbaanbegeleiding of competentieontwikkeling vraagt, kunnen dienstverleners, met inbegrip van de VDAB, de betrokkene opleggen om een persoonlijk bestand aan te maken.<br>
 <br>
-In het derde lid wordt onder dienstverleners verstaan : alle publieke of private organisaties of personen die activiteiten aanbieden op het vlak van beroepskeuzevoorlichting, competentieontwikkeling, trajectbegeleiding, loopbaanbegeleiding, arbeidsbemiddeling of erkenning van verworven competenties.
+In het derde lid wordt onder dienstverleners verstaan : alle publieke of private organisaties of personen die activiteiten aanbieden op het vlak van beroepskeuzevoorlichting, competentieontwikkeling, trajectbegeleiding, loopbaanbegeleiding, arbeidsbemiddeling of erkenning van verworven competenties.<br>
+<br>
+De Vlaamse Regering legt de gevallen vast waarin wordt afgeweken van het principe dat de betrokkene zelf een persoonlijk bestand aanmaakt, vermeld in het tweede lid.
 
 ### ART. 22/3.
 
@@ -512,7 +547,7 @@ De Vlaamse Regering bepaalt de voorwaarden voor de erkenning van de studiebewijz
 8° opbrengsten uit de verkoop van eigen participaties;<br>
 9° de subsidies waarvoor het agentschap als begunstigde in aanmerking komt;<br>
 10° terugvorderingen van ten onrechte gedane uitgaven;<br>
-11° vergoedingen voor prestaties aan derden, volgens de modaliteiten bepaald in de beheersovereenkomst.<br>
+11° vergoedingen voor prestaties aan derden.<br>
 <br>
 § 2. ...<br>
 <br>
