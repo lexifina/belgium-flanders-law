@@ -371,6 +371,10 @@ De aanschafprijs wordt als volgt verdeeld:<br>
 4° de wijk-werker ontvangt 4,10 euro;<br>
 5° de organisator ontvangt het saldo na aftrek van de bedragen, vermeld in punt 1° tot en met 4°.<br>
 <br>
+Aan het saldo, vermeld in het eerste lid, 5°, wordt eenmalig een toelage toegekend per organisator die is opgericht conform artikel 14, § 1, eerste lid, 1°, van het Wijk-werkendecreet van 7 juli 2017.<br>
+<br>
+Per organisator die is opgericht conform artikel 14, § 1, eerste lid, 1°, van het Wijk-werkendecreet van 7 juli 2017, is de toelage gelijk aan het verschil tussen het saldo voor het inkomstenjaar 2019 en het saldo voor het inkomstenjaar 2019 met de administratiekosten, vermeld in het eerste lid, 1°, zoals van toepassing in het inkomstenjaar 2022.<br>
+<br>
 De VDAB voert de betalingen, vermeld in het eerste lid, uit.<br>
 &nbsp;
 

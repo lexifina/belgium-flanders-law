@@ -2,16 +2,16 @@
   "codex_id": 1028724,
   "title": "Besluit van de Vlaamse Regering van 2017-09-29 betreffende wijk-werken",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028724/VolledigDocument?datum=2021-05-01",
-  "source_sha256": "975e815fc7ef488bba6ae23244284c1319f960e926bbd37cc1f3935f50c84231",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028724/VolledigDocument?datum=2022-02-17",
+  "source_sha256": "6d1ebbd218dc87675ccb5c7639c9d68dc713e2349333d1026c58833ccb13bbd4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028724&param=informatie",
-  "as_of": "2021-05-01",
+  "as_of": "2022-02-17",
   "made": "2017-09-29",
   "gazette": "2017-10-31",
   "numac": 2017031373,
   "document_start": "2018-01-01",
   "document_end": null,
-  "in_force": "2021-05-01",
+  "in_force": "2022-02-17",
   "article_versions": 64,
-  "record_form": "consolidated version as in force on 2021-05-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-02-17; future article versions excluded; article text as the API gives it"
 }
