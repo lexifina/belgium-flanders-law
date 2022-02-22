@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036515,
+  "title": "Ministerieel besluit van 2021-12-14 tot vaststelling van diverse sjablonen en richtsnoeren voor monitoring en rapportage door BKG-installaties voor de periode 2021-2030",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036515/VolledigDocument?datum=2022-02-22",
+  "source_sha256": "ea2f0b1f2a5c5750a18473461f51be2137d262025e2e42108b92103bc85f1c42",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036515&param=informatie",
+  "as_of": "2022-02-22",
+  "made": "2021-12-14",
+  "gazette": "2022-02-22",
+  "numac": 2022030004,
+  "document_start": "2022-02-22",
+  "document_end": null,
+  "in_force": "2022-02-22",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2022-02-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
