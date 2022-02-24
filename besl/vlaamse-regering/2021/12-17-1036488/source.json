@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036488,
+  "title": "Besluit van de Vlaamse Regering van 2021-12-17 tot wijziging van het besluit van de Vlaamse Regering van 11 oktober 2013 tot compensatie van de openbaredienstverplichting tot het vervoer van personen met een handicap of een ernstig beperkte mobiliteit, wat betreft de verlenging van de openbaredienstverplichting voor het vervoer van personen met een handicap of een ernstig beperkte mobiliteit tot en met 31 december 2022 met het oog op de invoering van basisbereikbaarheid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036488/VolledigDocument?datum=2022-02-24",
+  "source_sha256": "1d744c6f93a3ac96ca0e14e9837c8443231d2fb647fc4f3438ccf86965dfa196",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036488&param=informatie",
+  "as_of": "2022-02-24",
+  "made": "2021-12-17",
+  "gazette": "2022-02-14",
+  "numac": 2022030043,
+  "document_start": "2022-02-24",
+  "document_end": null,
+  "in_force": "2022-02-24",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-02-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
