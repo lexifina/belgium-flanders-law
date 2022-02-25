@@ -54,3 +54,13 @@ Een contractueel personeelslid heeft tijdens het verlof, vermeld in paragraaf 1,
 ### ART 2.
 
 ...
+
+### ART 3.
+
+Artikel 1 heeft uitwerking met ingang van 1 oktober 2021.<br>
+<br>
+&nbsp;
+
+### ART 4.
+
+De Vlaamse minister, bevoegd voor de human resources, is belast met de uitvoering van dit besluit.
