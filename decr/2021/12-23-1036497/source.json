@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036497,
+  "title": "Decreet van 2021-12-23 tot instemming met het samenwerkingsakkoord van 15 december 2020 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest tot wijziging van het samenwerkingsakkoord van 2 september 2013 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende het opnemen van luchtvaartactiviteiten in de regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap overeenkomstig Richtlijn 2008/101/EG van het Europees Parlement en de Raad van 19 november 2008 tot wijziging van Richtlijn 2003/87/EG teneinde ook luchtvaartactiviteiten op te nemen in de regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036497/VolledigDocument?datum=2022-02-27",
+  "source_sha256": "8660514291c2ea1e94a55b913ce85ad2709258873e1d9c7ef935f24914dbeae4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036497&param=informatie",
+  "as_of": "2022-02-27",
+  "made": "2021-12-23",
+  "gazette": "2022-02-17",
+  "numac": 2022030011,
+  "document_start": "2022-02-27",
+  "document_end": null,
+  "in_force": "2022-02-27",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2022-02-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
