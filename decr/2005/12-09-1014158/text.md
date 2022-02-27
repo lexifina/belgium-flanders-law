@@ -222,7 +222,7 @@ Behalve in spoedeisende gevallen en behalve in geval van toepassing van artikel 
 <br>
 De oproeping vermeldt in elk geval de plaats, de dag, het tijdstip en de agenda van de vergadering en bevat een toegelicht voorstel van beslissing. De agendapunten moeten voldoende duidelijk omschreven zijn. Voor elk agendapunt wordt het dossier dat erop betrekking heeft, ter beschikking van de provincieraadsleden gesteld vanaf de verzending van de agenda. Als een raadslid daarom verzoekt, wordt een dossier elektronisch ter beschikking gesteld.<br>
 <br>
-Het huishoudelijk reglement bepaalt de wijze waarop de oproeping van de provincieraadsleden wordt verzonden en de wijze waarop het dossier dat op de agenda betrekking heeft, ter beschikking wordt gesteld.<br>
+Het huishoudelijk reglement bepaalt de wijze waarop de oproeping van de provincieraadsleden wordt verzonden en de wijze waarop het dossier dat op de agenda betrekking heeft, ter beschikking wordt gesteld.&nbsp;Het huishoudelijk reglement bepaalt of de provincieraad of de provincieraadscommissies, vermeld in artikel 39, digitaal of hybride kunnen vergaderen en bepaalt de wijze waarop die vergaderingen plaatsvinden. De provincieraad kan alleen digitaal vergaderen in de uitzonderlijke omstandigheden, vermeld in het huishoudelijk reglement. De provincieraad kan alleen hybride vergaderen in de uitzonderlijke omstandigheden, vermeld in het huishoudelijk reglement. De Vlaamse Regering kan de minimale voorwaarden voor digitale en hybride vergaderingen bepalen.<br>
 <br>
 De provinciegriffier of de door hem aangewezen personeelsleden verstrekken aan de provincieraadsleden die erom verzoeken, technische inlichtingen over stukken die in het dossier voorkomen. Het huishoudelijk reglement bepaalt de wijze waarop die inlichtingen worden verstrekt.
 
@@ -244,7 +244,7 @@ De voorzitter zit de vergaderingen van de provincieraad voor, en opent en sluit 
 
 ### ART. 25.
 
-De voorzitter is belast met de handhaving van de orde in de vergadering. Hij kan, na een voorafgaande waarschuwing, elke toehoorder die openlijk tekens van goedkeuring of van afkeuring geeft of die op enigerlei wijze wanorde veroorzaakt, uit de zaal&nbsp;laten verwijderen.<br>
+De voorzitter is belast met de handhaving van de orde in de vergadering. Hij kan, na een voorafgaande waarschuwing, elke toehoorder die openlijk tekens van goedkeuring of van afkeuring geeft of die op enigerlei wijze wanorde veroorzaakt, uit de vergadering&nbsp;laten verwijderen.<br>
 <br>
 De voorzitter kan bovendien een proces-verbaal opmaken tegen die persoon en dat proces-verbaal bezorgen aan het Openbaar Ministerie met het oog op de eventuele vervolging van de betrokkene.<br>
 <br>
@@ -417,6 +417,9 @@ De provincieraad stelt bij de aanvang van de zittingsperiode een huishoudelijk r
 10° ...;<br>
 11° de wijze van het ter kennis brengen van de beslissingen, vermeld in artikel 51, vijfde lid;<br>
 12° de nadere voorwaarden waaronder het recht om verzoekschriften in te dienen wordt uitgeoefend, en de wijze waarop de verzoekschriften worden behandeld;<br>
+13° de keuze om digitaal of hybride te vergaderen en de wijze waarop;<br>
+14° de uitzonderlijke omstandigheden waarin de provincieraad digitaal kan vergaderen, als de mogelijkheid om digitaal te vergaderen in het huishoudelijk reglement is opgenomen;<br>
+15° de uitzonderlijke omstandigheden waarin de provincieraad hybride kan vergaderen, als de mogelijkheid om hybride te vergaderen in het huishoudelijk reglement is opgenomen.<br>
 <br>
 De provincieraad kan het huishoudelijk reglement te allen tijde wijzigen.
 
@@ -593,7 +596,9 @@ De besluiten worden genomen bij volstrekte meerderheid van stemmen. Onder volstr
 
 ### ART. 55.
 
-De deputatie neemt bij de aanvang van de zittingsperiode een huishoudelijk reglement aan waarin ze nadere regels vaststelt over haar werking.
+De deputatie neemt bij de aanvang van de zittingsperiode een huishoudelijk reglement aan waarin ze nadere regels vaststelt over haar werking.<br>
+<br>
+Het huishoudelijk reglement regelt minstens dat de deputatie al dan niet digitaal of hybride kan vergaderen en de wijze waarop die vergaderingen worden georganiseerd. De Vlaamse Regering kan de minimale voorwaarden voor digitale en hybride vergaderingen bepalen.
 
 ### ART. 56.
 
