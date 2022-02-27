@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036496,
+  "title": "Decreet van 2021-12-23 tot wijziging van het Provinciedecreet van 9 december 2005, wat het digitaal en hybride vergaderen betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036496/VolledigDocument?datum=2022-02-27",
+  "source_sha256": "2807cb403c1501cac8672cf3bdbe4c6eac1688b73b93662ff0e3fcd85aff4f6c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036496&param=informatie",
+  "as_of": "2022-02-27",
+  "made": "2021-12-23",
+  "gazette": "2022-02-17",
+  "numac": 2022030020,
+  "document_start": "2022-02-27",
+  "document_end": null,
+  "in_force": "2022-02-27",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2022-02-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
