@@ -40,8 +40,18 @@ Ter uitvoering van artikel 46/2, eerste lid, 1°, van het decreet van 7 juni 201
 <br>
 Het niveau van kennis van het Nederlands wordt getest voor de vaardigheden lezen, luisteren, spreken (productie en interactie) en schrijven. Naargelang het geval worden ofwel de vier vaardigheden ofwel welbepaalde vaardigheden getest. De taaltesten worden georganiseerd voor het publieke en het professionele domein van niveau A1 tot en met B2.<br>
 <br>
-Voor de afname van de taaltesten stelt de minister een digitaal testinstrumentarium ter beschikking. Het EVA, het stedelijk EVA en het Huis gebruiken uitsluitend dat testinstrumentarium.<br>
+Voor de afname van de taaltesten stelt het EVA een digitaal testinstrumentarium ter beschikking. Het EVA, het stedelijk EVA en het Huis gebruiken uitsluitend dat testinstrumentarium.<br>
 &nbsp;
+
+### ART 2/1.
+
+Ter uitvoering van artikel 46/2, tweede lid, van het decreet van 7 juni 2013 is deelname aan de taaltest afhankelijk van een retributie van negentig euro voor de vaardigheden schrijven en lezen, en een retributie van negentig euro voor de vaardigheden luisteren en spreken.<br>
+<br>
+Anderstaligen die de taaltest afleggen in functie van het behalen van een vrijstelling voor het vormingspakket Nederlands als tweede taal in het kader van het inburgeringstraject, zijn vrijgesteld van het betalen van de retributies, vermeld in het eerste lid.<br>
+<br>
+De retributies, vermeld in het eerste lid, komen toe aan het EVA, het stedelijk EVA of het Huis.<br>
+<br>
+Het EVA, het stedelijk EVA en het Huis maken gezamenlijk afspraken over de wijze waarop de retributie wordt geïnd, en delen die afspraken mee aan de anderstalige in het betalingsverzoek.
 
 ### ART 3.
 
@@ -78,7 +88,7 @@ Als de anderstalige niet akkoord gaat met de resultaten van zijn afgelegde taalt
 <br>
 Op straffe van onontvankelijkheid wordt het beroep schriftelijk ingediend binnen dertig dagen na ontvangst van de resultaten.<br>
 <br>
-De beroepscommissie oordeelt of de procedure correct verlopen is en neemt een beslissing binnen een termijn van zestig dagen na ontvangst van het beroep.<br>
+De beroepscommissie is bevoegd om de oorspronkelijke beslissing te bevestigen of te wijzigen en neemt een beslissing binnen een termijn van zestig dagen na ontvangst van het beroep.<br>
 &nbsp;
 
 ### ART 8.

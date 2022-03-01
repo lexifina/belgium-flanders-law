@@ -2,16 +2,16 @@
   "codex_id": 1029295,
   "title": "Besluit van de Vlaamse Regering van 2018-04-20 tot vaststelling van de modaliteiten voor het testen en het uitreiken van de bewijzen van het taalniveau Nederlands, vermeld in artikel 46/2 van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid en houdende wijziging van artikel 7 van het besluit van de Vlaamse Regering van 3 mei 2013 houdende uitvoering van het decreet van 18 november 2011 tot regeling van het bewijs van taalkennis, vereist door de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029295/VolledigDocument?datum=2018-05-26",
-  "source_sha256": "bc55f0c45037c9abab85b2bc3d5d69082eab36db94f79c55b5c60eb6c0d9d567",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029295/VolledigDocument?datum=2022-03-01",
+  "source_sha256": "3997b3301fd73d4fdb9ffaa60517e2055c611a50c3f1ca312b00690a3b4758a1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029295&param=informatie",
-  "as_of": "2018-05-26",
+  "as_of": "2022-03-01",
   "made": "2018-04-20",
   "gazette": "2018-05-16",
   "numac": 2018030948,
   "document_start": "2018-05-26",
   "document_end": null,
-  "in_force": "2018-05-26",
-  "article_versions": 11,
-  "record_form": "consolidated version as in force on 2018-05-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-03-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2022-03-01; future article versions excluded; article text as the API gives it"
 }
