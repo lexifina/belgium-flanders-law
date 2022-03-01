@@ -44,3 +44,7 @@ In artikel 9 van hetzelfde besluit wordt het getal "20" telkens vervangen door h
 ### ART 4.
 
 In artikel 10 van hetzelfde besluit wordt het getal "20" vervangen door de het getal "12".
+
+### ART 6.
+
+In artikel 10, §3, 1°, van het besluit van de Vlaamse Regering van 25 februari 2022 tot bepaling van de regels om een vergoeding toe te kennen voor de verstrekking van veevoeder met een methaanreducerend effect aan melkvee wordt de zinsnede "minstens 30% graskuil" vervangen door de zinsnede "maximaal 30% graskuil".&nbsp;
