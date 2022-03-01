@@ -2,16 +2,16 @@
   "codex_id": 1037022,
   "title": "Besluit van de Vlaamse Regering van 2022-02-11 tot wijziging van het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers en het ministerieel besluit van 26 juli 2001 tot vaststelling van het bijdragesysteem voor de gebruiker van gezinszorg, en tot toekenning van een subsidie aan de vzw Socialistische Actie Blankenberge en aan het vormingsfonds gezinszorg Vlaamse Gemeenschap, wat betreft de uitvoering van het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037022/VolledigDocument?datum=2022-01-01",
-  "source_sha256": "f4f67bcc0bf52cd67aaad3a8a64bfa65b1693ea525a40532014d77c149e51a50",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037022/VolledigDocument?datum=2022-03-01",
+  "source_sha256": "77f5a7061ed51d3b8cdd69857ed6518e5c457e6438e00cad6546b2c3e6943957",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037022&param=informatie",
-  "as_of": "2022-01-01",
+  "as_of": "2022-03-01",
   "made": "2022-02-11",
   "gazette": "2022-05-13",
   "numac": 2022040612,
   "document_start": "2021-01-01",
   "document_end": null,
-  "in_force": "2022-01-01",
-  "article_versions": 35,
-  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-03-01",
+  "article_versions": 36,
+  "record_form": "consolidated version as in force on 2022-03-01; future article versions excluded; article text as the API gives it"
 }

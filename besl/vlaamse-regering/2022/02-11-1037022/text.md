@@ -209,6 +209,10 @@ Aan artikel 86 van bijlage 2 bij hetzelfde besluit, gewijzigd bij het besluit va
 
 ## HOOFDSTUK 3. Wijziging van bijlage II bij het ministerieel besluit van 26 juli 2001 tot vaststelling van het bijdragesysteem voor de gebruiker van gezinszorg
 
+### ART 26.
+
+In bijlage II bij het ministerieel besluit van 26 juli 2001 tot vaststelling van het bijdragesysteem voor de gebruiker van gezinszorg, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 15 maart 2019, wordt de zin "De diensten verhogen de vastgestelde bijdrage in dat geval met een toeslag van 30% voor de uren gezinszorg die verleend worden op weekdagen tussen 20 uur en 7 uur en op zaterdagen, en met een toeslag van 100% voor de uren gezinszorg die verleend worden op zon- en feestdagen." vervangen door de zin "De diensten verhogen de vastgestelde bijdrage in dat geval met een toeslag van 15% voor de uren gezinszorg die verleend worden op weekdagen tussen 18 uur en 20 uur, met een toeslag van 30% voor de uren gezinszorg die verleend worden op weekdagen tussen 20 uur en 7 uur en op zaterdagen, en met een toeslag van 100% voor de uren gezinszorg die verleend worden op zon- en feestdagen.".
+
 ## HOOFDSTUK 4. Vaststelling van een subsidie aan de erkende dienst voor logistieke hulp van de vzw Socialistische Actie Blankenberge
 
 ### ART 27.
