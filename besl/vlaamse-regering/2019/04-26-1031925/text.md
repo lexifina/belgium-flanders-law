@@ -111,17 +111,11 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 14.
 
-Bij de oriëntering van anderstaligen die niet beschikken over een studiebewijs Nederlands tweede taal naar een centrum als vermeld in artikel 2, eerste lid, 4°, a), van het decreet van 7 juni 2013, kan het centrum voor de start van de cursus na akkoord van in voorkomend geval het EVA, het stedelijk EVA of het Huis op gemotiveerde wijze afwijken van het bindende karakter van de niveaubepaling en de snelheid van leren van de anderstalige.<br>
-<br>
-Na de start van een cursus kan het centrum op gemotiveerde wijze afwijken van het bindende karakter van de niveaubepaling en de snelheid van leren. Het centrum deelt de beslissing om af te wijken en de motivering mee aan in voorkomend geval het EVA, het stedelijk EVA of het Huis.
+...
 
 ### ART 15.
 
-Anderstaligen worden op basis van een leervraagdetectie georiënteerd naar een centrum als vermeld in artikel 2, eerste lid, 4°, b), c) en d), van het decreet van 7 juni 2013.<br>
-De leervraagdetectie is gebaseerd op:<br>
-1° de vraag en de motivatie van de anderstalige en de verwachtingen van het EVA, het stedelijk EVA of het Huis;<br>
-2° de leerprofielbepaling van het EVA, het stedelijk EVA of het Huis;<br>
-3° de verwachtingen van VDAB, Actiris of het OCMW als de anderstalige naar het EVA, het stedelijk EVA of het Huis is doorverwezen door een van die actoren.
+...
 
 ## HOOFDSTUK 4. Wijzigingen van het besluit van de Vlaamse Regering van 29 januari 2016 houdende de uitvoering van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid
 
