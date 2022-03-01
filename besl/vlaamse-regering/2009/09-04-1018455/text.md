@@ -32,86 +32,246 @@ In een instelling van het buitengewoon secundair onderwijs kunnen met de punten 
 
 ### ART. 6.
 
-Ambt
-<p>§ 1. Als een instelling voor gewoon of buitengewoon secundair onderwijs punten aanwendt voor de oprichting van een betrekking in een wervingsambt van het ondersteunend personeel, worden de volgende punten in rekening gebracht :<br>
-</p>
+<p>§ 1. Als een instelling voor gewoon of buitengewoon secundair onderwijs punten aanwendt voor de oprichting van een betrekking in een wervingsambt van het ondersteunend personeel, worden de punten op de volgende wijze in rekening gebracht:</p>
 
-<table border="1" cellpadding="0">
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; height:11.35pt">
-			<p>Ambt</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; height:11.35pt">
-			<p>salarisschaal</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; height:11.35pt">
-			<p>puntenwaarde</p>
-			</td>
+			<td>Uren opdracht</td>
+			<td>63 punten<br>
+			ssc. 122, 200,<br>
+			201, 202 of 203</td>
+			<td>82 punten<br>
+			ssc. 100, 104, 106, 123, 125, 126, 158, 163, 164 of 208</td>
+			<td>120 punten<br>
+			ssc. 542</td>
 		</tr>
 		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; height:11.35pt">
-			<p>Administratief medewerker</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; height:11.35pt">
-			<p>122, 200, 201, 202 of 203</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; height:11.35pt">
-			<p>63</p>
-			</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;aantal punten</td>
+			<td>aantal punten</td>
+			<td>aantal punten</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; height:11.35pt">
-			<p>100, 104, 106, 123, 125, 126, 158, 163, 164 of 208</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; height:11.35pt">
-			<p>82</p>
-			</td>
+			<td>1</td>
+			<td>2</td>
+			<td>2</td>
+			<td>3</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; height:11.35pt">
-			<p>542</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; height:11.35pt">
-			<p>120</p>
-			</td>
+			<td>2</td>
+			<td>4</td>
+			<td>5</td>
+			<td>7</td>
 		</tr>
 		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; height:11.35pt">
-			<p>Opvoeder</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; height:11.35pt">
-			<p>122, 200, 201, 202 of 203</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; height:11.35pt">
-			<p>63</p>
-			</td>
+			<td>3</td>
+			<td>5</td>
+			<td>7</td>
+			<td>10</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; height:11.35pt">
-			<p>100, 104, 106, 123, 125, 126, 158, 163, 164 of 208</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; height:11.35pt">
-			<p>82</p>
-			</td>
+			<td>4</td>
+			<td>7</td>
+			<td>9</td>
+			<td>13</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; height:11.35pt">
-			<p>542</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; height:11.35pt">
-			<p>120</p>
-			</td>
+			<td>5</td>
+			<td>9</td>
+			<td>11</td>
+			<td>17</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>11</td>
+			<td>14</td>
+			<td>20</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>12</td>
+			<td>16</td>
+			<td>23</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>14</td>
+			<td>18</td>
+			<td>27</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>16</td>
+			<td>21</td>
+			<td>30</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>18</td>
+			<td>23</td>
+			<td>33</td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td>19</td>
+			<td>25</td>
+			<td>37</td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>21</td>
+			<td>27</td>
+			<td>40</td>
+		</tr>
+		<tr>
+			<td>13</td>
+			<td>23</td>
+			<td>30</td>
+			<td>43</td>
+		</tr>
+		<tr>
+			<td>14</td>
+			<td>25</td>
+			<td>32</td>
+			<td>47</td>
+		</tr>
+		<tr>
+			<td>15</td>
+			<td>26</td>
+			<td>34</td>
+			<td>50</td>
+		</tr>
+		<tr>
+			<td>16</td>
+			<td>28</td>
+			<td>36</td>
+			<td>53</td>
+		</tr>
+		<tr>
+			<td>17</td>
+			<td>30</td>
+			<td>39</td>
+			<td>57</td>
+		</tr>
+		<tr>
+			<td>18</td>
+			<td>31,5</td>
+			<td>41</td>
+			<td>60</td>
+		</tr>
+		<tr>
+			<td>19</td>
+			<td>33</td>
+			<td>43</td>
+			<td>63</td>
+		</tr>
+		<tr>
+			<td>20</td>
+			<td>35</td>
+			<td>46</td>
+			<td>67</td>
+		</tr>
+		<tr>
+			<td>21</td>
+			<td>37</td>
+			<td>48</td>
+			<td>70</td>
+		</tr>
+		<tr>
+			<td>22</td>
+			<td>39</td>
+			<td>50</td>
+			<td>73</td>
+		</tr>
+		<tr>
+			<td>23</td>
+			<td>40</td>
+			<td>52</td>
+			<td>77</td>
+		</tr>
+		<tr>
+			<td>24</td>
+			<td>42</td>
+			<td>55</td>
+			<td>80</td>
+		</tr>
+		<tr>
+			<td>25</td>
+			<td>44</td>
+			<td>57</td>
+			<td>83</td>
+		</tr>
+		<tr>
+			<td>26</td>
+			<td>46</td>
+			<td>59</td>
+			<td>87</td>
+		</tr>
+		<tr>
+			<td>27</td>
+			<td>47</td>
+			<td>62</td>
+			<td>90</td>
+		</tr>
+		<tr>
+			<td>28</td>
+			<td>49</td>
+			<td>64</td>
+			<td>93</td>
+		</tr>
+		<tr>
+			<td>29</td>
+			<td>51</td>
+			<td>66</td>
+			<td>97</td>
+		</tr>
+		<tr>
+			<td>30</td>
+			<td>53</td>
+			<td>68</td>
+			<td>100</td>
+		</tr>
+		<tr>
+			<td>31</td>
+			<td>54</td>
+			<td>71</td>
+			<td>103</td>
+		</tr>
+		<tr>
+			<td>32</td>
+			<td>56</td>
+			<td>73</td>
+			<td>107</td>
+		</tr>
+		<tr>
+			<td>33</td>
+			<td>58</td>
+			<td>75</td>
+			<td>110</td>
+		</tr>
+		<tr>
+			<td>34</td>
+			<td>60</td>
+			<td>77</td>
+			<td>113</td>
+		</tr>
+		<tr>
+			<td>35</td>
+			<td>61</td>
+			<td>80</td>
+			<td>117</td>
+		</tr>
+		<tr>
+			<td>36</td>
+			<td>63</td>
+			<td>82</td>
+			<td>120</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Als een halftijdse betrekking in een ambt van het ondersteunend personeel wordt opgericht, worden voormelde puntenwaarden gehalveerd.<br>
-<br>
+<p><br>
 § 2. Als een personeelslid wordt belast met een betrekking in uitvoering van een volgende beslissing of procedure, bedraagt, in afwijking op paragraaf 1, de puntenwaarde van een voltijdse betrekking steeds 63 punten en van een halftijdse betrekking steeds 31,5 punten :<br>
 1° een beslissing van Medex als vermeld in artikel 5, § 1bis en § 1ter, van het decreet van 9 april 1992 betreffende het onderwijs-III;<br>
 2° een procedure voor reïntegratie als vermeld in artikel 5, § 1quater van het decreet van 9 april 1992 betreffende het onderwijs-III.<br>

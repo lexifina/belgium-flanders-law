@@ -2,16 +2,16 @@
   "codex_id": 1018455,
   "title": "Besluit van de Vlaamse Regering van 2009-09-04 betreffende de globale puntenenveloppe in het secundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018455/VolledigDocument?datum=2015-09-01",
-  "source_sha256": "5e651770fd75723808b418094bbe60f22a9ffa7c932303511a56284f3c73059f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018455/VolledigDocument?datum=2022-03-01",
+  "source_sha256": "88aa335f0c7dd38f4f470eb8bc022b61b27b835178139a080a2692258627fa6f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018455&param=informatie",
-  "as_of": "2015-09-01",
+  "as_of": "2022-03-01",
   "made": "2009-09-04",
   "gazette": "2009-10-16",
   "numac": 2009204590,
   "document_start": "2009-09-01",
   "document_end": null,
-  "in_force": "2015-09-01",
+  "in_force": "2022-03-01",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2015-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-03-01; future article versions excluded; article text as the API gives it"
 }
