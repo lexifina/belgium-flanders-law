@@ -20,6 +20,12 @@ In artikel 42, § 3, van het decreet van 3 juli 2015 houdende bepalingen tot beg
 
 ## Afdeling 1 Aanpassing Integratie- en Inburgeringsdecreet
 
+### ART 3.
+
+In artikel 46/2 van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid wordt tussen het eerste en het tweede lid een lid ingevoegd, dat luidt als volgt:<br>
+"Deelname aan de testen is afhankelijk van de betaling van een retributie. De Vlaamse Regering stelt het bedrag van de retributie vast. De Vlaamse Regering kan vrijstellingen verlenen.".<br>
+&nbsp;
+
 ## Afdeling 2 Machtiging vervreemding domeingoederen door Vlaamse Regering
 
 ### ART 4.
