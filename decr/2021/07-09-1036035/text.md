@@ -1169,6 +1169,15 @@ b) de persoon die met toepassing van artikel 6.11, derde of vierde lid, van rech
 5° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
 "De Vlaamse Regering kan in de gevallen die ze bepaalt, afwijken van de vereiste van duurzame bewoning voor de rationele bezetting, vermeld in het eerste lid, 2°. ".
 
+### ART 159.
+
+In artikel 6.2, eerste lid, van dezelfde codex wordt de zin "De Vlaamse Regering kan specifieke voorwaarden vaststellen voor de woningen die worden verhuurd door:<br>
+1° de VMSW en de sociale huisvestingsmaatschappijen;<br>
+2° het VWF, na advies van het VWF;<br>
+3° de gemeenten en intergemeentelijke samenwerkingsverbanden, na advies van de Vereniging van Vlaamse Steden en Gemeenten;<br>
+4° de OCMW's en de welzijnsverenigingen, na advies van de Vereniging van Vlaamse Steden en Gemeenten;<br>
+5° de sociale verhuurkantoren." opgeheven.
+
 ### ART 160.
 
 Aan boek 6, deel 1, van dezelfde codex wordt een artikel 6.3/1 toegevoegd, dat luidt als volgt:<br>
@@ -1238,12 +1247,25 @@ Aan boek 6, deel 1, van dezelfde codex wordt een artikel 6.3/2 toegevoegd, dat l
 <br>
 Binnen de perken van de kredieten die daarvoor op de begroting van het Vlaamse Gewest ingeschreven worden, kan de Vlaamse Regering, onder de voorwaarden die ze bepaalt, een vergoeding betalen aan de verhuurder die een beroep doet op de private partners die aangeduid zijn in de raamovereenkomst, vermeld in het eerste lid.".
 
+### ART 177.
+
+In artikel 6.18 van dezelfde codex wordt het eerste lid opgeheven.
+
+### ART 179.
+
+In artikel 6.23, eerste lid, van dezelfde codex wordt de zinsnede ", alsmede met de specificiteit van de verhuurder zoals bepaald in artikel 6.2, eerste lid" opgeheven.
+
 ### ART 190.
 
 In artikel 6.34 van dezelfde codex worden de volgende wijzigingen aangebracht:<br>
 1° aan paragraaf 1 wordt de volgende zin toegevoegd:<br>
 "Voor de huurder die de huurovereenkomst opzegt, eindigt het woonrecht, vermeld in artikel 6.27, dat hij op dat ogenblik uitoefent.";<br>
 2° in paragraaf 2, tweede lid, worden de woorden "geldt voor de laatste huurder" vervangen door de woorden "kan de laatste huurder de huurovereenkomst opzeggen met".
+
+### ART 191.
+
+In boek 6, deel 10, van dezelfde codex wordt het opschrift van titel 4 vervangen door wat volgt:<br>
+"Titel 4. Beëindiging van rechtswege".
 
 ### ART 192.
 
@@ -1254,6 +1276,32 @@ In artikel 6.35 van dezelfde codex worden de volgende wijzigingen aangebracht:<b
 "Als de huurovereenkomst van rechtswege wordt beëindigd, eindigt voor de huurder die de woning niet meer als hoofdverblijfplaats betrekt, het woonrecht, vermeld in artikel 6.27.";<br>
 3° aan het vierde lid wordt de volgende zin toegevoegd:<br>
 "In dat geval behoudt de huurder het woonrecht, vermeld in artikel 6.27.".
+
+### ART 193.
+
+Artikel 6.36 van dezelfde codex wordt vervangen door wat volgt:<br>
+<br>
+"Art. 6.36. § 1. Met behoud van de toepassing van paragraaf 2 zijn de bepalingen van dit boek van toepassing op de sociale huurwoningen, met uitzondering van de woningen die onder de voorwaarden, gesteld door de Vlaamse Regering:<br>
+1° worden verhuurd aan openbare besturen, aan welzijnsof gezondheidsvoorzieningen of aan organisaties die de Vlaamse Regering daartoe erkent;<br>
+2° worden verhuurd of ter beschikking worden gesteld aan de categorieën van personen die de Vlaamse Regering bepaalt.<br>
+<br>
+§ 2. De verhuurder kan sociale huurwoningen die leegstaan in afwachting van renovatie, sloop of verkoop, verhuren aan openbare besturen, welzijnsof gezondheidsvoorzieningen, organisaties die de Vlaamse Regering daartoe erkent of aan natuurlijke personen. Die instanties, met uitzondering van de natuurlijke personen, kunnen de sociale huurwoning onderverhuren.<br>
+<br>
+Als een natuurlijke persoon de sociale huurwoning tot hoofdverblijfplaats bestemt, zijn de bepalingen van titel II van het Vlaams Woninghuurdecreet van toepassing, met uitzondering van de bepalingen die de Vlaamse Regering aanduidt, van toepassing op de hoofden onderhuurovereenkomst of op de huurovereenkomst. Daarnaast kan de Vlaamse Regering aanvullende bepalingen uitwerken.<br>
+<br>
+De Vlaamse Regering bepaalt de erkenningsvoorwaarden, de termijn dat de erkenning geldt, en de procedure voor de erkenning en eventuele opheffing van de erkenning voor de organisaties, vermeld in het eerste lid.".
+
+### ART 194.
+
+In artikel 6.37 van dezelfde codex worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de zinsnede ", alsook voor het opleggen van de administratieve geldboetes" opgeheven;<br>
+2° het tweede lid wordt opgeheven;<br>
+3° in het derde lid wordt de zinsnede "3.37 en" opgeheven.
+
+### ART 195.
+
+In artikel 6.43, § 1, van dezelfde codex wordt voor het eerste lid een lid ingevoegd, dat luidt als volgt:<br>
+"De toezichthouders, vermeld in artikel 4.79, zijn bevoegd voor het opleggen van administratieve geldboetes.".
 
 ### ART 196.
 
