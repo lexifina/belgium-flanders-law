@@ -2,16 +2,16 @@
   "codex_id": 1035125,
   "title": "Besluit van de Vlaamse Regering van 2021-01-22 over de handhaving bij de bescherming van de verkeersinfrastructuur in geval van bijzonder wegtransport",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035125/VolledigDocument?datum=2021-02-06",
-  "source_sha256": "8e041c52705838fe28921ebc39650c4f2a776d2473cf13f1e82cd3c601746acc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035125/VolledigDocument?datum=2022-03-01",
+  "source_sha256": "a93b006c1ea5fe285e99254921fcdbcd079e6a05f0c2aadb1167ff074e29b59b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035125&param=informatie",
-  "as_of": "2021-02-06",
+  "as_of": "2022-03-01",
   "made": "2021-01-22",
   "gazette": "2021-01-27",
   "numac": 2021040100,
   "document_start": null,
   "document_end": null,
-  "in_force": "2021-02-06",
-  "article_versions": 21,
-  "record_form": "consolidated version as in force on 2021-02-06; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-03-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2022-03-01; future article versions excluded; article text as the API gives it"
 }
