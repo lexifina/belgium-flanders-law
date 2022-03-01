@@ -34,7 +34,8 @@ De hierna genoemde personeelsleden van de afdeling Handhaving van het Departemen
 9° Ruysseveldt Geert;<br>
 10° Van Boeckel Krista;<br>
 11° Vercauteren Mart;<br>
-12° Verheyden Elke.
+12° Verheyden Elke;<br>
+13° Uten Yorne.
 
 ### ART 2.
 
