@@ -760,7 +760,7 @@ Worden opgeheven voorzover zij bekwaamheidsbewijzen vaststellen wat de instellin
 
 ### ART. 19bis.
 
-De bekwaamheidsbewijzen en salarisschalen, vermeld in bijlage I, die bij dit besluit is gevoegd, treden in werking op 1 januari 2022.
+De bekwaamheidsbewijzen en salarisschalen, vermeld in bijlage I, die bij dit besluit is gevoegd, treden in werking op 1 maart 2022.
 
 ### ART. 20.
 
@@ -772,8 +772,8 @@ Onverminderd het bepaalde in artikel 13, § 3 treedt dit besluit in werking op 1
 
 ### BIJLAGE I.
 
-<a href="https://www.ejustice.just.fgov.be/cgi/summary_body.pl?language=nl&amp;pub_date=#EDITION1#page=967">Bekwaamheidsbewijzen en salarisschalen in het buitengewoon basisonderwijs vanaf 1 januari 2022</a><br>
-<br>
 <a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/14_2.pdf#page=1872">Bekwaamheidsbewijzen en salarisschalen in het buitengewoon secundair onderwijs vanaf 1 januari 2022</a><br>
+<br>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/14_2.pdf#page=2010">Bekwaamheidsbewijzen en salarisschalen in het buitengewoon basisonderwijs vanaf 1 maart 2022</a><br>
 <br>
 &nbsp;
