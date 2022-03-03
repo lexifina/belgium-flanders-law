@@ -20,7 +20,8 @@ De Vlaamse minister van Institutionele Hervormingen, Havens, Landbouw, Zeevisser
 9° minister : de Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij;<br>
 10° producent : de natuurlijke persoon of rechtspersoon die alleen of gegroepeerd een melkproductiebedrijf uitbaat;<br>
 11° RMO : de rijdende melkontvangst;<br>
-12° kleine koper: een koper die in het afgelopen kalenderjaar maximaal 500.000 liter melk opgehaald heeft bij maximaal vijf verschillende producenten.</p>
+12° kleine koper: een koper die in het afgelopen kalenderjaar maximaal 500.000 liter melk opgehaald heeft bij maximaal vijf verschillende producenten;<br>
+13° verordening (EU) nr. 1308/2013: verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad.</p>
 
 ### ART. 1/1.
 
@@ -28,11 +29,38 @@ Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besl
 
 ## [HOOFDSTUK I/1. Erkenning van kopers (ing. BVR 17 december 2021, art. 2, I: 3 maart 2022)]
 
+### ART 1/2.
+
+Iedere koper die als onderneming rauwe melk wil kopen bij een melkproductiebedrijf om die rauwe melk in het kader van een contract in te zamelen, te verpakken, op te slaan, te koelen of te verwerken, of door te verkopen aan een of meer ondernemingen die melk of andere zuivelproducten behandelen of verwerken, moet erkend zijn door de bevoegde entiteit of door de bevoegde overheid van het Waalse Gewest.<br>
+<br>
+Een koper kan erkend worden in het Vlaamse Gewest als hij aan al de volgende voorwaarden voldoet:<br>
+1° hij beschikt over een ondernemingsnummer in de Kruispuntbank van Ondernemingen bij de FOD Economie;<br>
+2° zijn maatschappelijke zetel ligt in het Vlaamse Gewest;<br>
+3° hij voldoet aan de definitie van koper, vermeld in artikel 1, 3°.
+
+### ART 1/3.
+
+De erkenningsaanvraag wordt op digitale wijze ingediend bij de bevoegde entiteit en bevat al de volgende elementen:<br>
+1° identificatiegegevens van de onderneming;<br>
+2° identificatiegegevens van de personen die de onderneming zullen vertegenwoordigen op het e-loket;<br>
+3° de verbintenis om de voorwaarden, vermeld in dit besluit, na te leven.<br>
+<br>
+De bevoegde entiteit beoordeelt de erkenningsaanvraag, vermeld in het eerste lid, en beslist erover.<br>
+<br>
+De koper meldt de stopzetting van de activiteiten als koper aan de bevoegde entiteit.<br>
+<br>
+De bevoegde entiteit kan de erkenning van de koper intrekken in al de volgende gevallen:<br>
+1° de koper vraagt de intrekking;<br>
+2° er wordt vastgesteld dat de koper de verplichtingen, vermeld in dit besluit, niet naleeft;<br>
+3° de koper zet zijn activiteiten stop.
+
 ## HOOFDSTUK II. Toepassingsgebied
 
 ### ART. 2.
 
-Met uitzondering van de bepalingen in hoofdstuk V is dit besluit van   toepassing op de rauwe koemelk, geleverd aan kopers door alle   melkproductiebedrijven in het Vlaamse Gewest.<BR><BR>De bepalingen in hoofdstuk   V zijn van toepassing op de kopers met maatschappelijke zetel in het Vlaamse   Gewest.<BR>
+Met uitzondering van de bepalingen in hoofdstuk V&nbsp;en V/1 is dit besluit van toepassing op de rauwe koemelk, geleverd aan kopers door alle melkproductiebedrijven in het Vlaamse Gewest.<br>
+<br>
+De bepalingen in hoofdstuk V zijn van toepassing op de kopers met maatschappelijke zetel in het Vlaamse Gewest.
 
 ## HOOFDSTUK III. Vaststelling van de samenstelling van melk
 
@@ -132,9 +160,33 @@ De minister kan de voorschriften vaststellen voor de melkafrekeningen.<br />
 
 ## [Afdeling 1. - Maandelijkse aangifte van gegevens (ing. BVR 17 december 2021, art. 4, I: 3 maart 2022)]
 
+### ART 8/1.
+
+Deze afdeling voorziet in de uitvoering van artikel 151 van verordening (EU) nr. 1308/2013.
+
+### ART 8/2.
+
+Iedere koper, erkend door de bevoegde entiteit van het Vlaams Gewest, bezorgt elke maand, uiterlijk op de 20ste van de maand om 24 uur, de gegevens, vermeld in artikel 151 van verordening (EU) nr. 1308/2013 en die betrekking hebben op producenten, gevestigd in België, aan de bevoegde entiteit.
+
 ## [Afdeling 2. - Jaarlijkse aangifte van gegevens (ing. BVR 17 december 2021, art. 4, I: 3 maart 2022)]
 
+### ART 8/3.
+
+Iedere koper, erkend door de bevoegde entiteit van het Vlaams Gewest bezorgt elk jaar, uiterlijk op 31 januari om 24 uur, de individuele leveringsgegevens van alle producenten, gevestigd in België, waar hij melk heeft opgehaald in het voorgaande kalenderjaar, aan de bevoegde entiteit.
+
 ## [HOOFDSTUK V/2. Verwerking en bescherming van de gegevens (ing. BVR 17 december 2021, art. 5, I: 3 maart 2022)]
+
+### ART 8/4.
+
+De bevoegde entiteit kan voor de erkenning, vermeld in artikel 1/2, en voor de controle op de naleving van de bepalingen opgenomen in dit besluit de nodige gegevens en identificatiegegevens van de koper en de personen die de onderneming zullen vertegenwoordigen in het e-loket uit de Kruispuntbank van Ondernemingen halen en verwerken.
+
+### ART 8/5.
+
+De bevoegde entiteit verwerkt de gegevens, vermeld in artikel 1/3, voor de beoordeling van de erkenningsaanvraag en voor de controle op de naleving van de bepalingen opgenomen in dit besluit, en verwerkt de gegevens, vermeld in artikel 8/2 en 8/3.<br>
+<br>
+De bevoegde entiteit treedt op als verwerkingsverantwoordelijke voor de verwerking, vermeld in het eerste lid.<br>
+<br>
+De bevoegde entiteit zorgt voor de bescherming en de vertrouwelijkheid van de gegevens.
 
 ## HOOFDSTUK VI. Strafbepalingen
 
