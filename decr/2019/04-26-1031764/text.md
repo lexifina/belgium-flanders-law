@@ -11,6 +11,7 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 In dit decreet wordt verstaan onder:<br>
 1° aanvullend net: de vervoerslaag, vermeld in artikel 32, § 3;<br>
 2° Agentschap Wegen en Verkeer: het agentschap, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 7 oktober 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap Wegen en Verkeer;<br>
+2° /1 algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
 3° attractiepool: een plaats met een groot verplaatsingsgenererend vermogen, waaronder zones van tewerkstelling, onderwijs, handel, sport, cultuur, recreatie, gezondheidszorg en mobiliteitsknooppunten;<br>
 4° combimobiliteit: multimodaal reisgedrag waarbij personen voor hun verplaatsingen verschillende vervoersmiddelen combineren. De beschikbaarheid van verschillende vervoersmodi maakt het mogelijk vlot te schakelen tussen verschillende vervoersmiddelen;<br>
 5° departement Mobiliteit en Openbare Werken: het departement binnen het homogene beleidsdomein, vermeld in artikel 28, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, waaraan de beleidsondersteunende opdrachten inzake mobiliteit worden toevertrouwd;<br>
@@ -36,7 +37,8 @@ In dit decreet wordt verstaan onder:<br>
 24° vervoer op maat: de vervoerslaag, vermeld in artikel 32, § 4;<br>
 25° vervoerregio: een cluster van gemeenten die een samenhangend geheel vormen voor mobiliteit met een vervoerskern en een invloedsgebied;<br>
 26° vervoerregioraad: het orgaan, vermeld in artikel 7, § 1;<br>
-27° Vlaamse Mobiliteitsvisie: de mobiliteitsvisie, vermeld in artikel 10/1.
+27° Vlaamse Mobiliteitsvisie: de mobiliteitsvisie, vermeld in artikel 10/1;<br>
+28° werkdagen: elke dag met uitzondering van zaterdagen, zondagen en wettelijke feestdagen.
 
 ## HOOFDSTUK 2. Uitgangspunten
 
@@ -172,9 +174,7 @@ De Vlaamse Mobiliteitsvisie is een strategische langetermijnvisie op de gewenste
 
 ### ART 10/2.
 
-De Vlaamse Mobiliteitsvisie is een beleidskader voor het Vlaamse Gewest, de diensten en agentschappen die eronder ressorteren, de provincies en gemeenten, en de publiekrechtelijke en privaatrechtelijke rechtspersonen die in het Vlaamse Gewest belast zijn met taken van openbaar nut.<br>
-<br>
-De entiteiten, vermeld in het eerste lid, kunnen gemotiveerd afwijken van de Vlaamse Mobiliteitsvisie.
+De Vlaamse Mobiliteitsvisie is een beleidskader voor het Vlaamse Gewest, de diensten en agentschappen die eronder ressorteren, de provincies en gemeenten, en de publiekrechtelijke en privaatrechtelijke rechtspersonen die in het Vlaamse Gewest belast zijn met taken van openbaar nut.
 
 ### ART 10/3.
 
@@ -364,12 +364,12 @@ In het maatregelenpakket worden de doelstellingen vertaald, concrete maatregelen
 Bij de vaststelling of herziening van de mobiliteitsplannen, het verkeersveiligheidsplan en bij het opstellen van de voortgangsrapporten wordt altijd rekening gehouden met de resultaten van de mobiliteitsmonitoring, vermeld in deze paragraaf.<br>
 <br>
 Om het mobiliteitsmonitoringsysteem uit te bouwen worden de volgende gepseudonimiseerde gegevens verzameld:<br>
-1° technische kenmerken van voertuigen met een kentekenplaat die door een ANPR-camera kan worden gedetecteerd, zoals het voertuigtype, de soort brandstof en de euronorm;<br>
+1° technische kenmerken van voertuigen met een kentekenplaat die door voertuigdetectiesystemen kunnen worden gedetecteerd, zoals het voertuigtype, de soort brandstof en de euronorm;<br>
 2° tijdstippen, locaties en snelheden van voertuigen als vermeld in punt 2° ;<br>
 3° gecodeerde nummerplaten van voertuigen als vermeld in punt 2° ;<br>
 4° metadata van de meetapparatuur.<br>
 <br>
-Het Departement Mobiliteit en Openbare Werken beheert het mobiliteitsmonitoringsysteem conform het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. Het Departement Mobiliteit en Openbare Werken is gekwalificeerd als verwerkingsverantwoordelijke als vermeld in de zin van artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming), voor de verwerking van de persoonsgegevens, vermeld in dit artikel.<br>
+Het Departement Mobiliteit en Openbare Werken beheert het mobiliteitsmonitoringsysteem conform het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. Het Departement Mobiliteit en Openbare Werken is gekwalificeerd als verwerkingsverantwoordelijke als vermeld in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van de persoonsgegevens, vermeld in dit artikel.<br>
 <br>
 Het Departement Mobiliteit en Openbare Werken kan bij de bevoegde instanties, zoals de federale politie, de instantie die belast is met de inschrijving van de voertuigen, en de lokale besturen, de gegevens, vermeld in het derde lid, opvragen.<br>
 <br>
@@ -562,7 +562,7 @@ De VVM De Lijn kan conform bovenstaande verordening een deel van het kern- en aa
 <br>
 § 2. Als de VVM De Lijn niet voldoet aan de benchmark zal de Vlaamse Regering aan de hand van openbare aanbestedingen een exploitant of exploitanten aanduiden.<br>
 <br>
-De Vlaamse Regering bepaalt de regels over de aanstelling van de exploitanten en kan bijkomende regels opstellen ten aanzien van de scheiding tussen de regie en uitvoering van de vervoersdiensten.
+De Vlaamse Regering kan de regels bepalen over de aanstelling van de exploitanten.
 
 ### ART 34/1.
 
@@ -572,7 +572,7 @@ De Vlaamse Regering wijst voor de exploitatie van het openbaar personenvervoer o
 
 Het vervoer op maat wordt geoperationaliseerd en gecoördineerd door de Mobiliteitscentrale.<br>
 <br>
-De Vlaamse Regering bepaalt de regels over de aanstellingen van de exploitanten voor het vervoer op maat en kan bijkomende regels opstellen ten aanzien van de scheiding tussen de regie en uitvoering van de vervoersdiensten.
+De Vlaamse Regering kan de regels bepalen over de aanstelling van de exploitanten voor het vervoer op maat.
 
 ## Afdeling 3. Tariefbeleid
 
@@ -607,7 +607,7 @@ De Vlaamse Regering kan de voorwaarden bepalen voor tariefdifferentiatie.<br>
 <br>
 Voor zover de gegevens, vermeld in het eerste lid, 3°, persoonsgegevens bevatten, worden deze zo veel als mogelijk geanonimiseerd en in ondergeschikt geval gepseudonimiseerd.<br>
 <br>
-De Mobiliteitscentrale en de exploitanten van het kernnet en het aanvullend net&nbsp;en ook de exploitant voor het openbaar personenvervoer over water verwerken persoonsgegevens, vermeld in artikel 4, 1), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens, en de persoonsgegevens, vermeld in artikel 9 van de voormelde verordening.<br>
+De Mobiliteitscentrale en de exploitanten van het kernnet en het aanvullend net&nbsp;en ook de exploitant voor het openbaar personenvervoer over water verwerken persoonsgegevens, vermeld in artikel 4, 1), van de algemene verordening gegevensbescherming, en de persoonsgegevens, vermeld in artikel 9 van de voormelde verordening.<br>
 <br>
 De exploitanten van het kernnet en het aanvullend net, de exploitant voor het openbaar personenvervoer over water en de Mobiliteitscentrale kwalificeren als verwerkingsverantwoordelijke in de zin van artikel 4, 7), van de voormelde verordening voor de verwerking van de persoonsgegevens, vermeld in dit artikel. De verwerkingsverantwoordelijke is onderworpen aan de verplichtingen, vermeld in artikel 5, 2, van de voormelde verordening, die op hem rusten.<br>
 <br>
