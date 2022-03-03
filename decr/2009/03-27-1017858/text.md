@@ -173,7 +173,23 @@ De organen van de VRT zijn :<br />1° de algemene vergadering van de aandeelhoud
 
 ### ART. 10.
 
-De raad van bestuur en de gedelegeerd bestuurder leggen in onderling overleg, en in overeenstemming met de bepalingen van dit decreet en de statuten, in een VRT-charter Deugdelijk Bestuur de wijze vast waarop ze hun bevoegdheden als vermeld in artikelen 13 en 14, uitoefenen. Het VRT-charter Deugdelijk Bestuur wordt ter kennisgeving bezorgd aan de Vlaamse Regering.
+§ 1. De raad van bestuur, vermeld in artikel 12 en 13, en de gedelegeerd bestuurder, vermeld in artikel 14, leggen in onderling overleg, en in overeenstemming met de bepalingen van dit decreet en de statuten, in een VRT-charter Deugdelijk Bestuur de volgende elementen vast:<br>
+1° de wijze waarop ze hun bevoegdheden, vermeld in artikel 13 en 14, uitoefenen;<br>
+2° de beginselen van deugdelijk bestuur die ze moeten naleven. Die beginselen omvatten minstens de beginselen, vermeld in paragraaf 2 en 3.<br>
+<br>
+Het charter, vermeld in het eerste lid, wordt ter kennisgeving aan de Vlaamse Regering bezorgd.<br>
+<br>
+§ 2. Elk lid van de raad van bestuur stelt bij het handelen en het nemen van beslissingen altijd het vennootschapsbelang van de VRT voorop.<br>
+<br>
+Indien de raad van bestuur oordeelt dat een bestuurder het vennootschapsbelang heeft geschonden, stelt de voorzitter aan de Vlaamse Regering voor om deze bestuurder uit zijn functie te ontslaan.<br>
+<br>
+§ 3. Elk lid van de raad van bestuur bewaart de discretie over alle informatie waarvan hij in het kader van de uitoefening van zijn bestuurdersmandaat op de hoogte wordt gebracht, behalve als het gaat om informatie die al is bekendgemaakt door de VRT of waarvan zonder enige twijfel kan worden aangetoond dat ze behoort tot het publieke domein.<br>
+<br>
+De discretieplicht, vermeld in het eerste lid, geldt ook na de beëindiging van het bestuurdersmandaat.<br>
+<br>
+Indien de raad van bestuur oordeelt dat een bestuurder de discretieplicht heeft geschonden, stelt de voorzitter aan de Vlaamse Regering voor om deze bestuurder uit zijn functie te ontslaan.<br>
+<br>
+De informatie, vermeld in het eerste lid, mag alleen worden meegedeeld buiten de raad van bestuur, publiek worden gemaakt of op een andere manier ter beschikking worden gesteld aan derde partijen als een meerderheid van de raad van bestuur en de gedelegeerd bestuurder daarvoor hun goedkeuring geven. Als de raad van bestuur en de gedelegeerd bestuurder hun toestemming geven, zorgt de voorzitter van de raad van bestuur voor de externe communicatie van de informatie
 
 ## HOOFDSTUK II. Algemene vergadering
 
@@ -185,17 +201,115 @@ De algemene vergadering verleent aan de bestuurders, de commissaris(sen) en de g
 
 ### ART. 12.
 
-§ 1. De raad van bestuur bestaat uit minimaal twaalf en maximaal vijftien leden.<br /><br />Twaalf leden van de raad van bestuur worden aangewezen door de Vlaamse Regering, met inachtneming van de evenredige vertegenwoordiging van de politieke fracties in het Vlaams Parlement.<br /><br />De door de Vlaamse Regering aangewezen leden van de raad van bestuur kunnen maximaal drie bestuurders coöpteren, op basis van aantoonbare expertise op het vlak van het mediabeleid of het bedrijfsbeleid.<br /><br />De raad van bestuur kiest onder zijn leden een voorzitter en een ondervoorzitter.<br /><br />§ 2. Het mandaat van bestuurder is onverenigbaar met :<br />1° het lidmaatschap van een wetgevende of decreetgevende of ordonnantiegevende vergadering en van het Europees Parlement;<br />2° het ambt van minister en staatssecretaris;<br />3° het ambt van provinciegouverneur;<br />4° het lidmaatschap van de bestendige deputatie;<br />5° het ambt van provinciegriffier;<br />6° het ambt van ambtenaar-generaal van een ministerie;<br />7° het ambt van lid van een ministerieel kabinet;<br />8° het ambt van burgemeester, schepen of voorzitter van het OCMW.<br /><br />Het mandaat van bestuurder is ook onverenigbaar met :<br />1° een functie of mandaat van vast of contractueel personeel van de VRT;<br />2° een functie of mandaat, uitgeoefend in :<br />a) een persbedrijf, de elektronische media inbegrepen;<br />b) in een advertentie- of reclamebedrijf;<br />3° een leidende functie of mandaat in een productiefirma die toelevert aan de elektronische media, en in een andere onderneming die aan de VRT diensten levert, leveringen doet of er werkzaamheden voor uitvoert.<br /><br />Een uitzondering op de onverenigbaarheid, vermeld in § 2, tweede lid, betreft een functie of mandaat in de vennootschappen, verenigingen of samenwerkingsverbanden, vermeld in artikel 6, § 4.<br /><br />§ 3. De werking van de raad van bestuur wordt geregeld in de statuten. De raad kan alleen geldig beraadslagen als de meerderheid van de bestuurders aanwezig of vertegenwoordigd is. De raad kan in overeenstemming met de bepalingen van deze titel en met de statuten in een reglement de wijze bepalen waarop hij zijn bevoegdheden, vermeld in artikel 13, uitoefent.<br /><br />§ 4. De duur van het mandaat van de leden van de raad van bestuur bedraagt vijf jaar.
+&nbsp;§ 1. De raad van bestuur bestaat uit twaalf leden.<br>
+<br>
+Acht leden van de raad van bestuur worden aangewezen door de Vlaamse Regering, met inachtneming van de evenredige vertegenwoordiging van de politieke fracties in het Vlaams Parlement.<br>
+<br>
+Vier leden van de raad van bestuur zijn onafhankelijke bestuurders die worden aangewezen door de Vlaamse Regering conform paragraaf 1/1 tot en met 1/3.<br>
+<br>
+De onafhankelijke bestuurders, vermeld in het derde lid, worden aangewezen op grond van:<br>
+1° hun aantoonbare deskundigheid in het algemene bestuur van de VRT of hun specifieke deskundigheid in de inhoudelijke materie en het beleidsveld waarin de VRT actief is;<br>
+2° hun onafhankelijkheid ten aanzien van de deelgenoten en het dagelijkse bestuur van de VRT. De onafhankelijkheid van de bestuurders wordt vas gesteld conform artikel III.42 van het Bestuursdecreet.<br>
+<br>
+De raad van bestuur kiest onder zijn leden, vermeld in het tweede lid, een voorzitter, en onder zijn leden, vermeld in het derde lid, een ondervoorzitter.<br>
+<br>
+§ 1/1. De uittredende raad van bestuur stelt een functieprofiel op voor het mandaat van onafhankelijke bestuurder. Uiterlijk drie maanden voor het aflopen van het mandaat van de uittredende raad van bestuur lanceert hij een open oproep tot kandidaatstelling. De oproep vermeldt de vereisten waaraan de kandidaten moeten voldoen op het vlak van bekwaamheden, kennis en ervaring en regelt de wijze van kandidaatstelling, waarbij minstens een curriculum vitae wordt voorgelegd.<br>
+<br>
+De uittredende raad van bestuur stelt uiterlijk drie maanden voor het aflopen van zijn mandaat een onafhankelijk en extern benoemingsadviesbureau aan dat een aantoonbare expertise heeft in selectie en werving.<br>
+<br>
+§ 1/2. Het onafhankelijk en extern benoemingsadviesbureau, vermeld in paragraaf 1/1, tweede lid, selecteert op basis van het functieprofiel twee kandidaten per vacature voor onafhankelijke bestuurder en draagt die kandidaten voor aan de Vlaamse Regering. Tegelijkertijd brengt het onafhankelijk en extern benoemingsadviesbureau de uittredende raad van bestuur op de hoogte van deze voordracht.<br>
+<br>
+De voordracht door het onafhankelijk en extern benoemingsadviesbureau gebeurt uiterlijk één maand voor het aflopen van het mandaat van de uittredende raad van bestuur.<br>
+<br>
+§ 1/3. De Vlaamse Regering wijst op basis van de voordracht door het onafhankelijk en extern benoemingsadviesbureau, vermeld in paragraaf 1/1, tweede lid, voor elke vacature een van de voorgedragen kandidaten aan.<br>
+<br>
+§ 2. Het mandaat van bestuurder is onverenigbaar met :<br>
+1° het lidmaatschap van een wetgevende of decreetgevende of ordonnantiegevende vergadering en van het Europees Parlement;<br>
+2° het ambt van minister en staatssecretaris;<br>
+3° het ambt van provinciegouverneur;<br>
+4° het lidmaatschap van de bestendige deputatie;<br>
+5° het ambt van provinciegriffier;<br>
+6° het ambt van ambtenaar-generaal van een ministerie;<br>
+7° het ambt van lid van een ministerieel kabinet;<br>
+8° het ambt van burgemeester, schepen of voorzitter van het OCMW.<br>
+<br>
+Het mandaat van bestuurder is ook onverenigbaar met :<br>
+1° een functie of mandaat van vast of contractueel personeel van de VRT;<br>
+2° een functie of mandaat, uitgeoefend in :<br>
+a) een persbedrijf, de elektronische media inbegrepen;<br>
+b) in een advertentie- of reclamebedrijf;<br>
+3° een leidende functie of mandaat in een productiefirma die toelevert aan de elektronische media, en in een andere onderneming die aan de VRT diensten levert, leveringen doet of er werkzaamheden voor uitvoert.<br>
+<br>
+Een uitzondering op de onverenigbaarheid, vermeld in § 2, tweede lid, betreft een functie of mandaat in de vennootschappen, verenigingen of samenwerkingsverbanden, vermeld in artikel 6, § 4.<br>
+<br>
+§ 3. De werking van de raad van bestuur wordt geregeld in de statuten. De raad kan alleen geldig beraadslagen als de meerderheid van de bestuurders aanwezig of vertegenwoordigd is. Conform de bepalingen van deze titel en conform de statuten bepaalt de raad van bestuur in een reglement de wijze waarop hij zijn bevoegdheden, vermeld in artikel 13, § 1, 2°, uitoefent. In het voormelde reglement kan de raad van bestuur de wijze bepalen waarop hij zijn andere bevoegdheden, vermeld in artikel 13, uitoefent.<br>
+<br>
+§ 4. De duur van het mandaat van de leden van de raad van bestuur bedraagt vijf jaar.<br>
+<br>
+Wanneer de plaats van een bestuurder, vermeld in paragraaf 1, tweede lid, openvalt in de loop van zijn mandaat ten gevolge van overlijden of ontslag, wijst de Vlaamse Regering een vervanger aan, met inachtneming van de evenredige vertegenwoordiging van de politieke fracties in het Vlaams Parlement.<br>
+<br>
+Wanneer de plaats van een onafhankelijke bestuurder, vermeld in paragraaf 1, derde lid, openvalt in de loop van zijn mandaat ten gevolge van overlijden of ontslag, draagt het onafhankelijk en extern benoemingsadviesbureau, vermeld in paragraaf 1/1, tweede lid, binnen één maand na het openvallen van het mandaat op basis van het functieprofiel twee kandidaten voor aan de Vlaamse Regering uit de reserve van kandidaten die zich na de open oproep, vermeld in paragraaf 1/1, eerste lid, hadden aangeboden. Tegelijkertijd brengt het onafhankelijk en extern benoemingsadviesbureau de raad van bestuur op de hoogte van deze voordracht. De Vlaamse Regering wijst op basis van deze voordracht door het onafhankelijk en extern benoemingsadviesbureau een van de voorgedragen kandidaten als vervanger aan.<br>
+<br>
+De bestuurders die met toepassing van het tweede en derde lid worden aangewezen, volbrengen het mandaat van hun voorganger.
 
 ### ART. 13.
 
-§ 1. De raad van bestuur heeft de volgende bevoegdheden :<br />1° het vastleggen van de algemene strategie van de VRT;<br />2° het nemen van beslissingen over aangelegenheden met strategisch karakter. Een aangelegenheid heeft een strategisch karakter als ze een belangrijke impact heeft op het handelen van de VRT in de Vlaamse samenleving of op het medialandschap. De raad van bestuur beslist over het strategische karakter van een aangelegenheid;<br />3° het goedkeuren, namens de VRT, van de beheersovereenkomst en van elke wijziging ervan;<br />4° het goedkeuren van het jaarlijkse ondernemingsplan en van strategische meerjarenplannen die de doelstellingen en de strategie op de halflange termijn vastleggen. Het jaarlijkse ondernemingsplan bevat onder meer het algemene programmabeleid, de strategie inzake communicatie en public relations, de raming van de inkomsten en uitgaven en van het personeelscontingent;<br />5° het opmaken van de inventaris en de jaarrekening met de balans, de resultatenrekening en de toelichting, en het opstellen van het jaarverslag;<br />6° het goedkeuren van de regels voor de aanwerving en de rechtspositie van het personeel;<br />7° het aanstellen en ontslaan van de leden van het directiecollege, op voordracht van de gedelegeerd bestuurder;<br />8° het uitoefenen van toezicht op de gedelegeerd bestuurder bij de uitvoering van de beheersovereenkomst, het ondernemingsplan en de beslissingen van de raad van bestuur;<br />9° het bemiddelen bij personele conflicten binnen het directiecollege;<br />10° het beslissen over deelneming van de VRT aan vennootschappen, verenigingen en samenwerkingsverbanden;<br />11° het beslissen over de oprichting van vennootschappen door de VRT;<br />12° het toezicht op de werking en de resultaten van de vennootschappen, verenigingen en samenwerkingsverbanden, vermeld in punten 10° en 11°;<br />13° de aanwijzing van de vertegenwoordigers van de VRT in de bestuursorganen van de vennootschappen, verenigingen en samenwerkingsverbanden, vermeld in punten 10° en 11°;<br />14° het bijeenroepen van de algemene vergadering en het vaststellen van de agenda;<br />15° het opstellen van het kader waarbinnen de VRT merchandising- en nevenactiviteiten uitoefent.<br /><br />§ 2. De bevoegdheden, vermeld in § 1, kunnen niet worden gedelegeerd aan de gedelegeerd bestuurder of aan andere personeelsleden van de VRT.<br /><br />De beslissingen van de raad van bestuur worden genomen op initiatief en op voorstel van de gedelegeerd bestuurder, de voorzitter van de raad van bestuur of ten minste een derde van de leden van de raad van bestuur.<br /><br />De gedelegeerd bestuurder verstrekt aan de raad van bestuur alle nuttige inlichtingen en brengt alle aangelegenheden die voor een behoorlijke uitoefening van de bevoegdheden van de raad van bestuur nuttig of nodig zijn, op de agenda van de raad van bestuur.<br /><br />§ 3. Ter uitvoering van de bevoegdheden, vermeld in § 1, kunnen de leden van de raad van bestuur, via de voorzitter, op elk moment alle documenten en geschriften van de VRT inzien. De voorzitter kan via de gedelegeerd bestuurder van de leden van het directiecollege en van alle andere personeelsleden alle verduidelijkingen en alle verificaties vorderen die de raad of een lid nodig achten voor de uitvoering van de bevoegdheden van de raad van bestuur.
+§ 1. De raad van bestuur heeft de volgende bevoegdheden :<br>
+1° het vastleggen van de algemene strategie van de VRT;<br>
+2° het nemen van beslissingen over aangelegenheden met strategisch karakter. Een aangelegenheid heeft een strategisch karakter als ze een belangrijke impact heeft op het handelen van de VRT in de Vlaamse samenleving of op het medialandschap. De raad van bestuur beslist over het strategische karakter van een aangelegenheid conform de wijze die bepaald is in het reglement, vermeld in artikel 12, § 3;<br>
+3° het goedkeuren, namens de VRT, van de beheersovereenkomst en van elke wijziging ervan;<br>
+4° het goedkeuren van het jaarlijkse ondernemingsplan en van strategische meerjarenplannen die de doelstellingen en de strategie op de halflange termijn vastleggen. Het jaarlijkse ondernemingsplan bevat onder meer het algemene programmabeleid, de strategie inzake communicatie en public relations, de raming van de inkomsten en uitgaven en van het personeelscontingent;<br>
+5° het opmaken van de inventaris en de jaarrekening met de balans, de resultatenrekening en de toelichting, en het opstellen van het jaarverslag;<br>
+6° het goedkeuren van de regels voor de aanwerving en de rechtspositie van het personeel;<br>
+7° het aanstellen en ontslaan van de leden van het directiecollege, op voordracht van de gedelegeerd bestuurder;<br>
+8° het uitoefenen van toezicht op de gedelegeerd bestuurder bij de uitvoering van de beheersovereenkomst, het ondernemingsplan en de beslissingen van de raad van bestuur;<br>
+9° het bemiddelen bij personele conflicten binnen het directiecollege;<br>
+10° het beslissen over deelneming van de VRT aan vennootschappen, verenigingen en samenwerkingsverbanden;<br>
+11° het beslissen over de oprichting van vennootschappen door de VRT;<br>
+12° het toezicht op de werking en de resultaten van de vennootschappen, verenigingen en samenwerkingsverbanden, vermeld in punten 10° en 11°;<br>
+13° de aanwijzing van de vertegenwoordigers van de VRT in de bestuursorganen van de vennootschappen, verenigingen en samenwerkingsverbanden, vermeld in punten 10° en 11°;<br>
+14° het bijeenroepen van de algemene vergadering en het vaststellen van de agenda;<br>
+15° het opstellen van het kader waarbinnen de VRT merchandising- en nevenactiviteiten uitoefent.<br>
+<br>
+§ 2. De bevoegdheden, vermeld in § 1, kunnen niet worden gedelegeerd aan de gedelegeerd bestuurder of aan andere personeelsleden van de VRT.<br>
+<br>
+De beslissingen van de raad van bestuur worden genomen op initiatief en op voorstel van de gedelegeerd bestuurder, de voorzitter van de raad van bestuur of ten minste een derde van de leden van de raad van bestuur.<br>
+<br>
+De gedelegeerd bestuurder verstrekt aan de raad van bestuur alle nuttige inlichtingen en brengt alle aangelegenheden die voor een behoorlijke uitoefening van de bevoegdheden van de raad van bestuur nuttig of nodig zijn, op de agenda van de raad van bestuur.<br>
+<br>
+§ 3. Ter uitvoering van de bevoegdheden, vermeld in § 1, kunnen de leden van de raad van bestuur, via de voorzitter, op elk moment alle documenten en geschriften van de VRT inzien. De voorzitter kan via de gedelegeerd bestuurder van de leden van het directiecollege en van alle andere personeelsleden alle verduidelijkingen en alle verificaties vorderen die de raad of een lid nodig achten voor de uitvoering van de bevoegdheden van de raad van bestuur.
 
 ## HOOFDSTUK IV. De gedelegeerd bestuurder
 
 ### ART. 14.
 
-§ 1. De gedelegeerd bestuurder wordt benoemd en ontslagen door de algemene vergadering.<br /><br />§ 2. De gedelegeerd bestuurder is belast met en exclusief bevoegd voor de volgende taken van het operationele bestuur van de VRT :<br />1° op het vlak van het management van de dienstverlening : de voorbereiding en de uitvoering van de jaarlijkse ondernemingsplannen en strategische meerjarenplannen, die voortvloeien uit de beheersovereenkomst en goedgekeurd worden door de raad van bestuur;<br />2° inzake de productontwikkeling : het ontwikkelen van nieuwe en het verbeteren van bestaande diensten, producten en processen die passen in het beleid van de VRT;<br />3° inzake het personeelsbeleid : het voeren van een coherent personeelsbeleid, dat afgestemd is op de strategische ontwikkeling van de VRT en de omgevingsfactoren waarbinnen de dienstverlening plaatsvindt, overeenkomstig de rechtspositieregeling van het personeel en de richtlijnen van de raad van bestuur binnen het jaarlijkse ondernemingsplan daarover;<br />4° inzake het financiële beleid : de uitvoering van alle budgettaire en boekhoudkundige verrichtingen binnen het jaarlijkse ondernemingsplan, met inbegrip van het registreren van de verbintenissen, de goedkeuring en de boeking van de verplichtingen, de boeking van de vorderingen en het doen van alle ontvangsten en uitgaven binnen de machtigende begroting;<br />5° inzake het beheer van de infrastructuur : het voeren van een coherent beleid voor gebouwen, verbruiks- en patrimoniumgoederen, een efficiënt voorraadbeheer en het optimale beheer van de infrastructuur van de VRT binnen de limieten van het door de raad van bestuur goedgekeurde investeringsprogramma;<br />6° inzake communicatie en public relations : het voeren van een eigentijds intern en extern communicatiebeleid, in overeenstemming met de door de raad van bestuur vastgelegde richtlijnen daarover;<br />7° het vaststellen van het programma-aanbod en het uitzendschema;<br />8° het nemen van andere operationele beslissingen die nuttig of nodig zijn voor de goede werking van de VRT en die niet tot de bevoegdheden behoren van de raad van bestuur.<br /><br />De gedelegeerd bestuurder neemt met raadgevende stem deel aan de vergaderingen van de raad van bestuur. De gedelegeerd bestuurder is belast met de voorbereiding van de beslissingen van de raad van bestuur. Hij verstrekt aan de raad van bestuur alle nodige inlichtingen en brengt alle voorstellen die voor de werking van de VRT nuttig of nodig zijn, op de agenda van de raad van bestuur.<br /><br />De gedelegeerd bestuurder vertegenwoordigt de VRT in de gerechtelijke en buitengerechtelijke handelingen, met inbegrip van het optreden voor administratieve rechtscolleges, en treedt rechtsgeldig op in naam en voor rekening van de VRT, zonder dat hij dat aan de hand van een beslissing van de raad van bestuur moet staven.<br /><br />Met behoud van de toepassing van de rechtspositieregeling van het personeel mag de gedelegeerd bestuurder onder zijn verantwoordelijkheid een of meer specifieke bevoegdheden, met inbegrip van die welke vermeld worden in dit artikel, delegeren aan een of meer personeelsleden van de VRT.<br /><br />De gedelegeerd bestuurder voert de beslissingen van de raad van bestuur uit.<br /><br />§ 3. De gedelegeerd bestuurder wordt bijgestaan door het directiecollege, bestaande uit minimaal twee leden plus de gedelegeerd bestuurder. De gedelegeerd bestuurder zit het directiecollege voor.<br /><br />De gedelegeerd bestuurder kan onder zijn uitsluitende verantwoordelijkheid een deel van zijn bevoegdheden delegeren aan een of meer leden van het directiecollege en aan de personeelsleden van de VRT. De gedelegeerd bestuurder bepaalt in een reglement de grenzen waarbinnen en de vormen waarin die delegaties en verdere subdelegaties worden uitgeoefend.<br /><br />§ 4. De gedelegeerd bestuurder en de andere leden van het directiecollege worden tewerkgesteld met een overeenkomst die gesloten wordt met de VRT.
+§ 1. De gedelegeerd bestuurder wordt benoemd door de algemene vergadering. De algemene vergadering stelt het profiel van de gedelegeerd bestuurder vast, na advies van de raad van bestuur.<br>
+<br>
+De gedelegeerd bestuurder wordt ontslagen door de algemene vergadering na advies van de raad van bestuur..<br>
+<br>
+§ 2. De gedelegeerd bestuurder is belast met en exclusief bevoegd voor de volgende taken van het operationele bestuur van de VRT :<br>
+1° op het vlak van het management van de dienstverlening : de voorbereiding en de uitvoering van de jaarlijkse ondernemingsplannen en strategische meerjarenplannen, die voortvloeien uit de beheersovereenkomst en goedgekeurd worden door de raad van bestuur;<br>
+2° inzake de productontwikkeling : het ontwikkelen van nieuwe en het verbeteren van bestaande diensten, producten en processen die passen in het beleid van de VRT;<br>
+3° inzake het personeelsbeleid : het voeren van een coherent personeelsbeleid, dat afgestemd is op de strategische ontwikkeling van de VRT en de omgevingsfactoren waarbinnen de dienstverlening plaatsvindt, overeenkomstig de rechtspositieregeling van het personeel en de richtlijnen van de raad van bestuur binnen het jaarlijkse ondernemingsplan daarover;<br>
+4° inzake het financiële beleid : de uitvoering van alle budgettaire en boekhoudkundige verrichtingen binnen het jaarlijkse ondernemingsplan, met inbegrip van het registreren van de verbintenissen, de goedkeuring en de boeking van de verplichtingen, de boeking van de vorderingen en het doen van alle ontvangsten en uitgaven binnen de machtigende begroting;<br>
+5° inzake het beheer van de infrastructuur : het voeren van een coherent beleid voor gebouwen, verbruiks- en patrimoniumgoederen, een efficiënt voorraadbeheer en het optimale beheer van de infrastructuur van de VRT binnen de limieten van het door de raad van bestuur goedgekeurde investeringsprogramma;<br>
+6° inzake communicatie en public relations : het voeren van een eigentijds intern en extern communicatiebeleid, in overeenstemming met de door de raad van bestuur vastgelegde richtlijnen daarover;<br>
+7° het vaststellen van het programma-aanbod en het uitzendschema;<br>
+8° het nemen van andere operationele beslissingen die nuttig of nodig zijn voor de goede werking van de VRT en die niet tot de bevoegdheden behoren van de raad van bestuur.<br>
+<br>
+De gedelegeerd bestuurder neemt met raadgevende stem deel aan de vergaderingen van de raad van bestuur. De gedelegeerd bestuurder is belast met de voorbereiding van de beslissingen van de raad van bestuur. Hij verstrekt aan de raad van bestuur alle nodige inlichtingen en brengt alle voorstellen die voor de werking van de VRT nuttig of nodig zijn, op de agenda van de raad van bestuur.<br>
+<br>
+De gedelegeerd bestuurder vertegenwoordigt de VRT in de gerechtelijke en buitengerechtelijke handelingen, met inbegrip van het optreden voor administratieve rechtscolleges, en treedt rechtsgeldig op in naam en voor rekening van de VRT, zonder dat hij dat aan de hand van een beslissing van de raad van bestuur moet staven.<br>
+<br>
+Met behoud van de toepassing van de rechtspositieregeling van het personeel mag de gedelegeerd bestuurder onder zijn verantwoordelijkheid een of meer specifieke bevoegdheden, met inbegrip van die welke vermeld worden in dit artikel, delegeren aan een of meer personeelsleden van de VRT.<br>
+<br>
+De gedelegeerd bestuurder voert de beslissingen van de raad van bestuur uit.<br>
+<br>
+§ 3. De gedelegeerd bestuurder wordt bijgestaan door het directiecollege, bestaande uit minimaal twee leden plus de gedelegeerd bestuurder. De gedelegeerd bestuurder zit het directiecollege voor.<br>
+<br>
+De gedelegeerd bestuurder kan onder zijn uitsluitende verantwoordelijkheid een deel van zijn bevoegdheden delegeren aan een of meer leden van het directiecollege en aan de personeelsleden van de VRT. De gedelegeerd bestuurder bepaalt in een reglement de grenzen waarbinnen en de vormen waarin die delegaties en verdere subdelegaties worden uitgeoefend.<br>
+<br>
+§ 4. De gedelegeerd bestuurder en de andere leden van het directiecollege worden tewerkgesteld met een overeenkomst die gesloten wordt met de VRT.
 
 ## HOOFDSTUK V. De commissarissen
 
