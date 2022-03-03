@@ -97,7 +97,7 @@ Elk proefproject wordt jaarlijks geëvalueerd. De Vlaamse Regering bepaalt de pr
 
 De Vlaamse Regering kan het uitzonderlijk vervoer verbieden op bepaalde tijdstippen, plaatsen of in bepaalde omstandigheden, of het onderwerpen aan bepaalde voorwaarden.<br>
 <br>
-De Vlaamse Regering kan de regels bepalen voor de toekenning, weigering, verlenging, schorsing en intrekking van de erkenning van de bestuurder van het uitzonderlijk voertuig, alsook van de verkeerscoördinator en de begeleiders die het uitzonderlijk vervoer begeleiden.<br>
+De Vlaamse Regering kan de regels bepalen voor de toekenning, weigering, verlenging, schorsing en intrekking van de erkenning van de bestuurder van het uitzonderlijk voertuig, alsook van de begeleidingsonderneming, de verkeerscoördinator en de begeleiders die het uitzonderlijk vervoer begeleiden.<br>
 <br>
 Aan elke rechtspersoon of natuurlijke persoon die een erkenningsaanvraag indient, kan voor de behandeling van de erkenningsaanvraag een retributie worden gevraagd. Dezelfde retributie kan worden gevraagd voor de uitoefening van het toezicht op de erkenningsvoorwaarden. De Vlaamse Regering bepaalt voor welke erkenningsaanvragen of toezichtverplichtingen een retributie is verschuldigd en stelt de bedragen vast, alsook de wijze waarop de retributie moet worden voldaan.
 
@@ -114,6 +114,44 @@ Aan elke rechtspersoon of natuurlijke persoon die een erkenningsaanvraag indient
 In geval van overmacht of van een onverwachte hindernis mag er van de   opgelegde reisweg afgeweken worden onder de voorwaarden die de Vlaamse Regering   bepaalt.<BR>
 
 ## [Afdeling 4. Goederenvervoer met brede fietsen en brede fietsaanhangwagens (ing. decr. 23 december 2021, art. 14, I: 3 maart 2022)]
+
+### ART 13/1.
+
+Het vervoer met fietsen met een breedte van meer dan 0,75 meter of fietsaanhangwagens met een breedte van meer dan 1 meter is alleen mogelijk in het kader van een pilootproject voor het goederenvervoer met brede fietsen en brede fietsaanhangwagens.
+
+### ART 13/2.
+
+De Vlaamse Regering bepaalt de volgende aspecten van het pilootproject, vermeld in artikel 13/1:<br>
+1° de start- en einddatum;<br>
+2° de toegelaten fietsen en fietsaanhangwagens;<br>
+3° de technische voorwaarden van de fietsen en de fietsaanhangwagens;<br>
+4° de aard en de afmetingen van de lading die met de fietsen of fietsaanhangwagens vervoerd mogen worden.<br>
+<br>
+De Vlaamse Regering kan het maximum aantal vergunningen bepalen dat in het kader van het pilootproject kan worden uitgereikt.
+
+### ART 13/3.
+
+De Vlaamse Regering kan in het kader van een pilootproject als vermeld in artikel 13/1 het vervoer met een fiets met een breedte van meer dan 0,75 meter of met een fietsaanhangwagen met een breedte van meer dan 1 meter beperken tot de trajecten die ze bepaalt.<br>
+<br>
+De Vlaamse Regering kan in het kader van een pilootproject als vermeld in artikel 13/1 het vervoer met een fiets met een breedte van meer dan 0,75 meter of met een fietsaanhangwagen met een breedte van meer dan 1 meter verbieden op bepaalde tijdstippen, plaatsen of in bepaalde omstandigheden, of het onderwerpen aan bepaalde voorwaarden.
+
+### ART 13/4.
+
+Met het oog op het uitreiken van een vergunning in het kader van een pilootproject als vermeld in artikel 13/1 bepaalt de Vlaamse Regering de volgende elementen:<br>
+1° de inhoud van de vergunning. De vergunning vermeldt minstens de maatregelen om schade aan de verkeersinfrastructuur te voorkomen en om het vervoer veilig te laten verlopen;<br>
+2° de procedure voor de aanvraag en de afgifte van de vergunning.<br>
+<br>
+De Vlaamse Regering kan voor het uitreiken van de vergunning, vermeld in het eerste lid, en het gebruik van de verkeersinfrastructuur voor vervoer met fietsen met een breedte van meer dan 0,75 meter of met fietsaanhangwagens met een breedte van meer dan 1 meter een vergoeding bepalen.
+
+### ART 13/5.
+
+In het kader van een pilootproject als vermeld in artikel 13/1 kan de Vlaamse Regering bepalen dat het Departement Mobiliteit en Openbare Werken op de hoogte gebracht wordt van het tijdstip en de gevolgde reisweg en de voertuigen van het vervoer. De Vlaamse Regering bepaalt in dat geval ook de wijze waarop dat gebeurt en de eventuele uitzonderingen.<br>
+<br>
+In het eerste lid wordt verstaan onder Departement Mobiliteit en Openbare Werken: het departement, vermeld in artikel 28, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.
+
+### ART 13/6.
+
+&nbsp;Elk pilootproject als vermeld in artikel 13/1 wordt geëvalueerd. De Vlaamse Regering bepaalt de frequentie van evaluatie en de procedure voor de evaluatie van het project.
 
 ## HOOFDSTUK 3 Strafbepalingen en toezicht
 
