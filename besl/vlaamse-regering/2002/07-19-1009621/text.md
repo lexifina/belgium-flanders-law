@@ -12,23 +12,45 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° minister
 
 Versterkingsritten van geregeld vervoer worden door de VVM georganiseerd.<br /><br />Onder versterkingsritten wordt verstaan: de ritten, uitgevoerd om tegemoet te komen aan de vraag naar meer vervoermogelijkheden met inzet van extra materieel langs een bepaald traject van geregeld vervoer, naar aanleiding van een toevallige of een geplande verhoging van de vervoersvraag.
 
+### ART 2/1.
+
+Voor de exploitatie van geregeld vervoer als vermeld in artikel 16, § 1, van het decreet, is een vergunning vereist.<br>
+<br>
+Het model van aanvraagformulier voor het verkrijgen of vernieuwen van een vergunning voor geregeld vervoer is als bijlage I bij dit besluit gevoegd.
+
+### ART 2/2.
+
+De minister is belast met het uitreiken van de vergunning. De minister neemt een beslissing binnen twee maanden na de datum waarop de vervoerder de vergunningsaanvraag heeft ingediend, rekening houdend met artikel 16, § 2, tweede lid, van het decreet. De aanvrager wordt daarvan op de hoogte gebracht uiterlijk tien dagen na afloop van de bovenvermelde termijn.
+
+### ART 2/3.
+
+De duur van de vergunning voor het geregeld vervoer bedraagt maximaal vijf jaar. De minister kan de vergunning telkens voor maximaal vijf jaar hernieuwen.
+
+### ART 2/4.
+
+De vergunningshouders zijn ertoe gehouden:<br>
+1° de bepalingen van de vergunning na te leven, in het bijzonder de bepalingen over de te verzorgen verbindingen, de regelmaat, de continuïteit, de frequentie en de reisweg;<br>
+2° de stopplaatsen te voorzien van een dienstregeling en een halte-aanduiding;<br>
+3° de vergunning of een voor eensluidend gewaarmerkt afschrift daarvan aan boord van hun voertuigen te houden.
+
+### ART 2/5.
+
+De minister kan de vergunninghouders verplichten de door de Vlaamse Regering vastgestelde tarieven na te leven.
+
 ### ART. 3.
 
 De minister is, ter uitvoering van artikel 17 van het decreet, belast met het nemen van een beslissing, respectievelijk het afleveren van de vergunning, het verlenen van instemming en het vernieuwen van de vergunning voor grensoverschrijdend geregeld vervoer.<br>
 <br>
-In het geval van artikel 17, § 1, tweede lid van het decreet, beslist de minister binnen twee maanden overeenkomstig de bepalingen van artikel 7, lid 2 van verordening (EEG) nr. 684/92 van de Raad van 16 maart 1992 houdende gemeenschappelijke regels voor het internationaal vervoer van personen met touringcars en met autobussen, gewijzigd bij verordening (EG) nr. 11/98 van de Raad van 11 december 1997.<br>
+In het geval van artikel 17, § 1, tweede lid van het decreet, beslist de minister binnen twee maanden overeenkomstig de bepalingen van artikel 8, lid 2, van verordening (EG) nr. 1073/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels voor toegang tot de internationale markt voor touringcar- en autobusdiensten en tot wijziging van Verordening (EG) nr. 561/2006.<br>
 <br>
 Het model van aanvraagformulier voor het verkrijgen of vernieuwen van een vergunning voor het grensoverschrijdend vervoer is als bijlage I bij dit besluit gevoegd.
 
 ### ART. 4.
 
 De ambtenaren die met de controle belast zijn, kunnen de vergunning voorlopig intrekken, in afwachting van het onderzoek ten gronde, als de vervoerder:<br>
-<br>
 1° onjuiste inlichtingen heeft verstrekt met betrekking tot gegevens die noodzakelijk waren voor de afgifte of de vernieuwing van de vergunning;<br>
-<br>
 2° niet meer voldoet aan een van de voorwaarden die vereist waren voor het afleveren van de bestaande vergunning;<br>
-<br>
-3° een ernstige inbreuk of kleinere herhaalde inbreuken heeft gemaakt op de regelgeving inzake vervoer en verkeersveiligheid zoals bedoeld in artikel 16, lid 3 van de hogervermelde Verordening (EEG) nr. 684/92.
+3° een ernstige inbreuk of kleinere herhaalde inbreuken heeft gemaakt op de regelgeving inzake vervoer en verkeersveiligheid zoals bedoeld in artikel 22, lid 1, van de hogervermelde verordening (EG) nr. 1073/2009.
 
 ### ART. 5.
 
@@ -110,7 +132,7 @@ Als er geen overeenkomst werd afgesloten tussen de vervoerder en de organisator,
 
 ### ART. 21.
 
-De minister is, ter uitvoering van artikel 19, § 1, vijfde lid, van het decreet, belast met het verlenen van instemming. De minister beslist binnen twee maanden overeenkomstig de bepalingen van artikel 7, lid 2 van de hogervermelde Verordening (EEG) nr. 684/92.
+De minister is, ter uitvoering van artikel 19, § 1, vijfde lid, van het decreet, belast met het verlenen van instemming. De minister beslist binnen twee maanden overeenkomstig de bepalingen van artikel 8, lid 2, van de hogervermelde verordening (EG) nr. 1073/2009.
 
 ### ART. 22.
 
@@ -160,25 +182,23 @@ De bepalingen van artikel 12, derde lid, 3°, artikel 15, 2°, artikel 20, derde
 
 ### ART. 32.
 
-De VVM kan, mits ze beschikt over een machtiging voor ongeregeld vervoer overeenkomstig artikel 15 van de besluitwet van 30 december 1946 betreffende het bezoldigd vervoer van personen over de weg met autobussen en met autocar, ongeregeld vervoer organiseren overeenkomstig de in artikel 33 tot en met 36 vermelde voorwaarden.
+...
 
 ### ART. 33.
 
-Het in artikel 32 vermelde ongeregeld vervoer kan enkel worden georganiseerd voor evenementenvervoer. Hieronder wordt verstaan: het vervoer dat door de VVM wordt georganiseerd van en naar een publieke gebeurtenis met een sterk mobiliteitsgenererend effect.
+...
 
 ### ART. 34.
 
-Als de VVM kennis heeft van een bepaalde vervoervraag naar het in artikel 33 bedoelde evenementenvervoer, maakt ze dit minstens bekend op haar website via het internet. De VVM wacht gedurende veertien dagen de reactie af van de autocarondernemers. De VVM mag dit evenementenvervoer enkel geheel of gedeeltelijk organiseren als blijkt dat de autocarondernemers geen of geen passend aanbod kunnen garanderen.<br>
-<br>
-De VVM moet, binnen een termijn van zes maanden na de inwerkingtreding van dit besluit, een ontwerp van procedure ter goedkeuring aan de Minister voorleggen, waarin de praktische werkwijze voor de uitvoering van dit hoofdstuk wordt vastgelegd. Indien de VVM in gebreke blijft, stelt de Minister de procedure vast.
+...
 
 ### ART. 35.
 
-Het in artikel 33 bedoelde evenementenvervoer moet minstens de exploitatiekosten dekken.
+...
 
 ### ART. 36.
 
-Tussen de VVM en de organisator van het evenement moet een contract worden gesloten waarin de reisweg met de bijbehorende afstand en de prijs is bepaald. Het ritorder van de VVM moet in het voertuig aanwezig zijn.
+...
 
 ## HOOFDSTUK VII BEVOEGDE AMBTENAREN
 
@@ -227,4 +247,4 @@ De Vlaamse minister, bevoegd voor de mobiliteit, is belast met de uitvoering van
 ### BIJLAGE
 
 <br>
-<a href="http://&nbsp;https://www.ejustice.just.fgov.be/mopdf/2002/08/31_1S.pdf#page=39">Bijlage 1</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/02/23_2.pdf#page=81">Model van het aanvraagformulier als vermeld in artikel 2/1.</a>
