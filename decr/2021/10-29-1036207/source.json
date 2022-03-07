@@ -2,16 +2,16 @@
   "codex_id": 1036207,
   "title": "Decreet van 2021-10-29 over het COVID Safe Ticket",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036207/VolledigDocument?datum=2022-01-29",
-  "source_sha256": "18932629e3e5eb70584f230a07c440064690584a8a3235dc215d066dd0dc1525",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036207/VolledigDocument?datum=2022-03-07",
+  "source_sha256": "b122176492307271f6617e7f97f9da2b780a3cbabfacf153e9a7dec3e7488019",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036207&param=informatie",
-  "as_of": "2022-01-29",
+  "as_of": "2022-03-07",
   "made": "2021-10-29",
   "gazette": "2021-10-29",
   "numac": 2021043050,
   "document_start": "2021-10-30",
   "document_end": "2022-03-06",
-  "in_force": "2022-01-29",
+  "in_force": "2022-03-07",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2022-01-29; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-03-07; future article versions excluded; article text as the API gives it"
 }
