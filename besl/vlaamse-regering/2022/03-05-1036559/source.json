@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036559,
+  "title": "Besluit van de Vlaamse Regering van 2022-03-05 over de buitenwerkingtreding van het decreet van 29 oktober 2021 over het COVID Safe Ticket",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036559/VolledigDocument?datum=2022-03-07",
+  "source_sha256": "0909e5873628ef34b0159d463f71ee68292633e91a05aeea4825fe3bc32db96a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036559&param=informatie",
+  "as_of": "2022-03-07",
+  "made": "2022-03-05",
+  "gazette": "2022-03-05",
+  "numac": 202204053,
+  "document_start": "2022-03-07",
+  "document_end": null,
+  "in_force": "2022-03-07",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-03-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
