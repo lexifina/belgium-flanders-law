@@ -2,16 +2,16 @@
   "codex_id": 1036538,
   "title": "Besluit van de Vlaamse Regering van 2021-12-17 tot wijziging van het koninklijk besluit van 19 juli 2000 betreffende de inning en de consignatie van een som bij het vaststellen van sommige inbreuken inzake het vervoer over de weg en het besluit van de Vlaamse Regering van 22 januari 2021 over de handhaving bij de bescherming van de verkeersinfrastructuur in geval van bijzonder wegtransport",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036538/VolledigDocument?datum=2022-03-01",
-  "source_sha256": "68feac762b521298162651f35f0eca3681b895986134499c579b29e03e39c8e8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036538/VolledigDocument?datum=2022-03-10",
+  "source_sha256": "082898ff83e0862e96cf34975bcb75e26cff62fb2d63efc6ad5c2a7966bdb77a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036538&param=informatie",
-  "as_of": "2022-03-01",
+  "as_of": "2022-03-10",
   "made": "2021-12-17",
   "gazette": "2022-02-28",
   "numac": 2022030194,
   "document_start": "2022-03-10",
   "document_end": null,
-  "in_force": "2022-03-01",
-  "article_versions": 6,
-  "record_form": "consolidated version as in force on 2022-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-03-10",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2022-03-10; future article versions excluded; article text as the API gives it"
 }

@@ -37,9 +37,30 @@ Artikel 5 van hetzelfde besluit wordt vervangen door wat volgt:<br>
 1° de som van de administratieve geldboetes voor inbreuken op het decreet van 3 mei 2013 of de uitvoeringsbesluiten ervan die tijdens eenzelfde controle zijn vastgesteld, bedraagt meer dan 1100 euro, verhoogd met de opdeciemen;<br>
 2° door de inbreuk is andere schade dan de schade die is veroorzaakt op de wijze, vermeld in artikel 3, tweede lid, van het voormelde decreet, ontstaan aan de openbare weg, zijn aanhorigheden en de kunstwerken die erin liggen.".
 
+### ART 4.
+
+In artikel 6, § 3, van hetzelfde besluit wordt het woord "wegeninspecteur" vervangen door het woord "verbalisant".
+
+### ART 5.
+
+In artikel 7 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, tweede lid, worden tussen het woord "wegeninspecteur" en het woord "kan" de woorden "of de verbalisant" ingevoegd;<br>
+2° in paragraaf 2 wordt het eerste lid vervangen door wat volgt:<br>
+"Als de onmiddellijke inning conform artikel 5 mogelijk is en de administratieve geldboete niet onmiddellijk is geïnd of de administratieve geldboete in consignatie is gegeven, kan de verbalisant, binnen veertien dagen na de dag waarop de inbreuk is vastgesteld, samen met het afschrift van het proces-verbaal, een voorstel tot onmiddellijke inning aan de overtreder of, in voorkomend geval, aan de onderneming bezorgen.";<br>
+3° in paragraaf 2, derde lid, wordt het woord "wegeninspecteur" vervangen door het woord "verbalisant";<br>
+4° aan paragraaf 2, derde lid, wordt de zinsnede ", om de administratieve geldboete te betalen" toegevoegd.
+
 ### ART 6.
 
 Aan hetzelfde besluit wordt een bijlage toegevoegd, die bij dit besluit is gevoegd.
+
+### ART 7.
+
+Artikel 1, 2, 3 en 6 treden in werking op 1 maart 2022.
+
+### ART 8.
+
+De Vlaamse minister, bevoegd voor de weginfrastructuur en het wegenbeleid, is belast met de uitvoering van dit besluit.
 
 ### BIJLAGE
 
