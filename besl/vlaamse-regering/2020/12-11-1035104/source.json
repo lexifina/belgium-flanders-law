@@ -2,16 +2,16 @@
   "codex_id": 1035104,
   "title": "Besluit van de Vlaamse Regering van 2020-12-11 tot toekenning van een investeringssubsidie aan lokale besturen voor de realisatie van noodwoningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035104/VolledigDocument?datum=2021-02-01",
-  "source_sha256": "52414cac0ab0336ee216cffb81117629eaff90561c0996f53d13acf690c880ce",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035104/VolledigDocument?datum=2022-03-13",
+  "source_sha256": "3c28b8352fb3fb8bbec3caa8f26672acfb832284fa3ee0c9a4862adbae84b1c0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035104&param=informatie",
-  "as_of": "2021-02-01",
+  "as_of": "2022-03-13",
   "made": "2020-12-11",
   "gazette": "2021-01-22",
   "numac": 2020044433,
   "document_start": "2021-02-01",
   "document_end": null,
-  "in_force": "2021-02-01",
+  "in_force": "2022-03-13",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2021-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-03-13; future article versions excluded; article text as the API gives it"
 }

@@ -252,7 +252,7 @@ Binnen de perken van de kredieten op het begrotingsartikel QF0-1QDG2RA-WT van de
 			<td>Lede</td>
 			<td>239.792,19 €</td>
 			<td>686.376,58 €</td>
-			<td>343.188,29 €</td>
+			<td>359.688,29 €</td>
 		</tr>
 		<tr>
 			<td>Leuven</td>
