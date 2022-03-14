@@ -23,13 +23,57 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## HOOFDSTUK 1. Algemene bepalingen
 
+### ART 1.
+
+Dit besluit voorziet in de gedeeltelijke omzetting van richtlijn 2014/94/EU van het Europees Parlement en de Raad van 22 oktober 2014 betreffende de uitrol van infrastructuur voor alternatieve brandstoffen.
+
+### ART 2.
+
+In dit besluit wordt verstaan onder:<br>
+1° bevoegde overheid: de bevoegde overheid, vermeld in artikel 3, 2°, van het decreet van 16 juli 2021 over zero-emissievoertuigen en voertuigen aangedreven door alternatieve brandstoffen;<br>
+2° minister: de Vlaamse minister, bevoegd voor het algemeen mobiliteitsbeleid.
+
 ## HOOFDSTUK 2. Laadinfrastructuur voor elektrische voertuigen
 
 ## Afdeling 1. Doelstellingen voor de uitrol van semipubliek en publiek toegankelijke laadpunten
 
+### ART 3.
+
+De minister bepaalt en evalueert jaarlijks de doelstellingen die gelden voor de uitrol van semipubliek en publiek toegankelijke laadpunten, vermeld in artikel 7, § 2, tweede lid, van het decreet van 16 juli 2021 over zero-emissievoertuigen en voertuigen aangedreven door alternatieve brandstoffen, aan de hand van de volgende criteria:<br>
+1° het aantal ingeschreven elektrische voertuigen;<br>
+2° het aantal ingeschreven batterijelektrische voertuigen;<br>
+3° het aantal operationele semipubliek en publiek toegankelijke laadpunten en het vermogen ervan.<br>
+<br>
+De minister kan bijkomende criteria bepalen.<br>
+<br>
+De minister deelt de doelstellingen en eventuele bijsturingen ervan op basis van de evaluatie, vermeld in het eerste lid, mee aan de Vlaamse Regering.
+
 ## Afdeling 2. De uitrol van laadpunten
 
+### ART 4.
+
+De bevoegde overheid organiseert plaatsingsprocedures voor de installatie, het onderhoud en de commerciële exploitatie van laadpunten voor elektrische voertuigen voor normaal en hoog vermogen op het openbare domein door een laadpuntexploitant.<br>
+<br>
+In afwijking van het eerste lid kan een gemeente ervoor kiezen om zelf een plaatsingsprocedure uit te schrijven voor de installatie, het onderhoud en de commerciële exploitatie van de laadpunten door een laadpuntexploitant. Ze laat dat in voorkomend geval weten aan de bevoegde overheid, uiterlijk een maand voor de lancering van de plaatsingsprocedure van de bevoegde overheid in de regio in kwestie.<br>
+<br>
+Een gemeente die de mogelijkheid, vermeld in het tweede lid, toepast, voldoet aan al de volgende voorwaarden:<br>
+1° ze geeft tijdig invulling aan de doelstellingen, vermeld in artikel 3;<br>
+2° ze voldoet aan de voorwaarden, vermeld in artikel 5, § 3 tot en met § 5, en artikel 6.<br>
+<br>
+Als de gemeente de plaatsingsprocedure vernieuwt of verlengt na de inwerkingtreding van dit besluit, voldoet ze ook aan de voorwaarden, vermeld in het derde lid, 1° en 2°.<br>
+<br>
+Als een gemeente bij de plaatsingsprocedure een eigen digitaal loket heeft opgericht als vermeld in artikel 5, worden de aanvragen uit die gemeente, die toch bij de bevoegde overheid toekomen, doorgestuurd naar de gemeente in kwestie. De behandeling vindt plaats volgens de procedure die de gemeente bepaalt.<br>
+<br>
+Bij het gunnen van de opdracht voor de installatie, het onderhoud en de commerciële exploitatie van laadpunten zorgen de bevoegde overheid of de gemeenten ervoor dat:<br>
+1° de principes van interoperabiliteit bij de uitbating worden gerespecteerd;<br>
+2° de prijzen aan de laadpunten redelijk zijn;<br>
+3° er minstens ook een ad-hocbetaalmogelijkheid wordt geboden zonder dat er een contract moet worden gesloten met de elektriciteitsleverancier of laadpuntexploitant in kwestie.
+
 ## Afdeling 3. Voorwaarden voor alle semipubliek en publiek toegankelijke laadpunten en laadpuntexploitanten
+
+### ART 7.
+
+De minister kan voor alle semipubliek en publiek toegankelijke laadpunten nadere regels bepalen met betrekking tot de interoperabele toegang tot de laadpunten en de laaddiensten, het `slimme' karakter van de laadsystemen en met betrekking tot de wijze waarop ze vindbaar, bereikbaar, toegankelijk en bruikbaar moeten zijn.
 
 ### ART 8.
 
@@ -66,4 +110,18 @@ De gegevens, vermeld in het eerste lid, 1°, worden elke dag geactualiseerd. De 
 
 ## HOOFDSTUK 3. Wijziging van het Energiebesluit van 19 november 2010
 
+### ART 10.
+
+In titel VI, hoofdstuk IV, van het Energiebesluit van 19 november 2010, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 16 juli 2021, wordt afdeling II, die bestaat uit artikel 6.4.2 tot en met artikel 6.4.12, opgeheven.
+
 ## HOOFDSTUK 4. Slotbepalingen
+
+### ART 11.
+
+Artikel 8 treedt in werking op 1 januari 2022.<br>
+<br>
+Artikel 5, 6 en 9 treden in werking op een door de minister vast te stellen datum en uiterlijk op 1 januari 2023.
+
+### ART 12.
+
+De Vlaamse minister, bevoegd voor het algemeen mobiliteitsbeleid, is belast met de uitvoering van dit besluit.

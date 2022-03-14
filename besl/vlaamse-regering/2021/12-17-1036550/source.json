@@ -2,16 +2,16 @@
   "codex_id": 1036550,
   "title": "Besluit van de Vlaamse Regering van 2021-12-17 over de laadinfrastructuur voor elektrische voertuigen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036550/VolledigDocument?datum=2022-01-01",
-  "source_sha256": "39ea979bd5537bef0d16e90610deddaabce6cefbd4097a8a59cde1b551489bd0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036550/VolledigDocument?datum=2022-03-14",
+  "source_sha256": "3b13c4947fc4b88f29136f62b952102d92cae8d2559b453f6bcee85bfb3d5097",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036550&param=informatie",
-  "as_of": "2022-01-01",
+  "as_of": "2022-03-14",
   "made": "2021-12-17",
   "gazette": "2022-03-04",
   "numac": 2022030197,
   "document_start": "2022-03-14",
   "document_end": null,
-  "in_force": "2022-01-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-03-14",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2022-03-14; future article versions excluded; article text as the API gives it"
 }
