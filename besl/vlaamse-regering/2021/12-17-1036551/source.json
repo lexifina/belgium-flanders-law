@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036551,
+  "title": "Besluit van de Vlaamse Regering van 2021-12-17 tot vaststelling van het landinrichtingsplan `Onthaal en Beleving - fase 1'",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036551/VolledigDocument?datum=2022-03-14",
+  "source_sha256": "ea6d621ff6f15247666101a41efcc81a6e48a66dde5198e7c676c968acc1995a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036551&param=informatie",
+  "as_of": "2022-03-14",
+  "made": "2021-12-17",
+  "gazette": "2022-03-04",
+  "numac": 2022030213,
+  "document_start": "2022-03-14",
+  "document_end": null,
+  "in_force": "2022-03-14",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2022-03-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
