@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036576,
+  "title": "Besluit van de Vlaamse Regering van 2022-02-04 tot vaststelling van het werkingsgebied Gent-stad",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036576/VolledigDocument?datum=2022-03-18",
+  "source_sha256": "81e15c298395b025a10d533a206f5071373a24ae0499a9ea436d0662d414b417",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036576&param=informatie",
+  "as_of": "2022-03-18",
+  "made": "2022-02-04",
+  "gazette": "2022-03-08",
+  "numac": 2022040232,
+  "document_start": "2022-03-18",
+  "document_end": null,
+  "in_force": "2022-03-18",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-03-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
