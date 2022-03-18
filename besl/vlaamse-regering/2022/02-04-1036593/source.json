@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036593,
+  "title": "Besluit van de Vlaamse Regering van 2022-02-04 tot vaststelling van het werkingsgebied Kust-Noord",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036593/VolledigDocument?datum=2022-03-18",
+  "source_sha256": "d87d1dd3a11a3fac1cac291f69ce6f62d5b158df9806fc670ff7a5af14c37ab0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036593&param=informatie",
+  "as_of": "2022-03-18",
+  "made": "2022-02-04",
+  "gazette": "2022-03-08",
+  "numac": 2022040207,
+  "document_start": "2022-03-18",
+  "document_end": null,
+  "in_force": "2022-03-18",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-03-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
