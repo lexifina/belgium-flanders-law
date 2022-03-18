@@ -46,7 +46,7 @@ Met uitzondering van het vraagafhankelijk geregeld vervoer, heeft elke lijn van 
 
 ### ART. 10.
 
-De VVM bepaalt het dienstverslag en het ritorder op basis van een uniform model voor het Vlaamse Gewest.
+...
 
 ### ART. 11.
 
