@@ -1,0 +1,40 @@
+# Besluit van de Vlaamse Regering van 2022-02-04 tot vaststelling van het werkingsgebied Halle-Vilvoorde-Midden
+
+### Aanhef
+
+Rechtsgrond<br>
+Dit besluit is gebaseerd op:<br>
+- de Vlaamse Codex Wonen van 2021, artikel 4.37, vervangen bij het decreet van 9 juli 2021.<br>
+<br>
+Vormvereiste<br>
+De volgende vormvereiste is vervuld:<br>
+- De Vlaamse minister, bevoegd voor de begroting, heeft zijn akkoord gegeven op 8 december 2021.<br>
+<br>
+Initiatiefnemer<br>
+Dit besluit wordt voorgesteld door de Vlaamse minister van Financiën en Begroting, Wonen en Onroerend Erfgoed.<br>
+<br>
+Motivering<br>
+Dit besluit is gebaseerd op de volgende motieven:<br>
+- Artikel 4.37 van de Vlaamse Codex Wonen bepaalt dat de Vlaamse Regering de werkingsgebieden voor de woonmaatschappijen vaststelt;<br>
+- Overwegende dat het werkingsgebied Halle-Vilvoorde-Midden:<br>
+• voldoet aan de voorwaarde om uit één of meerdere geografisch aaneensluitende gemeenten te bestaan;<br>
+• geen ander werkingsgebied (van een woonmaatschappij) omsluit;<br>
+• afgestemd is op de referentieregio's zoals vooropgesteld door de Vlaamse regering, aangezien het geen gemeenten bevat die in een andere referentieregio liggen;<br>
+• voldoende sociale huurwoningen bevat opdat de woonmaatschappij die er gevormd zal worden kan voldoen aan de minimale schaalgrootte, zoals vermeld in art. 4.46/2 van de VCW van 2021;<br>
+• de gemeenteraden van Opwijk, Merchtem, Wemmel, Asse en Dilbeek een advies hebben gegeven omtrent de afbakening van een werkingsgebied;<br>
+• De gemeenteraden van Affligem, Liedekerke, Roosdaal, Ternat adviseerden om de volledige Regio Halle-Vilvoorde als één werkingsgebied af te bakenen maar de operationele werking van de aldaar te vormen woonmaatschappij op te splitsen in meerdere regionale deelwerkingen maar minimaal aan te sluiten bij het werkingsgebied waartoe de gemeenten Asse, Merchtem, Opwijk, Wemmel en Dilbeek toe behoren;<br>
+• de gemeenteraden van Galmaarden, Bever, Gooik Lennik en Herne adviseerden om de volledige Regio Halle-Vilvoorde als één werkingsgebied af te bakenen maar de operationele werking van de aldaar te vormen woonmaatschappij op te splitsen in meerdere regionale deelwerkingen;<br>
+• de gemeenten Galmaarden, Bever, Gooik Lennik en Herne hun samenwerking wensen verder te zetten, op basis van hun geografische aaneensluitend zijn, hun bestaande samenwerking en hun sterk gelijkaardige kenmerken die de nood aan samenwerking versterkt;<br>
+• de gemeente Lennik als alternatief voor de afbakening van één regionaal werkingsgebied adviseerde om samen met de andere gemeenten uit het Pajottenland aan te sluiten bij bestaande samenwerkingsverbanden met de gemeenten Roosdaal, Ternat, Liedekerke, Affligem, Asse, Wemmel, Merchtem, Opwijk en Dilbeek.<br>
+<br>
+Na beraadslaging,<br>
+<br>
+DE VLAAMSE REGERING BESLUIT:
+
+### ART 1.
+
+De gemeenten Affligem, Asse, Dilbeek, Liedekerke, Merchtem, Opwijk, Roosdaal, Ternat, Wemmel, Bever, Herne, Galmaarden, Gooik en Lennik vormen het werkingsgebied Halle-Vilvoorde-Midden.
+
+### ART 2.
+
+De Vlaamse minister, bevoegd voor het woonbeleid, is belast met de uitvoering van dit besluit.
