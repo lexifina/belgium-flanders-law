@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036605,
+  "title": "Besluit van de Vlaamse Regering van 2022-02-04 tot vaststelling van het werkingsgebied Zuid-West-Vlaanderen-West",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036605/VolledigDocument?datum=2022-03-18",
+  "source_sha256": "6afd566156e096cc93cbdf1ccea5fc6e2f5c4cab6743fc78593dab456cf77ea1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036605&param=informatie",
+  "as_of": "2022-03-18",
+  "made": "2022-02-04",
+  "gazette": "2022-03-08",
+  "numac": 2022040213,
+  "document_start": "2022-03-18",
+  "document_end": null,
+  "in_force": "2022-03-18",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-03-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
