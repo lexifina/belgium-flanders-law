@@ -30,7 +30,7 @@ De hierna genoemde personeelsleden van de afdeling Handhaving van het Departemen
 5° Janssens Thierry;<br>
 6° Lathouwers Lennart;<br>
 7° Mellaerts Jan;<br>
-8° Meul Jolien;<br>
+8° ...;<br>
 9° Ruysseveldt Geert;<br>
 10° Van Boeckel Krista;<br>
 11° Vercauteren Mart;<br>
