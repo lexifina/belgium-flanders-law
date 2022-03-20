@@ -125,9 +125,7 @@ d) een jaarabonnement voor personen van 65 jaar en ouder: 56 euro;<br>
 <br>
 Voor elke aanvraag van een sms-vervoerbewijs worden er operatorkosten van 0,15 euro aangerekend aan de klant.<br>
 <br>
-§ 5. VVM De Lijn kan in het kader van een overeenkomst met overheden, publieke instellingen en privépartners tariefproducten met korting samenstellen op basis van de tarieven, vermeld in paragraaf 2 tot en met 4.<br>
-<br>
-VVM De Lijn behoudt het recht om kortingen toe te kennen en tijdelijke tariefproducten aan te bieden in het kader van commerciële acties.
+§ 5. ...
 
 ### ART 3.
 
@@ -141,14 +139,7 @@ De volgende categorieën van personen hebben recht op een jaarabonnement, ofwel 
 1° de personen die in aanmerking komen voor het statuut voor verhoogde tegemoetkoming;<br>
 2° de personen die in het bezit zijn van een attest van verhoogde tegemoetkoming dat maximaal drie maanden oud is op het moment van de aanvraag van het abonnement;<br>
 3° de personen die houder zijn van een geldige omniokaart;<br>
-4° de personen die houder zijn van een geldige&nbsp;NMBS-kaart verhoogde tegemoetkoming.<br>
-<br>
-De volgende categorieën van personen zijn vrijgesteld van betaling van het openbaar vervoer binnen het kernnet en het aanvullende net:<br>
-1° personen met een handicap;<br>
-2° personen die in het bezit zijn van een begeleiderskaart en die een persoon met een handicap begeleiden tijdens de reis;<br>
-3° oud-strijders en personen die met hen gelijkgesteld zijn;<br>
-4° begeleide kinderen tot zes jaar;<br>
-5° parlementsleden, als ze geen afstand doen van hun grondwettelijk prerogatief.
+4° de personen die houder zijn van een geldige&nbsp;NMBS-kaart verhoogde tegemoetkoming.
 
 ### ART 4.
 
