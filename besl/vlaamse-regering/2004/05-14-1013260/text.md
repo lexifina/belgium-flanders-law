@@ -18,31 +18,31 @@ Dit besluit is van toepassing op het geregeld vervoer dat door de VVM wordt geor
 
 ### ART. 3.
 
-Als de VVM de uitvoering van diensten van geregeld vervoer via een overheidsopdracht gunt aan een privé-exploitant, past ze het bestek aan overeenkomstig de bepalingen van dit besluit.<br /><br />De VVM mag de uitvoering van diensten van geregeld vervoer enkel toewijzen aan derden die gelijkwaardige arbeidsvoorwaarden als die van de VVM naleven.<br /><br />De totale voertuiggebonden exploitatie die door de VVM aan derden wordt toevertrouwd, zal tegen 31 december 2009 vijftig percent bereiken van de verrichte autobuskilometers in het door de VVM georganiseerde geregeld en bijzonder geregeld vervoer.
+...
 
 ### ART. 4.
 
-De VVM voert het gewestgrensoverschrijdend geregeld vervoer uit overeenkomstig de bepalingen van de samenwerkingsakkoorden, bedoeld in artikel 16, derde lid, van het decreet.
+...
 
 ### ART. 5.
 
-Bij de organisatie van het niet-grensoverschrijdend bezoldigd geregeld vervoer in het Vlaamse Gewest, is de VVM belast met de vaststelling van de lijnvoering en de dienstregeling van elke geregelde vervoerdienst.
+...
 
 ### ART. 6.
 
-Voor de permanente invoering of de permanente opheffing van lijnen of gedeeltes van lijnen van geregeld vervoer overlegt de VVM met de administratie en de betrokken gemeenten van het Vlaamse Gewest.<br /><br />Voor de permanente wijzigingen van de reisweg, de bedieningsfrequentie of de bedieningstijden brengt de VVM minstens de administratie en de betrokken gemeenten van het Vlaamse Gewest op de hoogte.<br /><br />Voor de permanente wijzigingen die leiden tot meeruitgaven moet de VVM ook de budgettaire weerslag aan de administratie melden.
+...
 
 ### ART. 7.
 
-Bij het uitvoeren van haar opdracht het geregeld vervoer te organiseren, zet de VVM, behoudens in geval van overmacht, het vereiste aantal voertuigen in. Die voertuigen beschikken over voldoende capaciteit zodat in normale omstandigheden alle reizigers kunnen worden opgenomen.
+...
 
 ### ART. 8.
 
-Aan de hoofdhaltes waar de geregelde vervoerdiensten van de VVM en van één of meer andere maatschappijen samenkomen, moet de coördinatie tussen de aangeboden diensten van de verschillende vervoermaat-schappijen door een schriftelijk akkoord worden verzekerd.<br /><br />De VVM maakt afspraken met de andere vervoermaatschappijen over de onderlinge aansluiting tussen de geregelde vervoerdiensten aan de belangrijkste haltes buiten het Vlaamse Gewest die door de VVM worden bediend.
+...
 
 ### ART. 9.
 
-Met uitzondering van het vraagafhankelijk geregeld vervoer, heeft elke lijn van geregeld vervoer een unieke reisweg.<br /><br />Het lijnnummer waaraan de reiziger de bediende lijn herkent, bestaat uit maximaal drie cijfers.<br /><br />De langeafstandsverbindingen die een beperkt aantal haltes bedienen, zijn herkenbaar door toepassing van een uniform aanduidingsysteem in het Vlaamse Gewest.
+...
 
 ### ART. 10.
 
@@ -50,7 +50,7 @@ Met uitzondering van het vraagafhankelijk geregeld vervoer, heeft elke lijn van 
 
 ### ART. 11.
 
-De VVM brengt door middel van een ongevallenverslag, waarvan het model uniform is voor het Vlaamse Gewest, minstens de minister en de<br /><br />administratie onmiddellijk op de hoogte van:<br /><br />1° de zware verkeersongevallen, in het bijzonder van die met lichamelijke letsels of met dodelijke afloop;<br /><br />2° de ongevallen die een vertraging van meer dan twee uur op de dienstregeling veroorzaken.<br />Onverminderd de bepalingen van het koninklijk besluit van 15 mei 1990 tot het verbieden van het roken in bepaalde openbare plaatsen, geldt er een algemeen rookverbod in alle voertuigen en alle overdekte ruimtes van de stations van de VVM, evenals in de schuilhuisjes.
+...
 
 ### ART. 12.
 
@@ -130,7 +130,7 @@ De gemeente vraagt de nodige vergunningen of toelatingen aan de domeinbeheerder 
 
 ### ART. 28.
 
-De raad van bestuur van de VVM legt uniforme dienstregelingperiodes vast voor het Vlaamse Gewest en de voorwaarden waaronder een exploitatie-entiteit van die periodes kan afwijken.
+...
 
 ### ART. 29.
 
@@ -142,7 +142,7 @@ Aan een halte met schuilhuisje wordt door de VVM in het schuilhuisje minstens é
 
 ### ART. 31.
 
-De reiziger moet het dienstregelingboekje en het netplan van het vervoersgebied in kwestie kunnen raadplegen op het voertuig.
+...
 
 ## ONDERAFDELING 2 INFORMATIE AAN DE HOOFDHALTES
 
@@ -152,7 +152,7 @@ In de stedelijke gebieden plaatst de VVM een elektronisch aankondigingsbord aan 
 
 ### ART. 33.
 
-In de grootstedelijke gebieden is elk verkoop- en informatiepunt van de VVM aan een hoofdhalte elke dag open gedurende minimaal vier uur per dag.<br /><br />In de stedelijke gebieden is het verkoop- en informatiepunt van de VVM aan de belangrijkste hoofdhalte tijdens de week gedurende minimaal vier uur per dag geopend, alsook gedurende minimaal vier uur van zaterdag tot zondag. Op feestdagen geldt dezelfde regeling als op zondagen.<br /><br />Als er in de kleinstedelijke gebieden, de randstedelijke gebieden of in de buitengebieden een permanent bediend verkoop- en informatiepunt van de VVM wordt gevestigd, wordt dat aan een hoofdhalte van de gemeente in kwestie opgericht.<br /><br />In elk permanent bediend verkoop- en informatiepunt van de VVM wordt de dienstregeling van alle vervoersgebieden en alle netplannen, bedoeld in artikel 12, § 5 tot en met § 7, van het besluit basismobiliteit, al dan niet digitaal, ter beschikking gesteld.
+...
 
 ## AFDELING 5 RESERVERINGSCENTRALE VOOR VRAAGAFHANKELIJK GEREGELD VERVOER
 
@@ -174,11 +174,11 @@ De reserveringscentrale kan de aanvragen weigeren van de personen die herhaaldel
 
 ### ART. 37.
 
-De bestekken van de VVM voor de aankoop van voertuigen worden steeds aangepast aan de nieuwste ontwikkelingen in verband met:<br /><br />- verkeersveiligheid;<br /><br />- milieuvriendelijkheid;<br /><br />- comfort voor de reizigers.
+...
 
 ### ART. 38.
 
-Elk voertuig van de VVM, met uitzondering van de openbaarvervoerauto's,   draagt aan de buiten-zijde, vooraan en achteraan een herkenningsnummer. Dat   wordt eveneens aangebracht aan de binnenzijde van de voertuigen, maar alleen   vooraan. De hoogte van de letters en de cijfers bedraagt minstens:<BR>1° aan de   buitenzijde: 7 cm;<BR>2° aan de binnenzijde: 3 cm.<BR><BR>Elk voertuig van de   VVM draagt aan de buitenzijde herkenningstekens van de VVM. De VVM bepaalt per   type voertuig, de vorm en de afmetingen van die herkenningstekens.
+...
 
 ### ART. 39.
 
@@ -186,43 +186,43 @@ Op de voertuigen die worden ingezet in het vraagafhankelijk geregeld vervoer wor
 
 ### ART. 40.
 
-Dit artikel is van toepassing op de voertuigen van de VVM die langer zijn dan 8 m.<br /><br />De aanduiding van het lijnnummer, bedoeld in artikel 14, § 1, eerste lid, van het besluit basismobiliteit, heeft vooraan en achteraan een letterhoogte van ten minste 15 cm en aan de zijkant een letterhoogte van ten minste 10 cm.<br /><br />De aanduiding van de bestemming en de eventuele punten van de gevolgde reisweg, bedoeld in artikel 14, § 1, tweede lid, van het besluit basismobiliteit, heeft vooraan en achteraan een letterhoogte van ten minste 5 cm en aan de zijkant een letterhoogte van ten minste 4 cm.<br /><br />Als dat nodig is, worden de aanduidingen, bedoeld in het eerste en tweede lid, verlicht.<br /><br />Als de voertuigen die bestemd zijn voor het geregeld vervoer een rit uitvoeren die niet toegankelijk is voor reizigers, wordt de vermelding «GEEN DIENST» of «RIJSCHOOL» in plaats van de aanduiding van de bestemming gebruikt.
+...
 
 ### ART. 41.
 
-Met uitzondering van de voertuigen voor vraagafhankelijk geregeld vervoer en openbaarver-voerauto's, zijn in de voertuigen toestellen geïnstalleerd die de reizigers toelaten de halten aan te vragen. De bestekken voor de aankoop van voertuigen bevatten de verplichting dat die toestellen gelijkmatig gespreid zijn over het voertuig, gemakkelijk bereikbaar zijn en lager zijn aangebracht dan 1,60 m boven de vloer van het voertuig.<br /><br />De voertuigen zijn bovendien uitgerust met een voor de reizigers goed zichtbaar en gemakkelijk te bereiken noodsein.
+...
 
 ### ART. 42.
 
-In de as van het voertuig, op 1 m boven de vloer, bedraagt de verlichtingssterkte meer dan 100 lux. Die verlichtingssterkte is lager in de nabijheid van de plaats van de bestuurder om zijn zicht niet te hinderen.
+...
 
 ### ART. 43.
 
-De bestekken voor de aankoop van voertuigen bevatten de verplichting om de voertuigen, met uitzondering van die, bedoeld in artikel 45, uit te rusten met een lage vloer als bedoeld in Richtlijn 2001/85/EG van het Europees Parlement en de Raad van 20 november 2001 betreffende speciale voorschriften voor voertuigen bestemd voor het vervoer van passagiers, met meer dan acht zitplaatsen, die van de bestuurder niet meegerekend, en tot wijziging van Richtlijn 70/156/EEG van de Raad en van Richtlijn 97/27/EG, om het in- en uitstappen te vergemakke-lijken.
+...
 
 ### ART. 44.
 
-De plaatsen, die voor mindervaliden zijn bestemd, worden in de voertuigen als dusdanig kenbaar gemaakt.
+...
 
 ### ART. 45.
 
-Op de voertuigen die ingezet worden op langeafstandsverbindingen van geregeld vervoer die een beperkt aantal haltes bedienen, is het aantal zitplaatsen groter dan het aantal staanplaatsen.
+...
 
 ## ONDERAFDELING 2 VOERTUIGEN VOOR VOERTUIGGEBONDEN EXPLOITATIE
 
 ### ART. 46.
 
-Er worden geen voertuigen ouder dan achttien jaar ingezet in de voertuiggebonden exploitatie.
+...
 
 ### ART. 47.
 
-§ 1. De deeltjesuitstoot van de voertuigen die langer dan 8 m zijn en die uitgerust zijn met een dieselmotor van het type EURO-II, blijft minstens beperkt tot de waarden van de EURO IV-norm.<br /><br />De minister kan extra bepalingen opleggen met betrekking tot de waarden waaronder de deeltjesuitstoot en de uitstoot van stikstofoxiden moeten blijven.<br /><br />§ 2. De uitstoot van de openbaarvervoerauto's die uitgerust zijn met een diesel- of benzinemotor, blijft minstens beperkt tot de waarden van de EURO III-norm.<br /><br />§ 3. De VVM bepaalt de normen voor het brandstofverbruik en neemt die op in de bestekken voor de aankoop van voertuigen.
+...
 
 ## ONDERAFDELING 3 VOERTUIGEN VOOR INFRASTRUCTUURGEBONDEN EXPLOITATIE
 
 ### ART. 48.
 
-De voertuigen die worden ingezet in infrastructuurgebonden exploitatie, zijn maximaal zesendertig jaar oud, te rekenen vanaf de datum van de eerste ingebruikname op het ogenblik dat ze buiten dienst worden gesteld of aan een grondige vernieuwing worden onderworpen. Na een grondige vernieuwing kunnen de voertuigen nog worden gebruikt tot ze maximaal vijftig jaar oud zijn.
+...
 
 ### ART. 49.
 
@@ -248,21 +248,21 @@ De deuren die bestemd zijn voor het comfortabel in- en uitstappen met een kinder
 
 ### ART. 54.
 
-De VVM mag voor het inzetten van openbaarvervoerauto's alleen overeenkomsten sluiten met exploitanten die beschikken over een vergunning als bedoeld in artikel 25 of 41 van het decreet.
+...
 
 ### ART. 55.
 
-Aan de buitenzijde van openbaarvervoerauto's wordt door middel van herkenningstekens van de VVM het geregeld karakter van de bediening aan de reizigers kenbaar gemaakt. De herkenningstekens zijn duidelijk zichtbaar voor de wachtende reizigers.<br /><br />De raad van bestuur van de VVM bepaalt de eisen van de herkenningstekens voor openbaarvervoerauto's.
+...
 
 ## AFDELING 7 VERPLICHTINGEN VOOR HET PERSONEEL
 
 ### ART. 56.
 
-De personeelsleden zijn betrouwbaar en beschikken over voldoende vakbekwaamheid voor de uitvoering van hun functie.
+...
 
 ### ART. 57.
 
-Het personeel dat in contact komt met het publiek draagt minstens een herkenningsteken van de VVM. De raad van bestuur van de VVM bepaalt de herkenningstekens.
+...
 
 ### ART. 58.
 
@@ -270,15 +270,15 @@ Het personeel waakt erover dat de reizigers, en het publiek in het algemeen, de 
 
 ### ART. 59.
 
-De bestuurder van een voertuig van de VVM mag, behoudens in geval van overmacht, enkel reizi-gers laten in- of uitstappen aan de haltes van geregeld vervoer.
+...
 
 ### ART. 60.
 
-De bestuurder van een voertuig van de VVM weigert reizigers als het voertuig volzet is.<br /><br />De bestuurder van een voertuig vraagt aan de reizigers om zo plaats te nemen in het voertuig dat er een maximale bezetting van het voertuig mogelijk is.
+...
 
 ### ART. 61.
 
-De bestuurder van een voertuig van de VVM en de personen vermeld in artikel 84, die belast zijn met het toezicht kunnen reizigers die de bepalingen van dit besluit overtreden, de toegang tot het voertuig ontzeggen, dan wel hen gelasten het voertuig onmiddellijk te verlaten. <br /><br />De bestuurder kan dieren weigeren als die klaarblijkelijk een gevaar kunnen opleveren voor de andere reizigers, hen kunnen bevuilen, hinderen of ongemak bezorgen.<br /><br />Dieren, die zonder hinder op de schoot kunnen worden gehouden, en geleidehonden voor blinden of honden die een politieman vergezellen, zijn toegelaten. Nochtans worden ook honden die niet op de schoot kunnen worden gehouden toegelaten op voorwaarde dat ze aan de leiband gehouden worden en bovendien een muilband dragen, als ze een gevaar voor de reizigers zouden kunnen opleveren.<br /><br />De bestuurder kan pakjes weigeren die, wegens hun omvang, aard of reuk, de andere reizigers kunnen kwetsen, bevuilen, hinderen of ongemak bezorgen.
+De bestuurder van een voertuig van de VVM en de personen vermeld in artikel 84, die belast zijn met het toezicht kunnen reizigers die de bepalingen van dit besluit overtreden, de toegang tot het voertuig ontzeggen, dan wel hen gelasten het voertuig onmiddellijk te verlaten.
 
 ### ART. 62.
 
@@ -286,7 +286,7 @@ De bestuurder moet aan elke halte stoppen die door de lijn in kwestie wordt bedi
 
 ### ART. 63.
 
-De minister kan de verplichtingen voor de bestuurders van de voertuigen van de VVM nader omschrijven.
+...
 
 ## AFDELING 8 [VERPLICHTINGEN VAN HET PUBLIEK EN DE REIZIGERS (verv. BVR 26 januari 207, art. 5)]
 
@@ -318,9 +318,7 @@ Het is niet toegestaan :<br>
 <br>
 De reiziger moet op elk moment zijn identiteit kunnen bewijzen.<br>
 <br>
-§ 2. Op de voertuigen van VVM kunnen vervoerbewijzen vanaf 1 juli 2020 niet met cash geld betaald worden.<br>
-<br>
-In afwijking van het eerste lid, kunnen, vanaf 14 maart 2020 en tot op de datum dat de Nationale Veiligheidsraad beslist om de noodmaatregelen op te heffen, vervoerbewijzen niet met cash geld betaald worden.</p>
+§ 2. ...</p>
 
 ### ART. 67.
 
