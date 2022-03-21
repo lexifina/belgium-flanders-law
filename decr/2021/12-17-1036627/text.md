@@ -2,12 +2,150 @@
 
 ## HOOFDSTUK 1. Inleidende bepaling
 
+### ART 1.
+
+Dit decreet regelt een gewestaangelegenheid.
+
 ## HOOFDSTUK 2. Wijzigingen van het Energiedecreet van 8 mei 2009
+
+### ART 2.
+
+In artikel 3.2.1, § 2, 2°, van het Energiedecreet van 8 mei 2009, vervangen door het decreet van 9 juli 2010, wordt tussen de woorden "publicaties die kaderen in het energiebeleid" en de woorden "en de overige toevallige ontvangsten" de zinsnede ", inkomsten met betrekking tot het uitwinnen van door of krachtens dit decreet opgelegde bankwaarborgen, de terugbetaling van kapitaal van door of krachtens dit decreet via het Energiefonds ingestelde leningen voor noodkoopwoningen, de terugvordering van de rentesubsidie toegekend in kader van het renteloos renovatiekrediet" ingevoegd.
+
+### ART 3.
+
+Aan artikel 4.4.2, § 1, eerste lid, 8°, van hetzelfde decreet, ingevoegd bij het decreet van 2 april 2021, wordt de zinsnede "en 4° " toegevoegd.
+
+### ART 4.
+
+In artikel 7.1.1 van hetzelfde decreet, vervangen bij het decreet van 13 juli 2012 en het laatst gewijzigd bij het decreet van 4 december 2020, worden volgende wijzigingen aangebracht:<br>
+1° in paragraaf 2, zesde lid, worden de woorden "750 kW" vervangen door de woorden "2 MW";<br>
+2° in paragraaf 2, zesde lid, wordt de zinsnede "tenzij voor zowel de bestaande installatie als voor de uitbreiding(en) een nieuwe aparte projectspecifieke bandingfactor wordt berekend, waarbij voor elk deel van de installatie wordt gebruikgemaakt van de respectievelijke afschrijvingstermijn en de startdatum van de bestaande installatie behouden blijft" opgeheven.
+
+### ART 5.
+
+In artikel 7.1.10 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 4 december 2020, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 3, eerste lid, 1°, wordt de zin "Die vermindering geldt alleen voor bedrijfsvestigingen waarvan de hoofdactiviteit behoort tot NACE-BEL 2008 code 05 tot en met 33 (industrie en winning van delfstoffen), code 46391, code 52100 of code 52241;" vervangen door de zinnen "Die vermindering geldt alleen voor bedrijfsvestigingen waarvan de hoofdactiviteit behoort tot NACE-BEL 2008 RSZ-code 05 tot en met 33 (industrie en winning van delfstoffen), RSZ-code 46391, RSZ-code 52100 of RSZ-code 52241 en geldt enkel voor bedrijfsvestigingen waarvan hogervermelde RSZ-codes op 31 december van het afnamejaar door de toegangshouder in het toegangsregister zijn geregistreerd. Hiertoe dient de afnemer de betreffende RSZ-code mee te delen aan zijn toegangshouder.";<br>
+2° paragraaf 3/1, opgeheven door het decreet van 30 oktober 2020, wordt opnieuw opgenomen in de volgende lezing:<br>
+" § 3/1. In afwijking van paragraaf 3 wordt voor de afnamepunten van stationaire elektriciteitsopslagfaciliteiten die rechtstreeks op het elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit of het transmissienet zijn aangesloten en voor zover deze elektriciteitsopslagfaciliteit als enige aangesloten is op dit toegangspunt, de factor Ev, vermeld in paragraaf 2, verminderd met 100% van de hoeveelheid elektriciteit die in n-1 werd afgenomen op het afnamepunt van de betrokken elektriciteitsopslagfaciliteiten en die via het toegangspunt van de betrokken elektriciteitsopslagfaciliteiten gedurende de periode in het jaar n-1 waarvan de certificaatplichtige, vermeld in paragraaf 1, toegangshouder was, terug werd geïnjecteerd in het net.".
+
+### ART 6.
+
+In artikel 7.1.11 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 4 december 2020, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 2/1, eerste lid, 1°, wordt het woord "code" telkens vervangen door het woord "RSZ-code";<br>
+2° in paragraaf 2/1, eerste lid, 2°, wordt het woord "code" telkens vervangen door het woord "RSZ-code";<br>
+3° aan paragraaf 2/1 wordt een vierde lid toegevoegd, dat luidt als volgt:<br>
+"De vermindering zoals bepaald in punt 1° en 2° van het eerste lid geldt enkel voor bedrijfsvestigingen waarvan de hogervermelde RSZ-codes op 31 december van het afnamejaar door de toegangshouder in het toegangsregister zijn opgenomen. Hiertoe dient de afnemer de betreffende RSZ-code mee te delen aan zijn toegangshouder.";<br>
+4° er wordt een paragraaf 2/2 ingevoegd, die luidt als volgt:<br>
+" § 2/2. In afwijking van paragraaf 2 wordt voor de afnamepunten van stationaire elektriciteitsopslagfaciliteiten die rechtstreeks aan het elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit of het transmissienet zijn aangesloten en voor zover deze elektriciteitsopslagfaciliteit als enige aangesloten is op dit toegangspunt, de factor Ev, vermeld in paragraaf 2, verminderd met 100% van de hoeveelheid elektriciteit die in n-1 werd afgenomen op het afnamepunt van de betrokken elektriciteitsopslagfaciliteiten en die via het toegangspunt van de betrokken elektriciteitsopslagfaciliteiten gedurende de periode in het jaar n-1 waarvan de certificaatplichtige, vermeld in paragraaf 1, toegangshouder was, terug werd geïnjecteerd in het net.".
 
 ### ART 7.
 
 Aan artikel 7.2.1, § 1, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 2 april 2021, wordt een punt 4° toegevoegd, dat luidt als volgt:<br>
 "4° de actieve afnemer tussen verschillende toegangspunten op het elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit of een gesloten distributienet van elektriciteit waarvan hij titularis is, met betrekking tot de energie uit hernieuwbare energiebronnen die op één van die toegangspunten wordt geproduceerd, en maximaal ten belope van de afname op die toegangspunten.".
+
+### ART 8.
+
+In artikel 7.3.1 van hetzelfde decreet, gewijzigd bij het decreet van 8 juli 2011, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt het woord "duizend" vervangen door het woord "zevenhonderdvijftig";<br>
+2° in het eerste lid worden de woorden "het aansluitingsvermogen van die productie-installatie niet hoger is dan 5 MVA" vervangen door de woorden "het vermogen van die productie-installatie minstens 75 kWe is en niet hoger is dan 5 MWe";<br>
+3° in het tweede lid wordt het woord "duizend" vervangen door het woord "zevenhonderdvijftig";<br>
+4° in het tweede lid worden de woorden "de productie-installatie" vervangen door de woorden "een productie-installatie met een vermogen van minstens 75 kWe en niet hoger dan 5 MWe".
+
+### ART 9.
+
+In artikel 7.5.1 van hetzelfde decreet, gewijzigd bij de decreten van 12 juli 2013 en 24 februari 2017, wordt het tweede lid opgeheven.
+
+### ART 10.
+
+In artikel 11.1.14, § 2, van hetzelfde decreet, het laatst gewijzigd bij de decreten van 30 oktober 2020 en 4 december 2020, worden de volgende wijzigingen aangebracht:<br>
+1° tussen het derde en vierde lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+"In de energieprestatiedatabank worden de documenten, vermeld in artikel 11.1.13, opgenomen en bijgehouden. De Vlaamse Regering zal tevens bepalen welke individuele stavingstukken hierbij in dit kader door de verslaggever worden ingediend en die in de energieprestatiedatabank worden bijgehouden. Het VEKA is verantwoordelijk voor de verwerking van de persoonsgegevens. De stavingstukken worden gedurende een periode van tien jaar bewaard.";<br>
+2° in het vierde lid, thans het vijfde lid geworden, worden tussen de woorden "De gegevens in de energieprestatiedatabank" en "zijn alleen toegankelijk" de zinsnede ", met uitzondering van de individuele stavingstukken zoals bepaald door de Vlaamse Regering," ingevoegd;<br>
+3° in het vijfde lid, thans het zesde lid geworden, worden de woorden "vierde lid" vervangen door de woorden "vijfde lid".
+
+### ART 11.
+
+Aan artikel 11.2.1, § 2, gewijzigd bij het decreet van 18 november 2011, wordt een vijfde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"De Vlaamse Regering kan bepalen welke delen van het energieprestatiecertificaat aangebracht worden op een opvallende plaats die duidelijk zichtbaar is voor het publiek.".
+
+### ART 13.
+
+In artikel 11.2/2.1 van hetzelfde decreet, ingevoegd bij het decreet van 30 oktober 2020, worden volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 worden de woorden "niet-residentiële gebouwen" vervangen door de woorden "niet-residentiële gebouwen of gebouweenheden";<br>
+2° in paragraaf 1 worden de woorden "niet-residentieel gebouw" telkens vervangen door de woorden "niet-residentieel gebouw of de niet-residentiële gebouweenheid";<br>
+3° in paragraaf 1, tweede lid, worden de woorden "het gebouw" vervangen door de woorden "het gebouw of de gebouweenheid";<br>
+4° paragraaf 2 wordt vervangen door wat volgt:<br>
+" § 2. Iedereen die een niet-residentieel gebouw of niet-residentiële gebouweenheid in volle eigendom notarieel overdraagt of hierop een opstalrecht of erfpachtrecht vestigt, moet in de hieraan verbonden publiciteit vermelden dat er verplichtingen gelden als vermeld in paragraaf 1.<br>
+Iedereen die voor een niet-residentieel gebouw of niet-residentiële gebouweenheid een onderhandse overeenkomst voor één van de rechtshandelingen, vermeld in paragraaf 2, eerste lid, opmaakt, moet vermelden dat voor het niet-residentieel gebouw of de niet-residentiële gebouweenheid verplichtingen gelden als vermeld in paragraaf 1.<br>
+De instrumenterende ambtenaar die voor een niet-residentieel gebouw of niet-residentiële gebouweenheid een authentieke akte voor één van de rechtshandelingen, vermeld in paragraaf 2, eerste lid, opmaakt, moet vermelden welke verplichtingen, als vermeld in paragraaf 1, gelden voor het niet-residentieel gebouw of de niet-residentiële gebouweenheid.<br>
+De Vlaamse Regering kan aan de instrumenterende ambtenaar, de personen, vermeld in het eerste lid, en aan derden verplichtingen opleggen in het kader van de uitvoering van de verplichtingen, vermeld in het eerste tot en met derde lid.".
+
+### ART 14.
+
+Aan het opschrift van titel XII van hetzelfde decreet, het laatst gewijzigd bij het decreet van 19 november 2021, worden de woorden "en platformen over energiedata" toegevoegd.
+
+### ART 15.
+
+Aan titel XII van hetzelfde decreet, het laatst gewijzigd bij het decreet van 19 november 2021, wordt een hoofdstuk VII toegevoegd, dat luidt als volgt:<br>
+<br>
+"Hoofdstuk VII. Energiedataplatform".
+
+### ART 16.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 19 november 2021, wordt aan hoofdstuk VII, toegevoegd bij artikel 15, een artikel 12.7.1 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 12.7.1. § 1. De Vlaamse Regering regelt de uitbouw en het beheer van een gecentraliseerde databank, hierna het energiedataplatform te noemen. De databank heeft de volgende doelstellingen:<br>
+1° de voorbereiding van het Vlaamse energie- en klimaatbeleid ondersteunen en dat beleid monitoren en evalueren;<br>
+2° het energierapport uitwerken;<br>
+3° aan de rapporteringsvereisten inzake energie en klimaat voldoen die in de federale, gewestelijke en Europese regelgeving zijn opgenomen;<br>
+4° de Vlaamse en Europese doelstellingen inzake energie- en klimaatbeleid opvolgen;<br>
+5° data ter beschikking stellen voor energie- en klimaatmodellen, scenarioberekeningen en geografische toepassingen;<br>
+6° data ter beschikking stellen voor communicatie en sensibilisering;<br>
+7° data voor beleidsmatig wetenschappelijk onderzoek rond energie en klimaat aanleveren;<br>
+8° informatievragen van derden rond energie en klimaat beantwoorden.<br>
+<br>
+§ 2. Volgende categorieën van persoonsgegevens worden verwerkt in het energiedataplatform:<br>
+1° identificatiegegevens van het gebouw of de gebouweenheid;<br>
+2° woningkenmerken;<br>
+3° premiegegevens.<br>
+<br>
+Het VEKA is verantwoordelijk voor de verwerking van de gegevens.<br>
+<br>
+De betrokkenen bij de verwerking van persoonsgegevens in het energiedataplatform zijn:<br>
+1° de houder van een zakelijk recht op het gebouw;<br>
+2° de bewoner of gebruiker van het gebouw;<br>
+3° de architect, de aannemer, de installateur, betrokken bij het bouwproces;<br>
+4° de deskundige, de adviseur, de expert.<br>
+<br>
+De Vlaamse Regering bepaalt de voorwaarden voor de toegang, het gebruik en de verkrijging van de verwerkte gegevens. Ze bepaalt ook de algemene organisatorische en technische maatregelen die genomen moeten worden om de kwaliteit, de vertrouwelijkheid en de veiligheid van de gegevens te garanderen.<br>
+<br>
+§ 3. Het VEKA kan in het kader van statistische en wetenschappelijke doeleinden geanonimiseerde gegevens uit het energiedataplatform ter beschikking stellen van belanghebbende instanties. Het VEKA bepaalt onder welke voorwaarden die gegevens mogen worden gebruikt.<br>
+<br>
+§ 4. Met het oog op wetenschappelijke en statistische verwerkingen worden de persoonsgegevens gedurende een periode van dertig jaar bewaard. Na die periode worden de persoonsgegevens geanonimiseerd.".
+
+### ART 17.
+
+Aan artikel 13.1.4 van hetzelfde decreet, het laatst gewijzigd bij de decreten van 16 november 2018 en 4 december 2020, wordt een paragraaf 3 toegevoegd, die luidt als volgt:<br>
+<br>
+" § 3. De personeelsleden, vermeld in paragraaf 1, kunnen voor de unieke identificatie van de aangifteplichtige het ondernemingsnummer, het rijksregisternummer of het vreemdelingennummer opvragen en gebruiken. In kader van de controle met betrekking tot het naleven van de EPB-eisen en om overtredingen van de bepalingen van hoofdstuk I van titel XI en de uitvoeringsbesluiten ervan op te sporen en vast te stellen, kunnen de personeelsleden aan de betrokken overheid kosteloos de historiek van het gebouw en het attest van hoofdverblijfplaats met historiek van de aangifteplichtige opvragen.<br>
+<br>
+Voor de verwerking van deze persoonsgegevens geldt een bewaartermijn die duurt tot vijf jaar na de dag waarop het dossier is afgesloten, en in elk geval een bewaartermijn van maximaal tien jaar. Het VEKA is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.".
+
+### ART 18.
+
+Aan artikel 13.1.5, § 2, van hetzelfde decreet, het laatst gewijzigd bij de decreten van 16 november 2018 en 4 december 2020, worden een tweede en een derde lid toegevoegd, die luiden als volgt:<br>
+<br>
+"De personeelsleden, vermeld in paragraaf 1, kunnen voor de unieke identificatie van de eigenaar van een gebouw, die krachtens artikel 11.2.1, § 1, over een energieprestatiecertificaat dient te beschikken, aan de gemeente of het kadaster het ondernemingsnummer, het rijksregisternummer of het vreemdelingennummer opvragen en gebruiken.<br>
+<br>
+Voor de verwerking van deze persoonsgegevens geldt een bewaartermijn die duurt tot vijf jaar na de dag waarop het dossier is afgesloten, en in elk geval een bewaartermijn van maximaal tien jaar. Het VEKA is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.".
+
+### ART 19.
+
+In artikel 13.4.5 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 4 december 2020, worden de volgende aanpassingen aangebracht:<br>
+1° in paragraaf 2, tweede lid, worden de woorden "Vlaams Energieagentschap" vervangen door het woord "VEKA";<br>
+2° in paragraaf 5, eerste lid, worden de woorden "Vlaams Energieagentschap" vervangen door het woord "VEKA".
 
 ### ART 20.
 
@@ -45,6 +183,10 @@ In artikel 13.4.7, § 1, eerste lid, van hetzelfde decreet, vervangen bij het de
 22° 50 euro per afwijking van 1 m voor een circulatieleiding of combilus die niet gerapporteerd is, met een maximum van 1000 euro, bepaald op de wijze, vermeld in punt 2.11 van de bijlage bij dit decreet;<br>
 23° 1,5 euro per afwijking van 1 kWh op vlak van het S-peil, bepaald conform punt 2.12 van de bijlage bij dit decreet;<br>
 24° 150 euro per niet-gerapporteerde ruimte waarvoor ventilatie-eisen gelden.".
+
+### ART 22.
+
+In artikel 13.4.12, § 3, van hetzelfde decreet, ingevoegd bij het decreet van 30 oktober 2020, worden de woorden "Het Vlaams Energieagentschap" vervangen door de woorden "Het VEKA".
 
 ### ART 23.
 
@@ -247,3 +389,11 @@ Als bij controle blijkt dat een circulatieleiding of combilus geplaatst is in te
 14° in punt 3 wordt de bepaling "Het ventilatiedebiet V (m<sup>3</sup>/h), wordt afgerond op drie cijfers na de komma." vervangen door de bepaling "Het ventilatiedebiet V (m<sup>3</sup>/h) is een geheel getal;".
 
 ## HOOFDSTUK 3. Slotbepaling
+
+### ART 24.
+
+Artikel 7.1.10, § 3/1, van het Energiedecreet van 8 mei 2009, zoals gewijzigd bij artikel 5, 2°, en artikel 7.1.11, § 2/2, van het Energiedecreet van 8 mei 2009, zoals ingevoegd bij artikel 6, 4°, zijn voor het eerst van toepassing op de inleveringsperiode die eindigt op 31 maart 2023.<br>
+<br>
+Artikel 7, 20, 21 en 23, 1°, 9°, 10°, 11°, 12°, 13° en 14°, treden in werking op 1 januari 2022.<br>
+<br>
+Artikel 12 treedt in werking op een datum die de Vlaamse Regering vaststelt.
