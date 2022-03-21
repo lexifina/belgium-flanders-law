@@ -775,7 +775,13 @@ De VREG neemt passende maatregelen opdat de betrokkene overeenkomstig artikel 12
 
 ### ART. 3.2.1.
 
-§ 1. Er wordt een Energiefonds opgericht. Dit fonds is een begrotingsfonds   in de zin van artikel 45 van de wetten op de Rijkscomptabiliteit, gecoördineerd   op 17 juli 1991.<BR><BR>§ 2. Aan dit Energiefonds worden rechtstreeks de   volgende inkomsten toegewezen :<BR>1° opbrengsten uit heffingen en   administratieve geldboetes die decretaal aan het Energiefonds worden toegewezen,   de opbrengsten afkomstig van de dadingen die hierover worden aangegaan, evenals   de opbrengsten die worden geïnd naar aanleiding van beslissingen van de hoven en   rechtbanken die hierover worden genomen ten laste van de decretaal aangewezen   heffings- of boeteplichtigen;<BR>2° andere middelen aan het Energiefonds   toegewezen krachtens wettelijke, decretale of conventionele bepalingen, de   terugstortingen, de middelen van de Europese Unie of andere internationale   instellingen voor projecten die tot stand komen met cofinanciering vanuit het   Energiefonds, de middelen van de andere gewesten en de federale overheid voor   projecten die tot stand komen met cofinanciering vanuit het Energiefonds en die   een financiering op Belgisch niveau vergen zoals overlegd op het energie-overleg   staat-gewesten, de middelen van andere partners die aan deze projecten   deelnemen, de toevallige inkomsten uit deze projecten volgens de overeenkomsten   afgesloten met of tussen de projectpartners, de inkomsten uit de verkoop van   publicaties die kaderen in het energiebeleid en de overige toevallige   ontvangsten. <BR><BR>§ 3. De Vlaamse Regering beschikt over de kredieten van het   Energiefonds, inclusief de machtiging om hiermee subsidies toe te kennen, voor   de uitvoering van haar energiebeleid, in het bijzonder voor de financiering van   de VREG, van de openbaredienstverplichtingen inzake energie, voor haar sociaal   energiebeleid, haar beleid inzake het rationeel energiegebruik, haar beleid   inzake warmte-krachtkoppeling, haar beleid inzake de hernieuwbare energiebronnen   alsmede voor de financiering van energiegerelateerde kosten van de Vlaamse   overheid.
+§ 1. Er wordt een Energiefonds opgericht. Dit fonds is een begrotingsfonds in de zin van artikel 45 van de wetten op de Rijkscomptabiliteit, gecoördineerd op 17 juli 1991.<br>
+<br>
+§ 2. Aan dit Energiefonds worden rechtstreeks de volgende inkomsten toegewezen :<br>
+1° opbrengsten uit heffingen en administratieve geldboetes die decretaal aan het Energiefonds worden toegewezen, de opbrengsten afkomstig van de dadingen die hierover worden aangegaan, evenals de opbrengsten die worden geïnd naar aanleiding van beslissingen van de hoven en rechtbanken die hierover worden genomen ten laste van de decretaal aangewezen heffings- of boeteplichtigen;<br>
+2° andere middelen aan het Energiefonds toegewezen krachtens wettelijke, decretale of conventionele bepalingen, de terugstortingen, de middelen van de Europese Unie of andere internationale instellingen voor projecten die tot stand komen met cofinanciering vanuit het Energiefonds, de middelen van de andere gewesten en de federale overheid voor projecten die tot stand komen met cofinanciering vanuit het Energiefonds en die een financiering op Belgisch niveau vergen zoals overlegd op het energie-overleg staat-gewesten, de middelen van andere partners die aan deze projecten deelnemen, de toevallige inkomsten uit deze projecten volgens de overeenkomsten afgesloten met of tussen de projectpartners, de inkomsten uit de verkoop van publicaties die kaderen in het energiebeleid, inkomsten met betrekking tot het uitwinnen van door of krachtens dit decreet opgelegde bankwaarborgen, de terugbetaling van kapitaal van door of krachtens dit decreet via het Energiefonds ingestelde leningen voor noodkoopwoningen, de terugvordering van de rentesubsidie toegekend in kader van het renteloos renovatiekrediet en de overige toevallige ontvangsten.<br>
+<br>
+§ 3. De Vlaamse Regering beschikt over de kredieten van het Energiefonds, inclusief de machtiging om hiermee subsidies toe te kennen, voor de uitvoering van haar energiebeleid, in het bijzonder voor de financiering van de VREG, van de openbaredienstverplichtingen inzake energie, voor haar sociaal energiebeleid, haar beleid inzake het rationeel energiegebruik, haar beleid inzake warmte-krachtkoppeling, haar beleid inzake de hernieuwbare energiebronnen alsmede voor de financiering van energiegerelateerde kosten van de Vlaamse overheid.
 
 ## TITEL IV. DE ORGANISATIE VAN DE ELEKTRICITEITS- EN AARDGASMARKT IN HET VLAAMSE GEWEST
 
@@ -1759,7 +1765,7 @@ Als een afnemer wil veranderen van leverancier, aggregator of dienstverlener van
 5° optreden als dienstverlener van flexibiliteit of als deelnemer aan flexibiliteit of aggregatie;<br>
 6° peer-to-peerhandel voeren met de energie, vermeld in punt 1°, conform artikel 7.2.2, ook met een stroomafnameovereenkomst;<br>
 7° de energie, vermeld in punt 1°, verkopen, ook met een stroomafnameovereenkomst;<br>
-8° het energiedelen van de energie, vermeld in punt 1°, overeenkomstig artikel 7.2.1, tweede lid, 1°.<br>
+8° het energiedelen van de energie, vermeld in punt 1°, overeenkomstig artikel 7.2.1, tweede lid, 1° en 4°.<br>
 <br>
 Als dat noodzakelijk is om de activiteiten, vermeld in het eerste lid, 5° tot en met 8°, uit te oefenen, beschikt de actieve afnemer over een meter die de afgenomen energie en de energie die in een elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit of een gesloten distributienet van elektriciteit wordt geïnjecteerd, afzonderlijk meet, en waarvan de meetwaarden minstens elke onbalansverrekeningsperiode geregistreerd worden en verwerkt worden bij de allocatie conform de technische reglementen.<br>
 <br>
@@ -2397,7 +2403,7 @@ Het aantal groenestroomcertificaten dat wordt toegekend voor elke 1 000 kWh elek
 <br>
 De Vlaamse Regering kan de toekenning van groenestroomcertificaten ook beperken op basis van het aantal vollasturen die gehanteerd worden in de berekeningsmethodiek van de onrendabele top voor die hernieuwbare energietechnologie. De Vlaamse Regering kan daarnaast voor nieuwe installaties en verlengingsaanvragen met betrekking tot de periodes, vermeld in artikel 7.1.1, § 1, vierde en vijfde lid, van bestaande installaties het aantal groenestroomcertificaten begrenzen tot een bepaalde hoeveelheid groenestroomcertificaten.<br>
 <br>
-Bij productie-installaties voor fotovoltaïsche zonne-energie met startdatum vanaf 1 januari 2013 komen uitbreidingen die vanaf 1 september 2019 in dienst genomen zijn en die aangesloten zijn op hetzelfde toegangspunt, waarbij het gezamenlijke maximale vermogen van de omvormers van de installatie na de uitbreiding meer bedraagt dan 750 kW, niet in aanmerking voor het toekennen van groenestroomcertificaten, voor zover niet minstens 36 maanden verstreken zijn vanaf de ingebruikname van de installatie of de ingebruikname van de laatste uitbreiding op dat toegangspunt, tenzij voor zowel de bestaande installatie als voor de uitbreiding(en) een nieuwe aparte projectspecifieke bandingfactor wordt berekend, waarbij voor elk deel van de installatie wordt gebruikgemaakt van de respectievelijke afschrijvingstermijn en de startdatum van de bestaande installatie behouden blijft.<br>
+Bij productie-installaties voor fotovoltaïsche zonne-energie met startdatum vanaf 1 januari 2013 komen uitbreidingen die vanaf 1 september 2019 in dienst genomen zijn en die aangesloten zijn op hetzelfde toegangspunt, waarbij het gezamenlijke maximale vermogen van de omvormers van de installatie na de uitbreiding meer bedraagt dan 2 MW, niet in aanmerking voor het toekennen van groenestroomcertificaten, voor zover niet minstens 36 maanden verstreken zijn vanaf de ingebruikname van de installatie of de ingebruikname van de laatste uitbreiding op dat toegangspunt.<br>
 <br>
 § 3. De Vlaamse Regering kan, in afwijking van § 2, derde lid, bepalen dat aan installaties waaraan groenestroomcertificaten werden toegekend, na afloop van de periode waarin de installatie voor steun in aanmerking komt op grond van § 2, derde lid, extra groenestroomcertificaten worden toegekend. Installaties die als brandstof gebruikmaken van biomassa komen echter niet in aanmerking voor een dergelijke verlenging.<br>
 <br>
@@ -2663,7 +2669,7 @@ Wanneer een bandingfactor wordt vastgelegd voor een installatie voor de producti
 De Vlaamse Regering stelt ook voor elk jaar een bruto binnenlandse groenestroomproductie voorop en legt indicatieve subdoelstellingen per hernieuwbare energiebron vast die erop gericht zijn de vooropgestelde bruto binnenlandse groenestroomproductie te bereiken.<br>
 <br>
 § 3. In afwijking van paragraaf 2 wordt Ev vanaf 31 maart 2017 verminderd met de volgende hoeveelheden:<br>
-1° voor de afname tussen 1000 MWh en 20.000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 47% van die afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was. Die vermindering geldt alleen voor bedrijfsvestigingen waarvan de hoofdactiviteit behoort tot NACE-BEL 2008 code 05 tot en met 33 (industrie en winning van delfstoffen), code 46391, code 52100 of code 52241;<br>
+1° voor de afname tussen 1000 MWh en 20.000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 47% van die afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was. Die vermindering geldt alleen voor bedrijfsvestigingen waarvan de hoofdactiviteit behoort tot NACE-BEL 2008 RSZ-code 05 tot en met 33 (industrie en winning van delfstoffen), RSZ-code 46391, RSZ-code 52100 of RSZ-code 52241 en geldt enkel voor bedrijfsvestigingen waarvan hogervermelde RSZ-codes op 31 december van het afnamejaar door de toegangshouder in het toegangsregister zijn geregistreerd. Hiertoe dient de afnemer de betreffende RSZ-code mee te delen aan zijn toegangshouder;<br>
 2° voor de afname tussen 20.000 MWh en 100.000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 80% van die afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was;<br>
 3° voor de afname tussen 100.000 MWh en 250.000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 80% van die afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was;<br>
 4° voor de afname boven 250.000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 98% van die afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was;<br>
@@ -2677,7 +2683,7 @@ Het geheel van afnamepunten van afnemers van een na 1 juli 2011 aangelegd net da
 <br>
 In afwijking van het derde en vierde lid wordt het geheel van afnemers die instaan voor het verzorgen van openbaar vervoer niet als één afnamepunt beschouwd.<br>
 <br>
-§ 3/1. ...<br>
+§ 3/1. In afwijking van paragraaf 3 wordt voor de afnamepunten van stationaire elektriciteitsopslagfaciliteiten die rechtstreeks op het elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit of het transmissienet zijn aangesloten en voor zover deze elektriciteitsopslagfaciliteit als enige aangesloten is op dit toegangspunt, de factor Ev, vermeld in paragraaf 2, verminderd met 100% van de hoeveelheid elektriciteit die in n-1 werd afgenomen op het afnamepunt van de betrokken elektriciteitsopslagfaciliteiten en die via het toegangspunt van de betrokken elektriciteitsopslagfaciliteiten gedurende de periode in het jaar n-1 waarvan de certificaatplichtige, vermeld in paragraaf 1, toegangshouder was, terug werd geïnjecteerd in het net.<br>
 <br>
 § 4. Het VEKA legt een evaluatie van de quota- en productiedoelstellingen, vermeld in § 2, voor aan de Vlaamse Regering indien :<br>
 1° het aantal beschikbare certificaten minder dan 105 % of meer dan 125 % bedraagt van het aantal voor te leggen certificaten;<br>
@@ -2723,8 +2729,8 @@ Ev gelijk is aan de totale hoeveelheid elektriciteit, uitgedrukt in MWh die in h
 Wanneer een bandingfactor wordt vastgelegd voor een warmte-krachtinstallatie met een nominaal elektrisch vermogen van meer dan 50 MW, wordt het aantal in te dienen warmte-krachtcertificaten geëvalueerd en eventueel verhoogd door de Vlaamse Regering.<br>
 <br>
 § 2/1. In afwijking van paragraaf 2 wordt Ev vanaf 31 maart 2017 verminderd met de volgende hoeveelheden:<br>
-1° voor de afname tussen 1000 MWh en 5000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 47% van deze afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was. De vermindering geldt enkel voor bedrijfsvestigingen waarvan de hoofdactiviteit behoort tot NACE-BEL 2008 code 05 tot en met 33 (industrie en winning van delfstoffen), code 46391 of code 52100 of code 52241;<br>
-2° voor de afname tussen 5000 MWh en 20.000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 47% van deze afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was. De vermindering geldt enkel voor bedrijfsvestigingen waarvan de hoofdactiviteit behoort tot NACE-BEL 2008 code 05 tot en met 33 (industrie en winning van delfstoffen), code 46391 of code 52100 of code 52241;<br>
+1° voor de afname tussen 1000 MWh en 5000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 47% van deze afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was. De vermindering geldt enkel voor bedrijfsvestigingen waarvan de hoofdactiviteit behoort tot NACE-BEL 2008 RSZ-code&nbsp;05 tot en met 33 (industrie en winning van delfstoffen), RSZ-code&nbsp;46391 of RSZ-code&nbsp;52100 of code 52241;<br>
+2° voor de afname tussen 5000 MWh en 20.000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 47% van deze afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was. De vermindering geldt enkel voor bedrijfsvestigingen waarvan de hoofdactiviteit behoort tot NACE-BEL 2008 RSZ-code&nbsp;05 tot en met 33 (industrie en winning van delfstoffen), RSZ-code&nbsp;46391 of RSZ-code&nbsp;52100 of RSZ-code&nbsp;52241;<br>
 3° voor de afname tussen 20.000 MWh en 100.000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 50% van deze afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was;<br>
 4° voor de afname tussen 100.000 MWh en 250.000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 80% van deze afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was;<br>
 5° voor de afname boven 250.000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 85% van deze afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was.<br>
@@ -2732,6 +2738,10 @@ Wanneer een bandingfactor wordt vastgelegd voor een warmte-krachtinstallatie met
 Het geheel van afnamepunten van afnemers op een op 1 juli 2011 bestaand net dat voldoet aan de criteria van artikel 1.1.3, 56° /2, wordt als één afnamepunt beschouwd.<br>
 <br>
 Het geheel van afnamepunten van afnemers van een na 1 juli 2011 aangelegd net dat voldoet aan de criteria van artikel 1.1.3, 56° /2, wordt als één afnamepunt beschouwd, voor zover het gesloten distributienet is aangesloten op het transmissienet of het plaatselijke vervoersnet van elektriciteit.<br>
+<br>
+De vermindering zoals bepaald in punt 1° en 2° van het eerste lid geldt enkel voor bedrijfsvestigingen waarvan de hogervermelde RSZ-codes op 31 december van het afnamejaar door de toegangshouder in het toegangsregister zijn opgenomen. Hiertoe dient de afnemer de betreffende RSZ-code mee te delen aan zijn toegangshouder.<br>
+<br>
+§ 2/2. In afwijking van paragraaf 2 wordt voor de afnamepunten van stationaire elektriciteitsopslagfaciliteiten die rechtstreeks aan het elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit of het transmissienet zijn aangesloten en voor zover deze elektriciteitsopslagfaciliteit als enige aangesloten is op dit toegangspunt, de factor Ev, vermeld in paragraaf 2, verminderd met 100% van de hoeveelheid elektriciteit die in n-1 werd afgenomen op het afnamepunt van de betrokken elektriciteitsopslagfaciliteiten en die via het toegangspunt van de betrokken elektriciteitsopslagfaciliteiten gedurende de periode in het jaar n-1 waarvan de certificaatplichtige, vermeld in paragraaf 1, toegangshouder was, terug werd geïnjecteerd in het net.<br>
 <br>
 § 3. Het VEKA legt een evaluatie van de quotadoelstellingen, vermeld in § 2, voor aan de Vlaamse Regering indien :<br>
 1° het aantal beschikbare certificaten minder dan 105 % of meer dan 125 % bedraagt van het aantal voor te leggen certificaten;<br>
@@ -2879,7 +2889,11 @@ De Vlaamse Regering bepaalt de fasering en timing om de activiteit, vermeld in p
 
 ### ART. 7.3.1.
 
-De kosten voor de aanleg van de elektrische leidingen over de eerste duizend meter op het openbaar domein tussen het elektriciteitsdistributienet of het plaatselijk vervoernet van elektriciteit en de productie-installatie, zijn ten laste van de netbeheerder in kwestie voor zover het aansluitingsvermogen van die productieinstallatie niet hoger is dan 5 MVA. De aanvrager van de aansluiting draagt alle overige kosten bij een nieuwe aansluiting van een productie-installatie van elektriciteit uit kwalitatieve warmtekrachtkoppeling op het distributienet of het plaatselijk vervoernet van elektriciteit.<br /><br />De kosten voor de aanleg van de aardgasleidingen over de eerste duizend meter op het openbaar domein tussen het aardgasdistributienet en de productie-installatie zijn ten laste van de aardgasnetbeheerder voor zover de aansluitingscapaciteit van die productie-installatie niet hoger is dan 2500 m3/h. De aanvrager van de aansluiting draagt alle overige kosten bij een nieuwe aansluiting van een productie-installatie van elektriciteit uit kwalitatieve warmtekrachtkoppeling op het aardgasdistributienet.<br /><br />De kosten, vermeld in het eerste en tweede lid, die ten laste van de netbeheerder gelegd worden, worden beschouwd als kosten ten gevolge van de openbaredienstverplichtingen van de netbeheerder als netbeheerder.
+De kosten voor de aanleg van de elektrische leidingen over de eerste&nbsp;zevenhonderdvijftig meter op het openbaar domein tussen het elektriciteitsdistributienet of het plaatselijk vervoernet van elektriciteit en de productie-installatie, zijn ten laste van de netbeheerder in kwestie voor zover het vermogen van die productie-installatie minstens 75 kWe is en niet hoger is dan 5 MWe. De aanvrager van de aansluiting draagt alle overige kosten bij een nieuwe aansluiting van een productie-installatie van elektriciteit uit kwalitatieve warmtekrachtkoppeling op het distributienet of het plaatselijk vervoernet van elektriciteit.<br>
+<br>
+De kosten voor de aanleg van de aardgasleidingen over de eerste zevenhonderdvijftig meter op het openbaar domein tussen het aardgasdistributienet en een productie-installatie met een vermogen van minstens 75 kWe en niet hoger dan 5 MWe zijn ten laste van de aardgasnetbeheerder voor zover de aansluitingscapaciteit van die productie-installatie niet hoger is dan 2500 m3/h. De aanvrager van de aansluiting draagt alle overige kosten bij een nieuwe aansluiting van een productie-installatie van elektriciteit uit kwalitatieve warmtekrachtkoppeling op het aardgasdistributienet.<br>
+<br>
+De kosten, vermeld in het eerste en tweede lid, die ten laste van de netbeheerder gelegd worden, worden beschouwd als kosten ten gevolge van de openbaredienstverplichtingen van de netbeheerder als netbeheerder.
 
 ## HOOFDSTUK IV. Informatieverlening over de oorsprong en milieugevolgen van de geleverde [energie (verv. decr. 26 april 2019, art. 10, I: 30 mei 2019)]
 
@@ -2904,8 +2918,6 @@ De Vlaamse Regering bepaalt de nadere toepassingsregels voor de verplichtingen, 
 ### ART. 7.5.1.
 
 De Vlaamse Regering kan, na advies van de VREG, de leveranciers en netbeheerders openbaredienst-verplichtingen opleggen inzake programma's ter bevordering van het rationeel energiegebruik en hernieuwbare energiebronnen, minimumnormen inzake rationeel energiegebruik bij hun afnemers en investeringen in kwalitatieve warmtekrachtinstallaties, installaties voor de productie van groene stroom, groenestroomcertificaten of warmtekrachtcertificaten.<br>
-<br>
-De Vlaamse Regering kan, na advies van de VREG, de netbeheerders openbaredienstverplichtingen opleggen inzake programma's ter bevordering van elektrische voertuigen, met inbegrip van voertuigen met brandstofcellen, hybride voertuigen en voertuigen op aardgas.<br>
 <br>
 In afwijking van artikel 4.1.10, eerste lid, kan de netbeheerder of zijn werkmaatschappij echter in het kader van de uitvoering van de hun op grond van dit artikel opgelegde openbaredienstverplichtingen en onder de door de Vlaamse Regering vastgestelde voorwaarden, gegevens verstrekken aan personen die daarvoor door de Vlaamse Regering zijn aangewezen.
 
@@ -3388,9 +3400,11 @@ Wanneer de gemeente strengere eisen vastlegt, als bedoeld in artikel 11.1.1, § 
 <br>
 Elke aangifteplichtige of verslaggever, woonachtig of met zetel in België, wordt in de energieprestatiedatabank uniek geïdentificeerd aan de hand van het ondernemingnummer, het rijksregisternummer of het vreemdelingennummer. De Vlaamse Regering kan voor aangifteplichtigen of verslaggevers die niet woonachtig zijn of een zetel hebben in België een alternatieve identificatiemethode vastleggen. De Vlaamse Regering bepaalt de manier waarop deze gegevens in de energieprestatiedatabank worden opgenomen.<br>
 <br>
-De gegevens in de energieprestatiedatabank zijn alleen toegankelijk voor de diensten van de Vlaamse overheid en de betrokken vergunningverlenende overheid. De verslaggever en de aangifteplichtige hebben alleen toegang tot de gegevens van hun eigen dossiers. De Vlaamse Regering bepaalt tot welke delen van de EPB-aangifte de eigenaar van het gebouw, die geen aangifteplichtige is, toegang heeft. De netbeheerder of zijn werkmaatschappij heeft in het kader van de uitvoering van de hun door of krachtens dit decreet opgelegde openbaredienstverplichtingen toegang tot de energieprestatiedatabank. De Vlaamse Regering bepaalt nadere voorwaarden betreffende welke gegevens worden vrijgegeven en de wijze waarop deze worden vrijgegeven.<br>
+In de energieprestatiedatabank worden de documenten, vermeld in artikel 11.1.13, opgenomen en bijgehouden. De Vlaamse Regering zal tevens bepalen welke individuele stavingstukken hierbij in dit kader door de verslaggever worden ingediend en die in de energieprestatiedatabank worden bijgehouden. Het VEKA is verantwoordelijk voor de verwerking van de persoonsgegevens. De stavingstukken worden gedurende een periode van tien jaar bewaard.<br>
 <br>
-In afwijking van het vierde lid kan het VEKA in het kader van statistische en wetenschappelijke onderzoeksdoeleinden geanonimiseerde gegevens uit de energieprestatiedatabank, al dan niet gekoppeld aan de geanonimiseerde gegevens van andere databanken van de Vlaamse of federale overheid, de netbeheerder of zijn werkmaatschappij, ter beschikking stellen van belanghebbende instanties. Het VEKA bepaalt onder welke voorwaarden die gegevens mogen worden gebruikt.<br>
+De gegevens in de energieprestatiedatabank, met uitzondering van de individuele stavingstukken zoals bepaald door de Vlaamse Regering, zijn alleen toegankelijk voor de diensten van de Vlaamse overheid en de betrokken vergunningverlenende overheid. De verslaggever en de aangifteplichtige hebben alleen toegang tot de gegevens van hun eigen dossiers. De Vlaamse Regering bepaalt tot welke delen van de EPB-aangifte de eigenaar van het gebouw, die geen aangifteplichtige is, toegang heeft. De netbeheerder of zijn werkmaatschappij heeft in het kader van de uitvoering van de hun door of krachtens dit decreet opgelegde openbaredienstverplichtingen toegang tot de energieprestatiedatabank. De Vlaamse Regering bepaalt nadere voorwaarden betreffende welke gegevens worden vrijgegeven en de wijze waarop deze worden vrijgegeven.<br>
+<br>
+In afwijking van het vijfde lid kan het VEKA in het kader van statistische en wetenschappelijke onderzoeksdoeleinden geanonimiseerde gegevens uit de energieprestatiedatabank, al dan niet gekoppeld aan de geanonimiseerde gegevens van andere databanken van de Vlaamse of federale overheid, de netbeheerder of zijn werkmaatschappij, ter beschikking stellen van belanghebbende instanties. Het VEKA bepaalt onder welke voorwaarden die gegevens mogen worden gebruikt.<br>
 <br>
 In het kader van monitoring van de energieprestaties van gebouwen kan het VEKA de gegevens uit de energieprestatiedatabank koppelen aan de beschikbare gegevens bij andere databanken van de Vlaamse of federale overheid, bij de netbeheerder of zijn werkmaatschappij. Nadat die gegevens gekoppeld zijn worden die gegevens geanonimiseerd. Ze zijn in geen geval herleidbaar tot een identificeerbare natuurlijke persoon.
 
@@ -3445,6 +3459,8 @@ Met ingang van 1 januari 2013 wordt in niet-residentiële gebouwen met een total
 <br>
 De Vlaamse Regering bepaalt de nadere regels om de bruikbare vloeroppervlakte te bepalen.<br>
 <br>
+De Vlaamse Regering kan bepalen welke delen van het energieprestatiecertificaat aangebracht worden op een opvallende plaats die duidelijk zichtbaar is voor het publiek.<br>
+<br>
 § 3. Elke verkoper of verhuurder, alsook zijn opdrachthouder,&nbsp;lasthebber of gevolmachtigde, vermeldt het op het energieprestatiecertificaat vermelde kengetal of label alsmede de unieke code van het energieprestatiecertificaat of het adres van het gebouw in alle commerciële advertenties die hij maakt voor de verkoop of verhuur van een gebouw, dat conform § 1 over een energieprestatiecertificaat dient te beschikken.<br>
 <br>
 De Vlaamse Regering kan nadere regels bepalen betreffende de vorm van deze publiciteit.
@@ -3479,13 +3495,19 @@ Het Vlaams Energieagentschap kan, onder de voorwaarden bepaald door de Vlaamse R
 
 ### ART 11.2/2.1.
 
-§ 1. De Vlaamse Regering kan bepalen dat niet-residentiële gebouwen bij een notariële overdracht in volle eigendom, of bij het vestigen van een opstalrecht of erfpacht op een niet-residentieel gebouw, binnen een gestelde termijn na het verlijden van de authentieke akte aan een minimaal energieprestatieniveau voldoen. De Vlaamse Regering kan hier ook een reeks van aparte eisen, maatregelen en type-renovatiewerken bepalen die daarbij als een minimum binnen die termijn moeten worden uitgevoerd.<br>
+§ 1. De Vlaamse Regering kan bepalen dat niet-residentiële gebouwen of gebouweenheden bij een notariële overdracht in volle eigendom, of bij het vestigen van een opstalrecht of erfpacht op een niet-residentieel gebouw of de niet-residentiële gebouweenheid, binnen een gestelde termijn na het verlijden van de authentieke akte aan een minimaal energieprestatieniveau voldoen. De Vlaamse Regering kan hier ook een reeks van aparte eisen, maatregelen en type-renovatiewerken bepalen die daarbij als een minimum binnen die termijn moeten worden uitgevoerd.<br>
 <br>
-De uitvoering van de verplichting, vermeld in het eerste lid, wordt opgelegd aan respectievelijk de eigenaar, de opstalhouder, of de erfpachter. In geval na de verkoop van het niet-residentieel gebouw gedurende de looptijd van deze verplichting die op het gebouw rust:<br>
-1° het niet-residentieel gebouw wordt geërfd, dan gaat de verplichting over op de erfgenaam of legataris. De erfgenaam of de legataris moet dan binnen de resterende termijn voldoen aan het minimaal energieprestatieniveau dat de erflater diende te halen;<br>
-2° het niet-residentieel gebouw wordt geschonken of verkocht, of een opstalrecht of erfpacht wordt erop gevestigd, dan gaat de verplichting over op de koper of de ontvanger van de schenking of de erfpachter of opstalhouder. De koper, de ontvanger van de schenking, de erfpachter of de opstalhouder moet dan binnen de resterende termijn voldoen aan het minimaal energieprestatieniveau dat de verkoper, schenker, erfpachtgever of opstalgever zelf diende te halen. Indien het te behalen minimaal energieprestatieniveau sindsdien werd verstrengd rust bijkomend op de nieuwe eigenaar, erfpachter of de opstalhouder de verplichting om binnen een gestelde termijn na het verlijden van de authentieke akte aan dat verstrengde minimaal energieprestatieniveau te voldoen.<br>
+De uitvoering van de verplichting, vermeld in het eerste lid, wordt opgelegd aan respectievelijk de eigenaar, de opstalhouder, of de erfpachter. In geval na de verkoop van het niet-residentieel gebouw of de niet-residentiële gebouweenheid&nbsp;gedurende de looptijd van deze verplichting die op&nbsp;het gebouw of de gebouweenheid rust:<br>
+1° het&nbsp;niet-residentieel gebouw of de niet-residentiële gebouweenheid wordt geërfd, dan gaat de verplichting over op de erfgenaam of legataris. De erfgenaam of de legataris moet dan binnen de resterende termijn voldoen aan het minimaal energieprestatieniveau dat de erflater diende te halen;<br>
+2° het&nbsp;niet-residentieel gebouw of de niet-residentiële gebouweenheid wordt geschonken of verkocht, of een opstalrecht of erfpacht wordt erop gevestigd, dan gaat de verplichting over op de koper of de ontvanger van de schenking of de erfpachter of opstalhouder. De koper, de ontvanger van de schenking, de erfpachter of de opstalhouder moet dan binnen de resterende termijn voldoen aan het minimaal energieprestatieniveau dat de verkoper, schenker, erfpachtgever of opstalgever zelf diende te halen. Indien het te behalen minimaal energieprestatieniveau sindsdien werd verstrengd rust bijkomend op de nieuwe eigenaar, erfpachter of de opstalhouder de verplichting om binnen een gestelde termijn na het verlijden van de authentieke akte aan dat verstrengde minimaal energieprestatieniveau te voldoen.<br>
 <br>
-§ 2. De instrumenterende ambtenaar neemt de verplichting en de daaraan gekoppelde voorwaarden op in de authentieke akte houdende verkoop van of de vestiging van een erfpacht of een opstalrecht op een niet-residentieel gebouw als vermeld in paragraaf 1.
+§ 2. Iedereen die een niet-residentieel gebouw of niet-residentiële gebouweenheid in volle eigendom notarieel overdraagt of hierop een opstalrecht of erfpachtrecht vestigt, moet in de hieraan verbonden publiciteit vermelden dat er verplichtingen gelden als vermeld in paragraaf 1.<br>
+<br>
+Iedereen die voor een niet-residentieel gebouw of niet-residentiële gebouweenheid een onderhandse overeenkomst voor één van de rechtshandelingen, vermeld in paragraaf 2, eerste lid, opmaakt, moet vermelden dat voor het niet-residentieel gebouw of de niet-residentiële gebouweenheid verplichtingen gelden als vermeld in paragraaf 1.<br>
+<br>
+De instrumenterende ambtenaar die voor een niet-residentieel gebouw of niet-residentiële gebouweenheid een authentieke akte voor één van de rechtshandelingen, vermeld in paragraaf 2, eerste lid, opmaakt, moet vermelden welke verplichtingen, als vermeld in paragraaf 1, gelden voor het niet-residentieel gebouw of de niet-residentiële gebouweenheid.<br>
+<br>
+De Vlaamse Regering kan aan de instrumenterende ambtenaar, de personen, vermeld in het eerste lid, en aan derden verplichtingen opleggen in het kader van de uitvoering van de verplichtingen, vermeld in het eerste tot en met derde lid.
 
 ## [HOOFDSTUK III. Retributie (ing. decr. 18 november 2011, art. 19, I: 15 december 2011)]
 
@@ -3624,6 +3646,37 @@ Het VEKA is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de al
 
 ## [HOOFDSTUK VII. Energiedataplatform (ing. Decr. 17 december 2021, art. 15, I: 21 maart 2022)]
 
+### ART 12.7.1.
+
+§ 1. De Vlaamse Regering regelt de uitbouw en het beheer van een gecentraliseerde databank, hierna het energiedataplatform te noemen. De databank heeft de volgende doelstellingen:<br>
+1° de voorbereiding van het Vlaamse energie- en klimaatbeleid ondersteunen en dat beleid monitoren en evalueren;<br>
+2° het energierapport uitwerken;<br>
+3° aan de rapporteringsvereisten inzake energie en klimaat voldoen die in de federale, gewestelijke en Europese regelgeving zijn opgenomen;<br>
+4° de Vlaamse en Europese doelstellingen inzake energie- en klimaatbeleid opvolgen;<br>
+5° data ter beschikking stellen voor energie- en klimaatmodellen, scenarioberekeningen en geografische toepassingen;<br>
+6° data ter beschikking stellen voor communicatie en sensibilisering;<br>
+7° data voor beleidsmatig wetenschappelijk onderzoek rond energie en klimaat aanleveren;<br>
+8° informatievragen van derden rond energie en klimaat beantwoorden.<br>
+<br>
+§ 2. Volgende categorieën van persoonsgegevens worden verwerkt in het energiedataplatform:<br>
+1° identificatiegegevens van het gebouw of de gebouweenheid;<br>
+2° woningkenmerken;<br>
+3° premiegegevens.<br>
+<br>
+Het VEKA is verantwoordelijk voor de verwerking van de gegevens.<br>
+<br>
+De betrokkenen bij de verwerking van persoonsgegevens in het energiedataplatform zijn:<br>
+1° de houder van een zakelijk recht op het gebouw;<br>
+2° de bewoner of gebruiker van het gebouw;<br>
+3° de architect, de aannemer, de installateur, betrokken bij het bouwproces;<br>
+4° de deskundige, de adviseur, de expert.<br>
+<br>
+De Vlaamse Regering bepaalt de voorwaarden voor de toegang, het gebruik en de verkrijging van de verwerkte gegevens. Ze bepaalt ook de algemene organisatorische en technische maatregelen die genomen moeten worden om de kwaliteit, de vertrouwelijkheid en de veiligheid van de gegevens te garanderen.<br>
+<br>
+§ 3. Het VEKA kan in het kader van statistische en wetenschappelijke doeleinden geanonimiseerde gegevens uit het energiedataplatform ter beschikking stellen van belanghebbende instanties. Het VEKA bepaalt onder welke voorwaarden die gegevens mogen worden gebruikt.<br>
+<br>
+§ 4. Met het oog op wetenschappelijke en statistische verwerkingen worden de persoonsgegevens gedurende een periode van dertig jaar bewaard. Na die periode worden de persoonsgegevens geanonimiseerd.
+
 ## TITEL XIII. TOEZICHT EN SANCTIES
 
 ## HOOFDSTUK I. Toezicht
@@ -3700,7 +3753,11 @@ Om alle nodige opsporingen en vaststellingen te verrichten, hebben de vermelde p
 <br>
 § 2. Op eenvoudig verzoek krijgen de personeelsleden, vermeld in § 1, van de overheid die de omgevingsvergunning voor stedenbouwkundige handelingen heeft verleend of de melding heeft geregistreerd, kosteloos toegang tot of een kopie van al&nbsp;de documenten en de elektronische gegevens die worden bijgehouden van de vergunde, gemelde, geschorste en vernietigde gestarte en voltooide werken, handelingen en wijzigingen.<br>
 <br>
-De documenten, vermeld in het eerste lid, zijn minstens de documenten die betrekking hebben op de ingediende vergunningsaanvraag of melding, de verleende vergunningen, de vergunningsplannen, het statistische formulier, en de melding van de start van de werken.
+De documenten, vermeld in het eerste lid, zijn minstens de documenten die betrekking hebben op de ingediende vergunningsaanvraag of melding, de verleende vergunningen, de vergunningsplannen, het statistische formulier, en de melding van de start van de werken.<br>
+<br>
+§ 3. De personeelsleden, vermeld in paragraaf 1, kunnen voor de unieke identificatie van de aangifteplichtige het ondernemingsnummer, het rijksregisternummer of het vreemdelingennummer opvragen en gebruiken. In kader van de controle met betrekking tot het naleven van de EPB-eisen en om overtredingen van de bepalingen van hoofdstuk I van titel XI en de uitvoeringsbesluiten ervan op te sporen en vast te stellen, kunnen de personeelsleden aan de betrokken overheid kosteloos de historiek van het gebouw en het attest van hoofdverblijfplaats met historiek van de aangifteplichtige opvragen.<br>
+<br>
+Voor de verwerking van deze persoonsgegevens geldt een bewaartermijn die duurt tot vijf jaar na de dag waarop het dossier is afgesloten, en in elk geval een bewaartermijn van maximaal tien jaar. Het VEKA is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.
 
 ### ART. 13.1.5.
 
@@ -3710,7 +3767,11 @@ Om alle nodige opsporingen en vaststellingen te verrichten, hebben de vermelde p
 1° ze hebben de voorafgaande en schriftelijke toestemming van de bewoner of een daartoe gemachtigd persoon gekregen;<br>
 2° ze werden ertoe voorafgaandelijk en schriftelijk gemachtigd door de politierechter. In dat geval hebben de genoemde personeelsleden alleen toegang tussen vijf uur 's morgens en eenentwintig uur 's avonds.<br>
 <br>
-§ 2. Op eenvoudig verzoek krijgen de personeelsleden, vermeld in paragraaf 1, van de gemeente, het kadaster en de bewaarder der hypotheken, elk voor hun ambtsgebied, kosteloos toegang tot of een kopie van al de documenten betreffende de eigendom en het gebruik van gebouwen, die krachtens artikel 11.2.1, § 1, over een energieprestatiecertificaat dienen te beschikken.
+§ 2. Op eenvoudig verzoek krijgen de personeelsleden, vermeld in paragraaf 1, van de gemeente, het kadaster en de bewaarder der hypotheken, elk voor hun ambtsgebied, kosteloos toegang tot of een kopie van al de documenten betreffende de eigendom en het gebruik van gebouwen, die krachtens artikel 11.2.1, § 1, over een energieprestatiecertificaat dienen te beschikken.<br>
+<br>
+De personeelsleden, vermeld in paragraaf 1, kunnen voor de unieke identificatie van de eigenaar van een gebouw, die krachtens artikel 11.2.1, § 1, over een energieprestatiecertificaat dient te beschikken, aan de gemeente of het kadaster het ondernemingsnummer, het rijksregisternummer of het vreemdelingennummer opvragen en gebruiken.<br>
+<br>
+Voor de verwerking van deze persoonsgegevens geldt een bewaartermijn die duurt tot vijf jaar na de dag waarop het dossier is afgesloten, en in elk geval een bewaartermijn van maximaal tien jaar. Het VEKA is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.
 
 ## Afdeling IV. Toezicht in het kader van de [heffingen vermeld in titel XIV (verv. decr. 19 december 2014, art. 99, I: 1 januari 2015)]
 
@@ -3896,7 +3957,7 @@ Indien voor de productie-installatie waarvoor de inconsistente of foutieve gegev
 <br>
 § 2. Als een architect niet voldoet aan de ver-plichtingen van artikel 11.1.6/1, § 3, maant het VEKA de architect aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br>
 <br>
-Als de architect bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het Vlaamse Energieagentschap de architect een administratieve geldboete op. Die administratieve geldboete bedraagt 250 euro.<br>
+Als de architect bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het&nbsp;VEKA de architect een administratieve geldboete op. Die administratieve geldboete bedraagt 250 euro.<br>
 <br>
 § 3. Als een startverklaring of een voorafberekening&nbsp;laattijdig of helemaal niet wordt ingediend, maant het VEKA de aangifteplichtige aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br>
 <br>
@@ -3908,7 +3969,7 @@ Als de verslaggever bij het verstrijken van de termijn, vermeld in het eerste li
 <br>
 Als de verslaggever bij het verstrijken van de termijn, vermeld in het tweede lid, in gebreke blijft, legt het VEKA de verslaggever een administratieve geldboete op in de vorm van een dwangsom. Die bedraagt 25 euro per kalenderdag dat de in het tweede lid vermelde termijn wordt overschreven.<br>
 <br>
-§ 5. Als een EPB-aangifte laattijdig of helemaal niet wordt ingediend, maant het Vlaams Energieagentschap de aangifteplichtige aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br>
+§ 5. Als een EPB-aangifte laattijdig of helemaal niet wordt ingediend, maant het&nbsp;VEKA de aangifteplichtige aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br>
 <br>
 Als de aangifteplichtige bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het VEKA de aangifteplichtige een administratieve geldboete op. Die administratieve geldboete bedraagt 1000 euro voor elke EPB-aangifte die niet of te laat is ingediend, vermeerderd met 1 euro per kubieke meter nieuw gecreëerd beschermd volume of bij renovatie of functiewijziging nieuw gecreëerd beschermd volume. Het VEKA legt ook een nieuwe termijn vast waarin de betreffende verplichting moet worden nageleefd. De maximale boete bedraagt 10.000 euro per EPB-aangifte die niet of te laat is ingediend.<br>
 <br>
@@ -4137,7 +4198,7 @@ Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door een ambtenaar die d
 <br>
 § 2. Het opleggen van de administratieve boete wordt aan de betrokkene meegedeeld in een met redenen omklede aangetekende brief, met verwijzing naar de bepalingen die van toepassing zijn en de hoogte van de administratieve boete.<br>
 <br>
-§ 3. Na de ontvangst van de kennisgeving, vermeld in paragraaf 2, moet de administratieve geldboete binnen zestig kalenderdagen betaald worden. Het Vlaams Energieagentschap kan uitstel van betaling verlenen voor een door haar bepaalde termijn.<br>
+§ 3. Na de ontvangst van de kennisgeving, vermeld in paragraaf 2, moet de administratieve geldboete binnen zestig kalenderdagen betaald worden.&nbsp;Het VEKA kan uitstel van betaling verlenen voor een door haar bepaalde termijn.<br>
 <br>
 § 4. Als de betrokkene nalaat de administratieve geldboete binnen de in paragraaf 3 bepaalde termijn te betalen, wordt de geldboete bij dwangbevel ingevorderd.<br>
 <br>
@@ -5111,9 +5172,9 @@ Het beschermd volume wordt overgenomen uit de ingediende startverklaring met voo
 
 2 Administratieve geldboeten voor de verslaggever<br>
 <br>
-2.1 Afwijking bij niet-conformiteit met de EPB-eisen op het vlak van thermische isolatie<br>
+2.1 Afwijking&nbsp;door niet correct te rapporteren op het vlak van thermische isolatie<br>
 <br>
-2.1.1 Afwijking bij niet-conformiteit met de EPB-eisen op het vlak van de thermische isolatie van constructie-elementen<br>
+2.1.1 Afwijking&nbsp;door niet correct te rapporteren op het vlak van de thermische isolatie van constructie-elementen<br>
 <br>
 Als bij controle de vastgestelde waarde van de warmtedoorgangscoëfficiënt van een of meer constructie-elementen groter blijkt dan in de EPB-aangifte is vermeld, wordt voor elke overschrijding de afwijking op het vlak van thermische isolatie, uitgedrukt in W/K, als volgt bepaald:
 <div>
@@ -5129,6 +5190,7 @@ Als bij controle de vastgestelde waarde van de warmtedoorgangscoëfficiënt van 
 		</tr>
 	</tbody>
 </table>
+<br>
 Als bij controle de vastgestelde waarde van de warmteweerstand van een of meer constructie-elementen kleiner blijkt dan in de EPB-aangifte is vermeld, wordt voor elk dergelijk constructie-element de afwijking op het vlak van thermische isolatie, uitgedrukt in W/K, als volgt bepaald:</div>
 
 <div>
@@ -5144,7 +5206,8 @@ Als bij controle de vastgestelde waarde van de warmteweerstand van een of meer c
 		</tr>
 	</tbody>
 </table>
-2.1.2 Afwijking bij niet-conformiteit met de EPB-eisen op het vlak van de globale thermische isolatie (K-peil)<br>
+<br>
+2.1.2 Afwijking&nbsp;door niet correct te rapporteren op het vlak van de globale thermische isolatie (K-peil)<br>
 <br>
 Als bij controle de vastgestelde waarde van het K-peil voor een of meer bestemmingen groter blijkt dan in de EPB-aangifte is vermeld, wordt voor elke overschrijding de afwijking op het vlak van thermische isolatie, uitgedrukt in W/K, als volgt bepaald:</div>
 
@@ -5261,7 +5324,8 @@ Als bij een controle van een EPB-aangifte waarin de invloed van de bouwknopen wo
 		</tr>
 	</tbody>
 </table>
-&nbsp;2.2 Afwijking bij niet-conformiteit met de EPB-eisen op het vlak van de globale energetische prestatie<br>
+&nbsp;<br>
+2.2 Afwijking&nbsp;door niet correct te rapporteren op het vlak van de globale energetische prestatie<br>
 <br>
 Als bij controle de vastgestelde waarde van het E-peil voor één of meerdere bestemmingen groter blijkt dan in de EPB-aangifte is vermeld, wordt voor elke overschrijding de afwijking op het vlak van de globale energetische prestatie, uitgedrukt in MJ/jaar, als volgt bepaald:</div>
 
@@ -5277,7 +5341,8 @@ Als bij controle de vastgestelde waarde van het E-peil voor één of meerdere be
 		</tr>
 	</tbody>
 </table>
-2.3 Afwijking bij niet-conformiteit met de EPB-eisen op het vlak van het risico op oververhitting<br>
+<br>
+2.3 Afwijking&nbsp;door niet correct te rapporteren op het vlak van het risico op oververhitting<br>
 <br>
 Als bij controle de vastgestelde waarde voor het risico op oververhitting groter blijkt dan in de EPB-aangifte is vermeld, wordt voor elke overschrijding de overeenkomstige afwijking op het vlak van het risico op oververhitting, uitgedrukt in Khm3, als volgt bepaald:</div>
 
@@ -5294,7 +5359,8 @@ Als bij controle de vastgestelde waarde voor het risico op oververhitting groter
 		</tr>
 	</tbody>
 </table>
-2.4 Afwijking bij niet-conformiteit met de EPB-eisen op het vlak van ventilatie<br>
+<br>
+2.4 Afwijking&nbsp;door niet correct te rapporteren op het vlak van ventilatie<br>
 <br>
 2.4.1 Bepaling van de eisen<br>
 <br>
@@ -5529,7 +5595,7 @@ waarbij:<br>
 3° A<sub>light,net,vaststelling:</sub>&nbsp;de waarde van de netto vloeroppervlakte die bij controle vastgesteld is, uitgedrukt in m<sup>2</sup>, van de ruimte waarin de waarde van het equivalente specifiek geïnstalleerd vermogen die in de EPB-aangifte vermeld is, afwijkt ten opzichte van de waarde van het equivalente specifiek geïnstalleerd vermogen die bij controle vastgesteld is.<br>
 <br>
 2.7.9. Energieverbruiksmeters<br>
-Als bij controle blijkt dat niet voldaan is aan de eis betreffende de verplichte energieverbruiksmeters (er is geen meter geplaatst of de meter voldoet niet aan de minimaal vereiste karakteristieken) in tegenstelling tot wat in de EPB-aangifte is vermeld, is de overeenkomstige afwijking gelijk aan&nbsp;A<sub>inst,heat,net,vaststelling,&nbsp;</sub>zoals bepaald in 2.7.1, in geval van warmteproductie en gelijk aan&nbsp;A<sub>inst,cool,net,vaststelling,&nbsp;</sub>zoals bepaald in 2.7.6, in geval van koeling.<br>
+Als bij controle blijkt dat niet voldaan is aan de eis betreffende de verplichte energieverbruiksmeters (er is geen meter geplaatst of de meter voldoet niet aan de minimaal vereiste karakteristieken) in tegenstelling tot wat in de EPB-aangifte is vermeld, is de overeenkomstige afwijking gelijk aan A<sub>inst,heat,net,vaststelling,&nbsp;</sub>zoals bepaald in 2.7.1, in geval van warmteproductie en gelijk aan A<sub>inst,cool,net,vaststelling,&nbsp;</sub>zoals bepaald in 2.7.6, in geval van koeling.<br>
 <br>
 2.7.10. Systemen van externe warmtelevering en alle andere opwekkers<br>
 Als bij controle de vastgestelde waarde van de systeemfactor voor een systeem van externe warmtelevering en andere opwekkers kleiner blijkt dan in de EPB-aangifte is vermeld, wordt de overeenkomstige afwijking op het vlak van de systeemfactor, uitgedrukt in m<sup>2</sup>, op de volgende wijze bepaald:<br>
@@ -5587,7 +5653,7 @@ Als bij controle blijkt dat een eis voor technische installaties van toepassing 
 2.11. Afwijking bij de rapportering van circulatieleidingen en combilussen<br>
 Als bij controle blijkt dat een circulatieleiding of combilus geplaatst is in tegenstelling tot wat in de EPB-aangifte is vermeld, is de overeenkomstige afwijking gelijk aan de lengte in meter van de circulatieleiding of combilus die bij controle vastgesteld is.<br>
 <br>
-2.12. Afwijking bij niet-conformiteit met de EPB-eisen op het vlak van het S-peil<br>
+2.12. Afwijking&nbsp;door niet correct te rapporteren op het vlak van het S-peil<br>
 Als bij controle de vastgestelde waarde van het S-peil voor een of meer bestemmingen groter blijkt dan in de EPB-aangifte is vermeld, wordt voor elke overschrijding de afwijking op het vlak van het S-peil, uitgedrukt in kWh, als volgt bepaald:
 <table border="1">
 	<tbody>
