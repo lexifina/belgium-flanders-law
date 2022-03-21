@@ -10,7 +10,28 @@ De Vlaamse regering wordt gemachtigd om onder de voorwaarden bepaald in dit decr
 
 ### ART. 3.
 
-<P>§ 1. De vereniging heeft tot doel:<BR>1° binnen de Vlaamse Gemeenschap de   professionele, onafhankelijke Vlaamse audiovisuele creatie te stimuleren, met   uitzondering van audiovisuele creaties als onderdeel van een ruimer artistiek   geheel, en multimediale installaties waarin, naast andere, ook audiovisuele   middelen worden gebruikt.<BR>Onder audiovisuele creatie wordt verstaan: het   technische en intellectuele proces van het concipiëren, ontwikkelen en tot stand   brengen van een autonoom audiovisueel werk, meer bepaald een film, een tv-reeks   of een interactief werk.<BR>Onder onafhankelijke creatie wordt verstaan:   geproduceerd door een onafhankelijke producent zoals vermeld in artikel 2, 49°,   van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, of   ontwikkeld door een onafhankelijke gameontwikkelaar;<BR>2° de promotie van   onafhankelijke Vlaamse audiovisuele werken te bevorderen;<BR>3° binnen de   Vlaamse Gemeenschap de audiovisuele cultuur, met name de kennis van, de   participatie in en de vertoning van cultureel waardevolle audiovisuele werken,   te bevorderen;<BR>4° binnen de Vlaamse Gemeenschap kortlopende   ad-hocvormingsinitiatieven te steunen; daarmee worden bedoeld kortlopende   initiatieven, gericht op de voortgezette vorming van professionelen, met   uitzondering van het reguliere onderwijs en beroeps- en   ondernemersopleidingen.<BR><BR>§ 2. Met behoud van de toepassing van artikel 6,   kan de vereniging, met het oog op het realiseren van de in paragraaf 1 vermelde   doelstellingen, financiële tegemoetkomingen toekennen aan natuurlijke personen   van elke nationaliteit, die gedomicilieerd zijn, permanent resideren of hun   beroep uitoefenen in de Europese Unie en aan rechtspersonen waarvan de   maatschappelijke zetel of een permanent agentschap is gevestigd in België. De   vereniging kan met dezelfde doelstellingen ook zelf initiatieven van   niet-commerciële aard ontwikkelen.<BR><BR>Zij houdt rekening met kwaliteit,   diversiteit, culturele uitstraling en bereik.<BR><BR>§ 3. De vereniging kan   ondersteuning verstrekken voor onder meer:<BR>1° vorming: met name kan zij   vormingsinitiatieven en ateliers steunen of zelf organiseren, beurzen toekennen   en representatieve beroepsorganisaties ondersteunen;<BR>2° de creatie van een   audiovisueel werk: hetzij selectieve steun, met name scenariosteun,   ontwikkelingssteun of productiesteun, hetzij automatische steun voor de   realisatie van een volgend werk;<BR>3° promotie: zijnde subsidies voor de   ondersteuning van de binnen- en buitenlandse promotie van een werk en premies   ter bevordering van de buitenlandse distributie van een onafhankelijk Vlaams   audiovisueel werk;<BR>4° projectmatige of structurele subsidies aan audiovisuele   festivals, culturele vertoners en distributie-initiatieven, publicaties en   educatieve organisaties.</P>
+<p>§ 1. De vereniging heeft tot doel:<br>
+1° binnen de Vlaamse Gemeenschap de professionele, onafhankelijke Vlaamse audiovisuele creatie, creatie van games en audiocreatie te stimuleren, met uitzondering van audiovisuele creaties, creaties van games en audiocreaties als onderdeel van een ruimer artistiek geheel, en met uitzondering van multimediale installaties waarin naast andere middelen ook audiovisuele middelen, audiomiddelen of games worden gebruikt;<br>
+2° de promotie van de creaties, vermeld in punt 1°, te bevorderen;<br>
+3° binnen de Vlaamse Gemeenschap de audiovisuele cultuur, met name de kennis van, de participatie in en de vertoning van cultureel waardevolle audiovisuele werken, te bevorderen;<br>
+4° binnen de Vlaamse Gemeenschap kortlopende ad-hocvormingsinitiatieven te steunen.<br>
+<br>
+Voor de toepassing van dit artikel wordt verstaan onder:<br>
+1° audiovisuele creatie: het technische en intellectuele proces van het concipiëren, ontwikkelen en tot stand brengen van een autonoom audiovisueel werk, meer bepaald een film, een serie, een interactief of immersief werk;<br>
+2° creatie van games: het technische en intellectuele proces van het concipiëren, ontwikkelen en tot stand brengen van een autonoom interactief spel dat kan worden gespeeld door een of meer spelers op een digitaal platform;<br>
+3° audiocreatie: het technische en intellectuele proces van het concipiëren, ontwikkelen en tot stand brengen van een autonoom verhalend audiowerk;<br>
+4° onafhankelijke creatie: een creatie die geproduceerd is door een onafhankelijke producent als vermeld in artikel 2, 49°, van het decreet van 27 maart 2009 betreffende radio-omroep en televisie voor audiovisuele creaties, door een onafhankelijke gamestudio voor games of door een onafhankelijke audioproducent voor audiocreaties;<br>
+5° kortlopend ad-hocvormingsinitiatief: een kortlopend initiatief dat gericht is op de voortgezette vorming van professionelen, met uitzondering van het reguliere onderwijs en de beroeps- en ondernemersopleidingen.<br>
+<br>
+§ 2. Met behoud van de toepassing van artikel 6, kan de vereniging, met het oog op het realiseren van de in paragraaf 1 vermelde doelstellingen, financiële tegemoetkomingen toekennen aan natuurlijke personen van elke nationaliteit, die gedomicilieerd zijn, permanent resideren of hun beroep uitoefenen in de Europese Unie en aan rechtspersonen waarvan de maatschappelijke zetel of een permanent agentschap is gevestigd in België. De vereniging kan met dezelfde doelstellingen ook zelf initiatieven van niet-commerciële aard ontwikkelen.<br>
+<br>
+Zij houdt rekening met kwaliteit, diversiteit, culturele uitstraling en bereik.<br>
+<br>
+§ 3. De vereniging kan ondersteuning verstrekken voor onder meer:<br>
+1° vorming: met name kan zij vormingsinitiatieven en ateliers steunen of zelf organiseren, beurzen toekennen en representatieve beroepsorganisaties ondersteunen;<br>
+2° de creatie van een audiovisueel werk, games en audiowerk, hetzij selectieve steun, hetzij automatische steun voor de realisatie van een volgend werk;<br>
+3° promotie, meer bepaald subsidies voor de ondersteuning van de binnen- en buitenlandse promotie en distributie van creaties als vermeld in paragraaf 1, eerste lid, 1° ;<br>
+4° projectmatige of structurele subsidies voor activiteiten met betrekking tot publiekswerking.</p>
 
 ### ART. 4.
 
@@ -38,7 +59,15 @@ De middelen van de vereniging zijn:<br /><br />1° de jaarlijkse financiële teg
 
 ### ART. 6.
 
-<P>Tussen de Vlaamse Gemeenschap en de vereniging worden een of meer   beheersovereenkomsten gesloten waarin onder meer wordt bepaald:<BR>1° de   jaarlijkse financiële tegemoetkoming ten laste van de algemene uitgavenbegroting   van de Vlaamse Gemeenschap;<BR>2° de verschillende audiovisuele domeinen die   voor financiële tegemoetkomingen in aanmerking komen;<BR>3° de verdeling van de   middelen over de personeelskosten en de werkingskosten en over verschillende   audiovisuele domeinen en de bedragen en de regelingen ter zake;<BR>4° met behoud   van de toepassing van artikel 4, § 2, de objectieve procedures, de regels en de   voorwaarden voor de toekenning van financiële tegemoetkomingen;<BR>5° de   doelstellingen van de vereniging waarop de overeenkomst betrekking heeft, en de   performantiemaatstaven die daaraan verbonden zijn;<BR>6° het beheer en de   werking van de vereniging;<BR>7° met behoud van de toepassing van artikel 4, §   3, het toezicht door de Vlaamse Gemeenschap op het gebruik van de middelen die   in het kader van de overeenkomst ter beschikking zijn gesteld, en op de   realisatie door de vereniging van de doelstellingen en de   performantiemaatstaven, vermeld in punt 5° ;<BR>8° de maatregelen bij   niet-naleving door een partij van haar verbintenissen die voortvloeien uit de   beheersovereenkomst.</P>
+<p>Tussen de Vlaamse Gemeenschap en de vereniging worden een of meer beheersovereenkomsten gesloten waarin onder meer wordt bepaald:<br>
+1° de jaarlijkse financiële tegemoetkoming ten laste van de algemene uitgavenbegroting van de Vlaamse Gemeenschap;<br>
+2° de verschillende&nbsp;domeinen die voor financiële tegemoetkomingen in aanmerking komen;<br>
+3° de verdeling van de middelen over de personeelskosten en de werkingskosten en over verschillende&nbsp;domeinen en de bedragen en de regelingen ter zake;<br>
+4° met behoud van de toepassing van artikel 4, § 2, de objectieve procedures, de regels en de voorwaarden voor de toekenning van financiële tegemoetkomingen;<br>
+5° de doelstellingen van de vereniging waarop de overeenkomst betrekking heeft, en de performantiemaatstaven die daaraan verbonden zijn;<br>
+6° het beheer en de werking van de vereniging;<br>
+7° met behoud van de toepassing van artikel 4, § 3, het toezicht door de Vlaamse Gemeenschap op het gebruik van de middelen die in het kader van de overeenkomst ter beschikking zijn gesteld, en op de realisatie door de vereniging van de doelstellingen en de performantiemaatstaven, vermeld in punt 5° ;<br>
+8° de maatregelen bij niet-naleving door een partij van haar verbintenissen die voortvloeien uit de beheersovereenkomst.</p>
 
 ### ART. 7.
 
@@ -46,7 +75,7 @@ De middelen van de vereniging zijn:<br /><br />1° de jaarlijkse financiële teg
 <br>
 § 2. Uiterlijk zes maanden voor het verstrijken van elke beheersovereenkomst legt de vereniging een ontwerp van beheersovereenkomst voor de volgende periode voor aan de Vlaamse Regering. Als bij het verstrijken van een beheersovereenkomst geen nieuwe beheersovereenkomst in werking is getreden, wordt, behalve in geval van de opzegging door de Vlaamse Regering, de beheersovereenkomst van rechtswege verlengd tot het ogenblik dat een nieuwe beheersovereenkomst in werking is getreden.<br>
 <br>
-§ 3. Elke ontwerp-beheersovereenkomst en elke wijziging en verlenging ervan wordt ter bespreking voorgelegd aan het Vlaams Parlement en aan de Raad voor Cultuur, Jeugd, Sport en Media.<br>
+§ 3. De ontwerpbeheersovereenkomst en elke wijziging&nbsp;ervan wordt ter bespreking voorgelegd aan het Vlaams Parlement en aan de Raad voor Cultuur, Jeugd, Sport en Media.<br>
 <br>
 § 4. De Vlaamse Regering kan aan de vereniging aanvullende opdrachten waaronder adviesopdrachten, toekennen die aansluiten bij het doel van de vereniging, vermeld in artikel 3. De Vlaamse Regering neemt dat op in de beheersovereenkomsten of in een afzonderlijke overeenkomst met de vereniging.</p>
 
