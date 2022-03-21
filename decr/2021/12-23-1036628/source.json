@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036628,
+  "title": "Decreet van 2021-12-23 houdende de ondersteuning van cultureelerfgoedwerking (citeeropschrift: Cultureelerfgoeddecreet van 23 december 2021)",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036628/VolledigDocument?datum=2022-03-21",
+  "source_sha256": "5c89b6adf9aaabfe37c4b03fceabf6cd234bd0c9d7f4a44142d0e77541805982",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036628&param=informatie",
+  "as_of": "2022-03-21",
+  "made": "2021-12-23",
+  "gazette": "2022-03-11",
+  "numac": 2022030475,
+  "document_start": "2022-03-21",
+  "document_end": null,
+  "in_force": "2022-03-21",
+  "article_versions": 99,
+  "record_form": "consolidated version as in force on 2022-03-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
