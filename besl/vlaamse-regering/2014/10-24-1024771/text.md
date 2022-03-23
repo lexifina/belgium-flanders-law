@@ -355,6 +355,22 @@ b) nadere regels opleggen voor de werking van de verificatiecommissie.<br>
 
 <p>De minister bepaalt de criteria waaraan de bedrijven moeten voldoen om aan een collectieve tenuitvoerlegging te kunnen deelnemen. De minister kan de gebieden aanduiden die in aanmerking komen voor een collectieve tenuitvoerlegging, met toepassing van artikel 47 van gedelegeerde verordening (EU) nr. 639/2014, en kan verdere verplichtingen opleggen aan de deelnemende landbouwers ter uitvoering van artikel 46, zesde lid, eerste alinea, van verordening (EU) nr. 1307/2013.</p>
 
+### ART 38/1.
+
+§1. Ter uitvoering van artikel 1 van het uitvoeringsbesluit (EU) 2022/484 van de Commissie van 23 maart 2022 tot vaststelling van de mogelijkheid om af te wijken van Verordening (EU) nr. 1307/2013 van het Europees Parlement en de Raad en van Gedelegeerde Verordening (EU) nr. 639/2014 van de Commissie wat betreft de uitvoering van bepaalde voorwaarden in verband met de vergroeningsbetaling voor het claimjaar 2022, beschouwt de bevoegde entiteit voor de campagne 2022 en na overeenkomstige aangifte door de landbouwer in de verzamelaanvraag, uiterlijk op de uiterste wijzigingsdatum ervan:<br>
+1° voor de vergroeningsmaatregel gewasdiversificatie in afwijking van artikel 44, lid 4, van verordening (EU) nr. 1307/2013 braakliggend land als afzonderlijk gewas, ook al is er op dat land gegraasd of geoogst voor productiedoeleinden of is het beteeld;<br>
+2° in afwijking van artikel 45, lid 2, van gedelegeerde verordening (EU) nr. 639/2014 en in afwijking van artikel 1, 37°, van dit besluit, braakliggend land als ecologisch aandachtsgebied, ook al is er op dat land gegraasd of geoogst voor productiedoeleinden of is het beteeld.&nbsp;<br>
+<br>
+In het geval, vermeld in het eerste lid, 2° staat de bevoegde entiteit:<br>
+1° in afwijking van artikel 45, lid 10ter, van gedelegeerde verordening (EU) nr. 639/2014 het gebruik van gewasbeschermingsmiddelen toe op het braakliggende land;<br>
+2° in afwijking van artikel 38, §2, derde lid, van dit besluit bemesting toe op het braakliggende land.<br>
+<br>
+§2. Braakliggend land dat aan al de volgende voorwaarden voldoet, is uitgesloten van de toepassing van paragraaf 1, eerste lid, 1° en 2°:<br>
+1° het ligt in groengebieden, parkgebieden, buffergebieden, bosgebieden of in bestemmingsgebieden die vergelijkbaar zijn met die gebieden;&nbsp;<br>
+2° het is aangewezen als één van de gebieden vermeld in punt 1° op de plannen van aanleg of de ruimtelijke uitvoeringsplannen die van kracht zijn in de ruimtelijke ordening.<br>
+<br>
+§3. Braakliggend land als vermeld in paragraaf 1, eerste lid, 1° of 2°, komt niet in aanmerking voor de toepassing van artikel 44, lid 3, a), en artikel 46, lid 4, a), van verordening (EU) nr. 1307/2013.
+
 ### ART. 39.
 
 Met toepassing van artikel 43, negende lid, tweede en derde alinea, van   verordening (EU) nr. 1307/2013, wordt de betaling voor vergroening toegekend als   een percentage van de totale waarde van de betalingsrechten die de landbouwer   heeft geactiveerd voor het desbetreffend jaar.<BR>
