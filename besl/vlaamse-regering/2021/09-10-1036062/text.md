@@ -685,6 +685,15 @@ Overzicht van de mogelijke combinaties van verbintenissen voor maatregelen met e
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 		</tr>
+		<tr>
+			<td>braakliggend land – met productie</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+		</tr>
 	</tbody>
 </table>
 X: maatregelen zijn combineerbaar op hetzelfde perceel, subsidies kunnen gecumuleerd worden<br>
