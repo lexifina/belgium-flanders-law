@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038010,
+  "title": "Besluit van de Vlaamse Regering van 2022-12-23 tot invoeging van een artikel 38/1 in het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038010/VolledigDocument?datum=2022-03-23",
+  "source_sha256": "ac2bb7232c03aa1913045d7ca26171d215b183e4242822e662343df80e7d5127",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038010&param=informatie",
+  "as_of": "2022-03-23",
+  "made": "2022-12-23",
+  "gazette": "2023-02-20",
+  "numac": 2023040428,
+  "document_start": "2022-03-23",
+  "document_end": null,
+  "in_force": "2022-03-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-03-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
