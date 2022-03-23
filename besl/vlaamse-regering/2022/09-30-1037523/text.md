@@ -45,6 +45,39 @@ In artikel 9 van hetzelfde besluit wordt het getal "20" telkens vervangen door h
 
 In artikel 10 van hetzelfde besluit wordt het getal "20" vervangen door de het getal "12".
 
+### ART 5.
+
+<p style="margin-left:0cm; margin-right:0cm">In de bijlage bij hetzelfde besluit wordt aan de tabel de volgende rij toegevoegd:<br>
+"</p>
+
+<table border="1" cellspacing="0" class="Table" style="border-collapse:collapse; border:1pt solid windowtext; width:800pt">
+	<tbody>
+		<tr>
+			<td style="vertical-align:top; width:70.75pt">
+			<p style="margin-left:0cm; margin-right:0cm">braakliggend land -&nbsp;met productie</p>
+			</td>
+			<td style="background-color:white; width:58.8pt">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+			</td>
+			<td style="background-color:white; width:56.95pt">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+			</td>
+			<td style="background-color:white; width:57.2pt">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+			</td>
+			<td style="background-color:white; width:55.1pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="color:#1f497d">x</span></span></span></p>
+			</td>
+			<td style="background-color:white; width:55.1pt">&nbsp;</td>
+			<td style="background-color:white; width:59.0pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="color:#1f497d">x</span></span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="margin-left:0cm; margin-right:0cm">".</p>
+
 ### ART 6.
 
 In artikel 10, §3, 1°, van het besluit van de Vlaamse Regering van 25 februari 2022 tot bepaling van de regels om een vergoeding toe te kennen voor de verstrekking van veevoeder met een methaanreducerend effect aan melkvee wordt de zinsnede "minstens 30% graskuil" vervangen door de zinsnede "maximaal 30% graskuil".&nbsp;
