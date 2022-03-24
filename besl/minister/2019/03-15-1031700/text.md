@@ -29,7 +29,7 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 2.
 
-De begunstigden van het een derde, vermeld in artikel 8, eerste lid, van het besluit van 29 juni 2018, zijn de begunstigden van voor de plaatsing, vermeld in boek 2, deel 4, titel 1, hoofdstuk 1, van het decreet van 27 april 2018, tenzij er een andersluidende beslissing van de jeugdrechtbank of de plaatsende overheid is.
+De begunstigden van het een derde, vermeld in artikel 8, eerste lid, van het besluit van 29 juni 2018, zijn de begunstigden, vermeld in boek 2, deel 4, titel 1, hoofdstuk 1, van het decreet van 27 april 2018, tenzij er een andersluidende beslissing van de jeugdrechtbank of de plaatsende overheid is.
 
 ## HOOFDSTUK 3. Nadere regels voor de betaling van gezinsbijslagen als begunstigden hun identiteit niet kunnen aantonen, vermeld in artikel 13, § 1, van het besluit van 29 juni 2018
 
