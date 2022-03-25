@@ -26,7 +26,7 @@ In dit besluit wordt verstaan onder:<br>
 1° systeem van alternerend leren en werken: een onderwijssysteem dat enerzijds bestaat uit een theoretische vorming in een onderwijsinstelling of opleidingsinstelling ingericht, gesubsidieerd of erkend door de bevoegde overheid en anderzijds een praktische opleiding op de werkplek;<br>
 2° besluit van de Vlaamse Regering van 7 december 2018 het besluit van de Vlaamse Regering van 7 december 2018 betreffende de nadere regels voor het verkrijgen van een zorgtoeslag ;<br>
 3° beschutte werkplaats: een werkkader dat aangepast is aan de behoeften van personen met een arbeidshandicap die niet in staat zijn om in het normaal economisch circuit (NEC) te werken;<br>
-4° decreet van 27 april 2018: het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid;<br>
+4° ...;<br>
 5° deelentiteit: de Gemeenschappelijke Gemeenschapscommissie, voor de gebiedsomschrijving van het tweetalige gebied Brussel-Hoofdstad; de Vlaamse Gemeenschap, voor de gebiedsomschrijving van het Nederlandse taalgebied; het Waalse Gewest, voor de gebiedsomschrijving van het Franse taalgebied en de Duitstalige Gemeenschap, voor de gebiedsomschrijving van het Duitse taalgebied;<br>
 6° maatwerkbedrijf: het maatwerkbedrijf, zoals vermeld in artikel 3, 5° van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling;<br>
 7° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
@@ -37,7 +37,7 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 2.
 
-Het recht op gezinsbijslagen van een kind dat de Belgische nationaliteit niet bezit als vermeld in artikel 8, § 1, eerste lid, 1°, van het decreet van 27 april 2018, ontstaat vanaf de datum waarop de beslissing tot toekenning van het verblijfsrecht conform de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen wordt genomen.<br>
+Het recht op gezinsbijslagen van een kind dat de Belgische nationaliteit niet bezit als vermeld in artikel 8, § 1, eerste lid, 1°, van het Groeipakketdecreet van 2018, ontstaat vanaf de datum waarop de beslissing tot toekenning van het verblijfsrecht conform de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen wordt genomen.<br>
 <br>
 Met behoud van de toepassing van de in het vierde lid vermelde bevoegdheid van de minister, ontstaat het recht op gezinsbijslagen voor het kind dat erkend vluchteling is, vanaf de datum waarop de beslissing van erkenning van de vluchtelingenstatus, overeenkomstig artikel 48/3 van de voormelde wet, wordt genomen.<br>
 <br>
@@ -49,7 +49,7 @@ De minister bepaalt wat met de voorwaarde van toegelaten of gemachtigd verblijf 
 
 ### ART 3.
 
-De gezinsbijslagen die verschuldigd zijn voor het kind dat het voorwerp uitmaakt van een ontvoering als vermeld in artikel 8, § 1, eerste lid, 2°, van het decreet van 27 april 2018, is gelijk aan het maandelijkse basisbedrag, vermeld in artikel 13 van het voormelde decreet.<br>
+De gezinsbijslagen die verschuldigd zijn voor het kind dat het voorwerp uitmaakt van een ontvoering als vermeld in artikel 8, § 1, eerste lid, 2°, van het Groeipakketdecreet van 2018, is gelijk aan het maandelijkse basisbedrag, vermeld in artikel 13 van het voormelde decreet.<br>
 <br>
 Een recht op wezentoeslag als vermeld in artikel 14 van het voormelde decreet, kan gevestigd worden voor het ontvoerde kind conform de voorwaarden, vermeld in titel 2 van het besluit van de Vlaamse Regering van 7 december 2018.<br>
 <br>
@@ -79,11 +79,11 @@ Als de personen die voor de ontvoering de begunstigden voor het ontvoerde kind w
 
 Voor het kind dat al als ontvoerd wordt beschouwd op 31 december 2018, blijft de bijslagtrekkende, vermeld in artikel 1 van het koninklijk besluit van 19 april 2005 tot uitvoering van artikel 69, § 2bis, van de samengeordende wetten betreffende de kinderbijslag voor loonarbeiders, de bijslagtrekkende vanaf 1 januari 2019 tot er zich een wijziging voordoet op het vlak van de ontvoering zelf. In dat geval worden de bepalingen voor de aanwijzing van de begunstigden en de regels van de uitbetaling overeenkomstig boek 2, deel 4, titel 1, hoofdstuk 1, en boek 2, deel 4, titel 2, hoofdstuk 1, toegepast. De bepalingen van boek 2, deel 4, titel 2, hoofdstuk 3 zijn van toepassing zowel op de bijslagtrekkende als de begunstigde.<br>
 <br>
-Het kind heeft recht op gezinsbijslagen conform artikel 210 van het decreet van 27 april 2018.
+Het kind heeft recht op gezinsbijslagen conform artikel 210 van het Groeipakketdecreet van 2018.
 
 ### ART 7.
 
-Onder Belgische overheden die bevoegd zijn inzake de ontvoering van kinderen als vermeld in artikel 8, § 1, eerste lid, 2°, a), van het decreet van 27 april 2018, wordt verstaan: het Directoraat-generaal Wetgeving, Fundamentele Rechten en Vrijheden van de Federale Overheidsdienst Justitie en de Directie-generaal Consulaire Zaken van de Federale Overheidsdienst Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking.<br>
+Onder Belgische overheden die bevoegd zijn inzake de ontvoering van kinderen als vermeld in artikel 8, § 1, eerste lid, 2°, a), van het Groeipakketdecreet van 2018, wordt verstaan: het Directoraat-generaal Wetgeving, Fundamentele Rechten en Vrijheden van de Federale Overheidsdienst Justitie en de Directie-generaal Consulaire Zaken van de Federale Overheidsdienst Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking.<br>
 <br>
 Er wordt niet alleen rekening gehouden met een aangifte van ontvoering in het kader van een strafprocedure, maar ook met een aangifte in het kader van een burgerlijke procedure.
 
@@ -97,7 +97,7 @@ De ontvoering neemt ook een einde als het kind niet hoeft terug te keren overeen
 
 ### ART 9.
 
-De gezinsbijslagen voor het verdwenen kind, vermeld in artikel 8, § 1, eerste lid, 2°, van het decreet van 27 april 2018, zijn gelijk aan het maandelijkse basisbedrag, vermeld in artikel 13 van het voormelde decreet.<br>
+De gezinsbijslagen voor het verdwenen kind, vermeld in artikel 8, § 1, eerste lid, 2°, van het Groeipakketdecreet van 2018, zijn gelijk aan het maandelijkse basisbedrag, vermeld in artikel 13 van het voormelde decreet.<br>
 <br>
 Een recht op wezentoeslag kan gevestigd worden voor het verdwenen kind volgens de voorwaarden, vermeld in titel 2 van het besluit van de Vlaamse Regering van 7 december 2018.<br>
 <br>
@@ -109,7 +109,7 @@ Het verdwenen kind telt mee voor de bepaling van de gezinsgrootte, vermeld in ar
 
 ### ART 10.
 
-Op het moment van de verdwijning moet het kind rechtgevend zijn op gezinsbijslagen als vermeld in artikel 8, § 2, eerste lid, 1° tot en met 3°, van het decreet van 27 april 2018, of krachtens de regelgeving van een andere deelentiteit, buitenlandse wets- of reglementsbepalingen of regels die van toepassing zijn op het personeel van een volkenrechtelijke instelling.<br>
+Op het moment van de verdwijning moet het kind rechtgevend zijn op gezinsbijslagen als vermeld in artikel 8, § 2, eerste lid, 1° tot en met 3°, van het Groeipakketdecreet van 2018, of krachtens de regelgeving van een andere deelentiteit, buitenlandse wets- of reglementsbepalingen of regels die van toepassing zijn op het personeel van een volkenrechtelijke instelling.<br>
 <br>
 De gezinsbijslagen worden voor ten hoogste vijf jaar toegekend vanaf de eerste dag van de maand van de verdwijning van het kind, als het niet de leeftijd van 21 jaar of van 25 jaar heeft bereikt, al naargelang het rechtgevend was conform artikel 8, § 2, eerste lid, 2° of 3°, van het voormelde decreet op het ogenblik van de verdwijning.
 
@@ -122,11 +122,11 @@ Als de personen die voor de verdwijning de begunstigden voor het verdwenen kind 
 <br>
 Voor het kind dat al als verdwenen wordt beschouwd op 31 december 2018, blijft de bijslagtrekkende, vermeld in artikel 69, § 1 van de Algemene Kinderbijslagwet van 19 december 1939, de bijslagtrekkende vanaf 1 januari 2019 tot er zich een wijziging voordoet op het vlak van de verdwijning zelf. In dat geval worden de bepalingen voor de aanwijzing van de begunstigden en de regels van de uitbetaling overeenkomstig boek 2, deel 4, titel 1, hoofdstuk 1, en boek 2, deel 4, titel 2, hoofdstuk 1, toegepast. De bepalingen van boek 2, deel 4, titel 2, hoofdstuk 3 zijn van toepassing zowel op de bijslagtrekkende als de begunstigde.<br>
 <br>
-Het kind heeft recht op gezinsbijslagen conform artikel 210 van het decreet van 27 april 2018.
+Het kind heeft recht op gezinsbijslagen conform artikel 210 van het Groeipakketdecreet van 2018.
 
 ### ART 12.
 
-Het recht op gezinsbijslagen ten gunste van het verdwenen kind dooft uit op het einde van de maand waarin het kind is teruggevonden, tenzij er verder recht kan zijn op gezinsbijslagen, overeenkomstig artikel 8, § 2, eerste lid, 1° tot en met 3°, van het decreet van 27 april 2018.
+Het recht op gezinsbijslagen ten gunste van het verdwenen kind dooft uit op het einde van de maand waarin het kind is teruggevonden, tenzij er verder recht kan zijn op gezinsbijslagen, overeenkomstig artikel 8, § 2, eerste lid, 1° tot en met 3°, van het Groeipakketdecreet van 2018.
 
 ### ART 13.
 
@@ -195,7 +195,7 @@ De minister bepaalt de nadere regels betreffende de vorm en inhoud van de attest
 <br>
 § 3. Voor het kind dat zich wegens ziekte niet kan inschrijven en dat tijdens het vorige schooljaar niet ziek was, wordt een aanvraag tot medische vaststelling van een specifieke ondersteuningsnood en van de onmogelijkheid om de lessen te volgen ingediend. Als de specifieke ondersteuningsnood werd vastgesteld overeenkomstig titel 3 van het besluit van de Vlaamse Regering van 7 december 2018, heeft het kind onvoorwaardelijk recht op de basisgezinsbijslag en een recht op de zorgtoeslag onder de voorwaarden vermeld in artikel 14. Als het kind alleen in de onmogelijkheid verkeert om de lessen te volgen, heeft het recht op de gezinsbijslagen vanaf de erkenning van de onmogelijkheid om de lessen te volgen, voor maximaal een jaar.<br>
 <br>
-§ 4. Voor het kind dat al 21 jaar is op het moment dat het zich wegens ziekte niet kan inschrijven en dat tijdens het vorige schooljaar niet ziek was, bestaat er een recht op gezinsbijslagen gedurende maximaal één jaar binnen de leeftijdsgrenzen, vermeld in artikel 8, § 2, eerste lid, 3°, van het decreet van 27 april 2018. Er is evenwel geen cumul mogelijk met een inkomensvervangende tegemoetkoming.<br>
+§ 4. Voor het kind dat al 21 jaar is op het moment dat het zich wegens ziekte niet kan inschrijven en dat tijdens het vorige schooljaar niet ziek was, bestaat er een recht op gezinsbijslagen gedurende maximaal één jaar binnen de leeftijdsgrenzen, vermeld in artikel 8, § 2, eerste lid, 3°, van het Groeipakketdecreet van 2018. Er is evenwel geen cumul mogelijk met een inkomensvervangende tegemoetkoming.<br>
 <br>
 De ziekte van het kind wordt bewezen met attesten. Na zes maanden ziekte moet de afwezigheid altijd gewettigd zijn door een onderzoek van de bevoegde dienst.<br>
 <br>
@@ -267,7 +267,7 @@ De minister bepaalt de nadere voorwaarden betreffende vorm en inhoud van de atte
 <br>
 § 3. Voor het kind dat zich wegens ziekte bij het begin van een nieuw academiejaar niet kan inschrijven en dat tijdens het vorige academiejaar, of tijdens het voorgaande schooljaar, niet ziek was, wordt een aanvraag tot medische vaststelling van een zorgbehoefte en van de onmogelijkheid om de lessen te volgen ingediend. Als de specifieke ondersteuningsnood werd vastgesteld overeenkomstig titel 3 van het besluit van de Vlaamse Regering van 7 december 2018, heeft het kind onvoorwaardelijk recht op de basisgezinsbijslag en recht op de zorgtoeslag onder de voorwaarden vermeld in artikel 14. Als het kind alleen in de onmogelijkheid verkeert om de lessen te volgen, heeft het recht op de gezinsbijslagen vanaf de erkenning van de onmogelijkheid om de lessen te volgen, voor maximaal één jaar.<br>
 <br>
-§ 4. Voor het kind dat al 21 jaar is op het moment dat het zich wegens ziekte niet kan inschrijven en dat tijdens het vorige academiejaar niet ziek was, bestaat er een recht op gezinsbijslagen gedurende maximaal één jaar binnen de leeftijdsgrenzen, vermeld in artikel 8, § 2, eerste lid, 3°, van het decreet van 27 april 2018. Er is evenwel geen cumul mogelijk met een inkomensvervangende tegemoetkoming.<br>
+§ 4. Voor het kind dat al 21 jaar is op het moment dat het zich wegens ziekte niet kan inschrijven en dat tijdens het vorige academiejaar niet ziek was, bestaat er een recht op gezinsbijslagen gedurende maximaal één jaar binnen de leeftijdsgrenzen, vermeld in artikel 8, § 2, eerste lid, 3°, van het Groeipakketdecreet van 2018. Er is evenwel geen cumul mogelijk met een inkomensvervangende tegemoetkoming.<br>
 <br>
 De ziekte van het kind wordt bewezen met ziekteattesten. Na zes maanden ziekte moet de afwezigheid altijd gewettigd zijn door een onderzoek van de bevoegde dienst.<br>
 <br>
@@ -345,7 +345,7 @@ De minister wijst de dienst aan die bevoegd is om het onderzoek, vermeld in het 
 <br>
 § 2. Voor het kind dat zich wegens ziekte bij het begin van een nieuwe opleidingscyclus niet kan inschrijven en dat tijdens het vorige schooljaar niet ziek was, wordt een aanvraag tot medische vaststelling van een zorgbehoefte en van de onmogelijkheid om de lessen te volgen ingediend. Als de specifieke ondersteuningsnood werd vastgesteld overeenkomstig titel 3 van het besluit van de Vlaamse Regering van 7 december 2018, heeft het kind onvoorwaardelijk recht op de basisgezinsbijslag en recht op de zorgtoeslag onder de voorwaarden vermeld in artikel 14. Als het kind alleen in de onmogelijkheid verkeert om de lessen te volgen, heeft het recht op de gezinsbijslagen vanaf de erkenning van de onmogelijkheid om de lessen te volgen, voor maximaal één jaar.<br>
 <br>
-§ 3. Voor het kind dat al 21 jaar is op het moment dat het zich wegens ziekte niet kan inschrijven en dat tijdens het vorige schooljaar niet ziek was, bestaat er een recht op gezinsbijslagen gedurende maximaal één jaar binnen de leeftijdsgrenzen, vermeld in artikel 8, § 2, eerste lid, 3°, van het decreet van 27 april 2018. Er is evenwel geen cumul mogelijk met een inkomensvervangende tegemoetkoming.<br>
+§ 3. Voor het kind dat al 21 jaar is op het moment dat het zich wegens ziekte niet kan inschrijven en dat tijdens het vorige schooljaar niet ziek was, bestaat er een recht op gezinsbijslagen gedurende maximaal één jaar binnen de leeftijdsgrenzen, vermeld in artikel 8, § 2, eerste lid, 3°, van het Groeipakketdecreet van 2018. Er is evenwel geen cumul mogelijk met een inkomensvervangende tegemoetkoming.<br>
 <br>
 De ziekte van het kind wordt bewezen met ziekteattesten. Na zes maanden ziekte moet de afwezigheid altijd gewettigd zijn door een onderzoek van de bevoegde dienst.<br>
 <br>
@@ -443,7 +443,7 @@ Voor de militairen, vermeld in artikel 22 van voormelde wet worden de voordelen,
 
 ### ART 45.
 
-De gezinsbijslagen blijven ten goede komen aan het rechtgevend kind dat ten minste 21 jaar oud was op 1 juli 1987, vermeld in artikel 8, § 2, eerste lid, 4°, van het decreet van 27 april 2018, als dat kind aan een van de volgende voorwaarden voldoet:<br>
+De gezinsbijslagen blijven ten goede komen aan het rechtgevend kind dat ten minste 21 jaar oud was op 1 juli 1987, vermeld in artikel 8, § 2, eerste lid, 4°, van het Groeipakketdecreet van 2018, als dat kind aan een van de volgende voorwaarden voldoet:<br>
 1° wegens zijn lichaams- of geestesgesteldheid volledig ongeschikt blijken om enig beroep uit te oefenen;<br>
 2° ten minste 66% arbeidsongeschikt zijn en tewerkgesteld zijn in een beschutte werkplaats;<br>
 3° ten minste 66% arbeidsongeschikt zijn en tijdelijk buiten de werkplaats, vermeld in punt 2°, tewerkgesteld zijn in het kader van een herscholing, en onder de verantwoordelijkheid van de vermelde werkplaats;<br>
@@ -457,7 +457,7 @@ Het kind dat voldoet aan de voorwaarde, vermeld in het eerste lid, 1°, mag, beh
 2° geen sociale uitkeringen ontvangen wegens arbeidsongeschiktheid of onvrijwillige werkloosheid, behalve een tegemoetkoming die toegekend wordt conform de regelgeving over de toekenning van tegemoetkomingen aan mindervaliden;<br>
 3° geen rustpensioen ontvangen dat hoger is dan het gewaarborgde inkomen voor bejaarden, behalve als dat pensioen voortvloeit uit een tewerkstelling of een toestand als vermeld in het eerste lid, 2° tot en met 7°.<br>
 <br>
-De ongeschiktheid, vermeld in het eerste lid, moet begonnen zijn voor het kind wegens het bereiken van de leeftijdsgrens, vermeld in artikel 8, § 2, eerste lid, 1°, van het decreet van 27 april 2018, opgehouden is rechtgevend op gezinsbijslagen te zijn en moet zonder onderbreking blijven bestaan. Er wordt geen rekening gehouden met een verhoging van de voormelde ongeschiktheid na de leeftijdsgrens, vermeld in artikel 8, § 2, eerste lid, 1°, van het decreet van 27 april 2018.
+De ongeschiktheid, vermeld in het eerste lid, moet begonnen zijn voor het kind wegens het bereiken van de leeftijdsgrens, vermeld in artikel 8, § 2, eerste lid, 1°, van het Groeipakketdecreet van 2018, opgehouden is rechtgevend op gezinsbijslagen te zijn en moet zonder onderbreking blijven bestaan. Er wordt geen rekening gehouden met een verhoging van de voormelde ongeschiktheid na de leeftijdsgrens, vermeld in artikel 8, § 2, eerste lid, 1°, van het Groeipakketdecreet van 2018.
 
 ## HOOFDSTUK 8. Recht op gezinsbijslagen voor bepaalde categorieën van kinderen die voor 1 januari 2019 recht hadden op kinderbijslag of toeslagen op basis van de kinderbijslagreglementering
 
@@ -465,7 +465,7 @@ De ongeschiktheid, vermeld in het eerste lid, moet begonnen zijn voor het kind w
 
 § 1. In dit artikel wordt verstaan onder koninklijk besluit van 12 augustus 1985: het koninklijk besluit van 12 augustus 1985 tot uitvoering van artikel 62, § 5 van de Algemene kinderbijslagwet.<br>
 <br>
-§ 2. De volgende categorieën van kinderen die voor 1 januari 2019 recht hadden op kinderbijslag of toeslagen op basis van de kinderbijslagreglementering, en die uitgesloten worden van dat recht conform artikel 8, § 2, eerste lid, van het decreet van 27 april 2018, blijven recht geven op gezinsbijslagen:<br>
+§ 2. De volgende categorieën van kinderen die voor 1 januari 2019 recht hadden op kinderbijslag of toeslagen op basis van de kinderbijslagreglementering, en die uitgesloten worden van dat recht conform artikel 8, § 2, eerste lid, van het Groeipakketdecreet van 27 april 2018, blijven recht geven op gezinsbijslagen:<br>
 1° het kind dat zich bevindt in de initiële toekenningsperiode van 360 kalenderdagen, vermeld in artikel 1, § 1, van het koninklijk besluit van 12 augustus 1985, voor de resterende toekenningsperiode, zonder verlengingen. Het kind waarvoor de voormelde initiële toekenningsperiode van 360 dagen werd verlengd, totdat de jongere twee, al dan niet opeenvolgende, positieve evaluaties van zijn zoekgedrag naar werk gekregen heeft, voor een periode van zes maanden die aanvangt op de datum van de laatste evaluatie vóór de inwerkingtreding van dit besluit;<br>
 2° het kind dat door ziekte belet is zich tijdig in te schrijven als werkzoekende of dat ziek wordt tijdens de beroepsinschakelingstijd, als hij blijft voldoen aan de voorwaarden, vermeld in artikel 4, § 1, van het koninklijk besluit van 12 augustus 1985. De voorwaarde om zich aansluitend aan de ziekteperiode in te schrijven als werkzoekende vervalt. De duur van de ziekte wordt geattesteerd door een arts;<br>
 3° de leerling, student of stagiair die voor 1 januari 2019 recht had op kinderbijslag en die uitgesloten wordt van het recht overeenkomstig artikel 29 of 36, voor het school- of academiejaar 2018-2019, als hij blijft voldoen aan de voorwaarden, vermeld in artikel 13 en 14 van het koninklijk besluit van 10 augustus 2005 tot vaststelling van de voorwaarden waaronder kinderbijslag wordt verleend ten behoeve van het kind dat onderwijs volgt of een vorming doorloopt;<br>
@@ -484,7 +484,7 @@ De ouder, vermeld in het eerste lid, mag alleen beschouwd worden als begunstigde
 
 ### ART 47.
 
-§ 1. Voor de volgende kinderen gelden algemene vrijstellingen van de toekenningsvoorwaarden voor gezinsbijslagen, vermeld in artikel 8, § 3, eerste lid, van het decreet van 27 april 2018:<br>
+§ 1. Voor de volgende kinderen gelden algemene vrijstellingen van de toekenningsvoorwaarden voor gezinsbijslagen, vermeld in artikel 8, § 3, eerste lid, van het Groeipakketdecreet van 2018:<br>
 1° kinderen die in België al een einddiploma secundair onderwijs hebben verworven en die niet-hoger onderwijs volgen buiten België. Deze afwijking wordt beperkt tot maximaal één schooljaar. De vakantieperiodes, vermeld in artikel 21, eerste lid, van dit besluit, maken deel uit van het schooljaar;<br>
 2° kinderen die hoger onderwijs volgen buiten België. Deze afwijking geldt voor de hele periode van het gevolgde onderwijs. De vakantieperiodes, vermeld in artikel 28 van dit besluit, maken deel uit van het academiejaar;<br>
 3° kinderen die tijdens de twaalf maanden, vermeld in artikel 40 van dit besluit, vrijwilligerswerk verrichten of een opleiding of stage volgen buiten België, op voorwaarde dat ze een attest, waarvan de minister het model bepaalt, kunnen voorleggen, respectievelijk van de betrokken vrijwilligersorganisatie, de Rijksdienst voor Arbeidsvoorziening of de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
@@ -503,11 +503,11 @@ De ouder, vermeld in het eerste lid, mag alleen beschouwd worden als begunstigde
 
 ### ART 48.
 
-Een algemene vrijstelling van de toekenningsvoorwaarden voor de gezinsbijslagen, vermeld in artikel 8, § 3, eerste lid, van het decreet van 27 april 2018, geldt gedurende maximaal één jaar voor de kinderen van de werknemer die buiten België gedetacheerd is, die de werknemer vergezellen naar het land van detachering, of voor de kinderen die tijdens die periode van detachering in het gezin van de werknemer geboren zijn.
+Een algemene vrijstelling van de toekenningsvoorwaarden voor de gezinsbijslagen, vermeld in artikel 8, § 3, eerste lid, van het Groeipakketdecreet van 2018, geldt gedurende maximaal één jaar voor de kinderen van de werknemer die buiten België gedetacheerd is, die de werknemer vergezellen naar het land van detachering, of voor de kinderen die tijdens die periode van detachering in het gezin van de werknemer geboren zijn.
 
 ### ART 49.
 
-Een algemene vrijstelling van de toekenningsvoorwaarden voor de gezinsbijslagen, vermeld in artikel 8, § 3, eerste lid, van het decreet van 27 april 2018, geldt voor de kinderen van bepaalde overheidspersoneelsleden die gedurende meer dan zes opeenvolgende maanden hun ambt buiten België uitoefenen, en die daar opgevoed worden of de lessen volgen. Nadat die overheidspersoneelsleden teruggekeerd zijn naar België, blijft die algemene vrijstelling behouden voor hun kinderen die buiten België voortstuderen. De minister bepaalt op welke overheidspersoneelsleden de algemene vrijstelling betrekking heeft.
+Een algemene vrijstelling van de toekenningsvoorwaarden voor de gezinsbijslagen, vermeld in artikel 8, § 3, eerste lid, van het Groeipakketdecreet van 2018, geldt voor de kinderen van bepaalde overheidspersoneelsleden die gedurende meer dan zes opeenvolgende maanden hun ambt buiten België uitoefenen, en die daar opgevoed worden of de lessen volgen. Nadat die overheidspersoneelsleden teruggekeerd zijn naar België, blijft die algemene vrijstelling behouden voor hun kinderen die buiten België voortstuderen. De minister bepaalt op welke overheidspersoneelsleden de algemene vrijstelling betrekking heeft.
 
 ## Afdeling 2. Algemene vrijstellingen van de toekenningsvoorwaarden voor het startbedrag geboorte
 
@@ -561,7 +561,7 @@ Ter uitvoering van artikel 23, derde lid, van het Groeipakketdecreet van 2018 wo
 
 ### ART 54.
 
-De jaarlijkse universele participatiestoeslag, vermeld in artikel 19, 20, 21 en 22 van het decreet van 27 april 2018, is verschuldigd als er recht is op de basisgezinsbijslag voor de maand juli van het betrokken jaar.<br>
+De jaarlijkse universele participatiestoeslag, vermeld in artikel 19, 20, 21 en 22 van het Groeipakketdecreet van 2018, is verschuldigd als er recht is op de basisgezinsbijslag voor de maand juli van het betrokken jaar.<br>
 <br>
 De universele participatietoeslag wordt betaald in augustus, gelijktijdig met de basisgezinsbijslag voor juli.<br>
 <br>
@@ -571,11 +571,11 @@ De universele participatietoeslag wordt betaald aan de begunstigden die de basis
 
 ### ART 55.
 
-Overeenkomstig artikel 211 van het decreet van 27 april 2018 blijven algemene en individuele afwijkingen van de toekenningsvoorwaarden voor kinderbijslag, die op 31 december 2018 in overeenstemming met de kinderbijslagreglementering toegekend zijn, gelden onder de volgende voorwaarden:<br>
+Overeenkomstig artikel 211 van het Groeipakketdecreet van 2018 blijven algemene en individuele afwijkingen van de toekenningsvoorwaarden voor kinderbijslag, die op 31 december 2018 in overeenstemming met de kinderbijslagreglementering toegekend zijn, gelden onder de volgende voorwaarden:<br>
 1° kinderen die recht hebben op kinderbijslag op basis van een individuele afwijking van de kinderbijslagreglementering, kunnen rechten putten uit die beslissing voor de periode, vermeld in die beslissing. Verlenging of hernieuwing van die beslissing is niet mogelijk;<br>
 2° algemene afwijkingen van de kinderbijslagreglementering die zijn toegekend voor een bepaalde periode, vervallen na verloop van de desbetreffende periode. Verlenging of hernieuwing is niet mogelijk;<br>
 3° algemene afwijkingen van de kinderbijslagreglementering die zijn toegekend voor een onbepaalde periode, blijven gelden tot er zich een wijziging voordoet in de gezinssituatie of tot er niet meer wordt voldaan aan de toekenningsvoorwaarden van de afwijking;<br>
-4° individuele en algemene afwijkingen vervallen als het kind recht heeft op gezinsbijslagen conform de voorwaarden, vermeld in het decreet van 27 april 2018;<br>
+4° individuele en algemene afwijkingen vervallen als het kind recht heeft op gezinsbijslagen conform de voorwaarden, vermeld in het Groeipakketdecreet van 2018;<br>
 5° individuele en algemene afwijkingen vervallen indien Vlaanderen overeenkomstig de toepassing van artikel 2 van het Samenwerkingsakkoord van 6 september 2017 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de aanknopingsfactoren, het beheer van de lasten van het verleden, de gegevensuitwisseling inzake de gezinsbijslagen en de praktische regels betreffende de bevoegdheidsoverdracht tussen de kinderbijslagfondsen, niet langer bevoegd is inzake de gezinsbijslagen.<br>
 <br>
 In het eerste lid, punt 5°, wordt onder aanknopingsfactor verstaan: een situatie op basis waarvan een gezinsbijslagendossier aan een deelentiteit kan worden toegewezen en die de bevoegdheid van die entiteit exclusief bepaalt.
