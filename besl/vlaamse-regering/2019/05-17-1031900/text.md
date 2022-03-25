@@ -22,7 +22,7 @@ Besluit :
 
 In dit besluit wordt verstaan onder:<br>
 1° buitenland: het gebied buiten het grondgebied van het rijk;<br>
-2° decreet van 27 april 2018: het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid;<br>
+2° ...;<br>
 3° kadastraal inkomen: het kadastraal inkomen, vastgesteld conform titel IX van het Wetboek van de Inkomstenbelastingen;<br>
 4° kadastraal inkomen vreemd gebruik: het kadastraal inkomen van de onroerende goederen die noch als eigen hoofdverblijfplaats, noch voor eigen beroepsdoeleinden worden gebruikt. In dit besluit wordt het kadastraal inkomen van een onroerend goed niet beschouwd als kadastraal inkomen vreemd gebruik als dat onroerend goed niet als eigen hoofdverblijfplaats wordt gebruikt door de stand van de bouwwerkzaamheden of van de verbouwingswerkzaamheden die het de begunstigden niet toelaten om de woning daadwerkelijk te betrekken, onder de voorwaarden, vermeld in artikel 14538, § 1, van het wetboek van de inkomstenbelastingen 1992;<br>
 5° kadastraal inkomen voor eigen beroepsdoeleinden: het kadastraal inkomen van de onroerende goederen die voor eigen beroepsdoeleinden gebruikt worden, vermeld op het aanslagbiljet van de personenbelasting;<br>
@@ -33,7 +33,7 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 2.
 
-In afwijking van artikel 24, eerste lid, 1°, van het decreet van 27 april 2018 hebben de volgende leerlingen recht op een selectieve participatietoeslag:<br>
+In afwijking van artikel 24, eerste lid, 1°, van het Groeipakketdecreet van 2018 hebben de volgende leerlingen recht op een selectieve participatietoeslag:<br>
 1° de slachtoffers van mensenhandel- of smokkel, geattesteerd door een door de federale overheid erkend centrum dat gespecialiseerd is in het onthaal van slachtoffers van mensenhandel of van slachtoffers van mensensmokkel die op het grondgebied verblijven met een attest van immatriculatie;<br>
 2° een niet-begeleide minderjarige die op het grondgebied verblijft met een attest van immatriculatie;<br>
 3° een pleegkind of pleeggast als vermeld in artikel 2, 8° en 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, op voorwaarde dat het pleegkind of de pleeggast langer dan een jaar onafgebroken bij hetzelfde pleeggezin verblijft.
@@ -55,16 +55,16 @@ Het resultaat van de berekening, vermeld in het eerste lid, wordt afgerond naar 
 
 ### ART 3.
 
-§ 1. Voor de berekening van de inkomsten van het gezin, vermeld in artikel 37, eerste lid, van het decreet van 27 april 2018, wordt rekening gehouden met de inkomsten van beide personen aan wie de selectieve participatietoeslagen worden uitbetaald voor een leerling, die dezelfde woonplaats hebben.<br>
+§ 1. Voor de berekening van de inkomsten van het gezin, vermeld in artikel 37, eerste lid, van het Groeipakketdecreet van 2018, wordt rekening gehouden met de inkomsten van beide personen aan wie de selectieve participatietoeslagen worden uitbetaald voor een leerling, die dezelfde woonplaats hebben.<br>
 <br>
 § 2. In deze paragraaf wordt verstaan onder feitelijk gezin: een leefeenheid waarin twee personen die geen bloed- of aanverwanten tot en met de derde graad zijn, samenwonen en samen een huishouden regelen, hetzij financieel, hetzij op een andere ondersteunende manier.<br>
 <br>
 Er wordt rekening gehouden met de inkomsten van de persoon die dezelfde woonplaats heeft als een leerling en de persoon met wie die persoon een feitelijk gezin vormt als de selectieve participatietoeslagen worden uitbetaald aan één persoon alleen of aan twee personen die niet op hetzelfde adres wonen.<br>
 <br>
-Als de selectieve participatietoeslagen worden uitbetaald aan het rechthebbende kind zelf conform artikel 73, § 1, eerste lid, van het decreet van 27 april 2018, wordt rekening gehouden met de inkomsten van het kind zelf en de persoon met wie het kind samenwoont.<br>
+Als de selectieve participatietoeslagen worden uitbetaald aan het rechthebbende kind zelf conform artikel 73, § 1, eerste lid, van het Groeipakketdecreet van 2018, wordt rekening gehouden met de inkomsten van het kind zelf en de persoon met wie het kind samenwoont.<br>
 <br>
 Als de persoon, vermeld in het tweede en derde lid, samenwoont met verschillende niet-verwante personen tot en met de derde graad, wordt hij geacht een feitelijk gezin te vormen met de volgende personen, in afdalende volgorde:<br>
-1° de persoon met wie de persoon aan wie de selectieve participatietoeslag wordt uitbetaald, getrouwd is als vermeld in artikel 3, § 1, 16°, van het decreet van 27 april 2018;<br>
+1° de persoon met wie de persoon aan wie de selectieve participatietoeslag wordt uitbetaald, getrouwd is als vermeld in artikel 3, § 1, 16°, van het Groeipakketdecreet van 2018;<br>
 2° de andere ouder van het kind;<br>
 3° de persoon met wie hij samen de gezinswoning heeft gekocht of gebouwd;<br>
 4° de persoon met wie de persoon aan wie de selectieve participatietoeslag wordt uitbetaald, verklaart samen de kinderen op te voeden;<br>
@@ -87,7 +87,7 @@ Als het samenwonen, vermeld in het eerste lid, niet blijkt uit het Rijksregister
 4° een verklaring van feitelijke gezinsvorming van de persoon aan wie de selectieve participatietoeslag wordt uitbetaald, of van de persoon met wie de persoon aan wie de selectieve participatietoeslag wordt uitbetaald, samenwoont.<br>
 <br>
 De vorming van een feitelijk gezin, kan weerlegd worden door:<br>
-1° een huurovereenkomst tussen de persoon aan wie de selectieve participatietoeslag wordt uitbetaald, en de persoon met wie hij samenwoont;<br>
+1° een geregistreerde huurovereenkomst tussen de persoon aan wie de selectieve participatietoeslag wordt uitbetaald, en de persoon met wie hij samenwoont;<br>
 2° een arbeidsovereenkomst met recht van inwoning;<br>
 3° een attest van detentie;<br>
 4° een registratieformulier van de mantelzorger, die niet een van de personen, vermeld in paragraaf 2, vierde lid, 1°, is;<br>
@@ -115,7 +115,7 @@ De vorming van een feitelijk gezin kan niet weerlegd worden als de persoon aan w
 
 ### ART 4.
 
-De leerling die als gehuwd kan worden beschouwd als vermeld in artikel 3, § 1, 16°, van het decreet van 27 april 2018, wordt beschouwd als een gehuwde leerling als vermeld in artikel 38, § 1, 3°, van het voormelde decreet.<br>
+De leerling die als gehuwd kan worden beschouwd als vermeld in artikel 3, § 1, 16°, van het Groeipakketdecreet van 27 april 2018, wordt beschouwd als een gehuwde leerling als vermeld in artikel 38, § 1, 3°, van het voormelde decreet.<br>
 <br>
 Artikel 3, § 2, is van toepassing om de inkomsten te bepalen waarmee rekening wordt gehouden om het recht op een selectieve participatietoeslag vast te stellen.
 
@@ -123,7 +123,7 @@ Artikel 3, § 2, is van toepassing om de inkomsten te bepalen waarmee rekening w
 
 ### ART 5.
 
-De leerling die ontvoogd is of de leeftijd van zestien jaar bereikt heeft, en zijn woonplaats niet bij zijn ouders of werkelijke opvoeders heeft, wordt beschouwd als zelfstandige leerling als vermeld in artikel 38, § 1, 4°, van het decreet van 27 april 2018, alsook de leerling die zelf begunstigde is voor een of meer van zijn kinderen.<br>
+De leerling die ontvoogd is of de leeftijd van zestien jaar bereikt heeft, en zijn woonplaats niet bij zijn ouders of werkelijke opvoeders heeft, wordt beschouwd als zelfstandige leerling als vermeld in artikel 38, § 1, 4°, van het Groeipakketdecreet van 27 april 2018, alsook de leerling die zelf begunstigde is voor een of meer van zijn kinderen.<br>
 <br>
 De voorwaarde dat de leerling zijn woonplaats niet bij zijn ouders of werkelijke opvoeders heeft, vermeld in het eerste lid, is vervuld als de leerling beschikt over een afzonderlijke woonplaats, namelijk de plaats die als hoofdverblijf is ingeschreven in de bevolkingsregisters conform artikel 32, 3°, van het Gerechtelijk Wetboek, of als met officiële documenten wordt aangetoond dat de gegevens in de bevolkingsregisters niet of niet meer overeenstemmen met de realiteit.<br>
 <br>
@@ -133,7 +133,7 @@ Artikel 3, § 2, is van toepassing om de inkomsten te bepalen waarmee rekening w
 
 ### ART 6.
 
-§ 1. De leerling die niet behoort tot de categorieën, vermeld in artikel 3 tot en met 5 van dit besluit, maar tot een van de volgende categorieën, wordt beschouwd als alleenstaande leerling als vermeld in artikel 38, § 1, 5°, van het decreet van 27 april 2018:<br>
+§ 1. De leerling die niet behoort tot de categorieën, vermeld in artikel 3 tot en met 5 van dit besluit, maar tot een van de volgende categorieën, wordt beschouwd als alleenstaande leerling als vermeld in artikel 38, § 1, 5°, van het Groeipakketdecreet van 27 april 2018:<br>
 1° de leerling die zich bevindt in een van de gevallen, vermeld in artikel 15, § 2, van het decreet van 27 april 2018;<br>
 2° de leerling van wie de overlevende ouder ontzet is of beide ouders ontzet zijn uit het ouderlijke gezag;<br>
 3° de leerling die, uiterlijk 31 december van het lopende schooljaar in het kader van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade of de gecoördineerde decreten van 4 april 1990 inzake bijzondere jeugdbijstand opgenomen is in een erkende voorziening van categorie 1, 2 of 6 als vermeld in artikel 3 van het besluit van 13 juli 1994 en die zelfstandig woont en begeleid wordt door een erkende voorziening van categorie 1, 2 of 6 als vermeld in artikel 3 van het voormelde besluit;<br>
@@ -154,7 +154,7 @@ In het eerste lid wordt verstaan onder besluit van 13 juli 1994: het besluit van
 
 ### ART 7.
 
-De inkomsten van het gezin, vermeld in artikel 37, eerste lid, van het decreet van 27 april 2018, bestaan uit al de volgende elementen samen:<br>
+De inkomsten van het gezin, vermeld in artikel 37, eerste lid, van het Groeipakketdecreet van 27 april 2018, bestaan uit al de volgende elementen samen:<br>
 1° de volgende belastbare inkomsten, voor aftrek van de aftrekbare bestedingen:<br>
 a) de beroepsinkomsten:<br>
 1) voor de beroepsinkomsten in loonverband: vóór de aftrek van beroepskosten;<br>
@@ -179,17 +179,17 @@ Het inkomen dat in het buitenland of bij een Europese of andere internationale i
 
 ### ART 9.
 
-De leerling van wie de inkomsten van het gezin waartoe hij conform artikel 3 van dit besluit behoort, de maximuminkomensgrens, vermeld in artikel 43 van het decreet van 27 april 2018, niet overschrijden, wordt voor de toepassing van dit besluit beschouwd als rechthebbende op een toeslag.
+De leerling van wie de inkomsten van het gezin waartoe hij conform artikel 3 van dit besluit behoort, de maximuminkomensgrens, vermeld in artikel 43 van het Groeipakketdecreet van 27 april 2018, niet overschrijden, wordt voor de toepassing van dit besluit beschouwd als rechthebbende op een toeslag.
 
 ### ART 10.
 
 Het kadastraal inkomen van het gezin wordt gewogen conform het tweede lid om te bepalen of de leerling in aanmerking komt voor een selectieve participatietoeslag.<br>
 <br>
-Als het geïndexeerde kadastraal inkomen vreemd gebruik van de personen van wie de inkomsten conform artikel 38 van het decreet van 27 april 2018 als uitgangspunt worden genomen voor de berekening van de inkomsten, hoger is dan 1250 euro, heeft een leerling geen recht op een toeslag als het verdrievoudigde geïndexeerde kadastraal inkomen vreemd gebruik van de personen van wie de inkomsten van het gezin conform artikel 38 van het voormelde decreet als uitgangspunt worden genomen voor de berekening van de gezinsinkomsten, hoger is dan 20% van de inkomsten, vermeld in artikel 7 van dit besluit, verminderd met drie keer het geïndexeerde kadastraal inkomen vreemd gebruik en één keer het geïndexeerde kadastraal inkomen voor eigen beroepsdoeleinden als vermeld in artikel 7, eerste lid, 3°, van dit besluit.<br>
+Als het geïndexeerde kadastraal inkomen vreemd gebruik van de personen van wie de inkomsten conform artikel 38 van het Groeipakketdecreet van 27 april 2018 als uitgangspunt worden genomen voor de berekening van de inkomsten, hoger is dan 1250 euro, heeft een leerling geen recht op een toeslag als het verdrievoudigde geïndexeerde kadastraal inkomen vreemd gebruik van de personen van wie de inkomsten van het gezin conform artikel 38 van het voormelde decreet als uitgangspunt worden genomen voor de berekening van de gezinsinkomsten, hoger is dan 20% van de inkomsten, vermeld in artikel 7 van dit besluit, verminderd met drie keer het geïndexeerde kadastraal inkomen vreemd gebruik en één keer het geïndexeerde kadastraal inkomen voor eigen beroepsdoeleinden als vermeld in artikel 7, eerste lid, 3°, van dit besluit.<br>
 <br>
 Het eerste en tweede lid zijn niet van toepassing als de inkomsten van het gezin geheel of gedeeltelijk zijn samengesteld uit leefloon of het equivalent van leefloon, of voor minstens 70% bestaan uit alimentatiegelden, vervangingsinkomsten, een overlevingspensioen of een inkomensvervangende tegemoetkoming, toegekend in het kader van de wet van 27 februari 1987 betreffende de tegemoetkoming aan personen met een handicap.<br>
 <br>
-Het eerste en tweede lid zijn evenmin van toepassing op alleenstaande leerlingen als vermeld in artikel 38, § 1, 5°, van het decreet van 27 april 2018.
+Het eerste en tweede lid zijn evenmin van toepassing op alleenstaande leerlingen als vermeld in artikel 38, § 1, 5°, van het Groeipakketdecreet van 27 april 2018.
 
 ## HOOFDSTUK 5. Automatische procedure
 
@@ -245,7 +245,7 @@ De meerderjarige leerling of de wettelijke vertegenwoordiger kan de uitbetalings
 
 ### ART 18.
 
-Als een leerling aangeeft dat hij behoort tot een gezin als vermeld in artikel 38, § 1, 3°, 4° of 5°, van het decreet van 27 april 2018, maar conform artikel 38, § 4, van het voormelde decreet deel uitmaakt van een gezin als vermeld in artikel 38 1, 1° of 2°, van het voormelde decreet, worden de gegevens over de inkomsten bij de toekenning of afwijzing van het verzoek niet meegedeeld aan de leerling door de uitbetalingsactoren.<br>
+Als een leerling aangeeft dat hij behoort tot een gezin als vermeld in artikel 38, § 1, 3°, 4° of 5°, van het Groeipakketdecreet van 27 april 2018, maar conform artikel 38, § 4, van het voormelde decreet deel uitmaakt van een gezin als vermeld in artikel 38 1, 1° of 2°, van het voormelde decreet, worden de gegevens over de inkomsten bij de toekenning of afwijzing van het verzoek niet meegedeeld aan de leerling door de uitbetalingsactoren.<br>
 <br>
 In afwijking van het eerste lid wordt het inkomen van het gezin, vermeld in artikel 38, § 1, 1° en 2°, van het voormelde decreet, in de beroepsbeslissing van de geschillencommissie meegedeeld aan de leerling die bij zijn verzoek heeft aangegeven dat hij behoort tot een gezin als vermeld in artikel 38, § 1, 3°, 4° of 5°, van het voormelde decreet, als dat inkomen met toepassing van artikel 38, § 4, van het voormelde decreet berekend is op basis van de inkomsten van de gezinnen, vermeld in artikel 38, § 1, 1° en 2°, van het voormelde decreet.
 
@@ -259,7 +259,7 @@ Het verzoek wordt ingediend met een formulier dat het agentschap ter beschikking
 
 ### ART 20.
 
-De volgende minimuminkomensgrenzen gelden als minimuminkomensgrenzen als vermeld in artikel 43, § 1, 1°, van het decreet van 27 april 2018:<br>
+De volgende minimuminkomensgrenzen gelden als minimuminkomensgrenzen als vermeld in artikel 43, § 1, 1°, van het Groeipakketdecreet van 27 april 2018:<br>
 1° 11.808,74 euro voor een gezin met nul punten;<br>
 2° 20.465,08 euro voor een gezin met een punt;<br>
 3° 23.089,01 euro voor een gezin met twee punten;<br>
