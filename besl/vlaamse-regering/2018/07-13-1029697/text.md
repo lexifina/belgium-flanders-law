@@ -16,27 +16,27 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° decreet van 27 april 2018: het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid;<br>
+1° ...;<br>
 2° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
-3° uitbetalingsactoren: de uitbetalingsactoren, vermeld in artikel 3, § 1, 45°, van het decreet van 27 april 2018.
+3° uitbetalingsactoren: de uitbetalingsactoren, vermeld in artikel 3, § 1, 45°, van het Groeipakketdecreet van 2018.
 
 ## HOOFDSTUK 2. Rechten en plichten van de begunstigden in hun contacten met uitbetalingsactoren
 
 ### ART 2.
 
-Dienstige inlichtingen als vermeld in artikel 79, eerste en tweede lid, van het decreet van 27 april 2018, omvatten alle gegevens die de verzoeker duidelijkheid kunnen verschaffen over zijn individuele situatie betreffende de toelagen in het kader van het gezinsbeleid. Die gegevens hebben minstens betrekking op de toekenningsvoorwaarden en op het behoud van de toekenning, alsook op de elementen waarmee rekening wordt gehouden om het bedrag van de toelagen te bepalen.<br>
+Dienstige inlichtingen als vermeld in artikel 79, eerste en tweede lid, van het Groeipakketdecreet van 2018, omvatten alle gegevens die de verzoeker duidelijkheid kunnen verschaffen over zijn individuele situatie betreffende de toelagen in het kader van het gezinsbeleid. Die gegevens hebben minstens betrekking op de toekenningsvoorwaarden en op het behoud van de toekenning, alsook op de elementen waarmee rekening wordt gehouden om het bedrag van de toelagen te bepalen.<br>
 <br>
 De termijn van 45 dagen, vermeld in artikel 79, tweede lid, van het voormelde decreet, gaat in op de datum waarop de uitbetalingsactor die bevoegd is om erop te antwoorden, het verzoek om inlichtingen heeft geregistreerd. De uitbetalingsactor registreert het verzoek onmiddellijk nadat hij het heeft ontvangen.
 
 ### ART 3.
 
-De uitbetalingsactoren communiceren met elke persoon die om informatie verzoekt als vermeld in artikel 79 van het decreet van 27 april 2018, of met elke persoon die om raad vraagt als vermeld in artikel 80 van het voormelde decreet, via elektronische communicatie, brief, telefoon of fax.<br>
+De uitbetalingsactoren communiceren met elke persoon die om informatie verzoekt als vermeld in artikel 79 van het Groeipakketdecreet van 2018, of met elke persoon die om raad vraagt als vermeld in artikel 80 van het voormelde decreet, via elektronische communicatie, brief, telefoon of fax.<br>
 <br>
 Als de uitbetalingsactor de vraag of het verzoek schriftelijk ontvangt binnen veertien dagen na de datum waarop de vraag of het verzoek gedateerd is, neemt hij die datum in aanmerking. In alle andere gevallen geldt de datum van ontvangst van de schriftelijke communicatie.
 
 ### ART 4.
 
-De kennisgevingen en de vermeldingen, vermeld in artikel 83, eerste lid, en artikel 89, eerste lid, van het decreet van 27 april 2018, zijn niet vereist:<br>
+De kennisgevingen en de vermeldingen, vermeld in artikel 83, eerste lid, en artikel 89, eerste lid, van het Groeipakketdecreet van 2018, zijn niet vereist:<br>
 1° als de beslissing uitsluitend betrekking heeft op een indexering;<br>
 2° als het gaat om beslissingen tot betaling van prestaties als die betalingen alleen de herhaalde uitvoering zijn van een eerdere beslissing die is meegedeeld conform artikel 83, eerste lid, van het voormelde decreet;<br>
 3° als de beslissing betrekking heeft op de toekenning van een leeftijdsbijslag, vermeld in artikel 212 van het voormelde decreet, als de eerste leeftijdsbijslag wordt toegekend of als een wijziging van het bedrag van de betaalde leeftijdsbijslag met niets anders verband houdt dan met de leeftijd van het kind.<br>
@@ -45,7 +45,7 @@ De minister kan bijkomend bepalen op welke toelagen in het kader van het gezinsb
 
 ### ART 5.
 
-Het schriftelijke verzoek tot rechtentoekenning, vermeld in artikel 84 van het decreet van 27 april 2018, kan ingediend worden per brief, via elektronische communicatie, fax of telefoon of door het af te geven aan het loket van de uitbetalingsactor.<br>
+Het schriftelijke verzoek tot rechtentoekenning, vermeld in artikel 84 van het Groeipakketdecreet van 2018, kan ingediend worden per brief, via elektronische communicatie, fax of telefoon of door het af te geven aan het loket van de uitbetalingsactor.<br>
 <br>
 Een telefonisch verzoek van de begunstigde, zoals vermeld in het eerste lid, kan aanleiding geven tot de toekenning van de toelagen in het kader van het gezinsbeleid. Dat verzoek wordt door de uitbetalingsactor schriftelijk of elektronisch aan de begunstigde bevestigd. De datum van bevestiging geldt als datum van het schriftelijke verzoek.<br>
 <br>
@@ -53,7 +53,7 @@ De communicatie via e-mail, telefoon of fax wordt alleen aanvaard als de identit
 
 ### ART 6.
 
-Het interne beleid voor de behandeling van verzoeken, als vermeld in artikel 85, vierde lid, van het decreet van 27 april 2018, voldoet minstens aan al de volgende kwaliteitsvereisten:<br>
+Het interne beleid voor de behandeling van verzoeken, als vermeld in artikel 85, vierde lid, van het Groeipakketdecreet van 2018, voldoet minstens aan al de volgende kwaliteitsvereisten:<br>
 1° bij het onderzoek van het recht op toelagen in het kader van het gezinsbeleid worden alle betrokken actoren in het kadaster geïntegreerd, volgens de regels die bij of krachtens artikel 7, § 1, § 2 en § 4 van het voormelde decreet en overeenkomstig artikel 7 en artikel 28, 7° van het decreet van 7 juli 2017 tot oprichting van een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid, tot vaststelling van vergunningsnormen voor private uitbetalingsactoren en tot wijziging van het decreet van 30 april 2004 betreffende de oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie zijn vastgesteld;<br>
 2° de uitbetalingsactor bezorgt binnen vijftien dagen na de ontvangst van het verzoek een ontvangstbevestiging aan de begunstigde. Die ontvangstbevestiging vermeldt de onderzoekstermijn, de identificatiegegevens van de begunstigde en de contactgegevens van de uitbetalingsactor.<br>
 <br>
@@ -61,7 +61,7 @@ In het eerste lid wordt verstaan onder kadaster: het register van persoonsgegeve
 
 ### ART 7.
 
-Voor de toepassing van artikel 86 en 87 van het decreet van 27 april 2018, kan respectievelijk de behandelings- en betalingstermijn van een verzoek tot toekenning van toelagen in het kader van het gezinsbeleid tijdelijk tot respectievelijk maximaal acht en vier maanden verlengd worden als een wijziging van de regelgeving over de toelagen in het kader van gezinsbeleid een tijdelijke sterke toename aan verzoeken of noodzakelijke ambtshalve aanpassingen tot gevolg heeft.<br>
+Voor de toepassing van artikel 86 en 87 van het Groeipakketdecreet van 2018, kan respectievelijk de behandelings- en betalingstermijn van een verzoek tot toekenning van toelagen in het kader van het gezinsbeleid tijdelijk tot respectievelijk maximaal acht en vier maanden verlengd worden als een wijziging van de regelgeving over de toelagen in het kader van gezinsbeleid een tijdelijke sterke toename aan verzoeken of noodzakelijke ambtshalve aanpassingen tot gevolg heeft.<br>
 <br>
 De behandelingstermijn van een verzoek kan naast het geval, vermeld in het eerste lid, tot ten hoogste acht maanden worden verlengd als er significante problemen optreden bij het proces van datakoppeling en uitwisseling van gegevens dat noodzakelijk is voor de automatische rechtentoekenning.<br>
 <br>
@@ -69,7 +69,7 @@ De minister bepaalt wat onder een tijdelijke sterke toename aan verzoeken als ve
 
 ### ART 8.
 
-Het formulier dat de uitbetaling aan de begunstigde bevestigt, vermeld in artikel 88 van het decreet van 27 april 2018, omvat de volgende gegevens:<br>
+Het formulier dat de uitbetaling aan de begunstigde bevestigt, vermeld in artikel 88 van het Groeipakketdecreet van 2018, omvat de volgende gegevens:<br>
 1° de omschrijving van de aard van de prestatie;<br>
 2° de periode waarin de prestatie is uitgevoerd;<br>
 3° het totale bedrag dat uitbetaald wordt, met een overzicht van de toegekende bedragen van de toelagen;<br>
@@ -81,16 +81,20 @@ De minister kan bepalen onder welke voorwaarden categorieën van beslissingen di
 
 ### ART 9.
 
-Overeenkomstig artikel 91 van het decreet van 27 april 2018, worden de mededelingen, vermeld in het voormelde artikel, elektronisch of schriftelijk gedaan.<br>
+Overeenkomstig artikel 91 van het Groeipakketdecreet van 2018, worden de mededelingen, vermeld in het voormelde artikel, elektronisch of schriftelijk gedaan.<br>
 In afwijking van het eerste lid worden mededelingen met aangetekende zendingen of elektronische kennisgevingen met ontvangstmelding alleen gebruikt als dat wettelijk of reglementair bepaald is of als dat noodzakelijk is om de begunstigde te informeren.<br>
 <br>
 Als de uitbetalingsactor, nadat hij de mededeling vermeld in het derde lid, heeft verzonden, de aangetekende zending krijgt teruggestuurd of geen ontvangstbewijs van de elektronisch verstuurde mededeling heeft verkregen, bezorgt hij de mededeling aan de begunstigde via gewone schriftelijke of elektronische post.
+
+### ART 9/1.
+
+De begunstigden zijn ertoe gehouden onmiddellijk de bevoegde uitbetalingsactor op de hoogte te brengen van elk element, met uitzondering van de inwerkingtreding van een nieuwe wettelijke of reglementaire bepaling die op hen betrekking zou kunnen hebben, dat de toekenning of de betaling van de toelagen in het kader van het gezinsbeleid zou kunnen wijzigen.
 
 ## HOOFDSTUK 3. Verjaring
 
 ### ART 10.
 
-De schorsing, vermeld in artikel 95, zesde lid, van het decreet van 27 april 2018, vangt aan op de datum waarop de aangetekende zending, waarvoor de postdatum als bewijs geldt, naar de geschillencommissie of de bevoegde rechtbank is gestuurd, of, bij gebrek daaraan, op de datum van het ontvangstbewijs dat de geschillencommissie of rechtbank heeft afgeleverd aan de persoon die de rechtsvordering instelt.<br>
+De schorsing, vermeld in artikel 95, zesde lid, van het Groeipakketdecreet van 2018, vangt aan op de datum waarop de aangetekende zending, waarvoor de postdatum als bewijs geldt, naar de geschillencommissie of de bevoegde rechtbank is gestuurd, of, bij gebrek daaraan, op de datum van het ontvangstbewijs dat de geschillencommissie of rechtbank heeft afgeleverd aan de persoon die de rechtsvordering instelt.<br>
 <br>
 De schorsing eindigt als de beslissing van de geschillencommissie definitief is geworden of als de beslissing van de bevoegde rechtbank in kracht van gewijsde is gegaan.
 
@@ -98,7 +102,7 @@ De schorsing eindigt als de beslissing van de geschillencommissie definitief is 
 
 ### ART 11.
 
-De intrest, vermeld in artikel 102 van het decreet van 27 april 2018, wordt voor elke schuldvordering afzonderlijk berekend.<br>
+De intrest, vermeld in artikel 102 van het Groeipakketdecreet van 2018, wordt voor elke schuldvordering afzonderlijk berekend.<br>
 <br>
 De intrest van een toelage maakt deel uit van de toelagen in het kader van het gezinsbeleid, vermeld in artikel 3, § 1, 44°, van het voormelde decreet. De intrest wordt afgerond conform artikel 4 van het voormelde decreet.<br>
 <br>
@@ -108,7 +112,7 @@ De wettelijke intrestvoet die wordt vastgelegd conform artikel 2, § 1, van de w
 
 ### ART 12.
 
-Als de uitbetalingsactor wijzigt als vermeld in artikel 64, § 2, en artikel 65, § 2, van het decreet van 27 april 2018, worden de onverschuldigde betalingen, vermeld in artikel 103 van het voormelde decreet, teruggevorderd door de nieuwe actieve uitbetalingsactor in het voordeel van de vorige bevoegde uitbetalingsactor. De vorige bevoegde uitbetalingsactor blijft instaan voor de opvolging van de schuld.
+Als de uitbetalingsactor wijzigt als vermeld in artikel 64, § 2, en artikel 65, § 2, van het Groeipakketdecreet van 2018, worden de onverschuldigde betalingen, vermeld in artikel 103 van het voormelde decreet, teruggevorderd door de nieuwe actieve uitbetalingsactor in het voordeel van de vorige bevoegde uitbetalingsactor. De vorige bevoegde uitbetalingsactor blijft instaan voor de opvolging van de schuld.
 
 ### ART 13.
 
@@ -118,19 +122,21 @@ Een verzoek, in de zin van het eerste lid, om af te zien van de terugvordering v
 1° te goeder trouw zijn;<br>
 2 zich in een onzekere financiële situatie bevinden.<br>
 <br>
-In het tweede lid, 1°, wordt verstaan onder te goeder trouw: het niet weten of redelijkerwijze niet kunnen weten dat men ten onrechte toelagen in het kader van het gezinsbeleid ontvangen heeft.<br>
+In het tweede lid, 1°, wordt verstaan onder te goeder trouw: zich in een behartenswaardige positie bevinden.<br>
+<br>
+De minister bepaalt de wijze waarop de goede trouw, vermeld in het tweede lid, 1°, in bijzondere, gemotiveerde gevallen of in bepaalde categorieën van gevallen wordt vastgesteld.<br>
 <br>
 De financiële situatie, vermeld in het tweede lid, 2°, wordt beoordeeld op basis van de bestaansmiddelen van het gezin.<br>
 <br>
 Als de bestaansmiddelen van de schuldenaar en van een eventuele echtgenoot, persoon met wie de schuldenaar wettelijk samenwoont of persoon met wie de schuldenaar een feitelijk gezin vormt opgeteld zijn, wordt een forfaitaire vermindering toegekend voor de echtgenoot, persoon met wie de schuldenaar wettelijk samenwoont of persoon met wie de schuldenaar een feitelijk gezin vormt en voor elk kind van het gezin dat kinderbijslag ontvangt.&nbsp;Het bedrag wordt vergeleken met de minimumgrens van 1128 euro en een maximumgrens die gelijk is aan de minimumgrens van 1128 euro vermenigvuldigd met 1,5. Bevindt de schuldenaar zich onder de minimumgrens dan wordt afgezien van terugvordering. Bevindt de schuldenaar zich boven de maximumgrens dan is afzien van de terugvordering niet mogelijk. Tussen die twee grenzen kan gradueel afgezien worden van de terugvordering van de onverschuldigde betaling. De minister stelt de tussenliggende grenzen vast alsook de graduele terugvordering die op deze basis mogelijk is.<br>
 <br>
-Als bestaansmiddelen, zoals vermeld in het vierde lid, worden beschouwd alle gelden van welke aard ook waarover het gezin van de schuldenaar beschikt, behalve de toelagen in het kader van het gezinsbeleid en andere gezinsuitkeringen die de schuldenaar zelf en de personen aangeduid in het voorgaande lid ontvangen.<br>
+Als bestaansmiddelen, zoals vermeld in het vijfde lid, worden beschouwd alle gelden van welke aard ook waarover het gezin van de schuldenaar beschikt, behalve de toelagen in het kader van het gezinsbeleid en andere gezinsuitkeringen die de schuldenaar zelf en de personen aangeduid in het voorgaande lid ontvangen.<br>
 <br>
-De forfaitaire vermindering uit het vijfde lid bedraagt 224 euro en wordt geïndexeerd overeenkomst artikel 4, § 1 van het decreet van 27 april 2018.<br>
+De forfaitaire vermindering uit het zesde lid bedraagt 224 euro en wordt geïndexeerd conform artikel 4, § 1, van het Groeipakketdecreet van 2018.<br>
 <br>
 De minister bepaalt op welke wijze de bestaansmiddelen gecontroleerd worden om een onzekere financiële situatie als vermeld in het tweede lid, 2°, vast te stellen.<br>
 <br>
-In het vierde lid wordt feitelijk gezin gebruikt zoals beschreven in artikel 1, 2°, van het besluit van de Vlaamse Regering tot vaststelling van de nadere regels voor het toekennen van een sociale toeslag.
+In het vijfde lid wordt feitelijk gezin gebruikt zoals beschreven in artikel 1, 2°, van het besluit van de Vlaamse Regering tot vaststelling van de nadere regels voor het toekennen van een sociale toeslag.
 
 ### ART 14.
 
