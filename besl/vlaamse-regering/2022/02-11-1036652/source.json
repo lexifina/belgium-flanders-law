@@ -2,16 +2,16 @@
   "codex_id": 1036652,
   "title": "Besluit van de Vlaamse Regering van 2022-02-11 tot vaststelling van maatregelen voor gelegenheidsarbeiders voor de periode van 1 april 2020 tot en met 30 september 2021 ten gevolge van de uitbraak van het COVID-19-virus, wat betreft de toelagen in het kader van het gezinsbeleid en tot wijziging van diverse besluiten over de toelagen in het kader van het gezinsbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036652/VolledigDocument?datum=2020-04-01",
-  "source_sha256": "4ea8b1fa8901dc9e73b1e17bad193c4bf171728c91e82e882adef33e291e7d14",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036652/VolledigDocument?datum=2022-03-25",
+  "source_sha256": "f41b52a2097cf8735eaaccd10a92384520d816b2ed7634a32b79e88747fb2caa",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036652&param=informatie",
-  "as_of": "2020-04-01",
+  "as_of": "2022-03-25",
   "made": "2022-02-11",
   "gazette": "2022-03-15",
   "numac": 2022020474,
   "document_start": "2022-03-25",
   "document_end": null,
-  "in_force": "2020-04-01",
-  "article_versions": 17,
-  "record_form": "consolidated version as in force on 2020-04-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-03-25",
+  "article_versions": 52,
+  "record_form": "consolidated version as in force on 2022-03-25; future article versions excluded; article text as the API gives it"
 }
