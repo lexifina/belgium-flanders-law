@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036657,
+  "title": "Besluit van de Vlaamse Regering van 2022-01-14 tot goedkeuring van de overname en de verdere afhandeling door het Vlaams Woningfonds van aanvullende woonleningen die de provincie Oost-Vlaanderen heeft toegekend voor het kopen, bouwen en verbouwen van woningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036657/VolledigDocument?datum=2022-03-26",
+  "source_sha256": "62e3c94d1b472d5e23b3a91d7817659b2d61fa4a9c983524e9bf5d91c3a1791b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036657&param=informatie",
+  "as_of": "2022-03-26",
+  "made": "2022-01-14",
+  "gazette": "2022-03-16",
+  "numac": 2022030714,
+  "document_start": "2022-03-26",
+  "document_end": null,
+  "in_force": "2022-03-26",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
