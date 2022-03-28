@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036719,
+  "title": "Ministerieel besluit van 2022-01-31 tot goedkeuring van een structurele afwijking op de schoolvakantieregeling voor sommige alternerende opleidingen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036719/VolledigDocument?datum=2022-03-28",
+  "source_sha256": "779d33205ba86e420c3e00a1f1a259345f01fd67fef2bf3e1d0327306405e84f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036719&param=informatie",
+  "as_of": "2022-03-28",
+  "made": "2022-01-31",
+  "gazette": "2022-03-18",
+  "numac": 2022030773,
+  "document_start": "2022-03-28",
+  "document_end": null,
+  "in_force": "2022-03-28",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2022-03-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
