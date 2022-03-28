@@ -8,7 +8,29 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 23 januari 1991 betreff
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° ...;<BR>2° ...;<BR>3° wet op   de ziekenhuizen: gecoördineerde wet van 10 juli 2008;<BR>4° FWO: het   privaatrechtelijk vormgegeven extern verzelfstandigd agentschap, vermeld in   artikel 15, § 2, van het decreet van 30 april 2009 betreffende de organisatie en   financiering van het wetenschaps- en innovatiebeleid, en opgericht bij de   notariële akte van 21 juni 2005 in de vorm van de privaatrechtelijke stichting   van openbaar nut Fonds voor Wetenschappelijk Onderzoek-Vlaanderen;<BR>5° raad   van bestuur: de raad van bestuur van het FWO, vermeld in artikel 17, § 2, van   het decreet van 30 april 2009 betreffende de organisatie en financiering van het   wetenschaps- en innovatiebeleid;<BR>6° de minister : de Vlaamse minister bevoegd   voor het wetenschaps- en innovatiebeleid;<BR>7° O&amp;O actor : rechtspersoon   met activiteiten in het domein van onderzoek en innovatie;<BR>8° non-profit   actor : een rechtspersoon met een doelstelling van niet-industriële of   niet-commerciële aard;<BR>9° Vlaamse universiteit: de instellingen vermeld in   artikel II.2 van de Codex Hoger Onderwijs van 11 oktober 2013;<BR>10° Vlaamse   hogeschool: de instellingen vermeld in artikel II.3 van de Codex Hoger Onderwijs   van 11 oktober 2013;<BR>11° Vlaamse non-profit O&amp;O actor : een in het   Vlaamse Gewest gevestigde non-profit O&amp;O actor evenals een in het Brussels   Hoofdstedelijk Gewest gevestigde Vlaamse universiteit of Vlaamse   hogeschool;<BR>12° Vlaams universitair ziekenhuis : de ziekenhuisinstellingen   die in uitvoering van de wet op de ziekenhuizen aangewezen zijn als universitair   ziekenhuis, en of in het Vlaamse Gewest, of als deel van een Vlaamse   universiteit in het Brussels Hoofdstedelijk Gewest gevestigd zijn;<BR>13° Vlaams   ziekenhuis : ziekenhuisinstellingen met de hoedanigheid van non-profit actor   gevestigd in het Vlaamse Gewest, waarop de wet op de ziekenhuizen van toepassing   is zonder tezelfdertijd een Vlaams universitair ziekenhuis te zijn;<BR>14°   coördinator : lid van een consortium dat ten overstaan van het&nbsp;FWO instaat   als vertegenwoordiger van de aanvragers en daarnaast ook instaat voor de   coördinatie van de activiteiten van de toegekende projectsteun;<BR>15°   medeaanvrager : aanvrager-lid van een consortium van aanvragers dat niet de   coördinator is;<BR>16° onderaannemer : derde door de aanvragers voorzien om in   hun opdracht specifieke uitvoerende projectactiviteiten te realiseren, en die   niet de hoedanigheid heeft van aanvrager;<BR>17° begunstigde : aanvrager van een   projectvoorstel aan wie het&nbsp;FWO als contractant de projectsteun   toekent;<BR>18° het Instituut voor Tropische Geneeskunde : het Prins Leopold   Instituut voor Tropische Geneeskunde, gelegen te Antwerpen.
+In dit besluit wordt verstaan onder :<br>
+1° ...;<br>
+2° ...;<br>
+3° wet op de ziekenhuizen: gecoördineerde wet van 10 juli 2008;<br>
+4° FWO: het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap, vermeld in artikel 15, § 2, van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid, en opgericht bij de notariële akte van 21 juni 2005 in de vorm van de privaatrechtelijke stichting van openbaar nut Fonds voor Wetenschappelijk Onderzoek-Vlaanderen;<br>
+5° raad van bestuur: de raad van bestuur van het FWO, vermeld in artikel 17, § 2, van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid;<br>
+6° de minister : de Vlaamse minister bevoegd voor het wetenschaps- en innovatiebeleid;<br>
+7° O&amp;O actor : rechtspersoon met activiteiten in het domein van onderzoek en innovatie;<br>
+8° social profit actor : een rechtspersoon met een doelstelling van niet-industriële of niet-commerciële aard;<br>
+9° Vlaamse universiteit: de instellingen vermeld in artikel II.2 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
+10° Vlaamse hogeschool: de instellingen vermeld in artikel II.3 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
+11° Vlaamse social profit O&amp;O actor : een in het Vlaamse Gewest gevestigde social profit O&amp;O actor evenals een in het Brussels Hoofdstedelijk Gewest gevestigde Vlaamse universiteit of Vlaamse hogeschool;<br>
+12° Vlaams universitair ziekenhuis : de ziekenhuisinstellingen die in uitvoering van de wet op de ziekenhuizen aangewezen zijn als universitair ziekenhuis, en of in het Vlaamse Gewest, of als deel van een Vlaamse universiteit in het Brussels Hoofdstedelijk Gewest gevestigd zijn;<br>
+13° Vlaams ziekenhuis : ziekenhuisinstellingen met de hoedanigheid van social profit actor gevestigd in het Vlaamse Gewest, waarop de wet op de ziekenhuizen van toepassing is zonder tezelfdertijd een Vlaams universitair ziekenhuis te zijn;<br>
+14° coördinator : lid van een consortium dat ten overstaan van het&nbsp;FWO instaat als vertegenwoordiger van de aanvragers en daarnaast ook instaat voor de coördinatie van de activiteiten van de toegekende projectsteun;<br>
+15° medeaanvrager : aanvrager-lid van een consortium van aanvragers dat niet de coördinator is;<br>
+16° onderaannemer : derde door de aanvragers voorzien om in hun opdracht specifieke uitvoerende projectactiviteiten te realiseren, en die niet de hoedanigheid heeft van aanvrager;<br>
+17° begunstigde : aanvrager van een projectvoorstel aan wie het&nbsp;FWO als contractant de projectsteun toekent;<br>
+18° het Instituut voor Tropische Geneeskunde : het Prins Leopold Instituut voor Tropische Geneeskunde, gelegen te Antwerpen.
+
+### ART 1/1.
+
+De raad van bestuur kent onderzoeksprojecten en onderzoekskredieten toe om de wetenschappelijke excellentie van het toegepast biomedisch onderzoek te stimuleren. De raad van bestuur legt de interne procedures van technische en praktische aard vast voor de aanvraag, behandeling, evaluatie, selectie en toekenning van de onderzoeksprojecten. Het FWO maakt de interne procedures openbaar.
 
 ## HOOFDSTUK II Karakteristieken van het financieringskanaal voor het onderzoek
 
@@ -28,21 +50,21 @@ Voor het verlenen van steun aan op projectmatige basis uitgevoerd toegepast biom
 
 Een projectvoorstel kan worden ingediend door een Vlaams universitair ziekenhuis, een Vlaams ziekenhuis of door het Instituut voor Tropische Geneeskunde.<br>
 <br>
-Daarnaast kan een projectvoorstel eveneens worden ingediend door een consortium van aanvrager dat minstens een Vlaams universitair ziekenhuis, een Vlaams ziekenhuis of het Instituut voor Tropische Geneeskunde bevat. Diverse Vlaamse non-profit O&amp;O actoren kunnen optreden als aanvrager in zo'n consortium. De Vlaamse universitaire ziekenhuizen, Vlaamse ziekenhuizen en het Instituut voor Tropische Geneeskunde dienen een relevante bijdrage te leveren. Dit wordt gedefinieerd als een minimale participatie in het voorstel van begroting volgens de bepalingen van artikel 5 en een relevante inhoudelijke bijdrage, wat zal vastgesteld worden in de projectevaluatie, uitgevoerd zoals toegelicht in de artikelen 9 tot en met 18 van dit besluit.<br>
+Daarnaast kan een projectvoorstel eveneens worden ingediend door een consortium van aanvrager dat minstens een Vlaams universitair ziekenhuis, een Vlaams ziekenhuis of het Instituut voor Tropische Geneeskunde bevat. Diverse Vlaamse social profit O&amp;O actoren kunnen optreden als aanvrager in zo'n consortium. De Vlaamse universitaire ziekenhuizen, Vlaamse ziekenhuizen en het Instituut voor Tropische Geneeskunde dienen een relevante bijdrage te leveren. Dit wordt gedefinieerd als een minimale participatie in het voorstel van begroting volgens de bepalingen van artikel 5 en een relevante inhoudelijke bijdrage, wat zal vastgesteld worden in de projectevaluatie, uitgevoerd zoals toegelicht in de artikelen 9 tot en met 18 van dit besluit.<br>
 <br>
-Niet Vlaamse non-profit O&amp;O actoren kunnen optreden als medeaanvrager binnen de perken van artikel 5.
+Niet Vlaamse social profit O&amp;O actoren kunnen optreden als medeaanvrager binnen de perken van artikel 5.
 
 ### ART. 5.
 
 Een projectvoorstel bevat een voorstel van begroting met een overzicht van de kosten verbonden aan de uitvoering van het project. In geval van een voorstel door een consortium van aanvragers omvat het voor elke projectaanvrager een voorstel van deelbegroting.<br>
 <br>
-Met betrekking tot de kosten die in aanmerking kunnen worden genomen gelden de bepalingen van bijlage 1 bij dit besluit.<br>
+Het FWO stelt werkings-, uitrustings-, en personeelskredieten ter beschikking aan onderzoeksploegen. De kredieten van het FWO worden in een overeenkomst omschreven. Het FWO en de betrokken instelling staan in voor de controle op de aanwending van de kredieten. De onderzoeksploegen rapporteren daarover aan het FWO.<br>
 <br>
 Het voorstel van begroting wordt opgesteld volgens de richtlijnen van het FWO.<br>
 <br>
 Bij een consortium van aanvragers dient de voorgestelde begroting voor Vlaamse universitaire ziekenhuizen, Vlaamse ziekenhuizen, respectievelijk het Instituut voor Tropische Geneeskunde gecumuleerd minimaal 10 % van de totale voorgestelde begroting te bedragen.<br>
 <br>
-Bij steunverlening kunnen uitvoerende deeltaken uitbesteed worden aan een onderaannemer : de uitbesteding mag niet meer dan 30 % van de totale begroting bedragen.<br>
+Bij steunverlening kunnen uitvoerende deeltaken uitbesteed worden aan een onderaannemer : de uitbesteding mag niet meer dan 30 % van de totale begroting bedragen.&nbsp;Als dat omstandig gemotiveerd wordt in het projectvoorstel, kan bij grootschalige of multicentrische studies tot 50% van de totale begroting worden toegekend aan een onderaannemer.<br>
 <br>
 De voorgestelde begroting van de niet-Vlaamse actoren kan cumulatief niet meer dan 20 % van de voorgestelde totale begroting bedragen.
 
@@ -52,7 +74,9 @@ De voorgestelde begroting van de niet-Vlaamse actoren kan cumulatief niet meer d
 
 ### ART. 6.
 
-De steun voor een projectvoorstel bedraagt maximaal 100 % van de kosten die overeenkomstig artikel 5 aanvaard worden.
+De steun voor een projectvoorstel bedraagt maximaal 100 % van de kosten die overeenkomstig artikel 5 aanvaard worden.<br>
+<br>
+Het maximaal toe te kennen steunbedrag bedraagt 2.000.000 euro en de projectduur bedraagt minimaal twee en maximaal vier jaar. Als dat omstandig gemotiveerd wordt in het projectvoorstel, kan tot 2.500.000 euro steun worden toegekend voor grootschalige of multicentrische studies.
 
 ## Afdeling 2 Cumulatie met andere steun
 
@@ -64,7 +88,13 @@ Projectkosten komen enkel in aanmerking voor de toekenning van steun wanneer ze 
 
 ### ART. 8.
 
-De projectvoorstellen moeten worden geformuleerd overeenkomstig de   handleiding voor aanvraagprocedure en -modaliteiten die het FWO vastlegt en   bekendmaakt. Hierbij wordt tevens voorzien in een uiterste indiendatum in de   loop van elk kalenderjaar.<BR><BR>De raad van bestuur oordeelt over de   ontvankelijkheid van een projectvoorstel met het oog op een grondige behandeling   op basis van de formele indieningsvoorwaarden en instructies zoals bedoeld   hierboven in dit artikel.<BR><BR>Een projectvoorstel dat niet ontvankelijk   verklaard wordt, wordt uitgesloten van verdere behandeling.<BR><BR>Ten laatste   30 kalenderdagen na de uiterste indiendatum deelt het FWO aan de   projectaanvrager, of in geval van een consortium van aanvragers aan de   coördinator van het projectvoorstel, de gemotiveerde beslissing over de   ontvankelijkheid van het projectvoorstel mee. Naast de ontvankelijkheidanalyse   kan de raad van bestuur een preselectie doorvoeren op basis van de mate waarin   de operationele doelstellingen tegemoet komen aan de doelstellingen van het   programma.
+De projectvoorstellen moeten worden geformuleerd overeenkomstig de handleiding voor aanvraagprocedure en -modaliteiten die het FWO vastlegt en bekendmaakt. Hierbij wordt tevens voorzien in een uiterste indiendatum in de loop van elk kalenderjaar.<br>
+<br>
+De raad van bestuur oordeelt over de ontvankelijkheid van een projectvoorstel met het oog op een grondige behandeling op basis van de formele indieningsvoorwaarden en instructies zoals bedoeld hierboven in dit artikel.<br>
+<br>
+Een projectvoorstel dat niet ontvankelijk verklaard wordt, wordt uitgesloten van verdere behandeling.<br>
+<br>
+Het FWO deelt aan de projectaanvrager of, in geval van een consortium van aanvragers, aan de coördinator van het projectvoorstel de gemotiveerde beslissing over de ontvankelijkheid van het projectvoorstel mee binnen de 60 kalenderdagen.&nbsp;Naast de ontvankelijkheidanalyse kan de raad van bestuur een preselectie doorvoeren op basis van de mate waarin de operationele doelstellingen tegemoet komen aan de doelstellingen van het programma.
 
 ### ART. 9.
 
@@ -76,7 +106,7 @@ De beslissing tot steun door het FWO wordt gebaseerd op het advies van het   exp
 
 ### ART. 11.
 
-Ten laatste 75 werkdagen na ontvankelijkheid deelt het agentschap aan de projectaanvrager, of in geval van een consortium van aanvragers aan de coördinator, de beslissing vermeld in artikel 10 mee.
+Het FWO deelt de beslissing, vermeld in artikel 10, mee aan de projectaanvrager of, in geval van een consortium van aanvragers, aan de coördinator binnen de 244 kalenderdagen.
 
 ### ART. 12.
 
@@ -118,7 +148,7 @@ Het FWO legt jaarlijks verantwoording af bij de Vlaamse Regering inzake   het be
 
 ### ART. 20.
 
-De begunstigde van gesteunde projecten is eigenaar van de onderzoeksresultaten. Bij een consortium van begunstigden is elke begunstigde in principe eigenaar van de resultaten van het uitgevoerde deelproject tenzij anders gestipuleerd in de consortiumovereenkomst. In geval de begunstigde een universitaire onderzoeksgroep betreft gelden de bepalingen van artikel 169ter van het decreet van 12 juni 1991 betreffende de universiteiten van de Vlaamse Gemeenschap.
+De begunstigde van gesteunde projecten is eigenaar van de onderzoeksresultaten. Bij een consortium van begunstigden is elke begunstigde in principe eigenaar van de resultaten van het uitgevoerde deelproject tenzij anders gestipuleerd in de consortiumovereenkomst. In geval de begunstigde een universiteit betreft, gelden de bepalingen van artikel IV. 48 van de Codex Hoger Onderwijs van 11 oktober 2013.
 
 ### ART. 21.
 
@@ -164,7 +194,7 @@ De personeelsleden van het FWO, de leden van de raad van bestuur en de   leden v
 
 ### ART. 28.
 
-De aanvrager kan een herziening vragen van de beslissing van het FWO tot   weigering van steunverlening, zonder evenwel de opportuniteit van de beslissing   in vraag te kunnen stellen. De herziening wordt, op straffe van verval, gevraagd   per aangetekend schrijven, binnen een termijn van 20 werkdagen na afgifte bij de   post van de betekening van de beslissing.<BR><BR>Het verzoekschrift tot   herziening bevat, op straffe van onontvankelijkheid, een opgave van de objectief   apprecieerbare wetenschappelijke of utilisatiegeoriënteerde elementen van het   dossier, dat aan het FWO wordt voorgelegd, waarvan de aanvrager beweert dat de   incorrecte appreciatie kennelijk bepalend is geweest voor het nemen van de   bestreden beslissing, alsmede de argumenten ter weerlegging van de bedoelde   appreciatie.<BR><BR>De aanvrager beschikt daartoe over het recht op inzage van   het dossier zoals dat ter beslissing is voorgelegd.<BR><BR>Het FWO beslist   binnen 30 werkdagen na ontvangst van het verzoekschrift tot herziening. De raad   van bestuur bepaalt de te volgen procedure voor uitvoering van deze   beslissing.
+De aanvrager kan conform artikel 32 van het besluit van de Vlaamse Regering van 10 november 2011 betreffende de subsidiëring door het Fonds voor Wetenschappelijk Onderzoek - Vlaanderen een vraag tot herziening indienen bij de Raad van Bestuur van het FWO, zonder evenwel de opportuniteit van de beslissing in vraag te kunnen stellen.
 
 ## HOOFDSTUK X Slotbepalingen
 
@@ -180,12 +210,4 @@ De Vlaamse minister bevoegd voor het wetenschaps- en innovatiebeleid is belast m
 
 ### Tekst
 
-Aanvaardbare projectkosten<br>
-Als projectkosten kunnen in aanmerking worden genomen de volgende kosten die, na de in artikel 12 vermelde overeenkomst opgenomen startdatum, door de projectuitvoerders worden gemaakt en betaald zijn. Deze kosten moeten noodzakelijk zijn en rechtstreeks aan het project toegerekend kunnen worden. Wanneer de kosten ook uit andere O&amp;O-projecten voortvloeien, moeten zij worden omgeslagen over het gesteunde O&amp;O-project en de andere activiteiten.<br>
-- Personeelskosten (onderzoekers, technici en ander ondersteunend personeel dat zich uitsluitend met onderzoek bezighoudt).<br>
-- Kosten van apparatuur, uitrusting, land en gebouwen die uitsluitend en permanent (behalve indien ze op commerciële basis worden afgestaan) voor onderzoek worden gebruikt.<br>
-- Kosten verschuldigd aan derden voor advies en soortgelijke diensten die uitsluitend voor onderzoek worden gebruikt, met inbegrip van uitbesteed onderzoek, aangekochte technische kennis, octrooien, enz...<br>
-- Extra algemene kosten die rechtsreeks uit de onderzoeksresultaten voortvloeien maar die niet direct toewijsbaar zijn.<br>
-- Andere exploitatiekosten (zoals die van materieel, leveranties en dergelijke) die rechtstreeks uit de onderzoeksactiviteiten voortvloeien.<br>
-<br>
-Het is toegestaan extra algemene kosten en andere exploitatiekosten forfaitair te berekenen met een maximum van 20 % van de directe kosten. De raad van bestuur kan binnen deze algemene bepalingen de aanvaarde kosten vastleggen en beperken. Hierbij zullen de nodige garanties worden ingebouwd dat de gemaakte kosten reëel zijn en betrekking hebben op onderzoek en ontwikkeling.
+...
