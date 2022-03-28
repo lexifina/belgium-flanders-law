@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036713,
+  "title": "Besluit van de Vlaamse Regering van 2022-01-21 tot wijziging van het besluit van de Vlaamse Regering van 15 september 2006 voor de financiering van toegepast biomedisch onderzoek met een primair maatschappelijke finaliteit",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036713/VolledigDocument?datum=2022-03-28",
+  "source_sha256": "3a176034433ac4163bb895fe680ae73321345da5a0925bc12f3f41ef329b8c1c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036713&param=informatie",
+  "as_of": "2022-03-28",
+  "made": "2022-01-21",
+  "gazette": "2022-03-18",
+  "numac": 2022030570,
+  "document_start": "2022-03-28",
+  "document_end": null,
+  "in_force": "2022-03-28",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2022-03-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
