@@ -27,12 +27,8 @@ DE VLAAMSE MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW 
 
 ### ART 1.
 
-Conform artikel 19, eerste lid, 1°, van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen, wordt de structurele afwijking op de schoolvakantieregeling goedgekeurd voor de opleiding kapper-stylist duaal:<br>
-<br>
-In de periode die start bij het begin van de kerstvakantie en eindigt op 31 december, met uitzondering van 25 december, worden leerlingen minstens twee en maximaal zes dagen opgeleid in de onderneming. Daarbij worden de rusttijden nageleefd conform de arbeidswet van 16 maart 1971 en de CAO van 25 november 1974, gesloten in het Paritair Comité voor het kappersbedrijf en de schoonheidszorgen, betreffende de wekelijkse arbeidsduur.<br>
-<br>
-Als het door omstandigheden niet mogelijk is om de leerling op te leiden in de periode, vermeld in het eerste lid, zorgt de onderneming ervoor dat de leerling in een andere periode van het schooljaar de leerdoelen over droogtechnieken, brushtechnieken, opkamtechnieken, opsteek- en vlechttechnieken, afwerkingstechnieken in functie van gelegenheidskapsels, en over werken onder tijdsdruk aanleert.
+...
 
 ### ART 2.
 
-Dit besluit treedt in werking op 1 september 2020.
+...
