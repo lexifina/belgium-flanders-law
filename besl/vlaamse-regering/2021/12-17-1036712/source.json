@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036712,
+  "title": "Besluit van de Vlaamse Regering van 2021-12-17 tot wijziging van titel III van het VLAREM van 16 mei 2014, wat betreft de omzetting van de BBT-conclusies voor de voedingsmiddelen-, dranken- en zuivelindustrie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036712/VolledigDocument?datum=2022-03-28",
+  "source_sha256": "1e33a3c50c5250c2b09916aebffb2869220da00ff4f07e565a34d4dbc08371c3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036712&param=informatie",
+  "as_of": "2022-03-28",
+  "made": "2021-12-17",
+  "gazette": "2022-03-18",
+  "numac": 2022030715,
+  "document_start": "2022-03-28",
+  "document_end": null,
+  "in_force": "2022-03-28",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2022-03-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
