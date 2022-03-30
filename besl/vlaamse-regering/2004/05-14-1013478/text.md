@@ -32,7 +32,13 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART. 3.
 
-§ 1. Aan de initiatiefnemer wordt per voormalig DAC-project een subsidie toegekend die overeenstemt met de loonkosten en begrensd tot de loonkosten, opgenomen in de bijlagen I en II van dit besluit en omschreven in artikel 1 van dit besluit.<br /><br />§ 2. Het begrensde bedrag van het maandloon dat in aanmerking komt voor subsidiëring en dat van toepassing is volgens bijlage I of II, wordt verhoogd tot het bedrag van het actuele maandloon van de werknemer, indien dit actuele maandloon hoger ligt dan het begrensde maandloon dat van toepassing is op de werknemer. De verhoging is evenwel beperkt tot het bedrag van de rechten op het vlak van verloning, die de werknemer verworven heeft, tijdens de periode wanneer werknemer in DAC-statuut tewerkgesteld was.
+§ 1. Aan de initiatiefnemers van de sector milieu- en natuurverenigingen wordt per voormalig DAC-project een subsidie toegekend die overeenstemt met de loonkosten en die begrensd is tot de loonkosten, opgenomen in bijlage I, die bij dit besluit is gevoegd.<br>
+<br>
+Aan de initiatiefnemers van de sector polders en wateringen wordt per voormalig DAC-project een subsidie toegekend die overeenstemt met 50 % van de loonkosten en die begrensd is tot 50 % van de loonkosten, opgenomen in bijlage II, die bij dit besluit is gevoegd.<br>
+<br>
+§ 2. Het begrensde bedrag van het maandloon dat in aanmerking komt voor subsidiëring en dat van toepassing is conform bijlage I, die bij dit besluit is gevoegd, wordt verhoogd tot het bedrag van het actuele maandloon van de werknemer als dat actuele maandloon hoger ligt dan het begrensde maandloon dat van toepassing is op de werknemer. De voormelde verhoging is beperkt tot het bedrag van de rechten op het vlak van beloning die de werknemer verworven heeft tijdens de periode waarin de werknemer in het DAC-statuut werkte.<br>
+<br>
+Het begrensde bedrag van het maandloon dat in aanmerking komt voor subsidiëring voor 50 % en dat van toepassing is conform bijlage II, die bij dit besluit is gevoegd, wordt verhoogd tot 50 % van het bedrag van het actuele maandloon van de werknemer als dat actuele maandloon hoger ligt dan het begrensde maandloon dat van toepassing is op de werknemer. De verhoging is beperkt tot het bedrag van de rechten op het vlak van beloning die de werknemer verworven heeft tijdens de periode waarin de werknemer in het DAC-statuut werkte.
 
 ## HOOFDSTUK III PROCEDURE
 
@@ -58,25 +64,43 @@ De minister bepaalt de vorm en inhoud van deze bewijsvoering.
 
 ### ART. 7.
 
-§ 1. Wanneer de arbeidsovereenkomst met een werknemer geschorst wordt en   wanneer deze werknemer geen loon meer ontvangt, dan kan zijn vervanger   gesubsidieerd worden.<BR><BR>§ 2. Het subsidiebedrag wordt berekend conform de   bepalingen van artikel 3 en volgens dezelfde functie als de te vervangen   werknemer. De maximale loonanciënniteit van de vervanger is beperkt tot 6 jaar,   gebaseerd op effectieve en relevante ervaring.<BR><BR>§ 3. De initiatiefnemer   moet de VMM voor wat betreft de sector polders en wateringen ofwel aan het   Departement Leefmilieu, Natuur en Energie, voor wat betreft de sector milieu- en   natuurverenigingen onmiddellijk op de hoogte brengen van elke schorsing van een   arbeidsovereenkomst en van elke nieuwe tewerkstelling.
+§ 1. Wanneer de arbeidsovereenkomst met een werknemer geschorst wordt en wanneer deze werknemer geen loon meer ontvangt, dan kan zijn vervanger gesubsidieerd worden.<br>
+<br>
+Het eerste lid is niet van toepassing voor de sector polders en wateringen.<br>
+<br>
+§ 2. Het subsidiebedrag wordt berekend conform de bepalingen van artikel 3 en volgens dezelfde functie als de te vervangen werknemer. De maximale loonanciënniteit van de vervanger is beperkt tot 6 jaar, gebaseerd op effectieve en relevante ervaring.<br>
+<br>
+§ 3. De initiatiefnemer moet het Departement Leefmilieu, Natuur en Energie, voor wat betreft de sector milieu- en natuurverenigingen onmiddellijk op de hoogte brengen van elke schorsing van een arbeidsovereenkomst en van elke nieuwe tewerkstelling.
 
 ### ART. 8.
 
-§ 1. Wanneer de arbeidsovereenkomst met een werknemer wordt beëindigd, dan wordt de opvolger in deze functie gesubsidieerd indien de indiensttreding plaatsvindt binnen de eerste zes maanden, volgend op het einde van de arbeidsovereenkomst. Op gemotiveerde aanvraag van de initiatiefnemer kan de VMM voor wat betreft de sector polders en wateringen ofwel aan het Departement Omgeving, voor wat betreft de sector milieu- en natuurverenigingen een verlenging toestaan van deze periode met maximaal 3 maanden.<br>
+§ 1. Wanneer de arbeidsovereenkomst met een werknemer wordt beëindigd, dan wordt de opvolger in deze functie gesubsidieerd indien de indiensttreding plaatsvindt binnen de eerste zes maanden, volgend op het einde van de arbeidsovereenkomst. Op gemotiveerde aanvraag van de initiatiefnemer kan het Departement Omgeving, voor wat betreft de sector milieu- en natuurverenigingen een verlenging toestaan van deze periode met maximaal 3 maanden.<br>
+<br>
+Het eerste lid is niet van toepassing voor de sector polders en wateringen.<br>
 <br>
 § 2. Het subsidiebedrag wordt berekend conform de bepalingen van artikel 3. De maximale loonanciënniteit van de opvolger is beperkt tot 6 jaar, gebaseerd op effectieve en relevante ervaring.<br>
 <br>
-§ 3. De initiatiefnemer moet de VMM voor wat betreft de sector polders en wateringen ofwel aan het Departement Omgeving, voor wat betreft de sector milieu- en natuurverenigingen onmiddellijk op de hoogte brengen van elke beëindiging van een arbeidsovereenkomst en van elke nieuwe tewerkstelling.
+§ 3. De initiatiefnemer moet het Departement Omgeving, voor wat betreft de sector milieu- en natuurverenigingen onmiddellijk op de hoogte brengen van elke beëindiging van een arbeidsovereenkomst en van elke nieuwe tewerkstelling.
 
 ### ART. 9.
 
-§ 1. Wanneer een arbeidsovereenkomst met een werknemer wordt beëindigd en hierdoor de arbeids-plaats gedurende meer dan zes maanden niet ingevuld wordt, vervalt de arbeidsplaats en wordt zij volgens parameters toegewezen binnen dezelfde sector.<br /><br />De minister bepaalt de procedure en parameters voor de toewijzing van vervallen arbeidsplaatsen.<br /><br />§ 2. Onder invulling van de arbeidsplaats wordt de ondertekening van een arbeidsovereenkomst verstaan.<br /><br />§ 3. Ook niet-initiatiefnemers kunnen een aanvraagdossier indienen.<br /><br />§ 4. De nieuwe gecreëerde arbeidsplaatsen worden gesubsidieerd volgens de barema's zoals voorzien voor de onderscheiden sectoren in bijlagen I en II van dit besluit en volgens de functie zoals toegekend in het voorheen goedgekeurde DAC-project, en met een startanciënniteit van maximum 6 jaar.
+§ 1. Wanneer een arbeidsovereenkomst met een werknemer wordt beëindigd en hierdoor de arbeidsplaats gedurende meer dan zes maanden niet ingevuld wordt, vervalt de arbeidsplaats en wordt zij volgens parameters toegewezen binnen dezelfde sector.<br>
+<br>
+De minister bepaalt de procedure en parameters voor de toewijzing van vervallen arbeidsplaatsen.<br>
+<br>
+Het eerste lid is niet van toepassing op de sector polders en wateringen.<br>
+<br>
+§ 2. Onder invulling van de arbeidsplaats wordt de ondertekening van een arbeidsovereenkomst verstaan.<br>
+<br>
+§ 3. Ook niet-initiatiefnemers kunnen een aanvraagdossier indienen.<br>
+<br>
+§ 4. De nieuwe gecreëerde arbeidsplaatsen worden gesubsidieerd volgens de barema's zoals voorzien voor de onderscheiden sectoren in&nbsp;bijlage I, die bij dit besluit is gevoegd, en volgens de functie zoals toegekend in het voorheen goedgekeurde DAC-project, en met een startanciënniteit van maximum 6 jaar.
 
 ### ART. 10.
 
-§ 1. Wanneer een werkgever of de afdeling waar de werknemer in gewezen dac-statuut werkzaam is, ophoudt te bestaan moet hij dit onmiddellijk melden aan de VMM voor wat betreft de sector polders en wateringen ofwel aan het Departement Omgeving, voor wat betreft de sector milieu- en natuurverenigingen. Hij kan voorstellen om het project, samen met de werknemer in gewezen dac-statuut, over te dragen aan een andere organisatie. De overdracht kan enkel binnen de sector plaatsvinden. Ook niet-initiatiefnemers binnen de sector kunnen het project overnemen. Het gemotiveerde over-drachtsvoorstel, dat mede ondertekend wordt door de kandidaat-overnemer, wordt door de werkgever ter goedkeuring voorgelegd aan de VMM voor wat betreft de sector polders en wateringen ofwel de afdeling, bevoegd voor milieu-integratie en -subsidiëringen, voor wat betreft de sector milieu- en natuurverenigingen. Iedere sluiting van een afdeling of organisatie waar een werknemer in gewezen DAC-statuut werkzaam is, moet de werkgever onmiddellijk melden aan de VMM voor wat betreft de sector polders en wateringen ofwel&nbsp;het Departement Omgeving&nbsp;voor wat betreft de sector milieu- en natuurverenigingen.<br>
+§ 1. Wanneer een werkgever of de afdeling waar de werknemer in gewezen DAC-statuut werkzaam is, ophoudt te bestaan moet hij dit onmiddellijk melden aan het Departement Omgeving, voor wat betreft de sector milieu- en natuurverenigingen. Hij kan voorstellen om het project, samen met de werknemer in gewezen DAC-statuut, over te dragen aan een andere organisatie. De overdracht kan enkel binnen de sector plaatsvinden. Ook niet-initiatiefnemers binnen de sector kunnen het project overnemen. Het gemotiveerde overdrachtsvoorstel, dat mede ondertekend wordt door de kandidaat-overnemer, wordt door de werkgever ter goedkeuring voorgelegd aan het Departement Omgeving, voor wat betreft de sector milieu- en natuurverenigingen. Iedere sluiting van een afdeling of organisatie waar een werknemer in gewezen DAC-statuut werkzaam is, moet de werkgever onmiddellijk melden aan het Departement Omgeving, voor wat betreft de sector milieu- en natuurverenigingen..<br>
 <br>
-§ 2. De werkgever kan een vraag tot wijziging van de functie-inhoud van een arbeidsplaats indienen bij de VMM voor wat betreft de sector polders en wateringen ofwel aan het Departement Omgeving, voor wat betreft de sector milieu- en natuurverenigingen. De minister bepaalt de voorwaarden tot goedkeuring van de vraag tot wijziging en de modaliteiten voor het onderzoek ervan.<br>
+§ 2. De werkgever kan een vraag tot wijziging van de functie-inhoud van een arbeidsplaats indienen bij&nbsp; het Departement Omgeving, voor wat betreft de sector milieu- en natuurverenigingen. De minister bepaalt de voorwaarden tot goedkeuring van de vraag tot wijziging en de modaliteiten voor het onderzoek ervan.<br>
 <br>
 § 3. De minister kan bijkomende bepalingen vastleggen, waaraan het voorstel dient te voldoen.
 
@@ -545,46 +569,46 @@ De subsidieerbare loonkosten in deze bijlage gelden voor werknemers die in een w
 <br>
 De intiatiefnemers van werknemers met een arbeidsregime dat lager dan 38 uren, worden proportioneel hun arbeidsregime gesubsidieerd:<br>
 <br>
-1) Subsidieerbare baremastructuur van toepassing op de werknemer van initiatiefnemers in de sector polders en wateringen: (salarisschalen aan 100 %, geldig op 1 januari 2002 en werknemers in een werkweek van 38 uren)<br>
+1) Voor 50 % subsidieerbare baremastructuur van toepassing op de werknemer van initiatiefnemers in de sector polders en wateringen: (salarisschalen aan 100 %, geldig op 1 januari 2002 en werknemers in een werkweek van 38 uren)<br>
 <br>
 </p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:56.45pt">
+			<td style="background-color:transparent; vertical-align:top; width:56.45pt">
 			<p>Anciënniteit</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:44.85pt">
+			<td style="background-color:transparent; vertical-align:top; width:44.85pt">
 			<p>B1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:44.9pt">
+			<td style="background-color:transparent; vertical-align:top; width:44.9pt">
 			<p>B2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:44.9pt">
+			<td style="background-color:transparent; vertical-align:top; width:44.9pt">
 			<p>B3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:44.9pt">
+			<td style="background-color:transparent; vertical-align:top; width:44.9pt">
 			<p>D1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:44.9pt">
+			<td style="background-color:transparent; vertical-align:top; width:44.9pt">
 			<p>D2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:44.9pt">
+			<td style="background-color:transparent; vertical-align:top; width:44.9pt">
 			<p>D3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:44.9pt">
+			<td style="background-color:transparent; vertical-align:top; width:44.9pt">
 			<p>E1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:44.95pt">
+			<td style="background-color:transparent; vertical-align:top; width:44.95pt">
 			<p>E2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:44.95pt">
+			<td style="background-color:transparent; vertical-align:top; width:44.95pt">
 			<p>E3</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:56.45pt">
+			<td style="background-color:transparent; vertical-align:top; width:56.45pt">
 			<p>0</p>
 
 			<p>1</p>
@@ -641,7 +665,7 @@ De intiatiefnemers van werknemers met een arbeidsregime dat lager dan 38 uren, w
 
 			<p>27</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:44.85pt">
+			<td style="background-color:transparent; vertical-align:top; width:44.85pt">
 			<p>17300</p>
 
 			<p>17800</p>
@@ -698,7 +722,7 @@ De intiatiefnemers van werknemers met een arbeidsregime dat lager dan 38 uren, w
 
 			<p>23350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:44.9pt">
+			<td style="background-color:transparent; vertical-align:top; width:44.9pt">
 			<p>18850</p>
 
 			<p>19450</p>
@@ -755,7 +779,7 @@ De intiatiefnemers van werknemers met een arbeidsregime dat lager dan 38 uren, w
 
 			<p>26450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:44.9pt">
+			<td style="background-color:transparent; vertical-align:top; width:44.9pt">
 			<p>19550</p>
 
 			<p>20350</p>
@@ -812,7 +836,7 @@ De intiatiefnemers van werknemers met een arbeidsregime dat lager dan 38 uren, w
 
 			<p>29150</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:44.9pt">
+			<td style="background-color:transparent; vertical-align:top; width:44.9pt">
 			<p>13300</p>
 
 			<p>13650</p>
@@ -869,7 +893,7 @@ De intiatiefnemers van werknemers met een arbeidsregime dat lager dan 38 uren, w
 
 			<p>18300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:44.9pt">
+			<td style="background-color:transparent; vertical-align:top; width:44.9pt">
 			<p>14300</p>
 
 			<p>14650</p>
@@ -926,7 +950,7 @@ De intiatiefnemers van werknemers met een arbeidsregime dat lager dan 38 uren, w
 
 			<p>19600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:44.9pt">
+			<td style="background-color:transparent; vertical-align:top; width:44.9pt">
 			<p>15500</p>
 
 			<p>15850</p>
@@ -983,7 +1007,7 @@ De intiatiefnemers van werknemers met een arbeidsregime dat lager dan 38 uren, w
 
 			<p>20700</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:44.9pt">
+			<td style="background-color:transparent; vertical-align:top; width:44.9pt">
 			<p>12900</p>
 
 			<p>13050</p>
@@ -1040,7 +1064,7 @@ De intiatiefnemers van werknemers met een arbeidsregime dat lager dan 38 uren, w
 
 			<p>15000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:44.95pt">
+			<td style="background-color:transparent; vertical-align:top; width:44.95pt">
 			<p>13550</p>
 
 			<p>13700</p>
@@ -1099,7 +1123,7 @@ De intiatiefnemers van werknemers met een arbeidsregime dat lager dan 38 uren, w
 
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:44.95pt">
+			<td style="background-color:transparent; vertical-align:top; width:44.95pt">
 			<p>14200</p>
 
 			<p>14350</p>
@@ -1158,7 +1182,7 @@ De intiatiefnemers van werknemers met een arbeidsregime dat lager dan 38 uren, w
 			</td>
 		</tr>
 		<tr>
-			<td colspan="10" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<td colspan="10" style="background-color:transparent; vertical-align:top; width:460.6pt">
 			<p>Opmerkingen:onder anciënniteit wordt verstaan: de totale werkelijke anciënniteit verworven in dienst van de anciënniteit, waarbij de dienstjaar vóór 1987 niet in aanmerking genomen worden.</p>
 
 			<p>Schaal B2 wordt pas gesubsidieerd naar 9 dienstjaren in schaal B1</p>
@@ -1188,15 +1212,15 @@ De intiatiefnemers van werknemers met een arbeidsregime dat lager dan 38 uren, w
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<p>Functie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<p>Barema</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<p>Secretaresse</p>
 
 			<p>Hulpboekhouder</p>
@@ -1209,12 +1233,12 @@ De intiatiefnemers van werknemers met een arbeidsregime dat lager dan 38 uren, w
 
 			<p>Bediende (20100)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<p>D1, D2, of D3 naargelang het aantal dienstjaren</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<p>Technicus-hulparbeider</p>
 
 			<p>Handlanger</p>
@@ -1227,17 +1251,17 @@ De intiatiefnemers van werknemers met een arbeidsregime dat lager dan 38 uren, w
 
 			<p>Houtbewerker</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<p>E1, E2 of E3 naargelang het aantal dienstjaren</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<p>Graficus</p>
 
 			<p>Regent</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<p>B1, B2 of B3 naargelang het aantal dienstjaren</p>
 			</td>
 		</tr>
@@ -1248,14 +1272,14 @@ De intiatiefnemers van werknemers met een arbeidsregime dat lager dan 38 uren, w
 
 <p>&nbsp;</p>
 
-<p>2) Subsidieerbare eindejaarspremie, van toepassing op de initiatiefnemers in de sector polders en wateringen:<br>
+<p>2) Voor 50 % subsidieerbare eindejaarspremie, van toepassing op de initiatiefnemers in de sector polders en wateringen:<br>
 <br>
 </p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<td style="background-color:transparent; vertical-align:top; width:460.6pt">
 			<p>De eindejaarspremie bestaat uit een geïndexeerd forfaitair bedrag van 296,6 euro (bedrag 2003), verhoogd met een niet-geïndexeerd bedrag van 148,74 euro.</p>
 			</td>
 		</tr>
@@ -1266,19 +1290,19 @@ De intiatiefnemers van werknemers met een arbeidsregime dat lager dan 38 uren, w
 
 <p>&nbsp;</p>
 
-<p>3) Subsidieerbare haard- en standplaatsvergoeding, van toepassing op de initiatiefnemers in de sector polders en wateringen:<br>
+<p>3) Voor 50 % subsidieerbare haard- en standplaatsvergoeding, van toepassing op de initiatiefnemers in de sector polders en wateringen:<br>
 <br>
 </p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<td style="background-color:transparent; vertical-align:top; width:460.6pt">
 			<p>De haardtoelage is slechts subsidieerbaar indien zij betrekking heeft op een gehuwde werknemer, een werknemer die samenleeft, of een alleenstaande werknemer van wie één of meer kinderen die recht geven op kinderbijslag, deel uitmaken van het gezin.</p>
 
-			<p>De subsidieerbare haardvergoeding bedraagt 719,89 euro (100 %) wanneer het salaris 15.940,43 euro (100 %) niet overschrijdt en 359,95 euro (100 %) wanneer het salaris hoger is dan 15.940,43 (100 %) euro, maar niet meer bedraagt dan 18.147,82 (100 %).</p>
-
-			<p>In alle andere gevallen bedraagt subsidieerbare standplaatsvergoeding359,95 euro (100 %) op voorwaarde dat het salaris niet hoger is dan 15.940,43 euro (100 %) en 179,98 euro (100 %) wanneer het salaris hoger is dan 15.940,43 euro (4100 %) maar niet meer bedraagt dan 18.147,82 euro (100 %).</p>
+			<p>De subsidieerbare haardvergoeding bedraagt 50 % van 719,89 euro (100 % tewerkstelling) als het salaris 15.940,43 euro (100 % tewerkstelling) niet overschrijdt, en 50 % van 359,95 euro (100 % tewerkstelling) als het salaris hoger is dan 15.940,43 euro (100 % tewerkstelling), maar niet meer bedraagt dan 18.147,82 euro (100 % tewerkstelling).<br>
+			<br>
+			In alle andere gevallen bedraagt de subsidieerbare standplaatsvergoeding 50 % van 359,95 euro (100 % tewerkstelling) op voorwaarde dat het salaris niet hoger is dan 15.940,43 euro (100 % tewerkstelling), en 50 % van 179,98 euro (100 % tewerkstelling) als het salaris hoger is dan 15.940,43 euro (100 % tewerkstelling), maar niet meer bedraagt dan 18.147,82 euro (100 % tewerkstelling).</p>
 
 			<p>In het geval de werknemer samenleeft met een persoon of een echtgenoot heeft die beantwoord aan de voorwaarde om een haardtoelage te verkrijgen, wordt de haardvergoeding van de werknemer niet gesubsidieerd. Voor de werknemer die geen haardvergoeding geniet wordt – met respect met tot de bovenstaande loongrenzen – een standplaatsvergoeding gesubsidieerd.</p>
 
@@ -1296,14 +1320,14 @@ De intiatiefnemers van werknemers met een arbeidsregime dat lager dan 38 uren, w
 
 <p>&nbsp;</p>
 
-<p>4) Subsidieerbare vakantiegelden, van toepassing op de initiatiefnemers in de sector polders en wateringen:<br>
+<p>4) Voor 50 % subsidieerbare vakantiegelden, van toepassing op de initiatiefnemers in de sector polders en wateringen:<br>
 <br>
 </p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<td style="background-color:transparent; vertical-align:top; width:460.6pt">
 			<p>Zowel het verplichte dubbel, als het verplichte aanvullend vakantiegeld wordt gesubsidieerd.</p>
 			</td>
 		</tr>
@@ -1314,14 +1338,14 @@ De intiatiefnemers van werknemers met een arbeidsregime dat lager dan 38 uren, w
 
 <p>&nbsp;</p>
 
-<p>5) Subsidieerbare bijdrage voor de externe dienst voor preventie en bescherming op het werk:<br>
+<p>5) Voor 50 % subsidieerbare bijdrage voor de externe dienst voor preventie en bescherming op het werk:<br>
 <br>
 </p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<td style="background-color:transparent; vertical-align:top; width:460.6pt">
 			<p>Het subsidieerbare gedeelte is beperkt tot de wettelijke minimumbijdrage, die gestaafd moet worden voor de werknemer. De éénmalige forfaitaire bijdrage wordt niet gesubsidieerd.</p>
 			</td>
 		</tr>
@@ -1332,4 +1356,4 @@ De intiatiefnemers van werknemers met een arbeidsregime dat lager dan 38 uren, w
 
 <p>&nbsp;</p>
 
-<p>6) Verplaatsing van/naar het werk: algemeen geldende regeling 70 % sociaal abonnement.</p>
+<p>6) Verplaatsing van/naar het werk: 50 % algemeen geldende regeling 70 % sociaal abonnement.</p>

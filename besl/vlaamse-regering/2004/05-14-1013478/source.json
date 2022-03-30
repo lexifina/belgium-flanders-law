@@ -2,16 +2,16 @@
   "codex_id": 1013478,
   "title": "Besluit van de Vlaamse Regering van 2004-05-14 houdende de definitieve regularisatie en toekenning van een subsidie aan bepaalde initiatieven binnen polders, wateringen, milieu- en natuurverenigingen die personeelsleden tewerkstellen in een gewezen DAC-statuut",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013478/VolledigDocument?datum=2017-04-01",
-  "source_sha256": "44bc2373f593184c425f3432afe5ceaeb12a9ed35a9b2bfc331faf0748a078e9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013478/VolledigDocument?datum=2022-03-30",
+  "source_sha256": "63a81cbad628e4547d8baae895f9649b998eb23ead385b905c561450979e3cf7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013478&param=informatie",
-  "as_of": "2017-04-01",
+  "as_of": "2022-03-30",
   "made": "2004-05-14",
   "gazette": "2004-10-15",
   "numac": 2004036540,
   "document_start": null,
   "document_end": null,
-  "in_force": "2017-04-01",
+  "in_force": "2022-03-30",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-03-30; future article versions excluded; article text as the API gives it"
 }
