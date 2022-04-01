@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037275,
+  "title": "Besluit van de Vlaamse Regering van 2022-05-13 tot wijziging van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding, het besluit van de Vlaamse Regering van 28 april 2017 tot bepaling van de kwaliteitscriteria voor de instroomopleiding Havenarbeider en het besluit van de Vlaamse Regering van 24 mei 2019 tot uitvoering van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037275/VolledigDocument?datum=2022-04-01",
+  "source_sha256": "0bd3722697b64d497edc9d157807638ce3461234fd74504660ce13cbec08b8a5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037275&param=informatie",
+  "as_of": "2022-04-01",
+  "made": "2022-05-13",
+  "gazette": "2022-07-20",
+  "numac": 2022020945,
+  "document_start": "2022-07-30",
+  "document_end": null,
+  "in_force": "2022-04-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
