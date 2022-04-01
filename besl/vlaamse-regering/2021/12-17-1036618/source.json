@@ -2,16 +2,16 @@
   "codex_id": 1036618,
   "title": "Besluit van de Vlaamse Regering van 2021-12-17 over de exploitatie van het kernnet en het aanvullend net",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036618/VolledigDocument?datum=2022-03-20",
-  "source_sha256": "5422ee05e9e3f0ea2df7fa4be750801c6f8003cb5b08fa60d726f469886b14d0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036618/VolledigDocument?datum=2022-04-01",
+  "source_sha256": "ea9913f5cafbb75c7b65abf9d87cac61509cdaa8ec6218cb0f70b6f68b5ac441",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036618&param=informatie",
-  "as_of": "2022-03-20",
+  "as_of": "2022-04-01",
   "made": "2021-12-17",
   "gazette": "2022-03-10",
   "numac": 2022030338,
   "document_start": "2022-03-20",
   "document_end": null,
-  "in_force": "2022-03-20",
+  "in_force": "2022-04-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2022-03-20; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-04-01; future article versions excluded; article text as the API gives it"
 }

@@ -100,7 +100,7 @@ De exploitant voert het gewestgrensoverschrijdend geregeld vervoer uit overeenko
 
 ### ART 12.
 
-De exploitant kan in het kader van een overeenkomst met overheden, publieke instellingen en privépartners specifieke vervoersbewijzen met korting aanbieden.
+De exploitant kan in het kader van een overeenkomst met overheden, publieke instellingen en privépartners specifieke vervoerbewijzen met korting en geïntegreerde vervoerbewijzen aanbieden.
 
 ### ART 13.
 
