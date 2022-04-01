@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037182,
+  "title": "Besluit van de Vlaamse Regering van 2022-04-01 tot erkenning van NOOZO vzw als Vlaamse advies- en beleidsparticipatieraad van personen met een handicap en tot het sluiten van een samenwerkingsovereenkomst met de raad",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037182/VolledigDocument?datum=2022-04-01",
+  "source_sha256": "cbb1dc5554d8dc06f8681b66629b765dec5d33390b1704df9d6fb290f3c37729",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037182&param=informatie",
+  "as_of": "2022-04-01",
+  "made": "2022-04-01",
+  "gazette": "2022-06-27",
+  "numac": 2022031830,
+  "document_start": "2022-04-01",
+  "document_end": null,
+  "in_force": "2022-04-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2022-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
