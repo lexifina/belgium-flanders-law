@@ -52,12 +52,12 @@ In dit besluit wordt verstaan onder:<br>
 § 1. De vervoerbewijzen, vermeld in artikel 1, 1° tot en met 15°, geven recht op vervoer binnen het kernnet en het aanvullend net, met uitzondering van de Limburgse snelbuslijnen.<br>
 <br>
 § 2. Voor de volgende vervoerbewijzen voor het kernnet en het aanvullende net gelden de volgende tarieven:<br>
-1° een m-ticket: 2 euro;<br>
-2° een ticket of een sms-ticket: 2,5 euro;<br>
+1° een ticket, een m-ticket en een sms-ticket: 2,5 euro;<br>
+2° ...;<br>
 3° ...<br>
-4° een m-card10: 16 euro of 1,60 euro per rit;<br>
-5° een lijnkaart: 16 euro of 1,60 euro per rit;<br>
-6° een groepsticket: 1,60 euro per rit per persoon;<br>
+4° een m-card10: 17 euro, of 1,70 euro per rit;<br>
+5° een lijnkaart: 17 euro, of 1,70 euro per rit;<br>
+6° een groepsticket: 1,70 euro per rit per persoon;<br>
 7° een dagpas, een m-daypass en een sms-dagpas: 7,5 euro;<br>
 8° een dagpas kind: 4 euro;<br>
 9° een driedagenpas: 15 euro;<br>
@@ -84,8 +84,8 @@ d) een maandabonnement voor 12- tot 24-jarigen:<br>
 1) een eerste abonnement: 33 euro;<br>
 2) vanaf een tweede abonnement voor hetzelfde gezin, met dezelfde start- en einddatum: 26,40 euro;<br>
 2° voor de Omnipas:<br>
-a) een jaarabonnement voor 25- tot 64-jarigen: 339 euro;<br>
-b) een driemaandenabonnement voor 25- tot 64-jarigen: 132 euro;<br>
+a) een jaarabonnement voor 25- tot 64-jarigen: 351 euro;<br>
+b) een driemaandenabonnement voor 25- tot 64-jarigen: 135 euro;<br>
 c) een maandabonnement voor 25- tot 64-jarigen: 49 euro;<br>
 d) een jaarabonnement voor personen van 65 jaar en ouder: 56 euro;<br>
 3° als een abonnement wordt gecombineerd met een abonnement van de NBMS, gelden de volgende prijzen:
@@ -105,12 +105,12 @@ d) een jaarabonnement voor personen van 65 jaar en ouder: 56 euro;<br>
 		<tr>
 			<td>drie maanden</td>
 			<td>67 euro</td>
-			<td>118 euro</td>
+			<td>121 euro</td>
 		</tr>
 		<tr>
 			<td>twaalf maanden</td>
 			<td>175 euro</td>
-			<td>299 euro</td>
+			<td>311 euro</td>
 		</tr>
 	</tbody>
 </table>
