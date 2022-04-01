@@ -11,6 +11,12 @@ In artikel 4.1.13 van hetzelfde decreet worden de volgende wijzigingen aangebrac
 2° in paragraaf 2, 1°, wordt het woord "aansluitbare" telkens vervangen door het woord "niet-aansluitbare";<br>
 3° aan paragraaf 2 wordt een punt 5° toegevoegd, dat luidt als volgt: "5° de wooneenheid of het gebouw betreft geen nieuwbouw.".
 
+### ART 17.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 28 januari 2022, wordt in hoofdstuk VII/1, ingevoegd bij artikel 16, een artikel 4.7/1.1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 4.7/1.1. De aanleg van een geheel van onderling verbonden leidingen en de daarmee verbonden hulpmiddelen om propaan of butaan te distribueren en te leveren aan eindafnemers is niet toegelaten in de gebieden die onder de toepassing vallen van de verplichtingen, vermeld in artikel 4.1.16/1 en 4.1.16/2.".
+
 ### ART 22.
 
 In artikel 7.1.10, § 1, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 8 juli 2011, wordt de datum "31 maart" vervangen door de datum "30 april".
