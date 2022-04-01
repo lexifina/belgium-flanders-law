@@ -2,16 +2,16 @@
   "codex_id": 1025728,
   "title": "Decreet van 2015-07-17 houdende de omvorming van het Gemeentelijk Havenbedrijf Antwerpen tot een naamloze vennootschap van publiek recht",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025728/VolledigDocument?datum=2015-08-31",
-  "source_sha256": "9d585345d34ea661442f4fac1534009d05e7983520b50475315ad930e15e1df0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025728/VolledigDocument?datum=2022-04-01",
+  "source_sha256": "99fbf1e6d19204526e1c202b0183fdf720e377fa29d16eddf7e61e9f4900512a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025728&param=informatie",
-  "as_of": "2015-08-31",
+  "as_of": "2022-04-01",
   "made": "2015-07-17",
   "gazette": "2015-08-21",
   "numac": 2015036053,
   "document_start": "2015-08-31",
   "document_end": null,
-  "in_force": "2015-08-31",
+  "in_force": "2022-04-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2015-08-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-04-01; future article versions excluded; article text as the API gives it"
 }
