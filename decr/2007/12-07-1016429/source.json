@@ -2,16 +2,16 @@
   "codex_id": 1016429,
   "title": "Decreet van 2007-12-07 [houdende de oprichting van [...] een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016429/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "c7ccf4172b2d8b6f52cb08abf63298ad9259d5c8a6d9f8382cec8b1808748640",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016429/VolledigDocument?datum=2022-04-01",
+  "source_sha256": "aaafc0882c420756e2a4ff3459a52cc0b6cafc1b9d28bd59eb7593a75555f42d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016429&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2022-04-01",
   "made": "2007-12-07",
   "gazette": "2007-12-21",
   "numac": 2007037262,
   "document_start": null,
   "document_end": null,
-  "in_force": "2021-01-01",
+  "in_force": "2022-04-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-04-01; future article versions excluded; article text as the API gives it"
 }
