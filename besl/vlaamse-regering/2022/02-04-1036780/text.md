@@ -23,6 +23,11 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 2.
+
+Aan artikel 3.2.18, eerste lid, 4° van hetzelfde besluit, ingevoegd bij besluit van de Vlaamse Regering van 15 juli 2016, wordt een punt c) toegevoegd, dat luidt als volgt:<br>
+"c) facturering op maandbasis van het gemeten maandverbruik bij eindafnemers met een digitale meter, wanneer het gaat om een leverancier die meer dan 200.000 afnamepunten in het Vlaamse Gewest belevert;".
+
 ### ART 45.
 
 In artikel 6.4.1/1/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 november 2013, vervangen bij het besluit van de Vlaamse Regering van 15 juli 2016 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 9 juli 2021, worden de volgende wijzigingen aangebracht:<br>
@@ -89,6 +94,16 @@ vervangen door de rij:
 	</tbody>
 </table>
 3° in het zevende lid wordt aan de zin "De premie kan enkel worden toegekend als de geplaatste fotovoltaïsche installatie uiterlijk drie maanden na de indienstname bij de elektriciteitsdistributienetbeheerder werd aangemeld" de zinsnede "en er is binnen de termijn, vermeld in artikel 3.1.52, § 1, vijfde lid, op het toegangspunt een digitale meter geplaatst" toegevoegd.
+
+### ART 46.
+
+In artikel 6.4.1/4 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 september 2011 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 11 december 2020, worden de volgende wijzigingen aangebracht;<br>
+1° in paragraaf 2 wordt het eerste lid vervangen door wat volgt:<br>
+"De elektriciteitsdistributienetbeheerder biedt een premie van 200 euro voor energiezuinige huishoudtoestellen:<br>
+1° aan elke beschermde afnemer die erom verzoekt, in de vorm van een kortingsbon ter waarde van 200 euro voor de aankoop van een nieuwe energiezuinige koelkast met of zonder vriesvak, een nieuwe energiezuinige wasmachine, een nieuwe energiezuinige diepvriezer of een nieuwe energiezuinige droogkast;<br>
+2° aan een niet-commerciële instelling of publiekrechtelijke rechtspersoon die erom verzoekt, in het kader van de verhuur met inbegrepen service- en reparatiekosten op een termijn van tien jaar van een nieuwe energiezuinige koelkast met of zonder vriesvak, een nieuwe energiezuinige wasmachine, een nieuwe energiezuinige diepvriezer of een nieuwe energiezuinige droogkast aan een beschermde afnemer en als die verhuur onderdeel vormt van een traject met het oog op begeleiding bij het aanpakken van energiearmoede.";<br>
+2° in paragraaf 2, tweede lid wordt tussen het woord "koelkasten" en de woorden "en wasmachines" de zinsnede ", diepvriezers, droogkasten" ingevoegd;<br>
+3° in paragraaf 2, tweede lid worden de woorden "om in aanmerking te komen voor de kortingsbon" opgeheven.
 
 ### ART 47.
 
@@ -220,9 +235,89 @@ In afwijking van het achtste lid, 2°, moeten investeerders die deelnemen aan ee
 Per gebouw, vermeld in het eerste lid, kan maar één premie voor de gelijktijdige asbestverwijdering en plaatsing van een nieuwe fotovoltaïsche installatie worden toegekend.";<br>
 5° in paragraaf 4 wordt de zinsnede " paragraaf 1, 2 en 3" vervangen door de zinsnede "paragraaf 1, 1/1, 2 en 3".
 
+### ART 48.
+
+In artikel 6.4.1/6 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 september 2011 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 9 juli 2021, wordt het vierde lid vervangen door wat volgt:<br>
+<br>
+"Binnen een periode van vierentwintig maanden kan de premie vermeld in artikel 6.4.1/4, § 2 in de vorm van een kortingsbon voor de aankoop per uitvoeringsadres niet meer dan vier keer worden aangevraagd en maar een keer voor hetzelfde type toestel. Bijkomende aanvragen binnen diezelfde periode komen in geen geval in aanmerking voor de kortingsbonnen vermeld in artikel 6.4.1/4, § 2.".
+
 ### ART 49.
 
 In artikel 6.4.1/9/2, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 juli 2016, wordt de zinsnede " § 1 en § 2" vervangen door de zinsnede " § 1, § 1/1 en § 2".
+
+### ART 55.
+
+In titel IX, hoofdstuk II, afdeling I van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 9 juli 2021, wordt het opschrift van onderafdeling II vervangen door wat volgt:<br>
+<br>
+"Onderafdeling II. Overdracht van het energieprestatiecertificaat residentiële gebouwen bij verkoop, verhuur en de vestiging van een erfpacht of opstalrecht".
+
+### ART 56.
+
+In artikel 9.2.3 van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 11 december 2020, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid worden de woorden "te koop wil aanbieden" vervangen door de woorden "verkoopt";<br>
+2° tussen het eerste en tweede lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+"Het energieprestatiecertificaat residentiële gebouwen moet beschikbaar zijn:<br>
+1° als er publiciteit wordt gemaakt: ten laatste bij de eerste bekendmaking van die publiciteit;<br>
+2° als er geen publiciteit wordt gemaakt: ten laatste voorafgaand aan het sluiten van de onderhandse akte, of indien er geen onderhandse akte is voor het verlijden van de authentieke akte.".
+
+### ART 57.
+
+In titel IX, hoofdstuk II, afdeling I, onderafdeling II van hetzelfde besluit, het laatst gewijzigd bij het besluit van 9 juli 2021, wordt een artikel 9.2.3/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 9.2.3/1. § 1. Een eigenaar die op een residentieel gebouw een opstalrecht of erfpacht wil vestigen, moet over een energieprestatiecertificaat residentiële gebouwen beschikken.<br>
+<br>
+Het energieprestatiecertificaat residentiële gebouwen moet beschikbaar zijn:<br>
+1° als er publiciteit wordt gemaakt: ten laatste bij de eerste bekendmaking van publiciteit;<br>
+2° als er geen publiciteit wordt gemaakt: ten laatste voorafgaand aan het sluiten van de onderhandse akte, of indien er geen onderhandse akte is voor het verlijden van de authentieke akte.<br>
+<br>
+De eigenaar moet op eenvoudig verzoek van een kandidaat-opstalhouder of kandidaat-erfpachter hem een geldig energieprestatiecertificaat residentiële gebouwen kunnen voorleggen. Bij de vestiging van het opstalrecht of de erfpacht op een residentieel gebouw draagt de eigenaar aan de opstalhouder of erfpachter een geldig energieprestatiecertificaat residentiële gebouwen over.<br>
+<br>
+§ 2. Iedereen die een onderhandse akte voor de vestiging van het opstalrecht of de erfpacht op een residentieel gebouw opmaakt, moet vermelden of er voor het gebouw een geldig energieprestatiecertificaat residentiële gebouwen bestaat en of het ter kennis werd gebracht van de opstalhouder of erfpachthouder.<br>
+<br>
+§ 3. In alle authentieke akten voor de vestiging van het opstalrecht of de erfpacht op residentiële gebouwen neemt de instrumenterende ambtenaar in de verklaring van de eigenaar of hun gemandateerden op of de opstalhouder of erfpachter voor het verlijden van de authentieke akte op de hoogte is gebracht van het bestaan en de inhoud van het geldig energieprestatiecertificaat residentiële gebouwen. De instrumenterende ambtenaar vermeldt in de authentieke akte of het geldig energieprestatiecertificaat residentiële gebouwen aan de opstalhouder of erfpachter ter beschikking werd gesteld en neemt de datum en de unieke code van het geldig energieprestatiecertificaat residentiële gebouwen in de authentieke akte op.<br>
+<br>
+In het kader van de uitoefening van zijn functie als instrumenterende ambtenaar bij de vestiging van een opstalrecht of erfpacht bij residentiële gebouwen heeft de instrumenterende ambtenaar leesrecht in de energieprestatiecertificatendatabank.<br>
+<br>
+Als de instrumenterende ambtenaar bij het verlijden van de authentieke akte vaststelt dat er voor het bewuste residentiële gebouw geen geldig energieprestatiecertificaat residentiële gebouwen beschikbaar is, brengt hij het VEKA daarvan onmiddellijk op de hoogte.".
+
+### ART 58.
+
+In artikel 9.2.5/3 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 9 oktober 2020, wordt de zinsnede "artikel 9.2.3, § 1, tweede lid, artikel 9.2.4, tweede lid, artikel 9.2.8, § 1, tweede lid, en artikel 9.2.9, tweede lid," vervangen door de zinsnede "artikel 9.2.3, § 1, derde lid, artikel 9.2.3/1, § 1, derde lid, artikel 9.2.4, tweede lid, artikel 9.2.8, § 1, derde lid, artikel 9.2.8/1, § 1, derde lid en artikel 9.2.9, tweede lid,".
+
+### ART 60.
+
+In titel IX, hoofdstuk II, afdeling II van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 9 juli 2021, wordt het opschrift van onderafdeling II vervangen door wat volgt:<br>
+<br>
+"Onderafdeling II. Overdracht van het energieprestatiecertificaat niet-residentiële gebouwen bij verkoop, verhuur en de vestiging van een erfpacht of opstalrecht".
+
+### ART 61.
+
+In artikel 9.2.8 van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 11 december 2020, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid worden de woorden "te koop wil aanbieden" vervangen door de woorden "verkoopt";<br>
+2° tussen het eerste en tweede lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+"Het energieprestatiecertificaat niet-residentiële gebouwen moet beschikbaar zijn:<br>
+1° als er publiciteit wordt gemaakt: ten laatste bij de eerste bekendmaking van die publiciteit;<br>
+2° als er geen publiciteit wordt gemaakt: ten laatste voorafgaand aan het sluiten van de onderhandse akte, of indien er geen onderhandse akte is voor het verlijden van de authentieke akte.".
+
+### ART 62.
+
+In titel IX, hoofdstuk II, afdeling II, onderafdeling II van hetzelfde besluit, het laatst gewijzigd bij het besluit van 11 december 2020, wordt een artikel 9.2.8/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 9.2.8/1. § 1. Een eigenaar die op een niet-residentieel gebouw een opstalrecht of erfpacht wil vestigen, moet over een energieprestatiecertificaat niet-residentiële gebouwen beschikken.<br>
+<br>
+Het energieprestatiecertificaat niet-residentiële gebouwen moet beschikbaar zijn:<br>
+1° als er publiciteit wordt gemaakt: ten laatste bij de eerste bekendmaking van publiciteit;<br>
+2° als er geen publiciteit wordt gemaakt: ten laatste voorafgaand aan het sluiten van de onderhandse akte, of indien er geen onderhandse akte is voor het verlijden van de authentieke akte.".<br>
+<br>
+De eigenaar moet op eenvoudig verzoek van een kandidaat-opstalhouder of kandidaat-erfpachter hem een geldig energieprestatiecertificaat niet-residentiële gebouwen kunnen voorleggen. Bij de vestiging van het opstalrecht of de erfpacht op een niet-residentieel gebouw draagt de eigenaar aan de opstalhouder of erfpachter een geldig energieprestatiecertificaat niet-residentiële gebouwen over.<br>
+<br>
+§ 2. Iedereen die een onderhandse akte voor de vestiging van het opstalrecht of de erfpacht op een niet-residentieel gebouw opmaakt, moet vermelden of er voor het gebouw een geldig energieprestatiecertificaat niet-residentiële gebouwen bestaat en of het ter kennis werd gebracht van de opstalhouder of erfpachthouder.<br>
+<br>
+§ 3. In alle authentieke akten voor de vestiging van het opstalrecht of de erfpacht op niet-residentiële gebouwen neemt de instrumenterende ambtenaar in de verklaring van de eigenaar of hun gemandateerden op of de opstalhouder of erfpachter voor het verlijden van de authentieke akte op de hoogte is gebracht van het bestaan en de inhoud van het geldig energieprestatiecertificaat niet-residentiële gebouwen. De instrumenterende ambtenaar vermeldt in de authentieke akte of het geldig energieprestatiecertificaat niet-residentiële gebouwen aan de opstalhouder of erfpachter ter beschikking werd gesteld en neemt de datum en de unieke code van het geldig energieprestatiecertificaat niet-residentiële gebouwen in de authentieke akte op.<br>
+<br>
+In het kader van de uitoefening van zijn functie als instrumenterende ambtenaar bij de vestiging van een opstalrecht of erfpacht bij niet-residentiële gebouwen heeft de instrumenterende ambtenaar leesrecht in de energieprestatiecertificatendatabank.<br>
+<br>
+Als de instrumenterende ambtenaar bij het verlijden van de authentieke akte vaststelt dat er voor het bewuste niet-residentiële gebouw geen geldig energieprestatiecertificaat niet-residentiële gebouwen beschikbaar is, brengt hij het VEKA daarvan onmiddellijk op de hoogte.".
 
 ### ART 65.
 

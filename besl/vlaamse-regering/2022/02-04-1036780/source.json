@@ -2,16 +2,16 @@
   "codex_id": 1036780,
   "title": "Besluit van de Vlaamse Regering van 2022-02-04 tot wijziging van het Energiebesluit van 19 november 2010, wat betreft de sociale openbaredienstverplichtingen en REG-openbaredienstverplichtingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036780/VolledigDocument?datum=2022-01-01",
-  "source_sha256": "dac6fd27dcf032eebf428c6bf79f6d2e28eaf95ce93fd554e83e0a542d5b1e29",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036780/VolledigDocument?datum=2022-04-01",
+  "source_sha256": "3b7a33e074d230e297fa211e530ac85cdb0ab0aa7ae7c40ce52695797edb6b15",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036780&param=informatie",
-  "as_of": "2022-01-01",
+  "as_of": "2022-04-01",
   "made": "2022-02-04",
   "gazette": "2022-03-29",
   "numac": 2022020528,
   "document_start": null,
   "document_end": null,
-  "in_force": "2022-01-01",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2022-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-04-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2022-04-01; future article versions excluded; article text as the API gives it"
 }
