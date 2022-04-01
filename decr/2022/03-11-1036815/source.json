@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036815,
+  "title": "Decreet van 2022-03-11 tot hervorming van het beheer van de havengebieden van Antwerpen en Brugge-Zeebrugge",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036815/VolledigDocument?datum=2022-04-01",
+  "source_sha256": "30a7b22cecf354933e206d243af47dd0b869cf7a7bdb1be252746eda2015baa1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036815&param=informatie",
+  "as_of": "2022-04-01",
+  "made": "2022-03-11",
+  "gazette": "2022-04-01",
+  "numac": 2022031395,
+  "document_start": "2022-04-01",
+  "document_end": null,
+  "in_force": "2022-04-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2022-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
