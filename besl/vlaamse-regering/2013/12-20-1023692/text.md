@@ -73,6 +73,13 @@ Er zijn twee types van vergunningen : <BR>1° de langlopende, permanente   vergu
 
 ## [Onderafdeling 1. Algemeen (ing. BVR 30 oktober 2020, art. 37, I: 1 april 2022)]
 
+### ART 6/1.
+
+In de gevallen en onder de voorwaarden, vermeld in artikel 7 van dit besluit, mag de begeleiding van het uitzonderlijk vervoer alleen worden uitgevoerd door een onderneming die voldoet aan al de volgende voorwaarden:<br>
+1° ze is erkend als begeleidingsonderneming uitzonderlijk vervoer conform het besluit van de Vlaamse Regering van 30 oktober 2020 houdende de erkenningsvoorwaarden van begeleidingsondernemingen en van begeleiders van uitzonderlijk vervoer en houdende wijziging van het besluit van de Vlaamse Regering van 20 december 2013 betreffende de bescherming van de verkeersinfrastructuur in geval van uitzonderlijk vervoer of beschikt over een gelijkwaardige erkenning uit een ander gewest;<br>
+2° ze werkt met begeleiders die een erkenning begeleider uitzonderlijk vervoer hebben conform het voormelde besluit of een gelijkwaardige erkenning uit een ander gewest;<br>
+3° ze beschikt over een passende verzekering burgerrechtelijke aansprakelijkheid als vermeld in artikel 3 van het voormelde besluit.
+
 ## [Onderafdeling 2. Begeleidingsvoertuigen (ing. BVR 30 oktober 2020, art. 38, I: 1 april 2022)]
 
 ### ART. 7.
@@ -95,7 +102,11 @@ Er zijn twee types van vergunningen : <BR>1° de langlopende, permanente   vergu
 
 ### ART. 11.
 
-De verkeerscoördinator en begeleider zijn in het bezit van een Belgisch   bekwaamheidsattest of van een bekwaamheidsattest, afgeleverd door een lidstaat   van de Europese Unie, dat in België erkend is.<BR>
+Een verkeerscoördinator van een konvooi als vermeld in artikel 7, § 1, van dit besluit, is erkend als begeleider uitzonderlijk vervoer type 1 of type 2 als vermeld in het besluit van de Vlaamse Regering van 30 oktober 2020 houdende de erkenningsvoorwaarden van begeleidingsondernemingen en van begeleiders van uitzonderlijk vervoer en houdende wijziging van het besluit van de Vlaamse Regering van 20 december 2013 betreffende de bescherming van de verkeersinfrastructuur in geval van uitzonderlijk vervoer, of beschikt over een gelijkwaardige erkenning uit een ander gewest.<br>
+<br>
+Een verkeerscoördinator of een begeleider van een ander konvooi dan het konvooi, vermeld in artikel 7, § 1, van dit besluit, is erkend als begeleider uitzonderlijk vervoer type 2, als vermeld in het besluit van de Vlaamse Regering van 30 oktober 2020 houdende de erkenningsvoorwaarden van begeleidingsondernemingen en van begeleiders van uitzonderlijk vervoer en houdende wijziging van het besluit van de Vlaamse Regering van 20 december 2013 betreffende de bescherming van de verkeersinfrastructuur in geval van uitzonderlijk vervoer, of beschikt over een gelijkwaardige erkenning uit een ander gewest.<br>
+<br>
+Een begeleider of verkeerscoördinator als vermeld in het eerste en tweede lid, kan op elk moment een geldige legitimatiekaart voorleggen bij het uitvoeren van zijn activiteiten als begeleider of verkeerscoördinator.
 
 ## [Afdeling 3. Specifieke voorschriften voor landbouwvoertuigen (verv. BVR 30 oktober 2020, art. 41, I: 1 april 2022)]
 
@@ -113,7 +124,9 @@ De verkeerscoördinator en begeleider zijn in het bezit van een Belgisch   bekwa
 
 ### ART. 14.
 
-Dit besluit treedt in werking op dezelfde datum als het besluit van de   Vlaamse Regering betreffende de handhaving inzake de bescherming van de   verkeersinfrastructuur in geval van bijzonder wegtransport, met uitzondering van   artikel 11, dat in werking treedt op de door minister vast te stellen datum.   <BR>
+Dit besluit treedt in werking op dezelfde datum als het besluit van de Vlaamse Regering betreffende de handhaving inzake de bescherming van de verkeersinfrastructuur in geval van bijzonder wegtransport.<br>
+<br>
+Artikel 11, vervangen bij het besluit van de Vlaamse Regering 30 oktober 2020 houdende de erkenningsvoorwaarden van begeleidingsondernemingen en van begeleiders van uitzonderlijk vervoer en houdende wijziging van het besluit van de Vlaamse Regering van 20 december 2013 betreffende de bescherming van de verkeersinfrastructuur in geval van uitzonderlijk vervoer, treedt in werking op 1 april 2022.
 
 ### ART. 15.
 
