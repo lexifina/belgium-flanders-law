@@ -457,6 +457,58 @@ De gegevens worden verzameld en verwerkt voor:<br>
 
 ## HOOFDSTUK 6. Wijzigingsbepalingen
 
+### ART 36.
+
+In hoofdstuk 3 van het besluit van de Vlaamse Regering van 20 december 2013 betreffende de bescherming van de verkeersinfrastructuur in geval van uitzonderlijk vervoer wordt het opschrift van afdeling 2 vervangen door wat volgt:<br>
+<br>
+"Afdeling 2. - Begeleiding door een begeleidingsonderneming".
+
+### ART 37.
+
+In hoofdstuk 3, afdeling 2, van hetzelfde besluit wordt vóór artikel 7 een onderafdeling 1, die bestaat uit artikel 6/1, ingevoegd, die luidt als volgt:<br>
+<br>
+"Onderafdeling 1. - Algemeen<br>
+<br>
+Art. 6/1. In de gevallen en onder de voorwaarden, vermeld in artikel 7 van dit besluit, mag de begeleiding van het uitzonderlijk vervoer alleen worden uitgevoerd door een onderneming die voldoet aan al de volgende voorwaarden:<br>
+1° ze is erkend als begeleidingsonderneming uitzonderlijk vervoer conform het besluit van de Vlaamse Regering van 30 oktober 2020 houdende de erkenningsvoorwaarden van begeleidingsondernemingen en van begeleiders van uitzonderlijk vervoer en houdende wijziging van het besluit van de Vlaamse Regering van 20 december 2013 betreffende de bescherming van de verkeersinfrastructuur in geval van uitzonderlijk vervoer of beschikt over een gelijkwaardige erkenning uit een ander gewest;<br>
+2° ze werkt met begeleiders die een erkenning begeleider uitzonderlijk vervoer hebben conform het voormelde besluit of een gelijkwaardige erkenning uit een ander gewest;<br>
+3° ze beschikt over een passende verzekering burgerrechtelijke aansprakelijkheid als vermeld in artikel 3 van het voormelde besluit."
+
+### ART 38.
+
+In hoofdstuk 3, afdeling 2, van hetzelfde besluit wordt vóór artikel 7 het volgende opschrift ingevoegd:<br>
+<br>
+"Onderafdeling 2. Begeleidingsvoertuigen".
+
+### ART 39.
+
+In hoofdstuk 3 van hetzelfde besluit wordt het opschrift van afdeling 3 vervangen door wat volgt:<br>
+<br>
+"Onderafdeling 3. Verkeerscoördinator en begeleider".
+
+### ART 40.
+
+Artikel 11 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+"Art. 11. Een verkeerscoördinator van een konvooi als vermeld in artikel 7, § 1, van dit besluit, is erkend als begeleider uitzonderlijk vervoer type 1 of type 2 als vermeld in het besluit van de Vlaamse Regering van 30 oktober 2020 houdende de erkenningsvoorwaarden van begeleidingsondernemingen en van begeleiders van uitzonderlijk vervoer en houdende wijziging van het besluit van de Vlaamse Regering van 20 december 2013 betreffende de bescherming van de verkeersinfrastructuur in geval van uitzonderlijk vervoer, of beschikt over een gelijkwaardige erkenning uit een ander gewest.<br>
+<br>
+Een verkeerscoördinator of een begeleider van een ander konvooi dan het konvooi, vermeld in artikel 7, § 1, van dit besluit, is erkend als begeleider uitzonderlijk vervoer type 2, als vermeld in het besluit van de Vlaamse Regering van 30 oktober 2020 houdende de erkenningsvoorwaarden van begeleidingsondernemingen en van begeleiders van uitzonderlijk vervoer en houdende wijziging van het besluit van de Vlaamse Regering van 20 december 2013 betreffende de bescherming van de verkeersinfrastructuur in geval van uitzonderlijk vervoer, of beschikt over een gelijkwaardige erkenning uit een ander gewest.<br>
+<br>
+Een begeleider of verkeerscoördinator als vermeld in het eerste en tweede lid, kan op elk moment een geldige legitimatiekaart voorleggen bij het uitvoeren van zijn activiteiten als begeleider of verkeerscoördinator.".
+
+### ART 41.
+
+&nbsp;In hoofdstuk 3 van hetzelfde besluit wordt het opschrift van afdeling 4 vervangen door wat volgt:<br>
+<br>
+"Afdeling 3. - Specifieke voorschriften voor landbouwvoertuigen".
+
+### ART 42.
+
+In artikel 14 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede ", met uitzondering van artikel 11, dat in werking treedt op de door minister vast te stellen datum" wordt opgeheven;<br>
+2° een tweede lid wordt toegevoegd dat luidt als volgt:<br>
+"Artikel 11, vervangen bij het besluit van de Vlaamse Regering 30 oktober 2020 houdende de erkenningsvoorwaarden van begeleidingsondernemingen en van begeleiders van uitzonderlijk vervoer en houdende wijziging van het besluit van de Vlaamse Regering van 20 december 2013 betreffende de bescherming van de verkeersinfrastructuur in geval van uitzonderlijk vervoer, treedt in werking op 1 april 2022."
+
 ## HOOFDSTUK 7. Slotbepalingen
 
 ### ART 43.
