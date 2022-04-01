@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036766,
+  "title": "Ministerieel besluit van 2022-03-10 tot uitvoering van het besluit van de Vlaamse Regering van 26 april 2019 betreffende zorgstrategische planning",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036766/VolledigDocument?datum=2022-04-01",
+  "source_sha256": "2dfc1481f67130853b4b3ba8572868f4a5570c57ccc00b8cb71d1b3f9a4b05bd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036766&param=informatie",
+  "as_of": "2022-04-01",
+  "made": "2022-03-10",
+  "gazette": "2022-03-25",
+  "numac": 2022031319,
+  "document_start": "2022-04-01",
+  "document_end": null,
+  "in_force": "2022-04-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2022-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
