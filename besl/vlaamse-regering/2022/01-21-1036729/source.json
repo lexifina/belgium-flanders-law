@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036729,
+  "title": "Besluit van de Vlaamse Regering van 2022-01-21 tot wijziging van het besluit van de Vlaamse Regering van 22 april 2016 betreffende de Vlaamse openbare statistieken, wat betreft aanpassing aan het decreet van 2 juli 2021",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036729/VolledigDocument?datum=2022-04-01",
+  "source_sha256": "b31615bc3a8d3a6f429664d3d5353edacb16df803e9425a1c9785712bfd71d1f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036729&param=informatie",
+  "as_of": "2022-04-01",
+  "made": "2022-01-21",
+  "gazette": "2022-03-22",
+  "numac": 2022040101,
+  "document_start": "2022-04-01",
+  "document_end": null,
+  "in_force": "2022-04-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2022-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
