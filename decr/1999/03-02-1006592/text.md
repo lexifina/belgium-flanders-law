@@ -122,7 +122,7 @@ Onder ieder havenbedrijf ressorteert een havenkapiteinsdienst, die instaat voor 
 
 ### ART. 14bis.
 
-§ 1. Met behoud van de toepassing van het decreet van 16 mei 2008 betreffende de aanvullende reglementen op het wegverkeer en de plaatsing en bekostiging van de verkeerstekens en de wet van 19 juni 1978 betreffende het beheer van het linkerscheldeoevergebied ter hoogte van Antwerpen en houdende maatregelen voor het beheer en de exploitatie van de haven van Antwerpen kan de Vlaamse Regering per haven een verordening vaststellen voor het verkeer van havenvoertuigen. De Vlaamse Regering stelt de grenzen vast van het gebied waarin die verordening van toepassing is.<br>
+§ 1. Met behoud van de toepassing van het decreet van 16 mei 2008 betreffende de aanvullende reglementen op het wegverkeer en de plaatsing en bekostiging van de verkeerstekens en de wet van 19 juni 1978 betreffende het beheer van het linkerscheldeoevergebied ter hoogte van Antwerpen en houdende maatregelen voor het beheer en de exploitatie van de haven van Antwerpen kan de Vlaamse Regering per havengebied een verordening vaststellen voor het verkeer van havenvoertuigen. De Vlaamse Regering stelt de grenzen vast van het gebied waarin die verordening van toepassing is.&nbsp;De Vlaamse Regering kan de verordening ook van toepassing verklaren op gebieden die niet tot het havengebied behoren indien dat noodzakelijk zou blijken voor het beheer en de exploitatie van de havengebieden en voor de vrijwaring van het vlotte en veilige verkeer.<br>
 <br>
 De verordening kan afwijken van de toepassing van de bepalingen van het koninklijk besluit van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en van het gebruik van de openbare weg, de daaruit volgende toepassingsbesluiten, en de bepalingen van het koninklijk besluit van 15 maart 1968 houdende algemeen reglement op de technische eisen waaraan de auto's, hun aanhangwagens, hun onderdelen en hun veiligheidstoebehoren moeten voldoen.<br>
 <br>
@@ -270,7 +270,11 @@ De havenbedrijven kunnen met publiekrechtelijke rechtspersonen economische samen
 
 ### ART. 29.
 
-§ 1. Onverminderd artikelen 9 en 31 is het Vlaamse Gewest verantwoordelijk voor de aanleg, de instandhouding, met inbegrip van het verwerken van de specie, het onderhoud en de exploitatie van de maritieme toegangswegen en de basisinfrastructuur, de haveninterne basisinfrastructuur uitgezonderd. In afwijking van het eerste lid van artikel 18 blijft het Antwerpse Havenbedrijf verant-woordelijk voor de instandhouding, het onderhoud en de exploitatie van de kanaaldokken en zwaaikommen, met uitzondering van het verwerken van de specie. <br /><br />§ 2. In afwijking van § 1 en artikel 9, draagt het Vlaamse Gewest de verantwoordelijkheid voor de uitvoering en de financiering van de aanleg en terbeschikkingstelling van de nieuw te realiseren zeesluizen op het ogenblik van de oprichting van de NV Vlaamse Havens over aan die vennootschap.<br /><br />Het voorgaande lid doet geen afbreuk aan de verantwoordelijkheid van de havenbedrijven voor de instandhouding, de exploitatie en het onderhoud, met inbegrip van het verwerken van de specie, van de binnen het havengebied gelegen zeesluizen.
+§ 1. Onverminderd artikelen 9 en 31 is het Vlaamse Gewest verantwoordelijk voor de aanleg, de instandhouding, met inbegrip van het verwerken van de specie, het onderhoud en de exploitatie van de maritieme toegangswegen en de basisinfrastructuur, de haveninterne basisinfrastructuur uitgezonderd. In afwijking van het eerste lid van artikel 18 blijft Haven van Antwerpen-Brugge verantwoordelijk voor de instandhouding, het onderhoud en de exploitatie van de kanaaldokken en zwaaikommen in het havengebied van Antwerpen, met uitzondering van het verwerken van de specie.<br>
+<br>
+§ 2. In afwijking van § 1 en artikel 9, draagt het Vlaamse Gewest de verantwoordelijkheid voor de uitvoering en de financiering van de aanleg en terbeschikkingstelling van de nieuw te realiseren zeesluizen op het ogenblik van de oprichting van de NV Vlaamse Havens over aan die vennootschap.<br>
+<br>
+Het voorgaande lid doet geen afbreuk aan de verantwoordelijkheid van de havenbedrijven voor de instandhouding, de exploitatie en het onderhoud, met inbegrip van het verwerken van de specie, van de binnen het havengebied gelegen zeesluizen.
 
 ### ART. 29bis.
 
@@ -278,7 +282,7 @@ De Vlaamse regering wordt ertoe gemachtigd binnen de perken van de begroting toe
 
 ### ART. 29ter.
 
-De Vlaamse Regering wordt ertoe gemachtigd binnen de perken van de begroting toelagen toe te kennen aan het Antwerpse Havenbedrijf voor de instandhouding, het onderhoud en de exploitatie van de kanaaldokken en zwaaikommen, met uitzondering van het verwerken van de specie.  <span class="reference">(ing. decr. 24 december 2004, art. 65, I: 1 januari 2005)</span> ].
+De Vlaamse Regering wordt ertoe gemachtigd binnen de perken van de begroting toelagen toe te kennen aan Haven van Antwerpen-Brugge voor de instandhouding, het onderhoud en de exploitatie van de kanaaldokken en zwaaikommen in het havengebied van Antwerpen, met uitzondering van het verwerken van de specie.&nbsp;
 
 ### ART. 30.
 
