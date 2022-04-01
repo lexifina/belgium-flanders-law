@@ -56,7 +56,8 @@ De betrokkenen moeten dat document ondertekenen;<br>
 3° een plan dat de interne verbindingswegen van de voorziening vermeldt, de bestemming van de ruimten en het aantal bedden in de kamers voor ziekenhuisverpleging;<br>
 4° een beschrijvende nota die vermeldt op welke wijze de normen voor de technische uitrusting worden nageleefd;<br>
 5° in voorkomend geval een afschrift van de overeenkomst tussen het ziekenhuis of het revalidatieziekenhuis waarvoor de erkenning van een dienst of van het geheel wordt gevraagd, en de voorzieningen waarmee een functionele binding tot stand moet worden gebracht krachtens de geldende erkenningsnormen;<br>
-6° een ondertekend en gedateerd attest van de burgemeester van de gemeente waar het ziekenhuis of het revalidatieziekenhuis of de ziekenhuisdienst ligt, waaruit blijkt dat is voldaan aan de brandveiligheidsnormen. Dat attest wordt opgemaakt nadat de bevoegde brandweerdienst verslag heeft uitgebracht over de brandveiligheid van de voorziening. Het attest en het verslag mogen niet ouder zijn dan een jaar.</p>
+6° een ondertekend en gedateerd attest van de burgemeester van de gemeente waar het ziekenhuis of het revalidatieziekenhuis of de ziekenhuisdienst ligt, waaruit blijkt dat is voldaan aan de brandveiligheidsnormen. Dat attest wordt opgemaakt nadat de bevoegde brandweerdienst verslag heeft uitgebracht over de brandveiligheid van de voorziening. Het attest en het verslag mogen niet ouder zijn dan een jaar;<br>
+7° in de gevallen bepaald door de Vlaamse minister, bevoegd voor het gezondheidsbeleid : een beschrijvende nota die vermeldt op welke wijze de aanvraag past binnen een geldig regionaal of thematisch zorgstrategisch plan als vermeld in het besluit van de Vlaamse Regering van 26 april 2019 betreffende zorgstrategische planning.</p>
 
 <p>Als het ingediende dossier onvolledig is, deelt het agentschap dat, binnen de dertig dagen met vermelding van de reden, mee aan de aanvrager.</p>
 
@@ -113,7 +114,7 @@ De voorlopige erkenning geldt voor een termijn van zes maanden en kan op   gemot
 
 ### ART. 13.
 
-<p>§ 1. De gemotiveerde aanvraag tot erkenning van een ziekenhuisonderdeel of een samenwerkingsvorm door de beheersinstantie moet met een aangetekende zending of tegen ontvangstbewijs worden ingediend bij het agentschap. Die aanvraag bevat de gegevens en stukken die de aangehaalde motieven ondersteunen en die het bewijs leveren dat voldaan is aan alle erkenningsvoorwaarden.</p>
+<p>§ 1. De gemotiveerde aanvraag tot erkenning van een ziekenhuisonderdeel of een samenwerkingsvorm door de beheersinstantie moet met een aangetekende zending of tegen ontvangstbewijs worden ingediend bij het agentschap. Die aanvraag bevat de gegevens en stukken die de aangehaalde motieven ondersteunen en die het bewijs leveren dat voldaan is aan alle erkenningsvoorwaarden. De Vlaamse minister, bevoegd voor gezondheidsbeleid, kan bepalen welke soort aanvragen gemotiveerd moeten worden als passend binnen een geldig regionaal of thematisch zorgstrategisch plan als vermeld in het besluit van de Vlaamse Regering van 26 april 2019 betreffende zorgstrategische planning.</p>
 
 <p>§ 2. Het agentschap kan binnen de dertig dagen aanvullende stukken en gegevens opvragen.</p>
 
