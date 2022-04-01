@@ -2,16 +2,16 @@
   "codex_id": 1029606,
   "title": "Ministerieel besluit van 2018-07-03 betreffende de samenstelling en de werking van de beroepscommissie taaltesten",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029606/VolledigDocument?datum=2018-08-13",
-  "source_sha256": "0818c26ec213f791d3e581689dceb740f682557c28a56cf1ea5f3c1ad58d92f6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029606/VolledigDocument?datum=2022-04-01",
+  "source_sha256": "4da097418dea64e4a0c4d4f1195ecf54649091d3474d5afaf0a617069497ecea",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029606&param=informatie",
-  "as_of": "2018-08-13",
+  "as_of": "2022-04-01",
   "made": "2018-07-03",
   "gazette": "2018-08-03",
   "numac": 2018040506,
   "document_start": "2018-08-13",
   "document_end": null,
-  "in_force": "2018-08-13",
+  "in_force": "2022-04-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2018-08-13; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-04-01; future article versions excluded; article text as the API gives it"
 }

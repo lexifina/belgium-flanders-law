@@ -12,7 +12,7 @@ Besluit :
 
 In dit besluit wordt verstaan onder:<br>
 1° beroepscommissie taaltesten: de beroepscommissie vermeld in artikel 7 van het besluit van de Vlaamse Regering tot vaststelling van de modaliteiten voor het testen en het uitreiken van de bewijzen van het taalniveau Nederlands, vermeld in artikel 46/2 van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid en houdende wijziging van artikel 7 van het besluit van de Vlaamse Regering van 3 mei 2013 houdende uitvoering van het decreet van 18 november 2011 tot regeling van het bewijs van taalkennis, vereist door de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966;<br>
-2° EVA: het Agentschap Integratie en Inburgering, vermeld in artikel 17, § 2, 7°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+2° EVA: het Agentschap Integratie en Inburgering, vermeld in artikel 17, § 2, 5°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 3° Huis: Huis van het Nederlands Brussel vzw, vermeld in het besluit van de Vlaamse Regering van 17 juli 2015 tot toekenning van taken en kerntaken aan een vereniging zonder winstoogmerk als vermeld in artikel 25, § 1, eerste lid, 3°, van het decreet van 7 juni 2013;<br>
 4° stedelijk EVA: het gemeentelijk extern verzelfstandigd agentschap Integratie en Inburgering Antwerpen vzw en het gemeentelijk extern verzelfstandigd agentschap Integratie en Inburgering Gent vzw.
 
