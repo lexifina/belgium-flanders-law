@@ -62,7 +62,7 @@ Als de ondernemer een beroepsbezigheid als zaakvoerder, vennoot of bestuurder va
 <br>
 In geval van een crisis met een ernstige sociale en economische impact die als dusdanig door de minister is erkend, wordt de termijn van zes maanden, vermeld in het eerste lid, 2°, automatisch verlengd met telkens 3 maanden tot zolang de minister dit niet meer noodzakelijk acht.<br>
 <br>
-De leeftijdsvoorwaarde van 45 jaar, vermeld in het eerste lid, punt 6°, geldt niet voor aanvragen die worden ingediend met ingang van 1 april 2021 tot en met 31 maart 2022.
+De leeftijdsvoorwaarde van 45 jaar, vermeld in het eerste lid, punt 6°, geldt niet voor aanvragen die worden ingediend met ingang van 1 april 2021.
 
 ## HOOFDSTUK 3. Bedrag en looptijd van de transitiepremie
 
