@@ -682,8 +682,6 @@ De IBO-premie bedraagt:<br>
 <br>
 De bedragen van het vervangingsinkomen, vermeld in het tweede lid, worden aangepast aan de spilindex.<br>
 <br>
-De IBO-premie wordt berekend aan de hand van het GGMMI dat van toepassing is op de werknemers die ten minste 20 jaar oud zijn en ten minste 12 maanden anciënniteit hebben in de onderneming die hen tewerkstelt.<br>
-<br>
 § 2. Bij een deeltijdse IBO wordt de IBO-premie berekend volgens de tewerkstellingsbreuk.<br>
 <br>
 § 3. De cursist die een IBO volgt, heeft recht op de vergoedingen, vermeld in artikel 6, § 2, als hij voldoet aan de voorwaarden, vermeld in artikel 6.<br>
@@ -756,8 +754,6 @@ De IBO-premie bedraagt:<br>
 4° 80 % van het GGMMI als de cursist geen inkomen heeft.<br>
 <br>
 De bedragen van het vervangingsinkomen, vermeld in het tweede lid, worden aangepast aan de spilindex.<br>
-<br>
-De IBO-premie wordt berekend aan de hand van het GGMMI dat van toepassing is op de werknemers die ten minste 20 jaar oud zijn en ten minste 12 maanden anciënniteit hebben in de onderneming die hen tewerkstelt.<br>
 <br>
 § 2. Bij een deeltijdse K-IBO wordt de K-IBO-premie berekend volgens de tewerkstellingsbreuk.<br>
 <br>
