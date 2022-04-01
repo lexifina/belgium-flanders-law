@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037088,
+  "title": "Besluit van een ambtenaar van 2022-03-25 (de hoofdstatisticus) tot subdelegatie van sommige beslissingsbevoegdheden aan personeelsleden van de Vlaamse Statistische Autoriteit",
+  "type": "Besluit van een ambtenaar",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037088/VolledigDocument?datum=2022-04-01",
+  "source_sha256": "c370786d438e6cbbd9761f5c5f475b4696ba6e4c73c5179830392dbf80a0681f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037088&param=informatie",
+  "as_of": "2022-04-01",
+  "made": "2022-03-25",
+  "gazette": "2022-05-25",
+  "numac": 2022031597,
+  "document_start": "2022-04-01",
+  "document_end": null,
+  "in_force": "2022-04-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2022-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
