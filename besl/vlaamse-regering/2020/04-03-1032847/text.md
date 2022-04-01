@@ -62,6 +62,15 @@ a) ten minste tweehonderd dagen per jaar open zijn, waarvan tachtig vakantiedage
 b) ten minste tweeduizend overnachtingen voor jeugd realiseren per jaar;<br>
 c) als het om een jeugdverblijfcentrum gaat, per jaar ten minste tien jeugdverenigingen ontvangen.
 
+### ART 1/2.
+
+Bij het toezicht op de werkingsverslagen, vermeld in artikel 10 en 18 van het besluit van 8 maart 2013 betreffende de subsidiëring van hostels, jeugdverblijfcentra, ondersteuningsstructuren en de vzw Algemene Dienst voor Jeugdtoerisme, worden de volgende voorwaarden als behaald beschouwd voor de periode van 1 januari 2022 tot en met 31 december 2022:<br>
+1° ten minste duizend overnachtingen voor jeugd realiseren als vermeld in artikel 12, eerste lid, 5°, van het decreet van 6 juli 2012 houdende subsidiëring van hostels, jeugdverblijfcentra, ondersteuningsstructuren en de vzw Algemene Dienst voor Jeugdtoerisme;<br>
+2° voor centra van het type C of hostels:<br>
+a) ten minste tweehonderd dagen per jaar open zijn, waarvan tachtig vakantiedagen als vermeld in artikel 12, tweede lid, 1°, van het voormelde decreet;<br>
+b) ten minste tweeduizend overnachtingen voor jeugd realiseren per jaar als vermeld in artikel 12, tweede lid, 2°, van het voormelde decreet;<br>
+c) als het om een jeugdverblijfcentrum gaat, per jaar ten minste tien jeugdverenigingen ontvangen als vermeld in artikel 12, tweede lid, 3°, van het voormelde decreet.
+
 ### ART 2.
 
 In het geval de uitbetaling van subsidies in het beleidsveld jeugd gebeurt in meerdere voorschotten en een saldo, zal in afwijking van de termijnen bepaald in decreten en besluiten, in de jaren 2020 en 2021 binnen de perken van de begrotingsartikelen de uitbetaling van deze voorschotten maximaal worden vervroegd.
