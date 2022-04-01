@@ -122,14 +122,15 @@ In artikel 1 van de wet van 10 juni 1952 betreffende de gezondheid en de veiligh
 ### ART. 27.
 
 Voor de toepassing van dit hoofdstuk wordt verstaan onder :<br>
-1° verzorgingsvoorziening : ziekenhuis, revalidatieziekenhuis, woonzorgcentrum, psychiatrisch verzorgingstehuis, initiatief beschut wonen, samenwerkingsverband van psychiatrische instellingen en diensten of een onderdeel van die verzorgingsvoorzieningen;<br>
+1° verzorgingsvoorziening : ziekenhuis, revalidatieziekenhuis,&nbsp;locoregionaal klinisch ziekenhuisnetwerk, woonzorgcentrum, psychiatrisch verzorgingstehuis, initiatief beschut wonen, samenwerkingsverband van psychiatrische instellingen en diensten of een onderdeel van die verzorgingsvoorzieningen;<br>
 2° erkenningsnormen : erkenningsnormen en erkenningsvereisten, ongeacht door welke bevoegde overheid ze zijn bepaald, inclusief de regels die zijn vastgesteld bij of krachtens het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen;<br>
 3° ziekenhuis : een ziekenhuis als vermeld in artikel 2 van de wet op de ziekenhuizen, gecoördineerd op 7 augustus 1987;<br>
 4° woonzorgcentrum met een bijkomende erkenning: een woonzorgcentrum met een bijkomende erkenning als vermeld in artikel 52/1 van het Woonzorgdecreet van 13 maart 2009;<br>
 5° psychiatrisch verzorgingstehuis : een psychiatrisch verzorgingstehuis als vermeld in het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging;<br>
 6° initiatief beschut wonen : een initiatief beschut wonen als vermeld het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging;<br>
 7° samenwerkingsverband van psychiatrische instellingen en diensten : een samenwerkingsverband van psychiatrische instellingen en diensten als vermeld in de regelgeving ter uitvoering van artikel 10 van de wet betreffende de ziekenhuizen en andere verzorgingsinrichtingen, gecoördineerd op 10 juli 2008;<br>
-8° revalidatieziekenhuis: een zorgvoorziening voor gezondheidszorg als vermeld in artikel 5, § 1, I, eerste lid, 3° en 4°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, waarin passende zorg wordt aangeboden aan patiënten van wie de gezondheidstoestand de opname of het verblijf vereisen, met als doel de gezondheidstoestand te herstellen of te verbeteren door de ziekte te bestrijden of de patiënt te revalideren.<br>
+8° revalidatieziekenhuis: een zorgvoorziening voor gezondheidszorg als vermeld in artikel 5, § 1, I, eerste lid, 3° en 4°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, waarin passende zorg wordt aangeboden aan patiënten van wie de gezondheidstoestand de opname of het verblijf vereisen, met als doel de gezondheidstoestand te herstellen of te verbeteren door de ziekte te bestrijden of de patiënt te revalideren;<br>
+9° locoregionaal klinisch ziekenhuisnetwerk: een door de Vlaamse Gemeenschap erkende duurzame en juridisch geformaliseerde samenwerking met rechtspersoonlijkheid tussen minstens twee op het ogenblik van de oprichting van het locoregionale klinische ziekenhuisnetwerk afzonderlijk erkende niet-psychiatrische ziekenhuizen, uitgezonderd ziekenhuizen die enkel beschikken over psychiatrische ziekenhuisdiensten (kenletter A, T of K) samen met gespecialiseerde diensten voor behandeling en revalidatie (kenletter Sp) of een dienst voor geriatrie (kenletter G), die zich binnen een geografisch aansluitend gebied bevinden en die complementair en rationeel locoregionale zorgopdrachten aanbieden. De locoregionale klinische ziekenhuisnetwerken met ziekenhuizen binnen de grootstedelijke gebieden, zoals afgebakend in een gewestelijk ruimtelijk uitvoeringsplan, hoeven niet geografisch aaneensluitend zijn, wat betreft het deel van het netwerk dat binnen dezelfde grootstedelijke gebieden ligt.<br>
 &nbsp;
 
 ## Afdeling II Aanvullende programmatienormen en erkenningsnormen
@@ -162,6 +163,8 @@ De Vlaamse Regering regelt het toezicht op de naleving van de erkenningsnormen d
 De intrekking van erkenning en de weigering van erkenning hebben de sluiting van een verzorgingsvoorziening tot gevolg. De Vlaamse Regering bepaalt de gevolgen van de sluiting.<br>
 <br>
 Met behoud van de toepassing van afdeling IV, kan de Vlaamse Regering de onmiddellijke sluiting van een verzorgingsvoorziening bevelen, als er dringende redenen zijn ter bescherming van de volksgezondheid. De Vlaamse Regering bepaalt de procedure.<br>
+<br>
+Het tweede en derde lid zijn niet van toepassing op een locoregionaal klinisch ziekenhuisnetwerk.<br>
 <br>
 § 4. De Vlaamse Regering bepaalt de procedure voor de erkenning en de intrekking van de erkenning van dagverzorgingscentra met een bijkomende erkenning als vermeld in artikel 52/2 van het Woonzorgdecreet van 13 maart 2009. Ze bepaalt de duur van de erkenning en regelt het toezicht.<br>
 &nbsp;
