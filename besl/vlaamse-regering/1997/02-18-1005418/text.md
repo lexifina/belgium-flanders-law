@@ -27,7 +27,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br>
 
 ### ART. 3.
 
-De aanvraag tot het verkrijgen van een planningsvergunning, uitgaande van de inrichtende macht, moet aangetekend verstuurd worden naar de administratie. Ze moet gemotiveerd zijn en gestaafd door documenten die de aangehaalde motieven ondersteunen.
+De aanvraag tot het verkrijgen van een planningsvergunning, uitgaande van de inrichtende macht, moet aangetekend verstuurd worden naar de administratie. Ze moet gemotiveerd zijn en gestaafd door documenten die de aangehaalde motieven ondersteunen. De minister kan bepalen welke soort aanvragen gemotiveerd moeten worden als passend binnen een geldig regionaal of thematisch zorgstrategisch plan als vermeld in het besluit van de Vlaamse Regering van 26 april 2019 betreffende zorgstrategische planning.
 
 ### ART. 4.
 
