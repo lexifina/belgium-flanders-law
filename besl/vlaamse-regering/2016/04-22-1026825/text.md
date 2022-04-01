@@ -9,12 +9,12 @@
 &nbsp;In dit besluit wordt verstaan onder:<br>
 1° bestuursdecreet: het bestuursdecreet van 7 december 2018;<br>
 2° Interfederaal Instituut voor de Statistiek: de openbare instelling met rechtspersoonlijkheid, opgericht bij artikel 7 van het samenwerkingsakkoord van 15 juli 2014;<br>
-3° minister: de Vlaamse minister, bevoegd voor planning en statistiek;<br>
+3° minister: de Vlaamse minister, bevoegd voor de coördinatie van het Vlaamse openbarestatistiekbeleid en van de ontwikkeling, productie en verspreiding van de Vlaamse openbare statistieken en de kwaliteitszorg ervan;<br>
 4° samenwerkingsakkoord van 15 juli 2014: het samenwerkingsakkoord van 15 juli 2014 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijk Gewest, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie van Brussel-Hoofdstad en de Franse Gemeenschapscommissie betreffende de nadere regels voor de werking van het Interfederaal Instituut voor de statistiek, van de raad van bestuur en de Wetenschappelijke Comités van het Instituut voor de nationale rekeningen.
 
 ### ART. 2.
 
-&nbsp;De dienst van de hoofdstatisticus bij het Departement Kanselarij en Buitenlandse Zaken wordt aangewezen als de Vlaamse statistische autoriteit.
+&nbsp;De dienst van de hoofdstatisticus bij het Departement Kanselarij en Buitenlandse Zaken wordt aangewezen als de Vlaamse Statistische Autoriteit.
 
 ### ART. 3.
 
@@ -22,41 +22,45 @@
 
 <p>De hoofdstatisticus rapporteert rechtstreeks aan de minister.</p>
 
-<p>De hoofdstatisticus vertegenwoordigt het Vlaamse Gewest in het Interfederaal Instituut voor de Statistiek. Ter uitvoering van artikel 15 van het samenwerkingsakkoord van 15 juli 2014 wijst de hoofdstatisticus binnen de Vlaamse statistische autoriteit een waarnemer aan die de Vlaamse Gemeenschap in het Interfederaal Instituut voor de Statistiek zal vertegenwoordigen.</p>
+<p>De hoofdstatisticus vertegenwoordigt het Vlaamse Gewest in het Interfederaal Instituut voor de Statistiek. Ter uitvoering van artikel 15 van het samenwerkingsakkoord van 15 juli 2014 wijst de hoofdstatisticus binnen de Vlaamse Statistische Autoriteit een waarnemer aan die de Vlaamse Gemeenschap in het Interfederaal Instituut voor de Statistiek zal vertegenwoordigen.</p>
 
-<p>§ 2. De hoofdstatisticus stuurt de Vlaamse statistische autoriteit aan bij de uitvoering van de opdrachten, vermeld in artikel III.10 tot en met III.13 van het bestuursdecreet. De hoofdstatisticus zorgt onder meer voor:<br>
+<p>§ 2. De hoofdstatisticus stuurt de Vlaamse Statistische Autoriteit aan bij de uitvoering van de opdrachten, vermeld in artikel III.110 tot en met III.113 van het bestuursdecreet.<br>
+<br>
+De hoofdstatisticus zorgt onder meer voor:<br>
 1° de coördinatie van de opmaak van het statistische programma;<br>
 2° de rapportering over de uitvoering van het statistische programma;<br>
 3° de coördinatie van het kwaliteitsbeleid voor de Vlaamse openbare statistieken;<br>
-4° de activering van de Vlaamse overheidsinstanties bij de voorbereiding en uitvoering van het statistische programma en, in voorkomend geval, bij de naleving van de verplichting, vermeld in artikel III.113, 1°, van het bestuurdecreet;<br>
-5° de activering van natuurlijke personen en rechtspersonen bij de deelname aan statistische onderzoeken en, in voorkomend geval, de naleving van de verplichting, vermeld in artikel III.113, 2°, van het bestuursdecreet;<br>
-6° de coördinatie van de standpuntbepaling voor het Interfederaal Instituut voor de Statistiek en voor internationale statistiekfora;<br>
-7° de samenwerking met andere statistische autoriteiten;<br>
-8° de publicatie van de Vlaamse openbare statistieken.</p>
+4° de activering van de Vlaamse overheidsinstanties bij de voorbereiding en uitvoering van het statistische programma en, in voorkomend geval, bij de naleving van de verplichting, vermeld in artikel III.113, § 2, 1°, van het bestuursdecreet;<br>
+5° de activering van natuurlijke personen en rechtspersonen bij de deelname aan statistische onderzoeken en, in voorkomend geval, de naleving van de verplichting, vermeld in artikel III.113, § 2, 2°, van het bestuursdecreet;<br>
+6° het zelf uitvoeren van statistisch en wetenschappelijk onderzoek ter uitvoering van het statistische programma op basis van steekproefenquêtes, van administratieve registers en van organische data;<br>
+7° het bezorgen van het statistische programma aan het Interfederaal Instituut voor de Statistiek overeenkomstig de afgesproken timing;<br>
+8° de coördinatie van de standpuntbepaling voor het Interfederaal Instituut voor de Statistiek en voor internationale statistiekfora;<br>
+9° de samenwerking met andere statistische autoriteiten;<br>
+10° de publicatie van de Vlaamse openbare statistieken.</p>
 
 ### ART. 4.
 
-<p>§ 1. Er wordt een Raad voor Vlaamse Openbare Statistieken opgericht die, op eigen initiatief of op verzoek van de Vlaamse Regering of van de Vlaamse statistische autoriteit, advies geeft over het statistische programma en het kwaliteitsbeleid met betrekking tot Vlaamse openbare statistieken.<br>
+<p>§ 1. Er wordt een Raad voor Vlaamse Openbare Statistieken opgericht die, op eigen initiatief of op verzoek van de Vlaamse Regering of van de Vlaamse Statistische Autoriteit, advies geeft over het statistische programma, de uitvoering ervan en het kwaliteitsbeleid met betrekking tot Vlaamse openbare statistieken.<br>
 <br>
-§ 2. De Raad voor Vlaamse Openbare Statistieken is samengesteld uit vertegenwoordigers van de gebruikers van Vlaamse openbare statistieken, die benoemd worden door de minister voor een hernieuwbare termijn van vijf jaar. Ze worden als volgt voorgedragen:<br>
+§ 2. De Raad voor Vlaamse Openbare Statistieken is samengesteld uit vertegenwoordigers van de gebruikers van Vlaamse openbare statistieken, die benoemd worden door de minister voor een hernieuwbare termijn van vier&nbsp;jaar. Ze worden als volgt voorgedragen:<br>
 1° vijf leden uit de academische gemeenschap, voor te dragen door VLUHR;<br>
 2° zes leden uit de socio-economische gemeenschap, voor te dragen door SERV;<br>
 3° twee vertegenwoordigers van de lokale besturen en de provincies, voor te dragen door VVSG en VVP;<br>
 4° een vertegenwoordiger, voor te dragen door de Vlaamse Gemeenschapscommissie;<br>
-5° drie leden uit de middenveldorganisaties, voor te dragen door de Verenigde Verenigingen;<br>
-6° vijf vertegenwoordigers van Vlaamse overheidsinstanties, voor te dragen door het Coördinatiecomité voor Vlaamse openbare statistieken.<br>
+5° twee&nbsp;leden uit de middenveldorganisaties, voor te dragen door de Verenigde Verenigingen;<br>
+6° vijf vertegenwoordigers van Vlaamse overheidsinstanties, voor te dragen door het Coördinatiecomité voor Vlaamse Openbare Statistieken.<br>
 <br>
 Voor elk effectief lid wordt door de minister een plaatsvervangend lid benoemd, op voordracht van de organisaties, vermeld in het eerste lid. De plaatsvervangers worden benoemd voor dezelfde termijn als de effectieve leden.<br>
 <br>
 De hoofdstatisticus neemt als waarnemer deel aan de vergaderingen van de Raad voor Vlaamse Openbare Statistieken.<br>
 <br>
-§ 3. De voorzitter wordt gekozen door en uit de leden van de Raad voor Vlaamse Openbare Statistieken. De voorzitter wordt gekozen voor een hernieuwbare termijn van vijf jaar.<br>
+§ 3. De voorzitter wordt gekozen door en uit de leden van de Raad voor Vlaamse Openbare Statistieken. De voorzitter wordt gekozen voor een hernieuwbare termijn van vier&nbsp;jaar.<br>
 <br>
 § 4. Er kunnen thematische werkgroepen worden opgericht binnen de Raad voor Vlaamse Openbare Statistieken. De werkgroepen kunnen deskundigen in statistiek uitnodigen.<br>
 <br>
-§ 5. Het secretariaat wordt waargenomen door de Vlaamse statistische autoriteit.<br>
+§ 5. Het secretariaat wordt waargenomen door de Vlaamse Statistische Autoriteit.<br>
 <br>
-§ 6. De Raad voor Vlaamse openbare statistieken stelt een huishoudelijk reglement op.<br>
+§ 6. De Raad voor Vlaamse Openbare Statistieken stelt een huishoudelijk reglement op.<br>
 <br>
 § 7. De voorzitter, de leden en de plaatsvervangers van de Raad voor Vlaamse Openbare Statistieken en de deskundigen die worden uitgenodigd, kunnen voor elke vergadering van de Raad waaraan ze deelnemen, aanspraak maken op:<br>
 1° een presentiegeld van 30 euro;<br>
@@ -75,21 +79,29 @@ De personeelsleden van de Vlaamse overheid kunnen geen aanspraak maken op het pr
 4° een lid, aangewezen door de VVSG;<br>
 5° een lid, aangewezen door de VVP.</p>
 
-<p>De hoofdstatisticus van het Departement Kanselarij en Buitenlandse Zaken is ambtshalve voorzitter van het coördinatiecomité.</p>
+<p>De hoofdstatisticus van het Departement Kanselarij en Buitenlandse Zaken is ambtshalve voorzitter van het Coördinatiecomité voor Vlaamse Openbare Statistieken.</p>
 
-<p>§ 3. Binnen het coördinatiecomité kunnen thematische werkgroepen worden opgericht. Die kunnen deskundigen in statistiek uitnodigen.</p>
+<p>§ 3. Binnen het Coördinatiecomité voor Vlaamse Openbare Statistieken kunnen thematische werkgroepen worden opgericht. Die kunnen deskundigen in statistiek uitnodigen.</p>
 
-<p>§ 4. Het secretariaat wordt waargenomen door de Vlaamse statistische autoriteit.</p>
+<p>§ 4. Het secretariaat wordt waargenomen door de Vlaamse Statistische Autoriteit.</p>
 
-<p>§ 5. Het coördinatiecomité stelt een huishoudelijk reglement op.</p>
+<p>§ 5. Het Coördinatiecomité voor Vlaamse Openbare Statistieken stelt een huishoudelijk reglement op.</p>
 
 ### ART. 6.
 
-<P>§   1. De Vlaamse statistische autoriteit bereidt jaarlijks, in overleg met het   Coördinatiecomité voor Vlaamse Openbare Statistieken, en overeenkomstig de   timing die afgesproken is in het Interfederaal Instituut voor de Statistiek, het   statistische programma voor en legt dat ter goedkeuring voor aan de Vlaamse   Regering.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Dat   programma bevat een overzicht van statistieken die relevant en nodig zijn voor   het openbaar beleid in Vlaanderen, de informatiebehoeften van het Interfederaal   Instituut voor de Statistiek en internationale verplichtingen. Daarbij wordt   vermeld welke statistieken nieuw, te verbeteren of af te schaffen zijn, met de   bijbehorende acties, timing, inzet van middelen, alsook de mogelijke   samenwerking tussen Vlaamse overheidsinstanties of met andere statistische   autoriteiten.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   programma heeft een voortrollend karakter met doorkijk naar volgende jaren en   evaluatie van vorige programma's.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   programma bevat afspraken over de kwaliteitsmonitoring die door de Vlaamse   statistische autoriteit zal worden uitgevoerd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Het statistische programma wordt ter advies voorgelegd aan de Raad voor   Vlaamse Openbare Statistieken, die advies verstrekt binnen een termijn van   dertig dagen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   Vlaamse statistische autoriteit geeft duiding en toelichting aan de Raad voor   Vlaamse Openbare Statistieken over het gevolg dat aan het advies, vermeld in het   eerste lid, gegeven is.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. De Vlaamse Statistische Autoriteit bereidt bij de start van elke regeerperiode, in overleg met het Coördinatiecomité voor Vlaamse Openbare Statistieken, het statistische programma voor de volgende vijf jaar voor en legt dat ter goedkeuring voor aan de Vlaamse Regering. Uiterlijk 10 maanden na haar eedaflegging keurt de Vlaamse Regering het statistische programma goed.<br>
+<br>
+Het statistische programma bevat een overzicht van statistieken die relevant en nodig zijn voor het openbaar beleid in Vlaanderen, met inbegrip van de informatiebehoeften zoals geadviseerd door de Raad voor Vlaamse Openbare Statistieken, voor het Interfederaal Instituut voor de Statistiek en om de internationale verplichtingen na te komen. In het statistische programma wordt vermeld welke statistieken nieuw, te verbeteren of af te schaffen zijn.<br>
+<br>
+Het statistische programma bevat een evaluatie van het vorige programma en afspraken over de kwaliteitsmonitoring die door de Vlaamse Statistische Autoriteit zal worden uitgevoerd.<br>
+<br>
+§ 2. Het statistische programma wordt ter advies voorgelegd aan de Raad voor Vlaamse Openbare Statistieken, die advies verstrekt binnen dertig dagen.<br>
+<br>
+De Vlaamse Statistische Autoriteit geeft, in overleg met het Coördinatiecomité voor Vlaamse Openbare Statistieken, duiding en toelichting aan de Raad voor Vlaamse Openbare Statistieken over het gevolg dat aan het advies, vermeld in het eerste lid, gegeven is.</p>
 
 ### ART. 7.
 
-&nbsp;De Vlaamse statistische autoriteit   volgt de uitvoering van het statistische programma op samen met het   Coördinatiecomité voor Vlaamse openbare statistieken en brengt jaarlijks verslag   uit aan de Vlaamse Regering.
+De Vlaamse Statistische Autoriteit volgt de uitvoering van het statistische programma op samen met het Coördinatiecomité voor Vlaamse Openbare Statistieken en brengt minimum driejaarlijks verslag uit aan de Vlaamse Regering.
 
 ### ART. 8.
 
