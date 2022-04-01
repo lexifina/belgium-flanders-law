@@ -1951,6 +1951,10 @@ De beheerder van een privédistributienet heeft geen openbare dienstverplichting
 
 ## [HOOFDSTUK VII/1. De aanleg en het beheer van een netwerk om propaan of butaan via leidingen te distribueren en leveren (ing. Decr. 18 maart 2022, art. 16, I: 9 april 2022)]
 
+### ART 4.7/1.1.
+
+De aanleg van een geheel van onderling verbonden leidingen en de daarmee verbonden hulpmiddelen om propaan of butaan te distribueren en te leveren aan eindafnemers is niet toegelaten in de gebieden die onder de toepassing vallen van de verplichtingen, vermeld in artikel 4.1.16/1 en 4.1.16/2.
+
 ## [HOOFDSTUK VIII. Energiegemeenschap van burgers en hernieuwbare-energiegemeenschap (ing. decr. 2 april 2021, art. 55, I: 7 juni 2021)]
 
 ### ART 4.8.1.
