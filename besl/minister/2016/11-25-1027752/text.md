@@ -291,7 +291,18 @@ f) een diploma van master of Science in de logopedische en audiologische wetensc
 "1.10 kwalificatiebewijzen via een beroepskwalificerend traject dat erkend is via het gemeenschappelijk kwaliteitskader: een bewijs van beroepskwalificatie "kinderbegeleider baby's en peuters" niveau 4 van de Vlaamse kwalificatiestructuur en niveau 4 van het Europese kwalificatiekader;<br>
 1.11 een diploma van het ondernemerschapstraject kinderbegeleider baby's en peuters, tot en met 31 december 2021 uitgereikt door SYNTRA Vlaanderen of, vanaf 1 januari 2021, door het Agentschap Innoveren en Ondernemen (VLAIO).".<br>
 5°&nbsp; punt 3.1 wordt vervangen als volgt:<br>
-"3.1 een kwalificatiebewijs als vermeld in punt 1.1 tot en met 1.11.".
+"3.1 een kwalificatiebewijs als vermeld in punt 1.1 tot en met 1.11.".<br>
+<br>
+*Met ingang van 1 april 2022 worden de volgende wijzigingen aangebracht:<br>
+1° punt 1.7 wordt vervangen door wat volgt:&nbsp;<br>
+“1.7 van een bachelor of van het hoger onderwijs van één cyclus:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;een diploma op het niveau van een bachelor;<br>
+b)&nbsp;&nbsp; &nbsp;een attest dat bevestigt dat voor minstens 120 studiepunten een creditbewijs behaald is, inclusief vrijstellingen, of dat het eerste en tweede studiejaar, inclusief vrijstellingen, met vrucht zijn voltooid, van een van de volgende studierichtingen:<br>
+1)&nbsp;&nbsp; &nbsp;Pedagogie van het Jonge Kind, Kleuteronderwijs, Lager Onderwijs, Secundair Onderwijs, Gezinswetenschappen, Maatschappelijke Veiligheid, Orthopedagogie, Sociaal Werk, Sociale Readaptatiewetenschappen, Toegepaste Psychologie, Verpleegkunde, Vroedkunde van het studiegebied Psychologie en Pedagogische Wetenschappen;<br>
+2)&nbsp;&nbsp; &nbsp;Ergotherapie, Revalidatiewetenschappen en Kinesitherapie of Audiologie en Logopedie;”;<br>
+2° punt 2.1 wordt vervangen door wat volgt:<br>
+“2.1 een kwalificatiebewijs, als vermeld in punt 1.7, a).” (Zie MB 18 november 2022, B.S. 19 januari 2023, art. 1, I: 1 april 2022)..<br>
+&nbsp;
 
 ## BIJLAGE 4
 

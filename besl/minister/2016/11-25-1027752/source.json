@@ -2,16 +2,16 @@
   "codex_id": 1027752,
   "title": "Ministerieel besluit van 2016-11-25 tot uitvoering van het Vergunningsbesluit van 22 november 2013",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027752/VolledigDocument?datum=2021-09-27",
-  "source_sha256": "7d9cf6effb9cdc82d1a1a965b2486f6870fcad7e9381cf2b9c75db472c4d8fea",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027752/VolledigDocument?datum=2022-04-01",
+  "source_sha256": "dbc96d9621ce6a9e53cef66094c2ae2c0b2151eb8ed6b6bb1af565d47149e6bb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027752&param=informatie",
-  "as_of": "2021-09-27",
+  "as_of": "2022-04-01",
   "made": "2016-11-25",
   "gazette": "2017-01-18",
   "numac": 2017030070,
   "document_start": "2017-01-28",
   "document_end": null,
-  "in_force": "2021-09-27",
+  "in_force": "2022-04-01",
   "article_versions": 33,
-  "record_form": "consolidated version as in force on 2021-09-27; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-04-01; future article versions excluded; article text as the API gives it"
 }
