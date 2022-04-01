@@ -87,7 +87,7 @@ In de periode van 1 januari 2022 tot en met 31 december 2022 is het verboden:<br
 1° te vissen in het ICES-gebied IIIa, zijnde Skagerrak;<br>
 2° te vissen in het ICES-gebied VIa, zijnde West van Schotland;<br>
 3° haring te vissen in de ICES-gebieden I, II;<br>
-4° de visserij te beoefenen met een vissersvaartuig van het KVS in de ICES-gebieden VIIh, j, k. In de periode van 1 januari tot en met 31 maart 2022 geldt dit verbod ook voor vaartuigen behorende tot het GVS, met uitzondering voor vaartuigen die deelnemen aan wetenschappelijke zeereizen gericht op tong;<br>
+4° de visserij te beoefenen met een vissersvaartuig van het KVS in de ICES-gebieden VIIh, j, k. In de periode van 1 januari tot en met 30 april 2022 geldt dit verbod ook voor vaartuigen behorende tot het GVS, met uitzondering voor vaartuigen die deelnemen aan wetenschappelijke zeereizen gericht op tong;<br>
 5° de spanvisserij op kabeljauw te beoefenen;<br>
 6° uitgerust te zijn of te vissen met vistuig TR3 dat niet permanent voorzien is van een zeeflap;<br>
 7° gericht te vissen op zeebaars met staand tuig met een maaswijdte kleiner dan 120 mm;<br>
@@ -248,6 +248,16 @@ In afwijking van het eerste lid is het vanaf 1 februari 2022 tot 31 oktober 2022
 <br>
 Om aan de lijst, vermeld in het tweede lid, toegevoegd te kunnen worden, richten de eigenaars van vissersvaartuigen tegen uiterlijk 6 januari 2022, 12.00 uur, met een aangetekende brief of per e-mail een aanvraag tot de bevoegde entiteit.<br>
 <br>
+Behoudens herziening door de bevoegde entiteit bedraagt de toegewezen hoeveelheid tong VIIf, g voor de periode 1 februari 2022 tot en met 31 oktober 2022, 4600 kg per vaartuig dat op de lijst, vermeld in het tweede lid, wordt opgenomen.<br>
+<br>
+Bij overschrijding van de hoeveelheden tong, vermeld in het vierde lid, worden de door dat vissersvaartuig overschreden hoeveelheden tong in tweevoud in mindering gebracht op de hoeveelheid tong die aan het vissersvaartuig wordt toegekend voor 2023.<br>
+<br>
+Het verkrijgen van een `Vismachtiging Bristolkanaal' houdt het engagement voor de reder en kapitein in om, behoudens overmacht, het toegewezen quotum op te vissen.<br>
+<br>
+Bij het niet opvissen van minstens 80% van het toegewezen quotum wordt het niet-opgevist quotum in mindering gebracht op het tongquotum van het betrokken vaartuig. De afhouding wordt toegepast op huidige jaar of het daarop volgende jaar.<br>
+<br>
+Het betrokken vaartuig wordt, indien het geen quotum heeft opgevist, behoudens overmacht, voor een periode van 3 jaar uitgesloten van de mogelijkheid om nog een aanvraag voor een specifieke visvergunning in te dienen.<br>
+<br>
 § 3. Van 1 januari 2022 tot en met 30 juni 2022 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 9 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.
 
 ## Afdeling 4. Kabeljauw westelijke wateren - ICES-gebieden VIIb, c, VIIe-k, VIII
@@ -302,6 +312,10 @@ In het ICES-gebied VIId is voor een vissersvaartuig van het KVS verboden bij de 
 <br>
 In het ICES-gebied VIId is voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
 <br>
+Bij gecombineerde zeereizen in ICES-gebieden VIId en VIIe is het voor een vissersvaartuig van het KVS in ICES-gebied VIId verboden een hoeveelheid tong te overschrijden van 150kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in dat gebied.<br>
+<br>
+Bij gecombineerde zeereizen in ICES-gebieden VIId en VIIe is het voor een vissersvaartuig van het GVS in ICES-gebied VIId verboden een hoeveelheid tong te overschrijden van 300 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in dat gebied.<br>
+<br>
 Het is voor een vissersvaartuig van het KVS, die gemengde zeereizen in de ICES-gebieden VIId, II en IV maakt, verboden bij de tongvangst in de ICES-gebieden II, IV per zeereis een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de ICES-gebieden II, IV.<br>
 <br>
 Het is voor een vissersvaartuig van het GVS, die gemengde zeereizen in de ICES-gebieden VIId, II, en IV maakt, verboden bij de tongvangst in de ICES-gebieden II, IV per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de ICES-gebieden II, IV.<br>
@@ -322,7 +336,7 @@ Ingeval van gemengde visreizen met aanwezigheid in de ICES-gebieden VIIe en VIIf
 
 ### ART 21.
 
-De tongvangst in ICES-gebieden VIIh, j, k is verboden in de periode van 1 januari 2022 tot en met 31 maart 2022, behalve voor wetenschappelijke zeereizen.<br>
+De tongvangst in ICES-gebieden VIIh, j, k is verboden in de periode van 1 januari 2022 tot en met 30 april 2022, behalve voor wetenschappelijke zeereizen.<br>
 <br>
 Er wordt een wetenschappelijk tongquotum voorbehouden van 6 ton, verdeeld over telkens één visreis per kwartaal a rato van maximaal 1500 kg tong.<br>
 <br>
@@ -404,13 +418,19 @@ Het is in de ICES-gebieden VIIa-c, e-k voor een vissersvaartuig van het GVS verb
 <br>
 Het totale makreelquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, dat gereserveerd is voor de vissersvaartuigen die volgens de Officiële lijst der Belgische zeeschepen 2022 uitsluitend uitgerust zijn met de zegen en die per zeereis minder dan 10 kg Noordzeetong aanlanden, bedraagt 160 ton. Zolang dat quotum niet is opgebruikt, geldt de beperking, vermeld in het eerste lid, niet.<br>
 <br>
+Het totale beschikbare makreelquotum in ICES-gebieden VII en VIIIab bedraagt 60 ton.<br>
+<br>
+Het is voor een vissersvaartuig verboden bij makreelvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis.<br>
+<br>
+Voor vaartuigen die uitsluitend uitgerust zijn met de zegen is het verboden per zeereis een hoeveelheid te overschrijden die gelijk is aan 1000 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis. Van zodra 80% van het quotum is opgevist, valt de hoeveelheid terug naar 250kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis<br>
+<br>
 § 2. In de periode van 1 januari 2022 tot en met 31 januari 2022 is het in de ICES-gebieden IV en VIId, zijnde Noordzee en Oostelijk Engels Kanaal, voor een vissersvaartuig verboden bij de haringvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 800 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis. Vanaf 1 februari 2022 wordt deze hoeveelheid verminderd tot 400 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis.<br>
 <br>
 § 3. Het is voor een vissersvaartuig verboden bij de heekvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis.<br>
 <br>
-§ 4. Het is in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de vangsten van tongschar en witje per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+§ 4. Het is in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de vangsten van tongschar en witje per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-Het is in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de vangsten van tongschar en witje per zeereis een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+Het is in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de vangsten van tongschar en witje per zeereis een hoeveelheid te overschrijden die gelijk is aan 800 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 § 5. Het is in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 250 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
@@ -456,9 +476,7 @@ Het is in de ICES-gebieden VII, VIII voor een vissersvaartuig van het GVS verbod
 <br>
 De beperkingen, vermeld in het eerste lid, zijn niet van toepassing zolang geen 60% van het quotum in kwestie, inclusief quotaruilen, is opgebruikt.<br>
 <br>
-§ 14. Het is in de ICES-gebieden IVb-c en VIId, voor een vissersvaartuig verboden bij de horsmakreelvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
-<br>
-De beperkingen, vermeld in het eerste lid, zijn niet van toepassing zolang geen 60% van het quotum in kwestie, inclusief quotaruilen, is opgebruikt.
+§ 14. Het is in de ICES-gebieden IVb-c en VIId, voor een vissersvaartuig verboden bij de horsmakreelvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.
 
 ## HOOFDSTUK 3. Inruilen van dagen
 
