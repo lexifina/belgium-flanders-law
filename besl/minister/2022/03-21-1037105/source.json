@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037105,
+  "title": "Ministerieel besluit van 2022-03-21 tot bepaling van de samenstelling en de werking van de beroepscommissie maatschappelijke oriëntatie en tot wijziging van het ministerieel besluit van 3 juli 2018 betreffende de samenstelling en de werking van de beroepscommissie taaltesten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037105/VolledigDocument?datum=2022-04-01",
+  "source_sha256": "98848b5c98de85dcd47795481fe646e9acbfcd6857cda8d4845a242c40de1a84",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037105&param=informatie",
+  "as_of": "2022-04-01",
+  "made": "2022-03-21",
+  "gazette": "2022-05-31",
+  "numac": 2022040703,
+  "document_start": "2022-04-01",
+  "document_end": null,
+  "in_force": "2022-04-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2022-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
