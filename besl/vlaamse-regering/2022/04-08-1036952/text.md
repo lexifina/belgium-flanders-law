@@ -38,6 +38,19 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## HOOFDSTUK 1. Definities
 
+### ART 1.
+
+In dit besluit wordt verstaan onder:<br>
+1° agentschap: het intern verzelfstandigd agentschap, opgericht bij het besluit van de Vlaamse Regering van 28 oktober 2005 tot oprichting van het intern verzelfstandigd agentschap "Agentschap Binnenlands Bestuur";<br>
+2° duurzame slaapplek: een slaapplek die door het lokaal bestuur als dusdanig wordt beoordeeld in de Vlaamse huisvestingstool;<br>
+3° lokaal bestuur: een gemeente of openbaar centrum voor maatschappelijk welzijn van het Vlaamse Gewest;<br>
+4° mobiele woonunit: een mobiele woonunit als vermeld in artikel 2, 1°, van het decreet van 18 maart 2022 tot regeling van de tijdelijke huisvesting van gezinnen of alleenstaanden die dakloos zijn of dreigen te worden naar aanleiding van de oorlog in Oekraïne;<br>
+5° opvangplaats: een gebouw of een geheel van een of meer mobiele woonunits waarin naast een of meer slaapplekken ook minimaal een of meer toiletten, baden of douches en een kookgelegenheid aanwezig zijn of waarbij die faciliteiten aanwezig zijn in de gemeenschappelijke voorzieningen aansluitend aan het gebouw;<br>
+6° slaapplek: een slaapgelegenheid voor een persoon;<br>
+7° tijdelijk ontheemden uit Oekraïne: tijdelijk ontheemden uit Oekraïne als vermeld in artikel 2, 4°, van het decreet van 18 maart 2022 tot regeling van de tijdelijke huisvesting van gezinnen of alleenstaanden die dakloos zijn of dreigen te worden naar aanleiding van de oorlog in Oekraïne;<br>
+8° Vlaamse huisvestingstool: een tool die door de Vlaamse overheid is opgezet en die maatschappelijke organisaties en lokale besturen kunnen gebruiken om duurzame slaapplekken aan te bieden.<br>
+9° Rijksregister: het Rijksregister, vermeld in artikel 1, § 1, van de wet van 8 augustus 1983 tot regeling van een rijksregister van de natuurlijke personen.
+
 ## [HOOFDSTUK 1/1. Subsidiëring van de begeleiding van de ontheemden (ing. BVR 29 juni 2022, art. 2, I: 14 maart 2022)]
 
 ### ART 1/1.
@@ -157,12 +170,123 @@ Als de laatste dag van de aaneensluitende beschikbaarheidsperiode valt na 31 aug
 
 ## HOOFDSTUK 4. [Subsidiëring nooddorpen (verv. BVR 29 juni 2022, art. 11, I: 8 april 2022)]
 
+### ART 7.
+
+De stad Antwerpen, de stad Mechelen, de stad Gent en een gemeente te bepalen door de Vlaamse Regering komen in aanmerking voor een subsidie van het Vlaamse Gewest voor de opbouw van een nooddorp voor de opvang van tijdelijk ontheemden uit Oekraïne.<br>
+<br>
+De gemeenten, vermeld in het eerste lid,&nbsp;komen in aanmerking voor de subsidie, vermeld in het eerste lid, als al de volgende voorwaarden vervuld zijn:<br>
+1° de slaapplekken in het nooddorp zijn geregistreerd en gevalideerd in de Vlaamse huisvestingstool;<br>
+2° de slaapplekken zijn veilig, gezond en menswaardig;<br>
+3° ...<br>
+<br>
+De volgende reële kosten komen in aanmerking voor de subsidie:<br>
+1° de huurprijs van mobiele units, inclusief plaatsings- en verwijderingskosten;<br>
+2° de inrichtingskosten, onder meer meubilair en sanitaire voorzieningen;<br>
+3° de kosten die betrekking hebben op de veiligheid: onder meer verzekeringen, brandblussers en rookmelders;<br>
+4° de kosten voor het beheer en de uitbating van het nooddorp, onder meer energiekosten;<br>
+5° de kosten die betrekking hebben op de voorbereiding van het terrein en de aansluiting op nutsvoorzieningen.<br>
+<br>
+Per slaapplek in het nooddorp komt het lokaal bestuur ook in aanmerking voor een eenmalige forfaitaire subsidie van 400 euro.<br>
+<br>
+Als een slaapplek in het nooddorp wordt toegewezen aan een tijdelijk ontheemde uit Oekraïne, wordt de terugbetaling van de kosten, vermeld in het derde lid, verminderd met een forfaitair bedrag van 5,90 euro per slaapplek per dag.
+
 ## HOOFDSTUK 5. Aanvraag, controle en uitbetaling van de subsidie
+
+### ART 8.
+
+Als het lokaal bestuur de nodige registraties en validaties doet in de Vlaamse huisvestingstool, kan de gemeente de forfaitaire subsidies, vermeld in artikel 3, 4, eerste lid, artikel 4/1, 4/2 en artikel 6 ontvangen.<br>
+<br>
+De subsidies, vermeld in het eerste lid, en de subsidie vermeld in artikel 1/1 worden toegekend als forfaits. Er wordt voor de voormelde subsidies geen kostenrapportering gevraagd.<br>
+<br>
+De subsidies, vermeld in dit besluit, worden gestort op de rekening van de gemeente waarop het laatste aandeel van het gemeentefonds werd gestort.
+
+### ART 9.
+
+Om de subsidies voor de reëel gemaakte kosten, vermeld in artikel 4, tweede lid, en artikel 7, derde lid, te kunnen ontvangen, vraagt het lokaal bestuur via het Loket voor Lokale Besturen bij het agentschap de terugbetaling van de reële kosten aan. In die aanvraag deelt het lokaal bestuur de volgende informatie mee en bezorgt het de volgende bewijsstukken:<br>
+1° de identificatiegegevens van het lokaal bestuur;<br>
+2° de identificatiegegevens van iedere publieke slaapplek als vermeld in artikel 3, tweede lid, waarvoor opknapwerken nodig zijn, met de bijbehorende facturen voor die opknapwerken;<br>
+3° de gedetailleerde facturen of andere bewijsstukken van de uitgevoerde werken of verleende diensten voor de opbouw van de nooddorpen, vermeld in artikel 7, derde lid.<br>
+<br>
+In het eerste lid wordt verstaan onder Loket voor Lokale Besturen: een online toepassing van het agentschap voor gegevensdeling tussen de lokale besturen en het agentschap.<br>
+<br>
+Het bedrag op de facturen, vermeld in het eerste lid, wordt, in voorkomend geval, verhoogd met de niet-aftrekbare btw die via verlegging van heffing conform artikel 20 van het koninklijk besluit nr. 1 van 29 december 1992 met betrekking tot de regeling voor de voldoening van de belasting over de toegevoegde waarde, ten laste is van het lokaal bestuur.
+
+### ART 10.
+
+Het agentschap berekent de forfaitaire subsidies vermeld in artikel 1/1. Het agentschap berekent de forfaitaire subsidie vermeld in artikel 3, 4, eerste lid, artikel 4/1, 4/2 en artikel 6 op basis van de geregistreerde en gevalideerde gegevens in de Vlaamse huisvestingstool, vermeld in artikel 8.<br>
+<br>
+Het agentschap Facilitair Bedrijf controleert de ingediende facturen of bewijsstukken, vermeld in artikel 9, eerste lid, 2° en 3°, en berekent het bedrag van de subsidie voor de reële kosten, vermeld in artikel 4, tweede lid, en artikel 7, derde lid.<br>
+<br>
+In het tweede lid wordt verstaan onder het agentschap Facilitair Bedrijf: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid dat is opgericht bij het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het intern verzelfstandigd agentschap "agentschap Facilitair Bedrijf".
+
+### ART 11.
+
+Als het lokaal bestuur voldoet aan de voorwaarden om de forfaitaire subsidies en de subsidies voor de reëel gemaakte kosten, vermeld in dit besluit, te ontvangen, betaalt het agentschap een eerste keer het vastgestelde subsidiebedrag uiterlijk op 31 december 2022, op basis van de informatie waarover het beschikt op 31 augustus 2022.<br>
+<br>
+Uiterlijk op 31 maart 2023 betaalt het agentschap een tweede keer het vastgestelde subsidiebedrag, op basis van de informatie waarover het beschikt op 31 december 2022.
+
+### ART 12.
+
+Activiteiten waarvoor subsidies worden ontvangen met toepassing van andere regelingen van de Vlaamse Gemeenschap, het Vlaamse Gewest of andere overheden, komen niet in aanmerking voor de toekenning van de subsidie op grond van dit besluit als dat ertoe leidt dat dezelfde uitgaven voor die activiteit dubbel worden gesubsidieerd.
+
+### ART 13.
+
+De subsidie wordt verminderd of teruggevorderd als het lokaal bestuur de bepalingen van dit besluit niet naleeft.
+
+### ART 14.
+
+De subsidies, vermeld in dit besluit, worden aangerekend op het begrotingsartikel SJ0-1SMC2GA-WT.
 
 ## HOOFDSTUK 6. Wijzigingsbepalingen
 
 ## Afdeling 1. Wijzigingen van het besluit van de Vlaamse Regering van 18 maart 2022 tot regeling van de tijdelijke huisvesting van gezinnen of alleenstaanden die dakloos zijn of dreigen te worden naar aanleiding van de oorlog in Oekraïne
 
+### ART 15.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 18 maart 2022 tot regeling van de tijdelijke huisvesting van gezinnen of alleenstaanden die dakloos zijn of dreigen te worden naar aanleiding van de oorlog in Oekraïne wordt een punt 6° /1 ingevoegd, dat luidt als volgt:<br>
+"6° /1 Vlaamse huisvestingstool: de tool, vermeld in artikel 1, eerste lid, 8°, van het besluit van de Vlaamse Regering van 8 april 2022 tot toekenning van een subsidie aan lokale besturen voor de opbouw van opvangcapaciteit voor tijdelijk ontheemden uit Oekraïne, tot wijziging van diverse besluiten van de Vlaamse Regering en tot intrekking van het besluit van de Vlaamse Regering van 14 maart 2022 tot toekenning van een subsidie aan lokale besturen voor het creëren van bijkomende opvangplaatsen voor de tijdelijk ontheemden uit Oekraïne;".
+
+### ART 16.
+
+In artikel 2 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, tweede lid, wordt de zinsnede "als de sociale huisvestingsmaatschappij, de woonmaatschappij of het VWF een overeenkomst sluit met de gemeente waarin de woning ligt, in functie van de verantwoordelijkheid die de gemeente heeft in de organisatie van de opvang van de tijdelijk ontheemden uit Oekraïne" vervangen door de zinsnede "als de sociale huurwoning, vermeld in het eerste lid, geregistreerd en gevalideerd is in de Vlaamse huisvestingstool";<br>
+2° in paragraaf 2, tweede lid, wordt punt 1° vervangen door wat volgt:<br>
+"1° de woning of de kamer in de collectieve voorziening, vermeld in het eerste lid, is geregistreerd en gevalideerd in de Vlaamse huisvestingstool;";<br>
+3° in paragraaf 3, eerste lid, wordt punt 1° vervangen door wat volgt:<br>
+"1° een bewijs dat de sociale huurwoning, vermeld in paragraaf 1, eerste lid, de woning of de kamer in de collectieve voorziening, vermeld in paragraaf 2, eerste lid, zijn geregistreerd en gevalideerd in de Vlaamse huisvestingstool;".
+
+### ART 17.
+
+In artikel 3, § 1, eerste lid, van hetzelfde besluit worden de woorden "als er een overeenkomst over de terbeschikkingstelling van de mobiele woonunits aan tijdelijk ontheemden uit Oekraïne tussen de sociale huisvestingsmaatschappij of de woonmaatschappij en de gemeente waarin de mobiele woonunit wordt geplaatst is" vervangen door de zinsnede "als de mobiele woonunit geregistreerd en gevalideerd is in de Vlaamse huisvestingstool".
+
+### ART 18.
+
+In artikel 7 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 25 maart 2022, wordt tussen de zinsnede "woonmaatschappij," en de woorden "een sociaal verhuurkantoor" de zinsnede "een leegstandsbeheerder als vermeld in artikel 6.74, § 1, eerste lid, 3°, van het Besluit Vlaamse Codex Wonen van 2021," ingevoegd.
+
 ## Afdeling 2. Wijziging van het besluit van de Vlaamse Regering van 25 maart 2022 tot bepaling van de huurprijs voor de tijdelijke huisvesting van gezinnen of alleenstaanden die dakloos zijn of dreigen te worden naar aanleiding van de oorlog in Oekraïne, tot wijziging van het besluit van de Vlaamse Regering van 18 maart 2022 tot regeling van de tijdelijke huisvesting van gezinnen of alleenstaanden die dakloos zijn of dreigen te worden naar aanleiding van de oorlog in Oekraïne en tot opheffing van besluit van de Vlaamse Regering van 14 maart 2022 tot regeling van de tijdelijke huisvesting van gezinnen of alleenstaanden die dakloos zijn of dreigen te worden naar aanleiding van de oorlog in Oekraïne
 
+### ART 19.
+
+In artikel 3 van het besluit van de Vlaamse Regering van 25 maart 2022 tot bepaling van de huurprijs voor de tijdelijke huisvesting van gezinnen of alleenstaanden die dakloos zijn of dreigen te worden naar aanleiding van de oorlog in Oekraïne, tot wijziging van het besluit van de Vlaamse Regering van 18 maart 2022 tot regeling van de tijdelijke huisvesting van gezinnen of alleenstaanden die dakloos zijn of dreigen te worden naar aanleiding van de oorlog in Oekraïne en tot opheffing van besluit van de Vlaamse Regering van 14 maart 2022 tot regeling van de tijdelijke huisvesting van gezinnen of alleenstaanden die dakloos zijn of dreigen te worden naar aanleiding van de oorlog in Oekraïne wordt het bedrag "954 euro" vervangen door het bedrag "959 euro".
+
 ## HOOFDSTUK 7. Slotbepalingen
+
+### ART 20.
+
+Als een sociale huisvestingsmaatschappij, sociaal verhuurkantoor of het Vlaams Woningfonds in aanmerking komt voor een subsidie voor reële kosten als vermeld in artikel 2, § 1, en § 2, van het besluit van de Vlaamse Regering van 18 maart 2022 tot regeling van de tijdelijke huisvesting van gezinnen of alleenstaanden die dakloos zijn of dreigen te worden naar aanleiding van de oorlog in Oekraïne, gelden voor de werken om de sociale huurwoning, de woning of de kamer in de collectieve voorziening, minstens te doen beantwoorden aan de vereisten en normen, vermeld in artikel 8 van het voormelde besluit, uitsluitend de bepalingen van het voormelde besluit.
+
+### ART 21.
+
+Het besluit van de Vlaamse Regering van 14 maart 2022 tot toekenning van een subsidie aan lokale besturen voor het creëren van bijkomende opvangplaatsen voor de tijdelijk ontheemden uit Oekraïne, wordt ingetrokken.
+
+### ART 22.
+
+Dit besluit treedt in werking op 8 april 2022.<br>
+<br>
+Artikel 2 tot en met 6 hebben uitwerking met ingang van 14 maart 2022.<br>
+<br>
+Dit besluit houdt op uitwerking te hebben op 31 december 2022.
+
+### ART 23.
+
+De Vlaamse minister, bevoegd voor het facilitair management, de Vlaamse minister, bevoegd voor het binnenlands bestuur en het stedenbeleid, en de Vlaamse minister, bevoegd voor het woonbeleid, zijn, ieder wat hem betreft, belast met de uitvoering van dit besluit.
