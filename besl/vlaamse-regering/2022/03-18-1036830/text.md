@@ -33,6 +33,7 @@ In dit besluit wordt verstaan onder:<br>
 4° sociaal verhuurkantoor: het sociaal verhuurkantoor, vermeld in artikel 2, 2°, van het decreet van 18 maart 2022;<br>
 5° sociale huisvestingsmaatschappij: een sociale huisvestingsmaatschappij als vermeld in artikel 2, 3°, van het decreet van 18 maart 2022;<br>
 6° tijdelijk ontheemden uit Oekraïne: tijdelijk ontheemden uit Oekraïne als vermeld in artikel 2, 4°, van het decreet van 18 maart 2022;<br>
+6° /1 Vlaamse huisvestingstool: de tool, vermeld in artikel 1, eerste lid, 8°, van het besluit van de Vlaamse Regering van 8 april 2022 tot toekenning van een subsidie aan lokale besturen voor de opbouw van opvangcapaciteit voor tijdelijk ontheemden uit Oekraïne, tot wijziging van diverse besluiten van de Vlaamse Regering en tot intrekking van het besluit van de Vlaamse Regering van 14 maart 2022 tot toekenning van een subsidie aan lokale besturen voor het creëren van bijkomende opvangplaatsen voor de tijdelijk ontheemden uit Oekraïne;<br>
 7° VWF: het Vlaams Woningfonds, vermeld in artikel 4.60 van de Vlaamse Codex Wonen van 2021;<br>
 8° VMSW: de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 4.7 van de Vlaamse Codex Wonen van 2021;<br>
 9° woonmaatschappij: een woonmaatschappij als vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021;<br>
@@ -42,7 +43,7 @@ In dit besluit wordt verstaan onder:<br>
 
 § 1. Als een sociale huisvestingsmaatschappij, een woonmaatschappij of het VWF met toepassing van artikel 6.74 van het Besluit Vlaamse Codex Wonen van 2021 sociale huurwoningen die leegstaan in afwachting van renovatie, sloop of verkoop, zelf of via een leegstandsbeheerder als vermeld in artikel 6.74, § 1, eerste lid, 3°, van het voormelde besluit, verhuurt aan tijdelijk ontheemden uit Oekraïne, komt ze binnen de perken van de kredieten die daarvoor op de begroting van het Vlaamse Gewest beschikbaar zijn, in aanmerking voor de terugbetaling van de reële kosten om de sociale huurwoning minstens te doen beantwoorden aan de vereisten en normen, vermeld in artikel 8 van dit besluit.<br>
 <br>
-De sociale huisvestingsmaatschappij, de woonmaatschappij of het VWF komt in aanmerking voor de terugbetaling, vermeld in het eerste lid, als de sociale huisvestingsmaatschappij, de woonmaatschappij of het VWF een overeenkomst sluit met de gemeente waarin de woning ligt, in functie van de verantwoordelijkheid die de gemeente heeft in de organisatie van de opvang van de tijdelijk ontheemden uit Oekraïne.<br>
+De sociale huisvestingsmaatschappij, de woonmaatschappij of het VWF komt in aanmerking voor de terugbetaling, vermeld in het eerste lid, als de sociale huurwoning, vermeld in het eerste lid, geregistreerd en gevalideerd is in de Vlaamse huisvestingstool.<br>
 <br>
 De terugbetaling van de reële kosten, vermeld in het eerste lid, bedraagt:<br>
 1° maximaal 3.000 euro per sociale huurwoning die ten minste 3 maanden en maximum 5 maanden verhuurd wordt aan tijdelijk ontheemden uit Oekraïne;<br>
@@ -51,11 +52,11 @@ De terugbetaling van de reële kosten, vermeld in het eerste lid, bedraagt:<br>
 § 2. Als een sociaal verhuurkantoor, een sociale huisvestingsmaatschappij of een woonmaatschappij een woning of een collectieve voorziening conform artikel 5, tweede lid, van het decreet van 18 maart 2022 in huur neemt en werken als vermeld in artikel 5, derde lid, van het voormelde decreet, verricht, komt het sociaal verhuurkantoor, de sociale huisvestingsmaatschappij of de woonmaatschappij binnen de perken van de kredieten die daarvoor op de begroting van het Vlaamse Gewest beschikbaar zijn, in aanmerking voor de terugbetaling van de reële kosten van die werken. De terugbetaling van de reële kosten bedraagt maximaal 2500 euro per kamer van de collectieve voorziening en 2500 euro voor het geheel van de gemeenschappelijke ruimten van de collectieve voorziening of 10.000 euro per zelfstandige woning.<br>
 <br>
 Het sociaal verhuurkantoor, de sociale huisvestingsmaatschappij of de woonmaatschappij komt in aanmerking voor de terugbetaling, vermeld in het eerste lid, als al de volgende voorwaarden zijn vervuld:<br>
-1° het sociaal verhuurkantoor, de sociale huisvestingsmaatschappij of de woonmaatschappij sluit met de gemeente waarin de woning of de collectieve voorziening ligt, een overeenkomst naargelang van de verantwoordelijkheid die de gemeente heeft in de organisatie van de opvang van de tijdelijk ontheemden uit Oekraïne;<br>
+1° de woning of de kamer in de collectieve voorziening, vermeld in het eerste lid, is geregistreerd en gevalideerd in de Vlaamse huisvestingstool;<br>
 2° de woning wordt ten minste 6 maanden verhuurd aan tijdelijk ontheemden uit Oekraïne.<br>
 <br>
 § 3. De terugbetaling, vermeld in paragraaf 1 en 2, wordt aangevraagd bij de VMSW nadat de woning of kamer is verhuurd aan tijdelijk ontheemden uit Oekraïne. Het sociaal verhuurkantoor, de sociale huisvestingsmaatschappij of de woonmaatschappij voegt bij de aanvraag al de volgende bewijsstukken:<br>
-1° een kopie van de overeenkomst die is gesloten met de gemeente;<br>
+1° een bewijs dat de sociale huurwoning, vermeld in paragraaf 1, eerste lid, de woning of de kamer in de collectieve voorziening, vermeld in paragraaf 2, eerste lid, zijn geregistreerd en gevalideerd in de Vlaamse huisvestingstool;<br>
 2° gedetailleerde facturen of andere bewijsstukken van de werken die zijn uitgevoerd.<br>
 <br>
 Het bedrag op de factuur, vermeld in het eerste lid, 2°, wordt in voorkomend geval verhoogd met de niet-aftrekbare btw die via verlegging van heffing conform artikel 20 van het koninklijk besluit nr. 1 van 29 december 1992 met betrekking tot de regeling voor de voldoening van de belasting over de toegevoegde waarde, ten laste is van het sociaal verhuurkantoor, de sociale huisvestingsmaatschappij of de woonmaatschappij.<br>
@@ -64,7 +65,7 @@ De VMSW controleert of de voorwaarden, vermeld in dit artikel, zijn vervuld en k
 
 ### ART 3.
 
-§ 1. De VMSW kan aan sociale huisvestingsmaatschappijen en woonmaatschappijen mobiele woonunits ter beschikking stellen voor de tijdelijke opvang van tijdelijk ontheemden uit Oekraïne als er een overeenkomst over de terbeschikkingstelling van de mobiele woonunits aan tijdelijk ontheemden uit Oekraïne tussen de sociale huisvestingsmaatschappij of de woonmaatschappij en de gemeente waarin de mobiele woonunit wordt geplaatst is.<br>
+§ 1. De VMSW kan aan sociale huisvestingsmaatschappijen en woonmaatschappijen mobiele woonunits ter beschikking stellen voor de tijdelijke opvang van tijdelijk ontheemden uit Oekraïne als de mobiele woonunit geregistreerd en gevalideerd is in de Vlaamse huisvestingstool.<br>
 <br>
 De opbrengsten en kosten die zijn gekoppeld aan de mobiele woonunits die de VMSW ter beschikking heeft gesteld voor de tijdelijke opvang van tijdelijk ontheemden uit Oekraïne, worden niet meegenomen in de berekening van de gewestelijke sociale correctie, vermeld in artikel 1.2, eerste lid, 54°, van het Besluit Vlaamse Codex Wonen van 2021.<br>
 <br>
@@ -107,7 +108,7 @@ Als de hoofdhuurder de hoofdhuurovereenkomst beëindigt voor de overeengekomen t
 
 ### ART 7.
 
-Als een sociale huisvestingsmaatschappij, een woonmaatschappij, een sociaal verhuurkantoor, een kamer, een zelfstandige woning of een mobiele woonunit verhuurt aan tijdelijke ontheemden uit Oekraïne, bedraagt de maandelijkse huurprijs het bedrag dat de Vlaamse Regering vaststelt.
+Als een sociale huisvestingsmaatschappij, een woonmaatschappij,&nbsp;een leegstandsbeheerder als vermeld in artikel 6.74, § 1, eerste lid, 3°, van het Besluit Vlaamse Codex Wonen van 2021, een sociaal verhuurkantoor, een kamer, een zelfstandige woning of een mobiele woonunit verhuurt aan tijdelijke ontheemden uit Oekraïne, bedraagt de maandelijkse huurprijs het bedrag dat de Vlaamse Regering vaststelt.
 
 ### ART 8.
 
