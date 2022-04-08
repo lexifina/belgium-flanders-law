@@ -23,6 +23,14 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+In artikel 3.1.62 van het Energiebesluit van 19 november 2010, ingevoegd bij het besluit van de Vlaamse Regering van 18 december 2020, worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 1 wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+"In afwijking van het eerste en tweede lid wordt voor dossiers waar de aanvraag tot het verkrijgen van een omgevingsvergunning voor het verkavelen van gronden of voor stedenbouwkundige handelingen wordt ingediend vanaf 1 januari 2024 de drempel, vermeld in het eerste lid, 1° en 3°, verlaagd naar minstens vijf.";<br>
+2° aan paragraaf 2 wordt een punt 3° toegevoegd, dat luidt als volgt:<br>
+"3° waarvoor de aanvraag tot het verkrijgen van een omgevingsvergunning voor het verkavelen van gronden of voor stedenbouwkundige handelingen wordt ingediend vanaf 1 januari 2024 en dat tenminste vijf gebouweenheden omvat.".
+
 ### ART 2.
 
 Aan artikel 3.2.18, eerste lid, 4° van hetzelfde besluit, ingevoegd bij besluit van de Vlaamse Regering van 15 juli 2016, wordt een punt c) toegevoegd, dat luidt als volgt:<br>
@@ -245,6 +253,67 @@ In artikel 6.4.1/6 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaam
 
 In artikel 6.4.1/9/2, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 juli 2016, wordt de zinsnede " § 1 en § 2" vervangen door de zinsnede " § 1, § 1/1 en § 2".
 
+### ART 50.
+
+In artikel 6.4.1/12 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 september 2011 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 16 juli 2021, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 2 worden de woorden "en artikel 6.4.1/9/1" telkens vervangen door de zinsnede ", artikel 6.4.1/9/1, en artikel 12.3.7";<br>
+2° in paragraaf 3, derde lid worden de woorden "het kalenderjaar 2021" vervangen door de woorden "de periode van 1 januari 2021 tot en met 31 oktober 2022";<br>
+3° er wordt een paragraaf 4/9 ingevoegd, die luidt als volgt:<br>
+" § 4/9. In afwijking van paragraaf 2 wordt voor de uitvoering van de actieverplichting vermeld in artikel 6.4.1/5, § 1/1, op de in het Energiefonds of algemene uitgavenbegroting beschikbare middelen, per kalenderjaar aan elke elektriciteitsdistributienetbeheerder een vergoeding toegekend. De effectieve vergoeding wordt berekend door de op de algemene uitgavenbegroting van de Vlaamse Gemeenschap en het Energiefonds beschikbare middelen te verdelen naar rato van het bedrag dat is uitbetaald in het kader van die verplichting, vermeld in artikel 6.4.1/5, § 1/1, in de periode die loopt van het vierde kwartaal van het voorafgaande kalenderjaar tot en met het derde kwartaal van het kalenderjaar.<br>
+3° er wordt een paragraaf 4/10 ingevoegd, die luidt als volgt:<br>
+" § 4/10. In afwijking van paragraaf 2 wordt voor de uitvoering van de verplichting, vermeld in artikel 6.4.1/4, § 2 op de in het Energiefonds beschikbare middelen, per kalenderjaar aan elke elektriciteitsdistributienetbeheerder een vergoeding toegekend. De effectieve vergoeding wordt berekend door de op het Energiefonds beschikbare middelen te verdelen naar rato van het bedrag dat is uitbetaald in het kader van die verplichting, vermeld in artikel 6.4.1/4, § 2, in de periode die loopt van het vierde kwartaal van het voorafgaande kalenderjaar tot en met het derde kwartaal van het kalenderjaar.";<br>
+4° in paragraaf 5, tweede lid wordt de zinsnede "4/8" vervangen door de zinsnede "4/10";<br>
+5° in paragraaf 5, vierde lid worden de zinsnede "tot en met 4/8" vervangen door de zinsnede "tot en met 4/10";<br>
+6° in paragraaf 5, vierde lid wordt tussen de zinsnede "in volgende volgorde toegekend:" en de zinsnede "paragraaf 4/8," de zinsnede "paragraaf 4/10, paragraaf 4/9," ingevoegd;<br>
+6° in paragraaf 5, vijfde lid wordt de zinsnede "tot en met 4/8" vervangen door de zinsnede "tot en met 4/10".
+
+### ART 51.
+
+In artikel 7.14.1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 28 juni 2019 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 10 december 2021, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, tweede lid wordt tussen de woorden "voert het Vlaamse Gewest een premie voor een" en de woorden "stationaire installatie" het woord "nieuwe" ingevoegd;<br>
+2° in paragraaf 1, derde lid wordt de zin "Per EAN-code kan maximaal één premie, als vermeld in het tweede lid, elke tien jaar worden toegekend." vervangen door de zin "Per EAN-code kan maximaal één premie, als vermeld in het tweede lid, elke tien jaar worden toegekend, met uitzondering van het geval van een eigendomsoverdracht van een onroerend goed waarbij voorafgaand aan de eigendomsoverdracht de installatie werd verwijderd.";<br>
+3° in paragraaf 2, tweede lid, 3° worden tussen het woord "wordt" en de zinsnede "50% van de kostprijs" de woorden "voor premieaanvragen ingediend tot en met 31 december 2021" ingevoegd;<br>
+4° in paragraaf 4, eerste lid worden de woorden "factuurdatum of de datum waarop het leasecontract is gesloten" vervangen door de woorden "datum van de indienstname";<br>
+5° in paragraaf 4, eerste lid wordt tussen de zinsnede "de Vlaamse Overheid." en de woorden "Op het elektronisch aanvraagformulier" de zin "De datum van de indienstname is de datum van het AREI-keuringsverslag." ingevoegd;<br>
+6° in paragraaf 4, tweede lid, 3° worden de woorden "de aanwezigheid van een tweerichtingscommunicatie-interface en of er een injectielimiet conform dit besluit werd ingesteld" vervangen door de woorden "en dat er een tweerichtingscommunicatie-interface aanwezig is";<br>
+7° in paragraaf 4, vijfde lid wordt de zinsnede "eerste volledige aanmelding, vermeld in § 4, eerste lid" vervangen door de zinsnede "indienstname, vermeld in het eerste lid";<br>
+8° aan paragraaf 4 wordt een zesde lid toegevoegd, dat luidt als volgt:<br>
+"Voor installaties die in dienst zijn genomen in 2021, bepaalt, in afwijking van het vijfde lid, de datum van de eerste volledige aanvraag, vermeld in het eerste lid, het premiebedrag en de premievoorwaarden die voor dat premiejaar of -periode van toepassing zijn.";<br>
+9° in paragraaf 5, eerste lid wordt tussen het woord "vervreemd" en de woorden "of als de leasing" de zinsnede ", behalve in geval van eigendomsoverdracht van het onroerend goed," ingevoegd.
+
+### ART 52.
+
+In artikel 8.1.1 van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 9 juli 2021, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt punt 1° vervangen door wat volgt:<br>
+"1° wat type A betreft houder zijn van een door het VEKA erkend getuigschrift betreffende een opleiding tot energiedeskundige type A, dat niet ouder is dan twaalf maanden;";<br>
+2° in het eerste lid wordt punt 3° vervangen door wat volgt:<br>
+"3° wat type A betreft geslaagd zijn voor een door een exameninstelling, als vermeld in artikel 8.7.1, georganiseerd examen, en wat type D betreft geslaagd zijn op het centraal examen, vermeld in artikel 8.3.1.";<br>
+3° in het tweede lid worden de woorden "en type D" telkens opgeheven;<br>
+4° in het tweede lid worden de woorden "of type D" opgeheven;<br>
+5° in het vierde lid worden de woorden "en type D" telkens opgeheven.
+
+### ART 53.
+
+In titel VIII van hetzelfde besluit, wordt hoofdstuk III, opgeheven bij besluit van de Vlaamse Regering van 8 september 2017, opnieuw opgenomen in de volgende lezing:<br>
+<br>
+"Hoofdstuk III. Centraal examen voor energiedeskundigen type D<br>
+<br>
+Art. 8.3.1. § 1. Kandidaat-energiedeskundigen type D kunnen deelnemen aan het centraal examen, vermeld in artikel 8.1.1, eerste lid, 3°.<br>
+<br>
+De kandidaat-energiedeskundigen kunnen zich voor het centraal examen inschrijven via een webapplicatie die het VEKA ter beschikking stelt. Het VEKA kan nadere regels vaststellen voor de manier waarop ze zich kunnen inschrijven. Als een kandidaat-energiedeskundige tweemaal op rij inschrijft en niet slaagt, dan geldt een wachttermijn van twaalf maanden alvorens die kandidaat zich opnieuw voor het centraal examen kan inschrijven.<br>
+<br>
+§ 2. Deelnemers aan het centraal examen moeten de volgende bewijsstukken voorleggen:<br>
+1° het bewijs van hun elektronische inschrijving voor het examen;<br>
+2° het bewijs van hun identiteit.<br>
+<br>
+§ 3. Een kandidaat-energiedeskundige die de bewijsstukken, vermeld in paragraaf 2, niet kan voorleggen, kan niet aan het centraal examen deelnemen.<br>
+<br>
+§ 4. Om te slagen op het centraal examen dienen de kandidaat-energiedeskundige minstens 60 percent te halen op het hele examen en minstens 50 percent voor elk onderdeel van het examen, zoals vastgelegd door de minister.".
+
+### ART 54.
+
+In artikel 9.1.12/2, 6°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 28 september 2012 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 11 december 2020, wordt de zin "Het project moet in aanmerking komen voor groenestroomcertificaten of warmtekrachtcertificaten, een indienstnamedatum hebben van na 1 januari 2014 en moet worden gerealiseerd binnen drie jaar of binnen de drie jaar na het bekomen van de noodzakelijke vergunningen, indien vergunningen vereist zijn." vervangen door de zin "De projectinstallatie mag in geen enkele EPB-aangifte gebruikt worden om het E-peil te verlagen, moet een indienstnamedatum hebben van na 1 januari 2014 en moet worden gerealiseerd binnen drie jaar of binnen de drie jaar na het bekomen van de noodzakelijke vergunningen, indien vergunningen vereist zijn.".
+
 ### ART 55.
 
 In titel IX, hoofdstuk II, afdeling I van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 9 juli 2021, wordt het opschrift van onderafdeling II vervangen door wat volgt:<br>
@@ -284,6 +353,15 @@ Als de instrumenterende ambtenaar bij het verlijden van de authentieke akte vast
 
 In artikel 9.2.5/3 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 9 oktober 2020, wordt de zinsnede "artikel 9.2.3, § 1, tweede lid, artikel 9.2.4, tweede lid, artikel 9.2.8, § 1, tweede lid, en artikel 9.2.9, tweede lid," vervangen door de zinsnede "artikel 9.2.3, § 1, derde lid, artikel 9.2.3/1, § 1, derde lid, artikel 9.2.4, tweede lid, artikel 9.2.8, § 1, derde lid, artikel 9.2.8/1, § 1, derde lid en artikel 9.2.9, tweede lid,".
 
+### ART 59.
+
+Artikel 9.2.6/2 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 9 juli 2021, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 9.2.6/2. Alle grote niet-residentiële eenheden beschikken continu over een geldig energieprestatiecertificaat voor niet-residentiële gebouwen en dit vanaf de hierna volgende data:<br>
+1° de publieke gebouwen en de gebouwen die geen publiek gebouw zijn maar worden gebruikt door de federale overheid, inclusief de parastatalen, de Vlaamse overheid, inclusief de intern en extern verzelfstandigde agentschappen, de provinciale overheden, de gemeentelijke overheden, inclusief de O.C.M.W.'s en extern verzelfstandigde agentschappen, en de overheidsbedrijven: 1 januari 2024;<br>
+2° de grote niet-residentiële eenheden ander dan vermeld in punt 1°, met een bruikbare vloeroppervlakte groter dan 1000 m<sup>2</sup>: 1 januari 2025;<br>
+3° de grote niet-residentiële eenheden ander dan vermeld in punt 1°, met een bruikbare vloeroppervlakte kleiner dan 1000 m<sup>2</sup>: 1 januari 2026.".
+
 ### ART 60.
 
 In titel IX, hoofdstuk II, afdeling II van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 9 juli 2021, wordt het opschrift van onderafdeling II vervangen door wat volgt:<br>
@@ -319,8 +397,32 @@ In het kader van de uitoefening van zijn functie als instrumenterende ambtenaar 
 <br>
 Als de instrumenterende ambtenaar bij het verlijden van de authentieke akte vaststelt dat er voor het bewuste niet-residentiële gebouw geen geldig energieprestatiecertificaat niet-residentiële gebouwen beschikbaar is, brengt hij het VEKA daarvan onmiddellijk op de hoogte.".
 
+### ART 63.
+
+Aan artikel 9.3.1, § 1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 9 juli 2021, wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"Niet-residentiële gebouwen en niet-residentiële eenheden beschikken binnen vijf jaar vanaf de datum van de authentieke akte over een nieuw energieprestatiecertificaat niet-residentiële gebouwen of in geval het gaat over kleine niet-residentiële eenheden een energieprestatiecertificaat kleine niet-residentiële gebouwen of een energieprestatiecertificaat residentiële gebouwen.".
+
+### ART 64.
+
+Aan titel X van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 11 december 2020, wordt een artikel 10.1.11 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 10.1.11. De minister bepaalt de nadere regels voor de vorm en de inhoud voor de meldingen, vermeld in artikel 11.1/1.4 van het Energiedecreet van 8 mei 2009.".
+
 ### ART 65.
 
 Artikel 12.3.7 van hetzelfde besluit, opgeheven bij het besluit van de Vlaamse Regering van 26 januari 2018, wordt opnieuw opgenomen in de volgende lezing:<br>
 <br>
 "Art. 12.3.7. Voor dossiers met betrekking tot investeringen in nieuw geplaatste dak- of zoldervloerisolatie met eindfactuur in het jaar 2022 worden de premies, vermeld in artikel 6.4.1/1, eerste lid, 1°, artikel 6.4.1/1/2, artikel 6.4.1/4, artikel 6.4.1/5, § 1, 1°, verhoogd met 4 euro per vierkante meter. De verhogingen zijn niet onderling cumuleerbaar.".
+
+### ART 66.
+
+Artikel 2, 46, 48, 55, 56, 57, 58, 60, 61, en 62 treden in werking op 1 april 2022.<br>
+<br>
+Artikel 3 tot en met artikel 44, treden in werking op 1 juli 2022.<br>
+<br>
+Artikel 45, 1°, 2°, artikel 47, 1°, 2°, en 4°, artikel 49 en artikel 65 hebben uitwerking vanaf 1 januari 2022.
+
+### ART 67.
+
+De Vlaamse minister, bevoegd voor de energie, is belast met de uitvoering van dit besluit.
