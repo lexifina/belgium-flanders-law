@@ -117,3 +117,46 @@ Als de laatste dag van de aaneensluitende beschikbaarheidsperiode valt na 31 aug
 3° paragraaf 2 wordt opgeheven;<br>
 4° in paragraaf 3 wordt de zinsnede "paragraaf 1 en 2" vervangen door de zinsnede "paragraaf 1".<br>
 5° in paragraaf § 3 wordt punt 2° opgeheven.
+
+### ART 11.
+
+In hetzelfde besluit wordt het opschrift van hoofdstuk 4 vervangen door wat volgt:<br>
+<br>
+"Hoofdstuk 4. Subsidiëring nooddorpen".
+
+### ART 12.
+
+In artikel 7 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt vervangen door wat volgt:<br>
+"De stad Antwerpen, de stad Mechelen, de stad Gent en een gemeente te bepalen door de Vlaamse Regering komen in aanmerking voor een subsidie van het Vlaamse Gewest voor de opbouw van een nooddorp voor de opvang van tijdelijk ontheemden uit Oekraïne.";<br>
+2° in het tweede lid wordt de zinsnede "De stad Antwerpen en de stad Mechelen" vervangen door de zinsnede "De gemeenten, vermeld in het eerste lid,";<br>
+3° in het tweede lid wordt punt 3° opgeheven;<br>
+4° in het vierde lid wordt de zinsnede "die via de Vlaamse huisvestingstool aan een tijdelijk ontheemde uit Oekraïne is toegewezen," opgeheven;<br>
+5° in het vijfde lid wordt de zinsnede ", 1° tot en met 4° " opgeheven.
+
+### ART 13.
+
+In artikel 8 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt vervangen door wat volgt:<br>
+"Als het lokaal bestuur de nodige registraties en validaties doet in de Vlaamse huisvestingstool, kan de gemeente de forfaitaire subsidies, vermeld in artikel 3, 4, eerste lid, artikel 4/1, 4/2 en artikel 6 ontvangen.";<br>
+2° in het tweede lid worden tussen de zinsnede "eerste lid" en de woorden "worden toegekend" de zinsnede "en de subsidie vermeld in artikel 1/1" ingevoegd;<br>
+3° er wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+"De subsidies, vermeld in dit besluit, worden gestort op de rekening van de gemeente waarop het laatste aandeel van het gemeentefonds werd gestort.".
+
+### ART 14.
+
+In artikel 10 wordt het eerste lid vervangen door wat volgt:<br>
+<br>
+"Het agentschap berekent de forfaitaire subsidies vermeld in artikel 1/1. Het agentschap berekent de forfaitaire subsidie vermeld in artikel 3, 4, eerste lid, artikel 4/1, 4/2 en artikel 6 op basis van de geregistreerde en gevalideerde gegevens in de Vlaamse huisvestingstool, vermeld in artikel 8.".
+
+### ART 15.
+
+In artikel 11, eerste lid, van hetzelfde besluit wordt de datum "15 september 2022" vervangen door de datum "31 december 2022" en de datum "31 juli 2022" door de datum "31 augustus 2022".
+
+### ART 16.
+
+Dit besluit heeft uitwerking met ingang van 8 april 2022, met uitzondering van artikel 1 tot en met 10 die uitwerking hebben met ingang van 14 maart 2022.
+
+### ART 17.
+
+De Vlaamse minister, bevoegd voor het facilitair management, de Vlaamse minister, bevoegd voor het binnenlands bestuur en het stedenbeleid en de Vlaamse minister, bevoegd voor woonbeleid, zijn belast met de uitvoering van dit besluit.
