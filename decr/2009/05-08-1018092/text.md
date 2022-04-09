@@ -144,7 +144,12 @@ c) woongebied met landelijk karakter;<br>
 d) woongebied met landelijk karakter en culturele, historische of esthetische waarde;<br>
 e) woonuitbreidingsgebied;<br>
 56° gebouw: voor de toepassing van titels IV/1, X en XI en artikel 1.1.3, 113/1/1°, en artikel 13.4.5 tot en met 13.4.10, elk gebouw in zijn geheel of delen ervan die zijn ontworpen of aangepast om afzonderlijk te worden gebruikt, en waarvoor energie verbruikt wordt om een specifieke binnentemperatuur te verkrijgen;<br>
+56° /0 gebouweenheid: de kleinste eenheid binnen een gebouw die voldoet aan al de volgende voorwaarden:<br>
+a) geschikt zijn voor woon-, bedrijfsmatige, of recreatieve doeleinden of een gemeenschappelijk deel zijn;<br>
+b) ontsloten worden via een eigen afsluitbare toegang vanaf de openbare weg, een erf of een gedeelde circulatieruimte;<br>
+c) in functioneel opzicht zelfstandig zijn;<br>
 56° /1/0 gebouwenpas: het instrument, vermeld in artikel 2, 1°, van het decreet van 30 november 2018 betreffende de gebouwenpas;<br>
+56° /1/0/1 gemeenteweg: een openbare weg, vermeld in artikel 2, 6°, van het decreet van 3 mei 2019 houdende de gemeentewegen;<br>
 56°/1/1 geothermische energie : energie die in de vorm van warmte onder het vaste aardoppervlak is opgeslagen;<br>
 56° /1/2 gereserveerde technische flexibiliteit: de flexibiliteit op verzoek van de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit, waarbij de deelname verplicht is in het kader van de exploitatie van het elektriciteitsdistributienet of plaatselijk vervoernet van elektriciteit onder buitengewone omstandigheden, met een gereguleerde compensatie, vermeld in artikel 4.1.17/5, § 1, eerste lid;<br>
 56/1° gemeenschappelijk deel : elke eenheid van aangrenzende lokalen die door meerdere EPB-eenheden samen gebruikt wordt en die behoort tot het beschermd volume van het gebouw;<br>
@@ -170,6 +175,7 @@ b) het distribueert primair elektriciteit of aardgas aan de eigenaar of beheerde
 67° /2 huishoudelijke netgebruiker : een huishoudelijke afnemer of een natuurlijke persoon die aangesloten is op een aardgasdistributienet of een elektriciteitsdistributienet op een spanning gelijk aan 1000 volt of minder, die elektriciteit opwekt, biogas produceert of aardgas wint om te voorzien in zijn behoeften of die van de personen die samen met hem in de woning in kwestie gedomicilieerd zijn;<br>
 68° hulpkrediet : een krediet dat ter beschikking wordt gesteld van een huishoudelijke afnemer, zodra het op de budgetmeter voor elektriciteit of op de budgetmeter voor aardgas opgeladen bedrag opgebruikt is;<br>
 68°/1 hydrothermische energie : energie die in de vorm van warmte in het oppervlaktewater is opgeslagen;<br>
+68° /1/0 industrieel gebouw: gebouw dat bestemd is voor de productie, de bewerking, de opslag of manipulatie van goederen;<br>
 68° /2 ingrijpende wijziging: wijziging van een warmte-krachtinstallatie, waarvan de motor ouder is dan tien jaar en/of waarvan de turbine ouder is dan vijftien jaar, en waarbij minstens de motor of de turbine vervangen wordt door een nog niet gebruikte motor of turbine. Indien een warmte-krachtinstallatie uit meerdere motoren of turbines bestaat, dan moeten alle motoren en turbines ouder zijn dan respectievelijk tien of vijftien jaar en moeten alle motoren en turbines vervangen worden door een nog niet gebruikte motor of turbine;<br>
 69° injecteren : het inbrengen van elektriciteit of aardgas in een distributienet of het plaatselijk vervoernet van elektriciteit, vanuit een net of door een producent;<br>
 69° /1 injecteren van thermische energie: het inbrengen van thermische energie in een warmte- of koudenet vanuit een warmte- of koudenet of door een producent van thermische energie;<br>
@@ -229,6 +235,14 @@ c) beantwoorden aan het zelfstandigheidscriterium;<br>
 92° niet-commerciële instellingen : scholen, universiteiten, verzorgingsinstellingen en andere gemeenschapsdiensten, verenigingen van mede-eigenaars, kerkfabrieken, verenigingen zonder winstoogmerk en feitelijke verenigingen die een filantropisch, wetenschappelijk, technisch of pedagogisch doel nastreven op het gebied van energie, milieubescherming of bestrijding van sociale uitsluiting;<br>
 92° /1 niet-frequentiegerelateerde ondersteunende dienst: een dienst die wordt gebruikt door een transmissie- of distributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit voor spanningsregeling in stationaire toestand, snelle blindstroominjecties, inertie voor plaatselijke netstabiliteit, kortsluitstroom of inzetbaarheid in eilandbedrijf;<br>
 92° /1/0 niet-gereserveerde technische flexibiliteit: onmiddellijke, als alle commerciële middelen en gereserveerde technische flexibiliteit zijn uitgeput, flexibiliteit op verzoek van de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit, waarbij de deelname verplicht is in het kader van de exploitatie van het elektriciteitsdistributienet of plaatselijk vervoernet van elektriciteit onder onvoorziene uitzonderlijke netuitbatingsomstandigheden, al dan niet met een gereguleerde compensatie als vermeld in artikel 4.1.17/5, § 2, eerste lid;<br>
+92° /1/0/1 niet-residentieel gebouw: een gebouw met een niet-residentiële hoofdbestemming, met uitzondering van:<br>
+a) alleenstaande gebouwen met een totale bruikbare vloeroppervlakte van minder dan 50 m2;<br>
+b) tijdelijke gebouwen die in principe niet langer dan twee jaar worden gebruikt;<br>
+c) gebouwen die worden gebruikt voor erediensten en religieuze activiteiten;<br>
+d) industriële gebouwen;<br>
+e) werkplaatsen;<br>
+f) opslagplaatsen voor niet-industrieel gebruik;<br>
+g) gebouwen van een landbouwgebouw die niet voor bewoning bestemd zijn;<br>
 92° /1/1 nieuwe groenestroominstallatie: een nieuw opgerichte installatie die volledig zelfstandig en onafhankelijk elektriciteit uit hernieuwbare energiebronnen opwekt, en waarbij de noodzakelijke onderdelen van de installatie nog niet eerder gebruikt zijn in een groenestroominstallatie;<br>
 92° /1/2 nieuwe productie-installatie: een nieuwe groenestroominstallatie of een nieuwe warmte-krachtinstallatie;<br>
 92° /2 nieuwe projecten : projecten met startdatum na de eerstvolgende hieronder genoemde van toepassing zijnde datum :<br>
@@ -453,7 +467,8 @@ j) het jaarlijks voor 15 mei publiceren van een in samenwerking met de federale 
 k) een vijfjaarlijkse evaluatie van de activiteiten inzake databeheer op het distributienet&nbsp;door de netbeheerder, met inbegrip van een studie over het aanbieden van de specifieke activiteiten en het opnemen van taken en verplichtingen met betrekking tot activiteiten inzake databeheer in de andere gewesten en in de ons omliggende landen;<br>
 l) tweejaarlijks rapporteren aan de Vlaamse Regering over de naleving van de voorwaarden waaraan de netbeheerders zijn gebonden bij de uitoefening van hun activiteiten inzake databeheer op het distributienet, met inbegrip van de resultaten van de vijfjaarlijkse evaluatie;<br>
 m) jaarlijks rapporteren over de voornaamste ontwikkelingen op het vlak van dynamische prijscontracten in het Vlaamse Gewest, met inbegrip van het aanbod op de markt en de effecten op de facturen van de consument en, specifiek, de prijsvolatiliteit ervan;<br>
-n) jaarlijks rapporteren in welke mate het decretale kader rond flexibiliteit en energiegemeenschappen en de verdere uitwerking ervan zorgt voor een flexibeler gebruik van het bestaande net en een versnelling van een duurzame energietransitie waarin de burger centraal staat. De aspecten die hierin worden opgenomen, worden verder door de Vlaamse Regering bepaald.<br>
+n) jaarlijks rapporteren in welke mate het decretale kader rond flexibiliteit en energiegemeenschappen en de verdere uitwerking ervan zorgt voor een flexibeler gebruik van het bestaande net en een versnelling van een duurzame energietransitie waarin de burger centraal staat. De aspecten die hierin worden opgenomen, worden verder door de Vlaamse Regering bepaald;<br>
+o) jaarlijks rapporteren over de financiële gezondheid van de Vlaamse energiemarkt en van de op die markt actieve leveranciers;<br>
 5° adviserende taken :<br>
 a) het op verzoek of op eigen initiatief verlenen van adviezen met betrekking tot de elektriciteits- en gasmarkt aan het Vlaams Parlement, de minister of de Vlaamse Regering;<br>
 b) het uitvoeren van studies of onderzoeken betreffende de elektriciteits- en gasmarkt, op eigen initiatief of op verzoek van het Vlaams Parlement, de minister of de Vlaamse Regering;<br>
@@ -1085,7 +1100,17 @@ Iedere netbeheerder maakt de geldende tarieven en voorwaarden bekend voor de aan
 
 ### ART. 4.1.13.
 
-§ 1. De aardgasdistributienetbeheerder mag voor de aansluiting van een aansluitbare wooneenheid of gebouw op het aardgasdistributienet in de gebieden in het geografische gebied waarvoor hij werd aangewezen, een maximale prijs aanrekenen van 250 euro als cumulatief aan de volgende voorwaarden wordt voldaan :<br />1° de aardgasleiding langs de openbare weg waar de aansluitbare wooneenheid of het aansluitbare gebouw gelegen is, heeft voldoende capaciteit;<br />2° er is maximaal 20 meter afstand tussen de aardgasleiding en het toekomstige afnamepunt;<br />3° de gevraagde capaciteit van de aansluiting is lager dan of gelijk aan 10 m3(n) per uur;<br />4° de gevraagde leveringsdruk is gelijk aan 21 of 25 mbar.<br /><br />§ 2. Als de aardgasdistributienetbeheerder om technische of economische redenen toch beslist om een niet-aansluitbare wooneenheid of gebouw gelegen in een gebied bestemd voor bewoning via een onderboring aan te sluiten op een aardgasleiding aan de overkant van de straat, mag hij in het geografische gebied waarvoor hij werd aangewezen, voor de aansluiting een maximale prijs aanrekenen van 250 euro als cumulatief aan de volgende voorwaarden wordt voldaan :<br />1° de aardgasleiding langs de openbare weg waar het aansluitbare wooneenheid of het aansluitbare gebouw gelegen is, heeft voldoende capaciteit;<br />2° er is maximaal 20 meter afstand tussen de aardgasleiding en het toekomstige afnamepunt;<br />3° de gevraagde capaciteit van de aansluiting is lager dan of gelijk aan 10 m3(n) per uur;<br />4° de gevraagde leveringsdruk is gelijk aan 21 of 25 mbar.
+§ 1. De aardgasdistributienetbeheerder mag voor de aansluiting van een aansluitbare wooneenheid of gebouw op het aardgasdistributienet in de gebieden in het geografische gebied waarvoor hij werd aangewezen, een maximale prijs aanrekenen van 250 euro als cumulatief aan de volgende voorwaarden wordt voldaan :<br>
+1° de aardgasleiding langs de openbare weg waar de aansluitbare wooneenheid of het aansluitbare gebouw gelegen is, heeft voldoende capaciteit;<br>
+2° er is maximaal 20 meter afstand tussen de aardgasleiding en het toekomstige afnamepunt;<br>
+3° de gevraagde capaciteit van de aansluiting is lager dan of gelijk aan 10 m3(n) per uur;<br>
+4° de gevraagde leveringsdruk is gelijk aan 21 of 25 mbar.<br>
+<br>
+§ 2. Als de aardgasdistributienetbeheerder om technische of economische redenen toch beslist om een niet-aansluitbare wooneenheid of gebouw gelegen in een gebied bestemd voor bewoning via een onderboring aan te sluiten op een aardgasleiding aan de overkant van de straat, mag hij in het geografische gebied waarvoor hij werd aangewezen, voor de aansluiting een maximale prijs aanrekenen van 250 euro als cumulatief aan de volgende voorwaarden wordt voldaan :<br>
+1° de aardgasleiding langs de openbare weg waar het niet-aansluitbare wooneenheid of het niet-aansluitbare gebouw gelegen is, heeft voldoende capaciteit;<br>
+2° er is maximaal 20 meter afstand tussen de aardgasleiding en het toekomstige afnamepunt;<br>
+3° de gevraagde capaciteit van de aansluiting is lager dan of gelijk aan 10 m3(n) per uur;<br>
+4° de gevraagde leveringsdruk is gelijk aan 21 of 25 mbar.
 
 ### ART. 4.1.14.
 
@@ -1101,15 +1126,15 @@ b) een bestaande wooneenheid of een bestaand gebouw hoofdzakelijk vergund is of 
 
 ### ART. 4.1.16.
 
-Onverminderd artikel 4.1.13 is voor de netuitbreiding of netversterking met het oog op de aansluiting van een wooneenheid of gebouw het rendabele deel van de kosten voor de aanleg op het openbaar domein van de verbinding tussen de lagedrukleiding of de residentiële middendrukleiding, vermeld in artikel 1.1.3, 3°, c), enerzijds, en de wooneenheid of het gebouw, anderzijds, ten laste van de aardgasdistributienetbeheerder, behalve in de gevallen die door de Vlaamse Regering worden bepaald.<br>
+Onverminderd artikel 4.1.13 is voor de netuitbreiding of netversterking met het oog op de aansluiting van een wooneenheid of gebouw het rendabele deel van de kosten voor de aanleg op het openbaar domein en de gemeentewegen van de verbinding tussen de lagedrukleiding of de residentiële middendrukleiding, vermeld in artikel 1.1.3, 3°, c), enerzijds, en de wooneenheid of het gebouw, anderzijds, ten laste van de aardgasdistributienetbeheerder, behalve in de gevallen die door de Vlaamse Regering worden bepaald.<br>
 <br>
-Voor de netuitbreiding of netversterking met het oog op de ontsluiting van een verkaveling is het rendabele deel van de kosten voor de aanleg op het openbaar domein van de verbinding tussen de lagedrukleiding of de residentiële middendrukleiding, vermeld in artikel 1.1.3, 3°, c), enerzijds, en de verkaveling, anderzijds, ten laste van de aardgasdistributienetbeheerder, behalve in de gevallen die door de Vlaamse Regering worden bepaald.<br>
+Voor de netuitbreiding of netversterking met het oog op de ontsluiting van een verkaveling is het rendabele deel van de kosten voor de aanleg op het openbaar domein en de gemeentewegen van de verbinding tussen de lagedrukleiding of de residentiële middendrukleiding, vermeld in artikel 1.1.3, 3°, c), enerzijds, en de verkaveling, anderzijds, ten laste van de aardgasdistributienetbeheerder, behalve in de gevallen die door de Vlaamse Regering worden bepaald.<br>
 <br>
 De Vlaamse Regering houdt voor het vaststellen van de uitzonderingen, vermeld in het eerste en tweede lid, minstens rekening met de aanwezigheid van andere netten en de energieprestaties van de aan te sluiten gebouwen.<br>
 <br>
 De aanvrager van de aansluiting of verkaveling draagt de overige kosten.<br>
 <br>
-De VREG beslist, met toepassing van afdeling XII, over het rendabele deel van de kosten voor de aanleg op het openbaar domein tussen het aardgasdistributienet en de wooneenheid, het gebouw of de verkaveling.
+De VREG beslist, met toepassing van afdeling XII, over het rendabele deel van de kosten voor de aanleg op het openbaar domein en de gemeentewegen tussen het aardgasdistributienet en de wooneenheid, het gebouw of de verkaveling.
 
 ### ART 4.1.16/1.
 
@@ -1118,6 +1143,10 @@ In afwijking van artikel 4.1.13, artikel 4.1.15 en artikel 4.1.16, kan elke aard
 Het eerste lid is eveneens van toepassing op grote verkavelingen, grote groepswoningbouwprojecten of grote appartementsgebouwen, waarbij het definitief vastgestelde projectbesluit overeenkomstig artikel 39 van het decreet van 25 april 2014 betreffende complexe projecten geldt als omgevingsvergunning.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels over de grootte van de verkavelingen, de groepswoningbouwprojecten en de appartementsgebouwen die onder de verplichting, vermeld in het eerste en tweede lid, vallen, en over de hernieuwbare-energiesystemen die hiervoor in aanmerking komen.
+
+### ART 4.1.16/2.
+
+In afwijking van artikel 4.1.13, 4.1.15, 4.1.16 en 4.1.16/1 voorzien aardgasdistributienetbeheerders voor residentiële gebouwen en niet-residentiële gebouwen waarvoor vanaf 1 januari 2026 een omgevingsvergunning voor stedenbouwkundige handelingen aangaande nieuwbouw worden aangevraagd niet meer in een aansluiting op het aardgasdistributienet.
 
 ### ART. 4.1.17.
 
@@ -1514,15 +1543,52 @@ De Vlaamse Regering kan in samenwerking met de betrokken partijen een gedragscod
 
 ### ART. 4.1.23.
 
-§ 1. De netbeheerders hebben als erfdienstbaarheid het recht :<br />1° op blijvende wijze steunen, ankers en de bijhorende uitrustingen aan te brengen voor bovengrondse elektrische lijnen, aan de buitenzijde van de muren en gevels die uitgeven op de openbare weg;<br />2° elektrische lijnen boven de private eigendommen te laten doorgaan zonder vasthechting noch aanraking;<br />3° boomtakken af te hakken die te dicht bij de bovengrondse elektrische lijnen komen en die kortsluitingen of schade aan de lijn zouden kunnen veroorzaken;<br />4° wortels in te korten die te dicht bij ondergrondse elektrische lijnen of aardgasleidingen komen en die schade aan de lijn of leiding zouden kunnen veroorzaken.<br /><br />§ 2. In afwijking van paragraaf 1, 3° en 4°, kan de netbeheerder ook overgaan tot het rooien van de aanwezige bomen en beplantingen, als om veiligheidsredenen het recht, vermeld in paragraaf 1, eerste lid, 3° en 4°, niet volstaat.<br /><br />§ 3. De Vlaamse Regering kan per geval bepalen dat het voor de netbeheerder van algemeen nut is om elektrische lijnen of aardgasleidingen aan te leggen boven of onder private onbebouwde gronden en onder welke voorwaarden dat dient te gebeuren.<br /><br />De netbeheerder heeft in dat geval het recht de lijnen of leidingen aan te leggen boven of onder deze gronden, voor het toezicht daarop te zorgen en de noodzakelijke onderhouds- en herstellingswerken uit te voeren.<br /><br />§ 4. De aangelegde kabels, lijnen, leidingen en de bijbehorende uitrustingen blijven eigendom van de netbeheerder. Hij is ertoe gemachtigd alle nodige instandhoudingswerken daarvoor uit te voeren.<br /><br />§ 5. Behalve in hoogdringende gevallen waarbij de veiligheid imminent in het gedrang komt, wordt het recht wortels in te korten of boomtakken af te hakken, vermeld in paragraaf 1, 3° en 4°, en het recht om te rooien, vermeld in paragraaf 2, afhankelijk gesteld van de expliciete weigering van de eigenaar of desgevallend de domeinbeheerder, pachter, huurder of een andere houder van een zakelijk recht op het bewuste onroerend goed om zelf binnen een redelijke termijn te kappen, in te korten of te rooien, of van het feit dat deze gedurende een maand het verzoek van de netbeheerder zonder gevolg heeft gelaten. In die gevallen kan de netbeheerder overgaan tot inkorten, afhakken of rooien op kosten van de eigenaar. Als de netbeheerder overgaat tot afhakken, inkorten of rooien wegens hoogdringendheid, gebeurt dat op kosten van de netbeheerder zelf.<br /><br />Behalve in hoogdringende gevallen waarbij de veiligheid imminent in het gedrang komt, mogen de werken, vermeld in paragraaf 1 tot en met 3, door de netbeheerder pas worden aangevangen na de rechtstreekse voorafgaande kennisgeving met een aangetekende brief aan de belanghebbende eigenaars, huurders, pachters, domeinbeheerder en iedere andere houder van een zakelijk recht op het bewuste onroerend goed. Die kennisgeving vindt minstens twee maanden voor de geplande start van de werken plaats.<br /><br />De Vlaamse Regering kan nadere regels bepalen voor de te volgen procedure bij de uitvoering van die rechten.
+§ 1. De netbeheerders hebben als erfdienstbaarheid het recht :<br>
+1° op blijvende wijze steunen, ankers en de bijhorende uitrustingen aan te brengen voor bovengrondse elektrische lijnen, aan de buitenzijde van de muren en gevels die uitgeven op de openbare weg;<br>
+2° elektrische lijnen boven de private eigendommen te laten doorgaan zonder vasthechting noch aanraking;<br>
+3° boomtakken af te hakken die te dicht bij de bovengrondse elektrische lijnen komen en die kortsluitingen of schade aan de lijn zouden kunnen veroorzaken;<br>
+4° wortels in te korten die te dicht bij ondergrondse elektrische lijnen of aardgasleidingen komen en die schade aan de lijn of leiding zouden kunnen veroorzaken.<br>
+<br>
+§ 2. In afwijking van paragraaf 1, 3° en 4°, kan de netbeheerder ook overgaan tot het rooien van de aanwezige bomen en beplantingen, als om veiligheidsredenen het recht, vermeld in paragraaf 1, eerste lid, 3° en 4°, niet volstaat.<br>
+<br>
+§ 3. De Vlaamse Regering kan per geval bepalen dat het voor de netbeheerder van algemeen nut is om elektrische lijnen of aardgasleidingen aan te leggen boven of onder private onbebouwde gronden en onder welke voorwaarden dat dient te gebeuren.<br>
+<br>
+De netbeheerder heeft in dat geval het recht de lijnen of leidingen aan te leggen boven of onder deze gronden, voor het toezicht daarop te zorgen en de noodzakelijke onderhouds- en herstellingswerken uit te voeren.<br>
+<br>
+§ 3/1. De Vlaamse Regering kan bepalen in welke gevallen het voor de netbeheerder van algemeen nut is om installaties die deel uitmaken van het elektriciteits- of aardgasdistributienet in of op private onroerende goederen te plaatsen, en onder welke voorwaarden dat moet gebeuren.<br>
+<br>
+De netbeheerder heeft in het geval, vermeld in het eerste lid, de volgende rechten:<br>
+1° het recht om de installaties, vermeld in het eerste lid, in of op de onroerende goederen, vermeld in het eerste lid, te plaatsen;<br>
+2° het recht om te zorgen voor het toezicht op de installaties, vermeld in het eerste lid;<br>
+3° het recht om de noodzakelijke onderhouds- en herstellingswerken uit te voeren.<br>
+<br>
+§ 4. De aangelegde installaties, kabels, lijnen, leidingen en de bijbehorende uitrustingen blijven eigendom van de netbeheerder. Hij is ertoe gemachtigd alle nodige instandhoudingswerken daarvoor uit te voeren.<br>
+<br>
+§ 5. Behalve in hoogdringende gevallen waarbij de veiligheid imminent in het gedrang komt, wordt het recht wortels in te korten of boomtakken af te hakken, vermeld in paragraaf 1, 3° en 4°, en het recht om te rooien, vermeld in paragraaf 2, afhankelijk gesteld van de expliciete weigering van de eigenaar of desgevallend de domeinbeheerder, pachter, huurder of een andere houder van een zakelijk recht op het bewuste onroerend goed om zelf binnen een redelijke termijn te kappen, in te korten of te rooien, of van het feit dat deze gedurende een maand het verzoek van de netbeheerder zonder gevolg heeft gelaten. In die gevallen kan de netbeheerder overgaan tot inkorten, afhakken of rooien op kosten van de eigenaar. Als de netbeheerder overgaat tot afhakken, inkorten of rooien wegens hoogdringendheid, gebeurt dat op kosten van de netbeheerder zelf.<br>
+<br>
+Behalve in hoogdringende gevallen waarbij de veiligheid imminent in het gedrang komt, mogen de werken, vermeld in paragraaf 1 tot en met 3/1, door de netbeheerder pas worden aangevangen na de rechtstreekse voorafgaande kennisgeving met een aangetekende brief aan de belanghebbende eigenaars, huurders, pachters, domeinbeheerder en iedere andere houder van een zakelijk recht op het bewuste onroerend goed. Die kennisgeving vindt minstens twee maanden voor de geplande start van de werken plaats.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de te volgen procedure bij de uitvoering van die rechten.
 
 ### ART. 4.1.24.
 
-§ 1. De netbeheerder vergoedt bij minnelijke overeenkomst de eigenaars en de eventuele huurders, pachters of iedere andere houder van een zakelijk recht op het bewuste onroerend goed in de vorm van een vergoeding voor het nadeel dat mogelijk voortvloeit uit de toepassing van artikel 4.1.23, § 1, 1°. <br /><br />§ 2. Als de aanwezige bomen en beplantingen gerooid worden, als vermeld in artikel 4.1.23, § 2, is de netbeheerder een eenmalige vergoeding verschuldigd aan de eigenaar als vergoeding voor de gerooide bomen en beplantingen en voor de eventuele minwaarde van het onroerend goed.<br /><br />§ 3. De Vlaamse Regering kan nadere regels vastleggen met betrekking tot de procedure voor het bepalen van de hoogte van de vergoeding.<br /><br />§ 4. Als partijen niet tot een minnelijke overeenkomst komen, wordt het geschil voorgelegd aan de vrederechter.
+§ 1. De netbeheerder vergoedt bij minnelijke overeenkomst de eigenaars en de eventuele huurders, pachters of iedere andere houder van een zakelijk recht op het bewuste onroerend goed in de vorm van een vergoeding voor het nadeel dat mogelijk voortvloeit uit de toepassing van artikel 4.1.23, § 1, 1°, en § 3/1.<br>
+<br>
+§ 2. Als de aanwezige bomen en beplantingen gerooid worden, als vermeld in artikel 4.1.23, § 2, is de netbeheerder een eenmalige vergoeding verschuldigd aan de eigenaar als vergoeding voor de gerooide bomen en beplantingen en voor de eventuele minwaarde van het onroerend goed.<br>
+<br>
+§ 3. De Vlaamse Regering kan nadere regels vastleggen met betrekking tot de procedure voor het bepalen van de hoogte van de vergoeding.<br>
+<br>
+§ 4. Als partijen niet tot een minnelijke overeenkomst komen, wordt het geschil voorgelegd aan de vrederechter.
 
 ### ART. 4.1.25.
 
-De uitoefening door de netbeheerder van het recht, vermeld in artikel 4.1.23, kan de eigenaar, pachter, domeinbeheerder of de houder van een zakelijk recht op het bewuste onroerend goed niet hinderen in zijn recht van omheinen, afbreken, verbouwen, herstellen of bouwen.<br /><br />Als de eigenaar, pachter, domeinbeheerder of houder van een zakelijk recht een dergelijk recht, als vermeld in het eerste lid, wil uitoefenen, dan moet de netbeheerder de ondergrondse lijnen of leidingen, de bovengrondse lijnen en de steunen die geplaatst zijn op de onbebouwde grond, wegnemen, verplaatsen of aanpassen, voor zover deze de uitvoering van de rechten, vermeld in het eerste lid, hinderen. De eigenaar, pachter, domeinbeheerder of de houder van een zakelijk recht op het bewuste onroerend goed bezorgt de betrokken netbeheerder dat verzoek minstens zes maanden voor de geplande start van de werken.<br /><br />De kosten voor het wegnemen, verplaatsen of aanpassen zijn ten laste van de betrokken netbeheerder.<br /><br />De betrokken netbeheerder kan die kosten terugvorderen van respectievelijk de eigenaar, pachter, domeinbeheerder of van de houder van een zakelijk recht als die nog niet gestart is met de werken binnen een termijn van drie jaar na het verzoek tot wegneming, verplaatsing of aanpassing.
+Met uitzondering van de uitoefening van de rechten, vermeld in artikel 4.1.23, § 3/1, kan de uitoefening door de netbeheerder van de rechten, vermeld in artikel 4.1.23, de eigenaar, pachter, domeinbeheerder of de houder van een zakelijk recht op het bewuste onroerend goed niet hinderen in zijn recht van omheinen, afbreken, verbouwen, herstellen of bouwen.<br>
+<br>
+Als de eigenaar, pachter, domeinbeheerder of houder van een zakelijk recht een dergelijk recht, als vermeld in het eerste lid, wil uitoefenen, dan moet de netbeheerder de ondergrondse lijnen of leidingen, de bovengrondse lijnen en de steunen die geplaatst zijn op de onbebouwde grond, wegnemen, verplaatsen of aanpassen, voor zover deze de uitvoering van de rechten, vermeld in het eerste lid, hinderen. De eigenaar, pachter, domeinbeheerder of de houder van een zakelijk recht op het bewuste onroerend goed bezorgt de betrokken netbeheerder dat verzoek minstens zes maanden voor de geplande start van de werken.<br>
+<br>
+De kosten voor het wegnemen, verplaatsen of aanpassen zijn ten laste van de betrokken netbeheerder.<br>
+<br>
+De betrokken netbeheerder kan die kosten terugvorderen van respectievelijk de eigenaar, pachter, domeinbeheerder of van de houder van een zakelijk recht als die nog niet gestart is met de werken binnen een termijn van drie jaar na het verzoek tot wegneming, verplaatsing of aanpassing.
 
 ## [Onderafdeling II. Onteigeningen door de netbeheerder (ing. Decr. 16 maart 2012, art. 7, I: 1 juli 2012)]
 
@@ -1550,11 +1616,27 @@ De netbeheerders kunnen, onder toezicht van de VREG, voor de unieke identificati
 
 ### ART. 4.1.27.
 
-§ 1. De netbeheerder heeft het recht het openbaar domein te gebruiken voor   de aanleg en het onderhoud van aardgasleidingen en elektrische lijnen boven of   onder het openbaar domein en de bijbehorende uitrustingen, als hij over een   voorafgaandelijke domeintoelating van de domeinbeheerder beschikt. Daarbij   gelden de voorwaarden die de domeinbeheerder nuttig acht bij de verlening van de   domeintoelating.<BR><BR>In afwijking van het eerste lid en onverminderd de   bepalingen van artikel 4.1.28 hebben de netbeheerders, waarvan de gemeenten   enerzijds geheel of gedeeltelijk en anderzijds rechtstreeks of onrechtstreeks   aandeelhouder zijn, het recht om op het openbaar domein dat beheerd wordt door   een van hun deelnemende gemeenten, distributienetten aan te leggen, te   onderhouden en uit te baten.<BR><BR>§ 2. In afwijking van de procedure, vermeld   in paragraaf 1, wordt, als voor de geplande werkzaamheden, vermeld in paragraaf   1, zowel een domeintoelating als een omgevingsvergunning voor stedenbouwkundige   handelingen nodig is, de aanvraag tot het verkrijgen van een domeintoelating   samengevoegd met de aanvraag tot het verkrijgen van een omgevingsvergunning voor   stedenbouwkundige handelingen. Beide aanvragen worden samen ingediend bij het   vergunningverlenende bestuursorgaan.<BR><BR>Het vergunningverlenende   bestuursorgaan verzoekt binnen tien dagen na de ontvangst van de aanvraag elke   domeinbeheerder op het openbaar domein van wie het geplande traject loopt of de   werkzaamheden gepland zijn om een domeintoelating, als vermeld in paragraaf 1,   te verlenen of af te wijzen. De door het verzoek gevatte domeinbeheerders   brengen hun beslissing ter kennis van het vergunningverlenende bestuursorgaan,   rekening houdend met volgende regelingen :<BR>1° indien de vergunningsaanvraag   onderworpen is aan een openbaar onderzoek, voorzien in het decreet van 25 april   2014 betreffende de omgevingsvergunning, wordt de beslissing ter kennis gebracht   aan het vergunningverlenende bestuursorgaan binnen een termijn van dertig dagen,   die ingaat de dag na deze waarop het openbaar onderzoek werd afgesloten;<BR>2°   in alle andere gevallen, wordt de beslissing ter kennis gebracht binnen een   termijn van dertig dagen, ingaand de dag na deze van de ontvangst van het   verzoek. Deze termijn kan door de domeinbeheerder eenmalig gemotiveerd worden   verlengd met vijftien dagen.<BR><BR>Als de domeinbeheerder binnen de termijn,   vermeld in het tweede lid, geen beslissing neemt, wordt de aanvraag tot het   verkrijgen van de domeintoelating geacht te zijn toegestaan.<BR><BR>De   beslissingen over het al dan niet verlenen van de domeintoelatingen en de   omgevingsvergunning worden door het vergunningverlenende bestuursorgaan ter   kennis gebracht van de aanvrager met een aangetekende brief of enige andere vorm   van beveiligde zending, vermeld in artikel 2, 2°, van het decreet van 25 april   2014 betreffende de omgevingsvergunning.<BR><BR>§ 3. De Vlaamse Regering kan   nadere regels bepalen voor de na te leven voorwaarden, de dossiersamenstelling   en de te volgen procedure.
+§ 1. De netbeheerder heeft het recht het openbaar domein en de gemeentewegen te gebruiken voor de aanleg en het onderhoud van aardgasleidingen en elektrische lijnen boven of onder het openbaar domein,&nbsp;de gemeentewegen, en de bijbehorende uitrustingen, als hij over een voorafgaandelijke domeintoelating van de domeinbeheerder beschikt. Daarbij gelden de voorwaarden die de domeinbeheerder nuttig acht bij de verlening van de domeintoelating.<br>
+<br>
+In afwijking van het eerste lid en onverminderd de bepalingen van artikel 4.1.28 hebben de netbeheerders, waarvan de gemeenten enerzijds geheel of gedeeltelijk en anderzijds rechtstreeks of onrechtstreeks aandeelhouder zijn, het recht om op het openbaar domein en de gemeentewegen die beheerd worden&nbsp;door een van hun deelnemende gemeenten, distributienetten aan te leggen, te onderhouden en uit te baten.<br>
+<br>
+§ 2. In afwijking van de procedure, vermeld in paragraaf 1, wordt, als voor de geplande werkzaamheden, vermeld in paragraaf 1, zowel een domeintoelating als een omgevingsvergunning voor stedenbouwkundige handelingen nodig is, de aanvraag tot het verkrijgen van een domeintoelating samengevoegd met de aanvraag tot het verkrijgen van een omgevingsvergunning voor stedenbouwkundige handelingen. Beide aanvragen worden samen ingediend bij het vergunningverlenende bestuursorgaan.<br>
+<br>
+Het vergunningverlenende bestuursorgaan verzoekt binnen tien dagen na de ontvangst van de aanvraag elke domeinbeheerder van de gemeentewegen of elke domeinbeheerder op het openbaar domein van wie het geplande traject loopt of de werkzaamheden gepland zijn om een domeintoelating, als vermeld in paragraaf 1, te verlenen of af te wijzen. De door het verzoek gevatte domeinbeheerders brengen hun beslissing ter kennis van het vergunningverlenende bestuursorgaan, rekening houdend met volgende regelingen :<br>
+1° indien de vergunningsaanvraag onderworpen is aan een openbaar onderzoek, voorzien in het decreet van 25 april 2014 betreffende de omgevingsvergunning, wordt de beslissing ter kennis gebracht aan het vergunningverlenende bestuursorgaan binnen een termijn van dertig dagen, die ingaat de dag na deze waarop het openbaar onderzoek werd afgesloten;<br>
+2° in alle andere gevallen, wordt de beslissing ter kennis gebracht binnen een termijn van dertig dagen, ingaand de dag na deze van de ontvangst van het verzoek. Deze termijn kan door de domeinbeheerder eenmalig gemotiveerd worden verlengd met vijftien dagen.<br>
+<br>
+Als de domeinbeheerder binnen de termijn, vermeld in het tweede lid, geen beslissing neemt, wordt de aanvraag tot het verkrijgen van de domeintoelating geacht te zijn toegestaan.<br>
+<br>
+De beslissingen over het al dan niet verlenen van de domeintoelatingen en de omgevingsvergunning worden door het vergunningverlenende bestuursorgaan ter kennis gebracht van de aanvrager met een aangetekende brief of enige andere vorm van beveiligde zending, vermeld in artikel 2, 2°, van het decreet van 25 april 2014 betreffende de omgevingsvergunning.<br>
+<br>
+§ 3. De Vlaamse Regering kan nadere regels bepalen voor de na te leven voorwaarden, de dossiersamenstelling en de te volgen procedure.
 
 ### ART. 4.1.28.
 
-De domeinbeheerder kan om redenen van algemeen belang op elk moment voorwaarden van de domeintoelating toevoegen of aanpassen of de netbeheerder verplichten de ondergrondse lijnen of leidingen, de bovengrondse lijnen en de steunen die geplaatst zijn op het openbaar domein weg te nemen, te verplaatsen of aan te passen. De betrokken netbeheerder geeft daar uitvoering aan binnen een redelijke termijn na de ontvangst van het verzoek daartoe.<br /><br />De kosten voor het wegnemen, verplaatsen of aanpassen zijn ten laste van de betrokken netbeheerder.
+De domeinbeheerder kan om redenen van algemeen belang op elk moment voorwaarden van de domeintoelating toevoegen of aanpassen of de netbeheerder verplichten de ondergrondse lijnen of leidingen, de bovengrondse lijnen en de steunen die geplaatst zijn op het openbaar domein&nbsp;of de gemeentewegen weg te nemen, te verplaatsen of aan te passen. De betrokken netbeheerder geeft daar uitvoering aan binnen een redelijke termijn na de ontvangst van het verzoek daartoe.<br>
+<br>
+De kosten voor het wegnemen, verplaatsen of aanpassen zijn ten laste van de betrokken netbeheerder.
 
 ## [Afdeling XII. Tarieven voor de aansluiting op en het gebruik van het distributienet (ing. decr. 27 november 2015, art. 8, I: 10 december 2015)]
 
@@ -1805,7 +1887,7 @@ De VREG brengt de aanvrager van de toelating en de netbeheerder in wiens geograf
 <br>
 De VREG publiceert op zijn website een actuele lijst van de directe lijnen en de directe leidingen, waarvoor conform deze paragraaf een toelating is verleend, alsook van de beheerders van die directe lijnen en directe leidingen.<br>
 <br>
-§ 3. Als de aanleg van een directe lijn of een directe leiding de eigen site overschrijdt en als het openbaar domein daarbij wordt doorkruist, zijn de procedure en de voorwaarden, vermeld in artikel 4.1.27 en artikel 4.1.28, van overeenkomstige toepassing. De beheerder van de directe lijn of de directe leiding kan de procedure pas starten als hij de toelating van de VREG, vermeld in paragraaf 2, gekregen heeft.
+§ 3. Als de aanleg van een directe lijn of een directe leiding de eigen site overschrijdt en als het openbaar domein&nbsp; of een gemeenteweg daarbij wordt doorkruist, zijn de procedure en de voorwaarden, vermeld in artikel 4.1.27 en artikel 4.1.28, van overeenkomstige toepassing. De beheerder van de directe lijn of de directe leiding kan de procedure pas starten als hij de toelating van de VREG, vermeld in paragraaf 2, gekregen heeft.
 
 ### ART. 4.5.2.
 
@@ -1823,7 +1905,7 @@ De VREG hanteert hierbij de criteria zoals vermeld in artikel 1.1.3, 56°/2, en 
 <br>
 De VREG kan de toelating opheffen zodra wordt vastgesteld dat niet meer aan de criteria van artikel 1.1.3, 56°/2, is voldaan.<br>
 <br>
-Als door de aanleg van een gesloten distributienet het openbaar domein moet worden doorkruist, zijn de procedure en de voorwaarden, vermeld in artikel 4.1.27 en artikel 4.1.28, van overeenkomstige toepassing. De procedure kan door de beheerder van het gesloten distributienet pas worden aangevat als de toelating van de VREG, vermeld in het eerste lid, verworven is.<br>
+Als door de aanleg van een gesloten distributienet het openbaar domein of een gemeenteweg moet worden doorkruist, zijn de procedure en de voorwaarden, vermeld in artikel 4.1.27 en artikel 4.1.28, van overeenkomstige toepassing. De procedure kan door de beheerder van het gesloten distributienet pas worden aangevat als de toelating van de VREG, vermeld in het eerste lid, verworven is.<br>
 <br>
 § 3. De VREG kan de nadere modaliteiten vastleggen voor de melding, de toekenning en de opheffing van de toelating, onverminderd wat bepaald is in paragraaf 2, eerste lid.<br>
 <br>
@@ -1935,7 +2017,7 @@ De VREG moet de tarieven of de methodes om de tarieven voor de toegang tot het g
 <br>
 Een privédistributienet kan een openbare weg, waterloop, treinspoor of ander openbaar domein alleen kruisen als hiertoe toestemming van de distributienetbeheerder verkregen is. De netbeheerder beslist over de toestemming binnen een termijn van zestig dagen na ontvangst van de aanvraag. Als de netbeheerder oordeelt dat de toetsing van de aanvraag aan de voorwaarden uit dit hoofdstuk moeilijk tijdig uit te voeren is, dan deelt de netbeheerder aan de aanvrager mee dat de termijn van zestig kalenderdagen verlengd wordt tot een termijn van negentig kalenderdagen. De verlengingsbeslissing vermeldt de reden of de redenen voor het uitstel.<br>
 <br>
-Als door de aanleg van een privédistributienet het openbaar domein moet worden doorkruist, zijn de procedure en de voorwaarden, vermeld in artikel 4.1.27 en artikel 4.1.28, van overeenkomstige toepassing. De procedure kan door de beheerder van het privédistributienet pas worden aangevat als de toelating van de distributienetbeheerder, vermeld in het tweede lid, verworven is.
+Als door de aanleg van een privédistributienet het openbaar domein of een gemeenteweg moet worden doorkruist, zijn de procedure en de voorwaarden, vermeld in artikel 4.1.27 en artikel 4.1.28, van overeenkomstige toepassing. De procedure kan door de beheerder van het privédistributienet pas worden aangevat als de toelating van de distributienetbeheerder, vermeld in het tweede lid, verworven is.
 
 ### ART. 4.7.2.
 
@@ -2163,11 +2245,11 @@ De warmte- of koudenetbeheerders kunnen voor de unieke identificatie van warmte-
 
 ### ART 4/1.1.13.
 
-§ 1. De warmte- of koudenetbeheerder heeft het recht het openbaar domein te gebruiken voor de aanleg en het onderhoud van leidingen boven of onder het openbaar domein en de bijbehorende uitrustingen als hij over een voorafgaande domeintoelating van de domeinbeheerder beschikt. Daarbij gelden de voorwaarden die de domeinbeheerder nuttig acht bij de verlening van de domeintoelating.<br>
+§ 1. De warmte- of koudenetbeheerder heeft het recht het openbaar domein&nbsp;en de gemeentewegen te gebruiken voor de aanleg en het onderhoud van leidingen boven of onder het openbaar domein, de gemeentewegen, en de bijbehorende uitrustingen als hij over een voorafgaande domeintoelating van de domeinbeheerder beschikt. Daarbij gelden de voorwaarden die de domeinbeheerder nuttig acht bij de verlening van de domeintoelating.<br>
 <br>
 § 2. In afwijking van de procedure, vermeld in paragraaf 1, wordt, als voor de geplande werkzaamheden, vermeld in paragraaf 1, zowel een domeintoelating als een stedenbouwkundige vergunning nodig is, de aanvraag van een domeintoelating samengevoegd met de aanvraag van een stedenbouwkundige vergunning. Beide aanvragen worden samen ingediend bij het vergunningverlenende bestuursorgaan.<br>
 <br>
-Het vergunningverlenende bestuursorgaan verzoekt binnen tien dagen na de ontvangst van de aanvraag elke domeinbeheerder op het openbaar domein van wie het geplande traject loopt of de werkzaamheden gepland zijn, om een domeintoelating als vermeld in paragraaf 1, te verlenen of af te wijzen. De domeinbeheerders op wie het verzoek betrekking heeft, brengen het vergunningverlenende bestuursorgaan op de hoogte van hun beslissing en ze houden daarbij rekening met de volgende regelingen:<br>
+Het vergunningverlenende bestuursorgaan verzoekt binnen tien dagen na de ontvangst van de aanvraag elke domeinbeheerder&nbsp;van de gemeentewegen of elke domeinbeheerder op het openbaar domein van wie het geplande traject loopt of de werkzaamheden gepland zijn, om een domeintoelating als vermeld in paragraaf 1, te verlenen of af te wijzen. De domeinbeheerders op wie het verzoek betrekking heeft, brengen het vergunningverlenende bestuursorgaan op de hoogte van hun beslissing en ze houden daarbij rekening met de volgende regelingen:<br>
 1° als de vergunningsaanvraag onderworpen is aan een openbaar onderzoek als vermeld in de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, wordt het vergunningverlenende bestuursorgaan op de hoogte gebracht van de beslissing binnen een termijn van dertig dagen, die ingaat op de dag nadat het openbaar onderzoek is afgesloten;<br>
 2° in alle andere gevallen wordt het vergunningverlenende bestuursorgaan op de hoogte gebracht van de beslissing binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van het verzoek. Die termijn kan door de domeinbeheerder eenmalig gemotiveerd worden verlengd met vijftien dagen.<br>
 <br>
@@ -2179,7 +2261,7 @@ Het vergunningverlenende bestuursorgaan brengt de aanvrager op de hoogte van de 
 
 ### ART 4/1.1.14.
 
-De domeinbeheerder kan om redenen van algemeen belang op elk moment voorwaarden van de domeintoelating toevoegen of aanpassen of de warmte- of koudenetbeheerder verplichten de ondergrondse of bovengrondse leidingen en de steunen die geplaatst zijn op het openbaar domein, weg te nemen, te verplaatsen of aan te passen. De betrokken warmte- of koudenetbeheerder geeft daar uitvoering aan binnen een redelijke termijn na de ontvangst van het verzoek daarom.<br>
+De domeinbeheerder kan om redenen van algemeen belang op elk moment voorwaarden van de domeintoelating toevoegen of aanpassen of de warmte- of koudenetbeheerder verplichten de ondergrondse of bovengrondse leidingen en de steunen die geplaatst zijn op het openbaar domein of&nbsp;de gemeentewegen, weg te nemen, te verplaatsen of aan te passen. De betrokken warmte- of koudenetbeheerder geeft daar uitvoering aan binnen een redelijke termijn na de ontvangst van het verzoek daarom.<br>
 <br>
 De kosten voor het wegnemen, verplaatsen of aanpassen zijn ten laste van de betrokken warmte- of koudenetbeheerder.
 
@@ -2407,7 +2489,7 @@ Het aantal groenestroomcertificaten dat wordt toegekend voor elke 1 000 kWh elek
 <br>
 De Vlaamse Regering kan de toekenning van groenestroomcertificaten ook beperken op basis van het aantal vollasturen die gehanteerd worden in de berekeningsmethodiek van de onrendabele top voor die hernieuwbare energietechnologie. De Vlaamse Regering kan daarnaast voor nieuwe installaties en verlengingsaanvragen met betrekking tot de periodes, vermeld in artikel 7.1.1, § 1, vierde en vijfde lid, van bestaande installaties het aantal groenestroomcertificaten begrenzen tot een bepaalde hoeveelheid groenestroomcertificaten.<br>
 <br>
-Bij productie-installaties voor fotovoltaïsche zonne-energie met startdatum vanaf 1 januari 2013 komen uitbreidingen die vanaf 1 september 2019 in dienst genomen zijn en die aangesloten zijn op hetzelfde toegangspunt, waarbij het gezamenlijke maximale vermogen van de omvormers van de installatie na de uitbreiding meer bedraagt dan 2 MW, niet in aanmerking voor het toekennen van groenestroomcertificaten, voor zover niet minstens 36 maanden verstreken zijn vanaf de ingebruikname van de installatie of de ingebruikname van de laatste uitbreiding op dat toegangspunt.<br>
+Bij productie-installaties voor fotovoltaïsche zonne-energie met startdatum vanaf 1 januari 2013 komen uitbreidingen die vanaf 1 september 2019 in dienst genomen zijn en die aangesloten zijn op hetzelfde toegangspunt, waarbij het gezamenlijke maximale vermogen van de omvormers van de installatie na de uitbreiding meer bedraagt dan 5 MW, niet in aanmerking voor het toekennen van groenestroomcertificaten, voor zover niet minstens 36 maanden verstreken zijn vanaf de ingebruikname van de installatie of de ingebruikname van de laatste uitbreiding op dat toegangspunt.<br>
 <br>
 § 3. De Vlaamse Regering kan, in afwijking van § 2, derde lid, bepalen dat aan installaties waaraan groenestroomcertificaten werden toegekend, na afloop van de periode waarin de installatie voor steun in aanmerking komt op grond van § 2, derde lid, extra groenestroomcertificaten worden toegekend. Installaties die als brandstof gebruikmaken van biomassa komen echter niet in aanmerking voor een dergelijke verlenging.<br>
 <br>
@@ -2947,7 +3029,32 @@ De Vlaamse Regering kan de warmte- of koudenetbeheerders openbaredienstverplicht
 
 ### ART. 7.7.2.
 
-§ 1. De Vlaamse Regering kan aan ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen verplichtingen opleggen om hen aan te zetten hun energiegebruik te rationaliseren en gebruik te maken van hernieuwbare energietechnologieën.<br /><br />§ 2. De verplichtingen, vermeld in § 1, omvatten :<br />1° het opzetten van een energieboekhouding;<br />2° het uitvoeren van rendabele investeringen, die al dan niet ter kennis worden gebracht door een energieplan of een energiestudie;<br />3° het periodiek dan wel eenmalig laten opmaken van een energieplan en/of een energiestudie door een energiedeskundige.<br /><br />De Vlaamse Regering kan voor een of meer van de voorgaande verplichtingen vrijstelling verlenen en/of de periodiciteit bepalen.<br /><br />§ 3. De Vlaamse Regering bepaalt de nadere regels met betrekking tot de rendabele investeringen. De Vlaamse Regering evalueert om de vier jaar en voor het eerst in 2012 de definitie van rendabele investeringen, zoals bepaald in artikel 1.1.3, 111°. De Vlaamse Regering wordt gemachtigd om na evaluatie een nieuwe interne rentevoet na belastingen vast te leggen.<br /><br />§ 4. De Vlaamse Regering kan een instantie aanduiden die de energieplannen en de energiestudies conform moet verklaren.<br /><br />§ 5. De energiedeskundige stelt de energieplannen en de energiestudies ter beschikking van de bedrijfsleiding en, in voorkomend geval, ten behoeve van de ondernemingsraad en het comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen of bij ontstentenis van die organen, de vakbondsafvaardiging.<br /><br />§ 6. De Vlaamse Regering bepaalt de concrete opmaak, de inhoud en, in voorkomend geval, de conformverklaring van de energieplannen en energiestudies.<br /><br />§ 7. Ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen die een energiebeleidsovereenkomst met de Vlaamse Regering sluiten, moeten minstens voldoen aan de verplichtingen, vermeld in § 1, die gelden op het moment van het sluiten van de energiebeleidsovereenkomst.<br /><br />Als de Vlaamse Regering op basis van § 1 verplichtingen oplegt, zijn die verplichtingen voor ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen die een energiebeleidsovereenkomst hebben gesloten, niet strenger dan de overeenkomstige bepalingen, opgenomen in de energiebeleidsovereenkomst en van die aard dat ze niet voor extra lasten zorgen ten opzichte van de overeenkomstige bepalingen in de energiebeleidsovereenkomst, behalve om te voldoen aan internationale of Europese verplichtingen, steeds rekening houdend met het engagement van het Vlaamse Gewest in de energiebeleidsovereenkomsten. In die gevallen pleegt de Vlaamse Regering vooraf overleg met de andere partijen van de energiebeleidsovereenkomst.<br /><br />De Vlaamse Regering bepaalt de nadere regels voor de te volgen overlegprocedure.<br /><br />§ 8. In afwijking van de vorige paragraaf kan de Vlaamse Regering verplichtingen, als vermeld in § 1, opleggen aan ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen die de bepalingen van de gesloten energiebeleidsovereenkomst niet naleven.<br /><br />§ 9. De Vlaamse Regering kan de tegemoetkomingen, vermeld in titel VIII van dit decreet beperken tot de ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen die een energiebeleidsovereenkomst hebben gesloten.
+§ 1. De Vlaamse Regering kan aan ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen verplichtingen opleggen om hen aan te zetten hun energiegebruik te rationaliseren en gebruik te maken van hernieuwbare energietechnologieën.<br>
+<br>
+§ 2. De verplichtingen, vermeld in § 1, omvatten :<br>
+1° het opzetten van een energieboekhouding;<br>
+2° het uitvoeren van rendabele investeringen, die al dan niet ter kennis worden gebracht door&nbsp;een energieaudit, een energieplan of een energiestudie;<br>
+3° het periodiek dan wel eenmalig laten opmaken van&nbsp;een energieaudit, een energieplan en/of een energiestudie door een energiedeskundige.<br>
+<br>
+De Vlaamse Regering kan voor een of meer van de voorgaande verplichtingen vrijstelling verlenen en/of de periodiciteit bepalen.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt de nadere regels met betrekking tot de rendabele investeringen. De Vlaamse Regering evalueert om de vier jaar en voor het eerst in 2012 de definitie van rendabele investeringen, zoals bepaald in artikel 1.1.3, 111°. De Vlaamse Regering wordt gemachtigd om na evaluatie een nieuwe interne rentevoet na belastingen vast te leggen.<br>
+<br>
+§ 4. De Vlaamse Regering kan een instantie aanduiden die de&nbsp;energieaudits, de energieplannen en de energiestudies conform moet verklaren.<br>
+<br>
+§ 5. De energiedeskundige stelt de energieaudits, de energieplannen en de energiestudies ter beschikking van de bedrijfsleiding en, in voorkomend geval, ten behoeve van de ondernemingsraad en het comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen of bij ontstentenis van die organen, de vakbondsafvaardiging.<br>
+<br>
+§ 6. De Vlaamse Regering bepaalt de concrete opmaak, de inhoud en, in voorkomend geval, de conformverklaring van de energieaudits, de energieplannen en energiestudies.<br>
+<br>
+§ 7. Ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen die een energiebeleidsovereenkomst met de Vlaamse Regering sluiten, moeten minstens voldoen aan de verplichtingen, vermeld in § 1, die gelden op het moment van het sluiten van de energiebeleidsovereenkomst.<br>
+<br>
+Als de Vlaamse Regering op basis van § 1 verplichtingen oplegt, zijn die verplichtingen voor ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen die een energiebeleidsovereenkomst hebben gesloten, niet strenger dan de overeenkomstige bepalingen, opgenomen in de energiebeleidsovereenkomst en van die aard dat ze niet voor extra lasten zorgen ten opzichte van de overeenkomstige bepalingen in de energiebeleidsovereenkomst, behalve om te voldoen aan internationale of Europese verplichtingen, steeds rekening houdend met het engagement van het Vlaamse Gewest in de energiebeleidsovereenkomsten. In die gevallen pleegt de Vlaamse Regering vooraf overleg met de andere partijen van de energiebeleidsovereenkomst.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de te volgen overlegprocedure.<br>
+<br>
+§ 8. In afwijking van de vorige paragraaf kan de Vlaamse Regering verplichtingen, als vermeld in § 1, opleggen aan ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen die de bepalingen van de gesloten energiebeleidsovereenkomst niet naleven.<br>
+<br>
+§ 9. De Vlaamse Regering kan de tegemoetkomingen, vermeld in titel VIII van dit decreet beperken tot de ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen die een energiebeleidsovereenkomst hebben gesloten.
 
 ## [HOOFDSTUK VIII. ... (opgeh. decr. 10 maart 2017, art. 23, I: te bepalen door de Vlaamse Regering)]
 
@@ -3196,7 +3303,7 @@ Om als verslaggever te kunnen optreden is de natuurlijke persoon of in geval van
 4° industrieel ingenieur;<br>
 5° technisch ingenieur;<br>
 6° bio-ingenieur;<br>
-7° gegradueerde in de Bouw;<br>
+7° ...;<br>
 8° architect-assistent;<br>
 9° bachelor in de Bouw(kunde);<br>
 10° bachelor in de Elektromechanica: afstudeerrichting Klimatisering;<br>
@@ -3277,11 +3384,11 @@ De Vlaamse Regering kan vrijstellingen of afwijkingen toestaan op de door haar v
 2° voor gebouwen die worden gebruikt voor erediensten en religieuze activiteiten;<br>
 3° als voor het verkrijgen van de omgevingsvergunning of de melding de tussenkomst van een architect niet vereist is;<br>
 4° als het behalen van de EPB-eisen bij bestaande gebouwen en bij nieuwe gebouwen technisch, functioneel of economisch niet haalbaar is;<br>
-5° voor industriegebouwen of werkplaatsen;<br>
+5° voor industriële gebouwen of werkplaatsen;<br>
 6° voor tijdelijke constructies;<br>
 7° voor alleenstaande gebouwen met een totale bruikbare vloeroppervlakte van minder dan 50 m2;<br>
 8° voor niet voor bewoning bestemde gebouwen van landbouwbedrijven met een lage energiebehoefte en niet voor bewoning bestemde gebouwen van landbouwbedrijven die in gebruik zijn bij een sector die onder een energiebeleidsovereenkomst inzake energieprestatie valt;<br>
-9° voor de niet voor bewoning bestemde gedeelten met een maximale bruikbare vloeroppervlakte van 50 m<sup>2</sup> met een andere functie dan industrie of landbouw, gelegen in industriegebouwen, niet voor bewoning bestemde gebouwen van landbouwbedrijven met een lage energiebehoefte en niet voor bewoning bestemde gebouwen van landbouwbedrijven die in gebruik zijn bij een sector die onder een energiebeleidsovereenkomst inzake energieprestatie valt.<br>
+9° voor de niet voor bewoning bestemde gedeelten met een maximale bruikbare vloeroppervlakte van 50 m<sup>2</sup> met een andere functie dan industrie of landbouw, gelegen in industriële gebouwen, niet voor bewoning bestemde gebouwen van landbouwbedrijven met een lage energiebehoefte en niet voor bewoning bestemde gebouwen van landbouwbedrijven die in gebruik zijn bij een sector die onder een energiebeleidsovereenkomst inzake energieprestatie valt.<br>
 <br>
 Als de Vlaamse Regering wat punt 3° betreft een vrijstelling toestaat, als vermeld in het eerste lid, 3°, dan gelden de EPB-eisen, vermeld in artikel 11.1.1, § 2.
 
@@ -3451,7 +3558,9 @@ Vanaf 1 april 2022 rapporteren de installateurs van stookolieketels per kwartaal
 <br>
 Het energieprestatiecertificaat bevat referentiewaarden op basis waarvan de energieprestaties van het gebouw kunnen worden beoordeeld en vergeleken met die van andere gebouwen. In het energieprestatiecertificaat worden ook aanbevelingen opgenomen voor de kostenefficiënte verbetering van de energieprestatie van het gebouw of tips voor goed gebruikersgedrag.<br>
 <br>
-De Vlaamse Regering bepaalt de berekeningsmethode, de verdere inhoud en de vorm van het energieprestatiecertificaat. De Vlaamse Regering kan ook nadere regels vastleggen voor de labeling van gebouwen.<br>
+De Vlaamse Regering bepaalt de berekeningsmethode, de verdere inhoud en de vorm van het energieprestatiecertificaat.<br>
+<br>
+De Vlaamse Regering kan ook nadere regels vastleggen voor de labeling van gebouwen. De Vlaamse Regering kan daarbij ook bepalen dat gebouwen een minimaal energieprestatielabel moeten behalen. De Vlaamse Regering kan daarbij een onderscheid maken naar type van gebouw.&nbsp;<br>
 <br>
 De geldigheidsduur van een energieprestatiecertificaat kan niet langer zijn dan tien jaar. De Vlaamse Regering bepaalt de gevallen waarin een energieprestatiecertificaat kan worden ingetrokken of aangepast.<br>
 <br>
@@ -3465,7 +3574,9 @@ De Vlaamse Regering bepaalt de nadere regels om de bruikbare vloeroppervlakte te
 <br>
 De Vlaamse Regering kan bepalen welke delen van het energieprestatiecertificaat aangebracht worden op een opvallende plaats die duidelijk zichtbaar is voor het publiek.<br>
 <br>
-§ 3. Elke verkoper of verhuurder, alsook zijn opdrachthouder,&nbsp;lasthebber of gevolmachtigde, vermeldt het op het energieprestatiecertificaat vermelde kengetal of label alsmede de unieke code van het energieprestatiecertificaat of het adres van het gebouw in alle commerciële advertenties die hij maakt voor de verkoop of verhuur van een gebouw, dat conform § 1 over een energieprestatiecertificaat dient te beschikken.<br>
+§ 3. Elke verkoper, verhuurder, erfpachtgever, opstalgever, houder van een zakelijk recht, en ook de opdrachthouder, lasthebber of gevolmachtigde, vermeldt de volgende gegevens in alle commerciële advertenties die hij plaatst of laat plaatsen voor de verkoop of verhuur van een gebouw of de vestiging van een zakelijk recht erop, dat conform paragraaf 1 over een energieprestatiecertifi caat beschikt:<br>
+1° het kengetal of label dat op het energieprestatiecertificaat staat;<br>
+2° de unieke code van het energieprestatiecertificaat of het adres van het gebouw.<br>
 <br>
 De Vlaamse Regering kan nadere regels bepalen betreffende de vorm van deze publiciteit.
 
@@ -3475,7 +3586,9 @@ De Vlaamse Regering kan nadere regels bepalen betreffende de vorm van deze publi
 <br>
 § 2. De Vlaamse Regering kan de de personen, vermeld in artikel 11.2.1, § 1, eerste lid, verplichten om bij het aangaan van een nieuwe huurovereenkomst een geldig energieprestatiecertificaat aan de huurder ter beschikking te stellen.<br>
 <br>
-§ 3. De Vlaamse Regering kan aan de instrumenterende ambtenaar en aan derden verplichtingen opleggen in het kader van de uitvoering van de verplichtingen, vermeld in § 1 en § 2 en in artikel 11.2.1.
+§ 2/1. De Vlaamse Regering kan de personen, vermeld in artikel 11.2.1, § 1, eerste lid, verplichten om bij het aangaan van een nieuwe opstalovereenkomst, bij erfpacht of bij de vestiging van een ander zakelijk recht een geldig energieprestatiecertificaat aan de nieuwe houder van het zakelijk recht ter beschikking te stellen.<br>
+<br>
+§ 3. De Vlaamse Regering kan aan de instrumenterende ambtenaar en aan derden verplichtingen opleggen in het kader van de uitvoering van de verplichtingen, vermeld in paragraaf 1, 2 en 2/1 en in artikel 11.2.1.
 
 ### ART. 11.2.3.
 
@@ -3499,17 +3612,19 @@ Het Vlaams Energieagentschap kan, onder de voorwaarden bepaald door de Vlaamse R
 
 ### ART 11.2/2.1.
 
-§ 1. De Vlaamse Regering kan bepalen dat niet-residentiële gebouwen of gebouweenheden bij een notariële overdracht in volle eigendom, of bij het vestigen van een opstalrecht of erfpacht op een niet-residentieel gebouw of de niet-residentiële gebouweenheid, binnen een gestelde termijn na het verlijden van de authentieke akte aan een minimaal energieprestatieniveau voldoen. De Vlaamse Regering kan hier ook een reeks van aparte eisen, maatregelen en type-renovatiewerken bepalen die daarbij als een minimum binnen die termijn moeten worden uitgevoerd.<br>
+§ 1. De Vlaamse Regering kan bepalen dat residentiële gebouwen en niet-residentiële gebouwen of gebouweenheden bij een notariële overdracht in volle eigendom, of bij het vestigen of overdragen van een opstalrecht of erfpacht op een&nbsp;residentieel gebouw of niet-residentieel gebouw of de niet-residentiële gebouweenheid, binnen een gestelde termijn na het verlijden van de authentieke akte aan een minimaal energieprestatieniveau voldoen. De Vlaamse Regering kan hier ook een reeks van aparte eisen, maatregelen en type-renovatiewerken bepalen die daarbij als een minimum binnen die termijn moeten worden uitgevoerd.<br>
 <br>
-De uitvoering van de verplichting, vermeld in het eerste lid, wordt opgelegd aan respectievelijk de eigenaar, de opstalhouder, of de erfpachter. In geval na de verkoop van het niet-residentieel gebouw of de niet-residentiële gebouweenheid&nbsp;gedurende de looptijd van deze verplichting die op&nbsp;het gebouw of de gebouweenheid rust:<br>
-1° het&nbsp;niet-residentieel gebouw of de niet-residentiële gebouweenheid wordt geërfd, dan gaat de verplichting over op de erfgenaam of legataris. De erfgenaam of de legataris moet dan binnen de resterende termijn voldoen aan het minimaal energieprestatieniveau dat de erflater diende te halen;<br>
-2° het&nbsp;niet-residentieel gebouw of de niet-residentiële gebouweenheid wordt geschonken of verkocht, of een opstalrecht of erfpacht wordt erop gevestigd, dan gaat de verplichting over op de koper of de ontvanger van de schenking of de erfpachter of opstalhouder. De koper, de ontvanger van de schenking, de erfpachter of de opstalhouder moet dan binnen de resterende termijn voldoen aan het minimaal energieprestatieniveau dat de verkoper, schenker, erfpachtgever of opstalgever zelf diende te halen. Indien het te behalen minimaal energieprestatieniveau sindsdien werd verstrengd rust bijkomend op de nieuwe eigenaar, erfpachter of de opstalhouder de verplichting om binnen een gestelde termijn na het verlijden van de authentieke akte aan dat verstrengde minimaal energieprestatieniveau te voldoen.<br>
+De uitvoering van de verplichting, vermeld in het eerste lid, wordt opgelegd aan respectievelijk de eigenaar, de opstalhouder, of de erfpachter. In geval na de verkoop van het residentieel gebouw of niet-residentieel gebouw of de niet-residentiële gebouweenheid&nbsp;gedurende de looptijd van deze verplichting die op&nbsp;het gebouw of de gebouweenheid rust:<br>
+1° het&nbsp;residentieel gebouw of niet-residentieel gebouw of de niet-residentiële gebouweenheid wordt geërfd, dan gaat de verplichting over op de erfgenaam of legataris. De erfgenaam of de legataris moet dan binnen de resterende termijn voldoen aan het minimaal energieprestatieniveau dat de erflater diende te halen;<br>
+2° het&nbsp;residentieel gebouw of niet-residentieel gebouw of de niet-residentiële gebouweenheid wordt geschonken of verkocht, of een opstalrecht of erfpacht wordt erop gevestigd, dan gaat de verplichting over op de koper of de ontvanger van de schenking of de erfpachter of opstalhouder. De koper, de ontvanger van de schenking, de erfpachter of de opstalhouder moet dan binnen de resterende termijn voldoen aan het minimaal energieprestatieniveau dat de verkoper, schenker, erfpachtgever of opstalgever zelf diende te halen. Indien het te behalen minimaal energieprestatieniveau sindsdien werd verstrengd rust bijkomend op de nieuwe eigenaar, erfpachter of de opstalhouder de verplichting om binnen een gestelde termijn na het verlijden van de authentieke akte aan dat verstrengde minimaal energieprestatieniveau te voldoen.<br>
 <br>
-§ 2. Iedereen die een niet-residentieel gebouw of niet-residentiële gebouweenheid in volle eigendom notarieel overdraagt of hierop een opstalrecht of erfpachtrecht vestigt, moet in de hieraan verbonden publiciteit vermelden dat er verplichtingen gelden als vermeld in paragraaf 1.<br>
+In geval een rechtspersoon wordt gesplitst of indien een rechtspersoon fusioneert met, of wordt overgenomen door een andere rechtspersoon, dan ontstaat door die splitsing, fusie of overneming voor de gebouwen van die rechtspersonen echter geen verplichting, vermeld in het eerste lid. Indien er voorafgaand aan de splitsing, de fusie of de overneming op een gebouw van een van die rechtspersonen echter reeds een verplichting, vermeld in het eerste lid, van toepassing was, dan voldoet de rechtsopvolger binnen de resterende termijn aan het minimaal energieprestatieniveau dat de rechtspersoon die fusioneerde, splitste of werd overgenomen en tot wie het gebouw in kwestie behoorde zelf diende te halen.<br>
 <br>
-Iedereen die voor een niet-residentieel gebouw of niet-residentiële gebouweenheid een onderhandse overeenkomst voor één van de rechtshandelingen, vermeld in paragraaf 2, eerste lid, opmaakt, moet vermelden dat voor het niet-residentieel gebouw of de niet-residentiële gebouweenheid verplichtingen gelden als vermeld in paragraaf 1.<br>
+§ 2. Iedereen die een residentieel gebouw of een niet-residentieel gebouw of niet-residentiële gebouweenheid in volle eigendom notarieel overdraagt of hierop een opstalrecht of erfpachtrecht vestigt of overdraagt, moet in de hieraan verbonden publiciteit vermelden dat er verplichtingen gelden als vermeld in paragraaf 1.<br>
 <br>
-De instrumenterende ambtenaar die voor een niet-residentieel gebouw of niet-residentiële gebouweenheid een authentieke akte voor één van de rechtshandelingen, vermeld in paragraaf 2, eerste lid, opmaakt, moet vermelden welke verplichtingen, als vermeld in paragraaf 1, gelden voor het niet-residentieel gebouw of de niet-residentiële gebouweenheid.<br>
+Iedereen die voor een residentieel gebouw of een niet-residentieel gebouw of niet-residentiële gebouweenheid een onderhandse overeenkomst voor één van de rechtshandelingen, vermeld in paragraaf 2, eerste lid, opmaakt, moet vermelden dat voor het residentieel gebouw of het niet-residentieel gebouw of de niet-residentiële gebouweenheid verplichtingen gelden als vermeld in paragraaf 1.<br>
+<br>
+De instrumenterende ambtenaar die voor een residentieel gebouw of een niet-residentieel gebouw of niet-residentiële gebouweenheid een authentieke akte voor één van de rechtshandelingen, vermeld in paragraaf 2, eerste lid, opmaakt, moet vermelden welke verplichtingen, als vermeld in paragraaf 1, gelden voor het residentieel gebouw of het niet-residentieel gebouw of de niet-residentiële gebouweenheid.<br>
 <br>
 De Vlaamse Regering kan aan de instrumenterende ambtenaar, de personen, vermeld in het eerste lid, en aan derden verplichtingen opleggen in het kader van de uitvoering van de verplichtingen, vermeld in het eerste tot en met derde lid.
 
@@ -4124,7 +4239,7 @@ De verjaring wordt gestuit op de wijze en onder de voorwaarden die bepaald zijn 
 
 ### ART 13.4.9/1.
 
-§ 1. Als het VEKA vaststelt dat in strijd met artikel 11.2/2.1 de door de Vlaamse Regering vastgestelde minimale eisen inzake renovatie bij niet-residentiële gebouwen niet werden gerespecteerd, dan kan het VEKA aan de natuurlijke persoon of de rechtspersoon op wie de verplichting rust een administratieve geldboete opleggen van 500 euro tot en met 200.000 euro.<br>
+§ 1. Als het VEKA vaststelt dat in strijd met artikel 11.2/2.1 de door de Vlaamse Regering vastgestelde minimale eisen voor een renovatie of het minimale energieprestatielabel bij residentiële gebouwen of niet-residentiële gebouwen niet werden gerespecteerd, dan kan het VEKA aan de natuurlijke persoon of de rechtspersoon op wie de verplichting rust een administratieve geldboete opleggen van 500 euro tot en met 200.000 euro.<br>
 <br>
 Het VEKA legt ook een nieuwe termijn vast waarbinnen de betreffende verplichting alsnog moet worden nageleefd.<br>
 <br>
@@ -4156,11 +4271,11 @@ Als een overtreding van het tweede lid wordt vastgesteld, maant het VEKA de ener
 <br>
 § 2. Als zou blijken dat de eigenaar of gebruiker van een gebouw die krachtens artikel 11.2.1, § 1, eerste lid, over een energieprestatiecertificaat moet beschikken, niet over een geldig energieprestatiecertificaat beschikt, legt het VEKA hem, op voorwaarde dat de eigenaar of gebruiker werd gehoord of naar behoren werd opgeroepen, een administratieve geldboete op die niet lager is dan 500 euro, en niet hoger dan 5.000 euro.<br>
 <br>
-§ 3. Als bij toepassing van artikel 11.2.2 blijkt dat de eigenaar geen geldig energieprestatiecertificaat aan de koper heeft overgedragen of aan de huurder ter beschikking gesteld heeft, en de betrokkene werd gehoord of naar behoren werd opgeroepen, legt het VEKA hem een administratieve geldboete op die niet lager is dan 500 euro, en niet hoger dan 5.000 euro.<br>
+§ 3. Als bij toepassing van artikel 11.2.2 blijkt dat de eigenaar geen geldig energieprestatiecertificaat aan de koper heeft overgedragen of aan de huurder of de houder van een zakelijk recht ter beschikking gesteld heeft, en de betrokkene werd gehoord of naar behoren werd opgeroepen, legt het VEKA hem een administratieve geldboete op die niet lager is dan 500 euro, en niet hoger dan 5.000 euro.<br>
 <br>
 Die administratieve geldboete kan niet worden gecumuleerd met de sanctie vermeld in § 2.<br>
 <br>
-§ 3/1. Als bij de controle blijkt dat voor een te koop of te huur gesteld gebouw waarvoor een energieprestatiecertificaat beschikbaar dient te zijn, het kengetal of het label, het adres van het gebouw of de unieke code van het energieprestatiecertificaat niet worden vermeld in de publiciteit die wordt gemaakt, of indien het vermelde kengetal of het label, het vermelde adres van het gebouw of de vermelde unieke code van het energieprestatiecertificaat niet met de werkelijkheid overeenstemt, kan het VEKA de eigenaar of gebruiker een administratieve geldboete opleggen, die niet lager mag zijn dan 250 euro, noch hoger dan 5.000 euro.<br>
+§ 3/1. Als bij de controle blijkt dat voor een te koop of te huur gesteld gebouw, of voor een gebouw waarop een zakelijk recht wordt gevestigd, waarvoor een energieprestatiecertificaat beschikbaar dient te zijn, het kengetal of het label, het adres van het gebouw of de unieke code van het energieprestatiecertificaat niet worden vermeld in de publiciteit die wordt gemaakt, of indien het vermelde kengetal of het label, het vermelde adres van het gebouw of de vermelde unieke code van het energieprestatiecertificaat niet met de werkelijkheid overeenstemt, kan het VEKA de eigenaar of gebruiker een administratieve geldboete opleggen, die niet lager mag zijn dan 250 euro, noch hoger dan 5.000 euro.<br>
 <br>
 In afwijking van het eerste lid legt het VEKA de sanctie, vermeld in het eerste lid, op aan de opdrachthouder,&nbsp;lasthebber of gevolmachtigde in het geval de eigenaar of gebruiker gebruikmaakte van deze opdrachthouder,&nbsp;lasthebber of gevolmachtigde in het kader van het te koop of te huur stellen van het gebouw.<br>
 <br>
@@ -4241,6 +4356,16 @@ Dat dwangbevel wordt geviseerd en uitvoerbaar verklaard door de ambtenaar die da
 § 7. Op het dwangbevel zijn de bepalingen van deel V van het Gerechtelijk Wetboek houdende bewarend beslag en middelen tot tenuitvoerlegging van toepassing.
 
 ## [Afdeling VIII. Administratieve sancties wegens overtreding of niet-naleving van de verplichtingen aangaande het rationaliseren en gebruik te maken van hernieuwbare energietechnologieën door ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen (ing. Decr. 18 maart 2022, art. 34, I: 9 april 2022)]
+
+### ART 13.4.14.
+
+§ 1. Als het VEKA vaststelt dat, in strijd met artikel 7.7.2, de door de Vlaamse Regering vastgestelde verplichtingen voor ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen inzake het rationaliseren van hun energiegebruik en het gebruikmaken van hernieuwbare energietechnologieën niet werden gerespecteerd, dan kan het VEKA aan de onderneming, niet-commerciële instelling en publiekrechtelijke rechtspersoon op wie de verplichting rust een administratieve geldboete opleggen van 1000 euro tot en met 500.000 euro.<br>
+<br>
+Het VEKA legt ook een nieuwe termijn vast waarbinnen de betreffende verplichting alsnog moet worden nageleefd.<br>
+<br>
+Als die onderneming, niet-commerciële instelling of publiekrechtelijke rechtspersoon bij het verstrijken van de termijn, vermeld in het tweede lid, nog steeds in gebreke blijft, kan het VEKA hem of haar een nieuwe administratieve geldboete opleggen als bedoeld in het eerste lid. Het VEKA legt ook een nieuwe termijn vast waarbinnen de betreffende verplichting alsnog moet worden nageleefd. Deze procedure wordt herhaald tot aan de op grond van artikel 7.7.2 vastgestelde verplichting is voldaan.<br>
+<br>
+§ 2. De procedure, vermeld in artikel 13.4.8, is van overeenkomstige toepassing.
 
 ## HOOFDSTUK V. [Administratieve sancties opgelegd door de Vlaamse Belastingdienst (verv. decr. 23 december 2016, art. 8, I: 8 januari 2017)]
 
