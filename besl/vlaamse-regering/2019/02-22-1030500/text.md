@@ -45,7 +45,13 @@ De subsidie bedraagt:<br>
 1° voor de organisator die onder de private sector valt: 14.698,54 euro per voltijdsequivalent kinderbegeleider per kalenderjaar;<br>
 2° voor de organisator die onder de publieke sector valt: 18.410,00 euro per voltijdsequivalent kinderbegeleider per kalenderjaar.<br>
 <br>
-Het bedrag, vermeld in het eerste lid, wordt verhoudingsgewijs verminderd als een voltijdsequivalent of een fractie ervan uit het vernieuwende project stapt en niet vervangen wordt binnen maximaal drie maanden, vanaf de eerste dag van de maand nadat de gewijzigde situatie zich heeft voorgedaan. Als blijkt dat binnen de voormelde periode van drie maanden geen invulling kon worden gegeven, wordt het aandeel dat betrekking heeft op de verminderde voltijdsequivalent verrekend met het daaropvolgende kwartaal of door de organisator terugbetaald vanaf de eerste dag van de maand nadat de gewijzigde situatie zich heeft voorgedaan.
+Het bedrag, vermeld in het eerste lid, wordt verhoudingsgewijze verminderd als een voltijdsequivalent of een fractie ervan niet wordt ingevuld gedurende een periode van meer dan dertig dagen. Als blijkt dat vanaf het moment dat de tewerkstelling wijzigt, geen of geen volledig loon verschuldigd is aan de werknemer in kwestie, wordt de subsidie verrekend met het saldo of door de organisator terugbetaald.
+
+### ART 4/1.
+
+De organisator verliest het recht op de subsidie, vermeld in artikel 4, als een voltijdsequivalent of een fractie ervan uit het vernieuwende project stapt en niet vervangen wordt door een nieuwe kinderbegeleider in een werknemersstatuut binnen zes maanden vanaf de eerste dag van de maand waarin de gewijzigde situatie zich heeft voorgedaan.<br>
+<br>
+Het agentschap kan de vrijgekomen voltijdsequivalenten of fracties ervan opnieuw invullen door die toe te kennen op basis van de reservelijst, vermeld in artikel 15, achtste lid, binnen de publieke of private sector al naargelang de oorspronkelijke toekenning.
 
 ### ART 5.
 
@@ -161,6 +167,33 @@ c) een score van 2 punten als het percentage voorrangsgroepen in 2019 of 2020 me
 <br>
 Op basis van de pro-rataverdeling en op basis van de scores, vermeld in het zesde en zevende lid, maakt het agentschap een reservelijst op voor de toekenning van de vrijgekomen voltijdsequivalente kinderbegeleiders, vermeld in artikel 4/1, en voor de toekenning van de bijkomende subsidies voor voltijdsequivalente kinderbegeleiders, vermeld in artikel 12/1. De subsidies worden toegekend in volgorde van de reservelijst en rekening houdend met het beschikbare budget.
 
+### ART 15/1.
+
+Het agentschap bezorgt op digitale wijze het voornemen tot het nemen van de beslissing, vermeld in artikel 4/1, aan de organisator. De organisator beschikt over tien dagen vanaf de datum van kennisgeving van het voornemen om te reageren op het voornemen.<br>
+<br>
+Het agentschap beslist binnen tien dagen na de dag waarop het antwoord van de organisator heeft ontvangen, of na het verlopen van de termijn, vermeld in het tweede lid.<br>
+<br>
+Het agentschap bezorgt de beslissing op digitale wijze uiterlijk tien dagen na de datum van de beslissing. De beslissing vermeldt de mogelijkheid om bezwaar aan te tekenen en de wijze waarop dat moet gebeuren.
+
+### ART 15/2.
+
+De organisator kan uiterlijk tien dagen na de kennisgeving van de beslissing, vermeld in artikel 15/1, derde lid, een bezwaar aantekenen bij het agentschap. Het bezwaar bevat al de volgende gegevens:<br>
+1° de naam en het ondernemingsnummer van de organisator;<br>
+2° de naam en het adres van de opvanglocatie;<br>
+3° het dossiernummer;<br>
+4° de motivering van het bezwaar;<br>
+5° de datum en handtekening van de organisator.<br>
+<br>
+Het bezwaar is ontvankelijk als het tijdig is verstuurd op de wijze, vermeld in de beslissing, vermeld in artikel 15/1, tweede lid, en als ze alle elementen bevat als vermeld in dit artikel.<br>
+<br>
+Het agentschap beslist over de ontvankelijkheid van het bezwaar uiterlijk tien dagen na de dag waarop het het bezwaar heeft ontvangen en informeert de organisator daarover op digitale wijze.
+
+### ART 15/3.
+
+Het bezwaar wordt ten gronde behandeld volgens de regels die zijn vastgelegd in of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-) pleegzorgers.<br>
+<br>
+Het bezwaar schort de beslissing, vermeld in artikel 15/1, tweede lid, niet op.
+
 ## HOOFDSTUK 6. Evaluatie
 
 ### ART 16.
@@ -176,7 +209,7 @@ Het agentschap&nbsp;werkt het evaluatiekader verder uit, in overleg met de socia
 
 ### ART 17.
 
-Het agentschap&nbsp;beslist tot terugvordering van de subsidie conform artikel 57 van het Rekendecreet, artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en gewesten, alsook voor de organisatie van de controle door het Rekenhof, en artikel 18 van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring.
+Het agentschap&nbsp;beslist tot terugvordering van de subsidie conform artikel 76 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en gewesten, alsook voor de organisatie van de controle door het Rekenhof, en artikel 18 van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring.
 
 ## HOOFDSTUK 8. Slotbepalingen
 
