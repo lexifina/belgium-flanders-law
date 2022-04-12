@@ -34,6 +34,19 @@ In artikel 4 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<b
 3° het tweede lid wordt vervangen door wat volgt:<br>
 "Het bedrag, vermeld in het eerste lid, wordt verhoudingsgewijze verminderd als een voltijdsequivalent of een fractie ervan niet wordt ingevuld gedurende een periode van meer dan dertig dagen. Als blijkt dat vanaf het moment dat de tewerkstelling wijzigt, geen of geen volledig loon verschuldigd is aan de werknemer in kwestie, wordt de subsidie verrekend met het saldo of door de organisator terugbetaald.".
 
+### ART 3.
+
+In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 13 november 2020 en 12 maart 2021, wordt een artikel 4/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 4/1. De organisator verliest het recht op de subsidie, vermeld in artikel 4, als een voltijdsequivalent of een fractie ervan uit het vernieuwende project stapt en niet vervangen wordt door een nieuwe kinderbegeleider in een werknemersstatuut binnen zes maanden vanaf de eerste dag van de maand waarin de gewijzigde situatie zich heeft voorgedaan.<br>
+<br>
+Het agentschap kan de vrijgekomen voltijdsequivalenten of fracties ervan opnieuw invullen door die toe te kennen op basis van de reservelijst, vermeld in artikel 15, achtste lid, binnen de publieke of private sector al naargelang de oorspronkelijke toekenning.".
+
+### ART 4.
+
+In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 13 november 2020 en 12 maart 2021, wordt het opschrift van hoofdstuk 5 vervangen door wat volgt:<br>
+"Hoofdstuk 5. Oproep, aanvraag en toekenning van de subsidie".
+
 ### ART 5.
 
 In hoofdstuk 5 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 12 maart 2021, wordt een artikel 12/1 ingevoegd, dat luidt als volgt:<br>
@@ -88,3 +101,48 @@ b) een score van 1 punt als het percentage bereikte voorrangsgroepen in 2019 of 
 c) een score van 2 punten als het percentage voorrangsgroepen in 2019 of 2020 meer dan 30% bedraagt.<br>
 <br>
 Op basis van de pro-rataverdeling en op basis van de scores, vermeld in het zesde en zevende lid, maakt het agentschap een reservelijst op voor de toekenning van de vrijgekomen voltijdsequivalente kinderbegeleiders, vermeld in artikel 4/1, en voor de toekenning van de bijkomende subsidies voor voltijdsequivalente kinderbegeleiders, vermeld in artikel 12/1. De subsidies worden toegekend in volgorde van de reservelijst en rekening houdend met het beschikbare budget.".
+
+### ART 8.
+
+In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 13 november 2020 en 12 maart 2021, worden een artikel 15/1 tot en met 15/3 ingevoegd, die luiden als volgt:<br>
+<br>
+"Art. 15/1. Het agentschap bezorgt op digitale wijze het voornemen tot het nemen van de beslissing, vermeld in artikel 4/1, aan de organisator. De organisator beschikt over tien dagen vanaf de datum van kennisgeving van het voornemen om te reageren op het voornemen.<br>
+<br>
+Het agentschap beslist binnen tien dagen na de dag waarop het antwoord van de organisator heeft ontvangen, of na het verlopen van de termijn, vermeld in het tweede lid.<br>
+<br>
+Het agentschap bezorgt de beslissing op digitale wijze uiterlijk tien dagen na de datum van de beslissing. De beslissing vermeldt de mogelijkheid om bezwaar aan te tekenen en de wijze waarop dat moet gebeuren.<br>
+<br>
+Art. 15/2. De organisator kan uiterlijk tien dagen na de kennisgeving van de beslissing, vermeld in artikel 15/1, derde lid, een bezwaar aantekenen bij het agentschap. Het bezwaar bevat al de volgende gegevens:<br>
+1° de naam en het ondernemingsnummer van de organisator;<br>
+2° de naam en het adres van de opvanglocatie;<br>
+3° het dossiernummer;<br>
+4° de motivering van het bezwaar;<br>
+5° de datum en handtekening van de organisator.<br>
+<br>
+Het bezwaar is ontvankelijk als het tijdig is verstuurd op de wijze, vermeld in de beslissing, vermeld in artikel 15/1, tweede lid, en als ze alle elementen bevat als vermeld in dit artikel.<br>
+<br>
+Het agentschap beslist over de ontvankelijkheid van het bezwaar uiterlijk tien dagen na de dag waarop het het bezwaar heeft ontvangen en informeert de organisator daarover op digitale wijze.<br>
+<br>
+Art. 15/3. Het bezwaar wordt ten gronde behandeld volgens de regels die zijn vastgelegd in of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-) pleegzorgers.<br>
+<br>
+Het bezwaar schort de beslissing, vermeld in artikel 15/1, tweede lid, niet op.".
+
+### ART 9.
+
+In artikel 17 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 12 maart 2021, wordt de zinsnede "conform artikel 57 van het Rekendecreet" vervangen door de zinsnede "conform artikel 76 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.".
+
+### ART 10.
+
+Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.<br>
+<br>
+Artikel 1 heeft uitwerking met ingang van 1 april 2021.<br>
+<br>
+Artikel 2, 1° en 2°, heeft uitwerking met ingang van 1 mei 2021.<br>
+<br>
+Artikel 5 en 6 hebben uitwerking met ingang van 29 oktober 2021.<br>
+<br>
+Artikel 7 heeft uitwerking met ingang van 1 januari 2022.
+
+### ART 11.
+
+De Vlaamse minister, bevoegd voor opgroeien, is belast met de uitvoering van dit besluit.
