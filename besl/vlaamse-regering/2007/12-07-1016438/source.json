@@ -2,16 +2,16 @@
   "codex_id": 1016438,
   "title": "Besluit van de Vlaamse Regering van 2007-12-07 houdende de minimale voorwaarden voor de personeelsformatie, de rechtspositieregeling en het mandaatstelsel van het gemeentepersoneel en het provinciepersoneel en houdende enkele bepalingen betreffende de rechtspositie van de secretaris en de ontvanger van de openbare centra voor maatschappelijk welzijn",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016438/VolledigDocument?datum=2021-11-04",
-  "source_sha256": "b07feaa3cb62b706f7128b8ec61f3f6103506fda9c32b253acecfdaa8f85d1cd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016438/VolledigDocument?datum=2022-04-14",
+  "source_sha256": "9e516f165829cfbd553337fb83af5ece8167c428b7dbcef8374a93c2dbce691a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016438&param=informatie",
-  "as_of": "2021-11-04",
+  "as_of": "2022-04-14",
   "made": "2007-12-07",
   "gazette": "2007-12-24",
   "numac": 2007037220,
   "document_start": "2008-01-01",
   "document_end": "2023-03-17",
-  "in_force": "2021-11-04",
+  "in_force": "2022-04-14",
   "article_versions": 258,
-  "record_form": "consolidated version as in force on 2021-11-04; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-04-14; future article versions excluded; article text as the API gives it"
 }

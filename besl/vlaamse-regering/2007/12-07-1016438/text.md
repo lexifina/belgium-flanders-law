@@ -4645,7 +4645,7 @@ Het personeelslid ontvangt jaarlijks een eindejaarstoelage.<br />
 
 ### ART. 135.
 
-Het bedrag van de eindejaarstoelage is de som van het forfaitaire gedeelte en het veranderlijke gedeelte, met dien verstande dat de eindejaarstoelage nooit meer mag bedragen dan een twaalfde van het jaarsalaris, aangepast volgens de indexverhogingscoëfficiënt die van toepassing is op het salaris van de maand oktober van het in aanmerking te nemen jaar.<br>
+Het bedrag van de eindejaarstoelage is de som van het forfaitaire gedeelte en het veranderlijke gedeelte, aangepast volgens de indexverhogingscoëfficiënt die van toepassing is op het salaris van de maand oktober van het in aanmerking te nemen jaar.<br>
 <br>
 Het forfaitaire gedeelte en het veranderlijke gedeelte worden als volgt berekend :<br>
 1° het forfaitaire gedeelte :<br>
@@ -4655,11 +4655,7 @@ c) het bedrag dat het resultaat is van de berekening, vermeld in punt b), wordt 
 d) voor het jaar 2012 wordt het bedrag dat het resultaat is van de berekening, vermeld in punt c), voor alle personeelsleden verhoogd met 100 euro;<br>
 e) vanaf het jaar 2013 wordt het bedrag dat het resultaat is van de berekening, vermeld in punt c), voor alle personeelsleden verhoogd met 200 euro;<br>
 2° het veranderlijke gedeelte :<br>
-2,5 procent van het jaarsalaris, aangepast volgens de indexverhogingscoëfficiënt die van toepassing is op het salaris van de maand oktober van het in aanmerking te nemen jaar. Als het personeelslid in de maand oktober van het in aanmerking te nemen jaar geen of slechts een gedeeltelijk salaris ontvangen heeft, dan wordt het percentage berekend op basis van het salaris dat voor diezelfde maand betaald zou zijn als het personeelslid zijn functie wel volledig had uitgeoefend.<br>
-<br>
-In afwijking van het tweede lid, 2°, bedraagt het veranderlijke gedeelte voor de personeelsleden, vermeld in punt 1 onder de rubriek "dringende maatregelen koopkracht" van het deelakkoord VIA6 - koopkracht publieke sector van 22 december 2020, 3,6 procent van het jaarsalaris, vermeld in het tweede lid, 2°.<br>
-<br>
-In het derde lid wordt verstaan onder deelakkoord VIA6 - koopkracht publieke sector van 22 december 2020: het deelakkoord van 22 december 2020 tussen de sociale partners van de publieke sector over de aanwending van de middelen koopkracht VIA6, zoals goedgekeurd bij protocol nr. 2020/5 houdende de conclusies van de onderhandelingen die op 23 december 2020 werden gevoerd in de onderafdeling `Vlaams Gewest en Vlaamse Gemeenschap' van de eerste afdeling van het comité voor de provinciale en plaatselijke overheidsdiensten over het ontwerp van het deelakkoord tussen de sociale partners van de publieke sector over de aanwending van de middelen koopkracht VIA6, dat is opgenomen in bijlage III, die bij dit besluit is gevoegd.
+3,6 procent van het jaarsalaris, aangepast volgens de indexverhogingscoëfficiënt die van toepassing is op het salaris van de maand oktober van het in aanmerking te nemen jaar. Als het personeelslid in de maand oktober van het in aanmerking te nemen jaar geen of slechts een gedeeltelijk salaris ontvangen heeft, dan wordt het percentage berekend op basis van het salaris dat voor diezelfde maand betaald zou zijn als het personeelslid zijn functie wel volledig had uitgeoefend.
 
 ### ART. 136.
 
@@ -5215,11 +5211,23 @@ In het bijzonder moeten de algemene regels voor de eventuele vroegtijdige opzegg
 		</tr>
 		<tr>
 			<td style="background-color:transparent; height:14.2pt; width:263.4pt">
-			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">3° overlijden van de samenwonende of huwelijkspartner, een bloed- of&nbsp; aanverwant in de eerste graad van het personeelslid, of van de samenwonende of huwelijkspartner:</p>
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">3° overlijden van de samenwonende of huwelijkspartner, van een kind van het personeelslid, de samenwonende of huwelijkspartner, of van een pleegkind in het kader van langdurige pleegzorg op het moment van het overlijden of in het verleden:</p>
 			</td>
 			<td style="background-color:transparent; height:14.2pt; width:120pt">
-			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">4 werkdagen</p>
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">10 werkdagen</p>
 			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:14.2pt; width:263.4pt">3° /1 overlijden van de vader, moeder, stiefvader, stiefmoeder, schoonzoon of schoondochter van het personeelslid, de samenwonende of huwelijkspartner:</td>
+			<td style="background-color:transparent; height:14.2pt; width:120pt">4 werkdagen</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:14.2pt; width:263.4pt">3° /2 overlijden van de pleegvader of pleegmoeder van het personeelslid in het kader van langdurige pleegzorg op het moment van het overlijden:</td>
+			<td style="background-color:transparent; height:14.2pt; width:120pt">4 werkdagen</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:14.2pt; width:263.4pt">3° /3 overlijden van een pleegkind in het kader van kortdurende pleegzorg op het moment van het overlijden:</td>
+			<td style="background-color:transparent; height:14.2pt; width:120pt">1 werkdag</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; height:14.2pt; width:263.4pt">
@@ -5297,7 +5305,13 @@ In het bijzonder moeten de algemene regels voor de eventuele vroegtijdige opzegg
 </table>
 
 <p><br>
-De raad bepaalt de nadere algemene regels voor het indienen van de aanvragen en het toekennen van het verlof.<br>
+In het eerste lid wordt verstaan onder:<br>
+1° langdurige pleegzorg: de pleegzorg, vermeld in artikel 183/2, § 1, eerste lid, waarbij het kind is ingeschreven als deel uitmakend van het gezin van het personeelslid in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar het personeelslid zijn verblijfplaats heeft;<br>
+2° kortdurende pleegzorg: alle vormen van pleegzorg die niet voldoen aan de voorwaarden van langdurige pleegzorg, vermeld in punt 1°.&nbsp;<br>
+<br>
+De raad bepaalt de nadere algemene regels voor het indienen van de aanvragen en het toekennen van het verlof met dien verstande dat het personeelslid het omstandigheidsverlof, vermeld in het eerste lid, 3°, op de volgende wijze opneemt:<br>
+1° de eerste drie dagen tijdens de periode die begint te lopen op de dag van het overlijden en eindigt op de dag van de begrafenis;<br>
+2° de zeven resterende dagen tijdens het jaar dat volgt op de dag van het overlijden.<br>
 <br>
 Het omstandigheidsverlof wordt gelijkgesteld met dienstactiviteit en is in alle gevallen bezoldigd, met uitzondering van het omstandigheidsverlof voor een gebeurtenis als vermeld in het eerste lid, 2°.<br>
 <br>
@@ -8826,4 +8840,4 @@ Niveau E<br>
 
 ### Deelakkoord VIA6
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2021/10/25_1.pdf#page=14">Deelakkoord VIA6</a>
+...
