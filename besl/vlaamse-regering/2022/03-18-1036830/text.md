@@ -67,15 +67,17 @@ De VMSW controleert of de voorwaarden, vermeld in dit artikel, zijn vervuld en k
 
 § 1. De VMSW kan aan sociale huisvestingsmaatschappijen en woonmaatschappijen mobiele woonunits ter beschikking stellen voor de tijdelijke opvang van tijdelijk ontheemden uit Oekraïne als de mobiele woonunit geregistreerd en gevalideerd is in de Vlaamse huisvestingstool.<br>
 <br>
-De opbrengsten en kosten die zijn gekoppeld aan de mobiele woonunits die de VMSW ter beschikking heeft gesteld voor de tijdelijke opvang van tijdelijk ontheemden uit Oekraïne, worden niet meegenomen in de berekening van de gewestelijke sociale correctie, vermeld in artikel 1.2, eerste lid, 54°, van het Besluit Vlaamse Codex Wonen van 2021.<br>
+De minister, bevoegd voor het woonbeleid, bepaalt de voorwaarden waaronder de ontvangen huurgelden moeten worden terugbetaald aan de VMSW of kunnen worden verrekend in de berekening van de gewestelijke sociale correctie, vermeld in artikel 1.2, eerste lid, 54°, van het Besluit Vlaamse Codex Wonen van 2021..<br>
 <br>
 § 2. Voor de installatie van de mobiele woonunit en de aansluiting aan de nutsvoorzieningen kan de VMSW of een sociale huisvestingsmaatschappij, een woonmaatschappij of een lokaal bestuur via de VMSW voor het bedrag van de reële kosten en binnen de kredieten die daarvoor op de begroting van het Vlaamse Gewest beschikbaar zijn, een beroep doen op de subsidie, vermeld in boek 5, deel 2, titel 3, van het Besluit Vlaamse Codex Wonen van 2021.
 
 ### ART 4.
 
-Als een sociaal verhuurkantoor, een sociale huisvestingsmaatschappij of een woonmaatschappij een woning of een collectieve voorziening conform artikel 5, tweede lid, van het decreet van 18 maart 2022 in huur neemt, wordt voor de organisatie van de verhuring een eenmalige forfaitaire subsidie toegekend van 250 euro per zelfstandige woning of per kamer van een collectieve voorziening als de voorwaarden, vermeld in artikel 2, § 2, tweede lid, van dit besluit vervuld zijn en het sociaal verhuurkantoor, de sociale huisvestingsmaatschappij of de woonmaatschappij een brandverzekering afsluit die een clausule van afstand van verhaal op de huurder bevat, waarin het verhaal van derden is uitgebreid ten voordele van de huurder.<br>
+§ 1. Als een sociale huisvestingsmaatschappij, een woonmaatschappij of het VWF met toepassing van artikel 6.74 van het Besluit Vlaamse Codex Wonen van 2021 sociale huurwoningen die leegstaan in afwachting van renovatie, sloop of verkoop, zelf of via een leegstandsbeheerder als vermeld in artikel 6.74, § 1, eerste lid, 3°, van het voormelde besluit, verhuurt aan tijdelijk ontheemden uit Oekraïne, wordt voor de organisatie van de verhuring een eenmalige forfaitaire subsidie toegekend van 250 euro per sociale huurwoning.<br>
 <br>
-De subsidie, vermeld in het eerste lid, wordt aangevraagd bij de VMSW nadat de kamer of de zelfstandige woning is verhuurd aan tijdelijk ontheemden uit Oekraïne. Het sociaal verhuurkantoor, de sociale huisvestingsmaatschappij of de woonmaatschappij voegt bij de subsidieaanvraag een kopie van de huurovereenkomst die is gesloten met de tijdelijk ontheemde uit Oekraïne.<br>
+§ 2. Als een sociaal verhuurkantoor, een sociale huisvestingsmaatschappij of een woonmaatschappij een woning of een collectieve voorziening conform artikel 5, tweede lid, van het decreet van 18 maart 2022 in huur neemt, wordt voor de organisatie van de verhuring een eenmalige forfaitaire subsidie toegekend van 250 euro per zelfstandige woning of per kamer van een collectieve voorziening als de voorwaarden, vermeld in artikel 2, § 2, tweede lid, van dit besluit vervuld zijn.<br>
+<br>
+§ 3. De subsidie, vermeld in paragraaf 1 en 2, wordt aangevraagd bij de VMSW nadat de kamer, de zelfstandige woning of sociale huurwoning is verhuurd aan tijdelijk ontheemden uit Oekraïne. Bij de subsidieaanvraag wordt een kopie van de huurovereenkomst die is gesloten met de tijdelijk ontheemde uit Oekraïne gevoegd.<br>
 <br>
 De VMSW controleert of de voorwaarden, vermeld in dit artikel, zijn vervuld en keert vervolgens de subsidie uit. De subsidie wordt aangerekend op begrotingsartikel QF0-1QDG2QK-IS.
 
@@ -85,14 +87,14 @@ Het besluit 2012/21/EU van de Commissie van 20 december 2011 betreffende de toep
 
 ### ART 6.
 
-Artikel 8, eerste lid, 7°, artikel 10, 12, 13, 16 tot en met 24 en artikel 35 van het Vlaams Woninghuurdecreet van 9 november 2018 zijn niet van toepassing op de hoofd- en onderhuurovereenkomsten, vermeld in artikel 5, tweede lid, van het decreet van 18 maart 2022.<br>
+Artikel 8, eerste lid, 7°, artikel 10, 12, 13, 15 tot en met 24, artikel 32 en 35 van het Vlaams Woninghuurdecreet van 9 november 2018 zijn niet van toepassing op de hoofd- en onderhuurovereenkomsten, vermeld in artikel 5, tweede lid, van het decreet van 18 maart 2022.<br>
 <br>
 Op de huurovereenkomsten, vermeld in het eerste lid, zijn de volgende specifieke bepalingen van toepassing:<br>
 1° het gehuurde goed moet beantwoorden aan de vereisten en de normen, vermeld in artikel 8 van dit besluit;<br>
 2° de huurovereenkomst wordt gesloten voor een duur van minstens drie maanden;<br>
 3° de huurovereenkomst wordt telkens verlengd onder dezelfde voorwaarden als geen van de partijen ten minste twee maanden vóór de vervaldag een opzegging heeft gedaan;<br>
-4° de partijen kunnen de huurovereenkomst op ieder tijdstip beëindigen zonder motivering en zonder opzeggingsvergoeding met inachtneming van een opzeggingstermijn van zeven dagen. De onderhuurder kan de huurovereenkomst op ieder tijdstip beëindigen zonder motivering en zonder opzeggingsvergoeding en zonder opzeggingstermijn;<br>
-5° zolang de huurovereenkomst niet geregistreerd is na de termijn van twee maanden, vermeld in artikel 32, 5°, van het Wetboek der Registratie-, Hypotheek- en Griffierechten, is de opzeggingstermijn, vermeld in punt 3°, niet van toepassing als de huurder of onderhuurder de huurovereenkomst opzegt. De huurder of onderhuurder brengt de verhuurder op de hoogte van de opzegging, die ingaat op de eerste dag van de maand die volgt op de maand waarin de huurovereenkomst is opgezegd.<br>
+4° de partijen kunnen de huurovereenkomst op ieder tijdstip beëindigen zonder motivering en zonder opzeggingsvergoeding met inachtneming van een opzeggingstermijn van ten minste zeven dagen. De onderhuurder kan de huurovereenkomst op ieder tijdstip beëindigen zonder motivering en zonder opzeggingsvergoeding en zonder opzeggingstermijn;<br>
+5° de opzeggingstermijn, vermeld in punt 4°, begint op de derde werkdag na de dag waarop de opzegging is gedaan. Als er geen opzeggingstermijn als vermeld in punt 4°, van toepassing is, wordt de huurovereenkomst beëindigd op de derde werkdag na de dag waarop de opzegging is gedaan.<br>
 <br>
 Met behoud van de toepassing van het vierde lid is een huurovereenkomst die wordt gesloten voor een goed dat niet voldoet aan de vereisten en de normen, vermeld in het tweede lid, 1°, nietig. De nietigheid wordt door de rechter vastgesteld. Met behoud van het recht voor de huurder om een schadevergoeding te eisen, kan de rechter die de nietigheid uitspreekt, een bezettingsvergoeding opleggen die gebaseerd is op de objectieve huurwaarde van het goed, rekening houdend met de gebreken van het goed.<br>
 <br>
@@ -108,15 +110,19 @@ Als de hoofdhuurder de hoofdhuurovereenkomst beëindigt voor de overeengekomen t
 
 ### ART 7.
 
-Als een sociale huisvestingsmaatschappij, een woonmaatschappij,&nbsp;een leegstandsbeheerder als vermeld in artikel 6.74, § 1, eerste lid, 3°, van het Besluit Vlaamse Codex Wonen van 2021, een sociaal verhuurkantoor, een kamer, een zelfstandige woning of een mobiele woonunit verhuurt aan tijdelijke ontheemden uit Oekraïne, bedraagt de maandelijkse huurprijs het bedrag dat de Vlaamse Regering vaststelt.
+Als een sociale huisvestingsmaatschappij, een woonmaatschappij, een leegstandsbeheerder als vermeld in artikel 6.74, § 1, eerste lid, 3°, van het Besluit Vlaamse Codex Wonen van 2021, een sociaal verhuurkantoor of het VWF een slaapfaciliteit in een collectieve voorziening, een kamer, een zelfstandige woning of een mobiele woonunit verhuurt aan tijdelijke ontheemden uit Oekraïne, bedraagt de maandelijkse huurprijs het bedrag dat de Vlaamse Regering vaststelt.
 
 ### ART 8.
 
-Voor het verhuren, het te huur stellen of het ter beschikking stellen van een woning zijn afwijkingen toegestaan van de vereisten en normen, vermeld in bijlage 4 en 5 die bij het Besluit Vlaamse Codex Wonen van 2021 zijn gevoegd, als aan al de volgende voorwaarden is voldaan:<br>
-1° de woning wordt alleen verhuurd, te huur gesteld of ter beschikking gesteld voor de huisvesting van tijdelijk ontheemden uit Oekraïne; tijdens de duur van de tijdelijke bescherming, vermeld in artikel 1, 6° van dit besluit, die hun wordt verleend;<br>
-2° de woning vertoont geen gebreken van categorie III of gebreken van categorie II in verband met brandveiligheid, ontploffing, elektrocutie, CO-vergiftiging, vocht, stabiliteit en toegankelijkheid, vermeld in de voormelde bijlage 4 en 5;<br>
+Er zijn afwijkingen toegestaan op de vereisten en normen, vermeld in bijlage 4 en 5 die bij het Besluit Vlaamse Codex Wonen van 2021 zijn gevoegd, als aan al de volgende voorwaarden is voldaan:<br>
+1° in de woning worden tijdelijk ontheemden uit Oekraïne gehuisvest;<br>
+2° de woning vertoont geen gebreken van categorie III of gebreken van categorie II in verband met brandveiligheid, ontploffing, elektrocutie, CO-vergiftiging, vocht, stabiliteit en toegankelijkheid, vermeld in voormelde bijlage 4 en 5;<br>
 3° de woning is niet opgenomen in de inventaris, vermeld in artikel 3.19 van de Vlaamse Codex Wonen van 2021;<br>
-4° de woning is niet opgenomen in het register van herstelvorderingen, vermeld in artikel 3.44, § 1, derde lid, van de Vlaamse Codex Wonen van 2021.
+4° de woning is niet opgenomen in het register van herstelvorderingen, vermeld in artikel 3.44, § 1, derde lid, van de Vlaamse Codex Wonen van 2021.<br>
+<br>
+De afwijkingen, vermeld in het eerste lid, zijn ook van toepassing op de zelfstandige woningen, op de gemeenschappelijke delen, vermeld in artikel 1.2, eerste lid, 44° tot en met 48° van het Besluit Vlaamse Codex Wonen van 2021 en op de kamers die ontstaan door de tijdelijke opsplitsing van een zelfstandige woning met het oog op de huisvesting van tijdelijk ontheemden uit Oekraïne.<br>
+<br>
+De afwijkingen, vermeld in het eerste lid, wijzigen op geen enkele manier de beoordeling van overbewoning als vermeld in artikel 3.24 van de Vlaamse Codex Wonen van 2021.
 
 ### ART 9.
 
