@@ -2,16 +2,16 @@
   "codex_id": 1019732,
   "title": "Besluit van de Vlaamse Regering van 2010-11-12 houdende de minimale voorwaarden voor de personeelsformatie en het mandaatstelsel van het personeel van de openbare centra voor maatschappelijk welzijn en houdende de minimale voorwaarden voor sommige aspecten van de rechtspositieregeling van bepaalde personeelsgroepen van de openbare centra voor maatschappelijk welzijn",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019732/VolledigDocument?datum=2021-11-04",
-  "source_sha256": "610b29f5fbb3315eb60a963c9418863772e854e5d796a7a8cb1bc210cb1b7f0d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019732/VolledigDocument?datum=2022-04-14",
+  "source_sha256": "377d806aec67885e06426db3589954b776de1860d9741e3c2c28e8264ae6f4ed",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019732&param=informatie",
-  "as_of": "2021-11-04",
+  "as_of": "2022-04-14",
   "made": "2010-11-12",
   "gazette": "2010-12-03",
   "numac": 201035925,
   "document_start": "2011-01-01",
   "document_end": "2023-03-17",
-  "in_force": "2021-11-04",
+  "in_force": "2022-04-14",
   "article_versions": 166,
-  "record_form": "consolidated version as in force on 2021-11-04; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-04-14; future article versions excluded; article text as the API gives it"
 }
