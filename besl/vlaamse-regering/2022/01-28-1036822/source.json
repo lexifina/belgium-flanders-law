@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036822,
+  "title": "Besluit van de Vlaamse Regering van 2022-01-28 tot wijziging van artikel 135 en 209 van het besluit van de Vlaamse Regering van 7 december 2007 houdende de minimale voorwaarden voor de personeelsformatie, de rechtspositieregeling en het mandaatstelsel van het gemeentepersoneel en het provinciepersoneel en houdende enkele bepalingen betreffende de rechtspositie van de secretaris en de ontvanger van de openbare centra voor maatschappelijk welzijn en artikel 98 van het besluit van de Vlaamse Regering van 12 november 2010 houdende de minimale voorwaarden voor de personeelsformatie en het mandaatstelsel van het personeel van de openbare centra voor maatschappelijk welzijn en houdende de minimale voorwaarden voor sommige aspecten van de rechtspositieregeling van bepaalde personeelsgroepen van de openbare centra voor maatschappelijk welzijn",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036822/VolledigDocument?datum=2022-04-14",
+  "source_sha256": "831c490fcaf3fd8812989e74c327bb57fd246de5d4e65d94ab4f766f219e56e2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036822&param=informatie",
+  "as_of": "2022-04-14",
+  "made": "2022-01-28",
+  "gazette": "2022-04-04",
+  "numac": 2022040377,
+  "document_start": "2022-04-14",
+  "document_end": null,
+  "in_force": "2022-04-14",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2022-04-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
