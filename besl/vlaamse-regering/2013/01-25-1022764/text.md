@@ -222,7 +222,7 @@ Als voor plannen of projecten die op basis van dit besluit een subsidie   verkri
 a) de opmaak of herziening van een gemeentelijk of intergemeentelijk mobiliteitsplan;<br>
 b) de aanleg van nieuwe fietsinfrastructuur of de herinrichting van bestaande fietsinfrastructuur langs wegen die niet onder het beheer van het Vlaamse Gewest vallen en die behoren tot het bovenlokaal functioneel fietsroutenetwerk, vermeld in artikel 4, § 1, 4°, van het besluit van 6 september 2019;<br>
 c) de uitvoering van het mobiliteitscharter, vermeld in artikel 51;<br>
-d) de aanleg of de herinrichting van een mobipunt, vermeld in artikel 4, § 1, 11°, van het besluit van 6 september 2019;<br>
+d) de aanleg of de herinrichting van een Hoppinpunt, namelijk een mobipunt als vermeld in artikel 4, § 1, 11°, van het besluit van 6 september 2019 en dat voldoet aan de voorwaarden van artikel 48/5, § 2, tweede lid;<br>
 2° het Agentschap Wegen en Verkeer als de subsidie wordt aangevraagd voor de volgende projecten :<br>
 a) de aanleg of herinrichting van wegen die gericht is op de beveiliging van schoolbuurten, vermeld in artikel 4, § 1, 7°, van het besluit van 6 september 2019 ;<br>
 b) de aanleg of herinrichting van wegen die gericht is op de duurzame ontsluiting van een tewerkstellings-, winkel- of dienstenzone van bovenlokaal belang of met een significante mobiliteitsimpact, vermeld in artikel 4, § 1, 8°, van het besluit van 6 september 2019 ;<br>
@@ -587,46 +587,45 @@ De subsidieaanvraag voor de tweede schijf, vermeld in artikel 48/3, § 4, 2°, b
 
 ### ART 48/5.
 
-§ 1. In dit artikel wordt verstaan onder besluit van 11 september 2020 het besluit van de Vlaamse Regering van 11 september 2020 betreffende de mobipunten en tot wijziging van het besluit van de Vlaamse Regering van 25 januari 2013 tot bepaling van de nadere regels betreffende de financiering en de samenwerking voor het mobiliteitsbeleid.<br>
+§ 1. In dit artikel wordt verstaan onder besluit van 11 februari 2022 het besluit van de Vlaamse Regering van 11 februari 2022 over de Hoppinpunten en tot wijziging van het besluit van de Vlaamse Regering van 25 januari 2013 tot bepaling van de nadere regels betreffende de financiering en de samenwerking voor het mobiliteitsbeleid.<br>
 <br>
-§ 2. De subsidie voor de projecten die gericht zijn op de aanleg of herinrichting van mobipunten, vermeld in artikel 4, § 1, 11°, van het besluit van 6 september 2019, bedraagt:<br>
-1° 50 % van de kostprijs voor de interregionale mobipunten op basis van netwerklogica, vermeld in artikel 2, eerste lid, 1°, van het besluit van 11 september 2020, met een maximum van 500.000 euro;<br>
-2° 50 % van de kostprijs voor de regionale mobipunten op basis van netwerklogica, vermeld in artikel 2, eerste lid, 2°, van het voormelde besluit, met een maximum van 250.000 euro;<br>
-3° 100 % van de kostprijs voor de lokale mobipunten op basis van netwerklogica, vermeld in artikel 2, eerste lid, 3°, van het voormelde besluit, met een maximum van 50.000 euro;<br>
-4° 100 % van de kostprijs voor de buurtmobipunten op basis van netwerklogica, vermeld in artikel 2, eerste lid, 4°, van het voormelde besluit, met een maximum van 25.000 euro;<br>
-5° 100 % van de kostprijs voor de buurtmobipunten op basis van nabijheidslogica, vermeld in artikel 2, eerste lid, 5°, van het voormelde besluit, met een maximum van 25.000 euro.<br>
+§ 2. De subsidie voor de projecten die gericht zijn op de aanleg of herinrichting van Hoppinpunten als vermeld in artikel 4, § 1, 11°, van het besluit van 6 september 2019, bedraagt:<br>
+1° 50% van de kostprijs voor de interregionale Hoppinpunten op basis van netwerklogica, vermeld in artikel 2, tweede lid, 1°, van het besluit van 11 februari 2022, met een maximum van 500.000 euro;<br>
+2° 50% van de kostprijs voor de regionale Hoppinpunten op basis van netwerklogica, vermeld in artikel 2, tweede lid, 2°, van het voormelde besluit, met een maximum van 250.000 euro;<br>
+3° 100% van de kostprijs voor de lokale Hoppinpunten op basis van netwerklogica, vermeld in artikel 2, tweede lid, 3°, van het voormelde besluit, met een maximum van 50.000 euro;<br>
+4° 100% van de kostprijs voor de buurt-Hoppinpunten, vermeld in artikel 2, tweede lid, 4°, van het voormelde besluit, met een maximum van 25.000 euro;<br>
 <br>
 Een project als vermeld in het eerste lid, komt in aanmerking voor een subsidie als het aan al de volgende voorwaarden voldoet:<br>
-1° het mobipunt voldoet aan de kwaliteitseisen, vermeld in artikel 5 tot en met 6 van het besluit van 11 september 2020;<br>
+1° het Hoppinpunt voldoet aan de kwaliteitseisen, vermeld in artikel 5 en 6 van het besluit van 11 februari 2022;<br>
 2° de merkarchitectuur, vermeld in artikel 3 van het voormelde besluit, wordt toegepast;<br>
-3° het mobipunt is geïntegreerd in het regionale mobiliteitsplan als het gaat om interregionale, regionale, lokale en buurtmobipunten volgens netwerklogica;<br>
+3° het Hoppinpunt is geïntegreerd in het regionale mobiliteitsplan als het gaat om interregionale Hoppinpunten, regionale Hoppinpunten, lokale Hoppinpunten en buurt-Hoppinpunten volgens netwerklogica als vermeld in artikel 2, tweede lid, van het besluit van 11 februari 2022. Beperkte verschuivingen van de locatie van het Hoppinpunt zijn mogelijk in samenspraak met de vervoerregioraad en leiden niet tot een herziening van het regionale mobiliteitsplan;<br>
 4° het uitrustingsniveau wordt meegedeeld aan de Mobiliteitscentrale;<br>
-5° er wordt ingestaan voor de data-uitwisseling van en naar de Mobiliteitscentrale;<br>
-6° het beschikt over de nodige vergunningen.<br>
+5° de gemeente is beheerder van de infrastructuur.<br>
 <br>
-In het tweede lid, 4° en 5°, wordt verstaan onder Mobiliteitscentrale: de Mobiliteitscentrale, vermeld in artikel 33 van het decreet van 26 april 2019 betreffende de basisbereikbaarheid.<br>
+In het tweede lid, 4°, wordt verstaan onder Mobiliteitscentrale: de Mobiliteitscentrale, vermeld in artikel 33 van het decreet van 26 april 2019 betreffende de basisbereikbaarheid.<br>
 <br>
-§ 3. De kostprijs, vermeld in paragraaf 2, eerste lid, omvat:<br>
-1° de kosten voor de werken volgens de inschrijvingsprijs van de aannemer, in voorkomend geval te vermeerderen met de prijsherzieningen, verrekeningen, meer- of bijwerken;<br>
-2° de kosten voor de aanleg fietsenstallingen en van de infrastructuur om data-uitwisseling mogelijk te maken, vermeld in artikel 6, 4°, van het besluit van 11 september 2020.<br>
-<br>
-§ 4. Het subsidiebedrag, vermeld in paragraaf 2, eerste lid, wordt in de volgende twee schijven uitbetaald:<br>
-1° een eerste schijf van drie vierde van het inschrijvingsbedrag van de aannemer wordt betaald bij de betekening van de opdracht aan de aannemer van de werken;<br>
-2° een tweede schijf voor het saldo van de kosten van de werken, met eventuele prijsherzieningen en verrekeningen, meer- of bijwerken wordt uitbetaald na de definitieve oplevering van de werken.
+§ 3. De kostprijs, vermeld in paragraaf 2, eerste lid, omvat de volgende kosten:<br>
+1° de kosten voor studie en ontwerp;<br>
+2° de kosten voor de werken volgens de inschrijvingsprijs van de aannemer, in voorkomend geval te vermeerderen met de prijsherzieningen, verrekeningen, meer- of bijwerken;<br>
+3° als de gemeente de werken in eigen beheer uitvoert: de kosten van de gebruikte materialen, te staven met de facturen van de aankoop ervan;<br>
+4° de kosten voor de aankoop en plaatsing van fietsenstallingen, van informatiedragers en van de infrastructuur om data-uitwisseling mogelijk te maken als vermeld in artikel 6 van het besluit van 11 februari 2022;<br>
+5° de kosten voor de aankoop en plaatsing van fietskluizen en fietslockers;<br>
+6° de kosten verbonden aan specifieke uitrustingen die de toegankelijkheid van het Hoppinpunt verbeteren voor alle gebruikers, vermeld in artikel 5 van het voormelde besluit;<br>
+7° de kosten voor de levering en aanplanting van groenvoorzieningen.
 
 ### ART 48/6.
 
-§ 1. De subsidieaanvraag voor de eerste schijf, vermeld in artikel 48/5, § 4, 1°, bevat:<br>
+§ 1. De subsidieaanvraag bevat al de volgende elementen:<br>
 1° informatie over de aanvrager, met inbegrip van het rekeningnummer waarop de subsidie moet worden gestort;<br>
 2° de identificatie van het project;<br>
-3° een financiële afrekening die de schuldvordering omvat;<br>
-4° een kopie van de gunningsbeslissing van de gemeenteraad en de overeenkomst met de opdrachtnemer.<br>
+3° offertes en financiële afrekeningen die de schuldvordering omvatten;<br>
+4° een kopie van de gunningsbeslissing van de gemeenteraad;<br>
+5° de overeenkomst met de opdrachtnemers en leveranciers;<br>
+6° een verklaring dat de gemeente eigenaar is van de grond waarop het Hoppinpunt wordt aangelegd of een bewijs dat de gemeente langdurige gebruiksrechten bezit op de gronden;<br>
+7° een financiële afrekening die de schuldvordering omvat, en de betaalbewijzen voor de kosten, vermeld in artikel 48/5, § 3;<br>
+8° een kopie van het proces-verbaal van voorlopige oplevering, tenzij de werken zijn uitgevoerd in eigen beheer.<br>
 <br>
-De subsidieaanvraag voor de tweede schijf, vermeld in artikel 48/5, § 4, 2°, bevat:<br>
-1° informatie over de aanvrager, met inbegrip van het rekeningnummer waarop de subsidie moet worden gestort;<br>
-2° de identificatie van het project;<br>
-3° een financiële afrekening die de schuldvordering omvat, en de betaalbewijzen met betrekking tot de kosten, vermeld in artikel 48/5, § 3, 2° ;<br>
-4° een kopie van het proces-verbaal van voorlopige oplevering.
+§ 2. Met akkoord van de projectstuurgroep, vermeld in artikel 8 van het besluit van 6 september 2019, kunnen per Hoppinpunt verschillende subsidieaanvragen ingediend worden met het oog op de aanleg of herinrichting ervan. Over de volledige looptijd van een lokale bestuursperiode mag de som van de subsidiebedragen van die verschillende aanvragen het maximumbedrag voor het Hoppinpunt, vermeld in artikel 48/5, § 2, eerste lid, niet overschrijden.
 
 ## HOOFDSTUK 3 Samenwerking en subsidiering van het mobiliteitsbeleid op tussenliggend niveau
 
@@ -811,7 +810,7 @@ De Vlaamse minister, bevoegd voor de openbare werken en voor het   mobiliteitsbe
 
 ### BIJLAGE 1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/12/15_1.pdf#page=44">Model van samenwerkingsovereenkomst als vermeld in artikel 54, 1°.</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/05_1.pdf#page=54">Model van samenwerkingsovereenkomst als vermeld in artikel 54, 1°.</a>
 
 ### BIJLAGE 2
 
@@ -819,11 +818,11 @@ De Vlaamse minister, bevoegd voor de openbare werken en voor het   mobiliteitsbe
 
 ### BIJLAGE 3
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/12/15_1.pdf#page=50">Model van samenwerkingsovereenkomst als vermeld in artikel 54, 3°.</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/05_1.pdf#page=60">Model van samenwerkingsovereenkomst als vermeld in artikel 54, 3°.</a>
 
 ### BIJLAGE 4
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/12/15_1.pdf#page=63">Model van samenwerkingsovereenkomst als vermeld in artikel 54, 4°.</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/05_1.pdf#page=75">Model van samenwerkingsovereenkomst als vermeld in artikel 54, 4°.</a>
 
 ### BIJLAGE 5
 
@@ -835,7 +834,7 @@ De Vlaamse minister, bevoegd voor de openbare werken en voor het   mobiliteitsbe
 
 ### BIJLAGE 7
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/12/15_1.pdf#page=77">Model van samenwerkingsovereenkomst als vermeld in artikel 54, 7°.</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/05_1.pdf#page=90">Model van samenwerkingsovereenkomst als vermeld in artikel 54, 7°.</a>
 
 ### BIJLAGE 8
 
