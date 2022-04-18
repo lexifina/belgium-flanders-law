@@ -24,7 +24,7 @@ c) 27 plaatsen voor meisjes in de campus De Markt;<br>
 2° de gemeenschapsinstelling De Zande:<br>
 a) 35 gesloten plaatsen voor jongens in de campus Wingene;<br>
 b) 53 open plaatsen voor jongens in de campus Ruiselede;<br>
-c) 53 plaatsen voor meisjes in de campus Beernem;<br>
+c) 44 plaatsen voor meisjes en 9 plaatsen voor jongens in de campus Beernem;<br>
 3° de gemeenschapsinstelling De Grubbe in Kortenberg: 45 gesloten plaatsen voor jongens.
 
 ### ART 2.
@@ -54,7 +54,7 @@ Binnen de maximumcapaciteit, vermeld in artikel 1,1° en 2° wordt respectieveli
 Binnen de maximumcapaciteit, vermeld in artikel 1, 1° en 2° wordt respectievelijk volgende bijzondere capaciteit georganiseerd:<br>
 1° in de campus De Hutten: 3 plaatsen voor jongens,<br>
 2° in de campus De Markt: 2 plaatsen voor jongens en 2 plaatsen voor meisjes;<br>
-3° in de campus Beernem: 3 plaatsen voor meisjes;<br>
+3° in de campus Beernem: 2 plaatsen voor jongens en 2 plaatsen voor meisjes;<br>
 4° in de campus Ruiselede: 3 plaatsen voor jongens;<br>
 5° in de campus Wingene: 3 plaatsen voor jongens.
 
