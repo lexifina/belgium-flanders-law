@@ -33,7 +33,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Arteveldehogeschool, Hoogpoort 15, 9000 Gent, ondernemingsnummer 0474.120.360, voor een totaal van maximaal 1.841.918 euro (een miljoen, achthonderd eenenveertigduizend, negenhonderdachttien euro).<br>
+§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Arteveldehogeschool, Hoogpoort 15, 9000 Gent, ondernemingsnummer 0474.120.360, voor een totaal van maximaal 2.721.461 euro (twee miljoen zevenhonderd éénentwintigduizend vierhonderdeenenzestig euro).<br>
 <br>
 § 2. De projecttoelage, vermeld in paragraaf 1, moet worden aangewend voor de kosten die verbonden zijn aan de uitvoering van de goedgekeurde projecten, zoals opgenomen in bijlage 1.<br>
 <br>
@@ -43,7 +43,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 2.
 
-§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan AP Hogeschool Antwerpen, Lange Nieuwstraat 101, 2000 Antwerpen, ondernemingsnummer 0535.880.359, voor een totaal van maximaal 1.658.815 euro (een miljoen, zeshonderd achtenvijftigduizend achthonderdvijftien euro).<br>
+§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan AP Hogeschool Antwerpen, Lange Nieuwstraat 101, 2000 Antwerpen, ondernemingsnummer 0535.880.359, voor een totaal van maximaal 2.558.882 euro (twee miljoen vijfhonderd achtenvijftigduizend achthonderdtweeëntachtig euro).<br>
 <br>
 § 2. De projecttoelage, vermeld in paragraaf 1, moet worden aangewend voor de kosten die verbonden zijn aan de uitvoering van de goedgekeurde projecten, zoals opgenomen in bijlage 2.<br>
 <br>
@@ -53,7 +53,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 3.
 
-§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Erasmushogeschool Brussel, Nijverheidskaai 170, 1070 Brussel, ondernemingsnummer 0255.710.113, voor een totaal van maximaal 1.007.783 euro (een miljoen zevenduizend zevenhonderddrieëntachtig euro).<br>
+§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Erasmushogeschool Brussel, Nijverheidskaai 170, 1070 Brussel, ondernemingsnummer 0255.710.113, voor een totaal van maximaal 1.522.531 euro (een miljoen vijfhonderd tweeëntwintigduizend vijfhonderd eenendertig euro).<br>
 <br>
 § 2. De projecttoelage, vermeld in paragraaf 1, moet worden aangewend voor de kosten die verbonden zijn aan de uitvoering van de goedgekeurde projecten, zoals opgenomen in bijlage 3.<br>
 <br>
@@ -63,7 +63,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 4.
 
-§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Hogeschool Gent, Geraard de Duivelstraat 5, 9000 Gent, ondernemingsnummer 0255.647.755, voor een totaal van maximaal 1.344.315 euro (een miljoen driehonderd vierenveertigduizend driehonderdtweeënveertig euro).<br>
+§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Hogeschool Gent, Geraard de Duivelstraat 5, 9000 Gent, ondernemingsnummer 0255.647.755, voor een totaal van maximaal 3.158.354 euro (drie miljoen honderd achtenvijftigduizend driehonderdvierenvijftig euro).<br>
 <br>
 § 2. De projecttoelage, vermeld in paragraaf 1, moet worden aangewend voor de kosten die verbonden zijn aan de uitvoering van de goedgekeurde projecten, zoals opgenomen in bijlage 4.<br>
 <br>
@@ -73,9 +73,9 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 5.
 
-§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Hogeschool West-Vlaanderen, Marksesteenweg 58, 8500 Kortrijk, ondernemingsnummer 0259.366.716, voor een totaal van maximaal 712.579 euro (zevenhonderdtwaalfduizend vijfhonderdnegenenzeventig euro).<br>
+§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Hogeschool West-Vlaanderen, Marksesteenweg 58, 8500 Kortrijk, ondernemingsnummer 0259.366.716, voor een totaal van maximaal 1.286.820 euro (een miljoen tweehonderd zesentachtigduizend achthonderdtwintig euro).<br>
 <br>
-§ 2. De projecttoelage, vermeld in paragraaf 1, moet worden aangewend voor de kosten die verbonden zijn aan de uitvoering van de goedgekeurde projecten, zoals opgenomen in bijlage 5.<br>
+§ 2. De projecttoelage, vermeld in paragraaf 1, moet worden aangewend voor de kosten die verbonden zijn aan de uitvoering van de goedgekeurde projecten, zoals opgenomen in bijlage 5 en in bijlage 19.<br>
 <br>
 § 3. De projecttoelage, vermeld in paragraaf 1, heeft betrekking op de periode van 15 september 2021 tot en met 15 oktober 2023.<br>
 <br>
@@ -93,7 +93,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 7.
 
-§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen, Brusselsestraat 45, 2018 Antwerpen, ondernemingsnummer 0458.402.105, voor een totaal van maximaal 1.571.110 euro (een miljoen vijfhonderd eenenzeventigduizend honderdentien euro).<br>
+§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen, Brusselsestraat 45, 2018 Antwerpen, ondernemingsnummer 0458.402.105, voor een totaal van maximaal 2.612.348 euro (twee miljoen zeshonderd twaalfduizend driehonderdachtenveertig euro).<br>
 <br>
 § 2. De projecttoelage, vermeld in paragraaf 1, moet worden aangewend voor de kosten die verbonden zijn aan de uitvoering van de goedgekeurde projecten, zoals opgenomen in bijlage 7.<br>
 <br>
@@ -103,9 +103,9 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 8.
 
-§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan KU Leuven, Oude Markt 13 bus 5500, 3000 Leuven, ondernemingsnummer 0419.052.173, voor een totaal van maximaal 6.820.328 euro (zes miljoen achthonderd twintigduizend driehonderdachtentwintig euro).<br>
+§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan KU Leuven, Oude Markt 13 bus 5500, 3000 Leuven, ondernemingsnummer 0419.052.173, voor een totaal van maximaal 12.112.637 euro (twaalf miljoen honderd twaalfduizend zeshonderdzevenendertig euro).<br>
 <br>
-§ 2. De projecttoelage, vermeld in paragraaf 1, moet worden aangewend voor de kosten die verbonden zijn aan de uitvoering van de goedgekeurde projecten, zoals opgenomen in bijlage 8.<br>
+§ 2. De projecttoelage, vermeld in paragraaf 1, moet worden aangewend voor de kosten die verbonden zijn aan de uitvoering van de goedgekeurde projecten, zoals opgenomen in bijlage 8 en in bijlage 20.<br>
 <br>
 § 3. De projecttoelage, vermeld in paragraaf 1, heeft betrekking op de periode van 1 oktober 2021 tot en met 15 oktober 2023.<br>
 <br>
@@ -113,7 +113,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 9.
 
-§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan LUCA School of Arts, Paleizenstraat 70, 1030 Brussel, ondernemingsnummer 0456.758.944, voor een totaal van maximaal 691.660 euro (zeshonderd eenennegentigduizend zeshonderdzestig euro).<br>
+§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan LUCA School of Arts, Paleizenstraat 70, 1030 Brussel, ondernemingsnummer 0456.758.944, voor een totaal van maximaal 1.248.803 (een miljoen tweehonderd achtenveertigduizend achthonderdendrie euro).<br>
 <br>
 § 2. De projecttoelage, vermeld in paragraaf 1, moet worden aangewend voor de kosten die verbonden zijn aan de uitvoering van de goedgekeurde projecten, zoals opgenomen in bijlage 9.<br>
 <br>
@@ -123,7 +123,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 10.
 
-§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Odisee, Warmoesberg 26, 1000 Brussel, ondernemingsnummer 0408.429.584, voor een totaal van maximaal 1.854.055 euro (een miljoen achthonderd zevenentachtigduizend vijfenvijftig euro).<br>
+§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Odisee, Warmoesberg 26, 1000 Brussel, ondernemingsnummer 0408.429.584, voor een totaal van maximaal 2.171.238 euro (twee miljoen honderd éénenzeventigduizend tweehonderdachtendertig euro).<br>
 <br>
 § 2. De projecttoelage, vermeld in paragraaf 1, moet worden aangewend voor de kosten die verbonden zijn aan de uitvoering van de goedgekeurde projecten, zoals opgenomen in bijlage 10.<br>
 <br>
@@ -133,9 +133,9 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 11.
 
-§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Hogeschool PXL, Elfde-Liniestraat 24, 3500 Hasselt, ondernemingsnummer 0535.878.874, voor een totaal van maximaal 1.529.652 euro (een miljoen vijfhonderd negenentwintigduizend zeshonderdtweeënvijftig euro).<br>
+§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Hogeschool PXL, Elfde-Liniestraat 24, 3500 Hasselt, ondernemingsnummer 0535.878.874, voor een totaal van maximaal 1.760.200 euro (een miljoen zevenhonderd zestigduizend tweehonderd euro).<br>
 <br>
-§ 2. De projecttoelage, vermeld in paragraaf 1, moet worden aangewend voor de kosten die verbonden zijn aan de uitvoering van de goedgekeurde projecten, zoals opgenomen in bijlage 11.<br>
+§ 2. De projecttoelage, vermeld in paragraaf 1, moet worden aangewend voor de kosten die verbonden zijn aan de uitvoering van de goedgekeurde projecten, zoals opgenomen in bijlage 11 en in bijlage 21.<br>
 <br>
 § 3. De projecttoelage, vermeld in paragraaf 1, heeft betrekking op de periode van 20 september 2021 tot en met 15 oktober 2023.<br>
 <br>
@@ -143,7 +143,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 12.
 
-§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Thomas More Kempen vzw, Kleinhoefstraat 4, 2440 Geel, ondernemingsnummer 0409.667.028, voor een totaal van maximaal 1.209.679 euro (een miljoen tweehonderdennegenduizend zeshonderdnegenenzeventig euro).<br>
+§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Thomas More Kempen vzw, Kleinhoefstraat 4, 2440 Geel, ondernemingsnummer 0409.667.028, voor een totaal van maximaal 3.328.529 euro (drie miljoen driehonderd achtentwintigduizend vijfhonderdnegenentwintig euro).<br>
 <br>
 § 2. De projecttoelage, vermeld in paragraaf 1, moet worden aangewend voor de kosten die verbonden zijn aan de uitvoering van de goedgekeurde projecten, zoals opgenomen in bijlage 12.<br>
 <br>
@@ -153,7 +153,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 13.
 
-§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Universiteit Antwerpen, Prinsstraat 13, 2000 Antwerpen, ondernemingsnummer 0257.216.482, voor een totaal van maximaal 1.974.518 euro (een miljoen negenhonderd vierenzeventigduizend vijfhonderdachttien euro).<br>
+§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Universiteit Antwerpen, Prinsstraat 13, 2000 Antwerpen, ondernemingsnummer 0257.216.482, voor een totaal van maximaal 4.317.974 euro (vier miljoen driehonderd zeventienduizend negenhonderdvierenzeventig euro).<br>
 <br>
 § 2. De projecttoelage, vermeld in paragraaf 1, moet worden aangewend voor de kosten die verbonden zijn aan de uitvoering van de goedgekeurde projecten, zoals opgenomen in bijlage 13.<br>
 <br>
@@ -163,7 +163,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 14.
 
-§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan UC Leuven vzw, Geldenaaksebaan 355, 3001 Leuven, ondernemingsnummer 0455.645.523, voor een totaal van maximaal 1.833.095 euro (een miljoen achthonderddrieëndertigduizend vijfennegentig euro).<br>
+§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan UC Leuven vzw, Geldenaaksebaan 355, 3001 Leuven, ondernemingsnummer 0455.645.523, voor een totaal van maximaal 3.119.192 euro (drie miljoen honderd negentienduizend honderdtweeënnegentig euro).<br>
 <br>
 § 2. De projecttoelage, vermeld in paragraaf 1, moet worden aangewend voor de kosten die verbonden zijn aan de uitvoering van de goedgekeurde projecten, zoals opgenomen in bijlage 14.<br>
 <br>
@@ -173,7 +173,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 15.
 
-§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Universiteit Gent, Sint-Pietersnieuwstraat 25, 9000 Gent, ondernemingsnummer 0248.015.142, voor een totaal van maximaal 8.604.977 euro (acht miljoen zeshonderdenvierduizend negenhonderdzevenenzeventig euro).<br>
+§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Universiteit Gent, Sint-Pietersnieuwstraat 25, 9000 Gent, ondernemingsnummer 0248.015.142, voor een totaal van maximaal 9.556.040 euro (negen miljoen vijfhonderd zesenvijftigduizend en veertig euro).<br>
 <br>
 § 2. De projecttoelage, vermeld in paragraaf 1, moet worden aangewend voor de kosten die verbonden zijn aan de uitvoering van de goedgekeurde projecten, zoals opgenomen in bijlage 15.<br>
 <br>
@@ -183,7 +183,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 16.
 
-§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Universiteit Hasselt, Martelarenlaan 42, 3500 Hasselt, ondernemingsnummer 0208.359.859, voor een totaal van maximaal 933.517 euro (negenhonderddrieëndertigduizend vijfhonderdzeventien euro).<br>
+§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Universiteit Hasselt, Martelarenlaan 42, 3500 Hasselt, ondernemingsnummer 0208.359.859, voor een totaal van maximaal 1.722.787 euro (een miljoen zevenhonderd tweeëntwintigduizend zevenhonderdzevenentachtig euro).<br>
 <br>
 § 2. De projecttoelage, vermeld in paragraaf 1, moet worden aangewend voor de kosten die verbonden zijn aan de uitvoering van de goedgekeurde projecten, zoals opgenomen in bijlage 16.<br>
 <br>
@@ -193,9 +193,9 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 17.
 
-§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Katholieke Hogeschool VIVES Zuid, Doorniksesteenweg 145, 8500 Kortrijk, ondernemingsnummer 0455.922.071, voor een totaal van maximaal 1.143.642 euro (een miljoen honderddrieënveertigduizend zeshonderdtweeënveertig euro).<br>
+§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Katholieke Hogeschool VIVES Zuid, Doorniksesteenweg 145, 8500 Kortrijk, ondernemingsnummer 0455.922.071, voor een totaal van maximaal 2.741.644 euro (twee miljoen zevenhonderd eenenveertigduizend zeshonderdvierenveertig euro).<br>
 <br>
-§ 2. De projecttoelage, vermeld in paragraaf 1, moet worden aangewend voor de kosten die verbonden zijn aan de uitvoering van de goedgekeurde projecten, zoals opgenomen in bijlage 17.<br>
+§ 2. De projecttoelage, vermeld in paragraaf 1, moet worden aangewend voor de kosten die verbonden zijn aan de uitvoering van de goedgekeurde projecten, zoals opgenomen in bijlage 17 en in bijlage 22.<br>
 <br>
 § 3. De projecttoelage, vermeld in paragraaf 1, heeft betrekking op de periode van 1 oktober 2021 tot en met 15 oktober 2023.<br>
 <br>
@@ -203,7 +203,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 18.
 
-§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Vrije Universiteit Brussel, Pleinlaan 2, 1050 Brussel, ondernemingsnummer 0449.012.406, voor een totaal van maximaal 2.572.312 euro (twee miljoen vijfhonderdtweeënzeventigduizend driehonderdentwaalf euro).<br>
+§ 1. Ten laste van het krediet, ingeschreven onder begrotingsartikel FD0-1FED2EA-IS, basisallocatie 1FE230 van de algemene uitgavenbegroting van de Vlaamse overheid voor het begrotingsjaar 2021, wordt een projecttoelage verleend aan Vrije Universiteit Brussel, Pleinlaan 2, 1050 Brussel, ondernemingsnummer 0449.012.406, voor een totaal van maximaal 2.897.436 euro (twee miljoen achthonderd zevenennegentigduizend vierhonderdzesendertig euro).<br>
 <br>
 § 2. De projecttoelage, vermeld in paragraaf 1, moet worden aangewend voor de kosten die verbonden zijn aan de uitvoering van de goedgekeurde projecten, zoals opgenomen in bijlage 18.<br>
 <br>
@@ -265,72 +265,72 @@ De Vlaamse minister, bevoegd voor onderwijs, is belast met de uitvoering van dit
 
 ### BIJLAGE
 
-Bijlage 1 (<a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/26_1.pdf#page=6">link naar de bijlage</a>)
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/08_2.pdf#page=4">Bijlage 1</a>
 
 ### BIJLAGE
 
-Bijlage 2 (<a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/26_1.pdf#page=100">link naar de bijlage</a>)
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/08_2.pdf#page=186">Bijlage 2</a>
 
 ### BIJLAGE
 
-Bijlage 3 (<a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/26_1.pdf#page=214">link naar de bijlage</a>)
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/08_2.pdf#page=328">Bijlage 3</a>
 
 ### BIJLAGE
 
-Bijlage 4 (<a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/26_1.pdf#page=279">link naar de bijlage</a>)
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/08_2.pdf#page=516">Bijlage 4</a>
 
 ### BIJLAGE
 
-Bijlage 5 (<a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/26_1.pdf#page=403">link naar de bijlage</a>)
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/08_2.pdf#page=784">Bijlage 5</a>
 
 ### BIJLAGE
 
-Bijlage 6 (<a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/26_1.pdf#page=487">link naar de bijlage</a>)
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/08_2_2.pdf#page=30">Bijlage 6</a>
 
 ### BIJLAGE
 
-Bijlage 7 (<a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/26_1.pdf#page=510">link naar de bijlage</a>)
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/08_2_2.pdf#page=55">Bijlage 7</a>
 
 ### BIJLAGE
 
-Bijlage 8 (<a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/26_1.pdf#page=590">link naar de bijlage</a>)
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/08_2_2.pdf#page=228">Bijlage 8</a>
 
 ### BIJLAGE
 
-Bijlage 9 (<a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/26_1.pdf#page=846">link naar de bijlage</a>)
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/08_2_2.pdf#page=619">Bijlage 9</a>
 
 ### BIJLAGE
 
-Bijlage 10 (<a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/26_1.pdf#page=984">link naar de bijlage&nbsp;deel 1</a>&nbsp;en <a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/26_1_2.pdf#page=1">vervolg (deel 2)</a>)
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/08_2_2.pdf#page=848">Bijlage 10</a>
 
 ### BIJLAGE
 
-Bijlage 11 (<a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/26_1_2.pdf#page=49">link naar de bijlage</a>)
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/08_2_3.pdf#page=214">Bijlage 11</a>
 
 ### BIJLAGE
 
-Bijlage 12 (<a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/26_1_2.pdf#page=139">link naar de bijlage</a>)
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/08_2_3.pdf#page=337">Bijlage 12</a>
 
 ### BIJLAGE
 
-Bijlage 13 (<a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/26_1_2.pdf#page=201">link naar de bijlage</a>)
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/08_2_3.pdf#page=596">Bijlage 13</a>
 
 ### BIJLAGE
 
-Bijlage 14 (<a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/26_1_2.pdf#page=392">link naar de bijlage</a>)
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/08_2_3.pdf#page=734">Bijlage 14</a>
 
 ### BIJLAGE
 
-Bijlage 15 (<a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/26_1_2.pdf#page=595">link naar de bijlage</a>)
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/08_2_4.pdf#page=154">Bijlage 15</a>
 
 ### BIJLAGE
 
-Bijlage 16 (<a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/26_1_2.pdf#page=720">link naar de bijlage</a>)
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/08_2_4.pdf#page=330">Bijlage 16</a>
 
 ### BIJLAGE
 
-Bijlage 17 (<a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/26_1_2.pdf#page=800">link naar de bijlage</a>)
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/08_2_4.pdf#page=417">Bijlage 17</a>
 
 ### BIJLAGE
 
-Bijlage 18 (<a href="http://www.ejustice.just.fgov.be/mopdf/2022/01/26_1_2.pdf#page=959">link naar de bijlage</a>)
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/04/08_2_4.pdf#page=704">Bijlage 18</a>
