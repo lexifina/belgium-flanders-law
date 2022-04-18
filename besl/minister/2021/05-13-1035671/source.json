@@ -2,16 +2,16 @@
   "codex_id": 1035671,
   "title": "Ministerieel besluit van 2021-05-13 tot aanwijzing van gewestelijke toezichthouders, gewestelijke milieuopsporingsambtenaren en gemachtigde ambtenaren bij het Agentschap voor Natuur en Bos overeenkomstig het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035671/VolledigDocument?datum=2021-06-24",
-  "source_sha256": "f01f8b29d860c07f5f4761a025af0ba490399c72e0d1b54d6cf5054c61587f2e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035671/VolledigDocument?datum=2022-04-18",
+  "source_sha256": "1eee488a10c32a2b179a06cc970b8c86048f753407eb9cd9585f24b66ded3f87",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035671&param=informatie",
-  "as_of": "2021-06-24",
+  "as_of": "2022-04-18",
   "made": "2021-05-13",
   "gazette": "2021-06-14",
   "numac": 2021041812,
   "document_start": "2021-06-24",
   "document_end": "2022-04-17",
-  "in_force": "2021-06-24",
+  "in_force": "2022-04-18",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2021-06-24; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-04-18; future article versions excluded; article text as the API gives it"
 }

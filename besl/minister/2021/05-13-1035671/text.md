@@ -2,31 +2,24 @@
 
 ### ART 1.
 
-De volgende personeelsleden, vermeld in artikel 12, 5°, van het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, worden aangewezen als gewestelijke toezichthouder:<br>
-Allegaert Jan, Appermont Jan, Bartholomees Erik, Batselier Eva, Bauwens Danny, Bennekens Johan, Bergmans Lucas, Berlaen Tom, Bogataj Tomas, Bosman Werner, Bossuyt Lieven, Brichau Tom, Broeckmans Michel, Bryon Anuschka, Cannaerts Bram, Coninx Geert, Cools Corina, Coppens Xavier, Cox Steve, Cromphout Reinhart, Cumps Steven, Daelemans Danny, De Clercq Heleen, De Heyn Dominique, De Kinderen Werner, De Maeyer Wim, De Schryver Sander, Deckers Bart, Deduytsche Bjorn, Deferm Wouter, Dekeyser Waldo, Delameillieure Rik, Delbecque Frank, Delcroix Paul, Demey Jeremy, Desseyn Yvan, Dethier Katleen (vanaf 3 mei 2021), Dewinter Jef, Dewulf Evy, Eeckhout Tineke, Eggers Kris, Eyletten Eric, Flipkens Karel, Foré Mathieu, Fourier Marc, Froyen Lutgart, Geenens Jelle, Geeraerts Bert, Geudens Jan, Goossens Joris, Govaere Bart, Hendrick Lise, Hoeymans Bart, Hermans Jop, Hubau Pierre, Huvenne Patrick, Huygens Wouter, Huysmans Tom, Jacquemyn Egbert, Kestemont Pierre, Lamaire Johan, Lamberts Jan, Lauwen Ludo, Lefevre Sam, Leyssens Dirk, Lodewyckx Leo, Luyck Stefan, Maertens Koen, Maes Tom, Maréchal Koenraad, Martens Wilfried, Meulebrouck Klaar, Meuleman Bart, Meulemans Paul, Minnen Dieter, Moreels Tim, Nicaise Jean-Pierre, Otten Jean-Pierre, Proesmans Joost, Quintens Hildegarde, Raes Dirk, Raymaekers Peter, Reynders Patrick, Rombouts Kris, Roose Bart, Rutten Jos, Ruysen Dany, Saey Frank, Schreurs Koen, Schuurmans Patrick, Spelkens Raf, Stouten Marc, Struelens Marc, Sturbois Philippe, Swiggers Veerle, Thijs Koen, Thys Harry, Ulenaers Eddy, Van Ackere Kristof, Van Assche Luc, Van Bavel Koen, Van Buggenhout Michel, Van Camp Luk, Van de Velde Philippe, Van Den Broecke Bram, Van den Eynde Veerle, Van der Veen Carlo, Van Hertem Johan, Van Hove Werner, Van Kerckhoven Gijs, Van Meerbeeck Bart, Van Poecke Kurt, Van Praet Hans, Van Roey Willem, Van Uytsel Rudy, Van Zeebroeck Vicky, Vanberghen Bart, Vanbriel Erwin, Vanclooster Vanessa, Vandamme Paul, Vandebosch Bert, Vandersteegen Jan, Vansteenbrugge Hans, Vanuytrecht Nico, Verboven Eliane, Verbruggen Gert, Vercammen Eddy, Vereecken Bram, Vermander Berten, Vermeulen Manuel, Vileyn Guy, Vlaeminck Bram, Vrielynck Sven, Wellekens Bram, Wellekens Jan, Wuytack Jan, Ysewijn Mark, Zvar Ernesto.
+...
 
 ### ART 2.
 
-De volgende personeelsleden, vermeld in artikel 12, 5°, van hetzelfde besluit, worden aangewezen als gewestelijke toezichthouder:<br>
-Aarts An, Arnoys Jeroen, Audenaert Tim, Ballet Alex, Bastiaenssens Lien, Berghmans Peter, Beyens Iris, Bosmans Maria, Bouts Evi, Breevaart Arjen, Buysse Frank, Cammaer Tom, Campens Veerle, Casteels Jeroen, Clerckx Shelly, Coppens Yves, Cornelis Johnny, Cosijn Johan, Costermans Elke, Creemers An, Damen Lennert, De Hemptinne Delphine, De Meulemeester Kurt, De Rycke Ann, De Schryver Else, De Schryver Hans, De Schutter Frans, De Smet Ivan, De Sterck Frauke, Deblier Wim, Debonnet Thomas, Deckers Patrick, Decleyre Dominiek, Deheegher Koen, Dekoninck Lieven, Delief Anja, Demarest Leni, Denayer Bart, Desloover Dries, Dillen Alain, Driesen Koen, El Barham Marwan, Fierens Geert, Flamand Geert, Geens Jolien, Gora Lily, Gorissen Dries, Goyvaerts Katrin, Gysen Jits, Hardies Nele, Heerinckx Sara, Helsen Vicky, Henckaerts Benoit, Herrier Jean-Louis, Hessel Kenny, Heyens Veerle, Hostens Eline, Jacques Elvira, Janssen Kobe, Joillet Patricia, Josten Daniel, Lafort Steven, Lamoot Indra, Laureys Steven, Longueville Sofie, Loose Stijn, Malfroy Sander, Melis Jurgen, Menschaert Jan, Mertens Wim, Meulemans Jan, Michiels Kurt, Moelans Jochem, Moermans Kate, Monsieurs Sara, Moreau Ann, Myny Renaat, Nachtergaele Jeroen, Nachtergale Lieven, Nagels Katia, Oyen Angelica, Panne Viviane, Peeters Gert, Poelmans Lien, Reynaert Maarten, Reynaert Vanessa, Rombouts Marita, Sahbaz Kadir, Scheepers Luc, Schoemans Ivan, Schols Jeroen, Schotsmans Elfriede, Schrey Raf, Serbruyns Inge, Slabbaert Wim, Smits Wim, Strubbe Reinhardt, Swinnen Greet, Tessens Bart, Toebat Johan, Tureluren Bart, Tuytens Karen, Van Baelen Kristine, Van Ballaert Siege, Van Daele Bert, Van Van der Aa Bart, Van der Veken Soetkin, Van de Wiele Hannelore, Van Haelst Nadia, Van Heddegem Ellen, Van Houdt Tim, Van Hoydonck Gert, Van Laer Liesbet, Van Liefferinge Chris, Van Looveren Britt, Van Praet Joachim, Vandebon Alex, Vanden Abeele Laurent, Vandenbergh Katleen, Vandenberghe Jenike, Vanholen Bert, Vanneste Julie, Vanopdenbosch Sandro, Vanweddingen Raf, Vanwesenbeeck Wouter, Velghe Darline, Verbanck Elias, Verelst Iris, Verschraegen Tom, Vervenne Vincent, Verwimp Nico, Werbrouck Ilke, Willeghems Peter, Willems Sehiene, Wouters Els, Yseboodt Rudi, Zoeter Karin, Zukauskaite Rasa.<br>
-<br>
-Op grond van artikel 36/1 van hetzelfde besluit beschikken de in het eerste lid vermelde personeelsleden enkel over een recht van toegang zoals bedoeld in artikel 16.3.12 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid; zij hebben geen bevoegdheid om milieu-inbreuken of milieumisdrijven vast te stellen, noch om bestuurlijke maatregelen en veiligheidsmaatregelen op te leggen.
+...
 
 ### ART 3.
 
-De volgende personeelsleden, vermeld in artikel 78/2 van hetzelfde besluit, worden aangewezen als officier van gerechtelijke politie:<br>
-Batselier Eva, Bauwens Danny, Berlaen Tom, Bogataj Tomas, Bossuyt Lieven, Bryon Anuschka, Cumps Steven, De Clercq Heleen, Deckers Bart, Delcroix Paul, Eeckhout Tineke, Eyletten Eric, Fourier Marc, Froyen Lutgart, Geudens Jan, Jacquemyn Egbert, Lamberts Jan, Lefevre Sam, Minnen Dieter, Moreels Tim, Rutten Jos, Schreurs Koen, Sturbois Philippe, Swiggers Veerle, Van Bavel Koen, Van Camp Luk, Van Den Broecke Bram, Van de Velde Philippe, Van den Eynde Veerle, Van der Veen Carlo, Van Meerbeeck Bart, Van Zeebroeck Vicky, Vanclooster Vanessa, Vandamme Paul, Vermander Berten, Vlaeminck Bram, Wellekens Bram, Ysewijn Mark.
+...
 
 ### ART 4.
 
-De volgende personeelsleden, vermeld in artikel 78/2 van hetzelfde besluit, worden aangewezen als officier van gerechtelijke politie, hulpofficier van de procureur des Konings:<br>
-Dethier Katleen (vanaf 3 mei 2021), Vandebosch Bert, Vrielynck Sven.
+...
 
 ### ART 5.
 
-De volgende personeelsleden, vermeld in artikel 3/1 van hetzelfde besluit, worden aangewezen als gemachtigd ambtenaar:<br>
-Dethier Katleen (vanaf 3 mei 2021), Vandebosch Bert, Vrielynck Sven.
+...
 
 ### ART 6.
 
-Het ministerieel besluit van 5 maart 2020 betreffende de aanwijzing van gewestelijke toezichthouders, gewestelijke milieuopsporingsambtenaren en gemachtigde ambtenaren bij het Agentschap voor Natuur en Bos overeenkomstig het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, wordt opgeheven.
+...
