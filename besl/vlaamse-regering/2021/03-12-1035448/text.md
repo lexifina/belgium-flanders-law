@@ -69,15 +69,14 @@ Het corona-ouderschapsverlof, vermeld in het koninklijk besluit nr. 23 van 13 me
 
 § 1. Als het statutaire personeelslid, vermeld in artikel 1 van het besluit van 7 december 2007 en artikel 2 van het besluit van 12 november 2010, niet kan telewerken, ook niet in een andere gepaste functie, en er geen oplossing gevonden kan worden door overuren of andere vormen van verlof op te nemen, dan heeft dat personeelslid in de volgende gevallen recht op verlof:<br>
 1° in de gevallen, vermeld in artikel 8, eerste lid, van de wet van 23 december 2021 houdende tijdelijke ondersteuningsmaatregelen ten gevolge van de COVID-19-pandemie, overeenkomstig het tweede tot en met vierde lid van het voormelde artikel;<br>
-2° als het een gehandicapt kind ten laste heeft, ongeacht de leeftijd van dat kind, en dat kind niet naar een centrum voor opvang van gehandicapte personen kan gaan, omdat dat centrum wordt gesloten als gevolg van een maatregel om de verspreiding van COVID-19 te beperken;<br>
-3° als het een quarantainevoorschrift voorlegt waardoor het personeelslid zich niet naar zijn werkplek kan begeven gedurende een bepaalde periode.<br>
+2° als dat personeelslid een quarantainevoorschrift voorlegt waardoor het personeelslid zich niet naar zijn werkplek kan begeven gedurende een bepaalde periode;<br>
+3° ...<br>
 <br>
-Het recht op verlof, vermeld in het eerste lid, geldt voor de duur van de periode dat het kind niet terug naar het kinderdagverblijf, de school of het centrum voor opvang van gehandicapte personen terug kan gaan, of voor de duur van het quarantainevoorschrift.<br>
+Het recht op verlof, vermeld in het eerste lid, 2°, geldt voor de duur van het quarantainevoorschrift.<br>
 <br>
-Om van dat recht gebruik te kunnen maken moet het personeelslid:<br>
-1° het bestuur onmiddellijk op de hoogte brengen;<br>
-2° het bestuur een attest van het kinderdagverblijf, van de school of het centrum voor opvang van gehandicapte personen bezorgen. In dat attest bevestigt de betrokken instelling de sluiting van de klas, school of centrum voor opvang van gehandicapte personen als gevolg van een maatregel om de verspreiding van COVID-19 te beperken. Het attest vermeldt de periode waarvoor de sluiting van toepassing is;<br>
-3° met toepassing van het eerste lid, 3°, het bestuur een quarantainegetuigschrift bezorgen.<br>
+Als het personeelslid, vermeld in het eerste lid, al de volgende handelingen stelt, kan dat personeelslid zich beroepen op het recht op verlof, vermeld in het eerste lid, 2° :<br>
+1° het personeelslid brengt het bestuur onmiddellijk op de hoogte van zijn wens verlof als vermeld in het eerste lid, 2°, op te nemen;<br>
+2° het personeelslid bezorgt een quarantainegetuigschrift aan het bestuur.<br>
 <br>
 § 2. Het verlof, vermeld in paragraaf 1, wordt gelijkgesteld met dienstactiviteit en telt mee als werkelijke dienst, vermeld in artikel 114 van het besluit van 7 december 2007 en in artikel 80 van het besluit van 12 november 2010.<br>
 <br>
@@ -226,7 +225,7 @@ In artikel 140 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse R
 
 Artikel 2 tot en met 7 en 9 heeft uitwerking met ingang van 1 maart 2020.<br>
 <br>
-Artikel 8 heeft uitwerking met ingang van 1 oktober 2020, met uitzondering van artikel 8, § 1, eerste lid, 3°.
+Artikel 8 heeft uitwerking met ingang van 1 oktober 2020, met uitzondering van paragraaf 1, eerste lid, 2°, tweede en derde lid, die uitwerking hebben met ingang van 24 april 2021.
 
 ### ART 22.
 
