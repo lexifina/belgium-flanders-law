@@ -4871,7 +4871,7 @@ Bij het gebruik van de trein voor de verplaatsing van en naar het werk wordt het
 
 ### ART. 164.
 
-Een maandelijkse fietsvergoeding wordt toegekend aan het personeelslid dat de verplaatsing van en naar het werk volledig of gedeeltelijk met de fiets aflegt.<br>
+Een maandelijkse fietsvergoeding wordt toegekend aan het personeelslid dat de verplaatsing van en naar het werk volledig of gedeeltelijk met de fiets of de speedpedelec, vermeld in artikel 38, § 1, eerste lid, 14°, a), van het Wetboek van de inkomstenbelastingen van 10 april 1992 aflegt.<br>
 <br>
 De raad bepaalt het bedrag dat per kilometer wordt toegekend. Dat bedrag is minimaal gelijk aan 0,15 euro per kilometer en maximaal gelijk aan het bedrag dat op grond van de fiscale wetgeving en socialezekerheidswetgeving is vrijgesteld van belasting en sociale bijdragen.<br>
 <br>
