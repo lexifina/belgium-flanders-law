@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036885,
+  "title": "Besluit van de Vlaamse Regering van 2022-01-28 tot wijziging van artikel 164 van het besluit van de Vlaamse Regering van 7 december 2007 houdende de minimale voorwaarden voor de personeelsformatie, de rechtspositieregeling en het mandaatstelsel van het gemeentepersoneel en het provinciepersoneel en houdende enkele bepalingen betreffende de rechtspositie van de secretaris en de ontvanger van de openbare centra voor maatschappelijk welzijn en tot wijziging van artikel 8 en 21 van het besluit van de Vlaamse Regering van 12 maart 2021 houdende maatregelen ten gevolge van de pandemie veroorzaakt door COVID-19 en tot wijziging van de minimale voorwaarden voor de rechtspositieregeling van het personeel van de gemeenten, de openbare centra voor maatschappelijk welzijn en de provincies",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036885/VolledigDocument?datum=2022-04-22",
+  "source_sha256": "26bcddb86ae887cb636ef618e06687ac79c8f39dbdcfeeb5a1da827dab7a9614",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036885&param=informatie",
+  "as_of": "2022-04-22",
+  "made": "2022-01-28",
+  "gazette": "2022-04-12",
+  "numac": 2022040383,
+  "document_start": "2022-04-22",
+  "document_end": null,
+  "in_force": "2022-04-22",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2022-04-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
