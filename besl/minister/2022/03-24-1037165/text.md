@@ -18,7 +18,7 @@ BESLUIT:
 
 ### ART 1.
 
-De gemeentelijke verordening voor het verhuren van studentenkamers, goedgekeurd bij besluit van 16 december 2021 van de gemeenteraad van Ham, wordt goedgekeurd.
+De gemeentelijke verordening betreffende kamerwonen, goedgekeurd bij besluit van 16 december 2021 van de gemeenteraad van Ham, wordt goedgekeurd.
 
 ### ART 2.
 
