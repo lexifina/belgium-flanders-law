@@ -57,7 +57,7 @@ De Vlaamse minister, bevoegd voor de ruimtelijke ordening, kan een model van neg
 
 ### ART. 5.
 
-De sociale huisvestingsmaatschappijen, Openbare Centra voor Maatschappelijk Welzijn en andere overheidsinstanties die herhuisvesting aanbieden aan bewoners van weekendverblijven, zijn gehouden om de overheden, vermeld in artikel 4, § 1, tweede lid, onmiddellijk in kennis te stellen van elke weigering van een aanbod tot herhuisvesting in de zin van artikel 5.4.3, § 2, eerste lid, van de Vlaamse Codex Ruimtelijke Ordening.
+De woonmaatschappijen, Openbare Centra voor Maatschappelijk Welzijn en andere overheidsinstanties die herhuisvesting aanbieden aan bewoners van weekendverblijven, zijn gehouden om de overheden, vermeld in artikel 4, § 1, tweede lid, onmiddellijk in kennis te stellen van elke weigering van een aanbod tot herhuisvesting in de zin van artikel 5.4.3, § 2, eerste lid, van de Vlaamse Codex Ruimtelijke Ordening.
 
 ### ART. 6.
 
