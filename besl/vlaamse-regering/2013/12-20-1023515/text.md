@@ -716,7 +716,7 @@ Voorbehouden voor toekomstig gebruik.
 ### ART. 3.1.0.0.3.
 
 De vergoeding, vermeld in artikel 3.1.0.0.6 van de Vlaamse Codex Fiscaliteit van 13 december 2013, wordt uiterlijk op 31 mei van het jaar dat volgt op het aanslagjaar in kwestie, berekend op basis van:<br>
-1° de gegevens over de eigendommen van de erkende sociale verhuurkantoren voor de toepassing van artikel 2.1.4.0.1, § 2, eerste lid, 5°, van de voormelde codex;<br>
+1° de gegevens over de eigendommen van de erkende&nbsp;woonmaatschappijen voor de toepassing vanartikel 2.1.4.0.1, § 2, eerste lid, 3°, van de voormelde codex;<br>
 2° de meldingen, vermeld in artikel 2.1.4.0.1, § 2, derde lid, van de voormelde codex, voor de toepassing van artikel 2.1.4.0.1, § 2, eerste lid, 7°, van de voormelde codex;<br>
 3° de meldingen, vermeld in artikel 2.1.4.0.1, § 2/1, tweede lid, van de voormelde codex;<br>
 4° de informatie over de energiezuinige woningen en gebouwen die het Vlaams Energie- en Klimaatagentschap aanlevert voor de toepassing van artikel 2.1.5.0.1, § 2, van de voormelde codex;<br>
