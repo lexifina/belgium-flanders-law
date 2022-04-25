@@ -18,7 +18,7 @@ BESLUIT:
 
 ### ART 1.
 
-De gemeentelijke verordening voor het verhuren van studentenkamers, goedgekeurd bij besluit van 15 december 2021 van de gemeenteraad van Leopoldsburg, wordt goedgekeurd.
+De gemeentelijke verordening betreffende kamerwonen, goedgekeurd bij besluit van 15 december 2021 van de gemeenteraad van Leopoldsburg, wordt goedgekeurd.
 
 ### ART 2.
 
