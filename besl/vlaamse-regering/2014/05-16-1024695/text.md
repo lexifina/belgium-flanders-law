@@ -2423,7 +2423,7 @@ De erfgoedpremie bedraagt 40 % van de aanvaarde kostenraming, exclusief   btw.<B
 
 Een verhoogde erfgoedpremie van 60% van de aanvaarde kostenraming, exclusief btw, wordt toegekend voor het beheer van of voor werkzaamheden of diensten aan of in:<br>
 1° beschermde monumenten die bestemd zijn voor een erkende eredienst. De verhoogde premie kan alleen worden toegekend als er een actueel kerkenbeleidsplan bestaat voor de gebouwen van een erkende eredienst, met uitzondering van de kathedralen;<br>
-2° beschermde goederen die eigendom zijn van een gemeente, autonoom gemeentebedrijf, OCMW, welzijnsvereniging of een sociale huisvestingsmaatschappij, die een publieksfunctie hebben, tenzij ze in hoofdzaak een commerciële of andere bestemming hebben die economische opbrengsten genereert. Als het gebouw bestemd is voor de eredienst, moet ook voldaan worden aan de voorwaarden, vermeld in punt 1° ;<br>
+2° beschermde goederen die eigendom zijn van een gemeente, autonoom gemeentebedrijf, OCMW, welzijnsvereniging of een woonmaatschappij, die een publieksfunctie hebben, tenzij ze in hoofdzaak een commerciële of andere bestemming hebben die economische opbrengsten genereert. Als het gebouw bestemd is voor de eredienst, moet ook voldaan worden aan de voorwaarden, vermeld in punt 1° ;<br>
 3° onderwijsgebouwen;<br>
 4° als monument beschermde, maalvaardige en voor het publiek ontsloten molens;<br>
 5° ZEN-erfgoed als vermeld in een goedgekeurd beheersplan;<br>
