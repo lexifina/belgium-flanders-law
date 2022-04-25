@@ -32,7 +32,7 @@ Het agentschap is belast met de coördinatie van de opmaak van de beleidsnota's 
 6° de tegemoetkomingen aan particulieren;<br>
 7° de erkenning en de financiering van sociale woonorganisaties en kredietmaatschappijen;<br>
 8° het toezicht op de sociale woonactoren;<br>
-9° de prestatiebeoordeling van de sociale huisvestingsmaatschappijen;<br>
+9° de prestatiebeoordeling van de woonmaatschappijen;<br>
 10° de ondersteuning van het lokale woon- en grond- en pandenbeleid.<br>
 <br>
 Binnen het kader dat de minister, bevoegd voor de huisvesting, vaststelt heeft het agentschap tot taak :<br>
@@ -44,13 +44,13 @@ a) de afbakening van woonvernieuwings- en woningbouwgebieden, vermeld in artikel
 b) de onteigeningsmachtigingen, vermeld in artikel 4.26 van de voormelde codex;<br>
 c) het sociaal beheer, vermeld in boek 5, deel 7, van de voormelde codex;<br>
 d) de lokale toewijzingsreglementen, vermeld in artikel 6.14 van de voormelde codex;<br>
-5° de werkzaamheden van de visitatiecommissies, <span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">vermeld in boek 4, deel 1, titel 3, hoofdstuk 1, van het Besluit Vlaamse Codex Wonen van 2021</span></span>, te plannen en te coördineren en de resultaten van de visitaties verder op te volgen;<br>
+5° de werkzaamheden van de visitatiecommissies, <span style="font-size:10.0pt">vermeld in boek 4, deel 1, titel 3, hoofdstuk 1, van het Besluit Vlaamse Codex Wonen van 2021</span>, te plannen en te coördineren en de resultaten van de visitaties verder op te volgen;<br>
 6° de gemeenten te begeleiden en te ondersteunen bij de uitwerking van hun lokaal woon- en grond- en pandenbeleid en bij het lokale woonoverleg;<br>
 7° subsidies aan gemeenten of aan intergemeentelijke samenwerkingsverbanden uit te betalen voor projecten intergemeentelijk woonbeleid en voor de opmaak en de actualisering van de gemeentelijke leegstandsregisters;<br>
 8° adviezen te verlenen over bijzondere plannen van aanleg, ruimtelijke uitvoeringsplannen en de milieueffectrapportering overeenkomstig de regelgeving ter zake;<br>
 9° de kwaliteit van woningen en kamers en van de woonomgeving te waarborgen door de uitvoering van de in de regelgeving ter zake voorgeschreven verrichtingen inzake :<br>
 a) de vaststelling en de inventarisatie van de verwaarlozing van gebouwen en van de ongeschiktheid, onbewoonbaarheid of overbewoning van woningen en kamers;<br>
-b) de controle op de geschiktheid van woningen die voor onderverhuring aan sociale verhuurkantoren aangeboden worden;<br>
+b) de controle op de geschiktheid van woningen die voor onderverhuring aan&nbsp;woonmaatschappijen aangeboden worden;<br>
 c) de afgifte en de intrekking van conformiteitsattesten voor woningen en kamers;<br>
 d) de voorbereiding van de beslissingen van de Vlaamse Regering inzake beroepen en aanvullende kamerreglementen;<br>
 10° de gereglementeerde subsidies en tegemoetkomingen of andere voordelen te verstrekken aan particulieren die voldoen aan de voorwaarden;<br>
