@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036937,
+  "title": "Ministerieel besluit van 2022-04-01 tot goedkeuring van het certificatiereglement voor certificatie-instellingen asbest",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036937/VolledigDocument?datum=2022-04-27",
+  "source_sha256": "791cf6a702f4db3028a83a26756f45adf474dbac205c655fecfb326b39e030a1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036937&param=informatie",
+  "as_of": "2022-04-27",
+  "made": "2022-04-01",
+  "gazette": "2022-04-22",
+  "numac": 2022040757,
+  "document_start": "2022-04-27",
+  "document_end": null,
+  "in_force": "2022-04-27",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-04-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
