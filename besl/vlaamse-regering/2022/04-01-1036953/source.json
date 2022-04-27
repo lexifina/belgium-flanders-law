@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036953,
+  "title": "Besluit van de Vlaamse Regering van 2022-04-01 over isolatie, quarantaine en testen bij COVID-19",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036953/VolledigDocument?datum=2022-04-27",
+  "source_sha256": "e1f879ae1ed4f5fe5b5d9e244c9ad2e391cf372908ff180290626bc3925d2a60",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036953&param=informatie",
+  "as_of": "2022-04-27",
+  "made": "2022-04-01",
+  "gazette": "2022-04-27",
+  "numac": 2022020739,
+  "document_start": "2022-04-27",
+  "document_end": "2023-04-25",
+  "in_force": "2022-04-27",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2022-04-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
