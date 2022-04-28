@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036954,
+  "title": "Besluit van de Vlaamse Regering van 2022-04-01 tot wijziging van de VLAREME van 28 oktober 2016, wat betreft de stopzetting van de bedrijfsontwikkeling na bewezen mestverwerking",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036954/VolledigDocument?datum=2022-04-28",
+  "source_sha256": "8d8a424f29ef39429010692e41b217ec2c51c4907475422a2422129d9cfd172d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036954&param=informatie",
+  "as_of": "2022-04-28",
+  "made": "2022-04-01",
+  "gazette": "2022-04-27",
+  "numac": 2022020743,
+  "document_start": "2022-04-28",
+  "document_end": null,
+  "in_force": "2022-04-28",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2022-04-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
