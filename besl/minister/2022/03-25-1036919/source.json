@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036919,
+  "title": "Ministerieel besluit van 2022-03-25 tot bepaling van de nadere regels voor het doorgeven van gegevens over verhandelingen van kunstmest, vermeld in artikel 2.2.1.4, zevende lid, van de VLAREME van 28 oktober 2016",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036919/VolledigDocument?datum=2022-04-29",
+  "source_sha256": "6370927be999aec32acfd6509c43ca659925b1e611c85214205c6cb011b4e1be",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036919&param=informatie",
+  "as_of": "2022-04-29",
+  "made": "2022-03-25",
+  "gazette": "2022-04-19",
+  "numac": 2022031705,
+  "document_start": "2022-04-29",
+  "document_end": null,
+  "in_force": "2022-04-29",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2022-04-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
