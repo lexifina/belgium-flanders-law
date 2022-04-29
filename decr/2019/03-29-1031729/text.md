@@ -95,10 +95,16 @@ Het Vlaams Parlement en de eraan verbonden instellingen bezorgen aan de bevoegde
 
 ### ART 5.
 
-In afwijking van artikel 3, § 2, eerste en tweede lid, zijn alleen artikel 11, § 3, 12, 13, 14, 25, 26, 35, 36, 42, 43, 45, 48, 60 tot en met 65, 80, derde lid, en 110 van toepassing op:<br>
+In afwijking van artikel 3, § 2, eerste en tweede lid, zijn alleen artikel 11, § 3, 12, 13, 14, 25, 26, 35, 36, 42, 43, 45, 48, 55 tot en met 67, 80, derde lid, en 110 van deze codex van toepassing op:<br>
 1° de hogeronderwijsinstellingen;<br>
 2° het centrale niveau van het Gemeenschapsonderwijs, vermeld in artikel 5, § 1, 3°, van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs;<br>
-3° de andere hoger onderwijs- en onderwijsinstellingen die ressorteren onder sectorale code 13.12 van de ESR-verordening.
+3° de andere hoger onderwijs- en onderwijsinstellingen die ressorteren onder sectorale code 13.12 van de ESR-verordening.<br>
+<br>
+De entiteiten, vermeld in het eerste lid, zijn slechts onderworpen aan de bepalingen, vermeld in het eerste lid, als het totale bedrag van hun ESR- ontvangsten exclusief interne verrichtingen, of het totale bedrag van hun ESR-uitgaven exclusief interne verrichtingen meer bedraagt dan zeven miljoen euro. Als zowel de ESR-ontvangsten exclusief interne verrichtingen, als de ESR-uitgaven exclusief interne verrichtingen, zeven miljoen euro of minder bedragen, zijn uitsluitend artikel 42, § 1, tweede lid, 1°, 2° en 4°, artikel 43, artikel 60 tot en met 65, hoofdstuk 8, artikel 80, derde lid, en artikel 110 van toepassing.<br>
+<br>
+De drempel, vermeld in het tweede lid, wordt voor het eerst beoordeeld in 2022 of op het ogenblik dat een entiteit deel begint uit te maken van een van de entiteiten, vermeld in het eerste lid.<br>
+<br>
+Na de eerste beoordeling in 2022, wordt om de drie jaar opnieuw beoordeeld of een entiteit als vermeld in het eerste lid, de drempel, vermeld in het tweede lid, overschrijdt. De Vlaamse Regering kan die beoordeling voor het verstrijken van die termijn van drie jaar doen als er wijzigingen zijn die een grote impact kunnen hebben op de begroting van de Vlaamse deelstaatoverheid.
 
 ### ART 6.
 
