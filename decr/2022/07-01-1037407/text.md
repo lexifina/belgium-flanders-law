@@ -1,5 +1,15 @@
 # Decreet van 2022-07-01 tot wijziging van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019
 
+### ART 5.
+
+In artikel 5 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede ", 60 tot en met 65" wordt vervangen door de zinsnede ", 55 tot en met 67";<br>
+2° tussen de zinsnede "en 110" en de woorden "van toepassing" worden de woorden "van deze codex" ingevoegd;<br>
+3° er worden een tweede, een derde en een vierde lid toegevoegd, die luiden als volgt:<br>
+"De entiteiten, vermeld in het eerste lid, zijn slechts onderworpen aan de bepalingen, vermeld in het eerste lid, als het totale bedrag van hun ESR- ontvangsten exclusief interne verrichtingen, of het totale bedrag van hun ESR-uitgaven exclusief interne verrichtingen meer bedraagt dan zeven miljoen euro. Als zowel de ESR-ontvangsten exclusief interne verrichtingen, als de ESR-uitgaven exclusief interne verrichtingen, zeven miljoen euro of minder bedragen, zijn uitsluitend artikel 42, § 1, tweede lid, 1°, 2° en 4°, artikel 43, artikel 60 tot en met 65, hoofdstuk 8, artikel 80, derde lid, en artikel 110 van toepassing.<br>
+De drempel, vermeld in het tweede lid, wordt voor het eerst beoordeeld in 2022 of op het ogenblik dat een entiteit deel begint uit te maken van een van de entiteiten, vermeld in het eerste lid.<br>
+Na de eerste beoordeling in 2022, wordt om de drie jaar opnieuw beoordeeld of een entiteit als vermeld in het eerste lid, de drempel, vermeld in het tweede lid, overschrijdt. De Vlaamse Regering kan die beoordeling voor het verstrijken van die termijn van drie jaar doen als er wijzigingen zijn die een grote impact kunnen hebben op de begroting van de Vlaamse deelstaatoverheid.".
+
 ### ART 24.
 
 In artikel 62 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
