@@ -2,16 +2,16 @@
   "codex_id": 1019375,
   "title": "Besluit van de Vlaamse Regering van 2010-07-16 tot bepaling van [stedenbouwkundige] handelingen waarvoor geen [omgevingsvergunning] nodig is",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019375/VolledigDocument?datum=2021-07-08",
-  "source_sha256": "4ee37768fed455adecf866714bc0765aeeff23ae3cea1709458493ebb7bcdbd7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019375/VolledigDocument?datum=2022-05-01",
+  "source_sha256": "a723f4e24dd71e2457b8f378f3de78f9452a96ce52fa7f9a33bf1e62d7dc561b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019375&param=informatie",
-  "as_of": "2021-07-08",
+  "as_of": "2022-05-01",
   "made": "2010-07-16",
   "gazette": "2010-09-10",
   "numac": 2010035645,
   "document_start": "2010-12-01",
   "document_end": null,
-  "in_force": "2021-07-08",
+  "in_force": "2022-05-01",
   "article_versions": 58,
-  "record_form": "consolidated version as in force on 2021-07-08; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-05-01; future article versions excluded; article text as the API gives it"
 }
