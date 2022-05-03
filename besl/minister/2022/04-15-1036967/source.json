@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036967,
+  "title": "Ministerieel besluit van 2022-04-15 tot wijziging van het ministerieel besluit van 24 mei 2019 betreffende de aanwijzing van personeelsleden belast met de opsporing en de vaststelling van de overtredingen van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, van de uitvoeringsbesluiten ervan en van de Europese verordeningen, beschikkingen en besluiten ter zake",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036967/VolledigDocument?datum=2022-05-03",
+  "source_sha256": "6fc5c9a0e3e96a98228e9a6102174bff885697f893e9762d4138565e115e999b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036967&param=informatie",
+  "as_of": "2022-05-03",
+  "made": "2022-04-15",
+  "gazette": "2022-04-29",
+  "numac": 2022020741,
+  "document_start": "2022-05-03",
+  "document_end": null,
+  "in_force": "2022-05-03",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-05-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
