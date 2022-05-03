@@ -57,7 +57,8 @@ De volgende statutaire en contractuele personeelsleden van de subentiteit bevoeg
 35° Karla De Coster;<br>
 36° Nele De Waele;<br>
 37° Dorine Dooms;<br>
-38° Ingrid Laenen.
+38° Ingrid Laenen;<br>
+40° Romina Paret.
 
 ### ART 2.
 
