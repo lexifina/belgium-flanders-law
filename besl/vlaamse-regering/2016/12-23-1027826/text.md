@@ -44,11 +44,11 @@ Opdat een ingediend verzoek tot onderhandelingen over een brownfieldconvenant in
 3° het ter beschikking gestelde standaardaanvraagformulier is volledig en correct ingevuld;<br>
 4° bij het standaardaanvraagformulier is een financieel plan gevoegd waarin de financiële haalbaarheid van het project wordt aangetoond;<br>
 5° bij het standaardaanvraagformulier is een lijst gevoegd van de al uitgevoerde projecten, gekoppeld aan de samenstelling en expertise van de betrokken projectteams;<br>
-6° bij het standaardaanvraagformulier is een document gevoegd waarin de kredietwaardigheid van de projectindiener of -indieners wordt aangetoond;<br>
+6° door de indiening gaat de projectindiener akkoord met een onderzoek naar zijn kredietwaardigheid. Op verzoek van het permanent secretariaat moet daarvoor de nodige informatie worden aangeleverd;<br>
 7° bij het standaardaanvraagformulier voor brownfieldprojecten waarbij de projectgronden of delen ervan zijn verontreinigd of potentieel zijn verontreinigd, zijn de al beschikbare stukken gevoegd over de verontreiniging of potentiële verontreiniging. Het is voldoende om alleen de conclusies bij het formulier te voegen;<br>
 8° bij het standaardaanvraagformulier is een presentatie gevoegd waarin de inhoud van het brownfieldproject beknopt wordt weergegeven;<br>
-9° het standaardaanvraagformulier wordt minstens ondertekend door alle vermelde actoren die gezamenlijk beschikken over het eigendomsrecht of de overige zakelijke rechten die vereist zijn om toestemming te verlenen voor de handelingen en activiteiten in het kader van het brownfieldproject op meer dan 70% van de oppervlakte van de projectgronden;<br>
-10° voor alle percelen in het hele projectgebied moet een recent kadastraal plan en een recente kadastrale legger toegevoegd worden. Met recent wordt bedoeld dat het kadastraal plan en de kadastrale legger minder dan twee maanden oud zijn op het ogenblik dat het project wordt ingediend. Mogelijke bekende afwijkingen ten opzichte van die recente documenten moeten al worden aangegeven met de eigendomstitels<br>
+9° van alle vermelde actoren die gezamenlijk beschikken over het eigendomsrecht of de overige zakelijke rechten die vereist zijn om toestemming te verlenen voor de handelingen en activiteiten in het kader van het brownfieldproject op meer dan 70% van de oppervlakte van de projectgronden, wordt een (mede)ondertekening als actor of een volmacht om de aanvraag in te dienen, bij de aanvraagdocumenten gevoegd;<br>
+10° voor alle percelen in het hele projectgebied kan de eigendomssituatie geverifieerd worden. Als het permanent secretariaat, vermeld in artikel 12 van dit besluit, die informatie niet zelf kan raadplegen, kan gevraagd worden om een recent kadastraal plan en een recente kadastrale legger bij de aanvraag te voegen. Met recent wordt bedoeld dat het kadastrale plan en de kadastrale legger minder dan twee maanden oud zijn op het ogenblik dat het verzoek tot onderhandelingen wordt ingediend. Mogelijke bekende afwijkingen ten opzichte van die recente documenten worden al aangegeven met de eigendomstitels;<br>
 11° bij het standaardaanvraagformulier moet het schriftelijk bewijs gevoegd worden dat de gemeente - waarin de onroerende goederen gelegen zijn - kennis heeft genomen van de inhoud van de aanvraag en verklaart dat ze mee wil werken aan de totstandkoming van het brownfieldproject.<br>
 &nbsp;
 
@@ -64,7 +64,7 @@ Opdat een ingediend verzoek tot onderhandelingen over een brownfieldconvenant in
 
 ### ART 4.
 
-De Vlaamse minister, bevoegd voor Economie heeft de bevoegdheid om bij de beoordeling van aanvraagdossiers over het verzoek tot onderhandelingen over een brownfieldconvenant:<br>
+De Vlaamse minister, bevoegd voor Economie heeft de bevoegdheid om bij de beoordeling&nbsp;en de opvolging van dossiers&nbsp;over een brownfieldconvenant:<br>
 1° een beslissing over de ontvankelijkheid van een aanvraagdossier als vermeld in het decreet van 30 maart 2007, te nemen;<br>
 2° de remediëringstermijn bij onontvankelijkheid te bepalen;<br>
 3° de bezwaren tegen de voorlopige afbakening van de projectgebieden als vermeld in het voormelde decreet, te behandelen en te beoordelen;<br>
@@ -110,12 +110,14 @@ Er wordt een Brownfieldcel opgericht die belast wordt met de volgende opdrachten
 De Brownfieldcel bestaat minstens uit:<br>
 1° een vertegenwoordiger van de Vlaamse minister, bevoegd voor Economie;<br>
 2° een vertegenwoordiger van de Vlaamse minister bevoegd voor Omgeving;<br>
-3° de leidend ambtenaar van het Agentschap voor Innoveren en Ondernemen van het beleidsdomein Economie, Wetenschap en Innovatie;<br>
-4° de leidend ambtenaar van het Departement Omgeving van het beleidsdomein Omgeving<br>
-5° de leidend ambtenaar de Openbare Vlaamse Afvalstoffenmaatschappij van het beleidsdomein Omgeving;<br>
-6° de leidend ambtenaar het Departement Mobiliteit en Openbare Werken van het beleidsdomein Mobiliteit en Openbare Werken.<br>
+3° de leidend ambtenaar, of een afdelingshoofd die de leidend ambtenaar aanwijst,&nbsp;van het Agentschap voor Innoveren en Ondernemen van het beleidsdomein Economie, Wetenschap en Innovatie;<br>
+4° de leidend ambtenaar, of een afdelingshoofd die de leidend ambtenaar aanwijst,&nbsp;van het Departement Omgeving van het beleidsdomein Omgeving<br>
+5° de leidend ambtenaar, of een afdelingshoofd die de leidend ambtenaar aanwijst, van de Openbare Vlaamse Afvalstoffenmaatschappij van het beleidsdomein Omgeving;<br>
+6° de leidend ambtenaar, of een afdelingshoofd die de leidend ambtenaar aanwijst, van het Departement Mobiliteit en Openbare Werken van het beleidsdomein Mobiliteit en Openbare Werken.<br>
 <br>
 Op vraag van de brownfieldcel kan de Vlaamse minister, bevoegd voor Economie de Brownfieldcel uitbreiden met experten.<br>
+<br>
+Het huishoudelijk reglement van de Brownfieldcel kan voorzien in een ad-hocvertegenwoordiging bij volmacht.<br>
 &nbsp;
 
 ### ART 9.
