@@ -48,3 +48,13 @@ c) als het om een jeugdverblijfcentrum gaat, per jaar ten minste tien jeugdveren
 ### ART 2.
 
 In artikel 6 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 5 maart 2021, wordt de datum "31 december 2021" telkens vervangen door de datum "31 december 2022".
+
+### ART 3.
+
+Artikel 1 heeft uitwerking met ingang van de datum van ondertekening van dit besluit.<br>
+<br>
+Artikel 2 heeft uitwerking met ingang van 1 januari 2022.
+
+### ART 4.
+
+De Vlaamse minister, bevoegd voor de jeugd, is belast met de uitvoering van dit besluit.
