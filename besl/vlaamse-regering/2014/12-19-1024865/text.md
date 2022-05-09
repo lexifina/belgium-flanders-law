@@ -10,7 +10,7 @@ In   dit besluit wordt verstaan onder:<BR   style="TEXT-TRANSFORM: none; TEXT-IN
 
 ### ART. 2.
 
-De Vlaamse minister, bevoegd voor de financiën en de   begrotingen, wordt gemachtigd om de Vlaamse commissarissen, vermeld in artikel   2, 2° van het decreet van 19 december 2014, aan te wijzen.
+Het hoofd van de Vlaamse Belastingdienst wordt gemachtigd om de Vlaamse commissarissen, vermeld in artikel 2, 2° van het decreet van 19 december 2014, aan te wijzen.
 
 ### ART. 3.
 
