@@ -18,12 +18,12 @@ Besluit :
 
 ### ART 1.
 
-Het huishoudelijk reglement van de raad van bestuur van het Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid, opgenomen in de bijlage bij dit besluit, wordt goedgekeurd.
+...
 
 ### ART 2.
 
-De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uitvoering van dit besluit.
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/05/07_1.pdf#page=76">Huishoudelijk reglement van de raad van bestuur van het Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid</a>
+...

@@ -2,16 +2,16 @@
   "codex_id": 1031643,
   "title": "Besluit van de Vlaamse Regering van 2019-03-29 houdende de goedkeuring van het huishoudelijk reglement van de raad van bestuur van het Vlaams Agentschap voor Uitbetaling van Toelagen in het kader van het Gezinsbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031643/VolledigDocument?datum=2019-05-17",
-  "source_sha256": "519cdd77cc8a796826e4a9e9e055461961bad7e918dd4daaa6bddf7fb3ae7178",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031643/VolledigDocument?datum=2022-05-09",
+  "source_sha256": "e667384a1ff2a976d022fe806a679804f81cb6b9e808979bda53cd23b0414d00",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031643&param=informatie",
-  "as_of": "2019-05-17",
+  "as_of": "2022-05-09",
   "made": "2019-03-29",
   "gazette": "2019-05-07",
   "numac": 2019012107,
   "document_start": "2019-05-17",
   "document_end": "2022-05-08",
-  "in_force": "2019-05-17",
+  "in_force": "2022-05-09",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2019-05-17; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-05-09; future article versions excluded; article text as the API gives it"
 }
