@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036960,
+  "title": "Besluit van de Vlaamse Regering van 2022-02-25 tot wijziging van artikel 2 van het besluit van de Vlaamse Regering van 19 december 2014 houdende de uitvoering van het decreet van 19 december 2014 houdende de Vlaamse vastgoedcodex",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036960/VolledigDocument?datum=2022-05-09",
+  "source_sha256": "56f097710476d9eafdfd4399f7d87c227f8a50f756b8bcb2dbaec6af3127bfe4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036960&param=informatie",
+  "as_of": "2022-05-09",
+  "made": "2022-02-25",
+  "gazette": "2022-04-29",
+  "numac": 2022031290,
+  "document_start": "2022-05-09",
+  "document_end": null,
+  "in_force": "2022-05-09",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-05-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
