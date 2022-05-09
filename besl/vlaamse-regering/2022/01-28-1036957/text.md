@@ -128,3 +128,17 @@ In artikel 26 van het besluit van de Vlaamse Regering van 8 mei 2020 tot uitvoer
 "Per kwartaal en uiterlijk op het einde van de eerste maand van het kwartaal in kwestie keert Opgroeien regie aan het afstammingscentrum een voorschot uit. Het bedrag van dat voorschot bedraagt een vierde van 90% van de jaarsubsidie. Het saldo van 10% van de jaarsubsidie wordt uitbetaald in de loop van het daaropvolgende jaar.".
 
 ## HOOFDSTUK 8. Slotbepalingen
+
+### ART 11.
+
+Artikel 1, 2, 1°, artikel 3, 1°, artikel 4, 1°, artikel 5, 1°, artikel 6, 1°, 3°, 5°, 7°, 9°, 11°, 13°, 15°, 17°, en artikel 10, 1° en 3°, hebben uitwerking met ingang van 1 januari 2021.<br>
+<br>
+Artikel 8 en 9 hebben uitwerking met ingang van 1 maart 2021.<br>
+<br>
+Artikel 2, 2°, artikel 3, 2°, artikel 4, 2°, artikel 5, 2°, artikel 6, 2°, 4°, 6°, 8°, 10°, 12°, 14° en 16°, artikel 7, en artikel 10, 2°, treden in werking op 1 januari 2022.<br>
+<br>
+Artikel 2, 3°, treedt in werking op 1 januari 2023.
+
+### ART 12.
+
+De Vlaamse minister, bevoegd voor opgroeien, is belast met de uitvoering van dit besluit.
