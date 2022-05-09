@@ -1823,7 +1823,7 @@ Vóór een sociale huisvestingsmaatschappij een erkenningsaanvraag als woonmaats
 
 In afwijking van artikel 226 zijn artikel 4.4/1, 4.4/2, 4.4/3, 4.4/4, 4.4/5, 4.4/6 en 4.4/8 van het Besluit Vlaamse Codex Wonen van 2021 van toepassing op de sociale huisvestingsmaatschappijen en sociale verhuurkantoren, vermeld in artikel 226.<br>
 <br>
-In afwijking van artikel 226, § 1, eerste lid, van dit besluit zijn artikel 4.2, derde lid, artikel 4.15, § 1, vijfde lid, artikel 4.18, 4.23, 4.28, 4.29/1, 4.54, 4.55, eerste lid, artikel 4.56, § 3, tweede lid, artikel 4.62, tweede lid, artikel 4.66, 4.151, § 3, tweede lid, artikel 4.155/1 tot en met 4.155/4, artikel 5.40, § 2, tweede lid, artikel 5.41, § 2, tweede lid, artikel 5.42, § 1, derde lid, artikel 5.50, § 1 en § 4, artikel 5.220, § 4, tweede lid, artikel 5.225, 7.13, eerste lid, artikel 7.18, 7.29 en artikel 2 van bijlage 9 bij het Besluit Vlaamse Codex Wonen van 2021, van toepassing op de sociale huisvestingsmaatschappijen, vermeld in artikel 226 van dit besluit.
+In afwijking van artikel 226, § 1, eerste lid, van dit besluit zijn artikel 4.2, derde lid, artikel 4.15, § 1, vijfde lid, artikel 4.18, 4.23, 4.28, 4.29/1, 4.54, 4.55, eerste lid, artikel 4.56, § 3, tweede lid, artikel 4.62, tweede lid, artikel 4.66, 4.151, § 3, tweede lid, artikel 4.155/1 tot en met 4.155/4, artikel 5.40, § 2, tweede lid, artikel 5.41, § 2, tweede lid, artikel 5.42, § 1, derde lid, artikel 5.50, § 1 en § 4, 1°, 2° en 4°, artikel 5.220, § 4, tweede lid, artikel 5.225, 7.13, eerste lid, artikel 7.18, 7.29 en artikel 2 van bijlage 9 bij het Besluit Vlaamse Codex Wonen van 2021, van toepassing op de sociale huisvestingsmaatschappijen, vermeld in artikel 226 van dit besluit.
 
 ### ART 228.
 
@@ -1941,7 +1941,7 @@ Artikel 23, 3°, artikel 27, 2°, artikel 35, 1° en 3°, artikel 43, artikel 54
 <br>
 Artikel 250 en 251 hebben uitwerking met ingang vanaf 1 januari 2021.<br>
 <br>
-Artikel 4.160 van het Besluit Vlaamse Codex Wonen van 2021 en artikel 121 van dit besluit treden in werking op de datum waarop artikel 118 van het decreet van 9 juli 2021 houdende wijziging van diverse decreten met betrekking tot wonen in werking treedt.
+Artikel 4.160 van het Besluit Vlaamse Codex Wonen van 2021 treden in werking op de datum waarop artikel 118 van het decreet van 9 juli 2021 houdende wijziging van diverse decreten met betrekking tot wonen in werking treedt.
 
 ### ART 254.
 
