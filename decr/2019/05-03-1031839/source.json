@@ -2,16 +2,16 @@
   "codex_id": 1031839,
   "title": "Decreet van 2019-05-03 houdende de havenkapiteinsdienst",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031839/VolledigDocument?datum=2019-07-11",
-  "source_sha256": "b0090af5c115940af9df1066d7540cb7653bacbde0b59db0c00e2a4b8b9ed797",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031839/VolledigDocument?datum=2022-05-15",
+  "source_sha256": "593a411d2d3cea55a6ce1cb094946179a940e196287b72ef2e587312d4c7fda5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031839&param=informatie",
-  "as_of": "2019-07-11",
+  "as_of": "2022-05-15",
   "made": "2019-05-03",
   "gazette": "2019-07-01",
   "numac": 2019013365,
   "document_start": "2019-07-11",
   "document_end": null,
-  "in_force": "2019-07-11",
+  "in_force": "2022-05-15",
   "article_versions": 23,
-  "record_form": "consolidated version as in force on 2019-07-11; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-05-15; future article versions excluded; article text as the API gives it"
 }

@@ -10,7 +10,7 @@ In dit decreet wordt verstaan onder:<br>
 1° het decreet van 2 maart 1999: het decreet van 2 maart 1999 houdende het beleid en het beheer van de zeehavens;<br>
 2° havenbedrijf: een havenbedrijf als vermeld in artikel 2, 1°, van het decreet van 2 maart 1999;<br>
 3° havengebied: een havengebied als vermeld in artikel 2, 4°, van het decreet van 2 maart 1999;<br>
-4° havenpolitieverordening: een door het havenbedrijf uitgevaardigd reglement van bijzondere administratieve politie inzake de goederenbehandeling en opslag, het in- en ontschepen van passagiers, de toegankelijkheid en de verkeersafwikkeling in het havengebied, en de vrijwaring van het milieu en de veiligheid van het havengebied;<br>
+4° havenpolitieverordening: een door het havenbedrijf uitgevaardigd reglement van bijzondere administratieve politie inzake de goederenbehandeling en opslag, het in- en ontschepen van passagiers, de toegankelijkheid van en de verkeersafwikkeling in het havengebied, de vrijwaring van het milieu en de veiligheid van het havengebied en de regeling van de vrijheid van handel en nijverheid op het vlak van havengebonden dienstverlening;<br>
 5° gezagvoerder: elke persoon aan wie het bevel over het vervoermiddel is toevertrouwd of die het feitelijke bevel voert;<br>
 6° vervoermiddel: elk bemand of onbemand vaar- of voertuig over land, te water of in de lucht dat zich al dan niet op eigen krachten kan verplaatsen;<br>
 7° lading: de vracht die door middel van een vervoermiddel wordt verplaatst, met inbegrip van het eventuele toebehoren en de verpakking.
@@ -21,7 +21,12 @@ Dit decreet is van toepassing op de havenkapiteinsdienst die ressorteert onder e
 
 ### ART 4.
 
-De havenkapiteinsdienst is belast met het nemen van alle maatregelen ter vrijwaring van de openbare orde, de rust, de veiligheid van de exploitatie van de haven en het milieu in het havengebied. De havenkapiteinsdienst houdt toezicht op en handhaaft de havenpolitieverordeningen.<br>
+De havenkapiteinsdienst is belast met het nemen van alle maatregelen in uitvoering van de reglementen van bijzondere administratieve politie inzake onder meer:<br>
+1° de goederenbehandeling en -opslag;<br>
+2° het in- en ontschepen van passagiers;<br>
+3° de toegankelijkheid van en de verkeersafwikkeling in het havengebied;<br>
+4° de vrijwaring van het milieu en de veiligheid van het havengebied;<br>
+5° de regeling van de vrijheid van handel en nijverheid op het vlak van havengebonden dienstverlening.<br>
 <br>
 Het havenbedrijf legt de havenpolitieverordeningen ter goedkeuring voor aan de Vlaamse Regering. Het besluit van de Vlaamse Regering houdende goedkeuring of weigering van de havenpolitieverordeningen wordt genomen binnen negentig dagen na ontvangst van het verzoek tot goedkeuring. Als binnen die termijn geen beslissing is genomen, wordt de goedkeuring geacht te zijn verworven. Nadat de goedkeuring is verworven of wordt geacht te zijn verworven, laat het havenbedrijf de vaststelling van havenpolitieverordeningen in het Belgisch Staatsblad bekendmaken. De havenpolitieverordeningen treden in werking op de dag van de bekendmaking in het Belgisch Staatsblad.<br>
 <br>
