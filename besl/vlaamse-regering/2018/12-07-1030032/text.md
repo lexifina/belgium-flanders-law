@@ -270,7 +270,7 @@ Als door de herziening, vermeld in het eerste lid, een hoger bedrag kan worden t
 
 ### ART 21.
 
-Een arts kan een erkenning als evaluerende arts aanvragen bij het agentschap Opgroeien regie. Het agentschap Opgroeien regie beslist over de toekenning van een erkenning aan een arts om als evaluerende arts in het kader van dit besluit te mogen optreden.<br>
+Een arts kan een erkenning als evaluerend arts aanvragen bij het agentschap Opgroeien regie. Het agentschap Opgroeien regie beslist over de toekenning van een erkenning aan een arts om als evaluerend arts in het kader van dit besluit te mogen optreden.<br>
 <br>
 De erkenning is drie jaar geldig.
 
