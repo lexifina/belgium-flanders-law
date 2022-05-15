@@ -2449,10 +2449,10 @@ Met behoud van de toepassing van andere wettelijke en decretale bepalingen mogen
 
 ### ART 226.
 
-Onder voorbehoud van de toepassing van andere wettelijke of decretale bepalingen, bestaan er drie vormen van gemeentelijke extern verzelfstandigde agentschappen:<br>
+Onder voorbehoud van de toepassing van andere wettelijke of decretale bepalingen, bestaan er twee vormen van gemeentelijke extern verzelfstandigde agentschappen:<br>
 1° het autonoom gemeentebedrijf;<br>
 2° het gemeentelijke extern verzelfstandigd agentschap in privaatrechtelijke vorm;<br>
-3° het autonoom gemeentelijk havenbedrijf.
+3° ....
 
 ### ART 227.
 
@@ -2705,9 +2705,7 @@ Behalve in geval van gemotiveerde afwijking kan aan geen enkel personeelslid van
 
 ### ART 248.
 
-De autonome gemeentelijke havenbedrijven zijn de havenbedrijven, vermeld in het decreet van 2 maart 1999 houdende het beleid en het beheer van de zeehavens waarop de bepalingen inzake autonome gemeentelijke havenbedrijven van toepassing zijn.<br>
-<br>
-Met uitzondering van artikel 226 zijn de bepalingen van dit decreet niet van toepassing op de autonome gemeentelijke havenbedrijven.
+...
 
 ## TITEL 4. De beleids- en beheerscyclus van de gemeente en het openbaar centrum voor maatschappelijk welzijn
 
