@@ -145,21 +145,7 @@ Zij draagt de titel "Vlaams minister van Justitie en Handhaving, Omgeving, Energ
 
 ### ART 7.
 
-§ 1. De heer Wouter Beke is bevoegd voor het beleidsdomein Welzijn, Volksgezondheid en Gezin, vermeld in artikel 8 van het organisatiebesluit..<br>
-<br>
-Hij draagt de titel "Vlaams minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding".<br>
-<br>
-§ 2. De heer Wouter Beke is bevoegd voor het bestuur van of het toezicht op de volgende instanties:<br>
-1° het Vlaams Agentschap voor Samenwerking rond Gegevensdeling tussen de Actoren in de Zorg;<br>
-2° Zorg en gezondheid;<br>
-3° OPZ Geel en Rekem;<br>
-4° het agentschap Opgroeien;<br>
-5° het Fonds Jongerenwelzijn;<br>
-6° het agentschap Opgroeien Regie;<br>
-7° het Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid;<br>
-8° het Vlaams Agentschap voor Personen met een Handicap;<br>
-9° het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden;<br>
-10° het agentschap Vlaamse Sociale Bescherming.
+...
 
 ### ART 8.
 
