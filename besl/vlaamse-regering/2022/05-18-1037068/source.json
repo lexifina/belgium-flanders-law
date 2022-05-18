@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037068,
+  "title": "Besluit van de Vlaamse Regering van 2022-05-18 tot wijziging van het besluit van de Vlaamse Regering van 2 oktober 2019 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037068/VolledigDocument?datum=2022-05-18",
+  "source_sha256": "f327eceb7f2a8b244621deee14462624838e2e30395c4535f6e99a60674937dc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037068&param=informatie",
+  "as_of": "2022-05-18",
+  "made": "2022-05-18",
+  "gazette": "2022-05-24",
+  "numac": 2022020900,
+  "document_start": "2022-05-18",
+  "document_end": null,
+  "in_force": "2022-05-18",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2022-05-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
