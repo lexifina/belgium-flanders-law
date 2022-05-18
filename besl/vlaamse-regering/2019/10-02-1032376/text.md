@@ -54,30 +54,24 @@ Hij draagt de titel "Vlaams minister van Buitenlandse Zaken, Cultuur, Digitalise
 ### ART 3.
 
 § 1. Mevrouw Hilde Crevits, viceminister-president van de Vlaamse Regering, is bevoegd voor:<br>
-1° het beleidsdomein Economie, Wetenschap en Innovatie, vermeld in artikel 6 van het organisatiebesluit;<br>
-2° het beleidsdomein Werk en Sociale Economie, vermeld in artikel 10 van het organisatiebesluit;<br>
-3° het beleidsdomein Landbouw en Visserij, vermeld in artikel 11 van het organisatiebesluit.<br>
+1° het beleidsdomein Welzijn, Volksgezondheid en Gezin, vermeld in artikel 8 van het organisatiebesluit, met uitzondering van het armoedebeleid;<br>
+2° de zeevisserij, vermeld in artikel 11 van het organisatiebesluit.<br>
 <br>
-Zij draagt de titel "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw".<br>
+Zij draagt de titel "Vlaams minister van Welzijn, Volksgezondheid en Gezin".<br>
 <br>
 § 2. Mevrouw Hilde Crevits is bevoegd voor het bestuur van of het toezicht op de volgende instanties:<br>
-1° het agentschap Innoveren en ondernemen;<br>
-2° de Limburgse Reconversiemaatschappij;<br>
-3° de Participatiemaatschappij Vlaanderen;<br>
-4° de Vlaamse Participatiemaatschappij;<br>
-5° de Vlaamse Milieuholding;<br>
-6° het Fonds voor Innoveren en Ondernemen;<br>
-7° het Fonds Wetenschappelijk onderzoek - Vlaanderen;<br>
-8° het agentschap Plantentuin Meise;<br>
-9° de Vlaamse Instelling voor Technologisch Onderzoek;<br>
-10° de Vlaamse dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
-11° het ESF-agentschap;<br>
-12° het Vlaams Agentschap voor Ondernemingsvorming - Syntra Vlaanderen;<br>
-13° het Vlaams Landbouwinvesteringsfonds;<br>
-14° het Financieringsinstrument voor de Vlaamse Visserij en Aquacultuursector;<br>
-15° het Instituut voor Landbouw- en Visserijonderzoek;<br>
-16° het Eigen Vermogen Instituut voor Landbouw- en Visserijonderzoek;<br>
-17° het Vlaams Centrum voor Agro- en Visserijmarketing.
+1° het Vlaams Agentschap voor Samenwerking rond Gegevensdeling tussen de Actoren in de Zorg;<br>
+2° Zorg en gezondheid;<br>
+3° OPZ Geel en Rekem;<br>
+4° het agentschap Opgroeien;<br>
+5° het Fonds Jongerenwelzijn;<br>
+6° het agentschap Opgroeien Regie;<br>
+7° het Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid;<br>
+8° het Vlaams Agentschap voor Personen met een Handicap;<br>
+9° het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden;<br>
+10° het agentschap Vlaamse Sociale Bescherming;<br>
+11° het Financieringsinstrument voor de Vlaamse Visserij en Aquacultuursector;<br>
+12° het Instituut voor Landbouw- en Visserijonderzoek, met dien verstande dat deze bevoegdheid gedeeld wordt met de Vlaamse minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw.
 
 ### ART 4.
 
@@ -188,11 +182,12 @@ Zij draagt de titel "Vlaams minister van Mobiliteit en Openbare Werken".<br>
 § 1. De heer Benjamin Dalle is bevoegd voor:<br>
 1° het beleidsveld Brussel, vermeld in artikel 3 van het organisatiebesluit;<br>
 2° het beleidsveld Jeugd, vermeld in artikel 9 van het organisatiebesluit;<br>
-3° het beleidsveld Media, vermeld in artikel 9 van het organisatiebesluit.<br>
+3° het beleidsveld Media, vermeld in artikel 9 van het organisatiebesluit;<br>
+4° het armoedebeleid, vermeld in artikel 8 van het organisatiebesluit.<br>
 <br>
 Hij wordt aangewezen om als Brussels lid van de Vlaamse Regering de vergaderingen van het College van de Vlaamse Gemeenschapscommissie en van het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie met raadgevende stem bij te wonen, zoals bepaald in artikel 76 van de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse instellingen.<br>
 <br>
-Hij draagt de titel "Vlaams minister van Brussel, Jeugd en Media".<br>
+Hij draagt de titel "Vlaams minister van Brussel, Jeugd, Media en Armoedebestrijding.<br>
 <br>
 § 2. De heer Benjamin Dalle is bevoegd voor het bestuur van of het toezicht op de volgende instanties:<br>
 1° het agentschap Binnenlands Bestuur, met dien verstande dat deze bevoegdheid wordt gedeeld met de Vlaamse minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen en de Vlaamse minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand;<br>
@@ -201,9 +196,36 @@ Hij draagt de titel "Vlaams minister van Brussel, Jeugd en Media".<br>
 4° de Vlaamse Regulator voor de Media;<br>
 5° de Vlaamse Radio en Televisie.
 
+### ART 10/1.
+
+§ 1. De heer Jo Brouns is bevoegd voor:<br>
+1° het beleidsdomein Economie, Wetenschap en Innovatie, vermeld in artikel 6 van het organisatiebesluit;<br>
+2° het beleidsdomein Werk en Sociale Economie, vermeld in artikel 10 van het organisatiebesluit;<br>
+3° het beleidsdomein Landbouw en Visserij, vermeld in artikel 11 van het organisatiebesluit, met uitzondering van de zeevisserij.<br>
+<br>
+Hij draagt de titel "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw".<br>
+<br>
+§ 2. De heer Jo Brouns is bevoegd voor het bestuur van of het toezicht op de volgende instanties:<br>
+1° het agentschap Innoveren en ondernemen;<br>
+2° de Limburgse Reconversiemaatschappij;<br>
+3° de Participatiemaatschappij Vlaanderen;<br>
+4° de Vlaamse Participatiemaatschappij;<br>
+5° de Vlaamse Milieuholding;<br>
+6° het Fonds voor Innoveren en Ondernemen;<br>
+7° het Fonds Wetenschappelijk onderzoek - Vlaanderen;<br>
+8° het agentschap Plantentuin Meise;<br>
+9° de Vlaamse Instelling voor Technologisch Onderzoek;<br>
+10° de Vlaamse dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
+11° het ESF-agentschap;<br>
+12° het Vlaams Agentschap voor Ondernemingsvorming - Syntra Vlaanderen;<br>
+13° het Vlaams Landbouwinvesteringsfonds;<br>
+14° het Instituut voor Landbouw- en Visserijonderzoek, met dien verstande dat deze bevoegdheid gedeeld wordt met de Vlaamse minister van Welzijn, Volksgezondheid en Gezin;<br>
+15° het Eigen Vermogen Instituut voor Landbouw- en Visserijonderzoek;<br>
+16° het Vlaams Centrum voor Agro- en Visserijmarketing.
+
 ### ART 11.
 
-De aangelegenheden die bij artikel 2 tot en met 10 zijn toegewezen aan de leden van de Vlaamse Regering, omvatten ook de middelen en instrumenten waarmee die aangelegenheden effectief gerealiseerd kunnen worden, onder meer wat betreft:<br>
+De aangelegenheden die bij artikel 2 tot en met 10/1 zijn toegewezen aan de leden van de Vlaamse Regering, omvatten ook de middelen en instrumenten waarmee die aangelegenheden effectief gerealiseerd kunnen worden, onder meer wat betreft:<br>
 1° de relaties en de samenwerking met derden, met de federale overheid en met de andere gemeenschappen en gewesten;<br>
 2° internationale en Europese initiatieven;<br>
 3° de wetenschappelijke onderzoeksprojecten en wetenschappelijke studies;<br>
