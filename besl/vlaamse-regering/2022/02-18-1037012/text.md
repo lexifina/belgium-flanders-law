@@ -31,4 +31,20 @@ In artikel X 98, § 1, eerste lid, van het Vlaams personeelsstatuut van 13 janua
 
 ## HOOFDSTUK 2. Wijzigingen van het besluit van de Vlaamse Regering 17 december 2021 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de invoering van een tijdelijk verlof bij sluiting van de school, de opvang of het centrum voor opvang voor personen met een handicap als gevolg van een maatregel om de verspreiding van het coronavirus SARS-CoV-2 te beperken
 
+### ART 2.
+
+Artikel 2 van het besluit van de Vlaamse Regering 17 december 2021 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de invoering van een tijdelijk verlof bij sluiting van de school, de opvang of het centrum voor opvang voor personen met een handicap als gevolg van een maatregel om de verspreiding van het coronavirus SARS-CoV-2 te beperken wordt ingetrokken.
+
+### ART 3.
+
+In artikel 3 van hetzelfde besluit wordt het tweede lid ingetrokken.
+
 ## HOOFDSTUK 3. Slotbepalingen
+
+### ART 4.
+
+Artikel 1 heeft uitwerking met ingang van 1 januari 2022.
+
+### ART 5.
+
+De Vlaamse minister, bevoegd voor de human resources, is belast met de uitvoering van dit besluit.
