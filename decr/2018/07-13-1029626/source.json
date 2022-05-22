@@ -2,16 +2,16 @@
   "codex_id": 1029626,
   "title": "Decreet van 2018-07-13 tot wijziging van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren in het kader van de zesde staatshervorming",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029626/VolledigDocument?datum=2018-08-20",
-  "source_sha256": "88ea54a841d86d776a0d4c28725e94740049ea1a74d2df6a2a1a617a05a3f5b1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029626/VolledigDocument?datum=2022-05-22",
+  "source_sha256": "796caa7a0b36c8dfde840239fefb7af1e5f28a954f56ce6233a33dfe38ad3afc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029626&param=informatie",
-  "as_of": "2018-08-20",
+  "as_of": "2022-05-22",
   "made": "2018-07-13",
   "gazette": "2018-08-10",
   "numac": 2018031629,
   "document_start": "2018-08-20",
   "document_end": null,
-  "in_force": "2018-08-20",
+  "in_force": "2022-05-22",
   "article_versions": 42,
-  "record_form": "consolidated version as in force on 2018-08-20; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-05-22; future article versions excluded; article text as the API gives it"
 }

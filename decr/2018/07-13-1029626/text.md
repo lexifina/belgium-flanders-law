@@ -32,8 +32,7 @@ In artikel 3bis van dezelfde wet, ingevoegd bij de wet van 4 mei 1995 en het laa
 
 In artikel 4 van dezelfde wet, gewijzigd bij de wet van 27 december 2012, worden de volgende wijzigingen aangebracht:<br>
 <br>
-1° er wordt een paragraaf 2/2 ingevoegd, die luidt als volgt:<br>
-" § 2/2. Het gebruik bij honden van halsbanden die elektrische schokken kunnen toedienen, is verboden. De Vlaamse Regering kan nadere regels bepalen om afwijkingen van dit verbod toe te staan voor het gebruik bij opleiding of gedragstherapie voor honden.";<br>
+1° ...;<br>
 <br>
 2° in paragraaf 4 wordt tussen de zinsnede " § § 2" en de zinsnede "en 3," de zinsnede ", 2/1, 2/2" ingevoegd;<br>
 <br>
@@ -381,4 +380,4 @@ In dezelfde wet, het laatst gewijzigd bij het decreet van 7 juli 2017, worden de
 
 ### ART 42.
 
-Artikel 4, 1°, van dit decreet treedt in werking op een door de Vlaamse Regering vast te stellen datum.
+...
