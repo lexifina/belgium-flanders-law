@@ -43,6 +43,12 @@ d) een persoon die het voorwerp uitmaakt van een overleg in het kader van een se
 
 ## HOOFDSTUK 2. Organisatie
 
+### ART 6.
+
+De justitiehuizen bestaan uit een centraal bestuur en gedecentraliseerde diensten. Minstens een van de gedecentraliseerde diensten verzekert de opvolging en de uitvoering van het elektronisch toezicht.<br>
+<br>
+De Vlaamse Regering bepaalt de organisatie van de gedecentraliseerde diensten van de justitiehuizen.
+
 ## HOOFDSTUK 3. Omgaan met persoonsgegevens en met informatie
 
 ## Afdeling 1. Omgaan met persoonsgegevens
@@ -88,7 +94,11 @@ De juridische eerstelijnsbijstand wil de toegang tot het recht op juridische bij
 <br>
 De Vlaamse Regering bepaalt de nadere regels voor de samenstelling van de commissie voor juridische eerstelijnsbijstand en de voorwaarden waaronder afwijkingen op die minimale samenstelling kunnen worden toegestaan.<br>
 <br>
-De commissies voor juridische eerstelijnsbijstand gebruiken de gepaste participatiemethodieken om hun aanbod aan juridische eerstelijnsbijstand op een zodanige wijze vorm te geven dat het beantwoordt aan de noden en behoeften van de meest kwetsbaren.
+De commissies voor juridische eerstelijnsbijstand gebruiken de gepaste participatiemethodieken om hun aanbod aan juridische eerstelijnsbijstand op een zodanige wijze vorm te geven dat het beantwoordt aan de noden en behoeften van de meest kwetsbaren.<br>
+<br>
+De kwetsbaarheid van de doelgroepen wordt bepaald aan de hand van criteria die rekening houden met de kenmerken van de personen of groepen, de levensen sociale omstandigheden van personen of groepen en van het hulpaanbod. Kwetsbare doelgroepen zijn groepen die conform die criteria als kwetsbaar worden beschouwd.<br>
+<br>
+De Vlaamse Regering kan de criteria voor het bepalen van de kwetsbaarheid van de doelgroepen nader bepalen.
 
 ### ART 28.
 
