@@ -24,17 +24,7 @@ In dit besluit wordt verstaan onder mondmasker: een masker zonder uitlaatventiel
 
 ### ART 2.
 
-§ 1. Iedere persoon van 12 jaar en ouder is verplicht om de mond en de neus te bedekken met een mondmasker in de binnenruimten van het openbaar vervoer. Onder openbaar vervoer wordt verstaan: de bus die wordt ingezet in het openbaar vervoer, de (pre)metro, de tram en de trein.<br>
-<br>
-In afwijking van het eerste lid is het rijdend personeel van de openbare vervoersmaatschappijen en van alle bussen die diensten uitvoeren in het kader van het openbaar vervoer niet verplicht om de mond en de neus te bedekken, als aan de volgende twee voorwaarden is voldaan:<br>
-1° de bestuurder bevindt zich in een afgeschermde bestuurderspost;<br>
-2° een affiche of zelfklever geeft aan de gebruikers de reden aan waarom de bestuurder geen mondmasker draagt.<br>
-<br>
-§ 2. Het mondmasker mag occasioneel worden afgezet om te eten en te drinken.<br>
-<br>
-§ 3. Wanneer het dragen van een mondmasker niet mogelijk is omwille van medische redenen, mag een gelaatsscherm worden gebruikt.<br>
-<br>
-De verplichtingen, vermeld in dit artikel, zijn niet van toepassing op personen die in de onmogelijkheid zijn een mondmasker of een gelaatsscherm te dragen omwille van een beperking, gestaafd door middel van een medisch attest.
+...
 
 ### ART 3.
 

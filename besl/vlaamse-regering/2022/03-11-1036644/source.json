@@ -2,16 +2,16 @@
   "codex_id": 1036644,
   "title": "Besluit van de Vlaamse Regering van 2022-03-11 over een mondmaskerplicht in het openbaar vervoer en in de zorginstellingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036644/VolledigDocument?datum=2022-03-12",
-  "source_sha256": "38553def8b63ba66bf538baf71bdf99c873e108235add931b9dc1601d1b8832e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036644/VolledigDocument?datum=2022-05-23",
+  "source_sha256": "39cf2ccbea189b5ef315f74c5bd15447d6b3e30af0da103e31728721790c8064",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036644&param=informatie",
-  "as_of": "2022-03-12",
+  "as_of": "2022-05-23",
   "made": "2022-03-11",
   "gazette": "2022-03-11",
   "numac": 2022020515,
   "document_start": "2022-03-12",
   "document_end": null,
-  "in_force": "2022-03-12",
+  "in_force": "2022-05-23",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2022-03-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-05-23; future article versions excluded; article text as the API gives it"
 }
