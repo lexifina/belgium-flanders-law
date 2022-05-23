@@ -85,7 +85,9 @@ Voor de gegevensuitwisseling, vermeld in het tweede lid, gebruiken de beleidsco�
 
 ### ART. 15.
 
-De personen die belast zijn met de coördinatie, de trajectbegeleiding of   de ondersteuning, en de actoren bezorgen aan de Vlaamse Regering anonieme en   globale gegevens over de hulp- en dienstverlening met het oog op de evaluatie en   de bijsturing van het hulp- en dienstverleningsaanbod.<BR>
+De personen die belast zijn met de coördinatie, de trajectbegeleiding of de ondersteuning, en de actoren bezorgen aan de Vlaamse Regering gepseudonimiseerde gegevens over de hulp- en dienstverlening met het oog op de evaluatie en de bijsturing van het hulp- en dienstverleningsaanbod.<br>
+<br>
+De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autoriteit voor de verwerking van persoonsgegevens, de voorwaarden en modaliteiten van de gegevensverwerking, vermeld in het eerste lid, nader.
 
 ### ART. 16.
 
