@@ -8,6 +8,13 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ## Hoofdstuk 2. Wijzigingen van het decreet van 8 maart 2013 betreffende de organisatie van hulp- en dienstverlening aan gedetineerden
 
+### ART 2.
+
+In artikel 15 van het decreet van 8 maart 2013 betreffende de organisatie van hulp- en dienstverlening aan gedetineerden worden de volgende wijzigingen aangebracht:<br>
+1° de woorden "anonieme en globale" worden vervangen door het woord "gepseudonimiseerde";<br>
+2° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autoriteit voor de verwerking van persoonsgegevens, de voorwaarden en modaliteiten van de gegevensverwerking, vermeld in het eerste lid, nader.".
+
 ## Hoofdstuk 3. Wijziging van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten
 
 ### ART 3.
@@ -56,6 +63,14 @@ In artikel 31, § 1, van het decreet van 21 december 2018 houdende bepalingen to
 
 In artikel 2, 16°, van het decreet van 26 april 2019 houdende de justitiehuizen en de juridische eerstelijnsbijstand worden de woorden "of de opdrachten van de justitiehuizen" opgeheven.
 
+### ART 12.
+
+Artikel 6 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+<br>
+"Art. 6. De justitiehuizen bestaan uit een centraal bestuur en gedecentraliseerde diensten. Minstens een van de gedecentraliseerde diensten verzekert de opvolging en de uitvoering van het elektronisch toezicht.<br>
+<br>
+De Vlaamse Regering bepaalt de organisatie van de gedecentraliseerde diensten van de justitiehuizen.".
+
 ### ART 13.
 
 In artikel 7, vierde lid, van hetzelfde decreet wordt de zinsnede "Departement Welzijn, Volksgezondheid en Gezin" vervangen door de zinsnede "Agentschap Justitie en Handhaving, opgericht bij het besluit van de Vlaamse Regering van 3 september 2021 tot oprichting van het intern verzelfstandigd agentschap "Agentschap Justitie en Handhaving",".
@@ -69,6 +84,14 @@ Artikel 21 van hetzelfde decreet wordt vervangen door wat volgt:<br>
 ### ART 15.
 
 In artikel 23 van hetzelfde decreet worden het tweede en derde lid opgeheven.
+
+### ART 16.
+
+Aan artikel 27, § 3, van hetzelfde decreet worden een vierde en vijfde lid toegevoegd, die luiden als volgt:<br>
+<br>
+"De kwetsbaarheid van de doelgroepen wordt bepaald aan de hand van criteria die rekening houden met de kenmerken van de personen of groepen, de levensen sociale omstandigheden van personen of groepen en van het hulpaanbod. Kwetsbare doelgroepen zijn groepen die conform die criteria als kwetsbaar worden beschouwd.<br>
+<br>
+De Vlaamse Regering kan de criteria voor het bepalen van de kwetsbaarheid van de doelgroepen nader bepalen.".
 
 ## Hoofdstuk 8. Slotbepalingen
 
