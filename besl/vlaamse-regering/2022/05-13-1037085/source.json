@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037085,
+  "title": "Besluit van de Vlaamse Regering van 2022-05-13 betreffende het corona globalisatiemechanisme voor ondernemingen met een grote omzetdaling in 2021 ten gevolge van de coronavirusmaatregelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037085/VolledigDocument?datum=2022-05-25",
+  "source_sha256": "29c05b366e4259ba8342b6db133a7f9bb824319fde970989d95ebabb45b56dcd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037085&param=informatie",
+  "as_of": "2022-05-25",
+  "made": "2022-05-13",
+  "gazette": "2022-05-25",
+  "numac": 2022020913,
+  "document_start": "2022-05-25",
+  "document_end": null,
+  "in_force": "2022-05-25",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2022-05-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
