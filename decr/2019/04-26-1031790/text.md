@@ -2,6 +2,10 @@
 
 ## TITEL 1. Algemene bepalingen
 
+### ART 1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid, met uitzondering van artikel 22, dat een gemeenschaps- en gewestaangelegenheid betreft.
+
 ### ART 2.
 
 In dit decreet wordt verstaan onder:<br>
@@ -39,7 +43,39 @@ d) een persoon die het voorwerp uitmaakt van een overleg in het kader van een se
 
 ## Afdeling 1. Doelstellingen
 
+### ART 3.
+
+De justitiehuizen vervullen hun opdrachten vanuit een intermediaire positie, op een methodische wijze overeenkomstig de basisprincipes, vermeld in artikel 16 van dit decreet, en gericht op verbinding van de justitiabele met de samenleving. Daarbij streven ze naar een trajectmatige benadering, zowel binnen de echelons van de rechtsbedeling als binnen de voor- en natrajecten van de hulp- en dienstverlening.
+
+### ART 4.
+
+Bij de uitoefening van hun opdrachten streven de justitiehuizen de volgende doelstellingen na:<br>
+1° bijdragen aan een gemeenschapsgerichte justitie;<br>
+2° bijdragen aan een humane, gemeenschapsgerichte, re-integratieve en efficiënte strafuitvoering;<br>
+3° bijdragen aan een veilige en zorgzame samenleving;<br>
+4° de integratie of re-integratie van justitiabelen in de samenleving en hun participatie aan de samenleving bevorderen;<br>
+5° de kans op recidive beperken;<br>
+6° bijdragen aan een betere gerechtelijke besluitvorming door een adequate informatieverstrekking en rapportering;<br>
+7° een geïntegreerde, structurele en intersectorale aanpak bevorderen;<br>
+8° andere actoren stimuleren en faciliteren om hun bevoegdheden en verantwoordelijkheden op te nemen ten aanzien van justitiabelen;<br>
+9° bijdragen aan de rechtspositie van de justitiabelen op het kruispunt van justitie, politie, welzijn en zorg.
+
 ## Afdeling 2. Opdrachten
+
+### ART 5.
+
+De opdrachten van de justitiehuizen zijn:<br>
+1° op verzoek van een opdrachtgever opdrachten uitvoeren in het kader van een gerechtelijke procedure of ter uitvoering van een gerechtelijke beslissing, overeenkomstig artikel 5, § 1, III, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
+2° uitbouwen, installeren, faciliteren en in stand houden van sectoroverschrijdende netwerken op het kruispunt van justitie, politie, welzijn en zorg, of deelnemen aan dergelijke netwerken, met het oog op:<br>
+a) de gecoördineerde en geïntegreerde omkadering van en zorg voor verdachte, beschuldigde, beklaagde, inverdenkinggestelde, veroordeelde of geïnterneerde personen, die het voorwerp uitmaken van een opdracht als vermeld in punt 1°, in voorbereiding van, tijdens of aansluitend op die opdracht;<br>
+b) de bescherming van de fysieke en psychische integriteit van personen;<br>
+c) de voorkoming van de misdrijven, vermeld in artikel 458ter van het Strafwetboek;<br>
+3° ondersteunende taken opnemen in het kader van de opdrachten, vermeld in punt 1° en 2°, meer bepaald:<br>
+a) ondersteunen van een coherent Vlaams beleid met betrekking tot een gemeenschapsgerichte justitie;<br>
+b) zorgen voor beleidsvoorbereidend werk dat gericht is op een coherente uitvoering van de opdrachten en de doelstellingen;<br>
+c) ondersteunen van het overleg en de samenwerking van de Vlaamse Regering met de andere gemeenschappen, de federale overheid en de gerechtelijke overheid;<br>
+d) stimuleren van en deelnemen aan overleg en samenwerking met de andere actoren en met de opdrachtgevers;<br>
+e) vervullen van een signaalfunctie, zowel naar de andere actoren en de opdrachtgevers als naar het Vlaamse beleid.
 
 ## HOOFDSTUK 2. Organisatie
 
@@ -53,11 +89,159 @@ De Vlaamse Regering bepaalt de organisatie van de gedecentraliseerde diensten va
 
 ## Afdeling 1. Omgaan met persoonsgegevens
 
+### ART 7.
+
+De justitiehuizen verwerken persoonsgegevens met het oog op:<br>
+1° het uitvoeren van de opdrachten, vermeld in artikel 5, 1° en 2° ;<br>
+2° het beleid en het beheer van de justitiehuizen;<br>
+3° het afleggen van verantwoording aan de Vlaamse Regering;<br>
+4° wetenschappelijk onderzoek en statistiek;<br>
+5° de berekening, vermeld in artikel 47/10, derde lid, van de bijzondere wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten.<br>
+<br>
+Rechtmatig verkregen gegevens mogen worden verwerkt voor een ander doel dan dat waarvoor ze zijn verzameld, voor zover dat andere doel past in het kader van de doeleinden, vermeld in het eerste lid, en voor zover die verwerking noodzakelijk is en in verhouding staat tot dat andere doel.<br>
+<br>
+De justitiehuizen gebruiken ten behoeve van de doeleinden, vermeld in het eerste lid, 2° tot en met 5°, geanonimiseerde gegevens of gecodeerde persoonsgegevens indien de beoogde doeleinden op die manier kunnen worden verwezenlijkt, tenzij decretale of wettelijke voorschriften anders bepalen.<br>
+<br>
+Het Agentschap Justitie en Handhaving, opgericht bij het besluit van de Vlaamse Regering van 3 september 2021 tot oprichting van het intern verzelfstandigd agentschap "Agentschap Justitie en Handhaving", treedt voor de verwerkingen, vermeld in het eerste lid, op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.
+
+### ART 8.
+
+De justitiehuizen verwerken persoonsgegevens op grond van artikel 6, eerste lid, e), van de algemene verordening gegevensbescherming.<br>
+<br>
+In uitvoering van artikel 9, tweede lid, g), van de algemene verordening gegevensbescherming worden de verwerkingen met het oog op de uitvoering van de opdrachten, vermeld in artikel 5, 1° en 2°, beschouwd als noodzakelijke verwerkingen om redenen van zwaarwegend algemeen belang, en verwerken de justitiehuizen persoonsgegevens als vermeld in artikel 9, eerste lid, van diezelfde verordening.<br>
+<br>
+De justitiehuizen verwerken persoonsgegevens als vermeld in artikel 10 van de algemene verordening gegevensbescherming.<br>
+<br>
+De verwerkingsverantwoordelijke stelt een lijst op van de categorieën van personen die persoonsgegevens als vermeld in artikel 9, eerste lid, en 10, van de verordening kunnen raadplegen, met een beschrijving van hun hoedanigheid ten opzichte van de verwerking van de beoogde gegevens. Deze lijst wordt ter beschikking gehouden van de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming.<br>
+<br>
+De personen, vermeld in het vierde lid, nemen het vertrouwelijke karakter van de betrokken gegevens in acht.<br>
+<br>
+De justitiehuizen bewaren de persoonsgegevens die zij bij de uitoefening van hun opdrachten verwerken, niet langer dan nodig is voor de uitoefening van deze opdrachten. De Vlaamse Regering voorziet, na advies van de bevoegde toezichthoudende autoriteit, per verwerkingsfinaliteit in specifieke bewaartermijnen of afbakeningscriteria voor de bewaartermijnen.
+
+### ART 9.
+
+§ 1. Justitiehuizen kunnen persoonsgegevens verwerken over de volgende personen:<br>
+1° verdachte, beschuldigde, beklaagde, inverdenkinggestelde, veroordeelde of geïnterneerde personen, voor zover dat noodzakelijk is voor het uitvoeren van een opdracht die tot doel heeft een opdrachtgever te informeren over een passende straf, maatregel, uitvoeringsmodaliteit of voorwaarde die aan deze personen kan worden opgelegd, of over de opvolging van een dergelijke straf, maatregel, uitvoeringsmodaliteit of voorwaarde;<br>
+2° personen die deel uitmaken van de sociale context van personen, vermeld in punt 1°, voor zover dat noodzakelijk is voor het uitvoeren van een opdracht als vermeld in punt 1°, of voor een opdracht die tot doel heeft een opdrachtgever te informeren over het onthaalmilieu van een persoon als vermeld in punt 1° ;<br>
+3° slachtoffers, naasten en nabestaanden, voor zover dat noodzakelijk is voor het uitvoeren van een opdracht die tot doel heeft hen te begeleiden en te informeren gedurende een strafrechtelijke procedure, of een procedure in het kader van de uitvoering van straffen en maatregelen;<br>
+4° personen die betrokken zijn in een burgerrechtelijke procedure, voor zover dat noodzakelijk is voor het uitvoeren van een opdracht die tot doel heeft een opdrachtgever te informeren over het thuismilieu van minderjarigen, de uitoefening van het gezamenlijk ouderlijk gezag en het recht op persoonlijk contact met minderjarigen;<br>
+5° personen die deel uitmaken van de sociale context van personen als vermeld in punt 4°, voor zover dat noodzakelijk is voor het uitvoeren van een opdracht als vermeld in punt 4° ;<br>
+6° personen over wie in het kader van netwerken als vermeld in artikel 5, 2°, overleg wordt gepleegd, voor zover dat noodzakelijk is om het specifieke doel van dat overleg te realiseren;<br>
+7° personen die deel uitmaken van de sociale context van personen als vermeld in punt 6° voor zover dat noodzakelijk is om het specifieke doel van het overleg te realiseren;<br>
+8° personen die als actor betrokken zijn bij de uitvoering van een opdracht, alsook over professionele raadgevers of hulpverleners van de personen, vermeld in punten 1°, 3°, 4° en 6°.<br>
+<br>
+§ 2. Voor de doeleinden, vermeld in paragraaf 1, 1° en 2°, en in artikel 5, 2°, kunnen de justitiehuizen persoonsgegevens uit de volgende gegevenscategorieën verwerken:<br>
+1° identificatie- en contactgegevens;<br>
+2° gegevens over beroep, beroepsbekwaamheid, opleiding en vorming;<br>
+3° leeftijd, geslacht, nationaliteit, burgerlijke staat en verblijfsstatuut;<br>
+4° gegevens betreffende schulden en solvabiliteit;<br>
+5° gegevens betreffende de levensstijl, vrijetijdsbesteding en sociale context;<br>
+6° gegevens betreffende de gezinssamenstelling;<br>
+7° gegevens betreffende de woonomstandigheden;<br>
+8° politionele en gerechtelijke gegevens;<br>
+9° gegevens betreffende de gezondheid;<br>
+10° gegevens betreffende risicosituaties en -gedragingen;<br>
+11° gegevens waaruit ras of etnische afkomst blijken;<br>
+12° gegevens met betrekking tot seksueel gedrag of seksuele gerichtheid;<br>
+13° gegevens waaruit politieke, religieuze of levensbeschouwelijke overtuigingen blijken;<br>
+14° lokalisatiegegevens, voor zover het gaat om personen die door een opdrachtgever onder elektronisch toezicht zijn geplaatst.<br>
+<br>
+Voor het doeleinde, vermeld in paragraaf 1, 3°, kunnen de justitiehuizen persoonsgegevens uit de gegevenscategorieën, vermeld in het eerste lid, 1°, 2°, 3°, 6°, 8° en 9°, verwerken, evenals gegevens betreffende de schade die de betrokken personen lijden als gevolg van een misdrijf.<br>
+<br>
+Voor het doeleinde, vermeld in paragraaf 1, 4°, kunnen de justitiehuizen persoonsgegevens, vermeld in het eerste lid, 1° tot en met 13°, verwerken, evenals gegevens betreffende de opvoeding van minderjarigen, kinderopvang, pleegzorg en adoptie.<br>
+<br>
+Over personen als vermeld in paragraaf 1, 8°, kunnen de justitiehuizen identificatie- en contactgegevens verwerken.<br>
+<br>
+De Vlaamse Regering kan, na advies van de bevoegde toezichthoudende autoriteit, de eventuele andere gegevenscategorieën bepalen die de justitiehuizen kunnen verwerken, alsook de vorm waarin en de wijze waarop de persoonsgegevens verwerkt en uitgewisseld kunnen worden.
+
+### ART 10.
+
+Voor de uitoefening van de rechten, vermeld in artikel 12 tot en met 22 en 34 van de algemene verordening gegevensbescherming, zijn artikel 14 en 16 van de wet van 30 juli 2018 betreffende de bescherming van natuurlijke personen met betrekking tot de verwerking van persoonsgegevens, alsook de regelgeving met betrekking tot de informatiesystemen van de opdrachtgevers, vermeld in artikel 11, § 1, 6°, in voorkomend geval van toepassing.
+
 ## Afdeling 2. Omgaan met informatie
+
+### ART 11.
+
+§ 1. De justitiehuizen winnen, met het oog op het uitvoeren van een opdracht als vermeld in artikel 5, 1° en 2°, minstens informatie in:<br>
+1° bij de opdrachtgever;<br>
+2° bij de justitiabele op wie de opdracht betrekking heeft, waarbij het doel van het verzamelen van informatie aan die justitiabele wordt meegedeeld;<br>
+3° bij de andere actoren die betrokken zijn bij de uitvoering van de opdracht;<br>
+4° in voorkomend geval bij personen die deel uitmaken van de sociale context van de justitiabele, vermeld in punt 2°, waarbij het doel van het verzamelen van informatie aan die personen wordt meegedeeld;<br>
+5° uit de bestanden, vermeld in artikel 12;<br>
+6° uit de informatiesystemen van de opdrachtgevers voor zover hen toegang is verleend.<br>
+<br>
+§ 2. Met behoud van de toepasselijke regelgeving stellen de actoren die een begeleiding, omkadering of behandeling aannemen in het kader van een opdracht als vermeld in artikel 5, 1°, daarover een verslag op ten behoeve van de justitiehuizen.<br>
+<br>
+In het verslag, vermeld in het eerste lid, worden minstens de volgende punten behandeld:<br>
+1° de daadwerkelijke aanwezigheden van de justitiabele op de gemaakte afspraken;<br>
+2° de afwezigheden van de justitiabele die niet gerechtvaardigd zijn;<br>
+3° de eenzijdige stopzetting van de begeleiding, omkadering of behandeling door de justitiabele;<br>
+4° de situaties die een ernstig risico inhouden voor derden;<br>
+5° de formele moeilijkheden die bij de begeleiding, omkadering of behandeling zijn gerezen;<br>
+6° zo mogelijk, bij weigering of stopzetting van een begeleiding, omkadering of behandeling, een richtinggevend alternatief.
+
+### ART 12.
+
+De justitiehuizen verwerken de informatie die met toepassing van artikel 11 wordt verzameld, in bestanden.<br>
+<br>
+De Vlaamse Regering stelt aan de justitiehuizen een of meer digitale systemen ter beschikking ter ondersteuning van de gegevensverwerking en -uitwisseling.<br>
+<br>
+De gegevens worden op een elektronische, uniforme en gestandaardiseerde wijze opgenomen in een elektronisch dossier, met het oog op een vlotte uitvoering van de opdrachten.<br>
+<br>
+Personeelsleden van de justitiehuizen hebben toegang tot de gegevens die in bestanden verwerkt zijn, in de mate dat die gegevens noodzakelijk zijn voor de uitvoering van de aan hen toevertrouwde opdrachten en voor zover ze daartoe zijn aangewezen.
+
+### ART 13.
+
+De justitiehuizen zijn gehouden zich tot het Rijksregister van de natuurlijke personen te richten om de informatiegegevens, vermeld in artikel 3, eerste en tweede lid, van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen, te verkrijgen of om de juistheid van deze informatiegegevens na te gaan.<br>
+<br>
+Als het om gegevens gaat die betrekking hebben op een natuurlijke persoon van wie de gegevens niet in het Rijksregister opgenomen zijn, maken de justitiehuizen gebruik van het identificatienummer van de Kruispuntbank van de Sociale Zekerheid.
+
+### ART 14.
+
+De justitiehuizen bezorgen met het oog op het uitvoeren van een opdracht de noodzakelijke informatie aan:<br>
+1° de opdrachtgever;<br>
+2° de andere actoren die in voorkomend geval betrokken zijn bij de uitvoering van de opdracht;<br>
+3° de bevoegde instanties met het oog op de doeleinden, vermeld in artikel 7, eerste lid, 2° tot en met 5°.
+
+### ART 15.
+
+De informatie die de justitiehuizen uitwisselen met de opdrachtgevers en met de andere actoren die in voorkomend geval betrokken zijn bij de uitvoering van een opdracht, omvat ook persoonsgegevens, waaronder persoonsgegevens als vermeld in artikel 9, eerste lid, en 10 van de algemene verordening gegevensbescherming. De betrokken actoren verwerken deze gegevens voor zover dat noodzakelijk is om hun specifieke taak uit te voeren.
 
 ## HOOFDSTUK 4. Basisprincipes voor het omgaan met justitiabelen
 
+### ART 16.
+
+Bij het uitvoeren van de opdrachten, vermeld in artikel 5, 1° en 2°, nemen de personeelsleden van de justitiehuizen de volgende principes in acht:<br>
+1° ze respecteren de fundamentele rechten van de justitiabele en maken geen onderscheid op grond van geslacht, genderidentiteit, genderexpressie, leeftijd, seksuele geaardheid, burgerlijke staat, geboorte, vermogen, geloof of levensbeschouwing, politieke overtuiging, syndicale overtuiging, taal, gezondheidstoestand, handicap, fysieke of genetische eigenschap, sociale positie, nationaliteit, zogenaamd ras, huidskleur, afkomst, of nationale of etnische afstamming;<br>
+2° ze houden, in de mate van het mogelijke en zo nodig via een indicatiestelling, rekening met de persoonlijke situatie van de justitiabele, waaronder de individuele behoeften, de risico's en de positieve factoren die moeten worden versterkt;<br>
+3° ze informeren de justitiabele over wat er van hem in het kader van een specifieke opdracht verwacht wordt, en over het doel van de tussenkomst van de justitiehuizen bij die opdracht;<br>
+4° met behoud van de toepassing van punt 5° streven ze naar de medewerking van de justitiabele, en informeren ze hem over de gevolgen van een gebrek aan medewerking;<br>
+5° voor een opdracht met een doel als vermeld in artikel 9, § 1, 3°, vragen ze het betrokken slachtoffer of de betrokken naaste of nabestaande, in de mate van het mogelijke, om diens instemming;<br>
+6° ze horen, in de mate van het mogelijke, de justitiabele en geven zijn standpunt weer in de rapporten die ze aan de opdrachtgever bezorgen;<br>
+7° ze respecteren de deontologische regels die de uitvoering van de opdrachten, vermeld in artikel 5, 1° en 2°, beheersen, met behoud van de toepassing van de deontologische rechten en plichten die zijn opgenomen in deel II van het Vlaams personeelsstatuut;<br>
+8° in geval van interventies ten aanzien van een justitiabele die nog niet schuldig is bevonden, respecteren ze het vermoeden van onschuld;<br>
+9° voor een opdracht met een doel als vermeld in artikel 9, § 1, 4°, nemen ze het belang van de minderjarige als centraal uitgangspunt, betrekken ze de minderjarige op een passende wijze rekening houdende met zijn leeftijd en maturiteit en houden ze rekening met de belevings- en leefwereld van de minderjarige in zijn beide thuissituaties zodat de opdrachtgever een weloverwogen beslissing kan nemen op maat van de minderjarige.
+
+### ART 17.
+
+De justitiehuizen doen, als dat noodzakelijk is, een beroep op een tolk of op een andere vorm van taalbijstand.
+
+### ART 18.
+
+De justitiehuizen gaan een verzekering aan voor:<br>
+1° de burgerlijke aansprakelijkheid van personen die een werkstraf of dienstverlening uitvoeren voor schade, toegebracht aan andere personen die een werkstraf of een dienstverlening uitvoeren of aan derden tijdens de uitvoering van de werkstraf of dienstverlening;<br>
+2° de lichamelijke schade, geleden door werkgestraften of dienstverleners bij ongevallen tijdens de uitvoering van de werkstraf of dienstverlening;<br>
+3° andere risico's waarmee de Vlaamse Regering de verplichte dekking kan uitbreiden.
+
+### ART 19.
+
+De Vlaamse Regering kan nadere regels bepalen voor de rechtspositie van justitiabelen in hun relatie tot de justitiehuizen en tot de actoren, vermeld in artikel 21.
+
 ## HOOFDSTUK 5. Samenwerken met andere actoren
+
+### ART 20.
+
+De justitiehuizen werken bij het nastreven van de doelstellingen en het uitvoeren van hun opdrachten samen met de opdrachtgevers en de andere actoren die betrokken zijn bij de uitvoering van de opdrachten.
 
 ### ART 21.
 
@@ -65,9 +249,27 @@ De Vlaamse Regering kan binnen de beschikbare begrotingskredieten initiatieven s
 
 ## HOOFDSTUK 6. Financiering
 
+### ART 22.
+
+Per beleidsdomein voorziet de Vlaamse Regering binnen de beschikbare budgetten in de nodige instrumenten, middelen en personeelsleden voor het nastreven van de doelstellingen en het uitvoeren van de opdrachten van de justitiehuizen.
+
 ## HOOFDSTUK 7. Toezicht en klachten
 
+### ART 23.
+
+De Vlaamse Regering organiseert het toezicht op de naleving van de bepalingen in titel 2 van dit decreet en de uitvoeringsbesluiten ervan.
+
+### ART 24.
+
+De Vlaamse Regering organiseert de klachtenbehandeling voor justitiabelen.
+
 ## HOOFDSTUK 8. Wetenschappelijk onderzoek, evaluatie en innovatie
+
+### ART 25.
+
+De justitiehuizen dragen bij aan wetenschappelijk onderzoek dat verband houdt met hun doelstellingen, opdrachten en werking, onder meer met het oog op evaluatie en permanente innovatie. Ze baseren zich bij het nastreven van de doelstellingen en het uitvoeren van hun opdrachten zo veel mogelijk op wetenschappelijke kennis en wetenschappelijk onderbouwde methodieken en programma's.<br>
+<br>
+De justitiehuizen stellen ten behoeve van het Vlaams Parlement en de Vlaamse Regering jaarlijks een rapport op over hun doelstellingen, opdrachten en werking.
 
 ## TITEL 3. De juridische eerstelijnsbijstand
 
@@ -266,6 +468,10 @@ Van hun vaststellingen maken de ambtenaren, vermeld in het tweede lid, een versl
 § 2. De Vlaamse Regering bepaalt de regels voor de vermindering of de terugvordering van de subsidie-enveloppe als de commissie voor juridische eerstelijnsbijstand de subsidievoorwaarden niet naleeft of niet meewerkt aan de uitoefening van het toezicht.
 
 ## TITEL 4. Slotbepalingen, wijzigings- en opheffingsbepalingen
+
+### ART 44.
+
+Artikel 106 van het decreet van 15 juli 2016 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin wordt opgeheven.
 
 ### ART 45.
 
