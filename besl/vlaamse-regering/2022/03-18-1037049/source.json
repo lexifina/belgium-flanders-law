@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037049,
+  "title": "Besluit van de Vlaamse Regering van 2022-03-18 tot uitvoering van bepalingen over de justitiehuizen van het decreet van 26 april 2019 houdende de justitiehuizen en de juridische eerstelijnsbijstand",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037049/VolledigDocument?datum=2022-05-28",
+  "source_sha256": "c81ed7d618df76b945a55d84988d5e2267f293173581df59c0007dcdbe954e02",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037049&param=informatie",
+  "as_of": "2022-05-28",
+  "made": "2022-03-18",
+  "gazette": "2022-05-18",
+  "numac": 2022040849,
+  "document_start": "2022-05-28",
+  "document_end": null,
+  "in_force": "2022-05-28",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2022-05-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
