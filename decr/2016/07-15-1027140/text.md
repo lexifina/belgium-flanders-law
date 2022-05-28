@@ -603,7 +603,7 @@ De Vlaamse Regering kan binnen de beschikbare begrotingskredieten initiatieven s
 
 ### ART 106.
 
-De Vlaamse Regering kan, in het kader van de opdrachten die de justitiehuizen of, in voorkomend geval, de andere diensten van de Vlaamse Gemeenschap die zulke opdrachten overnemen, uitoefenen, binnen de beschikbare begrotingskredieten initiatieven subsidiëren die voorzien in gespecialiseerde programma's of samenwerkingsverbanden voor verdachten, in verdenking gestelde personen, beklaagden, veroordeelden of geïnterneerden, ter uitvoering van een beslissing van een gerechtelijke of administratieve overheid, of die zulke programma's of samenwerkingsverbanden ondersteunen. De Vlaamse Regering sluit daarvoor een overeenkomst met de initiatiefnemers en bepaalt de nadere regels voor de subsidiëring en de overeenkomst.
+...
 
 ## HOOFDSTUK 14. [... (opgeh. decr. 19 januari 2018, art. 45, I: 1 januari 2019)]
 

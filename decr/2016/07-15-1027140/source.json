@@ -2,16 +2,16 @@
   "codex_id": 1027140,
   "title": "Decreet van 2016-07-15 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027140/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "37d42368adb75df742c3a9ee137db026598ca17513ebce61596f565db9ce36c6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027140/VolledigDocument?datum=2022-05-28",
+  "source_sha256": "3260e61734a2fc8f9a59b4569e18b93449d35858ce21aa72e3f81c0f0cb11f2d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027140&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2022-05-28",
   "made": "2016-07-15",
   "gazette": "2016-08-19",
   "numac": 2016036305,
   "document_start": "2016-08-29",
   "document_end": null,
-  "in_force": "2020-01-01",
+  "in_force": "2022-05-28",
   "article_versions": 105,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-05-28; future article versions excluded; article text as the API gives it"
 }
