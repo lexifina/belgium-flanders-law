@@ -2,16 +2,16 @@
   "codex_id": 1036035,
   "title": "Decreet van 2021-07-09 houdende wijziging van diverse decreten met betrekking tot wonen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036035/VolledigDocument?datum=2022-03-01",
-  "source_sha256": "d21b53907a9d44400ba000dbd45c4f1c2ea0dc9633e88a1d275a1c507ae06e0b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036035/VolledigDocument?datum=2022-05-29",
+  "source_sha256": "d3f2ac4241956f2c68d10449c075d8fc28bfae2229c9df0accd77a0673fa09bc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036035&param=informatie",
-  "as_of": "2022-03-01",
+  "as_of": "2022-05-29",
   "made": "2021-07-09",
   "gazette": "2021-09-10",
   "numac": 2021021712,
   "document_start": "2021-09-20",
   "document_end": null,
-  "in_force": "2022-03-01",
-  "article_versions": 181,
-  "record_form": "consolidated version as in force on 2022-03-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-05-29",
+  "article_versions": 183,
+  "record_form": "consolidated version as in force on 2022-05-29; future article versions excluded; article text as the API gives it"
 }
