@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037056,
+  "title": "Besluit van de Vlaamse Regering van 2021-10-22 tot erkenning van de beroepskwalificatie bestuurder van bosexploitatiemachines",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037056/VolledigDocument?datum=2022-05-30",
+  "source_sha256": "c07babbce03f66249da39d9e9841fe4413ae774f93dc5821d0355a2e182ccb25",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037056&param=informatie",
+  "as_of": "2022-05-30",
+  "made": "2021-10-22",
+  "gazette": "2022-05-20",
+  "numac": 2022031467,
+  "document_start": "2022-05-30",
+  "document_end": null,
+  "in_force": "2022-05-30",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-05-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
