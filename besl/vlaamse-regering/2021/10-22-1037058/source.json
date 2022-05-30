@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037058,
+  "title": "Besluit van de Vlaamse Regering van 2021-10-22 tot erkenning van de beroepskwalificatie gecertificeerd accountant",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037058/VolledigDocument?datum=2022-05-30",
+  "source_sha256": "89414aa7447bfe6d19984d60aa2dde7d972af17af58eb90d3e7a99e0f1fda360",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037058&param=informatie",
+  "as_of": "2022-05-30",
+  "made": "2021-10-22",
+  "gazette": "2022-05-20",
+  "numac": 2022031469,
+  "document_start": "2022-05-30",
+  "document_end": null,
+  "in_force": "2022-05-30",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-05-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
