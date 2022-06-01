@@ -2,16 +2,16 @@
   "codex_id": 1022098,
   "title": "Decreet van 2012-07-06 houdende subsidiëring van hostels, jeugdverblijfcentra, ondersteuningsstructuren en de vzw Algemene Dienst voor Jeugdtoerisme",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022098/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "534a07b68396d94815b993b6979a1d1755d1611a8714049b02fb2722cd23318b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022098/VolledigDocument?datum=2022-06-01",
+  "source_sha256": "dce2b518af46f5c4a53daebc8d864aed7773d3b7dcf6d2582b0f4edda62563ba",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022098&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2022-06-01",
   "made": "2012-07-06",
   "gazette": "2012-08-17",
   "numac": 2012204476,
   "document_start": "2013-01-01",
   "document_end": "2022-05-31",
-  "in_force": "2021-01-01",
+  "in_force": "2022-06-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-06-01; future article versions excluded; article text as the API gives it"
 }
