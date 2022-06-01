@@ -4,54 +4,54 @@
 
 ### ART. 1.
 
-Dit decreet regelt een gewestaangelegenheid.
+...
 
 ### ART. 2.
 
-Dit decreet regelt de omzetting, binnen de in artikel 1 vermelde aangelegenheden, van Richtlijn 2001/96/EG van het Europees Parlement en de Raad van 4 december 2001 tot vaststelling van geharmoniseerde voorschriften en procedures voor het veilig laden en lossen van bulkschepen, zoals gewijzigd bij Richtlijn 2002/84/EG van het Europees Parlement en de Raad van 5 november 2002 houdende wijziging van de richtlijnen op het gebied van maritieme veiligheid en voorkoming van verontreiniging door schepen.
+...
 
 ### ART. 3.
 
-Dit decreet is van toepassing op alle terminals die worden aangedaan door bulkschepen, voor het laden en lossen van vaste bulklading.<br /><br />Met het behoud van de toepassingen van de bepalingen in voorschrift VI/7 van het SOLAS-verdrag van 1974 is dit decreet niet van toepassing:<br /><br />1° op voorzieningen die alleen in uitzonderlijke omstandigheden gebruikt worden voor het laden en lossen van vaste bulklading in of uit bulkschepen;<br /><br />2° als voor het laden en lossen uitsluitend gebruikgemaakt wordt van de uitrusting van het bulkschip.
+...
 
 ### ART. 4.
 
-Voor de toepassing van dit decreet wordt verstaan onder:<br /><br />1° SOLAS-verdrag van 1974: het internationaal verdrag voor de beveiliging van mensenlevens op zee samen met de protocollen en wijzigingen daarvan, in de versie die van kracht is;<br /><br />2° BLU-code: de gedragscode voor veilig laden en lossen van bulkschepen, opgenomen in de bijlage bij resolutie A.862(20) van 27 november 1997 van de Algemene Vergadering van de IMO, in de versie die van kracht is;<br /><br />3° bulkschip: een schip zoals omschreven in voorschrift IX/1.6 van het SOLAS-verdrag van 1974 en geïnterpreteerd in resolutie 6 van de SOLAS-conferentie van 1997, dat aan een van de volgende omschrijvingen voldoet:<br /><br />a) een schip dat geconstrueerd is met een enkel dek, top-zijtanks en hopper-zijtanks in de laadruimten, dat voornamelijk voor het vervoer van vaste lading in bulk bestemd is;<br /><br />b) een ertsschip, dat wil zeggen een zeeschip met enkel dek, met twee langsschotten en een dubbele bodem in het gehele ladinggedeelte, dat bestemd is om uitsluitend in de middenruimen ertsladingen te vervoeren;<br /><br />c) een combination carrier zoals omschreven in voorschrift II-2/3.27 van het SOLAS-verdrag van 1974;<br /><br />4° vaste bulklading: vaste stortlading zoals omschreven in voorschrift XII/1.4 van het SOLAS-verdrag van 1974, met uitzondering van graan;<br /><br />5° graan: graan zoals omschreven in voorschrift VI/8.2 van het SOLAS-verdrag van 1974;<br /><br />6° terminal: iedere vaste, drijvende of mobiele voorziening die is uitgerust voor het laden en lossen van vaste bulklading in of uit bulkschepen en die daarvoor wordt gebruikt;<br /><br />7° terminalexploitant: de eigenaar van een terminal, of een andere organisatie of persoon aan wie de eigenaar de verantwoordelijkheid voor laad- en losverrichtingen in de terminal voor een bepaald bulkschip heeft overgedragen;<br /><br />8° terminalvertegenwoordiger: iedere door de terminalexploitant aangestelde persoon die de algemene verantwoordelijkheid en bevoegdheid heeft voor de controle op de voorbereiding, uitvoering en voltooiing van laad- en losverrichtingen door de terminal voor een bepaald bulkschip;<br /><br />9° kapitein: de persoon die het gezag voert over een bulkschip, of de scheepsofficier die door de gezagsvoerder voor laad- of losverrichtingen is aangewezen;<br /><br />10° erkende organisatie: een organisatie die is erkend overeenkomstig het koninklijk besluit van 29 februari 2004 inzake gemeenschappelijke voorschriften en normen voor de met inspectie en controle van schepen belaste organisaties en tot wijziging van het koninklijk besluit van 20 juli 1973 houdende zeevaartinspectiereglement;<br /><br />11° administratie van de vlaggenstaat: de bevoegde autoriteiten van de staat waarvan het bulkschip gerechtigd is de vlag te voeren;<br /><br />12° havenstaatcontrole-instantie: de met de scheepvaartcontrole belaste dienst van het directoraat-generaal Maritiem Vervoer;<br /><br />13° bevoegde autoriteit: de door de Vlaamse Regering aangewezen dienst die belast is met de uitvoering en de handhaving van de bepalingen van dit decreet;<br /><br />14° minister: de Vlaainse minister, bevoegd voor de materwegen en hun aanhorigheden en de havens en hun aanhorigheden.
+...
 
 ## HOOFDSTUK II Geschiktheidseisen en tijdelijke vergunningen voor terminals
 
 ### ART. 5.
 
-§ 1. De terminalexploitanten zorgen ervoor dat de terminals waarvoor zij overeenkomstig dit decreet verantwoordelijk zijn:<br /><br />1° aan de eisen in verband met de geschiktheid van terminals voor het laden en lossen van vaste bulklading voldoen;<br /><br />2° één of meer terminalvertegenwoordigers hebben aangesteld;<br /><br />3° handleidingen hebben opgesteld waarin de voorschriften van de terminal en de bevoegde autoriteiten en de informatie over de haven en de terminal zoals vermeld in aanhangsel 1, punt 1.2, van de BLU-code zijn opgenomen, en die handleidingen ter beschikking stellen van de kapiteins van de bulkschepen die de terminal aandoen om vaste bulklading te laden of te lossen;<br /><br />4° geïntegreerd zijn in een globale ISO 9001: 2000-certificatie of behoren tot een vennootschap die een gecertificeerd kwaliteitszorgsysteem heeft ontwikkeld en ingevoerd, of een gecertificeerd kwaliteitszorgsysteem hebben ontwikkeld en ingevoerd overeenkomstig ISO 9001: 2000-normen - of overeenkomstig een gelijkwaardige norm die tenminste aan alle aspecten van ISO 9001: 2000 voldoet - en deze systemen onderhouden, welke overeenkomstig de richtsnoeren van de ISO 10011: 1991-norm of een gelijkwaardige norm die aan alle aspecten van ISO 10011: 1991 voldoet, aan audits wordt onderworpen. De bevoegde autoriteit zorgt ervoor dat met betrekking tot gelijkwaardige normen wordt voldaan aan Richtlijn 98/34/EG.<br /><br />De bevoegde autoriteit controleert of de terminalexploitanten aan de hen opgelegde eisen voldoen.<br /><br />§ 2. De Vlaamse Regering legt de in artikel 5, § 1, 1°, vermelde eisen voor geschiktheid vast, waaraan terminals voor het laden en lossen van vaste bulklading moeten voldoen.<br /><br />§ 3. Terminalexploitanten zorgen voor de ontwikkeling van het kwaliteitszorgsysteem.<br /><br />§ 4. De terminalexploitant controleert tevens of het bulkschip, dat zich aan een van zijn terminals aanbiedt voor het laden of lossen van vaste bulklading, hiervoor operationeel geschikt is en of het bulkschip voldoet aan de eisen van operationele geschiktheid voor het laden en lossen van vaste bulklading.<br /><br />De eisen voor operationele geschiktheid worden vastgesteld door de bevoegde dienst van de federale overheid.
+...
 
 ### ART. 6.
 
-De bevoegde autoriteit kan, in afwijking van artikel 5, § 1, 4°, aan nieuwe terminals een tijdelijke exploitatievergunning met een geldigheidsduur van ten hoogste twaalf maanden uitreiken. De terminal moet echter aantonen voornemens te zijn een kwaliteitszorgsysteem in te voeren overeenkomstig de ISO 9001: 2000-norm of een gelijkwaardige norm, als vermeld in artikel 5, § 1, 4°.
+...
 
 ## HOOFDSTUK III Taken van de terminalvertegenwoordiger en te volgen procedures
 
 ### ART. 7.
 
-§ 1. Door de terminalvertegenwoordigers worden de volgende beginselen in acht genomen en toegepast:<br /><br />1° nadat de terminalvertegenwoordiger de eerste aankondiging van het vermoedelijke aankomsttijdstip van het schip heeft ontvangen, verstrekt hij aan de kapitein een aantal gegevens;<br /><br />2° de terminalvertegenwoordiger vergewist zich ervan dat de kapitein in een zo vroeg mogelijk stadium in kennis is gesteld van de gegevens die op het ladingverklaringsformulier zijn vermeld;<br /><br />3° de terminalvertegenwoordiger stelt de kapitein, de agent, de bevrachter en de havenstaatcontrole-instantie onverwijld in kennis van de door hem aan boord van een bulkschip vastgestelde tekortkomingen waardoor de veiligheid van het laden of lossen van vaste bulklading in gevaar kan komen;<br /><br />4° voordat met laden en lossen wordt begonnen en tijdens het laden en lossen, kwijt de terminalvertegenwoordiger zich van zijn taken.<br /><br />§ 2. De Vlaamse Regering bepaalt welke gegevens op basis van artikel 7, § 1, 1°, door de terminalvertegenwoordiger aan de kapitein moeten worden verstrekt.<br /><br />§ 3. De Vlaamse Regering legt de in artikel 7, § 1, 4°, vermelde taken van de terminalvertegenwoordiger voor en tijdens de laad- en losverrichtingen vast.
+...
 
 ### ART. 8.
 
-De Vlaamse Regering bepaalt de procedures die tijdens het laden en lossen van bulkschepen door de terminalvertegenwoordiger moeten worden gevolgd.
+...
 
 ### ART. 9.
 
-Als de bevoegde autoriteit vaststelt dat er een meningsverschil bestaat over de toepassing van de procedures van artikel 8 tussen de terminalvertegenwoordiger en de kapitein, treedt zij op zodra de veiligheid dit vereist.
+...
 
 ### ART. 10.
 
-Als de structuur of de uitrusting van het schip tijdens het laden of lossen wordt beschadigd, wordt die schade door de terminalvertegenwoordiger aan de kapitein gemeld en zo nodig gerepareerd.
+...
 
 ### ART. 11.
 
-De bevoegde autoriteit verifieert regelmatig of de terminals aan de voorschriften van artikel 5, § 1, 1°, artikel 7, § 1, en artikel 8 voldoen. Daarbij voert ze tijdens laad- en losverrichtingen onaangekondigde inspecties uit.<br /><br />Daarnaast verifieert de bevoegde autoriteit aan het einde van de in artikel 6 vermelde termijn of de nieuwe terminals aan de in artikel 5, § 1, 4°, vermelde vereisten voldoen.
+...
 
 ## HOOFDSTUK IV Slotbepalingen
 
 ### ART. 12.
 
-Met behoud van de toepassing van andere wettelijke bepalingen op grond waarvan de bevoegde autoriteit sancties kan opleggen aan de terminal, kan de bevoegde autoriteit op basis van de door haar uitgevoerde onaangekondigde inspectie, bedoeld in artikel 11, eerste lid, de volgende maatregelen nemen:<br /><br />1° als de terminal niet voldoet aan de eisen waaraan een terminal moet voldoen voor het laden en lossen van vaste bulklading, zoals bepaald in artikel 5 of artikel 6, geeft de bevoegde autoriteit de terminal de mogelijkheid om binnen een door de bevoegde autoriteit vastgestelde termijn aan de eisen voor terminals te voldoen. Als de terminal binnen de gestelde termijn niet aan de eisen voor terminals voldoet, laat de bevoegde autoriteit de laad- of losverrichtingen van de terminal stilleggen. Vanaf het ogenblik dat de terminal voldoet aan de door de bevoegde autoriteit opgelegde eisen op grond van artikelen 5 en 6, geeft ze de toestemming om de laad- of losverrichtingen van de terminal opnieuw op te starten;<br /><br />2° als de terminalvertegenwoordiger niet voldoet aan zijn plichten op grond van artikel 7 of als hij de procedures zoals bepaald op grond van artikel 8 niet volgt of indien zich een meningsverschil voordoet in de zin van artikel 9 en de bevoegde autoriteit vaststelt dat de veiligheid van het bulkschip en de bemanning hierdoor tijdens de laad- of losverrichtingen in gevaar wordt gebracht, geeft de bevoegde autoriteit de terminalvertegenwoordiger de mogelijkheid om binnen een door haar vastgestelde termijn aan zijn plichten of aan de te volgen procedures te voldoen. Als de terminalvertegenwoordiger binnen de gestelde termijn niet aan zijn plichten of de te volgen procedures voldoet, laat de bevoegde autoriteit de laad- of losverrichtingen stilleggen. Vanaf het ogenblik dat de terminalvertegenwoordiger voldoet aan de opgelegde eisen op grond van artikel 7 of de in artikel 8 opgelegde procedures volgt en het gevaar voor de veiligheid van het bulkschip en de bemanning is geweken, geeft de bevoegde autoriteit de toestemming om de laad- of losverrichtingen opnieuw op te starten.
+...
