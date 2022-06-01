@@ -278,7 +278,29 @@ Van 1 januari 2022 tot en met 31 oktober 2022 is het in het ICES-gebied VIId voo
 
 ### ART 19.
 
-De aanwezigheid van een vissersvaartuig in de ICES-gebieden VIIIa, b is verboden in de periode van 1 januari 2022 tot en met 31 december 2022.
+§ 1. De aanwezigheid van een vissersvaartuig in de ICES-gebieden VIIIa, b is verboden in de periode van 1 januari 2022 tot en met 31 december 2022.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 is het vanaf 1 juni 2022, alleen voor de vissersvaartuigen die op de lijst "Visvergunningen Golf van Gascogne 2022" vermeld worden, toegestaan om in de ICES-gebieden VIIIa, b aanwezig te zijn.<br>
+<br>
+Om aan de lijst, vermeld in het eerste lid, toegevoegd te kunnen worden, moeten de eigenaars van vissersvaartuigen van het GVS tegen uiterlijk 8 mei 2022 via een aangetekende brief of per e-mail een aanvraag voor het bekomen van een visvergunning tot de dienst richten.<br>
+<br>
+§ 3. Vanaf 1 juni 2022 tot en met 30 september 2022 is het verboden in de ICES-gebieden VIIIa, b voor een vissersvaartuig vermeld op de lijst in § 2, om een hoeveelheid aan tongvangst te overschrijden die gelijk is aan 21,5 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Als uitgangspunt daarbij wordt de situatie van het motorvermogen van de deelnemende vaartuigen op 9 mei 2022 genomen.<br>
+<br>
+§ 4. Bij overschrijding van de hoeveelheden tong vermeld in § 3, worden de door dat vissersvaartuig overschreden hoeveelheden tong in tweevoud in mindering gebracht op de hoeveelheid tong die aan het vissersvaartuig wordt toegekend voor 2023.<br>
+<br>
+§ 5. De vissersvaartuigen op de lijst "Visvergunningen Golf van Gascogne 2022", leveren voor de periode van 1 juli 2022 tot 31 oktober 2022 een hoeveelheid tong van 5000 kg in voor de Ierse Zee (ICES-gebied VIIa). Deze vaartuigen leveren ook 5,5 kg/kW in voor het ICES-gebied VIIf, g gedurende de periode 1 juli 2022 tot en met 31 oktober 2022.<br>
+<br>
+Tijdens eenzelfde visreis in de Golf van Gascogne mag slechts één soort vistuig aan boord worden gehouden.<br>
+<br>
+§ 6. Het is verboden gemengde visreizen te maken waarbij tijdens dezelfde visreis naast ICES-gebieden VIIIa, b, ook gevist wordt in andere ICES-gebieden.<br>
+<br>
+§ 7. Bij niet-naleving van de bepalingen van § 1 of § 2, wordt de visvergunning die aan het vissersvaartuig werd afgeleverd, conform artikel 28 van dit besluit, voor een periode van tien opeenvolgende dagen ingetrokken. Het maximum aantal vaartdagen wordt bovendien ook verminderd met 10 dagen.<br>
+<br>
+Bovendien zullen de vissersvaartuigen die gesanctioneerd worden op basis van het eerste lid, niet aanwezig mogen zijn in de ICES-gebieden VIIIa, b gedurende het jaar 2023.<br>
+<br>
+§ 8. Het de-minimisquotum voor tong in de ICES-gebieden VIIIa, b wordt vastgelegd op 10.000 kg tong. De drempelwaarde bedoeld in artikel 8 wordt voor de tongvisserij in de ICES-gebieden VIIIa, b vastgelegd op maximaal 8% van de reeds in de visreis gerealiseerde tongvangst in het ICES-gebied in kwestie.<br>
+<br>
+§ 9. Een gedetailleerd overzicht van de technische bepalingen wordt aan de reders meegedeeld door de dienst Zeevisserij voor de start van de campagne.
 
 ## HOOFDSTUK 2. Toewijzing van vangstmogelijkheden per zeereis
 
@@ -386,6 +408,8 @@ Het totale kabeljauwquotum in de ICES-gebieden II, IV, dat gereserveerd is voor 
 Het is in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 § 3. In januari 2022 worden in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat gedurende de gehele visreis gebruik maakt van netmaaswijdtes groter dan 100 mm in de bordenvisserij (TR1) of groter dan 120 mm in de boomkorvisserij (BT1), de hoeveelheden vermeld in paragraaf 1 en 2 verhoogd met 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden. Vanaf 1 februari 2022 worden de hierboven vermelde hoeveelheden voor die vaartuigen verminderd tot eveneens 100 kg per vaartdag.<br>
+<br>
+Vanaf 1 juni 2022 wordt de hoeveelheid vermeld in het eerste lid, verhoogd naar 200 kg per vaartdag.<br>
 <br>
 § 4. Er wordt voor de periode van 15 maart 2022 tot en met 30 juni 2022 een kabeljauwquotum van 50 ton uit de Noordzee voorbehouden voor vaartuigen die naar de Noorse zone gaan.<br>
 <br>
