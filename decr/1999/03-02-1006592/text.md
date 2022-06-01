@@ -135,17 +135,13 @@ In het eerste lid wordt verstaan onder havenvoertuigen: motorvoertuigen, aanhang
 <br>
 De Vlaamse Regering stelt de verordening vast na voorafgaand advies van elke gemeente op het grondgebied waarvan de gemeentewegen liggen waarop de verordening betrekking heeft, en van de Maatschappij voor het Haven-, Grond- en Industrialiseringsbeleid op de Linkerscheldeoever als de wegen waarop de verordening betrekking heeft, liggen binnen het Linkerscheldeoevergebied, vermeld in artikel 1 van de wet van 19 juni 1978 betreffende het beheer van het Linkerscheldeoevergebied ter hoogte van Antwerpen en houdende maatregelen voor het beheer en de exploitatie van de haven van Antwerpen, die een met redenen omkleed advies uitbrengen binnen een termijn van dertig dagen na de ontvangst van het voorstel van de verordening. Als ze niet tijdig advies uitbrengen, beslist de Vlaamse Regering zonder dat advies. De uitgebrachte adviezen zijn niet bindend.<br>
 <br>
+Het besluit van de Vlaamse Regering houdende goedkeuring of weigering van de havenverkeersverordeningen wordt genomen binnen 180 dagen na ontvangst van het voorstel van het havenbedrijf.<br>
+<br>
 § 3. De havenbedrijven nemen de nodige maatregelen om te garanderen dat de weggebruikers op de hoogte worden gebracht van het bestaan van de verordening, vermeld in paragraaf 1.<br>
 <br>
 De bijzondere verkeersregels van de verordening gelden vanaf de plaats waar een aanwijzingsbord met als opschrift "Havengebied" is aangebracht. Het einde van het gebied waarin de bijzondere verkeersregels van de verordening gelden, wordt aangeduid met een aanwijzingsbord voorzien van een rode diagonale streep met als opschrift "Havengebied".<br>
 <br>
-§ 4. Inbreuken op de verordening, vermeld in paragraaf 1, worden, onverminderd een eventuele schadevergoeding, bestraft als volgt:<br>
-1° met een geldboete van 50 euro tot 5000 euro als er, ten gevolge van de inbreuk, geen schade ontstaan is aan de openbare weg, zijn aanhorigheden en de kunstwerken die erin liggen;<br>
-2° met een geldboete van 200 euro tot 20.000 euro als er, ten gevolge van de inbreuk, schade ontstaan is aan de openbare weg, zijn aanhorigheden en de kunstwerken die erin liggen.<br>
-<br>
-De opdrachtgever en de verlader worden met toepassing van de strafbepalingen, vermeld in het eerste lid, gestraft als ze instructies hebben gegeven of daden hebben gesteld die hebben geleid tot een inbreuk op de verordening.<br>
-<br>
-Inbreuken op de verordening, vermeld in paragraaf 1, behoren tot de bevoegdheid van de havenkapiteinsdienst.
+§ 4. ....
 
 ### ART. 15.
 
@@ -274,6 +270,101 @@ Als de Vlaamse Regering binnen een termijn van twintig vrije dagen, die ingaat o
 § 5. De gewestelijke havencommissaris heeft het recht om met het oog op de uitvoering van dit artikel te allen tijde ter plaatse inzage te hebben in al de boeken, brieven, notulen en, in het algemeen, alle documenten en geschriften van het havenbedrijf. Hij kan van de voorzitter van de raad van bestuur of de raad van toezicht, van de leden van de directieraad en van de personen aan wie het dagelijks bestuur is opgedragen alle ophelderingen en inlichtingen vorderen die hij nodig acht voor de uitvoering van dit artikel.
 
 ## [AFDELING 3 AANSPRAKELIJKHEID VAN HET HAVENBEDRIJF (ing. decr. 21 januari 2022, art. 172, I: 1 juni 2022)]
+
+### ART 23bis.
+
+De aanwezigheid van voorwerpen en afwijkingen van de vastgestelde of gangbare vaarmogelijkheden in de haven als gevolg van natuurlijke processen vormt voor de toepassing van artikel 1384, eerste lid, van het Burgerlijk Wetboek geen gebrek of abnormaal kenmerk van de haven.
+
+### ART 23ter.
+
+Het havenbedrijf is niet aansprakelijk op grond van artikel 1384, eerste lid, van het Burgerlijk Wetboek voor de niet uit een natuurlijk proces volgende aanwezigheid van voorwerpen en afwijkingen van de vastgestelde of gangbare vaarmogelijkheden in de haven die van boven de waterspiegel niet met het blote oog waarneembaar zijn.
+
+### ART 23quater.
+
+Het havenbedrijf is niet aansprakelijk voor de volgende vormen van schade:<br>
+1° schade die te wijten is aan maatregelen die in het algemeen belang worden genomen;<br>
+2° averij of scheepvaartstremming veroorzaakt door een aanvaring of een raak met kunstwerken in hoofde van derde partijen.
+
+### ART 23quinquies.
+
+§ 1. In geval van schade te wijten aan een fout of verzuim in hoofde van het havenbedrijf of zijn aangestelden of veroorzaakt door een gebrek van de zaak die het havenbedrijf onder zijn bewaring heeft, is de aansprakelijkheid van het havenbedrijf beperkt tot het overeenkomstig paragraaf 2 vastgestelde bedrag indien de schade voortvloeit uit één van de volgende oorzaken:<br>
+1° een defect aan of een gebrek in de verkeerstekens en de apparaten die dienen om inlichtingen of instructies aan schepen te geven, zoals bakens en boeien;<br>
+2° een defect aan of een gebrek in de kunstwerken, zoals sluizen, bruggen en taluds.<br>
+<br>
+§ 2. Het bedrag waartoe de aansprakelijkheid van het havenbedrijf per schadeverwekkend feit is beperkt, is afhankelijk van de waterwegklasse van de havenwateren waarop het schadeverwekkende feit zich voordoet.<br>
+<br>
+Per schadeverwekkend feit worden de bedragen voor elke waterwegklasse als volgt vastgesteld:
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Klasse</td>
+			<td>Bedrag</td>
+		</tr>
+		<tr>
+			<td>I</td>
+			<td>50.000,00 EUR</td>
+		</tr>
+		<tr>
+			<td>II</td>
+			<td>81.250,00 EUR</td>
+		</tr>
+		<tr>
+			<td>III</td>
+			<td>125.000,00 EUR</td>
+		</tr>
+		<tr>
+			<td>IV</td>
+			<td>187.500,00 EUR</td>
+		</tr>
+		<tr>
+			<td>Va</td>
+			<td>375.000,00 EUR</td>
+		</tr>
+		<tr>
+			<td>Vb</td>
+			<td>400.000,00 EUR</td>
+		</tr>
+		<tr>
+			<td>Via</td>
+			<td>750.000,00 EUR</td>
+		</tr>
+		<tr>
+			<td>VIb</td>
+			<td>1.500.000,00 EUR</td>
+		</tr>
+		<tr>
+			<td>Vic</td>
+			<td>2.250.000,00 EUR</td>
+		</tr>
+		<tr>
+			<td>VII</td>
+			<td>3.375.000,00 EUR</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Wanneer voor de havenwateren waarop het schadeverwekkende feit zich voordoet, geen waterwegklasse kan worden bepaald, is de aansprakelijkheid van het havenbedrijf per schadeverwekkend feit beperkt tot 1.500.000 euro.<br>
+<br>
+§ 3. De beperking van de aansprakelijkheid van het havenbedrijf geldt niet wanneer zijnerzijds opzet of grove schuld aanwezig is.<br>
+<br>
+§ 4. Alle bedragen worden op 1 januari van elk jaar aangepast aan het indexcijfer van de gezondheidsindex van december van het voorgaande jaar, waarbij het aanvangsindexcijfer datgene is van december 2021. Onder de gezondheidsindex wordt verstaan de afgevlakte gezondheidsindex, zoals vermeld in artikel 2, § 2, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.
+
+### ART 23sexies.
+
+§ 1. Wanneer het havenbedrijf kennis krijgt van een tegen hem gerichte vordering tot schadevergoeding, in of buiten rechte, met betrekking tot een schadeverwekkend feit waarvoor de beperking van aansprakelijkheid, vermeld in artikel 23quinquies van dit decreet, geldt, kan het een bekendmaking laten verrichten.<br>
+<br>
+Indien het havenbedrijf een bekendmaking verricht, geschiedt deze:<br>
+1° in het Belgisch Staatsblad;<br>
+2° indien nuttig, in een of meer op de scheepvaart gerichte publicaties of in een publicatie die verschijnt in het arrondissement waar de desgevallend geadieerde rechtbank zetelt;<br>
+3° op de desgevallend bijkomend door de Vlaamse Regering voorgeschreven elektronische wijze.<br>
+<br>
+In de bekendmaking wordt eenieder die schade lijdt als gevolg van hetzelfde schadeverwekkend feit uitgenodigd om binnen de drie maanden vanaf de bekendmaking in het Belgisch Staatsblad zijn vordering in te dienen.<br>
+<br>
+Wanneer een gerechtelijke procedure aanhangig is, wordt de vordering ingesteld middels een verzoek tot tussenkomst. Wanneer geen gerechtelijke procedure aanhangig werd gemaakt, wordt de vordering bij aangetekend schrijven gericht tot het havenbedrijf. Wordt na de bekendmaking alsnog een gerechtelijke procedure aangevat, dan stelt het havenbedrijf eenieder die een vordering tot hem heeft gericht in kennis van de mogelijkheid om een verzoek tot tussenkomst in te stellen.<br>
+<br>
+§ 2. Het havenbedrijf dat heeft gehandeld overeenkomstig paragraaf 1, kan de beperking van aansprakelijkheid overeenkomstig artikel 23quinquies van dit decreet inroepen tegen alle personen die een vordering instellen. Het bedrag waartoe de aansprakelijkheid wordt beperkt, wordt onder de eisers van alle tijdig ingediende en gegrond bevonden vorderingen verdeeld in evenredigheid met de bedragen van hun gegrond bevonden vorderingen.<br>
+<br>
+§ 3. Indien de aansprakelijkheid van het havenbedrijf overeenkomstig artikel 23quinquies van dit decreet is beperkt, wordt wie meer dan drie maanden na de bekendmaking een ontvankelijke en gegronde vordering tot schadevergoeding instelt slechts vergoed voor zover het havenbedrijf uit hoofde van alle tijdig ingediende en gegrond bevonden vorderingen minder schadevergoeding dient te betalen dan het bedrag waartoe zijn aansprakelijkheid is beperkt. Het havenbedrijf is niet gehouden tot de betaling van een totaalbedrag aan schadevergoedingen dat hoger ligt dan het bedrag waartoe zijn aansprakelijkheid is beperkt.
 
 ## HOOFDSTUK III HAVENBELEID
 
