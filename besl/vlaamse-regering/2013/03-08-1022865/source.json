@@ -2,16 +2,16 @@
   "codex_id": 1022865,
   "title": "Besluit van de Vlaamse Regering van 2013-03-08 betreffende de subsidiëring van hostels, jeugdverblijfcentra, ondersteuningsstructuren en de vzw Algemene Dienst voor Jeugdtoerisme",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022865/VolledigDocument?datum=2013-03-08",
-  "source_sha256": "a3fb8022db5db56d87c6d5dee9e446409562b919259a74c0c49ae66b15c114c7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022865/VolledigDocument?datum=2022-06-01",
+  "source_sha256": "83392dc82ce144a30adeabd77625a757407f0976a7f13fa1b5e300af36990b9c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022865&param=informatie",
-  "as_of": "2013-03-08",
+  "as_of": "2022-06-01",
   "made": "2013-03-08",
   "gazette": "2013-04-12",
   "numac": 2013202195,
   "document_start": "2013-03-08",
   "document_end": "2022-05-31",
-  "in_force": "2013-03-08",
+  "in_force": "2022-06-01",
   "article_versions": 28,
-  "record_form": "consolidated version as in force on 2013-03-08; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-06-01; future article versions excluded; article text as the API gives it"
 }
