@@ -30,11 +30,8 @@ Dit besluit is van toepassing op de personeelsleden, de instellingen, de centra 
 2° "volledige ontstentenis van betrekking": het niet voorhanden zijn van een betrekking waardoor het vastbenoemde personeelslid geen vastbenoemd titularis meer is van enige betrekking in het onderwijs of de centra die recht geeft op een salaris of salaristoelage;<br>
 3° "gedeeltelijke ontstentenis van betrekking": het niet voorhanden zijn van een betrekking waardoor het vastbenoemde personeelslid vastbenoemd titularis blijft van een betrekking in het onderwijs of de centra die recht geeft op een salaris of salaristoelage, maar die in zijnen hoofde als onvolledig dient beschouwd te worden;<br>
 4° vacature: elke volledige of onvolledige betrekking die vacant is, of waarvan de titularis of zijn vervanger afwezig is voor een periode van tenminste tien werkdagen. Elke betrekking die door de overheid financierbaar of subsidieerbaar is, is onderworpen aan de bepalingen van dit besluit;<br>
-5° betrekking niet vatbaar voor reaffectatie of wedertewerkstelling: een betrekking is vanaf 1 september van het schooljaar in kwestie niet meer vatbaar voor reaffectatie of wedertewerkstelling, als het personeelslid dat die betrekking bekleedt een dienstanciënniteit heeft van ten minste 580 dagen in hoofdambt, gespreid over ten minste twee schooljaren.<br>
-Het personeelslid moet deze dienstanciënniteit bereiken op:<br>
-a) 31 augustus van het voorgaande schooljaar voor de leden van het administratief personeel, de administratieve medewerker in het basisonderwijs, de leden van het ondersteunend personeel in het secundair onderwijs, voor het ondersteunend en technisch personeel van de centra, en voor het personeel van de semi-internaten en van de internaten van het Gemeenschapsonderwijs die voorzien in verblijf en begeleiding tijdens schoolvrije dagen;<br>
-b) 30 juni van het voorgaande schooljaar voor de andere personeelsleden.<br>
-Voor het personeelslid dat aan deze voorwaarden voldoet, blijven de bovenstaande bepalingen geldig over de schooljaren heen ;<br>
+5° "betrekking niet vatbaar voor reaffectatie of wedertewerkstelling":<br>
+een betrekking is vanaf 1 september van het schooljaar in kwestie niet meer vatbaar voor reaffectatie of wedertewerkstelling, als het personeelslid dat die betrekking bekleedt in die betrekking niet tijdelijk aangesteld is voor bepaalde duur volgens artikel 20bis van het decreet rechtspositie personeelsleden gemeenschapsonderwijs of artikel 20bis van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs. Voor het personeelslid dat aan deze voorwaarde voldoet, blijft dit principe geldig over de schooljaren heen;<br>
 6° "ononderbroken periode": een periode zonder dienstonderbreking. wordt niet als dienstonderbreking beschouwd: de vakantieperioden, de militaire dienst, de burgerdienst, de perioden van wederoproeping, de ziekte- of bevallingsverloven, de borstvoedingsverloven, de periode van verwijdering uit een risico in het kader van bedreiging van een beroepsziekte en/of moederschapsbescherming, de verloven van korte duur met behoud van salaris of salaristoelage ter gelegenheid van sommige gebeurtenissen van familiale of sociale aard, alsook de verloven zonder behoud van salaris of salaristoelage voor een maximumduur van zes werkdagen per schooljaar of dienstjaar;<br>
 7° ...<br>
 8° gewoon secundair onderwijs : het voltijds secundair onderwijs en het deeltijds beroepssecundair onderwijs;<br>
@@ -42,9 +39,9 @@ Voor het personeelslid dat aan deze voorwaarden voldoet, blijven de bovenstaande
 10° "basisenveloppe" : de puntenenveloppe voor het bestuurs- en ondersteunend personeel van een centrum voor volwassenenonderwijs, vermeld in artikel 4, § 2, 1° van het besluit van de Vlaamse Regering van 21 september 2007 tot regeling van een aantal aangelegenheden voor de Centra voor Volwassenenonderwijs in uitvoering van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br>
 11° « globale puntenenveloppe » : de globale puntenenveloppe in het secundair onderwijs, vermeld in artikel 24 tot en met artikel 31 van de Codex Secundair Onderwijs.<br>
 12° "scholengemeenschapsinstelling": de instelling, vermeld in artikel 3, 52bis° /0 van het decreet basisonderwijs van 25 februari 1997, of artikel 3, 39° /1 van de Codex Secundair Onderwijs van 17 december 2010. Tenzij het anders wordt vermeld, wordt een scholengemeenschapsinstelling voor de toepassing van dit besluit beschouwd als een instelling;<br>
-13° ...;<br>
-14° ...;<br>
-15° ...;<br>
+13° puntenenveloppe voor administratieve en beleidsondersteuning: de puntenenveloppe administratieve en beleidsondersteuning in het basisonderwijs, vermeld in artikel 153quinquies, § 1, van het decreet basisonderwijs van 25 februari 1997;<br>
+14° puntenenveloppe voor de scholengemeenschap: de puntenenveloppe ter ondersteuning van de werking van de scholengemeenschap in het basisonderwijs, vermeld in artikel 125duodecies, § 1, van het decreet basisonderwijs van 25 februari 1997;<br>
+15° samengelegde punten: de punten van de puntenenveloppe voor ICT en voor administratieve en beleidsondersteuning die scholen in het basisonderwijs op het niveau van de scholengemeenschap kunnen samenleggen conform artikel 153sexies, § 4, van het decreet basisonderwijs van 25 februari 1997, en de punten voor het voeren van een zorgbeleid op het niveau van de scholengemeenschap, vermeld in artikel 125duodecies1, § 4, van het decreet basisonderwijs van 25 februari 1997;<br>
 16° ...;<br>
 17° "niet-organieke betrekking": een betrekking die niet wordt aangerekend op de personeelsomkadering van de instelling die door de overheid wordt toegekend, waarin conform artikel 47bis en artikel 52/1 van dit besluit een ter beschikking gesteld personeelslid kan worden toegewezen en waarin geen vervanging mogelijk is.<br>
 <br>
@@ -63,6 +60,12 @@ Hierdoor mag het aantal lestijden, bestemd voor onderwijzer algemene en sociale 
 Er wordt afgerond naar de hogere eenheid als de eerste decimaal vijf is of meer. Die afronding mag niet tot gevolg hebben dat het aantal lestijden, bestemd voor kleuteronderwijzer en leermeester lichamelijk opvoeding, berekend volgens de geldende reglementering, overschreven wordt.<br>
 <br>
 § 6. Voor de toepassing van dit besluit mag een leermeester godsdienst of niet-confessionele zedenleer van wie de lestijden werden vastgesteld volgens de schalen, niet ter beschikking gesteld worden om een onderwijzer aan te werven. Ook mag een onderwijzer niet ter beschikking gesteld worden om een leermeester godsdienst of niet-confessionele zedenleer aan te werven van wie de lestijden werden vastgesteld volgens de schalen.<br>
+<br>
+§ 6bis. Voor de toepassing van dit besluit mag een inrichtende macht in het basisonderwijs een personeelslid dat vastbenoemd is als administratief medewerker in een betrekking die is opgericht met punten van de puntenenveloppe voor administratieve en beleidsondersteuning, niet ter beschikking stellen wegens ontstentenis van betrekking om met die punten een personeelslid aan te stellen in een betrekking in het ambt van beleidsondersteuner, behalve als de inrichtende macht bij een daling van de puntenenveloppe paragraaf 14bis toepast.<br>
+<br>
+Voor de toepassing van dit besluit mag een inrichtende macht in het basisonderwijs een personeelslid dat vastbenoemd is als beleidsondersteuner in een betrekking die is opgericht met punten van de puntenenveloppe voor administratieve en beleidsondersteuning, niet ter beschikking stellen wegens ontstentenis van betrekking om met die punten een personeelslid aan te stellen in een betrekking van administratief medewerker, behalve als de inrichtende macht bij een daling van de puntenenveloppe paragraaf 14bis toepast.<br>
+<br>
+§ 6ter. Voor de toepassing van dit besluit mag de inrichtende macht van een scholengemeenschapsinstelling in het basisonderwijs een personeelslid dat in de scholengemeenschapsinstelling vastbenoemd is in een betrekking in een ambt die is opgericht met punten van de puntenenveloppe voor de scholengemeenschap en met de samengelegde punten, niet ter beschikking stellen wegens ontstentenis van betrekking om met die punten een personeelslid aan te stellen in een betrekking in een ander ambt in de scholengemeenschapsinstelling, behalve als de inrichtende macht bij een daling van de puntenenveloppe paragraaf 14ter toepast.<br>
 <br>
 § 7. Voor de toepassing van dit besluit beslist de inrichtende macht in het buitengewoon secundair onderwijs bij een vermindering van het urenpakket van de leden van het medisch, paramedisch, sociaal, psychologisch en orthopedagogisch personeel of een betrekking of betrekkingen in het afzonderlijk ambt van kinesitherapeut, logopedist, verpleger, ergotherapeut, kinderverzorger, maatschappelijk werker, arts, psycholoog en orthopedagoog niet meer kan of kunnen worden in-standgehouden, op basis van criteria waarover wordt onderhandeld in het lokaal comité.<br>
 <br>
@@ -83,6 +86,10 @@ Voor de toepassing van dit besluit beslist de inrichtende macht in het buitengew
 § 13. Voor de instellingen voor deeltijds kunstonderwijs die volgens artikel 79, § 3, van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs beschikken over één of meer gefinancierde of gesubsidieerde betrekking(en) in het ambt van studiemeester-opvoeder en daarnaast een of meer betrekking(en) in het ambt van administratief medewerker opgericht hebben, geldt dat voor de toepassing van dit besluit de inrichtende macht bij een vermindering van het aantal uren voor administratief medewerkers beslist of ze de vermindering volledig ten laste legt van de groep van studiemeester-opvoeder, of volledig ten laste legt van de groep van administratief medewerker, of dat ze die verdeelt over beide groepen, op basis van de criteria die worden onderhandeld in het lokaal comité.<br>
 <br>
 § 14. Voor de toepassing van dit besluit voor de centra voor leerlingenbegeleiding beslist de inrichtende macht van een centrum bij een vermindering van het aantal omkaderingsgewichten op basis van criteria waarover wordt onderhandeld in het lokaal comité, in welke personeelscategorie of personeelscategorieën en in welke ambten binnen die personeelscategorie of -categorieën ze die vermindering toepast.<br>
+<br>
+§ 14bis. Voor de toepassing van dit besluit beslist de inrichtende macht in het basisonderwijs bij een vermindering van het aantal punten van de puntenenveloppe voor administratieve en beleidsondersteuning op basis van criteria waarover wordt onderhandeld in het lokaal comité, in welk ambt of welke ambten van het beleids- en ondersteunend personeel ze die vermindering zal toepassen.<br>
+<br>
+§ 14ter. Voor de toepassing van dit besluit beslist de inrichtende macht van een scholengemeenschapsinstelling in het basisonderwijs bij een vermindering van het aantal punten van de puntenenveloppe voor de scholengemeenschap en van de samengelegde punten op basis van criteria waarover wordt onderhandeld in het lokaal comité, in welke personeelscategorie of personeelscategorieën en in welk ambt of welke ambten binnen die personeelscategorie of -categorieën ze die vermindering zal toepassen.<br>
 <br>
 § 15. De criteria die een inrichtende macht in toepassing van dit artikel hanteert bij een vermindering van de jaarlijkse omkadering van een instelling worden telkens voor een periode van drie schooljaren onderhandeld in het lokaal comité.<br>
 <br>
@@ -640,12 +647,12 @@ De verplichting tot wedertewerkstelling geldt echter niet als aan een personeels
 			<td>WEDERTEWERKSTELLING</td>
 		</tr>
 		<tr>
-			<td>de personeelsleden, ter beschikking gesteld in de categorie van het opvoedend hulppersoneel, van het ondersteunend personeel, uitgezonderd het ambt van ICT-coördinator, van het beleids- en ondersteunend personeel, uitgezonderd het ambt van ICT-coördinator, of van het administratief personeel</td>
+			<td>de personeelsleden, ter beschikking gesteld in de categorie van het opvoedend hulppersoneel, van het ondersteunend personeel, uitgezonderd het ambt van ICT-coördinator, van het beleids- en ondersteunend personeel, uitgezonderd het ambt van ICT-coördinator en het ambt van beleidsondersteuner, of van het administratief personeel</td>
 			<td>wervingsambten van het:<br>
 			- bestuurs- en onderwijzend personeel<br>
 			- opvoedend hulppersoneel<br>
 			- administratief personeel<br>
-			- beleids- en ondersteunend personeel, uitgezonderd het ambt van ICT-coördinator en het ambt van zorgcoördinator<br>
+			- beleids- en ondersteunend personeel, uitgezonderd het ambt van beleidsondersteuner, van ICT-coördinator en van zorgcoördinator<br>
 			- ondersteunend personeel, uitgezonderd het ambt van ICT-coördinator<br>
 			- psychologisch personeel<br>
 			- paramedisch personeel<br>
@@ -710,15 +717,31 @@ De verplichting tot wedertewerkstelling geldt echter niet als aan een personeels
 			<td>de personeelsleden, ter beschikking gesteld in het ambt van ICT-coördinator</td>
 			<td>wervingsambten van het:<br>
 			- bestuurs- en onderwijzend personeel<br>
-			- opvoedend hulppersoneel<br>
 			- administratief personeel<br>
-			- beleids- en ondersteunend personeel, uitgezonderd het ambt van zorgcoördinator<br>
-			- ondersteunend personeel - psychologisch personeel<br>
+			- opvoedend hulppersoneel<br>
+			- ondersteunend personeel<br>
+			- beleids- en ondersteunend personeel, uitgezonderd het ambt van zorgcoördinator en van beleidsondersteuner<br>
+			- technisch personeel<br>
+			- psychologisch personeel<br>
 			- paramedisch personeel<br>
 			- medisch personeel<br>
 			- sociaal personeel<br>
-			- orthopedagogisch personeel<br>
-			- technisch personeel</td>
+			- orthopedagogisch personeel</td>
+		</tr>
+		<tr>
+			<td>de personeelsleden, ter beschikking gesteld in het ambt van beleidsondersteuner in het beleids- en ondersteunend personeel</td>
+			<td>wervingsambten van het:<br>
+			- bestuurs- en onderwijzend personeel<br>
+			- administratief personeel<br>
+			- opvoedend hulppersoneel<br>
+			- ondersteunend personeel<br>
+			- beleids- en ondersteunend personeel, uitgezonderd het ambt van zorgcoördinator en van ICT-coördinator<br>
+			- technisch personeel<br>
+			- psychologisch personeel<br>
+			- paramedisch personeel<br>
+			- medisch personeel<br>
+			- sociaal personeel<br>
+			- orthopedagogisch personeel</td>
 		</tr>
 	</tbody>
 </table>
@@ -994,9 +1017,9 @@ De bevoegdheden over de reaffectatie en de wedertewerkstelling, vermeld in het e
 <br>
 1. De inrichtende macht wijst per instelling en in "hetzelfde ambt" de betrekkingen toe aan de vastbenoemde personeelsleden voor eenzelfde gepondereerd volume van de opdracht waarvan de betrokken personeelsleden vastbenoemde titularis waren op het einde van het voorafgaand schooljaar en/of ter beschikking waren gesteld wegens ontstentenis van betrekking, rekening houdend met het begrip "hetzelfde ambt".<br>
 <br>
-2. De inrichtende macht is verplicht een dreigende terbeschikkingstelling wegens ontstentenis van betrekking ten laste te laten komen van de vastbenoemde titularis in "hetzelfde ambt" met de kleinste dienstanciënniteit. Als het om een personeelslid van het ondersteunend personeel in het secundair onderwijs gaat, houdt de inrichtende macht rekening met artikel 2, § 10. Als door de voormelde terbeschikkingstelling het aantal opvoeders onder de 50% van het aantal personeelsleden van het ondersteunend personeel van de instelling daalt, wordt de vastbenoemde titularis met de kleinste dienstanciënniteit in het ambt van administratief medewerker ter beschikking gesteld. Als het om een personeelslid in het volwassenenonderwijs gaat, houdt de inrichtende macht rekening met artikel 2, § 12. Als het om een personeelslid van de centra gaat, houdt de inrichtende macht rekening met artikel 2, § 14.<br>
+2. De inrichtende macht is verplicht een dreigende terbeschikkingstelling wegens ontstentenis van betrekking ten laste te laten komen van de vastbenoemde titularis in "hetzelfde ambt" met de kleinste dienstanciënniteit. Als het om een personeelslid van het ondersteunend personeel in het secundair onderwijs gaat, houdt de inrichtende macht rekening met artikel 2, § 10. Als door de voormelde terbeschikkingstelling het aantal opvoeders onder de 50% van het aantal personeelsleden van het ondersteunend personeel van de instelling daalt, wordt de vastbenoemde titularis met de kleinste dienstanciënniteit in het ambt van administratief medewerker ter beschikking gesteld. Als het om een personeelslid in het volwassenenonderwijs gaat, houdt de inrichtende macht rekening met artikel 2, § 12. Als het om een personeelslid van de centra gaat, houdt de inrichtende macht rekening met artikel 2, § 14.&nbsp;Als het om een personeelslid van het beleids- en ondersteunend personeel in het basisonderwijs gaat, houdt de inrichtende macht rekening met artikel 2, § 14bis. Als het om een personeelslid van een scholengemeenschapsinstelling in het basisonderwijs gaat, houdt de inrichtende macht rekening met artikel 2, § 14ter.<br>
 <br>
-3. Wanneer voor één van de vastbenoemde titularissen een terbeschikkingstelling wegens ontstentenis van betrekking dreigt, moet de inrichtende macht vooraleer de terbeschikkingstelling wegens ontstentenis van betrekking uit te spreken de in artikel 20 vermelde maatregelen nemen voorafgaand aan de terbeschikkingstelling.<br>
+3. Wanneer voor één van de vastbenoemde titularissen een terbeschikkingstelling wegens ontstentenis van betrekking dreigt, moet de inrichtende macht vooraleer de terbeschikkingstelling wegens ontstentenis van betrekking uit te spreken de in artikel 20 vermelde maatregelen nemen voorafgaand aan de terbeschikkingstelling.&nbsp;Als het om een personeelslid van het beleids- en ondersteunend personeel in het basisonderwijs gaat, houdt de inrichtende macht rekening met artikel 2, § 14bis. Als het om een personeelslid van een scholengemeenschapsinstelling in het basisonderwijs gaat, houdt de inrichtende macht rekening met artikel 2, § 14ter.<br>
 <br>
 § 2. ...<br>
 <br>
@@ -1017,7 +1040,7 @@ Voor de toepassing van dit artikel houdt de inrichtende macht in het volwassenen
 Een inrichtende macht stelt een personeelslid pas ter beschikking nadat ze, in het gemeenschapsonderwijs onder alle personeelsleden die behoren tot dezelfde instelling en in het gesubsidieerd onderwijs onder alle personeelsleden die behoren tot dezelfde instelling of tot de instellingen die deze inrichtende macht tot stand gebracht heeft op het grondgebied van dezelfde gemeente, en die in voorkomend geval behoren tot eenzelfde scholengemeenschap, in de opgegeven volgorde en voorzover dat nodig is om een terbeschikkingstelling te vermijden:<br>
 1° de prestaties van haar personeelsleden die "hetzelfde ambt" uitoefenen in de instelling waar de vermindering van prestaties zich voordoet, verminderd heeft tot het minimumaantal prestatie-eenheden, vereist voor een betrekking met volledige prestaties;<br>
 2° de prestaties van haar personeelsleden die "hetzelfde ambt" in een andere instelling als hoofdambt uitoefenen, verminderd heeft tot het aantal prestatie-eenheden, vereist voor een betrekking met volledige prestaties;<br>
-3° een einde gesteld heeft aan de diensten van de tijdelijke personeelsleden die "hetzelfde ambt" uitoefenen. In het secundair onderwijs moet daarbij voor de ambten, ingericht met punten van de globale puntenenveloppe, rekening gehouden worden met artikel 2, § 9 en voor het ondersteunend personeel daarenboven ook met artikel 2, § 10. Als door voormelde beëindiging van de tijdelijke aanstelling van een personeelslid het aantal opvoeders onder de 50 % van het aantal personeelsleden van het ondersteunend personeel van de instelling dreigt te dalen, wordt de vastbenoemde titularis met de kleinste dienstanciënniteit in het ambt van administratief medewerker ter beschikking gesteld. In het volwassenenonderwijs moet hierbij rekening worden gehouden met artikel 2, § 12.&nbsp;In de centra voor leerlingenbegeleiding wordt daarbij rekening gehouden met artikel 2, § 14.<br>
+3° een einde gesteld heeft aan de diensten van de tijdelijke personeelsleden die "hetzelfde ambt" uitoefenen. In het secundair onderwijs moet daarbij voor de ambten, ingericht met punten van de globale puntenenveloppe, rekening gehouden worden met artikel 2, § 9 en voor het ondersteunend personeel daarenboven ook met artikel 2, § 10. Als door voormelde beëindiging van de tijdelijke aanstelling van een personeelslid het aantal opvoeders onder de 50 % van het aantal personeelsleden van het ondersteunend personeel van de instelling dreigt te dalen, wordt de vastbenoemde titularis met de kleinste dienstanciënniteit in het ambt van administratief medewerker ter beschikking gesteld. In het volwassenenonderwijs moet hierbij rekening worden gehouden met artikel 2, § 12.&nbsp;In de centra voor leerlingenbegeleiding wordt daarbij rekening gehouden met artikel 2, § 14.&nbsp;In het basisonderwijs moet hierbij rekening worden gehouden met artikel 2, § 14bis. In een scholengemeenschapsinstelling van het basisonderwijs moet hierbij rekening gehouden met artikel 2, § 14ter;<br>
 4° een einde gesteld heeft aan de diensten van de vastbenoemde personeelsleden die "hetzelfde ambt" uitoefenen als bijbetrekking;<br>
 5° een einde gesteld heeft aan de diensten van de tijdelijke personeelsleden die bij wijze van wedertewerkstelling of bij wijze van reaffectatie in dienst genomen werden in "hetzelfde ambt".<br>
 <br>
@@ -1094,7 +1117,7 @@ b) wordt in het gesubsidieerd onderwijs:<br>
 - voor scholen die niet tot een scholengemeenschap behoren naar keuze:<br>
 - in de instelling waar de vermindering van prestaties zich voordoet of<br>
 - in het geheel van de instellingen die een inrichtende macht op het grondgebied van dezelfde gemeente organiseert.<br>
-Eens de keuze gemaakt is geldt die voor een periode van zes jaar voor het vrij onderwijs of voor de lopende of aanvangende legislatuur voor het officieel onderwijs voor alle personeelsleden in alle categorieën;<br>
+Eens de keuze gemaakt is, geldt die voor een periode van zes jaar voor het vrij onderwijs of voor de lopende of aanvangende legislatuur voor het officieel onderwijs voor alle personeelsleden in alle categorieën. Bij de terbeschikkingstelling in een ambt dat wordt ingericht met punten van de puntenenveloppe voor administratieve en beleidsondersteuning, houdt de inrichtende macht rekening met artikel 2, § 14bis. Bij de terbeschikkingstelling in een ambt dat in een scholengemeenschapsinstelling wordt ingericht met punten van de puntenenveloppe voor de scholengemeenschap en met samengelegde punten, houdt de inrichtende macht rekening met artikel 2, § 14ter;<br>
 2) daarna onder de directeurs van een basisschool die een inrichtende macht heeft ter beschikking gesteld bij toepassing van de wettelijke bepalingen tot opheffing van de vierde graden of van artikel 22, a en c, van de gecoördineerde wetten op het lager onderwijs, of nog van de eerste maatregelen tot rationalisatie van het gewoon lager onderwijs en opnieuw in dienstactiviteit heeft geroepen in één van de ambten van onderwijzer, van leermeester niet-confessionele zedenleer, van leermeester godsdienst, van leermeester lichamelijke opvoeding of van bijzondere leermeester diegene met de kleinste dienstanciënniteit:<br>
 - voor scholen die tot een scholengemeenschap behoren in de instelling waar de vermindering van prestaties zich voordoet;<br>
 - voor scholen die niet tot een scholengemeenschap behoren naar keuze:<br>
@@ -1124,7 +1147,7 @@ b) in het gesubsidieerd officieel onderwijs diegene ter beschikking gesteld met 
 - voor scholen die niet tot een scholengemeenschap behoren naar keuze:<br>
 - in de instelling waar de vermindering van prestaties zich voordoet of<br>
 - in het geheel van de instellingen die een inrichtende macht op het grondgebied van dezelfde gemeente organiseert.<br>
-Eens de keuze gemaakt is geldt die voor een periode van zes jaar voor alle personeelsleden in alle categorieën of voor de lopende of aanvangende legislatuur.<br>
+Eens de keuze gemaakt is, geldt die voor een periode van zes jaar voor alle personeelsleden in alle categorieën of voor de lopende of aanvangende legislatuur. Bij de terbeschikkingstelling in een ambt dat wordt ingericht met punten van de puntenenveloppe voor administratieve en beleidsondersteuning, houdt de inrichtende macht rekening met artikel 2, § 14bis. Bij de terbeschikkingstelling in een ambt dat in een scholengemeenschapsinstelling wordt ingericht met punten van de puntenenveloppe voor de scholengemeenschap en met samengelegde punten, houdt de inrichtende macht rekening met artikel 2, § 14ter;<br>
 6° In de centra wordt in het centrum en in het ambt waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft, rekening houdend met artikel 2, § 14.<br>
 7° In de pedagogische begeleidingsdiensten wordt onder de personeelsleden die "hetzelfde ambt" uitoefenen, in de instelling waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft.
 
