@@ -218,7 +218,7 @@ Op voorstel van de raad van bestuur van de vennootschap vaardigt de Vlaamse Rege
 
 ### ART. 18.
 
-Overtreding van de verordeningen, bedoeld in artikel 17, wordt bestraft met een geldboete van zesen-twintig tot duizend vijfhonderd euro.
+...
 
 ### ART 18bis.
 
@@ -241,9 +241,9 @@ In dringende gevallen evenwel mag met de uitvoering van de werken worden begonne
 De vennootschap is bevoegd binnen zijn gebiedsomschrijving zoals bedoeld in artikel 5, § 1, eerste lid, tot het innen van rechten van welke aard ook, wegens het gebruik van een waterweg, van zijn infrastructuur en van zijn aanhorigheden, alsmede van de watervangen, van de watergebonden gronden en van de infrastructuur daarop.<br>
 <br>
 De vennootschap is bevoegd om de volgende retributies te innen:<br>
-1° retributies voor prestaties om vaartuigen voor de binnenvaart te certificeren en te meten;<br>
-2° retributies voor de bemanningsvoorschriften en de bekwaamheidsbewijzen;<br>
-3° retributies voor de verzameling, de afgifte en de inname van afval in de Rijn- en binnenvaart.<br>
+1° retributies voor prestaties inzake het certificeren en meten van vaartuigen voor de binnenvaart;<br>
+2° retributies voor prestaties inzake de bemanningsvoorschriften en de bekwaamheidsbewijzen, met inbegrip van het afnemen van examens;<br>
+3° retributies voor prestaties inzake de verzameling, de afgifte en de inname van afval in de Rijn- en binnenvaart.<br>
 <br>
 De rechten, bedoeld in het eerste en het tweede&nbsp;lid, worden bij uitsluiting van alle andere overheden geïnd door de vennootschap en ze komen ten goede aan de vennootschap.<br>
 <br>
@@ -286,6 +286,18 @@ De Commissie van Deskundigen is niet belast met handhaving.<br>
 De Vlaamse Regering bepaalt, ter uitvoering van internationale of Unierechtelijke regels die met de hierboven vermelde taken samenhangen, de overige taken die aan de commissie worden opgedragen.<br>
 <br>
 De Vlaamse Regering stelt de nadere voorschriften vast voor de samenstelling van de Commissie van Deskundigen en de aanstelling van de leden ervan en de voorschriften met het oog op de autonome en functioneel onafhankelijke besluitvorming ervan.
+
+### ART 20ter/1.
+
+Onder de vennootschap ressorteert een examencommissie.<br>
+<br>
+De examencommissie is onder meer belast met de volgende taken:<br>
+1° het afnemen van examens waarmee deelnemers hun bekwaamheden kunnen aantonen met het oog op het verkrijgen van bekwaamheidsbewijzen in de binnenvaart, met inbegrip van bekwaamheidsbewijzen voor bemanningsleden in verband met het vervoer van gevaarlijke goederen over de binnenwateren;<br>
+2° het nemen van alle bestuurlijke beslissingen in verband met de examens, vermeld in punt 1°, in overeenstemming met de regelgeving over de bekwaamheidsbewijzen in de binnenvaart.<br>
+<br>
+De Vlaamse Regering kan, ter uitvoering van internationale of Unierechtelijke regels die met de hierboven vermelde taken samenhangen, de taken, vermeld in het tweede lid, nader omschrijven en bijkomende taken aan de examencommissie opdragen.<br>
+<br>
+De examencommissie telt onder haar leden personen met een bijzondere deskundigheid in verband met de in het tweede lid bedoelde bekwaamheden. De Vlaamse Regering kan nadere voorschriften vaststellen betreffende de samenstelling van de examencommissie en de aanstelling van de leden ervan.
 
 ## [ONDERAFDELING 9 BEKENDMAKINGEN (ing. decr. 26 april 2019, art. 40, I: 4 juli 2019)]
 
