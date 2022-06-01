@@ -9,11 +9,14 @@ Dit decreet regelt een gewestaangelegenheid.
 In dit decreet wordt verstaan onder:<br>
 1° het decreet van 2 maart 1999: het decreet van 2 maart 1999 houdende het beleid en het beheer van de zeehavens;<br>
 2° havenbedrijf: een havenbedrijf als vermeld in artikel 2, 1°, van het decreet van 2 maart 1999;<br>
-3° havengebied: een havengebied als vermeld in artikel 2, 4°, van het decreet van 2 maart 1999;<br>
+3° havengebied: een havengebied als vermeld in artikel 2, 4°, van het decreet van 2 maart 1999 of indien het de toepassing van een havenverkeersverordening betreft een havengebied als vermeld in artikel 14bis, § 1, van het decreet van 2 maart 1999;<br>
 4° havenpolitieverordening: een door het havenbedrijf uitgevaardigd reglement van bijzondere administratieve politie inzake de goederenbehandeling en opslag, het in- en ontschepen van passagiers, de toegankelijkheid van en de verkeersafwikkeling in het havengebied, de vrijwaring van het milieu en de veiligheid van het havengebied en de regeling van de vrijheid van handel en nijverheid op het vlak van havengebonden dienstverlening;<br>
 5° gezagvoerder: elke persoon aan wie het bevel over het vervoermiddel is toevertrouwd of die het feitelijke bevel voert;<br>
 6° vervoermiddel: elk bemand of onbemand vaar- of voertuig over land, te water of in de lucht dat zich al dan niet op eigen krachten kan verplaatsen;<br>
-7° lading: de vracht die door middel van een vervoermiddel wordt verplaatst, met inbegrip van het eventuele toebehoren en de verpakking.
+7° lading: de vracht die door middel van een vervoermiddel wordt verplaatst, met inbegrip van het eventuele toebehoren en de verpakking;<br>
+8° havenverkeersverordening: een door de Vlaamse Regering vastgesteld reglement van bijzondere administratieve politie inzake het verkeer te land van havenvoertuigen in het havengebied;<br>
+9° havenvoertuig: een voertuig als vermeld in artikel 14bis, § 1, laatste lid, van het decreet van 2 maart 1999;<br>
+10° bevel: een onderrichting, aanwijzing, opdracht, of verbod gegeven of uitgevaardigd door een havenkapitein, haveninspecteur of havenagent ongeacht de wijze waarop dit gegeven wordt, of voorwaarden opgelegd in een door de havenkapiteinsdienst verleende vergunning of toelating.
 
 ### ART 3.
 
@@ -60,7 +63,7 @@ Als verschillende havenkapiteins benoemd of aangesteld zijn, wijst het havenbedr
 
 ### ART 10.
 
-§ 1. De havenkapiteins zijn bevoegd om ter uitvoering van de havenpolitieverordeningen bevelen te geven, inbreuken vast te stellen en er proces-verbaal van op te stellen.<br>
+§ 1. De havenkapiteins zijn bevoegd om ter uitvoering van de havenpolitieverordeningen en de havenverkeersverordeningen bevelen te geven, inbreuken vast te stellen en er proces-verbaal van op te stellen.<br>
 <br>
 Ze worden door het havenbedrijf benoemd of aangeworven, en ontslagen of uit hun functie ontheven. De beslissing van een havenbedrijf om een havenkapitein te ontslaan of uit zijn functie te ontheffen, is onderworpen aan de goedkeuring van de Vlaamse Regering. In afwachting van de goedkeuring daarvan wordt de havenkapitein tijdelijk uit zijn functie ontheven. Het besluit van de Vlaamse Regering houdende goedkeuring of weigering van ontslag of ontheffing uit de functie wordt genomen binnen negentig kalenderdagen na de ontvangst van het per aangetekende brief verstuurde verzoek tot goedkeuring van het ontslag of de ontheffing uit de functie. Als de Vlaamse Regering binnen die termijn geen beslissing heeft genomen, wordt de goedkeuring geacht te zijn verworven en is het ontslag of de ontheffing uit de functie definitief. Als de Vlaamse Regering het ontslag of de ontheffing uit de functie heeft goedgekeurd of als de termijn van negentig dagen is verstreken zonder dat de Vlaamse Regering een beslissing heeft genomen, gaat dat ontslag of die ontheffing uit de functie in op de datum van de beslissing van het havenbedrijf.<br>
 <br>
@@ -88,7 +91,7 @@ Voor zover de aard en de uitgebreidheid van de bevoegdheden van de havenkapitein
 
 Voor zover de aard en de uitgebreidheid van de bevoegdheden van de havenkapiteinsdienst dat vereisen, kan het havenbedrijf haveninspecteurs aanwerven of benoemen. De beslissing van een havenbedrijf om een haveninspecteur te ontslaan of uit zijn functie te ontheffen is onderworpen aan het advies van de havenkapitein die de leiding heeft over de havenkapiteinsdienst.<br>
 <br>
-De haveninspecteurs werken onder het gezag van een havenkapitein. Ze zijn bevoegd om ter uitvoering van de havenpolitieverordeningen bevelen te geven, inbreuken vast te stellen en er proces-verbaal van op te stellen.<br>
+De haveninspecteurs werken onder het gezag van een havenkapitein. Ze zijn bevoegd om ter uitvoering van de havenpolitieverordeningen en de havenverkeersverordeningen bevelen te geven, inbreuken vast te stellen en er proces-verbaal van op te stellen.<br>
 <br>
 De haveninspecteurs zijn in de uitoefening van hun ambtsplichten in het kader van artikel 4, eerste lid, officieren van gerechtelijke politie.<br>
 <br>
@@ -104,7 +107,7 @@ De haveninspecteurs brengen over alle andere misdrijven dan die, vermeld in arti
 <br>
 Alvorens in dienst te treden leggen de havenagenten de eed af voor de rechtbank van eerste aanleg.<br>
 <br>
-§ 2. De havenagenten zijn bevoegd om ter uitvoering van de havenpolitieverordeningen bevelen te geven, inbreuken vast te stellen en er proces-verbaal van op te stellen. Die politiebevoegdheid is beperkt tot het domein van de taakomschrijving die het havenbedrijf voor de havenagent heeft opgesteld.<br>
+§ 2. De havenagenten zijn bevoegd om ter uitvoering van de havenpolitieverordeningen en de havenverkeersverordeningen bevelen te geven, inbreuken vast te stellen en er proces-verbaal van op te stellen. Die politiebevoegdheid is beperkt tot het domein van de taakomschrijving die het havenbedrijf voor de havenagent heeft opgesteld.<br>
 <br>
 § 3. De havenagenten kunnen het vervoermiddel waarvan een overtreder vermoedelijk gebruik heeft gemaakt, aanhouden tot de tussenkomst van een havenkapitein of een haveninspecteur, die ze onmiddellijk op de hoogte brengen. Het vervoermiddel kan vervolgens onder de voorwaarden, vermeld in artikel 18, worden doorzocht.
 
@@ -116,15 +119,16 @@ De vaststellingen, gesteund op materiële bewijsmiddelen die door onbemande, aut
 
 ### ART 15.
 
-Eenieder die een schending begaat van een louter administratieve verplichting, vervat in de havenpolitieverordening, wordt gestraft met een geldboete van 25 euro tot 1000 euro. De havenpolitieverordening bepaalt welke van haar voorschriften een administratieve verplichting inhouden.<br>
+§ 1. Sanctiebepalingen van toepassing op inbreuken op de bepalingen van de havenpolitieverordeningen:<br>
+1° eenieder die een schending begaat van een louter administratieve verplichting, wordt gesanctioneerd met een geldboete van 25 euro tot 1000 euro. De havenpolitieverordeningen bepalen welke van hun voorschriften een administratieve verplichting inhouden;<br>
+2° eenieder die een uitdrukkelijk bevel van een havenkapitein, een haveninspecteur of een havenagent negeert wordt gesanctioneerd met een geldboete van 50 euro tot 2500 euro;<br>
+3° opzettelijke of door gebrek aan voorzorg of voorzichtigheid gepleegde gedragingen die in strijd zijn met de havenpolitieverordeningen, worden gesanctioneerd met een geldboete van 125 euro tot 25.000 euro;<br>
+4° als de gedragingen, vermeld in het eerste tot en met het derde lid, de veiligheid, het milieu of de exploitatie van de haven in het gedrang brengen of kunnen brengen, worden ze gesanctioneerd met een geldboete van 250 euro tot 50.000 euro.<br>
 <br>
-Eenieder die een uitdrukkelijk bevel van een havenkapitein, een haveninspecteur of een havenagent negeert, ofwel mondeling ofwel door middel van seinen, wordt gestraft met een geldboete van 50 euro tot 2500 euro.<br>
-<br>
-Andere opzettelijke of door gebrek aan voorzorg of voorzichtigheid gepleegde gedragingen die in strijd zijn met de havenpolitieverordeningen, worden gestraft met een geldboete van 125 tot 25.000 euro.<br>
-<br>
-Als de gedragingen, vermeld in het eerste tot en met het derde lid, de veiligheid, het milieu of de exploitatie van de haven in het gedrang brengen of kunnen brengen, worden ze gestraft met een geldboete van 250 euro tot 50.000 euro.<br>
-<br>
-In geval van herhaling van hetzelfde misdrijf worden de minimale en maximale straffen, vermeld in het eerste tot en met het vierde lid, verdubbeld.
+§ 2. Sanctiebepalingen van toepassing op inbreuken op de bepalingen van de havenverkeersverordeningen:<br>
+1° schendingen van administratieve procedures, of schendingen van administratieve vereisten worden gesanctioneerd met een geldboete van 25 euro tot 1000 euro. De havenverkeersverordeningen bepalen welke van hun voorschriften administratieve procedures en/of vereisten bevatten;<br>
+2° de schending van een door de havenkapiteinsdienst opgelegd bevel, of opzettelijke of door gebrek aan voorzorg gepleegde gedragingen die in strijd zijn met de havenverkeersverordeningen, zonder dat de veiligheid in het gedrang komt of schade aan de weginfrastructuur of kunstwerken en hun toebehoren wordt toegebracht, worden gesanctioneerd met een geldboete van 50 euro tot 2500 euro;<br>
+3° de schending van een door de havenkapiteinsdienst opgelegd bevel of opzettelijke of door gebrek aan voorzorg gepleegde gedragingen die in strijd zijn met de havenverkeersverordeningen, waarbij de veiligheid in het gedrang kan komen of schade aan de weginfrastructuur of kunstwerken en hun toebehoren kan worden toegebracht, worden gesanctioneerd met een geldboete van 125 euro tot 25.000 euro.
 
 ### ART 16.
 
@@ -132,13 +136,13 @@ De bepalingen van boek I van het Strafwetboek zijn zonder uitzondering toepassel
 
 ### ART 17.
 
-§ 1. Als een misdrijf als vermeld in artikel 15, eerste of tweede lid, of als een inbreuk op de verordening voor het verkeer van havenvoertuigen als vermeld in artikel 14bis, § 4, eerste lid, 1°, van het decreet van 2 maart 1999 houdende het beleid en het beheer van de zeehavens werd vastgesteld, kan de havenkapitein, de haveninspecteur of de havenagent de overtreder voorstellen het bedrag van een door de Vlaamse Regering vastgestelde geldboete onmiddellijk te betalen.<br>
+§ 1. Als een inbreuk als vermeld in artikel 15, § 1, 1° en 2°, of als vermeld in artikel 15, § 2, 1° en 2°, werd vastgesteld, kan de havenkapitein, de haveninspecteur of de havenagent de overtreder voorstellen het bedrag van een door de Vlaamse Regering vastgestelde geldboete onmiddellijk te betalen.<br>
 <br>
-De Vlaamse Regering bepaalt de nadere regels voor die onmiddellijke inning, waaronder het bedrag voor onmiddellijke inning van de geldboete, in verhouding tot de aard, de omvang en de ernst van de inbreuk. Het bedrag voor onmiddellijke inning van de geldboete voor een individuele inbreuk bedraagt maximaal 1000 euro. De Vlaamse Regering bepaalt ook het maximumbedrag dat in het kader van een onmiddellijke inning kan worden betaald in geval van de eendaadse of meerdaadse samenloop van misdrijven.<br>
+De Vlaamse Regering bepaalt de nadere regels voor die onmiddellijke inning, waaronder het bedrag voor onmiddellijke inning van de geldboete, in verhouding tot de aard, de omvang en de ernst van de inbreuk. Het bedrag voor onmiddellijke inning van de geldboete voor een individuele inbreuk bedraagt maximaal 1000 euro. De Vlaamse Regering bepaalt ook het maximumbedrag dat in het kader van een onmiddellijke inning kan worden betaald in geval van de eendaadse of meerdaadse samenloop van inbreuken.<br>
 <br>
 De Vlaamse Regering bepaalt de termijn waarbinnen de overtreder die geldboete moet betalen en de wijze waarop die betaling kan gebeuren.<br>
 <br>
-§ 2. Voor zover het gaat om een misdrijf als vermeld in artikel 15, derde of vierde lid, of een inbreuk op de verordening voor het verkeer van havenvoertuigen als vermeld in artikel 14bis, § 4, eerste lid, 2°, van het decreet van 2 maart 1999 of voor zover het gaat om een misdrijf of een samenloop van misdrijven waarvoor geen onmiddellijke inning van de geldboete met toepassing van paragraaf 1 kan worden voorgesteld, kan de havenkapitein het bedrag van de geldboete bepalen. Die geldboete mag niet meer bedragen dan het maximumbedrag van de geldboete, vermeld in artikel 15, derde, vierde of vijfde lid, verhoogd met de opdeciemen, en moet in verhouding staan tot de aard, de omvang en de ernst van het misdrijf. De Vlaamse Regering bepaalt de termijn waarbinnen de overtreder de geldboete uiterlijk moet betalen en de wijze waarop die betaling kan gebeuren. De betalingstermijn die de Vlaamse Regering heeft vastgesteld, bedraagt ten minste vijftien dagen en ten hoogste drie maanden.<br>
+§ 2. Voor zover het gaat om een inbreuk als vermeld in artikel 15, § 1, 3° en 4°, of als vermeld in artikel 15, § 2, 3°, of voor zover het gaat om een inbreuk of een samenloop van inbreuken waarvoor geen onmiddellijke inning van de geldboete met toepassing van paragraaf 1 kan worden voorgesteld, kan de havenkapitein het bedrag van de geldboete bepalen. Die geldboete mag niet meer bedragen dan het maximumbedrag van de geldboete, vermeld in artikel 15, § 1, 3° en 4°, en § 2, 3°, verhoogd met de opdeciemen, en moet in verhouding staan tot de aard, de omvang en de ernst van de inbreuk. De Vlaamse Regering bepaalt de termijn waarbinnen de overtreder de geldboete uiterlijk moet betalen en de wijze waarop die betaling kan gebeuren. De betalingstermijn die de Vlaamse Regering heeft vastgesteld, bedraagt ten minste vijftien dagen en ten hoogste drie maanden.<br>
 <br>
 § 3. Indien de overtreder met inachtneming van de bepalingen, vermeld in paragraaf 1 en 2, overgaat tot de betaling van de daarin vermelde som, heeft die betaling verval van strafvordering tot gevolg, behalve indien het openbaar ministerie binnen drie maanden, te rekenen vanaf de dag van de betaling, de overtreder op de hoogte brengt van zijn voornemen om een andere straf te vorderen dan de geldboete die de havenkapitein, de haveninspecteur of de havenagent heeft opgelegd en onverminderd het recht dat de benadeelde partij heeft om voor het strafgerecht de vergoeding van de veroorzaakte schade te eisen.<br>
 <br>
@@ -146,7 +150,7 @@ Het recht om aan de overtreder de betaling van een geldboete voor te stellen waa
 <br>
 Indien de overtreder niet tijdig overgaat tot betaling, wordt hij geacht de geldboete niet te hebben aanvaard en is er geen verval van strafvordering.<br>
 <br>
-§ 4. De overtreder kan bovendien verplicht worden een borg te stellen of een bepaalde som te storten als waarborg voor de eventuele invordering van de geldboeten en/of van de schadevergoedingen waartoe hij kan worden veroordeeld.<br>
+§ 4. De overtreder kan bovendien verplicht worden een borg te stellen of een bepaalde som te storten als waarborg voor de eventuele invordering van de geldboeten en/of schadevergoedingen waartoe hij kan worden veroordeeld. De Vlaamse Regering stelt hiervoor de nadere regels vast.<br>
 <br>
 Bij onmogelijkheid of weigering om aan die verplichting te voldoen kan het vervoermiddel waarmee de overtreding begaan werd, door de havenkapiteins aangehouden worden.<br>
 <br>
@@ -160,7 +164,27 @@ In geval van voorwaardelijke veroordeling wordt de geheven som terugbetaald of w
 <br>
 De gewaarborgde som voor de geldboetes of het in beslag genomen voertuig wordt opnieuw vrijgegeven nadat het openbaar ministerie beslist heeft geen vervolging in te stellen, of als de strafvordering vervallen of verjaard is.<br>
 <br>
-§ 6. De havenkapiteins houden op expliciet verzoek van de betrokken instantie ook een vervoermiddel aan ten laste waarvan geldboeten of andere schuldvorderingen van de Vlaamse Gemeenschap, van het Vlaamse Gewest of van een havenbedrijf die niet deugdelijk werden gewaarborgd, zijn blijven bestaan. In dat geval wordt de gezagvoerder, dan wel de eigenaar of beheerder van het aangehouden vervoermiddel schriftelijk op de hoogte gebracht van de reden waarom het vervoermiddel niet mag vertrekken.
+§ 6. De havenkapiteins houden op expliciet verzoek van de betrokken instantie ook een vervoermiddel aan ten laste waarvan geldboeten of andere schuldvorderingen van de Vlaamse Gemeenschap, van het Vlaamse Gewest of van een havenbedrijf die niet deugdelijk werden gewaarborgd, zijn blijven bestaan. In dat geval wordt de gezagvoerder, dan wel de eigenaar of beheerder van het aangehouden vervoermiddel schriftelijk op de hoogte gebracht van de reden waarom het vervoermiddel niet mag vertrekken.<br>
+<br>
+§ 7. Wanneer een inbreuk op de havenpolitieverordeningen of de havenverkeersverordeningen is begaan met een vaartuig of een (haven)voertuig dat is ingeschreven op naam van een natuurlijke persoon, en de gezagvoerder respectievelijk de bestuurder bij de vaststelling van de inbreuk niet werd geïdentificeerd, wordt verondersteld dat de inbreuk is begaan door diegene op wiens naam:<br>
+1° het IMO-nummer van het zeeschip (IMO: Internationale Maritieme Organisatie) of het ENI-nummer van het binnenschip (ENI: European Number of Identification) is geregistreerd;<br>
+2° de kentekenplaat van het voertuig is geregistreerd;<br>
+3° het havenvoertuig bij de havenkapiteinsdienst geregistreerd is als eigenaar van het havenvoertuig.<br>
+<br>
+Deze veronderstelde overtreder kan dit vermoeden weerleggen door met elk middel te bewijzen dat hij niet de gezagvoerder van het vaartuig of de bestuurder van het (haven)voertuig was op het ogenblik van de inbreuk en hij moet de identiteit van de onmiskenbare gezagvoerder of bestuurder meedelen. De onmiskenbare gezagvoerder of bestuurder wordt dan beschouwd als aangeduide overtreder.<br>
+<br>
+§ 8. Wanneer een inbreuk op de havenpolitieverordeningen of de havenverkeersverordeningen is begaan met een vaartuig of een (haven)voertuig dat is geregistreerd op naam van een rechtspersoon, en de gezagvoerder respectievelijk de bestuurder bij de vaststelling van de inbreuk niet werd geïdentificeerd, wordt verondersteld dat de inbreuk is begaan door de natuurlijke persoon die in rechte de rechtspersoon vertegenwoordigt, op wiens naam:<br>
+1° het IMO-nummer van het zeeschip of het ENI-nummer van het binnenschip is geregistreerd;<br>
+2° de kentekenplaat van het voertuig is geregistreerd; of<br>
+3° het havenvoertuig bij de havenkapiteinsdienst geregistreerd is als eigenaar van het havenvoertuig.<br>
+<br>
+Deze veronderstelde overtreder kan dit vermoeden weerleggen door met elk middel te bewijzen dat hij niet de gezagvoerder van het vaartuig of de bestuurder van het (haven)voertuig was op het ogenblik van de inbreuk. Hij moet de identiteit meedelen van de onmiskenbare gezagvoerder of bestuurder op het ogenblik van de inbreuk. De onmiskenbare gezagvoerder of bestuurder wordt dan beschouwd als aangeduide overtreder.<br>
+<br>
+§ 9. De werkgever is burgerrechtelijk aansprakelijk voor de betaling van de geldboetes en kosten waartoe zijn lasthebbers of aangestelden zijn veroordeeld.<br>
+<br>
+§ 10. De opdrachtgever en de verlader worden met toepassing van de sanctiebepalingen voorzien in artikel 15, § 2, beboet als ze instructies hebben gegeven of daden hebben gesteld die hebben geleid tot een inbreuk op een havenverkeersverordening.<br>
+<br>
+§ 11. De Vlaamse Regering stelt de verdere uitvoeringsmodaliteiten inzake termijnen en procedure vast voor de toepassing van paragrafen 7 en 8.
 
 ### ART 18.
 
