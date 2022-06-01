@@ -108,6 +108,18 @@ Als de vergunninghouder binnen of gedurende een jaar geen gebruik gemaakt heeft 
 
 ## HOOFDSTUK VIII RETRIBUTIEVRIJSTELLINGEN
 
+### ART. 22.
+
+[Zijn vrijgesteld van variabele en vaste retributie:<br>
+<br>
+1° de tijdelijke activiteiten van sociale, culturele, pedagogische, caritatieve, godsdienstige, sportieve en recreatieve aard;<br>
+<br>
+2° de tijdelijke aankondigingen van de activiteiten, genoemd in 1°, evenals de politieke affichage;<br>
+<br>
+3° de bestendige constructies van algemeen belang, zoals openbare verlichting, rioleringen, hydranten, straatmeubilair, op voorwaarde dat de gemeente ze in het kader van artikel 135 van de Nieuwe Gemeentewet heeft aangebracht, of dat een vervoermaatschappij ze heeft aangebracht, en voorzover ze op geen enkele wijze inkomsten opbrengen;<br>
+<br>
+4° de toegangen tot woningen. (verv. B.V.R. 25 juni 2004, art. 4, I: 10 september 2004) ]
+
 ## HOOFDSTUK IX BESTAANDE VERGUNNINGEN EN REGULARISATIES
 
 ### ART. 23.
