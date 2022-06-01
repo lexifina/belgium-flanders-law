@@ -504,27 +504,11 @@ Als een dossier dat persoonsgegevens als vermeld in het eerste lid bevat, is ver
 
 ### ART 50.
 
-In dit hoofdstuk wordt verstaan onder:<br>
-1° havenbedrijf: een havenbedrijf als vermeld in artikel 2, 1°, van het decreet van 2 maart 1999 betreffende het beleid en het beheer van de zeehavens;<br>
-2° waterweg: een in het Vlaamse Gewest gelegen bevaarbare waterloop of kanaal, met inbegrip van aanhorigheden, maar met uitsluiting van de havengebieden beheerd en geëxploiteerd door de havenbedrijven;<br>
-3° waterwegbeheerder: de overheid die een of meer waterwegen beheert, of haar gemachtigde.
+...
 
 ### ART 51.
 
-§ 1. De waterwegbeheerder of het havenbedrijf kan toelating geven voor het uitvoeren, binnen het gebied dat de waterwegbeheerder of het havenbedrijf beheert, van experimenten of pilootprojecten, waaronder het uitvoeren van proefreizen, waarbij gebruik wordt gemaakt van innovatieve systemen. Dergelijke systemen omvatten onder meer geautomatiseerde systemen in vaartuigen of aan wal.<br>
-<br>
-De waterwegbeheerder of het havenbedrijf kan daarbij, voor zover noodzakelijk, tijdelijke afwijkingen toelaten van bepalingen van wetten, decreten of uitvoeringsbesluiten die betrekking hebben op de bemanning en het besturen van het vaartuig, de technische kenmerken of uitrusting van het vaartuig, de regeling van het scheepvaartverkeer en de voorschriften met betrekking tot de activiteiten aan boord en aan wal.<br>
-<br>
-De afwijkingen, vermeld in het tweede lid, kunnen geen betrekking hebben op bepalingen over toezicht en handhaving en op bepalingen van strafrechtelijke aard. Zij hebben een maximale geldingsduur van één jaar en kunnen in functie van de noden worden hernieuwd, zonder dat de totale geldingsduur van een afwijking vijf jaren mag overschrijden.<br>
-<br>
-§ 2. Bij de toelating voor de experimenten of pilootprojecten, vermeld in paragraaf 1, worden in ieder geval de volgende zaken bepaald:<br>
-1° wat het doel van de experimenten of de pilootprojecten is;<br>
-2° op welke waterwegen, waterwegweggedeelten of delen van het havengebied de experimenten of de pilootprojecten worden uitgevoerd;<br>
-3° voor welke termijn de toelating geldt;<br>
-4° van welke regels kan worden afgeweken en, voor zover relevant, onder welke voorwaarden afwijkingen zijn toegestaan;<br>
-5° welke veiligheidsmaatregelen voor de uitvoering van de experimenten of de pilootprojecten worden getroffen.<br>
-<br>
-§ 3. De waterwegbeheerder of het havenbedrijf kan de toelating geheel of gedeeltelijk intrekken als naar zijn oordeel de veiligheid als gevolg of mede als gevolg van de experimenten of de pilootprojecten in gevaar komt.
+...
 
 ## HOOFDSTUK 4. Slotbepaling
 
