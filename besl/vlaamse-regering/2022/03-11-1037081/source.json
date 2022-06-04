@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037081,
+  "title": "Besluit van de Vlaamse Regering van 2022-03-11 tot wijziging van artikel 23 van het besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding, wat betreft het maximale aantal te erkennen verenigingen waar armen het woord nemen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037081/VolledigDocument?datum=2022-06-04",
+  "source_sha256": "bbd8851fbf96afa302b819c404dd4076e8c2fe63e35b565967a42b9b8f26c826",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037081&param=informatie",
+  "as_of": "2022-06-04",
+  "made": "2022-03-11",
+  "gazette": "2022-05-25",
+  "numac": 2022031555,
+  "document_start": "2022-06-04",
+  "document_end": null,
+  "in_force": "2022-06-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-06-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
