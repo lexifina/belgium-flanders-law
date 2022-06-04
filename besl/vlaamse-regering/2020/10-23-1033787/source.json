@@ -2,16 +2,16 @@
   "codex_id": 1033787,
   "title": "Besluit van de Vlaamse Regering van 2020-10-23 houdende maatregelen voor het Vlaamse woonbeleid ten gevolge van de beperkende coronavirusmaatregelen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033787/VolledigDocument?datum=2021-06-23",
-  "source_sha256": "7b9a31e3a8e056f675c399feadf30223dea934048bdb2fca139a3e86380a2037",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033787/VolledigDocument?datum=2022-06-04",
+  "source_sha256": "fff696f4be448e7cf94e82f7ec14f3d685276e25350e863aabd02be17187b162",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033787&param=informatie",
-  "as_of": "2021-06-23",
+  "as_of": "2022-06-04",
   "made": "2020-10-23",
   "gazette": "2020-11-03",
   "numac": 2020043446,
   "document_start": "2020-11-03",
   "document_end": null,
-  "in_force": "2021-06-23",
+  "in_force": "2022-06-04",
   "article_versions": 66,
-  "record_form": "consolidated version as in force on 2021-06-23; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-06-04; future article versions excluded; article text as the API gives it"
 }

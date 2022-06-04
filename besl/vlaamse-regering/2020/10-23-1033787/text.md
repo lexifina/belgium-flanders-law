@@ -412,17 +412,13 @@ In afwijking van artikel 5.33, § 1, eerste lid, van het Besluit Vlaamse Codex W
 
 ### ART 57.
 
-De kredietgever, vermeld in artikel 5.117, eerste lid, 3°, van het Besluit Vlaamse Codex Wonen van 2021, kan aan de ontlener kosteloos betalingsuitstel toestaan als de ontlener aantoont dat zijn inkomsten zijn gedaald als gevolg van de coronavirusmaatregelen of als gevolg van het ziekteverlof door het coronavirus. De ontlener krijgt dan een betalingsuitstel van maximaal zes maanden waarbij geen kapitaal of interesten worden afgelost. Als de ontlener na het verstrijken van die termijn kan aantonen dat zijn inkomsten nog steeds gedaald zijn als gevolg van de coronavirusmaatregelen of als gevolg van het ziekteverlof door het coronavirus, kan het betalingsuitstel met drie maanden worden verlengd. De verlenging van de periode van betalingsuitstel met drie maanden kan herhaaldelijk na elkaar worden aangevraagd door de ontlener. De interesten tijdens de periode van betalingsuitstel zijn achteraf niet verschuldigd. Na de periode van betalingsuitstel wordt de looptijd van de lening verlengd met het aantal maanden van betalingsuitstel.<br>
-<br>
-In afwijking van artikel 5.127, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021 kan na het toestaan van betalingsuitstel de looptijd van de lening meer dan 360 maanden bedragen en moet de lening niet volledig zijn terugbetaald in het jaar waarin de jongste ontlener 75 jaar wordt.
+...
 
 ## Onderafdeling 7. [... (opgeh. BVR 22 april 2022, art. 1, I: 4 juni 2022)]
 
 ### ART 58.
 
-De kredietgever, vermeld in artikel 5.137, eerste lid, 3°, van het Besluit Vlaamse Codex Wonen van 2021, aanvaardt een daling van het inkomen als gevolg van de coronavirusmaatregelen of als gevolg van het ziekteverlof door het coronavirus als uitzonderlijk geval om een uitstel van betaling als vermeld in artikel 5.146, § 2, tweede lid, van het voormelde besluit, toe te staan. De ontlener krijgt dan een betalingsuitstel van maximaal zes maanden waarbij geen kapitaal wordt afgelost. Als de ontlener na het verstrijken van die termijn kan aantonen dat zijn inkomsten nog steeds gedaald zijn als gevolg van de coronavirusmaatregelen of als gevolg van het ziekteverlof door het coronavirus, kan het betalingsuitstel met drie maanden worden verlengd. De verlenging van de periode van betalingsuitstel met drie maanden kan herhaaldelijk na elkaar worden aangevraagd door de ontlener. Na de periode van betalingsuitstel wordt de looptijd van de lening verlengd met het aantal maanden van betalingsuitstel.<br>
-<br>
-In afwijking van artikel 5.146, § 1, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021, kan na het toestaan van betalingsuitstel de looptijd van de lening meer dan 24 maanden bedragen.
+...
 
 ## Afdeling 6. Behandelingstermijnen bij bijeenkomsten van de beoordelingscommissie
 
