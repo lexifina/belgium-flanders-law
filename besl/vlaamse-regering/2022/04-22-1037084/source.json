@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037084,
+  "title": "Besluit van de Vlaamse Regering van 2022-04-22 tot opheffing van artikel 57 en 58 van het besluit van de Vlaamse Regering van 23 oktober 2020 houdende maatregelen voor het Vlaamse woonbeleid ten gevolge van de beperkende coronavirusmaatregelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037084/VolledigDocument?datum=2022-06-04",
+  "source_sha256": "25a5e23b9e0113c2dc3034d84de80ff72ed863b28f955584c09037820aa72404",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037084&param=informatie",
+  "as_of": "2022-06-04",
+  "made": "2022-04-22",
+  "gazette": "2022-05-25",
+  "numac": 2022031936,
+  "document_start": "2022-06-04",
+  "document_end": null,
+  "in_force": "2022-06-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-06-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
