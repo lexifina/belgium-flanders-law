@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037080,
+  "title": "Besluit van de Vlaamse Regering van 2022-03-11 tot wijziging van het besluit van de Vlaamse Regering van 20 oktober 2000 tot bepaling van de voorwaarden voor de toekenning van subsidies aan gemeenten voor de opmaak van gemeentelijke ruimtelijke uitvoeringsplannen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037080/VolledigDocument?datum=2022-06-04",
+  "source_sha256": "c32df081893bdffdb16b92ce66e3728ae2dfd03511f7afea4d4db099760aaf65",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037080&param=informatie",
+  "as_of": "2022-06-04",
+  "made": "2022-03-11",
+  "gazette": "2022-05-25",
+  "numac": 2022031554,
+  "document_start": "2022-06-04",
+  "document_end": null,
+  "in_force": "2022-06-04",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2022-06-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
