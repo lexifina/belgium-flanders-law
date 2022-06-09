@@ -28,8 +28,7 @@ Dit decreet regelt gemeenschaps- en gewestaangelegenheden.<br /><br />
 17° zware onderzoeksinfrastructuur: de onderzoeksinfrastructuur waarvan de totale financieringskosten meer dan 1.000.000 euro bedragen dat ondergrensbedrag kan worden aangepast door de Vlaamse Regering;<br>
 18° interface-activiteiten: de bevordering van de samenwerking tussen de associatie en het bedrijfsleven, de economische valorisatie van het onderzoek dat de associatie uitvoert, of de oprichting van spin-offbedrijven;<br>
 19° steunpunt voor beleidsrelevant onderzoek: een entiteit van één initiërende associatie, universiteit, hogeschool of instelling voor postinitieel onderwijs in de Vlaamse Gemeenschap;<br>
-20° onderzoekscentrum : een organisatie voor onderzoek en kennisverspreiding als vermeld in artikel 2, punt 83, van verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard.<br>
-&nbsp;</p>
+20° onderzoekscentrum : een organisatie voor onderzoek en kennisverspreiding als vermeld in artikel 2, punt 83, van verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard, gevestigd in het Vlaamse Gewest en of dienstverlenend aan de Vlaamse Gemeenschap.</p>
 
 ### ART. 2/1.
 
@@ -42,21 +41,40 @@ Alle instellingen, vermeld in dit decreet, schrijven zich in in het   beleidspla
 ### ART 2/3.
 
 In dit artikel wordt verstaan onder:<br>
-1° instelling: de universiteiten, hogescholen en de instellingen vermeld in dit decreet;<br>
-2° Flanders Research Information Space, afgekort FRIS: de informatieruimte waarin onderzoeksinformatie kan doorstromen op een transparante en geautomatiseerde manier, en kan worden uitgewisseld en ontsloten op een open en herbruikbare manier;<br>
-3° onderzoeksinformatie: informatie over elke wetenschappelijke activiteit die tot doel heeft wetenschappelijke kennis te ontwikkelen (fundamenteel onderzoek), wetenschappelijke of technologische capaciteit uit te bouwen (strategisch basis-onderzoek), kennis toepasbaar te maken (toepassingsgericht onderzoek) en ze toe te passen (ontwikkeling), over de medewerkers betrokken bij het onderzoek, over de (disseminatie van de) resultaten van deze wetenschappelijke activiteiten, samen met de onderlinge samenhang tussen deze informatie.<br>
+1° Flanders Research Information Space, afgekort FRIS: de informatieruimte van en in beheer bij het Departement Economie, Wetenschap en Innovatie, waarin onderzoeksinformatie kan doorstromen op een transparante en geautomatiseerde manier, en kan worden uitgewisseld en ontsloten op een open en herbruikbare manier;<br>
+2° onderzoeksinformatie: de volgende informatie:<br>
+a) informatie over elke wetenschappelijke activiteit die tot doel heeft wetenschappelijke kennis te ontwikkelen, wetenschappelijke of technologische capaciteit uit te bouwen, kennis toepasbaar te maken en ze toe te passen;<br>
+b) informatie over de medewerkers en de onderzoeksgroepen die bij het onderzoek zijn betrokken;<br>
+c) informatie over de resultaten en de disseminatie van de resultaten van die wetenschappelijke activiteiten, met minimaal informatie over de publicaties, projecten, patenten, datasets, en over onderzoeksinfrastructuur, samen met de onderlinge samenhang tussen die informatie.<br>
 <br>
-Er wordt een overzicht bijgehouden en publiek gemaakt van onderzoeksinformatie uit onderzoek dat gefinancierd is met publieke middelen om de volgende doelstellingen te bereiken:<br>
-1° de bevordering van innovatie;<br>
-2° effectievere en efficiëntere beleidsvoering;<br>
-3° administratieve vereenvoudiging;<br>
-4° transparantie voor de burger.<br>
+Er wordt een overzicht bijgehouden van onderzoeksinformatie uit onderzoek dat gefinancierd is met publieke middelen om de volgende doelstellingen te bereiken:<br>
+1° een eenvoudige en open toegang tot onderzoeksinformatie garanderen in het kader van het Open Wetenschapsbeleid volgens de principes van open data en maximaal hergebruik van informatie;<br>
+2° innovatie bevorderen door:<br>
+a) de visibiliteit van onderzoek en wetenschappelijke expertise te vergroten;<br>
+b) informatie sneller te laten doorstromen tussen onderzoeksinstellingen en innoverende bedrijven en hun respectievelijke onderzoekers;<br>
+3° een effectievere en efficiëntere beleidsvoering op alle beleidsniveaus, inclusief beleidsvoorbereiding, beleidsmonitoring en monitoring van de inzet van en de controle op de correcte aanwending van de publieke middelen, beleidsrapportering en beleidsevaluatie;<br>
+4° de administratieve vereenvoudiging volgens het principe van de eenmalige bevraging;<br>
+5° transparantie voor de burger;<br>
+6° in het tweede lid wordt verstaan onder publieke middelen: middelen afkomstig uit de Vlaamse, federale en/of Europese begroting.<br>
 <br>
-Alle instellingen die beschikken over onderzoeksinformatie over publiek gefinancierd onderzoek, leveren die onderzoeksinformatie aan FRIS om de doelstellingen, vermeld in het tweede lid, te bereiken.<br>
+De universiteiten, hogescholen en alle instellingen, vermeld in dit decreet, die beschikken over onderzoeksinformatie over publiek gefinancierd onderzoek, bezorgen die onderzoeksinformatie aan FRIS om de doelstellingen, vermeld in het tweede lid, te bereiken.<br>
 <br>
-Een deel van de overeenkomstig lid 3 aan te leveren onderzoeksinformatie zal persoonsgegevens bevatten die beschermd zijn door de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens. Deze persoonsgegevens zullen enkel verwerkt worden voor het bereiken van de doelstellingen, vermeld in het tweede lid, en enkel opgevraagd en verwerkt worden indien noodzakelijk voor het bereiken van deze doelstellingen.<br>
+De volgende categorieën van persoonsgegevens als vermeld in artikel 4, 1), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), in de onderzoeksinformatie, vermeld in het vierde lid, worden alleen verwerkt voor de doelstellingen, vermeld in het tweede lid:<br>
+1° persoonlijke identificatiegegevens;<br>
+2° professionele contactgegevens;<br>
+3° persoonlijke kenmerken met minimaal informatie over geslacht, nationaliteit, gegevens over de wetenschappelijke expertise, de wetenschappelijke projecten (inclusief datasets en onderzoeksinfrastructuur) en de resultaten ervan.<br>
 <br>
-De Vlaamse Regering sluit met de instellingen een overeenkomst af die nadere afspraken vastlegt voor de aanlevering van die onderzoeksinformatie.
+De onderzoeksinformatie, vermeld in het vierde lid, wordt publiek gemaakt via het FRIS-portaal en als open data, met uitzondering van:<br>
+1° de informatie over de nationaliteit en het geslacht van de onderzoekers;<br>
+2° de informatie over de financiële middelen.<br>
+<br>
+De bevoegde dienst bezorgt periodieke rapporteringen en ad-hocstatistieken op basis van de onderzoeksinformatie, vermeld in het vierde lid, aan federale en Europese overheden, financieringsorganisaties, instellingen en burgers. Die gegevens worden, waar mogelijk, op een geaggregeerd niveau verschaft.<br>
+<br>
+Onderzoeksinformatie, vermeld in het vierde lid, wordt bewaard voor onbepaalde termijn, met uitzondering van:<br>
+1° professionele contactgegevens en gerelateerde expertise-opsommingen, die worden bewaard tot twee jaar na de uitdiensttreding van de onderzoeker;<br>
+2° gegevens over de nationaliteit en het geslacht van de onderzoeker, die worden bewaard tot 25 jaar nadat de instellingen, vermeld in het vierde lid, ze aan de bevoegde dienst, vermeld in het vijfde lid, hebben bezorgd.<br>
+<br>
+De Vlaamse Regering sluit met de instellingen overeenkomsten af die nadere afspraken vastleggen voor de aanlevering van die onderzoeksinformatie.
 
 ## TITEL II AGENTSCHAPPEN [... (geschr. Decr. 15 maart 2019, art. 9, I: 18 april 2019)] VAN HET WETENSCHAPS- EN INNOVATIEBELEID
 
@@ -199,13 +217,30 @@ Het Bestuursdecreet is op het FWO van toepassing.<br>
 
 ### ART. 16.
 
-Jaarlijks worden in de algemene uitgavenbegroting voor wat betreft het FWO   behalve een werkingsbudget ook afzonderlijke vastleggingsmachtigingen   ingeschreven waarop verbintenissen kunnen worden aangegaan voor :<BR>1° het   fundamenteel onderzoek;<BR>2° het strategisch basisonderzoek   (projecten/mandaten);<BR>3° het klinisch-wetenschappelijk onderzoek;<BR>4° de   investeringen in zware, middelzware en bijzondere   onderzoeksinfrastructuur.<BR><BR>
+Jaarlijks worden in de algemene uitgavenbegroting voor wat betreft het FWO behalve een werkingsbudget ook afzonderlijke vastleggingsmachtigingen ingeschreven waarop verbintenissen kunnen worden aangegaan voor :<br>
+1° het fundamenteel onderzoek;<br>
+2° het strategisch basisonderzoek (projecten/mandaten);<br>
+3° het klinisch-wetenschappelijk onderzoek;<br>
+4° de investeringen in zware, middelzware en&nbsp;internationale onderzoeksinfrastructuur.<br>
+&nbsp;
 
 ## Afdeling III Missie en taken
 
 ### ART. 17.
 
-§ 1. Het FWO ondersteunt en stimuleert door financiële steun :<BR>1° het   fundamenteel wetenschappelijk onderzoek in alle wetenschappelijke disciplines in   de Vlaamse universiteiten en hogeronderwijsinstellingen die door de Codex Hoger   Onderwijs van 11 oktober 2013 worden belast met wetenschappelijk onderzoek, al   dan niet in het kader van samenwerkingsverbanden met andere   onderzoekscentra;<BR>2° het strategisch basisonderzoek in Vlaamse   onderzoekscentra, met inbegrip van samenwerkingsverbanden met andere   onderzoekscentra, waarbij een onderscheid gemaakt wordt tussen projecten met een   economisch doel en projecten met een maatschappelijk doel;<BR>3° het   klinisch-wetenschappelijk onderzoek;<BR>4° de aanschaf en inzet van middelzware   onderzoeksinfrastructuur voor wetenschappelijk onderzoek in de   universiteiten;<BR>5° de aanschaf en inzet van zware onderzoeksinfrastructuur   voor de Vlaamse universiteiten, de hogeronderwijsinstellingen die door de Codex   Hoger Onderwijs van 11 oktober 2013 worden belast met wetenschappelijk   onderzoek, en de strategische onderzoekscentra;<BR>6° het beheer van grote   rekencapaciteit.<BR><BR>§ 2. Het FWO kan eigen activiteiten ontwikkelen die   verenigbaar zijn met zijn maatschappelijk doel. De raad van bestuur van het FWO   beslist vrij en, in voorkomend geval, overeenkomstig de bepalingen van de   samenwerkingsovereenkomst, over de marktconforme tariefstructuren voor die   activiteiten.<BR><BR>§ 3. Het FWO draagt bij tot de voorbereiding van het   wetenschaps- en innovatiebeleid van de Vlaamse Regering.<BR><BR>Het FWO verleent   advies over voorontwerpen van decreet en ontwerpen van besluit van de Vlaamse   Regering over aangelegenheden die behoren tot de missie en taakstelling van het   FWO.
+§ 1. Het FWO ondersteunt en stimuleert door financiële steun :<br>
+1° het fundamenteel wetenschappelijk onderzoek in alle wetenschappelijke disciplines in de Vlaamse universiteiten en hogeronderwijsinstellingen die door de Codex Hoger Onderwijs van 11 oktober 2013 worden belast met wetenschappelijk onderzoek, al dan niet in het kader van samenwerkingsverbanden met andere onderzoekscentra;<br>
+2° het strategisch basisonderzoek in Vlaamse onderzoekscentra, met inbegrip van samenwerkingsverbanden met andere onderzoekscentra, waarbij een onderscheid gemaakt wordt tussen projecten met een economisch doel en projecten met een maatschappelijk doel;<br>
+3° het klinisch-wetenschappelijk onderzoek;<br>
+4° de aanschaf en inzet van middelzware onderzoeksinfrastructuur voor wetenschappelijk onderzoek in de universiteiten;<br>
+5° de aanschaf en inzet van zware of internationale onderzoeksinfrastructuur voor de Vlaamse universiteiten, de hogeronderwijsinstellingen die door de Codex Hoger Onderwijs van 11 oktober 2013 worden belast met wetenschappelijk onderzoek, en de strategische onderzoekscentra;<br>
+6° het beheer van grote rekencapaciteit.<br>
+<br>
+§ 2. Het FWO kan eigen activiteiten ontwikkelen die verenigbaar zijn met zijn maatschappelijk doel. De raad van bestuur van het FWO beslist vrij en, in voorkomend geval, overeenkomstig de bepalingen van de samenwerkingsovereenkomst, over de marktconforme tariefstructuren voor die activiteiten.<br>
+<br>
+§ 3. Het FWO draagt bij tot de voorbereiding van het wetenschaps- en innovatiebeleid van de Vlaamse Regering.<br>
+<br>
+Het FWO verleent advies over voorontwerpen van decreet en ontwerpen van besluit van de Vlaamse Regering over aangelegenheden die behoren tot de missie en taakstelling van het FWO.
 
 ### ART. 18.
 
@@ -216,7 +251,7 @@ Jaarlijks worden in de algemene uitgavenbegroting voor wat betreft het FWO   beh
 4° het bevorderen van mobiliteit, internationale contacten en samenwerkingsverbanden;<br>
 5° het aantrekken van excellente onderzoekers die actief zijn in het buitenland;<br>
 6° het verlenen van wetenschappelijke prijzen;<br>
-7° de subsidiëring van middelzware en zware onderzoeksinfrastructuur, met inbegrip van cofinanciering in geval van europese en internationale investerings|Upprogramma's;<br>
+7° de subsidiëring van middelzware, zware en internationale&nbsp;onderzoeksinfrastructuur, met inbegrip van cofinanciering in geval van europese en internationale investerings|Upprogramma's;<br>
 8° het beheer en de cofinanciering van de technische installatie en de technische exploitatie van TIER1-computerinfrastructuur aan een universiteit;<br>
 9° de cofinanciering van TIER2-computerinfrastructuur in universiteiten of asso|Upciaties.<br>
 <br>
@@ -281,13 +316,13 @@ Ten hoogste vijf van de leden, vermeld in het eerste lid, 1° tot en met 5°, mo
 <br>
 De Vlaamse Regering kan nadere regels bepalen voor de voordrachtenregelingen, vermeld in het eerste lid, 1° tot 6°.<br>
 <br>
-§ 2. De onafhankelijke bestuurders, vermeld in paragraaf 1, 7°, beschikken over deskundigheid op het vlak van het algemeen bestuur van het agentschap en over specifieke deskundigheid met betrekking tot de missie en de taken van het agentschap, vermeld in artikel 17 en 18. De onafhankelijke bestuurders zijn bovendien afkomstig uit het bedrijfsleven en zijn vertrouwd met het wetenschaps- en innovatiebeleid.<br>
+§ 2. De onafhankelijke bestuurders, vermeld in paragraaf 1, 7°, beschikken over deskundigheid op het vlak van het algemeen bestuur van het agentschap en over specifieke deskundigheid met betrekking tot de missie en de taken van het agentschap, vermeld in artikel 17 en 18. De onafhankelijke bestuurders zijn bovendien afkomstig uit het bedrijfsleven&nbsp;of de socialprofitsector en zijn vertrouwd met het wetenschaps- en innovatiebeleid.<br>
 <br>
 Ze zijn onafhankelijk ten aanzien van het Vlaamse Gewest, de Vlaamse Gemeenschap, de universiteiten, de strategische onderzoekscentra en de secretaris-generaal. Om die onafhankelijkheid te bepalen, zijn de criteria uit de corporate- governancecode voor beursgenoteerde bedrijven richtinggevend.<br>
 <br>
 De raad van bestuur stelt de vereisten vast waaraan kandidaten voor het mandaat van onafhankelijk bestuurder moeten voldoen op het vlak van bekwaamheden, kennis en ervaring en doet een open oproep tot kandidaatstelling voor een mandaat van onafhankelijk bestuurder. Die oproep bevat een weergave van de vereisten waaraan kandidaten moeten voldoen en regelt de wijze van kandidaatstelling, waarbij minstens een curriculum vitae wordt voorgelegd.<br>
 <br>
-De raad van bestuur vergelijkt de respectieve verdiensten van de kandidaten.<br>
+De raad van bestuur vergelijkt de respectieve verdiensten van de kandidaten.&nbsp;Maximum één onafhankelijke bestuurder afkomstig uit de socialprofitsector kan worden aangesteld.<br>
 <br>
 De onafhankelijke bestuurders worden uit lijsten van twee kandidaten per vacant mandaat door de Vlaamse Regering aangesteld, op voordracht van de raad van bestuur.<br>
 <br>
@@ -443,10 +478,10 @@ De Vlaamse Regering ziet erop toe dat de algemene werking van het FWO vijfjaarli
 De Vlaamse Regering is onder de voorwaarden, vermeld in dit hoofdstuk, gemachtigd om deel te nemen aan de strategische onderzoekscentra.<br>
 <br>
 Een strategisch onderzoekscentrum is één van de hiernavolgende organisaties :<br>
-1° de naamloze vennootschap Vlaamse Instelling voor Technologisch Onderzoek, opgericht bij de notariële akte van 12 juni 1991, waarvan het maatschappelijk doel gericht is op het verrichten van strategisch basisonderzoek in de domeinen energie, leefmilieu, materialen en aardobservatie met het oog op het stimuleren van duurzame ontwikkeling en het versterken van het economische en maatschappelijke weefsel in Vlaanderen;<br>
-2° de vereniging zonder winstoogmerk Flanders Make, ontstaan door integrale statutenwijziging op de buitengewone algemene vergadering van Flanders Mechatronics Technology Centre vzw van 8 mei 2014, waarvan het maatschappelijk doel is gericht op de langetermijnversterking van de internationale competitiviteitspositie van de Vlaamse maakindustrie door het uitvoeren van industriegedreven, precompetitief, excellent, strategisch en toegepast onderzoek met het oog op valorisatie, in de domeinen mechatronica, productontwikkelingsmethodes en geavanceerde productietechnologieën;<br>
-3° de vereniging zonder winstoogmerk Interuniversitair Micro-elektronicacentrum, opgericht bij de notariële akte van 16 januari 1984, waarvan het maatschappelijk doel gericht is op het verrichten van strategisch onderzoek op het gebied van micro-elektronica, nanotechnologie, ontwerpmethodes en technologieën voor ICT-systemen;<br>
-4° de vereniging zonder winstoogmerk Vlaams Interuniversitair Instituut voor Biotechnologie, opgericht bij de notariële akte van 6 juli 1995, waarvan het maatschappelijk doel gericht is op het verrichten van biomoleculair strategisch basisonderzoek in de levenswetenschappen, met als oogmerk het verhogen van de kennis van de levensprocessen en -systemen en het vertalen van die kennis in economische groei en wetenschappelijke vooruitgang.<br>
+1° de naamloze vennootschap Vlaamse Instelling voor Technologisch Onderzoek, opgericht bij de notariële akte van 12 juni 1991, waarvan het voorwerp gericht is op het verrichten van strategisch basisonderzoek in de domeinen energie, leefmilieu, materialen en aardobservatie met het oog op het stimuleren van duurzame ontwikkeling en het versterken van het economische en maatschappelijke weefsel in Vlaanderen;<br>
+2° de vereniging zonder winstoogmerk Flanders Make, ontstaan door integrale statutenwijziging op de buitengewone algemene vergadering van Flanders Mechatronics Technology Centre vzw van 8 mei 2014, waarvan het&nbsp;voorwerp is gericht op de langetermijnversterking van de internationale competitiviteitspositie van de Vlaamse maakindustrie door het uitvoeren van industriegedreven, precompetitief, excellent, strategisch en toegepast onderzoek met het oog op valorisatie, in de domeinen mechatronica, productontwikkelingsmethodes en geavanceerde productietechnologieën;<br>
+3° de vereniging zonder winstoogmerk Interuniversitair Micro-elektronicacentrum, opgericht bij de notariële akte van 16 januari 1984, waarvan het voorwerp&nbsp;gericht is op het verrichten van strategisch onderzoek op het gebied van micro-elektronica, nanotechnologie, ontwerpmethodes en technologieën voor ICT-systemen;<br>
+4° de vereniging zonder winstoogmerk Vlaams Interuniversitair Instituut voor Biotechnologie, opgericht bij de notariële akte van 6 juli 1995, waarvan het voorwerp gericht is op het verrichten van biomoleculair strategisch basisonderzoek in de levenswetenschappen, met als oogmerk het verhogen van de kennis van de levensprocessen en -systemen en het vertalen van die kennis in economische groei en wetenschappelijke vooruitgang.<br>
 <br>
 De Vlaamse Regering kan bijkomende verenigingen zonder winstoogmerk, stichtingen of vennootschappen met sociaal oogmerk als strategisch onderzoekscentrum erkennen.
 
@@ -485,15 +520,25 @@ De Vlaamse Regering ziet erop toe dat de algemene werking van de   strategische 
 
 ### ART. 36.
 
-Voor de niet-geregelde aangelegenheden bij dit decreet of bij de statuten van de Vlaamse Instelling voor Technologisch Onderzoek, afgekort de VITO, zijn de bepalingen van de gecoördineerde wetten op de handelsvennootschappen die betrekking hebben op de naamloze vennootschappen, van toepassing.<br /><br />
+Voor de niet-geregelde aangelegenheden bij dit decreet of bij de statuten van de Vlaamse Instelling voor Technologisch Onderzoek, afgekort de VITO, zijn de bepalingen van&nbsp;het Wetboek van vennootschappen en verenigingen die betrekking hebben op de naamloze vennootschappen, van toepassing.<br>
+&nbsp;
 
 ### ART. 37.
 
-Teneinde haar maatschappelijke doel te realiseren, vermeld in artikel 29, tweede lid, 1°, heeft de VITO de volgende taken :<br />1° de noodzakelijke kennis en ervaring op een structurele wijze uitbouwen, onder meer door het uitvoeren van eigen onderzoeks- en ontwikkelingsactiviteiten, al dan niet met medefinanciering door derden;<br />2° het uitvoeren van de door de overheid vastgestelde referentietaken, waarvan de precieze aard, de doelstelling en de wijze van vergoeding bij beheersreglement, vastgesteld bij besluit van de Vlaamse Regering, worden bepaald;<br />3° voor de Vlaamse overheid en publieke organisaties en instellingen buiten de Vlaamse overheid op contractuele basis beleidsgerichte onderzoeksprojecten uitvoeren, specifieke diensten verlenen en technisch-wetenschappelijke adviezen en beleidsaanbevelingen formuleren;<br />4° voor private organisaties of personen op contractuele basis onderzoeksprojecten uitvoeren en specifieke diensten verlenen;<br />5° de kennis en onderzoeksresultaten volgens de meest geëigende weg beschermen en valoriseren.<br /><br />
+Teneinde haar voorwerp te realiseren, vermeld in artikel 29, tweede lid, 1°, heeft de VITO de volgende taken :<br>
+1° de noodzakelijke kennis en ervaring op een structurele wijze uitbouwen, onder meer door het uitvoeren van eigen onderzoeks- en ontwikkelingsactiviteiten, al dan niet met medefinanciering door derden;<br>
+2° het uitvoeren van de door de overheid vastgestelde referentietaken, waarvan de precieze aard, de doelstelling en de wijze van vergoeding bij beheersreglement, vastgesteld bij besluit van de Vlaamse Regering, worden bepaald;<br>
+3° voor de Vlaamse overheid en publieke organisaties en instellingen buiten de Vlaamse overheid op contractuele basis beleidsgerichte onderzoeksprojecten uitvoeren, specifieke diensten verlenen en technisch-wetenschappelijke adviezen en beleidsaanbevelingen formuleren;<br>
+4° voor private organisaties of personen op contractuele basis onderzoeksprojecten uitvoeren en specifieke diensten verlenen;<br>
+5° de kennis en onderzoeksresultaten volgens de meest geëigende weg beschermen en valoriseren.<br>
+&nbsp;
 
 ### ART. 38.
 
-VITO kan binnen de perken van haar doel instellingen, verenigingen en ondernemingen oprichten, erin deelnemen of zich erin laten vertegenwoordigen.<br /><br />VITO kan binnen de perken van haar doel eveneens deelnemen aan tijdelijke ondernemingsvormen, zoals verenigingen, groepen of vakbonden.<br /><br />
+VITO kan binnen de perken van haar voorwerp instellingen, verenigingen en ondernemingen oprichten, erin deelnemen of zich erin laten vertegenwoordigen.<br>
+<br>
+VITO kan binnen de perken van haar&nbsp;voorwerp eveneens deelnemen aan tijdelijke ondernemingsvormen, zoals verenigingen, groepen of vakbonden.<br>
+&nbsp;
 
 ### ART. 39.
 
@@ -517,11 +562,25 @@ De Vlaamse Regering kan aan de leningen van de VITO de gewestwaarborg verlenen.<
 
 ### ART. 44.
 
-De financiële middelen van de VITO bestaan naast het eigen vermogen en daarmee gelijkgestelde middelen uit :<br />1° een jaarlijkse toelage, overeenkomstig het gesloten convenant;<br />2° vergoedingen en inkomsten die verband houden met het uitoefenen van werken, leveringen en diensten voor derden;<br />3° schenkingen en legaten;<br />4° opbrengsten van eigen vermogen, toevallige ontvangsten en overige inkomsten.<br /><br />De VITO organiseert zich zodat op elk moment voldaan wordt aan de vereisten, vermeld in richtlijn 80/723/EEG van 25 juni 1980 betreffende de doorzichtigheid in de financiële betrekkingen tussen lidstaten en openbare bedrijven en de financiële doorzichtigheid binnen bepaalde ondernemingen, zoals tot op heden gewijzigd.<br /><br />
+De financiële middelen van de VITO bestaan naast het eigen vermogen en daarmee gelijkgestelde middelen uit :<br>
+1° een jaarlijkse toelage, overeenkomstig het gesloten convenant;<br>
+2° vergoedingen en inkomsten die verband houden met het uitoefenen van werken, leveringen en diensten voor derden;<br>
+3° schenkingen en legaten;<br>
+4° opbrengsten van eigen vermogen, toevallige ontvangsten en overige inkomsten.<br>
+<br>
+De VITO organiseert zich zodat op elk moment voldaan wordt aan de vereisten, vermeld in&nbsp;richtlijn 2006/111/EG van 16 november 2006&nbsp;betreffende de doorzichtigheid in de financiële betrekkingen tussen lidstaten en openbare bedrijven en de financiële doorzichtigheid binnen bepaalde ondernemingen, zoals tot op heden gewijzigd.<br>
+&nbsp;
 
 ### ART. 45.
 
-De algemene vergadering bestaat uit de aandeelhouders.<br /><br />Tenzij met toepassing van artikel 36, anders is bepaald, geeft elk aan-deel recht op één stem.<br /><br />De stemrechtbeperking, vermeld in artikel 76 van de gecoördineerde wetten op de handelsvennootschappen, is niet van toepassing.<br /><br />De rechtspersonen-aandeelhouders worden ieder vertegenwoordigd door één daartoe aangestelde gevolmachtigde.<br /><br />
+De algemene vergadering bestaat uit de aandeelhouders.<br>
+<br>
+Tenzij met toepassing van artikel 36, anders is bepaald, geeft elk aan-deel recht op één stem.<br>
+<br>
+De stemrechtbeperking, vermeld in artikel 7:55 van het Wetboek van vennootschappen en verenigingen, is niet van toepassing.<br>
+<br>
+De rechtspersonen-aandeelhouders worden ieder vertegenwoordigd door één daartoe aangestelde gevolmachtigde.<br>
+&nbsp;
 
 ### ART. 46.
 
@@ -537,11 +596,13 @@ De Vlaamse Regering stelt de raad van bestuur van de naamloze vennootschap VITO 
 
 ### ART. 49.
 
-De raad van bestuur benoemt en ontslaat de gedelegeerd bestuurder. Hij kan alleen worden ontslagen bij besluit van twee derde van de leden van de raad van bestuur. De benoeming en het ontslag moeten bovendien ter bekrachtiging voorgelegd worden aan de Vlaamse Regering.<br /><br />
+De raad van bestuur benoemt en ontslaat het ondernemingshoofd. Hij kan alleen worden ontslagen bij besluit van twee derde van de leden van de raad van bestuur. De benoeming en het ontslag moeten bovendien ter bekrachtiging voorgelegd worden aan de Vlaamse Regering.<br>
+&nbsp;
 
 ### ART. 50.
 
-De rechten en plichten van de gedelegeerd bestuurder worden vastgesteld in een overeenkomst die wordt gesloten tussen de VITO, voor wie de raad van bestuur optreedt, en de gedelegeerd bestuurder.<br /><br />
+De rechten en plichten van het ondernemingshoofd worden vastgesteld in een overeenkomst die wordt gesloten tussen de VITO, voor wie de raad van bestuur optreedt, en het ondernemingshoofd.<br>
+&nbsp;
 
 ### ART. 51.
 
@@ -735,9 +796,92 @@ De voorwaarden voor een nieuw convenant worden onder meer bepaald door de result
 
 ## [HOOFDSTUK VI. EnergyVille (ing. Decr. 25 maart 2022, art. 18, I: 9 juni 2022)]
 
+### ART 56/1/3.
+
+Binnen de beschikbare begrotingskredieten draagt de Vlaamse Regering met een jaarlijkse subsidie bij in de werking van de stichting van openbaar nut EnergyVille, opgericht bij notariële akte van 21 oktober 2020, om het wetenschappelijk onderzoek naar duurzame energie en energiesystemen op nationaal en internationaal vlak te bevorderen en te coördineren.<br>
+<br>
+Voor de middelen die worden toegekend aan EnergyVille, sluiten de Vlaamse Regering en EnergyVille een vijfjarige convenant af waarin ten minste de volgende elementen zijn opgenomen:<br>
+1° de modaliteiten waaronder de Vlaamse Regering de subsidies verleent;<br>
+2° de strategische en operationele doelstellingen van de instelling;<br>
+3° de geplande resultaten, de stakeholdergroep waarvoor resultaten bedoeld zijn, de onderzoeksgroepen die worden betrokken en een bijbehorende tijdslijn;<br>
+4° de betalingsregeling voor de jaarlijkse subsidie van het Vlaamse Gewest of de Vlaamse Gemeenschap;<br>
+5° de financiële bepalingen over de aanwending van de subsidies;<br>
+6° een rapporteringsmechanisme en een mechanisme dat bestemd is voor de opvolging van de werking;<br>
+7° de maatregelen in geval van niet-naleving van het convenant;<br>
+8° de gevallen waarin en de wijze waarop het convenant tijdens de looptijd ervan kan worden gewijzigd;<br>
+9° de duur en de opzeggings- en verlengingsmogelijkheden van het convenant.<br>
+<br>
+Vóór het lopende convenant verstrijkt, evalueert de Vlaamse Regering de activiteiten die EnergyVille uitvoert met de middelen, vermeld in het eerste lid. Die evaluatie gebeurt aan de hand van de strategische en operationele doelstellingen en indicatoren die vastgelegd zijn in het convenant.<br>
+<br>
+De voorwaarden voor een nieuw convenant worden onder meer bepaald door de resultaten van de evaluatie, vermeld in het derde lid.
+
 ## [HOOFDSTUK VII. Vlaamse wetenschappelijke instellingen (ing. Decr. 25 maart 2022, art. 20, I: 9 juni 2022)]
 
+### ART 56/1/4.
+
+De volgende instellingen worden aangewezen als Vlaamse wetenschappelijke instelling:<br>
+1° het Instituut voor Natuur- en Bosonderzoek (INBO), opgericht bij het besluit van de Vlaamse Regering van 23 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Instituut voor Natuur- en Bosonderzoek;<br>
+2° het Instituut voor Landbouw-, Visserij- en Voedingsonderzoek (ILVO), opgericht bij het besluit van de Vlaamse Regering van 9 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Instituut voor Landbouw- en Visserijonderzoek;<br>
+3° het extern verzelfstandigd agentschap EVA Koninklijk Museum voor Schone Kunsten Antwerpen vzw (KMSKA), opgericht bij het decreet van 26 januari 2018 tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Koninklijk Museum voor Schone Kunsten Antwerpen in de vorm van een vereniging zonder winstoogmerk;<br>
+4° het Vlaams Instituut voor Onroerend Erfgoed (VIOE), opgericht bij het besluit van de Vlaamse Regering van 14 mei 2004 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Vlaams Instituut voor het Onroerend Erfgoed;<br>
+5° extern verzelfstandigd agentschap het Agentschap Plantentuin Meise (APM), opgericht bij het decreet van 6 december 2013 houdende de oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Agentschap Plantentuin Meise";<br>
+6° het Waterbouwkundig Laboratorium (WL) van het Departement Mobiliteit en Openbare Werken, vermeld in artikel 28, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
+<br>
+De Vlaamse Regering kan naast de instellingen, vermeld in het eerste lid, bijkomende instellingen of delen van instellingen binnen de Vlaamse overheid als Vlaamse wetenschappelijke instelling aanwijzen, als de instelling in kwestie beantwoordt aan al de volgende vereisten:<br>
+1° de missie en de taken betreffen in hoofdzaak het verrichten van wetenschappelijk onderzoek, al dan niet met inbegrip van wetenschappelijke dienstverlening, en disseminatie van de onderzoeksresultaten;<br>
+2° de uitgevoerde onderzoeksactiviteiten en de geleverde wetenschappelijke diensten zijn relevant voor beleidsthema's van de Vlaamse overheid, worden behartigd door het betrokken beleidsdomein en worden in alle onafhankelijkheid door eigen diensten uitgevoerd;<br>
+3° de aansturing, opvolging en controle van de wetenschappelijke instelling gebeurt door de functioneel bevoegde minister. Een jaarlijks ondernemingsplan of een beheersovereenkomst toont de onderzoekstaak en programma's aan;<br>
+4° de Vlaamse wetenschappelijke instelling beschikt over een substantiële kritische massa.".
+
 ## [HOOFDSTUK VIII. Beleidskader voor een industrieel klimaattransitieprogramma: bevordering van de transitie tot een CO2-arme en koolstofcirculaire Vlaamse industrie (ing. Decr. 25 maart 2022, art. 22, I: 9 juni 2022)]
+
+### ART 56/1/5.
+
+Het Vlaamse beleid voor de transitie van de Vlaamse industrie tot een CO<sub>2</sub>-arme en koolstofcirculaire industrie vereist een gecoördineerd en participatief beleid. In dat beleid staat de Vlaamse Regering in voor:<br>
+1° het proces van voorbereiding, opmaak, uitvoering, rapportering en evaluatie van de Vlaamse strategie over de industriële klimaattransitie, vermeld in artikel 51/1/6;<br>
+2° het beleidsdomeinoverschrijdend overleg binnen de Vlaamse overheid;<br>
+3° de betrokkenheid van en het overleg met de maatschappelijke actoren;<br>
+4° het ondersteunen van de ontwikkeling en toepassing van de benodigde nieuwe technologieën met het oog op het langetermijnonderzoek en de doorgroei naar implementatie ervan.<br>
+<br>
+Hierbij houdt ze rekening met het Europese en het internationale beleid over de industriële klimaattransitie, en zorgt ze voor het nodige overleg en de nodige samenwerking met het federale bestuursniveau en het bestuursniveau van de andere gewesten.
+
+### ART 56/1/6.
+
+Het Vlaams programma voor de industriële klimaattransitie is coherent en beleidsdomeinoverschrijdend. Het wordt bepaald in een vijfjaarlijkse programmanota. Die programmanota bevat de volgende elementen:<br>
+1° een evaluatie van de uitvoering van de aflopende Vlaamse programmanota die is goedgekeurd in de vorige parlementaire legislatuur;<br>
+2° een analyse van de huidige situatie, de verwachte maatschappelijke ontwikkelingen, trends en risico's op het vlak van de industriële klimaattransitie;<br>
+3° de lange- en middellangetermijnvisie en -doelstellingen voor het klimaattransitieprogramma;<br>
+4° de operationele kortetermijndoelstellingen en de prioritaire beleidsopties en acties voor de lopende regeerperiode.<br>
+<br>
+Het Vlaams programma voor de industriële klimaattransitie besteedt bijzondere aandacht aan de Europese en internationale dimensie van de industriële kliaattransitie.<br>
+<br>
+De Vlaamse Regering legt de ontwerpprogrammanota ter advies voor aan de Sociaal-Economische Raad van Vlaanderen, de Milieu- en Natuurraad van Vlaan deren en stuurt ze ter kennisgeving door naar de andere betrokken strategische adviesraden.<br>
+<br>
+De Vlaamse Regering bepaalt het Vlaams programma voor de industriële klimaattransitie na overleg met de verschillende bestuursniveaus en maatschappelijke actoren.<br>
+<br>
+Uiterlijk één jaar na haar eedaflegging keurt de Vlaamse Regering het programma over de industriële klimaattransitie goed en deelt ze dat mee aan het Vlaams Parlement.<br>
+<br>
+Het Vlaams programma voor de industriële klimaattransitie kan altijd worden herzien, op initiatief van de Vlaamse Regering.<br>
+<br>
+Met het oog op een breed eigenaarschap wordt er overlegd met en gerapporteerd aan de economische en maatschappelijke actoren die het Vlaamse transitie programma ontwikkelen en uitvoeren.
+
+### ART 56/1/7.
+
+De Vlaamse Regering wijst een permanent overlegorgaan aan met de industriële partners dat de concrete invulling en sturing van het industrieel transitieprogramma opvolgt en daarover adviseert aan de Vlaamse Regering.<br>
+<br>
+Het overlegorgaan maakt een huishoudelijk reglement op en legt dat ter goedkeuring voor aan de Vlaamse Regering.<br>
+<br>
+Een vertegenwoordiger van het Agentschap Innoveren en Ondernemen neemt het voorzitterschap en de coördinatie van het overleg op.
+
+### ART 56/1/8.
+
+Het Vlaams programma voor de industriële klimaattransitie beschikt over een eigen programma binnen de algemene uitgavenbegroting.<br>
+<br>
+Binnen de perken van die beschikbare begrotingskredieten kan de Vlaamse Regering project- en/of werkingssubsidies toekennen aan organisaties voor de ondersteuning van projecten of activiteiten die invulling geven aan het Vlaams industrieel transitieprogramma.<br>
+<br>
+De middelen worden voorzien in het kader van de dotatie aan het Fonds voor Innoveren en Ondernemen.<br>
+<br>
+Het Fonds voor Innoveren en Ondernemen verdeelt de middelen onder de projecten en activiteiten. Die projecten of activiteiten zijn in overeenstemming met het Vlaams industrieel transitieprogramma, vermeld in artikel 56/1/6.
 
 ## TITEL IV HOGERONDERWIJSSECTOR
 
@@ -800,7 +944,33 @@ De Vlaamse Regering waakt erover dat de onderzoeksprestaties van de   instelling
 
 ### ART. 63/1.
 
-§ 1. Bij elke universiteit wordt één Bijzonder Onderzoeksfonds   opgericht.<BR><BR>§ 2. Een BOF is een intern bestemmingsfonds van de   universiteit, waarvan de middelen bestemd zijn voor de bevordering van het   fundamentele wetenschappelijke onderzoek in de universiteit.<BR><BR>§ 3. De   Vlaamse Regering verleent jaarlijks, binnen de perken van de   begrotingskredieten, subsidies aan de Bijzondere Onderzoeksfondsen. Een   universiteit kan op elk moment beslissen om bijkomende middelen in het BOF in te   brengen. De Vlaamse Regering kan een minimale inbreng voorschrijven.<BR><BR>§ 4.   Het universiteitsbestuur kan een bedrag uit het Bijzonder Onderzoeksfonds,   vermeld in paragraaf 1, bij het bedrag van de werkingsuitkering voegen, als   vermeld in artikel III.1, eerste lid, en III.2 van de Codex Hoger Onderwijs,   voor de dekking van de gewone uitgaven voor onderwijs, onderzoek,   maatschappelijke en wetenschappelijke dienstverlening, de financiering van   investeringen, de afbetaling van leningen en voor de administratie van de   instelling, met inbegrip van de roerende uitrustingen.<BR><BR>De Vlaamse   Regering kan een maximumpercentage vastleggen van de middelen van het Bijzonder   Onderzoeksfonds dat getransfereerd mag worden naar de werkingsuitkering en kan   aan de uitoefening van deze mogelijkheid voorwaarden verbinden ter versterking   van de verwevenheid tussen onderwijs en fundamenteel wetenschappelijk   onderzoek.<BR><BR>§ 5. Het totale bedrag van de subsidies, vermeld in paragraaf   2, wordt onder de universiteiten verdeeld naar rato van het procentuele aandeel   van elke universiteit in de som van door de Vlaamse Regering omschreven en   gewogen parameters. Die parameters hebben minstens betrekking op de prestaties   van de universiteiten inzake bibliometrie en inzake afgeleverde diploma's,   inzonderheid doctoraatsdiploma's.<BR><BR>Het bibliometrisch deel van de   BOF-sleutel bestaat uit het gewogen gemiddelde van volgende parameters :<BR>1°   het procentueel aandeel van elke universiteit in het aantal publicaties in de   volgende categorieën :<BR>a) publicaties Science Citation Index Expanded   (Thomson Reuters) of Social Sciences Citation Index (Thomson Reuters) met een   impactfactor;<BR>b) publicaties Science Citation Index Expanded (Thomson   Reuters) of Social Sciences Citation Index (Thomson Reuters) zonder een   impactfactor;<BR>c) publicaties Arts &amp; Humanities Citation Index (Thomson   Reuters);<BR>d) publicaties Conference Proceedings Citation Index-Science   (Thomson Reuters) en Conference Proceedings Citation Index - Social Sciences   &amp; Humanities (Thomson Reuters);<BR>2° het procentueel aandeel van elke   universiteit in het aantal publicaties Vlaams Academisch Bibliografisch Bestand   - Sociale en Humane Wetenschappen;<BR>3° het procentuele aandeel van elke   universiteit in het aantal citaties.<BR><BR>De Vlaamse Regering bepaalt :<BR>1°   de referentieperiode of het tijdsvenster waarin de parameters worden   gemeten;<BR>2° de gewichten van de gehanteerde parameters;<BR>3° de wijze waarop   de gegevens ter telling van de parameters worden aangeleverd en   gevalideerd;<BR>4° de criteria op basis waarvan een publicatie aantoonbaar aan   een universiteit kan worden toegewezen als ook de wijze waarop de   universiteitsbesturen de aan hen toegewezen publicaties kunnen valideren;<BR>5°   operationele telschema's en mechanismen om dubbeltellingen van publicaties uit   te sluiten.<BR><BR>De Vlaamse Regering is er ook toe gemachtigd de parameters te   verfijnen, inzonderheid door een onderscheid te maken tussen publicatietypes of   wetenschapsdisciplines.<BR><BR>§ 6. De Vlaamse Regering kan voor een   universiteit een gegarandeerde minimumdrempel voor de overheidsbijdrage aan het   Bijzonder Onderzoeksfonds van die universiteit bepalen.<BR><BR>Als voor een of   meerdere universiteiten deze gegarandeerde minimumdrempel wordt toegepast, wordt   het bedrag dat daarvoor vereist is, voorafgenomen van het totale bedrag. Het   resterende totaalbedrag wordt dan onder de andere universiteiten verdeeld   overeenkomstig de bepalingen in paragraaf 5.
+§ 1. Bij elke universiteit wordt één Bijzonder Onderzoeksfonds opgericht.<br>
+<br>
+§ 2. Een BOF is een intern bestemmingsfonds van de universiteit, waarvan de middelen bestemd zijn voor de bevordering van het fundamentele wetenschappelijke onderzoek in de universiteit.<br>
+<br>
+§ 3. De Vlaamse Regering verleent jaarlijks, binnen de perken van de begrotingskredieten, subsidies aan de Bijzondere Onderzoeksfondsen. Een universiteit kan op elk moment beslissen om bijkomende middelen in het BOF in te brengen. De Vlaamse Regering kan een minimale inbreng voorschrijven.<br>
+<br>
+§ 4. Het universiteitsbestuur kan een bedrag uit het Bijzonder Onderzoeksfonds, vermeld in paragraaf 1, bij het bedrag van de werkingsuitkering voegen, als vermeld in artikel III.1, eerste lid, en III.2 van de Codex Hoger Onderwijs, voor de dekking van de gewone uitgaven voor onderwijs, onderzoek, maatschappelijke en wetenschappelijke dienstverlening, de financiering van investeringen, de afbetaling van leningen en voor de administratie van de instelling, met inbegrip van de roerende uitrustingen.<br>
+<br>
+De Vlaamse Regering kan een maximumpercentage vastleggen van de middelen van het Bijzonder Onderzoeksfonds dat getransfereerd mag worden naar de werkingsuitkering en kan aan de uitoefening van deze mogelijkheid voorwaarden verbinden ter versterking van de verwevenheid tussen onderwijs en fundamenteel wetenschappelijk onderzoek.<br>
+<br>
+§ 5.&nbsp;Het totale bedrag van de subsidies, vermeld in de eerste zin van paragraaf 3, wordt onder de universiteiten verdeeld op basis van een verdeelsleutel die de Vlaamse Regering vaststelt. Die verdeelsleutel is opgebouwd uit de volgende drie onderdelen, die door de Vlaamse Regering worden omschreven:<br>
+1° een structureel deel;<br>
+2° een bibliometrisch deel;<br>
+3° een deel dat betrekking heeft op beleidsaccenten.<br>
+<br>
+De Vlaamse Regering bepaalt :<br>
+1° de referentieperiode of het tijdsvenster waarin de parameters worden gemeten;<br>
+2° de gewichten van de gehanteerde parameters;<br>
+3° de wijze waarop de gegevens ter telling van de parameters worden aangeleverd en gevalideerd;<br>
+4° de criteria op basis waarvan een publicatie aantoonbaar aan een universiteit kan worden toegewezen als ook de wijze waarop de universiteitsbesturen de aan hen toegewezen publicaties kunnen valideren;<br>
+5° operationele telschema's en mechanismen om dubbeltellingen van publicaties uit te sluiten.<br>
+<br>
+De Vlaamse Regering is er ook toe gemachtigd de parameters te verfijnen, inzonderheid door een onderscheid te maken tussen publicatietypes of wetenschapsdisciplines.<br>
+<br>
+§ 6. De Vlaamse Regering kan voor een universiteit een gegarandeerde minimumdrempel voor de overheidsbijdrage aan het Bijzonder Onderzoeksfonds van die universiteit bepalen.<br>
+<br>
+Als voor een of meerdere universiteiten deze gegarandeerde minimumdrempel wordt toegepast, wordt het bedrag dat daarvoor vereist is, voorafgenomen van het totale bedrag. Het resterende totaalbedrag wordt dan onder de andere universiteiten verdeeld overeenkomstig de bepalingen in paragraaf 5.
 
 ### ART. 63/2.
 
@@ -826,7 +996,15 @@ De Vlaamse Regering is er toe gemachtigd om over te gaan tot de erkenning   van 
 
 ### ART. 63/6.
 
-De opdrachten van het Expertisecentrum Onderzoek en   Ontwikkelingsmonitoring zijn:<BR>1° een performant systeem van O&amp;O- en   innovatie-indicatoren ontwikkelen en onderhouden dat de Vlaamse overheid moet   voorzien van geactualiseerde en relevante statistische data over O&amp;O- en   innovatieperformantie van de Vlaamse regio. Het ontwikkelt ook een portefeuille   van relevante wetenschappelijke onderzoeksactiviteiten ter ondersteuning van die   opdracht;<BR>2° kwantitatieve parameters berekenen in het kader van de decretale   en tijdelijke financieringskanalen van het wetenschaps- en innovatiebeleid en   van specifieke onderzoeksgerelateerde werkingstoelagen aan   hogeronderwijsinstellingen;<BR>3° in statistische gegevens voorzien over O&amp;O   en innovatie in het kader van internationale afspraken met supranationale   organisaties.<BR><BR>De Vlaamse Regering kan het Expertisecentrum Onderzoek en   Ontwikkelingsmonitoring belasten met bijzondere opdrachten.
+De opdrachten van het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring zijn:<br>
+1° een performant systeem van O&amp;O- en innovatie-indicatoren ontwikkelen en onderhouden dat de Vlaamse overheid moet voorzien van geactualiseerde en relevante statistische data over O&amp;O- en innovatieperformantie van de Vlaamse regio. Het ontwikkelt ook een portefeuille van relevante wetenschappelijke onderzoeksactiviteiten ter ondersteuning van die opdracht;<br>
+2° kwantitatieve parameters berekenen in het kader van de decretale en tijdelijke financieringskanalen van het wetenschaps- en innovatiebeleid en van specifieke onderzoeksgerelateerde werkingstoelagen aan hogeronderwijsinstellingen;<br>
+3° in statistische gegevens voorzien over O&amp;O en innovatie in het kader van internationale afspraken met supranationale organisaties.<br>
+4° het Vlaamse referentiepunt vormen op basis van evidencebased onderzoek naar de monitoring van onderzoekers in Vlaanderen en hun carrières op de academische, niet-academische, nationale en internationale arbeidsmarkt en dat vanuit verschillende perspectieven;<br>
+5° beleidsrelevant onderzoek uitvoeren ten voordele van de Vlaamse overheid, over clusters, ondernemerschap, digitale economie en strategische waardeketens. Die activiteiten monitoren en analyseren en instaan voor de ondersteuning en evaluatie van het economisch beleid ter zake;<br>
+6° een performant systeem van indicatoren ontwikkelen en onderhouden over ondernemerschap dat de Vlaamse overheid moet voorzien van geactualiseerde en relevante statistische data over de ondernemerschapscultuur en de uitdagingen en noden van jonge ondernemingen in Vlaanderen.<br>
+<br>
+De Vlaamse Regering kan het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring belasten met bijzondere opdrachten.
 
 ## [Afdeling II. Bestuur en werking (ing. decr. 25 april 2014, art. 91, I:8 september 2014)]
 
@@ -977,6 +1155,20 @@ De Vlaamse Regering verleent binnen de beschikbare begrotingskredieten   jaarlij
 ### ART. 63/22.
 
 De Vlaamse Regering ziet erop toe dat de algemene werking van de   expertisecellen, vóór het verstrijken van het lopende convenant, geëvalueerd   wordt aan de hand van de strategische en operationele doelstellingen en   indicatoren die vastgelegd zijn in het convenant.<BR><BR>De voorwaarden voor een   nieuw convenant worden onder meer bepaald door de resultaten van de   evaluatie.
+
+## [TITEL IV/2. VERWERKING VAN PERSOONSGEGEVENS DOOR HET AGENTSCHAP INNOVEREN EN ONDERNEMEN (ing. Decr. 25 maart 2022, art. 29, I: 9 juni 2022)]
+
+### ART 63/23.
+
+Het Agentschap Innoveren en Ondernemen is gemachtigd om voor de uitvoering van de taken, vermeld in artikel 4, § 1 en § 2, van het besluit van de Vlaamse Regering van 7 oktober 2005 aangaande het Agentschap Innoveren en Ondernemen, volgende verwerkingen van persoonsgegevens uit te voeren:<br>
+1° de geautomatiseerde besluitvorming, vermeld in artikel 22, lid 2, b), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrij verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
+2° de toegang tot en de mededeling van de informatiegegevens vermeld in artikel 5, § 1, van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen en het gebruik van het Rijksregisternummer, vermeld in artikel 8, § 1, van voormelde wet.<br>
+<br>
+De machtiging tot de verwerking van de persoonsgegevens, vermeld in het eerste lid, 2°, wordt ook verleend aan de vzw, vermeld in artikel 14/1, de vzw Flanders District of Creativity, vermeld in artikel 14/2, en de erkende centra, vermeld in artikel 26/2, § 1, 1°, van het decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid, als zij taken uitvoeren in opdracht van het Agentschap Innoveren en Ondernemen.<br>
+<br>
+De Vlaamse Regering stelt de aanvullende reglementering van de verwerkingen, vermeld in het eerste lid, vast overeenkomstig de verplichtingen van de toepasselijke regelgeving, vermeld in het eerste lid, en artikel 6, lid 3, van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
+<br>
+De Vlaamse Regering stelt de rechtsbasis en de essentiële elementen van de overige verwerkingen van persoonsgegevens door het Agentschap Innoveren en Ondernemen vast overeenkomstig artikel 6, lid 3, van de verordening, vermeld in het tweede lid.
 
 ## TITEL V SLOTBEPALINGEN
 
