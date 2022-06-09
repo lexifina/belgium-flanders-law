@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037100,
+  "title": "Besluit van de Vlaamse Regering van 2022-03-25 houdende indeling bij de gemeentewegen van de gewestweg N784 Heersestraat, Middelheersestraat en Opheersstraat N784 (deel) van N3 Steenweg tot Kapelstraat tussen kilometerpunt 7,280 en 9,256 op het grondgebied van de gemeente Heers",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037100/VolledigDocument?datum=2022-06-09",
+  "source_sha256": "95ce4b63911a76eb45cf14d3cf2aeb7472766eb16d22e9d7e20e667c1b1adb27",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037100&param=informatie",
+  "as_of": "2022-06-09",
+  "made": "2022-03-25",
+  "gazette": "2022-05-30",
+  "numac": 2022040774,
+  "document_start": "2022-06-09",
+  "document_end": null,
+  "in_force": "2022-06-09",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-06-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
