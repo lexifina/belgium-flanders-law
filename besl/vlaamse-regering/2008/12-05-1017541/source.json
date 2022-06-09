@@ -2,16 +2,16 @@
   "codex_id": 1017541,
   "title": "Besluit van de Vlaamse Regering van 2008-12-05 betreffende de toegankelijkheid van de bossen en de natuurreservaten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017541/VolledigDocument?datum=2019-10-03",
-  "source_sha256": "c873ebff25b26dbf87a0c901bc3a52b36251f9914b8f65d02d20d78b2880d27f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017541/VolledigDocument?datum=2022-06-09",
+  "source_sha256": "674fec83f582c11001fb23b8e182f7ce41ab1cd1eead338e6da6affeae786525",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017541&param=informatie",
-  "as_of": "2019-10-03",
+  "as_of": "2022-06-09",
   "made": "2008-12-05",
   "gazette": "2009-02-04",
   "numac": 2009035077,
   "document_start": "2009-02-14",
   "document_end": null,
-  "in_force": "2019-10-03",
+  "in_force": "2022-06-09",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2019-10-03; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-06-09; future article versions excluded; article text as the API gives it"
 }

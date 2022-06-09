@@ -61,6 +61,11 @@ Op de terreinen, vermeld in artikel 12septies, § 1, eerste lid, van het Natuurd
 2° bij deelname aan activiteiten die toegestaan zijn door of krachtens het Jachtdecreet;<br>
 3° in de daartoe voorziene hondenzones;<br>
 4° in het kader van trainingen met speurhonden door politie en operationele diensten van de civiele veiligheid.<br>
+5° bij de opleiding van geattesteerde assistentiehonden door gemachtigde assistentiehondenscholen.<br>
+<br>
+In het eerste lid wordt verstaan onder:<br>
+1° geattesteerde assistentiehonden: een hond die getraind werd of wordt om een persoon met een handicap of ziekte te begeleiden en die de zelfredzaamheid van die persoon verruimt, zoals omschreven in artikel 2, 1° van het decreet van 20 maart 2009 houdende de toegankelijkheid van publieke plaatsen voor personen met een assistentiehond;<br>
+2° gemachtigde assistentiehondenscholen: een rechtspersoon die honden opleidt tot assistentiehond en de assistentiehond toewijst aan een persoon met een handicap of ziekte waarvan de assistentiehond de zelfredzaamheid verruimt, zoals omschreven in artikel 4 van het decreet van 20 maart 2009 houdende de toegankelijkheid van publieke plaatsen voor personen met een assistentiehond.<br>
 <br>
 Andere gezelschapsdieren moeten altijd aan de leiband gehouden worden en mogen de&nbsp;openbare wegen en de private wegen niet verlaten, tenzij wanneer ze ingezet worden bij wettige vormen van jacht of bestrijding van wild en andere dieren.
 
