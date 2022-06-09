@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037099,
+  "title": "Besluit van de Vlaamse Regering van 2022-03-18 tot wijziging van artikel 1 en 2 van het besluit van de Vlaamse Regering van 13 maart 2015 houdende een verbod op het gebruik van warrelnetten en kieuwnetten in de Vlaamse strandzone ter bescherming van zeezoogdieren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037099/VolledigDocument?datum=2022-06-09",
+  "source_sha256": "532a854f3d55214e89012896a39ade1c1ea7c15bdcc9148ab4d9e8e27bde4754",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037099&param=informatie",
+  "as_of": "2022-06-09",
+  "made": "2022-03-18",
+  "gazette": "2022-05-30",
+  "numac": 2022040852,
+  "document_start": "2022-06-09",
+  "document_end": null,
+  "in_force": "2022-06-09",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-06-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
