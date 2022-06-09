@@ -6,11 +6,16 @@
 
 ### ART. 1.
 
-In   dit besluit wordt verstaan onder:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   kieuwnet: een enkelwandige visnet met een bepaalde maasgrootte, dat verticaal in   het water drijft en waarin vissen verstrikt raken met hun kieuwen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   sportvisserij: het vangen van vissen zonder professioneel karakter, louter voor   het genot of om de competitie aan te gaan met andere sportvissers;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   warrelnet: een staand net bestaande uit loshangend netwerk van licht en soepel   garen waarin vissen en schaaldieren met vinnen en stekels verward   raken;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   Vlaamse strandzone: de zone tussen de gekarteerde laagwater- en hoogwaterlijn   zoals weergegeven op de grootschalige zeekaarten uitgegeven door de bevoegde   autoriteit.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+In dit besluit wordt verstaan onder:<br>
+1° kieuwnet: een enkelwandig staand visnet dat wordt uitgezet op de bodem en waarin vissen verstrikt geraken met hun kieuwen en/of lichaam;<br>
+2° sportvisserij: het vangen van vissen zonder professioneel karakter, louter voor het genot of om de competitie aan te gaan met andere sportvissers;<br>
+3° warrelnet: een dubbelwandig of driewandig staand visnet, of een visnet waarvan de boven- en onderpees verbonden zijn met touwtjes, zodat het netwerk zakken vormt, en waarin vissen en schaaldieren met hun kieuwen, vinnen of stekels verward raken; deze netten omvatten ook warnetten of schakelnetten:<br>
+4° Vlaamse strandzone: de zone tussen de gekarteerde laagwater- en hoogwaterlijn zoals weergegeven op de grootschalige zeekaarten uitgegeven door de bevoegde autoriteit.<br>
+5° monofilament: draad die bestaat uit een enkele vezel.
 
 ### ART. 2.
 
-&nbsp;In de Vlaamse strandzone is het   verboden om in het kader van sportvisserij gebruik te maken van kieuwnetten of   warrelnetten.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+&nbsp;In de Vlaamse strandzone is het verboden om in het kader van sportvisserij gebruik te maken van kieuwnetten of warrelnetten of om het even welke netten die bestaan uit monofilament.
 
 ### ART. 3.
 
