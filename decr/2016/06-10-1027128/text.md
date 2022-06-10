@@ -14,6 +14,7 @@
 <span style="color:#000000; font-family:times new roman; font-size:medium">2° alternerende opleiding: elke opleiding van het voltijds secundair onderwijs en van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4, die door de Vlaamse Regering als duaal wordt aangeduid en elke opleiding in het deeltijds beroepssecundair onderwijs en in de leertijd. In dergelijke opleiding worden contactonderwijs bij een opleidingsverstrekker en opleiding op de werkplek gecombineerd. Beide componenten beogen samen de uitvoering van één enkel opleidingsplan en zijn daarom inhoudelijk en organisatorisch op elkaar afgestemd;</span><br>
 2° bis Departement Onderwijs en Vorming: het departement, vermeld in artikel 22, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 2° ter Departement Werk en Sociale Economie: het departement, vermeld in artikel 25, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+2° quater duale opleiding: de duale opleiding, vermeld in artikel 2, 12° bis, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
 <span style="color:#000000; font-family:times new roman; font-size:medium">3° mentor: de persoon die binnen de onderneming aangeduid wordt om de leerling op de werkplek op te leiden en te begeleiden;</span><br>
 <span style="color:#000000; font-family:times new roman; font-size:medium">4° onderneming: elke natuurlijke persoon, privaatrechtelijke of publiekrechtelijke rechtspersoon die een leerling opleidt met een overeenkomst tot uitvoering van een alternerende opleiding;</span><br>
 <span style="color:#000000; font-family:times new roman; font-size:medium">5° opleidingsplan: een plan dat het individuele leertraject van de leerling bevat;</span><br>
@@ -43,7 +44,10 @@
 8° een vertegenwoordiger van het Agentschap voor Onderwijsdiensten;<br>
 9° een vertegenwoordiger van het Departement Onderwijs en Vorming;<br>
 10° een vertegenwoordiger van het Departement Werk en Sociale Economie;<br>
-11° een vertegenwoordiger van het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties &amp; Studietoelagen.<br>
+11° een vertegenwoordiger van het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties &amp; Studietoelagen;<br>
+12° een vertegenwoordiger van het Gemeenschapsonderwijs namens het volwassenenonderwijs;<br>
+13° een vertegenwoordiger van elke representatieve vereniging van schoolbesturen van het gesubsidieerd onderwijs namens het volwassenenonderwijs;<br>
+14° een vertegenwoordiger van het Departement Onderwijs en Vorming namens het volwassenenonderwijs.<br>
 <br>
 In het eerste lid wordt onder het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties &amp; Studietoelagen verstaan: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht bij het besluit van de Vlaamse Regering van 24 april 2009 tot oprichting van het intern verzelfstandigd Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen.<br>
 <br>
@@ -53,12 +57,16 @@ De Vlaamse Regering regelt op voorstel van de Vlaamse minister, bevoegd voor het
 <br>
 De instanties, vermeld in het eerste lid, 4° tot en met 11°, duiden een effectieve en een plaatsvervangende vertegenwoordiger aan.<br>
 <br>
-Met uitzondering van de voorzitter hebben alle leden, vermeld in het eerste lid, stemrecht.<br>
+Met uitzondering van de leden, vermeld in het eerste lid, 1°, 12°, 13° en 14°, hebben alle leden, vermeld in het eerste lid, stemrecht over de bevoegdheden in het kader van de alternerende opleidingen.<br>
+<br>
+Met uitzondering van de leden, vermeld in het eerste lid, 1°, 4°, 5°, 6° en 9°, hebben alle leden, vermeld in het eerste lid, stemrecht over de bevoegdheden in het kader van de duale opleidingen.<br>
+<br>
+Met uitzondering van het lid, vermeld in het eerste lid, 1°, hebben alle leden, vermeld in het eerste lid, stemrecht over de bevoegdheden in het kader van de alternerende opleidingen en de duale opleidingen.<br>
 <br>
 § 3. Het Vlaams Partnerschap Duaal Leren heeft de volgende opdrachten:<br>
 1° een onderneming erkennen of een erkenning opheffen;<br>
 2° een onderneming uitsluiten;<br>
-3° de uitvoering van de overeenkomst tot uitvoering van een alternerende opleiding wat betreft de opleiding op de werkplek controleren;<br>
+3° de uitvoering van de overeenkomsten tot uitvoering van een alternerende opleiding en een duale opleiding wat betreft de opleiding op de werkplek controleren;;<br>
 4° een jaarlijks monitoringsrapport opmaken over de stand van zaken van het duaal leren in Vlaanderen;<br>
 5° de nodige acties nemen om de ondernemingen te informeren over het duaal leren in Vlaanderen;<br>
 6° ondernemingen ondersteunen en mobiliseren om het aanbod aan werkplekken kwantitatief en kwalitatief te versterken;<br>
@@ -95,7 +103,7 @@ De Vlaamse Regering kan een vergoeding toekennen aan de leden van het Vlaams Par
 
 ### ART 2sexies.
 
-Het Vlaams Partnerschap Duaal Leren kan voor de uitvoering van zijn opdrachten met betrekking tot de overeenkomsten tot uitvoering van de alternerende opleiding een samenwerkingsakkoord sluiten met een sectoraal partnerschap. Het samenwerkingsakkoord bepaalt de opdrachten van het sectoraal partnerschap.<br>
+Het Vlaams Partnerschap Duaal Leren kan voor de uitvoering van zijn opdrachten voor de overeenkomsten tot uitvoering van de alternerende opleiding en de duale opleiding een samenwerkingsakkoord sluiten met een sectoraal partnerschap. Het samenwerkingsakkoord bepaalt de opdrachten van het sectorale partnerschap.<br>
 <br>
 Het sectoraal partnerschap is samengesteld uit de volgende leden:<br>
 1° minstens drie vertegenwoordigers van de representatieve middenstands-, zelfstandigenen werkgeversorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
@@ -110,13 +118,22 @@ Het sectoraal partnerschap is samengesteld uit de volgende leden:<br>
 <br>
 In afwijking van het tweede lid, 1° en 2°, wordt het sectoraal partnerschap in sectoren zonder representatieve werkgevers en werknemersorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen, samengesteld uit minstens drie vertegenwoordigers van de werkgeversorganisaties en minstens drie vertegenwoordigers van de werknemersorganisaties vertegenwoordigd in de raad van bestuur van het sectorfonds van de betrokken sector.<br>
 <br>
+Als het samenwerkingsakkoord met het Vlaams Partnerschap Duaal Leren ook bevoegdheden over de overeenkomsten ter uitvoering van duale opleidingen bevat, worden, in afwijking van het tweede lid, de volgende leden toegevoegd:<br>
+1° een vertegenwoordiger van het Gemeenschapsonderwijs namens het volwassenenonderwijs;<br>
+2° een vertegenwoordiger van elke representatieve vereniging van schoolbesturen van het gesubsidieerd onderwijs namens het volwassenenonderwijs;<br>
+3° een vertegenwoordiger van het Departement Onderwijs en Vorming namens het volwassenenonderwijs.<br>
+<br>
 De instanties, vermeld in het tweede lid, duiden hun effectieve en plaatsvervangende vertegenwoordiger(s) aan.<br>
 <br>
 De leden, vermeld in het tweede lid, kiezen onder elkaar een voorzitter en een ondervoorzitter, die niet tot dezelfde geleding behoren.<br>
 <br>
-Met uitzondering van de secretaris hebben alle leden stemrecht.<br>
+Met uitzondering van de secretaris en de leden, vermeld in het vierde lid, hebben alle leden, vermeld in het tweede lid, stemrecht over de bevoegdheden in het kader van de alternerende opleidingen.<br>
 <br>
-Als het samenwerkingsakkoord met het Vlaams Partnerschap Duaal Leren ook de bevoegdheden, vermeld in artikel 2bis, § 3, eerste lid, 1°, 2° en 3°, omvat, hebben, in afwijking van het zesde lid, voor die bevoegdheden alleen de leden, vermeld in het tweede lid, 1° en 2°, stemrecht.<br>
+Met uitzondering van de secretaris en de leden, vermeld in het tweede lid, 4°, 5° en 7°, hebben alle leden, vermeld in het tweede lid en het vierde lid, stemrecht over de bevoegdheden in het kader van de duale opleidingen.<br>
+<br>
+Met uitzondering van de secretaris hebben alle leden, vermeld in het tweede lid en het vierde lid, stemrecht over de bevoegdheden in het kader van de alternerende opleidingen en de duale opleidingen.<br>
+<br>
+Als het samenwerkingsakkoord met het Vlaams Partnerschap Duaal Leren ook de bevoegdheden, vermeld in artikel 2bis, § 3, eerste lid, 1°, 2° en 3°, omvat, hebben, in afwijking van het zevende lid, voor die bevoegdheden alleen de leden, vermeld in het tweede lid, 1° en 2°, stemrecht.<br>
 <br>
 Het sectoraal partnerschap stelt een huishoudelijk reglement op.
 
@@ -459,9 +476,9 @@ In afwijking van artikel 18, tweede lid, is de onderneming in de volgende gevall
 
 ### ART 30.
 
-<span style="color:#000000; font-family:times new roman; font-size:medium">Onverminderd de vigerende decretale en reglementaire bepalingen met betrekking tot het toezicht in het onderwijs, met inbegrip van de leertijd door de onderwijsinspectie en de bevoegde onderwijsadministratie, wordt het toezicht op de uitvoering van dit decreet en de uitvoeringsbesluiten ervan uitgeoefend door het </span>Departement Werk en Sociale Economie<span style="color:#000000; font-family:times new roman; font-size:medium">.</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">Onverminderd de vigerende decretale en reglementaire bepalingen met betrekking tot het toezicht in het onderwijs, met inbegrip van de leertijd door de onderwijsinspectie en de bevoegde onderwijsadministratie, wordt het toezicht op de uitvoering van dit decreet en de uitvoeringsbesluiten ervan uitgeoefend door de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie</span><span style="color:#000000; font-family:times new roman; font-size:medium">.</span><br>
 <br>
-<span style="color:#000000; font-family:times new roman; font-size:medium">Het </span>Departement Werk en Sociale Economie<span style="color:#000000; font-family:times new roman; font-size:medium"> stelt voor de uitoefening van het toezicht een werkingscode op en maakt die bekend bij degenen bij wie toezicht wordt uitgeoefend.</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">Het in het eerste lid bedoelde toezicht verloopt met toepassing van de bepalingen van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004.</span><br>
 &nbsp;
 
 ## HOOFDSTUK 5bis Bepalingen over gegevensverwerking
