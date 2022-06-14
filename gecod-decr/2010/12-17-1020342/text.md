@@ -2019,7 +2019,26 @@ Een beslissing van de delibererende klassenraad waartegen de betrokken personen 
 
 ### ART. 115/6.
 
-§ 1. Leerlingenevaluatie strekt ertoe om, rekening houdend met het   pedagogisch project van de school, na te gaan of de leerling in voldoende mate   de doelstellingen, vastgelegd door of krachtens decreet- of regelgeving, heeft   bereikt of nagestreefd, naargelang van het geval. De leerlingenevaluatie wordt,   gespreid over het schooljaar of over de opleidingsduur, uitgevoerd door de   klassenraad en resulteert in een beslissing over het al dan niet geslaagd zijn.   Voor zover het regelmatige leerlingen en door de Vlaamse Gemeenschap erkende   structuuronderdelen betreft, kennen, in aansluiting op de beslissingen van de   klassenraad, de school- en centrumbesturen de van rechtswege geldende   studiebewijzen aan de betrokken leerlingen toe. De toekenning van die   studiebewijzen kan om geen enkele reden worden ingehouden, ook niet bij verzuim   door de betrokken personen van hun financiële verplichtingen.<BR><BR>§ 2. De   school- en centrumbesturen zijn bevoegd voor de regeling van het   evaluatiestelsel.<BR><BR>In afwijking van het eerste lid kan de Vlaamse   Regering:<BR>1° de organisatie van specifieke examens of andere   evaluatieopdrachten opleggen;<BR>2° de maximumduur bepalen van schorsing van   lessen wegens examens, andere evaluatieopdrachten of evaluatiegebonden   activiteiten;<BR>3° bepalen onder welke voorwaarden een beslissing over het al   dan niet geslaagd zijn, kan worden uitgesteld;<BR>4° het slagen voor een   structuuronderdeel afhankelijk stellen van het behalen van externe   certificering. Onder externe certificering wordt verstaan: het toekennen aan   leerlingen, voor zover ze geslaagd zijn voor bepaalde programmaonderdelen, van   studiebewijzen die buiten de onderwijsregelgeving vallen en gerelateerd zijn aan   beroepsuitoefeningvoorwaarden.<BR><BR>§ 3. De betrokken personen nemen het   evaluatieresultaat in ontvangst op een in het school- of centrumreglement   vastgelegde datum en wijze. Het school- of centrumbestuur wijkt af van die datum   voor individuele gevallen als de beslissing tot stand komt na uitstel of na   beroep; in voorkomend geval stelt het school- of centrumbestuur de betrokken   personen schriftelijk in kennis van de voorziene ontvangstdatum. Bij het niet in   ontvangst nemen door de betrokken personen wordt het evaluatieresultaat geacht   te zijn ontvangen op de voorziene ontvangstdatum.<BR><BR>§ 4. Als het   evaluatieresultaat inhoudt dat aan de leerling niet de beoogde   studiebekrachtiging wordt toegekend, dan is de school of het centrum voor   deeltijds beroepssecundair onderwijs ertoe gehouden:<BR>1° aan de betrokken   personen een schriftelijke motivering te geven;<BR>2° de betrokken personen   schriftelijk te verwijzen naar de mogelijkheid tot beroep met overeenkomstige   procedure doch enkel mits voorafgaandelijk overleg, vermeld in 3°, te hebben   gepleegd;<BR>3° met de betrokken personen te overleggen op hun vraag.<BR><BR>Het   overleg, bedoeld in 3°, vindt plaats tussen de directeur of zijn afgevaardigde   en de betrokken personen binnen een redelijke termijn nadat die laatsten het   evaluatieresultaat in ontvangst hebben genomen. Die termijn wordt in het school-   of centrumreglement bepaald. Van het overleg wordt een schriftelijke neerslag   gemaakt. Het overleg kan ertoe leiden dat de directeur of zijn afgevaardigde   beslist om de klassenraad opnieuw te laten samenkomen. Nadat de klassenraad al   dan niet aan de leerling bijkomende proeven of opdrachten heeft opgelegd,   beslist diezelfde klassenraad om het oorspronkelijk evaluatieresultaat te   bevestigen of door een ander evaluatieresultaat te vervangen. De betrokken   personen nemen de beslissing om de klassenraad niet opnieuw te laten samenkomen,   dan wel de beslissing van de klassenraad die opnieuw is samengekomen in   ontvangst. Bij het niet in ontvangst nemen op de voorziene datum door de   betrokken personen wordt de beslissing geacht te zijn ontvangen.<BR><BR>§ 5. In   afwijking van paragraaf 1 kennen de school- en centrumbesturen de van rechtswege   geldende studiebewijzen eveneens toe in uitvoering van de beslissingen van   beroepscommissies die worden genomen naar aanleiding van beroepen die door   betrokken personen zijn ingediend.
+§ 1. ...<br>
+<br>
+§ 2. De school- en centrumbesturen zijn bevoegd voor de regeling van het evaluatiestelsel.<br>
+<br>
+In afwijking van het eerste lid kan de Vlaamse Regering:<br>
+1° de organisatie van specifieke examens of andere evaluatieopdrachten opleggen;<br>
+2° de maximumduur bepalen van schorsing van lessen wegens examens, andere evaluatieopdrachten of evaluatiegebonden activiteiten;<br>
+3° bepalen onder welke voorwaarden een beslissing over het al dan niet geslaagd zijn, kan worden uitgesteld;<br>
+4° het slagen voor een structuuronderdeel afhankelijk stellen van het behalen van externe certificering. Onder externe certificering wordt verstaan: het toekennen aan leerlingen, voor zover ze geslaagd zijn voor bepaalde programmaonderdelen, van studiebewijzen die buiten de onderwijsregelgeving vallen en gerelateerd zijn aan beroepsuitoefeningvoorwaarden.<br>
+<br>
+§ 3. De betrokken personen nemen het evaluatieresultaat in ontvangst op een in het school- of centrumreglement vastgelegde datum en wijze. Het school- of centrumbestuur wijkt af van die datum voor individuele gevallen als de beslissing tot stand komt na uitstel of na beroep; in voorkomend geval stelt het school- of centrumbestuur de betrokken personen schriftelijk in kennis van de voorziene ontvangstdatum. Bij het niet in ontvangst nemen door de betrokken personen wordt het evaluatieresultaat geacht te zijn ontvangen op de voorziene ontvangstdatum.<br>
+<br>
+§ 4. Als het evaluatieresultaat inhoudt dat aan de leerling niet de beoogde studiebekrachtiging wordt toegekend, dan is de school of het centrum voor deeltijds beroepssecundair onderwijs ertoe gehouden:<br>
+1° aan de betrokken personen een schriftelijke motivering te geven;<br>
+2° de betrokken personen schriftelijk te verwijzen naar de mogelijkheid tot beroep met overeenkomstige procedure doch enkel mits voorafgaandelijk overleg, vermeld in 3°, te hebben gepleegd;<br>
+3° met de betrokken personen te overleggen op hun vraag.<br>
+<br>
+Het overleg, bedoeld in 3°, vindt plaats tussen de directeur of zijn afgevaardigde en de betrokken personen binnen een redelijke termijn nadat die laatsten het evaluatieresultaat in ontvangst hebben genomen. Die termijn wordt in het school- of centrumreglement bepaald. Van het overleg wordt een schriftelijke neerslag gemaakt. Het overleg kan ertoe leiden dat de directeur of zijn afgevaardigde beslist om de klassenraad opnieuw te laten samenkomen. Nadat de klassenraad al dan niet aan de leerling bijkomende proeven of opdrachten heeft opgelegd, beslist diezelfde klassenraad om het oorspronkelijk evaluatieresultaat te bevestigen of door een ander evaluatieresultaat te vervangen. De betrokken personen nemen de beslissing om de klassenraad niet opnieuw te laten samenkomen, dan wel de beslissing van de klassenraad die opnieuw is samengekomen in ontvangst. Bij het niet in ontvangst nemen op de voorziene datum door de betrokken personen wordt de beslissing geacht te zijn ontvangen.<br>
+<br>
+§ 5. De school -en centrumbesturen kennen de van rechtswege geldende studiebewijzen toe in uitvoering van de evaluatiebeslissingen van klassenraden of, in voorkomend geval, de beslissingen van beroepscommissies die worden genomen naar aanleiding van beroepen die door betrokken personen zijn ingediend.
 
 ### ART 115/7.
 
@@ -4316,7 +4335,7 @@ a) hetzij aan alle onderstaande voorwaarden voldoet :<br>
 1) beantwoorden aan de toelatingsvoorwaarden tot het leerjaar waarin de leerling is ingeschreven;<br>
 2) van zodra met de effectieve lesbijwoning wordt gestart, de vorming van dit leerjaar volledig en daadwerkelijk volgen, behoudens in geval van gewettigde afwezigheid;<br>
 b) hetzij aan alle onderstaande voorwaarden voldoet :<br>
-1) voldoen aan de toelatingsvoorwaarden tot een eerste leerjaar van de eerste graad van het secundair onderwijs, zoals bepaald in Hoofdstuk III van het besluit van de Vlaamse Regering van 19 juli 2002 betreffende de organisatie van het voltijds secundair onderwijs;<br>
+1) voldoen aan de toelatingsvoorwaarden tot een eerste leerjaar van de eerste graad van het secundair onderwijs;<br>
 2) beschikken over een verslag, als bepaald in artikel 294, en het individueel aangepast curriculum dat voor hem of haar is bepaald door de klassenraad werkelijk en regelmatig volgen, behoudens in geval van gewettigde afwezigheid.<br>
 3) ....<br>
 <br>
@@ -6181,6 +6200,15 @@ De Vlaamse Regering legt de lijst van studiebewijzen vast die uitgereikt kunnen 
 
 In een duaal structuuronderdeel hebben gepaste en redelijke aanpassingen voor een leerling met specifieke onderwijsbehoeften als vermeld in artikel 136/2, zowel betrekking op de schoolcomponent als op de werkplekcomponent. De klassenraad werkt daarvoor op een systematische, planmatige en transparante wijze samen met het centrum voor leerlingenbegeleiding, de betrokken personen en, voor de aanpassingen op de werkplek, met de onderneming. De Vlaamse Regering kan voorzien in een ondersteuning van de werkgever om eventuele gepaste en redelijke aanpassingen door te voeren.
 
+### ART 357/19/1.
+
+Artikel 357/9, § 1, artikel 357/10 tot en met 357/13, artikel 357/14, eerste en tweede lid, artikel 357/16 en artikel 357/18 houden op uitwerking te hebben ingevolge de modernisering van het secundair onderwijs op de volgende data:<br>
+1° 14 juni 2022: in het eerste leerjaar van de tweede graad;<br>
+2° 31 augustus 2022: in het tweede leerjaar van de tweede graad;<br>
+3° 31 augustus 2023: in het eerste leerjaar van de derde graad;<br>
+4° 31 augustus 2024: in het tweede leerjaar van de derde graad;<br>
+5° 31 augustus 2025: in het derde leerjaar van de derde graad.
+
 ## [TITEL 6. ARBEIDSDEELNAME (ing. decr. 30 maart 2018, art. 34, I: 1 september 2019)]
 
 ### ART 357/20.
@@ -6597,7 +6625,7 @@ Bij de toepassing van artikel 281 worden duale structuuronderdelen niet in aanme
 
 ### ART 357/65.
 
-Artikel 357/9 is ook van toepassing op de duale structuuronderdelen van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4.<br>
+§ 1. Artikel 357/9 is ook van toepassing op de duale structuuronderdelen van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4.<br>
 <br>
 Artikel 357/10 is ook van toepassing op de duale structuuronderdelen van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4.<br>
 <br>
@@ -6611,7 +6639,32 @@ Artikel 357/16 en 357/17 zijn ook van toepassing op de duale structuuronderdelen
 <br>
 Artikel 357/18 is ook van toepassing op de duale structuuronderdelen van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4, met dit verschil dat voor opleidingsvorm 3 moet worden aangevuld dat het behalen van de eindstudiebekrachtiging op het einde van de kwalificatiefase of de integratiefase niet tot gevolg mag hebben dat een leerling vóór het jaar waarin hij de leeftijd van achttien jaar bereikt, zijn opleiding of deelname aan het leerplichtonderwijs beëindigt.<br>
 <br>
-Artikel 357/19 is ook van toepassing op de duale structuuronderdelen van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4, als de aanpassingen de werkplekcomponent betreffen.
+Artikel 357/19 is ook van toepassing op de duale structuuronderdelen van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4, als de aanpassingen de werkplekcomponent betreffen.<br>
+<br>
+§ 2. De bepalingen in paragraaf 1 houden op uitwerking te hebben ingevolge de modernisering van het secundair onderwijs op de volgende data:<br>
+1° 14 juni 2022: in het eerste leerjaar van de tweede graad;<br>
+2° 31 augustus 2022: in het tweede leerjaar van de tweede graad;<br>
+3° 31 augustus 2023:<br>
+a) in het eerste leerjaar van de derde graad;<br>
+b) in het eerste leerjaar van de kwalificatiefase;<br>
+4° 31 augustus 2024:<br>
+a) in het tweede leerjaar van de derde graad;<br>
+b) in het tweede leerjaar van de kwalificatiefase;<br>
+5° 31 augustus 2025:<br>
+a) in het derde leerjaar van de derde graad;<br>
+b) in de integratiefase.<br>
+<br>
+§ 3. Artikel 357/9 is ook van toepassing op de duale structuuronderdelen van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4.<br>
+<br>
+Artikel 357/14 is ook van toepassing op de duale structuuronderdelen van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4.<br>
+<br>
+Artikel 357/15 is ook van toepassing op de duale structuuronderdelen van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4, met dien verstande dat de woorden "algemene vorming" voor opleidingsvorm 3 als de woorden "de algemene en sociale vorming" worden gelezen.<br>
+<br>
+Artikel 357/17 is ook van toepassing op de duale structuuronderdelen van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4.<br>
+<br>
+Artikel 357/19 is ook van toepassing op de duale structuuronderdelen van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4, als de aanpassingen de werkplekcomponent betreffen.<br>
+<br>
+De bepalingen van deze paragraaf treden progressief, leerjaar na leerjaar te beginnen met het eerste leerjaar van de tweede graad, in werking met ingang vanaf 15 juni 2022.
 
 ## [TITEL 6. ARBEIDSDEELNAME (ing. decr. 30 november 2018, art. 22, I: 1 september 2019)]
 
