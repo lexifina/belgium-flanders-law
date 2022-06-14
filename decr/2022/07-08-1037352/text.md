@@ -34,6 +34,57 @@ In artikel 49, § 1, 5°, van hetzelfde decreet worden de woorden "in het Vlaams
 
 ## HOOFDSTUK 9. Wijzigingen van de Codex Secundair Onderwijs van 17 december 2010
 
+### ART 53.
+
+In artikel 115/6 van dezelfde codex, ingevoegd bij het decreet van 1 juli 2011 en vervangen bij het decreet van 21 december 2012, worden de volgende wijzigingen doorgevoerd:<br>
+1° paragraaf 1 wordt opgeheven;<br>
+2° paragraaf 5 wordt vervangen door wat volgt:<br>
+" § 5. De school -en centrumbesturen kennen de van rechtswege geldende studiebewijzen toe in uitvoering van de evaluatiebeslissingen van klassenraden of, in voorkomend geval, de beslissingen van beroepscommissies die worden genomen naar aanleiding van beroepen die door betrokken personen zijn ingediend.".
+
+### ART 59.
+
+In artikel 252, § 1, b), van dezelfde codex, gewijzigd bij de decreten van 25 november 2011, 21 maart 2014 en 5 april 2019, wordt de zinsnede ", zoals bepaald in Hoofdstuk III van het besluit van de Vlaamse Regering van 19 juli 2002 betreffende de organisatie van het voltijds secundair onderwijs" opgeheven.
+
+### ART 70.
+
+Aan deel V/1, titel 5, van dezelfde codex, het laatst gewijzigd bij het decreet van 9 juli 2021, wordt een artikel 357/19/1 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 357/19/1. Artikel 357/9, § 1, artikel 357/10 tot en met 357/13, artikel 357/14, eerste en tweede lid, artikel 357/16 en artikel 357/18 houden op uitwerking te hebben ingevolge de modernisering van het secundair onderwijs op de volgende data:<br>
+1° 14 juni 2022: in het eerste leerjaar van de tweede graad;<br>
+2° 31 augustus 2022: in het tweede leerjaar van de tweede graad;<br>
+3° 31 augustus 2023: in het eerste leerjaar van de derde graad;<br>
+4° 31 augustus 2024: in het tweede leerjaar van de derde graad;<br>
+5° 31 augustus 2025: in het derde leerjaar van de derde graad.".
+
+### ART 72.
+
+Aan artikel 357/65 van dezelfde codex, ingevoegd bij het decreet van 30 november 2018, waarvan de bestaande tekst paragraaf 1 zal vormen, worden een paragraaf 2 en 3 toegevoegd, die luiden als volgt:<br>
+<br>
+" § 2. De bepalingen in paragraaf 1 houden op uitwerking te hebben ingevolge de modernisering van het secundair onderwijs op de volgende data:<br>
+1° 14 juni 2022: in het eerste leerjaar van de tweede graad;<br>
+2° 31 augustus 2022: in het tweede leerjaar van de tweede graad;<br>
+3° 31 augustus 2023:<br>
+a) in het eerste leerjaar van de derde graad;<br>
+b) in het eerste leerjaar van de kwalificatiefase;<br>
+4° 31 augustus 2024:<br>
+a) in het tweede leerjaar van de derde graad;<br>
+b) in het tweede leerjaar van de kwalificatiefase;<br>
+5° 31 augustus 2025:<br>
+a) in het derde leerjaar van de derde graad;<br>
+b) in de integratiefase.<br>
+<br>
+§ 3. Artikel 357/9 is ook van toepassing op de duale structuuronderdelen van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4.<br>
+<br>
+Artikel 357/14 is ook van toepassing op de duale structuuronderdelen van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4.<br>
+<br>
+Artikel 357/15 is ook van toepassing op de duale structuuronderdelen van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4, met dien verstande dat de woorden "algemene vorming" voor opleidingsvorm 3 als de woorden "de algemene en sociale vorming" worden gelezen.<br>
+<br>
+Artikel 357/17 is ook van toepassing op de duale structuuronderdelen van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4.<br>
+<br>
+Artikel 357/19 is ook van toepassing op de duale structuuronderdelen van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4, als de aanpassingen de werkplekcomponent betreffen.<br>
+<br>
+De bepalingen van deze paragraaf treden progressief, leerjaar na leerjaar te beginnen met het eerste leerjaar van de tweede graad, in werking met ingang vanaf 15 juni 2022.".
+
 ## HOOFDSTUK 10. Wijzigingen van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016
 
 ### ART 75.
