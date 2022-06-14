@@ -115,7 +115,7 @@ e) informatie bezorgen die niet consistent of in overeenstemming met de werkelij
 f) informatie bezorgen die niet consistent of in overeenstemming met de werkelijkheid is in het kader van subsidie- of premieaanvragen in uitvoering van dit decreet of zijn uitvoeringsbesluiten;<br>
 g) informatie bezorgen die niet consistent of in overeenstemming met de werkelijkheid is in het kader van meldingsverplichtingen die voortvloeien uit de toepassing van dit decreet, de uitvoeringsbesluiten ervan, het aansluitingsreglement, het aansluitingscontract of het technisch reglement;<br>
 40° /1/1 energiegemeenschap van burgers: een rechtspersoon die voldoet aan de vereisten, vermeld in artikel 4.8.1;<br>
-40° /2 energiehuis: de instantie die op het niveau van één of meer gemeenten energiediensten aanbiedt aan de klant;<br>
+40° /2 energiehuis: de instantie die op het niveau van één of meer gemeenten diensten inzake energie en woningkwaliteit aanbiedt aan de klant;<br>
 41° energiekengetal : het gemiddelde van het energieverbruik in een sector in verhouding tot een parameter die bepalend is voor het energieverbruik in die sector;<br>
 41° /1 energieoverdracht: een activering van de flexibiliteit waarbij een leverancier en een dienstverlener van flexibiliteit betrokken zijn die een afzonderlijke evenwichtsverantwoordelijke hebben of een dienstverlener van flexibiliteit die niet hun leverancier is;<br>
 42° energieplan : een systematische, gedocumenteerde en objectieve evaluatie van het beheer, de organisatie en de uitrusting van de betrokken onderneming, de niet-commerciële instelling of de publiekrechtelijke rechtspersoon op het gebied van energie-efficiëntie, waarbij de mogelijke maatregelen inzake de verbetering van de energie-efficiëntie in kaart worden gebracht;<br>
@@ -272,6 +272,7 @@ e) in het geval van een onderneming die geen kmo is: wanneer de afgelopen twee j
 99° peil van primair energieverbruik (of E-peil) : peil dat de globale energetische prestatie weergeeft en uitgedrukt wordt door de verhouding van het karakteristiek jaarlijks primair energieverbruik tot een referentiewaarde;<br>
 99° /1 persoonsgegevens: persoonsgegevens, vermeld in artikel 4, 1), van de algemene verordening gegevensbescherming;<br>
 100° plaatselijk vervoernet van elektriciteit : het geheel van elektrische leidingen met een nominale spanning tot en met 70 kilovolt en de bijbehorende installaties, die gelegen zijn in het Vlaamse Gewest, dat voornamelijk gebruikt wordt om het vervoer van elektriciteit naar distributienetten mogelijk te maken en dat wordt vastgesteld overeenkomstig artikel 4.1.2;<br>
+100/0° PMV/z-Leningen: de naamloze vennootschap PMV/z-Leningen, meer bepaald de dochtervennootschap van PMV met ondernemingsnummer 0553.802.890, vermeld in de beslissing van de Vlaamse Regering van 20 juni 2014 betreffende de overdracht van aandelen Participatiefonds (PF) Vlaanderen aan PMV en beheervergoeding 2014;<br>
 100/1° primaire energie: energie uit hernieuwbare en niet-hernieuwbare bronnen die geen omzetting of transformatie heeft ondergaan;<br>
 101° primair energieverbruik : de totale hoeveelheid energie die Vlaanderen nodig heeft om aan de energiebehoefte te voldoen;<br>
 101/1° ...<br>
@@ -3096,15 +3097,15 @@ De Vlaamse Regering kan een steunprogramma opstellen met tegemoetkomingen ten vo
 
 ### ART. 8.2.2.
 
-§1. De Vlaamse Regering kan leningen verstrekken ter ondersteuning van investeringen in het kader van de bevordering van het rationeel energieverbruik, door:<br>
-1° via energiehuizen leningen aan nieuwe eigenaars of&nbsp;aan eindafnemers te verstrekken voor de financiering van investeringen in privéwoningen die dienen als hoofdverblijfplaats;<br>
+§1. De Vlaamse Regering kan leningen verstrekken ter ondersteuning van investeringen in het kader van de bevordering van het rationeel energieverbruik of de woningkwaliteit, door:<br>
+1° via energiehuizen leningen aan eigenaars of&nbsp;aan eindafnemers te verstrekken voor de financiering van investeringen in privéwoningen die dienen als hoofdverblijfplaats;<br>
 2° het rechtstreeks verstrekken van deze leningen aan eindafnemers.<br>
 <br>
 De Vlaamse Regering kan de modaliteiten voor de leningen bepalen evenals de procedure voor aanvraag en toekenning.<br>
 <br>
-De Vlaamse Regering kan voorwaarden koppelen aan het verkrijgen van een lening, zoals de opmaak van een energieprestatiecertificaat of het behalen van een minimaal energieprestatieniveau.<br>
+De Vlaamse Regering kan voorwaarden koppelen aan het verkrijgen van een lening, zoals de opmaak van een energieprestatiecertificaat, het behalen van een minimaal energieprestatieniveau of het voldoen aan de elementaire veiligheids-, gezondheids- en woonkwaliteitsvereisten, vastgesteld met toepassing van artikel 3.1 van de Vlaamse Codex Wonen van 2021.<br>
 <br>
-De Vlaamse Regering kan bij het verstrekken van de leningen, vermeld in het eerste lid, gebruikmaken van de diensten van het Participatiefonds-Vlaanderen.<br>
+De Vlaamse Regering kan bij het verstrekken van de leningen, vermeld in het eerste lid, gebruikmaken van de diensten van het PMV/z-Leningen.<br>
 <br>
 § 2. De Vlaamse Regering bepaalt de minimale voorwaarden waaraan de energiehuizen, vermeld in § 1, eerste lid, 1°, dienen te voldoen. Tussen het Vlaamse Gewest en elke energiehuis wordt een samenwerkingsovereenkomst gesloten. De Vlaamse Regering kan een tegemoetkoming geven in de personeels- en werkingskosten van de energiehuizen.<br>
 <br>
@@ -3149,15 +3150,15 @@ De Vlaamse Regering kan een steunprogramma opstellen met tegemoetkomingen ten vo
 
 ### ART 8.3.1/1.
 
-§ 1. De Vlaamse Regering kan leningen verstrekken ter ondersteuning van investeringen in het kader van de bevordering van het rationeel energieverbruik, door:<br>
+§ 1. De Vlaamse Regering kan leningen verstrekken ter ondersteuning van investeringen in het kader van de bevordering van het rationeel energieverbruik of de woningkwaliteit, door:<br>
 1° via energiehuizen leningen aan coöperatieve vennootschappen te verstrekken voor de financiering van investeringen in gebouwen;<br>
 2° het rechtstreeks verstrekken van deze leningen aan coöperatieve vennootschappen.<br>
 <br>
 De Vlaamse Regering kan de modaliteiten voor de leningen bepalen evenals de procedure voor aanvraag en toekenning.<br>
 <br>
-De Vlaamse Regering kan voorwaarden koppelen aan het verkrijgen van een lening, zoals de opmaak van een energieprestatiecertificaat of het behalen van een minimaal energieprestatieniveau.<br>
+De Vlaamse Regering kan voorwaarden koppelen aan het verkrijgen van een lening, zoals de opmaak van een energieprestatiecertificaat , het behalen van een minimaal energieprestatieniveau of het voldoen aan de elementaire veiligheids-, gezondheids- en woonkwaliteitsvereisten, vastgesteld met toepassing van artikel 3.1 van de Vlaamse Codex Wonen van 2021.<br>
 <br>
-De Vlaamse Regering kan bij het verstrekken van de leningen, vermeld in het eerste lid, gebruikmaken van de diensten van het Participatiefonds-Vlaanderen.<br>
+De Vlaamse Regering kan bij het verstrekken van de leningen, vermeld in het eerste lid, gebruikmaken van de diensten van het PMV/z-Leningen.<br>
 <br>
 § 2. De Vlaamse Regering bepaalt de minimale voorwaarden waaraan de energiehuizen, vermeld in § 1, eerste lid, 1°, dienen te voldoen. Tussen het Vlaamse Gewest en elke energiehuis wordt een samenwerkingsovereenkomst gesloten. De Vlaamse Regering kan een tegemoetkoming geven in de personeels- en werkingskosten van de energiehuizen.<br>
 <br>
@@ -3183,15 +3184,15 @@ De Vlaamse Regering kan een steunprogramma opstellen met tegemoetkomingen   ten 
 
 ### ART 8.4.2.
 
-§ 1. De Vlaamse Regering kan leningen verstrekken ter ondersteuning van investeringen in het kader van de bevordering van het rationeel energieverbruik, door:<br>
+§ 1. De Vlaamse Regering kan leningen verstrekken ter ondersteuning van investeringen in het kader van de bevordering van het rationeel energieverbruik of de woningkwaliteit, door:<br>
 1° via energiehuizen leningen aan niet-commerciële instellingen te verstrekken voor de financiering van investeringen in gebouwen;<br>
 2° het rechtstreeks verstrekken van deze leningen aan niet-commerciële instellingen.<br>
 <br>
 De Vlaamse Regering kan de modaliteiten voor de leningen bepalen evenals de procedure voor aanvraag en toekenning.<br>
 <br>
-De Vlaamse Regering kan voorwaarden koppelen aan het verkrijgen van een lening, zoals de opmaak van een energieprestatiecertificaat of het behalen van een minimaal energieprestatieniveau.<br>
+De Vlaamse Regering kan voorwaarden koppelen aan het verkrijgen van een lening, zoals de opmaak van een energieprestatiecertificaat, het behalen van een minimaal energieprestatieniveau of het voldoen aan de elementaire veiligheids-, gezondheids- en woonkwaliteitsvereisten, vastgesteld met toepassing van artikel 3.1 van de Vlaamse Codex Wonen van 2021.<br>
 <br>
-De Vlaamse Regering kan bij het verstrekken van de leningen, vermeld in het eerste lid, gebruikmaken van de diensten van het Participatiefonds-Vlaanderen.<br>
+De Vlaamse Regering kan bij het verstrekken van de leningen, vermeld in het eerste lid, gebruikmaken van de diensten van het PMV/z-Leningen.<br>
 <br>
 § 2. De Vlaamse Regering bepaalt de minimale voorwaarden waaraan de energiehuizen, vermeld in § 1, eerste lid, 1°, dienen te voldoen. Tussen het Vlaamse Gewest en elke energiehuis wordt een samenwerkingsovereenkomst gesloten. De Vlaamse Regering kan een tegemoetkoming geven in de personeels- en werkingskosten van de energiehuizen.<br>
 <br>
@@ -3240,9 +3241,9 @@ De Vlaamse Regering beperkt de tegemoetkomingen in elk individueel geval dusdani
 ### ART. 9.1.1.
 
 <p>De Vlaamse Regering kan aan de energiehuizen de volgende taken opdragen:<br>
-1° het als kredietbemiddelaar of kredietgever verstrekken van de leningen, vermeld in de artikelen 8.2.2, 8.3.1/1 en 8.4.2;<br>
-2° het verlenen van advies over en het voeren van sensibiliserings- en communicatieacties over rationeel energiegebruik, rationeel energiebeheer of hernieuwbare energietechnologieën;<br>
-3° het bevorderen van het gebruik van energiezuinige producten, technieken, systemen of hernieuwbare energietechnologieën, inclusief de begeleiding bij de uitvoering van werken en diensten bij huishoudelijke afnemers daaromtrent;<br>
+1° het als kredietbemiddelaar of kredietgever verstrekken van de leningen, vermeld in de artikelen 8.2.2, 8.3.1/1 en 8.4.2 of in artikel 5.71/1 van de Vlaamse Codex Wonen van 2021;<br>
+2° het verlenen van advies over en het voeren van sensibiliserings- en communicatieacties over rationeel energiegebruik, rationeel energiebeheer, hernieuwbare energietechnologieën of de woningkwaliteit;<br>
+3° het bevorderen van de woningkwaliteit en het bevorderen van het gebruik van energiezuinige producten, technieken, systemen of hernieuwbare energietechnologieën, inclusief de begeleiding bij de uitvoering van werken en diensten bij huishoudelijke afnemers daaromtrent;<br>
 4° het verlenen van informatie aan huishoudelijke afnemers over de werking van de energiemarkt;<br>
 5° het optreden als uniek loket voor door de Vlaamse Regering door of krachtens dit decreet vastgestelde taken en opdrachten.</p>
 
@@ -3256,7 +3257,7 @@ Onverminderd het eerste lid voldoet elk energiehuis om als kredietbemiddelaar of
 3° het kan werken volgens het derde-investeerderprincipe en fungeren als lokale ESCO in het kader van de financiering van tussenkomsten voor de door de Vlaamse Regering vastgestelde doelgroep;<br>
 4° het kan de sociale begeleiding van de door de Vlaamse Regering vastgestelde doelgroep garanderen.<br>
 <br>
-Voor de verwerkingen van persoonsgegevens in het kader van het toekennen van een energielening zijn de energiehuizen de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.
+Voor de verwerkingen van persoonsgegevens in het kader van het toekennen van een lening zijn de energiehuizen de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.
 
 ### ART. 9.1.3.
 
@@ -3267,16 +3268,16 @@ Voor de verwerkingen van persoonsgegevens in het kader van het toekennen van een
 <p>In het kader van de uitvoering van hun taak, vermeld in artikel 9.1.1, 1°, bezorgen de energiehuizen de volgende categorieën van persoonsgegevens aan het VEKA:<br>
 1° de identificatiegegevens van de kredietnemers;<br>
 2° de identificatiegegevens en het type van het gebouw of de gebouweenheid;<br>
-3° de voorwaarden en kenmerken van de energielening;<br>
+3° de voorwaarden en kenmerken van de lening;<br>
 4° de energiegegevens van het gebouw;<br>
 5° het certificaatnummer van het energieprestatiecertificaat;<br>
 6° de datum van de authentieke akte van verwerving, de datum van de aangifte van nalatenschap of, bij gebrek daaraan, de datum van het aanslagbiljet van de erfbelasting dat door de Vlaamse Belastingdienst werd opgemaakt.<br>
 <br>
 Voor de unieke identificatie van de betrokkene kan het ondernemingsnummer, het rijksregisternummer, het BIS-nummer of het vreemdelingennummer opgevraagd en verwerkt worden.<br>
 <br>
-De Vlaamse Regering bepaalt voor welk type energielening die persoonsgegevens aan het VEKA moeten worden bezorgd.<br>
+De Vlaamse Regering bepaalt voor welk type lening die persoonsgegevens aan het VEKA moeten worden bezorgd.<br>
 <br>
-Voor de verwerking van persoonsgegevens in het kader van het beheer van energieleningen is het VEKA de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
+Voor de verwerking van persoonsgegevens in het kader van het beheer van leningen is het VEKA de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
 <br>
 De Vlaamse Regering kan nadere voorwaarden en modaliteiten bepalen met betrekking tot de gegevensuitwisseling tussen de energiehuizen en het VEKA.<br>
 <br>
