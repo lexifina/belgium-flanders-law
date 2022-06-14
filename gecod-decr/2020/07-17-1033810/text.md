@@ -3002,6 +3002,14 @@ Het Vlaamse Gewest kan bij overeenkomst met de verzekeraar de verzekeringspremie
 
 ## [Titel 5. Verbouwlening (ing. decr. 6 mei 2022, art. 9, I: 14 juni 2022)]
 
+### ART 5.71/1.
+
+§ 1. De Vlaamse Regering stelt de voorwaarden vast waaronder woonbehoeftige gezinnen en alleenstaanden een verbouwlening kunnen aangaan voor de renovatie, de verbetering of de aanpassing van een woning die in het Vlaamse Gewest ligt, die ze zelf bewonen en waarvan ze eigenaar zijn, en bepaalt onder meer de modaliteiten en eigenschappen van de verbouwlening.<br>
+<br>
+De Vlaamse Regering kan bepalen dat de verbouwlening, vermeld in het eerste lid, ook wordt verleend aan de eigenaar die zijn woning verhuurt. De Vlaamse Regering kan dan de maximale huurprijs, de minimale termijn waarvoor de verhuurder zich verbindt om de woning te verhuren en de voorwaarden waaraan de verhuurder, de huurder en de woning moeten voldoen, bepalen.<br>
+<br>
+§ 2. De Vlaamse Regering kan de energiehuizen, vermeld in titel IX van het Energiedecreet van 8 mei 2009, machtigen om de verbouwlening, vermeld in paragraaf 1, te verstrekken.
+
 ## Deel 5. Tegemoetkomingen
 
 ## Titel 1. Algemene bepalingen
