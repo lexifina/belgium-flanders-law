@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037132,
+  "title": "Decreet van 2022-05-06 tot wijziging van het Energiedecreet van 8 mei 2009 en tot wijziging van de Vlaamse Codex Wonen van 2021, wat de introductie van een geïntegreerde lening betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037132/VolledigDocument?datum=2022-06-14",
+  "source_sha256": "70f598b537c81fa9eacf48c97d4373317d4d914772cf1fbe29758caae543dcbd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037132&param=informatie",
+  "as_of": "2022-06-14",
+  "made": "2022-05-06",
+  "gazette": "2022-06-13",
+  "numac": 2022032108,
+  "document_start": "2022-06-14",
+  "document_end": null,
+  "in_force": "2022-06-14",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2022-06-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
