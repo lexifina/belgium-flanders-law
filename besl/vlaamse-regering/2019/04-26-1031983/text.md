@@ -226,7 +226,20 @@ De verwerking van de gegevens gebeurt door de managementautoriteit als bedoeld i
 
 ### ART 12.
 
-Dit besluit treedt in werking op 1 september 2019, met uitzondering van artikel 4, dat in werking treedt op 28 april 2019.
+Dit besluit treedt in werking op 1 september 2019, met uitzondering van artikel 4, dat in werking treedt op 28 april 2019.<br>
+<br>
+Artikel 3, 5 en 6 en bijlage 1 tot en met 6, naargelang van het geval, houden op uitwerking te hebben ingevolge de modernisering van het secundair onderwijs op de volgende data:<br>
+1° 14 juni 2022: in het eerste leerjaar van de tweede graad;<br>
+2° 31 augustus 2022: in het tweede leerjaar van de tweede graad;<br>
+3° 31 augustus 2023:<br>
+a) in het eerste leerjaar van de derde graad;<br>
+b) in het eerste leerjaar van de kwalificatiefase;<br>
+4° 31 augustus 2024:<br>
+a) in het tweede leerjaar van de derde graad;<br>
+b) in het tweede leerjaar van de kwalificatiefase;<br>
+5° 31 augustus 2025:<br>
+a) in het derde leerjaar van de derde graad;<br>
+b) in de integratiefase.
 
 ### ART 13.
 
