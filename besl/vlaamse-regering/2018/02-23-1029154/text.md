@@ -164,6 +164,151 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 			(voor inschrijvingen vanaf academiejaar 2021-2022)</span></span></span></p>
 			</td>
 		</tr>
+		<tr>
+			<td>bachelor of Science in de farmaceutische wetenschappen</td>
+			<td>farmaceutische wetenschappen<br>
+			of<br>
+			biochemie en biotechnologie, biologie, chemie, geografie en geomatica of geologie<br>
+			of<br>
+			bio-ingenieurswetenschappen<br>
+			of<br>
+			biomedische wetenschappen<br>
+			of<br>
+			diergeneeskunde<br>
+			of<br>
+			handelsingenieur<br>
+			of<br>
+			handelswetenschappen<br>
+			of<br>
+			bio-industriële wetenschappen<br>
+			of<br>
+			biowetenschappen<br>
+			of<br>
+			industriële wetenschappen/Engineering technology<br>
+			of<br>
+			ingenieurswetenschappen: architectuur<br>
+			of<br>
+			ingenieurswetenschappen<br>
+			of<br>
+			wiskunde, fysica<br>
+			of<br>
+			informatica<br>
+			of<br>
+			toegepaste/sociaal economische wetenschappen<br>
+			of<br>
+			logopedische en audiologische wetenschappen</td>
+			<td>15 juni 2022<br>
+			(voor inschrijvingen vanaf academiejaar 2022-2023)</td>
+		</tr>
+		<tr>
+			<td>bachelor of Science in de wiskunde</td>
+			<td>wiskunde, fysica<br>
+			of<br>
+			farmaceutische wetenschappen<br>
+			of<br>
+			biochemie en biotechnologie, biologie, chemie, geografie en geomatica of geologie<br>
+			of<br>
+			bio-ingenieurswetenschappen<br>
+			of<br>
+			biomedische wetenschappen<br>
+			of<br>
+			diergeneeskunde<br>
+			of<br>
+			handelsingenieur<br>
+			of<br>
+			handelswetenschappen<br>
+			of<br>
+			bio-industriële wetenschappen<br>
+			of<br>
+			biowetenschappen<br>
+			of<br>
+			industriële wetenschappen/Engineering technology<br>
+			of<br>
+			ingenieurswetenschappen: architectuur<br>
+			of<br>
+			ingenieurswetenschappen<br>
+			of<br>
+			informatica<br>
+			of<br>
+			toegepaste/sociaal economische wetenschappen<br>
+			of<br>
+			logopedische en audiologische wetenschappen</td>
+			<td>15 juni 2022<br>
+			(voor inschrijvingen vanaf academiejaar 2022-2023)</td>
+		</tr>
+		<tr>
+			<td>bachelor of Science in de fysica<br>
+			bachelor of Science in de fysica en de sterrenkunde</td>
+			<td>wiskunde, fysica<br>
+			of<br>
+			farmaceutische wetenschappen<br>
+			of<br>
+			biochemie en biotechnologie, biologie, chemie, geografie en geomatica of geologie<br>
+			of<br>
+			bio-ingenieurswetenschappen<br>
+			of<br>
+			biomedische wetenschappen<br>
+			of<br>
+			diergeneeskunde<br>
+			of<br>
+			handelsingenieur<br>
+			of<br>
+			handelswetenschappen<br>
+			of<br>
+			bio-industriële wetenschappen<br>
+			of<br>
+			biowetenschappen<br>
+			of<br>
+			industriële wetenschappen/Engineering technology<br>
+			of<br>
+			ingenieurswetenschappen: architectuur<br>
+			of<br>
+			ingenieurswetenschappen<br>
+			of<br>
+			informatica<br>
+			of<br>
+			toegepaste/sociaal economische wetenschappen<br>
+			of<br>
+			logopedische en audiologische wetenschappen</td>
+			<td>15 juni 2022<br>
+			(voor inschrijvingen vanaf academiejaar 2022-2023)</td>
+		</tr>
+		<tr>
+			<td>bachelor of Science in de bio-ingenieurswetenschappen</td>
+			<td>bio-ingenieurswetenschappen<br>
+			of<br>
+			farmaceutische wetenschappen<br>
+			of<br>
+			biochemie en biotechnologie, biologie, chemie, geografie en geomatica of geologie<br>
+			of<br>
+			biomedische wetenschappen<br>
+			of<br>
+			diergeneeskunde<br>
+			of<br>
+			handelsingenieur<br>
+			of<br>
+			handelswetenschappen<br>
+			of<br>
+			bio-industriële wetenschappen<br>
+			of<br>
+			biowetenschappen<br>
+			of<br>
+			industriële wetenschappen/Engineering technology<br>
+			of<br>
+			ingenieurswetenschappen: architectuur<br>
+			of<br>
+			ingenieurswetenschappen<br>
+			of<br>
+			wiskunde, fysica<br>
+			of<br>
+			informatica<br>
+			of<br>
+			toegepaste/sociaal economische wetenschappen<br>
+			of<br>
+			logopedische en audiologische wetenschappen</td>
+			<td>15 juni 2022<br>
+			(voor inschrijvingen vanaf academiejaar 2022-2023)</td>
+		</tr>
 	</tbody>
 </table>
 <br>
