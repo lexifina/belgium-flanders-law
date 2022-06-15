@@ -2,16 +2,16 @@
   "codex_id": 1010580,
   "title": "Besluit van de Vlaamse Regering van 2002-12-06 betreffende de organisatie van het buitengewoon secundair onderwijs van opleidingsvorm 3",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010580/VolledigDocument?datum=2021-09-01",
-  "source_sha256": "070c2bf1578617c994c7a87614ab8bb7e54b985f1db354b203c8509fafbda505",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010580/VolledigDocument?datum=2022-06-15",
+  "source_sha256": "f36e9c1c6b288b73d946e406a98f02b095125013c82da8b1bca15bb66dcc1060",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010580&param=informatie",
-  "as_of": "2021-09-01",
+  "as_of": "2022-06-15",
   "made": "2002-12-06",
   "gazette": "2003-02-06",
   "numac": 2003035122,
   "document_start": "2002-09-01",
   "document_end": "2025-08-31",
-  "in_force": "2021-09-01",
-  "article_versions": 53,
-  "record_form": "consolidated version as in force on 2021-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-06-15",
+  "article_versions": 55,
+  "record_form": "consolidated version as in force on 2022-06-15; future article versions excluded; article text as the API gives it"
 }

@@ -127,6 +127,22 @@ De beslissingen van de klassenraad moeten gemotiveerd zijn.<br>
 <br>
 § 4. Leerlingen in de kwalificatiefase moeten ten minste twee schooljaren in dezelfde opleiding hebben gevolgd, tenzij de klassenraad beslist heeft voor een individuele leerling dat de kwalificatiefase wordt ingekort tot één schooljaar.
 
+### ART 13/1.
+
+De volgende leerlingen worden, onverminderd de bepalingen van artikel 294 van de Codex Secundair Onderwijs van 17 december 2010, als regelmatige leerlingen tot een structuuronderdeel van opleidingsvorm 3 van het buitengewoon secundair onderwijs toegelaten: de leerlingen die overstappen van een buitenlands onderwijssysteem of van het onderwijs dat is erkend door de Franse of Duitstalige Gemeenschap van België, op voorwaarde van een gunstige beslissing van de klassenraad en na advies van de klassenraad van het onthaaljaar als het een overstap betreft via het onthaaljaar voor anderstalige nieuwkomers. Elke beslissing die afwijkt van het advies van de klassenraad van het onthaaljaar, wordt afdoende gemotiveerd.<br>
+<br>
+De klassenraad bestaat, voor wat het onderwijzend personeel betreft, uit alle leden van het structuuronderdeel waarvoor de leerling opteert. In het geval het een overstap betreft via het onthaaljaar voor anderstalige nieuwkomers, moet in de klassenraad raadgevend de persoon worden opgenomen die, op basis van daartoe specifiek toegekende uren-leraar, belast is met de ondersteuning, opvolging en begeleiding van gewezen anderstalige nieuwkomers in de scholengemeenschap waarbinnen de betrokken leerling het onthaaljaar voor anderstalige nieuwkomers heeft gevolgd.<br>
+<br>
+De beslissing door de klassenraad wordt uiterlijk vijfendertig kalenderdagen na de aanvang van de regelmatige lesbijwoning genomen.
+
+### ART 13/2.
+
+Leerlingenevaluatie heeft als doel om, rekening houdend met het pedagogisch project van de school, na te gaan of de regelmatige leerling in voldoende mate de ontwikkelingsdoelen heeft nagestreefd en in voldoende mate de doelen die zijn vastgelegd in het toepasbare opleidingsprofiel of het standaardtraject, al naargelang het geval, heeft bereikt.<br>
+<br>
+In elke fase, uitgezonderd de observatiefase, worden in aansluiting op de evaluatiebeslissingen studiebewijzen toegekend die van rechtswege geldend zijn aan de regelmatige leerlingen. Een studiebewijs impliceert dat de houder geacht wordt het overeenkomstige studietraject volledig heeft doorlopen en, naargelang van het studiebewijs in kwestie, in voldoende mate de ontwikkelingsdoelen heeft nagestreefd en in voldoende mate de doelen die zijn vastgelegd in het toepasbare opleidingsprofiel of het standaardtraject, al naargelang het geval, heeft bereikt. Dit is ongeacht het tijdstip van aansluiting bij dat traject en ongeacht de duur en structuur van dat traject.<br>
+<br>
+De toekenning van studiebewijzen kan om geen enkele reden worden ingehouden, ook niet bij verzuim door de betrokken personen van hun financiële verplichtingen
+
 ## HOOFDSTUK III STUDIESANCTIONERING
 
 ### ART. 14.
@@ -286,7 +302,14 @@ De studiebewijzen worden opgesteld volgens de modellen, opgenomen in bijlage 2 t
 
 ### ART. 27.
 
-Dit besluit heeft uitwerking met ingang van 1 september 2002.
+Dit besluit heeft uitwerking met ingang van 1 september 2002.<br>
+<br>
+Artikel 13 tot en met 20 en bijlage 2 tot en met 6, naargelang van het geval, houden op uitwerking te hebben ingevolge de modernisering van het secundair onderwijs op de volgende data:<br>
+1° 14 juni 2022: in de observatiefase en het eerste leerjaar van de opleidingsfase;<br>
+2° 31 augustus 2022: in het tweede leerjaar van de opleidingsfase;<br>
+3° 31 augustus 2023: in het eerste leerjaar van de kwalificatiefase;<br>
+4° 31 augustus 2024: in het tweede leerjaar van de kwalificatiefase;<br>
+5° 31 augustus 2025: in de integratiefase.
 
 ### ART. 28.
 
