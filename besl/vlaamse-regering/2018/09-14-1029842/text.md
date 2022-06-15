@@ -349,7 +349,14 @@ In artikel 5 van hetzelfde besluit wordt punt 3° vervangen door wat volgt :<br>
 
 ### ART 36.
 
-Dit besluit treedt in werking op 1 september 2019, met uitzondering van artikel 4 en 7, artikel 8, § 1, zevende lid, en artikel 18 tot en met 34, die in werking treden op 1 oktober 2018.
+Dit besluit treedt in werking op 1 september 2019, met uitzondering van artikel 4 en 7, artikel 8, § 1, zevende lid, en artikel 18 tot en met 34, die in werking treden op 1 oktober 2018.<br>
+<br>
+Artikel 3 en 8 en bijlage 1 en 3 tot en met 14, houden op uitwerking te hebben ingevolge de modernisering van het secundair onderwijs op de volgende data:<br>
+1° 14 juni 2022: in het eerste leerjaar van de tweede graad;<br>
+2° 31 augustus 2022: in het tweede leerjaar van de tweede graad;<br>
+3° 31 augustus 2023: in het eerste leerjaar van de derde graad;<br>
+4° 31 augustus 2024: in het tweede leerjaar van de derde graad;<br>
+5° 31 augustus 2025: in het derde leerjaar van de derde graad.
 
 ### ART 37.
 
