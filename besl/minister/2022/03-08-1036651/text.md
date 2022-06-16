@@ -20,8 +20,8 @@ DE VLAAMSE MINISTER VAN ONDERWIJS, SPORT, DIERENWELZIJN EN VLAAMSE RAND BESLUIT:
 
 ### ART 1.
 
-In artikel 1 van het ministerieel besluit van 29 september 2004 tot aanpassing van de termijn waarbinnen de overeenkomst tussen de niet-professionele sportbeoefenaar en de sportvereniging kan worden beëindigd voor wat de Petanque Federatie Vlaanderen vzw betreft, worden eenmalig de data "16 maart - 15 april" vervangen door de data "1 mei 2022 - 31 mei 2022".
+...
 
 ### ART 2.
 
-Dit besluit treedt in werking op 15 maart 2022 en treedt buiten werking op 15 juni 2022.
+...
