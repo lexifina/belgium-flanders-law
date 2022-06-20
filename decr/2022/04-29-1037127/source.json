@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037127,
+  "title": "Decreet van 2022-04-29 tot instemming met het verdrag betreffende de automatische erkenning van diploma's in het hoger onderwijs, gedaan te Brussel op 14 september 2021",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037127/VolledigDocument?datum=2022-06-20",
+  "source_sha256": "97a5e0532afc5cd9add881b3d5fda78aec89c77c5973757fe2e523816b3185f8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037127&param=informatie",
+  "as_of": "2022-06-20",
+  "made": "2022-04-29",
+  "gazette": "2022-06-10",
+  "numac": 2022032041,
+  "document_start": "2022-06-20",
+  "document_end": null,
+  "in_force": "2022-06-20",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2022-06-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
