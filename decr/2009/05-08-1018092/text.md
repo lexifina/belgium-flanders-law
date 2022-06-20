@@ -1413,6 +1413,16 @@ De Vlaamse Regering kan, na advies van de VREG, de netbeheerders extra openbared
 
 <P>De netbeheerder of zijn werkmaatschappij brengen de   evenwichtsverantwoordelijken onmiddellijk op de hoogte van de onderbreking of   van de beperking van de afname en injectie van de productie-eenheden,   aangesloten op hun net en de modaliteiten hiervan. De Vlaamse Regering kan   nadere regels bepalen betreffende welke gegevens worden vrijgegeven en de wijze   waarop deze worden vrijgegeven.</P>
 
+### ART 4.1.22/1/1.
+
+Met behoud van de toepassing van artikel 4.1.22/4 en 4.1.22/5 is de syndicus, vermeld in artikel 3.89 van het Burgerlijk Wetboek, gemachtigd om in het kader van de door of krachtens het Burgerlijk Wetboek vastgestelde taken met betrekking tot het administratieve, technische en financiële beheer van het gebouw waarvoor hij door de vereniging van mede-eigenaars als syndicus is aangesteld, voor dat hele gebouw bij de netbeheerder of zijn werkmaatschappij alle EAN-codes op te vragen, te verwerken en te gebruiken voor de uitvoering van die beheerstaken.<br>
+<br>
+De betrokkenen zijn de syndicus, en de eigenaars en gebruikers van de gebouweenheden in het gebouw.<br>
+<br>
+Voor de verwerking van persoonsgegevens in het kader van de doeleinden, vermeld in het eerste lid, is de syndicus de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
+<br>
+De syndicus bewaart die gegevens uiterlijk tot de einddatum van zijn mandaat.
+
 ## Afdeling IX. [Meters en meetgegevens (verv. Decr. 26 april 2019, art. 15, I: 21 juni 2019)]
 
 ## [Onderafdeling I. Plaatsing en functionaliteiten van de digitale meter (ing. Decr. 26 april 2019, art. 16, I: 21 juni 2019)]
