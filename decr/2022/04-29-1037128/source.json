@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037128,
+  "title": "Decreet van 2022-04-29 tot wijziging van het Energiedecreet van 8 mei 2009, wat de toegang tot en het gebruik van EAN-codes door de syndicus betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037128/VolledigDocument?datum=2022-06-20",
+  "source_sha256": "f4b4ee47fc1cf5c67f13a68cbcfe6b679aee7011f6705d8e6d9d6eb71271d06f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037128&param=informatie",
+  "as_of": "2022-06-20",
+  "made": "2022-04-29",
+  "gazette": "2022-06-10",
+  "numac": 2022032045,
+  "document_start": "2022-06-20",
+  "document_end": null,
+  "in_force": "2022-06-20",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2022-06-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
