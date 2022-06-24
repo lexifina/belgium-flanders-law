@@ -118,7 +118,7 @@ Per gepresteerde begeleiding ontvangt de dienst een werkingstoelage van 25 euro 
 <br>
 § 2. Het jaarverslag en het financieel verslag worden ingediend uiterlijk op 30 juni van het jaar dat volgt op het werkingsjaar.<br>
 <br>
-De Vlaamse minister, bevoegd voor de bijstand aan personen, bepaalt de inhoud en de vorm van het jaarverslag en het financieel verslag.<br>
+Het agentschap&nbsp;bepaalt de inhoud en de vorm van het jaarverslag en het financieel verslag.<br>
 <br>
 § 3. Het saldo van de personeelssubsidies en de werkingstoelagen wordt verrekend na de goedkeuring van het jaarverslag en het financieel verslag, binnen achttien maanden die volgen op de datum, vermeld in paragraaf 2. De facto is dat 24 maanden na het einde van het werkingsjaar, op voorwaarde dat het jaarverslag en het financieel verslag op tijd en overeenkomstig de instructies van het agentschap ingediend zijn.<br>
 &nbsp;
