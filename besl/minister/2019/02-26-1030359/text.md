@@ -43,11 +43,11 @@ Aanvragers die in het buitenland werken leggen in voorkomend geval het buitenlan
 ### ART 5.
 
 De volgende twee categorieën van werkzaamheden worden in aanmerking genomen:<br>
-1° technische installaties en hulpmiddelen:<br>
+1° technische en sanitaire uitrusting:<br>
 a) het maken van een badkamer (met minstens een douche en een wastafel) die aangepast is aan de noden van de 65-plusser. Een tweede badkamer kan alleen gesubsidieerd worden als ze zich bevindt op een andere woonverdieping dan de eerste badkamer;<br>
 b) het plaatsen van een toilet en zo nodig een tweede toilet op een andere woonverdieping dan het eerste toilet;<br>
 c) het installeren van een traplift of rolstoelplateaulift;<br>
-d) het aanbrengen van elektro-mechanische hulpmiddelen om zich te verplaatsen in de woning voor zover het elementen zijn die vast verankerd zijn aan het gebouw;<br>
+d) het aanbrengen van mechanische hulpmiddelen om zich te verplaatsen in de woning voor zover het elementen zijn die vast verankerd zijn aan het gebouw;<br>
 e) het aanbrengen van handgrepen en steunmiddelen in de sanitaire lokalen;<br>
 f) het automatiseren van de bestaande toegangsdeur, garagepoort of rolluiken;<br>
 2° verbouwingswerkzaamheden met het oog op het creëren van voldoende ruimte en veilig beloopbare vloeren en trappen in de woning:<br>
