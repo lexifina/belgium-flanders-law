@@ -231,7 +231,8 @@ Voor de berekening van de subsidie, vermeld in artikel 18, komen uitsluitend de 
 5° de kosten voor het vervoer van persoonlijk (sport)materiaal dat nodig is om te kunnen deelnemen aan stages en wedstrijden;<br>
 6° de verzekeringskosten voor de topsporters of topsporttalenten en hun (sport)materiaal;<br>
 7° de verzekeringskosten voor de sporttechnische en sportwetenschappelijke omkadering en de verplichte juryleden in functie van het aantal geselecteerde topsporters of topsporttalenten per unisportfederatie;<br>
-8° de inschrijvingsgelden of bijdragen om te kunnen deelnemen aan de desbetreffende wedstrijden in functie van het aantal geselecteerde topsporters of topsporttalenten per unisportfederatie.<br>
+8° de inschrijvingsgelden of bijdragen om te kunnen deelnemen aan de desbetreffende wedstrijden in functie van het aantal geselecteerde topsporters of topsporttalenten per unisportfederatie;<br>
+9° specifieke kosten eigen aan de voorbereiding van en deelname aan multidisciplinaire stages en Olympische Spelen, Paralympische Spelen, Youth Olympic Games, European Games, EYOF en Wereldspelen waarvoor het agentschap Sport Vlaanderen voorafgaandelijk zijn uitdrukkelijk akkoord heeft verleend.<br>
 <br>
 De financiering van de kosten, vermeld in artikel 18, wordt jaarlijks aan het BOIC uitbetaald na voorlegging en controle van de afrekeningsstukken van de uitgaven die het agentschap Sport Vlaanderen aanvaard heeft voor de voorbereiding van en de deelname aan de Olympische Spelen, Paralympische Spelen, Youth Olympic Games, European Games, EYOF en Wereldspelen.
 
