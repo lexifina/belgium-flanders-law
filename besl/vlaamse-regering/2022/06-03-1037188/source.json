@@ -2,16 +2,16 @@
   "codex_id": 1037188,
   "title": "Besluit van de Vlaamse Regering van 2022-06-03 tot wijziging van het besluit van de Vlaamse Regering van 15 mei 2020 tot regeling van bepaalde tijdelijke maatregelen met betrekking tot subsidies in het beleidsveld sport door de civiele noodsituatie met betrekking tot de volksgezondheid ingevolge het coronavirus COVID-19, wat betreft de subsidies 2022",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037188/VolledigDocument?datum=2021-04-09",
-  "source_sha256": "3ca0e90c702742f74ac947a002305c5e94b607a0c9130783595d121ed20abd07",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037188/VolledigDocument?datum=2022-06-29",
+  "source_sha256": "2186877c96ea33efb3a19bdd7dad94ad9a7b96a609a4bfcdbc8258cb8670f045",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037188&param=informatie",
-  "as_of": "2021-04-09",
+  "as_of": "2022-06-29",
   "made": "2022-06-03",
   "gazette": "2022-06-28",
   "numac": 2022032559,
   "document_start": "2022-06-29",
   "document_end": null,
-  "in_force": "2021-04-09",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2021-04-09; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-06-29",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2022-06-29; future article versions excluded; article text as the API gives it"
 }

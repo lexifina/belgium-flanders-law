@@ -33,6 +33,32 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 15 mei 2020 tot regeling van bepaalde tijdelijke maatregelen met betrekking tot subsidies in het beleidsveld sport door de civiele noodsituatie met betrekking tot de volksgezondheid ingevolge het coronavirus COVID-19, gewijzigd bij het besluit van de Vlaamse Regering van 7 mei 2021, wordt de zinsnede "of 2021" vervangen door de zinsnede ", 2021 of 2022".
+
+### ART 2.
+
+In artikel 5 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 7 mei 2021, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt het woord "en" opgeheven;<br>
+2° aan het eerste lid wordt de zinsnede ", en voor 2022 het ledenaantal voor het jaar 2019, 2020 of 2021" toegevoegd;<br>
+3° in het tweede lid wordt het wordt "en" telkens opgeheven;<br>
+4° in het tweede lid wordt tussen het jaartal "2020" en het woord "Voor" de zinsnede ", en voor 2022 het aantal sportieve vrijetijdsbeoefenaars dat ze vertegenwoordigde in het jaar 2019, 2020 of 2021" ingevoegd;<br>
+5° aan het tweede lid wordt de zinsnede ", en voor de subsidie voor het werkingsjaar 2022 het aantal sportieve vrijetijdsbeoefenaars dat ze vertegenwoordigde voor het jaar 2019, 2020 of 2021" toegevoegd.
+
+### ART 3.
+
+In artikel 6 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 7 mei 2021, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden "en voor" vervangen door het woord "voor";<br>
+2° in het eerste lid wordt tussen het jaartal "2020" en de zinsnede ", in" de zinsnede "en voor het werkingsjaar 2022 de score die ze behaalde in 2019, 2020 of 2021" ingevoegd;<br>
+3° in het tweede lid wordt tussen het jaartal "2020" en het woord "in" de zinsnede "of 2021" ingevoegd en wordt tussen het jaartal "2020" en het woord "geldt" de zinsnede "of 2021" ingevoegd.
+
+### ART 4.
+
+In artikel 8 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 7 mei 2021, worden de volgende wijzigingen aangebracht:<br>
+1° de woorden "en voor" worden vervangen door de zinsnede ", voor";<br>
+2° tussen het jaartal "2021" en het woord "wordt" wordt de zinsnede "en voor het werkingsjaar 2022" ingevoegd.
+
 ### ART 5.
 
 Artikel 14 van hetzelfde besluit wordt opgeheven.
@@ -44,3 +70,17 @@ In artikel 15 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Re
 2° in het tweede lid wordt tussen het woord "dat" en het woord "in" de zinsnede "in 2020," ingevoegd;<br>
 3° in het tweede lid wordt tussen het jaartal "2021" en het woord "wordt" de zinsnede "of in 2022" ingevoegd;<br>
 4° in het tweede lid wordt het woord "één" vervangen door het woord "twee".
+
+### ART 7.
+
+Dit besluit treedt in werking op de dag die volgt op de bekendmaking ervan in het Belgisch Staatsblad.<br>
+<br>
+Artikel 5 heeft uitwerking met ingang van 9 april 2021.<br>
+<br>
+Artikel 6, 1°, heeft uitwerking met ingang van 26 mei 2020.<br>
+<br>
+Artikel 6, 2°, en artikel 6, 4°, hebben uitwerking met ingang van 18 mei 2021.
+
+### ART 8.
+
+De Vlaamse minister, bevoegd voor de sport, is belast met de uitvoering van dit besluit.
