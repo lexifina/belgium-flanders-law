@@ -2,16 +2,16 @@
   "codex_id": 1016783,
   "title": "Ministerieel besluit van 2008-05-14 houdende vaststelling van de bijkomende of specifieke opdrachten bij de Diensten van de Vlaamse overheid",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016783/VolledigDocument?datum=2020-09-01",
-  "source_sha256": "006107e4820b23a15373996cf3132028c541fdee4916e2f76ab0d3c9b9c360b1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016783/VolledigDocument?datum=2022-06-30",
+  "source_sha256": "5246c77bfb4def5046246a66ca97484bdda6c952dca9b6d15d938a5021dcb511",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016783&param=informatie",
-  "as_of": "2020-09-01",
+  "as_of": "2022-06-30",
   "made": "2008-05-14",
   "gazette": "2008-05-26",
   "numac": 2008035561,
   "document_start": "2008-06-01",
   "document_end": "2024-05-31",
-  "in_force": "2020-09-01",
+  "in_force": "2022-06-30",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2020-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-06-30; future article versions excluded; article text as the API gives it"
 }

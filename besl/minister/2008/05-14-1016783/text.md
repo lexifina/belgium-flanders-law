@@ -44,6 +44,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 
 ### BIJLAGE
 
+<br>
 1) BELEIDSDOMEIN KANSELARIJ, BESTUUR, BUITENLANDSE ZAKEN EN JUSTITIE
 <table border="1">
 	<tbody>
@@ -72,7 +73,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 		<tr>
 			<td>1.2. Agentschap Overheidspersoneel</td>
 			<td>Vlaams diversiteitsambtenaar</td>
-			<td colspan="2">A214</td>
+			<td colspan="2">A286</td>
 		</tr>
 		<tr>
 			<td colspan="" rowspan="11>">1.3. Agentschap Facilitair Bedrijf</td>
