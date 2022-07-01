@@ -69,6 +69,7 @@ Dit decreet regelt zowel een gewest- als een gemeenschapsaangelegenheid.
 58° het decreet van 15 oktober 2021 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen;<br>
 59° de toekenning van transitiepremies voor ondernemers, vermeld in artikel 3 van het decreet van 22 december 2017 houdende een premie om de transitie van werkzoekenden naar ondernemerschap te stimuleren.<br>
 60° de opleidingscheques voor werknemers, vermeld in artikel 2 van het decreet van 22 maart 2019 betreffende de opleidingscheques voor werknemers, de invoering van een registratieverplichting voor sportmakelaars en tot wijziging van diverse andere bepalingen inzake het beleidsdomein Werk en Sociale Economie.<br>
+63° de toekenning van de jobbonus, vermeld in artikel 3 van het decreet van 20 mei 2022 tot regeling van de toekenning van een jobbonus.<br>
 <br>
 De sociaalrechtelijke inspecteurs zijn tevens bevoegd voor de controle en het toezicht op de regelgeving waarvoor het Vlaamse Gewest gemachtigd is krachtens de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waar in artikel 6, § 1, IX, 2°, de bevoegdheid aan de gewesten wordt gegeven met betrekking tot programma's voor wedertewerk-stelling.<br>
 <br>
@@ -550,6 +551,10 @@ Onder de voorwaarden, vermeld in deze afdeling, kan aan de werknemer die de ople
 ### ART 21/2.
 
 Onder de voorwaarden, vermeld in deze afdeling, kan aan eenieder die onjuiste inlichtingen verschaft met het oog op de toepassing van een transitiepremie voor ondernemers als vermeld in het decreet van 22 december 2017 houdende een premie om de transitie van werkzoekenden naar ondernemerschap te stimuleren en de uitvoeringsbesluiten ervan, een administratieve geldboete opgelegd worden van 50 euro tot 500 euro.
+
+### ART 21/3.
+
+Onder de voorwaarden, vermeld in deze afdeling, kan aan elke persoon die onjuiste of onvolledige inlichtingen verschaft of bepaalde inlichtingen achterhoudt met het oog op het verkrijgen van de premie, vermeld in artikel 3 van het decreet van 20 mei 2022 tot regeling van de toekenning van een jobbonus en de uitvoeringsbesluiten ervan, een administratieve geldboete opgelegd worden van 50 euro tot 500 euro.
 
 ### ART. 22.
 
