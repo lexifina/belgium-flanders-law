@@ -36,6 +36,459 @@ In artikel 3.1.62 van het Energiebesluit van 19 november 2010, ingevoegd bij het
 Aan artikel 3.2.18, eerste lid, 4° van hetzelfde besluit, ingevoegd bij besluit van de Vlaamse Regering van 15 juli 2016, wordt een punt c) toegevoegd, dat luidt als volgt:<br>
 "c) facturering op maandbasis van het gemeten maandverbruik bij eindafnemers met een digitale meter, wanneer het gaat om een leverancier die meer dan 200.000 afnamepunten in het Vlaamse Gewest belevert;".
 
+### ART 3.
+
+In artikel 5.1.1 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° het woord "herinneringsbrief" wordt telkens vervangen door het woord "betalingsherinnering";<br>
+2° er wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+"De factuur en de betalingsherinnering worden aan de huishoudelijke afnemer bezorgd op een van de volgende wijzen:<br>
+1° via het overeengekomen schriftelijke communicatiemiddel;<br>
+2° via een papieren of een andere duurzame drager.".
+
+### ART 4.
+
+In artikel 5.1.2 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° het woord "herinneringsbrief" wordt vervangen door het woord "betalingsherinnering";<br>
+2° de woorden "met een aangetekende brief de huishoudelijke afnemer in gebreke" worden vervangen door de woorden "de huishoudelijke afnemer met een brief of via het schriftelijk communicatiemiddel dat de afnemer daarvoor heeft gekozen in gebreke".
+
+### ART 5.
+
+In artikel 5.1.3 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, inleidende zin en paragraaf 3 wordt het woord "herinneringsbrief" vervangen door het woord "betalingsherinnering";<br>
+2° in paragraaf 1, 4° wordt de zinsnede "de plaatsing van de budgetmeter voor elektriciteit en voor aardgas" vervangen door de zinsnede "de activatie van de voorafbetalingsfunctie in de elektriciteitsmeter en de aardgasmeter";<br>
+3° in paragraaf 1, 5° worden de woorden "stroombegrenzer in de budgetmeter voor" vervangen door de woorden "minimale levering van";<br>
+4° aan paragraaf 1 wordt een punt 7° toegevoegd, dat luidt als volgt: "7° de openstaande schuld voor elektriciteit en/of aardgas".
+
+### ART 6.
+
+In artikel 5.1.4, eerste lid, van hetzelfde besluit wordt het woord "herinneringsbrief" vervangen door het woord "betalingsherinnering".
+
+### ART 7.
+
+In artikel 5.2.1 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 wordt het woord "zestig" vervangen door het woord "vijfenveertig";<br>
+2° aan paragraaf 2, 2°, wordt een punt c) toegevoegd dat luidt als volgt:<br>
+"c) een alternatief afbetalingsplan aanvaard na een door de leverancier gemotiveerde weigering van een afbetalingsplan dat de huishoudelijke elektriciteitsafnemer aanvankelijk voorgesteld had.".
+
+### ART 8.
+
+In artikel 5.2.2 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 7 september 2012, worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 1 wordt vervangen door wat volgt:<br>
+" § 1. Als een leveringscontract met een huishoudelijke afnemer wordt opgezegd, sluit die afnemer uiterlijk acht dagen voor het einde van de opzeggingstermijn een leveringscontract met een nieuwe leverancier. Dat leveringscontract gaat in vanaf het einde van de opzeggingstermijn. Als de huishoudelijke afnemer geen nieuw leveringscontract sluit, krijgt hij na de opzeggingstermijn verder elektriciteit of aardgas geleverd door zijn distributienetbeheerder. De leverancier brengt de huishoudelijke afnemer op de hoogte van de twee voormelde opties via een opzeggingsbrief, die verstuurd wordt in één van de gevallen vermeld in artikel 5.2.1, § 2.";<br>
+2° in paragraaf 2 wordt het woord "zestig" vervangen door het woord "vijfenveertig";<br>
+3° paragraaf 4 en paragraaf 5 worden opgeheven.
+
+### ART 9.
+
+Aan artikel 5.2.3, § 2 van hetzelfde besluit wordt de volgende zin toegevoegd:<br>
+"Als er op het afnamepunt een digitale meter geactiveerd is, wordt de reële meterstand van de laatste dag van de opzegtermijn doorgegeven aan de leverancier.".
+
+### ART 10.
+
+In titel V van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 16 juli 2021, wordt het opschrift van hoofdstuk III vervangen door wat volgt:<br>
+<br>
+"Hoofdstuk III. Beschermingsmaatregelen bij wanbetaling ten opzichte van de elektriciteitsdistributienetbeheerder".
+
+### ART 11.
+
+In titel V, hoofdstuk III van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 17 mei 2019, wordt het opschrift van afdeling I vervangen door wat volgt:<br>
+<br>
+"Afdeling I. Verbruik van elektriciteit die geleverd is door de elektriciteitsdistributienetbeheerder, en activatie van de voorafbetalingsfunctie in de elektriciteitsmeter".
+
+### ART 12.
+
+Artikel 5.3.1 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 29 november 2013, 23 februari 2018 en 17 mei 2019, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5.3.1. § 1. De huishoudelijke elektriciteitsafnemer kan, zodra de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit de levering overneemt, alleen elektriciteit verbruiken via de geactiveerde voorafbetalingsfunctie in de digitale meter. De distributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit voorziet in verschillende manieren om de afnemer op een gebruiksvriendelijke manier en ongeacht zijn digitale competenties inzage te verschaffen in zijn saldo van het opgeladen verbruikskrediet.<br>
+<br>
+Als er op het moment van overname van de levering van elektriciteit nog geen digitale meter is geactiveerd, wordt in afwachting van de plaatsing ervan de procedure, vermeld in artikel 5.3.1/1, gevolgd.<br>
+<br>
+§ 2. De huishoudelijke elektriciteitsafnemer wordt tegen vol vermogen beleverd door de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit. Bij wanbetaling volgen de elektriciteitsdistributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit de procedure, vermeld in artikel 5.3.13 tot en met 5.3.16.<br>
+<br>
+§ 3. Als het technisch gezien niet mogelijk is om een digitale meter voor elektriciteit bij de huishoudelijke elektriciteitsafnemer in kwestie te plaatsen, wordt een autonome stroombegrenzer geplaatst. Bij wanbetaling volgen de elektriciteitsdistributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit de procedure, vermeld in artikel 5.3.13 tot en met 5.3.16.<br>
+<br>
+§ 4. Als de huishoudelijke elektriciteitsafnemer geen normale toegang geeft tot de ruimte waarover hij het gebruiks- of eigendomsrecht heeft en waarin de elektriciteitsmeter is opgesteld, voor de vervanging van een klassieke meter, de budgetmeter of de autonome stroombegrenzer door een digitale meter, kan de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit een verzoek tot afsluiting van de elektriciteitstoevoer indienen bij de lokale adviescommissie.<br>
+<br>
+§ 5. De digitale meter met geactiveerde voorafbetalingsfunctie wordt door de elektriciteitsdistributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit zodanig ingesteld dat een noodkrediet van 75 euro ter beschikking wordt gesteld van de huishoudelijke elektriciteitsafnemer. Dit bedrag wordt vanaf 1 januari 2023 jaarlijks geïndexeerd aan de hand van het cijfer van de gezondheidsindex van de maand december van het jaar voor de aanpassing met als basisindexcijfer het cijfer van de gezondheidsindex van december 2021. Het bedrag wordt afgerond naar de hogere eenheid.<br>
+<br>
+§ 6. De elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit stelt bij de inschakeling van de voorafbetalingsfunctie voor elektriciteit minstens de volgende informatie ter beschikking van de huishoudelijke elektriciteitsafnemer in kwestie:<br>
+1° een gebruikshandleiding, met inbegrip van de volgende informatie:<br>
+a) een gedetailleerde beschrijving van de oplaadmogelijkheden;<br>
+b) instructies over de toegang tot de gegevens met betrekking tot zijn verbruik;<br>
+c) informatie over het noodkrediet en de inschakeling van de 10 ampèrefunctie en de manier waarop het noodkrediet en de 10 ampèrefunctie bij het opladen worden verrekend;<br>
+2° het toegepaste elektriciteitstarief;<br>
+3° de aanmeldingsgegevens voor het online webportaal;<br>
+4° een actuele lijst met de plaats en de toegankelijkheid van de dichtstbijzijnde oplaadmogelijkheden;<br>
+5° een telefoonnummer en website om problemen te melden en voor noodgevallen.".
+
+### ART 13.
+
+In titel V, hoofdstuk III, afdeling I van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 17 mei 2019, wordt een artikel 5.3.1/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 5.3.1/1. § 1. In afwijking van artikel 5.3.1 bezorgt de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit de huishoudelijke elektriciteitsafnemer die nog niet verbruikt via een digitale meter maandelijks een factuur voor de levering van elektriciteit. De factuur wordt geacht ontvangen te zijn de derde werkdag na de dag van de verzending ervan.<br>
+<br>
+Als de huishoudelijke elektriciteitsafnemer zijn openstaande rekeningen niet heeft betaald wanneer de betalingstermijn is verstreken, stuurt de elektriciteitsnetbeheerder of de beheerder van het plaatselijk vervoernet op zijn vroegst eenentwintig dagen nadat de factuur voor elektriciteit, vermeld in het eerste lid, is verzonden, een betalingsherinnering met vermelding van het niet betaalde vervallen factuurbedrag, bij voorkeur samen met de volgende maandelijkse factuur.<br>
+<br>
+§ 2. De betalingsherinnering, vermeld in paragraaf 1, tweede lid, vermeldt ook dat als de huishoudelijke elektriciteitsafnemer binnen eenentwintig dagen nadat de betalingsherinnering, vermeld in paragraaf 1, tweede lid, is verzonden zijn openstaande rekeningen niet heeft betaald, de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit binnen twintig kalenderdagen nadat die termijn van eenentwintig dagen is verstreken de meter vervangt door een digitale meter met een geactiveerde voorafbetalingsfunctie.<br>
+<br>
+Als de huishoudelijke elektriciteitsafnemer zijn openstaande rekeningen niet heeft betaald binnen vijftien dagen nadat de betalingsherinnering, vermeld in paragraaf 1, tweede lid, is verzonden, stuurt de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit op zijn vroegst eenentwintig dagen nadat de betalingsherinnering, vermeld in paragraaf 1, tweede lid, is verzonden, een ingebrekestelling met een overzicht van de niet-betaalde vervallen factuurbedragen, bij voorkeur samen met de volgende maandelijkse factuur.<br>
+<br>
+De elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit vermeldt al de volgende gegevens in de betalingsherinnering, vermeld in paragraaf 1, tweede lid, en in de ingebrekestelling, vermeld in het tweede lid:<br>
+1° de contactgegevens van zijn bevoegde dienst;<br>
+2° de mogelijkheden om bij betalingsmoeilijkheden een regeling te treffen om de openstaande facturen te betalen. Die mogelijkheden zijn:<br>
+a) de uitwerking van een afbetalingsplan met de elektriciteitsdistributienetbeheerder;<br>
+b) de uitwerking van een afbetalingsplan via het OCMW;<br>
+c) de uitwerking van een afbetalingsplan via een erkende instelling voor schuldbemiddeling;<br>
+3° de mogelijkheid die hij heeft om een verzoek tot afsluiting in te dienen bij de lokale adviescommissie.<br>
+<br>
+De minister kan nadere regels bepalen voor de vorm en de inhoud van de betalingsherinnering, vermeld in paragraaf 1, tweede lid, en van de ingebrekestelling, vermeld in het tweede lid.<br>
+<br>
+De kosten die verbonden zijn aan het versturen van de betalingsherinnering, vermeld in paragraaf 1, tweede lid, en de ingebrekestelling, vermeld in het tweede lid, aan een beschermde afnemer zijn ten laste van de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit.<br>
+<br>
+§ 3. De elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit vervangt de meter door een digitale meter met een geactiveerde voorafbetalingsfunctie binnen de twintig kalenderdagen als de huishoudelijke elektriciteitsafnemer binnen eenentwintig kalenderdagen na de verzending van de betalingsherinnering, vermeld in paragraaf 1, tweede lid, zijn openstaande rekeningen niet heeft betaald, op voorwaarde dat hij normale toegang heeft tot de ruimte waarin de elektriciteitsmeter wordt of staat opgesteld.<br>
+<br>
+De elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit voorziet in verschillende manieren om de afnemer op een gebruiksvriendelijke manier en ongeacht diens digitale competenties inzage te verschaffen in zijn saldo van het opgeladen verbruikskrediet.<br>
+<br>
+De elektriciteitsafnemer wordt tegen vol vermogen beleverd door de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit. Bij wanbetaling volgen de elektriciteitsdistributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit de procedure, vermeld in artikel 5.3.13 tot en met 5.3.16.<br>
+<br>
+§ 4. Als het technisch gezien niet mogelijk is om een digitale meter voor elektriciteit bij de huishoudelijke elektriciteitsafnemer in kwestie te plaatsen, wordt een autonome stroombegrenzer geplaatst in plaats van een digitale meter. Bij wanbetaling volgen de elektriciteitsdistributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit de procedure, vermeld in artikel 5.3.13 tot en met 5.3.16.<br>
+<br>
+§ 5. Als de huishoudelijke elektriciteitsafnemer geen normale toegang geeft tot de ruimte waarover hij het gebruiks- of eigendomsrecht heeft en waarin de elektriciteitsmeter is opgesteld, voor de vervanging van een klassieke meter of budgetmeter door een digitale meter, kan de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit een verzoek tot afsluiting van de elektriciteitstoevoer indienen bij de lokale adviescommissie.<br>
+<br>
+§ 6. De digitale meter met geactiveerde voorafbetalingsfunctie wordt door de elektriciteitsdistributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit zodanig ingesteld dat een noodkrediet voor een bedrag van 75 euro ter beschikking wordt gesteld van de huishoudelijke elektriciteitsafnemer.<br>
+<br>
+§ 7. De elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit stelt bij de inschakeling van de voorafbetalingsfunctie voor elektriciteit minstens de volgende informatie ter beschikking van de huishoudelijke elektriciteitsafnemer in kwestie:<br>
+1° een gebruikshandleiding, met inbegrip van de volgende informatie:<br>
+a) een gedetailleerde beschrijving van de oplaadmogelijkheden;<br>
+b) instructies over de toegang tot de gegevens over zijn verbruik;<br>
+c) informatie over het noodkrediet en de manier waarop het gebruik ervan wordt verrekend bij het opladen;<br>
+2° het toegepaste elektriciteitstarief;<br>
+3° de aanmeldingsgegevens voor het online webportaal;<br>
+4° een actuele lijst met de plaats en de toegankelijkheid van de dichtstbijzijnde oplaadmogelijkheden;<br>
+5° een telefoonnummer en website voor het melden van problemen en voor noodgevallen.".
+
+### ART 14.
+
+In artikel 5.3.2 van hetzelfde besluit wordt het tweede lid vervangen door wat volgt:<br>
+<br>
+"In dat geval gaat de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit over tot uitschakeling van de voorafbetalingsfunctie in de digitale meter of wegneming van de autonome stroombegrenzer, daar waar een digitale meter met ingeschakelde voorafbetalingsfunctie of een autonome begrenzer aanwezig is.".
+
+### ART 15.
+
+In artikel 5.3.3 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 wordt het eerste lid vervangen door wat volgt:<br>
+"Als de huishoudelijke elektriciteitsafnemer bij wie de voorafbetalingsfunctie voor elektriciteit is geactiveerd, verhuist, schakelt de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit de voorafbetalingsfunctie op het oude adres uit vanaf de verhuisdatum, als die bekend is, of op verzoek van de nieuwe huishoudelijke elektriciteitsafnemer, binnen drie werkdagen na de indiening van de aanvraag.";<br>
+2° paragraaf 2 wordt vervangen door wat volgt:<br>
+" § 2. Bij de huishoudelijke elektriciteitsafnemer die verhuist en op zijn oude adres met een meter met actieve voorafbetalingsfunctie of een autonome stroombegrenzer elektriciteit verbruikte, plaatst de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit op het nieuwe adres een digitale meter met een geactiveerde voorafbetalingsfunctie of activeert hij de voorafbetalingsfunctie of de autonome stroombegrenzer. Dat kan op initiatief van de elektriciteitsdistributienetbeheerder, als die het nieuwe adres van de huishoudelijk elektriciteitsafnemer kent, of op verzoek van de huishoudelijke elektriciteitsafnemer zelf.".
+
+### ART 16.
+
+In artikel 5.3.4 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt vervangen door wat volgt:<br>
+"De kosten voor de plaatsing van de digitale meter met geactiveerde voorafbetalingsfunctie, met inbegrip van de inschakeling en uitschakeling van die functie en de kosten om de autonome stroombegrenzer weg te nemen, zijn altijd ten laste van de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit.";<br>
+2° het tweede lid wordt opgeheven.
+
+### ART 17.
+
+Artikel 5.3.5 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5.3.5. Zodra het bedrag waarmee de elektriciteitsmeter is opgeladen, en het noodkrediet waarmee die is uitgerust, opgebruikt zijn, schakelt de elektriciteitsmeter over op de minimale levering van elektriciteit.".
+
+### ART 18.
+
+In titel V, hoofdstuk III van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 17 mei 2019, wordt het opschrift van afdeling III vervangen door wat volgt:<br>
+<br>
+"Afdeling III. Voorafbetaling van elektriciteitsverbruik".
+
+### ART 19.
+
+Artikel 5.3.7 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5.3.7. De elektriciteitsdistributienetbeheerder voorziet binnen zijn werkingsgebied voor de huishoudelijke elektriciteitsafnemer verschillende mogelijkheden om via voorafbetaling een krediet voor elektriciteitsverbruik op te laden in de meter.<br>
+<br>
+In iedere gemeente waar een meter met geactiveerde voorafbetalingsfunctie in gebruik is, is minstens één publiek toegankelijk apparaat voor voorafbetaling aanwezig.".
+
+### ART 20.
+
+Artikel 5.3.8 van hetzelfde besluit wordt opgeheven.
+
+### ART 21.
+
+In titel V, hoofdstuk III van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 17 mei 2019, wordt het opschrift van afdeling IV vervangen door wat volgt:<br>
+<br>
+"Afdeling IV. Uitschakelen en herinschakelen van de minimale levering in de elektriciteitsmeter".
+
+### ART 22.
+
+In artikel 5.3.9 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 29 november 2013 en 10 juli 2015, worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 1 wordt vervangen door wat volgt:<br>
+" § 1. Zodra de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit vaststelt dat de elektriciteitsmeter is overgeschakeld op de minimale levering elektriciteit, contacteert hij de huishoudelijke elektriciteitsafnemer via het communicatiekanaal dat de huishoudelijke elektriciteitsafnemer kiest of, als die keuze niet bekend is, met een brief met de boodschap dat hij op de minimale levering voor elektriciteit is overgeschakeld en met de vraag om binnen de vijftien kalenderdagen een regeling te treffen om het elektriciteitsverbruik te betalen dat is geleverd door de elektriciteitsdistributienetbeheerder.";<br>
+2° paragraaf 2 wordt vervangen door wat volgt:<br>
+" § 2. Als de huishoudelijke elektriciteitsafnemer niet reageert op de poging tot contact, vermeld in paragraaf 1, contacteert de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit de huishoudelijke elektriciteitsafnemer opnieuw via het communicatiekanaal dat de huishoudelijke elektriciteitsafnemer kiest of, als die keuze niet bekend is, met een brief met de vraag om binnen vijftien kalenderdagen contact op te nemen.";<br>
+2° paragraaf 3 wordt vervangen door wat volgt:<br>
+" § 3. De kosten die verbonden zijn aan de contactname met de huishoudelijke elektriciteitsafnemer, vermeld in paragraaf 1, zijn ten laste van de elektriciteitsdistributienetbeheerder.";<br>
+3° paragraaf 4 en paragraaf 5 worden opgeheven.
+
+### ART 23.
+
+In artikel 5.3.10 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 29 november 2013, worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 1 wordt vervangen door wat volgt:<br>
+" § 1. Als de huishoudelijk elektriciteitsafnemer binnen vijftien kalenderdagen als vermeld in artikel 5.3.9, § 2, geen regeling treft, kan de elektriciteitsdistributienetbeheerder een verzoek tot uitschakeling van de minimale levering voor elektriciteit indienen bij de lokale adviescommissie. Bij uitschakeling van de minimale levering zal de huishoudelijke elektriciteitsafnemer alleen nog elektriciteit kunnen verbruiken als er voldoende verbruikskrediet voor elektriciteit opgeladen is.";<br>
+2° paragraaf 2 wordt opgeheven;<br>
+3° in paragraaf 3, eerste lid worden de woorden "met een budgetmeter voor elektriciteit met uitgeschakelde stroombegrenzer" vervangen door de woorden "bij wie de minimale levering is uitgeschakeld", worden de woorden "budgetmeter voor elektriciteit" vervangen door de woorden "elektriciteitsmeter met geactiveerde voorafbetalingsfunctie" en wordt het woord "hulpkrediet" vervangen door het woord "noodkrediet";<br>
+4° in paragraaf 3, tweede lid wordt het woord "brief" vervangen door het woord "bericht", wordt het woord "budgetmeter" vervangen door het woord "elektriciteitsmeter" en wordt de zinsnede "naam, het adres en het telefoonnummer" vervangen door het woord "contactgegevens";<br>
+5° in paragraaf 3 wordt het derde lid opgeheven.
+
+### ART 24.
+
+In artikel 5.3.11 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden "stroombegrenzer in de budgetmeter voor elektriciteit" vervangen door de woorden "minimale levering elektriciteit in de elektriciteitsmeter";<br>
+2° in het eerste lid worden in de eerste zin de woorden "op verzoek van de huishoudelijke elektriciteitsafnemer" opgeheven;<br>
+3° in het eerste lid wordt de zinsnede "50 % van de openstaande rekeningen bij zijn elektriciteitsdistributienetbeheerder of bij de beheerder van het plaatselijk vervoernet van elektriciteit betaald heeft" vervangen door de zinsnede "voor maximaal 150 euro openstaande schulden heeft bij zijn elektriciteitsdistributienetbeheerder of bij de beheerder van het plaatselijk vervoernet voor elektriciteit.";<br>
+4° in het eerste lid wordt de zin "Op verzoek van de huishoudelijke elektriciteitsafnemer of zijn aangestelde en na overleg met de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit kan vroeger overgegaan worden tot de herinschakeling van de stroombegrenzer in de budgetmeter voor elektriciteit als daarvoor specifieke redenen zijn." vervangen door de zin "Als sociaal onderzoek door het OCMW daarvoor een specifieke reden aantoont, kan vroeger worden overgegaan tot de herinschakeling van de minimale levering elektriciteit op verzoek van de huishoudelijk elektriciteitsafnemer of zijn aangestelde, en na overleg met de elektriciteitsdistributienetbeheerder.";<br>
+5° het tweede en derde lid worden opgeheven.
+
+### ART 25.
+
+In titel V, hoofdstuk III van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 17 mei 2019, wordt het opschrift van afdeling V vervangen door wat volgt: "Schuldafbouw via de elektriciteitsmeter".
+
+### ART 26.
+
+In artikel 5.3.12 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 7 september 2012 en 29 november 2013, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid wordt het bedrag "750 euro" vervangen door het bedrag "500 euro";<br>
+2° in paragraaf 1, eerste lid worden de woorden "voordat een budgetmeter voor elektriciteit geplaatst is" vervangen door de woorden "voordat de voorafbetalingsfunctie in de elektriciteitsmeter is geactiveerd";<br>
+3° in paragraaf 1 wordt het tweede lid opgeheven;<br>
+4° in paragraaf 2, eerste lid, wordt het bedrag "750 euro" vervangen door het bedrag "500 euro";<br>
+5° in paragraaf 2, eerste lid, worden de woorden "voordat een budgetmeter voor elektriciteit geplaatst is" vervangen door de woorden "voordat de voorafbetalingsfunctie in de elektriciteitsmeter is geactiveerd" en worden de woorden "budgetmeter voor elektriciteit" vervangen door het woord "elektriciteitsmeter";<br>
+6° in paragraaf 2, tweede lid worden tussen het woord "afbetalingsplan" en de woorden "per brief" de woorden "via een communicatiemiddel dat de huishoudelijke elektriciteitsafnemer zelf kiest of" ingevoegd;<br>
+7° aan paragraaf 2, tweede lid worden de woorden "of een ander afbetaalbedrag per week voor te stellen" toegevoegd;<br>
+8° in paragraaf 3, eerste lid, worden de woorden "budgetmeter voor elektriciteit" telkens vervangen door het woord "elektriciteitsmeter";<br>
+9° in paragraaf 3, tweede lid, worden de woorden "budgetmeter voor elektriciteit" vervangen door het woord "elektriciteitsmeter" en worden de woorden "een gedeelte van" vervangen door de zinsnede "35% van";<br>
+10° in paragraaf 3, wordt het derde lid vervangen door wat volgt: "De elektriciteitsnetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit biedt de huishoudelijke afnemer de mogelijkheid vrijwillig na afspraak bedragen op te laden die 100% naar de afbouw van schulden gaan.".
+
+### ART 27.
+
+Artikel 5.3.15 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5.3.15. De elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit vermeldt zowel in de betalingsherinnering als in de ingebrekestelling de informatie, vermeld in artikel 5.3.1, § 6.".
+
+### ART 28.
+
+In titel V van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 16 juli 2021, wordt het opschrift van hoofdstuk IV vervangen door wat volgt:<br>
+<br>
+"Hoofdstuk IV. Beschermingsmaatregelen bij wanbetaling ten opzichte van de aardgasdistributienetbeheerder".
+
+### ART 29.
+
+In titel V, hoofdstuk IV van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 16 juli 2021, wordt het opschrift van afdeling I vervangen door wat volgt:<br>
+<br>
+"Afdeling I. Verbruik van aardgas geleverd door de aardgasdistributienetbeheerder en activatie van de voorafbetalingsfunctie in de aardgasmeter".
+
+### ART 30.
+
+In artikel 5.4.1 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 29 november 2013, 23 februari 2018 en 17 mei 2019, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid worden de woorden "die vervalt vijftien dagen na de verzending" opgeheven;<br>
+2° in paragraaf 2, eerste lid wordt het getal "60" vervangen door het woord "twintig" en worden de woorden "een budgetmeter voor aardgas zal plaatsen of inschakelen" vervangen door de woorden "de meter zal vervangen door een digitale meter met een geactiveerde voorafbetalingsfunctie of de voorafbetalingsfunctie in de digitale meter zal activeren";<br>
+3° in paragraaf 2 wordt tussen het tweede en derde lid een lid ingevoegd, dat luidt als volgt:<br>
+"De aardgasdistributienetbeheerder vermeldt al de volgende gegevens in de betalingsherinnering, vermeld in paragraaf 1, tweede lid, en in de ingebrekestelling, vermeld in het tweede lid:<br>
+1° de contactgegevens van zijn bevoegde dienst;<br>
+2° de mogelijkheden om bij betalingsmoeilijkheden een regeling te treffen om de openstaande facturen te betalen. Die mogelijkheden zijn:<br>
+a) de uitwerking van een afbetalingsplan met de aardgasdistributienetbeheerder;<br>
+b) de uitwerking van een afbetalingsplan via het OCMW;<br>
+c) de uitwerking van een afbetalingsplan via een erkende instelling voor schuldbemiddeling;<br>
+3° de mogelijkheid die hij heeft om een verzoek tot afsluiting in te dienen bij de lokale adviescommissie.";<br>
+4° in paragraaf 3, eerste lid, worden de woorden "plaatst de budgetmeter voor aardgas of schakelt de budgetmeter voor aardgas in binnen zestig kalenderdagen" vervangen door de woorden "vervangt de meter door een digitale meter met een geactiveerde voorafbetalingsfunctie of activeert de voorafbetalingsfunctie in de digitale meter binnen twintig kalenderdagen", en worden de woorden "budgetmeter voor aardgas" vervangen door het woord "aardgasmeter";<br>
+5° in paragraaf 3 wordt tussen het eerste en het tweede lid een lid ingevoegd, dat luidt als volgt:<br>
+"Bij een huishoudelijke afnemer die daarom verzoekt, activeert de aardgasdistributienetbeheerder de voorafbetalingsfunctie in de digitale meter voor aardgas.";<br>
+6° in paragraaf 3 wordt het bestaande derde lid, dat het vierde lid wordt, vervangen door wat volgt:<br>
+"De aardgasdistributienetbeheerder voorziet in verschillende manieren om de aardgasafnemer op een gebruiksvriendelijke manier en ongeacht zijn digitale competenties inzage te verschaffen in zijn saldo van het opgeladen verbruikskrediet.";<br>
+7° in paragraaf 3 wordt het bestaande vierde lid opgeheven;<br>
+8° in paragraaf 3, vijfde lid, worden de woorden "zonder enige beperking" vervangen door de woorden "tegen vol vermogen";<br>
+9° in paragraaf 4 worden de woorden "budgetmeter voor aardgas" vervangen door de woorden "digitale aardgasmeter";<br>
+10° in paragraaf 5 wordt de zinsnede "plaatsing, de controle of meteropname van de meter, inclusief de budgetmeter voor aardgas" vervangen door de woorden "vervanging van een klassieke meter of budgetmeter door een digitale meter";<br>
+11° in paragraaf 6 worden de woorden "budgetmeter voor aardgas" vervangen door het woord "aardgasmeter", wordt de zinsnede "hulpkrediet voor een bedrag dat overeenkomt met de waarde van 1000 kWh tegen de sociale maximumprijs voor aardgas," vervangen door de zinsnede "noodkrediet van 75 euro";<br>
+12° aan paragraaf 6 worden de zinnen "Dit bedrag wordt vanaf 1 januari 2023 jaarlijks geïndexeerd aan de hand van het cijfer van de gezondheidsindex van de maand december van het jaar voor de aanpassing met als basisindexcijfer het cijfer van de gezondheidsindex van december 2021. Het bedrag wordt afgerond naar de hogere eenheid." toegevoegd;<br>
+13° paragraaf 7 wordt vervangen door wat volgt:<br>
+" § 7. De aardgasdistributienetbeheerder stelt bij de inschakeling van de voorafbetalingsfunctie voor aardgas minstens de volgende informatie ter beschikking van de huishoudelijke aardgasafnemer in kwestie:<br>
+1° een gebruikshandleiding, met inbegrip van de volgende informatie:<br>
+a) een gedetailleerde beschrijving van de oplaadmogelijkheden;<br>
+b) instructies over de toegang tot de gegevens over zijn verbruik;<br>
+c) informatie over het noodkrediet en de manier waarop het gebruik ervan wordt verrekend bij het opladen;<br>
+2° het toegepaste aardgastarief;<br>
+3° de aanmeldingsgegevens voor het online webportaal;<br>
+4° een actuele lijst met de plaats en de toegankelijkheid van de dichtstbijzijnde oplaadmogelijkheden;<br>
+5° een telefoonnummer en website voor het melden van problemen en voor noodgevallen.".
+
+### ART 31.
+
+In artikel 5.4.2 van hetzelfde besluit, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden "budgetmeter voor aardgas" vervangen door het woord "aardgasmeter";<br>
+2° in het eerste lid worden de woorden "op basis van het bekende oplaadgedrag en verbruikspatroon uit het verleden" opgeheven;<br>
+3° in het eerste lid wordt het woord "hulpkrediet" vervangen door het woord "noodkrediet";<br>
+4° in het tweede lid worden de woorden "de kans reëel acht" vervangen door het woord "vaststelt";<br>
+5° in het tweede lid wordt het woord "valt" vervangen door de woorden "dreigt te vallen";<br>
+6° in het tweede lid wordt de zinsnede "op basis van de beoordeling, vermeld in het eerste lid," opgeheven.<br>
+7° in het tweede lid wordt het woord "budgetmeter" vervangen door het woord aardgasmeter".
+
+### ART 32.
+
+In artikel 5.4.3 van hetzelfde besluit worden de woorden "budgetmeter voor aardgas" vervangen door de woorden "voorafbetalingsfunctie in de aardgasmeter".
+
+### ART 33.
+
+Artikel 5.4.4 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5.4.4. § 1. Als de huishoudelijke aardgasafnemer bij wie de voorafbetalingsfunctie voor aardgas is geactiveerd, verhuist, schakelt de aardgasdistributienetbeheerder de budgetmeterfunctie op het oude adres uit vanaf de verhuisdatum, als die bekend is, of op verzoek van de nieuwe huishoudelijke aardgasafnemer, binnen drie werkdagen na de indiening van de aanvraag.<br>
+<br>
+§ 2. Bij de huishoudelijke aardgasafnemer die verhuist en op zijn oude adres met een meter met actieve budgetmeterfunctie aardgas verbruikte, plaatst de aardgasdistributienetbeheerder op het nieuwe adres een digitale meter met een geactiveerde voorafbetalingsfunctie of activeert hij de voorafbetalingsfunctie. Dat kan op initiatief van de aardgasdistributienetbeheerder, als die het nieuwe adres van de huishoudelijk aardgasafnemer kent, of op verzoek van de huishoudelijke afnemer zelf.".
+
+### ART 34.
+
+In artikel 5.4.5 van hetzelfde besluit, worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt vervangen door wat volgt:<br>
+"De kosten voor de plaatsing van de digitale meter met geactiveerde voorafbetalingsfunctie, met inbegrip van de inschakeling en de uitschakeling van deze functie, zijn altijd ten laste van de aardgasdistributienetbeheerder.";<br>
+2° het tweede lid wordt opgeheven.
+
+### ART 35.
+
+In titel V, hoofdstuk IV van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 16 juli 2021, wordt het opschrift van afdeling III vervangen door wat volgt:<br>
+<br>
+"Afdeling III. Voorafbetaling van aardgasverbruik".
+
+### ART 36.
+
+Artikel 5.4.11 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5.4.11. De aardgasdistributienetbeheerder voorziet binnen zijn werkingsgebied voor de huishoudelijke aardgasafnemer verschillende mogelijkheden om via voorafbetaling een krediet voor aardgasverbruik op te laden in de meter.<br>
+<br>
+In iedere gemeente waar een meter met geactiveerde voorafbetalingsfunctie in gebruik is, is minstens één publiek toegankelijk apparaat voor voorafbetaling aanwezig.".
+
+### ART 37.
+
+Artikel 5.4.12 van hetzelfde besluit wordt opgeheven.
+
+### ART 38.
+
+In titel V, hoofdstuk IV van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 16 juli 2021, wordt het opschrift van afdeling IV vervangen door wat volgt:<br>
+<br>
+"Afdeling IV. Schuldafbouw via de aardgasmeter".
+
+### ART 39.
+
+In artikel 5.4.13 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 7 september 2012 en 29 november 2013 worden volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid wordt het bedrag "750 euro" vervangen door het bedrag "500 euro";<br>
+2° in paragraaf 1, eerste lid worden de woorden "voordat een budgetmeter voor aardgas geplaatst is" vervangen door de woorden "voordat de voorafbetalingsfunctie in de aardgasmeter is geactiveerd";<br>
+3° in paragraaf 1 wordt het tweede lid opgeheven;<br>
+4° in paragraaf 2, eerste lid, wordt het bedrag "750 euro" vervangen door het bedrag "500 euro";<br>
+5° in paragraaf 2, eerste lid, worden de woorden "voordat een budgetmeter voor aardgas geplaatst is" vervangen door de woorden "voordat de voorafbetalingsfunctie in de aardgasmeter is geactiveerd";<br>
+6° in paragraaf 2, tweede lid worden tussen het woord "afbetalingsplan" en de woorden "per brief" de woorden "via een communicatiemiddel dat de huishoudelijk aardgasafnemer zelf kiest of" ingevoegd;<br>
+7° aan paragraaf 2, tweede lid worden de woorden "of een ander afbetaalbedrag per week voor te stellen" toegevoegd;<br>
+8° in paragraaf 3, eerste lid, worden de woorden "budgetmeter voor aardgas" telkens vervangen door het woord "aardgasmeter";<br>
+9° in paragraaf 3, tweede lid, worden de woorden "budgetmeter voor aardgas" vervangen door het woord "aardgasmeter";<br>
+10° in paragraaf 3, tweede lid worden de woorden "een gedeelte van" vervangen door de zinsnede "35% van";<br>
+11° in paragraaf 3, wordt het derde lid vervangen door wat volgt:<br>
+"De aardgasnetbeheerder biedt de huishoudelijke afnemer de mogelijkheid vrijwillig na afspraak bedragen op te laden die 100% naar de afbouw van schulden gaan.".
+
+### ART 40.
+
+In titel V, hoofdstuk IV van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 17 mei 2019, worden in het opschrift van afdeling V de zinsnede "als er geen budgetmeter voor aardgas is geplaatst" vervangen door de zinsnede "als er geen voorafbetalingsfunctie is geactiveerd".
+
+### ART 41.
+
+Artikel 5.4.16 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5.4.16. De aardgasdistributienetbeheerder vermeldt in de betalingsherinnering en in de ingebrekestelling de informatie, vermeld in artikel 5.4.1, § 7.".
+
+### ART 42.
+
+In artikel 5.5.4, § 1, eerste lid, van hetzelfde besluit worden tussen het woord "netbeheerder" en de woorden "na een bezoek" de woorden: "na consultatie van de verbruiksgegevens of" ingevoegd.
+
+### ART 43.
+
+Artikel 5.6.3 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 7 september 2012, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5.6.3. De elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit en de aardgasdistributienetbeheerder contacteren alle afnemers die zij beleveren en die gedurende één maand schuldenvrij zijn, en delen hun mee dat ze kunnen terugkeren naar een leverancier op de markt. Voor niet-beschermde afnemers vermeldt de mededeling bijkomend dat er op de markt contracten tegen voordeligere tarieven te vinden zijn dan het gereguleerde tarief van de distributienetbeheerder. Daarbij wordt voor diezelfde groep afnemers verwezen naar de online prijsvergelijking van de VREG. Voor beschermde afnemers vermeldt de mededeling bijkomend dat zij bij overstap naar een leverancier op de markt verder kunnen verbruiken aan het sociaal tarief zolang hun statuut ongewijzigd blijft.<br>
+<br>
+Deze mededelingen wordt voor die afnemers die zonder onderbreking schuldenvrij zijn, om de zes maanden herhaald.".
+
+### ART 44.
+
+In artikel 5.7.1, eerste lid van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 7 september 2012 en 29 november 2013, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 1° wordt punt d) vervangen door wat volgt:<br>
+"d) het aantal betalingsplannen en het gemiddelde betalingsbedrag per maand met vermelding van het aantal waarvoor in het kalenderjaar in kwestie in een eerste aflossing werd voorzien;";<br>
+2° aan punt 1° worden een punt m), n) en o) toegevoegd, die luiden als volgt:<br>
+"m) de gemiddelde looptijd van de opgestarte afbetalingsplannen, uitgedrukt in maanden;<br>
+n) het aantal vragen voor afbetaalplannen dat niet heeft geleid tot daadwerkelijke opstart ervan;<br>
+o) het aantal schulddossiers dat is doorgestuurd naar een professioneel invorderingsbureau;";<br>
+3° in punt 2°, inleidende zin wordt het woord "gemeente" vervangen door het woord "postcode";<br>
+4° in punt 2° wordt punt b) opgeheven;<br>
+5° aan punt 2°, c) wordt een punt 4) toegevoegd, dat luidt als volgt:<br>
+"4) het aantal heraansluitingen van de elektriciteitstoevoer na de verhuizing van een afgesloten afnemer";<br>
+6° in punt 2° wordt punt d) opgeheven;<br>
+7° in punt 2° wordt punt f) vervangen door wat volgt:<br>
+"f) het aantal gezinnen waarbij de voorbetalingsfunctie is geactiveerd in de digitale meter";<br>
+8° in punt 2° wordt punt m) opgeheven;<br>
+9° aan punt 2° worden een punt o) tot en met w) toegevoegd, die luiden als volgt:<br>
+"o) het totale aantal huishoudelijke afnemers dat binnen het kalenderjaar in kwestie overgeschakeld is op de minimale levering van elektriciteit voor een eerste oplading is verricht via de voorafbetalingsfunctie in de digitale meter;<br>
+p) het totale aantal huishoudelijke afnemers dat binnen het kalenderjaar in kwestie minstens één keer langer dan één kalenderdag de minimale levering van elektriciteit heeft gebruikt;<br>
+q) het totale aantal huishoudelijke afnemers dat binnen het kalenderjaar in kwestie minstens één keer minder dan één kalenderdag de minimale levering van elektriciteit heeft gebruikt;<br>
+r) het gemiddelde aantal dagen dat de minimale levering van elektriciteit is gebruikt door huishoudelijke afnemers die de minimale levering van elektriciteit minstens één keer langer dan één kalenderdag gebruikten;<br>
+s) het gemiddelde aantal dagen dat de minimale levering van elektriciteit is gebruikt door huishoudelijke afnemers die door een oplading ermee stopten de minimale levering elektriciteit te gebruiken, opgesplitst in de maanden waarin de afnemer die oplading deed;<br>
+t) het gemiddelde aantal dagen dat de minimale levering van elektriciteit is gebruikt door huishoudelijke afnemers, die door een LAC-beslissing ermee stopten de minimale levering van elektriciteit te gebruiken, opgesplitst in de maanden waarin de LAC-beslissing werd genomen;<br>
+u) het totale aantal huishoudelijke afnemers dat binnen het kalenderjaar in kwestie meer dan dertig dagen de minimale levering van elektriciteit gebruikten;<br>
+v) het totale aantal huishoudelijke afnemers waarbij de stroombegrenzer uitgeschakeld is, dat minstens één keer het noodkrediet opgebruikte, opgesplitst per maand;<br>
+w) het totale aantal huishoudelijke afnemers dat is afgesloten voor een eerste oplading is gedaan via de voorafbetalingsfunctie in de digitale meter;";<br>
+10° in punt 3° wordt punt a) vervangen door wat volgt:<br>
+"a) het aantal gezinnen waarbij het voorbije kalenderjaar de voorafbetalingsfunctie in de digitale meter is geactiveerd, opgesplitst per postcode;";<br>
+11° in punt 3°, b) wordt het woord "oplaadmogelijkheden" vervangen door de woorden "fysieke oplaadpunten";<br>
+12° aan punt 3°, c) worden de woorden "bij de distributienetbeheerder" toegevoegd;<br>
+13° aan punt 3°, d) worden de woorden "bij de distributienetbeheerder" toegevoegd;<br>
+14° aan punt 3°, e) worden woorden "bij klanten van de distributienetbeheerder" toegevoegd;<br>
+15° in punt 3°, f) worden tussen het woord "elektriciteitsmeter" en de zinsnede ", opgesplitst in" de woorden "zonder activatie van de voorafbetalingsfunctie" ingevoegd;<br>
+16° punt 3°, o) wordt vervangen door wat volgt:<br>
+"o) het aantal afbetalingsplannen en het gemiddelde betalingsbedrag per maand met vermelding van het aantal waarvoor in het voorbije kalenderjaar in een eerste aflossing is voorzien";<br>
+17° aan punt 3°, r) wordt de zinsnede ", per postcode" toegevoegd;<br>
+18° in punt 3°, s) wordt de zinsnede ", per postcode" toegevoegd;<br>
+19° in punt 3°, t) worden de woorden "of vertegenwoordigd" opgeheven;<br>
+20° aan punt 3°, t) wordt de zinsnede ", per postcode" toegevoegd;<br>
+21° aan punt 3°, u) wordt aan de inleidende zin de woorden "en per postcode" toegevoegd;<br>
+22° in punt 3°, v) worden de woorden " per gemeente" vervangen door de woorden "en per postcode";<br>
+23° aan punt 3°, w) wordt de zinsnede ", per postcode" toegevoegd;<br>
+24° aan punt 3°, x) wordt de zinsnede ", per postcode" toegevoegd;<br>
+25° in punt 3°, y) worden de woorden "of vertegenwoordigd" opgeheven;<br>
+26° aan punt 3°, y) wordt de zinsnede ", per postcode" toegevoegd;<br>
+27° aan punt 3°, z), inleidende zin worden de woorden "en per postcode" toegevoegd;<br>
+28° in punt 4°, inleidende zin wordt het woord "gemeente" vervangen door het woord "postcode";<br>
+29° in punt 4° wordt punt b) opgeheven;<br>
+30° aan punt 4°, c) wordt een punt 4) toegevoegd dat luidt als volgt:<br>
+"4) het aantal heraansluitingen van de aardgastoevoer na de verhuizing van een afgesloten afnemer";<br>
+31° in punt 4° worden punt d) opgeheven;<br>
+32° in punt 4° wordt punt f) vervangen door wat volgt:<br>
+"f) het aantal gezinnen waarbij de voorbetalingsfunctie is geactiveerd in de digitale meter";<br>
+33° in punt 4° worden punt m) opgeheven;<br>
+34° aan punt 4° wordt een punt o) toegevoegd, dat luidt als volgt:<br>
+"o) het totale aantal huishoudelijke afnemers dat is afgesloten voor een eerste oplading is gedaan via de voorafbetalingsfunctie in de digitale meter";<br>
+35° in paragraaf 5, a), wordt het woord "gemeente" vervangen door het woord "postcode";<br>
+36° in punt 5, b) wordt het woord "oplaadmogelijkheden" vervangen door de woorden "fysieke oplaadpunten" en wordt het woord "gemeente" vervangen door het woord "postcode";<br>
+37° er wordt een punt 6° toegevoegd, dat luidt als volgt:<br>
+"6° voor de aardgas- en de elektriciteitsdistributienetbeheerder:<br>
+a) het totale aantal huishoudelijke afnemers dat beleverd wordt door de distributienetbeheerder en dat nog geen ingebrekestelling heeft ontvangen;<br>
+b) de gemiddelde uitstaande schuld bij de distributienetbeheerder op het moment dat de voorafbetalingsfunctie is geactiveerd;<br>
+c) het gemiddelde aantal dagen per kalenderjaar voor de voorafbetalingsfunctie is geactiveerd na plaatsing van de digitale meter;<br>
+d) het aantal geplaatste digitale meters waar geen voorafbetalingsfunctie geactiveerd kon worden;<br>
+e) het gemiddelde aantal dagen tussen de activering van de voorafbetalingsfunctie en de eerste oplading;<br>
+f) het gemiddelde aantal keren dat huishoudelijke afnemers energie hebben opgeladen via de voorafbetalingsfunctie, opgesplitst in elektriciteit en aardgas;<br>
+g) het gemiddelde bedrag waarvoor huishoudelijke afnemers energie hebben opgeladen via de voorafbetalingsfunctie, opgesplitst in aardgas en elektriciteit en per maand;<br>
+h) het totale aantal keren dat energie is opgeladen via de voorafbetalingsfunctie, opgesplitst in de verschillende oplaadmogelijkheden en uitgedrukt in percentages";<br>
+i) het totale aantal meldingen dat is verstuurd naar huishoudelijke afnemers, met als doel de afnemer te verwittigen dat het opgeladen bedrag via de voorafbetalingsfunctie de ondergrens van vijf euro heeft bereikt, opgesplitst per maand;<br>
+j) het totale aantal huishoudelijke afnemers bij wie het noodkrediet minstens één keer is ingeschakeld, opgesplitst per maand;<br>
+k) het gemiddelde aantal keren dat het noodkrediet is ingeschakeld door huishoudelijke afnemers;<br>
+l) het gemiddelde aantal dagen dat een huishoudelijk afnemer zichzelf heeft afgesloten van de energietoevoer tot hij met een oplading via de voorafbetalingsfunctie zichzelf opnieuw van energie voorzag, opgesplitst per maand waarin de afnemer de oplading uitvoerde;<br>
+m) het totale aantal huishoudelijke afnemers dat zich binnen een betreffend kalenderjaar minstens één keer heeft afgesloten van elektriciteit en aardgas;<br>
+n) het gemiddelde totaal aantal dagen dat huishoudelijke afnemers binnen het kalenderjaar in kwestie beleverd zijn via de voorafbetalingsfunctie tot en met de uitschakeling van die functie bij overstap naar een commerciële leverancier;<br>
+o) het totale aantal huishoudelijke afnemers dat is beleverd via de voorafbetalingsfunctie zonder openstaande schuld bij de distributienetbeheerder op de laatste dag van het kalenderjaar in kwestie;<br>
+p) het gemiddelde bedrag dat huishoudelijke afnemers oplaadden via de voorafbetalingsfunctie.".
+
 ### ART 45.
 
 In artikel 6.4.1/1/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 november 2013, vervangen bij het besluit van de Vlaamse Regering van 15 juli 2016 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 9 juli 2021, worden de volgende wijzigingen aangebracht:<br>
