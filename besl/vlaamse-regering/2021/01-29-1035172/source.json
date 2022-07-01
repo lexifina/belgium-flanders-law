@@ -2,16 +2,16 @@
   "codex_id": 1035172,
   "title": "Besluit van de Vlaamse Regering van 2021-01-29 tot wijziging van de VLAREME van 28 oktober 2016, wat betreft de vaststelling van de lijst van equivalente maatregelen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035172/VolledigDocument?datum=2021-02-05",
-  "source_sha256": "f8b9dc4a54512cddf8495d97ceed9ed98f313a066e9a72ef53a887bb985b5e32",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035172/VolledigDocument?datum=2022-07-01",
+  "source_sha256": "f78dc23fbc07fc022fa2fe3f66c5ebfececd412adbc88584165cb90cebb85084",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035172&param=informatie",
-  "as_of": "2021-02-05",
+  "as_of": "2022-07-01",
   "made": "2021-01-29",
   "gazette": "2021-02-04",
   "numac": 2021040326,
   "document_start": "2021-02-05",
   "document_end": null,
-  "in_force": "2021-02-05",
-  "article_versions": 7,
-  "record_form": "consolidated version as in force on 2021-02-05; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-07-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2022-07-01; future article versions excluded; article text as the API gives it"
 }

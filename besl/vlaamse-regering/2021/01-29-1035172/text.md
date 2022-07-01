@@ -30,34 +30,6 @@ Aan artikel 3.5.2, § 1, van de VLAREME van 28 oktober 2016, ingevoegd bij het b
 
 Aan hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 8 januari 2021, wordt een bijlage 8 toegevoegd, die bij dit besluit is gevoegd.
 
-### ART 3.
-
-hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 8 januari 2021, wordt bijlage 8, toegevoegd bij artikel 2, gewijzigd als volgt:<br>
-<br>
-1° aan artikel 1 wordt een punt 8° toegevoegd, dat luidt als volgt:<br>
-<br>
-"8° equivalente maatregel 5: de equivalente maatregel wintergranen na nitraatgevoelige hoofdteelten, vermeld in hoofdstuk 7.";<br>
-<br>
-2° er wordt een hoofdstuk 7, dat bestaat uit artikel 14 tot en met 15, toegevoegd, dat luidt als volgt:<br>
-<br>
-"Hoofdstuk 7. Equivalente maatregel 5. wintergranen na nitraatgevoelige hoofdteelten in 2021.<br>
-<br>
-Afdeling 1. - Nadere omschrijving<br>
-<br>
-Art. 14. De landbouwer die in 2021 opteert voor equivalente maatregel 5, duidt in de verzamelaanvraag de tot het bedrijf behorende percelen bouwland, die in gebiedstype 2 of gebiedstype 3 liggen, aan waarop hij die equivalente maatregel zal toepassen.<br>
-<br>
-Op de tot het bedrijf behorende percelen bouwland die in 2021 in gebiedstype 2 of gebiedstype 3 liggen, waarvoor hij in de verzamelaanvraag heeft aangeduid dat hij er equivalente maatregel 5 zal toepassen, leeft de landbouwer al de volgende voorwaarden na:<br>
-1° op het perceel wordt in 2021 een nitraatgevoelige hoofdteelt verbouwd;<br>
-2° na de nitraatgevoelige hoofdteelt wordt in 2021 een wintergraan als nateelt ingezaaid;<br>
-3° de nateelt wintergraan is uiterlijk op 15 november 2021 ingezaaid;<br>
-4° de nateelt wintergraan blijft aangehouden en wordt in 2022 als hoofdteelt op het perceel in kwestie verbouwd.<br>
-<br>
-Afdeling 2. - Gewicht<br>
-<br>
-Art. 15. Equivalente maatregel 5 is voor 2021 een equivalente maatregel voor de vanggewasverplichting.<br>
-<br>
-Voor elk tot het bedrijf behorende perceel bouwland, dat in gebiedstype 2 of gebiedstype 3 ligt, waarop de landbouwer in 2021 al de voorwaarden, vermeld in artikel 2 en 14, naleeft, bedraagt de reductie van de stikstofverliezen, uitgedrukt in kilogram stikstof, die met equivalente maatregel 5 gerealiseerd wordt, de oppervlakte van het perceel in kwestie, uitgedrukt in hectare, en vermenigvuldigd met 26.".
-
 ### ART 4.
 
 Dit besluit treedt in werking op de dag die volgt op de dag van de bekendmaking ervan in het Belgisch Staatsblad.<br>
