@@ -25,6 +25,10 @@ Na beraadslaging,<br>
 &nbsp;&nbsp; &nbsp;<br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+De statutaire personeelsleden van het agentschap Opgroeien Regie, opgenomen in punt 1° van de bijlage die bij dit besluit is gevoegd, worden overgedragen aan het Agentschap Overheidspersoneel.
+
 ### ART 2.
 
 Het statutair personeelslid van Sport Vlaanderen, opgenomen in punt 2° van de bijlage die bij dit besluit is gevoegd, wordt overgedragen aan het Agentschap Overheidspersoneel.

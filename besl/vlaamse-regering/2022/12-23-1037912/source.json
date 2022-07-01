@@ -2,16 +2,16 @@
   "codex_id": 1037912,
   "title": "Besluit van de Vlaamse Regering van 2022-12-23 tot overdracht van personeelsleden van het agentschap Opgroeien Regie, Sport Vlaanderen, de Vlaamse Belastingdienst en de Vlaamse Maatschappij voor Sociaal Wonen aan het Agentschap Overheidspersoneel in het kader van de uitbreiding van de gemeenschappelijke HR-dienstverlening",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037912/VolledigDocument?datum=2022-06-01",
-  "source_sha256": "d09ac8dd7baee65b35c2d9a01877cd6a722428f286e85e1f206901ec7e0b92c1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037912/VolledigDocument?datum=2022-07-01",
+  "source_sha256": "de5cc1ec255a50b5a8d345448609f5382e56619a2fa09b7bbd9322c22d2b5d3d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037912&param=informatie",
-  "as_of": "2022-06-01",
+  "as_of": "2022-07-01",
   "made": "2022-12-23",
   "gazette": "2023-02-23",
   "numac": 2023010019,
   "document_start": "2022-06-01",
   "document_end": null,
-  "in_force": "2022-06-01",
-  "article_versions": 6,
-  "record_form": "consolidated version as in force on 2022-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-07-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2022-07-01; future article versions excluded; article text as the API gives it"
 }
