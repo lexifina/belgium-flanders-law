@@ -27,6 +27,10 @@ In artikel 151, § 1, eerste lid, 1°, van het besluit van de Vlaamse Regering v
 
 In artikel 153, 3°, van hetzelfde besluit wordt de zinsnede "minstens 6 punten" vervangen door de zinsnede "minstens 5,5 punten".
 
+### ART 3.
+
+In bijlage II bij het ministerieel besluit van 26 juli 2001 tot vaststelling van het bijdragesysteem voor de gebruiker van gezinszorg, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 11 februari 2022, wordt de zinsnede "minstens 6 punten" vervangen door de zinsnede "minstens 5,5 punten".
+
 ### ART 4.
 
 Artikel 3 treedt in werking op 1 juli 2022.<br>

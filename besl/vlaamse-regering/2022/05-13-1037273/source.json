@@ -2,16 +2,16 @@
   "codex_id": 1037273,
   "title": "Besluit van de Vlaamse Regering van 2022-05-13 tot wijziging van artikel 151 en 153 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming en bijlage II bij het ministerieel besluit van 26 juli 2001 tot vaststelling van het bijdragesysteem voor de gebruiker van gezinszorg, wat betreft de aanpassing van de grenswaarden op de BelRAI Screener",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037273/VolledigDocument?datum=2021-06-01",
-  "source_sha256": "b80efa56b4696860c918fa7021a53b2664a0491fdba00e9a022bfc64e10b2d12",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037273/VolledigDocument?datum=2022-07-01",
+  "source_sha256": "9b6e5170620701f3f97fb5cd1b484d0dfb090a4516fbdd6bbac242b3e76ee588",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037273&param=informatie",
-  "as_of": "2021-06-01",
+  "as_of": "2022-07-01",
   "made": "2022-05-13",
   "gazette": "2022-07-20",
   "numac": 2022020941,
   "document_start": "2021-06-01",
   "document_end": null,
-  "in_force": "2021-06-01",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2021-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-07-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2022-07-01; future article versions excluded; article text as the API gives it"
 }
