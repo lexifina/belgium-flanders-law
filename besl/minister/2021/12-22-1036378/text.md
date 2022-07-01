@@ -218,6 +218,8 @@ Het de-minimisquotum bedraagt 62 ton tong. De drempelwaarde bedoeld in artikel 8
 <br>
 § 3. Van 1 januari 2022 tot en met 30 juni 2022 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5500 kg, vermeerderd met een hoeveelheid die gelijk is aan 20 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
+Van 1 juli 2022 tot en met 31 oktober 2022 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden, die gelijk is aan 5000 kg, vermeerderd met een hoeveelheid die gelijk is aan 17 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+<br>
 § 4. Er worden geen gecombineerde visreizen toegestaan tussen ICES-gebieden II, IV en VIIf, g, en tussen ICES-gebieden II, IV en VIIa.
 
 ## Afdeling 2. Schol Noordzee - ICES-gebieden II, IV
@@ -230,7 +232,9 @@ Het totale scholquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-es
 <br>
 § 2. Van 1 januari 2022 tot en met 31 oktober 2022 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 460 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Van die toegekende hoeveelheid mag er per vaartuig maximaal een hoeveelheid van 60 kg per kW voor 15 maart 2022 worden opgevist.<br>
 <br>
-§ 3. Van 1 januari 2022 tot en met 30 juni 2022 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Van die toegekende hoeveelheid mag er per vaartuig maximaal een hoeveelheid van 60 kg per kW voor 15 maart 2022 worden opgevist.
+§ 3. Van 1 januari 2022 tot en met 30 juni 2022 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Van die toegekende hoeveelheid mag er per vaartuig maximaal een hoeveelheid van 60 kg per kW voor 15 maart 2022 worden opgevist.<br>
+<br>
+Van 1 juli 2022 tot en met 31 oktober 2022 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 350 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.
 
 ## Afdeling 3. Tong Bristolkanaal en Keltische Zee - ICES-gebieden VIIf, g
 
@@ -258,7 +262,9 @@ Bij het niet opvissen van minstens 80% van het toegewezen quotum wordt het niet-
 <br>
 Het betrokken vaartuig wordt, indien het geen quotum heeft opgevist, behoudens overmacht, voor een periode van 3 jaar uitgesloten van de mogelijkheid om nog een aanvraag voor een specifieke visvergunning in te dienen.<br>
 <br>
-§ 3. Van 1 januari 2022 tot en met 30 juni 2022 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 9 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.
+§ 3. Van 1 januari 2022 tot en met 30 juni 2022 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 9 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+<br>
+Van 1 juli 2022 tot en met 31 oktober 2022 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 10 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in kW. Hierbij dient onverminderd rekening gehouden te worden met de bepalingen in artikel 19, § 5.
 
 ## Afdeling 4. Kabeljauw westelijke wateren - ICES-gebieden VIIb, c, VIIe-k, VIII
 
@@ -266,7 +272,9 @@ Het betrokken vaartuig wordt, indien het geen quotum heeft opgevist, behoudens o
 
 In de periode van 1 januari 2022 tot en met 31 oktober 2022 is het in de ICES-gebieden VIIb-c, VIIe-k, VIII, voor een vissersvaartuig van het KVS verboden een totale kabeljauwvangst te realiseren die groter is dan 50 kg.<br>
 <br>
-In de periode van 1 januari 2022 tot en met 30 juni 2022 is het in de ICES-gebieden VIIb-c, VIIe-k, VIII, voor een vissersvaartuig van het GVS verboden een totale kabeljauwvangst te realiseren die groter is dan 100 kg.
+In de periode van 1 januari 2022 tot en met 30 juni 2022 is het in de ICES-gebieden VIIb-c, VIIe-k, VIII, voor een vissersvaartuig van het GVS verboden een totale kabeljauwvangst te realiseren die groter is dan 100 kg.<br>
+<br>
+In de periode van 1 juli 2022 tot en met 31 oktober 2022 is het in de ICES-gebieden VIIb-c, VIIe-k, VIII, voor een vissersvaartuig van het GVS verboden een totale kabeljauwvangst te realiseren die groter is dan 100 kg.
 
 ## Afdeling 5. Kabeljauw oostelijk kanaal - ICES-gebied VIId
 
@@ -310,6 +318,8 @@ Bovendien zullen de vissersvaartuigen die gesanctioneerd worden op basis van het
 
 § 1. In de periode 1 januari 2022 tot 30 juni 2022 is het in het ICES-gebied VIIa voor een vaartuig van het GVS verboden een totale tongvangst te realiseren die groter is dan 2500 kg, vermeerderd met een hoeveelheid die gelijk is aan 5 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Bij deze hoeveelheid wordt het wetenschappelijk quotum niet meegerekend.<br>
 <br>
+In de periode 1 juli 2022 tot en met 31 oktober 2022 is het in het ICES-gebied VIIa voor een vaartuig van het GVS verboden om op vaartuigniveau een totale tongvangst te realiseren die groter is dan 11.000 kg. Bij deze hoeveelheid wordt het wetenschappelijk quotum niet meegerekend.<br>
+<br>
 Er wordt een wetenschappelijk tongquotum in het ICES-gebied VIIa voorbehouden van 12 ton, verdeeld over telkens een visreis per kwartaal van maximaal 3000 kg tong.<br>
 <br>
 Teneinde te kunnen genieten van dit wetenschappelijk quotum richten eigenaars van vissersvaartuigen per aangetekende brief of per e-mail een aanvraag tot de bevoegde entiteit, met opgave van het gewenste kwartaal. Deze aanvraag moet ten laatste toekomen bij de bevoegde entiteit op 6 januari 2022, 12.00 uur.<br>
@@ -324,9 +334,9 @@ De visreis moet volledig in ICES-gebied VIIa plaatsvinden en gedurende de volled
 <br>
 Indien een eigenaar van een vaartuig, aangeduid conform lid 4, behoudens in geval van overmacht, niet deelneemt aan het wetenschappelijk onderzoek, komt het vaartuig niet langer in aanmerking voor analoog wetenschappelijk onderzoek tot en met 2023 en wordt de toegekende hoeveelheid tong, voor de betreffende toewijsperiode verminderd met het aantal kg tong zoals toegewezen conform lid 2. Indien dit verschil een negatieve hoeveelheid oplevert, zal het tekort worden afgehouden van het vastgestelde tongquotum voor het betreffende vaartuig in een andere toewijsperiode in hetzelfde of volgende jaar.<br>
 <br>
-§ 2. Het totale tongquotum in het ICES-gebied VIId, dat gereserveerd is voor de vissersvaartuigen van het KVS, bedraagt 242 ton voor de periode van 1 januari 2022 tot en met 31 oktober 2022.<br>
+§ 2. Het totale tongquotum in het ICES-gebied VIId, dat gereserveerd is voor de vissersvaartuigen van het KVS, bedraagt 242 ton voor de periode van 1 januari 2022 tot en met 31 december 2022.<br>
 <br>
-Het totale tongquotum in het ICES-gebied VIId, dat gereserveerd is voor de vissersvaartuigen van het GVS, bedraagt 363 ton voor de periode van 1 januari 2022 tot en met 30 juni 2022.<br>
+Het totale tongquotum in het ICES-gebied VIId, dat gereserveerd is voor de vissersvaartuigen van het GVS, bedraagt 363 ton voor de periode van 1 januari 2022 tot en met 31 december 2022.<br>
 <br>
 Het de-minimisquotum bedraagt 18 ton tong. De drempelwaarde vermeld in artikel 8 bedraagt voor de tongvisserij in het ICES-gebied VIId maximaal 5% van de reeds in de visreis in kwestie gerealiseerde tongvangst in dat ICES-gebied. Bij uitputting van dat de-minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de-minimis voor tong afkomstig uit dat ICES-gebied.<br>
 <br>
@@ -419,7 +429,11 @@ Indien de reder van de dienst Zeevisserij van de bevoegde entiteit een toelating
 <br>
 Indien een eigenaar van een vissersvaartuig, aangeduid conform lid 3, behoudens geval van overmacht, toch niet naar de Noorse zone gaat, wordt het vissersvaartuig de toegang tot de Noorse zone voor een aaneensluitende periode van drie jaar ontzegd en worden er 15 vaartdagen afgehouden van het maximaal aantal vaartdagen waarover het vissersvaartuig beschikt conform artikel 12.<br>
 <br>
-§ 5. In de periode van 1 januari 2022 tot en met 30 juni 2022 is het in het ICES-gebied VIIa voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 50 kg.
+Vanaf 1 juli 2022 is het voor vaartuigen die zich bevinden in de Noorse zone ook verboden bij zeeduivelvangsten een hoeveelheid per vaartdag te overschrijden die gelijk is aan 80 kg levend gewicht.<br>
+<br>
+§ 5. In de periode van 1 januari 2022 tot en met 30 juni 2022 is het in het ICES-gebied VIIa voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 50 kg.<br>
+<br>
+In de periode van 1 juli 2022 tot en met 31 oktober 2022 is het in het ICES-gebied VIIa voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 50 kg.
 
 ## Afdeling 5. Rog
 
@@ -476,6 +490,8 @@ In afwijking van het eerste en tweede lid worden de maximaal toegelaten vangstho
 Het is in de ICES-gebieden VIIb-k voor een vissersvaartuig van het GVS verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 § 8. In de periode van 1 januari 2022 tot en met 30 juni 2022 is het in het ICES-gebied VIIa voor een vissersvaartuig van het GVS verboden bij wijtingvangsten een hoeveelheid te overschrijden die gelijk is aan 50 kg.<br>
+<br>
+In de periode van 1 juli 2022 tot en met 31 oktober 2022 is het in het ICES-gebied VIIa voor een vissersvaartuig van het GVS verboden bij wijtingvangsten een hoeveelheid te overschrijden die gelijk is aan 50 kg.<br>
 <br>
 § 9. Het de-minimisquotum voor wijting in de ICES-gebieden II, IV bedraagt 2% van het quotum voor tong en schol in deze gebieden.<br>
 <br>
