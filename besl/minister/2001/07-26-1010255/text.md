@@ -66,7 +66,7 @@ Deze verslagen zijn onderworpen aan de controle van het intern verzelfstandigd a
 <br>
 Voor een gebruiker van kraamzorg of van meerlingenhulp zijn de bepalingen met betrekking tot de BEL-score niet van toepassing.<br>
 <br>
-Een score van minstens 13 op de BelRAI screener of minstens 6 punten op de som van de modules IADL en ADL van de BelRAI screener wordt voor de bepalingen met betrekking tot de BEL-score gelijkgesteld met een BEL-score gelijk aan of hoger dan 35.<br>
+Een score van minstens 13 op de BelRAI screener of minstens 5,5 punten op de som van de modules IADL en ADL van de BelRAI screener wordt voor de bepalingen met betrekking tot de BEL-score gelijkgesteld met een BEL-score gelijk aan of hoger dan 35.<br>
 <br>
 II. Middelen van de gebruiker :<br>
 <br>
