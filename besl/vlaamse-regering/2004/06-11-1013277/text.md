@@ -20,7 +20,8 @@ De Vlaamse Belastingdienst heeft tot taak :<br>
 5° het leveren van de vereiste beleidsgerichte input aan het departement zodat het departement over alle nuttige informatie beschikt om effectief en efficiënt zijn rol te vervullen op het vlak van de beleidsvoorbereiding en -evaluatie en op het vlak van de ondersteuning van de minister bij de opvolging en de aansturing van de uitvoering van het beleid;<br>
 6° het uitreiken van attesten voor fiscale vrijstellingen en verminderingen voorzover deze taak niet door de Vlaamse Regering aan een ander beleidsdomein werd toegewezen;<br>
 7° het uitoefenen van de opdrachten en taken zoals vermeld in het decreet van 19 december 2014.<br>
-8° het uitoefenen van de toezichts-, opsporings- en handhavingstaken die toegewezen zijn aan de wegeninspecteurs, vermeld in artikel 16 van het decreet van 3 mei 2013 betreffende de bescherming van de verkeersinfrastructuur in geval van bijzonder wegtransport.
+8° het uitoefenen van de toezichts-, opsporings- en handhavingstaken die toegewezen zijn aan de wegeninspecteurs, vermeld in artikel 16 van het decreet van 3 mei 2013 betreffende de bescherming van de verkeersinfrastructuur in geval van bijzonder wegtransport.<br>
+9° het uitoefenen van opdrachten en taken die aan het agentschap worden toegewezen in het kader van het decreet van 20 mei 2022 tot regeling van de toekenning van een jobbonus.
 
 ### ART. 4.
 
