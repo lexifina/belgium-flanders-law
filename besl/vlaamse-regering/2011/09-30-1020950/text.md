@@ -8,7 +8,16 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 7 mei 2004 tot oprichti
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° agentschap : het Vlaams   Agentschap voor Personen met een Handicap;<BR>2° sociaal netwerk : een of meer   natuurlijke personen die vanuit een familiale, sociale of emotionele band de   zorgvrager, niet beroepshalve maar meer dan occasioneel, helpen of ondersteunen,   of die betrokken zijn bij zijn dagelijkse leven;<BR>3° dienst : de dienst   Ondersteuningsplan;<BR>4° mentororganisatie : de organisatie vermeld in   hoofdstuk 5;<BR>5° ondersteuningsplan : beschrijving van het geheel van   ondersteuning waarop de zorgvrager een beroep kan doen, met inbegrip van de   reguliere diensten, het sociale netwerk, materiële ondersteuning en   ondersteuning, geleverd door voorzieningen die erkend en gesubsidieerd zijn door   het agentschap;<BR>5° /1 ondersteuningsplan persoonsvolgende financiering: een   ondersteuningsplan als vermeld in artikel 5 van het besluit van de Vlaamse   Regering van 27 november 2015 over de indiening en de afhandeling van de   aanvraag van een budget voor niet rechtstreeks toegankelijke ondersteuning en   over de terbeschikkingstelling van dat budget;<BR>6° reguliere diensten :   ondersteuning die verstrekt wordt door functies in te zetten van diensten binnen   de gezondheids- en welzijnszorg; <BR>7° zorgvrager : de persoon met een handicap   als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004 tot oprichting van   het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams   Agentschap voor Personen met een Handicap, of een vermoeden ervan, die voldoet   aan de voorwaarden van artikel 20 en 21 van voormeld   decreet.<BR><BR>
+In dit besluit wordt verstaan onder :<br>
+1° agentschap : het Vlaams Agentschap voor Personen met een Handicap;<br>
+2° sociaal netwerk : een of meer natuurlijke personen die vanuit een familiale, sociale of emotionele band de zorgvrager, niet beroepshalve maar meer dan occasioneel, helpen of ondersteunen, of die betrokken zijn bij zijn dagelijkse leven;<br>
+3° dienst : de dienst Ondersteuningsplan;<br>
+4° ...<br>
+5° ondersteuningsplan : beschrijving van het geheel van ondersteuning waarop de zorgvrager een beroep kan doen, met inbegrip van de reguliere diensten, het sociale netwerk, materiële ondersteuning en ondersteuning, geleverd door voorzieningen die erkend en gesubsidieerd zijn door het agentschap;<br>
+5° /1 ondersteuningsplan persoonsvolgende financiering: een ondersteuningsplan als vermeld in artikel 5 van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke ondersteuning en over de terbeschikkingstelling van dat budget;<br>
+6° reguliere diensten : ondersteuning die verstrekt wordt door functies in te zetten van diensten binnen de gezondheids- en welzijnszorg;<br>
+7° zorgvrager : de persoon met een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, of een vermoeden ervan, die voldoet aan de voorwaarden van artikel 20 en 21 van voormeld decreet.<br>
+&nbsp;
 
 ### ART. 2.
 
@@ -20,9 +29,9 @@ Het agentschap kan overeenkomstig de bepalingen van dit besluit en binnen de gre
 
 Met behoud van de toepassing van de erkenningsvoorwaarden, vermeld in artikel 8bis en hoofdstuk II met uitzondering van artikel 11, b) en 11, c) van het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling van de algemene regels inzake het verlenen van vergunningen en erkenningen door het Vlaams Agentschap voor Personen met een Handicap, omvat de aanvraag tot erkenning de volgende gegevens :<br>
 1° ...<br>
-2° het bewijs dat er voldaan wordt aan de bepalingen van artikel 4;<br>
+2° het bewijs dat er voldaan wordt aan de bepalingen van artikel 4 van dit besluit;<br>
 3° het engagement om binnen zes maanden na de erkenning overeenkomsten voor te leggen die gesloten zijn met de andere diensten in de provincie, waarbij afspraken worden gemaakt om ervoor te zorgen dat heel de provincie territoriaal bediend wordt en alle doelgroepen aan bod komen;<br>
-4° het engagement om de beheersovereenkomst, vermeld in artikel 8, te sluiten met het agentschap.<br>
+4° het engagement om deel te nemen aan het afstemmingsoverleg, vermeld in artikel 8, § 5, van dit besluit.<br>
 &nbsp;
 
 ### ART. 4.
@@ -30,19 +39,22 @@ Met behoud van de toepassing van de erkenningsvoorwaarden, vermeld in artikel 8b
 § 1. Om erkend te worden, moet de dienst opgericht zijn in de vorm van een vereniging zonder winstoogmerk.<br>
 <br>
 In de raad van bestuur van de vereniging zonder winstoogmerk zijn minstens de volgende partijen vertegenwoordigd :<br>
-1° voorzieningen en diensten die erkend zijn door het agentschap;<br>
+1° voorzieningen en diensten die erkend of vergund zijn door het agentschap;<br>
 2° de reguliere diensten;<br>
 3° verenigingen voor personen met een handicap;<br>
 4° multidisciplinaire teams die erkend zijn door het agentschap.<br>
 <br>
-§ 2. Om erkend te worden, moet de dienst de beheersovereenkomst, vermeld in artikel 8, met het agentschap gesloten hebben.<br>
+De samenstelling van de raad van bestuur waarborgt de onafhankelijke positie van de dienst. Elk lid kan maar een van de partijen, vermeld in het eerste lid, vertegenwoordigen.<br>
+<br>
+Naast de begeleiding, vermeld in dit besluit, biedt de dienst geen begeleiding, zorg of ondersteuning die de onafhankelijke positie van de dienst in het gedrang brengt.<br>
+<br>
+§ 2. ...<br>
 <br>
 § 3. De dienstverlening van de dienst wordt uitgevoerd door werknemers van de dienst, onder directe aansturing van de verantwoordelijke van de dienst.<br>
 <br>
-Elke begeleider van de dienst volgt de vorming die aangeboden wordt door de mentororganisatie.<br>
+Elke werknemer van de dienst neemt op jaarbasis minstens één keer deel aan een vorming over het inhoudelijke thema dat wordt vastgesteld conform artikel 8, § 4, tweede lid, van dit besluit.<br>
 <br>
-§ 4. De dienst neemt deel aan het overleg, vermeld in artikel 19, 3°, en verbindt er zich toe de afspraken na te komen die gemaakt zijn in dat overleg of naar aanleiding ervan.<br>
-&nbsp;
+§ 4. ...
 
 ### ART. 5.
 
@@ -50,7 +62,14 @@ Per provincie kunnen maximaal drie diensten vergund, erkend en gesubsidieerd wor
 
 ### ART. 6.
 
-Voor het jaar 2011 wordt de programmatie vastgesteld op 18.700   begeleidingen. De Vlaamse minister, bevoegd voor de bijstand aan personen, kan   dat aantal jaarlijks wijzigen binnen de grenzen van de kredieten die daarvoor   ingeschreven zijn op de begroting.<BR><BR>Een dienst wordt erkend voor een   aantal begeleidingen.<BR><BR>De diensten reserveren op vraag van het agentschap   het aantal begeleidingen dat het agentschap vaststelt voor de begeleiding van   personen met een handicap die zich op verzoek van het agentschap laten   begeleiden door de dienst voor de opmaak van een ondersteuningsplan   persoonsvolgende financiering.<BR><BR>Dit aantal kan   fluctueren.<BR><BR>
+Voor het jaar 2011 wordt de programmatie vastgesteld op 18.700 begeleidingen. De Vlaamse minister, bevoegd voor de bijstand aan personen, kan dat aantal jaarlijks wijzigen binnen de grenzen van de kredieten die daarvoor ingeschreven zijn op de begroting.<br>
+<br>
+Een dienst wordt erkend voor een aantal begeleidingen.<br>
+<br>
+De diensten reserveren op vraag van het agentschap het aantal begeleidingen dat het agentschap vaststelt voor de begeleiding van&nbsp;zorgvragers die zich op verzoek van het agentschap laten begeleiden door de dienst voor de opmaak van een ondersteuningsplan persoonsvolgende financiering.<br>
+<br>
+Dit aantal kan fluctueren.<br>
+&nbsp;
 
 ### ART. 7.
 
@@ -58,23 +77,117 @@ De dienst is verplicht om, in samenwerking met de andere erkende diensten van de
 
 ### ART. 8.
 
-De doelstellingen van de dienst worden bepaald in een beheersovereenkomst die gesloten wordt tussen het agentschap en de dienst.<br /><br />De beheersovereenkomst omvat minstens de volgende elementen :<br />1° de wijze waarop alle doelgroepen bereikt worden in functie van afspraken met de andere diensten Ondersteuningsplan van de provincie;<br />2° de wijze waarop handicapspecifieke deskundigheid wordt ingezet voor eventuele specifieke doelgroepen;<br />3° de wijze waarop structureel samengewerkt wordt met de reguliere diensten;<br />4° de wijze waarop samengewerkt wordt met de mentororganisatie;<br />5° het aantal gerealiseerde ondersteuningsplannen per werkingsjaar;<br />6° de inzet van sociale netwerken en reguliere diensten in de ondersteuningsplannen;<br />7° de wijze waarop een evenredige vertegenwoordiging van de verenigingen voor personen met een handicap in de raad van bestuur gerealiseerd wordt.<br /><br />
+§ 1. De diensten richten zich tot alle zorgvragers en zorgen er samen binnen de provincie voor dat zorgvragers van alle doelgroepen de dienstverlening kunnen gebruiken.<br>
+<br>
+§ 2. De diensten hanteren de volgende principes bij de uitvoering van de opdrachten, vermeld in artikel 9:<br>
+1° de zorgvrager in zijn context staat centraal;<br>
+2° de zorgvrager en zijn context hebben de regie bij de opmaak, de uitvoering en de evaluatie van het ondersteuningsplan en bij de opmaak van het ondersteuningsplan persoonsvolgende financiering;<br>
+3° er wordt vertrokken van en ingezet op de mogelijkheden en sterktes van de zorgvrager en zijn context;<br>
+4° de ondersteuningsvragen van de cliënt worden verkend met familie, sociaal netwerk en eventueel betrokken hulpverleners;<br>
+5° het ondersteuningsplan faciliteert zo inclusief mogelijke oplossingen, met als dat mogelijk is een complementaire inzet van de diverse ondersteuningsbronnen, vermeld in bijlage 1, die bij dit besluit is gevoegd;<br>
+6° binnen de samenwerking, vermeld in paragraaf 4, en in overleg met de persoon en zijn sociaal netwerk worden de nodige afspraken gemaakt over:<br>
+a) de opvolging, de evaluatie en de eventuele bijsturing van het ondersteuningsplan;<br>
+b) wie de opdrachten, vermeld in punt a), na afloop van de begeleiding door de dienst continueert, opvolgt en bijstuurt.<br>
+<br>
+§ 3. De diensten werken in het kader van de uitvoering van de opdrachten, vermeld in artikel 9 van dit besluit, samen met de volgende diensten en organisaties:<br>
+1° diensten die conform artikel 2 van het besluit van de Vlaamse Regering van 22 februari 2013 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap erkend zijn voor de uitbouw van rechtstreeks toegankelijke hulp;<br>
+2° de aanbieders van zorg en ondersteuning die conform het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap, vergund zijn door het agentschap;<br>
+3° bijstandsorganisaties als vermeld in artikel 1, 2°, van het besluit van de Vlaamse Regering van 11 december 2015 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering;<br>
+4° ouderinitiatieven geregistreerd bij het agentschap conform artikel 2 van het ministerieel besluit van 19 december 2018 betreffende de registratie van ouderinitiatieven in het kader van de persoonsvolgende financiering;<br>
+5° groenezorginitiatieven geregistreerd bij het agentschap conform artikel 3 van het ministerieel besluit van 20 februari 2017 tot regeling van de dagondersteuning die wordt geboden door groenezorginitiatieven;<br>
+6° andere welzijnsvoorzieningen.<br>
+<br>
+§ 4. De diensten werken onderling samen en stemmen af. De diensten rapporteren op periodieke wijze over de samenwerking en afstemming op de wijze die het agentschap vaststelt.<br>
+<br>
+De diensten bepalen jaarlijks in onderling overleg het inhoudelijk thema waarover dat jaar vorming wordt georganiseerd voor de werknemers van de diensten.<br>
+<br>
+De diensten hebben periodiek overleg om ervoor te zorgen dat een uniformiteit in omgaan met ondersteuningsvragen over de verschillende diensten heen gegarandeerd blijft.<br>
+<br>
+De diensten kunnen bijkomende vormingen over andere thema's aanbieden.<br>
+<br>
+§ 5. De dienst neemt deel aan het afstemmingsoverleg dat het agentschap periodiek organiseert.<br>
+<br>
+De diensten stemmen de eigen werking af met de werking van andere welzijnsvoorzieningen.
 
 ## HOOFDSTUK 3 Opdracht
 
 ### ART. 9.
 
-De diensten richten zich tot alle zorgvragers en zorgen er samen binnen de provincie voor dat zorgvragers van alle doelgroepen kunnen gebruik maken van de dienstverlening.<br /><br />
+§ 1. In dit artikel wordt verstaan onder outreach: kennisoverdracht van minimaal één uur en maximaal twee uur over kracht- en netwerkgericht werken en over vraagverduidelijking en ondersteuningsplanning aan een groep van minimaal drie ondersteuners van personen met een handicap of een externe organisatie.<br>
+<br>
+§ 2. De diensten hebben de volgende opdrachten:<br>
+1° de zelfregie van de cliënt en zijn netwerk bij de opmaak, de uitvoering en de evaluatie van het ondersteuningsplan versterken;<br>
+2° de ondersteuningsvragen van de persoon en zijn sociaal netwerk in kaart brengen;<br>
+3° de ondersteuningsbronnen, vermeld in bijlage 1, die bij dit besluit is gevoegd, die beschikbaar zijn of gemaakt kunnen worden, in kaart brengen;<br>
+4° de ondersteuningsbronnen, vermeld in punt 3°, waar nodig versterken en nieuwe ondersteuningsbronnen toegankelijk maken en de inzet ervan faciliteren;<br>
+5° het bestaande sociale netwerk van de zorgvrager versterken en inzetten. Als de zorgvrager niet over een sociaal netwerkt beschikt, staat de dienst de zorgvrager bij om een sociaal netwerk te creëren;<br>
+6° reguliere diensten inzetten of versterken;<br>
+7° rechtstreeks toegankelijke ondersteuning van het agentschap inzetten;<br>
+8° onderzoeken of de inzet van een persoonsvolgend budget, complementair aan de inzet van andere ondersteuningsbronnen, nodig en mogelijk is en voor welke ondersteuning, met welke frequentie en intensiteit;<br>
+9° begeleiden bij de opmaak van het ondersteuningsplan persoonsvolgende financiering;<br>
+10° het ondersteuningsplan mee helpen realiseren en opvolgen;<br>
+11° outreach.<br>
+<br>
+§ 3. Vraagverheldering en ondersteuningsplanning houdt in dat de dienst conform de kwaliteitsindicatoren die het agentschap in overleg met de diensten vaststelt, bekijkt op welke wijze de ondersteuning van de zorgvrager zo inclusief mogelijk georganiseerd kan worden.<br>
+<br>
+Het ondersteuningsplan omvat ten minste de elementen, vermeld in bijlage 1, die bij dit besluit is gevoegd.<br>
+<br>
+§ 4. De diensten zorgen voor de opstart van de uitvoering van het ondersteuningsplan en werken daarvoor samen met de diensten, vermeld in artikel 8, § 3, 1° tot en met 4°.<br>
+<br>
+De diensten kunnen op eigen initiatief of op verzoek van ondersteuners van personen met een handicap of een externe organisatie outreach bieden.<br>
+<br>
+De diensten begeleiden de zorgvrager op hun verzoek of op verzoek van het agentschap bij de opmaak van een ondersteuningsplan persoonsvolgende financiering conform de visie en principes van de diensten. Als het verzoek uitgaat van de zorgvrager, beoordeelt de dienst of het aangewezen is om op dat verzoek in te gaan.
 
 ### ART. 10.
 
-De dienst gaat volgens de door de mentororganisatie aangestuurde   methodieken na op welke wijze de ondersteuning van de zorgvrager zo inclusief   mogelijk georganiseerd kan worden. Daarvoor wordt in dialoog met de zorgvrager   een ondersteuningsplan opgesteld.<BR><BR>Het ondersteuningsplan omvat ten minste   de elementen, vermeld in bijlage 1, die bij dit besluit is gevoegd.<BR><BR>Het   ondersteuningsplan voorziet in :<BR>1° het versterken en inzetten van het   bestaande sociale netwerk van de zorgvrager. Als de zorgvrager niet over een   sociaal netwerk beschikt zal de dienst de zorgvrager bijstaan om een sociaal   netwerk te creëren;<BR>2° het inzetten of versterken van de inzet van reguliere   diensten;<BR>3° het inzetten van rechtstreeks toegankelijke ondersteuning van   het agentschap;<BR>4° de inzet van niet rechtstreeks toegankelijke ondersteuning   die door het agentschap gesubsidieerd wordt.<BR><BR>De dienst begeleidt personen   met een handicap op hun verzoek of op verzoek van het agentschap bij de opmaak   van een ondersteuningsplan persoonsvolgende financiering.<BR><BR>
+De dienst gaat na op welke wijze de ondersteuning van de zorgvrager zo inclusief mogelijk georganiseerd kan worden. Daarvoor wordt in dialoog met de zorgvrager een ondersteuningsplan opgesteld.<br>
+<br>
+Het ondersteuningsplan omvat ten minste de elementen, vermeld in bijlage 1, die bij dit besluit is gevoegd.<br>
+<br>
+Het ondersteuningsplan voorziet in :<br>
+1° het versterken en inzetten van het bestaande sociale netwerk van de zorgvrager. Als de zorgvrager niet over een sociaal netwerk beschikt zal de dienst de zorgvrager bijstaan om een sociaal netwerk te creëren;<br>
+2° het inzetten of versterken van de inzet van reguliere diensten;<br>
+3° het inzetten van rechtstreeks toegankelijke ondersteuning van het agentschap;<br>
+4° de inzet van niet rechtstreeks toegankelijke ondersteuning die door het agentschap gesubsidieerd wordt.<br>
+<br>
+De dienst begeleidt&nbsp;zorgvragers op hun verzoek of op verzoek van het agentschap bij de opmaak van een ondersteuningsplan persoonsvolgende financiering.<br>
+&nbsp;
 
 ## HOOFDSTUK 4 Subsidiëring
 
 ### ART. 11.
 
-<P>§ 1. De volgende begeleidingen komen in aanmerking voor subsidiëring :<BR>1°   de begeleidingen met het oog op de opmaak van een ondersteuningsplan die   verstrekt zijn aan personen met een handicap die ingeschreven zijn bij het   agentschap en nog geen zorg en ondersteuning krijgen die wordt gesubsidieerd   door het agentschap, met uitzondering van de individuele materiële bijstand,   vermeld in artikel 2, 3°, van het besluit van de Vlaamse Regering van 13 juli   2001 tot vaststelling van de criteria, voorwaarden en refertebedragen van de   tussenkomsten in de individuele materiële bijstand voor de sociale integratie   van personen met een handicap, de bijstand door tolken voor doven en   slechthorenden, vermeld in het besluit van de Vlaamse regering van 20 juli 1994   houdende vaststelling van de regels volgens dewelke het Vlaams Agentschap voor   Personen met een Handicap de kosten van bijstand door tolken voor doven en   slechthorenden ten laste nemen, of de rechtstreeks toegankelijke hulp;<BR>2° de   begeleidingen met het oog op de opmaak van een ondersteuningsplan die verstrekt   zijn aan personen met een vermoeden van handicap of ernstig risico op de   ontwikkeling van een handicap die nog niet ingeschreven zijn bij het   agentschap;<BR>3° de begeleidingen met het oog op de opmaak van een   ondersteuningsplan persoonsvolgende financiering.<BR>De Vlaamse minister,   bevoegd voor de bijstand aan personen, bepaalt de gevallen waarin kan worden   afgeweken van de voorwaarde dat er nog geen zorg en ondersteuning die wordt   gesubsidieerd door het agentschap, mag worden gekregen, vermeld in het eerste   lid, 1°. <BR><BR>§ 2. De maximale duur van de begeleiding om een   ondersteuningsplan voor de zorgvrager op te stellen bedraagt twaalf   maanden.<BR><BR>In afwijking van het eerste lid mag in vijf procent van de   begeleidingen de maximale duur van de begeleiding om een ondersteuningsplan voor   de zorgvrager op te stellen achttien maanden bedragen.<BR><BR>Een begeleiding   bestaat uit een rechtstreeks persoonscontact en duurt minstens één uur. Als een   begeleiding om inhoudelijke of organisatorische redenen langer duurt dan twee   uur of als aaneensluitende begeleidingen langer duren dan twee uur, mogen twee   begeleidingen aangerekend worden.<BR><BR>Het gemiddelde aantal begeleidingen per   zorgvrager mag niet hoger zijn dan twaalf.<BR><BR>De zorgvrager is geen   financiële bijdrage verschuldigd voor de begeleidingen.<BR><BR>Als bij het   doorlopen van het traject voor de opmaak van een ondersteuningsplan blijkt dat   de persoon met een handicap verzoekt om niet rechtstreeks toegankelijke zorg en   ondersteuning, waarvoor een aanvraag met een ondersteuningsplan persoonsvolgende   financiering moet worden ingediend bij het agentschap, mag voor de begeleiding   bij de opmaak van een ondersteuningsplan persoonsvolgende financiering geen   extra begeleiding worden aangerekend en mag het gemiddelde aantal begeleidingen   per zorgvrager, vermeld in het vierde lid, niet worden overschreden.<BR><BR>§ 3.   Een vraag naar begeleiding&nbsp;voor de opmaak van een ondersteuningsplan door   de dienst kan hernieuwd worden door alle personen die op dat ogenblik nog geen   ondersteuning krijgen van voorzieningen of diensten die erkend en gesubsidieerd   zijn door het agentschap.<BR><BR>Een vraag kan alleen hernieuwd worden als aan   een of meer van de volgende voorwaarden voldaan is :<BR>1° uit een geneeskundig   attest blijkt dat de handicap dermate geëvolueerd is dat de ondersteuning uit   het voorgaande ondersteuningsplan niet meer volstaat;<BR>2° wijzigingen in het   sociale netwerk of in de situatie van de gebruiker hebben als gevolg dat de   ondersteuning uit het voorgaande ondersteuningsplan niet meer volstaat;<BR>3°   wijzigingen van reglementaire aard hebben een wijziging van de inzet van   reguliere diensten tot gevolg waardoor de ondersteuning uit het voorgaande   ondersteuningsplan niet meer volstaat;<BR>4° de vraag wordt gesteld op   scharniermomenten in de levensloop zoals bij de overgang naar hoger   onderwijsvormen of bij de overgang van minderjarigen- naar   meerderjarigenzorg.<BR><BR>§ 4. Een verzoek om begeleiding bij de opmaak van een   ondersteuningsplan persoonsvolgende financiering kan hernieuwd worden telkens   als er een nieuw ondersteuningsplan persoonsvolgende financiering moet worden   opgemaakt.<BR><BR></P>
+<p>§ 1. De volgende begeleidingen komen in aanmerking voor subsidiëring :<br>
+1° de begeleidingen met het oog op de opmaak van een ondersteuningsplan die verstrekt zijn aan zorgvragers die ingeschreven zijn bij het agentschap en nog geen zorg en ondersteuning krijgen die wordt gesubsidieerd door het agentschap, met uitzondering van de individuele materiële bijstand, vermeld in artikel 2, 3°, van het besluit van de Vlaamse Regering van 13 juli 2001 tot vaststelling van de criteria, voorwaarden en refertebedragen van de tussenkomsten in de individuele materiële bijstand voor de sociale integratie van personen met een handicap, de bijstand door tolken voor doven en slechthorenden, vermeld in het besluit van de Vlaamse regering van 20 juli 1994 houdende vaststelling van de regels volgens dewelke het Vlaams Agentschap voor Personen met een Handicap de kosten van bijstand door tolken voor doven en slechthorenden ten laste nemen, of de rechtstreeks toegankelijke hulp;<br>
+2° de begeleidingen met het oog op de opmaak van een ondersteuningsplan die verstrekt zijn aan personen met een vermoeden van handicap of ernstig risico op de ontwikkeling van een handicap die nog niet ingeschreven zijn bij het agentschap;<br>
+3° de begeleidingen met het oog op de opmaak van een ondersteuningsplan persoonsvolgende financiering;<br>
+4° de begeleidingen in het kader van outreach.<br>
+<br>
+De Vlaamse minister, bevoegd voor de bijstand aan personen, bepaalt de gevallen waarin kan worden afgeweken van de voorwaarde dat er nog geen zorg en ondersteuning die wordt gesubsidieerd door het agentschap, mag worden gekregen, vermeld in het eerste lid, 1°.<br>
+<br>
+Maximaal vijf procent van het aantal begeleidingen waarvoor een dienst is erkend mag worden aangewend voor outreach.<br>
+<br>
+§ 2. De maximale duur van de begeleiding om een ondersteuningsplan voor de zorgvrager op te stellen bedraagt twaalf maanden.<br>
+<br>
+In afwijking van het eerste lid mag in vijf procent van de begeleidingen de maximale duur van de begeleiding om een ondersteuningsplan voor de zorgvrager op te stellen achttien maanden bedragen.<br>
+<br>
+Een begeleiding bestaat uit een rechtstreeks persoonscontact en duurt minstens één uur. Als een begeleiding om inhoudelijke of organisatorische redenen langer duurt dan twee uur of als aaneensluitende begeleidingen langer duren dan twee uur, mogen twee begeleidingen aangerekend worden.<br>
+<br>
+Het gemiddelde aantal begeleidingen per zorgvrager mag niet hoger zijn dan twaalf.<br>
+<br>
+De zorgvrager is geen financiële bijdrage verschuldigd voor de begeleidingen.<br>
+<br>
+Als bij het doorlopen van het traject voor de opmaak van een ondersteuningsplan blijkt dat de persoon met een handicap verzoekt om niet rechtstreeks toegankelijke zorg en ondersteuning, waarvoor een aanvraag met een ondersteuningsplan persoonsvolgende financiering moet worden ingediend bij het agentschap, mag voor de begeleiding bij de opmaak van een ondersteuningsplan persoonsvolgende financiering geen extra begeleiding worden aangerekend en mag het gemiddelde aantal begeleidingen per zorgvrager, vermeld in het vierde lid, niet worden overschreden.<br>
+<br>
+§ 3. Een vraag naar begeleiding&nbsp;voor de opmaak van een ondersteuningsplan door de dienst kan hernieuwd worden door alle zorgvragers die op dat ogenblik nog geen ondersteuning krijgen van voorzieningen of diensten die erkend en gesubsidieerd zijn door het agentschap.<br>
+<br>
+Een vraag kan alleen hernieuwd worden als aan een of meer van de volgende voorwaarden voldaan is :<br>
+1° uit een geneeskundig attest blijkt dat de handicap dermate geëvolueerd is dat de ondersteuning uit het voorgaande ondersteuningsplan niet meer volstaat;<br>
+2° wijzigingen in het sociale netwerk of in de situatie van de gebruiker hebben als gevolg dat de ondersteuning uit het voorgaande ondersteuningsplan niet meer volstaat;<br>
+3° wijzigingen van reglementaire aard hebben een wijziging van de inzet van reguliere diensten tot gevolg waardoor de ondersteuning uit het voorgaande ondersteuningsplan niet meer volstaat;<br>
+4° de vraag wordt gesteld op scharniermomenten in de levensloop zoals bij de overgang naar hoger onderwijsvormen of bij de overgang van minderjarigen- naar meerderjarigenzorg.<br>
+<br>
+§ 4. Een verzoek om begeleiding bij de opmaak van een ondersteuningsplan persoonsvolgende financiering kan hernieuwd worden telkens als er een nieuw ondersteuningsplan persoonsvolgende financiering moet worden opgemaakt.</p>
 
 ### ART. 12.
 
@@ -127,19 +240,19 @@ Het agentschap&nbsp;bepaalt de inhoud en de vorm van het jaarverslag en het fina
 
 ### ART. 18.
 
-§ 1. Binnen de perken van de kredieten die daarvoor zijn ingeschreven op zijn begroting, kan het agentschap een organisatie als mentororganisatie voor de diensten Ondersteuningsplan voor Vlaanderen erkennen en subsidiëren.<br /><br />§ 2. De mentororganisatie is opgericht in de vorm van een vereniging zonder winstoogmerk.<br /><br />In die organisatie is academische kennis en expertise, vormingsdeskundigheid en ervaringsdeskundigheid aanwezig met betrekking tot person-centered-strategieën en vermaatschappelijking van de zorg.<br /><br />§ 3. De erkenning wordt verleend voor een periode van minimaal één jaar en maximaal tien jaar.<br /><br />De mentororganisatie stelt jaarlijks een activiteitenverslag op, met inbegrip van een financieel verslag. Het agentschap bepaalt de inhoud en de vorm van dat verslag.<br /><br />De mentororganisatie bezorgt het activiteitenverslag aan het agentschap voor 31 maart van het kalenderjaar dat volgt op het kalenderjaar waarop het betrekking heeft.<br /><br />
+...
 
 ### ART. 19.
 
-De mentororganisatie heeft als opdracht :<br />1° minstens een jaarlijkse vorming aanbieden aan de begeleiders van de diensten Ondersteuningsplan met betrekking tot thema's in het kader van het voortraject zoals burgerschapsmodel, zelfsturing, het betrekken, creëren en versterken van netwerken, en groepsgerichte methodieken die dat faciliteren;<br />2° een helpdesk organiseren waar begeleiders van de diensten terecht kunnen met specifieke inhoudelijke vragen;<br />3° binnen een periode van telkens drie jaar een overleg organiseren in elke provincie met de diensten Ondersteuningsplan van de respectieve provinciën, waaraan ook alle regionaal betrokken partners uit de reguliere diensten deelnemen. Dat overleg evalueert de stand van zaken met betrekking tot het voortraject, waarbij ook aandacht besteed wordt aan concepten van kwaliteit van leven;<br />4° tools ontwikkelen waarmee de zorgvrager kan nagaan waar zijn wensen en verwachtingen liggen, en welke realistische oplossingen daarvoor voorhanden zijn.<br /><br />
+...
 
 ### ART. 20.
 
-§ 1. Het agentschap verleent de mentororganisatie jaarlijks subsidies. Het subsidiebedrag bedraagt maximaal 240.000 euro (tweehonderdveertigduizend euro) per jaar.<br /><br />§ 2. Maximaal 25 % van het subsidiebedrag, vermeld in paragraaf 1, kan aangewend worden voor werkingskosten. Minstens 75 % wordt aangewend voor personeelskosten.<br /><br />De loonschalen van de salarisschalen, vastgesteld overeenkomstig het koninklijk besluit van 30 maart 1973 tot bepaling van de te volgen gemeenschappelijke regels voor de vaststelling van de toelagen per dag, toegekend voor onderhoud, opvoeding en behandeling van de minderjarigen en van gehandicapten, geplaatst ten laste van de openbare besturen, het ministerieel besluit van 24 april 1973 tot bepaling, wat betreft het Ministerie van Volksgezondheid en van het Gezin, van de te volgen bijzondere regels voor de vaststelling van de toelagen per dag, toegekend voor het onderhoud en de behandeling van de gehandicapten, geplaatst ten laste van de openbare besturen, en van het besluit van de Vlaamse Regering van 15 december 1993 houdende de subsidiëring van de personeelskosten in bepaalde voorzieningen van de welzijnssector, gelden als maximum voor de uitgaven inzake personeelskosten.<br /><br />§ 3. Het maximumsubsidiebedrag, vermeld in paragraaf 1, is gebonden aan het referte-indexcijfer (basis 2004 = 100), dat van kracht is bij de inwerkingtreding van dit besluit. Het wordt jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van >s lands concurrentievermogen, hierna G-index te noemen, volgens de formule :<br />(basisbedrag x G-index december 20../G-index maand voor inwerkingtreding).<br /><br />
+...
 
 ### ART. 21.
 
-Per kwartaal wordt aan de erkende mentororganisatie 24 procent uitgekeerd van de jaarlijkse subsidie, vermeld in artikel 20, § 1.<br /><br />De betaling vindt plaats in de loop van de eerste maand van het kwartaal in kwestie.<br /><br />Het saldo van de eindafrekening wordt uitbetaald na de goedkeuring van het activiteitenverslag, vermeld in artikel 18, § 3, tweede lid.<br /><br />
+...
 
 ## HOOFDSTUK 6 Wijzigingsbepalingen
 
