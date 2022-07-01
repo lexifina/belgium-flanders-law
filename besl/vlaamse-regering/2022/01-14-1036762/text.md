@@ -26,6 +26,11 @@ DE VLAAMSE REGERING BESLUIT:
 In artikel 23sexies, § 4, van het koninklijk besluit van 15 maart 1968 houdende algemeen reglement op de technische eisen waaraan de auto's, hun aanhangwagens, hun onderdelen en hun veiligheidstoebehoren moeten voldoen, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 27 april 2018, wordt punt 1° vervangen door wat volgt:<br>
 "1° Voor de niet-periodieke keuring, vermeld in paragraaf 1, 3°, moet het voertuig worden aangeboden met het kentekenbewijs dat voor dat voertuig het laatst is afgeleverd, en met ofwel de overeenkomstige kentekenplaat, ofwel een beroepsplaat, een handelaarsplaat of een nationale plaat en het bijbehorende kentekenbewijs;".
 
+### ART 2.
+
+Aan artikel 23undecies, § 1, 14°, van hetzelfde besluit, vervangen bij het koninklijk besluit van 12 november 2009, wordt een punt d) toegevoegd, dat luidt als volgt:<br>
+"d) deeltjesmeting: 12,60 euro;".
+
 ### ART 3.
 
 In bijlage 15 bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 27 april 2018, worden de volgende wijzigingen aangebracht:<br>

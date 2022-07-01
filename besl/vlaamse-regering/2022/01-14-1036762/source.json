@@ -2,16 +2,16 @@
   "codex_id": 1036762,
   "title": "Besluit van de Vlaamse Regering van 2022-01-14 tot wijziging van het koninklijk besluit van 15 maart 1968 houdende algemeen reglement op de technische eisen waaraan de auto's, hun aanhangwagens, hun onderdelen en hun veiligheidstoebehoren moeten voldoen en van het koninklijk besluit van 23 december 1994 tot vaststelling van de erkenningsvoorwaarden en de regeling van de administratieve controle van de instellingen belast met de controle van de in het verkeer gebrachte voertuigen, onder meer ter invoering van de deeltjesteller bij de technische controle van motorvoertuigen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036762/VolledigDocument?datum=2022-04-03",
-  "source_sha256": "8560f3f30db410cbe1fb887e93df5f1548c820452b371886b4c9aacd5e24bd1f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036762/VolledigDocument?datum=2022-07-01",
+  "source_sha256": "075743fb35465535160dab23e57fa5736e5e93d8527d44cd761aa5ab022b849a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036762&param=informatie",
-  "as_of": "2022-04-03",
+  "as_of": "2022-07-01",
   "made": "2022-01-14",
   "gazette": "2022-03-24",
   "numac": 2022030822,
   "document_start": "2022-04-03",
   "document_end": null,
-  "in_force": "2022-04-03",
-  "article_versions": 10,
-  "record_form": "consolidated version as in force on 2022-04-03; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-07-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2022-07-01; future article versions excluded; article text as the API gives it"
 }
