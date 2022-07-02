@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037161,
+  "title": "Besluit van de Vlaamse Regering van 2022-03-25 tot goedkeuring van de programmatie van duale structuuronderdelen in opleidingsvorm 3 in het buitengewoon secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037161/VolledigDocument?datum=2022-07-02",
+  "source_sha256": "b1805e23e4e4348e9708340e57e88a347313b7397f8d6c8b19bdc53edd1da10b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037161&param=informatie",
+  "as_of": "2022-07-02",
+  "made": "2022-03-25",
+  "gazette": "2022-06-22",
+  "numac": 2022031824,
+  "document_start": "2022-07-02",
+  "document_end": null,
+  "in_force": "2022-07-02",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-07-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
