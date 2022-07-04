@@ -70,35 +70,9 @@ Voor kinderen jonger dan twaalf jaar die in een hoogrisicogebied zijn geweest da
 
 § 1. In artikel 47/1, § 2, vijfde lid, 1°, van het decreet van 21 november 2003 wordt onder een beperkte duur minder dan 48 uur verstaan.<br>
 <br>
-De quarantaine na aankomst uit een hoogrisicogebied en de verplichting om zich bij een COVID-19-testcentrum, een triagecentrum of de behandelende arts te melden, vermeld in artikel 47/1, § 2, tweede lid, van het voormelde decreet, geldt niet voor personen die voor een beperkte duur in een hoogrisicogebied zijn geweest, op voorwaarde dat het geen hoogrisicogebied is buiten de Europese Unie of de Schengenzone waar zorgwekkende varianten sterk aanwezig zijn, of voor personen die voor een beperkte duur in België verblijven, tenzij ze aankomen uit een hoogrisicogebied buiten de Europese Unie of de Schengenzone waar zorgwekkende varianten sterk aanwezig zijn.<br>
+De quarantaine na aankomst uit een hoogrisicogebied en de verplichting om zich bij een COVID-19-testcentrum, een triagecentrum of de behandelende arts te melden, vermeld in artikel 47/1, § 2, tweede lid, van het voormelde decreet, geldt niet voor personen die voor een beperkte duur in een hoogrisicogebied zijn geweest, op voorwaarde dat het geen hoogrisicogebied is waar zorgwekkende varianten sterk aanwezig zijn, of voor personen die voor een beperkte duur in België verblijven, tenzij ze aankomen uit een hoogrisicogebied waar zorgwekkende varianten sterk aanwezig zijn.<br>
 <br>
-§ 2. De quarantaine na aankomst uit een hoogrisicogebied en de verplichting om zich onmiddellijk bij een COVID-19-testcentrum, een triagecentrum of de behandelende arts te melden, vermeld in artikel 47/1, § 2, tweede lid, van het decreet van 21 november 2003, geldt niet voor personen bij wie de kans op besmetting in een hoogrisicogebied dat geen hoogrisicogebied is waar zorgwekkende varianten sterk aanwezig zijn, laag wordt ingeschat omdat het niet gaat om een hoogrisicogebied waar verhoogde aandacht voor zorgwekkende varianten is of omdat ze kunnen aantonen dat ze volledig zijn ingeënt tegen COVID-19 met een vaccin dat is goedgekeurd door het Europees Geneesmiddelenagentschap of Covishield R, dat ze negatief hebben getest op COVID-19 of van COVID-19 zijn hersteld.<br>
-<br>
-In het eerste lid wordt verstaan onder:<br>
-1° hoogrisicogebied waar verhoogde aandacht voor zorgwekkende varianten is: een gebied buiten de Europese Unie of de Schengenzone dat niet door de bevoegde federale dienst is aangewezen als een hoogrisicogebied waar zorgwekkende varianten sterk aanwezig zijn en dat niet op de EU-lijst van veilige derde landen staat;<br>
-2° volledig ingeënt tegen COVID-19:<br>
-a) een persoon die twaalf tot zeventien jaar is en meer dan twee weken is gevaccineerd met:<br>
-1) twee doses van een vaccin waarvan twee doses zijn vereist;<br>
-2) een vaccin waarvan maar één dosis is vereist;<br>
-b) een persoon die achttien jaar of ouder is en meer dan twee weken, maar niet langer dan vijf maanden is gevaccineerd met:<br>
-1) twee doses van een vaccin waarvan twee doses zijn vereist;<br>
-2) een vaccin waarvan maar één dosis is vereist;<br>
-c) een persoon die achttien jaar of ouder is en gevaccineerd is met:<br>
-1) twee doses van een vaccin waarvan twee doses zijn vereist, en een boostervaccin;<br>
-2) een vaccin waarvan maar één dosis is vereist, en een boostervaccin;<br>
-d) een persoon die achttien jaar of ouder is, niet langer dan vijf maanden beschikt over een herstelcertificaat en is gevaccineerd met:<br>
-1) twee doses van een vaccin waarvan twee doses zijn vereist;<br>
-2) een vaccin waarvan maar één dosis is vereist.<br>
-<br>
-Personen die negatief hebben getest als vermeld in het eerste lid, zijn personen bij wie het resultaat van een RAT- of PCR-test, die op zijn vroegst 72 uur voor de aankomst op het Belgische grondgebied is afgenomen of op dag 1 of dag 2 van de terugkeer, met tijdelijke afzondering tot het testresultaat bekend is, negatief is.<br>
-<br>
-Personen die van COVID-19 zijn hersteld als vermeld in het eerste lid, zijn personen die maximaal 150 dagen geleden een positieve RAT- of PCR-test hebben afgelegd.<br>
-<br>
-De quarantaine na aankomst uit een hoogrisicogebied en de verplichting om zich onmiddellijk bij een COVID-19-testcentrum, een triagecentrum of de behandelende arts te melden, vermeld in artikel 47/1, § 2, tweede lid, van het voormelde decreet, geldt niet voor personen bij wie de kans op besmetting in een hoogrisicogebied waar zorgwekkende varianten sterk aanwezig zijn en dat binnen de Europese Unie of de Schengenzone ligt, laag wordt ingeschat omdat ze kunnen aantonen dat ze tegen COVID-19 zijn ingeënt als vermeld in het eerste lid.<br>
-<br>
-De quarantaine na aankomst uit een hoogrisicogebied geldt niet voor personen bij wie de kans op besmetting in een hoogrisicogebied waar zorgwekkende varianten sterk aanwezig zijn en dat binnen de Europese Unie of de Schengenzone ligt, laag wordt ingeschat omdat op dag 1 een PCR-test met een negatief resultaat wordt afgenomen, met tijdelijke afzondering tot het testresultaat bekend is, of omdat bij de persoon in kwestie tijdens de 72 uur vóór de aankomst op het Belgische grondgebied een PCR-test met negatief resultaat is afgenomen.<br>
-<br>
-De verplichting om zich onmiddellijk bij een COVID-19-testcentrum, een triagecentrum of de behandelende arts te melden conform artikel 47/1, § 2, tweede lid, van het voormelde decreet, geldt niet voor personen bij wie de kans op besmetting in een hoogrisicogebied waar zorgwekkende varianten sterk aanwezig zijn en dat binnen de Europese Unie of in de Schengenzone ligt, laag wordt ingeschat omdat op zijn vroegst 72 uur voor de aankomst op het Belgische grondgebied een PCR-test met een negatief resultaat is afgenomen.
+§ 2. De quarantaine na aankomst uit een hoogrisicogebied en de verplichting om zich onmiddellijk bij een COVID-19-testcentrum, een triagecentrum of de behandelende arts te melden, vermeld in artikel 47/1, § 2, tweede lid, van het decreet van 21 november 2003, geldt niet voor personen bij wie de kans op besmetting in een hoogrisicogebied laag wordt ingeschat omdat het niet gaat om een hoogrisicogebied waar zorgwekkende varianten sterk aanwezig zijn.
 
 ### ART 6.
 
