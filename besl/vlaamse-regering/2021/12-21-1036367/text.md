@@ -39,7 +39,7 @@ De overstroming die heeft plaatsgevonden van 14 juli tot en met 17 juli 2021 op 
 
 ### ART 2.
 
-De geografische uitgestrektheid van de ramp is beperkt tot de volgende 9 steden en gemeenten:<br>
+De geografische uitgestrektheid van de ramp is beperkt tot de volgende 12 steden en gemeenten:<br>
 1° Dilsen-Stokkem<br>
 2° Geetbets<br>
 3° Genk<br>
@@ -48,7 +48,10 @@ De geografische uitgestrektheid van de ramp is beperkt tot de volgende 9 steden 
 6° Lanaken<br>
 7° Maaseik<br>
 8° Maasmechelen<br>
-9° Meerhout
+9° Meerhout<br>
+10° Diepenbeek;<br>
+11° Herk-de-Stad;<br>
+12° Lummen.
 
 ### ART 3.
 
