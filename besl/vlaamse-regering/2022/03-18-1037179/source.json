@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037179,
+  "title": "Besluit van de Vlaamse Regering van 2022-03-18 tot goedkeuring van de programmatie van structuuronderdelen in het gewoon voltijds secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037179/VolledigDocument?datum=2022-07-07",
+  "source_sha256": "1039e4bfe87c0937ecdc6a4db581d7a8c5d1ef776793fbf9543f2359240bb2d0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037179&param=informatie",
+  "as_of": "2022-07-07",
+  "made": "2022-03-18",
+  "gazette": "2022-06-27",
+  "numac": 2022031825,
+  "document_start": "2022-07-07",
+  "document_end": null,
+  "in_force": "2022-07-07",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2022-07-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
