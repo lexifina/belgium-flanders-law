@@ -152,7 +152,7 @@ Als het kind als eindresultaat als vermeld in artikel 6, § 5, minimaal 12 punte
 
 ### ART 10.
 
-De gevolgen van de aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit, worden vastgesteld ofwel door een evaluerend arts, conform onderafdeling 2, ofwel door een MDT-arts, conform onderafdeling 3.<br>
+De gevolgen van de aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit, worden vastgesteld ofwel door een evaluerend arts, conform onderafdeling 2, ofwel door een MDT-arts, conform onderafdeling 3, ofwel door het agentschap Opgroeien regie, conform artikel 15/1.<br>
 <br>
 Het agentschap Opgroeien regie&nbsp;is belast met het toezicht op de evaluerend arts en de MDT-arts, voor wat de door hen toegekende punten, vermeld in artikel 6, betreft.<br>
 <br>
@@ -205,6 +205,23 @@ d) het kind krijgt palliatieve verzorging.<br>
 De bijzondere procedure, vermeld in het eerste lid, 2°, is alleen mogelijk als de begunstigden zich er niet tegen verzet hebben in het inlichtingenformulier.<br>
 <br>
 De minister kan de mogelijkheid om een beslissing te nemen op basis van stukken, ook uitbreiden tot andere gevallen. De minister somt daarbij de criteria op die van toepassing zijn bij deze beoordeling op basis van stukken en bepaalt hoe lang deze mogelijkheid kan gebruikt worden, beperkt in de tijd.
+
+### ART 15/1.
+
+§ 1. In afwijking van artikel 13 evalueert het agentschap Opgroeien regie de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit alleen op grond van de bezorgde informatie als uit die informatie blijkt dat de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, een van de diagnoses betreft die worden vastgesteld, na onderzoek door expert-deskundigen, op voorwaarde dat de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, geen onderdeel vormt van meervoudige aandoeningen die niet op de voormelde lijst met diagnoses voorkomen.<br>
+<br>
+§ 2. De evaluatie, vermeld in paragraaf 1, kan worden toegepast als de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, een van de diagnoses, vermeld in het tweede lid, betreft, op voorwaarde dat die informatie de minimale gegevens bevat die toelaten om de ondersteuningsbehoefte vast te stellen, die zijn opgenomen in bijlage 3 die bij dit besluit is gevoegd.<br>
+<br>
+De diagnoses, vermeld in het eerste lid, zijn:<br>
+1° autismespectrumstoornis (ASS) of aandachtstekortstoornis met hyperactiviteit (ADHD);<br>
+2° licht mentale retardatie (IQ tussen 55 en 70);<br>
+3° matig mentale retardatie (IQ tussen 40 en 55);<br>
+4° ernstig mentale retardatie (IQ lager dan 40);<br>
+5° diabetes type 1;<br>
+6° gehoorbeperking ondanks afdoend gebruik van hulpmiddelen;<br>
+7° totaal gehoorverlies zonder restgehoor (Cophose);<br>
+8° beperking ondanks afdoend gebruik van hulpmiddelen;<br>
+9° blindheid.
 
 ### ART 16.
 
@@ -627,3 +644,29 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uit
 ### BIJLAGE 2
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2018/12/21_1.pdf#page=253">Bijlage 2. Lijst van de pediatrische aandoeningen voor de vaststelling van de gevolgen van de aandoening op het vlak van lichamelijke of geestelijke gesteldheid van het kind, vermeld in artikel 7, § 1, eerste lid, 1°.</a>
+
+### BIJLAGE
+
+Bijlage 3. Minimale gegevens per diagnose als vermeld in artikel 15/1, § 2<br>
+<br>
+1° diagnose autismespectrumstoornis (ASS) of aandachtstekortstoornis met hyperactiviteit (ADHD)<br>
+normale tot zwakke begaafdheid (IQ tussen 70 en 85 en hoger dan 85);<br>
+lessen volgen in het buitengewoon onderwijs of lessen of therapie volgen in een multifunctioneel centrum of twee keer per week ambulante revalidatie volgen.<br>
+2° diagnose licht mentale retardatie (IQ tussen 55 en 70)<br>
+lessen volgen in het buitengewoon onderwijs of lessen of therapie volgen in een multifunctioneel centrum of twee keer per week ambulante revalidatie volgen.<br>
+3° matig mentale retardatie (IQ tussen 40 en 55)<br>
+lessen volgen in het buitengewoon onderwijs of lessen of therapie volgen in een multifunctioneel centrum of twee keer per week ambulante revalidatie volgen.<br>
+4° ernstig mentale retardatie (IQ lager dan 40)<br>
+lessen volgen in het buitengewoon onderwijs of lessen of therapie volgen in een multifunctioneel centrum of twee keer per week ambulante revalidatie volgen.<br>
+5° diabetes type 1<br>
+geen minimale gegevens vereist.<br>
+6° gehoorbeperking ondanks afdoend gebruik van hulpmiddelen<br>
+gehoorverlies met gehoordrempels van minstens 41 dBHL;<br>
+gebruikmaken van inclusieve kinderopvang of lessen volgen in het buitengewoon onderwijs type 7 of vanaf de leeftijd van twaalf jaar lessen volgen in gewoon onderwijs met aanpassingen.<br>
+7° totaal gehoorverlies zonder restgehoor (Cophose)<br>
+gebruikmaken van inclusieve kinderopvang of lessen volgen in het buitengewoon onderwijs type 7.<br>
+8° beperking ondanks afdoend gebruik van hulpmiddelen<br>
+beperking in gezichtsveld of beperking in de gezichtsscherpte;<br>
+gebruikmaken van inclusieve kinderopvang of lessen volgen in het buitengewoon onderwijs type 6 of vanaf de leeftijd van twaalf jaar lessen volgen in gewoon onderwijs met aanpassingen.<br>
+9° blindheid<br>
+volgens de classificatie van de Wereldgezondheidsorganisatie een beoordeling hebben van gezichtsscherpte van 2 tot 5% of van een scherp zicht met een ernstige beperking van gezichtsveld tot minder dan 10° of van een gezichtsscherpte van maximaal 2% of geen lichtwaarneming hebben.
