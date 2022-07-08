@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037187,
+  "title": "Decreet van 2022-06-17 tot wijziging van artikel 4.1.16/2 van het Energiedecreet van 8 mei 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037187/VolledigDocument?datum=2022-07-08",
+  "source_sha256": "cc70ff7ed1971d6ca50eacc1945fd7c91523990a891d23a896e3e7f93d84cc27",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037187&param=informatie",
+  "as_of": "2022-07-08",
+  "made": "2022-06-17",
+  "gazette": "2022-06-28",
+  "numac": 2022032576,
+  "document_start": "2022-07-08",
+  "document_end": null,
+  "in_force": "2022-07-08",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2022-07-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
