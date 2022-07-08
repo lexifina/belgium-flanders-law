@@ -1149,7 +1149,7 @@ De Vlaamse Regering bepaalt de nadere regels over de grootte van de verkavelinge
 
 ### ART 4.1.16/2.
 
-In afwijking van artikel 4.1.13, 4.1.15, 4.1.16 en 4.1.16/1 voorzien aardgasdistributienetbeheerders voor residentiële gebouwen en niet-residentiële gebouwen waarvoor vanaf 1 januari 2026 een omgevingsvergunning voor stedenbouwkundige handelingen aangaande nieuwbouw worden aangevraagd niet meer in een aansluiting op het aardgasdistributienet.
+In afwijking van artikel 4.1.13, 4.1.15, 4.1.16 en 4.1.16/1 voorzien aardgasdistributienetbeheerders voor residentiële gebouwen en niet-residentiële gebouwen waarvoor vanaf 1 januari 2025 een omgevingsvergunning voor stedenbouwkundige handelingen aangaande nieuwbouw worden aangevraagd niet meer in een aansluiting op het aardgasdistributienet.
 
 ### ART. 4.1.17.
 
