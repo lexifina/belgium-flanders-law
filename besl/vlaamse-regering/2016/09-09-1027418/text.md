@@ -30,15 +30,17 @@ Besluit :<br>
 In dit besluit wordt verstaan onder:<br>
 1° lengte van de korrestok: de totale lengte van de boom tussen de uiterste punten, met inbegrip van alle toebehoren;<br>
 2° TAC: totaal toegestane vangst;<br>
+2° /1 verordening (EG) nr. 1224/2009: verordening (EG) nr. 1224/2009 van de Raad van 20 november 2009 tot vaststelling van een controleregeling van de Unie die de naleving van de regels van het gemeenschappelijk visserijbeleid moet garanderen, tot wijziging van Verordeningen (EG) nr. 847/96, (EG) nr. 2371/2002, (EG) nr. 811/2004, (EG) nr. 768/2005, (EG) nr. 2115/2005, (EG) nr. 2166/2005, (EG) nr. 388/2006, (EG) nr. 509/2007, (EG) nr. 676/2007, (EG) nr. 1098/2007, (EG) nr. 1300/2008, (EG) nr. 1342/2008 en tot intrekking van Verordeningen (EEG) nr. 2847/93, (EG) nr. 1627/94 en (EG) nr. 1966/2006;<br>
+2° /2 verordening (EU) 2019/1241: verordening (EU) 2019/1241 van het Europees Parlement en de Raad van 20 juni 2019 betreffende de instandhouding van visbestanden en de bescherming van mariene ecosystemen door middel van technische maatregelen, tot wijziging van de Verordeningen (EG) nr. 1967/2006 en (EG) nr. 1224/2009 van de Raad en de Verordeningen (EU) nr. 1380/2013, (EU) 2016/1139, (EU) 2018/973, (EU) 2019/472 en (EU) 2019/1022 van het Europees Parlement en de Raad, en tot intrekking van de Verordeningen (EG) nr. 894/97, (EG) nr. 850/98, (EG) nr. 2549/2000, (EG) nr. 254/2002, (EG) nr. 812/2004 en (EG) nr. 2187/2005 van de Raad;<br>
 3° visvergunning: de visvergunning, vermeld in artikel 1, 3° van het besluit van de Vlaamse Regering van 16 december 2005 tot de instelling van een visvergunning en houdende tijdelijke maatregelen voor de uitvoering van de communautaire regeling inzake de instandhouding en de duurzame exploitatie van de visbestanden;<br>
 4° zone van drie zeemijl van de kust: de zone van drie zeemijl, gemeten vanaf de basislijnen vanwaar de territoriale wateren van België worden bepaald.<br>
 &nbsp;
 
 ### ART 2.
 
-§ 1. Belgische vaartuigen zonder visvergunning met een lengte over alles kleiner dan of gelijk aan 8 meter die uitgerust zijn om te vissen met sleepnetten, mogen alleen uitgerust zijn om te vissen op garnaal conform de bepalingen van Verordening (EG) nr. 850/98 van de Raad van 30 maart 1998 voor de instandhouding van de visbestanden via technische maatregelen voor de bescherming van jonge exemplaren van mariene organismen, met één boomkor waarvan de lengte van de korrestok niet meer bedraagt dan 3 meter of met één bordennet waarvan de lengte van de bovenpees, inclusief stroppen en kabels, niet meer bedraagt dan 4,5 meter, gemeten vanaf de binnenzijde van het ene bord tot de binnenzijde van het andere bord. De korrestok van de boomkor bestaat uit één stuk en mag niet verlengbaar zijn.<br>
+§ 1. Belgische vaartuigen zonder visvergunning met een lengte over alles kleiner dan of gelijk aan 8 meter die uitgerust zijn om te vissen met sleepnetten, mogen alleen uitgerust zijn om te vissen op garnaal conform de bepalingen van verordening (EU) 2019/1241, met één boomkor waarvan de lengte van de korrestok niet meer bedraagt dan 3 meter of met één bordennet waarvan de lengte van de bovenpees, inclusief stroppen en kabels, niet meer bedraagt dan 4,5 meter, gemeten vanaf de binnenzijde van het ene bord tot de binnenzijde van het andere bord. De korrestok van de boomkor bestaat uit één stuk en mag niet verlengbaar zijn.<br>
 <br>
-Belgische vaartuigen zonder visvergunning met een lengte over alles van meer dan 8 meter, die uitgerust zijn om te vissen met sleepnetten, mogen alleen uitgerust zijn om te vissen op garnaal conform de bepalingen van Verordening (EG) nr. 850/98 van de Raad van 30 maart 1998 voor de instandhouding van de visbestanden via technische maatregelen voor de bescherming van jonge exemplaren van mariene organismen, met één bordennet waarvan de lengte van de bovenpees, inclusief stroppen en kabels, niet meer bedraagt dan 4,5 meter, gemeten vanaf de binnenzijde van het ene bord tot de binnenzijde van het andere bord.<br>
+Belgische vaartuigen zonder visvergunning met een lengte over alles van meer dan 8 meter, die uitgerust zijn om te vissen met sleepnetten, mogen alleen uitgerust zijn om te vissen op garnaal conform de bepalingen van verordening (EU) 2019/1241, met één bordennet waarvan de lengte van de bovenpees, inclusief stroppen en kabels, niet meer bedraagt dan 4,5 meter, gemeten vanaf de binnenzijde van het ene bord tot de binnenzijde van het andere bord.<br>
 <br>
 De maximumlengte van de bovenpees van het bordennet wordt vastgelegd op 10 meter voor vaartuigen die alleen voor toeristische doeleinden ingezet worden voor de garnaalvisserij en die beschikken over een certificaat van deugdelijkheid, afgeleverd door de Dienst Scheepvaartcontrole van het Directoraat-generaal Maritiem Vervoer van de FOD Mobiliteit en Vervoer en van een speciale machtiging, afgeleverd door het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij. De Vlaamse minister, bevoegd voor de landbouw, bepaalt de nadere voorwaarden voor het verkrijgen van een dergelijke speciale machtiging.<br>
 <br>
@@ -49,11 +51,11 @@ Het is verboden om tweelingnetten of netten, voorzien van kelen, aan boord te he
 
 ### ART 3.
 
-Binnen de vismijn waar de eerste aanvoer plaatsvindt en na sortering vermeldt de eigenaar van het vissersvaartuig of zijn afgevaardigde op elke kist of ben met te verkopen of af te leveren zeevisserijproducten, de letter en het nummer van het vissersvaartuig dat de zeevisserijproducten heeft aangevoerd.<br>
+Binnen de vismijn waar de eerste aanvoer plaatsvindt en na sortering vermeldt de eigenaar van het vissersvaartuig of zijn afgevaardigde op elke kist of ben met te verkopen of af te leveren zeevisserijproducten, de letter en het nummer van het vissersvaartuig dat de zeevisserijproducten heeft aangevoerd of het elektronische equivalent.<br>
 <br>
-Als het lossen van de zeevisserijproducten niet onmiddellijk wordt gevolgd door de sortering en de verkoop, worden de letter en het nummer van het vissersvaartuig dadelijk na het lossen op elke kist of ben vermeld.<br>
+Als het lossen van de zeevisserijproducten niet onmiddellijk wordt gevolgd door de sortering en de verkoop, worden de letter en het nummer van het vissersvaartuig of het elektronische equivalent dadelijk na het lossen op elke kist of ben vermeld.<br>
 <br>
-In en rond de vismijn is het verboden een kist of ben met zeevisserijproducten te koop aan te bieden, te verkopen, te laden, te vervoeren of af te leveren die geen label draagt dat met de letter en het nummer van het vissersvaartuig dat de zeevisserijproducten heeft aangevoerd.<br>
+Tot aan het moment van de eerste verkoop van de zeevisserijproducten, vermeld in artikel 60 van verordening (EG) nr. 1224/2009, is het verboden een kist of ben met zeevisserijproducten te koop aan te bieden, te verkopen, te laden, te vervoeren of af te leveren die geen label draagt met de letter en het nummer van het vissersvaartuig of het elektronische equivalent.<br>
 &nbsp;
 
 ### ART 4.
@@ -78,15 +80,29 @@ De maximumlengte van de bovenpees van het bordennet wordt vastgelegd op 10 meter
 <br>
 Het gebruik van tweelingnetten en het gebruik van kelen is zowel bij de boomkor- als bij de bordenvisserij verboden.<br>
 <br>
-Het vissen met sleepnetten onder de voorwaarden, vermeld in het tweede tot en met het vierde lid, is alleen toegestaan op garnaal conform de voorwaarden, vermeld in Verordening (EG) nr. 850/98 van de Raad van 30 maart 1998 voor de instandhouding van de visbestanden via technische maatregelen voor de bescherming van jonge exemplaren van mariene organismen. Vissoorten die daarbij als bijvangst gevangen worden en waarvoor ingevolge de EG-reglementering een TAC-of quotum geldt, mogen niet aan boord worden gehouden en worden onmiddellijk in zee teruggeworpen. De vangst moet onmiddellijk nadat ze aan boord is gehaald, gesorteerd worden met de hand of een mechanische zeef.<br>
+Het vissen met sleepnetten onder de voorwaarden, vermeld in het tweede tot en met het vierde lid, is alleen toegestaan op garnaal conform de voorwaarden, vermeld in artikel 2, tweede lid, 7, 10, 11, 12, en bijlagen I, II en V, van verordening (EU) 2019/1241. Vissoorten die daarbij als bijvangst gevangen worden en waarvoor ingevolge de EG-reglementering een TAC-of quotum geldt, mogen niet aan boord worden gehouden en worden onmiddellijk in zee teruggeworpen. De vangst moet onmiddellijk nadat ze aan boord is gehaald, gesorteerd worden met de hand of een mechanische zeef.<br>
 <br>
 § 2. Paragraaf 1 is niet van toepassing op de vaartuigen van de Belgische Scheldevissersvloot. Buiten hun vangstgebied mogen ze echter geen netten aan boord hebben.<br>
 &nbsp;
 
 ### ART 6.
 
-Voor de strandvisserij gelden alleen de technische bepalingen, vermeld in Verordening (EG) nr. 850/98 van de Raad van 30 maart 1998 voor de instandhouding van de visbestanden via technische maatregelen voor de bescherming van jonge exemplaren van mariene organismen, in verband met de minimummaaswijdte van de netten, de maaswijdtemeting en de minimumaanvoerlengte van de vis. De maaswijdte van de ankerkuilen en van platte ingegraven netten, gebruikt bij de strandvisserij, bedraagt ten minste 70 mm. Die netten mogen geen netdelen bevatten met een kleinere maaswijdte.<br>
+Voor de strandvisserij gelden alleen de technische bepalingen, vermeld in bijlage V, deel A en B, van verordening (EU) 2019/1241 en in verordening (EG) nr. 517/2008 van de Commissie van 10 juni 2008 houdende uitvoeringsbepalingen van Verordening (EG) nr. 850/98 wat betreft de bepaling van de maaswijdte en de meting van de twijndikte van visnetten, in verband met de minimummaaswijdte van de netten, de maaswijdtemeting en de minimumaanvoerlengte van de vis. De maaswijdte van de kartenetten en van platte ingegraven netten, gebruikt bij de strandvisserij, bedraagt ten minste 70 mm. Die netten mogen geen netdelen bevatten met een kleinere maaswijdte.<br>
+<br>
+In het eerste lid wordt verstaan onder:<br>
+1° kartenet: een net met een brede opening waarbij de bovenpees voorzien is van vlotters en dat uitloopt in een lange kuil die voorzien is van een keerkuil, waardoor terugzwemmen van de gevangen dieren onmogelijk is;<br>
+2° plat net: een rechthoekig, horizontaal geplaatst net waarvan drie pezen ingegraven worden en dat met vlotters voorzien is aan de niet-ingegraven pees.<br>
 &nbsp;
+
+### ART 6/1.
+
+In dit artikel wordt verstaan onder:<br>
+1° monofilament: een draad van onbepaalde lengte bestaande uit een enkele vezel die een garen op zich vormt;<br>
+2° kieuwnet: een enkelwandig staand visnet dat wordt uitgezet op de bodem en waarin vissen verstrikt raken met hun kieuwen of lichaam;<br>
+3° warrelnet: een dubbelwandig of driewandig staand visnet, of een visnet waarvan de boven- en onderpees verbonden zijn met touwtjes, zodat het netwerk zakken vormt, en waarin vissen en schaaldieren met hun kieuwen, vinnen of stekels verward raken. Die netten omvatten ook warnetten of schakelnetten;<br>
+4° vezel: een dunne draad van een beperkte lengte die ten minste drie keer zo lang is als de diameter.<br>
+<br>
+Bij visserij op zee of vanop het strand is het gebruik en het aan boord van een vaartuig hebben van netten die volledig of gedeeltelijk bestaan uit monofilament verboden, met uitzondering van kieuwnetten en warrelnetten die worden gebruikt voor passieve visserij die wordt beoefend door vaartuigen voorzien van een visvergunning waarop GNS (kieuwnetten) of GTR (warrelnetten) als vistuig vermeld staan en die zijn afgeleverd conform artikel 6 van de verordening (EG) nr. 1224/2009.
 
 ### ART 7.
 
@@ -100,7 +116,7 @@ De visserij op levende organismen van sedentaire soorten binnen de territoriale 
 
 ### ART 9.
 
-De visserij binnen de zone van drie zeemijlen van de kust is verboden voor de vissersvaartuigen met een brutotonnenmaat van meer dan 70BT.<br>
+De visserij binnen de zone van drie zeemijlen van de kust is verboden voor de vissersvaartuigen met een brutotonnenmaat van meer dan 70BT.&nbsp;Voor vaartuigen onder het toepassingsgebied van artikel 7, § 4, van het besluit van de Vlaamse Regering van 16 december 2005 tot de instelling van een visvergunning en houdende tijdelijke maatregelen voor de uitvoering van de communautaire regeling inzake de instandhouding en de duurzame exploitatie van de visbestanden is visserij binnen de zone van drie zeemijl van de kust toegelaten voor vaartuigen met een brutotonnenmaat van 80BT en minder.<br>
 &nbsp;
 
 ### ART 10.
