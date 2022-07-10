@@ -22,7 +22,56 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## HOOFDSTUK 1. Algemene bepaling
 
+### ART 1.
+
+Dit besluit voorziet in de gedeeltelijke omzetting van richtlijn (EU) 2019/944 van het Europees Parlement en de Raad van 5 juni 2019 betreffende gemeenschappelijke regels voor de interne markt voor elektriciteit en tot wijziging van richtlijn 2012/27/EU.
+
 ## HOOFDSTUK 2. Wijzigingen van het Energiebesluit van 19 november 2010
+
+### ART 2.
+
+In artikel 1.1.1, § 2, van het Energiebesluit van 19 november 2010, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 4 februari 2022, wordt een punt 99° /2/1 ingevoegd, dat luidt als volgt:<br>
+"99° /2/1 telecontrole: een centraal besturingssysteem dat de netbeheerder de mogelijkheid geeft om beperkingen op te leggen overeenkomstig de regels van het toepasselijke technisch reglement;".
+
+### ART 3.
+
+In titel III, hoofdstuk I, van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 4 februari 2022, wordt een afdeling IV/1, die bestaat uit artikel 3.1.34/1 tot en met 3.1.34/5, ingevoegd, die luidt als volgt:<br>
+<br>
+"Afdeling IV/1. Flexibiliteit<br>
+<br>
+Art. 3.1.34/1. Gereserveerde technische flexibiliteit als vermeld in artikel 4.1.17/5, § 1, van het Energiedecreet van 8 mei 2009, is van toepassing op de volgende categorieën van netgebruikers en gebruikers die aangesloten zijn op het plaatselijk vervoernet van elektriciteit:<br>
+1° producenten die elektriciteit opwekken in productie-installaties met telecontrole of in productie-installaties die conform verordening 2016/631/EU als type B of hoger worden geclassificeerd;<br>
+2° natuurlijke personen of rechtspersonen die elektriciteitsopslagfaciliteiten met telecontrole of elektriciteitsopslagfaciliteiten die conform verordening 2016/631/EU als type B of hoger worden geclassificeerd, exploiteren;<br>
+3° netgebruikers aangesloten op laagspanning van wie de decentrale productie-installatie is aangemeld bij de elektriciteitsdistributienetbeheerder, als dertig dagen na melding aan de elektriciteitsdistributienetbeheerder van een uitvallende omvormer het probleem nog niet verholpen is, tenzij de elektriciteitsdistributienetbeheerder binnen dertig dagen na de melding heeft aangetoond dat het probleem niet veroorzaakt wordt door een lokale congestie.<br>
+<br>
+In afwijking van het eerste lid is gereserveerde technische flexibiliteit niet van toepassing op bestaande aansluitingen met flexibele toegang als de producent ervoor kiest het bestaande aansluitingscontract te behouden.<br>
+<br>
+In afwijking van het eerste lid, 3°, is gereserveerde technische flexibiliteit vanaf 1 januari 2025 niet van toepassing op netgebruikers aangesloten op laagspanning gedurende de hele periode dat zij de netbeheerder voor de plaatsing van een digitale meter de toegang weigeren tot de ruimte waarin de elektriciteits- of aardgasmeter is opgesteld en waarover zij het eigendoms- of gebruiksrecht hebben.<br>
+<br>
+Art. 3.1.34/2. Niet-gereserveerde technische flexibiliteit als vermeld in artikel 4.1.17/5, § 2, van het Energiedecreet van 8 mei 2009, is van toepassing op de volgende categorieën van netgebruikers en gebruikers die aangesloten zijn op het plaatselijk vervoernet van elektriciteit:<br>
+1° producenten die elektriciteit opwekken in productie-installaties met telecontrole;<br>
+2° natuurlijke personen of rechtspersonen die elektriciteitsopslagfaciliteiten met telecontrole exploiteren, enkel wat hun injectie betreft.<br>
+<br>
+Art. 3.1.34/3. Als gereserveerde technische flexibiliteit wordt toegepast, ontvangen de netgebruiker en de gebruiker die aangesloten is op het plaatselijk vervoernet van elektriciteit een compensatie, die respectievelijk de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit berekent aan de hand van de volgende elementen:<br>
+1° het flexibiliteitsvolume dat is berekend volgens de specificaties die de netbeheerder bepaald heeft conform artikel 4.1.6, § 1, 15°, van het Energiedecreet van 8 mei 2009. Het flexibiliteitsvolume, waaronder het referentieprofiel dat gebruikt wordt om het flexibiliteitsvolume van de productie-installatie te bepalen, wordt op kwartierbasis bepaald en benadert de werkelijk gemoduleerde energie zo goed mogelijk;<br>
+2° een compensatie voor de gemoduleerde energie die niet negatief kan zijn, op basis van:<br>
+a) de day-aheadprijs op de Belgische spotmarkt, tenzij de modulatie wordt geneutraliseerd. De energiecomponent kan niet negatief zijn. De minister kan minimumcompensaties bepalen waarbij rekening wordt gehouden met technologie, datum van indienstname of vermogen;<br>
+b) de waarde van de gederfde groenestroomcertificaten in geval van productie-installaties op basis van hernieuwbare bronnen die groenestroomcertificaten ontvangen;<br>
+c) de waarde van de gederfde warmte-krachtcertificaten in geval van warmte-krachtinstallaties die warmte-krachtcertificaten ontvangen;<br>
+d) de marktprijs voor de gederfde garanties van oorsprong;<br>
+e) een door de minister bepaalde compensatie voor de onbalansimpact, tenzij de impact van de modulatie wordt geneutraliseerd;<br>
+f) de exploitatiekosten, zoals de brandstofkosten, die door de producent werden vermeden door de niet-productie van de energie worden in mindering gebracht van de compensatie voor de niet-geproduceerde energie;<br>
+3° in geval van warmte-krachtinstallaties, de aanvullende exploitatiekosten ten gevolge van back-upwarmtevoorziening en bijkomende afname, die de minister kan bepalen;<br>
+4° in geval van productie-installaties of elektriciteitsopslagfaciliteiten die ondersteunende diensten of flexibiliteitsdiensten leveren aan een markpartij, een aanvullende compensatie voor de door de producent of de exploitant van de elektriciteitsopslagfaciliteit aangetoonde aanvullende kosten die rechtstreeks verbonden zijn aan de modulatie.<br>
+In afwijking van het eerste lid ontvangen de netgebruikers aangesloten op laagspanning, vermeld in artikel 3.1.34/1, eerste lid, 3°, in geval van toepassing van gereserveerde technische flexibiliteit een compensatie waarvan de minister de hoogte jaarlijks tegen 31 oktober bepaalt, rekening houdend met de gemiddelde prijs van elektriciteit voor afname en injectie, de waarde van de gederfde groenestroomcertificaten, het vermogen en de technologie van de decentrale productie-installatie. De elektriciteitsdistributienetbeheerder betaalt die compensatie jaarlijks tegen 30 november. Het recht op compensatie begint vanaf de melding, vermeld in artikel 3.1.34/1, eerste lid, 3°, en loopt zolang de netgebruiker aangesloten op laagspanning door een lokale congestie wordt getroffen.<br>
+<br>
+Art. 3.1.34/4. Als niet-gereserveerde technische flexibiliteit wordt toegepast, ontvangen de netgebruiker en de gebruiker die aangesloten is op het plaatselijk vervoernet van elektriciteit geen compensatie, tenzij in een van de volgende gevallen:<br>
+1° het aansluitingscontract voorziet in garanties op injectie in onvoorziene uitzonderlijke netuitbatingsomstandigheden;<br>
+2° het aansluitingscontract voorziet niet in garanties op injectie in onvoorziene uitzonderlijke netuitbatingsomstandigheden, maar de modulatie houdt minstens vier uur aan.<br>
+<br>
+De elektriciteitsdistributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit berekenen de compensatie aan de hand van de elementen, vermeld in artikel 3.1.34/3, eerste lid.<br>
+<br>
+Art. 3.1.34/5. De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit publiceren jaarlijks voor 1 oktober het rapport, vermeld in artikel 4.1.17/7 van het Energiedecreet van 8 mei 2009, over het vermogen, de opslagcapaciteit en het type van de elektriciteitsopslagfaciliteiten die gekoppeld zijn aan hun net, op hun website. Ze bezorgen dat rapport op hetzelfde moment aan de VREG en de minister.".
 
 ### ART 4.
 
@@ -489,6 +538,12 @@ Artikel 12.3.27 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse 
 <br>
 Voor dossiers met betrekking tot investeringen in nieuw geplaatste dak- of zoldervloerisolatie met eindfactuur in de jaren 2022 en 2023 en aanvraagdatum vanaf 1 juli 2022 worden de premies, vermeld in artikel 6.4.1/1, eerste lid, 1°, en artikel 6.4.1/5, eerste lid, 1°, verhoogd met 4 euro per vierkante meter. De verhogingen zijn niet onderling cumuleerbaar.".
 
+### ART 17.
+
+In titel XII, hoofdstuk III van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 4 februari 2022, wordt een artikel 12.3.28 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 12.3.28. In afwijking van artikel 3.1.34/1, eerste lid, 3° van dit besluit, is gereserveerde technische flexibiliteit slechts van toepassing op netgebruikers aangesloten op laagspanning van wie de decentrale productie-installatie is aangemeld bij de elektriciteitsdistributienetbeheerder, als de netgebruiker aangesloten op laagspanning vanaf de datum van inwerkingtreding van voormeld artikel tot en met 31 december 2022 een uitvallende omvormer heeft gemeld aan de elektriciteitsdistributienetbeheerder, en het probleem na negentig dagen nog niet verholpen is, tenzij de elektriciteitsdistributienetbeheerder binnen negentig dagen na de melding heeft aangetoond dat het probleem niet veroorzaakt wordt door een lokale congestie."
+
 ### ART 18.
 
 Aan titel XII, hoofdstuk III van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 4 februari 2022, wordt een artikel 12.3.29 toegevoegd, dat luidt als volgt:<br>
@@ -823,3 +878,15 @@ In hetzelfde besluit wordt een artikel 44/1 ingevoegd, dat luidt als volgt:<br>
 3° 35% in alle andere gevallen."
 
 ## HOOFDSTUK 4. Slotbepalingen
+
+### ART 24.
+
+Artikel 5 tot en met 7, artikel 9 tot en met 16, artikel 18 en artikel 20 tot en met 23 treden in werking op 1 juli 2022.<br>
+<br>
+Artikel 4 en 8 hebben uitwerking met ingang van 1 januari 2022.<br>
+<br>
+Artikel 19 treedt in werking op een datum die de minister, bevoegd voor de energie, bepaalt.
+
+### ART 25.
+
+De Vlaamse minister, bevoegd voor de energie, en de Vlaamse minister, bevoegd voor het woonbeleid, zijn ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
