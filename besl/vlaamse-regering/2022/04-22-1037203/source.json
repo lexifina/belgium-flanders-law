@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037203,
+  "title": "Besluit van de Vlaamse Regering van 2022-04-22 tot wijziging van het besluit van de Vlaamse Regering van 9 september 2016 tot vaststelling van aanvullende nationale maatregelen voor de instandhouding en het beheer van de visbestanden en voor controle op de visserijactiviteiten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037203/VolledigDocument?datum=2022-07-10",
+  "source_sha256": "30cc0f1759d73dd00c5791ad070d743506decbc140e756b5c65641ca48053526",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037203&param=informatie",
+  "as_of": "2022-07-10",
+  "made": "2022-04-22",
+  "gazette": "2022-06-30",
+  "numac": 2022041086,
+  "document_start": "2022-07-10",
+  "document_end": null,
+  "in_force": "2022-07-10",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2022-07-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
