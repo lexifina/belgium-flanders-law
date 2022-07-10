@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037195,
+  "title": "Besluit van de Vlaamse Regering van 2022-04-01 tot erkenning van de initiële masteropleiding master in materiomics als nieuwe opleiding van de Universiteit Hasselt",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037195/VolledigDocument?datum=2022-07-10",
+  "source_sha256": "90f20fcb605176af2b2172184657d4e87231b7214a9a88856550daefe3c7e2f4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037195&param=informatie",
+  "as_of": "2022-07-10",
+  "made": "2022-04-01",
+  "gazette": "2022-06-30",
+  "numac": 2022031823,
+  "document_start": "2022-07-10",
+  "document_end": null,
+  "in_force": "2022-07-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-07-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
