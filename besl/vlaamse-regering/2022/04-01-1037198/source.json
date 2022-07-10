@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037198,
+  "title": "Besluit van de Vlaamse Regering van 2022-04-01 tot erkenning van het graduaat in het productiebeheer als nieuwe opleiding van UC Leuven",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037198/VolledigDocument?datum=2022-07-10",
+  "source_sha256": "84705a5063ecf9a264cfd19b242ed68b30ec3b0740fa180b1d0f09411a2279ec",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037198&param=informatie",
+  "as_of": "2022-07-10",
+  "made": "2022-04-01",
+  "gazette": "2022-06-30",
+  "numac": 2022031899,
+  "document_start": "2022-07-10",
+  "document_end": null,
+  "in_force": "2022-07-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-07-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
