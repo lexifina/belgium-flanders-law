@@ -126,11 +126,11 @@ Sport Vlaanderen houdt toezicht op de aanwending van de steun. De organisatie is
 
 ### ART 13.
 
-Een bedrag van maximaal 250.000 euro (tweehonderdvijftig duizend euro) wordt toegekend aan de Sportwerk Vlaanderen vzw, met ondernemingsnummer 0431.746.505, Zuiderlaan 13, 9000 Gent voor de organisatie en realisatie van sportlessenreeksen in bedrijven en ondernemingen.<br>
+Een bedrag van maximaal 250.000 euro (tweehonderdvijftig duizend euro) wordt toegekend aan de Sportwerk Vlaanderen vzw, met ondernemingsnummer 0431.746.505, Zuiderlaan 13, 9000 Gent voor de organisatie en realisatie van sportlessen in bedrijven en ondernemingen.<br>
 <br>
-De sportlessenreeksen, vermeld in het eerste lid, worden georganiseerd in bedrijven en ondernemingen die een voortraject hebben doorlopen dat bestaat uit het instappen op en actief deelnemen aan de Vlaamse campagne "sportbedrijven bedrijven sport". De sportlessenreeksen hebben het activeren van de werknemers van de bedrijven en ondernemingen op de werkvloer tot doel.<br>
+De sportlessen, vermeld in het eerste lid, worden georganiseerd in bedrijven en ondernemingen die al dan niet een voortraject hebben doorlopen dat bestaat uit het instappen op en actief deelnemen aan de Vlaamse campagne "sportbedrijven bedrijven sport". De sportlessen hebben het activeren van de werknemers van de bedrijven en ondernemingen op de werkvloer tot doel.<br>
 <br>
-De subsidie aan Sportwerk Vlaanderen vzw heeft tot doel om in 2022 en 2023, in zo veel mogelijk bedrijven en ondernemingen een sportlessenreeks te organiseren.
+De subsidie aan Sportwerk Vlaanderen vzw heeft tot doel om in 2022 en 2023, in zo veel mogelijk bedrijven en ondernemingen sportlessen te organiseren.
 
 ### ART 14.
 
@@ -146,9 +146,9 @@ De steun moet aangewend worden uiterlijk op 31 december 2023.
 
 Voor de aanwending van de subsidie aan Sportwerk Vlaanderen vzw, vermeld in artikel 13, worden uitsluitend de volgende kosten aanvaard, in functie van het aantal georganiseerde activiteiten:<br>
 1° personeelskosten van de sportbegeleiders;<br>
-2° verplaatsingskosten van de sportbegeleiders.<br>
-<br>
-De volgende kosten worden uitdrukkelijk uitgesloten: overheadkosten, kosten met betrekking tot aankoop van kantoor- en hardware ICT-materiaal en kledij.
+2° verplaatsingskosten van de sportbegeleiders;<br>
+3° begeleidings- en coördinatiekosten van het project;<br>
+4° kosten noodzakelijk voor de kwaliteitsvolle uitvoering van het project waarvoor Sport Vlaanderen voorafgaand zijn schriftelijk akkoord heeft gegeven.
 
 ### ART 17.
 
