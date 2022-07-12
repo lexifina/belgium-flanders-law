@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037224,
+  "title": "Decreet van 2022-06-03 over elektronische tolheffingssystemen voor het wegverkeer",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037224/VolledigDocument?datum=2022-07-12",
+  "source_sha256": "4005b573466dd9eb381ee3e0c37101143b83792cb1eb997d454736d5fb49ca5d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037224&param=informatie",
+  "as_of": "2022-07-12",
+  "made": "2022-06-03",
+  "gazette": "2022-07-12",
+  "numac": 2022015253,
+  "document_start": "2022-07-12",
+  "document_end": null,
+  "in_force": "2022-07-12",
+  "article_versions": 39,
+  "record_form": "consolidated version as in force on 2022-07-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
