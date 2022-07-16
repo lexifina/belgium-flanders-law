@@ -111,7 +111,7 @@ Het vruchtgebruik, gevestigd op onbebouwde of bebouwde percelen gelegen in een o
 
 ### ART. 18.
 
-Uiterlijk vijf jaar na de ontginning moeten de vergunninghouders de eindafwerking van de percelen realiseren. Als de vergunde oppervlakte in zones wordt ingedeeld en gefaseerd wordt ontgonnen, geldt die verplichting per zone. De verplichting blijft ook gelden nadat de vergunningstermijn verstreken is, of als een vergunning vervallen, ingetrokken of geschorst is. Deze verplichting geldt niet voor niet-ontgonnen zones.<br>
+Voor zover de vergunning geen bepaalde duur vooropstelt voor de eindafwerking van de ontginning, realiseren de vergunninghouders de eindafwerking van de percelen uiterlijk vijf jaar na de beëindiging van de ontginning. Als de vergunde oppervlakte in zones wordt ingedeeld en gefaseerd wordt ontgonnen, geldt die verplichting per zone. De verplichting blijft ook gelden nadat de vergunningstermijn verstreken is, of als een vergunning vervallen, ingetrokken of geschorst is. Deze verplichting geldt niet voor niet-ontgonnen zones.<br>
 <br>
 De vergunninghouder meldt jaarlijks aan het departement de percelen of delen van percelen waarvan de eindafwerking is gerealiseerd. In voorkomend geval maakt de melding deel uit van het ingediend jaarlijks voortgangsrapport of het geactualiseerd basisvoortgangsrapport, vermeld in artikel 24 van het besluit van de Vlaamse Regering van 26 maart 2004 houdende regels tot uitvoering van het oppervlaktedelfstoffendecreet.
 
