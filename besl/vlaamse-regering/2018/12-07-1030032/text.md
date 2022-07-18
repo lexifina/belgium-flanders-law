@@ -251,15 +251,15 @@ Als een vaststelling wordt gedaan door een MDT-arts, terwijl er bij een evaluere
 
 ### ART 19.
 
-§ 1. De vaststelling van de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, door een evaluerend arts of een MDT-arts geldt tot de leeftijd van zes jaar, twaalf jaar of achttien jaar. Op dat moment worden de gevolgen ambtshalve herzien. In afwijking van wat voorafgaat, geldt een vaststelling die wordt gedaan in het jaar voor het kind zes, twaalf of achttien jaar wordt, tot de leeftijd van respectievelijk twaalf, achttien of eenentwintig jaar<br>
+§ 1. De vaststelling van de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, door een evaluerend arts, een MDT-arts of het agentschap Opgroeien regie geldt tot de leeftijd van zes jaar, twaalf jaar of achttien jaar. Op dat moment worden de gevolgen ambtshalve herzien. In afwijking van wat voorafgaat, geldt een vaststelling die wordt gedaan in het jaar voor het kind zes, twaalf of achttien jaar wordt, tot de leeftijd van respectievelijk twaalf, achttien of eenentwintig jaar<br>
 <br>
-Van de tijdstippen, vermeld in het eerste lid, kan op gemotiveerde wijze worden afgeweken door de evaluerend arts of de MDT-arts. Die geeft dan het tijdstip op van de ambtshalve herziening.<br>
+Van de tijdstippen, vermeld in het eerste lid, kan op gemotiveerde wijze worden afgeweken door de evaluerend arts , de MDT-arts of het agentschap Opgroeien regie. Die geeft dan het tijdstip op van de ambtshalve herziening.<br>
 <br>
 Het agentschap Opgroeien regie&nbsp;stuurt zes maanden voor de tijdstippen, vermeld in het eerste of het tweede lid, bereikt zijn, een brief met informatie over de ambtshalve herziening naar de begunstigden. De ambtshalve herziening vermeld in het eerste en tweede lid, verloopt conform artikel 12 tot en met 16.<br>
 <br>
 Met behoud van de toepassing van de periode, vermeld in het eerste of het tweede lid, kan de ambtshalve herziening ook betrekking hebben op de periode die voorafgaat aan het tijdstip van de ambtshalve herziening en dit binnen de verjaringstermijn, vermeld in artikel 95 van het decreet.<br>
 <br>
-Als er door de ambtshalve herziening een hoger bedrag kan worden toegekend voor de periode die voorafgaat aan het tijdstip van de ambtshalve herziening, betaalt de uitbetalingsactor het verschil voor de periode die de evaluerend arts bepaalt. Als de nieuwe vaststelling tot een lager bedrag leidt, heeft die nieuwe vaststelling pas uitwerking vanaf de eerste dag van de maand na de einddatum van de geldigheid van de vorige beslissing.<br>
+Als er door de ambtshalve herziening een hoger bedrag kan worden toegekend voor de periode die voorafgaat aan het tijdstip van de ambtshalve herziening, betaalt de uitbetalingsactor het verschil voor de periode die de evaluerend arts&nbsp;of het agentschap Opgroeien regie bepaalt. Als de nieuwe vaststelling tot een lager bedrag leidt, heeft die nieuwe vaststelling pas uitwerking vanaf de eerste dag van de maand na de einddatum van de geldigheid van de vorige beslissing.<br>
 <br>
 Als op de einddatum van de geldigheid van de vorige beslissing geen ambtshalve herziening plaatsvindt en de begunstigden een ingevuld inlichtingenformulier hebben bezorgd aan het agentschap Opgroeien regie, wordt de vorige beslissing verlengd tot de datum waarop de beslissing die voortvloeit uit de ambtshalve herziening wordt genomen.<br>
 <br>
@@ -267,9 +267,9 @@ In het zesde lid wordt verstaan onder agentschap Opgroeien regie: het agentschap
 <br>
 Als met toepassing van de beslissing die voortvloeit uit de ambtshalve herziening die plaatsvindt na een verlenging als vermeld in het zesde lid, een hoger bedrag kan worden toegekend voor de periode vóór de ambtshalve herziening na een verlenging als vermeld in het zesde lid, betaalt de uitbetalingsactor het verschil. Als de beslissing die voortvloeit uit de voormelde ambtshalve herziening tot een lager bedrag leidt, heeft die beslissing pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin die beslissing is genomen.<br>
 <br>
-§ 2. Als wordt vastgesteld dat er een materiële fout is begaan bij het nemen of in de verwerking van de beslissing, wordt die rechtgezet door de evaluerend arts of de MDT-arts. De evaluerend arts of de MDT-arts bezorgt de vaststelling aan het agentschap Opgroeien regie. Het agentschap Opgroeien regie bezorgt die vaststelling aan de uitbetalingsactor.<br>
+§ 2. Als wordt vastgesteld dat er een materiële fout is begaan bij het nemen of in de verwerking van de beslissing, wordt die rechtgezet door de evaluerend arts, de MDT-arts of het agentschap Opgroeien regie. De evaluerend arts, de MDT-arts of het agentschap Opgroeien regie bezorgt de vaststelling aan het agentschap Opgroeien regie. Het agentschap Opgroeien regie bezorgt die vaststelling aan de uitbetalingsactor.<br>
 <br>
-Als door de rechtzetting, vermeld in het eerste lid, een hoger bedrag kan worden toegekend, betaalt de uitbetalingsactor het verschil, voor de periode die de evaluerend arts of de MDT-arts bepaalt. Als de nieuwe beslissing tot een lager bedrag leidt, heeft die beslissing pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin de evaluerend arts of de MDT-arts de vaststelling heeft meegedeeld aan het agentschap Opgroeien regie.
+Als door de rechtzetting, vermeld in het eerste lid, een hoger bedrag kan worden toegekend, betaalt de uitbetalingsactor het verschil, voor de periode die de evaluerend arts, de MDT-arts of het agentschap Opgroeien regie bepaalt. Als de nieuwe beslissing tot een lager bedrag leidt, heeft die beslissing pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin de evaluerend arts, de MDT-arts of het agentschap Opgroeien regie de vaststelling heeft meegedeeld aan het agentschap Opgroeien regie.
 
 ### ART 20.
 

@@ -2,16 +2,16 @@
   "codex_id": 1030032,
   "title": "Besluit van de Vlaamse Regering van 2018-12-07 betreffende de nadere regels voor het verkrijgen van een zorgtoeslag",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030032/VolledigDocument?datum=2022-07-08",
-  "source_sha256": "7492af08d1cc58bb6cb52ceaa10264a9543a8de9cd007796b06c638443503a99",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030032/VolledigDocument?datum=2022-07-18",
+  "source_sha256": "67c8db9a09549773e2d5c95a37b71e99d770fb8ead240127e391cab9b4fbcaae",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030032&param=informatie",
-  "as_of": "2022-07-08",
+  "as_of": "2022-07-18",
   "made": "2018-12-07",
   "gazette": "2018-12-21",
   "numac": 2018015480,
   "document_start": "2019-01-01",
   "document_end": null,
-  "in_force": "2022-07-08",
+  "in_force": "2022-07-18",
   "article_versions": 60,
-  "record_form": "consolidated version as in force on 2022-07-08; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-07-18; future article versions excluded; article text as the API gives it"
 }
