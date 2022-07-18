@@ -39,7 +39,7 @@ c) de mogelijkheid op verspreiding van de verontreinigingsfactoren;<br>
 16° ...;<br>
 17° gebruiker :<br>
 a) natuurlijke of rechtspersoon die titularis is van een zakelijk of persoonlijk recht op een grond, met uitzondering van de eigenaar;<br>
-b) vereniging van mede-eigenaars in het kader van een onroerend geheel dat valt onder het stelsel van gedwongen mede-eigendom, vermeld in artikel 577-3 van het Burgerlijk Wetboek.<br>
+b) vereniging van mede-eigenaars in het kader van een onroerend geheel dat valt onder het stelsel van gedwongen mede-eigendom, vermeld in artikel 3.84 van het Burgerlijk Wetboek;<br>
 18° overdracht van gronden :<br>
 a) de overdracht onder levenden van het eigendomsrecht op een grond;<br>
 b) het vestigen onder levenden van een recht van vruchtgebruik, een erfpacht of een opstalrecht op een grond, alsmede het onder de levenden beëindigen van deze op voormelde wijze gevestigde rechten;<br>
@@ -48,7 +48,7 @@ d) de overdracht van het eigendomsrecht op een grond en de beëindiging van een 
 e) de overdracht onder levenden van een recht als vermeld in b) of c) ;<br>
 f) de fusie van rechtspersonen, de splitsing van rechtspersonen en de met fusie of splitsing gelijkgestelde verrichtingen waarbij de rechtspersoon of de rechtspersonen waarvan het vermogen zal overgaan eigenaar is van grond of houder is van een recht als vermeld in b) of c) ;<br>
 g) de inbreng of de overdracht van een algemeenheid of een bedrijfstak, voor zover daartoe een recht als vermeld in a), b) of c), behoort;<br>
-h) het opstellen van de statuten van het gebouw als vermeld in artikel 577-4 van het Burgerlijk Wetboek, alsmede het acteren van de instemming van de mede-eigenaars met de afwijking zoals bedoeld in artikel 577-3, eerste lid, van het Burgerlijk Wetboek bij eenzijdige wilsuiting.<br>
+h) het opstellen van de basisakte van het gebouw of van de groep van gebouwen, vermeld in artikel 3.85 van het Burgerlijk Wetboek, en het acteren van de instemming van de mede-eigenaars met de afwijking, vermeld in artikel 3.84 van het Burgerlijk Wetboek;<br>
 In afwijking van de voorgaande bepalingen worden niet beschouwd als een overdracht van gronden :<br>
 a) de inbreng in een gemeenschappelijk huwelijksvermogen van een recht, als vermeld in het eerste lid, a), b) of c) ;<br>
 b) de rechtshandelingen en rechtsfeiten, vermeld in het eerste lid, met betrekking tot nutsleidingen, en de rechtshandelingen en rechtsfeiten, vermeld in het eerste lid, met betrekking tot aanhorigheden van nutsleidingen, voor zover in die aanhorigheden geen risico-inrichting gevestigd is of was;<br>
@@ -58,7 +58,7 @@ d) de onteigening van gronden;<br>
 a) de inbreng in een rechtspersoon van een recht als vermeld in 18°, eerste lid, a), b) of c) ;<br>
 b) het fusievoorstel en splitsingsvoorstel waarbij de rechtspersoon of de rechtspersonen waarvan het vermogen zal overgaan, eigenaar is van grond of houder is van een recht als vermeld in 18°, eerste lid, b) of c) ;<br>
 c) het voorstel van inbreng of overdracht van algemeenheid of van inbreng of overdracht van een bedrijfstak, voor zover daartoe een recht als vermeld in 18°, eerste lid, a), b) of c), behoort;<br>
-d) het opstellen van de statuten van het gebouw als vermeld in artikel 577-4 van het Burgerlijk Wetboek, alsmede het acteren van de instemming van de mede-eigenaars met de afwijking zoals bedoeld in artikel 577-3, eerste lid, van het Burgerlijk Wetboek bij eenzijdige wilsuiting;<br>
+d) het opstellen van de basisakte van het gebouw of van de groep van gebouwen, vermeld in artikel 3.85 van het Burgerlijk Wetboek, en het acteren van de instemming van de mede-eigenaars met de afwijking, vermeld in artikel 3.84 van het Burgerlijk Wetboek;<br>
 20° behandelen van bodemverontreiniging : wegnemen, neutraliseren, immobiliseren, isoleren of afschermen van de bodemverontreiniging;<br>
 21° bodemsanering : behandelen van bodemverontreiniging door :<br>
 a) het opstellen van een bodemsaneringsproject of een beperkt bodemsaneringsproject;<br>
@@ -352,7 +352,7 @@ Een oriënterend bodemonderzoek wordt uitgevoerd op initiatief en op kosten van 
 
 ### ART. 30.
 
-In afwijking van artikel 29 en 102 moet voor de overdracht van een privatief deel van een onroerend goed dat valt onder het stelsel van gedwongen mede-eigendom zoals bedoeld in artikel 577-3 van het Burgerlijk Wetboek of dat valt onder toepassing van artikel 577-2 van het Burgerlijk Wetboek, alleen in de volgende gevallen een oriënterend bodemonderzoek worden uitgevoerd:<br>
+In afwijking van artikel 29 en 102 moet voor de overdracht van een privatief deel van een onroerend goed dat valt onder het stelsel van gedwongen mede-eigendom vermeld in artikel 3.84 van het Burgerlijk Wetboek of dat valt onder de toepassing van artikel 3.78 tot en met 3.83 van het Burgerlijk Wetboek, alleen in de volgende gevallen een oriënterend bodemonderzoek worden uitgevoerd:<br>
 1° in dat privatieve deel is of was een risico-inrichting gevestigd;<br>
 2° in de gemeenschappelijke delen is of was een risico-inrichting gevestigd, die uitsluitend bestemd is of was voor dat privatieve deel.<br>
 <br>
@@ -362,7 +362,11 @@ Het oriënterend bodemonderzoek wordt uitgevoerd op initiatief en op kosten van 
 
 ### ART. 30bis.
 
-In de volgende gevallen moet voor een onroerend geheel dat valt onder het stelsel van gedwongen mede-eigendom, vermeld in artikel 577-3 van het Burgerlijk Wetboek, een oriënterend bodemonderzoek worden uitgevoerd op initiatief en op kosten van de vereniging van mede-eigenaars voor 31 december 2014 :<br />1° voor de vestiging van de gedwongen mede-eigendom was een risico-inrichting gevestigd op de grond waarop de gedwongen mede-eigendom gevestigd is;<br />2° in de gemeenschappelijke delen was een risico-inrichting gevestigd die bestemd was ten behoeve van de gedwongen mede-eigendom.<br /><br />Bij afwezigheid van een vereniging van mede-eigenaars wordt het oriënterend bodemonderzoek uitgevoerd op initiatief en op kosten van de mede-eigenaars.
+In de volgende gevallen moet voor een onroerend geheel dat valt onder het stelsel van gedwongen mede-eigendom, vermeld in artikel 3.84 van het Burgerlijk Wetboek, een oriënterend bodemonderzoek worden uitgevoerd op initiatief en op kosten van de vereniging van mede-eigenaars voor 31 december 2014 :<br>
+1° voor de vestiging van de gedwongen mede-eigendom was een risico-inrichting gevestigd op de grond waarop de gedwongen mede-eigendom gevestigd is;<br>
+2° in de gemeenschappelijke delen was een risico-inrichting gevestigd die bestemd was ten behoeve van de gedwongen mede-eigendom.<br>
+<br>
+Bij afwezigheid van een vereniging van mede-eigenaars wordt het oriënterend bodemonderzoek uitgevoerd op initiatief en op kosten van de mede-eigenaars.
 
 ## [C. Verplicht oriënterend bodemonderzoek voor nog niet onderzochte gronden met potentieel historische bodemverontreiniging (verv. decr. 8 december 2017, art. 17, I: 12 februari 2018)]
 
@@ -1031,7 +1035,7 @@ Als een erkende bodemsaneringsorganisatie de verplichtingen in deze afdeling nie
 
 § 1. Risicogronden kunnen slechts overgedragen worden als er vooraf een orienterend bodemonderzoek werd uitgevoerd en het verslag ervan aan de OVAM werd bezorgd.<br>
 <br>
-In afwijking van het eerste lid geldt de regeling, vermeld in artikel 30, voor de uitvoering van een oriënterend bodemonderzoek in het kader van de overdracht van een privatief deel van een onroerend goed dat valt onder het stelsel van gedwongen mede-eigendom zoals bedoeld in artikel 577-3 van het Burgerlijk Wetboek of dat valt onder toepassing van artikel 577-2 van het Burgerlijk Wetboek. Als voor de overdracht van een privatief deel met toepassing van artikel 30 geen oriënterend bodemonderzoek hoeft te worden uitgevoerd, zijn de bepalingen van artikel 104 tot en met 115 ook niet van toepassing op die overdracht.<br>
+In afwijking van het eerste lid geldt de regeling, vermeld in artikel 30, voor de uitvoering van een oriënterend bodemonderzoek in het kader van de overdracht van een privatief deel van een onroerend goed dat valt onder het stelsel van gedwongen mede-eigendom, vermeld in artikel 3.84 van het Burgerlijk Wetboek of dat valt onder de toepassing van artikel 3.78 tot en met 3.83 van het Burgerlijk Wetboek. Als voor de overdracht van een privatief deel met toepassing van artikel 30 geen oriënterend bodemonderzoek hoeft te worden uitgevoerd, zijn de bepalingen van artikel 104 tot en met 115 ook niet van toepassing op die overdracht.<br>
 <br>
 De eigenaar van de risicogrond die een vrijstelling van de bodemonderzoeksplicht, vermeld in artikel 31, § 1, heeft verkregen, is van rechtswege vrijgesteld van de onderzoeksplicht, vermeld in het eerste lid en artikel 29, als sedert de vrijstellingsbeslissing op de risicogrond geen risico-inrichtingen zijn geëxploiteerd.<br>
 <br>
