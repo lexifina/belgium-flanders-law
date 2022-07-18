@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037220,
+  "title": "Decreet van 2022-06-03 tot instemming met de partnerschaps- en samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Singapore, anderzijds, ondertekend te Brussel op 19 oktober 2018",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037220/VolledigDocument?datum=2022-07-18",
+  "source_sha256": "edf4dbef92f693acc73eaadf0ea18c4203dd7408c8d4ac85fc1c22d903245080",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037220&param=informatie",
+  "as_of": "2022-07-18",
+  "made": "2022-06-03",
+  "gazette": "2022-07-08",
+  "numac": 2022032369,
+  "document_start": "2022-07-18",
+  "document_end": null,
+  "in_force": "2022-07-18",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2022-07-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
