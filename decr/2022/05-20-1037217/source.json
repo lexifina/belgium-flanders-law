@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037217,
+  "title": "Decreet van 2022-05-20 tot wijziging van diverse bepalingen in het Bodemdecreet van 27 oktober 2006 en het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037217/VolledigDocument?datum=2022-07-18",
+  "source_sha256": "df1a66a6a72bbea054c28fd47ec1d08d69c45683529e8ef104099087805d8aa2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037217&param=informatie",
+  "as_of": "2022-07-18",
+  "made": "2022-05-20",
+  "gazette": "2022-07-08",
+  "numac": 2022041530,
+  "document_start": "2022-07-18",
+  "document_end": null,
+  "in_force": "2022-07-18",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2022-07-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
