@@ -27,7 +27,10 @@ g) stoffen die bestemd zijn voor gebruik als voedermiddelen als vermeld in artik
 3° afvalstoffenmakelaar : iedere onderneming die ten behoeve van anderen de verwijdering of de nuttige toepassing van afvalstoffen organiseert, met inbegrip van makelaars die de afvalstoffen niet fysiek in hun bezit hebben;<br>
 4° afvalstoffenproducent : elke natuurlijke persoon of rechtspersoon wiens activiteiten afvalstoffen voortbrengen, zijnde de eerste afvalproducent, of eenieder die voorbehandelingen, vermengingen of andere bewerkingen verricht die leiden tot een wijziging in de aard of de samenstelling van die afvalstoffen;<br>
 5° afvalstoffenverwerking : nuttige toepassing of verwijdering, met inbegrip van voorbereidende handelingen die aan nuttige toepassing of verwijdering voorafgaan;<br>
-5° /1 asbesthoudende materialen: de materialen die op basis van -voorkennis en een beoordeling met het blote oog of op basis van een geldige monstername en analyse asbest bevatten;<br>
+5° /1 asbesthoudende materialen:<br>
+a) materialen die op basis van voorkennis en een beoordeling met het blote oog of op basis van een geldige monstername en analyse asbest bevatten;<br>
+b) asbestverdachte materialen tenzij de afwezigheid van asbest met zekerheid kan worden aangetoond op basis van een geldige monstername en analyse;<br>
+5° /2 asbestverdachte materialen: materialen die op basis van voorkennis en een beoordeling met het blote oog mogelijk asbest bevatten;<br>
 6° bedrijfsafvalstoffen : afvalstoffen die ontstaan ten gevolge van een industriële, ambachtelijke of wetenschappelijke activiteit, en de afvalstoffen die daarmee gelijkgesteld worden bij een besluit van de Vlaamse Regering;<br>
 7° beheren van afvalstoffen : het inzamelen, het tussentijds opslaan en overslaan, het vervoeren, het nuttig toepassen, met inbegrip van sortering, en het verwijderen van afvalstoffen,&nbsp;met inbegrip van het houden van toezicht op die handelingen en het uitvoeren van de nazorg voor de stortplaatsen na sluiting, en met inbegrip van activiteiten van afvalstoffenhandelaars of -makelaars;<br>
 8° beste beschikbare technieken: beste beschikbare technieken als vermeld bij of krachtens titel V van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
@@ -63,16 +66,27 @@ De definitie, vermeld in het eerste lid, 25° /2, doet geen afbreuk aan de toewi
 <br>
 § 2. Voor de toepassing van afdeling 6 van hoofdstuk 3 wordt verstaan onder:<br>
 1° asbest: de vezelachtige silicaten actinoliet, amosiet, anthofylliet, chrysotiel, crocidoliet en tremoliet;<br>
+1° /1 asbestveilig: een toestand waarin bij normaal gebruik van de constructie geen blootstellingsrisico's kunnen ontstaan voor mens en milieu doordat:<br>
+a) men zich heeft ontdaan van:<br>
+1) alle eenvoudig bereikbare hechtgebonden asbesthoudende materialen met niet-laag risico;<br>
+2) alle eenvoudig bereikbare niet-hechtgebonden asbesthoudende materialen, met uitzondering van asbesthoudende wandpleister met een laag risico;<br>
+3) alle dak- en gevelbekledingen, dakgoten, rookgaskanalen en hemelwaterafvoerkanalen bestaande uit asbestcement als ze zich aan de buitenzijde bevinden;<br>
+4) alle eenvoudig bereikbare asbesthoudende materialen die een afvalstof zijn, met uitzondering van uitgegraven of onuitgegraven steenslag, bodemen puinlagen;<br>
+5) alle asbesthoudende materialen, met uitzondering van asbesthoudende wandpleister, die werden ingesloten of bedekt als risicobeheersmaatregel als vermeld in artikel 33/1, § 2;<br>
+b) de resterende asbesthoudende materialen veilig worden beheerd;<br>
 2° constructie met risicobouwjaar: de constructie met inbegrip van al wat onroerend is geworden door bestemming of incorporatie, met bouwjaar 2000 of ouder, met uitsluiting van de openbare ondergrondse infrastructuur die bestemd is voor de transit, het transport, de transmissie of de distributie van vaste, vloeibare of gasvormige stoffen, energie of informatie. Een constructie is een gebouw, een bouwwerk, een vaste inrichting, een verharding met uitzondering van steenslag, al dan niet bestaande uit duurzame materialen, in de grond ingebouwd, aan de grond bevestigd of op de grond steunend omwille van de stabiliteit, en bestemd om ter plaatse te blijven staan of liggen, ook al kan het goed uit elkaar genomen worden, verplaatst worden, of is het goed volledig ondergronds;<br>
-3° eenvoudig bereikbare asbesthoudende materialen: de asbesthoudende materialen die waar te nemen en weg te nemen zijn zonder de bouwkundige integriteit van een constructie of erfgoedkenmerken van een beschermd onroerend erfgoed aan te tasten binnen de normale beheers- en onderhoudscycli of een vergelijkbare stilstand bij industriële installaties. Asbesthoudende materialen die bedekt zijn door een ander materiaal, met uitzondering van een laag verf, coating, behang, kunststof of textiel, zijn niet eenvoudig bereikbaar, tenzij het bedekkend materiaal kan worden weggenomen zonder het te beschadigen;<br>
+3° eenvoudig bereikbare asbesthoudende materialen: de asbesthoudende materialen die waar te nemen en weg te nemen zijn zonder de bouwkundige integriteit van een constructie of erfgoedkenmerken van een beschermd onroerend erfgoed aan te tasten binnen de normale beheers- en onderhoudscycli of een vergelijkbare stilstand bij industriële installaties. Asbesthoudende materialen die bedekt zijn door een ander materiaal, met uitzondering van een laag verf, coating, behang, kunststof of textiel, zijn niet eenvoudig bereikbaar, tenzij het bedekkend materiaal kan worden weggenomen zonder het bedekkende materiaal te beschadigen;<br>
 4° eigenaar: de volle of blote eigenaar. Wanneer het eigendomsrecht in onverdeeldheid is, wordt elk van de onverdeelde houders van dat recht hoofdelijk en ondeelbaar beschouwd als eigenaar;<br>
 4° /1 gebouweenheid: een in functioneel opzicht zelfstandige eenheid binnen een gebouw;<br>
-5° hechtgebonden asbesthoudende materialen: asbestcement, asbesthoudende vloertegels en vloerbekledingen, asbesthoudende bitumen en roofingproducten en asbesthoudende pakkingen en dichtingen waarvan het bindmiddel bestaat uit cement, bitumen, kunststof of lijm;<br>
+5° hechtgebonden asbesthoudende materialen: asbesthoudende materialen waarin de asbestvezels in oorsprong sterk gebonden zijn door een bindmiddel dat hoofdzakelijk bestaat uit cement, bitumen, mastiek, kunststof of lijm;<br>
+5° /1 laag risico: als op basis van de aard, de staat en het voorkomen van de asbesthoudende materialen het weinig waarschijnlijk is dat asbestvezels kunnen vrijkomen;<br>
 6° niet-hechtgebonden asbesthoudende materialen: alle asbesthoudende materialen die niet hechtgebonden zijn;<br>
 7° openbare, technische toegankelijke constructie met risicobouwjaar: een voor mensen toegankelijke constructie met risicobouwjaar die van openbaar nut is met hoofdzakelijk technische functie vervat onder kunstwerken en lijninfrastructuur en hun aanhorigheden;<br>
 8° overdracht: het onder levenden overdragen van een eigendomsrecht, het onder levenden vestigen of overdragen van een recht van vruchtgebruik, een erfpacht, een opstalrecht of een zakelijk recht van gebruik. Een onteigening en een erfenis worden niet beschouwd als een overdracht;<br>
+8° /1 risicobeheersmaatregel: een tijdelijke maatregel die erop gericht is om voor een asbesthoudend materiaal een laag risico te verkrijgen in afwachting van het wegnemen van het asbesthoudende materiaal;<br>
 9° toegankelijke constructie met risicobouwjaar: elke constructie met risicobouwjaar die mensen binnen kunnen betreden. Een constructie kan binnen betreden worden als ze minstens bestaat uit een dak dat gedragen wordt door constructie-elementen, en als een mens er normaal in kan staan of lopen;<br>
 10° publieke constructie met risicobouwjaar: elke constructie met risicobouwjaar die een publieke organisatie huisvest die aan een groot aantal personen overheidsdiensten verstrekken. Een publieke organisatie is een overheid, een parastatale, of een organisatie die publieke diensten aanbiedt die door een overheid worden verzorgd, uitbesteed of gesubsidieerd;<br>
+10° /1 veilig beheer: voor laag risico asbesthoudende materialen maatregelen nemen zodat ze deze status behouden, voor niet eenvoudig bereikbare niet-laag risico asbesthoudende materialen risicobeheersmaatregelen nemen en voor niet eenvoudig bereikbare materialen die een afvalstof zijn alle maatregelen nemen die redelijkerwijs kunnen worden genomen om het gevaar voor de gezondheid van de mens of voor het milieu, meer bepaald het risico voor water, lucht en bodem te voorkomen of zoveel mogelijk te beperken;<br>
 11° wooneenheid: een gebouweenheid die over de nodige woonvoorzieningen beschikt om autonoom te kunnen functioneren.<br>
 &nbsp;
 
@@ -101,6 +115,46 @@ c) zonder schade aan natuur- en landschapsschoon te berokkenen.<br>
 
 De procedures, opgelegd in en krachtens dit decreet, kunnen geheel of gedeeltelijk elektronisch verlopen, overeenkomstig de regels die de Vlaamse Regering bepaalt.
 
+### ART 4/2.
+
+§ 1. De OVAM verwerkt gegevens die mogelijk persoonsgegevens bevatten in het kader van de uitvoering van artikel 6, 9, 13, 13/1, 14, 15, 21, 21/1, 22, 23, 25, 30, 32/1, 33, 39 tot en met 43, 49, 50 en 52 van dit decreet.<br>
+<br>
+De OVAM wordt hierbij aangeduid als de verwerkingsverantwoordelijke van deze persoonsgegevens.<br>
+<br>
+De OVAM neemt passende maatregelen om het doel van de verwerking, de types of categorieën van te verwerken persoonsgegevens, de betrokkenen, de entiteiten waaraan en doeleinden waarvoor de persoonsgegevens mogen worden verstrekt, de opslagperioden en de aanduiding van de verwerkingsverantwoordelijke op te nemen in de communicatie met de burger zodat de betrokkenen goed geïnformeerd worden over de verwerking van hun gegevens en het voor de betrokkenen duidelijk is wat hun rechten zijn en tot wie zij zich moeten richten voor de uitoefening van hun rechten.<br>
+<br>
+§ 2. De gegevens, vermeld in paragraaf 1, worden verwerkt met de volgende doelen:<br>
+1° het monitoren en opvolgen van de doelstellingen van dit decreet;<br>
+2° het monitoren, bewaken, opvolgen en uitvoeren van de bepalingen van dit decreet;<br>
+3° het produceren van de nodige gegevens voor een efficiënt en effectief toezicht op de maatregelen van dit decreet;<br>
+4° het vervullen van diverse Europese, internationale, Belgische en Vlaamse rapportageverplichtingen die opgelegd zijn in toepasselijke wetgeving en verdragen;<br>
+5° het beantwoorden van vragen aan de OVAM in het kader van de openbaarheid van bestuur en in het kader van de parlementaire werking;<br>
+6° het traceren van afvalstoffen en materialen van bij de productie tot bij de definitieve verwerking of inzet als grondstoffen.<br>
+§ 3. De aard van de gegevens betreft de ondernemingsnummers, de vestigingsnummers, de bankrekeningnummers, de naam en de contactgegevens, zijnde telefoon, fax, e-mailadres, van de natuurlijke personen en rechtspersonen die voorkomen in documenten die worden gebruikt in administratieve procedures ter uitvoering van dit decreet en die voorkomen in de registers die in het kader van de bepalingen van dit decreet moeten worden bijgehouden en die moeten worden gemeld aan of uitgewisseld worden met de OVAM.<br>
+<br>
+Waar relevant betreft het de locatiegegevens die verbonden zijn aan het beginen eindpunt van een transport van afvalstoffen of materialen. Deze locatiegegevens zullen enkel gebruikt worden voor de doelen opgenomen in punt 3° en 6° van paragraaf 2 van dit artikel.<br>
+<br>
+Die gegevens zijn nodig in het kader van een minimale gegevensverwerking voor de doelen van de gegevensverwerking, vermeld in paragraaf 2.<br>
+<br>
+§ 4. De verwerkte persoonsgegevens hebben betrekking op:<br>
+1° de natuurlijke personen en rechtspersonen die afvalstoffen en materialen produceren, gebruiken of beheren;<br>
+2° de natuurlijke personen en rechtspersonen die beroepsmatig producten ontwikkelen, vervaardigen, behandelen, verwerken, invoeren, verkopen of de verkoop faciliteren zoals de producent van het product en een uitgebreide producentenverantwoordelijkheid dragen.<br>
+<br>
+§ 5. De OVAM kan de persoonsgegevens, vermeld in paragraaf 1, verstrekken aan:<br>
+1° de toezichthouders die belast zijn met het toezicht op de bepalingen van dit decreet;<br>
+2° de natuurlijke personen of rechtspersonen aan wie de OVAM gegevens ter beschikking moet stellen in het kader van de uitvoering van dit decreet;<br>
+3° de Europese, internationale, Belgische en Vlaamse instellingen waaraan de OVAM moet rapporteren.<br>
+<br>
+§ 6. De OVAM hanteert een standaardtermijn van 20 jaar na het afsluiten van het dossier voor het bewaren van de persoonsgegevens, en meer specifiek de bankrekeningnummers, de locatiegegevens, de namen en de contactgegevens.<br>
+<br>
+De OVAM zal per datastroom van persoonsgegevens in de selectielijsten die opgesteld worden in het kader van artikel 11 van het Archiefdecreet van 9 juli 2010 en artikel II.87 van het Bestuursdecreet van 7 december 2018 een bepaalde bewaartermijn opnemen voor de persoonsgegevens, en meer specifiek de bankrekeningnummers, de locatiegegevens, de namen en de contactgegevens. Indien deze specifieke termijn korter is dan de termijn vernoemd in het eerste lid, geldt de specifieke bewaartermijn.<br>
+<br>
+De ondernemingsnummers en vestigingsnummers zullen voor onbepaalde tijd worden bewaard om toe te laten dat ook in de toekomst het monitoren, bewaken en opvolgen van de doelstellingen van dit decreet kan gebeuren.<br>
+<br>
+§ 7. De Vlaamse Regering kan nadere regels bepalen over de verwerking van persoonsgegevens door de OVAM.<br>
+<br>
+§ 8. De OVAM neemt passende technische en organisatorische maatregelen die nodig zijn voor de bescherming van de persoonsgegevens. Deze maatregelen zullen een passend beveiligingsniveau verzekeren rekening houdend, enerzijds, met de stand van de techniek ter zake en de kosten voor het toepassen van de maatregelen en, anderzijds, met de aard van de te beveiligen gegevens en de potentiële risico's.
+
 ## HOOFDSTUK 2 Algemene bepalingen rond het beheer van materiaalkringlopen en afvalstoffen
 
 ### ART. 5.
@@ -115,9 +169,22 @@ De natuurlijke personen en rechtspersonen die afvalstoffen beheren, melden bepaa
 <br>
 § 2. De Vlaamse Regering kan bepalen dat afvalstoffen bij hun vervoer vergezeld moeten gaan van een identificatieformulier, al dan niet in elektronische vorm.<br>
 <br>
+De Vlaamse Regering kan nadere regels opleggen over de modaliteiten voor de opmaak van identificatieformulieren en voor de uitwisseling ervan met de OVAM en de toezichthouders.<br>
+<br>
 § 3. De Vlaamse Regering kan bepalen dat voor specifieke materialen materialenregisters worden bijgehouden met het oog op het verkrijgen van informatie over het efficiënt en rechtmatig gebruik van materialen overeenkomstig de doelstelling, vermeld in artikel 4. Die registers kunnen slaan op hoeveelheden van in- en uitgaande materiaalstromen en hun herkomst en bestemming. De Vlaamse Regering kan daarvoor nadere regels vaststellen.<br>
 <br>
 De Vlaamse Regering kan vaststellen dat de OVAM natuurlijke personen en rechtspersonen selecteert om gegevens uit het materialenregister te melden. De Vlaamse Regering bepaalt welke gegevens worden gemeld en op welke wijze dat gebeurt.<br>
+<br>
+§ 4. De Vlaamse Regering kan bepalen dat transport van grondstoffen vergezeld moet gaan van een transportdocument. De Vlaamse Regering kan nadere regels vastleggen over de modaliteiten over de inhoud van de transportdocumenten en het delen van de documenten met de OVAM en de toezichthouders.<br>
+<br>
+§ 5. De gegevens die in het kader van paragraaf 1 tot en met 4 van dit artikel gemeld worden aan de OVAM of uitgewisseld worden met de OVAM, vormen de basis van het materialeninformatiesysteem.<br>
+<br>
+De Vlaamse Regering kan nadere regels opleggen over de modaliteiten voor de opmaak, het beheer en het gebruik van het materialeninformatiesysteem.<br>
+<br>
+In dit artikel wordt verstaan onder het materialeninformatiesysteem: een systeem dat bestaat uit een ICT-toepassing, een databank en een dataplatform met gegevens over afvalstoffen en materialen ten behoeve van het traceren door de OVAM en de toezichthouders van afvalstoffen en materialen, het opvolgen van de sluiting van materiaalkringlopen, het voldoen aan Vlaamse, Europese en internationale rapporteerverplichtingen, en het bepalen van het aandeel afval dat gerecycleerd, gestort, verbrand of op een andere manier verwerkt wordt.<br>
+<br>
+Omdat het materialeninformatiesysteem commercieel vertrouwelijke gegevens bevat, neemt de OVAM passende technische en organisatorische maatregelen die nodig zijn voor de bescherming van deze commercieel vertrouwelijke gegevens.<br>
+Deze maatregelen zullen een passend beveiligingsniveau verzekeren rekening houdend, enerzijds, met de stand van de techniek ter zake en de kosten voor het toepassen van de maatregelen en, anderzijds, met de aard van de te beveiligen gegevens en de potentiële risico's.<br>
 &nbsp;
 
 ### ART. 7.
@@ -166,8 +233,6 @@ Met behoud van de toepassing van artikel 21 en overeenkomstig het beginsel 'de v
 De Vlaamse Regering kan die maatregelen nader omschrijven.<br>
 <br>
 § 4. De natuurlijke persoon of rechtspersoon die asbesthoudende materialen beheert, is verplicht alle maatregelen te nemen die redelijkerwijs kunnen worden genomen om het gevaar voor de gezondheid van de mens of voor het milieu, meer bepaald het risico voor water, lucht en bodem te voorkomen of zoveel mogelijk te beperken.<br>
-<br>
-Asbestverdacht materiaal wordt als asbesthoudend materiaal beschouwd tenzij op basis van een geldige monstername en analyse de afwezigheid van asbest met zekerheid kan worden aangetoond. Onder asbestverdacht materiaal wordt verstaan: materiaal dat op basis van voorkennis en een beoordeling met het blote oog mogelijk asbest bevat.<br>
 <br>
 De Vlaamse Regering kan de maatregelen, vermeld in het eerste lid, nader omschrijven.<br>
 &nbsp;
@@ -335,7 +400,7 @@ Om uitvoering te geven aan de maatregelen, vermeld in artikel 21, § 1, kan de V
 
 ### ART. 21.
 
-§ 1. Om preventie, hergebruik, recyclage en andere nuttige toepassingen van afvalstoffen te stimuleren kan de Vlaamse Regering maatregelen nemen om ervoor te zorgen dat iedere natuurlijke persoon of rechtspersoon die beroepsmatig producten ontwikkelt, vervaardigt, behandelt, verwerkt, verkoopt of invoert (producent van het product), een uitgebreide producentenverantwoordelijkheid draagt.<br>
+§ 1. Om preventie, hergebruik, recyclage en andere nuttige toepassingen van afvalstoffen te stimuleren kan de Vlaamse Regering maatregelen nemen om ervoor te zorgen dat iedere natuurlijke persoon of rechtspersoon die beroepsmatig producten ontwikkelt, vervaardigt, behandelt, verwerkt, verkoopt, invoert of de verkoop faciliteert (producent van het product), een uitgebreide producentenverantwoordelijkheid draagt.<br>
 <br>
 De maatregelen, vermeld in het eerste lid, kunnen bestaan uit het opleggen van regels en verplichtingen aan de natuurlijke personen en rechtspersonen, vermeld in het eerste lid, en hebben betrekking op :<br>
 1° het volledig of gedeeltelijk verantwoordelijk stellen voor de organisatie van de inzameling van de afvalstoffen die voortkomen uit producten die ze op de markt gebracht hebben;<br>
@@ -455,7 +520,14 @@ De Vlaamse Regering kan nadere regels vaststellen voor het afgiftebewijs, vermel
 
 ### ART. 26.
 
-Elke gemeente draagt er, al dan niet in samenwerking met andere gemeenten, zorg voor dat de huishoudelijke afvalstoffen zo veel mogelijk worden voorkomen of hergebruikt, op regelmatige tijdstippen worden opgehaald of op een andere wijze worden ingezameld, en nuttig worden toegepast of verwijderd, overeenkomstig artikel 11, 12 en 13, § 2.<br /><br />De gemeenten verhalen, overeenkomstig artikel 10, de kosten van het beheer van huishoudelijk afval op de afvalproducenten. De gemeente kan haar verzelfstandigde entiteiten of intergemeentelijke samenwerkingsverbanden ertoe machtigen die kosten te innen, ook als ze in de vorm van belastingen en retributies worden verhaald. De Vlaamse Regering kan nadere regels vaststellen voor de wijze waarop de gemeenten de kosten van het beheer van huishoudelijke afvalstoffen berekenen.<br /><br />Met behoud van de toepassing van de bepalingen van dit decreet worden de ophaling en inzameling van huishoudelijke afvalstoffen bij gemeentelijk reglement geregeld.<br /><br />De prestaties van elke persoon die nodig zijn voor de normale werking van de diensten die met het ophalen van de huishoudelijke afvalstoffen zijn belast, alsook het nodige materiaal daarvoor, mogen door de burgemeester, de arrondissementscommissaris en de gouverneur worden opgeëist.<br /><br />
+Elke gemeente draagt er, al dan niet in samenwerking met andere gemeenten, zorg voor dat de huishoudelijke afvalstoffen zo veel mogelijk worden voorkomen of hergebruikt, op regelmatige tijdstippen worden opgehaald of op een andere wijze worden ingezameld, en nuttig worden toegepast of verwijderd, overeenkomstig artikel 11, 12 en 13, § 2.<br>
+<br>
+De gemeenten verhalen, overeenkomstig artikel 10, de kosten van het beheer van huishoudelijk afval op de afvalproducenten. De gemeente kan haar verzelfstandigde entiteiten of intergemeentelijke samenwerkingsverbanden ertoe machtigen die kosten te innen, ook als ze in de vorm van belastingen en retributies worden verhaald. De Vlaamse Regering kan nadere regels vaststellen voor de wijze waarop de gemeenten de kosten van het beheer van huishoudelijke afvalstoffen berekenen.<br>
+<br>
+Met behoud van de toepassing van de bepalingen van dit decreet worden de ophaling en inzameling van huishoudelijke afvalstoffen bij gemeentelijk reglement geregeld.<br>
+<br>
+De prestaties van elke persoon die nodig zijn voor de normale werking van de diensten die met het ophalen van de huishoudelijke afvalstoffen zijn belast, alsook het nodige materiaal daarvoor, mogen door de burgemeester en de gouverneur worden opgeëist.<br>
+&nbsp;
 
 ### ART. 27.
 
@@ -469,7 +541,8 @@ Als een gemeente of een provincie of hun samenwerkingsverbanden de verplichtinge
 
 ### ART. 29.
 
-De bepalingen van afdeling 1 en 2 en van hoofdstuk 2 zijn van toepassing op de gevaarlijke afvalstoffen als er in deze afdeling niet uitdrukkelijk van wordt afgeweken.<br /><br />
+De bepalingen van afdeling 1 en 2 en van hoofdstuk 3 zijn van toepassing op de gevaarlijke afvalstoffen als er in deze afdeling niet uitdrukkelijk van wordt afgeweken.<br>
+&nbsp;
 
 ### ART. 30.
 
@@ -522,7 +595,13 @@ De Vlaamse Regering kan nadere regels vaststellen waaraan de centra voor het dep
 
 ### ART 33/1.
 
-Het is verboden constructies zoals zonnepanelen, overzetdaken en reclamepanelen te bevestigen aan of over asbesthoudende dak- en gevelbekleding. Het is eveneens verboden asbesthoudende dak- en gevelbekleding in te sluiten of te bedekken met andere materialen.
+§ 1. Het is verboden constructies zoals zonnepanelen, overzetdaken en reclamepanelen te bevestigen aan of over:<br>
+1° asbesthoudende dak- en gevelbekleding;<br>
+2° niet-asbesthoudende dak- en gevelbekleding als daarbij onderliggende asbesthoudende materialen beschadigd worden.<br>
+<br>
+§ 2. Het insluiten of bedekken van asbesthoudende materialen die weggenomen moeten worden om een asbestveilige toestand te verkrijgen, is alleen toegestaan als risicobeheersmaatregel of maatregel voor een veilig beheer.<br>
+<br>
+In afwijking van het eerste lid is het verboden asbesthoudende dak- en gevelbekleding in te sluiten of te bedekken met andere materialen.
 
 ### ART 33/2.
 
@@ -543,7 +622,7 @@ De Vlaamse Regering kan nadere regels vaststellen betreffende de inhoud en de af
 ### ART 33/5.
 
 Elke eigenaar van een publieke constructie met risicobouwjaar is verplicht zijn constructie met risicobouwjaar tegen 1 januari 2034 te ontdoen van de volgende asbesthoudende materialen:<br>
-1° alle eenvoudig bereikbare niet-hechtgebonden asbesthoudende materialen met uitzondering van asbesthoudend pleisterwerk op wanden dat een laag risico vormt als vermeld in artikel 33/6, derde lid;<br>
+1° alle eenvoudig bereikbare niet-hechtgebonden asbesthoudende materialen met uitzondering van asbesthoudend pleisterwerk dat een laag risico vormt;<br>
 2° alle dak- en gevelbekledingen, dakgoten, rookgaskanalen en hemelwaterafvoerkanalen bestaande uit asbestcement als ze zich aan de buitenzijde bevinden.<br>
 <br>
 Voor publieke constructies met risicobouwjaar waarvoor de eigenaar overeenkomstig artikel 33/9 over een asbestinventarisattest moet beschikken, bewijst dit attest of al dan niet aan de verplichting, vermeld in het eerste lid, is voldaan. Voor de andere constructies met risicobouwjaar kan de Vlaamse Regering bepalen hoe de naleving van deze verplichting kan worden aangetoond.<br>
@@ -558,15 +637,13 @@ Elke eigenaar van een publieke constructie met risicobouwjaar is verplicht om:<b
 1° tegen 1 januari 2040 zijn constructie met risicobouwjaar asbestveilig te maken;<br>
 2° de asbestveilige toestand na 1 januari 2040 te behouden.<br>
 <br>
-Een asbestveilige toestand is een toestand waarin bij normaal gebruik van de publieke constructie met risicobouwjaar geen blootstellingsrisico's kunnen ontstaan voor mens en milieu doordat men zich heeft ontdaan van alle eenvoudig bereikbare asbesthoudende materialen met niet-laag risico en de resterende asbesthoudende materialen veilig worden beheerd.<br>
-<br>
-Asbesthoudende materialen hebben een laag risico wanneer het op basis van hun aard, staat en voorkomen weinig waarschijnlijk is dat asbestvezels kunnen vrijkomen. Asbesthoudende materialen worden veilig beheerd als de materialen met laag risico deze status behouden en er voor de materialen met niet-laag risico maatregelen zijn getroffen om het risico op het vrijkomen van asbestvezels te verhinderen. In het inspectieprotocol, vermeld in artikel 33/10, § 3, kunnen nadere regels worden vastgesteld omtrent de risico-evaluatie en het veilig beheer van asbesthoudende materialen.<br>
+In het inspectieprotocol, vermeld in artikel 33/10, § 3, kunnen nadere regels worden vastgesteld omtrent de risico-evaluatie en het veilig beheer van asbesthoudende materialen.<br>
 <br>
 Voor publieke constructies met risicobouwjaar waarvoor de eigenaar overeenkomstig artikel 33/9 over een asbestinventarisattest moet beschikken, bewijst dit attest of al dan niet aan de verplichting, vermeld in het eerste lid, 1°, is voldaan. Voor de andere publieke constructies met risicobouwjaar kan de Vlaamse Regering bepalen hoe de naleving van deze verplichting kan worden aangetoond.
 
 ### ART 33/7.
 
-Met behoud van de toepassing van de artikelen 33/5 en 33/6 ontdoet de eigenaar van een constructie zich via de geëigende kanalen bij onderhouds-, herstellings- of ontmantelingswerken in constructies altijd van alle asbesthoudende materialen die door de werken eenvoudig bereikbaar geworden zijn.
+Met behoud van de toepassing van de artikelen 33/5 en 33/6 ontdoet de eigenaar van een constructie zich via de geëigende kanalen bij onderhouds-, herstellings- of ontmantelingswerken aan constructies altijd van alle asbesthoudende materialen die door de werken eenvoudig bereikbaar geworden zijn.
 
 ### ART 33/8.
 
@@ -578,7 +655,7 @@ De OVAM kan overgaan tot het uitvoeren van de ontmanteling, de inzameling, het t
 
 § 1. Met behoud van de toepassing van artikel 33/14 beschikt de eigenaar van een toegankelijke constructie met risicobouwjaar uiterlijk op 31 december 2031 over een asbestinventarisattest.<br>
 <br>
-Bij wooneenheden mag een asbestinventaris als vermeld in artikel 33/10, § 1, en een asbestinventarisattest maar betrekking hebben op één wooneenheid.<br>
+Als de toegankelijke constructie met risicobouwjaar onder het stelsel van gedwongen mede-eigendom, vermeld in artikel 3.84 van het Burgerlijk Wetboek, of onder de toepassing van artikel 3.78 tot en met 3.83 van het Burgerlijk Wetboek valt, wordt zowel voor de gemeenschappelijke delen als voor elk privédeel een afzonderlijk asbestinventarisattest uitgereikt.<br>
 <br>
 Als de toegankelijke constructie met risicobouwjaar onder het stelsel van gedwongen mede-eigendom, vermeld in artikel 577-3 van het Burgerlijk Wetboek, valt, of onder de toepassing van artikel 577-2 van het Burgerlijk Wetboek, beschikt de eigenaar over een afzonderlijk asbestinventarisattest voor zowel de gemeenschappelijke delen als voor het privédeel.&nbsp;Voor de toegankelijke constructies met risicobouwjaar die niet vallen onder het stelsel van gedwongen mede-eigendom, vermeld in artikel 577-3 van het Burgerlijk Wetboek, of onder de toepassing van artikel 577-2 van het Burgerlijk Wetboek, kan de Vlaamse Regering de regels bepalen voor de opmaak van een asbestinventaris voor de gemeenschappelijke delen.<br>
 <br>
@@ -592,14 +669,16 @@ Met het oog op de realisatie van de beleidsdoelstelling `Asbestveilig Vlaanderen
 <br>
 § 2. De asbestinventaris bevat minstens:<br>
 1° de identificatie van de toegankelijke constructie met risicobouwjaar;<br>
-2° een opsomming van de aangetroffen asbesthoudende of asbestverdachte materialen;<br>
+2° een opsomming van de aangetroffen asbesthoudende en asbestverdachte materialen;<br>
 3° een aanduiding van de geïnventariseerde asbesthoudende materialen waarvoor conform artikel 33/5 of 33/6 een verwijderingsplicht geldt;<br>
 4° een risico-evaluatie van de asbesthoudende materialen;<br>
 5° een advies over urgente maatregelen ter remediëring van de vastgestelde acute blootstellingsrisico's, als dat nodig is.<br>
 <br>
 § 3. Een asbestinventaris wordt opgemaakt door een asbestdeskundige inventarisatie als vermeld in artikel 33/16, conform een inspectieprotocol asbestinventarisatie.<br>
 <br>
-De Vlaamse Regering bepaalt hoe het inspectieprotocol asbestinventarisatie wordt vastgesteld. De Vlaamse Regering kan de verdere inhoud van het inspectieprotocol asbestinventarisatie bepalen. Het inspectieprotocol asbestinventarisatie kan bepalen welke constructies met risicobouwjaar bijkomend deel moeten uitmaken van de asbestinventaris, kan bepaalde constructies met risicobouwjaar of bepaalde materialen uitsluiten van de asbestinventaris en kan de modaliteiten bepalen voor het opmaken van een asbestinventaris per gebouw, gebouweenheid, wooneenheid en gemeenschappelijk deel.<br>
+Als de eigenaar op de hoogte is of behoort te zijn over de aanwezigheid van ingesloten of bedekte asbesthoudende materialen, meldt de eigenaar dat aan de asbestdeskundige inventarisatie bij de opmaak van de asbestinventaris. De eigenaar bezorgt de asbestdeskundige inventarisatie een verklaring op eer niet op de hoogte te zijn of behoort te zijn van ingesloten of bedekte asbesthoudende materialen die niet gemeld werden.<br>
+<br>
+De Vlaamse Regering bepaalt hoe het inspectieprotocol asbestinventarisatie wordt vastgesteld. De Vlaamse Regering kan de verdere inhoud van het inspectieprotocol asbestinventarisatie bepalen. Het inspectieprotocol asbestinventarisatie kan bepalen welke constructies met risicobouwjaar bijkomend deel moeten uitmaken van de asbestinventaris, kan bepaalde constructies met risicobouwjaar of bepaalde materialen uitsluiten van de asbestinventaris en kan de modaliteiten bepalen voor het opmaken van een asbestinventaris per gebouw, gebouweenheid, wooneenheid en gemeenschappelijk deel, kan regels vaststellen over de risico-evaluatie en het veilig beheer van asbesthoudende materialen en de modaliteiten voor het bezorgen van informatie over ingesloten of bedekte asbesthoudende materialen aan de asbestdeskundige inventarisatie.<br>
 <br>
 De eigenaar van een toegankelijke constructie met risicobouwjaar stelt zijn eigendom open en toegankelijk opdat de asbestdeskundige inventarisatie veilig een volledige asbestinventaris kan opmaken. Dit recht van toegang moet uitgeoefend worden op een redelijke en proportionele wijze. De Vlaamse Regering kan hiervoor nadere regels bepalen.<br>
 <br>
@@ -615,7 +694,7 @@ De persoonlijke contactgegevens en het rijksregisternummer/identificatienummer v
 <br>
 De OVAM geldt als verwerkingsverantwoordelijke, zoals vermeld in artikel 4, 7°, van de Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG.<br>
 <br>
-De Vlaamse Regering bepaalt welke persoonsgegevens onder de categorieën, vermeld in het eerste en het tweede lid, worden opgenomen in de databank. De Vlaamse Regering bepaalt welke actoren toegang krijgen tot de databank alsook de omvang en de modaliteiten van hun toegangsrechten.<br>
+De Vlaamse Regering bepaalt welke persoonsgegevens onder de categorieën, vermeld in het eerste en het tweede lid, worden opgenomen in de databank. De Vlaamse Regering bepaalt welke actoren toegang krijgen tot de databank alsook de omvang en de modaliteiten van hun toegangsrechten.&nbsp;De categorie van de betrokken personen zijn de eigenaars van de constructies met risicobouwjaar.<br>
 <br>
 De Vlaamse Regering kan nadere regels vaststellen omtrent het beheer en de verwerking van de gegevens en de persoonsgegevens die in de databank worden opgenomen.
 
@@ -654,6 +733,17 @@ Certificatie-instellingen voor de certificering van asbestdeskundigen inventaris
 De OVAM is van rechtswege gecertificeerd als asbestdeskundige inventarisatie.<br>
 <br>
 Voor de certificering van een asbestdeskundige inventarisatie als vermeld in het eerste en het tweede lid, en de erkenning van een certificatie-instelling als vermeld in het derde lid, kan een certificatiereglement opgesteld worden. De Vlaamse Regering kan bepalen hoe dit certificatiereglement wordt vastgesteld en kan de inhoud ervan bepalen.
+
+### ART 33/17.
+
+Een sectorraad Asbest wordt samengesteld als sectoraal adviesorgaan, op initiatief van de OVAM. Een natuurlijk persoon, aangewezen door de OVAM, treedt op als voorzitter.<br>
+<br>
+De sectorraad Asbest kan niet-bindend advies geven over:<br>
+1° beroepsprocedures bij de interne beroepscommissie van een certificatie-instelling Asbest;<br>
+2° vragen van certificatie-instellingen Asbest inzake klachten, schorsings- of opheffingsdossiers van certificaathouders;<br>
+3° de marktwerking inzake asbestinventarisatie.<br>
+<br>
+De Vlaamse Regering kan de modaliteiten van de werking en de samenstelling van de sectorraad Asbest verder uitwerken.
 
 ## HOOFDSTUK 4 Afbakening van de afvalfase
 
@@ -1007,7 +1097,16 @@ Bij gebrek aan voldoening van de heffing, de intresten, de administratieve geldb
 
 ### ART. 64.
 
-Tot zekerheid van de voldoening van de heffing, de intresten, de administratieve geldboete en de kosten heeft het Vlaamse Gewest een algemeen voorrecht op alle roerende goederen van de heffingsplichtige. Het kan een wettelijke hypotheek vestigen op alle goederen die daarvoor vatbaar zijn en die in het Vlaamse Gewest gelegen zijn, van de persoon op wiens naam de navordering of de ambtelijke aanslag is gevestigd.<br /><br />Het voorrecht, vermeld in het eerste lid, neemt rang in onmiddellijk na de voorrechten die vermeld zijn in artikel 19 en 20 van de Hypotheekwet.<br /><br />De rang van de wettelijke hypotheek wordt bepaald door de dagtekening van de inschrijving die genomen wordt.<br /><br />De hypotheek wordt ingeschreven op verzoek van de ambtenaren, vermeld in artikel 60.<br /><br />Artikel 19 van de Faillissementswet is niet van toepassing op de wettelijke hypotheek inzake de verschuldigde heffing waarvoor de inschrijving is genomen en waarvan betekening aan de heffingsschuldige is gedaan voor het vonnis van faillietverklaring.<br /><br />
+Tot zekerheid van de voldoening van de heffing, de intresten, de administratieve geldboete en de kosten heeft het Vlaamse Gewest een algemeen voorrecht op alle roerende goederen van de heffingsplichtige. Het kan een wettelijke hypotheek vestigen op alle goederen die daarvoor vatbaar zijn en die in het Vlaamse Gewest gelegen zijn, van de persoon op wiens naam de navordering of de ambtelijke aanslag is gevestigd.<br>
+<br>
+Het voorrecht, vermeld in het eerste lid, neemt rang in onmiddellijk na de voorrechten die vermeld zijn in artikel 19 en 20 van de Hypotheekwet.<br>
+<br>
+De rang van de wettelijke hypotheek wordt bepaald door de dagtekening van de inschrijving die genomen wordt.<br>
+<br>
+De hypotheek wordt ingeschreven op verzoek van de ambtenaren, vermeld in artikel 60.<br>
+<br>
+Artikel XX.113, tweede lid, van het Wetboek van Economisch Recht is niet van toepassing op de wettelijke hypotheek inzake de verschuldigde heffing waarvoor de inschrijving is genomen en waarvan betekening aan de heffingsschuldige is gedaan voor het vonnis van faillietverklaring.<br>
+&nbsp;
 
 ### ART. 65.
 
