@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037227,
+  "title": "Decreet van 2022-06-17 tot instemming met de overeenkomst betreffende het luchtvervoer tussen het Koninkrijk België en Burkina Faso, ondertekend te Brussel op 5 juni 2018",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037227/VolledigDocument?datum=2022-07-22",
+  "source_sha256": "a4b1fbbe2fdf81b68eb315dfc0d4fb39b02b6647669c1348feea85b33b4b7d1a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037227&param=informatie",
+  "as_of": "2022-07-22",
+  "made": "2022-06-17",
+  "gazette": "2022-07-12",
+  "numac": 2022015116,
+  "document_start": "2022-07-22",
+  "document_end": null,
+  "in_force": "2022-07-22",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-07-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
