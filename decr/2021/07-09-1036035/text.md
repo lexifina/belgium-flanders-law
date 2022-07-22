@@ -14,6 +14,10 @@ In artikel 42, § 1, van het decreet van 19 april 1995 houdende maatregelen ter 
 
 ## HOOFDSTUK 3. Wijziging van het decreet van 29 juni 2007 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2007
 
+### ART 3.
+
+...
+
 ## HOOFDSTUK 4. Wijzigingen van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009
 
 ### ART 4.
@@ -925,6 +929,14 @@ Aan artikel 4.89, tweede lid, van dezelfde codex wordt de volgende zin toegevoeg
 ### ART 133.
 
 In artikel 5.15, zevende lid, 2°, van dezelfde codex worden de woorden "sociale huisvestingsmaatschappij" vervangen door het woord "woonmaatschappij".
+
+### ART 134.
+
+...
+
+### ART 135.
+
+...
 
 ### ART 136.
 
