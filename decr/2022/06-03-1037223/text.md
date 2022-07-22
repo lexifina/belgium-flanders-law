@@ -18,6 +18,10 @@
 
 ## HOOFDSTUK 9. Wijzigingen van het decreet van 9 juli 2021 houdende wijziging van diverse decreten met betrekking tot wonen
 
+### ART 63.
+
+Artikel 3, en 48, 2°, en artikel 134 en 135 van het decreet van 9 juli 2021 houdende wijziging van diverse decreten met betrekking tot wonen worden opgeheven.
+
 ### ART 64.
 
 Aan artikel 205, § 7, eerste en tweede lid, van hetzelfde decreet wordt telkens de zinsnede ", met uitzondering van boek 6 van de voormelde codex" toegevoegd.
