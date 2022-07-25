@@ -3509,8 +3509,10 @@ minerale olie<br>
 polycyclische aromatische koolwaterstoffen (PAK) :<br>
 naftaleen, acenaftyleen, acenafteen, fluoreen, fenantreen, antraceen, fluoranteen, pyreen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(a)pyreen, indeno(1,2,3-cd)pyreen, dibenzo(a,h)antraceen, benzo(ghi)peryleen<br>
 pH (KCl)<br>
+<br>
 B.4 asbest in bodem<br>
 Dit pakket is geen uitbreidingspakket.<br>
+<br>
 B.5 waterbodem<br>
 droogrest<br>
 klei<br>
@@ -3531,6 +3533,7 @@ PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180<br>
 polycyclische aromatische koolwaterstoffen (PAK) :<br>
 naftaleen, acenaftyleen, acenafteen, fluoreen, fenantreen, antraceen, fluoranteen, pyreen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(a)pyreen, indeno(1,2,3-cd)pyreen, dibenzo(a,h)antraceen, benzo(ghi)peryleen<br>
 pH (KCl)<br>
+<br>
 B.6 gebruik van bodemmaterialen<br>
 Dit pakket is een uitbreiding van het volledige pakket B.1 of het volledige pakket B.5.<br>
 polychloorbifenylen (PCB) :<br>
@@ -3539,6 +3542,7 @@ stenen<br>
 bodemvreemde materialen<br>
 schudtest met bepaling in eluaat van :<br>
 arseen, cadmium, chroom, koper, kwik, lood, nikkel, zink, pH en geleidbaarheid<br>
+<br>
 B.7 storten van bodemmaterialen<br>
 Dit pakket is een uitbreiding van het volledige pakket B.1 of het volledige pakket B.5.<br>
 extraheerbare apolaire koolwaterstoffen met IR<br>
@@ -3549,6 +3553,41 @@ steekvastheid (afschuifspanning)<br>
 1-stapsschudproef (CMA/2/II/A12) met bepaling in eluaat van :<br>
 pH, arseen, barium, lood, cadmium, chroom totaal, chroom VI, koper, nikkel, kwik, zink,<br>
 molybdeen, antimoon, seleen, fluoride, cyanide, ammonium, nitriet, chloride, sulfaat, totaal opgeloste vaste stoffen (TDS), opgeloste organische koolstof (DOC), fenolindex<br>
+<br>
+B.8 PFAS in bodem of waterbodem<br>
+Dit pakket is een uitbreiding van het volledige pakket B.1 of het volledige pakket B.5.<br>
+perfluor-n-butaanzuur (PFBA);<br>
+perfluor-n-pentaanzuur (PFPeA);<br>
+perfluor-n-hexaanzuur (PFHxA);<br>
+perfluor-n-heptaanzuur (PFHpA);<br>
+perfluor-n-octaanzuur (PFOA);<br>
+perfluor-n-nonaanzuur (PFNA);<br>
+perfluor-n-decaanzuur (PFDA);<br>
+perfluor-n-undecaanzuur (PFUnDA);<br>
+perfluor-n-dodecaanzuur (PFDoDA);<br>
+perfluor-n-tridecaanzuur (PFTrDA);<br>
+perfluor-n-tetradecaanzuur (PFTeDA);<br>
+perfluor-n-hexadecaanzuur (PFHxDA);<br>
+perfluor-n-butaansulfonzuur (PFBS);<br>
+perfluor-n-pentaansulfonzuur (PFPeS);<br>
+perfluor-n-hexaansulfonzuur (PFHxS);<br>
+perfluor-n-heptaansulfonzuur (PFHpS);<br>
+perfluor-n-octaansulfonzuur (PFOS);<br>
+perfluor-n-nonaansulfonzuur (PFNS);<br>
+perfluor-1-decaansulfonzuur (PFDS);<br>
+perfluor-1-octaansulfonamide (PFOSA);<br>
+N-methylperfluoroctaansulfonamide (MePFOSA);<br>
+N-ethylperfluoroctaansulfonamide (EtPFOSA);<br>
+N-methylperfluoroctaansulfonamidoazijnzuur (MePFOSAA);<br>
+N-ethylperfluoroctaansulfonamidoazijnzuur (EtPFOSAA);<br>
+4:2 fluortelomeersulfonzuur (4:2 FTS);<br>
+6:2 fluortelomeersulfonzuur (6:2 FTS);<br>
+8:2 fluortelomeersulfonzuur (8:2 FTS);<br>
+8:2 fluortelomeerfosfaat diester (8:2 diPAP),<br>
+hexafluorpropyleenoxidedimeerzuur (HFPO-DA);<br>
+4,8-dioxa-3H-perfluornonaanzuur (ADONA);<br>
+perfluor-4-ethylcyclohexaansulfonzuur (PFECHS)<br>
+<br>
 G.1 grondwater<br>
 metalen (totaalconcentratie) :<br>
 arseen, cadmium, chroom, koper, kwik, lood, nikkel, zink<br>
@@ -3568,10 +3607,40 @@ polycyclische aromatische koolwaterstoffen (PAK) :<br>
 naftaleen, acenaftyleen, acenafteen, fluoreen, fenantreen, antraceen, fluoranteen, pyreen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(a)pyreen, indeno(1,2,3-cd)pyreen, dibenzo(a,h)antraceen, benzo(ghi)peryleen<br>
 organochloorpesticiden (OCP) :<br>
 aldrin, dieldrin, chloordaan (cis+trans), DDT, DDE, DDD, hexachloorcyclohexaan (, - en -isomeer), endosulfan (,  en sulfaat)<br>
-BL.1 omgevingslucht in het kader van bodemverontreiniging<br>
-VOC-VOCl :<br>
-benzeen, tolueen, ethylbenzeen, som xylenen, styreen, 1,2,3-trimethylbenzeen, 1,2,4-trimethylbenzeen, dichloormethaan, trichloormethaan, tetrachloormethaan, 1,1-dichloorethaan, 1,2-dichloorethaan, cis+trans-1,2-dichlooretheen, 1,1,1-trichloorethaan, 1,1,2-trichloorethaan, trichlooretheen, tetrachlooretheen<br>
-vinylchloride</p>
+<br>
+G.2 PFAS in grondwater<br>
+Dit pakket is een uitbreiding op het volledige pakket G.1.<br>
+perfluor-n-butaanzuur (PFBA);<br>
+perfluor-n-pentaanzuur (PFPeA);<br>
+perfluor-n-hexaanzuur (PFHxA);<br>
+perfluor-n-heptaanzuur (PFHpA);<br>
+perfluor-n-octaanzuur (PFOA);<br>
+perfluor-n-nonaanzuur (PFNA);<br>
+perfluor-n-decaanzuur (PFDA);<br>
+perfluor-n-undecaanzuur (PFUnDA);<br>
+perfluor-n-dodecaanzuur (PFDoDA);<br>
+perfluor-n-tetradecaanzuur (PFTeDA);<br>
+perfluor-n-hexadecaanzuur (PFHxDA);<br>
+perfluor-n-butaansulfonzuur (PFBS);<br>
+perfluor-n-pentaansulfonzuur (PFPeS);<br>
+perfluor-n-hexaansulfonzuur (PFHxS);<br>
+perfluor-n-heptaansulfonzuur (PFHpS);<br>
+perfluor-n-octaansulfonzuur (PFOS);<br>
+perfluor-n-nonaansulfonzuur (PFNS);<br>
+perfluor-1-decaansulfonzuur (PFDS);<br>
+perfluor-1-octaansulfonamide (PFOSA);<br>
+N-methylperfluoroctaansulfonamide (MeFOSA);<br>
+N-ethylperfluoroctaansulfonamide (EtFOSA);<br>
+N-methylperfluoroctaansulfonamidoazijnzuur (MePFOSAA);<br>
+N-ethylperfluoroctaansulfonamidoazijnzuur (EtPFOSAA);<br>
+4:2 fluortelomeersulfonzuur (4:2 FTS);<br>
+6:2 fluortelomeersulfonzuur (6:2 FTS);<br>
+8:2 fluortelomeersulfonzuur (8:2 FTS);<br>
+8:2 fluortelomeerfosfaat diester (8:2 diPAP);<br>
+hexafluorpropyleenoxidedimeerzuur (HFPO-DA);<br>
+4,8-dioxa-3H-perfluornonaanzuur (ADONA);<br>
+perfluor-4-ethylcyclohexaansulfonzuur (PFECHS)<br>
+&nbsp;</p>
 
 ## BIJLAGE 4 [Erkenning milieudeskundigen houders voor gassen of gevaarlijke stoffen - (deel)domeinen (verv. BVR 16 mei 2014, art. 625, I: 4 oktober 2014)]
 
