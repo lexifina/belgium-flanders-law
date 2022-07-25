@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK 1. Algemene bepaling
 
+### ART 1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid.
+
 ## HOOFDSTUK 2. Wijziging van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid
 
 ## HOOFDSTUK 3. Wijzigingen van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers
@@ -33,6 +37,55 @@ Aan artikel 30, § 3, van hetzelfde decreet wordt een vierde lid toegevoegd, dat
 
 ## HOOFDSTUK 6. Wijzigingen van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming
 
+### ART 26.
+
+In artikel 18, eerste lid, van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming worden de volgende wijzigingen aangebracht:<br>
+1° punt 1° wordt vervangen door wat volgt:<br>
+"1° door landsbonden van ziekenfondsen of alle ziekenfondsen met administratieve zetel in het Vlaamse Gewest of in het Brusselse Hoofdstedelijke Gewest of minstens vier ziekenfondsen met administratieve zetel in het Vlaamse Gewest of in het Brusselse Hoofdstedelijke Gewest die actief zijn in het gehele territorium van het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad via een van de volgende maatschappijen:<br>
+a) via een maatschappij van onderlinge bijstand die zich in voorkomend geval met toepassing van artikel 70, § 10, van de wet van 6 augustus 1990 betreffende de ziekenfondsen en de landsbonden van ziekenfondsen heeft omgevormd tot een regionale maatschappij van onderlinge bijstand;<br>
+b) via een maatschappij van onderlinge bijstand met toepassing van artikel 43bis, § 1, tweede lid, van de voormelde wet;";<br>
+2° er wordt een punt 1° /1 ingevoegd, dat luidt als volgt:<br>
+"1° /1 een landsbond of alle bij een landsbond aangesloten ziekenfondsen, via een regionale maatschappij van onderlinge bijstand met toepassing van artikel 43bis, § 1, tweede lid, van de wet van 6 augustus 1990 betreffende de ziekenfondsen en de landsbonden van ziekenfondsen;".
+
+### ART 27.
+
+In artikel 49, § 3/1, van hetzelfde decreet, ingevoegd bij het decreet van 18 juni 2021, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt tussen de zinsnede "38," en de woorden "de Adviescommissie Mobiliteitshulpmiddelen" de zinsnede "de administratieve beroepscommissie, vermeld in artikel 76, § 5, artikel 80, § 5, artikel 88, § 3, en artikel 92, § 5," ingevoegd;<br>
+2° het tweede lid wordt vervangen door wat volgt:<br>
+"Het agentschap verwerkt de volgende persoonsgegevens conform het eerste lid:<br>
+1° identificatiegegevens;<br>
+2° contactgegevens;<br>
+3° het rekeningnummer.";<br>
+3° er wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+"De Vlaamse Regering bepaalt per commissie, vermeld in het eerste lid, welke persoonsgegevens van de leden, vermeld in het tweede lid, worden verwerkt en kan die gegevens nader specificeren.".
+
+### ART 29.
+
+In artikel 53/1 van hetzelfde decreet, ingevoegd bij het decreet van 18 juni 2021, wordt het tweede lid vervangen door wat volgt:<br>
+<br>
+"In de gevallen die de Vlaamse Regering bepaalt, gebruikt het agentschap het rijksregisternummer van de volgende personen:<br>
+1° de medewerkers die ingezet worden in de zorgvoorzieningen;<br>
+2° de zelfstandigen die zorg verlenen in de zorgvoorzieningen;<br>
+3° de leden van de Zorgkassencommissie;<br>
+4° de leden van de Expertencommissie;<br>
+5° de leden van de Bijzondere Technische Commissie, vermeld in artikel 133;<br>
+6° de leden van de administratieve beroepscommissie, vermeld in artikel 76, § 5, artikel 80, § 5, artikel 88, § 3, en artikel 92, § 5;<br>
+7° de leden van de Adviescommissie Mobiliteitshulpmiddelen, vermeld in artikel 132.".
+
+### ART 30.
+
+In artikel 87, § 4, van hetzelfde decreet wordt het eerste lid vervangen door wat volgt:<br>
+<br>
+"Het recht op een tegemoetkoming wordt geopend op de datum van de aanvraag.".
+
 ## HOOFDSTUK 7. Wijzigingen van het Woonzorgdecreet van 15 februari 2019
 
 ## HOOFDSTUK 8. Inwerkingtredingsbepalingen
+
+### ART 38.
+
+Artikel 2, artikel 3, 2° en 3°, artikel 6 tot en met 25 en artikel 28 treden in werking op een datum die de Vlaamse Regering bepaalt.<br>
+<br>
+Artikel 3, 1°, en artikel 4 en 5 treden in werking op 1 april 2022.<br>
+<br>
+Artikel 31 tot en met 37 treden in werking op 1 januari 2023.

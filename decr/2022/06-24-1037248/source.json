@@ -2,16 +2,16 @@
   "codex_id": 1037248,
   "title": "Decreet van 2022-06-24 houdende diverse bepalingen over de beleidsvelden Vlaamse sociale bescherming, gezondheidspreventie, algemene ziekenhuizen en gezondheids- en woonzorg",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037248/VolledigDocument?datum=2022-04-01",
-  "source_sha256": "571f5fe7fba4d64ac7242dfc16fed9619da09e09eb7468b40477da522a4b7393",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037248/VolledigDocument?datum=2022-07-25",
+  "source_sha256": "9e6654ec0ca496f8afea2bc8ad7d5e4404c655fc5d111387afe4bebfb9fcfd24",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037248&param=informatie",
-  "as_of": "2022-04-01",
+  "as_of": "2022-07-25",
   "made": "2022-06-24",
   "gazette": "2022-07-15",
   "numac": 2022015232,
   "document_start": "2022-07-25",
   "document_end": null,
-  "in_force": "2022-04-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2022-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-07-25",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2022-07-25; future article versions excluded; article text as the API gives it"
 }
