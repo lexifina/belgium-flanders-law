@@ -6,7 +6,7 @@
 
 ### ART. 2.
 
-Een exploitant verstrekt gegevens voor een warmtekrachtinstallatie met een totaal nominaal vermogen hoger dan 50 kW, voor een hernieuwbare energie-installatie met een totaal nominaal vermogen hoger dan 50 kW en waarbij warmte wordt geproduceerd of voor een zelfopwekkingsinstallatie met een nominaal elektrisch vermogen hoger dan 1000 kW.
+Een exploitant verstrekt gegevens voor een warmtekrachtinstallatie met een totaal nominaal elektrisch vermogen hoger dan 50 kW, voor een hernieuwbare energie-installatie met een totaal nominaal elektrisch of thermisch vermogen hoger dan 25 kW en die geen warmtekrachtinstallatie is of voor een zelfopwekkingsinstallatie met een nominaal elektrisch vermogen hoger dan 1000 kW.
 
 ### ART. 3.
 
@@ -41,9 +41,10 @@ De afnamehoeveelheden, opgegeven door de beheerders van een elektriciteitsdistri
 2° de afnamegegevens in het ontwerp REG-actieplan dat ze in hetzelfde kalenderjaar aan het VEKA bezorgen op grond van artikel 6.4.15 van het Energiebesluit van 19 november 2010.<br>
 <br>
 De gegevens die de exploitant van een warmtekrachtinstallatie of hernieuwbare energie-installatie ter beschikking stelt, zijn gelijk aan de overeenkomstige gegevens die de exploitant desgevallend bezorgt aan :<br>
-1° de Vlaamse Regulator van de Elektriciteits- en Gasmarkt in het aanvraagdossier voor warmtekrachtcertificaten of groenestroomcertificaten op grond van artikel 6.1.2 en 6.2.2 van het Energiebesluit van 19 november 2010<br>
-2° het Verificatiebureau Benchmarking of het Verificatiebureau Auditconvenant in het kader van een energiebeleidsovereenkomst of op grond van het besluit van de Vlaamse Regering van 4 februari 2005 inzake de verhandelbare emissierechten voor broeikasgassen;<br>
-3° het departement Leefmilieu, Natuur en Energie in het integraal milieujaarverslag, vermeld in het besluit van de Vlaamse Regering van 2 april 2004 tot invoering van het integrale milieujaarverslag.
+1° het VEKA in het expertisedossier voor groenestroomcertificaten of warmtekrachtcertificaten op grond van artikel 6.1.2 of 6.2.2. van het Energiebesluit van 19 november 2010;<br>
+1° /1 de beheerder van het net waarop de installatie is aangesloten of de beheerder van het net dat gekoppeld is aan het gesloten distributienet of gesloten industrieel net waarop de installatie is aangesloten in het standaarddossier op grond van artikel 6.1.2., § 4, van het Energiebesluit van 19 november 2010;<br>
+2° het verificatiebureau in het kader van een energiebeleidsovereenkomst of op grond van het besluit van de Vlaamse Regering van 7 december 2007 inzake verhandelbare emissierechten voor broeikasgassen;<br>
+3° het departement Omgeving in het integraal milieujaarverslag, vermeld in het besluit van de Vlaamse Regering van 2 april 2004 tot invoering van het integrale milieujaarverslag.
 
 ### BIJLAGE I.
 
