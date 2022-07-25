@@ -2,16 +2,16 @@
   "codex_id": 1037246,
   "title": "Decreet van 2022-06-03 tot wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat betreft de gedeeltelijke omzetting van richtlijn (EU) 2019/882 van het Europees Parlement en de Raad van 17 april 2019 betreffende de toegankelijkheidsvoorschriften voor producten en diensten, en tot wijziging van het decreet van 12 februari 2021 houdende wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie met betrekking tot de landelijke en regionale radio-omroeporganisaties en de technische eindapparatuur voor FM-radio-ontvangst van radio-omroeporganisaties",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037246/VolledigDocument?datum=2021-05-09",
-  "source_sha256": "02c34a704bb79a43fe27d213ae195ae3642aae8bac2108e1230195defae807eb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037246/VolledigDocument?datum=2022-07-25",
+  "source_sha256": "da4631ec289acffc735ff2596dbe14066fb31ecaa2ffd3d52a6ea92adf624ca1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037246&param=informatie",
-  "as_of": "2021-05-09",
+  "as_of": "2022-07-25",
   "made": "2022-06-03",
   "gazette": "2022-07-15",
   "numac": 2022015111,
   "document_start": "2022-07-25",
   "document_end": null,
-  "in_force": "2021-05-09",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2021-05-09; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-07-25",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2022-07-25; future article versions excluded; article text as the API gives it"
 }
