@@ -61,4 +61,4 @@ Artikel 16 en 18 treden in werking op datum van publicatie van dit decreet.
 
 ### ART 23.
 
-Artikel 2, 3, 4, 5, 6, 8, 9, 11, 12, 13, 14, 15, 17, 19 en 20 treden in werking op 1 januari 2023.
+Artikel 3, 4, 5, 6, 8, 9, 11, 12, 13, 14, 15, 17, 19 en 20 treden in werking op 1 januari 2023.

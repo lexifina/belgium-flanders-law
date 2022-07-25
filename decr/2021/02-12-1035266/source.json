@@ -2,16 +2,16 @@
   "codex_id": 1035266,
   "title": "Decreet van 2021-02-12 houdende wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie met betrekking tot de landelijke en regionale radio-omroeporganisaties en de technische eindapparatuur voor FM-radio-ontvangst van radio-omroeporganisaties",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035266/VolledigDocument?datum=2021-03-14",
-  "source_sha256": "f25a4a771ff00bf5ad72adbb52432e7ddaa2a4cc749933879f2891293b82df69",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035266/VolledigDocument?datum=2022-07-25",
+  "source_sha256": "eb860b5dab0493f95c443cacf1963d110f0daeb7bd324c9ba2cd3f3d7e8cf2c5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035266&param=informatie",
-  "as_of": "2021-03-14",
+  "as_of": "2022-07-25",
   "made": "2021-02-12",
   "gazette": "2021-03-04",
   "numac": 2021030406,
   "document_start": "2021-03-14",
   "document_end": null,
-  "in_force": "2021-03-14",
+  "in_force": "2022-07-25",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2021-03-14; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-07-25; future article versions excluded; article text as the API gives it"
 }
