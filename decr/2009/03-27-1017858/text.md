@@ -7,7 +7,9 @@
 Dit decreet regelt een gemeenschaps- en gewestaangelegenheid. Het zet onder meer de bepalingen om van de Richtlijnen :<br>
 1° Richtlijn 2002/58/EG betreffende de verwerking van persoonsgegevens en de bescherming van de persoonlijke levenssfeer in de sector elektronische communicatie;<br>
 2° ...;<br>
-3° Richtlijn 2010/13/EU van het Europees Parlement en de Raad van 10 maart 2010 betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn audiovisuele mediadiensten).
+3° Richtlijn 2010/13/EU van het Europees Parlement en de Raad van 10 maart 2010 betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn audiovisuele mediadiensten);<br>
+4° richtlijn (EU) 2018/1972 van het Europees Parlement en de Raad van 11 december 2018 tot vaststelling van het Europees wetboek voor elektronische communicatie;<br>
+5° richtlijn (EU) 2019/882 van het Europees Parlement en de Raad van 17 april 2019 betreffende de toegankelijkheidsvoorschriften voor producten en diensten
 
 ### ART. 2.
 
@@ -849,7 +851,9 @@ Productplaatsing is verboden in:<br>
 1° journaals en politieke informatieprogramma's;<br>
 2° consumentenprogramma's;<br>
 3° religieuze programma's;<br>
-4° kinderprogramma's.
+4° kinderprogramma's.<br>
+<br>
+Goederen en diensten gratis ter beschikking stellen wordt alleen als productplaatsing gekwalificeerd als het gaat om goederen of diensten van grote waarde. De Vlaamse Regering bepaalt nadere criteria met betrekking tot de kwalificatie van goederen en diensten van grote waarde.
 
 ### ART. 100.
 
@@ -1062,7 +1066,7 @@ Als de datum van de afschaffing van de FM-uitzendingen die de Vlaamse Regering b
 <br>
 § 5. De Vlaamse Regering kan in afwijking van paragraaf 3 en 4 beslissen om vrijgekomen FM-frequenties te herverdelen onder bestaande erkenningen om de ontvangst van die erkenningen te optimaliseren, zolang de beslissing tot afschaffing van FM-uitzendingen conform artikel 133, § 1, zesde lid, niet genomen is. Als de datum van de afschaffing van FM-uitzendingen bepaald is, kan de Vlaamse Regering beslissen de frequenties niet te herverdelen of niet opnieuw uit te reiken. De Vlaamse Regering bepaalt de nadere voorwaarden en modaliteiten.<br>
 <br>
-§ 6. Als de landelijke, netwerk- of lokale radio-omroeporganisatie één jaar na de ingangsdatum van de erkenning nog niet uitzendt via minstens de helft van de toegekende frequenties, kan de Vlaamse Regulator voor de Media de erkenning ambtshalve intrekken.
+§ 6. Als de landelijke, netwerk- of lokale radio-omroeporganisatie één jaar na de datum van de ingang van de erkenning nog niet uitzendt, kan de Vlaamse Regulator voor de Media de erkenning opheffen.
 
 ### ART 134/1.
 
@@ -1110,7 +1114,11 @@ De aanvullende kwalificatiecriteria, vermeld in het eerste lid, hebben ten minst
 
 ### ART. 139.
 
-§ 1. De landelijke radio-omroeporganisaties houden zich, nadat ze een erkenning hebben gekregen en voor de volledige duur van de erkenning, aan de door hen ingediende offerte, aan de basisvoorwaarden en aan de aanvullende kwalificatiecriteria, vermeld in artikel 138, in overeenstemming waarmee de Vlaamse Regering de erkenning heeft uitgereikt.<br /><br />§ 2. De landelijke radio-omroeporganisaties die, nadat ze de erkenning hebben verkregen, wijzigingen willen aanbrengen in de gegevens, vermeld in de door hen ingediende offerte, waardoor wordt afgeweken van de basisvoorwaarden en van de aanvullende kwalificatiecriteria, vermeld in artikel 138, in het bijzonder wat de algemene programmering betreft, brengen de Vlaamse Regulator voor de Media daarvan op de hoogte. Die kennisgeving wordt conform artikel 219 gedaan.<br /><br />Wijzigingen die betrekking hebben op de informatieve programma's, de statuten of de aandeelhoudersstructuur, worden aan de Vlaamse Regering ter goedkeuring voorgelegd. Bij de beoordeling van de wijzigingen houdt de Vlaamse Regering inzonderheid rekening met het in stand houden van het pluralisme en van de diversiteit in het radiolandschap.
+De landelijke radio-omroeporganisaties houden zich, nadat ze een erkenning hebben gekregen, voor de volledige duur van de erkenning aan de basisvoorwaarden, vermeld in artikel 137 en 138, in overeenstemming waarmee de Vlaamse Regering de erkenning heeft uitgereikt.<br>
+<br>
+De landelijke radio-omroeporganisaties die, nadat ze de erkenning hebben verkregen, wijzigingen willen aanbrengen in de gegevens die zijn vermeld in de offerte die ze hebben ingediend, waardoor wordt afgeweken van het aanvullende kwalificatiecriterium, vermeld in artikel 138, § 2, tweede lid, 1°, over het zendschema en van de aanvullende kwalificatiecriteria, vermeld in artikel 138, § 2, tweede lid, 3°, 4° en 5°, brengen de Vlaamse Regulator voor de Media daarvan op de hoogte. De kennisgeving wordt conform artikel 219 gedaan.<br>
+<br>
+In afwijking van het eerste en het tweede lid wordt de Vlaamse Regulator voor de Media op de hoogte gebracht van de wijzigingen die betrekking hebben op de statuten of op de aandeelhoudersstructuur en worden die aan de Vlaamse Regering ter goedkeuring voorgelegd. Bij de beoordeling van de wijzigingen houdt de Vlaamse Regering rekening met het in stand houden van het pluralisme en de diversiteit in het radiolandschap.
 
 ### ART. 140.
 
@@ -1503,7 +1511,13 @@ Met behoud van de toepassing van lid 1, 5°, kan een regionale televisieomroepor
 
 ### ART. 170.
 
-§ 1. De duur van de erkenning als regionale televisieomroeporganisatie bedraagt negen jaar. De erkenning kan worden verlengd met perioden van negen jaar op verzoek van de aanvrager. Dat verzoek wordt conform artikel 219 uiterlijk zes maanden voor het verstrijken van de lopende erkenningstermijn ingediend.<br /><br />De Vlaamse Regering moet, als ze de erkenning niet wil verlengen, uiterlijk een jaar voor het verstrijken van de erkenningstermijn de regionale televisieomroeporganisatie daarvan op de hoogte brengen met een aangetekende brief, die gericht is aan de voorzitter van de raad van bestuur op het adres van de maatschappelijke zetel.<br /><br />§ 2. De Vlaamse Regulator voor de Media kan op ieder ogenblik de erkenning als regionale televisieomroeporganisatie schorsen of intrekken, als de bepalingen van deze afdeling of de uitvoeringsbepalingen ervan niet worden nageleefd.<br /><br />§ 3. De Vlaamse Regering kan, als de regionale televisieomroeporganisatie daarom verzoekt, de behandeling van de opschorting of intrekking van de erkenning maximaal drie maanden schorsen om de omroeporganisatie in kwestie de kans te geven aan alle voorschriften te voldoen. Na verloop van die periode wordt de behandeling van het dossier hervat als de grond daartoe nog voorhanden is.
+§ 1. De duur van de erkenning als regionale televisieomroeporganisatie bedraagt negen jaar. De erkenning kan worden verlengd met perioden van negen jaar op verzoek van de aanvrager. Dat verzoek wordt conform artikel 219 uiterlijk zes maanden voor het verstrijken van de lopende erkenningstermijn ingediend.<br>
+<br>
+De Vlaamse Regering moet, als ze de erkenning niet wil verlengen, uiterlijk een jaar voor het verstrijken van de erkenningstermijn de regionale televisieomroeporganisatie daarvan op de hoogte brengen met een aangetekende brief, die gericht is aan de voorzitter van de raad van bestuur op het adres van de maatschappelijke zetel.<br>
+<br>
+§ 2. De Vlaamse Regulator voor de Media kan op ieder ogenblik de erkenning als regionale televisieomroeporganisatie schorsen of opheffen, als de bepalingen van deze afdeling of de uitvoeringsbepalingen ervan niet worden nageleefd.<br>
+<br>
+§ 3. De Vlaamse Regering kan, als de regionale televisieomroeporganisatie daarom verzoekt, de behandeling van de opschorting of opheffing van de erkenning maximaal drie maanden schorsen om de omroeporganisatie in kwestie de kans te geven aan alle voorschriften te voldoen. Na verloop van die periode wordt de behandeling van het dossier hervat als de grond daartoe nog voorhanden is.
 
 ### ART. 171.
 
@@ -1560,7 +1574,7 @@ De kennisgeving gebeurt conform artikel 219 en bevat minstens de volgende inform
 <br>
 De Vlaamse Regering bepaalt de nader te verstrekken gegevens die de kennisgeving moet bevatten, en ook de latere wijzigingen in die gegevens die aan de Vlaamse Regulator voor de Media moeten worden meegedeeld.<br>
 <br>
-Aanbieders die op de datum van inwerkingtreding van dit decreet reeds videoplatformdiensten aanbieden, doen de kennisgeving, vermeld in het tweede lid, uiterlijk zes maanden nadat de Vlaamse Regering de nader te verstrekken gegevens en de latere wijzigingen in die gegevens die aan de Vlaamse Regulator voor de Media moeten worden meegedeeld, heeft bepaald.<br>
+Aanbieders die op 9 mei 2021 reeds videoplatformdiensten aanbieden, doen de kennisgeving, vermeld in het tweede lid, uiterlijk zes maanden nadat de Vlaamse Regering de nader te verstrekken gegevens en de latere wijzigingen in die gegevens die aan de Vlaamse Regulator voor de Media moeten worden meegedeeld, heeft bepaald.<br>
 <br>
 Als aanbieders van videoplatformdiensten hun aanbod uitbreiden met een nieuw soort dienst, brengen ze de Vlaamse Regulator voor de Media daarvan op de hoogte met een afzonderlijke kennisgeving.<br>
 <br>
@@ -2259,9 +2273,9 @@ De zendvergunning is persoonlijk en mag aan een derde pas worden overgedragen na
 <br>
 § 2. Met behoud van de toepassing van de bepalingen van paragraaf 4 mag de Vlaamse Regulator voor de Media uitsluitend een zendvergunning toekennen aan lineaire omroeporganisaties en aan etheromroepnetwerken. De Vlaamse Regulator voor de Media kan ook naar aanleiding van evenementen en voor experimenten in het teken van het uittesten van nieuwe technologieën een tijdelijke vergunning uitreiken voor de duur van het evenement.<br>
 <br>
-§ 3. De Vlaamse Regering bepaalt de voorwaarden en de procedure voor het aanvragen, het wijzigen, het schorsen, of het intrekken van de zendvergunningen.<br>
+§ 3. De Vlaamse Regering bepaalt de voorwaarden en de procedure voor het aanvragen, het wijzigen, het schorsen, of het opheffen van de zendvergunningen.<br>
 <br>
-De zendvergunning geldt voor de duur van de erkenning van de landelijke, regionale, netwerk- of lokale radio-omroeporganisatie of van het etheromroepnetwerk. Het opschorten of intrekken van die erkenning heeft het opschorten of het intrekken van de zendvergunning tot gevolg.<br>
+De zendvergunning geldt voor de duur van de erkenning van de landelijke, regionale, netwerk- of lokale radio-omroeporganisatie of van het etheromroepnetwerk. Het opschorten of opheffen van die erkenning heeft het opschorten of het opheffen van de zendvergunning tot gevolg.<br>
 <br>
 § 4. De vergunningen, vermeld in paragraaf 1, zijn niet vereist voor de openbare omroeporganisatie van de Vlaamse Gemeenschap. De Vlaamse Regering stelt die omroep de frequenties ter beschikking die hij nodig heeft.
 
@@ -2400,9 +2414,9 @@ De Vlaamse Regulator voor de Media biedt richtsnoeren en stelt de procedures inz
 
 § 1. Niemand mag een etheromroepnetwerk aanbieden zonder schriftelijke licentie van de Vlaamse Regulator voor de Media. Die licentie is persoonlijk en mag pas aan een derde worden overgedragen na het schriftelijke akkoord van de Vlaamse Regulator voor de Media.<br>
 <br>
-De Vlaamse Regering bepaalt de duur van de licenties, vermeld in het eerste lid, de voorwaarden waaronder die kunnen worden verkregen, en de modaliteiten en de procedure voor het aanvragen, het wijzigen, het schorsen of het intrekken ervan.&nbsp;De licenties, vermeld in het eerste lid, worden toegekend op basis van objectieve, transparante, concurrentiebevorderende, niet-discriminerende en proportionele criteria.<br>
+De Vlaamse Regering bepaalt de duur van de licenties, vermeld in het eerste lid, de voorwaarden waaronder die kunnen worden verkregen, en de modaliteiten en de procedure voor het aanvragen, het wijzigen, het schorsen of het opheffen ervan.&nbsp;De licenties, vermeld in het eerste lid, worden toegekend op basis van objectieve, transparante, concurrentiebevorderende, niet-discriminerende en proportionele criteria.<br>
 <br>
-De Vlaamse Regering maakt wijzigingen in de duur van de licenties, in de voorwaarden waaronder die kunnen worden verkregen, in de modaliteiten en de procedure voor het aanvragen, het wijzigen, het schorsen of het intrekken ervan, en in het digitale frequentieplan, vermeld in paragraaf 2, op een passende wijze bekend. Belanghebbenden, met inbegrip van gebruikers en consumenten, kunnen voorafgaand aan de beslissing over de voormelde wijziging, hun standpunt over de wijzigingen bekendmaken gedurende een raadplegingsprocedure die minimaal vier weken duurt en die wordt georganiseerd op de wijze en door de bevoegde dienst die de Vlaamse Regering aanwijst.<br>
+De Vlaamse Regering maakt wijzigingen in de duur van de licenties, in de voorwaarden waaronder die kunnen worden verkregen, in de modaliteiten en de procedure voor het aanvragen, het wijzigen, het schorsen of het opheffen ervan, en in het digitale frequentieplan, vermeld in paragraaf 2, op een passende wijze bekend. Belanghebbenden, met inbegrip van gebruikers en consumenten, kunnen voorafgaand aan de beslissing over de voormelde wijziging, hun standpunt over de wijzigingen bekendmaken gedurende een raadplegingsprocedure die minimaal vier weken duurt en die wordt georganiseerd op de wijze en door de bevoegde dienst die de Vlaamse Regering aanwijst.<br>
 <br>
 § 2. De Vlaamse Regering stelt een digitaal frequentieplan op en keurt het goed. Ze bepaalt het aantal frequentieblokken en frequentiekanalen, met inbegrip van de bijbehorende technische voorwaarden, die geheel of gedeeltelijk zullen worden toegekend aan aanbieders van etheromroepnetwerken.<br>
 <br>
@@ -2553,7 +2567,7 @@ De Vlaamse Regering gaat over tot vervanging van een lid van een kamer als dat l
 4° ontslagen is van ambtswege met toepassing van § 5, tweede lid;<br>
 5° afgezet is met toepassing van artikel 217.<br>
 <br>
-Het in het tweede lid van dit artikel bedoelde besluit wordt naar behoren gemotiveerd, wordt vooraf ter kennis gebracht en is beschikbaar voor het publiek.<br>
+Het in het tweede lid bedoelde besluit wordt naar behoren gemotiveerd, wordt vooraf ter kennis gebracht en is beschikbaar voor het publiek.<br>
 <br>
 De voorzitter en de ondervoorzitter van beide kamers worden aangesteld bij besluit van de Vlaamse Regering.<br>
 <br>
@@ -2575,9 +2589,9 @@ De voorzitter van een kamer stelt het ontslag van ambtswege van een lid vast, na
 <br>
 § 2. De algemene kamer heeft de volgende taken :<br>
 1° met behoud van de toepassing van paragraaf 3 en van artikelen 13 en 30, het toezicht op de naleving van en de beteugeling van de inbreuken op de bepalingen van dit decreet en zijn uitvoeringsbesluiten, met inbegrip van het toezicht op de naleving door de openbare omroeporganisatie en de beteugeling van de inbreuken door de openbare omroeporganisatie;<br>
-2° het uitreiken, wijzigen, schorsen en intrekken van zendvergunningen;<br>
-3° het toekennen, schorsen of intrekken van de vergunning voor het aanbieden van een etheromroepnetwerk;<br>
-4° het geven en intrekken van de toestemming aan dienstenverdelers om omroepprogramma's door te geven;<br>
+2° het uitreiken, wijzigen, schorsen en opheffen van zendvergunningen;<br>
+3° het toekennen, schorsen of opheffen van de vergunning voor het aanbieden van een etheromroepnetwerk;<br>
+4° het geven en opheffen van de toestemming aan dienstenverdelers om omroepprogramma's door te geven;<br>
 5° het ontvangen van de verschillende soorten kennisgevingen die gericht zijn aan de Vlaamse Regulator voor de Media, vermeld in dit decreet;<br>
 6° het bepalen van de relevante markten en de geografische omvang ervan voor producten en diensten in de sector van de elektronische communicatienetwerken, en het analyseren van die markten om te bepalen of ze daadwerkelijk concurrerend zijn;<br>
 7° het identificeren van ondernemingen met aanmerkelijke marktmacht op de krachtens punt 6° geanalyseerde markten, en het opleggen, indien nodig, van een of meer van de verplichtingen, vermeld in artikel 191;<br>
@@ -2755,11 +2769,11 @@ Als de algemene kamer, binnen de grenzen van haar bevoegdheden, vermeld in artik
 2° het bevel de uitspraak uit te zenden op het tijdstip en op de wijze die bevolen zijn door de algemene kamer, op kosten van de overtreder. Als de uitspraak niet wordt uitgezonden op het tijdstip en de wijze zoals die bevolen zijn, kan een adminis-tratieve geldboete als vermeld in punt 4°, worden opgelegd;<br>
 3° de verplichte publicatie van de beslissing in dag- en/of weekbladen, op kosten van de overtreder. Als de uitspraak niet wordt gepubliceerd op de wijze zoals die bevolen is, kan een administratieve geldboete als vermeld in punt 4°, worden opgelegd;<br>
 4° een administratieve geldboete tot 125.000 euro;<br>
-5° de schorsing of intrekking van de zendvergunning;<br>
-6° de schorsing of intrekking van de erkenning van de omroeporganisatie;<br>
+5° de schorsing of opheffing van de zendvergunning;<br>
+6° de schorsing of opheffing van de erkenning van de omroeporganisatie;<br>
 7° de doorgifteschorsing, vermeld in artikel 40/1.<br>
 <br>
-In geval van het ongebruikt laten van de toegewezen zendmogelijkheden of het verkeerd gebruiken ervan, kan de algemene kamer de erkenning van een landelijke, regionale, netwerk- of lokale radio-omroeporganisatie of de vergunning voor een etheromroepnetwerk schorsen of intrekken.
+In geval van het ongebruikt laten van de toegewezen zendmogelijkheden of het verkeerd gebruiken ervan, kan de algemene kamer de erkenning van een landelijke, regionale, netwerk- of lokale radio-omroeporganisatie of de vergunning voor een etheromroepnetwerk schorsen of opheffen.
 
 ### ART. 229.
 
