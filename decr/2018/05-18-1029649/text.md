@@ -286,7 +286,10 @@ Het raadgevend comité stelt een huishoudelijk reglement op en legt het ter goed
 ### ART 18.
 
 Om erkend te worden moet een zorgkas door de volgende instanties zijn opgericht:<br>
-1° landsbonden van ziekenfondsen of alle ziekenfondsen met administratieve zetel in het Vlaamse Gewest of in het Brusselse Hoofdstedelijke Gewest of minstens vier ziekenfondsen met administratieve zetel in het Vlaamse Gewest of in het Brusselse Hoofdstedelijke Gewest, via een maatschappij van onderlinge bijstand, onderworpen aan de wet van 6 augustus 1990 betreffende de ziekenfondsen en de landsbonden van ziekenfondsen, die actief zijn in het gehele territorium van het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad;<br>
+1° door landsbonden van ziekenfondsen of alle ziekenfondsen met administratieve zetel in het Vlaamse Gewest of in het Brusselse Hoofdstedelijke Gewest of minstens vier ziekenfondsen met administratieve zetel in het Vlaamse Gewest of in het Brusselse Hoofdstedelijke Gewest die actief zijn in het gehele territorium van het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad via een van de volgende maatschappijen:<br>
+a) via een maatschappij van onderlinge bijstand die zich in voorkomend geval met toepassing van artikel 70, § 10, van de wet van 6 augustus 1990 betreffende de ziekenfondsen en de landsbonden van ziekenfondsen heeft omgevormd tot een regionale maatschappij van onderlinge bijstand;<br>
+b) via een maatschappij van onderlinge bijstand met toepassing van artikel 43bis, § 1, tweede lid, van de voormelde wet;<br>
+1° /1 een landsbond of alle bij een landsbond aangesloten ziekenfondsen, via een regionale maatschappij van onderlinge bijstand met toepassing van artikel 43bis, § 1, tweede lid, van de wet van 6 augustus 1990 betreffende de ziekenfondsen en de landsbonden van ziekenfondsen<br>
 2° de Kas der Geneeskundige Verzorging, vermeld in artikel 6 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;<br>
 3° verzekeringsondernemingen die vallen onder de toepassing van de wet van 13 maart 2016 op het statuut van en het toezicht op de verzekerings- of herverzekeringsondernemingen, en die actief zijn in het hele territorium van het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad.<br>
 <br>
@@ -749,9 +752,14 @@ De Vlaamse Regering specificeert in elk geval de gegevens waarop artikel 22, twe
 <br>
 De Vlaamse Regering kan nadere regels bepalen voor de vorm waarin en de wijze waarop de persoonsgegevens, met inbegrip van de gegevens over de gezondheid, worden uitgewisseld.<br>
 <br>
-§ 3/1. Om de bevoegdheden en taken die bij of krachtens dit decreet worden bepaald, uit te voeren, worden persoonsgegevens van leden van de Zorgkassencommissie, de Expertencommissie, de sectorale adviescommissies, vermeld in artikel 38, de Adviescommissie Mobiliteitshulpmiddelen, vermeld in artikel 132, en de Bijzondere Technische Commissie, vermeld in artikel 133, verwerkt door het agentschap.<br>
+§ 3/1. Om de bevoegdheden en taken die bij of krachtens dit decreet worden bepaald, uit te voeren, worden persoonsgegevens van leden van de Zorgkassencommissie, de Expertencommissie, de sectorale adviescommissies, vermeld in artikel 38, de administratieve beroepscommissie, vermeld in artikel 76, § 5, artikel 80, § 5, artikel 88, § 3, en artikel 92, § 5, de Adviescommissie Mobiliteitshulpmiddelen, vermeld in artikel 132, en de Bijzondere Technische Commissie, vermeld in artikel 133, verwerkt door het agentschap.<br>
 <br>
-Het agentschap verwerkt persoonsgegevens ter identificatie van de leden van de commissies, vermeld in het eerste lid. De Vlaamse Regering kan die persoonsgegevens specificeren.<br>
+Het agentschap verwerkt de volgende persoonsgegevens conform het eerste lid:<br>
+1° identificatiegegevens;<br>
+2° contactgegevens;<br>
+3° het rekeningnummer.<br>
+<br>
+De Vlaamse Regering bepaalt per commissie, vermeld in het eerste lid, welke persoonsgegevens van de leden, vermeld in het tweede lid, worden verwerkt en kan die gegevens nader specificeren.<br>
 <br>
 § 3/2. Het agentschap kan persoonsgegevens verwerken over de medewerkers die ingezet worden in de zorgvoorzieningen en de zelfstandigen die zorg verlenen in de zorgvoorzieningen. Die gegevens zijn noodzakelijk om de sociale akkoorden uit te voeren en om de financiering die toekomt aan de zorgvoorzieningen te berekenen. De Vlaamse Regering bepaalt welke gegevens worden verwerkt.<br>
 <br>
@@ -818,7 +826,14 @@ In afwijking van het eerste lid, kan het agentschap een beroep doen op een ander
 
 In de gevallen bepaald door de Vlaamse Regering gebruiken het agentschap, de zorgkassen, de zorgvoorzieningen, de deelnemers aan het multidisciplinair overleg en de verstrekkers van mobiliteitshulpmiddelen het rijksregisternummer van gebruikers.<br>
 <br>
-In de gevallen bepaald door de Vlaamse Regering gebruikt het agentschap het rijksregisternummer van de medewerkers die ingezet worden in de zorgvoorzieningen en de zelfstandigen die zorg verlenen in de zorgvoorzieningen en van de leden van de Zorgkassencommissie, de Expertencommissie en de Bijzondere Technische Commissie, vermeld in artikel 133
+In de gevallen die de Vlaamse Regering bepaalt, gebruikt het agentschap het rijksregisternummer van de volgende personen:<br>
+1° de medewerkers die ingezet worden in de zorgvoorzieningen;<br>
+2° de zelfstandigen die zorg verlenen in de zorgvoorzieningen;<br>
+3° de leden van de Zorgkassencommissie;<br>
+4° de leden van de Expertencommissie;<br>
+5° de leden van de Bijzondere Technische Commissie, vermeld in artikel 133;<br>
+6° de leden van de administratieve beroepscommissie, vermeld in artikel 76, § 5, artikel 80, § 5, artikel 88, § 3, en artikel 92, § 5;<br>
+7° de leden van de Adviescommissie Mobiliteitshulpmiddelen, vermeld in artikel 132.
 
 ### ART 54.
 
@@ -1166,9 +1181,7 @@ De zorgkas voert uit op basis van de criteria, vermeld in het eerste lid.
 <br>
 De Vlaamse Regering bepaalt hoe de aanvragen van een zorgbudget voor ouderen met een zorgnood of de aanvragen tot herziening daarvan worden behandeld.<br>
 <br>
-§ 4. Het recht op een tegemoetkoming wordt geopend op het volgende tijdstip:<br>
-1° de datum waarop de verminderde zelfredzaamheid is vastgesteld, conform artikel 84;<br>
-2° de datum van de aanvraag, als de datum, vermeld in punt 1°, na de datum van de aanvraag valt.<br>
+§ 4. Het recht op een tegemoetkoming wordt geopend op de datum van de aanvraag.<br>
 <br>
 De uitvoering van de tegemoetkoming gaat in vanaf de eerste dag van de maand die volgt op de datum waarop het recht op een tegemoetkoming geopend wordt.<br>
 <br>
