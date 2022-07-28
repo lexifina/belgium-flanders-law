@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037287,
+  "title": "Decreet van 2022-07-15 tot wijziging van het Mestdecreet, wat het invoeren van de mogelijkheid om adviescommissies op te richten en de afschaffing van de nutriëntenemissierechten-MVW betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037287/VolledigDocument?datum=2022-07-28",
+  "source_sha256": "484691169b48f1978882c26bf3a84d9082faf236e98d327140874b8036e0e989",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037287&param=informatie",
+  "as_of": "2022-07-28",
+  "made": "2022-07-15",
+  "gazette": "2022-07-27",
+  "numac": 2022032872,
+  "document_start": "2022-07-28",
+  "document_end": null,
+  "in_force": "2022-07-28",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2022-07-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
