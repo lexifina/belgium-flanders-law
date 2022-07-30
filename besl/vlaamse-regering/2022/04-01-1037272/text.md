@@ -1,0 +1,349 @@
+# Besluit van de Vlaamse Regering van 2022-04-01 tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2022
+
+### Aanhef
+
+Rechtsgronden<br>
+Dit besluit is gebaseerd op:<br>
+- de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, artikel 21, eerste lid, 2°, b), artikel 22 en artikel 24, eerste lid;<br>
+- het decreet van 23 december 2021 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022.<br>
+<br>
+Vormvereiste<br>
+De volgende vormvereiste is vervuld:<br>
+- de Vlaamse minister, bevoegd voor de begroting, zijn akkoord is aangevraagd op 7 maart 2022.<br>
+<br>
+Motivering<br>
+Dit besluit is gebaseerd op het volgende motief:<br>
+- Ter uitvoering van de nota VR 2021 1712 DOC.1529/1TER (EU-voorzitterschap in 2024: aanwervingen bijkomend personeel 2022) wordt een eerste schijf van het provisionele krediet Europees Voorzitterschap 2024 verdeeld voor de aanwerving van bijkomende personeelsleden in 2022.<br>
+<br>
+Juridisch kader<br>
+Dit besluit sluit aan bij de volgende regelgeving:<br>
+- het Besluit Vlaamse Codex Overheidsfinanciën van 17 mei 2019.<br>
+<br>
+Initiatiefnemer<br>
+Dit besluit wordt voorgesteld door de Vlaamse minister van Buitenlandse Zaken, Cultuur, Digitalisering en Facilitair Management.<br>
+<br>
+Na beraadslaging,<br>
+<br>
+DE VLAAMSE REGERING BESLUIT:
+
+### ART 1.
+
+De kredieten die ingeschreven zijn onder de volgende begrotingsartikelen van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022 worden herverdeeld overeenkomstig de volgende tabel:<br>
+(in duizend euro)
+<table border="1" style="width:800px">
+	<tbody>
+		<tr>
+			<td>Begrotingsartikel</td>
+			<td>Ent.</td>
+			<td>Basisall.</td>
+			<td>ESR</td>
+			<td colspan="2">Van</td>
+			<td colspan="2">Naar</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>VAK</td>
+			<td>VEK</td>
+			<td>VAK</td>
+			<td>VEK</td>
+		</tr>
+		<tr>
+			<td>SA0-1SBA2AA-PR</td>
+			<td>SA0</td>
+			<td>1SB000</td>
+			<td>100</td>
+			<td>350</td>
+			<td>350</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>HB0-1HAX2ZZ-LO</td>
+			<td>HB0</td>
+			<td>1HA000</td>
+			<td>1100</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>46</td>
+			<td>46</td>
+		</tr>
+		<tr>
+			<td>HB0-1HAX2ZZ-WT</td>
+			<td>HB0</td>
+			<td>1HA003</td>
+			<td>1211</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>5</td>
+			<td>5</td>
+		</tr>
+		<tr>
+			<td>HB0-1HAX2ZZ-WT</td>
+			<td>HB0</td>
+			<td>1HA004</td>
+			<td>1211</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>3</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>KB0-1KAB2ZZ-LO</td>
+			<td>KB0</td>
+			<td>1KA000</td>
+			<td>1100</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>38</td>
+			<td>38</td>
+		</tr>
+		<tr>
+			<td>KB0-1KAB2ZZ-WT</td>
+			<td>KB0</td>
+			<td>1KA002</td>
+			<td>1211</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>3</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>KB0-1KAB2ZZ-WT</td>
+			<td>KB0</td>
+			<td>1KA004</td>
+			<td>1211</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>5</td>
+			<td>5</td>
+		</tr>
+		<tr>
+			<td>QB0-1QCE2OA-LO</td>
+			<td>QB0</td>
+			<td>1QC127</td>
+			<td>1100</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>23</td>
+			<td>23</td>
+		</tr>
+		<tr>
+			<td>QB0-1QCE2OA-WT</td>
+			<td>QB0</td>
+			<td>1QC199</td>
+			<td>1211</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>2</td>
+			<td>2</td>
+		</tr>
+		<tr>
+			<td>QB0-1QCE2OA-WT</td>
+			<td>QB0</td>
+			<td>1QC104</td>
+			<td>1211</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>3</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>QB0-1QCE2JV-IS</td>
+			<td>QB0</td>
+			<td>1QC181</td>
+			<td>4140</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>15</td>
+			<td>15</td>
+		</tr>
+		<tr>
+			<td>QE0-1QAE2ZZ-LO</td>
+			<td>QE0</td>
+			<td>1QA400</td>
+			<td>1100</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>11</td>
+			<td>11</td>
+		</tr>
+		<tr>
+			<td>QE0-1QAE2ZZ-WT</td>
+			<td>QE0</td>
+			<td>1QA402</td>
+			<td>1211</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>1</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>QE0-1QAE2ZZ-WT</td>
+			<td>QE0</td>
+			<td>1QA401</td>
+			<td>1211</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>2</td>
+			<td>2</td>
+		</tr>
+		<tr>
+			<td>EB0-1EAB2ZZ-LO</td>
+			<td>EB0</td>
+			<td>1EA102</td>
+			<td>1100</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>46</td>
+			<td>46</td>
+		</tr>
+		<tr>
+			<td>EB0-1EAB2ZZ-WT</td>
+			<td>EB0</td>
+			<td>1EA105</td>
+			<td>1211</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>3</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>EB0-1EAB2ZZ-WT</td>
+			<td>EB0</td>
+			<td>1EA106</td>
+			<td>1211</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>5</td>
+			<td>5</td>
+		</tr>
+		<tr>
+			<td>MB0-1MAH2ZZ-LO</td>
+			<td>MB0</td>
+			<td>1MA000</td>
+			<td>1100</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>31</td>
+			<td>31</td>
+		</tr>
+		<tr>
+			<td>MB0-1MAH2ZZ-WT</td>
+			<td>MB0</td>
+			<td>1MA004</td>
+			<td>1211</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>5</td>
+			<td>5</td>
+		</tr>
+		<tr>
+			<td>MB0-1MAH2ZZ-WT</td>
+			<td>MB0</td>
+			<td>1MA005</td>
+			<td>1211</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>3</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>JB0-1JAB2ZZ-LO</td>
+			<td>JB0</td>
+			<td>1JA100</td>
+			<td>1100</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>46</td>
+			<td>46</td>
+		</tr>
+		<tr>
+			<td>JB0-1JAB2ZZ-WT</td>
+			<td>JB0</td>
+			<td>1JA104</td>
+			<td>1211</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>5</td>
+			<td>5</td>
+		</tr>
+		<tr>
+			<td>JB0-1JAB2ZZ-WT</td>
+			<td>JB0</td>
+			<td>1JA103</td>
+			<td>1211</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>3</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>CB0-1CAG2ZZ-LO</td>
+			<td>CB0</td>
+			<td>1CA000</td>
+			<td>1100</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>15</td>
+			<td>15</td>
+		</tr>
+		<tr>
+			<td>CB0-1CAG2ZZ-WT</td>
+			<td>CB0</td>
+			<td>1CA002</td>
+			<td>1211</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>2</td>
+			<td>2</td>
+		</tr>
+		<tr>
+			<td>CB0-1CAG2ZZ-WT</td>
+			<td>CB0</td>
+			<td>1CA003</td>
+			<td>1211</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>1</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>FB0-1FAD2ZZ-LO</td>
+			<td>FB0</td>
+			<td>1FA000</td>
+			<td>1100</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>23</td>
+			<td>23</td>
+		</tr>
+		<tr>
+			<td>FB0-1FAD2ZZ-WT</td>
+			<td>FB0</td>
+			<td>1FA013</td>
+			<td>1211</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>5</td>
+			<td>5</td>
+		</tr>
+		<tr>
+			<td colspan="4">Totaal</td>
+			<td>350</td>
+			<td>350</td>
+			<td>350</td>
+			<td>350</td>
+		</tr>
+	</tbody>
+</table>
+
+### ART 2.
+
+Als door de goedkeuring van dit besluit aanpassingen aan de begrotingen van diensten met afzonderlijk beheer of Vlaamse rechtspersonen worden aangevraagd om de toelageverhogingen op te nemen op de begrotingsposten die weerslag ondervinden van dit besluit, stellen die entiteiten een voorstel van aangepaste begroting op.
+
+### ART 3.
+
+De Vlaamse minister, bevoegd voor het buitenlands beleid, is belast met de uitvoering van dit besluit.
