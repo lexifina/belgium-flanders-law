@@ -26,7 +26,7 @@ c) de deeltijdse werknemer die een opleiding volgt in een onderwijsinstelling al
 10° de uitkeringsgerechtigde werkloze : de persoon die voldoet aan de voorwaarden om werkloosheidsuitkeringen te ontvangen;<br>
 11° de werknemer : de persoon die tewerkgesteld is met een arbeidsovereenkomst of de persoon die zonder dat hij door een arbeidsovereenkomst is verbonden, tegen loon arbeidsprestaties verricht onder het gezag van een andere persoon of die arbeid verricht onder vergelijkbare voorwaarden;<br>
 12° personen met een indicatie van een arbeidshandicap : de persoon, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap;<br>
-13° het mandaat : de opdracht, gegeven door de raad van bestuur aan natuurlijke personen of rechtspersonen, om taken uit te voeren op het vlak van kosteloze arbeidsbemiddeling, kosteloze trajectbegeleiding of kosteloze competentieontwikkeling;<br>
+13° het mandaat : de opdracht, gegeven door de raad van bestuur aan natuurlijke personen of rechtspersonen, om taken uit te voeren op het vlak van kosteloze arbeidsbemiddeling;<br>
 14° ...;<br>
 15° beroepsverkennende stage : stage voor werkzoekenden, die niet past in het kader van van een opleiding, maar in hun beroeps- of loopbaanoriëntatie. De stage vindt plaats tijdens een trajectbegeleiding of activering en kan aan een opleiding voorafgaan. Die stagevorm heeft tot doel een individueel proces te ondersteunen en te versterken, waarbij een werkzoekende zicht krijgt op de concrete arbeidsmarkt, zijn interesses en aanwezige competenties, en waarbij die competenties getest en geactiveerd kunnen worden met het oog op verdere stappen naar tewerkstelling;<br>
 16° activering : proces waarbij de werkzoekende, in samenwerking met een begeleider, de medische, mentale, psychische, psychiatrische en sociale problemen die zijn inschakeling op de arbeidsmarkt in de weg staan, probeert op te lossen;<br>
@@ -159,11 +159,11 @@ De cursist die in het kader van zijn opleiding of stage schade berokkent aan de 
 
 ### ART. 13.
 
-Een natuurlijke persoon of rechtspersoon die arbeidsbemiddeling tot doel heeft, kan&nbsp;onder de voorwaarden, bepaald door de raad van bestuur, worden gemandateerd om activiteiten op het vlak van kosteloze arbeidsbemiddeling uit te oefenen.
+Een natuurlijke persoon of rechtspersoon die arbeidsbemiddeling tot doel heeft, kan&nbsp;onder de voorwaarden, vermeld in deze afdeling en bepaald door de raad van bestuur, worden gemandateerd om activiteiten op het vlak van kosteloze arbeidsbemiddeling uit te oefenen.
 
 ### ART. 14.
 
-De natuurlijke persoon of rechtspersoon, vermeld in artikel 13, richt aan   de VDAB een verzoek waarin zijn algemene werking, bestaansredenen, opzet en doel   worden uiteengezet.<BR><BR>De rechtspersoon, vermeld in artikel 13, voegt bij   zijn aanvraag tot mandatering de volgende gegevens :<BR>1° een exemplaar van   zijn statuten of oprichtingsbesluit, alsook de lijst van zijn bestuurders. De   statuten of het oprichtingsbesluit vermelden de volgende gegevens :<BR>a) de   benaming van het bureau, het adres van de hoofdzetel en de locaties waar de   bemiddelingsactiviteiten zullen worden uitgeoefend;<BR>b) ...;<BR>c) de   samenstelling van de raad van bestuur van het bureau, de wijze van benoeming van   de bestuurders, hun ontslagneming of hun afzetting, hun bevoegdheden en de duur   van hun mandaat;<BR>d) de organisatie van de controle op de verrichtingen van   het bureau door de leden van de raad van bestuur;<BR>e) de voorwaarden volgens   dewelke eventueel de versmelting met een ander bureau voor bijzondere   arbeidsbemiddeling of zijn ontbinding plaatsvindt;<BR>2° bewijsstukken waaruit   blijkt dat de activiteiten op het vlak van arbeidsbemiddeling uitgevoerd zullen   worden door personen die over de nodige kwalificaties beschikken;<BR>3°   bewijsstukken waaruit blijkt dat hij beschikt over het nodige materiaal,   materieel en de nodige accommodatie om de arbeidsbemiddeling te   verstrekken.<BR><BR>De natuurlijke persoon, vermeld in artikel 13, voegt bij   zijn aanvraag tot mandatering de volgende gegevens :<BR>1° de locaties waar de   activiteiten op het vlak van arbeidsbemiddeling zullen worden uitgeoefend;<BR>2°   bewijsstukken waaruit blijkt dat hij beschikt over de nodige kwalificaties om   activiteiten op het vlak van arbeidsbemiddeling uit te oefenen;<BR>3°   bewijsstukken waaruit blijkt dat hij beschikt over het nodige materiaal,   materieel en de nodige accommodatie om de arbeidsbemiddeling te   verstrekken;<BR>4° bewijsstukken waaruit blijkt dat hij kosteloos bemiddelt of   zal bemiddelen voor werkzoekenden;<BR>5° een verklaring dat hij bij een   eventuele overschakeling naar een rechtspersoon, door een rechtspersoon op te   richten of zich aan te sluiten bij een bestaande rechtspersoon, dat onmiddellijk   aan de VDAB zal melden en zich zal schikken naar de voorwaarden, vermeld in het   tweede lid.
+De natuurlijke persoon of rechtspersoon, vermeld in artikel 13, richt aan de VDAB een verzoek waarin zijn algemene werking, opzet en doel worden uiteengezet.
 
 ### ART. 15.
 
@@ -171,7 +171,10 @@ De raad van bestuur kan het mandaat om kosteloze arbeidsbemiddeling uit te oefen
 
 ### ART. 16.
 
-Met behoud van de toepassing van artikel 4 van het decreet van 10 december 2010 betreffende de private arbeidsbemiddeling moet de natuurlijke persoon of rechtspersoon, vermeld in artikel 13 :<br />1° de door de raad van bestuur vastgestelde voorwaarden met betrekking tot de rechten van de werkzoekende en de voorwaarden, opgelegd naar aanleiding van een evaluatie, naleven. De voorwaarden worden opgenomen in een samenwerkingsovereenkomst die wordt gesloten tussen de VDAB en de natuurlijke persoon of rechtspersoon, vermeld in artikel 13;<br />2° de collectieve arbeidsovereenkomsten, gesloten in de Nationale Arbeidsraad, over de aanwerving en selectie van werknemers toepassen;<br />3° gevolg geven aan elke aanbieding van werk of elk verzoek om werk.
+Met behoud van de toepassing van artikel 4 van het decreet van 10 december 2010 betreffende de private arbeidsbemiddeling moet de natuurlijke persoon of rechtspersoon, vermeld in artikel 13 :<br>
+1° een samenwerkingsovereenkomst sluiten met de VDAB waarin minstens het gebruik van het elektronische databestand van de VDAB en de voorwaarden van een evaluatie worden opgenomen.;<br>
+2° ...;<br>
+3° ...
 
 ### ART. 17.
 
@@ -183,61 +186,63 @@ De natuurlijke persoon of rechtspersoon, vermeld in artikel 13, registreert de v
 
 ### ART. 19.
 
-Het mandaat wordt&nbsp;door de raad van bestuur geschorst of stopgezet als de persoon de bepalingen van dit besluit overtreedt, de voorwaarden, vastgesteld door de raad van bestuur, niet naleeft, of als zijn bedrijvigheid in die mate afneemt dat zijn bestaan kennelijk niet meer verantwoord is.
+In de volgende gevallen zet de raad van bestuur het mandaat, vermeld in artikel 13, stop:<br>
+1° de natuurlijke persoon of rechtspersoon overtreedt de bepalingen, vermeld in dit besluit of de samenwerkingsovereenkomst, vermeld in artikel 16, 1° ;<br>
+2° de natuurlijke persoon of rechtspersoon leeft de voorwaarden die de raad van bestuur conform artikel 13 vastlegt, niet na;<br>
+3° de natuurlijke persoon of rechtspersoon registreert gedurende twaalf maanden geen enkele actie in het elektronische platform, vermeld in artikel 22/2 van het decreet van 7 mei 2004;<br>
+4° de bedrijvigheid van de natuurlijke persoon of rechtspersoon neemt sterk af zodat zijn bestaan kennelijk niet meer verantwoord is.
 
 ## Afdeling IV. [... (opgeh. BVR 13 mei 2022, art. 6, I: 30 juli 2022)]
 
 ### ART. 20.
 
-Een natuurlijke persoon of rechtspersoon die trajectbegeleiding tot doel heeft, kan&nbsp; onder de voorwaarden, vastgesteld door de raad van bestuur, worden gemandateerd om activiteiten op het vlak van kosteloze trajectbegeleiding uit te oefenen.
+...
 
 ### ART. 21.
 
-De natuurlijke persoon of rechtspersoon, vermeld in artikel 20, richt aan   de VDAB een verzoek waarin zijn algemene werking, bestaansredenen, opzet en doel   worden uiteengezet.<BR><BR>De rechtspersoon, vermeld in artikel 20, voegt bij   zijn aanvraag tot mandatering de volgende gegevens :<BR>1° een exemplaar van   zijn statuten of oprichtingsbesluit, alsook de lijst van zijn bestuurders. De   statuten of het oprichtingsbesluit vermelden de volgende gegevens :<BR>a) de   benaming van de rechtspersoon, het adres van de hoofdzetel en de locaties waar   de begeleidingsactiviteiten zullen worden uitgeoefend;<BR>b) ...;<BR>c) de   samenstelling van de raad van bestuur van de rechtspersoon, de wijze van   benoeming van de bestuurders, hun ontslagneming of hun afzetting, hun   bevoegdheden en de duur van hun mandaat;<BR>d) de organisatie van de controle op   de verrichtingen van de rechtspersoon door de leden van de raad van   bestuur;<BR>e) de voorwaarden volgens dewelke eventueel de versmelting met een   andere rechtspersoon voor kosteloze begeleiding of zijn ontbinding   plaatsvindt;<BR>2° bewijsstukken waaruit blijkt dat de activiteiten op het vlak   van trajectbegeleiding uitgevoerd zullen worden door personen die over de nodige   kwalificaties beschikken;<BR>3° bewijsstukken waaruit blijkt dat hij beschikt   over het nodige materiaal, materieel en de nodige accommodatie om de   trajectbegeleiding te verstrekken.<BR><BR>De natuurlijke persoon, vermeld in   artikel 20, voegt bij zijn aanvraag tot mandatering de volgende gegevens :<BR>1°   de locaties waar de activiteiten op het vlak van trajectbegeleiding zullen   worden uitgeoefend;<BR>2° bewijsstukken waaruit blijkt dat hij beschikt over de   nodige kwalificaties om activiteiten op het vlak van trajectbegeleiding uit te   oefenen;<BR>3° bewijsstukken waaruit blijkt dat hij beschikt over het nodige   materiaal, materieel en de nodige accommodatie om de trajectbegeleiding te   verstrekken;<BR>4° bewijsstukken waaruit blijkt dat hij werkzoekenden kosteloos   begeleidt of zal begeleiden;<BR>5° een verklaring dat hij bij een eventuele   overschakeling naar een rechtspersoon, door een rechtspersoon op te richten of   zich aan te sluiten bij een bestaande rechtspersoon, dit onmiddellijk aan de   VDAB zal melden en zich zal schikken naar de voorwaarden, vermeld in het tweede   lid.
+...
 
 ### ART. 22.
 
-Het mandaat om kosteloze trajectbegeleiding uit te oefenen, kan door de raad van bestuur worden verleend als de natuurlijke persoon of rechtspersoon, vermeld in artikel 20, activiteiten van private arbeidsbemiddeling verricht in overeenstemming met titel II, hoofdstuk I, afdeling III of in overeenstemming met het decreet van 10 december 2010 betreffende de private arbeidsbemiddeling.<br>
-<br>
-De natuurlijke persoon of de rechtspersoon, vermeld in artikel 20, moet bovendien geregistreerd zijn als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie.
+...
 
 ### ART. 23.
 
-De natuurlijke persoon of rechtspersoon, vermeld in artikel 20, moet :<br />1° de door de raad van bestuur vastgestelde voorwaarden met betrekking tot de rechten van de werkzoekende en de voorwaarden, opgelegd naar aanleiding van een evaluatie, naleven. De voorwaarden worden opgenomen in een samenwerkingsovereenkomst die wordt gesloten tussen de VDAB en de natuurlijke persoon of rechtspersoon, vermeld in artikel 20;<br />2° gevolg geven aan elk verzoek om begeleiding.
+...
 
 ### ART. 24.
 
-De natuurlijke persoon of rechtspersoon, vermeld in artikel 20, registreert de begeleidingsactiviteiten die hij uitvoert in het elektronische databestand van de VDAB.
+...
 
 ### ART. 25.
 
-Het mandaat wordt&nbsp;door de raad van bestuur geschorst of stopgezet als de persoon de bepalingen van dit besluit overtreedt, de voorwaarden, vastgesteld door de raad van bestuur, niet naleeft, of als zijn bedrijvigheid in die mate afneemt dat zijn bestaan kennelijk niet meer verantwoord is.
+...
 
 ## Afdeling V. [... (opgeh. BVR 13 mei 2022, art. 6, I: 30 juli 2022)]
 
 ### ART. 26.
 
-Een natuurlijke persoon of rechtspersoon die competentieontwikkeling tot doel heeft, kan onder de voorwaarden, bepaald door de raad van bestuur, worden gemandateerd om activiteiten op het vlak van kosteloze competentieontwikkeling uit te oefenen.
+...
 
 ### ART. 27.
 
-De natuurlijke persoon of rechtspersoon, vermeld in artikel 26, richt aan   de VDAB een verzoek waarin zijn algemene werking, bestaansredenen, doel en opzet   worden uiteengezet.<BR><BR>De rechtspersoon, vermeld in artikel 26, voegt bij   zijn aanvraag tot mandatering de volgende gegevens :<BR>1° een exemplaar van   zijn statuten of oprichtingsbesluit, alsook de lijst van zijn bestuurders. De   statuten of het oprichtingsbesluit vermelden de volgende gegevens :<BR>a) de   benaming van de rechtspersoon, het adres van de hoofdzetel en de locaties waar   de activiteiten op het vlak van competentieontwikkeling zullen worden   uitgeoefend;<BR>b) ...;<BR>c) de samenstelling van zijn raad van bestuur, de   wijze van benoeming van de bestuurders, hun ontslagneming of hun afzetting, hun   bevoegdheden en de duur van hun mandaat;<BR>d) de organisatie van de controle op   de verrichtingen van de rechtspersoon door de leden van de raad van   bestuur;<BR>e) de voorwaarden volgens dewelke eventueel de versmelting met een   andere rechtspersoon voor kosteloze competentieontwikkeling of zijn ontbinding   plaatsvindt;<BR>2° bewijsstukken waaruit blijkt dat de activiteiten op het vlak   van competentieontwikkeling uitgevoerd zullen worden door personen die over de   nodige kwalificaties beschikken;<BR>3° bewijsstukken waaruit blijkt dat hij   beschikt over het nodige materiaal, materieel en de nodige accommodatie om de   competentieontwikkeling te verstrekken.<BR><BR>De natuurlijke persoon, vermeld   in artikel 26, voegt bij zijn aanvraag tot mandatering de volgende gegevens   :<BR>1° de locaties waar de activiteiten op het vlak van competentieontwikkeling   zullen worden uitgeoefend;<BR>2° bewijsstukken waaruit blijkt dat hij beschikt   over de nodige kwalificaties om activiteiten op het vlak van   competentieontwikkeling uit te oefenen;<BR>3° bewijsstukken waaruit blijkt dat   hij beschikt over het nodige materiaal, materieel en de nodige accommodatie om   de competentieontwikkeling te verstrekken;<BR>4° bewijsstukken waaruit blijkt   dat hij werkzoekenden kosteloos opleidt of zal opleiden;<BR>5° een verklaring   dat hij bij een eventuele overschakeling naar een rechtspersoon, door een   rechtspersoon op te richten of zich aan te sluiten bij een bestaande   rechtspersoon, dat onmiddellijk aan de VDAB zal melden en zich zal schikken naar   de voorwaarden, vermeld in het tweede lid.
+...
 
 ### ART. 28.
 
-De raad van bestuur kan het mandaat om kosteloze competentieontwikkeling uit te oefenen, verlenen als de natuurlijke persoon of de rechtspersoon, vermeld in artikel 26 van dit besluit, geregistreerd is als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie.
+...
 
 ### ART. 29.
 
-De natuurlijke persoon of rechtspersoon, vermeld in artikel 26, moet :<br />1° de door de raad van bestuur vastgestelde voorwaarden met betrekking tot de rechten van de werkzoekende en de voorwaarden, opgelegd naar aanleiding van een evaluatie, naleven. De voorwaarden worden opgenomen in een samenwerkingsovereenkomst die wordt gesloten tussen de VDAB en de natuurlijke persoon of rechtspersoon, vermeld in artikel 26;<br />2° gevolg geven aan elk verzoek om competentieontwikkeling.
+...
 
 ### ART. 30.
 
-De natuurlijke persoon of rechtspersoon, vermeld in artikel 26, registreert de activiteiten op het vlak van competentieontwikkeling die hij uitvoert in het elektronische databestand van de VDAB.
+...
 
 ### ART. 31.
 
-Het mandaat wordt&nbsp;door de raad van bestuur geschorst of stopgezet als de persoon de bepalingen van dit besluit overtreedt, de voorwaarden, vastgesteld door de raad van bestuur, niet naleeft, of als zijn bedrijvigheid in die mate afneemt dat zijn bestaan kennelijk niet meer verantwoord is.
+...
 
 ## [HOOFDSTUK I/I. Activeringsregie (ing. BVR 17 juli 2020, art. 1, I: 3 augustus 2020)]
 
@@ -344,6 +349,26 @@ De werkgevers delen in hun werkaanbieding de volgende informatie mee :<br />1° 
 ### ART. 47.
 
 De werkgevers die een beroep doen op de diensten van de VDAB, leven de collectieve arbeidsovereenkomsten na over de aanwerving en selectie van werknemers, die gesloten zijn in de Nationale Arbeidsraad.<br /><br />De VDAB behandelt alleen de werkaanbiedingen die voldoen aan de geldende wettelijke en reglementaire bepalingen.
+
+### ART 47/1.
+
+§ 1. De VDAB stelt zijn elektronische databestand ter beschikking van werkgevers, bureaus die diensten van private arbeidsbemiddeling verrichten, uitzendkantoren en dienstenchequebedrijven.<br>
+<br>
+De raad van bestuur bepaalt de toegangs- en gebruiksvoorwaarden. De gedelegeerd bestuurder bepaalt de kwaliteitsrichtlijnen voor het gebruik van het elektronische databestand.<br>
+<br>
+§ 2. In de volgende gevallen kan de VDAB de toegang tot zijn elektronische databestand tijdelijk schorsen:<br>
+1° de gebruiker behoort niet langer tot een doelgroep als vermeld in paragraaf 1, eerste lid;<br>
+2° de gebruiker leeft de gebruiksvoorwaarden of de kwaliteitsrichtlijnen, vermeld in paragraaf 1, tweede lid, niet na;<br>
+3° bij misbruik of oneigenlijk gebruik van persoonsgegevens;<br>
+4° de VDAB ontvangt een melding dat de gebruiker inbreuken heeft gepleegd op de regelgeving over de bescherming van persoonsgegevens, het arbeidsrecht, de antidiscriminatiewetten, de regelgeving over het welzijn op het werk, en de collectieve arbeidsovereenkomsten over de aanwerving en selectie van werknemers, die de Nationale Arbeidsraad heeft gesloten.<br>
+<br>
+§ 3. Bij de situaties die geleid hebben tot de schorsing, vermeld in paragraaf 2, en na onderzoek kan de VDAB beslissen om de gebruiker uit te sluiten nadat de gebruiker de mogelijkheid heeft gekregen om zijn verweermiddelen mee te delen binnen een vervaltermijn van vijftien dagen.<br>
+<br>
+De VDAB bepaalt de duur van de uitsluiting. De duur van de uitsluiting bedraagt maximaal drie jaar.<br>
+<br>
+Tegen de beslissing tot uitsluiting, vermeld in het eerste lid, kan de gebruiker schriftelijk beroep aantekenen bij de raad van bestuur binnen dertig dagen na de schriftelijke kennisgeving van de beslissing.<br>
+<br>
+De VDAB kan aan de gebruiker bijkomende voorwaarden opleggen om de naleving van de toegangs- en gebruiksvoorwaarden en de kwaliteitsrichtlijnen te waarborgen.
 
 ## HOOFDSTUK III. Tewerkstellingscellen
 
@@ -1024,70 +1049,167 @@ De partijen kunnen in onderling overleg het beroepsinlevingscontract beëindigen
 
 ### ART. 111/1.
 
-In dit hoofdstuk wordt verstaan onder:<BR>1° actie: het ingaan op een   voorstel tot gesprek, bemiddeling, werkaanbieding, werkervaring, inschakeling,   opleiding of begeleiding;<BR>2° afspraken: de verbintenissen die zijn opgenomen   in het afsprakenblad en in het ultieme afsprakenblad;<BR>3° schriftelijk: via   brief of elektronisch;<BR>4° verblijfplaats: het laatst aan de VDAB doorgegeven   adres als dat binnen het Vlaamse Gewest ligt of, bij gebrek daaraan, de   verblijfplaats, vermeld in artikel 3 van de wet van 19 juli 1991 betreffende de   bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de   verblijfsdocumenten en tot wijziging van de wet van 8 augustus 1983 tot regeling   van een Rijksregister van de natuurlijke personen;<BR>5° passende   dienstbetrekking: de dienstbetrekking, vermeld in hoofdstuk V, afdeling 2 van   het ministerieel besluit van 26 november 1991 houdende toepassingsregelen van de   werkloosheidsreglementering;<BR>6° passend aanbod: een aanbod tot begeleiding,   bemiddeling, opleiding of werk dat aansluit bij de noden en competenties van de   verplicht ingeschreven werkzoekende;<BR>7° opvolgingsgesprek: het gesprek tussen   de bemiddelaar en de verplicht ingeschreven werkzoekende dat de opvolging van   het werkzoekgedrag van de verplicht ingeschreven werkzoekende opent of   voortzet.
+In dit hoofdstuk wordt verstaan onder:<br>
+1° actie: het ingaan op een voorstel tot gesprek, bemiddeling, werkaanbieding, werkervaring, inschakeling, opleiding of begeleiding;<br>
+2° afspraken: de verbintenissen die zijn opgenomen in het afsprakenblad, in het formeel afsprakenblad en in het ultieme afsprakenblad;<br>
+3° schriftelijk: via brief of elektronisch;<br>
+4° verblijfplaats: het laatste adres dat de verplicht ingeschreven werkzoekende heeft doorgegeven, als dat adres binnen het Vlaamse Gewest ligt, of, bij gebrek daaraan, de hoofdverblijfplaats, vermeld in artikel 3 van de wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten;<br>
+5° passende dienstbetrekking: de dienstbetrekking, vermeld in hoofdstuk V, afdeling 2 van het ministerieel besluit van 26 november 1991 houdende toepassingsregelen van de werkloosheidsreglementering;<br>
+6° passend aanbod: een aanbod tot begeleiding, bemiddeling, opleiding of werk dat aansluit bij de noden en competenties van de verplicht ingeschreven werkzoekende;<br>
+7° opvolgingsgesprek: het gesprek tussen de bemiddelaar en de verplicht ingeschreven werkzoekende dat de opvolging van het werkzoekgedrag van de verplicht ingeschreven werkzoekende opent of voortzet.&nbsp;Het gesprek kan gevoerd worden op een fysieke locatie, telefonisch of via een videogesprek.
 
 ### ART. 111/2.
 
-Om termijnen te berekenen met toepassing van dit hoofdstuk, worden als   dagen alle kalenderdagen meegeteld. Als een termijn eindigt op een zaterdag,   zondag, of feestdag als vermeld in artikel X 11 van het Vlaams personeelsstatuut   van 13 januari 2006, wordt als laatste dag van de termijn de eerstvolgende   werkdag bedoeld.
+Om termijnen te berekenen met toepassing van dit hoofdstuk, worden als dagen alle kalenderdagen meegeteld. Als een termijn eindigt op een zaterdag, zondag, of feestdag als vermeld in artikel X 11 van het Vlaams personeelsstatuut van 13 januari 2006, wordt als laatste dag van de termijn de eerstvolgende werkdag bedoeld.<br>
+<br>
+Om termijnen te berekenen met toepassing van dit hoofdstuk, worden als werkdagen alle kalenderdagen meegeteld, tenzij het gaat om een zaterdag, zondag, of feestdag als vermeld in artikel X 11 van het Vlaams personeelsstatuut van 13 januari 2006.
 
 ### ART. 111/3.
 
-De bemiddelaar volgt het werkzoekgedrag op van de verplicht ingeschreven   werkzoekende.
+De bemiddelaar volgt het werkzoekgedrag op van de verplicht ingeschreven werkzoekende.&nbsp;De bemiddelaar beoordeelt of de verplicht ingeschreven werkzoekende zich voldoende heeft geïntegreerd op de arbeidsmarkt, enerzijds door de overeengekomen acties en afspraken uit te voeren, anderzijds door voldoende inspanningen te leveren om actief een betrekking te zoeken.
 
 ### ART. 111/4.
 
-Bij de inschrijving als werkzoekende wordt de verplicht ingeschreven   werkzoekende op de hoogte gebracht:<BR>1° dat hij zich moet integreren op de   arbeidsmarkt, enerzijds door actief een betrekking te zoeken tijdens zijn   werkloosheid, en anderzijds door mee te werken aan de acties en afspraken die   hem door de VDAB worden voorgesteld;<BR>2° dat hij kan worden uitgenodigd voor   een opvolgingsgesprek, waarop hij verplicht aanwezig moet zijn;<BR>3° van de   mogelijke gevolgen van de beoordeling van zijn werkzoekgedrag;<BR>4° van zijn   rechten en plichten.
+Bij de inschrijving als werkzoekende wordt de verplicht ingeschreven werkzoekende op de hoogte gebracht:<br>
+1° dat zijn werkzoekgedrag wordt opgevolgd door de bemiddelaar;<br>
+2° dat hij kan worden uitgenodigd voor een opvolgingsgesprek, waarop hij verplicht moet ingaan, wat inhoudt dat hij zich moet aanmelden voor het opvolgingsgesprek en er actief aan moet deelnemen;<br>
+3° van de mogelijke gevolgen van de beoordeling van zijn werkzoekgedrag;<br>
+4° van zijn rechten en plichten.
 
 ### ART. 111/5.
 
-De verplicht ingeschreven werkzoekende wordt door de VDAB uitgenodigd om   na te gaan welke zijn mogelijkheden zijn om een of meer acties uit te voeren.   Zijn aanwezigheid op dat gesprek is verplicht. De verplicht ingeschreven   werkzoekende moet de acties uitvoeren die in onderling overleg zijn   overeengekomen.
+De verplicht ingeschreven werkzoekende wordt door de VDAB uitgenodigd om na te gaan welke zijn mogelijkheden zijn om een of meer acties uit te voeren. De verplicht ingeschreven werkzoekende gaat in op de uitnodiging voor dat gesprek en voert de acties uit die in onderling overleg zijn overeengekomen. De bemiddelaar en de verplicht ingeschreven werkzoekende kunnen daarvoor een afsprakenblad opmaken.
 
 ## [Afdeling 2. Opvolging van het werkzoekgedrag (ing. BVR 18 december 2015, art. 21, I: 1 januari 2016)]
 
 ### ART. 111/6.
 
-&nbsp;§ 1. De verplicht ingeschreven werkzoekende wordt door de VDAB   uitgenodigd voor een opvolgingsgesprek om na te gaan of hij zich voldoende heeft   geïntegreerd op de arbeidsmarkt, enerzijds door elke overeengekomen actie en   afspraak uit te voeren, anderzijds door voldoende inspanningen te leveren om   actief een betrekking te zoeken.<BR><BR>Het opvolgingsgesprek vindt op zijn   vroegst plaats de zevende dag na de verzending, tenzij anders overeengekomen. De   verplicht ingeschreven werkzoekende moet aanwezig zijn op elk   opvolgingsgesprek.<BR><BR>§ 2. Als de verplicht ingeschreven werkzoekende niet   aanwezig is op het opvolgingsgesprek en hij een geldige reden heeft, wordt hem   een tweede uitnodiging gestuurd.<BR><BR>Als de verplicht ingeschreven   werkzoekende niet ingaat op de tweede uitnodiging voor het opvolgingsgesprek,   vermeld in het eerste lid, ongeacht of hij al dan niet een geldige reden heeft,   wordt hem aangetekend een derde uitnodiging gestuurd.<BR><BR>Als de verplicht   ingeschreven werkzoekende niet ingaat op de derde uitnodiging, vermeld in het   tweede lid, ongeacht of hij al dan niet een geldige reden heeft, wordt zijn   dossier bezorgd aan de controledienst.<BR><BR>§ 3. Als de verplicht ingeschreven   werkzoekende niet aanwezig is op het opvolgingsgesprek en hij geen geldige reden   heeft, wordt hem aangetekend een tweede uitnodiging gestuurd.<BR><BR>Als de   verplicht ingeschreven werkzoekende niet ingaat op de tweede uitnodiging,   vermeld in het eerste lid, en hij een geldige reden heeft, wordt hem aangetekend   een derde uitnodiging gestuurd.<BR><BR>Als de verplicht ingeschreven   werkzoekende niet ingaat op de derde uitnodiging, vermeld in het tweede lid,   ongeacht of hij al dan niet een geldige reden heeft, wordt zijn dossier bezorgd   aan de controledienst.<BR><BR>§ 4. Als de verplicht ingeschreven werkzoekende   niet aanwezig is op het opvolgingsgesprek en hij geen geldige reden heeft, wordt   hem aangetekend een tweede uitnodiging gestuurd.<BR><BR>Als de verplicht   ingeschreven werkzoekende niet ingaat op de tweede uitnodiging, vermeld in het   eerste lid, en hij geen geldige reden heeft, wordt zijn dossier bezorgd aan de   controledienst.<BR><BR>§ 5. Een opvolgingsgesprek kan ook plaatsvinden op   verzoek van de verplicht ingeschreven werkzoekende, binnen een redelijke termijn   na het vorige opvolgingsgesprek.
+§ 1. De verplicht ingeschreven werkzoekende wordt door de VDAB uitgenodigd voor een opvolgingsgesprek om zijn werkzoekgedrag te beoordelen.<br>
+<br>
+Het opvolgingsgesprek vindt op zijn vroegst plaats op de zevende dag na de verzending of overhandiging van de uitnodiging, tenzij anders overeengekomen tussen de bemiddelaar en de verplicht ingeschreven werkzoekende. De verplicht ingeschreven werkzoekende gaat in op elke uitnodiging voor een opvolgingsgesprek.<br>
+<br>
+Tenzij anders bepaald overeenkomstig de bepaling in dit hoofdstuk, bepaalt VDAB in de uitnodiging de modaliteiten van het opvolgingsgesprek. Die modaliteiten omvatten minstens of het opvolgingsgesprek gevoerd zal worden op een fysieke locatie, telefonisch of via een videogesprek.<br>
+<br>
+De verplicht ingeschreven werkzoekende mag vragen dat:<br>
+1° het opvolgingsgesprek via een ander gesprekskanaal gevoerd wordt dan het gesprekskanaal dat de VDAB bepaalt in de uitnodiging. Als de verplicht ingeschreven werkzoekende een opvolgingsgesprek op een fysieke locatie vraagt, mag hij een specifieke fysieke locatie vragen;<br>
+2° het opvolgingsgesprek op een andere fysieke locatie gevoerd wordt dan de fysieke locatie die de VDAB bepaalt in de uitnodiging.<br>
+<br>
+De bemiddelaar ontvangt het gemotiveerde verzoek uiterlijk op de derde werkdag vóór de dag van het opvolgingsgesprek.<br>
+<br>
+De bemiddelaar gaat altijd in op een verzoek om het opvolgingsgesprek op een fysieke locatie te voeren en bepaalt daarbij altijd de specifieke fysieke locatie. De bemiddelaar beslist over de andere verzoeken in functie van het traject naar werk en de gesprekskanalen die VDAB kan aanbieden, en informeert de verplicht ingeschreven werkzoekende over die beslissing<br>
+<br>
+§ 2. Als de verplicht ingeschreven werkzoekende niet ingaat op het opvolgingsgesprek en hij een geldige reden heeft, wordt hem een tweede uitnodiging gestuurd.<br>
+<br>
+Als de verplicht ingeschreven werkzoekende niet ingaat op de tweede uitnodiging voor het opvolgingsgesprek, vermeld in het eerste lid, ongeacht of hij al dan niet een geldige reden heeft, wordt hem aangetekend een derde uitnodiging gestuurd.<br>
+<br>
+Als de verplicht ingeschreven werkzoekende niet ingaat op de derde uitnodiging, vermeld in het tweede lid, ongeacht of hij al dan niet een geldige reden heeft, wordt zijn dossier bezorgd aan de controledienst.<br>
+<br>
+§ 3. Als de verplicht ingeschreven werkzoekende niet ingaat op het opvolgingsgesprek en hij geen geldige reden heeft, wordt hem aangetekend een tweede uitnodiging gestuurd.<br>
+<br>
+Als de verplicht ingeschreven werkzoekende niet ingaat op de tweede uitnodiging, vermeld in het eerste lid, en hij een geldige reden heeft, wordt hem aangetekend een derde uitnodiging gestuurd.<br>
+<br>
+Als de verplicht ingeschreven werkzoekende niet ingaat op de derde uitnodiging, vermeld in het tweede lid, ongeacht of hij al dan niet een geldige reden heeft, wordt zijn dossier bezorgd aan de controledienst.<br>
+<br>
+§ 4. Als de verplicht ingeschreven werkzoekende niet ingaat op het opvolgingsgesprek en hij geen geldige reden heeft, wordt hem aangetekend een tweede uitnodiging gestuurd.<br>
+<br>
+Als de verplicht ingeschreven werkzoekende niet ingaat op de tweede uitnodiging, vermeld in het eerste lid, en hij geen geldige reden heeft, wordt zijn dossier bezorgd aan de controledienst.<br>
+<br>
+§ 5. Een opvolgingsgesprek kan ook plaatsvinden op verzoek van de verplicht ingeschreven werkzoekende, binnen een redelijke termijn na het vorige opvolgingsgesprek.<br>
+<br>
+§ 6. Als een uitnodiging voor een opvolgingsgesprek terugkeert naar de VDAB omdat de verblijfplaats incorrect is, onderneemt de VDAB redelijke pogingen om de verplicht ingeschreven werkzoekende te bereiken.<br>
+<br>
+§ 7. De verplicht ingeschreven werkzoekende die niet ingaat op een uitnodiging voor een opvolgingsgesprek, brengt de bemiddelaar vóór de aanvang van het opvolgingsgesprek op de hoogte van zijn afwezigheid en de reden daarvoor en levert een bewijs van de reden van zijn afwezigheid af aan de bemiddelaar uiterlijk op de derde werkdag na de dag van het opvolgingsgesprek.<br>
+<br>
+Als de verplicht ingeschreven werkzoekende de voorwaarden, vermeld in het eerste lid, niet naleeft, wordt de reden van zijn afwezigheid voor de toepassing van dit artikel als ongeldig beschouwd, behalve in geval van overmacht.
 
 ### ART. 111/7.
 
-§ 1. Tijdens het opvolgingsgesprek beoordeelt de bemiddelaar het   werkzoekgedrag van de verplicht ingeschreven werkzoekende op basis van:<BR>1° de   volgende inlichtingen waarover de VDAB al beschikt en die tijdens het gesprek   aan de verplicht ingeschreven werkzoekende worden meegedeeld:<BR>a) de   overeengekomen acties en afspraken;<BR>b) de sollicitatiefeedback van de   werkgever en de verplicht ingeschreven werkzoekende;<BR>c) de informatie   afkomstig van de RVA en de partnerorganisaties van de VDAB;<BR>d) de gegevens   over de loopbaan van de werkzoekende. Die inlichtingen worden tijdens het   gesprek aan de verplicht ingeschreven werkzoekende meegedeeld;<BR>2° de   inlichtingen over de inspanningen die de verplicht ingeschreven werkzoekende   heeft geleverd om zich te integreren op de arbeidsmarkt, en die door de   verplicht ingeschreven werkzoekende zelf zijn meegedeeld.<BR><BR>In geval van   twijfel over de juistheid van de inlichtingen die de verplicht ingeschreven   werkzoekende meedeelt, kan de VDAB de verklaringen en documenten die de   verplicht ingeschreven werkzoekende voorlegt, verifiëren.<BR><BR>§ 2. Bij de   beoordeling van de inspanningen die de verplicht ingeschreven werkzoekende heeft   geleverd, houdt de bemiddelaar rekening met:<BR>1° zijn competenties;<BR>2° zijn   leeftijd;<BR>3° zijn opleidingsniveau;<BR>4° zijn   verplaatsingsmogelijkheden;<BR>5° zijn fysieke en mentale capaciteiten;<BR>6° de   toestand van de arbeidsmarkt in de subregio waar de verplicht ingeschreven   werkzoekende zijn verblijfplaats heeft. Onder subregio wordt het gebied verstaan   waarin inwoners van dezelfde gemeente als de verplicht ingeschreven werkzoekende   en van de aangrenzende gemeenten zich verplaatsen om te gaan werken;<BR>7° zijn   sociale en familiale situatie<BR>8° andere relevante gegevens.<BR><BR>§ 3. Als   de verplicht ingeschreven werkzoekende van oordeel is dat hij fysiek of mentaal   niet of niet meer geschikt is om een bepaald beroep uit te oefenen of bepaalde   acties te verrichten, kan de VDAB een medisch onderzoek laten uitvoeren. De   verplicht ingeschreven werkzoekende mag zich laten bijstaan door zijn   behandelende arts. De arts die aangewezen is door de VDAB, geeft een advies over   de beroepen die de verplicht ingeschreven werkzoekende nog kan uitoefenen of   over de acties die hij nog kan verrichten.
+§ 1. Tijdens het opvolgingsgesprek beoordeelt de bemiddelaar het werkzoekgedrag van de verplicht ingeschreven werkzoekende op basis van:<br>
+1° de volgende inlichtingen waarover de VDAB al beschikt en die tijdens het gesprek aan de verplicht ingeschreven werkzoekende worden meegedeeld:<br>
+a) de overeengekomen acties en afspraken;<br>
+b) de sollicitatiefeedback van de werkgever en de verplicht ingeschreven werkzoekende;<br>
+c) de informatie afkomstig van de RVA en de partnerorganisaties van de VDAB;<br>
+d) de gegevens over de loopbaan van de werkzoekende. Die inlichtingen worden tijdens het gesprek aan de verplicht ingeschreven werkzoekende meegedeeld;<br>
+2° de inlichtingen over de inspanningen die de verplicht ingeschreven werkzoekende heeft geleverd om zich te integreren op de arbeidsmarkt, en die door de verplicht ingeschreven werkzoekende zelf zijn meegedeeld.<br>
+<br>
+In geval van twijfel over de juistheid van de inlichtingen die de verplicht ingeschreven werkzoekende meedeelt, kan de VDAB de verklaringen en documenten die de verplicht ingeschreven werkzoekende voorlegt, verifiëren.<br>
+<br>
+§ 2. Bij de beoordeling van de inspanningen die de verplicht ingeschreven werkzoekende heeft geleverd, houdt de bemiddelaar rekening met:<br>
+1° zijn competenties;<br>
+2° zijn leeftijd;<br>
+3° zijn opleidingsniveau;<br>
+4° zijn verplaatsingsmogelijkheden;<br>
+5° zijn fysieke en mentale capaciteiten;<br>
+6° de toestand van de arbeidsmarkt in de subregio waar de verplicht ingeschreven werkzoekende zijn verblijfplaats heeft. Onder subregio wordt het gebied verstaan waarin inwoners van dezelfde gemeente als de verplicht ingeschreven werkzoekende en van de aangrenzende gemeenten zich verplaatsen om te gaan werken;<br>
+7° zijn sociale en familiale situatie<br>
+8° andere relevante gegevens.<br>
+<br>
+§ 3. Als de verplicht ingeschreven werkzoekende van oordeel is dat hij fysiek of mentaal niet of niet meer geschikt is om een bepaald beroep uit te oefenen of bepaalde acties te verrichten en bewijsstukken daarvan kan voorleggen, laat de VDAB een medisch onderzoek uitvoeren. De verplicht ingeschreven werkzoekende mag zich laten bijstaan door zijn behandelende arts. De arts die aangewezen is door de VDAB, geeft een advies over de beroepen die de verplicht ingeschreven werkzoekende nog kan uitoefenen of over de acties die hij nog kan verrichten.
 
 ### ART. 111/8.
 
-Als de bemiddelaar tijdens het opvolgingsgesprek, vermeld in artikel   111/6, vaststelt dat de verplicht ingeschreven werkzoekende voldoende   inspanningen heeft geleverd om zich te integreren op de arbeidsmarkt, brengt hij   de verplicht ingeschreven werkzoekende op de hoogte van die beoordeling   uiterlijk veertien dagen na het gesprek. De verplicht ingeschreven werkzoekende   wordt er ook van op de hoogte gebracht dat hij zijn inspanningen om zich te   integreren op de arbeidsmarkt moet voortzetten en dat later een nieuw   opvolgingsgesprek volgt. De bemiddelaar bepaalt de frequentie van de   opvolgingsgesprekken.
+Als de bemiddelaar tijdens het opvolgingsgesprek, vermeld in artikel 111/6, vaststelt dat het werkzoekgedrag van de verplicht ingeschreven werkzoekende voldoende is, brengt hij de verplicht ingeschreven werkzoekende op de hoogte van die beoordeling tijdens het opvolgingsgesprek. De verplicht ingeschreven werkzoekende wordt er ook van op de hoogte gebracht dat hij zijn werkzoekgedrag moet voortzetten en dat later een nieuw opvolgingsgesprek volgt.<br>
+<br>
+De bemiddelaar bepaalt de frequentie van de opvolgingsgesprekken en bepaalt na overleg met de verplicht ingeschreven werkzoekende en in functie van het traject naar werk de modaliteiten van het volgende opvolgingsgesprek. Als het volgende opvolgingsgesprek op een fysieke locatie wordt gevoerd, bepaalt de bemiddelaar na overleg met de verplicht ingeschreven werkzoekende de specifieke fysieke locatie.<br>
+<br>
+De bemiddelaar en de verplicht ingeschreven werkzoekende kunnen over de acties die in onderling overleg zijn overgekomen een afsprakenblad opmaken.
 
 ### ART. 111/9.
 
-Als de bemiddelaar tijdens het opvolgingsgesprek, vermeld in artikel   111/6, vaststelt dat de verplicht ingeschreven werkzoekende onvoldoende   inspanningen heeft geleverd om zich te integreren op de arbeidsmarkt, dan maken   de bemiddelaar en de verplicht ingeschreven werkzoekende tijdens het   opvolgingsgesprek in onderling overleg een afsprakenblad op, rekening houdend   met de persoonlijke situatie en competenties van de verplicht ingeschreven   werkzoekende en de criteria van de passende dienstbetrekking.<BR><BR>Het   afsprakenblad wordt opgesteld in twee exemplaren, gedateerd en ondertekend door   de bemiddelaar en de verplicht ingeschreven werkzoekende. Een exemplaar wordt   aan de verplicht ingeschreven werkzoekende overhandigd. Door de ondertekening   verbindt de verplicht ingeschreven werkzoekende zich ertoe de afspraken uit te   voeren tijdens de afgesproken periode. De bemiddelaar brengt de verplicht   ingeschreven werkzoekende tevens op de hoogte van de beoordeling van zijn   inspanningen om zich te integreren op de arbeidsmarkt uiterlijk veertien dagen   na het gesprek.
+§ 1. Als de bemiddelaar tijdens het opvolgingsgesprek op een fysieke locatie als vermeld in artikel 111/6, vaststelt dat het werkzoekgedrag van de verplicht ingeschreven werkzoekende onvoldoende is, brengt de bemiddelaar de verplicht ingeschreven werkzoekende van die beoordeling op de hoogte tijdens het opvolgingsgesprek. Ook maken de bemiddelaar en de verplicht ingeschreven werkzoekende tijdens het opvolgingsgesprek in onderling overleg een formeel afsprakenblad op, rekening houdend met de persoonlijke situatie en competenties van de verplicht ingeschreven werkzoekende en de criteria van de passende dienstbetrekking.<br>
+<br>
+Het formeel afsprakenblad, vermeld in het eerste lid, wordt gedateerd en ondertekend door de bemiddelaar en de verplicht ingeschreven werkzoekende. De verplicht ingeschreven werkzoekende ontvangt een exemplaar van het formeel afsprakenblad. Door het formeel afsprakenblad te ondertekenen verbindt de verplicht ingeschreven werkzoekende zich ertoe om voldoende werkzoekgedrag te vertonen en in het bijzonder om de afspraken uit te voeren tijdens de afgesproken periode.<br>
+<br>
+§ 2. Als de bemiddelaar in afwijking van paragraaf 1, op basis van andere informatie dan de informatie die hij heeft verkregen tijdens een opvolgingsgesprek op een fysieke locatie, vermoedt dat het werkzoekgedrag van de verplicht ingeschreven werkzoekende onvoldoende is, nodigt de bemiddelaar de verplicht ingeschreven werkzoekende conform artikel 111/6 uit voor een opvolgingsgesprek op een fysieke locatie om het werkzoekgedrag van de verplicht ingeschreven werkzoekende te beoordelen.
 
 ### ART. 111/10.
 
-Op het tijdstip dat afgesproken is in het afsprakenblad, vermeld in   artikel 111/9, vindt opnieuw een opvolgingsgesprek plaats. Tijdens dat   opvolgingsgesprek beoordeelt de bemiddelaar de naleving door de verplicht   ingeschreven werkzoekende van de afspraken die zijn opgenomen in het   afsprakenblad en de inspanningen die hij heeft geleverd om zich te integreren op   de arbeidsmarkt. De verplicht ingeschreven werkzoekende moet aanwezig zijn op   het opvolgingsgesprek.
+Op het tijdstip dat afgesproken is in het formeel afsprakenblad, vermeld in artikel 111/9, § 1, artikel 111/11, § 2, eerste lid, of artikel 111/14, § 1, tweede lid, vindt opnieuw een opvolgingsgesprek op een fysieke locatie plaats waarop de verplicht ingeschreven werkzoekende aanwezig moet zijn. Als de verplicht ingeschreven werkzoekende aanwezig is, beoordeelt de bemiddelaar het werkzoekgedrag van de verplicht ingeschreven werkzoekende.<br>
+<br>
+Als de verplicht ingeschreven werkzoekende afwezig is op het opvolgingsgesprek, vermeld in het eerste lid, nodigt de bemiddelaar de werkzoekende opnieuw uit voor een opvolgingsgesprek op een fysieke locatie conform artikel 111/6. Als de verplicht ingeschreven werkzoekende dan wel aanwezig is, beoordeelt de bemiddelaar het werkzoekgedrag van de verplicht ingeschreven werkzoekende tot op de dag van dat opvolgingsgesprek en in het bijzonder de naleving van de afspraken die opgenomen zijn in het formeel afsprakenblad.<br>
+<br>
+Als het dossier van de verplicht ingeschreven werkzoekende wordt overgemaakt met toepassing van artikel 111/6, beoordeelt de controledienst de afwezigheden van de verplicht ingeschreven werkzoekende.
 
 ### ART. 111/11.
 
-§ 1. Als de bemiddelaar vaststelt dat de verplicht ingeschreven   werkzoekende de afspraken die hij in het afsprakenblad, vermeld in artikel   111/9, is aangegaan, heeft nageleefd en voldoende inspanningen heeft geleverd om   zich te integreren op de arbeidsmarkt, brengt hij de verplicht ingeschreven   werkzoekende op de hoogte van die beoordeling uiterlijk veertien dagen na het   opvolgingsgesprek. De verplicht ingeschreven werkzoekende wordt er ook van op de   hoogte gebracht dat hij zijn inspanningen om zich te integreren op de   arbeidsmarkt moet voortzetten en dat hij voor een nieuw opvolgingsgesprek zal   worden uitgenodigd.<BR><BR>Tijdens hetzelfde opvolgingsgesprek maken de   bemiddelaar en de verplicht ingeschreven werkzoekende in onderling overleg een   nieuw afsprakenblad op, rekening houdend met de persoonlijke situatie en   competenties van de verplicht ingeschreven werkzoekende en met de criteria van   de passende dienstbetrekking.<BR><BR>§ 2. Als het afsprakenblad, vermeld in   paragraaf 1, tweede lid, ter ondertekening wordt voorgelegd aan de verplicht   ingeschreven werkzoekende in toepassing van artikel 111/9, ondertekenen hij en   de bemiddelaar het afsprakenblad. De verplicht ingeschreven werkzoekende   verbindt zich ertoe de afspraken uit te voeren die van hem verwacht worden   tijdens de afgesproken periode. Het afsprakenblad wordt opgesteld in twee   exemplaren, gedateerd, waarvan een exemplaar aan de verplicht ingeschreven   werkzoekende wordt overhandigd.<BR><BR>Ook als het afsprakenblad, vermeld in   paragraaf 1, tweede lid, niet ter ondertekening wordt voorgelegd aan de   verplicht ingeschreven werkzoekende, in toepassing van artikel 111/6, verbindt   hij zich ertoe de afspraken uit te voeren die van hem verwacht worden tijdens de   afgesproken periode.
+§ 1. Als de bemiddelaar tijdens het opvolgingsgesprek, vermeld in artikel 111/10, oordeelt dat het werkzoekgedrag van de verplicht ingeschreven werkzoekende voldoende is, brengt hij de verplicht ingeschreven werkzoekende op de hoogte van die beoordeling tijdens het opvolgingsgesprek. De verplicht ingeschreven werkzoekende wordt er ook van op de hoogte gebracht dat hij zijn werkzoekgedrag moet voortzetten en dat hij voor een nieuw opvolgingsgesprek zal worden uitgenodigd.<br>
+<br>
+Tijdens het voormelde opvolgingsgesprek maken de bemiddelaar en de verplicht ingeschreven werkzoekende in onderling overleg een afsprakenblad op, rekening houdend met de persoonlijke situatie en competenties van de verplicht ingeschreven werkzoekende en met de criteria van de passende dienstbetrekking.<br>
+<br>
+§ 2. Als het afsprakenblad, vermeld in paragraaf 1, tweede lid, ter ondertekening wordt voorgelegd aan de verplicht ingeschreven werkzoekende met toepassing van artikel 111/9, ondertekenen hij en de bemiddelaar het formeel afsprakenblad. Door het formeel afsprakenblad te ondertekenen verbindt de verplicht ingeschreven werkzoekende zich ertoe om voldoende werkzoekgedrag te vertonen en in het bijzonder om de afspraken uit te voeren tijdens de afgesproken periode. Het formeel afsprakenblad wordt gedateerd. De verplicht ingeschreven werkzoekende ontvangt een exemplaar.<br>
+<br>
+Ook als het afsprakenblad, vermeld in paragraaf 1, tweede lid, niet ter ondertekening wordt voorgelegd aan de verplicht ingeschreven werkzoekende met toepassing van artikel 111/6, verbindt hij zich ertoe om zijn werkzoekgedrag voort te zetten en in het bijzonder om de afspraken uit te voeren tijdens de afgesproken periode.
 
 ### ART. 111/12.
 
-Als de bemiddelaar vaststelt dat de verplicht ingeschreven werkzoekende de   afspraken die hij in het afsprakenblad, vermeld in artikel 111/9, is aangegaan,   niet heeft nageleefd, en onvoldoende inspanningen heeft geleverd om zich te   integreren op de arbeidsmarkt, brengt hij de verplicht ingeschreven werkzoekende   op de hoogte van die beoordeling tijdens het opvolgingsgesprek.<BR><BR>Tijdens   hetzelfde opvolgingsgesprek bepaalt de bemiddelaar de afspraken die worden   opgenomen op een ultiem afsprakenblad, rekening houdend met de persoonlijke   situatie en competenties van de verplicht ingeschreven werkzoekende en de   criteria van de passende dienstbetrekking. De verplicht ingeschreven   werkzoekende verbindt zich ertoe de afspraken uit te voeren tijdens de volgende   maand.<BR><BR>Het ultieme afsprakenblad wordt opgesteld in twee exemplaren,   gedateerd en ondertekend door de bemiddelaar en de verplicht ingeschreven   werkzoekende. Een exemplaar wordt aan de verplicht ingeschreven werkzoekende   overhandigd. Door de ondertekening verbindt de verplicht ingeschreven   werkzoekende zich tot de uitvoering van de afspraken tijdens de afgesproken   periode. Dit ultieme afsprakenblad wordt beschouwd als een formele verwittiging   in het kader van de controle op de beschikbaarheid voor de arbeidsmarkt van de   verplicht ingeschreven werkzoekende.
+Als de bemiddelaar tijdens het opvolgingsgesprek, vermeld in artikel 111/10, oordeelt dat het werkzoekgedrag van de verplicht ingeschreven werkzoekende onvoldoende is, brengt hij de verplicht ingeschreven werkzoekende op de hoogte van die beoordeling tijdens het opvolgingsgesprek.<br>
+<br>
+Tijdens het voormelde opvolgingsgesprek bepaalt de bemiddelaar de afspraken die worden opgenomen op een ultiem afsprakenblad, rekening houdend met de persoonlijke situatie en de competenties van de verplicht ingeschreven werkzoekende en de criteria van de passende dienstbetrekking. De verplicht ingeschreven werkzoekende verbindt zich ertoe de afspraken uit te voeren tijdens de volgende maand.<br>
+<br>
+Het ultiem afsprakenblad wordt gedateerd en ondertekend door de bemiddelaar en de verplicht ingeschreven werkzoekende. De verplicht ingeschreven werkzoekende ontvangt een exemplaar van het ultieme afsprakenblad. Door het ultieme afsprakenblad te ondertekenen verbindt de verplicht ingeschreven werkzoekende zich ertoe om voldoende werkzoekgedrag te vertonen en in het bijzonder om de afspraken uit te voeren tijdens de afgesproken periode. Het ultieme afsprakenblad wordt beschouwd als een formele verwittiging in het kader van de controle op de beschikbaarheid voor de arbeidsmarkt van de verplicht ingeschreven werkzoekende.
 
 ### ART. 111/13.
 
-Op het tijdstip dat afgesproken is in het ultieme afsprakenblad, vermeld   in artikel 111/12, vindt een nieuw opvolgingsgesprek plaats. Tijdens dat   opvolgingsgesprek beoordeelt de bemiddelaar de naleving door de verplicht   ingeschreven werkzoekende van de afspraken die zijn opgenomen in het ultieme   afsprakenblad.<BR><BR>Als de verplicht ingeschreven werkzoekende niet ingaat op   de uitnodiging voor het opvolgingsgesprek, wordt zijn dossier bezorgd aan de   controledienst.
+Op het tijdstip dat afgesproken is in het ultieme afsprakenblad, vermeld in artikel 111/12, vindt een nieuw opvolgingsgesprek op een fysieke locatie plaats. Als de verplicht ingeschreven werkzoekende aanwezig is, beoordeelt de bemiddelaar het werkzoekgedrag van de verplicht ingeschreven werkzoekende, in het bijzonder de naleving door de verplicht ingeschreven werkzoekende van de afspraken die zijn opgenomen in het ultieme afsprakenblad.<br>
+<br>
+Als de verplicht ingeschreven werkzoekende afwezig is op het opvolgingsgesprek, vermeld in het eerste lid, wordt zijn dossier bezorgd aan de controledienst, ongeacht de reden van zijn afwezigheid. De controledienst beoordeelt het werkzoekgedrag van de verplicht ingeschreven werkzoekende, in het bijzonder de naleving door de verplicht ingeschreven werkzoekende van de afspraken die zijn opgenomen in het ultieme afsprakenblad.
 
 ### ART. 111/14.
 
-Als de bemiddelaar vaststelt dat de verplicht ingeschreven werkzoekende de   afspraken die hij in het ultieme afsprakenblad is aangegaan, heeft nageleefd,   brengt hij de verplicht ingeschreven werkzoekende op de hoogte van die positieve   beoordeling uiterlijk veertien dagen na het opvolgingsgesprek.<BR><BR>De   verplicht ingeschreven werkzoekende wordt er ook van op de hoogte gebracht dat   hij zijn inspanningen om zich te integreren op de arbeidsmarkt moet voortzetten   en dat hij voor een nieuw opvolgingsgesprek zal worden   uitgenodigd.<BR><BR>Tijdens hetzelfde opvolgingsgesprek maken de bemiddelaar en   de verplicht ingeschreven werkzoekende in onderling overleg een aangepast   afsprakenblad op, rekening houdend met de persoonlijke situatie van de verplicht   ingeschreven werkzoekende en de criteria van de passende   dienstbetrekking.<BR><BR>Als het afsprakenblad, vermeld in het derde lid, ter   ondertekening aan de verplicht ingeschreven werkzoekende wordt voorgelegd, in   toepassing van artikel 111/9, ondertekenen hij en de bemiddelaar het   afsprakenblad. De verplicht ingeschreven werkzoekende verbindt zich ertoe de   afspraken uit te voeren die van hem verwacht worden tijdens de afgesproken   periode. Het afsprakenblad wordt opgesteld in twee gedateerde exemplaren,   waarvan een exemplaar wordt overhandigd aan de verplicht ingeschreven   werkzoekende.<BR><BR>Ook als het afsprakenblad, vermeld in het derde lid, niet   ter ondertekening wordt voorgelegd aan de verplicht ingeschreven werkzoekende,   in toepassing van artikel 111/6, verbindt hij zich ertoe de afspraken uit te   voeren die van hem verwacht worden tijdens de afgesproken periode.
+§ 1. Als de bemiddelaar tijdens het opvolgingsgesprek, vermeld in artikel 111/13, eerste lid, vaststelt dat het werkzoekgedrag van de verplicht ingeschreven werkzoekende voldoende is, brengt hij de verplicht ingeschreven werkzoekende op de hoogte van die positieve beoordeling tijdens het opvolgingsgesprek. De verplicht ingeschreven werkzoekende wordt er ook van op de hoogte gebracht dat hij zijn werkzoekgedrag moet voortzetten en dat hij voor een nieuw opvolgingsgesprek zal worden uitgenodigd. Tijdens het voormelde opvolgingsgesprek maken de bemiddelaar en de verplicht ingeschreven werkzoekende in onderling overleg een afsprakenblad op, rekening houdend met de persoonlijke situatie van de verplicht ingeschreven werkzoekende, de competenties van de verplicht ingeschreven werkzoekende en de criteria van de passende dienstbetrekking.<br>
+<br>
+Als het afsprakenblad, vermeld in het eerste lid, ter ondertekening aan de verplicht ingeschreven werkzoekende wordt voorgelegd met toepassing van artikel 111/9, ondertekenen hij en de bemiddelaar het formeel afsprakenblad. Door de ondertekening verbindt de verplicht ingeschreven werkzoekende zich ertoe om voldoende werkzoekgedrag te vertonen en in het bijzonder om de afspraken uit te voeren tijdens de afgesproken periode. Het formeel afsprakenblad wordt gedateerd. De verplicht ingeschreven werkzoekende ontvangt een exemplaar.<br>
+<br>
+Ook als het afsprakenblad, vermeld in het eerste lid, niet ter ondertekening wordt voorgelegd aan de verplicht ingeschreven werkzoekende met toepassing van artikel 111/6, verbindt hij zich ertoe om zijn werkzoekgedrag voort te zetten en in het bijzonder om de afspraken uit te voeren tijdens de afgesproken periode.
 
 ### ART. 111/15.
 
-Als de bemiddelaar vaststelt dat de verplicht ingeschreven werkzoekende de   afspraken die hij in het ultieme afsprakenblad is aangegaan, niet heeft   nageleefd, brengt hij de verplicht ingeschreven werkzoekende, uiterlijk veertien   dagen na het opvolgingsgesprek, op de hoogte van die negatieve beoordeling en   bezorgt hij zijn dossier aan de controledienst.
+Als de bemiddelaar tijdens het opvolgingsgesprek, vermeld in artikel 111/13, eerste lid, vaststelt dat het werkzoekgedrag van de verplicht ingeschreven werkzoekende onvoldoende is, brengt hij de verplicht ingeschreven werkzoekende van die beoordeling op de hoogte tijdens het opvolgingsgesprek en bezorgt hij het dossier van de verplicht ingeschreven werkzoekende aan de controledienst.
 
 ### ART. 111/16.
 
-Met behoud van de toepassing van artikel 111/6, 111/13 en 111/15 bezorgt de bemiddelaar een dossier aan de controledienst als:<br>
-1° de verplicht ingeschreven werkzoekende weigert een trajectovereenkomst, afsprakenblad of ultiem afsprakenblad te ondertekenen als hem dat ter ondertekening wordt voorgelegd;<br>
+De bemiddelaar bezorgt een dossier aan de controledienst als:<br>
+1° de verplicht ingeschreven werkzoekende weigert een trajectovereenkomst, formeel afsprakenblad of ultiem afsprakenblad te ondertekenen als hem dat ter ondertekening wordt voorgelegd;<br>
 2° de verplicht ingeschreven werkzoekende zich niet aanmeldt bij een werkgever en daarvoor geen geldige reden heeft, nadat hij daarvoor van de VDAB een opdracht heeft ontvangen;<br>
 3° de verplicht ingeschreven werkzoekende weigert een passende dienstbetrekking of een passend aanbod te aanvaarden;<br>
 4° door toedoen van de verplicht ingeschreven werkzoekende een begeleidingsplan, competentieversterking of opleidingscontract mislukt of wordt stopgezet.<br>
@@ -1098,7 +1220,7 @@ De verplicht ingeschreven werkzoekende die zich op een medische reden beroept om
 
 ### ART. 111/17.
 
-Als de briefwisseling van de VDAB naar de verblijfplaats van de verplicht   ingeschreven werkzoekende terugkeert naar de VDAB, en de VDAB alle redelijke   pogingen heeft ondernomen om de verplicht ingeschreven werkzoekende te bereiken,   wordt het dossier van de verplicht ingeschreven werkzoekende bezorgd aan de   controledienst.<BR><BR>Als de controledienst vaststelt dat de uitnodigingen voor   het opvolgingsgesprek zijn verzonden naar de verblijfplaats van de verplicht   ingeschreven werkzoekende, gaat die onmiddellijk over tot schorsing van het   recht op een uitkering tot de verplicht ingeschreven werkzoekende zich opnieuw   inschrijft bij de VDAB.
+...
 
 ## [Afdeling 3. De controledienst en het verhoor (ing. BVR 18 december 2015, art. 21, I: 1 januari 2016)]
 
@@ -1116,31 +1238,52 @@ De controledienst kan ook, als de bemiddelaar daarom verzoekt, een   niet-binden
 
 ### ART. 111/21.
 
-§ 1. Het verhoor, vermeld in artikel 111/19, vindt op zijn vroegst plaats de eenentwintigste dag na de verzending van de uitnodiging, tenzij anders is overeengekomen. De uitnodiging wordt verstuurd met een brief die de reden, de dag, het uur en de plaats van het verhoor vermeldt, alsook de mogelijkheid om niet te verschijnen maar schriftelijk verweermiddelen naar voren te brengen. De controledienst brengt de verplicht ingeschreven werkzoekende op de hoogte van zijn rechten en plichten en bezorgt hem de informatie bedoeld in artikel 111/22, § 2, 2° en 3°.<br>
+§ 1. Het verhoor, vermeld in artikel 111/19, vindt op zijn vroegst plaats de eenentwintigste dag na de verzending van de uitnodiging, tenzij anders is overeengekomen tussen de verplicht ingeschreven werkzoekende en de controledienst. De uitnodiging wordt verstuurd met een brief die de reden, de dag, het uur en de plaats van het verhoor vermeldt, en ook de mogelijkheid om niet te verschijnen, maar schriftelijk verweermiddelen naar voren te brengen. De controledienst brengt de verplicht ingeschreven werkzoekende op de hoogte van zijn rechten en plichten en bezorgt hem de informatie, vermeld in artikel 111/22, § 2, eerste lid, 2° en 3°. Het verhoor kan uitgesteld worden conform paragraaf 2, maar vindt uiterlijk plaats zes maanden nadat de controledienst het dossier heeft ontvangen. Als het een laatste uitnodiging voor verhoor betreft, vermeldt de uitnodiging dat.<br>
 <br>
 Als de verplicht ingeschreven werkzoekende wil gebruikmaken van het schriftelijke verweer, moet de bevoegde regionale afdeling van de controledienst, behoudens in geval van overmacht, dat verweer ontvangen uiterlijk de werkdag die voorafgaat aan de werkdag waarop de verplicht ingeschreven werkzoekende voor het verhoor is uitgenodigd.<br>
 <br>
-Schriftelijk verweer is niet mogelijk als de reden waarom het dossier bezorgd is aan de controledienst, betrekking heeft op het niet-uitvoeren van de afspraken die opgenomen zijn in het afsprakenblad, het ultieme afsprakenblad of de trajectovereenkomst.<br>
-<br>
-§ 2. Als de verplicht ingeschreven werkzoekende de dag waarvoor hij uitgenodigd is, verhinderd is, mag hij vragen dat het verhoor verdaagd wordt tot een datum die niet later mag vallen dan zeven dagen na de datum die eerst was vastgesteld. Behalve in geval van overmacht wordt het uitstel slechts eenmaal verleend. De bevoegde regionale afdeling van de controledienst moet, behoudens in geval van overmacht, het verzoek tot uitstel uiterlijk ontvangen de zevende dag nadat de uitnodiging verzonden is.<br>
+§ 2. Als de verplicht ingeschreven werkzoekende de dag waarop hij uitgenodigd is, verhinderd is, kan hij met een gemotiveerd verzoek vragen dat het verhoor verdaagd wordt. De controledienst beslist over dat verzoek en legt in voorkomend geval een nieuwe datum voor het verhoor vast. Behalve in geval van overmacht wordt het uitstel maar één keer verleend. De bevoegde regionale afdeling van de controledienst moet, behoudens in geval van overmacht, het verzoek tot uitstel uiterlijk ontvangen de zevende dag nadat de uitnodiging verzonden is.<br>
 <br>
 § 3. De verplicht ingeschreven werkzoekende heeft de mogelijkheid om zich op het verhoor te laten bijstaan door een persoon naar keuze of om zich te laten vertegenwoordigen door een advocaat, een afgevaardigde van een werknemersorganisatie of zijn voorlopige bewindvoerder.<br>
 <br>
-§ 4. Als de verplicht ingeschreven werkzoekende niet aanwezig is op het verhoor, noch in persoon noch door vertegenwoordiging, of geen schriftelijk verweer indient en als hij geen uitstel van het verhoor heeft aangevraagd, neemt de controledienst een beslissing bij verstek.
+§ 4. Als de verplicht ingeschreven werkzoekende niet aanwezig is op het verhoor, noch in persoon noch door vertegenwoordiging, of geen schriftelijk verweer indient en als hij geen uitstel van het verhoor heeft gekregen, neemt de controledienst een beslissing bij verstek.
 
 ### ART. 111/22.
 
-§ 1. De controledienst beslist over de schorsing, vermindering of   uitsluiting van het recht op werkloosheids- of inschakelingsuitkeringen. De   controledienst kan ook een verwittiging geven.<BR><BR>§ 2. De controledienst   houdt, voor zover die informatie ter beschikking is uiterlijk op het moment van   het verhoor, rekening met:<BR>1° de informatie, afkomstig van de verplicht   ingeschreven werkzoekende;<BR>2° de informatie, afkomstig van de bemiddelaar.   Hieronder vallen het dossier dat de bemiddelaar heeft bezorgd aan de   controledienst, de beoordelingen en de evaluaties die de bemiddelaar heeft   opgemaakt conform afdeling 2;<BR>3° de informatie, afkomstig van   partnerorganisaties;<BR>4° de beslissingen die zijn genomen binnen een periode   van twaalf maanden vóór de controledienst een beslissing heeft genomen;<BR>5° de   informatie, afkomstig van de RVA, met inbegrip van de door RVA of de diensten   van de andere gewesten bevoegd voor de controle op de beschikbaarheid opgelegde   sancties, als die sancties zijn opgelegd binnen de periode van vierentwintig   maanden vóór de controledienst een beslissing heeft genomen.<BR><BR>De   controledienst heeft het recht om alle relevante informatie op te vragen ter   verduidelijking van de dossiers die hem worden bezorgd, zowel bij   VDAB-medewerkers als bij partnerorganisaties en overheidsinstellingen die   relevante informatie over de dossiers kunnen bezitten. Bij een vermoeden van het   gebruik van vervalste stukken zal de controledienst de RVA hiervan op de hoogte   stellen.
+§ 1. De controledienst beslist over de schorsing, vermindering of uitsluiting van het recht op werkloosheids- of inschakelingsuitkeringen. De controledienst kan ook een verwittiging geven.<br>
+<br>
+§ 2. De controledienst houdt, voor zover die informatie ter beschikking is uiterlijk op het moment van het verhoor, rekening met:<br>
+1° de informatie, afkomstig van de verplicht ingeschreven werkzoekende;<br>
+2° de informatie, afkomstig van de bemiddelaar. Hieronder vallen het dossier dat de bemiddelaar heeft bezorgd aan de controledienst, de beoordelingen en de evaluaties die de bemiddelaar heeft opgemaakt conform afdeling 2;<br>
+3° de informatie, afkomstig van partnerorganisaties;<br>
+4° voor wat betreft de toepassing van artikel 52bis, § 2, tweede lid, van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering, de beslissingen die zijn genomen binnen een periode van twaalf maanden vóór de controledienst een beslissing heeft genomen;<br>
+5° voor wat betreft de toepassing van artikel 58/9, § 4, van het voormelde koninklijk besluit, de informatie die van de RVA komt, met inbegrip van sancties die de RVA of de diensten van de andere gewesten die bevoegd zijn voor de controle op de beschikbaarheid, hebben opgelegd, als die sancties zijn opgelegd binnen de periode van vierentwintig maanden vóór de controledienst een beslissing heeft genomen.<br>
+<br>
+De controledienst heeft het recht om alle relevante informatie op te vragen ter verduidelijking van de dossiers die hem worden bezorgd, bij elke persoon of organisatie die relevante informatie over de dossiers kunnen bezitten. Bij een vermoeden van het gebruik van vervalste stukken zal de controledienst de RVA hiervan op de hoogte stellen.<br>
+<br>
+§ 3. De controledienst onderwerpt de verplicht ingeschreven werkzoekende aan een medisch onderzoek als vermeld in artikel 111/7, § 3. Uiterlijk op de datum die is vastgelegd voor het verhoor, werpt de verplicht ingeschreven werkzoekende zijn ongeschiktheid op.
 
 ### ART. 111/23.
 
-§ 1. De gemotiveerde beslissing van de controledienst wordt schriftelijk   meegedeeld aan de verplicht ingeschreven werkzoekende binnen veertien   kalenderdagen na het verhoor. Als de beslissing invloed heeft op het recht op   uitkeringen, wordt ze meegedeeld aan de RVA ter uitvoering.<BR><BR>De   gemotiveerde beslissing die bezorgd wordt aan de werkzoekende, vermeldt onder   meer de beroepsmogelijkheid, de bevoegde rechtbank, de termijn waarin en de   wijze waarop het beroep moet worden ingesteld.<BR><BR>§ 2. Als een beroep bij de   arbeidsrechtbank wordt ingesteld tegen een beslissing van de controledienst,   brengt de VDAB de RVA daarvan op de hoogte.
+§ 1. De beslissing van de controledienst wordt schriftelijk meegedeeld aan de verplicht ingeschreven werkzoekende binnen veertien kalenderdagen na de geplande datum van het verhoor. De voormelde termijn wordt opgeschort voor de duur van eventuele onderzoeks- of opsporingshandelingen van de controledienst. In voorkomend geval wordt de verplicht ingeschreven werkzoekende geïnformeerd over de opschorting. Als de beslissing invloed heeft op het recht op uitkeringen, wordt ze meegedeeld aan de RVA ter uitvoering.<br>
+<br>
+De gemotiveerde beslissing die bezorgd wordt aan de werkzoekende, vermeldt onder meer de beroepsmogelijkheid, de bevoegde rechtbank, de termijn waarin en de wijze waarop het beroep moet worden ingesteld.<br>
+<br>
+§ 2. Als een beroep bij de arbeidsrechtbank wordt ingesteld tegen een beslissing van de controledienst, brengt de VDAB de RVA daarvan op de hoogte.
 
 ## [Afdeling 4. Herzieningsprocedure (ing. BVR 18 december 2015, art. 21, I: 1 januari 2016)]
 
 ### ART. 111/24.
 
-Met behoud van de toepassing van de wettelijke en reglementaire bepalingen   over verjaring kan de controledienst zijn beslissing herzien binnen de termijn   voor het instellen van een beroep bij het bevoegde rechtscollege of, als het   beroep al is ingesteld, tot de sluiting van de debatten als:<BR>1° vastgesteld   wordt dat de beslissing van de controledienst is aangetast door een juridische   of materiële vergissing;<BR>2° op de datum waarop de beslissing is ingegaan, het   recht door een wettelijke of reglementaire bepaling is gewijzigd;<BR>3° een   nieuw feit of nieuw bewijsmateriaal dat een weerslag heeft op de rechten van de   verzoeker, ingeroepen wordt;<BR>4° vastgesteld wordt dat de beslissing van de   controledienst is aangetast doordat de verplicht ingeschreven werkzoekende   onjuiste of onvolledige verklaringen heeft afgelegd, een vereiste aangifte niet   heeft gedaan of te laat heeft gedaan, onjuiste of vervalste stukken heeft   voorgelegd of onregelmatigheden heeft begaan.<BR><BR>De nieuwe beslissing heeft   uitwerking op de datum waarop de verbeterde beslissing had moeten ingaan, met   behoud van de toepassing van de wettelijke en reglementaire bepalingen over   verjaring. Die beslissing wordt aan de RVA meegedeeld.
+Met behoud van de toepassing van de wettelijke en reglementaire bepalingen over verjaring kan de controledienst zijn beslissing herzien binnen de termijn voor het instellen van een beroep bij het bevoegde rechtscollege of, als het beroep al is ingesteld, tot de sluiting van de debatten als:<br>
+1° vastgesteld wordt dat de beslissing van de controledienst is aangetast door een juridische of materiële vergissing;<br>
+2° op de datum waarop de beslissing is ingegaan, het recht door een wettelijke of reglementaire bepaling is gewijzigd;<br>
+3° een nieuw feit of nieuw bewijsmateriaal dat een weerslag heeft op de rechten van de verzoeker, ingeroepen wordt;<br>
+4° vastgesteld wordt dat de beslissing van de controledienst is aangetast doordat de verplicht ingeschreven werkzoekende onjuiste of onvolledige verklaringen heeft afgelegd, een vereiste aangifte niet heeft gedaan of te laat heeft gedaan, onjuiste of vervalste stukken heeft voorgelegd of onregelmatigheden heeft begaan.<br>
+<br>
+Bij een juridische of materiële vergissing door VDAB kan de controledienst in afwijking van het eerste lid, 1°, zijn beslissing herzien binnen de wettelijke en reglementaire verjaringstermijnen.<br>
+<br>
+De nieuwe beslissing heeft uitwerking op de datum waarop de verbeterde beslissing had moeten ingaan, met behoud van de toepassing van de wettelijke en reglementaire bepalingen over verjaring. Die beslissing wordt aan de RVA meegedeeld.
 
 ### ART. 111/25.
 
@@ -1156,11 +1299,26 @@ Het dossier van de verplicht ingeschreven werkzoekende wordt bezorgd aan   de co
 
 ### ART. 111/27.
 
-§ 1. In deze afdeling wordt onder jonge verplicht ingeschreven   werkzoekende verstaan de verplicht ingeschreven werkzoekende die is ingeschreven   met het oog op het verkrijgen van inschakelingsuitkeringen en die voldoet aan de   voorwaarden inzake leeftijd en studies, vermeld in artikel 36 van het koninklijk   besluit van 25 november 1991 houdende de werkloosheidsreglementering.<BR><BR>§   2. Bij zijn eerste inschrijving als werkzoekende in het kader van de   beroepsinschakelingstijd wordt de jonge verplicht ingeschreven werkzoekende er   schriftelijk van op de hoogte gebracht:<BR>1° dat hij zich moet integreren op de   arbeidsmarkt, enerzijds door actief een betrekking te zoeken tijdens zijn   werkloosheid en anderzijds door mee te werken aan de acties en afspraken die hem   door de VDAB worden voorgesteld;<BR>2° dat in de loop van de zesde en elfde   maand van de beroepsinschakelingstijd, zijn werkzoekgedrag door de VDAB   beoordeeld zal worden;<BR>3° dat hij op het einde van de   beroepsinschakelingstijd toegelaten kan worden tot het recht op   inschakelingsuitkeringen als hij voldoet aan de voorwaarden, vermeld in deze   afdeling en aan de vereisten gesteld in het voormelde koninklijk besluit van 25   november 1991.<BR><BR>De jonge verplicht ingeschreven werkzoekende wordt ook op   de hoogte gebracht van het verdere verloop van de opvolgingsprocedure van het   actieve werkzoekgedrag en van de eventuele gevolgen.<BR><BR>§ 3. De jonge   verplicht ingeschreven werkzoekende wordt uitgenodigd voor een gesprek bij een   bemiddelaar in de loop van de zesde en elfde maand van zijn   beroepsinschakelingstijd met het oog op de beoordeling van zijn   werkzoekgedrag.<BR><BR>§ 4. In afwijking van paragraaf 3 zal de VDAB geen   uitnodiging sturen naar de jonge verplicht ingeschreven werkzoekende die over   een geldige reden beschikt waardoor hij niet beschikbaar is voor een   gesprek.<BR><BR>Een nieuwe uitnodiging wordt op zijn vroegst gestuurd als de   gebeurtenis die een geldige reden is als vermeld in het eerste lid, is   afgelopen.<BR><BR>§ 5. Er zal ook geen uitnodiging gestuurd worden naar de jonge   verplicht ingeschreven werkzoekende als de bemiddelaar op basis van het dossier   over genoeg elementen beschikt die tot een positieve beoordeling   leiden.
+§ 1. In deze afdeling wordt onder jonge verplicht ingeschreven werkzoekende verstaan de verplicht ingeschreven werkzoekende die is ingeschreven met het oog op het verkrijgen van inschakelingsuitkeringen en die voldoet aan de voorwaarden inzake leeftijd en studies, vermeld in artikel 36 van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering.<br>
+<br>
+§ 2. Bij zijn eerste inschrijving als werkzoekende in het kader van de beroepsinschakelingstijd wordt de jonge verplicht ingeschreven werkzoekende er schriftelijk van op de hoogte gebracht:<br>
+1° dat hij zelf voldoende werkzoekgedrag moet vertonen door zich te integreren op de arbeidsmarkt, enerzijds door actief een betrekking te zoeken tijdens zijn werkloosheid en anderzijds door mee te werken aan de acties en afspraken die hem door de VDAB worden voorgesteld;<br>
+2° dat in de loop van de zesde en elfde maand van de beroepsinschakelingstijd, zijn werkzoekgedrag door de VDAB beoordeeld zal worden;<br>
+3° dat hij op het einde van de beroepsinschakelingstijd toegelaten kan worden tot het recht op inschakelingsuitkeringen als hij voldoet aan de voorwaarden, vermeld in deze afdeling en aan de vereisten gesteld in het voormelde koninklijk besluit van 25 november 1991.<br>
+<br>
+De jonge verplicht ingeschreven werkzoekende wordt ook op de hoogte gebracht van het verdere verloop van de opvolgingsprocedure van het werkzoekgedrag en van de eventuele gevolgen.<br>
+<br>
+§ 3. De jonge verplicht ingeschreven werkzoekende wordt uitgenodigd voor een gesprek op een fysieke locatie bij een bemiddelaar in de loop van de zesde en elfde maand van zijn beroepsinschakelingstijd met het oog op de beoordeling van zijn werkzoekgedrag.<br>
+<br>
+§ 4. In afwijking van paragraaf 3 zal de VDAB geen uitnodiging sturen naar de jonge verplicht ingeschreven werkzoekende die over een geldige reden beschikt waardoor hij niet beschikbaar is voor een gesprek.<br>
+<br>
+Een nieuwe uitnodiging wordt op zijn vroegst gestuurd als de gebeurtenis die een geldige reden is als vermeld in het eerste lid, is afgelopen.<br>
+<br>
+§ 5. Er zal ook geen uitnodiging gestuurd worden naar de jonge verplicht ingeschreven werkzoekende als de bemiddelaar op basis van het dossier over genoeg elementen beschikt die tot een positieve beoordeling leiden.
 
 ### ART. 111/28.
 
-De jonge verplicht ingeschreven werkzoekende moet aanwezig zijn op de   gesprekken, vermeld in artikel 111/27. Als de jonge verplicht ingeschreven   werkzoekende zich niet aanmeldt op die gesprekken, wordt hem een nieuwe   aangetekende uitnodiging gestuurd. Als hij niet ingaat op de nieuwe aangetekende   uitnodiging, wordt zijn dossier bezorgd aan de controledienst.
+De jonge verplicht ingeschreven werkzoekende moet aanwezig zijn op de gesprekken, vermeld in artikel 111/27. Als de jonge verplicht ingeschreven werkzoekende zich niet aanmeldt op die gesprekken, krijgt hij een nieuwe aangetekende uitnodiging voor een gesprek op een fysieke locatie. Als hij niet ingaat op de nieuwe aangetekende uitnodiging, wordt zijn dossier bezorgd aan de controledienst.
 
 ### ART. 111/29.
 
@@ -1189,20 +1347,20 @@ De inlichtingen, vermeld in het eerste lid, worden tijdens het gesprek aan de jo
 <br>
 De jonge verplicht ingeschreven werkzoekende wordt er verder van op de hoogte gebracht dat het recht op inschakelingsuitkeringen kan worden geopend als hij een tweede al dan niet opeenvolgende positieve beoordeling van zijn werkzoekgedrag krijgt, op voorwaarde dat hij voldoet aan de andere voorwaarden, vermeld in het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering.<br>
 <br>
-§ 4. Als de bemiddelaar geen positieve beoordeling geeft, bezorgt hij het dossier aan de controledienst, samen met zijn advies. De controledienst geeft het dossier een positieve of negatieve beoordeling. Als de jonge verplicht ingeschreven werkzoekende dat wil, kan hij gehoord worden bij de controledienst over de beoordeling van zijn werkzoekgedrag.<br>
+§ 4. Als de bemiddelaar geen positieve beoordeling geeft, bezorgt hij het dossier aan de controledienst, samen met zijn advies. De controledienst beoordeelt de ontvankelijkheid van de dossiers die aan hem worden bezorgd. Als het dossier ontvankelijk is, wordt de jonge verplicht ingeschreven werkzoekende uitgenodigd om gehoord te worden over de feiten die aan de grondslag liggen van de reden waarom het dossier is doorgestuurd naar de controledienst, en over zijn verweermiddelen.<br>
 <br>
-Het verhoor vindt op zijn vroegst plaats de eenentwintigste dag na de verzending van de uitnodiging, tenzij anders is overeengekomen. De uitnodiging wordt verstuurd met een brief die de reden, de dag, het uur en de plaats van het verhoor vermeldt. De controledienst brengt de jonge verplicht ingeschreven werkzoekende op de hoogte van zijn rechten en plichten.<br>
+Het verhoor vindt op zijn vroegst plaats de eenentwintigste dag na de verzending van de uitnodiging, tenzij anders is overeengekomen tussen de jonge verplicht ingeschreven werkzoekende en de controledienst. De uitnodiging wordt verstuurd met een brief die de reden, de dag, het uur en de plaats van het verhoor vermeldt. De controledienst brengt de jonge verplicht ingeschreven werkzoekende op de hoogte van zijn rechten en plichten. Het verhoor kan uitgesteld worden conform het derde lid, maar vindt uiterlijk plaats zes maanden nadat de controledienst het dossier heeft ontvangen. Als het een laatste uitnodiging voor verhoor betreft, vermeldt de uitnodiging dat.<br>
 <br>
-Als de jonge verplicht ingeschreven werkzoekende de dag waarvoor hij uitgenodigd is, verhinderd is, mag hij vragen dat het verhoor verdaagd wordt tot een datum die, behoudens in geval van overmacht, niet later mag vallen dan&nbsp;zeven dagen na de datum die eerst was vastgesteld. Behalve in geval van overmacht wordt het uitstel slechts eenmaal verleend. De controledienst moet het verzoek tot uitstel uiterlijk ontvangen binnen zeven dagen nadat de uitnodiging verzonden is, behoudens in geval van overmacht.<br>
+Als de jonge verplicht ingeschreven werkzoekende de dag waarop hij uitgenodigd is, verhinderd is, kan hij met een gemotiveerd verzoek vragen dat het verhoor verdaagd wordt. De controledienst beslist over dat verzoek en legt in voorkomend geval een nieuwe datum voor het verhoor vast. Behalve in geval van overmacht wordt het uitstel maar één keer verleend. De controledienst moet het verzoek tot uitstel uiterlijk ontvangen binnen zeven dagen nadat de uitnodiging verzonden is, behoudens in geval van overmacht.<br>
 <br>
-De jonge verplicht ingeschreven werkzoekende heeft de mogelijkheid om zich op het verhoor te laten bijstaan door een persoon naar keuze of om zich te laten vertegenwoordigen door een advocaat, een afgevaardigde van een werknemersorganisatie of zijn voorlopige bewindvoerder. Als de verplicht ingeschreven werkzoekende niet aanwezig is op het verhoor, noch in persoon noch door vertegenwoordiging, en hij geen uitstel van het verhoor heeft aangevraagd, neemt de controledienst een beslissing bij verstek.<br>
+De jonge verplicht ingeschreven werkzoekende heeft de mogelijkheid om zich op het verhoor te laten bijstaan door een persoon naar keuze of om zich te laten vertegenwoordigen door een advocaat, een afgevaardigde van een werknemersorganisatie of zijn voorlopige bewindvoerder. Als de jonge verplicht ingeschreven werkzoekende niet aanwezig is op het verhoor, noch in persoon, noch door vertegenwoordiging, en hij geen uitstel van het verhoor heeft gekregen, neemt de controledienst een beslissing bij verstek.<br>
 <br>
-§ 5. De controledienst zal een negatieve beoordeling uitspreken als:<br>
+§ 5. De controledienst geeft het dossier een positieve of negatieve beoordeling. De controledienst kan een negatieve beoordeling uitspreken als:<br>
 1° de jonge verplicht ingeschreven werkzoekende niet ingaat op de uitnodiging, vermeld in artikel 111/28;<br>
 2° de jonge verplicht ingeschreven werkzoekende niet aanwezig is, noch in persoon noch door vertegenwoordiging, op het verhoor, vermeld in paragraaf 4;<br>
 3° de jonge verplicht ingeschreven werkzoekende tijdens het verhoor niet kan aantonen dat hij zich voldoende integreert op de arbeidsmarkt.<br>
 <br>
-§ 6. In geval van een negatieve beoordeling brengt de VDAB uiterlijk veertien dagen na het gesprek de jonge verplicht ingeschreven werkzoekende daarvan op de hoogte.<br>
+§ 6. De beslissing van de controledienst wordt schriftelijk meegedeeld aan de jonge verplicht ingeschreven werkzoekende binnen veertien kalenderdagen na de geplande datum van het verhoor. De voormelde termijn wordt opgeschort tijdens de duurtijd van eventuele verdere onderzoeks- of opsporingshandelingen van de controledienst. In voorkomend geval wordt de jonge verplicht ingeschreven werkzoekende geïnformeerd over de opschorting. De gemotiveerde beslissing die bezorgd wordt aan de jonge verplicht ingeschreven werkzoekende, vermeldt onder meer de beroepsmogelijkheid, de bevoegde rechtbank, de termijn waarin en de wijze waarop beroep kan worden ingesteld.<br>
 <br>
 Als het gaat om het gesprek tijdens de zesde maand van de beroepsinschakelingstijd, wordt de jonge verplicht ingeschreven werkzoekende er ook van op de hoogte gebracht dat hij opgeroepen zal worden voor een nieuw gesprek in de loop van de elfde maand van de beroepsinschakelingstijd.<br>
 <br>
