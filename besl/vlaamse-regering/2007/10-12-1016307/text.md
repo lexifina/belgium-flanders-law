@@ -150,30 +150,6 @@ Frequentieband IIIDigitaal RRC06-allotmentfrequentieplan in de frequentiebanden 
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Provincie Oost-Vlaanderen</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>53</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Provincie Vlaams-Brabant</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>53</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Provincie Antwerpen</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>59</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>[… <em>(vernietigd arrest RvSt, nr. 218.637 van 27 maart 2012)</em>]</p>
 			</td>
 			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">&nbsp;</td>
@@ -183,7 +159,7 @@ Frequentieband IIIDigitaal RRC06-allotmentfrequentieplan in de frequentiebanden 
 			<p>Provincie West-Vlaanderen</p>
 			</td>
 			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>39</p>
+			<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 39</p>
 			</td>
 		</tr>
 		<tr>
@@ -232,14 +208,6 @@ Frequentieband IIIDigitaal RRC06-allotmentfrequentieplan in de frequentiebanden 
 			</td>
 			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>23</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
-			<p>Provincie West-Vlaanderen</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
-			<p>49</p>
 			</td>
 		</tr>
 		<tr>
