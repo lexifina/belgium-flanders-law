@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037276,
+  "title": "Besluit van de Vlaamse Regering van 2022-05-13 over haltes en halte-infrastructuur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037276/VolledigDocument?datum=2022-07-30",
+  "source_sha256": "9d44d154513727ec80eeee54571a66a1e2ab48ae58236d1d3402d5155d6a9cd6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037276&param=informatie",
+  "as_of": "2022-07-30",
+  "made": "2022-05-13",
+  "gazette": "2022-07-20",
+  "numac": 2022041467,
+  "document_start": "2022-07-30",
+  "document_end": null,
+  "in_force": "2022-07-30",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2022-07-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
