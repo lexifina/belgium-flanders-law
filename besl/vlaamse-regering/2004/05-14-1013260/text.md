@@ -92,37 +92,37 @@ De VVM is belast met de plaatsing en het onderhoud van de verkeerslichten, verke
 
 ### ART. 20.
 
-§ 1. De haltes van de VVM worden op een verkeersveilige plaats ingeplant.<br />Die looproutes zijn zo kort mogelijk en zijn vrij van obstakels.<br /><br />Als er een halte wordt heringericht met een perron of als er een nieuwe halte met een perron wordt aangelegd, wordt dat perron toegankelijk gemaakt door middel van één of meer toegangshellingen of door middel van een lift.<br /><br />§ 2. De minister kan nadere regels vastleggen met betrekking tot de inplanting en de aanleg van de haltes.
+...
 
 ### ART. 21.
 
-Op de halteborden wordt de haltenaam in letters van ten minste 4 cm hoog weergegeven.
+...
 
 ## ONDERAFDELING 2 HALTES MET SCHUILHUISJE
 
 ### ART. 22.
 
-Artikelen 20 en 21 zijn eveneens van toepassing op de haltes met schuilhuisje.
+...
 
 ### ART. 23.
 
-Er wordt minstens in de woonzones en langs primaire en secundaire wegen aan elke halte een schuilhuisje opgericht, tenzij dat wegens andere reglementeringen of fysieke omstandigheden onmogelijk is, of als het aantal opstappende reizigers aan de halte verwaarloosbaar klein is.
+...
 
 ### ART. 24.
 
-§ 1. Het schuilhuisje biedt aan de reizigers voldoende wachtcomfort, veiligheid en bescherming tegen weersinvloeden. In het schuilhuisje wordt een zitbank geplaatst en er wordt voldoende ruimte voor reiziger-sinformatie vrijgemaakt. Naast het schuilhuisje wordt een vuilnisbak geplaatst.<br /><br />Elk schuilhuisje is voldoende verlicht tijdens de bedieningstijden tussen zonsondergang en zonsopgang. De verlichting wordt in het schuilhuisje ingebouwd en wordt zo geplaatst dat de reizigersinformatie maximaal wordt verlicht.<br /><br />§ 2. De wachtende reizigers moeten vanuit het schuilhuisje een volledig zicht hebben op de aankomende voertuigen van geregeld vervoer.<br /><br />Er mag reclame op het schuilhuisje worden aangebracht voorzover de reizigersinformatie leesbaar blijft en het zicht op de aankomende voertuigen van geregeld vervoer niet wordt verminderd.
+...
 
 ### ART. 25.
 
-Op elk schuilhuisje wordt de naam van de halte in letters van ten minste 7 cm hoog vermeld op een voor de reizigers goed zichtbare plaats.
+...
 
 ### ART. 26.
 
-De gemeente vraagt de nodige vergunningen of toelatingen aan de domeinbeheerder voor het plaat-sen van de schuilhuisjes, inclusief de extra voorzieningen.
+...
 
 ### ART. 27.
 
-§ 1. De gemeente kan via een overheidsopdracht de oprichting en het onderhoud van de schuil-huisjes, inclusief de extra voorzieningen, toevertrouwen aan derden.<br /><br />De gemeente meldt de VVM binnen veertien dagen na de toewijzing de naam en het adres van de firma of de instantie waaraan ze de opdracht heeft toegewezen.<br /><br />§ 2. Als de gemeente de oprichting en het onderhoud van schuilhuisjes, inclusief de extra voorzieningen, niet toevertrouwt aan derden, plaatst ze schuilhuisjes waarvan het model vooraf bepaald of goedgekeurd wordt door de VVM.<br /><br />Voor de schuilhuisjes van een standaardtype van de VVM, worden de kosten voor de oprichting en de eventuele herstellingen voor één vierde door de gemeente en voor drie vierde door de VVM gedragen. Voor schuilhuisjes van een ander type dan de standaardtypes van de VVM, worden de kosten voor de oprichting en de eventuele herstellingen door de VVM gesubsidieerd naar rata van de subsidie voor schuilhuisjes van het grootste standaardtype van de VVM.<br /><br />De kosten voor de extra voorzieningen worden voor één vierde door de gemeente en voor drie vierde door de VVM gedragen als de standaardtypes van de VVM worden genomen. Voor andere types dan de standaardtypes van de VVM, wordt de subsidie van de VVM aan de gemeente beperkt tot de subsidie voor het vergelijkbare standaardtype.<br /><br />De kosten voor het reinigen van de schuilhuisjes zijn ten laste van de gemeente.<br /><br />De VVM sluit met de betrokken gemeente een overeenkomst af voor een periode van ten hoogste tien jaar.<br /><br />Op deze schuilhuisjes mag er geen reclame voor derden worden aangebracht.
+...
 
 ## AFDELING 4 INFORMATIEVERLENING
 
@@ -134,11 +134,11 @@ De gemeente vraagt de nodige vergunningen of toelatingen aan de domeinbeheerder 
 
 ### ART. 29.
 
-De VVM afficheert de tabel met de dienstregeling aan de haltes. De tabel moet in alle omstan-digheden leesbaar zijn. De letterhoogte is ten minste 0,4 cm.<br /><br />Behalve in het geval van vraagafhankelijk geregeld vervoer, vermeldt de tabel met de dienstregeling aan de halte:<br /><br />1° de doortochttijden van de voertuigen aan de halte in kwestie;<br /><br />2° de gemiddelde rittijd tot de hoofdhaltes op de reisweg, op een lijnschema.<br /><br />Als er geen doortochttabel wordt gebruikt, worden de doortochttijden aan de halte in kwestie in de tabel met de dienstregeling gemarkeerd.
+...
 
 ### ART. 30.
 
-Aan een halte met schuilhuisje wordt door de VVM in het schuilhuisje minstens één van de net-plannen, bedoeld in artikel 12, § 5 tot en met § 7, van het besluit basismobiliteit geafficheerd:<br /><br />1° netplan van het vervoersgebied;<br /><br />2° netplan van het stedelijk gebied of het grootstedelijk gebied;<br /><br />3° netplan van het bedieningsgebied van vraagafhankelijk geregeld vervoer.<br /><br />Waar mogelijk wordt de tabel met de dienstregeling van de lijnen in kwestie door de VVM geafficheerd in het schuilhuisje.
+...
 
 ### ART. 31.
 
@@ -148,7 +148,7 @@ Aan een halte met schuilhuisje wordt door de VVM in het schuilhuisje minstens é
 
 ### ART. 32.
 
-In de stedelijke gebieden plaatst de VVM een elektronisch aankondigingsbord aan de belangrijkste hoofdhalte.<br /><br />De elektronische aankondigingsborden aan de belangrijkste hoofdhaltes in de grootstedelijke gebieden en de stedelijke gebieden geven minstens het theoretische vertrekuur, het perron en de eventuele vertraging aan.
+...
 
 ### ART. 33.
 
@@ -282,7 +282,7 @@ De bestuurder van een voertuig van de VVM en de personen vermeld in artikel 84, 
 
 ### ART. 62.
 
-De bestuurder moet aan elke halte stoppen die door de lijn in kwestie wordt bediend en waar zich een reiziger bevindt, tenzij de reiziger te kennen geeft dat hij niet wil meerijden.
+...
 
 ### ART. 63.
 
