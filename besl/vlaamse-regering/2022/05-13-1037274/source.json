@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037274,
+  "title": "Besluit van de Vlaamse Regering van 2022-05-13 ter uitvoering van het decreet van 26 april 2019 betreffende de basisbereikbaarheid, wat betreft de mobiliteitsmonitoring en de voortgangsrapportage",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037274/VolledigDocument?datum=2022-07-30",
+  "source_sha256": "7ad2a163a2fe76939534d90ea94fb744e084026a4c3c37f618c2329c91a2310f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037274&param=informatie",
+  "as_of": "2022-07-30",
+  "made": "2022-05-13",
+  "gazette": "2022-07-20",
+  "numac": 2022020944,
+  "document_start": "2022-07-30",
+  "document_end": null,
+  "in_force": "2022-07-30",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2022-07-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
