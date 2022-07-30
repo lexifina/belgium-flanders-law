@@ -106,7 +106,8 @@ De maatregelen vermeld in artikel 3, tweede lid, van het decreet van 29 maart, h
 30° projectuitvoeringen in het kader van Europees Fonds voor Asiel, Migratie en Integratie;<br>
 31° de opleidingen, die georganiseerd zijn in het kader van de opleidingscheques, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 17 mei 2019 betreffende de opleidingscheques voor werknemers;<br>
 32° de opleiding, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 3 mei 2019 tot regeling van de VDAB-opleiding tot verzorgende en zorgkundige;<br>
-33° de deelname aan arbeidsmatige activiteiten in de sociale economie, vermeld in hoofdstuk 3/1 van het besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten.<br>
+33° de deelname aan arbeidsmatige activiteiten in de sociale economie, vermeld in hoofdstuk 3/1 van het besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten;<br>
+34° de instroomopleiding Havenarbeider, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 28 april 2017 tot bepaling van de kwaliteitscriteria voor de instroomopleiding Havenarbeider.<br>
 &nbsp;
 
 ## HOOFDSTUK 3. Kwaliteitsvoorwaarden
