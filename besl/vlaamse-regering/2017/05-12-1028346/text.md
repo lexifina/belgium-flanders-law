@@ -339,7 +339,7 @@ De volgende regelingen worden opgeheven:<br>
 
 ### ART 34.
 
-Het decreet van 7 juli 2006 houdende toekenning van een rentetoelage voor ondernemingen die lijden onder de verstoorde bereikbaarheid ten gevolge van hinder door openbare werken, de wet van 3 december 2005 betreffende de uitkering van een inkomenscompensatievergoeding aan zelfstandigen die het slachtoffer zijn van hinder ten gevolge van werken op het openbaar domein en de uitvoeringsbesluiten ervan blijven van toepassing op aanvragen waarvan de openbare werken gestart zijn vóór 1 juli 2017.<br>
+Het decreet van 7 juli 2006 houdende toekenning van een rentetoelage voor ondernemingen die lijden onder de verstoorde bereikbaarheid ten gevolge van hinder door openbare werken, de wet van 3 december 2005 betreffende de uitkering van een inkomenscompensatievergoeding aan zelfstandigen die het slachtoffer zijn van hinder ten gevolge van werken op het openbaar domein en de uitvoeringsbesluiten ervan blijven van toepassing op aanvragen die ingediend zijn vóór 1 augustus 2022 en waarvan de openbare werken gestart zijn vóór 1 juli 2017.<br>
 <br>
 Het decreet van 15 juli 2016 en de uitvoeringsbesluiten ervan zijn van toepassing op de aanvragen inzake openbare werken die concreet gepland zijn vanaf 1 juli 2017.
 
