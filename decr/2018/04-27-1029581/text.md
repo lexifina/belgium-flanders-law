@@ -345,7 +345,7 @@ Als de al dan niet gelijkmatig verdeelde huisvesting van het rechtgevende kind n
 <br>
 Als het rechtgevende kind is geplaatst door bemiddeling of ten laste van een openbare overheid in een pleeggezin, wordt het kind voor de berekening van de toeslag en de gezinsgrootte, vermeld in het tweede lid, in het pleeggezin volledig meegeteld.<br>
 <br>
-Als het rechtgevende kind is geplaatst door bemiddeling of ten laste van een openbare overheid in een instelling, wordt het kind voor de berekening van de toeslag en de gezinsgrootte, vermeld in het tweede lid, in het gezin waar het verbleef voorafgaand aan de plaatsing, volledig meegeteld. In toepassing van artikel 68, § 3, wordt het kind daarentegen niet meegeteld in het gezin waar het verbleef voorafgaand aan de plaatsing.<br>
+Als het rechtgevende kind materiële ondersteuning krijgt als vermeld in artikel 68, § 2/1, wordt het kind voor de berekening van de toeslag en de gezinsgrootte, vermeld in het tweede lid, in het gezin waar het verbleef voorafgaand aan de plaatsing, volledig meegeteld. In toepassing van artikel 68, § 3, wordt het kind daarentegen niet meegeteld in het gezin waar het verbleef voorafgaand aan de plaatsing.<br>
 <br>
 De Vlaamse Regering bepaalt met welke inkomsten van welke personen rekening wordt gehouden om de gezinsinkomsten, vermeld in het eerste lid, vast te stellen. Ze bepaalt de periode waarin de sociale toeslag wordt toegekend, en ze kan de gezinsgrootte nader bepalen. De Vlaamse Regering stelt ook een alarmbelprocedure vast voor de onmiddellijke aanpassing van het recht op sociale toeslag.
 
@@ -929,9 +929,20 @@ Een afwijking van het voorgaande lid is mogelijk nadat de bevoegde rechtbank een
 
 ### ART 68.
 
-§ 1. Als een rechtgevend kind door bemiddeling of ten laste van een openbare overheid in een instelling wordt geplaatst, wordt de uitbetaling van de gezinsbijslagen, vermeld in deel 1 van boek 2, met uitzondering van het startbedrag geboorte en het startbedrag adoptie, verdeeld tussen de instelling en de begunstigden.<br>
+§ 1. Als een rechtgevend kind door bemiddeling of ten laste van een openbare overheid in een instelling wordt geplaatst, wordt de uitbetaling van de gezinsbijslagen, vermeld in deel 1 van boek 2, met uitzondering van het startbedrag geboorte , het startbedrag adoptie en de pleegzorgtoeslag, verdeeld tussen de instelling en de begunstigden.<br>
 <br>
 § 2. De Vlaamse Regering bepaalt de toekennings- en verdelingsregels, vermeld in paragraaf 1, van de uitbetaling van de toelagen in het kader van het gezinsbeleid, vermeld in paragraaf 1, tussen de instelling en de begunstigden. De Vlaamse Regering kan hiertoe ook de overheid aanduiden aan wie het deel van de toelage bestemd voor de instelling dient te worden toegekend.<br>
+<br>
+§ 2/1. Als een rechtgevend kind materiële ondersteuning krijgt, wordt, in afwijking van paragraaf 1 en 2, vanaf 1 augustus 2022 een derde van de gezinsbijslagen, vermeld in deel 1, met uitzondering van het startbedrag geboorte, het startbedrag adoptie en de pleegzorgtoeslag, uitbetaald aan de begunstigden.<br>
+<br>
+In het eerste lid wordt verstaan onder een rechtgevend kind dat materiële ondersteuning krijgt:<br>
+1° een kind dat opvang in een opvangstructuur krijgt als vermeld in artikel 2, 10°, van de wet van 12 januari 2007 betreffende de opvang van asielzoekers en van bepaalde andere categorieën van vreemdelingen;<br>
+2° een kind dat medische begeleiding krijgt als vermeld in de voormelde wet;<br>
+3° een kind dat in een instelling is geplaatst door bemiddeling of ten laste van een openbare overheid.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de uitbetaling van de toelagen in het kader van het gezinsbeleid vermeld in het eerste lid.<br>
+<br>
+In afwijking van het eerste lid blijven de toekennings- en verdelingsregels, ver- meld in paragraaf 1 en paragraaf 2, gelden tot en met 30 juni 2027 voor de kinderen vermeld in het tweede lid, 3°.<br>
 <br>
 § 3. Iedere belanghebbende, waaronder ook de instelling, de begunstigden en de bijslagtrekkende worden begrepen, die niet akkoord gaat met de bestemmingsregels tot aanwijzing van de begunstigden, kan de bevoegde rechtbank om een afwijking in het belang van het kind verzoeken. De bevoegde rechtbank kan in het belang van het kind oordelen dat de gehele gezinsbijslag die toekomt aan de begunstigde of een deel ervan wordt uitbetaald op een rekeningnummer dat op naam van het rechtgevende kind staat. De meest gerede partij bezorgt de gerechtelijke uitspraak aan de uitbetalingsactor.
 
@@ -2369,7 +2380,7 @@ Een rechtgevend kind als vermeld in artikel 8, § 2, eerste lid, 4°, heeft rech
 
 ### ART 225.
 
-§ 1. De bijslagtrekkende voor het rechtgevende kind op 31 december 2018 blijft de bijslagtrekkende voor dat kind, tenzij een wijziging in het ouderlijk gezag of in de opvoedingssituatie van het kind zich voordoet. In dat geval worden de bepalingen voor de aanwijzing van de begunstigden en de regels van de uitbetaling overeenkomstig boek 2, deel 4, titel 1, hoofdstuk 1, en boek 2, deel 4, titel 2, hoofdstuk 1, toegepast. De bepalingen van boek 2, deel 4, titel 2, hoofdstuk 3, zijn van toepassing zowel op de bijslagtrekkende als de begunstigde.<br>
+§ 1. De bijslagtrekkende voor het rechtgevende kind op 31 december 2018 blijft de bijslagtrekkende voor dat kind, tenzij een wijziging in het ouderlijk gezag of in de opvoedingssituatie van het kind zich voordoet. In dat geval worden de bepalingen voor de aanwijzing van de begunstigden en de regels van de uitbetaling overeenkomstig boek 2, deel 4, titel 1, hoofdstuk 1, en boek 2, deel 4, titel 2, hoofdstuk 1, toegepast. De bepalingen van artikel 68 en artikel 75 tot en met 78, zijn van toepassing zowel op de bijslagtrekkende als de begunstigde.<br>
 <br>
 De wijziging in het ouderlijk gezag wordt vastgesteld door de bevoegde rechtbank.<br>
 <br>
@@ -2387,13 +2398,7 @@ In afwijking van het eerste lid kan een bijslagtrekkende niet vragen om de bepal
 
 ### ART 226.
 
-§ 1. Als een rechtgevend kind dat recht geeft op kinderbijslag als vermeld in artikel 210, § 1, of op kinderbijslag voor wezen als vermeld in titel 2, op 31 december 2018 door bemiddeling of ten laste van een openbare overheid geplaatst is in een instelling, blijft voor het aan de instelling toegekende bedrag dat vastgesteld is op 31 december 2018, de wijze van uitbetaling en verdeling behouden, zoals die op 31 december 2018 van toepassing was overeenkomstig de verdeelsleutels, vastgesteld overeenkomstig artikel 70 of artikel 70bis van de Algemene kinderbijslagwet.<br>
-<br>
-Een afwijking kan in het belang van het kind door de bevoegde rechtbank toegestaan worden mits naleving van de regels die nader bepaald kunnen worden door de Vlaamse Regering.<br>
-<br>
-§ 2. Als zich vanaf of na 1 januari 2019 voor het rechtgevende kind, vermeld in paragraaf 1, een wijziging in de plaatsing voordoet, wordt de uitbetaalde toelage verdeeld tussen de instelling en de bijslagtrekkende of begunstigden voor het kind dat geplaatst is overeenkomstig de bepalingen van artikel 68.<br>
-<br>
-§ 3. In afwijking van paragraaf 1, als met toepassing van artikel 210, § 5, tweede lid, een rechtgevend kind dat tot het gezin van het geplaatste kind behoort, vanaf of na 1 januari 2019 niet langer recht geeft op kinderbijslag of het gezin van zijn bijslagtrekkende of begunstigden verlaat, of als er, met toepassing van artikel 210, § 5, derde lid, een nieuw rechtgevend kind, dat voldoet aan artikel 210, § 1, vanaf of na 1 januari 2019 in het gezin van het geplaatste kind bij komt, wordt de uitbetaalde toelage voor het geplaatste kind vanaf of na 1 januari 2019 verdeeld tussen de instelling en de bijslagtrekkende of begunstigden, overeenkomstig de bepalingen van artikel 68.
+...
 
 ## Titel 6. Keuze van de uitbetalingsactor
 
