@@ -196,7 +196,8 @@ Wordt beschouwd als student met eigen leefeenheid, de student die niet behoort t
 8° de student die zelf een asielprocedure heeft lopen, zoals bedoeld in artikel 69 van het decreet van 8 juni 2007;<br>
 9° de persoon zoals bedoeld in artikel 9, § 2, 6° van het decreet van 8 juni 2007;<br>
 10° de persoon zoals bedoeld in artikel 9, § 2, 7° van het decreet van 8 juni 2007;<br>
-11° de persoon zoals bedoeld in artikel 9, § 2, 8° van het decreet van 8 juni 2007.
+11° de persoon zoals bedoeld in artikel 9, § 2, 8° van het decreet van 8 juni 2007;<br>
+12° de persoon, vermeld in artikel 9, § 2, 9° van het decreet van 8 juni 2007.
 
 ## Onderafdeling 5. Slotbepalingen
 
@@ -243,6 +244,7 @@ Van het in aanmerking te nemen jaar, vermeld in artikel 11, § 1, van dit beslui
 1° aan een van de personen op wiens inkomen de toelage wordt berekend, wordt pas in de loop van of na het in aanmerking te nemen jaar, vermeld in artikel 11, § 1, van dit besluit, een van de volgende verblijfstitels verleend:<br>
 a) slachtoffer van mensenhandel, geattesteerd door een door de federale overheid erkend centrum dat gespecialiseerd is in het onthaal van slachtoffers van mensenhandel;<br>
 b) persoon met een buitenlandse nationaliteit die toegelaten is tot een verblijf van bepaalde duur in België conform artikel 49, § 1, of artikel 49/2, § 1, van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
+c) personen als vermeld in artikel 9, § 2, 9° van het decreet van 8 juni 2007.<br>
 2° het referentie-inkomen van een van de personen waarop de toelage wordt berekend, kan niet bepaald worden aan de hand van de door de Federale Overheidsdienst Financiën nageziene inkomsten, vermeld in artikel 11, § 1, van dit besluit, of door een buitenlandse belastingdienst.<br>
 <br>
 In dat geval wordt rekening gehouden met het referentie-inkomen van het eerste kalenderjaar dat volgt op het jaar waarin de verblijfstitel is verkregen.<br>
