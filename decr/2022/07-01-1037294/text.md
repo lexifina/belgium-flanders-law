@@ -53,6 +53,18 @@ In artikel 57, § 3, van hetzelfde decreet worden de volgende wijzigingen aangeb
 2° het tweede en derde lid worden opgeheven;<br>
 3° aan het bestaande vierde lid, dat het tweede lid wordt, wordt de zinsnede ", met behoud van toepassing van artikel 9, § 1, van titel XIII, hoofdstuk VI, van de Programmawet (I) van 24 december 2002" toegevoegd.
 
+### ART 12.
+
+In artikel 68 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 worden de woorden "en het startbedrag adoptie" vervangen door de zinsnede ", het startbedrag adoptie en de pleegzorgtoeslag";<br>
+2° er wordt een paragraaf 2/1 ingevoegd, die luidt als volgt:<br>
+§ 2/1. Als een rechtgevend kind materiële ondersteuning krijgt, wordt, in afwijking van paragraaf 1 en 2, vanaf 1 juli 2022 een derde van de gezinsbijslagen, vermeld in deel 1, met uitzondering van het startbedrag geboorte, het startbedrag adoptie en de pleegzorgtoeslag, uitbetaald aan de begunstigden.<br>
+In het eerste lid wordt verstaan onder een rechtgevend kind dat materiële ondersteuning krijgt:<br>
+1° een kind dat opvang in een opvangstructuur krijgt als vermeld in artikel 2, 10°, van de wet van 12 januari 2007 betreffende de opvang van asielzoekers en van bepaalde andere categorieën van vreemdelingen;<br>
+2° een kind dat medische begeleiding krijgt als vermeld in de voormelde wet;<br>
+3° een kind dat in een instelling is geplaatst door bemiddeling of ten laste van een openbare overheid.<br>
+De Vlaamse Regering kan nadere regels bepalen voor de uitbetaling van de toelagen in het kader van het gezinsbeleid vermeld in het eerste lid.".
+
 ### ART 14.
 
 In artikel 95 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
@@ -98,4 +110,16 @@ In geval van toepassing van het eerste lid geven de rechtgevende kinderen in het
 <br>
 § 3. De rechtgevende kinderen, vermeld in paragraaf 2, geven wel recht op de gezinsbijslagen conform paragraaf 1 als een van de weeskinderen in kwestie niet langer recht geeft op gezinsbijslagen binnen het gezin van de begunstigde.".
 
+### ART 21.
+
+In artikel 225, § 1, eerste lid, van hetzelfde decreet wordt de zinsnede "boek 2, deel 4, titel 2, hoofdstuk 3" vervangen door de zinsnede "artikel 68 en artikel 75 tot en met 78".
+
+### ART 22.
+
+Artikel 226 van hetzelfde decreet, gewijzigd bij het decreet van 22 maart 2019, wordt opgeheven.
+
 ## HOOFDSTUK 4. Slotbepalingen
+
+### ART 23.
+
+De Vlaamse Regering kan de verdelingsregels ten aanzien van de instellingen, zoals deze golden voor de inwerkingtreding van artikel 12 van dit decreet, tot uiterlijk 31 december 2024 verder toepassen op de instellingen die ze daarvoor aanwijst.
