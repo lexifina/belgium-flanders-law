@@ -119,7 +119,7 @@ In de situaties, vermeld in het eerste en het tweede lid, informeert het agentsc
 
 ### ART 8.
 
-De gezinsbijslagen, vermeld in boek 2, deel 1, van het Groeipakketdecreet van 2018, verschuldigd voor een rechtgevend kind dat door bemiddeling of ten laste van een openbare overheid in een instelling is geplaatst, worden voor twee derde aan die instelling en voor één derde aan de begunstigden betaald.<br>
+De gezinsbijslagen, vermeld in boek 2, deel 1, van het Groeipakketdecreet van 2018, verschuldigd voor een rechtgevend kind dat door bemiddeling of ten laste van een openbare overheid in een instelling is geplaatst als vermeld in artikel 68, §1, van het Groeipakketdecreet van 2018, worden voor twee derde aan die instelling en voor één derde aan de begunstigden betaald.<br>
 <br>
 Als een rechtgevend kind ten laste van het het agentschap Opgroeien regie wordt geplaatst, wordt, in afwijking van het eerste lid, twee derde van de gezinsbijslagen aan het Fonds Jongerenwelzijn uitbetaald.<br>
 <br>
