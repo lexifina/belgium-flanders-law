@@ -2,16 +2,16 @@
   "codex_id": 1022550,
   "title": "Besluit van de Vlaamse Regering van 2012-11-16 betreffende het verlenen van investeringssubsidies voor culturele infrastructuur met bovenlokaal belang",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022550/VolledigDocument?datum=2021-04-12",
-  "source_sha256": "5572e2e4fa782371240bf39660c7c15dc5ddcf164659fe97ef3dc47917010678",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022550/VolledigDocument?datum=2022-08-04",
+  "source_sha256": "2f0c60db79e0996825563b0bcefb6a2933e7ebe80c1ec688333afcd2f3b07c1e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022550&param=informatie",
-  "as_of": "2021-04-12",
+  "as_of": "2022-08-04",
   "made": "2012-11-16",
   "gazette": "2012-12-19",
   "numac": 2012036249,
   "document_start": "2012-12-19",
   "document_end": "2023-11-26",
-  "in_force": "2021-04-12",
+  "in_force": "2022-08-04",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2021-04-12; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-08-04; future article versions excluded; article text as the API gives it"
 }
