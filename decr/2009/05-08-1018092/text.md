@@ -807,9 +807,9 @@ De VREG neemt passende maatregelen opdat de betrokkene overeenkomstig artikel 12
 
 ### ART. 4.1.1.
 
-De VREG wijst, voor een aaneensluitend geografisch afgebakend gebied, een rechtspersoon aan die belast is met het beheer van het elektriciteits- en het aardgasdistributienet in dat gebied.<br>
+De VREG wijst, voor een aaneensluitend geografisch afgebakend gebied met minstens 200.000 aangesloten afnemers, een rechtspersoon aan die belast is met het beheer van het elektriciteits- en het aardgasdistributienet in dat gebied.<br>
 <br>
-In afwijking van het eerste lid wordt voor de beoordeling of een netbeheerder over een geografisch aaneensluitend afgebakend gebied beschikt echter geen rekening gehouden met het grondgebied van de gemeente Voeren en het grondgebied van de gemeente Baarle-Hertog dat volledig omgeven is door Nederlands grondgebied.<br>
+In afwijking van het eerste lid wordt voor de beoordeling of een netbeheerder over een geografisch aaneensluitend afgebakend gebied met minstens 200.000 aangesloten afnemers beschikt echter geen rekening gehouden met het grondgebied van de gemeente Voeren en het grondgebied van de gemeente Baarle-Hertog dat volledig omgeven is door Nederlands grondgebied.<br>
 <br>
 In afwijking van het eerste lid kan de VREG, voor het grondgebied van de gemeente Baarle-Hertog dat volledig omgeven is door Nederlands grondgebied en als daarvoor een technische of financiële noodzaak bestaat, een verschillende elektriciteitsdistributienetbeheerder en aardgasdistributienetbeheerder aanstellen.<br>
 <br>
@@ -1395,7 +1395,7 @@ De VREG kan, na overleg, de netbeheerder verplichten om het investeringsplan bin
 <br>
 Het goedgekeurde investeringsplan wordt op de website van de netbeheerder bekendgemaakt.<br>
 <br>
-§ 4. Het opstellen en indienen van een investeringsplan is niet vereist voor de distributienetbeheerder die minder dan 100.000 aangesloten afnemers bedient, of die kleinschalige netten voor de distributie van elektriciteit of aardgas bedient.
+§ 4. Het opstellen en indienen van een investeringsplan is niet vereist voor de distributienetbeheerder die kleinschalige netten voor de distributie van aardgas bedient op het grondgebied van de gemeente Baarle-Hertog dat volledig omgeven is door Nederlands grondgebied.
 
 ## Afdeling VIII. Openbaredienstverplichtingen opgelegd aan de netbeheerder
 
