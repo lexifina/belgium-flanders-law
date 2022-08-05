@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037286,
+  "title": "Decreet van 2022-07-15 tot wijziging van het Energiedecreet van 8 mei 2009, wat de voorwaarden voor de aanwijzing van distributienetbeheerders betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037286/VolledigDocument?datum=2022-08-05",
+  "source_sha256": "33f2e661cf78b7b1a1dde917a27a557fa59f068573f1be9ec559142de6c575b6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037286&param=informatie",
+  "as_of": "2022-08-05",
+  "made": "2022-07-15",
+  "gazette": "2022-07-26",
+  "numac": 2022032817,
+  "document_start": "2022-08-05",
+  "document_end": null,
+  "in_force": "2022-08-05",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-08-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
