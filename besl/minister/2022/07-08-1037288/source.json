@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037288,
+  "title": "Ministerieel besluit van 2022-07-08 tot instelling van een openbaar onderzoek in het kader van de onteigening ten algemenen nutte van onroerende goederen gelegen op het grondgebied van de gemeente Zonhoven",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037288/VolledigDocument?datum=2022-08-06",
+  "source_sha256": "cdb8b6790ff8057e9200679730aabc38a094b09830602ba9cf5d233a810bbd68",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037288&param=informatie",
+  "as_of": "2022-08-06",
+  "made": "2022-07-08",
+  "gazette": "2022-07-27",
+  "numac": 2022032820,
+  "document_start": "2022-08-06",
+  "document_end": null,
+  "in_force": "2022-08-06",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2022-08-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
