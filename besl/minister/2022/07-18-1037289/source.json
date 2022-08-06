@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037289,
+  "title": "Ministerieel besluit van 2022-07-18 tot wijziging van het ministerieel besluit van 28 december 2018 houdende algemene bepalingen inzake de energieprestatieregelgeving, energieprestatiecertificaten en de certificering van aannemers en installateurs, in kader van het energieprestatiecertificaat niet-residentiële gebouwen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037289/VolledigDocument?datum=2022-08-06",
+  "source_sha256": "10e60cabe9789a088e19b6e49928d8f3bfb35e00d71736ea32e497b0616543e5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037289&param=informatie",
+  "as_of": "2022-08-06",
+  "made": "2022-07-18",
+  "gazette": "2022-07-27",
+  "numac": 2022032864,
+  "document_start": "2022-08-06",
+  "document_end": null,
+  "in_force": "2022-08-06",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2022-08-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
