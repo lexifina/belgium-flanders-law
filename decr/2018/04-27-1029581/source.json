@@ -2,16 +2,16 @@
   "codex_id": 1029581,
   "title": "Decreet van 2018-04-27 tot regeling van de toelagen in het kader van het gezinsbeleid (citeeropschrift: \"het Groeipakketdecreet van 2018\")",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029581/VolledigDocument?datum=2022-08-01",
-  "source_sha256": "4b0c48da5dd032b42c80c2099a6652be6e71e270baaf6d3afc2d9b4d79f3c987",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029581/VolledigDocument?datum=2022-08-08",
+  "source_sha256": "9b7991454be0de9fb8d3e378517b0142be2306607545174ef6fc8a825c31832e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029581&param=informatie",
-  "as_of": "2022-08-01",
+  "as_of": "2022-08-08",
   "made": "2018-04-27",
   "gazette": "2018-07-31",
   "numac": 2018040369,
   "document_start": "2019-01-01",
   "document_end": null,
-  "in_force": "2022-08-01",
+  "in_force": "2022-08-08",
   "article_versions": 229,
-  "record_form": "consolidated version as in force on 2022-08-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-08-08; future article versions excluded; article text as the API gives it"
 }

@@ -199,7 +199,7 @@ De Vlaamse Regering kan voor rechtgevende kinderen die onder toepassing van arti
 ### ART 8.
 
 § 1. Een kind geeft recht op gezinsbijslagen als het:<br>
-1° zijn woonplaats heeft in het Nederlandse taalgebied. Het kind van wie het bewijs niet geleverd wordt dat het de Belgische nationaliteit bezit, moet toegelaten of gemachtigd zijn om in het Rijk te verblijven of er zich te vestigen overeenkomstig de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
+1° zijn woonplaats heeft in het Nederlandse taalgebied. Het kind van wie het bewijs niet geleverd wordt dat het de Belgische nationaliteit bezit, moet toegelaten of gemachtigd zijn om in het Rijk te verblijven of er zich te vestigen overeenkomstig de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;&nbsp;Voor de toepassing van dit decreet vormt een attest van immatriculatie geen toelating of machtiging in de zin van deze bepaling.<br>
 2° verdwenen of ontvoerd is en voldoet aan de voorwaarden, vermeld in punt 1°, op het moment van de verdwijning of ontvoering.<br>
 <br>
 Onder kind dat verdwenen is, moet worden verstaan het kind dat onvrijwillig niet langer op zijn woonplaats verblijft, en over wie er geen nieuws is, behalve als blijkt dat het kind, naar alle waarschijnlijkheid, overleden is in omstandigheden zoals een ongeval of een ramp, zelfs als het lichaam niet is teruggevonden. De verdwijning kan bewezen worden met alle rechtsmiddelen. Het kind dat door een van de ouders is meegenomen, wordt niet als verdwenen kind beschouwd.<br>
@@ -337,11 +337,17 @@ Het bedrag van de toeslag, vermeld in het eerste lid, bedraagt:<br>
 2° 80 euro per kind voor gezinnen met meer dan twee rechtgevende kinderen, waarvan de gezinsinkomsten op jaarbasis niet meer dan&nbsp;30.378,60 euro bedragen;<br>
 3° 60 euro per kind voor gezinnen met meer dan twee rechtgevende kinderen, waarvan de gezinsinkomsten op jaarbasis tussen&nbsp;30.378,60 euro&nbsp;en 60.000 euro liggen.<br>
 <br>
-Als ten gevolge van een gelijkmatig verdeelde huisvesting, bepaald of bekrachtigd door de bevoegde rechtbank, de huisvesting van het rechtgevende kind gelijk is verdeeld tussen de ouders, wordt het bedrag van de toeslag gehalveerd toegekend in elk rechtgevend gezin.<br>
+Als ten gevolge van een gelijkmatig verdeelde huisvesting de huisvesting van het rechtgevende kind gelijk is verdeeld tussen de ouders, wordt het bedrag van de toeslag gehalveerd toegekend in elk rechtgevend gezin.<br>
 <br>
-Als de huisvesting van het rechtgevende kind niet gelijk is verdeeld tussen beide ouders, zoals bepaald of bekrachtigd door de bevoegde rechtbank, wordt het kind voor de toepassing van het tweede lid alleen meegeteld in het gezin waar het kind meer dan de helft van de tijd verblijft.<br>
+Als de huisvesting van het rechtgevende kind niet gelijk is verdeeld tussen beide ouders wordt het kind voor de toepassing van het tweede lid alleen meegeteld in het gezin waar het kind meer dan de helft van de tijd verblijft.<br>
 <br>
-Als de al dan niet gelijkmatig verdeelde huisvesting van het rechtgevende kind niet is bepaald of bekrachtigd door de bevoegde rechtbank, wordt ervan uitgegaan dat de huisvesting van het rechtgevende kind gelijk is verdeeld tussen de ouders en wordt het bedrag van de toeslag gehalveerd toegekend in elk rechtgevend gezin.<br>
+Als de al dan niet gelijkmatig verdeelde huisvesting van het rechtgevende kind niet is bepaald of bekrachtigd door de bevoegde rechtbank, wordt ervan uitgegaan dat de huisvesting van het rechtgevende kind gelijk is verdeeld tussen de ouders.<br>
+<br>
+Voor de huisvesting van het meerderjarige rechtgevend kind wordt uitgegaan van de woonplaats van het kind.<br>
+<br>
+In afwijking van het zesde lid blijft de vastgestelde huisvesting overeenkomstig het vijfde lid die geldt op het moment dat het kind meerderjarig wordt, gelden.<br>
+<br>
+In afwijking van het zesde en zevende lid kan de al dan niet gelijkmatig verdeelde huisvesting van het meerderjarige rechtgevend kind worden bepaald op grond van een overeenkomst, waarin de al dan niet gelijkmatig verdeelde huisvesting van het rechtgevende kind uitdrukkelijk wordt bepaald, en die is geregistreerd conform artikel 1 van het Wetboek der registratie-, hypotheek- en griffierechten.<br>
 <br>
 Als het rechtgevende kind is geplaatst door bemiddeling of ten laste van een openbare overheid in een pleeggezin, wordt het kind voor de berekening van de toeslag en de gezinsgrootte, vermeld in het tweede lid, in het pleeggezin volledig meegeteld.<br>
 <br>
@@ -919,7 +925,9 @@ In afwijking daarvan en met behoud van de toepassing van artikel 67 wordt, als e
 
 In afwijking van artikel 65, § 1, tweede lid, wordt het startbedrag geboorte, vermeld in artikel 9, uitbetaald aan de zwangere persoon als het startbedrag geboorte wordt uitbetaald vóór de geboorte van een eerste rechtgevend kind bij de personen die begunstigden worden na de geboorte.<br>
 <br>
-Na de geboorte kunnen de begunstigden onder de voorwaarden, vermeld in artikel 65, met een schriftelijk verzoek de uitbetalingsactor of de bankrekening wijzigen.
+Als de aanvraag van het startbedrag geboorte niet door beide begunstigden wordt ondertekend, kunnen de begunstigden in afwijking van artikel 65, § 2, tweede lid, gedurende drie maanden na de geboorte met een schriftelijk verzoek de uitbetalingsactor wijzigen.<br>
+<br>
+De wijziging van uitbetalingsactor, vermeld in het tweede lid, gaat in vanaf het eerste kwartaal dat volgt op het kwartaal waarin een ontvankelijk wijzigingsverzoek is ingediend.
 
 ### ART 67.
 
@@ -1081,7 +1089,7 @@ De Vlaamse Regering bepaalt het tijdstip waarop de selectieve participatietoesla
 
 De toelagen in het kader van het gezinsbeleid worden uitbetaald op een bankrekening.<br>
 <br>
-Als een betaling van de gezinsbijslagen, vermeld in deel 1 van boek 2, om technische of sociale redenen niet mogelijk is per overschrijving, worden de toelagen betaald met een circulaire cheque, volgens de regels die de Vlaamse Regering bepaalt.
+Als een betaling van de toelagen in het kader van het gezinsbeleid om technische of sociale redenen niet mogelijk is per overschrijving bepaalt de Vlaamse Regering met welk betaalmiddel de toelagen worden uitbetaald en volgens welke regelst.
 
 ### ART 77.
 
