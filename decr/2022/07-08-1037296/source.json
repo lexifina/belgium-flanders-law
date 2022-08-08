@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037296,
+  "title": "Decreet van 2022-07-08 houdende aanpassing van de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037296/VolledigDocument?datum=2022-08-08",
+  "source_sha256": "b25a04c99aef469d8f80038bdaad52108b9c8c026fb9cc1351567289b2c268b8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037296&param=informatie",
+  "as_of": "2022-08-08",
+  "made": "2022-07-08",
+  "gazette": "2022-07-29",
+  "numac": 2022015363,
+  "document_start": "2022-08-08",
+  "document_end": null,
+  "in_force": "2022-08-08",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2022-08-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
