@@ -88,7 +88,18 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 
 ### ART. 17.
 
-§ 1. Er wordt een Fonds voor de compenserende bebossing, in de zin van artikel 45 van de wetten op de rijkscomptabiliteit, gecoördineerd op 17 juli 1991, opgericht.<br /><br />§ 2. Aan het Fonds voor de compenserende bebossing worden toegewezen alle ontvangsten voortvloeiend uit de toepassing van artikel 90bis van het Bosdecreet van 13 juni 1990 en ontvangsten van niet aangewende middelen toegekend vanuit het Fonds voor de compenserende bebossing aan de Vlaamse Landmaatschappij of aan openbare besturen, natuurlijke personen en privaatrechtelijke rechtspersonen die bebossen.<br /><br />§ 3. De middelen van het Fonds voor Compenserende Bebossing kunnen aangewend worden voor :<br />1° het uitvoeren van bebossing door het Vlaamse Gewest;<br />2° de subsidiëring van openbare besturen, natuurlijke personen en privaatrechtelijke rechtspersonen die bebossen;<br />3° terugstorten van te veel betaalde bosbehoudsbijdragen in het kader van artikel 90bis van het Bosdecreet van 13 juni 1990.<br /><br />De Vlaamse Regering kan hierover nadere regels vaststellen.
+§ 1. Er wordt een Fonds voor de compenserende bebossing, in de zin van artikel 45 van de wetten op de rijkscomptabiliteit, gecoördineerd op 17 juli 1991, opgericht.<br>
+<br>
+§ 2. Aan het Fonds voor de compenserende bebossing worden de volgende ontvangsten toegewezen:<br>
+1° alle ontvangsten die voortvloeien uit de toepassing van artikel 90bis van het Bosdecreet van 13 juni 1990, als de Vlaamse Regering of de gewestelijke omgevingsambtenaar de vergunning tot ontbossing of de omgevingsvergunning voor het verkavelen van gronden, vermeld in artikel 90bis, § 2, 2°, van het voormelde decreet, aflevert;<br>
+2° de ontvangsten van niet-aangewende middelen die vanuit het Fonds voor de compenserende bebossing toegekend zijn aan de Vlaamse Landmaatschappij of aan openbare besturen, natuurlijke personen en privaatrechtelijke rechtspersonen die bebossen.<br>
+<br>
+§ 3. De middelen van het Fonds voor Compenserende Bebossing kunnen aangewend worden voor :<br>
+1° het uitvoeren van bebossing door het Vlaamse Gewest;<br>
+2° de subsidiëring van openbare besturen, natuurlijke personen en privaatrechtelijke rechtspersonen die bebossen;<br>
+3° terugstorten van te veel betaalde bosbehoudsbijdragen in het kader van artikel 90bis van het Bosdecreet van 13 juni 1990.<br>
+<br>
+De Vlaamse Regering kan hierover nadere regels vaststellen.
 
 ## AFDELING III GRONDWATER
 
