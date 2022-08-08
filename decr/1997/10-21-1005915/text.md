@@ -327,6 +327,10 @@ De procedure voor de opmaak van een toegankelijkheidsregeling heeft de volgende 
 <br>
 De Vlaamse Regering of haar gemachtigde beslist over de aanvragen van de goedkeuring van een toegankelijkheidsregeling, vermeld in het tweede lid.<br>
 <br>
+§ 2bis. De beheerder van een terrein kan in een toegankelijkheidsregeling vastleggen onder welke voorwaarden gerookt mag worden en vuur gemaakt mag worden op het terrein. Als ter uitvoering van artikel 13, § 9, tweede lid, de Vlaamse Regering een regeling treft, krijgt die regeling voorrang ten opzichte van wat in de toegankelijkheidsregeling voor het terrein vermeld staat.<br>
+<br>
+De Vlaamse Regering kan nadere regels vastleggen voor de aanduiding van de wijze waarop kan worden bekendgemaakt hoe roken en vuur maken geregeld zijn op het terrein.<br>
+<br>
 § 3. De Vlaamse Regering bepaalt nadere regels over de inhoud en de procedure voor de goedkeuring van een toegankelijkheidsregeling.
 
 ### ART. 12novies.
@@ -341,6 +345,38 @@ Het verbod, vermeld in het eerste lid, geldt niet voor gemotoriseerd verkeer dat
 5° het gebruik van toegangswegen door de beheerder van het terrein of zijn genodigden in functie van de bereikbaarheid van onroerende goederen.
 
 ## [AFDELING 5 TECHNISCH BEHEER VAN OPENBARE TERREINEN (ing. decr. 1 juli 2022, art. 10, I: 8 augustus 2022)]
+
+### ART 12decies.
+
+§ 1. In deze paragraaf wordt verstaan onder besturen:<br>
+1. een gemeente;<br>
+2. een gemeentebedrijf;<br>
+3. een vereniging van gemeenten;<br>
+4. een openbaar centrum voor maatschappelijk welzijn;<br>
+5. een intercommunaal centrum voor maatschappelijk welzijn;<br>
+6. een vereniging van openbare centra voor maatschappelijk welzijn;<br>
+7. een provincie;<br>
+8. een provinciebedrijf;<br>
+9. een polder;<br>
+10. een watering;<br>
+11. een vereniging van polders en wateringen;<br>
+12. een kerkfabriek en elke andere rechtspersoon die voor de uitoefening van een openbare eredienst of voor verenigingen van vrijzinnigen onroerende goederen beheert.<br>
+<br>
+De besturen die eigenaar zijn van een openbaar terrein dat beheerd wordt of zal worden in het kader van natuurbehoud, kunnen het agentschap verzoeken om het technische beheer van dat terrein uit te voeren. De besturen geven in een schriftelijke mededeling aan dat ze de intentie hebben om een natuurbeheerplan als vermeld in artikel 16bis, op te maken. De Vlaamse Regering bepaalt de taken die vallen onder het technische beheer wat slaat op uitvoerende en coördinerende taken die nodig zijn om het beheer van het terrein binnen gestelde doelstellingen uit te voeren. Het technische beheer wordt stopgezet nadat het voormelde natuurbeheerplan is goedgekeurd conform artikel 16octies.<br>
+<br>
+De besturen die eigenaar zijn van een openbaar terrein dat beheerd wordt of zal worden in het kader van natuurbehoud, kunnen met een overeenkomst het volledige beheer aan het agentschap overdragen op voorwaarde dat er een goedgekeurd natuurbeheerplan is als vermeld in artikel 16octies, of dat het bestuur de intentie heeft om een natuurbeheerplan als vermeld in artikel 16bis op te maken. Bij de beslissing tot overname van het beheer verleent het agentschap geen subsidies meer als vermeld in artikel 16sedecies. Dit volledige beheer onderscheidt zich van het technische beheer door ook het stellen van de doelstellingen voor het natuurtechnische beheer en de volledige financiële verantwoordelijkheid voor het beheer te omvatten.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 kunnen de eigenaars van alle andere openbare terreinen die beheerd worden of zullen worden in het kader van natuurbehoud schriftelijk laten weten aan het agentschap om het technische beheer te laten uitvoeren door het agentschap.<br>
+<br>
+§ 3. In afwijking van paragraaf 1 en 2 kan een publiekrechtelijke rechtspersoon die eigenaar is van een openbaar terrein dat beheerd wordt of zal worden in het kader van natuurbehoud, een derde het technische beheer laten uitvoeren. Als van die mogelijkheid wordt gebruikgemaakt, voert de derde in kwestie het volledige takenpakket uit dat wordt bepaald krachtens paragraaf 1, tweede lid. Het is niet mogelijk om alleen bepaalde taken van het voormelde takenpakket door de derde te laten uitvoeren terwijl het agentschap nog andere taken van het voormelde takenpakket uitvoert.<br>
+<br>
+Een publiekrechtelijk rechtspersoon die gebruik maakt van de mogelijkheid, vermeld in het eerste lid, sluit daarvoor een overeenkomst met de derde. De publiekrechtelijke rechtspersoon deelt het agentschap schriftelijk mee welke derde het technische beheer uitvoert, binnen dertig dagen na de dag van de ondertekening van de overeenkomst.<br>
+<br>
+In voorkomend geval worden tussen enerzijds het agentschap en anderzijds de publiekrechtelijke rechtspersoon en de derde die de beheertaken op zich zal nemen, afspraken gemaakt over het tijdstip waarop de derde de taken overneemt die het agentschap voorheen uitvoerde. De taken worden uiterlijk negentig dagen na de dag van de ondertekening van de overeenkomst, vermeld in het tweede lid, overgedragen. Het agentschap zal de taken die het voorheen uitvoerde in elk geval niet meer uitvoeren nadat de voormelde termijn van negentig dagen is verstreken.<br>
+<br>
+§ 4. Het beheer van een openbaar terrein dat beheerd wordt of zal worden in het kader van natuurbehoud, kan met een overeenkomst tussen de partijen in kwestie worden overgedragen aan een derde.<br>
+<br>
+De publiekrechtelijke rechtspersoon bezorgt een afschrift van de overeenkomst, vermeld in het eerste lid, aan het agentschap binnen dertig dagen na de dag van de ondertekening van de overeenkomst. De terreinen in kwestie behouden de status van openbaar terrein.
 
 ## HOOFDSTUK IV [ MAATREGELEN TER BEVORDERING VAN HET NATUURBEHOUD (verv. decr. 9 mei 2014, art. 16, I: 28 oktober 2017)]
 
@@ -385,7 +421,13 @@ De Vlaamse regering kan bepalen welke activiteiten een wijziging zijn van de veg
 <br>
 De Vlaamse Regering kan nadere regels bepalen met betrekking tot de informatie die moet worden aangeleverd door de aanvrager van een vergunning met betrekking tot de termijn, de frequentie en de aard van de activiteiten.<br>
 <br>
-§ 8. Het zonder voorafgaandelijke omgevingsvergunning of in strijd met deze omgevingsvergunning uitvoeren van vergunningsplichtige handelingen inzake wijziging van de vegetatie of van kleine landschapselementen of van de vegetatie ervan of van handelingen die verboden zijn op basis van of in uitvoering van artikel 13, § 3, is verboden.
+§ 8. Het zonder voorafgaandelijke omgevingsvergunning of in strijd met deze omgevingsvergunning uitvoeren van vergunningsplichtige handelingen inzake wijziging van de vegetatie of van kleine landschapselementen of van de vegetatie ervan of van handelingen die verboden zijn op basis van of in uitvoering van artikel 13, § 3, is verboden.<br>
+<br>
+§ 9. Op terreinen waarvoor een natuurbeheerplan is goedgekeurd, en binnen een afstand van 25 meter tot die terreinen is het met uitzondering van wettelijk verplichte verbrandingen verboden te roken en vuur te maken in de openlucht om welk motief dan ook, behalve in de volgende gevallen:<br>
+1° ter uitvoering van het goedgekeurde beheersplan;<br>
+2° ter uitvoering van een goedgekeurde toegankelijkheidsregeling als vermeld in artikel 12octies.<br>
+<br>
+De Vlaamse Regering kan ook voor de terreinen, vermeld in het eerste lid, en andere terreinen in de vrije natuur een verbod op roken en het maken van vuur instellen door dat verbod te koppelen aan de toestand over de brandgevoeligheid van de natuurelementen op de terreinen.
 
 ### ART. 14.
 
