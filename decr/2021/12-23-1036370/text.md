@@ -118,7 +118,7 @@ De op 31 december 2021 bestaande directe en indirecte belastingen, in hoofdsom, 
 
 ### ART 12.
 
-Vanuit het Fonds Onroerend Erfgoed wordt 3635 keuro VAK en 3881 keuro VEK overgedragen ten gunste van het Fonds voor handhaving onroerend erfgoed binnen de begroting van het Departement Omgeving.
+Vanuit het Fonds Onroerend Erfgoed wordt 2.660 duizend euro VAK en VEK overgedragen ten gunste van het Fonds voor handhaving onroerend erfgoed binnen de begroting van het departement Omgeving.
 
 ### ART 13.
 
