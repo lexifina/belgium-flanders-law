@@ -270,19 +270,7 @@ De Vlaamse regering bepaalt de procedure tot erkenning van uitgangsmateriaal voo
 
 ### ART. 45.
 
-§ 1. Onverminderd artikel 34, § 2, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, worden alle openbare bossen beheerd door het Agentschap.<br>
-<br>
-In de openbare bossen, andere dan de domeinbossen, omvat dat beheer enkel de technische aspecten van het bosbeheer, die de praktische uitvoering van het beheersplan betreffen. De Vlaamse regering bepaalt wat onder die technische aspecten moet worden verstaan.<br>
-<br>
-De eigenaar van een openbaar bos kan het volledige of gedeeltelijke beheer door een overeenkomst aan het Agentschap overdragen.<br>
-<br>
-§ 2. Onverminderd de bepalingen van § 1, kan de eigenaar van een openbaar bos het uitvoeren van beheersmaatregelen, in uitvoering van een goedgekeurd beheersplan of wanneer ze gemachtigd zijn door het Agentschap, toevertrouwen aan een natuurvereniging of een bosgroep, door middel van een overeenkomst. De eigenaar zendt onverwijld een afschrift van de overeenkomst naar het Agentschap.<br>
-<br>
-In afwijking van paragraaf 1 kan de eigenaar van een openbaar bos het beheer aan een natuurvereniging overdragen. De eigenaar zendt onverwijld een afschrift van de overeenkomst aan het agentschap. De bossen in kwestie behouden in dat geval de status van openbaar bos. Het beheer wordt gevoerd conform de bepalingen van dit decreet en, voor wat het beheersplan betreft, overeenkomstig de bepalingen vermeld in hoofdstuk 4, afdeling 2, van het decreet Natuurbehoud.<br>
-<br>
-§ 3. ...<br>
-<br>
-§ 4. De bossen die, overeenkomstig het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, door de Vlaamse regering werden aangewezen als Vlaams natuurreservaat, worden in overeenstemming met de bepalingen van artikel 34, § 2, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu beheerd.
+...
 
 ### ART. 46.
 
@@ -310,11 +298,11 @@ Indien de voorwaarden, die aan de subsidies verbonden werden, niet werden nagele
 
 ### ART. 49.
 
-De Vlaamse regering bepaalt het aandeel van de eigenaars van openbaar bos in de beheers- en bewakingskosten.
+...
 
 ### ART. 49bis.
 
-Voor de beplanting met houtachtige gewassen van gronden die eigendom zijn van publiekrechtelijke rechtspersonen en die gelegen zijn in agrarisch gebied verleent het daartoe aangestelde personeelslid van het departement Landbouw en Visserij een advies in het kader van de in artikel 35bis, § 5, van het Veldwetboek vereiste vergunning van het College van Burgemeester en Schepenen. Het advies wordt verleend binnen een termijn van 20 dagen. De termijn begint te lopen op de datum van verzending. Bij gebrek aan advies binnen deze termijn, wordt het advies geacht gunstig te zijn.
+Voor de beplanting met houtachtige gewassen van gronden die eigendom zijn van publiekrechtelijke rechtspersonen en die gelegen zijn in agrarisch gebied verleent het agentschap en het daartoe aangestelde personeelslid van het departement Landbouw en Visserij een advies in het kader van de in artikel 35bis, § 5, van het Veldwetboek vereiste vergunning van het College van Burgemeester en Schepenen. Het advies wordt verleend binnen een termijn van 20 dagen. De termijn begint te lopen op de datum van verzending. Bij gebrek aan advies binnen deze termijn, wordt het advies geacht gunstig te zijn.
 
 ### ART. 50.
 
@@ -531,7 +519,7 @@ De Vlaamse regering bepaalt de nadere voorwaarden en de wijze van toekenning voo
 <br>
 Indien de voorwaarden, die aan de subsidies verbonden werden, niet werden nageleefd, kan de subsidie teruggevorderd worden en toegewezen aan het Fonds voor Prevente en Sanering inzake Leefmilieu en Natuur dat is ingeschreven in de begroting van het Vlaamse Gewest overeenkomstig de bepalingen van artikel 13. Wanneer de teruggevorderde subsidie afkomstig is uit het Fonds voor Compenserende Bebossing zoals bedoeld in artikel 17 van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, wordt zij toegewezen aan dat Fonds.<br>
 <br>
-Voor de beplanting met houtachtige gewassen van gronden gelegen in agrarisch gebied of een daarmee gelijkgesteld bestemmingsgebied verleent het daartoe aangestelde personeelslid van het departement Landbouw en Visserij een advies in het kader van de in artikel 35bis, § 5, van het Veldwetboek vereiste vergunning van het College van Burgemeester en Schepenen. Het advies wordt verleend binnen een termijn van 20 dagen. De termijn begint te lopen op de datum van verzending. Bij gebrek aan advies binnen deze termijn, wordt het advies geacht gunstig te zijn.<br>
+Voor de beplanting met houtachtige gewassen van gronden gelegen in agrarisch gebied of een daarmee gelijkgesteld bestemmingsgebied verleent het agentschap en het daartoe aangestelde personeelslid van het departement Landbouw en Visserij een advies in het kader van de in artikel 35bis, § 5, van het Veldwetboek vereiste vergunning van het College van Burgemeester en Schepenen. Het advies wordt verleend binnen een termijn van 20 dagen. De termijn begint te lopen op de datum van verzending. Bij gebrek aan advies binnen deze termijn, wordt het advies geacht gunstig te zijn.<br>
 <br>
 Voor de rooiing binnen een termijn van 22 jaar na de aanplanting of na spontane bebossing met als bedoeling terug te keren naar gebruik als landbouwgrond als vermeld in artikel 2, 12°, van het decreet van 22 december 2006 houdende inrichting van een gemeenschappelijke identificatie van landbouwer, exploitatie en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid, is in afwijking van de stedenbouwkundige&nbsp;vergunningsplicht voor ontbossing, zoals bepaald in artikel 4.2.1 van de Vlaamse Codex Ruimtelijke Ordening, enkel een voorafgaande eenvoudige melding van de rooiing aan de landbouwkundig ingenieur van de Dienst Landbouw en de ambtenaar vereist. In het geval van exploitatie van de houtachtige gewassen, vermeld in het vierde lid, bedraagt deze termijn evenwel drie jaar na de laatste exploitatie. Van deze melding stelt de ambtenaar onverwijld het college van burgemeester en schepenen en het Departement Omgeving in kennis. De hiervoor bedoelde termijnen kunnen door de Vlaamse Regering worden aangepast.<br>
 <br>
@@ -568,15 +556,15 @@ De Vlaamse regering kan in een algemeen besluit de uitvoering van deze werkzaamh
 <br>
 De omgevingsvergunning voor ontbossing of voor het verkavelen van gronden voor geheel of gedeeltelijk beboste terreinen wordt verleend na voorafgaand advies van het Agentschap. Het advies wordt verleend op verzoek van de vergunningverlenende overheid. Als het advies niet wordt verleend binnen dertig dagen, wordt het geacht gunstig te zijn.<br>
 <br>
-Voor andere ontbossingen of voor andere verkavelingen in geheel of gedeeltelijk beboste terreinen, dan deze genoemd in het eerste lid, kan de Vlaamse Regering, op individueel en op gemotiveerd verzoek van diegene die in aanmerking wenst te komen voor een vergunning tot ontbossen of een verkavelingsvergunning, de ontheffing toestaan van het verbod tot het verlenen van een omgevingsvergunning voor ontbossing of voor het verkavelen van gronden voor geheel of gedeeltelijk beboste terreinen, met inachtneming van de wetgeving inzake de ruimtelijke ordening en na advies van het Agentschap. De Vlaamse Regering bepaalt nadere regelen inzake de ontheffing van dit verbod.<br>
+Voor andere ontbossingen of voor andere verkavelingen in geheel of gedeeltelijk beboste terreinen, dan deze genoemd in het eerste lid, kan de Vlaamse Regering, op individueel en op gemotiveerd verzoek van diegene die in aanmerking wenst te komen voor een vergunning tot ontbossen of een omgevingsvergunning voor het verkavelen van gronden, de ontheffing toestaan van het verbod tot het verlenen van een omgevingsvergunning voor ontbossing of voor het verkavelen van gronden voor geheel of gedeeltelijk beboste terreinen, met inachtneming van de wetgeving inzake de ruimtelijke ordening en na advies van het Agentschap. De Vlaamse Regering bepaalt nadere regelen inzake de ontheffing van dit verbod.<br>
 <br>
 Het is voor eenieder, met behoud van de toepassing van artikel 91, § 1 en § 2, van dit decreet, verboden om een onwettige ontbossing in stand te houden in ruimtelijk kwetsbare gebieden als vermeld in artikel 1.1.2, 10°, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.<br>
 <br>
 § 2. Met het oog op het behoud van een gelijkwaardig bosareaal,<br>
 1° wordt door de houder van de omgevingsvergunning voor ontbossing compensatie gegeven voor de in § 1 eerste lid, 1° tot en met 4°, of het derde lid bedoelde ontbossing;<br>
-2° wordt door de houder van de verkavelingsvergunning compensatie gegeven voor de beboste delen van de verkaveling waarvoor de verkavelingsvergunning wordt aangevraagd na de inwerkingtreding van het decreet van 17 juli 2000 houdende wijziging van artikel 90bis van het Bosdecreet van 13 juni 1990.<br>
+2° wordt door de houder van de omgevingsvergunning voor het verkavelen van gronden compensatie gegeven voor de beboste delen van de verkaveling waarvoor de omgevingsvergunning voor het verkavelen van gronden wordt aangevraagd na de inwerkingtreding van het decreet van 17 juli 2000 houdende wijziging van artikel 90bis van het Bosdecreet van 13 juni 1990.<br>
 <br>
-§ 3. Voor de in § 2, 2°, bedoelde verkaveling wordt compensatie gegeven voor de gezamenlijke oppervlakte, voorzover die bebost is, van de kavels en van de in de aanvraag vermelde of als last aan de verkavelaar opgelegde werken, met uitzondering van de oppervlakte van de in de aanvraag vermelde of als last aan de verkavelaar opgelegde groene ruimten. Het behoud van deze als bos te behouden groene ruimten wordt door de vergunningverlenende instantie expliciet in de verkavelingsvoorschriften opgenomen. De aanvrager van de verkavelingsvergunning kan zowel openbare als niet-openbare beboste groene ruimten aanduiden.<br>
+§ 3. Voor de in § 2, 2°, bedoelde verkaveling wordt compensatie gegeven voor de gezamenlijke oppervlakte, voorzover die bebost is, van de kavels en van de in de aanvraag vermelde of als last aan de verkavelaar opgelegde werken, met uitzondering van de oppervlakte van de in de aanvraag vermelde of als last aan de verkavelaar opgelegde groene ruimten. Het behoud van deze als bos te behouden groene ruimten wordt door de vergunningverlenende instantie expliciet in de verkavelingsvoorschriften opgenomen. De aanvrager van de omgevingsvergunning voor het verkavelen van gronden kan zowel openbare als niet-openbare beboste groene ruimten aanduiden.<br>
 <br>
 De verkaveling wordt vergund na voorafgaand advies van het Agentschap, dat wordt verleend volgens de bepalingen van § 1, tweede lid.<br>
 <br>
@@ -595,7 +583,7 @@ Gronden die via eenvoudige melding als vermeld in artikel 87, vijfde lid, worden
 1° gedurende 20 jaar na de melding indien de grond gelegen is in agrarisch gebied of een daarmee gelijkgesteld bestemmingsgebied;<br>
 2° tot aan de datum van inwerkingtreding van de bestemmingswijziging van de grond naar een bestemming die ressorteert onder de categorie van gebiedsaanduiding `bos', `overig groen' of `reservaat en natuur' of tot aan de datum van inwerkingtreding van de aanduiding van de grond als `watergevoelig openruimtegebied' conform artikel 5.6.8, § 1, van de Vlaamse Codex Ruimtelijke Ordening.<br>
 <br>
-§ 5. De aanvrager van de&nbsp;vergunning tot ontbossing of van de in § 2, 2°, bedoelde verkavelingsvergunning stelt de compensatie voor overeenkomstig de eisen van het in § 4, derde lid, bedoelde besluit en dient het voorstel in bij de vergunningverlenende overheid, die het ter goedkeuring voorlegt aan het Agentschap.<br>
+§ 5. De aanvrager van de&nbsp;vergunning tot ontbossing of van de in § 2, 2°, bedoelde omgevingsvergunning voor het verkavelen van gronden stelt de compensatie voor overeenkomstig de eisen van het in § 4, derde lid, bedoelde besluit en dient het voorstel in bij de vergunningverlenende overheid, die het ter goedkeuring voorlegt aan het Agentschap.<br>
 <br>
 Indien het voorstel niet voldoet aan de eisen van het in § 4, derde lid, bedoelde besluit of wanneer het voorstel om bosbouwkundige redenen niet aanvaardbaar is, past het Agentschap het voorstel aan aan de eisen van dat besluit of, wanneer het een compensatie in natura betreft, aan de eisen van wat bosbouwkundig aanvaardbaar is.<br>
 <br>
@@ -603,7 +591,7 @@ Het Agentschap stelt de aanvrager schriftelijk in kennis van de aanpassing, met 
 <br>
 Het goedgekeurde of aangepaste voorstel geldt als voorwaarde bij de in § 2, 1° of 2°, bedoelde vergunning.<br>
 <br>
-De in § 2, 2°, bedoelde verkavelingsvergunning laat slechts vervreemding van een kavel toe nadat volledige compensatie werd gegeven.<br>
+De in § 2, 2°, bedoelde omgevingsvergunning voor het verkavelen van grondenlaat slechts vervreemding van een kavel toe nadat volledige compensatie werd gegeven.<br>
 <br>
 § 6. De vergunningverlenende overheid bezorgt een afschrift van haar beslissing inzake de aanvraag tot de in § 2, 1° en 2°, bedoelde vergunning aan het Agentschap.<br>
 <br>

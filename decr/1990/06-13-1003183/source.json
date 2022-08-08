@@ -2,16 +2,16 @@
   "codex_id": 1003183,
   "title": "Decreet van 1990-06-13 Bosdecreet",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003183/VolledigDocument?datum=2020-06-09",
-  "source_sha256": "6a9e67c37e3942a368a4e6c51b7c70d00d6fd61c8b8abd043b7c3f1ba89973cb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003183/VolledigDocument?datum=2022-08-08",
+  "source_sha256": "415f6e90ef28c60247719c07a89176ca6943490133818eaa5f285ca8a66dc6b1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003183&param=informatie",
-  "as_of": "2020-06-09",
+  "as_of": "2022-08-08",
   "made": "1990-06-13",
   "gazette": "1990-09-28",
   "numac": 1990029924,
   "document_start": null,
   "document_end": null,
-  "in_force": "2020-06-09",
+  "in_force": "2022-08-08",
   "article_versions": 132,
-  "record_form": "consolidated version as in force on 2020-06-09; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-08-08; future article versions excluded; article text as the API gives it"
 }
