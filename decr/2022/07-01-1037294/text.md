@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK 1. Inleidende bepaling
 
+### ART 1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid.
+
 ## HOOFDSTUK 2. Wijziging van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie
 
 ## HOOFDSTUK 3. Wijzigingen van het Groeipakketdecreet van 2018
@@ -12,6 +16,12 @@ In artikel 3 van het Groeipakketdecreet van 2018, gewijzigd bij de decreten van 
 1° aan paragraaf 1, 21°, wordt een punt e) toegevoegd, dat luidt als volgt:<br>
 "e) de leerling die gedurende het schooljaar in kwestie minstens 149 dagen residentieel verblijft in een door de Vlaamse overheid erkend multifunctioneel centrum voor minderjarige personen met een handicap;";<br>
 2° in paragraaf 2 worden de woorden "of rechtspersoon" vervangen door het woord "persoon".
+
+### ART 4.
+
+Artikel 8, § 1, eerste lid, 1°, van hetzelfde decreet, wordt uitgelegd als volgt door toevoeging van de volgende zin:<br>
+<br>
+"Voor de toepassing van dit decreet vormt een attest van immatriculatie geen toelating of machtiging in de zin van deze bepaling.".
 
 ### ART 5.
 
@@ -53,6 +63,14 @@ In artikel 57, § 3, van hetzelfde decreet worden de volgende wijzigingen aangeb
 2° het tweede en derde lid worden opgeheven;<br>
 3° aan het bestaande vierde lid, dat het tweede lid wordt, wordt de zinsnede ", met behoud van toepassing van artikel 9, § 1, van titel XIII, hoofdstuk VI, van de Programmawet (I) van 24 december 2002" toegevoegd.
 
+### ART 11.
+
+In artikel 66 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° het tweede lid wordt vervangen door wat volgt:<br>
+"Als de aanvraag van het startbedrag geboorte niet door beide begunstigden wordt ondertekend, kunnen de begunstigden in afwijking van artikel 65, § 2, tweede lid, gedurende drie maanden na de geboorte met een schriftelijk verzoek de uitbetalingsactor wijzigen.";<br>
+2° er wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+"De wijziging van uitbetalingsactor, vermeld in het tweede lid, gaat in vanaf het eerste kwartaal dat volgt op het kwartaal waarin een ontvankelijk wijzigingsverzoek is ingediend.".
+
 ### ART 12.
 
 In artikel 68 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
@@ -64,6 +82,10 @@ In het eerste lid wordt verstaan onder een rechtgevend kind dat materiële onder
 2° een kind dat medische begeleiding krijgt als vermeld in de voormelde wet;<br>
 3° een kind dat in een instelling is geplaatst door bemiddeling of ten laste van een openbare overheid.<br>
 De Vlaamse Regering kan nadere regels bepalen voor de uitbetaling van de toelagen in het kader van het gezinsbeleid vermeld in het eerste lid.".
+
+### ART 13.
+
+In artikel 76, tweede lid, van hetzelfde decreet wordt de zinsnede "gezinsbijslagen, vermeld in deel 1 van boek 2," vervangen door de woorden "toelagen in het kader van het gezinsbeleid" en wordt de zinsnede ", worden de toelagen betaald met een circulaire cheque, volgens de regels die de Vlaamse Regering bepaalt" vervangen door de woorden "bepaalt de Vlaamse Regering met welk betaalmiddel de toelagen worden uitbetaald en volgens welke regels".
 
 ### ART 14.
 
@@ -123,3 +145,17 @@ Artikel 226 van hetzelfde decreet, gewijzigd bij het decreet van 22 maart 2019, 
 ### ART 23.
 
 De Vlaamse Regering kan de verdelingsregels ten aanzien van de instellingen, zoals deze golden voor de inwerkingtreding van artikel 12 van dit decreet, tot uiterlijk 31 december 2024 verder toepassen op de instellingen die ze daarvoor aanwijst.
+
+### ART 24.
+
+Artikel 2 treedt in werking op een datum die de Vlaamse Regering vaststelt.<br>
+<br>
+Artikel 3, 2°, 6, 10, 1° en 3°, 14, 2°, en 15 tot en met 20 hebben uitwerking met ingang van 1 januari 2019.<br>
+<br>
+Artikel 3, 1°, en 14, 1°, hebben uitwerking met ingang van 1 september 2019.<br>
+<br>
+Artikel 7 tot en met 9 hebben uitwerking met ingang van 1 september 2021 voor de toekenning van selectieve participatietoeslagen vanaf het schooljaar 2021-2022.<br>
+<br>
+Artikel 10, 2°, heeft uitwerking met ingang van 1 januari 2022.<br>
+<br>
+Artikel 5, 5°, 12 en 21 tot en met 23 treden in werking op 1 augustus 2022.
