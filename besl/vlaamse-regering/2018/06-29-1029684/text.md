@@ -167,6 +167,8 @@ De minister kan de nadere regels bepalen die gelden als de begunstigden hun gezi
 
 ### ART 14.
 
+§ 1. Als de betaling van toelagen in het kader van het gezinsbeleid om technische of sociale redenen niet mogelijk is per overschrijving, worden de voormelde toelagen met een circulaire cheque betaald.<br>
+<br>
 § 1/1. Als er twee begunstigden zijn, bepalen de begunstigden samen aan wie van hen de circulaire cheque, vermeld in artikel 76, tweede lid, van het Groeipakketdecreet van 2018, wordt uitbetaald, overeenkomstig de modaliteiten in artikel 4, § 2 van dit besluit.<br>
 <br>
 De begunstigden kunnen deze keuze gemaakt overeenkomstig het eerste lid, herroepen onder toepassing van de modaliteiten in artikel 6 van dit besluit.<br>
