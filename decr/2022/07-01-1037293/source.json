@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037293,
+  "title": "Decreet van 2022-07-01 tot wijziging van het Wetboek van Strafvordering, het Veldwetboek van 7 oktober 1886, het Bosdecreet van 13 juni 1990, het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu en het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, wat betreft het beschermen van de bossen en het natuurbeheer van openbare terreinen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037293/VolledigDocument?datum=2022-08-08",
+  "source_sha256": "7c4a74cd7aaf8fcf9f629558d8d8d4baa25e2e60c21224238219a8adc0b11ca1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037293&param=informatie",
+  "as_of": "2022-08-08",
+  "made": "2022-07-01",
+  "gazette": "2022-07-29",
+  "numac": 2022032818,
+  "document_start": "2022-08-08",
+  "document_end": null,
+  "in_force": "2022-08-08",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2022-08-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
