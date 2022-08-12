@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK 1. Algemeen
 
+### ART 1.
+
+Dit decreet regelt een gewest- en gemeenschapsaangelegenheid.
+
 ## HOOFDSTUK 2. Financiën en Begroting
 
 ### ART 2.
@@ -12,6 +16,27 @@ Aan artikel 53, § 4, van het decreet van 21 december 1994 houdende bepalingen t
 ## HOOFDSTUK 3. Landbouw en Visserij
 
 ## Afdeling 1. Uitbreiding Vlaams Fonds voor Landbouw en Visserij voor cofinanciering van het Vlaams Klimaatfonds voor land- en tuinbouw
+
+### ART 3.
+
+Aan artikel 2 van het decreet van 19 mei 2006 betreffende de oprichting en de werking van het Fonds voor Landbouw en Visserij, gewijzigd bij het decreet van 28 juni 2013, wordt een punt 8° toegevoegd, dat luidt als volgt:<br>
+"8° Vlaams Klimaatfonds: het Vlaams Klimaatfonds, vermeld in artikel 14 van het decreet van 13 juli 2012 houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2012, het laatst gewijzigd bij het decreet van 18 december 2020.".
+
+### ART 4.
+
+Aan artikel 4 van hetzelfde decreet, vervangen bij het decreet van 28 juni 2013 en gewijzigd bij het decreet van 6 juli 2018, wordt een punt 7° toegevoegd, dat luidt als volgt:<br>
+"7° uitgaven die betrekking hebben op de cofinanciering vanuit het Vlaams Klimaatfonds voor land- en tuinbouw gerelateerde initiatieven.".
+
+### ART 5.
+
+Aan artikel 5 van hetzelfde decreet, vervangen bij het decreet van 28 juni 2013 en gewijzigd bij de decreten van 30 juni 2017 en 6 juli 2018, wordt een punt 14° toegevoegd, dat luidt als volgt:<br>
+"14° financiering uit het Vlaams Klimaatfonds.".
+
+### ART 6.
+
+Aan artikel 7 van hetzelfde decreet, vervangen bij het decreet van 28 juni 2013 en gewijzigd bij het decreet van 6 juli 2018, wordt een paragraaf 4 toegevoegd, die luidt als volgt:<br>
+<br>
+" § 4. De raad verleent geen advies over de middelen en uitgaven gerelateerd aan het Vlaams Klimaatfonds.".
 
 ## Afdeling 2. Wijzigingen van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid
 
@@ -389,4 +414,18 @@ De bedragen, vermeld in deze paragraaf, worden binnen de perken van de begroting
 
 ## HOOFDSTUK 5. Welzijn, Volksgezondheid en Gezin
 
+### ART 21.
+
+Aan artikel 33 van het decreet van 6 juli 2001 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2001, gewijzigd bij de decreten van 22 december 2006, 21 november 2008, 18 december 2009, 30 juni 2017 en 20 december 2019, wordt een paragraaf 10 toegevoegd, die luidt als volgt:<br>
+<br>
+" § 10. De middelen van het fonds van het Vlaams ministerie van Welzijn, Volksgezondheid en Gezin, verkregen op basis van paragraaf 2, kunnen eveneens aangewend worden voor de betaling van facturen voor het tijdelijk inhuren van personeel via uitzendarbeid of externe ICT-profielen ter vervanging van de personeelsleden binnen WVG die ten laste genomen worden door andere organisaties of overheden.".
+
 ## HOOFDSTUK 6. Inwerkingtreding
+
+### ART 22.
+
+Dit decreet treedt in werking de tiende dag na de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van:<br>
+1° artikel 7 tot en met 11, die in werking treden op een door de Vlaamse Regering vast te stellen datum;<br>
+2° artikel 18 en 20, die in werking treden op 1 september 2022.<br>
+<br>
+Artikel 2, 12 tot en met 17 en 19 hebben uitwerking met ingang van 1 januari 2022.
