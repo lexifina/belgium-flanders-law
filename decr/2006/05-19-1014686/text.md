@@ -8,7 +8,16 @@ Dit decreet regelt een gewestaangelegenheid.<br /><br />
 
 ### ART. 2.
 
-Voor de toepassing van dit decreet wordt verstaan onder :<BR>1° dieren :   de levende gewervelde en ongewervelde dieren van welke soort ook;<BR>2°   dierlijke producten : producten van dierlijke oorsprong die al dan niet een   verwerking of bewerking hebben ondergaan;<BR>3° planten : de levende planten en   de levende delen van planten met inbegrip van de verse vruchten en de   zaden;<BR>4° plantaardige producten : producten van plantaardige oorsprong die   al dan niet een verwerking of bewerking hebben ondergaan, voorzover het geen   planten betreft;<BR>5° visserijproducten : producten van de visvangst op zee en   in de binnenwateren en van de aquacultuur die al dan niet een verwerking of   bewerking hebben ondergaan;<BR>6° Vlaams Landbouwfonds : Vlaams Fonds voor   Landbouw en Visserij;<BR>7° minister : de Vlaamse minister, bevoegd voor het   Landbouwbeleid en de Zeevisserij.<BR><BR>
+Voor de toepassing van dit decreet wordt verstaan onder :<br>
+1° dieren : de levende gewervelde en ongewervelde dieren van welke soort ook;<br>
+2° dierlijke producten : producten van dierlijke oorsprong die al dan niet een verwerking of bewerking hebben ondergaan;<br>
+3° planten : de levende planten en de levende delen van planten met inbegrip van de verse vruchten en de zaden;<br>
+4° plantaardige producten : producten van plantaardige oorsprong die al dan niet een verwerking of bewerking hebben ondergaan, voorzover het geen planten betreft;<br>
+5° visserijproducten : producten van de visvangst op zee en in de binnenwateren en van de aquacultuur die al dan niet een verwerking of bewerking hebben ondergaan;<br>
+6° Vlaams Landbouwfonds : Vlaams Fonds voor Landbouw en Visserij;<br>
+7° minister : de Vlaamse minister, bevoegd voor het Landbouwbeleid en de Zeevisserij;<br>
+8° Vlaams Klimaatfonds: het Vlaams Klimaatfonds, vermeld in artikel 14 van het decreet van 13 juli 2012 houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2012, het laatst gewijzigd bij het decreet van 18 december 2020.<br>
+&nbsp;
 
 ## HOOFDSTUK II Oprichting, middelen en uitgaven
 
@@ -26,7 +35,8 @@ Voor de toepassing van dit decreet wordt verstaan onder :<BR>1° dieren :   de l
 5° de uitgaven van het beleidsdomein Landbouw en Visserij om schade te vergoeden, zoals voor het delgen van kosten voor het vernietigen, het uit de handel nemen, het behandelen, het bewerken of verwerken, of het geven van een andere bestemming dan een normale bestemming aan de landbouw- en visserijproducten of grondstoffen, vermeld in artikel 2, 3°, van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid, en, in voorkomend geval, voor het delgen van het inkomensverlies dat daarmee gepaard gaat, als :<br>
 a) de schade voortvloeit uit een beslissing van de Europese Unie, van de federale of van de Vlaamse overheid, zonder dat de schade veroorzaakt is door de schadelijder;<br>
 b) de schade niet voortvloeit uit bestrijdingsprogramma's met betrekking tot de dieren- of plantengezondheid;<br>
-6° ...</p>
+6° ...;<br>
+7° uitgaven die betrekking hebben op de cofinanciering vanuit het Vlaams Klimaatfonds voor land- en tuinbouw gerelateerde initiatieven.</p>
 
 ### ART. 5.
 
@@ -43,7 +53,8 @@ b) de schade niet voortvloeit uit bestrijdingsprogramma's met betrekking tot de 
 10° de bijstand van de Europese Unie voor de uitvoering van de controleregeling die geldt in het kader van het gemeenschappelijk visserijbeleid;<br>
 11° de verplichte bijdragen die opgelegd worden aan de bedrijven of personen die door de aard van hun activiteiten schade kunnen veroorzaken aan planten of dieren en aan plantaardige of dierlijke producten of visserijproducten;<br>
 12° andere middelen die hem bij decreet zijn toegewezen;<br>
-13° bij achterstal van betaling, de intresten op de bedragen, vermeld in punt 1° tot en met 12°.<br>
+13° bij achterstal van betaling, de intresten op de bedragen, vermeld in punt 1° tot en met 12°;<br>
+14° financiering uit het Vlaams Klimaatfonds.<br>
 <br>
 De verplichte bijdragen, retributies, rechten en vergoedingen, vermeld in het eerste lid, 1° en 2°, kunnen worden geheven op planten of plantaardige producten, dieren of dierlijke producten of visserijproducten die worden voortgebracht, geoogst, aangeland, verhandeld, vervoerd, bewerkt of verwerkt. Ze kunnen ook worden geheven op de ondernemingen die planten of plantaardige producten, dieren of dierlijke producten of visserijproducten voortbrengen, verhandelen, vervoeren, bewerken of verwerken.</p>
 
@@ -65,7 +76,9 @@ De raad geeft advies over :<br>
 <br>
 De raad kan aan de minister elk voorstel voorleggen voor het toepassingsdomein van het Vlaams Landbouwfonds.<br>
 <br>
-§ 3. ...</p>
+§ 3. ...<br>
+<br>
+§ 4. De raad verleent geen advies over de middelen en uitgaven gerelateerd aan het Vlaams Klimaatfonds.</p>
 
 ### ART. 8.
 
