@@ -189,7 +189,8 @@ b) de laatst goedgekeurde jaarrekening van de bestuurders met rechtspersoonlijkh
 c) de laatst goedgekeurde jaarrekening van de bestuurders met rechtspersoonlijkheid in de raad van bestuur van de eigenaar van de grond of van de houder van de zakelijke rechten op de grond, als die niet neergelegd hoeft te worden bij de Nationale Bank van België;<br>
 d) een verklaring waarvan het origineel ondertekend is door de persoon of de personen die bevoegd zijn om de eigenaar van de grond of van de houder van de zakelijke rechten op de grond te verbinden enerzijds, en de aanvrager anderzijds, dat er geen ongeoorloofde verwantschapsband bestaat tussen de eigenaar van de grond of de houder van de zakelijke rechten op de grond, en de aanvrager als vermeld in artikel 3 en 4;<br>
 17° het bewijs dat rekening wordt gehouden met het advies, vermeld in artikel 2 van bijlage 1, die bij dit besluit is gevoegd;<br>
-18° als het een project met financiering zonder voorafgaande subsidiebelofte of voorafgaand principieel akkoord betreft als vermeld in artikel 8 van het decreet van 23 februari 1994: de gegevens waaruit blijkt dat de aanvrager beschikt over de nodige financiële middelen die vereist zijn voor de volledige autofinanciering van het project.<br>
+18° als het een project met financiering zonder voorafgaande subsidiebelofte of voorafgaand principieel akkoord betreft als vermeld in artikel 8 van het decreet van 23 februari 1994: de gegevens waaruit blijkt dat de aanvrager beschikt over de nodige financiële middelen die vereist zijn voor de volledige autofinanciering van het project;<br>
+19° een bewijs van een ontvankelijke aanvraag van de stedenbouwkundige vergunning of de omgevingsvergunning voor het project.<br>
 <br>
 De stukken en gegevens, vermeld in het eerste lid, 5° tot en met 7°, vormen het masterplan.<br>
 <br>
@@ -247,15 +248,17 @@ De aanvraag van een akkoord infrastructuurforfait, vermeld in het eerste lid, be
 
 § 1. Het Fonds onderzoekt of de vraag, vermeld in artikel 6 en 9, of de heropening, vermeld in artikel 8, voldoet aan de voorwaarden, vermeld in artikel 2, 3 en 5, en maakt een raming van de financiële weerslag van het project op de opeenvolgende begrotingsjaren.<br>
 <br>
-Het Fonds stuurt binnen veertien kalenderdagen na de ontvangst van een vraag als vermeld in het eerste lid, een bewijs van ontvangst naar de aanvrager, met de vermelding dat de vraag ontvankelijk of niet ontvankelijk is, en in voorkomend geval met de vermelding van de datum van ontvankelijkheid. De ontvankelijkheid houdt in dat de vraag voldoet aan de voorwaarden, vermeld in artikel 2, 3 en 5. De datum van ontvankelijkheid is de datum van de ontvangst van de ontvankelijke vraag.<br>
+Het Fonds stuurt binnen dertig kalenderdagen na de ontvangst van een vraag als vermeld in het eerste lid, een bewijs van ontvangst naar de aanvrager, met de vermelding dat de vraag ontvankelijk of niet ontvankelijk is, en in voorkomend geval met de vermelding van de datum van ontvankelijkheid. De ontvankelijkheid houdt in dat de vraag voldoet aan de voorwaarden, vermeld in artikel 2, 3 en 5. De datum van ontvankelijkheid is de datum van de ontvangst van de ontvankelijke vraag.<br>
 <br>
-Het Fonds stuurt binnen veertien dagen na de beslissing tot heropening of, als dat van toepassing is, de actualisering van het dossier, een bewijs van heropening naar de aanvrager, met de vermelding dat het dossier ontvankelijk of niet ontvankelijk is, en in voorkomend geval met de vermelding van de datum van ontvankelijkheid. De ontvankelijkheid houdt in dat het dossier voldoet aan de vereisten, vermeld in het eerste lid. De datum van ontvankelijkheid is de datum van de actualisering van het dossier.<br>
+Het Fonds stuurt binnen dertig dagen na de beslissing tot heropening of, als dat van toepassing is, de actualisering van het dossier, een bewijs van heropening naar de aanvrager, met de vermelding dat het dossier ontvankelijk of niet ontvankelijk is, en in voorkomend geval met de vermelding van de datum van ontvankelijkheid. De ontvankelijkheid houdt in dat het dossier voldoet aan de vereisten, vermeld in het eerste lid. De datum van ontvankelijkheid is de datum van de actualisering van het dossier.<br>
+<br>
+Het Fonds kan de aanvrager bijkomende vragen stellen om te kunnen beslissen over de ontvankelijkheid van de aanvraag. De termijn, vermeld in het tweede lid, wordt geschorst tot de aanvrager de bijkomende vragen heeft beantwoord.<br>
 <br>
 § 2. Het Fonds vraagt binnen tien kalenderdagen na de datum van ontvankelijkheid van de vraag, vermeld in artikel 6 en 9, of de heropening, vermeld in artikel 8, advies aan:<br>
 1° de functioneel bevoegde administratie over het masterplan, de zelfevaluatie, vermeld in artikel 47 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap, en de functionele en kwalitatieve normen;<br>
 2° een of meer ambtenaren die ter beschikking staan van het Fonds, over de financiële aspecten, over het beantwoorden aan de bouwtechnische en bouwfysische normen, over de technische aspecten en de kostprijsraming, en over de controle van de verwantschapsband, vermeld in artikel 3 en 4 van dit besluit.<br>
 <br>
-§ 3. De functioneel bevoegde administraties en de ambtenaren, vermeld in paragraaf 2, kunnen aanvullende inlichtingen vragen aan de aanvrager. Ze bezorgen hun advies aan het Fonds binnen zestig kalenderdagen na de ontvangst van de adviesvraag.<br>
+§ 3. De functioneel bevoegde administraties en de ambtenaren, vermeld in paragraaf 2, kunnen aanvullende inlichtingen vragen aan de aanvrager. Ze bezorgen hun advies aan het Fonds binnen honderdtwintig kalenderdagen na de ontvangst van de adviesvraag.<br>
 <br>
 § 4. Het Fonds roept minstens tweemaandelijks een coördinatiecommissie samen.<br>
 <br>
@@ -299,7 +302,7 @@ Een akkoord infrastructuurforfait houdt in dat het project van de aanvrager in p
 <br>
 § 2. De investeerder geeft voor het project het bevel tot aanvang van de werken of verlijdt de authentieke akte voor de aankoop binnen twee jaar na de datum van het akkoord infrastructuurforfait. Anders vervalt het akkoord infrastructuurforfait. De geldigheidstermijn van het akkoord infrastructuurforfait kan, op gemotiveerd verzoek van de aanvrager, door de minister worden verlengd in geval van overmacht.<br>
 <br>
-Nadat de investeerder het bevel gegeven heeft tot aanvang van de werken of de authentieke akte voor de aankoop heeft verleden, bezorgt de aanvrager onmiddellijk een kopie van het bevel en van de stedenbouwkundige vergunning of de authentieke akte aan het Fonds en deelt hij aan het Fonds de geplande datum van de ingebruikname mee.<br>
+Nadat de investeerder het bevel gegeven heeft tot aanvang van de werken of de authentieke akte voor de aankoop heeft verleden, bezorgt de aanvrager onmiddellijk een kopie van het bevel en van de stedenbouwkundige vergunning&nbsp;of de omgevingsvergunning of de authentieke akte aan het Fonds en deelt hij aan het Fonds de geplande datum van de ingebruikname mee.<br>
 <br>
 § 3. Als de investeerder voor een bepaald project al werkzaamheden aangevat heeft of een authentieke akte voor de aankoop heeft verleden zonder te beschikken over een akkoord infrastructuurforfait voor het project, komt de aanvrager niet meer in aanmerking voor een infrastructuurforfait voor het project in kwestie.<br>
 <br>
