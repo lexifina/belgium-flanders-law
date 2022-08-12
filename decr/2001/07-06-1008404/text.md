@@ -225,7 +225,9 @@ De indirecte schuld, zoals gedefinieerd in artikel 2, 2°, van het decreet van 1
 <br>
 § 9. Aan het fonds van het Vlaams ministerie van Cultuur, Jeugd, Sport en Media worden alle inkomsten toegewezen die verkregen worden uit de kandidaatstellingen voor landelijke radio's, netwerkradio's en lokale radio's die bij het Departement Cultuur, Jeugd en Media worden ingediend.<br>
 <br>
-De middelen van het fonds van het Vlaams ministerie van Cultuur, Jeugd, Sport en Media, verkregen op basis van het eerste lid, dienen aangewend te worden voor de betaling van de wedden en weddentoelagen van de tijdelijke personeelsleden die worden aangeworven voor het behandelen van de aanvragen inzake landelijke radio's, netwerkradio's en lokale radio's alsook voor de werkingsuitgaven naar aanleiding van de behandeling van de genoemde aanvragen.
+De middelen van het fonds van het Vlaams ministerie van Cultuur, Jeugd, Sport en Media, verkregen op basis van het eerste lid, dienen aangewend te worden voor de betaling van de wedden en weddentoelagen van de tijdelijke personeelsleden die worden aangeworven voor het behandelen van de aanvragen inzake landelijke radio's, netwerkradio's en lokale radio's alsook voor de werkingsuitgaven naar aanleiding van de behandeling van de genoemde aanvragen.<br>
+<br>
+§ 10. De middelen van het fonds van het Vlaams ministerie van Welzijn, Volksgezondheid en Gezin, verkregen op basis van paragraaf 2, kunnen eveneens aangewend worden voor de betaling van facturen voor het tijdelijk inhuren van personeel via uitzendarbeid of externe ICT-profielen ter vervanging van de personeelsleden binnen WVG die ten laste genomen worden door andere organisaties of overheden.
 
 ## HOOFDSTUK XVII INVOERING VAN DE EURO VOOR DE VLAAMSE GEWESTELIJKE BELASTINGEN EN FINANCIËN
 
