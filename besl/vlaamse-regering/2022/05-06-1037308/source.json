@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037308,
+  "title": "Besluit van de Vlaamse Regering van 2022-05-06 tot wijziging van regelgeving over de infrastructuur voor persoonsgebonden aangelegenheden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037308/VolledigDocument?datum=2022-08-12",
+  "source_sha256": "3e191e69801542388806482b221d38c329d7c8eaca85e8928b6dcf4446e7f8e1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037308&param=informatie",
+  "as_of": "2022-08-12",
+  "made": "2022-05-06",
+  "gazette": "2022-08-02",
+  "numac": 2022020947,
+  "document_start": "2022-08-12",
+  "document_end": null,
+  "in_force": "2022-08-12",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2022-08-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
