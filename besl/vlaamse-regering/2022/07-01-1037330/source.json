@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037330,
+  "title": "Besluit van de Vlaamse Regering van 2022-07-01 tot uitvoering van het decreet van 23 december 2021 tot het nemen van dringende steunmaatregelen voor de jeugdsector naar aanleiding van de COVID-19-pandemie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037330/VolledigDocument?datum=2022-08-12",
+  "source_sha256": "58e9fe82e476d786e2490499a66f0774e185e724bfeba38b5e9ff9edb17ce162",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037330&param=informatie",
+  "as_of": "2022-08-12",
+  "made": "2022-07-01",
+  "gazette": "2022-08-11",
+  "numac": 2022015538,
+  "document_start": "2022-08-12",
+  "document_end": null,
+  "in_force": "2022-08-12",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2022-08-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
