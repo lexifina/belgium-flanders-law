@@ -415,11 +415,17 @@ Het totale kabeljauwquotum in de ICES-gebieden II, IV, dat gereserveerd is voor 
 <br>
 § 2. Het is in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.<br>
 <br>
+Vanaf 16 augustus 2022 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
 Het is in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+Vanaf 16 augustus 2022 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 § 3. In januari 2022 worden in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat gedurende de gehele visreis gebruik maakt van netmaaswijdtes groter dan 100 mm in de bordenvisserij (TR1) of groter dan 120 mm in de boomkorvisserij (BT1), de hoeveelheden vermeld in paragraaf 1 en 2 verhoogd met 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden. Vanaf 1 februari 2022 worden de hierboven vermelde hoeveelheden voor die vaartuigen verminderd tot eveneens 100 kg per vaartdag.<br>
 <br>
 Vanaf 1 juni 2022 wordt de hoeveelheid vermeld in het eerste lid, verhoogd naar 200 kg per vaartdag.<br>
+<br>
+Vanaf 16 augustus 2022 wordt de hoeveelheid vermeld in het eerste lid verhoogd naar 400 kg per vaartdag.<br>
 <br>
 § 4. Er wordt voor de periode van 15 maart 2022 tot en met 30 juni 2022 een kabeljauwquotum van 50 ton uit de Noordzee voorbehouden voor vaartuigen die naar de Noorse zone gaan.<br>
 <br>
