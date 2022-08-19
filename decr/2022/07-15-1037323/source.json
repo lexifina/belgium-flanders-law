@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037323,
+  "title": "Decreet van 2022-07-15 tot toevoeging van een paragraaf 9 en 10 aan artikel 47 van het Erkenningsdecreet Lokale Geloofsgemeenschappen van 22 oktober 2021",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037323/VolledigDocument?datum=2022-08-19",
+  "source_sha256": "f78f86f61d25d1ee66bf04b0c2dda9b8fc80761e33bc28280fc3918ab6111990",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037323&param=informatie",
+  "as_of": "2022-08-19",
+  "made": "2022-07-15",
+  "gazette": "2022-08-09",
+  "numac": 2022032920,
+  "document_start": "2022-08-19",
+  "document_end": null,
+  "in_force": "2022-08-19",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2022-08-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
