@@ -2,16 +2,16 @@
   "codex_id": 1036223,
   "title": "Decreet van 2021-10-22 tot regeling van de erkenning van lokale geloofsgemeenschappen, de verplichtingen van de besturen van de eredienst en het toezicht daarop en tot wijziging van het decreet van 7 mei 2004 betreffende de materiële organisatie en werking van de erkende erediensten (citeeropschrift: \"Erkenningsdecreet Lokale Geloofsgemeenschappen van 22 oktober 2021\")",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036223/VolledigDocument?datum=2021-11-16",
-  "source_sha256": "217c544bf72388c04d12a501aa862675b345c221036e55c17b0b175346defc71",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036223/VolledigDocument?datum=2022-08-19",
+  "source_sha256": "6dd5b6d4e86b40d3316959cc9ee89778d0c6fff5f6050a35dcea974398cb9269",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036223&param=informatie",
-  "as_of": "2021-11-16",
+  "as_of": "2022-08-19",
   "made": "2021-10-22",
   "gazette": "2021-11-16",
   "numac": 2021022414,
   "document_start": "2021-11-16",
   "document_end": null,
-  "in_force": "2021-11-16",
+  "in_force": "2022-08-19",
   "article_versions": 73,
-  "record_form": "consolidated version as in force on 2021-11-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-08-19; future article versions excluded; article text as the API gives it"
 }
