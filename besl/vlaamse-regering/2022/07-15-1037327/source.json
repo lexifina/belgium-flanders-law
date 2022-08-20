@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037327,
+  "title": "Besluit van de Vlaamse Regering van 2022-07-15 tot ondersteuning van de visserijsector als gevolg van de situatie in Oekraïne",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037327/VolledigDocument?datum=2022-08-20",
+  "source_sha256": "e7b5ff9aa0285eae8d35336de4e31897d3ad56e17a7a9a0a9647431378d5608a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037327&param=informatie",
+  "as_of": "2022-08-20",
+  "made": "2022-07-15",
+  "gazette": "2022-08-10",
+  "numac": 2022033041,
+  "document_start": "2022-08-20",
+  "document_end": null,
+  "in_force": "2022-08-20",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2022-08-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
