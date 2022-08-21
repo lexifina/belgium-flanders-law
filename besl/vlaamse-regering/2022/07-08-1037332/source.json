@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037332,
+  "title": "Besluit van de Vlaamse Regering van 2022-07-08 tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2022 in het kader van de besteding van de middelen uit het Vlaams Klimaatfonds",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037332/VolledigDocument?datum=2022-08-21",
+  "source_sha256": "b14e012df82069289a02260287e0300104aa86cfed5ceedbd090270f07a221c9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037332&param=informatie",
+  "as_of": "2022-08-21",
+  "made": "2022-07-08",
+  "gazette": "2022-08-11",
+  "numac": 2022015626,
+  "document_start": "2022-08-21",
+  "document_end": null,
+  "in_force": "2022-08-21",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-08-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
