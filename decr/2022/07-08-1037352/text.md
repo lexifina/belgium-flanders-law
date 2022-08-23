@@ -18,6 +18,12 @@ In artikel 36sexies, tweede lid, 2°, van hetzelfde decreet, toegevoegd bij het 
 
 ## HOOFDSTUK 5. Decreet van 7 mei 2004 tot omvorming van het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Agentschap voor Infrastructuur in het Onderwijs" naar een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Agentschap voor Infrastructuur in het Onderwijs"
 
+### ART 40.
+
+In het decreet van 7 mei 2004 tot omvorming van het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Agentschap voor Infrastructuur in het Onderwijs" naar een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Agentschap voor Infrastructuur in het Onderwijs", het laatst gewijzigd bij het decreet van 7 december 2018, wordt een artikel 6bis ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 6bis. Het Agentschap voor Infrastructuur in het Onderwijs heeft toegang tot de gebouw-, grond -en omgevingsgebonden informatie over het gebouw of grond en omgeving van de inrichtende machten van het gesubsidieerd niet-hoger onderwijs in bronnen van of voor de Vlaamse overheid.".
+
 ## HOOFDSTUK 6. Wijzigingen van het decreet van 15 juni 2007 betreffende het volwassenonderwijs
 
 ## HOOFDSTUK 7. Wijziging van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap
