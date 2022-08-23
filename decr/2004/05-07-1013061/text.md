@@ -52,6 +52,10 @@ Het agentschap kan beleidsregels opstellen die aangeven op welke wijze het agent
 <br>
 § 3. Als rechtspersoon is AGIOn algemeen rechts-, handelings- en procesbekwaam, binnen de perken van zijn missie en takenstelling zoals bedoeld in respectievelijk artikel 4 en artikel 5 en binnen de perken van het Bestuursdecreet.</p>
 
+### ART 6bis.
+
+Het Agentschap voor Infrastructuur in het Onderwijs heeft toegang tot de gebouw-, grond -en omgevingsgebonden informatie over het gebouw of grond en omgeving van de inrichtende machten van het gesubsidieerd niet-hoger onderwijs in bronnen van of voor de Vlaamse overheid.
+
 ## HOOFDSTUK IV BESTUUR EN WERKING
 
 ### ART. 7.
