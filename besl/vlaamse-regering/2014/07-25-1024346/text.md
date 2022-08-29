@@ -172,7 +172,9 @@ In de rechtsgedingen van de Vlaamse Gemeenschap of het Vlaamse Gewest met   betr
 3° elke verrichting te doen voor het financieel beheer in het algemeen belang, met inbegrip van het verstrekken van leningen of kredieten en het aangaan van participaties die kaderen in de directe financiering van te consolideren instellingen alsook het stellen van de waarborg van de Vlaamse Gemeenschap of het Vlaamse Gewest, naargelang het geval, van dergelijke operaties door derden;<br>
 4° de terugbetaling van kapitaalsaflossingen van leningen van de directe schuld die op vervaldag komen, door middel van leningen te dekken.<br>
 <br>
-§ 4. De Vlaamse minister, bevoegd voor de financiën en de begrotingen, heeft delegatie om het jaarlijkse percentage vast te stellen van de verbintenissen dat volgens de statistische gegevens over de saldi en de ordonnanties effectief vereffend wordt, als dat is toegestaan in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap.
+§ 4. De Vlaamse minister, bevoegd voor de financiën en de begrotingen, heeft delegatie om het jaarlijkse percentage vast te stellen van de verbintenissen dat volgens de statistische gegevens over de saldi en de ordonnanties effectief vereffend wordt, als dat is toegestaan in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap.<br>
+<br>
+§ 5. De Vlaamse minister, bevoegd voor de financiën en de begrotingen, heeft delegatie om schadevergoedingen in het kader van het Indemniteitsdecreet van 21 januari 2022, die niet meer dan 500.000 euro bedragen te erkennen als last als vermeld in artikel 53, § 2, tweede lid, 2°, van het decreet van 21 december 1994 houdende bepalingen tot begeleiding van de begroting 1995.
 
 ### ART. 13.
 
