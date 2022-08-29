@@ -2,16 +2,16 @@
   "codex_id": 1036616,
   "title": "Decreet van 2022-01-21 tot invoering van een waarborg bij inkomende bruiklenen voor tijdelijke tentoonstellingen (citeeropschrift: het Indemniteitsdecreet van 21 januari 2022)",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036616/VolledigDocument?datum=2022-01-21",
-  "source_sha256": "41a085cbe6049a86ad0a68f4563af31a423de941c895afd3d37df2b9a6ee9970",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036616/VolledigDocument?datum=2022-08-29",
+  "source_sha256": "cc8be433aff32d0e721f576f0ba9fdc720dae77af838cf85e37d39c5e7b82391",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036616&param=informatie",
-  "as_of": "2022-01-21",
+  "as_of": "2022-08-29",
   "made": "2022-01-21",
   "gazette": "2022-03-10",
   "numac": 2022040128,
   "document_start": "2022-08-29",
   "document_end": null,
-  "in_force": "2022-01-21",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2022-01-21; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-08-29",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2022-08-29; future article versions excluded; article text as the API gives it"
 }
