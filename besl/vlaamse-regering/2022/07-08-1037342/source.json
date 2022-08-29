@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037342,
+  "title": "Besluit van de Vlaamse Regering van 2022-07-08 tot uitvoering van het Indemniteitsdecreet van 21 januari 2022",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037342/VolledigDocument?datum=2022-08-29",
+  "source_sha256": "b3ce74c89009e21689881535031764adc05adaac4c0d4dc8dae2062503d889dd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037342&param=informatie",
+  "as_of": "2022-08-29",
+  "made": "2022-07-08",
+  "gazette": "2022-08-19",
+  "numac": 2022032923,
+  "document_start": "2022-08-29",
+  "document_end": null,
+  "in_force": "2022-08-29",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2022-08-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
