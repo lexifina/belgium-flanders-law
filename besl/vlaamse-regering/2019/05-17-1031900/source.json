@@ -2,16 +2,16 @@
   "codex_id": 1031900,
   "title": "Besluit van de Vlaamse Regering van 2019-05-17 betreffende de selectieve participatietoeslagen leerling",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031900/VolledigDocument?datum=2022-03-25",
-  "source_sha256": "86d501404171e168d3cb11ada50f8b3e9b653ca993be36844a217fb853008002",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031900/VolledigDocument?datum=2022-08-31",
+  "source_sha256": "2e9c21e208823fb9ec89a8a0ae022f30b6b42ce3bfc4c0580582a4ebb991d1b0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031900&param=informatie",
-  "as_of": "2022-03-25",
+  "as_of": "2022-08-31",
   "made": "2019-05-17",
   "gazette": "2019-07-15",
   "numac": 2019041301,
   "document_start": "2019-09-01",
   "document_end": null,
-  "in_force": "2022-03-25",
+  "in_force": "2022-08-31",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2022-03-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-08-31; future article versions excluded; article text as the API gives it"
 }

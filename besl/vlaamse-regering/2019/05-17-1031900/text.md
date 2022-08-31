@@ -34,9 +34,13 @@ In dit besluit wordt verstaan onder:<br>
 ### ART 2.
 
 In afwijking van artikel 24, eerste lid, 1°, van het Groeipakketdecreet van 2018 hebben de volgende leerlingen recht op een selectieve participatietoeslag:<br>
-1° de slachtoffers van mensenhandel- of smokkel, geattesteerd door een door de federale overheid erkend centrum dat gespecialiseerd is in het onthaal van slachtoffers van mensenhandel of van slachtoffers van mensensmokkel die op het grondgebied verblijven met een attest van immatriculatie;<br>
-2° een niet-begeleide minderjarige die op het grondgebied verblijft met een attest van immatriculatie;<br>
-3° een pleegkind of pleeggast als vermeld in artikel 2, 8° en 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, op voorwaarde dat het pleegkind of de pleeggast langer dan een jaar onafgebroken bij hetzelfde pleeggezin verblijft.
+1° het kind dat het slachtoffer is van mensenhandel of -smokkel als vermeld in titel II, hoofdstuk IV, van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen, geattesteerd door een centrum dat door de federale overheid erkend is en dat gespecialiseerd is in het onthaal van slachtoffers van mensenhandel of -smokkel, en dat recht heeft om voorlopig op het grondgebied te verblijven in afwachting van de definitieve beslissing over de verblijfsaanvraag conform de voormelde wet;<br>
+2° een niet-begeleide minderjarige vreemdeling die recht heeft om voorlopig op het grondgebied te verblijven in afwachting van de definitieve beslissing over de verblijfsaanvraag conform de voormelde wet. De voormelde niet-begeleide minderjarige vreemdeling voldoet aan de volgende cumulatieve voorwaarden:<br>
+a) minderjarig zijn;<br>
+b) niet-begeleide minderjarige vreemdeling zijn als vermeld in titel XIII, hoofdstuk VI, artikel 5 of 5/1, van de programmawet (I) van 24 december 2002. Het bewijs dat een minderjarig kind beschouwd kan worden als een niet-begeleide minderjarige vreemdeling wordt geleverd door een attest van de dienst Voogdij, vermeld in titel XIII, hoofdstuk VI, artikel 3, van de programmawet (I) van 24 december 2002, waarmee een voogd voor de niet-begeleide minderjarige vreemdeling wordt aangesteld;<br>
+3° een pleegkind of pleeggast als vermeld in artikel 2, 8° en 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, op voorwaarde dat het pleegkind of de pleeggast langer dan een jaar onafgebroken bij een pleeggezin verblijft.<br>
+<br>
+Het eerst lid, 1° en 2°, zoals gewijzigd bij het besluit van de Vlaamse Regering van 24 juni 2022 tot wijziging van artikel 2 van het besluit van de Vlaamse Regering van 17 mei 2019 betreffende de selectieve participatietoeslagen leerling, wat betreft de algemene vrijstellingen van de toekenningsvoorwaarden heeft toepassing met ingang van 1 september 2019 voor de toekenning van selectieve participatietoeslagen vanaf het schooljaar 2019-2020, voor de kinderen die voor 31 augustus 2022 geen recht op selectieve participatietoeslagen konden geven omdat ze jonger dan twaalf jaar waren en bijgevolg geen attest van immatriculatie konden verkrijgen.
 
 ## [HOOFDSTUK 2/1. Pedagogische voorwaarden (ing. BVR 11 februari 2022, art. 47, I: 1 september 2019)]
 
