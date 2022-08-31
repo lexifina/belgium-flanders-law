@@ -110,4 +110,12 @@ In artikel I.2, § 5, eerste lid, van de Codex Hoger Onderwijs van 11 oktober 20
 
 ## HOOFDSTUK 12. Wijziging van het decreet van 4 februari 2022 tot wijziging van het decreet basisonderwijs van 25 februari 1997, de Codex Secundair Onderwijs van 17 december 2010 en de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, wat betreft het inschrijvingsrecht in het gewoon onderwijs buiten het tweetalige gebied Brussel-Hoofdstad en de regelgeving over het LOP en de CLR
 
+### ART 59.
+
+In het decreet van 4 februari 2022 tot wijziging van het decreet basisonderwijs van 25 februari 1997, de Codex Secundair Onderwijs van 17 december 2010 en de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, wat betreft het inschrijvingsrecht in het gewoon onderwijs buiten het tweetalige gebied Brussel-Hoofdstad en de regelgeving over het LOP en de CLR, worden de volgende artikelen opgeheven:<br>
+1° artikel 3;<br>
+2° artikel 28;<br>
+3° artikel 53;<br>
+4° artikel 58 en 59.
+
 ## HOOFDSTUK 13. Inwerkingtreding en toepassingsgebied in de tijd
