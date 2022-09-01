@@ -20,7 +20,7 @@ In dit besluit wordt verstaan onder:<br>
 3° kadastraal inkomen, afgekort Ki: het kadastraal inkomen, vermeld in titel IX van het Wetboek van de Inkomstenbelastingen;<br>
 4° Ki vreemd gebruik: Ki van de onroerende goederen die noch als eigen hoofdverblijfplaats, noch voor eigen beroepsdoeleinden worden gebruikt. In dit besluit wordt het Ki van een onroerend goed niet beschouwd als Ki vreemd gebruik als dat onroerend goed niet als eigen hoofdverblijfplaats wordt gebruikt door de stand van de bouwwerkzaamheden of van de verbouwingswerkzaamheden die het de begunstigden niet toelaten om de woning daadwerkelijk te betrekken, onder de voorwaarden, vermeld in artikel 14538, § 1, van het wetboek van de inkomstenbelastingen 1992;<br>
 5° Ki voor eigen beroepsdoeleinden: het Ki van de onroerende goederen die voor eigen beroepsdoeleinden gebruikt worden, vermeld op het aanslagbiljet van de personenbelasting;<br>
-6° toekenningsjaar: de periode van 1 oktober tot en met 30 september van het volgende kalenderjaar.
+6° toekenningsjaar: de periode van 1 september tot en met 31 augustus van het volgende kalenderjaar.
 
 ## HOOFDSTUK 2. Gezinsbegrip
 
