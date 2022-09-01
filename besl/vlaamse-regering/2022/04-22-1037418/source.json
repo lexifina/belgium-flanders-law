@@ -2,16 +2,16 @@
   "codex_id": 1037418,
   "title": "Besluit van de Vlaamse Regering van 2022-04-22 tot uitvoering van maatregelen uit cao V voor de basiseducatie, cao VI voor het hoger onderwijs en cao XII voor de andere onderwijsniveaus die uitwerking hebben op 1 september 2021 en 1 januari 2022",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037418/VolledigDocument?datum=2022-01-01",
-  "source_sha256": "28f4286daa616319a2260b96741e5afd39cb65f4555523e4781fcd79ac64a4a0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037418/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "54ff708f33a1af94f4a34efdb4cc3f08d7f8f9840fe3df57c4c9c074fcc06888",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037418&param=informatie",
-  "as_of": "2022-01-01",
+  "as_of": "2022-09-01",
   "made": "2022-04-22",
   "gazette": "2022-09-22",
   "numac": 2022020988,
   "document_start": "2021-09-01",
   "document_end": null,
-  "in_force": "2022-01-01",
-  "article_versions": 55,
-  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-09-01",
+  "article_versions": 56,
+  "record_form": "consolidated version as in force on 2022-09-01; future article versions excluded; article text as the API gives it"
 }
