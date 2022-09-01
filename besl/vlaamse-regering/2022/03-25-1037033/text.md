@@ -20,6 +20,40 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+Aan de volgende onderwijsinstellingen wordt, met toepassing van artikel 289, § 3 van de Codex Secundair Onderwijs van 17 december 2010, voor het schooljaar 2022-2023 toestemming verleend om de volgende programmatie aan te bieden:<br>
+1° Buso Sint-Jozefinstituut<br>
+Kerkstraat 153<br>
+2060 Antwerpen<br>
+Opleidingsfase Basis mobiliteit<br>
+Domein: STEM<br>
+2° RHIZO 7 BuSO De Lage Kouter<br>
+Beekstraat 113_B<br>
+8500 Kortrijk<br>
+Opleidingsfase Basis mobiliteit<br>
+Domein: STEM<br>
+3° GO! athena-campus Ter Bruyninge BuSO<br>
+Bruyningstraat 52<br>
+8510 Kortrijk<br>
+Opleidingsfase Basis organisatie en logistiek<br>
+Domein: Economie en organisatie<br>
+4° Buso Sint-Janshof<br>
+Nekkerspoelstraat 358_B<br>
+2800 Mechelen<br>
+Opleidingsfase Basis groenvoorziening &amp; -decoratie<br>
+Domein: Land- en tuinbouw<br>
+5° Buso Mariadal<br>
+Klein Overlaar 3<br>
+3320 Hoegaarden<br>
+Opleidingsfase Basis organisatie en logistiek<br>
+Domein: Economie en organisatie<br>
+6° Sint-Paulusschool campus VTI/VIBSO<br>
+Toekomststraat 75<br>
+8790 Waregem<br>
+Opleidingsfase Basis groenvoorziening &amp; -decoratie<br>
+Domein: Land- en tuinbouw
+
 ### ART 4.
 
 Artikel 1 van dit besluit treedt in werking op 1 september 2022.
