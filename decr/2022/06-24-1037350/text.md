@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK 1. Inleidende bepaling
 
+### ART 1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid.
+
 ## HOOFDSTUK 2. Toekenning nascholingsmiddelen ICT-opleidingen
 
 ### ART 2.
@@ -22,6 +26,10 @@ Een terugvordering of inhouding van de nascholingsmiddelen kan er niet toe leide
 
 ## HOOFDSTUK 3. Wijziging van het decreet basisonderwijs van 25 februari 1997
 
+### ART 3.
+
+In artikel 87ter van het decreet basisonderwijs van 25 februari 1997, ingevoegd bij het decreet van 9 juli 2021, wordt de zin "De middelen worden ingezet voor de aanstelling van personeelsleden in het schooljaar 2021-2022 die ondersteuners vervangen tijdens een periode van professionalisering." vervangen door de zin "De middelen worden ingezet om in het schooljaar 2021-2022 en in het eerste trimester van het schooljaar 2022-2023 personeelsleden aan te stellen die ondersteuners vervangen tijdens een periode van professionalisering.".
+
 ## HOOFDSTUK 4. Wijzigingen van de Codex Secundair Onderwijs van 17 december 2010
 
 ### ART 4.
@@ -32,4 +40,16 @@ In artikel 34/1 van de Codex Secundair Onderwijs van 17 december 2010, ingevoegd
 
 In artikel 48/1 van dezelfde codex, ingevoegd bij het decreet van 9 juli 2021, wordt de zinsnede "scholen, centra of scholengemeenschappen in het gewoon en buitengewoon secundair onderwijs" telkens vervangen door de zinsnede "scholen voor gewoon secundair onderwijs, scholen voor buitengewoon secundair onder- wijs, centra voor deeltijds beroeps secundair onderwijs, centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, wat duaal leren en de leertijd betreft".
 
+### ART 6.
+
+In artikel 330/4 van dezelfde codex, ingevoegd bij het decreet van 9 juli 2021, wordt de zin "De middelen worden ingezet voor de aanstelling van personeelsleden in het schooljaar 2021-2022 die ondersteuners vervangen tijdens een periode van professionalisering." vervangen door de zin "De middelen worden ingezet om in het schooljaar 2021-2022 en in het eerste trimester van het schooljaar 2022-2023 personeelsleden aan te stellen die ondersteuners vervangen tijdens een periode van professionalisering.".
+
 ## HOOFDSTUK 5. Inwerkingtreding en toepassingsgebied in de tijd
+
+### ART 7.
+
+Dit decreet treedt in werking op 1 september 2022.<br>
+<br>
+Artikel 2 heeft uitwerking met ingang van 1 juni 2022.<br>
+<br>
+Artikel 4 en 5 hebben uitwerking met ingang van 1 september 2021.
