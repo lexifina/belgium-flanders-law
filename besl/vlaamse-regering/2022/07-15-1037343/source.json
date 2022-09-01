@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037343,
+  "title": "Besluit van de Vlaamse Regering van 2022-07-15 tot uitvoering van het decreet van 14 januari 2022 over maatwerk bij individuele inschakeling",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037343/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "342f25e746fe431ceb7fd178d978258654164ff7ed65b0b939f56694e4a28da6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037343&param=informatie",
+  "as_of": "2022-09-01",
+  "made": "2022-07-15",
+  "gazette": "2022-08-19",
+  "numac": 2022033079,
+  "document_start": "2023-07-01",
+  "document_end": null,
+  "in_force": "2022-09-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2022-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
