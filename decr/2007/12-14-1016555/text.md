@@ -12,15 +12,20 @@ Dit decreet regelt een gemeenschapsaangelegenheid<br /><br />
 
 In elke provincie is er één regionaal technologisch centrum, hierna RTC te noemen. Het RTC Vlaams-Brabant heeft ook het Brusselse Hoofdstedelijke Gewest in zijn werkingsgebied. Het RTC neemt de rechtsvorm aan van een vereniging zonder winstoogmerk zoals bepaald in de wettelijke verplichtingen voor verenigingen zonder winstoogmerk.<br>
 <br>
-De werking van een RTC is gericht op :<br>
-1° de bewerkstelliging van synergiën tussen onderwijsinstellingen en bedrijven;<br>
-2° de optimale doorstroming van leerlingen naar het bedrijfsleven;<br>
-3° de ondersteuning van het technisch onderwijs, het beroepsonderwijs en de leertijd.<br>
-&nbsp;
+De werking van een RTC is erop gericht:<br>
+1° synergieën te creëren tussen onderwijsinstellingen en de ondernemingswereld om innovatie in het onderwijs te brengen;<br>
+2° leerlingen optimaal voor te bereiden op de arbeidsmarktrealiteit;<br>
+3° het onderwijs te ondersteunen op het vlak van innovatie, techniek, technologie en arbeidsmarktrealiteit;<br>
+4° een brede groep leraren aansluiting te laten vinden bij hedendaagse en toekomstgerichte technologie en arbeidsmarktrealiteit.
 
 ### ART. 3.
 
-Een RTC neemt concrete initiatieven inzake :<br />1° de onderlinge afstemming tussen onderwijsinstellingen en bedrijven van de vraag naar en het aanbod van infrastructuur, apparatuur en uitrusting voor technisch en beroepsonderwijs die een pedagogisch-didactische rol kunnen vervullen, inzonderheid door de ontwikkeling of ondersteuning van (een) infrastructurele inbedding(en); en<br />2° de onderlinge afstemming tussen onderwijsinstellingen en bedrijven van de vraag naar en het aanbod van werkplekleren; en/of<br />3° aanvullend op de nascholing in scholen, het faciliteren of coördineren van nascholing op het vlak van nieuwe technologieën; en/of<br />4° de creatie van een platform waarbinnen onderwijsinstellingen en bedrijven kennis en ervaring kunnen uitwisselen.<br /><br />
+Een RTC neemt concrete initiatieven voor de volgende aspecten:<br>
+1° tussen onderwijsinstellingen en ondernemingen de vraag naar en het aanbod van infrastructuur, apparatuur en uitrusting voor onderwijs die een pedagogisch-didactische rol kan vervullen, door een of meer infrastructurele inbeddingen te ontwikkelen of te ondersteunen, op elkaar afstemmen; en<br>
+2° aanvullend op de nascholing in scholen professionalisering op het vlak van nieuwe technologieën en STEM faciliteren of coördineren; en<br>
+3° een platform creëren waarin onderwijsinstellingen en ondernemingen kennis en ervaring kunnen uitwisselen; en/of<br>
+4° tussen onderwijsinstellingen en ondernemingen de mogelijkheden tot werkplekleren faciliteren; en/of<br>
+5° noden, behoeften en tendensen met betrekking tot materies op het snijvlak onderwijs-arbeidsmarkt signaleren aan en ontvangen van het Departement Onderwijs en Vorming.
 
 ## HOOFDSTUK III Beheersovereenkomst
 
@@ -28,33 +33,112 @@ Een RTC neemt concrete initiatieven inzake :<br />1° de onderlinge afstemming t
 
 ### ART. 4.
 
-§ 1. Elk RTC sluit met de Vlaamse Regering telkens voor een periode van   maximum vijf schooljaren een beheersovereenkomst. Mits onderling akkoord tussen   de Vlaamse Regering en het betrokken RTC kan de looptijd van de   beheersovereenkomst worden gewijzigd zonder echter de globale termijn van vijf   schooljaren te overschrijden. De looptijd van de diverse beheersovereenkomsten   is steeds identiek.<BR><BR>De beheersovereenkomst behandelt de bijzondere regels   en voorwaarden waaronder het RTC zijn taken vervult. Het is een sturings- en   voortgangsbewakingsinstrument, in het bijzonder gericht op een doelmatige   uitvoering of dienstverlening, voortgangsbewaking en evaluatie.<BR><BR>§ 2. Een   beheersovereenkomst bestaat uit algemene voorwaarden, een strategisch plan en   een jaaractieplan.<BR><BR>Het strategisch plan bevat minstens de volgende   elementen :<BR>1° de visie en de missie van het RTC;<BR>2° een analyse van de   omgeving, het beleidsveld en van de eigen organisatie;<BR>3° de formulering van   de strategische doelstellingen;<BR>4° de omschrijving van de kritieke   succesfactoren;<BR>5° de instrumenten waarmee men de doelstellingen wil   bereiken.<BR><BR>Het strategisch plan heeft telkens betrekking op de volledige   looptijd van de beheersovereenkomst en wordt bij de beheersovereenkomst   gevoegd.<BR><BR>Een jaaractieplan bevat concrete stappen om de strategische   doelstellingen van het strategisch plan te bereiken. Het jaaractieplan bevat   tevens een financieel plan waarin de kosten en de opbrengsten van dat jaar   begroot worden.<BR><BR>§ 3. Tijdens de looptijd van een beheersovereenkomst   kunnen de Vlaamse Regering en het betrokken RTC beslissen om eventuele   wijzigingen van of addenda bij de beheersovereenkomst aan te brengen.<BR><BR>§   4. De algemene bepalingen kunnen per RTC worden aangevuld met specifieke   bepalingen die rekening houden met het regionale of interregionale   behoeftenpatroon.<BR>
+§ 1. Elk RTC sluit met de Vlaamse Regering telkens voor een periode van maximum vijf schooljaren een beheersovereenkomst. Mits onderling akkoord tussen de Vlaamse Regering en het betrokken RTC kan de looptijd van de beheersovereenkomst worden gewijzigd zonder echter de globale termijn van vijf schooljaren te overschrijden. De looptijd van de diverse beheersovereenkomsten is steeds identiek.<br>
+<br>
+De beheersovereenkomst behandelt de bijzondere regels en voorwaarden waaronder het RTC zijn taken vervult. Het is een sturings- en voortgangsbewakingsinstrument, in het bijzonder gericht op een doelmatige uitvoering of dienstverlening, voortgangsbewaking en evaluatie.<br>
+<br>
+§ 2. Een beheersovereenkomst bestaat uit:<br>
+1° algemene voorwaarden;<br>
+2° een strategisch plan voor de vijf RTC's samen;<br>
+3° een actieplan voor elk schooljaar voor de vijf RTC's samen.<br>
+Een beheersovereenkomst bevat bepalingen over de resultaats- en inspanningsverbintenissen. De resultaatsverbintenissen betreffen minimaal cijfermatige afspraken over het aantal onderwijsinstellingen dat aan de RTC-acties deelneemt met leraren of leerlingen..<br>
+<br>
+De RTC's maken het strategisch plan op. Het strategisch plan bevat al de volgende elementen:<br>
+1° de visie en de missie van het RTC;<br>
+2° een analyse van de omgeving, het beleidsveld en van de eigen organisatie;<br>
+3° de formulering van de strategische doelstellingen;<br>
+4° de omschrijving van de kritieke succesfactoren;<br>
+5° de instrumenten waarmee men de doelstellingen wil bereiken.<br>
+<br>
+Het strategisch plan heeft telkens betrekking op de volledige looptijd van de beheersovereenkomst en wordt bij de beheersovereenkomst gevoegd.<br>
+<br>
+De RTC's maken voor elk schooljaar een actieplan op voor de vijf RTC's samen. Het actieplan bevat concrete stappen om de strategische doelstellingen van het strategisch plan te bereiken. Voor de uitvoering van de identieke acties voor de vijf RTC's kunnen de provinciale of lokale samenwerkingspartners per RTC verschillen. Het voormelde actieplan kan per RTC worden aangevuld met RTC-specifieke acties die rekening houden met het provinciale, interregionale, regionale of lokale behoeftepatroon. Het actieplan bevat ook per RTC een financieel plan waarin de kosten en de opbrengsten van dat schooljaar begroot worden.<br>
+<br>
+§ 3. Tijdens de looptijd van een beheersovereenkomst kunnen de Vlaamse Regering en het betrokken RTC beslissen om eventuele wijzigingen van of addenda bij de beheersovereenkomst aan te brengen.<br>
+<br>
+§ 4. ...
 
 ### ART. 5.
 
-De Vlaamse Regering houdt toezicht op de RTC via gerichte controle die erin bestaat de RTC-structuren, -processen en -uitkomsten te toetsen aan dit decreet en de beheersovereenkomst zoals bedoeld in artikel 4.
+De Vlaamse Regering houdt toezicht op de RTC's via gerichte controle die erin bestaat de RTC-structuren, -processen en -uitkomsten te toetsen aan dit decreet en de beheersovereenkomst zoals bedoeld in artikel 4.
 
 ## Afdeling II Financiële bijdrage van de Vlaamse Gemeenschap
 
 ### ART. 6.
 
-<P>§ 1. Een RTC heeft door het afsluiten van een beheersovereenkomst met de   Vlaamse Regering recht op werkingstoelagen met in acht name van de beschikbare   begrotingskredieten. De werkingstoelagen worden geïndexeerd.<BR><BR>§ 2. De   werkingstoelagen worden per schooljaar als volgt per RTC bepaald:<BR>1° een   forfaitair bedrag dat is vastgesteld op:<BR>a) 100.000 euro voor het   kalenderjaar 2015;<BR>b) 125.000 euro vanaf het kalenderjaar 2016;<BR>2° een   variabel bedrag per RTC naar rato van het aantal regelmatige leerlingen in het   werkingsgebied van het betrokken RTC, geteld op 1 februari van het kalenderjaar   dat voorafgaat aan het betrokken schooljaar. Voor de toepassing van deze   bepaling worden de leerlingen van de derde graad van het voltijds gewoon   technisch onderwijs en het beroepssecundair onderwijs, het buitengewoon   secundair onderwijs, het deeltijds beroepssecundair onderwijs en de leertijd in   aanmerking genomen.<BR><BR>§ 3. De toekenning van de werkingstoelagen per RTC   gebeurt als volgt:<BR>1° voor de periode van 1 september tot en met 31   december:<BR>a) een voorschot van 80 percent wordt uitbetaald uiterlijk 31   oktober van die periode;<BR>b) het saldo van 20 percent wordt uitbetaald na de   indiening en de goedkeuring van het werkings- en activiteitenverslag over het   betrokken schooljaar;<BR>2° voor de periode van 1 januari tot en met 31   augustus:<BR>a) een voorschot van 80 percent wordt uitbetaald uiterlijk 28   februari van die periode;<BR>b) het saldo van 20 percent wordt uitbetaald na de   indiening en de goedkeuring van het werkings- en activiteitenverslag over het   betrokken schooljaar.</P>
+<p>§ 1. Een RTC heeft door het afsluiten van een beheersovereenkomst met de Vlaamse Regering recht op werkingstoelagen met in acht name van de beschikbare begrotingskredieten. De werkingstoelagen worden geïndexeerd.<br>
+<br>
+§ 2. De werkingstoelagen worden per schooljaar als volgt per RTC bepaald:<br>
+1° een forfaitair bedrag dat is vastgesteld op 125.000 euro;<br>
+2° een variabel bedrag per RTC naar rato van het aantal regelmatige leerlingen in het gewoon en buitengewoon secundair onderwijs en het stelsel voor leren en werken in het werkingsgebied van het betrokken RTC, geteld op 1 februari van het kalenderjaar dat voorafgaat aan het betrokken schooljaar. Voor de toepassing van deze bepaling komen niet in aanmerking:<br>
+a) de leerlingen van de eerste graad en de tweede graad van het voltijds gewoon secundair onderwijs en van het buitengewoon secundair onderwijs, OV 4;<br>
+b) de leerlingen van de derde graad van het voltijds gewoon algemeen en kunstsecundair onderwijs en van het buitengewoon algemeen en kunstsecundair onderwijs, OV 4;<br>
+c) de leerlingen van het buitengewoon technisch en beroepssecundair onderwijs, OV 4, type 5;<br>
+d) de leerlingen van het buitengewoon secundair onderwijs, OV 3, observatiefase en opleidingsfase;<br>
+e) de leerlingen van het gemoderniseerde Se-n-Se als beroepsgerichte specialisatie in het derde leerjaar van de derde graad, domeinen Kunst en Creatie en Taal en Cultuur.<br>
+<br>
+§ 3. De toekenning van de werkingstoelagen per RTC gebeurt als volgt:<br>
+1° voor de periode van 1 september tot en met 31 december:<br>
+a) een voorschot van 80 percent wordt uitbetaald uiterlijk 31 oktober van die periode;<br>
+b) het saldo van 20 percent wordt uitbetaald na de indiening en de goedkeuring van het werkings- en activiteitenverslag over het betrokken schooljaar en de toetsing van de realisaties aan de resultaats- en inspanningsverbintenissen, vermeld in de beheersovereenkomst en het actieplan per schooljaar, vermeld in artikel 4, § 2;<br>
+2° voor de periode van 1 januari tot en met 31 augustus:<br>
+a) een voorschot van 80 percent wordt uitbetaald uiterlijk 28 februari van die periode;<br>
+b) het saldo van 20 percent wordt uitbetaald na de indiening en de goedkeuring van het werkings- en activiteitenverslag over het betrokken schooljaar en de toetsing van de realisaties aan de resultaats- en inspanningsverbintenissen, vermeld in de beheersovereenkomst en het actieplan per schooljaar, vermeld in artikel 4, § 2;<br>
+3° voor de toepassing van de bepalingen onder punt 1°, b), en 2°, b), geldt dat naast de goedkeuring van het werkings- en activiteitenverslag enkel de toetsing aan de resultaatsverbintenissen, vermeld in artikel 4, § 2, een vermindering van de uitbetaling van het saldo tot gevolg kan hebben, begrensd tot een maximum van 10 percent van de totale uit te betalen werkingstoelage. Als een resultaatsverbintenis niet wordt behaald, wordt de 10 percent a rato van het aantal behaalde resultaatsverbintenissen betaald.</p>
 
 ## Afdeling III Facilitair kader
 
 ### ART. 7.
 
 Naast de financiële bijdragen van de Vlaamse Gemeenschap als bedoeld in artikel 6 kan een RTC over de volgende middelen beschikken :<br>
-1° financiële, materiële of immateriële middelen die op eigen initiatief door actoren uit de onderwijssector, het bedrijfsleven of door openbare besturen worden ingebracht;<br>
+1° financiële, materiële of immateriële middelen die op eigen initiatief door actoren uit de onderwijssector, het ondernemingsleven of door overheden worden ingebracht;<br>
 2° vergoedingen voor verleende diensten aan organisaties andere dan door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde onderwijs-, opleidings- of vormingsinstellingen;<br>
 3° opbrengsten uit eigen bezit;<br>
 4° schenkingen en legaten;<br>
 5° leningen van allerlei aard;<br>
 6° vergoedingen in geval ingeschreven deelnemers zonder voorafgaandelijke verwittiging niet kwamen opdagen; de bepaling van het bedrag zal in de beheersovereenkomst geregeld worden;<br>
-7° vergoedingen vanwege scholen bij deelname van leraren aan door een RTC ingerichte nascholingsprojecten; de bepaling van het bedrag zal in de beheersovereenkomst geregeld worden;<br>
+7° vergoedingen vanwege scholen bij deelname van leraren aan door een RTC ingerichte professionaliseringsprojecten; de bepaling van het bedrag zal in de beheersovereenkomst geregeld worden;<br>
 &nbsp;
 
 ## [HOOFDSTUK III/1. Governance (ing. decr. 8 juli 2022, art. 8, I: 1 september 2022)]
+
+### ART 7/1.
+
+De Vlaamse Regering richt een Vlaamse Stuurgroep RTC op.<br>
+<br>
+De Vlaamse Stuurgroep RTC is samengesteld uit de volgende leden:<br>
+1° een voorzitter aangeduid door de Vlaamse minister bevoegd voor het onderwijs;<br>
+2° een vertegenwoordiger voor de Vlaamse minister bevoegd voor het onderwijs;<br>
+3° een vertegenwoordiger voor de Vlaamse minister bevoegd voor werk;<br>
+4° zeven leden voorgedragen door de Vlaamse Onderwijsraad;<br>
+5° vijf leden voorgedragen door de representatieve middenstands-, zelfstandigen-, werkgevers- en werknemersorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
+6° een vertegenwoordiger van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
+7° vijf vertegenwoordigers van de regionale technologische centra, met name één vertegenwoordiger per regionaal technologisch centrum;<br>
+8° een vertegenwoordiger van het STEM-platform;<br>
+9° een vertegenwoordiger van Agentschap Innoveren en Ondernemen VLAIO;<br>
+10° een waarnemend vertegenwoordiger van het Departement Onderwijs en Vorming;<br>
+11° een waarnemend vertegenwoordiger van het Departement Werk en Sociale Economie.<br>
+<br>
+De instanties, vermeld in punt 2° tot en met 11°, duiden een effectieve en een plaatsvervangende vertegenwoordiging aan.<br>
+<br>
+De leden, vermeld in punt 2° tot en met 9°, hebben stemrecht.<br>
+<br>
+De leden van de stuurgroep worden aangesteld voor een periode van 5 jaar.<br>
+<br>
+Het secretariaat wordt opgenomen door het Departement Onderwijs en Vorming.<br>
+<br>
+De Vlaamse Stuurgroep RTC heeft de volgende opdrachten:<br>
+1° strategische doelstellingen voor alle RTC's samen voor de duur van de beheersovereenkomsten formuleren;<br>
+2° operationele doelstellingen met inbegrip van prioriteiten voor alle RTC's samen voor de duur van de beheersovereenkomsten formuleren;<br>
+3° RTC-acties op Vlaams niveau initiëren, ondersteunen en monitoren;<br>
+4° RTC-acties op provinciaal niveau bewaken op inhoudelijke coherentie, ondersteunen en monitoren;<br>
+5° advies verlenen over materies op het snijvlak onderwijs-arbeidsmarkt.<br>
+<br>
+De doelstellingen, vermeld in het zevende lid, 1° en 2°, worden in de vorm van een advies ter beslissing aan de Vlaamse Regering voorgelegd.<br>
+<br>
+De Vlaamse Regering kan eveneens:<br>
+1° een vergoeding toekennen aan de leden van de Vlaamse Stuurgroep RTC;<br>
+2° nadere modaliteiten bepalen met betrekking tot de organisatie en werking van de Vlaamse Stuurgroep RTC.
 
 ## HOOFDSTUK IV Infrastructuur
 
@@ -86,7 +170,7 @@ In het decreet van 13 juli 2001 betreffende het onderwijs-XIII-Mozaïek wordt ho
 
 ### ART. 12.
 
-De beheersovereenkomsten die zijn afgesloten voor de periode van 1 januari   2011 tot en met 31 december 2015 worden vroegtijdig beëindigd op 31 augustus   2015.<BR>
+...
 
 ### ART. 12/1.
 

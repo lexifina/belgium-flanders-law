@@ -2,16 +2,16 @@
   "codex_id": 1016555,
   "title": "Decreet van 2007-12-14 houdende de organisatie en werking van de regionale technologische centra",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016555/VolledigDocument?datum=2021-09-01",
-  "source_sha256": "d7d5da7cb22a9768831e85a92339dec802c41772bf52c28798b6129c52c84a2e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016555/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "23f4a6ba44f54fcefcec2838742f034ffa8e1c87f55f9856aee131a310e618ba",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016555&param=informatie",
-  "as_of": "2021-09-01",
+  "as_of": "2022-09-01",
   "made": "2007-12-14",
   "gazette": "2008-02-01",
   "numac": 2008035118,
   "document_start": "2007-12-15",
   "document_end": null,
-  "in_force": "2021-09-01",
-  "article_versions": 14,
-  "record_form": "consolidated version as in force on 2021-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-09-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2022-09-01; future article versions excluded; article text as the API gives it"
 }
