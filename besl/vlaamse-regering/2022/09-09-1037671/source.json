@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037671,
+  "title": "Besluit van de Vlaamse Regering van 2022-09-09 tot wijziging van artikel 25, 26 en 27 van het Besluit van de Vlaamse Regering van 24 mei 2019 tot wijziging van het Besluit van de Vlaamse Regering van 22 maart 2013 betreffende het inzagerecht en de bemiddeling bij interlandelijke adoptie, het besluit van de Vlaamse Regering van 19 februari 2016 betreffende de bemiddeling, nazorg en inzage bij binnenlandse adoptie en het besluit van de Vlaamse Regering van 19 februari 2016 betreffende de voorbereiding bij adoptie en tot wijziging van artikel 46 van het besluit van de Vlaamse Regering van 7 februari 2020 tot wijziging van diverse besluiten van de Vlaamse Regering wat betreft de toepassing van de nieuwe maatregelen van het Vlaams Intersectoraal Akkoord en tot wijziging van artikel 11 het besluit van de Vlaamse Regering van 28 januari 2022 tot wijziging van diverse besluiten van de Vlaamse Regering wat betreft de toepassing van de nieuwe maatregelen van het Vlaams Intersectoraal Akkoord",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037671/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "477306cd9542759b409904c752557c463df61cda49e2d8c881bde4de65f06d71",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037671&param=informatie",
+  "as_of": "2022-09-01",
+  "made": "2022-09-09",
+  "gazette": "2022-11-28",
+  "numac": 2022042133,
+  "document_start": "2022-09-01",
+  "document_end": null,
+  "in_force": "2022-09-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2022-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
