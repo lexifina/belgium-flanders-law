@@ -74,7 +74,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE IX
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/27_1.pdf#page=144">Bijlage IX</a>
+...
 
 ### BIJLAGE X
 
