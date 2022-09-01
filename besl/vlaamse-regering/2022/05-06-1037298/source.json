@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037298,
+  "title": "Besluit van de Vlaamse Regering van 2022-05-06 tot erkenning van de initiële masteropleiding master in de industriële wetenschappen: informatica als nieuwe opleiding van de Universiteit Hasselt en de Katholieke Universiteit Leuven",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037298/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "4f9468c06eef9c2b00eeee68faf98fa43a7a162bd0eb010738a6940256949e93",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037298&param=informatie",
+  "as_of": "2022-09-01",
+  "made": "2022-05-06",
+  "gazette": "2022-07-29",
+  "numac": 2022032116,
+  "document_start": "2022-09-01",
+  "document_end": null,
+  "in_force": "2022-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
