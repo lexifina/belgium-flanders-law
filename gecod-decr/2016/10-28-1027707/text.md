@@ -519,7 +519,9 @@ Voor de berekening van die subsidie komen de regelmatige leerlingen die op 1 feb
 1° een voorschot van 2/3 van de totale subsidie voor het einde van het tweede kwartaal;<br>
 2° een saldo van 1/3 van de totale subsidie bij het begin van het vierde kwartaal.<br>
 &nbsp;<br>
-§5. Voor 1 juli legt het Koninklijk Werk IBIS de begroting voor haar internaatswerking van het volgende jaar ter goedkeuring voor aan de Vlaamse Regering. Die begroting moet in evenwicht zijn. Voor 31 maart wordt de rekening van het voorgaande jaar ter goedkeuring voorgelegd.
+§5. Voor 1 juli legt het Koninklijk Werk IBIS de begroting voor haar internaatswerking van het volgende jaar ter goedkeuring voor aan de Vlaamse Regering. Die begroting moet in evenwicht zijn. Voor 31 maart wordt de rekening van het voorgaande jaar ter goedkeuring voorgelegd.<br>
+<br>
+§ 6. De Zorginspectie, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein, en de onderwijsinspectie, vermeld in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, zijn samen bevoegd voor de controle op de kwaliteit van de opdracht, vermeld in paragraaf 1.
 
 ## Afdeling 3 [... (opgeh. decr. 16 juni 2023, art. 137, I: 1 september 2023)]
 
@@ -534,9 +536,9 @@ Verder in deze afdeling `instellingen' genoemd.
 
 ### ART III.20/2
 
-Voor de instellingen wordt een budget van 900.000 euro aan bijkomende werkingsmiddelen voorzien.<br>
+Voor de instellingen wordt een budget van 1.000.000 euro aan bijkomende werkingsmiddelen voorzien.<br>
 <br>
-Deze bijkomende werkingsmiddelen worden verdeeld over de instellingen a rato van het aantal internen&nbsp;ingeschreven op 1 februari 2021 die beschikken over een jeugdhulpverleningsbeslissing voor de typemodule specifieke actie of een vonnis van de jeugdrechtbank.
+Deze bijkomende werkingsmiddelen worden verdeeld over de instellingen a rato van het aantal internen&nbsp;ingeschreven op 1 februari 2022 die beschikken over een jeugdhulpverleningsbeslissing voor de typemodule specifieke actie of een vonnis van de jeugdrechtbank.
 
 ## Hoofdstuk 4 [... (opgeh. decr. 16 juni 2023, art. 138, I: 1 september 2023)]
 
@@ -677,6 +679,10 @@ De richtgetallen worden als volgt vastgesteld :<br>
 
 Ongeacht het aantal interne leerlingen bedraagt het urenpakket na de aftrek, zoals voorzien in artikel IV.29, §2, per internaat of tehuis ten minste 140 uren.
 
+### ART III.30/1.
+
+De Zorginspectie, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein, en de onderwijsinspectie, vermeld in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, zijn samen bevoegd voor de controle op de kwaliteit van de internaten buitengewoon onderwijs.
+
 ## Onderafdeling 3 [... (opgeh. decr. 16 juni 2023, art. 138, I: 1 september 2023)]
 
 ### ART III.31.
@@ -696,6 +702,18 @@ Binnen het urenpakket van een internaat of tehuis kan in de categorie van het op
 Binnen het urenpakket van een internaat of tehuis kunnen in de categorie van het administratief personeel de ambten van klerk-typist en rekenplichtig-correspondent worden ingericht.
 
 ## Onderafdeling 4. [... (opgeh. decr. 16 juni 2023, art. 138, I: 1 september 2023)]
+
+### ART III.34/1.
+
+Met ingang van 1 september 2022 komt een betrekking in een wervings- of bevorderingsambt in een internaat buitengewoon onderwijs als vermeld in onderafdeling 2 niet in aanmerking voor een benoeming in vast verband.<br>
+<br>
+In afwijking van het eerste lid heeft een vaste benoeming wel uitwerking ten aanzien van de overheid als het gaat om een personeelslid dat gebruikmaakt van de mogelijkheid, vermeld in artikel 40ter, § 2, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991.<br>
+<br>
+In afwijking van het eerste lid heeft een vaste benoeming wel uitwerking ten aanzien van de overheid als het gaat om een personeelslid dat uiterlijk op 31 augustus 2022 is toegelaten tot de proeftijd in een bevorderingsambt.<br>
+<br>
+In afwijking van het eerste lid heeft een vaste benoeming wel uitwerking ten aanzien van de overheid als het gaat om een personeelslid dat uiterlijk op 1 september 2022 het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven.<br>
+<br>
+In afwijking van het eerste lid heeft een vaste benoeming wel uitwerking ten aanzien van de overheid als het gaat om een personeelslid dat niet voldoet aan de voorwaarden, vermeld in het tweede tot en met het vierde lid, en dat voor 1 september 2022 al diensten gepresteerd heeft in een wervings- of bevorderingsambt in een internaat buitengewoon onderwijs als vermeld in onderafdeling 2.
 
 ## Afdeling 2 Gesubsidieerd onderwijs
 
@@ -719,7 +737,7 @@ c) het aantal organieke voltijdse betrekkingen, bedoeld in a) respectievelijk b)
 
 ### ART III.36.
 
-§1. Een raad van bestuur van een scholengroep in het gemeenschapsonderwijs kan ten laste van het werkingsbudget, vermeld in artikel III.17 en III.18, toegekend voor een autonoom internaat of een internaat verbonden aan een school voor gewoon basis- of secundair onderwijs, of met de Vlaamse ondersteuningspremie uitgekeerd door de VDAB, personeel aanwerven in de internaten.<br>
+§1. Een raad van bestuur van een scholengroep in het gemeenschapsonderwijs kan ten laste van het werkingsbudget, vermeld in artikel III.17 en III.18, toegekend voor een autonoom internaat of een internaat verbonden aan een school voor gewoon basis- of secundair onderwijs, ten laste van de Vlaamse ondersteuningspremie uitgekeerd door VDAB, of ten laste van subsidies die het beleidsdomein Onderwijs en Vorming, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, toekent om de kwaliteit van onderwijs te versterken personeel aanwerven in de internaten.<br>
 Een raad van bestuur kan voormeld principe aanwenden voor de personeelscategorieën van toepassing in deze internaten vermeld in artikel 2, §1, van het decreet van 27 maart 1991 rechtspositie personeelsleden gemeenschapsonderwijs, met uit zondering van het statutaire meesters-, vak- en dienstpersoneel.<br>
 &nbsp;<br>
 De betrekking die met deze middelen wordt ingericht kan niet worden vacant verklaard en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekking.<br>
@@ -728,7 +746,7 @@ Het personeelslid dat door de raad van bestuur wordt aangeworven, wordt altijd a
 &nbsp;<br>
 Het Agentschap voor Onderwijsdiensten betaalt het salaris rechtstreeks aan de betrokken personeelsleden. Dezelfde dienst vordert het brutosalaris, verhoogd met de vergoedingen, bijslagen, vakantiegeld, eindejaarspremie en werkgeversbijdrage, van de raad van bestuur terug.<br>
 &nbsp;<br>
-§2. Een bestuur in het gesubsidieerd onderwijs kan ten laste van het werkingsbudget, vermeld in artikel III.17 en III.18, toegekend voor een autonoom internaat of een internaat verbonden aan een school voor gewoon basis- of secundair onderwijs, of met de Vlaamse ondersteuningspremie uitgekeerd door de VDAB, personeel aanwerven in die internaten.<br>
+§2. Een bestuur in het gesubsidieerd onderwijs kan ten laste van het werkingsbudget, vermeld in artikel III.17 en III.18, toegekend voor een autonoom internaat of een internaat verbonden aan een school voor gewoon basis- of secundair onderwijs, ten laste van de Vlaamse ondersteuningspremie uitgekeerd door VDAB, of ten laste van subsidies die het beleidsdomein Onderwijs en Vorming, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, toekent om de kwaliteit van onderwijs te versterken personeel aanwerven in die internaten.<br>
 Een bestuur kan voormeld principe aanwenden voor de personeelscategorieën van toepassing in deze internaten vermeld in artikel 4, §1, a), van het decreet van 27 maart 1991 rechtspositie personeelsleden gesubsidieerd onderwijs.<br>
 &nbsp;<br>
 De betrekking die met deze middelen wordt ingericht kan niet worden vacant verklaard en het bestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekking.<br>
@@ -741,7 +759,9 @@ Het Agentschap voor Onderwijsdiensten betaalt de salaristoelage rechtstreeks aan
 
 ### ART III.37.
 
-De Vlaamse Regering bepaalt de regelen inzake de inrichting en de organisatie van een internaat van het gemeenschapsonderwijs, dat inzonderheid kan instaan voor de opname van jongeren in het kader van de hulp- en bijstandsregeling, en dat als zodanig is gelijkgesteld met een in het kader van de bijzondere jeugdzorg erkende voorziening.
+De Vlaamse Regering bepaalt de regelen inzake de inrichting en de organisatie van een internaat van het gemeenschapsonderwijs, dat inzonderheid kan instaan voor de opname van jongeren in het kader van de hulp- en bijstandsregeling, en dat als zodanig is gelijkgesteld met een in het kader van de bijzondere jeugdzorg erkende voorziening.<br>
+<br>
+De Zorginspectie, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein, en de onderwijsinspectie, vermeld in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, zijn samen bevoegd voor de controle op de kwaliteit.
 
 ## Hoofdstuk 6 [... (opgeh. decr. 16 juni 2023, art. 142, I: 1 september 2023)]
 
@@ -755,7 +775,7 @@ De Vlaamse Regering bepaalt de organisatie van en de ambten, de bekwaamheidsbewi
 <br>
 De Vlaamse Regering garandeert een personeelskader dat minimaal nodig is om verblijf en begeleiding te voorzien. De Vlaamse Regering stelt jaarlijks minimaal 7515 uren voor opvoedend hulppersoneel, paramedisch en sociaal personeel, psychologisch en medisch personeel, administratief personeel en minimaal 350.000 euro werkingsbudget ter beschikking voor een capaciteit van 265 plaatsen verblijf en begeleiding als vermeld in het tweede lid en sluit daartoe beheersovereenkomsten af met de scholengroep van de in het eerste lid vermelde instituten en internaten.<br>
 &nbsp;<br>
-Het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin zoals bedoeld in het besluit van de Vlaamse Regering van 26 maart 2004 tot oprichting van het intern verzelfstandigd agentschap Zorginspectie en de onderwijsinspectie zoals bedoeld in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs zijn gezamenlijk bevoegd voor de controle op de kwaliteit van het verblijf en de begeleiding, als vermeld in het tweede lid.
+De Zorginspectie, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein,&nbsp;en de onderwijsinspectie zoals bedoeld in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs zijn gezamenlijk bevoegd voor de controle op de kwaliteit van het verblijf en de begeleiding, als vermeld in het tweede lid.
 
 ### ART III.39.
 
@@ -2420,20 +2440,19 @@ De Vlaamse Regering bepaalt de nadere regelen inzake de ontvankelijkheid en proc
 Voor de toepassing van dit deel VIII wordt verstaan onder :<br>
 &nbsp;<br>
 1° anderstalige nieuwkomer: de leerling bedoeld in artikel 2, 2°, van het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de personeelsformatie in het gewoon basisonderwijs, respectievelijk artikel 4, §1, van het besluit van de Vlaamse Regering van 24 mei 2002 betreffende de organisatie van een onthaaljaar voor anderstalige nieuwkomers in het voltijds secundair onderwijs;<br>
-2° integratiesector: de centra en de diensten bedoeld in het decreet van 7 juni 2013 betreffende het Vlaams integratie- en inburgeringsbeleid;<br>
-3° leefeenheid: leerlingen met ten minste één gemeenschappelijke ouder of ouders en leerlingen met eenzelfde hoofdverblijfplaats;<br>
+2° ...;<br>
+3° ...;<br>
 4° leerling: elke onderwijszoekende die voldoet aan de bij of krachtens wet of decreet bepaalde toelatingsvoorwaarden of overeenkomstig artikel 252 van de codificatie betreffende het secundair onderwijs als vrije leerling wordt beschouwd;<br>
-5° onthaalbureau: de rechtspersoon die aangeduid wordt voor het realiseren van inburgeringstrajecten in het kader van het Vlaamse inburgeringsbeleid;<br>
+5° ...;<br>
 6° onthaaljaar: het onthaaljaar voor anderstalige nieuwkomers bedoeld in artikel 135 van de codificatie betreffende het secundair onderwijs;<br>
-7° relatieve aanwezigheid in het werkingsgebied: de procentuele verhouding tussen het aantal leerlingen dat beantwoordt aan één of meerdere van deze gelijke kansenindicatoren zoals bepaald in artikel 139bis, §1, van het decreet basisonderwijs en artikel 225, §1, van de codificatie betreffende het secundair onderwijs, en het totaal aantal leerlingen van alle scholen binnen het werkingsgebied van een lokaal overlegplatform, binnen een deelgebied van het werkingsgebied of binnen een gemeente indien er geen lokaal overlegplatform is.<br>
-De Vlaamse Regering berekent de procentuele verhouding op basis van de beschikbare cijfergegevens afkomstig van een driejaarlijkse centraal georganiseerde telling op de eerste schooldag van februari, tenzij het lokaal overlegplatform beslist om tussentijds op de eerste schooldag van februari te hertellen;<br>
+7° ...;<br>
 8° school: een pedagogisch geheel, waar onderwijs georganiseerd wordt en dat onder leiding staat van één directeur; Onder school en school voor gewoon secundair onderwijs wordt ook een autonoom centrum voor deeltijds beroepssecundair onderwijs en voor wat betreft de opleiding in de leertijd ook een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen begrepen.
 
 ## Afdeling 2 Oprichting en samenstelling
 
 ### ART VIII.2.
 
-Voor de toepassing van de regelgeving inzake inschrijving van leerlingen, zoals bedoeld in hoofdstuk IV, afdeling 3 van het Decreet basisonderwijs en in deel III, titel 2, hoofdstuk 1/1 en 1/2 van de Codex Secundair Onderwijs, worden lokale overlegplatforms voor het basisonderwijs en lokale overlegplatforms voor het secundair onderwijs opgericht.
+Voor de toepassing van de regelgeving inzake inschrijvingen van leerlingen, zoals bedoeld in hoofdstuk IV, afdeling 3 en 4, van het decreet basisonderwijs voor inschrijvingen in het buitengewoon basisonderwijs, zoals bedoeld in hoofdstuk IV/1 en IV/3 van het decreet basisonderwijs voor inschrijvingen in het gewoon basisonderwijs, zoals bedoeld in deel III, titel 2, hoofdstuk 1/1 en 1/2, van de Codex Secundair Onderwijs van 17 december 2010 voor inschrijvingen in het buitengewoon secundair onderwijs en zoals bedoeld in deel IV, titel 2, hoofdstuk 1/1 en 1/2, van de Codex Secundair Onderwijs van 17 december 2010, voor inschrijvingen in het gewoon onderwijs, worden lokale overlegplatforms voor het basisonderwijs en lokale overlegplatforms voor het secundair onderwijs opgericht.
 
 ### ART VIII.3.
 
@@ -2447,55 +2466,103 @@ Voor de toepassing van de regelgeving inzake gelijke onderwijskansen kunnen even
 
 ### ART VIII.4.
 
-§1. Een lokaal overlegplatform omvat alle ondergenoemde participanten die in het werkingsgebied aanwezig zijn en zich aanmelden:<br>
+§ 1. Een lokaal overlegplatform basisonderwijs omvat alle ondergenoemde stemgerechtigde participanten die in het werkingsgebied aanwezig zijn en zich aanmelden:<br>
 1° de directies en schoolbesturen van alle in het werkingsgebied gelegen scholen;<br>
 2° directies en schoolbesturen van de niet in het werkingsgebied gelegen scholen voor buitengewoon onderwijs wanneer tussen deze scholen en de in het werkingsgebied gelegen scholen frequent leerlingenstromen bestaan;<br>
 3° de directies en schoolbesturen van de centra voor leerlingenbegeleiding die de in het werkingsgebied gelegen scholen begeleiden;<br>
-4° een vertegenwoordiger van elke representatieve vakorganisatie die de beroepsbelangen van het personeel van de in het werkingsgebied gelegen scholen behartigt;<br>
-5° twee vertegenwoordigers van erkende ouderverenigingen;<br>
-6° twee vertegenwoordigers van leerlingenraden, indien het gaat om lokale overlegplatforms voor het secundair onderwijs;<br>
-7° ten hoogste tien vertegenwoordigers van lokale socio-culturele en/of -economische partners;<br>
-8° twee vertegenwoordigers van organisaties van etnisch-culturele minderheden;<br>
-9° twee vertegenwoordigers van een vereniging waar armen het woord nemen;<br>
-10° een vertegenwoordiger van de integratiesector. Wanneer in het werkingsgebied zowel een integratiecentrum als een integratiedienst werkzaam zijn, wordt vanuit beide organisaties in een vertegenwoordiger voorzien;<br>
-11° een vertegenwoordiger van elk van de in het werkingsgebied gelegen onthaalbureaus;<br>
-12° een vertegenwoordiger van het schoolopbouwwerk.<br>
+4° een lokale vertegenwoordiger van elke representatieve vakorganisatie die de beroepsbelangen van het personeel van de in het werkingsgebied gelegen scholen behartigt;<br>
+5° twee lokale vertegenwoordigers van erkende ouderverenigingen;<br>
+6° in totaliteit ten hoogste tien vertegenwoordigers van:<br>
+a) lokale socio-culturele en/of -economische partners;<br>
+b) vertegenwoordigers van organisaties van etnisch-culturele minderheden;<br>
+c) vereniging waar armen het woord nemen;<br>
+7° een vertegenwoordiger van het Agentschap Integratie en Inburgering;<br>
+8° een vertegenwoordiger van de integratiedienst;<br>
+9° een vertegenwoordiger van het schoolopbouwwerk;<br>
+10° een vertegenwoordiger van het betrokken gemeentebestuur of de betrokken gemeentebesturen-in het tweetalige gebied Brussel-Hoofdstad: van de Vlaamse Gemeenschapscommissie. Deze persoon treedt niet op in de hoedanigheid van vertegenwoordiger van de gemeente, respectievelijk de Vlaamse Gemeenschapscommissie als schoolbestuur.<br>
 <br>
-De Vlaamse Regering bepaalt welke organen worden belast met de coördinatie van het aanduiden van de in het eerste lid, 4°, 5°, 6°, 8°, 9° en 10°, bedoelde participanten.<br>
+De Vlaamse Regering bepaalt welke organen worden belast met de coördinatie van het aanduiden van de in het eerste lid, 4°, 5°, 6°, b) en c), en 7°, bedoelde participanten. De in het eerste lid, 1°, 2°, 3°, 4°, 5°, 7°, 8° en 10°, bedoelde participanten duiden bij een eerste samenkomst de in het eerste lid, 6°, a), b) en c), en 9°, bedoelde participanten aan. Zij worden daartoe samengeroepen door de in paragraaf 3 bedoelde deskundige.<br>
 <br>
-De in het eerste lid, 1°, 2°, 3°, 4°, 5°, 6°, 8°, 9°, 10° en 11°, bedoelde participanten duiden bij een eerste samenkomst de in het eerste lid, 7° en 12°, bedoelde participanten aan. Zij worden daartoe samengeroepen door de in §3 bedoelde deskundige.<br>
+Het totaal aantal participanten, vermeld in het eerste lid, 4° tot en met 10°, is steeds kleiner dan het totaal aantal participanten, vermeld in het eerste lid, 1° tot en met 3°.<br>
 <br>
-§2. De Vlaamse Regering stelt na overleg met het lokaal overlegplatform een voorzitter aan, die vertrouwd is met het ruime onderwijsveld. De voorzitter zetelt niet in een schoolbestuur en is geen personeelslid van één van de betrokken scholen, scholengroepen, scholengemeenschappen of centra voor leerlingenbegeleiding.<br>
+§ 2. De Vlaamse Regering stelt na overleg met het lokaal overlegplatform een voorzitter aan, die vertrouwd is met het ruime onderwijsveld. De voorzitter zetelt niet in een schoolbestuur en is geen personeelslid van één van de betrokken scholen, scholengroepen, scholengemeenschappen of centra voor leerlingenbegeleiding, met uitzondering van de vertegenwoordiger van het betrokken lokaal bestuur, of in voorkomend geval, de betrokken lokale besturen.<br>
 <br>
 De Vlaamse Regering bepaalt de wijze waarop de voorzitter wordt vergoed.<br>
 <br>
-§3. De Vlaamse Regering voorziet, rekening houdend met artikel VIII.3, §2, eerste lid, in de subsidiëring van een deskundige die de inhoudelijke en organisatorische ondersteuning van het lokaal overlegplatform waarneemt. Zij bepaalt de nadere aanwervings- en functioneringsvoorwaarden van de deskundige.<br>
+§ 3. De Vlaamse Regering voorziet, rekening houdend met artikel VIII.3, § 2, eerste lid, in de subsidiëring van een deskundige die de inhoudelijke en organisatorische ondersteuning van het lokaal overlegplatform waarneemt. Zij bepaalt de nadere aanwervings- en functioneringsvoorwaarden van de deskundige.<br>
 <br>
 De deskundige kan niet worden aangesteld als voorzitter.<br>
 <br>
-§4. Een vertegenwoordiger van het betrokken gemeentebestuur of de betrokken gemeentebesturen - in het tweetalige gebied Brussel-Hoofdstad: van de Vlaamse Gemeenschapscommissie - dient het lokaal overlegplatform van advies over gemeentelijke aangelegenheden die een nauwe band vertonen met de in artikel VIII.5, eerste lid, bedoelde bevoegdheden. Deze persoon treedt niet op in de hoedanigheid van vertegenwoordiger van de gemeente, respectievelijk de Vlaamse Gemeenschapscommissie als schoolbestuur.<br>
+§ 4. De schoolbesturen zoals bedoeld in artikel VIII.4, § 1, 1°, 2° en 3°, kunnen zich respectievelijk laten vertegenwoordigen door een directie van de school van het eigen schoolbestuur of door een directie van een centrum voor leerlingenbegelei ding van het eigen schoolbestuur
+
+### ART VIII.4/1.
+
+§ 1. Een lokaal overlegplatform secundair onderwijs omvat alle ondergenoemde stemgerechtigde participanten die in het werkingsgebied aanwezig zijn en zich aanmelden:<br>
+1° de directies en schoolbesturen van alle in het werkingsgebied gelegen scholen;<br>
+2° directies en schoolbesturen van de niet in het werkingsgebied gelegen scholen voor buitengewoon onderwijs wanneer tussen deze scholen en de in het werkingsgebied gelegen scholen frequent leerlingenstromen bestaan;<br>
+3° de directies en schoolbesturen van de centra voor leerlingenbegeleiding die de in het werkingsgebied gelegen scholen begeleiden;<br>
+4° een lokale vertegenwoordiger van elke representatieve vakorganisatie die de beroepsbelangen van het personeel van de in het werkingsgebied gelegen scholen behartigt;<br>
+5° twee lokale vertegenwoordigers van erkende ouderverenigingen;<br>
+6° twee lokale vertegenwoordigers van leerlingenraden;<br>
+7° in totaliteit ten hoogste tien vertegenwoordigers van:<br>
+a) lokale socio-culturele en/of -economische partners;<br>
+b) vertegenwoordigers van organisaties van etnisch-culturele minderheden;<br>
+c) vereniging waar armen het woord nemen;<br>
+8° een vertegenwoordiger van het Agentschap Integratie en Inburgering;<br>
+9° een vertegenwoordiger van de integratiedienst;<br>
+10° een vertegenwoordiger van het schoolopbouwwerk;<br>
+11° een vertegenwoordiger van het betrokken gemeentebestuur of de betrokken gemeentebesturen - in het tweetalige gebied Brussel-Hoofdstad: van de Vlaamse Gemeenschapscommissie. Deze persoon treedt niet op in de hoedanigheid van vertegenwoordiger van de gemeente, respectievelijk de Vlaamse Gemeenschapscommissie als schoolbestuur.<br>
 <br>
-§5. De schoolbesturen zoals bedoeld in artikel VIII.4, §1, 1°, 2° en 3°, kunnen zich respectievelijk laten vertegenwoordigen door een directie van de school van het eigen schoolbestuur of door een directie van een centrum voor leerlingenbegeleiding van het eigen schoolbestuur.
+De Vlaamse Regering bepaalt welke organen worden belast met de coördinatie van het aanduiden van de in het eerste lid, 4°, 5°, 6°, 7°, b) en c), en 8°, bedoelde participanten.<br>
+<br>
+De in het eerste lid, 1°, 2°, 3°, 4°, 5°, 6°, 8°, 9° en 11°, bedoelde participanten duiden bij een eerste samenkomst de in het eerste lid, 7°, a), b) en c), en 10°, bedoelde participanten aan. Zij worden daartoe samengeroepen door de in paragraaf 3 bedoelde deskundige.<br>
+<br>
+Het totaal aantal participanten, vermeld in het eerste lid, 4° tot en met 11°, is steeds kleiner dan het totaal aantal participanten, vermeld in het eerste lid, 1° tot en met 3°.<br>
+<br>
+§ 2. De Vlaamse Regering stelt na overleg met het lokaal overlegplatform een voorzitter aan, die vertrouwd is met het ruime onderwijsveld. De voorzitter zetelt niet in een schoolbestuur en is geen personeelslid van één van de betrokken scholen, scholengroepen, scholengemeenschappen of centra voor leerlingenbegeleiding, met uitzondering van de vertegenwoordiger van het betrokken lokaal bestuur, of in voorkomend geval, de betrokken lokale besturen.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze waarop de voorzitter wordt vergoed.<br>
+<br>
+§ 3. De Vlaamse Regering voorziet, rekening houdend met artikel VIII.3, § 2, eerste lid, in de subsidiëring van een deskundige die de inhoudelijke en organisatorische ondersteuning van het lokaal overlegplatform waarneemt. Zij bepaalt de nadere aanwervings- en functioneringsvoorwaarden van de deskundige.<br>
+<br>
+De deskundige kan niet worden aangesteld als voorzitter.<br>
+<br>
+§ 4. De schoolbesturen zoals bedoeld in artikel VIII.4/1, § 1, 1°, 2° en 3°, kunnen zich respectievelijk laten vertegenwoordigen door een directie van de school van het eigen schoolbestuur of door een directie van een centrum voor leerlingenbegeleiding van het eigen schoolbestuur.
 
 ## Afdeling 3 Bevoegdheid
 
 ### ART VIII.5.
 
-Een lokaal overlegplatform heeft volgende opdrachten:<br>
+&nbsp;Een lokaal overlegplatform basisonderwijs heeft volgende opdrachten:<br>
 1° het opmaken van een omgevingsanalyse inzake ongelijke onderwijskansen binnen het werkingsgebied. De participanten van het lokaal overleg leveren daartoe de noodzakelijke kwantitatieve en kwalitatieve gegevens;<br>
 2° het maken van afspraken inzake het nastreven van de doelstellingen inzake gelijke kansen;<br>
 3° het maken van afspraken inzake de opvang, het aanbod en de toeleiding van leerlingen naar het onthaalonderwijs voor anderstalige nieuwkomers en de opvolging van gewezen anderstalige nieuwkomers in het gefinancierd of gesubsidieerd onderwijs;<br>
-4° het herberekenen van de relatieve aanwezigheid van leerlingen die beantwoorden aan ten minste één van de in artikel 37septies, §3, van het decreet basisonderwijs van 25 februari 1997, en artikel 110/7, §3, van de Codex Secundair Onderwijs, bedoelde gelijke kansenindicatoren in het werkingsgebied en het opdelen van het werkingsgebied in deelgebieden;<br>
-5° het maken van afspraken inzake de uitoefening van de bemiddelingsbevoegdheid;<br>
-6° het maken van afspraken over het hanteren van gezamenlijke inschrijvingsperiodes;<br>
-7° het maken van afspraken over de toepassing van de voorrangsregels zoals bepaald in hoofdstuk IV, afdeling 3, onderafdeling B, van het decreet basisonderwijs van 25 februari 1997, en hoofdstuk 1/1, afdeling 2, van de Codex Secundair Onderwijs inzonderheid afspraken over het effectief voorzien in de scholen betrokken bij het lokaal overlegplatform van een voorrangsrecht voor leerlingen die beantwoorden aan de gelijke kansenindicatoren zoals bepaald in 37septies, §3, van het decreet basisonderwijs van 25 februari 1997, en artikel 110/7, §3, van de Codex Secundair Onderwijs;<br>
-8° het maken van afspraken over de communicatie over het inschrijvingsbeleid van de scholen;<br>
-9° het vastleggen van de criteria en de procedures volgens dewelke scholen voor secundair onderwijs de inschrijving van een elders definitief uitgesloten leerling kunnen weigeren zoals bepaald in artikel 110/10, §2, van de Codex Secundair Onderwijs;<br>
-10° het ontwikkelen van instrumenten om dubbele inschrijvingen te voorkomen;<br>
-11° maakt afspraken over het verhogen van de kleuterparticipatie;<br>
-12° het uitwerken van aanvullende bepalingen over het positieve engagement van ouders ten aanzien van de onderwijstaal.<br>
+4° het maken van afspraken inzake de uitoefening van de bemiddelingsbevoegdheid;<br>
+5° het maken van afspraken over de toepassing van de voorrang zoals bepaald in hoofdstuk IV/1 en hoofdstuk IV/3 van het decreet basisonderwijs;<br>
+6° het maken van afspraken over de communicatie over het inschrijvingsbeleid van de scholen en de afstemming ervan op de communicatie door de Vlaamse overheid;<br>
+7° het maken van afspraken over de startdata van de inschrijvingen;<br>
+8° het maken van afspraken over het verhogen van de kleuterparticipatie;<br>
+9° het uitwerken van aanvullende bepalingen over het positieve engagement van ouders ten aanzien van de onderwijstaal.<br>
 <br>
 Een lokaal overlegplatform kan beslissen om bijkomende opdrachten op te nemen.<br>
+<br>
+De Vlaamse Regering kan bijkomende opdrachten toewijzen aan de lokale overlegplatforms.
+
+### ART VIII.5/1.
+
+Een lokaal overlegplatform secundair onderwijs heeft volgende opdrachten:<br>
+1° het opmaken van een omgevingsanalyse inzake ongelijke onderwijskansen binnen het werkingsgebied. De participanten van het lokaal overleg leveren daartoe de noodzakelijke kwantitatieve en kwalitatieve gegevens;<br>
+2° het maken van afspraken inzake het nastreven van de doelstellingen inzake gelijke kansen;<br>
+3° het maken van afspraken inzake de opvang, het aanbod en de toeleiding van leerlingen naar het onthaalonderwijs voor anderstalige nieuwkomers en de opvolging van gewezen anderstalige nieuwkomers in het gefinancierd of gesubsidieerd onderwijs;<br>
+4° het maken van afspraken inzake de uitoefening van de bemiddelingsbevoegdheid;<br>
+5° het maken van afspraken over de toepassing van de voorrang, vermeld in deel IV, titel 2, hoofdstuk 1/1 en hoofdstuk 1/2, van de Codex Secundair Onderwijs van 17 december 2010;<br>
+6° het maken van afspraken over de communicatie over het inschrijvingsbeleid van de scholen en de afstemming ervan op de communicatie door de Vlaamse overheid;<br>
+7° het vastleggen van de criteria en de procedures volgens dewelke scholen voor secundair onderwijs de inschrijving van een elders definitief uitgesloten leerling kunnen weigeren zoals bepaald in artikel 253/25, § 4, en 253/56, § 4, van de Codex Secundair Onderwijs;<br>
+8° het uitwerken van aanvullende bepalingen over het positieve engagement van ouders ten aanzien van de onderwijstaal;<br>
+9° tijdens de schooljaren 2023-2024, 2024-2025, 2025-2026 en 2026-2027 het monitoren van de effecten in het werkingsgebied van de mogelijkheid om maximaal 20% voorrang te verlenen aan ondervertegenwoordigde groepen, vermeld in artikel 253/15 en 253/46 van de Codex Secundair Onderwijs.<br>
+<br>
+Een lokaal overlegplatform kan beslissen om bijkomende opdrachten op te nemen.<br>
+<br>
 De Vlaamse Regering kan bijkomende opdrachten toewijzen aan de lokale overlegplatforms.
 
 ## Afdeling 4 Werking
@@ -2536,18 +2603,23 @@ Het lidmaatschap van de Commissie is onverenigbaar met:<br>
 8° lidmaatschap van de Vlaamse Bemiddelingscommissie.<br>
 §3. De Vlaamse Regering stelt de leden en hun plaatsvervangers aan en bepaalt de wijze waarop zij vergoed worden.<br>
 <br>
-§4. Wanneer de Commissie ten gronde adviseert en oordeelt naar recht over klachten die betrekking hebben op de toepassing van artikel 37undecies, §2 en §3 van het decreet basisonderwijs van 25 februari 1997 en artikel 110/11, §2 en §3 van de Codex Secundair Onderwijs dan wordt de samenstelling van de Commissie, in afwijking van paragraaf 1 en paragraaf 2, uitgebreid met leden met expertise op het gebied van de praktische realisatie van redelijke aanpassingen. Daarbij wordt, in afwijking van paragraaf 1 en paragraaf 2, in elk geval de betrokkenheid verzekerd van personen met een handicap of een organisatie die hen vertegenwoordigt, van een personeelsvertegenwoordiging en een vertegenwoordiging van de onderwijsverstrekkers.<br>
-Deze leden zetelen met een raadgevend mandaat.
+§ 4. Voor inschrijving of ontbinding van inschrijving voor schooljaar 2023-2024 en verder geldt dat wanneer de Commissie ten gronde adviseert en oordeelt naar recht over klachten die betrekking hebben op de toepassing van artikel 37/11, §§ 2 en 3, en artikel 37/48, §§ 2 en 3, van het decreet basisonderwijs van 25 februari 1997 en artikel 253/6, §§ 2 en 3, en artikel 253/37, §§ 2 en 3, van de Codex Secundair Onderwijs de samenstelling van de Commissie, in afwijking van paragraaf 1 en 2, wordt uitgebreid met leden met expertise op het gebied van de praktische realisatie van redelijke aanpassingen. Daarbij wordt, in afwijking van paragraaf 1 en paragraaf 2, in elk geval de betrokkenheid verzekerd van personen met een handicap of een organisatie die hen vertegenwoordigt, van een personeelsvertegenwoordiging en een vertegenwoordiging van de onderwijsverstrekkers. Deze leden zetelen met een raadgevend mandaat.<br>
+<br>
+De samenstelling, vermeld in het eerste lid, geldt ook als de Commissie voor het schooljaar 2023-2024 en verder adviseert en oordeelt naar recht over de klachten die betrekking hebben op het passende alternatief conform artikel 37/43/4 van het decreet basisonderwijs van 25 februari 1997 en artikel 295/15 van de Codex Secundair Onderwijs.
 
 ## Afdeling 2 Bevoegdheid
 
 ### ART VIII.9.
 
-De Commissie adviseert en oordeelt naar recht inzake het recht op inschrijving, overeenkomstig de bepalingen van artikel 37quater decies en artikel 37sedecies van het decreet basisonderwijs van 25 februari 1997, en artikel 110/14 en 110/16 van de Codex Secundair Onderwijs. Tegen een uitspraak van de Commissie staat geen beroep open bij de Vlaamse Regering.
+De Commissie adviseert en oordeelt naar recht over het recht op inschrijving voor inschrijvingen tot en met het schooljaar 2022-2023 in het gewoon onderwijs en tot en met het schooljaar 2024-2025 in het buitengewoon onderwijs conform artikel 37quater decies en 37sedecies van het decreet basisonderwijs van 25 februari 1997, en artikel 110/14 en 110/16 van de Codex Secundair Onderwijs van 17 december 2010. De Commissie adviseert en oordeelt naar recht over het recht op inschrijving voor inschrijvingen voor het schooljaar 2023-2024 en verder in het gewoon onderwijs en voor het schooljaar 2025-2026 en verder in het buitengewoon onderwijs conform artikel 37/14, 37/33, 37/34, 37/68, 37/69 en 37/70 van het decreet basisonderwijs van 25 februari 1997, en artikel 253/10, 253/28, 253/30, 253/31, 235/59, 253/60 en 253/61 van de Codex Secundair Onderwijs van 17 december 2010, en ook bij een weigering of een uitschrijving op basis van een inschrijving in een andere school conform artikel 37/43/4 van het decreet basisonderwijs van 25 februari 1997 en artikel 295/15 van de Codex Secundair Onderwijs van 17 december 2010.<br>
+<br>
+Tegen een uitspraak van de Commissie staat geen beroep open bij de Vlaamse Regering.
 
 ### ART VIII.10.
 
-De Commissie toetst een voorstel van aanmeldingsprocedure aan de uitgangspunten van de bepalingen inzake gelijke onderwijskansen, en de bepalingen inzake de aanmeldingsprocedures en het inschrijvingsrecht, als vermeld in afdelingen 3 en 4 van hoofdstuk IV van het decreet basisonderwijs van 25 februari 1997, en deel III, titel 2, hoofdstukken 1/1 en 1/2, van de Codex Secundair Onderwijs.
+De Commissie toetst een voorstel van aanmeldingsprocedure voor het gewoon onderwijs aan de uitgangspunten van de bepalingen inzake gelijke onderwijskansen, en de bepalingen inzake de aanmeldingsprocedures en het inschrijvingsrecht, als vermeld in hoofdstuk IV/1 en IV/3 van het decreet basisonderwijs van 25 februari 1997, en deel IV, titel 2, hoofdstuk 1/1 en 1/2, van de Codex Secundair Onderwijs.<br>
+<br>
+De Commissie toetst een voorstel van aanmeldingsprocedure voor het buitengewoon onderwijs aan de uitgangspunten van de bepalingen inzake gelijke onderwijskansen, en de bepalingen inzake de aanmeldingsprocedures en het inschrijvingsrecht, als vermeld in afdeling 3 en 4 van hoofdstuk IV van het decreet basisonderwijs van 25 februari 1997, en deel III, titel 2, hoofdstuk 1/1 en 1/2, van de Codex Secundair Onderwijs.
 
 ## Afdeling 3 Werking
 
