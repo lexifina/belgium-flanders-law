@@ -122,6 +122,10 @@ De periodes van loopbaanonderbreking, vermeld in het eerste lid, moeten onmiddel
 <br>
 § 5/2. De gedeeltelijke loopbaanonderbreking vanaf de leeftijd van 55 jaar of vanaf de leeftijd van vijftig jaar indien artikel 9, § 3, § 4 of § 5 van toepassing is, wordt geschorst op het ogenblik dat het personeelslid het recht doet gelden op een loopbaanonderbreking voor palliatieve zorgen of voor het hervatten van het werk binnen de periode van 16 maart 2020 tot en met 30 juni 2020 of 3 mei 2021 tot en met 31 augustus 2021 ingevolge de coronacrisis.<br>
 <br>
+De gedeeltelijke loopbaanonderbreking vanaf de leeftijd van 55 jaar of vanaf de leeftijd van vijftig jaar indien artikel 9, § 3, § 4 of § 5 van toepassing is, kan vanaf 1 september 2022 ook geschorst worden om het werk te hervatten, op voorwaarde dat het bevoegde bestuur akkoord gaat met de werkhervatting. De minimumduur van de schorsing bedraagt twee weken.<br>
+<br>
+Tijdens de voormelde periode van &nbsp;schorsing kan het personeelslid de arbeidsprestaties niet verminderen of voltijds onderbreken, met uitzondering van ziekteverlof, de afwezigheid wegens arbeidsongeval, wegens ongeval op weg naar en van het werk, wegens beroepsziekte en verlof tijdelijk andere opdracht.<br>
+<br>
 § 6. In afwijking van artikel 12, § 1 en § 2 wordt de volledige en de gedeeltelijke loopbaanonderbreking toegestaan tijdens de periode waarin het personeelslid een beroepsopleiding volgt.<br>
 <br>
 Voor de toepassing van het eerste lid wordt onder beroepsopleiding verstaan :<br>
