@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037023,
+  "title": "Besluit van de Vlaamse Regering van 2022-03-11 tot erkenning van het graduaat in de juridisch-administratieve ondersteuning als nieuwe opleiding van de Katholieke Hogeschool Vives Noord",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037023/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "00eb703081527c1f0da2671d38d354281812a42e8aaaf86c65917a02bf354fd4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037023&param=informatie",
+  "as_of": "2022-09-01",
+  "made": "2022-03-11",
+  "gazette": "2022-05-13",
+  "numac": 2022040664,
+  "document_start": "2022-09-01",
+  "document_end": null,
+  "in_force": "2022-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
