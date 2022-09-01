@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036868,
+  "title": "Besluit van de Vlaamse Regering van 2022-02-04 tot erkenning van de master-na-masteropleiding Master of Science in Artificial Intelligence in Business and Industry als nieuwe opleiding van de Katholieke Universiteit Leuven, vestiging Brugge",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036868/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "2fbe146da1be799b0318dd839e9713d913f40e75bdce5d7ad3fd191dbfedce5a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036868&param=informatie",
+  "as_of": "2022-09-01",
+  "made": "2022-02-04",
+  "gazette": "2022-04-08",
+  "numac": 2022040347,
+  "document_start": "2022-09-01",
+  "document_end": null,
+  "in_force": "2022-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
