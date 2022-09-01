@@ -1130,7 +1130,9 @@ b) er moet ten minste één veldkeuring plaatsvinden;<br>
 <br>
 c) de grootte, het aantal en de verdeling van de perceelstukken, waarvoor moet worden nagegaan of aan de bepalingen van<br>
 <br>
-deze bijlage wordt voldaan, moeten volgens daarvoor passende methoden worden vastgesteld.</p>
+deze bijlage wordt voldaan, moeten volgens daarvoor passende methoden worden vastgesteld.<br>
+<br>
+7. Als na de toepassing van punt 4 en 6 twijfel blijft bestaan over de rasechtheid van het zaad, kan de bevoegde entiteit voor het onderzoek naar die rasechtheid een internationaal erkende en reproduceerbare biochemische of moleculaire techniek gebruiken, conform de toepasselijke internationale normen.</p>
 
 ### BIJLAGE II
 
