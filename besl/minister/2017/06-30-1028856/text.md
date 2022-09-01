@@ -44,23 +44,23 @@ Een erkenningsaanvraag als vermeld in artikel 4, tweede lid, van het besluit van
 
 ### ART 2/1.
 
-Ter uitvoering van artikel 5, vierde lid, van het besluit van de Vlaamse Regering van 21 april 2017 betreffende de ondersteuning van de verstrekking van groenten, fruit en melk aan leerlingen in onderwijsinstellingen wordt voor de verstrekking van melk, in afwijking van artikel 5, tweede lid, van hetzelfde besluit, de steun, vermeld in artikel 5, eerste lid, van hetzelfde besluit, verleend voor de verstrekking van maximaal drie porties per leerling en per week in de periode van 1 september tot en met 31 januari.<br>
-<br>
-Ter uitvoering van artikel 5, vierde lid, van hetzelfde besluit wordt voor de verstrekking van melk, in afwijking van artikel 5, derde lid, van hetzelfde besluit, de steun, vermeld in artikel 5, eerste lid, van hetzelfde besluit, verleend voor de verstrekking van maximaal drie porties per leerling en per week in de eerste en de tweede periode van verstrekking.
+Ter uitvoering van artikel 5, vierde lid, 1°, van het besluit van de Vlaamse Regering van 21 april 2017 betreffende de ondersteuning van de verstrekking van groenten, fruit en melk aan leerlingen in onderwijsinstellingen wordt voor de verstrekking van biologische en niet-biologische melk, in afwijking van artikel 5, tweede lid, van hetzelfde besluit, de steun, vermeld in artikel 5, eerste lid, van hetzelfde besluit, verleend voor de verstrekking van maximaal drie porties per leerling en per week in de eerste en in de tweede periode, vermeld in artikel 5, tweede lid, van het voormelde besluit.
 
 ### ART 3.
 
-Het maximale steunbedrag, vermeld in artikel 6, tweede lid, van het besluit van 21 april 2017, bedraagt drie euro voor de verstrekking van groenten en fruit en&nbsp;zes euro voor de verstrekking van melk. Er worden niet meer leerlingen meegerekend dan het aantal leerlingen dat de onderwijsinstelling doorgegeven heeft in de deelnameverklaring, vermeld in artikel 7, eerste lid, van het besluit van 21 april 2017.<br>
+Ter uitvoering van artikel 6, tweede lid, van het besluit van 21 april 2017 bedraagt het maximale steunbedrag per leerling per portie:<br>
+1°&nbsp;&nbsp; &nbsp;biologische groenten en fruit: 0,50 euro;<br>
+2°&nbsp;&nbsp; &nbsp;biologische melk: 0,30 euro:<br>
+3°&nbsp;&nbsp; &nbsp;niet-biologische groenten en fruit: 0,30 euro;&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;niet-biologische melk: 0,30 euro.<br>
 <br>
-Het maximale steunbedrag, vermeld in artikel 6, derde lid, van het besluit van 21 april 2017, bedraagt zes euro voor de verstrekking van groenten en fruit en&nbsp;twaalf euro voor de verstrekking van melk.<br>
-<br>
-De documenten, vermeld in artikel 6, vijfde lid, van het besluit van 21 april 2017, zijn de facturen en betaalbewijzen. Op deze facturen staan de soorten aangeleverde groenten, fruit en melk, de hoeveelheid, het totaal bedrag, het btw-bedrag en de datum van levering.
+De documenten, vermeld in artikel 6, zevende lid, van het besluit van 21 april 2017, zijn de facturen en betaalbewijzen. Op deze facturen staan de soorten aangeleverde groenten, fruit en melk, de hoeveelheid, het totaal bedrag, het btw-bedrag en de datum van levering.
 
 ### ART 4.
 
 Een deelnameverklaring als vermeld in artikel 7, eerste lid, van het besluit van 21 april 2017, wordt elektronisch ingediend via het e-loket.<br>
 <br>
-De uiterste indieningsdatum, vermeld in artikel 7, zesde lid, van het besluit van 21 april 2017, is 31 oktober&nbsp;van het schooljaar in kwestie.<br>
+De uiterste indieningsdatum, vermeld in artikel 7, vijfde lid, van het besluit van 21 april 2017, is 31 oktober&nbsp;van het schooljaar in kwestie.<br>
 <br>
 Als de dag, vermeld in het tweede lid, een weekenddag is, is de eerstvolgende maandag de uiterste dag voor de indiening van de deelnameverklaring.
 
@@ -68,7 +68,9 @@ Als de dag, vermeld in het tweede lid, een weekenddag is, is de eerstvolgende ma
 
 De steunaanvraag, vermeld in artikel 9, eerste lid, van het besluit van 21 april 2017, wordt elektronisch ingediend via het e-loket.<br>
 <br>
-De uiterste indieningsdatum, vermeld in artikel 9, vijfde lid, van het besluit van 21 april 2017, is 30&nbsp;april voor een steunaanvraag die betrekking heeft op een verstrekking als vermeld in artikel 5, tweede lid, van het besluit van 21 april 2017, en&nbsp;31 juli&nbsp;voor een steunaanvraag die betrekking heeft op een verstrekking als vermeld in artikel 5, derde lid, van het besluit van 21 april 2017.
+De uiterste indieningsdatum voor een steunaanvraag, vermeld in artikel 9, derde lid, van het voormelde besluit, is:<br>
+1°&nbsp;&nbsp; &nbsp;30 april voor de eerste periode, vermeld in artikel 5, tweede lid, 1°, van het voormelde besluit;<br>
+2°&nbsp;&nbsp; &nbsp;30 juli voor de tweede periode, vermeld in artikel 5, tweede lid, 2°, van het voormelde besluit.
 
 ### ART 6.
 

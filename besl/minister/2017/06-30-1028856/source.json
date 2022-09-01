@@ -2,16 +2,16 @@
   "codex_id": 1028856,
   "title": "Ministerieel besluit van 2017-06-30 tot uitvoering van het besluit van de Vlaamse Regering van 21 april 2017 betreffende de ondersteuning van de verstrekking van groenten, fruit en melk aan leerlingen in onderwijsinstellingen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028856/VolledigDocument?datum=2022-01-01",
-  "source_sha256": "a87bbfd4a3f4b77da2c16383b281ec22d46a17a56b5815219cf2c65928918747",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028856/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "abd291a07c6668c8a42a2c0ca889da244112952a530efcda008c48fb97e3d16e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028856&param=informatie",
-  "as_of": "2022-01-01",
+  "as_of": "2022-09-01",
   "made": "2017-06-30",
   "gazette": "2017-12-29",
   "numac": 2017031998,
   "document_start": "2017-08-01",
   "document_end": null,
-  "in_force": "2022-01-01",
+  "in_force": "2022-09-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-09-01; future article versions excluded; article text as the API gives it"
 }
