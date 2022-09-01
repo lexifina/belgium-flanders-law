@@ -80,7 +80,7 @@ Het lokaal bestuur deelt elke beslissing over een sociaal voordeel of over een a
 
 ### ART. 13.
 
-De lokale besturen bezorgen aan de Vlaamse Regering jaarlijks een overzicht van de beslissingen over de sociale en andere voordelen, evenals de staat van gedane uitgaven.<br /><br />
+...
 
 ## HOOFDSTUK III Leerplicht en verhoging van de deelname aan het onderwijs van alle kleuters
 
