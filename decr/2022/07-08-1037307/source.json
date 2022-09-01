@@ -2,16 +2,16 @@
   "codex_id": 1037307,
   "title": "Decreet van 2022-07-08 Programmadecreet bij de aanpassing van de begroting 2022",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037307/VolledigDocument?datum=2022-08-12",
-  "source_sha256": "a6e29da727f02cd7f5dad0415dbed739c823a270f12f2261c1f0485ec6352694",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037307/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "7a3d02f38f7a905485f7d05d063f654eeb8902ab684ae89d307ed92686afe1ed",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037307&param=informatie",
-  "as_of": "2022-08-12",
+  "as_of": "2022-09-01",
   "made": "2022-07-08",
   "gazette": "2022-08-02",
   "numac": 2022032862,
   "document_start": "2022-08-12",
   "document_end": null,
-  "in_force": "2022-08-12",
-  "article_versions": 15,
-  "record_form": "consolidated version as in force on 2022-08-12; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-09-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2022-09-01; future article versions excluded; article text as the API gives it"
 }

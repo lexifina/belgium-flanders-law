@@ -395,6 +395,18 @@ In artikel III.42/1, § 2, van hetzelfde decreet, ingevoegd bij het decreet van 
 
 ## Afdeling 7. Aanpassing berekening werkingsuitkeringen graduaatsopleidingen - beperking van de groei bij die instellingen die geen graduaatsopleidingen overgenomen hebben van de CVO's
 
+### ART 18.
+
+In artikel III.42/2 van hetzelfde decreet, ingevoegd bij het decreet van 1 maart 2019, worden de volgende wijzigingen aangebracht:<br>
+1° punt 1°, b), i), wordt vervangen door wat volgt:<br>
+"i) voor het begrotingsjaar 2022: het percentage van de evolutie tussen het aantal opgenomen studiepunten in de graduaatsopleidingen van het academiejaar 2020-2021 en het aantal opgenomen studiepunten van het academiejaar 2019-2020 in de hogeschool in kwestie, vermenigvuldigd met 8/12, en met het percentage van de evolutie tussen het aantal opgenomen studiepunten in de graduaatsopleidingen van het academiejaar 2020-2021 en het aantal opgenomen studiepunten van het academiejaar 2019-2020 in de hogescholen, beperkt tot 2% en vermenigvuldigd met 4/12;";<br>
+2° aan punt 1°, b), ii), wordt de zinsnede ", beperkt tot 2%" toegevoegd;<br>
+3° aan punt 1°, b), iii), wordt de zinsnede ", beperkt tot 2%" toegevoegd;<br>
+4° aan punt 2°, b), wordt de zinsnede ", beperkt tot 2%" toegevoegd;<br>
+5° aan punt 2°, c), wordt de zinsnede ", beperkt tot 2%" toegevoegd;<br>
+6° aan punt 3°, b), wordt de zinsnede ", beperkt tot 2%," toegevoegd;<br>
+7° het tweede lid wordt opgeheven.
+
 ## Afdeling 8. Toelage Hogere Instituten en andere instellingen voor Schone Kunsten
 
 ### ART 19.
@@ -411,6 +423,12 @@ De bedragen, vermeld in deze paragraaf, worden binnen de perken van de begroting
 2° paragraaf 6, 7, 8 en 9 worden opgeheven.
 
 ## Afdeling 9. Omkadering permanente ondersteuning voor de CLB's van het officieel gesubsidieerd onderwijs
+
+### ART 20.
+
+In artikel 40, § 2, van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding, wordt tussen het eerste en het tweede lid een lid ingevoegd, dat luidt als volgt:<br>
+<br>
+"Van de omkaderingsgewichten aan de gesubsidieerde officiële permanente ondersteuningscellen, vermeld in het eerste lid, 1°, worden 1,44 omkaderingsgewichten toegekend aan de permanente ondersteuningscel van de Onderwijsvereniging van Steden en Gemeenten enerzijds en 0,55 omkaderingsgewichten aan de permanente ondersteuningscel van het Provinciaal Onderwijs Vlaanderen anderzijds.".
 
 ## HOOFDSTUK 5. Welzijn, Volksgezondheid en Gezin
 
