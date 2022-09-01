@@ -45,9 +45,7 @@ De periode van twintig opleidingsdagen per schooljaar waarin de leerling geen ov
 
 ### ART 2.
 
-Voor de leerlingenevaluatie in de duale structuuronderdelen van opleidingsvorm 4 is de organisatie van een geïntegreerde proef als vermeld in artikel 56 van het besluit van de Vlaamse Regering van 19 juli 2002 betreffende de organisatie van het voltijds secundair onderwijs, facultatief.<br>
-<br>
-Voor de leerlingenevaluatie in de duale structuuronderdelen van opleidingsvorm 3 is de organisatie van een kwalificatieproef als vermeld in artikel 13, § 1, en artikel 14 van het besluit van de Vlaamse Regering van 6 december 2002 betreffende de organisatie van het buitengewoon secundair onderwijs van opleidingsvorm 3 door een kwalificatiecommissie als vermeld in artikel 17 van het voormelde besluit, facultatief.
+...
 
 ### ART 3.
 
