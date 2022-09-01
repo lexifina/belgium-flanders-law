@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037322,
+  "title": "Decreet van 2022-07-08 tot uitvoering van dringende maatregelen om het lerarenambt in het basis- en secundair onderwijs te herwaarderen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037322/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "4038d2dc2769b6ac75971a00148ed8bfbb53d303248bf8f6eb664ddc59fdb363",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037322&param=informatie",
+  "as_of": "2022-09-01",
+  "made": "2022-07-08",
+  "gazette": "2022-08-09",
+  "numac": 2022015517,
+  "document_start": "2022-09-01",
+  "document_end": null,
+  "in_force": "2022-09-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2022-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
