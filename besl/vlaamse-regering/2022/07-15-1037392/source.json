@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037392,
+  "title": "Besluit van de Vlaamse Regering van 2022-07-15 tot erkenning van de initiële masteropleiding master in systeem- en procesinnovatie in de gezondheidszorg als nieuwe opleiding van de Universiteit Hasselt",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037392/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "07da6d96278bec6687a7fe0bc495b0dc921252c1195f6232eb0df7cd20cff576",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037392&param=informatie",
+  "as_of": "2022-09-01",
+  "made": "2022-07-15",
+  "gazette": "2022-09-12",
+  "numac": 2022015579,
+  "document_start": "2022-09-01",
+  "document_end": null,
+  "in_force": "2022-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
