@@ -53,35 +53,35 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE I.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/07_2.pdf#page=4">Bijlage I</a>
+...
 
 ### BIJLAGE II.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/07_2.pdf#page=19">Bijlage II</a>
+...
 
 ### BIJLAGE III.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/07_2.pdf#page=38">Bijlage III</a>
+...
 
 ### BIJLAGE IV.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/07_2.pdf#page=48">Bijlage IV</a>
+...
 
 ### BIJLAGE V.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/07_2.pdf#page=59">Bijlage V</a>
+...
 
 ### BIJLAGE VI
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/07_2_2.pdf#page=1">Bijlage VI</a>
+...
 
 ### BIJLAGE VII.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/07_2_2.pdf#page=17">Bijlage VII</a>
+...
 
 ### BIJLAGE VIII.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/07_2_2.pdf#page=30">Bijlage VIII</a>
+...
 
 ### BIJLAGE IX.
 
@@ -89,7 +89,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE X.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/07_2_3.pdf#page=1">Bijlage X</a>
+...
 
 ### BIJLAGE XI.
 
@@ -101,4 +101,4 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE XIII.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/07_2_3.pdf#page=61">Bijlage XIII</a>
+...
