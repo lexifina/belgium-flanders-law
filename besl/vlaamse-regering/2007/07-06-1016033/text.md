@@ -46,7 +46,9 @@ De bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming, legt het 
 
 De bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming legt het voorstel van structuuronderdeel met advies, dat gebaseerd is op het advies, vermeld in artikel 4, voor aan de Vlaamse minister, bevoegd voor onderwijs en vorming. De Vlaamse Regering beslist over een voorstel dat uiterlijk op 31 december is ingediend, uiterlijk op 30 juni daaropvolgend. Over een voorstel dat uiterlijk op 30 juni is ingediend, beslist de Vlaamse Regering uiterlijk op 31 december daaropvolgend. De voormelde termijnen gelden met behoud van de toepassing van de termijnen voor de organisatie van structuuronderdelen die bij decreet of besluit zijn vastgelegd.<br>
 <br>
-Een voorstel wordt al dan niet voorwaardelijk of onder beding van beperkingen goedgekeurd.
+Een voorstel wordt al dan niet voorwaardelijk of onder beding van beperkingen goedgekeurd.<br>
+<br>
+De goedkeuring, vermeld in het tweede lid, vindt plaats door de toevoeging van het voorstel als structuuronderdeel in het besluit van de Vlaamse Regering van 1 juni 2018 houdende sommige maatregelen betreffende de modernisering van het secundair onderwijs.
 
 ## [HOOFDSTUK 2. Procedure voor de actualisering of schrapping van structuuronderdelen (ing. BVR 16 juli 2021, art. 28, I: 1 september 2021)]
 
