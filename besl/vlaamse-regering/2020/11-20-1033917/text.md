@@ -150,7 +150,13 @@ De werking van de beroepscommissie wordt geregeld in het huishoudelijk reglement
 <br>
 Als een sectoraal partnerschap in het kader van een samenwerkingsakkoord met het Vlaams Partnerschap Duaal Leren of de dienst, vermeld in artikel 2, § 3, de onderneming niet erkent, de erkenning opheft of een onderneming uitsluit, kan de onderneming tegen die beslissing binnen tien dagen nadat ze de schriftelijke mededeling van de beslissing ontvangen heeft, schriftelijk een gemotiveerd verzoek tot herziening indienen bij de beroepscommissie, vermeld in het eerste lid. De schriftelijke mededeling van de beslissing tot de niet-erkenning, de opheffing van de erkenning of de uitsluiting van een onderneming wordt geacht te zijn ontvangen de derde werkdag na de verzending.<br>
 <br>
-Na onderzoek en nadat ze de onderneming gehoord heeft, neemt de beroepscommissie een beslissing uiterlijk binnen zestig dagen na de dag waarop de beroepscommissie het verzoek heeft ontvangen. Bij overschrijding van die termijn is de omstreden beslissing van rechtswege nietig.
+Na onderzoek en nadat ze de onderneming gehoord heeft, neemt de beroepscommissie een beslissing uiterlijk binnen zestig dagen na de dag waarop de beroepscommissie het verzoek heeft ontvangen. Bij overschrijding van die termijn is de omstreden beslissing van rechtswege nietig.<br>
+<br>
+Als de beroepscommissie oordeelt over een gemotiveerd verzoek in het kader van artikel 8, § 5 en § 6, van het decreet van 25 maart 2022 tot regeling van bepaalde aspecten van duale opleidingen in het volwassenenonderwijs, wordt ze in afwijking van het eerste lid op de volgende wijze samengesteld:<br>
+1° de voorzitter van het Vlaams Partnerschap Duaal Leren;<br>
+2° twee van de vier leden, vermeld in artikel 2bis, § 2, eerste lid, 2°, van het decreet van 10 juni 2016;<br>
+3° twee van de vier leden, vermeld in artikel 2bis, § 2, eerste lid, 3°, van het voormelde decreet;<br>
+4° vier van de leden, vermeld in artikel 2bis, § 2, eerste lid, 12° en 13°, van het voormelde decreet.
 
 ### ART 12.
 
@@ -182,7 +188,7 @@ Het Vlaams Partnerschap Duaal Leren spreekt zich binnen zestig dagen na de verze
 
 De onderneming die verbonden is door een overeenkomst van alternerende opleiding, is aan de leerling een leervergoeding verschuldigd.<br>
 <br>
-De leervergoeding bedraagt het volgende percentage van het nationaal gewaarborgd gemiddeld minimummaandinkomen, zoals bepaald voor werknemers van achttien jaar bij collectieve arbeidsovereenkomst die gesloten is in de Nationale Arbeidsraad:<br>
+De leervergoeding bedraagt het volgende percentage van het gewaarborgd gemiddeld minimummaandinkomen, vermeld in artikel 3, eerste lid van de collectieve arbeidsovereenkomst nr. 43 van 2 mei 1988 betreffende de waarborg van een gemiddeld minimummaandinkomen:<br>
 1° 34,50 % als de leerling de kwalificatiefase van het buitengewoon secundair onderwijs (opleidingsvorm 3) of een van de volgende jaren met succes heeft beëindigd:<br>
 a) het tweede opleidingsjaar van een alternerende opleiding;<br>
 b) het eerste jaar van de derde graad van het secundair onderwijs;<br>
