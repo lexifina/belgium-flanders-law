@@ -508,6 +508,8 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid, is belast met de uitvoerin
 <br>
 3. De staat waarin het vermeerderingsveld zich bevindt en de stand van het gewas moeten een voldoende controle van de rasechtheid, de raszuiverheid en de gezondheidstoestand mogelijk maken.<br>
 <br>
+3/1. Als na de toepassing van punt 1, 2 en 3 twijfel blijft bestaan over de rasechtheid van het zaad, kan de bevoegde entiteit voor het onderzoek naar die rasechtheid een internationaal erkende en reproduceerbare biochemische of moleculaire techniek gebruiken, conform de toepasselijke internationale normen.<br>
+<br>
 4. De minimumafstand tot in de buurt liggende gewassen die kunnen leiden tot ongewenste vreemdbestuiving bedraagt voor:<br>
 A. Brassicagewassen:<br>
 a) ten aanzien van bronnen van vreemd stuifmeel dat een ernstige schadelijke invloed kan uitoefenen op de rassen van de Brassicagewassen:<br>
