@@ -40,7 +40,7 @@ c) bedrijfstak;<br>
 
 ### ART 2.
 
-Tijdens de schooljaren 2020-2021 en 2021-2022 wordt in een aantal scholen het tijdelijke project "Duaal lesgeven" georganiseerd.
+Tijdens de schooljaren 2020-2021 tot en met&nbsp; 2022-2023 wordt in een aantal scholen het tijdelijke project "Duaal lesgeven" georganiseerd.
 
 ## HOOFDSTUK 2. Doelstelling en doelgroep
 
@@ -168,7 +168,7 @@ Het expertenpanel is samengesteld uit:<br>
 16° afgevaardigden van de betrokken sectoren;<br>
 17° drie wetenschappelijke experten, die aangewezen worden door de voorzitter van het expertenpanel.<br>
 <br>
-Zodra het expertenpanel is samengesteld, volgt ze het tijdelijke project op zonder enige vorm van sturing of inmenging. De opvolging mondt uit in tussentijdse evaluaties van het tijdelijke project en een eindevaluatie in het schooljaar 2021-2022.<br>
+Zodra het expertenpanel is samengesteld, volgt ze het tijdelijke project op zonder enige vorm van sturing of inmenging. De opvolging mondt uit in tussentijdse evaluaties van het tijdelijke project en een eindevaluatie in het schooljaar 2022-2023.<br>
 <br>
 De schoolbesturen, scholen en bedrijven die deelnemen aan het tijdelijk project verlenen hun medewerking aan de werkzaamheden, al dan niet ter plaatse, van het expertenpanel.
 
@@ -176,7 +176,7 @@ De schoolbesturen, scholen en bedrijven die deelnemen aan het tijdelijk project 
 
 ### ART 13.
 
-Dit besluit treedt in werking op 1 september 2020 en treedt buiten werking op 31 augustus 2022.
+Dit besluit treedt in werking op 1 september 2020 en treedt buiten werking op 31 augustus 2023.
 
 ### ART 14.
 

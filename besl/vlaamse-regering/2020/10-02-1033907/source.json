@@ -2,16 +2,16 @@
   "codex_id": 1033907,
   "title": "Besluit van de Vlaamse Regering van 2020-10-02 over het tijdelijke project \"Duaal lesgeven in het secundair onderwijs\"",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033907/VolledigDocument?datum=2020-09-01",
-  "source_sha256": "e00f7662aa3455a646748fb75a5f35bc32db53242d9ee83b5276fd21054e1eb4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033907/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "ca497e0524a1b5ef5468f81b4d29157b74e78c9c471cc709646b9f52bc2b4eee",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033907&param=informatie",
-  "as_of": "2020-09-01",
+  "as_of": "2022-09-01",
   "made": "2020-10-02",
   "gazette": "2020-12-04",
   "numac": 2020016181,
   "document_start": "2020-09-01",
   "document_end": "2023-08-31",
-  "in_force": "2020-09-01",
+  "in_force": "2022-09-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2020-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-09-01; future article versions excluded; article text as the API gives it"
 }
