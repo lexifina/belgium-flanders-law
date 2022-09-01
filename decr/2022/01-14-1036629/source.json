@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036629,
+  "title": "Decreet van 2022-01-14 over maatwerk bij individuele inschakeling",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036629/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "a16791f197e984c597abd7ad0a1047624832e32a5bea5efb0c45e7e360aa486b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036629&param=informatie",
+  "as_of": "2022-09-01",
+  "made": "2022-01-14",
+  "gazette": "2022-03-11",
+  "numac": 2022040298,
+  "document_start": "2023-07-01",
+  "document_end": null,
+  "in_force": "2022-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
