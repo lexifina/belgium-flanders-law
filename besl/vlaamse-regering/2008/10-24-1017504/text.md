@@ -39,7 +39,7 @@ De lijst van de centra voor deeltijds beroepssecundair onderwijs die bij de inwe
 
 ### ART. 6.
 
-De lijst van opleidingen van het deeltijds beroepssecundair onderwijs respectievelijk de leertijd, vermeld in artikel 22 van het decreet, is voor het schooljaar 2021-2022 opgenomen in bijlage III, die bij dit besluit is gevoegd.
+De lijst van opleidingen van het deeltijds beroepssecundair onderwijs respectievelijk de leertijd, vermeld in artikel 22 van het decreet, is voor het schooljaar 2022-2023 opgenomen in bijlage III, die bij dit besluit is gevoegd.
 
 ### ART 6/1.
 
@@ -57,12 +57,12 @@ Voor de experimenteel modulaire opleidingen van het deeltijds beroepssecundair o
 
 ### ART. 8.
 
-<p>In bijlage V, die bij dit besluit is gevoegd, worden voor wat betreft het schooljaar 2021-2022 voor elke afzonderlijke opleiding van het deeltijds beroepssecundair onderwijs de volgende elementen bepaald:<br>
+<p>In bijlage V, die bij dit besluit is gevoegd, worden voor wat betreft het schooljaar 2022-2023 voor elke afzonderlijke opleiding van het deeltijds beroepssecundair onderwijs de volgende elementen bepaald:<br>
 1° de overeenstemmende referentiekaders;<br>
 2° de opleidingenstructuur, vermeld in artikel 28, § 1, van het decreet;<br>
 3° de doelen voor de beroepsgerichte vorming, afgeleid van de referentiekaders, vermeld in artikel 30, § 1, van het decreet.<br>
 <br>
-In bijlage VI, die bij dit besluit is gevoegd, worden voor wat betreft het schooljaar 2021-2022 voor elke afzonderlijke opleiding van de leertijd de volgende elementen bepaald:<br>
+In bijlage VI, die bij dit besluit is gevoegd, worden voor wat betreft het schooljaar 2022-2023 voor elke afzonderlijke opleiding van de leertijd de volgende elementen bepaald:<br>
 1° de overeenstemmende referentiekaders;<br>
 2° de doelen voor de beroepsgerichte vorming, afgeleid van de referentiekaders, vermeld in artikel 32, § 1, van het decreet.</p>
 
@@ -70,7 +70,7 @@ In bijlage VI, die bij dit besluit is gevoegd, worden voor wat betreft het schoo
 
 De organisatie van de opleiding begeleider in de kinderopvang is aan de volgende voorwaarden verbonden :<br>
 1° voor de component leren :<br>
-a) opdat het centrum knowhow zou hebben inzake kinderopvang, is het verplicht om samen te werken met een centrum voor volwassenenonderwijs dat de opleiding begeleider in de kinderopvang aanbiedt;<br>
+a) opdat het centrum knowhow zou hebben inzake kinderopvang, kan het centrum samenwerken met een centrum voor volwassenenonderwijs dat de opleiding begeleider in de kinderopvang aanbiedt;<br>
 b) aangezien een zorgvuldige monitoring van de kwaliteit van de opleiding en de output ervan nodig is, zal onderwijs of de onderwijsoverheid nauw samenwerken met Kind en Gezin;<br>
 2° voor de component werkplekleren :<br>
 a) jongeren beneden de achttien jaar kunnen in de kinderopvang alleen als logistiek personeelslid werken;<br>
@@ -88,7 +88,7 @@ De opleidingen van het deeltijds beroepssecundair onderwijs en de leertijd worde
 2° een opleiding uit een cluster als vermeld in bijlage XXI die bij dit besluit is gevoegd, is vrij programmeerbaar als het centrum uit diezelfde cluster al een of meer andere opleidingen organiseert;<br>
 3° een opleiding is programmeerbaar na goedkeuring door de Vlaamse Regering als:<br>
 a) het centrum uit een cluster als vermeld in bijlage XXI, die bij dit besluit is gevoegd, nog geen andere opleidingen organiseert;<br>
-b) de opleiding is opgenomen in de lijst, vermeld in punt 32 van bijlage XXI die bij dit besluit is gevoegd.
+b) de opleiding is opgenomen in de lijst, vermeld in punt 30 van bijlage XXI die bij dit besluit is gevoegd.
 
 ## HOOFDSTUK VI. Toelating
 
@@ -204,7 +204,7 @@ De volgende certificaten gelden als een bewijs van beroepskwalificatie :<br>
 
 ### ART. 17.
 
-Binnen de beschikbare kredieten bepaalt de Vlaamse minister, bevoegd voor onderwijs en vorming, per schooljaar het bedrag van de aanvullende werkingsmiddelen dat aan een centrum voor deeltijds beroepssecundair onderwijs wordt toegekend op basis van het aantal dagen dat de jongeren effectief gepresteerd hebben binnen de fase arbeidsdeelname of de aanloopcomponent tijdens het voorafgaande schooljaar.<br>
+Binnen de beschikbare kredieten bepaalt de Vlaamse minister, bevoegd voor onderwijs en vorming, per schooljaar het bedrag van de aanvullende werkingsmiddelen dat aan een centrum voor deeltijds beroepssecundair onderwijs wordt toegekend op basis van het aantal regelmatige ingeschreven leerlingen in het deeltijds beroepssecundair onderwijs in het centrum op de teldatum van 1 februari van het voorafgaande schooljaar.<br>
 <br>
 De aanvullende werkingsmiddelen voor de centra voor deeltijds beroepssecundair onderwijs worden bij het voorschot op het werkingsbudget gevoegd.
 
@@ -221,6 +221,16 @@ De aanvullende werkingsmiddelen voor de centra voor deeltijds beroepssecundair o
 3° het product van het aantal jaaruren en het geïndexeerde bedrag vormt het krediet.<br>
 <br>
 § 3. ....
+
+### ART 18bis.
+
+Conform artikel 90, § 2 van het decreet kunnen uren-leraar als volgt in punten worden omgezet:<br>
+a) 12 uren-leraar = 31,5 punten voor aanwending in een of meer betrekkingen met bekwaamheidsbewijs ten minste secundair onderwijs in een wervingsambt van het ondersteunend personeel;<br>
+b) 23 uren-leraar = 63 punten voor aanwending in een of meer betrekkingen met bekwaamheidsbewijs ten minste secundair onderwijs in een wervingsambt van het ondersteunend personeel;<br>
+c) 12 uren-leraar = 41 punten voor aanwending in een of meer betrekkingen met bekwaamheidsbewijs ten minste bachelor in een wervingsambt van het ondersteunend personeel;<br>
+d) 23 uren-leraar = 82 punten voor aanwending in een of meer betrekkingen met bekwaamheidsbewijs ten minste bachelor in een wervingsambt van het ondersteunend personeel;<br>
+e) 12 uren-leraar = 60 punten voor aanwending in een of meer betrekkingen met bekwaamheidsbewijs ten minste master in een wervingsambt van het ondersteunend personeel;<br>
+f) 23 uren-leraar = 120 punten voor aanwending in een of meer betrekkingen met bekwaamheidsbewijs ten minste master in een wervingsambt van het ondersteunend personeel.
 
 ## HOOFDSTUK XII. [... (opgeh. BVR 16 juli 2021, art. 43, I: 1 september 2021)]
 
@@ -374,7 +384,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE III
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2021/09/20_1.pdf#page=20">Lijst van opleidingen voor wat betreft het schooljaar 2021-2022</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/27_1.pdf#page=125">Lijst van opleidingen voor wat betreft het schooljaar 2022-2023</a>
 
 ### BIJLAGE III/1
 
@@ -398,7 +408,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE V
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2021/09/20_1.pdf#page=56">Opleidingenstructuur en invulling van opleidingen deeltijds beroepssecundair onderwijs voor wat betreft het schooljaar 2021-2022</a></p>
+<p><a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/27_1.pdf#page=132">Opleidingenstructuur en invulling van opleidingen deeltijds beroepssecundair onderwijs voor wat betreft het schooljaar 2022-2023</a></p>
 
 ### BIJLAGE V/1
 
@@ -438,7 +448,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE VI
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2021/09/20_1.pdf#page=963">Invulling van opleidingen leertijd voor wat betreft het schooljaar 2021-2022</a></p>
+<p><a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/27_1.pdf#page=887">Invulling van opleidingen leertijd voor wat betreft het schooljaar 2022-2023</a></p>
 
 ### BIJLAGE VI/1
 
@@ -511,4 +521,4 @@ Getuigschrift over de basiskennis van het bedrijfsbeheer (deeltijds   beroepssec
 
 ### BIJLAGE XXI
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2021/09/20_1.pdf#page=1444">Lijst van opleidingen deeltijds beroepssecundair onderwijs en leertijd, opgedeeld in clusters in het kader van programmatie</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/27_1.pdf#page=1258">Lijst van opleidingen deeltijds beroepssecundair onderwijs en leertijd, opgedeeld in clusters in het kader van programmatie</a>
