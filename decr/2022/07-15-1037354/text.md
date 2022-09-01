@@ -22,6 +22,10 @@ In artikel I.3 van de Codex Hoger Onderwijs van 11 oktober 2013, het laatst gewi
 6° aan punt 76° worden de volgende zinnen toegevoegd:<br>
 "Het programma beoogt de ontbrekende competenties van het diploma dat op rechtstreekse wijze toelating verleent bij te brengen. Indien meerdere diploma's rechtstreekse toelating verlenen, gaat het om de gemeenschappelijke ontbrekende competenties;".
 
+### ART 5.
+
+In artikel II.92, § 2, van dezelfde codex, ingevoegd bij het decreet van 25 april 2014 en vervangen bij het decreet van 4 mei 2018, wordt het woord "Diepenbeek" vervangen door het woord "Genk".
+
 ### ART 28.
 
 In artikel III.22, § 3, van dezelfde codex, wordt in de tabel de zinsnede "2020 en 2021" vervangen door de zinsnede "vanaf 2020".
