@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037393,
+  "title": "Besluit van de Vlaamse Regering van 2022-07-15 tot erkenning van het graduaat in de verzekeringen als nieuwe opleiding van Thomas More Kempen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037393/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "fdfa793af9106cef61bc30b0b05c7eb9ca0a89d4b9bdba2ef9b3315b7e8282cb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037393&param=informatie",
+  "as_of": "2022-09-01",
+  "made": "2022-07-15",
+  "gazette": "2022-09-12",
+  "numac": 2022015598,
+  "document_start": "2022-09-01",
+  "document_end": null,
+  "in_force": "2022-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
