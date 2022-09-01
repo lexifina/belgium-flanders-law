@@ -2,16 +2,16 @@
   "codex_id": 1023693,
   "title": "Besluit van de Vlaamse Regering van 2014-01-10 [houdende de uitvoering van het decreet van 30 april 2009 betreffende de kwalificatiestructuur inzake de erkenning van onderwijskwalificaties van niveau 1 tot en met niveau 4]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023693/VolledigDocument?datum=2021-09-01",
-  "source_sha256": "302ee900849229f311679ca9b5e3616e8c0d3f09f955c3a6c3f7bab5cafcc2a5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023693/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "9723215a411d5fb9ee01d2470b03abe79268d7d1732ce14432b4a267eadad5f8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023693&param=informatie",
-  "as_of": "2021-09-01",
+  "as_of": "2022-09-01",
   "made": "2014-01-10",
   "gazette": "2014-01-31",
   "numac": 2014035106,
   "document_start": "2014-02-10",
   "document_end": null,
-  "in_force": "2021-09-01",
+  "in_force": "2022-09-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2021-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-09-01; future article versions excluded; article text as the API gives it"
 }

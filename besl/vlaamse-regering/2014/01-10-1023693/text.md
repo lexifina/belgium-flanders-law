@@ -68,17 +68,21 @@ Het agentschap maakt de voorstellen van onderwijskwalificatie op. Met het oog op
 
 ### ART. 8.
 
-<p>Het agentschap legt het voorstel van onderwijskwalificatie met een erkenningsadvies dat gebaseerd is op het advies, vermeld in artikel 7, voor aan de Vlaamse minister, bevoegd voor onderwijs en vorming. De Vlaamse Regering beslist of de erkenning al dan niet wordt verleend. De Vlaamse Regering beslist over een voorstel dat uiterlijk op 31 december is ingediend, uiterlijk op 30 juni daaropvolgend. Over een voorstel dat uiterlijk op 30 juni is ingediend, beslist de Vlaamse Regering uiterlijk op 31 december daaropvolgend. De voormelde termijnen gelden met behoud van de toepassing van de termijnen voor de organisatie van structuuronderdelen en de termijnen voor het verwerven van onderwijsbevoegdheid die bij decreet of besluit zijn vastgelegd. De erkende onderwijskwalificatie omvat minstens de volgende elementen:<br>
+<p>§ 1. Het agentschap legt het voorstel van onderwijskwalificatie met een erkenningsadvies dat gebaseerd is op het advies, vermeld in artikel 7, voor aan de Vlaamse minister, bevoegd voor onderwijs en vorming. De Vlaamse Regering beslist of de erkenning al dan niet wordt verleend. De Vlaamse Regering beslist over een voorstel dat uiterlijk op 31 december is ingediend, uiterlijk op 30 juni daaropvolgend. Over een voorstel dat uiterlijk op 30 juni is ingediend, beslist de Vlaamse Regering uiterlijk op 31 december daaropvolgend. De voormelde termijnen gelden met behoud van de toepassing van de termijnen voor de organisatie van structuuronderdelen en de termijnen voor het verwerven van onderwijsbevoegdheid die bij decreet of besluit zijn vastgelegd.<br>
+<br>
+De erkenning, vermeld in het eerste lid, vindt plaats door de toevoeging van de onderwijskwalificatie als structuuronderdeel of opleiding in ten minste één van de volgende regelingen, naargelang van het geval:<br>
+1° het besluit van de Vlaamse Regering van 1 juni 2018 houdende sommige maatregelen betreffende de modernisering van het secundair onderwijs;<br>
+2° het besluit van de Vlaamse Regering van 19 juli 2007 betreffende de studiebekrachtiging in het volwassenenonderwijs.<br>
+<br>
+§ 2. De erkende onderwijskwalificatie omvat minstens de volgende elementen:<br>
 1° de benaming;<br>
 2° het niveau;<br>
 3° de onderwijsdoelen waaruit de onderwijskwalificatie is samengesteld, meer bepaald:<br>
 a) de decretale eindtermen;<br>
-b) in voorkomend geval: de decretale specifieke eindtermen of, bij ontstentenis, een beschrijving van de vooropgestelde specifieke eindtermen;<br>
-c) in voorkomend geval: de competenties van de erkende beroepskwalificaties of deelkwalificaties;";<br>
+b) in voorkomend geval: de decretale specifieke eindtermen of, bij ontstentenis, een indicatieve beschrijving van de vooropgestelde specifieke eindtermen;<br>
+c) in voorkomend geval: de competenties van de erkende beroepskwalificaties of deelkwalificaties;<br>
 4° de plaats in de opleidingsstructuur waar de onderwijskwalificatie kan worden aangeboden;<br>
-5° het jaar waarin de erkenning is verleend.</p>
-
-<p>Elke erkende onderwijskwalificatie wordt bekendgemaakt in het Belgisch Staatsblad.</p>
+5° het jaar waarin de erkenning is verleend</p>
 
 ## [HOOFDSTUK 2/1. Procedure voor de actualisering of schrapping van onderwijskwalificaties (ing. BVR 16 juli 2021, art. 62, I: 1 september 2021)]
 
@@ -99,7 +103,7 @@ Het agentschap legt het voorstel tot actualisering voor aan de vertegenwoordiger
 
 Als een voorstel tot actualisering van een erkende onderwijskwalificatie alleen betrekking heeft op een technische aanpassing, legt het agentschap het geactualiseerde dossier, samen met een advies dat gebaseerd is op het advies, vermeld in artikel 8/1, tweede lid, ter beslissing voor aan de Vlaamse minister, bevoegd voor onderwijs en vorming.<br>
 <br>
-De Vlaamse minister, bevoegd voor onderwijs en vorming, beslist over de actualisering van de onderwijskwalificatie. Indien de actualisering betrekking heeft op een wijziging als vermeld in artikel 8/1, § 2, 3° of 4°, dan wijzigt de Vlaamse minister, bevoegd voor onderwijs en vorming, in overeenstemming hiermee het besluit van de Vlaamse Regering van 1 juni 2018 houdende sommige maatregelen betreffende de modernisering van het secundair onderwijs. Over een voorstel dat uiterlijk op 31 december is ingediend, beslist de Vlaamse minister, bevoegd voor onderwijs en vorming, uiterlijk op 30 juni daaropvolgend. Over een voorstel dat uiterlijk op 30 juni is ingediend, beslist de Vlaamse minister, bevoegd voor onderwijs en vorming, uiterlijk op 31 december daaropvolgend. De voormelde termijnen gelden met behoud van de toepassing van de termijnen voor de organisatie van structuuronderdelen en de termijnen voor het verwerven van onderwijsbevoegdheid die bij decreet of besluit zijn vastgelegd.
+De Vlaamse minister, bevoegd voor onderwijs en vorming, beslist over de actualisering van de onderwijskwalificatie. Indien de actualisering betrekking heeft op een wijziging als vermeld in artikel 8/1, § 2, 3° of 4°, dan wijzigt de Vlaamse minister, bevoegd voor onderwijs en vorming, in overeenstemming hiermee het besluit van de Vlaamse Regering van 1 juni 2018 houdende sommige maatregelen betreffende de modernisering van het secundair onderwijs of het besluit van de Vlaamse Regering van 19 juli 2007 betreffende de studiebekrachtiging in het volwassenenonderwijs, naargelang van het geval. Over een voorstel dat uiterlijk op 31 december is ingediend, beslist de Vlaamse minister, bevoegd voor onderwijs en vorming, uiterlijk op 30 juni daaropvolgend. Over een voorstel dat uiterlijk op 30 juni is ingediend, beslist de Vlaamse minister, bevoegd voor onderwijs en vorming, uiterlijk op 31 december daaropvolgend. De voormelde termijnen gelden met behoud van de toepassing van de termijnen voor de organisatie van structuuronderdelen en de termijnen voor het verwerven van onderwijsbevoegdheid die bij decreet of besluit zijn vastgelegd.
 
 ### ART 8/3.
 
