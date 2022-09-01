@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037786,
+  "title": "Besluit van de Vlaamse Regering van 2022-09-23 tot wijziging van artikel 1, 5, 6, 7 en 9 van het besluit van de Vlaamse Regering van 21 april 2017 betreffende de ondersteuning van de verstrekking van groenten, fruit en melk aan leerlingen in onderwijsinstellingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037786/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "766c303eee3dff1e941143b4f0e75b91f49b75d667d67209da4d0cd4f7f41e3b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037786&param=informatie",
+  "as_of": "2022-09-01",
+  "made": "2022-09-23",
+  "gazette": "2022-12-15",
+  "numac": 2022033742,
+  "document_start": "2022-09-01",
+  "document_end": null,
+  "in_force": "2022-09-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2022-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
