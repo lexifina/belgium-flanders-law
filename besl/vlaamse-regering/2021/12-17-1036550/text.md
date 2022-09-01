@@ -113,6 +113,17 @@ Een aanvraag die niet in het juiste formaat wordt ingediend of niet de juiste do
 <br>
 § 10. De bevoegde overheid bewaart de gegevens met betrekking tot de aanvraag van een laadpunt totdat het dossier van de aanvraag is afgesloten.
 
+### ART 6.
+
+De aanvraag wordt binnen een ordetermijn van zes maanden na de goedkeuring ervan uitgevoerd binnen de plaatsingsprocedure, vermeld in artikel 4. Daarbij overlegt de laadpuntexploitant voorafgaandelijk met de volgende actoren:<br>
+1° elektriciteitsdistributienetbeheerder;<br>
+2° de gemeente;<br>
+3° in voorkomend geval, een andere beheerder van het openbare domein waarop het laadpunt zal worden geïnstalleerd.<br>
+<br>
+De goedgekeurde aanvraag wordt na instemming van de wegbeheerder uitgevoerd binnen een wandelafstand van 250 meter vanaf het adres waarop de aanvraag betrekking heeft, of, in het geval, vermeld in artikel 5, § 5, op de beoogde standplaats voor taxi's of parkeerplaats voor autodelen. Als dat niet mogelijk is, wordt het laadpunt geïnstalleerd op de dichtstbijzijnde mogelijke en nuttige plaats.<br>
+<br>
+De bevoegde overheid kan in haar goedkeuringsbeslissing niet-bindende aanbevelingen formuleren over de plaats waar, of de specifieke zone waarin, het aangevraagde laadpunt het best uitgevoerd kan worden.
+
 ## Afdeling 3. Voorwaarden voor alle semipubliek en publiek toegankelijke laadpunten en laadpuntexploitanten
 
 ### ART 7.
@@ -151,6 +162,20 @@ De gegevens, vermeld in het eerste lid, 1°, worden elke dag geactualiseerd. De 
 2° het laadpunt ligt op een privéterrein bij een woning.<br>
 <br>
 § 3. Paragraaf 1, eerste lid, 1°, e), f) en g), is niet van toepassing voor een semipubliek of publiek toegankelijk laadpunt op een privéterrein.
+
+### ART 9.
+
+Elke laadpuntexploitant bezorgt voor elk semipubliek of publiek toegankelijk laadpunt op het openbare domein de volgende gegevens aan de bevoegde overheid:<br>
+1° het aantal laadsessies;<br>
+2° het aantal geladen kWh per laadsessie;<br>
+3° de laadtijd per laadsessie;<br>
+4° de connectietijd per laadsessie;<br>
+5° de operationaliteit;<br>
+6° het aantal unieke gebruikers.<br>
+<br>
+De laadpuntexploitant bezorgt de gegevens, vermeld in het eerste lid, op maandbasis aan de bevoegde overheid via een beveiligde omgeving, die de bevoegde overheid bepaalt.<br>
+<br>
+De bevoegde overheid gebruikt de gegevens, vermeld in het eerste lid, uitsluitend voor beleidsdoeleinden en voor de ondersteuning van de uitrol van semipubliek en publiek toegankelijke laadinfrastructuur. De gegevens, vermeld in het eerste lid, kunnen hiertoe aan andere overheden worden doorgegeven. Ze kunnen ook aan derden worden doorgegeven voor onderzoek en analyse in opdracht van de bevoegde overheid als de derden een vertrouwelijkheidsclausule ondertekenen. In dat geval mogen de gegevens niet worden gebruikt voor commerciële doeleinden.
 
 ## HOOFDSTUK 3. Wijziging van het Energiebesluit van 19 november 2010
 
