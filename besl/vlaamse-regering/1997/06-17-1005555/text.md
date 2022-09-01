@@ -1242,6 +1242,122 @@ De omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen va
 
 ## [ONDERAFDELING 1QUINQUIES OMZETTEN VAN LESTIJDEN IN PUNTEN BIJ LERARENTEKORT (ing. BVR 9 september 2022, art. 15, I: 1 september 2022 tot 31 augustus 2025)]
 
+### ART 20septies.
+
+Ter uitvoering van artikel 130, § 2, vijfde lid, van het decreet kunnen de lestijden, vermeld in artikel 130, § 2, tweede lid, van het decreet, in het gewoon basisonderwijs worden omgezet in punten, na omzetting conform de volgende tabel:
+<table border="1">
+	<tbody>
+		<tr>
+			<td>lestijden</td>
+			<td>punten</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>4</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>7</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>11</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>14</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>18</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>21</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>25</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>28</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>32</td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td>35</td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>39</td>
+		</tr>
+		<tr>
+			<td>13</td>
+			<td>43</td>
+		</tr>
+		<tr>
+			<td>14</td>
+			<td>46</td>
+		</tr>
+		<tr>
+			<td>15</td>
+			<td>50</td>
+		</tr>
+		<tr>
+			<td>16</td>
+			<td>53</td>
+		</tr>
+		<tr>
+			<td>17</td>
+			<td>57</td>
+		</tr>
+		<tr>
+			<td>18</td>
+			<td>60</td>
+		</tr>
+		<tr>
+			<td>19</td>
+			<td>64</td>
+		</tr>
+		<tr>
+			<td>20</td>
+			<td>67</td>
+		</tr>
+		<tr>
+			<td>21</td>
+			<td>71</td>
+		</tr>
+		<tr>
+			<td>22</td>
+			<td>74</td>
+		</tr>
+		<tr>
+			<td>23</td>
+			<td>78</td>
+		</tr>
+		<tr>
+			<td>24</td>
+			<td>81</td>
+		</tr>
+		<tr>
+			<td>25</td>
+			<td>85</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Uit de punten die conform het eerste lid worden verkregen, kunnen de volgende ambten worden ingericht:<br>
+1° het ambt van zorgcoördinator uit de categorie beleids- en ondersteunend personeel;<br>
+2° het ambt van ICT-coördinator uit de categorie beleids- en ondersteunend personeel;<br>
+3° het ambt van administratief medewerker uit de categorie beleids- en ondersteunend personeel;<br>
+4° vanaf 1 januari 2022 het ambt van beleidsondersteuner uit de categorie beleids- en ondersteunend personeel.<br>
+<br>
+De punten worden omgerekend naar gefinancierde of gesubsidieerde betrekkingen van het beleids- en ondersteund personeel conform artikel 4quater, 4quinquies en 4sexies van het besluit van de Vlaamse regering van 5 maart 2004 betreffende de puntenenveloppen voor de scholengemeenschappen basisonderwijs.
+
 ## ONDERAFDELING 2 AANVULLENDE LESTIJDEN VOOR DE OPVANG VAN ANDERSTALIGE NIEUWKOMERS
 
 ### ART. 21.
