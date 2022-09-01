@@ -176,29 +176,31 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 <br>
 5. De staat waarin het vermeerderingsveld zich bevindt en de stand van het gewas moeten een voldoende controle van de rasechtheid en de raszuiverheid mogelijk maken.<br>
 <br>
+5/1. Als na de toepassing van punt 2 tot en met 5 twijfel blijft bestaan over de rasechtheid van het zaad, kan de bevoegde entiteit voor het onderzoek naar die rasechtheid een internationaal erkende en reproduceerbare biochemische of moleculaire techniek gebruiken, conform de toepasselijke internationale normen.<br>
+<br>
 6. De minimumafstand tot in de buurt liggende bestuivingsbronnen bedraagt:<br>
 </p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:338.4pt">
+			<td style="background-color:transparent; vertical-align:top; width:338.4pt">
 			<p>Gewas<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; vertical-align:top; width:122.2pt">
 			<p>Minimumafstand</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:338.4pt">
+			<td style="background-color:transparent; vertical-align:top; width:338.4pt">
 			<p>1. voor de productie van basiszaad:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; vertical-align:top; width:122.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:338.4pt">
+			<td style="background-color:transparent; vertical-align:top; width:338.4pt">
 			<p>- tot bestuivingsbronnen van het geslacht Beta;</p>
 
 			<p>2. voor de productie van gecertificeerd zaad:</p>
@@ -235,7 +237,7 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 
 			<p>- tussen twee velden voor de productie van voederbieten, waarbij geen gebruik wordt gemaakt van de mannelijke steriliteit.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; vertical-align:top; width:122.2pt">
 			<p>1 000 m</p>
 
 			<p>&nbsp;</p>
@@ -318,23 +320,23 @@ a)<br>
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:149.4pt">
+			<td style="background-color:transparent; vertical-align:top; width:149.4pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:114pt">
+			<td style="background-color:transparent; vertical-align:top; width:114pt">
 			<p>Mechanische minimuzuiverheid (%</p>
 
 			<p>van het gewicht (1))</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:102pt">
+			<td style="background-color:transparent; vertical-align:top; width:102pt">
 			<p>Minimumkiemkracht (% van de zuivere kluwens of zaden)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:99pt">
+			<td style="background-color:transparent; vertical-align:top; width:99pt">
 			<p>Maximumvochtgehalte (% van het gewicht (1))</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
+			<td style="background-color:transparent; vertical-align:top; width:149.4pt">
 			<p>aa) Suikerbieten</p>
 
 			<p>- eenkiemig zaad</p>
@@ -351,7 +353,7 @@ a)<br>
 
 			<p>- ander zaad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:114pt">
+			<td style="background-color:transparent; vertical-align:top; width:114pt">
 			<p>&nbsp;</p>
 
 			<p>97</p>
@@ -378,7 +380,7 @@ a)<br>
 
 			<p>97</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:102pt">
+			<td style="background-color:transparent; vertical-align:top; width:102pt">
 			<p>&nbsp;</p>
 
 			<p>80</p>
@@ -405,7 +407,7 @@ a)<br>
 
 			<p>68</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99pt">
+			<td style="background-color:transparent; vertical-align:top; width:99pt">
 			<p>&nbsp;</p>
 
 			<p>15</p>
@@ -434,12 +436,12 @@ a)<br>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:464.4pt">
+			<td colspan="4" style="background-color:transparent; vertical-align:top; width:464.4pt">
 			<p>Het gewichtspercentage aan zaden van andere planten mag niet meer bedragen dan 0,3.</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:464.4pt">
+			<td colspan="4" style="background-color:transparent; vertical-align:top; width:464.4pt">
 			<p>(1) In voorkomend geval exclusief korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat</p>
 			</td>
 		</tr>
