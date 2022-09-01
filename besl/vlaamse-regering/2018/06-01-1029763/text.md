@@ -176,7 +176,9 @@ d) ....
 
 ### ART 4/1.
 
-Voor elk structuuronderdeel met dubbele finaliteit of finaliteit arbeidsmarkt uit de matrix is de samenstelling van een of meer beroepskwalificaties, deelkwalificaties of sets van competenties uit beroepskwalificaties opgenomen in bijlage 4/1 die bij dit besluit is gevoegd.
+Voor elk structuuronderdeel met dubbele finaliteit of finaliteit arbeidsmarkt uit de matrix is de samenstelling van een of meer beroepskwalificaties, deelkwalificaties of sets van competenties uit beroepskwalificaties opgenomen in bijlage 4/1 die bij dit besluit is gevoegd.<br>
+<br>
+Voor elk structuuronderdeel met doorstroomfinaliteit of dubbele finaliteit dat vanaf 1 september 2022 in de matrix wordt opgenomen en dat leidt tot een onderwijskwalificatie niveau 4, worden in bijlage 4/1, die bij dit besluit is gevoegd, de decretale specifieke eindtermen vermeld of, bij ontstentenis, de vooropgestelde specifieke eindtermen vermeld of indicatief beschreven.
 
 ## [HOOFDSTUK 1/1. Lesuren in opleidingsvorm 3 (ing. BVR 22 september 2023, art. 63, I: 1 september 2025)]
 
@@ -420,7 +422,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE 2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2021/09/20_1.pdf#page=1452">Matrix secundair onderwijs</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/27_1.pdf#page=1279">Matrix secundair onderwijs</a>
 
 ### BIJLAGE 3
 
@@ -428,11 +430,11 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE 4
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2021/09/20_1.pdf#page=1472">Concordantietabellen</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/27_1.pdf#page=1306">Concordantietabellen</a>
 
 ### BIJLAGE 4/1.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2021/09/20_1.pdf#page=1585">Samenstelling van structuuronderdelen</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/27_1.pdf#page=1423">Samenstelling van structuuronderdelen</a>
 
 ### BIJLAGE 5
 
