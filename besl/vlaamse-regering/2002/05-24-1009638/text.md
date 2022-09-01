@@ -251,7 +251,12 @@ De personeelsleden genoemd in voorgaand lid, kunnen niet opnieuw een gedeeltelij
 <br>
 § 5. In afwijking van paragraaf 1 wordt de leeftijd op vijftig jaar gebracht voor de personeelsleden van wie de eerste aanvraag of verlengingsaanvraag voor 1 september 2012 werd ontvangen bij de Rijksdienst voor Arbeidsvoorziening, voor zover de inrichtende macht of de Vlaamse Regering vóór 16 maart 2012 de schriftelijke aanvraag van het personeelslid ontving.<br>
 <br>
-§6. De gedeeltelijke loopbaanonderbreking vanaf de leeftijd van 50 of 55 jaar wordt geschorst op het ogenblik dat het personeelslid het recht doet gelden op een loopbaanonderbreking voor palliatieve zorgen of voor het hervatten van het werk binnen de periode van 16 maart 2020 tot en met 30 juni 2020 of 3 mei 2021 tot en met 31 augustus 2021 ingevolge de coronacrisis.</p>
+§ 6. De gedeeltelijke loopbaanonderbreking vanaf de leeftijd van 50 of 55 jaar wordt geschorst op het ogenblik dat het personeelslid het recht doet gelden op een loopbaanonderbreking voor palliatieve zorgen of voor het hervatten van het werk binnen de periode van 16 maart 2020 tot en met 30 juni 2020 of 3 mei 2021 tot en met 31 augustus 2021 ingevolge de coronacrisis.<br>
+<br>
+De gedeeltelijke loopbaanonderbreking vanaf de leeftijd van vijftig of vijfenvijftig jaar kan vanaf 1 september 2022 ook geschorst worden om het werk te hervatten, op voorwaarde dat het hogeschoolbestuur akkoord gaat met de werkhervatting. De minimumduur van de schorsing bedraagt twee weken.<br>
+<br>
+Tijdens de voormelde periode van schorsing kan het personeelslid de arbeidsprestaties niet verminderen of voltijds onderbreken, met uitzondering van &nbsp;ziekteverlof, de afwezigheid wegens arbeidsongeval, wegens ongeval op weg naar en van het werk en wegens beroepsziekte.<br>
+&nbsp;</p>
 
 ## HOOFDSTUK III PROCEDURE EN ADMINISTRATIEVE VERPLICHTINGEN
 
