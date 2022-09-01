@@ -1,6 +1,22 @@
 # Besluit van de Vlaamse Regering van 1999-01-26 betreffende de organisatie van uren die geen lesuren zijn in het buitengewoon secundair onderwijs [en over sommige aspecten van de personeelsomkadering in het buitengewoon secundair onderwijs]
 
+### BIJLAGE 1
+
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/27_1.pdf#page=122">Overzicht van de structuuronderdelen in opleidingsvorm 4 waarvoor er een noodzaak is om culturen, serres of veestapel uit te baten of onderhouden</a>
+
 ## [Hoofdstuk 2. De opleidingen van het buitengewoon secundair onderwijs, verwant aan land- en tuinbouw, waarvoor er een noodzaak is om culturen, serres of veestapel uit te baten of te onderhouden (ing. BVR 2 september 2022, art. 14, I: 1 september 2022)]
+
+### ART 5/1.
+
+Een lijst met structuuronderdelen buitengewoon secundair onderwijs, opleidingsvorm 4, uit het studiegebied of studiedomein land- en tuinbouw, waarvoor er een noodzaak is om culturen, serres of veestapel uit te baten of te onderhouden, wordt vastgesteld. Die lijst is opgenomen in bijlage 1, die bij dit besluit is gevoegd.
+
+### ART 5/2.
+
+Een lijst met structuuronderdelen buitengewoon secundair onderwijs, opleidingsvorm 3, verwant aan land- en tuinbouw, waarvoor er een noodzaak is om culturen, serres of veestapel uit te baten of te onderhouden, wordt vastgesteld. Die lijst is opgenomen in bijlage 2, die bij dit besluit is gevoegd.
+
+### BIJLAGE 2
+
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/27_1.pdf#page=124">Overzicht van de structuuronderdelen in opleidingsvorm 3 waarvoor er een noodzaak is om culturen, serres of veestapel uit te baten of onderhouden </a>
 
 ## [Hoofdstuk 3. Slotbepalingen (ing. BVR 2 september 2022, art. 16, I: 1 september 2022)]
 
