@@ -25,24 +25,24 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-In dit besluit wordt verstaan onder besluit van 21 december 2018: het besluit van de Vlaamse Regering van 21 december 2018 tot uitvoering van afdeling 6 - toekenning van betaald educatief verlof in het kader van voortdurende vorming van de werknemers - van hoofdstuk IV van de herstelwet van 22 januari 1985 houdende sociale bepalingen en tot wijziging van artikel 4 van het besluit van de Vlaamse Regering van 17 mei 2013 betreffende de loopbaanbegeleiding.
+...
 
 ### ART 2.
 
-In afwijking van artikel 2, § 1, derde lid, van het besluit van 21 december 2018 kunnen, om te voldoen aan de voorwaarde, vermeld in artikel 2, § 1, eerste lid, 2°, van het voormelde besluit, modules uit verschillende arbeidsmarktgerichte opleidingen gecombineerd worden.
+...
 
 ### ART 3.
 
-In afwijking van artikel 22, eerste lid, van het besluit van 21 december 2018 kan het Vlaams opleidingsverlof worden toegekend aan een werknemer voor maximaal 250 uur per jaar als de werknemer ook een opleiding op voorstel van de werkgever volgt. Maximaal 125 uur wordt toegekend voor een opleiding die een werknemer op initiatief van de werknemer volgt, en maximaal 125 uur wordt toegekend voor een opleiding die een werknemer op voorstel van de werkgever volgt.
+...
 
 ### ART 4.
 
-Met behoud van de toepassing van artikel 33, eerste lid, van het besluit van 21 december 2018, geeft de werkgever in de aanvraag tot terugbetaling aan of de werknemer de opleiding op eigen initiatief of op voorstel van de werkgever volgt. De aanvraag tot terugbetaling wordt ingediend voor maximaal 125 uur voor een opleiding die een werknemer op eigen initiatief volgt en voor maximaal 125 uur voor een opleiding die een werknemer op voorstel van de werkgever volgt.
+...
 
 ### ART 5.
 
-Dit besluit treedt in werking op 1 september 2021 en treedt buiten werking op 31 augustus 2022.
+...
 
 ### ART 6.
 
-De Vlaamse minister, bevoegd voor werk, is belast met de uitvoering van dit besluit.
+...
