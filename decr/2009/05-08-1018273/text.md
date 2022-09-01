@@ -24,17 +24,17 @@ Voor de toepassing van dit decreet wordt verstaan onder :<br>
 12° nascholing : het geheel van vormingsactiviteiten die tot doel hebben de kennis, vaardigheden en attitudes die personeelsleden tijdens hun opleiding of tijdens hun werkervaring hebben verworven, te verbreden en te verdiepen met het oog op hun verdere professionalisering;<br>
 13° onderwijsinstelling : een pedagogisch geheel waar onderwijs georganiseerd wordt en waaraan een uniek instellingsnummer toegekend is;<br>
 14° onderwijskoepels : een van volgende representatieve groeperingen van inrichtende machten van gesubsidieerde instellingen :<br>
-a) Onderwijssecretariaat van de Steden en Gemeenten van de Vlaamse Gemeenschap;<br>
+a) Onderwijsvereniging van Steden en Gemeenten;<br>
 b) Provinciaal Onderwijs Vlaanderen;<br>
-c) Vlaams Secretariaat van het Katholiek Onderwijs;<br>
+c) Katholiek Onderwijs Vlaanderen;<br>
 d) Federatie van Onafhankelijke Pluralistische Emancipatorische Methodescholen;<br>
 e) Vlaams Onderwijs Overlegplatform;<br>
-f) Federatie van Steinerscholen in Vlaanderen;<br>
-g) Raad van Inrichtende Machten van het Protestants-Christelijk onderwijs VZW;<br>
+f) Federatie Steinerscholen;<br>
+g) Raad van Inrichtende Machten van het Protestants-Christelijk Onderwijs (IPCO);<br>
 15° organieke betrekkingen : het geheel van organieke betrekkingen, omgerekend in voltijdse eenheden, waarop de instelling recht heeft bij toepassing van de bestaande reglementering voor de personeelscategorieën, vermeld in :<br>
 a) artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs, met uitzondering van het personeel van de pedagogische begeleidingsdienst en het statutair meesters-, vak- en dienstpersoneel;<br>
 b) artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
-16° pedagogische begeleiding : de externe professionele ondersteuning van onderwijsinstellingen en CLB's in hun zorg voor kwaliteitsonderwijs en kwaliteitsvolle leerlingenbegeleiding;<br>
+16° pedagogische begeleiding : de externe professionele ondersteuning van onderwijsinstellingen en CLB's in hun zorg voor kwaliteitsonderwijs en kwaliteitsvolle leerlingenbegeleiding ingebed in een duurzame instellingsnabije relatie;<br>
 16° /1 referentiekader onderwijskwaliteit : het kader dat de verwachtingen voor kwaliteitsvol onderwijs door onderwijsinstellingen uitzet; het kader is opgebouwd rond de vier rubrieken : resultaten en effecten, ontwikkeling stimuleren, kwaliteitsontwikkeling en beleid en het houdt rekening met context en input van de onderwijsinstelling;<br>
 16° /2 referentiekader CLB-kwaliteit : het kader dat de verwachtingen voor kwaliteitsvolle leerlingenbegeleiding door de CLB's uitzet; het kader is opgebouwd rond de vier rubrieken : resultaten en effecten, ontwikkeling stimuleren, kwaliteitsontwikkeling en beleid en het houdt rekening met context en input van het CLB;<br>
 17° representatieve vakorganisatie : personeelsvereniging die aangesloten is bij een syndicale organisatie die vertegenwoordigd is in de Sociaal-Economische Raad van Vlaanderen en die een werking ontplooit ten behoeve van de inspectie;<br>
@@ -173,31 +173,58 @@ Deze titel, met uitzondering van artikel 14, § 3, eerste lid, van dit decreet, 
 
 ### ART. 14.
 
-§ 1. De pedagogische begeleidingsdiensten worden georganiseerd door verenigingen zonder winstoogmerk die zijn opgericht door de onderwijskoepels. <br /><br />Per onderwijskoepel kan één pedagogische begeleidingsdienst in de toelageregeling worden opgenomen.<br /><br />§ 2. Met behoud van de toepassing van artikel 33, § 1, 6°, van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs wordt in het gemeenschapsonderwijs door de Raad voor het Gemeenschapsonderwijs, op voorstel van de afgevaardigd bestuurder, een pedagogische begeleidingsdienst opgericht.<br /><br />§ 3. Instellingen die geen deel uitmaken van een onderwijskoepel of van het gemeenschapsonderwijs, kunnen zich voor de taken beschreven in artikel 15, met uitzondering van artikel 15, § 1, 1°, contractueel laten begeleiden door één pedagogische begeleidingsdienst. <br /><br />Gesubsidieerde instellingen die wel deel uitmaken van een onderwijskoepel kunnen zich voor de taken beschreven in artikel 15, met uitzondering van artikel 15, § 1, 1°, contractueel laten begeleiden door één andere pedagogische begeleidingsdienst dan deze georganiseerd door de eigen onderwijskoepel.
+§ 1. De pedagogische begeleidingsdiensten worden georganiseerd door verenigingen zonder winstoogmerk die zijn opgericht door de onderwijskoepels.<br>
+<br>
+Per onderwijskoepel kan één pedagogische begeleidingsdienst in de toelageregeling worden opgenomen.<br>
+<br>
+§ 2. Met behoud van de toepassing van artikel 33, § 1, 6°, van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs wordt in het gemeenschapsonderwijs door de Raad voor het Gemeenschapsonderwijs, op voorstel van de afgevaardigd bestuurder, een pedagogische begeleidingsdienst opgericht.<br>
+<br>
+§ 3. Instellingen die geen deel uitmaken van een onderwijskoepel of van het gemeenschapsonderwijs, kunnen zich voor de taken beschreven in artikel 15 contractueel laten begeleiden door één pedagogische begeleidingsdienst.<br>
+<br>
+Gesubsidieerde instellingen die wel deel uitmaken van een onderwijskoepel kunnen zich voor de taken beschreven in artikel 15 contractueel laten begeleiden door één andere pedagogische begeleidingsdienst dan deze georganiseerd door de eigen onderwijskoepel.
 
 ### ART. 15.
 
-§ 1. De pedagogische begeleidingsdiensten hebben de volgende opdrachten :<br>
-1° de onderwijsinstellingen in kwestie ondersteunen bij de realisatie van hun eigen pedagogisch of agogisch project en de CLB's in kwestie ondersteunen bij de realisatie van hun eigen missie en hun eigen begeleidingsproject;<br>
-2° de onderwijsinstellingen en de CLB's in kwestie ondersteunen bij het bevorderen van hun onderwijskwaliteit, respectievelijk de kwaliteit van hun leerlingenbegeleiding en bij hun ontwikkeling tot professionele lerende organisatie door :<br>
-a) netwerkvorming te bevorderen en netwerken te ondersteunen;<br>
-b) leidinggevenden te ondersteunen of te vormen;<br>
-c) de beroepsbekwaamheid van de personeelsleden te ondersteunen binnen een school of centrum en instellingsoverstijgend met bijzondere aandacht voor beginnende personeelsleden, personeelsleden met specifieke opdrachten. Daarnaast dient prioritair aandacht besteed te worden aan de competenties in het kader van het onderwijs aan leerlingen met specifieke onderwijsbehoeften;<br>
-d) het beleidsvoerend vermogen van instellingen te versterken;<br>
-e) de kwaliteitszorg van instellingen te ondersteunen;<br>
-3° op verzoek van het bestuur van de instelling de instelling ondersteunen en begeleiden bij de uitwerking van de aangegeven actiepunten na een doorlichting;<br>
-4° onderwijsinnovaties aanreiken, stimuleren en ondersteunen;<br>
-5° aanbodgerichte nascholingsactiviteiten aanreiken en aansturen met inbegrip van de nascholing van directies;<br>
-6° met verscheidene onderwijsactoren op verschillende niveaus overleggen over onderwijskwaliteit en de kwaliteit van de leerlingenbegeleiding;<br>
-7° participeren aan de aansturing of opvolging van ondersteuningsinitiatieven georganiseerd of gesubsidieerd door de Vlaamse Regering die als doelstelling het ondersteunen van instellingen, leerkrachten of begeleiders hebben.<br>
+§ 1. De pedagogische begeleidingsdiensten begeleiden de onderwijsinstellingen en CLB's in kwestie en hun personeelsleden in het verstrekken van kwaliteitsonderwijs en kwaliteitsvolle leerlingenbegeleiding, zoals bepaald in artikel 4, § 2.<br>
 <br>
-§ 2. Iedere pedagogische begeleidingsdienst stelt driejaarlijks een begeleidingsplan op voor de volgende drie schooljaren. De pedagogische begeleidingsdienst deelt dat begeleidingsplan mee aan de instellingen en aan de Vlaamse Regering.<br>
+Dit houdt in dat de pedagogische begeleidingsdiensten de volgende doelstellingen realiseren met de begeleiding die ze opzetten, waarbij ze vertrekken vanuit het pedagogisch, artistiek-pedagogisch of agogisch project van de onderwijsinstelling in kwestie of van de eigen missie en het eigen begeleidingsproject van het CLB in kwestie en ze steeds rekening houden met de noden en de vragen van de onder- wijsinstelling of het CLB in kwestie:<br>
+1° het versterken van de beroepsbekwaamheid van de personeelsleden van onderwijsinstellingen en de CLB's in kwestie, in rechtstreeks contact, met aandacht voor het versterken van hun pedagogische en didactische handelen en met het oog op de ontwikkeling van alle lerenden;<br>
+2° het versterken van de onderwijsinstellingen en CLB's in kwestie als professionele lerende organisatie. De pedagogische begeleidingsdiensten geven hierbij voorrang aan de onderwijsinstellingen of CLB's waar zich de grootste noden op deze vlakken situeren. Om deze onderwijsinstellingen of CLB's te identificeren kunnen de pedagogische begeleidingsdiensten gebruikmaken van verschillende bronnen zoals de gegevens van de pedagogische begeleidingsdienst zelf, de gegevens van de onderwijsinstelling of het CLB in kwestie, de gegevens uit doorlichtingstrajecten uitgevoerd door de onderwijsinspectie van de onderwijsinstelling of het CLB in kwestie, de gegevens die aan de basis liggen van het profiel van de onderwijsinstelling of het CLB zoals bepaald in artikel 38, § 4, of andere resultaten of gegevens die wijzen op een lage kwaliteit van onderwijs of leerlingenbegeleiding;<br>
+3° het ondersteunen van de onderwijsinstellingen in kwestie bij de realisatie van hun eigen pedagogisch, artistiek-pedagogisch of agogisch project en het ondersteunen van de CLB's in kwestie bij de realisatie van hun eigen missie en hun eigen begeleidingsproject;<br>
+4° het begeleiden van de implementatie van bepaalde beleidsprioriteiten van de Vlaamse Regering bij de onderwijsinstellingen en de CLB's in kwestie, zoals bepaald in artikel 19/2.<br>
 <br>
-Jaarlijks rapporteren de pedagogische begeleidingsdiensten aan de Vlaamse Regering over de activiteiten van het vorige schooljaar. De stukken ter verantwoording van de ontvangen werkingsmiddelen moeten op de zetel van de pedagogische begeleidingsdiensten worden bewaard, waar ze voor controle ter beschikking zijn van de bevoegde diensten.<br>
+De nadruk van de begeleiding van de pedagogische begeleidingsdiensten ligt steeds op de ontwikkeling van onderwijsinstellingen en CLB's in kwestie. Hiervoor is een duurzame relatie met de betrokken instellingen noodzakelijk.<br>
 <br>
-§ 3. Iedere pedagogische begeleidingsdienst stelt een werkingscode op en maakt die bekend bij de instellingen en hun personeelsleden.<br>
+§ 2. Iedere pedagogische begeleidingsdienst stelt vijfjaarlijks een begeleidingsplan op voor de volgende vijf schooljaren. Zij dient dit uiterlijk in bij de bevoegde dienst op 1 april voorafgaand aan de start van het eerste schooljaar van de periode van in totaal vijf schooljaren waarop het begeleidingsplan betrekking heeft. In afwijking hiervan dient iedere pedagogische begeleidingsdienst uiterlijk op 30 september 2022 een begeleidingsplan in bij de bevoegde dienst voor een periode van drie schooljaren die betrekking heeft op de schooljaren 2022-2023, 2023-2024 en 2024-2025.<br>
 <br>
-§ 4. Elke pedagogische begeleidingsdienst onderzoekt en bewaakt op systematische wijze haar eigen kwaliteit. De pedagogische begeleidingsdienst kiest zelf de wijze waarop zij dit doet.
+De Vlaamse Regering keurt de begeleidingsplannen goed op basis van de volgende criteria:<br>
+1° de uitwerking en de volledigheid van het begeleidingsplan. Daarvoor bevat elk begeleidingsplan een beschrijving van ten minste de volgende elementen en een globale motivering bij de gemaakte keuzes:<br>
+a) een visie op begeleiding en een duurzame vertaling van deze visie in de begeleidingspraktijk;<br>
+b) een vertaling van de doelstellingen, vermeld in artikel 15, § 1, 1° tot en met 4°, naar operationele doelstellingen, inclusief het vooropgestelde tijdspad en de geraamde inzet van personeel en werkingsmiddelen;<br>
+c) de beoogde doelgroepen;<br>
+d) de wijze waarop de instellingen met de grootste noden, vermeld in artikel 15, § 1, 2°, van het decreet, worden geïdentificeerd en begeleid;<br>
+e) de wijze waarop rechtstreekse contacten met de beoogde doelgroepen gerealiseerd worden met het oog op de realisatie van een duurzame instellingsnabije relatie als vermeld in paragraaf 1, laatste lid;<br>
+f) het verwachte bereik van de begeleidingsactiviteiten en de wijze waarop de effectiviteit van deze activiteiten in kaart zal worden gebracht;<br>
+2° de ontwikkeling van de pedagogische begeleidingsdienst als organisatie. Daarvoor bevat elk begeleidingsplan een beschrijving van ten minste de volgende elementen en een globale motivering bij de gemaakte keuzes:<br>
+a) het personeels- en professionaliseringsbeleid;<br>
+b) het interne kwaliteitszorgbeleid;<br>
+c) de wijze waarop doelgerichte samenwerking met de andere pedagogische begeleidingsdiensten of permanente ondersteuningscellen wordt gekozen;<br>
+d) de wijze waarop doelgerichte samenwerking met andere actoren betrokken bij de kwaliteit van onderwijs en leerlingenbegeleiding wordt gekozen;<br>
+e) de wijze waarop de wetenschappelijke onderbouwing van de begeleiding vorm krijgt;<br>
+f) de wijze waarop wordt omgegaan met onverwachte of nieuwe vragen en uitdagingen.<br>
+<br>
+De Vlaamse Regering bepaalt een sjabloon waarin de begeleidingsplannen worden opgesteld en de verdere procedure voor de goedkeuring van de begeleidingsplannen. De pedagogische begeleidingsdiensten delen de goedgekeurde begeleidingsplannen mee aan de onderwijsinstellingen en CLB's in kwestie.<br>
+<br>
+Jaarlijks rapporteren de pedagogische begeleidingsdiensten aan de Vlaamse Regering over de activiteiten van het vorige schooljaar. Na de periode van vijf schooljaren waarop het begeleidingsplan betrekking heeft, rapporteren de pedagogische begeleidingsdiensten in hun jaarlijkse rapport over de activiteiten van de ganse periode van vijf schooljaren. De stukken ter verantwoording van de ingezette middelen worden op de zetel van de pedagogische begeleidingsdiensten bewaard, waar ze voor controle ter beschikking zijn van de bevoegde diensten.<br>
+<br>
+De Vlaamse Regering bepaalt welke elementen minimaal in de jaarlijkse rapporten worden opgenomen en bepaalt de procedure voor goedkeuring van de jaarlijkse rapporten.<br>
+<br>
+§ 3. Iedere pedagogische begeleidingsdienst stelt een werkingscode op en maakt die bekend bij de onderwijsinstellingen en CLB's in kwestie en hun personeelsleden.<br>
+<br>
+§ 4. Elke pedagogische begeleidingsdienst onderzoekt en bewaakt op systematische wijze de kwaliteit van de geboden begeleiding. De pedagogische begeleidingsdienst kiest zelf de wijze waarop zij dit doet, waarbij ze er rekening mee houdt dat een kwaliteitsvolle begeleiding minimaal inhoudt dat de pedagogische begeleidingsdiensten:<br>
+1° zowel inhoudelijk als agogisch werken op een wetenschappelijk onderbouwde wijze en functioneren als professionele organisaties;<br>
+2° deelnemen aan overleg met de Vlaamse overheid en andere actoren over de kwaliteit van onderwijs en leerlingenbegeleiding;<br>
+3° doelgericht samenwerken, zowel onderling als met andere relevante actoren zoals de lerarenopleidingen, de instellingen hoger onderwijs en de onderwijsinspectie. Doelgericht betekent met het oog op het versterken van de voorbereiding, uitvoering en evaluatie van de begeleiding en kan voor de pedagogische begeleidingsdienst betekenen dat zij een makelaarsrol opneemt. In dit artikel wordt verstaan onder makelaarsrol, de rol die de pedagogische begeleidingsdiensten hebben om de onderwijsinstellingen of de CLB's in kwestie gericht te adviseren over het aanbod van een andere organisatie die expertise kan binnenbrengen die niet bij de pedagogische begeleidingsdiensten zelf aanwezig is. In dat geval voeren de pedagogische begeleidingsdiensten de begeleiding niet zelf uit, maar blijven ze wel de onderwijsinstellingen en CLB's in kwestie verder opvolgen.
 
 ## HOOFDSTUK III. Omkadering en werkingsmiddelen
 
@@ -293,11 +320,21 @@ De bedragen verkregen door toepassing van de artikelen 18, 19, 21/1, 22, 27/2 en
 
 ### ART. 23.
 
-De werkingsmiddelen, vermeld in deze afdeling, worden uitbetaald in twee schijven. Een eerste schijf van zestig procent wordt uitbetaald voor het einde van de maand februari van het betreffende begrotingsjaar, een tweede schijf van veertig procent wordt uitbetaald voor het einde van de maand juni van het betreffende begrotingsjaar.<br /><br />Er kan een reserve worden opgebouwd ten bedrage van maximaal 25 % van de jaarlijkse middelen.
+De werkingsmiddelen, vermeld in deze afdeling, worden uitbetaald in twee schijven:<br>
+1° een eerste schijf van zestig procent wordt uitbetaald voor het einde van de maand februari van het betreffende begrotingsjaar;<br>
+2° een tweede schijf van veertig procent wordt uitbetaald voor het einde van de maand juni van het betreffende begrotingsjaar.<br>
+<br>
+Er kan een reserve worden opgebouwd ten bedrage van maximaal twintig procent van de jaarlijkse middelen.
 
 ### ART. 24.
 
-Werkingsmiddelen die niet tijdig aangewend worden, moeten onmiddellijk worden terugbetaald. <br /><br />Bij afwending van de middelen kan de Vlaamse Regering een administratieve geldboete opleggen van ten hoogste het vijfvoud van de afgewende werkingsmiddelen. De geldboete kan in mindering worden gebracht van de nog aan het bestuur verschuldigde middelen, met inbegrip van andere werkingsmiddelen of -toelagen.<br /><br />Een terugvordering of inhouding van de werkingsmiddelen kan er niet toe leiden dat het gedeelte van de werkingsmiddelen voor personeelsaangelegenheden in absolute cijfers kleiner wordt dan wanneer de maatregel niet zou getroffen zijn.
+De pedagogische begeleidingsdiensten wenden de werkingsmiddelen, vermeld in deze afdeling, uitsluitend aan voor de begeleiding van de onderwijsinstellingen en de CLB's in kwestie, en dit overeenkomstig de goedgekeurde begeleidingsplannen. Indien uit de jaarlijkse rapporten, vermeld in artikel 15, § 2, blijkt, met toepassing van de procedure voor goedkeuring van de jaarlijkse rapporten, dat deze middelen niet worden aangewend voor de begeleiding overeenkomstig de goedgekeurde begeleidingsplannen, dan kan een gedeeltelijke terugbetaling van het werkingsbudget worden opgelegd. Deze terugbetaling kan maximaal tien procent van het werkingsbudget bedragen en wordt in mindering gebracht van de werkingsmiddelen van het daarop volgende werkingsjaar.<br>
+<br>
+Werkingsmiddelen die niet tijdig aangewend worden, moeten onmiddellijk worden terugbetaald.<br>
+<br>
+Bij afwending van de middelen kan de Vlaamse Regering een administratieve geldboete opleggen van ten hoogste het vijfvoud van de afgewende werkingsmiddelen. De geldboete kan in mindering worden gebracht van de nog aan het bestuur verschuldigde middelen, met inbegrip van andere werkingsmiddelen of -toelagen.<br>
+<br>
+Een terugvordering of inhouding van de werkingsmiddelen kan er niet toe leiden dat het gedeelte van de werkingsmiddelen voor personeelsaangelegenheden in absolute cijfers kleiner wordt dan wanneer de maatregel niet zou getroffen zijn.
 
 ## HOOFDSTUK IV. Samenwerkingsverband Netgebonden Pedagogische Begeleidingsdiensten
 
@@ -355,17 +392,15 @@ In het kader van de uitvoering van de speerpunten in de maatregelen VV15 Digispr
 
 ### ART. 29.
 
-§ 1. De permanente ondersteuningscellen&nbsp;vermeld in artikel 15 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, secundair onderwijs en de centra voor leerlingenbegeleiding, hebben als opdracht om de professionalisering van de personeelsleden van de CLB's te versterken. Zij maken hierover afspraken met de pedagogische begeleidingsdienst van het eigen centrumnet.<br>
+§ 1. De bepalingen van artikel 15, §§ 2, 3 en 4, zijn van toepassing op de permanente ondersteuningscellen in de CLB's, vermeld in artikel 15 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, secundair onderwijs en de centra voor leerlingenbegeleiding. Zij maken hierover afspraken met de pedagogische begeleidingsdienst van het betrokken centrumnet.<br>
 <br>
-§ 2. Iedere permanente ondersteuningscel stelt driejaarlijks een begeleidingsplan op voor de volgende drie schooljaren. De permanente ondersteuningscel deelt dat begeleidingsplan mee aan de CLB's en aan de Vlaamse Regering.<br>
+§ 2. ...<br>
 <br>
-Jaarlijks rapporteren de permanente ondersteuningscellen aan de Vlaamse Regering over de activiteiten van het vorige schooljaar, met inbegrip van een financiële verantwoording over de ontvangen werkingsmiddelen.<br>
+§ 3. ...<br>
 <br>
-§ 3. Iedere permanente ondersteuningscel stelt een werkingscode op en maakt die bekend bij de CLB's en hun personeelsleden.<br>
+§ 4....<br>
 <br>
-§ 4. Iedere permanente ondersteuningscel onderzoekt en bewaakt op systematische wijze haar eigen kwaliteit. De permanente ondersteuningscel kiest zelf de wijze waarop zij dit doet.<br>
-<br>
-§ 5. Het begeleidingsplan, de jaarlijkse rapportering en de werkingscode kunnen geïntegreerd worden in de documenten vermeld in artikel 15, § 2 en § 3.
+§ 5. Het begeleidingsplan, de jaarlijkse rapportering en de werkingscode van de pedagogische begeleidingsdiensten en de permanente ondersteuningscellen kunnen geïntegreerd worden.
 
 ## HOOFDSTUK VIII. [Evaluatie van de werking van de pedagogische begeleidingsdiensten, de permanente ondersteuningscellen (verv. decr. 19 december 2014, art. 8, I: 1 januari 2015)]
 
@@ -653,7 +688,7 @@ Het overlegorgaan maakt jaarlijks een rapport op over haar werking en bezorgt di
 2° de personeelsleden, vermeld in artikel 4, § 1, a), van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
 3° het zelfstandig en het assisterend academisch personeel van de universiteiten;<br>
 4° het onderwijzend personeel van de hogescholen;<br>
-5° de leraars basiseducatie, de stafmedewerkers en de directeurs in een centrum voor basiseducatie en de educatieve personeelsleden tewerkgesteld in het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs.<br>
+5° de leraars basiseducatie, de stafmedewerkers en de directeurs in een centrum voor basiseducatie en de educatieve personeelsleden tewerkgesteld bij de representatieve groepering van de Centra voor Basiseducatie.<br>
 <br>
 § 2. De personeelsleden, vermeld in § 1, kunnen zich kandidaat stellen voor een ambt van de inspectie als ze ten minste acht jaar dienstanciënniteit hebben in het onderwijs, ten minste acht jaar gepresteerde diensten in de basiseducatie hebben of ten minste acht jaar dienstanciënniteit/gepresteerde diensten hebben in het onderwijs als in de basiseducatie samen.<br>
 <br>
