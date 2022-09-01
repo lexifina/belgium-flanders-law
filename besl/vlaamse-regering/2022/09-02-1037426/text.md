@@ -187,4 +187,26 @@ In artikel 22, § 2, van hetzelfde besluit, vervangen bij het besluit van de Vla
 
 ## HOOFDSTUK 2. Wijzigingen van het besluit van de Vlaamse Regering van 2 oktober 2020 over het tijdelijke project "Duaal lesgeven in het secundair onderwijs"
 
+### ART 6.
+
+In artikel 2 van het besluit van de Vlaamse Regering van 2 oktober 2020 over het tijdelijke project "Duaal lesgeven in het secundair onderwijs" wordt de zinsnede "2020-2021 en 2021-2022" vervangen door de zinsnede "2020-2021 tot en met 2022-2023".
+
+### ART 7.
+
+In artikel 12 van hetzelfde besluit wordt de zinsnede "in het schooljaar 2021-2022" vervangen door de zinsnede "in het schooljaar 2022-2023".
+
+### ART 8.
+
+In artikel 13 van hetzelfde besluit wordt de zinsnede "op 31 augustus 2022" vervangen door de zinsnede "op 31 augustus 2023".
+
 ## HOOFDSTUK 3. Slotbepalingen
+
+### ART 9.
+
+Dit besluit treedt in werking op 1 september 2022.<br>
+<br>
+Artikel 1 tot en met 5 hebben uitwerking met ingang van 1 juni 2022.
+
+### ART 10.
+
+De Vlaamse minister, bevoegd voor onderwijs en vorming, is belast met de uitvoering van dit besluit.
