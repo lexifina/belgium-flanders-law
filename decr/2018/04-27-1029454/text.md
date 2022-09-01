@@ -498,6 +498,8 @@ Een centrum dat de samenwerking met een school stopzet vanuit de intentie om min
 1° aan de gefinancierde, de gesubsidieerde officiële en de gesubsidieerde vrije permanente ondersteuningscellen worden respectievelijk 5,89 omkaderingsgewichten, 1,99 omkaderingsgewichten en 12,49 omkaderingsgewichten toegekend;<br>
 2° 1015 omkaderingsgewichten worden verdeeld over de centra volgens het aantal leerlingen met SES-kenmerken in de scholen voor gewoon onderwijs waarmee ze samenwerken.<br>
 <br>
+Van de omkaderingsgewichten aan de gesubsidieerde officiële permanente ondersteuningscellen, vermeld in het eerste lid, 1°, worden 1,44 omkaderingsgewichten toegekend aan de permanente ondersteuningscel van de Onderwijsvereniging van Steden en Gemeenten enerzijds en 0,55 omkaderingsgewichten aan de permanente ondersteuningscel van het Provinciaal Onderwijs Vlaanderen anderzijds.<br>
+<br>
 Bij de berekening wordt rekening gehouden met de leerlingenkenmerken 1 tot en met 3, vermeld in artikel 133 van het decreet basisonderwijs van 25 februari 1997, en artikel 242 van de Codex Secundair Onderwijs van 17 december 2010.<br>
 <br>
 406 van de omkaderingsgewichten worden over de centra evenredig verdeeld op basis van het aantal regelmatige leerlingen in de scholen waarmee ze samenwerken die beantwoorden aan leerlingenkenmerk 1.<br>
@@ -637,7 +639,7 @@ Deze personeelsleden vallen onder de toepassing van de wet van 3 juli 1978 betre
 <br>
 Deze personeelsleden vallen onder de toepassing van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten.<br>
 <br>
-§ 2. Het bestuur kan ten laste van het werkingsbudget, vermeld in artikel 26, van de Vlaamse ondersteuningspremie, uitgekeerd door de VDAB, of van subsidies toegekend door het beleidsdomein Welzijn, Volksgezondheid en Gezin, ook personeelsleden aanwerven op basis van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, respectievelijk het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991. In het gemeenschapsonderwijs kan een bestuur het voormelde principe aanwenden voor de personeelscategorieën die van toepassing zijn in de centra voor leerlingenbegeleiding, vermeld in artikel 2, § 1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, met uitzondering van het statutaire meesters-, vak- en dienstpersoneel. In het gesubsidieerd onderwijs kan een bestuur het voormelde principe aanwenden voor de personeelscategorieën die van toepassing zijn in de centra voor leerlingenbegeleiding vermeld in artikel 4, § 1, a), van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991.<br>
+§ 2. Het bestuur kan ten laste van het werkingsbudget, vermeld in artikel 26, van de Vlaamse ondersteuningspremie, uitgekeerd door de VDAB, ten laste van subsidies die het beleidsdomein Welzijn, Volksgezondheid en Gezin, vermeld in artikel 8 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, toekent of ten laste van subsidies die het beleidsdomein Onderwijs en Vorming, vermeld in artikel 7 van het voormelde besluit, toekent om de kwaliteit van onderwijs te versterken, ook personeelsleden aanwerven op basis van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, respectievelijk het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991. In het gemeenschapsonderwijs kan een bestuur het voormelde principe aanwenden voor de personeelscategorieën die van toepassing zijn in de centra voor leerlingenbegeleiding, vermeld in artikel 2, § 1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, met uitzondering van het statutaire meesters-, vak- en dienstpersoneel. In het gesubsidieerd onderwijs kan een bestuur het voormelde principe aanwenden voor de personeelscategorieën die van toepassing zijn in de centra voor leerlingenbegeleiding vermeld in artikel 4, § 1, a), van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991.<br>
 <br>
 De betrekking die met de middelen, vermeld in het eerste lid, wordt opgericht kan niet vacant worden verklaard en het bestuur kan in geen geval een personeelslid vastbenoemen, affecteren of muteren in die betrekking.<br>
 <br>
@@ -1199,7 +1201,9 @@ De samenwerking tussen een school en een centrum kan door de school of het centr
 
 ### ART 115.
 
-In het schooljaar 2021-2022 wordt het omkaderingssysteem zoals bepaald in artikel 29, 38, 39, 40 en 41 geëvalueerd met het oog op een mogelijke bijsturing of het implementeren van een nieuw omkaderingssysteem vanaf 1 september 2023 opdat het tegemoet komt aan de noden van de sector. De Vlaamse Regering kan verdere thema's van deze evaluatie bepalen.
+In 2023 wordt het omkaderingssysteem, vermeld in artikel 29, 38, 39, 40 en 41, geëvalueerd met het oog op een mogelijke bijsturing of op de implementatie van een nieuw omkaderingssysteem, opdat het tegemoetkomt aan de noden van de sector.<br>
+<br>
+De Vlaamse Regering kan verdere thema's van die evaluatie bepalen.
 
 ## Afdeling 2. Opheffingsbepaling
 
