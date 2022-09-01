@@ -63,6 +63,12 @@ In artikel 1 van het besluit van de Vlaamse Regering van 10 juli 2008 betreffend
 9° de opleiding Kinderbegeleider Baby's en Peuters kan voor traag lerende cursisten 1030 lestijden bedragen, waarbij de modules De kinderopvang en ik, Basis verzorging, Samenwerken in het team en interdisciplinair en Indeling tijd en ruimte baby's en peuters 40 lestijden bedragen, de modules Basisprincipes van pedagogisch handelen en Voeding baby's en peuters 60 lestijden bedragen, de modules Pedagogisch handelen baby's en peuters, Omgaan met diversiteit in de kinderopvang, Verzorging baby's en peuters, Kwaliteitsvol werken in de kinderopvang en Samenwerken met gezinnen en hun context 80 lestijden bedragen, de module Spel baby's en peuters 120 lestijden bedraagt en de module Stage Kinderbegeleider Baby's en Peuters 160 lestijden bedraagt;<br>
 10° de opleiding Kinderbegeleider Schoolgaande Kinderen kan voor traag lerende cursisten 970 lestijden bedragen, waarbij de modules De kinderopvang en ik, Basis verzorging, Samenwerken in het team en interdisciplinair, Indeling tijd en ruimte schoolgaande kinderen, Zorg schoolgaande kinderen en Voeding schoolgaande kinderen 40 lestijden bedragen, de module Basisprincipes van pedagogisch handelen 60 lestijden bedraagt, de modules Pedagogisch handelen schoolgaande kinderen, Omgaan met diversiteit in de kinderopvang, Kwaliteitsvol werken in de kinderopvang en Samenwerken met gezinnen en hun context 80 lestijden bedragen, de module Spel schoolgaande kinderen 120 lestijden bedraagt en de module Stage Kinderbegeleider Schoolgaande kinderen 160 lestijden bedraagt.".
 
+### ART 7.
+
+In hetzelfde besluit worden de volgende bijlagen opgeheven:<br>
+1° bijlage I, vervangen bij het besluit van de Vlaamse Regering van 8 september 2017;<br>
+2° bijlage II, vervangen bij het besluit van de Vlaamse Regering van 6 september 2013.
+
 ### ART 8.
 
 Aan hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 19 juli 2019, worden een bijlage XV en XVI toegevoegd, die als bijlage 6 en 7 bij dit besluit zijn gevoegd.
