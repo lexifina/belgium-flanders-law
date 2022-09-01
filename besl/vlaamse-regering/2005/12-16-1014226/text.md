@@ -490,7 +490,7 @@ ii) voor basiszaad moet, indien gebruik wordt gemaakt van mannelijke steriliteit
 <br>
 c) Zo nodig moet gecertificeerd zaad worden geproduceerd in gemengde teelt van een vrouwelijke, mannelijke steriele kruisingspartner met een mannelijke kruisingspartner die de mannelijke fertiliteit herstelt.<br>
 <br>
-5. Gewassen voor de productie van gecertificeerd zaad van hybriden van Avena nuda, Avena sativa, Avena strigosa, Oryza sativa, Triticum aestivum subsp. aestivum, Triticum turgidum subsp. durum, Triticum aestivum subsp. spelta en zelfbestuivende xTriticosecale en gewassen voor de productie van gecertificeerd zaad van hybriden van Hordeum vulgare door middel van een andere techniek dan cytoplasmatische mannelijke steriliteit (CMS) voldoen aan de volgende voorwaarden:<br>
+5. Gewassen voor de productie van gecertificeerd zaad van hybriden van Avena nuda, Avena sativa, Avena strigosa, Oryza sativa en zelfbestuivende xTriticosecale en gewassen voor de productie van gecertificeerd zaad van hybriden van Hordeum vulgare, Triticum aestivum subsp. aestivum, Triticum aestivum subsp. spelta en Triticum turgidum subsp. durum door middel van een andere techniek dan cytoplasmatische mannelijke steriliteit (CMS) voldoen aan de volgende voorwaarden:<br>
 a) het gewas voldoet aan de volgende normen over de afstand tot dicht in de buurt gelegen bestuivingsbronnen die tot ongewenste vreemdbestuiving kunnen leiden:<br>
 1) de minimumafstand tot de vrouwelijke kruisingspartner is 25 m ten opzichte van ieder ander ras van dezelfde soort, met uitzondering van een gewas van de mannelijke kruisingspartner;<br>
 2) de afstand, vermeld in punt 1), hoeft niet in acht te worden genomen als er voldoende bescherming tegen ongewenste vreemdbestuiving aanwezig is;<br>
@@ -531,6 +531,39 @@ b) Het gewas moet voldoende rasecht en raszuiver zijn wat de kenmerken van de kr
 &nbsp;&nbsp;&nbsp; ii) 99,5 % voor gewassen voor de productie van gecertificeerd zaad.<br>
 &nbsp;3) De eisen van de punten i) en ii) worden via officiële nacontroles onderzocht.<br>
 c) Gecertificeerd zaad mag in gemengde teelt worden geproduceerd van een vrouwelijke of mannelijke steriele kruisingspartner met een mannelijke kruisingspartner die de fertiliteit herstelt.<br>
+<br>
+5/2. Gewassen voor de productie van basiszaad en gecertificeerd zaad van hybriden van Triticum aestivum subsp. aestivum, Triticum aestivum subsp. spelta en Triticum turgidum subsp. durum door middel van de CMS-techniek.<br>
+a) Het gewas voldoet aan de volgende normen over de afstand tot dicht in de buurt gelegen bestuivingsbronnen die tot ongewenste vreemdbestuiving kunnen leiden:
+<table border="1">
+	<tbody>
+		<tr>
+			<td>gewassen</td>
+			<td>minimumafstand</td>
+		</tr>
+		<tr>
+			<td>voor de vrouwelijke kruisingspartner (met CMS) voor de productie van basiszaad</td>
+			<td>300 m</td>
+		</tr>
+		<tr>
+			<td>voor de productie van gecertificeerd zaad</td>
+			<td>25 m</td>
+		</tr>
+	</tbody>
+</table>
+b) Het gewas is voldoende rasecht en raszuiver wat de kenmerken van de kruisingspartners betreft. Het gewas voldoet in het bijzonder aan de volgende normen:<br>
+1) het percentage aan planten die duidelijk rasafwijkend zijn, mag niet meer bedragen dan:<br>
+i) voor de gewassen voor de productie van basiszaad: 0,1% voor de instandhouder en de hersteller en 0,3% voor de vrouwelijke kruisingspartner (met CMS);<br>
+ii) voor de gewassen voor de productie van gecertificeerd zaad: 0,3% voor de hersteller en 0,6% voor de vrouwelijke kruisingspartner (met CMS) en 1% als de vrouwelijke kruisingspartner (met CMS) een enkele hybride is;<br>
+2) de mannelijke steriliteit van de vrouwelijke kruisingspartner bedraagt ten minste:<br>
+i) 99,7% voor gewassen voor de productie van basiszaad;<br>
+ii) 99% voor gewassen voor de productie van gecertificeerd zaad;<br>
+3) de naleving van de eisen, vermeld in punt 1) en 2), wordt via officiële nacontroles onderzocht.<br>
+c) Gecertificeerd zaad mag in gemengde teelt worden geproduceerd van een vrouwelijke, mannelijke steriele kruisingspartner met een mannelijke kruisingspartner die de fertiliteit herstelt.<br>
+d) De bevoegde entiteit brengt tegen 28 februari van elk jaar bij de Europese Commissie en de andere lidstaten verslag uit van de resultaten van het voorgaande jaar over de volgende aspecten:<br>
+1) de hoeveelheid geproduceerde hybride zaden;<br>
+2) de overeenstemming van de veldkeuringen met de respectieve eisen;<br>
+3) het percentage van de partijen zaden dat is afgewezen wegens ontoereikende kwaliteitsparameters en alle verdere informatie die die afwijzing rechtvaardigt.<br>
+De voormelde rapportageverplichting is van toepassing tot en met 28 februari 2030<br>
 <br>
 6. Het gewas is nagenoeg vrij van plaagorganismen die de bruikbaarheid en de kwaliteit van het zaad verminderen. Het gewas voldoet ook aan de volgende eisen:<br>
 1° de eisen voor EU-quarantaineorganismen, plaagorganismen met quarantainestatus voor een beschermd gebied en gereguleerde niet-quarantaineorganismen die zijn opgenomen in de uitvoeringshandelingen die zijn vastgesteld krachtens verordening (EU) 2016/2031 van het Europees Parlement en de Raad van 26 oktober 2016 betreffende beschermende maatregelen tegen plaagorganismen bij planten, tot wijziging van de Verordeningen (EU) nr. 228/2013, (EU) nr. 652/2014 en (EU) nr. 1143/2014 van het Europees Parlement en de Raad en tot intrekking van de Richtlijnen 69/464/EEG, 74/647/EEG, 93/85/EEG, 98/57/EG, 2000/29/EG, 2006/91/EG en 2007/33/EG van de Raad;<br>
@@ -595,7 +628,9 @@ bb) ingeteelde stammen of hybriden : drie.<br>
 <br>
 Als het gewas volgt op in hetzelfde jaar of in het voorafgaande jaar geteelde Sorghum spp. en Zea mays, moet ten minste één bijkomende keuring worden verricht om na te gaan of aan de bepalingen van punt 1 van deze bijlage is voldaan.<br>
 <br>
-C. De grootte, het aantal en de verdeling van de perceelsgedeelten waarvoor moet worden nagegaan of aan de bepalingen van deze bijlage wordt voldaan, moeten worden vastgesteld volgens daartoe passende methoden.
+C. De grootte, het aantal en de verdeling van de perceelsgedeelten waarvoor moet worden nagegaan of aan de bepalingen van deze bijlage wordt voldaan, moeten worden vastgesteld volgens daartoe passende methoden.<br>
+<br>
+8. Als na de toepassing van punt 3 en 7 twijfel blijft bestaan over de rasechtheid van het zaad, kan de bevoegde entiteit voor het onderzoek naar die rasechtheid een internationaal erkende en reproduceerbare biochemische of moleculaire techniek gebruiken, conform de toepasselijke internationale normen.
 <p>&nbsp;</p>
 
 ## Bijlage II Voorwaarden waaraan het zaaizaad moet voldoen
@@ -680,12 +715,20 @@ B. Zelfbestuivende rassen van xTriticosecale andere dan hybriden :<br>
 
 <p>Of aan de eisen inzake minimale raszuiverheid is voldaan, wordt hoofdzakelijk nagegaan door middel van de in bijlage I omschreven veldkeuringen.<br>
 <br>
-C. Hybriden van Avena nuda, Avena sativa, Avena strigosa, Hordeum vulgare, Oryza sativa, Triticum aestivum subsp. aestivum, Triticum turgidum subsp. durum, Triticum aestivum subsp. spelta en zelfbestuivende xTriticosecale<br>
+C. Hybriden van Avena nuda, Avena sativa, Avena strigosa, Hordeum vulgare, Oryza sativa, Triticum aestivum subsp. aestivum, Triticum aestivum subsp. spelta, Triticum turgidum subsp. durum en zelfbestuivende xTriticosecale<br>
 <br>
 De minimale raszuiverheid van zaad van de categorie "gecertificeerd zaad" bedraagt 90%.<br>
-Voor Hordeum vulgare die met CMS is geproduceerd, bedraagt deze 85%.<br>
-Andere onzuiverheden dan de hersteller bedragen niet meer dan 2%.<br>
-De minimale raszuiverheid wordt gecontroleerd via officiële nacontroles op een adequaat gedeelte van de zaadmonsters..<br>
+<br>
+Voor Hordeum vulgare, Triticum aestivum subsp. aestivum, Triticum aestivum subsp. spelta en Triticum turgidum subsp. durum die met CMS is geproduceerd, bedraagt deze 85%. Andere onzuiverheden dan de hersteller mogen niet meer dan 2% bedragen.<br>
+<br>
+De minimale raszuiverheid wordt gecontroleerd via officiële nacontroles op een adequaat gedeelte van de zaadmonsters.<br>
+<br>
+De bevoegde entiteit brengt tegen 28 februari van elk jaar bij de Commissie en de andere lidstaten verslag uit van de resultaten van het voorgaande jaar over de volgende aspecten:<br>
+1) de hoeveelheid geproduceerde hybride zaden van Triticum aestivum subsp. aestivum, Triticum aestivum subsp. spelta en Triticum turgidum subsp. durum en het percentage van de partijen zaden dat is afgewezen wegens ontoereikende kwaliteitsparameters;<br>
+2) de resultaten van de voormelde nacontrole;<br>
+3) alle verdere informatie die de afwijzing, vermeld in punt 1), rechtvaardigt.<br>
+<br>
+De voormelde rapportageverplichting is van toepassing tot en met 28 februari 2030..<br>
 <br>
 D. Sorghum spp. en Zea mays :<br>
 <br>
@@ -693,7 +736,7 @@ Als voor de productie van gecertificeerd zaad van hybriderassen gebruik is gemaa
 - ofwel door partijen zaaizaad te mengen, in een verhouding die eigen is aan het ras, waarbij enerzijds gebruik wordt gemaakt van een vrouwelijke, mannelijke steriele kruisingspartner, en anderzijds van een vrouwelijke, mannelijke fertiele kruisingspartner;<br>
 - ofwel door de teelt van de vrouwelijke, mannelijke steriele kruisingspartner en de vrouwelijke, mannelijke fertiele kruisingspartner in een verhouding die eigen is aan het ras. De verhouding tussen deze twee kruisingspartners wordt nagegaan door middel van de veldkeuringen, vermeld in bijlage I.<br>
 <br>
-E. Hybriden van Secale cereale en CMS-hybriden van Hordeum vulgare<br>
+E. Hybriden van Secale cereale en CMS-hybriden van Hordeum vulgare, Triticum aestivum subsp. aestivum, Triticum aestivum subsp. spelta en Triticum turgidum subsp. durum<br>
 <br>
 Zaad mag alleen als gecertificeerd zaad worden gecertificeerd als terdege rekening is gehouden met de uitkomsten van een officiële nacontrole op officieel genomen monsters van basiszaad, uitgevoerd in de groeiperiode van het zaad dat voor de certificering als gecertificeerd zaad werd aangeboden, teneinde na te gaan of het basiszaad heeft voldaan aan de in deze richtlijn vastgestelde eisen voor basiszaad qua rasechtheid en raszuiverheid wat de eigenschappen van de kruisingspartners betreft, inclusief de mannelijke steriliteit.<br>
 <br>
