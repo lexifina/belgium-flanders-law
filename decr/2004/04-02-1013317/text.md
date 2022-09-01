@@ -133,7 +133,7 @@ Indien een schoolbestuur een overleg vraagt over een ontwerp van beslissing die 
 a) het schoolreglement;<br>
 b) het schoolwerkplan in het basisonderwijs;<br>
 c) het beleid op leerlingenbegeleiding en de afspraken over de samenwerking tussen de school en het centrum voor leerlingenbegeleiding;<br>
-8° de infrastructuurwerken die niet onder het toepassingsgebied vallen van artikel 26, § 1, 1°, a) en c), van de wet van 15 juni 2006 betreffende de overheidsopdrachten en bepaalde opdrachten voor werken, leveringen en diensten;<br>
+8° de infrastructuurwerken die niet onder het toepassingsgebied vallen van artikel 42, § 1, eerste lid, 1°, a) en b), van de wet van 17 juni 2016 inzake overheidsopdrachten;<br>
 9° de vaststelling van de criteria voor de aanwending van lestijden, uren, uren-leraar en punten;<br>
 10° het welzijns-, veiligheids- en gezondheidsbeleid van de school ten aanzien van de leerlingen, met inbegrip van het in eigen beheer of door derden verstrekken van gezonde en evenwichtige schoolmaaltijden;<br>
 11° het beleid met betrekking tot interne kwaliteitszorg, met inbegrip van de bespreking van de resultaten van een schooldoorlichting;<br>
