@@ -45,7 +45,7 @@ In dit decreet wordt verstaan onder :<br>
 28° graad : een niveautrap die een horizontale onderverdeling in een langlopende studierichting aanbrengt, bestaande uit een aantal leerjaren. De graden worden aangeduid met de nummers 1 tot en met 4;<br>
 29° individueel aangepast curriculum : een leertraject met leerdoelen op maat van een leerling in geval de leerling ondanks redelijke aanpassingen onvoldoende leerwinst kan boeken in het gemeenschappelijke curriculum;<br>
 30° inschrijvingsgeld : het geld dat een regelmatige leerling betaalt bij de inschrijving voor de deelname aan de leeractiviteiten van een leerjaar van de kortlopende of langlopende studierichtingen;<br>
-31° kortlopende studierichting : een leertraject van twee of drie leerjaren dat leidt tot een leerbewijs;<br>
+31° kortlopende studierichting : een leertraject van twee of drie leerjaren dat leidt tot een leerbewijs, een bewijs van competenties of een bewijs van beroepskwalificatie;<br>
 32° kunstacademie : een academie die minstens drie domeinen aanbiedt, waaronder beeldende en audiovisuele kunsten en muziek;<br>
 33° langlopende studierichting : een leertraject over de verschillende graden dat leidt tot een beroepskwalificatie of het specifieke gedeelte van een onderwijskwalificatie;<br>
 34° leefeenheid : één of meer meerderjarigen, ongeacht hun geslacht, met eventueel een of meer minderjarigen die hun hoofdverblijfplaats hebben op hetzelfde adres, alsook één of meer minderjarige gehuwde, zelfstandige of alleenstaande leerlingen of studenten, ongeacht hun geslacht, met eventueel één of meer minder- en meerderjarigen die hun hoofdverblijfplaats hebben op hetzelfde adres;<br>
@@ -80,7 +80,7 @@ In dit decreet wordt verstaan onder :<br>
 - de kortlopende studierichting danscultuur;<br>
 - de kortlopende studierichting specialisatie dans ingevuld met een bepaalde optie;<br>
 - de kortlopende studierichting woordkunst- en dramacultuur;<br>
-- de kortlopende studierichting schrijver;<br>
+-de kortlopende studierichting schrijver ingevuld met een bepaalde optie;<br>
 - de kortlopende studierichting specialisatie woordkunst-drama ingevuld met een bepaalde optie;<br>
 - de kortlopende studierichting muziekcultuur;<br>
 - de kortlopende studierichting muziekgeschiedenis;<br>
@@ -90,7 +90,7 @@ In dit decreet wordt verstaan onder :<br>
 51° programmatienorm : het aantal regelmatige leerlingen dat op een welbepaalde teldag in een academie, domein of structuuronderdeel in een vestigingsplaats moet ingeschreven zijn om in de financierings- of subsidiëringsregeling te worden opgenomen;<br>
 52° rationalisatienorm : het aantal regelmatige leerlingen dat op een welbepaalde teldag in een academie, domein of structuuronderdeel in een vestigingsplaats ingeschreven moet zijn om na de programmatieperiode nog gefinancierd of gesubsidieerd te blijven;<br>
 53° redelijke aanpassingen : maatregelen die genomen zijn op basis van de principes en indicatoren vermeld in artikel 2 van het protocol van 19 juli 2007 betreffende het begrip redelijke aanpassingen in België krachtens de wet van 25 februari 2003 ter bestrijding van discriminatie en tot wijziging van de wet van 15 februari 1993 tot oprichting van een Centrum voor gelijkheid van kansen en voor racismebestrijding zodat leerlingen met specifieke onderwijsbehoeften de leeractiviteiten in de academie kunnen volgen;<br>
-54° regelmatige leerling : een leerling die voldoet aan de voorwaarden vermeld in punt 63°;<br>
+54° regelmatige leerling : een leerling die voldoet aan de voorwaarden vermeld in punt 63° en die vanaf zijn inschrijving het geheel van de leeractiviteiten van het leerjaar waarvoor hij is ingeschreven, werkelijk en regelmatig volgt gedurende heel het schooljaar, behalve in geval van gewettigde afwezigheid of in geval van vrijstelling van een vak;<br>
 55° schoolbestuur : de inrichtende macht vermeld in artikel 24, § 4, van de Grondwet; dit is de rechtspersoon of de natuurlijke persoon die verantwoordelijk is voor een of meer academies;<br>
 56° schooljaar : de periode van 1 september tot en met 31 augustus van het daaropvolgende kalenderjaar;<br>
 57° specialisatie : een kortlopende studierichting van een domein die gericht is op het geïndividualiseerd kunstenaarschap;<br>
@@ -143,9 +143,9 @@ Voor elke langlopende studierichting worden voor de eerste, tweede en derde graa
 <br>
 Voor de domeinoverschrijdende initiatieopleiding worden basiscompetenties vastgelegd.<br>
 <br>
-Voor leerlingen van de vierde graad die uitstromen naar kunstbeoefening in de vrije tijd of de arbeidsmarkt gelden beroepskwalificaties. Voor leerlingen van de vierde graad die naar het hoger onderwijs willen doorstromen gelden de specifieke eindtermen van het wetenschapsdomein kunst en cultuur, vermeld in bijlage 4 van het decreet van 12 februari 2021 betreffende de onderwijsdoelen voor de tweede en derde graad van het secundair onderwijs en diverse andere verwante maatregelen.<br>
+Voor leerlingen van de vierde graad die uitstromen naar kunstbeoefening in de vrije tijd of de arbeidsmarkt gelden beroepskwalificaties. Voor leerlingen van de vierde graad die naar het hoger onderwijs willen doorstromen gelden de specifieke eindtermen van het wetenschapsdomein kunst en cultuur, vermeld in bijlage 7 van het decreet van 12 februari 2021 betreffende de onderwijsdoelen voor de tweede en derde graad van het secundair onderwijs en diverse andere verwante maatregelen.<br>
 <br>
-Voor elke kortlopende studierichting, met uitzondering van de kortlopende studierichting schrijver, selecteert het schoolbestuur een relevant en consistent geheel van specifieke eindtermen of basiscompetenties die uitsluitend uit het desbetreffende artistieke domein worden geput.<br>
+Voor elke kortlopende studierichting, met uitzondering van de kortlopende studierichting schrijver, selecteert het schoolbestuur een relevant en consistent geheel van specifieke eindtermen of basiscompetenties deeltijds kunstonderwijs die hoofdzakelijk uit het artistieke domein in kwestie worden geput.<br>
 <br>
 Voor de kortlopende studierichting schrijver geldt de beroepskwalificatie amateur literair schrijver.<br>
 &nbsp;
@@ -501,7 +501,7 @@ Om toegelaten te worden tot de tweede graad van het domein beeldende en audiovis
 1° de basiscompetenties van de eerste graad verworven hebben;<br>
 2° de leeftijd van acht jaar bereikt hebben op de dag van 31 december die volgt op de aanvang van het schooljaar.<br>
 <br>
-In afwijking van het derde lid kan een leerling die nog geen twaalf jaar is op de dag van 31 december die volgt op de aanvang van het schooljaar en ingeschreven is in het lager onderwijs toegelaten worden tot de tweede graad.
+In afwijking van het derde lid kan een leerling die twaalf jaar of ouder is op de dag van 31 december die volgt op de aanvang van het schooljaar en ingeschreven is in het lager onderwijs toegelaten worden tot de tweede graad.
 
 ### ART 32.
 
@@ -692,7 +692,11 @@ Tijdelijke en definitieve uitsluitingen kunnen alleen uitgevoerd worden na een p
 
 ### ART 52.
 
-Een leerling die beschikt over een verslag als vermeld in artikel 15 van het decreet basisonderwijs van 25 februari 1997, of een verslag als vermeld in artikel 294 van het besluit van de Vlaamse Regering van 17 december 2010 houdende de codificatie betreffende het secundair onderwijs, of erkend is als persoon met een handicap krachtens een Vlaamse, een andere Belgische of buitenlandse wetgeving, kan een individueel aangepast curriculum volgen als de directeur en de betrokken leerkrachten na overleg met de leerling en de betrokken personen motiveren dat de leerling ondanks redelijke aanpassingen onvoldoende leerwinst kan boeken in het gemeenschappelijke curriculum.<br>
+Een leerling kan een individueel aangepast curriculum volgen als de directeur en de betrokken leerkrachten na overleg met de leerling en de betrokken personen motiveren dat de leerling ondanks redelijke aanpassingen onvoldoende leerwinst kan boeken in het gemeenschappelijke curriculum, als de leerling voldoet aan een van de volgende voorwaarden:<br>
+1° beschikken over een verslag als vermeld in artikel 15 van het decreet basisonderwijs van 25 februari 1997;<br>
+2° beschikken over een verslag als vermeld in artikel 294 van de Codex Secundair Onderwijs;<br>
+3° erkend zijn als persoon met een handicap met toepassing van een Vlaamse, een andere Belgische of buitenlandse wetgeving;<br>
+4° een medisch attest kunnen voorleggen waaruit blijkt dat de leerling een aandoening heeft die de leerling verhindert om alle leeractiviteiten in het lessenrooster te volgen. Het attest is ondertekend door een arts, psycholoog of lid van een multidisciplinair team dat erkend is door het Vlaams Agentschap voor Personen met een Handicap.<br>
 <br>
 Een leerling met een individueel aangepast curriculum kan afwijken van een of meer van de volgende bepalingen :<br>
 1° de bepalingen over de studieomvang, vermeld in artikel 12 tot en met 20;<br>
@@ -704,23 +708,28 @@ De directeur en de betrokken leerkrachten ontwikkelen het individueel aangepast 
 <br>
 Een individueel aangepast curriculum duurt maximaal een leerjaar langer dan de graad waarin de leerling is ingeschreven. De leerling kan het leertraject niet verlengen. Bij het beëindigen van de graad reikt de academie aan de leerling een leerbewijs uit.<br>
 <br>
-De onderwijsinspectie en het Agentschap voor Onderwijsdiensten kunnen het individueel aangepast curriculum op elk moment inkijken in de academie.<br>
+De onderwijsinspectie en het Agentschap voor Onderwijsdiensten kunnen het individueel aangepast curriculum op elk moment inkijken in de academie. De coëfficiënten, vermeld in artikel 67, § 3, eerste en tweede lid, zijn van toepassing als de academie het individueel aangepast curriculum niet kan voorleggen en de leerling een lessenrooster volgt dat afwijkt van de bepalingen over de studieomvang, vermeld in artikel 12 tot en met 20.<br>
 &nbsp;
 
 ### ART 53.
 
-Een leerling die beschikt over een gemotiveerd verslag, vermeld in artikel 16 van het decreet basisonderwijs van 25 februari 1997, of een verslag als vermeld in artikel 352 van het besluit van de Vlaamse Regering van 17 december 2010 houdende de codificatie betreffende het secundair onderwijs, of erkend is als persoon met een handicap krachtens een Vlaamse, een andere Belgische of buitenlandse wetgeving, kan na overleg met de directeur en de betrokken leerkrachten, binnen het gemeenschappelijk curriculum afwijken van de bepalingen over de studieomvang, vermeld in artikel 12 tot en met 20, en de bepalingen over de evaluaties, vermeld in artikel 61 en 62.<br>
+Een leerling kan na overleg met de directeur en de betrokken leerkrachten, binnen het gemeenschappelijke curriculum afwijken van de bepalingen over de studieomvang, vermeld in artikel 12 tot en met 20 en de bepalingen over de evaluaties, vermeld in artikel 61 en 62, als de leerling voldoet aan een van de volgende voorwaarden:<br>
+1° beschikken over een gemotiveerd verslag als vermeld in artikel 16 van het decreet basisonderwijs van 25 februari 1997;<br>
+2° beschikken over een gemotiveerd verslag als vermeld in artikel 352 van de Codex Secundair Onderwijs;<br>
+3° erkend zijn als persoon met een handicap met toepassing van een Vlaamse, een andere Belgische of buitenlandse wetgeving;<br>
+4° een medisch attest kunnen voorleggen waaruit blijkt dat de leerling een aandoening heeft die de leerling verhindert om alle leeractiviteiten in het lessenrooster te volgen. Het attest is ondertekend door een arts, psycholoog of lid van een multidisciplinair team dat erkend is door het Vlaams Agentschap voor Personen met een Handicap.<br>
 <br>
 In het eerste lid wordt onder gemeenschappelijk curriculum verstaan de goedgekeurde leerplannen die ten minste herkenbaar de doelen bevatten die noodzakelijk zijn om de basiscompetenties, de beroepskwalificaties of de specifieke eindtermen te bereiken.<br>
 <br>
-De directeur en de leerkrachten motiveren de afwijkingen in relatie tot de leerwinst met het oog op het behalen van het bewijs van competenties of bewijs van beroepskwalificatie.<br>
-&nbsp;
+De directeur en de leerkrachten motiveren de afwijkingen in relatie tot de leerwinst met het oog op het behalen van het leerbewijs, het bewijs van competenties of bewijs van beroepskwalificatie. De onderwijsinspectie en het Agentschap voor Onderwijsdiensten kunnen het motivatiedossier op elk moment inkijken in de academie. De coëfficiënten, vermeld in artikel 67, § 3, eerste en tweede lid, zijn van toepassing als de academie het motivatiedossier niet kan voorleggen en de leerling een lessenrooster volgt dat afwijkt van de bepalingen over de studieomvang, vermeld in artikel 12 tot en met 20.
 
 ## Afdeling 4 Les volgen in het deeltijds kunstonderwijs
 
 ### ART 54.
 
 Een regelmatige leerling is verplicht deel te nemen aan alle leeractiviteiten en zich te engageren om de vooropgestelde&nbsp;onderwijsdoelen te realiseren, behalve in geval van gewettigde afwezigheid of behalve in geval van vrijstelling van een vak.<br>
+<br>
+Een leerling die gedurende drie opeenvolgende weken aan geen enkele leeractiviteit heeft deelgenomen, zonder gewettigd afwezig te zijn, is niet langer regelmatig en wordt beschouwd als uitgeschreven, tenzij hij één of meer van die afwezigheden wettigt binnen de maand na de derde week afwezigheid.<br>
 <br>
 De Vlaamse Regering bepaalt de redenen voor gewettigde afwezigheid.<br>
 <br>
@@ -855,11 +864,11 @@ Een schoolbestuur verkrijgt voor haar personeelsleden die tot de categorieën on
 <br>
 Voor de toepassing van het eerste lid wordt de domeinoverschrijdende initiatieopleiding als een opleiding in een afzonderlijk domein beschouwd.<br>
 <br>
-Een leerling die meer dan een derde van de leeractiviteiten georganiseerd tussen&nbsp;de start van het schooljaar en teldag voor de omkaderingberekening ongewettigd afwezig is, is niet financierbaar.<br>
+Een leerling die meer dan een derde van de leeractiviteiten georganiseerd tussen&nbsp;1 oktober en de teldag voor de omkaderingberekening ongewettigd afwezig is, is niet financierbaar.<br>
 <br>
 In afwijking van het eerste lid is een leerling die tegelijkertijd een opleiding volgt in de vierde graad en in een kortlopende studierichting specialisatie financierbaar voor beide opleidingen.<br>
 <br>
-Een leerling die voor 1 november van het betrokken schooljaar geen inschrijvingsgeld heeft betaald, is niet financierbaar.<br>
+Een leerling die voor 1 november van het betrokken schooljaar geen inschrijvingsgeld heeft betaald, is niet regelmatig en niet financierbaar.<br>
 <br>
 § 3. Elke financierbare leerling telt voor een teleenheid.<br>
 <br>
@@ -1160,7 +1169,7 @@ In afwijking van het eerste lid bepaalt de Vlaamse Regering de voorwaarden waaro
 <br>
 § 3. Maximaal vijf percent van de lestijden berekend volgens de bepalingen, vermeld in artikel 69 tot en met 72, kunnen aangewend worden om voordrachtgevers in te zetten. Dat percentage kan worden overschreden, mits hierover een akkoord wordt bereikt in het lokale comité.<br>
 <br>
-In het eerste lid wordt verstaan onder voordrachtgever : een persoon die geen deel uitmaakt van het schoolbestuur of van het personeel van de academie. Een voordrachtgever geeft, in eigen naam of in dienst van een organisatie of onderneming uit de publieke of private sector, voordrachten in de academie of op een andere locatie in het kader van de realisatie van de basiscompetenties, specifieke eindtermen en beroepskwalificaties vanuit zijn deskundigheid of ervaring in de amateurkunsten, de professionele kunsten, de creatieve industrie of het cultureel erfgoed.<br>
+In het eerste lid wordt verstaan onder voordrachtgever : een persoon die geen deel uitmaakt van het schoolbestuur of van het personeel van de academie. Een voordrachtgever geeft, in eigen naam of in dienst van een organisatie of onderneming uit de publieke of private sector, voordrachten in de academie of op een andere locatie in het kader van de realisatie van de basiscompetenties, specifieke eindtermen en beroepskwalificaties vanuit zijn deskundigheid of ervaring in de amateurkunsten, de professionele kunsten, de creatieve industrie of het cultureel erfgoed.&nbsp;Als de capaciteit dat toelaat, kunnen naast leerlingen van de academie ook andere geïnteresseerden de voordrachten bijwonen.<br>
 <br>
 Bij de aanwending van lestijden voor voordrachtgevers worden lestijden omgezet in een krediet. De Vlaamse Regering bepaalt de wijze van melding ervan aan het Agentschap voor Onderwijsdiensten, de grootte van het krediet per lestijd dat wordt omgezet en de wijze van toekenning van het krediet.<br>
 <br>
@@ -1169,6 +1178,12 @@ De aanwending van lestijden voor voordrachtgevers maakt voorwerp uit van onderha
 § 4. Maximaal vijf percent van de lestijden, berekend volgens de bepalingen, vermeld in artikel 69 tot en met 72, kunnen aangewend worden om leeractiviteiten op maat, vermeld in artikel 4, derde lid, te organiseren. Leeractiviteiten op maat kunnen alleen ingezet worden voor de doelstellingen, vermeld in artikel 4, derde lid.<br>
 <br>
 Het schoolbestuur kan de leeractiviteiten op maat vrij inplannen in de loop van het schooljaar.<br>
+<br>
+Een schoolbestuur kan lestijden voor leeractiviteiten op maat omzetten in een krediet om experten te vergoeden die deskundig zijn in een of meer van de doelstellingen, vermeld in artikel 4, derde lid. De rechtspositieregeling in het onderwijs is niet van toepassing.<br>
+<br>
+In het derde lid wordt verstaan onder rechtspositieregeling in het onderwijs: het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991 en het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze waarop een academie aan het Agentschap voor Onderwijsdiensten de omzetting meldt, de grootte van het krediet per lestijd dat wordt omgezet en de wijze van toekenning van het krediet<br>
 &nbsp;
 
 ### ART 74.
@@ -1367,7 +1382,7 @@ De uitkomst van de berekening, vermeld in het eerste lid, wordt afgerond naar de
 
 ### ART 82.
 
-Het schoolbestuur kan ten laste van de werkingsmiddelen, vermeld in artikel 83 en 84, of van de Vlaamse ondersteuningspremie, uitgekeerd door de VDAB of van de eigen middelen personeel aanwerven.<br>
+Het schoolbestuur kan ten laste van de werkingsmiddelen, vermeld in artikel 83 en 84, ten laste van subsidies die het beleidsdomein Onderwijs en Vorming, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, toekent om de kwaliteit van onderwijs te versterken, ten laste van de Vlaamse ondersteuningspremie uitgekeerd door de VDAB, of ten laste van de eigen middelen, personeel aanwerven.<br>
 <br>
 In het gemeenschapsonderwijs kan een schoolbestuur de mogelijkheid, vermeld in het eerste lid, aanwenden voor de personeelscategorieën, vermeld in artikel 2, § 1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, van toepassing in het deeltijds kunstonderwijs, met uitzondering van het statutaire meesters-, vak- en dienstpersoneel.<br>
 <br>
@@ -1516,7 +1531,7 @@ Het bedrag wordt afgerond naar de hogere eenheid.<br>
 § 2. Een leerling die ten laste is van een persoon die aan minstens een van de voorwaarden voldoet, vermeld in paragraaf 1, komt eveneens in aanmerking voor het verminderde inschrijvingsgeld, vermeld in artikel 91, eerste lid, 2° of 4°.<br>
 <br>
 § 3. Een leerling die de leeftijd van 18 jaar niet bereikt heeft op 31 december van het schooljaar in kwestie, betaalt het verminderde inschrijvingsgeld, vermeld in artikel 91, eerste lid, 4° :<br>
-1° als op de dag van de inschrijving een ander lid van de leefeenheid waartoe hij behoort het inschrijvingsgeld al heeft betaald in dezelfde of een andere academie;<br>
+1° als op de dag van de inschrijving een ander lid van de leefeenheid waartoe hij behoort of een broer, zus of ouder met een andere hoofdverblijfplaats het inschrijvingsgeld al heeft betaald in dezelfde of een andere academie;<br>
 2° voor iedere extra inschrijving in een ander domein aan dezelfde of een andere academie.<br>
 <br>
 § 4. In afwijking van paragraaf 1 en 2 komt een leerling die op de dag van inschrijving niet aan minstens een van de voorwaarden, vermeld in paragraaf 1 en 2, voldoet, in aanmerking voor vermindering onder de voorwaarde dat de leerling in de maand september eraan voldoet.<br>
@@ -1751,7 +1766,7 @@ Een academie moet dit domein uiterlijk in het achtste schooljaar na de oprichtin
 <br>
 Een nieuw domein in een academie kan vanaf 1 september in de financierings- of subsidiëringsregeling opgenomen worden, als het op de teldag van het oprichtingsjaar een achtste van de programmatienormen, vermeld in artikel 119 en 120, bereikt..<br>
 <br>
-§ 2. Voor een verdere financiering of subsidiëring moet het nieuwe domein gedurende zeven schooljaren na het oprichtingsjaar telkens op de teldag van het lopende schooljaar de programmatienormen bereiken, vermeld in artikel 119 en 120, naar rato van het aantal schooljaren dat het nieuwe domein al in oprichting is. Het quotiënt van de deling wordt als volgt afgerond: als het eerste cijfer na de komma groter is dan vier, wordt er afgerond naar het hogere geheel getal. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier wordt er afgerond naar het lagere geheel getal.<br>
+§ 2. Voor een verdere financiering of subsidiëring moet het nieuwe domein gedurende de schooljaren na het oprichtingsjaar waarin het minimale aanbod van dat domein wordt uitgebouwd, telkens op de teldag van het lopende schooljaar een achtste van de programmatienormen bereiken, vermeld in artikel 119 en 120, vermenigvuldigd met het aantal schooljaren dat het nieuwe domein al in oprichting is. Het resultaat van de berekening wordt als volgt afgerond: als het eerste cijfer na de komma groter is dan vier, wordt er afgerond naar het hogere geheel getal. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier wordt er afgerond naar het lagere geheel getal.<br>
 <br>
 Als de programmatienorm twee opeenvolgende teldagen niet gehaald wordt, worden de leerlingen van het domein vanaf dat schooljaar niet meegeteld in de omkaderingsberekening, vermeld in artikel 69 en 70.<br>
 <br>
