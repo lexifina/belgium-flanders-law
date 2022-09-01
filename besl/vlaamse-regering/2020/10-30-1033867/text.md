@@ -59,9 +59,9 @@ De lestijden van de geplande lessen op de extra vakantiedagen worden niet meeget
 
 ### ART 5.
 
-In afwijking van artikel 3, 5°, c), van het besluit van de Vlaamse Regering van 13 februari 2015 tot bepaling van de inhoud van het gemotiveerd verslag en van het attest bij het verslag voor toegang tot een individueel aangepast curriculum in een school voor gewoon onderwijs of tot het buitengewoon onderwijs, kan in het schooljaar 2021-2022 de ingangsdatum van een attestwijziging ook in de loop van dat schooljaar.<br>
+In afwijking van artikel 3, 5°, c), van het besluit van de Vlaamse Regering van 13 februari 2015 tot bepaling van de inhoud van het gemotiveerd verslag en van het attest bij het verslag voor toegang tot een individueel aangepast curriculum in een school voor gewoon onderwijs of tot het buitengewoon onderwijs, kan in het schooljaar 2021-2022&nbsp;en schooljaar 2022-2023 de ingangsdatum van een attestwijziging ook in de loop van dat schooljaar.<br>
 <br>
-Deze afwijking is op voorwaarde van een algemene lockdown of de veiligheidsmaatregelen die ervoor zorgen dat externe diagnostische centra in de loop van het schooljaar 2020-2021 niet in de mogelijkheid zijn om tijdig classificerende diagnoses af te leveren.
+Deze afwijking is op voorwaarde van een algemene lockdown of de veiligheidsmaatregelen die ervoor zorgen dat externe diagnostische centra in de loop van het schooljaar 2020-2021 en schooljaar 2021-2022 niet in de mogelijkheid zijn om tijdig classificerende diagnoses af te leveren.
 
 ### ART 6.
 
