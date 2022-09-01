@@ -306,65 +306,65 @@ b) de studiebewijzen die hierboven vermeld zijn als ASBO, HSBO, HSTO en HSKO;<br
 <br>
 § 5. De diploma's, uitgereikt in het academiejaar 1994-1995 door instellingen voor hoger onderwijs in het studiegebied muziek en dramatische kunst, met toepassing van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap, met een optiebenaming uit de linkerkolom, worden voor de toepassing van dit besluit beschouwd als diploma's met de overeenstemmende optiebenaming uit de rechterkolom:<br>
 <!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Martine</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>deschrmb</o:LastAuthor><br>  <o:Revision>2</o:Revision><br>  <o:TotalTime>4</o:TotalTime><br>  <o:Created>2007-12-13T08:44:00Z</o:Created><br>  <o:LastSaved>2007-12-13T08:44:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>62</o:Words><br>  <o:Characters>347</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>2</o:Lines><br>  <o:Paragraphs>1</o:Paragraphs><br>  <o:CharactersWithSpaces>408</o:CharactersWithSpaces><br>  <o:Version>11.8107</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br>table.MsoTableGrid<br>	&lftaco;mso-style-name:Tabelraster;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	border:solid windowtext 1.0pt;<br>	mso-border-alt:solid windowtext .5pt;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-border-insideh:.5pt solid windowtext;<br>	mso-border-insidev:.5pt solid windowtext;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;2050"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]-->
-<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Instrument (+ melding)<!--?xml:namespace prefix = o         ns = "urn:schemas-microsoft-com:office:office" /--></p>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
+			<p>Instrument (+ melding)<!--?xml:namespace prefix = o         ns = "urn:schemas-microsoft-com:office:office" /--></p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Instrument-zang (+ melding instrument)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Jazz en lichte muziek</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Jazz en lichte muziek</p>
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Instrument-zang (+ melding instrument)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Kamermuziek</p>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
+			<p>Jazz en lichte muziek</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Instrument – zang (+ melding kamermuziek)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Muziekagogiek</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Muziektheorie en schriftuur, muziekpedagogie of –therapie</p>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Jazz en lichte muziek</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Muziekschriftuur en directie</p>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
+			<p>Kamermuziek</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Muziektheorie en schriftuur, directie</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Zang</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 230.3pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Instrument – zang (+ melding zang)</p>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Instrument – zang (+ melding kamermuziek)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 460.6pt; vertical-align: top; background-color: transparent;" colspan="2">
-			<p style="margin-right: 0cm; margin-left: 0cm;"><em>(ing. B.V.R. 14 februari 2003, art. 20, I: 1 september 1995)</em><strong>]</strong></p>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
+			<p>Muziekagogiek</p>
+			</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Muziektheorie en schriftuur, muziekpedagogie of –therapie</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
+			<p>Muziekschriftuur en directie</p>
+			</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Muziektheorie en schriftuur, directie</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
+			<p>Zang</p>
+			</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Instrument – zang (+ melding zang)</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:460.6pt">
+			<p><em>(ing. B.V.R. 14 februari 2003, art. 20, I: 1 september 1995)</em><strong>]</strong></p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p>&nbsp;</p>
 <br>
 § 6. Het diploma van het hoger kunstonderwijs van de eerste graad toneelspeelkunst, uitgereikt door het Hoger Instituut voor Dramatische Kunst, wordt voor de toepassing van dit besluit gelijkgesteld met het diploma van eerste prijs toneel.<br>
 <br>
@@ -380,7 +380,7 @@ b) de studiebewijzen die hierboven vermeld zijn als ASBO, HSBO, HSTO en HSKO;<br
 4° het pedagogisch getuigschrift van hedendaagse dans of klassiek ballet, uitgereikt door de Hogere Rijksleergangen voor Dans en Danspedagogiek of het Hoger Instituut voor Dans en Danspedagogie;<br>
 5° het specialisatiegetuigschrift klassieke dans, uitgereikt door de Hogere Rijksleergangen voor Dans en Danspedagogiek of het Hoger Instituut voor Dans en Danspedagogie.<br>
 <br>
-§ 9. Voor de toepassing van dit besluit worden gelijkgesteld met een bekwaamheidsbewijs van het hoger kunstonderwijs van de eerste graad : de diploma's, vermeld in artikel 6, 14°, h), i) en l), voor zover ze behaald zijn in een van de volgende studiegebieden :<br>
+§ 9. Voor de toepassing van dit besluit worden de volgende diploma’s gelijkgesteld met een bekwaamheidsbewijs van het hoger kunstonderwijs van de eerste graad: de diploma's, vermeld in artikel 6, §1, 14°, h), i) en l), en vanaf 1 september 2013, met de beperking dat daaruit voor de periode van 1 september 2013 tot en met 31 augustus 2022 geen gevolgen kunnen voortvloeien voor de personeelsleden en de schoolbesturen voor de bezoldiging en terbeschikkingstelling wegens ontstentenis van betrekking, reaffectatie en wedertewerkstelling q), als ze behaald zijn in een van de volgende studiegebieden:<br>
 1° architectuur;<br>
 2° audiovisuele en beeldende kunst;<br>
 3° muziek en dramatische kunst;<br>
@@ -969,7 +969,7 @@ De Vlaamse minister van Onderwijs is belast met de uitvoering van dit besluit.<b
 
 ### BIJLAGE I.
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/14_2.pdf#page=2166">Bekwaamheidsbewijzen en salarisschalen deeltijds kunstonderwijs, domeinen Muziek, Woordkunst-drama en Dans vanaf 1 januari 2022</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2023/04/27_1.pdf#page=109">Bekwaamheidsbewijzen en salarisschalen deeltijds kunstonderwijs, domeinen Muziek, Woordkunst-drama en Dans</a>
 
 ### BIJLAGE II.
 
