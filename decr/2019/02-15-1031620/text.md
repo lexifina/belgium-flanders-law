@@ -518,7 +518,13 @@ De Vlaamse Regering bepaalt de wijze van erkenning van de diensten die instaan v
 <br>
 § 8. De maatregel om voorwaarden op te leggen, kan worden herroepen wanneer er tijdens de looptijd van de voorwaarden voldoende ernstige aanwijzingen zijn dat verder onderzoek noodzakelijk is naar de betrokkenheid van de minderjarige, vermeld in paragraaf 1, eerste lid, bij het plegen van een nieuw jeugddelict. De voormelde maatregel kan worden herroepen als de minderjarige verdachte de opgelegde voorwaarden niet naleeft en de jeugdrechter de niet-naleving voldoende ernstig acht.<br>
 <br>
-Als de jeugdrechter van oordeel is dat herroeping aan de orde is, kan dat pas als de minderjarige en zijn advocaat gehoord zijn, alsook, wanneer het dit wenst, het openbaar ministerie. De jeugdrechter kan ook de ouders, of de opvoedingsverantwoordelijken van de minderjarige verdachte horen.
+Als de jeugdrechter van oordeel is dat herroeping aan de orde is, kan dat pas als de minderjarige en zijn advocaat gehoord zijn, alsook, wanneer het dit wenst, het openbaar ministerie. De jeugdrechter kan ook de ouders, of de opvoedingsverantwoordelijken van de minderjarige verdachte horen.<br>
+<br>
+Als de jeugdrechter de opgelegde voorwaarden herroept omdat ze niet nageleefd worden, legt hij de vastgestelde vervangende maatregel, vermeld in paragraaf 1, derde lid, op. Als de vervangende maatregel de in artikel 26 voorziene maatregel betreft, kan deze, in voorkomend geval, gevolgd worden door de maatregel, vermeld in artikel 27. De jeugdrechter neemt deze beslissing met toepassing van artikel 27, § 2.<br>
+<br>
+Indien de omstandigheden op het moment dat de vervangende maatregel effectief wordt opgelegd wegens het niet naleven van de opgelegde voorwaarden, grondig zijn gewijzigd ten opzichte van het moment waarop de vervangende maatregel werd voorzien, kan de jeugdrechter uitzonderlijk, en mits bijzondere motivering, een meer gepaste vervangende maatregel opleggen.<br>
+<br>
+Als de jeugdrechter de opgelegde voorwaarden herroept omdat de minderjarige verdacht wordt van het plegen van een nieuw jeugddelict, kan hij een maatregel opleggen als vermeld in artikel 20, § 2, eerste lid.
 
 ## [Onderafdeling 5/1. De forensische kinder- en jeugdpsychiatrische afdeling van een psychiatrisch ziekenhuis (ing. decr. 19 juni 2020, art. 12, I: 6 juli 2020)]
 
