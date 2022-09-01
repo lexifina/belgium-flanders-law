@@ -2,16 +2,16 @@
   "codex_id": 1036656,
   "title": "Decreet van 2022-02-04 tot wijziging van het decreet basisonderwijs van 25 februari 1997, de Codex Secundair Onderwijs van 17 december 2010 en de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, wat betreft het inschrijvingsrecht in het gewoon onderwijs buiten het tweetalige gebied Brussel-Hoofdstad en de regelgeving over het LOP en de CLR",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036656/VolledigDocument?datum=2022-08-31",
-  "source_sha256": "e003e99b6907e442184e51a4a3047c3cbe960cadcabfeb5a977d5f56357b2b87",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036656/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "002081d029f295cbdb6260b366843c91a4ce34c1f7d3f6dc7b4a6f39a088aa7b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036656&param=informatie",
-  "as_of": "2022-08-31",
+  "as_of": "2022-09-01",
   "made": "2022-02-04",
   "gazette": "2022-03-16",
   "numac": 2022040496,
   "document_start": "2022-09-01",
   "document_end": null,
-  "in_force": "2022-08-31",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2022-08-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-09-01",
+  "article_versions": 60,
+  "record_form": "consolidated version as in force on 2022-09-01; future article versions excluded; article text as the API gives it"
 }
