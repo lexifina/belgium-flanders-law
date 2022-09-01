@@ -275,7 +275,9 @@ Een vrij programmeerbare opleiding wordt door het centrumbestuur schriftelijk ge
 <br>
 Uitsluitend wat het deeltijds beroepssecundair onderwijs betreft gaan bij de melding of aanvraag van een programmatie het protocol van de onderhandeling daarover in het bevoegde lokaal comité en, als het centrum tot een scholengemeenschap behoort, een uittreksel van het proces-verbaal waaruit blijkt dat de programmatie in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt.<br>
 <br>
-Uitsluitend wat de leertijd betreft komt de voorwaarde met betrekking tot programmatie, vermeld in het tweede lid, als subsidievoorwaarde bovenop de subsidievoorwaarden, bepaald in het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding".
+Uitsluitend wat de leertijd betreft komt de voorwaarde met betrekking tot programmatie, vermeld in het tweede lid, als subsidievoorwaarde bovenop de subsidievoorwaarden, bepaald in het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding".<br>
+<br>
+Als een programmatie van een opleiding een goedkeuring door de Vlaamse Regering vereist, kan het centrumbestuur dat de goedgekeurde programmatie voor een bepaalde opleiding het eerste schooljaar na de aanvraag niet organiseert, zonder bijkomende aanvraag of goedkeuring het bijkomende aanbod van die bepaalde opleiding pas organiseren vanaf 1 september van het daaropvolgende schooljaar.
 
 ### ART. 21.
 
@@ -709,7 +711,9 @@ Aan een jongere die voldaan heeft aan al de onderstaande voorwaarden wordt een g
 
 ### ART 73bis.
 
-Indien aan de jongeren in het deeltijds beroepssecundair onderwijs met een verslag, vermeld in het eerste lid van artikel 58, in afwijking van artikel 70 en 71, een regulier studiebewijs van het deeltijds beroepssecundair onderwijs wordt uitgereikt, zal voorafgaand aan de uitreiking van deze studiebewijzen de overeenkomst van de doelen opgenomen in het individuele curriculum met de doelen, in voorkomend geval de eindtermen, van de algemene vorming en de doelen van de beroepsgerichte vorming zoals reglementair vastgelegd van het overeenkomstige structuuronderdeel, voorgelegd worden aan de onderwijsinspectie.
+In uitzonderlijke gevallen kan de klassenraad aan een jongere die een individueel aangepast curriculum volgt, de gewone studiebekrachtiging, in plaats van een attest van verworven competenties, toekennen, op voorwaarde dat er gelijkwaardigheid is van de doelen van het individueel aangepast curriculum met de doelen, vastgelegd door of krachtens decreetof regelgeving, die toepasbaar zijn in het structuuronderdeel dat de leerling volgt.<br>
+<br>
+De onderwijsinspectie houdt kwaliteitstoezicht op deze bevoegdheid van de klassenraad tijdens de schooldoorlichting.
 
 ### ART. 74.
 
@@ -838,7 +842,7 @@ De financiële bijdrage die de houder van een buitenlands studiebewijs moet beta
 § 1. De financiering of subsidiëring door de Vlaamse Gemeenschap van een centrum voor deeltijds beroepssecundair onderwijs vindt plaats in de vorm van :<br>
 1° personeelsomkadering, zoals hierna bepaald;<br>
 2° het werkingsbudget als vermeld in de codificatie betreffende het secundair onderwijs;<br>
-3° aanvullende werkingsmiddelen die worden toegekend op basis van het aantal dagen dat de jongeren effectief gepresteerd hebben binnen de fase arbeidsdeelname of de aanloopcomponent tijdens het voorafgaande schooljaar. De Vlaamse Regering legt de overeenkomstige financieringsof subsidiebedragen vast en kan bijkomende voorwaarden bepalen.<br>
+3° aanvullend werkingsbudget dat wordt berekend op basis van het aantal regelmatig ingeschreven leerlingen in het deeltijds beroepssecundair onderwijs in het centrum op de teldatum van 1 februari van het voorafgaande schooljaar. Het bedrag dat toegekend wordt per leerling wordt bekomen door het beschikbare krediet te verdelen door het totaal aantal regelmatig ingeschreven leerlingen in de centra voor deeltijds onderwijs op dezelfde teldatum van 1 februari van het voorafgaande schooljaar. De Vlaamse Regering bepaalt het beschikbare krediet.<br>
 <br>
 § 2. Voor de toepassing van de financierings- en subsidiëringsnormen geldt als datum voor de telling van het aantal jongeren dat in het centrum voor deeltijds beroepssecundair onderwijs is ingeschreven, 1 februari van het voorafgaande schooljaar of de eerstvolgende lesdag erna als de voormelde datum op een vrije dag valt, met uitzondering van het in artikel 89, § 1, tweede lid, gestelde.<br>
 <br>
@@ -881,7 +885,17 @@ c) de overgedragen uren-leraar van een bepaald schooljaar kunnen enkel in het da
 d) overdracht is alleen mogelijk als het centrumbestuur in kwestie op erewoord verklaart dat het tijdens dat schooljaar in de onderwijsinstelling waarvan het centrum in kwestie deel uitmaakt, of in het autonome centrum zelf, overeenkomstig de geldende reglementering, geen nieuwe of aanvullende terbeschikkingstellingen wegens ontstentenis van betrekking in de categorie van het onderwijzend personeel moet uitspreken. De niet-naleving van die bepaling heeft tot gevolg dat een terbeschikkingstelling wegens ontstentenis van betrekking geen uitwerking heeft ten aanzien van de overheid;<br>
 e) in de overgedragen uren-leraar kunnen geen personeelsleden vastbenoemd worden. Het centrumbestuur moet een verklaring op erewoord afleggen dat in de vermelde uren-leraar geen personeelsleden vastbenoemd worden. De niet-naleving van die bepaling heeft tot gevolg dat de vaste benoeming geen uitwerking heeft ten aanzien van de overheid. In afwijking van deze bepalingen is vaste benoeming mogelijk op 1 januari 2021.<br>
 <br>
-§ 2. ...
+§ 2. Bij een tekort aan onderwijzend personeel kan het centrumbestuur tijdens de schooljaren 2022-2023, 2023-2024 en 2024-2025 maximaal 20% van de aan het centrum toegekende uren-leraar, vermeld in artikel 89, § 1, omzetten in punten voor de aanwending in ambten van het ondersteunend personeel.<br>
+<br>
+De omzettingen, vermeld in het eerste lid, kunnen telkens gebeuren vanaf 1 oktober van het lopende schooljaar in kwestie en gelden voor de duur van het lopende schooljaar. In afwijking hiervan eindigt een omzetting van uren-leraar als het personeelslid dat aangesteld is in een betrekking die via voormelde omzetting werd opgericht in een ambt van het ondersteunend personeel, tijdens het schooljaar vrijwillig ontslag neemt volgens artikel 25 van het decreet rechtspositie personeelsleden gemeenschapsonderwijs of volgens artikel 26 van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs. In dit geval eindigt de omzetting voor het overeenkomend deel van de uren-leraar vanaf het ogenblik dat het ontslag ingaat.<br>
+<br>
+De punten die verkregen worden door de omzetting, vermeld in het eerste lid, worden maximaal ter ondersteuning van de leraar in de centra aangewend zodat die zich kan focussen op zijn kerntaak: lesgeven.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze waarop de uren-leraar kunnen worden omgezet in punten voor het ondersteunend personeel.<br>
+<br>
+De criteria om het tekort aan onderwijzend personeel te bepalen en de aanwending in ambten van het ondersteunend personeel als vermeld in het eerste lid, worden vastgelegd na onderhandeling in het bevoegde lokale comité.<br>
+<br>
+De betrekkingen die opgericht worden in ambten van het ondersteunend personeel als vermeld in het eerste lid, komen niet in aanmerking voor vacantverklaring en het centrumbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in die betrekkingen.
 
 ### ART. 91.
 
