@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037537,
+  "title": "Besluit van de Vlaamse Regering van 2022-10-07 over de toestemming tot toekenning van een subsidie aan organisatoren van kinderopvang voor de organisatie van tijdelijke vervangcapaciteit voor baby’s en peuters",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037537/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "ff56bc5b5a7e72cc6d14c51e8ccbed45b6864d090658ecb8962ad5469d484f55",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037537&param=informatie",
+  "as_of": "2022-09-01",
+  "made": "2022-10-07",
+  "gazette": "2022-12-16",
+  "numac": 2022033997,
+  "document_start": "2022-09-01",
+  "document_end": "2026-12-31",
+  "in_force": "2022-09-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2022-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
