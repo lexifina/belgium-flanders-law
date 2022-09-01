@@ -479,16 +479,13 @@ Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisc
 
 ### BIJLAGE I
 
-<p>Bijlage I bij het besluit van de Vlaamse Regering van 3 oktober 2003 houdende reglementering van de handel in en de keuring van zaaizaad van oliehoudende planten en vezelgewassen<br>
-<br>
-Bijlage I. Voorwaarden waaraan het zaad moet voldoen<br>
+<p>Bijlage I. Voorwaarden waaraan het zaad moet voldoen<br>
 <br>
 1. Op het perceel mag geen voorvrucht zijn verbouwd die zich niet verdraagt met de productie van zaaizaad van de soort en het ras van het betrokken gewas. Het perceel moet ook voldoende vrij zijn van opslag van de voorvrucht.<br>
 <br>
 In het geval van hybriden van Brassica napus moet het gewas geteeld worden op percelen waar sedert vijf jaar geen planten van Brassicaceae (Cruciferae) meer zijn geteeld.<br>
 <br>
-2. Het gewas moet voldoen aan de onderstaande normen betreffende de afstand tot dicht in de buurt gelegen bestuivingsbronnen die tot ongewenste vreemdbestuiving kunnen leiden :<br>
-</p>
+2. Het gewas moet voldoen aan de onderstaande normen betreffende de afstand tot dicht in de buurt gelegen bestuivingsbronnen die tot ongewenste vreemdbestuiving kunnen leiden :</p>
 
 <table border="1" cellpadding="0">
 	<tbody>
@@ -722,8 +719,7 @@ het aantal planten van deze soorten dat duidelijk niet tot het betrokken ras beh
 <br>
 B. Hybriden van Helianthus annuus :<br>
 a) het percentage aan planten die duidelijk niet tot de ingeteelde stam of de kruisingspartner behoren, mag niet meer bedragen dan :<br>
-<br>
-</p>
+&nbsp;</p>
 
 <table border="1" cellpadding="0">
 	<tbody>
@@ -805,8 +801,7 @@ cc) voor de productie van basiszaad mag het totale percentage aan planten van de
 dd) wanneer niet aan de voorwaarden vermeld in bijlage II, deel I, punt 2, kan worden voldaan, moet aan de volgende voorwaarde worden voldaan : voor de productie van gecertificeerd zaad moet een mannelijke steriele kruisingspartner worden gebruikt in combinatie met een mannelijke kruisingspartner die een of meer specifieke lijnen voor herstel van de fertiliteit bevat, zodat niet minder dan een derde van de planten die worden gekweekt uit de verkregen hybride, stuifmeel produceert dat in alle opzichten normaal lijkt.<br>
 <br>
 C. Hybriden van Brassica napus, geproduceerd door gebruik te maken van mannelijke steriliteit :<br>
-a) het percentage aan planten die duidelijk niet tot de ingeteelde stam of de kruisingspartner behoren, mag niet meer bedragen dan :<br>
-</p>
+a) het percentage aan planten die duidelijk niet tot de ingeteelde stam of de kruisingspartner behoren, mag niet meer bedragen dan :</p>
 
 <table border="1" cellpadding="0">
 	<tbody>
@@ -886,6 +881,8 @@ a) het percentage aan planten die duidelijk niet tot de ingeteelde stam of de kr
 D. Hybriden van Gossypium hirsutum en Gossypium barbadense :<br>
 a) in gewassen voor de productie van basiszaad van ouderlijnen van Gossypium hirsutum en Gossypium barbadense moet de minimale raszuiverheid van zowel de vrouwelijke als de mannelijke ouderlijn 99,8 % bedragen wanneer 5 % of meer van de zaaddragende planten kan worden bevrucht. De mate van mannelijke steriliteit van de zaaddragende ouderlijn moet worden bepaald door de bloemen te onderzoeken op de aanwezigheid van steriele helmknoppen, en mag niet minder bedragen dan 99,9 %.<br>
 b) in gewassen voor de productie van gecertificeerd zaad van hybriderassen van Gossypium hirsutum en/of Gossypium barbadense moet de minimale raszuiverheid van zowel de zaaddragende ouderlijn als de stuifmeelouderlijn 99,5 % bedragen wanneer 5 % of meer van de zaaddragende planten kan worden bevrucht. De mate van mannelijke steriliteit van de zaaddragende ouderlijn moet worden bepaald door de bloemen te onderzoeken op de aanwezigheid van steriele helmknoppen, en mag niet minder bedragen dan 99,7 %.<br>
+<br>
+3/1. Als na de toepassing van punt 1 en 3 twijfel blijft bestaan over de rasechtheid van het zaad, kan de bevoegde entiteit voor het onderzoek naar die rasechtheid een internationaal erkende en reproduceerbare biochemische of moleculaire techniek gebruiken, conform de toepasselijke internationale normen.<br>
 <br>
 4. Het gewas is nagenoeg vrij van plaagorganismen die de bruikbaarheid en de kwaliteit van het teeltmateriaal verminderen. Het gewas voldoet ook aan de volgende eisen:<br>
 1° de eisen voor EU-quarantaineorganismen, plaagorganismen met quarantainestatus voor een beschermd gebied en gereguleerde niet-quarantaineorganismen die zijn opgenomen in de uitvoeringshandelingen die zijn vastgesteld krachtens verordening (EU) 2016/2031 van het Europees Parlement en de Raad van 26 oktober 2016 betreffende beschermende maatregelen tegen plaagorganismen bij planten, tot wijziging van de Verordeningen (EU) nr. 228/2013, (EU) nr. 652/2014 en (EU) nr. 1143/2014 van het Europees Parlement en de Raad en tot intrekking van de Richtlijnen 69/464/EEG, 74/647/EEG, 93/85/EEG, 98/57/EG, 2000/29/EG, 2006/91/EG en 2007/33/EG van de Raad;<br>
