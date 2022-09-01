@@ -16,6 +16,23 @@ In artikel 3, 28°/1, van het decreet basisonderwijs van 25 februari 1997, ingev
 1° in punt a) wordt het woord “schoolinternaten” vervangen door het woord “onderwijsinternaten”;<br>
 2° in punt c) wordt de zinsnede “artikel 5” vervangen door de zinsnede “artikel 5 en 5/1”.
 
+### ART 19.
+
+In artikel 37/16, §3, van hetzelfde decreet, ingevoegd bij het decreet van 4 februari 2022, worden de volgende wijzigingen aangebracht:<br>
+1° in het tweede lid worden de woorden “correctie van de fout” vervangen door de woorden “correctie van de technische fout of de zuiver materiële vergissing”;<br>
+2° in het derde lid worden de woorden “correctie van de fout” vervangen door de woorden “correctie van de technische fout of de zuiver materiële vergissing”.
+
+### ART 20.
+
+In artikel 37/19, §2, derde lid, van hetzelfde decreet, ingevoegd bij het decreet van 4 februari 2022, worden de woorden “na het negatieve besluit” vervangen door de woorden “na ontvangst van het negatieve besluit”.<br>
+&nbsp;
+
+### ART 27.
+
+In artikel 37/51, §4, van hetzelfde decreet, ingevoegd bij het decreet van 18 februari 2022, worden de volgende wijzigingen aangebracht:<br>
+1° in het tweede lid worden de woorden “correctie van de fout” vervangen door de woorden “correctie van de technische fout of de zuiver materiële vergissing”;<br>
+2° in het derde lid worden de woorden “correctie van de fout” vervangen door de woorden “correctie van de technische fout of de zuiver materiële vergissing”.
+
 ### ART 34.
 
 In artikel 78 van hetzelfde decreet, vervangen bij het decreet van 4 juli 2008 en gewijzigd bij de decreten van 22 maart 2019, 5 april 2019 en 8 juli 2022, worden de volgende wijzigingen aangebracht:<br>
@@ -42,7 +59,32 @@ b) hetzij de oprichting van een op 1 oktober van de twee voorafgaande schooljare
 c) hetzij de heroprichting op 1 oktober van een structuuronderdeel dat minstens drie schooljaren terug is opgeheven doordat de toepasbare leerlingennorm niet werd bereikt, met de bedoeling dat structuuronderdeel in aanmerking te laten komen voor financiering of subsidiëring. Als het een structuuronderdeel betreft van het derde leerjaar van de derde graad dat op semesterbasis wordt georganiseerd, is de desbetreffende datum 1 oktober of 1 maart, naargelang het geval;<br>
 &nbsp;d) hetzij de oprichting van een op 1 oktober van de zes voorafgaande schooljaren niet georganiseerd structuuronderdeel met in de benaming de component ‘topsport’, met de bedoeling dat structuuronderdeel in aanmerking te laten komen voor financiering of subsidiëring. Opdat de heroprichting van een structuuronderdeel, conform deze definitie, niet als een programmatie wordt beschouwd, organiseert de betrokken school ten minste één sportdiscipline die eerder ook al aan die school is toegewezen;”.
 
+### ART 100.
+
+In artikel 253/11, §4, van dezelfde codex, ingevoegd bij het decreet van 17 mei 2019 en gewijzigd bij het decreet van 4 februari 2022, worden de volgende wijzigingen aangebracht:<br>
+1° in het tweede lid worden de woorden “correctie van de fout” vervangen door de woorden “correctie van de technische fout of de zuiver materiële vergissing”;<br>
+2° in het derde lid worden de woorden “correctie van de fout” vervangen door de woorden “correctie van de technische fout of de zuiver materiële vergissing”.
+
+### ART 101.
+
+In artikel 253/12/1 van dezelfde codex, ingevoegd bij het decreet van 4 februari 2022, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, wordt de zinsnede “na het negatieve besluit,” vervangen door de zinsnede “na ontvangst van het negatieve besluit,”;<br>
+2° in paragraaf 2, eerste lid, 1°, wordt de zinsnede “na het negatieve besluit,” vervangen door de zinsnede “na ontvangst van het negatieve besluit,”;<br>
+3° in paragraaf 2, vierde lid, wordt de zinsnede “na het negatieve besluit,” vervangen door de zinsnede “na ontvangst van het negatieve besluit,”.
+
+### ART 106.
+
+In artikel 253/40, §4, van dezelfde codex, ingevoegd bij het decreet van 18 februari 2022 worden de volgende wijzigingen aangebracht:<br>
+1° in het tweede lid worden de woorden “correctie van de fout” vervangen door de woorden “correctie van de technische fout of de zuiver materiële vergissing”;<br>
+2° in het derde lid worden de woorden “correctie van de fout” vervangen door de woorden “correctie van de technische fout of de zuiver materiële vergissing”.
+
 ## Hoofdstuk 10. Wijzigingen van de Codex Hoger Onderwijs van 11 oktober 2013
+
+### ART 121.
+
+In artikel II.151, derde lid, van dezelfde codex, ingevoegd bij het decreet van 9 juli 2021, worden de volgende wijzigingen aangebracht:<br>
+1° de zin “Een bachelor­ of masteropleiding die kadert binnen een ‘European Universities Initiative’ dat als pilootproject werd goedgekeurd in 2019 of 2020, wordt geacht een opleiding te zijn die geselecteerd werd overeenkomstig de bepalingen van een Europees financieringsprogramma ter bevordering van de internationale samenwerking in het hoger onderwijs en waarbinnen multi- of gezamenlijke diplomering wordt vooropgesteld, vermeld in het eerste lid.” wordt vervangen door de zin: “Een bachelor­ of masteropleiding die kadert binnen een ‘European Universities Initiative’ dat als pilootproject in 2019 of 2020 is goedgekeurd, of de verlengingen daarvan, wordt geacht een opleiding te zijn die is geselecteerd conform de bepalingen van een Europees financieringsprogramma ter bevordering van de internationale samenwerking in het hoger onderwijs en waarbinnen multi­ of gezamenlijke diplomering wordt vooropgesteld als vermeld in het eerste lid.”;<br>
+2° de zin “Deze opleidingen starten uiterlijk in het academiejaar volgend op het academiejaar waarin het pilootproject afloopt.” wordt vervangen door de zin “De voormelde opleidingen starten uiterlijk in het academiejaar dat volgt op het academiejaar waarin het pilootproject afloopt of waarin de verlengingen van het pilootproject aflopen.”.
 
 ## Hoofdstuk 11. Wijzigingen van de codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016
 
@@ -69,3 +111,7 @@ In dezelfde codificatie, het laatst gewijzigd bij het decreet van 16 juni 2023, 
 ## Hoofdstuk 16. Wijziging van het decreet van 10 december 2021 over DBFM­Scholen van Vlaanderen
 
 ## Hoofdstuk 17. Slotbepalingen
+
+### ART 159.
+
+Het besluit van de Vlaamse Regering van 7 oktober 2022 over de NT2-test in het volwassenenonderwijs, wordt bekrachtigd.
