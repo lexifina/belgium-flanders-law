@@ -338,7 +338,7 @@ Artikel 7, 8, 9, 10, 11, artikel 13, 14, 15, 1°, artikel 16, 17, 18, 19, artike
 <br>
 Artikel 1, 2, 2°, artikel 3, 4, 2°, artikel 5, 6, 2°, artikel 12, 15, 2°, artikel 20, 21, 4°, artikel 25, 2°, 4° en 6°, artikel 28, 34, artikel 38, 1°, artikel 41, 2°, artikel 42, 2°, 4°, 6°, 8°, 10° en 12°, artikel 43, 2°, artikel 44, 2°, en artikel 45, hebben uitwerking met ingang van 1 januari 2020.<br>
 <br>
-Artikel 2, 3° treedt in werking op 1 januari 2023.
+Artikel 2, 3° treedt in werking op 1 juli 2023.
 
 ### ART 47.
 
