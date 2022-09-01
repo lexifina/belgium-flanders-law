@@ -2,16 +2,16 @@
   "codex_id": 1040834,
   "title": "Besluit van de Vlaamse Regering van 2025-04-04 tot wijziging van de regelgeving over de nuttige ervaring, de concordantie, het prestatiestelsel en de bekwaamheidsbewijzen en salarisschalen in het volwassenenonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040834/VolledigDocument?datum=2022-02-01",
-  "source_sha256": "1eca25a2e576c411d91960dbfe50f8ac7044d6fefb7939a593b018a3382ebf8f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040834/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "4470ea1662980e0693c87225884f6187ecbd1a514ba763facfa60d39536659d6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040834&param=informatie",
-  "as_of": "2022-02-01",
+  "as_of": "2022-09-01",
   "made": "2025-04-04",
   "gazette": "2025-05-14",
   "numac": 2025003594,
   "document_start": "2025-02-01",
   "document_end": null,
-  "in_force": "2022-02-01",
-  "article_versions": 8,
-  "record_form": "consolidated version as in force on 2022-02-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-09-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2022-09-01; future article versions excluded; article text as the API gives it"
 }
