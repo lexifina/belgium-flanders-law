@@ -137,7 +137,7 @@ Artikel 8 en 9 hebben uitwerking met ingang van 1 maart 2021.<br>
 <br>
 Artikel 2, 2°, artikel 3, 2°, artikel 4, 2°, artikel 5, 2°, artikel 6, 2°, 4°, 6°, 8°, 10°, 12°, 14° en 16°, artikel 7, en artikel 10, 2°, treden in werking op 1 januari 2022.<br>
 <br>
-Artikel 2, 3°, treedt in werking op 1 januari 2023.
+Artikel 2, 3°, treedt in werking op 1 juli 2023.
 
 ### ART 12.
 

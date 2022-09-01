@@ -2,16 +2,16 @@
   "codex_id": 1036957,
   "title": "Besluit van de Vlaamse Regering van 2022-01-28 tot wijziging van diverse besluiten van de Vlaamse Regering wat betreft de toepassing van de nieuwe maatregelen van het Vlaams Intersectoraal Akkoord",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036957/VolledigDocument?datum=2022-05-09",
-  "source_sha256": "0dd74facd721eaf1c9e8bcf5f14d19e47f6b54e990f9fb0a88a70d6641f3b31f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036957/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "df53a34bf2c0388f8f7416b63b9600aed44375680036159f9c3c68385e95c08f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036957&param=informatie",
-  "as_of": "2022-05-09",
+  "as_of": "2022-09-01",
   "made": "2022-01-28",
   "gazette": "2022-04-29",
   "numac": 2022020455,
   "document_start": null,
   "document_end": null,
-  "in_force": "2022-05-09",
+  "in_force": "2022-09-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2022-05-09; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-09-01; future article versions excluded; article text as the API gives it"
 }
