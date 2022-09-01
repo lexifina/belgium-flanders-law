@@ -60,6 +60,10 @@ In artikel 1 van het besluit van de Vlaamse Regering van 1 september 2006 betref
 
 Bijlage V, bijlage VII, bijlage XII, bijlage XVII tot en met XXI en bijlage XXIII en XXIV bij hetzelfde besluit worden opgeheven.
 
+### ART 9.
+
+Bijlage II, bijlage VI, bijlage XIII, bijlage XIV, bijlage XVI en bijlage XXII bij hetzelfde besluit worden opgeheven.
+
 ### ART 10.
 
 Bijlage IX bij het besluit van de Vlaamse Regering van 19 juli 2007 betreffende de studiebekrachtiging in het volwassenenonderwijs, vervangen bij het besluit van de Vlaamse Regering van 20 maart 2020, wordt vervangen door bijlage 2, die bij dit besluit is gevoegd.
@@ -217,6 +221,10 @@ In artikel 1 van het besluit van de Vlaamse Regering van 11 juni 2010 betreffend
 16° de opleiding Vastgoed Assistent kan voor traag lerende cursisten 720 lestijden bedragen, waarbij de module Digitale administratieve vaardigheden 120 lestijden bedraagt.";<br>
 4° punt 1° en 2° van het tweede lid worden opgeheven;<br>
 5° punt 3° van het tweede lid wordt opgeheven.
+
+### ART 30.
+
+Bijlage II, bijlage V en bijlage VII bij hetzelfde besluit worden opgeheven.
 
 ### ART 31.
 
