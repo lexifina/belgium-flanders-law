@@ -21,16 +21,16 @@ DE VLAAMSE MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME BE
 
 ### ART 1.
 
-Het Compendium voor Monsterneming en Analyse in het kader van het Materialendecreet en het Bodemdecreet, afgekort CMA, en de bijhorende inhoudstabel, gevoegd als bijlage bij dit besluit, worden goedgekeurd.
+...
 
 ### ART 2.
 
-Het ministerieel besluit van 16 december 2019 houdende de vaststelling van het Compendium voor Monsterneming en Analyse wordt opgeheven.
+...
 
 ### ART 3.
 
-Dit besluit treedt in werking op 15 januari 2021.
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2021/01/11_1.pdf#page=71">Compendium voor Monsterneming en Analyse (CMA)</a>
+...
