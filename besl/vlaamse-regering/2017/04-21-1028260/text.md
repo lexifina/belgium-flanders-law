@@ -41,6 +41,9 @@ Besluit :
 In dit besluit wordt verstaan onder:<br>
 1° andere steunaanvragers: de steunaanvragers, vermeld in artikel 5, lid 2, c), d) en e), van de gedelegeerde verordening;<br>
 2° bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+2° /1° biologische groenten en fruit en melk:<br>
+a) groenten en fruit en melk die beschouwd kunnen worden als biologische producten als vermeld in artikel 3, punt 2, van de verordening (EU) 2018/848 van het Europees Parlement en de Raad van 30 mei 2018 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EG) nr. 834/2007 van de Raad;<br>
+b) groenten en fruit die beschouwd kunnen worden als omschakelingsproducten als vermeld in artikel 3, punt 7, van de voormelde verordening;<br>
 3° groenten en fruit: de producten van de sector groenten en fruit en de sector bananen, vermeld in bijlage I, deel IX en XI, van de verordening;<br>
 4° indicatorschool: een onderwijsinstelling uit het buitengewoon lager onderwijs, het buitengewoon secundair onderwijs of een onderwijsinstelling uit het basisonderwijs waarvan minstens 15% van de ingeschreven leerlingen rechthebbende is van de indicator "schooltoelage" als vermeld in het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap, in het tweede schooljaar voor het schooljaar waarvoor een deelnameverklaring als vermeld in artikel 7 van dit besluit, wordt ingediend;<br>
 5° melk: consumptiemelk en de lactosevrije versies daarvan als bedoeld in artikel 23, lid 3, b), van de verordening evenals dranken op basis van melk met cacao, of natuurlijk gearomatiseerd, als bedoeld in bijlage V van de verordening, die niets van het volgende bevatten: toegevoegde suiker, toegevoegd zout, toegevoegde vetten, toegevoegde zoetstoffen, toegevoegde kunstmatige smaakversterkers E620 tot en met E650 als omschreven in Verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van 16 december 2008 inzake levensmiddelenadditieven.<br>
@@ -80,25 +83,34 @@ De ministers kunnen de uiterste indieningsdatum en de wijze waarop de erkennings
 
 ### ART 5.
 
-Er wordt steun verleend aan onderwijsinstellingen voor de verstrekking van groenten en fruit en melk aan kinderen in onderwijsinstellingen in het kader van de schoolregeling.<br>
+Aan de onderwijsinstellingen, die erkend zijn conform artikel 4, kan steun worden verleend voor de verstrekking van een portie biologische of niet-biologische groenten en fruit en melk aan kinderen in onderwijsinstellingen in het kader van de schoolregeling.<br>
 <br>
-De steun wordt verleend voor de verstrekking van één portie per leerling en per week gedurende tien weken in de periode van 1 september tot en met 31 januari.<br>
+De steun, vermeld in het eerste lid, wordt verleend voor de verstrekking van één portie per leerling per week gedurende minstens een van de volgende twee perioden:<br>
+1° een eerste periode van maximaal tien, al dan niet aaneengesloten, weken, die plaatsvindt vanaf 1 september tot en met 31 januari;<br>
+2° een tweede periode van maximaal tien, al dan niet aaneengesloten, weken, die plaatsvindt vanaf 1 januari tot en met 30 april.<br>
 <br>
-In afwijking van het tweede lid wordt aan indicatorscholen steun verleend voor de verstrekking van één portie per leerling en per week gedurende tien weken in een eerste periode van verstrekking, die loopt van 1 september tot en met 31 januari en gedurende tien weken in een tweede periode van verstrekking, die loopt van 1 januari tot en met 30 april. De verstrekking tijdens de tweede periode mag pas starten nadat de verstrekking tijdens de eerste periode afgelopen is.<br>
+De verstrekking tijdens de tweede periode, vermeld in het tweede lid, 2°, mag pas starten nadat de verstrekking tijdens de eerste periode, vermeld in het tweede lid, 1°, afgelopen is.<br>
 <br>
-De ministers kunnen beslissen om de frequentie per week waarmee producten verstrekt mogen worden, of het aantal weken waarin ze verstrekt mogen worden, uit te breiden, en de voorwaarden bepalen waaraan de onderwijsinstellingen moeten voldoen om voor die uitbreiding in aanmerking te komen.
+De ministers kunnen:<br>
+1° het aantal porties per week, vermeld in het tweede lid, waarvoor steun wordt verleend, verhogen;<br>
+2° het maximale aantal weken voor de eerste of tweede periode waarin de porties verstrekt mogen worden en waarvoor steun kan worden verleend, vermeld in het tweede lid, uitbreiden, op voorwaarde dat de uitbreiding plaatsvindt binnen de data van periode in kwestie, vermeld in het tweede lid;<br>
+3° de voorwaarden bepalen waaraan de onderwijsinstellingen moeten voldoen om voor de verhoging, vermeld in punt 1°, en de uitbreiding, vermeld in punt 2°, in aanmerking te komen.
 
 ### ART 6.
 
-De steun, vermeld in artikel 5, is gelijk aan het bedrag dat de onderwijsinstelling aan haar leverancier betaalt voor de groenten en fruit en de melk die in het kader van de schoolregeling verstrekt worden.<br>
+De steun, vermeld in artikel 5, is gelijk aan het bedrag dat de onderwijsstelling betaalt aan haar leverancier voor de levering van een portie biologische of niet-biologische groenten en fruit en melk, maar kan niet hoger zijn dan het maximale steunbedrag, vermeld in het tweede lid.<br>
 <br>
-De ministers bepalen het maximale steunbedrag, per leerling per schooljaar, bij een verstrekking gedurende tien weken, vermeld in artikel 5, tweede lid, voor de verstrekking van groenten en fruit, en voor de verstrekking van melk. Het steunbedrag kan hierbij niet sterker toenemen dan de evolutie van de markt- en verkoopprijzen.<br>
+De ministers bepalen het maximale steunbedrag voor de verstrekking van een portie biologische groenten en fruit en melk per leerling en een portie niet-biologische groenten en fruit en melk per leerling. De ministers houden daarbij rekening met de evolutie van de marktprijzen.<br>
 <br>
-De ministers bepalen het maximale steunbedrag, per leerling per schooljaar, bij een verstrekking gedurende twintig weken, vermeld in artikel 5, derde lid, voor de verstrekking van groenten en fruit en voor de verstrekking van melk. De ministers houden hierbij rekening met de evolutie van de marktprijzen.<br>
+De onderwijsinstelling ontvangt voor alle porties, verstrekt aan een leerling in een van de perioden, vermeld in artikel 5, tweede lid, het steunbedrag voor niet-biologische groenten en fruit en melk, vermeld in het eerste en tweede lid, als minstens een van die porties in de periode in kwestie, niet biologisch is.<br>
 <br>
-De ministers kunnen bij een uitgebreide verstrekking als vermeld in artikel 5, vierde lid, het maximale steunbedrag per leerling per schooljaar vastleggen voor de verstrekking van groenten en fruit en voor de verstrekking van melk. Het steunbedrag kan hierbij niet sterker toenemen dan de evolutie van de markt- en verkoopprijzen.<br>
+De onderwijsinstelling ontvangt voor alle porties, verstrekt aan een leerling in een van de perioden, vermeld in artikel 5, tweede lid, het steunbedrag voor biologische groenten en fruit en melk, vermeld in het eerste en tweede lid, alleen als alle verstrekte porties in de periode in kwestie biologisch zijn.<br>
 <br>
-De ministers kunnen bepalen met welke documenten het bedrag, vermeld in het eerste lid, gestaafd wordt.
+Er kan alleen steun worden toegekend voor het aantal leerlingen dat de onderwijsinstelling heeft doorgegeven in de deelnameverklaring, vermeld in artikel 7, of in de steunaanvraag, vermeld in artikel 9, tweede lid.<br>
+<br>
+Als de ministers de bevoegdheid, vermeld in artikel 5, vierde lid, 2°, gebruiken om het aantal weken in de eerste of tweede periode uit te breiden, kunnen ze de maximale steunbedragen, vermeld in het tweede lid, bepalen.<br>
+<br>
+De ministers kunnen bepalen met welke documenten het bedrag dat de onderwijsinstelling betaalt aan haar leverancier voor de levering van een portie biologische of niet-biologische groenten en fruit en melk, vermeld in het eerste lid, gestaafd wordt.
 
 ### ART 7.
 
@@ -108,9 +120,7 @@ In deze deelnameverklaring geven de onderwijsinstellingen het aantal leerlingen 
 <br>
 In de deelnameverklaring verklaart de onderwijsinstelling dat ze de groenten, het fruit en de melk in het kader van de schoolregeling verstrekt conform artikel 5.<br>
 <br>
-Bij een uitgebreide verstrekking als vermeld in artikel 5, vierde lid, en in afwijking van het derde lid, verklaart de onderwijsinstelling in de deelnameverklaring dat ze de groenten, het fruit en de melk in het kader van de schoolregeling verstrekt conform de door de ministers bepaalde modaliteiten.<br>
-<br>
-Bijkomend geven de indicatorscholen het aantal leerlingen door dat ingeschreven is op de eerste officiële schooldag van het tweede trimester van dat schooljaar.<br>
+Bij een uitgebreide verstrekking als vermeld in artikel 5, vierde lid, 2° en in afwijking van het derde lid, verklaart de onderwijsinstelling in de deelnameverklaring dat ze de groenten, het fruit en de melk in het kader van de schoolregeling verstrekt conform de door de ministers bepaalde modaliteiten.<br>
 <br>
 De ministers kunnen de uiterste indieningsdatum en de wijze waarop de deelnameverklaring ingediend wordt, bepalen.
 
@@ -123,13 +133,9 @@ Als het beschikbare budget voor een schooljaar niet toereikend is om steun als v
 
 ### ART 9.
 
-Voor de uitbetaling van de steun, vermeld in artikel 5, dienen de onderwijsinstellingen een steunaanvraag in bij de bevoegde entiteit.<br>
+Voor de uitbetaling van de steun, vermeld in artikel 5, dienen de onderwijsinstellingen, voor de eerste en de tweede periode, vermeld in artikel 5, tweede lid, een afzonderlijke steunaanvraag in bij de bevoegde entiteit.<br>
 <br>
-Onderwijsinstellingen dienen één steunaanvraag in per tien weken waarin groenten en fruit en melk verstrekt worden in het kader van de schoolregeling.<br>
-<br>
-In afwijking van het tweede lid kunnen de ministers bij een uitgebreide verstrekking als vermeld in artikel 5, vierde lid, bepalen voor welke periode van verstrekking een steunaanvraag ingediend wordt.<br>
-<br>
-Indicatorscholen geven in de steunaanvraag van het tweede trimester het aantal leerlingen door dat op de eerste schooldag van januari van het schooljaar in kwestie ingeschreven was.<br>
+De onderwijsinstellingen geven in de steunaanvraag voor de tweede periode, vermeld in artikel 5, tweede lid, 2° het aantal leerlingen door dat op de eerste schooldag van januari van het schooljaar in kwestie ingeschreven was en dat effectief heeft deelgenomen aan de schoolregeling.<br>
 <br>
 De ministers kunnen de uiterste indieningsdatum, de wijze waarop de steunaanvraag ingediend wordt en de bijkomende gegevens die in de steunaanvraag opgenomen worden, bepalen.
 
