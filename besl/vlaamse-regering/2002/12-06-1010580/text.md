@@ -117,7 +117,6 @@ De voor iedere opleiding noodzakelijke beroepsgerichte vaardigheden worden bepaa
 - de toelating tot het volgen van de alternerende beroepsopleiding van een leerling die een getuigschrift van verworven competenties of een attest van verworven bekwaamheden heeft behaald<br>
 - de duur van de observatiefase, in functie van de leerling. Zij kan bij gemotiveerde beslissing afwijken van het bij artikel 4, 1° van onderhavig besluit bepaalde;<br>
 - de duur van de opleidingsfase en de kwalificatiefase.<br>
-- de toelating van een leerling tot de kwalificatieproef.<br>
 <br>
 De beslissingen van de klassenraad moeten gemotiveerd zijn.<br>
 <br>
@@ -151,7 +150,7 @@ De toekenning van studiebewijzen kan om geen enkele reden worden ingehouden, ook
 <br>
 Aan alle leerlingen wordt op het einde van de opleidingsfase een bewijs van competenties toegekend. Op dat bewijs staan de competenties opgesomd die in de opleidingsfase al verworven zijn..<br>
 <br>
-§ 1/1.De klassenraad beslist over de studiesanctionering van de leerling op het einde van de kwalificatiefase, en houdt hierbij onder meer rekening met het advies van de kwalificatiecommissie met betrekking tot de kwalificatieproef. De klassenraad beslist omtrent :<br>
+§ 1/1.De klassenraad beslist over de studiesanctionering van de leerling op het einde van de kwalificatiefase. De klassenraad beslist omtrent :<br>
 - het toekennen van het getuigschrift van de opleiding;<br>
 - of het toekennen van een getuigschrift van verworven competenties voor een afgerond geheel binnen een opleiding, dat leidt tot reële inzetbaarheid op de arbeidsmarkt. De verworven vaardigheden worden afgeleid uit het opleidingsprofiel;<br>
 -...<br>
@@ -164,17 +163,17 @@ Aan alle leerlingen wordt op het einde van de opleidingsfase een bewijs van comp
 <br>
 § 4. Een leerling die de integratiefase niet met vrucht heeft doorlopen of de opleiding vroegtijdig beëindigt, heeft recht op een attest.<br>
 <br>
-§ 5. Een leerling die geen getuigschrift van de opleiding behaalde op het einde van de kwalificatiefase en uitzonderlijk op advies van de klassenraad toch werd toegelaten tot de integratiefase, kan&nbsp;in de integratiefase opnieuw voor de kwalificatiecommissie komen, als de klassenraad oordeelt dat de werkervaring en de bijkomende vorming op school voldoende aanvullend is bij de reeds gevolgde opleiding.<br>
-<br>
-Deze leerling ontvangt dan van de klassenraad, naargelang het geval, ofwel het getuigschrift van de opleiding ofwel het getuigschrift van verworven competenties ofwel het attest van verworven bekwaamheden ofwel het attest beroepsonderwijs. De klassenraad houdt hierbij onder meer rekening met het advies van de kwalificatiecommissie met betrekking tot de kwalificatieproef.<br>
+§ 5 Aan een leerling die geen getuigschrift van de opleiding behaalde op het einde van de kwalificatiefase en uitzonderlijk op advies van de klassenraad toch werd toegelaten tot de integratiefase, kan, naargelang het geval, het getuigschrift van de opleiding, het getuigschrift van verworven competenties, het attest van verworven bekwaamheden of het attest beroepsonderwijs uitgereikt worden.<br>
 <br>
 § 6. Een leerling die in de kwalificatiefase of in de integratiefase een getuigschrift heeft behaald, kan niet meer opnieuw ingeschreven worden in de kwalificatiefase of de integratiefase van dezelfde opleiding.<br>
 <br>
 Voor een leerling die in de kwalificatiefase of in de integratiefase een getuigschrift heeft behaald, kan de klassenraad beslissen om deze opnieuw in te schrijven in de kwalificatiefase of de integratiefase van een andere opleiding.<br>
 <br>
-Deze leerling ontvangt dan op het einde van de kwalificatiefase van de klassenraad, naargelang het geval, ofwel het getuigschrift van de opleiding ofwel het getuigschrift van verworven competenties ofwel het attest van verworven bekwaamheden ofwel het attest beroepsonderwijs. De klassenraad houdt hierbij onder meer rekening met het advies van de kwalificatiecommissie met betrekking tot de kwalificatieproef.<br>
+Deze leerling ontvangt dan op het einde van de kwalificatiefase van de klassenraad, naargelang het geval, ofwel het getuigschrift van de opleiding ofwel het getuigschrift van verworven competenties ofwel het attest van verworven bekwaamheden ofwel het attest beroepsonderwijs.&nbsp;<br>
 <br>
-Deze leerling ontvangt dan op het einde van de integratiefase ofwel het getuigschrift van alternerende beroepsopleiding ofwel het attest van alternerende beroepsopleiding. Daarnaast ontvangt deze leerling ook nog ofwel het getuigschrift van de opleiding ofwel het getuigschrift van verworven competenties ofwel het attest van verworven bekwaamheden ofwel het attest beroepsonderwijs. De klassenraad houdt hierbij onder meer rekening met het advies van de kwalificatiecommissie met betrekking tot de kwalificatieproef..
+Deze leerling ontvangt dan op het einde van de integratiefase ofwel het getuigschrift van alternerende beroepsopleiding ofwel het attest van alternerende beroepsopleiding. Daarnaast ontvangt deze leerling ook nog ofwel het getuigschrift van de opleiding ofwel het getuigschrift van verworven competenties ofwel het attest van verworven bekwaamheden ofwel het attest beroepsonderwijs.&nbsp;<br>
+<br>
+§ 7. De studiebewijzen vermeld in paragrafen 1 tot en met 6 kunnen na evaluatie door de klassenraad worden toegekend aan de regelmatige leerlingen die in de loop van of op het einde van het schooljaar de desbetreffende fase beëindigen.
 
 ### ART. 15.
 
@@ -186,7 +185,7 @@ Voor de bekrachtiging van de studies komen uitsluitend de regelmatige leerlingen
 
 ### ART. 17.
 
-De kwalificatiecommissie bestaat uit de directeur of zijn afgevaardigde, uit leden van het onderwijzend personeel en uit deskundigen op het vlak van de te beoordelen kwalificatie, die in aantal het aantal leraren niet mogen overschrijden.<br /><br />De directeur van de school of diens afgevaardigde zit de kwalificatiecommissie voor.<br /><br />De deskundigen worden in de loop van het schooljaar door de inrichtende macht of haar afgevaardigde aangeduid.<br /><br />De kwalificatiecommissie is verantwoordelijk voor het afnemen van de kwalificatieproef, vermeld in artikel 13, § 1, zevende gedachtestreepje.<br /><br />De kwalificatieproef, wordt georganiseerd in : <br />1° het laatste jaar van de kwalificatiefase, voor de leerlingen die vallen onder de toepassing van artikel 13, § 1;<br />2° de integratiefase, voor de leerlingen die vallen onder de toepassing van artikel 14, § 5, eerste lid.<br /><br />De kwalificatieproef, die ook de vorm van een eindwerk kan aannemen, wordt beoordeeld door de leerkrachten en door de deskundigen op het vlak van de te beoordelen kwalificatie in de kwalificatiecommissie.<br /><br />Het resultaat van de kwalificatieproef en het advies van de kwalificatiecommissie vormen een element in de beslissing van de klassenraad over de studiesanctionering.
+...
 
 ### ART. 18.
 
