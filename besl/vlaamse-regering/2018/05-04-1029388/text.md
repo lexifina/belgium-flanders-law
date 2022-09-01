@@ -160,16 +160,14 @@ b) A-stroom - B-stroom;<br>
 c) logische doorstroommogelijkheden<br>
 3° specifieke toelatingsvoorwaarden, vastgelegd in regelgeving;<br>
 4° samenstelling structuuronderdeel;<br>
-5° ordening/samenhang onderwijsdoelen; voor elk afzonderlijk onderwijsdoel wordt aangeduid enerzijds wat het statuut(*) ervan is en anderzijds in functie van welke sleutelcompetentie (**) het onderwijsdoel in kwestie is geformuleerd;<br>
+5° ordening/samenhang onderwijsdoelen; voor elk afzonderlijk onderwijsdoel wordt aangeduid wat het statuut(*) ervan is;<br>
 6° studiebekrachtiging.<br>
 (*) De statuten zijn:<br>
 a) eindtermen basisgeletterdheid;<br>
 b) eindtermen;<br>
 c) uitbreidingsdoelen Nederlands;<br>
 d) doelen van de basisopties;<br>
-e) differentiële doelen.<br>
-(**) De 16 sleutelcompetenties zijn bepaald in artikel 139, § 2, van de codex secundair onderwijs.<br>
-&nbsp;
+e) differentiële doelen.
 
 ## BIJLAGE 2
 
@@ -187,18 +185,17 @@ e) VKS-niveau;<br>
 f) logische doorstroommogelijkheden;<br>
 4° specifieke toelatingsvoorwaarden, vastgelegd in regelgeving;<br>
 5° samenstelling onderwijskwalificatie/structuuronderdeel;<br>
-6° ordening/samenhang onderwijsdoelen; voor elk afzonderlijk onderwijsdoel wordt aangeduid enerzijds wat het statuut(*) ervan is en anderzijds in functie van welke sleutelcompetentie (**) het onderwijsdoel in kwestie is geformuleerd;<br>
+6° ordening/samenhang onderwijsdoelen; voor elk afzonderlijk onderwijsdoel wordt aangeduid wat het statuut ervan is;<br>
 7° concordantietabel tussen de doelen die leiden tot een of meer erkende beroepskwalificaties en alle competenties zoals opgenomen in de betrokken beroepskwalificatie(s)/deelkwalificatie(s) (als dat van toepassing is en behoudens afwijking mits akkoord van de sector);<br>
-8° voor zover het structuuronderdeel alleszins als duaal structuuronderdeel kan worden georganiseerd:<br>
-a) een clustering van beroepsgerichte competenties, gebaseerd op een of meerdere beroepskwalificaties of een of meerdere deelkwalificaties voor de modulaire organisatie;<br>
-b) de werkplekcomponent bestaande uit het gemiddeld aantal uren per week op jaarbasis, de geldende overeenkomst alternerende opleiding en de contexten waarop de werkplekcomponent van toepassing is zoals afgesproken wordt in de sectorale partnerschappen;<br>
-c) het aanloopstructuuronderdeel dat, afgeleid van het curriculumdossier, georganiseerd kan worden;<br>
-d) de onderliggende beroepskwalificatie die van rechtswege studievoortgang toelaat;<br>
+8° als het structuuronderdeel in elk geval als duaal structuuronderdeel kan worden georganiseerd:<br>
+a) een clustering van beroepsgerichte competenties, gebaseerd op één of meer beroepskwalificaties of één of meer deelkwalificaties voor de modulaire organisatie. Voor de modulaire organisatie worden de clusters en de eventuele volgorderelaties tussen de clusters vastgelegd;<br>
+b) de werkplekcomponent bestaande uit het gemiddelde aantal uren per week op jaarbasis, de geldende overeenkomst alternerende opleiding en de contexten waarop de werkplekcomponent van toepassing is zoals afgesproken wordt in de sectorale partnerschappen;<br>
+c) het aanloopstructuuronderdeel of de aanloopstructuuronderdelen die, samen met het duale structuuronderdeel, georganiseerd kunnen worden;<br>
+d) de beroepsgerichte competenties, gebaseerd op één of meer beroepskwalificaties of één of meer deelkwalificaties conform de vastgelegde samenstelling als invulling van het aanloopstructuuronderdeel of de aanloopstructuuronderdelen;<br>
+e) de onderliggende beroepskwalificatie(s), deelkwalificatie(s) of certificaten die van rechtswege toelating verlenen tot duale structuuronderdelen van de derde graad arbeidsmarktfinaliteit (bso);<br>
 9° studiebekrachtiging.<br>
 (*) De statuten zijn:<br>
 a) eindtermen;<br>
 b) cesuurdoelen - specifieke eindtermen;<br>
 c) doelen die leiden tot een of meer erkende beroepskwalificaties;<br>
-d) differentiële doelen.<br>
-(**) De 16 sleutelcompetenties zijn bepaald in artikel 139, § 2, van de codex secundair onderwijs.<br>
-&nbsp;
+d) differentiële doelen.
