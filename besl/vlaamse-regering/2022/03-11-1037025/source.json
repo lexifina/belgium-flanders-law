@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037025,
+  "title": "Besluit van de Vlaamse Regering van 2022-03-11 tot erkenning van het graduaat in de sales support als nieuwe opleiding van de Katholieke Hogeschool Vives Zuid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037025/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "c69ee78ff8d50977a7baf0681eff83b197bfe87280dc92e15328ccf39fa74a0b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037025&param=informatie",
+  "as_of": "2022-09-01",
+  "made": "2022-03-11",
+  "gazette": "2022-05-13",
+  "numac": 2022040671,
+  "document_start": "2022-09-01",
+  "document_end": null,
+  "in_force": "2022-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
