@@ -160,17 +160,21 @@ Het Steunpunt Adoptie faciliteert de trefgroepen en het lotgenotencontact voor g
 
 ### ART 25.
 
-De erkenning van de adoptiediensten die op 31 december 2022 zijn erkend, eindigt van rechtswege op die datum.
+De erkenning van de adoptiediensten die op 30 juni 2023 zijn erkend, eindigt van rechtswege op die datum.<br>
+<br>
+Overeenkomstig artikel 17, § 1, van het decreet van 20 januari 2012 houdende de regeling van de interlandelijke adoptie van kinderen, treft het Vlaams Centrum voor Adoptie maatregelen voor de afwerking van de lopende dossiers in de buitenlandse kanalen.
 
 ### ART 26.
 
-De dienst die op 1 januari 2023 wil erkend worden als adoptiedienst, dient hiervoor uiterlijk op 17 september 2022 een aanvraag tot erkenning als adoptiedienst in te dienen bij Kind en Gezin zoals vermeld in artikel 52 van het besluit van 22 maart 2013 betreffende het inzagerecht en de bemiddeling bij interlandelijke adoptie.
+De dienst die op 1 juli 2023 wil erkend worden als adoptiedienst, dient hiervoor uiterlijk op 30 april 2023 een aanvraag tot erkenning als adoptiedienst in te dienen bij Kind en Gezin zoals vermeld in artikel 52 van het besluit van 22 maart 2013 betreffende het inzagerecht en de bemiddeling bij interlandelijke adoptie.
 
 ### ART 27.
 
-Dit besluit treedt in werking op 1 september 2019, met uitzondering van de artikelen 14, 16,1°, 16, 3° t.e.m. 5° en 17, die in werking treden op 1 januari 2023 en met uitzondering van de artikelen 11, 12, 19, 20, 21, 23 en 24 die in werking treden op de dag van de volledige inwerkingtreding van titel 2 van de Wet van 6 juli 2017 houdende vereenvoudiging, harmonisering, informatisering en modernisering van bepalingen van het burgerlijk recht en van burgerlijk procesrecht alsook van het notariaat, en houdende diverse bepalingen inzake justitie.<br>
+Dit besluit treedt in werking op 1 september 2019, met uitzondering van de artikelen 11, 12, 19, 20, 21, 23 en 24 die in werking treden op de dag van de volledige inwerkingtreding van titel 2 van de Wet van 6 juli 2017 houdende vereenvoudiging, harmonisering, informatisering en modernisering van bepalingen van het burgerlijk recht en van burgerlijk procesrecht alsook van het notariaat, en houdende diverse bepalingen inzake justitie.<br>
 <br>
-Artikel 16, 2° heeft uitwerking met ingang van 1 januari 2019.
+Artikel 16, 2° heeft uitwerking met ingang van 1 januari 2019.<br>
+<br>
+Artikel 14, 16, 1°, 16, 4° en 5° en artikel 17 hebben uitwerking met ingang van 1 juli 2023.
 
 ### ART 28.
 
