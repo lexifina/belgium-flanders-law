@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036821,
+  "title": "Besluit van de Vlaamse Regering van 2022-02-04 tot erkenning van het graduaat in het transport en de logistiek als nieuwe opleiding van de Arteveldehogeschool",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036821/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "1eb096f2adf76ccae475cefec924036a0bf29df522190ed3dc282ff196ff1edc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036821&param=informatie",
+  "as_of": "2022-09-01",
+  "made": "2022-02-04",
+  "gazette": "2022-04-01",
+  "numac": 2022020380,
+  "document_start": "2022-09-01",
+  "document_end": null,
+  "in_force": "2022-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
