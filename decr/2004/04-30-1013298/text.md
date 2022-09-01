@@ -68,7 +68,9 @@ Dit decreet regelt zowel een gewest- als een gemeenschapsaangelegenheid.
 57° de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers;<br>
 58° het decreet van 15 oktober 2021 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen;<br>
 59° de toekenning van transitiepremies voor ondernemers, vermeld in artikel 3 van het decreet van 22 december 2017 houdende een premie om de transitie van werkzoekenden naar ondernemerschap te stimuleren.<br>
-60° de opleidingscheques voor werknemers, vermeld in artikel 2 van het decreet van 22 maart 2019 betreffende de opleidingscheques voor werknemers, de invoering van een registratieverplichting voor sportmakelaars en tot wijziging van diverse andere bepalingen inzake het beleidsdomein Werk en Sociale Economie.<br>
+60° de opleidingscheques voor werknemers, vermeld in artikel 2 van het decreet van 22 maart 2019 betreffende de opleidingscheques voor werknemers, de invoering van een registratieverplichting voor sportmakelaars en tot wijziging van diverse andere bepalingen inzake het beleidsdomein Werk en Sociale Economie;<br>
+61° het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen;<br>
+62° het decreet van 25 maart 2022 tot regeling van bepaalde aspecten van duale opleidingen in het volwassenenonderwijs;<br>
 63° de toekenning van de jobbonus, vermeld in artikel 3 van het decreet van 20 mei 2022 tot regeling van de toekenning van een jobbonus.<br>
 <br>
 De sociaalrechtelijke inspecteurs zijn tevens bevoegd voor de controle en het toezicht op de regelgeving waarvoor het Vlaamse Gewest gemachtigd is krachtens de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waar in artikel 6, § 1, IX, 2°, de bevoegdheid aan de gewesten wordt gegeven met betrekking tot programma's voor wedertewerk-stelling.<br>
