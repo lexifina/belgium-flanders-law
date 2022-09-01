@@ -689,6 +689,235 @@ De omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen va
 
 ## [ONDERAFDELING 1QUINQUIES OMZETTEN VAN LESTIJDEN IN PUNTEN OF UREN BIJ LERARENTEKORT (ing. BVR 9 september 2022, art. 16, I: 1 september 2022 tot 31 augustus 2025)]
 
+### ART 13octies.
+
+§ 1. Ter uitvoering van artikel 130, § 2, vijfde lid, van het decreet kunnen de lestijden, vermeld in artikel 130, § 2, tweede lid, van het decreet, in het buitengewoon basisonderwijs worden omgezet in punten na de omzetting conform de volgende tabel:
+<table border="1">
+	<tbody>
+		<tr>
+			<td>lestijden</td>
+			<td>punten</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>4</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>8</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>12</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>15</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>19</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>23</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>27</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>31</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>35</td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td>39</td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>43</td>
+		</tr>
+		<tr>
+			<td>13</td>
+			<td>46</td>
+		</tr>
+		<tr>
+			<td>14</td>
+			<td>50</td>
+		</tr>
+		<tr>
+			<td>15</td>
+			<td>54</td>
+		</tr>
+		<tr>
+			<td>16</td>
+			<td>58</td>
+		</tr>
+		<tr>
+			<td>17</td>
+			<td>62</td>
+		</tr>
+		<tr>
+			<td>18</td>
+			<td>66</td>
+		</tr>
+		<tr>
+			<td>19</td>
+			<td>70</td>
+		</tr>
+		<tr>
+			<td>20</td>
+			<td>73</td>
+		</tr>
+		<tr>
+			<td>21</td>
+			<td>77</td>
+		</tr>
+		<tr>
+			<td>22</td>
+			<td>81</td>
+		</tr>
+		<tr>
+			<td>23</td>
+			<td>85</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Uit de punten die conform het eerste lid worden verkregen, kunnen de volgende ambten worden ingericht:<br>
+1° het ambt van zorgcoördinator uit de categorie beleids- en ondersteunend personeel;<br>
+2° het ambt van ICT-coördinator uit de categorie beleids- en ondersteunend personeel;<br>
+3° het ambt van administratief medewerker uit de categorie beleids- en ondersteunend personeel;<br>
+4° vanaf 1 januari 2022 het ambt van beleidsondersteuner uit de categorie beleids- en ondersteunend personeel.<br>
+<br>
+De punten worden omgerekend naar gefinancierde of gesubsidieerde betrekkingen van het beleids- en ondersteund personeel conform artikel 4quater, 4quinquies en 4sexies van het besluit van de Vlaamse regering van 5 maart 2004 betreffende de puntenenveloppen voor de scholengemeenschappen basisonderwijs.<br>
+<br>
+§ 2. Ter uitvoering van artikel 130, § 2, vijfde lid, van het decreet kunnen de lestijden, vermeld in artikel 130, § 2, tweede lid, van het decreet, in het buitengewoon basisonderwijs worden omgezet in uren na de omzetting conform de volgende tabel:<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>lestijden</td>
+			<td>uren</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>4</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>7</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>9</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>10</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>12</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>13</td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td>15</td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>16</td>
+		</tr>
+		<tr>
+			<td>13</td>
+			<td>18</td>
+		</tr>
+		<tr>
+			<td>14</td>
+			<td>19</td>
+		</tr>
+		<tr>
+			<td>15</td>
+			<td>21</td>
+		</tr>
+		<tr>
+			<td>16</td>
+			<td>22</td>
+		</tr>
+		<tr>
+			<td>17</td>
+			<td>24</td>
+		</tr>
+		<tr>
+			<td>18</td>
+			<td>25</td>
+		</tr>
+		<tr>
+			<td>19</td>
+			<td>27</td>
+		</tr>
+		<tr>
+			<td>20</td>
+			<td>28</td>
+		</tr>
+		<tr>
+			<td>21</td>
+			<td>29</td>
+		</tr>
+		<tr>
+			<td>22</td>
+			<td>31</td>
+		</tr>
+		<tr>
+			<td>23</td>
+			<td>32</td>
+		</tr>
+		<tr>
+			<td>24</td>
+			<td>34</td>
+		</tr>
+		<tr>
+			<td>25</td>
+			<td>35</td>
+		</tr>
+		<tr>
+			<td>26</td>
+			<td>37</td>
+		</tr>
+		<tr>
+			<td>27</td>
+			<td>38</td>
+		</tr>
+		<tr>
+			<td>28</td>
+			<td>40</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+De omrekening van uren naar de gefinancierde of gesubsidieerde betrekkingen van het paramedisch, medisch, sociaal, psychologisch en orthopedagogisch personeel gebeurt conform artikel 24 van het besluit van de Vlaamse regering van 17 juni 1997 betreffende de personeelsformatie in het buitengewoon basisonderwijs.
+
 ## ONDERAFDELING 2 AANVULLENDE LESTIJDEN VOOR PERMANENT ONDERWIJS AAN HUIS IN HET BUITENGEWOON LAGER ONDERWIJS
 
 ### ART. 14.
