@@ -37,7 +37,7 @@ De periode van twintig opleidingsdagen per schooljaar waarin de leerling geen ov
 
 ### ART 2.
 
-Met het oog op de leerlingenevaluatie in de duale structuuronderdelen van het voltijds gewoon secundair onderwijs is de organisatie van een geïntegreerde proef als vermeld in artikel 56 van het besluit van de Vlaamse regering van 19 juli 2002 betreffende de organisatie van het voltijds secundair onderwijs, facultatief.
+...
 
 ### ART 3.
 
@@ -78,29 +78,30 @@ De oproep bij organisatoren van de aanloopfase wordt gelanceerd door de bevoegde
 
 De volgende organisatoren zijn organisatoren die instaan voor de organisatie van de aanloopfase als vermeld in artikel 357/53 van de Codex Secundair Onderwijs van 17 december 2010, en voor de organisatie van extra ondersteuning als vermeld in artikel 357/24 van de voormelde codex:<br>
 1° Alternatief vzw;<br>
+1°/1 aPart vzw;<br>
 2° Argos vzw;<br>
 3° Arktos vzw;<br>
-4° Compaan vzw;<br>
-5° Emino Antwerpen DOV;<br>
-6° Emino vzw;<br>
+4° Job &amp; Co vzw, St.-Amandsberg;<br>
+5° Emino vzw;<br>
+6° ...;<br>
 7° Groep Intro vzw;<br>
 8° IN-Z vzw;<br>
-9° Jes Brussel;<br>
-10° Jes Gent;<br>
+9° Jes vzw;<br>
+10° ...;<br>
 11° Jongerenatelier vzw;<br>
-12° Kringloopcentrum Leefbaar Wonen vzw;<br>
+12° ...;<br>
 13° Lejo vzw;<br>
 14° LOOA vzw;<br>
 15° Noord Limburg Open Atelier vzw;<br>
 16° OCMW Aalst;<br>
-17° OCMW Ninove;<br>
+17° ...;<br>
 18° OCMW Sint-Niklaas;<br>
 19° Oranjehuis vzw;<br>
 20° Profo vzw;<br>
 21° ROJM vzw;<br>
 22° Stad Eeklo;<br>
-23° Stad Gent - Dienst Werk;<br>
-24° WEB VZW;<br>
+23° Stad Gent;<br>
+24° GATAM VZW;<br>
 25° Werken en Leren Antwerpen vzw (vanaf 01/01/2020 GATAM vzw);<br>
 26° Werkperspectief vzw.
 
@@ -153,9 +154,7 @@ In het model van de studiebewijzen, vermeld in het eerste lid, 1° tot en met 6�
 
 ### ART 9.
 
-Binnen de beschikbare kredieten bepaalt de Vlaamse minister, bevoegd voor onderwijs en vorming, per schooljaar het bedrag van de aanvullende werkingsmiddelen dat aan een centrum voor deeltijds beroepssecundair onderwijs wordt toegekend op basis van het aantal dagen dat de jongeren effectief gepresteerd hebben binnen de fase arbeidsdeelname of de aanloopcomponent tijdens het voorafgaande schooljaar.<br>
-<br>
-De aanvullende werkingsmiddelen voor de centra voor deeltijds beroepssecundair onderwijs worden bij het voorschot op het werkingsbudget gevoegd.
+...
 
 ### ART 10.
 
