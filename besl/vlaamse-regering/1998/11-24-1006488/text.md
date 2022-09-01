@@ -10,7 +10,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° het decr
 
 ### ART. 3.
 
-Om in toepassing van artikel 54 van het decreet de onderwijsinspectie toe te laten te oordelen over de gelijkwaardigheid van de leerdoelen van het gevolgde handelingsplan, zendt de directeur voor de leerlingen die in aanmerking komen vóór 1 juni een verantwoordingsdossier naar de inspecteur-coördinator. Dit dossier bevat minimaal een schriftelijke aanvraag, de lijst van de betrokken leerlingen en de gevolgde handelingsplannen. De aanvraag kan betrekking hebben op een groep leerlingen indien zij hetzelfde handelingsplan volgden. Vóór 20 juni brengt de onderwijsinspectie de directeur op de hoogte van haar beslissing.
+...
 
 ### ART. 4.
 
@@ -18,15 +18,23 @@ Om in toepassing van artikel 54 van het decreet de onderwijsinspectie toe te lat
 
 ### ART. 5.
 
-§ 1. Na 20 juni beslist de klassenraad op grond van alle beschikbare   informatie over de toekenning van het getuigschrift van basisonderwijs. De   beraadslaging van de klassenraad wordt schriftelijk vastgelegd. Elk lid van de   klassenraad is tot geheimhouding daarover verplicht.<BR><BR>§ 2. De notulen van   de beraadslaging van de klassenraad worden opgenomen in een speciaal register   dat gedurende ten minste vijftien jaar op school aanwezig moet zijn en door de   onderwijsinspectie kan worden gecontroleerd.<BR><BR>De notulen worden   ondertekend door de voorzitter en door alle leden van de klassenraad.<BR><BR>§   3. In het register vermeld in § 2 wordt naast de naam, voornaam en geboortedatum   van elke leerling vermeld of het getuigschrift basisonderwijs al dan niet werd   uitgereikt.
+§ 1. De klassenraad beslist op grond van alle beschikbare informatie over de toekenning van het getuigschrift van basisonderwijs. De toekenning van het getuigschrift impliceert ook het verlenen van het gunstig advies als bedoeld in artikel 14/1, § 1 van het decreet, voor het lopende schooljaar. De beraadslaging van de klassenraad wordt schriftelijk vastgelegd. Elk lid van de klassenraad is tot geheimhouding daarover verplicht.<br>
+<br>
+§ 2. De notulen van de beraadslaging van de klassenraad worden opgenomen in een speciaal register dat gedurende ten minste vijftien jaar op school aanwezig moet zijn en door de onderwijsinspectie kan worden gecontroleerd.<br>
+<br>
+De notulen worden ondertekend door de voorzitter en door alle leden van de klassenraad.<br>
+<br>
+§ 3. In het register vermeld in § 2 wordt naast de naam, voornaam en geboortedatum van elke leerling vermeld of het getuigschrift basisonderwijs al dan niet werd uitgereikt.
 
 ### ART. 6.
 
-De examencommissies vermeld in artikel 56 van het decreet, zijn   toegankelijk voor iedereen die ten minste negen jaar is.
+...
 
 ### ART. 7.
 
-De examencommissies vermeld in artikel 56 van het decreet engageren zich   om via examens na te gaan of de deelnemer het getuig-schrift basisonderwijs kan   bekomen; de organiserende school staat tijdens de examenperiode in voor het   toezicht op de deelnemers van het examen en reikt een getuigschrift   basisonderwijs uit aan de geslaagden.
+De examencommissies, vermeld in artikel 56 van het decreet, gaan na of de deelnemer het getuigschrift basisonderwijs kan krijgen. Dat gebeurt door een brede evaluatie en beoordeling van alle leergebieden, vermeld in artikel 40 van het decreet, en van de onderdelen van deze leergebieden, zoals vermeld in het besluit van de Vlaamse Regering van 27 mei 1997 tot bepaling van de ontwikkelingsdoelen en de eindtermen van het gewoon basisonderwijs.<br>
+<br>
+De organiserende school staat tijdens de examenperiode in voor het toezicht op de deelnemers aan het examen en zorgt voor hun begeleiding tijdens het examen. De organiserende school reikt een getuigschrift basisonderwijs uit aan de geslaagden.
 
 ### ART. 8.
 
@@ -42,15 +50,15 @@ De onderwijsinspectie houdt toezicht op het verloop en de correctheid van het ex
 
 ### ART. 11.
 
-Het getuigschrift basisonderwijs dat aan de deelnemer wordt uitgereikt, wordt [...  <span class="reference">(geschr. B.V.R. 16 juni 2000, art. 2, I: 1 april 2000)</span> ] afgeleverd vóór 30 juni. Er wordt jaarlijks een alfabetische lijst van deelnemers opgesteld met erop de vermelding "geslaagd" of "niet geslaagd". Deze lijst wordt bewaard in het archief van de inspecteur-generaal.
+Het getuigschrift basisonderwijs dat aan de deelnemer wordt uitgereikt, wordt afgeleverd uiterlijk op 30 juni. Er wordt jaarlijks een alfabetische lijst van deelnemers opgesteld met erop de vermelding "geslaagd" of "niet geslaagd". Deze lijst wordt bewaard in het archief van de inspecteur-generaal.
 
 ### ART. 12.
 
-De schoolbesturen van de in artikel 6 bedoelde scholen ontvangen jaarlijks vanwege het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen een vergoeding van € 125,00 in het jaar dat zij fungeren als examencommissie.
+De schoolbesturen ontvangen jaarlijks vanwege het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen een vergoeding van 1000 euro in het jaar dat hun school fungeert als examencommissie.
 
 ### ART. 13.
 
-Het getuigschrift van basisonderwijs wordt opgesteld overeenkomstig de bij dit besluit gevoegde modellen.
+Het getuigschrift van basisonderwijs wordt opgesteld overeenkomstig het model dat bij dit besluit is gevoegd.
 
 ### ART. 14.
 
@@ -66,8 +74,8 @@ De Vlaamse minister bevoegd voor het onderwijs is belast met de uitvoering van d
 
 ### BIJLAGE 1
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/06_2.pdf#page=23">Bijlage   1</A></P>
+<p><a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/27_1.pdf#page=120">Model van het getuigschrift basisonderwijs</a></p>
 
 ### BIJLAGE 2
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/06_2.pdf#page=25">Bijlage   2</A></P>
+<p>...</p>
