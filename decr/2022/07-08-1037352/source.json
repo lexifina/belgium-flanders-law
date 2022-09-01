@@ -2,16 +2,16 @@
   "codex_id": 1037352,
   "title": "Decreet van 2022-07-08 over diverse maatregelen voor het onderwijs",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037352/VolledigDocument?datum=2022-08-23",
-  "source_sha256": "c7bfbd68eae34d7ca1ff2b3bcfa924ca6758ec315c27bf39dcb703a89eda30f7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037352/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "4d76db2b7d4c3099cc3e0338ccb755276fd64e97d5329919ed9d493e358c9102",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037352&param=informatie",
-  "as_of": "2022-08-23",
+  "as_of": "2022-09-01",
   "made": "2022-07-08",
   "gazette": "2022-08-23",
   "numac": 2022015596,
   "document_start": "2022-09-01",
   "document_end": null,
-  "in_force": "2022-08-23",
-  "article_versions": 12,
-  "record_form": "consolidated version as in force on 2022-08-23; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-09-01",
+  "article_versions": 83,
+  "record_form": "consolidated version as in force on 2022-09-01; future article versions excluded; article text as the API gives it"
 }
