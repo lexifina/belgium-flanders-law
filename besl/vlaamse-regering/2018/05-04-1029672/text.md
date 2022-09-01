@@ -321,10 +321,6 @@ c) danslab Irish/soft shoe;<br>
 d) danslab karakterdans;<br>
 e) danslab tapdans.<br>
 <br>
-In de opties, vermeld in het eerste lid, kan elk vak vermeld in dit artikel als keuzevak gevolgd worden.<br>
-<br>
-In de opties, vermeld in het eerste lid, kan het vak musical-dans als facultatief vak gevolgd worden.<br>
-<br>
 § 4. In de vierde graad kunnen de volgende vakken georganiseerd worden:<br>
 1° in de studierichting choreograaf:<br>
 a) danscompositie en -improvisatie;<br>
@@ -349,10 +345,6 @@ b) danslab volksdans;<br>
 c) danslab Irish/soft shoe;<br>
 d) danslab karakterdans;<br>
 e) danslab tapdans.<br>
-<br>
-In de opties, vermeld in het eerste lid, kan elk vak vermeld in dit artikel als keuzevak gevolgd worden.<br>
-<br>
-In de opties, vermeld in het eerste lid, kan het vak musical-dans als facultatief vak gevolgd worden.<br>
 <br>
 § 5. In de kortlopende studierichting danscultuur kunnen de volgende vakken georganiseerd worden:<br>
 1° danskritiek;<br>
@@ -382,9 +374,13 @@ a) speltheater;<br>
 b) verteltheater;<br>
 4° in de studierichting creërend acteur in de vierde graad:<br>
 a) cabaret en comedy;<br>
-b) kleinkunst;<br>
-c) spreek- en verteltheater;<br>
-d) theatermaker;<br>
+b) figuren- en poppentheater;<br>
+c) improvisatietheater;<br>
+d) kleinkunst;<br>
+e) mime en bewegingstheater;<br>
+f) radio maken;<br>
+g) spreek- en verteltheater;<br>
+h) theatermaker;<br>
 5° in de studierichting theaterregisseur in de vierde graad: regie;<br>
 6° in de kortlopende studierichting woordkunst- en dramacultuur:<br>
 a) woordkunst- en dramacultuur;<br>
@@ -394,6 +390,7 @@ a) proza;<br>
 b) poëzie;<br>
 c) dramateksten;<br>
 d) literaire non-fictie;<br>
+e) literaire teksten;<br>
 8° in de kortlopende studierichting specialisatie woordkunst-drama: de opties, vermeld in punt 3° tot en met 5°.
 
 ## Onderafdeling 2. Vakken
@@ -417,10 +414,6 @@ b) story-telling;<br>
 c) woordstudio;<br>
 4° in de optie woordkunst-drama: woordlab;<br>
 <br>
-In de opties, vermeld in het eerste lid, kan elk vak vermeld in dit artikel als&nbsp;facultatief vak gevolgd worden.<br>
-<br>
-In de opties, vermeld in het eerste lid, kan het vak musical-drama als&nbsp;facultatief vak gevolgd worden.<br>
-<br>
 § 4. In de vierde graad kunnen de volgende vakken georganiseerd worden:<br>
 1° in de studierichting vertolkend acteur in de optie speltheater:<br>
 a) dramalab;<br>
@@ -430,22 +423,16 @@ a) dramalab;<br>
 b) verteltheater-stemregie;<br>
 3° in de studierichting creërend acteur in de optie spreek- en verteltheater:<br>
 a) dramalab;<br>
-b) radio maken;<br>
-c) spreken en presenteren;<br>
-d) storytelling;<br>
+b) spreken en presenteren;<br>
+c) storytelling;<br>
 4° in de studierichting creërend acteur in de optie theatermaker:<br>
 a) cabaret en comedy;<br>
-b) dramaturgie;<br>
-c) figuren- en poppentheater;<br>
-d) improvisatietheater;<br>
-e) dramalab;<br>
-f) mime en bewegingstheater;<br>
-g) procesdrama;<br>
-h) rap- en slampoetry;<br>
-i) theater maken;<br>
-5° in de studierichting creërend acteur in de optie cabaret en comedy:<br>
-a) cabaret en comedy;<br>
 b) dramalab;<br>
+c) dramaturgie;<br>
+d) procesdrama;<br>
+e) rap- en slampoetry;<br>
+f) theater maken;<br>
+5° in de studierichting creërend acteur in de optie cabaret en comedy: cabaret en comedy;<br>
 6° in de studierichting creërend acteur in de optie kleinkunst:<br>
 a) instrument: klassiek;<br>
 b) instrument: oude muziek;<br>
@@ -454,16 +441,16 @@ d) instrument: folk- en wereldmuziek;<br>
 e) dramalab;<br>
 f) spel;<br>
 g) tekstschrijven en -vertolken;<br>
-7° in de studierichting theaterregisseur in de optie regie:<br>
+7° in de studierichting creërend acteur in de optie figuren- en poppentheater: figuren- en poppentheater;<br>
+8° in de studierichting creërend acteur in de optie improvisatietheater: improvisatietheater;<br>
+9° in de studierichting creërend acteur in de optie mime en bewegingstheater: mime en bewegingstheater;<br>
+10° in de studierichting creërend acteur in de optie radio maken: radio maken;<br>
+11° in de studierichting theaterregisseur in de optie regie:<br>
 a) dramaturgie;<br>
 b) spelcoaching;<br>
 c) theatergeschiedenis;<br>
 d) theatertechnieken;<br>
 e) theorie van de regie.<br>
-<br>
-In de opties, vermeld in het eerste lid, kan elk vak vermeld in dit artikel als keuzevak gevolgd worden.<br>
-<br>
-In de opties, vermeld in het eerste lid, kan het vak musical-drama als keuzevak gevolgd worden.<br>
 <br>
 § 5. In de kortlopende studierichting woordkunst- en dramacultuur kunnen de volgende vakken georganiseerd worden:<br>
 1° literatuurgeschiedenis;<br>
@@ -937,9 +924,7 @@ g) muziekgeschiedenis.<br>
 <br>
 § 8. In de kortlopende studierichting specialisatie muziek: alle vakken, vermeld in paragraaf 4.<br>
 <br>
-§ 9. Met behoud van de toepassing van paragraaf 3, tweede lid, kan in n de opties, vermeld in artikel 9, 2° tot en met 7°, elk vak, vermeld in paragraaf 2, 3 en 4, als keuzevak gevolgd worden.<br>
-<br>
-Een leerling kan het vak groepsmusiceren, groepsmusiceren vocaal, groepsmusiceren instrumentaal of begeleidingspraktijk van zijn optie vervangen door het vak groepsmusiceren, groepsmusiceren vocaal, groepsmusiceren instrumentaal of begeleidingspraktijk van een andere optie. Daarvoor is de toestemming van de directeur en de betrokken leerkrachten noodzakelijk.<br>
+§ 9.&nbsp;Een leerling kan het vak groepsmusiceren, groepsmusiceren vocaal, groepsmusiceren instrumentaal of begeleidingspraktijk van zijn optie vervangen door het vak groepsmusiceren, groepsmusiceren vocaal, groepsmusiceren instrumentaal of begeleidingspraktijk van een andere optie. Daarvoor is de toestemming van de directeur en de betrokken leerkrachten noodzakelijk.<br>
 <br>
 Als een academie onderwijsbevoegdheid heeft verworven voor een muziekinstrument, maar niet voor de cluster van muziekinstrumenten waartoe dat muziekinstrument behoort, kan een leerling dat muziekinstrument volgen in een optie waarvoor de academie wel onderwijsbevoegdheid heeft verworven op voorwaarde dat de leerling dat muziekinstrument nog niet eerder gevolgd heeft.<br>
 <br>
@@ -1094,8 +1079,6 @@ In het eerste lid, 12°, wordt verstaan onder historisch toetsinstrument: clavic
 26° viool;<br>
 27° zang.<br>
 <br>
-Personeelsleden die tijdens het schooljaar 2020-2021 worden aangesteld in de vakken instrument: jazz-pop-rock: altviool, instrument: jazz-pop-rock: bastrombone, instrument: jazz-pop-rock: cello of instrument: jazz-pop-rock: eufonium, worden op basis van de studiebewijzen waarover ze beschikken aangesteld op basis van hetzij een ander bekwaamheidsbewijs, hetzij een voldoend geacht bekwaamheidsbewijs zoals die gelden voor de overige instrumenten van het vak instrument: jazz-pop-rock.<br>
-<br>
 § 2. In het vak begeleidingspraktijk: jazz-pop-rock kunnen de volgende muziekinstrumenten georganiseerd worden:<br>
 1° accordeon;<br>
 2° basgitaar;<br>
@@ -1118,6 +1101,7 @@ Personeelsleden die tijdens het schooljaar 2020-2021 worden aangesteld in de vak
 6° diatonische accordeon;<br>
 7° doedelzak;<br>
 8° draailier;<br>
+8/1° flamencogitaar;<br>
 9° folkgitaar;<br>
 10° folkviool;<br>
 11° historische- en slaginstrumenten;<br>
@@ -1138,6 +1122,7 @@ Personeelsleden die tijdens het schooljaar 2020-2021 worden aangesteld in de vak
 4° concertina;<br>
 5° diatonische accordeon;<br>
 6° draailier;<br>
+6/1° flamencogitaar;<br>
 7° folkgitaar;<br>
 8° hommel;<br>
 9° Keltische harp;<br>
@@ -1173,13 +1158,24 @@ Met behoud van de toepassing van artikel 22 van het decreet van 9 maart 2018 kan
 <br>
 Een academie die een opleiding in verschillende trajecten aanbiedt, maakt voor elk traject een afzonderlijk lessenrooster.<br>
 <br>
+In afwijking van artikel 18, 19, 20 en 21 ontwikkelt de academie voor een leerling in de vierde graad die wil doorstromen naar het hoger kunstonderwijs, een specifiek lessenrooster op maat van de ambities van die leerling en de specifieke eindtermen.<br>
+<br>
+De academie besteedt ministens drie lestijden van dat specifieke lessenrooster aan een of meer van de volgende vakken:<br>
+1° de algemene vakken vermeld in artikel 4, tweede lid;<br>
+2° de algemene vakken vermeld in artikel 6, paragraaf 7;<br>
+3° de algemene vakken vermeld in artikel 8, paragraaf 8;<br>
+4° de algemene vakken vermeld in artikel 10, paragraaf 10;<br>
+5° muziekanalyse.<br>
+<br>
+De overige lestijden besteedt de academie aan een of meer vakken van de vierde graad, als de academie onderwijsbevoegdheid heeft verworven voor de optie waartoe dat vak behoort.<br>
+<br>
 § 2. Het lessenrooster geldt voor alle leerlingen die zich voor de optie hebben ingeschreven, tenzij de leerling vrijgesteld is van een vak, conform artikel 34.<br>
 <br>
 Een academie kan voor een opleiding verschillende alternatieve lessenroosters samenstellen waaruit de leerlingen een keuze kunnen maken. De academie kan eveneens in een lessenrooster van een opleiding een of meer reeksen van mogelijke keuzevakken opnemen, waaruit de leerlingen een keuze kunnen maken.<br>
 <br>
 Overeenkomstig artikel 37, § 1, derde lid, van het decreet van 9 maart 2018 kan een leerling die in een bepaalde opleiding is ingeschreven zich niet meer opnieuw inschrijven voor dezelfde opleiding in dezelfde of een andere academie, ook al volgt hij andere keuzevakken. Overeenkomstig hetzelfde artikel kan een leerling die in een bepaalde opleiding is afgestudeerd, zich niet meer opnieuw inschrijven in dezelfde opleiding, ook al volgt hij andere keuzevakken.<br>
 <br>
-Na schriftelijke toestemming van de directeur en de betrokken leerkrachten kan een leerling als aanvulling op het lessenrooster, vermeld in artikel 21, een of meer facultatieve vakken volgen. Met behoud van de toepassing van artikel 10, § 3, tweede lid, komen daarvoor alle vakken vermeld in dit besluit in aanmerking.<br>
+Na schriftelijke toestemming van de directeur en de betrokken leerkrachten kan een leerling als aanvulling op het lessenrooster, vermeld in artikel 18, 19, 20 en 21, een of meer facultatieve vakken volgen. Met behoud van de toepassing van artikel 10, § 3, tweede lid, komen daarvoor alle vakken, vermeld in dit besluit, in aanmerking als de academie onderwijsbevoegdheid heeft verworven voor de optie waartoe die vakken behoren.<br>
 <br>
 § 3. Conform artikel 73 § 2 van het decreet van 9 maart 2018 organiseert een academie gedurende het volledige schooljaar, met uitzondering van de vakantieperiodes en vakantiedagen, vermeld in artikel 25 en 26 van dit besluit, voor elk vak dat ze opneemt in haar lessenrooster, wekelijkse leeractiviteiten, naargelang het aantal lestijden dat ze in een bepaald leerjaar aan dat vak toewijst.<br>
 <br>
@@ -1204,37 +1200,92 @@ In deze paragraaf wordt verstaan onder extramurosactiviteit: een leeractiviteit 
 
 ### ART 18.
 
-§ 1. In de eerste graad wordt de minimale studieomvang van vier wekelijkse lestijden, vermeld in artikel 12, § 3 eerste lid, van het decreet van 9 maart 2018, besteed aan minstens één van de vakken, vermeld in artikel 4, 1°, van dit besluit.<br>
+§ 1. In de eerste graad besteedt een academie de minimale studieomvang van de vier wekelijkse lestijden, vermeld in artikel 12, § 3, eerste lid, van het decreet van 9 maart 2018, aan minstens een van de volgende vakken:<br>
+1° audiovisueel atelier;<br>
+2° beeldatelier.<br>
 <br>
-§ 2. In de tweede graad wordt de minimale studieomvang van acht wekelijkse lestijden, vermeld in artikel 12, § 3 tweede lid, van het decreet van 9 maart 2018, besteed aan het aan de optie gelijknamige vak, vermeld in artikel 4, 2°, van dit besluit.<br>
+§ 2. In de opties audiovisueel atelier en beeldatelier van de tweede graad besteedt een academie de minimale studieomvang van de acht wekelijkse lestijden, vermeld in artikel 12, § 3, tweede lid, van het decreet van 9 maart 2018, aan het vak waarnaar de optie vernoemd is.<br>
 <br>
-§ 3. In de derde graad voor jongeren worden ten minste achttien wekelijkse lestijden van de studieomvang van vierentwintig wekelijkse lestijden, vermeld in artikel 12, § 3, derde lid, van het decreet van 9 maart 2018, besteed aan het met de optie gelijknamige vak.<br>
+§ 3. In de derde graad voor jongeren besteedt de academie ten minste achttien wekelijkse lestijden van de studieomvang van de vierentwintig wekelijkse lestijden, vermeld in artikel 12, § 3, derde lid, van het decreet van 9 maart 2018, aan het vak waarnaar de optie vernoemd is.<br>
 <br>
-De resterende wekelijkse lestijden van de studieomvang van vierentwintig wekelijkse lestijden, vermeld in artikel 12, § 3, derde lid, van het decreet van 9 maart 2018, worden in de optie initiatieatelier besteed aan een of meer van de volgende keuzevakken: het gelijknamige vak van een andere optie, initiatieatelier, digitale beeldverwerking, kunstinitiatie, waarnemingstekenen of wetenschappelijk tekenen.<br>
+De resterende wekelijkse lestijden van de studieomvang van de vierentwintig wekelijkse lestijden, vermeld in artikel 12, § 3, derde lid, van het decreet van 9 maart 2018, besteedt de academie aan een of meer van de volgende keuzevakken:<br>
+1° het gelijknamige vak van een andere optie;<br>
+2° digitale beeldverwerking;<br>
+3° kunstinitiatie;<br>
+4° waarnemingstekenen;<br>
+5° wetenschappelijk tekenen.<br>
 <br>
-§ 4. In de derde graad voor volwassenen worden ten minste zes wekelijkse lestijden van de studieomvang van acht wekelijkse lestijden, vermeld in artikel 12, § 3, vierde lid, van het decreet van 9 maart 2018, besteed aan het met de optie gelijknamige vak.<br>
+§ 4. In de derde graad voor volwassenen besteedt de academie ten minste zes wekelijkse lestijden van de studieomvang van de acht wekelijkse lestijden, vermeld in artikel 12, § 3, vierde lid, van het decreet van 9 maart 2018, aan het vak waarnaar de optie vernoemd is.<br>
 <br>
-De resterende wekelijkse lestijden van de studieomvang van acht wekelijkse lestijden, vermeld in artikel 12, § 3, vierde lid, van het decreet van 9 maart 2018, worden in de optie initiatieatelier besteed aan een of meer van de volgende keuzevakken: het gelijknamige vak van een andere optie, initiatieatelier, digitale beeldverwerking, kunstinitiatie, waarnemingstekenen of wetenschappelijk tekenen.<br>
+De resterende wekelijkse lestijden van de studieomvang van de acht wekelijkse lestijden, vermeld in artikel 12, § 3, vierde lid, van het voormelde decreet, besteedt de academie aan een of meer van de volgende keuzevakken:<br>
+1° het gelijknamige vak van een andere optie;<br>
+2° digitale beeldverwerking;<br>
+3° kunstinitiatie;<br>
+4° waarnemingstekenen;<br>
+5° wetenschappelijk tekenen.<br>
 <br>
-§ 5. In de vierde graad worden ten minste achtentwintig wekelijkse lestijden van de studieomvang van veertig wekelijkse lestijden, vermeld in artikel 12, § 3, vijfde lid, van het decreet van 9 maart 2018, besteed aan het gelijknamige specifiek artistiek atelier van de optie of in het geval van de optie scenografie van de studierichting ontwerper, het vak scenografie of in het geval van de optie ontwerpschetsen van de studierichting ontwerper, het vak ontwerpschetsen.<br>
-<br>
-In afwijking van het eerste lid mogen maximaal twaalf wekelijkse lestijden van het specifiek artistiek atelier van de optie vervangen worden door het specifiek artistiek atelier van een andere optie.<br>
+§ 5. In de vierde graad besteedt de academie ten minste achtentwintig wekelijkse lestijden van de studieomvang van de veertig wekelijkse lestijden, vermeld in artikel 12, § 3, vijfde lid, van het decreet van 9 maart 2018, aan het specifiek artistiek atelier of vak waarnaar de optie vernoemd is. Daarvan mag de academie maximaal twaalf wekelijkse lestijden vervangen door het specifiek atelier van een andere optie.<br>
 <br>
 In afwijking van het eerste lid worden in de optie cross-over-project de wekelijkse lestijden van het vak specifiek artistiek atelier ingevuld door twee of meer specifieke artistieke ateliers van de andere opties, vermeld in artikel 4, eerste lid, 4° tot en met 12°. In plaats van een van de specifieke ateliers kan de leerling ook het vak scenografie volgen. De academie bepaalt na onderhandeling in het lokaal comité de verdeling van de wekelijkse lestijden over de verschillende ateliers en in voorkomend geval het vak scenografie.<br>
 <br>
-De resterende wekelijkse lestijden van de studieomvang van veertig wekelijkse lestijden, vermeld in artikel 12, § 3, vijfde lid, van het decreet van 9 maart 2018, worden besteed aan een of meer van volgende keuzevakken: het gelijknamige specifiek artistiek atelier van een andere optie, digitale beeldverwerking, dramaturgie, expressie, kunst en cultuur, kunst- en cultuurfilosofie, ontwerpschetsen, scenografie, waarnemingstekenen of wetenschappelijk tekenen.
+De academie besteedt de overige lestijden van de studieomvang van veertig wekelijkse lestijden, vermeld in artikel 12, § 3, vijfde lid, van het voormelde decreet, aan een of meer van volgende keuzevakken:<br>
+1° het gelijknamige specifiek artistiek atelier van een andere optie;<br>
+2° digitale beeldverwerking;<br>
+3° dramaturgie;<br>
+4° expressie;<br>
+5° kunst en cultuur;<br>
+6° kunst- en cultuurfilosofie;<br>
+7° ontwerpschetsen;<br>
+8° scenografie;<br>
+9° waarnemingstekenen;<br>
+10° wetenschappelijk tekenen.<br>
+<br>
+§ 6. Een academie kan alleen keuzevakken aanbieden die behoren tot een optie waarvoor ze onderwijsbevoegdheid verworven heeft.<br>
+<br>
+§ 7. In de kortlopende studierichting specialisatie besteedt de academie studieomvang van zestien wekelijkse lestijden, vermeld in artikel 13, § 2, tweede lid, van het decreet van 9 maart 2018, aan een of meer vakken van de vierde graad, die behoren tot een optie waarvoor de academie onderwijsbevoegdheid heeft verworven.
 
 ## Afdeling 3. Dans
 
 ### ART 19.
 
-§ 1. In de eerste graad wordt de minimale studieomvang van twee lestijden, vermeld in artikel 14, § 3, eerste lid, van het decreet van 9 maart 2018, besteed aan het vak dansinitiatie.<br>
+§ 1. In de eerste graad besteedt een academie de minimale studieomvang van twee lestijden, vermeld in artikel 14, § 3, eerste lid, van het decreet van 9 maart 2018, aan het vak dansinitiatie.<br>
 <br>
-In de tweede graad wordt de minimale studieomvang van acht lestijden, vermeld in artikel 14 § 3, tweede lid, van het decreet van 9 maart 2018, besteed aan het vak danslab.<br>
+In de tweede graad besteedt een academie de minimale studieomvang van acht lestijden, vermeld in artikel 14, § 3, tweede lid, van het voormelde decreet, aan het vak danslab.<br>
 <br>
-§ 2. In de opties hedendaagse dans, jazzdans, klassieke dans en urban van de derde en vierde graad wordt minstens de helft van de minimale studieomvang van respectievelijk zeveneneenhalf en negen wekelijkse lestijden, vermeld in artikel 14, § 3, derde en vierde lid, van het decreet van 9 maart 2018, besteed aan het met de optie gelijknamige danslab.<br>
+§ 2. In de opties hedendaagse dans, jazzdans, klassieke dans en urban van de derde graad besteedt een academie minstens de helft van de minimale studieomvang van zeveneneenhalf wekelijkse lestijden, vermeld in artikel 14, § 3, derde lid, van het decreet van 9 maart 2018, aan het danslab waarnaar de optie vernoemd is.<br>
 <br>
-In afwijking van het eerste lid wordt voor de optie werelddans in de derde en de vierde graad de minimale studieomvang van respectievelijk zeveneneenhalf en negen wekelijkse lestijden, vermeld in artikel 14, § 3 derde en vierde lid, van het voormelde decreet, besteed aan een van de vakken vermeld in respectievelijk artikel 6, § 3, eerste lid, 5°, en § 4, eerste lid, 6° en 11°, van dit besluit.
+De overige lestijden besteedt de academie aan een of meer van de volgende keuzevakken:<br>
+1° het danslab van een andere optie;<br>
+2° een danslab dat behoort tot de optie werelddans.<br>
+<br>
+In de optie werelddans van de derde graad besteedt de academie minstens de helft van de minimale studieomvang van zeveneneenhalf wekelijkse lestijden, vermeld in artikel 14, § 3, derde lid, van het voormelde decreet, aan een danslab dat behoort tot de optie werelddans. De overige lestijden besteedt de academie aan een of meer van de volgende keuzevakken:<br>
+1° het danslab van een andere optie;<br>
+2° een ander danslab dat behoort tot de optie werelddans.<br>
+<br>
+§ 3. In de opties hedendaagse dans, jazzdans, klassieke dans en urban van de vierde graad besteedt een academie minstens de helft van de minimale studieomvang van negen wekelijkse lestijden, vermeld in artikel 14, § 3, vierde lid, van het decreet van 9 maart 2018, aan het danslab waarnaar de optie vernoemd is. De overige lestijden van de voormelde opties besteedt de academie aan een of meer van de volgende keuzevakken:<br>
+1° het danslab van een andere optie;<br>
+2° een danslab dat behoort tot de optie werelddans;<br>
+3° danscompositie en improvisatie;<br>
+4° scenografie.<br>
+<br>
+In de optie werelddans van de vierde graad besteedt de academie minstens de helft van de minimale studieomvang van negen wekelijkse lestijden, vermeld in artikel 14, § 3, vierde lid, van het voormelde decreet, aan een danslab dat behoort tot de optie werelddans.<br>
+<br>
+De overige lestijden van de optie werelddans besteedt de academie aan een of meer van de volgende keuzevakken:<br>
+1° het danslab van een andere optie;<br>
+2° een ander danslab dat behoort tot de optie werelddans;<br>
+3° danscompositie en improvisatie;<br>
+4° scenografie.<br>
+<br>
+In de optie choreografie van de vierde graad besteedt de academie minstens de helft van de minimale studieomvang van negen wekelijkse lestijden, vermeld in artikel 14, § 3, vierde lid, van het voormelde decreet, aan het vak danscompositie en -improvisatie.<br>
+<br>
+De overige lestijden van de optie choreografie besteedt de academie aan een of meer van de volgende keuzevakken:<br>
+1° het danslab van een andere optie;<br>
+2° een ander danslab dat behoort tot de optie werelddans;<br>
+3° scenografie.<br>
+<br>
+§ 4. Een academie kan alleen keuzevakken aanbieden die behoren tot een optie waarvoor ze onderwijsbevoegdheid verworven heeft.<br>
+<br>
+§ 5. In de kortlopende studierichting specialisatie besteedt de academie studieomvang van vier wekelijkse lestijden, vermeld in artikel 15, § 2, tweede lid, van het decreet van 9 maart 2018, aan een of meer vakken van de vierde graad, die behoren tot een optie waarvoor de academie onderwijsbevoegdheid heeft verworven.
 
 ## Afdeling 4. Woordkunst-drama
 
@@ -1244,29 +1295,47 @@ In afwijking van het eerste lid wordt voor de optie werelddans in de derde en de
 <br>
 § 2. In de tweede graad wordt de minimale studieomvang van vier lestijden, vermeld in artikel 16, § 3 tweede lid, van het decreet van 9 maart 2018, besteed aan het vak woordatelier.<br>
 <br>
-§ 3. In de derde graad in de optie speltheater wordt de minimale studieomvang van zes lestijden, vermeld in artikel 16 § 3 derde lid, van het decreet van 9 maart 2018, besteed aan de vakken speltheater en dramastudio.<br>
+§ 3. In de derde graad besteedt een academie de minimale studieomvang van de zes lestijden, vermeld in artikel 16, § 3, derde lid, van het decreet van 9 maart 2018, aan de volgende vakken:<br>
+1° in de optie speltheater: speltheater en dramastudio;<br>
+2° in de optie spreken en vertellen: spreken en vertellen en woordstudio;<br>
+3° in de optie woordkunst-drama: woordlab.<br>
 <br>
-In de derde graad wordt in de optie spreken en vertellen de minimale studieomvang van zes lestijden, vermeld in artikel 16 § 3 derde lid, van het voormelde decreet, besteed aan de vakken spreken en vertellen en woordstudio.<br>
+In de derde graad in de optie verteltheater besteedt de academie de minimale studieomvang van de zes lestijden, vermeld in artikel 16, § 3, derde lid, van het voormelde decreet, aan een of meer van de volgende vakken:<br>
+1° storytelling;<br>
+2° woordstudio;<br>
+3° dramastudio.<br>
 <br>
-In de derde graad in de optie verteltheater wordt de minimale studieomvang van zes lestijden, vermeld in artikel 16 § 3, derde lid, van het voormelde decreet, besteed aan minstens een van de vakken storytelling, woordstudio of dramastudio.<br>
+§ 4. In de vierde graad besteedt een academie in elke optie, met uitzondering van de opties cabaret en comedy, figuren- en poppentheater, improvisatietheater, mime en bewegingstheater, radio maken en regie, minstens een lestijd van de studieomvang van de zes lestijden, vermeld in artikel 16, § 3, vierde lid, van het voormelde decreet, aan het vak dramalab.<br>
 <br>
-In de derde graad wordt in de optie woordkunst-drama de minimale studieomvang van de zes lestijden, vermeld in artikel 16 § 3, derde lid van het voormelde decreet, besteed aan het vak woordlab.<br>
-<br>
-§ 4. In de vierde graad wordt in elke optie, met uitzondering van de optie regie, het vak dramalab georganiseerd.<br>
-<br>
-Naast het vak dramalab worden in de volgende opties de volgende vakken georganiseerd:<br>
+Naast het vak dramalab besteedt een academie in de volgende opties minstens een lestijd aan de volgende vakken:<br>
 1° in de optie speltheater: theater;<br>
 2° in de optie verteltheater: verteltheater-stemregie;<br>
-3° in de optie kleinkunst: instrumentvak, tekstschrijven en -vertolken, spel;<br>
-4° in de optie cabaret en comedy: cabaret en comedy.<br>
+3° in de optie kleinkunst: instrumentvak, tekstschrijven en -vertolken, spel.<br>
 <br>
-Onder het instrumentvak in het tweede lid wordt verstaan: het vak instrument: klassiek, vermeld in artikel 11, het vak instrument: oude muziek, vermeld in artikel 12, het vak instrument: jazz-pop-rock, vermeld in artikel 13 of het vak instrument: folk- en wereldmuziek vermeld in artikel 14.<br>
+In het tweede lid, 3°, wordt onder instrumentvak een van de volgende vakken verstaan:<br>
+1° het vak instrument: klassiek, vermeld in artikel 11;<br>
+2° het vak instrument: oude muziek, vermeld in artikel 12;<br>
+3° het vak instrument: jazz-pop-rock, vermeld in artikel 13;<br>
+4° het vak instrument: folk- en wereldmuziek vermeld in artikel 14.<br>
 <br>
-Met behoud van de toepassing van het eerste lid organiseert de academie in de volgende opties een van de volgende vakken:<br>
-1° in de optie spreek- en verteltheater: story-telling, spreken en presenteren of radio maken. De academie kan in die optie ook meer dan één van die vakken aanbieden.;<br>
-2° in de optie theatermaker: theater maken, figuren- en poppentheater, mime en bewegingstheater, improvisatietheater, procesdrama, rap- en slampoetry, cabaret en comedy, dramaturgie. De academie kan in die optie ook meer dan één van die vakken aanbieden.<br>
+De overige lestijden van de opties speltheater, verteltheater of kleinkunst besteedt een academie aan een of meer keuzevakken van de vierde graad woordkunst-drama of het vak musical-drama.<br>
 <br>
-§ 5. In de optie regie worden drie wekelijkse lestijden van de minimale studieomvang van zes lestijden, vermeld in artikel 16, § 3, vierde lid, van het decreet van 9 maart 2018, besteed aan het vak spelcoaching. Voor de resterende drie lestijden heeft de academie de keuze uit de vakken theorie van de regie, dramaturgie, theatertechnieken en theatergeschiedenis.
+Met behoud van de toepassing van het eerste lid organiseert de academie in de volgende opties een of meer van de volgende keuzevakken:<br>
+1° in de optie spreek- en verteltheater: storytelling, spreken en presenteren;<br>
+2° in de optie theatermaker: theater maken, procesdrama, rap- en slampoetry, dramaturgie.<br>
+<br>
+In de opties cabaret en comedy, figuren- en poppentheater, improvisatietheater, mime en bewegingstheater en radio maken wordt de minimale studieomvang van de zes lestijden, vermeld in artikel 16, § 3, vierde lid, van het voormelde decreet, besteed aan het vak waarnaar de optie vernoemd is.<br>
+<br>
+§ 5. In de optie regie besteedt een academie drie wekelijkse lestijden van de minimale studieomvang van de zes lestijden, vermeld in artikel 16, § 3, vierde lid, van het decreet van 9 maart 2018, aan het vak spelcoaching. De overige lestijden besteedt de academie aan een of meer van de volgende keuzevakken:<br>
+1° theorie van de regie;<br>
+2° dramaturgie;<br>
+3° theatertechnieken;<br>
+4° theatergeschiedenis;<br>
+5° een vak uit een andere optie van de vierde graad woordkunst-drama.<br>
+<br>
+§ 6. Een academie kan alleen keuzevakken aanbieden die behoren tot een optie waarvoor ze onderwijsbevoegdheid verworven heeft.<br>
+<br>
+§ 7. In de kortlopende studierichting specialisatie besteedt de academie de studieomvang van vier wekelijkse lestijden, vermeld in artikel 15, § 2, tweede lid, van het decreet van 9 maart 2018, aan een of meer vakken van de vierde graad, die behoren tot een optie waarvoor de academie onderwijsbevoegdheid heeft verworven.
 
 ## Afdeling 5. Muziek
 
@@ -1274,9 +1343,51 @@ Met behoud van de toepassing van het eerste lid organiseert de academie in de vo
 
 § 1. In de eerste graad wordt de minimale studieomvang van twee lestijden, vermeld in artikel 18 § 3 eerste lid, van het decreet van 9 maart 2018, besteed aan het vak muziekinitiatie.<br>
 <br>
-§ 2. In de tweede graad jongeren worden minstens vier wekelijkse lestijden van de minimale studieomvang van twaalf lestijden, vermeld in artikel 18 § 3 tweede lid, van het decreet van 9 maart 2018, besteed aan een van de volgende vakken: het vak muzikale en culturele vorming, muzikale en culturele vorming: klassiek; muzikale en culturele vorming: jazz-pop-rock, muzikale en culturele vorming: oude muziek of muzikale en culturele vorming: folk- en wereldmuziek.<br>
+§ 2. In de tweede graad jongeren besteedt een academie minstens vier wekelijkse lestijden van de minimale studieomvang van twaalf lestijden, vermeld in artikel 18, § 3, tweede lid, van het decreet van 9 maart 2018, aan een van de volgende vakken:<br>
+1° muzikale en culturele vorming;<br>
+2° muzikale en culturele vorming: klassiek;<br>
+3° muzikale en culturele vorming: jazz-pop-rock;<br>
+4° muzikale en culturele vorming: oude muziek;<br>
+5° muzikale en culturele vorming: folk- en wereldmuziek.<br>
 <br>
-§ 3. In de tweede graad volwassenen worden minstens drie wekelijkse lestijden van de minimale studieomvang van 9 lestijden, vermeld in artikel 18 § 3 derde lid, van het decreet van 9 maart 2018, besteed aan een van de volgende vakken: muzikale en culturele vorming, muzikale en culturele vorming: klassiek, muzikale en culturele vorming: jazz-pop-rock, muzikale en culturele vorming: oude muziek, muzikale en culturele vorming: folk- en wereldmuziek.<br>
+De overige lestijden besteedt de academie aan een of meer van de volgende keuzevakken:<br>
+1° groepsmusiceren;<br>
+2° groepsmusiceren instrumentaal: klassiek;<br>
+3° groepsmusiceren instrumentaal: oude muziek;<br>
+4° groepsmusiceren instrumentaal: jazz-pop-rock;<br>
+5 groepsmusiceren instrumentaal: folk- en wereldmuziek;<br>
+6° groepsmusiceren vocaal: klassiek;<br>
+7° groepsmusiceren vocaal: oude muziek;<br>
+8° groepsmusiceren vocaal: jazz-pop-rock;<br>
+9° groepsmusiceren vocaal: folk- en wereldmuziek;<br>
+10° instrument: klassiek;<br>
+11° instrument: oude muziek;<br>
+12° instrument: jazz-pop-rock;<br>
+13° instrument: folk- en wereldmuziek;<br>
+14° een vak van de derde graad muziek.<br>
+<br>
+§ 3. In de tweede graad volwassenen besteedt een academie minstens drie wekelijkse lestijden van de minimale studieomvang van negen lestijden, vermeld in artikel 18, § 3, derde lid, van het decreet van 9 maart 2018, aan een van de volgende vakken:<br>
+1° muzikale en culturele vorming;<br>
+2° muzikale en culturele vorming: klassiek;<br>
+3° muzikale en culturele vorming: jazz-pop-rock;<br>
+4° muzikale en culturele vorming: oude muziek;<br>
+5° muzikale en culturele vorming: folk- en wereldmuziek.<br>
+<br>
+De overige lestijden besteedt de academie aan een of meer van de volgende keuzevakken:<br>
+1° groepsmusiceren;<br>
+2° groepsmusiceren instrumentaal: klassiek;<br>
+3° groepsmusiceren instrumentaal: oude muziek;<br>
+4° groepsmusiceren instrumentaal: jazz-pop-rock;<br>
+5 groepsmusiceren instrumentaal: folk- en wereldmuziek;<br>
+6° groepsmusiceren vocaal: klassiek;<br>
+7° groepsmusiceren vocaal: oude muziek;<br>
+8° groepsmusiceren vocaal: jazz-pop-rock;<br>
+9° groepsmusiceren vocaal: folk- en wereldmuziek;<br>
+10° instrument: klassiek;<br>
+11° instrument: oude muziek;<br>
+12° instrument: jazz-pop-rock;<br>
+13° instrument: folk- en wereldmuziek;<br>
+14° een vak van de derde graad muziek.<br>
 <br>
 § 4. In de derde graad worden drie lestijden van de minimale studieomvang van negen lestijden, vermeld in artikel 18 § 3 vierde lid, van het decreet van 9 maart 2018, in de volgende opties besteed aan de volgende vakken:<br>
 1° in de optie klassiek: instrument: klassiek;<br>
@@ -1288,7 +1399,7 @@ Met behoud van de toepassing van het eerste lid organiseert de academie in de vo
 6° in de optie experimentele muziek: live/studio electronics of dj-vaardigheden.<br>
 7° in de optie muziek schrijven: muziektheorie.<br>
 <br>
-Met behoud van de toepassing van het eerste lid worden in de volgende opties drie wekelijkse lestijden besteed aan de volgende vakken:<br>
+Met behoud van de toepassing van het eerste lid worden in de volgende opties drie wekelijkse lestijden besteed aan minstens een van de volgende vakken:<br>
 1° in de optie klassiek: groepsmusiceren, groepsmusiceren vocaal: klassiek, groepsmusiceren instrumentaal: klassiek of begeleidingspraktijk: klassiek;<br>
 2° in de optie oude muziek: groepsmusiceren, groepsmusiceren vocaal: oude muziek, groepsmusiceren instrumentaal: oude muziek, of begeleidingspraktijk: oude muziek;<br>
 3° in de optie jazz-pop-rock: groepsmusiceren, groepsmusiceren vocaal: jazz-pop-rock, groepsmusiceren instrumentaal: jazz-pop-rock, of begeleidingspraktijk jazz-pop-rock;<br>
@@ -1296,7 +1407,7 @@ Met behoud van de toepassing van het eerste lid worden in de volgende opties dri
 5° in de optie musical: atelier: musical;<br>
 6° in de optie opera/muziektheater: atelier: opera/muziektheater;<br>
 <br>
-De resterende wekelijkse lestijden van de minimale studieomvang, vermeld in het eerste lid, worden besteed aan een of meer van de vakken van de tweede, derde of vierde graad muziek, vermeld in artikel 10, § 2 tot en met 4.<br>
+De overige wekelijkse lestijden van de minimale studieomvang, vermeld in het eerste lid, besteedt de academie aan een of meer keuzevakken. Alle vakken van de derde en vierde graad muziek komen daarvoor in aanmerking als de academie onderwijsbevoegdheid heeft verworven voor de optie waartoe die vakken behoren.<br>
 <br>
 § 5. In de vierde graad studierichting vertolkend muzikant worden drie wekelijkse lestijden van de minimale studieomvang van zes wekelijkse lestijden, vermeld in artikel 18, § 3 vijfde lid, van het decreet van 9 maart 2018, besteed aan de volgende vakken:<br>
 1° in de optie klassiek: instrument: klassiek;<br>
@@ -1310,9 +1421,9 @@ Met behoud van de toepassing van het eerste lid worden drie wekelijkse lestijden
 <br>
 Met behoud van de toepassing van het eerste lid worden drie wekelijkse lestijden in de optie opera/muziektheater besteed aan het vak atelier: opera/muziektheater.<br>
 <br>
-De resterende wekelijkse lestijden van de minimale studieomvang van zes wekelijkse lestijden, vermeld in artikel 18, § 3, vijfde lid, van het decreet van 9 maart 2018, worden besteed aan een of meer van de vakken van de tweede, derde of vierde graad muziek, vermeld in artikel 10, § 2 tot en met § 4"<br>
+De overige wekelijkse lestijden van de minimale studieomvang van zes wekelijkse lestijden, vermeld in artikel 18, § 3, vijfde lid, van het decreet van 9 maart 2018, besteedt de academie aan een of meer keuzevakken. Alle vakken van de vierde graad muziek komen daarvoor in aanmerking als de academie onderwijsbevoegdheid heeft verworven voor de optie waartoe die vakken behoren.<br>
 <br>
-§ 6. In de vierde graad studierichting creërend muzikant worden drie wekelijkse lestijden van de minimale studieomvang van zes wekelijkse lestijden, vermeld in artikel 18 § 3 vijfde lid, van het decreet van 9 maart 2018, besteed aan één van de volgende vakken:<br>
+§ 6. In de vierde graad studierichting creërend muzikant worden drie wekelijkse lestijden van de minimale studieomvang van zes wekelijkse lestijden, vermeld in artikel 18 § 3 vijfde lid, van het decreet van 9 maart 2018, besteed aan minstens een van de volgende vakken:<br>
 1° in de optie klassiek: compositie: klassiek of instrument: klassiek;<br>
 2° in de optie jazz-pop-rock: compositie: jazz-pop-rock of instrument: jazz-pop-rock;<br>
 3° in de optie folk- en wereldmuziek: compositie: folk- en wereldmuziek of instrument: folk- en wereldmuziek;<br>
@@ -1322,15 +1433,19 @@ De resterende wekelijkse lestijden van de minimale studieomvang van zes wekelijk
 6° in de optie muziekproductie: muziekproductie;<br>
 7° in de optie oude muziek: improvisatie of instrument: oude muziek<br>
 <br>
-De resterende wekelijkse lestijden van de minimale studieomvang van zes wekelijkse lestijden, vermeld in artikel 18, § 3, vijfde lid, van het decreet van 9 maart 2018, worden besteed aan een of meer van de vakken van de tweede, derde of vierde graad muziek, vermeld in artikel 10, § 2 tot en met § 4.<br>
+De overige wekelijkse lestijden van de minimale studieomvang van zes lestijden, vermeld in artikel 18, § 3, vijfde lid, van het decreet van 9 maart 2018, besteedt de academie aan een of meer keuzevakken. Alle vakken van de vierde graad muziek, vermeld in artikel 10, § 4, van dit besluit, komen daarvoor in aanmerking als de academie onderwijsbevoegdheid heeft verworven voor de optie waartoe die vakken behoren.<br>
 <br>
-§ 7. In de vierde graad van de studierichting dirigent worden in de optie dirigent vocale muziek drie lestijden van de minimale studieomvang van zes wekelijkse lestijden, vermeld in artikel 18, § 3 vijfde lid, van het decreet van 9 maart 2018, besteed aan de vakken koordirectie en analyse en begeleidingspraktijk.<br>
+§ 7. In de vierde graad van de studierichting dirigent besteedt een academie in totaal drie lestijden van de minimale studieomvang van zes wekelijkse lestijden, vermeld in artikel 18, § 3, vijfde lid, van het decreet van 9 maart 2018, aan de volgende vakken:<br>
+1° in de optie dirigent vocale muziek: koordirectie en analyse en begeleidingspraktijk;<br>
+2° in de optie dirigent instrumentale muziek: directie instrumentale muziek en analyse en begeleidingspraktijk.<br>
 <br>
-In de vierde graad van de studierichting dirigent worden in de optie dirigent instrumentale muziek drie wekelijkse lestijden van de minimale studieomvang van zes wekelijkse lestijden, vermeld in artikel 18, § 3 vijfde lid, van het voormelde decreet, besteed aan de vakken directie instrumentale muziek en analyse en begeleidingspraktijk.<br>
+De overige wekelijkse lestijden van de minimale studieomvang van zes wekelijkse lestijden, vermeld in artikel 18, § 3, vijfde lid, van het voormelde decreet, besteedt de academie aan een of meer keuzevakken. Alle vakken van de vierde graad muziek komen daarvoor in aanmerking als de academie onderwijsbevoegdheid heeft verworven voor de optie waartoe die vakken behoren.<br>
 <br>
-De resterende wekelijkse lestijden van de minimale studieomvang van zes wekelijkse lestijden, vermeld in artikel 18, § 3, vijfde lid, van het decreet van 9 maart 2018, worden besteed aan een of meer van de vakken van de tweede, derde of vierde graad muziek, vermeld in artikel 10, § 2 tot en met § 4.<br>
+§ 8. In de vierde graad studierichting dj worden in de optie dj drie wekelijkse lestijden van de minimale studieomvang van zes lestijden, vermeld in artikel 18 § 3 vijfde lid, van het decreet van 9 maart 2018, besteed aan het vak dj-vaardigheden.<br>
 <br>
-§ 8. In de vierde graad studierichting dj worden in de optie dj drie wekelijkse lestijden van de minimale studieomvang van zes lestijden, vermeld in artikel 18 § 3 vijfde lid, van het decreet van 9 maart 2018, besteed aan het vak dj-vaardigheden.
+De overige wekelijkse lestijden besteedt de academie aan een of meer keuzevakken. Alle vakken van de vierde graad muziek komen daarvoor in aanmerking als de academie onderwijsbevoegdheid heeft verworven voor de optie waartoe die vakken behoren.<br>
+<br>
+§ 9. In de kortlopende studierichting specialisatie besteedt de academie studieomvang van vier wekelijkse lestijden, vermeld in artikel 19, § 2, tweede lid, van het decreet van 9 maart 2018, aan een of meer vakken van de vierde graad, die behoren tot een optie waarvoor de academie onderwijsbevoegdheid heeft verworven.
 
 ### ART 22.
 
@@ -1402,7 +1517,7 @@ De dag voor, van en na de bij wet of decreet bepaalde parlementaire, provinciale
 <br>
 Voor wat de leeftijdsvoorwaarden betreft, legt de leerling een geldig identiteitsbewijs voor.<br>
 <br>
-Een leerling die op basis van zijn leeftijd een opleiding start in een structuuronderdeel voor jongeren, kan alle leerjaren van zijn opleiding in dat structuuronderdeel volgen.<br>
+Een leerling die op basis van zijn leeftijd een opleiding start in een structuuronderdeel voor jongeren, kan alle leerjaren van die opleiding in dat structuuronderdeel volgen op voorwaarde dat de opleiding niet onderbroken wordt.<br>
 <br>
 Om aan te tonen dat hij de vereiste basiscompetenties verworven heeft, legt de leerling een van de volgende schriftelijke of elektronische documenten voor:<br>
 1° een leerbewijs van de graad die hij met goed gevolg in het desbetreffende domein heeft afgewerkt;<br>
@@ -1414,7 +1529,7 @@ In het derde lid, 4°, wordt verstaan onder competentiedocument: een schriftelij
 <br>
 De leerling start in het eerste leerjaar van zijn opleiding, tenzij de directeur in samenspraak met de betrokken leerkrachten oordeelt dat de leerling in een hoger leerjaar kan starten. De leerling kan evenwel niet verplicht worden om in een hoger leerjaar te starten.<br>
 <br>
-§ 2. Een leerling die bij zijn inschrijving niet kan aantonen dat hij de vereiste basiscompetenties verworven heeft, kan voorlopig ingeschreven worden voor een toelatingsperiode in de opleiding van zijn keuze als hij voldoet aan&nbsp;de toelatingsvoorwaarden voor de leeftijd, vermeld in artikel 29 tot en met 33 van het decreet van 9 maart 2018.<br>
+§ 2. Een leerling die bij zijn inschrijving niet kan aantonen dat hij de vereiste basiscompetenties verworven heeft, kan voorlopig ingeschreven worden voor een toelatingsperiode in de opleiding van zijn keuze als hij voldoet aan&nbsp;de toelatingsvoorwaarden voor de leeftijd, vermeld in artikel 29 van het decreet van 9 maart 2018.<br>
 <br>
 In het eerste lid wordt verstaan onder toelatingsperiode: periode van voorlopige toelating tot een opleiding om te bepalen of de leerling beschikt over de competenties om de opleiding in kwestie succesvol te volgen.<br>
 <br>
@@ -1422,7 +1537,9 @@ Uiterlijk twee maanden na de start van het schooljaar beoordeelt de directeur op
 <br>
 De academie houdt een register bij met de aanvragen en gemotiveerde beslissingen over de toelatingsperiodes, dat ter inzage aan het Agentschap voor Onderwijsdiensten en aan de onderwijsinspectie kan worden voorgelegd.<br>
 <br>
-Een leerling die niet voldoet aan de toelatingsvoorwaarden, vermeld in artikel 29 tot en met 36 van het decreet van 9 maart 2018, en voor wie de aanvraag en gemotiveerde beslissing over de toelatingsperiode ontbreekt, is niet regelmatig.
+Een leerling die niet voldoet aan de toelatingsvoorwaarden, vermeld in artikel 29 tot en met 36 van het decreet van 9 maart 2018, en voor wie de aanvraag en gemotiveerde beslissing over de toelatingsperiode ontbreekt, is niet regelmatig.<br>
+<br>
+Een leerling die niet voldoet aan de toelatingsvoorwaarde voor de leeftijd, vermeld in artikel 32, vijfde lid, van het decreet van 9 maart 2018, kan niet via een toelatingsperiode ingeschreven worden in de derde graad beeldende en audiovisuele kunsten voor volwassenen.
 
 ### ART 31.
 
@@ -1503,20 +1620,22 @@ Een leerling kan op advies van de betrokken leerkrachten en na toestemming van d
 ### ART 35/3.
 
 Leerlingen zijn gewettigd afwezig als ze afwezig zijn om een van de volgende redenen:<br>
-1° door ziekte, na voorlegging van een medisch attest;<br>
+1° door ziekte, mits het voorleggen van een schriftelijke verantwoording van de ouders of meerderjarige leerling als de afwezigheid van een dag maximaal vier keer in hetzelfde schooljaar heeft plaats gevonden. In alle andere gevallen is een medisch attest nodig;<br>
 2° om een begrafenis- of huwelijksplechtigheid bij te wonen van een bloed- of aanverwant of van een persoon die onder hetzelfde dak woont;<br>
 3° om een religieuze feestdag te vieren van een door de Belgische Grondwet erkende levensbeschouwelijke overtuiging;<br>
 4° als de vestigingsplaats van de academie onbereikbaar of ontoegankelijk is;<br>
 5° wegens een oproeping of dagvaarding voor een rechtbank;<br>
-6° wegens maatregelen van de bijzondere jeugdzorg;<br>
+6° wegens maatregelen van de bijzondere jeugdzorg en de jeugdbescherming;<br>
 7° om een familieraad bij te wonen;<br>
 8° om actief deel te nemen aan een sportmanifestatie, stage, toernooi of wedstrijd als topsportbelofte voor een individuele selectie of als topsporter met een A- of B-statuut;<br>
 9° om actief deel te nemen aan een culturele manifestatie als de leerling een topkunstenstatuut A of B heeft voor het betrokken schooljaar;<br>
 10° wegens deelname aan een examen voor de Examencommissie secundair onderwijs;<br>
-11° door een zwangerschap: maximum 1 week voor de vermoedelijke bevallingsdatum tot maximum 9 weken na de bevalling;<br>
+11° door een zwangerschap: minimaal een week voor de vermoedelijke bevallingsdatum tot maximaal veertien weken na de bevalling, met een maximum van vijftien weken;<br>
 12° door de uitvoering van een orde- of tuchtmaatregel;<br>
 13° wegens school- of beroepsverplichtingen;<br>
-14° wegens bepalingen in de verblijfsregeling van kinderen van gescheiden ouders.<br>
+14° wegens bepalingen in de verblijfsregeling van kinderen van gescheiden ouders;<br>
+15° om als lid van een amateurkunstenorganisatie actief deel te nemen aan een culturele manifestatie;<br>
+16° door deelname aan een oudercontact of een participatieorgaan van een onderwijsinstelling.<br>
 <br>
 Het Agentschap voor Onderwijsdiensten bepaalt de documenten die voorgelegd moeten worden om de afwezigheid om een van de redenen, vermeld in het eerste lid, te staven.<br>
 <br>
@@ -1794,7 +1913,7 @@ De A-coëfficiënt wordt voor 100% in rekening gebracht.<br>
 <br>
 Het krediet wordt toegekend met een voorschot van 60% van het krediet in de loop van de maand november van het schooljaar in kwestie en het resterende saldo van 40% in de loop van de maand februari die daarop volgt. Maximaal de helft van de middelen kunnen overgedragen worden naar het krediet van het volgende schooljaar.<br>
 <br>
-In afwijking van het vierde lid kunnen alle niet-gebruikte middelen voor voordrachtgevers in het schooljaar 2019-2020 worden overdragen naar het krediet van het volgende schooljaar 2020-2021.
+Het schoolbestuur meldt uiterlijk op 31 oktober van het schooljaar in kwestie aan het Agentschap voor Onderwijsdiensten hoeveel lestijden omgezet worden naar een krediet voor voordrachtgevers.
 
 ### ART 42.
 
@@ -2002,7 +2121,7 @@ Als een academie onderwijsbevoegdheid heeft verworven voor een cluster waarvan d
 
 Een schoolbestuur kan onderwijsbevoegdheid aanvragen voor een optie die niet in artikel 3, 5, 7 of 9 voorkomt of een muziekinstrument dat niet in artikel 11 tot en met 14 voorkomt. Het schoolbestuur kan daarbij een voorstel tot een nieuw vak toevoegen.<br>
 <br>
-In het geval, vermeld in het eerste lid, dient het schoolbestuur een gemotiveerde aanvraag in bij het Agentschap voor Onderwijsdiensten, dat de ontvankelijkheid beoordeelt conform artikel 56, § 1, eerste lid. Het agentschap legt de vraag vervolgens voor aan de Vlaamse Onderwijsraad en een commissie bestaande uit de Onderwijsinspectie, het Agentschap voor Onderwijsdiensten en het Departement Onderwijs en Vorming. Op basis van dat advies neemt de Vlaamse Regering een beslissing.<br>
+In het geval, vermeld in het eerste lid, dient het schoolbestuur een gemotiveerde aanvraag in bij het Agentschap voor Onderwijsdiensten, dat de ontvankelijkheid beoordeelt conform artikel 56, § 1, eerste lid. Het agentschap legt de vraag vervolgens voor aan de Vlaamse Onderwijsraad en een commissie bestaande uit de Onderwijsinspectie, het Agentschap voor Onderwijsdiensten en het Departement Onderwijs en Vorming. Op basis van dat advies neemt de minister een beslissing voor 15 mei.<br>
 <br>
 Bij de beoordeling van de aanvragen houdt de adviescommissie, naast de criteria vermeld in artikel 56 § 1 derde lid, rekening met de volgende criteria:<br>
 1° de mate waarin de aangevraagde optie of het aangevraagde vak of muziekinstrument zich onderscheidt van het bestaande aanbod, vermeld in artikel 3 tot en met 15;<br>
@@ -2024,9 +2143,9 @@ Met toepassing van artikel 88, § 2 van het voormelde decreet wordt de gemotivee
 
 ### ART 60.
 
-Het schoolbestuur kan binnen dertig kalenderdagen na de ontvangst van de brief, vermeld in artikel 59, tweede lid, met een aangetekende brief beroep aantekenen bij het Agentschap voor Onderwijsdiensten. De herfstvakantie, kerstvakantie, krokusvakantie, paasvakantie en zomervakantie schorten de voormelde termijn van dertig kalenderdagen op.<br>
+Het schoolbestuur kan binnen dertig kalenderdagen na de ontvangst van de brief, vermeld in artikel 59, tweede lid, met een aangetekende brief aan de minister beroep aantekenen bij de minister. De herfstvakantie, kerstvakantie, krokusvakantie, paasvakantie en zomervakantie schorten de voormelde termijn van dertig kalenderdagen op.<br>
 <br>
-Uiterlijk dertig kalenderdagen na de ontvangst van het aangetekende beroep neemt het Agentschap voor Onderwijsdiensten er een beslissing over. De indiener van het beroep heeft het recht om binnen die periode gehoord te worden. Het agentschap kan de financiële sanctie bevestigen, aanpassen of vernietigen. De gemotiveerde beslissing wordt met een aangetekende brief aan het schoolbestuur meegedeeld.
+Uiterlijk dertig kalenderdagen na de ontvangst van het aangetekende beroep neemt de minister er een beslissing over. De indiener van het beroep heeft het recht om binnen die periode gehoord te worden. De minister kan de financiële sanctie bevestigen, aanpassen of vernietigen. De gemotiveerde beslissing wordt met een aangetekende brief aan het schoolbestuur meegedeeld.
 
 ## HOOFDSTUK 9. Wijzigingsbepalingen
 
@@ -2095,6 +2214,14 @@ In afwijking van artikel 65 kunnen de academies die in het schooljaar 2017-2018 
 <br>
 In afwijking van artikel 65 kan de academie die in het schooljaar 2017-2018 het tijdelijke project sounddesign organiseerde, vanaf het schooljaar 2018-2019 de optie sounddesign in de vierde graad van de studierichting ontwerper en in de kortlopende studierichting specialisatie beeldende en audiovisuele kunsten, organiseren.<br>
 <br>
+In afwijking van artikel 55 en 56, § 1 en 2, hebben academies die onderwijsbevoegdheid verworven hebben voor de optie theatermaker en in het schooljaar 2021-2022 het vak figuren- en poppentheater georganiseerd hebben, onderwijsbevoegdheid verworven voor de optie figuren- en poppentheater.<br>
+<br>
+In afwijking van artikel 55 en 56, § 1 en 2, hebben academies die onderwijsbevoegdheid verworven hebben voor de optie theatermaker en in het schooljaar 2021-2022 het vak improvisatietheater georganiseerd hebben, onderwijsbevoegdheid verworven voor de optie improvisatietheater.<br>
+<br>
+In afwijking van artikel 55 en 56, § 1 en 2, hebben academies die onderwijsbevoegdheid verworven hebben voor de optie theatermaker en in het schooljaar 2021-2022 het vak mime en bewegingstheater georganiseerd hebben, onderwijsbevoegdheid verworven voor de optie mime en bewegingstheater.<br>
+<br>
+In afwijking van artikel 55 en 56, § 1 en 2, hebben academies die onderwijsbevoegdheid verworven hebben voor de optie spreek- en verteltheater en in het schooljaar 2021-2022 het vak radio maken georganiseerd hebben, onderwijsbevoegdheid verworven voor de optie radio maken.<br>
+<br>
 § 3. Artikel 63 is van toepassing op de inschaling van de leerlingen die in het schooljaar 2017-2018 een tijdelijk project volgden.
 
 ## Afdeling 3. Inwerkingtreding
@@ -2115,11 +2242,11 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE 2.
 
-...
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/27_1.pdf#page=1264">Clusters in functie van het aanvragen onderwijsbevoegdheid</a>
 
 ### BIJLAGE 3.
 
-...
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/27_1.pdf#page=1270">Bijlage 3</a>
 
 ### BIJLAGE 2.
 
