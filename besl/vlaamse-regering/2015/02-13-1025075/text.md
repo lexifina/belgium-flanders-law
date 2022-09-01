@@ -53,8 +53,7 @@ b) overstromingsgebieden langs die waterwegen of waterlopen of aangelegd door de
 9° aanvragen met betrekking tot kerncentrales en installaties voor de berging en verwerking van splijtstoffen;<br>
 10° aanvragen met betrekking tot de volgende installaties voor de productie van elektriciteit:<br>
 a) installaties met een vermogen van meer dan 1.000 MW, die aantakken op het openbare elektriciteitsnet;<br>
-b) installaties voor het opwekken van elektriciteit door windenergie met een vermogen per windturbine van 1.500 kW of meer binnen de grenzen van de zeehavens van Oostende, Zeebrugge, Gent en Antwerpen, zoals afgebakend in een ruimtelijk uitvoeringsplan;<br>
-c) installaties voor het opwekken van elektriciteit door windenergie vanaf vijf windturbines per aanvraag, met een vermogen per windturbine van 1.500 kW of meer, buiten de gebieden vermeld in punt b;<br>
+b) installaties voor het opwekken van elektriciteit door windenergie met een elektrisch vermogen per windturbine van meer dan 1.500 kW;<br>
 11° aanvragen met betrekking tot het transmissienet en het plaatselijke vervoersnet van elektriciteit;<br>
 12° aanvragen met betrekking tot installaties voor het opsporen en het winnen van koolwaterstoffen uit de ondergrond;<br>
 13° aanvragen met betrekking tot installaties voor het opsporen van potentiële opslagcomplexen voor koolstofdioxide en met betrekking tot het geologisch opslaan van koolstofdioxide;<br>
@@ -89,5 +88,5 @@ b) permanente omlopen voor motorvoertuigen of motorvaartuigen;<br>
 c) golfterreinen met meer dan 8 holes en minder dan 18 holes;<br>
 4° aanvragen met betrekking tot ontginningsgebieden;<br>
 5° aanvragen met betrekking tot kleinhandelsactiviteiten met een netto handelsoppervlakte van meer dan 20.000 vierkante meter, gelegen buiten de gemeenten Aalst, Antwerpen, Brugge, Genk, Gent, Hasselt, Kortrijk, Leuven, Mechelen, Oostende, Roeselare, Sint-Niklaas en Turnhout;<br>
-6° aanvragen met betrekking tot installaties voor het opwekken van elektriciteit door windenergie tot en met vier windturbines per aanvraag, met een vermogen per windturbine van meer dan 1.500 kW, buiten de grenzen van de zeehavens van Oostende, Zeebrugge, Gent en Antwerpen, zoals afgebakend in een ruimtelijk uitvoeringsplan;<br>
+6° ...;<br>
 7° ....
