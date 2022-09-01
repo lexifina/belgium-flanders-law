@@ -156,12 +156,14 @@ In afwijking van het eerste lid kan een leerling voor de uitvoering van zijn alt
 
 ### ART 4.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De overeenkomsten, vermeld in artikel 3, kunnen enkel worden gesloten door:</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° een leerling die overeenkomstig de vigerende onderwijsdecreten of -regelgeving een regelmatige leerling is of zijn wettelijke vertegenwoordiger;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° een overeenkomstig artikel 7, §§ 1 tot en met 3, erkende onderneming;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° een opleidingsverstrekker.<br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">De overeenkomsten, vermeld in artikel 3, kunnen enkel worden gesloten door:</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">1° een leerling die overeenkomstig de vigerende onderwijsdecreten of -regelgeving een regelmatige leerling is of zijn wettelijke vertegenwoordiger;</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">2° een overeenkomstig artikel 7, §§ 1 tot en met 3, erkende onderneming;</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">3° een opleidingsverstrekker.<br>
 <br>
-In afwijking van het eerste lid, 2°, kan een overeenkomst worden gesloten met een onderneming die is gevestigd buiten de Vlaamse Gemeenschap en die aldaar door de betrokken bevoegde instantie is erkend als werkplek in het kader van een gelijkwaardig opleidingssysteem van alternerend leren en werken.</span><br>
+In afwijking van het eerste lid, 2°, kan een overeenkomst worden gesloten met een onderneming die is gevestigd buiten de Vlaamse Gemeenschap en die aldaar door de betrokken bevoegde instantie is erkend als werkplek in het kader van een gelijkwaardig opleidingssysteem van alternerend leren en werken.<br>
+<br>
+In afwijking van het eerste lid, kan een overeenkomst als vermeld in artikel 3, worden gesloten door een leerling die is ingeschreven in een onderwijs-of opleidingsinstelling, gevestigd in de Franse of Duitstalige Gemeenschap van België of in het buitenland en aldaar erkend door de betrokken bevoegde instantie als lesplek in het kader van een gelijkwaardig opleidingssysteem van alternerend leren en werken. Deze overeenkomst wordt gesloten tussen de leerling, de betrokken onderwijs-of opleidingsinstelling en een overeenkomstig artikel 7, § 1 tot en met § 3, erkende onderneming.</span><br>
 &nbsp;
 
 ### ART 5.
@@ -186,45 +188,45 @@ De onderneming kan om het opleidingsplan van de leerling uit te voeren een onder
 
 ### ART 7.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 1. Om erkend te kunnen worden of te blijven, moet de onderneming minimaal voldoen aan de volgende voorwaarden:</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° zij moet binnen de onderneming een mentor aanduiden die:</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">a) van onberispelijk gedrag is zoals dat blijkt uit een uittreksel uit het strafregister dat niet langer dan één jaar tevoren werd afgegeven;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">b) ten volle 25 jaar oud is en ten minste vijf jaar praktijkervaring heeft in het beroep;<br>
-c) een mentoropleiding moet volgen;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° zij moet op het vlak van de organisatie en de bedrijfsuitrusting voldoen om de opleiding op de werkplek van een leerling mogelijk te maken overeenkomstig het opleidingsplan;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° zij moet voldoende financiële draagkracht hebben om de continuïteit van de onderneming te waarborgen;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° zij mag geen veroordelingen hebben opgelopen.</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">§ 1. Om erkend te kunnen worden of te blijven, moet de onderneming minimaal voldoen aan de volgende voorwaarden:</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">1° zij moet binnen de onderneming een mentor aanduiden die:</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">a) van onberispelijk gedrag is zoals dat blijkt uit een uittreksel uit het strafregister dat niet langer dan één jaar tevoren werd afgegeven;</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">b) ten volle 25 jaar oud is en ten minste vijf jaar praktijkervaring heeft in het beroep;<br>
+c) een mentoropleiding moet volgen behalve als hij daarvan wordt vrijgesteld;</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">2° zij moet op het vlak van de organisatie en de bedrijfsuitrusting voldoen om de opleiding op de werkplek van een leerling mogelijk te maken overeenkomstig het opleidingsplan;</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">3° zij moet voldoende financiële draagkracht hebben om de continuïteit van de onderneming te waarborgen;</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">4° zij mag geen veroordelingen hebben opgelopen.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In afwijking van het eerste lid kan het Vlaams Partnerschap Duaal Leren:</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° de leeftijd terugbrengen tot 23 jaar als de mentor een bewijs van vooropleiding in het beroep voorlegt;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° een afwijking verlenen van de vereiste praktijkervaring in het beroep als de mentor een bewijs van vooropleiding in het beroep voorlegt;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° beslissen dat de veroordeling niet relevant is om de erkenning van de onderneming te weigeren.</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">In afwijking van het eerste lid kan het Vlaams Partnerschap Duaal Leren:</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">1° de leeftijd terugbrengen tot 23 jaar als de mentor een bewijs van vooropleiding in het beroep voorlegt;</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">2° een afwijking verlenen van de vereiste praktijkervaring in het beroep als de mentor een bewijs van vooropleiding in het beroep voorlegt;</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">3° beslissen dat de veroordeling niet relevant is om de erkenning van de onderneming te weigeren.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De Vlaamse Regering zal de voorwaarden, vermeld in het eerste lid, nader bepalen en zal voorwaarden opleggen om de kwaliteit van de opleiding en van het mentorschap in de onderneming te garanderen.</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">De Vlaamse Regering zal de voorwaarden, vermeld in het eerste lid, nader bepalen en zal voorwaarden opleggen om de kwaliteit van de opleiding en van het mentorschap in de onderneming te garanderen.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 2. De onderneming moet een aanvraag tot erkenning indienen bij het Vlaams Partnerschap Duaal Leren.</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">§ 2. De onderneming moet een aanvraag tot erkenning indienen bij het Vlaams Partnerschap Duaal Leren.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De aanvraag tot erkenning moet gebeuren voor elke alternerende opleiding waarvoor de onderneming een overeenkomst wil sluiten en voor elke vestiging waar zij leerlingen wil opleiden.</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">De aanvraag tot erkenning moet gebeuren voor elke alternerende opleiding waarvoor de onderneming een overeenkomst wil sluiten en voor elke vestiging waar zij leerlingen wil opleiden.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het Vlaams Partnerschap Duaal Leren neemt binnen veertien dagen na de ontvangst van de aanvraag, vermeld in het eerste lid, een beslissing over de erkenning van de onderneming.</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">Het Vlaams Partnerschap Duaal Leren neemt binnen veertien dagen na de ontvangst van de aanvraag, vermeld in het eerste lid, een beslissing over de erkenning van de onderneming.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 3. Met behoud van de toepassing van paragraaf 4 geldt de erkenning van de onderneming voor een duur van vijf jaar vanaf de datum van de beslissing tot erkenning.</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">§ 3. Met behoud van de toepassing van paragraaf 4 geldt de erkenning van de onderneming voor een duur van vijf jaar vanaf de datum van de beslissing tot erkenning.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 4. Het Vlaams Partnerschap Duaal Leren kan de erkenning van de onderneming opheffen als de onderneming niet meer voldoet aan de erkenningsvoorwaarden of als de onderneming haar verbintenissen en plichten niet naleeft.</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">§ 4. Het Vlaams Partnerschap Duaal Leren kan de erkenning van de onderneming opheffen als de onderneming niet meer voldoet aan de erkenningsvoorwaarden of als de onderneming haar verbintenissen en plichten niet naleeft.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Opheffing van de erkenning van de onderneming houdt in dat de onderneming geen overeenkomsten tot uitvoering van de alternerende overeenkomst kan sluiten zolang zij niet opnieuw erkend is.</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">Opheffing van de erkenning van de onderneming houdt in dat de onderneming geen overeenkomsten tot uitvoering van de alternerende overeenkomst kan sluiten zolang zij niet opnieuw erkend is.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 5. De onderneming kan tegen de niet-erkenning of tegen de opheffing van de erkenning een beroep aantekenen.</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">§ 5. De onderneming kan tegen de niet-erkenning of tegen de opheffing van de erkenning een beroep aantekenen.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De Vlaamse Regering bepaalt de procedure voor het beroep.</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">De Vlaamse Regering bepaalt de procedure voor het beroep.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 6. Het Vlaams Partnerschap Duaal Leren kan bij de opheffing van de erkenning van de onderneming beslissen tot uitsluiting van de onderneming als zij haar verbintenissen of verplichtingen niet naleeft. De uitsluiting kan tijdelijk of definitief zijn.</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">§ 6. Het Vlaams Partnerschap Duaal Leren kan bij de opheffing van de erkenning van de onderneming beslissen tot uitsluiting van de onderneming als zij haar verbintenissen of verplichtingen niet naleeft. De uitsluiting kan tijdelijk of definitief zijn.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Uitsluiting van de onderneming houdt in dat zij geen nieuwe erkenning kan aanvragen.</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">Uitsluiting van de onderneming houdt in dat zij geen nieuwe erkenning kan aanvragen.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De onderneming kan beroep aantekenen tegen de uitsluiting.</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">De onderneming kan beroep aantekenen tegen de uitsluiting.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De Vlaamse Regering bepaalt de procedure voor het beroep.</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">De Vlaamse Regering bepaalt de procedure voor het beroep.</span><br>
 &nbsp;
 
 ### ART 8.
@@ -376,10 +378,17 @@ De leerling die met toepassing van het eerste lid, 1° of 2°, wordt opgeleid ti
 <br>
 De vakantiedagen zijn onbetaald met uitzondering van de vakantiedagen die de leerling opbouwt conform de regelgeving inzake betaalde vakantie die op hem van toepassing is.<br>
 <br>
-De in het derde lid vermelde betaalde vakantiedagen moeten worden opgenomen tijdens de schoolvakanties.
+De betaalde vakantiedagen, vermeld in het derde lid, moeten worden opgenomen in de volgende gevallen:<br>
+1° tijdens de schoolvakanties;<br>
+2° tijdens de lesweken op dagen dat de leerling niet kan worden opgeleid in de onderneming door collectieve sluiting wegens jaarlijkse vakantie en na uitputting van de recuperatie, vermeld in het tweede lid.
 
 ### ART 20.
 
+In afwijking van artikel 17, § 2, eerste lid, is de onderneming in de volgende gevallen geen leervergoeding verschuldigd voor het volgen van de lessen en de activiteiten die gelijkgesteld zijn met lessen:<br>
+1° tijdens het facultatief gedeelte van het pre-en postnataal verlof als de leerling de lescomponent volgt maar niet de werkplekcomponent;<br>
+2° bij profylactisch verlof van de leerling tijdens de werkplekcomponent;<br>
+3° bij tijdelijke gedeeltelijke arbeidsongeschiktheid waarbij de leerling niet geschikt wordt bevonden om opgeleid te worden tijdens de werkplekcomponent, maar wel tijdens de lescomponent en na eventuele uitputting van de gewaarborgde leervergoeding.<br>
+<br>
 In afwijking van artikel 18, tweede lid, is de onderneming in de volgende gevallen geen leervergoeding verschuldigd:<br>
 1° bij arbeidsongeschiktheid wegens arbeidsongeval en beroepsziekte;<br>
 2° bij arbeidsongeschiktheid wegens ziekte voor arbeidsongeschiktheidsdagen die samenvallen met onbetaalde vakantiedagen zoals vermeld in artikel 19, derde lid.
@@ -465,12 +474,12 @@ In afwijking van artikel 18, tweede lid, is de onderneming in de volgende gevall
 
 ### ART 28.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Alle bepalingen van hoofdstuk 3 zijn van toepassing op de stageovereenkomst alternerende opleiding met uitzondering van artikel 11, 4°, artikel 17, artikel 18, tweede lid, artikel 19, eerste lid, 3°, artikel 20, en artikel 26, § 3, derde lid.</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">Alle bepalingen van hoofdstuk 3 zijn van toepassing op de stageovereenkomst alternerende opleiding met uitzondering van artikel 9, artikel 11, 4°, artikel 17, artikel 18, tweede lid, artikel 19, eerste lid, 3°, artikel 20, en artikel 26, § 3, derde lid.</span><br>
 &nbsp;
 
 ### ART 29.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">.</span>..
+De stageovereenkomst alternerende opleiding wordt gesloten voor minstens 28 uur per week en maximaal de gemiddelde wekelijkse voltijdse arbeidsduur die van toepassing is in de onderneming. De overeenkomst heeft betrekking op het volledige leertraject, zowel de lescomponent als de werkplekcomponent. Voor de berekening van het aantal uren binnen de overeenkomst telt een les of een activiteit die gelijkgesteld is met een les, mee voor zestig minuten.
 
 ## HOOFDSTUK 5 Toezicht
 
