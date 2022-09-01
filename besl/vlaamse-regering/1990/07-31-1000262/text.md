@@ -301,7 +301,7 @@ b) de studiebewijzen die hierboven vermeld zijn als ASBO, HSBO, HSTO en HSKO;<br
 <br>
 § 6. Voor de toepassing van dit besluit worden de diploma's 'beeldende kunsten' zonder vermelding van de specialiteit, uitgereikt door instellingen voor hoger kunstonderwijs met volledig leerplan in de periode van 1 september 1981 tot en met het academiejaar 1993-1994, samen met het verklarende attest met vermelding van de specialiteit, gelijkgesteld met de diploma's van deze instellingen waarop de specialiteit vermeld staat.<br>
 <br>
-§ 7. Voor de toepassing van dit besluit worden gelijkgesteld met een bekwaamheidsbewijs van het hoger kunstonderwijs van de eerste graad : de diploma's, vermeld in artikel 6, 14°, h), i) en l), voor zover ze behaald zijn in een van de volgende studiegebieden :<br>
+§ 7. Voor de toepassing van dit besluit worden de volgende diploma’s gelijkgesteld met een bekwaamheidsbewijs van het hoger kunstonderwijs van de eerste graad: de diploma's, vermeld in artikel 6, §1, 14°, h), i), l), en vanaf 1 september 2013, met de beperking dat daaruit voor de periode van 1 september 2013 tot en met 31 augustus 2022 geen gevolgen kunnen voortvloeien voor de personeelsleden en de schoolbesturen voor de bezoldiging en terbeschikkingstelling wegens ontstentenis van betrekking, reaffectatie en wedertewerkstelling q), als ze behaald zijn in een van de volgende studiegebieden:<br>
 1° architectuur;<br>
 2° audiovisuele en beeldende kunst;<br>
 3° muziek en dramatische kunst;<br>
