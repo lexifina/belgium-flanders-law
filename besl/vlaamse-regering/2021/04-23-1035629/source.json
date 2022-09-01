@@ -2,16 +2,16 @@
   "codex_id": 1035629,
   "title": "Besluit van de Vlaamse Regering van 2021-04-23 tot vastlegging van de lijst van de bachelor en masteropleidingen die per instelling worden aangeboden in het hoger onderwijs in het academiejaar 2021-2022",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035629/VolledigDocument?datum=2021-09-01",
-  "source_sha256": "d6b0b0d78f820742901ceb9f07b3f1fc94d05f961610563754469a581136d33e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035629/VolledigDocument?datum=2022-09-01",
+  "source_sha256": "dd5938c5b62e6adc7b0c458e4f0b0ccd720b774b8721aa8b8a133811a33905e0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035629&param=informatie",
-  "as_of": "2021-09-01",
+  "as_of": "2022-09-01",
   "made": "2021-04-23",
   "gazette": "2021-06-07",
   "numac": 2021041632,
   "document_start": "2021-09-01",
   "document_end": "2022-08-31",
-  "in_force": "2021-09-01",
+  "in_force": "2022-09-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2021-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-09-01; future article versions excluded; article text as the API gives it"
 }
