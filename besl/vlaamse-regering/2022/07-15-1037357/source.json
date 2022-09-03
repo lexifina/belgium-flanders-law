@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037357,
+  "title": "Besluit van de Vlaamse Regering van 2022-07-15 tot erkenning van de onderwijskwalificaties Dierenverzorgingstechnieken en Freinetpedagogie en tot erkenning van de geactualiseerde onderwijskwalificatie Dierenzorg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037357/VolledigDocument?datum=2022-09-03",
+  "source_sha256": "3bc8eebd27a4569e892568c209182dd801cfc2b08567d1189484001bf7b163ba",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037357&param=informatie",
+  "as_of": "2022-09-03",
+  "made": "2022-07-15",
+  "gazette": "2022-08-24",
+  "numac": 2022041805,
+  "document_start": "2022-09-03",
+  "document_end": null,
+  "in_force": "2022-09-03",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2022-09-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
