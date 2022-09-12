@@ -247,6 +247,17 @@ Er kunnen premies worden toegekend om een bestaand toeristisch logies te moderni
 
 ## [HOOFDSTUK 6/1. Adviescomité van het toeristische logies (ing. Decr. 11 februari 2022, art. 13, I: 12 september 2022)]]
 
+### ART 15/1.
+
+Er wordt een adviescomité opgericht dat minstens de volgende leden bevat:<br>
+1° vertegenwoordigers van de toeristische logiessector;<br>
+2° vertegenwoordigers van de lokale of provinciale overheden;<br>
+3° een of meer deskundigen met relevante expertise.<br>
+<br>
+Het adviescomité geeft advies aan de Vlaamse minister, bevoegd voor het toerisme, over de uitvoering van dit decreet.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere samenstelling en werking van het adviescomité.
+
 ## HOOFDSTUK 7 Wijzigingsbepalingen
 
 ### ART. 16.
