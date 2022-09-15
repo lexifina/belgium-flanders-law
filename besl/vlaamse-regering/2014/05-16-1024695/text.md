@@ -2576,7 +2576,7 @@ Enkel onroerend erfgoed dat in zijn totaliteit beschermd is, komt hiervoor in aa
 <br>
 De erfgoedpremie via oproep wordt berekend op de aanvaardbare kostenraming met toepassing van de premiepercentages, vermeld in onderafdeling 5.<br>
 <br>
-In afwijking van artikel 11.2.1, eerste lid, kunnen energiebesparende maatregelen, beveiligingswerkzaamheden en werken of diensten die opgelegd zijn door andere regelgeving ook in aanmerking komen voor een erfgoedpremie via oproep als dit bepaald is in de oproep en als voldaan is aan de voorwaarden daarin.
+In afwijking van artikel 11.2.1, eerste lid, kunnen energiebesparende maatregelen, beveiligingswerkzaamheden en werken of diensten die opgelegd zijn door andere regelgeving&nbsp;of bijdragen aan de doelstelling, vermeld in de oproep ook in aanmerking komen voor een erfgoedpremie via oproep als dit bepaald is in de oproep en als voldaan is aan de voorwaarden daarin.
 
 ### ART. 11.2.27/1.
 

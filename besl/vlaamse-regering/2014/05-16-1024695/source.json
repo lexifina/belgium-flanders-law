@@ -2,16 +2,16 @@
   "codex_id": 1024695,
   "title": "Besluit van de Vlaamse Regering van 2014-05-16 betreffende de uitvoering van het Onroerenderfgoeddecreet van 12 juli 2013 (citeeropschrift: \"het Onroerenderfgoedbesluit van 16 mei 2014\")",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024695/VolledigDocument?datum=2022-04-25",
-  "source_sha256": "a728e263b0183031e24172ef3f8be78475fee8b6b9e4df631f16c3c2724b5590",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024695/VolledigDocument?datum=2022-09-15",
+  "source_sha256": "9349c175532f70e1214306efac968c64af118034c4dd0e267b9ae3bc5b9a3702",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024695&param=informatie",
-  "as_of": "2022-04-25",
+  "as_of": "2022-09-15",
   "made": "2014-05-16",
   "gazette": "2014-10-27",
   "numac": 2014036539,
   "document_start": "2015-01-01",
   "document_end": null,
-  "in_force": "2022-04-25",
+  "in_force": "2022-09-15",
   "article_versions": 518,
-  "record_form": "consolidated version as in force on 2022-04-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-09-15; future article versions excluded; article text as the API gives it"
 }
