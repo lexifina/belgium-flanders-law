@@ -59,6 +59,14 @@ b) hetzij de oprichting van een op 1 oktober van de twee voorafgaande schooljare
 c) hetzij de heroprichting op 1 oktober van een structuuronderdeel dat minstens drie schooljaren terug is opgeheven doordat de toepasbare leerlingennorm niet werd bereikt, met de bedoeling dat structuuronderdeel in aanmerking te laten komen voor financiering of subsidiëring. Als het een structuuronderdeel betreft van het derde leerjaar van de derde graad dat op semesterbasis wordt georganiseerd, is de desbetreffende datum 1 oktober of 1 maart, naargelang het geval;<br>
 &nbsp;d) hetzij de oprichting van een op 1 oktober van de zes voorafgaande schooljaren niet georganiseerd structuuronderdeel met in de benaming de component ‘topsport’, met de bedoeling dat structuuronderdeel in aanmerking te laten komen voor financiering of subsidiëring. Opdat de heroprichting van een structuuronderdeel, conform deze definitie, niet als een programmatie wordt beschouwd, organiseert de betrokken school ten minste één sportdiscipline die eerder ook al aan die school is toegewezen;”.
 
+### ART 74.
+
+Aan artikel 147/2 van dezelfde codex, ingevoegd bij het decreet van 26 januari 2018, waarvan de bestaande tekst paragraaf 1 zal vormen, wordt een paragraaf 2 toegevoegd, die luidt als volgt:<br>
+<br>
+“§2. Voor een structuuronderdeel dat beantwoordt aan al de volgende voorwaarden, zijn de bepalingen van deze onderafdeling van toepassing vanaf het tweede schooljaar dat het structuuronderdeel in kwestie wordt georganiseerd:<br>
+1° het betreft een nieuw structuuronderdeel of een bestaand structuuronderdeel dat wordt gewijzigd naar inhoud en, eventueel, naar benaming, waarbij die wijzigingen niet alleen technisch zijn. De Vlaamse Regering bepaalt wat onder technische wijzigingen wordt verstaan;<br>
+2° de eerste beslissing van de Vlaamse Regering over het nieuwe of gewijzigde structuuronderdeel is, uitzonderlijk, genomen na de initiële uiterste indieningsdatum van een curriculumdossier die is vastgelegd in de procedure, vermeld in paragraaf 1, tweede lid, 1°.”.
+
 ### ART 100.
 
 In artikel 253/11, §4, van dezelfde codex, ingevoegd bij het decreet van 17 mei 2019 en gewijzigd bij het decreet van 4 februari 2022, worden de volgende wijzigingen aangebracht:<br>
