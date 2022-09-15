@@ -3061,12 +3061,17 @@ De onderwijsinspectie baseert zich bij de doorlichting op de doelen die van toep
 
 ### ART 147/2.
 
-Het Gemeenschapsonderwijs en de verenigingen van schoolbesturen van het gesubsidieerd onderwijs stellen gezamenlijk een curriculumdossier samen en dienen dit in ter goedkeuring door de Vlaamse Regering.<br>
+§1. Het Gemeenschapsonderwijs en de verenigingen van schoolbesturen van het gesubsidieerd onderwijs stellen gezamenlijk een curriculumdossier samen en dienen dit in ter goedkeuring door de Vlaamse Regering.<br>
 <br>
 De Vlaamse Regering bepaalt:<br>
 1° de nadere procedure voor indiening en goedkeuring van een curriculumdossier;<br>
 2° de inhoudelijke, organisatorische en vormelijke elementen die een curriculumdossier moet omvatten;<br>
-3° de procedure indien door het Gemeenschapsonderwijs en de verenigingen van schoolbesturen van het gesubsidieerd onderwijs geen curriculumdossier ingediend wordt binnen de gestelde termijn.
+3° de procedure indien door het Gemeenschapsonderwijs en de verenigingen van schoolbesturen van het gesubsidieerd onderwijs geen curriculumdossier ingediend wordt binnen de gestelde termijn.<br>
+<br>
+§2. Voor een structuuronderdeel dat beantwoordt aan al de volgende voorwaarden, zijn de bepalingen van deze onderafdeling van toepassing vanaf het tweede schooljaar dat het structuuronderdeel in kwestie wordt georganiseerd:<br>
+1° het betreft een nieuw structuuronderdeel of een bestaand structuuronderdeel dat wordt gewijzigd naar inhoud en, eventueel, naar benaming, waarbij die wijzigingen niet alleen technisch zijn. De Vlaamse Regering bepaalt wat onder technische wijzigingen wordt verstaan;<br>
+2° de eerste beslissing van de Vlaamse Regering over het nieuwe of gewijzigde structuuronderdeel is, uitzonderlijk, genomen na de initiële uiterste indieningsdatum van een curriculumdossier die is vastgelegd in de procedure, vermeld in paragraaf 1, tweede lid, 1°.<br>
+&nbsp;
 
 ## [Onderafdeling 4. Leerplannen (ing. decr. 26 januari 2018, art. 6, I: 19 maart 2018)]
 
