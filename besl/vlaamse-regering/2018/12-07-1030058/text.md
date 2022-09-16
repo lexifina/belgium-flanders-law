@@ -437,6 +437,50 @@ De voorziening die weigert zich aan de controle van het agentschap te onderwerpe
 
 ## [HOOFDSTUK 3/5. Financiering van de functieclassificatie in ouderenvoorzieningen ter uitvoering van het Zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren: openbare sector (ing. BVR 16 september 2022, art. 8, I: 16 september 2022)]
 
+### ART 16/17.
+
+In dit hoofdstuk wordt onder voorzieningen de woonzorgcentra, de dagverzorgingscentra en de centra voor kortverblijf uit de openbare sector verstaan.
+
+### ART 16/18.
+
+Uiterlijk in september 2022 stort het agentschap aan de voorzieningen een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten van 1 juli 2021 tot en met 31 december 2021.<br>
+<br>
+Het bedrag dat aan de voorzieningen wordt gestort, wordt berekend door het bedrag dat de voorziening voor de periode van 1 juli 2021 tot en met 31 december 2021 heeft ontvangen voor het deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf, af te trekken van het bedrag dat is berekend op basis van verwerkte gegevens tot en met 30 juni 2022, dat uiterlijk op 16 september 2022 aan het agentschap wordt meegedeeld door een orgaan dat of een instelling die kan instaan voor de bepaling van de bedragen die moeten worden uitbetaald in het licht van de beoogde functieclassificatie, waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+<br>
+Het totaal van de bedragen die aan de voorzieningen worden gestort, is niet hoger dan het bedrag dat daarvoor is vastgelegd in de begroting 2021 op basis van het Zesde Vlaams Intersectoraal Akkoord. Het voormelde bedrag is 25.499.251,89 euro.
+
+### ART 16/19.
+
+Uiterlijk op 31 maart 2023 stort het agentschap aan de voorzieningen een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten van 1 juli 2021 tot en met 31 december 2021.<br>
+<br>
+Het bedrag dat aan de voorzieningen wordt gestort, wordt berekend door het bedrag dat de voorziening voor de periode van 1 juli 2021 tot en met 31 december 2021 heeft ontvangen in het deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf, af te trekken van het bedrag dat uiterlijk op 1 maart 2023 aan het agentschap wordt meegedeeld door een orgaan dat of een instelling die kan instaan voor de bepaling van de bedragen die moeten worden uitbetaald in het licht van de beoogde functieclassificatie, waarmee de Vlaamse Regering met dat doel een overeenkomst sluit. Als het deel M dat de voorziening ontvangen heeft voor de periode van 1 juli 2021 tot en met 31 december 2021, al verrekend is bij het te storten bedrag dat wordt bepaald conform artikel 16/18, wordt het niet opnieuw in mindering gebracht.<br>
+<br>
+Als er naar aanleiding van beroepscommissies bij de openbare besturen nog bijkomende betalingen vereist zijn, kan het agentschap de betaling in de loop van 2023 uitvoeren binnen het beschikbare budget dat vastgelegd is in de begroting 2021.<br>
+<br>
+In het derde lid wordt verstaan onder beroepscommissies bij de openbare besturen: de interne en externe beroepscommissies, als vermeld in de regeling beroepsfase voor intern en extern beroep zoals bepaald in het Protocol IFIC Vlaamse publieke sectoren (deel 1): toewijzingsprocedures van de sectorale IFIC-functies.<br>
+<br>
+Een bedrag dat moet worden teruggevorderd, brengt het agentschap in mindering op de rechten 2022, vermeld in artikel 16/21.<br>
+<br>
+Het totaal van de bedragen die aan de voorzieningen worden gestort conform dit artikel en artikel 16/18, is niet hoger dan het bedrag dat daarvoor is vastgelegd in de begroting van 2021 op basis van het Zesde Vlaams Intersectoraal Akkoord. Het voormelde bedrag is 25.499.251,89 euro.
+
+### ART 16/20.
+
+Uiterlijk in september 2022 stort het agentschap aan de voorzieningen een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2022.<br>
+<br>
+Het bedrag dat aan de voorzieningen wordt gestort, is per voorziening gelijk aan 90% van het bedrag dat volgens artikel 16/18 aan het agentschap wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit, vermenigvuldigd met 2.
+
+### ART 16/21.
+
+Uiterlijk in juni 2023 stort het agentschap aan de voorzieningen een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2022.<br>
+<br>
+Het bedrag dat aan de voorzieningen wordt gestort, wordt uiterlijk in mei 2023 aan het agentschap meegedeeld door een orgaan dat of een instelling die kan instaan voor de bepaling van de bedragen die moeten worden uitbetaald in het licht van de beoogde functieclassificatie, waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+<br>
+Het totaal van de bedragen die aan de voorzieningen worden gestort met toepassing van dit artikel en artikel 16/20, is niet hoger dan het bedrag dat daarvoor is vastgelegd in de begroting van 2022 op basis van het Zesde Vlaams Intersectoraal Akkoord. In dat bedrag wordt ook de opbrengst van het deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf voor de openbare sector opgenomen.
+
+### ART 16/22.
+
+De voorziening die weigert zich aan de controle van het agentschap te onderwerpen, verliest de rechten, vermeld in dit hoofdstuk.
+
 ## HOOFDSTUK 4. Wijzigingsbepalingen
 
 ### ART 17.
