@@ -30,7 +30,9 @@ Besluit :
 
 ### ART 1.
 
-Dit besluit voorziet in de gedeeltelijke omzetting van richtlijn (EU) 2016/1629 van het Europees Parlement en de Raad van 14 september 2016 tot vaststelling van de technische voorschriften voor binnenschepen, tot wijziging van Richtlijn 2009/100/EG en tot intrekking van Richtlijn 2006/87/EG.
+Dit besluit voorziet in de gedeeltelijke omzetting van richtlijn (EU) 2016/1629 van het Europees Parlement en de Raad van 14 september 2016 tot vaststelling van de technische voorschriften voor binnenschepen, tot wijziging van Richtlijn 2009/100/EG en tot intrekking van Richtlijn 2006/87/EG.<br>
+<br>
+Dit besluit voorziet in de gedeeltelijke uitvoering van de gedelegeerde verordening (EU) 2021/1308 van de Commissie van 28 april 2021 tot wijziging van de bijlagen I en II bij Richtlijn (EU) 2016/1629 van het Europees Parlement en de Raad wat betreft de wijziging van de lijst van binnenwateren in de Unie en de minimale technische voorschriften voor vaartuigen .
 
 ## HOOFDSTUK I. Definities, toepassingsgebied en indeling van binnenwateren
 
@@ -55,7 +57,8 @@ c) de rondvaart heeft een ononderbroken maximale vaarduur van twee uur;<br>
 13° derde land: elk land dat geen lid is van de Europese Unie;<br>
 14° binnenwateren: de openbare wateren in het Vlaamse Gewest die niet behoren tot de zeewateren, daarin begrepen de wateren aan de landzijde van de basislijn van waar de breedte van de territoriale zee wordt gemeten, die voor de scheepvaart bestemd zijn of gebruikt worden;<br>
 15° Richtlijn 2016/1629: Richtlijn 2016/1629 van het Europees Parlement en de Raad van 14 september 2016 tot vaststelling van de technische voorschriften voor binnenschepen, tot wijziging van Richtlijn 2009/100/EG en tot intrekking van Richtlijn 2006/87/EG;<br>
-16° Uniebinnenvaartcertificaat : Uniecertificaat voor binnenschepen dat door de bevoegde instantie is afgegeven, ten bewijze dat het voldoet aan de technische voorschriften.
+16° Uniebinnenvaartcertificaat : Uniecertificaat voor binnenschepen dat door de bevoegde instantie is afgegeven, ten bewijze dat het voldoet aan de technische voorschriften.<br>
+17° ES-TRIN 2021/1: Europese standaard tot vaststelling van de technische voorschriften voor binnenschepen, editie 2021/1, welke kan worden geraadpleegd op de volgende website: <a href="https://www.cesni.eu/wp-content/uploads/2020/10/ES_TRIN_2021_nl.pdf">https://www.cesni.eu/wp-content/uploads/2020/10/ES_TRIN_2021_nl.pdf</a>&nbsp;
 
 ### ART 3.
 
@@ -109,9 +112,9 @@ Het vervullen van de voorwaarde, vermeld in het eerste lid, wordt aangetoond met
 <br>
 De Commissie van Deskundigen controleert bij de afgifte van een Uniebinnenvaartcertificaat of aan het vaartuig in kwestie al een geldig certificaat is afgegeven als vermeld in artikel 8.<br>
 <br>
-§ 2. Het Uniebinnenvaartcertificaat wordt opgesteld conform het model, opgenomen in bijlage 2, die bij dit besluit is gevoegd.<br>
+§ 2. Het Uniebinnenvaartcertificaat wordt opgesteld conform het model, opgenomen in ES-TRIN 2021/1.<br>
 <br>
-§ 3. Het Uniebinnenvaartcertificaat wordt afgegeven aan vaartuigen na een technische inspectie die wordt verricht voor de ingebruikneming van het vaartuig, waarbij wordt nagegaan of het vaartuig voldoet aan de technische voorschriften, vermeld in bijlage 2 en 7, die bij dit besluit zijn gevoegd.<br>
+§ 3. Het Uniebinnenvaartcertificaat wordt afgegeven aan vaartuigen na een technische inspectie die wordt verricht voor de ingebruikneming van het vaartuig, waarbij wordt nagegaan of het vaartuig voldoet aan de technische voorschriften, vermeld in ES-TRIN 2021/1 en bijlage 7, die bij dit besluit is gevoegd.<br>
 <br>
 § 4. Bij de technische inspectie, vermeld in paragraaf 3, en de technische inspectie, vermeld in artikel 48, of bij een technische inspectie die op aanvraag van de eigenaar van het vaartuig of zijn vertegenwoordiger wordt uitgevoerd, wordt in voorkomend geval nagegaan of het vaartuig voldoet aan de voorschriften, vermeld in artikel 24, eerste en tweede lid.<br>
 <br>
@@ -126,14 +129,14 @@ De Commissie van Deskundigen bepaalt ook de plaats en het tijdstip van de inspec
 Vaartuigen die de binnenwateren bevaren, hebben de volgende originele documenten aan boord:<br>
 1° een van de volgende certificaten als ze de waterwegen van zone R bevaren:<br>
 a) een certificaat dat is afgegeven op grond van artikel 22 van de Herziene Rijnvaartakte;<br>
-b) als dat van toepassing is voor vaartuigen die de Rijn (zone R) bevaren conform de overgangsbepalingen van bijlage 2, die bij dit besluit is gevoegd: een Uniebinnenvaartcertificaat dat de volledige conformiteit van het vaartuig bewijst met de technische voorschriften, vermeld in bijlagen 2 en 7, die bij dit besluit zijn gevoegd, en waarvan de gelijkwaardigheid met de uit hoofde van de Herziene Rijnvaartakte bepaalde technische voorschriften is vastgesteld;<br>
+b) als dat van toepassing is voor vaartuigen die de Rijn (zone R) bevaren conform de overgangsbepalingen van ES-TRIN 2021/1: een Uniebinnenvaartcertificaat dat de volledige conformiteit van het vaartuig bewijst met de technische voorschriften, vermeld in ES-TRIN 2021/1 en bijlage 7, die bij dit besluit is gevoegd, en waarvan de gelijkwaardigheid is vastgesteld met de technische voorschriften, vermeld in de Herziene Rijnvaartakte van 17 oktober 1868;<br>
 2° als ze andere waterwegen bevaren dan de waterwegen, vermeld in punt 1° : een Uniebinnenvaartcertificaat of een certificaat dat is afgegeven conform artikel 22 van de Herziene Rijnvaartakte, in voorkomend geval met inbegrip van eventuele aanvullende Uniebinnenvaartcertificaten conform artikel 9 van dit besluit.
 
 ### ART 9.
 
 Conform artikel 24 van dit besluit kunnen voor bepaalde waterwegen aangepaste technische voorschriften worden vastgesteld die aanleiding geven tot de afgifte van een aanvullend Uniebinnenvaartcertificaat.<br>
 <br>
-De Commissie van Deskundigen verstrekt het aanvullend Uniebinnenvaartcertificaat conform het model dat is opgenomen in bijlage 2, die bij dit besluit is gevoegd, onder de voorwaarden die voor de waterwegen in kwestie zijn vastgelegd.<br>
+De Commissie van Deskundigen verstrekt het aanvullend Uniebinnenvaartcertificaat conform het model dat is opgenomen in ES-TRIN 2021/1, onder de voorwaarden die voor de waterwegen in kwestie zijn vastgelegd.<br>
 <br>
 Alleen vaartuigen met een geldig Uniebinnenvaartcertificaat of een certificaat dat is afgegeven conform artikel 22 van de Herziene Rijnvaartakte, kunnen een aanvullend Uniebinnenvaartcertificaat verwerven.
 
@@ -145,14 +148,14 @@ In dit artikel wordt verstaan onder:<br>
 <br>
 De Commissie van Deskundigen kan een voorlopig Uniebinnenvaartcertificaat afgeven aan:<br>
 1° vaartuigen die met toestemming van de Commissie van Deskundigen naar een bepaalde plaats willen varen om een Uniebinnenvaartcertificaat te verkrijgen;<br>
-2° vaartuigen waarvan het Uniebinnenvaartcertificaat verloren, beschadigd of tijdelijk ingetrokken is als vermeld in artikel 14 en 16 of in bijlage 2 en 7, die bij dit besluit zijn gevoegd;<br>
+2° vaartuigen waarvan het Uniebinnenvaartcertificaat verloren, beschadigd of tijdelijk ingetrokken is als vermeld in artikel 14 en 16 of in ES-TRIN 2021/1 en bijlage 7, die bij dit besluit is gevoegd;<br>
 3° vaartuigen waarvan het Uniebinnenvaartcertificaat na een inspectie met positief resultaat wordt voorbereid;<br>
-4° vaartuigen die niet hebben voldaan aan alle voorwaarden voor het verkrijgen van een Uniebinnenvaartcertificaat, vermeld in bijlage 2 en 7, die bij dit besluit zijn gevoegd;<br>
+4° vaartuigen die niet hebben voldaan aan alle voorwaarden voor het verkrijgen van een Uniebinnenvaartcertificaat, vermeld in ES-TRIN 2021/1 en bijlage 7, die bij dit besluit is gevoegd;<br>
 5° vaartuigen die zodanige schade hebben geleden dat ze niet meer voldoen aan hun Uniebinnenvaartcertificaat;<br>
 6° drijvende inrichtingen en drijvende voorwerpen, als de waterwegbeheerder de vergunning voor een bijzonder transport afhankelijk heeft gesteld van het verkrijgen van een voorlopig Uniebinnenvaartcertificaat conform de toepasselijke scheepvaartpolitiereglementen waarover het bijzonder transport plaatsvindt;<br>
-7° vaartuigen die vrijgesteld zijn van de voorwaarden, vermeld in bijlage 2 en 7, die bij dit besluit zijn gevoegd, conform artikel 26 en 27.<br>
+7° vaartuigen die vrijgesteld zijn van de voorwaarden, vermeld in ES-TRIN 2021/1 en bijlage 7, die bij dit besluit is gevoegd, conform artikel 26 en 27.<br>
 <br>
-Het voorlopig Uniebinnenvaartcertificaat wordt alleen afgegeven als de deugdelijkheid van het vaartuig, de drijvende inrichting of het drijvende voorwerp voor de vaart voldoende gewaarborgd blijkt. Het wordt opgesteld conform het model dat is opgenomen in bijlage 2, die bij dit besluit is gevoegd.<br>
+Het voorlopig Uniebinnenvaartcertificaat wordt alleen afgegeven als de deugdelijkheid van het vaartuig, de drijvende inrichting of het drijvende voorwerp voor de vaart voldoende gewaarborgd blijkt. Het wordt opgesteld conform het model dat is opgenomen in ES-TRIN 2021/1.<br>
 <br>
 Het voorlopige Uniebinnenvaartcertificaat bevat de voorwaarden die de Commissie van Deskundigen noodzakelijk acht en is geldig voor de volgende termijnen:<br>
 1° in de gevallen, vermeld in het eerste lid, 1°, 4°, 5° en 6° : voor één bepaalde reis, te maken binnen een passende termijn die ten hoogste één maand bedraagt;<br>
@@ -173,15 +176,15 @@ Voor vaartuigen die al in bedrijf waren voordat de technische inspectie plaatsvi
 
 ### ART 12.
 
-In uitzonderlijke omstandigheden kan de Commissie van Deskundigen, conform bijlage 2 en 7, die bij dit besluit zijn gevoegd, de geldigheidsduur van het Uniebinnenvaartcertificaat dat ze heeft afgegeven of verlengd, zonder technische inspectie verlengen met maximaal zes maanden.<br>
+In uitzonderlijke omstandigheden kan de Commissie van Deskundigen, conform ES-TRIN 2021/1 en bijlage 7, die bij dit besluit is gevoegd, de geldigheidsduur van het Uniebinnenvaartcertificaat dat ze heeft afgegeven of verlengd, zonder technische inspectie verlengen met maximaal zes maanden.<br>
 <br>
 De verlenging wordt in dat certificaat vermeld.
 
 ### ART 13.
 
-Het Uniebinnenvaartcertificaat wordt vernieuwd na het verstrijken van de geldigheidsduur en conform artikel 7, en na een technische inspectie waarmee wordt nagegaan of het vaartuig voldoet aan de technische voorschriften, vermeld in bijlage 2 en 7, die bij dit besluit zijn gevoegd.<br>
+Het Uniebinnenvaartcertificaat wordt vernieuwd na het verstrijken van de geldigheidsduur en conform artikel 7, en na een technische inspectie waarmee wordt nagegaan of het vaartuig voldoet aan de technische voorschriften, vermeld in ES-TRIN 2021/1 en bijlage 7, die bij dit besluit is gevoegd.<br>
 <br>
-Als Uniebinnenvaartcertificaten worden vernieuwd, gelden de overgangsbepalingen, vermeld in bijlage 2, die bij dit besluit is gevoegd.
+Als Uniebinnenvaartcertificaten worden vernieuwd, gelden de overgangsbepalingen, vermeld in ES-TRIN 2021/1.
 
 ### ART 14.
 
@@ -195,7 +198,7 @@ De Commissie van Deskundigen geeft een duplicaat van het certificaat, vermeld in
 
 ### ART 15.
 
-Na iedere wezenlijke wijziging of herstelling die gevolgen heeft voor de naleving door het vaartuig van de technische voorschriften over de structurele deugdelijkheid, vermeld in bijlage 2 en 7, die bij dit besluit zijn gevoegd, de vaar- of manoeuvreereigenschappen of de bijzondere kenmerken ervan, wordt het vaartuig, voordat het weer in bedrijf genomen wordt, onderworpen aan het technisch onderzoek, vermeld in artikel 7. Op grond van dat onderzoek geeft de Commissie van Deskundigen een nieuw Uniebinnenvaartcertificaat met vermelding van de technische kenmerken van het vaartuig af of wijzigt de Commissie van Deskundigen het bestaande certificaat dienovereenkomstig.<br>
+Na iedere wezenlijke wijziging of herstelling die gevolgen heeft voor de naleving door het vaartuig van de technische voorschriften over de structurele deugdelijkheid, vermeld in ES-TRIN 2021/1 en bijlage 7, die bij dit besluit is gevoegd, de vaar- of manoeuvreereigenschappen of de bijzondere kenmerken ervan, wordt het vaartuig, voordat het weer in bedrijf genomen wordt, onderworpen aan het technisch onderzoek, vermeld in artikel 7. Op grond van dat onderzoek geeft de Commissie van Deskundigen een nieuw Uniebinnenvaartcertificaat met vermelding van de technische kenmerken van het vaartuig af of wijzigt de Commissie van Deskundigen het bestaande certificaat dienovereenkomstig.<br>
 <br>
 In voorkomend geval brengt De Commissie van Deskundigen de bevoegde autoriteit van de lidstaat die het oorspronkelijke certificaat heeft afgegeven of vernieuwd, daarvan binnen een maand op de hoogte.
 
@@ -225,14 +228,13 @@ De Uniebinnenvaartcertificaten worden aan de vaartuigen uit derde landen afgelev
 
 De Commissie van Deskundigen houdt een register bij van alle certificaten die ze heeft afgegeven of vernieuwd conform artikel 7, 9, 10 en 13.<br>
 <br>
-Het register bevat de informatie die is opgenomen in het modelcertificaat dat is opgenomen in bijlage 2, die bij dit besluit is gevoegd.
+Het register bevat de informatie die is opgenomen in het modelcertificaat dat is opgenomen in ES-TRIN 2021/1.
 
 ## HOOFDSTUK III. Scheepsidentificatiegegevens, inspecties en gewijzigde technische voorschriften
 
 ### ART 19.
 
-De Commissie van Deskundigen kent aan ieder vaartuig een uniek Europees scheepsidentificatienummer (ENI-nummer) toe conform bijlage 2 en 7, die bij dit besluit zijn gevoegd.<br>
-Ieder vaartuig heeft maar één ENI-nummer, dat gedurende zijn hele levensduur onveranderd blijft.<br>
+De Commissie van Deskundigen kent aan ieder vaartuig een uniek Europees scheepsidentificatienummer (ENI-nummer) toe conform ES-TRIN 2021/1 en bijlage 7, die bij dit besluit is gevoegd. Ieder vaartuig heeft maar één ENI-nummer, dat gedurende zijn hele levensduur onveranderd blijft.<br>
 <br>
 Bij de afgifte van een Uniebinnenvaartcertificaat neemt de Commissie van Deskundigen daar het ENI-nummer in op.
 
@@ -265,7 +267,7 @@ De Commissie van Deskundigen bepaalt de voorwaarden waaraan het derde land of de
 
 De Commissie van Deskundigen voert de aanvankelijke, de periodieke, de bijzondere en de vrijwillige inspecties, vermeld in de artikelen 7 en 48 van dit besluit, uit.<br>
 <br>
-De Commissie van Deskundigen kan geheel of ten dele afzien van de technische inspectie van het vaartuig, als uit een geldige verklaring van een door de Europese Commissie erkend classificatiebureau blijkt dat het vaartuig geheel of ten dele voldoet aan de technische voorschriften, vermeld in bijlage 2 en 7, die bij dit besluit zijn gevoegd.
+De Commissie van Deskundigen kan geheel of ten dele afzien van de technische inspectie van het vaartuig, als uit een geldige verklaring van een door de Europese Commissie erkend classificatiebureau blijkt dat het vaartuig geheel of ten dele voldoet aan de technische voorschriften, vermeld in ES-TRIN 2021/1 en bijlage 7, die bij dit besluit is gevoegd.
 
 ### ART 22.
 
@@ -306,11 +308,11 @@ Na onderzoek brengt de Commissie van Deskundigen de bevoegde instantie van de li
 
 ### ART 24.
 
-§ 1. Voor vaartuigen die in het Vlaams Gewest waterwegen van de zone 2 bevaren, worden aanvullende technische voorschriften bepaald die gelden naast de technische voorschriften als vermeld in bijlage 2 en 7, die bij dit besluit zijn gevoegd.<br>
+§ 1. Voor vaartuigen die in het Vlaams Gewest waterwegen van de zone 2 bevaren, worden aanvullende technische voorschriften bepaald die gelden naast de technische voorschriften als vermeld in ES-TRIN 2021/1 en bijlage 7, die bij dit besluit is gevoegd.<br>
 <br>
 De aanvullende voorschriften, vermeld in het eerste lid, zijn opgenomen in bijlage 3, die bij dit besluit is gevoegd.<br>
 <br>
-§ 2. Voor vaartuigen die in het Vlaams Gewest uitsluitend waterwegen van de zones 3 en 4 bevaren, worden technische voorschriften bepaald die minder streng zijn dan de technische voorschriften, vermeld in bijlage 2 en 7, die bij dit besluit zijn gevoegd.<br>
+§ 2. Voor vaartuigen die in het Vlaams Gewest uitsluitend waterwegen van de zones 3 en 4 bevaren, worden technische voorschriften bepaald die minder streng zijn dan de technische voorschriften, vermeld in ES-TRIN 2021/1 en bijlage 7, die bij dit besluit is gevoegd.<br>
 <br>
 De minder strenge technische voorschriften, vermeld in het eerste lid, zijn opgenomen in bijlage 4, die bij dit besluit is gevoegd.<br>
 <br>
@@ -331,14 +333,14 @@ De vrijstellingen en de trajecten of de gebieden waarvoor ze gelden, worden verm
 ### ART 26.
 
 Om innovatie en het gebruik van nieuwe technologieën in de binnenvaart aan te moedigen, kan de Commissie van Deskundigen, onder de door de Europese Commissie bepaalde voorwaarden vrijstellingen toestaan of de gelijkwaardigheid erkennen van technische specificaties voor een specifiek vaartuig voor:<br>
-1° de afgifte van een Uniebinnenvaartcertificaat waarbij het gebruik of de aanwezigheid aan boord van een vaartuig wordt erkend van andere materialen, inrichtingen of uitrusting, of de installatie van andere opstellingen of bouwkundige kenmerken dan deze die zijn opgenomen in bijlage 2 en 7, die bij dit besluit zijn gevoegd, op voorwaarde dat een gelijkwaardig veiligheidsniveau wordt gegarandeerd;<br>
-2° de afgifte van een Uniebinnenvaartcertificaat, bij wijze van proef en voor een beperkte tijdsduur, met nieuwe technische specificaties die afwijken van de voorschriften, vermeld in bijlagen 2 en 7, die bij dit besluit zijn gevoegd, op voorwaarde dat een adequaat veiligheidsniveau wordt gegarandeerd.<br>
+1° de afgifte van een Uniebinnenvaartcertificaat waarbij het gebruik of de aanwezigheid aan boord van een vaartuig wordt erkend van andere materialen, inrichtingen of uitrusting, of de installatie van andere opstellingen of bouwkundige kenmerken dan deze die zijn opgenomen in ES-TRIN 2021/1 en bijlage 7, die bij dit besluit is gevoegd, op voorwaarde dat een gelijkwaardig veiligheidsniveau wordt gegarandeerd;<br>
+2° de afgifte van een Uniebinnenvaartcertificaat, bij wijze van proef en voor een beperkte tijdsduur, met nieuwe technische specificaties die afwijken van de voorschriften, vermeld in ES-TRIN 2021/1 en bijlage 7, die bij dit besluit is gevoegd, op voorwaarde dat een adequaat veiligheidsniveau wordt gegarandeerd.<br>
 <br>
 De Commissie van Deskundigen neemt de vrijstellingen en erkenningen van gelijkwaardigheid, vermeld in het eerste lid, op in het Uniebinnenvaartcertificaat.
 
 ### ART 27.
 
-Na het verstrijken van de overgangsbepalingen voor de technische voorschriften die opgenomen zijn in bijlage 2, die bij dit besluit is gevoegd, kan de Commissie van Deskundigen, onder de door de Europese Commissie bepaalde voorwaarden, vrijstellingen toestaan van de voormelde technische voorschriften waarop de voormelde overgangsbepalingen van toepassing zijn, als die voorschriften technisch moeilijk uitvoerbaar zijn of de toepassing ervan mogelijk onevenredige kosten vergt.<br>
+Na het verstrijken van de overgangsbepalingen voor de technische voorschriften die opgenomen zijn in ES-TRIN 2021/1, kan de Commissie van Deskundigen, onder de door de Europese Commissie bepaalde voorwaarden, vrijstellingen toestaan van de voormelde technische voorschriften waarop de voormelde overgangsbepalingen van toepassing zijn, als die voorschriften technisch moeilijk uitvoerbaar zijn of de toepassing ervan mogelijk onevenredige kosten vergt.<br>
 <br>
 De Commissie van Deskundigen neemt de vrijstellingen, vermeld in het eerste lid, op in het Uniebinnenvaartcertificaat.
 
@@ -529,13 +531,13 @@ Documenten die onder dit besluit vallen en die zijn afgegeven voor 7 oktober 201
 
 ### ART 50.
 
-Voor vaartuigen die uitgesloten zijn van het toepassingsgebied van Richtlijn 82/714/EEG van de Raad, maar die conform artikel 4, § 2, van dit besluit, onder de toepassing van dit besluit vallen, wordt het Uniebinnenvaartcertificaat afgegeven na een technisch inspectie om na te gaan of het vaartuig voldoet aan de technische voorschriften, vermeld in bijlage 2 en 7, die bij dit besluit zijn gevoegd. Die technische inspectie wordt verricht na het verstrijken van het huidige certificaat van het vaartuig, en uiterlijk op 30 december 2018.<br>
+Voor vaartuigen die uitgesloten zijn van het toepassingsgebied van Richtlijn 82/714/EEG van de Raad, maar die conform artikel 4, § 2, van dit besluit, onder de toepassing van dit besluit vallen, wordt het Uniebinnenvaartcertificaat afgegeven na een technisch inspectie om na te gaan of het vaartuig voldoet aan de technische voorschriften, vermeld in ES-TRIN 2021/1 en bijlage 7, die bij dit besluit is gevoegd. Die technische inspectie wordt verricht na het verstrijken van het huidige certificaat van het vaartuig, en uiterlijk op 30 december 2018.<br>
 <br>
-Als het vaartuig niet voldoet aan de technische voorschriften, vermeld in bijlage 2 en 7, die bij dit besluit zijn gevoegd, wordt daarvan melding gemaakt in het Uniebinnenvaartcertificaat. Als de Commissie van Deskundigen van oordeel is dat die tekortkomingen geen kennelijk gevaar opleveren, kunnen de vaartuigen, vermeld in het eerste lid, in bedrijf blijven totdat de onderdelen of ruimten van het vaartuig die zijn gecertificeerd als niet in overeenstemming met de voorschriften, zijn vervangen of aangepast, waarna die onderdelen of ruimten moeten voldoen aan de technische voorschriften, vermeld in bijlage 2 en 7, die bij dit besluit zijn gevoegd.<br>
+Als het vaartuig niet voldoet aan de technische voorschriften, vermeld in ES-TRIN 2021/1 en bijlage 7, die bij dit besluit is gevoegd, wordt daarvan melding gemaakt in het Uniebinnenvaartcertificaat. Als de Commissie van Deskundigen van oordeel is dat die tekortkomingen geen kennelijk gevaar opleveren, kunnen de vaartuigen, vermeld in het eerste lid, in bedrijf blijven totdat de onderdelen of ruimten van het vaartuig die zijn gecertificeerd als niet in overeenstemming met de voorschriften, zijn vervangen of aangepast, waarna die onderdelen of ruimten moeten voldoen aan de technische voorschriften, vermeld in ES-TRIN 2021/1 en bijlage 7, die bij dit besluit is gevoegd.<br>
 <br>
 De vervanging van bestaande onderdelen door identieke onderdelen of technologisch en qua design gelijkwaardige onderdelen bij normale herstel- en onderhoudswerkzaamheden wordt niet beschouwd als vervanging of aanpassing als vermeld in het tweede lid.<br>
 <br>
-Er is sprake van kennelijk gevaar als vermeld in het tweede lid, als de voorschriften in verband met de structurele deugdelijkheid, de vaar- of manoeuvreereigenschappen of de bijzondere kenmerken van het vaartuig conform de technische voorschriften, vermeld in bijlage 2 en 7, die bij dit besluit zijn gevoegd, in het geding zijn. De vrijstellingen waarin is voorzien in de technische voorschriften, vermeld in bijlage 2 en 7, die bij dit besluit zijn gevoegd, mogen niet worden aangemerkt als tekortkomingen die een kennelijk gevaar vormen.
+Er is sprake van kennelijk gevaar als vermeld in het tweede lid, als de voorschriften in verband met de structurele deugdelijkheid, de vaar- of manoeuvreereigenschappen of de bijzondere kenmerken van het vaartuig conform de technische voorschriften, vermeld in ES-TRIN 2021/1 en bijlage 7, die bij dit besluit is gevoegd, in het geding zijn. De vrijstellingen waarin is voorzien in de technische voorschriften, vermeld in ES-TRIN 2021/1 en bijlage 7, die bij dit besluit is gevoegd, mogen niet worden aangemerkt als tekortkomingen die een kennelijk gevaar vormen.
 
 ### ART 51.
 
