@@ -207,6 +207,19 @@ In afwijking van het eerste lid, 2°, bedraagt de huurprijs maximaal 1000 euro a
 5° alle gemeenten in het arrondissement Halle-Vilvoorde;<br>
 6° Bertem, Huldenberg, Kortenberg en Tervuren.".-
 
+### ART 11.
+
+Aan artikel 5.189, § 2, eerste lid, 7°, van hetzelfde besluit, vervangen door het besluit van de Vlaamse Regering van 4 februari 2022, wordt de volgende zin toegevoegd:<br>
+<br>
+"De uitvoering van de verplichte keuring voor de eerste ingebruikname van de gascondensatieketel, vermeld in artikel 7 van het Besluit van de Vlaamse Regering van 8 december 2006 betreffende het onderhoud en het nazicht van centrale stooktoestellen voor de verwarming van gebouwen of voor de aanmaak van warm verbruikswater, wordt aangetoond met het keuringsrapport dat dateert van na de uitgevoerde werken en voor de aanvraagdatum.".
+
+### ART 12.
+
+In artikel 5.191 van hetzelfde besluit, vervangen door het besluit van de Vlaamse Regering van 4 februari 2022, worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 1° wordt de volgende zin toegevoegd:<br>
+"De facturen bevatten voldoende informatie over de juiste aard en omvang van de werkzaamheden.";<br>
+2° in paragraaf 2 wordt de zin "De tegemoetkoming wordt per categorie afgerond naar het hogere tiental." opgeheven.
+
 ## HOOFDSTUK 3. Slotbepalingen
 
 ### ART 13.
