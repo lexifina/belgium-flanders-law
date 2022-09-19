@@ -2,16 +2,16 @@
   "codex_id": 1037385,
   "title": "Besluit van de Vlaamse Regering van 2022-06-03 tot wijziging van het besluit van de Vlaamse Regering van 17 maart 2017 betreffende de subsidiëring van de organisatoren kinderopvang en buitenschoolse opvang ter uitvoering van het Vlaams Intersectoraal akkoord, wat betreft de realisatie van de koopkrachtmaatregelen in de publieke sector en tot wijziging van artikel 8 en 12 van het Overgangsbesluit subsidies buitenschoolse opvang van 24 september 2021",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037385/VolledigDocument?datum=2022-01-01",
-  "source_sha256": "6082dc99947aa8afd7ebd8efc20edc4506ec29f32c91771bfa169a74b2041d23",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037385/VolledigDocument?datum=2022-09-19",
+  "source_sha256": "b62bc78ed0b889654d8792659937b06dc4aef80bb951a85076aea2d12dc81065",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037385&param=informatie",
-  "as_of": "2022-01-01",
+  "as_of": "2022-09-19",
   "made": "2022-06-03",
   "gazette": "2022-09-09",
   "numac": 2022032549,
   "document_start": "2022-09-19",
   "document_end": null,
-  "in_force": "2022-01-01",
-  "article_versions": 7,
-  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-09-19",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2022-09-19; future article versions excluded; article text as the API gives it"
 }

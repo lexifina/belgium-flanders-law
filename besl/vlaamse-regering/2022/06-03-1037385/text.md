@@ -53,3 +53,15 @@ In artikel 8 van het Overgangsbesluit subsidies buitenschoolse opvang van 24 sep
 
 In artikel 12 van hetzelfde besluit, gewijzigd bij besluit van de Vlaamse regering van 14 januari 2022, wordt punt 6° vervangen door wat volgt:<br>
 "6° een VIA-subsidie als vermeld in artikel 16 tot en met 18, 19/1, 20 tot en met 23, 24/1 tot en met 26, 27/1, 28 tot en met 30, 31/1, 32, 32/3, 33, 34, 34/1 en 36 van het besluit van 17 maart 2017 betreffende de subsidiëring van de organisatoren kinderopvang en buitenschoolse opvang ter uitvoering van het Vlaams Intersectoraal akkoord, gewijzigd bij de besluiten van de Vlaamse Regering van 6 oktober 2017, 7 februari 2020 en 12 maart 2021, en de subsidie voor buitenschoolse opvang, wat artikel 37 van het voormelde besluit betreft;".
+
+### ART 7.
+
+Artikel 1 en 3 hebben uitwerking met ingang van 1 juli 2021.<br>
+<br>
+Artikel 4 heeft uitwerking met ingang van 31 december 2021.<br>
+<br>
+Artikel 2, 5 en 6 hebben uitwerking met ingang van 1 januari 2022.
+
+### ART 8.
+
+De Vlaamse minister, bevoegd voor opgroeien, is belast met de uitvoering van dit besluit.
