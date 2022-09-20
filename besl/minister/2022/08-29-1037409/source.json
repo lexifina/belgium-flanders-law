@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037409,
+  "title": "Ministerieel besluit van 2022-08-29 tot vaststelling van de regels voor de projectoproep `iedereen verdient vakantie' 2022",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037409/VolledigDocument?datum=2022-09-20",
+  "source_sha256": "6ca553e0002a192f4630e5834fb8236d8ac1483b410075d0d276580674fe6ee4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037409&param=informatie",
+  "as_of": "2022-09-20",
+  "made": "2022-08-29",
+  "gazette": "2022-09-19",
+  "numac": 2022033177,
+  "document_start": "2022-09-20",
+  "document_end": null,
+  "in_force": "2022-09-20",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2022-09-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
