@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037390,
+  "title": "Decreet van 2022-07-15 tot instemming met het samenwerkingsakkoord van 12 mei 2022 tot wijziging van het samenwerkingsakkoord van 20 december 2018 tussen de Vlaamse Gemeenschap, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie met betrekking tot het verplicht inburgeringstraject voor de nieuwkomers in Brussel-Hoofdstad",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037390/VolledigDocument?datum=2022-09-22",
+  "source_sha256": "b0478d037c11a306c16004be6e7b72e8b388ab6ecaae7bb82976325b97c87256",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037390&param=informatie",
+  "as_of": "2022-09-22",
+  "made": "2022-07-15",
+  "gazette": "2022-09-12",
+  "numac": 2022015547,
+  "document_start": "2022-09-22",
+  "document_end": null,
+  "in_force": "2022-09-22",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2022-09-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
