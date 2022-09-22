@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037394,
+  "title": "Besluit van de Vlaamse Regering van 2022-07-15 tot verlenging van de geldigheidsduur van de besluiten over de aanvragen van de opleidingen \"Master of Tropical Medicine\", met specificatie \"of Science\", aangeboden door het Instituut voor Tropische Geneeskunde, en \"Master in Dance\" aangeboden door P.A.R.T.S. (Performing Arts, Research and Training Studios)",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037394/VolledigDocument?datum=2022-09-22",
+  "source_sha256": "a197543bd1210f6dae00cb20deb43fd3563ba822da801832c81a136e7308b6e3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037394&param=informatie",
+  "as_of": "2022-09-22",
+  "made": "2022-07-15",
+  "gazette": "2022-09-12",
+  "numac": 2022015645,
+  "document_start": "2022-09-22",
+  "document_end": "2024-09-30",
+  "in_force": "2022-09-22",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-09-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
