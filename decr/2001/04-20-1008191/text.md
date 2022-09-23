@@ -101,7 +101,15 @@ Onverminderd artikel 25 van het decreet van 31 juli 1990 tot oprichting van de V
 <br>
 § 2. De Vlaamse Regering bepaalt de voorwaarden voor het verlenen van een vergunning.<br>
 <br>
-De Vlaamse Regering kan een vergunning weigeren als ze besluit dat het vervoer de levensvatbaarheid van vergelijkbaar vervoer op de directe verbindingen in kwestie, waarvoor reeds een openbaredienstencontract is afgesloten, ernstig in het gedrang kan brengen.
+De Vlaamse Regering kan een vergunning weigeren als ze besluit dat het vervoer de levensvatbaarheid van vergelijkbaar vervoer op de directe verbindingen in kwestie, waarvoor reeds een openbaredienstencontract is afgesloten, ernstig in het gedrang kan brengen.<br>
+<br>
+§ 3. De Vlaamse Regering kan de vergunning voorlopig intrekken voor een termijn van maximaal drie maanden als de vergunninghouder de bepalingen van dit decreet of de uitvoeringsbesluiten ervan niet naleeft.<br>
+<br>
+Als de Vlaamse Regering vaststelt dat een vergunninghouder van wie de vergunning voorlopig ingetrokken is of is geweest, nog steeds de bepalingen van dit decreet of de uitvoeringsbesluiten ervan niet naleeft, wordt de vergunning definitief ingetrokken.<br>
+<br>
+De vergunning wordt zonder schadeloosstelling ingetrokken, nadat de vergunninghouder gehoord is en na een grondig onderzoek.<br>
+<br>
+Als een vergunninghouder zich herhaaldelijk schuldig heeft gemaakt aan ernstige inbreuken op de reglementering over de verkeersveiligheid, onder andere met betrekking tot de normen voor de voertuigen en de rij- en rusttijden van de bestuurders, verbiedt de Vlaamse Regering die vergunninghouder om nog langer vervoer op het Vlaamse grondgebied te organiseren.
 
 ### ART. 17.
 
