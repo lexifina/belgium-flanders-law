@@ -722,7 +722,7 @@ Voertuiggebonden exploitatie betreft de exploitatie met voertuigen die op de weg
 
 ### ART 44.
 
-De gemeente voorziet de haltes van de nodige infrastructuur.<br>
+De Vlaamse Regering wijst de actor of de actoren aan die bij de haltes verantwoordelijk zijn voor de plaatsing, het onderhoud en de vernieuwing van de haltepaal en het haltebord, en in voorkomend geval van de digitale informatieborden, en voor de naamgeving van de haltes. De gemeente voorziet de haltes van de nodige bijbehorende infrastructuur.<br>
 <br>
 De Vlaamse Regering kan regels vastleggen over de inplanting en de aanleg van kwaliteitsvolle, minstens toegankelijke, haltes, alsook het uitrustingsniveau ervan.
 
