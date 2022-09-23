@@ -371,15 +371,15 @@ Dit besluit treedt in werking op 1 juni 2008.
 ### BIJLAGE
 
 <strong>5) BELEIDSDOMEIN WLEZIJN, VOLKSGEZONDHEID EN GEZIN</strong>
-<table border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
-			<td style="width: 185px;">&nbsp;</td>
-			<td style="width: 191px;"><strong>B/S-opdrachten</strong></td>
-			<td style="width: 204px;" colspan="2"><strong>Verloning</strong></td>
+			<td style="width:185px">&nbsp;</td>
+			<td style="width:191px"><strong>B/S-opdrachten</strong></td>
+			<td colspan="2" style="width:204px"><strong>Verloning</strong></td>
 		</tr>
 		<tr>
-			<td style="width: 185px;" rowspan="8" colspan="1">5.1 Kind en Gezin<br>
+			<td colspan="1" rowspan="6" style="width:185px">5.1 Opgroeien regie<br>
 			&nbsp;<br>
 			&nbsp;<br>
 			&nbsp;<br>
@@ -387,78 +387,70 @@ Dit besluit treedt in werking op 1 juni 2008.
 			&nbsp;<br>
 			&nbsp;<br>
 			&nbsp;</td>
-			<td style="width: 191px;" rowspan="2" colspan="1">Provinciaal adviserend arts<br>
+			<td colspan="1" rowspan="2" style="width:191px">adviserend arts<br>
 			&nbsp;</td>
-			<td style="width: 111px;">&nbsp;</td>
-			<td style="width: 94px;">A121P</td>
+			<td style="width:111px">&nbsp;</td>
+			<td style="width:94px">A121P</td>
 		</tr>
 		<tr>
-			<td style="width: 111px;">Na 6 jaar effectieve of daarmee gelijkgestelde prestaties</td>
-			<td style="width: 94px;">A122P</td>
+			<td style="width:111px">Na 6 jaar effectieve of daarmee gelijkgestelde prestaties</td>
+			<td style="width:94px">A122P</td>
 		</tr>
 		<tr>
-			<td style="width: 191px;">Restaurantpersoneel</td>
-			<td style="width: 204px;" colspan="2">D111</td>
+			<td style="width:191px">IT manager</td>
+			<td colspan="2" style="width:204px">A221</td>
 		</tr>
 		<tr>
-			<td style="width: 191px;">IT manager</td>
-			<td style="width: 204px;" colspan="2">A221</td>
-		</tr>
-		<tr>
-			<td style="width: 191px;">Marketing en PR verantwoordelijke K&amp;G academie</td>
-			<td style="width: 204px;" colspan="2">A211</td>
-		</tr>
-		<tr>
-			<td style="width: 191px;" rowspan="3" colspan="1">De contractuele betrekkingen van gezinsondersteuner<br>
+			<td colspan="1" rowspan="3" style="width:191px">De contractuele betrekkingen van gezinsondersteuner<br>
 			&nbsp;<br>
 			&nbsp;</td>
-			<td style="width: 111px;">Zonder diploma niveau C</td>
-			<td style="width: 94px;">D111</td>
+			<td style="width:111px">Zonder diploma niveau C</td>
+			<td style="width:94px">D111</td>
 		</tr>
 		<tr>
-			<td style="width: 111px;">Met diploma niveau C</td>
-			<td style="width: 94px;">C111</td>
+			<td style="width:111px">Met diploma niveau C</td>
+			<td style="width:94px">C111</td>
 		</tr>
 		<tr>
-			<td style="width: 111px;">Na opleiding overeenkomstig functie profiel</td>
-			<td style="width: 94px;">D121</td>
+			<td style="width:111px">Na opleiding overeenkomstig functie profiel</td>
+			<td style="width:94px">D121</td>
 		</tr>
 		<tr>
-			<td style="width: 185px;">5.2 Vlaams Agentschap voor Personen met een Handicap</td>
-			<td style="width: 191px;">Chauffeur beheer en directie</td>
-			<td style="width: 204px;" colspan="2">D232</td>
+			<td style="width:185px">5.2 Vlaams Agentschap voor Personen met een Handicap</td>
+			<td style="width:191px">Chauffeur beheer en directie</td>
+			<td colspan="2" style="width:204px">D232</td>
 		</tr>
 		<tr>
-			<td style="width: 185px;" rowspan="3" colspan="1">&nbsp;5.3. Zorg en Gezondheid<br>
+			<td colspan="1" rowspan="3" style="width:185px">&nbsp;5.3. Zorg en Gezondheid<br>
 			&nbsp;<br>
 			&nbsp;</td>
-			<td style="width: 191px;" rowspan="3" colspan="1">Deskundige (gezondheidswerker of verpleegkundige – VRGT-taken)<br>
+			<td colspan="1" rowspan="3" style="width:191px">Deskundige (gezondheidswerker of verpleegkundige – VRGT-taken)<br>
 			&nbsp;<br>
 			&nbsp;</td>
-			<td style="width: 204px;" colspan="2">B111</td>
+			<td colspan="2" style="width:204px">B111</td>
 		</tr>
 		<tr>
-			<td style="width: 111px;">Na 8 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</td>
-			<td style="width: 94px;">B112</td>
+			<td style="width:111px">Na 8 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</td>
+			<td style="width:94px">B112</td>
 		</tr>
 		<tr>
-			<td style="width: 111px;">Na 10 jaar effectieve of daarmee gelijkgestelde prestaties in de tweede salarisschaal</td>
-			<td style="width: 94px;">B211</td>
+			<td style="width:111px">Na 10 jaar effectieve of daarmee gelijkgestelde prestaties in de tweede salarisschaal</td>
+			<td style="width:94px">B211</td>
 		</tr>
 		<tr>
-			<td style="width: 185px;" rowspan="3" colspan="1">5.4 OPZ Rekem<br>
+			<td colspan="1" rowspan="3" style="width:185px">5.4 OPZ Rekem<br>
 			&nbsp;<br>
 			&nbsp;</td>
-			<td style="width: 191px;">Project coördinator forensisch Kenniscentrum (KeFor)</td>
-			<td style="width: 204px;" colspan="2">A285</td>
+			<td style="width:191px">Project coördinator forensisch Kenniscentrum (KeFor)</td>
+			<td colspan="2" style="width:204px">A285</td>
 		</tr>
 		<tr>
-			<td style="width: 191px;">Wetenschappelijk medewerker senior Forensisch kenniscentrum (KeFor)</td>
-			<td style="width: 204px;" colspan="2">A211</td>
+			<td style="width:191px">Wetenschappelijk medewerker senior Forensisch kenniscentrum (KeFor)</td>
+			<td colspan="2" style="width:204px">A211</td>
 		</tr>
 		<tr>
-			<td style="width: 191px;">Wetenschappelijk medewerker junior Forensisch kenniscentrum (KeFor)</td>
-			<td style="width: 204px;" colspan="2">A111</td>
+			<td style="width:191px">Wetenschappelijk medewerker junior Forensisch kenniscentrum (KeFor)</td>
+			<td colspan="2" style="width:204px">A111</td>
 		</tr>
 	</tbody>
 </table>
@@ -549,15 +541,15 @@ Dit besluit treedt in werking op 1 juni 2008.
 ### BIJLAGE
 
 <strong>7) BELEIDSDOMEIN WERK EN SOCIALE ECONOMIE</strong>
-<table border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
-			<td style="width: 191px;">&nbsp;</td>
-			<td style="width: 267px;"><strong>B/S-opdrachten</strong></td>
-			<td style="width: 122px;"><strong>Verloning</strong></td>
+			<td style="width:191px">&nbsp;</td>
+			<td style="width:267px"><strong>B/S-opdrachten</strong></td>
+			<td style="width:122px"><strong>Verloning</strong></td>
 		</tr>
 		<tr>
-			<td style="width: 191px;" rowspan="9" colspan="1">7.1 Departement Werk en Sociale Economie<br>
+			<td colspan="1" rowspan="9" style="width:191px">7.1 Departement Werk en Sociale Economie<br>
 			&nbsp;<br>
 			&nbsp;<br>
 			&nbsp;<br>
@@ -566,48 +558,48 @@ Dit besluit treedt in werking op 1 juni 2008.
 			&nbsp;<br>
 			&nbsp;<br>
 			&nbsp;</td>
-			<td style="width: 267px;">Directeur stuurgroep strategisch arbeidsmarktbeleid</td>
-			<td style="width: 122px;">A211</td>
+			<td style="width:267px">Directeur stuurgroep strategisch arbeidsmarktbeleid</td>
+			<td style="width:122px">A211</td>
 		</tr>
 		<tr>
-			<td style="width: 267px;">Directeur subregionaal arbeidsmarktbeleid</td>
-			<td style="width: 122px;">A211</td>
+			<td style="width:267px">Directeur subregionaal arbeidsmarktbeleid</td>
+			<td style="width:122px">A211</td>
 		</tr>
 		<tr>
-			<td style="width: 267px;">Adjunct van de directeur opvolging VESOC-actieplannen</td>
-			<td style="width: 122px;">A111</td>
+			<td style="width:267px">Adjunct van de directeur opvolging VESOC-actieplannen</td>
+			<td style="width:122px">A111</td>
 		</tr>
 		<tr>
-			<td style="width: 267px;">Adjunct van de directeur Europees Sociaal Fonds</td>
-			<td style="width: 122px;">A111</td>
+			<td style="width:267px">Adjunct van de directeur Europees Sociaal Fonds</td>
+			<td style="width:122px">A111</td>
 		</tr>
 		<tr>
-			<td style="width: 267px;">Adjunct van de directeur hefboomkredieten</td>
-			<td style="width: 122px;">A111</td>
+			<td style="width:267px">Adjunct van de directeur hefboomkredieten</td>
+			<td style="width:122px">A111</td>
 		</tr>
 		<tr>
-			<td style="width: 267px;">Deskundige subregionaal arbeidsmarktbeleid</td>
-			<td style="width: 122px;">B111</td>
+			<td style="width:267px">Deskundige subregionaal arbeidsmarktbeleid</td>
+			<td style="width:122px">B111</td>
 		</tr>
 		<tr>
-			<td style="width: 267px;">Medewerker opvolging VESOC-actieplannen</td>
-			<td style="width: 122px;">C111</td>
+			<td style="width:267px">Medewerker opvolging VESOC-actieplannen</td>
+			<td style="width:122px">C111</td>
 		</tr>
 		<tr>
-			<td style="width: 267px;">Medewerker Europees Sociaal Fonds</td>
-			<td style="width: 122px;">C111</td>
+			<td style="width:267px">Medewerker Europees Sociaal Fonds</td>
+			<td style="width:122px">C111</td>
 		</tr>
 		<tr>
-			<td style="width: 267px;">Medewerker hefboomkredieten</td>
-			<td style="width: 122px;">C111</td>
+			<td style="width:267px">Medewerker hefboomkredieten</td>
+			<td style="width:122px">C111</td>
 		</tr>
 		<tr>
-			<td style="width: 191px;">7.2 Vlaams Agentschap voor Ondernemersvorming – Syntra Vlaanderen</td>
-			<td style="width: 267px;">Schoonmaakpersoneel</td>
-			<td style="width: 122px;">D111</td>
+			<td style="width:191px">7.2...</td>
+			<td style="width:267px">...</td>
+			<td style="width:122px">...</td>
 		</tr>
 		<tr>
-			<td style="width: 191px;" rowspan="17" colspan="1">7.3 Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding<br>
+			<td colspan="1" rowspan="17" style="width:191px">7.3 Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding<br>
 			&nbsp;<br>
 			&nbsp;<br>
 			&nbsp;<br>
@@ -624,71 +616,71 @@ Dit besluit treedt in werking op 1 juni 2008.
 			&nbsp;<br>
 			&nbsp;<br>
 			&nbsp;</td>
-			<td style="width: 267px;">Schoonmaak- een bediening in restaurants</td>
-			<td style="width: 122px;">D111</td>
+			<td style="width:267px">Schoonmaak- een bediening in restaurants</td>
+			<td style="width:122px">D111</td>
 		</tr>
 		<tr>
-			<td style="width: 267px;">Kok</td>
-			<td style="width: 122px;">C111</td>
+			<td style="width:267px">Kok</td>
+			<td style="width:122px">C111</td>
 		</tr>
 		<tr>
-			<td style="width: 267px;">Opdrachthoud(st)er diversiteit – emancipatie</td>
-			<td style="width: 122px;">A211</td>
+			<td style="width:267px">Opdrachthoud(st)er diversiteit – emancipatie</td>
+			<td style="width:122px">A211</td>
 		</tr>
 		<tr>
-			<td style="width: 267px;">ICT-manager</td>
-			<td style="width: 122px;">&nbsp;</td>
+			<td style="width:267px">ICT-manager</td>
+			<td style="width:122px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="width: 389px; text-align: center;" colspan="2">Instructie- en technisch omkaderingspersoneel</td>
+			<td colspan="2" style="text-align:center; width:389px">Instructie- en technisch omkaderingspersoneel</td>
 		</tr>
 		<tr>
-			<td style="width: 267px;">Technisch-pedagogisch directeur-coördinator</td>
-			<td style="width: 122px;">A271ip</td>
+			<td style="width:267px">Technisch-pedagogisch directeur-coördinator</td>
+			<td style="width:122px">A271ip</td>
 		</tr>
 		<tr>
-			<td style="width: 267px;">Technisch-pedagogisch directeur</td>
-			<td style="width: 122px;">A261ip</td>
+			<td style="width:267px">Technisch-pedagogisch directeur</td>
+			<td style="width:122px">A261ip</td>
 		</tr>
 		<tr>
-			<td style="width: 267px;">Technisch-pedagogisch adjunct van de directeur</td>
-			<td style="width: 122px;">A161ip</td>
+			<td style="width:267px">Technisch-pedagogisch adjunct van de directeur</td>
+			<td style="width:122px">A161ip</td>
 		</tr>
 		<tr>
-			<td style="width: 267px;">Instructeur</td>
-			<td style="width: 122px;">B161ip</td>
+			<td style="width:267px">Instructeur</td>
+			<td style="width:122px">B161ip</td>
 		</tr>
 		<tr>
-			<td style="width: 267px;">Occasionele lesgever</td>
-			<td style="width: 122px;">B151occ</td>
+			<td style="width:267px">Occasionele lesgever</td>
+			<td style="width:122px">B151occ</td>
 		</tr>
 		<tr>
-			<td style="width: 267px;">Directeur (uitdovend)</td>
-			<td style="width: 122px;">A280ip</td>
+			<td style="width:267px">Directeur (uitdovend)</td>
+			<td style="width:122px">A280ip</td>
 		</tr>
 		<tr>
-			<td style="width: 267px;">Auditor (uitdovend)</td>
-			<td style="width: 122px;">A260ip</td>
+			<td style="width:267px">Auditor (uitdovend)</td>
+			<td style="width:122px">A260ip</td>
 		</tr>
 		<tr>
-			<td style="width: 267px;">Hoofdmagazijnier, gereedschapsmaker (uitdovend)</td>
-			<td style="width: 122px;">D144to</td>
+			<td style="width:267px">Hoofdmagazijnier, gereedschapsmaker (uitdovend)</td>
+			<td style="width:122px">D144to</td>
 		</tr>
 		<tr>
-			<td style="width: 267px;">Geschoold onderhoudsarbeider (uitdovend)</td>
-			<td style="width: 122px;">D143to</td>
+			<td style="width:267px">Geschoold onderhoudsarbeider (uitdovend)</td>
+			<td style="width:122px">D143to</td>
 		</tr>
 		<tr>
-			<td style="width: 267px;">Snijder, magazijnier (uitdovend)</td>
-			<td style="width: 122px;">D142to</td>
+			<td style="width:267px">Snijder, magazijnier (uitdovend)</td>
+			<td style="width:122px">D142to</td>
 		</tr>
 		<tr>
-			<td style="width: 267px;">Handlanger (uitdovend)</td>
-			<td style="width: 122px;">D141to</td>
+			<td style="width:267px">Handlanger (uitdovend)</td>
+			<td style="width:122px">D141to</td>
 		</tr>
 		<tr>
-			<td style="width: 267px;">Directeur (uitdovend)</td>
-			<td style="width: 122px;">A280ip</td>
+			<td style="width:267px">Directeur (uitdovend)</td>
+			<td style="width:122px">A280ip</td>
 		</tr>
 	</tbody>
 </table>
@@ -725,77 +717,59 @@ Dit besluit treedt in werking op 1 juni 2008.
 ### BIJLAGE
 
 <strong>9) BELEIDSDOMEIN OMGEVING</strong>
-<table border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
-			<td style="width: 135px;">&nbsp;</td>
-			<td style="width: 163px;"><strong>B/S-opdrachten</strong></td>
-			<td style="width: 283px; text-align: center;" colspan="2"><strong>Verloning</strong></td>
+			<td style="width:135px">&nbsp;</td>
+			<td style="width:163px"><strong>B/S-opdrachten</strong></td>
+			<td colspan="2" style="text-align:center; width:283px"><strong>Verloning</strong></td>
 		</tr>
 		<tr>
-			<td style="width: 135px;">9.1. ...</td>
-			<td style="width: 163px;">&nbsp;</td>
-			<td style="width: 283px;" colspan="2">&nbsp;</td>
+			<td style="width:135px">9.1. ...</td>
+			<td style="width:163px">&nbsp;</td>
+			<td colspan="2" style="width:283px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="width: 135px;">9.2 Instituut voor Natuur- en Bosonderzoek</td>
-			<td style="width: 163px;">Gespecialiseerde betrekkingen uitgeoefend door het wetenschappelijk personeel voor de uitvoering van onderzoeksprogramma’s</td>
-			<td style="width: 283px;" colspan="2">A165, tenzij voldaan is aan de voorwaarden vermeld in artikel VI109, § 2 van het Vlaams personeelsstatuut van 13.01.2006</td>
+			<td style="width:135px">9.2 Instituut voor Natuur- en Bosonderzoek</td>
+			<td style="width:163px">Gespecialiseerde betrekkingen uitgeoefend door het wetenschappelijk personeel voor de uitvoering van onderzoeksprogramma’s</td>
+			<td colspan="2" style="width:283px">A165, tenzij voldaan is aan de voorwaarden vermeld in artikel VI109, § 2 van het Vlaams personeelsstatuut van 13.01.2006</td>
 		</tr>
 		<tr>
-			<td style="width: 135px;">9.3 Vlaamse Landmaatschappij</td>
-			<td style="width: 163px;">Schoonmaak- en cateringpersoneel (uitvoerende functie)</td>
-			<td style="width: 283px;" colspan="2">D111</td>
+			<td style="width:135px">9.3 Vlaamse Landmaatschappij</td>
+			<td style="width:163px">Schoonmaak- en cateringpersoneel (uitvoerende functie)</td>
+			<td colspan="2" style="width:283px">D111</td>
 		</tr>
 		<tr>
-			<td style="width: 135px;" rowspan="2" colspan="1">9.4 Vlaamse Milieumaatschappij</td>
-			<td style="width: 163px;" rowspan="2" colspan="1">Schoonmaakpersoneel<br>
+			<td colspan="1" rowspan="2" style="width:135px">9.4 Vlaamse Milieumaatschappij</td>
+			<td colspan="1" rowspan="2" style="width:163px">Schoonmaakpersoneel<br>
 			&nbsp;</td>
-			<td style="width: 160px;">Uitvoerende functie</td>
-			<td style="width: 123px;">D111</td>
+			<td style="width:160px">Uitvoerende functie</td>
+			<td style="width:123px">D111</td>
 		</tr>
 		<tr>
-			<td style="width: 160px;">Werf- en sectorverantwoordelijke</td>
-			<td style="width: 123px;">D211</td>
+			<td style="width:160px">Werf- en sectorverantwoordelijke</td>
+			<td style="width:123px">D211</td>
 		</tr>
 		<tr>
-			<td style="width: 135px;" colspan="1">9.5 ...</td>
-			<td style="width: 163px;" colspan="1">&nbsp;</td>
-			<td style="width: 160px;">&nbsp;</td>
-			<td style="width: 123px;">&nbsp;</td>
+			<td colspan="1" style="width:135px">9.5 ...</td>
+			<td colspan="1" style="width:163px">&nbsp;</td>
+			<td style="width:160px">&nbsp;</td>
+			<td style="width:123px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="width: 135px;" rowspan="4" colspan="1">9.6 Vlaams Energie Agentschap<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;</td>
-			<td style="width: 163px;" rowspan="2" colspan="1">Schoonmaakpersoneel<br>
-			&nbsp;</td>
-			<td style="width: 160px;">Uitvoerende functie</td>
-			<td style="width: 123px;">D111</td>
+			<td colspan="1" style="width:135px">9.6 ...</td>
+			<td colspan="1" style="width:163px">&nbsp;</td>
+			<td style="width:160px">&nbsp;</td>
+			<td style="width:123px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="width: 160px;">Werf- en sectorverantwoordelijke</td>
-			<td style="width: 123px;">D211</td>
+			<td colspan="1" rowspan="2" style="width:135px">9.7 Agentschap Wonen Vlaanderen</td>
+			<td colspan="1" rowspan="2" style="width:163px">Stafmedewerker Woonkwaliteit (uitdovend)</td>
+			<td colspan="2" rowspan="1" style="width:160px">B114</td>
 		</tr>
 		<tr>
-			<td style="width: 163px;" rowspan="2" colspan="1">Cateringpersoneel<br>
-			&nbsp;</td>
-			<td style="width: 160px;">Kok</td>
-			<td style="width: 123px;">D132</td>
-		</tr>
-		<tr>
-			<td style="width: 160px;">Keukenpersoneel</td>
-			<td style="width: 123px;">D111</td>
-		</tr>
-		<tr>
-			<td style="width: 135px;" rowspan="2" colspan="1">9.7 Agentschap Wonen Vlaanderen</td>
-			<td style="width: 163px;" rowspan="2" colspan="1">Stafmedewerker Woonkwaliteit (uitdovend)</td>
-			<td style="width: 160px;" rowspan="1" colspan="2">B114</td>
-		</tr>
-		<tr>
-			<td style="width: 160px;">Na 14 jaar geldelijke anciënniteit</td>
-			<td style="width: 123px;">B222</td>
+			<td style="width:160px">Na 14 jaar geldelijke anciënniteit</td>
+			<td style="width:123px">B222</td>
 		</tr>
 	</tbody>
 </table>
