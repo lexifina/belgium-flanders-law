@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037399,
+  "title": "Decreet van 2022-07-08 tot wijziging van artikel 23 van de wet van 16 maart 1968 betreffende de politie over het wegverkeer, van artikel 1 van de wet van 21 juni 1985 betreffende de technische eisen waaraan elk voertuig voor vervoer te land, de onderdelen ervan, evenals het veiligheidstoebehoren moeten voldoen, van artikel 16 van het decreet van 20 april 2001 betreffende de organisatie van het personenvervoer over de weg en van artikel 44 van het decreet van 26 april 2019 betreffende de basisbereikbaarheid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037399/VolledigDocument?datum=2022-09-23",
+  "source_sha256": "ee713da1415f8742efb669769119be0f0b332ea94541918b2982eb39dd12d618",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037399&param=informatie",
+  "as_of": "2022-09-23",
+  "made": "2022-07-08",
+  "gazette": "2022-09-13",
+  "numac": 2022015536,
+  "document_start": "2022-09-23",
+  "document_end": null,
+  "in_force": "2022-09-23",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2022-09-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
