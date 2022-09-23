@@ -2,16 +2,16 @@
   "codex_id": 1002838,
   "title": "Decreet van 1995-04-05 houdende algemene bepalingen inzake milieubeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002838/VolledigDocument?datum=2021-04-11",
-  "source_sha256": "6b5ece34204dc622c69449f96de88fa3a0586b29ee253524734c27fb3f610c9d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002838/VolledigDocument?datum=2022-09-23",
+  "source_sha256": "b4abc128c5d5fddb76c57465f68249873bad04a46e4b1d55f608bb7f40da319d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002838&param=informatie",
-  "as_of": "2021-04-11",
+  "as_of": "2022-09-23",
   "made": "1995-04-05",
   "gazette": "1995-06-03",
   "numac": 1995035716,
   "document_start": null,
   "document_end": null,
-  "in_force": "2021-04-11",
-  "article_versions": 433,
-  "record_form": "consolidated version as in force on 2021-04-11; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-09-23",
+  "article_versions": 435,
+  "record_form": "consolidated version as in force on 2022-09-23; future article versions excluded; article text as the API gives it"
 }

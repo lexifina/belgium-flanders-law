@@ -1577,9 +1577,15 @@ In deze titel wordt verstaan onder:<br>
 1° bevoegde autoriteit: de instantie, aangewezen overeenkomstig artikel 18 van richtlijn 2003/87/ EG, namelijk het VEKA;<br>
 2° BKG-installatie: een vaste technische eenheid waarin een of meer van de activiteiten en processen, zoals omschreven in de indelingslijst in bijlage I, van titel I, van het VLAREM en aangeduid met de letter Y in de vierde kolom van de indelingslijst in bijlage I, van titel I, van het VLAREM, alsmede andere op dezelfde locatie ten uitvoer gebrachte en daarmee rechtstreeks samenhangende activiteiten plaatsvinden die technisch in verband staan met voormelde activiteiten en die gevolgen kunnen hebben voor de emissies en de verontreiniging;<br>
 3° broeikasgassen: koolstofdioxide (CO2), methaan (CH4), distikstofoxide (N2O), onvolledig gefluoreerde koolwaterstoffen (HFK's), perfluorkoolwaterstoffen (PFK's) en zwavelhexafluoride (SF6);<br>
+3° /1 CORSIA: Carbon Offsetting and Reduction Scheme for International Aviation, de regeling voor koolstofcompensatie en -reductie voor internationale luchtvaart zoals beslist door de Internationale Burgerluchtvaartorganisatie (ICAO) op 27 juni 2018;<br>
+3° /2 CORSIA-vliegtuigexploitant: een luchtvaartmaatschappij die onder het toepassingsgebied van artikel 1 van de gedelegeerde verordening (EU) 2019/1603 valt, en die ofwel:<br>
+a) beschikt over een geldige door België verleende exploitatievergunning conform verordening (EG) 1008/2008 van het Europees Parlement en de Raad van 24 september 2008 inzake gemeenschappelijke regels voor de exploitatie van luchtdiensten in de Gemeenschap;<br>
+b) niet beschikt over een exploitatievergunning verleend door een lidstaat van de Europese Unie, of een daarmee gelijkgestelde vergunning verleend door een derde land ofwel een ICAO-telefonieaanduiding en waarvan de maatschappelijke zetel van de rechtspersoon in België is gevestigd.<br>
+Wordt niet beschouwd als een CORSIA-vliegtuigexploitant: een luchtvaartmaatschappij opgenomen in de bijlage bij verordening (EG) 748/2009 van de Commissie van 5 augustus 2009 betreffende de lijst van vliegtuigexploitanten die op of na 1 januari 2006 een in bijlage I bij richtlijn 2003/87/EG genoemde luchtvaartactiviteit hebben uitgeoefend, met specificatie van de administrerende lidstaat van elke vliegtuigexploitant, die conform deze bijlage een andere administrerende lidstaat dan België heeft;<br>
 4° eerste verbintenisperiode: de periode van 1 januari 2008 tot en met 31 december 2012;<br>
 5° emissie: de emissie van broeikasgassen in de atmosfeer door bronnen die aanwezig zijn in een BKG-installatie, of de emissie door een vliegtuig van CO2 ten gevolge van een luchtvaartactiviteit;<br>
 6° emissierecht: een overdraagbaar recht om gedurende een bepaalde periode of handels- periode één ton CO2-equivalent aan broeikasgassen uit te stoten;<br>
+6° /1 gedelegeerde verordening (EU) 2019/1603: de gedelegeerde verordening (EU) 2019/1603 van de Commissie van 18 juli 2019 tot aanvulling van Richtlijn 2003/87/EG van het Europees Parlement en de Raad wat betreft de door de Internationale Burgerluchtvaartorganisatie aangenomen maatregelen voor de monitoring, rapportage en verificatie van luchtvaartemissies ter uitvoering van een wereldwijde marktgebaseerde maatregel;<br>
 7° handelsperiode: de eerste verbintenisperiode of de tweede verbintenisperiode;<br>
 8° klimaatfonds: het Vlaamse Klimaatfonds, opgericht bij artikel 14 van het decreet van 13 juli 2012 houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2012;<br>
 9° luchthavenbeheerder: de publiekrechtelijke of privaatrechtelijke persoon die verantwoordelijk is voor de luchthaven waaraan de meeste luchtvaartactiviteiten van de vlieg- tuigexploitant worden toegeschreven in het referentiejaar. In het geval dat er aan meerdere luchthavens evenveel luchtvaartactiviteiten worden toegeschreven, is de luchthavenbeheerder de publiekrechtelijke of privaatrechtelijke persoon die verantwoordelijk is voor de luchthaven waarvoor de CO2-emissies van de aan haar toegeschreven luchtvaartactiviteiten het grootste zijn;<br>
@@ -1593,7 +1599,7 @@ In deze titel wordt verstaan onder:<br>
 17° ton CO2-equivalent: een metrische ton koolstofdioxide (CO2) of een hoeveelheid van een ander broeikasgas met een gelijkwaardig aardopwarmingspotentieel;<br>
 18° tweede verbintenisperiode: de periode van 1 januari 2013 tot en met 31 december 2020;<br>
 18° /1 VEKA: het agentschap, vermeld in titel II van het Energiebesluit van 19 november 2010;<br>
-19° Verordening nr. 600/2012: Verordening (EU) nr. 600/2012 van de Commissie van 21 juni 2012 inzake de verificatie van broeikasgasemissie- en tonkilometerverslagen en de accreditatie van verificateurs krachtens Richtlijn 2003/87/EG van het Europees Parlement en de Raad;<br>
+19° uitvoeringsverordening (EU) 2018/2067: uitvoeringsverordening (EU) 2018/2067 van de Commissie van 19 december 2018 inzake de verificatie van gegevens en de accreditatie van verificateurs krachtens Richtlijn 2003/87/EG van het Europees Parlement en de Raad;<br>
 20° vliegtuigexploitant: de persoon die een luchtvaartuig exploiteert op het moment dat die een luchtvaartactiviteit uitoefent, of, als die persoon niet bekend is of niet is geïdentificeerd door de eigenaar van het vliegtuig, de eigenaar van het vliegtuig.
 
 ## [HOOFDSTUK II BEPALINGEN OVER BKG-INSTALLATIES (ing. decr. 14 februari 2014, art. 6, I: 6 mei 2014)]
@@ -1616,7 +1622,11 @@ Een luchthaven krijgt een luchtvaartactiviteit toegeschreven als deze   vertrekt
 
 ### ART. 8.3.2.
 
-De bevoegde autoriteit van elke vliegtuigexploitant, die onder de   administratieve bevoegdheid van België valt, wordt vermeld op de lijst die   overeenkomstig artikel 4 van het samenwerkingsakkoord van 2 september 2013   gepubliceerd wordt door de register-administrateur.<BR><BR>In het eerste lid   wordt verstaan onder registeradministrateur: de persoon of personen die het   nationaal register beheert of beheren en bijhoudt of bijhouden overeenkomstig   het samenwerkingsakkoord van 18 juni 2008 tussen de Federale Staat, het Vlaamse   Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de   organisatie en het administratief beheer van het gestandaardiseerd en   genormaliseerd registersysteem van België overeenkomstig Richtlijn 2003/87/EG   van het Europees Parlement en de Raad en Beschikking 280/2004/EG van het   Europees Parlement en de Raad.<BR><BR>Het Vlaamse Gewest is de bevoegde   autoriteit voor elke vliegtuigexploitant die onder de administratieve   bevoegdheid van België valt en waarvoor geldt dat de luchthaven die beheerd   wordt door de luchthavenbeheerder van de betreffende vliegtuigexploitant, op het   grondgebied van het Vlaamse Gewest ligt.
+De bevoegde autoriteit van elke vliegtuigexploitant, die onder de administratieve bevoegdheid van België valt, wordt vermeld op de lijst die overeenkomstig artikel 4 van het samenwerkingsakkoord van 2 september 2013 gepubliceerd wordt door de register-administrateur.<br>
+<br>
+In het eerste lid wordt verstaan onder registeradministrateur: de Belgische nationale administrateur overeenkomstig verordening (EU) 389/2013 van de Commissie van 2 mei 2013 tot instelling van een EU-register overeenkomstig Richtlijn 2003/87/ EG van het Europees Parlement en de Raad, Beschikkingen nrs. 280/2004/EG en 406/2009/EG van het Europees Parlement en de Raad en tot intrekking van de Verordeningen (EU) nr. 920/2010 en 1193/2011 van de Commissie.<br>
+<br>
+Het Vlaamse Gewest is de bevoegde autoriteit voor elke vliegtuigexploitant die onder de administratieve bevoegdheid van België valt en waarvoor geldt dat de luchthaven die beheerd wordt door de luchthavenbeheerder van de betreffende vliegtuigexploitant, op het grondgebied van het Vlaamse Gewest ligt.
 
 ### ART. 8.3.3.
 
@@ -1627,19 +1637,41 @@ Ter uitvoering van artikel 22 van het samenwerkingsakkoord van 2 september   201
 ### ART 8.3.3bis.
 
 § 1. In afwijking van artikel 8.3.6 beschouwt de bevoegde autoriteit de verplichtingen, vermeld in de voormelde artikelen, als vervuld en onderneemt ze geen actie tegen vliegtuigexploitanten voor:<br>
-1° alle emissies van vluchten naar of van luchthavens gelegen in landen buiten de Europese Economische Ruimte in elk kalenderjaar met ingang van 1 januari 2013 tot en met 31 december 2016;<br>
-2° alle emissies van vluchten tussen een luchthaven gelegen in een ultraperifeer gebied in de zin van artikel 349 van het Verdrag betreffende de werking van de Europese Unie, en een luchthaven gelegen in een ander gebied van de Europese Economische Ruimte in elk kalenderjaar met ingang van 1 januari 2013 tot en met 31 december 2016;<br>
-3° de inlevering van emissierechten voor geverifieerde emissies voor 2013 voor vluchten tussen luchthavens gelegen in landen van de Europese Economische Ruimte, die uiterlijk op 30 april 2015 in plaats van uiterlijk op 30 april 2014 plaatsvindt, en geverifieerde emissies van 2013 van die vluchten, die uiterlijk op 31 maart 2015 in plaats van 31 maart 2014 worden gerapporteerd.<br>
+1° alle emissies van vluchten naar of van luchthavens gelegen in landen buiten de Europese Economische Ruimte in elk kalenderjaar met ingang van 1 januari 2013 tot en met 31 december 2023;<br>
+2° alle emissies van vluchten tussen een luchthaven gelegen in een ultraperifeer gebied in de zin van artikel 349 van het Verdrag betreffende de werking van de Europese Unie, en een luchthaven gelegen in een ander gebied van de Europese Economische Ruimte in elk kalenderjaar met ingang van 1 januari 2013 tot en met 31 december 2023;<br>
+3° ...<br>
 <br>
-Voor de toepassing van artikel 8.3.6, § 2 en § 3, worden de geverifieerde emissies van vluchten andere dan deze vermeld in het eerste lid, 1° en 2°, beschouwd als geverifieerde emissies van de vliegtuigexploitant.<br>
+Voor de toepassing van artikel 8.3.6, § 2 en § 3, worden de geverifieerde emissies van vluchten andere dan deze vermeld in het eerste lid beschouwd als geverifieerde emissies van de vliegtuigexploitant.<br>
 <br>
-§ 2. In afwijking van artikel 8.3.4, § 6, en artikel 8.3.5, § 6, worden aan vliegtuigexploitanten voor wie de tijdelijke afwijkingen, vermeld in paragraaf 1, eerste lid, 1° en 2°, gelden, een aantal kosteloze emissierechten toegewezen die zijn verminderd in verhouding tot de vermindering van de verplichting om emissierechten in te leveren, vermeld in paragraaf 1, eerste lid, 1° en 2°.<br>
+§ 2. In afwijking van artikel 8.3.4, § 6, en artikel 8.3.5, § 6, worden aan vliegtuigexploitanten voor wie de tijdelijke afwijkingen, vermeld in paragraaf 1, eerste lid gelden, elk jaar een aantal kosteloze emissierechten toegewezen die zijn verminderd in verhouding tot de vermindering van de verplichting om emissierechten in te leveren, vermeld in paragraaf 1, eerste lid.<br>
 <br>
-§ 3. In afwijking van artikel 8.3.6, § 1, zijn vliegtuigexploitanten niet verplicht om emissiemonitoringplannen in te dienen die de maatregelen beschrijven om emissies te bewaken en te rapporteren met betrekking tot vluchten waarvoor de tijdelijke afwijkingen, vermeld in paragraaf 1, eerste lid, 1° en 2°, gelden.<br>
+De bevoegde autoriteit berekent het aantal kosteloos toegewezen emissierechten overeenkomstig het eerste lid en maakt die aantallen bekend in het Belgisch Staatsblad.<br>
 <br>
-§ 4. In afwijking van artikel 8.3.6, § 2 en § 4, worden de emissies van een vliegtuigexploitant met totale jaarlijkse emissies van minder dan 25.000 ton CO2 beschouwd als geverifieerde emissies als deze werden vastgesteld met gebruikmaking van het instrument voor kleine emittenten dat door verordening (EU) nr. 606/2010 van de Commissie van 9 juli 2010 inzake de goedkeuring van een vereenvoudigd instrument, ontwikkeld door Eurocontrol, voor de raming van het brandstofverbruik van bepaalde vliegtuigexploitanten met een geringe emissie, is goedgekeurd en door Eurocontrol werd voorzien van gegevens uit zijn ETS-ondersteuningsfaciliteit.
+§ 3. In afwijking van artikel 8.3.6, § 1, zijn vliegtuigexploitanten niet verplicht om emissiemonitoringplannen in te dienen die de maatregelen beschrijven om emissies te bewaken en te rapporteren met betrekking tot vluchten waarvoor de tijdelijke afwijkingen, vermeld in paragraaf 1, eerste lid, gelden.<br>
+<br>
+§ 4. In afwijking van artikel 8.3.6, § 2 en § 4, worden de emissies van een vliegtuigexploitant met totale jaarlijkse emissies van minder dan 25.000 ton CO<sub>2</sub> of van een vliegtuigexploitant met totale jaarlijkse emissies van minder dan 3000 ton CO2 van andere vluchten dan die, vermeld in paragraaf 1, beschouwd als geverifieerde emissies als deze werden vastgesteld met gebruikmaking van het instrument voor kleine emittenten dat door verordening (EU) nr. 606/2010 van de Commissie van 9 juli 2010 inzake de goedkeuring van een vereenvoudigd instrument, ontwikkeld door Eurocontrol, voor de raming van het brandstofverbruik van bepaalde vliegtuigexploitanten met een geringe emissie, is goedgekeurd en door Eurocontrol werd voorzien van gegevens uit zijn ETS-ondersteuningsfaciliteit.
 
 ## [AFDELING 1TER TENUITVOERLEGGING CORSIA (ing. decr. 8 juli 2022, art. 5, I: 23 september 2022)]
+
+### ART 8.3.3ter.
+
+§ 1. Een CORSIA-vliegtuigexploitant die overeenkomstig artikel 8.3.2 het Vlaamse Gewest als bevoegde autoriteit heeft toegewezen gekregen, heeft voor de uitvoering van CORSIA ook het Vlaamse Gewest als bevoegde autoriteit.<br>
+<br>
+§ 2. Een CORSIA-vliegtuigexploitant waaraan overeenkomstig artikel 8.3.2 geen bevoegde autoriteit is toegewezen, heeft voor de uitvoering van CORSIA het Vlaamse Gewest als bevoegde autoriteit als:<br>
+1° ofwel de maatschappelijke zetel van de rechtspersoon van de CORSIA-vliegtuigexploitant gevestigd is op het grondgebied van het Vlaamse Gewest;<br>
+2° ofwel de Nationale Klimaatcommissie heeft bepaald dat het Vlaamse Gewest de bevoegde autoriteit is overeenkomstig artikel 20/2, § 2, tweede lid, van het samenwerkingsakkoord van 2 september 2013.<br>
+<br>
+§ 3. De bevoegde autoriteit van elke CORSIA-vliegtuigexploitant wordt vermeld op de lijst van CORSIA-vliegtuigexploitanten die overeenkomstig artikel 20/2, § 3, van het samenwerkingsakkoord van 2 september 2013 gepubliceerd wordt door de registeradministrateur.
+
+### ART 8.3.3quater.
+
+§ 1. Een CORSIA-vliegtuigexploitant als vermeld in artikel 8.3.3ter, § 1, legt de monitoringplannen en emissieverslagen voor de uitvoering van CORSIA voor aan de luchthavenbeheerder, die ze onmiddellijk bezorgt aan de bevoegde autoriteit.<br>
+<br>
+§ 2. Een CORSIA-vliegtuigexploitant als vermeld in artikel 8.3.3ter, § 2, legt de monitoringplannen en emissieverslagen voor de uitvoering van CORSIA voor aan de bevoegde autoriteit.<br>
+<br>
+§ 3. De bevoegde autoriteit is belast met de goedkeuring van de monitoringplannen en emissieverslagen voor de uitvoering van CORSIA.<br>
+<br>
+§ 4. De bevoegde autoriteit is belast met het berekenen van de verplichtingen in verband met koolstofcompensatie van de CORSIA-vliegtuigexploitanten, conform de regels van hoofdstuk 3 van bijlage 16 van het verdrag inzake de internationale burgerluchtvaart, Volume IV - Carbon Offsetting and Reduction Scheme for International Aviation, aangenomen op 27 juni 2018 door de Internationale Burgerluchtvaartorganisatie (ICAO).
 
 ## [AFDELING 2 KOSTELOZE TOEWIJZING VAN EMISSIERECHTEN (ing. decr. 14 februari 2014, art. 14, I: 6 mei 2014)]
 
@@ -1653,7 +1685,7 @@ In het eerste lid wordt verstaan onder toezichtsjaar: voor de perioden van 1 jan
 <br>
 § 3. Het rapport tonkilometergegevens, vermeld in paragraaf 2, kan alleen betrekking hebben op tonkilometergegevens voor de periode waarvoor de vliegtuigexploitant beschikt over een goedgekeurd monitoringplan tonkilometergegevens.<br>
 <br>
-De bevoegde autoriteit controleert of het rapport tonkilometergegevens is geverifieerd conform de criteria vermeld in bijlage V van Richtlijn 2003/87/EG en Verordening nr. 600/2012.<br>
+De bevoegde autoriteit controleert of het rapport tonkilometergegevens is geverifieerd conform de criteria vermeld in bijlage V van Richtlijn 2003/87/EG en uitvoeringsverordening (EU) 2018/2067.<br>
 <br>
 § 4. De Vlaamse Regering kan nadere regels en procedures bepalen voor de inhoud, de indiening, de verificatie en de goedkeuring van een monitoringplan tonkilometergegevens, vermeld in paragraaf 1 en 3.<br>
 <br>
@@ -1671,7 +1703,29 @@ In het eerste lid wordt verstaan onder Emissierechtenbesluit: het besluit van de
 
 ### ART. 8.3.5.
 
-§ 1. In dit artikel wordt verstaan onder bijzondere reserve: 3% van de   totale hoeveelheid toe te wijzen emissierechten voor de periode   2013-2020.<BR><BR>§ 2. Een vliegtuigexploitant komt in aanmerking voor een   kosteloze toewijzing van emissierechten uit de bijzondere reserve voor de   periode als hij vóór 30 juni in het derde jaar van de periode een aanvraag   indient en als het een vliegtuigexploitant betreft die aan een van de volgende   voorwaarden voldoet:<BR>1° het is een vliegtuigexploitant die een   luchtvaartactiviteit aanvangt na het jaar waarvoor tonkilometergegevens zijn   ingediend conform artikel 8.3.4, § 2; of<BR>2° het is een vliegtuigexploitant   waarvan het aantal tonkilometers gemiddeld met meer dan 18% per jaar is gestegen   tussen het referentiejaar 2010, waarvoor geverifieerde tonkilometergegevens zijn   ingediend conform artikel 8.3.4, § 2, en het tweede jaar van de periode, en van   wie de extra activiteit, vermeld in punt 1°, of de extra activiteit, ver- meld   in dit punt, niet geheel of gedeeltelijk een voortzetting is van een eerder door   een andere vliegtuigexploitant uitgevoerde luchtvaartactiviteit.<BR><BR>De   aanvraag bestaat uit een geverifieerd rapport tonkilometergegevens voor het   tweede jaar van de periode en bewijzen waaruit blijkt dat de vliegtuigexploitant   voldoet aan de criteria, vermeld in punt 1° of 2°. <BR><BR>§ 3. Het rapport   tonkilometergegevens, vermeld in paragraaf 2, kan alleen betrekking hebben op   tonkilometergegevens voor de periode waarvoor de vliegtuigexploitant beschikt   over een goedgekeurd monitoringplan tonkilometergegevens.<BR><BR>De bevoegde   autoriteit controleert of het rapport tonkilometergegevens is geverifieerd   conform de criteria, vermeld in bijlage V van Richtlijn 2003/87/EG en de   Verordening nr. 600/2012.<BR><BR>§ 4. De Vlaamse Regering kan nadere regels en   procedures bepalen voor de inhoud, de indiening, de verificatie en de controle   van het rapport tonkilometergegevens, vermeld in paragraaf 2 en 3.<BR><BR>De   Vlaamse Regering kan nadere regels en procedures bepalen voor de inhoud, de   indiening en de goedkeuring van de aanvraag om in aanmerking te komen voor een   kosteloze toewijzing van emissierechten uit de bijzondere reserve voor de   periode en kan nadere regels bepalen voor de kosteloze toewijzing van   emissierechten uit de bijzondere reserve voor de periode.<BR><BR>§ 5. De   bevoegde autoriteit bezorgt de aanvragen die zijn ontvangen conform paragraaf 2,   aan de Nationale Klimaatcommissie uiterlijk op 30 september van het derde jaar   van de periode waarop ze betrekking hebben. De Nationale Klimaatcommissie   bezorgt de aanvragen op haar beurt aan de Europese Commissie.<BR><BR>§ 6. De   bevoegde autoriteit berekent de volgende hoeveelheden en maakt ze bekend in het   Belgisch Staatsblad binnen drie maanden na de datum waarop de Europese Commissie   haar Bijzondere Reserve-emissierechtenbesluit neemt:<BR>1° de totale hoeveelheid   emissierechten die uit de bijzondere reserve voor de periode wordt toegewezen   aan elke vliegtuigexploitant waarvan de aanvraag bij de Europese Commissie is   ingediend conform paragraaf 5;<BR>2° de hoeveelheid emissierechten die is   toegewezen aan elke vliegtuigexploitant voor elk volledig kalenderjaar dat   overblijft in de periode.<BR><BR>In het eerste lid wordt verstaan onder   Bijzondere Reserve-emissierechtenbesluit: het besluit van de Europese Commissie,   vermeld in artikel 3septies, vijfde lid, van Richtlijn 2003/87/EG.
+§ 1. In dit artikel wordt verstaan onder bijzondere reserve: 3% van de totale hoeveelheid toe te wijzen emissierechten voor de periode 2013-2020.<br>
+<br>
+§ 2. Een vliegtuigexploitant komt in aanmerking voor een kosteloze toewijzing van emissierechten uit de bijzondere reserve voor de periode als hij vóór 30 juni in het derde jaar van de periode een aanvraag indient en als het een vliegtuigexploitant betreft die aan een van de volgende voorwaarden voldoet:<br>
+1° het is een vliegtuigexploitant die een luchtvaartactiviteit aanvangt na het jaar waarvoor tonkilometergegevens zijn ingediend conform artikel 8.3.4, § 2; of<br>
+2° het is een vliegtuigexploitant waarvan het aantal tonkilometers gemiddeld met meer dan 18% per jaar is gestegen tussen het referentiejaar 2010, waarvoor geverifieerde tonkilometergegevens zijn ingediend conform artikel 8.3.4, § 2, en het tweede jaar van de periode, en van wie de extra activiteit, vermeld in punt 1°, of de extra activiteit, ver- meld in dit punt, niet geheel of gedeeltelijk een voortzetting is van een eerder door een andere vliegtuigexploitant uitgevoerde luchtvaartactiviteit.<br>
+<br>
+De aanvraag bestaat uit een geverifieerd rapport tonkilometergegevens voor het tweede jaar van de periode en bewijzen waaruit blijkt dat de vliegtuigexploitant voldoet aan de criteria, vermeld in punt 1° of 2°.<br>
+<br>
+§ 3. Het rapport tonkilometergegevens, vermeld in paragraaf 2, kan alleen betrekking hebben op tonkilometergegevens voor de periode waarvoor de vliegtuigexploitant beschikt over een goedgekeurd monitoringplan tonkilometergegevens.<br>
+<br>
+De bevoegde autoriteit controleert of het rapport tonkilometergegevens is geverifieerd conform de criteria, vermeld in bijlage V van Richtlijn 2003/87/EG en de uitvoeringsverordening (EU) 2018/2067.<br>
+<br>
+§ 4. De Vlaamse Regering kan nadere regels en procedures bepalen voor de inhoud, de indiening, de verificatie en de controle van het rapport tonkilometergegevens, vermeld in paragraaf 2 en 3.<br>
+<br>
+De Vlaamse Regering kan nadere regels en procedures bepalen voor de inhoud, de indiening en de goedkeuring van de aanvraag om in aanmerking te komen voor een kosteloze toewijzing van emissierechten uit de bijzondere reserve voor de periode en kan nadere regels bepalen voor de kosteloze toewijzing van emissierechten uit de bijzondere reserve voor de periode.<br>
+<br>
+§ 5. De bevoegde autoriteit bezorgt de aanvragen die zijn ontvangen conform paragraaf 2, aan de Nationale Klimaatcommissie uiterlijk op 30 september van het derde jaar van de periode waarop ze betrekking hebben. De Nationale Klimaatcommissie bezorgt de aanvragen op haar beurt aan de Europese Commissie.<br>
+<br>
+§ 6. De bevoegde autoriteit berekent de volgende hoeveelheden en maakt ze bekend in het Belgisch Staatsblad binnen drie maanden na de datum waarop de Europese Commissie haar Bijzondere Reserve-emissierechtenbesluit neemt:<br>
+1° de totale hoeveelheid emissierechten die uit de bijzondere reserve voor de periode wordt toegewezen aan elke vliegtuigexploitant waarvan de aanvraag bij de Europese Commissie is ingediend conform paragraaf 5;<br>
+2° de hoeveelheid emissierechten die is toegewezen aan elke vliegtuigexploitant voor elk volledig kalenderjaar dat overblijft in de periode.<br>
+<br>
+In het eerste lid wordt verstaan onder Bijzondere Reserve-emissierechtenbesluit: het besluit van de Europese Commissie, vermeld in artikel 3septies, vijfde lid, van Richtlijn 2003/87/EG.
 
 ## [AFDELING 4 EMISSIEMONOTORINGPLAN EN EMISSIEVERSLAG (ing. decr. 14 februari 2014, art. 18, I: 6 mei 2014)]
 
@@ -3906,7 +3960,7 @@ Vluchten met een CRCO-uitzonderingscode "H" en vluchten, geïdentificeerd met ST
 "<em>Medische noodvluchten</em>" zijn vluchten met het uitsluitende doel het vergemakkelijken van medische noodhulp, als onmiddellijk en snel transport essentieel is, door het vervoeren van medisch personeel, medische hulpmiddelen, met inbegrip van uitrusting, bloed, organen, medicatie, of zieke of gewonde personen en andere direct betrokken personen.<br>
 Vluchten, geïdentificeerd met STS/MEDEVAC of STS/HOSP in veld 18 van het vluchtplan, worden geacht vrijgestelde medische noodvluchten te zijn.<br>
 <br>
-3° vluchten die uitsluitend worden uitgevoerd volgens zichtvliegvoorschriften als vermeld in bijlage 2 bij het verdrag van Chicago.<br>
+3°/1 vluchten die uitsluitend worden uitgevoerd volgens zichtvliegvoorschriften als vermeld in bijlage 2 bij het verdrag van Chicago.<br>
 <br>
 4° vluchten die eindigen op het luchtvaartterrein vanwaar het luchtvaartuig is opgestegen en tijdens welke geen tussenlanding is gemaakt;<br>
 <br>
@@ -3926,7 +3980,7 @@ Dat zal geïnterpreteerd worden als toepasbaar op de gebieden, opgelijst in arti
 9° vluchten die zonder dit punt onder deze activiteit zouden vallen, uitgevoerd door commerciële luchtvervoersondernemingen die:<br>
 - ofwel gedurende drie opeenvolgende periodes van vier maanden minder dan 243 vluchten per periode uitvoeren;<br>
 - ofwel vluchten met een totale emissie van minder dan 10.000 ton per jaar uitvoeren.<br>
-Vluchten die uitsluitend worden uitgevoerd voor het vervoer op een officiële dienstreis van een regerende vorst en zijn directe familie, staatshoofden, regeringsleiders en ministers van een regering van lidstaat, mogen krachtens dit punt niet worden uitgesloten.<br>
+Vluchten als vermeld in punt 11° en punt 12° of vluchten die uitsluitend worden uitgevoerd voor het vervoer op een officiële dienstreis van regerende vorsten en hun directe familie, staatshoofden, regeringsleiders en ministers van de regering van een lidstaat, mogen krachtens dit punt niet worden uitgesloten.<br>
 Alle commerciële luchtvervoersondernemingen moeten een bewijs luchtvaartexploitant (Air Operator's Certificate of AOC) in hun bezit hebben overeenkomstig deel I van bijlage 6 bij de Conventie van Chicago. Een vliegtuigexploitant zonder bewijs luchtvaartexploitant is geen commerciële luchtvervoersonderneming.<br>
 Voor de toepassing van de de-minimis-regel, is de voorwaarde commercieel te zijn, gekoppeld aan de vliegtuigexploitant en niet aan de vluchten in kwestie. Dat betekent in het bijzonder dat rekening wordt gehouden met de vluchten, uitgevoerd door een commerciële luchtvervoersonderneming om te beslissen of de vliegtuigexploitant boven of onder de uitzonderingsdrempels valt, zelfs als die vluchten niet tegen een vergoeding worden uitgevoerd.<br>
 Alleen vluchten die vertrekken van of aankomen in een luchtvaartterrein op het grondgebied van een lidstaat van de Europese Economische Ruimte, komen in aanmerking om te beslissen of de vliegtuigexploitant boven of onder de uitzonderingsdrempels van de de-minimis-regel valt. Vluchten, die worden uitgesloten op basis van punt 1° tot en met punt 10°, zullen niet in beschouwing genomen worden voor dezelfde doeleinden.<br>
@@ -3935,4 +3989,8 @@ Een commerciële vliegtuigexploitant die 243 vluchten per periode of meer uitvoe
 243 vluchten bereikt of overschreden wordt.<br>
 Een commerciële vliegtuigexploitant die vluchten uitvoert met jaarlijkse emissies gelijk aan of hoger dan 10.000 ton per jaar, valt onder het toepassingsgebied van het Europese emissiehandelssysteem voor het kalenderjaar waarin de drempel van 10.000 ton bereikt of overschreden wordt;<br>
 <br>
-10° met ingang van 1 januari 2013 tot en met 31 december 2020, vluchten die zonder dit punt onder deze activiteit zouden vallen, en die worden uitgevoerd door een niet-commerciële vliegtuigexploitant die vluchten uitvoert met een totale emissie van minder dan 1000 ton per jaar.</p>
+10° met ingang van 1 januari 2013 tot en met 31 december 2030, vluchten die zonder dit punt onder deze activiteit zouden vallen, en die worden uitgevoerd door een niet-commerciële vliegtuigexploitant die vluchten uitvoert met een totale emissie van minder dan 1000 ton per jaar, met inbegrip van de emissies van de vluchten, vermeld in punt 11° en punt 12°.<br>
+<br>
+11° vluchten vanaf luchtvaartterreinen die gelegen zijn in Zwitserland, naar luchtvaartterreinen die gelegen zijn op het grondgebied van een lidstaat van de Europese Economische Ruimte;<br>
+<br>
+12° vluchten vanaf luchtvaartterreinen die gelegen zijn in het Verenigd Koninkrijk, naar luchtvaartterreinen die gelegen zijn op het grondgebied van een lidstaat van de Europese Economische Ruimte.</p>
