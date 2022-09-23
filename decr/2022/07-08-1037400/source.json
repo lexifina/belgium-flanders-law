@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037400,
+  "title": "Decreet van 2022-07-08 tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, wat vliegtuigexploitanten betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037400/VolledigDocument?datum=2022-09-23",
+  "source_sha256": "b27930c21b703fecdcbae8d78ef2d51865f7d1eaebd4cabec79c4ceb2a794f2c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037400&param=informatie",
+  "as_of": "2022-09-23",
+  "made": "2022-07-08",
+  "gazette": "2022-09-13",
+  "numac": 2022015537,
+  "document_start": "2022-09-23",
+  "document_end": null,
+  "in_force": "2022-09-23",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2022-09-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
