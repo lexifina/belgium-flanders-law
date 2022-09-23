@@ -20,3 +20,45 @@ DE VLAAMSE MINISTER VAN BINNENLANDS BESTUUR, BESTUURSZAKEN, INBURGERING EN GELIJ
 ### ART 1.
 
 In punt 1.2 van bijlage 1 bij het ministerieel besluit van 14 mei 2008 houdende vaststelling van de bijkomende of specifieke opdrachten bij de Diensten van de Vlaamse overheid, vervangen bij het ministerieel besluit van 24 september 2020, wordt de zinsnede “A 214” vervangen door de zinsnede “A 286”.
+
+### ART 2.
+
+In punt 5.1 van bijlage 1 bij hetzelfde besluit, vervangen bij het ministerieel besluit van 22 mei 2015, worden de volgende wijzigingen aangebracht:<br>
+1° de woorden “Kind en Gezin” worden vervangen door de woorden “Opgroeien regie”;<br>
+2° de woorden “Provinciaal adviserend arts” worden vervangen door de woorden “adviserend arts”;<br>
+3° de volgende rij wordt opgeheven:<br>
+“
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:276px">Restaurantpersoneel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:276px">D 111</td>
+		</tr>
+	</tbody>
+</table>
+”;<br>
+4° de volgende rij wordt opgeheven:<br>
+“
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:276px">Marketing en PR verantwoordelijke K&amp;G academie</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:276px">A 211</td>
+		</tr>
+	</tbody>
+</table>
+”.
+
+### ART 3.
+
+In punt 7 van bijlage 1 bij hetzelfde besluit, vervangen bij het ministerieel besluit van 22 mei 2015 wordt punt 7.2 opgeheven.
+
+### ART 4.
+
+In punt 9 van bijlage 1 bij hetzelfde besluit, vervangen bij het ministerieel besluit van 22 mei 2015 en gewijzigd bij het ministerieel besluit van 26 maart 2019, wordt punt 9.6 opgeheven.
+
+### ART 5.
+
+Artikel 1 van dit besluit heeft uitwerking met ingang van 30 juni 2022.&nbsp;<br>
+<br>
+Artikelen 2, 3 en 4 treden in werking op de datum van ondertekening van dit besluit.

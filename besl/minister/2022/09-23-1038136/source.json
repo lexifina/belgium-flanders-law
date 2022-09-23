@@ -2,16 +2,16 @@
   "codex_id": 1038136,
   "title": "Ministerieel besluit van 2022-09-23 tot wijziging van het ministerieel besluit van 14 mei 2008 houdende vaststelling van de bijkomende of specifieke opdrachten bij de Diensten van de Vlaamse overheid",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038136/VolledigDocument?datum=2022-06-30",
-  "source_sha256": "2a9fed85b85581f04c5575641b708921c3d37553a268662f4dd2332141bc9a9f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038136/VolledigDocument?datum=2022-09-23",
+  "source_sha256": "ba3c7d30e07da7d52933dffe0efcca32e17b7df904be23d759bda249c00dc76e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038136&param=informatie",
-  "as_of": "2022-06-30",
+  "as_of": "2022-09-23",
   "made": "2022-09-23",
   "gazette": "2023-05-15",
   "numac": 2023040989,
   "document_start": null,
   "document_end": null,
-  "in_force": "2022-06-30",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2022-06-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-09-23",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2022-09-23; future article versions excluded; article text as the API gives it"
 }
