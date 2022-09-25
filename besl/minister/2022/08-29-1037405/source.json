@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037405,
+  "title": "Ministerieel besluit van 2022-08-29 tot bepaling van de hoogte van de compensatie voor een uitvallende omvormer voor het jaar 2022",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037405/VolledigDocument?datum=2022-09-25",
+  "source_sha256": "a538edcb7bbba292ad9839bbb6c55e0da62718fd969a8816fd4059f35834547e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037405&param=informatie",
+  "as_of": "2022-09-25",
+  "made": "2022-08-29",
+  "gazette": "2022-09-15",
+  "numac": 2022041940,
+  "document_start": "2022-09-25",
+  "document_end": null,
+  "in_force": "2022-09-25",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-09-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
