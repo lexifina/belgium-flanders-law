@@ -1844,7 +1844,10 @@ d) het beheren van de eigendommen van het Vlaamse Gewest van de niet-geklasseerd
 11° het bijdragen aan de normering en de karakterisering van de waterbodems, en het beheer van de waterbodems van de waterlopen van de eerste categorie;<br>
 12° het controleren en opvolgen van de werking van de polders en wateringen en de technische ondersteuning en subsidiëring van hun waterbeheer;<br>
 13° ...;<br>
-14° het bijdragen aan de beleidsvoorbereiding en het controleren en opvolgen van de ecologische aspecten van water bestemd voor menselijke aanwending;<br>
+14° het bijdragen aan de beleidsvoorbereiding, de controle en de opvolging van de volgende aspecten over water bestemd voor menselijke aanwending:<br>
+a) de kwaliteit en de levering;<br>
+b) de dienstverlening, met inbegrip van de openbare dienstverplichtingen;<br>
+c) de tarieven die verbonden zijn aan de aspecten, vermeld in punt a) en b);<br>
 15° het organiseren, controleren, opvolgen en ambtshalve optreden inzake de rattenbestrijding in het Vlaamse Gewest, het effectief bestrijden van ratten in of nabij oppervlaktewaterlichamen die onder de bevoegdheid vallen van het Vlaamse Gewest of in gebieden waarover een overeenkomst werd afgesloten;<br>
 16° het vestigen, innen en invorderen van de heffing waterverontreiniging en grondwater zoals vermeld in hoofdstuk II van titel IV van het decreet integraal waterbeleid;<br>
 17° het ontwikkelen van instrumenten en het uitwerken van maatregelen om de schadelijke effecten voor de watersystemen te voorkomen, te beperken of ongedaan te maken;<br>
