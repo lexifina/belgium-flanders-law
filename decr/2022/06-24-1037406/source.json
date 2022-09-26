@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037406,
+  "title": "Decreet van 2022-06-24 tot wijziging van diverse bepalingen in de wet van 28 december 1967 betreffende de onbevaarbare waterlopen, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037406/VolledigDocument?datum=2022-09-26",
+  "source_sha256": "a5d663e78b230e3f62668d7371beb96eb30225c4eac94398c9c76c68d8c0ca31",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037406&param=informatie",
+  "as_of": "2022-09-26",
+  "made": "2022-06-24",
+  "gazette": "2022-09-16",
+  "numac": 2022015459,
+  "document_start": "2022-09-26",
+  "document_end": null,
+  "in_force": "2022-09-26",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2022-09-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
