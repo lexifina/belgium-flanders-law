@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037420,
+  "title": "Besluit van de Vlaamse Regering van 2022-07-08 tot sluiting van de zitting 2021-2022 van het Vlaams Parlement",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037420/VolledigDocument?datum=2022-09-26",
+  "source_sha256": "c8ef270555c855d6832e39f492cadc7a8e01862eb60942407af8502400417ec9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037420&param=informatie",
+  "as_of": "2022-09-26",
+  "made": "2022-07-08",
+  "gazette": "2022-09-23",
+  "numac": 2022015600,
+  "document_start": "2022-09-26",
+  "document_end": null,
+  "in_force": "2022-09-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-09-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
