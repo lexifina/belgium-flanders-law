@@ -736,6 +736,19 @@ Artikel 66, 67 en 68 van hetzelfde decreet worden opgeheven.
 
 In titel 3, hoofdstuk 1, van hetzelfde decreet worden afdeling 7, die bestaat uit artikel 69 tot en met 71, en afdeling 8, die bestaat uit artikel 72, opgeheven.
 
+### ART 111.
+
+In artikel 75, § 1, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° het tweede lid wordt vervangen door wat volgt:<br>
+"De Vlaamse Regering kan bij het sluiten, wijzigen of beëindigen van revalidatieovereenkomsten, vermeld in het eerste lid, het advies van de Expertencommissie inwinnen.";<br>
+2° het derde en het vierde lid worden opgeheven.
+
+### ART 114.
+
+In artikel 83, eerste lid, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° de woorden "wint daarvoor het advies van de Expertencommissie in" worden vervangen door de woorden "kan daarvoor het advies van de Expertencommissie inwinnen";<br>
+2° de zin "Het advies van de Expertencommissie wordt in dialoog met de betrokken sectorale adviescommissie opgesteld." wordt opgeheven.
+
 ## HOOFDSTUK 3. Slotbepalingen
 
 ### ART 117.

@@ -2,16 +2,16 @@
   "codex_id": 1035861,
   "title": "Decreet van 2021-06-18 tot wijziging van regelgeving in het kader van de Vlaamse sociale bescherming",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035861/VolledigDocument?datum=2022-01-01",
-  "source_sha256": "dd6ce0fee81256463d6dd56cf7bd8e7f8bfdf5fa72fe9663b16822e866f59ef3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035861/VolledigDocument?datum=2022-10-01",
+  "source_sha256": "63a8b8f215d902473351aeff8a0d63eef0b4d43d2c95e5f68c31a0d1e7ea8cc4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035861&param=informatie",
-  "as_of": "2022-01-01",
+  "as_of": "2022-10-01",
   "made": "2021-06-18",
   "gazette": "2021-07-26",
   "numac": 2021021422,
   "document_start": null,
   "document_end": null,
-  "in_force": "2022-01-01",
-  "article_versions": 87,
-  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-10-01",
+  "article_versions": 89,
+  "record_form": "consolidated version as in force on 2022-10-01; future article versions excluded; article text as the API gives it"
 }
