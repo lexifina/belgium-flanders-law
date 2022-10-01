@@ -33,7 +33,7 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 2.
 
-Als sociale huisvestingsmaatschappijen die minder dan tien jaar erkend zijn een marktconforme lening sluiten, financieren ze minstens 20% van de kostprijs van de verrichting op een andere wijze dan met vreemd vermogen. Dat geldt niet voor de marktconforme financieringen, vermeld in artikel 14 en 15.
+Een woonmaatschappij, gevormd op basis van een of meer vennootschappen die niet eerder erkend waren als sociale huisvestingsmaatschappij, financiert gedurende de eerste tien jaar na haar erkenning voor de financiering van een nieuwe verrichting via een marktconforme lening bij de VMSW minstens 20% van de kostprijs op een andere wijze dan met vreemd vermogen. De voormelde regel geldt niet voor de marktconforme leningen, vermeld in artikel 14 en 15.
 
 ### ART 3.
 
@@ -41,7 +41,7 @@ Als de VMSW een verrichting of de aankoop van roerende en onroerende goederen di
 <br>
 Een geldopname gebeurt via een betalingsaanvraag. Betalingsaanvragen worden standaard ingediend via een digitale applicatie.<br>
 <br>
-De raad van bestuur van de VMSW stelt, na gestructureerd overleg binnen de Commissie Beheer Rekening-Courant, het betaalreglement vast dat de nadere regels bevat voor de bepalingen, vermeld in het tweede lid. Het betaalreglement bevat de procedure in verband met de betalingen van de VMSW in opdracht van de sociale huisvestingsmaatschappijen: de tijdigheid van betalen, het indienen van betalingsaanvragen, de soorten van betalingsaanvragen, de behandelingstermijnen en de procedure als een betalingsaanvraag niet behandeld kan worden.<br>
+De raad van bestuur van de VMSW stelt, na gestructureerd overleg binnen de Commissie Beheer Rekening-Courant, het betaalreglement vast dat de nadere regels bevat voor de bepalingen, vermeld in het tweede lid. Het betaalreglement bevat de procedure in verband met de betalingen van de VMSW in opdracht van de woonmaatschappijen: de tijdigheid van betalen, het indienen van betalingsaanvragen, de soorten van betalingsaanvragen, de behandelingstermijnen en de procedure als een betalingsaanvraag niet behandeld kan worden.<br>
 <br>
 De ontlener wijst de financiering aan die de VMSW aanspreekt bij een geldopname als een verrichting of de aankoop van roerende en onroerende goederen die noodzakelijk zijn bij het uitoefenen van zijn activiteiten, uit meerdere bronnen gefinancierd wordt.<br>
 <br>
@@ -103,7 +103,7 @@ Als de VMSW een lening in het kader van een herfinanciering als vermeld in artik
 
 ### ART 11.
 
-Als de VMSW een kortlopende lening toekent aan een sociale huisvestingsmaatschappij voor het opvangen van tijdelijke liquiditeitstekorten als vermeld in artikel 4.60, eerste lid, 3°, van het Besluit Vlaamse Codex Wonen van 2021, worden waarborgen opgenomen in de leningsovereenkomst.<br>
+Als de VMSW een kortlopende lening toekent aan een woonmaatschappij voor het opvangen van tijdelijke liquiditeitstekorten als vermeld in artikel 4.60, eerste lid, 3°, van het Besluit Vlaamse Codex Wonen van 2021, worden waarborgen opgenomen in de leningsovereenkomst.<br>
 <br>
 De ontlener verbindt zich ertoe om onvoorwaardelijk en op eerste verzoek van de leningsverstrekker een hypotheek te verlenen op het goed dat in de leningsovereenkomst is beschreven. Die hypotheek is ten voordele van de VMSW en voor een bedrag dat wordt bepaald in de leningsovereenkomst.<br>
 <br>
@@ -122,7 +122,7 @@ De ontlener houdt ieder goed dat beleend wordt, ook al is het maar gedeeltelijk,
 <br>
 De ontlener verbindt zich ertoe om onvoorwaardelijk en op eerste verzoek van de leningsverstrekker een hypotheek in eerste rang te verlenen op het in de leningsovereenkomst beschreven goed. Die hypotheek is ten voordele van de leningsverstrekker en voor een bedrag dat wordt bepaald in de leningsovereenkomst. Als op het goed een hypotheek rust ten gunste van een andere overheid, krijgt de leningsverstrekker de volgende rang.<br>
 <br>
-Als de ontlener een sociale huisvestingsmaatschappij is, vraagt de VMSW eerst het advies aan de commissie beheer rekening-courant. De commissie beheer rekening-courant komt dan binnen drie werkdagen samen.<br>
+Als de ontlener een woonmaatschappij is, vraagt de VMSW eerst het advies aan de commissie beheer rekening-courant. De commissie beheer rekening-courant komt dan binnen drie werkdagen samen.<br>
 <br>
 Alle kosten, taksen, zegel- en registratierechten, erelonen, betekeningskosten, kosten van hernieuwing en doorhaling en, in het algemeen, alle kosten die de leningsverstrekker nodig vindt voor de vestiging of het behoud van de zekerheden en, als dat nodig is, voor de gedwongen tenuitvoerlegging, zijn ten laste van de ontlener.
 
@@ -164,6 +164,7 @@ Onder de volgende voorwaarden kan de VMSW een marktconforme FS3-lening op 33 jaa
 10° verplichte volledige of gedeeltelijke vervroegde terugbetaling: er is geen wederbeleggingsvergoeding verschuldigd. Een verplichte volledige of gedeeltelijke vervroegde terugbetaling gebeurt in de volgende gevallen:<br>
 a) als het goed waarvoor geleend is, ontvreemd is, is er een verplicht vervroegde aflossing binnen de maand nadat de VMSW de kennisgeving van de vervreemding ontvangt. Het aandeel van het op dat ogenblik ontvreemde goed in het leningsbedrag bepaalt het terug te betalen kapitaal;<br>
 b) als er subsidies ontvangen worden voor een of meer woningen in dit project, is er een verplicht vervroegde terugbetaling ter waarde van het subsidiebedrag;<br>
+c) als de vervroegde terugbetaling gebeurt ter uitvoering van artikel 4.155/4 van het Besluit Vlaamse Codex Wonen van 2021;<br>
 11° tussenkomst: het aan de lening toewijsbare deel van de tussenkomst, vermeld in artikel 13 van dit besluit, wordt op iedere interestvervaldag op de lening verrekend.
 
 ### ART 16.
@@ -278,7 +279,7 @@ De ontlener houdt ieder goed dat beleend wordt, ook al is het maar gedeeltelijk,
 <br>
 De ontlener verbindt zich ertoe om onvoorwaardelijk en op eerste verzoek van de leningsverstrekker een hypotheek in eerste rang te verlenen ten voordele van de leningsverstrekker op een of meer willekeurige vrije en onbelaste onroerende goederen uit zijn patrimonium. Die hypotheek is ten voordele van de VMSW en voor minstens de waarde van het uitstaande kapitaal bij de VMSW.<br>
 <br>
-Als de ontlener een sociale huisvestingsmaatschappij is, vraagt de VMSW eerst advies aan de commissie beheer rekening-courant. De commissie beheer rekening-courant komt dan binnen drie werkdagen samen.<br>
+Als de ontlener een woonmaatschappij is, vraagt de VMSW eerst advies aan de commissie beheer rekening-courant. De commissie beheer rekening-courant komt dan binnen drie werkdagen samen.<br>
 <br>
 Alle kosten, taksen, zegel- en registratierechten, erelonen, betekeningskosten, kosten van hernieuwing en doorhaling en, in het algemeen, alle kosten die de leningsverstrekker nodig vindt voor de vestiging of het behoud van de zekerheden en, in voorkomend geval, de gedwongen tenuitvoerlegging, zijn ten laste van de ontlener.
 
@@ -383,23 +384,40 @@ Onder de volgende voorwaarden kan de VMSW een lening voor de herfinanciering als
 
 ### ART 32.
 
-Als de VMSW een lening aan sociale verhuurkantoren als vermeld in artikel 4.60, eerste lid, 3°, van het Besluit Vlaamse Codex Wonen van 2021, toekent, worden waarborgen opgenomen in de leningsovereenkomst.<br>
+De lener houdt ieder goed dat beleend wordt, ook al is het maar gedeeltelijk, vrij en onbelast, en niet bezwaard met een zakelijk recht of zakelijk zekerheidsrecht ten voordele van een derde die geen overheid is tot alle verbintenissen van die belening ten opzichte van de VMSW nagekomen zijn. Het goed wordt nader omschreven in de leningsovereenkomst.<br>
 <br>
-De ontlener verbindt zich ertoe om onvoorwaardelijk en op eerste verzoek van de leningsverstrekker een hypotheek te verlenen op het in de leningsovereenkomst beschreven goed. Die hypotheek is ten voordele van de VMSW en voor een bedrag dat wordt bepaald in de leningsovereenkomst.<br>
+Als het goed verdwijnt uit het patrimonium van de lener, wordt de lening vervroegd afgelost. De lener verbindt zich ertoe om onvoorwaardelijk en op eerste verzoek van de leningsverstrekker een hypotheek in eerste rang te verlenen ten voordele van de leningsverstrekker op een of meer willekeurige vrije en onbelaste onroerende goederen uit zijn patrimonium. Die hypotheek is ten voordele van de VMSW en voor minstens de waarde van het uitstaande kapitaal bij de VMSW.<br>
 <br>
-De ontlener verbindt zich ertoe om de subsidies die hij ontvangt met toepassing van boek 4, deel 1, titel 4, van het Besluit Vlaamse Codex Wonen van 2021, in pand te geven bij de VMSW om te voldoen aan de schulden en interesten die vervallen zijn of vervallen binnen een maand. De VMSW informeert Wonen-Vlaanderen over die regeling.<br>
+Als de lener een woonmaatschappij is, vraagt de VMSW eerst advies aan de commissie beheer rekening-courant. De commissie beheer rekening-courant komt dan binnen drie werkdagen samen.<br>
 <br>
-De VMSW kan alleen een lening toekennen als uit de financiële planning blijkt dat met redelijke zekerheid de lening kan worden afgelost op de vervaldag. De ontlener maakt die financiële planning op, waarna de VMSW ze nakijkt.
+Alle kosten, taksen, zegel- en registratierechten, erelonen, betekeningskosten, kosten van hernieuwing en doorhaling en, in het algemeen, alle kosten die de leningsverstrekker nodig vindt voor de vestiging of het behoud van de zekerheden en, in voorkomend geval, de gedwongen tenuitvoerlegging, zijn ten laste van de lener.
 
 ### ART 33.
 
-Onder de volgende voorwaarden kan de VMSW een kortlopende lening toekennen aan een sociaal verhuurkantoor voor het opvangen van tijdelijke liquiditeitstekorten:<br>
-1° aard van de lening: af te spreken tussen de leningsverstrekker en de ontlener;<br>
-2° looptijd: maximaal twaalf maanden;<br>
-3° aflossing: af te spreken tussen de leningsverstrekker en de ontlener, afhankelijk van de financiële planning van de ontlener;<br>
-4° vaststelling rentevoet: 0 %;<br>
-5° vrijwillige volledige of gedeeltelijke vervroegde terugbetaling zonder wederbeleggingsvergoeding: kan altijd, maar de ontlener moet dat uiterlijk een maand voor de vervaldag schriftelijk aanvragen bij de VMSW;<br>
-6° verplichte volledige of gedeeltelijke vervroegde terugbetaling zonder wederbeleggingsvergoeding: af te spreken tussen leningsverstrekker en ontlener. Er kan ook afgesproken worden dat de werkingsdotatie in mindering gebracht moet worden van het uitstaande kapitaal.
+De VMSW kan onder de volgende voorwaarden voor de verwerving van sociale huurwoningen een renteloze lening op maximaal drieëndertig jaar toekennen:<br>
+1° aard van de lening: een lening met constante annuïteiten;<br>
+2° looptijd: start op de datum van de leningsovereenkomst. De opnameperiode is maximaal vijf jaar. Als er dan nog geen consolidatie is, wordt ambtshalve geconsolideerd. Er kunnen nog bedragen opgenomen worden op de lening tot twaalf maanden na de consolidatie. De aflossingsfase duurt 20 tot 33 jaar en wordt overeengekomen tussen de lener en de leningsverstrekker;<br>
+3° aflossing: constante kapitaaltranches;<br>
+4° interest tijdens de opnamefase: er is geen interest verschuldigd tijdens deze fase;<br>
+5° interest tijdens de aflossingsfase: er is geen interest verschuldigd tijdens deze fase;<br>
+6° betaling annuïteit: jaarlijks vanaf een jaar na de consolidatiedatum;<br>
+7° vrijwillige volledige of gedeeltelijke vervroegde terugbetaling: kan altijd als de lener een voorbericht van drie maanden geeft. Er is geen wederbeleggingsvergoeding verschuldigd;<br>
+8° verplichte volledige of gedeeltelijke vervroegde terugbetaling: er is geen wederbeleggingsvergoeding verschuldigd. Een verplichte volledige of gedeeltelijke vervroegde terugbetaling gebeurt in de volgende gevallen:<br>
+a) als het goed waarvoor geleend is, ontvreemd wordt, binnen de maand nadat de VMSW de kennisgeving van de vervreemding ontvangt. Het aandeel van het op dat ogenblik ontvreemde goed in het leningsbedrag, bepaalt het terug te betalen kapitaal;<br>
+b) als de vervroegde terugbetaling gebeurt ter uitvoering van artikel 4.155/4 van het Besluit Vlaamse Codex Wonen van 2021.
+
+### ART 33/1.
+
+De VMSW kan onder de volgende voorwaarden voor de verwerving van onbebouwde percelen een renteloze financiering op maximaal tien jaar toekennen:<br>
+1° aard van de lening: een lening met vaste vervaldag;<br>
+2° looptijd: maximaal tien jaar en afhankelijk van het doel van de financiering, te bepalen in overleg tussen de lener en de leningsverstrekker;<br>
+3° aflossing: op de eindvervaldag;<br>
+4° betaling interest: er is geen interest verschuldigd;<br>
+5° vrijwillige volledige of gedeeltelijke vervroegde terugbetaling: kan altijd als de lener een voorbericht van drie maanden geeft. Er is geen wederbeleggingsvergoeding verschuldigd;<br>
+6° verplichte volledige of gedeeltelijke vervroegde terugbetaling: er is geen wederbeleggingsvergoeding verschuldigd. Een verplichte vervroegde terugbetaling gebeurt in de volgende gevallen:<br>
+a) als het goed waarvoor geleend is, ontvreemd is, is er een verplicht vervroegde aflossing binnen de maand nadat de VMSW de kennisgeving van de vervreemding ontvangt. Het aandeel van het op dat ogenblik ontvreemde goed in het leningsbedrag bepaalt het terug te betalen kapitaal;<br>
+b) als de lening een voorlopige financiering is en de ontlener een definitieve financiering krijgt voor die verrichting, is er een verplichte vervroegde terugbetaling bij die omzetting naar definitieve financiering. Het aandeel van het goed dat benut wordt en waarop de definitieve financiering is gebaseerd, bepaalt het terug te betalen kapitaal;<br>
+c) als de vervroegde terugbetaling gebeurt ter uitvoering van artikel 4.155/4 van het Besluit Vlaamse Codex Wonen van 2021.
 
 ## HOOFDSTUK 6. Slotbepaling
 
