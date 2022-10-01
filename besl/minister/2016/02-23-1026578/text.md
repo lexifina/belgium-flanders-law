@@ -69,7 +69,7 @@ Het gunningsdossier wordt in tweevoud ingediend bij het agentschap conform artik
 7° de goedkeuring van de gekozen inschrijving door de initiatiefnemer;<br>
 8° de volgende verbintenis of overeenkomst:<br>
 a) de verbintenis om een persoon aan te wijzen overeenkomstig artikel 5.83, § 2, van het Besluit Vlaamse Codex Wonen van 2021;<br>
-b) als de initiatiefnemer de Vlaamse Maatschappij voor Sociaal Wonen is of een door haar erkende sociale huisvestingsmaatschappij: de overeenkomst over het beheer van het woonwagenterrein met de gemeente of het OCMW overeenkomstig artikel 5.83, § 3, derde lid, van het Besluit Vlaamse Codex Wonen van 2021.
+b) als de initiatiefnemer de Vlaamse Maatschappij voor Sociaal Wonen is of een woonmaatschappij: de overeenkomst over het beheer van het woonwagenterrein met de gemeente of het OCMW overeenkomstig artikel 5.83, § 3, derde lid, van het Besluit Vlaamse Codex Wonen van 2021.
 
 ### BIJLAGE
 
