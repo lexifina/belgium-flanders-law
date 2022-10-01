@@ -84,7 +84,7 @@ Een project dat voorziet in de nieuwbouw van sociale huurwoningen, en een projec
 De BSO-planner, vermeld in het eerste lid, 1°, monitort het gerealiseerde en het geplande sociale huuraanbod in functie van het bindend sociaal objectief, waarbij:<br>
 1° voor het gerealiseerde sociale huuraanbod in de gemeente: het aanbod aan sociale huurwoningen volgens de meest recente jaarlijkse meting van het sociale huuraanbod, waarbij:<br>
 a) bijkomende sociale huurwoningen van sociale verhuurkantoren sinds de nulmeting pas meetellen als ten minste 90 % van het objectief voor sociale huurwoningen behaald is of behaald zal worden, rekening houdend met het gerealiseerde en geplande sociale huuraanbod;<br>
-b) overdrachten waarvan de verkoopovereenkomst wordt gesloten na 31 oktober 2017, van sociale huurwoningen van een gemeente, OCMW, intergemeentelijk samenwerkingsverband of OCMW-vereniging aan een sociale huisvestingsmaatschappij niet meetellen;<br>
+b) overdrachten waarvan de verkoopovereenkomst wordt gesloten na 31 oktober 2017, van sociale huurwoningen van een gemeente, OCMW, intergemeentelijk samenwerkingsverband, OCMW-vereniging of het Vlaams Woningfonds aan een woonmaatschappij niet meetellen;<br>
 2° voor het geplande sociale huuraanbod in de gemeente: het aanbod aan sociale huurwoningen volgens de meest recente Projectenlijst die de VMSW aan de beoordelingscommissie heeft voorgelegd.<br>
 <br>
 De convenant-planner, vermeld in het eerste lid, 2°, monitort het gerealiseerde en het geplande sociale huuraanbod dat verwezenlijkt is met een sociaal woonbeleidsconvenant als vermeld in artikel 5.52, eerste lid, van de Vlaamse Codex Wonen van 2021.<br>

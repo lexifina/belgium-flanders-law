@@ -2,16 +2,16 @@
   "codex_id": 1028585,
   "title": "Ministerieel besluit van 2017-09-05 houdende vaststelling van het kader voor de renovatietoets en de lokale woontoets en van het financiële kader ter uitvoering van [artikel [2.33/2], eerste lid, van het Besluit Vlaamse Codex Wonen van 2021]",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028585/VolledigDocument?datum=2021-04-01",
-  "source_sha256": "658387bb6eea74b5817715a0d9a7e81f6a5c510491bd7995ffcc7a8f0f35f90a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028585/VolledigDocument?datum=2022-10-01",
+  "source_sha256": "2e063c6ce4d9b7925cad6d46f58d95afcdd6e13bed6c01b35a5f7b1d65e2c3e7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028585&param=informatie",
-  "as_of": "2021-04-01",
+  "as_of": "2022-10-01",
   "made": "2017-09-05",
   "gazette": "2017-09-13",
   "numac": 2017040730,
   "document_start": "2017-09-23",
   "document_end": null,
-  "in_force": "2021-04-01",
+  "in_force": "2022-10-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2021-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-10-01; future article versions excluded; article text as the API gives it"
 }
