@@ -9,9 +9,9 @@ De   Vlaamse minister van Energie, Wonen, Steden en Sociale Economie,<BR   style
 ### ART. 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° agentschap: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen van het Vlaams Ministerie Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br>
+1° agentschap: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen, opgericht bij het besluit van de Vlaamse Regering van 16 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen;<br>
 2° GSC: de gewestelijke sociale correctie;<br>
-3° SHM: een erkende sociale huisvestingmaatschappij, als vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021;<br>
+3° woonmaatschappij: een woonmaatschappij als vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021;<br>
 4° VMSW: de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 4.7 van de Vlaamse Codex Wonen van 2021.
 
 ## HOOFDSTUK 2. Samenstelling van het Overlegplatform Sociaal Wonen
@@ -34,24 +34,32 @@ Het Overlegplatform Sociaal Wonen stelt een huishoudelijk   reglement op dat de 
 
 ### ART. 4.
 
-<P>§   1. De SHM's stellen binnen de perken, vermeld in paragraaf 2, de nodige gegevens   voor de berekening van de GSC elektronisch ter beschikking van de VMSW en van   het agentschap.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Uiterlijk op 28 februari van elk referentiejaar bezorgen de SHM's de   beschikbare gegevens over het referentiejaar.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Uiterlijk   op 28 februari van het jaar dat volgt op het referentiejaar, bezorgen de SHM's   de exacte gegevens over het referentiejaar.</P>
+<p>§ 1. De woonmaatschappijen stellen binnen de perken, vermeld in paragraaf 2, de nodige gegevens voor de berekening van de GSC elektronisch ter beschikking van de VMSW en van het agentschap.</p>
+
+<p>§ 2. Uiterlijk op 28 februari van elk referentiejaar bezorgen de woonmaatschappijen de beschikbare gegevens over het referentiejaar.</p>
+
+<p>Uiterlijk op 28 februari van het jaar dat volgt op het referentiejaar, bezorgen de woonmaatschappijen de exacte gegevens over het referentiejaar.</p>
 
 ### ART. 5.
 
-<P>§ 1. In het referentiejaar berekent de VMSW voor elke SHM   afzonderlijk het voorschot op de GSC voor dat referentiejaar.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. In afwijking van paragraaf 1 berekent de VMSW geen voorschot op de GSC als de   SHM voor het referentiejaar de verplichting, vermeld in artikel 4, § 2, eerste   lid, niet heeft nageleefd.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   het eerste lid van toepassing is, brengt de VMSW de SHM in kwestie op de hoogte   van de niet-berekening van het voorschot.</P>
+<p>§ 1. In het referentiejaar berekent de VMSW voor elke woonmaatschappij afzonderlijk het voorschot op de GSC voor dat referentiejaar.</p>
+
+<p>§ 2. In afwijking van paragraaf 1 berekent de VMSW geen voorschot op de GSC als de woonmaatschappij voor het referentiejaar de verplichting, vermeld in artikel 4, § 2, eerste lid, niet heeft nageleefd.</p>
+
+<p>Als het eerste lid van toepassing is, brengt de VMSW de woonmaatschappij in kwestie op de hoogte van de niet-berekening van het voorschot.</p>
 
 ### ART. 6.
 
-<p>§ 1. In het jaar dat volgt op het referentiejaar, berekent de VMSW voor elke SHM afzonderlijk de definitieve GSC voor het referentiejaar, op basis van de door de SHM aangereikte gegevens over het referentiejaar.</p>
+<p>§ 1. In het jaar dat volgt op het referentiejaar, berekent de VMSW voor elke woonmaatschappij afzonderlijk de definitieve GSC voor het referentiejaar, op basis van de door de woonmaatschappij aangereikte gegevens over het referentiejaar.</p>
 
-<p>§ 2. In afwijking van paragraaf 1 berekent de VMSW geen definitieve GSC als de SHM voor het referentiejaar de verplichting, vermeld in artikel 4, § 2, tweede lid, niet heeft nageleefd.</p>
+<p>§ 2. In afwijking van paragraaf 1 berekent de VMSW geen definitieve GSC als de woonmaatschappij voor het referentiejaar de verplichting, vermeld in artikel 4, § 2, tweede lid, niet heeft nageleefd.</p>
 
-<p>Als het eerste lid van toepassing is, brengt de VMSW de SHM in kwestie op de hoogte van de niet-berekening van de definitieve GSC.</p>
+<p>Als het eerste lid van toepassing is, brengt de VMSW de woonmaatschappij in kwestie op de hoogte van de niet-berekening van de definitieve GSC.</p>
 
-<p>§ 3. Uiterlijk op 30 juni van het jaar dat volgt op het referentiejaar, bezorgt de VMSW het agentschap een afrekening voor elke SHM afzonderlijk.</p>
+<p>§ 3. Uiterlijk op 30 juni van het jaar dat volgt op het referentiejaar, bezorgt de VMSW het agentschap een afrekening voor elke woonmaatschappij afzonderlijk.</p>
 
 <p>De afrekening, vermeld in het eerste lid, bevat minstens de volgende gegevens:<br>
-1° een tabel met een overzicht van de inkomsten en uitgaven van de SHM;<br>
+1° een tabel met een overzicht van de inkomsten en uitgaven van de woonmaatschappij;<br>
 2° de definitieve GSC voor het referentiejaar, berekend conform paragraaf 1;<br>
 3° het effectief uitbetaalde voorschot op de GSC voor het referentiejaar;<br>
 4° het voorschot op de GSC voor het jaar dat volgt op het referentiejaar, in voorkomend geval verrekend met het bedrag, vermeld in artikel 5.73, § 3, van het Besluit Vlaamse Codex Wonen van 2021;<br>
@@ -62,7 +70,7 @@ De minister neemt een beslissing tot goedkeuring of afkeuring van de afrekeninge
 
 ### ART. 7.
 
-<P>Om   in aanmerking te komen voor een subsidie voor een verwerving als vermeld in   artikel 4, § 1, 2°, b), van het Financieringsbesluit van 21 december 2012, bevat   het aanvraagdossier een attest waaruit blijkt dat de verwerving beantwoordt aan   een van de criteria, vermeld in artikel 20, § 1, eerste lid, van het   Financieringsbesluit van 21 december 2012.</P>  <P><BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Op   verzoek van de initiatiefnemer kan het agentschap een attest als vermeld in het   eerste lid uitreiken.</P>
+<p>...</p>
 
 ### ART. 8.
 
@@ -114,33 +122,33 @@ In afwijking van artikel 8, § 1 en § 4, wordt het tenlastenemings- of   subsid
 
 ### ART. 10.
 
-De kostprijs van de bouw, vermeld in artikel 23, § 2, eerste lid, van het Financieringsbesluit van 21 december 2012, wordt beperkt tot een prijsplafond, dat wordt vastgesteld op de datum van opening van de bieding, en dat gelijk is aan het overeenkomstige prijsplafond, vermeld in artikel 5.40, § 2, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021. Tijdens de uitvoering van de werkzaamheden worden de contractueel overeengekomen prijsherzieningen pro rata toegepast op het prijsplafond, op basis van de procentuele stijging van het totale aanbestedingsbedrag.
+...
 
 ### ART. 11.
 
-De kostprijs van de investering in renovatie, vermeld in artikel 23, § 2, tweede lid, van het Financieringsbesluit van 21 december 2012, wordt beperkt tot een prijsplafond, dat wordt vastgesteld op de datum van de opening van de bieding, en dat gelijk is aan het overeenkomstige prijsplafond, vermeld in artikel 5.41, § 2, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021. Tijdens de uitvoering van de werkzaamheden worden de contractueel overeengekomen prijsherzieningen pro rata toegepast op het prijsplafond, op basis van de procentuele stijging van het totale aanbestedingsbedrag.
+...
 
 ## HOOFDSTUK 4. [Verkoop van gronden die niet meer van nut zijn voor sociale huisvesting. Ruil van onroerende goederen (verv. MB 31 mei 2016, art. 1, I: 20 juni 2016)]
 
 ### ART. 12.
 
-<P>Als   een sociale huisvestingsmaatschappij of de VMSW beslist om gronden die vanwege   hun omvang of ligging niet meer voor sociale huisvesting van nut zijn, te   verkopen, en een openbare verkoop levert niet de venale waarde op of de kosten   van een openbare verkoop staan niet in verhouding tot de venale waarde, brengt   ze de eigenaars van de aanpalende gronden ervan op de hoogte dat ze een bod   kunnen doen.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   afwijking van het eerste lid kan een grond die een onlosmakelijk geheel vormt   met een sociale woning, worden aangeboden aan de eigenaar van de sociale   woning.</P>
+<p>Als een woonmaatschappij of de VMSW beslist om gronden die&nbsp;niet meer voor huisvesting van nut zijn, te verkopen, en een openbare verkoop levert niet de venale waarde op of de kosten van een openbare verkoop staan niet in verhouding tot de venale waarde, brengt ze de eigenaars van de aanpalende gronden ervan op de hoogte dat ze een bod kunnen doen.</p>
+
+<p>In afwijking van het eerste lid kan een grond die een onlosmakelijk geheel vormt met een sociale woning of voormalige sociale woningen, worden aangeboden aan de eigenaar van die&nbsp;woning.</p>
 
 ### ART. 13.
 
-<p>§ 1. De SHM's kunnen voor het vervullen van hun doelstellingen met de VMSW zakelijke rechten op bebouwde of onbebouwde onroerende goederen ruilen.<br>
+<p>§ 1. De woonmaatschappijen kunnen voor het vervullen van hun doelstellingen met de VMSW zakelijke rechten op bebouwde of onbebouwde onroerende goederen ruilen.<br>
 <br>
-De SHM's kunnen voor het vervullen van hun doelstellingen, onderling of met andere sociale woonorganisaties of openbare besturen als vermeld in artikel 4.13, § 1, eerste lid, van de Vlaamse Codex Wonen van 2021, zakelijke rechten op bebouwde of onbebouwde onroerende goederen ruilen.<br>
+§ 2. ...<br>
 <br>
-§ 2. De SHM's kunnen voor het vervullen van hun doelstellingen met natuurlijke personen of andere rechtspersonen dan deze, vermeld in paragraaf 1, zakelijke rechten op bebouwde of onbebouwde onroerende goederen ruilen, als aan elk van de volgende voorwaarden is voldaan :<br>
-1° de verkrijging van het zakelijk recht op het onroerend goed van de natuurlijke persoon of rechtspersoon in kwestie is noodzakelijk voor de realisatie van een sociaal woonproject door de SHM;<br>
-2° de natuurlijke persoon of rechtspersoon in kwestie verkrijgt een zakelijk recht op een gelijkwaardig onroerend goed van de SHM.<br>
-<br>
-Voor de toepassing van het eerste lid, 2°, worden twee onroerende goederen geacht gelijkwaardig te zijn als uit de schattingsverslagen blijkt dat het waardeverschil tussen de onroerende goederen of de opleg maximaal een vierde bedraagt van de schattingsprijs van het onroerend goed met de minste waarde.<br>
-<br>
-§ 3. De SHM's brengen de VMSW binnen een termijn van een maand na het sluiten van een overeenkomst over een ruil als vermeld in paragraaf 1, tweede lid, of paragraaf 2, op de hoogte van de overeenkomst.".</p>
+§ 3. ...</p>
 
 ## [HOOFDSTUK 4/1. Herinvesteringsverplichting Vlaams Woningfonds (ing. MB 25 augustus 2022, art. 8, I: 1 oktober 2022)]
+
+### ART 13/1.
+
+Ter uitvoering van artikel 4.4/8 van het Besluit Vlaamse Codex Wonen van 2021 wordt de aanwending van de overblijvende middelen van het Vlaams Woningfonds, vermeld in artikel 4.38, § 7, tweede lid, van de Vlaamse Codex Wonen van 2021, meegenomen in de vaststelling van de modaliteiten voor de berekening van de werkings- en financieringstoelage, vermeld in artikel 4.184, derde lid, van het Besluit Vlaamse Codex Wonen van 2021.
 
 ## HOOFDSTUK 5. Wijzigingsbepalingen
 
