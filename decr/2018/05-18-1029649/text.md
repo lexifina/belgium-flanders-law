@@ -48,8 +48,9 @@ In dit decreet wordt verstaan onder:<br>
 23° persoonsvolgend budget: het geheel van tegemoetkomingen, vermeld in artikel 58, dat bestaat uit een zorgbudget dat cash wordt uitbetaald, een zorgticket dat via een trekkingsrecht wordt toegekend, een tegemoetkoming voor mobiliteitshulpmiddelen, een tegemoetkoming voor de organisatie van en de deelname aan multidisciplinair overleg of een tegemoetkoming voor reiskosten;<br>
 24° pijler van de Vlaamse sociale bescherming: een van de verschillende onderdelen van de Vlaamse sociale bescherming, vermeld in artikel 4;<br>
 25° revalidatie: de behandeling, de diagnostiek of de ondersteuning die verleend wordt in een revalidatieziekenhuis of in een revalidatievoorziening, waarvoor de Vlaamse Gemeenschap bevoegd is conform artikel 128, § 1, van de Grondwet;<br>
+25° /1 revalidatieovereenkomst: de overeenkomst als vermeld in artikel 75 van het decreet van 6 juli 2018;<br>
 25° /2 revalidatieverstrekking: de volledige therapeutische activiteit per tijdsdeel, in contact met de gebruiker of zijn context, en de ondersteunende werking om die activiteit mogelijk te maken;<br>
-26° revalidatievoorziening: zorgvoorziening, andere dan een revalidatieziekenhuis, die revalidatie aanbiedt, vermeld in punt 25° ;<br>
+26° revalidatievoorziening: een revalidatievoorziening als vermeld in artikel 2, 16°, van het decreet van 6 juli 2018;<br>
 27° revalidatieziekenhuis: een zorgvoorziening voor gezondheidszorg waarin passende zorg aangeboden wordt aan patiënten van wie de gezondheidstoestand de opname of het verblijf vereisen, met als doel de gezondheidstoestand te herstellen of te verbeteren door de ziekte te bestrijden of de patiënt te revalideren als vermeld in artikel 5, § 1, I, eerste lid, 3° en 4°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
 28° rolstoel: een manuele rolstoel, een elektronische rolstoel, een elektronische scooter, een manuele kinderrolstoel of een elektronische kinderrolstoel;<br>
 29° stasysteem: een stasysteem is een toestel dat personen met een ernstige of volledige beperking van de stafunctie toelaat rechtop te staan;<br>
@@ -546,7 +547,7 @@ De Expertencommissie wordt onder meer belast met de volgende taken:<br>
 1° een advies verlenen met het oog op de door de zorgkas te verlenen voorafgaande toestemmingen aan gebruikers conform de verordening (EG) nr. 883/2004;<br>
 2° een advies verlenen met het oog op de door de zorgkas te verlenen voorafgaande toestemmingen voor geplande zorg in een andere lidstaat van de Europese Unie dan België, in IJsland, in Liechtenstein, in Noorwegen en in Zwitserland overeenkomstig de richtlijn 2011/24/EU;<br>
 3° een advies verlenen met het oog op de door de zorgkas te nemen beslissingen over vragen om tegemoetkomingen voor buitengewone zorg, vermeld in artikel 55 van dit decreet;<br>
-4° advies verlenen over behandelprogramma's aan de bevoegde minister in dialoog met de betrokken sectorale adviescommissie, vermeld in artikel 38 van dit decreet.<br>
+4° advies verlenen over het sluiten, wijzigen en beëindigen van de revalidatieovereenkomsten.<br>
 <br>
 De Vlaamse Regering kan de Expertencommissie belasten met bijkomende taken.
 
@@ -1961,6 +1962,14 @@ De Vlaamse Regering kan aanvullende financiering voor opname in psychiatrische v
 ### ART 154/9.
 
 &nbsp;De voorwaarden en de procedures, vermeld in artikel 60, vijfde lid, voor de aanvragen van tegemoetkomingen voor revalidatieverstrekkingen worden geconcretiseerd in de revalidatieovereenkomsten.
+
+### ART 154/10.
+
+De revalidatieverstrekkingen worden vergoed in de vorm van een tegemoetkoming als ze in een revalidatieovereenkomst zijn opgenomen en worden toegekend onder de voorwaarden die daarin worden vermeld. De tegemoetkoming wordt uitbetaald aan de revalidatievoorziening.<br>
+<br>
+De Vlaamse Regering bepaalt de regels en voorwaarden voor de samenstelling, berekening, wijziging en uitbetaling van de tegemoetkomingen voor revalidatieverstrekkingen. De voormelde regels en voorwaarden worden verder geconcretiseerd en uitgewerkt in de revalidatieovereenkomst die gesloten wordt met elke revalidatievoorziening.<br>
+<br>
+De Vlaamse Regering kan via de revalidatieovereenkomsten het bedrag van de tegemoetkoming per revalidatieverstrekking en het maximum aantal revalidatieverstrekkingen per kalenderjaar dat in aanmerking komt voor een tegemoetkoming bepalen voor elke revalidatievoorziening.
 
 ### ART 154/11.
 
