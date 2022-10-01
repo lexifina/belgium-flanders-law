@@ -6,11 +6,11 @@
 
 ### ART. 1.
 
-Initiatiefnemers die een of meerdere onroerende goederen overdragen volgens de voorwaarden , vermeld in artikel 4.54 tot en met 4.58, artikel 4.149 tot en met 4.155 of artikel 5.216 tot en met 5.227 van het Besluit Vlaamse Codex Wonen van 2021, bezorgen de VMSW binnen een termijn van een maand na elke overdracht een volledig ingevuld en ondertekend formulier conform bijlagen 1 tot en met 5 bij dit besluit.
+Initiatiefnemers die een of meerdere onroerende goederen overdragen volgens de voorwaarden , vermeld in artikel 4.54 tot en met 4.58, artikel 4.149 tot en met 4.155 of artikel 5.216 tot en met 5.227 van het Besluit Vlaamse Codex Wonen van 2021, bezorgen de VMSW binnen een termijn van een maand na elke overdracht een volledig ingevuld en ondertekend formulier, dat wordt vastgesteld door de raad van bestuur van de VMSW.
 
 ### ART. 2.
 
-Initiatiefnemers die een of meer onroerende goederen verwerven, bezorgen   de VMSW binnen een termijn van één maand na elke verwerving een volledig   ingevuld en ondertekend formulier conform bijlage 6 bij dit besluit alsmede de   geregistreerde en ondertekende authentieke akte van elke   verwerving.<BR>
+Initiatiefnemers die een of meer onroerende goederen verwerven, bezorgen de VMSW binnen een termijn van één maand na elke verwerving een volledig ingevuld en ondertekend formulier, dat wordt vastgesteld door de raad van bestuur van de VMSW,&nbsp; alsmede de geregistreerde en ondertekende authentieke akte van elke verwerving.
 
 ### ART. 3.
 
@@ -18,27 +18,27 @@ Initiatiefnemers die een of meer onroerende goederen verwerven, bezorgen   de VM
 
 ### ART. 4.
 
-Bijlage 1 bij dit besluit bevat het formulier met de minimale gegevens   over de overdracht van sociale kavels of middelgrote kavels.<BR>
+...
 
 ### ART. 5.
 
-Bijlage 2 bij dit besluit bevat het formulier met de minimale gegevens   over de overdracht van sociale koopwoningen of middelgrote   koopwoningen.<BR>
+...
 
 ### ART. 6.
 
-Bijlage 3 bij dit besluit bevat het formulier met de minimale gegevens   over de overdracht van sociale huurwoningen.<BR>
+...
 
 ### ART. 7.
 
-Bijlage 4 bij dit besluit bevat het formulier met de minimale gegevens   over de overdracht van niet-residentiële ruimten.<BR>
+...
 
 ### ART. 8.
 
-Bijlage 5 bij dit besluit bevat het formulier met de minimale gegevens   over de overdracht van restgronden.<BR>
+...
 
 ### ART. 9.
 
-Bijlage 6 bij dit besluit bevat het formulier met de minimale gegevens   over de verwerving van onroerende goederen.<BR>
+...
 
 ### ART. 10.
 
@@ -50,24 +50,24 @@ Dit besluit heeft uitwerking met ingang van 1 juli 2014.<BR>
 
 ### BIJLAGE 1
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/08/28_2.pdf#page=146">Bijlage   1</A>
+...
 
 ### BIJLAGE 2
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/08/28_2.pdf#page=147">Bijlage   2</A>
+...
 
 ### BIJLAGE 3
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/08/28_2.pdf#page=148">Bijlage   3</A>
+...
 
 ### BIJLAGE 4
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/08/28_2.pdf#page=149">Bijlage   4</A>
+...
 
 ### BIJLAGE 5
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/08/28_2.pdf#page=150">Bijlage   5</A>
+...
 
 ### BIJLAGE 6
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/08/28_2.pdf#page=151">Bijlage   6</A>
+...
