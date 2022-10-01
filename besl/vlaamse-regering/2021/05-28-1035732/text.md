@@ -95,7 +95,7 @@ De minister kan bijkomende erkenningsvoorwaarden bepalen die gelden in het geval
 <br>
 De minister kan bepalen hoe instanties moeten aantonen dat ze voldoen aan de voorwaarden die vermeld zijn in het eerste lid of bepaald zijn conform het tweede en het derde lid, en kan nadere modaliteiten bepalen inzake de controle op de naleving van die voorwaarden.<br>
 <br>
-De minister bepaalt de procedure voor de erkenning van de instanties, vermeld in artikel 3, eerste lid, 1°, c), alsook de procedure voor de schorsing en de intrekking van de erkenning.<br>
+De minister bepaalt de duur van en de procedure voor de erkenning van de instanties, vermeld in artikel 3, eerste lid, 1°, c), en de duur van en de procedure voor de schorsing en de procedure voor de intrekking van de erkenning.<br>
 <br>
 Het agentschap bepaalt op welke BelRAI-instrumenten de erkenning van een instantie betrekking heeft.<br>
 <br>
