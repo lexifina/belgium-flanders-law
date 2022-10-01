@@ -827,11 +827,7 @@ In het eerste lid wordt onder revalidatieprogramma de omschrijving verstaan van 
 
 § 1. De Vlaamse Regering sluit, wijzigt en beëindigt de revalidatieovereenkomsten met de revalidatievoorzieningen.<br>
 <br>
-De Vlaamse Regering wint bij het voormelde sluiten, wijzigen of beëindigen van revalidatieovereenkomsten het advies van de Expertencommissie in. Het advies van de Expertencommissie wordt in dialoog met de betrokken sectorale adviescommissie opgesteld.<br>
-<br>
-De Vlaamse Regering kan, na advies van de Expertencommissie en de sectorale adviescommissie uitzonderingen voorzien op het tweede lid.<br>
-<br>
-In afwijking van het tweede lid wordt het advies van de Expertencommissie niet ingewonnen bij wijzigingen die voortvloeien uit de bepalingen van de revalidatieovereenkomst zelf.<br>
+De Vlaamse Regering kan bij het sluiten, wijzigen of beëindigen van revalidatieovereenkomsten, vermeld in het eerste lid, het advies van de Expertencommissie inwinnen.<br>
 <br>
 § 2. De Vlaamse Regering bepaalt de procedure en de algemene voorwaarden waaronder de revalidatieovereenkomsten worden gesloten, gewijzigd en beëindigd.
 
@@ -889,7 +885,7 @@ De Vlaamse Regering bepaalt de samenstelling en de omvang van de eigen bijdrage 
 
 ### ART 83.
 
-In afwijking van artikel 74 kan de Vlaamse Regering met zorgvoorzieningen in de tijd beperkte overeenkomsten met een experimenteel karakter sluiten voor het onderzoek en de vergelijkende studie van bepaalde nieuwe modellen voor het financieren en het verlenen van revalidatieverstrekkingen. De Vlaamse Regering wint daarvoor het advies van de Expertencommissie in. Het advies van de Expertencommissie wordt in dialoog met de betrokken sectorale adviescommissie opgesteld.<br>
+In afwijking van artikel 74 kan de Vlaamse Regering met zorgvoorzieningen in de tijd beperkte overeenkomsten met een experimenteel karakter sluiten voor het onderzoek en de vergelijkende studie van bepaalde nieuwe modellen voor het financieren en het verlenen van revalidatieverstrekkingen. De Vlaamse Regering kan daarvoor het advies van de Expertencommissie inwinnen.&nbsp;<br>
 <br>
 De Vlaamse Regering kan de voorwaarden bepalen waaronder de overeenkomsten, vermeld in het eerste lid, worden gesloten.<br>
 <br>
