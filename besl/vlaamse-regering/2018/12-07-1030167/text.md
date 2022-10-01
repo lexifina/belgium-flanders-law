@@ -114,11 +114,17 @@ In dit besluit wordt verstaan onder:<br>
 15° netwerkpartners: de zorgvoorzieningen, initiatieven van vrijwillige en informele zorg of ondersteuning, partners uit andere sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin, en partners uit andere beleidsdomeinen die al dan niet als zodanig door de Vlaamse Gemeenschap worden erkend of gefinancierd, en die deel uitmaken van geestelijke gezondheidsnetwerken;<br>
 16° palliatief samenwerkingsverband: een samenwerkingsverband voor palliatieve verzorging als vermeld in het koninklijk besluit van 19 juni 1997 houdende vaststelling van de normen waaraan een samenwerkingsverband inzake palliatieve zorg moet voldoen om te worden erkend;<br>
 17° residentiële zorg- of welzijnsvoorziening: een zorg- of welzijnsvoorziening die behandeling of zorg en ondersteuning met verblijf aanbiedt;<br>
-18° verhoogde tegemoetkoming: de verhoogde tegemoetkoming, vermeld in artikel 37, § 1 en § 19, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;<br>
+18° verhoogde tegemoetkoming: de verhoogde tegemoetkoming, vermeld in artikel 37, § 1 en § 19, van de wet gecoördineerd op 14 juli 1994;<br>
 19° raadgevend comité VSB: het raadgevend comité van het Agentschap voor Vlaamse Sociale Bescherming, vermeld in artikel 17 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
 20° raadgevend comité Zorg en Gezondheid: het raadgevend comité van het agentschap, vermeld in artikel 18 van het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
 21° werkdag: een dag die geen zaterdag, zondag of wettelijke feestdag is;<br>
 22° zorginspectie: de Zorginspectie, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.
+
+### ART 1/1.
+
+Dit besluit is niet van toepassing op de tegemoetkomingen voor revalidatieverstrekkingen in revalidatievoorzieningen waarvan het erkenningsnummer begint met het nummer 7.72, en op de tegemoetkomingen voor geplande revalidatieverstrekkingen in het buitenland die behoren tot het zorgaanbod van de revalidatievoorzieningen waarvan het erkenningsnummer begint met het nummer 7.72.<br>
+<br>
+In afwijking van het eerste lid is dit besluit van toepassing op de tegemoetkomingen voor de reiskosten die verband houden met de revalidatieverstrekkingen, vermeld in het eerste lid.
 
 ## Titel 2. Organisatie
 
@@ -446,7 +452,7 @@ De verloven worden geacht de opname niet te onderbreken.
 
 ### ART 24.
 
-§ 1. De verantwoordelijke van de zorgvoorziening valideert de facturen en stuurt ze elektronisch via MyCareNet naar aan de verzekeringsinstellingen. In afwachting van elektronische facturatie via MyCareNet, kunnen de psychiatrische verzorgingstehuizen, de initiatieven van beschut wonen, de revalidatievoorzieningen en de multidisciplinaire begeleidingsequipes de facturen via magnetische of papieren drager bezorgen.<br>
+§ 1. De verantwoordelijke van de zorgvoorziening valideert de facturen en stuurt ze elektronisch via MyCareNet naar de verzekeringsinstellingen. In afwachting van elektronische facturatie via MyCareNet, kunnen de psychiatrische verzorgingstehuizen, de initiatieven van beschut wonen, de revalidatievoorzieningen en de multidisciplinaire begeleidingsequipes de facturen via magnetische of papieren drager bezorgen.<br>
 <br>
 Bij de facturen voegt de zorgvoorziening per zorggebruiker en per verzekeringsinstelling de individuele kostennota's voor de verleende zorg.<br>
 <br>
@@ -2151,10 +2157,10 @@ De revalidatieovereenkomsten worden beëindigd op verzoek van de revalidatievoor
 
 ### ART 159.
 
-Een aanvraag om een revalidatieovereenkomst als vermeld in artikel 157, te sluiten of te wijzigen, wordt gericht aan de minister. De aanvraag is ontvankelijk als ze de volgende gegevens bevat:<br>
+Een aanvraag om een revalidatieovereenkomst als vermeld in artikel 157, te sluiten of te wijzigen, wordt gericht aan het agentschap. De aanvraag is ontvankelijk als ze de volgende gegevens bevat:<br>
 1° de gegevens van de rechtspersoon die de aanvraag indient;<br>
 2° de doelgroep waarvoor het zorgaanbod wordt voorgesteld of gewijzigd;<br>
-3° het zorgaanbod dat de zorgvoorziening wil organiseren, leveren of wijzigen;<br>
+3° het zorgaanbod dat de zorgvoorziening wil organiseren, leveren of wijzigen in relatie tot het andere zorgaanbod in het werkingsgebied van het geestelijke gezondheidsnetwerk, als vermeld in artikel 2, 15°, van het decreet van 5 april 2019 betreffende de organisatie en ondersteuning van het geestelijke gezondheidsaanbod;<br>
 4° de wetenschappelijke onderbouwing van het aangeboden zorgaanbod;<br>
 5° de kostenraming.
 
@@ -2162,82 +2168,68 @@ Een aanvraag om een revalidatieovereenkomst als vermeld in artikel 157, te sluit
 
 § 1. Het agentschap onderzoekt of de aanvraag, vermeld in artikel 159, voldoet aan de ontvankelijkheidsvoorwaarden, vermeld in artikel 159.<br>
 <br>
-Het agentschap stuurt binnen dertig dagen na de dag van de ontvangst van de aanvraag, een ontvangstbewijs naar de aanvrager met de vermelding of de aanvraag al dan niet ontvankelijk is en, in voorkomend geval, met de vermelding van de datum van ontvangst van de ontvankelijke aanvraag.<br>
+Het agentschap stuurt een ontvangstbewijs naar de aanvrager met de vermelding of de aanvraag al dan niet ontvankelijk is en, in voorkomend geval, met de vermelding van de datum van ontvangst van de ontvankelijke aanvraag.<br>
 <br>
-§ 2. Binnen dertig dagen na de dag van de ontvangst van de ontvankelijke aanvraag, vraagt het agentschap advies aan de Expertencommissie en de sectorale adviescommissie in kwestie over de inhoudelijke aspecten van de aanvraag.<br>
-<br>
-In afwijking van het eerste lid vraagt het agentschap geen advies in de volgende gevallen:<br>
-1° het betreft een uitzondering die de Vlaamse Regering heeft bepaald krachtens artikel 75, § 1, derde lid, van het decreet van 6 juli 2018;<br>
-2° de beoogde wijzigingen vloeien voort uit de bepalingen van de revalidatieovereenkomst zelf als vermeld in artikel 75, § 1, vierde lid, van het decreet van 6 juli 2018.
+§ 2. Het agentschap kan advies vragen aan de Expertencommissie of de sectorale adviescommissie in kwestie over de inhoudelijke aspecten van de aanvraag.
 
 ### ART 161.
 
-Als de minister of het agentschap een voorstel doet om een revalidatieovereenkomst als vermeld in artikel 157, te sluiten of te wijzigen vraagt het agentschap advies aan de Expertencommissie en de sectorale adviescommissie in kwestie over de inhoudelijke aspecten van het voorstel.<br>
-<br>
-In afwijking van het eerste lid vraagt het agentschap geen advies in de volgende gevallen:<br>
-1° het betreft een uitzondering die de Vlaamse Regering heeft bepaald krachtens artikel 75, § 1, derde lid, van het decreet van 6 juli 2018;<br>
-2° de beoogde wijzigingen vloeien voort uit de bepalingen van de revalidatieovereenkomst zelf, vermeld in artikel 75, § 1, vierde lid, van het decreet van 6 juli 2018.
+Als de minister of het agentschap een voorstel doet om een revalidatieovereenkomst als vermeld in artikel 157, te sluiten of te wijzigen kan het agentschap advies vragen aan de Expertencommissie of de sectorale adviescommissie in kwestie over de inhoudelijke aspecten van het voorstel.
 
 ### ART 162.
 
-De Expertencommissie en de sectorale adviescommissie in kwestie stellen in overleg een gezamenlijk advies op over de adviesvragen, vermeld in artikel 160, § 2, en artikel 161. Ze streven daarbij naar een consensus. Als ze geen consensus bereiken, vermeldt het advies waarom er geen consensus kon worden bereikt.
+...
 
 ### ART 163.
 
-De Expertencommissie en de sectorale adviescommissie in kwestie bezorgen hun gezamenlijke advies, vermeld in artikel 162, aan het agentschap binnen dertig dagen na de dag van de ontvangst van de adviesvraag van het agentschap. Het agentschap kan die termijn twee keer verlengen met een termijn van maximaal dertig dagen:<br>
-1° op gezamenlijk gemotiveerd verzoek van de Expertencommissie en de sectorale adviescommissie in kwestie;<br>
-2° op gemotiveerd verzoek van hetzij de Expertencommissie, hetzij de sectorale adviescommissie in kwestie.
+...
 
 ### ART 164.
 
-Als de Expertencommissie en de sectorale adviescommissie in kwestie binnen de door het agentschap toegelaten termijn geen gezamenlijk advies aan het agentschap hebben bezorgd, conform artikel 163, bezorgen ze binnen dertig dagen na afloop van de termijn, vermeld in artikel 163, elk afzonderlijk een advies aan het agentschap. Het agentschap kan die termijn twee keer verlengen met maximaal dertig dagen op individueel gemotiveerd verzoek van, naargelang het geval, de Expertencommissie of de sectorale adviescommissie in kwestie.
+...
 
 ### ART 165.
 
-Bij het opstellen van het gezamenlijke advies, vermeld in artikel 162, en de adviezen, vermeld in artikel 164, kunnen de Expertencommissie en de sectorale adviescommissie in kwestie, samen of op eigen initiatief:<br>
+Bij het opstellen van een advies kan de Expertencommissie of de sectorale adviescommissie in kwestie:<br>
 1° aanvullende inlichtingen vragen aan het agentschap of de aanvrager;<br>
 2° deskundigen raadplegen met een specifieke expertise op het vlak van het voorstel of de aanvraag.
 
 ### ART 166.
 
-Het gezamenlijke advies, vermeld in artikel 162, en de adviezen, vermeld in artikel 164, kunnen betrekking hebben op:<br>
-1° het evidence based karakter van het zorgaanbod;<br>
-2° de plaats in het Vlaamse gezondheids- en welzijnsbeleid;<br>
-3° de mogelijke zorgbehoefte op populatieniveau.
+...
 
 ### ART 167.
 
-Bij ontstentenis van het gezamenlijke advies, vermeld in artikel 162, of een of de beide adviezen, vermeld in artikel 164, binnen de termijnen, vermeld in artikel 163 en 164, wordt de behandeling van de aanvraag voortgezet door het agentschap.
+Als er geen advies als vermeld in artikel 161, is gegeven, wordt de behandeling van de aanvraag voortgezet door het agentschap.
 
 ### ART 168.
 
-Het agentschap heeft als taak een advies op te maken over de aanvraag en kan daarbij, in voorkomend geval, rekening houden met het gezamenlijke advies, vermeld in artikel 162, of met een of de beide adviezen, vermeld in artikel 164.<br>
+Het agentschap heeft als taak een advies op te maken over de aanvraag en kan daarbij, in voorkomend geval, rekening houden met het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie.<br>
 <br>
-Het agentschap bezorgt zijn advies aan de minister binnen dertig dagen na de dag van de ontvangst van het gezamenlijke advies, vermeld in artikel 162, of een of de beide adviezen, vermeld in artikel 164, heeft ontvangen, of na afloop van de termijn, vermeld in artikel 164. Die termijn kan na motivatie worden verlengd.<br>
+Het agentschap bezorgt zijn advies aan de minister.<br>
 <br>
-Bij het advies wordt een van de volgende documenten gevoegd:<br>
-1° het gezamenlijke advies, vermeld in artikel 162, dat het agentschap binnen de termijn, vermeld in artikel 163, heeft ontvangen;<br>
-2° het advies of in voorkomend geval de beide adviezen, vermeld in artikel 164, die het agentschap binnen de termijn, vermeld in artikel 164, heeft ontvangen.
+Bij het advies van het agentschap wordt, in voorkomend geval, het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie gevoegd.
 
 ### ART 169.
 
-In het kader van zijn adviesopdracht, vermeld in artikel 168, kan het agentschap aanvullende inlichtingen inwinnen bij de Expertencommissie en de sectorale adviescommissie in kwestie.
+In het kader van de adviesopdracht, vermeld in artikel 168, kan het agentschap:<br>
+1° aanvullende inlichtingen inwinnen bij de Expertencommissie of de sectorale adviescommissie in kwestie;<br>
+2° aanvullende inlichtingen inwinnen bij de aanvrager;<br>
+3° deskundigen raadplegen met een specifieke expertise op het vlak van het voorstel of de aanvraag.
 
 ### ART 170.
 
-Het agentschap bezorgt de adviezen van de Expertencommissie en de sectorale adviescommissie in kwestie, vermeld in artikel 162 en 164, ter informatie aan het raadgevend comité Zorg en Gezondheid en het raadgevend comité VSB.
+...
 
 ### ART 171.
 
-De minister beslist over de goedkeuring van de aanvraag nadat hij het advies van het agentschap, vermeld in artikel 168, heeft ontvangen.<br>
+De minister keurt de aanvraag goed of keurt de aanvraag af op basis van het advies van het agentschap en, in voorkomend geval, het advies van de Expertencommissie of de sectorale adviescommissie in kwestie.<br>
 <br>
-Bij een positieve beslissing over een aanvraag om een revalidatieovereenkomst te sluiten, wordt een ontwerp van de nieuwe revalidatieovereenkomst opgemaakt. Bij een positieve beslissing over een aanvraag om een revalidatieovereenkomst te wijzigen, wordt een ontwerp van addendum bij de revalidatieovereenkomst opgemaakt.<br>
-<br>
-Bij een negatieve beslissing worden de beslissing van de minister en de redenen waarom de aanvraag niet kan worden goedgekeurd, aan de aanvrager meegedeeld met een aangetekende zending die de minister ondertekent.
+Het agentschap deelt de beslissing van de minister mee aan de aanvrager met een aangetekende zending of op om het even welke andere manier die toelaat de ontvangstdatum met zekerheid vast te stellen.
 
 ### ART 172.
 
-De beslissingen van de minister, vermeld in artikel 171, worden ter informatie medegedeeld aan de Expertencommissie en de sectorale adviescommissie in kwestie.
+Als er conform artikel 161 advies is gevraagd aan de Expertencommissie of aan de sectorale adviescommissie in kwestie, worden de beslissingen van de minister, vermeld in artikel 171, ter informatie meegedeeld aan de Expertencommissie of aan de sectorale adviescommissie in kwestie.
 
 ### ART 173.
 
@@ -2249,7 +2241,7 @@ De revalidatieovereenkomsten, alsook elke wijziging ervan, worden ondertekend do
 
 ### ART 174.
 
-Een aanvraag om een revalidatieovereenkomst als vermeld in artikel 158, te beëindigen, wordt gericht aan de minister. De aanvraag is ontvankelijk als ze minstens de volgende gegevens bevat:<br>
+Een aanvraag om een revalidatieovereenkomst als vermeld in artikel 158, te beëindigen, wordt gericht aan het agentschap. De aanvraag is ontvankelijk als ze minstens de volgende gegevens bevat:<br>
 1° de datum waarop de revalidatieovereenkomst wordt beëindigd;<br>
 2° de maatregelen om de continuïteit van de zorg te garanderen voor de zorggebruikers.
 
@@ -2257,27 +2249,27 @@ Een aanvraag om een revalidatieovereenkomst als vermeld in artikel 158, te beëi
 
 § 1. Het agentschap onderzoekt of de aanvraag, vermeld in artikel 174, voldoet aan de ontvankelijkheidsvoorwaarden, vermeld in artikel 174.<br>
 <br>
-Het agentschap stuurt binnen dertig dagen na de dag van de ontvangst van de aanvraag een ontvangstbewijs naar de aanvrager, met de vermelding of de aanvraag al dan niet ontvankelijk is en, in voorkomend geval, met de vermelding van de datum van ontvangst van de ontvankelijke aanvraag.<br>
+Het agentschap stuurt een ontvangstbewijs naar de aanvrager, met de vermelding of de aanvraag al dan niet ontvankelijk is en, in voorkomend geval, met de vermelding van de datum van ontvangst van de ontvankelijke aanvraag.<br>
 <br>
-§ 2. Het agentschap vraagt over elke ontvankelijke aanvraag, vermeld in paragraaf 1, advies aan de Expertencommissie en de sectorale adviescommissie in kwestie over de maatregelen om de continuïteit van de zorg te garanderen voor de zorggebruikers.
+§ 2. Het agentschap kan over elke aanvraag die ontvankelijk is conform paragraaf 1, advies vragen aan de Expertencommissie of de sectorale adviescommissie in kwestie over de maatregelen om de continuïteit van de zorg te garanderen voor de zorggebruikers.
 
 ### ART 176.
 
-De Expertencommissie en de sectorale adviescommissie in kwestie stellen samen of elk afzonderlijk een advies op over de adviesvragen, vermeld in artikel 175, § 2. In het gezamenlijke advies streven ze naar een consensus. Als ze geen consensus bereiken, vermeldt het advies waarom geen consensus kon worden bereikt. Ze bezorgen de adviezen aan het agentschap binnen dertig dagen na de dag van de ontvangst van de adviesvraag.
+...
 
 ### ART 177.
 
-Bij ontstentenis van het gezamenlijke advies of een of de beide afzonderlijke adviezen, vermeld in artikel 176, binnen de termijn, vermeld in artikel 176, wordt de behandeling van de aanvraag voortgezet door het agentschap.
+Als er geen advies als vermeld in artikel 175, § 2, is gegeven, wordt de behandeling van de aanvraag voortgezet door het agentschap.
 
 ### ART 178.
 
-Het agentschap heeft als taak een advies op te maken over de aanvraag en kan daarbij, in voorkomend geval, rekening houden met het gezamenlijke advies of een of de beide afzonderlijke adviezen, vermeld in artikel 176.<br>
+Het agentschap heeft als taak een advies op te maken over de aanvraag en kan daarbij, in voorkomend geval, rekening houden met het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie.<br>
 <br>
-Het agentschap bezorgt zijn advies aan de minister binnen dertig dagen na de dag van de ontvangst van het gezamenlijke advies, vermeld in artikel 176, een afzonderlijk advies of, in voorkomend geval, de beide afzonderlijke adviezen, vermeld in artikel 176, of na afloop van de termijn, vermeld in artikel 176. Bij elk advies van het agentschap worden het gezamenlijke advies of een of de beide adviezen, vermeld in artikel 176, gevoegd.
+Het agentschap bezorgt zijn advies aan de minister. Bij elk advies van het agentschap wordt, in voorkomend geval, het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie gevoegd.
 
 ### ART 179.
 
-Het agentschap bezorgt de adviezen van de Expertencommissie en de sectorale adviescommissie in kwestie, vermeld in artikel 176, ter informatie aan het raadgevend comité Zorg en Gezondheid en het raadgevend comité VSB.
+...
 
 ### ART 180.
 
@@ -2289,7 +2281,7 @@ De revalidatievoorziening kan geen aanspraak maken op een vergoeding voor de kos
 
 De beslissing van de minister over de maatregelen voor de continuïteit van de zorg voor de zorggebruikers, vermeld in artikel 180, wordt met een aangetekende zending bezorgd aan de revalidatievoorziening.<br>
 <br>
-De beslissing van de minister, vermeld in het eerste lid, wordt ter informatie, medegedeeld aan de Expertencommissie en de sectorale adviescommissie in kwestie.
+Als er conform artikel 175, § 2, advies is gevraagd aan de Expertencommissie of aan de sectorale adviescommissie in kwestie, wordt de beslissing van de minister, vermeld in het eerste lid, ter informatie meegedeeld aan de Expertencommissie of aan de sectorale adviescommissie in kwestie.
 
 ## Afdeling 2. Beëindigen van een revalidatieovereenkomst op initiatief van de minister of het agentschap
 
@@ -2303,37 +2295,37 @@ In haar reactie op het voornemen kan de revalidatievoorziening een voorstel uitw
 <br>
 Als de minister of het agentschap een voornemen tot beëindiging van de revalidatieovereenkomst neemt omdat de revalidatievoorziening niet meer voldoet aan de voorwaarden, vermeld in de revalidatieovereenkomst, kan de revalidatievoorziening een voorstel tot remediëring uitwerken.<br>
 <br>
-§ 3. Het agentschap vraagt binnen vijftien dagen na de dag van de ontvangst van de reactie, vermeld in paragraaf 2, tweede lid, of na afloop van de termijn, vermeld in de paragraaf 2, eerste lid, advies over het voornemen tot beëindiging van de revalidatieovereenkomst aan de Expertencommissie en de sectorale adviescommissie in kwestie.<br>
+§ 3. Het agentschap kan advies vragen over het voornemen tot beëindiging van de revalidatieovereenkomst aan de Expertencommissie of aan de sectorale adviescommissie in kwestie.<br>
 <br>
-Bij de adviesaanvraag, vermeld in het eerste lid, worden, in voorkomend geval, de reactie en het voorstel, vermeld in paragraaf 2, gevoegd.
+Bij de adviesaanvraag, vermeld in het eerste lid, worden, in voorkomend geval, de reactie en, in voorkomend geval, het voorstel, vermeld in paragraaf 2, gevoegd.
 
 ### ART 183.
 
-De Expertencommissie en de sectorale adviescommissie in kwestie stellen samen of elk afzonderlijk een advies op over de adviesvragen, vermeld in artikel 182, § 3. In het gezamenlijke advies streven ze naar een consensus. Als ze geen consensus bereiken, vermeldt het advies waarom geen consensus kon worden bereikt. Ze bezorgen de adviezen aan het agentschap binnen dertig dagen na de dag van de ontvangst van de adviesvraag.
+De Expertencommissie of de sectorale adviescommissie in kwestie stellen een advies op over de adviesvragen, vermeld in artikel 182, § 3. Ze bezorgen het advies aan het agentschap.
 
 ### ART 184.
 
-Bij ontstentenis van de adviezen, vermeld in artikel 183, binnen de termijn, vermeld in artikel 183, wordt de behandeling van de aanvraag voortgezet door het agentschap.
+Als er geen advies als vermeld in artikel 182, § 3, is gegeven, wordt de behandeling van de aanvraag voortgezet door het agentschap.
 
 ### ART 185.
 
-Het agentschap heeft als taak een advies op te maken over de beëindiging van de revalidatieovereenkomst en kan daarbij, in voorkomend geval, rekening houden met de adviezen, vermeld in artikel 183, en de reactie en het voorstel, vermeld in artikel 182, § 2.<br>
+Het agentschap heeft als taak een advies op te maken over de beëindiging van de revalidatieovereenkomst en kan daarbij, in voorkomend geval, rekening houden met het advies, vermeld in artikel 183, en de reactie en, in voorkomend geval, het voorstel, vermeld in artikel 182, § 2.<br>
 <br>
-Het agentschap bezorgt zijn advies aan de minister binnen dertig dagen na dag van de ontvangst van het gezamenlijke advies, vermeld in artikel 183, een afzonderlijk advies of, in voorkomend geval, de beide afzonderlijke adviezen, vermeld in artikel 183, of na afloop van de termijn, vermeld in artikel 183. Die termijn kan na motivatie worden verlengd. Bij elk advies van het agentschap wordt het gezamenlijke advies of een of de beide afzonderlijke adviezen, vermeld in artikel 183, en de reactie en het voorstel, vermeld in artikel 182, § 2, gevoegd.
+Het agentschap bezorgt zijn advies aan de minister. Bij elk advies van het agentschap worden, in voorkomend geval, het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie en de reactie en, in voorkomend geval, het voorstel, vermeld in artikel 182, § 2, gevoegd.
 
 ### ART 186.
 
-Het agentschap bezorgt het gezamenlijke advies of een of de beide afzonderlijke adviezen, vermeld in artikel 183, ter informatie aan het raadgevend comité Zorg en Gezondheid en het raadgevend comité VSB.
+...
 
 ### ART 187.
 
 § 1. De minister beslist om de revalidatieovereenkomst al dan niet te beëindigen.<br>
 <br>
-§ 2. Als het voornemen tot beëindiging van de revalidatieovereenkomst is meegedeeld omdat de revalidatievoorziening niet meer voldoet aan de voorwaarden, vermeld in de revalidatieovereenkomst, kan de minister, in afwijking van paragraaf 1, een termijn opleggen waarin de revalidatievoorziening de tekortkomingen die in het voornemen vermeld zijn, moet wegwerken.<br>
+§ 2. Als het voornemen tot beëindiging van de revalidatieovereenkomst is meegedeeld omdat de revalidatievoorziening niet meer voldoet aan de voorwaarden, vermeld in de revalidatieovereenkomst,&nbsp;of aan de voorwaarden, vermeld in de geldende regelgeving, kan de minister, in afwijking van paragraaf 1, een termijn opleggen waarin de revalidatievoorziening de tekortkomingen die in het voornemen vermeld zijn, moet wegwerken.<br>
 <br>
 Als de revalidatievoorziening binnen de termijn, vermeld in het eerste lid, de tekortkomingen niet heeft weggewerkt, wordt de revalidatieovereenkomst alsnog beëindigd.<br>
 <br>
-§ 3. Bij een beslissing tot beëindiging van de revalidatieovereenkomst bepaalt de minister de datum van de effectieve beëindiging van de revalidatieovereenkomst, die nooit vroeger mag zijn dan drie maanden na de dag van de beslissing tot beëindiging. In die beslissing kan minister de revalidatievoorziening maatregelen opleggen om de continuïteit van de zorg voor de zorggebruikers te garanderen.
+§ 3. Bij een beslissing tot beëindiging van de revalidatieovereenkomst bepaalt de minister de datum van de effectieve beëindiging van de revalidatieovereenkomst, die nooit vroeger mag zijn dan drie maanden na de dag van de beslissing tot beëindiging. In die beslissing kan de minister de revalidatievoorziening maatregelen opleggen om de continuïteit van de zorg voor de zorggebruikers te garanderen.
 
 ### ART 188.
 
@@ -2341,7 +2333,7 @@ De revalidatievoorziening kan geen aanspraak maken op een vergoeding voor de kos
 
 ### ART 189.
 
-De beslissing van de minister, vermeld in artikel 187, wordt ter informatie meegedeeld aan de Expertencommissie en de sectorale adviescommissie in kwestie.
+Als er conform artikel 182, § 3, advies is gevraagd aan de Expertencommissie of aan de sectorale adviescommissie in kwestie, wordt de beslissing van de minister, vermeld in artikel 187, ter informatie meegedeeld aan de Expertencommissie en aan de sectorale adviescommissie in kwestie.
 
 ### ART 190.
 
@@ -2358,11 +2350,11 @@ Bij onmiddellijk, reëel en ernstig gevaar voor de gezondheid en de veiligheid v
 2° jaarenveloppe: het maximale totaalbedrag dat een revalidatievoorziening per kalenderjaar mag aanrekenen aan de verzekeringsinstellingen, dat wordt bepaald in de revalidatieovereenkomst;<br>
 3° theoretisch aantal eenheidsverstrekkingen: het maximumaantal eenheidsverstrekkingen dat een revalidatievoorziening per kalenderjaar kan verrichten, als een bezettingsgraad van 100 % wordt gerealiseerd, dat wordt geconcretiseerd in de revalidatieovereenkomst.<br>
 <br>
-§ 2. De jaarenveloppe van de revalidatievoorzieningen waarvan het in bijlage 9 bij dit besluit vermelde erkenningsnummer begint met het nummer 7.71, 7.72, 7.73, 7.74, 7.76 of 9.69, wordt bepaald volgens de volgende formule: jaarenveloppe = (eenheidsprijs x 90 % van het theoretische aantal eenheidsprestaties) + (50 % van de eenheidsprijs x 8 % van het theoretische aantal eenheidsprestaties).<br>
+§ 2. De jaarenveloppe van de revalidatievoorzieningen waarvan het in bijlage 9 bij dit besluit vermelde erkenningsnummer begint met het nummer 7.71, 7.73, 7.74, 7.76 of 9.69, wordt bepaald volgens de volgende formule: jaarenveloppe = (eenheidsprijs x 90 % van het theoretische aantal eenheidsprestaties) + (50 % van de eenheidsprijs x 8 % van het theoretische aantal eenheidsprestaties).<br>
 <br>
 § 3. De jaarenveloppe van de revalidatievoorzieningen waarvan het in bijlage 9 bij dit besluit vermelde erkenningsnummer begint met het nummer 9.53 of 9.65, wordt bepaald volgens de volgende formule: jaarenveloppe = (eenheidsprijs x 90 % van het theoretische aantal eenheidsprestaties) + (50 % van de eenheidsprijs x 2 % van het theoretische aantal eenheidsprestaties).<br>
 <br>
-§ 4. De jaarenveloppe van de revalidatievoorzieningen waarvan het in bijlage 9 bij dit besluit vermelde erkenningsnummer begint met het nummer 7.74, wordt bepaald volgens de volgende formule: jaarenveloppe = eenheidsprijs x het theoretische aantal eenheidsprestaties.<br>
+§ 4. De jaarenveloppe van de revalidatievoorzieningen waarvan het in bijlage 9 bij dit besluit vermelde erkenningsnummer begint met het nummer 7.74.6, wordt bepaald volgens de volgende formule: jaarenveloppe = eenheidsprijs x het theoretische aantal eenheidsprestaties.<br>
 <br>
 § 5. Voor revalidatievoorzieningen die verschillende soorten revalidatieverstrekkingen kunnen leveren, wordt in de revalidatieovereenkomst bepaald hoe de verschillende soorten revalidatieverstrekkingen zich verhouden tot de eenheidsverstrekking. Bij alle revalidatieverstrekkingen, waarvoor een tegemoetkoming kan worden aangerekend, wordt in voorkomend geval een mathematische waarde ten opzichte van de eenheidsverstrekking bepaald. De grenzen van de jaarenveloppes worden daarbij gerespecteerd.<br>
 <br>
@@ -2412,11 +2404,11 @@ De revalidatievoorziening bewaart de personeelsgegevens, vermeld in het derde li
 <br>
 Als een personeelskostendossier niet beantwoordt aan de voormelde voorwaarden, wordt het personeelskostendossier door het agentschap als onontvankelijk beschouwd. In voorkomend geval wordt dat meegedeeld aan de revalidatievoorziening binnen dertig dagen nadat het agentschap het personeelskostendossier heeft ontvangen.<br>
 <br>
-De minister neemt een beslissing tot vaststelling van de aanpassing van de tegemoetkoming voor revalidatieverstrekkingen, vermeld in het eerste lid. Het agentschap brengt de revalidatievoorziening en de verzekeringsinstellingen op de hoogte van de beslissing van de minister. De aangepaste tegemoetkoming voor revalidatieverstrekkingen wordt van kracht de eerste dag van de maand die volgt op de maand waarin de minister de voormelde beslissing heeft genomen, en uiterlijk op de eerste dag van de vierde maand die volgt op de maand waarin het agentschap een ontvankelijk personeelskostendossier heeft ontvangen.<br>
+De minister neemt een beslissing tot vaststelling van de aanpassing van de tegemoetkoming voor revalidatieverstrekkingen, vermeld in het eerste lid. Het agentschap brengt de revalidatievoorziening en de verzekeringsinstellingen op de hoogte van de beslissing van de minister. De aangepaste tegemoetkoming voor revalidatieverstrekkingen wordt van kracht op de eerste dag van de vierde maand die volgt op de maand waarin het agentschap een ontvankelijk personeelskostendossier heeft ontvangen.<br>
 <br>
 Als het agentschap de termijn, vermeld in het zesde lid, niet naleeft, ontvangt de revalidatievoorziening een financiële vergoeding ter compensatie van de financiële schade die ze heeft geleden door de laattijdige toekenning.<br>
 <br>
-In afwijking van het eerste lid wordt het aandeel van de personeelskosten in de tegemoetkoming voor revalidatieverstrekkingen, vermeld in artikel 191, niet aangepast aan de reële personeelskosten voor de revalidatievoorzieningen waarvan het erkenningsnummer begint met het nummer 9.69, 7.74.6 of 7.90.
+In afwijking van het eerste lid wordt het aandeel van de personeelskosten in de tegemoetkoming voor revalidatieverstrekkingen, vermeld in artikel 191, niet aangepast aan de reële personeelskosten voor de revalidatievoorzieningen waarvan het erkenningsnummer begint met het nummer 9.69, 7.74.6 of 74.051.09.
 
 ### ART 193/1.
 
@@ -2546,17 +2538,21 @@ De verzekeringsinstelling betaalt aan de rechthebbende een kilometervergoeding a
 
 In dit hoofdstuk wordt verstaan onder:<br>
 1° aanvraag: de aanvraag van de tegemoetkoming voor revalidatieverstrekkingen, waarbij, in voorkomend geval, de aanvraag wordt toegevoegd van de tegemoetkoming voor reiskosten voor vervoer in een voertuig dat is aangepast voor het vervoer in een rolstoel, vermeld in artikel 196, die verband houden met die revalidatieverstrekkingen;<br>
-2° ontvangstdatum: de datum waarop de volledige aanvraag is ontvangen. Bij verzending met een aangetekende zending is dat de postdatum van de brief waarmee de volledige aanvraag is verzonden. Als de postdatum ontbreekt, is het de datum waarop de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, een volledige aanvraag heeft ontvangen. Een aanvraag wordt als volledig beschouwd als ten minste de drie delen van het aanvraagformulier, vermeld in artikel 209, gedagtekend en ondertekend zijn.
+2° ontvangstdatum: de datum waarop de volledige aanvraag is ontvangen. Bij verzending met een aangetekende zending is dat de postdatum van de brief waarmee de volledige aanvraag is verzonden. Als de postdatum ontbreekt, is het de datum waarop de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, een volledige aanvraag heeft ontvangen. Een aanvraag wordt in de volgende gevallen als volledig beschouwd:<br>
+a) deel 1 en 2, vermeld in artikel 209, 1° en 2°, zijn ondertekend en gedagtekend en deel 3, vermeld in artikel 209, 3°, is ondertekend en gedagtekend. Een aanvraag voor reiskosten kan gedaan worden door deel 1, 2 en 3 aan te vullen in de aanvraag, vermeld in artikel 209, 1° tot en met 3°, met deel 4, vermeld in artikel 209, 4°, of door een afzonderlijke aanvraag in te dienen waarin deel 1 en 2, vermeld in artikel 209, 1° en 2°, ondertekend en gedagtekend zijn, en deel 4 ingevuld en onderbouwd is met het verslag conform artikel 209, 4°, waarbij de reiskosten gekoppeld zijn aan een revalidatieverstrekking waarvoor een tegemoetkoming door de verzekeringsinstelling is toegekend;<br>
+b) in afwijking van punt a) wordt een aanvraag voor reiskosten die verband houden met revalidatieverstrekkingen in revalidatievoorzieningen met het erkenningsnummer 7.72, als volledig beschouwd als deel 1 en 2, vermeld in artikel 209, 1° en 2°, ondertekend en gedagtekend zijn voor de reiskosten, en deel 4 ingevuld en onderbouwd is met het verslag conform artikel 209, 4°, waarbij de reiskosten gekoppeld zijn aan een revalidatieverstrekking waarvoor een tegemoetkoming is toegekend conform artikel 534/117 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.
 
 ### ART 205.
 
-Een tegemoetkoming voor revalidatieverstrekkingen en, in voorkomend geval, de reiskosten die verband houden met die revalidatieverstrekkingen, kan alleen worden toegekend als de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, een beslissing tot goedkeuring van de aangevraagde tegemoetkoming heeft genomen.
+Een tegemoetkoming voor revalidatieverstrekkingen en, in voorkomend geval, de reiskosten die verband houden met die revalidatieverstrekkingen of de reiskosten die verband houden met revalidatieverstrekkingen in revalidatievoorzieningen waarvan het erkenningsnummer begint met het erkenningsnummer 7.72, kan alleen worden toegekend als de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, een beslissing tot goedkeuring van de aangevraagde tegemoetkoming heeft genomen.
 
 ### ART 206.
 
 De revalidatievoorziening, waartoe de zorggebruiker zich wendt, verstuurt de aanvraag naar de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, voordat de revalidatieverstrekkingen worden verleend.<br>
 <br>
 De revalidatievoorziening stelt de revalidatieovereenkomst ter beschikking van de zorggebruiker of zijn wettelijke vertegenwoordiger voordat de aanvraag wordt ingediend.<br>
+<br>
+Als het een aanvraag voor de reiskosten betreft die verband houden met revalidatieverstrekkingen in revalidatievoorzieningen met het erkenningsnummer 7.72, vermeld in artikel 204, 2°, b), verstuurt de revalidatievoorziening de aanvraag naar de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven, voordat de verplaatsingen plaatsvinden waarop de reiskosten betrekking hebben.<br>
 <br>
 De aanvraag wordt ingediend met een aangetekende zending of om het even welke andere manier die toelaat de ontvangstdatum met zekerheid vast te stellen.<br>
 <br>
@@ -2580,7 +2576,7 @@ c) de periode waarin de revalidatieverstrekkingen plaatsvinden;<br>
 d) in voorkomend geval, met welke frequentie de revalidatieverstrekkingen plaatsvinden.<br>
 2° deel 2: de aanvraag van de zorggebruiker of zijn wettelijke vertegenwoordiger van de tegemoetkoming voor revalidatieverstrekkingen en, in voorkomend geval, de aanvraag van de tegemoetkoming voor reiskosten voor vervoer in een voertuig dat is aangepast voor het vervoer in een rolstoel en een geïnformeerde toestemming. De geïnformeerde toestemming kan enkel worden gegeven nadat de zorggebruiker of zijn wettelijke vertegenwoordiger heeft kennisgenomen van de revalidatieovereenkomst. Dit deel wordt ondertekend en gedagtekend door de zorggebruiker of zijn wettelijke vertegenwoordiger;<br>
 3° deel 3: een gestandaardiseerd medisch verslag. Dit deel wordt ingevuld, ondertekend en gedagtekend door een behandelende arts van de revalidatievoorziening. Dit deel wordt niet ingediend door de revalidatievoorzieningen waarvan het erkenningsnummer begint met het nummer 7.90;<br>
-4° in geval een tegemoetkoming voor reiskosten voor vervoer in een voertuig dat is aangepast voor het vervoer in een rolstoel wordt gevraagd: een gestandaardiseerd medisch verslag waaruit blijkt dat de zorggebruiker door de aard en de ernst van zijn pathologie de rolstoel niet kan verlaten tijdens het vervoer.
+4° deel 4: in geval een tegemoetkoming voor reiskosten voor vervoer in een voertuig dat is aangepast voor het vervoer in een rolstoel wordt gevraagd: een gestandaardiseerd medisch verslag waaruit blijkt dat de zorggebruiker door de aard en de ernst van zijn pathologie de rolstoel niet kan verlaten tijdens het vervoer.
 
 ### ART 210.
 
@@ -2592,7 +2588,7 @@ De verzekeringsinstelling vraagt, als dat nodig is, ontbrekende informatie op bi
 <br>
 Als de voorwaarden, vermeld in het eerste lid, niet zijn vervuld, wordt de aanvraag administratief geweigerd door de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven. In afwijking van artikel 211 neemt de verzekeringsinstelling die beslissing tot weigering, zonder voorafgaand het advies van de Zorgkassencommissie in te winnen.<br>
 <br>
-§ 2. Conform artikel 3, vierde lid, van het decreet van 6 juli 2018 kunnen revalidatievoorzieningen een administratief beroep indienen bij het Agentschap voor Vlaamse Sociale Bescherming. Het beroep wordt ingediend binnen drie maanden nadat de verzekeringsnistelling de beslissing tot weigering heeft verstuurd, als de weigering van de betaling van een tegemoetkoming voor de opmaak van een rolstoeladviesrapport of van een tegemoetkoming voor reiskosten die verband houdt met de opmaak van het rolstoeladviesrapport, te wijten is aan het feit dat de zorggebruiker geen rechthebbende is.<br>
+§ 2. Conform artikel 3, vierde lid, van het decreet van 6 juli 2018 kunnen revalidatievoorzieningen een administratief beroep indienen bij het Agentschap voor Vlaamse Sociale Bescherming. Het beroep wordt ingediend binnen drie maanden nadat de verzekeringsinstelling de beslissing tot weigering heeft verstuurd, als de weigering van de betaling van een tegemoetkoming voor de opmaak van een rolstoeladviesrapport of van een tegemoetkoming voor reiskosten die verband houdt met de opmaak van het rolstoeladviesrapport, te wijten is aan het feit dat de zorggebruiker geen rechthebbende is.<br>
 <br>
 Het beroepsschrift is ontvankelijk als het aan al de volgende voorwaarden voldoet:<br>
 1° het beroepsschrift is gemotiveerd;<br>
@@ -2610,7 +2606,7 @@ Als de aanvraag onderworpen is aan de controle door de Zorgkassencommissie, bezo
 <br>
 In afwijking van het eerste lid wordt de aanvraag van de tegemoetkoming voor reiskosten voor vervoer in een voertuig dat is aangepast voor het vervoer in een rolstoel, vermeld in artikel 196, altijd ingediend conform de standaard aanvraagprocedure.<br>
 <br>
-De beslissing en het advies, vermeld in het eerste lid, is gebaseerd op een analyse van het type zorgaanbod en de medische problematiek van dedoelgroep. Bij deze analyse wordt rekening gehouden met de resultaten van de a posteriori controle, vermeld in artikel 216.<br>
+De beslissing en het advies, vermeld in het eerste lid, is gebaseerd op een analyse van het type zorgaanbod en de medische problematiek van de doelgroep. Bij deze analyse wordt rekening gehouden met de resultaten van de a posteriori controle, vermeld in artikel 216.<br>
 <br>
 § 2. De Zorgkassencommissie bezorgt binnen twintig werkdagen na de dag dat ze de aanvraag heeft ontvangen, het eensluidend advies over de aanvraag aan de verzekeringsinstelling waarbij de zorggebruiker is aangesloten of ingeschreven.<br>
 <br>
@@ -2697,7 +2693,7 @@ In afwijking van het eerste lid bedraagt het persoonlijk aandeel vanaf de eerste
 1° als het verblijf begint binnen negentig dagen na de dag van ontslag uit een ziekenhuis als vermeld in artikel 2 van de gecoördineerde wet van 10 juli 2008;<br>
 2° als het verblijf begint binnen negentig dagen na de dag van ontslag uit een revalidatieziekenhuis als vermeld in artikel 2, 17°, van het decreet van 6 juli 2018;<br>
 3° als het verblijf begint binnen zes maanden na ontslag uit een psychiatrisch ziekenhuis als vermeld in artikel 3 van de gecoördineerde wet van 10 juli 2008;<br>
-4° als het verblijf begint binnen negentig dagen na de dag waarop een opname voor residentiële revalidatie in dezelfde of een andere revalidatievoorziening is beëindigt.
+4° als het verblijf begint binnen negentig dagen na de dag waarop een opname voor residentiële revalidatie in dezelfde of een andere revalidatievoorziening is beëindigd.
 
 ### ART 221.
 
@@ -2707,7 +2703,7 @@ In afwijking van artikel 220 bedraagt het persoonlijk aandeel voor een verblijf 
 <br>
 In afwijking van het eerste lid bedraagt het persoonlijk aandeel voor de categorieën van zorggebruikers, vermeld in het eerste lid, vanaf de eerste dag 5,66 euro per dag in de volgende gevallen:<br>
 1° als het verblijf begint binnen negentig dagen na de dag van ontslag uit een ziekenhuis als vermeld in artikel 2 van de gecoördineerde wet van 10 juli 2008;<br>
-2° als het verblijf begint binnen negentig dagen na de dag van ontslag uit een revalidatieziekenhuis als vermeld in artikel 2, 17°, van het decreet van 6 juli 2018;<br>
+2° als het verblijf begint binnen negentig dagen na de dag van ontslag uit een revalidatieziekenhuis als vermeld in artikel 2, 27°, van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
 3° als het verblijf begint binnen zes maanden na een ontslag uit een psychiatrisch ziekenhuis als vermeld in artikel 3 van de gecoördineerde wet van 10 juli 2008;<br>
 4° als het verblijf begint binnen negentig dagen na de dag waarop een opname voor residentiële revalidatie in dezelfde of een andere revalidatievoorziening met een revalidatieovereenkomst is beëindigt.
 
@@ -3990,16 +3986,6 @@ Zolang de minister, conform artikel 212, niet heeft bepaald in welke gevallen de
 		</tr>
 		<tr>
 			<td>alle centra</td>
-			<td>verlengingsaanvraag</td>
-			<td>standaardaanvraagprocedure</td>
-		</tr>
-		<tr>
-			<td colspan="" rowspan="2>">7.72</td>
-			<td rowspan="2">alle centra</td>
-			<td>eerste aanvraag</td>
-			<td>vereenvoudigde aanvraagprocedure</td>
-		</tr>
-		<tr>
 			<td>verlengingsaanvraag</td>
 			<td>standaardaanvraagprocedure</td>
 		</tr>
