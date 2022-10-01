@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037421,
+  "title": "Besluit van de Vlaamse Regering van 2022-06-10 tot wijziging van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, het besluit van de Vlaamse Regering van 7 december 2018 houdende de uitvoering van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging en het besluit van de Vlaamse Regering van 28 mei 2021 over de tenuitvoerlegging van BelRAI en tot wijziging van diverse besluiten van de Vlaamse Regering over het beleidsdomein Welzijn, Volksgezondheid en Gezin",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037421/VolledigDocument?datum=2022-10-01",
+  "source_sha256": "34fb8655ec40894f4a7b6792c895e9cc09b7e31830a7f044f02903fa3b538d0f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037421&param=informatie",
+  "as_of": "2022-10-01",
+  "made": "2022-06-10",
+  "gazette": "2022-09-27",
+  "numac": 2022041687,
+  "document_start": "2022-10-01",
+  "document_end": null,
+  "in_force": "2022-10-01",
+  "article_versions": 61,
+  "record_form": "consolidated version as in force on 2022-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
