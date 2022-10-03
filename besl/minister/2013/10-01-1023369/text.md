@@ -119,6 +119,33 @@ Als uit een controle blijkt dat de onderneming een steunaanvraag heeft ingediend
 
 ## [HOOFDSTUK 6/1. Terugbetaalbaar voorschot (ing. MB 14 september 2022, art. 3, I: 3 oktober 2022)]
 
+### ART 11/1.
+
+In dit artikel wordt verstaan onder terugbetaalbaar voorschot: het terugbetaalbare voorschot, vermeld in artikel 44/1, eerste lid, van het besluit van 19 juli 2013.<br>
+<br>
+Het subsidiebedrag kan onder de voorwaarden, vermeld in dit artikel, volledig of gedeeltelijk toegekend worden in de vorm van een terugbetaalbaar voorschot als aan al de volgende voorwaarden is voldaan:<br>
+1° het subsidiebedrag dat conform artikel 15 tot en met 18 en artikel 30 tot en met 33 van het besluit van 19 juli 2013 is berekend, is hoger dan 500.000 euro;<br>
+2° het economische en technologische succes van het project is voldoende eenduidig beschreven. Daarbij worden de volgende criteria gehanteerd:<br>
+a) er zijn controleerbare parameters beschikbaar om het technologische succes eenduidig te bepalen;<br>
+b) er zijn referenties beschikbaar om een redelijke economische return te bepalen in verhouding tot het gedeelte van de opleidingskosten en investeringen die in aanmerking komen, vermeld in het vijfde lid, en de return is eenduidig controleerbaar.<br>
+<br>
+De steunintensiteiten voor kleine en middelgrote ondernemingen, vermeld in artikel 15 en 30 van het besluit van 19 juli 2013, kunnen worden verhoogd met maximaal 10%-punten voor het gedeelte van de in aanmerking komende opleidingskosten en investeringen, vermeld in het vijfde lid.<br>
+<br>
+Het bedrag van de terugbetaling kan worden verhoogd als het economische succes, vermeld in het vijfde lid, 1°, met 20% of meer wordt overschreden. De voormelde verhoging wordt beperkt tot maximaal het dubbele van het uitbetaalde terugbetaalbare voorschot.<br>
+<br>
+De beslissing van de Vlaamse Regering, vermeld in artikel 24, derde lid, en artikel 39, derde lid, van het besluit van 19 juli 2013, bepaalt het volgende:<br>
+1° het economische en technologische succes van het project, berekend conform de criteria, vermeld in het tweede lid, 2° ;<br>
+2° de eventuele voorwaarden van een verhoging van het bedrag van de terugbetaling, vermeld in het vierde lid;<br>
+3° het gedeelte van de in aanmerking komende opleidingskosten en investeringen, vermeld in artikel 16 en 31 van het besluit van 19 juli 2013, waarop de volgende elementen worden berekend:<br>
+a) de verhoging van de steunintensiteit, vermeld in het derde lid;<br>
+b) de eventuele verhoging van het bedrag van de terugbetaling, vermeld in het vierde lid.<br>
+<br>
+De beslissing van de Vlaamse Regering, vermeld in het vijfde lid, bepaalt ook de terugbetalingsmodaliteiten. De begunstigde leeft minimaal de volgende voorwaarden na:<br>
+1° het voorschot en de eventuele verhoging worden terugbetaald, vermeerderd met een rente die ten minste gelijk is aan de disconteringsvoet die op het tijdstip van de toekenning van de steun toepasselijk is;<br>
+2° het voorschot en de eventuele verhoging worden binnen tien jaar na de beëindiging van de opleidingen of investeringen terugbetaald.<br>
+<br>
+De subsidieverlening, de uitbetaling en de terugvordering van de subsidie verlopen conform de voorwaarden, vermeld in het besluit van 19 juli 2013 en dit besluit.
+
 ## HOOFDSTUK 7. Slotbepalingen
 
 ### ART. 12.
