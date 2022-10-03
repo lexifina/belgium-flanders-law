@@ -24,7 +24,17 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° besluit van de Vlaamse   Regering van 16 november 2012 : het besluit van de Vlaamse Regering van 16   november 2012 tot toekenning van steun aan ondernemingen voor strategische   ecologie-investeringen in het Vlaamse Gewest;<BR>2° decreet van 16 maart 2012 :   het decreet van 16 maart 2012 betreffende het economisch   ondersteuningsbeleid;<BR>3° ecologie-investeringen : milieu-investeringen en   investeringen op energiegebied; <BR>4° energiebeleidsovereenkomst : de   overeenkomst, vermeld in artikel 7.7.1 van het Energiedecreet van 8 mei   2009;<BR>5° indieningsdatum van de subsidieaanvraag : de datum waarop het   Agentschap Ondernemen de steunaanvraag elektronisch ontvangt;<BR>6°   investeringen op energiegebied : de investeringen, vermeld in artikel 15, § 4,   van het decreet van 16 maart 2012;<BR>7° milieu-investeringen : de investeringen   gericht op milieubescherming als vermeld in artikel 2, punt 101, van verordening   (EU) nr. 651/2014 van de Commissie van 17 juni 2014, waarbij bepaalde   categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de   interne markt verenigbaar worden verklaard;<BR>8° onderneming : een onderneming   als vermeld in artikel 3, 1°, van het decreet van 16 maart 2012;<BR>9°   steunintensiteit : de intensiteit, vermeld in artikel 3, 6°, van het decreet van   16 maart 2012;<BR>10° website : de website van het Agentschap   Ondernemen.<BR>
+In dit besluit wordt verstaan onder :<br>
+1° besluit van de Vlaamse Regering van 16 november 2012 : het besluit van de Vlaamse Regering van 16 november 2012 tot toekenning van steun aan ondernemingen voor strategische ecologie-investeringen in het Vlaamse Gewest;<br>
+2° decreet van 16 maart 2012 : het decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid;<br>
+3° ecologie-investeringen : milieu-investeringen en investeringen op energiegebied;<br>
+4° energiebeleidsovereenkomst : de overeenkomst, vermeld in artikel 7.7.1 van het Energiedecreet van 8 mei 2009;<br>
+5° indieningsdatum van de subsidieaanvraag : de datum waarop het Agentschap Innoveren en Ondernemen de steunaanvraag elektronisch ontvangt;<br>
+6° investeringen op energiegebied : de investeringen, vermeld in artikel 15, § 4, van het decreet van 16 maart 2012;<br>
+7° milieu-investeringen : de investeringen gericht op milieubescherming als vermeld in artikel 2, punt 101, van verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014, waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard;<br>
+8° onderneming : een onderneming als vermeld in artikel 3, 1°, van het decreet van 16 maart 2012;<br>
+9° steunintensiteit : de intensiteit, vermeld in artikel 3, 6°, van het decreet van 16 maart 2012;<br>
+10° website : de website van het Agentschap Innoveren en Ondernemen.
 
 ## HOOFDSTUK 2 Strategische ecologie-investeringen
 
@@ -83,6 +93,33 @@ Bij de subsidieaanvraag wordt een ondertekende verklaring op erewoord   toegevoe
 De subsidie wordt voorwaardelijk aan de onderneming toegekend als aan alle   van de volgende voorwaarden is voldaan :<BR>1° de volledig ingevulde en   ondertekende subsidieaanvraag is ingediend;<BR>2° er worden voorlopig geen   inbreuken vastgesteld op de voorwaarden van het decreet van 16 maart 2012, van   het besluit van de Vlaamse Regering van 16 november 2012 en van de   uitvoeringsbesluiten ervan;<BR>3° de gevraagde stavingsstukken op tijd zijn   ontvangen.<BR>
 
 ## [HOOFDSTUK 7/1 Terugbetaalbaar voorschot (ing. MB 14 september 2022, art. 2, I: 3 oktober 2022)]
+
+### ART 11/1.
+
+In dit artikel wordt verstaan onder terugbetaalbaar voorschot: het terugbetaalbare voorschot, vermeld in artikel 44/1, eerste lid, van het besluit van de Vlaamse Regering van 16 november 2012.<br>
+<br>
+De subsidie kan onder de voorwaarden, vermeld in dit artikel, volledig of gedeeltelijk toegekend worden in de vorm van een terugbetaalbaar voorschot als aan al de volgende voorwaarden is voldaan:<br>
+1° de subsidie die conform artikel 21 en 22 van het besluit van de Vlaamse Regering van 16 november 2012 is berekend, is hoger dan 500.000 euro;<br>
+2° het economische en technologische succes van het project is voldoende eenduidig beschreven. Daarbij worden de volgende criteria gehanteerd:<br>
+a) er zijn controleerbare parameters beschikbaar om het technologische succes eenduidig te bepalen;<br>
+b) er zijn referenties beschikbaar om een redelijke economische return te bepalen in verhouding tot het gedeelte van de extra investeringen, vermeld in het vijfde lid, en de return is eenduidig controleerbaar.<br>
+<br>
+De steunintensiteiten, vermeld in artikel 22 van het besluit van de Vlaamse Regering van 16 november 2012, kunnen worden verhoogd met maximaal 10%-punten voor het gedeelte van de extra investeringen, vermeld in het vijfde lid.<br>
+<br>
+Het bedrag van de terugbetaling kan worden verhoogd als het economische succes, vermeld in het vijfde lid, 1°, met 20% of meer wordt overschreden. De voormelde verhoging wordt beperkt tot maximaal het dubbele van het uitbetaalde terugbetaalbare voorschot.<br>
+<br>
+De beslissing van de Vlaamse Regering, vermeld in artikel 29, tweede lid, van het besluit van de Vlaamse Regering van 16 november 2012, bepaalt het volgende:<br>
+1° het economische en technologische succes van het project, berekend conform de criteria, vermeld in het tweede lid, 2° ;<br>
+2° de eventuele voorwaarden van een verhoging van het bedrag van de terugbetaling, vermeld in het vierde lid;<br>
+3° het gedeelte van de extra investeringen, vermeld in artikel 21 van het besluit van de Vlaamse Regering van 16 november 2012, waarop de volgende elementen worden berekend:<br>
+a) de verhoging van de steunintensiteit, vermeld in het derde lid;<br>
+b) de eventuele verhoging van het bedrag van de terugbetaling, vermeld in het vierde lid.<br>
+<br>
+De beslissing van de Vlaamse Regering, vermeld in het vijfde lid, bepaalt ook de terugbetalingsmodaliteiten. De begunstigde leeft minimaal de volgende voorwaarden na:<br>
+1° het voorschot en de eventuele verhoging worden terugbetaald, vermeerderd met een rente die ten minste gelijk is aan de disconteringsvoet die op het tijdstip van de toekenning van de steun toepasselijk is;<br>
+2° het voorschot en de eventuele verhoging worden terugbetaald binnen een periode van tien jaar na de beëindiging van de ecologie-investeringen, vermeld in artikel 1, 12°, van het besluit van de Vlaamse Regering van 16 november 2012.<br>
+<br>
+De subsidieverlening, de uitbetaling en de terugvordering van de subsidie verlopen conform de voorwaarden, vermeld in het besluit van de Vlaamse Regering van 16 november 2012 en dit besluit.
 
 ## HOOFDSTUK 8 Slotbepaling
 
