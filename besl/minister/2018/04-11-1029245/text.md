@@ -83,7 +83,7 @@ Het Departement WVG brengt de aanvrager op digitale wijze op de hoogte van de be
 
 ### ART 11.
 
-De begeleider arbeidsmatige activiteiten die initieel erkend is voor een periode van vijf jaar, vraagt de verlenging van de erkenning ten minste acht maanden voor het verstrijken van de erkenningsduur aan bij het Departement WVG. Op voorwaarde dat aan alle erkenningsvoorwaarden voldaan is, wordt vanaf dan een erkenning voor onbepaalde duur als begeleider arbeidsmatige activiteiten toegekend.<br>
+De begeleider arbeidsmatige activiteiten die initieel erkend is voor een periode van vijf jaar, vraagt de verlenging van de erkenning ten minste acht maanden voor het verstrijken van de erkenningsduur aan bij het Departement WVG. Op voorwaarde dat aan alle erkenningsvoorwaarden voldaan is, wordt een verlenging van de erkenning voor een periode van vijf jaar als begeleider arbeidsmatige activiteiten toegekend.<br>
 <br>
 Een ontvankelijke aanvraag tot verlenging bevat de gegevens en stukken, vermeld in artikel 46, § 2, vierde lid, van het besluit van 2 februari 2018.<br>
 <br>
