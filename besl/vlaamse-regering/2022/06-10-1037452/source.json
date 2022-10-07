@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037452,
+  "title": "Besluit van de Vlaamse Regering van 2022-06-10 betreffende steun aan ondernemingen en openbare entiteiten, die een negatieve economische impact ondervinden ten gevolge van de coronavirusmaatregelen en de Brexit",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037452/VolledigDocument?datum=2022-10-07",
+  "source_sha256": "4027f8d9b93416272fd873b08081209fc6e17c389b43db52d8d22deabdf90438",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037452&param=informatie",
+  "as_of": "2022-10-07",
+  "made": "2022-06-10",
+  "gazette": "2022-10-07",
+  "numac": 2022015205,
+  "document_start": "2022-10-07",
+  "document_end": null,
+  "in_force": "2022-10-07",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2022-10-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
