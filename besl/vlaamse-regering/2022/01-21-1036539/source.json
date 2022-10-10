@@ -2,16 +2,16 @@
   "codex_id": 1036539,
   "title": "Besluit van de Vlaamse Regering van 2022-01-21 over het verlenen van een overbruggingslening aan ondernemingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036539/VolledigDocument?datum=2022-08-01",
-  "source_sha256": "5bf408b84977ba0ff93f184506a1df5aeee335d4cdefd716749caca87bf983b9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036539/VolledigDocument?datum=2022-10-10",
+  "source_sha256": "6e19f84e4d0fd18f9afb72ce8da0c44be24239ca844e041f725a581f08347ebc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036539&param=informatie",
-  "as_of": "2022-08-01",
+  "as_of": "2022-10-10",
   "made": "2022-01-21",
   "gazette": "2022-02-28",
   "numac": 2022030522,
   "document_start": "2022-02-28",
   "document_end": null,
-  "in_force": "2022-08-01",
+  "in_force": "2022-10-10",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2022-08-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-10-10; future article versions excluded; article text as the API gives it"
 }
