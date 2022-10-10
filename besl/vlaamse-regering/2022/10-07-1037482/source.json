@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037482,
+  "title": "Besluit van de Vlaamse Regering van 2022-10-07 tot wijziging van het besluit van de Vlaamse Regering van 21 januari 2022 over het verlenen van een overbruggingslening aan ondernemingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037482/VolledigDocument?datum=2022-10-10",
+  "source_sha256": "f9c38348c6ccea02db268fc7de735d6ccc4ecad52cbe3182c0e943cc031e6f47",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037482&param=informatie",
+  "as_of": "2022-10-10",
+  "made": "2022-10-07",
+  "gazette": "2022-10-19",
+  "numac": 2022033814,
+  "document_start": "2022-10-10",
+  "document_end": null,
+  "in_force": "2022-10-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-10-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
