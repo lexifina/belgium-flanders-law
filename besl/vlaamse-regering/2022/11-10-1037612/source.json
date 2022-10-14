@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037612,
+  "title": "Besluit van de Vlaamse Regering van 2022-11-10 over de regels voor een eenmalige onkostenvergoeding voor studenten die in het academiejaar 2021-2022 een diploma van bachelor in de verpleegkunde behalen met een studieomvang van 240 studiepunten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037612/VolledigDocument?datum=2022-10-14",
+  "source_sha256": "8dfcd48805dd6afa303a764a6fcd2149f7b1462fe4fec406c3df91b2e7a6bed5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037612&param=informatie",
+  "as_of": "2022-10-14",
+  "made": "2022-11-10",
+  "gazette": "2023-01-13",
+  "numac": 2022042828,
+  "document_start": "2022-10-14",
+  "document_end": "2022-12-31",
+  "in_force": "2022-10-14",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2022-10-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
