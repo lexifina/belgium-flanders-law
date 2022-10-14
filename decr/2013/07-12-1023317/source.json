@@ -2,16 +2,16 @@
   "codex_id": 1023317,
   "title": "Decreet van 2013-07-12 betreffende het onroerend erfgoed (citeeropschrift: \"het Onroerenderfgoeddecreet van 12 juli 2013\")",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023317/VolledigDocument?datum=2019-09-12",
-  "source_sha256": "e3dca39e6c6f51e0ba7739702d422f4a0e1d040063c55f6c869d39522f56b946",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023317/VolledigDocument?datum=2022-10-14",
+  "source_sha256": "08f9ce096c11f92236d0446e74e252430c5e5652ab0cf232c59561f930e7d8e1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023317&param=informatie",
-  "as_of": "2019-09-12",
+  "as_of": "2022-10-14",
   "made": "2013-07-12",
   "gazette": "2013-10-17",
   "numac": 2013035861,
   "document_start": "2015-01-01",
   "document_end": null,
-  "in_force": "2019-09-12",
+  "in_force": "2022-10-14",
   "article_versions": 239,
-  "record_form": "consolidated version as in force on 2019-09-12; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-10-14; future article versions excluded; article text as the API gives it"
 }

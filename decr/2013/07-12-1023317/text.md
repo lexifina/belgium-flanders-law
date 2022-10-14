@@ -1190,7 +1190,13 @@ In geval van verval als vermeld in het derde lid of van een vervreemding als ver
 
 ### ART. 11.1.1.
 
-<P>Met inachtneming van de prerogatieven van de bevoegde overheden is de Vlaamse   Regering belast met de coördinatie en de inhoudelijke invulling van het   handhavingsbeleid inzake Onroerend Erfgoed.<BR></P>  <P>De Vlaamse Regering stelt daartoe een handhavingsprogramma Onroerend Erfgoed   vast op grond van een ontwerp, opgemaakt door de gewestelijke entiteit die door   de Vlaamse Regering belast wordt met de handhaving van dit decreet. Het   handhavingsprogramma blijft gelden zolang het niet geheel of gedeeltelijk wordt   herzien.<BR></P>  <P>Het handhavingsprogramma bepaalt de handhavingsprioriteiten van de   gewestelijke entiteit die door de Vlaamse Regering belast wordt met de   handhaving van dit decreet. Het kan ook aanbevelingen bevatten inzake de   handhaving van het Onroerend Erfgoed op gemeentelijk niveau en de samenwerking   met en tussen de betrokken beleidsniveaus.<BR></P>  <P>De Vlaamse Regering kan de nadere regels bepalen voor de inhoud, de   opstelling en verspreiding van het handhavingsprogramma Onroerend   Erfgoed.<BR></P>
+<p>Met inachtneming van de prerogatieven van de bevoegde overheden is de Vlaamse Regering belast met de coördinatie en de inhoudelijke invulling van het handhavingsbeleid inzake Onroerend Erfgoed.</p>
+
+<p>De Vlaamse Regering stelt daartoe een handhavingsprogramma Onroerend Erfgoed vast op grond van een ontwerp, opgemaakt door de gewestelijke entiteit die belast is met de handhaving van dit decreet. Het handhavingsprogramma blijft gelden zolang het niet geheel of gedeeltelijk wordt herzien.</p>
+
+<p>Het handhavingsprogramma bepaalt de handhavingsprioriteiten van de gewestelijke entiteit die belast is met de handhaving van dit decreet. Het kan ook aanbevelingen bevatten inzake de handhaving van het Onroerend Erfgoed op gemeentelijk niveau en de samenwerking met en tussen de betrokken beleidsniveaus.</p>
+
+<p>De Vlaamse Regering kan de nadere regels bepalen voor de inhoud, de opstelling en verspreiding van het handhavingsprogramma Onroerend Erfgoed.</p>
 
 ### ART. 11.1.2.
 
@@ -1372,15 +1378,15 @@ Een bestuurlijke maatregel mag geen afbreuk doen aan het gezag van   gewijsde va
 
 ### ART. 11.5.5.
 
-<p>§ 1. De ambtenaren, agenten of officieren van gerechtelijke politie, vermeld in artikel 11.3.3, kunnen mondeling ter plaatse de onmiddellijke staking van de handelingen bevelen als ze vaststellen dat die handeling voldoet aan de materiële omschrijving van een misdrijf of inbreuk als vermeld in artikel 11.2.1 of daarvan het gevolg is. Een dergelijk stakingsbevel is een preventieve maatregel, gericht op het voorkomen van misdrijven, inbreuken&nbsp;of schade aan erfgoedwaarden.</p>
+<p>§ 1. De personeelsleden, agenten of officieren van gerechtelijke politie, vermeld in artikel 11.3.3, kunnen mondeling ter plaatse de onmiddellijke staking van de handelingen bevelen als ze vaststellen dat die handeling voldoet aan de materiële omschrijving van een misdrijf of inbreuk als vermeld in artikel 11.2.1 of daarvan het gevolg is. Een dergelijk stakingsbevel is een preventieve maatregel, gericht op het voorkomen van misdrijven, inbreuken&nbsp;of schade aan erfgoedwaarden.</p>
 
-<p>Als de ambtenaren, agenten of officieren van gerechtelijke politie, vermeld in het eerste lid, ter plaatse niemand aantreffen, wordt ter plaatse een schriftelijk bevel tot onmiddellijke staking op een zichtbare plaats aangebracht, of wordt het stakingsbevel alsnog mondeling gegeven tijdens een verhoor van de overtreder.</p>
+<p>Als de personeelsleden, agenten of officieren van gerechtelijke politie, vermeld in het eerste lid, ter plaatse niemand aantreffen, wordt ter plaatse een schriftelijk bevel tot onmiddellijke staking op een zichtbare plaats aangebracht, of wordt het stakingsbevel alsnog mondeling gegeven tijdens een verhoor van de overtreder.</p>
 
 <p>§ 2. Het proces-verbaal van de vaststelling wordt binnen acht dagen per beveiligde zending betekend aan de initiatiefnemer, de architect en de persoon of aannemer die de handelingen uitvoert. Als het bevel de staking van het gebruik van een goed betreft, wordt het proces-verbaal op dezelfde manier ter kennis gebracht van de persoon die het goed gebruikt.</p>
 
 <p>Tegelijkertijd wordt per beveiligde zending een afschrift van het proces-verbaal verzonden naar de gemeente op het grondgebied waarvan de handelingen zijn uitgevoerd of waar het gebruik plaatsvond en naar de inspecteur Onroerend Erfgoed.</p>
 
-<p>§ 3. Tenzij het stakingsbevel werd gegeven door een bevoegde ambtenaar van het agentschap, belast met de handhaving van dit decreet, moet het stakingsbevel op straffe van verval binnen acht dagen na de betekening van het proces-verbaal door de inspecteur Onroerend Erfgoed worden bekrachtigd. Die bekrachtiging wordt binnen twee werkdagen per beveiligde zending verzonden naar de personen, vermeld in paragraaf 2.</p>
+<p>§ 3. Tenzij het stakingsbevel werd gegeven door een bevoegd personeelslid van het agentschap, belast met de handhaving van dit decreet, moet het stakingsbevel op straffe van verval binnen acht dagen na de betekening van het proces-verbaal door de inspecteur Onroerend Erfgoed worden bekrachtigd. Die bekrachtiging wordt binnen twee werkdagen per beveiligde zending verzonden naar de personen, vermeld in paragraaf 2.</p>
 
 <p>§ 4. Elke belanghebbende kan in kort geding de opheffing van de maatregel vorderen tegen de inspecteur Onroerend Erfgoed, die optreedt namens het Vlaamse Gewest. De vordering wordt gebracht voor de voorzitter van de rechtbank van eerste aanleg in het ambtsgebied waarin de handelingen zijn uitgevoerd of het gebruik plaatsvond. Deel IV, boek II, titel VI, van het Gerechtelijk Wetboek is van toepassing op de inleiding en de behandeling van de vordering.</p>
 
