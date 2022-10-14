@@ -21,6 +21,14 @@ Dit besluit is gebaseerd op de volgende motieven:<br>
 <br>
 DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID EN GEZIN BESLUIT:
 
+### ART 1.
+
+In artikel 6 van het ministerieel besluit van 11 april 2018 tot uitvoering van het besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten wordt de datum "31 december 2023" vervangen door de datum "30 juni 2023".
+
 ### ART 2.
 
 In artikel 11, eerste lid, van hetzelfde besluit worden de woorden "vanaf dan een erkenning voor onbepaalde duur" vervangen door de woorden "een verlenging van de erkenning voor een periode van vijf jaar".
+
+### ART 3.
+
+Artikel 2 treedt in werking op de dag van de bekendmaking van dit besluit in het Belgisch Staatsblad.
