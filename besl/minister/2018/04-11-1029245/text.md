@@ -57,7 +57,7 @@ Het Departement WVG brengt de mandaataanvrager op digitale wijze op de hoogte va
 
 ### ART 6.
 
-De mandaten van de casemanagers Zorg, vermeld in artikel 12, eerste lid, van het besluit van 2 februari 2018, eindigen op 31 december 2023.<br>
+De mandaten van de casemanagers Zorg, vermeld in artikel 12, eerste lid, van het besluit van 2 februari 2018, eindigen op 30 juni 2023.<br>
 &nbsp;
 
 ## HOOFDSTUK 3 De erkenning, opdrachten en subsidiëring van de begeleider arbeidsmatige activiteiten
