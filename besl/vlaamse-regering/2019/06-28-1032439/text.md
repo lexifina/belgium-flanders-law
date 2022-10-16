@@ -1954,7 +1954,7 @@ De minister kan de nadere subsidiëringswijze en de vorm, de inhoud en de organi
 
 <span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">In afwijking van artikel 6, § 2, tweede lid, van deze bijlage kan de dienst het zelfzorgvermogen van de gebruiker vaststellen:<br>
 1° aan de hand van de BEL-profielschaal en het BEL-gegevens cliëntsysteem tot 1 juni 2021;<br>
-2° aan de hand van de BelRAI screener en het BEL-gegevens cliëntsysteem van 1 juni 2021 tot 1 juni 2022.</span></span>
+2° aan de hand van de BelRAI screener en het BEL-gegevens cliëntsysteem van 1 juni 2021 tot 1 januari 2023.</span></span>
 
 ### ART 92.
 
