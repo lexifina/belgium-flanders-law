@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037447,
+  "title": "Besluit van de Vlaamse Regering van 2022-07-15 tot attestering van digitale applicaties die gekoppeld zijn aan het Vlaams IT-platform BelRAI en tot wijziging van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037447/VolledigDocument?datum=2022-10-16",
+  "source_sha256": "aa302746014167417ae49d1bae0977c999c2b9e5bf4f044ac99d935f7b25af34",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037447&param=informatie",
+  "as_of": "2022-10-16",
+  "made": "2022-07-15",
+  "gazette": "2022-10-06",
+  "numac": 2022033110,
+  "document_start": "2022-10-16",
+  "document_end": null,
+  "in_force": "2022-10-16",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2022-10-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
