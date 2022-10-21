@@ -3395,6 +3395,10 @@ De bewaartermijn van de persoonsgegevens, vermeld in het derde lid is 10 jaar.
 
 <p>Dat bekwaamheidsbewijs wordt afgegeven door de entiteit, belast met de handhaving van het Onroerenderfgoeddecreet van 12 juli 2013. De minister bepaalt de opleidings- of ervaringsvereisten die verbonden zijn aan de afgifte van het bekwaamheidsbewijs.</p>
 
+### ART 12.1.1/1.
+
+De contractuele personeelsleden leggen voordat ze hun opdracht als inspecteur Onroerend Erfgoed kunnen aanvatten, de eed af in handen van de leidend ambtenaar die hen heeft aangesteld conform artikel 11.3.4/1 van het Onroerenderfgoeddecreet van 12 juli 2013.
+
 ### ART. 12.1.2.
 
 <p>§ 1. Als zaken op grond van de bevoegdheid, vermeld in artikel 11.5.13 van het Onroerenderfgoeddecreet van 12 juli 2013, worden meegevoerd en opgeslagen, laat, al naar gelang het geval, de gerechtsdeurwaarder of de inspecteur Onroerend Erfgoed daarvan een proces-verbaal opmaken, waarvan een afschrift wordt verstrekt aan degene die de zaken onder zijn beheer had en, als dat een andere persoon is en als die bekend is, aan de rechthebbende.</p>
@@ -3412,6 +3416,12 @@ De bewaartermijn van de persoonsgegevens, vermeld in het derde lid is 10 jaar.
 ### ART. 12.1.3.
 
 De minister stelt de nadere regels vast voor het opstellen en afleveren   van het certificaat, vermeld in artikel 11.6.4, § 2, van het   Onroerenderfgoeddecreet van 12 juli 2013.<BR>
+
+### ART 12.1.4.
+
+De minister beslist over de beroepen tegen:<br>
+1° de beslissingen tot toepassing van bestuursdwang, vermeld in artikel 11.5.8 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+2° de beslissingen tot het opleggen van een last onder dwangsom, vermeld in artikel 11.5.15 van het voormelde decreet.
 
 ## HOOFDSTUK 13 Wijzigings-, opheffings-, overgangs- en inwerkingtredingsbepalingen
 
