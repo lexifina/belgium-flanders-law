@@ -2,16 +2,16 @@
   "codex_id": 1035856,
   "title": "Besluit van de Vlaamse Regering van 2021-07-02 over de oproepen in 2021 voor een erfgoedpremie in het kader van relance",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035856/VolledigDocument?datum=2021-08-02",
-  "source_sha256": "9e46c463a17c3f4e6f76f7fa7518bafc58212b9cbaee5d178c72c074fdfd3188",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035856/VolledigDocument?datum=2022-10-21",
+  "source_sha256": "bfc35de964cf820fb9d01302734a8cf293cc81524cf379c9fa2aff63c527ee22",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035856&param=informatie",
-  "as_of": "2021-08-02",
+  "as_of": "2022-10-21",
   "made": "2021-07-02",
   "gazette": "2021-07-23",
   "numac": 2021031779,
   "document_start": "2021-08-02",
   "document_end": null,
-  "in_force": "2021-08-02",
+  "in_force": "2022-10-21",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2021-08-02; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-10-21; future article versions excluded; article text as the API gives it"
 }
