@@ -51,7 +51,7 @@ b) als de kennisgeving is gebeurd per e-mail: vanaf de datum van de verzending, 
 27° gebruiker : de natuurlijke persoon of rechtspersoon die houder is van een zakelijk of persoonlijk recht, met uitsluiting van de eigenaar, blote eigenaar, erfpachthouder, opstalhouder of leasinggever;<br>
 28° handelingen : werkzaamheden, wijzigingen of activiteiten met gevolgen voor erfgoedwaarden;<br>
 28° /1 ingreep in de bodem: elke wijziging van de eigenschappen van de ondergrond door de verwijdering of toevoeging van materie, de verhoging of verlaging van de grondwatertafel, of het samendrukken van de materialen waaruit de ondergrond bestaat. Voor de berekening van de totale oppervlakte van de ingreep in de bodem wordt rekening gehouden met de oppervlakte van de vergunningsplichtige werken of handelingen zoals opgenomen in de vergunningsaanvraag;<br>
-29° inspecteur Onroerend Erfgoed : de ambtenaar die belast is met de hem door dit decreet toegewezen handhavingstaken, aangesteld door de leidend ambtenaar van de entiteit die door de Vlaamse Regering belast is met de handhaving van de regelgeving inzake onroerend erfgoed op het grondgebied van het Vlaamse Gewest of een gedeelte ervan;<br>
+29° inspecteur Onroerend Erfgoed: een personeelslid als vermeld in artikel 11.3.4/1, dat belast is met de uitvoering van de handhaving van de regelgeving over onroerend erfgoed op het grondgebied van het Vlaamse Gewest of een gedeelte ervan;<br>
 30° intergemeentelijke onroerenderfgoeddienst : een intergemeentelijke dienst die ter uitvoering van dit decreet met betrekking tot het onroerend erfgoed beleidsuitvoerende taken opneemt;<br>
 31° inventaris : een oplijsting van onroerende goederen en gehelen van onroerende goederen met erfgoedwaarde;<br>
 31° /1 kerkenbeleidsplan: een schriftelijk document dat eerst door het representatief orgaan van de betrokken eredienst en vervolgens door de gemeente- of de provincieraad werd goedgekeurd en dat een lokaal gedragen langetermijnvisie biedt voor alle gebouwen die bestemd zijn voor de betrokken eredienst op het grondgebied van de gemeente of provincie. De langetermijnvisie moet minimaal volgende basisgegevens bevatten: a) een beschrijving van de betrokken gebouwen bestemd voor de eredienst, met onder meer hun cultuurhistorische waarde, hun architecturale mogelijkheden, hun bouwfysische toestand; b) de situering van elk gebouw bestemd voor de eredienst in zijn ruimtelijke omgeving; c) een beschrijving van het actueel gebruik en de actuele functie van de betrokken gebouwen bestemd voor de eredienst en d) een onderbouwde visie op het toekomstig gebruik en de toekomstige functie van de betrokken gebouwen, inclusief een plan van aanpak hoe de toekomstige invulling met nevenfuncties of herbestemming ervan zal worden onderzocht;<br>
@@ -1200,7 +1200,19 @@ In geval van verval als vermeld in het derde lid of van een vervreemding als ver
 
 ### ART. 11.1.2.
 
-<P>Jaarlijks stelt de gewestelijke entiteit die door de Vlaamse Regering belast   wordt met de handhaving van dit decreet een handhavingsrapport Onroerend Erfgoed   op.<BR></P>  <P>Het handhavingsrapport Onroerend Erfgoed omvat minstens de volgende   onderdelen :<BR>1° een algemene evaluatie van het in het afgelopen kalenderjaar   gevoerde handhavingsbeleid inzake Onroerend Erfgoed;<BR>2° een specifieke   evaluatie van de inzet van de afzonderlijke handhavingsinstrumenten;<BR>3° een   overzicht van de gevallen waarin, binnen de gestelde termijn, geen uitspraak   werd gedaan over de beroepen tegen besluiten houdende bestuurlijke   maatregelen;<BR>4° een evaluatie van de beslissingspraktijk van de parketten   inzake het al dan niet strafrechtelijk behandelen van een vastgesteld misdrijf   Onroerend Erfgoed;<BR>5° een inventaris van de inzichten die tijdens de   handhaving werden opgedaan en die kunnen worden aangewend ter verbetering van de   regelgeving, beleidsvisies en beleidsuitvoering inzake Onroerend Erfgoed;<BR>6°   aanbevelingen voor de verdere ontwikkeling van het handhavingsbeleid inzake   Onroerend Erfgoed.<BR></P>  <P>De gewestelijke entiteit deelt het rapport mee aan de Vlaamse   Regering.<BR></P>  <P>De Vlaamse Regering kan nadere regels vaststellen voor de inhoud, de   opstelling en de verspreiding van het rapport.<BR></P>
+<p>Jaarlijks stelt de gewestelijke entiteit die belast is met de handhaving van dit decreet een handhavingsrapport Onroerend Erfgoed op.</p>
+
+<p>Het handhavingsrapport Onroerend Erfgoed omvat minstens de volgende onderdelen :<br>
+1° een algemene evaluatie van het in het afgelopen kalenderjaar gevoerde handhavingsbeleid inzake Onroerend Erfgoed;<br>
+2° een specifieke evaluatie van de inzet van de afzonderlijke handhavingsinstrumenten;<br>
+3° een overzicht van de gevallen waarin, binnen de gestelde termijn, geen uitspraak werd gedaan over de beroepen tegen besluiten houdende bestuurlijke maatregelen;<br>
+4° een evaluatie van de beslissingspraktijk van de parketten inzake het al dan niet strafrechtelijk behandelen van een vastgesteld misdrijf Onroerend Erfgoed;<br>
+5° een inventaris van de inzichten die tijdens de handhaving werden opgedaan en die kunnen worden aangewend ter verbetering van de regelgeving, beleidsvisies en beleidsuitvoering inzake Onroerend Erfgoed;<br>
+6° aanbevelingen voor de verdere ontwikkeling van het handhavingsbeleid inzake Onroerend Erfgoed.</p>
+
+<p>De gewestelijke entiteit deelt het rapport mee aan de Vlaamse Regering.</p>
+
+<p>De Vlaamse Regering kan nadere regels vaststellen voor de inhoud, de opstelling en de verspreiding van het rapport.</p>
 
 ## Afdeling 2 Sancties
 
@@ -1256,33 +1268,33 @@ f) het niet melden van de aanvang van een archeologische opgraving, als vermeld 
 
 <p>Het uitstel wordt van rechtswege herroepen als gedurende de proeftijd een nieuw misdrijf of een nieuwe inbreuk in de zin van dit decreet is gepleegd, met een veroordeling tot een straf of het opleggen van een bestuurlijke geldboete tot gevolg.</p>
 
-<p>Als het aan het uitstel gekoppelde feitelijk herstel niet of niet volledig werd uitgevoerd binnen de proefperiode, kan de inspecteur Onroerend Erfgoed besluiten tot het herroepen van het uitstel. Deze beslissing wordt genomen met inachtneming van de procedure, vermeld in artikel 11.2.5, met dien verstande dat het voornemen tot herroeping van het uitstel aan de overtreder moet worden meegedeeld binnen het jaar na afloop van de proefperiode.</p>
+<p>Als het aan het uitstel gekoppelde feitelijk herstel niet of niet volledig werd uitgevoerd binnen de proefperiode, kan de gewestelijke entiteit besluiten tot het herroepen van het uitstel. Deze beslissing wordt genomen met inachtneming van de procedure, vermeld in artikel 11.2.5, met dien verstande dat het voornemen tot herroeping van het uitstel aan de overtreder moet worden meegedeeld binnen het jaar na afloop van de proefperiode.</p>
 
 ### ART. 11.2.5.
 
-<p>§ 1. Na de ontvangst van een verslag van vaststelling bedoeld in artikel 11.3.4 of een proces-verbaal, bedoeld in artikel 11.3.3, waaruit het bestaan van een inbreuk blijkt, kan de inspecteur Onroerend Erfgoed binnen een termijn van zestig dagen de vermoedelijke overtreder of overtreders per beveiligde zending op de hoogte brengen van het voornemen om een bestuurlijke geldboete op te leggen. De vermoedelijke overtreder wordt uitgenodigd om binnen een termijn van dertig dagen die volgt op de betekening van dit bericht schriftelijk zijn verweer mee te delen. De mededeling wordt vergezeld van het verslag of proces-verbaal waarop het opleggen van een bestuurlijke geldboete berust.</p>
-
-<p>Tevens wordt de verzoeker erop gewezen dat hij mondeling zijn schriftelijk verweer kan toelichten. De vermoedelijke overtreder richt daartoe aan de inspecteur Onroerend Erfgoed een aanvraag binnen dertig dagen na de betekening.</p>
-
-<p>De inspecteur Onroerend Erfgoed, bedoeld in deze paragraaf, mag nooit zelf de auteur zijn van het verslag of het proces-verbaal van vaststelling. Hij kan deze laatste wel verzoeken om aanvullende inlichtingen te verstrekken, of zelf bijkomende vaststellingen verrichten.</p>
-
-<p>§ 2. Binnen een termijn van negentig dagen na de betekening van het bericht beslist de inspecteur Onroerend Erfgoed over het opleggen van een bestuurlijke geldboete. Deze beslissing wordt per beveiligde zending aan de vermoedelijke overtreder betekend binnen een termijn van tien dagen na de dag waarop zij werd genomen. Het verstrijken van één van deze termijnen maakt het opleggen van een bestuurlijke geldboete voor de inbreuk, zoals ze bleek uit het verslag van vaststelling of het proces-verbaal, onmogelijk.</p>
-
-<p>§ 3. Met inachtneming van de bepalingen van de wet van 29 juli 1991 betreffende de uitdrukkelijke motivering van de bestuurshandelingen vermeldt de beslissing minstens het eventueel opgelegde bedrag, de beroepsmogelijkheden en de voorwaarden van het beroep, alsmede de termijn waarbinnen en de manier waarop de exclusieve bestuurlijke geldboete moet worden betaald.</p>
-
-<p>§ 4. Binnen een termijn van dertig dagen, te rekenen vanaf de datum waarop de beslissing van de inspecteur Onroerend Erfgoed tot het opleggen van een bestuurlijke geldboete aan de vermoedelijke overtreder ter kennis wordt gebracht, kan degene aan wie de boete werd opgelegd, beroep indienen bij het handhavingscollege, vermeld in artikel 16.4.19 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, volgens de procedure voorgeschreven in hoofdstuk 3, afdelingen 1 en 2, en hoofdstuk 4, afdelingen 1 en 2, van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges. Het beroep schorst de bestreden beslissing.</p>
-
-<p>§ 5. De vordering tot betaling van de bestuurlijke geldboete verjaart na verloop van vijf jaar te rekenen vanaf de datum waarop de in paragraaf 2 bedoelde beslissing is opgenomen. De verjaring wordt gestuit op de wijze en onder de voorwaarden bepaald in de artikelen 2244 en volgende van het Burgerlijk Wetboek.</p>
-
-<p>Bij gebrek aan voldoening van de bestuurlijke geldboete en toebehoren vaardigt de inspecteur Onroerend Erfgoed een dwangbevel uit. Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door de ambtenaar die daartoe is aangewezen door de Vlaamse Regering.</p>
-
-<p>Het dwangbevel wordt betekend bij gerechtsdeurwaardersexploot of ter kennis gebracht per beveiligde zending.</p>
-
-<p>Op het dwangbevel zijn de bepalingen van deel V van het Gerechtelijk Wetboek van toepassing.</p>
-
-<p>§ 6. Voor de toepassing van dit artikel wordt de betekening per beveiligde zending geacht te zijn geschied op de derde werkdag na de afgifte ter post.</p>
-
-<p>De Vlaamse Regering kan de nadere regels bepalen ter uitvoering van dit artikel.</p>
+<p>§ 1. Na de ontvangst van een verslag van vaststelling bedoeld in artikel 11.3.4 of een proces-verbaal, bedoeld in artikel 11.3.3, waaruit het bestaan van een inbreuk blijkt, kan de gewestelijke entiteit binnen een termijn van zestig dagen de vermoedelijke overtreder of overtreders per beveiligde zending op de hoogte brengen van het voornemen om een bestuurlijke geldboete op te leggen. De vermoedelijke overtreder wordt uitgenodigd om binnen een termijn van dertig dagen die volgt op de betekening van dit bericht schriftelijk zijn verweer mee te delen. De mededeling wordt vergezeld van het verslag of proces-verbaal waarop het opleggen van een bestuurlijke geldboete berust.<br>
+<br>
+Tevens wordt de verzoeker erop gewezen dat hij mondeling zijn schriftelijk verweer kan toelichten. De vermoedelijke overtreder richt daartoe aan de gewestelijke entiteit een aanvraag binnen dertig dagen na de betekening.<br>
+<br>
+De gewestelijke entiteit kan de verbalisant, vermeld in artikel 11.3.3 en 11.3.4, verzoeken om aanvullende inlichtingen te verstrekken.<br>
+<br>
+§ 2. Binnen een termijn van negentig dagen na de betekening van het bericht beslist de gewestelijke entiteit over het opleggen van een bestuurlijke geldboete. Deze beslissing wordt per beveiligde zending aan de vermoedelijke overtreder betekend binnen een termijn van tien dagen na de dag waarop zij werd genomen. Het verstrijken van één van deze termijnen maakt het opleggen van een bestuurlijke geldboete voor de inbreuk, zoals ze bleek uit het verslag van vaststelling of het proces-verbaal, onmogelijk.<br>
+<br>
+§ 3. Met inachtneming van de bepalingen van de wet van 29 juli 1991 betreffende de uitdrukkelijke motivering van de bestuurshandelingen vermeldt de beslissing minstens het eventueel opgelegde bedrag, de beroepsmogelijkheden en de voorwaarden van het beroep, alsmede de termijn waarbinnen en de manier waarop de exclusieve bestuurlijke geldboete moet worden betaald.<br>
+<br>
+§ 4. Binnen een termijn van dertig dagen, te rekenen vanaf de datum waarop de beslissing van de gewestelijke entiteit tot het opleggen van een bestuurlijke geldboete aan de vermoedelijke overtreder ter kennis wordt gebracht, kan degene aan wie de boete werd opgelegd, beroep indienen bij het handhavingscollege, vermeld in artikel 16.4.19 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, volgens de procedure voorgeschreven in hoofdstuk 3, afdelingen 1 en 2, en hoofdstuk 4, afdelingen 1 en 2, van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges. Het beroep schorst de bestreden beslissing.<br>
+<br>
+§ 5. De vordering tot betaling van de bestuurlijke geldboete verjaart na verloop van vijf jaar te rekenen vanaf de datum waarop de in paragraaf 2 bedoelde beslissing is opgenomen. De verjaring wordt gestuit op de wijze en onder de voorwaarden bepaald in de artikelen 2244 en volgende van het Burgerlijk Wetboek.<br>
+<br>
+Als de betrokkene in gebreke blijft bij het betalen van de verschuldigde bestuurlijke geldboeten, verhoogd met de invorderingskosten, worden die bedragen bij dwangbevel ingevorderd. Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door een personeelslid dat de Vlaamse Regering daarvoor heeft aangewezen.<br>
+<br>
+Het dwangbevel wordt betekend bij gerechtsdeurwaardersexploot of ter kennis gebracht per beveiligde zending.<br>
+<br>
+Op het dwangbevel zijn de bepalingen van deel V van het Gerechtelijk Wetboek van toepassing.<br>
+<br>
+§ 6. Voor de toepassing van dit artikel wordt de betekening per beveiligde zending geacht te zijn geschied op de derde werkdag na de afgifte ter post.<br>
+<br>
+De Vlaamse Regering kan de nadere regels bepalen ter uitvoering van dit artikel.</p>
 
 ## Onderafdeling 4 Alternatieve bestuurlijke geldboete voor bepaalde misdrijven
 
@@ -1290,9 +1302,9 @@ f) het niet melden van de aanvang van een archeologische opgraving, als vermeld 
 
 <p>§ 1. Bij de vaststelling van een misdrijf in de zin van artikel 11.2.2, eerste lid, 9° of 10°, bezorgt de verbalisant samen met het proces-verbaal een schriftelijk verzoek aan de procureur des Konings, waarin deze laatste gevraagd wordt zich uit te spreken over de al dan niet strafrechtelijke behandeling van het misdrijf in de zin van artikel 11.2.2, eerste lid, 9° of 10°. De verbalisant bezorgt, voor zover als mogelijk, de procureur des Konings tevens een overzicht van zowel de vroegere als de tegelijkertijd met het misdrijf in de zin van artikel 11.2.2, eerste lid, 9° of 10°, vastgestelde andere misdrijven en inbreuken, bepaald door dit decreet.</p>
 
-<p>§ 2. De procureur des Konings beschikt voor een beslissing over het verzoek over een periode van honderdtachtig dagen, te rekenen vanaf de dag waarop hij het proces-verbaal heeft ontvangen. Voor die periode verstreken is, kan ze gemotiveerd eenmalig verlengd worden met een aanvullende periode van maximaal honderdtachtig dagen. Van die verlenging stelt de procureur des Konings de inspecteur Onroerend Erfgoed onmiddellijk in kennis. Tijdens die periode van honderdtachtig dagen, eventueel verlengd met een aanvullende periode van maximaal honderdtachtig dagen, kan er geen bestuurlijke geldboete worden opgelegd.</p>
+<p>§ 2. De procureur des Konings beschikt voor een beslissing over het verzoek over een periode van honderdtachtig dagen, te rekenen vanaf de dag waarop hij het proces-verbaal heeft ontvangen. Voor die periode verstreken is, kan ze gemotiveerd eenmalig verlengd worden met een aanvullende periode van maximaal honderdtachtig dagen. Van die verlenging stelt de procureur des Konings de gewestelijke entiteit onmiddellijk in kennis. Tijdens die periode van honderdtachtig dagen, eventueel verlengd met een aanvullende periode van maximaal honderdtachtig dagen, kan er geen bestuurlijke geldboete worden opgelegd.</p>
 
-<p>§ 3. De procureur des Konings deelt zijn beslissing mee aan de inspecteur Onroerend Erfgoed.</p>
+<p>§ 3. De procureur des Konings deelt zijn beslissing mee aan de gewestelijke entiteit.</p>
 
 <p>Een beslissing houdende strafrechtelijke behandeling sluit het opleggen van een bestuurlijke geldboete uit. Een beslissing houdende geen strafrechtelijke behandeling van het misdrijf in de zin van artikel 11.2.2, eerste lid, 9° of 10°, houdt het verval van de strafvordering met betrekking tot deze misdrijven in, maar laat de strafvordering met betrekking tot andere misdrijven onverminderd bestaan, zelfs in geval van eenheid van opzet.</p>
 
@@ -1322,15 +1334,35 @@ f) het niet melden van de aanvang van een archeologische opgraving, als vermeld 
 
 ### ART. 11.3.3.
 
-<P>Onverminderd de bevoegdheden van de agenten en de officieren van   gerechtelijke politie zijn de inspecteur Onroerend Erfgoed en de andere door de   Vlaamse Regering aangewezen ambtenaren van het Vlaamse Gewest, bevoegd om de   misdrijven omschreven in dit hoofdstuk op te sporen en vast te stellen door een   proces-verbaal. Hetzelfde geldt voor de personeelsleden van de gemeenten of   intergemeentelijke samenwerkingsverbanden, daartoe aangesteld door het college   van burgemeester en schepenen overeenkomstig de door de Vlaamse Regering   bepaalde voorwaarden. De processen-verbaal waarin de misdrijven omschreven in   dit hoofdstuk worden vastgesteld, gelden tot bewijs van het tegendeel.<BR></P>  <P>De agenten, officieren van de gerechtelijke politie en ambtenaren, vermeld in   het eerste lid, hebben toegang tot de beschermde goederen, erfgoedlandschappen   en archeologische sites en tot onroerende goederen waar zich archeologische   artefacten kunnen bevinden, om alle nodige opsporingen en vaststellingen te   verrichten.<BR></P>  <P>Als die verrichtingen de kenmerken van een huiszoeking dragen, mogen ze   alleen worden uitgevoerd op voorwaarde dat de politierechter daartoe een   machtiging heeft verstrekt.<BR></P>  <P>Om misdrijven omschreven in dit hoofdstuk op te sporen en vast te stellen in   een proces-verbaal, krijgen de inspecteurs Onroerend Erfgoed de hoedanigheid van   officier van gerechtelijke politie, hulpofficier van de procureur des   Konings.<BR></P>  <P>Een afschrift van het proces-verbaal wordt altijd gericht aan de   vermoedelijke overtreders, de inspecteur Onroerend Erfgoed, het agentschap en de   gemeente op wiens grondgebied deze handelingen werden uitgevoerd of waar dit   gebruik plaatsvond.<BR></P>
+<p>Onverminderd de bevoegdheden van de agenten en de officieren van gerechtelijke politie zijn de inspecteur Onroerend Erfgoed en de andere door de Vlaamse Regering aangewezen personeelsleden van het Vlaamse Gewest, bevoegd om de misdrijven omschreven in dit hoofdstuk op te sporen en vast te stellen door een proces-verbaal. Hetzelfde geldt voor de personeelsleden van de gemeenten of intergemeentelijke samenwerkingsverbanden, daartoe aangesteld door het college van burgemeester en schepenen overeenkomstig de door de Vlaamse Regering bepaalde voorwaarden. De processen-verbaal waarin de misdrijven omschreven in dit hoofdstuk worden vastgesteld, gelden tot bewijs van het tegendeel.</p>
+
+<p>De agenten, officieren van de gerechtelijke politie en personeelsleden, vermeld in het eerste lid, hebben toegang tot de beschermde goederen, erfgoedlandschappen en archeologische sites en tot onroerende goederen waar zich archeologische artefacten kunnen bevinden, om alle nodige opsporingen en vaststellingen te verrichten.</p>
+
+<p>Als die verrichtingen de kenmerken van een huiszoeking dragen, mogen ze alleen worden uitgevoerd op voorwaarde dat de politierechter daartoe een machtiging heeft verstrekt.</p>
+
+<p>Om misdrijven omschreven in dit hoofdstuk op te sporen en vast te stellen in een proces-verbaal, krijgen de inspecteurs Onroerend Erfgoed de hoedanigheid van officier van gerechtelijke politie, hulpofficier van de procureur des Konings.</p>
+
+<p>Een afschrift van het proces-verbaal wordt altijd gericht aan de vermoedelijke overtreders, de inspecteur Onroerend Erfgoed, het agentschap en de gemeente op wiens grondgebied deze handelingen werden uitgevoerd of waar dit gebruik plaatsvond.</p>
 
 ## Onderafdeling 3 Vaststelling van inbreuken onroerend erfgoed
 
 ### ART. 11.3.4.
 
-<P>De in artikel 11.3.3 genoemde verbalisanten kunnen, bij de vaststelling van   een inbreuk onroerend erfgoed zonder samenloop met een misdrijf onroerend   erfgoed, een verslag van vaststelling opstellen, dat zij onmiddellijk bezorgen   aan de inspecteur Onroerend Erfgoed. Artikel 11.3.3, tweede en derde lid, zijn   van overeenkomstige toepassing.<BR></P>  <P>Een afschrift van het verslag van vaststelling wordt altijd gericht aan de   vermoedelijke overtreders, de inspecteur Onroerend Erfgoed, het agentschap en de   gemeente op wiens grondgebied deze handelingen werden uitgevoerd of waar dit   gebruik plaatsvond.<BR></P>  <P>Wordt in samenhang met de inbreuk onroerend erfgoed tegelijkertijd een   misdrijf onroerend erfgoed vastgesteld, dan wordt de vaststelling van de inbreuk   onroerend erfgoed opgenomen in het proces-verbaal, bedoeld in artikel   11.3.3.<BR></P>
+<p>De in artikel 11.3.3 genoemde verbalisanten kunnen, bij de vaststelling van een inbreuk onroerend erfgoed zonder samenloop met een misdrijf onroerend erfgoed, een verslag van vaststelling opstellen, dat zij onmiddellijk bezorgen aan de gewestelijke entiteit. Artikel 11.3.3, tweede en derde lid, zijn van overeenkomstige toepassing.</p>
+
+<p>Een afschrift van het verslag van vaststelling wordt altijd gericht aan de vermoedelijke overtreders, de inspecteur Onroerend Erfgoed, het agentschap en de gemeente op wiens grondgebied deze handelingen werden uitgevoerd of waar dit gebruik plaatsvond.</p>
+
+<p>Wordt in samenhang met de inbreuk onroerend erfgoed tegelijkertijd een misdrijf onroerend erfgoed vastgesteld, dan wordt de vaststelling van de inbreuk onroerend erfgoed opgenomen in het proces-verbaal, bedoeld in artikel 11.3.3.</p>
 
 ## [Onderafdeling 4 Inspecteurs Onroerend Erfgoed (ing. decr. 10 juni 2022, art. 49, I: 21 oktober 2022)]
+
+### ART 11.3.4/1.
+
+De Vlaamse Regering wijst de inspecteurs Onroerend Erfgoed aan. De Vlaamse Regering kan de aanwijzingsbevoegdheid delegeren.<br>
+<br>
+De Vlaamse Regering kan de voorwaarden, zoals scholingsvereisten, bepalen waaraan de inspecteurs Onroerend Erfgoed moeten voldoen.<br>
+<br>
+Contractuele personeelsleden kunnen alleen inspecteur Onroerend Erfgoed zijn als ze zijn beëdigd. De Vlaamse Regering kan de voorwaarden van de eedaflegging bepalen.
 
 ## Afdeling 4 Rechterlijke herstelmaatregel
 
@@ -1392,7 +1424,7 @@ Een bestuurlijke maatregel mag geen afbreuk doen aan het gezag van   gewijsde va
 
 ### ART. 11.5.6.
 
-De ambtenaren, agenten of officieren van gerechtelijke politie, vermeld in   artikel 11.3.3, zijn gerechtigd tot het nemen van alle maatregelen, met inbegrip   van verzegeling, inbeslagname van materiaal en materieel, om het bevel tot   staking, de bekrachtigingsbeslissing of, in voorkomend geval, de beschikking in   kort geding onmiddellijk te kunnen toepassen.<BR>
+De personeelsleden, agenten of officieren van gerechtelijke politie, vermeld in artikel 11.3.3, zijn gerechtigd tot het nemen van alle maatregelen, met inbegrip van verzegeling, inbeslagname van materiaal en materieel, om het bevel tot staking, de bekrachtigingsbeslissing of, in voorkomend geval, de beschikking in kort geding onmiddellijk te kunnen toepassen.
 
 ## Onderafdeling 3 Bestuursdwang
 
