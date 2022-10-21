@@ -113,9 +113,13 @@ Met toepassing van artikel 18 van het besluit van de Vlaamse Regering van 10 okt
 6° het verlenen van machtigingen, toestemmingen of vergunningen namens de Vlaamse Regering voor de uitvoering van werkzaamheden binnen of aan beschermd onroerend erfgoed, met toepassing van de regelgeving inzake onroerend erfgoed;<br>
 7° het verlenen van alle in het ondernemingsplan nominatief opgenomen gereglementeerde en niet-gereglementeerde subsidies binnen het budget dat daarvoor ter beschikking is gesteld;<br>
 8° de organisatie van het openbaar onderzoek namens de Vlaamse minister, bevoegd voor het onroerend erfgoed, ter uitvoering van artikel 4.1.3 van het Onroerenderfgoeddecreet van 12 juli 2013 en artikel 4.1.6 van het Onroerenderfgoedbesluit van 16 mei 2014;<br>
-9° het inwinnen van de adviezen namens de Vlaamse minister, bevoegd voor het onroerend erfgoed, ter uitvoering van artikel 6.1.3 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-10° het beslissen over de beroepen tegen beslissingen tot toepassing van bestuursdwang, vermeld in artikel 11.5.8 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-11° het beslissen over de beroepen tegen beslissingen tot het opleggen van een last onder dwangsom, vermeld in artikel 11.5.15 van het Onroerenderfgoeddecreet van 12 juli 2013.
+9° het inwinnen van de adviezen namens de Vlaamse minister, bevoegd voor het onroerend erfgoed, ter uitvoering van artikel 6.1.3 en 6.2.4 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+10° ...;<br>
+11° ...
+
+### ART 9/2.
+
+Het hoofd van Onroerend Erfgoed kan onder de personeelsleden van Onroerend Erfgoed de personeelsleden, vermeld in artikel 11.3.1 van het Onroerenderfgoeddecreet van 12 juli 2013 aanwijzen.
 
 ## HOOFDSTUK IV CONTROLE, OPVOLGING EN TOEZICHT
 
