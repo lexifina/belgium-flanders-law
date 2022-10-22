@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037458,
+  "title": "Decreet van 2022-10-07 tot wijziging van het decreet van 3 oktober 2022 tot beperking van de indexatie van de huurprijzen om de gevolgen van de energiecrisis te verlichten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037458/VolledigDocument?datum=2022-10-22",
+  "source_sha256": "e159deebef815b065f4a6ff7c455db3ae775661eb5cc35d25e62b13aec7d5ba3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037458&param=informatie",
+  "as_of": "2022-10-22",
+  "made": "2022-10-07",
+  "gazette": "2022-10-12",
+  "numac": 2022042327,
+  "document_start": "2022-10-22",
+  "document_end": null,
+  "in_force": "2022-10-22",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2022-10-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
