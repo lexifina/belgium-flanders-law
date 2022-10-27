@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037855,
+  "title": "Besluit van de Vlaamse Regering van 2022-12-16 tot wijziging van het besluit van de Vlaamse Regering van 15 juli 2022 tot verlening van een opsporingsvergunning voor aardwarmte in de regio Turnhout aan SPV GEO@Turnhout",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037855/VolledigDocument?datum=2022-10-27",
+  "source_sha256": "33effb39cc07d9fe135dc509c3ac50a30baf2a4efd05305239ab7bd471e19a88",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037855&param=informatie",
+  "as_of": "2022-10-27",
+  "made": "2022-12-16",
+  "gazette": "2023-01-11",
+  "numac": 2022030029,
+  "document_start": "2022-10-27",
+  "document_end": null,
+  "in_force": "2022-10-27",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-10-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
