@@ -31,9 +31,9 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 2.
 
-De steunaanvrager kan één maal en op gemotiveerde wijze aan Toerisme Vlaanderen verzoeken om de uiterlijke realisatiedatum van het project zoals bepaald in artikel 8 van het besluit van 26 februari 2021 uit te stellen tot ten laatste 31 december 2022.<br>
-<br>
-De steunaanvrager richt het gemotiveerd verzoek tot uitstel uit het eerste lid uiterlijk op 30 juni 2022 via e-mail aan Toerisme Vlaanderen.
+De steunaanvrager kan op gemotiveerde wijze aan Toerisme Vlaanderen verzoeken om de uiterlijke realisatiedatum van het project zoals bepaald in artikel 8 van het besluit van 26 februari 2021 uit te stellen tot ten laatste 31 augustus 2023.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De steunaanvrager richt het gemotiveerd verzoek tot uitstel uit het eerste lid uiterlijk op 31 december 2022 via e-mail aan Toerisme Vlaanderen.
 
 ### ART 3.
 
