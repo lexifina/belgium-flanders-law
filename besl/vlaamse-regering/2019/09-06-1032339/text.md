@@ -158,6 +158,17 @@ De projectmethodologie, vermeld in artikel 2, § 1, van dit besluit, is van toep
 <br>
 Voor de projecten, vermeld in het eerste lid, wordt een unieke verantwoordingsnota opgesteld. De unieke verantwoordingsnota wordt opgemaakt conform artikel 2, § 2, zevende lid.
 
+### ART 5/1.
+
+De projectmethodologie, vermeld in artikel 2, § 1, van dit besluit, is van toepassing op de projecten voor de wijziging, namelijk een vermindering, een aanpassing of een verhoging van het aanbod van het openbaar personenvervoer over water, vermeld in artikel 32/1 van het decreet Basisbereikbaarheid, inclusief de verplaatsing of bouw van de aanlegsteigers of bediening van de Hoppinpunten die daarmee verband houden, als voldaan is aan een van de volgende voorwaarden:<br>
+1° het aanbod op een traject met meer dan twee haltes wordt met meer dan 10% van de plaatskilometers aangepast. Onder plaatskilometers wordt het aantal gevaren kilometers vermenigvuldigd met de reizigerscapaciteit verstaan;<br>
+2° het project betreft geen tijdelijke maatregel ten gevolge van een toevallige of een geplande verhoging van de vervoersvraag of van werken of calamiteiten aan de vaste route van een traject;<br>
+3° er is een gemotiveerd verzoek van een of meer leden van de vervoerregioraad.<br>
+<br>
+In het eerste lid wordt verstaan onder Hoppinpunt: een Hoppinpunt vermeld in artikel 1 van het besluit van de Vlaamse Regering van 11 februari 2022 over de Hoppinpunten en tot wijziging van het besluit van de Vlaamse Regering van 25 januari 2013 tot bepaling van de nadere regels betreffende de financiering en de samenwerking voor het mobiliteitsbeleid.<br>
+<br>
+Voor de projecten, vermeld in het eerste lid, wordt een unieke verantwoordingsnota opgesteld. De unieke verantwoordingsnota wordt opgemaakt conform artikel 2, § 2, zevende lid.
+
 ### ART 6.
 
 § 1. De niet-infrastructuurgebonden projecten betreffen de volgende projecten en maatregelen:<br>
@@ -188,6 +199,8 @@ Als de infrastructuurgebonden projecten, vermeld in artikel 4, § 1, van dit bes
 ### ART 8.
 
 § 1. De initiatiefnemer stelt een PSG in om de projecten, vermeld in artikel 4 tot en met 6, te begeleiden.<br>
+<br>
+Voor projecten voor het openbaar personenvervoer over water, met uitzondering van infrastructuurprojecten op of langs waterwegen en watergebonden gronden, is de exploitant de initiatiefnemer.<br>
 <br>
 § 2. Als het gaat om een gedeeld project met meer dan één initiatiefnemer, wordt de PSG voorgezeten door een voorzitter die wordt aangewezen onder de initiatiefnemers van het project.<br>
 <br>
