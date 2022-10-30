@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037492,
+  "title": "Ministerieel besluit van 2022-06-20 houdende een oproep tot indiening van projecten als vermeld in artikel 3 van het besluit van de Vlaamse Regering van 7 mei 2021 betreffende de subsidiëring van projecten ter uitvoering van het beleid voor de omschakeling naar zero-emissievervoermiddelen en vervoermiddelen aangedreven door alternatieve brandstoffen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037492/VolledigDocument?datum=2022-10-30",
+  "source_sha256": "6f73c40ef91178b78d50a8db6d6817a80b41703ea67cb03b3deabb3464e3dbc9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037492&param=informatie",
+  "as_of": "2022-10-30",
+  "made": "2022-06-20",
+  "gazette": "2022-10-20",
+  "numac": 2022032915,
+  "document_start": "2022-10-30",
+  "document_end": null,
+  "in_force": "2022-10-30",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2022-10-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
