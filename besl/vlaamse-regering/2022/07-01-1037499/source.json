@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037499,
+  "title": "Besluit van de Vlaamse Regering van 2022-07-01 tot erkenning van de databank Brownfieldconvenanten en de databank steunzones als authentieke geografische gegevensbronnen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037499/VolledigDocument?datum=2022-10-31",
+  "source_sha256": "a9fd4c1344f268e56abc069df9bdeeac037a166ca1dd5f9d5eb14fe889d9c7a1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037499&param=informatie",
+  "as_of": "2022-10-31",
+  "made": "2022-07-01",
+  "gazette": "2022-10-21",
+  "numac": 2022015643,
+  "document_start": "2022-10-31",
+  "document_end": null,
+  "in_force": "2022-10-31",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2022-10-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
