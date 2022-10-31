@@ -27,7 +27,9 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br>
 
 ### ART. 3.
 
-De aanvraag tot het verkrijgen van een planningsvergunning, uitgaande van de inrichtende macht, moet aangetekend verstuurd worden naar de administratie. Ze moet gemotiveerd zijn en gestaafd door documenten die de aangehaalde motieven ondersteunen. De minister kan bepalen welke soort aanvragen gemotiveerd moeten worden als passend binnen een geldig regionaal of thematisch zorgstrategisch plan als vermeld in het besluit van de Vlaamse Regering van 26 april 2019 betreffende zorgstrategische planning.
+De aanvraag tot het verkrijgen van een planningsvergunning, uitgaande van de inrichtende macht, moet aangetekend verstuurd worden naar de administratie. Ze moet gemotiveerd zijn en gestaafd door documenten die de aangehaalde motieven ondersteunen. De minister kan bepalen welke soort aanvragen gemotiveerd moeten worden als passend binnen een geldig regionaal of thematisch zorgstrategisch plan als vermeld in het besluit van de Vlaamse Regering van 26 april 2019 betreffende zorgstrategische planning.<br>
+<br>
+Aan een aanvraag tot het verkrijgen van een planningsvergunning als vermeld in het eerste lid, voor opnamecapaciteit in psychiatrische verzorgingstehuizen van zorggebruikers ten aanzien van wie de internering bevolen is als vermeld in artikel 9 van de wet van 5 mei 2014 betreffende de internering, wordt een kopie gevoegd van de samenwerkingsovereenkomst met de Belgische Staat voor de uitbouw van een gedeelte van het zorgtraject voor geïnterneerden in de geestelijke gezondheidszorg.
 
 ### ART. 4.
 
