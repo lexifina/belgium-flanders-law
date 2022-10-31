@@ -2,16 +2,16 @@
   "codex_id": 1024539,
   "title": "Ministerieel besluit van 2014-05-12 tot bepaling van de meetprocedure en de meetstrategie van elektromagnetische golven in de omgeving van vast opgestelde zendantennes",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024539/VolledigDocument?datum=2014-09-18",
-  "source_sha256": "19c07f62cc165428e615c2dd9c2e0b306848eafd3973c8a85be8708eaabc6e47",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024539/VolledigDocument?datum=2022-10-31",
+  "source_sha256": "ad42a0c2c727942ce47582466e1a6f1f078cf603bb46964362fa149f16797316",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024539&param=informatie",
-  "as_of": "2014-09-18",
+  "as_of": "2022-10-31",
   "made": "2014-05-12",
   "gazette": "2014-09-08",
   "numac": 2014035757,
   "document_start": "2014-09-18",
   "document_end": "2022-10-30",
-  "in_force": "2014-09-18",
+  "in_force": "2022-10-31",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2014-09-18; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-10-31; future article versions excluded; article text as the API gives it"
 }
