@@ -117,7 +117,9 @@ In dit besluit wordt verstaan onder:<br>
 18° verhoogde tegemoetkoming: de verhoogde tegemoetkoming, vermeld in artikel 37, § 1 en § 19, van de wet gecoördineerd op 14 juli 1994;<br>
 19° raadgevend comité VSB: het raadgevend comité van het Agentschap voor Vlaamse Sociale Bescherming, vermeld in artikel 17 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
 20° raadgevend comité Zorg en Gezondheid: het raadgevend comité van het agentschap, vermeld in artikel 18 van het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+20° /1 verblijfsovereenkomst: een verblijfsovereenkomst als vermeld in artikel 74;<br>
 21° werkdag: een dag die geen zaterdag, zondag of wettelijke feestdag is;<br>
+21° /1 zorggebruiker die geïnterneerd is: een zorggebruiker ten aanzien van wie de internering bevolen is als vermeld in artikel 9 van de wet van 5 mei 2014 betreffende de internering;<br>
 22° zorginspectie: de Zorginspectie, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.
 
 ### ART 1/1.
@@ -961,7 +963,13 @@ De beslissing wordt ook meegedeeld aan de verzekeringsinstelling.<br>
 
 Deze titel bepaalt de normen waaraan moet worden voldaan om een erkenning als psychiatrisch verzorgingstehuis te bekomen en te behouden.<br>
 <br>
-De leidend ambtenaar verleent de erkenning per psychiatrisch verzorgingstehuis, en legt het maximaal aantal zorggebruikers vast dat het psychiatrisch verzorgingstehuis dagelijks gelijktijdig kan ondersteunen op basis van een verblijfsovereenkomst als vermeld in artikel 74. Dat aantal is de opnamecapaciteit van het psychiatrisch verzorgingstehuis.
+De leidend ambtenaar verleent de erkenning per psychiatrisch verzorgingstehuis, en legt het maximaal aantal zorggebruikers vast dat het psychiatrisch verzorgingstehuis dagelijks gelijktijdig kan ondersteunen op basis van een verblijfsovereenkomst als vermeld in artikel 74. Dat aantal is de opnamecapaciteit van het psychiatrisch verzorgingstehuis.<br>
+<br>
+Bij de erkenning van de opnamecapaciteit van psychiatrische verzorgingstehuizen wordt een onderscheid gemaakt tussen opnamecapaciteit van zorggebruikers met of zonder verstandelijke beperking.<br>
+<br>
+Er wordt een specifieke erkenning toegekend voor opnamecapaciteit van zorggebruikers die geïnterneerd zijn, en waarvoor een samenwerkingsovereenkomst is gesloten met de Belgische Staat voor de uitbouw van een gedeelte van het zorgtraject voor geïnterneerden in de geestelijke gezondheidszorg.<br>
+<br>
+Bij de erkenning van de opnamecapaciteit van psychiatrische verzorgingstehuizen kan ook een onderscheid gemaakt worden tussen definitieve en uitdovende opnamecapaciteit. Een uitdovende opnamecapaciteit verdwijnt bij het ontslag of overlijden van de zittende zorggebruiker.
 
 ## HOOFDSTUK 2. Algemene werkingsnormen
 
@@ -979,7 +987,9 @@ De herstelondersteunende zorg is gericht op de volgende domeinen:<br>
 2° lichamelijke en psychische gezondheid vanuit medisch en krachtgericht perspectief;<br>
 3° dagbesteding en vrijetijd;<br>
 4° sociale contacten;<br>
-5° zingeving.
+5° zingeving.<br>
+<br>
+De zorg voor de zorggebruikers die geïnterneerd zijn, omvat niet alleen herstelondersteunende zorg, maar is ook gericht op het verminderen van het delictrisico door de risicofactoren te beperken en beschermende en beveiligende factoren te bevorderen. Bij de zorg voor zorggebruikers die geïnterneerd zijn, is er eveneens aandacht voor eventuele slachtoffers en de omgeving.
 
 ## HOOFDSTUK 3. Zorgverleningsnormen
 
@@ -1023,6 +1033,8 @@ Bij de verblijfsovereenkomst wordt een kopie van het reglement, vermeld in artik
 <br>
 Wijzigingen aan het huishoudelijk reglement worden vooraf meegedeeld aan de zorggebruiker en kunnen op zijn vroegst toegepast worden dertig dagen nadat de zorggebruiker ervan op de hoogte is gebracht.<br>
 <br>
+§ 1/1. Voor zorggebruikers die geïnterneerd zijn, worden de belangrijkste verblijfsvoorwaarden, de duur, de begindatum, de voorwaarden voor de beëindiging en specifieke regelingen over tijdelijke afwezigheden vastgelegd conform de bepalingen van het individuele vonnis van de bevoegde kamer voor de bescherming van de maatschappij, vermeld in artikel 3, 6°, van de wet van 5 mei 2014 betreffende de internering.<br>
+<br>
 § 2. Met uitzondering van het aanvaarden van de herstelondersteunende zorg geleverd door de personeelsleden van het psychiatrisch verzorgingstehuis en de coördinerend en behandelend psychiater, vermeld in artikel 90, heeft de zorggebruiker recht op vrije keuze van de beroepsbeoefenaar, vermeld in artikel 2, 3°, van de wet van 22 augustus 2002 betreffende de rechten van de patiënt.<br>
 <br>
 § 3. Onder voorbehoud van paragraaf 4 of 5, kunnen de zorggebruiker of zijn wettelijke vertegenwoordiger de verblijfsovereenkomst, vermeld in paragraaf 1, beëindigen met inachtneming van een opzegtermijn van dertig dagen.<br>
@@ -1037,7 +1049,9 @@ De opzeggingstermijn begint op de eerste werkdag die volgt nadat de opzegging is
 <br>
 § 4. De eerste dertig dagen van het verblijf worden beschouwd als een proefperiode. Tijdens die periode geldt voor de zorggebruiker een verkorte opzeggingstermijn van zeven dagen en geldt voor het psychiatrisch verzorgingstehuis een verkorte opzeggingstermijn van dertig dagen. De opzeggingstermijn begint op de eerste werkdag die volgt nadat de opzegging is ontvangen door de zorggebruiker of het psychiatrisch verzorgingstehuis.<br>
 <br>
-§ 5. De zorggebruiker en het psychiatrische verzorgingstehuis kunnen in onderling schriftelijk akkoord afwijken van de termijnen, vermeld in dit artikel.
+§ 5. De zorggebruiker en het psychiatrische verzorgingstehuis kunnen in onderling schriftelijk akkoord afwijken van de termijnen, vermeld in dit artikel.<br>
+<br>
+§ 6. Voor de zorggebruikers die geïnterneerd zijn, worden de beëindiging van het verblijf door de zorggebruiker die geïnterneerd is en door het psychiatrisch verzorgingstehuis, en het gebruik van de proefperiode geregeld conform de bepalingen van het individuele vonnis van de bevoegde kamer voor de bescherming van de maatschappij, vermeld in artikel 3, 6°, van de wet van 5 mei 2014 betreffende de internering.
 
 ## Afdeling 3. Zorgplan
 
@@ -1047,7 +1061,9 @@ De zorg door het psychiatrisch verzorgingstehuis vertrekt van een zorgvuldige en
 <br>
 Op basis van de zorgbehoeften, vermeld in het eerste lid, werken de zorggebruiker en de begeleiders een zorgplan uit. Als dat mogelijk is en als de zorggebruiker dat wenst, worden ook personen uit de context betrokken bij de uitwerking van het zorgplan. Het zorgplan omvat een overzicht van de zorgbehoeften, de voorkeuren van de zorggebruiker, de doelstellingen die men door middel van de begeleiding wil bereiken, een prioritering van de doelstellingen en een plan van aanpak van de prioritaire doelstellingen in de vorm van acties en zorgactiviteiten.<br>
 <br>
-De uitgevoerde acties en het zorgplan, vermeld in het tweede lid, worden bij voorkeur continu geëvalueerd en waar nodig bijgestuurd. Minstens om de twaalf maanden wordt het volledig zorgplan geëvalueerd samen met de zorggebruiker en, als de zorggebruiker dat wenst, zijn context. Na elke evaluatie wordt een besluit genomen tot staving van de verdere zorg op de verschillende levensdomeinen en over de beëindiging of voortzetting van de zorg.
+De uitgevoerde acties en het zorgplan, vermeld in het tweede lid, worden bij voorkeur continu geëvalueerd en waar nodig bijgestuurd. Minstens om de twaalf maanden wordt het volledig zorgplan geëvalueerd samen met de zorggebruiker en, als de zorggebruiker dat wenst, zijn context. Na elke evaluatie wordt een besluit genomen tot staving van de verdere zorg op de verschillende levensdomeinen en over de beëindiging of voortzetting van de zorg.<br>
+<br>
+Voor de zorggebruikers die geïnterneerd zijn, worden eveneens de specifieke zorgopdrachten, vermeld in de samenwerkingsovereenkomst met de Belgische Staat voor de uitbouw van een gedeelte van het zorgtraject voor geïnterneerden in de geestelijke gezondheidszorg, uitgevoerd.
 
 ### ART 76.
 
@@ -1076,15 +1092,17 @@ Het psychiatrisch verzorgingstehuis communiceert zijn zorgaanbod en zijn intern 
 
 ### ART 80.
 
-Om re-integratie te bevorderen worden individuele verlofdagen toegekend aan de zorggebruikers die opgenomen zijn in een psychiatrisch verzorgingstehuis.<br>
+§ 1. Om re-integratie te bevorderen, worden individuele verlofdagen toegekend aan de zorggebruikers die opgenomen zijn in een psychiatrisch verzorgingstehuis.<br>
 <br>
-Een ononderbroken individueel verlof mag noch langer duren dan twee weken, noch worden opgenomen op het einde van het verblijf. Bij ontslag en heropname binnen negentig dagen wordt het aantal niet opgenomen verlofdagen overgedragen naar de nieuwe verblijfsperiode.<br>
+Een ononderbroken individueel verlof mag niet langer duren dan twee weken en mag ook niet opgenomen worden op het einde van het verblijf. Bij ontslag en heropname binnen negentig dagen na dit ontslag wordt het aantal niet- opgenomen verlofdagen overgedragen naar de nieuwe verblijfsperiode.<br>
 <br>
-De psychiatrische verzorgingstehuizen mogen voor hun opgenomen zorggebruikers gedurende maximaal veertien dagen collectieve vakantieverblijven organiseren en leiden. Tijdens die periode blijven de zorggebruikers onder de verantwoordelijkheid van het psychiatrisch verzorgingstehuis.<br>
+De psychiatrische verzorgingstehuizen kunnen voor hun opgenomen zorggebruikers gedurende maximaal veertien dagen collectieve vakantieverblijven organiseren en leiden. Tijdens die periode blijven de zorggebruikers onder de verantwoordelijkheid van het psychiatrisch verzorgingstehuis.<br>
 <br>
-Een zorggebruiker kan geen collectief verlof opnemen op het einde van zijn verblijf.<br>
+Zorggebruikers kunnen geen collectief verlof opnemen op het einde van hun verblijf.<br>
 <br>
-Het psychiatrisch verzorgingstehuis staat ook tijdens individuele verlofdagen en collectieve vakantieverblijven in voor de continuïteit van de levering van de farmaceutische producten aan de zorggebruikers.
+Het psychiatrisch verzorgingstehuis staat ook tijdens individuele verlofdagen en collectieve vakantieverblijven in voor de continuïteit van de levering van de farmaceutische producten aan de zorggebruikers.<br>
+<br>
+§ 2. Voor zorggebruikers die geïnterneerd zijn, valt de toekenning van individuele verlofdagen en het deelnemen aan collectieve vakantieverblijven naast de bepalingen uit § 1 ook onder de bepalingen uit het individuele vonnis van de bevoegde kamer voor de bescherming van de maatschappij, vermeld in artikel 3, 6°, van de wet van 5 mei 2014 betreffende de internering.
 
 ## Afdeling 4. Zakgeld
 
@@ -1186,7 +1204,9 @@ Het psychiatrisch verzorgingstehuis verstrekt aan het agentschap op verzoek en o
 - de datum van de aanwerving;<br>
 - de eventuele vertrekdatum;<br>
 <br>
-Het psychiatrisch verzorgingstehuis bewaart de in het vorige lid vermelde personeelsgegevens tot één jaar na het vertrek van het personeelslid.
+Het psychiatrisch verzorgingstehuis bewaart de in het vorige lid vermelde personeelsgegevens tot één jaar na het vertrek van het personeelslid.<br>
+<br>
+Voor zorggebruikers die geïnterneerd zijn, wordt in een bijkomende personeelscapaciteit voorzien voor de uitbouw van een gedeelte van het zorgtraject voor geïnterneerden in de geestelijke gezondheidszorg. Die bijkomende personeelscapaciteit en de financiering ervan wordt geregeld in een samenwerkingsovereenkomst met de Belgische Staat.
 
 ### ART 90.
 
@@ -1220,7 +1240,9 @@ Op geregelde tijdstippen vindt een teamoverleg plaats waarin alle disciplines zi
 
 ### ART 92.
 
-Het psychiatrisch verzorgingstehuis wordt binnen de lokale leefgemeenschap gevestigd, buiten de campus van een psychiatrisch ziekenhuis.
+Het psychiatrisch verzorgingstehuis wordt binnen de lokale leefgemeenschap gevestigd, buiten de campus van een psychiatrisch ziekenhuis.<br>
+<br>
+In afwijking van het eerste lid kan het psychiatrisch verzorgingstehuis voor de huisvesting van zorggebruikers die geïnterneerd zijn, wel op de campus van een psychiatrisch ziekenhuis liggen.
 
 ### ART 93.
 
@@ -1362,7 +1384,11 @@ Het psychiatrisch verzorgingstehuis wijst een persoon aan die belast is met de v
 
 ### ART 109.
 
-De programmatie van de psychiatrische verzorgingstehuizen gelegen in het Nederlands taalgebied is 0,6 zorggebruikers per duizend inwoners. De programmatie van de psychiatrische verzorgingstehuizen gelegen in het tweetalig gebied Brussel-Hoofdstad is 0,2 zorggebruikers per duizend inwoners.
+De programmatie van de psychiatrische verzorgingstehuizen die in het Nederlandse taalgebied liggen, wordt bepaald op de volgende wijze:<br>
+1° 0,6 zorggebruikers met of zonder verstandelijke beperking per duizend inwoners;<br>
+2° 180 zorggebruikers die geïnterneerd zijn, met of zonder verstandelijke beperking, in psychiatrische verzorgingstehuizen die een bijzondere erkenning bezitten voor zorggebruikers die geïnterneerd zijn als vermeld in artikel 69, vierde lid.<br>
+<br>
+De programmatie van de psychiatrische verzorgingstehuizen die in het tweetalige gebied Brussel-Hoofdstad liggen, is 0,2 zorggebruikers met of zonder verstandelijke beperking per duizend inwoners.
 
 ## Titel 3. [... (opgeh. BVR 10 februari 2023, art. 16, I: 1 april 2023)]
 
@@ -5299,7 +5325,7 @@ De besluiten van het College van artsen-directeurs betreffende de revalidatieove
 
 ### ART 378.
 
-Bij de erkenning van de opnamecapaciteit van psychiatrische verzorgingstehuizen als vermeld in artikel 112 van het decreet van 6 juli 2018 kan een onderscheid gemaakt worden tussen definitieve en uitdovende opnamecapaciteit, als de op 31 december 2018 lopende erkenning een onderscheid maakt tussen definitieve en uitdovende bedden. Een uitdovende opnamecapaciteit verdwijnt bij het ontslag of overlijden van de zittende zorggebruiker.
+...
 
 ## HOOFDSTUK 3. Inwerkingtredingsbepaling
 
