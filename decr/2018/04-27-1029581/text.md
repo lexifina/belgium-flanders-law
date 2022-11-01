@@ -355,6 +355,12 @@ Als het rechtgevende kind materiële ondersteuning krijgt als vermeld in artikel
 <br>
 De Vlaamse Regering bepaalt met welke inkomsten van welke personen rekening wordt gehouden om de gezinsinkomsten, vermeld in het eerste lid, vast te stellen. Ze bepaalt de periode waarin de sociale toeslag wordt toegekend, en ze kan de gezinsgrootte nader bepalen. De Vlaamse Regering stelt ook een alarmbelprocedure vast voor de onmiddellijke aanpassing van het recht op sociale toeslag.
 
+### ART 18/1.
+
+Voor elk kind dat in november 2022 recht geeft op een maandelijkse sociale toeslag als vermeld in artikel 18, wordt het bedrag, vermeld in artikel 18, tweede lid, voor de maand november 2022 eenmalig verhoogd met 100 euro.<br>
+<br>
+Het bedrag van 100 euro, vermeld in het eerste lid, wordt in afwijking van artikel 4 niet geïndexeerd.
+
 ## Titel 6. Universele participatietoeslagen
 
 ## HOOFDSTUK 1. Universele participatietoeslagen voor nul- tot en met vierjarigen
@@ -1077,7 +1083,7 @@ De student kan voorafgaand aan de uitbetaling in zijn eigen belang het Vlaams Mi
 
 ### ART 75.
 
-Het basisbedrag, vermeld in artikel 13, de zorgtoeslagen, vermeld in titel 4 van boek 2, deel 1, de sociale toeslagen, vermeld in artikel 18, en de kinderopvangtoeslag, vermeld in artikel 52, worden uitbetaald in de maand die volgt op de maand waarin het kind recht geeft op de toeslag. De Vlaamse Regering bepaalt het exacte tijdstip.<br>
+Het basisbedrag, vermeld in artikel 13, de zorgtoeslagen, vermeld in titel 4 van boek 2, deel 1, de sociale toeslagen, vermeld in artikel 18, en de kinderopvangtoeslag, vermeld in artikel 52, worden uitbetaald in de maand die volgt op de maand waarin het kind recht geeft op de toeslag.&nbsp;Het bedrag, vermeld in artikel 18/1, eerste lid, wordt uitbetaald in november 2022. De Vlaamse Regering bepaalt het exacte tijdstip.<br>
 <br>
 Een gewijzigd bedrag van de toelagen, vermeld in het eerste lid, ten gevolge van een indexering of ten gevolge van een wijziging bij of krachtens een decreet, wordt uitbetaald in de maand die volgt op de maand waarin de indexering plaatsvindt of de wijziging in werking treedt.<br>
 <br>
@@ -2375,6 +2381,12 @@ De Vlaamse Regering kan de nadere uitvoeringsbepalingen voor deze paragraaf vast
 De Vlaamse Regering kan nadere uitvoeringsbepalingen voor deze paragraaf vaststellen.<br>
 <br>
 § 4. Voor de toepassing van dit artikel wordt het alleenwonende rechtgevende kind als een gezin aangezien.
+
+### ART 222/1.
+
+Voor elk kind dat in november 2022 recht geeft op een maandelijkse sociale toeslag als vermeld in artikel 222, wordt het bedrag, vermeld in artikel 222, voor de maand november 2022 eenmalig verhoogd met 100 euro.<br>
+<br>
+Het bedrag van 100 euro, vermeld in het eerste lid, wordt in afwijking van artikel 4 niet geïndexeerd.
 
 ### ART 223.
 
