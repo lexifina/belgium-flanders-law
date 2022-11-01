@@ -33,7 +33,8 @@ In dit besluit wordt verstaan onder:<br>
 7° jongdementie: dementie die vastgesteld is aan de hand van een diagnostisch bilan, voor de leeftijd van 65 jaar;<br>
 8° minister: de Vlaamse minister, bevoegd voor de gezondheids- en woonzorg;<br>
 9° planningsvergunning: de beslissing waaruit blijkt dat de aangevraagde capaciteit of de aangevraagde wijziging in capaciteit of bestemming van een voorziening past in de programmatie of de behoefteraming voor de specifieke soort van voorziening;<br>
-10° voorziening: een lokaal dienstencentrum, een centrum voor dagopvang van een dienst voor gezinszorg, een centrum voor dagverzorging, een centrum voor kortverblijf, een centrum voor herstelverblijf of een woonzorgcentrum.
+10° voorziening: een lokaal dienstencentrum, een centrum voor dagopvang van een dienst voor gezinszorg, een centrum voor dagverzorging, een centrum voor kortverblijf, een centrum voor herstelverblijf of een woonzorgcentrum.<br>
+11° zorgraad: een zorgraad als vermeld in artikel 9 van het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders.
 
 ## HOOFDSTUK 2. Voorafgaande vergunning
 
@@ -46,9 +47,13 @@ Een aanvraag van een voorafgaande vergunning als bedoeld in artikel 52 van het w
 2° een bestaand gebouw of een deel ervan als een voorziening wil inrichten of in gebruik nemen;<br>
 3° de capaciteit van een voorziening wil verhogen.
 
+### ART 2/1.
+
+Een aanvraag van een voorafgaande vergunning wordt aangetekend of op digitale wijze aan het agentschap bezorgd door de initiatiefnemer die zijn activiteiten wil verplaatsen door de erkende of geplande capaciteit van een woonzorgcentrum in een bepaalde gemeente volledig of gedeeltelijk te verplaatsen naar een erkend of gepland woonzorgcentrum in een andere gemeente, of door de erkende of geplande capaciteit van een centrum voor kortverblijf type 1 in een bepaalde gemeente volledig of gedeeltelijk te verplaatsen naar een erkend of gepland centrum voor kortverblijf type 1 in een andere gemeente.
+
 ### ART 3.
 
-Een aanvraag van een voorafgaande vergunning is ontvankelijk als ze wordt ingediend met een formulier dat het agentschap ter beschikking stelt en als ze al de volgende documenten en gegevens bevat:<br>
+Een aanvraag van een voorafgaande vergunning als vermeld in artikel 2, is ontvankelijk&nbsp;als ze wordt ingediend met een formulier dat het agentschap ter beschikking stelt en als ze al de volgende documenten en gegevens bevat:<br>
 1° de volledige identiteit van de initiatiefnemer;<br>
 2° de statuten van de initiatiefnemer en de eventuele wijzigingen ervan, tenzij de initiatiefnemer een openbaar bestuur is;<br>
 3° de rechtsgeldige beslissingen om de voorziening uit te baten of de capaciteit ervan te wijzigen en om de voorafgaande vergunning aan te vragen;<br>
@@ -69,6 +74,27 @@ In het eerste lid, 10°, wordt verstaan onder Agentschap Toegankelijk Vlaanderen
 <br>
 De minister kan de regels over de ontvankelijkheid van de documenten en gegevens, vermeld in het eerste lid, preciseren.
 
+### ART 3/1.
+
+§1. In dit artikel wordt verstaan onder eerstelijnszone: de eerstelijnszone die de Vlaamse Regering bepaalt conform artikel 13 van het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders.<br>
+<br>
+§2. Een aanvraag van een voorafgaande vergunning als vermeld in artikel 2/1, is ontvankelijk als ze wordt ingediend met een formulier dat het agentschap ter beschikking stelt, en als ze al de volgende documenten en gegevens bevat:<br>
+1°&nbsp;&nbsp; &nbsp;de volledige identiteit van de initiatiefnemer;<br>
+2°&nbsp;&nbsp; &nbsp;de statuten van de initiatiefnemer en de eventuele wijzigingen ervan, tenzij de initiatiefnemer een openbaar bestuur is;<br>
+3°&nbsp;&nbsp; &nbsp;de rechtsgeldige beslissing om de erkende of geplande capaciteit van een woonzorgcentrum in een bepaalde gemeente volledig of gedeeltelijk te verplaatsen naar een erkend of gepland woonzorgcentrum in een andere gemeente, of om de erkende of geplande capaciteit van een centrum voor kortverblijf type 1 in een bepaalde gemeente volledig of gedeeltelijk te verplaatsen naar een erkend of gepland centrum voor kortverblijf type 1 in een andere gemeente, om daarbij de capaciteit van de betrokken woonzorgcentra of de betrokken centra voor kortverblijf type 1 te wijzigen, en om de voorafgaande vergunning aan te vragen;<br>
+4°&nbsp;&nbsp; &nbsp;een plan van de gemeenten waarin de betrokken voorzieningen liggen en waarop de inplantingsplaatsen zijn aangeduid;<br>
+5°&nbsp;&nbsp; &nbsp;het aantal woongelegenheden of verblijfseenheden dat verplaatst wordt, en de identiteit van de woonzorgcentra of centra voor kortverblijf type 1 die daarbij betrokken zijn;<br>
+6°&nbsp;&nbsp; &nbsp;een toelichting waarin de impact geduid wordt van de geplande verplaatsing op de werking van het bestaande en geplande aanbod en de beschikbaarheid van een evenwichtig en gevarieerd aanbod aan woonzorgvoorzieningen in de gemeenten in kwestie, en de wijze waarop de geplande verplaatsing inspeelt op de behoeften van de betrokken gemeenten en eerstelijnszone of eerstelijnszones, waarbij wordt aangesloten op lokale beleidsintenties;<br>
+7°&nbsp;&nbsp; &nbsp;een kopie van de kennisgeving van de toelichting, vermeld in punt 6°, aan de betrokken gemeenten, aan de zorgraad van de betrokken eerstelijnszone of, in voorkomend geval, aan de zorgraden van de betrokken eerstelijnszones, en ook het bewijs van verzending van die kennisgeving.<br>
+<br>
+§3. De voorafgaande vergunning, vermeld in artikel 2/1, kan alleen verleend worden als al de volgende voorwaarden zijn vervuld:<br>
+1°&nbsp;&nbsp; &nbsp;de betrokken woonzorgcentra of centra voor kortverblijf type 1 worden uitgebaat door dezelfde rechtspersoon;<br>
+2°&nbsp;&nbsp; &nbsp;het verplaatsen is alleen mogelijk tussen gemeenten die in dezelfde eerstelijnszone liggen of tussen verschillende gemeenten die in twee &nbsp;aangrenzende eerstelijnszones liggen;<br>
+3°&nbsp;&nbsp; &nbsp;in het jaar waarin de voorafgaande vergunning wordt aangevraagd, blijft de invulling van het programmacijfer voor de woonzorgcentra of de centra voor kortverblijf type 1 in de gemeente waar het aantal erkende of geplande woongelegenheden of verblijfseenheden verminderd wordt, behouden op 90%;<br>
+4°&nbsp;&nbsp; &nbsp;in het jaar waarin de voorafgaande vergunning wordt aangevraagd, mag na de verplaatsing de invulling van het programmacijfer voor de woonzorgcentra of de centra voor kortverblijf type 1 in de gemeente waar het aantal erkende of geplande woongelegenheden of verblijfseenheden verhoogd wordt, niet meer dan 100% bedragen.<br>
+<br>
+In afwijking van het eerste lid, 3°, wordt tot en met 31 december 2025 de toetsing, vermeld in het eerste lid,3°, gedaan aan het programmacijfer voor de woonzorgcentra of de centra voor kortverblijf type 1, bepaald voor het jaar 2015.
+
 ### ART 4.
 
 Het agentschap onderzoekt de ontvankelijkheid van de aanvraag van een voorafgaande vergunning.<br>
@@ -83,8 +109,6 @@ Als er verschillende ontvankelijke aanvragen ingediend worden die betrekking heb
 <br>
 Als er voor de lokale dienstencentra, de centra voor kortverblijf type 2, de centra voor dagverzorging, de centra voor herstelverblijf en de centra voor dagopvang op dezelfde datum of hetzelfde tijdstip verschillende ontvankelijke aanvragen ingediend worden die betrekking hebben op dezelfde programmatie in dezelfde gemeente of, in geval van centra voor kortverblijf type 2, in dezelfde provincie, die zowel formeel als inhoudelijk als gelijkwaardig worden beoordeeld en waarbij alle aanvragen samen de beschikbare ruimte binnen het programmacijfer overschrijden, worden de aanvragen behandeld in de volgorde die de zorgraad in afstemming met de gemeente in kwestie, of de zorgraden in afstemming met de gemeenten van de provincie in kwestie, vastlegt of vastleggen op basis van de objectief vastgestelde lokale noden. De minister kan de regels over de wijze waarop de zorgraad in afstemming met de gemeente de volgorde van de aanvragen moet vastleggen en de criteria die hierbij moeten worden gehanteerd, preciseren. Deze criteria hebben minstens betrekking op de bepaling van de objectief vastgestelde lokalen noden.<br>
 <br>
-In het derde lid wordt verstaan onder zorgraad: een zorgraad als vermeld in artikel 9 van het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders.<br>
-<br>
 Als er voor de woonzorgcentra en de centra voor kortverblijf type 1 op dezelfde datum of hetzelfde tijdstip verschillende ontvankelijke aanvragen ingediend worden die betrekking hebben op dezelfde programmatie in dezelfde gemeente, die zowel formeel als inhoudelijk als gelijkwaardig worden beoordeeld, en waarbij het totale aantal aangevraagde entiteiten van alle aanvragen samen de beschikbare ruimte binnen het programmacijfer overschrijdt, krijgt elke initiatiefnemer binnen de beschikbare ruimte een aantal entiteiten toegekend dat proportioneel in verhouding staat tot het gevraagde aantal. Het totale aantal toegekende entiteiten mag het maximale beschikbare aantal entiteiten binnen het programmacijfer niet overschrijden. Resterende entiteiten die bij de verdeling niet toegekend zijn, komen opnieuw in de programmatie en kunnen opnieuw opgevraagd worden vanaf 1 januari van het jaar na het jaar waarin de voorafgaande vergunningen, die conform dit lid verleend zijn, in het Belgisch Staatsblad zijn verschenen.<br>
 <br>
 § 2. De administrateur-generaal verleent de voorafgaande vergunning. De beslissing wordt aan de initiatiefnemer bezorgd en bekendgemaakt in het Belgisch Staatsblad.<br>
@@ -97,7 +121,9 @@ De voorafgaande vergunning vermeldt al de volgende gegevens:<br>
 5° de ingangsdatum van de voorafgaande vergunning;<br>
 6° het aantal entiteiten van de voorziening, als dat van toepassing is.<br>
 <br>
-§ 3. Als de administrateur-generaal het voornemen heeft de voorafgaande vergunning te weigeren, wordt de initiatiefnemer op de hoogte gebracht van dat voornemen met een aangetekende brief tegen ontvangstbewijs. Die brief vermeldt ook de mogelijkheid en de voorwaarden om tegen het voornemen een bezwaarschrift in te dienen als vermeld in artikel 6.
+§ 3. Als de administrateur-generaal het voornemen heeft de voorafgaande vergunning te weigeren, wordt de initiatiefnemer op de hoogte gebracht van dat voornemen met een aangetekende brief tegen ontvangstbewijs. Die brief vermeldt ook de mogelijkheid en de voorwaarden om tegen het voornemen een bezwaarschrift in te dienen als vermeld in artikel 6.<br>
+<br>
+§4. Woonzorgcentra of centra voor kortverblijf type 1 die hun activiteiten hebben verplaatst conform artikel 2/1 en 3/1, komen gedurende twee jaar nadat de voorafgaande vergunning, vermeld in §2, is verleend, niet in aanmerking voor de toekenning van een voorafgaande vergunning die een verdere invulling van het programmacijfer als voorwerp heeft.
 
 ## Afdeling 2. Bepaling van de elementen van de globale zorgstrategische visie
 
@@ -156,7 +182,7 @@ De voorziening of de entiteiten van de voorziening die daarin opgenomen zijn, ko
 
 De voorafgaande vergunning vervalt als de initiatiefnemer afwijkt van de elementen, vermeld in de voorafgaande vergunning van de vergunde voorziening of de vergunde entiteiten van de voorziening, vermeld in artikel 5, § 2, tweede lid, tenzij de initiatiefnemer daarvoor de uitdrukkelijke instemming van de administrateur-generaal heeft gekregen.<br>
 <br>
-De administrateur-generaal kan pas instemmen met een wijziging van de voorafgaande vergunning als de initiatiefnemer bij het agentschap een gemotiveerd verzoek heeft ingediend dat vergezeld is van de relevante documenten en gegevens, vermeld in artikel 3, eerste lid. In voorkomend geval wordt de voorafgaande vergunning aangepast. De initiatiefnemer wordt van die beslissing op de hoogte gebracht en deze beslissing wordt bekendgemaakt in het Belgisch Staatsblad.<br>
+De administrateur-generaal kan pas instemmen met een wijziging van de voorafgaande vergunning als de initiatiefnemer bij het agentschap een gemotiveerd verzoek heeft ingediend dat vergezeld is van de relevante documenten en gegevens, vermeld in artikel 3, eerste lid, of artikel 3/1, §2. In voorkomend geval wordt de voorafgaande vergunning aangepast. De initiatiefnemer wordt van die beslissing op de hoogte gebracht en deze beslissing wordt bekendgemaakt in het Belgisch Staatsblad.<br>
 <br>
 De minister kan de regels over de relevante documenten en gegevens, vermeld in het tweede lid, preciseren.<br>
 <br>
