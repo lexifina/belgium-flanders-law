@@ -2,16 +2,16 @@
   "codex_id": 1037444,
   "title": "Besluit van de Vlaamse Regering van 2022-09-09 tot goedkeuring van de programmaties van niet-duaal structuuronderdelen in opleidingsvorm 4 van het buitengewoon secundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037444/VolledigDocument?datum=2022-10-15",
-  "source_sha256": "f9d9cbbcd6f0810a06ee07055a9de2485ea03bc030f1b6301e2cc83378fbf6c0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037444/VolledigDocument?datum=2022-11-01",
+  "source_sha256": "70207ada8cedd136c2ab38c3e2320809ca8bb226e25fe95f2cf1acd614a801c4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037444&param=informatie",
-  "as_of": "2022-10-15",
+  "as_of": "2022-11-01",
   "made": "2022-09-09",
   "gazette": "2022-10-05",
   "numac": 2022033525,
   "document_start": "2022-10-15",
   "document_end": null,
-  "in_force": "2022-10-15",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2022-10-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-11-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-11-01; future article versions excluded; article text as the API gives it"
 }

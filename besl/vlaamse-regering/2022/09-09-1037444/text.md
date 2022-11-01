@@ -18,6 +18,28 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+Aan de volgende onderwijsinstelling wordt, met toepassing van artikel 289, § 7, van de Codex Secundair Onderwijs van 17 december 2010, voor het schooljaar 2022-2023 toestemming verleend om de volgende programmatie te doen:<br>
+1° Buitengewoon Secundair Onderwijs Sint-Gerardus<br>
+Sint-Gerardusdreef Sint-Gerardus 1<br>
+3590 Diepenbeek<br>
+3e graad Kantoor bso<br>
+studiegebied/domein: handel<br>
+finaliteit: arbeidsmarktgericht<br>
+3e graad Economie-wiskunde aso<br>
+studiegebied/domein: algemeen secundair onderwijs<br>
+finaliteit: doorstroom<br>
+3e graad Handel tso<br>
+studiegebied/domein: handel<br>
+finaliteit: dubbel<br>
+3e graad Humane wetenschappen aso<br>
+studiegebied/domein: algemeen secundair onderwijs<br>
+finaliteit: doorstroom<br>
+3e graad Verkoop bso<br>
+studiegebied/domein: handel<br>
+finaliteit: arbeidsmarktgericht.
+
 ### ART 2.
 
 Artikel 1 van dit besluit treedt in werking op 1 november 2022.
