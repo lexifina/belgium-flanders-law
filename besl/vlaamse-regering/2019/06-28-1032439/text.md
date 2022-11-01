@@ -4986,7 +4986,11 @@ Op basis van een periodieke analyse van de klachten formuleert het centrum type 
 
 ### ART 33.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De centra die op 31 december 2019 aangemeld zijn kunnen, wanneer zij zich bevinden in een zelfde gemeente of aangrenzende gemeenten, samengevoegd worden tot een centrum voor herstelverblijf van minstens 30 verblijfseenheden en dit op een locatie. Dit centrum kan erkend worden ten laatste op 31 december 2025.</span></span></p>
+<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De centra die op 31 december 2019 aangemeld zijn kunnen, wanneer zij zich bevinden in dezelfde gemeente, verschillende gemeenten in dezelfde eerstelijnszone of verschillende gemeenten die in twee aangrenzende eerstelijnszones liggen en uitgebaat worden door dezelfde rechtspersoon, samengevoegd worden tot een centrum voor herstelverblijf van minstens 30 verblijfseenheden en dit op een locatie. Dit centrum kan erkend worden ten laatste op 31 december 2025.<br>
+<br>
+In het eerste lid wordt verstaan onder eerstelijnszone: de eerstelijnszone die de Vlaamse Regering bepaalt conform artikel 13 van het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders.<br>
+<br>
+Het centrum voor herstelverblijf, vermeld in het eerste lid, past van rechtswege in de programmatie.</span></span></p>
 
 ### ART 34.
 
