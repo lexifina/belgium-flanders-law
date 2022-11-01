@@ -149,11 +149,13 @@ Overeenkomstig artikel 69, § 3, van het Groeipakketdecreet van 2018 kunnen de l
 <br>
 Met behoud van de toepassing van het eerste lid wordt elke betaling in de loop van de maand die volgt op de maand waarop het recht op die toeslagen betrekking heeft, beschouwd als een tijdige betaling.<br>
 <br>
+Het bedrag, vermeld in artikel 18/1, eerste lid, van het Groeipakketdecreet van 2018, wordt uiterlijk op 30 november 2022 uitbetaald.<br>
+<br>
 § 2. De kinderopvangtoeslag en de kleutertoeslag worden uitbetaald op de datum, vermeld in artikel 7, respectievelijk artikel 8 en 9 van het besluit van de Vlaamse Regering houdende de kinderopvangtoeslag en kleutertoeslag van (...).
 
 ### ART 12.
 
-Met behoud van de toepassing van artikel 87 en 88 van het Groeipakketdecreet van 2018, worden de toelagen vermeld in artikel 11, § 1, eerste lid, waarvan het recht op de betaaldata, vermeld in artikel 11 van dit besluit, nog in onderzoek is, zodra het recht is vastgesteld, betaald op tussentijdse betaaldata.<br>
+Met behoud van de toepassing van artikel 87 en 88 van het Groeipakketdecreet van 2018, worden de toelagen vermeld in artikel 11, § 1, eerste en derde lid, waarvan het recht op de betaaldata, vermeld in artikel 11 van dit besluit, nog in onderzoek is, zodra het recht is vastgesteld, betaald op tussentijdse betaaldata.<br>
 <br>
 De minister stelt de betaalkalender met tussentijdse betaaldata op.
 
