@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037517,
+  "title": "Decreet van 2022-10-21 tot wijziging van artikel 5 en 6 van het decreet van 20 mei 2022 tot regeling van de toekenning van een jobbonus",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037517/VolledigDocument?datum=2022-11-01",
+  "source_sha256": "ffdf7a8a7b8556a904726caa412441d9336f883e6e7b31bbb0eb33f9c39dd2c1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037517&param=informatie",
+  "as_of": "2022-11-01",
+  "made": "2022-10-21",
+  "gazette": "2022-10-31",
+  "numac": 2022033987,
+  "document_start": "2022-11-01",
+  "document_end": null,
+  "in_force": "2022-11-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
