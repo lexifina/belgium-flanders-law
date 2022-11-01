@@ -52,11 +52,13 @@ De Vlaamse Regering bepaalt de jobbonus voor de begunstigden, vermeld in het eer
 <br>
 § 4. In de volgende gevallen is de jobbonus niet opeisbaar:<br>
 1° als de jobbonus bij voltijdse prestaties op jaarbasis minder dan 20 euro bedraagt;<br>
-2° als de jobbonus bij deeltijdse prestaties op jaarbasis minder dan 10 euro bedraagt.
+2° als de jobbonus bij deeltijdse prestaties op jaarbasis minder dan 10 euro bedraagt.<br>
+<br>
+§5. Voor het refertejaar 2021 wordt de jobbonus, vermeld in paragraaf 1 tot en met 4, eenmalig verhoogd met een vast, onveranderlijk bedrag van 100 euro voor de begunstigden voor wie de jobbonus opeisbaar is en die niet tot de categorieën, vermeld in paragraaf 4, behoren.
 
 ### ART 6.
 
-De Vlaamse Regering kan de premiebedragen en de loon- en inkomensgrenzen, vermeld in artikel 5, § 1, aanpassen in functie van de evolutie van de lonen en de koopkracht.<br>
+De Vlaamse Regering kan de premiebedragen en de loon- en inkomensgrenzen, vermeld in artikel 5, § 1 en §4, aanpassen in functie van de evolutie van de lonen en de koopkracht.<br>
 <br>
 De Vlaamse Regering bepaalt de voorwaarden voor de aanpassing, vermeld in het eerste lid.
 
