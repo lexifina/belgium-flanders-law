@@ -2,16 +2,16 @@
   "codex_id": 1037190,
   "title": "Decreet van 2022-05-20 tot wijziging van het decreet van 10 juni 2016 houdende de erkenning en subsidiëring van de georganiseerde sportsector",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037190/VolledigDocument?datum=2022-09-01",
-  "source_sha256": "cb699eed2a259dbbd558e4010ce61b953aa173f06edc18510e79102d4a98a358",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037190/VolledigDocument?datum=2022-11-01",
+  "source_sha256": "266ba81ccc0925283073e1a7509fc39709c5331411f95b0eeb4fb709f734635c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037190&param=informatie",
-  "as_of": "2022-09-01",
+  "as_of": "2022-11-01",
   "made": "2022-05-20",
   "gazette": "2022-06-29",
   "numac": 2022032476,
   "document_start": "2022-11-01",
   "document_end": null,
-  "in_force": "2022-09-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2022-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-11-01",
+  "article_versions": 59,
+  "record_form": "consolidated version as in force on 2022-11-01; future article versions excluded; article text as the API gives it"
 }
