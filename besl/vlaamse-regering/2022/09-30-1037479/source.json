@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037479,
+  "title": "Besluit van de Vlaamse Regering van 2022-09-30 tot wijziging van artikel 33 van bijlage 9 bij het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers en tot wijziging van het besluit van de Vlaamse Regering van 18 december 2020 tot vastlegging van de procedure voor het verlenen van voorafgaande vergunningen en planningsvergunningen voor lokale dienstencentra, centra voor dagopvang van een dienst voor gezinszorg, centra voor dagverzorging, centra voor kortverblijf, centra voor herstelverblijf of woonzorg-centra, en tot bepaling van de elementen van de globale zorgstrategische visie voor deze voorafgaande vergunningen, wat betreft het verplaatsen van de activiteiten van een woonzorgcentrum en een centrum voor kortverblijf type 1",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037479/VolledigDocument?datum=2022-11-01",
+  "source_sha256": "ad6c0d74fb04350fd3368d931e9e90db6813463b57d412d04962a81c8a8a4814",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037479&param=informatie",
+  "as_of": "2022-11-01",
+  "made": "2022-09-30",
+  "gazette": "2022-10-25",
+  "numac": 2022033871,
+  "document_start": "2022-11-01",
+  "document_end": null,
+  "in_force": "2022-11-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2022-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
