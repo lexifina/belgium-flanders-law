@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037520,
+  "title": "Besluit van de Vlaamse Regering van 2022-07-08 tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2022 in het kader van de subsidie voor Stichting EnergyVille",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037520/VolledigDocument?datum=2022-11-03",
+  "source_sha256": "8fe62730fb37a4dbd07a95047ef8f21b28e2022240771532bb195b7cab7a1b0d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037520&param=informatie",
+  "as_of": "2022-11-03",
+  "made": "2022-07-08",
+  "gazette": "2022-10-24",
+  "numac": 2022015622,
+  "document_start": "2022-11-03",
+  "document_end": null,
+  "in_force": "2022-11-03",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-11-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
