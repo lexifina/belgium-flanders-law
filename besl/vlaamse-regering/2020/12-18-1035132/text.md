@@ -191,9 +191,7 @@ Aan artikel 3, § 1, van het besluit van de Vlaamse Regering van 31 maart 2006 b
 
 De volgende regelgevende teksten treden in werking op de tiende dag die volgt op de bekendmaking van dit besluit in het Belgisch Staatsblad :<br>
 1° het decreet van 13 juli 2018;<br>
-2° dit besluit.<br>
-<br>
-Dit besluit treedt buiten werking op het ogenblik dat de commissie ophoudt te bestaan en uiterlijk op 31 december 2022.
+2° dit besluit.
 
 ### ART 19.
 

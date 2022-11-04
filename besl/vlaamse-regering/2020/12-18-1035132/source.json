@@ -2,16 +2,16 @@
   "codex_id": 1035132,
   "title": "Besluit van de Vlaamse Regering van 2020-12-18 tot uitvoering van het decreet van 13 juli 2018 houdende de erkennings- en bemiddelingscommissie voor slachtoffers van historisch misbruik",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035132/VolledigDocument?datum=2022-01-01",
-  "source_sha256": "0f60d59b86d9b242198bf129a8047a01eb6e64bf067476e73508814ef6e78674",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035132/VolledigDocument?datum=2022-11-04",
+  "source_sha256": "57ec18f5d9acd6d3ffc2659404211568a2d9e5af45e9909d1bd4407ebd87df59",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035132&param=informatie",
-  "as_of": "2022-01-01",
+  "as_of": "2022-11-04",
   "made": "2020-12-18",
   "gazette": "2021-01-28",
   "numac": 2021030149,
   "document_start": "2021-02-07",
   "document_end": null,
-  "in_force": "2022-01-01",
+  "in_force": "2022-11-04",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-11-04; future article versions excluded; article text as the API gives it"
 }
