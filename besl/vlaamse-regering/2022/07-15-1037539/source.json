@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037539,
+  "title": "Besluit van de Vlaamse Regering van 2022-07-15 tot niet-verlening van een opsporingsvergunning voor aardwarmte in de regio Merksplas aan Koekhoven",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037539/VolledigDocument?datum=2022-11-05",
+  "source_sha256": "f1068ead94e8257d4bdd754528dfda9ff126264234b86b7023c3a0232f182a46",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037539&param=informatie",
+  "as_of": "2022-11-05",
+  "made": "2022-07-15",
+  "gazette": "2022-10-26",
+  "numac": 2022041850,
+  "document_start": "2022-11-05",
+  "document_end": null,
+  "in_force": "2022-11-05",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2022-11-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
