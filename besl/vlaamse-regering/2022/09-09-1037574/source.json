@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037574,
+  "title": "Besluit van de Vlaamse Regering van 2022-09-09 tot wijziging van het besluit van de Vlaamse Regering van 9 december 2016 houdende de uitvoering van het decreet van 4 april 2014 houdende de uitwisseling van informatie over een inname van het openbaar domein in het Vlaamse Gewest en van het decreet van 10 november 2017 inzake maatregelen ter verlaging van de kosten voor de aanleg van elektronische communicatienetwerken met hoge snelheid en tot wijziging van diverse decreten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037574/VolledigDocument?datum=2022-11-13",
+  "source_sha256": "81d7a50715918ee300d75111868d3bdcf8b97b2f0eb5a7d7588ae0a96a7b5d8e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037574&param=informatie",
+  "as_of": "2022-11-13",
+  "made": "2022-09-09",
+  "gazette": "2022-11-03",
+  "numac": 2022033698,
+  "document_start": "2022-11-13",
+  "document_end": null,
+  "in_force": "2022-11-13",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2022-11-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
