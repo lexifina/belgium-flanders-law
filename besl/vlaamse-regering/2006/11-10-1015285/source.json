@@ -2,16 +2,16 @@
   "codex_id": 1015285,
   "title": "Besluit van de Vlaamse Regering van 2006-11-10 tot vaststelling van de goedkeuringscriteria en indieningsmodaliteiten van de leerplannen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015285/VolledigDocument?datum=2021-09-01",
-  "source_sha256": "beddfa4f4b09eaf4b41b1996ed9b28bcfe54dc03a292ffa03882e98a55cc1cfd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015285/VolledigDocument?datum=2022-11-15",
+  "source_sha256": "58cdac9af2c7930f10a7a459731c04ab6c0c8bc7abd81d6aec2a2ce6da08f992",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015285&param=informatie",
-  "as_of": "2021-09-01",
+  "as_of": "2022-11-15",
   "made": "2006-11-10",
   "gazette": "2006-12-15",
   "numac": 2006036944,
   "document_start": "2007-09-01",
   "document_end": "2025-12-31",
-  "in_force": "2021-09-01",
+  "in_force": "2022-11-15",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2021-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-11-15; future article versions excluded; article text as the API gives it"
 }

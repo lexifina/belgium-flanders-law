@@ -76,7 +76,7 @@ f) het leerplan vermeldt duidelijk welke materiële vereisten minimaal noodzakel
 
 Een leerplan wordt ingediend bij de bevoegde inspecteur-generaal uiterlijk op 31 januari voorafgaand aan het schooljaar waarop het leerplan van kracht wordt.<br>
 <br>
-Voor de leerplannen van de eerste graad die op 1 september 2019 van toepassing worden in het eerste leerjaar van die graad, geldt, in afwijking van de datum vermeld in het eerste lid, als datum "uiterlijk acht maanden na de goedkeuring van de desbetreffende eindtermen en uitbreidingsdoelen Nederlands".<br>
+De datum, vermeld in het eerste lid, kan enkel worden overschreden in het geval van goedkeuring door de Vlaamse Regering, met toepassing van de termijnen als vermeld in het besluit van de Vlaamse Regering van 4 mei 2018 betreffende curriculumdossiers en leerplannen in het onderwijs, van een al dan niet gewijzigd curriculumdossier secundair onderwijs waarop het leerplan aansluit. Alsdan kan het leerplan worden ingediend tot uiterlijk één maand na voormelde goedkeuring.<br>
 <br>
 Een leerplan dat een negatief advies heeft gekregen, kan niet opnieuw worden ingediend in ongewijzigde vorm.<br>
 &nbsp;
