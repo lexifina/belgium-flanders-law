@@ -42,25 +42,23 @@ Op basis van de rubrieken, opgenomen in bijlage 1, voor de eerste graad, en in b
 
 ### ART 2.
 
-De instanties, vermeld in artikel 1, dienen een curriculumdossier ter goedkeuring in bij de bevoegde dienst uit het beleidsdomein onderwijs uiterlijk op 1 september van het schooljaar dat voorafgaat aan het schooljaar waarop het van toepassing wordt.<br>
+De instanties, vermeld in artikel 1, dienen een curriculumdossier ter goedkeuring in bij de bevoegde dienst uit het beleidsdomein onderwijs uiterlijk op 1 september van het schooljaar dat voorafgaat aan het schooljaar waarop het van toepassing wordt. Deze datum geldt als vervaltermijn.<br>
 <br>
-Of het curriculumdossier beantwoordt aan artikel 147/1, § 1 en 2, van de Codex Secundair Onderwijs van 17 december 2010 wordt getoetst door:<br>
+Of het curriculumdossier beantwoordt aan artikel 147/1, § 1 en 2, van de Codex Secundair Onderwijs van 17 december 2010, wordt getoetst door:<br>
 1° de bevoegde dienst uit het beleidsdomein onderwijs en de onderwijsinspectie, elk afzonderlijk, als het structuuronderdeel niet als duaal structuuronderdeel kan worden georganiseerd;<br>
 2° de bevoegde dienst uit het beleidsdomein onderwijs, de bevoegde dienst uit het beleidsdomein werk en de onderwijsinspectie, elk afzonderlijk, als het structuuronderdeel alleszins als duaal structuuronderdeel kan worden georganiseerd.<br>
 <br>
-De Vlaamse Regering beslist uiterlijk twee maanden na indiening over de goedkeuring van een curriculumdossier. Als binnen die termijn geen beslissing is genomen, is het curriculumdossier van rechtswege goedgekeurd.<br>
+De Vlaamse Regering beslist uiterlijk op 31 oktober na indiening over de goedkeuring van een curriculumdossier.&nbsp;<br>
 <br>
-Als de Vlaamse Regering het curriculumdossier niet goedkeurt, herwerken de instanties het curriculumdossier. Ze houden daarbij rekening met de adviezen van de bevoegde dienst of diensten, naargelang van het geval, en de onderwijsinspectie. Uiterlijk één maand na de beslissing van de Vlaamse Regering tot niet-goedkeuring, dienen de instanties het herwerkte curriculumdossier ter goedkeuring in bij de bevoegde dienst uit het beleidsdomein onderwijs. De Vlaamse Regering beslist uiterlijk twee weken na die indiening.<br>
+Als de Vlaamse Regering het curriculumdossier niet goedkeurt, herwerken de instanties het curriculumdossier. Ze houden daarbij rekening met de adviezen van de bevoegde dienst of diensten, naargelang van het geval, en de onderwijsinspectie. Uiterlijk op 31 december na de beslissing van de Vlaamse Regering tot niet-goedkeuring, dienen de instanties het herwerkte curriculumdossier ter goedkeuring in bij de bevoegde dienst uit het beleidsdomein onderwijs. Deze datum geldt als vervaltermijn.<br>
 <br>
-De termijnen in dit artikel gelden als vervaltermijnen.
+De Vlaamse Regering beslist uiterlijk op 31 januari na die indiening.
 
 ### ART 3.
 
-Als de instanties, vermeld in artikel 1, geen curriculumdossier of geen herwerkt curriculumdossier hebben ingediend binnen de vastgelegde termijn of als de Vlaamse Regering het herwerkte curriculumdossier niet goedkeurt, dan wordt het curriculumdossier samengesteld door de bevoegde dienst of diensten, naargelang van het geval. De bevoegde dienst of diensten, naargelang van het geval, houden waar mogelijk rekening houden met de standpunten van de voormelde instanties.<br>
+Als de instanties, vermeld in artikel 1, geen curriculumdossier of geen herwerkt curriculumdossier hebben ingediend binnen de vastgelegde termijn of als de Vlaamse Regering het herwerkte curriculumdossier niet goedkeurt, dan wordt het curriculumdossier samengesteld door de bevoegde dienst of diensten, naargelang van het geval. De bevoegde dienst of diensten, naargelang van het geval, houden waar mogelijk rekening met de standpunten van de voormelde instanties.<br>
 <br>
-De Vlaamse Regering beslist over de goedkeuring van het curriculumdossier, na advies van de onderwijsinspectie. Als uiterlijk op 31 december van het schooljaar dat voorafgaat aan het schooljaar waarop het curriculumdossier van toepassing wordt, geen beslissing is genomen, is het curriculumdossier van rechtswege goedgekeurd.<br>
-<br>
-De termijnen in dit artikel gelden als vervaltermijnen.
+De Vlaamse Regering beslist over de goedkeuring van het curriculumdossier, na advies van de onderwijsinspectie, uiterlijk op 31 maart van het schooljaar dat voorafgaat aan het schooljaar waarop het curriculumdossier van toepassing wordt
 
 ### ART 3/1.
 
@@ -92,8 +90,7 @@ Bij de uitoefening van hun opdracht met betrekking tot een curriculumdossier, ve
 
 ### ART 6.
 
-De termijnen, vermeld in dit hoofdstuk, worden opgeschort tijdens de herfst-, de kerst-, de krokus-, de paas- en de zomervakantie die zijn vastgelegd in uitvoering van artikel 12 van de Codex Secundair Onderwijs van 17 december 2010.<br>
-&nbsp;
+...
 
 ## Hoofdstuk II Wijzigingen van het besluit van de Vlaamse Regering van 10 november 2006 tot vaststelling van de goedkeuringscriteria en indieningsmodaliteiten van de leerplannen
 
