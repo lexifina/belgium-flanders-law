@@ -422,7 +422,14 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE 2
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/27_1.pdf#page=1279">Matrix secundair onderwijs</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/27_1.pdf#page=1279">Matrix secundair onderwijs</a><br>
+<br>
+Bij besluit van de Vlaamse Regering van 13 januari 2023, worden met ingang van 15 november 2022 de volgende wijzigingen aangebracht:<br>
+1° in de matrix secundair onderwijs 3<sup>e</sup> graad, kolom finaliteit doorstroom, domeingebonden TSO/KSO wordt aan het studiedomein “Economie en organisatie” het structuuronderdeel “Bedrijfsondersteunende informaticawetenschappen” toegevoegd;<br>
+2° in de matrix secundair onderwijs 3<sup>e</sup> graad, kolom dubbele finaliteit (doorstroom/arbeidsmarkt) TSO/KSO wordt aan het studiedomein “STEM” het structuuronderdeel “Applicatie- en databeheer” toegevoegd;<br>
+3° in de matrix secundair onderwijs 3<sup>e</sup> graad, kolom dubbele finaliteit (doorstroom/arbeidsmarkt) TSO/KSO wordt aan het studiedomein “Economie en organisatie” het structuuronderdeel “Applicatie- en databeheer” toegevoegd;<br>
+4° in de matrix secundair onderwijs 3<sup>e</sup> graad, kolom finaliteit arbeidsmarkt BSO wordt aan het studiedomein “STEM” het structuuronderdeel “Datacommunicatie- en netwerkinstallaties” toegevoegd.<br>
+&nbsp;
 
 ### BIJLAGE 3
 
@@ -434,7 +441,151 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE 4/1.
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/27_1.pdf#page=1423">Samenstelling van structuuronderdelen</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/27_1.pdf#page=1423">Samenstelling van structuuronderdelen</a><br>
+<br>
+Bij besluit van de Vlaamse Regering van 13 januari 2023, worden met ingang van 15 november 2022 de volgende wijzigingen aangebracht:<br>
+1° aan de tabel “samenstelling van structuuronderdelen 3e graad – finaliteit doorstroom” worden de volgende rijen toegevoegd:<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:635px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:34px; width:104px">Domein</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:34px; width:161px">Structuuronderdeel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:34px; width:371px">Vooropgestelde specifieke eindtermen</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:104px">ECONOMIE EN ORGANISATIE</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:161px">Bedrijfsondersteunende informaticawetenschappen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:371px">De volgende specifieke eindtermen uit bijlage 7 bij het decreet van 12 februari 2021 betreffende de onderwijsdoelen voor de tweede en derde graad van het secundair onderwijs en diverse andere verwante maatregelen:<br>
+			<br>
+			1. Algemene doorstroomcompetenties<br>
+			1.1. Generieke doorstroomcompetenties<br>
+			<br>
+			6. Wiskunde<br>
+			6.3. Uitgebreide wiskunde in functie van economie<br>
+			<br>
+			7. Informaticawetenschappen<br>
+			7.1. Informaticawetenschappen: algoritmen en programmeren<br>
+			7.2. Informaticawetenschappen: softwareontwikkeling<br>
+			7.3. Informaticawetenschappen: modelleren en simuleren<br>
+			7.4. Informaticawetenschappen: informatie- en databeheer<br>
+			<br>
+			16. Economie<br>
+			16.1. Algemene Economie:<br>
+			16.1.3. De leerlingen analyseren de werking van de arbeidsmarkt.<br>
+			16.1.7. De leerlingen analyseren de relaties tussen de economische actoren en de samenstelling van de belangrijkste economische aggregaten.<br>
+			16.1.8. De leerlingen analyseren internationale handel en internationale economische relaties.<br>
+			16.3. Uitgebreide bedrijfswetenschappen en recht<br>
+			16.3.1. De leerlingen analyseren de keuze voor een ondernemingsvorm.<br>
+			16.3.3. De leerlingen beoordelen de performantie van een onderneming aan de hand van zelf berekende kerncijfers.<br>
+			16.3.4. De leerlingen analyseren financieringsvormen.<br>
+			16.3.6. De leerlingen analyseren de marketingstrategie van een onderneming.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+2° aan de tabel “samenstelling van structuuronderdelen 3e graad – dubbele finaliteit (doorstroom/arbeidsmarkt)” worden de volgende rijen toegevoegd:<br>
+<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:633px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:34px; width:104px">Domein</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:34px; width:161px">Structuuronderdeel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:34px; width:369px">Vooropgestelde specifieke eindtermen</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:104px">STEM</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:161px">Applicatie- en databeheer</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:369px">De volgende specifieke eindtermen uit bijlage 7 bij het decreet van 12 februari 2021 betreffende de onderwijsdoelen voor de tweede en derde graad van het secundair onderwijs en diverse andere verwante maatregelen:<br>
+			<br>
+			1. Algemene doorstroomcompetenties<br>
+			1.1. Generieke doorstroomcompetenties<br>
+			<br>
+			6. Wiskunde<br>
+			6.5. Toegepaste wiskunde: goniometrie en vectoren<br>
+			6.6. Toegepaste wiskunde: uitgebreide analyse en<br>
+			algebra<br>
+			6.9. Toegepaste wiskunde: uitgebreide beschrijvende<br>
+			statistiek<br>
+			<br>
+			7. Informaticawetenschappen<br>
+			7.2. Informaticawetenschappen: softwareontwikkeling<br>
+			7.2.1. De leerlingen maken een modulair ontwerp voor een softwaretoepassing gebaseerd op een concrete probleemstelling.<br>
+			7.2.2. De leerlingen implementeren softwaremodules volgens concrete specificaties op een manier die herbruikbaarheid en samenwerking bevordert.<br>
+			7.2.3. De leerlingen testen hun implementatie om eventuele fouten te identificeren en op te lossen.<br>
+			7.5. Informaticawetenschappen: datacommunicatie, computer- en netwerkarchitectuur<br>
+			<br>
+			12. STEM<br>
+			12.2. Gevorderde STEM</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:104px">ECONOMIE EN ORGANISATIE</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:161px">Applicatie- en databeheer</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:369px">De volgende specifieke eindtermen uit bijlage 7 bij het decreet van 12 februari 2021 betreffende de onderwijsdoelen voor de tweede en derde graad van het secundair onderwijs en diverse andere verwante maatregelen:<br>
+			<br>
+			1. Algemene doorstroomcompetenties<br>
+			1.1. Generieke doorstroomcompetenties<br>
+			<br>
+			6. Wiskunde<br>
+			6.5. Toegepaste wiskunde: goniometrie en vectoren<br>
+			6.6. Toegepaste wiskunde: uitgebreide analyse en<br>
+			algebra<br>
+			6.9. Toegepaste wiskunde: uitgebreide beschrijvende statistiek<br>
+			<br>
+			7. Informaticawetenschappen<br>
+			7.2. Informaticawetenschappen: softwareontwikkeling<br>
+			7.2.1. De leerlingen maken een modulair ontwerp voor een softwaretoepassing gebaseerd op een concrete probleemstelling.<br>
+			7.2.2. De leerlingen implementeren softwaremodules volgens concrete specificaties op een manier die herbruikbaarheid en samenwerking bevordert.<br>
+			7.2.3. De leerlingen testen hun implementatie om eventuele fouten te identificeren en op te lossen.<br>
+			7.5. Informaticawetenschappen: datacommunicatie, computer- en netwerkarchitectuur<br>
+			<br>
+			12. STEM<br>
+			12.2. Gevorderde STEM</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<table cellspacing="0" style="border-collapse:collapse; width:633px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:34px; width:104px">Domein</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:34px; width:161px">Structuuronderdeel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:34px; width:369px">Beroepskwalificatie(s)</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; width:104px">STEM</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:161px">Applicatie- en databeheer</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:369px">Functioneel digitaal ondersteuner</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; width:104px">ECONOMIE EN ORGANISATIE</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:161px">Applicatie- en databeheer</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:369px">Functioneel digitaal ondersteuner</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+3° aan de tabel “samenstelling van structuuronderdelen 3e graad – finaliteit arbeidsmarkt” worden de volgende rijen toegevoegd:<br>
+<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:633px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:34px; width:104px">Domein</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:34px; width:161px">Structuuronderdeel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:34px; width:369px">Beroepskwalificatie(s)</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; width:104px">STEM</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:161px">Datacommunicatie- en netwerkinstallaties</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:369px">Datacommunicatie- en netwerktechnieker</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+4° in de tabel “samenstelling van structuuronderdelen 3e graad – dubbele finaliteit (doorstroom/arbeidsmarkt)” worden voor het domein STEM, structuuronderdeel Industriële ICT, in de kolom Beroepskwalificatie(s) de woorden “Technieker industriële lijnautomatisatie + Datacommunicatie- en netwerktechnieker” vervangen door de woorden “Technieker industriële lijnautomatisatie”.
 
 ### BIJLAGE 5
 
