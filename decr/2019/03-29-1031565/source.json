@@ -2,16 +2,16 @@
   "codex_id": 1031565,
   "title": "Decreet van 2019-03-29 tot wijziging van diverse bepalingen van titel X van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031565/VolledigDocument?datum=2021-08-17",
-  "source_sha256": "7df03b4c94db9fb55eea4286feaa3ab1518ac0deea015c3dc2556f4d9bed3c6d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031565/VolledigDocument?datum=2022-11-22",
+  "source_sha256": "b5c5667e13dcd15f2d4c601cee5bcaf0f1635cf314046e96f2f26df1d5250012",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031565&param=informatie",
-  "as_of": "2021-08-17",
+  "as_of": "2022-11-22",
   "made": "2019-03-29",
   "gazette": "2019-04-17",
   "numac": 2019011738,
   "document_start": "2019-04-27",
   "document_end": null,
-  "in_force": "2021-08-17",
-  "article_versions": 28,
-  "record_form": "consolidated version as in force on 2021-08-17; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-11-22",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2022-11-22; future article versions excluded; article text as the API gives it"
 }
