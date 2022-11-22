@@ -716,6 +716,24 @@ De verplichting, vermeld in de artikel 33/9, is niet van toepassing op de openba
 
 ## [Onderafdeling 6.4 Verplichtingen bij overdracht (ing. decr. 29 maart 2019, art. 23, I: 17 augustus 2021)]
 
+### ART 33/14.
+
+§ 1. De eigenaar deelt de inhoud van een geldig asbestinventarisattest mee aan de kandidaat-verwerver bij het sluiten van een onderhandse akte of overeenkomst voor de overdracht van een toegankelijke constructie met risicobouwjaar.<br>
+<br>
+Als de toegankelijke constructie met risicobouwjaar onder het stelsel van gedwongen mede-eigendom, vermeld in artikel 3.84 van het Burgerlijk Wetboek, of onder de toepassing van artikel 3.78 tot en met 3.83 van het Burgerlijk Wetboek valt, wordt zowel voor de gemeenschappelijke delen als voor elk privédeel dat deel uitmaakt van de overdracht, een afzonderlijk asbestinventarisattest uitgereikt.<br>
+<br>
+§ 2. De onderhandse akte of de overeenkomst die de modaliteiten van de overdracht van een toegankelijke constructie met risicobouwjaar vastlegt, vermeldt of de inhoud van het geldige asbestinventarisattest voorafgaandelijk is meegedeeld aan de verwerver, alsook de datum, samenvattende conclusie en de unieke code van het attest.<br>
+<br>
+§ 3. In alle authentieke akten voor de overdracht van een toegankelijke constructie met risicobouwjaar vermeldt de instrumenterend ambtenaar of een geldig asbestinventarisattest is overhandigd aan de verwerver. Hij neemt ook de datum, samenvattende conclusie en unieke code van dat attest op in de akte.<br>
+<br>
+§ 4. Het asbestinventarisattest, vermeld in paragraaf 1, eerste lid, heeft enkel betrekking op de constructies met risicobouwjaar die het voorwerp uitmaken van de overdracht.&nbsp;Het asbestinventarisattest kan maar betrekking hebben op één wooneenheid.<br>
+<br>
+§ 5. De Vlaamse Regering kan nadere regels vaststellen voor de verplichtingen, vermeld in paragraaf 1, 2 en 3, en kan voorzien in een afwijking voor bepaalde categorieën van toegankelijke constructies met risicobouwjaar.<br>
+<br>
+§ 6. De verwerver kan de nietigheid vorderen van de overdracht die heeft plaatsgevonden in strijd met de bepalingen van dit artikel.<br>
+<br>
+De nietigheid kan niet meer worden ingeroepen als de verwerver zijn verzaking van de nietigheidsvordering uitdrukkelijk in de authentieke akte heeft laten opnemen en hij een geldig asbestinventarisattest heeft gekregen.
+
 ### ART 33/15.
 
 De verplichtingen, vermeld in artikel 33/14 zijn niet van toepassing op de openbare, technische toegankelijke constructie met risicobouwjaar.
