@@ -266,6 +266,16 @@ In artikel 33/10 van hetzelfde decreet, ingevoegd bij het decreet van 29 maart 2
 <br>
 4° in paragraaf 4, vierde lid, worden de woorden "De persoonsgegevens opgenomen in de databank" vervangen door de zinsnede "De persoonlijke contactgegevens en het rijksregisternummer/identificatienummer van de sociale zekerheid die in de databank zijn opgenomen,".
 
+### ART 18.
+
+In artikel 33/14 van hetzelfde decreet, ingevoegd bij het decreet van 29 maart 2019, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° aan paragraaf 1, tweede lid, wordt de volgende zin toegevoegd:<br>
+"Voor de toegankelijke constructies met risicobouwjaar die niet vallen onder het stelsel van gedwongen mede-eigendom, vermeld in artikel 577-3 van het Burgerlijk Wetboek, of onder de toepassing van artikel 577-2 van het Burgerlijk Wetboek, kan de Vlaamse Regering de regels bepalen voor de opmaak van een asbestinventaris voor de gemeenschappelijke delen.";<br>
+<br>
+2° aan paragraaf 4 wordt de volgende zin toegevoegd:<br>
+"Het asbestinventarisattest kan maar betrekking hebben op één wooneenheid.".
+
 ### ART 19.
 
 In artikel 33/16 van hetzelfde decreet, ingevoegd bij het decreet van 29 maart 2019, worden de volgende wijzigingen aangebracht:<br>
