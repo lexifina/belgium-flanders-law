@@ -175,6 +175,13 @@ Aan artikel 33/10 van hetzelfde decreet, ingevoegd bij het decreet van 29 maart 
 3° in paragraaf 3, tweede lid, wordt de zinsnede ", kan regels vaststellen over de risico-evaluatie en het veilig beheer van asbesthoudende materialen en de modaliteiten voor het bezorgen van informatie over ingesloten of bedekte asbesthoudende materialen aan de asbestdeskundige inventarisatie" toegevoegd;<br>
 4° in paragraaf 4 wordt aan het zesde lid de zin "De categorie van de betrokken personen zijn de eigenaars van de constructies met risicobouwjaar." toegevoegd.
 
+### ART 19.
+
+In artikel 33/14 van hetzelfde decreet, ingevoegd bij het decreet van 29 maart 2019 en gewijzigd bij het decreet van 26 februari 2021, worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 1, tweede lid, wordt vervangen door wat volgt:<br>
+"Als de toegankelijke constructie met risicobouwjaar onder het stelsel van gedwongen mede-eigendom, vermeld in artikel 3.84 van het Burgerlijk Wetboek, of onder de toepassing van artikel 3.78 tot en met 3.83 van het Burgerlijk Wetboek valt, wordt zowel voor de gemeenschappelijke delen als voor elk privédeel dat deel uitmaakt van de overdracht, een afzonderlijk asbestinventarisattest uitgereikt.";<br>
+2° paragraaf 3, tweede lid, wordt opgeheven.
+
 ### ART 20.
 
 In hetzelfde decreet wordt een artikel 33/17 ingevoegd, dat luidt als volgt:<br>
