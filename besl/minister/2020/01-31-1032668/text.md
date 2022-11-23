@@ -16,12 +16,10 @@ Besluit :
 
 ### ART 1.
 
-De werkzaamheden die in aanmerking komen voor de steun voor energetische renovatieprojecten van noodkoopwoningen zijn deze die op het moment van de aanvraag van de renteloze lening in aanmerking komen voor:<br>
-1° een renovatiepremie overeenkomstig artikel 5 van het besluit van de Vlaamse Regering van 21 december 2018 tot instelling van een tegemoetkoming in de kosten bij de renovatie of verbetering van een bestaande woning of bij de realisatie van een nieuwe woning;<br>
-2° de toekenning van een energielening zoals voorzien in het ministerieel besluit van 5 september 2017 tot bepaling van de aard van de investeringen die in aanmerking komen voor een lening door een energiehuis;<br>
-3° een energiepremie door of krachtens artikel 6.4.1 tot en met 6.4.1.1./3 van het Energiebesluit van 19 november 2010.<br>
-<br>
-De werkzaamheden zijn erop gericht om de woning te doen beantwoorden aan de normen vastgesteld met toepassing van artikel 5 van de Vlaamse Wooncode van 15 juli 1997 en ze energiezuiniger te maken.
+De werkzaamheden die in aanmerking komen voor de steun voor energetische renovatieprojecten van noodkoopwoningen zijn deze die op het moment van de aanvraag van de noodkooplening:<br>
+1° in aanmerking komen voor een tegemoetkoming, vermeld in Boek 5, Deel 5, Titel 3, hoofdstuk 1 van het besluit Vlaamse Codex Wonen van 2021 of de premies, vermeld in artikel 6.4.1/1, &nbsp;6.4.1/1/1, 6.4.1/5 en 6.4.1/5/1 van het Energiebesluit van 19 november 2010;<br>
+2° in aanmerking komen voor een verbouwlening, overeenkomstig artikel 7.9.2/0/7 en 7.9.2/0/8 van het Energiebesluit van 19 november 2010;<br>
+3° tot doel hebben om de noodkoopwoning te laten beantwoorden aan de elementaire veiligheids-, gezondheids- en woonkwaliteitsvereisten, vastgesteld met toepassing van artikel 3.1 van de Vlaamse Codex Wonen van 2021. Hierbij wordt het technisch handboek Woningkwaltiteitsbewaking als leidraad gehanteerd.
 
 ### ART 2.
 

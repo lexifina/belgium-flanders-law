@@ -2,16 +2,16 @@
   "codex_id": 1032668,
   "title": "Ministerieel besluit van 2020-01-31 tot uitvoering van diverse bepalingen van afdeling IV van titel VII, hoofdstuk II van het energiebesluit van 19 november 2010 betreffende de toekenning van steun voor energetische renovatieprojecten van noodkoopwoningen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032668/VolledigDocument?datum=2020-03-01",
-  "source_sha256": "48e57db9fae5371d684be36f335594b3fdd405f0e7993f0183dbeae43610ee65",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032668/VolledigDocument?datum=2022-11-23",
+  "source_sha256": "088672bc41a3bb3a9c4288c08e8b88aa1b38d4c5fa2129fc3a43442a17200f45",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032668&param=informatie",
-  "as_of": "2020-03-01",
+  "as_of": "2022-11-23",
   "made": "2020-01-31",
   "gazette": "2020-02-20",
   "numac": 2020030123,
   "document_start": "2020-03-01",
   "document_end": null,
-  "in_force": "2020-03-01",
+  "in_force": "2022-11-23",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2020-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-11-23; future article versions excluded; article text as the API gives it"
 }
