@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037547,
+  "title": "Ministerieel besluit van 2022-10-26 betreffende de aanvraag tot registratie van \"Limburgse vlaai\" als beschermde geografische aanduiding (BGA)",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037547/VolledigDocument?datum=2022-11-24",
+  "source_sha256": "14bc21bbe7eea06c4a4501aabfa520ec5ee2fdc3b61fa413f37d87c6ef44ba26",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037547&param=informatie",
+  "as_of": "2022-11-24",
+  "made": "2022-10-26",
+  "gazette": "2022-11-14",
+  "numac": 2022042586,
+  "document_start": "2022-11-24",
+  "document_end": null,
+  "in_force": "2022-11-24",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2022-11-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
