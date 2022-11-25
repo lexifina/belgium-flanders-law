@@ -22,28 +22,28 @@ Besluit :
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder besluit van de Vlaamse Regering van 8 mei 2009 : het besluit van de Vlaamse Regering van 8 mei 2009 betreffende de gemeenschappelijke ordening der markten in de sector groenten en fruit voor wat betreft de erkenning van producentenorganisaties, de actiefondsen, de operationele programma's en de toekenning van de financiële steun.
+...
 
 ### ART. 2.
 
-<P>...</P>
+...
 
 ### ART. 3.
 
-De aanvullende voorwaarden voor de erkenningscriteria, betreffende het minimumaantal leden en minimale hoeveelheid van of waarde aan afzetbare productie van de leden van de producentenorganisaties, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 8 mei 2009 en in artikel 125ter van Verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (Integrale-GMO-Verordening), worden als volgt vastgelegd : <br />1° minimumaantal telers : 40;<br />2° minimumwaarde van afzetbare productie : 5 miljoen euro.<br /><br />In afwijking van het eerste lid, worden de aanvullende voorwaarden voor de erkenningscriteria, betreffende het minimumaantal leden en minimale hoeveelheid van of waarde aan afzetbare productie van de leden van de producentenorganisaties, voor producentenorganisaties in de sector champignons als volgt vastgelegd : <br />1° minimumaantal telers : 10;<br />2° minimumwaarde van de in de handel gebrachte producten : 5 miljoen euro.
+...
 
 ### ART. 4.
 
-Met het oog op de continuïteit van producentenorganisaties en met inachtneming van de doelstellingen van de gemeenschappelijke marktordening kan in individuele gevallen, een afwijking toegestaan worden van de voorwaarde, vermeld in artikel 3, eerste lid, 1° of in voorkomende geval van de voorwaarde, vermeld in artikel 3, tweede lid, 1°, en kan een producentenorganisatie erkend worden met een kleiner minimumaantal telers, op voorwaarde dat de producentenorganisatie : <br />1° de gehele of gedeeltelijke voortzetting is van een erkende producentenorganisatie;<br />2° aantoont binnen de door de minister in de erkenning te bepalen termijn de nodige inspanningen te kunnen leveren om het minimumaantal leden te bereiken.
+...
 
 ### ART. 5.
 
-Het ministerieel besluit van 5 juli 2005 houdende uitvoering van het besluit van de Vlaamse Regering van 18 maart 2005 betreffende de gemeenschappelijke ordening der markten in de sector groenten en fruit voor wat betreft de erkenning van telersverenigingen, de actiefondsen, de operationele programma's en de toekenning van de financiële steun betreffende de bevoegde diensten en de criteria voor erkenning van telersverenigingen, gewijzigd bij het ministerieel besluit van 19 mei 2006, wordt opgeheven.
+...
 
 ### ART. 6.
 
-Overeenkomstig artikel 203bis, lid 2, eerste alinea, eerste zin, van Verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (Integrale-GMO-Verordening), en met behoud van toepassing van artikel 203bis, lid 2, eerste alinea, tweede zin, van die Verordening, behouden producentenorganisaties en unies van producentenorganisaties die vóór de inwerkingtreding van de genoemde Verordening (EG) nr. 1234/2007 erkend zijn op grond van Verordening (EG) nr. 2200/96 van de Raad van 28 oktober 1996 houdende een gemeenschappelijke ordening der markten in de sector groenten en fruit en de destijds geldende criteria, hun erkenning, op voorwaarde dat ze op uiterlijk 1 januari 2013 voldoen aan de criteria bepaald in dit besluit.
+...
 
 ### ART. 7.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2010.
+...

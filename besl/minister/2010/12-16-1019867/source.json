@@ -2,16 +2,16 @@
   "codex_id": 1019867,
   "title": "Ministerieel besluit van 2010-12-16 houdende uitvoering van artikelen 2 en 50 van het besluit van de Vlaamse Regering van 8 mei 2009 betreffende de gemeenschappelijke ordening der markten in de sector groenten en fruit voor wat betreft de erkenning van producentenorganisaties, de actiefondsen, de operationele programma's en de toekenning van de financiële steun",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019867/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "8bedaca14beb20097d28f45a2fdefed26877346da662fac9b0c0748139073410",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019867/VolledigDocument?datum=2022-11-25",
+  "source_sha256": "b4304c00e5908107ce7ec9a6a461c9e00e23a741a8d8a1c588fd356f66fb74e6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019867&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2022-11-25",
   "made": "2010-12-16",
   "gazette": "2011-01-10",
   "numac": 2010206601,
   "document_start": "2010-01-01",
   "document_end": "2022-11-24",
-  "in_force": "2015-01-01",
+  "in_force": "2022-11-25",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-11-25; future article versions excluded; article text as the API gives it"
 }
