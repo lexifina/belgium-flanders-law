@@ -13,7 +13,7 @@ In dit besluit wordt verstaan onder :<br>
 2° minister : de Vlaamse minister, bevoegd voor het Leefmilieu, Natuur en Energie;<br>
 3° departement : het Departement Omgeving;<br>
 4° bevoegde instantie : het departement, op het adres van de afdeling, bevoegd voor bestuurlijke handhaving, Graaf de Ferrarisgebouw, Koning Albert II-laan 20 bus 8, 1000 Brussel;<br>
-5° afdeling, bevoegd voor milieuhandhaving : de subentiteit van het departement, bevoegd voor de milieuhandhaving;<br>
+5° afdeling, bevoegd voor milieuhandhaving : de subentiteit van het departement, bevoegd voor de uitvoering van de milieuhandhaving;<br>
 6° afdeling, bevoegd voor bestuurlijke handhaving : de subentiteit van het departement, bevoegd voor bestuurlijke handhaving;<br>
 7° juridische dienst : de subentiteit van het departement, bevoegd voor juridische dienstverlening;<br>
 8° gedelegeerde : de overheidsinstantie aan wie de bevoegde instantie een of meer van haar taken delegeert met toepassing van artikel 15.8.1, tweede lid, van het decreet van 5 april 1995;<br>
@@ -326,4 +326,55 @@ De Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, is   belast
 
 ### BIJLAGE
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2013/12/03_2.pdf#page=32">formulier   "Melding van een voorval"</A>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2013/12/03_2.pdf#page=32">formulier "Melding van een voorval"</a><br>
+<br>
+* Bij besluit van de Vlaamse Regering van 24 juni 2022, worden met ingang van 26 november 2022, de volgende wijzigingen aangebracht aan de bijlage:<br>
+<br>
+1° de bepaling:<br>
+"Departement Leefmilieu, Natuur en Energie<br>
+Afdeling Milieu-inspectie<br>
+Koning Albert II-laan 20 bus 8, 1000 Brussel<br>
+Website: www.lne.be"<br>
+wordt vervangen door de bepaling:<br>
+"Departement Omgeving<br>
+Afdeling Handhaving<br>
+Koning Albert II-laan 20 bus 8, 1000 Brussel<br>
+Website: www.omgevingvlaanderen.be";<br>
+<br>
+2° het woord "buitendienst" wordt telkens vervangen door het woord "werkplek" en de woorden "afdeling Milieu-Inspectie" worden telkens vervangen door de woorden "afdeling Handhaving";<br>
+<br>
+3° aan punt 2 wordt de volgende bepaling toegevoegd:<br>
+exploitatieadres:<br>
+<br>
+4° punt 18 wordt vervangen door wat volgt:<br>
+18. Bezorg deze melding aan de werkplek van de afdeling Handhaving van de provincie waarin de inrichting gelegen is. U vindt de adressen hieronder.<br>
+Afdeling Handhaving<br>
+Antwerpen<br>
+Lange Kievitstraat 111-113 bus 62<br>
+2018 Antwerpen<br>
+Tel.: 03 224 64 25<br>
+E-mail: omgevingsinspectie.ant@vlaanderen.be<br>
+Afdeling Handhaving<br>
+Vlaams-Brabant<br>
+Diestsepoort 6 bus 71<br>
+3000 Leuven<br>
+Tel.: 016 66 60 70<br>
+E-mail: omgevingsinspectie.vbr@vlaanderen.be<br>
+Afdeling Handhaving<br>
+Limburg<br>
+Koningin Astridlaan 50 bus 5<br>
+3500 Hasselt<br>
+Tel.: 011 74 26 00<br>
+E-mail: omgevingsinspectie.lim@vlaanderen.be<br>
+Afdeling Handhaving<br>
+Oost-Vlaanderen<br>
+Koningin Maria Hendrikaplein 70 bus 71<br>
+9000 Gent<br>
+Tel.: 09 235 58 50<br>
+E-mail: omgevingsinspectie.ovl@vlaanderen.be<br>
+Afdeling Handhaving<br>
+West-Vlaanderen<br>
+Koning Albert I-laan 1/2 bus 73<br>
+8200 Brugge<br>
+Tel.: 050 24 79 60<br>
+E-mail: omgevingsinspectie.wvl@vlaanderen.be
