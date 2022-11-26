@@ -243,7 +243,7 @@ De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor de   VR-deskundi
 De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor de airco-energiedeskundige, vermeld in artikel 6, 1°, f) :<br>
 1° een natuurlijke persoon zijn;<br>
 2° voldoen aan minstens een van de voorwaarden, vermeld in bijlage 13, die bij dit besluit is gevoegd;<br>
-3° in het bezit zijn van het certificaat van bekwaamheid inzake de keuring van airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 12 kW, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, f), nadat de persoon de opleiding gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 43/4, § 1. Als het certificaat van bekwaamheid ouder is dan vijf jaar na de datum van het slagen voor het examen, moet hij een bewijs voorleggen dat hij een bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 43/4, § 2, in een erkend opleidingscentrum als vermeld in artikel 6, 4°, f). De datum van het slagen voor het examen van de bijscholing mag niet ouder zijn dan vijf jaar, voorafgaand aan de datum van de betaling van de retributie, vermeld in punt 4° ;<br>
+3° in het bezit zijn van het certificaat van bekwaamheid inzake de keuring van airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 12 kW, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, f), nadat de persoon de opleiding gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 43/4, § 1. Als het certificaat van bekwaamheid ouder is dan vijf jaar na de datum van het slagen voor het examen, moet hij een bewijs voorleggen dat hij een bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 43/4, § 2, in een erkend opleidingscentrum als vermeld in artikel 6, 4°, f);<br>
 4° ...
 
 ### ART 13/2.
@@ -261,14 +261,14 @@ De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor de MER-coördina
 De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een technicus vloeibare brandstof als vermeld in artikel 6, 2°, a) :<br>
 1° een natuurlijke persoon zijn;<br>
 2° in het bezit zijn van een certificaat van bekwaamheid inzake vloeibare brandstof, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, b), nadat de persoon de opleiding gevolgd heeft en geslaagd is voor het examen, vermeld in artikel 43, § 1. Als het certificaat van bekwaamheid ouder is dan vijf jaar na de datum van het slagen voor het examen, moet hij een bewijs voorleggen dat hij een bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 40, eerste lid, 3°, in een erkend opleidingscentrum als vermeld in artikel 6,<br>
-4°, b). De datum van het slagen voor het examen van de bijscholing mag niet ouder zijn dan vijf jaar, voorafgaand aan de datum van de betaling van de retributie, vermeld in punt 3° ;<br>
+4°, b) ;<br>
 3° ...
 
 ### ART. 15.
 
 De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een technicus gasvormige brandstof als vermeld in artikel 6, 2°, b) :<br>
 1° een natuurlijke persoon zijn;<br>
-2° in het bezit zijn van een certificaat van bekwaamheid inzake gasvormige brandstof, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, c), nadat de persoon de opleiding gevolgd heeft en geslaagd is voor het examen, vermeld in artikel 43/1, § 1. Als het certificaat van bekwaamheid ouder is dan vijf jaar na de datum van het slagen voor het examen, moet hij een bewijs voorleggen dat hij een bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 40, eerste lid, 3°, in een erkend opleidingscentrum als vermeld in artikel 6, 4°, c). De datum van het slagen voor het examen van de bijscholing mag niet ouder zijn dan vijf jaar, voorafgaand aan de datum van de betaling van de retributie, vermeld in punt 3° ;<br>
+2° in het bezit zijn van een certificaat van bekwaamheid inzake gasvormige brandstof, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, c), nadat de persoon de opleiding gevolgd heeft en geslaagd is voor het examen, vermeld in artikel 43/1, § 1. Als het certificaat van bekwaamheid ouder is dan vijf jaar na de datum van het slagen voor het examen, moet hij een bewijs voorleggen dat hij een bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 40, eerste lid, 3°, in een erkend opleidingscentrum als vermeld in artikel 6, 4°, c);<br>
 3°&nbsp;...
 
 ### ART. 16.
@@ -276,21 +276,21 @@ De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een technicus ga
 De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een technicus verwarmingsaudit als vermeld in artikel 6, 2°, c) :<br>
 1° een natuurlijke persoon zijn;<br>
 2° erkend zijn als technicus vloeibare brandstof of als technicus gasvormige brandstof als vermeld in artikel 6, 2°, a) respectievelijk b) ;<br>
-3°&nbsp;in het bezit zijn van een certificaat van bekwaamheid inzake de verwarmingsaudit, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, d), nadat de persoon de opleiding gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 43/2, § 1. Als het certificaat van bekwaamheid ouder is dan vijf jaar na de datum van het slagen voor het examen, moet hij een bewijs voorleggen dat hij een bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 40, eerste lid, 3°, in een erkend opleidingscentrum als vermeld in artikel 6, 4°, d). De datum van het slagen voor het examen van de bijscholing mag niet ouder zijn dan vijf jaar, voorafgaand aan de datum van de betaling van de retributie, vermeld in punt 4°&nbsp;<br>
+3°&nbsp;in het bezit zijn van een certificaat van bekwaamheid inzake de verwarmingsaudit, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, d), nadat de persoon de opleiding gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 43/2, § 1. Als het certificaat van bekwaamheid ouder is dan vijf jaar na de datum van het slagen voor het examen, moet hij een bewijs voorleggen dat hij een bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 40, eerste lid, 3°, in een erkend opleidingscentrum als vermeld in artikel 6, 4°, d);<br>
 4° ...
 
 ### ART. 17.
 
 De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een stookolietechnicus als vermeld in artikel 6, 2°, d) :<br>
 1° een natuurlijke persoon zijn;<br>
-2° in het bezit zijn van een certificaat van bekwaamheid inzake de controle en het onderhoud van stookolietanks, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, e), nadat de persoon de opleiding gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 43/3, § 1. Als het certificaat van bekwaamheid ouder is dan vijf jaar na de datum van het slagen voor het examen, moet hij een bewijs voorleggen dat hij een bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 40, eerste lid, 3°, in een erkend opleidingscentrum als vermeld in artikel 6, 4°, e). De datum van het slagen voor het examen van de bijscholing mag niet ouder zijn dan vijf jaar, voorafgaand aan de datum van de betaling van de retributie, vermeld in punt 3° ;<br>
+2° in het bezit zijn van een certificaat van bekwaamheid inzake de controle en het onderhoud van stookolietanks, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, e), nadat de persoon de opleiding gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 43/3, § 1. Als het certificaat van bekwaamheid ouder is dan vijf jaar na de datum van het slagen voor het examen, moet hij een bewijs voorleggen dat hij een bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 40, eerste lid, 3°, in een erkend opleidingscentrum als vermeld in artikel 6, 4°, e) ;<br>
 3° ...
 
 ### ART 17/1.
 
 De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een koeltechnicus als vermeld in artikel 6, 2°, e) :<br>
 1° een natuurlijke persoon zijn;<br>
-2° in het bezit zijn van een certificaat van bekwaamheid in de koeltechniek van categorie I, II, III of IV, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, h), nadat de persoon geslaagd is voor het examen, vermeld in artikel 43/6, § 1;<br>
+2° in het bezit zijn van een certificaat van bekwaamheid in de koeltechniek van categorie I, II, III of IV, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, h), nadat de persoon geslaagd is voor het examen, vermeld in artikel 43/6, § 1. Als het certificaat van bekwaamheid ouder is dan vijf jaar na de datum van het slagen voor het examen, legt de koeltechnicus een bewijs voor dat hij geslaagd is voor het actualisatie-examen in een erkend opleidingscentrum als vermeld in artikel 6, 4°, h), of voor een gelijkwaardig examen als vermeld in artikel 40/1, 4°;<br>
 3° ...
 
 ### ART 17/2.
@@ -664,9 +664,7 @@ b) de bedrijven die in een ander gewest in België of in een andere lidstaat van
 13° bedrijf voor brandbeveiligingsapparatuur als vermeld in artikel 6, 7°, c) : de bedrijven die in een ander gewest in België of in een andere lidstaat van de Europese Economische Ruimte conform artikel 8 van verordening nr. 304/2008 een geldig certificaat hebben behaald;<br>
 14° keuringsinstelling als vermeld in artikel 6, 8° : de instellingen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 25/6.<br>
 <br>
-De erkenning, vermeld in het eerste lid, 5°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan&nbsp;de bevoegde afdeling.<br>
-<br>
-De erkenning, vermeld in het eerste lid, 7°, b), 8°, b), 9°, b), 10°, b), 11°, b), 12°, b) en 13°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan&nbsp;de bevoegde afdeling,&nbsp;de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan&nbsp;de bevoegde afdeling. De persoon of het bedrijf, vermeld in het eerste lid, 7°, b), 8°, b), 9°, b), 10°, b), 11°, b), 12°, b), en 13°, beschikt over een vertaling van zijn certificaat naar het Nederlands, Frans, Duits of Engels als het certificaat in een andere taal dan in een van die talen werd afgegeven, en legt zijn certificaat en, in voorkomend geval, de vertaling ervan voor aan&nbsp;de bevoegde afdeling, bij de melding van het gebruik van de erkenning.<br>
+De erkenning, vermeld in het eerste lid, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan&nbsp;dde bevoegde afdeling en de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan&nbsp;de bevoegde afdeling. De persoon of het bedrijf, vermeld in het eerste lid, 7°, b), 8°, b), 9°, b), 10°, b), 11°, b), 12°, b), en 13°, beschikt over een vertaling van zijn certificaat naar het Nederlands, Frans, Duits of Engels als het certificaat in een andere taal dan in een van die talen werd afgegeven, en legt zijn certificaat en, in voorkomend geval, de vertaling ervan voor aan&nbsp;de bevoegde afdeling, bij de melding van het gebruik van de erkenning.<br>
 <br>
 De erkenning, vermeld in het eerste lid, 14°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan de bevoegde afdeling, de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan de afdeling, bevoegd voor milieuvergunningen, en de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan&nbsp;de bevoegde afdeling.<br>
 <br>
@@ -705,7 +703,9 @@ De erkende persoon stelt aan de bevoegde afdeling alle inlichtingen en documente
 <br>
 § 8. De erkende persoon verleent zijn medewerking aan periodieke evaluaties die door de bevoegde afdeling worden opgezet.<br>
 <br>
-§ 9. De erkende persoon legt&nbsp;jaarlijks en dit ten laatste op 31 mei van het betreffende jaar&nbsp;een bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, voor aan de bevoegde afdeling.
+§ 9. De erkende persoon legt&nbsp;jaarlijks en dit ten laatste op 31 mei van het betreffende jaar&nbsp;een bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, voor aan de bevoegde afdeling.<br>
+<br>
+§ 10. De erkende natuurlijke persoon toont op verzoek van de klant een geldig identiteitsbewijs.
 
 ## Afdeling 3 Bijzondere gebruikseisen
 
@@ -823,17 +823,17 @@ Als het certificaat van bekwaamheid, vermeld in artikel 14, 2°, artikel 15, 2°
 ### ART 40/1.
 
 De erkende koeltechnicus, vermeld in artikel 6, 2°, e) :<br>
-1° die in het bezit is van een certificaat van categorie I, II, III of IV mag de volgende werkzaamheden uitvoeren aan stationaire koelinstallaties met zowel gefluoreerde broeikasgassen als ozonlaagafbrekende stoffen of aan koeleenheden op koelwagens en koelaanhangwagens die gefluoreerde broeikasgassen bevatten&nbsp;:<br>
+1° die in het bezit is van een certificaat van categorie I, II, III of IV mag de volgende werkzaamheden uitvoeren aan stationaire koelinstallaties&nbsp;of warmtepompen met zowel gefluoreerde broeikasgassen als ozonlaagafbrekende stoffen of aan koeleenheden op koelwagens en koelaanhangwagens die gefluoreerde broeikasgassen bevatten&nbsp;:<br>
 a) in geval van categorie I : de werkzaamheden, vermeld in artikel 3, lid 2, a), van verordening nr. 2015/2067;<br>
 b) in geval van categorie II : de werkzaamheden, vermeld in artikel 3, lid 2, b), van verordening nr. 2015/2067;<br>
 c) in geval van categorie III : de werkzaamheden, vermeld in artikel 3, lid 2, c), van verordening nr. 2015/2067;<br>
 d) in geval van categorie IV : de werkzaamheden, vermeld in artikel 3, lid 2, d), van verordening nr. 2015/2067;<br>
-2° bezorgt een afschrift van de volgende registraties aan de eigenaar of beheerder van de stationaire koelinstallatie die gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen bevat en noteert ze, als dat van toepassing is, in het installatiegebonden logboek :<br>
-a) bij de initiële installatie of een aanpassing van de koelinstallatie waardoor de nominale koelmiddelinhoud of het type koelmiddel wijzigt :<br>
+2° bezorgt een afschrift van de volgende registraties aan de eigenaar of beheerder van de stationaire koelinstallatie of de warmtepomp die gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen bevat en noteert ze, als dat van toepassing is, in het installatiegebonden logboek :<br>
+a) bij de initiële installatie of een aanpassing van de installatie waardoor de nominale koelmiddelinhoud of het type koelmiddel wijzigt :<br>
 1) de nominale koelmiddelinhoud, uitgedrukt in metrische eenheid, en, in geval van gefluoreerde broeikasgassen, eveneens in ton CO2-equivalent;<br>
 2) het type koelmiddel;<br>
 3) indien bij de installatie gerecycleerde of geregenereerde gefluoreerde broeikasgassen gebruikt worden : de vermelding hiervan en de naam en het adres van het recyclage- of regeneratiebedrijf;<br>
-4) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de initiële installatie of de aanpassing van de koelinstallatie uitgevoerd heeft;<br>
+4) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de initiële installatie of de aanpassing van de installatie uitgevoerd heeft;<br>
 5) de naam en het erkenningsnummer van het koeltechnisch bedrijf waar de technicus werkt;<br>
 b) als gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen werden bijgevuld of afgetapt :<br>
 1) het type koelmiddel;<br>
@@ -842,12 +842,12 @@ b) als gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen werden bijgevul
 4) de reden van bijvulling of aftapping;<br>
 5) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de bijvulling of aftapping uitgevoerd heeft;<br>
 6) als dat van toepassing is : de naam en het erkenningsnummer van het koeltechnisch bedrijf waar de technicus werkt;<br>
-7) na elke bijvulling voor een koelinstallatie als vermeld in artikel 5.16.3.3, § 5, van titel II van het VLAREM : het relatief lekverlies;<br>
+7) na elke bijvulling voor een installatie als vermeld in artikel 5.16.3.3, § 5, van titel II van het VLAREM : het relatief lekverlies;<br>
 c) als lekkagecontroles als vermeld in artikel 4 van verordening nr. 517/2014 of artikel 23 van verordening nr. 1005/2009 uitgevoerd worden :<br>
 1) de datum van de lekkagecontrole;<br>
 2) een beschrijving en de resultaten van de uitgevoerde controles;<br>
 3) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de lekkagecontrole uitgevoerd heeft;<br>
-d) de nominale koelmiddelinhoud van de koelinstallatie, uitgedrukt in metrische eenheid, en, in geval van gefluoreerde broeikasgassen, eveneens in ton CO2-equivalent, als die niet gekend is;<br>
+d) de nominale koelmiddelinhoud van de installatie, uitgedrukt in metrische eenheid, en, in geval van gefluoreerde broeikasgassen, eveneens in ton CO2-equivalent, als die niet gekend is;<br>
 e) bij een buitendienststelling :<br>
 1) de datum van de buitendienststelling;<br>
 2) de maatregelen die genomen zijn om de gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen terug te winnen en te verwijderen;<br>
@@ -952,7 +952,8 @@ c) voor de overgangscursussen van het tweede niveau naar het eerste niveau : het
 4° brengt de bevoegde afdeling, minstens één maand vooraf op de hoogte van de datum van de examens en van de bespreking van de eindwerken. Een lijst met de vermelding van de titels van de eindwerken wordt gelijktijdig met de lijst van voormelde data aan de bevoegde afdeling bezorgd.&nbsp;De bevoegde afdeling kan zetelen in de examen- of eindwerkjury;&nbsp;<br>
 5° stelt ten minste tweemaal per jaar een verslag op over de inhoudelijke werking van de opvolgingscommissie die waakt over de organisatie en de programma-inhoud van de cursussen. Dit verslag omvat minimaal een beschrijving van de vergadering en activiteiten, en wordt aan&nbsp;de bevoegde afdeling bezorgd;&nbsp;<br>
 6° nodigt de bevoegde afdeling uit op elke vergadering van de opvolgingscommissie. Het afdelingshoofd van&nbsp;de bevoegde afdeling of zijn afgevaardigde maken van rechtswege deel uit van de opvolgingscommissie;<br>
-7° moet, als daarom wordt verzocht door&nbsp;de bevoegde afdeling,&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen en examens bij te wonen.
+7° moet, als daarom wordt verzocht door&nbsp;de bevoegde afdeling,&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen en examens bij te wonen;<br>
+8° verifieert de identiteit van de deelnemer bij het examen aan de hand van een geldig identiteitsbewijs.
 
 ### ART. 43.
 
@@ -971,11 +972,15 @@ Een persoon is geslaagd voor het examen als hij voldoet aan de volgende voorwaar
 1° voor het schriftelijke theoretische deel, de praktische proef, het mondelinge theoretische deel en het onderdeel over de kennis van de Vlaamse wetgeving en de daarin opgenomen terminologie telkens minstens vijftig procent van de punten behalen en voor die vier onderdelen in totaal minstens zestig procent van de punten behalen;<br>
 2° voor de proef over de verwarmingsaudit minstens zestig procent van de punten behalen.<br>
 <br>
+Het erkende opleidingscentrum verifieert de identiteit van de deelnemer bij het examen aan de hand van een geldig identiteitsbewijs.<br>
+<br>
 § 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid of, in voorkomend geval, van bijscholing inzake vloeibare brandstof uit nadat een persoon de opleiding of, in voorkomend geval, de bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in paragraaf 1.<br>
 <br>
-Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt bezorgd aan de bevoegde afdeling.<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling.Een kopie van het uitgereikte certificaat wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
 <br>
-§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de bevoegde afdeling. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+Het erkende opleidingscentrum, vermeld in paragraaf 1, registreert binnen de maand na elk examen het certificaat via de elektronische weg die de bevoegde afdeling vastlegt, waarbij minstens de gegevens, vermeld in bijlage 15, 5° en 10°, die bij dit besluit is gevoegd, aan de bevoegde afdeling worden bezorgd.<br>
+<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, stelt binnen de maand na elk examen een verslag van de examenzitting op. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd. Het verslag wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
 <br>
 § 4. ...<br>
 <br>
@@ -1013,13 +1018,17 @@ Het bijhorende examen van de module GII bestaat uit drie onderdelen :<br>
 <br>
 Een persoon is geslaagd voor het examen module GII als hij voor ieder onderdeel minstens vijftig procent van de punten behaalt en in totaal minstens zestig procent van de punten behaalt.<br>
 <br>
+Het erkende opleidingscentrum verifieert de identiteit van de deelnemer bij het examen aan de hand van een geldig identiteitsbewijs.<br>
+<br>
 §2. Het erkende opleidingscentrum, vermeld in paragraaf 1, past de volgende voorwaarde voor toelating tot het bijhorende examen van de betreffende module toe : aan het examen met betrekking tot de uitbreidingsmodule GII over gasketels met ventilatorbrander kan alleen deelgenomen worden door een technicus met een certificaat van bekwaamheid inzake gasvormige brandstof niveau GI, die geslaagd is voor een voorafgaande test over elektriciteit.<br>
 <br>
 § 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen&nbsp;een certificaat van bekwaamheid of, in voorkomend geval, van bijscholing inzake gasvormige brandstof uit nadat een persoon de opleiding of, in voorkomend geval, de bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in paragraaf 1.<br>
 <br>
-Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt bezorgd aan de bevoegde afdeling.<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
 <br>
-§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de bevoegde afdeling. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+Het erkende opleidingscentrum, vermeld in paragraaf 1, registreert binnen de maand na elk examen het certificaat via de elektronische weg die de bevoegde afdeling vastlegt, waarbij minstens de gegevens, vermeld in bijlage 15, 5° en 10°, die bij dit besluit is gevoegd, aan de bevoegde afdeling worden bezorgd.<br>
+<br>
+§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, stelt binnen de maand na elk examen een verslag van de examenzitting op. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd. Het verslag wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
 <br>
 § 5. ...<br>
 <br>
@@ -1043,11 +1052,15 @@ De proef over de verwarmingsaudit bestaat uit het beoordelen van het rendement e
 <br>
 Een persoon is geslaagd voor het examen als hij in totaal minstens zestig procent van de punten behaalt.<br>
 <br>
+Het erkende opleidingscentrum verifieert de identiteit van de deelnemer bij het examen aan de hand van een geldig identiteitsbewijs.<br>
+<br>
 § 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid of, in voorkomend geval, van bijscholing inzake de verwarmingsaudit uit nadat een persoon de opleiding of, in voorkomend geval, de bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in paragraaf 1.<br>
 <br>
-Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt bezorgd aan de bevoegde afdeling.<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
 <br>
-§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de bevoegde afdeling. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+Het erkende opleidingscentrum, vermeld in paragraaf 1, registreert binnen de maand na elk examen het certificaat via de elektronische weg die de bevoegde afdeling vastlegt, waarbij minstens de gegevens, vermeld in bijlage 15, 5° en 10°, die bij dit besluit is gevoegd, aan de bevoegde afdeling worden bezorgd.<br>
+<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, stelt binnen de maand na elk examen een verslag van de examenzitting op. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd. Het verslag wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
 <br>
 § 4. ...<br>
 <br>
@@ -1073,11 +1086,15 @@ De praktische proef wordt afgesloten met het invullen van het bijhorende certifi
 <br>
 Een persoon is geslaagd voor het examen als hij voor ieder onderdeel minstens vijftig procent van de punten behaalt en in totaal minstens zestig procent van de punten behaalt.<br>
 <br>
+Het erkende opleidingscentrum verifieert de identiteit van de deelnemer bij het examen aan de hand van een geldig identiteitsbewijs.<br>
+<br>
 § 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid of, in voorkomend geval, van bijscholing inzake de controle en het onderhoud van stookolietanks uit nadat een persoon de opleiding of, in voorkomend geval, de bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in paragraaf 1.<br>
 <br>
-Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt bezorgd aan de bevoegde afdeling.<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
 <br>
-§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de bevoegde afdeling. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+Het erkende opleidingscentrum, vermeld in paragraaf 1, registreert binnen de maand na elk examen het certificaat via de elektronische weg die de bevoegde afdeling vastlegt, waarbij minstens de gegevens, vermeld in bijlage 15, 5° en 10°, die bij dit besluit is gevoegd, aan de bevoegde afdeling worden bezorgd.<br>
+<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, stelt binnen de maand na elk examen een verslag van de examenzitting op. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd. Het verslag wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
 <br>
 § 4. ...<br>
 <br>
@@ -1104,17 +1121,23 @@ Het bijhorende examen bestaat uit twee onderdelen :<br>
 <br>
 Een persoon is geslaagd voor het examen als hij voor ieder onderdeel minstens zeventig procent van de punten behaalt.<br>
 <br>
+Het erkende opleidingscentrum verifieert de identiteit van de deelnemer bij het examen aan de hand van een geldig identiteitsbewijs.<br>
+<br>
 § 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, organiseert de bijscholing met het bijhorende examen voor de keuring van airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 12 kW waarvan de inhoud van de bijscholing en de minimale duur van de bijscholing en het bijhorende examen worden vastgelegd in bijlage 12, 2°, die bij dit besluit is gevoegd.<br>
 <br>
 Het bijhorende examen bestaat uit een oefening met betrekking tot de keuring, vermeld in artikel 5.16.3.3, § 3, 4°, van titel II van het VLAREM.<br>
 <br>
 Een persoon is geslaagd voor het examen als hij minstens zeventig procent van de punten behaalt.<br>
 <br>
+Het erkende opleidingscentrum verifieert de identiteit van de deelnemer bij het examen aan de hand van een geldig identiteitsbewijs.<br>
+<br>
 § 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid of van bijscholing inzake de keuring van airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 12 kW uit nadat een persoon de opleiding of, in voorkomend geval, de bijscholing, gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in § 1, respectievelijk § 2.<br>
 <br>
-Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt bezorgd aan de bevoegde afdeling.<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
 <br>
-§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de bevoegde afdeling. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+Het erkende opleidingscentrum, vermeld in paragraaf 1, registreert binnen de maand na elk examen het certificaat via de elektronische weg die de bevoegde afdeling vastlegt, waarbij minstens de gegevens, vermeld in bijlage 15, 5° en 10°, die bij dit besluit is gevoegd, aan de bevoegde afdeling worden bezorgd.<br>
+<br>
+§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, stelt binnen de maand na elk examen een verslag van de examenzitting op. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd. Het verslag wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
 <br>
 § 5. ....<br>
 <br>
@@ -1132,7 +1155,8 @@ Het erkende opleidingscentrum voor het verstrekken van de aanvullende vorming vo
 1° beschikt over de nodige infrastructuur om de cursist in staat te stellen de nodige kennis en bekwaamheid te verwerven voor het vervullen van de taken van de bodemsaneringsdeskundige;<br>
 2° brengt de afdeling, bevoegd voor bodembeheer, minstens één maand vooraf op de hoogte van de datum van de examens. De afdeling, bevoegd voor bodembeheer, kan zetelen in de examenjury;<br>
 3° moet, als daarom wordt verzocht door de afdeling, bevoegd voor bodembeheer,&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen en examens bij te wonen;<br>
-4° nodigt de afdeling, bevoegd voor bodembeheer, uit op elke vergadering van de opvolgingscommissie. Het afdelingshoofd van de afdeling, bevoegd voor bodembeheer, of zijn afgevaardigde maakt van rechtswege deel uit van de opvolgingscommissie. De afdeling, bevoegd voor bodembeheer, wordt ook in het bezit gesteld van het verslag van de vergadering van de opvolgingscommissie.
+4° nodigt de afdeling, bevoegd voor bodembeheer, uit op elke vergadering van de opvolgingscommissie. Het afdelingshoofd van de afdeling, bevoegd voor bodembeheer, of zijn afgevaardigde maakt van rechtswege deel uit van de opvolgingscommissie. De afdeling, bevoegd voor bodembeheer, wordt ook in het bezit gesteld van het verslag van de vergadering van de opvolgingscommissie;<br>
+5° verifieert de identiteit van de deelnemer bij het examen aan de hand van een geldig identiteitsbewijs.
 
 ### ART 43/6.
 
@@ -1148,17 +1172,23 @@ Een persoon die een certificaat van categorie III of IV wil behalen, is vrijgest
 <br>
 Een persoon is geslaagd voor het examen als hij voor ieder onderdeel minstens zestig procent van de punten behaalt.<br>
 <br>
+Het erkende opleidingscentrum verifieert de identiteit van de deelnemer bij het examen aan de hand van een geldig identiteitsbewijs.<br>
+<br>
 § 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, organiseert een actualisatie-examen voor categorie I, II, III of IV.<br>
 <br>
 Het actualisatie-examen bestaat uit een theoretisch onderdeel met betrekking tot de relevante milieuwetgeving en technologie inzake koeltechniek.<br>
 <br>
 Een persoon is geslaagd voor het actualisatie-examen als hij minstens zestig procent van de punten behaalt.<br>
 <br>
+Het erkende opleidingscentrum verifieert de identiteit van de deelnemer bij het examen aan de hand van een geldig identiteitsbewijs.<br>
+<br>
 § 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid in de koeltechniek van categorie I, II, III of IV of van het actualisatie-examen uit nadat een persoon geslaagd is voor het examen, vermeld in paragraaf 1, respectievelijk paragraaf 2.<br>
 <br>
-Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt bezorgd aan de bevoegde afdeling.<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
 <br>
-§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de bevoegde afdeling. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+Het erkende opleidingscentrum, vermeld in paragraaf 1, registreert binnen de maand na elk examen het certificaat via de elektronische weg die de bevoegde afdeling vastlegt, waarbij minstens de gegevens, vermeld in bijlage 15, 5° en 10°, die bij dit besluit is gevoegd, aan de bevoegde afdeling worden bezorgd.<br>
+<br>
+§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, stelt binnen de maand na elk examen een verslag van de examenzitting op. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd. Het verslag wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
 <br>
 § 5. ...<br>
 <br>
@@ -1182,11 +1212,15 @@ Het examen bestaat uit twee onderdelen :<br>
 <br>
 Een persoon is geslaagd voor het examen als hij voor het theoretische onderdeel minstens zestig procent van de punten behaalt en voor het praktijkonderdeel minstens zeventig procent van de punten.<br>
 <br>
+Het erkende opleidingscentrum verifieert de identiteit van de deelnemer bij het examen aan de hand van een geldig identiteitsbewijs.<br>
+<br>
 § 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid voor brandbeveiligingsapparatuur uit nadat een persoon geslaagd is voor het examen, vermeld in paragraaf 1.<br>
 <br>
-Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt bezorgd aan de bevoegde afdeling.<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
 <br>
-§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de bevoegde afdeling. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+Het erkende opleidingscentrum, vermeld in paragraaf 1, registreert binnen de maand na elk examen het certificaat via de elektronische weg die de bevoegde afdeling vastlegt, waarbij minstens de gegevens, vermeld in bijlage 15, 5° en 10°, die bij dit besluit is gevoegd, aan de bevoegde afdeling worden bezorgd.<br>
+<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, stelt binnen de maand na elk examen een verslag van de examenzitting op. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd. Het verslag wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
 <br>
 § 4. ...<br>
 <br>
@@ -1210,11 +1244,15 @@ Het examen bestaat uit twee onderdelen :<br>
 <br>
 Een persoon is geslaagd voor het examen als hij zowel voor het theoretische als het praktische onderdeel minstens zestig procent van de punten behaalt.<br>
 <br>
+Het erkende opleidingscentrum verifieert de identiteit van de deelnemer bij het examen aan de hand van een geldig identiteitsbewijs.<br>
+<br>
 § 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid voor elektrische schakelinrichtingen uit nadat een persoon geslaagd is voor het examen, vermeld in paragraaf 1.<br>
 <br>
-Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de de bevoegde afdeling. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt bezorgd aan de bevoegde afdeling.<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
 <br>
-§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de bevoegde afdeling. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+Het erkende opleidingscentrum, vermeld in paragraaf 1, registreert binnen de maand na elk examen het certificaat via de elektronische weg die de bevoegde afdeling vastlegt, waarbij minstens de gegevens, vermeld in bijlage 15, 5° en 10°, die bij dit besluit is gevoegd, aan de bevoegde afdeling worden bezorgd.<br>
+<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, stelt binnen de maand na elk examen een verslag van de examenzitting op. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd. Het verslag wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
 <br>
 § 4. ...<br>
 <br>
@@ -1238,11 +1276,15 @@ Het examen bestaat uit twee onderdelen :<br>
 <br>
 Een persoon is geslaagd voor het examen als hij zowel voor het theoretische als het praktische onderdeel minstens zestig procent van de punten behaalt.<br>
 <br>
+Het erkende opleidingscentrum verifieert de identiteit van de deelnemer bij het examen aan de hand van een geldig identiteitsbewijs.<br>
+<br>
 § 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid voor apparatuur die oplosmiddelen bevat uit nadat een persoon geslaagd is voor het examen, vermeld in paragraaf 1.<br>
 <br>
-Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt bezorgd aan de bevoegde afdeling.<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
 <br>
-§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de bevoegde afdeling. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+Het erkende opleidingscentrum, vermeld in paragraaf 1, registreert binnen de maand na elk examen het certificaat via de elektronische weg die de bevoegde afdeling vastlegt, waarbij minstens de gegevens, vermeld in bijlage 15, 5° en 10°, die bij dit besluit is gevoegd, aan de bevoegde afdeling worden bezorgd.<br>
+<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, stelt binnen de maand na elk examen een verslag van de examenzitting op. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd. Het verslag wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
 <br>
 § 4. ...<br>
 <br>
@@ -1268,11 +1310,15 @@ Het examen bestaat uit twee onderdelen :<br>
 <br>
 Een persoon is geslaagd voor het examen als hij zowel voor het theoretische als het praktische onderdeel minstens zestig procent van de punten behaalt.<br>
 <br>
+Het erkende opleidingscentrum verifieert de identiteit van de deelnemer bij het examen aan de hand van een geldig identiteitsbewijs.<br>
+<br>
 § 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen uit nadat een persoon de opleiding gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in paragraaf 1.<br>
 <br>
-Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de de bevoegde afdeling. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt bezorgd aan de bevoegde afdeling.<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
 <br>
-§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de bevoegde afdeling. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+Het erkende opleidingscentrum, vermeld in paragraaf 1, registreert binnen de maand na elk examen het certificaat via de elektronische weg die de bevoegde afdeling vastlegt, waarbij minstens de gegevens, vermeld in bijlage 15, 5° en 10°, die bij dit besluit is gevoegd, aan de bevoegde afdeling worden bezorgd.<br>
+<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, stelt binnen de maand na elk examen een verslag van de examenzitting op. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd. Het verslag wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
 <br>
 § 4. ...<br>
 <br>
@@ -1284,7 +1330,7 @@ Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit b
 <br>
 § 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door de bevoegde afdeling.<br>
 <br>
-§ 9. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt de gegevens, vermeld in punt 3° tot en met 6° van bijlage 15, die bij dit besluit is gevoegd, aan een instantie die het sectorale opleidingsbeleid ondersteunt.
+§ 9. ...
 
 ## Onderafdeling 5 Gebruikseisen voor laboratoria
 
@@ -1491,20 +1537,21 @@ b) ieder boortoestel wordt bediend door een werknemer die beschikt over een atte
 4° zorgt ervoor dat het personeel dat de werken in het kader van de erkenning uitvoert, over het meest geschikte en in goede staat verkerende materieel beschikt dat voldoet aan alle reglementaire eisen en dat noodzakelijk is voor de uitvoering van de werken waarvoor de erkenning werd verkregen;<br>
 5° zorgt ervoor dat het personeel de nodige notities neemt tijdens de werken in het kader van de erkenning en, in voorkomend geval, een volledig boorverslag als vermeld in bijlage 5.53.1 van titel II van het VLAREM, opstelt;<br>
 6° blijft op de hoogte van de recentste ontwikkelingen en wetgeving inzake de werken waarvoor de erkenning werd verkregen;<br>
-7°&nbsp; voert alleen werken uit met betrekking tot ingedeelde inrichtingen als de nodige vergunning of aktename daarvoor voorhanden is, meldt de aanvang van de werken, vermeld in artikel 5.53.5.2 en 5.55.1.3, §3, van titel II van het VLAREM voorafgaandelijk aan de bevoegde afdeling en het departement, en houdt zich strikt aan de geldende milieuvoorwaarden;<br>
+7° voert alleen werken uit met betrekking tot ingedeelde inrichtingen als de nodige vergunning of aktename daarvoor voorhanden is, meldt de start van de werken, vermeld in artikel 5.53.5.2, 5.55.1.3, § 3, 6.9.1.1, tweede lid, en 6.9.1.3, § 5, van titel II van het VLAREM, voorafgaandelijk via een webapplicatie van de Databank Ondergrond Vlaanderen aan de bevoegde afdeling en het departement, en houdt zich aan de geldende milieuvoorwaarden;<br>
 8° houdt een inventaris ter beschikking van de toezichthouders van alle werken die de laatste vijf jaar zijn uitgevoerd, met telkens de unieke code die verkregen is bij de Databank Ondergrond Vlaanderen, een boorverslag en de datum van de vergunning of aktename dan wel een verklaring dat het werken betrof voor een niet-ingedeelde inrichting;<br>
-9° bezorgt minimaal tweemaandelijks via een webapplicatie van de Databank Ondergrond Vlaanderen een inventaris van de werken die de voorbije periode zijn uitgevoerd, waarbij de boorverslagen in het formaat, vastgesteld door de Databank Ondergrond Vlaanderen, digitaal worden bezorgd.
+9° bezorgt minimaal tweemaandelijks via een webapplicatie van de Databank Ondergrond Vlaanderen een inventaris van de werken die de voorbije periode zijn uitgevoerd, waarbij de boorverslagen in het formaat, vastgesteld door de Databank Ondergrond Vlaanderen, digitaal worden bezorgd;<br>
+"10° informeert de klant voor de start van de boorwerkzaamheden schriftelijk, al dan niet digitaal, ten minste over de verplichtingen die verband houden met de geldende milieuvoorwaarden, de heffingsplicht grondwater en de heffingsplicht waterverontreiniging. Voor inrichtingen opgenomen in bijlage 1 van titel II van het VLAREM betreft het op zijn minst informatie over, wanneer dit van toepassing is, hoofdstukken 4.1, 5.53 en 5.55 van titel II van het VLAREM en hoofdstuk 2 van titel IV van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018. Voor inrichtingen die niet ingedeeld zijn, betreft het op zijn minst informatie over afdeling 6.9.1 van titel II van het VLAREM en, wanneer dit van toepassing is, hoofdstuk 2 van titel IV van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018. De minister kan nadere regels vastleggen met betrekking tot de invulling van deze informatieplicht;
 
 ### ART 53/7.
 
 Het erkende koeltechnisch bedrijf, vermeld in artikel 6, 7°, b) :<br>
-1° zorgt ervoor dat erkenningsplichtige werkzaamheden aan stationaire koelinstallaties met gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen uitgevoerd worden door personeel dat beschikt over een erkenning als koeltechnicus als vermeld in artikel 32, § 2, eerste lid, 7° ;<br>
-2° bezorgt een afschrift van de volgende registraties aan de eigenaar of beheerder van de stationaire koelinstallatie die gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen bevat en noteert dit, als dat van toepassing is, in het installatiegebonden logboek :<br>
-a) bij de initiële installatie of een aanpassing van de koelinstallatie waardoor de nominale koelmiddelinhoud of het type koelmiddel wijzigt :<br>
+1° zorgt ervoor dat erkenningsplichtige werkzaamheden aan stationaire koelinstallaties&nbsp;of warmtepompen met gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen uitgevoerd worden door personeel dat beschikt over een erkenning als koeltechnicus als vermeld in artikel 32, § 2, eerste lid, 7° ;<br>
+2° bezorgt een afschrift van de volgende registraties aan de eigenaar of beheerder van de stationaire koelinstallatie of de warmtepomp die gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen bevat en noteert dit, als dat van toepassing is, in het installatiegebonden logboek :<br>
+a) bij de initiële installatie of een aanpassing van de installatie waardoor de nominale koelmiddelinhoud of het type koelmiddel wijzigt :<br>
 1) de nominale koelmiddelinhoud, uitgedrukt in metrische eenheid, en, in geval van gefluoreerde broeikasgassen, eveneens in ton CO2-equivalent;<br>
 2) het type koelmiddel;<br>
 3) indien bij de installatie gerecycleerde of geregenereerde gefluoreerde broeikasgassen gebruikt worden : de vermelding hiervan en de naam en het adres van het recyclage- of regeneratiebedrijf;<br>
-4) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de initiële installatie of de aanpassing van de koelinstallatie uitgevoerd heeft;<br>
+4) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de initiële installatie of de aanpassing van de installatie uitgevoerd heeft;<br>
 5) de naam en het erkenningsnummer van het koeltechnisch bedrijf waar de technicus werkt;<br>
 b) als gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen werden bijgevuld of afgetapt :<br>
 1) het type koelmiddel;<br>
@@ -1513,28 +1560,28 @@ b) als gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen werden bijgevul
 4) de reden van bijvulling of aftapping;<br>
 5) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de bijvulling of aftapping uitgevoerd heeft;<br>
 6) als dat van toepassing is : de naam en het erkenningsnummer van het koeltechnisch bedrijf waar de technicus werkt;<br>
-7) na elke bijvulling voor een koelinstallatie als vermeld in artikel 5.16.3.3, § 5, van titel II van het VLAREM : het relatief lekverlies;<br>
+7) na elke bijvulling voor een installatie als vermeld in artikel 5.16.3.3, § 5, van titel II van het VLAREM : het relatief lekverlies;<br>
 c) als lekkagecontroles als vermeld in artikel 4 van verordening nr. 517/2014 of artikel 23 van verordening nr. 1005/2009 uitgevoerd worden :<br>
 1) de datum van de lekkagecontrole;<br>
 2) een beschrijving en de resultaten van de uitgevoerde controles;<br>
 3) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de lekkagecontrole uitgevoerd heeft;<br>
-d) de nominale koelmiddelinhoud van de koelinstallatie, uitgedrukt in metrische eenheid, en, in geval van gefluoreerde broeikasgassen, eveneens in ton CO2-equivalent, als die niet gekend is;<br>
+d) de nominale koelmiddelinhoud van de installatie, uitgedrukt in metrische eenheid, en, in geval van gefluoreerde broeikasgassen, eveneens in ton CO2-equivalent, als die niet gekend is;<br>
 e) bij een buitendienststelling :<br>
 1) de datum van de buitendienststelling;<br>
 2) de maatregelen die genomen zijn om de gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen terug te winnen en te verwijderen;<br>
-3) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de koelinstallatie buiten dienst gesteld heeft;<br>
+3) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de installatie buiten dienst gesteld heeft;<br>
 4) de naam en het erkenningsnummer van het koeltechnisch bedrijf waar de technicus werkt;<br>
 3° houdt de volgende zaken ten minste vijf jaar bij :<br>
-a) per exploitant en per koelinstallatie : de registraties, vermeld in punt 2° ;<br>
+a) per exploitant en per koelinstallatie&nbsp;of warmtepomp : de registraties, vermeld in punt 2° ;<br>
 b) de hoeveelheid gefluoreerde broeikasgassen die werden aangekocht met vermelding van de datum van aankoop en de naam van de leverancier;<br>
 c) de hoeveelheid gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen die werden afgevoerd met vermelding van de datum van afvoer, de naam van de vervoerder en de bestemming van die koelmiddelen;<br>
 d) de schriftelijke meldingen over het overschrijden van het maximaal relatief lekverlies als vermeld in punt 4° ;<br>
 4° gaat na iedere bijvulling na of het maximaal relatief lekverlies, vermeld in artikel 5.16.3.3, § 6,&nbsp;en artikel 6.8.1.2 van titel II van het VLAREM, niet overschreden werd. Als blijkt dat het maximaal relatief lekverlies overschreden is en maatregelen moeten worden getroffen, brengt het koeltechnisch bedrijf ten minste de eigenaar of beheerder schriftelijk op de hoogte van de vastgestelde lekkage en formuleert het een voorstel van te nemen maatregelen;<br>
 5° toont op verzoek het materiaal dat gebruikt wordt bij de uitvoering van de werkzaamheden met betrekking tot de erkenning;<br>
-6° zorgt ervoor dat de koeltechnicus gedurende de erkenningsplichtige werkzaamheden aan stationaire koelinstallaties over de nodige apparatuur, instrumenten en materialen beschikt. Die apparatuur bevat gekalibreerde meetapparatuur en ten minste het materiaal, vermeld in bijlage 21, die bij dit besluit is gevoegd;<br>
+6° zorgt ervoor dat de koeltechnicus gedurende de erkenningsplichtige werkzaamheden aan stationaire koelinstallaties&nbsp;of warmtepompen over de nodige apparatuur, instrumenten en materialen beschikt. Die apparatuur bevat gekalibreerde meetapparatuur en ten minste het materiaal, vermeld in bijlage 21, die bij dit besluit is gevoegd;<br>
 7° doet al het mogelijke om lekkage van gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen te voorkomen of tot een minimum te beperken;<br>
 8° doet al het nodige voor de recycling, regeneratie of vernietiging van gefluoreerde broeikasgassen als een cilinder met dat broeikasgas verwijderd moet worden;<br>
-9° licht het betrokken personeel in over nieuwe technologieën en nieuwe relevante milieuwetgeving met betrekking tot koelinstallaties;<br>
+9° licht het betrokken personeel in over nieuwe technologieën en nieuwe relevante milieuwetgeving met betrekking tot koelinstallaties en warmtepompen;<br>
 10° beschikt over een vertaling van zijn certificaat naar het Nederlands, Frans, Duits of Engels als het certificaat in een andere taal dan in een van die talen werd afgegeven.
 
 ### ART 53/8.
@@ -1607,6 +1654,10 @@ De erkende keuringsinstelling, vermeld in artikel 6, 8° :<br>
 § 4. Als de erkenning volledig of gedeeltelijk wordt geschorst of opgeheven, betekent de bevoegde afdeling de beslissing met een aangetekende brief aan de persoon in kwestie.<br>
 <br>
 § 5. Als de procedure tot volledige of gedeeltelijke schorsing of opheffing van de erkenning wordt stopgezet, wordt de erkende persoon daarvan op de hoogte gebracht.<br>
+<br>
+§ 6. Bij een schorsing of opheffing van de erkenning als koeltechnicus als vermeld in artikel 6, 2°, e), technicus voor brandbeveiligingsapparatuur als vermeld in artikel 6, 2°, f), technicus voor elektrische schakelinrichtingen als vermeld in artikel 6, 2°, g), of technicus voor apparatuur die oplosmiddelen bevat als vermeld in artikel 6, 2°, h), wordt ook het certificaat van bekwaamheid, uitgereikt door een opleidingscentrum als vermeld in artikel 6, 4°, h) tot en met k), van rechtswege geschorst, respectievelijk opgeheven.<br>
+<br>
+Bij een schorsing of opheffing van de erkenning als koeltechnisch bedrijf als vermeld in artikel 6, 7°, b), of bedrijf voor brandbeveiligingsapparatuur als vermeld in artikel 6, 7°, c), wordt ook het certificaat, uitgereikt door een keuringsinstelling als vermeld in artikel 6, 8°, of de leidinggevende ambtenaar van het agentschap of het departement waartoe de bevoegde afdeling behoort of zijn afgevaardigde, van rechtswege geschorst, respectievelijk opgeheven.<br>
 &nbsp;
 
 ## [HOOFDSTUK 9/1 Retributie (ing. BVR 1 maart 2013, art. 129, I: 3 mei 2013)]
@@ -1695,6 +1746,20 @@ In het geval, vermeld in het eerste lid, moet de koeltechnicus slagen voor het a
 
 ## [HOOFDSTUK 11/1. Verwerking van persoonsgegevens (ing. BVR 24 juni 2022, art. 72, I: 26 november 2022)]
 
+### ART 56/1.
+
+§ 1. De bevoegde afdeling verwerkt de persoonsgegevens die ze ontvangt volgens artikel 27, § 2, artikel 32, artikel 34, § 5, artikel 43, § 2, artikel 43/1, § 3, artikel 43/2, § 2, artikel 43/3, § 2, artikel 43/4, § 3, artikel 43/6, § 3, artikel 43/7, § 2, artikel 43/8, § 2, artikel 43/9, § 2, artikel 43/10, § 2, artikel 53/9, 4°, of artikel 58/3, § 1, voor de volgende doeleinden:<br>
+1° in het geval van een natuurlijk persoon: de identificatie van een gecertificeerd of erkend persoon, of een geregistreerd monsternemer;<br>
+2° in het geval van een rechtspersoon: de identificatie van de zaakvoerder en andere personen die van belang zijn voor de erkenning van de rechtspersoon;<br>
+3° de opvolging van de algemene en bijzondere erkenningsvoorwaarden en gebruikseisen;<br>
+4° een controle of sanctie volgens dit besluit of het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
+5° de betaling van de retributie als vermeld in artikel 54/1;<br>
+6° de publicatie van de lijsten met erkende personen als vermeld in artikel 56 of geregistreerde monsternemers als vermeld in artikel 58/3.<br>
+<br>
+De bevoegde afdeling bezorgt voor de technici, vermeld in artikel 6, 2°, i), het erkenningsnummer, de startdatum van de erkenning en de gegevens, vermeld in bijlage 15, 10°, die bij dit besluit is gevoegd, en vermeld in bijlage 19, 1°, a) en c), die bij dit besluit is gevoegd, aan een instantie die het sectorale opleidingsbeleid ondersteunt.<br>
+<br>
+§ 2. De entiteit waartoe de bevoegde afdeling behoort, is voor de ontvangen persoonsgegevens als vermeld in paragraaf 1 de verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG, uitgezonderd voor de registratie als monsternemer in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid waarvoor de Mestbank voor de verzameling en beoordeling de verwerkingsverantwoordelijke is en het departement voor de overige verwerkingen de verwerkingsverantwoordelijke is.
+
 ## HOOFDSTUK 12 Bijzondere bepaling over tijdelijke en incidentele uitoefening van diensten
 
 ### ART. 57.
@@ -1719,9 +1784,9 @@ Een willekeurige selectie van ten minste een statistisch relevant percentage van
 <br>
 Een willekeurige selectie van ten minste een statistisch relevant percentage van alle keuringsverslagen die jaarlijks worden verstrekt, wordt aan een controle onderworpen.<br>
 &nbsp;
-<p style="text-align: justify;">§3.&nbsp;de bevoegde afdeling kan een stookolietank die door een erkende stookolietechnicus gecontroleerd, onderhouden of buiten gebruik gesteld is als vermeld in afdeling 5.17.2, 5.17.3, 6.5.4 en 6.5.5 van titel II van het VLAREM, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de bevoegde afdeling.<br>
+<p style="text-align:justify">§3.&nbsp;de bevoegde afdeling kan een stookolietank die door een erkende stookolietechnicus gecontroleerd, onderhouden of buiten gebruik gesteld is als vermeld in afdeling 5.17.2, 5.17.3, 6.5.4 en 6.5.5 van titel II van het VLAREM, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de bevoegde afdeling.<br>
 <br>
-§ 4.&nbsp;de bevoegde afdeling kan een koelinstallatie&nbsp;of een koeleenheid op koelwagens en koelaanhangwagens die door een erkende koeltechnicus of een erkend koeltechnisch bedrijf geïnstalleerd, onderhouden, gerepareerd of buiten dienst gesteld werd, die door een erkende koeltechnicus gecontroleerd werd op lekkage of waaruit gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen werden teruggewonnen door een erkende koeltechnicus als vermeld in&nbsp;artikel 4.4.8.4, artikel 5.2.2.5.2, § 9, artikel 5.16.3.3, § 1bis,&nbsp;artikel 6.8.1.1 of artikel 6.8.6.1 van titel II van het VLAREM, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de bevoegde afdeling. Bovendien kan&nbsp;de bevoegde afdeling het gebruik van de erkenning als koeltechnicus of als koeltechnisch bedrijf onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de bevoegde afdeling.</p>
+§ 4.&nbsp;de bevoegde afdeling kan een koelinstallatie, een warmtepomp&nbsp;of een koeleenheid op koelwagens en koelaanhangwagens die door een erkende koeltechnicus of een erkend koeltechnisch bedrijf geïnstalleerd, onderhouden, gerepareerd of buiten dienst gesteld werd, die door een erkende koeltechnicus gecontroleerd werd op lekkage of waaruit gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen werden teruggewonnen door een erkende koeltechnicus als vermeld in&nbsp;artikel 4.4.8.4, artikel 5.2.2.5.2, § 9, artikel 5.16.3.3, § 1bis,&nbsp;artikel 6.8.1.1 of artikel 6.8.6.1 van titel II van het VLAREM, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de bevoegde afdeling. Bovendien kan&nbsp;de bevoegde afdeling het gebruik van de erkenning als koeltechnicus of als koeltechnisch bedrijf onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de bevoegde afdeling.</p>
 
 ## [HOOFDSTUK 13/2 Keuringsinstelling (ing. BVR 1 maart 2013, art. 133, I: 3 mei 2013)]
 
@@ -2848,7 +2913,7 @@ De overgangscursussen van het tweede niveau naar het eerste niveau zijn zo opgev
 
 <p style="text-align:justify">W.1.4 staalname van water uit peilbuizen:<br>
 <br>
-W.1.4.1 met ondiepe &lt;30 m) waterstand<br>
+W.1.4.1 met ondiepe (&lt;30 m) waterstand<br>
 <br>
 W.1.4.2 met diepe (≥ 30 m) waterstand<br>
 <br>
@@ -2972,7 +3037,7 @@ W.4.2.13 cerium inclusief ceriumdioxide</p>
 
 <p style="text-align:justify">W.5.19 kleur van afvalwater</p>
 
-<p style="text-align:justify">.6 organische groepsparameters :<br>
+<p style="text-align:justify">W. 6 organische groepsparameters :<br>
 W.6.1 extraheerbare organische halogeenverbindingen (EOX)<br>
 W.6.2 adsorbeerbare organische halogeenverbindingen (AOX)<br>
 W.6.3 purgeerbare organische halogeenverbindingen (POX)<br>
@@ -3042,7 +3107,9 @@ W.7.20 ftalaten</p>
 
 <p style="text-align:justify">W.9.2.1 acute toxiciteit voor watervlooien</p>
 
-<p style="text-align:justify">W.9.2.2 acute toxiciteit voor vissen</p>
+<p style="text-align:justify">W.9.2.2 acute toxiciteit voor vissen:<br>
+W.9.2.2.1 test met regenboogforel Oncorhynchus mykiss<br>
+W.9.2.2.2 test met embryo's van zebravis Danio rerio</p>
 
 <p style="text-align:justify">W.9.2.3 groei-inhibitie voor eencellige algen</p>
 
@@ -3331,7 +3398,7 @@ L.22 bepaling van het geurverwijderingsrendement van gaswassers en biofilters bi
 
 <p style="text-align:justify">&nbsp;</p>
 
-<p style="text-align:justify">4° lijst met pakketten voor een laboratorium als vermeld in artikel 6, 5°, d):</p>
+<p style="text-align:justify"><u>4° lijst met pakketten voor een laboratorium als vermeld in artikel 6, 5°, d):</u></p>
 
 <p style="text-align:justify">&nbsp;</p>
 
@@ -3432,32 +3499,27 @@ A.2.1 gebruik als meststof/bodemverbeterend middel - anorganische parameters :<b
 zuurtegraad, droogrest/vocht, organische stof, totale stikstof, difosforpentoxide, nitraatstikstof en ammoniakale stikstof, geleidbaarheid<br>
 metalen (totaalconcentratie) :<br>
 arseen, cadmium, chroom, koper, kwik, lood, nikkel en zink<br>
-A.2.2 gebruik als meststof/bodemverbeterend middel - organische parameters :<br>
-BTEXS : benzeen, tolueen, ethylbenzeen, som xylenen en styreen<br>
-alkanen : hexaan, heptaan en octaan<br>
-chloorkoolwaterstoffen :<br>
-monochloorbenzeen, 1,2-dichloorbenzeen, 1,3-dichloorbenzeen, 1,4-dichloorbenzeen, som trichloorbenzenen, som tetrachloorbenzenen, pentachloorbenzeen en hexachloorbenzeen, 1,2-dichloorethaan, dichloormethaan, trichloormethaan, trichlooretheen, tetrachloormethaan, tetrachlooretheen, vinylchloride, 1, 1, 1-trichloorethaan, 1, 1,2-trichloorethaan, 1, 1-dichloorethaan, cis+trans-1,2-dichlooretheen<br>
-polycyclische aromatische koolwaterstoffen (PAK) : naftaleen, benzo(a)pyreen, fenantreen, fluoranteen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(ghi)peryleen, indeno(1,2,3-cd)pyreen<br>
-minerale olie<br>
-polychloorbifenylen (PCB) :<br>
-PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180<br>
+A.2.2 gebruik als meststof/bodemverbeterend middel - organische parameters:<br>
+chloorkoolwaterstoffen: som van 1,2,3,5-tetrachloorbenzeen en 1,2,4,5-tetrachloorbenzeen, 1,2,3,4-tetrachloorbenzeen, pentachloorbenzeen en hexachloorbenzeen<br>
+polycyclische aromatische koolwaterstoffen (PAK): naftaleen, benzo(a)pyreen, fenantreen, fluoranteen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(ghi)peryleen, indeno(1,2,3-cd)pyreen, acenafteen, acenaftyleen, antraceen, dibenzo(a,h)antraceen, fluoreen, pyreen<br>
+minerale olie: fractie C10-C20 en fractie C20-C40<br>
+polychloorbifenylen (PCB): PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180<br>
 A.2.3 gebruik als meststof/bodemverbeterend middel - specifieke parameters :<br>
 steentjes, groter dan 5 mm<br>
 graad van verontreiniging (glas, metaal, kunststoffen) groter dan 2 mm<br>
 kiem krachtige zaden<br>
-fytotoxiciteit<br>
 rijpheidsgraad<br>
 stabiliteit met gesloten respirometer<br>
 A.3 gebruik als bouwstof<br>
-A.3.1 gebruik als niet-vormgegeven bouwstof :<br>
+A.3.1 gebruik als niet-vormgegeven bouwstof:<br>
 droogrest<br>
-metalen (totaalconcentratie en uitloogbare fractie via de kolomtest) :<br>
-arseen, cadmium, chroom, koper, kwik, lood, nikkel en zink<br>
-BTEXS : benzeen, tolueen, ethylbenzeen, som xylenen en styreen<br>
-alkanen : hexaan, heptaan en octaan<br>
-polycyclische aromatische koolwaterstoffen (PAK) :naftaleen, benzo(a)pyreen, fenantreen, fluoranteen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(ghi)peryleen, indeno(1,2,3-cd)pyreen<br>
+metalen (totaalconcentratie en uitloogbare fractie via de kolomtest): arseen, cadmium, chroom, koper, kwik, lood, nikkel en zink<br>
+cyaniden: vrije cyaniden, niet-chlooroxideerbare cyaniden<br>
+BTEXS: benzeen, tolueen, ethylbenzeen, xyleen en styreen<br>
+alkanen: hexaan, heptaan en octaan<br>
+polycyclische aromatische koolwaterstoffen (PAK): naftaleen, benzo(a)pyreen, fenantreen, fluoranteen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(ghi)peryleen, indeno(1,2,3-cd)pyreen<br>
 minerale olie<br>
-polychloorbifenylen (PCB) : PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180<br>
+polychloorbifenylen (PCB): PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180<br>
 A.3.2 gebruik als vormgegeven bouwstof :<br>
 Dit pakket is een uitbreiding van het volledige pakket A.3.1.<br>
 metalen (uitloogbare fractie met maximale beschikbaarheidstest en via de standtest) : arseen, cadmium, chroom, koper, kwik, lood, nikkel en zink<br>
@@ -3639,8 +3701,7 @@ N-ethylperfluoroctaansulfonamidoazijnzuur (EtPFOSAA);<br>
 8:2 fluortelomeerfosfaat diester (8:2 diPAP);<br>
 hexafluorpropyleenoxidedimeerzuur (HFPO-DA);<br>
 4,8-dioxa-3H-perfluornonaanzuur (ADONA);<br>
-perfluor-4-ethylcyclohexaansulfonzuur (PFECHS)<br>
-&nbsp;</p>
+perfluor-4-ethylcyclohexaansulfonzuur (PFECHS)</p>
 
 ## BIJLAGE 4 [Erkenning milieudeskundigen houders voor gassen of gevaarlijke stoffen - (deel)domeinen (verv. BVR 16 mei 2014, art. 625, I: 4 oktober 2014)]
 
@@ -4313,13 +4374,13 @@ Enig artikel. Het niet-voldoen aan de hiernavolgende wettelijke verplichtingen, 
 
 ### BIJLAGE 14.
 
-<p style="text-align: justify;">1° de naam, het adres, het telefoonnummer en het e-mailadres van het opleidingscentrum;<br>
+<p style="text-align:justify">1° de naam, het adres, het telefoonnummer en het e-mailadres van het opleidingscentrum;<br>
 2° het erkenningsnummer dat is toegekend door de Vlaamse overheid aan het opleidingscentrum;<br>
 3° het logo van het opleidingscentrum;<br>
 4° de voor- en achternaam en de geboortedatum&nbsp;van de geslaagde persoon;<br>
-5° de voor- en achternaam en de handtekening van alle juryleden en van de directeur van het erkende opleidingscentrum en de handtekening van de geslaagde persoon;<br>
-6° in geval van een bijscholing of actualisatie-examen : de datum van de bijscholing of het actualisatie-examen;<br>
-7° in geval van een opleiding of examen : als een persoon voldoet aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 13/1, 14, 15, 16, 17, 17/1, 17/2, 17/3, 17/4 of 17/5 : het erkenningsnummer dat toegekend wordt aan de geslaagde persoon en de aanvangsdatum van de erkenning;<br>
+5° de voor- en achternaam en de handtekening van de voorzitter van de examenjury;<br>
+6° de afgiftedatum;<br>
+7° ...;<br>
 8° in geval van een koeltechnicus als vermeld in artikel 6, 2°, e) : het certificaatnummer, de categorie van certificaat en de activiteiten die de certificaathouder op grond daarvan mag uitvoeren;<br>
 9° in geval van een technicus als vermeld in artikel 6, 2°, f) tot en met i): het certificaatnummer en de activiteiten die de certificaathouder mag verrichten.</p>
 
@@ -4327,16 +4388,17 @@ Enig artikel. Het niet-voldoen aan de hiernavolgende wettelijke verplichtingen, 
 
 ### BIJLAGE 15.
 
-<p style="text-align: justify;">1° de datum van het afgelegde examen;<br>
+<p style="text-align:justify">1° de datum van het afgelegde examen;<br>
 2° een lijst van de aanwezige examenjuryleden, met vermelding van de voorzitter van de examenjury;<br>
 3° een aanwezigheidslijst van alle kandidaten, met hun handtekeningen;<br>
 4° voor elke kandidaat, de vermelding van de behaalde percentages per onderdeel van het examen en, in voorkomend geval, het totaalpercentage;<br>
-5° de voor- en achternaam, de geboortedatum en -plaats, het rijksregisternummer, het adres, het telefoonnummer en het e-mailadres van de kandidaat;<br>
-6° de naam, het adres, het telefoonnummer en het e-mailadres van de werkgever van de geslaagde kandidaat;<br>
+5° de voor- en achternaam en het rijksregisternummer of het BIS-nummer als men niet over een rijksregisternummer beschikt;<br>
+6° ...;<br>
 7° in voorkomend geval, onregelmatigheden of bijzonderheden over het examen;<br>
-8° in geval van een bijscholing of actualisatie-examen : de datum van de bijscholing of het actualisatie-examen;<br>
-9° in geval van een opleiding of examen : als een persoon voldoet aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 13/1, 14, 15, 16, 17, 17/1, 17/2, 17/3, 17/4 of 17/5 : het erkenningsnummer dat toegekend wordt aan de geslaagde persoon en de aanvangsdatum van de erkenning;<br>
-10° in geval van een koeltechnicus als vermeld in artikel 6, 2°, e) : de categorie van certificaat.</p>
+8° ...;<br>
+9° ...;<br>
+10° het type van certificaat en de afgiftedatum van het certificaat;<br>
+11° in geval van een technicus als vermeld in artikel 6, 2°, e) tot en met i): het certificaatnummer.</p>
 
 ## [BIJLAGE 16 Inhoud van de algemene opleiding en bijscholing, vermeld in [artikel 25/3, 1°, b),] en artikel 53/6, 2° en 3° (ing. BVR 1 maart 2013, art. 180)]
 
@@ -4760,20 +4822,20 @@ B. Retributie voor de uitoefening van het toezicht op de erkenning<br>
 
 ### BIJLAGE 19
 
-Identificatiegegevens als vermeld in artikel 27, § 2, 1°, a), artikel 32 en artikel 58/3, § 1<br>
+Identificatiegegevens als vermeld in artikel 27, § 2, 1°, a), artikel 32, artikel 56/1, § 1 en artikel 58/3, § 1<br>
 <br>
 1° in geval van een natuurlijke persoon :<br>
 a) de voor- en achternaam;<br>
-b) het privéadres;<br>
-c) het rijksregisternummer of de geboortedatum en -plaats als men niet over een rijksregisternummer beschikt;<br>
-d) in voorkomend geval, de naam, de rechtsvorm, het ondernemingsnummer en het adres van de werkgever;<br>
+b) ...;<br>
+c) het rijksregisternummer of het BIS-nummer als men niet over een rijksregisternummer beschikt;<br>
+d) in voorkomend geval, de naam, de rechtsvorm, het ondernemingsnummer&nbsp;of het btw-nummer als men niet over een ondernemingsnummer beschikt en het adres van de werkgever;<br>
 e) de contactgegevens van de aanvrager;<br>
 f) als de erkenningsaanvraag uitgaat van een natuurlijke persoon die een zelfstandig beroep uitoefent : het ondernemingsnummer;<br>
 2° in geval van een rechtspersoon :<br>
 a) de naam;<br>
 b) de rechtsvorm van de rechtspersoon die de aanvraag indient of namens wie ze wordt ingediend;<br>
 c) het adres van de maatschappelijke zetel;<br>
-d) het ondernemingsnummer;<br>
+d) het ondernemingsnummer of het btw-nummer als de rechtspersoon niet over een ondernemingsnummer beschikt en in voorkomend geval het adres van de exploitatiezetel en het vestigingseenheidsnummer;<br>
 e) de identificatiegegevens van de personeelsleden en de erkenningen of beroepskwalificaties die ze bezitten;<br>
 f) de identificatiegegevens van de bestuurders.
 
@@ -5056,7 +5118,7 @@ Lijst met minimumgegevens voor het overzicht van de koeltechnische bedrijven die
 1° de naam van het bedrijf;<br>
 2° de rechtsvorm van het bedrijf;<br>
 3° het adres van de maatschappelijke zetel;<br>
-4° het ondernemingsnummer ;<br>
+4° het ondernemingsnummer of het btw-nummer als de rechtspersoon niet over een ondernemingsnummer beschikt;<br>
 5° het telefoonnummer van het bedrijf;<br>
 6° het e-mailadres van het bedrijf;<br>
 7° de voor- en achternaam van de directeur van het bedrijf;<br>
