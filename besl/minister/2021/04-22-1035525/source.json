@@ -2,16 +2,16 @@
   "codex_id": 1035525,
   "title": "Ministerieel besluit van 2021-04-22 tot bepaling van de lijst met kwaliteitsbewijzen, bepaald in artikel 4 van het besluit van de Vlaamse regering van 24 mei 2019 tot uitvoering van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035525/VolledigDocument?datum=2021-05-15",
-  "source_sha256": "34116857c289da91408985799e69c16bf63f506a6ec7c9fe03140ed2cc8153e6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035525/VolledigDocument?datum=2022-11-28",
+  "source_sha256": "de294515dd9426e3dc491340894ccba4aaf24fa3523ff307a3d056822e2cc7c3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035525&param=informatie",
-  "as_of": "2021-05-15",
+  "as_of": "2022-11-28",
   "made": "2021-04-22",
   "gazette": "2021-05-05",
   "numac": 2021041313,
   "document_start": "2021-05-15",
   "document_end": "2022-11-27",
-  "in_force": "2021-05-15",
+  "in_force": "2022-11-28",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2021-05-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-11-28; future article versions excluded; article text as the API gives it"
 }
