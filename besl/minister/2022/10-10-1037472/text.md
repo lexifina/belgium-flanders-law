@@ -36,7 +36,9 @@ m) in Westende, op 28, 29, en 30 april 2023 en op 5, 6 en 7 mei 2023.<br>
 
 ### ART 2.
 
-Met toepassing van artikel 36, 7°, van dezelfde wet wordt toestemming verleend aan de vereniging "De Belgische Mastiff vzw", Sterstraat 8 te 2310 Rijkevorsel, om demonstraties te organiseren waarbij honden als last- en trekdier gebruikt worden voor educatieve en didactische doeleinden.<br>
+Met toepassing van artikel 36, 7°, van dezelfde wet wordt toestemming verleend aan de volgende verenigingen om demonstraties te organiseren waarbij honden als last- en trekdier gebruikt worden voor educatieve en didactische doeleinden:<br>
+1°&nbsp; &nbsp; de Belgische Mastiff vzw, Sterstraat 8 te 2310 Rijkevorsel;<br>
+2°&nbsp;&nbsp; &nbsp;de Vlaamse Trekhondenvereniging “Met hond en kar”, Doornaardstraat 78, 2160 Wommelgem.<br>
 <br>
 De toestemming, vermeld in het eerste lid, is geldig voor een periode van vijf jaar vanaf de datum van de bekendmaking van dit besluit in het Belgisch Staatsblad.
 
