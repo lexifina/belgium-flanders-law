@@ -122,7 +122,7 @@ De salarissen zijn aan 100 % en volgen de evolutie van het indexcijfer van de co
 
 ### ART. 21.
 
-De regeling voor het personeel van de diensten van de Vlaamse overheid inzake gezinsbijslag, haard- of standplaatstoelage, maaltijdcheques, vakantiegeld, eindejaarstoelage en andere toelagen zijn van overeenkomstige toepassing op het personeel van de kabinetten, met uitzondering van de toelage voor het presteren van overuren en de toelage voor nacht-, zaterdag- en zondagswerk.<br>
+De regeling voor het personeel van de diensten van de Vlaamse overheid inzake gezinsbijslag, haard- of standplaatstoelage, maaltijdcheques,&nbsp;ecocheques, vakantiegeld, eindejaarstoelage en andere toelagen zijn van overeenkomstige toepassing op het personeel van de kabinetten, met uitzondering van de toelage voor het presteren van overuren en de toelage voor nacht-, zaterdag- en zondagswerk.&nbsp;In uitzondering op het voorgaande, worden aan de personeelsleden vermeld in artikel 20 de maaltijdcheques en de ecocheques alleen toegekend wanneer deze niet worden toegekend bij de instelling van herkomst. Voor de gedetacheerde personeelsleden van andere ministeries, openbare diensten of gesubsidieerde onderwijsinrichtingen, die geen maaltijdcheques of ecocheques toegekend krijgen bij de instelling van herkomst, kan de minister binnen de perken van de daartoe toegekende budgettaire middelen maaltijdcheques of ecocheques toekennen.<br>
 <br>
 Het aangestelde personeel van de kabinetten heeft recht op een aanvullend pensioen op dezelfde wijze als bepaald voor het contractuele personeel van de diensten van de Vlaamse overheid. Daarvoor wordt toegetreden tot het Vlaams Pensioenfonds, waaraan de uitvoering van dat aanvullend pensioen wordt toevertrouwd.<br>
 <br>
