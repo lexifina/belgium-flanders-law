@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037871,
+  "title": "Besluit van de Vlaamse Regering van 2022-12-09 tot toekenning van een projectsubsidie aan de OverKopnetwerken voor de uitvoering van de opdrachten inzake psycho-educatie ter ondersteuning van het jeugdwerk binnen hun werkingsgebied, en tot toekenning van een projectsubsidie aan Hogeschool West-Vlaanderen voor de uitvoering van een opdracht inzake peer support binnen de OverKophuizen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037871/VolledigDocument?datum=2022-12-01",
+  "source_sha256": "a97ca3c0df12629d33894ed07bb13a5b659d200a4f77fc24e34d6da060fe3790",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037871&param=informatie",
+  "as_of": "2022-12-01",
+  "made": "2022-12-09",
+  "gazette": "2023-02-14",
+  "numac": 2023030120,
+  "document_start": "2022-12-01",
+  "document_end": null,
+  "in_force": "2022-12-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2022-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
