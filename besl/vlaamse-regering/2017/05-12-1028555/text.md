@@ -221,6 +221,8 @@ De subsidies die voor een subsidie-eenheid, met uitzondering van de subsidie-een
 
 De voorschotten op de subsidies voor de vergunde zorgaanbieders, voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, units voor geïnterneerden en observatie-, diagnose- en behandelingsunits worden per maand betaald voor een bedrag van 8 % van de totale subsidie op jaarbasis. De personeelssubsidies worden geraamd op basis van de aan het agentschap bekendgemaakte personeelsgegevens.<br>
 <br>
+In afwijking van het eerste lid wordt voor de maand december een bedrag van 12% van de totale subsidie op jaarbasis als voorschot betaald.<br>
+<br>
 Het saldo van de subsidies wordt verrekend na de goedkeuring van het subsidiedossier, vermeld in artikel 5, binnen achttien maanden die volgen op de datum, vermeld in artikel 5.
 
 ### ART 20/2.
