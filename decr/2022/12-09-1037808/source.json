@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037808,
+  "title": "Decreet van 2022-12-09 over de toekenning van diverse subsidies aan lokale besturen als vermeld in het VIA6-akkoord",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037808/VolledigDocument?datum=2022-12-01",
+  "source_sha256": "df12c1b490aedce7ce65ca4b4ae2e8bbfa7b8fa3a67e952fff5daee51a985fdc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037808&param=informatie",
+  "as_of": "2022-12-01",
+  "made": "2022-12-09",
+  "gazette": "2022-12-28",
+  "numac": 2022043026,
+  "document_start": "2022-12-01",
+  "document_end": null,
+  "in_force": "2022-12-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2022-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
