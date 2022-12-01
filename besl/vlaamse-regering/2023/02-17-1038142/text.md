@@ -30,6 +30,13 @@ In artikel 12, § 1, eerste lid van hetzelfde besluit, ingevoegd bij het besluit
 
 ## Hoofdstuk 3. Wijzigingen van het besluit van de Vlaamse Regering van 22 februari 2013 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap
 
+### ART 6.
+
+In artikel 10 van het besluit van de Vlaamse Regering van 22 februari 2013 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap, gewijzigd bij het besluit van de Vlaamse Regering van 22 december 2017, worden de volgende wijzigingen aangebracht:<br>
+1° tussen het eerste en het tweede lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+“In afwijking van het eerste lid wordt voor de maand december een bedrag van 12% van de totale subsidie op jaarbasis als voorschot betaald.”;<br>
+2° in het bestaande derde lid, dat het vierde lid wordt, wordt het woord “tweede” vervangen door het woord “derde”.
+
 ### ART 7.
 
 In artikel 12 van hetzelfde besluit, vervangen bij het besluit van 25 mei 2018 en gewijzigd bij het besluit van de Vlaamse Regering van 5 maart 2021, worden de volgende wijzigingen aangebracht:<br>
@@ -62,9 +69,21 @@ vervangen door de rij<br>
 
 ## Hoofdstuk 6. Wijzigingen van het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders
 
+### ART 15.
+
+In artikel 12 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 8 juni 2016 wordt tussen het tweede en het derde lid een lid ingevoegd, dat luidt als volgt:<br>
+<br>
+“In afwijking van het eerste lid vervalt de beslissing over de toewijzing van het budget niet als de budgethouder binnen de termijn, vermeld in artikel 9, eerste lid, van dit besluit, of binnen de termijn van acht maanden die conform het eerste lid is vastgesteld, niet is gestart met het besteden van het budget dat gedeeltelijk ter beschikking is gesteld conform het besluit van de Vlaamse Regering van 16 september 2022 over een experiment voor de gedeeltelijke terbeschikkingstelling van budgetten voor niet-rechtstreeks toegankelijke zorg en ondersteuning aan personen met een handicap in prioriteitengroep twee.”.
+
 ## Hoofdstuk 7. Wijziging van het besluit van de Vlaamse Regering van 10 maart 2017 over persoonsvolgende middelen voor minderjarige personen met een handicap met dringende noden
 
 ## Hoofdstuk 8. Wijzigingen van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten
+
+### ART 19.
+
+In artikel 20/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 22 december 2017, wordt tussen het eerste en het tweede lid een lid gevoegd dat luit als volgt:<br>
+<br>
+“In afwijking van het eerste lid wordt voor de maand december een bedrag van 12% van de totale subsidie op jaarbasis als voorschot betaald.”
 
 ## Hoofdstuk 9. Wijziging van het besluit van de Vlaamse Regering van 8 december 2017 over de erkenning en subsidiëring van observatie-, diagnose- en behandelingsunits
 
