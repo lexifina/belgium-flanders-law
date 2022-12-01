@@ -113,7 +113,7 @@ De bedragen van de toelagen in het kader van het gezinsbeleid, en in voorkomend 
 <br>
 In afwijking van het voorgaande lid start de jaarlijkse verhoging met een index van 2 %, zoals opgenomen in het vorige lid, voor het bedrag voor het derde jongste kind en oudere kinderen, vermeld in artikel 210, § 2, tweede lid, en het bedrag van de leeftijdsbijslagen, vermeld in artikel 212, § 1 en § 2, en artikel 213, zoals die voor deze bedragen ingevolge de koppeling uit het eerste lid werden bekomen op 31 december 2019, vanaf 1 september 2025.<br>
 <br>
-In afwijking van het vierde lid wordt het basisbedrag, vermeld in artikel 13, en het bedrag voor het jongste kind en het tweede jongste kind, vermeld in artikel 210, § 2, tweede lid, waar de evolutie gekoppeld is aan de jaarlijkse verhoging met een index van 2%, zoals bepaald in het vierde lid, in 2022, 2023 en 2024 jaarlijks op 1 september verhoogd met een index van 1%.<br>
+In afwijking van het vierde lid wordt het basisbedrag, vermeld in artikel 13, en het bedrag voor het jongste kind en het tweede jongste kind, vermeld in artikel 210, § 2, tweede lid, waar de evolutie gekoppeld is aan de jaarlijkse verhoging met een index van 2%, zoals bepaald in het vierde lid,op 1 september 2022 en op 1 december 2022 verhoogd met een index van 1%.<br>
 <br>
 § 2. Als ingevolge de toepassing van paragraaf 1 de bedragen van de toelagen eindigen op een gedeelte van een cent, wordt het uit te betalen bedrag vastgesteld zonder rekening te houden met het gedeelte van een cent als dat minder dan 0,5 cent bedraagt. Als het gedeelte 0,5 cent of meer bedraagt, wordt het voor een cent gerekend.<br>
 <br>
@@ -333,9 +333,9 @@ De Vlaamse Regering kan de nadere voorwaarden bepalen waaronder de toeslag, verm
 Het basisbedrag, vermeld in artikel 13, wordt voor het rechtgevende kind verhoogd met een maandelijkse sociale toeslag als de inkomsten van het gezin van de begunstigden bepaalde grenzen niet overschrijden.<br>
 <br>
 Het bedrag van de toeslag, vermeld in het eerste lid, bedraagt:<br>
-1° 50 euro per kind voor gezinnen tot en met twee rechtgevende kinderen, waarvan de gezinsinkomsten op jaarbasis niet meer dan 30.378,60 euro bedragen;<br>
-2° 80 euro per kind voor gezinnen met meer dan twee rechtgevende kinderen, waarvan de gezinsinkomsten op jaarbasis niet meer dan&nbsp;30.378,60 euro bedragen;<br>
-3° 60 euro per kind voor gezinnen met meer dan twee rechtgevende kinderen, waarvan de gezinsinkomsten op jaarbasis tussen&nbsp;30.378,60 euro&nbsp;en 60.000 euro liggen.<br>
+1° 63,86 euro per kind voor gezinnen tot en met twee rechtgevende kinderen, waarvan de gezinsinkomsten op jaarbasis niet meer dan 30.378,60 euro bedragen;<br>
+2° 93,86 euro per kind voor gezinnen met meer dan twee rechtgevende kinderen, waarvan de gezinsinkomsten op jaarbasis niet meer dan&nbsp;30.378,60 euro bedragen;<br>
+3° 73,86 euro per kind voor gezinnen met meer dan twee rechtgevende kinderen, waarvan de gezinsinkomsten op jaarbasis tussen&nbsp;30.378,60 euro&nbsp;en 60.000 euro liggen.<br>
 <br>
 Als ten gevolge van een gelijkmatig verdeelde huisvesting de huisvesting van het rechtgevende kind gelijk is verdeeld tussen de ouders, wordt het bedrag van de toeslag gehalveerd toegekend in elk rechtgevend gezin.<br>
 <br>
@@ -2361,22 +2361,22 @@ Een rechtgevend kind dat op 31 december 2018 recht gaf op een forfaitaire bijzon
 <br>
 Een rechtgevend kind dat recht geeft op kinderbijslag als vermeld in artikel 210, § 1, of dat recht geeft op de gewone wezenbijslag, vermeld in titel 2, kan recht geven op een maandelijkse sociale toeslag als voldaan is aan de voorwaarden, vermeld in artikel 18, tweede lid, 3°, op voorwaarde dat er in het gezin van zijn bijslagtrekkende of begunstigden een derde of volgend rechtgevend kind bij komt vanaf 1 januari 2019, dat recht geeft op de gezinsbijslagen, vermeld in boek 2, deel 1, titel 3 tot en met 5.<br>
 <br>
-Het bedrag van de toeslag, vermeld in het eerste en tweede lid, stemt overeen met het bedrag van de toeslag voor langdurig werklozen, vermeld in artikel 42bis van de Algemene kinderbijslagwet, en bedraagt:<br>
-1° 46,88 euro voor het rechtgevende kind dat recht geeft op kinderbijslag van 92,09 euro;<br>
-2° 29,06 euro voor het rechtgevende kind dat recht geeft op kinderbijslag van 170,39 euro;<br>
-3° 5,10 euro voor het rechtgevende kind dat recht geeft op kinderbijslag van 254,40 euro.<br>
+Het bedrag van de toeslag, vermeld in het eerste en tweede lid, bedraagt:<br>
+1° 60,74 euro voor het rechtgevende kind dat recht geeft op kinderbijslag van 92,09 euro;<br>
+2° 42,92 euro voor het rechtgevende kind dat recht geeft op kinderbijslag van 170,39 euro;<br>
+3° 18,96 euro voor het rechtgevende kind dat recht geeft op kinderbijslag van 254,40 euro.<br>
 <br>
-§ 2. Het bedrag van de toeslag, vermeld in paragraaf 1, derde lid, 1°, wordt verhoogd tot 100,86 euro voor het betrokken rechtgevende kind, vermeld in paragraaf 1, eerste lid, als de bijslagtrekkende of de begunstigden van de kinderbijslag voor dat rechtgevende kind in aanmerking komt of komen voor de toeslag voor langdurig zieken en arbeidsongeschikten en mindervaliden, vermeld in artikel 50ter juncto artikel 56, § 2, artikel 56quinquies, § 1, en artikel 57, eerste lid, van de Algemene kinderbijslagwet.<br>
+§ 2. Het bedrag van de toeslag, vermeld in paragraaf 1, derde lid, 1°, wordt verhoogd tot 114,72 euro voor het betrokken rechtgevende kind, vermeld in paragraaf 1, eerste lid, als de bijslagtrekkende of de begunstigden van de kinderbijslag voor dat rechtgevende kind in aanmerking komt of komen voor de toeslag voor langdurig zieken en arbeidsongeschikten en mindervaliden, vermeld in artikel 50ter juncto artikel 56, § 2, artikel 56quinquies, § 1, en artikel 57, eerste lid, van de Algemene kinderbijslagwet.<br>
 <br>
 De Vlaamse Regering breidt de toepassing van het eerste lid uit tot andere personen dan de bijslagtrekkende of begunstigden, op voorwaarde dat die andere personen een gezin vormen met het rechtgevende kind.<br>
 <br>
-Het bedrag van de toeslag, vermeld in paragraaf 1, derde lid, 1°, wordt ook verhoogd tot 100,86 euro voor het betrokken rechtgevende kind, vermeld in paragraaf 1, eerste lid, als de bijslagtrekkende of begunstigde van de kinderbijslag voor dat rechtgevende kind in aanmerking komt voor een toeslag voor een persoon die een overlevingsuitkering geniet, waarbij is voldaan aan de vereiste, vermeld in artikel 56quater, vierde lid, van de Algemene kinderbijslagwet.<br>
+Het bedrag van de toeslag, vermeld in paragraaf 1, derde lid, 1°, wordt ook verhoogd tot 114,72 euro voor het betrokken rechtgevende kind, vermeld in paragraaf 1, eerste lid, als de bijslagtrekkende of begunstigde van de kinderbijslag voor dat rechtgevende kind in aanmerking komt voor een toeslag voor een persoon die een overlevingsuitkering geniet, waarbij is voldaan aan de vereiste, vermeld in artikel 56quater, vierde lid, van de Algemene kinderbijslagwet.<br>
 <br>
-Het bedrag van de toeslag, vermeld in paragraaf 1, derde lid, 1°, wordt ook verhoogd tot 100,86 euro voor het betrokken rechtgevende kind, vermeld in paragraaf 1, eerste lid, als dat kind, met toepassing van artikel 56septies van de Algemene kinderbijslagwet, op 31 december 2018 de toeslag, vermeld in artikel 50ter van de Algemene kinderbijslagwet, ontving. Het betrokken rechtgevende kind blijft recht houden op die toeslag zolang dat kind het gezin van de natuurlijke persoon die op 31 december 2018 ten minste zes maanden minstens 66 percent arbeidsongeschikt was, niet verlaat.<br>
+Het bedrag van de toeslag, vermeld in paragraaf 1, derde lid, 1°, wordt ook verhoogd tot 114,72 euro voor het betrokken rechtgevende kind, vermeld in paragraaf 1, eerste lid, als dat kind, met toepassing van artikel 56septies van de Algemene kinderbijslagwet, op 31 december 2018 de toeslag, vermeld in artikel 50ter van de Algemene kinderbijslagwet, ontving. Het betrokken rechtgevende kind blijft recht houden op die toeslag zolang dat kind het gezin van de natuurlijke persoon die op 31 december 2018 ten minste zes maanden minstens 66 percent arbeidsongeschikt was, niet verlaat.<br>
 <br>
 De Vlaamse Regering kan de nadere uitvoeringsbepalingen voor deze paragraaf vaststellen.<br>
 <br>
-§ 3. Het bedrag van de toeslag, vermeld in paragraaf 1, derde lid, 3°, wordt verhoogd tot 23,43 euro voor de betrokken kinderen, vermeld in paragraaf 1, eerste lid, als de bijslagtrekkende of begunstigde van de kinderbijslag voor die rechtgevende kinderen in aanmerking komt voor de toeslag voor eenoudergezinnen, vermeld in artikel 41 van de Algemene kinderbijslagwet.<br>
+§ 3. Het bedrag van de toeslag, vermeld in paragraaf 1, derde lid, 3°, wordt verhoogd tot 37,29 euro voor de betrokken kinderen, vermeld in paragraaf 1, eerste lid, als de bijslagtrekkende of begunstigde van de kinderbijslag voor die rechtgevende kinderen in aanmerking komt voor de toeslag voor eenoudergezinnen, vermeld in artikel 41 van de Algemene kinderbijslagwet.<br>
 <br>
 De Vlaamse Regering kan nadere uitvoeringsbepalingen voor deze paragraaf vaststellen.<br>
 <br>
