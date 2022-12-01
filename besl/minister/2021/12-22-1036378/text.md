@@ -480,13 +480,15 @@ In de periode van 1 november 2022 tot en met 31 december 2022 is het in het ICES
 
 § 1. Het is in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 125 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 november 2022 tot en met 31 december 2022 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 1 november 2022 tot en met 31 december 2022 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 Het is in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 250 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 november 2022 tot en met 31 december 2022 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 1 november 2022 tot en met 31 december 2022 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 In afwijking van het eerste, tweede, derde en vierde lid, worden de maximaal toegelaten vangsthoeveelheden verdubbeld die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische zeeschepen 2022 uitsluitend uitgerust is met de planken.<br>
+<br>
+In afwijking van het eerste, tweede, derde, vierde en vijfde lid valt, van zodra 90% van het beschikbare quotum is opgevist, voor de vissersvaartuigen van het KVS de hoeveelheid terug naar 100 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis en voor de vissersvaartuigen van het GVS de hoeveelheid terug naar 200 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis.<br>
 <br>
 § 2. Het is in het ICES-gebied VIId voor een vissersvaartuig van het KVS verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 75 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
 <br>
@@ -530,7 +532,7 @@ Het is in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor ee
 <br>
 Het is in de ICES-gebieden II, IV, Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 500 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In afwijking van het eerste en tweede lid worden de maximaal toegelaten vangsthoeveelheden verdubbeld die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische zeeschepen 2022 uitsluitend uitgerust is met de planken of met de zegen.<br>
+In afwijking van het eerste en tweede lid worden de maximaal toegelaten vangsthoeveelheden verviervoudigd die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische zeeschepen 2022 uitsluitend uitgerust is met de planken of met de zegen.<br>
 <br>
 § 6. Het totale wijtingquotum in de ICES-gebieden VIIb-k, dat gereserveerd is voor de vissersvaartuigen die volgens de Officiële lijst der Belgische zeeschepen 2022 uitgerust zijn met de planken of met de zegen, bedraagt maximaal 40% van het beschikbaar quotum voor de periode van 1 januari 2022 tot en met 31 december 2022. Bij uitputting van dat segmentsquotum, is het voor die vissersvaartuigen verboden nog wijting aan te voeren uit de ICES-gebieden VIIb-k.<br>
 <br>
