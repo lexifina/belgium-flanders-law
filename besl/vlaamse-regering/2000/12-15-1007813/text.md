@@ -136,7 +136,7 @@ Het Vlaams Agentschap voor Personen met een Handicap stelt het model vast van he
 
 ### ART. 9.
 
-<p>§ 1. De vergoedbare assistentie mag per persoon op jaarbasis minimaal 7.436,81 euro en maximaal 34.705,09 euro bedragen. Die bedragen, alsook de maximumbedragen, vermeld in artikel 8, § 1, worden vanaf 1 januari 2002 jaarlijks aangepast, rekening houdend met het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1999 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens de formule:<br>
+<p>§ 1. Het bedrag van het PAB mag per persoon op jaarbasis minimaal 7.436,81 euro en maximaal 34.705,09 euro bedragen. Die bedragen, alsook de maximumbedragen, vermeld in artikel 8, § 1, worden vanaf 1 januari 2002 jaarlijks aangepast, rekening houdend met het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1999 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens de formule:<br>
 <br>
 bedrag van het jaar x = (bedrag van het jaar x-1 x G-index december jaar x-1)/G-index december jaar x-2<br>
 <br>
@@ -163,48 +163,60 @@ Het agentschap vraagt met het oog op de berekening en de betaling van de tegemoe
 
 ### ART. 10.
 
-§ 1. Minstens 95% van de vergoedbare assistentie moet voor personeelskosten worden aangewend. Sociale en fiscale werkgeverslasten, alsook noodzakelijke verzekeringskosten en diverse kosten die met de arbeidssituatie verbonden zijn, opleidingen en wettelijk bepaalde kosten die verband houden met de inzet van vrijwilligers en de kosten die verband houden met de inzet van hoogdrempelige individuele bijstand als vermeld in artikel 12, eerste lid, van het besluit van de Vlaamse Regering van 11 december 2015 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering, worden ook als personeelskosten beschouwd. Alleen de personeelskosten die de persoon met een handicap met betrekking tot zijn assistentie heeft gemaakt en kan bewijzen, kunnen vergoed worden.<br>
+§ 1. Het PAB kan worden aangewend als de voorwaarden, vermeld in paragraaf 2 tot en met 6, vervuld zijn voor:<br>
+1° handelingen van een persoonlijk assistent;<br>
+2° hoogdrempelige individuele bijstand;<br>
+3° vervoer;<br>
+4° bijstand die wordt verleend door voorzieningen die erkend of vergund zijn door het agentschap of bij het agentschap zijn geregistreerd.<br>
 <br>
-Maximaal 5 % van de vergoedbare assistentie wordt aangewend voor andere kosten dan de personeelskosten, vermeld in het eerste lid. Die andere kosten hoeven niet bewezen te worden.<br>
-<br>
-Het agentschap bepaalt welke bewijsstukken de budgethouder op verzoek moet voorleggen ter staving van de kosten, vermeld in het eerste lid.<br>
-<br>
-§ 2. Voor vergoeding komen de volgende categorieën van handelingen van een persoonlijke assistent in aanmerking:<br>
-1° praktische, inhoudelijke en organisatorische hulp en/of ondersteuning bij huishoudelijke en lichamelijke activiteiten en bij verplaatsingen;<br>
-2° praktische hulp en/of ondersteuning bij handelingen van het dagelijks leven in verband met schoollopen en werksituatie;<br>
-3° praktische, inhoudelijke en organisatorische hulp en/of ondersteuning bij het uitoefenen van dagactiviteiten;<br>
-4° agogische, pedagogische of orthopedagogische begeleiding en/of ondersteuning van de persoon met een handicap en/of zijn ouders, inzonderheid voor wat betreft de aanpak van specifieke problemen, toekomstplanning, opbouw van een sociaal netwerk, begeleiding en/of ondersteuning voor wat betreft gezondheid en veiligheid, coaching, ontwikkelingsstimulering bij jonge kinderen, aanleren van zelfredzaamheid en andere specifieke vaardigheden;<br>
+§ 2. De volgende categorieën van handelingen van een persoonlijke assistent komen in aanmerking voor vergoeding met het PAB:<br>
+1° praktische, inhoudelijke en organisatorische hulp of ondersteuning bij huishoudelijke en lichamelijke activiteiten en bij verplaatsingen;<br>
+2° praktische hulp of ondersteuning bij handelingen van het dagelijks leven in verband met schoollopen en werksituatie;<br>
+3° praktische, inhoudelijke en organisatorische hulp of ondersteuning bij het uitoefenen van dagactiviteiten;<br>
+4° agogische, pedagogische of orthopedagogische begeleiding en/of ondersteuning van de persoon met een handicap of zijn ouders, inzonderheid de aanpak van specifieke problemen, toekomstplanning, opbouw van een sociaal netwerk, begeleiding of ondersteuning voor de gezondheid en veiligheid, coaching, ontwikkelingsstimulering bij jonge kinderen, aanleren van zelfredzaamheid en andere specifieke vaardigheden;<br>
 5° bijstand door een doventolk Vlaamse Gebarentaal die niet overeenkomstig andere regelingen subsidieerbaar is.<br>
 <br>
-§ 3. Voor vergoeding komen niet in aanmerking:<br>
+De volgende handelingen komen niet in aanmerking voor vergoeding met het PAB:<br>
 1° individuele materiële bijstand;<br>
 2° medische en paramedische behandelingen, onderzoeken of therapieën die tot bevoegdheid van het Rijksinstituut voor Ziekte- en Invaliditeitsverzekering behoren, ongeacht het feit of ze daadwerkelijk worden terugbetaald;<br>
 3° pedagogische en didactische begeleiding bij studies die overlapt met wat het gewoon onderwijs, het buitengewoon of het geïntegreerd onderwijs aanbieden;<br>
-4° ondersteuning bij tewerkstelling die overlapt met wat de arbeidstrajectbegeleiding, de CAO 26 of de Vlaamse inschakelingspremie aanbieden;<br>
+4° ondersteuning bij tewerkstelling die overlapt met wat de arbeidstrajectbegeleiding of de Vlaamse inschakelingspremie aanbieden;<br>
 5° budgetbegeleiding;<br>
-6° de kosten van verplaatsingen met de wagen van de persoonlijke assistent en/of de budgethouder met uitzondering van woon- werkverkeer van de persoonlijke assistent, tewerkgesteld met een arbeidsovereenkomst als vermeld in artikel 12, eerste lid, 1°.<br>
+6° de kosten van verplaatsingen met de wagen van de persoonlijke assistent of de budgethouder met uitzondering van woon- werkverkeer van de persoonlijke assistent, die tewerkgesteld is met een arbeidsovereenkomst als vermeld in artikel 12, § 1,eerste lid, 1°.<br>
 <br>
-§ 4. Het is niet mogelijk om het PAB te combineren met bijstand die wordt verleend door een multifunctioneel centrum.<br>
+Minstens 95% van het deel van het PAB dat wordt aangewend voor handelingen van een persoonlijke assistent wordt voor personeelskosten gebruikt. Sociale en fiscale werkgeverslasten, en ook noodzakelijke verzekeringskosten en diverse kosten die met de arbeidssituatie verbonden zijn, en opleidingen en wettelijk bepaalde kosten die verband houden met de inzet van vrijwilligers worden ook als personeelskosten beschouwd. Alleen de personeelskosten die de persoon met een handicap voor handelingen van een persoonlijke assistent heeft gemaakt en kan bewijzen, kunnen vergoed worden.<br>
 <br>
-In afwijking van het eerste lid is het mogelijk om het PAB te combineren met de bijstand die wordt verleend door een multifunctioneel centrum en die bestaat uit schoolaanvullende dagopvang of schoolvervangende dagopvang. De activiteiten van de assistent mogen daarbij niet overlappen met de bijstand die wordt verleend door het multifunctioneel centrum. Het toegekende PAB wordt verminderd met het percentage dat het resultaat is van:<br>
-1° de verhouding tussen de kostprijs van volledige residentiële opvang in een internaat en de kostprijs van de bijstand die wordt verleend door een semi-internaat voor schoolgaanden, als de persoon met een handicap het PAB combineert met schoolaanvullende dagopvang in een multifunctioneel centrum;<br>
-2° de verhouding tussen de kostprijs van volledige residentiële opvang in een internaat en de kostprijs van de bijstand die wordt verleend door een semi-internaat voor niet-schoolgaanden, als de persoon met een handicap het PAB combineert met schoolvervangende dagopvang in een multifunctioneel centrum.<br>
+Maximaal 5 % van het deel van het PAB dat wordt aangewend voor handelingen van een persoonlijke assistent kan worden gebruikt voor andere kosten dan de personeelskosten, vermeld in het derde lid. Die andere kosten hoeven niet bewezen te worden.<br>
 <br>
-De kostprijs, vermeld in het tweede lid, is de kostprijs van het werkingsjaar 2014.<br>
+Het agentschap bepaalt welke bewijsstukken de budgethouder op verzoek moet voorleggen ter staving van de kosten, vermeld in het derde lid.<br>
 <br>
-§ 5. In deze paragraaf wordt verstaan onder kortdurend: gedurende maximaal 92 dagen gedurende een kalenderjaar, al dan niet aaneensluitend.<br>
+§ 3. Het PAB kan worden aangewend om de kosten die verband houden met de inzet van hoogdrempelige individuele bijstand te vergoeden.<br>
 <br>
-In afwijking van paragraaf 4, eerste lid, is het mogelijk om het PAB te combineren met de bijstand die bestaat uit kortdurend verblijf in een MFC, in die zin dat het PAB kan worden aangewend om de verleende bijstand te vergoeden. Die combinatie is alleen mogelijk als de bijstand, verleend door het multifunctioneel centrum, niet al wordt vergoed krachtens andere reglementeringen op het gebied van de maatschappelijke integratie van personen met een handicap.<br>
+§ 4. De kosten voor vervoer van de persoon met een handicap kunnen met het PAB worden vergoed met uitzondering van de kosten voor vervoer in verband met de schoolaanvullende of schoolvervangende dagopvang door een multifunctioneel centrum die wordt gesubsidieerd krachtens een andere reglementering op het gebied van de maatschappelijk integratie van personen met een handicap.<br>
 <br>
-Het PAB kan worden aangewend om kortdurende woonondersteuning of kortdurende dagondersteuning te vergoeden die wordt verleend door een van de volgende zorgaanbieders:<br>
+§ 5. Het PAB kan worden aangewend om de volgende bijstand die wordt verleend door een multifunctioneel centrum te vergoeden als die bijstand al niet wordt vergoed krachtens andere reglementering op het gebied van de maatschappelijke integratie van personen met een handicap:<br>
+1° 155 nachten verblijf per kalenderjaar;<br>
+2° 155 dagen schoolaanvullende of schoolvervangende dagopvang per kalenderjaar die wordt verleend door een multifunctioneel centrum dat aan de betrokken persoon met een handicap geen schoolaanvullende dagopvang of schoolvervangende dagopvang biedt die conform paragraaf 6, tweede lid, wordt gecombineerd met het PAB.<br>
+<br>
+Het PAB kan gebruikt worden om 155 nachten woonondersteuning of 155 dagen dagondersteuning per kalenderjaar te vergoeden die wordt verleend door een van de volgende zorgaanbieders:<br>
 1° een zorgaanbieder die door het agentschap is vergund conform het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap;<br>
 2° een zorgaanbieder die geregistreerd is bij het agentschap conform artikel 7, eerste lid, 3°, van het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders.<br>
 <br>
-Het PAB kan ook worden aangewend om kortdurende dagondersteuning die wordt geboden door groene zorginitiatieven als vermeld in artikel 7, tweede lid, van het voormelde besluit van 24 juni 2016, die bij het agentschap geregistreerd zijn, te vergoeden.<br>
+Het PAB kan ook worden aangewend om 155 dagen dagondersteuning per kalenderjaar te vergoeden die wordt geboden door bij het agentschap geregistreerde groene zorginitiatieven als vermeld in artikel 7, tweede lid, van het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders.<br>
 <br>
-Het PAB kan worden aangewend om maximaal 36 mobiele begeleidingen als vermeld in artikel 1, 5°, van het besluit van de Vlaamse Regering van 22 februari 2013 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap, of maximaal 51 ambulante begeleidingen als vermeld in artikel 1, 2°, van het voormelde besluit, te vergoeden per kalenderjaar als ze worden geboden door een multifunctioneel centrum of door een zorgaanbieder als vermeld in het derde lid, 1°.&nbsp;<br>
+Het PAB kan worden aangewend om maximaal 104 begeleidingen per kalenderjaar te vergoeden die worden geboden door een multifunctioneel centrum of door een zorgaanbieder als vermeld in het tweede lid, 1°, als ze al niet worden vergoed krachtens andere reglementering op het gebied van de maatschappelijke integratie van personen met een handicap.<br>
 <br>
-§ 6. Met behoud van de toepassing van paragraaf 3 is het mogelijk om het PAB te combineren met ziekenhuizen, revalidatiecentra en voorzieningen voor welzijn, tewerkstelling, beroepsopleiding of vrijetijdsbesteding die door de federale of regionale overheden gesubsidieerd worden, als het voorzieningen betreft die een soortgelijke ondersteuning bieden als de ondersteuning, vermeld in paragraaf 4, tweede lid.<br>
+In het vierde lid wordt verstaan onder begeleiding: de algemene psychosociale ondersteuning waarbij de hulpverlener zich naar de persoon met een handicap verplaatst of de persoon met een handicap zich naar de hulpverlener verplaatst of die in groep wordt aangeboden.<br>
+<br>
+§ 6. Het is niet mogelijk om het PAB te combineren met bijstand die al wordt gesubsidieerd krachtens andere reglementering op het gebied van de maatschappelijk integratie van personen met een handicap.<br>
+<br>
+In afwijking van het eerste lid is het mogelijk om het PAB te combineren met de bijstand die wordt verleend door een multifunctioneel centrum en die bestaat uit schoolaanvullende dagopvang of schoolvervangende dagopvang. De activiteiten van de assistent mogen daarbij niet overlappen met de bijstand die wordt verleend door het multifunctioneel centrum. Het toegekende PAB wordt verminderd met het percentage dat het resultaat is van:<br>
+1° de verhouding tussen de kostprijs van volledige residentiële opvang in een internaat en de kostprijs van de bijstand die wordt verleend door een semi- internaat voor schoolgaanden, als de persoon met een handicap het PAB combineert met schoolaanvullende dagopvang in een multifunctioneel centrum;<br>
+2° de verhouding tussen de kostprijs van volledige residentiële opvang in een internaat en de kostprijs van de bijstand die wordt verleend door een semi- internaat voor niet-schoolgaanden, als de persoon met een handicap het PAB combineert met schoolvervangende dagopvang in een multifunctioneel centrum.<br>
+<br>
+De kostprijs, vermeld in het tweede lid, is de kostprijs van het werkingsjaar 2014.<br>
+<br>
+Het PAB kan ook worden gecombineerd met ziekenhuizen, revalidatiecentra en voorzieningen voor welzijn, tewerkstelling, beroepsopleiding of vrijetijdsbesteding die door de federale of regionale overheden gesubsidieerd worden, als het voorzieningen betreft die een soortgelijke ondersteuning bieden als de ondersteuning, vermeld in het tweede lid.<br>
 <br>
 Het is mogelijk om het PAB te combineren met een typemodule binnen de pleegzorg als vermeld in hoofdstuk 2, afdeling 1, van het besluit van de Vlaamse Regering van 8 november 2013 houdende de organisatie van pleegzorg. De activiteiten van de assistent mogen echter niet overlappen met de bijstand die wordt verleend binnen de pleegzorg.
 
@@ -222,7 +234,7 @@ Het terugvorderbaar voorschot wordt niet aangerekend op het PAB.<br>
 <br>
 Het terugvorderbaar voorschot wordt bij de beëindiging van de toekenning van het PAB aan het agentschap terugbetaald.<br>
 <br>
-§ 2. De budgethouders delen de kosten die ze maken in het kader van de besteding van het PAB mee aan het agentschap met een kostenstaat. Het agentschap stelt een model van kostenstaat ter beschikking. Nadat het agentschap die kostenstaat heeft ontvangen, betaalt het de kosten, vermeld op de kostenstaat, als aan de voorwaarden, vermeld in artikel 10 is voldaan en als voor de kosten, vermeld in artikel 10, § 1, eerste lid, een overeenkomst als vermeld in artikel 12, § 1 of § 2, is geregistreerd conform artikel 12, § 3.<br>
+§ 2. De budgethouders delen de kosten die ze maken in het kader van de besteding van het PAB mee aan het agentschap met een kostenstaat. Het agentschap stelt een model van kostenstaat ter beschikking. Nadat het agentschap die kostenstaat heeft ontvangen, betaalt het de kosten, vermeld op de kostenstaat, als aan de voorwaarden, vermeld in artikel 10 is voldaan en als een overeenkomst als vermeld in artikel 12, § 1 of § 2, is geregistreerd conform artikel 12, § 3.<br>
 <br>
 Het agentschap betaalt de bedragen, vermeld op de kostenstaten, tot het maximumbedrag per kalenderjaar, dat is vastgesteld conform artikel 8, § 1, geïndexeerd conform artikel 9, § 1, en in voorkomend geval verminderd conform artikel 10, § 4, tweede lid, is opgebruikt.<br>
 <br>
@@ -242,7 +254,8 @@ In afwijking van het derde lid kan de budgethouder in uitzonderlijke gevallen en
 <br>
 Naast de overeenkomsten, vermeld in het eerste lid, kan de budgethouder in het kader van de besteding van het PAB ook de volgende overeenkomsten sluiten:<br>
 1° een overeenkomst met een aanbieder van zorg en ondersteuning die vergund of erkend is door het agentschap of geregistreerd is bij het agentschap over het bieden van ondersteuning als vermeld in artikel 10, § 5;<br>
-2° een overeenkomst met een bijstandsorganisatie over het verlenen van hoogdrempelige individuele bijstand.<br>
+2° een overeenkomst met een bijstandsorganisatie over het verlenen van hoogdrempelige individuele bijstand;<br>
+3° een overeenkomst over het vervoer van de persoon met een handicap.<br>
 <br>
 § 2. Minderjarigen kunnen alleen persoonlijke assistentie verlenen in het kader van de volgende overeenkomsten:<br>
 1° een overeenkomst voor tewerkstelling van studenten als vermeld in Titel VII van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten. De budgethouder voldoet als werkgever aan alle fiscale en sociaalrechtelijke verplichtingen, daarin inbegrepen de bepalingen over het minimumloon en verplaatsingen, zoals vastgesteld binnen het paritair comité 319.01 en de bepalingen over de eindejaarspremie zoals vastgesteld binnen het paritair comité 337;<br>
@@ -254,13 +267,15 @@ Vóór de ingangsdatum van een overeenkomst als vermeld in het eerste lid, 1°, 
 1° de identificatiegegevens van de budgethouder;<br>
 2° de identificatiegegevens van de natuurlijke persoon of rechtspersoon die ondersteuning biedt;<br>
 3° de startdatum en de duur van de overeenkomst;<br>
-4° de ondersteuning, vermeld in artikel 10, § 2, of § 5, die wordt geboden of de vermelding dat de overeenkomst over hoogdrempelige individuele bijstand gaat;<br>
+4° de ondersteuning, vermeld in artikel 10, § 2, § 3, of § 5, die wordt geboden of de vermelding dat de overeenkomst over hoogdrempelige individuele bijstand gaat;<br>
 5° de kostprijs per prestatie-eenheid;<br>
-6° een beschrijving van de ondersteuning die wordt geboden
+6° een beschrijving van de ondersteuning die wordt geboden.<br>
+<br>
+Als de overeenkomst, vermeld in het eerste lid, ondersteuning betreft als vermeld in artikel 10, § 2, worden de categorieën van handelingen van de persoonlijke assistent en de gemiddelde wekelijkse prestatieduur bijkomend geregistreerd bij de gegevens, vermeld in het eerste lid.
 
 ### ART. 13.
 
-De in artikel 12 bedoelde overeenkomst bevat minstens:<BR>1° de identiteit   van de ondertekenende partijen;<BR>2° de duur van de overeenkomst; <BR>3° de   categorieën van handelingen van de persoonlijke assistent en de gemiddelde   wekelijkse prestatieduur;<BR>4° de kostprijs van de persoonlijke assistentie en   de betalingsbepalingen.<BR><BR>Voor minderjarige persoonlijke assistenten moet   vóór de ingangsdatum van de overeenkomst voor tewerkstelling van studenten het   schriftelijke bewijs van de machtiging door een ouder of de voogd, vermeld in de   wet van 3 juli 1978 betreffende arbeidsovereenkomsten, aan het agentschap worden   bezorgd. Het agentschap stelt daarvoor een model vast.
+...
 
 ### ART 13/1.
 
