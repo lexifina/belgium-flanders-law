@@ -2,16 +2,16 @@
   "codex_id": 1027012,
   "title": "Decreet van 2016-06-10 houdende de erkenning en subsidiëring van de georganiseerde sportsector",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027012/VolledigDocument?datum=2022-11-01",
-  "source_sha256": "2176d2a062aced4d7774a651090c84832acf20973bb00ced1d957837ae33822b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027012/VolledigDocument?datum=2022-12-01",
+  "source_sha256": "ba770be82c373ffcc356035503b78f68417a6b8db7674121fc3e43d7dd4f9b75",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027012&param=informatie",
-  "as_of": "2022-11-01",
+  "as_of": "2022-12-01",
   "made": "2016-06-10",
   "gazette": "2016-07-11",
   "numac": 2016036114,
   "document_start": "2016-07-01",
   "document_end": null,
-  "in_force": "2022-11-01",
+  "in_force": "2022-12-01",
   "article_versions": 94,
-  "record_form": "consolidated version as in force on 2022-11-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-12-01; future article versions excluded; article text as the API gives it"
 }

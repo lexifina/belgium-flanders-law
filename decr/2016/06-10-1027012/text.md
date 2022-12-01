@@ -257,26 +257,37 @@ De Vlaamse Regering bepaalt de duur van een project rationalisatie, de wijze van
 
 ### ART 16.
 
-§ 1. De algemene werkingssubsidie, vermeld in artikel 9, tweede lid, 1°, wordt jaarlijks toegekend.<br>
+§ 1. De algemene werkingssubsidie, vermeld in artikel 9, derde lid, 1°, wordt jaarlijks toegekend.<br>
 <br>
-§ 2. De basissubsidie, vermeld in artikel 9, tweede lid, 1°, a), van de sportfederaties is gerelateerd aan het aantal aangesloten leden van het werkingsjaar en bedraagt minstens 60.000 euro.<br>
+§ 2. De basissubsidie, vermeld in artikel 9, derde lid, 1°, a), van de unisportfederaties is gerelateerd aan het aantal aangesloten leden van het werkingsjaar x-2 en bedraagt minstens 60.000 euro.<br>
 <br>
-Als een sportfederatie meer dan 10.000 aangesloten leden telt, wordt de basissubsidie, vermeld in het eerste lid, verhoogd met 2,80 euro voor elk lid dat de sportfederatie telt boven de grens van 10.000 aangesloten leden. De jaarlijkse basissubsidie kan nooit meer dan 312.000 euro bedragen.<br>
+Als een unisportfederatie meer dan 10.000 aangesloten leden telt, wordt de basissubsidie, vermeld in het eerste lid, verhoogd met 2,80 euro voor elk lid dat de unisportfederatie telt boven de grens van 10.000 aangesloten leden. De jaarlijkse basissubsidie kan nooit meer dan 312.000 euro bedragen.<br>
 <br>
-§ 3. De subsidie, vermeld in artikel 9, tweede lid, 1°, b), wordt toegekend op basis van een korf van de volgende kwaliteitsprincipes :<br>
+De basissubsidie, vermeld in artikel 9, derde lid, 1°, a), van de multisportfederaties bedraagt minstens 60.000 euro (zestigduizend euro).<br>
+<br>
+§ 3. De subsidie, vermeld in artikel 9, derde lid, 1°, b), wordt toegekend op basis van een korf van de volgende kwaliteitsprincipes :<br>
 1° het draagvlak van de sportfederatie;<br>
 2° de kwaliteit van het aanbod van de sportfederatie;<br>
-3° het goed bestuur van de sportfederatie.<br>
+3° het goed bestuur van de sportfederatie;<br>
+4° bijkomend voor de multisportfederaties: de kwaliteit van het aanbod voor de anders georganiseerde sporters, de ongebonden sporters of de niet-sporters.<br>
 <br>
 Het draagvlak van de sportfederatie, vermeld in het eerste lid, 1°, heeft betrekking op het bereik van de sportfederatie. Het geeft ook een indicatie van het aandeel van de sportfederatie in het totale landschap van de georganiseerde sportsector.<br>
 <br>
 De kwaliteit van het aanbod van de sportfederatie, vermeld in het eerste lid, 2°, heeft betrekking op de kwaliteit van de sporttechnische omkadering binnen de sportclubs van de sportfederatie, het beleid met betrekking tot de vorming van deze omkadering en de kwaliteit van de organisatie van het aanbod.<br>
 <br>
+De kwaliteit van het aanbod voor de anders georganiseerde sporters, de ongebonden sporters of de niet-sporters, vermeld in het eerste lid, 4°, heeft betrekking op de kwaliteit en het bereik van het aanbod van de multisportfederatie, dat aanvullend is op het bestaande aanbod voor de aangesloten leden van de uni- of multisportfederaties. De multisportfederatie zet daarbij in op de toeleiding van die sporters naar de sportclubs of het kwalitatief begeleiden van die sporters buiten de sportclubs.<br>
+<br>
+De inhoudelijke beoordeling van de kwaliteit van het aanbod voor de anders georganiseerde sporters, de ongebonden sporters of de niet-sporters, vermeld in het eerste lid, 4°, gebeurt op basis van het beleidsplan. De beoordeling gebeurt aan de hand van beoordelingscriteria die betrekking hebben op de meerwaarde, de beoogde impact, de doelstellingen, de kwaliteit, de laagdrempeligheid en de duurzaamheid van de deelaspecten van het beleidsplan die betrekking hebben op het aanbod voor de anders georganiseerde sporters, de ongebonden sporters of de niet-sporters.<br>
+<br>
+Het toe te kennen bedrag binnen het kwaliteitsprincipe, vermeld in het eerste lid, 4°, is gebaseerd op de score die behaald wordt op de beoordelingscriteria, vermeld in het zesde lid, en op een financieel behoefteplan. De Vlaamse Regering bepaalt de wijze van de beoordeling, de periodiciteit van de beoordeling en de nadere beoordelingscriteria.<br>
+<br>
 Het goed bestuur van de sportfederatie, vermeld in het eerste lid, 3°, heeft betrekking op patronen binnen de organisatiestructuur van een sportfederatie die worden gekenmerkt door sleutelelementen zoals verantwoording, efficiëntie, effectiviteit, voorspelbaarheid, transparantie en democratie.<br>
 <br>
-De Vlaamse Regering bepaalt de nadere indicatoren per kwaliteitsprincipe, hun aandeel in de korf en de berekeningswijze van de korf.<br>
+De Vlaamse Regering bepaalt voor de subsidiëring van unisportfederaties enerzijds en voor de subsidiëring van multisportfederaties anderzijds, de nadere indicatoren voor de kwaliteitsprincipes, vermeld in het eerste lid, 1°, 2° en 3°,&nbsp;hun aandeel in de korf en de berekeningswijze van de korf.<br>
 <br>
-§ 4. ...
+§ 4. In afwijking van paragraaf 2 en 3 wordt de algemene werkingssubsidie, vermeld in artikel 9, derde lid, 1°, voor de eerste twee werkingsjaren waarvoor een nieuw gesubsidieerde sportfederatie gesubsidieerd wordt, vastgelegd op een bedrag van 100.000 euro (honderdduizend euro) per werkingsjaar.<br>
+<br>
+§ 5. De Vlaamse Regering kan voor de verdeling van het jaarlijkse budget voor de algemene werkingssubsidies tussen de unisportfederaties enerzijds, en de multisportfederaties anderzijds het percentage bepalen dat wordt voorzien voor de algemene werkingssubsidies van de multisportfederaties.
 
 ### ART 17.
 
