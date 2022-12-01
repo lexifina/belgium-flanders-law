@@ -126,11 +126,13 @@ c) de vrijwilligersvergoedingen die aan iedere vrijwilliger zijn betaald;<br>
 
 ### ART. 10.
 
-<p>De voorschotten op de subsidies worden per maand betaald voor een bedrag van 8 % van de totale subsidie op jaarbasis. De personeelssubsidies worden geraamd op basis van de aan het agentschap bekendgemaakte personeelsgegevens.</p>
-
-<p>Het financieel verslag wordt uiterlijk ingediend op 30 juni van het jaar dat volgt op het werkingsjaar. Het agentschap bepaalt de inhoud en de vorm van het financieel verslag.</p>
-
-<p>Het saldo van de subsidies wordt verrekend na de goedkeuring van het financieel verslag, binnen achttien maanden die volgen op de datum, vermeld in het tweede lid.</p>
+<p>De voorschotten op de subsidies worden per maand betaald voor een bedrag van 8 % van de totale subsidie op jaarbasis. De personeelssubsidies worden geraamd op basis van de aan het agentschap bekendgemaakte personeelsgegevens.<br>
+<br>
+In afwijking van het eerste lid wordt voor de maand december een bedrag van 12% van de totale subsidie op jaarbasis als voorschot betaald.<br>
+<br>
+Het financieel verslag wordt uiterlijk ingediend op 30 juni van het jaar dat volgt op het werkingsjaar. Het agentschap bepaalt de inhoud en de vorm van het financieel verslag.<br>
+<br>
+Het saldo van de subsidies wordt verrekend na de goedkeuring van het financieel verslag, binnen achttien maanden die volgen op de datum, vermeld in het derde lid.</p>
 
 ### ART 10/1.
 
@@ -174,6 +176,8 @@ In afwijking van het tweede lid kunnen de volgende personen met een handicap rec
 De personen met een handicap die voldoen aan de voorwaarden, vermeld in het vierde lid, kunnen aanspraak maken op maximaal zestig nachten verblijf, al of niet in combinatie met dagopvang, per jaar.<br>
 <br>
 In voorkomend geval wordt het aantal nachten woonondersteuning, dat voor de toepassing van artikel 17 van het besluit van 24 juni 2016 in aanmerking wordt genomen, in mindering gebracht van het maximale aantal nachten verblijf, al of niet in combinatie met dagopvang, vermeld in het vijfde lid, waarop de persoon met een handicap, vermeld in het vierde lid, aanspraak kan maken.<br>
+<br>
+In afwijking van het vijfde lid, 2°, kunnen de personen met een handicap, vermeld in het vijfde lid, 1°, bij wie het agentschap met toepassing van het besluit van de Vlaamse Regering van 16 september 2022 over een experiment voor de gedeeltelijke terbeschikkingstelling van budgetten voor niet-rechtstreeks toegankelijke zorg en ondersteuning aan personen met een handicap in prioriteitengroep twee, een beslissing heeft genomen over de gedeeltelijke terbeschikkingstelling van een budget dat is toegewezen na afhandeling van een aanvraag van een budget of een aanvraag tot herziening als vermeld in het vijfde lid, 2°, conform het zesde en het zevende lid rechtstreeks toegankelijke hulp combineren met een budget.<br>
 <br>
 In afwijking van artikel 13, eerste lid tot met het derde lid, van dit besluit kunnen de personen met een handicap aan wie het agentschap conform artikel 13 tot en met artikel 23 van het besluit van 24 juni 2016 zorggebonden punten heeft toegekend, maar die conform artikel 10, § 2, en 11/1, § 2, eerste lid, van het besluit van 20 april 2018 naar rechtstreeks toegankelijke hulp zijn toegeleid, aanspraak maken op maximaal zestig nachten verblijf, al of niet in combinatie met dagopvang, per jaar, boven op het maximum van acht personeelspunten per persoon per kalenderjaar, vermeld in artikel 13, eerste lid, van dit besluit, of het maximum van zeven personeelspunten per jaar, vermeld in artikel 13, tweede lid, van dit besluit.<br>
 &nbsp;
