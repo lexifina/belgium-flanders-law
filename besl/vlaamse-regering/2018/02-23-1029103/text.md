@@ -17,12 +17,13 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder :<br>
-1° werkzoekende : een persoon die bij de VDAB ingeschreven is als niet-werkende werkzoekende en die voldoet aan een van de volgende voorwaarden :<br>
-- uitkeringsgerechtigd volledig werkloos zijn;<br>
-- als rechthebbende op maatschappelijke integratie, een leefloon krijgen;<br>
-- als rechthebbende op maatschappelijke hulp, financiële steun krijgen;<br>
-- als erkend arbeidsongeschikte in de zin van de uitkeringsverzekering voor werknemers of de uitkeringsverzekering voor zelfstandigen, de toelating hebben gekregen van de adviserende arts van het ziekenfonds om het werk te hervatten;<br>
-- als rechthebbende op de overbrugging voor zelfstandigen, de financiële uitkering krijgen.<br>
+1° werkzoekende: een persoon die bij de VDAB ingeschreven is, geen betaalde beroepsarbeid verricht en die behoort tot een van volgende categorieën:<br>
+a)&nbsp;&nbsp; &nbsp;uitkeringsgerechtigd zijn;<br>
+b)&nbsp;&nbsp; &nbsp;niet-uitkeringsgerechtigd zijn;<br>
+c)&nbsp;&nbsp; &nbsp;als rechthebbende op maatschappelijke integratie, een leefloon krijgen;<br>
+d)&nbsp;&nbsp; &nbsp;als rechthebbende op maatschappelijke hulp, financiële steun krijgen;<br>
+e)&nbsp;&nbsp; &nbsp;als erkende arbeidsongeschikte in de zin van de uitkeringsverzekering voor werknemers of de uitkeringsverzekering voor zelfstandigen, de toelating hebben gekregen van de adviserende arts van het ziekenfonds om het werk te hervatten;<br>
+f)&nbsp;&nbsp; &nbsp;als rechthebbende op de overbrugging voor zelfstandigen, de financiële uitkering krijgen.<br>
 2° uitbetalingsorganen : de volgende organen die belast zijn met de uitbetaling van :<br>
 - de werkloosheidsuitkeringen, namelijk de Hulpkas voor Werkloosheidsuitkeringen en de erkende uitbetalingsinstellingen in het kader van de werkloosheidsverzekering;<br>
 - het leefloon of de maatschappelijke financiële hulp, namelijk de openbare centra voor maatschappelijk welzijn;<br>
@@ -40,7 +41,11 @@ In dit besluit wordt verstaan onder :<br>
 9° dienstverlener : organisaties met publiekrechtelijke of privaatrechtelijke rechtspersoonlijkheid of natuurlijke personen die een prestarterstraject organiseren;<br>
 10° minister : de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid;<br>
 11° departement : het Departement Werk en Sociale Economie vermeld in artikel 25, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
-12° VDAB : de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, vermeld in artikel 3, § 1, van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding".
+12° VDAB : de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, vermeld in artikel 3, § 1, van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding".<br>
+<br>
+De volgende categorieën worden niet als werkzoekende als vermeld in het eerste lid, 1°, beschouwd:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de werknemers die hun opzegtermijn presteren of van wie de opzegtermijn is gedekt door een verbrekingsvergoeding;<br>
+2°&nbsp;&nbsp; &nbsp;de werknemers die tijdelijk werkloos worden in toepassing van artikelen 26, 51 en 77/4 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten.
 
 ## HOOFDSTUK 2. Toepassingsgebied en voorwaarden
 
@@ -50,7 +55,7 @@ Binnen de perken van de jaarlijks goedgekeurde begroting kan het departement een
 1° op zijn vroegste op de datum van de inwerkingtreding van dit besluit een beroepsbezigheid als zelfstandige in hoofdberoep starten;<br>
 Voor de toepassing van deze voorwaarde wordt de overgang van de hoedanigheid van zelfstandige in bijberoep naar die van zelfstandige in hoofdberoep ook beschouwd als de start van een beroepsbezigheid als zelfstandige in hoofdberoep;<br>
 2° binnen zes maanden nadat het prestarterstraject afgerond is en uiterlijk in de maand die voorafgaat aan de maand waarin de toekenning van de transitiepremie ingaat, een beroepsbezigheid als zelfstandige in hoofdberoep starten;<br>
-3° op de dag voor hij een beroepsbezigheid als zelfstandige in hoofdberoep start werkzoekende zijn; de werkloosheid mag niet veroorzaakt zijn door de stopzetting of de vermindering van arbeid als loontrekkende met het oog op het bekomen van het voordeel van de transitiepremie;<br>
+3° op de dag voor hij een beroepsbezigheid als zelfstandige in hoofdberoep start werkzoekende zijn en zich niet bevinden in de periode van onderbreking van de inschrijving als werkzoekende, vermeld in punt 11°; de werkloosheid mag niet veroorzaakt zijn door de stopzetting of de vermindering van arbeid als loontrekkende met het oog op het bekomen van het voordeel van de transitiepremie;<br>
 4° ingeschreven zijn bij de Kruispuntbank van Ondernemingen, vermeld in artikel I.2, 1° van het Wetboek van economisch recht. Als de ondernemer een beroepsbezigheid als zaakvoerder, vennoot of bestuurder start van een vennootschap, is deze voorwaarde van toepassing op die vennootschap;<br>
 5° met succes een prestarterstraject hebben afgerond;<br>
 6° in de maand waarin hij een beroepsbezigheid als zelfstandige in hoofdberoep start de leeftijd van 45 jaar bereikt hebben, maar nog niet de wettelijke pensioenleeftijd;<br>
@@ -58,7 +63,8 @@ Voor de toepassing van deze voorwaarde wordt de overgang van de hoedanigheid van
 Als de ondernemer een beroepsbezigheid als zaakvoerder, vennoot of bestuurder van een vennootschap start, dan is deze voorwaarde van toepassing op die vennootschap;<br>
 8° de hoedanigheid van zelfstandige in hoofdberoep behouden gedurende de hele periode waarin de transitiepremie toegekend wordt;<br>
 9° zich ertoe verbinden gedurende de hele periode waarin de transitiepremie toegekend wordt voor de laatste werkgever bij wie de ondernemer in dienst was, geen diensten te verrichten als zelfstandige ten voordele van of in opdracht van, die werkgever of van de groep waartoe die werkgever behoort;<br>
-10° gedurende de afgelopen zes jaar vanaf de datum van de laatste uitbetaling van een transitiepremie tot de datum waarop de transitiepremie opnieuw wordt aangevraagd het voordeel van de transitiepremie voor ondernemers niet hebben gekregen.<br>
+10° gedurende de afgelopen zes jaar vanaf de datum van de laatste uitbetaling van een transitiepremie tot de datum waarop de transitiepremie opnieuw wordt aangevraagd het voordeel van de transitiepremie voor ondernemers niet hebben gekregen;<br>
+11° de niet-uitkeringsgerechtigde werkzoekenden, vermeld in artikel 1, eerste lid, 1°, b), zijn voorafgaand aan de start als zelfstandige in hoofdberoep gedurende minimaal zes maanden ingeschreven als werkzoekenden bij de VDAB. De periode van onderbreking van de inschrijving als werkzoekende wordt gelijkgesteld met de inschrijving als werkzoekende als die onderbreking niet meer dan maximaal drie opeenvolgende maanden bedraagt.<br>
 <br>
 In geval van een crisis met een ernstige sociale en economische impact die als dusdanig door de minister is erkend, wordt de termijn van zes maanden, vermeld in het eerste lid, 2°, automatisch verlengd met telkens 3 maanden tot zolang de minister dit niet meer noodzakelijk acht.<br>
 <br>
@@ -160,9 +166,15 @@ Het bruto bedrag van de transitiepremie vertoont het volgende degressieve verloo
 	</tbody>
 </table>
 
+### ART 3/2.
+
+In afwijking van artikel 3 en 3/1 wordt het brutobedrag van de transitiepremie voor niet-uitkeringsgerechtigde werkzoekenden op de volgende wijze bepaald:<br>
+1°&nbsp;&nbsp; &nbsp;bij een inschrijvingsduur van zes tot twaalf maanden wordt, met behoud van het degressieve verloop, een kwart van de premie, vermeld in artikel 3/1, toegekend;<br>
+2°&nbsp;&nbsp; &nbsp;bij een inschrijvingsduur vanaf twaalf maanden wordt, met behoud van het degressieve verloop, de helft van de premie, vermeld in artikel 3/1, toegekend.
+
 ### ART 4.
 
-De uitbetaling van de transitiepremie wordt geschorst tijdens de periodes van primaire ongeschiktheid en moederschapsrust die gedekt zijn door uitkeringen in het kader van de ziekteverzekering voor zelfstandigen. De ondernemer behoudt het recht op het maximale aantal maandelijkse premies vermeld in artikel 3 en artikel 3/1.
+De uitbetaling van de transitiepremie wordt geschorst tijdens de periodes van primaire ongeschiktheid en moederschapsrust die gedekt zijn door uitkeringen in het kader van de ziekteverzekering voor zelfstandigen. De ondernemer behoudt het recht op het maximale aantal maandelijkse premies vermeld in artikel 3, 3/1 en 3/2.
 
 ### ART 5.
 
@@ -176,7 +188,9 @@ De uitbetaling van de transitiepremie wordt geschorst tijdens de periodes van pr
 
 ### ART 6.
 
-De transitiepremie mag niet gecumuleerd worden met subsidies of premies voor beginnende zelfstandigen toegekend door andere gewestoverheden dan de Vlaamse overheid.
+De transitiepremie mag niet gecumuleerd worden met subsidies of premies voor beginnende zelfstandigen toegekend door andere gewestoverheden dan de Vlaamse overheid.<br>
+<br>
+Het bedrag van de jobbonus plus, vermeld in artikel 4 van het decreet van 15 juli 2022 tot regeling van de toekenning van een jobbonus plus voor startende zelfstandigen wordt in mindering gebracht van de &nbsp;transitiepremie als de ondernemer een jobbonus plus ontvangt.
 
 ## HOOFDSTUK 5. Procedure
 
@@ -192,7 +206,7 @@ De aanvraag van de transitiepremie bevat al de volgende gegevens :<br>
 5° de maand vanaf wanneer de aanvrager de transitiepremie wil ontvangen, met behoud van de toepassing van artikel 3, eerste lid.<br>
 <br>
 Bij de aanvraag van de transitiepremie worden al de volgende stukken gevoegd :<br>
-1° het bewijs van de VDAB waaruit de inschrijving van ondernemer als niet-werkende werkzoekende blijkt op het ogenblik, vermeld in artikel 2, 3° ;<br>
+1° het bewijs van de VDAB waaruit de inschrijving van de ondernemer als werkzoekende blijkt, zoals vermeld in artikel 2, eerste lid, 3° en/of artikel 2, eerste lid, 11°;<br>
 2° het bewijs van het bevoegde uitbetalingsorgaan waaruit blijkt dat de ondernemer uitkeringsgerechtigd was op het ogenblik, vermeld in artikel 2, 3° ;<br>
 3° het attest dat de dienstverlener uitgereikt heeft, waaruit blijkt dat de aanvrager een prestarterstraject met succes heeft doorlopen;<br>
 4° het bewijs van inschrijving in de Kruispuntbank van Ondernemingen;<br>
@@ -211,7 +225,7 @@ Als het dossier drie maanden na de indiening van de aanvraag van de transitiepre
 
 ### ART 8.
 
-Het departement toets de aanvraag aan de toekenningsvoorwaarden, vermeld in artikel 3, om te bepalen of de ondernemer een transitiepremie krijgt.
+Het departement toets de aanvraag aan de toekenningsvoorwaarden, vermeld in artikel 2, om te bepalen of de ondernemer een transitiepremie krijgt.
 
 ### ART 9.
 
