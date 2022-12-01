@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037617,
+  "title": "Besluit van de Vlaamse Regering van 2022-07-15 tot vaststelling van de verhouding van de stemrechten tussen de gemeenten en OCMW'S die in het werkingsgebied voor woonmaatschappijen \"Waasland-Oost\" liggen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037617/VolledigDocument?datum=2022-12-01",
+  "source_sha256": "272fe720d45bd8fdf4de3d7cb00cbef8d01c3c700d70f81dec795fafbc5ceff9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037617&param=informatie",
+  "as_of": "2022-12-01",
+  "made": "2022-07-15",
+  "gazette": "2022-11-21",
+  "numac": 2022041814,
+  "document_start": "2022-12-01",
+  "document_end": null,
+  "in_force": "2022-12-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
