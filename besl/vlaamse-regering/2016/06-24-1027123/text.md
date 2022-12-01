@@ -233,6 +233,8 @@ De beslissing van het agentschap tot terbeschikkingstelling van het budget en de
 <br>
 In afwijking van het eerste lid wordt de termijn, vermeld in artikel 9 van dit besluit, verlengd met een periode van acht maanden als het agentschap op het moment dat de termijn, vermeld in artikel 9 van dit besluit, afloopt, heeft beslist om in te stemmen met intensieve bemiddeling als vermeld in artikel 2, § 1, van het besluit van de Vlaamse Regering van 20 juli 2018 over de bemiddeling, de afstemming en de planning in het kader van persoonsvolgende financiering voor meerderjarige personen met een handicap, conform artikel 4 van het voormelde besluit.<br>
 <br>
+In afwijking van het eerste lid vervalt de beslissing over de toewijzing van het budget niet als de budgethouder binnen de termijn, vermeld in artikel 9, eerste lid, van dit besluit, of binnen de termijn van acht maanden die conform het eerste lid is vastgesteld, niet is gestart met het besteden van het budget dat gedeeltelijk ter beschikking is gesteld conform het besluit van de Vlaamse Regering van 16 september 2022 over een experiment voor de gedeeltelijke terbeschikkingstelling van budgetten voor niet-rechtstreeks toegankelijke zorg en ondersteuning aan personen met een handicap in prioriteitengroep twee.<br>
+<br>
 Het agentschap brengt de budgethouder een maand vooraf ervan op de hoogte dat de beslissing van het agentschap tot toewijzing en terbeschikkingstelling van het budget over een maand vervalt. Als de termijn, vermeld in het eerste lid, is verstreken, brengt het agentschap de budgethouder er schriftelijk van op de hoogte dat de beslissing tot toewijzing en terbeschikkingstelling vervalt.
 
 ## HOOFDSTUK 4 Het gebruik van een budget als voucher
