@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037540,
+  "title": "Besluit van de Vlaamse Regering van 2022-09-16 over een experiment voor de gedeeltelijke terbeschikkingstelling van budgetten voor niet-rechtstreeks toegankelijke zorg en ondersteuning aan personen met een handicap in prioriteitengroep twee",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037540/VolledigDocument?datum=2022-12-01",
+  "source_sha256": "7dcce4a3d4e7dac9a3df0e634b6872497c6accf595a2615ede09cae7afc1bd91",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037540&param=informatie",
+  "as_of": "2022-12-01",
+  "made": "2022-09-16",
+  "gazette": "2022-10-26",
+  "numac": 2022042343,
+  "document_start": "2022-12-01",
+  "document_end": null,
+  "in_force": "2022-12-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2022-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
