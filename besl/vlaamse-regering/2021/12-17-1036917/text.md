@@ -1823,13 +1823,15 @@ Vóór een sociale huisvestingsmaatschappij een erkenningsaanvraag als woonmaats
 
 In afwijking van artikel 226 zijn artikel 4.4/1, 4.4/2, 4.4/3, 4.4/4, 4.4/5, 4.4/6 en 4.4/8 van het Besluit Vlaamse Codex Wonen van 2021 van toepassing op de sociale huisvestingsmaatschappijen en sociale verhuurkantoren, vermeld in artikel 226.<br>
 <br>
-In afwijking van artikel 226, § 1, eerste lid, van dit besluit zijn artikel 4.2, derde lid, artikel 4.15, § 1, vijfde lid, artikel 4.18, 4.23, 4.28, 4.29/1, 4.54, 4.55, eerste lid, artikel 4.56, § 3, tweede lid, artikel 4.62, tweede lid, artikel 4.66, 4.151, § 3, tweede lid, artikel 4.155/1 tot en met 4.155/4, artikel 5.40, § 2, tweede lid, artikel 5.41, § 2, tweede lid, artikel 5.42, § 1, derde lid, artikel 5.50, § 1 en § 4, 1°, 2° en 4°, artikel 5.220, § 4, tweede lid, artikel 5.225, 7.13, eerste lid, artikel 7.18, 7.29 en artikel 2 van bijlage 9 bij het Besluit Vlaamse Codex Wonen van 2021, van toepassing op de sociale huisvestingsmaatschappijen, vermeld in artikel 226 van dit besluit.
+In afwijking van artikel 226, § 1, eerste lid, van dit besluit zijn artikel 4.2, derde lid, artikel 4.15, § 1, vijfde lid, artikel 4.18, 4.23, 4.28, 4.29/1, 4.54, 4.55, eerste lid, artikel 4.56, § 3, tweede lid, artikel 4.62, tweede lid, artikel 4.66, 4.151, § 3, tweede lid, artikel 4.155/1 tot en met 4.155/4, artikel 5.40, § 2, tweede lid, artikel 5.41, § 2, tweede lid, artikel 5.42, § 1, derde lid, artikel 5.50, §1 en §4, 1°, 2° en 4°, artikel 5.75/1, artikel 5.220, § 4, tweede lid, artikel 5.225, 7.13, eerste lid, artikel 7.18, 7.29 en artikel 2 van bijlage 9 bij het Besluit Vlaamse Codex Wonen van 2021, van toepassing op de sociale huisvestingsmaatschappijen, vermeld in artikel 226 van dit besluit.
 
 ### ART 228.
 
 Een project in de projectenlijst, vermeld in artikel 4.17 van het Besluit Vlaamse Codex Wonen van 2021, van lokale besturen, het Vlaams Woningfonds, een sociale huisvestingsmaatschappij die niet tijdelijk erkend is conform artikel 223 van dit besluit, of van een woonmaatschappij, als het project in een gemeente ligt die niet tot het werkingsgebied van die woonmaatschappij behoort, waarvan nog geen enkele verrichting is toegewezen op het jaarbudget, vermeld in artikel 4.28 van het Besluit Vlaamse Codex Wonen van 2021, vóór 1 januari 2023 komt niet in aanmerking voor de subsidies, vermeld in boek 5, deel 2, titel 1, 2 en 3, van het voormelde besluit, tenzij het project wordt overgedragen aan de woonmaatschappij die actief is in het werkingsgebied waar het project ligt.<br>
 <br>
-Voor de realisatie van een project in de projectenlijst, vermeld in artikel 4.17 van het Besluit Vlaamse Codex Wonen van 2021, van lokale besturen, het Vlaams Woningfonds, een sociale huisvestingsmaatschappij die niet tijdelijk erkend is conform artikel 223 van dit besluit, of van een woonmaatschappij, als het project in een gemeente ligt die niet tot het werkingsgebied van die woonmaatschappij behoort, komt de initiatiefnemer ook na 1 januari 2023 in aanmerking voor de subsidies, vermeld in boek 5, deel 2, titel 1, 2 en 3, van het Besluit Vlaamse Codex Wonen van 2021, als minstens één verrichting van dat project vóór 1 januari 2023 is toegewezen op het jaarbudget, vermeld in artikel 4.28 van het voormelde besluit. De woonmaatschappij die actief is in het werkingsgebied waar het project ligt, kan bij de overname van het project dezelfde subsidies ontvangen waarop de oorspronkelijke initiatiefnemer recht had voor 1 januari 2023, als het project wordt gerealiseerd zoals opgenomen in de projectenlijst, vermeld in artikel 4.17 van het voormelde besluit.
+Voor de realisatie van een project in de projectenlijst, vermeld in artikel 4.17 van het Besluit Vlaamse Codex Wonen van 2021, van lokale besturen, het Vlaams Woningfonds, een sociale huisvestingsmaatschappij die niet tijdelijk erkend is conform artikel 223 van dit besluit, of van een woonmaatschappij, als het project in een gemeente ligt die niet tot het werkingsgebied van die woonmaatschappij behoort, komt de initiatiefnemer ook na 1 januari 2023 in aanmerking voor de subsidies, vermeld in boek 5, deel 2, titel 1, 2 en 3, van het Besluit Vlaamse Codex Wonen van 2021, als minstens één verrichting van dat project vóór 1 januari 2023 is toegewezen op het jaarbudget, vermeld in artikel 4.28 van het voormelde besluit. De woonmaatschappij die actief is in het werkingsgebied waar het project ligt, kan bij de overname van het project dezelfde subsidies ontvangen waarop de oorspronkelijke initiatiefnemer recht had voor 1 januari 2023, als het project wordt gerealiseerd zoals opgenomen in de projectenlijst, vermeld in artikel 4.17 van het voormelde besluit.<br>
+<br>
+In afwijking van het eerste lid kan een woonmaatschappij voor een verrichting als vermeld in artikel 4.10, 9°, d), van het Besluit Vlaamse Codex Wonen van 2021, in aanmerking komen voor een subsidie als vermeld in boek 5, deel 2, titel 1, 2 en 3, van het voormelde besluit, voor de renovatie, verbetering of aanpassing van een sociale huurwoning die buiten haar werkingsgebied ligt.
 
 ### ART 229.
 
@@ -1863,9 +1865,27 @@ Tot 30 juni 2023 worden sociale huisvestingsmaatschappijen voor de toepassing va
 
 Als de vijfjaarlijkse periode waarin aanspraak kan worden gemaakt op de basissubsidie-enveloppe die met toepassing van artikel 4.172, tweede lid, van het Besluit Vlaamse Codex Wonen van 2021, zoals van kracht op de dag vóór de bekendmaking van dit besluit in het Belgisch Staatsblad, aan een sociaal verhuurkantoor wordt toegestaan vóór 30 juni 2023, afloopt, wordt die periode automatisch, zonder een aanvraag als vermeld in artikel 4.172, vierde lid, van het voormelde besluit, zoals van kracht op de dag vóór de bekendmaking van dit besluit in het Belgisch Staatsblad, verlengd tot uiterlijk 30 juni 2023.
 
+### ART 236/1.
+
+Als een sociaal verhuurkantoor de huurovereenkomsten overdraagt aan verschillende woonmaatschappijen, draagt het voor iedere overgedragen in&nbsp;<br>
+huur genomen gesubsidieerde woning een gedeelte over van de saldi van de subsidie, vermeld in artikel 4.160/3, derde lid, van het Besluit Vlaamse Codex Wonen van 2021, die op 31 december 2022 niet zijn aangewend en van de groeisubsidie die berekend wordt op de volgende wijze: de saldi van de subsidie, vermeld in artikel 4.160/3, derde lid van het voormelde besluit, die op 31 december 2022 niet zijn aangewend en van de groeisubsidie/aantal op 1 november 2022 door het sociaal verhuurkantoor ingehuurde gesubsidieerde woningen.<br>
+<br>
+Bij de telling van het aantal ingehuurde gesubsidieerde woningen op 1 november 2022 wordt rekening gehouden met de huurovereenkomsten die het sociaal verhuurkantoor vóór 1 november 2022 aan een woonmaatschappij heeft overgedragen en die nog lopen.
+
+### ART 236/2.
+
+In afwijking van artikel 4.160/9, eerste en tweede lid, van het Besluit Vlaamse Codex Wonen van 2021 worden de basissubsidie-enveloppe en de aanvullende subsidie-enveloppe, vermeld in artikel 4.160/8, §1, tweede en derde lid, van het voormelde besluit, voor het werkingsjaar 2023 voor de helft aan het sociaal verhuurkantoor toegekend en uitbetaald.
+
+### ART 236/3.
+
+In afwijking van artikel 4.160/8, §5, van hetzelfde besluit kunnen voor de werkingsjaren 2023, 2024 en 2025 de kosten verbonden aan de prestaties van een in het kader van een dienstverlening met beperkte gezagsoverdracht als vermeld in artikel 31, §1, tweede en derde lid, van de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers, aan een andere woonmaatschappij ter beschikking gesteld personeelslid beschouwd worden als personeelskosten. Het subsidiabele bedrag van deze facturen is inclusief de in voorkomend geval niet-aftrekbare BTW in hoofde van een woonmaatschappij.&nbsp;<br>
+<br>
+De woonmaatschappij die een werknemer ter beschikking heeft gesteld aan een andere woonmaatschappij, brengt de eventuele inkomsten uit de dienstverleningsovereenkomst, exclusief de in voorkomend geval verschuldigde BTW op de factuur waarmee deze inkomsten worden aangerekend in mindering van de personeelskosten vermeld in artikel 4.160/8, §4, eerste lid, 1°.<br>
+&nbsp;
+
 ### ART 237.
 
-Bij de overdracht van de huurovereenkomsten door een sociaal verhuurkantoor aan een woonmaatschappij wordt een aandeel van het niet-aangewende saldo van de subsidies op de datum van de overname, vermeld in artikel 4.160/10 van het Besluit Vlaamse Codex Wonen van 2021, overgedragen. Dat aandeel wordt berekend door het aantal overgedragen huurovereenkomsten te delen door het totale aantal huurovereenkomsten op de datum van de overname.
+...
 
 ### ART 238.
 
@@ -1890,6 +1910,10 @@ In dit artikel wordt verstaan onder:<br>
 2° herstructurering: een herstructurering als vermeld in boek 12 van het Wetboek van vennootschappen en verenigingen.<br>
 <br>
 Als een sociale huisvestingsmaatschappij of woonmaatschappij sociale huurwoningen in het kader van de vorming van woonmaatschappijen via een herstructurering overdraagt aan een sociale huisvestingsmaatschappij of woonmaatschappij, wordt het laatste gekende positieve saldo, vermeld in artikel 5.72, § 2, tweede lid, van het Besluit Vlaamse Codex Wonen van 2021, van voor de herstructurering van de overdragende sociale huisvestingsmaatschappij of woonmaatschappij verminderd met het resultaat van de volgende berekening: het positieve saldo, vermeld in artikel 5.72, § 2, tweede lid, van het voormelde besluit, wordt vermenigvuldigd met het aantal sociale huurwoningen dat in het kader van de vorming van woonmaatschappijen via een herstructurering wordt overgedragen aan een woonmaatschappij of sociale huisvestingsmaatschappij, en wordt gedeeld door het aantal sociale huurwoningen dat bij de berekening van de GSC in het referentiejaar van het laatste berekende positieve saldo van de sociale huisvestingsmaatschappij of woonmaatschappij in rekening is gebracht.
+
+### ART 242/1.
+
+Artikel 5.73, §4, tweede lid, van het Besluit Vlaamse Codex Wonen van 2021 is niet van toepassing op een herstructurering als vermeld in artikel 242, eerste lid, 2°, van dit besluit, die gebeurt in het kader van de vorming van woonmaatschappijen.
 
 ### ART 243.
 
@@ -1933,7 +1957,7 @@ Ter uitvoering van artikel 164 van het Bodemdecreet van 27 oktober 2006 wordt aa
 
 ### ART 252.
 
-Vanaf de datum die de Vlaamse Regering zal bepalen, tot 1 januari 2028 kunnen geen verhuurbare sociale huurwoningen als vermeld in hoofdstuk 2 van bijlage 9 bij het Besluit Vlaamse Codex Wonen van 2021 verkocht worden.
+...
 
 ### ART 253.
 

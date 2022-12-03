@@ -2,16 +2,16 @@
   "codex_id": 1036917,
   "title": "Besluit van de Vlaamse Regering van 2021-12-17 tot wijziging van verschillende besluiten over wonen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036917/VolledigDocument?datum=2022-05-09",
-  "source_sha256": "6ca93b22bc9974279adae1a586a55e64cbc65410bb22816e5c1b4d2fb08161de",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036917/VolledigDocument?datum=2022-12-03",
+  "source_sha256": "ed2e08e81cdbbcb06823bad6e31dc1b3774b1dbd125973e79412ad898bd38006",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036917&param=informatie",
-  "as_of": "2022-05-09",
+  "as_of": "2022-12-03",
   "made": "2021-12-17",
   "gazette": "2022-04-15",
   "numac": 2022040494,
   "document_start": "2022-04-25",
   "document_end": null,
-  "in_force": "2022-05-09",
-  "article_versions": 256,
-  "record_form": "consolidated version as in force on 2022-05-09; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-12-03",
+  "article_versions": 260,
+  "record_form": "consolidated version as in force on 2022-12-03; future article versions excluded; article text as the API gives it"
 }
