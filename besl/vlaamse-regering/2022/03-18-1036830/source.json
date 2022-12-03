@@ -2,16 +2,16 @@
   "codex_id": 1036830,
   "title": "Besluit van de Vlaamse Regering van 2022-03-18 tot regeling van de tijdelijke huisvesting van gezinnen of alleenstaanden die dakloos zijn of dreigen te worden naar aanleiding van de oorlog in Oekraïne",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036830/VolledigDocument?datum=2022-04-14",
-  "source_sha256": "b165b1e3d780194a939d8df67775bede0722435f12b459a83a3dac7d9338794e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036830/VolledigDocument?datum=2022-12-03",
+  "source_sha256": "b986537a8009bc1f821c35629d81b730b7cefb72105f6fbddd73b00300f4d610",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036830&param=informatie",
-  "as_of": "2022-04-14",
+  "as_of": "2022-12-03",
   "made": "2022-03-18",
   "gazette": "2022-04-05",
   "numac": 2022031520,
   "document_start": "2022-04-05",
   "document_end": null,
-  "in_force": "2022-04-14",
+  "in_force": "2022-12-03",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2022-04-14; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-12-03; future article versions excluded; article text as the API gives it"
 }

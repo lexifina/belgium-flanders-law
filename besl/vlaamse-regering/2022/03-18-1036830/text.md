@@ -65,9 +65,9 @@ De VMSW controleert of de voorwaarden, vermeld in dit artikel, zijn vervuld en k
 
 ### ART 3.
 
-§ 1. De VMSW kan aan sociale huisvestingsmaatschappijen en woonmaatschappijen mobiele woonunits ter beschikking stellen voor de tijdelijke opvang van tijdelijk ontheemden uit Oekraïne als de mobiele woonunit geregistreerd en gevalideerd is in de Vlaamse huisvestingstool.<br>
+§ 1. De VMSW kan aan sociale huisvestingsmaatschappijen en woonmaatschappijen mobiele woonunits ter beschikking stellen voor de tijdelijke opvang van tijdelijk ontheemden uit Oekraïne als de mobiele woonunit geregistreerd en gevalideerd is in de Vlaamse huisvestingstool.&nbsp;Op de verhuring van de mobiele woonunit is de specifieke regeling, vermeld in artikel 6, van toepassing. Op de mobiele woonunit zijn de vereisten, vermeld in artikel 3.1, §1, van de Vlaamse Codex Wonen van 2021, van toepassing, met behoud van de toepassing van artikel 8.<br>
 <br>
-De minister, bevoegd voor het woonbeleid, bepaalt de voorwaarden waaronder de ontvangen huurgelden moeten worden terugbetaald aan de VMSW of kunnen worden verrekend in de berekening van de gewestelijke sociale correctie, vermeld in artikel 1.2, eerste lid, 54°, van het Besluit Vlaamse Codex Wonen van 2021..<br>
+De minister, bevoegd voor het woonbeleid, bepaalt de voorwaarden waaronder de ontvangen huurgelden moeten worden terugbetaald aan de VMSW of kunnen worden verrekend in de berekening van de gewestelijke sociale correctie, vermeld in artikel 1.2, eerste lid, 54°, van het Besluit Vlaamse Codex Wonen van 2021.<br>
 <br>
 § 2. Voor de installatie van de mobiele woonunit en de aansluiting aan de nutsvoorzieningen kan de VMSW of een sociale huisvestingsmaatschappij, een woonmaatschappij of een lokaal bestuur via de VMSW voor het bedrag van de reële kosten en binnen de kredieten die daarvoor op de begroting van het Vlaamse Gewest beschikbaar zijn, een beroep doen op de subsidie, vermeld in boek 5, deel 2, titel 3, van het Besluit Vlaamse Codex Wonen van 2021.
 
@@ -75,9 +75,11 @@ De minister, bevoegd voor het woonbeleid, bepaalt de voorwaarden waaronder de on
 
 § 1. Als een sociale huisvestingsmaatschappij, een woonmaatschappij of het VWF met toepassing van artikel 6.74 van het Besluit Vlaamse Codex Wonen van 2021 sociale huurwoningen die leegstaan in afwachting van renovatie, sloop of verkoop, zelf of via een leegstandsbeheerder als vermeld in artikel 6.74, § 1, eerste lid, 3°, van het voormelde besluit, verhuurt aan tijdelijk ontheemden uit Oekraïne, wordt voor de organisatie van de verhuring een eenmalige forfaitaire subsidie toegekend van 250 euro per sociale huurwoning.<br>
 <br>
+Als een sociale huisvestingsmaatschappij of woonmaatschappij een mobiele woonunit als vermeld in artikel 3, verhuurt aan tijdelijk ontheemden uit Oekraïne, wordt voor de organisatie van de verhuring een eenmalige forfaitaire subsidie toegekend van 250 euro per mobiele woonunit.<br>
+<br>
 § 2. Als een sociaal verhuurkantoor, een sociale huisvestingsmaatschappij of een woonmaatschappij een woning of een collectieve voorziening conform artikel 5, tweede lid, van het decreet van 18 maart 2022 in huur neemt, wordt voor de organisatie van de verhuring een eenmalige forfaitaire subsidie toegekend van 250 euro per zelfstandige woning of per kamer van een collectieve voorziening als de voorwaarden, vermeld in artikel 2, § 2, tweede lid, van dit besluit vervuld zijn.<br>
 <br>
-§ 3. De subsidie, vermeld in paragraaf 1 en 2, wordt aangevraagd bij de VMSW nadat de kamer, de zelfstandige woning of sociale huurwoning is verhuurd aan tijdelijk ontheemden uit Oekraïne. Bij de subsidieaanvraag wordt een kopie van de huurovereenkomst die is gesloten met de tijdelijk ontheemde uit Oekraïne gevoegd.<br>
+§ 3. De subsidie, vermeld in paragraaf 1 en 2, wordt aangevraagd bij de VMSW nadat de kamer, de zelfstandige woning, de mobiele woonunit of sociale huurwoning is verhuurd aan tijdelijk ontheemden uit Oekraïne. Bij de subsidieaanvraag wordt een kopie van de huurovereenkomst die is gesloten met de tijdelijk ontheemde uit Oekraïne gevoegd.<br>
 <br>
 De VMSW controleert of de voorwaarden, vermeld in dit artikel, zijn vervuld en keert vervolgens de subsidie uit. De subsidie wordt aangerekend op begrotingsartikel QF0-1QDG2QK-IS.
 
