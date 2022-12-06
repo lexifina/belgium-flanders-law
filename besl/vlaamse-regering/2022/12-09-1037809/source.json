@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037809,
+  "title": "Besluit van de Vlaamse Regering van 2022-12-09 tot vaststelling van een situatie van overmacht inzake omgevingsvergunningen in de stad Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037809/VolledigDocument?datum=2022-12-06",
+  "source_sha256": "62ad1c398003e8e65f28c18c556818e4ea01e5a7d6fcb818bb52c23ad07c08ea",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037809&param=informatie",
+  "as_of": "2022-12-06",
+  "made": "2022-12-09",
+  "gazette": "2022-12-21",
+  "numac": 2022043024,
+  "document_start": "2022-12-06",
+  "document_end": null,
+  "in_force": "2022-12-06",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-12-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
