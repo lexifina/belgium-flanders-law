@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037666,
+  "title": "Besluit van de Vlaamse Regering van 2022-09-09 over het goederenvervoer met brede fietsaanhangwagens in het kader van een proefproject",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037666/VolledigDocument?datum=2022-12-08",
+  "source_sha256": "8622fccab97e7b8a47c618c5f139a4e0a321858215ba1817b84a1553554859a3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037666&param=informatie",
+  "as_of": "2022-12-08",
+  "made": "2022-09-09",
+  "gazette": "2022-11-28",
+  "numac": 2022033523,
+  "document_start": "2022-12-08",
+  "document_end": "2024-12-31",
+  "in_force": "2022-12-08",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2022-12-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
