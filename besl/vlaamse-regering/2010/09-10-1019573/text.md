@@ -31,14 +31,37 @@ b) voor de hulpverleningsfunctie :<br>
 2) een multifunctionele ruimte van 25 m2 die opdeelbaar is in functie van de noden van de voorziening;<br>
 3) een sanitaire ruimte van 10 m2, met gescheiden toilet voor mannen en vrouwen en met minstens één rolstoeltoegankelijk toilet;<br>
 4) een bureauruimte van 12 m2, waar de hulpverlener taken uitvoert zonder dat de cliënt aanwezig is in de ruimte;<br>
-5° als een centrum voor algemeen welzijnswerk voorziet in residentiële opvang, beschikt het centrum, naast de vereisten, vermeld in 4°, over :<br>
-a) gemeenschappelijke kamers met maximaal twee bedden per kamer, uitgezonderd voor gezinskamers, en een nettovloeroppervlakte van minstens 8 m2 per bed en individuele kamers met een nettovloeroppervlakte van 16 m2;<br>
-b) een multifunctioneel dagverblijf in een of meer ruimten met een totale nettovloeroppervlakte van minstens 4 m2 per opvangplaats;<br>
-c) degelijke sanitaire installaties, die ten minste de volgende elementen omvatten :<br>
-1) een toilet per vijf opvangplaatsen, waarvan er minstens één rolstoeltoegankelijk is en uitgerust is met een wastafel;<br>
-2) een badgelegenheid per vijf opvangplaatsen;<br>
-3) een vaste wastafel per kamer;<br>
-4) vaste wastafels in de nabijheid van de toiletten en de eetzalen, om de residenten toe te laten overdag gemakkelijk hun handen te wassen.
+5) een gespreksruimte van 16 m2.<br>
+5° als een centrum voor algemeen welzijnswerk voorziet in groepsopvang, waarbij de gemeenschappelijke ruimten zich apart van de bewonerskamer bevinden, beschikt het gebouw van het centrum, naast de ruimtes, vermeld in punt 4°, minstens over de volgende ruimtes, die voldoen aan de volgende voorwaarden:<br>
+a) een verblijfsruimte. Die bevat de bewonerskamer, inclusief de individuele sanitaire cel met minstens een toilet en wastafel met warm en koud water, de gemeenschappelijke zit-, eet- en sanitaire ruimten voor bewoners en de keuken. De totale nettovloeroppervlakte van de verblijfsruimte bedraagt:<br>
+1) voor een eenpersoonskamer: minimaal 25 m2 per kamer, waarvan minimaal 16 m2 privéruimte, exclusief individuele sanitaire cel, en minimaal 4 m2 gemeenschappelijke zit- en eetruimte;<br>
+2) voor een tweepersoonskamer: minimaal 30 m2 per kamer, waarvan minimaal 8 m2 per persoon privéruimte, exclusief individuele sanitaire cel en minimaal 4 m2 per persoon gemeenschappelijke zit- en eetruimte;<br>
+3) voor een gezinskamer van minstens drie personen per kamer: de totale nettovloeroppervlakte van een tweepersoonskamer, verhoogd met minimaal 8 m2 privéruimte, exclusief individuele sanitaire cel, en minimaal 4 m2 gemeenschappelijke zit- en eetruimte per bijkomende persoon;<br>
+b) voldoende sanitair in de nabijheid van de bewonerskamers en van de gemeenschappelijke zit- en eetruimten. Dat sanitair bevat de volgende elementen:<br>
+1) één bad of douche per vijf bewoners als er geen individuele douches zijn;<br>
+2) ten minste één gemeenschappelijke badkamer met bad en toilet als er individuele douches zijn;<br>
+3) voldoende sanitaire ruimten voor bezoekers en personeel;<br>
+c) 25% integraal toegankelijke bewonerskamers;<br>
+d) 25% integraal toegankelijke gemeenschappelijke badkamers. Die beschikken over een bad of een douche en een rolstoeltoegankelijk toilet met wastafel met warm en koud water. Minstens één gemeenschappelijke integraal toegankelijke badkamer beschikt over een bad en een rolstoeltoegankelijk toilet met wastafel met warm en koud water;<br>
+e) voldoende buitenruimte voor gebruikers, bezoekers en personeel;<br>
+f) de ruimtes, vermeld in punt a) tot e), voldoen aan de toepasselijke normen inzake woonkwaliteit.<br>
+6° als een centrum voor algemeen welzijnswerk voorziet in studiowonen, waarbij alle ruimtes, vermeld in dit punt, zich in één ruimte bevinden, met uitzondering van punt 6°, b) en d), beschikt het gebouw van het centrum, naast de ruimtes, vermeld in punt 4°, minstens over de volgende ruimtes, die voldoen aan de volgende voorwaarden:<br>
+a) een verblijfsruimte. Die bevat de bewonerskamer, de sanitaire cel met minstens een toilet, een wastafel met warm en koud water en een bad of douche, de zit- en eetruimten voor bewoners en de keuken. De totale nettovloeroppervlakte van de verblijfsruimte bedraagt:<br>
+1) voor een eenpersoonsstudio: minimaal 25 m2;<br>
+2) voor een tweepersoonsstudio: minimaal 30 m2;<br>
+3) voor een gezinsstudio van minstens 3 personen per studio: de totale nettovloeroppervlakte van de tweepersoonsstudio, vermeerderd met 12 m2 per bijkomende persoon;<br>
+b) voldoende buitenruimte voor gebruikers, bezoekers en personeel;<br>
+c) 25% integraal toegankelijke studio's;<br>
+d) één gemeenschappelijke badkamer met een bad en een toilet met wastafel met warm en koud water;<br>
+e) de ruimtes, vermeld in punt a) tot d), voldoen aan de toepasselijke normen inzake woonkwaliteit.<br>
+<br>
+De Vlaamse minister, bevoegd voor de zorginfrastructuur, kan, op verzoek van de voorziening, een afwijking toestaan van de normen, vermeld in het eerste lid, 5°, a) 1), 2) en 3), en c) en d). Een afwijking kan alleen worden toegestaan als minimaal de volgende ruimten aanwezig zijn:<br>
+1° één integraal toegankelijke bewonerskamer;<br>
+2° één gemeenschappelijke badkamer die minstens beschikt over een bad en een toilet met wastafel met warm en koud water als er een integraal toegankelijke bewonerskamer met rolstoeltoegankelijke douche is. Als er geen integraal toegankelijke bewonerskamer met rolstoeltoegankelijke douche is, is er één integraal toegankelijke gemeenschappelijke badkamer, die minstens beschikt over een bad en een toilet met wastafel met warm en koud water.<br>
+<br>
+De Vlaamse minister, bevoegd voor de zorginfrastructuur, kan, op verzoek van de voorziening, een afwijking toestaan van de normen, vermeld in het eerste lid, 6°, a), 1), 2) en 3), en c). Een afwijking kan alleen worden toegestaan als er minimaal één integraal toegankelijke studio aanwezig is.<br>
+<br>
+De Vlaamse minister, bevoegd voor de zorginfrastructuur, kan de voorwaarden bepalen waaronder de afwijkingen, vermeld in het derde en het vierde lid, kunnen worden toegestaan.
 
 ### ART. 4.
 
@@ -64,7 +87,12 @@ De bouwfysische normen, vermeld in artikel 2 tot en met 4, gelden met behoud van
 In dit artikel wordt verstaan onder subsidiabele oppervlakte : de som van de per bouwlaag berekende nuttige vloeroppervlakte, buitenmuren inbegrepen, die in aanmerking wordt genomen voor subsidiëring.<br>
 <br>
 De subsidiabele oppervlakte bedraagt maximaal :<br>
-1° voor een centrum voor algemeen welzijnswerk : 50 m2 per tegelijk aanwezige fysieke persoon, en als het centrum ook voorziet in residentiële opvang, 25 m2 extra per opvangplaats, aanvaard door de Vlaamse minister, bevoegd voor de bijstand aan personen. Het aantal tegelijk aanwezige fysieke personen wordt berekend door het aantal voltijds equivalenten, vermeld in het erkenningsbesluit, te vermenigvuldigen met 2,68;<br>
+1° voor een centrum voor algemeen welzijnswerk:<br>
+a) 50 m2 per tegelijk aanwezige fysieke persoon. Het aantal tegelijk aanwezige fysieke personen wordt berekend door het aantal voltijdsequivalenten, vermeld in het besluit waarmee de erkenning wordt toegekend, te vermenigvuldigen met 2,68;<br>
+b) als het centrum voorziet in residentiële opvang, wordt de subsidiabele oppervlakte verhoogd met:<br>
+1) 37 m2 voor een eenpersoonskamer of -studio;<br>
+2) 7,5 m2 bovenop de oppervlakte van een eenpersoonskamer of studio voor een tweepersoonskamer of -studio;<br>
+3) 18 m2 bovenop de oppervlakte van een tweepersoonskamer of studio per extra gebruiker vanaf de derde persoon in een gezinskamer of -studio;<br>
 2° voor een centrum voor teleonthaal : 50 m2 per voltijds equivalent van de door de Vlaamse minister, bevoegd voor de bijstand aan personen, aanvaarde personeelsformatie.<br>
 <br>
 Van de maximale subsidiabele oppervlakte, vermeld in het tweede lid, kan alleen op gemotiveerd verzoek afgeweken worden bij verbouwing of uitbreiding, voor zover de erkennings- en exploitatievoorwaarden dat vereisen.
