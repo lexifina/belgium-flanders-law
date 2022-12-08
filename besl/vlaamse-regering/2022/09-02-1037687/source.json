@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037687,
+  "title": "Besluit van de Vlaamse Regering van 2022-09-02 tot aanwijzing van de personeelsleden van De Vlaamse Waterweg nv die bevoegd zijn om beslissingen over bestuurlijke vervolging te nemen en bestuurlijke sancties op te leggen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037687/VolledigDocument?datum=2022-12-08",
+  "source_sha256": "0956ce46c86d83c827e5649e4bbef9a2893d027a8ffc41956a182fc192e1542f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037687&param=informatie",
+  "as_of": "2022-12-08",
+  "made": "2022-09-02",
+  "gazette": "2022-11-28",
+  "numac": 2022033462,
+  "document_start": "2022-12-08",
+  "document_end": "2026-09-07",
+  "in_force": "2022-12-08",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2022-12-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
