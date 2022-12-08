@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037693,
+  "title": "Besluit van de Vlaamse Regering van 2022-09-02 over de voorwaarden voor digitaal of hybride vergaderen voor de organen van de provincies",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037693/VolledigDocument?datum=2022-12-08",
+  "source_sha256": "db6fa3e4f58855ef2ac066b6f0763c8fdedcf627baf5d1f272f24bd69705ca51",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037693&param=informatie",
+  "as_of": "2022-12-08",
+  "made": "2022-09-02",
+  "gazette": "2022-11-28",
+  "numac": 2022033463,
+  "document_start": "2022-12-08",
+  "document_end": null,
+  "in_force": "2022-12-08",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2022-12-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
