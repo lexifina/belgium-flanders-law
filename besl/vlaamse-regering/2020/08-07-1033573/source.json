@@ -2,16 +2,16 @@
   "codex_id": 1033573,
   "title": "Besluit van de Vlaamse Regering van 2020-08-07 betreffende het Vlaams Beschermingsmechanisme voor ondernemingen die een omzetdaling hebben ten gevolge van de verstrengde coronavirusmaatregelen genomen vanaf 29 juli 2020, tot wijziging van artikel 10 en 21 van het besluit van de Vlaamse Regering van 12 juni 2020 inzake de corona ondersteuningspremie en tot wijziging van artikel 1 van en tot toevoeging van een bijlage aan het besluit van de Vlaamse Regering van 29 mei 2020 inzake de corona handelshuurlening",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033573/VolledigDocument?datum=2021-04-16",
-  "source_sha256": "dc959a53f6935250b25b33dbd1f798a491745423e3bfa7060ae3ee691be5d476",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033573/VolledigDocument?datum=2022-12-09",
+  "source_sha256": "a5d7db937d1f5c6de018b6e92433cb0ae3a87ab0ff86772b33a53596c10e2807",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033573&param=informatie",
-  "as_of": "2021-04-16",
+  "as_of": "2022-12-09",
   "made": "2020-08-07",
   "gazette": "2020-08-17",
   "numac": 202042792,
   "document_start": "2020-08-17",
   "document_end": null,
-  "in_force": "2021-04-16",
+  "in_force": "2022-12-09",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2021-04-16; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-12-09; future article versions excluded; article text as the API gives it"
 }
