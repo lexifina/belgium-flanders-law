@@ -137,7 +137,7 @@ Het Agentschap Innoveren en Ondernemen kan de waarachtigheid van onder meer de d
 <br>
 In toepassing van artikel 40 van het decreet van 16 maart 2012 wordt de subsidie teruggevorderd binnen zes jaar na de indieningsdatum van de subsidieaanvraag in geval van niet-naleving van de voorwaarden die zijn opgelegd bij het decreet van 16 maart 2012, dit hoofdstuk of de uitvoeringsbesluiten.<br>
 <br>
-Ondernemingen moeten de subsidies die ten onrechte ontvangen werden, verhoogd met een administratiekost van 100 euro, terugbetalen aan het Agentschap Innoveren en Ondernemen.<br>
+Ondernemingen moeten de steun die ten onrechte ontvangen werd terugbetalen aan het Agentschap Innoveren en Ondernemen. Indien de onterecht ontvangen steun meer dan 300 euro bedraagt wordt een administratieve kost van 100 euro aangerekend.<br>
 <br>
 Als uit een controle blijkt dat de onderneming een subsidieaanvraag heeft ingediend op basis van onjuiste verklaringen of foutieve informatie en die niet spontaan heeft gecorrigeerd, komt die onderneming gedurende een periode van vijf jaar, vanaf het moment van de kennisgeving van de voormelde vaststelling, niet in aanmerking voor steun als vermeld in artikel 3, 5°, van het decreet van 16 maart 2012, artikel 4, eerste en vijfde lid, van het decreet van 15 juli 2016 houdende toekenning van een hinderpremie aan kleine ondernemingen die ernstige hinder ondervinden van openbare werken in het Vlaamse Gewest, en artikel 41ter, § 2, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002.
 
