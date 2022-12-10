@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037707,
+  "title": "Besluit van de Vlaamse Regering van 2022-09-16 over de elektronische melding van gegevens door schepen en tot wijziging van het besluit van de Vlaamse Regering van 25 mei 2018 tot aanpassing van de regelgeving betreffende het vervoer van gevaarlijke goederen over de binnenwateren aan de wetenschappelijke en technische vooruitgang",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037707/VolledigDocument?datum=2022-12-10",
+  "source_sha256": "914444b529df2bc42fe9316db113958d472e646a24cd3a47bbeec1408c046018",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037707&param=informatie",
+  "as_of": "2022-12-10",
+  "made": "2022-09-16",
+  "gazette": "2022-11-30",
+  "numac": 2022033695,
+  "document_start": "2022-12-10",
+  "document_end": null,
+  "in_force": "2022-12-10",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2022-12-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
