@@ -2,16 +2,16 @@
   "codex_id": 1029017,
   "title": "Decreet van 2017-12-22 over het lokaal bestuur",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029017/VolledigDocument?datum=2022-05-15",
-  "source_sha256": "bfc0b06b205d3c80839d975b507386e9cdcfdd0a01f53f12e594a144b33f43fc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029017/VolledigDocument?datum=2022-12-11",
+  "source_sha256": "fca84e2c153edc1be2de977b3d04a296d23b3f8ceba9bb61430535be97593369",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029017&param=informatie",
-  "as_of": "2022-05-15",
+  "as_of": "2022-12-11",
   "made": "2017-12-22",
   "gazette": "2018-02-15",
   "numac": 2018030427,
   "document_start": "2019-01-01",
   "document_end": null,
-  "in_force": "2022-05-15",
+  "in_force": "2022-12-11",
   "article_versions": 624,
-  "record_form": "consolidated version as in force on 2022-05-15; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-12-11; future article versions excluded; article text as the API gives it"
 }
