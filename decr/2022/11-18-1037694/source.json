@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037694,
+  "title": "Decreet van 2022-11-18 tot wijziging van het Provinciedecreet van 9 december 2005, het decreet van 22 december 2017 over het lokaal bestuur en het Bestuursdecreet van 7 december 2018, wat betreft klokkenluiders",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037694/VolledigDocument?datum=2022-12-11",
+  "source_sha256": "39feeceb642e02404cf827bdd02348a13bdba057a27d14317024206d2a68d43e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037694&param=informatie",
+  "as_of": "2022-12-11",
+  "made": "2022-11-18",
+  "gazette": "2022-12-01",
+  "numac": 2022034304,
+  "document_start": "2022-12-11",
+  "document_end": null,
+  "in_force": "2022-12-11",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2022-12-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
