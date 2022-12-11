@@ -1143,9 +1143,7 @@ De regionale radio-omroeporganisaties kunnen onafhankelijk of binnen een samenwe
 De netwerkradio-omroeporganisaties hebben tot taak binnen het aan hen toegewezen verzorgingsgebied een programma-aanbod te brengen dat is opgebouwd uit luistertijd rond een van de volgende thema's, profielen of aanbod:<br>
 1° een generalistisch profiel of muziekaanbod, met inbegrip van het brengen van journaals en informatie;<br>
 2° een Nederlandstalig en Vlaams profiel of muziekaanbod;<br>
-3° andere profielen of muziekaanbod.<br>
-<br>
-De Vlaamse Regering erkent ten minste één netwerkradio-omroeporganisatie waarvan het programma-aanbod is opgebouwd rond een Nederlandstalig en Vlaams profiel of muziekaanbod.
+3° andere profielen of muziekaanbod.
 
 ### ART 143/2.
 
@@ -1155,7 +1153,7 @@ De Vlaamse Regering erkent ten minste één netwerkradio-omroeporganisatie waarv
 a) de netwerkradio-omroeporganisaties worden opgericht in de vorm van een rechtspersoon. Het maatschappelijke doel van de rechtspersoon bestaat in het verzorgen van radioprogramma's. De netwerkradio-omroeporganisaties kunnen alle activiteiten verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van hun maatschappelijke doel als die activiteiten samenvallen of verband houden met de omroepactiviteiten.<br>
 De leden van de raad van bestuur bekleden geen politiek mandaat en zijn geen beheerder of bestuurder van de openbare omroeporganisatie of een andere rechtspersoon die een landelijke, regionale, netwerk- of lokale radio-omroeporganisatie beheert.<br>
 Rechtstreekse of onrechtstreekse bindingen tussen netwerkradio-omroeporganisaties leiden er niet toe dat een onderneming of rechtspersoon zeggenschap uitoefent over meer dan twee netwerkradio-omroeporganisaties. Rechtstreekse of onrechtstreekse bindingen tussen netwerkradio-omroeporganisaties en landelijke radio-omroeporganisaties leiden er niet toe dat een onderneming of rechtspersoon zeggenschap uitoefent over meer dan één netwerkradio-omroeporganisatie en één landelijke radio-omroeporganisatie;<br>
-b) de netwerkradio-omroeporganisatie, vermeld in artikel 143/1, eerste lid, 1°, zendt minstens vier journaals per dag uit die een verscheidenheid aan onderwerpen bevatten;<br>
+b) de netwerkradio-omroeporganisatie, vermeld in artikel 143/1, eerste lid, 1°, zendt minstens vier journaals per dag uit die een verscheidenheid aan onderwerpen bevatten. De netwerkradio-omroeporganisatie, vermeld in artikel 143/1, eerste lid, 1°, van dit decreet, die erkend wordt na 1 januari 2023, zendt een aanzienlijk deel van het aanbod uit via de invulling van het generalistische profiel of muziekaanbod. Een deel van dat muziekaanbod bestaat uit Nederlandstalige en Vlaamse muziekproducties;<br>
 c) de netwerkradio-omroeporganisatie, vermeld in artikel 143/1, eerste lid, 2°, zendt een aanzienlijk deel van het aanbod uit via de invulling van het Nederlandstalige en Vlaamse profiel of muziekaanbod. De Vlaamse Regering bepaalt dit deel.<br>
 De netwerkradio-omroeporganisatie, vermeld in artikel 143/1, eerste lid, 3°, zendt een aanzienlijk deel van het aanbod uit via de invulling van het specifieke gekozen profiel of muziekaanbod. Een deel van dit muziekaanbod bestaat uit Vlaamse muziekproducties;<br>
 d) in afwijking van artikel 131 kunnen netwerkradio-omroeporganisaties als vermeld in artikel 143/1, eerste lid, 2° en 3°, die journaals brengen maar die niet over een eigen redactie beschikken die onder leiding en verantwoordelijkheid van een hoofdredacteur staat en waarvan de redactionele onafhankelijkheid niet gewaarborgd en in een redactiestatuut is vastgelegd, samenwerken met andere redacties als daarbij de onafhankelijkheid van de berichtgeving niet in het gedrang komt en als de redactie waarmee wordt samengewerkt op haar beurt wel voldoet aan de voorwaarden, vermeld in artikel 131;<br>
@@ -1169,7 +1167,7 @@ De aanvullende kwalificatiecriteria, vermeld in het eerste lid, hebben betrekkin
 3° het financiële plan;<br>
 4° het businessplan;<br>
 5° de technische (zend)infrastructuur;<br>
-6° voor de netwerkradio-omroeporganisatie, vermeld in artikel 143/1, eerste lid, 1°, de invulling van de voorwaarde, vermeld in artikel 143/2, § 1, 2°, b);<br>
+6° voor de netwerkradio-omroeporganisatie, vermeld in artikel 143/1, eerste lid, 1°, de invulling van de voorwaarden, vermeld in artikel 143/2, § 1, 2°, b);<br>
 7° voor de netwerkradio-omroeporganisaties, vermeld in artikel 143/1, eerste lid, 2° en 3°, de invulling van de voorwaarden, vermeld in artikel 143/2, § 1, 2°, c).
 
 ### ART 143/3.
