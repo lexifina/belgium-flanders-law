@@ -8,7 +8,11 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 
 ### ART. 1bis.
 
-Dit decreet voorziet in de gedeeltelijke omzetting van de volgende   Europese richtlijnen:<BR>1° richtlijn 2004/113/EG van de Raad van 13 december   2004 houdende toepassing van het beginsel van gelijke behandeling van mannen en   vrouwen bij de toegang tot en het aanbod van goederen en diensten;<BR>2°   richtlijn 2006/54/EG van 5 juli 2006 van het Europees Parlement en de Raad   betreffende de toepassing van het beginsel van gelijke kansen en gelijke   behandeling van mannen en vrouwen in arbeid en beroep (herschikking);<BR>3°   richtlijn 2010/41/EU van het Europees Parlement en de Raad van 7 juli 2010   betreffende de toepassing van het beginsel van gelijke behandeling van   zelfstandig werkzame mannen en vrouwen en tot intrekking van richtlijn   86/613/EEG van de Raad.
+Dit decreet voorziet in de gedeeltelijke omzetting van de volgende Europese richtlijnen:<br>
+1° richtlijn 2004/113/EG van de Raad van 13 december 2004 houdende toepassing van het beginsel van gelijke behandeling van mannen en vrouwen bij de toegang tot en het aanbod van goederen en diensten;<br>
+2° richtlijn 2006/54/EG van 5 juli 2006 van het Europees Parlement en de Raad betreffende de toepassing van het beginsel van gelijke kansen en gelijke behandeling van mannen en vrouwen in arbeid en beroep (herschikking);<br>
+3° richtlijn 2010/41/EU van het Europees Parlement en de Raad van 7 juli 2010 betreffende de toepassing van het beginsel van gelijke behandeling van zelfstandig werkzame mannen en vrouwen en tot intrekking van richtlijn 86/613/EEG van de Raad;<br>
+4° richtlijn 2019/1937/EU van het Europees Parlement en de Raad van 23 oktober 2019 inzake de bescherming van personen die inbreuken op het Unierecht melden.
 
 ### ART. 2.
 
@@ -16,7 +20,16 @@ Er bestaat bij het Vlaams Parlement een Vlaams ombudsman voor de Vlaamse Gemeens
 
 ### ART. 2bis.
 
-Voor de toepassing van dit decreet wordt verstaan onder :<BR>1°   bestuursinstantie :<BR>a) een rechtspersoon die is opgericht bij of krachtens de   Grondwet, een wet, decreet of ordonnantie;<BR>b) een natuurlijke persoon. een   groepering van natuurlijke personen, een rechtspersoon of groepering van   rechtspersonen die in hun werking bepaald en gecontroleerd worden door a);<BR>c)   een natuurlijke persoon, een groepering van natuurlijke personen, een   rechtspersoon of een groepering van rechtspersonen, voor zover zij door een   bestuursinstantie in de zin van a) zijn belast met de uitoefening van een taak   van algemeen belang of voor zover zij een taak van algemeen belang behartigen en   beslissingen nemen die derden binden.<BR>Het Vlaams Parlement en zijn diensten   en instellingen vallen buiten deze definitie. De uitvoerende macht valt er   eveneens buiten voor zover die optreedt in een rechterlijke hoedanigheid;<BR>2°   bestuursinstantie van de Vlaamse Gemeenschap of het Vlaamse Gewest : elk   ministerie, departement of verzelfstandigd agentschap van de Vlaamse   administratie, een Vlaamse wetenschappelijke instelling of een Vlaamse openbare   instelling. Als Vlaamse openbare instelling wordt beschouwd elke   publiekrechtelijke rechtspersoon die werd opgericht bij of krachtens een wet of   decreet, en die ressorteert onder de bevoegdheid van de Vlaamse Gemeenschap of   het Vlaamse Gewest.<BR>3° decreet van 8 mei 2002: het decreet van 8 mei 2002   houdende evenredige participatie op de arbeidsmarkt;<BR>4° decreet van 10 juli   2008: het decreet van 10 juli 2008 houdende een kader voor het Vlaamse   gelijkekansen- en gelijkebehandelingsbeleid.
+Voor de toepassing van dit decreet wordt verstaan onder :<br>
+1° bestuursinstantie :<br>
+a) een rechtspersoon die is opgericht bij of krachtens de Grondwet, een wet, decreet of ordonnantie;<br>
+b) een natuurlijke persoon. een groepering van natuurlijke personen, een rechtspersoon of groepering van rechtspersonen die in hun werking bepaald en gecontroleerd worden door a);<br>
+c) een natuurlijke persoon, een groepering van natuurlijke personen, een rechtspersoon of een groepering van rechtspersonen, voor zover zij door een bestuursinstantie in de zin van a) zijn belast met de uitoefening van een taak van algemeen belang of voor zover zij een taak van algemeen belang behartigen en beslissingen nemen die derden binden.<br>
+Het Vlaams Parlement en zijn diensten en instellingen vallen buiten deze definitie. De uitvoerende macht valt er eveneens buiten voor zover die optreedt in een rechterlijke hoedanigheid;<br>
+2° bestuursinstantie van de Vlaamse Gemeenschap of het Vlaamse Gewest : elk ministerie, departement of verzelfstandigd agentschap van de Vlaamse administratie, een Vlaamse wetenschappelijke instelling of een Vlaamse openbare instelling. Als Vlaamse openbare instelling wordt beschouwd elke publiekrechtelijke rechtspersoon die werd opgericht bij of krachtens een wet of decreet, en die ressorteert onder de bevoegdheid van de Vlaamse Gemeenschap of het Vlaamse Gewest.<br>
+3° decreet van 8 mei 2002: het decreet van 8 mei 2002 houdende evenredige participatie op de arbeidsmarkt;<br>
+4° decreet van 10 juli 2008: het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid;<br>
+5° Bestuursdecreet: het Bestuursdecreet van 7 december 2018.
 
 ## HOOFDSTUK II DE VLAAMSE OMBUDSMAN
 
@@ -24,7 +37,21 @@ Voor de toepassing van dit decreet wordt verstaan onder :<BR>1°   bestuursinsta
 
 ### ART. 3.
 
-§ 1. De Vlaamse ombudsman heeft als opdracht :<BR>1° klachten te   onderzoeken over de handelingen en de werking van de bestuursinstanties van de   Vlaamse Gemeenschap en het Vlaamse Gewest en daarbij bemiddelend op te   treden;<BR>2° door te verwijzen naar andere bevoegde instanties, voorzover het   geen klacht betreft;<BR>3° op basis van de bevindingen die worden gedaan bij de   uitvoering van de opdrachten bedoeld in 1° en § 2, voorstellen en aanbevelingen   te formuleren om de dienstverlening van de bestuursinstanties van de Vlaamse   Gemeenschap en het Vlaamse Gewest te verbeteren en verslag uit te brengen   overeenkomstig de artikelen 16, § 2, en 18;<BR>4° de overtredingen van de   deontologische code door de Vlaamse volksvertegenwoordigers die hem ter kennis   worden gebracht, te melden aan de voorzitter van het Vlaams Parlement.<BR><BR>De   behandeling van klachten over het algemeen beleid of over de decreten, besluiten   en reglementen behoort niet tot zijn opdracht.<BR><BR>De Vlaamse ombudsman kan   zijn bevoegdheid eveneens uitoefenen ten aanzien van andere bestuursinstanties,   telkens wanneer hun door decreten of reglementen taken worden toevertrouwd die   tot de bevoegdheid van de Vlaamse Gemeenschap of het Vlaamse Gewest behoren,   ongeacht of dat gebeurt door middel van deconcentratie of decentralisatie van   bevoegdheden : <BR><BR>§ 2. De Vlaamse ombudsman heeft tevens als opdracht   meldingen te onderzoeken van personeelsleden van bestuursinstanties van de   Vlaamse Gemeenschap en het Vlaamse gewest, die in de uitoefening van hun ambt   nalatigheden, misbruiken of misdrijven binnen de bestuursinstantie waar ze zijn   tewerkgesteld hebben vastgesteld, hierna onregelmatigheden genoemd, en die ofwel   menen<BR>- dat na kennisgeving aan hun hiërarchische meerdere en daarna aan de   Interne Audit, geen of onvoldoende gevolg werd gegeven aan hun mededeling binnen   een termijn van dertig dagen;<BR>- om de enkele reden van de bekendmaking of   aangifte van deze onregelmatigheden onderworpen te zijn of zullen worden aan een   tuchtstraf of een andere vorm van openlijke of verdoken sanctie.<BR><BR>&nbsp;§   3. De Vlaamse ombudsman vervult tevens de opdracht van onafhankelijk orgaan   overeenkomstig artikel 9 van het decreet van 8 mei 2002 en artikel 40 van het   decreet van 10 juli 2008, wat betreft de beschermde kenmerken geslacht,   genderidentiteit en genderexpressie.
+§ 1. De Vlaamse ombudsman heeft als opdracht :<br>
+1° klachten te onderzoeken over de handelingen en de werking van de bestuursinstanties van de Vlaamse Gemeenschap en het Vlaamse Gewest en daarbij bemiddelend op te treden;<br>
+2° door te verwijzen naar andere bevoegde instanties, voorzover het geen klacht betreft;<br>
+3° op basis van de bevindingen die worden gedaan bij de uitvoering van de opdrachten bedoeld in 1° en § 2, voorstellen en aanbevelingen te formuleren om de dienstverlening van de bestuursinstanties van de Vlaamse Gemeenschap en het Vlaamse Gewest te verbeteren en verslag uit te brengen overeenkomstig de artikelen 16, § 2, en 18;<br>
+4° de overtredingen van de deontologische code door de Vlaamse volksvertegenwoordigers die hem ter kennis worden gebracht, te melden aan de voorzitter van het Vlaams Parlement.<br>
+<br>
+De behandeling van klachten over het algemeen beleid of over de decreten, besluiten en reglementen behoort niet tot zijn opdracht.<br>
+<br>
+De Vlaamse ombudsman kan zijn bevoegdheid eveneens uitoefenen ten aanzien van andere bestuursinstanties, telkens wanneer hun door decreten of reglementen taken worden toevertrouwd die tot de bevoegdheid van de Vlaamse Gemeenschap of het Vlaamse Gewest behoren, ongeacht of dat gebeurt door middel van deconcentratie of decentralisatie van bevoegdheden :<br>
+<br>
+§2. De Vlaamse Ombudsdienst heeft ingevolge artikel III.60/4, §1 en §3, van het Bestuursdecreet tevens als opdracht meldingen te onderzoeken van externen en personeelsleden van de overheidsinstanties over inbreuken die deze overheidsinstanties begaan.<br>
+<br>
+Dit kan na melding conform artikel III.60/3, §1 en §2, of artikel III.60/3, §3, van het Bestuursdecreet ofwel rechtstreeks, als zij menen dat de inbreuk bij interne melding niet doeltreffend kan behandeld worden of dat er een risico op represailles bestaat.<br>
+<br>
+§ 3. De Vlaamse ombudsman vervult tevens de opdracht van onafhankelijk orgaan overeenkomstig artikel 9 van het decreet van 8 mei 2002 en artikel 40 van het decreet van 10 juli 2008, wat betreft de beschermde kenmerken geslacht, genderidentiteit en genderexpressie.
 
 ## AFDELING 2 BENOEMING
 
@@ -127,11 +154,38 @@ De Vlaamse ombudsman ad interim, zoals bedoeld in artikel 7bis, derde lid, genie
 
 ### ART. 12bis.
 
-Elk personeelslid verbonden aan een bestuursinstantie van de Vlaamse Gemeenschap of het Vlaamse Gewest kan schriftelijk of mondeling bij de Vlaamse ombudsdienst melding doen van een nalatigheid, misbruik of misdrijf als bedoeld en onder de voorwaarden omschreven in artikel 3, § 2.
+Personeelsleden van de overheidsinstanties en externen kunnen schriftelijk of mondeling bij de Vlaamse Ombudsdienst, in zijn hoedanigheid van meldingskanaal, inbreuken of informatie over inbreuken, begaan door deze overheids- instanties, als vermeld en onder de voorwaarden van artikel 3, §2, melden.<br>
+&nbsp;<br>
+Deze meldingen kunnen anoniem gebeuren. De Vlaamse Ombudsdienst zendt een ontvangstmelding aan de melder binnen de zeven dagen nadat hij de melding heeft ontvangen, tenzij de melder zich uitdrukkelijk verzet tegen die ontvangstmelding of het krijgen van die ontvangstmelding de bescherming van de identiteit van de melder in gevaar brengt.<br>
+<br>
+De Vlaamse Ombudsdienst kan bij meldingen beslissen om de melding niet in behandeling te nemen indien de inbreuk van geringe betekenis is of indien de melding betrekking heeft op feiten die in een eerdere melding van de melder al zijn behandeld en de nieuwe melding geen nieuwe informatie van betekenis bevat.<br>
+<br>
+In de gevallen, vermeld in het derde lid, stuurt de Vlaamse Ombudsdienst de melder binnen zeven dagen nadat hij de melding heeft ontvangen, de beslissing om de melding niet in behandeling te nemen en een motivering voor deze beslissing.
 
 ### ART. 13.
 
-§ 1. De Vlaamse ombudsman neemt een klacht niet in behandeling wanneer de   klacht betrekking heeft op feiten die zich meer dan een jaar vóór het indienen   van de klacht hebben voorgedaan. Indien over de zaak een administratief of   gerechtelijk beroep werd ingesteld, dan wordt in die termijn van één jaar de   duur van de procedure niet meegerekend.<BR><BR>§ 2. De Vlaamse ombudsman neemt   een klacht niet in behandeling wanneer:<BR>1° de identiteit van de klager niet   bekend is;<BR>2° de klager kennelijk geen enkele poging heeft gedaan om van de   betrokken bestuursinstantie genoegdoening te krijgen;<BR>3° de klacht kennelijk   ongegrond is;<BR>4° ...<BR>5° de klacht betrekking heeft op feiten die het   voorwerp uitmaken van een gerechtelijke procedure.<BR><BR>§ 3. Het onderzoek van   een klacht wordt opgeschort wanneer omtrent de feiten een beroep bij een   rechtscollege of een georganiseerd beroep werd ingesteld.<BR><BR>De   bestuursinstantie stelt de Vlaamse ombudsman in kennis van het ingestelde beroep   en van het gevolg dat eraan gegeven wordt.<BR><BR>Als een beroep is ingesteld,   brengt de Vlaamse ombudsman de klager onverwijld op de hoogte van de opschorting   van de behandeling van zijn klacht.<BR><BR>De indiening en het onderzoek van een   klacht schorsen noch stuiten de termijnen voor het indienen van een   administratief beroep, dat georganiseerd is op grond van de bevoegdheid van de   Vlaamse Gemeenschap of het Vlaamse Gewest.<BR><BR>§ 4. De Vlaamse ombudsman   onderzoekt de gegrondheid van de melding van een onregelmatigheid als bedoeld in   artikel 3, § 2. Indien hij na een preliminair onderzoek meent dat de melding   ontvankelijk en niet kennelijk ongegrond is, vervolgt hij het onderzoek van de   feiten volgens de bepalingen van de artikelen 14 tot en met 17. In het andere   geval deelt hij aan het betrokken personeelslid schriftelijk mee waarom hij de   zaak onontvankelijk of kennelijk ongegrond acht.<BR><BR>Bij een gerechtelijk   onderzoek of een opsporingsonderzoek over de gemelde onregelmatigheid, beperkt   het optreden van de Vlaamse ombudsman zich tot een summier onderzoek met het oog   op het onder bescherming plaatsen van het betrokken personeelslid.
+§ 1. De Vlaamse ombudsman neemt een klacht niet in behandeling wanneer de klacht betrekking heeft op feiten die zich meer dan een jaar vóór het indienen van de klacht hebben voorgedaan. Indien over de zaak een administratief of gerechtelijk beroep werd ingesteld, dan wordt in die termijn van één jaar de duur van de procedure niet meegerekend.<br>
+<br>
+§ 2. De Vlaamse ombudsman neemt een klacht niet in behandeling wanneer:<br>
+1° de identiteit van de klager niet bekend is;<br>
+2° de klager kennelijk geen enkele poging heeft gedaan om van de betrokken bestuursinstantie genoegdoening te krijgen;<br>
+3° de klacht kennelijk ongegrond is;<br>
+4° ...<br>
+5° de klacht betrekking heeft op feiten die het voorwerp uitmaken van een gerechtelijke procedure.<br>
+<br>
+§ 3. Het onderzoek van een klacht wordt opgeschort wanneer omtrent de feiten een beroep bij een rechtscollege of een georganiseerd beroep werd ingesteld.<br>
+<br>
+De bestuursinstantie stelt de Vlaamse ombudsman in kennis van het ingestelde beroep en van het gevolg dat eraan gegeven wordt.<br>
+<br>
+Als een beroep is ingesteld, brengt de Vlaamse ombudsman de klager onverwijld op de hoogte van de opschorting van de behandeling van zijn klacht.<br>
+<br>
+De indiening en het onderzoek van een klacht schorsen noch stuiten de termijnen voor het indienen van een administratief beroep, dat georganiseerd is op grond van de bevoegdheid van de Vlaamse Gemeenschap of het Vlaamse Gewest.<br>
+<br>
+§4. De Vlaamse Ombudsdienst onderzoekt de melding van een inbreuk als vermeld in artikel 3, §2. Indien hij na een preliminair onderzoek meent dat de melding ontvankelijk en niet kennelijk ongegrond is, vervolgt hij het onderzoek. In het andere geval deelt hij aan de melder schriftelijk mee waarom hij de zaak onontvankelijk of kennelijk ongegrond acht.<br>
+<br>
+Bij een ontvankelijke melding brengt de Vlaamse Ombudsdienst verslag uit aan de melder binnen een termijn van drie maanden. De Vlaamse Ombudsdienst kan deze termijn van drie maanden verlengen tot maximaal zes maanden. In dat geval informeert de Vlaamse Ombudsdienst de melder en de betrokken overheid schriftelijk over de verlenging van de termijn en de reden daarvoor, voor de voormelde termijn van drie maanden verstreken is. De Vlaamse Ombudsdienst brengt de melder op de hoogte van het eindresultaat van de onderzoeken.<br>
+<br>
+De Vlaamse Ombudsdienst behandelt in zijn hoedanigheid van meldingskanaal de meldingen in overeenstemming met de regels vastgelegd in artikel III.60/6 tot en met III.60/11 van het Bestuursdecreet.
 
 ### ART. 14.
 
@@ -139,7 +193,15 @@ De Vlaamse ombudsman deelt de klager onverwijld schriftelijk mee of hij de klach
 
 ### ART. 15.
 
-§ 1. De Vlaamse ombudsman kan de bestuursinstantie waaraan of de ambtenaren aan wie hij in het kader van zijn opdracht vragen richt, een dwingende termijn opleggen voor het beantwoorden van die vragen.<br /><br />§ 2. De Vlaamse ombudsman kan bij het onderzoek van een klacht ter plaatse de nodige vaststellingen doen en de overlegging vragen van alle stukken en inlichtingen die hij dienstig acht voor de behandeling van de klacht.<br /><br />De Vlaamse ombudsman kan ter plaatse bij de betrokken bestuursinstantie alle nodige informatie inwinnen en kan de betrokkenen horen.<br /><br />De in het voorgaande lid genoemde personen zijn ten aanzien van de ombudsman ontheven van hun plicht tot geheimhouding in verband met feiten waarvan zij kennis hebben en gegevens waarover zij beschikken door hun staat of beroep.<br /><br />§ 3. De Vlaamse ombudsman kan zich laten bijstaan door deskundigen.
+§ 1. De Vlaamse ombudsman kan de bestuursinstantie waaraan of de ambtenaren aan wie hij in het kader van zijn opdracht vragen richt, een dwingende termijn opleggen voor het beantwoorden van die vragen.<br>
+<br>
+§ 2. De Vlaamse ombudsman kan bij het onderzoek van een klacht&nbsp;of een melding van informatie over inbreuken als vermeld in artikel 3, §2 ter plaatse de nodige vaststellingen doen en de overlegging vragen van alle stukken en inlichtingen die hij dienstig acht voor de behandeling van de klacht.<br>
+<br>
+De Vlaamse ombudsman kan ter plaatse bij de betrokken bestuursinstantie alle nodige informatie inwinnen en kan de betrokkenen horen.<br>
+<br>
+De in het voorgaande lid genoemde personen zijn ten aanzien van de ombudsman ontheven van hun plicht tot geheimhouding in verband met feiten waarvan zij kennis hebben en gegevens waarover zij beschikken door hun staat of beroep.<br>
+<br>
+§ 3. De Vlaamse ombudsman kan zich laten bijstaan door deskundigen.
 
 ### ART. 16.
 
@@ -151,7 +213,11 @@ De klager wordt door de diensten van de Vlaamse ombudsman geregeld geïnformeerd
 
 ### ART. 17bis.
 
-<P>Het personeelslid dat een onregelmatigheid meldt zoals bedoeld in artikel 3,   § 2, wordt op zijn verzoek onder de bescherming geplaatst van de Vlaamse   ombudsman. <BR><BR>Hiertoe werkt de Vlaamse Regering een protocol uit met de   Vlaamse ombudsdienst. Dit protocol omvat, naast de duur van de   beschermingsperiode, minimaal als beschermingsmaatregelen de schorsing van   tuchtprocedures, een regeling inzake het toewijzen van de bewijslast en de   mogelijkheid van een vrijwillige herplaatsing van het personeelslid. <BR><BR>De   Vlaamse Regering neemt in haar regelingen betreffende de rechtspositie van het   personeel bepalingen op ter implementatie van het protocol.</P>
+<p>Het personeelslid dat informatie over inbreuken meldt zoals bedoeld in artikel 3, § 2, wordt op zijn verzoek onder de bescherming geplaatst van de Vlaamse ombudsman.<br>
+<br>
+Hiertoe werkt de Vlaamse Regering een protocol uit met de Vlaamse ombudsdienst. Dit protocol omvat, naast de duur van de beschermingsperiode, minimaal als beschermingsmaatregelen de schorsing van tuchtprocedures, een regeling inzake het toewijzen van de bewijslast en de mogelijkheid van een vrijwillige herplaatsing van het personeelslid.<br>
+<br>
+De Vlaamse Regering neemt in haar regelingen betreffende de rechtspositie van het personeel bepalingen op ter implementatie van het protocol.</p>
 
 ## [HOOFDSTUK IIIbis ... (opgeh. decr. 28 oktober 2022, art. 48, I: 15 maart 2023)]
 
