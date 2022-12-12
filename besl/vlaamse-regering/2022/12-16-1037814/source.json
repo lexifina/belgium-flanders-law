@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037814,
+  "title": "Besluit van de Vlaamse Regering van 2022-12-16 tot vaststelling van een situatie van overmacht inzake omgevingsvergunningen in de stad Diest",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037814/VolledigDocument?datum=2022-12-12",
+  "source_sha256": "eb47a415c9034c10b3a518950c1004c65c74580cee6915ce82e45d42376eef8a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037814&param=informatie",
+  "as_of": "2022-12-12",
+  "made": "2022-12-16",
+  "gazette": "2022-12-21",
+  "numac": 2022043111,
+  "document_start": "2022-12-12",
+  "document_end": null,
+  "in_force": "2022-12-12",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-12-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
