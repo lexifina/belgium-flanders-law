@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040041,
+  "title": "Besluit van de Vlaamse Regering van 2022-12-09 tot wijziging van artikel 17 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie en artikel 2 van het besluit van de Vlaamse Regering van 2 oktober 2019 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040041/VolledigDocument?datum=2022-12-15",
+  "source_sha256": "82d059e37b16762c83b39bbc71223579b8854c7da3f9ceb204e06e685924afd9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040041&param=informatie",
+  "as_of": "2022-12-15",
+  "made": "2022-12-09",
+  "gazette": "2024-07-26",
+  "numac": 2024007489,
+  "document_start": "2022-12-15",
+  "document_end": null,
+  "in_force": "2022-12-15",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2022-12-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
