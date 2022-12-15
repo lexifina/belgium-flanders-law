@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037771,
+  "title": "Ministerieel besluit van 2022-10-11 tot het onttrekken aan het statuut van autosnelweg van het knooppunt Zaventem (A201/R0/R22) en het gedeelte van de A201 op het grondgebied van de gemeenten Machelen en Zaventem",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037771/VolledigDocument?datum=2022-12-15",
+  "source_sha256": "e9a9f5b6f30628aefc6653e86bba1bfb0a3ab85fef57f2df5928207d978ce20b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037771&param=informatie",
+  "as_of": "2022-12-15",
+  "made": "2022-10-11",
+  "gazette": "2022-12-14",
+  "numac": 2022033812,
+  "document_start": "2022-12-15",
+  "document_end": null,
+  "in_force": "2022-12-15",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-12-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
