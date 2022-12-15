@@ -49,7 +49,8 @@ Hij draagt de titel "Vlaams minister van Buitenlandse Zaken, Cultuur, Digitalise
 7° het agentschap Facilitair Bedrijf;<br>
 8° de Vlaamse Vereniging voor ICT-personeel (Vlaanderen connect);<br>
 9° het agentschap Digitaal Vlaanderen;<br>
-10° het Eigen Vermogen Digitaal Vlaanderen.
+10° het Eigen Vermogen Digitaal Vlaanderen.<br>
+11° het agentschap Vlaams Datanutsbedrijf.
 
 ### ART 3.
 
