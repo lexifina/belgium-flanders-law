@@ -15,7 +15,7 @@ Dit decreet voorziet in de gedeeltelijke omzetting van richtlijn 2014/61/EU van 
 ### ART. 3.
 
 &nbsp;In dit decreet wordt verstaan onder:<br>
-1° het agentschap: het intern verzelfstandigd agentschap Digitaal Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen;<br>
+1° agentschap: het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Datanutsbedrijf, opgericht krachtens het decreet van 2 december 2022 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Datanutsbedrijf in de vorm van een naamloze vennootschap;<br>
 2° ...<br>
 2° /1 civiele werken: een geheel van bouwkundige of civieltechnische werken met een oppervlakte van meer dan 50 m², dat bestemd is om een economische of technische functie te vervullen en dat een of meer elementen van een fysieke infrastructuur omvat;<br>
 2° /1/1 dringend grondwerk: een niet-geplande inname waarbij de openbare weg wordt opengebroken en die, onafhankelijk van de grootte, onmiddellijk moet worden uitgevoerd voor de veiligheid of voor de continuïteit van de nutsfunctie of dienstverlening, of om verdere schade te voorkomen;<br>
@@ -84,9 +84,11 @@ Het doel is ook, tegen lagere kosten, de uitrol van elektronische-communicatiene
 
 § 1. Het gebruik van het GIPOD is kosteloos.<br>
 <br>
-§ 2. Het agentschap is eigenaar van het GIPOD.<br>
+§ 2. ...<br>
 <br>
 Het agentschap treedt op als beheerder van de publieke informatie uit het GIPOD en stelt publieke informatie uit het GIPOD voor commercieel en niet-commercieel hergebruik ter beschikking, zonder vergoeding te vragen voor de toegang tot of het gebruik van de informatie.<br>
+<br>
+Het agentschap ontvangt voor zijn taken ter uitvoering van dit decreet van het Eigen Vermogen Digitaal Vlaanderen de werkingsmiddelen om de kosten voor het onderhoud, de exploitatie, het operationele beheer en de verdere evolutie te dekken.<br>
 <br>
 § 3. De kosten voor het onderhoud, de exploitatie, het operationeel beheer en de verdere evolutie van het GIPOD worden voor de helft gefinancierd door het Vlaamse Gewest en voor de helft door bijdragen van alle netbeheerders van fysieke leidingnetten, vermeld in artikel 2, 7°, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand.<br>
 <br>
@@ -102,7 +104,7 @@ De bijdragen zijn verschuldigd door de persoon die op 31 december voorafgaand aa
 <br>
 Indien de netbeheerder de bijdrage niet binnen de betalingstermijn betaalt, wordt het bedrag van de bijdrage verhoogd met 10 procent. Op het verhoogde bedrag is de wettelijke interest verschuldigd, vanaf het verstrijken van de betalingstermijn.<br>
 <br>
-Het agentschap is belast met de vestiging en de invordering van de bijdragen voor rekening van het Eigen Vermogen Digitaal Vlaanderen. De Vlaamse Regering duidt de personeelsleden aan van het agentschap die belast zijn met de vestiging van de bijdragen, met de invordering ervan en met de controle op de naleving van de verplichtingen betreffende deze bijdragen, en kan nadere regels met betrekking tot hun bevoegdheden bepalen.<br>
+Het agentschap Digitaal Vlaanderen is belast met de vestiging en de invordering van de bijdragen voor rekening van het Eigen Vermogen Digitaal Vlaanderen. De Vlaamse Regering duidt de personeelsleden aan van het agentschap Digitaal Vlaanderen die belast zijn met de vestiging van de bijdragen, met de invordering ervan en met de controle op de naleving van de verplichtingen betreffende deze bijdragen, en kan nadere regels met betrekking tot hun bevoegdheden bepalen.<br>
 <br>
 Bij gebrek aan voldoening van bijdrage, de verhoging, interesten en toebehoren wordt door de met de invordering belaste ambtenaar een dwangbevel uitgevaardigd. Dat dwangbevel wordt geviseerd en uitvoerbaar verklaard door het personeelslid dat daartoe aangewezen is door de Vlaamse Regering.<br>
 <br>
