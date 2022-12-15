@@ -1013,7 +1013,8 @@ De aangelegenheden die bij artikel 3 tot en met 13 aan de verschillende beleidsd
 5° Agentschap Integratie en Inburgering;<br>
 6° het Vlaams Pensioenfonds;<br>
 7° het Vlaams Agentschap voor Internationaal Ondernemen;<br>
-8° Toerisme Vlaanderen.</p>
+8° Toerisme Vlaanderen.<br>
+9° het agentschap Vlaams Datanutsbedrijf.</p>
 
 ### ART. 18.
 
