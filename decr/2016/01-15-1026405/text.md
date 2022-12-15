@@ -39,14 +39,15 @@ Het EV DV is bevoegd om:<br>
 2° overeenkomstig de wetgeving inzake overheidsopdrachten opdrachten uit te besteden die passen in de opdrachten van het EV DV en, in het bijzonder die uitvoering geven aan het creëren en beheren van gegevensbronnen en de verlening van elektronische en ICT-diensten;<br>
 3° te participeren in internationale, Europese, federale programma's en projecten;<br>
 4° mee te dingen naar internationale, Europese en federale oproepen tot onderzoeks- en ontwikkelingsvoorstellen;<br>
-5° het eigen vermogen te beheren.
+5° het eigen vermogen te beheren;<br>
+6° werkingsmiddelen toe te kennen aan het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Datanutsbedrijf voor de taken van dat agentschap in het kader van het GIPOD-decreet van 4 april 2014.
 
 ### ART. 8.
 
 Het vermogen van het EV DV wordt gevormd door:<br>
 1° de gelden, vergoedingen en bijdragen, betaald voor het leveren van diensten overeenkomstig de bevoegdheden, vermeld in artikel 7, tweede lid, 1° ;<br>
 2° de gelden, vergoedingen, subsidies en bijdragen die worden verleend ingevolge artikel 7, tweede lid, 3° en 4° ;<br>
-3° de opbrengsten van heffingen, retributies en geldboetes, onder meer vermeld in artikel 22 van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand, artikel 5, § 1, en artikel 17 van het decreet van 14 maart 2008 houdende de ontsluiting en de uitwisseling van informatie over ondergrondse kabels en leidingen en artikel 16 van het decreet van 4 april 2014 houdende de uitwisseling van informatie over een inname van het openbaar domein in het Vlaamse Gewest;<br>
+3° de opbrengsten van heffingen, retributies en geldboetes, onder meer vermeld in artikel 22 van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand, artikel 5, § 1, en artikel 17 van het decreet van 14 maart 2008 houdende de ontsluiting en de uitwisseling van informatie over ondergrondse kabels en leidingen en artikel 16 van het decreet van 4 april 2014 houdende de uitwisseling van informatie over een inname van het openbaar domein in het Vlaamse Gewest en de middelen die nodig zijn om de taak, vermeld in artikel 7, tweede lid, 6°, uit te voeren;<br>
 4° de giften, legaten, schenkingen, beurzen, prijzen of alle andere giften die zijn aanvaard krachtens de wet van 12 juli 1931 betreffende de uitbreiding tot alle rechtspersonen van het voordeel van de voorlopige aanvaarding van bij akten gedane schenkingen onder de levenden;<br>
 5° de inkomsten uit de verkoop van rapporten, brochures, kaarten, plannen of andere publicaties, met inbegrip van die producten in elektronische vorm;<br>
 6° de inkomsten uit de verkoop van materiële of intellectuele producten;<br>
