@@ -266,7 +266,7 @@ De deuren die bestemd zijn voor het comfortabel in- en uitstappen met een kinder
 
 ### ART. 58.
 
-Het personeel waakt erover dat de reizigers, en het publiek in het algemeen, de bepalingen van artikelen 64 tot en met 69 naleven.
+...
 
 ### ART. 59.
 
@@ -278,7 +278,7 @@ Het personeel waakt erover dat de reizigers, en het publiek in het algemeen, de 
 
 ### ART. 61.
 
-De bestuurder van een voertuig van de VVM en de personen vermeld in artikel 84, die belast zijn met het toezicht kunnen reizigers die de bepalingen van dit besluit overtreden, de toegang tot het voertuig ontzeggen, dan wel hen gelasten het voertuig onmiddellijk te verlaten.
+...
 
 ### ART. 62.
 
@@ -294,39 +294,25 @@ De bestuurder van een voertuig van de VVM en de personen vermeld in artikel 84, 
 
 ### ART. 64.
 
-Het is niet toegestaan :<br />1° de infrastructuur, de installaties of de apparatuur van de VVM te bevuilen of er oneigenlijk gebruik van te maken;<br />2° de voertuigen van de VVM te bevuilen;<br />3° in de voertuigen, aan de haltes of in de openbare ruimtes van de VVM de dienst van de VVM te belemmeren;<br />4° op de sporen, in de voertuigen, aan de haltes of in de openbare ruimtes van de VVM een voorwerp of een stof te werpen of achter te laten;<br />5° in de voertuigen, aan de haltes of in de openbare ruimtes van de VVM in het bezit te zijn van een voorwerp dat of een stof die, klaarblijkelijk en onmiddellijk, personen kan bevuilen, hinderen of ongemak berokkenen;<br />6° in de voertuigen, aan de haltes of in de openbare ruimtes van de VVM de openbare orde te verstoren, dan wel de rust van de aldaar aanwezigen ernstig te verstoren door :<br />a) klaarblijkelijke staat van openbare dronkenschap of beneveling door verdovende middelen of psychotrope stoffen;<br />b) klaarblijkelijke staat van onzindelijkheid;<br />c) ongewenste fysieke contacten;<br />d) beledigende, onzedelijke, intimiderende of bedreigende uitlatingen of handelingen;<br />7° in de voertuigen, in de schuilhuisjes en in de andere overdekte openbare ruimtes van de VVM te roken, met behoud van de toepassing van de bepalingen van het koninklijk besluit van 15 mei 1990 tot het verbieden van het roken in bepaalde openbare plaatsen;<br />8° zich zonder toestemming toegang te verschaffen tot de dienstlokalen en doorgangen die voor het publiek verboden en als dusdanig aangegeven zijn;<br />9° misbruik te maken van de reservatiemogelijkheden bij de centrale voor vraagafhankelijk vervoer, zoals ze worden bepaald door de minister, met inbegrip van de daaraan verbonden voorwaarden;<br />10° zich over de veiligheidsafsluitingen of -markeringen van de perrons te buigen of te begeven;<br />11° te weigeren om gevolg te geven aan de aanwijzingen die door bestuurders van de voertuigen of door de personen, vermeld in artikel 84, die belast zijn met het toezicht worden gegeven tot nakoming van de bepalingen in artikel 59 tot en met 61 en in artikel 64 en 65.<br /><br />
+...
 
 ### ART. 65.
 
-Het is niet toegestaan :<br>
-1° de infrastructuur, de installaties of de apparatuur van de VVM te beschadigen of te ontregelen;<br>
-2° de voertuigen van de VVM te hinderen, te doen vertragen of te beschadigen;<br>
-3° de seinen van de VVM aan te raken of de zichtbaarheid ervan te belemmeren;<br>
-4° de elektrische leidingen en installaties van de VVM aan te raken;<br>
-5° in de voertuigen, aan de haltes of in de openbare ruimtes van de VVM in het bezit te zijn van een voorwerp dat of een stof die, klaarblijkelijk en onmiddellijk, personen kan kwetsen, of hen aan een ander gevaar voor hun fysieke integriteit kan blootstellen;<br>
-6° de dringende maatregelen genomen door de bevoegde overheden om de verspreiding van het coronavirus COVID-19 te beperken, te overtreden in de voertuigen, aan de haltes of in de openbare ruimtes van de VVM.
+...
 
 ## [Onderafdeling II Specifieke verplichtingen van de reizigers aan boord van de voertuigen van de VVM (ing. BVR 26 januari 2007, art. 5)]
 
 ### ART. 66.
 
-<p>§ 1. Zodra de reiziger in het voertuig plaatsneemt, moet hij in het bezit zijn van een vervoerbewijs dat geldig is of geldig is gemaakt voor de rit. Het vervoerbewijs moet geldig zijn voor de volledige rit die hij ermee aflegt.<br>
-<br>
-§ 1/1. De reiziger valideert, zodra hij in het voertuig stapt, het geldige vervoerbewijs.<br>
-<br>
-§ 1/2. De reiziger moet het gevalideerde vervoerbewijs tijdens de reis op elk moment kunnen tonen aan de personen die met de controle zijn belast.<br>
-<br>
-De reiziger moet op elk moment zijn identiteit kunnen bewijzen.<br>
-<br>
-§ 2. ...</p>
+<p>...</p>
 
 ### ART. 67.
 
-Het is niet toegestaan :<br />1° tijdens de rit de bestuurder of een ander personeelslid van de VVM te misleiden door loos alarm te slaan, of op een andere wijze;<br />2° de deuren te blokkeren of ertegen te leunen;<br />3° uit het voertuig een voorwerp of een stof te werpen;<br />4° de aangegeven regels voor het exclusieve gebruik van de deuren van de voertuigen van de VVM niet na te leven;<br />5° met behoud van de toepassing van artikel 64, 11°, te weigeren om gevolg te geven aan de aanwijzingen die door bestuurders van de voertuigen of door de personen, vermeld in artikel 84, die belast zijn met het toezicht worden gegeven tot nakoming van de bepalingen in artikel 66 tot en met 68.
+...
 
 ### ART. 68.
 
-Het is niet toegestaan :<br />1° in of uit het voertuig te stappen voor het volledig stilstaat of als het aan het manoeuvreren is;<br />2° misbruik te maken van het noodsein;<br />3° gebruik te maken van de noodbediening van de deuren, of de deuren op een andere wijze te openen, behoudens in geval van gevaar en als het voertuig stilstaat;<br />4° gebruik te maken van een vervalst vervoerbewijs, van een vervalst bewijsstuk voor gratis vervoer of een tariefvermindering, of van een vervalste verminderingskaart;<br />5° gebruik te maken van een gepersonaliseerd vervoerbewijs, van een bewijsstuk dat recht geeft op gratis vervoer of een tariefvermindering, of van een verminderingskaart, telkens op naam van een andere persoon.<br />
+...
 
 ### ART. 69.
 
@@ -416,19 +402,19 @@ De Vlaamse ombudsman, vermeld in artikel 2 van het decreet van 7 juli 1998   hou
 
 ### ART. 84.
 
-§ 1. De personen die daartoe gemachtigd zijn door de minister, zijn belast   met het toezicht op de bepalingen van dit besluit.<BR><BR>Zij zijn gemachtigd om   vervoerbewijzen of verminderingskaarten in beslag te nemen en de administratieve   geldboetes of toezichts- en administratiekostenen toeslagen op te   leggen.<BR><BR>Om het naleven van de bepalingen van dit besluit na te gaan of   als zij een inbreuk vaststellen van de bepalingen van dit besluit, mogen ze de   betrokkenen om hun identiteitskaart vragen. Zij mogen degene die weigert zijn   identiteitskaart te tonen of die er geen in zijn bezit heeft, tegenhouden tot de   komst van de politie.<BR><BR>§ 2. De aanstelling blijkt uit een door de minister   ondertekend legitimatiebewijs, waarvan het model door de minister wordt   vastgesteld.
+...
 
 ## AFDELING 2 TOEZICHTS- EN ADMINISTRATIEKOSTEN
 
 ### ART. 85.
 
-De toezichts- en administratiekosten die verschuldigd zijn wegens   inbreuken op artikelen 64 tot en met 68, vastgesteld door de personen, bedoeld   in artikel 84, worden door de raad van bestuur van de VVM bepaald, waarbij het   bedrag van deze toezichts- en administratiekosten niet hoger mag zijn dan de   reële beheerskosten die voortvloeien uit de vaststelling en de afhandeling van   de in die bepaling geviseerde inbreuken.
+...
 
 ## AFDELING 3 ADMINISTRATIEVE GELDBOETE
 
 ### ART. 86.
 
-§ 1. Het personeelslid van de VVM, bedoeld in artikel 66bis van het   decreet, dat een inbreuk vast-stelt op de bepalingen van artikel 64 tot en met   68, brengt de overtreder ter plaatse op de hoogte van het voornemen om een   administratieve geldboete op te leggen. Hij licht daarover ook de dienst   Administratieve Boetes in.<BR><BR>In geval van een inbreuk op artikel 66, § 1,   kan het personeelslid van de VVM de geldboete onmiddellijk innen, met instemming   van de overtreder.<BR><BR>De overtreder kan binnen dertig dagen na de   vaststelling van de inbreuk zijn opmerkingen schriftelijk of met een e-mail aan   de dienst Administratieve Boetes laten kennen.<BR><BR>§ 2. De overtreder wordt,   binnen zestig dagen na de vaststelling van de inbreuk, door de dienst   Administratieve Boetes van de beslissing tot het opleggen van een   administratieve geldboete op de hoogte gebracht via een aangetekende brief met   ontvangstbewijs.<BR><BR>De administratieve geldboete bedraagt :<BR>1° bij een   overtreding van artikel 64, artikel 66, § 1, artikel 66, § 2, en artikel 67 :   107 euro;<BR>2° bij een overtreding van artikel 65 en 68 : 250 euro.   <BR><BR>Als, binnen een periode van twaalf maanden vanaf de kennisgeving van een   eerste overtreding als vermeld in het eerste lid, door de overtreder een of meer   soortgelijke overtredingen worden gepleegd, bedraagt de administratieve   geldboete :<BR>1° bij een overtreding van artikel 66, § 1/1, en § 1/2 :<BR>a)   bij een tweede overtreding : 20 euro;<BR>b) bij een derde overtreding en bij   elke volgende overtreding : 50 euro;<BR>2° bij een overtreding van artikel 64,   artikel 66, § 1, artikel 66, § 2, en artikel 67 :<BR>a) bij een tweede   overtreding : 294 euro;<BR>b) bij een derde overtreding en bij elke volgende   overtreding : 400 euro;<BR>3° bij een overtreding van artikel 65 en 68 :<BR>a)   bij een tweede overtreding : 400 euro;<BR>b) bij een derde overtreding en bij   elke volgende overtreding : 500 euro. <BR><BR>§ 3. De administratieve geldboete   moet worden betaald binnen dertig dagen na de kennisgeving, bedoeld in §   2.<BR><BR>§ 4. Bij gebrek aan betaling binnen de vastgestelde termijn wordt door   de teamleider van de dienst Administratieve Boetes in kwestie een dwangbevel   uitgevaardigd en uitvoerbaar verklaard.<BR><BR>§ 5. De manager Financiële   Administratie beslist over de gemotiveerde verzoeken tot vermindering of   kwijtschelding van de boetes. Het verzoekschrift wordt via een aangetekende   brief ingediend binnen een termijn van dertig dagen na de kennisgeving, bedoeld   in § 2.<BR><BR>§ 6. Gedurende het onderzoek van het verzoekschrift is de   verplichting tot het betalen van de administratieve geldboete   geschorst.<BR><BR>§ 7. De beslissing betreffende de verzoeken, bedoeld in § 5,   wordt genomen binnen drie maanden na de indiening van het verzoekschrift. Deze   termijn kan eenmaal voor dezelfde duur worden verlengd op voorwaarde dat die   verlenging omstandig wordt gemotiveerd.<BR><BR>Als binnen de verlengde termijn   geen beslissing werd genomen, wordt het verzoek geacht te zijn   ingewilligd.<BR><BR>§ 8. De definitieve beslissing over het verzoek wordt met   redenen omkleed en aan de indiener van het verzoekschrift ter kennis gebracht   via een aangetekende brief.<BR><BR>§ 9. Vanaf de kennisgeving, bedoeld in § 8,   vangt een nieuwe termijn van dertig dagen aan waarna overeenkomstig § 4 een   dwangbevel kan worden uitgevaardigd en uitvoerbaar verklaard.
+...
 
 ## HOOFDSTUK VI WIJZIGINGSBEPALING
 
