@@ -46,39 +46,39 @@ In dit besluit wordt verstaan onder :<br>
 
 ### ART. 5.
 
-<P>Subsidies kunnen worden toegekend aan particuliere   televisieomroeporganisaties voor het toegankelijk maken van televisieprogramma's   door middel van audiobeschrijving, auditieve ondertiteling, ondertiteling en   Vlaamse Gebarentaal.<BR></P>  <P>De kredieten die jaarlijks door het Vlaams Parlement worden goedgekeurd,   bepalen het maximale bedrag aan subsidies dat jaarlijks toegekend kan worden   voor het toegankelijk maken van televisieprogramma's.</P>
+<P>...</P>
 
 ### ART. 6.
 
-De aanvragen voor subsidies voor het toegankelijk maken van   televisieprogramma's door middel van audiobeschrijving, auditieve ondertiteling,   ondertiteling en Vlaamse Gebarentaal moeten elk jaar op straffe van   onontvankelijkheid uiterlijk op 1 december van het jaar dat voorafgaat aan het   jaar waarop de subsidies betrekking hebben, bij de administratie worden   ingediend.
+<P>...</P>
 
 ### ART. 7.
 
-Een aanvraag tot subsidiëring moet alle informatie en documenten bevatten   die nodig en nuttig zijn om de kwaliteit en de haalbaarheid van het dossier te   kunnen beoordelen. Bovendien moet de subsidieaanvraag op straffe van   onontvankelijkheid de volgende documenten bevatten :<BR>1° een bewijs van de   erkenning of van de kennisgeving van het omroepprogramma van de private   televisieomroeporganisatie, of van de erkenning als regionale   televisieomroeporganisatie;<BR>2° een beschrijving van het project en een   toelichting over hoe het project de toegankelijkheid bevordert;<BR>3° een opgave   van het personeel dat belast is met de realisatie van het project;<BR>4° een   begroting van het project.
+<P>...</P>
 
 ### ART. 8.
 
-De administratie stuurt binnen vijftien werkdagen, te rekenen vanaf de   datum van indiening van de aanvraag tot subsidiëring, een bericht naar de   particuliere televisieomroeporganisatie met de melding dat de aanvraag   ontvankelijk dan wel onontvankelijk is. In geval van onontvankelijkheid vermeldt   het bericht de reden daarvan.
+<P>...</P>
 
 ### ART. 9.
 
-Het ingediende dossier wordt beoordeeld op grond van de volgende criteria   :<BR>1° de inhoudelijke kwaliteit van het dossier;<BR>2° de haalbaarheid van het   project;<BR>3° de mate waarin het project de toegankelijkheid van   televisieprogramma's bevordert.
+<P>...</P>
 
 ### ART. 10.
 
-De subsidies, vermeld in artikel 151 van het decreet van 27 maart 2009   betreffende radio-omroep en televisie, worden als volgt beschikbaar gesteld   :<BR>1° een eerste schijf van 80 % wordt uitbetaald na goedkeuring van de   subsidie door de bevoegde Vlaamse minister;<BR>2° het saldo van 20 % van de   subsidie wordt uitbetaald nadat de administratie heeft vastgesteld dat de   voorwaarden waaronder de subsidie toegekend werd, nageleefd werden en dat de   subsidie aangewend werd voor de doeleinden waarvoor ze werd   verleend.
+<P>...</P>
 
 ### ART. 11.
 
-<P>Om te kunnen vaststellen dat de voorwaarden waaronder de subsidie toegekend   werd, nageleefd werden en dat de subsidie aangewend werd voor de doeleinden   waarvoor ze werd verleend, moeten uiterlijk op 30 april van het jaar dat volgt   op het jaar waarop de subsidies betrekking hebben, de volgende documenten aan de   administratie bezorgd worden :<BR>1° een werkingsverslag;<BR>2° een   zelfevaluatie-onderzoek naar de kwaliteit van de toegankelijkheid van   televisieprogramma's;<BR>3° de financiële bewijsstukken met commentaar;<BR>4°   een verslag van een erkende bedrijfsrevisor of extern accountant, waarin   vastgesteld wordt dat de middelen aangewend zijn voor het doel waarvoor ze   werden verleend.<BR></P>  <P>De administratie mag op ieder ogenblik aan de gesubsidieerde particuliere   televisieomroeporganisatie aanvullende informatie en documenten   vragen.</P>
+<P>...</P>
 
 ### ART. 12.
 
-<P>Indien de voorwaarden waaronder de subsidie werd toegekend niet worden   nageleefd of wanneer de subsidie niet wordt aangewend voor de doeleinden   waarvoor ze werd toegekend, vordert de administratie de subsidie volledig   terug.<BR></P>  <P>Indien de subsidie de netto kosten van het gesubsidieerde project overstijgt,   vordert de administratie het gedeelte van de subsidie dat overcompensatie vormt   terug.</P>
+<P>...</P>
 
 ### ART. 13.
 
-Voor subsidies die betrekking hebben op het jaar 2012, moeten de dossiers   uiterlijk één maand na de inwerkingtreding van dit besluit bij de administratie   worden ingediend.
+<P>..</P>
 
 ### ART. 14.
 
