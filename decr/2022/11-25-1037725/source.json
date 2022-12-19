@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037725,
+  "title": "Decreet van 2022-11-25 tot wijziging van het Energiedecreet van 8 mei 2009, wat de verplichte installatie van fotovoltaïsche zonnepanelen op dakoppervlakten betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037725/VolledigDocument?datum=2022-12-19",
+  "source_sha256": "7793f083189f6801cbb44f7c8a7f8058a6a15e3062a4c60b28cdcd0b81a111c3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037725&param=informatie",
+  "as_of": "2022-12-19",
+  "made": "2022-11-25",
+  "gazette": "2022-12-09",
+  "numac": 2022034523,
+  "document_start": "2022-12-19",
+  "document_end": null,
+  "in_force": "2022-12-19",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2022-12-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
