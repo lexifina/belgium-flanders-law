@@ -68,7 +68,7 @@ b) 35 euro per warmte-krachtcertificaat voor de berekening van de bandingfactor 
 20° brandstofleveranciers : elke natuurlijke persoon of rechtspersoon die aan afnemers aardgas, stookolie, steenkool, methaan, butaan en propaan levert;<br>
 21° ...<br>
 22° bruto binnenlands energieverbruik : het primaire energieverbruik verminderd met de geleverde energie aan de internationale lucht- en scheepvaartbunkers;<br>
-22/1° B<sub><span style="font-size:small">tot</span></sub>: de totale bandingcoëfficiënt, dat is de verhouding tussen het aantal toegekende, voor de certificatenverplichting aanvaardbare groenestroomcertificaten in kalenderjaar n-2 en de totale brutoproductie van groene stroom in het Vlaamse Gewest in datzelfde kalenderjaar zoals te rapporteren in het kader van de richtlijn 2009/28/EG en volgens de daarin vastgelegde berekeningsmethode;<br>
+22/1° B<sub>tot</sub>: de totale bandingcoëfficiënt, dat is de verhouding tussen het aantal toegekende, voor de certificatenverplichting aanvaardbare groenestroomcertificaten in kalenderjaar n-2 en de totale brutoproductie van groene stroom in het Vlaamse Gewest in datzelfde kalenderjaar zoals te rapporteren in het kader van de richtlijn 2009/28/EG en volgens de daarin vastgelegde berekeningsmethode;<br>
 23° budgetmeter : een budgetmeter voor elektriciteit of een budgetmeter voor aardgas;<br>
 24° budgetmeter voor aardgas: aardgasmeter met hulpkrediet die toelaat te werken via een systeem van voorafbetaling in het kader van een aan de netbeheerder opgelegde openbaredienstverplichting inzake de bescherming van huishoudelijke afnemers bij wanbetaling;<br>
 25° budgetmeter voor elektriciteit: elektriciteitsmeter met begrenzer en hulpkrediet die toelaat te werken via een systeem van voorafbetaling in het kader van een aan de netbeheerder opgelegde openbaredienstverplichting inzake de bescherming van huishoudelijke afnemers bij wanbetaling;<br>
@@ -227,7 +227,7 @@ c) beantwoorden aan het zelfstandigheidscriterium;<br>
 86° /1 middenspanning: een nominaal spanningsniveau van meer dan 1000 volt en lager dan 30 kilovolt;<br>
 87° minister : de Vlaamse minister, bevoegd voor het energiebeleid;<br>
 88°...<br>
-89° net : distributienet, plaatselijk vervoernet van elektriciteit, transmissienet, vervoersnet, gesloten distributienet of privédistributienet;<br>
+89° net : distributienet, plaatselijk vervoernet van elektriciteit, transmissienet,&nbsp;met inbegrip van de netten, vermeld in artikel 2, 41° en 42°, van de federale Elektriciteitswet, vervoersnet, gesloten distributienet of privédistributienet;<br>
 90° netbeheerder : een elektriciteitsdistributienetbeheerder, een aardgasdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit;<br>
 91° neteigenaar : eigenaar van een net;<br>
 91°/1 netgebruiker : een natuurlijke persoon of rechtspersoon die elektriciteit of aardgas injecteert op of afneemt van een distributienet;<br>
@@ -280,6 +280,7 @@ e) in het geval van een onderneming die geen kmo is: wanneer de afgelopen twee j
 102° producent : iedere natuurlijke persoon of rechtspersoon die elektriciteit opwekt, biogas produceert en/of aardgas wint, met uitsluiting van prosumenten;<br>
 103° promotor-bouwheer : een natuurlijke persoon of rechtspersoon die als geregelde werkzaamheid heeft om gebouwen op te richten, te laten oprichten of te verbouwen om ze onder bezwarende titel te vervreemden;<br>
 104° prosument: elektriciteitsdistributienetgebruiker met toegangspunt voor afname, al dan niet rechtstreeks op een transformator aangesloten, en met een decentrale productie-eenheid met een maximaal AC-vermogen kleiner dan of gelijk aan 10 kVA die hem in staat stelt elektriciteit te injecteren op het elektriciteitsdistributienet;<br>
+104°/1 publieke organisatie: de federale overheid, inclusief de parastatalen, de Vlaamse overheid, inclusief de intern en extern verzelfstandigde agentschappen, de provinciale overheden, de gemeentelijke overheden, inclusief de openbare centra voor maatschappelijk welzijn, de overheidsbedrijven, de onderwijsinstellingen en de welzijns- of gezondheidsvoorzieningen;<br>
 105° rationeel energiebeheer : het geheel van handelingen die ondernomen worden om het energiegebruik te meten, te analyseren, te verminderen en te volgen met het oog op het verkrijgen van een rationeel energiegebruik, met inbegrip van het volgen van vormingsactiviteiten rond rationeel energiegebruik en het ondernemen van haalbaarheidsstudies voor de installatie van een energiezuinig product, systeem of een energiezuinige techniek;<br>
 106° rationeel energiegebruik : het zo efficiënt mogelijke gebruik van energie;<br>
 107° reconciliatie : onderlinge verrekening tussen marktpartijen op basis van het verschil tussen gealloceerde en werkelijk gemeten energiehoeveelheden;<br>
@@ -3069,6 +3070,30 @@ De Vlaamse Regering bepaalt de nadere regels voor de te volgen overlegprocedure.
 <br>
 § 9. De Vlaamse Regering kan de tegemoetkomingen, vermeld in titel VIII van dit decreet beperken tot de ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen die een energiebeleidsovereenkomst hebben gesloten.
 
+### ART 7.7.3.
+
+§1. De Vlaamse Regering kan de natuurlijke persoon of rechtspersoon die de eigenaar, erfpachter of opstalhouder van een gebouw is, verplichten om op een deel of het geheel van de dakoppervlakte fotovoltaïsche zonnepanelen te installeren. De Vlaamse Regering kan met betrekking tot die verplichting de nadere modaliteiten vastleggen met betrekking tot het te installeren vermogen, de technische vereisten en de randvoorwaarden met betrekking tot de termijn waarbinnen de plaatsing ervan gebeurt.<br>
+<br>
+De verplichting, vermeld in het eerste lid, is dan van toepassing op de eigenaar, erfpachter of opstalhouder van gebouwen met op jaarbasis een afgenomen brutohoeveelheid elektriciteit van meer dan 1 GWh.<br>
+<br>
+In afwijking van het tweede lid is de verplichting, vermeld in het eerste lid, van toepassing op gebouwen van publieke organisaties met op jaarbasis een afgenomen brutohoeveelheid elektriciteit met een drempelwaarde van minimaal 500 MWh. Tussen 1 januari 2023 en 31 december 2025 kan de Vlaamse Regering deze drempel waarde verlagen naar minimaal 250 MWh. Vanaf 1 januari 2026 geldt een drempel waarde van minimaal 100 MWh.<br>
+<br>
+De Vlaamse Regering kan hierbij bepalen dat de verplichting, vermeld in het eerste lid, niet van toepassing is als het gemiddelde elektriciteitsverbruik van de drie voorafgaande kalenderjaren meer dan 10 procent lager is dan de verbruiken, vermeld in het tweede en derde lid.<br>
+&nbsp;<br>
+De Vlaamse Regering kan de voorwaarden bepalen waaronder andere vormen van hernieuwbare energie of participatie in een hernieuwbare-energieproject ook in aanmerking worden genomen voor het voldoen aan de verplichting, vermeld in het eerste lid.<br>
+<br>
+De Vlaamse Regering kan uitzonderingen of een uitstel vaststellen voor de verplichting, vermeld in het eerste lid, voor gebouwen die zullen worden gesloopt of waarvan het dak zal worden vervangen binnen een door de Vlaamse Regering te bepalen termijn. Het uitstel kan nooit meer bedragen dan vijf jaar vanaf het ingaan van het uitstel dat aan de aanvrager is toegekend. Het voormelde uitstel vervalt als de natuurlijke persoon of rechtspersoon die de eigenaar, erfpachter of opstalhouder is van een gebouw, niet binnen drie jaar na het ingaan van het uitstel een omgevingsvergunning voor stedenbouwkundige handelingen met betrekking tot sloop kan voorleggen of niet binnen twee jaar na het ingaan van het uitstel een door een aannemer getekende offerte voor de vervanging van het dak kan voorleggen.<br>
+<br>
+§2. De Vlaamse Regering kan aan de eigenaar, erfpachter of opstalhouder van een gebouw als vermeld in paragraaf 1 een meldingsplicht opleggen met betrekking tot de dakoppervlakte, de elektriciteitsafname, de geïnstalleerde en operationele fotovoltaïsche zonnepanelen en andere vormen van hernieuwbare energie of participatie in een hernieuwbare-energieproject als vermeld in paragraaf 1, vijfde lid.<br>
+<br>
+§3. De Vlaamse Regering kan aan de netbeheerders, de beheerder van het transmissienet, de beheerders van een gesloten distributienet, en de beheerders van de netten, vermeld in artikel 2, 41° en 42°, van de federale Elektriciteitswet, een meldingsplicht opleggen met betrekking tot de elektriciteitsafname en het bij hen aangemelde piekvermogen van geïnstalleerde en operationele fotovoltaïsche zonnepanelen met betrekking tot de EAN-codes van de gebouwen, vermeld in paragraaf 1, en het nominaal vermogen van andere vormen van hernieuwbare energie, vermeld in paragraaf 1, vijfde lid, alsook wat betreft de identificatie van de daarbij horende afnemers.<br>
+<br>
+§4. De Vlaamse Regering kan aan de afnemers met op jaarbasis een afgenomen brutohoeveelheid elektriciteit die de drempels, vermeld in paragraaf 1, overschrijdt, een meldingsplicht opleggen met betrekking tot de identificatie van de eigenaar, erfpachter of opstalhouder van een gebouw, de dakoppervlakte, de elektriciteitsafname, en de geïnstalleerde en operationele fotovoltaïsche zonnepanelen, en andere vormen van hernieuwbare energie of participatie in een hernieuwbare- energieproject, vermeld in paragraaf 1, vijfde lid.<br>
+<br>
+§5. Op eenvoudig verzoek krijgt het VEKA voor de toepassing van de verplichting, vermeld in paragraaf 1, van het kadaster en de bewaarder der hypotheken, elk voor het eigen ambtsgebied, kosteloos toegang tot de documenten betreffende de eigendom en het gebruik van gebouwen of een kosteloze kopie daarvan.<br>
+<br>
+§6. De gegevens, vermeld in paragraaf 2 tot en met 5, worden opgenomen in de databank, vermeld in artikel 12.5.1.
+
 ## [HOOFDSTUK VIII. ... (opgeh. decr. 10 maart 2017, art. 23, I: te bepalen door de Vlaamse Regering)]
 
 ### ART. 7.8.1.
@@ -3744,7 +3769,7 @@ Het VEKA is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de al
 
 ### ART 12.5.1.
 
-§ 1. Het VEKA houdt een databank voor energiegebruik en energieproductie bij. De databank bevat gegevens met betrekking tot de gebouwen in het Vlaamse Gewest, hun ligging, hun verwarmingsinstallaties, de bijhorende energieopwekkingsinstallaties, en de energieproductie en het energieverbruik bij die gebouwen. De Vlaamse Regering bepaalt welke gegevens in die databank worden bijgehouden, doorgestuurd en opgenomen.<br>
+§ 1. Het VEKA houdt een databank voor energiegebruik en energieproductie bij. De databank bevat gegevens met betrekking tot de gebouwen in het Vlaamse Gewest, hun ligging, hun verwarmingsinstallaties, de bijhorende energieopwekkingsinstallaties, en de energieproductie en het energieverbruik bij die gebouwen. De Vlaamse Regering bepaalt welke gegevens in die databank worden bijgehouden, doorgestuurd en opgenomen.&nbsp;Voor de unieke identificatie van de betrokken gebouweigenaars, huurders en houders van een zakelijk recht en van de personen op wie in het kader van deze databank verplichtingen rusten kan het ondernemingsnummer, het rijksregisternummer of het BIS-nummer opgevraagd en verwerkt worden.<br>
 <br>
 De databank heeft de volgende doelstellingen:<br>
 1° de voorbereiding van het Vlaamse energie- en klimaatbeleid ondersteunen, en dat beleid monitoren en evalueren;<br>
@@ -3755,6 +3780,7 @@ De databank heeft de volgende doelstellingen:<br>
 6° informatievragen van derden over energie en klimaat beantwoorden;<br>
 7° de evolutie van de verduurzaming van de verwarming van het gebouwenpark volgen;<br>
 8° het volgen en handhaven van verplichtingen die aan gebouweigenaars, huurders en houders van een zakelijk recht worden opgelegd voor de verwarmingsinstallaties in het gebouw;<br>
+8°/1 het volgen en handhaven van verplichtingen die aan afnemers, gebouweigenaars, erfpachters of opstalhouders worden opgelegd door of krachtens artikel 7.7.3;<br>
 9° energiefraude opsporen en detecteren;<br>
 10° de evolutie van hernieuwbaar en niet-hernieuwbaar energiegebruik van het niet-residentiële gebouwenpark volgen;<br>
 11° de evolutie van hernieuwbare energieproductie van het niet-residentiële gebouwenpark volgen;<br>
@@ -3773,6 +3799,8 @@ Het VEKA is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de al
 § 3. In afwijking van paragraaf 2 kan het VEKA in het kader van statistische en wetenschappelijke doeleinden geanonimiseerde gegevens uit de databank voor energiegebruik en energieproductie ter beschikking stellen van belanghebbende instanties. Het VEKA bepaalt de voorwaarden voor het gebruik van die gegevens.<br>
 <br>
 § 4. Met het oog op de wetenschappelijke en statistische verwerking ervan worden de gegevens gedurende een periode van vijftig jaar bewaard. Na die periode worden de persoonsgegevens geanonimiseerd.<br>
+<br>
+In afwijking van het eerste lid wordt het rijksregisternummer of het BIS-nummer, vermeld in paragraaf 1, eerste lid, niet langer bewaard dan noodzakelijk voor de uitvoering en afwerking van de taken waarvoor het werd verzameld en verwerkt.<br>
 <br>
 § 5. In het kader van de beleidsvoorbereiding, monitoring, controle en handhaving van de energieprestaties van gebouwen, en het gebruiksvriendelijker maken van elektronische toepassingen, kan het VEKA de gegevens in de databank voor energiegebruik en energieproductie koppelen aan de gebouwenpas en aan de beschikbare gegevens in andere databanken van de Vlaamse of de federale overheid, de netbeheerder of zijn werkmaatschappij en de beheerder van het vervoersnet.
 
