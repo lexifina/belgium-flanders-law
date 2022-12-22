@@ -1860,6 +1860,32 @@ Bij meldingen aan Audit Vlaanderen als vermeld in artikel III.60/4, §2, kan Aud
 <br>
 §4. Audit Vlaanderen brengt de melder op de hoogte van het eindresultaat van de onderzoeken.
 
+### ART III.60/9.
+
+§1. De Vlaamse overheid publiceert op een afzonderlijke, gemakkelijk herkenbare en toegankelijke pagina van de centrale website de volgende informatie:<br>
+1° de voorwaarden om in aanmerking te komen voor bescherming tegen represailles;<br>
+2° de elektronische adressen, de postadressen en de telefoonnummers van de interne en externe meldingskanalen, met de vermelding of ze de telefoongesprekken en de gesprekken via andere spraaksystemen opneemt;<br>
+3° de procedures voor meldingen van informatie over inbreuken bij de meldingskanalen en bij instellingen, organen en instanties van de Europese Unie, met inbegrip van:<br>
+&nbsp; a) de wijze waarop de meldingskanalen de melder kunnen vragen om de informatie te verduidelijken of bijkomende informatie te verstrekken;<br>
+&nbsp; b) de termijn voor het geven van feedback;<br>
+&nbsp; c) de soort en de inhoud van de feedback;<br>
+4° de informatie over de verwerking van persoonsgegevens;<br>
+5° de wijze waarop de melding wordt opgevolgd;<br>
+6° de remedies en procedures voor de bescherming tegen represailles en de beschikbaarheid van vertrouwelijk advies voor personen die overwegen tot melding over te gaan;<br>
+7° onverminderd artikel III.60/5, een duidelijke toelichting van de voorwaarden waaronder melders beschermd worden bij het schenden van enige geheimhoudingsregel;<br>
+8° de contactgegevens van de dienst, vermeld in paragraaf 2;<br>
+9° de rechten van de betrokken persoon.<br>
+<br>
+De website vermeldt dat melders bij voorkeur intern melden als de inbreuk doeltreffend intern kan worden behandeld en de melder van mening is dat er geen risico op represailles bestaat.<br>
+<br>
+De overheidsinstanties, vermeld in artikel III.60/2, eerste lid, 2° tot en met 9°, en Audit Vlaanderen publiceren de informatie, vermeld in het eerste en het tweede lid, op hun website of verwijzen op hun website naar de webpagina op de centrale website van de Vlaamse overheid.<br>
+<br>
+De overheidsinstanties, vermeld in artikel III.60/2, eerste lid, 10° tot en met 19°, publiceren de informatie, vermeld in het eerste en tweede lid, op hun website.<br>
+<br>
+§2. De overheidsinstanties, vermeld in artikel III.60/2, eerste lid, 1°, wijzen elk voor hun bevoegdheid de dienst aan die melders van inbreuken ondersteunt ten aanzien van de Vlaamse Ombudsdienst.<br>
+<br>
+De Vlaamse administratie en de overheidsinstanties, vermeld in artikel III.60/2, eerste lid, 10° tot en met 19°, wijzen elk voor hun bevoegdheid de dienst aan die melders van inbreuken ondersteunt ten aanzien van Audit Vlaanderen en de Vlaamse Ombudsdienst. De voormelde bevoegde dienst verstrekt volledige en onafhankelijke informatie en advies over de beschikbare remedies en procedures die bescherming bieden tegen represailles en over de rechten van de betrokken persoon. De informatie en adviezen zijn gemakkelijk en kosteloos toegankelijk.
+
 ### ART III.60/10.
 
 §1. De meldingskanalen houden een register bij van de ontvangen meldingen.<br>
