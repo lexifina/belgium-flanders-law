@@ -19,24 +19,42 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° agentschap: het agentschap, vermeld in artikel 3, § 1, 4°, van het decreet van 27 april 2018;<br>
+1° agentschap: het agentschap, vermeld in artikel 3, § 1, 4°, van het Groeipakketdecreet van 2018;<br>
 2° besluit van 13 juli 2018: het besluit van de Vlaamse Regering van 13 juli 2018 tot vaststelling van de nadere regels over de rechten en plichten van begunstigden in hun contacten met uitbetalingsactoren en tot vaststelling van de regels voor de ambtshalve en gedwongen herziening van een beslissing tot toekenning van toelagen in het kader van het gezinsbeleid;<br>
-3° decreet van 27 april 2018: het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid.<br>
-4° gezinsinspecteur: de gezinsinspecteur, vermeld in artikel 3, § 3, 4°, van het decreet van 27 april 2018.
+3° ...<br>
+4° gezinsinspecteur: de gezinsinspecteur, vermeld in artikel 3, § 3, 4°, van het Groeipakketdecreet van 2018.
 
 ## HOOFDSTUK 2. Vrijstelling van vermeldingen in en motivering van beslissingen
 
 ### ART 2.
 
-Ter uitvoering van artikel 4, tweede lid, van het besluit van 13 juli 2018 zijn de vermeldingen, vermeld in artikel 89, eerste lid, van het decreet van 27 april 2018, niet vereist:<br>
+Ter uitvoering van artikel 4, tweede lid, van het besluit van 13 juli 2018 zijn de vermeldingen, vermeld in artikel 89, eerste lid, van het Groeipakketdecreet van 2018, niet vereist:<br>
 1° vanaf de tweede betaling van de kinderopvangtoeslag, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 7 december 2018 houdende de kinderopvangtoeslag en de kleutertoeslag;<br>
 2° bij de betaling van de universele participatietoeslagen, vermeld in artikel 54 van het besluit van de Vlaamse Regering van 5 oktober 2018 tot vaststelling van de diverse hoedanigheden van het rechtgevende kind en betreffende de vrijstellingen van de toekenningsvoorwaarden voor de gezinsbijslagen, de startbedragen geboorte en adoptie en de universele participatietoeslagen.
 
 ### ART 3.
 
-Ter uitvoering van artikel 8, tweede lid, van het besluit van 13 juli 2018 worden de beslissingen tot regeling van de toelagen in het kader van het gezinsbeleid, die door of met behulp van informaticaprogramma's genomen zijn, als er geen akte is opgemaakt, geacht gemotiveerd te zijn als de relevante gegevens, die met behulp van informaticaprogramma's werden bekomen en waarop de beslissing is gebaseerd, bewaard blijven gedurende dezelfde termijn als de langste termijn, vermeld in artikel 95 tot en met 99 van het decreet van 27 april 2018.
+Ter uitvoering van artikel 8, tweede lid, van het besluit van 13 juli 2018 worden de beslissingen tot regeling van de toelagen in het kader van het gezinsbeleid, die door of met behulp van informaticaprogramma's genomen zijn, als er geen akte is opgemaakt, geacht gemotiveerd te zijn als de relevante gegevens, die met behulp van informaticaprogramma's werden bekomen en waarop de beslissing is gebaseerd, bewaard blijven gedurende dezelfde termijn als de langste termijn, vermeld in artikel 95 tot en met 99 van het Groeipakketdecreet van 2018.
 
 ## HOOFDSTUK 3. Nadere regels over het afzien van de terugvordering van onverschuldigde toelagen
+
+### ART 3/1.
+
+§1. De goede trouw, vermeld in artikel 13, tweede lid, 1°, van het besluit van 13 juli 2018, wordt vastgesteld door de uitbetalingsactor.<br>
+<br>
+Als het onverschuldigd betaalde bedrag hoger dan 1.000 euro is, legt de uitbetalingsactor de vraag tot vaststelling van de goede trouw voor aan het agentschap voor bindend advies. Het agentschap richt daarvoor een commissie op.<br>
+<br>
+De procedure voor de vaststelling van de goede trouw wordt bepaald door het agentschap.<br>
+<br>
+§2. De vaststelling van de goede trouw, vermeld in paragraaf 1, wordt gedaan op basis van een van de volgende categorieën van behartenswaardigheid:<br>
+1°&nbsp;&nbsp; &nbsp;handelingen van natuurlijke personen of rechtspersonen, zonder betrokkenheid van de leden van het feitelijk gezin, waardoor de begunstigde niet als veroorzaker van de terugvorderingen kan worden aangezien;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;de personen die deel uitmaken van het feitelijk gezin, het rechthebbend of rechtgevend kind, bevinden zich in een behartenswaardige gezondheidstoestand;<br>
+3°&nbsp;&nbsp; &nbsp;externe factoren waardoor de terugvordering van de onverschuldigd betaalde toelagen disproportionele leedverzwaring toebrengt aan de begunstigde.<br>
+<br>
+In het eerste lid wordt verstaan onder feitelijk gezin: het feitelijk gezin, &nbsp;vermeld in artikel 2 en 3 van het besluit van de Vlaamse Regering van 21 september 2018 tot vaststelling van de nadere regels voor het toekennen van een sociale toeslag en artikel 3 van het besluit van de Vlaamse Regering van 17 mei 2019 betreffende de selectieve participatietoeslagen leerling.<br>
+ <br>
+§3. Het agentschap stelt jaarlijks het inhoudelijke verslag op over de vaststelling van de goede trouw, vermeld in paragraaf 2, dat minstens rapporteert over het aantal gevallen en het overeenstemmende budget en brengt dat ter kennis van zijn raad van bestuur en van de bevoegde minister.<br>
+&nbsp;
 
 ### ART 4.
 
