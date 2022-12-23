@@ -70,6 +70,7 @@ De minister kan de periode, vermeld in het tweede lid, verlengen binnen de perke
 
 De steunaanvrager neemt een van de volgende rechtsvormen aan:<br>
 1° een natuurlijke persoon die zelfstandig een beroepsactiviteit uitoefent;<br>
+1°/1: een maatschap met een commercieel karakter;<br>
 2° een vennootschap van privaatrecht met rechtspersoonlijkheid;<br>
 3° een vereniging zonder winstoogmerk;<br>
 4° een buitenlandse onderneming met een juridisch statuut dat gelijkwaardig is aan het statuut, vermeld in punt 1°, 2° of 3°.
