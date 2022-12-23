@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037748,
+  "title": "Besluit van de Vlaamse Regering van 2022-09-16 tot wijziging van het besluit van de Vlaamse Regering van 31 januari 2014 betreffende erkenningen van producenten- en brancheorganisaties",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037748/VolledigDocument?datum=2022-12-23",
+  "source_sha256": "e8815034c100eed1c4d92afb0fb233628c574a803bb8b652afc81fd6ac4b8117",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037748&param=informatie",
+  "as_of": "2022-12-23",
+  "made": "2022-09-16",
+  "gazette": "2022-12-13",
+  "numac": 2022042361,
+  "document_start": "2022-12-23",
+  "document_end": null,
+  "in_force": "2022-12-23",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2022-12-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
