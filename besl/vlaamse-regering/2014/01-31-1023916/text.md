@@ -34,6 +34,7 @@ Dit besluit voorziet in de gedeeltelijke uitvoering van Verordening (EU) nr. 130
 10° levende planten en producten van de bloementeelt;<br>
 11° ruwe tabak;<br>
 12° rundvlees;<br>
+12° /1 melk en zuivelproducten;<br>
 13° varkensvlees;<br>
 14° schapen- en geitenvlees;<br>
 15° eieren;<br>
@@ -50,15 +51,23 @@ Dit besluit voorziet in de gedeeltelijke uitvoering van Verordening (EU) nr. 130
 
 ### ART. 3.
 
-De producentenorganisatie of unie van erkende producentenorganisaties moet bij de aanvraag tot erkenning aantonen dat de maatschappelijke zetel van de producentenorganisatie of unie van erkende producentenorganisaties op het grondgebied van het Vlaamse Gewest gevestigd is.
+De producentenorganisatie of unie van erkende producentenorganisaties moet bij de aanvraag tot erkenning aantonen dat de maatschappelijke zetel van de producentenorganisatie of unie van erkende producentenorganisaties op het grondgebied van het Vlaamse Gewest gevestigd is.<br>
+<br>
+Met behoud van de toepassing van het eerste lid toont de producentenorganisatie of de unie van producentenorganisaties in de sector melk en zuivelproducten bij de aanvraag tot erkenning aan dat ze een belangrijk deel van haar leden of omzet in het Vlaamse Gewest heeft, conform artikel 1, lid 1, van gedelegeerde verordening (EU) nr. 880/2012 van de Commissie van 28 juni 2012 ter aanvulling van Verordening (EG) nr. 1234/2007 van de Raad wat de grensoverschrijdende samenwerking en de contractuele onderhandelingen van producentenorganisaties in de sector melk en zuivelproducten betreft.
 
 ### ART. 4.
 
-<P>De minister erkent producentenorganisaties die daarom verzoeken en die   voldoen aan de voorwaarden, vermeld in artikel 154, eerste lid, van Verordening   (EU) nr. 1308/2013.<BR></P>  <P>De minister stelt per sector bijkomende erkenningsvoorwaarden vast met   betrekking tot het minimum aantal leden of het minimale volume aan vermarktbare   productie dat de leden moeten vertegenwoordigen, om versnippering te voorkomen   en een efficiënte marktwerking te bevorderen.<BR></P>  <P>Met behoud van toepassing van het tweede lid, kan de minister voor   producentenorganisaties die uitsluitend zijn samengesteld uit producenten in een   deelsector, vastgesteld overeenkomstig artikel 2, tweede lid, specifieke   bijkomende erkenningsvoorwaarden vaststellen met betrekking tot het minimum   aantal leden of het minimale volume aan vermarktbare productie binnen die   deelsector dat de leden moeten vertegenwoordigen.<BR></P>
+<p>De minister erkent producentenorganisaties die daarom verzoeken en die voldoen aan de voorwaarden, vermeld in artikel 154, eerste lid, van Verordening (EU) nr. 1308/2013.</p>
+
+<p>De minister stelt per sector bijkomende erkenningsvoorwaarden vast met betrekking tot het minimum aantal leden of het minimale volume aan vermarktbare productie dat de leden moeten vertegenwoordigen, om versnippering te voorkomen en een efficiënte marktwerking te bevorderen.</p>
+
+<p>Met behoud van toepassing van het tweede lid, kan de minister voor producentenorganisaties die uitsluitend zijn samengesteld uit producenten in een deelsector, vastgesteld overeenkomstig artikel 2, tweede lid, specifieke bijkomende erkenningsvoorwaarden vaststellen met betrekking tot het minimum aantal leden of het minimale volume aan vermarktbare productie binnen die deelsector dat de leden moeten vertegenwoordigen.<br>
+<br>
+De minister kan voor de erkenningscriteria voor de sector melk en zuivelproducten, vermeld in artikel 161, lid 1, van verordening (EU) nr. 1308/2013, aanvullende voorwaarden vaststellen voor de procedure van de erkenningsaanvraag.</p>
 
 ### ART. 5.
 
-Een producentenorganisatie of een unie van producentenorganisaties kan alleen erkend worden en blijven als ze de juridische vorm van een coöperatieve vennootschap heeft, die aan al de volgende voorwaarden voldoet:<br>
+Een producentenorganisatie of een unie van producentenorganisaties, met uitzondering van een producentenorganisatie of een unie van producentenorganisaties in de sector melk en zuivelproducten, kan alleen erkend worden en blijven als ze de juridische vorm van een coöperatieve vennootschap heeft, die aan al de volgende voorwaarden voldoet:<br>
 1° de statuten voldoen aan de voorwaarden, vermeld in artikel 153 van Verordening (EU) nr. 1308/2013;<br>
 2° de coöperatieve vennootschap is erkend door de Nationale Raad voor de Coöperatie.
 
@@ -83,15 +92,23 @@ c) de wijze van bestuur en democratische besluitvorming;<br>
 d)&nbsp;de doelstellingen&nbsp;van de producentenorganisatie of de unie van producentenorganisaties;<br>
 e) het adres van de hoofdzetel van de producentenorganisatie of van de unie van producentenorganisaties;<br>
 f) ...;<br>
-g) de voorwaarde dat een bepaald bedrijf dat lid is van de producentenorganisatie met betrekking tot de productie van een bepaald product uit een sector, zoals in artikel 2 van dit besluit bedoelde sectoren of deelsectoren, bij niet meer dan één producentenorganisatie is aangesloten;<br>
+g) de voorwaarde dat een bepaald bedrijf dat lid is van de producentenorganisatie voor de productie van een bepaald product uit een sector of deelsector als vermeld in artikel 2, met uitzondering van de sector melk en zuivelproducten, bij niet meer dan een producentenorganisatie is aangesloten;<br>
 3° het huishoudelijk reglement;<br>
-4° een geactualiseerde ledenlijst van de leden van de producentenorganisatie met de geproduceerde hoeveelheden tijdens het afgelopen kalenderjaar.</p>
-
-<p>De minister kan de procedure van de erkenningsaanvraag en de elementen en bewijsstukken die de erkenningsaanvraag moet bevatten om de aanvraag aan de erkenningsvoorwaarden te kunnen toetsen, vastleggen.</p>
+4° een geactualiseerde ledenlijst van de leden van de producentenorganisatie met de geproduceerde hoeveelheden tijdens het afgelopen kalenderjaar;<br>
+5° een plan van aanpak;<br>
+6° een financieel plan.<br>
+<br>
+In de sector melk en zuivelproducten kan voor de unies van erkende producentenorganisaties alleen een erkenning verleend worden als voldaan is aan de voorwaarde, vermeld in artikel 156, lid 2, van verordening (EU) nr. 1308/2013.<br>
+<br>
+De minister kan de procedure van de erkenningsaanvraag en de elementen en bewijsstukken die de erkenningsaanvraag moet bevatten om de aanvraag aan de erkenningsvoorwaarden te kunnen toetsen, vastleggen.</p>
 
 ### ART. 9.
 
 De producentenorganisaties en unies van producentenorganisaties bieden bij   de aanvraag tot erkenning aan de bevoegde entiteit voldoende garanties ten   aanzien van de verwezenlijking, de duur en de doelmatigheid van hun optreden. Ze   tonen aan dat hun werking bijdraagt tot een meer efficiënte werking en   concentratie van het aanbod.<BR>
+
+### ART 9/1.
+
+De erkenningsaanvraag en alle bewijsstukken worden ingediend bij de bevoegde entiteit.
 
 ### ART. 10.
 
@@ -113,7 +130,7 @@ In het eerste lid wordt verstaan onder hoofdzetel: de maatschappelijke zetel van
 
 ### ART. 13.
 
-Met behoud van de toepassing van specifieke voorwaarden als vermeld in   afdeling 2, erkent de minister brancheorganisaties die voldoen aan de   voorwaarden, vermeld in artikel 158 van Verordening (EU) nr.   1308/2013.<BR>
+Met behoud van de toepassing van specifieke voorwaarden als vermeld in artikel 18 en 18/1 van dit besluit, erkent de minister brancheorganisaties die voldoen aan de voorwaarden, vermeld in artikel 158 van Verordening (EU) nr. 1308/2013.
 
 ### ART. 14.
 
@@ -129,7 +146,7 @@ De minister kan de procedure van de erkenningsaanvraag en de elementen en   bewi
 
 ### ART. 17.
 
-&nbsp;De minister neemt, overeenkomstig artikel 158, vijfde lid, a), van verordening (EU) nr. 1308/2013, binnen een termijn van vier maanden na de ontvangst van&nbsp;een volledige&nbsp;aanvraag een beslissing over de erkenning.
+Met behoud van de toepassing van specifieke voorwaarden als vermeld in artikel 18 en 18/1 van dit besluit, neemt de minister conform artikel 158, lid 5, a), van verordening (EU) nr. 1308/2013, een beslissing over de erkenning binnen vier maanden nadat hij een volledige aanvraag heeft ontvangen.
 
 ## Afdeling 2 Specifieke sector gebonden voorwaarden voor de tabakssector en sector olijfolie en tafelolijven
 
@@ -138,6 +155,10 @@ De minister kan de procedure van de erkenningsaanvraag en de elementen en   bewi
 Met behoud van toepassing van de algemene voorwaarden, vermeld in artikel   13, moeten brancheorganisaties in de sector olijfolie en tafelolijven en de   sector tabak voldoen aan de aanvullende voorschriften, vermeld in artikel 162   van Verordening (EU) nr. 1308/2013.<BR>
 
 ## [Afdeling 3 Specifieke sectorgebonden voorwaarden voor melk en zuivelproducten (ing. BVR 16 september 2022, art. 9, I: 23 december 2022)]
+
+### ART 18/1.
+
+Met behoud van de toepassing van de voorwaarden, vermeld in artikel 158 van verordening (EU) nr. 1308/2013, voldoen brancheorganisaties in de sector melk en zuivelproducten aan de voorschriften, vermeld in artikel 163 van de voormelde verordening.
 
 ## HOOFDSTUK 4 Uitbreiding van regels en verplichte betalingen van niet-leden
 
