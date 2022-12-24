@@ -2,16 +2,16 @@
   "codex_id": 1030058,
   "title": "Besluit van de Vlaamse Regering van 2018-12-07 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030058/VolledigDocument?datum=2022-09-16",
-  "source_sha256": "98f35e899f98ec6e4eb2ba2af809a4954a9709d5690d2a5c95ad532b9b548eab",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030058/VolledigDocument?datum=2022-12-24",
+  "source_sha256": "78ffa69b1b03e15c55e8f805a65db4febff7b88ad7c9888b09e6948582ba177a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030058&param=informatie",
-  "as_of": "2022-09-16",
+  "as_of": "2022-12-24",
   "made": "2018-12-07",
   "gazette": "2018-12-31",
   "numac": 2018015682,
   "document_start": "2019-01-01",
   "document_end": null,
-  "in_force": "2022-09-16",
+  "in_force": "2022-12-24",
   "article_versions": 50,
-  "record_form": "consolidated version as in force on 2022-09-16; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-12-24; future article versions excluded; article text as the API gives it"
 }
