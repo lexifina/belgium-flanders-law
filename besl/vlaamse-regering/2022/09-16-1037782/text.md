@@ -26,6 +26,61 @@ Na beraadslaging,<br>
 &nbsp;&nbsp; &nbsp;<br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+Aan artikel 1 van het besluit van de Vlaamse Regering tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten, worden de volgende wijzigingen aangebracht:<br>
+1° er wordt een punt 4°/1 ingevoegd, dat luidt als volgt:&nbsp;<br>
+“4°/1 deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf: het deel van de basistegemoetkoming voor zorg in de woonzorgcentra en centra voor kortverblijf dat de voorzieningen tussen 1 januari 2020 en 31 december 2021 verkregen op basis van artikel 504/3 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;”<br>
+2° er wordt een punt 10°/1 ingevoegd, dat luidt als volgt:&nbsp;<br>
+“10°/1 vijfde Vlaams Intersectoraal Akkoord: vijfde Vlaams Intersectoraal Akkoord van 8 juni 2018 voor de social/-non profitsectoren (VIA5) voor de periode 2018 tot 2020;”;<br>
+3° er wordt een punt 12° toegevoegd, dat luidt als volgt:&nbsp;<br>
+“12° zesde Vlaams Intersectoraal Akkoord: zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/-non profitsectoren (VIA6) voor de periode 2021 tot 2025.”.
+
+### ART 2.
+
+Aan artikel 16/10, eerste lid, van het besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten, ingevoegd bij het besluit van de Vlaamse Regering van 16 juli 2021, wordt een punt 10° toegevoegd, dat luidt als volgt:<br>
+“10° centra voor geestelijke gezondheidszorg als vermeld in artikel 2, 1°, van het decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg, die erkend zijn door de Vlaamse Regering conform artikel 19 en 20 van het voormelde decreet.”.
+
+### ART 3.
+
+In artikel 16/11 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 juli 2021, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt tussen de zinsnede “16/10,” en de woorden “een bedrag” de zinsnede “eerste lid, 1° tot en met 9°,” ingevoegd;<br>
+2° aan de bestaande tekst, die paragraaf 1 zal vormen, wordt een paragraaf 2 toegevoegd, die luidt als volgt:&nbsp;<br>
+“§2. &nbsp;In september 2022 stort het agentschap aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2021.&nbsp;<br>
+Het voorschot, vermeld in het eerste lid, bedraagt in totaal 60% van het hiervoor op basis van het zesde Vlaamse Intersectorale Akkoord voorziene bedrag in de begroting 2021. Het voorschot wordt pro rata verdeeld over de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, op basis van rubriek 62 van de resultatenrekening van 2020.”.
+
+### ART 4.
+
+In artikel 16/12 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 juli 2021, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° in het eerste lid wordt tussen de zinsnede “16/10,” en de woorden “een bedrag” de zinsnede “eerste lid, 1° tot en met 9°,” ingevoegd;<br>
+2° aan de bestaande tekst, die paragraaf 1 zal vormen, wordt een paragraaf 2 toegevoegd, die luidt als volgt:&nbsp;<br>
+“§2. Het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, te compenseren voor de rechten 2021, wordt in november 2022 aan het agentschap meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.&nbsp;<br>
+In december 2022 betaalt het agentschap aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren voor de rechten 2021, of vordert het agentschap het te veel betaalde bedrag terug. Het saldo is het verschil tussen het bedrag dat door het orgaan of de instelling, conform het vorige lid, in november 2022 aan het agentschap meegedeeld wordt en het bedrag dat het agentschap op basis van artikel 16/11, §2, betaald heeft.<br>
+Het totaal van de bedragen die aan de voorzieningen worden gestort conform deze paragraaf en artikel 16/11, §2, is niet hoger dan het hiervoor op basis van het zesde Vlaamse Intersectorale Akkoord voorziene bedrag in de begroting 2021.”.
+
+### ART 5.
+
+In artikel 16/13 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 juli 2021, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt tussen de zinsnede “16/10,” en de woorden “een bedrag” de zinsnede “eerste lid, 1° tot en met 9°,” ingevoegd;<br>
+2° aan de bestaande tekst, die paragraaf 1 zal vormen, wordt een paragraaf 2 toegevoegd, die luidt als volgt:&nbsp;<br>
+“§2. In september 2022 stort het agentschap aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, een voorschot op het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2022.&nbsp;<br>
+Het voorschot, vermeld in het eerste lid, bedraagt in totaal 60% van het hiervoor op basis van het zesde Vlaamse Intersectorale Akkoord voorziene bedrag in de begroting 2022. Het voorschot wordt pro rata verdeeld over de voorzieningen, vermeld in artikel 16/10, 10°, op basis van rubriek 62 uit van de resultatenrekening van 2021.”.
+
+### ART 6.
+
+In artikel 16/14, ingevoegd bij het besluit van de Vlaamse Regering van 16 juli 2021, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° in het eerste lid wordt tussen de zinsnede “16/10,” en de woorden “een bedrag”, de zinsnede “punt 1° tot en met 9°,” ingevoegd;<br>
+2° in het derde lid wordt de zinsnede “16/14” vervangen door de zinsnede “16/13”.
+
+### ART 7.
+
+In artikel 16/15 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 juli 2021, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt tussen de zinsnede “16/10,” en de woorden “een bedrag” de zinsnede “eerste lid, 1° tot en met 9°,” ingevoegd;<br>
+2° aan de bestaande tekst, die paragraaf 1 zal vormen, wordt een paragraaf 2 toegevoegd, die luidt als volgt:&nbsp;<br>
+“§2. Het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, te compenseren voor de rechten 2022, wordt in juni 2023 aan het agentschap meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+In juni 2023 stort het agentschap aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2022, of vordert het agentschap het te veel betaalde bedrag terug. Het saldo is het verschil tussen het bedrag dat door het orgaan of de instelling, conform het vorige lid, in mei 2023 aan het agentschap meegedeeld wordt en het bedrag dat het agentschap op basis van artikel 16/13, §2, betaald heeft.<br>
+Het totaal van de bedragen die aan de voorzieningen worden gestort conform deze paragraaf en artikel 16/13, §2, is niet hoger dan het hiervoor op basis van het zesde Vlaamse Intersectorale Akkoord voorziene bedrag in de begroting 2022.”.
+
 ### ART 8.
 
 In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 17 december 2021, wordt een hoofdstuk 3/5, dat bestaat uit artikel 16/17 tot en met 16/22, ingevoegd, dat luidt als volgt:<br>
@@ -63,3 +118,11 @@ Het bedrag dat aan de voorzieningen wordt gestort, wordt uiterlijk in mei 2023 a
 Het totaal van de bedragen die aan de voorzieningen worden gestort met toepassing van dit artikel en artikel 16/20, is niet hoger dan het bedrag dat daarvoor is vastgelegd in de begroting van 2022 op basis van het Zesde Vlaams Intersectoraal Akkoord. In dat bedrag wordt ook de opbrengst van het deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf voor de openbare sector opgenomen.&nbsp;<br>
 <br>
 Art. 16/22. De voorziening die weigert zich aan de controle van het agentschap te onderwerpen, verliest de rechten, vermeld in dit hoofdstuk.”.
+
+### ART 9.
+
+Artikel 8 van dit besluit treedt in werking op 16 september 2022.
+
+### ART 10.
+
+De Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, is belast met de uitvoering van dit besluit.
