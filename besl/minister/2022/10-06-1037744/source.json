@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037744,
+  "title": "Ministerieel besluit van 2022-10-06 tot regeling van de werking van de Vlaamse reaffectatiecommissie bij het ministerie van Onderwijs en Vorming",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037744/VolledigDocument?datum=2022-12-24",
+  "source_sha256": "d4983eab4a7ecbfc131cdf9999d76692c440f002c26079c310f8ae01fa0b057c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037744&param=informatie",
+  "as_of": "2022-12-24",
+  "made": "2022-10-06",
+  "gazette": "2022-12-14",
+  "numac": 2022033732,
+  "document_start": "2022-12-24",
+  "document_end": null,
+  "in_force": "2022-12-24",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2022-12-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
