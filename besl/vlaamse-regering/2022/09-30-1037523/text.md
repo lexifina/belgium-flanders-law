@@ -81,3 +81,19 @@ In artikel 10 van hetzelfde besluit wordt het getal "20" vervangen door de het g
 ### ART 6.
 
 In artikel 10, §3, 1°, van het besluit van de Vlaamse Regering van 25 februari 2022 tot bepaling van de regels om een vergoeding toe te kennen voor de verstrekking van veevoeder met een methaanreducerend effect aan melkvee wordt de zinsnede "minstens 30% graskuil" vervangen door de zinsnede "maximaal 30% graskuil".&nbsp;
+
+### ART 7.
+
+&nbsp;Artikel 1, 2, 3 en 4 hebben uitwerking met ingang van 1 januari 2022.
+
+### ART 8.
+
+Artikel 5 heeft uitwerking met ingang van 23 maart 2022.&nbsp;
+
+### ART 9.
+
+&nbsp;Artikel 6 heeft uitwerking met ingang van 1 maart 2022.
+
+### ART 10.
+
+De Vlaamse minister, bevoegd voor de landbouw, is belast met de uitvoering van dit besluit.

@@ -2,16 +2,16 @@
   "codex_id": 1037523,
   "title": "Besluit van de Vlaamse Regering van 2022-09-30 tot wijziging van artikel 1, 3, 9 en 10, en de bijlage van het besluit van de Vlaamse Regering van 10 september 2021 tot bepaling van de regels om subsidies te verlenen voor de uitvoering van maatregelen met een gunstig effect op milieu, klimaat of biodiversiteit en tot wijziging van artikel 10 van het besluit van de Vlaamse Regering van 25 februari 2022 tot bepaling van de regels om een vergoeding toe te kennen voor de verstrekking van veevoeder met een methaanreducerend effect aan melkvee",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037523/VolledigDocument?datum=2022-03-23",
-  "source_sha256": "ec573bc900c1464021437f59342cbd01840293282c1949f6d0e35f4f46493e09",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037523/VolledigDocument?datum=2022-12-29",
+  "source_sha256": "6cd37d55860a5eb6171b5004efdcfaa6d5394747199b018c4e8d73515027ea13",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037523&param=informatie",
-  "as_of": "2022-03-23",
+  "as_of": "2022-12-29",
   "made": "2022-09-30",
   "gazette": "2022-12-19",
   "numac": 2022033989,
   "document_start": "2022-12-29",
   "document_end": null,
-  "in_force": "2022-03-23",
-  "article_versions": 7,
-  "record_form": "consolidated version as in force on 2022-03-23; future article versions excluded; article text as the API gives it"
+  "in_force": "2022-12-29",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2022-12-29; future article versions excluded; article text as the API gives it"
 }
