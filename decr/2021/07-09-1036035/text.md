@@ -1461,6 +1461,14 @@ Op vennootschapsrechtelijke herstructureringen gestart na de inwerkingtreding va
 
 De uitgifte van nieuwe soorten van aandelen, het afschaffen van een of meer soorten, het gelijkstellen van de rechten verbonden aan een soort van aandelen met de rechten van een andere soort, het rechtstreeks of onrechtstreeks wijzigen van de rechten verbonden aan een soort, de uitgifte van nieuwe aandelen die niet evenredig zijn aan het aantal uitgegeven aandelen binnen elke soort, met het oog op het voldoen aan de bepalingen van boek 4, deel 1, titel 3, van de Vlaamse Codex Wonen van 2021, zijn uitsluitend onderworpen aan het aanwezigheidsquorum, de meerderheidsvereiste en de procedure van de statutenwijziging in het algemeen.
 
+### ART 211/1.
+
+De bij of krachtens een wet of decreet aan een instrumenterende ambtenaar opgelegde informatieverplichtingen en formaliteiten die betrekking hebben op gebouw-, grond- of omgevingsgebonden gegevens van een onroerend goed, zijn niet van toepassing op akten van een fusie, een splitsing, een gemengde splitsing of een met splitsing gelijkgestelde rechtshandeling in de zin van boek 12 van het Wetboek van vennootschappen en verenigingen die worden verleden naar aanleiding van de overdrachten, vermeld in artikel 209, §3, van dit decreet of artikel 4.38, §4, van de Vlaamse Codex Wonen van 2021.<br>
+<br>
+Met het oog op de overdracht van onroerende goederen, vermeld in het eerste lid, bezorgen de partijen die bij de herstructurering betrokken zijn, een lijst aan de instrumenterende ambtenaar. In die lijst worden de over te dragen onroerende goederen duidelijk geïdentificeerd aan de hand van de geografische ligging, de kadastrale gegevens die blijken uit een kadastraal uittreksel van minder dan één jaar oud, de aard en de oppervlakte ervan. De instrumenterende ambtenaar voegt die lijst als bijlage bij de te verlijden akte van een fusie, een splitsing, een gemengde splitsing of een met splitsing gelijkgestelde rechtshandeling, zonder dat de instrumenterende ambtenaar enige verplichting of verantwoordelijkheid over de inhoud van die lijst heeft.<br>
+&nbsp;<br>
+De lijst met overgedragen onroerende goederen, vermeld in het tweede lid, wordt op het kantoor Rechtszekerheid overgeschreven met het oog op de tegenstelbaarheid van de overdracht van onroerende goederen, vermeld in het eerste lid, aan derden te goeder trouw met een concurrent recht.
+
 ## Onderafdeling 2. Overdrachten aan sociale huisvestingsmaatschappijen of woonmaatschappijen
 
 ### ART 212.
