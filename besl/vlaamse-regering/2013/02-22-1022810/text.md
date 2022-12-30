@@ -30,12 +30,12 @@
 
 ### ART. 1.
 
-Per kieskring wordt het volgend aantal leden van het Vlaams Parlement   rechtstreeks verkozen door het kiezerskorps :<BR>1° kieskring Antwerpen : 33   leden;<BR>2° kieskring Vlaams-Brabant : 20 leden;<BR>3° kieskring Limburg : 16   leden;<BR>4° kieskring Oost-Vlaanderen : 27 leden;<BR>5° kieskring   West-Vlaanderen : 22 leden.
+...
 
 ### ART. 2.
 
-Het besluit van de Vlaamse Regering van 23 april 2004 houdende   vaststelling van het aantal te verkiezen Vlaamse Volksvertegenwoordigers per   kieskring wordt opgeheven.
+...
 
 ### ART. 3.
 
-De Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden, is   belast met de uitvoering van dit besluit.
+...

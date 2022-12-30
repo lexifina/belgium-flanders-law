@@ -2,16 +2,16 @@
   "codex_id": 1022810,
   "title": "Besluit van de Vlaamse Regering van 2013-02-22 houdende vaststelling van het aantal te verkiezen Vlaamse volksvertegenwoordigers per kieskring",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022810/VolledigDocument?datum=2013-04-01",
-  "source_sha256": "a0bf20ab6ae5ff44b23789dd212cb265894c89d1c8aa539e23fb43c07bb4f7a6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022810/VolledigDocument?datum=2022-12-30",
+  "source_sha256": "9f3ad44457184f9e6a79371ec5acae273c55f698f93d394325024980a58e3d56",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022810&param=informatie",
-  "as_of": "2013-04-01",
+  "as_of": "2022-12-30",
   "made": "2013-02-22",
   "gazette": "2013-03-22",
   "numac": 2013035279,
   "document_start": "2013-04-01",
   "document_end": "2099-12-31",
-  "in_force": "2013-04-01",
+  "in_force": "2022-12-30",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2022-12-30; future article versions excluded; article text as the API gives it"
 }
