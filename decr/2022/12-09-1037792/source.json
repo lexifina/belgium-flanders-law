@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037792,
+  "title": "Decreet van 2022-12-09 tot wijziging van het decreet van 9 juli 2021 houdende wijziging van diverse decreten met betrekking tot wonen, wat betreft de vrijstelling van bepaalde informatieverplichtingen en formaliteiten in het kader van de vorming van woonmaatschappijen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037792/VolledigDocument?datum=2022-12-30",
+  "source_sha256": "29fd22d7633701479dc04ec575e073ba7cfa14cb6ff1c05f12ffcdb6c2fc7bf8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037792&param=informatie",
+  "as_of": "2022-12-30",
+  "made": "2022-12-09",
+  "gazette": "2022-12-20",
+  "numac": 2022034766,
+  "document_start": "2022-12-30",
+  "document_end": null,
+  "in_force": "2022-12-30",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2022-12-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
