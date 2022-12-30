@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037768,
+  "title": "Besluit van de Vlaamse Regering van 2022-12-02 tot vaststelling van het aantal zetels van het Vlaams Parlement dat aan elke kieskring toekomt",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037768/VolledigDocument?datum=2022-12-30",
+  "source_sha256": "bfe3f4b952c0916f39d7cb086adb52397a06eff15545554baff72cb3abe6f78e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037768&param=informatie",
+  "as_of": "2022-12-30",
+  "made": "2022-12-02",
+  "gazette": "2022-12-20",
+  "numac": 2022034670,
+  "document_start": "2022-12-30",
+  "document_end": null,
+  "in_force": "2022-12-30",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2022-12-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
