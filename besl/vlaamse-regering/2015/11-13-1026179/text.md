@@ -17,24 +17,25 @@ Besluit :
 
 ### ART. 1.
 
-<p>§ 1. Dit besluit is van toepassing op communautaire zeelieden die door reders met een exploitatiezetel op het grondgebied van het Vlaamse Gewest of met een exploitatiezetel in een andere lidstaat van de EER worden tewerkgesteld op zeeschepen met eigen voorstuwing waarvoor een zeebrief wordt voorgelegd en die geregistreerd zijn in een lidstaat van de Europese Economische Ruimte.</p>
+<p>§ 1. Dit besluit is van toepassing op communautaire zeelieden die door reders met een exploitatiezetel op het grondgebied van het Vlaamse Gewest of met een exploitatiezetel in een andere lidstaat van de EER worden tewerkgesteld op zeeschepen met eigen voorstuwing waarvoor een&nbsp;certificaat van registratie in uitvoering van artikel 91 van het Verdrag van de Verenigde Naties inzake het recht van de Zee van 10 december 1982 wordt voorgelegd en die geregistreerd zijn in een lidstaat van de Europese Economische Ruimte.</p>
 
-<p>Onder de communautaire zeelieden, vermeld in het eerste lid, wordt verstaan :<br>
-1° burgers van de Europese Gemeenschap of van de Europese Economische Ruimte als het zeelieden betreft die werken aan boord van schepen, met inbegrip van ro-ro veerboten, die geregelde passagiersdiensten tussen havens van de Europese Gemeenschap verzorgen;<br>
-2° in alle andere gevallen, dan de gevallen in punt 1°, alle zeelieden die in een lidstaat van de Europese Unie belasting en/of sociale zekerheidsbijdragen moeten betalen.2° burgers van de Europese Unie of van de Europese Economische Ruimte als het zeelieden betreft die werken aan boord van schepen die gespecialiseerd zijn in de volgende activiteiten:<br>
-a) kabels leggen op de voorbereide zeebodem;<br>
-b) pijpen leggen op de voorbereide zeebodem;<br>
-c) takel- en hefwerkzaamheden van infrastructuur in het kader van installatie- en onderhoudswerken op zee;<br>
-d) onderzoek van de zeebodem in het kader van installatie- en onderhoudswerken;<br>
-e) gericht storten van stenen op de zeebodem in het kader van installatie- en onderhoudswerken op zee;<br>
-f) vervoeren van onderdelen op zee in het kader van installatie- en onderhoudswerken op zee;<br>
-g) vervoeren en accommoderen van personen in het kader van installatie- en onderhoudswerken op zee;<br>
-3° in alle andere gevallen, dan de gevallen, vermeld in punt 1° en 2°, alle zeelieden die in een lidstaat van de Europese Unie sociale zekerheidsbijdragen moeten betalen.</p>
+<p>In het eerste lid wordt verstaan onder communautaire zeelieden: alle zeelieden aan boord van de schepen, vermeld in dit artikel, die voor hun tewerkstelling onderworpen zijn aan de besluitwet van 7 februari 1945 betreffende de maatschappelijke veiligheid van de zeelieden ter koopvaardij.<br>
+<br>
+Alleen zeelieden die werken aan boord van schepen, met inbegrip van roroveerboten, die geregelde passagiersdiensten tussen havens van de Europese Economische Ruimte verzorgen, of alleen zeelieden die werken aan boord van schepen die gespecialiseerd zijn in de volgende activiteiten, komen in aanmerking voor de vrijstelling, vermeld in dit besluit:<br>
+1°&nbsp;&nbsp; &nbsp;kabels leggen op de voorbereide zeebodem;<br>
+2°&nbsp;&nbsp; &nbsp;pijpen leggen op de voorbereide zeebodem;<br>
+3°&nbsp;&nbsp; &nbsp;takel- en hefwerkzaamheden van infrastructuur in het kader van installatie- en onderhoudswerken op zee;<br>
+4°&nbsp;&nbsp; &nbsp;onderzoek van de zeebodem in het kader van installatie- en onderhoudswerken;<br>
+5°&nbsp;&nbsp; &nbsp;gericht storten van stenen op de zeebodem in het kader van installatie- en onderhoudswerken op zee;<br>
+6°&nbsp;&nbsp; &nbsp;vervoeren van onderdelen op zee in het kader van installatie- en onderhoudswerken op zee;<br>
+7°&nbsp;&nbsp; &nbsp;vervoeren en accommoderen van personen in het kader van installatie- en onderhoudswerken op zee.</p>
 
 <p>§ 2. Voor wat betreft het zeevervoersgedeelte van de sleepwerkzaamheden verricht door communautaire zeelieden die werken aan boord van zeewaardige sleepboten die minstens 50% van hun bedrijfstijd vervoer op zee verrichten, passen de reders met exploitatiezetel op het grondgebied van het Vlaamse Gewest de maatregel, vermeld in artikel 2, alleen toe op de lonen van de communautaire zeelieden die ze tewerkstellen.</p>
 
 <p><br>
-Een evenredig deel van de wachttijd, vermeld in het eerste lid, wordt in aanmerking genomen als zeevervoer voor de berekening van de voormelde drempel van 50%.</p>
+Een evenredig deel van de wachttijd, vermeld in het eerste lid, wordt in aanmerking genomen als zeevervoer voor de berekening van de voormelde drempel van 50%.<br>
+<br>
+§3. Passagiersschepen die niet meer dan 12 passagiers mogen vervoeren worden uitgesloten van dit besluit.</p>
 
 ### ART. 2.
 
@@ -67,13 +68,13 @@ In het tweede lid wordt verstaan onder arbeidsplaats voor de zeelieden die tewer
 a) elke vaart- en bijwerkdag voor de zeevarenden;<br>
 b) elke arbeidsdag voor de shoregangers;<br>
 c) elke dag waarvoor de opzeggingsvergoeding door de reder verschuldigd is;<br>
-2° het maand per maand betaalde brutoloon met betrekking tot de voormelde dagen, waarop de zeeman ingevolge zijn dienstbetrekking recht heeft.</p>
+2° het betaalde brutoloon voor de dagen, vermeld in punt 1°, waarop de zeeman door zijn dienstbetrekking recht heeft.</p>
 
 <p>In het eerste lid, 2° wordt verstaan onder brutoloon van de zeeman : de standaardgage, vermeerderd met de overuren en alle vergoedingen, opzeggingsvergoedingen inbegrepen.</p>
 
 ### ART. 5.
 
-Dit besluit heeft uitwerking op 1 juli 2015 en treedt buiten   werking op 31 december 2022.
+Dit besluit heeft uitwerking op 1 juli 2015 en treedt buiten werking op 31 december 2032.
 
 ### ART. 6.
 
