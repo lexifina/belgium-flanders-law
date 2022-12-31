@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037781,
+  "title": "Besluit van de Vlaamse Regering van 2022-11-25 tot wijziging van de regelgeving over technische voorschriften voor binnenschepen en binnenvaartpersoneel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037781/VolledigDocument?datum=2022-12-31",
+  "source_sha256": "7d1cb5743546bff831ddd29d31d4a5e76391379d07fa129855283370023cdb72",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037781&param=informatie",
+  "as_of": "2022-12-31",
+  "made": "2022-11-25",
+  "gazette": "2022-12-21",
+  "numac": 2022034718,
+  "document_start": "2022-12-31",
+  "document_end": null,
+  "in_force": "2022-12-31",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2022-12-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
