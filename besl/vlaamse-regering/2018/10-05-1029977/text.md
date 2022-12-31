@@ -47,7 +47,7 @@ In dit besluit wordt verstaan onder:<br>
 6° pleziervaartuig: een schip dat bestemd is voor sportieve of recreatieve doeleinden, met uitsluiting van de passagiersschepen;<br>
 7° waterverplaatsing: het ingedompelde volume van het schip, in kubieke meter;<br>
 8° lengte (L): de grootste lengte van de scheepsromp in meter, het roer en de boegspriet niet inbegrepen;<br>
-9° stadsrondvaartboot: een schip voor dagtochten met een lengte op de waterlijn van minder dan 25 meter, dat uitsluitend is ingericht en bestemd voor rondvaarten die aan al de volgende voorwaarden voldoen:<br>
+9° stadsrondvaartboot: een schip voor dagtochten dat in overeenstemming is met de elementen, vermeld in hoofdstuk I, artikel 1.01, punt 2, a) of b), van bijlage 5, die bij dit besluit is gevoegd, en dat uitsluitend is ingericht en bestemd voor rondvaarten die aan al de volgende voorwaarden voldoen:<br>
 a) de vertreklocatie van de rondvaart is gelegen in een stadskern;<br>
 b) de rondvaart gebeurt in een vaargebied dat door de Commissie van Deskundigen afgebakend wordt en alleen binnenwateren van zone 4 omvat;<br>
 c) de rondvaart heeft een ononderbroken maximale vaarduur van twee uur;<br>
@@ -625,50 +625,57 @@ Bijlage 5. Vrijstellingen voor bepaalde categorieën vaartuigen:<br>
 Hoofdstuk I Bijzondere bepalingen voor stadsrondvaartboten<br>
 <br>
 Artikel 1.01 Algemene bepaling<br>
-<br>
 1. Overeenkomstig artikel 25 van dit besluit, kan de Commissie van Deskundigen geheel of gedeeltelijk vrijstelling van de toepassing van dit besluit voor de stadsrondvaartboten verlenen, overeenkomstig de bepalingen in dit hoofdstuk.<br>
-<br>
 2. Stadsrondvaartboten kunnen open of gesloten zijn. Op deze stadsrondvaartboten zijn voor wat betreft de bouw en de uitrusting enkel de artikelen 1.02 tot en met 1.14 van toepassing wanneer:<br>
-<br>
 a) voor wat betreft de open stadsrondvaartboten :<br>
 1° zij een lengte (L) van maximaal 20 meter hebben;<br>
 2° zij geen gesloten opbouw hebben;<br>
 3° de passagiers zich in open lucht bevinden. Een opbouw met een tijdelijk karakter, bestaande uit zeildoek wordt niet als gesloten opbouw beschouwd.<br>
 4° zij geen doorlopend dek hebben.<br>
-<br>
 Is dit het geval, dan vermeldt de Commissie van Deskundigen in het uniebinnenvaartcertificaat onder nummer 52:<br>
-"Het vaartuig is een open stadsrondvaartboot en zal varen in de stadskern van ..., zoals bepaald in artikel 1.01 van Bijlage 5 van het BVR van 5 oktober 2018 betreffende de technische voorschriften voor binnenschepen en mag varen binnen het volgende vaargebied: ... ".<br>
+″Het vaartuig is een open stadsrondvaartboot en zal varen in de stadskern van ..., zoals bepaald in artikel 1.01 van Bijlage 5 van het BVR van 5 oktober 2018 betreffende de technische voorschriften voor binnenschepen en mag varen binnen het volgende vaargebied: ... ″.<br>
 <br>
 b) voor wat betreft de gesloten stadsrondvaartboten:<br>
 1° zij een lengte (L) van maximaal 30 meter hebben;<br>
 2° zij één laag passagiersaccommodatie heeft, deels verzonken tot beneden het gangboord;<br>
 3° zij voorzien zijn van een grotendeels doorgaande opbouw.<br>
-<br>
 Is dit het geval, dan vermeldt de Commissie van Deskundigen in het uniebinnenvaartcertificaat onder nummer 52:<br>
-"Het vaartuig is een gesloten stadsrondvaartboot en zal varen in de stadskern van ..., zoals bepaald in artikel 1.01 van Bijlage 5 van het BVR van 5 oktober 2018 betreffende de technische voorschriften voor binnenschepen en mag varen binnen het volgende vaargebied: ... ".<br>
+″Het vaartuig is een gesloten stadsrondvaartboot en zal varen in de stadskern van ..., zoals bepaald in artikel 1.01 van Bijlage 5 van het BVR van 5 oktober 2018 betreffende de technische voorschriften voor binnenschepen en mag varen binnen het volgende vaargebied: ... ″.<br>
 <br>
-Artikel 1.02 Toepasselijkheid van bijlage 2<br>
-<br>
-De bepalingen van bijlage 2 zijn van toepassing op stadsrondvaartboten, met uitzondering van de hieronder vermelde bepalingen:<br>
-<br>
-Onderstaande bepalingen van bijlage 2 zijn niet van toepassing op stadsrondvaartboten:<br>
+Artikel 1.02 Toepasselijkheid van ES-TRIN 2021/1<br>
+Onderstaande bepalingen van ES-TRIN 2021/1 zijn niet van toepassing op stadsrondvaartboten:<br>
 - artikel 3.03 eerste tot en met vijfde lid en zevende lid;<br>
-- artikel 3.04;<br>
-- artikel 5.01, tweede en derde lid en artikelen 5.02 tot en met 5.08;<br>
+- artikel 3.04 tweede tot en met zevende lid;<br>
+- artikel 5.01, tweede en derde lid;<br>
+- artikel 5.02, eerste lid, tweede zin;<br>
+- artikel 5.03, tweede lid;<br>
+- artikel 5.04;<br>
+- artikel 5.06, eerste lid;<br>
+- artikel 5.08<br>
 - artikel 6.02, derde lid;<br>
 - artikel 6.07, tweede lid;<br>
-- artikelen 7.07 en 7.08;<br>
-- artikelen 7.11 tot en met 7.13;<br>
+- artikel 7.04, tweede lid voor stadsrondvaartboten met buitenboordmotoren;<br>
+- artikelen 7.07 tot en met 7.09;<br>
+- artikelen 7.11 en 7.13;<br>
 - artikel 8.02, vijfde lid;<br>
 - artikel 8.03, tweede en derde lid;<br>
 - artikel 8.04 voor stadsrondvaartboten met buitenboordmotoren;<br>
-- artikel 8.05, tweede, zesde, twaalfde en dertiende lid;<br>
+- artikel 8.05, tweede, zesde, twaalfde en dertiende lid en voor stadsrondvaartboten met buitenboordmotoren bovendien tiende en elfde lid;<br>
 - artikel 8.08, tweede tot en met elfde lid voor open stadsrondvaartboten;<br>
 - artikel 8.09<br>
 - artikel 10.02, eerste lid;<br>
+- artikel 11.01 eerste lid onder a), tweede, zesde en zevende lid;<br>
+- artikel 11.02 tweede lid;<br>
+- artikel 11.02 derde lid;<br>
+- artikel 11.03 vierde lid;<br>
+- artikel 11.04 derde lid, eerste zin;<br>
+- artikel 11.05 eerste lid enkel met betrekking tot de woorden “en bij de voortstuwingsinstallatie worden aangegeven”, tweede en derde lid;<br>
+- artikel 11.06 tweede lid onder a), behalve wanneer uit de vermogensbalans blijkt dat dit voorschrift wel relevant is;<br>
+- artikel 11.07 vierde lid, vijfde lid onder b), zesde lid onder c) en achtste lid enkel met betrekking tot de woorden “en op een passende plek”;<br>
 - artikelen 13.01 en 13.02;<br>
 - artikel 13.03, eerste lid;<br>
 - artikel 13.04;<br>
+- artikel 13.07;<br>
 - artikel 19.01, vierde lid;<br>
 - artikel 19.02, derde lid, negende tot en met twaalfde lid, veertiende en vijftiende lid;<br>
 - artikel 19.05, tweede en derde lid;<br>
@@ -684,182 +691,196 @@ Onderstaande bepalingen van bijlage 2 zijn niet van toepassing op stadsrondvaart
 - artikelen 31.01 tot 31.03.<br>
 <br>
 Artikel 1.03 Schotten<br>
-<br>
 1. Stadsrondvaartboten met een lengte van meer dan 10 meter, moeten zijn voorzien van een waterdicht aanvaringsschot zonder openingen, gelegen op ten minste 0,10 m en ten hoogste 0,60 m achter de voorloodlijn. De stadsrondvaartboot moet voor dit aanvaringsschot met een waterdicht dek zijn afgesloten.<br>
-<br>
 2. Voor houten open stadsrondvaartboten kan de Commissie van Deskundigen afwijkingen van hetgeen in het eerste lid is bepaald, toestaan.<br>
-<br>
-3. Op open stadsrondvaartboten met een vast in de stadsrondvaartboot opgestelde voortstuwingsmotor moet deze motor geheel door een moeilijk ontvlambare omkasting zijn omsloten.<br>
-<br>
+3. Op open stadsrondvaartboten met een vast in de stadsrondvaartboot opgestelde voortstuwingsmotor moet deze motor geheel door een brandvertragende omkasting zijn omsloten.<br>
 4. Op gesloten stadsrondvaartboten moeten volgende bijkomende waterdichte schotten, die reiken tot de bovenkant van het scheepboord zijn aangebracht:<br>
 - Een schot tussen de machinekamer en de passagiersruimte;<br>
-- Een achterpiekschot op een redelijke afstand van het achtersteven voor gesloten stadsrondvaartboten met een lengte van meer dan 25m<br>
+- Een achterpiekschot op een redelijke afstand van de achtersteven voor gesloten stadsrondvaartboten met een lengte van meer dan 25m<br>
 <br>
 Artikel 1.04 Stabiliteit<br>
-<br>
-1. In afwijking van art. 19.03 van bijlage 2, wordt het reservedrijfvermogen van open stadsrondvaartboten voldoende geacht indien het schip in volgelopen toestand nog een vrijboord van ten minste 0,05 m heeft.<br>
-<br>
-2. In afwijking van art. 19.03 van bijlage 2, vijfde en zesde lid, behoeven, voor open stadsrondvaartboten welke met uitzondering van de gangpaden, geheel zijn voorzien van vast opgestelde zitbanken, de invloeden van de winddruk en de middelpuntvliedende kracht veroorzaakt door roergeven niet in rekening te worden gebracht.<br>
+1. In afwijking van art. 19.03 van ES-TRIN 2021/1, wordt het reservedrijfvermogen van open stadsrondvaartboten voldoende geacht indien het schip in volgelopen toestand nog een vrijboord van ten minste 0,05 m heeft.<br>
+2. In afwijking van art. 19.03 van ES-TRIN 2021/1, vijfde en zesde lid, behoeven, voor open stadsrondvaartboten welke met uitzondering van de gangpaden, geheel zijn voorzien van vast opgestelde zitbanken, de invloeden van de winddruk en de middelpuntvliedende kracht veroorzaakt door roergeven niet in rekening te worden gebracht.<br>
 <br>
 Artikel 1.05 Veiligheidsafstand<br>
-<br>
-In afwijking van de regelen van artikel 19.04 van bijlage 2 wordt voor stadsrondvaartboten een minimum veiligheidsafstand van 0,30 m toegestaan.<br>
+In afwijking van de regelen van artikel 19.04 van ES-TRIN 2021/1 wordt voor stadsrondvaartboten een minimum veiligheidsafstand van 0,30 m toegestaan.<br>
 <br>
 Artikel 1.06 Ten hoogste toegestane aantal passagiers<br>
-<br>
 1. Het ten hoogste toegestane aantal passagiers wordt zodanig vastgesteld dat aan de regelen met betrekking tot de stabiliteit en het vrijboord wordt voldaan.<br>
-<br>
 2. Het ten hoogste toegestane aantal passagiers mag niet groter zijn dan het aantal voor passagiers beschikbare zitplaatsen.<br>
-<br>
 3. Voor de zitplaatsen moet worden gerekend met een breedte van tenminste 0,40 m per persoon voor open stadsrondvaartboten. Voor gesloten stadsrondvaartboten moet voor de zitplaatsen worden gerekend met een breedte van tenminste 0,45 m per persoon en moet de onderlinge vrije afstand tussen de banken of zitplaatsen minstens 0,30 m bedragen.<br>
 <br>
 Artikel 1.07 Beveiliging tegen vallen<br>
-<br>
 1. Op open stadsrondvaartboten moeten de voor passagiers bestemde, niet afgesloten gedeelten van dekken, zijn voorzien van vaste verschansingen of relingen met een hoogte van tenminste 0,30 m, gemeten boven de zitplaatsen.<br>
-<br>
 2. Op gesloten stadsrondvaartboten moeten de vaste verschansingen of relingen tenminste 0,20 m binnen de buitenzijde van het schip, berghouten inbegrepen, worden geplaatst indien passagiers plaats kunnen nemen in een open kuip of op een open dek.<br>
 <br>
 Artikel 1.08 Toegangen, uitgangen en verbindingswegen<br>
-<br>
 1. Op open stadsrondvaartboten met een opbouw als bedoeld in artikel 1.01, eerste lid, onder a), 3°, moet een vrij middenpad over de gehele lengte van het voor passagiers bestemde gedeelte aanwezig zijn. Dit middenpad moet een breedte van ten minste 0,45 m hebben.<br>
-<br>
 2. Op open stadsrondvaartboten met een opbouw als bedoeld in artikel 1.01, eerste lid, onder a) moet zowel aan de voorzijde als aan de achterzijde van het voor passagiers bestemde gedeelte een uitgang met een vrije breedte van tenminste 0,50 m aanwezig zijn. Eén der uitgangen mag zijn vervangen door twee nooduitgangen, ieder met een vrije doorgang van tenminste 0,60 cm. breedte en ten minste 0,80 cm. hoogte.<br>
-<br>
 3. Op gesloten stadsrondvaartboten moet de vrije doorgang van de toegangen minimaal 0,80 m bedragen. De vrije breedte van het gangpad tussen de stoelen moet op een hoogte van 0,90 m en meer boven de vloer tenminste 0,70 m bedragen. Tot een hoogte van 0,90 m boven de vloer mag deze nergens minder dan 0,60 m bedragen.<br>
-<br>
-4. Op gesloten stadsrondvaartboten moet in het achterschip een nooduitgang met een vrije doorgang van minstens 0,80 m zijn voorzien. De nooduitgang mag worden vervangen door tenminste twee uitwerpbare noodluiken in het dak. Elke nooduitgang in het dak moet een vrije opening van tenminste 0,36 m<sup>2</sup>&nbsp;hebben. Daarbij mag de kleinste afmeting niet minder dan 0,50 m bedragen.<br>
-<br>
+4. Op gesloten stadsrondvaartboten moet in het achterschip een nooduitgang met een vrije doorgang van minstens 0,80 m zijn voorzien. De nooduitgang mag worden vervangen door tenminste twee uitwerpbare noodluiken in het dak.<br>
+Elke nooduitgang in het dak moet een vrije opening van tenminste 0,36 m_ hebben. Daarbij mag de kleinste afmeting niet minder dan 0,50 m bedragen.<br>
 5. Op gesloten stadsrondvaartboten moeten de compartimenten die door middel van waterdichte schotten en waterdichte deuren van beperkte hoogte worden onderverdeeld, veilig kunnen worden verlaten. Daarbij mag de vluchtweg vanuit het ene via een ander compartiment lopen.<br>
-<br>
 6. Op gesloten stadsrondvaartboten moet voldoende verlichting aanwezig zijn op de volgende plaatsen: instapplaatsen voor passagiers, nooduitgangen en plaatsen waar reddingsmiddelen en brandblustoestellen zijn geplaatst.<br>
-<br>
 7. Het aan en van boord gaan der passagiers moet op stadsrondvaartboten op veilige wijze kunnen geschieden. Zo nodig moeten handgrepen en traptreden zijn aangebracht.<br>
 <br>
 Artikel 1.09 Voortstuwingsinstallatie<br>
-<br>
 1. Het vermogen van de voortstuwingsinstallatie moet zodanig zijn dat de volgeladen stadsrondvaartboot bij vol vermogen varend, tot stilstand kan komen in een vaarweg van ten hoogste twee maal de lengte van het schip.<br>
-<br>
 2. De Commissie van Deskundigen kan afwijken van art. 8.01 van bijlage II, lid 3, voor wat betreft de gebruikte brandstof indien tenminste een gelijkwaardig veiligheidsniveau gewaarborgd is.<br>
-<br>
-3. De maximale toegelaten inhoud van een rechtstreeks aangebouwde brandstoftank van een buitenboordmoter bedraagt 25 liter. De tank moet zich steeds buiten het voor passagiers bestemde gedeelte vinden.<br>
-<br>
+Een gelijkwaardig veiligheidsniveau kan door middel van de bepalingen onder artikel 30.01 van bijlage II aangetoond worden.<br>
+3. De maximale toegelaten inhoud van een rechtstreeks aangebouwde brandstoftank van een buitenboordmotor bedraagt 25 liter. De tank moet zich steeds buiten het voor passagiers bestemde gedeelte vinden.<br>
 4. Indien de stuurstand zich niet in de onmiddellijke nabijheid van de ingebouwde verbrandingsmotor voor de voortstuwing bevindt, moeten vanaf de stuurstand kunnen worden afgelezen:<br>
 - de temperatuur van het koelwater en de druk van de smeerolie;<br>
 - het toerental van motor of schroefas.<br>
-<br>
-5. De Commissie van Deskundigen kan afwijken van de voorschriften van hoofdstuk 9 mits het emissieniveau van de verontreinigende gassen en deeltjes afkomstig van de motoren aan boord het voorgeschreven emissieniveau van hoofdstuk 9 niet overstijgt .<br>
+5. De Commissie van Deskundigen kan afwijken van de voorschriften van hoofdstuk 9 mits het emissieniveau van de verontreinigende gassen en deeltjes afkomstig van de motoren aan boord het voorgeschreven emissieniveau van hoofdstuk 9 niet overstijgt.<br>
+6. Bij een elektrisch gedreven voortstuwing zijn de accubatterijen aan de bovenzijde zodanig afgedekt, dat zij beschermd zijn tegen aanraking, vallende voorwerpen en druipwater.<br>
 <br>
 Artikel 1.10 Lensinrichting<br>
-<br>
 1. Op open stadsrondvaartboten met een lengte van 7 meter of minder moeten ten minste twee geschikte hoosvaten aanwezig zijn.<br>
-<br>
 2. Open stadsrondvaartboten met een lengte van meer dan 7 meter moeten van een motor- of handlenspomp zijn voorzien. Bij een lengte van 12 meter of minder moet de diameter van de aansluiting tenminste 38 mm zijn en bij een lengte boven 12 meter tenminste 50 mm.<br>
-<br>
 3. Op gesloten stadsrondvaartboten moet iedere waterdichte afdeling zijn uitgerust met een bilge alarm.<br>
 <br>
 Artikel 1.11 Reddingsmiddelen<br>
-<br>
-1. In afwijking van artikel 13.08 van bijlage 2, lid 1 geldt het volgende:<br>
+1. In afwijking van artikel 13.08 van ES-TRIN 2021/1, lid 1 geldt het volgende:<br>
 a. Er moet tenminste 1 reddingsboei aanwezig zijn voor elk toegestaan aantal van 25 passagiers, alsmede 1 reddingsboei voor het resterend aantal passagiers. Het aantal reddingsboeien behoeft echter niet meer dan 4 te bedragen.<br>
 b. De reddingboeien moeten enkel van een lijn met een lengte van ten minste 20 m zijn voorzien en zodanig zijn opgeborgen, dat zij voor onmiddellijk gebruik gereed zijn.<br>
-<br>
-2. Voor alle passagiers moeten individuele of gemeenschappelijke reddingsmiddelen aan boord zijn. Individuele reddingsmiddelen moeten voldoen aan de Europese normen EN395:1998, EN396:1998, EN ISO 12402-3:2006 of EN ISO 12402-4:2006.<br>
-<br>
+2. In afwijking van artikel 13.08 van ES-TRIN 2021/1, lid 2 geldt het volgende:<br>
+Voor alle passagiers moeten individuele of gemeenschappelijke reddingsmiddelen aan boord zijn. Individuele reddingsmiddelen moeten voldoen<br>
+a) aan de Verordening (EU) 2016/425 in de gewijzigde versie; of<br>
+b) aan de internationale code betreffende de reddingsmiddelen (LSA), paragraaf 2.2.<br>
+Aan de in bovenstaand onderdeel a genoemde eisen wordt geacht voldaan te zijn wanneer het reddingsvest voldoet aan de Europese normen EN ISO 12402­2 : 2020, EN ISO 12402­3 : 2020 en EN ISO 12402­4 : 2020.<br>
+Voor kinderen zijn ook harde reddingsvesten toegelaten, die aan de onderdelen a of b voldoen.<br>
 Drijvende zitkussens worden als individuele reddingmiddel beschouwd indien zij:<br>
 - een draagvermogen in zoetwater van ten minste 75 N hebben;<br>
-- van geschikt materiaal zijn vervaardigd naar het oordeel van de Commissie van Deskundigen en bestand zijn tegen olie, olieproducten en temperaturen tot 50° C;<br>
+- van geschikt materiaal zijn vervaardigd naar het oordeel van de Commissie van Deskundigen en bestand zijn tegen olie, olieproducten en temperaturen tot 50°C;<br>
 - van een grijplijn zijn voorzien;<br>
 - niet vast aan het schip zijn bevestigd.<br>
 <br>
 Artikel 1.12 Draagbare blustoestellen<br>
-<br>
 1. Voor open stadsrondvaartboten moet in de nabijheid van de voortstuwingsinstallatie een draagbaar blustoestel overeenkomstig de Europese norm EN3-7:2007 en EN3-8:2007 vast opgesteld zijn. In afwijking van artikel 13.03, tweede lid volstaat een blustoestel met een vulgewicht van ten minste 4 kg.<br>
-<br>
 2. Voor gesloten stadsrondvaartboten moeten tenminste twee draagbare blustoestellen overeenkomstig de Europese norm EN3-7:2007 en EN3-8:2007 aanwezig zijn. Deze moeten in de nabijheid van de stuurstand vast zijn opgesteld.<br>
 <br>
 Artikel 1.13 Overige uitrusting<br>
-<br>
 1. Aan boord moet ten minste de volgende uitrusting in bruikbare staat aanwezig zijn:<br>
 - een vaarboom/bootshaak;<br>
 - een verbanddoos;<br>
 - een tros met ten minste lengte L geschikt voor meren en slepen;<br>
 - indien tussen zonsondergang en zonsopgang wordt gevaren een geschikte draagbare elektrische lantaarn in waterdichte uitvoering.<br>
-<br>
 2. Gesloten stadsrondvaartboten moeten beschikken over een anker van ten minste 50 kg, met een ketting of draad van tenminste 30 meter lengte.<br>
 <br>
 Artikel 1.14 Overgangsbepalingen<br>
-<br>
 1. De bepalingen voor stadsrondvaartboten, waarvan de kiel gelegd is voor 30 december 2008, moeten vanaf de volgende data te worden toegepast, tenzij bij ombouw of vervanging van het betreffende onderdeel:<br>
-1.03 Schotten Verlenging certificaat na 1.1.2045<br>
-1.04 Stabiliteit Verlenging certificaat na 1.1.2045<br>
-1.06, lid 3 Zitplaatsen Verlenging certificaat na 1.1.2045<br>
-1.07 Beveiliging tegen vallen Verlenging certificaat na 1.1.2045<br>
-1.08, lid 1 tot en met 4 Toegangen en uitgangen Verlenging certificaat na 1.1.2045<br>
-1.09, lid 1 Vermogen voortstuwinginstallatie Verlenging certificaat na 1.1.2050<br>
-1.10 punt 2 Lensinrichting<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:94px">1.03</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:180px">Schotten</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:193px">Verlenging certificaat na</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top">1.1.2045</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:94px">1.04</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:180px">Stabiliteit</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:193px">Verlenging certificaat na</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">1.1.2045</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:94px">1.06, lid 3</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:180px">Zitplaatsen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:193px">Verlenging certificaat na</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">1.1.2045</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:94px">1.07</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:180px">Beveiliging tegen vallen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:193px">Verlenging certificaat na</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">1.1.2045</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:94px">1.08, lid 1 tot en met 4</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:180px">Toegangen en uitgangen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:193px">Verlenging certificaat na</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">1.1.2045</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:94px">1.09, lid 1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:180px">Vermogen voortstuwinginstallatie</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:193px">Verlenging certificaat na</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">1.1.2050</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:94px">1.10 punt 2</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:180px">Lensinrichting<br>
+			&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:193px">Indien geen lenspomp aanwezig is, moeten tenminste 2 geschikte hoosvaten aanwezig zijn</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">Geen einddatum</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:94px">1.10 punt 3</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:180px">Bilge alarm</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:193px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">Geen einddatum</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:94px">1.11</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:180px">Normen voor reddingsvesten</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:193px">Verlenging certificaat</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
 <br>
-Indien geen lenspomp aanwezig is, moeten tenminste 2 geschikte hoosvaten aanwezig zijn Geen einddatum<br>
-1.10 punt 3 Bilge alarm Geen einddatum<br>
 <br>
-2. De bepalingen voor stadsrondvaartboten, waarvan de kiel gelegd is voor 30 december 2018, moeten vanaf de volgende data te worden toegepast, tenzij bij ombouw of vervanging van het betreffende onderdeel:<br>
+2.&nbsp;&nbsp; &nbsp;De bepalingen voor stadsrondvaartboten, waarvan de kiel gelegd is voor 30 december 2018, moeten vanaf de volgende data te worden toegepast, tenzij bij ombouw of vervanging van het betreffende onderdeel:<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:93px">Hoofdstuk 9</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:180px">Emissieniveau motoren</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:198px">Verlenging certificaat na</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:85px">1.1.2045</td>
+		</tr>
+	</tbody>
+</table>
 <br>
-Hoofdstuk 9 Emissieniveau motoren Verlenging certificaat na 1.1.2045<br>
+<br>
 <br>
 Hoofdstuk II Bijzondere bepalingen voor alleenvarende duwbakken<br>
 <br>
 Artikel 2.01 Algemene bepaling<br>
-<br>
-Op alleenvarende duwbakken zijn voor wat betreft bouw en uitrusting alleen artikel 2.02 en 2.03 van toepassing.<br>
-<br>
-Op het ogenblik dat een alleenvarende duwbak deel uitmaakt van een samenstel, moet het vaartuig als een duwbak worden beschouwd.<br>
-<br>
+Op alleenvarende duwbakken zijn voor wat betreft bouw en uitrusting alleen artikel 2.02 en 2.03 van toepassing. Op het ogenblik dat een alleenvarende duwbak deel uitmaakt van een samenstel, moet het vaartuig als een duwbak worden beschouwd.<br>
 De alleenvarende duwbakken mogen zich slechts in een beperkt vaargebied op de Vlaamse waterwegen van zone 4 over langere afstanden zelfstandig verplaatsen.<br>
-<br>
 De Commissie van Deskundigen vermeldt in het communautair certificaat onder rubriek 52:<br>
-"Het vaartuig is een alleenvarende duwbak als bepaald in hoofdstuk II van bijlage 5 van het besluit van de Vlaamse Regering van 5 oktober 2018 betreffende de technische voorschriften voor binnenschepen en mag zich alleen zelfstandig verplaatsen over langere afstanden op de volgende Vlaamse waterwegen: ... ."<br>
+″Het vaartuig is een alleenvarende duwbak als bepaald in hoofdstuk II van bijlage 5 van het besluit van de Vlaamse Regering van 5 oktober 2018 betreffende de technische voorschriften voor binnenschepen en mag zich alleen zelfstandig verplaatsen over langere afstanden op de volgende Vlaamse waterwegen: ... .″<br>
 <br>
-Artikel 2.02 Toepasselijkheid van bijlage 2<br>
-<br>
+Artikel 2.02 Toepasselijkheid van ES-TRIN 2021/1<br>
 Voor zover in dit hoofdstuk niets anders is bepaald, zijn met betrekking tot de bouw en de uitrusting van alleenvarende duwbakken hoofdstuk 3 tot en met 18 en de hoofdstukken 21, 30, 31, 32 en 33 van toepassing.<br>
-<br>
 Een alleenvarende duwbak mag niet langer zijn dan 110 m.<br>
-<br>
 Hoofdstuk 27 is van toepassing als de alleenvarende duwbak containers vervoert.<br>
-<br>
-De alleenvarende duwbak moet over een stuurhuis beschikken. Een vaste marifooninstallatie en AIS zijn verplicht. Als de duwbak deel uitmaakt van een samenstel, dan moet het AlS-toestel worden uitgeschakeld.<br>
+De alleenvarende duwbak moet over een stuurhuis beschikken. Een vaste marifooninstallatie en AIS zijn verplicht.<br>
+Als de duwbak deel uitmaakt van een samenstel, dan moet het AlS-toestel worden uitgeschakeld.<br>
 <br>
 Artikel 3.03 Vrijstellingen<br>
-<br>
-De Commissie van Deskundigen kan afwijken van de volgende bepalingen in bijlage 2:<br>
-<br>
+De Commissie van Deskundigen kan afwijken van de volgende bepalingen in ES-TRIN 2021/1:<br>
 1° artikel 3.03, lid 2, met betrekking tot de plaats van de voor de bedrijfsvoering noodzakelijke inrichtingen achter het achterpiekschot<br>
-<br>
 2° artikel 5.06., met betrekking tot de minimumsnelheid.<br>
-<br>
 De Commissie van Deskundigen noteert de snelheid die gemeten is bij het uitvoeren van de proefvaart in het uniebinnenvaartcertificaat onder rubriek 52 als volgt:<br>
-"Het vaartuig behaalde tijdens de proefvaart een snelheid van ... km/u.";<br>
-<br>
+“Het vaartuig behaalde tijdens de proefvaart een snelheid van ... km/u.”;<br>
 De minimumsnelheid voor de alleenvarende duwbak moet met alle voorstuwingsinstallaties ten minste 6,5 km/u ten opzichte van het water bedragen.<br>
-<br>
 3° artikel 6.06, tweede lid.<br>
-<br>
 Als twee of meer van elkaar onafhankelijke roerpropeller-, waterstraal- of cycloïdaalschroefinstallaties aanwezig zijn, is het tweede besturingssysteem niet vereist als het schip bij het uitvallen van een van die installaties manoeuvreerbaar blijft om de oever of de kade te bereiken;<br>
-<br>
 4° artikel 13.01, derde lid, b).<br>
-<br>
 De alleenvarende duwbak hoeft geen hekanker te hebben;<br>
-<br>
 5° artikel 13.04.<br>
-<br>
 Een alleenvarende duwbak hoeft geen bijboot te hebben indien als het vaartuig beschikt over een reddingsvlot als vermeld in artikel 19.09, vijfde lid;<br>
-<br>
 6° artikel 13.08, eerste lid.<br>
-<br>
 Aan boord van alleenvarende duwbakken moeten ten minste twee reddingsboeien overeenkomstig de Europese norm EN14144:2002 aanwezig zijn. Die reddingsboeien bevinden zich in gebruiksklare toestand aan dek op het voorschip en het achterschip;<br>
-<br>
 7° artikel 15.01.<br>
+Aan boord van alleenvarende duwbakken hoeven geen verblijven aanwezig te zijn. De noodzakelijke voorzieningen worden in het stuurhuis geïntegreerd en zullen in de mate van het mogelijke voldoen aan de bepalingen van ES-TRIN 2021/1, hoofdstuk 15. In die zin wordt de exploitatiewijze van het vaartuig beperkt worden tot A1, tenzij de bemanning geen rust neemt aan boord van het vaartuig.<br>
 <br>
-Aan boord van alleenvarende duwbakken hoeven geen verblijven aanwezig te zijn. De noodzakelijke voorzieningen worden in het stuurhuis geïntegreerd en zullen in de mate van het mogelijke voldoen aan de bepalingen van bijlage 2, hoofdstuk 15. In die zin wordt de exploitatiewijze van het vaartuig beperkt worden tot A1, tenzij de bemanning geen rust neemt aan boord van het vaartuig.
+&nbsp;
 
 ### BIJLAGE
 
