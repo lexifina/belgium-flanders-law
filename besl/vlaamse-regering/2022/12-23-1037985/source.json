@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037985,
+  "title": "Besluit van de Vlaamse Regering van 2022-12-23 tot wijziging van diverse besluiten houdende vrijstelling van bepaalde werkgevers- en werknemersbijdragen voor ondernemingen die behoren tot de koopvaardijsector en houdende vrijstelling van bepaalde werkgeversbijdragen voor ondernemingen in de zeesleepvaartsector en de baggersector",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037985/VolledigDocument?datum=2022-12-31",
+  "source_sha256": "8cabf5d11cf0ebc5d0d0542d586b4b7075df7a81aa4a2f9663b6e925d071a75d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037985&param=informatie",
+  "as_of": "2022-12-31",
+  "made": "2022-12-23",
+  "gazette": "2023-03-22",
+  "numac": 2023041351,
+  "document_start": "2022-12-31",
+  "document_end": null,
+  "in_force": "2022-12-31",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2022-12-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
