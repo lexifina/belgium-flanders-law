@@ -26,28 +26,29 @@ Het ministerieel besluit van 2 februari 2009 tot aanwijzing van sociaalrechtelij
 
 Lijst van sociaalrechtelijke inspecteurs als vermeld in artikel 3<br>
 <br>
-De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie:&nbsp;
+De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie:&nbsp;<br>
+&nbsp;
 <table border="1">
 	<tbody>
 		<tr>
 			<td>Aerts Lorette</td>
-			<td>Lasure Sabien</td>
-		</tr>
-		<tr>
-			<td>Beckers Mieke</td>
 			<td>Marchand Thalassa</td>
 		</tr>
 		<tr>
-			<td>Botteldoorn Kristof</td>
+			<td>Beckers Mieke</td>
 			<td>Mariën Lieven</td>
 		</tr>
 		<tr>
-			<td>Buysse Jan</td>
+			<td>Botteldoorn Kristof</td>
 			<td>Martens Evi</td>
 		</tr>
 		<tr>
-			<td>Caestecker Nicky</td>
+			<td>Buysse Jan</td>
 			<td>Matthys David</td>
+		</tr>
+		<tr>
+			<td>Caestecker Nicky</td>
+			<td>Mertens Laura</td>
 		</tr>
 		<tr>
 			<td>Carlier Sofie</td>
@@ -82,16 +83,20 @@ De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaa
 			<td>Schoeters Patrice</td>
 		</tr>
 		<tr>
-			<td>De Wit Jurgen</td>
+			<td>De Schaepmeester Sybille</td>
 			<td>Schouteet Nathalie</td>
 		</tr>
 		<tr>
-			<td>Decraene Evelien</td>
+			<td>De Wit Jurgen</td>
 			<td>Segers Tom</td>
 		</tr>
 		<tr>
-			<td>Dehondt Eric</td>
+			<td>Decraene Evelien</td>
 			<td>Smits Elke</td>
+		</tr>
+		<tr>
+			<td>Dehondt Eric</td>
+			<td>Tanghe Katlijn</td>
 		</tr>
 		<tr>
 			<td>Dhondt Nathalie</td>
@@ -122,8 +127,12 @@ De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaa
 			<td>Vandenameele Vincent</td>
 		</tr>
 		<tr>
-			<td>Jacobs Pascal</td>
+			<td>Hooft Helen</td>
 			<td>Vandenbussche Stefanie</td>
+		</tr>
+		<tr>
+			<td>Jacobs Pascal</td>
+			<td>Vanhove Bianca</td>
 		</tr>
 		<tr>
 			<td>Joosten Guy</td>
@@ -134,8 +143,10 @@ De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaa
 			<td>Verhaegen Jelle</td>
 		</tr>
 		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;Verstraaten Katty</td>
+			<td>Lasure Sabien</td>
+			<td>Verstraaten Katty</td>
 		</tr>
 	</tbody>
 </table>
+<br>
+&nbsp;
