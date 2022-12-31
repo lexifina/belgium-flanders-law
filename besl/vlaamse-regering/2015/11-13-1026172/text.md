@@ -6,7 +6,16 @@ De   Vlaamse Regering,<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT:
 
 ### ART. 1.
 
-<P>§ 1. Dit besluit is van toepassing op de reders en op hun   werknemers die behoren tot de baggervaartsector.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   het eerste lid wordt verstaan onder werknemers die behoren tot de   baggervaartsector: de communautaire zeelieden die onder de toepassing vallen van   de besluitwet van 7 februari 1945 betreffende de maatschappelijke veiligheid van   de zeelieden ter koopvaardij en de uitvoeringsbesluiten ervan.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   het tweede lid wordt verstaan onder communautaire zeelieden: alle zeelieden die   in een lidstaat van de europese Unie belasting en/of sociale zekerheidsbijdragen   betalen</P>  <P><BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">§   2. Voor wat betreft het zeevervoergedeelte van baggerspeciewerkzaamheden passen   de reders met exploitatiezetel   op het grondgebied van het Vlaamse Gewest de maatregel, vermeld in artikel 2,   toe op de lonen van de communautaire zeelieden, die ze tewerkstellen aan boord   van zeewaardige baggerschepen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   het eerste lid wordt verstaan onder zeewaardige baggerschepen: de in een   lidstaat van de europese Economische Ruimte geregistreerde zeewaardige   baggerschepen die met eigen voortstuwing die ingericht zijn voor het vervoer van   een lading over zee, waarvoor een zeebrief wordt voorgelegd en die minstens 50%   van hun bedrijfstijd vervoer op zee verrichten.</P>
+<p>§ 1. Dit besluit is van toepassing op de reders en op hun werknemers die behoren tot de baggervaartsector.</p>
+
+<p>In het tweede lid wordt verstaan onder communautaire zeelieden: alle zeelieden die voor hun tewerkstelling onderworpen zijn aan de besluitwet van 7 februari 1945 betreffende de maatschappelijke veiligheid van de zeelieden ter koopvaardij.</p>
+
+<p>In het tweede lid wordt verstaan onder communautaire zeelieden: alle zeelieden die in een lidstaat van de europese Unie belasting en/of sociale zekerheidsbijdragen betalen</p>
+
+<p><br>
+§2. Voor het zeevervoergedeelte van baggerspeciewerkzaamheden passen de reders met exploitatiezetel op het grondgebied van het Vlaamse Gewest of met een exploitatiezetel in een andere lidstaat van de Europese Economische Ruimte de maatregel, vermeld in artikel 2, toe op de lonen van de communautaire zeelieden, vermeld in artikel 1, die ze tewerkstellen aan boord van zeewaardige baggerschepen.</p>
+
+<p>In het eerste lid wordt verstaan onder zeewaardige baggerschepen: de in een lidstaat van de europese Economische Ruimte geregistreerde zeewaardige baggerschepen die met eigen voortstuwing die ingericht zijn voor het vervoer van een lading over zee, waarvoor een&nbsp;certificaat van registratie in uitvoering van artikel 91 van het Verdrag van de Verenigde Naties inzake het recht van de Zee van 10 december 1982 wordt voorgelegd en die minstens 50% van hun bedrijfstijd vervoer op zee verrichten.</p>
 
 ### ART. 2.
 
@@ -37,7 +46,7 @@ De   Vlaamse Regering,<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT:
 a) elke vaart- en bijwerkdag voor de zeevarenden;<br>
 b) elke arbeidsdag voor de shoregangers;<br>
 c) elke dag waarvoor de opzeggingsvergoeding door de reder verschuldigd is;<br>
-2° het maand per maand betaalde brutoloon met betrekking tot de voormelde dagen, waarop de zeeman ingevolge zijn dienstbetrekking recht heeft.</p>
+2° het betaalde brutoloon voor de dagen, vermeld in punt 1°, waarop de zeeman door zijn dienstbetrekking recht heeft.</p>
 
 <p>In het eerste lid, 2°, wordt verstaan onder brutoloon van de zeeman: de standaardgage, vermeerderd met de overuren en alle vergoedingen, opzegvergoedingen inbegrepen.</p>
 
@@ -47,7 +56,9 @@ Het koninklijk besluit van 26 april 2009 tot uitvoering van artikel 37ter van de
 
 ### ART. 6.
 
-<P>Dit besluit heeft uitwerking met ingang van 1 juli 2014, met   uitzondering van artikel 2, § 3, dat uitwerking heeft met ingang van 1 juli   2015.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Dit   besluit treedt buiten werking op 31 december 2022, met uitzondering van artikel   2, § 2, dat buiten werking treedt op 1 juli   2015.</P>
+<p>Dit besluit heeft uitwerking met ingang van 1 juli 2014, met uitzondering van artikel 2, § 3, dat uitwerking heeft met ingang van 1 juli 2015.</p>
+
+<p>Dit besluit treedt buiten werking op 31 december 2032, met uitzondering van artikel 2, § 2, dat buiten werking treedt op 1 juli 2015.</p>
 
 ### ART. 7.
 
