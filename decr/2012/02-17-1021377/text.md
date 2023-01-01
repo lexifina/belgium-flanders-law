@@ -127,7 +127,15 @@ De Vlaamse Regering kan financiële ondersteuning op maat verlenen aan de social
 
 ### ART. 15.
 
-§ 1. De gemeenten vervullen een regierol op het vlak van de lokale sociale economie. Binnen de perken van het jaarlijks goedgekeurde begrotingskrediet kan de Vlaamse Regering de gemeenten ondersteunen bij de uitoefening van die regierol.<br /><br />Onder de regierol op het vlak van de lokale sociale economie, met inbegrip van de regierol lokale diensteneconomie, wordt verstaan :<br />1° de ontwikkeling van een gedragen beleidsvisie op de sociale economie, te verwoorden binnen de reguliere meerjarenplanning op te maken door de gemeenten;<br />2° de samenwerking met en tussen de sociale economie faciliteren en stimuleren vanuit het lokale beleid.<br /><br />§ 2. De Vlaamse Regering bepaalt de begunstigden, de subsidie-, de aanvraag-, de toekenningsvoorwaarden en de omvang van de subsidie nader. Dit gebeurt overeenkomstig de bepalingen van het decreet van 15 juli 2011 houdende vaststelling van de algemene regels waaronder in de Vlaamse Gemeenschap en het Vlaamse Gewest periodieke plan- en rapporteringsverplichtingen aan lokale besturen kunnen worden opgelegd.<br /><br />
+§ 1. De gemeenten vervullen een lokale regierol op het vlak van sociale economie en werk. Binnen de perken van het jaarlijks goedgekeurde begrotingskrediet kan de Vlaamse Regering de gemeenten ondersteunen bij de uitoefening van die regierol.<br>
+<br>
+Onder de lokale regierol op het vlak van sociale economie en werk wordt verstaan:<br>
+1° de lokale uitdagingen en lokale partners op het vlak van sociale economie en werk in kaart brengen;<br>
+2° het overleg, de samenwerking en de netwerking tussen die partners bevorderen;<br>
+3° een beleidsvisie en beleidsdoelstellingen ontwikkelen over de sociale economie en over de tewerkstelling van personen in de reguliere en de sociale economie.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt de begunstigden, de subsidie-, de aanvraag-, de toekenningsvoorwaarden en de omvang van de subsidie nader. Dit gebeurt overeenkomstig de bepalingen van het decreet van 15 juli 2011 houdende vaststelling van de algemene regels waaronder in de Vlaamse Gemeenschap en het Vlaamse Gewest periodieke plan- en rapporteringsverplichtingen aan lokale besturen kunnen worden opgelegd.<br>
+&nbsp;
 
 ## HOOFDSTUK 10 Wetenschappelijk onderbouwde managementopleidingen en onderzoek op het vlak van de sociale economie en het maatschappelijk verantwoord ondernemen
 
