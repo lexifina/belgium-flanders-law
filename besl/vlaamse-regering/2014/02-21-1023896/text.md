@@ -11,7 +11,7 @@
 In dit besluit wordt verstaan onder:<br>
 1° aanmelder: de jeugdhulpaanbieder of de andere persoon of voorziening die jeugdhulpverlening aanbiedt en die een minderjarige aanmeldt bij de toegangspoort of bij een gemandateerde voorziening met toepassing van artikel 20, eerste lid, artikel 34, eerste lid, of artikel 42, § 3, van het decreet van 12 juli 2013;<br>
 2° aanvraagdocument: het document dat wordt ingediend bij de toegangspoort voor de aanvraag van niet rechtstreeks toegankelijke jeugdhulpverlening, vermeld in artikel 18, § 1, van het decreet van 12 juli 2013, of van de voortzetting van de jeugdhulpverlening, vermeld in artikel 18, § 3, van het voormelde decreet;<br>
-3° administrateur-generaal: het personeelslid dat belast is met de leiding van het agentschap en het fonds;<br>
+3° administrateur-generaal: het personeelslid dat belast is met de leiding van het agentschap;<br>
 4° agentschap Opgroeien: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid dat is opgericht bij artikel 2 van het besluit van de Vlaamse Regering van 24 oktober 2008 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Opgroeien;<br>
 4/1° agentschap Opgroeien regie: het intern verzelfstandigd agentschap dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie;<br>
 5° bemiddeling: een vrijwillig en vertrouwelijk communicatieproces onder leiding van een onafhankelijke en onpartijdige derde, de bemiddelaar, dat in elke fase van de jeugdhulpverlening kan worden ingezet naar aanleiding van een conflict waarbij de minderjarige, zijn ouders of, in voorkomend geval, zijn opvoedingsverantwoordelijken betrokken zijn, en dat beoogt de continuïteit van de jeugdhulpverlening te garanderen;<br>
@@ -23,7 +23,7 @@ In dit besluit wordt verstaan onder:<br>
 11° dossierverantwoordelijke: het personeelslid binnen de toegangspoort van het team Indicatiestelling of van het team Jeugdhulpregie, dat de verantwoordelijkheid draagt voor de indicatiestelling of de jeugdhulpregie in het dossier en dat de aanspreekpersoon is voor de aanmelder, de minderjarige, zijn ouders of, in voorkomend geval, zijn opvoedingsverantwoordelijken tijdens de indicatiestelling of de jeugdhulpregie;<br>
 12° erkend multidisciplinair team: een multidisciplinair team dat vermeld is in artikel 35, § 1, van dit besluit of dat erkend is in uitvoering van artikel 35, § 2, van dit besluit en dat diagnostiek kan aanbieden aan de toegangspoort in functie van de aanvraag van niet rechtstreeks toegankelijke jeugdhulpverlening bij de toegangspoort;<br>
 13° feitelijke verblijfplaats: het adres waar een natuurlijke persoon op bestendige wijze feitelijk verblijft en dat zijn woonplaats niet is;<br>
-14° fonds: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Fonds Jongerenwelzijn, vermeld in artikel 54 van het decreet van 7 maart 2008 inzake de bijzondere jeugdbijstand;<br>
+14° ...;<br>
 15° gerechtelijke maatregel: een maatregel als vermeld in artikel 48, § 1, eerste lid, of artikel 53, eerste lid, van het decreet van 12 juli 2013;<br>
 16° handelingsplan: een document als vermeld in artikel 58, eerste lid, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp en in artikel 68, derde lid en artikel 81, derde lid, van dit besluit, dat door een jeugdhulpaanbieder wordt opgesteld en dat de inhoudelijke invulling bevat van het jeugdhulpverleningsplan;<br>
 17° indicatiestellingsverslag: het verslag dat wordt opgesteld door het team Indicatiestelling met toepassing van artikel 21, eerste lid, 2°, van het decreet van 12 juli 2013, of door de sociale dienst met toepassing van artikel 57, tweede lid, van het voormelde decreet;<br>
@@ -392,8 +392,8 @@ Op beslissing van de administrateur-generaal kan het aanbod, in afwijking van de
 
 <p>De kosten van het aanvullende geïndividualiseerd aanbod, vermeld in het eerste lid, komen voor subsidiëring in aanmerking als tegelijkertijd aan de volgende voorwaarden voldaan is:<br>
 1° de voorgelegde uitgaven liggen binnen de grenzen van het bedrag, bepaald met toepassing van het eerste lid;<br>
-2° de uitgaven worden bewezen ten aanzien van het fonds door voorlegging van een kopie van de boekhoudkundige uitgavestukken;<br>
-3° de vraag tot terugbetaling wordt voorgelegd aan het fonds binnen het kwartaal dat volgt op het kwartaal waarop de kosten betrekking hebben.</p>
+2° de uitgaven worden bewezen ten aanzien van het agentschap Opgroeien regie door voorlegging van een kopie van de boekhoudkundige uitgavestukken;<br>
+3° de vraag tot terugbetaling wordt voorgelegd aan het agentschap Opgroeien regie binnen het kwartaal dat volgt op het kwartaal waarop de kosten betrekking hebben.</p>
 
 ### ART. 41.
 
