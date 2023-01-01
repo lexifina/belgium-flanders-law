@@ -433,7 +433,7 @@ b) het standpunt van de ouders of, in voorkomend geval, de opvoedingsverantwoord
 c) de grootte van de schade en de opportuniteit van de vergoedingsmodaliteit voor het slachtoffer;<br>
 d) de motivatie van de minderjarige verdachte of de minderjarige delictpleger om de schade te vergoeden;<br>
 e) een overzicht van de doorlopen stappen in het kader van de subsidiariteit, waarbij voorrang gegeven wordt aan andere mogelijkheden om de schade te vergoeden;<br>
-5° de commissie, vermeld in punt 2°, beslist over de aanvragen, vermeld in punt 4°. Per uur vrijwilligerswerk dat de minderjarige verdachte of de minderjarige delictpleger presteert, bedraagt de toelage 6,70 euro. Dat bedrag is gekoppeld aan de index van de consumptieprijzen, die van toepassing is op 1 januari 2019. Het aantal uur vrijwilligerswerk is afhankelijk van de leeftijd waarop de feiten zijn gepleegd en mag niet meer bedragen dan:<br>
+5° de commissie, vermeld in punt 2°, beslist over de aanvragen, vermeld in punt 4°. Per uur vrijwilligerswerk dat de minderjarige verdachte of de minderjarige delictpleger presteert, bedraagt de toelage 7,85 euro. Dat bedrag is gekoppeld aan de spilindex die van toepassing is op 1 januari 2023. Het aantal uur vrijwilligerswerk is afhankelijk van de leeftijd waarop de feiten zijn gepleegd en mag niet meer bedragen dan:<br>
 a) voor een twaalfjarige: 38 uur;<br>
 b) voor een dertienjarige: 76 uur;<br>
 c) voor een veertienjarige: 152 uur;<br>
@@ -609,9 +609,9 @@ Voor de uitvoering van hun opdrachten ontvangen de voorzieningen van categorie 1
 <br>
 § 4. Als de som van de punten van het effectieve aantal aangemelde dossiers van een dienst voor herstelgerichte en constructieve afhandeling, opgeteld met toepassing van paragraaf 2, twee jaar na elkaar meer dan 105 % bedraagt van het aantal waarvoor de dienst erkend is, wordt, binnen de beschikbare begrotingskredieten, het aantal punten waarvoor hij erkend is, het volgende jaar verhoogd tot het gemiddelde van de voorbije twee jaar.<br>
 <br>
-§ 5. Een dienst voor herstelgerichte en constructieve afhandeling ontvangt per punt waarvoor hij erkend is, een forfaitaire subsidie van 557,41 euro. Per jaar dat de gemiddelde anciënniteit van de gesubsidieerde personeelsleden van een dienst voor herstelgerichte en constructieve afhandeling hoger ligt dan vijf jaar, wordt deze subsidie per punt verhoogd met 12,20 euro.<br>
+§ 5. Een dienst voor herstelgerichte en constructieve afhandeling ontvangt per punt waarvoor hij erkend is, een forfaitaire subsidie van 687,12 euro. Per jaar dat de gemiddelde anciënniteit van de gesubsidieerde personeelsleden van een dienst voor herstelgerichte en constructieve afhandeling hoger ligt dan vijf jaar, wordt deze subsidie per punt verhoogd met 13,36 euro.<br>
 <br>
-De bedragen, vermeld in het eerste lid, zijn gekoppeld aan de index van de consumptieprijzen, die van toepassing is op 1 januari 2019.
+De bedragen, vermeld in het eerste lid, zijn gekoppeld aan de spilindex die van toepassing is op 1 januari 2023.
 
 ### ART 36.
 
@@ -657,7 +657,7 @@ Aan erkende voorzieningen van de categorieën 1, 3, 7 en 8 worden op maandbasis 
 <br>
 De betaling van het zakgeld wordt gestaafd met een ontvangstbewijs dat door de minderjarigen wordt gedateerd en ondertekend.<br>
 <br>
-De subsidies, vermeld in het eerste lid, worden niet verleend voor de minderjarigen die over een maandelijks netto-inkomen beschikken van meer dan 202,39 euro. Dat bedrag is gekoppeld aan de index van de consumptieprijzen, die van toepassing is op 1 januari 2019.
+De subsidies, vermeld in het eerste lid, worden niet verleend voor de minderjarigen die over een maandelijks netto-inkomen beschikken van meer dan 219,07 euro. Dat bedrag is gekoppeld aan de spilindex die van toepassing is op 1 januari 2023.
 
 ### ART 43.
 
@@ -954,7 +954,7 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minist
 
 ### BIJLAGE
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2022/02/28_1.pdf#page=87">Forfaitaire subsidies als vermeld in artikel 33</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2023/12/15_1.pdf#page=244">Bijlage 1. Forfaitaire subsidies als vermeld in artikel 33</a>
 
 ### BIJLAGE
 
@@ -962,7 +962,43 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minist
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/07/12_1.pdf#page=416">Bijlage 3</a>
+Bijlage 3. Tarieven voor zakgeld aan minderjarigen bij wie een module met de functie verblijf geactiveerd is<br>
+<br>
+&nbsp;
+<table border="1" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>leeftijd</td>
+			<td>maandelijks bedrag in euro</td>
+		</tr>
+		<tr>
+			<td>van 6 tot 8 jaar</td>
+			<td>7,22</td>
+		</tr>
+		<tr>
+			<td>van 8 tot 12 jaar</td>
+			<td>14,37</td>
+		</tr>
+		<tr>
+			<td>van 12 tot 14 jaar</td>
+			<td>28,73</td>
+		</tr>
+		<tr>
+			<td>van 14 tot 16 jaar</td>
+			<td>43,11</td>
+		</tr>
+		<tr>
+			<td>van 16 tot 18 jaar</td>
+			<td>57,47</td>
+		</tr>
+		<tr>
+			<td>van 18 jaar en ouder</td>
+			<td>71,90</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+De bedragen zijn gekoppeld aan de spilindex die van kracht is op 1 januari 2023.
 
 ### BIJLAGE
 
