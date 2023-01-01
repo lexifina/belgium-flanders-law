@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038086,
+  "title": "Besluit van de Vlaamse Regering van 2023-01-27 tot wijziging van het besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten, wat betreft de financiering van de functieclassificatie voor rechtenjaar 2023",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038086/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "60c01fc47c6d89d451c3dcd02036b3736edf41b79471b2802f8ce6db9d5a140c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038086&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2023-01-27",
+  "gazette": "2023-05-11",
+  "numac": 2023030557,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
