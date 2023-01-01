@@ -25,6 +25,17 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## Hoofdstuk 1. Wijzigingen van het besluit van de Vlaamse Regering van 17 maart 2017 betreffende de subsidiëring van de organisatoren kinderopvang en buitenschoolse opvang ter uitvoering van het Vlaams Intersectoraal Akkoord
 
+### ART 1.
+
+In artikel 4 van het besluit van de Vlaamse Regering van 17 maart 2017 betreffende de subsidiëring van de organisatoren kinderopvang en buitenschoolse opvang ter uitvoering van het Vlaams Intersectoraal Akkoord, gewijzigd bij de besluiten van de Vlaamse Regering van 12 maart 2021 en 11 maart 2022, wordt paragraaf 2 vervangen door wat volgt:<br>
+<br>
+“§2. De subsidie wordt betaald per kwartaal en bedraagt maximaal 95% van de geraamde subsidie. Het voorschot wordt betaald in de eerste maand van elk kwartaal. Het saldo wordt uiterlijk afgerekend op 30 juni van het kalenderjaar dat volgt op het kalenderjaar in kwestie.<br>
+<br>
+In afwijking van het eerste lid kan het agentschap in de volgende gevallen beslissen om een specifieke regeling toe te passen voor de uitbetaling van de voorschotten:<br>
+1° bij ernstige problemen bij de organisator;<br>
+2° als er minstens een risico op plotse stopzetting van de specifieke dienstverlening is;&nbsp;<br>
+3° bij vermoeden van fraude door de organisator.”.
+
 ### ART 2.
 
 In artikel 8/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 14 januari 2022, worden de volgende wijzigingen aangebracht:<br>
