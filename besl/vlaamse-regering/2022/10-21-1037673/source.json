@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037673,
+  "title": "Besluit van de Vlaamse Regering van 2022-10-21 tot wijziging van artikel 55 van het besluit van de Vlaamse Regering van 17 februari 2017 tot uitvoering van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037673/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "ef843ed99b7fb130781a947cbe80a422c6c5ef2c32b0ae1b678237d7dcf23f29",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037673&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2022-10-21",
+  "gazette": "2023-01-13",
+  "numac": 2022042836,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
