@@ -38,7 +38,7 @@ d) 19.757,34 euro (premiebedrag op 1 januari1990 : 531.000 BEF of 13.163,15 euro
 14° opleidingsovereenkomst: overeenkomst die tussen de minister en de werkgever wordt gesloten met het oog op de aan-werving van gesubsidieerde contractuelen in opleidingsprojecten en met premies zoals bedoeld in artikel 8 van dit besluit;<br>
 15° bijzondere overeenkomst: overeenkomst die de minister sluit in toepassing van artikel 94, § 2 van de wet;<br>
 16°...<br>
-17° maatwerkbedrijf: de onderneming, vermeld in artikel 3, 5°, van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling, voordien erkend als een sociale werkplaats, conform het decreet van 14 juli 1998 inzake sociale werkplaatsen, zoals van kracht voor de inwerkingtreding van het voormelde decreet van 12 juli 2013;<br>
+17° ...;<br>
 18° zeer langdurig werklozen: de werklozen die op de dag voor de indiensttreding zonder onderbreking minstens 24 maanden volledig vergoede werklozen zijn;<br>
 19° zeer langdurig werkzoekenden: de niet-werkende werkzoekenden die op de dag voor de indiensttreding minstens:<br>
 - 24 maanden als werkzoekende ingeschreven zijn bij de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsop-leiding;<br>
@@ -96,7 +96,7 @@ In toepassing van artikel 93, vierde lid van de wet wordt het toepassingsgebied,
 4. gerechtigden op financiële maatschappelijke hulp;<br>
 5. de werknemers van het Derde Arbeidscircuit;<br>
 6. de gesubsidieerde contractuelen;<br>
-7 de doelgroepwerknemers van het maatwerkbedrijf, vermeld in artikel 3, 2°, a), en b), van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling;<br>
+7 ...;<br>
 8. de werknemers tewerkgesteld op basis van het besluit van de Vlaamse Regering van 10 juli 2008 betreffende werkervaring;<br>
 9. de werknemers tewerkgesteld op basis van artikel 63 tot en met artikel 69 van het besluit van de Vlaamse regering van 21 december 1988 houdende de organisatie van de arbeidsbemiddeling en beroepsopleiding;<br>
 10. de herintreders;<br>
