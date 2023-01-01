@@ -35,7 +35,7 @@ a) werken of diensten aan:<br>
 3) beeldhouwwerken of grafstenen;<br>
 4) panelen, schilderijen, muurschilderingen;<br>
 5) muurbekledingen, textiel;<br>
-6) bomen, historische tuinen en parken;<br>
+6) tuinen of parken met erfgoedwaarde en bomen;<br>
 7) meubilair, lambriseringen, tuin- en straatmeubilair;<br>
 8) heraldische wapens en symbolen;<br>
 9) glasramen;<br>
@@ -44,11 +44,13 @@ a) werken of diensten aan:<br>
 12) industrieel erfgoed met inbegrip van installaties, uitrustingsstukken en onderdelen;<br>
 13) cultuurgoederen;<br>
 b) beveiligingswerken tegen diefstal, brand en blikseminslag van beschermde monumenten en de cultuurgoederen die er integrerend deel van uitmaken;<br>
+11° /1 gezondheidsindex: het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2, § 1, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994;<br>
 12° kostenraming: een lijst met posten van de beoogde maatregelen, werkzaamheden en diensten, met aanduiding van de benodigde hoeveelheden en hun vermoedelijke kostprijs, al dan niet gebaseerd op de goedgekeurde lijst met forfaitaire werkzaamheden;<br>
-12° /1 kleinschalige onderneming: een onderneming waar minder dan tien personen werken, uitgezonderd seizoensarbeiders en piekarbeiders, en waarvan de omzet of het jaarlijkse balanstotaal in het boekjaar dat voorafgaat aan het boekjaar waarin de premie wordt aangevraagd, niet meer dan vijf miljoen euro bedraagt;<br>
-12° /2 kleinschalige vereniging: een vereniging waar minder dan tien personen werken en waarvan de omzet of het jaarlijkse balanstotaal in het boekjaar dat voorafgaat aan het boekjaar waarin de premie wordt aangevraagd, niet meer dan vijf miljoen euro bedraagt;<br>
+12° /1 ...;<br>
+12° /2 ...;<br>
 13° lokale beleidscyclus: de beleidscyclus van zes jaar die gekoppeld is aan de lokale bestuursperiode en die begint in het tweede jaar dat volgt op de lokale verkiezingen en eindigt op het einde van het jaar na de daaropvolgende verkiezingen;<br>
 14° meerwerken: de bijkomende werken of diensten die de vermoedelijke hoeveelheden die in de aanvaarde kostenraming worden vermeld, overschrijden;<br>
+14° /1 menselijke inhumatieresten: alle resten van personen die in de bodem of onder water worden aangetroffen, waarbij op de stoffelijke resten geen inwerking van vuur is opgetreden tussen het tijdstip van overlijden en de opname in de bodem of in het water;<br>
 15° minister: de Vlaamse minister, bevoegd voor het onroerend erfgoed;<br>
 16° ...;<br>
 16° /1 natuurdomein: een terrein als vermeld in artikel 2, punt 55°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
@@ -71,6 +73,7 @@ d) omvat, in het geval van open erfgoed, indicatoren die specifiek inspelen op d
 25° /1 toestandsrapport: een rapport over de fysische staat van onroerend erfgoed of erfgoedlandschappen waaruit de vereiste beheersmaatregelen kunnen worden afgelezen. Een toestandsrapport kan evaluaties en beheersaanbevelingen bevatten. Het rapport wordt gestaafd met duidelijk beeldmateriaal;<br>
 26° uitvoerder: de natuurlijke persoon of rechtspersoon, die het beheer van of de werkzaamheden aan onroerend erfgoed en erfgoedlandschappen uitvoert;<br>
 27° voorafgaand onderzoek: elke vorm van voorbereidend onderzoek dat noodzakelijk is voor het kwaliteitsvolle beheer of de herwaardering van een beschermd goed of een erfgoedlandschap en waarvan verondersteld mag worden dat het buiten de gebruikelijke opdracht van een eventuele ontwerper valt, met inbegrip van de werkzaamheden die nodig zijn om dat onderzoek uit te voeren;<br>
+27° /1 Vlaamse overheid: de Vlaamse overheid vermeld in artikel I.3, 1°, van het Bestuursdecreet van 7 december 2018;<br>
 28° ZEN-erfgoed: beschermde onroerende goederen, erfgoedlandschappen of zelfstandige onderdelen ervan, die geen doorslaggevend economisch nut kunnen hebben of waarvan het beheer geen doorslaggevend economisch nut genereert.
 
 ## HOOFDSTUK 3 Instanties en actoren van het onroerenderfgoedbeleid
@@ -129,32 +132,43 @@ De presentiegelden en de reis- en maaltijdvergoedingen, vermeld in artikel   3.1
 
 ### ART. 3.2.1.
 
-<p>Om erkend te worden en te blijven als onroerenderfgoedgemeente moet de onroerenderfgoedgemeente voldoen aan al de volgende Vlaamse beleidsprioriteiten voor het onroerenderfgoedbeleid:<br>
-1° de gemeente beschikt over een onderbouwde beleidsvisie die het actief behoud, het gebruik en de herbestemming van het onroerend erfgoed op haar grondgebied voor ogen heeft en die complementair is aan het Vlaamse onroerenderfgoedbeleid en die al de volgende voorwaarden vervult:<br>
-a) de beleidsvisie is integraal en omvat een visie op de zorg voor het geheel van archeologische sites, monumenten, cultuurhistorische landschappen en stads- en dorpsgezichten;<br>
-b) de beleidsvisie is geïntegreerd en is dus afgestemd met andere beleidsvelden die raakvlakken hebben met de onroerenderfgoedzorg;<br>
-c) de beleidsvisie houdt rekening met de noden van de aanwezige onroerenderfgoedactoren;<br>
-2° de gemeente ondersteunt en betrekt de erfgoedgemeenschappen die zich inzetten voor het duurzame behoud en beheer en voor de ontsluiting van het onroerend erfgoed op haar grondgebied en neemt acties om een lokaal draagvlak voor de onroerenderfgoedzorg te creëren;<br>
-3° de gemeente neemt een voorbeeldfunctie op met betrekking tot het duurzame behoud en het beheer van het onroerend erfgoed in haar eigendom of onder haar beheer, en integreert de visie op dat onroerend erfgoed in de beslissingen en plannen van de gemeente;<br>
-4° de gemeente bouwt voor expertiseverwerving een consultatienetwerk uit met de diensten en organisaties die betrokken zijn bij de zorg voor het onroerend erfgoed en betrekt een door de gemeenteraad erkende adviesraad, waarin de aanwezige onroerenderfgoedactoren vertegenwoordigd zijn, bij de voorbereiding, de uitvoering en de evaluatie van het gemeentelijk onroerenderfgoedbeleid;<br>
-5° de gemeente houdt de toelatingen, de bekrachtiging en de aktename van de archeologienota's en de nota's en de meldingen, afgeleverd in het kader van het Onroerenderfgoeddecreet van 12 juli 2013 en dit besluit, bij in een register dat digitaal raadpleegbaar is door het agentschap. Een beslissing wordt opgenomen in het register binnen een ordetermijn van tien dagen, die ingaat op de dag na de beslissing;<br>
-6° de gemeente inventariseert het onroerend erfgoed op het gemeentelijk grondgebied en zet instrumenten in om het duurzame behoud en beheer ervan te stimuleren.</p>
-
-<p>De minister kan de nadere vormvereisten voor het register, vermeld in het eerste lid, 5°, bepalen.</p>
-
-<p>Als een gemeente voldoet aan de Vlaamse beleidsprioriteiten inzake het onroerenderfgoedbeleid, voldoet de gemeente ook aan de voorwaarden om te worden erkend als onroerenderfgoedgemeente. Om te voldoen aan de Vlaamse beleidsprioriteiten kan een gemeente zich laten ondersteunen door een erkende intergemeentelijke onroerenderfgoeddienst.</p>
+<p>Een gemeente kan erkend worden en blijven als onroerenderfgoedgemeente als ze in het Vlaamse Gewest ligt en voldoet aan al de volgende Vlaamse beleidsprioriteiten voor het onroerenderfgoedbeleid:<br>
+1° de gemeente beschikt over een onderbouwde beleidsvisie die voldoet aan al de volgende voorwaarden:<br>
+a) ze is complementair aan het Vlaamse onroerenderfgoedbeleid;<br>
+b) ze beoogt het behoud, het gebruik en de herbestemming van het onroerend erfgoed dat op haar grondgebied ligt;<br>
+c) ze is integraal;<br>
+d) ze is geïntegreerd;<br>
+e) ze houdt rekening met de noden van de gemeenschap;<br>
+2° de gemeente creëert een lokaal draagvlak voor haar beleidsvisie inzake onroerend erfgoed;<br>
+3° de gemeente neemt een voorbeeldfunctie op in de zorg voor het onroerend erfgoed waarvan ze eigenaar of beheerder is inclusief de integratie van haar beleidsvisie voor onroerend erfgoed in haar beslissingen en plannen;<br>
+4° de gemeente beschikt over de nodige expertise voor een kwalitatieve opmaak en uitvoer van haar beleidsvisie voor onroerend erfgoed;<br>
+5° de gemeente betrekt een adviesraad bij de voorbereiding, uitvoering en evaluatie van haar beleidsvisie voor onroerend erfgoed. De adviesraad is erkend door de gemeenteraad en bestaat uit een vertegenwoordiging van het lokale erfgoedveld;<br>
+6° de gemeente voert de beslissingen over de aanvragen voor toelating voor archeologisch vooronderzoek met ingreep in de bodem en de meldingen en beoordelingen van archeologienota's en nota's, die uitgereikt zijn in het kader van de toepassing van het Onroerenderfgoeddecreet van 12 juli 2013 en dit besluit, in de digitale registers van de Vlaamse overheid in binnen een ordetermijn van tien dagen, die ingaat op de dag na de beslissing;<br>
+7° de gemeente voert de beslissingen en adviezen zoals vermeld in artikel 6.5.1, 4°, 6° en 7° in de databank van toelatingen en adviezen in binnen een ordetermijn van tien dagen, die ingaat op de dag na het advies of de beslissing.<br>
+8° de gemeente inventariseert het onroerend erfgoed op haar grondgebied en zet instrumenten in om het duurzaam behoud en beheer ervan te stimuleren;<br>
+9° de gemeente voert het door haar vastgestelde onroerend erfgoed en de er eventueel aan gekoppelde toelatingsplichten in in het platform dat daarvoor ter beschikking wordt gesteld door de Vlaamse overheid;<br>
+10° de gemeente heeft een gemeentelijk verbalisant aangesteld om de regelgeving over het onroerend erfgoed op haar grondgebied te handhaven.<br>
+<br>
+Om te voldoen aan de Vlaamse beleidsprioriteiten voor het onroerenderfgoedbeleid, vermeld in het eerste lid, kan een gemeente zich laten ondersteunen door een erkende intergemeentelijke onroerenderfgoeddienst.</p>
 
 ### ART. 3.2.2.
 
-<P>Uiterlijk op 15 januari van het eerste jaar van de lokale beleidscyclus of,   bij een evaluatie na drie jaar door de Vlaamse Regering, op 15 januari van het   vierde jaar van de lokale beleidscyclus, dient de gemeente de lokale invulling   van de Vlaamse beleidsprioriteiten bij de Vlaamse Regering in. De gemeente   bezorgt daarvoor de relevante onderdelen van de door de gemeenteraad   goedgekeurde strategische meerjarenplanning, vermeld in artikel 146 en 147 van   het Gemeentedecreet van 15 juli 2005, aan de Vlaamse Regering. Daarin geeft de   gemeente aan hoe ze uitwerking zal geven aan de Vlaamse beleidsprioriteiten   inzake het onroerenderfgoedbeleid. De gemeente kan op eigen initiatief   aanvullende documenten bezorgen.<BR></P>  <P>De strategische meerjarenplanning bevat:<BR>1° een beschrijving van de   gewenste effecten en indicatoren van het onroerenderfgoedbeleid;<BR>2° de   actieplannen en de acties die de gemeente in samenwerking met lokale actoren   opzet om vorm te geven aan het onroerenderfgoedbeleid;<BR>3° een beschrijving   van de manier waarop de gemeente de participatie   organiseert.<BR></P>
+<p>Uiterlijk op 15 januari van het eerste jaar van de lokale beleidscyclus of, bij een evaluatie na drie jaar door de Vlaamse Regering, op 15 januari van het vierde jaar van de lokale beleidscyclus, dient de gemeente de lokale invulling van de Vlaamse beleidsprioriteiten, zoals vermeld in artikel 3.2.1 van dit besluit, bij de Vlaamse Regering in. De indiening van de voormelde invulling geldt als aanvraag tot erkenning als onroerenderfgoedgemeente. De gemeente bezorgt daarvoor de relevante onderdelen van de door de gemeenteraad goedgekeurde meerjarenplanning, vermeld in artikel 254 van het decreet van 22 december 2017 over het lokaal bestuur, aan de Vlaamse Regering. Daarin geeft de gemeente aan op welke wijze ze de Vlaamse beleidsprioriteiten voor het onroerenderfgoedbeleid, vermeld in artikel 3.2.1 van dit besluit, zal uitvoeren. De gemeente kan op eigen initiatief aanvullende documenten bezorgen.</p>
+
+<p>De&nbsp;meerjarenplanning bevat:<br>
+1° een beschrijving van de gewenste effecten en indicatoren van het onroerenderfgoedbeleid;<br>
+2° de actieplannen en de acties die de gemeente&nbsp;opzet om vorm te geven aan het onroerenderfgoedbeleid;<br>
+3° een beschrijving van de manier waarop de gemeente de participatie organiseert.</p>
 
 ### ART. 3.2.3.
 
-Het agentschap beoordeelt de aanvraag tot erkenning van de   onroerenderfgoedgemeente op basis van de Vlaamse beleidsprioriteiten inzake het   onroerenderfgoedbeleid en brengt daarover een advies uit aan de minister   uiterlijk op 15 maart van hetzelfde jaar van de indiening van de Vlaamse   beleidsprioriteiten.<BR>
+Het agentschap kan het advies van de Commissie inwinnen over de aanvraag tot erkenning van de onroerenderfgoedgemeente. De Commissie bezorgt haar advies aan het agentschap binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de adviesvraag. Als er niet tijdig advies wordt verleend, wordt aan de adviesvraag voorbijgegaan.<br>
+<br>
+Het agentschap beoordeelt de aanvraag tot erkenning van de onroerenderfgoedgemeente op basis van de invulling van de Vlaamse beleidsprioriteiten voor het onroerenderfgoedbeleid en brengt daarover een advies uit aan de minister uiterlijk op 15 maart van hetzelfde jaar waarin de voormelde invulling van de Vlaamse beleidsprioriteiten is ingediend.
 
 ### ART. 3.2.4.
 
-Op basis van het advies van het agentschap beslist de minister over de   erkenning van de onroerenderfgoedgemeente. De minister kan het advies van de   Commissie inwinnen.<BR>
+Op basis van het advies van het agentschap beslist de minister over de erkenning van de onroerenderfgoedgemeente.
 
 ### ART. 3.2.5.
 
@@ -174,11 +188,11 @@ De erkenning als onroerenderfgoedgemeente gaat in vanaf 1 juli van het   jaar wa
 
 ### ART. 3.2.9.
 
-Uiterlijk op 30 juni van elk jaar rapporteert de erkende onroerenderfgoedgemeente over de uitvoering van haar engagementen, behalve in het jaar van de aanvraag tot erkenning. De gemeente bezorgt daartoe de relevante onderdelen van de door de gemeenteraad goedgekeurde jaarrekening van het voorafgaande jaar aan de Vlaamse Regering. Daarin geeft de gemeente aan welke activiteiten en prestaties werden verricht of effecten werden bereikt in het kader van de Vlaamse beleidsprioriteiten inzake het onroerenderfgoedbeleid.
+Uiterlijk op 30 april van elk jaar rapporteert de erkende onroerenderfgoedgemeente over de uitvoering van haar engagementen, behalve in het jaar van de aanvraag tot erkenning. De gemeente bezorgt daartoe de relevante onderdelen van de door de gemeenteraad goedgekeurde jaarrekening van het voorafgaande jaar aan de Vlaamse Regering. Daarin geeft de gemeente aan welke activiteiten en prestaties werden verricht of effecten werden bereikt in het kader van de Vlaamse beleidsprioriteiten inzake het onroerenderfgoedbeleid.&nbsp;De gemeente kan op eigen initiatief aanvullende documenten bezorgen over de activiteiten en de prestaties die werden verricht of de effecten die werden bereikt.
 
 ### ART. 3.2.10.
 
-Als de erkende onroerenderfgoedgemeente niet voldoet aan de erkenningsvoorwaarden of aan de rapporteringsverplichtingen, als de rapportering manifest onduidelijk is of als de gemeente onvoldoende aantoont dat ze de vooropgestelde doelstellingen heeft nagestreefd, maakt de minister binnen een termijn van negentig dagen, die ingaat op de dag na de ontvangst van de rapportering of, bij gebrek aan rapportering&nbsp;binnen een termijn van negentig dagen, die ingaat op de dag na de uiterste indieningsdatum, per beveiligde zending bezwaar bij de gemeente. De gemeente bezorgt, binnen&nbsp;een termijn van zestig dagen, die ingaat op de dag na de ontvangst van het bezwaar aan de minister een aangepaste rapportering of een motiverende nota met de redenen waarom bepaalde engagementen niet zijn nagekomen.
+Als de erkende onroerenderfgoedgemeente niet voldoet aan de erkenningsvoorwaarden of aan de rapporteringsverplichtingen, als de rapportering manifest onduidelijk is of als de gemeente onvoldoende aantoont dat ze de vooropgestelde doelstellingen heeft nagestreefd, maakt de minister binnen een termijn van negentig dagen, die ingaat op de dag na de dag van de uiterste rapportagedatum vermeld in artikel 3.2.9, per beveiligde zending bezwaar bij de gemeente. De gemeente bezorgt, binnen&nbsp;een termijn van zestig dagen, die ingaat op de dag na de ontvangst van het bezwaar aan de minister een aangepaste rapportering of een motiverende nota met de redenen waarom bepaalde engagementen niet zijn nagekomen.
 
 ### ART. 3.2.11.
 
@@ -188,7 +202,7 @@ Het agentschap kan op verzoek van de minister vragen aan een   visitatiecommissi
 
 <p>Het agentschap deelt de resultaten van de evaluatie mee aan de minister binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de bevindingen van de visitatiecommissie. De minister kan bij een negatieve evaluatie de erkenning van de onroerenderfgoedgemeente schorsen voor een termijn van maximaal honderdtwintig dagen. Het agentschap deelt die beslissing tot schorsing per beveiligde zending mee aan de erkende onroerenderfgoedgemeente. De erkende onroerenderfgoedgemeente beschikt over een termijn van zestig dagen, die ingaat op de dag na de kennisgeving van de beslissing tot schorsing om aan de redenen voor de schorsing van de erkenning te remediëren.</p>
 
-<p>Tijdens een periode van schorsing kan de erkende onroerenderfgoedgemeente haar taken en bevoegdheden ter uitvoering van het Onroerenderfgoeddecreet van 12 juli 2013 en dit besluit verder uitvoeren en uitoefenen. De visitatiecommissie heeft evenwel toegang tot het register met toelatingen, adviezen en meldingen, vermeld in artikel 3.2.1, eerste lid, 5°.</p>
+<p>Tijdens een periode van schorsing kan de erkende onroerenderfgoedgemeente haar taken en bevoegdheden ter uitvoering van het Onroerenderfgoeddecreet van 12 juli 2013 en dit besluit verder uitvoeren en uitoefenen. De visitatiecommissie heeft evenwel toegang tot de digitale registers met toelatingen, adviezen en meldingen, vermeld in artikel 3.2.1, eerste lid, 6°.</p>
 
 <p>De geschorste onroerenderfgoedgemeente bezorgt binnen de bovenvermelde termijn van zestig dagen schriftelijk een reactie aan het agentschap waarin ze beschrijft welke acties ze heeft ondernomen of onverwijld zal ondernemen ter remediëring.</p>
 
@@ -202,9 +216,9 @@ Als een erkende onroerenderfgoedgemeente zelf te kennen geeft dat ze niet meer e
 
 ### ART. 3.2.14.
 
-<p>Het agentschap brengt de gemeente per beveiligde zending onverwijld op de hoogte van de beslissing van de minister over het al dan niet intrekken van de erkenning of de opheffing van de schorsing. De intrekking van de erkenning of de opheffing van de schorsing gaat in op de dag die volgt op de dag van de&nbsp;kennisgeving van de beslissing aan de onroerenderfgoedgemeente.</p>
+<p>Het agentschap brengt de gemeente per beveiligde zending onverwijld op de hoogte van de beslissingen vermeld in artikel 3.2.12, vijfde lid en artikel 3.2.13. De intrekking van de erkenning of de opheffing van de schorsing gaat in op de dag die volgt op de dag van de&nbsp;kennisgeving van de beslissing aan de onroerenderfgoedgemeente.</p>
 
-<p>Als de minister geen beslissing neemt binnen de termijn, vermeld in artikel 3.2.12 of 3.2.13, wordt de erkenning geacht niet te zijn ingetrokken en de schorsing te zijn opgeheven.</p>
+<p>Als de minister geen beslissing neemt binnen de termijn, vermeld in artikel 3.2.12 of 3.2.13, wordt de erkenning geacht niet te zijn ingetrokken en in voorkomend geval de schorsing te zijn opgeheven.</p>
 
 ### ART. 3.2.15.
 
@@ -216,7 +230,7 @@ Als een gemeente na de intrekking van haar erkenning opnieuw een aanvraag   tot 
 
 ### ART. 3.2.17.
 
-Als de erkenning van een onroerenderfgoedgemeente wordt ingetrokken,   behandelt de gemeente de ontvankelijke vergunnings- en toelatingsaanvragen die   voor de kennisgeving van de intrekking van de erkenning zijn ingediend,   overeenkomstig artikel 4.1.10 en 6.4.4, § 1, van het Onroerenderfgoeddecreet van   12 juli 2013.<BR>
+Als de erkenning van een onroerenderfgoedgemeente wordt ingetrokken, behandelt de gemeente de ontvankelijke meldingen, vergunnings- en toelatingsaanvragen die voor de kennisgeving van de intrekking van de erkenning zijn ingediend, overeenkomstig artikel 4.1.10, 5.4.6, 5.4.8, 5.4.12, 5.4.16 en 6.4.4, § 1, van het Onroerenderfgoeddecreet van 12 juli 2013.
 
 ### ART 3.2.18.
 
@@ -382,19 +396,21 @@ Het agentschap stelt op zijn website een modelformulier ter beschikking waarmee 
 
 ### ART. 3.4.5.
 
-Het agentschap bezorgt, binnen een termijn van vijftien dagen, die ingaat   op de dag na de ontvangst van de aanvraag, een afschrift van de ontvankelijke   aanvraag aan de provincie op het grondgebied waarvan de depotinfrastructuur   ligt, als de aanvrager niet beheerd wordt door de provincie. De provincie   formuleert over de aanvraag een advies en bezorgt dat binnen een termijn van   dertig dagen, die ingaat op de dag na de ontvangst van het afschrift aan het   agentschap. Als deze termijn wordt overschreden, mag aan de adviesvereiste   worden voorbijgegaan.<BR>
+Het agentschap bezorgt, binnen een termijn van vijftien dagen, die ingaat op de dag na de ontvangst van de aanvraag, een afschrift van de ontvankelijke aanvraag aan de provincie op het grondgebied waarvan de depotinfrastructuur ligt, als de aanvrager niet beheerd wordt door de provincie. De provincie formuleert over de aanvraag een advies en bezorgt dat binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van het afschrift aan het agentschap. Als deze termijn wordt overschreden, mag aan de adviesvereiste worden voorbijgegaan.<br>
+<br>
+Het agentschap kan het advies van de Commissie inwinnen over de aanvraag tot erkenning van het onroerenderfgoeddepot. De Commissie bezorgt haar advies aan het agentschap binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de adviesvraag. Als er niet tijdig advies wordt verleend, wordt aan de adviesvraag voorbijgegaan.
 
 ### ART. 3.4.6.
 
-Het agentschap beoordeelt de aanvraag tot erkenning van het   onroerenderfgoeddepot op basis van de erkenningsvoorwaarden, en in voorkomend   geval, op basis van het advies van de betrokken provincie(s). Het agentschap kan   het onroerenderfgoeddepot bezoeken om de aanvraag tot erkenning ten gronde te   beoordelen. Het agentschap brengt op basis daarvan een advies uit aan de   minister binnen een termijn van zestig dagen, die ingaat op de dag na het   verstrijken van de adviestermijn van de provincies, vermeld in artikel   3.4.5.<BR>
+Het agentschap beoordeelt de aanvraag tot erkenning van het onroerenderfgoeddepot op basis van de erkenningsvoorwaarden, en in voorkomend geval, op basis van het advies van de betrokken provincie(s). Het agentschap kan het onroerenderfgoeddepot bezoeken om de aanvraag tot erkenning ten gronde te beoordelen. Het agentschap brengt uiterlijk op 15 maart van hetzelfde jaar van de erkenningsaanvraag op basis daarvan een advies uit aan de minister.
 
 ### ART. 3.4.7.
 
-Op basis van het advies van het agentschap beslist de minister over de   erkenning van het onroerenderfgoeddepot. De minister kan het advies van de   Commissie inwinnen.<BR>
+Op basis van het advies van het agentschap beslist de minister over de erkenning van het onroerenderfgoeddepot.&nbsp;
 
 ### ART. 3.4.8.
 
-Uiterlijk op 31 mei van elk jaar brengt de minister de aanvragers per beveiligde zending op de hoogte van het al dan niet aanvaarden van de erkenningsaanvraag.
+Uiterlijk op 30 april van elk jaar brengt de minister de aanvragers per beveiligde zending op de hoogte van het al dan niet aanvaarden van de erkenningsaanvraag.
 
 ### ART. 3.4.9.
 
@@ -410,11 +426,11 @@ In het kader van de opvolging van de erkende onroerenderfgoeddepots moet   het e
 
 ### ART. 3.4.12.
 
-Uiterlijk op 31 mei van elk jaar, behalve in het jaar van de aanvraag tot erkenning, rapporteert het erkende onroerenderfgoeddepot in een inhoudelijk verslag, zoals vermeld in artikel 3.4.11, 3°, over de jaarlijkse werking.
+Uiterlijk op 30 april van elk jaar, behalve in het jaar van de aanvraag tot erkenning, rapporteert het erkende onroerenderfgoeddepot in een inhoudelijk verslag, zoals vermeld in artikel 3.4.11, 3°, over de jaarlijkse werking.
 
 ### ART. 3.4.13.
 
-Als het onroerenderfgoeddepot niet voldoet aan de erkenningsvoorwaarden, de rapporteringsverplichtingen of als de rapportering manifest onduidelijk is of als het onroerenderfgoeddepot onvoldoende aantoont dat het de vooropgestelde doelstellingen heeft nagestreefd, maakt de minister binnen een termijn van negentig dagen, die ingaat op de dag na de ontvangst van de rapportering, of bij gebrek aan rapportering, binnen een termijn van negentig dagen, die ingaat op de dag na de uiterste indieningsdatum per beveiligde zending bezwaar bij het onroerenderfgoeddepot. Het onroerenderfgoeddepot bezorgt, binnen een termijn van zestig dagen, die ingaat op de dag na de ontvangst van het bezwaar de minister een aangepaste rapportering, vermeld in artikel 3.4.11, 3°, of een motiverende nota met de redenen waarom bepaalde engagementen niet zijn nagekomen.
+Als het onroerenderfgoeddepot niet voldoet aan de erkenningsvoorwaarden, de rapporteringsverplichtingen of als de rapportering manifest onduidelijk is of als het onroerenderfgoeddepot onvoldoende aantoont dat het de vooropgestelde doelstellingen heeft nagestreefd, maakt de minister binnen een termijn van negentig dagen, die ingaat op de dag na de uiterste rapportagedatum vermeld in artikel 3.4.12 per beveiligde zending bezwaar bij het onroerenderfgoeddepot. Het onroerenderfgoeddepot bezorgt, binnen een termijn van zestig dagen, die ingaat op de dag na de ontvangst van het bezwaar de minister een aangepaste rapportering, vermeld in artikel 3.4.11, 3°, of een motiverende nota met de redenen waarom bepaalde engagementen niet zijn nagekomen.
 
 ### ART. 3.4.14.
 
@@ -438,9 +454,9 @@ Als een erkend onroerenderfgoeddepot ophoudt te bestaan of als een erkend onroer
 
 ### ART. 3.4.17.
 
-<p>Binnen een termijn van vijftien dagen, die ingaat op de dag na de beslissing van de minister, deelt de administratie de beslissing tot intrekking van de erkenning of opheffing van de schorsing, per beveiligde zending, mee aan het onroerenderfgoeddepot. De intrekking van de erkenning of de opheffing van de schorsing gaat in op de dag die volgt op de dag van de&nbsp;kennisgeving van de beslissing aan het onroerenderfgoeddepot.</p>
+<p>Het agentschap brengt het onroerenderfgoeddepot onverwijld per beveiligde zending op de hoogte van de beslissingen vermeld in artikel 3.4.15, vijfde lid en artikel 3.4.16. De intrekking van de erkenning of de opheffing van de schorsing gaat in op de dag die volgt op de dag van de&nbsp;kennisgeving van de beslissing aan het onroerenderfgoeddepot.</p>
 
-<p>Als de minister geen beslissing neemt binnen de termijn, vermeld in artikel 3.4.15, vijfde lid of 3.4.16,&nbsp;wordt de erkenning geacht niet te zijn ingetrokken en de schorsing te zijn opgeheven.</p>
+<p>Als de minister geen beslissing neemt binnen de termijn, vermeld in artikel 3.4.15, vijfde lid of 3.4.16,&nbsp;wordt de erkenning geacht niet te zijn ingetrokken en in voorkomend geval de schorsing te zijn opgeheven.</p>
 
 <p>De intrekking van de erkenning als onroerenderfgoeddepot wordt bij uittreksel in het Belgisch Staatsblad gepubliceerd.</p>
 
@@ -765,7 +781,7 @@ Als de onroerenderfgoedondernemer zelf te kennen geeft dat hij geen   kwaliteits
 
 ### ART. 4.1.1.
 
-Een onroerend goed of een geheel van onroerende goederen kan opgenomen   worden in de vastgestelde inventaris van bouwkundig erfgoed, de vastgestelde   landschapsatlas, de vastgestelde inventaris van houtige beplantingen met   erfgoedwaarde of de vastgestelde inventaris van historische tuinen en parken als   het een of meer erfgoedwaarden bezit en voldoende goed bewaard   is.<BR>
+Een onroerend goed of een geheel van onroerende goederen kan opgenomen worden in de vastgestelde inventaris van bouwkundig erfgoed, de vastgestelde landschapsatlas&nbsp;en de vastgestelde inventaris van landschappelijk erfgoed als het een of meer erfgoedwaarden bezit en voldoende goed bewaard is.
 
 ### ART. 4.1.2.
 
@@ -781,23 +797,33 @@ Een archeologische zone wordt geschrapt uit de vastgestelde inventaris van   arc
 
 ### ART. 4.1.5.
 
-<P>De minister stelt, na mededeling aan de Vlaamse Regering, voor elke   inventaris, vermeld in artikel 4.1.1 van het Onroerenderfgoeddecreet van 12 juli   2013, een inventarismethodologie vast. Deze inventarismethodologie bevat:<BR>1°   de wijze van beschrijving van de erfgoedwaarden;<BR>2° het afwegingskader dat   gehanteerd wordt om het onroerend goed te waarderen.<BR></P>  <P>Voor de inventarissen, vermeld in artikel 4.1.1, 1°, 3°, 4° en 5° van het   Onroerenderfgoeddecreet van 12 juli 2013, worden in de inventarismethodologie   minstens de selectiecriteria zeldzaamheid, herkenbaarheid, representativiteit,   ensemblewaarde en contextwaarde opgenomen.<BR></P>
+<p>De minister stelt, na mededeling aan de Vlaamse Regering, voor elke inventaris, vermeld in artikel 4.1.1 van het Onroerenderfgoeddecreet van 12 juli 2013, een inventarismethodologie vast. Deze inventarismethodologie bevat:<br>
+1° de wijze van beschrijving van de erfgoedwaarden;<br>
+2° het afwegingskader dat gehanteerd wordt om het onroerend goed te waarderen.</p>
+
+<p>Voor de inventarissen, vermeld in artikel 4.1.1, eerste lid, 1°, 3° en 4° van het Onroerenderfgoeddecreet van 12 juli 2013, worden in de inventarismethodologie minstens de selectiecriteria zeldzaamheid, herkenbaarheid, representativiteit, ensemblewaarde en contextwaarde opgenomen.</p>
 
 ### ART. 4.1.6.
 
-De minister stelt een inventaris, vermeld in artikel 4.1.1 van het   Onroerenderfgoeddecreet van 12 juli 2013, na de vaststelling van de   inventarismethodologie, vast.<BR>
+De minister&nbsp;of de gemeenteraad van de erkende onroerenderfgoedgemeente stelt een inventaris, vermeld in artikel 4.1.1 van het Onroerenderfgoeddecreet van 12 juli 2013, na de vaststelling van de inventarismethodologie, vast.
 
 ## [Afdeling 1/1. Ontsluiting (ing. BVR 2 september 2022, art. 29, I: 1 januari 2023)]
+
+### ART 4.1.7.
+
+De vaststellingsbesluiten zoals vermeld in artikel 4.1.3, zevende lid en 4.1.7/2, zevende lid van het Onroerenderfgoeddecreet van 12 juli 2013 worden ontsloten op het daarvoor voorziene digitale platform van het agentschap.<br>
+<br>
+De onroerende goederen die opgenomen zijn in een vastgestelde inventaris als vermeld in artikel 4.1.1 van het Onroerenderfgoeddecreet van 12 juli 2013 worden ontsloten op de GIS-laag van het daarvoor voorziene digitale platform van het agentschap.
 
 ## [Afdeling 2 Rechtsgevolgen (verv. BVR 2 september 2022, art. 30, I: 1 januari 2023)]
 
 ### ART. 4.2.1.
 
-<P>De administratieve overheid geeft in elke beslissing over een eigen werk of   een eigen activiteit met directe impact op geïnventariseerd erfgoed aan hoe ze   rekening heeft gehouden met de verplichting, vermeld in artikel 4.1.9 van het   Onroerenderfgoeddecreet van 12 juli 2013.<BR></P>  <P>In de beslissing dient opgenomen te worden welke geïnventariseerde onroerende   goederen er directe impact ondervinden en desgevallend met welke maatregelen   uitvoering is gegeven aan de zorgplicht.<BR></P>
+<p>...</p>
 
 ### ART. 4.2.2.
 
-Als in het kader van de beslissing, vermeld in artikel 4.2.1, een   milieueffectrapport of een milieueffectbeoordeling van impact op erfgoedwaarden   opgemaakt is, is voldaan aan de verplichting, vermeld in artikel 4.1.9,   tweede<SUP> </SUP>lid, van het Onroerenderfgoeddecreet van 12 juli   2013.<BR>
+...
 
 ## [Onderafdeling 1. Zorgplicht (ing. BVR 2 september 2022, art. 31, I: 1 januari 2023)]
 
@@ -807,9 +833,82 @@ Als een onroerend goed dat opgenomen is in een vastgestelde inventaris ook   als
 
 ## [Onderafdeling 2. Toelatingsplichten (ing. BVR 2 september 2022, art. 33, I: 1 januari 2023)]
 
+### ART 4.2.4.
+
+Een erkende onroerenderfgoedgemeente kan een toelatingsplicht opleggen voor de volgende handelingen aan één of meerdere onroerende goederen in een vast te stellen inventaris als vermeld in artikel 4.1.1, eerste lid, 3° of 4°, van het Onroerenderfgoeddecreet van 12 juli 2013:<br>
+1° het uitvoeren van de volgende werken aan het dak en de buitenmuren van constructies:<br>
+a) het verwijderen, vervangen of wijzigen van dakbedekking en gootconstructies;<br>
+b) het wijzigen van de kleur van de afwerkingslagen;<br>
+c) het aanbrengen, verwijderen, vervangen of wijzigen van de textuur of samenstelling van de afwerkingslagen, inclusief het verwijderen van voegen en het hervoegen;<br>
+d) het aanbrengen, verwijderen, vervangen of wijzigen van buitenschrijnwerken, deuren, ramen, luiken, poorten, inclusief de al dan niet figuratieve beglazing, beslag, hang- en sluitwerk;<br>
+e) het aanbrengen, verwijderen, vervangen of wijzigen van aard- en nagelvaste elementen, smeedijzer en beeldhouwwerk, inclusief nieuwe toevoegingen;<br>
+2° het fundamenteel en structureel wijzigen van de aanleg van tuinen, parken en begraafplaatsen met erfgoedwaarde;<br>
+3° het uitvoeren van de volgende handelingen in het interieur :<br>
+a) het verwijderen, vervangen of wijzigen van plafonds, gewelven, vloeren, trappen, binnenschrijnwerk;<br>
+b) het verwijderen, vervangen of wijzigen van waardevolle interieurdecoratie.
+
 ## [Onderafdeling 3. Toelatingsprocedure voor handelingen aan onroerende goederen die opgenomen zijn in een vastgestelde inventaris (ing. BVR 2 september 2022, art. 34, I: 1 januari 2023)]
 
+### ART 4.2.5.
+
+Als voor handelingen aan een beschermd monument, cultuurhistorisch landschap, archeologische site of stads- en dorpsgezicht die zijn vrijgesteld zijn van toelating of melding in een goedgekeurd beheersplan als vermeld in artikel 8.1.4, § 1, eerste lid, 9°, van dit besluit ook een toelatingsplicht geldt omwille van een opname in een vastgestelde inventaris als vermeld artikel 4.1.1, eerste lid, 3° of 4°, van het Onroerenderfgoeddecreet van 12 juli 2013 is die handeling ook vrijgesteld van de toelating die voortvloeit uit de vaststelling.
+
+### ART 4.2.6.
+
+De aanvraag van een toelating als vermeld in artikel 4.1.10/1, § 1, van het Onroerenderfgoeddecreet van 12 juli 2013, wordt schriftelijk of via het daarvoor voorziene digitale platform ingediend bij het college van burgemeester en schepenen van de erkende onroerenderfgoedgemeente waar het onroerend goed ligt.<br>
+<br>
+De aanvraag bevat minstens al de volgende elementen:<br>
+1° een volledig ingevuld en ondertekend aanvraagformulier dat ter beschikking wordt gesteld op de website van de erkende onroerenderfgoedgemeente of via het daarvoor voorziene digitale platform;<br>
+2° een beschrijving van de huidige staat van het goed;<br>
+3° een beschrijving van de geplande handelingen;<br>
+4° een motivering van de geplande handelingen;<br>
+5° de vermelding van de vermoedelijke datum van het begin en het einde van de handelingen.
+
+### ART 4.2.7.
+
+De erkende onroerenderfgoedgemeente gaat na of voldaan is aan alle voorwaarden, vermeld in artikel 4.2.6, en of de dossiergegevens een onderzoek ten gronde toelaten.<br>
+<br>
+Als de aanvraag onvolledig is of geen onderzoek ten gronde toelaat, kan de erkende onroerenderfgoedgemeente binnen een termijn van twintig dagen, die ingaat op de dag na de dag waarop de aanvraag is ingediend, de aanvrager schriftelijk of via het daarvoor voorziene digitale platform vragen om de ontbrekende gegevens of documenten bij de aanvraag te voegen, en de termijn bepalen waarbinnen dat moet gebeuren. Als de aanvrager nalaat binnen deze termijn de ontbrekende gegevens of documenten bij te voegen, wordt de toelating geacht te zijn geweigerd. De erkende onroerenderfgoedgemeente brengt de aanvrager hiervan schriftelijk of via het daarvoor voorziene digitale platform op de hoogte.
+
+### ART 4.2.8.
+
+Het college van burgemeester en schepenen van de erkende onroerenderfgoedgemeente neemt een beslissing over de aanvraag binnen een termijn van dertig dagen, die ingaat op de dag na de dag waarop de volledige aanvraag is ingediend.<br>
+<br>
+Als geen beslissing is genomen binnen de termijn, vermeld in het eerste lid, wordt de toelating geacht te zijn goedgekeurd.<br>
+<br>
+De beslissing vermeldt de voorwaarden die van toepassing zijn.<br>
+<br>
+Als de toelating voor een bepaalde duur wordt verleend, vermeldt de beslissing de duur van de toelating en de reden daarvoor.
+
+### ART 4.2.9.
+
+Het college van burgemeester en schepenen van de erkende onroerenderfgoedgemeente maakt de beslissing vermeld in artikel 4.2.8 binnen een ordetermijn van tien dagen, die ingaat op de dag na de datum van de beslissing of de dag na het verstrijken van de termijn, vermeld in artikel 4.2.8, eerste lid, als volgt bekend:<br>
+1° het brengt de aanvrager schriftelijk of via het daarvoor voorziene digitale platform op de hoogte van de uitdrukkelijke of stilzwijgende beslissing;<br>
+2° de beslissing wordt ingeschreven in de databank van toelatingen en adviezen, vermeld in artikel 6.5.1.
+
+### ART 4.2.10.
+
+Als een uitdrukkelijke of stilzwijgende toelating wordt verleend, moet de aanvrager in voorkomend geval de zakelijkrechthouder of de gebruiker per beveiligde zending de mededeling bezorgen die te kennen geeft dat de toelating is verleend.
+
+### ART 4.2.11.
+
+Als dat opgenomen is in de voorwaarden van de toelating, meldt de aanvrager de start en het einde van de uitvoering van de werken aan het college van burgemeester en schepenen van de erkende onroerenderfgoedgemeente. De werken worden uitgevoerd overeenkomstig de voorwaarden die bepaald zijn in de toelating.
+
+### ART 4.2.12.
+
+Een afschrift van de toelating of kennisgeving van de stilzwijgende beslissing ligt tijdens de duur van de werkzaamheden ter uitvoering van de toelating ter beschikking op de plaats die het voorwerp uitmaakt van de toelating.
+
+### ART 4.2.13.
+
+De toelating vervalt als de werken twee jaar na het verlenen van de toelating niet gestart zijn of gedurende meer dan drie opeenvolgende jaren onderbroken worden. De termijn van twee jaar vangt aan op de dag na de datum van de kennisgeving van de beslissing vermeld in artikel 4.2.9, 1°.&nbsp;
+
 ## [Onderafdeling 4. Advies erkende onroerenderfgoedgemeente (ing. BVR 2 september 2022, art. 35, I: 1 januari 2023)]
+
+### ART 4.2.14.
+
+Als voor handelingen aan een onroerend goed dat is opgenomen in een vastgestelde inventaris als vermeld in artikel 4.1.1, eerste lid, 3° of 4°, van het Onroerenderfgoeddecreet van 12 juli 2013, waarvoor de onroerenderfgoedgemeente een toelatingsplicht als vermeld in artikel 4.1.1, derde lid, van voormelde decreet, heeft opgelegd, ook een omgevingsvergunning, een vergunning, een toelating, een machtiging, een ontheffing of een afwijking is vereist overeenkomstig het Bosdecreet van 13 juni 1990 of het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, wint de overheid die een beslissing neemt over de aanvraag het advies in van de betrokken erkende onroerenderfgoedgemeente.<br>
+<br>
+De adviesplicht vermeld in het eerste lid geldt niet als overeenkomstig artikel 4.1.10/1 § 1, vierde lid van het Onroerenderfgoeddecreet van 12 juli 2013 alleen een toelatingsplicht of meldingsplicht vanuit de bescherming geldt.
 
 ## HOOFDSTUK 5 Archeologie
 
@@ -853,15 +952,13 @@ De minister stelt een code van goede praktijk vast voor de uitvoering van   en d
 
 ### ART. 5.4.1.
 
-De gebieden waar geen archeologisch erfgoed te verwachten valt, worden vastgesteld als een&nbsp;plan waarop die gebieden nauwkeurig worden aangeduid. Dat&nbsp;plan wordt publiek toegankelijk gemaakt op een GIS-laag op een website van het agentschap.<br>
+De gebieden waar geen archeologisch erfgoed te verwachten valt of waar onderzoek van het archeologisch erfgoed geen relevante kenniswinst oplevert, worden vastgesteld als een&nbsp;plan waarop die gebieden nauwkeurig worden aangeduid. Dat&nbsp;plan wordt publiek toegankelijk gemaakt op een GIS-laag op een website van het agentschap.<br>
 <br>
-Over de vaststelling van de gebieden waar geen archeologisch erfgoed te verwachten valt wordt zesmaandelijks gerapporteerd aan de Vlaamse Regering.<br>
-<br>
-In het eerste en tweede lid wordt verstaan onder gebieden waar geen archeologisch erfgoed te verwachten valt: de gebieden waar op basis van waarnemingen en wetenschappelijke argumenten onderbouwd kan worden dat ze met hoge waarschijnlijkheid geen archeologische waarde hebben.
+Over de vaststelling van de gebieden waar geen archeologisch erfgoed te verwachten valt&nbsp;of waar onderzoek van het archeologisch erfgoed geen relevante kenniswinst oplevert wordt zesmaandelijks gerapporteerd aan de Vlaamse Regering.
 
 ### ART 5.4.1/1.
 
-De erkende onroerenderfgoedgemeente kan in een gemeentelijk reglement in vrijstellingen voorzien zoals vermeld in artikel 5.4.1, derde lid, 9°, van het Onroerenderfgoeddecreet van 12 juli 2013. Dat gemeentelijk reglement motiveert op basis van waarnemingen en wetenschappelijke argumenten welke percelen vrijgesteld worden omdat ze met hoge waarschijnlijkheid geen archeologische waarde hebben. Het gemeentelijk reglement bevat ook een plan waarop die percelen nauwkeurig worden aangeduid.<br>
+De erkende onroerenderfgoedgemeente kan in een gemeentelijk reglement in vrijstellingen voorzien zoals vermeld in artikel 5.4.1, derde lid, 9° en artikel 5.4.2, vierde lid, 2°, van het Onroerenderfgoeddecreet van 12 juli 2013. Dat gemeentelijk reglement motiveert in het voormelde geval op basis van waarnemingen en wetenschappelijke argumenten welke percelen vrijgesteld worden omdat ze met hoge waarschijnlijkheid geen archeologische waarde hebben of waar op basis van waarnemingen en wetenschappelijke argumenten onderbouwd kan worden dat verder onderzoek van de aanwezige archeologische site en artefacten geen relevante kenniswinst oplevert. Het gemeentelijk reglement bevat in het voormelde geval ook een plan waarop die percelen nauwkeurig worden aangeduid.<br>
 <br>
 De erkende onroerenderfgoedgemeente bezorgt aan het agentschap na de goedkeuring door de gemeenteraad:<br>
 1° het gemeentelijk reglement, vermeld in artikel 5.4.1, derde lid, 9°, van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
@@ -1114,7 +1211,28 @@ De volgende handelingen aan of in beschermde monumenten, beschermde   cultuurhis
 
 ### ART. 6.2.4.
 
-<P>De volgende handelingen aan of in beschermde monumenten kunnen niet worden   aangevat zonder toelating van het agentschap of, zoals vermeld in artikel 6.4.4,   § 1, eerste lid, van het Onroerenderfgoeddecreet van 12 juli 2013, van de   erkende onroerenderfgoedgemeente:<BR>1° het plaatsen, slopen, verbouwen of   heropbouwen van een constructie;<BR>2° het verwijderen, vervangen, wijzigen of   verstevigen van constructieve elementen;<BR>3° het verwijderen, vervangen of   wijzigen van historische materialen en het toepassen van behandelingen met als   doel de historische materialen te reinigen, te herstellen, te verduurzamen of te   beschermen tegen verweer en aantasting;<BR>4° het uitvoeren van de volgende   werken aan het dak en de buitenmuren van constructies:<BR>a) het verwijderen,   vervangen of wijzigen van dakbedekking en gootconstructies;<BR>b) het   verwijderen van voegen en het hervoegen;<BR>c) het aanbrengen, verwijderen,   vervangen of wijzigen van de kleur, textuur of samenstelling van de   afwerkingslagen;<BR>d) het aanbrengen, verwijderen, vervangen of wijzigen van   buitenschrijnwerken, deuren, ramen, luiken, poorten, inclusief de al dan niet   figuratieve beglazing, beslag, hang- en sluitwerk;<BR>e) het aanbrengen,   verwijderen, vervangen of wijzigen van aard- en nagelvaste elementen, smeedijzer   en beeldhouwwerk, inclusief nieuwe toevoegingen;<BR>f) het aanbrengen, vervangen   of wijzigen van opschriften, publiciteitsinrichtingen of uithangborden, met   uitzondering van verkiezingspubliciteit en met uitzondering van   publiciteitsinrichtingen, waarbij wordt bekendgemaakt dat het goed te koop of te   huur is, op voorwaarde dat de totale maximale oppervlakte niet meer bedraagt dan   4 m²;<BR>5° het uitvoeren van de volgende omgevingswerken:<BR>a) het plaatsen of   wijzigen van bovengrondse nutsvoorzieningen en leidingen;<BR>b) het plaatsen of   wijzigen van afsluitingen, met uitzondering van gladde schrikdraad en   prikkeldraad ten behoeve van veekering;<BR>c) het aanleggen, structureel en   fundamenteel wijzigen of verwijderen van wegen en paden;<BR>d) het vellen of   beschadigen van bomen en struiken die opgenomen zijn in het beschermingsbesluit   of in een goedgekeurd beheersplan, en elke handeling die een wijziging van de   groeiplaats en groeivorm van de bomen en de struiken die opgenomen zijn in het   beschermingsbesluit of in een goedgekeurd beheersplan tot gevolg kan   hebben;<BR>e) het aanleggen of wijzigen van verharding met een minimale   gezamenlijke grondoppervlakte van 30 m² of het uitbreiden van bestaande   verhardingen met minimaal 30 m², met uitzondering van verhardingen geplaatst   binnen een straal van 30 meter rond een vergund of een vergund geacht   gebouw;<BR>f) het plaatsen of wijzigen van straatmeubilair, met uitzondering van   niet-aard- en niet-nagelvaste elementen en verkeersborden vermeld in artikel 65   van het Koninklijk Besluit van 1 december 1975 houdende algemeen reglement op de   politie van het wegverkeer en van het gebruik van de openbare weg;<BR>g) het   aanleggen van sport- en spelinfrastructuur of parkeerplaatsen;<BR>h) het   structureel en fundamenteel wijzigen van de aanleg van historische tuinen en   parken en begraafplaatsen.<BR></P>  <P>In het eerste lid wordt verstaan onder aard- en nagelvast: duurzaam met de   grond of met gebouwen of constructies verenigd.<BR></P>
+<p>De volgende handelingen aan of in beschermde monumenten kunnen niet worden aangevat zonder toelating van het agentschap of, zoals vermeld in artikel 6.4.4, § 1, eerste lid, van het Onroerenderfgoeddecreet van 12 juli 2013, van de erkende onroerenderfgoedgemeente:<br>
+1° het plaatsen, slopen, verbouwen of heropbouwen van een constructie;<br>
+2° het verwijderen, vervangen, wijzigen of verstevigen van constructieve elementen;<br>
+3° het verwijderen, vervangen of wijzigen van historische materialen en het toepassen van behandelingen met als doel de historische materialen te reinigen, te herstellen, te verduurzamen of te beschermen tegen verweer en aantasting;<br>
+4° het uitvoeren van de volgende werken aan het dak en de buitenmuren van constructies:<br>
+a) het verwijderen, vervangen of wijzigen van dakbedekking en gootconstructies;<br>
+b) het verwijderen van voegen en het hervoegen;<br>
+c) het aanbrengen, verwijderen, vervangen of wijzigen van de kleur, textuur of samenstelling van de afwerkingslagen;<br>
+d) het aanbrengen, verwijderen, vervangen of wijzigen van buitenschrijnwerken, deuren, ramen, luiken, poorten, inclusief de al dan niet figuratieve beglazing, beslag, hang- en sluitwerk;<br>
+e) het aanbrengen, verwijderen, vervangen of wijzigen van aard- en nagelvaste elementen, smeedijzer en beeldhouwwerk, inclusief nieuwe toevoegingen;<br>
+f) het aanbrengen, vervangen of wijzigen van opschriften, publiciteitsinrichtingen of uithangborden, met uitzondering van verkiezingspubliciteit en met uitzondering van publiciteitsinrichtingen, waarbij wordt bekendgemaakt dat het goed te koop of te huur is, op voorwaarde dat de totale maximale oppervlakte niet meer bedraagt dan 4 m²;<br>
+5° het uitvoeren van de volgende omgevingswerken:<br>
+a) het plaatsen of wijzigen van bovengrondse nutsvoorzieningen en leidingen;<br>
+b) het plaatsen of wijzigen van afsluitingen, met uitzondering van gladde schrikdraad en prikkeldraad ten behoeve van veekering;<br>
+c) het aanleggen, structureel en fundamenteel wijzigen of verwijderen van wegen en paden;<br>
+d) het vellen of beschadigen van bomen en struiken die opgenomen zijn in het beschermingsbesluit of in een goedgekeurd beheersplan, en elke handeling die een wijziging van de groeiplaats en groeivorm van de bomen en de struiken die opgenomen zijn in het beschermingsbesluit of in een goedgekeurd beheersplan tot gevolg kan hebben;<br>
+e) het aanleggen of wijzigen van verharding met een minimale gezamenlijke grondoppervlakte van 30 m² of het uitbreiden van bestaande verhardingen met minimaal 30 m², met uitzondering van verhardingen geplaatst binnen een straal van 30 meter rond een vergund of een vergund geacht gebouw;<br>
+f) het plaatsen of wijzigen van straatmeubilair, met uitzondering van niet-aard- en niet-nagelvaste elementen en verkeersborden vermeld in artikel 65 van het Koninklijk Besluit van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en van het gebruik van de openbare weg;<br>
+g) het aanleggen van sport- en spelinfrastructuur of parkeerplaatsen;<br>
+h) het structureel en fundamenteel wijzigen van de aanleg van&nbsp;tuinen of parken met erfgoedwaarde en begraafplaatsen.</p>
+
+<p>In het eerste lid wordt verstaan onder aard- en nagelvast: duurzaam met de grond of met gebouwen of constructies verenigd.</p>
 
 ## Onderafdeling 4 Handelingen in beschermde stads- en dorpsgezichten
 
@@ -1137,7 +1255,7 @@ d) het vellen of beschadigen van bomen en struiken die opgenomen zijn in het bes
 e) het aanleggen of wijzigen van verharding met een minimale gezamenlijke grondoppervlakte van 30 m² of het uitbreiden van bestaande verhardingen met minimaal 30 m², met uitzondering van verhardingen geplaatst binnen een straal van 30 meter rond een vergund of een vergund geacht gebouw;<br>
 f) het plaatsen of wijzigen van straatmeubilair, met uitzondering van niet-aard- en niet-nagelvaste elementen en verkeersborden vermeld in artikel 65 van het Koninklijk Besluit van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en van het gebruik van de openbare weg;<br>
 g) het aanleggen van sport- en spelinfrastructuur of parkeerplaatsen;<br>
-h) het fundamenteel en structureel wijzigen van de aanleg van historische tuinen en parken en begraafplaatsen;<br>
+h) het fundamenteel en structureel wijzigen van de aanleg van tuinen of parken met erfgoedwaarde en begraafplaatsen;<br>
 5° de aanmerkelijke reliëfwijziging van de bodem;<br>
 6° elke handeling die een aanzienlijke wijziging van de landschapskenmerken tot gevolg heeft, met uitzondering van cultuurgewassen, onder meer voor de landbouw, en tuinbeplanting.<br>
 <br>
@@ -1149,7 +1267,24 @@ Als voor de handelingen, vermeld in het eerste lid, ook een toelating vereist is
 
 ### ART. 6.2.6.
 
-De volgende handelingen aan of in beschermde cultuurhistorische   landschappen kunnen niet worden aangevat zonder toelating van het agentschap of,   zoals vermeld in artikel 6.4.4, § 1, eerste lid, van het Onroerenderfgoeddecreet   van 12 juli 2013, van de erkende onroerenderfgoedgemeente:<BR>1° het plaatsen   van constructies met een minimale grondoppervlakte van 6 m² en een minimale   hoogte van 4 meter, met uitzondering van niet-permanente en verplaatsbare   constructies binnen een straal van 30 meter rond een vergund of vergund geacht   gebouw;<BR>2° het slopen, verbouwen of heropbouwen van constructies die als   erfgoedelement zijn opgenomen of als karakteristiek gebouw zijn aangegeven in   beschermingsbesluit;<BR>3° het aanbrengen, vervangen of wijzigen van   opschriften, publiciteitsinrichtingen of uithangborden, met uitzondering van   verkiezingspubliciteit en met uitzondering van publiciteitsinrichtingen, waarbij   wordt bekendgemaakt dat het goed te koop of te huur is, op voorwaarde dat de   totale maximale oppervlakte niet meer bedraagt dan 4 m²;<BR>4° het plaatsen of   wijzigen van bovengrondse nutsvoorzieningen en leidingen;<BR>5° het plaatsen of   wijzigen van afsluitingen, met uitzondering van gladde schrikdraad en   prikkeldraad ten behoeve van veekering;<BR>6° het aanleggen, structureel en   fundamenteel wijzigen of verwijderen van wegen en paden;<BR>7° het vellen of   beschadigen van bomen en struiken of kleine landschapselementen die opgenomen   zijn in het beschermingsbesluit of in een goedgekeurd beheersplan, en elke   handeling die een wijziging van de groeiplaats en groeivorm van de bomen en de   struiken die opgenomen zijn in het beschermingsbesluit of in een goedgekeurd   beheersplan tot gevolg kan hebben;<BR>8° het aanleggen of wijzigen van   verharding met een minimale gezamenlijke grondoppervlakte van 30 m² of het   uitbreiden van bestaande verhardingen met minimaal 30 m²;<BR>9° het plaatsen of   wijzigen van straatmeubilair, met uitzondering van niet-aard- en niet-nagelvaste   elementen en verkeersborden vermeld in artikel 65 van het Koninklijk Besluit van   1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en   van het gebruik van de openbare weg;<BR>10° het aanleggen van sport- en   spelinfrastructuur of parkeerplaatsen;<BR>11° het fundamenteel en structureel   wijzigen van de aanleg van historische tuinen en parken en   begraafplaatsen;<BR>12° het organiseren van grote evenementen, die het normaal   gebruik van het beschermd cultuurhistorisch landschap overstijgen;<BR>13° het   scheuren van grasland of het omzetten van grasland in akkerland van:<BR>1)   historisch permanent grasland: een halfnatuurlijke vegetatie die bestaat uit   grasland dat gekenmerkt wordt door het langdurig grondgebruik als graasweide,   hooiland of wisselweide met cultuurhistorische waarde of met een soortenrijke   vegetatie van kruiden en grassoorten waarbij het milieu meestal wordt gekenmerkt   door de aanwezigheid van sloten, greppels, poelen, uitgesproken microreliëf,   bronnen of kwelzones;<BR>2) overig grasland in de groengebieden, parkgebieden,   buffergebieden, bosgebieden, valleigebieden, brongebieden, agrarische gebieden   met ecologisch belang, agrarische gebieden met bijzondere waarde,   natuurontwikkelingsgebieden, gebieden voor gemeenschapsvoorzieningen en openbare   nutsvoorzieningen met als overdruk overstromingsgebied, wachtbekkens en   militaire domeinen, ontginningsgebieden die een van de bestemmingen, vermeld in   dit artikel, als nabestemming hebben, op de plannen van aanleg en de ruimtelijke   uitvoeringsplannen met toepassing van de VCRO;<BR>3) overig grasland in de   beschermde duingebieden, aangewezen met toepassing van het decreet van 14 juli   1993 houdende maatregelen tot bescherming van de kustduinen;<BR>14° het plaatsen   of wijzigen van oeverbeschoeiing.<BR>
+De volgende handelingen aan of in beschermde cultuurhistorische landschappen kunnen niet worden aangevat zonder toelating van het agentschap of, zoals vermeld in artikel 6.4.4, § 1, eerste lid, van het Onroerenderfgoeddecreet van 12 juli 2013, van de erkende onroerenderfgoedgemeente:<br>
+1° het plaatsen van constructies met een minimale grondoppervlakte van 6 m² en een minimale hoogte van 4 meter, met uitzondering van niet-permanente en verplaatsbare constructies binnen een straal van 30 meter rond een vergund of vergund geacht gebouw;<br>
+2° het slopen, verbouwen of heropbouwen van constructies die als erfgoedelement zijn opgenomen of als karakteristiek gebouw zijn aangegeven in beschermingsbesluit;<br>
+3° het aanbrengen, vervangen of wijzigen van opschriften, publiciteitsinrichtingen of uithangborden, met uitzondering van verkiezingspubliciteit en met uitzondering van publiciteitsinrichtingen, waarbij wordt bekendgemaakt dat het goed te koop of te huur is, op voorwaarde dat de totale maximale oppervlakte niet meer bedraagt dan 4 m²;<br>
+4° het plaatsen of wijzigen van bovengrondse nutsvoorzieningen en leidingen;<br>
+5° het plaatsen of wijzigen van afsluitingen, met uitzondering van gladde schrikdraad en prikkeldraad ten behoeve van veekering;<br>
+6° het aanleggen, structureel en fundamenteel wijzigen of verwijderen van wegen en paden;<br>
+7° het vellen of beschadigen van bomen en struiken of kleine landschapselementen die opgenomen zijn in het beschermingsbesluit of in een goedgekeurd beheersplan, en elke handeling die een wijziging van de groeiplaats en groeivorm van de bomen en de struiken die opgenomen zijn in het beschermingsbesluit of in een goedgekeurd beheersplan tot gevolg kan hebben;<br>
+8° het aanleggen of wijzigen van verharding met een minimale gezamenlijke grondoppervlakte van 30 m² of het uitbreiden van bestaande verhardingen met minimaal 30 m²;<br>
+9° het plaatsen of wijzigen van straatmeubilair, met uitzondering van niet-aard- en niet-nagelvaste elementen en verkeersborden vermeld in artikel 65 van het Koninklijk Besluit van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en van het gebruik van de openbare weg;<br>
+10° het aanleggen van sport- en spelinfrastructuur of parkeerplaatsen;<br>
+11° het fundamenteel en structureel wijzigen van de aanleg van tuinen of parken met erfgoedwaarde en begraafplaatsen;<br>
+12° het organiseren van grote evenementen, die het normaal gebruik van het beschermd cultuurhistorisch landschap overstijgen;<br>
+13° het scheuren van grasland of het omzetten van grasland in akkerland van:<br>
+1) historisch permanent grasland: een halfnatuurlijke vegetatie die bestaat uit grasland dat gekenmerkt wordt door het langdurig grondgebruik als graasweide, hooiland of wisselweide met cultuurhistorische waarde of met een soortenrijke vegetatie van kruiden en grassoorten waarbij het milieu meestal wordt gekenmerkt door de aanwezigheid van sloten, greppels, poelen, uitgesproken microreliëf, bronnen of kwelzones;<br>
+2) overig grasland in de groengebieden, parkgebieden, buffergebieden, bosgebieden, valleigebieden, brongebieden, agrarische gebieden met ecologisch belang, agrarische gebieden met bijzondere waarde, natuurontwikkelingsgebieden, gebieden voor gemeenschapsvoorzieningen en openbare nutsvoorzieningen met als overdruk overstromingsgebied, wachtbekkens en militaire domeinen, ontginningsgebieden die een van de bestemmingen, vermeld in dit artikel, als nabestemming hebben, op de plannen van aanleg en de ruimtelijke uitvoeringsplannen met toepassing van de VCRO;<br>
+3) overig grasland in de beschermde duingebieden, aangewezen met toepassing van het decreet van 14 juli 1993 houdende maatregelen tot bescherming van de kustduinen;<br>
+14° het plaatsen of wijzigen van oeverbeschoeiing.
 
 ## Onderafdeling 6 Specifieke toelatingsplichten voor beschermde archeologische sites
 
@@ -1234,8 +1369,8 @@ De aanvraag bevat minstens al de volgende elementen:<br>
 
 Het agentschap of, in voorkomend geval, het college van burgemeester en schepenen van de erkende onroerenderfgoedgemeente maakt de beslissing binnen een ordetermijn van tien dagen, die ingaat op de dag na de datum van de beslissing of de dag na het verstrijken van de termijn, vermeld in artikel 6.3.5, eerste lid, als volgt bekend:<br>
 1° het agentschap of, in voorkomend geval, het college van burgemeester en schepenen van de erkende onroerenderfgoedgemeente brengt de aanvrager schriftelijk of via het daarvoor voorziene digitale platform op de hoogte van de uitdrukkelijke of stilzwijgende beslissing;<br>
-2° als het gaat om een beslissing van het agentschap wordt een afschrift van die uitdrukkelijke beslissing of een kennisgeving van de stilzwijgende beslissing gelijktijdig en schriftelijk aan de gemeente bezorgd, en wordt die beslissing ingeschreven in het register van toelatingen en adviezen, vermeld in artikel 6.5.1;<br>
-3° als het gaat om een beslissing van het college van burgemeester en schepenen van de erkende onroerenderfgoedgemeente wordt die beslissing ingeschreven in het register van toelatingen en adviezen, vermeld in artikel 6.5.1.
+2° als het gaat om een beslissing van het agentschap wordt een afschrift van die uitdrukkelijke beslissing of een kennisgeving van de stilzwijgende beslissing gelijktijdig en schriftelijk aan de gemeente bezorgd, en wordt die beslissing ingeschreven in de databank van toelatingen en adviezen, vermeld in artikel 6.5.1;<br>
+3° als het gaat om een beslissing van het college van burgemeester en schepenen van de erkende onroerenderfgoedgemeente wordt die beslissing ingeschreven in de databank van toelatingen en adviezen, vermeld in artikel 6.5.1.
 
 ### ART. 6.3.7.
 
@@ -1261,19 +1396,22 @@ Een afschrift van de toelating of kennisgeving van de stilzwijgende   beslissing
 
 ### ART. 6.3.12.
 
-<p>Voor handelingen aan of in beschermde stads- of dorpsgezichten, zoals vermeld in artikel 6.2.5 of het beschermingsbesluit, wordt schriftelijk bij het college van burgemeester en schepenen een melding ingediend. Deze handelingen mogen worden aangevat vanaf de twintigste dag na de datum van de melding, behalve als het college van burgemeester en schepenen de aanmelder voordien per beveiligde zending op de hoogte brengt dat de aangemelde handelingen van aard zijn om de wezenlijke eigenschappen van het beschermde stads- of dorpsgezicht te verstoren. In dat geval kunnen de handelingen slechts worden aangevat nadat het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente een toelating heeft verleend. De aanvraag van de toelating door de aanmelder en de behandeling ervan gebeurt overeenkomstig artikel 6.3.2 tot en met 6.3.11.</p>
-
-<p>Het college van burgemeester en schepenen kan niet oordelen dat aangemelde handelingen van aard zijn om de wezenlijke eigenschappen van een beschermd stads- of dorpsgezicht te verstoren indien deze handelingen niet zichtbaar zijn vanaf een openbare weg of opgenomen in de daartoe opgestelde lijst van handelingen horende bij een overeenkomstig artikel 8.1.1 van het Onroerenderfgoeddecreet van 12 juli 2013 goedgekeurd beheersplan. De melding bestaat minstens uit:<br>
-1° een nauwkeurige beschrijving van de handelingen;<br>
-2° de aanwijzing van de precieze plaats waar de handelingen zullen worden uitgevoerd;<br>
-3° de vermelding van de vermoedelijke datum van het begin en het einde van de handelingen;<br>
-4° in voorkomend geval een motivering van de handelingen aan of in beschermde goederen die voortbouwt op het goedgekeurde beheersplan.</p>
-
-<p>Als het mogelijk is, wordt de melding aangevuld met tekeningen of foto's.</p>
-
-<p>De melding wordt in voorkomend geval geïntegreerd in de stedenbouwkundige melding, vermeld in artikel 4.2.2 van de VCRO.<br>
+<p>Voor handelingen aan of in beschermde stads- of dorpsgezichten, als vermeld in artikel 6.2.5 of het beschermingsbesluit die zichtbaar zijn vanaf de openbare weg en niet zijn vrijgesteld van toelating of melding in een goedgekeurd beheersplan als vermeld in artikel 8.1.4, § 1, eerste lid, 9° wordt schriftelijk of via het daartoe voorziene digitale platform een melding ingediend bij het college van burgemeester en schepenen.<br>
 <br>
-Voor de gehele of gedeeltelijke sloop, het optrekken, het plaatsen of het herbouwen van een gebouw of een constructie in een beschermd stads- of dorpsgezicht moet een toelating gevraagd worden overeenkomstig artikel 6.3.2 tot en met 6.3.11.</p>
+Die handelingen mogen worden aangevat vanaf de dertigste dag na de datum van de melding in het eerste lid, behalve als het college van burgemeester en schepenen de aanmelder voordien per beveiligde zending of via het daartoe voorziene digitale platform op de hoogte brengt dat de aangemelde handelingen van die aard zijn dat ze de wezenlijke eigenschappen van het beschermde stads- of dorpsgezicht verstoren.<br>
+<br>
+Tenzij het gaat om een erkende onroerenderfgoedgemeente, bezorgt het college van burgemeester en schepenen onverwijld na de kennisgeving vermeld in het tweede lid de melding aan het agentschap. Het agentschap of de erkende onroerenderfgoedgemeente behandelt de melding als een toelating overeenkomstig artikel 6.3.2 tot en met 6.3.11. De termijn van behandeling vermeld in artikel 6.3.5, eerste lid gaat in op de dag waarop de melding, vermeld in het eerste lid, is doorgestuurd naar het agentschap, of in voorkomend geval, vanaf de dag waarop het college van burgemeester en schepenen van de erkende onroerenderfgoedgemeente de kennisgeving vermeld in het tweede lid heeft verstuurd aan de aanmelder. De handelingen kunnen slechts worden aangevat nadat het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente een toelating heeft verleend.<br>
+<br>
+De melding, vermeld in het eerste lid, bestaat minstens uit al de volgende elementen:<br>
+1° een volledig ingevuld en ondertekend meldingsformulier dat ter beschikking wordt gesteld op de website van het agentschap of via het daartoe voorziene digitale platform;<br>
+2° een beschrijving van de huidige staat van het goed;<br>
+3° een beschrijving van de geplande handelingen;<br>
+4° een motivering van de geplande handelingen, die in voorkomend geval uitlegt hoe die handelingen voortbouwen op het goedgekeurde beheersplan;<br>
+5° de vermelding van de vermoedelijke datum van het begin en het einde van de handelingen.<br>
+<br>
+De melding, vermeld in het eerste lid, wordt in voorkomend geval geïntegreerd in de stedenbouwkundige melding, vermeld in artikel 4.2.2 van de VCRO.<br>
+<br>
+Om een gebouw of een constructie in een beschermd stads- of dorpsgezicht volledig of gedeeltelijk te slopen, op te trekken, te plaatsen of te herbouwen wordt een toelating gevraagd conform artikel 6.3.2 tot en met 6.3.11.</p>
 
 ## Onderafdeling 2 Beroepsprocedure
 
@@ -1331,7 +1469,7 @@ In voorkomend geval, wordt de termijn vermeld in het eerste lid geschorst gedure
 
 ### ART. 6.3.21.
 
-Binnen een ordetermijn van tien dagen, die ingaat op de dag na de datum   van de beslissing of de dag na het verstrijken van de termijn, vermeld in   artikel 6.3.20, bezorgt de minister een afschrift van de beslissing per   beveiligde zending aan de indiener van het beroep en aan de aanvrager, als het   beroep niet door hem is ingesteld, en neemt die beslissing op in het register   van toelatingen en adviezen, vermeld in artikel 6.5.1.<BR>
+Binnen een ordetermijn van tien dagen, die ingaat op de dag na de datum van de beslissing of de dag na het verstrijken van de termijn, vermeld in artikel 6.3.20, bezorgt de minister een afschrift van de beslissing per beveiligde zending aan de indiener van het beroep en aan de aanvrager, als het beroep niet door hem is ingesteld, en neemt die beslissing op in de databank van toelatingen en adviezen, vermeld in artikel 6.5.1.
 
 ### ART. 6.3.22.
 
@@ -1389,7 +1527,14 @@ Het agentschap stelt een modelformulier ter beschikking op zijn website.</p>
 
 ### ART. 6.5.1.
 
-Het agentschap stelt een databank van adviezen en beslissingen over   aanvragen tot het verkrijgen van een toelating voor handelingen aan of in   beschermde goederen digitaal beschikbaar. Die databank bevat:<BR>1° de adviezen   van het agentschap over aanvragen tot het verkrijgen van een toelating voor   handelingen aan of in beschermde goederen, waarvoor met toepassing van de VCRO,   het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid,   het Bosdecreet van 13 juni 1990 of het decreet van 21 oktober 1997 betreffende   het natuurbehoud en het natuurlijk milieu ook een vergunning, toelating,   machtiging, ontheffing of afwijking hoeft te worden aangevraagd, verleend in   eerste administratieve aanleg;<BR>2° de adviezen van de Commissie over aanvragen   tot het verkrijgen van een toelating voor handelingen aan of in beschermde   goederen, waarvoor met toepassing van de VCRO, het decreet van 5 april 1995   houdende algemene bepalingen inzake milieubeleid, het Bosdecreet van 13 juni   1990 of het decreet van 21 oktober 1997 betreffende het natuurbehoud en het   natuurlijk milieu geen vergunning, toelating, machtiging, ontheffing of   afwijking hoeft te worden aangevraagd, in voorkomend geval verleend in   beroep;<BR>3° de adviezen van de Commissie over aanvragen tot het verkrijgen van   een toelating voor handelingen aan of in beschermde goederen, waarvoor met   toepassing van de VCRO, het decreet van 5 april 1995 houdende algemene   bepalingen inzake milieubeleid, het Bosdecreet van 13 juni 1990 of het decreet   van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu ook   een vergunning, toelating, machtiging, ontheffing of afwijking hoeft te worden   aangevraagd, in voorkomend geval verleend in beroep;<BR>4° de beslissingen over   aanvragen tot het verkrijgen van een toelating voor handelingen aan of in   beschermde goederen waarvoor met toepassing van de VCRO, het decreet van 5 april   1995 houdende algemene bepalingen inzake milieubeleid, het Bosdecreet van 13   juni 1990 of het decreet van 21 oktober 1997 betreffende het natuurbehoud en het   natuurlijk milieu geen vergunning, toelating, machtiging, ontheffing of   afwijking hoeft te worden aangevraagd;<BR>5° de in beroep genomen beslissingen   over aanvragen tot het verkrijgen van een toelating voor handelingen aan of in   beschermde goederen waarvoor met toepassing van de VCRO, het decreet van 5 april   1995 houdende algemene bepalingen inzake milieubeleid, het Bosdecreet van 13   juni 1990 of het decreet van 21 oktober 1997 betreffende het natuurbehoud en het   natuurlijk milieu geen vergunning, toelating, machtiging, ontheffing of   afwijking hoeft te worden aangevraagd.<BR>
+Het agentschap stelt een databank van adviezen en beslissingen over aanvragen tot het verkrijgen van een toelating digitaal beschikbaar. Die databank bevat:<br>
+1° de adviezen van het agentschap over aanvragen tot het verkrijgen van een toelating voor handelingen aan of in beschermde goederen, waarvoor met toepassing van de VCRO, het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, het Bosdecreet van 13 juni 1990 of het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu ook een vergunning, toelating, machtiging, ontheffing of afwijking hoeft te worden aangevraagd, verleend in eerste administratieve aanleg;<br>
+2° de adviezen van de Commissie over aanvragen tot het verkrijgen van een toelating voor handelingen aan of in beschermde goederen, waarvoor met toepassing van de VCRO, het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, het Bosdecreet van 13 juni 1990 of het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu geen vergunning, toelating, machtiging, ontheffing of afwijking hoeft te worden aangevraagd, in voorkomend geval verleend in beroep;<br>
+3° de adviezen van de Commissie over aanvragen tot het verkrijgen van een toelating voor handelingen aan of in beschermde goederen, waarvoor met toepassing van de VCRO, het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, het Bosdecreet van 13 juni 1990 of het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu ook een vergunning, toelating, machtiging, ontheffing of afwijking hoeft te worden aangevraagd, in voorkomend geval verleend in beroep;<br>
+4° de beslissingen over aanvragen tot het verkrijgen van een toelating voor handelingen aan of in beschermde goederen waarvoor met toepassing van de VCRO, het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, het Bosdecreet van 13 juni 1990 of het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu geen vergunning, toelating, machtiging, ontheffing of afwijking hoeft te worden aangevraagd;<br>
+5° de in beroep genomen beslissingen over aanvragen tot het verkrijgen van een toelating voor handelingen aan of in beschermde goederen waarvoor met toepassing van de VCRO, het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, het Bosdecreet van 13 juni 1990 of het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu geen vergunning, toelating, machtiging, ontheffing of afwijking hoeft te worden aangevraagd;<br>
+6° de beslissingen over aanvragen tot het verkrijgen van een toelating voor handelingen aan een onroerend goed dat is opgenomen in een vastgestelde inventaris als vermeld in artikel 4.1.1, eerste lid, 3° of 4°, van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+7° de adviezen vermeld in artikel 4.2.14 van dit besluit over handelingen aan een onroerend goed dat is opgenomen in een vastgestelde inventaris als vermeld in artikel 4.1.1, eerste lid, 3° of 4°, van het Onroerenderfgoeddecreet van 12 juli 2013.
 
 ## Afdeling 6 Herkenningsteken
 
@@ -1955,13 +2100,13 @@ a) het depot beschikt over een calamiteitennetwerk;<br>
 b) het depot heeft een interdisciplinaire werking;<br>
 c) het depot heeft een specifieke thematische werking.</p>
 
-<p>Als de erkenning van een onroerenderfgoeddepot gedurende de looptijd van de samenwerkingsovereenkomst is ingetrokken overeenkomstig artikel 3.4.15 of 3.4.16, heeft het geen recht op een subsidie voor het jaar waarin de erkenning wordt ingetrokken en is het gehouden tot de onmiddellijke terugbetaling van de reeds uitbetaalde subsidie van het lopende jaar, overeenkomstig artikel 13, 1°, van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.<br>
+<p>Als de erkenning van een onroerenderfgoeddepot gedurende de looptijd van de samenwerkingsovereenkomst is ingetrokken overeenkomstig artikel 3.4.15 of 3.4.16, heeft het geen recht op een subsidie voor het jaar waarin de erkenning wordt ingetrokken en is het gehouden tot de onmiddellijke terugbetaling van de reeds uitbetaalde subsidie van het lopende jaar, overeenkomstig artikel 13, eerste lid, 1°&nbsp;, van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.<br>
 <br>
 Als gedurende de looptijd van de samenwerkingsovereenkomst de receptieve functie van gemeentegrensoverschrijdend belang, vermeld in het eerste lid, 2°, vervalt door een fusie van de gemeente waar het erkende onroerenderfgoeddepot zich bevindt met een of meer gemeenten waarvoor het erkende onroerenderfgoeddepot een receptieve functie vervult, blijft de lopende samenwerkingsovereenkomst ongewijzigd gelden.</p>
 
 ### ART. 10.1.18.
 
-<p>De aanvrager dient de subsidieaanvraag schriftelijk in bij het agentschap vanaf 1 januari tot 1 juli van elk jaar.</p>
+<p>De aanvrager dient de subsidieaanvraag schriftelijk in bij het agentschap uiterlijk 15 januari van elk jaar.</p>
 
 <p>De aanvrager kan de subsidieaanvraag gelijktijdig indienen met de aanvraag tot erkenning als onroerenderfgoeddepot, vermeld in artikel 3.4.3.</p>
 
@@ -1987,13 +2132,13 @@ Het agentschap beoordeelt de ontvankelijke subsidieaanvraag van het   erkende on
 
 ### ART. 10.1.22.
 
-Uiterlijk op 1 oktober van het jaar waarin de ontvankelijke subsidieaanvraag is ingediend, beslist de minister over de toekenning en het bedrag van de subsidie.<br>
+Uiterlijk op 30 april van het jaar waarin de ontvankelijke subsidieaanvraag is ingediend, beslist de minister over de toekenning en het bedrag van de subsidie.<br>
 <br>
 Het agentschap brengt het erkende onroerenderfgoeddepot schriftelijk op de hoogte van de beslissing, vermeld in het eerste lid.
 
 ### ART. 10.1.23.
 
-<p>&nbsp;Uiterlijk op 15 oktober van het jaar waarin de subsidieaanvraag is goedgekeurd, ondertekenen het agentschap en het erkende onroerenderfgoeddepot waaraan de subsidie is toegekend een samenwerkingsovereenkomst.</p>
+<p>&nbsp;Uiterlijk op 1 november van het jaar waarin de subsidieaanvraag is goedgekeurd, ondertekenen het agentschap en het erkende onroerenderfgoeddepot waaraan de subsidie is toegekend een samenwerkingsovereenkomst.</p>
 
 <p>De samenwerkingsovereenkomst bevat minstens de volgende elementen:<br>
 1° het bedrag van de jaarlijkse subsidie;<br>
@@ -2004,7 +2149,7 @@ Het agentschap brengt het erkende onroerenderfgoeddepot schriftelijk op de hoogt
 
 ### ART. 10.1.24.
 
-<p>De subsidie omvat zowel personeels- als werkingsmiddelen.</p>
+<p>De subsidie bevat personeelsmiddelen voor eigen personeel.</p>
 
 <p>De jaarlijkse basissubsidie bedraagt minstens 85.000 euro en wordt vermeerderd met een bedrag dat is gekoppeld aan de volgende criteria, met als referentiedatum 1 januari van het jaar waarin de ontvankelijke subsidieaanvraag is goedgekeurd:<br>
 1° het aantal inwoners, ingeschreven in het bevolkingsregister van de gemeenten die deel uitmaken van het gebied waar het onroerenderfgoeddepot zijn receptieve diensten verleent;<br>
@@ -2015,13 +2160,15 @@ Het agentschap brengt het erkende onroerenderfgoeddepot schriftelijk op de hoogt
 
 ### ART. 10.1.25.
 
-De subsidie wordt gedurende de looptijd van de samenwerkingsovereenkomst   jaarlijks beschikbaar gesteld in de vorm van een voorschot en een saldo:<BR>1°   een voorschot van 70 % van het jaarlijkse subsidiebedrag wordt uitbetaald   uiterlijk op 1 april van het lopende werkingsjaar;<BR>2° een saldo van het   jaarlijkse subsidiebedrag wordt uitbetaald na de uitvoering van het jaarlijks   toezicht, vermeld in artikel 10.1.26, op basis van verantwoorde   kosten.<BR>
+De subsidie wordt gedurende de looptijd van de samenwerkingsovereenkomst jaarlijks beschikbaar gesteld in de vorm van een voorschot en een saldo:<br>
+1° een voorschot van 80 % van het jaarlijkse subsidiebedrag wordt uitbetaald uiterlijk op 1 april van het lopende werkingsjaar;<br>
+2° een saldo van het jaarlijkse subsidiebedrag wordt uitbetaald na de uitvoering van het jaarlijks toezicht op de aanwending van de subsidie, vermeld in artikel 10.1.26, op basis van verantwoorde kosten.
 
 ### ART. 10.1.26.
 
 <p>Het agentschap oefent het jaarlijkse toezicht uit op de aanwending van de subsidie en kan hiervoor alle initiatieven nemen die het nodig acht.<br>
 <br>
-Met het oog op het toezicht, vermeld in het eerste lid, dient het erkende onroerenderfgoeddepot een financiële rapportering in bij het agentschap uiterlijk op 31 mei.</p>
+Met het oog op het toezicht, vermeld in het eerste lid, dient het erkende onroerenderfgoeddepot een financiële rapportering in bij het agentschap uiterlijk op 30 april.</p>
 
 <p>Met het oog op het toezicht, vermeld in het eerste lid, kan de minister nader bepalen welke kosten al dan niet in aanmerking komen voor subsidiëring.</p>
 
@@ -2033,7 +2180,11 @@ Met het oog op het toezicht, vermeld in het eerste lid, dient het erkende onroer
 
 <p>Het agentschap evalueert driejaarlijks de naleving van de samenwerkingsoverkomst op basis van:<br>
 1° een tussentijdse evaluatie;<br>
-2° een eindevaluatie.</p>
+2° een eindevaluatie.<br>
+<br>
+Het erkend onroerenderfgoeddepot bezorgt de volgende documenten aan het agentschap voor de evaluaties, vermeld in het eerste lid:<br>
+1° een tussentijds inhoudelijk rapport;<br>
+2° een inhoudelijk eindrapport.</p>
 
 <p>Het agentschap kan voor de evaluatie, vermeld in het eerste lid, alle initiatieven nemen die het nodig acht.</p>
 
@@ -2049,7 +2200,113 @@ Met het oog op het toezicht, vermeld in het eerste lid, dient het erkende onroer
 
 ## [Onderafdeling 3. De subsidiëring van erkende onroerenderfgoedgemeenten in het kader van een samenwerkingsovereenkomst (ing. BVR 2 september 2022, art. 63, I: 1 januari 2023)]
 
+### ART 10.1.29.
+
+De minister kan overeenkomstig de bepalingen van dit besluit en binnen de perken van de daarvoor bestemde kredieten op de begroting van de Vlaamse Gemeenschap een subsidie toekennen aan een erkende onroerenderfgoedgemeente in het kader van een samenwerkingsovereenkomst.
+
+### ART 10.1.30.
+
+De samenwerkingsovereenkomst heeft een looptijd van drie jaar of zes jaar.<br>
+<br>
+De aanvrager dient de subsidieaanvraag schriftelijk in bij het agentschap uiterlijk op 15 januari van het eerste of het vierde jaar van de lokale beleidscyclus. In het eerste geval heeft de samenwerkingsovereenkomst een looptijd van zes jaar. In het tweede geval heeft de samenwerkingsovereenkomst een looptijd van drie jaar. De samenwerkingsovereenkomst vangt aan op 1 januari van het jaar dat volgt op het jaar waarin de subsidieaanvraag is goedgekeurd.
+
+### ART 10.1.31.
+
+Om gesubsidieerd te worden in het kader van een samenwerkingsovereenkomst moet een gemeente erkend zijn overeenkomstig artikel 3.2.4.<br>
+<br>
+Als de erkenning van een onroerenderfgoedgemeente gedurende de looptijd van de samenwerkingsovereenkomst is ingetrokken overeenkomstig artikel 3.2.12 of 3.2.13, heeft zij geen recht op een subsidie voor het jaar waarin de erkenning wordt ingetrokken en is zij gehouden tot de onmiddellijke terugbetaling van de reeds uitbetaalde subsidie van het lopende jaar, overeenkomstig artikel 13, eerste lid, 1°, van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.
+
+### ART 10.1.32.
+
+De aanvrager kan de subsidieaanvraag gelijktijdig indienen met de aanvraag tot erkenning als onroerenderfgoedgemeente, vermeld in artikel 3.2.2.
+
+### ART 10.1.33.
+
+De subsidieaanvraag bevat minstens een actueel onroerenderfgoedbeleidsplan.<br>
+<br>
+Het agentschap stelt een modelformulier ter beschikking op zijn website om een subsidie aan te vragen.
+
+### ART 10.1.34.
+
+De subsidieaanvraag is ontvankelijk als ze tijdig wordt ingediend en volledig is.<br>
+<br>
+Als het agentschap vaststelt dat de aanvraag niet alle vereiste elementen, vermeld in artikel 10.1.33 eerste lid, bevat, brengt het de aanvrager binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de subsidieaanvraag schriftelijk op de hoogte van de ontbrekende elementen.<br>
+<br>
+Als de aanvrager het dossier niet aanvult binnen een termijn van veertien dagen, die ingaat op de dag na de kennisgeving van het verzoek tot aanvulling, wordt de subsidieaanvraag onontvankelijk verklaard. Het agentschap brengt de aanvrager schriftelijk op de hoogte van de beslissing.
+
+### ART 10.1.35.
+
+Het agentschap beoordeelt de ontvankelijke subsidieaanvraag van de erkende onroerenderfgoedgemeente en brengt daarover advies uit aan de minister.
+
+### ART 10.1.36.
+
+Uiterlijk op 30 april van het jaar waarin de ontvankelijke subsidieaanvraag is ingediend, beslist de minister over de toekenning van de subsidie.<br>
+<br>
+Het agentschap brengt de erkende onroerenderfgoedgemeente schriftelijk op de hoogte van de beslissing, vermeld in het eerste lid.
+
+### ART 10.1.37.
+
+Uiterlijk op 1 november van het jaar waarin de subsidieaanvraag is goedgekeurd, ondertekenen het agentschap en de erkende onroerenderfgoedgemeente waaraan de subsidie is toegekend een samenwerkingsovereenkomst.<br>
+<br>
+De samenwerkingsovereenkomst bevat minstens de volgende elementen:<br>
+1° het bedrag van de jaarlijkse subsidie;<br>
+2° de looptijd;<br>
+3° de rapporteringsverplichtingen met het oog op het jaarlijkse toezicht, vermeld in artikel 10.1.40;<br>
+4° de rapporteringsverplichtingen met het oog op de jaarlijkse evaluatie, vermeld in artikel 10.1.41;<br>
+5° een afsprakennota met de te bereiken doelstellingen.
+
+### ART 10.1.38.
+
+De subsidie omvat personeelsmiddelen voor eigen personeel en bedraagt:<br>
+1° als de subsidie wordt aangevraagd door Antwerpen, Brugge, Gent, Leuven en Mechelen: 90.000 euro;<br>
+2° als de subsidie wordt aangevraagd door een centrumstad als vermeld in artikel 19ter decies van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, of door een gemeente waarin minstens twee werelderfgoederen gelegen zijn, met uitzondering van de steden, vermeld in punt 1° : 50.000 euro;<br>
+3° als de subsidie wordt aangevraagd door een gemeente die niet is vermeld in punt 1° of 2° : 10.000 euro.<br>
+<br>
+In het eerste lid, 2° wordt verstaan onder werelderfgoed: een onroerend goed dat erkend is als werelderfgoed conform artikel 11 van de overeenkomst inzake de bescherming van het cultureel en natuurlijk erfgoed van de wereld, opgemaakt in Parijs op 16 november 1972.
+
+### ART 10.1.39.
+
+De subsidie wordt gedurende de looptijd van de samenwerkingsovereenkomst jaarlijks beschikbaar gesteld in de vorm van een voorschot en een saldo:<br>
+1° een voorschot van 80 % van het jaarlijkse subsidiebedrag wordt uitbetaald uiterlijk op 1 april van het lopende werkingsjaar;<br>
+2° een saldo van het jaarlijkse subsidiebedrag wordt uitbetaald na de uitvoering van het jaarlijkse toezicht op de aanwending van de subsidie, vermeld in artikel 10.1.40, op basis van verantwoorde kosten.
+
+### ART 10.1.40.
+
+Het agentschap oefent het jaarlijkse toezicht uit op de aanwending van de subsidie en kan hiervoor alle initiatieven nemen die het nodig acht.<br>
+<br>
+Met het oog op het toezicht, vermeld in het eerste lid, dient de erkende onroerenderfgoedgemeente een financiële rapportering in bij het agentschap uiterlijk op 30 april.<br>
+<br>
+Met het oog op het toezicht, vermeld in het eerste lid, kan de minister nader bepalen welke kosten al dan niet in aanmerking komen voor subsidiëring.<br>
+<br>
+Het agentschap brengt de erkende onroerenderfgoedgemeente schriftelijk op de hoogte van de resultaten van het jaarlijkse toezicht.<br>
+<br>
+Als er bij het jaarlijkse toezicht ernstige tekortkomingen worden vastgesteld, wordt het saldo niet of slechts gedeeltelijk uitbetaald.
+
+### ART 10.1.41.
+
+Het agentschap voert jaarlijks een evaluatie uit op de naleving van de samenwerkingsovereenkomst. De erkende onroerenderfgoedgemeente bezorgt hiertoe aan het agentschap een jaarlijks rapport.<br>
+<br>
+Het agentschap kan voor de evaluatie, vermeld in het eerste lid, alle initiatieven nemen die het nodig acht.<br>
+<br>
+Het agentschap brengt de erkende onroerenderfgoedgemeente schriftelijk op de hoogte van de resultaten van de evaluatie, vermeld in het eerste lid.<br>
+<br>
+Als er bij de jaarlijkse evaluatie ernstige tekortkomingen worden vastgesteld, kan de minister op voorstel van het agentschap beslissen om de samenwerkingsovereenkomst vervroegd te beëindigen. Die beslissing heeft dezelfde gevolgen als de beslissing over de intrekking van de erkenning.
+
+### ART 10.1.42.
+
+Een erkende onroerenderfgoedgemeente kan een gemotiveerde aanvraag indienen om de samenwerkingsovereenkomst vervroegd te beëindigen. De aanvraag wordt schriftelijk ingediend bij het agentschap.<br>
+<br>
+De minister neemt een beslissing over de aanvraag binnen een termijn van zestig dagen, die ingaat op de dag nadat de aanvraag is ingediend. Als de samenwerkingsovereenkomst vervroegd beëindigd wordt, loopt ze af op 31 december van het lopende jaar.
+
 ## [Onderafdeling 4. De indexering van de subsidies in het kader van een samenwerkingsovereenkomst (ing. BVR 2 september 2022, art. 64, I: 1 januari 2023)]
+
+### ART 10.1.43.
+
+Vanaf 1 januari 2023 wordt de subsidie vermeld in artikel 10.1.24, eerste lid jaarlijks geïndexeerd aan de hand van het cijfer van de gezondheidsindex van de maand december van het jaar vóór de vastlegging van de subsidie met als basisindexcijfer het cijfer van de gezondheidsindex van december 2022.<br>
+<br>
+Vanaf 1 januari 2025 wordt de subsidie vermeld in artikel 10.1.38, eerste lid jaarlijks geïndexeerd aan de hand van het cijfer van de gezondheidsindex van de maand december van het jaar vóór de vastlegging van de subsidie met als basisindexcijfer het cijfer van de gezondheidsindex van december 2024.<br>
+<br>
+Vanaf 1 januari 2028 wordt de subsidie vermeld in artikel 10.1.10 jaarlijks geïndexeerd aan de hand van het cijfer van de gezondheidsindex van de maand december van het jaar vóór de vastlegging van de subsidie met als basisindexcijfer het cijfer van de gezondheidsindex van december 2027.
 
 ## Afdeling 2 Subsidies in het kader van beheersovereenkomsten
 
@@ -2197,7 +2454,7 @@ In afwijking van het tweede lid bedraagt de projectsubsidie voor archeologisch s
 
 ### ART. 10.3.5.
 
-De minister stelt per projectoproep voor de projectsubsidie het subsidiepercentage, het maximumbedrag en de maximale duurtijd van de projecten vast.
+De minister stelt per projectoproep voor de projectsubsidie het subsidiepercentage, het maximumbedrag, de maximale duurtijd en de uiterste startdatum van de projecten vast.
 
 ## Onderafdeling 3 De aanvraagprocedure
 
@@ -2209,7 +2466,7 @@ De minister stelt per projectoproep voor de projectsubsidie het subsidiepercenta
 1° het thema en de module waarin de projecten moeten passen;<br>
 2° het maximale subsidiebedrag;<br>
 3° het subsidiepercentage;<br>
-4° de maximale duurtijd van de projecten.</p>
+4° de maximale duurtijd&nbsp;en de uiterste startdatum van de projecten.</p>
 
 ### ART. 10.3.7.
 
@@ -2290,7 +2547,7 @@ De minister bepaalt de nadere regels over de aanwijzing, de werking en de organi
 3° een staat van de werkelijke inkomsten die betrekking hebben op het project;<br>
 4° een afrekening van de bedragen die ontvangen zijn op grond van andere wetgeving of reglementering dan dit besluit.</p>
 
-<p>De minister bepaalt de nadere regels voor de verplichte vermeldingen in het financiële eindrapport.</p>
+<p>De minister bepaalt de nadere regels voor de verplichte vermeldingen in&nbsp;het inhoudelijke eindverslag en het financiële eindrapport.</p>
 
 <p>De bewijsstukken van de gemaakte kosten kunnen op elk moment door het agentschap worden opgevraagd.</p>
 
@@ -2324,13 +2581,13 @@ Bij de uitvoering van elke activiteit die aansluit bij het project, moet   de st
 
 Er worden geen premies toegekend voor:<br>
 1° werken of diensten aan of in een onroerend goed waarvan de Belgische staat, federale instellingen, andere deelstaten dan de deelstaten, vermeld in punt 2°, andere staten of hun deelgebieden zakelijkrechthouder zijn;<br>
-2° werken of diensten aan of in een onroerend goed, eigendom van het Vlaamse Gewest of de Vlaamse Gemeenschap;<br>
+2° werken of diensten aan of in een onroerend goed, eigendom van de Vlaamse overheid;<br>
 3° werken of diensten aan of in een onroerend goed, eigendom van een provincie of een autonoom provinciebedrijf.<br>
 <br>
 In afwijking van het eerste lid kunnen wel premies worden toegekend voor werken of diensten aan of in:<br>
 1° kathedralen, bisschoppelijke of aartsbisschoppelijke paleizen en seminaries;<br>
 2° onderwijsgebouwen;<br>
-3° onroerende goederen, in erfpacht gegeven aan de nv Participatiemaatschappij Vlaanderen;<br>
+3° onroerende goederen, in erfpacht gegeven aan de nv Participatiemaatschappij Vlaanderen of in eigendom van de nv Participatiemaatschappij Vlaanderen op voorwaarde dat de geraamde kosten van de beheerswerkzaamheden die voor de toekenning van een premie in aanmerking komen, niet meer bedragen dan een derde van de totale investeringskosten;<br>
 4° onroerende goederen, in erfpacht gegeven aan Herita vzw;<br>
 5° onroerende goederen, in erfpacht gegeven aan gemeenten;<br>
 6° onroerende goederen in het domein Bokrijk;<br>
@@ -2352,7 +2609,8 @@ Voor hetzelfde werk of dezelfde dienst is een cumulatie tussen de volgende premi
 7° een verlaging van de schenkbelasting, als vermeld in artikel 2.8.4.4.1 Vlaamse Codex Fiscaliteit van 13 december 2013;<br>
 8° een verlaging van de verkooprechten, als vermeld in artikel 2.9.4.2.10 Vlaamse Codex Fiscaliteit van 13 december 2013;<br>
 9° een erfgoedpremie volgens de bijzondere procedure;<br>
-10° een restauratiepremie op basis van het besluit van de Vlaamse Regering van 14 december 2001 houdende vaststelling van het premiestelsel voor restauratiewerkzaamheden aan beschermde monumenten.<br>
+10° een restauratiepremie op basis van het besluit van de Vlaamse Regering van 14 december 2001 houdende vaststelling van het premiestelsel voor restauratiewerkzaamheden aan beschermde monumenten;<br>
+11° een premie voor archeologisch onderzoek van menselijke inhumatieresten.<br>
 <br>
 Een beheersvergoeding op basis van een beheersovereenkomst als vermeld in artikel 10.2.1 kan niet gecumuleerd worden met de premies en de fiscale voordelen, vermeld in het derde lid
 
@@ -2551,7 +2809,9 @@ Een premienemer is verplicht om op de werf aan te geven dat een   erfgoedpremie 
 <br>
 Na controle van de ingediende stukken en van de uitgevoerde werken of diensten door het agentschap wordt de erfgoedpremie uitbetaald.<br>
 <br>
-Als de aanvraag tot uitbetaling onvolledig is of geen onderzoek ten gronde toelaat, kan het agentschap schriftelijk of via het daarvoor voorziene digitale platform vragen om de ontbrekende gegevens of documenten bij de aanvraag te voegen, en de termijn bepalen waarbinnen dat moet gebeuren. Als de aanvrager nalaat binnen deze termijn de ontbrekende gegevens of documenten bij te voegen, wordt de aanvraag geweigerd door het agentschap.</p>
+Als de aanvraag tot uitbetaling onvolledig is of geen onderzoek ten gronde toelaat, kan het agentschap binnen een termijn van 60 dagen, die ingaat op de dag na de dag waarop de aanvraag tot uitbetaling is ingediend, de aanvrager schriftelijk of via het daarvoor voorziene digitale platform vragen om de ontbrekende gegevens of documenten bij de aanvraag te voegen, en de termijn bepalen waarbinnen dat moet gebeuren. Als de aanvrager nalaat binnen deze termijn de ontbrekende gegevens of documenten bij te voegen, wordt de aanvraag geacht te zijn geweigerd. Het agentschap brengt de aanvrager hiervan schriftelijk of via het daarvoor voorziene digitale platform op de hoogte.<br>
+<br>
+Als de uitgevoerde werken of diensten niet worden aanvaard, wordt gemeld waarom de uitbetaling wordt geweigerd. Het agentschap brengt de aanvrager schriftelijk of via het daarvoor voorziene digitale platform op de hoogte van de beslissing.</p>
 
 ### ART. 11.2.24.
 
@@ -2742,7 +3002,9 @@ i) productfiches van de aangewende materialen die niet in het premiedossier verm
 
 <p>Na controle van de ingediende stukken en de uitgevoerde werken of diensten door het agentschap wordt de erfgoedpremie, in geval van akkoord, uitbetaald.</p>
 
-<p>Als de aanvraag tot uitbetaling onvolledig wordt bevonden of de uitgevoerde werken of diensten niet worden aanvaard, wordt gemeld waarom de uitbetaling wordt geweigerd, en in welke zin het dossier in voorkomend geval kan worden aangepast of aangevuld om alsnog voor uitbetaling in aanmerking te komen. Een nieuwe aanvraag tot uitbetaling moet aan die opmerkingen tegemoetkomen en kan overeenkomstig het eerste lid opnieuw worden ingediend.</p>
+<p>Als de aanvraag tot uitbetaling onvolledig is of geen onderzoek ten gronde toelaat, kan het agentschap binnen een termijn van 60 dagen, die ingaat op de dag na de dag waarop de aanvraag tot uitbetaling is ingediend, de aanvrager schriftelijk of via het daarvoor voorziene digitale platform vragen om de ontbrekende gegevens of documenten bij de aanvraag te voegen, en de termijn bepalen waarbinnen dat moet gebeuren. Als de aanvrager nalaat binnen deze termijn de ontbrekende gegevens of documenten bij te voegen, wordt de aanvraag geacht te zijn geweigerd. Het agentschap brengt de aanvrager hiervan schriftelijk of via het daarvoor voorziene digitale platform op de hoogte.<br>
+<br>
+Als de uitgevoerde werken of diensten niet worden aanvaard, wordt gemeld waarom de uitbetaling wordt geweigerd. Het agentschap brengt de aanvrager schriftelijk of via het daarvoor voorziene digitale platform op de hoogte van de beslissing.</p>
 
 ### ART. 11.2.38.
 
@@ -2862,7 +3124,9 @@ Een premienemer is verplicht bij het onroerend goed in kwestie en in alle   comm
 
 <p>Als het beheersplan wordt goedgekeurd, of als vastgesteld wordt dat het voorafgaand onderzoek correct is uitgevoerd, gaat het agentschap over tot de uitbetaling van de onderzoekspremie.</p>
 
-<p>Als de voorgelegde stukken onvolledig of onvoldoende worden bevonden, wordt gemeld waarom de uitbetaling wordt geweigerd, en in welke zin het dossier in voorkomend geval kan worden aangepast of aangevuld om voor goedkeuring in aanmerking te komen. Een nieuwe aanvraag tot uitbetaling moet aan die opmerkingen tegemoetkomen, en kan vervolgens opnieuw worden ingediend.</p>
+<p>Als de aanvraag tot uitbetaling onvolledig is of geen onderzoek ten gronde toelaat, kan het agentschap binnen een termijn van 60 dagen, die ingaat op de dag na de dag waarop de aanvraag tot uitbetaling is ingediend, de aanvrager schriftelijk of via het daarvoor voorziene digitale platform vragen om de ontbrekende gegevens of documenten bij de aanvraag te voegen, en de termijn bepalen waarbinnen dat moet gebeuren. Als de aanvrager nalaat binnen deze termijn de ontbrekende gegevens of documenten bij te voegen, wordt de aanvraag geacht te zijn geweigerd. Het agentschap brengt de aanvrager hiervan schriftelijk of via het daarvoor voorziene digitale platform op de hoogte.<br>
+<br>
+Als de uitgevoerde werken of diensten niet worden aanvaard, wordt gemeld waarom de uitbetaling wordt geweigerd. Het agentschap brengt de aanvrager schriftelijk of via het daarvoor voorziene digitale platform op de hoogte van de beslissing.</p>
 
 ### ART. 11.3.13.
 
@@ -3093,7 +3357,11 @@ Een premienemer die afwijkt van de voorwaarden van dit hoofdstuk verliest, voor 
 
 ### ART. 11.7.1.
 
-Er wordt geen premie voor buitensporige opgravingskosten toegekend   voor:<BR>1° archeologische opgravingen bij projecten die vallen onder het   toepassingsgebied van artikel 5.4.1 van het Onroerenderfgoeddecreet en waarbij   een overeenkomst werd gesloten tot eigendomsovergang van een te bouwen, of in   aanbouw zijnde huis of appartement, mits het huis of het appartement tot   huisvesting of tot beroepsdoeleinden en huisvesting is bestemd en de koper of de   opdrachtgever volgens de overeenkomst verplicht is vóór de voltooiing van het   gebouw een of meer stortingen te doen;<BR>2° archeologische opgravingen bij   projecten die vallen onder het toepassingsgebied van artikel 5.4.1 van het   Onroerenderfgoeddecreet van opdrachtgevers of verkrijgers wiens werkzaamheid   erin bestaat gebouwen op te richten, te laten oprichten of te verwerven, al dan   niet om ze onder bezwarende titel te vervreemden;<BR>3° archeologische   opgravingen bij projecten die vallen onder het toepassingsgebied van artikel   5.4.1 van het Onroerenderfgoeddecreet, waarbij de opdrachtgevers op regelmatige   basis optreden als opdrachtgevers van een bouwproject;<BR>4° archeologische   opgravingen bij projecten die vallen onder het toepassingsgebied van artikel   5.4.1 van het Onroerenderfgoeddecreet van opdrachtgevers die beschouwd kunnen   worden als onderdeel van een groep of een sector die op regelmatige basis   optreedt als opdrachtgever van een projecten die vallen onder het   toepassingsgebied van artikel 5.4.1 van het Onroerenderfgoeddecreet;<BR>5°   archeologische opgravingen waarvoor al een erfgoedpremie of onderzoekspremie is   toegekend.<BR><BR>In het eerste lid, 3° en 4°, wordt verstaan onder op   regelmatige basis optreden als opdrachtgever van een project dat valt onder het   toepassingsgebied van artikel 5.4.1 van het Onroerenderfgoeddecreet: de   opdrachtgevers die in de drie jaar voorafgaand aan de aanvraag van een premie   voor buitensporige opgravingskosten minstens één handeling aangevat hebben die   valt onder het toepassingsgebied van artikel 5.4.1 en artikel 5.4.2 van het   Onroerenderfgoeddecreet van 12 juli 2013.
+In de volgende gevallen wordt er geen premie voor buitensporige opgravingskosten toegekend voor archeologische opgravingen bij projecten die vallen onder het toepassingsgebied van artikel 5.4.1 van het Onroerenderfgoeddecreet van 12 juli 2013:<br>
+1° het is een project in opdracht van de Vlaamse overheid, de Belgische staat, een federale instelling, een andere deelstaat, een provincie, autonoom provinciebedrijf, een provinciaal extern verzelfstandigd agentschap, een gemeente, een autonoom gemeentebedrijf, een intergemeentelijk samenwerkingsverband, een OCMW, een welzijnsvereniging, een sociale huisvestingsmaatschappij;<br>
+2° het is een project in opdracht van een nutsbedrijf of van een beheerder van distributienetten, -netwerken of infrastructuur voor openbare nutsvoorzieningen;<br>
+3° de opdrachtgever van het project behoort tot de vastgoedsector;<br>
+4° het is een project waarbij er een overeenkomst werd gesloten tot eigendomsovergang van een te bouwen, of in aanbouw zijnde huis of appartement, mits het huis of het appartement tot huisvesting of tot beroepsdoeleinden en huisvesting is bestemd en de koper of de opdrachtgever volgens de overeenkomst verplicht is vóór de voltooiing van het gebouw een of meer stortingen te doen.
 
 ## [Onderafdeling 2 Archeologische opgravingen waarvoor een premie voor buitensporige opgravingskosten kan worden aangevraagd (ing. BVR 4 december 2015, art. 42, I: 1 januari 2016)]
 
@@ -3103,11 +3371,11 @@ Binnen de perken van de daarvoor op de begroting van de Vlaamse   Gemeenschap be
 
 ### ART. 11.7.3.
 
-Een premie voor buitensporige opgravingskosten kan worden toegekend voor archeologische opgravingen bij projecten die vallen onder het toepassingsgebied van artikel 5.4.1 van het Onroerenderfgoeddecreet van natuurlijke personen en van kleinschalige ondernemingen of kleinschalige verenigingen.<br>
+Een premie voor buitensporige opgravingskosten kan worden toegekend voor archeologische opgravingen bij projecten die vallen onder het toepassingsgebied van artikel 5.4.1 van het Onroerenderfgoeddecreet.<br>
 <br>
 Om in aanmerking te komen voor een premie voor buitensporige opgravingskosten:<br>
 1° moet de archeologische opgraving uitgevoerd zijn overeenkomstig het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit en de omschrijving in de archeologienota of nota waarvan akte genomen is;<br>
-2° mogen de premienemer en de natuurlijke persoon, kleinschalige onderneming of kleinschalige vereniging, vermeld in het eerste lid, de laatste tien jaar bij definitieve gerechtelijke of bestuurlijke beslissing niet schuldig bevonden zijn aan deelname aan een inbreuk of een misdrijf als vermeld in het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten, het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium, het decreet van 16 april 1996 betreffende de landschapszorg, het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of erfgoedwetgeving van een lidstaat van de Europese Unie.
+2° mag de premienemer de laatste tien jaar bij definitieve gerechtelijke of bestuurlijke beslissing niet schuldig bevonden zijn aan deelname aan een inbreuk of een misdrijf als vermeld in het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten, het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium, het decreet van 16 april 1996 betreffende de landschapszorg, het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of erfgoedwetgeving van een lidstaat van de Europese Unie.
 
 ## [Onderafdeling 3 Bedrag van de premie voor buitensporige opgravingskosten (ing. BVR 4 december 2015, art. 42, I: 1 januari 2016)]
 
@@ -3281,14 +3549,11 @@ Het agentschap bezorgt het attest aan de aanvrager.
 
 ### ART 11.10.1.
 
-Er wordt geen premie voor archeologisch vooronderzoek met ingreep in de bodem toegekend voor :<br>
-1° archeologische vooronderzoeken met ingreep in de bodem bij projecten die vallen onder het toepassingsgebied van artikel 5.4.1 van het Onroerenderfgoeddecreet van 12 juli 2013 en waarbij een overeenkomst werd gesloten tot eigendomsovergang van een te bouwen, of in aanbouw zijnd huis of appartement, mits het huis of het appartement tot huisvesting of tot beroepsdoeleinden en huisvesting is bestemd en de koper of de opdrachtgever volgens de overeenkomst verplicht is vóór de voltooiing van het gebouw een of meer stortingen te doen;<br>
-2° archeologische vooronderzoeken met ingreep in de bodem bij projecten die vallen onder het toepassingsgebied van artikel 5.4.1 van het voormelde decreet, van opdrachtgevers of verkrijgers wier werkzaamheid erin bestaat gebouwen op te richten, te laten oprichten of te verwerven, al dan niet om ze onder bezwarende titel te vervreemden;<br>
-3° archeologische vooronderzoeken met ingreep in de bodem bij projecten die vallen onder het toepassingsgebied van artikel 5.4.1 van het voormelde decreet, waarbij de opdrachtgevers op regelmatige basis optreden als opdrachtgevers van een bouwproject;<br>
-4° archeologische vooronderzoeken met ingreep in de bodem bij projecten die vallen onder het toepassingsgebied van artikel 5.4.1 van het voormelde decreet, van opdrachtgevers die beschouwd kunnen worden als onderdeel van een groep of een sector die op regelmatige basis optreedt als opdrachtgever van projecten die vallen onder het toepassingsgebied van artikel 5.4.1 van het voormelde decreet;<br>
-5° archeologische vooronderzoeken met ingreep in de bodem waarvoor al een erfgoedpremie of onderzoekspremie is toegekend.<br>
-<br>
-In het eerste lid, 3° en 4°, wordt verstaan onder op regelmatige basis optreden als opdrachtgever van een project dat valt onder het toepassingsgebied van artikel 5.4.1 van het Onroerenderfgoeddecreet van 12 juli 2013 : de opdrachtgevers die in de drie jaar die voorafgaan aan de aanvraag van een premie voor archeologisch vooronderzoek met ingreep in de bodem, minstens één handeling aangevat hebben die valt onder het toepassingsgebied van artikel 5.4.1 en 5.4.2 van het voormelde decreet.
+In de volgende gevallen wordt er geen premie voor archeologisch vooronderzoek met ingreep in de bodem toegekend bij projecten die vallen onder het toepassingsgebied van artikel 5.4.1 van het Onroerenderfgoeddecreet van 12 juli 2013:<br>
+1° het is een project in opdracht van de Vlaamse overheid, de Belgische staat, een federale instelling, een andere deelstaat, een provincie, autonoom provinciebedrijf, een provinciaal extern verzelfstandigd agentschap, een gemeente, een autonoom gemeentebedrijf, een intergemeentelijk samenwerkingsverband, een OCMW, een welzijnsvereniging, een sociale huisvestingsmaatschappij;<br>
+2° het is een project in opdracht van een nutsbedrijf of van een beheerder van distributienetten, -netwerken of infrastructuur voor openbare nutsvoorzieningen;<br>
+3° de opdrachtgever van het project behoort tot de vastgoedsector;<br>
+4° het is een project waarbij er een overeenkomst werd gesloten tot eigendomsovergang van een te bouwen, of in aanbouw zijnde huis of appartement, mits het huis of het appartement tot huisvesting of tot beroepsdoeleinden en huisvesting is bestemd en de koper of de opdrachtgever volgens de overeenkomst verplicht is vóór de voltooiing van het gebouw een of meer stortingen te doen.
 
 ## [Onderafdeling 2. Archeologisch vooronderzoek waarvoor een premie voor archeologisch vooronderzoek met ingreep in de bodem kan worden aangevraagd (ing. BVR 15 maart 2019, art. 6, I: 1 april 2019)]
 
@@ -3298,11 +3563,11 @@ Binnen de perken van de daarvoor op de begroting van de Vlaamse Gemeenschap besc
 
 ### ART 11.10.3.
 
-Een premie voor archeologisch vooronderzoek met ingreep in de bodem kan worden toegekend voor archeologisch vooronderzoek met ingreep in de bodem bij projecten die vallen onder het toepassingsgebied van artikel 5.4.1 van het Onroerenderfgoeddecreet van 12 juli 2013, van natuurlijke personen en van kleinschalige ondernemingen of kleinschalige verenigingen.<br>
+Een premie voor archeologisch vooronderzoek met ingreep in de bodem kan worden toegekend voor archeologisch vooronderzoek met ingreep in de bodem bij projecten die vallen onder het toepassingsgebied van artikel 5.4.1 van het Onroerenderfgoeddecreet van 12 juli 2013.<br>
 <br>
 Om in aanmerking te komen voor een premie voor archeologisch vooronderzoek met ingreep in de bodem :<br>
 1° moet het archeologisch vooronderzoek met ingreep in de bodem uitgevoerd zijn overeenkomstig het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit, de omschrijving in de toelating of de archeologienota waarvan akte is genomen;<br>
-2° mogen de premienemer en de natuurlijke persoon, kleinschalige onderneming of kleinschalige vereniging, vermeld in het eerste lid, de laatste tien jaar bij definitieve gerechtelijke of bestuurlijke beslissing niet schuldig bevonden zijn aan deelname aan een inbreuk of een misdrijf als vermeld in het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten, het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium, het decreet van 16 april 1996 betreffende de landschapszorg, het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of erfgoedwetgeving van een lidstaat van de Europese Unie.
+2° mag de premienemer de laatste tien jaar bij definitieve gerechtelijke of bestuurlijke beslissing niet schuldig bevonden zijn aan deelname aan een inbreuk of een misdrijf als vermeld in het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten, het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium, het decreet van 16 april 1996 betreffende de landschapszorg, het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of erfgoedwetgeving van een lidstaat van de Europese Unie.
 
 ## [Onderafdeling 3. Bedrag van de premie voor archeologisch vooronderzoek met ingreep in de bodem (ing. BVR 15 maart 2019, art. 6, I: 1 april 2019)]
 
@@ -3360,32 +3625,74 @@ Het recht op een premie voor archeologisch vooronderzoek met ingreep in de bodem
 
 ## [Onderafdeling 1. - Archeologisch onderzoek waarvoor een premie voor archeologisch onderzoek van menselijke inhumatieresten kan worden aangevraagd (ing. BVR 2 september 2022, art. 78, I: 1 januari 2023)]
 
+### ART 11.11.1.
+
+Binnen de perken van de daarvoor op de begroting van de Vlaamse Gemeenschap beschikbare kredieten kan een premie voor archeologisch onderzoek van menselijke inhumatieresten worden toegekend.
+
+### ART 11.11.2.
+
+Voor archeologische opgravingen bij projecten die vallen onder het toepassingsgebied van artikel 5.4.1 van het Onroerenderfgoeddecreet kan een premie voor archeologisch onderzoek van menselijke inhumatieresten worden toegekend als aan al de volgende voorwaarden is voldaan:<br>
+1° de archeologische opgraving moet uitgevoerd zijn overeenkomstig het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit, de code van goede praktijk en de omschrijving in de archeologienota of nota waarvan akte genomen is;<br>
+2° de premienemer mag de laatste tien jaar bij definitieve gerechtelijke of bestuurlijke beslissing niet schuldig bevonden zijn aan deelname aan een inbreuk of een misdrijf als vermeld in het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten, het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium, het decreet van 16 april 1996 betreffende de landschapszorg, het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of erfgoedwetgeving van een lidstaat van de Europese Unie;<br>
+3° het bedrag van de premie dat is berekend conform artikel 11.11.4 van dit besluit, op basis van het uitgevoerde onderzoek van menselijke inhumatieresten, bedraagt minstens 25.000 euro.
+
 ## [Onderafdeling 2. Bedrag van de premie voor archeologisch onderzoek van menselijke inhumatieresten (ing. BVR 2 september 2022, art. 78, I: 1 januari 2023)]
+
+### ART 11.11.3.
+
+De premie voor archeologisch onderzoek van menselijke inhumatieresten wordt berekend door de variabelen die overeenstemmen met het uitgevoerde onderzoek van menselijke inhumatieresten, toe te passen en dat bedrag te vermenigvuldigen met 60%.<br>
+<br>
+De minister stelt de variabelen, vermeld in het eerste lid, vast. Om de premie voor archeologisch onderzoek van menselijke inhumatieresten te berekenen, zijn de variabelen van toepassing die gelden op het moment van de aanvang van de archeologische opgraving.<br>
+<br>
+De premie voor archeologisch onderzoek van menselijke inhumatieresten bedraagt maximaal 500.000 euro.
+
+### ART 11.11.4.
+
+Het archeologisch onderzoek van menselijke inhumatieresten mag ook gefinancierd worden met andere overheidsbijdragen. De gezamenlijke overheidsbijdragen, met inbegrip van eventuele Europese middelen, kunnen evenwel niet meer bedragen dan de totale en aangetoonde kostprijs van het archeologisch onderzoek.
 
 ## [Onderafdeling 3. Aantal premies voor archeologisch onderzoek van menselijke inhumatieresten per verplicht uit te voeren onderzoek (ing. BVR 2 september 2022, art. 78, I: 1 januari 2023)]
 
+### ART 11.11.5.
+
+In het kader van een verplicht uit te voeren archeologisch onderzoek van menselijke inhumatieresten kan hoogstens één premie voor archeologisch onderzoek van menselijke inhumatieresten toegekend worden.<br>
+<br>
+In het eerste lid wordt verstaan onder verplicht uit te voeren archeologisch onderzoek van menselijke inhumatieresten: alle methodes van archeologisch onderzoek van menselijke inhumatieresten die de erkende archeoloog overeenkomstig de code van goede praktijk, de archeologienota of de nota moet uitvoeren.
+
 ## [Onderafdeling 4. Aanvragen van een premie voor archeologisch onderzoek van menselijke inhumatieresten (ing. BVR 2 september 2022, art. 78, I: 1 januari 2023)]
 
+### ART 11.11.6.
+
+Een premienemer dient de aanvraag voor een premie voor archeologisch onderzoek van menselijke inhumatieresten in bij het agentschap.<br>
+<br>
+Het aanvraagdossier bevat een volledig ingevuld en ondertekend aanvraagformulier. Het agentschap stelt hiervoor een modelformulier ter beschikking op zijn website.<br>
+<br>
+De minister kan de nadere regels voor de inhoud van het aanvraagdossier bepalen.
+
+### ART 11.11.7.
+
+De premie voor archeologisch onderzoek van menselijke inhumatieresten kan aangevraagd worden vanaf de indiening van het eindverslag tot 120 dagen erna.
+
 ## [Onderafdeling 5. Vastlegging en uitbetaling van een premie voor archeologisch onderzoek van menselijke inhumatieresten (ing. BVR 2 september 2022, art. 78, I: 1 januari 2023)]
+
+### ART 11.11.8.
+
+Het agentschap gaat na of de aanvraag voldoet aan de voorwaarden, vermeld in artikel 11.11.6. Als de aanvraag onvolledig is, kan het agentschap binnen een termijn van dertig dagen, die ingaat op de dag na de dag waarop de aanvraag is ingediend, de aanvrager schriftelijk vragen om de ontbrekende gegevens of documenten bij de aanvraag te voegen, en de termijn bepalen waarin dat moet gebeuren. Als de aanvrager nalaat binnen deze termijn de ontbrekende gegevens of documenten bij te voegen, wordt de aanvraag geacht te zijn geweigerd. Het agentschap brengt de aanvrager hiervan schriftelijk op de hoogte.<br>
+<br>
+Het agentschap beslist over de aanvraag binnen een termijn van negentig dagen, die ingaat op de dag na de dag waarop de volledige aanvraag is ontvangen. De aanvrager wordt van de beslissing schriftelijk op de hoogte gesteld.<br>
+<br>
+In geval van akkoord wordt de premie voor archeologisch onderzoek van menselijke inhumatieresten vastgelegd, waarna een afschrift van dit besluit schriftelijk aan de aanvrager wordt bezorgd en het agentschap overgaat tot de uitbetaling van de premie.
+
+### ART 11.11.9.
+
+De vastlegging of de uitbetaling van een aangevraagde premie voor archeologisch onderzoek van menselijke inhumatieresten zal worden opgeschort als de premienemer tijdens het archeologisch onderzoek of na afloop ervan beschuldigd wordt van deelname aan een inbreuk of een misdrijf als vermeld in artikel 11.2.2 en 11.2.4, § 1, van het Onroerenderfgoeddecreet van 12 juli 2013.<br>
+<br>
+Het recht op een premie voor archeologisch onderzoek van menselijke inhumatieresten vervalt definitief als de premienemer bij definitieve gerechtelijke of bestuurlijke beslissing schuldig bevonden wordt aan een deelname aan de inbreuk of het misdrijf, vermeld in het eerste lid. Ten onrechte uitgekeerde bedragen zullen in dat geval ook teruggevorderd worden.
 
 ## [HOOFDSTUK 11/1. ... (opgeh. BVR 2 september 2022, art. 79, I: 1 januari 2023)]
 
 ### ART 11/1.1.1.
 
-In het kader van de behandeling van de aanvragen voor toelatingen, subsidies en premies vermeld in hoofdstuk 6, 10 en 11 worden persoonsgegevens verzameld van de aanvrager of zijn vertegenwoordiger of, in voorkomend geval van de zakelijkrechthouder van het erfgoed waarvoor de financiële ondersteuning wordt aangevraagd, met het oog op de controle aan de wettelijke voorwaarden en de contactname na de behandeling.<br>
-<br>
-Het agentschap en, in het geval vermeld in het vierde lid, de onroerenderfgoedgemeenten zijn verwerkingsverantwoordelijken als vermeld in artikel 4, 7) van de Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
-<br>
-De volgende categorieën van persoonsgegevens worden in het kader van dit hoofdstuk verwerkt:<br>
-1° persoonlijke identificatiegegevens, rijksregisternummer of identificatienummer van de sociale zekerheid en andere identificatiegegevens, zoals het financieel identificatienummer;<br>
-2° adres;<br>
-3° contactgegevens;<br>
-4° financiële gegevens of rekeningnummer in het geval van aanvragen voor premies en subsidies;<br>
-5° gegevens over rechtstoestand.<br>
-<br>
-De gegevens vermeld in het derde lid kunnen worden verstrekt aan erkende onroerenderfgoedgemeenten voor de taken die gedelegeerd zijn aan erkende onroerenderfgoedgemeenten conform het Onroerenderfgoeddecreet van 17 juli 2013. Het agentschap sluit daarvoor met de erkende onroerenderfgoedgemeenten een protocol af zoals vermeld in artikel 10/4, § 1 decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.<br>
-<br>
-De bewaartermijn van de persoonsgegevens, vermeld in het derde lid is 10 jaar.
+...
 
 ## HOOFDSTUK 12 Handhaving
 
