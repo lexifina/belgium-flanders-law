@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037280,
+  "title": "Besluit van de Vlaamse Regering van 2022-04-29 tot bepaling van de lokale regierol van de gemeenten op het vlak van sociale economie en werk",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037280/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "1a31b5491e1b580d202b5e73e32e001db7451f7bba89f2d01d481e4ddfa7a2b6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037280&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2022-04-29",
+  "gazette": "2022-07-22",
+  "numac": 2022020906,
+  "document_start": "2023-01-01",
+  "document_end": "2025-12-31",
+  "in_force": "2023-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
