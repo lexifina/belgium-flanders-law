@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038003,
+  "title": "Ministerieel besluit van 2022-10-27 tot wijziging van bijlage 2 bij het ministerieel besluit van 15 mei 2019 betreffende de uitvoering van de Vlaamse sociale bescherming, wat betreft de tegemoetkoming voor zorg in een woonzorgcentrum, centrum voor kortverblijf of dagverzorgingscentrum",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038003/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "007ee5ed94326d14eba0e20f3a3124d23c4e2374e8d03a48fba3f7e819ea1cfc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038003&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2022-10-27",
+  "gazette": "2023-03-24",
+  "numac": 2023015104,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
