@@ -33,6 +33,7 @@ De volgende sportorganisaties zijn voor onbepaalde duur erkend als Vlaamse sport
 9° Gezinssport Vlaanderen vzw, Troonstraat 125, 1050 Brussel, met ondernemingsnummer 0415.866.714;<br>
 9° /1 Grappling Vlaanderen vzw, Putse 3A, 9571 Lierde, met ondernemingsnummer 0477.139.733;<br>
 10° GymnastiekFederatie Vlaanderen vzw, Zuiderlaan 13, 9000 Gent, met ondernemingsnummer 0417.540.656;<br>
+10°/1 Hondenfederatie Vrienden Onder Eén vzw, Bollewerpstraat 119, 8770 Ingelmunster, met ondernemingsnummer 0885.962.564;<br>
 11° Handboogliga vzw, Boomgaardstraat 22, bus 24, 2600 Berchem, met ondernemingsnummer 0417.934.002;<br>
 11° /1 ...<br>
 12° KAVVV &amp; FEDES vzw, Boomgaardstraat 22, bus 16, 2600 Berchem, met ondernemingsnummer 0408.015.751;<br>
