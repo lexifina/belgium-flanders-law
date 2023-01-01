@@ -6,7 +6,51 @@
 
 ## Afdeling 1. Opheffing artikel 14, negende lid, van het decreet van 11 februari 2022 tot vaststelling van de regels voor de subsidiëring van jeugdverblijven, hostels, ondersteuningsstructuren en de vzw Algemene Dienst voor Jeugdtoerisme
 
+### ART 2.
+
+In artikel 14 van het decreet van 11 februari 2022 tot vaststelling van de regels voor de subsidiëring van jeugdverblijven, hostels, ondersteuningsstructuren en de vzw Algemene Dienst voor Jeugdtoerisme wordt het negende lid opgeheven.
+
 ## Afdeling 2. Opheffing Eigen Vermogen Koninklijk Museum voor Schone Kunsten Antwerpen
+
+## Afdeling 3. Subsidies aan de vzw Centrum voor de Bibliografie van de Neerlandistiek
+
+### ART 6.
+
+De Vlaamse Regering subsidieert de vzw Centrum voor de Bibliografie van de Neerlandistiek. Deze werkingssubsidie omvat de subsidiëring van een kern van personeelsleden, een basistoelage voor de werking en een subsidiëring op grond van werkelijk gepresteerde activiteiten.<br>
+<br>
+De subsidie, vermeld in het eerste lid, wordt toegekend op voorwaarde dat de vereniging de strategische doelstelling vervult om de publicaties die verschijnen op het gebied van de neerlandistiek in de meest ruime zin te inventariseren en te ontsluiten. De vereniging is daarbij verantwoordelijk voor de beschrijving en de indexering van de Vlaamse publicaties in verband met de Nederlandse taal- en letterkunde en stelt deze informatie digitaal ter beschikking voor externe gebruikers.<br>
+&nbsp;<br>
+De vereniging dient daartoe jaarlijks voor 1 december een actieplan in voor het komende jaar.<br>
+<br>
+De Vlaamse Regering bepaalt op basis van dit actieplan en op basis van de beschikbare informatie over de werking van de vereniging in de voorbije werkingsjaren de hoogte van de subsidie.<br>
+<br>
+De vereniging dient jaarlijks uiterlijk op 31 maart een verantwoording in over het voorbije jaar.
+
+### ART 7.
+
+De vereniging die op basis van artikel 6 een subsidie ontvangt, erkent het belang van het gebruik van het Nederlands bij de uitvoering van de gesubsidieerde activiteiten.<br>
+<br>
+De vereniging kan een sociaal passief aanleggen ten laste van de subsidie.
+
+### ART 8.
+
+De Vlaamse Regering kan voor de vereniging, vermeld in artikel 6, de nadere regels bepalen voor de volgende aspecten:<br>
+1° de indiening van het actieplan;<br>
+2° de beoordeling van het actieplan;<br>
+3° de toekenning van de subsidie op basis van het actieplan;<br>
+4° de uitbetaling van de subsidie in een voorschot en een saldo na toezicht;<br>
+5° de verantwoording van de subsidie bestaande uit de volgende elementen:<br>
+&nbsp; a) een functionele verantwoording die bestaat uit een overzicht en evaluatie van de werking;<br>
+&nbsp; b) een financiële verantwoording die bestaat uit al de volgende elementen:<br>
+&nbsp; &nbsp; 1) de jaarrekening, die bestaat uit de balans, de resultatenrekening en de toelichting;<br>
+&nbsp; &nbsp; 2) de specificatie van alle bezoldigingen;<br>
+&nbsp; &nbsp; 3) een verslag van een gecertificeerde accountant of bedrijfsrevisor die niet betrokken is bij de dagelijkse inhoudelijke, organisatorische en zakelijke werking van de organisatie;<br>
+&nbsp; c) eventuele bijkomende beleidsrelevante gegevens met het oog op monitoring;<br>
+6° de categorieën van subsidiabele en niet-subsidiabele kosten;<br>
+7° het toezicht op de aanwending van de subsidie door de bevoegde administratie;<br>
+8° de eventuele remediëring en de maatregelen naar aanleiding van het toezicht;<br>
+9° de indicatoren die toelaten om bij de beleidsevaluatie de subsidie inhoudelijk en financieel te evalueren;<br>
+10° de openbaarmaking van de resultaten van de gesubsidieerde activiteiten.
 
 ## Hoofdstuk 3. Omgeving
 
@@ -23,6 +67,14 @@
 ## Afdeling 3. Technische correctie van het bedrag van de nascholingsmiddelen voor de centra voor volwassenenonderwijs in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs
 
 ## Afdeling 4. Invoegen mogelijkheid tot reserve-opbouw voor de accreditatieorganisatie voor het hoger onderwijs
+
+### ART 14.
+
+In de Codex Hoger Onderwijs van 11 oktober 2013, het laatst gewijzigd bij het decreet van 16 december 2022, wordt een artikel II.29/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. II.29/2. De Vlaamse Regering financiert, binnen de perken van het verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de accreditatie van opleidingen binnen het Nederlandse en het Vlaamse hoger onderwijs, ondertekend te Den Haag op 3 september 2003 en van de Vlaamse begroting, de werking van de accreditatieorganisatie.<br>
+<br>
+De accreditatieorganisatie kan het gedeelte van de toegekende financiële ondersteuning dat de aanvaarde kosten overschrijdt, aanwenden voor de aanleg van reserves van maximaal 20% van het maximale jaarlijkse subsidiebedrag. De totale gecumuleerde reserves mogen maximaal 50% van het maximale jaarlijkse subsidiebedrag bedragen. De accreditatieorganisatie rapporteert jaarlijks over de reservevorming.”.
 
 ## Afdeling 5. Toekenning van een bijkomend transitiebudget van 60.000 euro en 25.000 euro werkingsmiddelen aan de Posthogeschool voor Podiumkunsten vzw voor het begrotingsjaar 2023
 
@@ -87,6 +139,31 @@ Met ingang van het begrotingsjaar 2023 wordt ieder jaar 1/7 van het bedrag bijzo
 ## Afdeling 17. Bijkomende omkadering voor de afstemming tussen school, internaat en sportfederatie voor topsportleerlingen
 
 ## Afdeling 18. Aanpassing van de nascholingsmiddelen voor de instellingen om het nascholingsplan uit te voeren in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs
+
+### ART 30.
+
+In artikel 9, §2, eerste lid, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, vervangen bij het decreet van 19 december 2014 en gewijzigd bij het decreet van 25 februari 2022, wordt de zinsnede “De nascholingsmiddelen per niveau bedragen voor het begrotingsjaar 2015” vervangen door de zinsnede “De volgende bedragen worden per begrotingsjaar en met ingang vanaf begrotingsjaar 2023 toegekend, met uitzondering van de leersteuncentra waarvoor het toe te kennen bedrag vanaf het begrotingsjaar 2024 wordt vermeld”.
+
+### ART 31.
+
+In artikel 9, §2, eerste lid, 1°, van hetzelfde decreet, vervangen bij het decreet van 19 december 2014, wordt het bedrag “4.007.000 euro” vervangen door de zinsnede “5.342.667 euro in begrotingsjaar 2023 en 7.931.000 euro vanaf begrotingsjaar 2024”.
+
+### ART 32.
+
+In artikel 9, §2, eerste lid, 2°, van hetzelfde decreet, vervangen bij het decreet van 19 december 2014, wordt het bedrag “6.335.000 euro” vervangen door de zinsnede “7.307.000 euro in begrotingsjaar 2023 en 9.419.000 euro vanaf begrotingsjaar 2024”.
+
+### ART 33.
+
+Aan artikel 9, §2, eerste lid, van hetzelfde decreet, vervangen bij het decreet van 19 december 2014 en gewijzigd bij het decreet van 25 februari 2022, wordt een punt 7° toegevoegd, dat luidt als volgt:<br>
+“7° voor de leersteuncentra: 167.000 euro.”.
+
+### ART 34.
+
+In artikel 9, §2, tweede lid, van hetzelfde decreet, vervangen bij het decreet van 19 december 2014, wordt het jaartal “2016” vervangen door het jaartal “2025”.
+
+### ART 35.
+
+Aan artikel 10, eerste lid, van hetzelfde decreet wordt de zin “Indien het decreet houdende de aanpassing van de algemene uitgavenbegroting of het programmadecreet houdende bepalingen tot begeleiding van de begrotingsaanpassing, van het begrotingsjaar waarin de nascholingsmiddelen voor het betrokken begrotingsjaar zijn opgenomen, aanleiding geeft tot meer nascholingsmiddelen voor de instellingen, dan worden deze bijkomende middelen uitbetaald binnen de twee maanden na de bekrachtiging door de Vlaamse Regering van betrokken decreet.” toegevoegd.
 
 ## Afdeling 19. Tijdelijke bijkomende steun aan hogescholen en universiteiten ter versterking van studentenvoorzieningen
 
