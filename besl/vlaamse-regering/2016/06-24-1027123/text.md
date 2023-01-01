@@ -76,9 +76,7 @@ De vergunde zorgaanbieder mag de organisatiegebonden personeelspunten, vermeld i
 2° in het kalenderjaar 2021: 60%;<br>
 3° vanaf het kalenderjaar 2022: 65%.<br>
 <br>
-Het bedrag, vermeld in het tweede lid, mag niet aangewend worden voor de aanwerving van personeel of voor de vergoeding van eigen personeelskosten. De besteding van het bedrag mag gespreid worden over meer dan een boekhoudkundig jaar.<br>
-<br>
-Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule : (basisbedrag x index december 20../index december 2017).<br>
+Het bedrag, vermeld in het vierde lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule : (basisbedrag x index december 20../index december 2017).<br>
 <br>
 § 4. Als een budgethouder ervoor kiest om zijn budget volledig of gedeeltelijk als cashbudget te gebruiken bij een vergunde zorgaanbieder, heeft de vergunde zorgaanbieder recht op een vergoeding voor organisatiegebonden kosten.<br>
 <br>
@@ -101,9 +99,11 @@ Voor het kalenderjaar dat volgt op het kalenderjaar waarin de vergunning is verl
 <br>
 De vergoeding van de organisatiegebonden personeelspunten wordt berekend op basis van het gemiddelde van het totale bedrag van de vergoedingen, vermeld in de overeenkomsten met vergunde zorgaanbieders, die de budgethouders voor het kalenderjaar waarin de vergunning is verleend en voor het daaropvolgende kalenderjaar conform artikel 17, § 1, eerste lid, hebben geregistreerd bij het agentschap.<br>
 <br>
-§ 5/1. De werkingsmiddelen, vermeld in paragraaf 3, vierde lid, mogen niet worden aangewend voor de aanwerving van personeel of voor de vergoeding van eigen personeelskosten.<br>
+§ 5/1. De werkingsmiddelen, vermeld in paragraaf 3, vijfde lid, mogen niet worden aangewend voor de aanwerving van personeel of voor de vergoeding van eigen personeelskosten.<br>
 <br>
-Het bedrag per personeelspunt, vermeld in paragraaf 3, vijfde lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, en wordt berekend op basis van de volgende formule: (basisbedrag x index december 20../index december 2017).<br>
+In afwijking van het eerste lid kan het bedrag, vermeld paragraaf 3, vijfde lid, aangewend worden voor de vergoeding van variabele prestaties die niet vergoed worden conform artikel 8, §1, van het besluit van de Vlaamse regering van 15 december 1993 houdende de subsidiëring van de personeelskosten in bepaalde voorzieningen van de welzijnssector.<br>
+<br>
+De besteding van het bedrag, vermeld in paragraaf 3, vijfde lid, kan gespreid worden over meer dan een boekhoudkundig jaar.<br>
 <br>
 § 6. Het gedeelte van de werkingsmiddelen, vermeld in paragraaf 3, vierde lid, en het bedrag van de vergoeding voor de organisatiegebonden kosten, vermeld in paragraaf 4, dat de verantwoorde kosten overschrijdt, mogen worden aangewend voor de aanleg van reserves tot maximaal 20 % van het subsidiebedrag, met uitzondering van het sociaal passief.<br>
 <br>
