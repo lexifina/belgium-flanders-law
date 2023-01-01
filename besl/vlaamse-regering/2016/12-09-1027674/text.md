@@ -28,7 +28,7 @@ In dit besluit wordt verstaan onder:<br>
 2° kandidaat: een persoon die een beroep wil doen op een subsidie voor een stage;<br>
 3° minister: de Vlaamse minister, bevoegd voor het buitenlands beleid en de Europese aangelegenheden;<br>
 4° multilaterale organisatie: een intergouvernementeel orgaan met internationale rechtspersoonlijkheid en eigen besluitvormingsorganen dat per verdrag opgericht is door meer dan twee staten;<br>
-5° stage: een onbezoldigde stage bij een multilaterale organisatie.<br>
+5° ....<br>
 &nbsp;
 
 ### ART 2.
@@ -69,7 +69,7 @@ p) de Convention to Combat Desertification (UNCCD), de United Nations Framework 
 17° het Internationaal Instituut voor Democratie en Electorale Assistentie (IDEA), gevestigd in Stockholm;<br>
 18° de vestigingen en verbindingskantoren in België van de organisaties, vermeld in punt 1° tot en met 17° ;<br>
 19° de vestigingen en verbindingskantoren in het ambtsgebied van de Algemeen Afgevaardigden van de Vlaamse Regering (AAVR) van de organisaties, vermeld in punt 1° tot en met 17° ;<br>
-20° andere vestigingen en verbindingskantoren van de organisaties, vermeld in punt 1° tot en met 17°, op voorwaarde dat de stage verband houdt met een project of programma van de organisatie dat door de Vlaamse Gemeenschap wordt gefinancierd.<br>
+20° andere vestigingen en verbindingskantoren van de organisaties, vermeld in punt 1° tot en met 17°, op voorwaarde dat de stage verband houdt met een project of programma van de organisatie dat door de Vlaamse Gemeenschap of het Vlaamse Gewest wordt gefinancierd.<br>
 <br>
 § 2. De volgende stages komen niet in aanmerking voor subsidiëring:<br>
 1° stages als medewerker van een lid of van een politieke fractie van een internationale parlementaire vergadering;<br>
@@ -81,10 +81,9 @@ p) de Convention to Combat Desertification (UNCCD), de United Nations Framework 
 
 ### ART 3.
 
-Binnen de perken van de daarvoor bestemde kredieten van de jaarlijks vastgelegde begroting zal een subsidie worden verstrekt om stage te lopen bij een multilaterale organisatie.<br>
+De subsidies worden toegekend binnen de perken van de begrotingskredieten, in volgorde van de indiening van de aanvragen.<br>
 <br>
-Een derde van het krediet kan pas aangewend worden vanaf 1 september, behalve voor verlengingen van stages, als vermeld in artikel 8, die al goedgekeurd zijn.<br>
-&nbsp;
+Een derde van het krediet wordt bij voorrang gebruikt voor stages die verband houden met een project of programma dat de Vlaamse Gemeenschap of het Vlaamse Gewest financiert, en voor verlengingen van stages als vermeld in artikel 8, die al goedgekeurd zijn.
 
 ### ART 4.
 
@@ -104,7 +103,7 @@ Als de financiële middelen van de daarvoor bestemde kredieten nog niet zijn uit
 Om voor financiering in aanmerking te komen, moet een kandidaat:<br>
 1° voldoen aan de voorwaarden die gesteld worden door de multilaterale organisatie die een stageplaats aanbiedt;<br>
 2° beschikken over een aanbod van een multilaterale organisatie om er een stage te lopen;<br>
-3° beschikken over een diploma secundair onderwijs, uitgereikt door een instelling die door het Vlaams Ministerie van Onderwijs en Vorming gefinancierd, gesubsidieerd of erkend is, of over een diploma hoger onderwijs, uitgereikt door een ambtshalve geregistreerde instelling als vermeld in de bijlage bij het besluit van de Vlaamse Regering van 13 februari 2004 tot vaststelling van de lijst van de bachelor- en de masteropleidingen in het hoger onderwijs in Vlaanderen;<br>
+3° beschikken over een diploma secundair onderwijs dat is uitgereikt door een instelling die door de Vlaamse Gemeenschap gefinancierd, gesubsidieerd of erkend is, of beschikken over een diploma hoger onderwijs dat is uitgereikt door een ambtshalve geregistreerde instelling als vermeld in artikel II.1 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
 4° bij de aanvang van de stage de leeftijd van 35 jaar nog niet hebben bereikt.<br>
 &nbsp;
 
@@ -123,17 +122,21 @@ Onvolledige aanvragen worden als onontvankelijk beschouwd. De kandidaat wordt da
 
 ### ART 7.
 
-§ 1. De subsidie geldt voor de duur van de stage, met een maximumduur van zes maanden en een minimumduur van twee maanden.<br>
+§ 1. De subsidie geldt voor de duur van de stage, met een maximumduur van zes maanden en een minimumduur van twee maanden.&nbsp;De maximumduur van de stage kan verlengd worden tot negen maanden op expliciet verzoek van de multilaterale organisatie in kwestie en op voorwaarde dat de stage verband houdt met een project of programma dat de Vlaamse Gemeenschap of het Vlaamse Gewest financiert.<br>
 <br>
 De subsidie omvat een vergoeding voor de kosten van levensonderhoud en verblijf, en een reisvergoeding.<br>
 <br>
 § 2. Voor de kosten van levensonderhoud en verblijf wordt een bedrag per maand toegekend. Voor onvolledige stagemaanden wordt het bedrag naar rato van het aantal stagedagen toegekend.<br>
 <br>
-Het maandbedrag wordt vastgesteld op 1000 euro, waarop de in augustus van het voorgaande jaar vastgestelde coëfficiënt voor kosten van levensonderhoud en huisvesting van de International Civil Service Commission van de Verenigde Naties wordt toegepast, omgevormd met Brussel als uitgangspunt. Voor stages in het Groothertogdom Luxemburg wordt het maandbedrag gelijkgesteld met dat in België. De minister stelt jaarlijks bij besluit de gedetailleerde lijst van maandbedragen per bestemming vast.<br>
+Het maandbedrag wordt berekend conform de volgende formule: vergoeding = basiskosten x coëfficiënt gaststad, waarbij:<br>
+1° basiskosten: het basisbedrag voor het levensonderhoud in België dat overeenstemt met de gemiddelde kosten van levensonderhoud in België op basis van de meest recente cijfers van Statbel over het huishoudbudget per maand per persoon;<br>
+2° coëfficiënt gaststad: de mathematische weergave van de vergelijking van de levensduurte in de buitenlandse stad waar de opleiding gevolgd wordt, met de levensduurte in België. De levensduurtecoëfficiënt wordt bepaald op basis van de Convenience Index van Mercer.<br>
 <br>
 Hetzelfde maandbedrag geldt voor de volledige gesubsidieerde periode, ook al strekt die zich over twee kalenderjaren uit.<br>
 <br>
-§ 3. De reisvergoeding geldt alleen voor stages buiten het Koninkrijk België en wordt per stage forfaitair vastgesteld op een eenmalig bedrag van 200 euro voor bestemmingen in Europa, waaronder wordt verstaan de lidstaten van de Raad van Europa, Wit-Rusland en Kosovo, en op een eenmalig bedrag van 500 euro voor bestemmingen in andere staten.<br>
+Als de stage plaatsvindt in België, worden alleen de basiskosten toegekend.<br>
+<br>
+§ 3. Als de stagiair voor dezelfde stage een bezoldiging of een financiële toelage ontvangt van een andere Belgische of buitenlandse overheid of van de multilaterale organisatie in kwestie, wordt het bedrag van de subsidie verminderd met het bedrag van die bezoldiging of toelage.<br>
 <br>
 § 4. Als de kandidaat in het verleden al een subsidie heeft ontvangen om stage te lopen bij een multilaterale organisatie, kan hem alleen een subsidie worden toegekend voor een nieuwe stage met een duur van maximaal het verschil tussen zes maanden en de duur van de al toegekende subsidie, als de resterende periode minimaal twee maanden bedraagt.<br>
 <br>
@@ -154,7 +157,7 @@ De subsidie wordt uitbetaald in twee schijven.<br>
 <br>
 Een eerste schijf van 85% van de subsidie wordt uitbetaald na de ontvangst van het standaardformulier als bewijs van aanbod van een stage dat wordt ingevuld door de multilaterale organisatie.<br>
 <br>
-Een tweede schijf ten bedrage van het saldo van de subsidie, namelijk 15% van de subsidie, wordt uitbetaald na afloop van de subsidiëringsperiode en na de ontvangst van de bewijsstukken, waaronder een stageverslag en een door de stagebegeleider ingevulde vragenlijst.<br>
+Een tweede schijf ten bedrage van het saldo van de subsidie, namelijk 15% van de subsidie, wordt uitbetaald na afloop van de subsidiëringsperiode en na de ontvangst van de bewijsstukken, waaronder een stageverslag foto, video of blog en een door de stagebegeleider ingevulde vragenlijst.<br>
 &nbsp;
 
 ### ART 10.
@@ -166,8 +169,7 @@ Het departement stuurt een officiële aanmaning naar stagiairs die de bewijsstuk
 
 ### ART 11.
 
-Het is niet toegestaan om voor dezelfde stageperiode een financiële toelage te ontvangen van een Belgische of buitenlandse overheid of van de multilaterale organisatie zelf.<br>
-&nbsp;
+...
 
 ## HOOFDSTUK 7 Modellen
 
@@ -185,7 +187,7 @@ Die modellen worden ter beschikking gesteld op de website van het departement en
 
 ### ART 13.
 
-Telkens als de modellen, vermeld in artikel 11, een handtekening vereisen, bevat het document dat elektronisch wordt ingediend, ofwel een gewone handtekening en wordt het ingescand, ofwel een elektronische handtekening.
+Telkens als de modellen, vermeld in artikel 12, een handtekening vereisen, bevat het document dat elektronisch wordt ingediend, ofwel een gewone handtekening en wordt het ingescand, ofwel een elektronische handtekening.
 
 ## HOOFDSTUK 8 Slotbepalingen
 
