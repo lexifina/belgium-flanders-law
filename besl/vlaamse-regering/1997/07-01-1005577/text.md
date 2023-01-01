@@ -185,7 +185,7 @@ b) de vroegere eigenaars geen bloed- en aanverwantschapsbanden hebben met de ver
 13° een verklaring dat voor dezelfde bedrijfsruimte geen financiële steun voor de verwerving ervan is aangevraagd of toegekend;<br>
 14° de verbintenis van de aanvrager om te starten met de herbestemmingswerkzaamheden uiterlijk twee jaar, of vijf jaar in geval van herbestemmingswerkzaamheden in het kader van een definitief gesloten brownfieldconvenant, na de datum van betekening van de goedkeuring van het subsidiebedrag;<br>
 15° de verbintenis van de aanvrager om geen werken uit te voeren en geen contract te sluiten met een aannemer voor de minister het subsidiebedrag heeft goedgekeurd;<br>
-16° de verbintenis van de aanvrager om de ten onrechte verleende financiële steun terug te storten aan het Vernieuwingsfonds binnen drie maanden na de terugvordering ervan;<br>
+16° de verbintenis van de aanvrager om de ten onrechte verleende financiële steun terug te storten aan het BRV-fonds binnen drie maanden na de terugvordering ervan;<br>
 17° het rekeningnummer bij een financiële instelling waarop de subsidie gestort moet worden.<br>
 <br>
 § 2.Het departement onderzoekt of de subsidieaanvraag ontvankelijk en volledig is.<br>
