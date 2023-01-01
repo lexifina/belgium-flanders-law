@@ -203,6 +203,8 @@ De middelen, bepaald in het vierde lid,&nbsp;mogen niet ingezet worden om andere
 <br>
 Het bedrag, vermeld in het vierde lid, mag niet aangewend worden voor reservevorming of voor de aanwerving van personeel of voor de vergoeding van eigen personeelskosten. De besteding van het bedrag mag gespreid worden over meer dan een boekhoudkundig jaar.<br>
 <br>
+In afwijking van het zesde lid kan het bedrag, vermeld in het eerste lid, aangewend worden voor de vergoeding van variabele prestaties die niet vergoed worden conform artikel 8, §1, van het besluit van de Vlaamse Regering van 15 december 1993 houdende de subsidiëring van de personeelskosten in bepaalde voorzieningen van de welzijnssector.<br>
+<br>
 Het bedrag, vermeld in het vierde lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule : (basisbedrag x index december 20../index december 2017).<br>
 &nbsp;
 
@@ -210,7 +212,7 @@ Het bedrag, vermeld in het vierde lid, wordt jaarlijks op 1 januari aangepast, r
 
 De dienst ontvangt naar rato van zijn erkenningsaantal 0,24 personeelspunten per begeleiding.<br>
 <br>
-Als de som van de personeelspunten die op basis van de geboden begeleidingen worden toegekend, meer dan 92% bedraagt van het aantal personeelspunten dat overeenstemt met het aantal begeleidingen waarvoor de dienst is erkend en er maximaal twintig personeelspunten minder worden gepresteerd dan het aantal personeelspunten dat overeenstemt met het aantal begeleidingen waarvoor de dienst is erkend, ontvangt de dienst, in afwijking van het eerste lid, het aantal personeelspunten dat overeenstemt met het aantal begeleidingen waarvoor de dienst is erkend..<br>
+Als de som van de personeelspunten die op basis van de geboden begeleidingen worden toegekend, meer dan 95% bedraagt van het aantal personeelspunten dat overeenstemt met het aantal begeleidingen waarvoor de dienst is erkend, ontvangt de dienst, in afwijking van het eerste lid, het aantal personeelspunten dat overeenstemt met het aantal begeleidingen waarvoor de dienst is erkend.<br>
 &nbsp;
 
 ### ART. 14.
