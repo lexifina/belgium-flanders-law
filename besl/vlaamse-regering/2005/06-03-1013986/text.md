@@ -1130,7 +1130,7 @@ De aangelegenheden die bij artikel 3 tot en met 13 aan de verschillende beleidsd
 ### ART. 29.
 
 § 1. Voor het beleidsdomein Omgeving wordt het Vlaams Ministerie van Omgeving opgericht, dat bestaat uit het gelijknamige departement en vijf agentschappen zonder rechtspersoonlijkheid:<br>
-1° Wonen-Vlaanderen;<br>
+1° Wonen in Vlaanderen;<br>
 2° Onroerend Erfgoed;<br>
 3° het Vlaams Energie- en Klimaatagentschap;<br>
 4° Agentschap voor Natuur en Bos;<br>
