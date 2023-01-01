@@ -81,6 +81,10 @@ In artikel 37vicies sexies, § 1, eerste lid, van hetzelfde decreet, ingevoegd b
 In artikel 44, § 2, eerste lid, van hetzelfde decreet, vervangen bij het decreet van 26 januari 2018, wordt punt 2 vervangen door wat volgt:<br>
 "2. competenties in het Nederlands en, voor die scholen waar onderwijs door middel van Vlaamse Gebarentaal wordt gegeven, bijkomend ook competenties in de Vlaamse Gebarentaal;".
 
+### ART 14.
+
+In artikel 78, § 2, eerste lid, 2°, van hetzelfde decreet, ingevoegd bij het decreet van 4 juli 2008 en gewijzigd bij het decreet van 6 juli 2012, wordt de zinsnede "thuislozen, vermeld in artikel 3, 52° bis/2," vervangen door de woorden "leerlingen met een zorgthuis".
+
 ### ART 15.
 
 Aan artikel 87, § 3, van hetzelfde decreet wordt de volgende zin toegevoegd:<br>
@@ -95,6 +99,11 @@ Aan artikel 114, § 2, van hetzelfde decreet wordt de volgende zin toegevoegd:<b
 
 Aan artikel 132, § 3, van hetzelfde decreet wordt de volgende zin toegevoegd:<br>
 "Deze afwijking geldt niet voor scholen van het gewoon basisonderwijs als het gaat over autonome kleuterscholen die een vestigingsplaats afschaffen.".
+
+### ART 18.
+
+In artikel 140, § 1, 6°, van hetzelfde decreet, ingevoegd bij het decreet van 6 juli 2012 en gewijzigd bij het decreet van 9 juli 2021, wordt punt e) vervangen door wat volgt:<br>
+"e) die een zorgthuis hebben.".
 
 ### ART 19.
 
@@ -215,9 +224,17 @@ In artikel 176/1, 4°, van dezelfde codex, ingevoegd bij het decreet van 3 juli 
 2° punt c) wordt vervangen door wat volgt:<br>
 "c) de aanvraag voor het structuuronderdeel gebeurt in voorkomend geval tezamen met de aanvraag voor de ingebruikname van een nieuwe vestigingsplaats als vermeld in artikel 15, § 4;".
 
+### ART 36.
+
+In artikel 225, § 1, 2°, van dezelfde codex, vervangen bij het decreet van 9 juli 2021, wordt het woord "thuisloze" vervangen door de woorden "leerling met een zorgthuis".
+
 ### ART 37.
 
 In artikel 231 van dezelfde codex, vervangen bij het decreet van 9 juli 2021, worden de woorden "de daarvoor toegekende uren-leraar" vervangen door de zinsnede "het werkingsbudget op basis van de leerlingenkenmerken, vermeld in artikel 242 van deze codex, en de extra uren-leraar, vermeld in artikel 226 tot en met 228 van deze codex,".
+
+### ART 38.
+
+In artikel 233, § 1, 2°, van dezelfde codex, vervangen bij het decreet van 9 juli 2021, wordt het woord "thuisloze" vervangen door de woorden "leerling met een zorgthuis".
 
 ### ART 39.
 
