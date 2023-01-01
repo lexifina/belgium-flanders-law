@@ -55,7 +55,7 @@ d) het Garantiefonds Huisvesting;<br>
 e) het Grindfonds;<br>
 f) het Vlaams Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant;<br>
 g) het Pendelfonds;<br>
-h) het Rubiconfonds;<br>
+h) ...;<br>
 i) het Topstukkenfonds;<br>
 j) het Vlaams Brusselfonds;<br>
 k) het Vlaams Fonds voor de Lastendelging - VFLD;<br>
