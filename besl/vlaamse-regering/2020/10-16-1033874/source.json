@@ -2,16 +2,16 @@
   "codex_id": 1033874,
   "title": "Besluit van de Vlaamse Regering van 2020-10-16 over de aanvullende erkenningsvoorwaarden en de subsidiëringsvoorwaarden van cliëntenorganisaties in de integrale jeugdhulp, vermeld in artikel 45/1 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033874/VolledigDocument?datum=2020-08-01",
-  "source_sha256": "3f6bdc5e1da1a779aa895168e38a5a212e3efb39e80ecbb3149628b2bd5dfd46",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033874/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "4f37d3465918bd5990cbdea71596ef9e9d4601bc974d1e105f37a1b75f12b695",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033874&param=informatie",
-  "as_of": "2020-08-01",
+  "as_of": "2023-01-01",
   "made": "2020-10-16",
   "gazette": "2020-11-25",
   "numac": 2020043577,
   "document_start": "2020-08-01",
   "document_end": null,
-  "in_force": "2020-08-01",
+  "in_force": "2023-01-01",
   "article_versions": 28,
-  "record_form": "consolidated version as in force on 2020-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }

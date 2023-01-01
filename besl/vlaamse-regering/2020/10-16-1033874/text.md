@@ -173,9 +173,9 @@ Bij een verlenging van de erkenning wordt de erkenning in afwijking van het eers
 
 ### ART 10.
 
-Binnen het beschikbare begrotingskrediet kent het agentschap een jaarlijkse subsidie toe van maximaal 375.000 euro per erkende cliëntenorganisatie.<br>
+Binnen het beschikbare begrotingskrediet kent het agentschap een jaarlijkse subsidie toe van maximaal&nbsp;450.730 euro per erkende cliëntenorganisatie.<br>
 <br>
-De subsidie, vermeld in het eerste lid, is gekoppeld aan de index van de consumptieprijzen, die van toepassing is op 1 januari 2020.
+De subsidie, vermeld in het eerste lid, is gekoppeld aan de spilindex die van toepassing is op 1 januari 2023.
 
 ## Afdeling 2. Subsidievoorwaarden
 
