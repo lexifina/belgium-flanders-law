@@ -24,8 +24,8 @@ In dit besluit wordt verstaan onder :<br>
 13° psychiatrisch verzorgingstehuis : een psychiatrisch verzorgingstehuis als vermeld in artikel 170 van de wet betreffende de ziekenhuizen en andere verzorgingsinrichtingen, gecoördineerd op 10 juli 2008;<br>
 14° psychiatrisch ziekenhuis : een ziekenhuis als vermeld in artikel 3 van de wet betreffende de ziekenhuizen en andere verzorgingsinrichtingen, gecoördineerd op 10 juli 2008;<br>
 15° regionaal dienstencentrum : een voorziening als vermeld in artikel 20 van het Woonzorgdecreet van 13 maart 2009;<br>
-16° woonzorgcentrum met een bijkomende erkenning: een woonzorgcentrum als vermeld in artikel 52/1, tweede lid, van het Woonzorgdecreet van 13 maart 2009;<br>
-17° verzorgingsinstelling : een ziekenhuis, een woonzorgcentrum met een bijkomende erkenning, een psychiatrisch verzorgingstehuis of een functie dagopname binnen een ziekenhuis;<br>
+16° ...;<br>
+17° verzorgingsinstelling : een ziekenhuis, een psychiatrisch verzorgingstehuis of een functie dagopname binnen een ziekenhuis;<br>
 18° voorzieningen voor ouderen en voorzieningen in de thuiszorg : een woonzorgcentrum, een regionaal dienstencentrum, een lokaal dienstencentrum, een dagverzorgingscentrum of een centrum voor kortverblijf;<br>
 19° voorziening voor de sociale integratie van personen met een handicap : een van de voorzieningen, met uitzondering van de revalidatiecentra en de centra voor ontwikkelingsstoornissen, vermeld in het besluit van de Vlaamse Regering van 19 juni 2009 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de voorzieningen voor de sociale integratie van personen met een handicap, als het totale bedrag dat wordt berekend en vastgesteld, exclusief btw en algemene onkosten, naargelang van de aard van de investering, overeenkomstig de bepalingen van het voormelde besluit van 19 juni 2009, hoger is dan het bedrag van 80.000 euro, exclusief btw en algemene onkosten. Dat bedrag van 80.000 euro wordt jaarlijks per 1 januari van rechtswege aangepast aan de bouwindex, waarbij de basisindex de bouwindex is van 1 januari 1994;<br>
 20° woonzorgcentrum : een voorziening als vermeld in artikel 37 van het Woonzorgdecreet van 13 maart 2009;<br>
@@ -60,7 +60,7 @@ Met behoud van de toepassing van artikel 5 moet, om voor een gebruikstoelage in 
 
 ### ART. 7.
 
-Met behoud van de toepassing van artikel 5 moet, om voor een gebruikstoelage in aanmerking te komen, de investering in een woonzorgcentrum met een bijkomende erkenning of in een psychiatrisch verzorgingstehuis plaatsvinden of plaatsgevonden hebben overeenkomstig de specifieke bouwfysische, technische en kwalitatieve normen als vermeld in artikel 170 van de wet betreffende de ziekenhuizen en andere verzorgingsinrichtingen, gecoördineerd op 10 juli 2008.
+Met behoud van de toepassing van artikel 5 moet, om voor een gebruikstoelage in aanmerking te komen, de investering in een woonzorgcentrum of in een psychiatrisch verzorgingstehuis plaatsvinden of plaatsgevonden hebben overeenkomstig de specifieke bouwfysische, technische en kwalitatieve normen als vermeld in artikel 170 van de wet betreffende de ziekenhuizen en andere verzorgingsinrichtingen, gecoördineerd op 10 juli 2008.
 
 ### ART. 8.
 
