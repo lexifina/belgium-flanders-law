@@ -2,16 +2,16 @@
   "codex_id": 1024709,
   "title": "Besluit van de Vlaamse Regering van 2014-09-05 tot het verlenen van subsidies voor de uitvoering van agromilieu- en klimaatmaatregelen met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor de periode 2014-2020",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024709/VolledigDocument?datum=2020-11-01",
-  "source_sha256": "17145e368553c4d8db8b74862c05c7fc445889ad5f26ab67d8f2a4c166a4fd4f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024709/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "e9d7aceedd68d5f3ca2ded36dae84fdfec81063389fa4322685a60a0023cca50",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024709&param=informatie",
-  "as_of": "2020-11-01",
+  "as_of": "2023-01-01",
   "made": "2014-09-05",
   "gazette": "2014-10-29",
   "numac": 2014036664,
   "document_start": "2014-10-01",
   "document_end": "2022-12-31",
-  "in_force": "2020-11-01",
+  "in_force": "2023-01-01",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2020-11-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }
