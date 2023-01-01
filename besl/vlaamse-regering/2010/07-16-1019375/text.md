@@ -18,12 +18,13 @@ In dit besluit wordt verstaan onder :<br>
 2° /1. afgebakend zeehavengebied: gebied binnen de grenzen van de zeehavens van Oostende, Zeebrugge, Gent en Antwerpen, zoals afgebakend in een ruimtelijk uitvoeringsplan of bij gebrek daaraan, afgebakend conform artikel 3 van het decreet van 2 maart 1999 houdende het beleid en het beheer van de zeehavens;<br>
 3° agrarisch gebied in de ruime zin : elk gebied, hoofdzakelijk bestemd voor de landbouw, ook als het onderworpen is aan bijzondere voorwaarden;<br>
 3° /1. erosiegevoelig gebied: gebied met zeer hoge of hoge erosiegevoeligheid, zoals bepaald met toepassing van artikel 59 van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid;<br>
+3°/2 gebied met middelgrote kans op overstromingen: het als dusdanig vastgestelde gebied, in bijlage IV en V bij het besluit van de Vlaamse Regering van 20 juli 2006 tot vaststelling van nadere regels voor de toepassing van de watertoets, tot aanwijzing van de adviesinstanties en tot vaststelling van nadere regels voor de adviesprocedure bij de watertoets, vermeld in artikel 1.3.1.1 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 4° het goed : het kadastrale perceel of de kadastrale percelen waarop de handelingen betrekking hebben, of, voor de percelen zonder kadastraal nummer, de grond of de gronden waarop de handelingen betrekking hebben;<br>
 5° industriegebied in de ruime zin : elk gebied, bestemd voor industrie en ambacht, ook als het onderworpen is aan bijzondere voorwaarden;<br>
 6° niet-overdekte constructies : constructies zonder bouwvolume waarvan de hoogte beperkt is tot 1,5 meter boven het maaiveld;<br>
 7° openbaar domein : de openbare wegen, de spoorwegen, de bevaarbare rivieren en de kanalen dienstig voor de scheepvaart of een ander gebruik van openbaar nut, de onbevaarbare waterlopen, met telkens hun aanhorigheden, de openbare parken en pleinen, de zeestranden en duinen;<br>
 8° open afsluiting : afsluiting in draad of draadgaas;<br>
-8° /1. overstromingsgevoelig gebied: gebied opgenomen in bijlage I van het besluit van de Vlaamse Regering van 20 juli 2006 tot vaststelling van nadere regels voor de toepassing van de watertoets, tot aanwijzing van de adviesinstantie en tot vaststelling van nadere regels voor de adviesprocedure bij de watertoets, vermeld in artikel 1.3.1.1 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
+8° /1. ...;<br>
 9° Ramsargebied : een gebied dat aangewezen is krachtens de overeenkomst inzake watergebieden die van internationale betekenis zijn, opgemaakt in Ramsar op 2 februari 1971;<br>
 10° schuilhok : een eenvoudige constructie, waarin een of meer weidedieren tijdelijk kunnen verblijven. Schuilhokken zijn geenszins uitgerust zoals stallen, die bestemd zijn om dieren permanent te huisvesten;<br>
 11° voorgevel : elke gevel gericht op de voorliggende weg, met uitzondering van garagewegen of voetwegen;<br>
@@ -59,7 +60,7 @@ De bepalingen van dit besluit zijn niet van toepassing op handelingen gelegen in
 2° de erfdienstbaarheidszone langs grachten van algemeen belang, opgelegd in toepassing van artikel 3.4.1, § 2, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 3° een afgebakende oeverzone als vermeld in artikel 1.1.3., § 2, 46°, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018.<br>
 <br>
-De bepalingen van het eerste lid zijn niet van toepassing op handelingen, uitgevoerd door of in opdracht van de beheerder van de waterloop of gracht.
+De bepalingen van het eerste lid zijn niet van toepassing op handelingen, uitgevoerd door of in opdracht van de beheerder van de waterloop of gracht, of op stedenbouwkundige handelingen met betrekking tot afbraak, vermeld in hoofdstuk 13.
 
 ## HOOFDSTUK 2 Handelingen in, aan en bij woningen
 
@@ -195,7 +196,10 @@ De vrijstellingen, vermeld in de artikelen 4.1, 4.2, en 4.3, gelden alleen als d
 1/1° constructies, met uitzondering van hagelkanonnen, glasconstructies en gebouwen, met een maximale hoogte van 3,5 meter of tot maximaal 1,5 meter boven de teelt, als aan al de volgende voorwaarden is voldaan:<br>
 a) ze dienen voor de teelt of bescherming van landbouwgewassen;<br>
 b) het hemelwater wordt opgevangen en hergebruikt of kan op natuurlijke wijze op eigen terrein in de bodem infiltreren;<br>
-c) de constructies zijn niet gelegen in ruimtelijk kwetsbaar, erosiegevoelig of effectief overstromingsgevoelig gebied;<br>
+c) de constructies zijn niet gelegen in een van de volgende gebieden:<br>
+1) een gebied dat ruimtelijk kwetsbaar is;<br>
+2) een gebied dat erosiegevoelig is;<br>
+3) een gebied met middelgrote kans op overstromingen;<br>
 2° open afsluitingen of open afsluitingen met dwarslatten met een maximale hoogte van 2 meter;<br>
 3° schuilhokken voor weidedieren. De schuilhokken hebben houten wanden, een maximale hoogte van drie meter en minstens één volledig open zijde. De totale oppervlakte is beperkt tot veertig vierkante meter per aaneengesloten groep van percelen in één eigendom;<br>
 4° het aanleggen van een dam uit plantaardige materialen langs de stroomafwaartse perceelsgrens van een erosiegevoelig perceel, op voorwaarde dat de hoogte van de dam beperkt is tot een meter boven het maaiveld.</p>
@@ -209,7 +213,7 @@ a) de bovengrondse zichtbare voorzieningen hebben maximale afmetingen van 1 mete
 b) de drainagewerken worden niet uitgevoerd in de volgende gebieden of zones :<br>
 1) Speciale Beschermingszones;<br>
 2) de Ramsargebieden;<br>
-3) ruimtelijk kwetsbare gebieden of een effectief&nbsp;overstromingsgevoelig gebied, of op minder dan 50 meter van die gebieden;<br>
+3) ruimtelijk kwetsbare gebieden of een gebied met middelgrote kans op overstromingen, of op minder dan 50 meter van die gebieden;<br>
 c) voor de drainagewerken is geen milieueffectrapport vereist;<br>
 3° de strikt noodzakelijke toegangen tot en opritten naar de agrarische bedrijfsgebouwen, inclusief de bedrijfswoning. Deze vrijstelling van vergunningsplicht geldt niet voor het overwelven of inbuizen van grachten;<br>
 4° bijenstallen of bijenkorven;<br>
@@ -500,7 +504,10 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de
 ### ART 12/1.1.
 
 Een&nbsp;omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor reliëfwijzigingen als aan al de volgende voorwaarden is voldaan:<br>
-1° het terrein ligt niet in ruimtelijk kwetsbaar, erosiegevoelig of mogelijk of effectief overstromingsgevoelig gebied;<br>
+1° het terrein ligt niet in een van de volgende gebieden:<br>
+a) een gebied dat ruimtelijk kwetsbaar is;<br>
+b) een gebied dat erosiegevoelig is;<br>
+c) een gebied dat aangeduid is in bijlage IV of V bij het besluit van de Vlaamse Regering van 20 juli 2006 tot vaststelling van nadere regels voor de toepassing van de watertoets, tot aanwijzing van de adviesinstanties en tot vaststelling van nadere regels voor de adviesprocedure bij de watertoets, vermeld in artikel 1.3.1.1 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 2° de aard van het terrein kan wijzigen, maar de functie van het terrein wijzigt niet;<br>
 3° het totale volume van de reliëfwijziging is kleiner dan dertig kubieke meter per goed;<br>
 4° de hoogte of diepte van de reliëfwijziging is op elk punt kleiner dan een halve meter;<br>
@@ -514,7 +521,14 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig   voor 
 
 ### ART. 13.2.
 
-Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig   voor de volledige afbraak van vrijstaande bouwwerken of constructies, op   voorwaarde dat aan al de volgende vereisten voldaan is :<BR>1° het betreft geen   kleine elementen en constructies, geïsoleerd of deel uitmakend van een geheel,   die van belang zijn voor de kwaliteit van de leefomgeving, een volkskundige,   historische of esthetische waarde hebben, als referentie dienen voor de   bevolking van een buurt of wijk, of bijdragen tot het gevoel van een   plaatselijke bevolking tot een bepaalde plek te behoren, zoals fonteinen,   kiosken, pompen, putten, kruisen, calvaries, veldkapellen, standbeelden,   wegwijzers, schandpalen, grenspalen, mijlpalen, lantaarnpalen, uurwerken,   klokkenspelen, zonnewijzers, hekkens, omheiningsmuren, luifels, graven,   herkenningstekens van merkwaardige gebeurtenissen uit het verleden, balies,   straatmeubilair, waterkunstwerkjes, bakhuizen, houtskeletbouw, koetshuizen,   oranjerieën, priëlen, ijskelders;<BR>2° het betreft geen gebouwen of   constructies die opgenomen zijn in de inventaris van het bouwkundig erfgoed,   vastgesteld met toepassing van artikel 4.1.1 van het decreet van 12 juli 2013   betreffende het onroerend erfgoed;<BR>3° de grondoppervlakte bedraagt minder dan   100 vierkante meter.<BR><BR>
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de volledige afbraak van vrijstaande bouwwerken of constructies, op voorwaarde dat aan al de volgende vereisten voldaan is :<br>
+1° het betreft geen kleine elementen en constructies, geïsoleerd of deel uitmakend van een geheel, die van belang zijn voor de kwaliteit van de leefomgeving, een volkskundige, historische of esthetische waarde hebben, als referentie dienen voor de bevolking van een buurt of wijk, of bijdragen tot het gevoel van een plaatselijke bevolking tot een bepaalde plek te behoren, zoals fonteinen, kiosken, pompen, putten, kruisen, calvaries, veldkapellen, standbeelden, wegwijzers, schandpalen, grenspalen, mijlpalen, lantaarnpalen, uurwerken, klokkenspelen, zonnewijzers, hekkens, omheiningsmuren, luifels, graven, herkenningstekens van merkwaardige gebeurtenissen uit het verleden, balies, straatmeubilair, waterkunstwerkjes, bakhuizen, houtskeletbouw, koetshuizen, oranjerieën, priëlen, ijskelders;<br>
+2° het betreft geen gebouwen of constructies die opgenomen zijn in de inventaris van het bouwkundig erfgoed, vastgesteld met toepassing van artikel 4.1.1 van het decreet van 12 juli 2013 betreffende het onroerend erfgoed;<br>
+3° het betreft geen afbraak van gebouwen waarvan het totale bouwvolume groter is dan 1000 kubieke meter voor alle niet-residentiële gebouwen, of groter dan 5000 kubieke meter voor alle in hoofdzaak residentiële gebouwen, met uitzondering van eengezinswoningen;<br>
+4° het betreft geen afbraak in het kader van infrastructuurwerken waarvan het volume groter is dan 250 kubieke meter.<br>
+<br>
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de volledige of gedeeltelijke afbraak van verhardingen op voorwaarde dat de verhardingen niet zijn opgenomen in de inventaris van het bouwkundig erfgoed, vastgesteld met toepassing van artikel 4.1.1 van het decreet van 12 juli 2013 betreffende het onroerend erfgoed.<br>
+&nbsp;
 
 ### ART 13.3.
 
