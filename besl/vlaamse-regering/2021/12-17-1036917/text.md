@@ -323,6 +323,10 @@ In artikel 4.43 van hetzelfde besluit worden de volgende wijzigingen aangebracht
 2° in paragraaf 2, tweede lid, worden de woorden "sociale huisvestingsmaatschappijen en gemeenten" vervangen door het woord "woonmaatschappijen";<br>
 3° in paragraaf 4, eerste lid, worden de woorden "sociale huisvestingsmaatschappijen en gemeenten" vervangen door het woord "woonmaatschappijen".
 
+### ART 43.
+
+In boek 4, deel 1, titel 2, hoofdstuk 2, van hetzelfde besluit wordt afdeling 4, die bestaat uit artikel 4.45, opgeheven.
+
 ### ART 44.
 
 In boek 4, deel 1, titel 2, hoofdstuk 2, van hetzelfde besluit wordt het opschrift van afdeling 5 vervangen door wat volgt:<br>
@@ -1957,7 +1961,9 @@ Ter uitvoering van artikel 164 van het Bodemdecreet van 27 oktober 2006 wordt aa
 
 ### ART 252.
 
-...
+Voor het recht op de tegemoetkoming, vermeld in boek 5, deel 5, titel 1 en 2 van het Besluit Vlaamse Codex Wonen van 2021, wordt een kandidaat-huurder ook beschouwd als een kandidaat-huurder die in het inschrijvingsregister bij een domiciliemaatschappij als vermeld in artikel 5.176, eerste lid, 1°, van het Besluit Vlaamse Codex Wonen van 2021 ingeschreven is, als hij ingeschreven is in het inschrijvingsregister van een sociale huisvestingsmaatschappij, waarvan het werkingsgebied zich uitstrekt tot de woonplaats van de kandidaat-huurder, tot het moment dat hij als kandidaat-huurder ingeschreven wordt bij een woonmaatschappij als vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021, waarvan het werkingsgebied minstens gedeeltelijk overeenkomt met het werkingsgebied van die sociale huisvestingsmaatschappij, maar zich niet uitstrekt tot de woonplaats van de kandidaat-huurder.<br>
+<br>
+Het eerste lid geldt tot het einde van de door de verhuurder vastgestelde termijn, vermeld in artikel 66, §2, tweede lid, van het besluit van de Vlaamse Regering van 17 december 2021 tot wijziging van het Besluit Vlaamse Codex Wonen van 2021, wat betreft de sociale huur, of, als een herinneringsbrief als vermeld in artikel 66, §2, derde lid, van het voormelde besluit, is verzonden tot het einde van de door de verhuurder vastgestelde termijn in de herinneringsbrief.
 
 ### ART 253.
 
