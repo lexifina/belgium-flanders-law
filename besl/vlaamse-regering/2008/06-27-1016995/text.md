@@ -33,13 +33,13 @@ Besluit :<br>
 
 ### ART. 1.
 
-Onverminderd de bepalingen van het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid, is dit besluit van toepassing op het personeel van de Vlaamse Maatschappij voor Sociaal Wonen.<br /><br />
+...
 
 ## HOOFDSTUK II Algemene bepalingen
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder "het agentschap" : de Vlaamse Maatschappij voor Sociaal Wonen.<br /><br />
+...
 
 ## TITEL II De verloning
 
@@ -53,18 +53,18 @@ Voor de toepassing van dit besluit wordt verstaan onder "het agentschap" : de Vl
 
 ### ART. 4.
 
-Voor de toepassing van de wet van 3 juli 1967 betreffende de preventie van of de schadevergoeding voor arbeidsongevallen, voor ongevallen op de weg naar en van het werk en voor beroepsziekten in de overheidssector wordt de rente in geval van blijvende invaliditeit en in geval van overlijden, toegekend ingevolge een arbeidsongeval of een ongeval op de weg naar en van het werk, berekend op basis van de jaarlijkse bezoldiging van het personeelslid, beperkt tot 123.946,76 euro per jaar en per persoon.<br /><br />
+...
 
 ## TITEL III Algemene opheffings- en slotbepalingen
 
 ### ART. 5.
 
-Het besluit van de Vlaamse Regering van 23 mei 2003 houdende organisatie van de Vlaamse Huisvestingsmaatschappij en de instellingsspecifieke regeling van de rechtspositie van het personeel, gewijzigd bij het besluit van de Vlaamse Regering van 20 juli 2006, wordt opgeheven.<br /><br />
+...
 
 ### ART. 6.
 
-Dit besluit treedt in werking 10 dagen na de publicatie in het Belgisch Staatsblad <br /><br />
+...
 
 ### ART. 7.
 
-De Vlaamse minister, bevoegd voor de huisvesting, is belast met de uitvoering van dit besluit.<br /><br />
+...
