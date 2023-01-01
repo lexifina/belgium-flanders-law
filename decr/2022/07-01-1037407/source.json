@@ -2,16 +2,16 @@
   "codex_id": 1037407,
   "title": "Decreet van 2022-07-01 tot wijziging van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037407/VolledigDocument?datum=2022-04-29",
-  "source_sha256": "e835fea19b34b0820ef92e7d6039176ad4a1f6f4187732ecf46a199f9e9afe2d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037407/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "a29417b4c80a9304b89286d580360740560d3b1b493b484debd2284bf4fff91e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037407&param=informatie",
-  "as_of": "2022-04-29",
+  "as_of": "2023-01-01",
   "made": "2022-07-01",
   "gazette": "2022-09-16",
   "numac": 2022015510,
   "document_start": "2023-01-01",
   "document_end": null,
-  "in_force": "2022-04-29",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2022-04-29; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-01-01",
+  "article_versions": 33,
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }
