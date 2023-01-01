@@ -38,9 +38,9 @@ Besluit :
 
 ### ART 1.
 
-Het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving stelt de vulgariserende toelichting, vermeld in artikel 10, eerste lid van het Vlaams Woninghuurdecreet, op.<br>
+Het agentschap Wonen in Vlaanderen van het Vlaams Ministerie van Omgeving stelt de vulgariserende toelichting, vermeld in artikel 10, eerste lid van het Vlaams Woninghuurdecreet, op.<br>
 <br>
-Het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving stelt de vulgariserende toelichting ter beschikking via een voor het publiek toegankelijke website van de Vlaamse overheid.
+Het agentschap Wonen in Vlaanderen van het Vlaams Ministerie van Omgeving stelt de vulgariserende toelichting ter beschikking via een voor het publiek toegankelijke website van de Vlaamse overheid.
 
 ### ART 2.
 
@@ -64,9 +64,9 @@ Het modelformulier waarmee de financiële instelling ten aanzien van de verhuurd
 
 ### ART 6.
 
-Het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving stelt de vulgariserende toelichting, vermeld in artikel 55, tweede lid van het Vlaams Woninghuurdecreet, op.<br>
+Het agentschap Wonen in Vlaanderen van het Vlaams Ministerie van Omgeving stelt de vulgariserende toelichting, vermeld in artikel 55, tweede lid van het Vlaams Woninghuurdecreet, op.<br>
 <br>
-Het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving stelt de vulgariserende toelichting ter beschikking via een voor het publiek toegankelijke website van de Vlaamse overheid.
+Het agentschap Wonen in Vlaanderen van het Vlaams Ministerie van Omgeving stelt de vulgariserende toelichting ter beschikking via een voor het publiek toegankelijke website van de Vlaamse overheid.
 
 ### ART 7.
 
