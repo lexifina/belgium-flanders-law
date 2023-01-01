@@ -23,12 +23,289 @@ In artikel 2.1.5.0.1, §1, 3°, van hetzelfde decreet worden de woorden “gehan
 
 In artikel 2.1.5.0.4 van hetzelfde decreet worden de woorden “gehandicapte persoon” vervangen door de woorden “persoon met een handicap”.
 
+### ART 5.
+
+In artikel 2.2.4.0.1, §6, tweede lid, 2°, van hetzelfde decreet, ingevoegd bij het decreet van 3 juli 2015, wordt de tabel vervangen als volgt:<br>
+“
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td colspan="2" style="border-color:#231f20; border-style:solid; border-width:1px; height:20px; text-align:center; vertical-align:top; width:276px"><strong>aantal assen en MMT (in ton)</strong></td>
+			<td colspan="2" style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:1px solid #231f20; height:20px; text-align:center; vertical-align:top; width:276px"><strong>tarief (in euro/jaar)</strong></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:84px; vertical-align:top; width:138px">gelijk aan of meer dan</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:84px; vertical-align:top; width:138px">minder dan</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:84px; vertical-align:top; width:138px">Luchtvering of als gelijkwaardig erkende verig (*) van de aangedreven as(sen)</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:84px; vertical-align:top; width:138px">andere ophangsystemen van de aangedreven as(sen)</td>
+		</tr>
+		<tr>
+			<td colspan="4" style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:551px">2 + 1 assen</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">12</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">14</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">0</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">0</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">14</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">16</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">0</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">0</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">16</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">18</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">0</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">14</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">18</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">20</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">14</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">32</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">20</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">22</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">32</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">75</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">22</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">23</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">75</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">97</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">23</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">25</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">97</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">175</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">25</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">&nbsp;</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">175</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">307</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td colspan="4" style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:1px solid #231f20; height:20px; vertical-align:top; width:551px">2 + 2 assen</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">23</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">25</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">30</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">70</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">25</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">26</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">70</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">115</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">26</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">28</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">115</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">169</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">28</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">29</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">169</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">204</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">29</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">31</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">204</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">335</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">31</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">33</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">335</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">465</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">33</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">36</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">465</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">706</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">36</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">&nbsp;</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">465</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">706</td>
+		</tr>
+		<tr>
+			<td colspan="4" style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:551px">2 + 3 assen</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">36</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">38</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">370</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">515</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">38</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">&nbsp;</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">515</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">700</td>
+		</tr>
+		<tr>
+			<td colspan="4" style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:551px">3 + 2 assen</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">36</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">38</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">327</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">454</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">38</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">40</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">454</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">628</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">40</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">&nbsp;</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">628</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">929</td>
+		</tr>
+		<tr>
+			<td colspan="4" style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:551px">3 + 3 assen</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">36</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">38</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">186</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">225</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">38</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">40</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">225</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">336</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">40</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">&nbsp;</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">336</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">535</td>
+		</tr>
+		<tr>
+			<td colspan="4" style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:551px">andere combinaties dan bovenstaande combinaties aantal assen en MTT</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">0</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">16</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">0</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">0</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">16</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">18</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">0</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">14</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">18</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">20</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">14</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">32</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">20</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">22</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">32</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">75</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">22</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">23</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">75</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">97</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">23</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">25</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">97</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">175</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">25</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">29</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">175</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">307</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">29</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">31</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">204</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">335</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">31</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">33</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">335</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">465</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">33</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">&nbsp;</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">465</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">706</td>
+		</tr>
+		<tr>
+			<td colspan="4" style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:71px; vertical-align:top; width:551px">(*) Als gelijkwaardig erkende vering volgens de definitie in bijlage II bij richtlijn 96/53/EG van de Raad van 25 juli 1996 houdende vaststelling, voor bepaalde aan het verkeer binnen de Gemeenschap deelnemende wegvoertuigen, van de in het nationale en internationale verkeer maximaal toegestane afmetingen, en van de in het internationale verkeer toegestane gewichten (PB L 235 van 17.9.1996, blz. 59).</td>
+		</tr>
+	</tbody>
+</table>
+".
+
+### ART 6.
+
+In artikel 2.2.4.0.2, §1, eerste lid, van hetzelfde decreet, gewijzigd bij de decreten van 16 juni 2017 en 2 april 2021, worden de volgende wijzigingen aangebracht:<br>
+1° de inleidende zin wordt vervangen door wat volgt:<br>
+“In afwijking van artikel 2.2.4.0.1, §1, §2, §2/1, §2/2, §3, §3/1, §3/2, §3/3, §5, §6, §7 en §8, bedraagt de belasting:”;<br>
+2° punt 1° wordt vervangen door wat volgt:<br>
+“1° 90,90 euro voor de voertuigen die bij het ontstaan van de belastingplicht sinds meer dan dertig jaar in het verkeer zijn gebracht;”;<br>
+3° in punt 1/1° wordt voor de woorden “de voertuigen” de zinsnede “90,90 euro voor” ingevoegd;<br>
+4° in punt 2° wordt voor de woorden “de kampeeraanhangwagens” de zinsnede “31,61 euro voor” ingevoegd.
+
 ### ART 7.
 
 In artikel 2.2.4.0.3, eerste lid, van hetzelfde decreet, vervangen bij het decreet van 18 december 2015 en gewijzigd bij het decreet van 16 juni 2017, worden de volgende wijzigingen aangebracht:<br>
 1° de zinsnede “en artikel 2.2.4.0.2, zijn” wordt vervangen door de zinsnede “en artikel 2.2.4.0.2, §1, eerste lid, 2°, en §2, zijn”;<br>
 2° de volgende zin wordt toegevoegd:<br>
 “Voor de toepassing van de indexatie zijn de bedragen, vermeld in artikel 2.2.4.0.2, §1, eerste lid, 1° en 1/1°, de bedragen die gelden alsof ze van toepassing waren op 1 juli 2023.”.
+
+### ART 8.
+
+In artikel 2.3.6.0.1, §1, van hetzelfde decreet, gewijzigd bij het decreet van 26 juni 2020, worden de volgende wijzigingen aangebracht:<br>
+1° aan het eerste lid wordt een punt 6° toegevoegd, dat luidt als volgt:<br>
+“6° de voertuigen die specifiek worden omgebouwd voor het gemeenschappelijk vervoer van rolstoelgebruikers.”;<br>
+2° er wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+“De vrijstelling, vermeld in het eerste lid, 6°, wordt verleend op voorwaarde dat de volgende documenten worden voorgelegd aan het bevoegde personeelslid:<br>
+1° een geldig certificaat van individuele nationale goedkeuring van een voertuig dat is afgeleverd door de bevoegde entiteit van de Vlaamse administratie of een gelijkwaardig certificaat dat is afgeleverd door de bevoegde entiteit van een staat binnen de Europese Economische Ruimte. Uit dat certificaat blijkt dat het voertuig twee of meer voor rolstoelgebruikers toegankelijke plaatsen heeft en omgebouwd is met een bodemverlaging of rolstoelplateaulift;<br>
+2° een schriftelijke verklaring waarin de houder van het voertuig bevestigt dat de verbouwing specifiek heeft plaatsgevonden om rolstoelgebruikers te vervoeren.”.
+
+### ART 9.
+
+In artikel 2.5.3.0.1 van hetzelfde decreet, vervangen bij het decreet van 29 maart 2019 en gewijzigd bij het decreet van 2 april 2021, wordt het tweede lid vervangen door wat volgt:<br>
+<br>
+“Het basisbedrag, vermeld in het eerste lid, wordt met ingang van 1 januari 2022 jaarlijks geïndexeerd op 1 januari met behulp van de coëfficiënt die wordt verkregen door het algemene indexcijfer van de consumptieprijzen van het Rijk voor de maand november van het vorige jaar te delen door het algemene indexcijfer van de consumptieprijzen van het Rijk voor de maand november van het jaar 2020.”.
 
 ### ART 10.
 
