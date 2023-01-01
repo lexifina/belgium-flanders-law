@@ -72,6 +72,10 @@ Door de Vlaamse Regering aangewezen ambtenaren oefenen toezicht uit op de nalevi
 
 ## [HOOFDSTUK V/1. Ondersteuningsbeleid (ing. decr. 16 december 2022, art. 60, I: 1 januari 2023)]
 
+### ART 14/1.
+
+De Vlaamse Regering kan, onder de voorwaarden die ze bepaalt en binnen de perken van de begrotingskredieten, een subsidie verlenen aan een of meer organisaties die ondersteunende of aanvullende dienstverlening bieden op vlak van onder meer methodiekontwikkeling, begeleiding en coaching, deskundigheidstransfer, innovatief optreden, documentaire onderbouw en kennisopbouw, en promotie van het vrijwilligerswerk.
+
 ## HOOFDSTUK VI Slotbepalingen
 
 ### ART. 15.
