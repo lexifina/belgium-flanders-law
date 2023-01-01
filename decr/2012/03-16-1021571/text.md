@@ -322,11 +322,11 @@ De Vlaamse Regering kan steun verlenen aan ondernemingen onder de voorwaarden, v
 
 ### ART. 37/1.
 
-<P>De Vlaamse Regering kan steun verlenen aan ondernemingen onder de   voorwaarden, vermeld in verordening (EU) nr. 1303/2013 van het Europees   Parlement en de Raad van 17 december 2013 houdende gemeenschappelijke bepalingen   inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal   Fonds, het Cohesiefonds, het Europees Landbouwfonds voor plattelandsontwikkeling   en het Europees Fonds voor maritieme zaken en visserij en algemene bepalingen   inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal   Fonds, het Cohesiefonds en het Europees Fonds voor maritieme zaken en visserij,   en tot intrekking van verordening (EG) nr. 1083/2006 van de Raad (de   `gemeenschappelijke structuurfondsenverordening').</P>
+<p>De Vlaamse Regering kan steun verlenen aan ondernemingen onder de voorwaarden, vermeld in verordening (EU) 2021/1060 van het Europees Parlement en de Raad van 24 juni 2021 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds Plus, het Cohesiefonds, het Fonds voor een rechtvaardige transitie en het Europees Fonds voor maritieme zaken, visserij en aquacultuur en de financiële regels voor die fondsen en voor het Fonds voor asiel, migratie en integratie, het Fonds voor interne veiligheid en het Instrument voor financiële steun voor grensbeheer en visumbeleid (de 'gemeenschappelijke structuurfondsen-verordening').&nbsp;</p>
 
 ### ART. 37/2.
 
-De Vlaamse Regering wordt gemachtigd om in uitvoering van de   gemeenschappelijke structuurfondsenverordening, het toezichtscomité op te   richten en de samenstelling en de werking ervan te bepalen.
+De Vlaamse Regering wordt gemachtigd om in uitvoering van de gemeenschappelijke structuurfondsenverordening, het monitoringscomité op te richten en de samenstelling en de werking ervan te bepalen.
 
 ## HOOFDSTUK 13. Europese reglementering
 
