@@ -18,10 +18,12 @@ In deze codex wordt verstaan onder:<br>
 5° bevoegde instantie: de instantie van de Vlaamse administratie die bevoegd is voor de financiën of de begrotingen;<br>
 6° courante uitgaven: de uitgaven voor een bedrag onder de drempel van 30.000 euro (exclusief btw);<br>
 7° dotatie: elke vorm van financiële ondersteuning door een entiteit die tot de Vlaamse deelstaatoverheid behoort, aan het Vlaams Parlement, aan de instellingen die verbonden zijn aan het Vlaams Parlement, aan de autonome diensten met rechtspersoonlijkheid die onder toezicht van het Vlaams Parlement staan, en aan de Vlaamse Gemeenschapscommissie;<br>
+7° /1 ESR-ontvangsten: de ontvangsten van een entiteit van de Vlaamse deelstaatoverheid, volgens de hoofdgroepen nul tot en met negen van de economische classificatie;<br>
+7° /2 ESR-uitgaven: de uitgaven van een entiteit van de Vlaamse deelstaatoverheid, volgens de hoofdgroepen nul tot en met negen van de economische classificatie;<br>
 8° ESR-verordening: verordening (EU) nr. 549/2013 van het Europees Parlement en de Raad van 21 mei 2013 betreffende het Europees systeem van nationale en regionale rekeningen in de Europese Unie;<br>
 9° financieel instrument: elk korte- en langetermijnbeleggingsproduct in gedematerialiseerde vorm;<br>
 10° geconsolideerde rekening: de geconsolideerde rekening van de Vlaamse deelstaatoverheid die conform de ESR-verordening is opgesteld;<br>
-11° gift: elke vorm van overdracht van middelen ten gunste van derden door een entiteit die tot de Vlaamse deelstaatoverheid behoort, en ongeacht de activiteit van algemeen belang die de begunstigde organiseert;<br>
+11° gift: elke vorm van overdracht van middelen ten gunste van derden door een entiteit die tot de Vlaamse deelstaatoverheid behoort, los van enige specifieke waardering of beloning voor geleverde prestaties van die derden en los van een specifieke activiteit van algemeen belang die de begunstigde organiseert;<br>
 12° hogeronderwijsinstelling: een universiteit als vermeld in artikel II.2 van de Codex Hoger Onderwijs van 11 oktober 2013 of een hogeschool als vermeld in artikel II.3 van voormelde codex;<br>
 13° indekkingsproduct: een financieel product of contract dat is gericht op een indekking tegen rente- of wisselkoersrisico's;<br>
 14° inhoudelijk structuurelement: een inhoudelijk zinvolle clustering van kredieten of deelbevoegdheden binnen een programma;<br>
@@ -32,8 +34,8 @@ In deze codex wordt verstaan onder:<br>
 19° lange termijn: een termijn die langer is dan één jaar;<br>
 20° nationaal hervormingsprogramma: het nationale hervormingsprogramma, vermeld in artikel 2-bis, 2, d), van de verordening (EG) nr. 1466/97 van de Raad van 7 juli 1997 over versterking van het toezicht op begrotingssituaties en het toezicht op en de coördinatie van het economisch beleid;<br>
 21° optie: een indekkingsproduct waarbij de verkoper aan de koper het recht verleent om een overeengekomen hoeveelheid van een financieel product of contract te kopen of te verkopen tegen een overeengekomen uitoefenprijs tot of op een overeengekomen datum in de toekomst;<br>
-22° prestatiegeïnformeerd begroten: een vorm van prestatiebegroting waarbij de middelen op een indirecte manier worden gerelateerd aan de verwachte prestaties;<br>
-23° prijs: een vorm van financiële tegemoetkoming ten gunste van derden door een entiteit die tot de Vlaamse deelstaatoverheid behoort, als waardering of beloning voor geleverde prestaties van die derden;<br>
+22° prestatiegeïnformeerd begroten: een vorm van prestatiebegroting waarbij de middelen op een indirecte manier worden gerelateerd aan de verwachte prestaties en de doeltreffendheid en doelmatigheid van het beleid periodiek wordt geëvalueerd;<br>
+23° prijs: een vorm van financiële tegemoetkoming ten gunste van derden door een entiteit die tot de Vlaamse deelstaatoverheid behoort, als waardering of beloning voor geleverde prestaties van die derden en los van een activiteit van algemeen belang die de begunstigde organiseert;<br>
 24° programma: een verzameling van kredieten die zowel vanuit politiek als maatschappelijk oogpunt een herkenbaar samenhangend geheel vormen;<br>
 25° programmadecreet: een normatief decreet tot begeleiding van de begroting of de begrotingsaanpassing;<br>
 26° programmatotaal: de som van de kredieten voor een bepaald programma;<br>
@@ -67,11 +69,11 @@ In deze codex wordt verstaan onder:<br>
 <br>
 § 2. Deze codex is van toepassing op de Vlaamse rechtspersonen.<br>
 <br>
-De Vlaamse rechtspersonen zijn slechts onderworpen aan de bepalingen van deze codex als het totale bedrag van hun ESR-ontvangsten, met inbegrip van kredietaflossingen, vereffeningen van deelnemingen, andere financiële producten en overheidsschuld, of het totale bedrag van hun ESR-uitgaven, met inbegrip van kredietverleningen, deelnemingen en andere financiële producten en overheidsschuld, meer bedraagt dan vijf miljoen euro. Als zowel de ESR-ontvangsten als de ESR-uitgaven vijf miljoen euro of minder bedragen, zijn uitsluitend artikel 42, § 1, tweede lid, 1°, 2° en 4°, artikel 43, de artikelen 60 tot en met 65, hoofdstuk 8, artikel 80, derde lid, en artikel 110 van deze codex van toepassing.<br>
+De Vlaamse rechtspersonen zijn slechts onderworpen aan de bepalingen van deze codex als het totale bedrag van hun ESR-ontvangsten exclusief interne verrichtingen, of het totale bedrag van hun ESR-uitgaven exclusief interne verrichtingen, meer bedraagt dan zeven miljoen euro. Als zowel de ESR-ontvangsten exclusief interne verrichtingen, als de ESR-uitgaven exclusief interne verrichtingen, zeven miljoen euro of minder bedragen, zijn uitsluitend artikel 42, § 1, tweede lid, 1°, 2° en 4°, artikel 43, artikel 60 tot en met 65, hoofdstuk 8, artikel 80, derde lid, en artikel 110 van deze codex van toepassing.<br>
 <br>
 De drempel, vermeld in het tweede lid, wordt voor het eerst beoordeeld in het jaar van de inwerkingtreding van deze codex of op het ogenblik dat een entiteit deel begint uit te maken van de Vlaamse deelstaatoverheid.<br>
 <br>
-Na de eerste beoordeling in het jaar van de inwerkingtreding van deze codex, wordt om de drie jaar opnieuw beoordeeld of een Vlaamse rechtspersoon de drempel, vermeld in het tweede lid, overschrijdt.<br>
+Na de eerste beoordeling in het jaar van de inwerkingtreding van deze codex, wordt om de drie jaar opnieuw beoordeeld of een Vlaamse rechtspersoon de drempel, vermeld in het tweede lid, overschrijdt.&nbsp;De Vlaamse Regering kan die beoordeling voor het verstrijken van de termijn van drie jaar doen als er wijzigingen zijn die een grote impact kunnen hebben op de begroting van de Vlaamse deelstaatoverheid.<br>
 <br>
 De Vlaamse Regering kan beslissen om een Vlaamse rechtspersoon waarvan de ESR-ontvangsten of de ESR-uitgaven de drempel, vermeld in het tweede lid, niet overschrijden, toch te onderwerpen aan de bepalingen van deze codex.<br>
 <br>
@@ -89,7 +91,7 @@ Het Vlaams Parlement bepaalt elk jaar de dotatie voor zijn werking en de werking
 <br>
 Het Vlaams Parlement keurt jaarlijks zijn rekening en de rekening van de instellingen die aan het Vlaams Parlement verbonden zijn goed, na controle ervan door het Rekenhof. De aard en de procedure van deze controle worden nader bepaald in onderling overleg tussen het Vlaams Parlement en het Rekenhof.<br>
 <br>
-Het Vlaams Parlement en de eraan verbonden instellingen bezorgen aan de bevoegde instantie alle informatie die nodig is voor de opmaak van de begroting van de Vlaamse deelstaatoverheid, de meerjarenraming, begrotingsaanpassingen en de geconsolideerde rekening, en voor alle rapporteringsverplichtingen waaraan de entiteiten van de Vlaamse deelstaatoverheid onderworpen worden op grond van internationale, Europese of federale regelgeving.<br>
+Het Vlaams Parlement en de eraan verbonden instellingen bezorgen aan de bevoegde instantie alle informatie die nodig is voor de opmaak van de begroting van de Vlaamse deelstaatoverheid, de meerjarenraming, de begrotingsaanpassing en de geconsolideerde rekening, en voor alle rapporteringsverplichtingen waaraan de entiteiten van de Vlaamse deelstaatoverheid onderworpen worden op grond van internationale, Europese of federale regelgeving.<br>
 <br>
 § 2. In afwijking van artikel 3, § 2, zijn op de autonome diensten met rechtspersoonlijkheid die onder toezicht van het Vlaams Parlement staan alleen artikel 12 tot en met 14, 34 tot en met 36, 38 tot en met 40, 42, 44, 45, en 60 tot en met 65 van toepassing.
 
@@ -108,7 +110,11 @@ Na de eerste beoordeling in 2022, wordt om de drie jaar opnieuw beoordeeld of ee
 
 ### ART 6.
 
-Als ze niet behoren tot de Vlaamse deelstaatoverheid zijn op de publiekrechtelijke vormgegeven extern verzelfstandigde agentschappen, vermeld in artikel I.3, 2°, d), van het Bestuursdecreet van 7 december 2018, en de Vlaamse openbare instellingen, vermeld in artikel I.3, 4°, van het Bestuursdecreet van 7 december 2018, alleen artikel 42, § 1, tweede lid, 1°, 2° en 4°, artikel 43, artikel 60 tot en met 65, hoofdstuk 8, artikel 80, derde lid, en artikel 110 van toepassing.
+Als ze niet behoren tot de Vlaamse deelstaatoverheid zijn op de publiekrechtelijke vormgegeven extern verzelfstandigde agentschappen, vermeld in artikel I.3, 2°, d), van het Bestuursdecreet van 7 december 2018, en de Vlaamse openbare instellingen, vermeld in artikel I.3, 4°, van het Bestuursdecreet van 7 december 2018, alleen artikel 42, § 1, tweede lid, 1°, 2° en 4°, artikel 43, &nbsp;artikel 55 tot en met 67, hoofdstuk 8, artikel 80, derde lid, en artikel 110 van deze codex van toepassing.
+
+### ART 6/1.
+
+Aan entiteiten die niet behoren tot de Vlaamse deelstaatoverheid of aan entiteiten van de Vlaamse deelstaatoverheid die niet onderworpen zijn aan alle bepalingen van deze codex omdat zowel het totale bedrag van hun ESR-ontvangsten exclusief interne verrichtingen als het totale bedrag van hun ESR-uitgaven exclusief interne verrichtingen, zeven miljoen euro of minder bedraagt, kan de Vlaamse Regering informatieverplichtingen opleggen die nodig zijn om te voldoen aan de rapporteringsverplichtingen die de Europese Unie oplegt.
 
 ### ART 7.
 
@@ -116,7 +122,7 @@ Op de website van de bevoegde instantie wordt een geactualiseerd overzicht beken
 
 ### ART 8.
 
-Als een rechtspersoon vóór 1 juli van een bepaald jaar deel uitmaakt van de Vlaamse deelstaatoverheid terwijl dat in het daaraan voorafgaande jaar niet het geval was of in een bepaald jaar de drempel, vermeld in artikel 3, § 2, tweede lid, overschrijdt terwijl dat bij de vorige beoordeling niet het geval was, is hij vanaf de begrotingsopmaak van het daaropvolgende jaar onderworpen aan de regels, vermeld in deze codex.<br>
+Als een rechtspersoon vóór 1 juli van een bepaald jaar deel uitmaakt van de Vlaamse deelstaatoverheid terwijl dat in het daaraan voorafgaande jaar niet het geval was of in een bepaald jaar de drempel, vermeld in artikel 3, § 2, tweede lid of artikel 5, tweede lid, overschrijdt terwijl dat bij de vorige beoordeling niet het geval was, is hij vanaf de begrotingsopmaak van het daaropvolgende jaar onderworpen aan de regels, vermeld in deze codex.<br>
 <br>
 Als een rechtspersoon deel uitmaakt van de Vlaamse deelstaatoverheid vanaf 1 juli van een bepaald jaar terwijl dat in het daaraan voorafgaande jaar niet het geval was, is hij vanaf de begrotingsaanpassing van het daaropvolgende jaar onderworpen aan de regels, vermeld in deze codex.
 
@@ -134,7 +140,15 @@ Met behoud van de toepassing van artikel 6 is een rechtspersoon vanaf het moment
 
 § 1. De Vlaamse Regering legt in het regeerakkoord de begrotingsdoelstellingen vast die ze nastreeft en bepaalt de maatregelen om de jaarlijkse begroting van de Vlaamse deelstaatoverheid op te stellen binnen die begrotingsdoelstellingen.<br>
 <br>
+De Vlaamse Regering organiseert de begroting van de ontvangsten en de uitgaven van de Vlaamse deelstaatoverheid volgens de principes van het prestatiegeinformeerd begroten, in het licht van een meerjarig perspectief. Daarbij worden brede heroverwegingen en uitgaventoetsingen gebruikt. De Vlaamse Regering bepaalt de principes waaraan de brede heroverwegingen en uitgaventoetsingen voldoen.<br>
+<br>
+In het tweede lid wordt verstaan onder:<br>
+1° brede heroverwegingen: omstandige onderzoeken van beleid met een budgettaire impact, gericht op het aanbieden van beleidsopties voor een doelmatiger of doeltreffender beleid om mogelijke beleidskeuzes voor de toekomst van Vlaanderen op langere termijn te onderbouwen;<br>
+2° uitgaventoetsingen: systematische, diepgaande en specifieke onderzoeken van uitgavencategorieën met een substantiële budgettaire impact om bij constant beleid de doeltreffendheid of doelmatigheid van het beleid te verbeteren.<br>
+<br>
 De Vlaamse Regering vertaalt de begrotingsdoelstellingen van de Vlaamse deelstaatoverheid ook in meerjarig perspectief in haar bijdragen aan het stabiliteitsprogramma en aan het nationaal hervormingsprogramma, en vertaalt ze in jaar-perspectief in het ontwerpbegrotingsplan.<br>
+<br>
+De Vlaamse Regering bepaalt de modaliteiten om het criterium van de uitgaven te operationaliseren, aansluitend op het preventieve luik van het stabiliteits- en groeipact.<br>
 <br>
 De Vlaamse Regering dient elk jaar uiterlijk op de laatste vrijdag van maart het ontwerp van Vlaams hervormingsprogramma in bij het Vlaams Parlement. Indien de laatste vrijdag van maart in een recesperiode valt, geldt de laatste vrijdag voor die recesperiode als uiterste datum van indiening.<br>
 <br>
@@ -144,7 +158,7 @@ De Vlaamse Regering dient uiterlijk op 2 oktober voorafgaand aan het begrotingsj
 <br>
 De meerjarenraming heeft betrekking op zes jaar, het lopende jaar inbegrepen. De meerjarenraming vertaalt het constant beleid en de genomen beleidsopties bij de begrotingsopmaak in een indicatief meerjarig budgettair perspectief en geeft een prognose van de evolutie van de begroting voor de entiteiten van de Vlaamse deelstaatoverheid.<br>
 <br>
-De meerjarenraming moet een duidelijk onderscheid maken tussen de prognoses bij constant beleid en de budgettaire gevolgen van het nieuwe beleid. Een afzonderlijk hoofdstuk van de meerjarenraming moet de budgettaire impact weergeven van verbintenissen waarvan de uitvoering de termijn van de meerjarenraming overschrijdt.<br>
+De meerjarenraming maakt een duidelijk onderscheid tussen de prognoses bij constant beleid en de budgettaire gevolgen van het nieuwe beleid. Een afzonderlijk hoofdstuk van de meerjarenraming geeft de budgettaire impact weer van verbintenissen waarvan de uitvoering de termijn van de meerjarenraming overschrijdt.<br>
 <br>
 De meerjarenraming wordt elk jaar naar aanleiding van de begrotingsopmaak geëvalueerd en aangepast aan de gewijzigde omstandigheden. De raming wordt op die manier telkens uitgebreid met een jaar. De meerjarenraming wordt uiterlijk op 28 oktober meegedeeld ter kennisgeving aan het Vlaams Parlement als een aanvullend stuk.
 
@@ -156,19 +170,17 @@ De beleids- en begrotingsinformatie wordt onderverdeeld conform de homogene bele
 <br>
 § 2. De beleids- en begrotingstoelichting wordt opgemaakt bij de aanvang van de zittingsperiode en naar aanleiding van de jaarlijkse begroting.<br>
 <br>
-Bij de aanvang van de zittingsperiode wordt de beleidsinformatie als beleidsnota in dezelfde vorm als de beleids- en begrotingstoelichtingen naar aanleiding van de begrotingsopmaak en -aanpassing opgemaakt met het perspectief van de zittingsperiode.<br>
+Bij de aanvang van de zittingsperiode wordt de beleidsinformatie als beleidsnota in dezelfde vorm als de beleids- en begrotingstoelichting naar aanleiding van de begrotingsopmaak opgemaakt met het perspectief van de zittingsperiode.<br>
 <br>
 Bij de begrotingsopmaak wordt de beleids- en begrotingstoelichting in jaarlijks perspectief opgemaakt. Daarbij worden de beleidsopties die genomen zijn bij een begrotingsopmaak begrotingsmatig vertaald.<br>
 <br>
-Het jaarlijkse perspectief van de beleids- en begrotingstoelichting, vermeld in het derde lid, wordt bij de begrotingsaanpassing geactualiseerd.<br>
-<br>
-In de beleids- en begrotingstoelichting bij de begrotingsaanpassing worden per programma en per inhoudelijk structuurelement de aanwending van de kredieten en de eventuele overgedragen kredieten van het vorige begrotingsjaar vermeld. Bij de begrotingsopmaak en begrotingsaanpassing wordt per programma en per inhoudelijk structuurelement informatie verstrekt over de voorziene aanwending van de overgedragen kredieten van het vorige begrotingsjaar en van de voorziene aanwending van de saldi van de begrotingsfondsen, de Diensten met Afzonderlijk Beheer en de reservefondsen.<br>
+Bij de begrotingsopmaak wordt per programma en per inhoudelijk structuurelement informatie verstrekt over de voorziene aanwending van de overgedragen kredieten van het vorige begrotingsjaar en van de voorziene aanwending van de saldi van de begrotingsfondsen, de Diensten met Afzonderlijk Beheer en de reservefondsen.<br>
 <br>
 § 3. Het Vlaams Parlement bepaalt in zijn reglement welke informatie alleszins in de beleidsnota's en in de beleids- en begrotingstoelichtingen wordt opgenomen.<br>
 <br>
 § 4. De entiteiten van de Vlaamse deelstaatoverheid bezorgen de beleids- en begrotingsinformatie, vermeld in paragraaf 1, conform de regels die de Vlaamse Regering bepaalt. De begrotingsinformatie omvat ook een duidelijke toelichting bij de samenstelling van de beleidskredieten, opgedeeld naar de aard van de ingezette middelen en instrumenten.<br>
 <br>
-§ 5. De begrotingsontwerpen en de bijbehorende beleids- en begrotingstoelichtingen worden vanaf de begrotingsaanpassing 2020 opgesteld volgens de principes van het prestatiegeïnformeerd begroten.
+§ 5. Het ontwerp van begroting en de bijbehorende beleids- en begrotingstoelichting en ook het ontwerp van begrotingsaanpassing worden opgemaakt op basis van prestatie-informatie.
 
 ## Onderafdeling 2. Bepalingen over de jaarlijkse begroting
 
@@ -223,37 +235,37 @@ Op het einde van het begrotingsjaar wordt het niet-aangewende gedeelte van de ui
 
 ### ART 17.
 
-§ 1. De Vlaamse Regering stelt het ontwerp van begroting of begrotingsaanpassing op, alsook de bijbehorende algemene toelichting, beleids- en begrotingstoelichting en, in voorkomend geval, het ontwerp van programmadecreet.<br>
+§ 1. De Vlaamse Regering stelt het ontwerp van begroting op, en ook de bijbehorende algemene toelichting, beleids- en begrotingstoelichting en, in voorkomend geval, het ontwerp van programmadecreet.<br>
 <br>
-§ 2. De Vlaamse Regering dient de initiële begroting en de algemene toelichting in bij het Vlaams Parlement uiterlijk op 21 oktober van het jaar dat aan het begrotingsjaar voorafgaat, en de eerste begrotingsaanpassing en de algemene toelichting uiterlijk op 27 april van het lopende jaar.<br>
+De Vlaamse Regering stelt het ontwerp van begrotingsaanpassing op, en ook de bijbehorende algemene toelichting en, in voorkomend geval, het ontwerp van programmadecreet.<br>
 <br>
-De algemene toelichting, vermeld in het eerste lid, bevat ten minste de volgende elementen:<br>
+De algemene toelichting, vermeld in het eerste en tweede lid, bevat ten minste al de volgende elementen:<br>
 1° een synthese en analyse van het begrotingsbeleid;<br>
 2° een schets van de economische omgeving;<br>
 3° de evolutie van de ontvangsten en de uitgaven op geconsolideerde basis;<br>
-4° de toelichting bij de normnaleving;<br>
-5° de informatie over het financieel beheer en de schuldpositie;<br>
+4° een toelichting bij de normnaleving;<br>
+5° informatie over het financiële beheer en de schuldpositie;<br>
 6° de stand van de uitstaande verplichtingen.<br>
 <br>
 De algemene toelichting plaatst de jaarlijkse begroting in een meerjarig perspectief door ze te situeren ten opzichte van de meerjarenraming, vermeld in artikel 10, § 2.<br>
 <br>
-In voorkomend geval dient de Vlaamse Regering uiterlijk op 28 oktober, respectievelijk op 30 april, het ontwerp van programmadecreet in dat bij de begrotingen, vermeld in het eerste lid, hoort.<br>
+§ 2. De Vlaamse Regering dient de initiële begroting en de bijbehorende algemene toelichting in bij het Vlaams Parlement uiterlijk op 21 oktober van het jaar dat aan het begrotingsjaar voorafgaat, behalve in het jaar van de verkiezing van het Vlaams Parlement.<br>
 <br>
-De beleids- en begrotingstoelichting die hoort bij de begrotingen, vermeld in het eerste lid, wordt uiterlijk op 28 oktober, respectievelijk op 30 april, meegedeeld ter kennisgeving aan het Vlaams Parlement als een aanvullend stuk.<br>
+Behalve in het jaar van de verkiezing van het Vlaams Parlement dient de Vlaamse Regering, in voorkomend geval, uiterlijk op 28 oktober het ontwerp van programmadecreet in dat bij de initiële begroting, vermeld in het eerste lid, hoort.<br>
 <br>
-In afwijking van het eerste, vierde en vijfde lid kan de Vlaamse Regering in het jaar van de verkiezing van het Vlaams Parlement beslissen om het ontwerp van begrotingsaanpassing en de bijbehorende algemene toelichting in te dienen na 27 april, de bijbehorende beleids- en begrotingstoelichting en, in voorkomend geval, het bijbehorende ontwerp van programmadecreet na 30 april.
+Behalve in het jaar van de verkiezing van het Vlaams Parlement wordt de beleids- en begrotingstoelichting die hoort bij de initiële begroting, vermeld in het eerste lid, uiterlijk op 28 oktober van het jaar dat aan het begrotingsjaar voorafgaat, ter kennisgeving meegedeeld aan het Vlaams Parlement als een aanvullend stuk.<br>
+<br>
+Behalve in het jaar van de verkiezing van het Vlaams Parlement, dient de Vlaamse Regering de begrotingsaanpassing, de bijbehorende algemene toelichting en, in voorkomend geval, het ontwerp van programmadecreet, in bij het Vlaams Parlement uiterlijk op 21 mei van het lopende jaar.
 
 ### ART 18.
 
-§ 1. Het Vlaams Parlement keurt de jaarlijkse begroting en de aanpassingen eraan goed bij decreet op het niveau van programmatotalen.<br>
+§ 1. Het Vlaams Parlement keurt de jaarlijkse begroting en de begrotingsaanpassing goed bij decreet op het niveau van programmatotalen.<br>
 <br>
 § 2. Het Vlaams Parlement keurt de initiële begroting goed uiterlijk op 31 december van het jaar dat aan het begrotingsjaar voorafgaat.<br>
 <br>
-Het Vlaams Parlement keurt de eerste aangepaste begroting goed uiterlijk op 30 juni van het lopende jaar.<br>
+Het Vlaams Parlement keurt de begrotingsaanpassing goed uiterlijk op 10 juli van het lopende jaar.<br>
 <br>
-Het Vlaams Parlement keurt de eventuele daaropvolgende aangepaste begrotingen goed uiterlijk op 31 december van het lopende jaar.<br>
-<br>
-In afwijking van het tweede lid keurt het Vlaams Parlement in het jaar van zijn verkiezing de eerste aangepaste begroting goed uiterlijk op 31 december van het lopende jaar.<br>
+In afwijking van het tweede lid keurt het Vlaams Parlement in het jaar van zijn verkiezing de&nbsp;begrotingsaanpassing goed uiterlijk op 31 december van het lopende jaar.<br>
 <br>
 § 3. Via de goedkeuring van de begroting verleent het Vlaams Parlement de machtiging om de ontvangsten en uitgaven te realiseren conform de toepasselijke regelgeving.
 
@@ -295,7 +307,7 @@ Vastleggingskredieten kunnen worden herverdeeld op een van de volgende manieren:
 a) in het jaarlijks goed te keuren uitgavendecreet wordt hiertoe een machtiging verleend;<br>
 b) het vastleggingskrediet vertrekt vanuit een provisioneel krediet.<br>
 <br>
-De herverdelingen, vermeld in het eerste lid, 2°, b), kunnen alleen worden aangewend voor de doelstellingen die worden vermeld in de libellé van het provisioneel krediet en duidelijk worden omschreven in de beleids- en begrotingstoelichting.
+De herverdelingen van vastleggingskredieten binnen een programma of over een programma heen die vertrekken vanuit een provisioneel krediet kunnen alleen worden aangewend voor de doelstellingen die worden vermeld in het libellé van dat provisionele krediet en die duidelijk worden omschreven in de beleids- en begrotingstoelichting.
 
 ### ART 22.
 
@@ -331,15 +343,21 @@ De Vlaamse Regering bezorgt de begrotingen van de Vlaamse rechtspersonen aan het
 
 § 1. De Vlaamse rechtspersonen kunnen hun vastleggings- en vereffeningskredieten herverdelen binnen hun begroting, tenzij het anders bepaald is in het jaarlijks goed te keuren uitgavendecreet.<br>
 <br>
-Als de toelage wordt aangepast naar aanleiding van een herverdeling binnen de begroting van de Vlaamse Gemeenschap of binnen de begroting van een andere Vlaamse rechtspersoon, past de betrokken entiteit haar eigen begroting aan de gewijzigde toelage aan.<br>
+§ 1/1. De Vlaamse rechtspersonen kunnen een aanpassing van hun begroting doorvoeren.<br>
+<br>
+Als de toelage van een Vlaamse rechtspersoon wordt aangepast naar aanleiding van een herverdeling binnen de begroting van de Vlaamse Gemeenschap, past de Vlaamse rechtspersoon haar eigen begroting aan de gewijzigde toelage aan.<br>
+<br>
+Als de toelage aan een Vlaamse rechtspersoon wordt aangepast naar aanleiding van een herverdeling binnen of een aanpassing van de begroting van een dienst met afzonderlijk beheer, past de Vlaamse rechtspersoon haar eigen begroting aan de gewijzigde toelage aan.<br>
+<br>
+Als de toelage aan een Vlaamse rechtspersoon wordt aangepast naar aanleiding van een herverdeling binnen of een aanpassing van de begroting van een andere Vlaamse rechtspersoon, past de Vlaamse rechtspersoon haar eigen begroting aan de gewijzigde toelage aan.<br>
 <br>
 § 2. De Vlaamse rechtspersonen stellen tijdens het begrotingsjaar hun ontvangsten en hun vastleggings- en vereffeningskrediet bij als de oorspronkelijke of aangepaste raming van hun eigen ontvangsten niet meer accuraat is.<br>
 <br>
-§ 3. De herverdelingen en aanpassingen van de begroting van de Vlaamse rechtspersonen die rechtstreeks aan het gezag van de Vlaamse Regering zijn onderworpen, worden voor goedkeuring aan de Vlaamse Regering voorgelegd.<br>
+§ 3. De herverdelingen binnen en de aanpassingen van de begroting van de Vlaamse rechtspersonen die rechtstreeks aan het gezag van de Vlaamse Regering zijn onderworpen, worden voor goedkeuring aan de Vlaamse Regering voorgelegd.<br>
 <br>
-Onverminderd de bevoegdheid van de Vlaamse Regering als toezichthoudende overheid worden de herverdelingen en aanpassingen van de begroting van de Vlaamse rechtspersonen die niet onder de toepassing van het eerste lid vallen, ter kennisgeving bezorgd aan de Vlaamse Regering.<br>
+Onverminderd de bevoegdheid van de Vlaamse Regering als toezichthoudende overheid worden de herverdelingen binnen en de aanpassingen van de begroting van de Vlaamse rechtspersonen die niet onder de toepassing van het eerste lid vallen, ter kennisgeving bezorgd aan de Vlaamse Regering.<br>
 <br>
-De Vlaamse Regering bepaalt de procedurele vereisten voor de herverdelingen en de aanpassingen aan de begrotingen.<br>
+De Vlaamse Regering bepaalt de procedurele vereisten voor de herverdelingen binnen en de aanpassingen aan de begrotingen, vermeld in het eerste en tweede lid.<br>
 <br>
 De herverdelingsbesluiten en de besluiten tot aanpassing van de begroting van de Vlaamse rechtspersonen die rechtstreeks aan het gezag van de Vlaamse Regering zijn onderworpen, hebben slechts uitwerking nadat ze op de website van de bevoegde instantie zijn bekendgemaakt. De bekendmaking wordt ter kennis-geving meegedeeld aan het Rekenhof en het Vlaams Parlement.
 
@@ -385,7 +403,11 @@ Een boekjaar begint op 1 januari en eindigt op 31 december daaropvolgend.
 <br>
 Een verbintenis wordt vastgelegd zodra aan de voorwaarden, vermeld in het eerste lid, is voldaan. De verbintenis wordt vastgelegd voor het totale bedrag van de verplichtingen die eruit voortvloeien, ongeacht de uitvoeringstermijn.<br>
 <br>
-In afwijking van het tweede lid kunnen bepaalde subsidies waarbij de ontvanger jaarlijks automatisch de subsidie volgens bepaalde parameters ontvangt, jaarlijks worden vastgelegd. Die jaarlijkse vastlegging is alleen mogelijk als dat wordt toegelaten in het uitgavendecreet.<br>
+In afwijking van het tweede lid kunnen bepaalde subsidies waarbij de ontvanger jaarlijks automatisch de subsidie volgens bepaalde parameters ontvangt, jaarlijks worden vastgelegd. Die jaarlijkse vastlegging is alleen mogelijk als dat wordt toegelaten in het uitgavendecreet.&nbsp;Een subsidie kan alleen als automatische subsidie worden opgenomen in het uitgavendecreet als cumulatief aan de volgende voorwaarden is voldaan:<br>
+1° de toekenning van de subsidie en de procedure daarvoor hebben een rechtsgrond in een ander decreet dan het decreet houdende de uitgavenbegroting of in een uitvoeringsbesluit daarvan;<br>
+2° het decreet of een uitvoeringsbesluit daarvan, vermeld in punt 1°, legt de modaliteiten vast om de subsidie toe te kennen. Het voldoen aan die modaliteiten creëert een recht op de subsidie waarvan niet kan worden afgeweken;<br>
+3° de subsidieverstrekker heeft een engagement ten aanzien van de begunstigde om gedurende meerdere jaren een subsidie toe te kennen, los van de vereffeningskalender;<br>
+4° de eerste toekenning van de subsidie wordt beoordeeld op basis van objectieve parameters. Er volgt nadien geen verdere subjectieve beoordeling meer die de toekenning van de subsidie kan beïnvloeden.<br>
 <br>
 In afwijking van het tweede lid worden werkingsuitgaven met voorwaardelijke meerjarige gevolgen alleen vastgelegd ten belope van de uitgaven die opeisbaar worden tijdens het begrotingsjaar.<br>
 <br>
@@ -417,7 +439,7 @@ De Vlaamse Regering kan nadere regels uitvaardigen voor de aanrekening van ontva
 
 Vastleggingen zijn overdraagbaar voor de periode waarin de onderliggende verbintenis loopt.<br>
 <br>
-Als de vastlegging evenwel betrekking heeft op een verbintenis waarvan de identiteit van de schuldeiser of het bedrag van de verbintenis niet bepaald is maar alleen bepaalbaar, kan ze maar één jaar worden overgedragen.<br>
+Als de vastlegging evenwel betrekking heeft op een verbintenis waarvan de identiteit van de schuldeiser of het bedrag van de verbintenis niet bepaald is maar alleen bepaalbaar, kan ze maar één jaar worden overgedragen, behalve in geval van onteigeningen.<br>
 <br>
 Een vastlegging wordt geannuleerd als er geen verplichting meer uit kan ontstaan en uiterlijk na acht jaar, tenzij de onderliggende verbintenis nog in uitvoering is. De Vlaamse Regering bepaalt de modaliteiten om de vastleggingen te annuleren.
 
@@ -450,6 +472,12 @@ De rekening omvat de volgende elementen:<br>
 4° een toelichting bij de balans en de resultatenrekening;<br>
 5° een rapportering die toelaat te voldoen aan de rapporteringsverplichtingen die de Europese Unie heeft opgelegd;<br>
 6° een rapportering die de aansluiting bevat tussen de balans en resultatenrekening, vermeld in punt 1° en 2°, de rapportering over de uitvoering van de begroting, vermeld in punt 3°, en de rapportering, vermeld in punt 5°.<br>
+<br>
+De rekening, vermeld in het eerste lid, wordt opgesteld met toepassing van de principes van het prestatiegeïnformeerd begroten.<br>
+<br>
+§ 1/1. De Vlaamse Regering rapporteert over de overheidsinvesteringen van de Vlaamse deelstaatsoverheid via het ontwerp van het decreet dat de rekening, vermeld in paragraaf 1, eerste lid, bevat.<br>
+<br>
+De invulling van de definitie van de overheidsinvesteringen, vermeld in het eerste lid, gebeurt op voorstel van de Vlaamse Regering en houdt rekening met de internationale rapporteringsregels over overheidsinvesteringen.<br>
 <br>
 § 2. De rekeningen worden bekendgemaakt op de website van de bevoegde instantie.<br>
 <br>
@@ -489,7 +517,7 @@ De Vlaamse Regering voegt de geconsolideerde rekening van de Vlaamse deelstaatov
 
 ### ART 47.
 
-Het Vlaams Parlement keurt de rekening goed bij decreet uiterlijk op 21 juli van het jaar dat volgt op het boekjaar.
+Het Vlaams Parlement keurt de rekening goed bij decreet uiterlijk op 21 oktober van het jaar dat volgt op het boekjaar.
 
 ## Afdeling 3. Specifieke bepaling voor de Vlaamse rechtspersonen
 
@@ -510,7 +538,7 @@ De Vlaamse Regering bezorgt de rekeningen van de Vlaamse rechtspersonen aan het 
 ### ART 50.
 
 In dit hoofdstuk wordt verstaan onder controleactoren:<br>
-1° de Vlaamse minister, bevoegd voor de financiën en de begrotingen;<br>
+1° de Vlaamse minister, bevoegd voor het budgettair beleid;<br>
 2° de Inspectie van Financiën;<br>
 3° de regeringscommissaris;<br>
 4° het Rekenhof;<br>
@@ -562,7 +590,7 @@ De Vlaamse rechtspersoon waarbij de regeringscommissaris is aangesteld, bezorgt 
 <br>
 Voor de uitvoering van zijn opdracht heeft de regeringscommissaris toegang tot alle dossiers en alle archieven van de Vlaamse rechtspersoon waarbij hij is aangesteld.<br>
 <br>
-§ 2. Als er geen regeringscommissaris is aangesteld op voordracht van de Vlaamse minister, bevoegd voor de financiën en de begrotingen, worden de begrotings- en beheerscontrole en de rapportering uitgevoerd door de regeringscommissaris die aangesteld is door de inhoudelijk bevoegde minister.
+§ 2. Als er geen regeringscommissaris is aangesteld op voordracht van de Vlaamse minister, bevoegd voor het budgettair beleid, worden de begrotings- en beheerscontrole en de rapportering uitgevoerd door de regeringscommissaris die aangesteld is door de inhoudelijk bevoegde minister.
 
 ## Onderafdeling 4. De bedrijfsrevisor
 
@@ -604,11 +632,13 @@ De Vlaamse Regering bezorgt de stukken die ze krachtens deze codex aan het Vlaam
 
 ### ART 61.
 
-Het Rekenhof adviseert het Vlaams Parlement over de meerjarenraming, over de ontwerpen van begroting en begrotingsaanpassing en de bijbehorende beleids- en begrotingstoelichting alsook over de toekenning van voorlopige uitgavenkredieten, vermeld in artikel 19.
+Het Rekenhof adviseert het Vlaams Parlement over de meerjarenraming, over het ontwerp van begroting en de bijbehorende beleids- en begrotingstoelichting, over de begrotingsaanpassing alsook over de toekenning van voorlopige uitgavenkredieten, vermeld in artikel 19.
 
 ### ART 62.
 
-Het Rekenhof oefent over elke entiteit van de Vlaamse deelstaatoverheid op budgettair en boekhoudkundig vlak een informatieopdracht uit voor het Vlaams Parlement. Het heeft daarbij toegang tot de budgettaire aanrekeningen en de boekhoudkundige verrichtingen.
+Het Rekenhof oefent over elke entiteit van de Vlaamse deelstaatoverheid op budgettair en boekhoudkundig vlak een informatieopdracht uit voor het Vlaams Parlement. Het heeft daarbij toegang tot de budgettaire aanrekeningen en de boekhoudkundige verrichtingen.<br>
+<br>
+De toegang van het Rekenhof, vermeld in het eerste lid, wordt digitaal verleend. Als de informatie waartoe toegang wordt verleend niet digitaal bestaat, wordt ze eerst gedigitaliseerd om de toegang ertoe te verlenen.
 
 ### ART 63.
 
@@ -616,7 +646,7 @@ Het Rekenhof is voor elke entiteit van de Vlaamse deelstaatoverheid belast met e
 <br>
 Het Rekenhof onderzoekt de wettigheid en de regelmatigheid van de uitgaven en de ontvangsten.<br>
 <br>
-Het Rekenhof kan de aanwending van subsidies ter plaatse controleren bij de gesubsidieerde of bij de persoon aan wie de gesubsidieerde de subsidie heeft doorgegeven om het doel te verwezenlijken waarvoor de subsidie is toegekend.
+Het Rekenhof kan de aanwending van overheidsmiddelen ter plaatse controleren bij de ontvanger van die middelen, of bij de persoon aan wie de ontvanger de overheidsmiddelen heeft doorgegeven om het doel te verwezenlijken waarvoor de overheidsmiddelen zijn toegekend.
 
 ### ART 64.
 
@@ -701,13 +731,95 @@ Begunstigden kunnen voor de realisatie van een activiteit een samenwerkingsverba
 
 Een subsidie kan alleen worden toegekend door of krachtens een wet of decreet.
 
+### ART 74/1.
+
+De toekenning van een subsidie gaat de activiteit waarop de subsidie betrekking heeft vooraf, tenzij daarvan uitdrukkelijk bij decreet of reglementaire bepaling wordt afgeweken in het subsidiekader, vermeld in artikel 76/2, eerste lid.<br>
+<br>
+In afwijking van het eerste lid wordt een jaarlijks terugkerende subsidie uiterlijk toegekend in de loop van de eerste vier maanden van de periode waarop de subsidie betrekking heeft, tenzij de Vlaamse Regering een andersluidende beslissing neemt.<br>
+<br>
+In het tweede lid wordt verstaan onder een jaarlijks terugkerende subsidie: een subsidie met dezelfde begunstigde en dezelfde effecten als een subsidie die in het vorige jaar is toegekend of verstrekt.<br>
+<br>
+Als de subsidieaanvraag betrekking heeft op een activiteit die al loopt, kan de toekenning van een subsidie ten vroegste uitwerking hebben vanaf de datum waarop de subsidieaanvraag is ontvangen door de subsidieverstrekker.<br>
+<br>
+Dit artikel is niet van toepassing op toelagen.
+
 ### ART 75.
 
+Tenzij het anders is bepaald in een decreet of een reglementaire bepaling, wordt de financiële afrekening van een subsidie verricht op basis van de kosten die betrekking hebben op de gesubsidieerde activiteit.<br>
+<br>
+Als de subsidieontvanger een kostenraming voor de gesubsidieerde activiteit heeft voorgelegd en voor zover de subsidie de subsidiabele kosten overtreft, kan een reserve ten laste van de subsidie worden aangelegd.<br>
+<br>
+In geen geval kan een reserve worden aangelegd ten laste van een subsidie met alleen een rechtsgrond in het decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap.<br>
+<br>
+Het eerste tot en met het derde lid zijn niet van toepassing op toelagen.<br>
+<br>
 De Vlaamse Regering stelt de regels vast voor de reservevorming en de procedure voor de ex-ante- en ex-postcontrole op de aanwending van de subsidies. Ze kan daarbij ook regels bepalen om belangenvermenging tegen te gaan bij de aanwending of toekenning van subsidies.
 
 ### ART 76.
 
-Artikel 11 tot en met 14 van de Algemenebepalingenwet zijn van toepassing op subsidies die verleend zijn door een entiteit van de Vlaamse deelstaatoverheid of door een andere rechtspersoon, die rechtstreeks of onrechtstreeks van de Vlaamse Gemeenschap een subsidie krijgt.
+Artikel 11 tot en met 14 van de Algemenebepalingenwet zijn van toepassing op subsidies die verleend zijn door een entiteit van de Vlaamse deelstaatoverheid of door een andere rechtspersoon, die rechtstreeks of onrechtstreeks van de Vlaamse Gemeenschap een subsidie krijgt.<br>
+<br>
+Met behoud van de toepassing van artikel 13 van de Algemenebepalingenwet is gehouden tot onmiddellijke terugbetaling van de subsidie de subsidieontvanger:<br>
+1° die de voorwaarden niet naleeft waaronder de subsidie werd verleend;<br>
+2° die de subsidie niet aanwendt voor de doelstellingen waarvoor zij werd verleend;<br>
+3° die de in artikel 76/3 bedoelde controle verhindert;<br>
+4° die al een subsidie ontvangt met dezelfde effecten op basis van dezelfde verantwoordingsstukken.<br>
+<br>
+Het tweede lid, 4°, staat cofinanciering niet in de weg waarbij verschillende actoren elk een deel van de totale kost financieren.<br>
+<br>
+Er is geen verantwoording vereist, noch functioneel noch financieel, over het gebruik van statutaire lidmaatschapsbijdragen door de entiteiten van de Vlaamse deelstaatoverheid aan intergewestelijke, intercommunautaire, nationale of internationale organisaties, tenzij het anders is bepaald bij het aangaan van het lidmaatschap.
+
+### ART 76/1.
+
+§ 1. Een subsidie wordt na een periode van vijf jaar onderworpen aan een beleidsevaluatie door het inhoudelijk bevoegde beleidsdomein. Op basis van die beleidsevaluatie is er een uitdrukkelijke goedkeuring door de Vlaamse Regering nodig om de subsidie verder te zetten of bij te stellen. Een afwijkende evaluatieperiode is mogelijk voor subsidies waarvoor de Vlaamse Regering een bepaalde duur, andere dan vijf jaar, heeft vastgelegd.<br>
+<br>
+Het eerste lid is niet van toepassing op de automatische subsidies, vermeld in artikel 34, § 1, derde lid.<br>
+<br>
+§ 2. Elk subsidiekader, vermeld in artikel 76/2, eerste lid, wordt per periode van vijf jaar minstens een keer onderworpen aan een beleidsevaluatie.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt de nadere regels voor de beleidsevaluatie, vermeld in paragraaf 1, eerste lid, en paragraaf 2.<br>
+<br>
+§ 4. In afwijking van paragraaf 1, eerste lid, en paragraaf 2 stemt de periode overeen met de periode, vermeld in artikel 5, eerste lid, van het decreet van 22 december 2017 over het lokaal bestuur, voor de subsidies aan lokale besturen die geen algemene financiering uitmaken.<br>
+<br>
+Als er in supranationale of internationale regelgeving al een beleidsevaluatie als vermeld in paragraaf 1, eerste lid, en paragraaf 2 voorzien is, kan de Vlaamse Regering afwijken van de periode van vijf jaar, vermeld in paragraaf 1, eerste lid, en paragraaf 2.<br>
+<br>
+§ 5. Dit artikel is niet van toepassing op de algemene financiering van de lokale besturen en op toelagen.<br>
+<br>
+§ 6. Als de Vlaamse Regering in uitvoering van dit artikel optreedt in aangelegenheden die voorbehouden zijn aan de decreetgever dan legt de Vlaamse Regering het besluit ter bekrachtiging voor aan het Vlaams Parlement, ten laatste zes maanden na de goedkeuring van dit besluit.<br>
+<br>
+De termijn, vermeld in het eerste lid, wordt opgeschort tijdens het parlementaire reces en bij de ontbinding van het Vlaams Parlement.
+
+### ART 76/2.
+
+Uiterlijk bij de toekenning van een subsidie wordt door de subsidieverstrekker een duidelijk subsidiekader bepaald dat minimaal al de volgende elementen bevat:<br>
+1° de doelstelling en de effecten die met de subsidieverstrekking worden nagestreefd;<br>
+2° de beschrijving en de duurtijd van de activiteit van algemeen belang waarvoor de subsidie wordt toegekend;<br>
+3° de indicatoren die toelaten om bij de beleidsevaluatie de subsidie inhoudelijk en financieel te evalueren;<br>
+4° het bedrag van de subsidie of de wijze waarop dat bedrag wordt bepaald;<br>
+5° de categorieën van subsidiabele en niet-subsidiabele kosten;<br>
+6° de subsidieontvanger of de wijze waarop de subsidieontvanger wordt bepaald;<br>
+7° de voorwaarden waaraan de subsidieontvanger moet voldoen;<br>
+8° de voorwaarden waaronder de subsidie wordt verleend of kan worden verleend;<br>
+9° de rechten en plichten van de subsidieontvanger en van de subsidiërende overheid, waaronder ook het engagement van de subsidieontvanger om het belang van het gebruik van het Nederlands te erkennen bij de uitvoering van de gesubsidieerde activiteiten;<br>
+10° de voorwaarden waaronder de subsidie kan worden gewijzigd of ingetrokken;<br>
+11° de wijze en, in voorkomend geval, de periodiciteit van de uitbetaling van de subsidie;<br>
+12° de inhoudelijke en financiële verantwoording over het gebruik van de subsidie, die de subsidieontvanger moet voorleggen;<br>
+13° de openbaarmaking van de resultaten van de gesubsidieerde activiteiten.<br>
+<br>
+Als een subsidie wordt toegekend in het kader van een oproep tot subsidieaanvragen, bevat de oproep, met behoud van de toepassing van het eerste lid, minimaal al de volgende elementen:<br>
+1° de selectieprocedure, met inbegrip van de ontvankelijkheidscriteria, de beoordelingscriteria en de timing voor het indienen van de voorstellen;<br>
+2° de openbaarmaking van de geselecteerde projecten;<br>
+3° de grootte van het krediet dat beschikbaar is om de oproep tot subsidieaanvragen te financieren.<br>
+<br>
+De Vlaamse Regering kan de elementen, vermeld in het eerste en tweede lid, verfijnen en aanvullen.<br>
+<br>
+Als de Vlaamse Regering in uitvoering van dit artikel optreedt in aangelegenheden die voorbehouden zijn aan de decreetgever dan legt de Vlaamse Regering het besluit ter bekrachtiging voor aan het Vlaams Parlement, ten laatste zes maanden na de goedkeuring van dit besluit. Die termijn wordt opgeschort tijdens het parlementaire reces en bij de ontbinding van het Vlaams Parlement.<br>
+<br>
+Dit artikel is niet van toepassing op de algemene financiering van de lokale besturen en de toelagen.
+
+### ART 76/3.
+
+De Inspectie van Financiën of andere controlediensten die daarvoor worden aangewezen, kunnen zich tijdens een onderzoek bij een subsidieontvanger naar de aanwending van een subsidie altijd alle documenten en inlichtingen, van welke aard ook, die ze relevant achten voor dit onderzoek, laten verstrekken door de subsidieontvanger.
 
 ## HOOFDSTUK 9. Giften en prijzen
 
