@@ -127,12 +127,7 @@ b) het toekennen van vrijstellingen van beschikbaarheid voor de arbeidsmarkt voo
 <br>
 8° taken met betrekking tot wijk-werken als vermeld in artikel 16 van het Wijk-werkendecreet van 7 juli 2017;<br>
 <br>
-9° met betrekking tot jongeren die niet ingeschreven zijn als werkzoekende, heeft de VDAB de taak om te voorzien in een passend aanbod voor jongeren die voldoen aan de volgende voorwaarden :<br>
-a) ze zijn jonger dan 25 jaar;<br>
-b) ze hebben het onderwijs verlaten en beschikken niet over een diploma of getuigschrift;<br>
-c) ze volgen geen opleiding;<br>
-d) ze verrichten geen beroepsarbeid of zelfstandige activiteit.<br>
-De Vlaamse Regering bepaalt, na advies van de raad van bestuur, wat onder passend aanbod en diploma of getuigschrift moet worden verstaan.<br>
+9° ....<br>
 <br>
 10° de VDAB is bevoegd voor de controle op de openbare centra voor maatschappelijk welzijn wat betreft de toekenning en aanwending van toelagen voor tewerkstelling in het kader van artikel 57quater, 60, § 7, en 61 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn. De VDAB is ook bevoegd om de ten onrechte toegekende toelagen terug te vorderen van de openbare centra voor maatschappelijk welzijn.<br>
 <br>
