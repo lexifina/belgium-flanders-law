@@ -63,11 +63,7 @@ De producent van hop vernietigt elk jaar voor 1 juli de mannelijke hopplanten op
 
 ### ART. 10.
 
-In het kader van de certificering, en in het bijzonder voor de controle ter plaatse op de voorwaarden, vermeld in artikel 4, 6, 9, 11, 13, 14, 16 en 20 van de verordening (EG) nr. 1850/2006, betaalt de aanvrager een retributie aan het Vlaams Landbouwfonds van 30 euro per verplaatsing, ongeacht het aantal certificeringen dat op die plaats wordt verricht.<br>
-<br>
-Op 1 juli van het jaar (x) wordt het bedrag van de retributie, vermeld in het eerste lid, met 5 % verhoogd als het indexcijfer van de consumptieprijzen in minstens een van de maanden van het jaar ervoor (x-1) met 5 % of een veelvoud van 5% is gestegen ten opzichte van het basisindexcijfer. Het basisindexcijfer is het indexcijfer van de consumptieprijzen van juli 2017.<br>
-<br>
-De aanvrager stort de verschuldigde retributie op de rekening van het Vlaams Landbouwfonds binnen dertig kalenderdagen na de verzending van de factuur.
+...
 
 ### ART. 11.
 
