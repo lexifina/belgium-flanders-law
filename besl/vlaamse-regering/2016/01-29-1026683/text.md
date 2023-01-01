@@ -24,13 +24,15 @@ In dit besluit wordt verstaan onder :<br>
 11/1° studeren:<br>
 a) ingeschreven als regelmatige leerling in het secundair onderwijs, als vermeld in artikel 3, 37°, van de Codex Secundair Onderwijs van 17 december 2010;<br>
 b) een voltijds studietraject als vermeld in artikel 5, 42°, van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap;<br>
-c) een diplomagerichte opleiding in het secundair volwassenenonderwijs als vermeld in bijlage IX van het besluit van de Vlaamse Regering van 19 juli 2007 betreffende de studiebekrachtiging in het volwassenenonderwijs;<br>
+c) een opleiding in het secundair volwassenenonderwijs die leidt naar een diploma secundair onderwijs als vermeld in artikel 41, §4, 1° en 2°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
 d) een hogere beroepsopleiding als vermeld in artikel I.3, 33/1°, en artikel II.58 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
 e) een voltijdse dagopleiding, georganiseerd door Syntra vzw;<br>
 f) competentieontwikkeling, zoals bedoeld in artikel 61 van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding;<br>
 g) een opleiding, studie of stage waarvoor VDAB een vrijstelling van beschikbaarheid of een toelating verleende op basis van Titel III/1, Hoofdstuk 2, Afdeling 1 van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding;<br>
 h) intensieve begeleiding naar werk bij VDAB of partnerorganisaties van VDAB, zoals bedoeld in artikel 36 van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en beroepsopleiding;<br>
 i) voltijdse beroepsopleiding erkend door Actiris als opleiding in het kader van een traject naar werk;<br>
+j) een intensieve opleiding in de basiseducatie als vermeld in artikel 6, 2° en 4° tot en met 7°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
+k) minstens zestien uur per week een opleiding volgen van de studiegebieden Nederlands tweede taal richtgraad 2, richtgraad 3 of richtgraad 4, vermeld in het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
 12° vaststellingsformulier : het document dat het EVA via de Kruispuntbank Inburgering ter beschikking stelt om de inbreuken, vermeld in artikel 33, § 1, eerste lid, te melden aan de handhavingsambtenaar, de VDAB of het OCMW, naargelang het geval;<br>
 13° werkdag : elke kalenderdag met uitzondering van zaterdagen, zondagen en wettelijke feestdagen.
 
@@ -168,7 +170,7 @@ Het   EVA is verantwoordelijk voor de terbeschikkingstelling, de aanpassing en h
 
 ### ART 11/1.
 
-De inburgeraar die al een inburgeringsattest heeft behaald dat is uitgereikt door de Duitstalige Gemeenschap, de Franstalige Gemeenschap, de Franse Gemeenschapscommissie of de Gemeenschappelijke Gemeenschapscommissie, wordt vrijgesteld voor de gemeenschappelijke delen van het vormingspakket maatschappelijke oriëntatie, vermeld in artikel 29, § 1, tweede lid, 1°, van het decreet van 7 juni 2013.
+...
 
 ### ART. 12.
 
@@ -234,7 +236,7 @@ Behalve in het geval van het verkrijgen van een vrijstelling van de verplichting
 <p>Het EVA of het stedelijk EVA informeert het agentschap in de volgende gevallen over de verplichte inburgeraar, vermeld in het eerste lid :<br>
 1° hij heeft het attest van inburgering behaald;<br>
 2° ..;<br>
-3° hij heeft een inbreuk gepleegd als vermeld in artikel 33, § 1, eerste lid, 1° tot en met 4°, van dit besluit.</p>
+3° hij heeft een inbreuk gepleegd als vermeld in artikel 33, § 1, eerste lid, 1° tot en met 4°/1, van dit besluit.</p>
 
 ### ART. 17.
 
@@ -256,7 +258,7 @@ Behalve in het geval van het verkrijgen van een vrijstelling van de verplichting
 
 <p>§ 1. De verplichte inburgeraar die werkt of studeert krijgt uitstel van aanmelding of uitstel van ondertekening van het inburgeringscontract bij het EVA of het stedelijk EVA als hij kan bewijzen dat hij niet in staat is om zijn werk of opleiding te combineren met het volgen van een inburgeringstraject. Hij bezorgt het bewijs binnen twintig werkdagen na de aanvraag tot uitstel aan het EVA of het stedelijk EVA. Hij moet dat bewijs om de zes maanden opnieuw voorleggen.</p>
 
-<p>§ 2. De verplichte inburgeraar krijgt uitstel van aanmelding bij het EVA of het stedelijk EVA als hij om medische of persoonlijke redenen tijdelijk in de onmogelijkheid verkeert om te voldoen aan de plicht tot tijdige aanmelding, vermeld in artikel 27, § 3, eerste lid, 1°, van het decreet van 7 juni 2013.</p>
+<p>§ 2. De verplichte inburgeraar krijgt uitstel van aanmelding bij het EVA of het stedelijk EVA als hij om medische of persoonlijke redenen tijdelijk in de onmogelijkheid verkeert om te voldoen aan de plicht tot tijdige aanmelding, vermeld in artikel 27, § 3, eerste lid, 1°, van het decreet van 7 juni 2013.&nbsp;In afwijking van het derde lid, is de persoonlijke reden, vermeld in het derde lid, 2°, c), niet van toepassing voor uitstel van aanmelding.</p>
 
 <p>De verplichte inburgeraar krijgt uitstel van ondertekening van het inburgeringscontract als hij om medische of persoonlijke redenen, na aanmelding, tijdelijk in de onmogelijkheid verkeert om het inburgeringstraject aan te vatten.</p>
 
@@ -264,7 +266,8 @@ Behalve in het geval van het verkrijgen van een vrijstelling van de verplichting
 1° medische redenen : een ziekte of een tijdelijk verblijf in het buitenland om medische redenen, gestaafd door een medisch attest. Op het medisch attest wordt de periode van uitstel vermeld. Het medisch attest wordt binnen twintig werkdagen na de aanvraag tot uitstel aan het EVA of het stedelijk EVA bezorgd;<br>
 2° persoonlijke redenen : de verplichte inburgeraar bevindt zich in een van de volgende situaties :<br>
 a) hij of de partner met wie hij getrouwd is of samenwoont, werkt of studeert in het buitenland, waardoor hij tijdelijk in de onmogelijkheid verkeert ofwel om te voldoen aan de plicht tot tijdige aanmelding ofwel om het inburgeringstraject aan te vatten. Het bewijs daarvan wordt binnen twintig werkdagen na de aanvraag tot uitstel aan het EVA of het stedelijk EVA bezorgd. Het uitstel wordt verleend voor maximaal één jaar en kan verlengd worden voor telkens maximaal één jaar;<br>
-b) de inburgeraar is tijdelijk afwezig als vermeld in artikel 18 van het koninklijk besluit van 16 juli 1992 betreffende de bevolkingsregisters en het vreemdelingenregister, waardoor hij tijdelijk in de onmogelijkheid verkeert ofwel om te voldoen aan de plicht tot tijdige aanmelding ofwel om het inburgeringstraject aan te vatten. Het uitstel wordt verleend voor maximaal één jaar en kan verlengd worden voor telkens maximaal één jaar.</p>
+b) de inburgeraar is tijdelijk afwezig als vermeld in artikel 18 van het koninklijk besluit van 16 juli 1992 betreffende de bevolkingsregisters en het vreemdelingenregister, waardoor hij tijdelijk in de onmogelijkheid verkeert ofwel om te voldoen aan de plicht tot tijdige aanmelding ofwel om het inburgeringstraject aan te vatten. Het uitstel wordt verleend voor maximaal één jaar en kan verlengd worden voor telkens maximaal één jaar.<br>
+c) er ontbreekt een passend aanbod voor minimaal een van de twee vormingspakketten, vermeld in artikel 29, § 1, tweede lid, 1° en 2°, van het decreet van 7 juni 2013, waardoor de inburgeraar tijdelijk in de onmogelijkheid verkeert om het inburgeringstraject aan te vatten. Het uitstel wordt verleend voor maximaal drie maanden en kan verlengd worden voor telkens maximaal drie maanden.</p>
 
 <p>De minister kan de redenen, vermeld in het derde lid, beperken of uitbreiden.</p>
 
@@ -303,14 +306,14 @@ Als de verplichte inburgeraar zich niet heeft aangemeld overeenkomstig het derde
 <p>In het eerste lid wordt verstaan onder persoonlijke redenen : de inburgeraar bevindt zich in een van de volgende situaties waardoor hij tijdelijk zijn inburgeringstraject moet onderbreken. De bewijzen daarvan, vermeld in punt 2° tot en met 8°, worden binnen twintig werkdagen na de aanvraag tot opschorting aan het EVA of het stedelijk EVA bezorgd :<br>
 1° de inburgeraar is tijdelijk afwezig als vermeld in artikel 18 van het koninklijk besluit van 16 juli 1992 betreffende de bevolkingsregisters en het vreemdelingenregister, waardoor hij tijdelijk zijn inburgeringstraject moet onderbreken. De opschorting wordt verleend voor maximaal één jaar en kan verlengd worden voor telkens maximaal één jaar;<br>
 2° de inburgeraar kan bewijzen dat hij of de partner met wie hij getrouwd is of samenwoont, werkt of studeert in het buitenland. De opschorting wordt verleend voor maximaal één jaar en kan verlengd worden voor telkens maximaal één jaar;<br>
-3° de inburgeraar kan bewijzen dat hij om de volgende redenen naar het buitenland gaat. De opschorting wordt verleend uiterlijk tot de volgende startdatum van het vormingspakket of een module daarvan :<br>
+3° de inburgeraar kan bewijzen dat hij om de volgende redenen naar het buitenland gaat. De opschorting wordt verleend&nbsp;voor maximaal zes maanden en kan verlengd worden voor telkens maximaal zes maanden :<br>
 a) hij is pas ouder geworden;<br>
 b) hij treedt in het huwelijk of legt een verklaring van wettelijke samenwoning af;<br>
 c) een familielid van de inburgeraar of zijn partner is overleden;<br>
 4° de inburgeraar verstrekt bijstand of verzorging of palliatieve zorgen aan een familielid of inwonende persoon. Hij moet aan het EVA of het stedelijk EVA een attest bezorgen, afgeleverd door de behandelende geneesheer van de patiënt waaruit blijkt dat de inburgeraar zich bereid heeft verklaard die bijstand of verzorging of palliatieve zorgen te verlenen. De opschorting wordt verleend voor maximaal één jaar en kan verlengd worden op basis van een attest van de behandelende geneesheer;<br>
 5° de inburgeraar heeft psychosociale of maatschappelijke problemen. Hij moet aan het EVA of het stedelijk EVA een medisch attest voorleggen of een bewijs van een psycholoog of psychotherapeut of van een reguliere welzijns- of gezondheidsinstelling. Op het attest of bewijs wordt de duur van de afwezigheid vermeld. Onder reguliere welzijns- of gezondheidsinstelling wordt hier verstaan : de welzijns- of gezondheidsinstelling die hetzij als Vlaamse voorziening wordt georganiseerd, erkend of gesubsidieerd door de Vlaamse Gemeenschap, het Vlaamse Gewest of de Vlaamse Gemeenschapscommissie, hetzij binnen het tweetalige gebied Brussel-Hoofdstad wordt georganiseerd, erkend of gesubsidieerd door het Brusselse Hoofdstedelijke Gewest of de Gemeenschappelijke Gemeenschapscommissie;<br>
 6° de inburgeraar heeft geen reguliere kinderopvang of de reguliere kinderopvang waar zijn kind is ingeschreven, is weggevallen en hij kan daarvan een bewijs voorleggen. Onder reguliere kinderopvang wordt hier verstaan : alle opvanginitiatieven, erkend door Kind en Gezin of met een attest van toezicht. De opschorting wordt verleend nadat de trajectbegeleider heeft vastgesteld of er voldoende inspanningen zijn geleverd om kinderopvang te vinden en tot hij reguliere kinderopvang heeft;<br>
-7° de inburgeraar is hoogzwanger en kan het vormingspakket of een module daarvan niet afwerken voor de bevalling. De zwangerschap wordt gestaafd met een medisch attest. De opschorting wordt verleend tot na het bevallingsverlof;<br>
+7° de inburgeraar is hoogzwanger en kan&nbsp;het inburgeringstraject niet afwerken voor de bevalling. De zwangerschap wordt gestaafd met een medisch attest. De opschorting wordt verleend tot na het bevallingsverlof;<br>
 8° de inburgeraar geeft borstvoeding en kan dat bewijzen met een medisch attest of een attest van Kind en Gezin. De opschorting wordt verleend gedurende de eerste zes maanden na de geboorte van het kind.</p>
 
 <p>De minister kan de redenen, vermeld in het tweede en derde lid, beperken of uitbreiden.</p>
@@ -416,7 +419,7 @@ Het EVA stelt die test ter beschikking. Het EVA en het stedelijk EVA gebruiken u
 <br>
 De gestandaardiseerde test, vermeld in paragraaf 1, geldt als vrijstellingstest als vermeld in het eerste lid, voor het vormingspakket maatschappelijke oriëntatie.<br>
 <br>
-Als verplichte inburgeraars niet geslaagd zijn voor een vrijstellingstest als vermeld in het eerste lid, kunnen ze de test maatschappelijke oriëntatie, vermeld in paragraaf 1, eerste lid, afleggen op voorwaarde dat ze de cursus van het vormingspakket maatschappelijke oriëntatie volgen.</p>
+Als verplichte inburgeraars niet geslaagd zijn voor een vrijstellingstest als vermeld in het eerste lid, kunnen ze de test maatschappelijke oriëntatie, vermeld in paragraaf 1, eerste lid, afleggen op voorwaarde dat ze de cursus van het vormingspakket maatschappelijke oriëntatie volgen.&nbsp;Er wordt bepaald welke onderdelen van de cursus van het vormingspakket maatschappelijke oriëntatie de verplichte inburgeraar moet volgen opdat de procedurele kennis, conceptuele kennis en attitudes, vermeld in artikel 24, van dit besluit, optimaal verworven worden.</p>
 
 ### ART 27/1.
 
@@ -487,6 +490,22 @@ Het EVA en het stedelijk EVA controleren of de inschrijving effectief is voltooi
 Het EVA, het stedelijk EVA en VDAB/Actiris en/of OCMW/lokaal bestuur werken op een geïntegreerde manier, samen met de inburgeraar, een traject uit op basis van zijn competenties, mogelijkheden en ambities. Er wordt ingezet op een gezamenlijke en geïntegreerde intake. Het EVA en het stedelijk EVA stellen het resultaat van de intake ter beschikking van de VDAB, Actiris of het OCMW/lokaal bestuur. De samenwerkingsovereenkomst, als vermeld in artikel 15, § 3, 5°, van dit besluit, bevat afspraken over deze geïntegreerde samenwerking.
 
 ## [Onderafdeling 4/2. Het participatie- en netwerktraject (ing. BVR 17 december 2021, art. 36, I: 1 januari 2023)]
+
+### ART 30/4.
+
+De inburgeraar kiest voor de uitvoering van het participatie- en netwerktraject, in samenspraak met zijn trajectbegeleider, een of meer initiatieven in een Nederlandstalige context. De gekozen initiatieven leiden tot participatie op sociaal vlak.
+
+### ART 30/5.
+
+De lokale besturen ontsluiten het aanbod naar de inburgeraar.
+
+### ART 30/6.
+
+Het EVA voorziet in een sjabloon dat de inburgeraar na deelname aan het participatie- en netwerktraject van veertig uur invult en voorlegt aan de trajectbegeleider.<br>
+<br>
+Het sjabloon bevat minstens:<br>
+1° een beschrijving van het initiatief, vermeld in artikel 30/4 van dit besluit;<br>
+2° een ondertekening door de contactpersoon van het initiatief, vermeld in artikel 30/4 van dit besluit.
 
 ## Onderafdeling 5 De trajectbegeleiding
 
@@ -624,7 +643,8 @@ b) de verplichte inburgeraar heeft zich met toepassing van artikel 22, § 2, der
 c) de verplichte inburgeraar weigert om deel te nemen aan de beoordeling van het behalen van de doelstellingen van een vormingspakket, onder voorbehoud van de bepalingen, vermeld in artikel 27/3, § 4, van dit besluit;<br>
 3° de verplichte inburgeraar heeft de doelstellingen van een vormingspakket niet bereikt en heeft niet regelmatig deelgenomen aan dat vormingspakket, met behoud van de toepassing van paragraaf 3, eerste lid en onder voorbehoud van de bepalingen, vermeld in artikel 27/3, § 4, van dit besluit;<br>
 4° de verplichte inburgeraar behaalt de doelstelling niet van het onderdeel van het inburgeringstraject, vermeld in artikel 29, § 1, tweede lid, 3°, van het voormelde decreet, namelijk de inschrijving bij de VDAB;<br>
-5° de verplichte inburgeraar heeft zich, nadat hij een inbreuk als vermeld in punt 1° tot en met 4°, gepleegd heeft, niet aangemeld conform paragraaf 2, eerste lid;<br>
+4°/1 de verplichte inburgeraar behaalt de doelstelling niet van het onderdeel van het inburgeringstraject, vermeld in artikel 29, §1, tweede lid, 4°, van het voormelde decreet, namelijk het participatie- en netwerktraject;<br>
+5° de verplichte inburgeraar heeft zich, nadat hij een inbreuk als vermeld in punt 1° tot en met 6°, gepleegd heeft, niet aangemeld conform paragraaf 2, eerste lid;<br>
 6° de verplichte inburgeraar heeft, nadat hij een inbreuk als vermeld in punt 1° tot en met 6°, gepleegd heeft, opnieuw een inbreuk gepleegd als vermeld in punt 1° tot en met 6° ;<br>
 7° de verplichte inburgeraar heeft niet voldaan aan de verplichting om over een taalvaardigheid van het Nederlands te beschikken die overeenstemt met niveau B1 mondeling van het Europees Referentiekader voor Moderne Vreemde Talen, vermeld in artikel 34/5, § 1, eerste lid, van het voormelde decreet.<br>
 <br>
@@ -650,6 +670,7 @@ De inbreuken worden op de volgende tijdstippen vastgesteld:<br>
 3° uiterlijk tien werkdagen nadat de datum, vermeld op het attest van opschorting, verstreken is voor een inbreuk als vermeld in artikel 33, § 1, eerste lid, 2°, b), van dit besluit;<br>
 4° uiterlijk op het ogenblik dat het betreffende vormingspakket, met inbegrip van de beoordeling, beëindigd is, voor een inbreuk als vermeld in artikel 33, § 1, eerste lid, 2°, c), en 3°, van dit besluit;<br>
 5° zestig dagen na de ondertekening van het inburgeringscontract of dertig dagen vanaf de datum van de afgifte op de post van de aangetekende brief, vermeld in artikel 41 van dit besluit, voor een inbreuk als vermeld in artikel 33, § 1, eerste lid, 4°, van dit besluit;<br>
+5°/1 uiterlijk op het ogenblik van het verstrijken van de termijn waarin het inburgeringstraject wordt afgerond, zoals bepaald in het inburgeringscontract, conform artikel 34/2, §1, 4°, van het decreet van 7 juni 2013, of uiterlijk op het moment waarop de verlenging van de termijn waarin het inburgeringstraject wordt afgerond, zoals bepaald in het inburgeringscontract, conform artikel 34/2, §1, 4°, van het voormelde decreet, verstrijkt voor een inbreuk als vermeld in artikel 33, §1, eerste lid, 4°/1, van dit besluit. Het EVA of het stedelijk EVA brengt de verplichte inburgeraar schriftelijk op de hoogte van het moment waarop de verlenging verstrijkt;<br>
 6° dertig werkdagen vanaf de datum van de afgifte op de post van de aangetekende brief, vermeld in artikel 41 van dit besluit, voor een inbreuk als vermeld in artikel 33, § 1, eerste lid, 5°, van dit besluit;<br>
 7° uiterlijk 24 maanden nadat het inburgeringsattest behaald is, of, in geval van uitstel, overeenkomstig artikel 32/1, § 3, tweede lid, van dit besluit, uiterlijk op de datum waarop het uitstel verstrijkt voor een inbreuk als vermeld in artikel 33, § 1, eerste lid, 7°, van dit besluit.
 
@@ -659,11 +680,11 @@ De inbreuken worden op de volgende tijdstippen vastgesteld:<br>
 
 ### ART. 36.
 
-<p>&nbsp;§ 1.Ter uitvoering van artikel 39, § 1, derde&nbsp;lid, van het decreet van 7 juni 2013 meldt het EVA of het stedelijk EVA de inbreuken, vermeld in artikel 33, § 1, eerste lid, van dit besluit aan de handhavingsambtenaar, vermeld in artikel 38 van dit besluit.</p>
+<p>§ 1.Ter uitvoering van artikel 39, § 1, derde&nbsp;lid, van het decreet van 7 juni 2013 meldt het EVA of het stedelijk EVA de inbreuken, vermeld in artikel 33, § 1, eerste lid, van dit besluit aan de handhavingsambtenaar, vermeld in artikel 38 van dit besluit.</p>
 
-<p>Als het een inburgeraar betreft die verplicht ingeschreven werkzoekende is meldt het EVA of het stedelijk EVA de inbreuken, vermeld in artikel 33, § 1, eerste lid, 1° tot en met 4°, van dit besluit, conform artikel 39, § 3, eerste lid, van het decreet van 7 juni 2013, aan de VDAB.</p>
+<p>Als het een inburgeraar betreft die verplicht ingeschreven werkzoekende is meldt het EVA of het stedelijk EVA de inbreuken, vermeld in artikel 33, § 1, eerste lid, 1° tot en met 4°/1, van dit besluit, conform artikel 39, § 3, eerste lid, van het decreet van 7 juni 2013, aan de VDAB.</p>
 
-<p>Als het een inburgeraar betreft die inkomsten verwerft via maatschappelijke dienstverlening of een leefloon, meldt het EVA of het stedelijk EVA de inbreuken, vermeld in artikel 33, § 1, eerste lid, 1° tot en met 4°, van dit besluit, conform artikel 39, § 3, tweede lid, van het decreet van 7 juni 2013, aan het betrokken OCMW.</p>
+<p>Als het een inburgeraar betreft die inkomsten verwerft via maatschappelijke dienstverlening of een leefloon, meldt het EVA of het stedelijk EVA de inbreuken, vermeld in artikel 33, § 1, eerste lid, 1° tot en met 4°/1, van dit besluit, conform artikel 39, § 3, tweede lid, van het decreet van 7 juni 2013, aan het betrokken OCMW.</p>
 
 <p>§ 2 Voor de melding van de inbreuken aan de handhavingsambtenaar, de VDAB of het OCMW, naargelang het geval, gelden de volgende regels :<br>
 1° als de betrokkene zich binnen vijftien werkdagen vanaf de datum van de afgifte op de post van de aangetekende brief, vermeld in artikel 35, heeft aangemeld om zijn verplichtingen alsnog na te komen, meldt het EVA of het stedelijk EVA de inbreuk met het inregelstellingsformulier;<br>
@@ -752,7 +773,7 @@ De   administratieve geldboete moet worden betaald binnen dertig dagen nadat de 
 <p>De administratieve geldboete bedraagt minstens 50 euro en kan niet hoger zijn dan :<br>
 1° 100 euro voor een eerste inbreuk als vermeld in artikel 33, § 1, eerste lid, 1° ;<br>
 2° 250 euro voor een eerste inbreuk als vermeld in artikel 33, § 1, eerste lid, 2°, a) ;<br>
-3° 150 euro voor een eerste inbreuk als vermeld in artikel 33, § 1, eerste lid, 2°, b) en c), 3°, 4° en 7°;<br>
+3° 150 euro voor een eerste inbreuk als vermeld in artikel 33, § 1, eerste lid, 2°, b) en c), 3°, 4°, 4°/1”&nbsp;en 7°;<br>
 4° ... ;<br>
 5° ...</p>
 
@@ -840,7 +861,7 @@ De leervraagdetectie is gebaseerd op:<br>
 
 ### ART. 53.
 
-De volgende artikelen zijn niet van toepassing in het tweetalige gebied Brussel-Hoofdstad: artikel 11, 12, 14, 15, § 2, artikel 16, § 1, eerste lid, en § 2, artikel 21, artikel 32/1 tot en met 32/5, artikel 33 tot en met 45 en artikel 46, § 1.
+De volgende artikelen zijn niet van toepassing in het tweetalige gebied Brussel-Hoofdstad: artikel 11, 12, 14, 15, § 2, artikel 16, § 1, eerste lid, en § 2, artikel 21, artikel 32/3 tot en met 32/5, artikel 33 tot en met 45 en artikel 46, § 1.
 
 ## Afdeling 2 De experimentele, aanvullende of vernieuwende projecten
 
@@ -950,7 +971,7 @@ De   volgende regelingen worden opgeheven :<BR   style="WHITE-SPACE: normal; WOR
 
 ### ART. 78.
 
-<p>Alle verbintenissen die opgenomen zijn in inburgeringscontracten die vóór 29 februari 2016 gesloten zijn met toepassing van artikel 13 van het decreet van 28 februari 2003 betreffende het Vlaamse inburgeringsbeleid, blijven gelden voor de duur van die voormelde inburgeringscontracten.</p>
+<p>Alle verbintenissen die opgenomen zijn in inburgeringscontracten die vóór 1 januari 2023 gesloten zijn, blijven gelden voor de duur van de voormelde inburgeringscontracten.</p>
 
 <p>Als de inburgeraar de verbintenissen die opgenomen zijn in het inburgeringscontract, vermeld in het eerste lid, is nagekomen, reikt het EVA of het stedelijk EVA een attest van inburgering uit. Op het inburgeringsattest worden de verbintenissen vermeld die de inburgeraar is nagekomen en, in voorkomend geval, het vormingsonderdeel waarvoor hij was vrijgesteld.</p>
 
@@ -958,11 +979,11 @@ De   volgende regelingen worden opgeheven :<BR   style="WHITE-SPACE: normal; WOR
 
 ### ART 78/1.
 
-Alle verbintenissen die opgenomen zijn in inburgeringscontracten die na 29 februari 2016 en vóór 1 maart 2022 gesloten zijn, blijven gelden voor de duur van de voormelde inburgeringscontracten.<br>
-<br>
+In afwijking van artikel 27/3 van dit besluit betaalt de inburgeraar die vóór 1 september 2023 een inburgeringscontract gesloten heeft, geen retributie voor de cursus en de test van het vormingspakket maatschappelijke oriëntatie. Alle verbintenissen die opgenomen zijn in inburgeringscontracten die vóór 1 september 2023 gesloten zijn, blijven gelden voor de duur van de voormelde inburgeringscontracten.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
 Als de inburgeraar de verbintenissen die opgenomen zijn in het inburgeringscontract, vermeld in het eerste lid, is nagekomen, reikt het EVA of het stedelijk EVA een attest van inburgering uit. Op het inburgeringsattest worden de verbintenissen vermeld die de inburgeraar is nagekomen en, in voorkomend geval, het vormingsonderdeel waarvoor hij was vrijgesteld.<br>
-<br>
-Als de verplichte inburgeraar de verbintenissen die opgenomen zijn in het inburgeringscontract, vermeld in het eerste lid, niet is nagekomen, wordt na de aanmelding bij het EVA of het stedelijk EVA, vermeld in artikel 33, § 2, eerste lid, een nieuw inburgeringscontract opgemaakt en is artikel 34/3 van het decreet van 7 juni 2013 van overeenkomstige toepassing.
+&nbsp;&nbsp; &nbsp;<br>
+Als de verplichte inburgeraar de verbintenissen die opgenomen zijn in het inburgeringscontract, vermeld in het eerste lid, niet is nagekomen wordt na de aanmelding bij het EVA of het stedelijk EVA, vermeld in artikel 33, § 2, eerste lid, een nieuw inburgeringscontract opgemaakt en is artikel 27/3 van dit besluit van overeenkomstige toepassing.
 
 ### ART. 79.
 
