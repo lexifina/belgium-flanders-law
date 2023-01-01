@@ -8,7 +8,24 @@
 
 ### ART. 1.
 
-In   dit besluit wordt verstaan onder :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   advies : het advies, vermeld in artikel 9, eerste lid, 2°, b), van het besluit   van 26 februari 2016;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   Agentschap Innoveren en Ondernemen : het intern verzelfstandigd agentschap,   vermeld in artikel 1, 2°, van het besluit van de Vlaamse Regering van 18   december 2015 inzake de ontbinding zonder vereffening van het Agentschap voor   Innovatie door Wetenschap en Technologie en tot regeling van de overdracht van   zijn activiteiten aan het Agentschap Innoveren en Ondernemen;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   besluit van 26 februari 2016 : het besluit van de Vlaamse Regering van 26   februari 2016 tot toekenning van steun aan kleine en middelgrote ondernemingen   voor ondernemerschapsbevorderende diensten en kmo-groeitrajecten;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   decreet van 16 maart 2012 : het decreet van 16 maart 2012 betreffende het   economisch ondersteuningsbeleid;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">5°   dienstverlener : de dienstverlener, vermeld in artikel 9, eerste lid, 1°, van   het besluit van 26 februari 2016;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">6°   eigen aandeel : het deel van de in aanmerking komende kosten dat de kleine of   middelgrote onderneming moet dragen met toepassing van artikel 18 van het   besluit van 26 februari 2016;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">7°   financieel beheerder : de instelling die belast is met het financiële beheer van   het webplatform kmo-portefeuille;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">8°   in aanmerking komende kosten : de kosten, vermeld in artikel 31;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">9°   inschrijving voor een opleiding : de inschrijving, vermeld in artikel   15;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">10°   kalenderjaar : de periode, vermeld in artikel 1, 4°, van het besluit van 26   februari 2016;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">11°   kleine of middelgrote onderneming : de onderneming, vermeld in artikel 3, 2°, of   artikel 3, 3°, van het decreet van 16 maart 2012;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">12°   ondernemerschapsbevorderende diensten : de diensten, vermeld in artikel 9,   eerste lid, 2°, van het besluit van 26 februari 2016;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">13°   opleiding : het onderricht, vermeld in artikel 9, eerste lid, 2°, a), van het   besluit van 26 februari 2016;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">14°   overeenkomst voor het verlenen van advies : de overeenkomst, vermeld in artikel   19;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">15°   webplatform kmo-portefeuille : de webapplicatie, vermeld in artikel 1, 11°, van   het besluit van 26 februari 2016;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">16°   werkenden in de onderneming : de werkenden, vermeld in artikel 27.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+In dit besluit wordt verstaan onder :<br>
+1° advies : het advies, vermeld in artikel 9, eerste lid, 2°, b), van het besluit van 26 februari 2016;<br>
+2° Agentschap Innoveren en Ondernemen : het intern verzelfstandigd agentschap, vermeld in artikel 1, 2°, van het besluit van de Vlaamse Regering van 18 december 2015 inzake de ontbinding zonder vereffening van het Agentschap voor Innovatie door Wetenschap en Technologie en tot regeling van de overdracht van zijn activiteiten aan het Agentschap Innoveren en Ondernemen;<br>
+3° besluit van 26 februari 2016 : het besluit van de Vlaamse Regering van 26 februari 2016 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten en kmo-groeitrajecten;<br>
+4° decreet van 16 maart 2012 : het decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid;<br>
+5° dienstverlener : de dienstverlener, vermeld in artikel 9, eerste lid, 1°, van het besluit van 26 februari 2016;<br>
+6° eigen aandeel : het deel van de in aanmerking komende kosten dat de kleine of middelgrote onderneming moet dragen met toepassing van artikel 18 van het besluit van 26 februari 2016;<br>
+7° financieel beheerder : de instelling die belast is met het financiële beheer van het webplatform kmo-portefeuille;<br>
+8° in aanmerking komende kosten : de kosten, vermeld in artikel 31;<br>
+9° inschrijving voor een opleiding : de inschrijving, vermeld in artikel 15;<br>
+10° kalenderjaar : de periode, vermeld in artikel 1, 4°, van het besluit van 26 februari 2016;<br>
+11° kleine of middelgrote onderneming : de onderneming, vermeld in artikel 3, 2°, of artikel 3, 3°, van het decreet van 16 maart 2012;<br>
+12° ondernemerschapsbevorderende diensten : de diensten, vermeld in artikel 9, eerste lid, 2°, van het besluit van 26 februari 2016;<br>
+13° opleiding : het onderricht, vermeld in artikel 9, eerste lid, 2°, a), van het besluit van 26 februari 2016;<br>
+14° overeenkomst voor het verlenen van advies : de overeenkomst, vermeld in artikel 19;<br>
+14° /1 thema: de thema's, vermeld in artikel 9, eerste lid, 3°, van het besluit van 26 februari 2016;<br>
+15° webplatform kmo-portefeuille : de webapplicatie, vermeld in artikel 1, 11°, van het besluit van 26 februari 2016;<br>
+16° werkenden in de onderneming : de werkenden, vermeld in artikel 27.
 
 ## HOOFDSTUK 2 Toepassingsgebied
 
@@ -18,13 +35,34 @@ Dit   besluit regelt de aanvullende voorwaarden voor de tenuitvoerlegging van he
 
 ### ART. 3.
 
-Ter   uitvoering van artikel 8, eerste lid, van het besluit van 26 februari 2016 komen   alleen kleine of middelgrote ondernemingen waarvan de hoofdactiviteit behoort   tot de sectoren, vermeld in de bijlage die bij dit besluit is gevoegd, in   aanmerking voor steun.
+Ter uitvoering van artikel 8, eerste lid, van het besluit van 26 februari 2016 komen alleen kleine of middelgrote ondernemingen waarvan de hoofdactiviteit behoort tot de sectoren, vermeld in bijlage 1 die bij dit besluit is gevoegd, in aanmerking voor steun.
 
 ### ART. 4.
 
 Ter   uitvoering van artikel 3, vierde lid, van het besluit van 26 februari 2016 wordt   onder werkzame personen verstaan de werknemers die de werkgever heeft aangegeven   bij de Rijksdienst voor Sociale Zekerheid.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
 
 ## [HOOFDSTUK 2/1 Specifieke voorwaarden voor de thema's (ing. MB 23 december 2022, art. 3, I: 1 januari 2023)]
+
+### ART 4/1.
+
+Ter uitvoering van artikel 9, derde lid, van het besluit van 26 februari 2016 wordt het toepassingsgebied van het thema financiële geletterdheid beperkt tot de ondernemerschapsbevorderende diensten die betrekking hebben op minstens een van de volgende onderwerpen:<br>
+1° boekhouding;<br>
+2° facturatie;<br>
+3° fiscaliteit.
+
+### ART 4/2.
+
+Ter uitvoering van artikel 9, derde lid, van het besluit van 26 februari 2016 wordt het toepassingsgebied van het thema duurzaamheid beperkt tot de ondernemerschapsbevorderende diensten die betrekking hebben op minstens een van de volgende onderwerpen:<br>
+1° afvalpreventie en efficiënte afvalverwerking;<br>
+2° de vermindering van de uitstoot van broeikasgassen;<br>
+3° efficiënt materiaalgebruik;<br>
+4° energie-efficiëntie en het gebruik van alternatieve energiebronnen;<br>
+5° recyclage;<br>
+6° water- en luchtzuivering.
+
+### ART 4/3.
+
+Ter uitvoering van artikel 9, derde lid, en artikel 12/1, van het besluit van 26 februari 2016 wordt het toepassingsgebied van het thema beroepsspecifieke competenties beperkt tot de ondernemerschapsbevorderende diensten, vermeld in bijlage 2 die bij dit besluit is gevoegd.
 
 ## HOOFDSTUK 3 Registratie van de dienstverleners
 
@@ -41,6 +79,36 @@ In   de gevallen, vermeld in artikel 14, § 1, 3° en § 2, 2°, van het besluit
 Als   een dienstverlener de registratie wil stopzetten voor het einde van de   geldigheidsduur, vraagt hij de stopzetting schriftelijk aan bij het Agentschap   Innoveren en Ondernemen. Deze stopzetting is onherroepelijk.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
 
 ## [HOOFDSTUK 3/1 Registratie van de ondernemerschapsbevorderende diensten die gericht zijn op de beroepsspecifieke competenties (ing. MB 23 december 2022, art. 4, I: 1 januari 2023)]
+
+### ART 7/1.
+
+De geregistreerde dienstverlener meldt de dienst, die voldoet aan de voorwaarden vermeld in artikel 12/1 van het besluit van 26 februari 2016, aan ter registratie op de lijst met ondernemerschapsbevorderende diensten gericht op de beroepsspecifieke competenties.<br>
+<br>
+De dienst, vermeld in het eerste lid, wordt aangemeld via de procedure toegelicht op de website van het Agentschap Innoveren en Ondernemen. De geregistreerde dienstverlener vermeldt daarbij de gevraagde gegevens over haar onderneming en de dienst die ter registratie wordt aangeboden.
+
+### ART 7/2.
+
+Na de correcte en volledige aanmelding ter registratie van de dienst controleert het Agentschap Innoveren en Ondernemen of de dienst voldoet aan de voorwaarden vermeld in het decreet van 16 maart 2012, het besluit van 26 februari 2016 en de uitvoeringsbesluiten. Het Agentschap Innoveren en Ondernemen bezorgt hierover haar advies aan de minister.<br>
+<br>
+Ter uitvoering van artikel 26/1, 4° van het besluit van 26 februari 2016 kan de minister tevens het advies verzoeken van de kwaliteitskamer over de ter registratie aangemelde dienst.<br>
+<br>
+Ter uitvoering van artikel 12/1 van het besluit van 26 februari 2016 beslist de minister over de registratie van de dienst op de lijst van ondernemerschapsbevorderende diensten die gericht zijn op de beroepsspecifieke competenties.<br>
+<br>
+Het Agentschap Innoveren en Ondernemen deelt de beslissing, vermeld in het derde lid, mee aan de geregistreerde dienstverlener.
+
+### ART 7/3.
+
+Als de geregistreerde dienstverlener de beslissing van de minister, vermeld in artikel 7/2, tweede lid, betwist, kan hij op gemotiveerde wijze beroep instellen bij het Agentschap Innoveren en Ondernemen.<br>
+<br>
+De minister beslist over het beroep en kan hiervoor het advies van het Agentschap Innoveren en Ondernemen en de kwaliteitskamer, als vermeld in artikel 26/1 van het besluit van 26 februari 2016, inwinnen.<br>
+<br>
+Het Agentschap Innoveren en Ondernemen stelt de geregistreerde dienstverlener in kennis van de beslissing, vermeld in het tweede lid.
+
+### ART 7/4.
+
+De minister kan om gemotiveerde redenen een dienst schrappen uit de lijst met ondernemerschapsbevorderende diensten die gericht zijn op de beroepsspecifieke competenties bij vaststelling dat deze dienst niet voldoet aan de voorwaarden vermeld in het decreet van 16 maart 2012, het besluit van 26 februari 2016, dit besluit of de overige uitvoeringsbesluiten.<br>
+<br>
+De minister kan hiervoor het advies van het Agentschap Innoveren en Ondernemen en de kwaliteitskamer, als vermeld in artikel 26/1 van het besluit van 26 februari 2016, inwinnen.
 
 ## HOOFDSTUK 4 Voorwaarden en verplichtingen van de dienstverleners
 
@@ -82,7 +150,13 @@ Als   de organisatie of de structuur van de dienstverlener verandert, deelt hij 
 
 ### ART. 15.
 
-De   inschrijving voor een opleiding bevat de volgende gegevens :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de naam en het registratienummer van de dienstverlener;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   de naam van de werkende in de onderneming;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   de startdatum van de opleiding en de volledige looptijd ervan;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   de totale prijs, exclusief btw;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">5°   een gedetailleerde beschrijving van de opleiding.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+De inschrijving voor een opleiding bevat de volgende gegevens :<br>
+1° de naam en het registratienummer van de dienstverlener;<br>
+2° de naam van de werkende in de onderneming;<br>
+3° de startdatum van de opleiding en de volledige looptijd ervan;<br>
+4° de totale prijs, exclusief btw;<br>
+5° een gedetailleerde beschrijving van de opleiding;<br>
+6° de vermelding van het thema waaronder de opleiding valt.
 
 ### ART. 16.
 
@@ -100,7 +174,18 @@ De   dienstverlener bewaart het bewijs van de inschrijving, de aanwezigheidslijs
 
 ### ART. 19.
 
-De   overeenkomst voor het verlenen van advies is een geschreven overeenkomst tussen   een dienstverlener en een kleine of middelgrote onderneming dat de volgende   vermeldingen bevat :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de naam van de dienstverlener;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   het registratienummer van de dienstverlener;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   de naam van de kleine of middelgrote onderneming;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   het ondernemingsnummer van de kleine of middelgrote onderneming;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">5°   een gedetailleerde beschrijving van de te leveren prestaties;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">6°   de startdatum van de prestaties;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">7°   de totale prijs van de prestaties, exclusief btw;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">8°   de handtekening van de rechtsgeldige vertegenwoordiger van de   dienstverlener;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">9°   de handtekening van de rechtsgeldige vertegenwoordiger van de kleine of   middelgrote onderneming;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">10°   de datum waarop de overeenkomst werd gesloten.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+De overeenkomst voor het verlenen van advies is een geschreven overeenkomst tussen een dienstverlener en een kleine of middelgrote onderneming dat de volgende vermeldingen bevat :<br>
+1° de naam van de dienstverlener;<br>
+2° het registratienummer van de dienstverlener;<br>
+3° de naam van de kleine of middelgrote onderneming;<br>
+4° het ondernemingsnummer van de kleine of middelgrote onderneming;<br>
+5° een gedetailleerde beschrijving van de te leveren prestaties;<br>
+5° /1 de vermelding van het thema waaronder het advies valt;<br>
+6° de startdatum van de prestaties;<br>
+7° de totale prijs van de prestaties, exclusief btw;<br>
+8° de handtekening van de rechtsgeldige vertegenwoordiger van de dienstverlener;<br>
+9° de handtekening van de rechtsgeldige vertegenwoordiger van de kleine of middelgrote onderneming;<br>
+10° de datum waarop de overeenkomst werd gesloten.
 
 ### ART. 20.
 
@@ -187,7 +272,7 @@ Als   het toepasselijke maximale subsidiebedrag, vermeld in artikel 18 van het b
 
 <p>De kleine of middelgrote onderneming sluit met een dienstverlener een overeenkomst om advies te verlenen of schrijft een of meer werkenden in de onderneming bij een dienstverlener in om een opleiding te volgen. Het sluiten van deze overeenkomst of deze inschrijving dient te gebeuren respectievelijk vóór de prestaties van start gaan voor het leveren van het advies of vóór het begin van de opleiding.</p>
 
-<p>De kleine of middelgrote onderneming moet vervolgens de subsidieaanvraag indienen via het webplatform kmo-portefeuille. De subsidieaanvraag wordt ten vroegste ingediend vanaf het moment dat de overeenkomst voor het verlenen van advies is gesloten of vanaf de inschrijving voor een opleiding, en uiterlijk veertien kalenderdagen nadat de ondernemerschapsbevorderende diensten van start zijn gegaan.</p>
+<p>De kleine of middelgrote onderneming moet vervolgens de subsidieaanvraag indienen via het webplatform kmo-portefeuille, met aanduiding van het thema. De subsidieaanvraag wordt ten vroegste ingediend vanaf het moment dat de overeenkomst voor het verlenen van advies is gesloten of vanaf de inschrijving voor een opleiding, en uiterlijk veertien kalenderdagen nadat de ondernemerschapsbevorderende diensten van start zijn gegaan.</p>
 
 <p>Na het indienen van de subsidieaanvraag, stort de kleine of middelgrote onderneming het eigen aandeel op het rekeningnummer dat gecommuniceerd wordt door de financieel beheerder. Deze storting dient de mededeling te bevatten die gecommuniceerd wordt door de financieel beheerder. Deze storting dient te gebeuren uiterlijk dertig kalenderdagen na de subsidieaanvraag. De financieel beheerder stort vervolgens de subsidie.</p>
 
@@ -261,3 +346,7 @@ Dit   besluit treedt in werking op 1 april 2016.
 ### BIJLAGE 1
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2021/06/28_1.pdf#page=205">Sectoren die in aanmerking komen voor steun via het webplatform kmo-portefeuille als vermeld in artikel 3.</a>
+
+### BIJLAGE 2
+
+<a href="https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037854&amp;param=inhoud&amp;AID=1315165">Bijlage 2. De lijst van ondernemerschapsbevorderende diensten die gericht zijn op de beroepsspecifieke competenties, vermeld in artikel 4/3</a>
