@@ -3,11 +3,11 @@
 ### ART 1.
 
 De volgende personen worden aangeduid als effectieve leden van de beheerscommissie van het Eigen Vermogen Digitaal Vlaanderen:<br>
-1° de leidend ambtenaar of een personeelslid van het agentschap Digitaal Vlaanderen, die de beheerscommissie voorzit: de heer Frank Geets;<br>
+1° de leidend ambtenaar of een personeelslid van het agentschap Digitaal Vlaanderen, die de beheerscommissie voorzit: de heer Jan Smedts;<br>
 2° ...;<br>
 3° de leidend ambtenaar van de Vlaamse Landmaatschappij: de heer Toon Denys;<br>
 4° een vertegenwoordiger van de Vlaamse minister, bevoegd voor de financiën en de begrotingen: de heer Jan Geusens;<br>
-5° een vertegenwoordiger van de Vlaamse minister, bevoegd voor de digitalisering: de heer Jan Smedts;<br>
+5° een vertegenwoordiger van de Vlaamse minister, bevoegd voor de digitalisering: mevrouw Karolien Van Dorpe;<br>
 6° een vertegenwoordiger van de beheerders van een netwerk van water, elektriciteit, gas, telecommunicatie, teledistributie en rioleringen in Vlaanderen: mevrouw Hilde Beeckmans.
 
 ### ART 2.
@@ -17,7 +17,7 @@ De volgende personen worden aangeduid als plaatsvervangende leden van de beheers
 2° ...;<br>
 3° een afgevaardigde van de Vlaamse Landmaatschappij: mevrouw Annita Stevens;<br>
 4° een vertegenwoordiger van de Vlaamse minister, bevoegd voor de financiën en de begrotingen: de heer Peter Vandermeersch;<br>
-5° een vertegenwoordiger van de Vlaamse minister, bevoegd voor de digitalisering: mevrouw Karolien Van Dorpe;<br>
+5° een vertegenwoordiger van de Vlaamse minister, bevoegd voor de digitalisering: de heer Jan Vancoillie;<br>
 6° een vertegenwoordiger van de beheerders van een netwerk van water, elektriciteit, gas, telecommunicatie, teledistributie en rioleringen in Vlaanderen: de heer Henk Coppé.
 
 ### ART 3.
