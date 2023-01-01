@@ -57,8 +57,8 @@ In titel 2, hoofdstuk 1, wordt verstaan onder :<br>
 In titel 2, hoofdstuk 2, wordt verstaan onder :<br>
 1° stoom- of motorvoertuigen : de motorvoertuigen, omschreven in de reglementering voor de inschrijving van motorvoertuigen en de aanhangwagens, de stoom- of motorvaartuigen en -boten en, in het algemeen, alle stoom- of motorvervoermiddelen tot voortbeweging, alsook de aanhangwagens en opleggers ervan;<br>
 2° lichte vrachtauto : in afwijking van punt 1°, elke auto, opgevat en gebouwd voor het vervoer van zaken waarvan&nbsp;het maximaal toegestane totaalgewicht niet meer bedraagt dan 3500 kg en die :<br>
-a) bestaat uit een volledig van de laadruimte afgesloten enkele cabine die ten hoogste twee plaatsen bevat, die van de bestuurder niet inbegrepen, en een open laadbak;<br>
-b) bestaat uit een volledig van de laadruimte afgesloten dubbele cabine die ten hoogste zes plaatsen bevat, die van de bestuurder niet inbegrepen, en een open laadbak;<br>
+a) bestaat uit een volledig van de laadruimte afgesloten enkele cabine die ten hoogste twee plaatsen bevat, die van de bestuurder niet inbegrepen, en een open laadbak. Als de auto is ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid na 31 december 2022, is de auto ingeschreven ofwel op naam van een rechtspersoon ofwel op naam van een natuurlijke persoon als vermeld in artikel I.1, eerste lid, 1°, (a), van het Wet- boek van economisch recht en ingeschreven in de Kruispuntbank van Ondernemingen conform artikel III.17 van het voormelde wetboek. De voormelde voorwaarde dat het voertuig moet ingeschreven zijn ofwel op naam van een rechtspersoon ofwel op naam van een natuurlijke persoon met een ondernemingsnummer, is alleen van toepassing op auto’s van natuurlijke personen en andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten;<br>
+b) bestaat uit een volledig van de laadruimte afgesloten dubbele cabine die ten hoogste zes plaatsen bevat, die van de bestuurder niet inbegrepen, en een open laadbak. Als de auto is ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid na 31 december 2022, is de auto ingeschreven ofwel op naam van een rechtspersoon ofwel op naam van een natuurlijke persoon als vermeld in artikel I.1, eerste lid, 1°, (a), van het Wet- boek van economisch recht en ingeschreven in de Kruispuntbank van Ondernemingen conform artikel III.17 van het voormelde wetboek. De voormelde voorwaarde dat het voertuig moet ingeschreven zijn ofwel op naam van een rechtspersoon ofwel op naam van een natuurlijke persoon met een ondernemingsnummer, is alleen van toepassing op auto’s van natuurlijke personen en andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten;<br>
 c) gelijktijdig bestaat uit een passagiersruimte die ten hoogste twee plaatsen bevat, die van de bestuurder niet inbegrepen, en een daarvan afgesloten laadruimte waarvan de afstand tussen elk punt van de scheidingswand achter de zitplaatsen en de binnenkant van de achterzijde van de laadruimte, gemeten in de langsrichting van het voertuig, op een hoogte van 20 cm boven de vloer, altijd minstens 50 % bedraagt van de lengte van de wielbasis. De laadruimte moet bovendien over haar hele oppervlakte bestaan uit een vaste of duurzaam bevestigde, horizontale laadvloer zonder verankeringsplaatsen voor extra banken, zetels of veiligheidsgordels, die deel uitmaakt van het koetswerk;<br>
 d) gelijktijdig bestaat uit een passagiersruimte die ten hoogste zes plaatsen bevat, die van de bestuurder niet inbegrepen, en een daarvan volledig afgesloten laadruimte waarvan de afstand tussen elk punt van de scheidingswand achter de laatste rij zitplaatsen en de binnenkant van de achterzijde van de laadruimte, gemeten in de langsrichting van het voertuig, op een hoogte van 20 cm boven de vloer, altijd minstens 50 % bedraagt van de lengte van de wielbasis. De laadruimte moet bovendien over haar hele oppervlakte bestaan uit een vaste of duurzaam bevestigde, horizontale laadvloer zonder verankeringsplaatsen voor extra banken, zetels of veiligheidsgordels, die deel uitmaakt van het koetswerk.<br>
 Als het voertuig, aangewezen als lichte vrachtauto in de reglementering, vermeld in punt 1°, niet beantwoordt aan een van de voertuigtypes, vermeld in punt a) tot en met d), wordt het, afhankelijk van zijn constructie, beschouwd als een personenauto, een auto voor dubbel gebruik of een minibus;<br>
@@ -184,19 +184,19 @@ Voor de vaststelling van de belastbare grondslag wordt geen rekening   gehouden 
 § 2. In afwijking van paragraaf 1 bedraagt het tarief 2,54 % voor :<br>
 1° de eigendommen die als sociale woningen worden verhuurd en toebehoren aan Openbare Centra voor Maatschappelijk Welzijn of aan door haar opgerichte verenigingen waarvan slechts één of meer Openbare Centra voor Maatschappelijk Welzijn deel uitmaken;<br>
 2° de eigendommen die als sociale woningen worden verhuurd en toebehoren aan gemeenten;<br>
-3° de eigendommen die als sociale woningen worden verhuurd en toebehoren aan de Vlaamse Maatschappij voor Sociaal Wonen of aan de erkende sociale huisvestingsmaatschappijen, vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021;<br>
+3° de eigendommen die als sociale woningen worden verhuurd en toebehoren aan de Vlaamse Maatschappij voor Sociaal Wonen of aan de erkende woonmaatschappijen, vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021;<br>
 4° de eigendommen die als sociale woningen worden verhuurd en toebehoren aan het Vlaams Woningfonds;<br>
-5° de eigendommen die als sociale woningen worden verhuurd en toebehoren aan een erkend sociaal verhuurkantoor;<br>
-6° ...;<br>
+5° ...<br>
+6° ...<br>
 7° de eigendommen die toebehoren aan rechtspersonen, erkend overeenkomstig artikel 7, tweede lid, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap en die gebruikt worden voor wooninfrastructuur voor personen met een handicap, vermeld in artikel 2, 2°, van hetzelfde decreet, die een duidelijk vastgestelde behoefte aan zorg en ondersteuning hebben. De Vlaamse Regering bepaalt de wijze waarop de behoefte aan zorg en ondersteuning wordt vastgesteld.<br>
 <br>
 Het verlaagde tarief, vermeld in het eerste lid, is ook van toepassing op gelijkaardige onroerende goederen van gelijkaardige rechtspersonen die opgericht zijn volgens en onderworpen zijn aan de wetgeving van een staat van de Europese Economische Ruimte, en die bovendien hun&nbsp;zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Europese Economische Ruimte hebben.<br>
 <br>
 Het verlaagde tarief, vermeld in het eerste lid, 7°, wordt toegekend vanaf het aanslagjaar waarin uiterlijk op 31 maart aan de bevoegde entiteit van de Vlaamse administratie gemeld wordt dat een rechtspersoon erkend is overeenkomstig artikel 7, tweede lid, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap. De toekenning geldt tot het einde van de erkenning. Elke beëindiging van een erkenning moet uiterlijk op 31 maart van het jaar dat volgt op de beëindiging aan de bevoegde entiteit van de Vlaamse administratie gemeld worden.<br>
 <br>
-§ 2/1. In afwijking van paragraaf 1 bedraagt het tarief 2,4 % voor de eigendommen die door een erkend sociaal verhuurkantoor worden gehuurd met toepassing van en conform de voorwaarden, vermeld in artikel 4.55, tweede en derde lid, van de Vlaamse Codex Wonen van 2021 en in artikel 4.168 van het Besluit Vlaamse Codex Wonen van 2021.<br>
+§ 2/1. In afwijking van paragraaf 1 bedraagt het tarief 2,4 % voor de eigendommen die door een&nbsp;erkende woonmaatschappij worden gehuurd conform de voorwaarden ter uitvoering van artikel 4.40, 4°, van de Vlaamse Codex Wonen van 2021 en in artikel 4.168 van het Besluit Vlaamse Codex Wonen van 2021.<br>
 <br>
-Het verlaagde tarief, vermeld in het eerste lid, wordt toegekend vanaf het aanslagjaar waarin uiterlijk op 31 maart aan de bevoegde entiteit van de Vlaamse administratie gemeld wordt dat de eigendom op 1 januari van het aanslagjaar gehuurd wordt door een erkend sociaal verhuurkantoor. De toekenning geldt tot het einde van de huurovereenkomst. Elke vroegtijdige beëindiging van de huurovereenkomst wordt uiterlijk op 31 maart van het jaar dat volgt op de beëindiging aan de bevoegde entiteit van de Vlaamse administratie gemeld.<br>
+Het verlaagde tarief, vermeld in het eerste lid, wordt toegekend vanaf het aanslagjaar waarin uiterlijk op 31 maart aan de bevoegde entiteit van de Vlaamse administratie gemeld wordt dat de eigendom op 1 januari van het aanslagjaar gehuurd wordt door een erkende woonmaatschappij. De toekenning geldt tot het einde van de huurovereenkomst. Elke vroegtijdige beëindiging van de huurovereenkomst wordt uiterlijk op 31 maart van het jaar dat volgt op de beëindiging aan de bevoegde entiteit van de Vlaamse administratie gemeld.<br>
 <br>
 § 3. In afwijking van paragraaf 1 bedraagt het tarief voor materieel en outillage als vermeld in artikel 471, § 3, van het federale WIB 92, 3,97% vermenigvuldigd met de coëfficiënt, vermeld in het tweede lid. De toepassing van de coëfficiënt mag geen aanleiding geven tot een hoger tarief dan het tarief dat van toepassing is in het vorige aanslagjaar, met uitzondering van het aanslagjaar waarin dit decreet in werking treedt waarbij de toepassing van de coëfficiënt geen aanleiding mag geven tot een hoger tarief dan 3,97%.<br>
 <br>
@@ -212,73 +212,37 @@ De coëfficiënt wordt verkregen door het gemiddelde van de maandelijkse indexci
 § 2. Voor iedere gemeente van het Vlaamse Gewest mag het tarief, vermeld in artikel 2.1.4.0.1, op zichzelf de opbrengst van de gemeentelijke opcentiemen van het aanslagjaar waarin dit artikel in werking treedt niet verhogen ten opzichte van het vorige aanslagjaar.<br>
 Als een gemeente de opbrengst van haar deel in die onroerende voorheffing evenwel wil wijzigen, geeft ze dat expliciet aan in haar beslissing en vermeldt ze afzonderlijk :<br>
 1° het aantal opcentiemen dat nodig is om, op haar niveau, dezelfde opbrengst te verkrijgen als in het aanslagjaar voorafgaand aan het aanslagjaar waarin dit artikel in werking treedt;<br>
-2° het aantal opcentiemen dat voor het aanslagjaar waarin dit artikel in werking treedt daadwerkelijk wordt geheven.<br>
-<br>
-§ 3. Voor iedere provincie van het Vlaamse Gewest mogen de provinciale opcentiemen niet meer bedragen dan :<br>
-1° voor de provincie Antwerpen : 145,33 opcentiemen;<br>
-2° voor de provincie Limburg : 214,52 opcentiemen;<br>
-3° voor de provincie Oost-Vlaanderen : 148,47 opcentiemen;<br>
-4° voor de provincie Vlaams-Brabant : 171,75 opcentiemen;<br>
-5° voor de provincie West-Vlaanderen : 186,22 opcentiemen.
+2° het aantal opcentiemen dat voor het aanslagjaar waarin dit artikel in werking treedt daadwerkelijk wordt geheven.
 
 ## Afdeling 5 Verminderingen
 
 ### ART. 2.1.5.0.1.
 
 § 1. Er wordt een vermindering verleend van :<br>
-1° 25 % van de onroerende voorheffing voor de woning waar de belastingplichtige volgens het bevolkingsregister op 1 januari van het aanslagjaar zijn hoofdverblijfplaats heeft, als het kadastraal inkomen van zijn gezamenlijke, in het Vlaamse Gewest gelegen, onroerende goederen niet meer bedraagt dan 745 euro;<br>
-2° de onroerende voorheffing berekend volgens de volgende tabel voor de kinderen die in aanmerking komen voor de gezinsbijslagen, vermeld in artikel 5, § 1, IV, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, voor de woning die op 1 januari van het aanslagjaar wordt betrokken door een gezin met ten minste twee kinderen die daar volgens het bevolkingsregister hun woonplaats hebben en die in aanmerking komen voor gezinsbijslag. Daarbij wordt een gehandicapt kind voor twee gerekend.<br>
-&nbsp;
-<table border="1">
-	<tbody>
-		<tr>
-			<td>"aantal kinderen dat in aanmerking komt</td>
-			<td>totaalbedrag van de vermindering in euro</td>
-		</tr>
-		<tr>
-			<td>2</td>
-			<td>8,58</td>
-		</tr>
-		<tr>
-			<td>3</td>
-			<td>13,58</td>
-		</tr>
-		<tr>
-			<td>4</td>
-			<td>19,01</td>
-		</tr>
-		<tr>
-			<td>5</td>
-			<td>24,92</td>
-		</tr>
-		<tr>
-			<td>6</td>
-			<td>31,25</td>
-		</tr>
-		<tr>
-			<td>7</td>
-			<td>38,06</td>
-		</tr>
-		<tr>
-			<td>8</td>
-			<td>45,35</td>
-		</tr>
-		<tr>
-			<td>9</td>
-			<td>53,07</td>
-		</tr>
-		<tr>
-			<td>10</td>
-			<td>61,30</td>
-		</tr>
-	</tbody>
-</table>
-
+1° 25 % van de onroerende voorheffing voor de woning waar de belastingplichtige volgens het bevolkingsregister op 1 januari van het aanslagjaar zijn hoofdverblijfplaats heeft, als het kadastraal inkomen van zijn gezamenlijke, in het Vlaamse Gewest gelegen, onroerende goederen&nbsp;niet meer bedraagt dan 745 euro;<br>
+<br>
+2° de onroerende voorheffing voor de kinderen die in aanmerking komen voor de gezinsbijslagen, vermeld in artikel 5, §1, IV, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, voor de woning die op 1 januari van het aanslagjaar wordt betrokken door een gezin met ten minste twee kinderen die daar volgens het bevolkingsregister hun woonplaats hebben en die in aanmerking komen voor gezinsbijslag. De vermindering bedraagt per kind 8 euro. Daarbij wordt een gehandicapt kind voor twee gerekend.<br>
+<br>
+Het voormelde bedrag van 8 euro is gekoppeld aan de schommelingen van het algemene indexcijfer van de consumptieprijzen van het Rijk en wordt jaarlijks aangepast op basis van een coëfficiënt die verkregen wordt door het gemiddelde van de maandelijkse indexcijfers van het jaar dat voorafgaat aan het jaar van de inkomsten, te delen door het gemiddelde van de indexcijfers van het jaar 2022. Het gemiddelde van de maandelijkse indexcijfers wordt afgerond op het hogere of lagere honderdste naargelang het cijfer van de duizendsten al of niet vijf bereikt, en de coëfficiënt wordt afgerond op het hogere of lagere tienduizendste naargelang het cijfer van de honderdduizendsten al of niet vijf bereikt. Na de toepassing van de coëfficiënt wordt het bedrag afgerond op het hogere of lagere honderdste naargelang het cijfer van de duizendste al of niet vijf bereikt;<br>
+<br>
+3° de onroerende voorheffing per persoon met een handicap, met uitsluiting van de gehandicapte kinderen, vermeld in punt 2°, voor de woning waar de persoon met een handicap volgens het bevolkingsregister op 1 januari van het aanslagjaar zijn woonplaats heeft. Deze vermindering wordt berekend alsof het een gehandicapt kind betreft.
 <p><br>
-Eenheden boven het tiende geven recht op een verhoging van de vermindering met 8,58 euro. De totale bedragen, vermeld in de tabel, en het bedrag van de voormelde verhoging van de vermindering met 8,58 euro worden jaarlijks aangepast aan het indexcijfer van de consumptieprijzen van het Rijk. Die aanpassing gebeurt op basis van een coëfficiënt die verkregen wordt door het gemiddelde van de maandelijkse indexcijfers van het jaar dat voorafgaat aan het jaar van de inkomsten, te delen door het gemiddelde van de maandelijkse indexcijfers van het jaar 1996. Na de toepassing van de coëfficiënt worden de bedragen afgerond door weglating van de centgedeelten na de tweede decimaal;<br>
-3° de onroerende voorheffing per persoon met een handicap, met uitsluiting van de gehandicapte kinderen, vermeld in punt 2°, voor de woning waar de persoon met een handicap volgens het bevolkingsregister op 1 januari van het aanslagjaar zijn woonplaats heeft. Deze vermindering wordt berekend alsof het een gehandicapt kind betreft.</p>
-
-<p>§ 2. Er wordt een vermindering verleend van :<br>
+§1/1. De vermindering, vermeld in paragraaf 1, 2°, wordt in geval van ouders die niet samenleven proportioneel toegekend, afhankelijk van de periode waarin die ouder het kind of de kinderen huisvest, als de volgende voorwaarden cumulatief zijn vervuld:<br>
+1° een van beide ouders dient uiterlijk op 31 maart van het aanslagjaar een aanvraag in bij de bevoegde entiteit van de Vlaamse administratie;<br>
+2° de ouder waarbij het kind of de kinderen volgens het bevolkingsregister niet zijn of hun woonplaats hebben, zorgt voor de huisvesting in een woning die in het Vlaamse Gewest ligt waarin die ouder op 1 januari van het aanslagjaar volgens het bevolkingsregister zijn woonplaats heeft;<br>
+3° de gedeeltelijke huisvesting wordt op een van de volgende wijzen aangetoond:<br>
+a)&nbsp;&nbsp; &nbsp;op grond van een overeenkomst die uiterlijk op 1 januari van het aanslagjaar geregistreerd of door een rechter gehomologeerd is;<br>
+b)&nbsp;&nbsp; &nbsp;op grond van een rechterlijke beslissing die uiterlijk op 1 januari van het aanslagjaar is uitgesproken;<br>
+c)&nbsp;&nbsp; &nbsp;op grond van een overeenkomst die uiterlijk op 1 januari van het aanslagjaar tot stand is gekomen ten gevolge van een vrijwillige gezinsbemiddeling door een bemiddelaar die erkend is door de commissie, vermeld in artikel 1727 van het Gerechtelijk Wetboek;<br>
+d)&nbsp;&nbsp; &nbsp;op grond van een overeenkomst die de beide ouders uiterlijk op 1 januari van het aanslagjaar hebben ondertekend.<br>
+<br>
+De vermindering, vermeld in paragraaf 1, 2°, wordt proportioneel verdeeld tussen de woning, vermeld in paragraaf 1, 2°, en de woning, vermeld in het eerste lid, 2°.<br>
+<br>
+Als de bevoegde entiteit van de Vlaamse Administratie geen andersluidende kennisgeving ontvangt en de voorwaarden, vermeld in paragraaf 1, 2°, en paragraaf 1/1, zijn vervuld, is de aanvraag die ingediend is voor een aanslag- jaar, geldig voor de volgende aanslagjaren.<br>
+<br>
+Als het bedrag, vermeld in paragraaf 1, 2°, overeenkomstig het eerste lid proportioneel wordt toegekend, worden de proportioneel verdeelde bedragen afgerond op het hogere of lagere honderdste naargelang het cijfer van de duizendsten al of niet vijf bereikt.<br>
+<br>
+§ 2. Er wordt een vermindering verleend van :<br>
 1° 20 % van de onroerende voorheffing gedurende tien jaar voor woningen waarvoor de aanvraag van een stedenbouwkundige vergunning is ingediend vóór 1 januari 2013 en die op 1 januari van het aanslagjaar een E-peil hebben van ten hoogste E60;<br>
 2° 20 % van de onroerende voorheffing gedurende tien jaar voor andere gebouwde onroerende goederen dan woningen waarvoor de aanvraag van een stedenbouwkundige vergunning is ingediend vóór 1 januari 2013 en die op 1 januari van het aanslagjaar een E-peil hebben van ten hoogste E70;<br>
 3° 40 % van de onroerende voorheffing gedurende tien jaar voor gebouwde onroerende goederen waarvoor de aanvraag van een stedenbouwkundige vergunning is ingediend vóór 1 januari 2013 en die op 1 januari van het aanslagjaar een E-peil hebben van ten hoogste E40;<br>
@@ -404,11 +368,11 @@ Bij de overdracht van een onroerend goed waarvoor een vermindering als vermeld i
 
 ### ART. 2.1.5.0.3.
 
-De verminderingen, vermeld in artikel 2.1.5.0.1, § 1, 1° tot en met 3°, artikel 2.1.5.0.1, § 2, eerste lid, 1° tot en met 7°, en artikel 2.1.5.0.2, § 1, 1° en 2°, worden beoordeeld naar de toestand op 1 januari van het jaar waarnaar het aanslagjaar van de onroerende voorheffing wordt genoemd. Die verminderingen kunnen worden samengevoegd, met uitzondering van de vermindering, vermeld in artikel 2.1.5.0.1, § 2, eerste lid, 3°, die niet samengevoegd kan worden met de verminderingen, vermeld in artikel 2.1.5.0.1, § 2, eerste lid, 1° en 2°.
+De verminderingen, vermeld in artikel 2.1.5.0.1, § 1, 1° tot en met 3°, artikel 2.1.5.0.1, §1/1, artikel 2.1.5.0.1, § 2, eerste lid, 1° tot en met 7°, en artikel 2.1.5.0.2, § 1, 1° en 2°, worden beoordeeld naar de toestand op 1 januari van het jaar waarnaar het aanslagjaar van de onroerende voorheffing wordt genoemd. Die verminderingen kunnen worden samengevoegd, met uitzondering van de vermindering, vermeld in artikel 2.1.5.0.1, § 2, eerste lid, 3°, die niet samengevoegd kan worden met de verminderingen, vermeld in artikel 2.1.5.0.1, § 2, eerste lid, 1° en 2°.
 
 ### ART. 2.1.5.0.4.
 
-De verminderingen, vermeld in artikel 2.1.5.0.1, § 1, 2° en 3°, en artikel 2.1.5.0.2, § 1, 2°, zijn van de huur aftrekbaar, niettegenstaande elk beding dat strijdig is daarmee. De verminderingen zijn niet van toepassing op het gedeelte van de woning of van het onroerend goed dat wordt bewoond door personen die geen deel uitmaken van hetzelfde gezin of die niet tot het gezin van de betrokken oorlogsverminkte of van het gehandicapt kind of de persoon met een handicap behoren.
+De verminderingen, vermeld in artikel 2.1.5.0.1, § 1, 2° en 3°, artikel 2.1.5.0.1, §1/1 en artikel 2.1.5.0.2, § 1, 2°, zijn van de huur aftrekbaar, niettegenstaande elk beding dat strijdig is daarmee. De verminderingen zijn niet van toepassing op het gedeelte van de woning of van het onroerend goed dat wordt bewoond door personen die geen deel uitmaken van hetzelfde gezin of die niet tot het gezin van de betrokken oorlogsverminkte of van het gehandicapt kind of de persoon met een handicap behoren.
 
 ### ART. 2.1.5.0.5.
 
@@ -485,7 +449,11 @@ De Vlaamse Regering kan de nadere regels voor de aanvraag van de vrijstellingen 
 
 Aan de belastingschuldige wordt een automatische vrijstelling van onroerende voorheffing verleend voor het kadastraal inkomen van :<br>
 1° de onroerende goederen of delen ervan, gelegen in het Vlaamse Gewest, die gebruikt worden door landelijk georganiseerde jeugdverenigingen die gesubsidieerd worden overeenkomstig het decreet van 20 januari 2012 houdende een vernieuwd jeugd- en kinderrechtenbeleid en hun lokale afdelingen of door lokale jeugdwerkinitiatieven waarvan het gemeentebestuur bevestigt dat ze beantwoorden aan de definitie zoals bepaald in artikel 9, § 3, tweede lid, van hetzelfde decreet;<br>
-2° de onroerende goederen of delen ervan, gelegen in het Vlaamse Gewest, gebruikt als sociaal-toeristisch verblijf, die het label jeugdtoerisme hebben overeenkomstig artikel 9 van het besluit van de Vlaamse Regering van 28 mei 2004 betreffende de erkenning en de financiële ondersteuning van verblijven in het kader van `Toerisme voor Allen'.
+2° de onroerende goederen of delen ervan die aan al de volgende voorwaarden voldoen:<br>
+a) ze liggen in het Vlaamse Gewest;<br>
+b) ze worden gebruikt als toeristisch verblijf;<br>
+c) ze zijn aangemeld als jeugdverblijf of als hostel conform het decreet van 5 februari 2016 houdende het toeristische logies;<br>
+d) ze hebben het label `Toerisme voor Allen' ontvangen conform het decreet van 5 februari 2016 houdende het toeristische logies.
 
 ## Afdeling 7 Wijze van heffing
 
@@ -1121,179 +1089,247 @@ MOTORVOERTUIGEN<br>
 2° voor de samengestelde voertuigen is het in aanmerking te nemen maximaal toegestane totaalgewicht (MTT) voor de toepassing van onderstaande tabel de som van het eigen maximaal toegestane totaalgewicht van de voertuigen die deel uitmaken van het samenstel.<br>
 COMBINATIES (GELEDE VOERTUIGEN EN SAMENSTELLEN)<br>
 &nbsp;
-<table border="1">
+<table cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td colspan="2">aantal assen en MTT (in ton)</td>
-			<td colspan="2">tarief (in euro/jaar)</td>
+			<td colspan="2" style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:1px solid #231f20; height:20px; vertical-align:top; width:276px"><strong>aantal assen en MMT (in ton)</strong></td>
+			<td colspan="2" style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:1px solid #231f20; height:20px; vertical-align:top; width:276px"><strong>tarief (in euro/jaar)</strong></td>
 		</tr>
 		<tr>
-			<td>Gelijk aan of meer dan</td>
-			<td>minder dan</td>
-			<td>luchtvering of als gelijkwaardig erkende vering (*) van de aangedreven as(sen)</td>
-			<td>andere ophangsystemen van de aangedreven as(sen)</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:84px; vertical-align:top; width:138px">gelijk aan of meer dan</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:84px; vertical-align:top; width:138px">minder dan</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:84px; vertical-align:top; width:138px">Luchtvering of als gelijkwaardig erk- ende verig (*) van de aangedreven as(sen)</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:84px; vertical-align:top; width:138px">andere ophang- systemen van de aangedreven as(sen)</td>
 		</tr>
 		<tr>
-			<td colspan="4">2 + 1 assen</td>
+			<td colspan="4" style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:551px">2 + 1 assen</td>
 		</tr>
 		<tr>
-			<td>12</td>
-			<td>14</td>
-			<td>0</td>
-			<td>0</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">12</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">14</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">0</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">0</td>
 		</tr>
 		<tr>
-			<td>14</td>
-			<td>16</td>
-			<td>0</td>
-			<td>0</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">14</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">16</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">0</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">0</td>
 		</tr>
 		<tr>
-			<td>16</td>
-			<td>18</td>
-			<td>0</td>
-			<td>14</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">16</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">18</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">0</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">14</td>
 		</tr>
 		<tr>
-			<td>18</td>
-			<td>20</td>
-			<td>14</td>
-			<td>32</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">18</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">20</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">14</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">32</td>
 		</tr>
 		<tr>
-			<td>20</td>
-			<td>22</td>
-			<td>32</td>
-			<td>75</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">20</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">22</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">32</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">75</td>
 		</tr>
 		<tr>
-			<td>22</td>
-			<td>23</td>
-			<td>75</td>
-			<td>97</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">22</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">23</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">75</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">97</td>
 		</tr>
 		<tr>
-			<td>23</td>
-			<td>25</td>
-			<td>97</td>
-			<td>175</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">23</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">25</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">97</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">175</td>
 		</tr>
 		<tr>
-			<td>25</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;175</td>
-			<td>307</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">25</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">&nbsp;</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">175</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">307</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td colspan="4" style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:1px solid #231f20; height:20px; vertical-align:top; width:551px">2 + 2 assen</td>
 		</tr>
 		<tr>
-			<td colspan="4">2 + 2 assen</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">23</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">25</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">30</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">70</td>
 		</tr>
 		<tr>
-			<td>23</td>
-			<td>25</td>
-			<td>30</td>
-			<td>70</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">25</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">26</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">70</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">115</td>
 		</tr>
 		<tr>
-			<td>25</td>
-			<td>26</td>
-			<td>70</td>
-			<td>115</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">26</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">28</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">115</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">169</td>
 		</tr>
 		<tr>
-			<td>26</td>
-			<td>28</td>
-			<td>115</td>
-			<td>169</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">28</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">29</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">169</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">204</td>
 		</tr>
 		<tr>
-			<td>28</td>
-			<td>29</td>
-			<td>169</td>
-			<td>204</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">29</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">31</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">204</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">335</td>
 		</tr>
 		<tr>
-			<td>29</td>
-			<td>31</td>
-			<td>204</td>
-			<td>335</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">31</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">33</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">335</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">465</td>
 		</tr>
 		<tr>
-			<td>31</td>
-			<td>33</td>
-			<td>335</td>
-			<td>465</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">33</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">36</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">465</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">706</td>
 		</tr>
 		<tr>
-			<td>33</td>
-			<td>36</td>
-			<td>465</td>
-			<td>706</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">36</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">&nbsp;</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">465</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">706</td>
 		</tr>
 		<tr>
-			<td>36</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;465</td>
-			<td>706</td>
+			<td colspan="4" style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:551px">2 + 3 assen</td>
 		</tr>
 		<tr>
-			<td colspan="4">2 + 3 assen</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">36</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">38</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">370</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">515</td>
 		</tr>
 		<tr>
-			<td>36</td>
-			<td>38</td>
-			<td>370</td>
-			<td>515</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">38</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">&nbsp;</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">515</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">700</td>
 		</tr>
 		<tr>
-			<td>38</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;515</td>
-			<td>700</td>
+			<td colspan="4" style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:551px">3 + 2 assen</td>
 		</tr>
 		<tr>
-			<td colspan="4">3 + 2 assen</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">36</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">38</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">327</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">454</td>
 		</tr>
 		<tr>
-			<td>36</td>
-			<td>38</td>
-			<td>327</td>
-			<td>454</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">38</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">40</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">454</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">628</td>
 		</tr>
 		<tr>
-			<td>38</td>
-			<td>40</td>
-			<td>454</td>
-			<td>628</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">40</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">&nbsp;</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">628</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">929</td>
 		</tr>
 		<tr>
-			<td>40</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;628</td>
-			<td>929</td>
+			<td colspan="4" style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:551px">3 + 3 assen</td>
 		</tr>
 		<tr>
-			<td colspan="4">3 + 3 assen</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">36</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">38</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">186</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">225</td>
 		</tr>
 		<tr>
-			<td>36</td>
-			<td>38</td>
-			<td>186</td>
-			<td>225</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">38</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">40</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">225</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">336</td>
 		</tr>
 		<tr>
-			<td>38</td>
-			<td>40</td>
-			<td>225</td>
-			<td>336</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">40</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">&nbsp;</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">336</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">535</td>
 		</tr>
 		<tr>
-			<td>40</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;336</td>
-			<td>535</td>
+			<td colspan="4" style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:551px">andere combinaties dan bovenstaande combinaties aantal assen en MTT</td>
 		</tr>
 		<tr>
-			<td colspan="4">(*) Als gelijkwaardig erkende vering volgens de definitie in bijlage II bij richtlijn 96/53/EG van de Raad van 25 juli 1996 houdende vaststelling, voor bepaalde aan het verkeer binnen de Gemeenschap deelnemende wegvoertuigen, van de in het nationale en internationale verkeer maximaal toegestane afmetingen, en van de in het internationale verkeer toegestane gewichten (PB L 235 van 17.9.1996, blz. 59).</td>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">0</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">16</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">0</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">0</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">16</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">18</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">0</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">14</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">18</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">20</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">14</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">32</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">20</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">22</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">32</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">75</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">22</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">23</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">75</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">97</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">23</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">25</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">97</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">175</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">25</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">29</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">175</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">307</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">29</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">31</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">204</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">335</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">31</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">33</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">335</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">465</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">33</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">&nbsp;</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">465</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:138px">706</td>
+		</tr>
+		<tr>
+			<td colspan="4" style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:71px; vertical-align:top; width:551px">(*) Als gelijkwaardig erkende vering volgens de definitie in bijlage II bij richtlijn 96/53/EG van de Raad van 25 juli 1996 houdende vaststelling, voor bepaalde aan het verkeer binnen de Gemeen- schap deelnemende wegvoertuigen, van de in het nationale en internationale verkeer maximaal toegestane afmetingen, en van de in het internationale verkeer toegestane gewichten (PB L 235 van 17.9.1996, blz. 59).</td>
 		</tr>
 	</tbody>
 </table>
@@ -1353,16 +1389,16 @@ De kampeerwagens vallen buiten de toepassing van artikel 2.2.6.0.1, § 1, eerste
 
 ### ART. 2.2.4.0.2.
 
-<p>§ 1. In afwijking van artikel 2.2.4.0.1 bedraagt de belasting 31,61 euro voor :<br>
-1° de voertuigen die bij het ontstaan van de belastingplicht sedert meer dan dertig jaar in het verkeer zijn gebracht;<br>
-1/1° de voertuigen die voldoen aan een van de volgende voorwaarden:<br>
+<p>§ 1.In afwijking van artikel 2.2.4.0.1, §1, §2, §2/1, §2/2, §3, §3/1, §3/2, §3/3, §5, §6, §7 en §8, bedraagt de belasting:<br>
+1° 90,90 euro voor de voertuigen die bij het ontstaan van de belastingplicht sinds meer dan dertig jaar in het verkeer zijn gebracht;<br>
+1/1° 90,90 euro voor de voertuigen die voldoen aan een van de volgende voorwaarden:<br>
 a) in aanslagjaar 2017 sedert meer dan vijfentwintig jaar in het verkeer zijn gebracht;<br>
 b) in aanslagjaar 2018 sedert meer dan zesentwintig jaar in het verkeer zijn gebracht;<br>
 c) in aanslagjaar 2019 sedert meer dan zevenentwintig jaar in het verkeer zijn gebracht;<br>
 d) in aanslagjaar 2020 sedert meer dan achtentwintig jaar in het verkeer zijn gebracht;<br>
 e) in aanslagjaar 2021 sedert meer dan negenentwintig jaar in het verkeer zijn gebracht;<br>
 f) in aanslagjaar 2022 sedert meer dan dertig jaar in het verkeer zijn gebracht;<br>
-2° de kampeeraanhangwagens en de aanhangwagens die speciaal zijn ontworpen voor het vervoer van één boot.</p>
+2° 31,61 euro voor de kampeeraanhangwagens en de aanhangwagens die speciaal zijn ontworpen voor het vervoer van één boot.</p>
 
 <p>Artikel 2.2.6.0.3, eerste lid, artikel 2.2.6.0.4, artikel 3.3.2.0.1 en artikel 3.4.7.0.3 zijn niet van toepassing op de belasting, vermeld in het eerste lid.</p>
 
@@ -2681,19 +2717,25 @@ b) de voornamen, de achternaam en het domicilieadres van de natuur- lijke persoo
 a) de militaire of burgerlijke grootoorlogsinvaliden die een invaliditeitspensioen van ten minste 60 % genieten;<br>
 b) de personen die volledig blind zijn, volledig verlamd zijn aan de bovenste ledematen of van wie de bovenste ledematen geamputeerd zijn, en de personen die aangetast zijn door een blijvende invaliditeit die rechtstreeks toe te schrijven is aan de onderste ledematen en ten minste 50 % bedraagt;<br>
 4° de voertuigen voorzien van een beroepsplaat;<br>
-5° de voertuigen voorzien van een nationale plaat.</p>
-
-<p>De vrijstelling, vermeld in het eerste lid, 3°, is beperkt tot één personenauto per begunstigde en is afhankelijk van de voorlegging aan het bevoegde personeelslid van :<br>
+5° de voertuigen voorzien van een nationale plaat;<br>
+6° de voertuigen die specifiek worden omgebouwd voor het gemeenschappelijk vervoer van rolstoelgebruikers.<br>
+<br>
+De vrijstelling, vermeld in het eerste lid, 3°, is beperkt tot één personenauto per begunstigde en is afhankelijk van de voorlegging aan het bevoegde personeelslid van :<br>
 1° een getuigschrift, uitgereikt door de overheid die het invaliditeitspensioen heeft toegekend, met de vermelding dat de betrokkene de hoedanigheid van grootoorlogsinvalide heeft en een invaliditeitspensioen van ten minste 60 % geniet;<br>
-2° een invaliditeitsattest, uitgereikt door de FOD Sociale Zekerheid, met de vermelding dat de betrokkene recht heeft op vrijstelling van de verkeersbelasting, of dat hij is getroffen door volledige blindheid of volledige verlamming van de bovenste ledematen, of dat die ledematen geamputeerd zijn, of dat hij is aangetast door een blijvende invaliditeit die rechtstreeks toe te schrijven is aan de onderste ledematen en ten minste 50 % bedraagt.</p>
-
-<p>§ 2. Er wordt ook een vrijstelling van de belasting verleend voor de wegvoertuigen, luchtvaartuigen en boten die binnen zes maanden na de inschrijving conform artikel 2.3.2.0.1, § 1, tweede en derde lid, of na de uitreiking van een vlaggenbrief conform artikel 2.3.2.0.1, § 1, vierde lid, worden overgebracht naar een andere staat van de Europese Economische Ruimte en daar onder een definitieve regeling worden ingeschreven of van een vlaggenbrief worden voorzien.</p>
-
-<p>De vrijstelling, vermeld in het eerste lid, is afhankelijk van de voorlegging van de volgende documenten :<br>
+2° een invaliditeitsattest, uitgereikt door de FOD Sociale Zekerheid, met de vermelding dat de betrokkene recht heeft op vrijstelling van de verkeersbelasting, of dat hij is getroffen door volledige blindheid of volledige verlamming van de bovenste ledematen, of dat die ledematen geamputeerd zijn, of dat hij is aangetast door een blijvende invaliditeit die rechtstreeks toe te schrijven is aan de onderste ledematen en ten minste 50 % bedraagt.<br>
+<br>
+De vrijstelling, vermeld in het eerste lid, 6°, wordt verleend op voorwaarde dat de volgende documenten worden voorgelegd aan het bevoegde personeelslid:<br>
+1° een geldig certificaat van individuele nationale goedkeuring van een voer- tuig dat is afgeleverd door de bevoegde entiteit van de Vlaamse adminis- tratie of een gelijkwaardig certificaat dat is afgeleverd door de bevoegde entiteit van een staat binnen de Europese Economische Ruimte. Uit dat certificaat blijkt dat het voertuig twee of meer voor rolstoelgebruikers toegankelijke plaatsen heeft en omgebouwd is met een bodemverlaging of rolstoelplateaulift;<br>
+2° een schriftelijke verklaring waarin de houder van het voertuig bevestigt dat de verbouwing specifiek heeft plaatsgevonden om rolstoelgebruikers te vervoeren.<br>
+<br>
+<br>
+§ 2. Er wordt ook een vrijstelling van de belasting verleend voor de wegvoertuigen, luchtvaartuigen en boten die binnen zes maanden na de inschrijving conform artikel 2.3.2.0.1, § 1, tweede en derde lid, of na de uitreiking van een vlaggenbrief conform artikel 2.3.2.0.1, § 1, vierde lid, worden overgebracht naar een andere staat van de Europese Economische Ruimte en daar onder een definitieve regeling worden ingeschreven of van een vlaggenbrief worden voorzien.<br>
+<br>
+De vrijstelling, vermeld in het eerste lid, is afhankelijk van de voorlegging van de volgende documenten :<br>
 1° naargelang het geval, het bewijs van de afvoering van het wegvoertuig in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid, van de doorhaling van het luchtvaartuig in het Belgisch luchtvaartuigregister of van het terugzenden van de vlaggenbrief aan de autoriteit die hem heeft afgeleverd;<br>
-2° het bewijs van de inschrijving van het wegvoertuig of het luchtvaartuig, of van de aflevering van een vlaggenbrief of een gelijkwaardig document, volgens een definitieve regeling, in de betrokken staat van de Europese Economische Ruimte.</p>
-
-<p>Als een wegvoertuig in een andere staat van de Europese Economische Ruimte door een beroepshandelaar uit de automobielsector geleverd wordt, kan het document, vermeld in het tweede lid, 2°, geldig worden vervangen door een afschrift van de factuur die de overdracht bekrachtigt, en het bewijs van betaling van die factuur.<br>
+2° het bewijs van de inschrijving van het wegvoertuig of het luchtvaartuig, of van de aflevering van een vlaggenbrief of een gelijkwaardig document, volgens een definitieve regeling, in de betrokken staat van de Europese Economische Ruimte.<br>
+<br>
+Als een wegvoertuig in een andere staat van de Europese Economische Ruimte door een beroepshandelaar uit de automobielsector geleverd wordt, kan het document, vermeld in het tweede lid, 2°, geldig worden vervangen door een afschrift van de factuur die de overdracht bekrachtigt, en het bewijs van betaling van die factuur.<br>
 <br>
 § 3. Er wordt een vrijstelling van de belasting verleend voor de op afstand bestuurde luchtvaartuigsystemen.<br>
 <br>
@@ -2813,33 +2855,6 @@ De wegen of wegsegmenten die onder een van de wegtypes, vermeld in de bovenstaan
 6° Et = variatie in functie van de tijd;<br>
 7° Ep = variatie in functie van de plaats;<br>
 8° Ex = toeslag in functie van de door het voertuig veroorzaakte externe kosten, in functie van de hoogte van de EURO-emissieklasse, gedifferentieerd volgens de volgende tabel :<br>
-&nbsp;
-<table border="1">
-	<tbody>
-		<tr>
-			<td>EURO-emissieklasse</td>
-			<td>Ex</td>
-		</tr>
-		<tr>
-			<td>EURO 5 of EEV of hoger</td>
-			<td>1,1</td>
-		</tr>
-		<tr>
-			<td>EURO 4</td>
-			<td>3.2</td>
-		</tr>
-		<tr>
-			<td>EURO 3</td>
-			<td>6,3</td>
-		</tr>
-		<tr>
-			<td>overige EURO-emissieklassen</td>
-			<td>8,3</td>
-		</tr>
-	</tbody>
-</table>
-<br>
-Vanaf 1 januari 2018 wordt volgende tabel toegepast :<br>
 &nbsp;
 <table border="1">
 	<tbody>
@@ -3071,7 +3086,7 @@ Voor de toepassing van het eerste lid geldt, behalve in geval van sloop, het ver
 
 De heffing wordt vastgesteld op een basisbedrag van 1100 euro.<br>
 <br>
-Het basisbedrag, vermeld in het eerste lid, wordt met ingang van 1 januari 2022 jaarlijks aangepast op 1 januari op grond van de schommelingen van het algemene indexcijfer van de consumptieprijzen van het Rijk, vastgesteld tussen de maand november van het jaar voorafgaand aan het vorige jaar en de maand november van het vorige jaar.<br>
+Het basisbedrag, vermeld in het eerste lid, wordt met ingang van 1 januari 2022 jaarlijks geïndexeerd op 1 januari met behulp van de coëfficiënt die wordt verkregen door het algemene indexcijfer van de consumptieprijzen van het Rijk voor de maand november van het vorige jaar te delen door het algemene indexcijfer van de consumptieprijzen van het Rijk voor de maand november van het jaar 2020.<br>
 <br>
 Het aangepast basisbedrag, vermeld in het tweede lid, wordt afgerond op de lagere vijftig euro.
 
@@ -4670,11 +4685,11 @@ De koper die de voorwaarden, vermeld in het eerste lid, 1° of 2°, niet is nage
 
 ### ART 2.9.4.2.15.
 
-§ 1. In afwijking van artikel 2.9.4.1.1 bedraagt het verkooprecht 10% voor verkoopovereenkomsten van onbebouwde landgoederen en onbebouwde onroerende goederen waarvoor een natuurbeheerplan type twee of drie als vermeld in artikel 16ter, § 1, 2° en 3°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, is goedgekeurd conform artikel 16octies van het voormelde decreet.<br>
+§ 1. In afwijking van artikel 2.9.4.1.1 bedraagt het verkooprecht 10% voor verkoopovereenkomsten van onbebouwde onroerende goederen die stedenbouwkundig uitsluitend en volledig zijn bestemd voor landbouw of die uitsluitend en volledig liggen in de categorie gebiedsaanduiding landbouw of een subcategorie van de gebiedsaanduiding landbouw en onbebouwde onroerende goederen waarvoor een natuurbeheerplan type twee of drie als vermeld in artikel 16ter, § 1, 2° en 3°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, is goedgekeurd conform artikel 16octies van het voormelde decreet.<br>
 <br>
 § 2. Voor de toepassing van het verlaagd tarief, vermeld in paragraaf 1, moeten naargelang het geval de volgende voorwaarden vervuld zijn:<br>
-1° de verkrijgers van het onbebouwde landgoed voldoen aan de verplichting, vermeld in artikel 3.12.3.0.1, § 1;<br>
-2° de verkrijgers van het onbebouwd onroerend goed voldoen aan de verplichting, vermeld in artikel 3.12.3.0.1, § 1 en § 3.
+1° de verkrijgers van het onbebouwde onroerend goed dat stedenbouwkundig uitsluitend en volledig is bestemd voor landbouw of dat uitsluitend en volledig ligt in de categorie gebiedsaanduiding landbouw of een subcategorie van de gebiedsaanduiding landbouw voldoen aan de verplichting, vermeld in artikel 3.12.3.0.1, §1;<br>
+2° de verkrijgers van het onbebouwde onroerend goed waarvoor een natuurbeheerplan type twee of drie als vermeld in artikel 16ter, §1, 2° en 3°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, is goedgekeurd conform artikel 16octies van het voormelde decreet, van toepassing is, voldoen aan de verplichting, vermeld in artikel 3.12.3.0.1, §1 en §3.
 
 ## [Afdeling 5. Verminderingen (ing. Decr. 19 december 2014, art. 144, I: 1 januari 2015)]
 
@@ -5201,29 +5216,13 @@ De belastingplichtige is de eigenaar van het automatische ontspanningstoestel.
 
 ### ART 2.13.3.0.1.
 
-§ 1. De automatische ontspanningstoestellen zijn volgens hun type ingedeeld in vijf categorieën, respectievelijk aangeduid door de letters A, B, C, D en E.<br>
+§ 1. De automatische ontspanningstoestellen zijn volgens hun type ingedeeld in vier categorieën, respectievelijk aangeduid door de cijfers 1, 2, 3 en 4.<br>
 <br>
-§ 2. De volgende automatische ontspanningstoestellen worden respectievelijk gerangschikt in de volgende categorieën:<br>
-1° de categorie A:<br>
-a) de elektrische biljarten met veranderlijke inzet, gewoonlijk "Bingo" genaamd, waarvan het spel erin bestaat verscheidene ballen of kogels in de op het horizontale vlak van het toestel gemaakte gaten te plaatsen met het doel, naargelang van het type van toestel, op het paneel van het verticale vlak verschillende cijfers of tekens op een horizontale, verticale of diagonale lijn of in een bepaalde zone te belichten;<br>
-b) de elektrische biljarten met veranderlijke inzet, gewoonlijk "One-ball" genaamd, waarvan het spel erin bestaat op het horizontale vlak van het toestel een bal of kogel te plaatsen in een van de gaten die hetzelfde cijfer draagt als het cijfer dat op het paneel van het verticale vlak verlicht is;<br>
-c) de automatische ontspanningstoestellen, inclusief de toestellen, vermeld in punt 3° tot en met 5°, die aan de speler of gebruiker toelaten, zelfs toevallig, tenminste het bedrag van de gedane inzet in geld of in de vorm van penningen terug te winnen of prijzen te winnen, in natura of in de vorm van premiebons, met een handelswaarde van ten minste 6,20 euro;<br>
-d) de kansspelen op virtuele weddenschappen;<br>
-2° de categorie B: de automatische ontspanningstoestellen, vermeld in punt 1°, c), die eigendom zijn van foorreizigers en in het Vlaamse Gewest maximaal tien weken aaneensluitend op eenzelfde plaats zijn opgesteld in mobiele installaties op foren, jaarmarkten, handelsforen, wijkkermissen en feestelijkheden;<br>
-3° de categorie C:<br>
-a) de automatische kranen met grijp- of duwarm;<br>
-b) de elektrische biljarten met vaste inzet, gewoonlijk "Pin-Ball", "Flipper" of "Flip-Tronic" genaamd, waarvan het spel erin bestaat ballen of kogels te lanceren die, door hun aanraking met sommige hinderpalen, die zich op het horizontale vlak van het toestel bevinden, op het paneel van het verticale vlak het resultaat van het spel zichtbaar maken in de vorm van punten, tekens of afbeeldingen;<br>
-c) de automatische kegelspelen, die normaal verplaatsbaar zijn en gewoonlijk het gebruik van ballen of kogels vereisen;<br>
-d) de automatische ontspanningstoestellen die simultaan films of beelden projecteren en klank verspreiden;<br>
-4° de categorie D:<br>
-a) de automatische platenspelers, gewoonlijk "Juke-Box" genaamd, die uitsluitend muziek verspreiden, zelfs als ze op afstand in werking worden gesteld;<br>
-b) de automatische kegelspelen, die normaal verplaatsbaar zijn en gewoonlijk het gebruik van schijven vereisen;<br>
-c) de automatische schietapparaten;<br>
-d) de elektrische golf-, hockey-, tennis- en voetbalspelen, het elektrisch balspel van het model "Spinner" en de elektrische toestellen van het model "Base-ball", "Basket-ball", "Drop-ball", "Skee-ball", "Skee-fun", "All-Star Bowler" en "Ten Strike";<br>
-e) iedere elektrische biljart die deel uitmaakt van het competitiespel dat normaal op foren en kermissen wordt georganiseerd en gewoonlijk "Bumper" wordt genoemd;<br>
-5° de categorie E:<br>
-a) alle automatische ontspanningstoestellen die bij de bevoegde overheid zijn aangegeven ter uitvoering van artikel 3.12.4.0.1 en die niet in een van de categorieën A tot en met D zijn gerangschikt;<br>
-b) de automatische ontspanningstoestellen met een verminderde inzet.<br>
+§ 2. De volgende automatische ontspanningstoestellen behoren respectievelijk tot de volgende categorieën:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;categorie 1: de automatische ontspanningstoestellen die kansspelen zijn als vermeld in artikel 2, eerste lid, 1°, van de Kansspelwet van 7 mei 1999, met uitzondering van de toestellen die behoren tot de categorie 2, vermeld in punt 2°;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;categorie 2: de automatische kansspelen met verminderde inzet, vermeld in artikel 2, eerste lid, 11°, van de Kansspelwet van 7 mei 1999;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;categorie 3: de automatische ontspanningstoestellen, met uitzondering van de toestellen die behoren tot de categorie 1 of 2, vermeld in punt 1° en 2°, die het toelaten, zelfs toevallig of bijkomstig, een prijs te winnen in geld, in natura, in de vorm van penningen of premiebons;&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;categorie 4: de automatische ontspanningstoestellen die niet behoren tot de categorieën 1 tot en met 3, vermeld in punt 1° tot en met 3°.<br>
 <br>
 Wanneer technische, economische of sociale omstandigheden het vereisen, kan de categorie waarin een type toestel moet worden gerangschikt, vastgesteld of gewijzigd worden door de Vlaamse Regering, na raadpleging van de betrokken beroepsverenigingen. Voor de rangschikking van een toestel wordt rekening gehouden met zijn rendabiliteit, de aard van het aangeboden spel en de menigvuldigheid van de inzet.
 
@@ -5237,33 +5236,48 @@ Als de combinatie, vermeld in het eerste lid, de aard vertoont van een competiti
 
 ### ART 2.13.4.0.1.
 
-&nbsp;De belasting wordt berekend volgens het tarief per kalenderjaar, vermeld in de volgende tabel:<br>
-&nbsp;
-<table border="1">
+&nbsp;De belasting wordt berekend volgens het tarief per kalenderjaar, vermeld in de volgende tabel:
+<table border="1" cellspacing="0" class="Table" style="border-collapse:collapse; border:solid windowtext 1.0pt; margin-left:4.1pt">
 	<tbody>
 		<tr>
-			<td>categorie van het toestel</td>
-			<td>tarief in euro</td>
+			<td style="height:17.0pt; width:151.45pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:left"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">categorie van het toestel</span></span></p>
+			</td>
+			<td style="height:17.0pt; vertical-align:top; width:106.45pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:right"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">tarief in euro</span></span></p>
+			</td>
 		</tr>
 		<tr>
-			<td>A</td>
-			<td>4.000</td>
+			<td style="height:17.0pt; width:151.45pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:left"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">1</span></span></p>
+			</td>
+			<td style="height:17.0pt; vertical-align:top; width:106.45pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:right"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">4000</span></span></p>
+			</td>
 		</tr>
 		<tr>
-			<td>B</td>
-			<td>1.290</td>
+			<td style="height:17.0pt; width:151.45pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:left"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">2</span></span></p>
+			</td>
+			<td style="height:17.0pt; vertical-align:top; width:106.45pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:right"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">500</span></span></p>
+			</td>
 		</tr>
 		<tr>
-			<td>C</td>
-			<td>0</td>
+			<td style="height:17.0pt; width:151.45pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:left"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">3</span></span></p>
+			</td>
+			<td style="height:17.0pt; vertical-align:top; width:106.45pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:right"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">55</span></span></p>
+			</td>
 		</tr>
 		<tr>
-			<td>D</td>
-			<td>0</td>
-		</tr>
-		<tr>
-			<td>E</td>
-			<td>150</td>
+			<td style="height:17.0pt; width:151.45pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:left"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">4</span></span></p>
+			</td>
+			<td style="height:17.0pt; vertical-align:top; width:106.45pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:right"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">0</span></span></p>
+			</td>
 		</tr>
 	</tbody>
 </table>
@@ -5286,7 +5300,7 @@ De provincies en de gemeenten zijn niet gemachtigd tot het heffen van opcentieme
 
 ### ART 2.13.5.0.2.
 
-De belasting op de automatische ontspanningstoestellen, vermeld in artikel 2.13.3.0.1, § 2, die eigendom zijn van foorreizigers, wordt verminderd tot 10% als ze in het Vlaamse Gewest maximaal tien weken aaneensluitend op eenzelfde plaats zijn opgesteld in mobiele installaties op foren, jaarmarkten, handelsforen, wijkkermissen en feestelijkheden.
+...
 
 ## [Afdeling 6 Vrijstellingen (ing. Decr. 7 december 2018, art. 33, I: 1 januari 2019)]
 
@@ -5378,7 +5392,7 @@ De Vlaamse Regering bepaalt welk percentage van de leegstandsheffing bedrijfsrui
 
 ### ART. 3.1.0.0.6.
 
-De provincies en de gemeenten die met toepassing van artikel 2.1.4.0.2 opcentiemen op de onroerende voorheffing heffen, en die met toepassing van artikel 2.1.4.0.1, § 2, eerste lid, 5° en 7°, en § 2/1, artikel 2.1.5.0.1, § 2, artikel 2.1.6.0.2 en artikel 2.2.6.0.1, § 2, 2°, die opbrengsten derven, worden daarvoor volledig vergoed door het Vlaamse Gewest. De compensatie voor artikel 2.2.6.0.1, § 2, 2°, geldt enkel voor voertuigen die voor het eerst worden vrijgesteld vanaf aanslagjaar 2019.
+De provincies en de gemeenten die met toepassing van artikel 2.1.4.0.2 opcentiemen op de onroerende voorheffing heffen, en die met toepassing van artikel 2.1.4.0.1, § 2,&nbsp;eerste lid, 3°, voor zover het eigendommen betreft die verhuurd worden conform de voorwaarden ter uitvoering van artikel 4.40, 4°, van de Vlaamse Codex Wonen van 2021,&nbsp;en 7°, en § 2/1, artikel 2.1.5.0.1, § 2, artikel 2.1.6.0.2 en artikel 2.2.6.0.1, § 2, 2°, die opbrengsten derven, worden daarvoor volledig vergoed door het Vlaamse Gewest. De compensatie voor artikel 2.2.6.0.1, § 2, 2°, geldt enkel voor voertuigen die voor het eerst worden vrijgesteld vanaf aanslagjaar 2019.
 
 ### ART. 3.1.0.0.7.
 
@@ -5704,7 +5718,7 @@ De belastingplichtige geeft elke wijziging van de elementen van de aangifte, ver
 <br>
 Bij gebrek aan andersluidende kennisgeving is de aangifte die ingediend is voor een kwartaal, geldig voor de volgende kwartalen.<br>
 <br>
-De aangifteplicht die is bepaald in dit artikel geldt niet voor de opstelling van automatische ontspanningstoestellen, vermeld in artikel 2.13.3.0.1, § 2, eerste lid, 3° en 4°.
+De aangifteplicht die is bepaald in dit artikel geldt niet voor de opstelling van automatische ontspanningstoestellen, vermeld in artikel 2.13.3.0.1, §2, eerste lid, 4°.
 
 ## Afdeling 2 Aanslagjaar en belastbaar tijdperk
 
@@ -6720,7 +6734,7 @@ Dit artikel is niet van toepassing in geval van bijvoeging of van neerlegging, i
 
 ### ART 3.12.4.0.1.
 
-De invoerder, de fabrikant of al wie rechtstreeks of onrechtstreeks als dusdanig optreedt, geeft voor de rangschikking, vermeld in artikel 2.13.3.0.1, § 2, elk model van automatisch ontspanningstoestel aan bij de bevoegde entiteit van de Vlaamse administratie voor hij in het Vlaamse Gewest opstelt, verkoopt of verhuurt. Als een toestel niet wordt aangegeven, wordt het toestel ambtshalve gerangschikt in categorie A, vermeld in artikel 2.13.3.0.1, § 2, eerste lid, 1°
+Een automatisch ontspanningstoestel dat een kansspel is als vermeld in artikel 2, eerste lid, 1°, van de Kansspelwet van 7 mei 1999, en niet beschikt over het goedkeuringsattest, vermeld in artikel 52 van voormelde wet, wordt ambtshalve beschouwd als een toestel van de categorie 1, vermeld in artikel 2.13.3.0.1, §2, eerste lid, 1°.
 
 ## [Afdeling [5 (verv. decr. 20 november 2020, art. 8)][. Verplichtingen in het kader van de burgerlijke vordering (ing. Decr. 21 december 2018, art. 47, I: 7 januari 2019)]
 
@@ -7682,6 +7696,12 @@ De termijn van drie jaar, vermeld in artikel 2.9.4.2.11, § 2, eerste lid, 2°, 
 
 De zekerheden die werden gesteld ter uitvoering van artikel 3.10.5.1.3, zoals het van toepassing was voor de opheffing van dat artikel, worden vrijgegeven. Kosten die aan deze vrijgave zouden verbonden zijn, zijn ten laste van de borgsteller.
 
+### ART 5.0.0.0.16.
+
+In afwijking van artikel 3.3.1.0.16, eerste lid, kan de belastingplichtige voor een automatisch ontspanningstoestel dat in de eerste helft van januari 2023 wordt opgesteld, een aangifte indienen bij de bevoegde entiteit van de Vlaamse administratie uiterlijk op 15 januari 2023.&nbsp;<br>
+<br>
+In afwijking van artikel 3.3.1.0.16, vierde lid, wordt een aangifte die is inge-diend, of automatisch verlengd, voor de opstelling van automatische ontspannings-toestellen in het vierde kwartaal van 2022 niet automatisch verlengd.
+
 ### ART 5.0.0.0.17.
 
 Artikel 3.6.0.0.1, zoals gewijzigd bij het decreet van [...], is van toepassing op de aanslagen, waarvoor de termijn, vermeld in artikel 3.6.0.0.1, eerste lid, 1°, nog niet is verstreken.
@@ -7689,6 +7709,14 @@ Artikel 3.6.0.0.1, zoals gewijzigd bij het decreet van [...], is van toepassing 
 ### ART 5.0.0.0.18.
 
 De termijn van drie jaar, vermeld in artikel 2.9.4.2.12, §2, eerste lid, 1°, en artikel 2.9.4.2.14, §5, eerste lid, 1°, geldt van rechtswege ook voor overeenkomsten houdende zuivere aankoop die gesloten zijn vanaf 1 januari 2022, of, in afwijking daarvan, op authentieke akten verleden vanaf 1 januari 2022, wanneer de overeenkomsten houdende zuivere aankoop waarop de akten betrekking hebben, gesloten zijn voor 1 januari 2022 en waarvoor het tarief, vermeld in respectievelijk artikel 2.9.4.2.12 en 2.9.4.2.14, werd toegepast.
+
+### ART 5.0.0.0.19.
+
+De definitie van lichte vrachtauto, vermeld in artikel 1.1.0.0.2, derde lid, 2°, a) en b), wordt op de voertuigen die na 31 december 2022 voor de eerste keer ingeschreven worden in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid of bij een vergelijkbare instelling binnen de Europese Economische Ruimte of een andere staat en nadien in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid toegepast zoals de voormelde definitie van toepassing was vóór 1 januari 2023, als voldaan is aan de volgende voorwaarden:<br>
+1° &nbsp; het voertuig is voor 1 januari 2023 besteld;<br>
+2° een kopie van de bestelbon is aan de bevoegde entiteit van de Vlaamse administratie bezorgd voor 15 februari 2023, samen met een formulier, dat de voormelde entiteit te beschikking stelt, dat wordt ondertekend door de betrokken belastingplichtige en dat minstens al de volgende gegevens bevat:<br>
+a)&nbsp;&nbsp; &nbsp;het identificatienummer uit het Rijksregister van de natuurlijke personen of het identificatienummer, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid, van de persoon op de naam van wie het voertuig ingeschreven is of zal worden in het repertorium van het Directoraat- generaal Mobiliteit en Verkeersveiligheid;<br>
+b)&nbsp;&nbsp; &nbsp;de voornamen, de achternaam en het domicilieadres van de natuurlijke persoon op de naam van wie het voertuig ingeschreven is of zal worden in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid.
 
 ### ART 5.1.0.0.14.
 
