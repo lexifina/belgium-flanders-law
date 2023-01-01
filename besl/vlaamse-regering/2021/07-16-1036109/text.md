@@ -55,9 +55,9 @@ De gewestwaarborg, vermeld in het eerste lid, wordt verstrekt voor de economisch
 ### ART 3.
 
 § 1. Met behoud van de toepassing van artikel 2 en 4, dekt de gewestwaarborg de volgende verbintenissen en aansprakelijkheden inzake de werken om de realisatie van de nieuwe Scheldeoeververbindingen mogelijk te maken:<br>
-1° de burgerrechtelijke aansprakelijkheid in hoofde van BAM en alle betrokken bouwpartijen bij de werken ter realisatie van de nieuwe Scheldeoeververbindingen:<br>
-a) voor de verzekeringslaag tot 5 miljoen euro: 50% aanvullende gewestwaarborg, naast het aandeel van 50% van de private leidende verzekeraar, overeenkomstig de polisvoorwaarden van de leidende verzekeraar, die opgenomen zijn in bijlage 1, die bij dit besluit is gevoegd;<br>
-b) voor de verzekeringslaag van 5 miljoen euro tot 200 miljoen euro: 100% aanvullende gewestwaarborg overeenkomstig de polisvoorwaarden van de leidende verzekeraar, die opgenomen zijn in bijlage 1, die bij dit besluit is gevoegd;<br>
+1° de burgerrechtelijke aansprakelijkheid van BAM en alle bouwpartijen die bij de werken betrokken zijn, ter realisatie van de nieuwe Scheldeoeververbindingen:<br>
+a)&nbsp;&nbsp; &nbsp;voor de verzekeringslaag tot 5 miljoen euro: 0% aanvullende gewestwaarborg;<br>
+b)&nbsp;&nbsp; &nbsp;voor de verzekeringslaag van 5 miljoen euro tot 200 miljoen euro: 0% aanvullende gewestwaarborg;<br>
 2° de beroepsaansprakelijkheid in hoofde van BAM en alle betrokken bouwpartijen bij de werken ter realisatie van de nieuwe Scheldeoeververbindingen: voor de verzekeringslaag tot 10 miljoen euro, exclusief de dekking overeenkomstig de wet van 9 mei 2019 betreffende de verplichte verzekering van de burgerlijke beroepsaansprakelijkheid van architecten, landmeters-experten, veiligheids- en gezondheidscoördinatoren en andere dienstverleners in de bouwsector van werken in onroerende staat en tot wijziging van diverse wetsbepalingen betreffende de verzekering burgerrechtelijke aansprakelijkheid in de bouwsector: 50% aanvullende gewestwaarborg, naast het aandeel van 50% van de private leidende verzekeraar overeenkomstig de polisvoorwaarden van de leidende verzekeraar, die opgenomen zijn in bijlage 2, die bij dit besluit is gevoegd.<br>
 <br>
 § 2. Als de polisvoorwaarden van de private leidende verzekeraar, die opgenomen zijn in bijlage 1 en 2, die bij dit besluit zijn gevoegd, wijzigen, zijn de ministers gemachtigd de voorwaarden van de waarborg aan te passen aan de gewijzigde polisvoorwaarden.<br>
@@ -74,7 +74,7 @@ Met behoud van artikel 2 vangt de gewestwaarborg aan voor een periode van drie j
 
 ### ART 5.
 
-§ 1. Voor de periode dat de gewestwaarborg van kracht is, is BAM aan het Vlaamse Gewest een jaarlijkse indexeerbare vergoeding van 1.221.818,00 euro verschuldigd.<br>
+§ 1. Voor de periode dat de gewestwaarborg van kracht is, is BAM aan het Vlaamse Gewest een jaarlijkse indexeerbare vergoeding van 244.363,60 euro verschuldigd.<br>
 <br>
 Die jaarlijkse vergoeding wordt telkens op 15 januari pro rata de duurtijd voorafgaand aan de verstrekte waarborg betaald door BAM. De toepasselijke basisindex is de ABEX (878) van mei 2021.<br>
 <br>
