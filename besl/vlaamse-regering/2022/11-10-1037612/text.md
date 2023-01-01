@@ -22,24 +22,16 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Elke student die in het academiejaar 2021-2022 aan een ambtshalve geregistreerde instelling in Vlaanderen een diploma van bachelor in de verpleegkunde behaalt met een studieomvang van 240 studiepunten, komt in aanmerking voor een eenmalige onkostenvergoeding, die 1000 euro bedraagt.
+...
 
 ### ART 2.
 
-In dit artikel wordt verstaan agentschap: het intern verzelfstandigd agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid".<br>
-<br>
-Het agentschap betaalt de eenmalige onkostenvergoeding, vermeld in artikel 1, uit.<br>
-<br>
-Om de eenmalige onkostenvergoeding, vermeld in artikel 1, te ontvangen, vraagt de student, vermeld in artikel 1, die onkostenvergoeding aan via een aanvraagformulier dat het agentschap daarvoor ter beschikking stelt op zijn website.<br>
-<br>
-De student, vermeld in artikel 1, bezorgt de aanvraag conform het derde lid, op straffe van verval van het recht op de onkostenvergoeding, uiterlijk op 30 november 2022 aan het agentschap.<br>
-<br>
-Het agentschap betaalt de onkostenvergoeding uiterlijk op 31 december 2022 uit.
+...
 
 ### ART 3.
 
-Dit besluit heeft uitwerking met ingang van 14 oktober 2022 en treedt buiten werking op 31 december 2022.
+...
 
 ### ART 4.
 
-De Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, is belast met de uitvoering van dit besluit.
+...
