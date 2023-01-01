@@ -2,16 +2,16 @@
   "codex_id": 1020848,
   "title": "Ministerieel besluit van 2011-10-06 met betrekking tot de werking van het digitaal prestatieregister gekoppeld aan de Prestatiedatabank",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020848/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "a0666a020dd9047a7b20311270d69032411ed1687de985f75fd92fc8c8337365",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020848/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "c4a90853dae36f9501355180bdf6dfd73f76502df03dd65263a30116c639b80e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020848&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2023-01-01",
   "made": "2011-10-06",
   "gazette": "2011-10-17",
   "numac": 2011035843,
   "document_start": "2011-10-27",
   "document_end": "2022-12-31",
-  "in_force": "2021-01-01",
+  "in_force": "2023-01-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }
