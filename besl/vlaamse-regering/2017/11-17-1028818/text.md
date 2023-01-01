@@ -128,9 +128,17 @@ De partnerorganisatie kan alleen erkend worden als elk erkend vertrouwenscentrum
 
 ### ART 15.
 
-De partnerorganisatie draagt bij tot de sensibilisering van de samenleving voor de problematiek van kindermishandeling.<br>
-<br>
-De partnerorganisatie voorziet in inhoudelijke en praktijkgerichte ondersteuning en ontwikkeling van de werking van de vertrouwenscentra kindermishandeling en draagt bij tot de inhoudelijke en praktijkgerichte ondersteuning van de werking van personen en voorzieningen die jeugdhulpverlening aanbieden en van dienstverleners, voor de gepaste omgang met kindermishandeling.
+De partnerorganisatie heeft de volgende opdrachten:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;kennisopbouw, deskundigheids- en ervaringsdeskundigheidsbevordering over kindermishandeling;<br>
+2°&nbsp;&nbsp; &nbsp;bijdragen tot de sensibilisering van de samenleving voor de problematiek van kindermishandeling;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;voorzien in inhoudelijke en praktijkgerichte ondersteuning en ontwikkeling van de werking van de vertrouwenscentra kindermishandeling en het stimuleren van de organisatorische samenwerking van de vertrouwenscentra kindermishandeling;&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;bijdragen tot de inhoudelijke en praktijkgerichte ondersteuning in de gepaste omgang met kindermishandeling voor:<br>
+a)&nbsp;&nbsp; &nbsp;jeugdhulpaanbieders;<br>
+b)&nbsp;&nbsp; &nbsp;personen en voorzieningen die jeugdhulpverlening aanbieden;<br>
+c)&nbsp;&nbsp; &nbsp;dienstverleners;&nbsp;<br>
+d)&nbsp;&nbsp; &nbsp;organisaties en voorzieningen binnen sectoren die met kinderen en jongeren werken;<br>
+5°&nbsp;&nbsp; &nbsp;bijdragen tot de inhoudelijke en praktijkgerichte ondersteuning in de gepaste omgang met kindermishandeling voor sectoren die met volwassenen werken door onder andere de ontwikkeling en implementatie van de kindreflex;&nbsp;<br>
+6°&nbsp;&nbsp; &nbsp;in opdracht van het agentschap adviseren over de veiligheid van minderjarigen in een voorziening en over het pedagogisch handelen in een voorziening op basis van een gestructureerd risicotaxatieproces.
 
 ## Onderafdeling 4. Erkenningsvoorwaarden voor de vertrouwenscentra kindermishandeling en de partnerorganisatie
 
@@ -198,9 +206,21 @@ Het agentschap kent voor de duur van de erkenning een subsidie toe als vermeld i
 
 ### ART 28.
 
-De subsidie wordt toegekend als het vertrouwenscentrum kindermishandeling of de partnerorganisatie voldoet aan al de volgende voorwaarden:<br>
+§1. De subsidie wordt toegekend als het vertrouwenscentrum kindermishandeling voldoet aan al de volgende voorwaarden:<br>
 1° de erkenningsvoorwaarden die van toepassing zijn, vermeld in hoofdstuk 2, afdeling 3;<br>
-2° de bepalingen, vermeld in hoofdstuk 3, afdeling 2.
+2° de bepalingen, vermeld in hoofdstuk 3, afdeling 2.<br>
+<br>
+§2. De subsidie wordt toegekend als de partnerorganisatie voldoet aan al de volgende voorwaarden:<br>
+1° de erkenningsvoorwaarden, vermeld in hoofdstuk 2, afdeling 3, die van toepassing zijn;<br>
+2° de bepalingen, vermeld in hoofdstuk 3, afdeling 2;<br>
+3° beschikken over een jaarplan dat het agentschap heeft goedgekeurd.<br>
+<br>
+Het jaarplan, vermeld in het eerste lid, 3°, behandelt de periode van één kalenderjaar en bevat een omschrijving van de wijze waarop de partnerorganisatie de opdrachten, vermeld in artikel 15, zal vormgeven en uitvoeren en de daaraan gekoppelde begroting.&nbsp;<br>
+<br>
+De partnerorganisatie bezorgt het jaarplan, vermeld in het eerste lid, 3°, aan het agentschap uiterlijk op 1 oktober van het jaar dat voorafgaat aan het werkjaar waarop het jaarplan betrekking heeft.&nbsp;<br>
+<br>
+Het agentschap beslist uiterlijk op 1 december van het jaar dat voorafgaat aan het werkjaar waarop het jaarplan, vermeld in het eerste lid, 3°, betrekking heeft, over de goedkeuring van dat jaarplan. Voor het agentschap het voormelde jaarplan goedkeurt, kan het aan de partnerorganisatie, na overleg, vragen om dat jaarplan te wijzigen.<br>
+&nbsp;
 
 ### ART 29.
 
@@ -214,7 +234,7 @@ In het eerste lid wordt verstaan onder de kosten ten laste van de subsidie: een 
 <br>
 Een overschot als vermeld in het eerste lid, wordt gecompenseerd door een tekort. Het gecumuleerde overschot ten laste van de subsidie is, met uitzondering van het sociaal passief, maximaal 50% van de jaarlijkse subsidie. Voor de toepassing van deze bepaling wordt het sociaal passief beperkt tot 25% van de jaarlijkse personeelskosten.<br>
 <br>
-§ 2. Het gecumuleerde overschot ten laste van de subsidie wordt door het agentschap berekend en bijgehouden, en wordt jaarlijks bij de saldoafrekening, vermeld in artikel 32, tweede lid, ter kennis gebracht van het vertrouwenscentrum kindermishandeling of de partnerorganisatie.<br>
+§ 2. Het gecumuleerde overschot ten laste van de subsidie wordt door het agentschap berekend en bijgehouden, en wordt jaarlijks bij de saldoafrekening, vermeld in artikel 32, derde lid, ter kennis gebracht van het vertrouwenscentrum kindermishandeling of de partnerorganisatie.<br>
 <br>
 § 3. Als in het financieel verslag een staat van ontvangsten en uitgaven is opgenomen met toepassing van het besluit van de Vlaamse Regering van 13 januari 2006 betreffende de boekhouding en het financieel verslag voor de voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin, wordt voor de toepassing van dit artikel het woord "opbrengsten" gelezen als "ontvangsten" en wordt het woord "kosten" gelezen als "uitgaven".
 
@@ -229,26 +249,24 @@ Een overschot als vermeld in het eerste lid, wordt gecompenseerd door een tekort
 Er wordt voor elk vertrouwenscentrum kindermishandeling jaarlijks aanvullend een tegemoetkoming voor anciënniteitsontwikkeling vastgesteld, op basis van het verschil in gemiddelde anciënniteit van de personeelsleden van het vertrouwenscentrum kindermishandeling in het voorgaande jaar, in vergelijking met het basisjaar 2016.<br>
 <br>
 § 2. Onverminderd artikel 27, paragraaf 1, behoudt het vertrouwenscentrum kindermishandeling, vermeld in artikel 53, bij de berekening van het subsidiebedrag, vermeld in paragraaf 1, eerste lid, het volgende subsidiebedrag dat op dat vertrouwenscentrum kindermishandeling betrekking heeft:<br>
-1° vertrouwenscentrum kindermishandeling Antwerpen: 1.644.181,23 euro (een miljoen zeshonderdvierenveertigduizend honderdeenentachtig euro drieëntwintig cent);<br>
-2° vertrouwenscentrum kindermishandeling Brussel-Hoofdstad: 907.994,25 euro (negenhonderdenzevenduizend negenhonderdvierennegentig euro vijfentwintig cent);<br>
-3° vertrouwenscentrum kindermishandeling Limburg: 1.024.794,48 euro (een miljoen vierentwintigduizend zevenhonderdvierennegentig euro achtenveertig cent);<br>
-4° vertrouwenscentrum kindermishandeling Oost-Vlaanderen: 1.261.066,59 euro (een miljoen tweehonderdeenenzestigduizend zesenzestig euro negenenvijftig cent);<br>
-5° vertrouwenscentrum kindermishandeling Vlaams-Brabant: 1.144.558,84 euro (een miljoen honderdvierenveertigduizend vijfhonderdachtenvijftig euro vierentachtig cent);<br>
-6° vertrouwenscentrum kindermishandeling West-Vlaanderen: 1.151.033,50 euro (een miljoen honderdeenenvijftigduizend drieëndertig euro vijftig cent).<br>
+1° vertrouwenscentrum kindermishandeling Antwerpen: 1.952.858,09 euro (een miljoen negenhonderdtweeënvijftigduizend achthonderdachtenvijftig euro negen cent);<br>
+2° vertrouwenscentrum kindermishandeling Brussel-Hoofdstad: 1.101.904,73 euro (een miljoen honderdeneenduizend negenhonderdenvier euro drieënzeventig cent);<br>
+3° vertrouwenscentrum kindermishandeling Limburg: 1.239.100,02 euro (een miljoen tweehonderdnegenendertigduizend honderd euro twee cent);<br>
+4° vertrouwenscentrum kindermishandeling Oost-Vlaanderen: 1.514.788,84 euro (een miljoen vijfhonderdveertienduizend zevenhonderdachtentachtig euro vierentachtig cent);<br>
+5° vertrouwenscentrum kindermishandeling Vlaams-Brabant: 1.377.052,62 euro (een miljoen driehonderdzevenenzeventigduizend tweeënvijftig euro tweeënzestig cent);<br>
+6° vertrouwenscentrum kindermishandeling West-Vlaanderen: 1.384.898,10 euro (een miljoen driehonderdvierentachtigduizend achthonderdachtennegentig euro tien cent).<br>
 <br>
 § 3. De jaarlijkse aanvullende subsidie voor het vertrouwenscentrum kindermishandeling dat de elektronische toegang via de chat verzekert, vermeld in artikel 10, § 1, tweede lid, bedraagt 116.101,98 euro (honderdzestienduizend honderdeneen euro achtennegentig cent). Als de elektronische toegang via de chat door meer dan één vertrouwenscentrum kindermishandeling wordt verzekerd, bepaalt het agentschap na overleg met de betrokken vertrouwenscentra kindermishandeling de verdeling van de aanvullende subsidie over de betreffende vertrouwenscentra kindermishandeling.<br>
 <br>
-§ 3/1. De jaarlijkse subsidie voor de partnerorganisatie bedraagt 101.767,18 euro (honderdeneenduizend zevenhonderdzevenenzestig euro achttien cent).<br>
+§ 3/1. De jaarlijkse subsidie voor de partnerorganisatie bedraagt 664.531,05 euro (zeshonderdvierenzestigduizend vijfhonderdeenendertig euro vijf cent).<br>
 <br>
-§ 4. De subsidies, vermeld in dit artikel, zijn gekoppeld aan de spilindex die van toepassing is op 1 januari 2021. De bedragen worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing wordt telkens gedaan vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.
+§ 4. De subsidies, vermeld in dit artikel, zijn gekoppeld aan de spilindex die van toepassing is op 1 januari 2023. De bedragen worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing wordt telkens gedaan vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.
 
 ## Afdeling 4. De uitbetaling
 
 ### ART 32.
 
-Het agentschap betaalt bij het begin van elk kwartaal aan het vertrouwenscentrum kindermishandeling een voorschot uit dat 90% van de geraamde subsidie bedraagt.<br>
-<br>
-Het agentschap betaalt bij het begin van het eerste kwartaal van het jaar aan de partnerorganisatie een voorschot uit dat 90% van de geraamde subsidie voor dat jaar bedraagt.<br>
+Het agentschap betaalt bij het begin van elk kwartaal een voorschot uit dat 90% van de geraamde subsidie bedraagt.<br>
 <br>
 Voor het jaar waarin de subsidie wordt opgestart, wordt het eerste voorschot uitbetaald in de maand die volgt op de maand waarin het agentschap de aanvrager op de hoogte brengt van de beslissing tot toekenning van de subsidie conform artikel 46, derde lid.<br>
 <br>
@@ -374,6 +392,10 @@ Het agentschap brengt de aanvrager met een aangetekende brief op de hoogte van d
 Als de aanvrager binnen de vooropgestelde termijn geen bezwaarschrift indient, wordt, nadat die termijn verstreken is, het voornemen van het agentschap van rechtswege omgezet in een beslissing tot weigering van de erkenning als vertrouwenscentrum kindermishandeling of als partnerorganisatie.
 
 ## [Afdeling 1/1. Verlenging van de erkenning (ing. BVR 7 juli 2023, art. 6, I: 1 januari 2023)]
+
+### ART 47/1.
+
+Als na afloop van de vijfjarige erkenningstermijn uit de evaluatie, vermeld in artikel 34, een positieve beoordeling volgt, wordt de erkenning van het vertrouwenscentrum of van de partnerorganisatie van rechtswege verlengd voor vijf jaar.
 
 ## Afdeling 2. Bezwaarprocedure
 
