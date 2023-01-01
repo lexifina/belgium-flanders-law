@@ -594,7 +594,7 @@ De steun voor sociale dienstverlening voor de doelgroepwerknemer, vermeld in art
 
 De subsidie voor organisatieondersteunende maatregelen wordt uitbetaald volgens de volgende voorwaarden:<br>
 1° het maatwerkbedrijf ontvangt per kwartaal een organisatiesubsidie naar rato van het aantal tewerkgestelde voltijdsequivalenten van doelgroepwerknemers als vermeld in artikel 12, tweede lid, met loonkosten in het kwartaal in kwestie, waarbij het aantal in rekening te nemen voltijdsequivalenten van doelgroepwerknemers nooit hoger kan zijn dan de toegekende capaciteit voor het kwartaal in kwestie;<br>
-2° de subsidie bestaat uit een basisbedrag van 637,50 euro per kwartaal per voltijdsequivalent van een tewerkgestelde doelgroepwerknemer als vermeld in artikel 12, tweede lid.<br>
+2° de subsidie bestaat uit een basisbedrag van 757,14 euro per kwartaal per voltijdsequivalent van een tewerkgestelde doelgroepwerknemer als vermeld in artikel 12, tweede lid.<br>
 <br>
 Het basisbedrag, vermeld in het eerste lid, wordt verhoogd voor de eerste tot en met de honderdste voltijdsequivalent van een tewerkgestelde doelgroepwerknemer als vermeld in artikel 12, tweede lid, met 76,50 euro per voltijdsequivalent per kwartaal.
 
