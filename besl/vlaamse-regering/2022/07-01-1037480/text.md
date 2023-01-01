@@ -23,6 +23,10 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, gewijzigd bij de besluiten van de Vlaamse Regering van 7 december 2018, 28 juni 2019, 4 december 2020 en 26 november 2021, wordt punt 58° opgeheven.
+
 ### ART 2.
 
 In artikel 434, § 4, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 4 december 2020, wordt de zinsnede "5,46 euro * (aantal aanwezige uren per week tijdens de referentieperiode/minimum aantal uren per week als vermeld in artikel 433, § 4, derde lid)" vervangen door de zinsnede "5,46 euro * ((aantal aanwezige uren per week tijdens de referentieperiode - minimumaantal uren per week als vermeld in artikel 433, § 4, derde lid)/(minimumaantal uren per week als vermeld in artikel 433, § 4, derde lid))".
@@ -63,6 +67,10 @@ In artikel 448 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse R
 
 Artikel 455/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 7 december 2018, wordt opgeheven.
 
+### ART 11.
+
+In artikel 463 van hetzelfde besluit gewijzigd bij het besluit van de Vlaamse Regering van 4 december 2020, wordt het vijfde lid opgeheven.
+
 ### ART 12.
 
 In artikel 466, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 28 juni 2019, worden de woorden "bijzondere erkenning" vervangen door de woorden "bijkomende erkenning".
@@ -76,6 +84,10 @@ b) de woonzorgcentra zonder bijkomende erkenning, in voorkomend geval met de bij
 2° in punt 12° wordt de zinsnede: "in de desbetreffende zorgvoorzieningen met een bijkomende erkenning en in de zorgvoorzieningen waarin gemiddeld vijftien bewoners verblijven die zijn gerangschikt in de afhankelijkheidscategorie Cd, vermeld in artikel 425 van dit besluit, wegens hun psychische afhankelijkheid;" opgeheven;<br>
 3° aan punt 15° worden de woorden "of teamverantwoordelijke die in het bezit is van ten minste een bachelordiploma in een zorg- of welzijnsdomein" toegevoegd.
 
+### ART 14.
+
+In artikel 473, § 1, 8°, van hetzelfde besluit, worden de woorden "het functiecomplement voor de hoofdverpleegkundige in woonzorgcentra met een bijkomende erkenning" vervangen door de woorden "de financiering van de functie van de hoofdverpleegkundige of teamverantwoordelijke die in het bezit is van ten minste een bachelordiploma in een zorg- of welzijnsdomein".
+
 ### ART 15.
 
 In artikel 475, § 2, eerste lid, 2°, van hetzelfde besluit gewijzigd bij de besluiten van de Vlaamse Regering van 7 december 2018 en 28 juni 2019, worden de volgende wijzigingen aangebracht:<br>
@@ -86,6 +98,53 @@ In artikel 475, § 2, eerste lid, 2°, van hetzelfde besluit gewijzigd bij de be
 ### ART 16.
 
 In artikel 478, § 2, tweede lid, van hetzelfde besluit, worden tussen het woord "bachelors" en de woorden "in de verpleegkunde" de woorden "of gegradueerden" ingevoegd.
+
+### ART 17.
+
+In artikel 491 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt opgeheven;<br>
+2° in het tweede lid worden tussen het woord "tegemoetkoming" en de woorden "per verblijfsdag" de woorden "voor de financiering van de opleiding en de sensibilisatie voor palliatieve verzorging" ingevoegd.
+
+### ART 18.
+
+In artikel 493, eerste lid van hetzelfde besluit wordt punt 3° vervangen door wat volgt:<br>
+"3° een schriftelijke samenwerkingsovereenkomst sluiten met een palliatief netwerk of een erkende dienst voor palliatieve zorgen.".
+
+### ART 19.
+
+Artikel 494 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+"Art. 494. Voor de nieuwe woonzorgcentra, in voorkomend geval met de bijbehorende centra voor kortverblijf, wordt het aantal uren opleiding dat moet worden georganiseerd door de zorgvoorziening, vastgesteld conform de volgende formule: H = P x M/12, waarbij:<br>
+1° H = het aantal uren opleiding dat moet worden georganiseerd, afgerond tot de naaste hogere eenheid als de eerste twee decimalen hoger zijn dan of gelijk zijn aan 50;<br>
+2° P = het aantal bewoners B, C of Cd dat de laatste dag van de maand die volgt op die van de erkenning, in het woonzorgcentrum, in voorkomend geval met inbegrip van het bijbehorende centrum voor kortverblijf, is opgenomen;<br>
+3° M = het aantal maanden tussen de eerste dag van de maand die volgt op die van de erkenning, en het einde van het lopende kalenderjaar.".
+
+### ART 20.
+
+In boek 3, deel 2, titel 3, hoofdstuk 1, afdeling 1, van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 10 december 2021, wordt het opschrift van onderafdeling 9 vervangen door wat volgt:<br>
+<br>
+"Onderafdeling 9. Deel E1: financiering van de functie van hoofdverpleegkundige of teamverantwoordelijke die in het bezit is van ten minste een bachelordiploma in een zorg- of welzijnsdomein".
+
+### ART 21.
+
+Artikel 496 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+"Art. 496. De tegemoetkoming per verblijfsdag en per gebruiker voor de functie van hoofdverpleegkundige of teamverantwoordelijke die in het bezit is van ten minste een bachelordiploma in een zorg- of welzijnsdomein, wordt bepaald conform de volgende formule: ((0,71 euro x aantal bewoners, B, C, Cd)/totaal aantal bewoners).".
+
+### ART 22.
+
+In artikel 497, § 1, tweede lid, van hetzelfde besluit wordt de zinsnede "in woonzorgcentra met een bijkomende erkenning," opgeheven.
+
+### ART 23.
+
+In artikel 502 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 4 december 2020, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 wordt het eerste lid opgeheven;<br>
+2° in paragraaf 1, tweede lid, worden tussen het woord "tegemoetkoming" en de woorden "per verblijfsdag" de woorden "die bestemd is voor de financiering van de opleiding en de sensibilisering van het personeel op het vlak van dementie" ingevoegd;<br>
+3° paragraaf 4 wordt vervangen door wat volgt:<br>
+" § 4. Voor de nieuwe woonzorgcentra, in voorkomend geval met de bijbehorende centra voor kortverblijf, wordt het aantal uren opleiding dat moet worden georganiseerd door de zorgvoorziening, vastgesteld conform de volgende formule: H = P x M/12, waarbij:<br>
+1° H = het aantal uren opleiding dat moet worden georganiseerd, afgerond tot de naaste hogere eenheid als de eerste twee decimalen hoger zijn dan of gelijk zijn aan 50;<br>
+2° P = het aantal bewoners Cd dat de laatste dag van de maand die volgt op die van de erkenning, in het woonzorgcentrum, in voorkomend geval met inbegrip van het bijbehorende centrum voor kortverblijf, is opgenomen;<br>
+3° M = het aantal maanden tussen de eerste dag van de maand die volgt op die van de erkenning, en het einde van het lopende kalenderjaar.".
 
 ### ART 24.
 
