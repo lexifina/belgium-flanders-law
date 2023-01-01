@@ -104,7 +104,7 @@ Voor de erkenningprocedures waarvoor de aanvragen voor een bepaalde datum moeten
 <br>
 De aanvrager kan worden opgeroepen om door de algemene kamer te worden gehoord. Indien de aanvrager hiertoe verzoekt, moet hij door de algemene kamer worden gehoord.<br>
 <br>
-§ 3. § 1 en § 2 zijn niet van toepassing op de aanvragen voor de erkenningen van de landelijke, regionale, netwerk- &nbsp;en lokale radio-omroeporganisaties.<br>
+&nbsp;§ 3. Paragraaf 1 en 2 zijn niet van toepassing op de aanvragen voor de erkenningen van de landelijke, netwerk- en lokale radio-omroeporganisaties.<br>
 &nbsp;
 
 ## Afdeling II Procedure inzake erkenningen
@@ -187,7 +187,7 @@ Vergoedingen die op de vastgestelde vervaldatum niet zijn betaald, geven van rec
 
 ### ART. 35.
 
-Om ontvankelijk te zijn, omvat de aanvraag voor een zendvergunning voor een landelijke, regionale , netwerk-&nbsp;&nbsp;of lokale radio-omroeporganisatie of een wijziging ervan per frequentie :<br>
+Om ontvankelijk te zijn, omvat de aanvraag voor een zendvergunning voor een landelijke, netwerk-&nbsp;&nbsp;of lokale radio-omroeporganisatie of een wijziging ervan per frequentie :<br>
 1° een uittreksel van de landkaart (minimale schaal 1/25.000) waarop de bepaalde opstellingsplaats van de zendinstallatie wordt aangegeven, evenals de vermelding van de geografische coördinaten van deze plaats (lengte en breedte in graden, minuten en seconden);<br>
 2° het merk en het type van het genotificeerde zendtoestel;<br>
 3° het merk, het type en de karakteristieken van de antenne met de volledige technische specificaties van de fabrikant, het volledige stralingsdiagrama van de antenne, de hoogte van het midden van de nuttige stralingselementen van de antenne boven de begane grond en de cijferwaarde per 10° in geval van directionele antennes;<br>
@@ -213,7 +213,7 @@ In afwijking van de bepalingen van dit hoofdstuk, moet bij de aanvraag tot verle
 
 ### ART. 39.
 
-De algemene kamer kan op ieder ogenblik de erkenning van de particuliere radio-omroeporganisatie of de zendvergunning van de erkende radio-omroeporganisatie schorsen of intrekken als de betrokkene zich niet houdt aan de bepalingen van het decreet van 27 maart 2009, dit besluit, de voorwaarden van de erkenning, alsook in geval van erkende landelijke, regionale en netwerk- en lokale radio-omroeporganisaties, als de betrokkene zich niet houdt aan de voorwaarden in overeenstemming waarmee de erkenning door de Vlaamse Regering is verleend.<br>
+De algemene kamer kan op ieder ogenblik de erkenning van de particuliere radio-omroeporganisatie of de zendvergunning van de erkende radio-omroeporganisatie schorsen of intrekken als de betrokkene zich niet houdt aan de bepalingen van het decreet van 27 maart 2009, dit besluit, de voorwaarden van de erkenning, alsook in geval van erkende landelijke en netwerk- en lokale radio-omroeporganisaties, als de betrokkene zich niet houdt aan de voorwaarden in overeenstemming waarmee de erkenning door de Vlaamse Regering is verleend.<br>
 <br>
 De schorsing of de intrekking wordt altijd voorafgegaan door een ingebrekestelling door de algemene kamer die de omroeporganisatie de kans biedt aan alle voorschriften te voldoen. De omroeporganisatie of het omroepnetwerk beschikt over ten minste een maand vanaf de verzending van de ingebrekestelling om de toestand te regulariseren. De voormelde termijn kan door de algemene kamer worden verlengd, naargelang van de vastgestelde inbreuk. Op haar verzoek wordt de omroeporganisatie gehoord.<br>
 <br>
