@@ -159,44 +159,89 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met   de u
 
 ### BIJLAGE 1
 
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Bijlage 1. Forfaitaire subsidies als vermeld in artikel 23, eerste lid</span></span></span><br>
+<strong>Forfaitaire subsidies als vermeld in artikel 23, eerste lid</strong><br>
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">1. De ondersteuningsteams ontvangen voor het geheel van hun werking een forfaitaire subsidie.</span></span></span><br>
+1. De ondersteuningsteams ontvangen voor het geheel van hun werking een forfaitaire subsidie.<br>
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">2. De subsidie voor de ondersteuningsteams bedraagt jaarlijks 785.153 euro.</span></span></span><br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Dat bedrag wordt op de volgende wijze toegekend:</span></span></span>
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+2. De subsidie voor de ondersteuningsteams bedraagt jaarlijks 942.287 euro.<br>
+<br>
+Dat bedrag wordt op de volgende wijze toegekend:
+<table border="1" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td>voor de werking in de provincie</td>
-			<td>bedrag in euro</td>
+			<td style="height:20px">voor de werking in de provincie</td>
+			<td style="height:20px">bedrag in euro</td>
 		</tr>
 		<tr>
-			<td>Antwerpen</td>
-			<td>250.688</td>
+			<td style="height:20px">Antwerpen</td>
+			<td style="height:20px">250.688</td>
 		</tr>
 		<tr>
-			<td>Limburg</td>
-			<td>205.093</td>
+			<td style="height:20px">Limburg</td>
+			<td style="height:20px">246.132</td>
 		</tr>
 		<tr>
-			<td>Oost- en West-Vlaanderen</td>
-			<td>167.804</td>
+			<td style="height:20px">Oost- en West-Vlaanderen</td>
+			<td style="height:20px">201.382</td>
 		</tr>
 		<tr>
-			<td>Vlaams-Brabant en Brussels Hoofdstedelijk Gewest</td>
-			<td>161.588</td>
+			<td style="height:20px">Vlaams-Brabant en Brussels Hoofdstedelijk Gewest</td>
+			<td style="height:20px">193.922</td>
 		</tr>
 		<tr>
-			<td>totaal Vlaanderen</td>
-			<td>785.153</td>
+			<td style="height:20px">totaal Vlaanderen</td>
+			<td style="height:20px">942.287</td>
 		</tr>
 	</tbody>
 </table>
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">3. De subsidie van het ondersteuningsteam wordt vermeerderd met een supplement van 1,8% van het basisbedrag voor elk jaar dat de gemiddelde anciënniteit van alle personeelsleden de basisanciënniteit van vijf jaar overschrijdt. Die anciënniteit wordt berekend op 1 januari van het betreffende jaar en afgerond op 1 decimaal.</span></span></span><br>
+3. De subsidie van het ondersteuningsteam wordt vermeerderd met een supplement van 1,8% van het basisbedrag voor elk jaar dat de gemiddelde anciënniteit van alle personeelsleden de basisanciënniteit van vijf jaar overschrijdt. Die anciënniteit wordt berekend op 1 januari van het betreffende jaar en afgerond op 1 decimaal.<br>
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">4. De bedragen, vermeld in punt 2, zijn gekoppeld aan de spilindex die van kracht is op 1 januari 2020.</span></span></span>
+Voor gesubsidiëerd personeel met een ancienniteit van 28 jaar of hoger wordt een bijkomende subsidie op jaarbasis toegekend volgens de volgende tabel:<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:19px; vertical-align:bottom; width:239px">Anciënniteitsjaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:19px; vertical-align:bottom; width:152px">Bedrag per vte</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:239px">28 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:152px">138,83</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:239px">29 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:152px">267,08</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:239px">30 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:152px">386,27</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:239px">31 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:152px">496,44</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:239px">32 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:152px">598,49</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:239px">33 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:152px">693,08</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:239px">34 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:152px">780,67</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:239px">35 jaar en meer</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:152px">861,72</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<br>
+4. De bedragen, vermeld in punt 2, zijn gekoppeld aan de spilindex die van kracht is op 1 januari 2023.
 
 ### BIJLAGE 2
 
