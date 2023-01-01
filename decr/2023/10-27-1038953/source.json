@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038953,
+  "title": "Decreet van 2023-10-27 tot vervanging van artikel 5.68/1 en 6.3/1 en tot wijziging van artikel 5.73 van de Vlaamse Codex Wonen van 2021, en tot opheffing van artikel 218 van het decreet van 9 juli 2021 houdende wijziging van diverse decreten met betrekking tot wonen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038953/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "6a930c255d1fdd02c8e2223c5cd3350f292cd4600ce78798217dfc0c169481cb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038953&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2023-10-27",
+  "gazette": "2023-11-14",
+  "numac": 2023046927,
+  "document_start": "2023-11-24",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
