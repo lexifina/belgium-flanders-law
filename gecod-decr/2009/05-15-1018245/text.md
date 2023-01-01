@@ -281,6 +281,31 @@ De Vlaamse Regering legt een register aan waarin vermeld wordt welke personen vo
 
 ## [HOOFDSTUK VI BRV-Fonds (ing. decr. 16 december 2022, art. 45, I: 1 januari 2023)]
 
+### ART 1.6.1.
+
+§1. Er wordt een BRV-fonds opgericht. Het BRV-fonds is een Gewestdienst met Afzonderlijk Beheer, vermeld in artikel 140 van de gecoördineerde wetten op de Rijkscomptabiliteit.<br>
+<br>
+§2. De middelen waarover het BRV-fonds beschikt zijn:<br>
+1° de toelagen ingeschreven in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap;<br>
+2° het per 31 december van het jaar voorafgaand aan het begrotingsjaar beschikbare saldo van het BRV-fonds;<br>
+3° alle ontvangsten voortvloeiend uit de toepassing van deze codex, met inbegrip van alle ontvangsten die voortvloeien uit de toepassing van titel VI;<br>
+4° de opbrengsten van de heffingen, vermeld in titel 2, hoofdstuk 6, van de Vlaamse Codex Fiscaliteit van 13 december 2013;<br>
+5° de ontvangsten voortvloeiend uit financiële lasten als vermeld in artikel 75 van het decreet van 25 april 2014 betreffende de omgevingsvergunning, verbonden aan een omgevingsvergunning voor stedenbouwkundige handelingen of voor het verkavelen van gronden en opgelegd op grond van een gewestelijke stedenbouwkundige verordening;<br>
+6° alle andere middelen die nuttig zijn in het kader van de doelstelling van het BRV-fonds en die inzonderheid ingevolge wettelijke, decretale of reglementaire bepalingen aan het BRV-fonds toekomen, evenals de terugstortingen en toevallige ontvangsten;<br>
+7° &nbsp; de terugvorderingen voortvloeiend uit de ten onrechte gedane betalingen.<br>
+<br>
+§3. De middelen van het BRV-fonds worden aangewend voor:<br>
+1° &nbsp; de uitgaven die voortvloeien uit de toepassing van deze codex;<br>
+2° de uitgaven die in functie staan van of voortvloeien uit het Vlaamse ruimtelijk beleid in overeenstemming met de instrumenten, vermeld in artikel 1.1.3 van deze codex, waaronder ook het betoelagen van andere Vlaamse entiteiten of het subsidiëren van initiatieven of specifieke doelgroepen die mee instaan voor de uitvoering van het Beleidsplan Ruimte Vlaanderen;<br>
+3° de ondersteuning van steden en gemeenten voor de uitbetaling van planschadevergoedingen, vermeld in artikel 2.6.1, ten gevolge van gemeentelijke ruimtelijke uitvoeringsplannen ter uitvoering van het Beleidsplan Ruimte Vlaanderen.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de aanwending van de middelen van het BRV-fonds.<br>
+<br>
+§4. De Vlaamse Regering beheert het BRV-fonds.<br>
+<br>
+Ze stelt de nodige administratieve en logistieke ondersteuning ter beschikking van het BRV-fonds en kan, overeenkomstig de geldende regels, sommige van haar bevoegdheden hiertoe doordelegeren.<br>
+&nbsp;
+
 ## TITEL II Planning
 
 ## [HOOFDSTUK I Ruimtelijke beleidsplannen (verv. decr. 8 december 2017, art. 23, I: 5 mei 2018)]
@@ -1543,10 +1568,10 @@ Een bonificatie wordt verleend aan de heffingsplichtige die de planbatenheffing 
 <br>
 § 3. Onverminderd artikel 2.2.2, § 2, vierde lid, worden uitgaven ten laste van het Fonds aangerekend als volgt :<br>
 1° overeenkomstig een door de Vlaamse Regering vastgestelde methodiek worden bedragen voorafgenomen ter dekking van de inningskosten en de kosten ingevolge de toepassing van artikel 2.6.6, derde lid. Deze kosten worden naar evenredigheid van de respectievelijke bruto-ontvangsten aangerekend op de doorstortingen vermeld in 2° en 5°;<br>
-2° de inkomsten die voortkomen uit een gewestelijke bestemmingswijziging naar een zone die onder de categorie van gebiedsaanduiding « bedrijvigheid » valt, worden gestort in het Rubiconfonds, vermeld in artikel 28 van het decreet van 27 juni 2003 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2003;<br>
+2° de inkomsten die voortkomen uit een gewestelijke bestemmingswijziging naar een zone die onder de categorie van gebiedsaanduiding « bedrijvigheid » valt, worden gestort in het BRV-fonds, vermeld in artikel 1.6.1;<br>
 3° de inkomsten die voortkomen uit een provinciale of gemeentelijke bestemmingswijziging naar een zone die onder de categorie van gebiedsaanduiding « bedrijvigheid » valt, worden doorgestort naar de betrokken provincie, respectievelijk gemeente;<br>
 4° de inkomsten die voortkomen uit planbatenheffingen die voortvloeien uit een planologische oplossing in de zin van artikel 5.4.2 en waarbij het ruimtelijk uitvoeringsplan definitief vastgesteld werd tussen 1 september 2009 en 1 juli 2013, worden doorgestort naar de gemeente waar de planologische oplossing haar beslag had. De inkomsten die het gevolg zijn van een provinciale of gemeentelijke bestemmingswijziging in ruimtelijke uitvoeringsplannen die vanaf 1 juli 2013 definitief worden vastgesteld en in uitvoering van artikel 5.4.2, worden doorgestort naar de betrokken provincie, respectievelijk betrokken gemeente;<br>
-5° de overblijvende middelen worden gestort op een rekening van het grondfonds, vermeld in artikel 5.6.3, en aangewend voor activeringsprojecten, vermeld in boek 5, deel 2, titel 7, van de Vlaamse Codex Wonen van 2021, met dien verstande dat de door de erkende woonmaatschappijen betaalde heffingen te allen tijde worden ingezet voor strategische projecten voor een doelgroepengericht woonbeleid.<br>
+5° de overblijvende middelen worden gestort op een rekening van het BRV-fonds, vermeld in artikel 1.6.1, en aangewend voor activeringsprojecten, vermeld in boek 5, deel 2, titel 7, van de Vlaamse Codex Wonen van 2021, met dien verstande dat de door de erkende woonmaatschappijen betaalde heffingen te allen tijde worden ingezet voor strategische projecten voor een doelgroepengericht woonbeleid.<br>
 <br>
 Provincies en gemeenten bewerkstelligen bij de opmaak van hun begrotingen dat ten minste een equivalent van de in het vorige begrotingsjaar doorgestorte inkomsten, vermeld in het eerste lid, 3°, bestemd wordt binnen het lokale ruimtelijke beleid, zoals in het bijzonder&nbsp;het voldoen van planschadevergoedingen en de aanwending van het instrument « planologische ruil », zijnde de omwisseling van gebiedsbestemmingen vanuit een samenhangende visie op de duurzame ruimtelijke ordening van het volledige plangebied.<br>
 &nbsp;
@@ -2300,7 +2325,25 @@ Indien de verbouwingswerken betrekking hebben op projecten waarvoor een omgeving
 
 ### ART. 4.4.19.
 
-§ 1. Het uitbreiden van een bestaande zonevreemde constructie, niet zijnde   woningbouw, is vergunbaar, op voorwaarde dat de uitbreiding noodzakelijk is   omwille van :<BR>1° milieuvoorwaarden;<BR>2° gezondheidsredenen;<BR>3°   maatregelen opgelegd door de sociale inspecteurs die bevoegd zijn in het kader   van de wet van 16 november 1972 betreffende de arbeidsinspectie;<BR>4° de   bestrijding van voor planten en plantaardige producten schadelijke organismen,   de dierengezondheid of het dierenwelzijn;<BR>5° infrastructurele behoeften   ingevolge de uitbreiding van de werking van erkende, gesubsidieerde of   gefinancierde onderwijsinstellingen of van een erkende jeugdvereniging in de zin   van het decreet van 14 februari 2003 houdende de ondersteuning en de stimulering   van het gemeentelijk, het intergemeentelijk en het provinciaal jeugd- en   jeugdwerkbeleid en het decreet van 18 juli 2008 houdende het voeren van een   Vlaams jeugd- en kinderrechtenbeleid of van een erkend jeugdverblijfcentrum   overeenkomstig het decreet van 18 juli 2003 betreffende de verblijven en   verenigingen die een werking uitoefenen in het kader van Toerisme voor Allen';   <BR><BR>Indien de uitbreidingswerken betrekking hebben op projecten waarvoor een   omgevingsvergunning voor de exploitatie van een ingedeelde inrichting of   activiteit vereist is, gelden de mogelijkheden, vermeld in het eerste lid,   slechts indien voldaan is aan beide hiernavolgende voorwaarden :<BR>1° de   opdrachtgever beschikt op het ogenblik van de vergunningsaanvraag over de voor   een normale bedrijfsvoering noodzakelijke omgevingsvergunning;<BR>2° de   constructie werd in het jaar voorafgaand aan de vergunningsaanvraag   daadwerkelijk uitgebaat.<BR><BR>De Vlaamse Regering kan de voorwaarden, vermeld   in het eerste lid, nader omschrijven.<BR><BR>§ 2. Aanpassingswerken aan of bij   een zonevreemde constructie, niet zijnde woningbouw, zijn vergunbaar, op   voorwaarde dat het overdekte volume niet wordt uitgebreid.<BR><BR>§ 3. De   mogelijkheden, vermeld in § 1 en § 2, gelden niet in :<BR>1° ruimtelijk   kwetsbare gebieden, met uitzondering van parkgebieden;<BR>2° recreatiegebieden,   zijnde de als dusdanig door een plan van aanleg aangewezen gebieden, en de   gebieden, geordend door een ruimtelijk uitvoeringsplan, die onder de categorie   van gebiedsaanduiding « recreatie » sorteren.<BR><BR>
+§ 1. Het uitbreiden van een bestaande zonevreemde constructie, niet zijnde woningbouw, is vergunbaar, op voorwaarde dat de uitbreiding noodzakelijk is omwille van :<br>
+1° milieuvoorwaarden;<br>
+2° gezondheidsredenen;<br>
+3° maatregelen opgelegd door de sociale inspecteurs die bevoegd zijn in het kader van de wet van 16 november 1972 betreffende de arbeidsinspectie;<br>
+4° de bestrijding van voor planten en plantaardige producten schadelijke organismen, de dierengezondheid of het dierenwelzijn;<br>
+5° infrastructurele behoeften ingevolge de uitbreiding van de werking van erkende, gesubsidieerde of gefinancierde onderwijsinstellingen of van een erkende jeugdvereniging in de zin van het decreet van 14 februari 2003 houdende de ondersteuning en de stimulering van het gemeentelijk, het intergemeentelijk en het provinciaal jeugd- en jeugdwerkbeleid en het decreet van 18 juli 2008 houdende het voeren van een Vlaams jeugd- en kinderrechtenbeleid of van een toeristisch logies dat aangemeld is als jeugdverblijf conform het decreet van 5 februari 2016 houdende het toeristische logies;<br>
+<br>
+Indien de uitbreidingswerken betrekking hebben op projecten waarvoor een omgevingsvergunning voor de exploitatie van een ingedeelde inrichting of activiteit vereist is, gelden de mogelijkheden, vermeld in het eerste lid, slechts indien voldaan is aan beide hiernavolgende voorwaarden :<br>
+1° de opdrachtgever beschikt op het ogenblik van de vergunningsaanvraag over de voor een normale bedrijfsvoering noodzakelijke omgevingsvergunning;<br>
+2° de constructie werd in het jaar voorafgaand aan de vergunningsaanvraag daadwerkelijk uitgebaat.<br>
+<br>
+De Vlaamse Regering kan de voorwaarden, vermeld in het eerste lid, nader omschrijven.<br>
+<br>
+§ 2. Aanpassingswerken aan of bij een zonevreemde constructie, niet zijnde woningbouw, zijn vergunbaar, op voorwaarde dat het overdekte volume niet wordt uitgebreid.<br>
+<br>
+§ 3. De mogelijkheden, vermeld in § 1 en § 2, gelden niet in :<br>
+1° ruimtelijk kwetsbare gebieden, met uitzondering van parkgebieden;<br>
+2° recreatiegebieden, zijnde de als dusdanig door een plan van aanleg aangewezen gebieden, en de gebieden, geordend door een ruimtelijk uitvoeringsplan, die onder de categorie van gebiedsaanduiding « recreatie » sorteren.<br>
+&nbsp;
 
 ## Onderafdeling 3 Recent afgebroken zonevreemde woningen of andere constructies
 
@@ -3153,22 +3196,7 @@ De krachtens het eerste lid, 2°, verleende ontheffingen gelden slechts gedurend
 
 ### ART. 5.6.3.
 
-§ 1. Er wordt een Grondfonds opgericht. Het Grondfonds is een Gewestdienst met Afzonderlijk Beheer, vermeld in artikel 140 van de gecoördineerde wetten op de Rijkscomptabiliteit.<br>
-<br>
-§ 2. De middelen waarover het Grondfonds beschikt zijn :<br>
-1° de dotaties ingeschreven in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap;<br>
-2° het per 31 december van het jaar voorafgaand aan het begrotingsjaar beschikbare saldo van het Grondfonds;<br>
-3° alle ontvangsten voortvloeiend uit de toepassing van deze codex, met inbegrip van alle ontvangsten die voortvloeien uit de toepassing van titel VI;<br>
-4° alle schulden, vorderingen en tegoeden van het Fonds voor de Planschade;<br>
-5° 73% van het saldo van het Herstelfonds beschikbaar als over te dragen saldo bij de afsluiting van de jaarrekening 2015. Dit saldo wordt vastgesteld door de Vlaamse Regering.<br>
-<br>
-§ 3. De middelen van het Grondfonds moeten aangewend worden voor de uitgaven die voortvloeien uit de toepassing van het decreet betreffende de ruimtelijke ordening gecoördineerd op 22 oktober 1996 en uit de toepassing van deze codex.<br>
-<br>
-§ 4. De Vlaamse Regering beheert het Grondfonds.<br>
-<br>
-Ze stelt de nodige administratieve en logistieke ondersteuning ter beschikking van het Grondfonds en kan, overeenkomstig de geldende regels, sommige van haar bevoegdheden delegeren aan de leidend ambtenaar die ze daartoe aanwijst.<br>
-<br>
-§ 5. De Vlaamse Regering bepaalt de organieke regels die van toepassing zijn op het financiële en materiële beheer van het Grondfonds.
+...
 
 ## Onderafdeling 4 [opgeh. decr. 26 mei 2023, art. 5, I: 7 juli 2023))]
 
@@ -3268,7 +3296,7 @@ De vaststelling van een ruimtelijk uitvoeringsplan in toepassing van deze paragr
 2° het vorderingsrecht vervalt twee jaar nadat het recht op vergoeding is ontstaan;<br>
 3° de vergoedingsgerechtigde diegene is die op het ogenblik van de inwerkingtreding van het besluit van de Vlaamse Regering tot aanduiding van het watergevoelig openruimtegebied het eigendomsrecht of het bloot eigendomsrecht op het perceel kan laten gelden.<br>
 <br>
-De vergoeding wordt gevorderd ten aanzien van het Vlaamse Gewest en aangerekend op het Rubiconfonds.<br>
+De vergoeding wordt gevorderd ten aanzien van het Vlaamse Gewest en aangerekend op het BRV-fonds.<br>
 <br>
 § 7. De Vlaamse Regering kan, hangende de procedure of uiterlijk binnen het jaar na een veroordeling tot vergoeding die kracht van gewijsde heeft verkregen, beslissen om de aanduiding als watergevoelig openruimtegebied zoals vermeld in paragraaf 1, geheel of gedeeltelijk op te heffen voor de gronden waarvoor de vergoeding werd gevorderd. De Vlaamse Regering wint hierover het advies in van het college van burgemeester en schepenen van de gemeente waar de gronden gelegen zijn, en van de Coördinatiecommissie Integraal Waterbeleid, bedoeld in artikel 25 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid.<br>
 <br>
@@ -3280,7 +3308,7 @@ Als de opheffing slechts gedeeltelijk is, dan wordt de te betalen vergoeding pro
 
 ### ART 5.6.9.
 
-De Vlaamse Regering kan voor ruimtelijke uitvoeringsplannen die definitief zijn vastgesteld vóór de aanduiding van de gebieden als watergevoelig openruimtegebied en die al rekening houden met het conflict dat bestaat tussen de verdere realisatie van de bestemming en de belangen van het watersysteem, beslissen om de daaruit resulterende planschadevergoeding volledig aan te rekenen op het Rubiconfonds.
+De Vlaamse Regering kan voor ruimtelijke uitvoeringsplannen die definitief zijn vastgesteld vóór de aanduiding van de gebieden als watergevoelig openruimtegebied en die al rekening houden met het conflict dat bestaat tussen de verdere realisatie van de bestemming en de belangen van het watersysteem, beslissen om de daaruit resulterende planschadevergoeding volledig aan te rekenen op het BRV-fonds.
 
 ## [Afdeling 4 Woonreservegebieden (ing. decr. 26 mei 2023, art. 6, I: 7 juli 2023)]
 
@@ -3728,7 +3756,7 @@ Voor de toepassing van deze afdeling wordt de betekening met een aangetekende br
 
 ### ART. 6.2.11.
 
-§ 1. De opgelegde bestuurlijke geldboeten worden door het&nbsp;departement van de Vlaamse overheid geïnd en ingevorderd ten voordele van het Grondfonds. Het voormelde departement is gemachtigd om aan de schuldenaars van opeisbare bestuurlijke geldboetes die bijzondere omstandigheden kunnen bewijzen, uitstel of spreiding van betaling toe te staan.<br>
+§ 1. De opgelegde bestuurlijke geldboeten worden door het&nbsp;departement van de Vlaamse overheid geïnd en ingevorderd ten voordele van het BRV-fonds. Het voormelde departement is gemachtigd om aan de schuldenaars van opeisbare bestuurlijke geldboetes die bijzondere omstandigheden kunnen bewijzen, uitstel of spreiding van betaling toe te staan.<br>
 <br>
 § 2. Als de betrokkene in gebreke blijft bij het betalen van de verschuldigde bestuurlijke geldboeten, verhoogd met de invorderingskosten, worden die bedragen bij dwangbevel ingevorderd. Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door een ambtenaar die de Vlaamse Regering daarvoor heeft aangewezen.<br>
 <br>
@@ -4362,7 +4390,7 @@ De miskenning van de verplichtingen die in de minnelijke schikking zijn opgenome
 
 ### ART. 6.5.1.
 
-De ontvangsten die voortvloeien uit de toepassing van titel VI worden toegewezen aan de DAB Grondfonds, vermeld in artikel 5.6.3.<br>
+De ontvangsten die voortvloeien uit de toepassing van titel VI worden toegewezen aan de DAB BRV-fonds, vermeld in artikel 1.6.1.<br>
 <br>
 De in het eerste lid vermelde ontvangsten mogen enkel worden aangewend voor het verrichten van uitgaven die voortvloeien uit de toepassing van titel VI.<br>
 <br>
