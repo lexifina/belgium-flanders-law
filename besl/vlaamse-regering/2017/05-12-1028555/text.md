@@ -39,7 +39,13 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 2.
 
-Het agentschap berekent de subsidies voor personeelskosten van een FAM, een MFC,&nbsp;een vergunde zorgaanbieder, een voorziening die ondersteuning biedt aan personen met een handicap in de gevangenis, een unit voor geïnterneerden, een observatie-, diagnose- en behandelingsunit, een thuisbegeleidingsdienst, een dienst Ondersteuningsplan en een rechtstreeks toegankelijke dienst, met inbegrip van de personeelskosten uit persoonsvolgende convenanten, op de wijze, vermeld in dit besluit.
+Het agentschap berekent de subsidies voor personeelskosten van een FAM, een MFC,&nbsp;een vergunde zorgaanbieder, een voorziening die ondersteuning biedt aan personen met een handicap in de gevangenis, een unit voor geïnterneerden, een observatie-, diagnose- en behandelingsunit, een thuisbegeleidingsdienst, een dienst Ondersteuningsplan en een rechtstreeks toegankelijke dienst, met inbegrip van de personeelskosten uit persoonsvolgende convenanten, op de wijze, vermeld in dit besluit.<br>
+<br>
+In afwijking van het eerste lid berekent het agentschap de subsidies voor de personeelskosten voor organisaties die conform artikel 15/1 tot en met artikel 15/3 van het besluit van de Vlaamse Regering van 22 februari 2013 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap, tijdelijk erkend zijn om rechtstreeks toegankelijke hulp te bieden die voldoet aan de voorwaarden, vermeld in artikel 15/2 van het voormelde besluit, waarop het paritair comité 319.01 niet van toepassing is, op basis van een forfaitair bedrag van 1.027,74 euro per personeelspunt. Om het aantal personeelspunten vast te stellen, wordt rekening gehouden met het aantal personeelspunten dat overeenstemt met de ondersteuning die effectief geboden is door de organisatie in het kader van de tijdelijke erkenning om rechtstreeks toegankelijke hulp te bieden waarbij het aantal personeelspunten waarvoor de organisatie tijdelijk is erkend voor het bieden van rechtstreeks toegankelijke hulp, als maximum geldt.<br>
+<br>
+De organisatie, vermeld in het eerste lid, vermeldt in het financiële verslag, vermeld in artikel 10, derde lid, van het besluit van de Vlaamse Regering van 22 februari 2013 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap, de personeelsleden die tijdens het werkingsjaar zijn ingezet voor de rechtstreeks toegankelijke hulp in het kader van de tijdelijke erkenning, vermeld in het eerste lid, samen met de personeelskosten voor de voormelde personeelsleden.<br>
+<br>
+Het agentschap betaalt het subsidiebedrag dat is berekend conform het tweede lid, naar rato van de personeelskosten die zijn aangetoond.
 
 ### ART 3.
 
