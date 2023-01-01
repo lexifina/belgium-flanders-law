@@ -37,6 +37,10 @@ Het statutair personeelslid van Sport Vlaanderen, opgenomen in punt 2° van de b
 
 Het statutair personeelslid van de Vlaamse Belastingdienst, opgenomen in punt 3° van de bijlage die bij dit besluit is gevoegd, wordt overgedragen aan het Agentschap Overheidspersoneel.
 
+### ART 4.
+
+Het statutair personeelslid van de Vlaamse Maatschappij voor Sociaal Wonen, opgenomen in punt 4° van de bijlage die bij dit besluit is gevoegd, wordt overgedragen aan het Agentschap Overheidspersoneel.
+
 ### ART 5.
 
 Dit besluit heeft uitwerking met ingang van 1 juni 2022, met uitzondering van:<br>
