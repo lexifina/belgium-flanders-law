@@ -8,7 +8,7 @@
 
 ### ART. 1.
 
-&nbsp;In dit besluit wordt verstaan onder:<br>
+In dit besluit wordt verstaan onder:<br>
 1° adviescommissie: de commissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-) pleegzorgers, vermeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers;<br>
 2° administrateur-generaal: het hoofd van het agentschap;<br>
 3° agentschap: het intern verzelfstandigd agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
@@ -23,7 +23,7 @@ d) een algemeen bevel;<br>
 8° initiatief beschut wonen: een initiatief van beschut wonen als vermeld in artikel 2, 9° van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging;<br>
 9° personen, belast met het toezicht: de ambtenaren, vermeld in artikel 1 van het besluit van de Vlaamse Regering van 7 december 2001 betreffende de aanwijzing van de ambtenaren voor het uitoefenen van het toezicht op de toepassing van de gecoördineerde wet op de ziekenhuizen en van de krachtens die gecoördineerde wet genomen uitvoeringsbesluiten;<br>
 10° psychiatrisch verzorgingstehuis:een psychiatrisch verzorgingstehuis als vermeld in artikel 2, 12° van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging;<br>
-11° woonzorgcentrum met een bijkomende erkenning: een woonzorgcentrum als vermeld in artikel 52/1, tweede lid, van het Woonzorgdecreet van 13 maart 2009;<br>
+11° ...;<br>
 12° samenwerkingsvorm: elke samenwerkingsvorm van ziekenhuizen of revalidatieziekenhuizen die gereglementeerd is op basis van de ziekenhuiswet;<br>
 13° samenwerkingsverbanden van psychiatrische instellingen en diensten: de samenwerkingsverbanden van psychiatrische instellingen en diensten, vermeld in artikel 1 van het koninklijk besluit van 10 juli 1990 houdende vaststelling van de normen voor de erkenning van samenwerkingsverbanden van psychiatrische instellingen en diensten;<br>
 14° ziekenhuis: een instelling als vermeld in artikel 2 van de wet op de ziekenhuizen en andere verzorgingsinrichtingen, gecoördineerd op 10 juli 2008;<br>
@@ -35,7 +35,7 @@ d) een algemeen bevel;<br>
 
 <p>Overeenkomstig artikel 67, eerste lid, 3°, en artikel 69 van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen moet wie een ziekenhuis of een revalidatieziekenhuis, een ziekenhuisdienst, een ziekenhuisonderdeel of een samenwerkingsvorm wil exploiteren, beschikken over een rechtsgeldige erkenning en, in voorkomend geval, over een rechtsgeldige planningsvergunning.</p>
 
-<p>Overeenkomstig de artikelen 56 en 62 van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging, en de artikelen, 10 en 170 van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen, moet, wie een woonzorgcentrum met een bijkomende erkenning, een psychiatrisch verzorgingstehuis, een initiatief van beschut wonen of een samenwerkingsverband wil exploiteren, beschikken over een rechtsgeldige erkenning en, in voorkomend geval, over een rechtsgeldige planningsvergunning of voorafgaande vergunning.</p>
+<p>Overeenkomstig de artikelen 56 en 62 van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging, en de artikelen, 10 en 170 van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen, moet, wie een psychiatrisch verzorgingstehuis, een initiatief van beschut wonen of een samenwerkingsverband wil exploiteren, beschikken over een rechtsgeldige erkenning en, in voorkomend geval, over een rechtsgeldige planningsvergunning of voorafgaande vergunning.</p>
 
 ### ART. 3.
 
@@ -252,16 +252,10 @@ De beslissing tot weigering van de erkenning, tot weigering van de verlenging va
 
 ### ART. 32.
 
-<p>Wie een eerste aanvraag tot bijkomende erkenning voor een woonzorgcentrum, erkenning als psychiatrisch verzorgingstehuis of erkenning als initiatief van beschut wonen indient, kan voorlopig worden erkend, behalve als de betrokken voorziening al het voorwerp van een beslissing tot sluiting is geweest.</p>
+<p>Wie een eerste aanvraag tot erkenning als psychiatrisch verzorgingstehuis of erkenning als initiatief van beschut wonen indient, kan voorlopig worden erkend, behalve als de betrokken voorziening al het voorwerp van een beslissing tot sluiting is geweest.</p>
 
 <p>De aanvraag tot erkenning is alleen ontvankelijk als ze met een aangetekende zending of tegen ontvangstbewijs worden ingediend bij het agentschap, en als ze de volgende documenten bevat:<br>
-1° in geval van een aanvraag tot bijkomende erkenning voor een woonzorgcentrum:<br>
-a) een nota met vermelding van het statuut van de aanvrager, de naam van de verantwoordelijke beheerder, de naam van de persoon die voor het dagelijks beleid zorgt, en de naam van de coördinerend en raadgevend arts die door de beheersinstantie aangewezen is. De betrokkenen moeten dit document ondertekenen;<br>
-b) de lijst van het medisch, verplegend, verzorgend en paramedisch personeel, met vermelding van hun naam, hun kwalificatie, het nummer van het visum van hun diploma en hun arbeidsduur per week, waaruit blijkt dat aan de erkenningsvoorwaarden met betrekking tot het personeel voldaan is;<br>
-c) een plan dat de interne verbindingswegen van de voorziening vermeldt, de bestemming van de lokalen, het totale aantal entiteiten in de voorziening en het aantal entiteiten waarvoor de bijkomende erkenning aangevraagd wordt;<br>
-d) een beschrijvende nota die vermeldt op welke wijze de architectonische en functionele erkenningsvoorwaarden worden nageleefd;<br>
-e) een afschrift van de overeenkomst met het algemeen ziekenhuis waarmee een functionele binding verzekerd moet worden overeenkomstig de geldende erkenningsvoorwaarden;<br>
-f) het bewijs dat de voorziening aan de toepasselijke brandveiligheidsreglementering voldoet;<br>
+1°...;<br>
 2° in geval van een aanvraag tot erkenning als psychiatrisch verzorgingstehuis:<br>
 a) een nota met vermelding van het statuut van de aanvrager, de coördinator, en de naam van de arts-specialist in de neuropsychiatrie of in de psychiatrie die belast is met de supervisie. De betrokkenen moeten dit document ondertekenen;<br>
 b) een nota waarin vermeld wordt op welke manier de bewoners in de beheersorganen vertegenwoordigd zijn;<br>
@@ -286,25 +280,23 @@ f) ...</p>
 
 ### ART. 34.
 
-De beslissing waarbij de voorlopige erkenning of voorlopige bijkomende erkenning wordt toegekend, vermeldt de ingangsdatum van de voorlopige erkenning of de voorlopige bijkomende erkenning.<br>
+De beslissing waarbij de voorlopige erkenning&nbsp; wordt toegekend, vermeldt de ingangsdatum van de voorlopige erkenning.<br>
 <br>
-De voorlopige erkenning of de voorlopige bijkomende erkenning kan niet vroeger ingaan dan de ingangsdatum van de planningsvergunning, vermeld in artikel 2, tweede lid.<br>
+De voorlopige erkenning kan niet vroeger ingaan dan de ingangsdatum van de planningsvergunning, vermeld in artikel 2, tweede lid.<br>
 <br>
-Een psychiatrisch verzorgingstehuis of een initiatief van beschut wonen mag in geen geval in exploitatie genomen worden voor de ingangsdatum van de voorlopige erkenning.<br>
-<br>
-De entiteiten met een bijkomende erkenning van een woonzorgcentrum mogen in geen geval onder deze hoedanigheid in exploitatie genomen worden voor de ingangsdatum van de voorlopige bijkomende erkenning.
+Een psychiatrisch verzorgingstehuis of een initiatief van beschut wonen mag in geen geval in exploitatie genomen worden voor de ingangsdatum van de voorlopige erkenning.
 
 ### ART. 35.
 
-<p>De de voorlopige erkenning of de voorlopige bijkomende erkenning geldt voor een termijn van een jaar en kan op gemotiveerd verzoek van de beheersinstantie eenmaal met maximaal een jaar verlengd worden.</p>
+<p>De de voorlopige erkenning geldt voor een termijn van een jaar en kan op gemotiveerd verzoek van de beheersinstantie eenmaal met maximaal een jaar verlengd worden.</p>
 
-<p>De gemotiveerde aanvraag tot verlenging van de voorlopige erkenning of de voorlopige bijkomende erkenning wordt minstens twee maanden voor de afloop van de voorlopige erkenning of de voorlopige bijkomende erkenning met een aangetekende zending of tegen ontvangstbewijs ingediend bij het agentschap.</p>
+<p>De gemotiveerde aanvraag tot verlenging van de voorlopige erkenning wordt minstens twee maanden voor de afloop van de voorlopige erkenning met een aangetekende zending of tegen ontvangstbewijs ingediend bij het agentschap.</p>
 
-<p>Over de verlenging van de voorlopige erkenning of de voorlopige bijkomende erkenning wordt beslist op de wijze, vermeld in artikel 5 tot en met 8.</p>
+<p>Over de verlenging van de voorlopige erkenning wordt beslist op de wijze, vermeld in artikel 5 tot en met 8.</p>
 
 ### ART. 36.
 
-<p>Gedurende de periode waarvoor de voorlopige erkenning of de voorlopige bijkomende erkenning werd verleend, onderzoekt het agentschap of bij de exploitatie van de entiteiten met een bijkomende erkenning binnen het woonzorgcentrum, het psychiatrisch verzorgingstehuis of het initiatief van beschut wonen de erkenningsnormen of erkenningsvoorwaarden worden nageleefd.</p>
+<p>Gedurende de periode waarvoor de voorlopige erkenning is verleend, onderzoekt het agentschap of bij de exploitatie van het psychiatrisch verzorgingstehuis of het initiatief van beschut wonen de erkenningsnormen of erkenningsvoorwaarden worden nageleefd.</p>
 
 <p>Het agentschap kan de aanvrager om aanvullende documenten of inlichtingen verzoeken, een nader onderzoek doen instellen door de personeelsleden, belast met het toezicht op de verzorgingsvoorzieningen, of een termijn bepalen om de aanvrager de gelegenheid te geven te voldoen aan de gestelde vereisten, normen en voorwaarden.</p>
 
@@ -312,17 +304,13 @@ De entiteiten met een bijkomende erkenning van een woonzorgcentrum mogen in geen
 
 ### ART. 37.
 
-§ 1. Als een voorlopige erkenning of een voorlopige bijkomende erkenning is verleend conform afdeling 1, wordt, uiterlijk een maand voor het einde van de voorlopige erkenningstermijn de beslissing van de administrateur-generaal tot toekenning van de erkenning of de bijkomende erkenning aan de aanvrager bezorgd, of wordt zijn voornemen tot weigering van de erkenning of de bijkomende erkenning met een aangetekende zending betekend aan de aanvrager.<br>
+§1. Als een voorlopige erkenning is verleend conform afdeling 1, wordt, uiterlijk dertig dagen voor het einde van de voorlopige erkenningstermijn, de beslissing van de administrateur-generaal tot toekenning van de erkenning aan de aanvrager bezorgd, of wordt zijn voornemen tot weigering van de erkenning met een aangetekende zending betekend aan de aanvrager.<br>
 <br>
-Artikel 5 tot en met 8 zijn van overeenkomstige toepassing op het voornemen.<br>
+Artikel 5 tot en met 8 zijn van overeenkomstige toepassing op het voornemen tot weigering van de erkenning.<br>
 <br>
-§ 2. De beslissing tot erkenning vermeldt de erkende capaciteit, uitgedrukt in maximaal aantal bedden, plaatsen of zorggebruikers.<br>
+§2. De beslissing tot erkenning vermeldt de erkende capaciteit, uitgedrukt in maximaal aantal bedden, plaatsen of zorggebruikers.<br>
 <br>
-De erkenning van psychiatrische verzorgingstehuizen en van initiatieven van beschut wonen wordt verleend voor een termijn van maximaal zes jaar en kan worden verlengd.<br>
-<br>
-De bijkomende erkenning voor woonzorgcentra wordt voor onbepaalde duur verleend.<br>
-<br>
-§ 3. Een erkenning of een bijkomende erkenning kan verleend worden zonder voorafgaandelijke voorlopige erkenning of voorlopige bijkomende erkenning indien het gaat om een bijkomende capaciteitsuitbreiding in een bestaand woonzorgcentrum met een bijkomende erkenning. Hiervoor dient een aanvraag ingediend te worden conform artikel 32, 1°. De aanvraag wordt behandeld conform artikel 32, laatste lid, en artikel 33.
+De erkenning van psychiatrische verzorgingstehuizen en van initiatieven van beschut wonen wordt verleend voor maximaal zes jaar en kan worden verlengd.
 
 ## Afdeling 3 Erkenning van samenwerkingsverbanden van psychiatrische instellingen en diensten
 
@@ -377,27 +365,27 @@ De beslissing tot erkenning vermeldt de ingangsdatum van de erkenning. De erkenn
 
 ### ART. 40.
 
-Als een psychiatrisch verzorgingstehuis, een initiatief van beschut wonen, een samenwerkingsverband of de entiteiten met een bijkomende erkenning binnen een woonzorgcentrum niet langer voldoen aan de erkenningsvoorwaarden, kan het agentschap de beheersinstantie van de voorziening in kwestie met een aangetekende zending aanmanen om alle verplichtingen na te komen binnen een termijn die door het agentschap wordt bepaald.<br>
+Als een psychiatrisch verzorgingstehuis, een initiatief van beschut wonen of een samenwerkingsverband niet langer voldoen aan de erkenningsvoorwaarden, kan het agentschap de beheersinstantie van de voorziening in kwestie met een aangetekende zending aanmanen om alle verplichtingen na te komen binnen een termijn die door het agentschap wordt bepaald.<br>
 <br>
-Als ondanks die aanmaning de voorwaarden niet worden nageleefd, kan de erkenning of de bijkomende erkenning worden geschorst of ingetrokken.
+Als ondanks die aanmaning de voorwaarden niet worden nageleefd, kan de erkenning worden geschorst of ingetrokken.
 
 ### ART. 41.
 
-<p>§ 1. Het voornemen van de administrateur-generaal om de erkenning of de bijkomende erkenning te schorsen of om de erkenning in te trekken, wordt aan de beheersinstantie van de betrokken voorziening met een aangetekende zending betekend, waarin de mogelijkheden en de nadere regels vermeld zijn om een bezwaarschrift in te dienen conform artikel 5, tweede lid.</p>
+<p>§ 1. Het voornemen van de administrateur-generaal om de erkenning te schorsen of om de erkenning in te trekken, wordt aan de beheersinstantie van de betrokken voorziening met een aangetekende zending betekend, waarin de mogelijkheden en de nadere regels vermeld zijn om een bezwaarschrift in te dienen conform artikel 5, tweede lid.</p>
 
 <p>Artikel 6 tot en met 8 zijn van overeenkomstige toepassing op het voornemen.</p>
 
-<p>§ 2. De beslissing tot schorsing vermeldt de begindatum, de periode van de schorsing en de voorwaarden die vervuld moeten zijn om de schorsing ongedaan te maken. De schorsing kan slaan op het geheel of een deel van de activiteiten van het woonzorgcentrum met een bijkomende erkenning, van het psychiatrisch verzorgingstehuis, van het initiatief van beschut wonen of van het samenwerkingsverband.</p>
+<p>§ 2. De beslissing tot schorsing vermeldt de begindatum, de periode van de schorsing en de voorwaarden die vervuld moeten zijn om de schorsing ongedaan te maken. De schorsing kan slaan op het geheel of een deel van de activiteiten van het psychiatrisch verzorgingstehuis, van het initiatief van beschut wonen of van het samenwerkingsverband.</p>
 
-<p>De administrateur-generaal bepaalt de termijn van de schorsing van de erkenning of de bijkomende erkenning. Die termijn bedraagt maximaal zes maanden. Op gemotiveerd verzoek van de beheersinstantie van de voorziening in kwestie kan die termijn eenmaal voor maximaal dezelfde termijn worden verlengd. Die aanvraag wordt minstens dertig dagen voor de afloop van de initiële schorsingstermijn aangetekend of tegen ontvangstbewijs aan het agentschap bezorgd.</p>
+<p>De administrateur-generaal bepaalt de termijn van de schorsing van de erkenning. Die termijn bedraagt maximaal zes maanden. Op gemotiveerd verzoek van de beheersinstantie van de voorziening in kwestie kan die termijn eenmaal voor maximaal dezelfde termijn worden verlengd. Die aanvraag wordt minstens dertig dagen voor de afloop van de initiële schorsingstermijn aangetekend of tegen ontvangstbewijs aan het agentschap bezorgd.</p>
 
 <p>Tijdens de duur van de schorsing mag een voorziening alleen verder blijven functioneren voor de gebruikers die op het ogenblik waarop de schorsingsmaatregel ingaat, in het specifieke type van voorziening, dat het voorwerp uitmaakt van de schorsing, opgenomen waren of er hulp- en dienstverlening van ontvingen.</p>
 
-<p>§ 3. De beslissing tot intrekking van de erkenning of de bijkomende erkenning heeft uitwerking op de datum, vermeld in de beslissing. De beslissing tot de intrekking van de erkenning of de bijkomende erkenning heeft het verlies van de erkenning of de bijkomende erkenning tot gevolg vanaf de datum, vermeld in die beslissing.</p>
+<p>§ 3. De beslissing tot intrekking van de erkenning heeft uitwerking op de datum, vermeld in de beslissing. De beslissing tot de intrekking van de erkenning heeft het verlies van de erkenning of de bijkomende erkenning tot gevolg vanaf de datum, vermeld in die beslissing.</p>
 
-<p>§ 4. De beslissing tot intrekken of schorsen van de erkenning van een woonzorgcentrum, geeft van rechtswege de intrekking of de schorsing van de bijkomende erkenning van het woonzorgcentrum tot gevolg. De regelgeving betreffende intrekken en schorsen van woonzorgcentra zijn van toepassing.<br>
+<p>§ 4. ...<br>
 <br>
-Als de erkenning of de bijkomende erkenning wordt geweigerd, gewijzigd, geschorst of ingetrokken, kan een instelling geen aanspraak maken op vergoeding.</p>
+Als de erkenning wordt geweigerd, gewijzigd, geschorst of ingetrokken, kan een instelling geen aanspraak maken op vergoeding.</p>
 
 ### ART. 42.
 
@@ -405,7 +393,7 @@ Uiterlijk twee maanden voor het einde van de schorsingsperiode meldt de   admini
 
 ### ART. 43.
 
-<p>Voor het einde van de schorsingsperiode wordt de beslissing van de administrateur-generaal om de schorsing op te heffen aan de beheersinstantie van de voorziening in kwestie bezorgd, of wordt zijn voornemen om de erkenning of de bijkomende erkenning&nbsp;in te trekken met een aangetekende zending aan de voorziening betekend.</p>
+<p>Voor het einde van de schorsingsperiode wordt de beslissing van de administrateur-generaal om de schorsing op te heffen aan de beheersinstantie van de voorziening in kwestie bezorgd, of wordt zijn voornemen om de erkenning in te trekken met een aangetekende zending aan de voorziening betekend.</p>
 
 <p>Als dat niet gebeurt, kunnen de geschorste activiteiten van rechtswege hervat worden vanaf het einde van de schorsingsperiode, vermeld in artikel 41, § 2.</p>
 
@@ -417,8 +405,6 @@ Met behoud van de toepassing van artikel 41 tot en met 43 kan de   administrateu
 
 ### ART. 45.
 
-<p>De beslissing tot weigering, verlenging, of intrekking van de bijkomende erkenning heeft voor een woonzorgcentrum het verlies van de bijkomende erkenning tot gevolg en de voorziening mag niet langer als woonzorgcentrum met bijkomende erkenning uitgebaat worden.</p>
-
 <p>De beslissing tot weigering van de erkenning of van de verlenging van de erkenning of tot intrekking van de erkenning heeft, voor een psychiatrisch verzorgingstehuis of een initiatief van beschut wonen, het verlies van de erkenning en de sluiting tot gevolg. De sluiting houdt in dat de voorziening niet langer als psychiatrisch verzorgingstehuis of initiatief van beschut wonen geëxploiteerd mag worden.</p>
 
 <p>Nieuwe patiënten mogen alleen opgenomen worden als ze vooraf ingelicht zijn over de beslissing tot sluiting.</p>
@@ -429,15 +415,15 @@ Met behoud van de toepassing van artikel 41 tot en met 43 kan de   administrateu
 
 ### ART. 46.
 
-Als een woonzorgcentrum met een bijkomende erkenning, een psychiatrisch verzorgingstehuis of een initiatief van beschut wonen, waarvan de erkenning of ingeval van een woonzorgcentrum de bijkomende erkenning ingetrokken is, binnen twee jaar na de datum van de intrekking of, in voorkomend geval, van het arrest van de Raad van State dat uitgesproken is met toepassing van artikel 14 van de wetten op de Raad van State, gecoördineerd op 12 januari 1973, geen nieuwe erkenning of bijkomende erkenning heeft gekregen, vervalt ook de planningsvergunning waarop de oorspronkelijke erkenning of bijkomende erkenning gebaseerd was.
+Als een psychiatrisch verzorgingstehuis of een initiatief van beschut wonen, waarvan de erkenning ingetrokken is, binnen twee jaar na de datum van de intrekking of, in voorkomend geval, van een arrest van de Raad van State dat uitgesproken is met toepassing van artikel 14 van de wetten op de Raad van State, gecoördineerd op 12 januari 1973, geen nieuwe erkenning heeft gekregen, vervalt ook de planningsvergunning waarop de oorspronkelijke erkenning is gebaseerd.
 
 ### ART. 47.
 
-De beslissing tot intrekken van de bijkomende erkenning van een woonzorgcentrum en de beslissing tot sluiting als psychiatrisch verzorgingstehuis of als initiatief van beschut wonen wordt, met vermelding van de datum van de kennisgeving, bij uittreksel bekendgemaakt in het Belgisch Staatsblad.
+De beslissing tot sluiting als psychiatrisch verzorgingstehuis of als initiatief van beschut wonen wordt, met vermelding van de datum van de kennisgeving, bij uittreksel bekendgemaakt in het Belgisch Staatsblad.
 
 ### ART. 48.
 
-De administrateur-generaal kan bij de betekening van het voornemen tot weigering van de erkenning of de bijkomende erkenning, tot weigering van de verlenging van de erkenning of de bijkomende erkenning of tot intrekking van de erkenning of de bijkomende erkenning vanwege dringende redenen ter bescherming van de volksgezondheid en de veiligheid van de gebruikers bepalen dat alle activiteiten in het woonzorgcentrum, het psychiatrisch verzorgingstehuis of het initiatief van beschut wonen, dat door het voornemen getroffen wordt, onmiddellijk beëindigd moeten worden, in afwachting van een beslissing over de erkenning of de bijkomende erkenning, de verlenging of de intrekking van de erkenning of de bijkomende erkenning.<br>
+De administrateur-generaal kan bij de betekening van het voornemen tot weigering van de erkenning, tot weigering van de verlenging van de erkenning of tot intrekking van de erkenning vanwege dringende redenen ter bescherming van de volksgezondheid en de veiligheid van de gebruikers bepalen dat alle activiteiten in het psychiatrisch verzorgingstehuis of het initiatief van beschut wonen, dat door het voornemen getroffen wordt, onmiddellijk beëindigd moeten worden, in afwachting van een beslissing over de erkenning, de verlenging of de intrekking van de erkenning.<br>
 <br>
 De schriftelijke aanmaning, vermeld in artikel 40, is in dit geval niet van toepassing.<br>
 <br>
@@ -461,11 +447,9 @@ Elke wijziging die zich in de loop van de erkenningstermijn voordoet in de   geg
 
 ### ART. 52.
 
-<p>Als de beheersinstantie van een woonzorgcentrum met een bijkomende erkenning, een psychiatrisch verzorgingstehuis of een initiatief van beschut wonen beslist tot de vrijwillige stopzetting van de exploitatie van de voorziening of van een deel ervan, wordt de administrateur-generaal drie maanden vooraf ingelicht, met opgave van de datum waarop de beslissing uitwerking heeft. De vrijwillige stopzetting van de exploitatie heeft de sluiting van de voorziening of van het deel in kwestie ervan tot gevolg.</p>
+<p>Als de beheersinstantie van een psychiatrisch verzorgingstehuis of een initiatief van beschut wonen beslist tot de vrijwillige stopzetting van de exploitatie van de voorziening of van een deel ervan, wordt de administrateur-generaal drie maanden vooraf ingelicht, met opgave van de datum waarop de beslissing uitwerking heeft. De vrijwillige stopzetting van de exploitatie heeft de sluiting van de voorziening of van het deel in kwestie ervan tot gevolg.</p>
 
 <p>De planningsvergunning waarop de erkenning van het psychiatrisch verzorgingstehuis of initiatief van beschut wonen gebaseerd was, vervalt zes maanden na de datum van de sluiting, vermeld in het eerste lid.</p>
-
-<p>De planningsvergunning waarop de erkenning van het rust- en verzorgingstehuis gebaseerd was, vervalt op de datum van de sluiting, vermeld in het eerste lid.</p>
 
 ## HOOFDSTUK 4 Slotbepalingen
 
