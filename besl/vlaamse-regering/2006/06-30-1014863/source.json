@@ -2,16 +2,16 @@
   "codex_id": 1014863,
   "title": "Besluit van de Vlaamse Regering van 2006-06-30 tot gedeeltelijke operationalisering van het beleidsdomein ruimtelijke ordening, woonbeleid en onroerend erfgoed en houdende aanpassingen van de regelgeving inzake wonen als gevolg van het bestuurlijk beleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014863/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "c0a98a41b78a7d54f500b0c721470cb3566b73aadb9893d0a77b7c04c60be577",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014863/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "4440b2e3b5df190ec70194826a5278de2a73e4bb2e3069c6b68f927ab84dc141",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014863&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2023-01-01",
   "made": "2006-06-30",
   "gazette": "2006-08-22",
   "numac": 2006036249,
   "document_start": null,
   "document_end": null,
-  "in_force": "2021-01-01",
+  "in_force": "2023-01-01",
   "article_versions": 180,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }
