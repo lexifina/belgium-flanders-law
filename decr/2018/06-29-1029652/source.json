@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029652,
+  "title": "Decreet van 2018-06-29 houdende invoering van het programma 'Iedereen verdient vakantie' in het sociaal toerisme (citeeropschrift: \"het decreet \"Iedereen verdient vakantie\" van 29 juni 2018\")",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029652/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "f36d1e1ff3be61b6f797f90701822bbd4e2b74d287fc9901eedcfa2d689e7665",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029652&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2018-06-29",
+  "gazette": "2018-08-17",
+  "numac": 2018013096,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
