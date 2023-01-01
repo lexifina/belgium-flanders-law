@@ -64,6 +64,8 @@ e) de leerling die gedurende het schooljaar in kwestie minstens 149 dagen reside
 29° kinderopvangtoeslag: toeslag om de deelname te stimuleren van baby's en peuters aan kinderopvang in een niet-inkomengerelateerde opvangplaats in een vergunde kinderopvanglocatie tot ze naar de kleuterschool gaan;<br>
 30° lager onderwijs: het lager onderwijs, vermeld in het decreet basisonderwijs van 25 februari 1997;<br>
 31° leerling: leerling als vermeld in artikel 2, 14°, van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding;<br>
+31°/1 niet-rechtstreeks toegankelijke zorg en ondersteuning: de zorg en ondersteuning die de duur, intensiteit en frequentie van de rechtstreeks toegankelijke zorg en ondersteuning overschrijdt;<br>
+31°/2 ondersteuningstoeslag: een maandelijks bedrag als vermeld in artikel 56/1 waarmee de persoon met een zorgbehoefte, die een duidelijk vast te stellen behoefte aan zorg en ondersteuning heeft, niet-medische hulp- en dienstverlening kan bekostigen;<br>
 32° ouder: de juridische vader, de juridische moeder of meemoeder, van wie de afstamming met het rechtgevende kind of het rechthebbende kind of de rechthebbende leerling is vastgesteld overeenkomstig titel VII van boek I van het Burgerlijk Wetboek, alsook de adoptant na de adoptie van het kind;<br>
 33° private uitbetalingsactor: een private rechtspersoon, vergund met het oog op de uitbetaling van toelagen in het kader van het gezinsbeleid, vermeld in het decreet van 7 juli 2017;<br>
 34° rechtgevend kind: een kind dat een recht op gezinsbijslagen doet ontstaan;<br>
@@ -79,7 +81,7 @@ e) de leerling die gedurende het schooljaar in kwestie minstens 149 dagen reside
 44° toelagen in het kader van het gezinsbeleid:<br>
 a) de gezinsbijslagen, vermeld in artikel 5, § 1, IV, van de bijzondere wet van 8 augustus 1980;<br>
 b) de selectieve participatietoeslagen;<br>
-c) de andere toelagen die de overheid toekent in het kader van het gezinsbeleid, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980, namelijk de kinderopvangtoeslag en de kleutertoeslagen;<br>
+c) de andere toelagen die de overheid toekent in het kader van het gezinsbeleid, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980, namelijk de kinderopvangtoeslag, de kleutertoeslagen en de ondersteuningstoeslag;<br>
 45° uitbetalingsactoren: het agentschap en de private uitbetalingsactoren;<br>
 46° universele participatietoeslagen: toeslagen om bij te dragen in de onderhouds- en opvoedingskosten, en, in voorkomend geval, om bij te dragen in de bijkomende kosten die gepaard gaan met de deelname van de kinderen aan het onderwijs;<br>
 47° verblijfplaats: de feitelijke plaats waar de persoon gewoonlijk verblijft;<br>
@@ -156,7 +158,8 @@ Voor de toepassing van dit artikel worden toelagen met hetzelfde doel die toegek
 8° beroepsmatige of gelijkgestelde situaties, alsook gegevens met betrekking tot de sociale zekerheid;<br>
 9° gegevens over de lichamelijke en de psychische gezondheid;<br>
 10° gegevens over gerechtelijke maatregelen;<br>
-11° gegevens over de plaatsing, overeenkomstig artikel 68 van dit decreet.<br>
+11° gegevens over de plaatsing, overeenkomstig artikel 68 van dit decreet;<br>
+12° gegevens over de niet-rechtstreeks toegankelijke zorg en ondersteuning.<br>
 <br>
 Het agentschap en de uitbetalingsactoren zijn, elk wat hen betreft, verwerkingsverantwoordelijke voor bovenvermelde persoonsgegevens die zij verwerken.<br>
 <br>
@@ -286,7 +289,7 @@ Het basisbedrag, vermeld in artikel 13, wordt met een maandelijkse wezentoeslag 
 
 ### ART 15.
 
-§ 1. De wezentoeslag bedraagt 50 procent van het basisbedrag in een van de volgende gevallen:<br>
+§ 1. De wezentoeslag bedraagt 80 procent van het basisbedrag in een van de volgende gevallen:<br>
 1° een van de ouders van een rechtgevend kind is overleden;<br>
 2° de vrederechter heeft een vermoeden van afwezigheid als vermeld in artikel 112 van het Burgerlijk Wetboek, van een van de ouders van een rechtgevend kind vastgesteld.<br>
 <br>
@@ -333,9 +336,9 @@ De Vlaamse Regering kan de nadere voorwaarden bepalen waaronder de toeslag, verm
 Het basisbedrag, vermeld in artikel 13, wordt voor het rechtgevende kind verhoogd met een maandelijkse sociale toeslag als de inkomsten van het gezin van de begunstigden bepaalde grenzen niet overschrijden.<br>
 <br>
 Het bedrag van de toeslag, vermeld in het eerste lid, bedraagt:<br>
-1° 63,86 euro per kind voor gezinnen tot en met twee rechtgevende kinderen, waarvan de gezinsinkomsten op jaarbasis niet meer dan 30.378,60 euro bedragen;<br>
-2° 93,86 euro per kind voor gezinnen met meer dan twee rechtgevende kinderen, waarvan de gezinsinkomsten op jaarbasis niet meer dan&nbsp;30.378,60 euro bedragen;<br>
-3° 73,86 euro per kind voor gezinnen met meer dan twee rechtgevende kinderen, waarvan de gezinsinkomsten op jaarbasis tussen&nbsp;30.378,60 euro&nbsp;en 60.000 euro liggen.<br>
+1° 63,86 euro per kind voor gezinnen tot en met twee rechtgevende kinderen, waarvan de gezinsinkomsten op jaarbasis niet meer dan 31.897,53 euro bedragen;<br>
+2° 93,86 euro per kind voor gezinnen met meer dan twee rechtgevende kinderen, waarvan de gezinsinkomsten op jaarbasis niet meer dan&nbsp;31.897,53 euro bedragen;<br>
+3° 73,86 euro per kind voor gezinnen met meer dan twee rechtgevende kinderen, waarvan de gezinsinkomsten op jaarbasis tussen&nbsp;31.897,53 euro&nbsp;en 60.000 euro liggen.<br>
 <br>
 Als ten gevolge van een gelijkmatig verdeelde huisvesting de huisvesting van het rechtgevende kind gelijk is verdeeld tussen de ouders, wordt het bedrag van de toeslag gehalveerd toegekend in elk rechtgevend gezin.<br>
 <br>
@@ -803,6 +806,28 @@ De inschrijving, vermeld in het eerste lid, wordt gecontroleerd op de dag dat de
 
 ## [Titel 3. Ondersteuningstoeslag (ing. decr. 21 oktober 2022, art. 4, I: 1 januari 2023)]
 
+### ART 56/1.
+
+Een kind geeft recht op een ondersteuningstoeslag als het aan al de volgende voorwaarden voldoet:<br>
+1° het kind heeft de Belgische nationaliteit of het kind van wie het bewijs niet geleverd wordt dat het de Belgische nationaliteit bezit, is toegelaten of gemachtigd om in het Rijk te verblijven of er zich te vestigen conform de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
+2° het kind heeft zijn woonplaats in het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad;<br>
+3° het kind heeft een zorgbehoefte die voortvloeit uit een aandoening die gevolgen heeft voor hemzelf op het vlak van lichamelijke of geestelijke ongeschiktheid of op het vlak van activiteit en participatie, of die gevolgen heeft voor zijn familiale omgeving.<br>
+<br>
+Het kind dat zijn woonplaats heeft in het tweetalige gebied Brussel-Hoofdstad, vermeld in het eerste lid, 2°, dient een schriftelijk verzoek tot toekenning van de ondersteuningstoeslag in bij een uitbetalingsactor.<br>
+<br>
+Het rechtgevend kind, vermeld in het eerste lid, geeft recht op een ondersteuningstoeslag tot en met de maand waarin het kind 21 jaar wordt, overeenkomstig de door de Vlaamse Regering bepaalde voorwaarden. De Vlaamse Regering kan op deze leeftijdsvoorwaarde vrijstellingen voorzien.<br>
+<br>
+Een ondersteuningstoeslag van 300 euro per maand wordt toegekend aan het rechtgevend kind, vermeld in het eerste lid.<br>
+<br>
+De Vlaamse Regering bepaalt:<br>
+1°&nbsp;&nbsp; &nbsp;de&nbsp;&nbsp; &nbsp;nadere&nbsp;&nbsp; &nbsp;voorwaarden&nbsp;&nbsp; &nbsp;voor&nbsp;&nbsp; &nbsp;de&nbsp;&nbsp; &nbsp;toekenning&nbsp;&nbsp; &nbsp;en&nbsp;&nbsp; &nbsp;schorsing&nbsp;&nbsp; &nbsp;van&nbsp;&nbsp; &nbsp;de ondersteuningstoeslag;<br>
+2°&nbsp;&nbsp; &nbsp;de procedure voor de vaststelling van de zorgbehoefte;<br>
+3°&nbsp;&nbsp; &nbsp;wie de ernst van de zorgbehoefte vaststelt;<br>
+4°&nbsp;&nbsp; &nbsp;de duurtijd waarvoor de ondersteuningstoeslag wordt toegekend.<br>
+<br>
+De Vlaamse Regering kan algemene vrijstellingen van het eerste lid, 1°, bepalen.<br>
+&nbsp;
+
 ## Deel 4. Begunstigden
 
 ## Titel 1. Aanwijzing van begunstigden van toelagen in het kader van het gezinsbeleid
@@ -867,7 +892,9 @@ De selectieve participatietoeslagen student, vermeld in boek 2, deel 2, titel 2,
 
 ### ART 63.
 
-De andere toelagen, vermeld in boek 2, deel 3, worden toegekend aan het rechthebbende kind of de rechthebbende leerling.
+De andere toelagen, vermeld in boek 2, deel 3, worden toegekend aan het rechthebbende kind of de rechthebbende leerling.<br>
+<br>
+In afwijking van het eerste lid wordt de ondersteuningstoeslag toegekend conform artikel 57, 59 en 61.
 
 ## Titel 2. Uitbetalingsregels voor de toelagen in het kader van het gezinsbeleid
 
@@ -1279,7 +1306,7 @@ De nieuwe beslissing wordt genomen met inachtname van de regels die gelden voor 
 
 De rechtsvorderingen waarover de begunstigden van toelagen in het kader van het gezinsbeleid beschikken, moeten binnen vijf jaar worden ingesteld.<br>
 <br>
-Voor de gezinsbijslagen, vermeld in deel 1 van boek 2, met uitzondering van de startbedragen geboorte en adoptie, neemt de termijn van vijf jaar een aanvang de eerste dag van de maand die volgt op de maand waarop de gezinsbijslagen betrekking hebben.<br>
+Voor de gezinsbijslagen, vermeld in deel 1 van boek 2, met uitzondering van de startbedragen geboorte en adoptie, en voor de ondersteuningstoeslag, neemt de termijn van vijf jaar een aanvang de eerste dag van de maand die volgt op de maand waarop de gezinsbijslagen betrekking hebben.<br>
 <br>
 Voor de kinderopvangtoeslagen, vermeld in deel 3 van boek 2, neemt de termijn van vijf jaar een aanvang de eerste dag van de maand die volgt op de maand waarin de kinderopvangdag zich bevindt waarop de kinderopvangtoeslag betrekking heeft.<br>
 <br>
@@ -1371,9 +1398,16 @@ Bij&nbsp;het agentschap Opgroeien regie wordt een geschillencommissie opgericht.
 <br>
 Tegen de beslissing van de uitbetalingsactor over de toelagen in het kader van het gezinsbeleid of tegen het uitblijven ervan na afloop van de termijn waarin hij op basis van dit decreet een beslissing moet nemen, kan alleen beroep worden ingesteld bij de geschillencommissie.<br>
 <br>
-In afwijking van het vorige lid is de geschillencommissie niet bevoegd uitspraak te doen over de geschillen met betrekking tot de aanwijzing van de begunstigden, en over de geschillen met betrekking tot de kwalificatie van de ernst van de ondersteuningsbehoefte in het kader van de zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte, vermeld in artikel 16, § 1.<br>
+In afwijking van het vorige lid is de geschillencommissie niet bevoegd uitspraak te doen over de geschillen met betrekking tot de aanwijzing van de begunstigden, en over de geschillen met betrekking tot de kwalificatie van de ernst van de ondersteuningsbehoefte in het kader van de zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte, vermeld in artikel 16, § 1 en in het kader van de ondersteuningstoeslag, vermeld in artikel 56/1.<br>
 <br>
-Bij een geschil over de aanwijzing van de begunstigden wordt de vordering, op straffe van verval, binnen zes maanden na de kennisgeving van de beslissing van de uitbetalingsactor ingeleid bij de bevoegde rechtbank. Bij een geschil over de kwalificatie van de ernst van de ondersteuningsbehoefte wordt de vordering, op straffe van verval, binnen drie maanden na de kennisgeving van de beslissing van de uitbetalingsactor ingeleid bij de bevoegde rechtbank.
+Bij een geschil over de aanwijzing van de begunstigden wordt de vordering, op straffe van verval, binnen zes maanden na de kennisgeving van de beslissing van de uitbetalingsactor ingeleid bij de bevoegde rechtbank. Bij een geschil over de kwalificatie van de ernst van de ondersteuningsbehoefte wordt de vordering, op straffe van verval, binnen drie maanden na de kennisgeving van de beslissing van de uitbetalingsactor ingeleid bij de bevoegde rechtbank.<br>
+<br>
+De termijnen, vermeld in het vierde lid, worden gestuit door het instellen van een klacht of een verzoek tot bemiddeling bij de klachten- en bemiddelingsdienst die opgericht is binnen het agentschap, over een beslissing die vatbaar is voor een beroep bij de bevoegde rechtbank. De termijnen, vermeld in het vierde lid, beginnen opnieuw te lopen vanaf de beslissing waarmee de klachtenbehandeling of het bemiddelingsverzoek werd afgehandeld.<br>
+&nbsp;<br>
+Als de verzoeker de klacht of het verzoek tot bemiddeling intrekt, of als de klachtenbehandeling of het bemiddelingsverzoek bij gebrek aan de vereiste elementen, vermeld in titel 2, hoofdstuk 5, van het Bestuursdecreet van 7 december 2018, wordt stopgezet, worden, in afwijking van het vijfde lid, de termijnen, vermeld in het vierde lid, geschorst tot op het ogenblik van de intrekking of de stopzetting.<br>
+<br>
+De verzoeker rechtvaardigt de stuiting door een attest van de klachten- en bemiddelingsdienst in kwestie voor te leggen.<br>
+&nbsp;
 
 ### ART 105.
 
