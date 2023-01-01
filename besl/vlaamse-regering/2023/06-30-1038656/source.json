@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038656,
+  "title": "Besluit van de Vlaamse Regering van 2023-06-30 tot wijziging van het besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038656/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "9b010da42385593f7581fc8e07caec080450d429fd46ddb75a3baf4e4f0fa54a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038656&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2023-06-30",
+  "gazette": "2023-10-02",
+  "numac": 2023044106,
+  "document_start": "2023-10-12",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
