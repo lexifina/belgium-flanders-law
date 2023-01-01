@@ -79,6 +79,22 @@ De realisatie van het in artikel 4 bepaalde, veronderstelt dat de instelling bes
 
 Elke instelling onderzoekt en bewaakt op systematische wijze haar eigen kwaliteit. De instelling kiest zelf de wijze waarop zij dit doet.
 
+### ART 6/1.
+
+Onder de in dit artikel vastgelegde voorwaarden verleent de Vlaamse Regering een subsidie aan één kenniscentrum voor onderwijs, Leerpunt.<br>
+<br>
+Het Leerpunt heeft de volgende doelstellingen:<br>
+1° het ontwikkelen van een onafhankelijke, toegankelijke en wetenschappelijk onderbouwde kennisbasis over wat werkt op het vlak van didactisch handelen rekening houdende met diverse contexten en leermiddelen;<br>
+2° het doorvertalen van deze kennisbasis naar de Vlaamse klas- en schoolpraktijk om leraren te ondersteunen in hun dagelijkse klaspraktijk;<br>
+3° het gericht en helder communiceren, verspreiden en valoriseren van de kennis;<br>
+4° het ondersteunen en stimuleren van het gebruik van deze kennis door lera ren(teams) in de dagelijkse klas- en schoolpraktijk, met respect voor de eigen pedagogische projecten. Hierbij is expliciet aandacht voor het versterken van het reflecterend en onderzoekend handelen van de leraren.<br>
+<br>
+De inhoudelijke focus van het Leerpunt ligt op het ondersteunen van het pedagogisch-didactisch handelen van leraren in het basis- en secundair onderwijs.<br>
+<br>
+Het Leerpunt werkt samen met onderwijsverstrekkers, pedagogische begeleidingsdiensten, lerarenopleidingen, onderzoekersinstellingen, andere actoren in het onderwijs en gelijkaardige instellingen in binnen- en buitenland.<br>
+<br>
+Binnen de beschikbare begrotingskredieten stelt de Vlaamse Regering aan het Leerpunt jaarlijks een subsidie ter beschikking als tegemoetkoming om de vooropgestelde doelstellingen van het Leerpunt te realiseren. Deze subsidies worden toegekend in de vorm van een vierjaarlijks financieringsbudget. De Vlaamse Regering kan een bijkomende subsidie verlenen voor de uitvoering van specifieke bijkomende opdrachten die passen binnen de vooropgestelde doelstellingen. De Vlaamse Regering bepaalt de nadere voorwaarden voor de uitbetaling van de middelen en de evaluatie van de werking van het Leerpunt. Deze voorwaarden waarborgen dat het Leerpunt samenwerkt met of beroep doet op bestaande initiatieven.
+
 ## HOOFDSTUK II. Ondersteuning van de kwaliteit
 
 ## Afdeling I. Algemene bepalingen
@@ -105,21 +121,26 @@ Als aan personeelsleden professionalisering wordt opgelegd, komen de kosten ten 
 
 <p>§ 1. De Vlaamse Gemeenschap stelt elk jaar nascholingsmiddelen ter beschikking van de instellingen om het nascholingsplan uit te voeren.<br>
 <br>
-§ 2. De nascholingsmiddelen per niveau bedragen voor het begrotingsjaar 2015:<br>
-1° voor het basisonderwijs: 4.007.000 euro;<br>
-2° voor het secundair onderwijs: 6.335.000 euro;<br>
+§ 2. De volgende bedragen worden per begrotingsjaar en met ingang vanaf begrotingsjaar 2023 toegekend, met uitzondering van de leersteuncentra waarvoor het toe te kennen bedrag vanaf het begrotingsjaar 2024 wordt vermeld:<br>
+1° voor het basisonderwijs: 5.342.667 euro in begrotingsjaar 2023 en 7.931.000 euro vanaf begrotingsjaar 2024;<br>
+2° voor het secundair onderwijs: 7.307.000 euro in begrotingsjaar 2023 en 9.419.000 euro vanaf begrotingsjaar 2024;<br>
 3° voor het volwassenenonderwijs, met uitzondering van de basiseducatie: 418.000 euro;<br>
 4° voor het deeltijds kunstonderwijs: 255.000 euro;<br>
 5° voor de CLB's: 178.000 euro;<br>
-6° voor de basiseducatie: 77.500 euro.<br>
+6° voor de basiseducatie: 77.500 euro;<br>
+7° voor de leersteuncentra: 167.000 euro.<br>
 <br>
-Vanaf het begrotingsjaar 2016 worden deze bedragen aangepast aan de evolutie van de gezondheidsindex..<br>
+Vanaf het begrotingsjaar 2025 worden deze bedragen aangepast aan de evolutie van de gezondheidsindex..<br>
 <br>
 § 3. Het aandeel in de middelen waarop elke instelling recht heeft, wordt pro rata berekend op basis van het aantal organieke betrekkingen in de instelling op 1 februari van het voorafgaande begrotingsjaar, rekening houdend met het niveau waarvoor de middelen, vermeld in § 2, bestemd zijn.</p>
 
 ### ART. 10.
 
-De nascholingsmiddelen worden in twee schijven aan de besturen van de instellingen uitbetaald. De eerste schijf van zestig procent wordt uitbetaald voor het einde van de maand februari van het betreffende begrotingsjaar, de tweede schijf van veertig procent wordt uitbetaald voor het einde van de maand juni van het betreffende begrotingsjaar. <br /><br />Elk bestuur wendt de middelen uitsluitend aan voor de nascholing van de personeelsleden van de instelling die recht heeft op de nascholingsmiddelen, en dit overeenkomstig het goedgekeurde nascholingsplan.<br /><br />Er kan een reserve worden opgebouwd ten bedrage van maximaal 50 % van de jaarlijkse middelen.
+De nascholingsmiddelen worden in twee schijven aan de besturen van de instellingen uitbetaald. De eerste schijf van zestig procent wordt uitbetaald voor het einde van de maand februari van het betreffende begrotingsjaar, de tweede schijf van veertig procent wordt uitbetaald voor het einde van de maand juni van het betreffende begrotingsjaar.&nbsp;Indien het decreet houdende de aanpassing van de algemene uitgavenbegroting of het programmadecreet houdende bepalingen tot begeleiding van de begrotingsaanpassing, van het begrotingsjaar waarin de nascholingsmiddelen voor het betrokken begrotingsjaar zijn opgenomen, aanleiding geeft tot meer nascholingsmiddelen voor de instellingen, dan worden deze bijkomende middelen uitbetaald binnen de twee maanden na de bekrachtiging door de Vlaamse Regering van betrokken decreet.<br>
+<br>
+Elk bestuur wendt de middelen uitsluitend aan voor de nascholing van de personeelsleden van de instelling die recht heeft op de nascholingsmiddelen, en dit overeenkomstig het goedgekeurde nascholingsplan.<br>
+<br>
+Er kan een reserve worden opgebouwd ten bedrage van maximaal 50 % van de jaarlijkse middelen.
 
 ### ART. 11.
 
@@ -1413,7 +1434,9 @@ In afwachting dat de Vlaamse Regering de voorwaarden, vermeld in het eerste lid,
 
 ### ART. 147.
 
-Niemand kan ter beschikking gesteld of gehouden worden wegens   ziekte&nbsp;vanaf de datum waarop hij aanspraak kan maken op een rustpensioen en   dertig dienstjaren telt die in aanmerking komen voor de berekening van het   rustpensioen.
+Niemand kan ter beschikking gesteld of gehouden worden wegens ziekte&nbsp;vanaf de datum waarop hij aanspraak kan maken op een rustpensioen en dertig dienstjaren telt die in aanmerking komen voor de berekening van het rustpensioen.<br>
+<br>
+Het eerste lid is niet van toepassing op de personeelsleden die gedeeltelijk ter beschikking gesteld zijn wegens ziekte of gebrekkigheid tijdens een verlof voor verminderde prestaties wegens ziekte.
 
 ### ART. 148.
 
