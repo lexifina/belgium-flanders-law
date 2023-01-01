@@ -30,7 +30,11 @@ Voor de begrotingsjaren 2012, 2013 en 2015&nbsp;worden de bedragen vermeld in pa
 <br>
 § 5. Het bedrag van de werkingsuitkering, berekend overeenkomstig de bepalingen van dit artikel, wordt verhoogd overeenkomstig het procentueel aandeel van de Hogere Zeevaartschool conform de bepalingen in artikel III.24 van de Codex Hoger Onderwijs.<br>
 <br>
-§ 6. Het bedrag van de werkingsuitkering, dat conform dit artikel wordt berekend, wordt verhoogd overeenkomstig het procentueel aandeel van de Hogere Zeevaartschool in de aanvullende uitkeringen, vermeld in artikel III.34/1 van de Codex Hoger Onderwijs van 11 oktober 2013.
+§ 6. Het bedrag van de werkingsuitkering, dat conform dit artikel wordt berekend, wordt verhoogd overeenkomstig het procentueel aandeel van de Hogere Zeevaartschool in de aanvullende uitkeringen, vermeld in artikel III.34/1 van de Codex Hoger Onderwijs van 11 oktober 2013.<br>
+<br>
+§7. In het begrotingsjaar 2023 worden de bedragen die in dit decreet geïndexeerd worden aan de hand van de indexformule, vermeld in artikel III.5, §9, van de Codex Hoger Onderwijs van 11 oktober 2013, bijkomend geïndexeerd met 0,93 procent.<br>
+<br>
+In het begrotingsjaar 2023 worden de bedragen die in dit decreet geïndexeerd worden aan de hand van de indexformule, vermeld in artikel III.5, §9, van de Codex Hoger Onderwijs van 11 oktober 2013, bijkomend geïndexeerd met 2,69 procent.
 
 ### ART 2/1.
 
