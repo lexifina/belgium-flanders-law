@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037988,
+  "title": "Besluit van de Vlaamse Regering van 2023-01-13 tot wijziging van het Besluit Gegevensverwerking Toelagen Gezinsbeleid van 19 juli 2019",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037988/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "2b4585402f8df5f0ca6ce0c03be83b76d7bcba0cad363844d07b63a66a32b95b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037988&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2023-01-13",
+  "gazette": "2023-03-06",
+  "numac": 2023040365,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
