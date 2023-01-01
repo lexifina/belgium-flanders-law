@@ -75,7 +75,7 @@ Het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling   van 
 <br>
 De voorziening die is erkend conform artikel 2, tweede tot en met het zesde lid, ontvangt 0,13 personeelspunten per uur voor globale individuele ondersteuning.<br>
 <br>
-Als de som van de personeelspunten die op basis van de geleverde prestaties worden toegekend, meer dan 92 % bedraagt van het aantal personeelspunten waarvoor de voorziening, die is erkend conform artikel 2, eerste lid, of die is erkend conform artikel 2, tweede tot en met het zesde lid, erkend is en er maximaal twintig personeelspunten minder worden gepresteerd dan het aantal personeelspunten waarvoor de voorziening erkend is, ontvangt de voorziening, in afwijking van het eerste of het derde lid, het aantal personeelspunten waarvoor de voorziening is erkend.</p>
+Als de som van de personeelspunten die op basis van de geleverde prestaties worden toegekend, meer dan 95 % bedraagt van het aantal personeelspunten waarvoor de voorziening, die is erkend conform artikel 2, eerste lid, of die is erkend conform artikel 2, tweede tot en met het zesde lid, ontvangt de voorziening, in afwijking van het eerste of het derde lid, het aantal personeelspunten waarvoor de voorziening is erkend.</p>
 
 ### ART. 7.
 
@@ -100,6 +100,8 @@ De personeelssubsidies worden toegekend op basis van de salarisschalen en   de d
 Het bedrag per punt bedraagt 834 euro (achthonderdvierendertig euro).<br>
 <br>
 Het bedrag, vermeld in het eerste lid, mag niet aangewend worden voor reservevorming of voor de aanwerving van personeel of voor de vergoeding van personeelskosten. De besteding van het bedrag mag gespreid worden over meer dan een boekhoudkundig jaar.<br>
+<br>
+In afwijking van het derde lid kan het bedrag, vermeld in het eerste lid, aangewend worden voor de vergoeding van variabele prestaties die niet vergoed worden conform artikel 8, §1, van het besluit van de Vlaamse Regering van 15 december 1993 houdende de subsidiëring van de personeelskosten in bepaalde voorzieningen van de welzijnssector.<br>
 <br>
 Het agentschap subsidieert de werkingsmiddelen, vermeld in het eerste lid, op voorwaarde dat er over de aanwending van het bedrag voorafgaand overleg is gepleegd met het collectieve overlegorgaan, vermeld in artikel 27 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap of dat er collectieve inspraak als vermeld in artikel 30 van het voormelde besluit, is geweest en dat er overleg met de werknemersvertegenwoordiging heeft plaatsgevonden, en er aan die overlegkanalen transparantie is geboden over de aanwending.<br>
 <br>
@@ -357,7 +359,7 @@ De voorziening ontvangt 0,22 personeelspunten per mobiele begeleiding en per mob
 <br>
 In afwijking van artikel 6, tweede lid, kunnen de personeelspunten niet worden overgedragen aan een andere voorziening die is erkend en gesubsidieerd door het agentschap.<br>
 <br>
-Als de som van de personeelspunten die op basis van de geleverde prestaties worden toegekend, meer dan 92 % bedraagt van het aantal personeelspunten waarvoor de voorziening, of de organisatie tijdelijk erkend is conform artikel 15/12 en als er maximaal twintig personeelspunten minder worden gepresteerd dan het aantal personeelspunten waarvoor de voorziening of organisatie tijdelijk erkend is, ontvangt de voorziening of organisatie, in afwijking van het eerste lid het aantal personeelspunten waarvoor de voorziening is erkend.
+Als de som van de personeelspunten die op basis van de geleverde prestaties worden toegekend, meer dan 95 % bedraagt van het aantal personeelspunten waarvoor de voorziening, of de organisatie tijdelijk erkend is conform artikel 15/12, ontvangt de voorziening of organisatie, in afwijking van het eerste lid het aantal personeelspunten waarvoor de voorziening is erkend.
 
 ### ART 15/16.
 
