@@ -2,16 +2,16 @@
   "codex_id": 1035915,
   "title": "Besluit van de Vlaamse Regering van 2021-07-09 tot wijziging van het Energiebesluit van 19 november 2010, wat betreft de invoering van een renovatieverplichting voor niet-residentiële gebouwen en bepalingen over het energieprestatiecertificaat voor niet-residentiële gebouwen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035915/VolledigDocument?datum=2022-01-01",
-  "source_sha256": "c53303fb515935a88dedac1139992868aa61688334d32cc2d0bb2c9ae5e854eb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035915/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "d16448a48f15430be32077246a2a76c537c1259a1810aaa10c3840da23fc8f89",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035915&param=informatie",
-  "as_of": "2022-01-01",
+  "as_of": "2023-01-01",
   "made": "2021-07-09",
   "gazette": "2021-08-10",
   "numac": 2021032131,
   "document_start": null,
   "document_end": null,
-  "in_force": "2022-01-01",
-  "article_versions": 17,
-  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-01-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }

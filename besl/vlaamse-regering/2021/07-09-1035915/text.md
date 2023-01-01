@@ -143,6 +143,14 @@ In afwijking van het eerste en het tweede lid hoeft er voor gebouweenheden met e
 
 In artikel 9.2.7/2, derde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 30 november 2018, worden tussen de woorden "de energiedeskundige type A" en de woorden "ter beschikking gesteld" de woorden "ondertekend en" ingevoegd.
 
+### ART 19.
+
+Aan titel IX, hoofdstuk II, afdeling II, van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 11 december 2020, wordt een onderafdeling III, die bestaat uit artikel 9.2.10/2, toegevoegd, die luidt als volgt :<br>
+<br>
+"Onderafdeling III. Het afficheren van het energieprestatiecertificaat niet-residentiële gebouwen voor publieke gebouwen.<br>
+<br>
+Art. 9.2.10/2. De gebruiker van een publiek gebouw met een bruikbare vloeroppervlakte van minstens 250 m<sup>2</sup> hangt het voorblad van een geldig energieprestatiecertificaat niet-residentiële gebouwen op een plaats die voor het publiek zichtbaar is in het gebouw waarop het betrekking heeft.".
+
 ### ART 21.
 
 Aan titel IX van het Energiebesluit van 19 november 2010, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 11 december 2020, wordt hoofdstuk III, dat bestaat uit artikel 9.3.1 en artikel 9.3.2, opnieuw opgenomen in de volgende lezing :<br>
