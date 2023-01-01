@@ -175,7 +175,7 @@ In artikel 64, § 3, van het decreet van 15 juli 1997 houdende de Vlaamse Woonco
 
 <p>§ 1. Er wordt een begrotingsfonds&nbsp;als vermeld in artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 opgericht, genaamd Fonds voor de Wooninspectie.<br>
 <br>
-De ontvangsten die gerealiseerd worden op grond van de artikel 3.43 tot en met 3.50, artikel 3.55, boek 4, deel 3, en boek 6, deel 12, van de Vlaamse Codex Wonen van 2021 worden toegewezen aan het Fonds voor de Wooninspectie.<br>
+De ontvangsten die gerealiseerd worden op grond van artikel 1.8, artikel 3.43 tot en met 3.50, artikel 3.55, boek 4, deel 3, en boek 6, deel 12, van de Vlaamse Codex Wonen van 2021 worden toegewezen aan het Fonds voor de Wooninspectie.<br>
 <br>
 Aan het Fonds voor de Wooninspectie wordt eveneens toegewezen 18% van het saldo van de dienst met afzonderlijk beheer Herstelfonds beschikbaar als over te dragen saldo bij afsluiting van de jaarrekening 2015. Dit saldo wordt vastgesteld door de Vlaamse Regering.<br>
 <br>
