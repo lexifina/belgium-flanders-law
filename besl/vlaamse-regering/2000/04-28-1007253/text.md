@@ -15,7 +15,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br>
 
 § 1. ...<br>
 <br>
-§ 2. De bevoegde verbalisant stuurt een door hem eensluidend verklaard afschrift van het proces-verbaal naar de rekenplichtige ambtenaar van het Grondfonds, vermeld in paragraaf 1.<br>
+§ 2. De bevoegde verbalisant stuurt een door hem eensluidend verklaard afschrift van het proces-verbaal naar de rekenplichtige ambtenaar van het BRV-fonds, vermeld in artikel 1.6.1 van de Vlaamse Codex Ruimtelijke Ordening.<br>
 <br>
 Het proces-verbaal bevat minstens de volgende vaststellingen:<br>
 1° de identiteit van de persoon of personen die handelingen, werken of wijzigingen heeft of hebben voortgezet in strijd met het stakingsbevel;<br>
@@ -27,9 +27,9 @@ De verbalisant voegt eventuele andere stukken ter staving van het misdrijf bij.
 
 ### ART. 3.
 
-De rekenplichtige ambtenaar van het Grondfonds zoals vermeld in artikel 2, paragraaf 1 legt de in het proces-verbaal vermelde persoon of personen die handelingen, werken of wijzigingen heeft of hebben voortgezet in strijd met het stakingsbevel een administratieve geldboete van 5.000 euro op. De betrokkenen worden van de beslissing tot het opleggen van de administratieve geldboete in kennis gesteld door middel van een aangetekende brief met bericht van ontvangst, zoals vermeld in artikel 6.1.49, § 2, van de Vlaamse Codex Ruimtelijke Ordening, zoals van toepassing vóór de inwerkingtreding van artikel 83 en 116 van het decreet van 25 april 2014 betreffende de handhaving van de omgevingsvergunning,&nbsp;waarin de betrokkene wordt verzocht de administratieve geldboete te voldoen via het bijgevoegde overschrijvingsformulier.<br>
+De rekenplichtige ambtenaar van het BRV-fonds, vermeld in artikel 2, §2, eerste lid, van dit besluit, legt de in het proces-verbaal vermelde persoon of personen die handelingen, werken of wijzigingen heeft of hebben voortgezet in strijd met het stakingsbevel een administratieve geldboete van 5.000 euro op. De betrokkenen worden van de beslissing tot het opleggen van de administratieve geldboete in kennis gesteld door middel van een aangetekende brief met bericht van ontvangst, zoals vermeld in artikel 6.1.49, § 2, van de Vlaamse Codex Ruimtelijke Ordening, zoals van toepassing vóór de inwerkingtreding van artikel 83 en 116 van het decreet van 25 april 2014 betreffende de handhaving van de omgevingsvergunning,&nbsp;waarin de betrokkene wordt verzocht de administratieve geldboete te voldoen via het bijgevoegde overschrijvingsformulier.<br>
 <br>
-Het overschrijvingsformulier vermeldt het adres en het rekeningnummer van het Grondfonds, de naam en het adres van de overtreder, het te betalen bedrag en een verwijzing naar het proces-verbaal. De rekenplichtige kent aan elk overschrijvingsformulier een uniek refertenummer toe.<br>
+Het overschrijvingsformulier vermeldt het adres en het rekeningnummer van het BRV-fonds, vermeld in het eerste lid, de naam en het adres van de overtreder, het te betalen bedrag en een verwijzing naar het proces-verbaal. De rekenplichtige kent aan elk overschrijvingsformulier een uniek refertenummer toe.<br>
 <br>
 De aangetekende brief neemt de vaststellingen van het proces-verbaal over. De aangetekende brief bevat bovendien:<br>
 1° een verwijzing naar het stakingsbevel;<br>
@@ -48,7 +48,7 @@ Een afschrift van de beslissing waarbij het stakingsbevel wordt bekrachtigd en e
 
 De gemotiveerde verzoeken om kwijtschelding, vermindering of uitstel van betaling, bedoeld in artikel 6.1.49, § 3 en § 4, van de Vlaamse Codex Ruimtelijke Ordening, zoals van toepassing vóór de inwerkingtreding van artikel 83 en 116 van het decreet van 25 april 2014 betreffende de handhaving van de omgevingsvergunning, worden gericht aan de gewestelijke stedenbouwkundige inspecteur die bevoegd is voor het gehele grondgebied van het Vlaamse gewest. Deze gewestelijke stedenbouwkundige inspecteur mag niet de persoon zijn die het stakingsbevel heeft bekrachtigd.<br>
 <br>
-De gewestelijke stedenbouwkundige inspecteur brengt de rekenplichtige ambtenaar van het Grondfonds zoals vermeld in artikel 2, paragraaf 1 onmiddellijk op de hoogte van de indiening van het verzoek.
+De gewestelijke stedenbouwkundige inspecteur brengt de rekenplichtige ambtenaar van het BRV-fonds, vermeld in artikel 2, §2, eerste lid, onmiddellijk op de hoogte van de indiening van het verzoek.
 
 ### ART. 5.
 
@@ -58,13 +58,13 @@ De in artikel 4 bedoelde stedenbouwkundige inspecteur kan de verzoeker horen ind
 
 De in artikel 4 bedoelde stedenbouwkundige inspecteur deelt zijn beslissing over het verzoek tot kwijtschelding, vermindering of uitstel aan de verzoeker mee per aangetekende brief met bericht van ontvangst. Wanneer vermindering of uitstel van betaling van de administratieve geldboete wordt toegestaan, vermeldt de brief de uiterste datum waarop de administratieve geldboete moet worden betaald. Wanneer een vermindering van de administratieve geldboete wordt toegestaan, wordt de termijn vastgesteld overeenkomstig de bepaling van artikel 6.1.49, § 7, van de Vlaamse Codex Ruimtelijke Ordening, zoals van toepassing vóór de inwerkingtreding van artikel 83 en 116 van het decreet van 25 april 2014 betreffende de handhaving van de omgevingsvergunning.<br>
 <br>
-De stedenbouwkundige inspecteur stuurt een afschrift van zijn beslissing over het verzoek naar de rekenplichtige ambtenaar van het Grondfonds zoals vermeld in artikel 2, paragraaf 1.
+De stedenbouwkundige inspecteur stuurt een afschrift van zijn beslissing over het verzoek naar de rekenplichtige ambtenaar van het BRV-fonds, vermeld in artikel 2, §2, eerste lid.
 
 ### ART. 7.
 
 Wanneer geen kwijtschelding, vermindering of uitstel van betaling wordt toegestaan, wordt de administratieve geldboete voldaan via het overschrijvingsformulier, bedoeld in artikel 3.<br>
 <br>
-Wanneer vermindering of uitstel van betaling wordt toegestaan, voegt de in artikel 4 bedoelde stedenbouwkundige inspecteur bij zijn aangetekende brief een nieuw overschrijvingsformulier. Het overschrijvingsformulier vermeldt het adres en het rekeningnummer van het Grondfonds, de naam en het adres van de overtreder, het te betalen bedrag en een verwijzing naar de beslissing over het verzoek. De rekenplichtige ambtenaar van het Grondfonds zoals vermeld in artikel 2, paragraaf 1 kent het overschrijvingsformulier een uniek refertenummer toe.
+Wanneer vermindering of uitstel van betaling wordt toegestaan, voegt de in artikel 4 bedoelde stedenbouwkundige inspecteur bij zijn aangetekende brief een nieuw overschrijvingsformulier. Het overschrijvingsformulier vermeldt het adres en het rekeningnummer van het BRV-fonds, vermeld in artikel 2, §2, eerste lid, de naam en het adres van de overtreder, het te betalen bedrag en een verwijzing naar de beslissing over het verzoek. De rekenplichtige ambtenaar van het voormelde BRV-fonds kent het overschrijvingsformulier een uniek refertenummer toe.
 
 ## HOOFDSTUK IV DE INVORDERING VAN DE ADMINISTRATIEVE GELDBOETE
 
