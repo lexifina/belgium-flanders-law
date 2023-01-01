@@ -2,16 +2,16 @@
   "codex_id": 1030293,
   "title": "Besluit van de Vlaamse Regering van 2019-01-11 inzake de herziening of de opheffing van stedenbouwkundige voorschriften van algemene en bijzondere plannen van aanleg en gemeentelijke ruimtelijke uitvoeringsplannen, met toepassing van artikel 7.4.4/1 van de Vlaamse Codex Ruimtelijke Ordening",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030293/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "3b22f9ddc89632ea6d4161ab57e256d6e62dac11e19ccc8981d872f44953aa20",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030293/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "86abdcc1e3af54834c4d08ef257a4331d16f11c241ea9109098e75aba3f33f7d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030293&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2023-01-01",
   "made": "2019-01-11",
   "gazette": "2019-02-25",
   "numac": 2019040425,
   "document_start": "2019-03-07",
   "document_end": null,
-  "in_force": "2021-01-01",
+  "in_force": "2023-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }
