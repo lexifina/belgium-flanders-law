@@ -146,6 +146,8 @@ Weggelopen kinderen en kinderen van wie is vastgesteld dat ze in het buitenland 
 <br>
 Als het kind een sociale uitkering ontvangt op basis van een Belgische of buitenlandse regeling over ziekte, invaliditeit, werkloosheid of loopbaanonderbreking als vermeld in hoofdstuk IV, afdeling 5, van de herstelwet van 22 januari 1985 houdende sociale bepalingen,&nbsp;of een inkomensvervangende tegemoetkoming of integratietegemoetkoming ontvangt als vermeld in artikel 2, § 1 en § 2, van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap, wordt de maandelijkse zorgtoeslag voor het kind met een specifieke ondersteuningsbehoefte geschorst voor de maand waarop de uitkering betrekking heeft. Als het kind een beroepsinschakelingsuitkering of een sociale uitkering die voortvloeit uit een activiteit in een maatwerkbedrijf, of die voortvloeit uit een tewerkstelling tijdens een systeem van alternerend leren, een leerovereenkomst of een bezoldigde stageovereenkomst, ontvangt, wordt de maandelijkse zorgtoeslag niet geschorst.<br>
 <br>
+Het jaarlijkse quotum van 475 uur, vermeld in het eerste lid, 1°, wordt voor de jaren 2023 en 2024 op 600 uur gebracht.<br>
+<br>
 § 3. De tewerkstelling van het kind dat een systeem van alternerend leren en werken volgt, in het kader van de praktische opleiding op de werkplek, of werkt met een bezoldigde stageovereenkomst wordt niet beschouwd als een winstgevende activiteit. Met betrekking tot de voorwaarden gesteld in het eerste lid van de tweede paragraaf van dit artikel, moeten de voorwaarden uit artikel 1, 2°, derde zin van het Koninklijk Besluit van 14 juli 1995 waarbij sommige categorieën studenten uit het toepassingsgebied van Titel VII van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten worden gesloten, vervuld worden in hoofde van de leerling die een systeem van alternerend leren en werken volgt.<br>
 <br>
 § 4. De tewerkstelling van het kind in het kader van een leerovereenkomst wordt niet beschouwd als een winstgevende activiteit.
@@ -298,6 +300,8 @@ Als het kind geen nieuwe vorming begint door zich in te schrijven in een instell
 <br>
 Als het kind dat onderwijs volgt of een vorming doorloopt, een sociale uitkering ontvangt op basis van een Belgische of buitenlandse regeling over ziekte, invaliditeit, werkloosheid of loopbaanonderbreking als vermeld in hoofdstuk IV, afdeling 5, van de herstelwet van 22 januari 1985 houdende sociale bepalingen, worden de gezinsbijslagen geschorst voor de maand waarop de uitkering betrekking heeft. Als het een sociale uitkering ontvangt die voortvloeit uit een tewerkstelling tijdens een systeem van alternerend leren of een bezoldigde stageovereenkomst, worden de maandelijkse gezinsbijslagen niet geschorst.<br>
 <br>
+Het jaarlijkse quotum van 475 uur, vermeld in het eerste lid, 1°, wordt voor de jaren 2023 en 2024 op 600 uur gebracht.<br>
+<br>
 § 2. De tewerkstelling die het kind dat een systeem van alternerend leren en werken volgt, uitoefent in het kader van de praktische opleiding op de werkplek, of die het kind uitoefent tijdens een bezoldigde stageovereenkomst, worden niet beschouwd als een winstgevende activiteit. Met betrekking tot de voorwaarden gesteld in het eerste lid van de eerste paragraaf van dit artikel, moeten de voorwaarden uit artikel 1, 2°, derde zin van het Koninklijk Besluit van 14 juli 1995 waarbij sommige categorieën studenten uit het toepassingsgebied van Titel VII van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten worden gesloten, vervuld worden in hoofde van de leerling die een systeem van alternerend leren en werken volgt.
 
 ### ART 30.
@@ -409,7 +413,9 @@ Een winstgevende activiteit van het kind leidt tot de schorsing van de gezinsbij
 2° in een maand gedurende niet meer dan tachtig uur uitgeoefend wordt in het kader van elke tewerkstelling, die geen tewerkstelling is als vermeld in punt 1° ;<br>
 3° door een kind als zelfstandige uitgeoefend wordt en daarbij geen bijdragen verschuldigd is als een zelfstandige in hoofdberoep.<br>
 <br>
-Als het kind een sociale uitkering ontvangt op basis van een Belgische of buitenlandse regeling over ziekte, invaliditeit, werkloosheid of loopbaanonderbreking als vermeld in hoofdstuk IV, afdeling 5, van de herstelwet van 22 januari 1985 houdende sociale bepalingen of een inkomensvervangende tegemoetkoming, worden de gezinsbijslagen geschorst voor de maand waarop de uitkering betrekking heeft.
+Als het kind een sociale uitkering ontvangt op basis van een Belgische of buitenlandse regeling over ziekte, invaliditeit, werkloosheid of loopbaanonderbreking als vermeld in hoofdstuk IV, afdeling 5, van de herstelwet van 22 januari 1985 houdende sociale bepalingen of een inkomensvervangende tegemoetkoming, worden de gezinsbijslagen geschorst voor de maand waarop de uitkering betrekking heeft.<br>
+<br>
+Het jaarlijkse quotum van 475 uur, vermeld in het eerste lid, 1°, wordt voor de jaren 2023 en 2024 op 600 uur gebracht.
 
 ### ART 41/1.
 
