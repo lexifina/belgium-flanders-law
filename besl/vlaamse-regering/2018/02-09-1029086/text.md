@@ -332,9 +332,9 @@ De vordering tot het betalen van een meerwaarde die krachtens artikel 6.3.1 of 6
 
 ### ART 18.
 
-Tenzij bij kwijting als vermeld in artikel 6.3.1, § 5, derde lid, van de Vlaamse Codex Ruimtelijke Ordening, moet het bedrag van de meerwaarde uiterlijk bij het verstrijken van de toegestane betalingstermijn worden gestort op de rekening van het Grondfonds, vermeld in artikel 5.6.3 van de voormelde codex.<br>
+Tenzij bij kwijting als vermeld in artikel 6.3.1, § 5, derde lid, van de Vlaamse Codex Ruimtelijke Ordening, moet het bedrag van de meerwaarde uiterlijk bij het verstrijken van de toegestane betalingstermijn worden gestort op de rekening van het BRV-fonds, vermeld in artikel 1.6.1 van de voormelde codex.<br>
 <br>
-De rekenplichtige ambtenaar van het Grondfonds, die daartoe wordt aangewezen door de leidend ambtenaar van het departement, brengt de overheid die het meerwaardebedrag heeft gevorderd of opgelegd en, voor zover verschillend, de gewestelijke stedenbouwkundige inspecteur op de hoogte van de storting.<br>
+De rekenplichtige ambtenaar van het BRV-fonds, vermeld in het eerste lid, die daartoe wordt aangewezen door de leidend ambtenaar van het departement, brengt de overheid die het meerwaardebedrag heeft gevorderd of opgelegd en, voor zover verschillend, de gewestelijke stedenbouwkundige inspecteur op de hoogte van de storting.<br>
 <br>
 Vanaf het verstrijken van de termijn, vermeld in het eerste lid, is de wettelijke verwijlintrest op het door de rechter bepaalde bedrag van de meerwaarde verschuldigd zonder verdere ingebrekestelling.
 
