@@ -435,4 +435,4 @@ Salarisschaal A221 P<br>
 
 ### BIJLAGE IV.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2012/02/08_4.pdf#page=17" title=" bijlage 4" target="_blank" class="pdf">bijlage 4</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2023/12/04_1.pdf#page=178">Bijlage IV</a>
