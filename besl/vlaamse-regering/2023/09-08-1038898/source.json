@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038898,
+  "title": "Besluit van de Vlaamse Regering van 2023-09-08 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de uitvoering van het sectoraal akkoord 2020-2022",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038898/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "ab7856f35ac64755ecc38e1b7bd247896a4bcf28547141c22d825c048dafc97c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038898&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2023-09-08",
+  "gazette": "2023-10-27",
+  "numac": 2023046382,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
