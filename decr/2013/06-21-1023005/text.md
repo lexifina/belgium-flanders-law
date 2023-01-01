@@ -10,7 +10,7 @@ Dit decreet regelt een gemeenschaps- en een   gewestaangelegenheid.<BR>
 
 ### ART. 2.
 
-Dit decreet voorziet in de omzetting van richtlijn 2011/16/EU van de Raad van 15 februari 2011 betreffende de administratieve samenwerking op het gebied van de belastingen en tot intrekking van richtlijn 77/799/EEG, in de omzetting van richtlijn 2014/107/EU van de Raad van 9 december 2014 tot wijziging van richtlijn 2011/16/EU wat betreft verplichte automatische uitwisseling van inlichtingen op belastinggebied en van richtlijn (EU) 2015/2376 van de Raad van 8 december 2015 tot wijziging van richtlijn 2011/16/EU wat betreft verplichte automatische uitwisseling van inlichtingen op belastinggebied, in de omzetting van richtlijn (EU) 2018/822 van de Raad van 25 mei 2018 tot wijziging van richtlijn 2011/16/EU wat betreft verplichte automatische uitwisseling van inlichtingen op belastinggebied met betrekking tot meldingsplichtige grensoverschrijdende constructies.
+Dit decreet voorziet in de omzetting van richtlijn 2011/16/EU van de Raad van 15 februari 2011 betreffende de administratieve samenwerking op het gebied van de belastingen en tot intrekking van richtlijn 77/799/EEG, in de omzetting van richtlijn 2014/107/EU van de Raad van 9 december 2014 tot wijziging van richtlijn 2011/16/EU wat betreft verplichte automatische uitwisseling van inlichtingen op belastinggebied, in de omzetting van richtlijn (EU) 2015/2376 van de Raad van 8 december 2015 tot wijziging van Richtlijn 2011/16/EU wat betreft verplichte automatische uitwisseling van inlichtingen op belastinggebied, in de omzetting van richtlijn (EU) 2018/822 van de Raad van 25 mei 2018 tot wijziging van richtlijn 2011/16/EU wat betreft verplichte automatische uitwisseling van inlichtingen op belastinggebied met betrekking tot meldingsplichtige grensoverschrijdende constructies en in de omzetting van richt- lijn (EU) 2021/514 van de Raad van 22 maart 2021 tot wijziging van Richtlijn 2011/16/EU betreffende de administratieve samenwerking op het gebied van de belastingen.
 
 ### ART. 3.
 
@@ -87,7 +87,9 @@ c) een persoon neemt deel in het kapitaal van een andere persoon door middel van
 d) een persoon heeft recht op 25% of meer van de winsten van een andere persoon;<br>
 23° marktklare constructie: een grensoverschrijdende constructie die is bedacht of aangeboden, implementeerbaar is of beschikbaar is gemaakt voor implementatie zonder dat er wezenlijke aanpassingen nodig zijn;<br>
 24° constructie op maat: een grensoverschrijdende constructie die geen marktklare constructie is;<br>
-25° algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
+25° algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
+27° gegevensinbreuk: een inbreuk op de beveiliging die leidt tot vernietiging, verlies, wijziging of elk voorval van ongepaste of ongeoorloofde inzage, openbaarmaking of gebruik van inlichtingen, met inbegrip van, maar niet beperkt tot, persoonsgegevens die worden doorgegeven, opgeslagen of anderszins verwerkt, als gevolg van opzettelijke onwettige handelingen, nalatigheid of ongevallen. Een gegevensinbreuk kan betrekking hebben op de vertrouwelijkheid, de beschikbaarheid en de integriteit van gegevens;<br>
+28° CCN-netwerk: het op het gemeenschappelijke communicatienetwerk gebaseerde gemeenschappelijke platform dat de Unie heeft ontwikkeld voor het elektronische berichtenverkeer tussen autoriteiten die bevoegd zijn op het gebied van douane en belastingen.<br>
 <br>
 Als meer dan één persoon deelneemt op de wijze, vermeld in het eerste lid, 22°, a) tot en met d), aan de leiding van, aan zeggenschap over of in het kapitaal of de winsten van dezelfde persoon, worden alle betrokken personen als verbonden ondernemingen beschouwd.<br>
 <br>
@@ -182,19 +184,57 @@ De verbindingsdienst of het bevoegde personeelslid die of dat een verzoek   om s
 
 ### ART. 8.
 
-<P>Met betrekking tot een specifiek geval kan de bevoegde autoriteit een   buitenlandse autoriteit verzoeken alle inlichtingen, vermeld in artikel 3, te   verstrekken die deze in zijn bezit heeft of naar aanleiding van een   administratief onderzoek verkregen heeft.<BR></P>  <P>Het verzoek, vermeld in het eerste lid, kan een met redenen omkleed verzoek   bevatten om een bepaald administratief onderzoek in te stellen. De bevoegde   autoriteit kan de aangezochte autoriteit verzoeken hem de originele stukken te   bezorgen.<BR></P>
+<p>Met betrekking tot een specifiek geval kan de bevoegde autoriteit een buitenlandse autoriteit verzoeken alle inlichtingen, vermeld in artikel 3, te verstrekken die deze in zijn bezit heeft of naar aanleiding van een administratief onderzoek verkregen heeft.<br>
+<br>
+Het verzoek, vermeld in het eerste lid, kan een met redenen omkleed verzoek bevatten om een administratief onderzoek in te stellen. De bevoegde autoriteit kan de aangezochte autoriteit verzoeken hem de originele stukken te bezorgen.</p>
 
 ## Onderafdeling 2 De bevoegde autoriteit als aangezochte autoriteit
 
 ### ART. 9.
 
-<P>De bevoegde autoriteit verstrekt op verzoek van een buitenlandse autoriteit   met betrekking tot een specifiek geval alle inlichtingen, vermeld in artikel 3,   die hij in zijn bezit heeft of verkregen heeft naar aanleiding van een   administratief onderzoek dat werd ingesteld om die inlichtingen te   verkrijgen.<BR></P>  <P>De bevoegde autoriteit laat elk administratief onderzoek verrichten dat   noodzakelijk is om de inlichtingen, vermeld in het eerste lid, te kunnen   verkrijgen.<BR></P>  <P>Het verzoek, vermeld in het eerste lid, kan een met redenen omkleed verzoek   om een bepaald administratief onderzoek bevatten. In voorkomend geval deelt de   bevoegde autoriteit de verzoekende autoriteit mee op welke gronden hij een   administratief onderzoek niet noodzakelijk acht.<BR></P>  <P>Voor het verkrijgen van de gevraagde inlichtingen of het verrichten van het   gevraagde administratieve onderzoek, gaat de bevoegde autoriteit te werk volgens   dezelfde procedures als handelde hij uit eigen beweging of op verzoek van een   andere Belgische overheidsinstantie.<BR></P>  <P>Op specifiek verzoek van de verzoekende autoriteit verstrekt de bevoegde   autoriteit de originele stukken, tenzij de Vlaamse regelgeving zich hiertegen   verzet.<BR></P>
+<p>De bevoegde autoriteit verstrekt op verzoek van een buitenlandse autoriteit met betrekking tot een specifiek geval alle inlichtingen, vermeld in artikel 3, die hij in zijn bezit heeft of verkregen heeft naar aanleiding van een administratief onderzoek dat werd ingesteld om die inlichtingen te verkrijgen.<br>
+<br>
+De bevoegde autoriteit laat elk administratief onderzoek verrichten dat noodzakelijk is om de inlichtingen, vermeld in het eerste lid, te kunnen verkrijgen.<br>
+<br>
+Het verzoek, vermeld in het eerste lid, kan een met redenen omkleed verzoek om een administratief onderzoek bevatten. Als de bevoegde autoriteit van oordeel is dat er geen administratief onderzoek nodig is, deelt ze de verzoekende autoriteit onmiddellijk de redenen daarvoor mee.<br>
+<br>
+Voor het verkrijgen van de gevraagde inlichtingen of het verrichten van het gevraagde administratieve onderzoek, gaat de bevoegde autoriteit te werk volgens dezelfde procedures als handelde hij uit eigen beweging of op verzoek van een andere Belgische overheidsinstantie.<br>
+<br>
+Op specifiek verzoek van de verzoekende autoriteit verstrekt de bevoegde autoriteit de originele stukken, tenzij de Vlaamse regelgeving zich hiertegen verzet.</p>
 
 ### ART. 10.
 
-<P>§ 1. De inlichtingen, vermeld in artikel 8, eerste lid, worden door de   bevoegde autoriteit zo spoedig mogelijk, doch uiterlijk zes maanden na de datum   van ontvangst van het verzoek verstrekt. Indien de bevoegde autoriteit evenwel   de inlichtingen al in zijn bezit heeft, verstrekt hij deze binnen twee   maanden.<BR></P>  <P>In bijzondere gevallen kunnen de bevoegde autoriteit en de verzoekende   autoriteit een andere termijn overeenkomen dan de termijn, vermeld in het eerste   lid.<BR></P>  <P>§ 2. De ontvangst van het verzoek wordt door de bevoegde autoriteit aan de   verzoekende autoriteit onmiddellijk, en in elk geval uiterlijk zeven werkdagen   na ontvangst, indien mogelijk langs elektronische weg bevestigd.<BR></P>  <P>§ 3. De bevoegde autoriteit laat in voorkomend geval, uiterlijk een maand na   ontvangst van het verzoek, aan de verzoekende autoriteit weten welke   tekortkomingen het verzoek vertoont en preciseert welke aanvullende   achtergrondinformatie hij verlangt. In dit geval gaan de termijnen, vermeld in   paragraaf 1, in op de datum waarop de bevoegde autoriteit de aanvullende   informatie ontvangt.<BR></P>  <P>§ 4. Indien de bevoegde autoriteit niet binnen de gestelde termijn aan het   verzoek kan voldoen, deelt hij de redenen hiervoor onmiddellijk, en in elk geval   uiterlijk drie maanden na ontvangst van het verzoek, aan de verzoekende   autoriteit mee, met vermelding van de datum waarop hij meent aan het verzoek te   kunnen voldoen.<BR></P>  <P>§ 5. Indien de bevoegde autoriteit niet over de gevraagde inlichtingen   beschikt en niet aan het verzoek om inlichtingen kan voldoen of indien hij het   verzoek om de redenen, vermeld in artikel 24, afwijst, deelt hij de redenen   hiervoor onmiddellijk, en in elk geval uiterlijk een maand na ontvangst van het   verzoek, aan de verzoekende autoriteit mee.<BR></P>
+<p>§1. De bevoegde autoriteit verstrekt de inlichtingen, vermeld in artikel 9, eerste lid, zo spoedig mogelijk, en uiterlijk drie maanden na de datum waarop ze het verzoek heeft ontvangen.<br>
+<br>
+Als de bevoegde autoriteit niet aan het verzoek kan voldoen binnen de termijn, vermeld in het eerste lid, deelt ze de redenen daarvoor onmiddellijk, en in elk geval binnen drie maanden nadat ze het verzoek heeft ontvangen, aan de verzoekende autoriteit mee, met vermelding van de datum waarop ze denkt aan het verzoek te kunnen voldoen. Die termijn mag niet langer zijn dan zes maanden te rekenen vanaf de datum waarop de bevoegde autoriteit het verzoek heeft ontvangen.<br>
+<br>
+Als de bevoegde autoriteit de inlichtingen evenwel al in haar bezit heeft, verstrekt ze die binnen twee maanden nadat ze het verzoek heeft ontvangen.<br>
+<br>
+In bijzondere gevallen kan de bevoegde autoriteit met de verzoekende autoriteit of de aangezochte autoriteit een andere termijn overeenkomen dan de termijnen, vermeld in het eerste, tweede en derde lid.<br>
+<br>
+§2. De ontvangst van het verzoek wordt door de bevoegde autoriteit aan de verzoekende autoriteit onmiddellijk, en in elk geval uiterlijk zeven werkdagen na ontvangst, indien mogelijk langs elektronische weg bevestigd.<br>
+<br>
+§3. De bevoegde autoriteit laat in voorkomend geval, uiterlijk een maand na ontvangst van het verzoek, aan de verzoekende autoriteit weten welke tekortkomingen het verzoek vertoont en preciseert welke aanvullende achtergrondinformatie hij verlangt. In dit geval gaan de termijnen, vermeld in paragraaf 1, in op de datum waarop de bevoegde autoriteit de aanvullende informatie ontvangt.<br>
+<br>
+§4. ...<br>
+<br>
+§5. Indien de bevoegde autoriteit niet over de gevraagde inlichtingen beschikt en niet aan het verzoek om inlichtingen kan voldoen of indien hij het verzoek om de redenen, vermeld in artikel 24, afwijst, deelt hij de redenen hiervoor onmiddellijk, en in elk geval uiterlijk een maand na ontvangst van het verzoek, aan de verzoekende autoriteit mee.</p>
 
 ## [Onderafdeling 3. Verwacht belang (ing. decr. 10 februari 2023, art. 8, I: 1 januari 2023)]
+
+### ART 10/1.
+
+Wat betreft een verzoek als vermeld in artikel 8, eerste lid, en artikel 9, eerste lid, zijn de verzochte inlichtingen van verwacht belang als op het ogenblik van het verzoek de verzoekende autoriteit van oordeel is dat er overeenkomstig haar nationale wetgeving een redelijke mogelijkheid bestaat dat de verzochte inlichtingen van belang zullen zijn voor de belastingaangelegenheden van een of meer belastingplichtigen, hetzij bij naam, hetzij op een andere wijze geïdentificeerd, en het verzoek gerechtvaardigd is voor de doeleinden van het onderzoek.<br>
+&nbsp;<br>
+Om het verwacht belang van de verzochte inlichtingen aan te tonen, verstrekt de bevoegde autoriteit ten minste de volgende inlichtingen aan de aangezochte autoriteit:<br>
+1° het fiscale doel waarvoor de informatie wordt opgevraagd;<br>
+2° een specificering van de inlichtingen die nodig zijn voor de uitvoering of handhaving van haar nationale wetgeving.<br>
+<br>
+Als een verzoek als vermeld in artikel 8, eerste lid, en artikel 9, eerste lid, betrekking heeft op een groep belastingplichtigen die niet individueel kunnen worden geïdentificeerd, verstrekt de bevoegde autoriteit aan de aangezochte autoriteit ten minste de volgende inlichtingen:<br>
+1° &nbsp; een gedetailleerde beschrijving van de groep;<br>
+2° een toelichting bij de toepasselijke wetgeving en bij de feiten op basis waarvan redelijkerwijze vermoed kan worden dat de belastingplichtigen in de groep de toepasselijke wetgeving niet hebben nageleefd;<br>
+3° een toelichting bij de manier waarop de gevraagde inlichtingen zouden bijdragen tot het bepalen van de mate waarin de belastingplichtigen in de groep aan de toepasselijke wetgeving voldoen;<br>
+4° in voorkomend geval, feiten en omstandigheden die verband houden met de betrokkenheid van een derde die actief heeft bijgedragen tot de mogelijke niet-naleving van de toepasselijke wetgeving door de belastingplichtigen in de groep.
 
 ## Afdeling 2 Verplichte automatische uitwisseling van inlichtingen
 
@@ -202,7 +242,17 @@ De verbindingsdienst of het bevoegde personeelslid die of dat een verzoek   om s
 
 ### ART. 11.
 
-<P>Met betrekking tot belastbare tijdperken vanaf 1 januari 2014 verstrekt de   bevoegde autoriteit alle buitenlandse autoriteiten automatisch de inlichtingen   waarover zij ten aanzien van de ingezetenen van die andere lidstaat beschikt   inzake de volgende specifieke inkomsten- en vermogenscategorieën, op te vatten   in de zin van de Belgische wetgeving :<BR>a) bezoldigingen van werknemers;<BR>b)   bezoldigingen van bedrijfsleiders;<BR>c) levensverzekeringsproducten die niet   vallen onder andere uniale rechtsinstrumenten inzake de uitwisseling van   inlichtingen noch onder soortgelijke voorschriften;<BR>d) pensioenen;<BR>e)   eigendom en inkomen van onroerende goederen.<BR></P>  <P>De inlichtingen worden ten minste eenmaal per jaar verstrekt, binnen zes   maanden na het verstrijken van het kalenderjaar in de loop waarvan de   inlichtingen beschikbaar zijn geworden.<BR></P>
+<p>De bevoegde autoriteit verstrekt alle buitenlandse autoriteiten automatisch alle inlichtingen waarover ze ten aanzien van de ingezetenen van die andere lidstaat beschikt inzake de volgende specifieke inkomsten- en vermogenscategorieën, op te vatten in de zin van de Belgische wetgeving:<br>
+1° inkomen uit een dienstbetrekking;<br>
+2° tantièmes en presentiegelden;<br>
+3° levensverzekeringsproducten die niet vallen onder andere uniale rechtsinstrumenten inzake de uitwisseling van inlichtingen noch onder soortgelijke voorschriften;<br>
+4° pensioenen;<br>
+5° eigendom en inkomen van onroerende goederen;<br>
+6° royalty’s.<br>
+<br>
+Voor belastingtijdvakken die ingaan op of na 1 januari 2024, streeft de bevoegde autoriteit ernaar het door de lidstaat van verblijf afgegeven fiscaal identificatienummer van ingezetenen op te nemen in de verstrekking van de inlichtingen, vermeld in het eerste lid.<br>
+<br>
+De inlichtingen worden ten minste eenmaal per jaar verstrekt, binnen zes maanden na het verstrijken van het kalenderjaar in de loop waarvan de inlichtingen beschikbaar zijn geworden.</p>
 
 ### ART 11/1.
 
@@ -222,12 +272,12 @@ In afwijking van het eerste tot en met het derde lid is de bevoegde autoriteit n
 § 3. Paragraaf 1 en 2 zijn niet van toepassing als een voorafgaande grensoverschrijdende ruling uitsluitend betrekking heeft op de belastingzaken van een of meer natuurlijke personen.<br>
 <br>
 § 4. De inlichtingen, vermeld in paragraaf 1 en 2, worden door de bevoegde autoriteit verstrekt binnen de volgende termijnen:<br>
-1° voor de inlichtingen die conform paragraaf 1 zijn uitgewisseld: binnen drie maanden na het einde van het eerste halfjaar van het kalenderjaar waarin de voorafgaande grensoverschrijdende rulings zijn afgegeven of gemaakt, gewijzigd of hernieuwd;<br>
+1° voor de inlichtingen die conform paragraaf 1 zijn uitgewisseld:&nbsp;onverwijld zodra de voorafgaande grensoverschrijdende rulings zijn afgegeven of gemaakt, gewijzigd of hernieuwd en uiterlijk binnen drie maanden na het einde van het eerste halfjaar van het kalenderjaar waarin de voorafgaande grensoverschrijdende rulings zijn afgegeven of gemaakt, gewijzigd of hernieuwd;<br>
 2° voor de inlichtingen die conform paragraaf 2 zijn uitgewisseld: vóór 1 januari 2018.<br>
 <br>
 § 5. De inlichtingen die conform paragraaf 1 en 2 door de bevoegde autoriteit worden verstrekt, omvatten onder meer de volgende gegevens:<br>
 1° de identificatiegegevens van de andere persoon dan een natuurlijke persoon en, in voorkomend geval, van de groep personen waartoe die persoon behoort;<br>
-2° een samenvatting van de inhoud van de voorafgaande grensoverschrijdende ruling, met onder meer een omschrijving van de relevante zakelijke activiteiten of transacties of reeks van transacties, in algemene bewoordingen gesteld, die niet mag leiden tot de openbaarmaking van een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze, of van inlichtingen die in strijd zouden zijn met de openbare orde;<br>
+2° een samenvatting van de voorafgaande grensoverschrijdende ruling, met onder meer een omschrijving van de relevante zakelijke activiteiten of transacties of reeks van transacties, alsook alle andere inlichtingen die voor de bevoegde autoriteit nuttig kunnen zijn bij de evaluatie van een mogelijk belastingrisico, die niet mag leiden tot de openbaarmaking van een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze, of van inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde;<br>
 3° de data waarop de voorafgaande grensoverschrijdende ruling is afgegeven of gemaakt, gewijzigd of hernieuwd;<br>
 4° de aanvangsdatum van de geldigheidsperiode van de voorafgaande grensoverschrijdende ruling, als die vermeld is;<br>
 5° de einddatum van de geldigheidsperiode van de voorafgaande grensoverschrijdende ruling, als die vermeld is;<br>
@@ -361,17 +411,39 @@ Indien een buitenlandse autoriteit spontaan inlichtingen verstrekt aan de   bevo
 
 ### ART. 14.
 
-De bevoegde autoriteit kan met een buitenlandse autoriteit overeenkomen   dat, ter uitwisseling van de inlichtingen, vermeld in artikel 3, de door de   bevoegde autoriteit gemachtigde personeelsleden onder de door de buitenlandse   autoriteit vastgestelde voorwaarden :<BR>1° aanwezig kunnen zijn in de kantoren   waar de administratieve overheden van de aangezochte autoriteit hun taken   vervullen;<BR>2° aanwezig kunnen zijn bij administratieve onderzoeken op het   grondgebied van de aangezochte autoriteit.<BR>
+Met het oog op de uitwisseling van de inlichtingen, vermeld in artikel 3, kan de bevoegde autoriteit een buitenlandse autoriteit verzoeken dat personeelsleden die door de bevoegde autoriteit gemachtigd zijn, overeenkomstig de door de buitenlandse autoriteit vastgestelde procedurele regelingen:<br>
+1° aanwezig zijn in de kantoren waar de administratieve autoriteiten van de aangezochte lidstaat hun taken vervullen;<br>
+2° aanwezig zijn bij administratieve onderzoeken op het grondgebied van de aangezochte lidstaat;<br>
+3° deelnemen aan de administratieve onderzoeken die worden uitgevoerd door de aangezochte lidstaat, waar passend met gebruikmaking van elektronische communicatiemiddelen
 
 ### ART. 15.
 
-<P>§ 1. De bevoegde autoriteit kan met een buitenlandse autoriteit overeenkomen   dat, ter uitwisseling van de inlichtingen, vermeld in artikel 3, de door de   buitenlandse autoriteit gemachtigde personeelsleden onder de door de bevoegde   autoriteit vastgestelde voorwaarden :<BR>1° aanwezig kunnen zijn in de kantoren   waar de Vlaamse overheid haar taken vervult;<BR>2° aanwezig kunnenzijn bij   administratieve onderzoeken die worden verricht door de Vlaamse   overheid.<BR>Indien de verzochte inlichtingen vermeld staan in bescheiden   waartoe de personeelsleden van de bevoegde autoriteit toegang hebben, ontvangen   de personeelsleden van de verzoekende autoriteit een afschrift van die   bescheiden.<BR></P>  <P>§ 2. Op grondvan de overeenkomst, vermeld in de eerste paragraaf, mogen de   bij een administratief onderzoek aanwezige personeelsleden van de verzoekende   autoriteit in de Vlaamse Gemeenschap of het Vlaamse Gewest geen personen   ondervragen en geen bescheiden onderzoeken.<BR></P>  <P>§ 3. De door de verzoekende autoriteit gemachtigde personeelsleden die   overeenkomstig de eerste paragraaf aanwezig zijn, moeten te allen tijde een   schriftelijke opdracht kunnen overleggen waaruit hun identiteit en hun officiële   hoedanigheid blijken.<BR></P>
+<p>§1. Met het oog op de uitwisseling van de inlichtingen, vermeld in artikel 3, kan een buitenlandse autoriteit de bevoegde autoriteit verzoeken dat personeelsleden die door die buitenlandse autoriteit gemachtigd zijn, overeenkomstig de door de bevoegde autoriteit vastgestelde procedurele regelingen:<br>
+1° aanwezig zijn in de kantoren waar de Vlaamse overheid haar taken vervult;<br>
+2° aanwezig zijn bij administratieve onderzoeken die worden verricht door de Vlaamse overheid;<br>
+3° deelnemen aan de administratieve onderzoeken die worden uitgevoerd door de Vlaamse overheid, waar passend met gebruikmaking van elektronische communicatiemiddelen.<br>
+<br>
+De bevoegde autoriteit reageert op een verzoek als vermeld in het eerste lid, binnen een termijn van zestig dagen nadat ze dat verzoek heeft ontvangen, waarbij ze aan de buitenlandse autoriteit de inwilliging van het verzoek of de gemotiveerde weigering ervan meedeelt.<br>
+<br>
+Als de gevraagde inlichtingen vermeld staan in bescheiden waartoe de personeelsleden van de bevoegde autoriteit toegang hebben, ontvangen de personeelsleden van de buitenlandse autoriteit een afschrift daarvan<br>
+<br>
+§2. Als personeelsleden van de buitenlandse autoriteit aanwezig zijn tijdens een administratief onderzoek of daaraan met gebruikmaking van elektronische communicatiemiddelen deelnemen, mogen ze personen ondervragen en bescheiden onderzoeken, met inachtneming van de door de bevoegde autoriteit vastgestelde procedurele regelingen.<br>
+&nbsp;<br>
+Als de te controleren persoon weigert om zich aan de controlemaatregelen van de personeelsleden van de buitenlandse autoriteit te onderwerpen, wordt dat door de bevoegde autoriteit als een weigering tegenover haar eigen personeelsleden aangemerkt.<br>
+<br>
+§3. De door de verzoekende autoriteit gemachtigde personeelsleden die overeenkomstig de eerste paragraaf aanwezig zijn, moeten te allen tijde een schriftelijke opdracht kunnen overleggen waaruit hun identiteit en hun officiële hoedanigheid blijken.</p>
 
 ## Afdeling 2 Gelijktijdige controles
 
 ### ART. 16.
 
-<P>Dit artikel is van toepassing op de gevallen waarin de Vlaamse overheid met   een of meer buitenlandse autoriteiten van een of meer lidstaten overeenkomt om   gelijktijdig, elk op het eigen grondgebied, bij een of meer personen ten aanzien   van wie zij een gezamenlijk of complementair belang hebben, controles te   verrichten en de aldus verkregen inlichtingen uit te wisselen.<BR></P>  <P>De bevoegde autoriteit bepaalt autonoom welke personen hij voor een   gelijktijdige controle wil voorstellen. Hij deelt de buitenlandse autoriteit van   de betrokken lidstaten met opgave van redenen mee welke dossiers hij voor een   gelijktijdige controle voorstelt. Hij bepaalt eveneens binnen welke termijn de   controle moet plaatsvinden.<BR></P>  <P>Wanneer aan de bevoegde autoriteit een gelijktijdige controle wordt   voorgesteld, beslist hij of hij aan de gelijktijdige controle wenst deel te   nemen. Hij doet de buitenlandse autoriteit die de controle voorstelt een   bevestiging of een gemotiveerde weigering van deelname toekomen.<BR></P>  <P>De bevoegde autoriteit wijst een vertegenwoordiger aan die wordt belast met   de leiding en de coördinatie van de controle.<BR></P>
+<p>Dit artikel is van toepassing op de gevallen waarin de Vlaamse overheid met een of meer buitenlandse autoriteiten van een of meer lidstaten overeenkomt om gelijktijdig, elk op het eigen grondgebied, bij een of meer personen ten aanzien van wie zij een gezamenlijk of complementair belang hebben, controles te verrichten en de aldus verkregen inlichtingen uit te wisselen.</p>
+
+<p>De bevoegde autoriteit bepaalt autonoom welke personen hij voor een gelijktijdige controle wil voorstellen. Hij deelt de buitenlandse autoriteit van de betrokken lidstaten met opgave van redenen mee welke dossiers hij voor een gelijktijdige controle voorstelt. Hij bepaalt eveneens binnen welke termijn de controle moet plaatsvinden.</p>
+
+<p>Wanneer aan de bevoegde autoriteit een gelijktijdige controle wordt voorgesteld, beslist hij of hij aan de gelijktijdige controle wenst deel te nemen. Hij doet de buitenlandse autoriteit die de gelijktijdige controle voorstelt, binnen een termijn van zestig dagen na ontvangst van het voorstel, een bevestiging of een gemotiveerde weigering van deelname toekomen.</p>
+
+<p>De bevoegde autoriteit wijst een vertegenwoordiger aan die wordt belast met de leiding en de coördinatie van de controle.</p>
 
 ## [Afdeling 2/1. Gezamenlijke audits (ing. decr. 10 februari 2023, art. 15, I: 1 januari 2024)]
 
@@ -403,20 +475,22 @@ De bevoegde autoriteit die met toepassing van artikel 9 en 12 inlichtingen   hee
 
 ### ART. 21.
 
-<p>§ 1. De inlichtingen waarover de bevoegde autoriteit uit hoofde van dit decreet beschikt, vallen onder de geheimhoudingsplicht en genieten de bescherming waarin artikel 3.19.0.0.2 van de Vlaamse Codex Fiscaliteit van 13 december 2013 voorziet met betrekking tot soortgelijke inlichtingen.</p>
-
-<p>§ 2. Deze inlichtingen kunnen worden gebruikt :<br>
-1° voor de administratie en de handhaving van de Vlaamse regelgeving met betrekking tot de belastingen, vermeld in artikel 4;<br>
+<p>§ 1. De inlichtingen waarover de bevoegde autoriteit uit hoofde van dit decreet beschikt, vallen onder de geheimhoudingsplicht en genieten de bescherming waarin artikel 3.19.0.0.2 van de Vlaamse Codex Fiscaliteit van 13 december 2013 voorziet met betrekking tot soortgelijke inlichtingen.<br>
+<br>
+§ 2. Deze inlichtingen kunnen worden gebruikt :<br>
+1° voor de beoordeling, toepassing en handhaving van de Belgische wetgeving met betrekking tot de belastingen, vermeld in artikel 2 van richtlijn 2011/16/EU, alsook met betrekking tot de belasting over de toegevoegde waarde en andere indirecte belastingen;<br>
 2° voor de vaststelling en invordering van andere belastingen en rechten vallend onder artikel 4 van het decreet van 21 december 2012 betreffende de wederzijdse bijstand inzake de invordering van schuldvorderingen die voortvloeien uit belastingen, rechten en andere maatregelen;<br>
-3° in mogelijk tot bestraffing leidende gerechtelijke en administratieve procedures wegens overtreding van de belastingwetgeving, met behoud van de toepassing van de algemene regels en de bepalingen betreffende de rechten van de verdachten en getuigen in dergelijke procedures.</p>
-
-<p>Na toestemming van de buitenlandse autoriteit die de inlichtingen overeenkomstig de richtlijn, vermeld in artikel 2, heeft verstrekt en voor zover het in de Vlaamse Gemeenschap of het Vlaamse Gewest wettelijk is toegestaan, kunnende inlichtingen en bescheiden ontvangen van deze autoriteit worden gebruikt voor andere doeleinden dan de doeleinden, vermeld in het eerste lid. Indien de inlichtingen evenwel in de lidstaat van de buitenlandse autoriteit voor soortgelijke doelen kunnen worden gebruikt, mogen de inlichtingen ook door de bevoegde autoriteit worden gebruikt.</p>
-
-<p>In afwijking van het tweede lid vraagt de bevoegde autoriteit toestemming aan de bevoegde buitenlandse autoriteit van de lidstaat waarvan de inlichtingen initieel afkomstig zijn, indien een buitenlandse autoriteit de inlichtingen die ze van de buitenlandse autoriteit van een andere lidstaat verkreeg, heeft doorgegeven aan de bevoegde autoriteit en de bevoegde autoriteit die doorgegeven inlichtingen wil gebruiken voor andere doeleinden dan de doeleinden, vermeld in het eerste lid.</p>
-
-<p>§ 3. Wanneer de bevoegde autoriteit van oordeel is dat de van een buitenlandse autoriteit verkregen inlichtingen de buitenlandse autoriteit van een derde lidstaat van nut kunnen zijn voor de doeleinden, vermeld in paragraaf 2, eerste lid, dan stelt hij de autoriteit van de inlichtingenverstrekkende lidstaat in kennis van zijn voornemen om die inlichtingen aan een derde lidstaat door te geven. Indien de bevoegde buitenlandse autoriteit van de inlichtingenverstrekkende lidstaat zich niet binnen tien werkdagen na de datum van ontvangst van de kennisgeving verzet heeft tegen die inlichtingenuitwisseling, dan geeft de bevoegde autoriteit de inlichtingen door aan de buitenlandse autoriteit van de derde lidstaat, op voorwaarde dat dit in overeenstemming is met de in dit decreet vastgelegde voorschriften en procedures.</p>
-
-<p>§ 4. Inlichtingen, verslagen, verklaringen en andere bescheiden, alsook voor eensluidend gewaarmerkte afschriften of uittreksels daarvan, die door de aangezochte autoriteit zijn verkregen en overeenkomstig dit decreet aan de verzoekende bevoegde autoriteit zijn doorgegeven, worden door de Vlaamse bevoegde overheidsinstanties op dezelfde voet als bewijs aangevoerd als soortgelijke inlichtingen, verslagen, verklaringen en andere bescheiden die door een andere Belgische overheidsinstantie zijn verstrekt.</p>
+3° in mogelijk tot bestraffing leidende gerechtelijke en administratieve procedures wegens overtreding van de belastingwetgeving, met behoud van de toepassing van de algemene regels en de bepalingen betreffende de rechten van de verdachten en getuigen in dergelijke procedures.<br>
+<br>
+Met toestemming van de buitenlandse autoriteit die de inlichtingen overeenkomstig richtlijn 2011/16/EU, heeft verstrekt, en alleen voor zover het in België wettelijk is toegestaan, kunnen de op grond van die richtlijn ontvangen inlichtingen en bescheiden gebruikt worden voor andere doeleinden dan de doeleinden, vermeld in het eerste lid. Dergelijke toestemming wordt verleend als de inlichtingen voor soortgelijke doeleinden kunnen worden gebruikt in de lidstaat van de buitenlandse autoriteit die de inlichtingen verstrekt.<br>
+<br>
+De bevoegde autoriteit kan aan de buitenlandse autoriteiten een lijst meedelen van andere dan de in het eerste lid vermelde doeleinden waarvoor overeenkomstig de Belgische wetgeving de inlichtingen en bescheiden kunnen worden gebruikt. De bevoegde autoriteit kan de ontvangen inlichtingen en bescheiden zonder de toestemming, vermeld in het tweede lid, gebruiken voor alle doeleinden die de inlichtingen verstrekkende lidstaat op een lijst heeft meegedeeld.<br>
+<br>
+In afwijking van het tweede lid vraagt de bevoegde autoriteit toestemming aan de bevoegde buitenlandse autoriteit van de lidstaat waarvan de inlichtingen initieel afkomstig zijn, indien een buitenlandse autoriteit de inlichtingen die ze van de buitenlandse autoriteit van een andere lidstaat verkreeg, heeft doorgegeven aan de bevoegde autoriteit en de bevoegde autoriteit die doorgegeven inlichtingen wil gebruiken voor andere doeleinden dan de doeleinden, vermeld in het eerste lid.<br>
+<br>
+§ 3. Wanneer de bevoegde autoriteit van oordeel is dat de van een buitenlandse autoriteit verkregen inlichtingen de buitenlandse autoriteit van een derde lidstaat van nut kunnen zijn voor de doeleinden, vermeld in paragraaf 2, eerste lid, dan stelt hij de autoriteit van de inlichtingenverstrekkende lidstaat in kennis van zijn voornemen om die inlichtingen aan een derde lidstaat door te geven. Indien de bevoegde buitenlandse autoriteit van de inlichtingenverstrekkende lidstaat zich niet binnen tien werkdagen na de datum van ontvangst van de kennisgeving verzet heeft tegen die inlichtingenuitwisseling, dan geeft de bevoegde autoriteit de inlichtingen door aan de buitenlandse autoriteit van de derde lidstaat, op voorwaarde dat dit in overeenstemming is met de in dit decreet vastgelegde voorschriften en procedures.<br>
+<br>
+§ 4. Inlichtingen, verslagen, verklaringen en andere bescheiden, alsook voor eensluidend gewaarmerkte afschriften of uittreksels daarvan, die door de aangezochte autoriteit zijn verkregen en overeenkomstig dit decreet aan de verzoekende bevoegde autoriteit zijn doorgegeven, worden door de Vlaamse bevoegde overheidsinstanties op dezelfde voet als bewijs aangevoerd als soortgelijke inlichtingen, verslagen, verklaringen en andere bescheiden die door een andere Belgische overheidsinstantie zijn verstrekt.</p>
 
 ### ART. 22.
 
@@ -517,6 +591,18 @@ Met behoud van de toepassing van hun noodzakelijke bewaring voor de latere verwe
 ### ART 30/5.
 
 Met toepassing van artikel 3.13.1.1.5 van de Vlaamse Codex Fiscaliteit van 13 december 2013 kan de bevoegde autoriteit afwijken van de rechten en de verplichtingen, vermeld in artikel 12 tot en met 22 van de algemene verordening gegevensbescherming, bij de verwerking van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde persoon, indien aan de voorwaarden van artikel 3.13.1.1.5 van het voormelde decreet wordt voldaan.
+
+### ART 30/6.
+
+§1. Als een gegevensinbreuk heeft plaatsgevonden in de Vlaamse Gemeenschap of in het Vlaamse Gewest, meldt de bevoegde autoriteit die inbreuk en alle daaropvolgende corrigerende maatregelen onverwijld aan de Europese Commissie.<br>
+<br>
+De bevoegde autoriteit kan de uitwisseling van inlichtingen met lidstaten waar een gegevensinbreuk heeft plaatsgevonden, schorsen door de Europese Commissie en de betrokken lidstaten daarvan schriftelijk in kennis te stellen. Een dergelijke schorsing wordt onmiddellijk van kracht.<br>
+<br>
+De bevoegde autoriteit, onderzoekt, beperkt en verhelpt de gegevensinbreuk, en verzoekt, door de Europese Commissie daarvan schriftelijk in kennis te stellen, om de schorsing van de toegang tot het CCN-netwerk voor de toepassing van dit decreet als de gegevensinbreuk niet onmiddellijk en op passende wijze onder controle kan worden gebracht. Als de gegevensinbreuk is verholpen, meldt de bevoegde autoriteit dit aan de Europese Commissie.<br>
+<br>
+De bevoegde autoriteit kan de Europese Commissie verzoeken om gezamenlijk te verifiëren of een gegevensinbreuk is verholpen.<br>
+<br>
+§2. De bevoegde autoriteit, bijgestaan door de Europese Commissie, komt de praktische regelingen overeen die nodig zijn voor de uitvoering van dit artikel, met inbegrip van beheerprocedures voor gegevensinbreuken die sporen met internationaal erkende goede praktijken en, in voorkomend geval, een gezamenlijke overeenkomst tussen de verwerkingsverantwoordelijken, een overeenkomst tussen gegevensverwerker en verwerkingsverantwoordelijke of modellen daarvoor.
 
 ## HOOFDSTUK 6 Wijzigingsbepalingen
 
