@@ -22,6 +22,39 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## Hoofdstuk 1. Wijzigingen van het besluit van de Vlaamse Regering van 17 november 2017 betreffende de erkenning en subsidiëring van de vertrouwenscentra kindermishandeling en de partnerorganisatie
 
+### ART 1.
+
+Artikel 15 van het besluit van de Vlaamse Regering van 17 november 2017 betreffende de erkenning en subsidiëring van de vertrouwenscentra kindermishandeling en de partnerorganisatie wordt vervangen door wat volgt:&nbsp;<br>
+<br>
+“Art. 15. De partnerorganisatie heeft de volgende opdrachten:&nbsp;<br>
+1° kennisopbouw, deskundigheids- en ervaringsdeskundigheidsbevordering over kindermishandeling;<br>
+2° bijdragen tot de sensibilisering van de samenleving voor de problematiek van kindermishandeling;&nbsp;<br>
+3° voorzien in inhoudelijke en praktijkgerichte ondersteuning en ontwikkeling van de werking van de vertrouwenscentra kindermishandeling en het stimuleren van de organisatorische samenwerking van de vertrouwenscentra kindermishandeling;&nbsp;<br>
+4° bijdragen tot de inhoudelijke en praktijkgerichte ondersteuning in de gepaste omgang met kindermishandeling voor:<br>
+&nbsp; a) jeugdhulpaanbieders;<br>
+&nbsp; b) personen en voorzieningen die jeugdhulpverlening aanbieden;<br>
+&nbsp; c) dienstverleners;&nbsp;<br>
+&nbsp; d) organisaties en voorzieningen binnen sectoren die met kinderen en jongeren werken;<br>
+5° bijdragen tot de inhoudelijke en praktijkgerichte ondersteuning in de gepaste omgang met kindermishandeling voor sectoren die met volwassenen werken door onder andere de ontwikkeling en implementatie van de kindreflex;&nbsp;<br>
+6° in opdracht van het agentschap adviseren over de veiligheid van minderjarigen in een voorziening en over het pedagogisch handelen in een voorziening op basis van een gestructureerd risicotaxatieproces.”.
+
+### ART 2.
+
+In artikel 28 van hetzelfde besluit, waarvan de bestaande tekst paragraaf 1 zal vormen, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° de woorden “of de partnerorganisatie” worden opgeheven;&nbsp;<br>
+2° er wordt een paragraaf 2 toegevoegd, die luidt als volgt:&nbsp;<br>
+“§2. De subsidie wordt toegekend als de partnerorganisatie voldoet aan al de volgende voorwaarden:<br>
+1° de erkenningsvoorwaarden, vermeld in hoofdstuk 2, afdeling 3, die van toepassing zijn;<br>
+2° de bepalingen, vermeld in hoofdstuk 3, afdeling 2;<br>
+3° beschikken over een jaarplan dat het agentschap heeft goedgekeurd.<br>
+Het jaarplan, vermeld in het eerste lid, 3°, behandelt de periode van één kalenderjaar en bevat een omschrijving van de wijze waarop de partnerorganisatie de opdrachten, vermeld in artikel 15, zal vormgeven en uitvoeren en de daaraan gekoppelde begroting.&nbsp;<br>
+De partnerorganisatie bezorgt het jaarplan, vermeld in het eerste lid, 3°, aan het agentschap uiterlijk op 1 oktober van het jaar dat voorafgaat aan het werkjaar waarop het jaarplan betrekking heeft.&nbsp;<br>
+Het agentschap beslist uiterlijk op 1 december van het jaar dat voorafgaat aan het werkjaar waarop het jaarplan, vermeld in het eerste lid, 3°, betrekking heeft, over de goedkeuring van dat jaarplan. Voor het agentschap het voormelde jaarplan goedkeurt, kan het aan de partnerorganisatie, na overleg, vragen om dat jaarplan te wijzigen.”.
+
+### ART 3.
+
+In artikel 30, §2, van hetzelfde besluit worden de woorden “tweede lid” vervangen door de woorden “derde lid”.
+
 ### ART 4.
 
 In artikel 31 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 17 mei 2019 en 28 januari 2022, worden de volgende wijzigingen aangebracht:<br>
@@ -41,6 +74,20 @@ In artikel 31 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse R
 14° in paragraaf 3/1 wordt de zinsnede “101.767,18 euro (honderdeneenduizend zevenhonderdzevenenzestig euro achttien cent)” vervangen door de zinsnede “664.531,05 euro (zeshonderdvierenzestigduizend vijfhonderdeenendertig euro vijf cent)”;<br>
 15° in paragraaf 4 wordt de zin “De subsidies, vermeld in dit artikel, zijn gekoppeld aan de spilindex die van toepassing is op 1 januari 2021.” vervangen door de zin “De subsidies, vermeld in dit artikel, zijn gekoppeld aan de spilindex die van toepassing is op 1 januari 2023.”.
 
+### ART 5.
+
+In artikel 32 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 28 januari 2022, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° in het eerste lid worden de woorden “aan het vertrouwenscentrum kindermishandeling” opgeheven;&nbsp;<br>
+2° het tweede lid wordt opgeheven.&nbsp;
+
+### ART 6.
+
+In hoofdstuk 5 van hetzelfde besluit wordt een afdeling 1/1, die bestaat uit artikel 47/1, ingevoegd, die luidt als volgt:<br>
+<br>
+“Afdeling 1/1. Verlenging van de erkenning<br>
+<br>
+Art. 47/1. Als na afloop van de vijfjarige erkenningstermijn uit de evaluatie, vermeld in artikel 34, een positieve beoordeling volgt, wordt de erkenning van het vertrouwenscentrum of van de partnerorganisatie van rechtswege verlengd voor vijf jaar.”.
+
 ## Hoofdstuk 2. Wijzigingen van het besluit van de Vlaamse Regering van 12 oktober 2018 houdende de erkenning en de subsidiëring van consultatiebureaus en de erkenning van consultatiebureauartsen
 
 ### ART 7.
@@ -52,6 +99,10 @@ In artikel 41, §1, eerste lid, 3°, van het besluit van de Vlaamse Regering van
 In artikel 99, §2, tweede lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 7 februari 2020 en gewijzigd bij het besluit van de Vlaamse Regering van 28 januari 2022, wordt de zinsnede “4,42 euro (vier euro tweeënveertig cent)” vervangen door de zinsnede “4,66 euro (vier euro zesenzestig cent)”.
 
 ## Hoofdstuk 3. Slotbepalingen
+
+### ART 9.
+
+In afwijking van artikel 28, §2, van het besluit van de Vlaamse Regering van 17 november 2017 betreffende de erkenning en subsidiëring van de vertrouwenscentra kindermishandeling en de partnerorganisatie hoeft de partnerorganisatie niet te beschikken over een jaarplan voor het werkjaar 2023 dat het agentschap heeft goedgekeurd.
 
 ### ART 10.
 
