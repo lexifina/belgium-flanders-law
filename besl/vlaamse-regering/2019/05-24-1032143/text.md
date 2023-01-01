@@ -186,7 +186,7 @@ De lijst met de aanvaarde wettelijke kwaliteitssystemen wordt gepubliceerd op de
 
 ### ART 7.
 
-Om het goedkeuringsbewijs, vermeld in artikel 5, eerste lid, 2°, van het decreet van 29 maart 2019, te krijgen dient de dienstverlener een elektronische aanvraag in via de standaard werk en sociale economie van het departement.<br>
+Om het goedkeuringsbewijs, vermeld in artikel 5, eerste lid, 2°, van het decreet van 29 maart 2019, te krijgen dient de dienstverlener een elektronische aanvraag in via de standaard werk en sociale economie van het departement.&nbsp;De dienstverlener kan één keer een goedkeuringsbewijs krijgen.<br>
 <br>
 Het goedkeuringsbewijs omvat minimaal de volgende elementen:<br>
 1° de naam en de contactgegevens van de organisatie en de begunstigde;<br>
@@ -196,7 +196,7 @@ Om het goedkeuringsbewijs te krijgen, is de voorwaarde, vermeld in artikel 3, §
 <br>
 In het derde lid wordt verstaan onder kleine dienstverlener: een dienstverlener die minder dan vijf werknemers in dienst heeft.<br>
 <br>
-De geldigheid van het goedkeuringsbewijs en de toepassingstermijn van artikel 5, tweede lid, 3° van het decreet van 29 maart 2019 lopen af op 31 december 2022..
+Het goedkeuringsbewijs heeft een geldigheidsduur van achttien maanden.
 
 ## HOOFDSTUK 4. Registratie van de dienstverlener
 
