@@ -2,16 +2,16 @@
   "codex_id": 1017375,
   "title": "Besluit van de Vlaamse Regering van 2008-10-10 betreffende het financiële en materiële beheer van de dienst met afzonderlijk beheer Vlaams Instituut voor het Onroerend Erfgoed",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017375/VolledigDocument?datum=2012-01-01",
-  "source_sha256": "7ae39b218b9b158ed6dc0fc1a252b79b7a2033651c537e727cbd00f7bb658e03",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017375/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "9a58038555adbd326a42ecbab2297ac3956c9aed51b11de4689b67df9e7b6f03",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017375&param=informatie",
-  "as_of": "2012-01-01",
+  "as_of": "2023-01-01",
   "made": "2008-10-10",
   "gazette": "2008-12-22",
   "numac": 2008204546,
   "document_start": "2009-01-01",
   "document_end": "2022-12-31",
-  "in_force": "2012-01-01",
+  "in_force": "2023-01-01",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }

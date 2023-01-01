@@ -29,11 +29,11 @@ Besluit :<br>
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° de minister : de Vlaamse minister, bevoegd voor de Ruimtelijke Ordening;<br />2° de DAB VIOE : de dienst met afzonderlijk beheer Vlaams Instituut voor het Onroerend Erfgoed; <br /><br />
+...
 
 ### ART. 2.
 
-Dit besluit regelt het financiële en materiële beheer van de DAB VIOE.<br />
+...
 
 ## HOOFDSTUK II De begroting
 
@@ -43,7 +43,7 @@ Dit besluit regelt het financiële en materiële beheer van de DAB VIOE.<br />
 
 ### ART. 4.
 
-§ 1. ...<br /><br />§ 2. De ramingen voor de ontvangsten hebben betrekking op : <br />1° het van het vorige begrotingsjaar over te dragen saldo;<br />2° de dotaties die voor het betreffende begrotingsjaar aan de DAB VIOE worden toegekend ten laste van de algemene uitgavenbegroting van de Vlaamse Gemeenschap;<br />3° de bedragen die de DAB VIOE gedurende het betreffende begrotingsjaar zal ontvangen, en die voortvloeien uit het beheer en de exploitatie door de DAB VIOE.<br /><br />§ 3. ...<br /><br />§ 4. ...<br /><br />
+...
 
 ### ART. 5.
 
@@ -61,7 +61,7 @@ Dit besluit regelt het financiële en materiële beheer van de DAB VIOE.<br />
 
 ### ART. 8.
 
-De administrateur-generaal van het Vlaams Instituut voor het Onroerend Erfgoed, of zijn plaatsvervanger, wordt aangesteld als beheerder en ordonnateur van de DAB VIOE. De bevoegdheden en verantwoordelijkheden van de ordonnateur worden vastgesteld overeenkomstig de regels die gelden voor de diensten van de Vlaamse Regering.
+...
 
 ### ART. 9.
 
@@ -75,7 +75,7 @@ De administrateur-generaal van het Vlaams Instituut voor het Onroerend Erfgoed, 
 
 ### ART. 11.
 
-Alle uitgaven worden gedragen door de begroting van de DAB VIOE, met uitzondering van uitgaven die centraal door het beleidsdomein RWO worden beheerd of die door andere beleidsdomeinen worden beheerd.<br /><br />
+...
 
 ### ART. 12.
 
@@ -111,12 +111,12 @@ Alle uitgaven worden gedragen door de begroting van de DAB VIOE, met uitzonderin
 
 ### ART. 19.
 
-Het besluit van de Vlaamse Regering van 8 juni 1994 dat het financiële en materiële beheer regelt van de dienst met afzonderlijk beheer Instituut voor het Archeologisch Patrimonium, waarvan het Vlaams Instituut voor het Onroerend Erfgoed (VIOE) de rechtsopvolger is, wordt opgeheven. <br /><br />
+...
 
 ### ART. 20.
 
-Dit besluit treedt in werking op 1 januari 2009.<br /><br />
+...
 
 ### ART. 21.
 
-De Vlaamse minister bevoegd voor de Ruimtelijke Ordening, en de Vlaamse minister, bevoegd voor de Begroting, zijn, ieder wat hem betreft, belast met de uitvoering van dit besluit.<br /><br />
+...
