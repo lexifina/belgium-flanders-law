@@ -65,7 +65,7 @@ c) de vestiging van zakelijke rechten op private domeingoederen of de verhuring 
 
 De delegatie, toegestaan bij artikel 6, omvat niet:<br>
 1° het nemen van reglementaire besluiten;<br>
-2° het verlenen van facultatieve subsidies die niet nominatim in de begroting zijn opgenomen en die meer dan 250.000 euro bedragen, ongeacht of die subsidies al dan niet zijn opgenomen in een budgettair implementatieplan;<br>
+2° ...;<br>
 3° de beslissingen ter uitvoering van de regelgeving inzake economische expansie, waarbij voordelen worden verleend die betrekking hebben op investeringen van meer dan 12.500.000&nbsp;euro;<br>
 4° de beslissingen waarbij de gewestwaarborg of de gemeenschapswaarborg wordt verleend voor een gecumuleerd bedrag, per natuurlijke persoon of per rechtspersoon, van meer dan 5.000.000 euro, tenzij de mogelijkheid tot het verlenen van een waarborg is voorzien in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap;<br>
 5° het sluiten van samenwerkingsakkoorden of verdragen;<br>
@@ -194,7 +194,7 @@ De Vlaamse minister, bevoegd voor de culturele aangelegenheden, heeft delegatie 
 
 De Vlaamse minister, bevoegd voor de huisvesting, heeft delegatie om de Vlaamse Maatschappij voor Sociaal Wonen in het kader van haar bevoegdheid voor sociale huisvesting te machtigen om:<br>
 1° marktconforme leningen en bulletleningen te verstrekken, met of zonder rentekortingen;<br>
-2° bijzondere sociale leningen te verstrekken aan particulieren;<br>
+2° ...;<br>
 3° grondaankopen te financieren vanuit het Rollend Grondfonds.<br>
 <br>
 De Vlaamse minister, bevoegd voor de huisvesting, heeft delegatie om het Vlaams Woningfonds in het kader van zijn bevoegdheid voor sociale huisvesting te machtigen bijzondere sociale leningen te verstrekken aan particulieren.

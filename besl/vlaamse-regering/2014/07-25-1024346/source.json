@@ -2,16 +2,16 @@
   "codex_id": 1024346,
   "title": "Besluit van de Vlaamse Regering van 2014-07-25 [tot delegatie van beslissingsbevoegdheden aan de leden van de Vlaamse Regering]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024346/VolledigDocument?datum=2022-08-29",
-  "source_sha256": "d9ce2a1d0a0dfa73e14510d4e58d3bd5d9377463e51f2a45e3552593fca30d8f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024346/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "49d25fed971705aadfa91c2a4439b65420775d6a66813524b43b575ffa7919c9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024346&param=informatie",
-  "as_of": "2022-08-29",
+  "as_of": "2023-01-01",
   "made": "2014-07-25",
   "gazette": "2014-08-01",
   "numac": 2014036478,
   "document_start": "2014-07-25",
   "document_end": "2024-09-29",
-  "in_force": "2022-08-29",
+  "in_force": "2023-01-01",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2022-08-29; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }
