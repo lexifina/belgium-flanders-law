@@ -20,7 +20,7 @@ In dit decreet wordt verstaan onder:<br>
 
 Dit decreet is niet van toepassing op de volgende toeristische logiezen:<br>
 1° terreinen waarop gedurende maximaal 75 kalenderdagen per jaar wordt gekampeerd in het kader van een evenement of door georganiseerde groepen kampeerders die onder toezicht van een of meer begeleiders staan. De eigenaar of exploitant van het terrein brengt de burgemeester van de gemeente waar het terrein ligt, vooraf schriftelijk op de hoogte als het terrein als dusdanig wordt gebruikt;<br>
-2° een toeristisch logies dat in het kader van het decreet van 18 juli 2003 betreffende de verblijven en verenigingen die een werking uitoefenen in het kader van `Toerisme voor Allen' als verblijf erkend en ingedeeld is in de categorie jeugdverblijfcentrum;<br>
+2° ...<br>
 3° een bivakzone, als die aangegeven is in een toegankelijkheidsregeling conform en ter uitvoering van het Bosdecreet van 13 juni 1990 of het decreet van 21 oktober 1997 op het natuurbehoud en het natuurlijk milieu;<br>
 4° een inrichting die wordt gebruikt voor de werking van een jeugdwerkinitiatief dat erkend, gesubsidieerd of georganiseerd is door de Vlaamse Gemeenschap, de Vlaamse Gemeenschapscommissie of door lokale besturen, waarin wordt verbleven of waarnaast wordt gekampeerd gedurende maximaal zestig kalenderdagen per jaar door georganiseerde jeugdgroepen die onder toezicht van een of meer begeleiders staan. De eigenaar of exploitant van de inrichting brengt de burgemeester van de gemeente waar de inrichting ligt, vooraf schriftelijk op de hoogte als de inrichting als dusdanig wordt gebruikt.
 
@@ -35,6 +35,9 @@ Een toeristisch logies dat gelegen is in het Vlaamse Gewest, mag alleen worden u
 6° de exploitant beschikt over een geldig eigendomsbewijs van het toeristische logies of over een rechtsgeldige overeenkomst op grond waarvan het de exploitant wordt toegestaan het toeristische logies te exploiteren;<br>
 7° het toeristische logies voldoet aan de openings- en uitbatingsvoorwaarden die door de Vlaamse Regering worden bepaald en die betrekking hebben op de uitrusting, de inrichting, specifieke veiligheidsaspecten van het toeristische logies en de informatie die ter beschikking moet worden gesteld van toeristen en op welke wijze die informatie ter beschikking moet worden gesteld;<br>
 8° als het toeristische logies wordt aangeboden op de toeristische markt met een benaming die door de Vlaamse Regering wordt bepaald, moet het voldoen aan de overeenkomstige bijkomende openings- en uitbatingsvoorwaarden die door de Vlaamse Regering zijn bepaald.<br>
+9° het toeristische logies is opgericht en wordt uitgebaat conform de regelgeving over ruimtelijke ordening en de geldende stedenbouwkundige regels;<br>
+10° het toeristische logies is aangemeld conform artikel 5.<br>
+<br>
 Een toeristisch logies mag worden aangeboden op de toeristische markt onder verschillende benamingen op voorwaarde dat het voldoet aan de overeenkomstige bijkomende openings- en uitbatingsvoorwaarden van die benaming. Toerisme Vlaanderen kan op gemotiveerde wijze een afwijking van een of meer bijkomende openings- en uitbatingsvoorwaarden toestaan.<br>
 <br>
 De in het eerste lid, 1°, bedoelde brandveiligheidsnormen kunnen verschillen naargelang de aard van de logiesuitbating en de capaciteit van het toeristische logies. De Vlaamse Regering bepaalt de voorwaarden en de wijze waarop kan worden afgeweken van deze specifieke brandveiligheidsnormen. De inachtneming van de specifieke brandveiligheidsnormen wordt ter plaatse gecontroleerd door de bevoegde brandweerdienst of, als de Vlaamse Regering dat zo bepaalt, door een andere dienst of instantie die de Vlaamse Regering heeft aangewezen. De inachtneming van de specifieke brandveiligheidsnormen wordt vastgelegd in een brandveiligheidsattest dat wordt afgeleverd door de burgemeester van de gemeente waar het toeristische logies ligt, of, als de Vlaamse Regering dat zo bepaalt, door een andere dienst of instantie die de Vlaamse Regering heeft aangewezen. Als het toeristische logies niet volledig aan de specifieke brandveiligheidsnormen voldoet, maar de veiligheid van de logerende toeristen, het personeel en de bezoekers niet ernstig in het gedrang komt, kan de Vlaamse Regering voorzien in een tijdelijk brandveiligheidsattest. De Vlaamse Regering kan in dat geval ook de voorwaarden bepalen voor de toekenning van een tijdelijk brandveiligheidsattest. De Vlaamse Regering bepaalt de modellen, de wijze van afgifte en de geldigheidsduur van de attesten. De exploitant van een toeristisch logies kan in beroep gaan tegen de beslissing tot weigering van een brandveiligheidsattest of tegen het uitblijven van een dergelijke beslissing. Voor het behandelen van en het beslissen over deze beroepen en afwijkingsaanvragen op de specifieke brandveiligheidsnormen, wordt een Technische Commissie Brandveiligheid van het toeristische logies opgericht. De Vlaamse Regering bepaalt de samenstelling en de werking van de Technische Commissie Brandveiligheid van het toeristische logies. Een beroep en een aanvraag tot afwijking op de specifieke brandveiligheidsnormen wordt behandeld binnen de termijn en volgens de procedure, bepaald door de Vlaamse Regering.<br>
@@ -44,7 +47,18 @@ Toerisme Vlaanderen kan op gemotiveerde wijze een afwijking toestaan van een of 
 
 ### ART. 5.
 
-&nbsp;De exploitant, of zijn hiertoe aangestelde, brengt Toerisme Vlaanderen op de hoogte van de uitbating van zijn toeristisch logies. De Vlaamse Regering bepaalt de nadere praktische modaliteiten hiervan.
+De exploitant, of de persoon die daartoe is aangesteld, meldt de uitbating van het toeristische logies aan bij Toerisme Vlaanderen. De Vlaamse Regering bepaalt de nadere regels voor die aanmelding.<br>
+<br>
+Toerisme Vlaanderen kan de aanmelding herroepen als blijkt dat het toeristische logies niet of niet meer voldoet aan de voorwaarden, vermeld in artikel 4, eerste lid, 1° tot en met 9°.<br>
+<br>
+Toerisme Vlaanderen stelt een register van de toeristische logiezen die zijn aangemeld, publiekelijk ter beschikking. In dat register worden de volgende gegevens vermeld:<br>
+1° de naam waaronder het toeristische logies wordt aangeboden op de toeristische markt;<br>
+2° de ligging van het toeristische logies;<br>
+3° de capaciteit van het toeristische logies;<br>
+4° het logiestype of, in voorkomend geval, de beschermde benaming of benamingen waarmee het toeristische logies wordt aangeboden op de toeristische markt;<br>
+5° de eventuele erkenningen en comfortclassificaties die op basis van dit decreet zijn toegekend aan het toeristische logies;<br>
+6° de datum van de aanmelding of de eventuele erkenning van het toeristische logies;<br>
+7° het telefoonnummer, het e-mailadres en de website van het toeristische logies als die worden opgegeven bij de aanmelding van het toeristische logies.
 
 ## HOOFDSTUK 2 Erkenning van een toeristisch logies
 
@@ -52,17 +66,15 @@ Toerisme Vlaanderen kan op gemotiveerde wijze een afwijking toestaan van een of 
 
 <p>§ 1. De exploitant van een toeristisch logies kan vrijwillig voor zijn toeristisch logies een erkenning aanvragen bij Toerisme Vlaanderen. Er kan zowel een erkenning worden verkregen als toeristisch logies als onder een benaming die wordt bepaald met toepassing van artikel 4, 8°. De erkenning wordt verkregen als na controle ter plaatse wordt vastgesteld dat het toeristische logies voldoet aan de voorwaarden, vermeld in artikel 4, 1° tot en met 9°.</p>
 
-<p>§ 2. De procedure voor de toekenning, weigering, intrekking of schorsing van de erkenning wordt bepaald door de Vlaamse Regering.</p>
+<p>§ 2. De procedure voor de toekenning, weigering, intrekking of schorsing van de erkenning wordt bepaald door de Vlaamse Regering.<br>
+<br>
+§ 2/1. Bij een bevel tot stopzetting van de exploitatie van het toeristische logies als vermeld in artikel 14 vervalt in voorkomend geval de erkenning en eventuele comfortclassificatie van het toeristische logies van rechtswege.</p>
 
 <p>§ 3. Hetzelfde toeristische logies kan een of meer erkenningen verkrijgen onder een benaming die wordt bepaald met toepassing van artikel 4, 8°.</p>
 
 <p>§ 4. Voor een erkenning kan een vergoeding worden aangerekend. De Vlaamse Regering bepaalt de hoogte van de vergoeding.</p>
 
-<p>§ 5. Toerisme Vlaanderen stelt een register van de erkende toeristische logiezen publiekelijk ter beschikking met vermelding van minstens:<br>
-1° de naam waaronder het toeristische logies wordt aangeboden op de toeristische markt;<br>
-2° de ligging van het toeristische logies;<br>
-3° de capaciteit van het toeristische logies;<br>
-4° in voorkomend geval, de comfortclassificaties die toegekend zijn aan het toeristische logies als vermeld in artikel 7, § 1.</p>
+<p>§ 5. ...</p>
 
 <p>§ 6. Toerisme Vlaanderen bezorgt het erkende toeristische logies per erkenning een erkenningsteken. Het erkenningsteken moet op een voor het publiek duidelijk zichtbare plaats worden aangebracht. De Vlaamse Regering bepaalt het model van erkenningsteken en het reproductierecht van de houder. Het erkenningsteken blijft eigendom van Toerisme Vlaanderen.</p>
 
@@ -99,19 +111,26 @@ Toerisme Vlaanderen of, in voorkomend geval, de door de Vlaamse Regering aangewe
 <p>§ 1. De exploitant van een toeristisch logies kan tegen de volgende beslissingen beroep aantekenen bij een beroepscommissie voor het toeristische logies:<br>
 1° de beslissing tot weigering, schorsing of intrekking van de erkenning;<br>
 2° de beslissing tot weigering, schorsing of intrekking van de comfortclassificatie;<br>
-3° de verkregen comfortclassificatie.</p>
+3° de verkregen comfortclassificatie.<br>
+4° de herroeping van de aanmelding.</p>
 
 <p>De Vlaamse Regering bepaalt de samenstelling en de werking van de beroepscommissie voor het toeristische logies.</p>
 
 <p>Het beroep wordt behandeld binnen de termijn en volgens de procedure, bepaald door de Vlaamse Regering. Deze procedure waarborgt de rechten van de verdediging, inzonderheid het recht om gehoord te worden.</p>
 
-<p>§ 2. Het beroep tegen de beslissing tot schorsing of intrekking van de erkenning is opschortend, tenzij de beslissing gebaseerd is op artikel 4, 1° of 5°.</p>
+<p>§ 2. Het beroep tegen de beslissing tot schorsing of intrekking van de erkenning&nbsp;en tegen de herroeping van de aanmelding is opschortend, tenzij de beslissing gebaseerd is op artikel 4, 1° of 5°.</p>
 
 <p>§ 3. In de beslissing over het beroep kunnen ook afwijkingen van de openings- en exploitatievoorwaarden, vermeld in artikel 4, 7° en 8°, en van de classificatienormen, vermeld in artikel 7, § 1, worden toegestaan.</p>
 
 <p>§ 4. Ook de exploitant van een toeristisch logies dat niet beschikt over een erkenning of een comfortclassificatie, kan voor zijn toeristische logies bij de beroepscommissie voor het toeristische logies afwijkingen aanvragen van de openings- en exploitatievoorwaarden, vermeld in artikel 4, 7° en 8°, en van de classificatienormen, vermeld in artikel 7, § 1. De afwijkingsaanvraag wordt behandeld binnen dezelfde termijn en volgens dezelfde procedure als een beroep, vermeld in paragraaf 1.</p>
 
 ## [HOOFDSTUK 4/1. Label `Toerisme voor Allen' (ing. Decr. 11 februari 2022, art. 8, I: 1 januari 2023)]
+
+### ART 9/1.
+
+Toerisme Vlaanderen kent het label `Toerisme voor Allen' toe aan:<br>
+1° de toeristische logiezen die aangemeld zijn als `jeugdverblijf' conform de bepalingen van dit decreet; of<br>
+2° de toeristische logiezen die aangemeld zijn als `hostel' conform de bepalingen van dit decreet, en die jaarlijks minstens 70% overnachtingen voor kinderen en jongeren tot en met dertig jaar realiseren.
 
 ## HOOFDSTUK 5 Toezicht, controle en sancties
 
@@ -149,12 +168,17 @@ Toerisme Vlaanderen of, in voorkomend geval, de door de Vlaamse Regering aangewe
 
 ### ART. 11.
 
-De tussenpersonen, vermeld in artikel 2, 5°, moeten voor de toeristische logiezen die gelegen zijn in het Vlaamse Gewest waarvoor ze bemiddelen of promotie maken, op schriftelijk verzoek, de gegevens van de exploitant en de adresgegevens van de toeristische logiezen meedelen aan de agenten van de federale en lokale politie en aan de gemachtigde personen, vermeld in artikel 10. Deze gegevens kunnen worden opgevraagd in het kader van een steekproef, bij twijfel of de toeristische logiezen voldoen aan de voorwaarden van dit decreet en zijn uitvoeringsbesluiten, of in het kader van een klacht over een toeristisch logies.
+De tussenpersonen delen voor de toeristische logiezen in het Vlaamse Gewest waarvoor ze bemiddelen of promotie maken, op schriftelijk verzoek, de gegevens van de exploitant en de adresgegevens van de toeristische logiezen mee aan de agenten van de federale en lokale politie en aan de gemachtigde personen, vermeld in artikel 10.<br>
+<br>
+De gegevens, vermeld in het eerste lid, kunnen worden opgevraagd in de volgende gevallen:<br>
+1° in het kader van een steekproef om na te gaan of de toeristische logiezen waarvoor de tussenpersoon bemiddelt of promotie maakt, aangemeld zijn bij Toerisme Vlaanderen. Bij een steekproef worden maximaal de gegevens opgevraagd van alle exploitanten en toeristische logiezen in eenzelfde stad of gemeente. Er kunnen meerdere steekproeven gebeuren bij dezelfde tussenpersoon;<br>
+2° bij twijfel of een toeristisch logies waarvoor de tussenpersoon bemiddelt of promotie maakt, voldoet aan de voorwaarden, vermeld in dit decreet, en de uitvoeringsbesluiten ervan;<br>
+3° in het kader van een klacht over een toeristisch logies.
 
 ### ART. 12.
 
 <p>§ 1. Een administratieve geldboete van 250 euro tot 25.000 euro kan worden opgelegd aan:<br>
-1° de exploitant van een toeristisch logies in het Vlaamse Gewest dat niet voldoet aan de voorwaarden, vermeld in artikel 4;<br>
+1° de exploitant van een toeristisch logies in het Vlaamse Gewest dat niet voldoet aan de voorwaarden, vermeld in artikel 4, eerste lid, 1° tot en met 8° en 10° ;<br>
 2° de exploitant van een toeristisch logies die wederrechtelijk houder is of gebruikmaakt van het erkenningsteken, vermeld in artikel 6, § 6, die wederrechtelijk de indruk geeft dat zijn toeristische logies erkend is op grond van dit decreet, die wederrechtelijk gebruikmaakt van een comfortclassificatie als vermeld in artikel 7, § 1, of die wederrechtelijk de indruk geeft te beschikken over een comfortclassificatie op grond van dit decreet;<br>
 3° de tussenpersoon die geen gevolg geeft aan het schriftelijke verzoek, vermeld in artikel 11, om de gegevens van de exploitant of de adresgegevens van het toeristische logies waarvoor hij bemiddelt of promotie maakt, mee te delen.</p>
 
@@ -192,9 +216,9 @@ De tussenpersonen, vermeld in artikel 2, 5°, moeten voor de toeristische logiez
 
 ### ART. 14.
 
-<p>§ 1. De agenten van de federale en de lokale politie, en de personen die door de Vlaamse Regering daartoe worden gemachtigd, kunnen na voorafgaande schriftelijke ingebrekestelling en nadat de betrokkene het recht heeft gekregen om gehoord te worden, de onmiddellijke stopzetting bevelen van de exploitatie van het toeristische logies in het Vlaamse Gewest dat niet voldoet aan de voorwaarden, vermeld in artikel 4, 1° tot en met 7°.<br>
+<p>§ 1. De agenten van de federale en de lokale politie, en de personen die door de Vlaamse Regering daartoe worden gemachtigd, kunnen na voorafgaande schriftelijke ingebrekestelling en nadat de betrokkene het recht heeft gekregen om gehoord te worden, de onmiddellijke stopzetting bevelen van de exploitatie van het toeristische logies in het Vlaamse Gewest dat niet voldoet aan de voorwaarden, vermeld in artikel 4, eerste lid, 1° tot en met 8° en 10°.<br>
 <br>
-De personen, vermeld in het eerste lid, mogen, binnen de uitvoering van hun opdracht, elk onderzoek en elke controle uitvoeren. Ze mogen eender wie ondervragen over alles wat nuttig is om te weten bij de uitvoering van hun opdracht. Ze kunnen, zonder zich te verplaatsen, alle inlichtingen en documenten opvragen, met inbegrip van informatiedragers die gegevens bevatten die noodzakelijk zijn voor de uitvoering van hun opdracht en die ze nuttig achten om zich ervan te vergewissen dat de voorwaarden, vermeld in artikel 4, 1° tot en met 7°, worden nageleefd.<br>
+De personen, vermeld in het eerste lid, mogen, binnen de uitvoering van hun opdracht, elk onderzoek en elke controle uitvoeren. Ze mogen eender wie ondervragen over alles wat nuttig is om te weten bij de uitvoering van hun opdracht. Ze kunnen, zonder zich te verplaatsen, alle inlichtingen en documenten opvragen, met inbegrip van informatiedragers die gegevens bevatten die noodzakelijk zijn voor de uitvoering van hun opdracht en die ze nuttig achten om zich ervan te vergewissen dat de voorwaarden, vermeld in artikel 4, eerste lid, 1° tot en met 8° en 10°, worden nageleefd.<br>
 <br>
 De personen, vermeld in het eerste lid, zijn ertoe gemachtigd om alle maatregelen te nemen, met inbegrip van verzegeling en inbeslagname van materiaal en materieel, om het bevel tot stopzetting te kunnen toepassen.<br>
 <br>
@@ -243,7 +267,7 @@ Als een dossier dat persoonsgegevens als vermeld in het tweede lid, bevat, naar 
 
 ### ART. 15.
 
-Er kunnen premies worden toegekend om een bestaand toeristisch logies te moderniseren of uit te breiden, en om een nieuw toeristisch logies te bouwen of aan te leggen. De Vlaamse Regering bepaalt de voorwaarden voor de toekenning of weigering van die premies.
+Er kunnen subsidies worden toegekend om een bestaand toeristisch logies te moderniseren of uit te breiden, en om een nieuw toeristisch logies te bouwen of aan te leggen. De Vlaamse Regering bepaalt de voorwaarden voor de toekenning of weigering van die subsidies.
 
 ## [HOOFDSTUK 6/1. Adviescomité van het toeristische logies (ing. Decr. 11 februari 2022, art. 13, I: 12 september 2022)]]
 

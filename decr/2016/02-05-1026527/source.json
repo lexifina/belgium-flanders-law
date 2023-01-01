@@ -2,16 +2,16 @@
   "codex_id": 1026527,
   "title": "Decreet van 2016-02-05 houdende het toeristische logies",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026527/VolledigDocument?datum=2022-09-12",
-  "source_sha256": "85b0f17329fbc1ab9e8bbbb0880e2f3f438d28d251f8fc4a25008e42eaa94d17",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026527/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "305e381ccabc2e790477f0ae0746a7fec91a06fd8acef2a7cc7efa6f86a601ba",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026527&param=informatie",
-  "as_of": "2022-09-12",
+  "as_of": "2023-01-01",
   "made": "2016-02-05",
   "gazette": "2016-03-08",
   "numac": 2016035230,
   "document_start": "2017-04-01",
   "document_end": null,
-  "in_force": "2022-09-12",
-  "article_versions": 22,
-  "record_form": "consolidated version as in force on 2022-09-12; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-01-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }
