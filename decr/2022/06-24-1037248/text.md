@@ -78,7 +78,50 @@ In artikel 87, § 4, van hetzelfde decreet wordt het eerste lid vervangen door w
 <br>
 "Het recht op een tegemoetkoming wordt geopend op de datum van de aanvraag.".
 
+### ART 31.
+
+In artikel 145, § 1, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden "met een bijkomende erkenning" opgeheven;<br>
+2° in het tweede lid wordt na het woord "woonzorgcentra" de zinsnede ", vermeld in het eerste lid," opgeheven.
+
+### ART 32.
+
+In artikel 146/1, eerste lid, van hetzelfde decreet, ingevoegd bij het decreet van 3 mei 2019, worden de woorden "met een bijkomende erkenning" opgeheven.
+
+### ART 33.
+
+In hetzelfde decreet worden de volgende artikelen opgeheven:<br>
+1° artikel 148;<br>
+2° artikel 148/1, ingevoegd bij het decreet van 3 mei 2019.
+
 ## HOOFDSTUK 7. Wijzigingen van het Woonzorgdecreet van 15 februari 2019
+
+### ART 34.
+
+In artikel 44 van het Woonzorgdecreet van 15 februari 2019 worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 1 wordt opgeheven;<br>
+2° paragraaf 2 wordt vervangen door wat volgt:<br>
+" § 2. De Vlaamse Regering kan conform de normen die ze bepaalt en binnen de perken van de begrotingskredieten, een bijkomende erkenning verlenen aan woonzorgcentra die aan specifieke doelgroepen gespecialiseerde zorg aanbieden onder de voorwaarden die de Vlaamse Regering bepaalt.".
+
+### ART 35.
+
+In artikel 54 van hetzelfde decreet wordt paragraaf 1 vervangen door wat volgt:<br>
+<br>
+" § 1. Met behoud van de toepassing van artikel 51 en 52 en tot en met een datum die de Vlaamse Regering bepaalt, kan de Vlaamse Regering, conform de programmatie die de Vlaamse Regering bepaalt en binnen de perken van de begrotingskredieten, een planningsvergunning voor een bijkomende erkenning verlenen aan woonzorgcentra die aan specifieke doelgroepen gespecialiseerde zorg aanbieden als vermeld in artikel 44, § 2.".
+
+### ART 36.
+
+In artikel 65 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 2 wordt opgeheven;<br>
+2° paragraaf 5 wordt vervangen door wat volgt:<br>
+" § 5. De Vlaamse Regering kan, volgens de regels die ze bepaalt, de bijkomende erkenning van een woonzorgcentrum, vermeld in artikel 44, § 2, schorsen of intrekken als het woonzorgcentrum de bijzondere erkenningsvoorwaarden niet naleeft. Die regels bevatten de mogelijkheid om een bezwaar in te dienen.".
+
+### ART 37.
+
+In artikel 71 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° het tweede lid wordt opgeheven;<br>
+2° het vijfde lid wordt vervangen door wat volgt:<br>
+"De bijkomende erkenning van een woonzorgcentrum, vermeld in artikel 44, § 2, vervalt van rechtswege als het woonzorgcentrum zijn erkenning of zijn bijkomende erkenning verliest of als het gesloten wordt.".
 
 ## HOOFDSTUK 8. Inwerkingtredingsbepalingen
 
