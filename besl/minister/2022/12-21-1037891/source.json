@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037891,
+  "title": "Ministerieel besluit van 2022-12-21 tot verlenging van het ministerieel besluit tot vaststelling van een soortenbeschermingsprogramma voor de bever",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037891/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "4e456c4fb5b542d09c5ec8128ec3f145dca395f6faf972a0c519f5f69e32bf8b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037891&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2022-12-21",
+  "gazette": "2023-02-28",
+  "numac": 2023030305,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
