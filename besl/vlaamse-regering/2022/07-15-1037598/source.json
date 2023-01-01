@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037598,
+  "title": "Besluit van de Vlaamse Regering van 2022-07-15 over de subsidiëring van lokale besturen voor het afval- en materialenbeheer en tot opheffing van het besluit van de Vlaamse Regering van 23 januari 2004 betreffende de subsidiëring van bepaalde werken, leveringen en diensten die in het Vlaamse Gewest door of op initiatief van lokale besturen of ermee gelijkgestelde rechtspersonen worden uitgevoerd",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037598/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "27a5612f0af1220a52a6f270e868585bf4ed6d945f60efc082007f1c93c39a58",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037598&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2022-07-15",
+  "gazette": "2022-11-16",
+  "numac": 2022041852,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 33,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
