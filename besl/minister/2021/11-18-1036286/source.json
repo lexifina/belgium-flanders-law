@@ -2,16 +2,16 @@
   "codex_id": 1036286,
   "title": "Ministerieel besluit van 2021-11-18 tot vaststelling van de urencontingenten gezinszorg van de erkende diensten voor gezinszorg voor het jaar 2021",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036286/VolledigDocument?datum=2021-12-18",
-  "source_sha256": "e0213a6354bddc1672891103dd9ec83ff7a93031468b7418ee3d48bf6ad88f33",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036286/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "53ba3671cb98ca04f46c3e3bc5e68c953c0d33c2319de331ac83e0c6c59f0fdb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036286&param=informatie",
-  "as_of": "2021-12-18",
+  "as_of": "2023-01-01",
   "made": "2021-11-18",
   "gazette": "2021-12-08",
   "numac": 2021034020,
   "document_start": "2021-12-18",
   "document_end": null,
-  "in_force": "2021-12-18",
+  "in_force": "2023-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2021-12-18; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }

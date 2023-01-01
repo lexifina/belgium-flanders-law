@@ -346,7 +346,7 @@ Vanaf 1 januari 2021 komen de volgende openbare diensten voor gezinszorg in aanm
 		<tr>
 			<td>219</td>
 			<td>OCMW Sint-Genesius-Rode</td>
-			<td>19.319</td>
+			<td>17.500</td>
 		</tr>
 		<tr>
 			<td>222</td>
@@ -1121,7 +1121,7 @@ Verdeling urencontingenten gezinszorg over de regionale steden en het tweetalige
 			<td>0</td>
 			<td>0</td>
 			<td>0</td>
-			<td>19.319</td>
+			<td>17.500</td>
 			<td>0</td>
 			<td>0</td>
 			<td>0</td>
