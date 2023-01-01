@@ -82,7 +82,9 @@ De commissie heeft als opdracht aan de Vlaamse minister, bevoegd voor de bijstan
 <br>
 De commissie heeft daarnaast ook als opdracht aan de Vlaamse minister, bevoegd voor het gezondheidsbeleid, advies uit te brengen over het bezwaar tegen een voornemen van beslissing over:<br>
 1° de erkenning van arts-specialisten en huisartsen;<br>
-2° de erkenning van de beoefenaars van de tandheelkunde, houders van een bijzondere beroepstitel.<br>
+2° de erkenning van de beoefenaars van de tandheelkunde, houders van een bijzondere beroepstitel;<br>
+3° de erkenning van beoefenaars van de klinische psychologie;<br>
+4° de erkenning van beoefenaars van de klinische orthopedagogiek.<br>
 <br>
 De commissie behandelt het bezwaar tegen de beslissing tot weigering, schorsing of intrekking van de erkenning van een organisatie, zorgvoorziening of zorgverlener als indicatiesteller, vermeld in artikel 67 of artikel 111 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, of tegen het voornemen om die beslissing te nemen.<br>
 <br>
