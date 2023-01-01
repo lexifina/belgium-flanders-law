@@ -266,7 +266,9 @@ Voor alle ontvangers van een subsidie op basis van dit decreet geldt als bijkome
 
 ### ART 18.
 
-Het budget voor de kortlopende subsidies vertegenwoordigt een bepaald minimumpercentage ten opzichte van het totale jaarlijkse kunstenbudget voor de subsidiëring van de instrumenten, vermeld in dit hoofdstuk en in hoofdstuk 4, afdeling 2.<br>
+Met uitsluiting van de toepassing van artikel 55 vertegenwoordigt het jaarlijkse budget voor de kortlopende subsidies een bepaald minimumpercentage ten opzichte van het totale jaarlijkse kunstenbudget voor de subsidiëring van de instrumenten, vermeld in dit hoofdstuk en in hoofdstuk 4, afdeling 2.<br>
+<br>
+Als het totale jaarlijkse kunstenbudget, vermeld in het eerste lid, tijdens de beleidsperiode wijzigt in het kader van het algemeen begrotingsbeleid of door een bijstelling omdat een organisatie de voorwaarden waaronder een werkingssubsidie werd toegekend niet naleeft, kan het budget voor de kortlopende subsidies, in afwijking van het eerste lid, in functie van deze wijziging evolueren.<br>
 <br>
 De Vlaamse Regering bepaalt het minimumpercentage, vermeld in het eerste lid.
 
