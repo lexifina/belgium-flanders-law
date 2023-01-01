@@ -76,6 +76,36 @@ Aan artikel 2.3.4.1.3 van hetzelfde decreet, gewijzigd bij de decreten van 18 de
 
 In artikel 2.3.4.2.1, § 2, van hetzelfde decreet, gewijzigd bij het decreet van 22 juni 2018, wordt het derde lid opgeheven.
 
+### ART 15.
+
+In artikel 2.4.4.0.2, eerste lid, 8°, van hetzelfde decreet, ingevoegd bij het decreet van 3 juli 2015, worden de volgende wijzigingen aangebracht:<br>
+1° de volgende tabel wordt opgeheven:
+<table border="1" style="width:400px">
+	<tbody>
+		<tr>
+			<td>EURO-emissieklasse</td>
+			<td>Ex</td>
+		</tr>
+		<tr>
+			<td>EURO 5 of EEV of hoger</td>
+			<td>1,1</td>
+		</tr>
+		<tr>
+			<td>EURO 4</td>
+			<td>3.2</td>
+		</tr>
+		<tr>
+			<td>EURO 3</td>
+			<td>6,3</td>
+		</tr>
+		<tr>
+			<td>overige Euro-emissieklassen</td>
+			<td>8,3</td>
+		</tr>
+	</tbody>
+</table>
+2° de zinsnede "Vanaf 1 januari 2018 wordt volgende tabel toegepast:" wordt opgeheven.
+
 ### ART 16.
 
 In artikel 2.4.6.0.1, § 3, van hetzelfde decreet, ingevoegd bij het decreet van 3 juli 2015, worden de volgende wijzigingen aangebracht:<br>
