@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038082,
+  "title": "Besluit van de Vlaamse Regering van 2023-01-20 tot wijziging van verschillende besluiten, wat betreft het opheffen van het onderscheid tussen woonzorgcentra en woonzorgcentra met een bijkomende erkenning ter uitvoering van het zesde Vlaams Intersectoraal Akkoord",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038082/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "cc15311d76f96a1e7e585d3b5edfb9cdc421907befaef0a24f6d41b882c5da93",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038082&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2023-01-20",
+  "gazette": "2023-03-17",
+  "numac": 2023030496,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 74,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
