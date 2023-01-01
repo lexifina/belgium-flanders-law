@@ -81,7 +81,7 @@ c) een nauwkeurige beschrijving van de betrekking (ambt, domein, graad, vak, spe
 <br>
 § 3. Voor de procedure van § 2 afgerond is, kan, voor een personeelslid dat al aangesteld wordt, alleen een salaris(toelage) uitbetaald worden als hij effectief beschikt over een bekwaamheidsbewijs dat als 'andere' geldt voor het ambt en vak in kwestie. De salarisschaal is dan die voor 'andere bekwaamheidsbewijzen'.<br>
 <br>
-§ 4. Aan een personeelslid dat met de procedure, vermeld in paragraaf 2, een voldoende geacht bekwaamheidsbewijs verworven heeft, kan een salaris(toelage) uitbetaald worden in de salarisschaal 301 voor opdrachten in de 1e, 2e en 3e graad en in de salarisschaal 302 in de 4e graad.
+§ 4. Aan een personeelslid dat met de procedure, vermeld in paragraaf 2, een voldoende geacht bekwaamheidsbewijs verworven heeft, kan een salaris(toelage) uitbetaald worden in de salarisschaal 301 voor opdrachten in de 1e en 2e graad en in de salarisschaal 302 voor opdrachten in de 3e en 4e graad.
 
 ### ART. 6.
 
@@ -969,7 +969,7 @@ De Vlaamse minister van Onderwijs is belast met de uitvoering van dit besluit.<b
 
 ### BIJLAGE I.
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2023/04/27_1.pdf#page=109">Bekwaamheidsbewijzen en salarisschalen deeltijds kunstonderwijs, domeinen Muziek, Woordkunst-drama en Dans</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2023/04/27_1.pdf#page=269">Bekwaamheidsbewijzen en salarisschalen deeltijds kunstonderwijs, domeinen Muziek, Woordkunst-drama en Dans</a>
 
 ### BIJLAGE II.
 
