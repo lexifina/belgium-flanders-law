@@ -2,16 +2,16 @@
   "codex_id": 1013742,
   "title": "Besluit van de Vlaamse Regering van 2005-03-04 houdende de instellingsspecifieke regeling van de rechtspositie van het personeel van het Openbaar Psychiatrisch Ziekenhuis te Geel",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013742/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "0978afc86364dd0196983974b3c01df9f05e1cedc565d438fff49e2c3aef8635",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013742/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "322c8322ca8245db9d7c4ac73da35f0cd674dc129a07e19597b81e227de47aa2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013742&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2023-01-01",
   "made": "2005-03-04",
   "gazette": "2005-04-21",
   "numac": 2005035417,
   "document_start": "2000-10-01",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2023-01-01",
   "article_versions": 55,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }
