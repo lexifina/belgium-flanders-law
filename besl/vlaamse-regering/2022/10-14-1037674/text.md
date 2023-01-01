@@ -163,6 +163,14 @@ Het voltijdsequivalent per trimester tx is in de gevallen, vermeld in het eerste
 2° D: het aantal dagen van maandag tot vrijdag, gedurende het trimester, vermenigvuldigd met 7,6 uur per dag.<br>
 Het voltijdsequivalent tijdens de referentieperiode wordt bepaald aan de hand van de resultaten van de formule, vermeld in het elfde lid, en is gelijk aan de som van de voltijdsequivalenten per trimester tx in de referentieperiode, gedeeld door het aantal trimesters in de referentieperiode.".
 
+### ART 11.
+
+In artikel 475, §3, van hetzelfde besluit, gewijzigd bij dit besluit, worden de volgende wijzigingen aangebracht:<br>
+1° in het zesde lid wordt tussen de woorden "met toepassing van het" en de zinsnede "derde lid, 1°" de woorden "eerste lid en" ingevoegd;<br>
+2° er worden een dertiende en veertiende lid ingevoegd, die luiden als volgt:&nbsp;<br>
+"Onder uitzendkracht, vermeld in het eerste, derde en zesde lid moet een uitzendkracht worden begrepen zoals bedoeld in hoofdstuk II van de wet van 27 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers. Het werkgeversgezag over de uitzendkracht wordt overgedragen van het uitzendbureau aan het woonzorgcentrum, in voorkomend geval met het bijbehorende centrum voor kortverblijf.<br>
+Onder projectsourcing of projectstaffing, vermeld in het zesde lid, moet een tewerkstelling worden begrepen waarbij een werknemer van een projectsourcingbureau of uitzendbureau dat de projectsourcing organiseert tijdelijk van korte of lange duur ter beschikking wordt gesteld aan een woonzorgcentrum, in voorkomend geval met bijbehorende centrum voor kortverblijf, en waarbij het gezag dat normaal aan de werkgever toekomt, zoals bedoeld in artikel 31 van de wet van 27 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers, niet aan het woonzorgcentrum, in voorkomend geval met het bijbehorende centrum voor kortverblijf, wordt overgedragen maar verder wordt uitgeoefend door het projectsourcingbureau of uitzendbureau dat de projectsourcing organiseert.".&nbsp;
+
 ### ART 13.
 
 Aan artikel 479 van hetzelfde besluit wordt een derde lid toegevoegd, dat luidt als volgt:&nbsp;<br>
