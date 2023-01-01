@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038071,
+  "title": "Ministerieel besluit van 2023-02-17 tot vastlegging van het totale aantal voltijdse equivalenten per erkende dienst maatschappelijk werk van het ziekenfonds voor 2023",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038071/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "343fa67f5e38f15d697903b930a032f1b5514fe231b3bf33a53a262cb4dcd868",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038071&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2023-02-17",
+  "gazette": "2023-05-15",
+  "numac": 2023030442,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
