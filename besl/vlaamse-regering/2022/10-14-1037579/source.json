@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037579,
+  "title": "Besluit van de Vlaamse Regering van 2022-10-14 tot wijziging van artikel 3 en 8 van het besluit van de Vlaamse Regering van 16 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen en boek 3 en boek 5 van het Besluit Vlaamse Codex Wonen van 2021",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037579/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "3adc016480c7e2a3337c8e39866439f468a8a8c362034a147e1141977dabf593",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037579&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2022-10-14",
+  "gazette": "2023-02-08",
+  "numac": 2022042678,
+  "document_start": "2023-02-18",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
