@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037718,
+  "title": "Besluit van de Vlaamse Regering van 2022-11-25 tot wijziging van het besluit van de Vlaamse Regering van 28 maart 2003 tot oprichting van een Vlaams betaalorgaan voor het Europees Landbouwfonds voor plattelandsontwikkeling en het Europees Landbouwgarantiefonds",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037718/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "64f79b5d961498bf5d60927add869e525ffc29f128426e07d4fbb5ac9e5e085c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037718&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2022-11-25",
+  "gazette": "2022-12-07",
+  "numac": 2022034487,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
