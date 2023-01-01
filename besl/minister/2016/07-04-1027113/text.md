@@ -27,7 +27,7 @@
 
 ### ART 2.
 
-De financiële tegemoetkoming voor het sportmedische geschiktheidsonderzoek van de getalenteerde sporters wordt voor het jaar 2022 vastgesteld op maximaal 335 euro op jaarbasis voor elke getalenteerde sporter.
+De financiële tegemoetkoming voor het sportmedische geschiktheidsonderzoek van de getalenteerde sporters wordt voor het jaar 2023 vastgesteld op maximaal 335 euro op jaarbasis voor elke getalenteerde sporter.
 
 ### ART 3.
 
