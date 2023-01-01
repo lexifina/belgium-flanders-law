@@ -95,6 +95,51 @@ c) werkzaamheden en constructies die expliciet zijn toegelaten door een ruimteli
 d) werkzaamheden en constructies voorzien in een goedgekeurd beheersplan voor onroerend erfgoed of erfgoedlandschappen als vermeld in artikel 8.1.6 van het besluit van de Vlaamse Regering van 16 mei 2014 betreffende de uitvoering van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
 e) constructies en reliëfwijzigingen die verenigbaar zijn met de functie of de functies van de oeverzone en met het recht van doorgang van de waterbeheerder.".
 
+### ART 10.
+
+In artikel 1.3.3.3.2 van hetzelfde decreet, gewijzigd bij het decreet van 26 april 2019, worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 1 wordt vervangen door wat volgt:<br>
+" § 1. Iedereen die voor eigen rekening of als tussenpersoon een onroerend goed verkoopt, verhuurt voor meer dan negen jaar, inbrengt in een vennootschap, een vruchtgebruik, erfpacht of een opstalrecht overdraagt, of op andere wijze een eigendomsoverdracht met een vergeldend karakter van het goed bewerkstelligt, vermeldt in de publiciteit die daaraan verbonden is, of het onroerend goed al dan niet volledig of gedeeltelijk in een van de volgende gebieden ligt:<br>
+1° in overstromingsgevoelig gebied zoals afgebakend door de Vlaamse Regering;<br>
+2° in een afgebakend overstromingsgebied of een afgebakende oeverzone.<br>
+De Vlaamse Regering kan nader bepalen wat onder publiciteit als vermeld in het eerste lid begrepen wordt. De Vlaamse Regering kan bepaalde vormen van publiciteit om praktische redenen vrijstellen en kan nadere regels bepalen om de informatieplicht na te komen.<br>
+Iedereen die een onderhandse akte van verkoop of van verhuring voor meer dan negen jaar van een onroerend goed, van inbreng van een onroerend goed in een vennootschap en ook van vestiging of overdracht van vruchtgebruik, erfpacht of opstal opmaakt, vermeldt of het onroerend goed al dan niet volledig of gedeeltelijk in een van de volgende gebieden ligt:<br>
+1° in overstromingsgevoelig gebied zoals afgebakend door de Vlaamse Regering;<br>
+2° in een afgebakend overstromingsgebied of een afgebakende oeverzone.<br>
+De instrumenterende ambtenaar vermeldt in alle onderhandse en authentieke akten van verkoop of van verhuring voor meer dan negen jaar van een onroerend goed, van een inbreng van een onroerend goed in een vennootschap, en ook in alle akten van vestiging of overdracht van vruchtgebruik, erfpacht of opstal, en in elke andere akte van een eigendomsoverdracht ten bezwarende titel, met uitzondering van huwelijkscontracten en de wijzigingen ervan en contracten over de mandeligheid of het onroerend goed in een van de volgende gebieden ligt:<br>
+1° in overstromingsgevoelig gebied zoals afgebakend door de Vlaamse Regering;<br>
+2° in een afgebakend overstromingsgebied of een afgebakende oeverzone.<br>
+Met overstromingsgevoelig gebied wordt bedoeld een door de Vlaamse Regering vastgesteld en op kaart aangeduid gebied waar overstromingen kunnen worden verwacht vanuit de zee, of door fluviale of pluviale overstromingen.";<br>
+2° in paragraaf 2, eerste lid, worden de woorden "de mogelijk of effectief overstromingsgevoelig gebieden" vervangen door de woorden "de overstromingsgevoelige gebieden";<br>
+3° in paragraaf 2, tweede lid, worden de woorden "de mogelijk of effectief overstromingsgevoelige gebieden" vervangen door de woorden "de overstromings gevoelige gebieden";<br>
+4° er wordt een paragraaf 3 toegevoegd, die luidt als volgt:<br>
+" § 3. De Vlaamse Regering kan voorzien dat een daartoe erkende persoon attesteert dat de overstromingsgevoeligheid van een of meer onroerende goederen op basis van gebouwkenmerken, de bouwwijze of andere genomen maatregelen voor de bescherming tegen overstromingen, verschilt van de overstromingsgevoeligheid, zoals vastgesteld door de Vlaamse Regering.<br>
+De erkenning, vermeld in het eerste lid, wordt geregeld door de bepalingen van titel V, hoofdstuk 6, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, met inbegrip van de erkenningsvoorwaarden, de gebruikseisen en de sancties.<br>
+De Vlaamse Regering kan het gebruik regelen van het attest, vermeld in het eerste lid.".
+
+### ART 11.
+
+In artikel 1.7.2.5.4 van hetzelfde decreet, gecoördineerd op 15 juni 2018, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, wordt het woord "indirecte" opgeheven;<br>
+2° aan paragraaf 1 worden een tweede en een derde lid toegevoegd, die luiden als volgt:<br>
+"Daarbij worden de volgende voorwaarden in acht genomen:<br>
+1° de redenen voor die veranderingen of wijzigingen uit het eerste lid zijn van hoger openbaar belang en/of het nut van het bereiken van de in het eerste lid vermelde doelstellingen voor milieu en samenleving wordt overtroffen door het nut van de nieuwe veranderingen en wijzigingen voor de gezondheid van de mens, de handhaving van de veiligheid van de mens of duurzame ontwikkeling;<br>
+2° alle haalbare stappen en maatregelen worden genomen om de negatieve effecten op de toestand van het oppervlaktewaterlichaam of het grondwaterlichaam tegen te gaan;<br>
+3° het doel dat met die veranderingen of wijzigingen van het oppervlaktewaterlichaam of grondwaterlichaam wordt gediend, kan niet worden bereikt met andere voor het milieu aanmerkelijk gunstigere middelen, omdat dit technisch niet haalbaar is of onevenredig hoge kosten zou meebrengen.<br>
+De Vlaamse Regering kan nadere regels vaststellen om te beoordelen of de voorwaarden uit het eerste en tweede lid vervuld zijn.";<br>
+3° paragraaf 2 wordt vervangen door wat volgt:<br>
+" § 2. De overheid die over een vergunningsaanvraag beslist die tot gevolg kan hebben dat de toestand van een grondwaterlichaam of oppervlaktewaterlichaam achteruitgaat, kan de aanvraag slechts goedkeuren als de voorwaarden uit paragraaf 1, eerste en tweede lid, vervuld zijn.<br>
+De overheid die over een plan of programma beslist dat tot gevolg kan hebben dat de toestand van een grondwaterlichaam of oppervlaktewaterlichaam achteruitgaat, kan het plan of programma slechts goedkeuren als de voorwaarden uit paragraaf 1, eerste en tweede lid, vervuld zijn.<br>
+Alvorens de beslissingen te nemen, vermeld in het eerste en tweede lid, vraagt de betrokken overheid advies aan de CIW. Die brengt een gemotiveerd advies uit binnen dertig dagen als het een vergunningsprocedure betreft en binnen zestig dagen als het een goedkeuringsprocedure voor een plan of programma betreft. Wordt er al op basis van andere regelgeving advies gevraagd in de loop van de procedure, dan beschikt de CIW over dezelfde termijn als de andere adviesverleners. Als het advies niet binnen deze termijnen verleend wordt, kan aan de adviesvereiste worden voorbijgegaan.<br>
+Als de vergunningsplichtige activiteit overeenkomstig artikel 4.3.2 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid onderworpen is aan de verplichting tot opmaak van een project-MER, gebeuren de analyse en de evaluatie van het al dan niet optreden van een achteruitgang van de toestand van een waterlichaam en over het al dan niet vervuld zijn van de voorwaarden uit paragraaf 1, eerste en tweede lid, in het project-MER of in het gemotiveerd verzoek tot ontheffing van de verplichting tot het opstellen van een project-MER, vermeld in artikel 4.3.3, § 4, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br>
+Wat betreft een plan of programma als vermeld in het tweede lid dat geen ruimtelijk uitvoeringsplan is, gebeuren de analyse en de evaluatie van het al dan niet optreden van een achteruitgang van de toestand van een waterlichaam en over het al dan niet vervuld zijn van de voorwaarden uit paragraaf 1, eerste en tweede lid, in de documenten die de initiatiefnemer bij het onderzoek tot milieueffectrapportage, vermeld in titel IV, hoofdstuk II, afdeling 2, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, bezorgt aan de dienst, bevoegd voor milieueffectrapportage. Als de initiatiefnemer een gemotiveerd verzoek tot ontheffing van de verplichting inzake milieueffectrapportage indient als vermeld in artikel 4.2.3, § 3ter, van het voormelde decreet, gebeuren de voormelde analyse en evaluatie in dat verzoek. Als een plan-MER wordt opgemaakt, gebeuren de voormelde analyse en evaluatie in het plan-MER.<br>
+Bij een plan of programma als vermeld in het tweede lid dat een ruimtelijk uitvoeringsplan is, gebeuren de analyse en de evaluatie van het al dan niet optreden van een achteruitgang van de toestand van een waterlichaam en over het al dan niet vervuld zijn van de voorwaarden uit paragraaf 1, eerste en tweede lid, als er geen plan-MER moet worden opgemaakt, zo mogelijk in de startnota, vermeld in artikel 2.2.4 van de Vlaamse Codex Ruimtelijke Ordening, en in elk geval in de scopingnota, vermeld in het voormelde artikel. Als uit de scopingnota blijkt dat een plan-MER moet worden opgemaakt, gebeurt de vermelde analyse en evaluatie in het plan-MER.<br>
+De betrokken overheid brengt de CIW op de hoogte van de beslissing, vermeld in het eerste en tweede lid, binnen tien dagen nadat de beslissing is genomen.<br>
+De Vlaamse Regering kan nadere regels vaststellen voor de procedure die gevolgd moet worden door de overheden die een project, plan of programma willen goedkeuren in het kader van paragraaf 1, eerste en tweede lid.";<br>
+4° een paragraaf 3 wordt toegevoegd, die luidt als volgt:<br>
+" § 3. Bij de opmaak of de herziening van de stroomgebiedbeheerplannen duidt de Vlaamse Regering de gevallen aan waarin overeenkomstig de eerste paragraaf afgeweken moet worden van de milieudoelstellingen. Daarbij wordt rekening gehouden met punt 4.2 uit bijlage 1.<br>
+De Vlaamse Regering herziet om de zes jaar de gevallen waarin van de milieudoelstellingen afgeweken wordt volgens dit artikel.".
+
 ### ART 12.
 
 In artikel 1.7.3.1, § 2, eerste lid, van hetzelfde decreet wordt de zinsnede "punt 1.2.1" vervangen door de zinsnede "punt 6.2.1".
