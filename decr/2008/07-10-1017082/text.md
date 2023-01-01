@@ -60,7 +60,7 @@ Het actieplan wordt na twee jaar geactualiseerd. Die actualisering omvat   minst
 
 ### ART. 12bis.
 
-De Vlaamse Regering kan een of meer advies- of beleidsparticipatieraden   oprichten met het oog op de bevordering van de deskundigheid, vermeld in artikel   6, § 1, 4°, met betrekking tot de voorwaarden, vermeld in artikel 6, § 2. De   Vlaamse Regering regelt de erkenning, opdracht, samenstelling en werking van die   advies- en beleidsparticipatieraden.
+De Vlaamse Regering kan een of meer advies- of beleidsparticipatieraden oprichten met het oog op de bevordering van de deskundigheid, vermeld in artikel 6, § 1, 4°, met betrekking tot de voorwaarden, vermeld in artikel 6, § 2. De Vlaamse Regering regelt de erkenning, opdracht, samenstelling, werking, subsidiëring, het toezicht en de sanctionering van die advies- en beleidsparticipatieraden.
 
 ### ART. 13.
 
