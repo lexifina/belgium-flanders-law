@@ -387,6 +387,22 @@ Het EVA en het stedelijk EVA controleren of de inschrijving effectief is voltooi
 <br>
 Het EVA, het stedelijk EVA en VDAB/Actiris en/of OCMW/lokaal bestuur werken op een geïntegreerde manier, samen met de inburgeraar, een traject uit op basis van zijn competenties, mogelijkheden en ambities. Er wordt ingezet op een gezamenlijke en geïntegreerde intake. Het EVA en het stedelijk EVA stellen het resultaat van de intake ter beschikking van de VDAB, Actiris of het OCMW/lokaal bestuur. De samenwerkingsovereenkomst, als vermeld in artikel 15, § 3, 5°, van dit besluit, bevat afspraken over deze geïntegreerde samenwerking.".
 
+### ART 36.
+
+In afdeling 2 van hoofdstuk 4 van hetzelfde besluit wordt een onderafdeling 4/2, die bestaat uit artikel 30/4 tot en met 30/6, ingevoegd, die luidt als volgt:<br>
+<br>
+"Onderafdeling 4/2. Het participatie- en netwerktraject<br>
+<br>
+Art. 30/4. De inburgeraar kiest voor de uitvoering van het participatie- en netwerktraject, in samenspraak met zijn trajectbegeleider, een of meer initiatieven in een Nederlandstalige context. De gekozen initiatieven leiden tot participatie op sociaal vlak.<br>
+<br>
+Art. 30/5. De lokale besturen ontsluiten het aanbod naar de inburgeraar.<br>
+<br>
+Art. 30/6. Het EVA voorziet in een sjabloon dat de inburgeraar na deelname aan het participatie- en netwerktraject van veertig uur invult en voorlegt aan de trajectbegeleider.<br>
+<br>
+Het sjabloon bevat minstens:<br>
+1° een beschrijving van het initiatief, vermeld in artikel 30/4 van dit besluit;<br>
+2° een ondertekening door de contactpersoon van het initiatief, vermeld in artikel 30/4 van dit besluit.".
+
 ### ART 37.
 
 Artikel 31 van hetzelfde besluit wordt vervangen door wat volgt:<br>
