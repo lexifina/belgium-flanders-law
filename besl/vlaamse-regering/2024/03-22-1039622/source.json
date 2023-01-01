@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039622,
+  "title": "Besluit van de Vlaamse Regering van 2024-03-22 tot wijziging van verschillende besluiten van de Vlaamse Regering over de subsidiëring van personeelskosten in de sector van personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039622/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "180d6cade8bf1d6cacb4ca3e68b59340d0cb239fb437545a80f6b5603ca766d2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039622&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2024-03-22",
+  "gazette": "2024-04-24",
+  "numac": 2024003715,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
