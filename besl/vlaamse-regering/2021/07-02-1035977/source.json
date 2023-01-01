@@ -2,16 +2,16 @@
   "codex_id": 1035977,
   "title": "Besluit van de Vlaamse Regering van 2021-07-02 tot wijziging van diverse besluiten over de rijopleiding en de rijexamens",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035977/VolledigDocument?datum=2021-09-01",
-  "source_sha256": "3541590eafa687258380d6fb3134d72c7a90fc68d87fd833a5fcba523b730aab",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035977/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "cac5f93de68ea09665d6a22777e960ffe9e53e475b369727a1aa8d72b99eb9e0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035977&param=informatie",
-  "as_of": "2021-09-01",
+  "as_of": "2023-01-01",
   "made": "2021-07-02",
   "gazette": "2021-08-20",
   "numac": 2021032297,
   "document_start": "2021-09-01",
   "document_end": null,
-  "in_force": "2021-09-01",
-  "article_versions": 42,
-  "record_form": "consolidated version as in force on 2021-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-01-01",
+  "article_versions": 44,
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }

@@ -64,6 +64,11 @@ In artikel 15, tweede lid, van hetzelfde besluit, gewijzigd bij de koninklijke b
 "d) voor de houder van een voorlopig rijbewijs B als vermeld in artikel 3, 4 en artikel 5/1, § 1/1, van het koninklijk besluit van 10 juli 2006 betreffende het rijbewijs voor voertuigen van categorie B, waarvan de geldigheid verstreken is;";<br>
 3° in punt 6° wordt tussen de woorden "zoals bedoeld in" en de woorden "het koninklijk besluit" de zinsnede "artikel 4 van" ingevoegd.
 
+### ART 4.
+
+In artikel 25 van hetzelfde besluit, gewijzigd bij de koninklijke besluiten van 1 september 2006, 4 mei 2007 en 30 augustus 2008 en het besluit van de Vlaamse Regering van 10 juli 2015, wordt een paragraaf 2/1 ingevoegd, die luidt als volgt:<br>
+" § 2/1. De instellingen die instaan voor het afnemen van examens om een rijbewijs te behalen, delen de informatie die vermeld is in de documenten die ze afgegeven aan kandidaten, elektronisch mee aan het Departement. Het Departement bepaalt de modaliteiten daarvoor en bepaalt de vorm waarin de informatie wordt opgesteld en aan het Departement wordt bezorgd.".
+
 ### ART 5.
 
 In artikel 26bis van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 28 april 2011 en gewijzigd bij het besluit van de Vlaamse Regering van 10 juli 2015, worden de volgende wijzigingen aangebracht:<br>
@@ -429,6 +434,11 @@ a) een afgifte tegen ontvangstbewijs;<br>
 b) een aangetekende brief met ontvangstbewijs;<br>
 39° werkdag: elke dag, uitgezonderd zaterdag, zondag en wettelijke feestdagen als vermeld in artikel 1 van het koninklijk besluit van 18 april 1974 tot bepaling van de algemene wijze van uitvoering van de wet van 4 januari 1974 betreffende de feestdagen;<br>
 40° algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).".
+
+### ART 26.
+
+&nbsp;Artikel 24 van hetzelfde besluit, opgeheven door het koninklijk besluit van 10 januari 2013, wordt opnieuw opgenomen in de volgende lezing:<br>
+"Art. 24. De instellingen die instaan voor het afnemen van examens om een rijbewijs of een bewijs van vakbekwaamheid te behalen, delen de informatie die vermeld is in de documenten die ze afgeven aan kandidaten, elektronisch mee aan het Departement. Het Departement bepaalt de modaliteiten daarvoor en bepaalt de vorm waarin de informatie wordt opgesteld en aan het Departement wordt bezorgd.".
 
 ### ART 27.
 
