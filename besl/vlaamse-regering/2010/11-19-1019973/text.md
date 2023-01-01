@@ -72,6 +72,7 @@ e) voor de erkenning, vermeld in artikel 6, 4°, g), 5°, f), en 6° : de afdeli
 f) voor de erkenning,&nbsp;vermeld in artikel 6, 7°, a) : de entiteit binnen de VMM die bevoegd is voor de erkenning van boorbedrijven;<br>
 g) voor de registratie als monsternemer in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid: het departement;<br>
 h) voor de registratie als monsternemer in het kader van het Mestdecreet en de uitvoeringsbesluiten ervan: de Mestbank;<br>
+i) voor de erkenning, vermeld in artikel 6, 1°, h): de entiteit binnen de VMM die bevoegd is voor de erkenning van deskundigen overstromingsattest;<br>
 44° ...<br>
 45° titel III van het VLAREM : het besluit van de Vlaamse Regering van 16 mei 2014 houdende bijkomende algemene en sectorale milieuvoorwaarden voor GPBV-installaties;<br>
 46° verordening nr. 1005/2009 : verordening (EG) nr. 1005/2009 van het Europees Parlement en de Raad van 16 september 2009 betreffende de ozonlaag afbrekende stoffen;<br>
@@ -134,6 +135,7 @@ d) MER-deskundige : deskundige voor het opstellen van milieueffectrapporten als 
 e) VR-deskundige : deskundige voor het opstellen van omgevings- en ruimtelijke veiligheidsrapporten als vermeld in titel IV van het decreet Milieubeleid;<br>
 f) airco-energiedeskundige: deskundige voor het uitvoeren van keuringen aan airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 12 kW als vermeld in artikel 5.16.3.3, § 3, eerste lid, 4°, van titel II van het VLAREM;<br>
 g) MER-coördinator: deskundige die het opstellen van milieueffectrapporten als vermeld in titel IV van het decreet Milieubeleid coördineert;<br>
+h) deskundige overstromingsattest: deskundige voor het opstellen van een overstromingsattest als vermeld in artikel 8/2 van het besluit van de Vlaamse Regering van 20 juli 2006 tot vaststelling van nadere regels voor de toepassing van de watertoets, tot aanwijzing van de adviesinstanties en tot vaststelling van nadere regels voor de adviesprocedure bij de watertoets, vermeld in artikel 1.3.1.1 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 2° technici :<br>
 a) technicus vloeibare brandstof als vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale stooktoestellen;<br>
 b) technicus gasvormige brandstof als vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale stooktoestellen;<br>
@@ -253,6 +255,13 @@ De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor de MER-coördina
 2° minstens de graad van master, bachelor of een daarmee gelijkgeschakelde graad hebben behaald;<br>
 3° minstens drie jaar praktische ervaring hebben met het meewerken aan de coördinatie van milieueffectrapporten, verworven binnen vijf jaar voorafgaand aan de erkenningsaanvraag;<br>
 4° met gunstig gevolg een opleiding hebben gevolgd waarin minstens de onderwerpen aan bod zijn gekomen, vermeld in bijlage 9, die bij dit besluit is gevoegd.
+
+### ART 13/3.
+
+De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor de deskundige overstromingsattest, vermeld in artikel 6, 1°, h):<br>
+1° een natuurlijke persoon zijn;<br>
+2° minstens een jaar erkend zijn als keurder en minstens honderd keuringen uitgevoerd hebben ter uitvoering van artikel 12/1 van het besluit van de Vlaamse Regering van 8 april 2011 houdende bepalingen van rechten en plichten van de exploitanten van een openbaar waterdistributienetwerk en hun klanten met betrekking tot de levering van water bestemd voor menselijke consumptie, de uitvoering van de saneringsverplichting voor de niet-aangesloten binneninstallatie en installaties voor tweedecircuitwater in onroerende goederen die niet aangesloten zijn of worden op het openbaar waterdistributienetwerk, en het algemeen waterverkoopreglement;&nbsp;<br>
+3° met gunstig gevolg een opleiding hebben genoten waarin minstens de onderwerpen aan bod zijn gekomen, vermeld in bijlage 25, die bij dit besluit is gevoegd.
 
 ## Onderafdeling 2 Erkenningsvoorwaarden voor technici
 
@@ -805,6 +814,22 @@ De erkende MER-coördinator, vermeld in artikel 6, 1°, g):<br>
 3° de erkende MER-coördinator garandeert een kwaliteitsvolle uitvoering van de werkzaamheden, die ook de objectieve en onafhankelijke uitvoering van de dienstverlening omvat.<br>
 <br>
 De MER-coördinator kan geen gebruik maken van zijn erkenning als de objectieve en onafhankelijke uitvoering van de dienstverlening ten aanzien van de opdrachtgever niet kan worden gewaarborgd. De beoordeling of de objectieve en onafhankelijke uitvoering van een dienstverlening kan worden gewaarborgd, gebeurt door de MER-coördinator volgens de werkwijze, opgenomen in de standaardprocedure, vastgesteld door de minister. Deze standaardprocedure bevat een niet-limitatieve opsomming van de gevallen waarin, tot het bewijs van het tegendeel, wordt vermoed dat de MER-coördinator zich in een situatie van onverenigbaarheid bevindt. In afwijking hiervan kan de MER-coördinator toch gebruik maken van zijn erkenning als hij in het kader van de betrokken dienstverlening toepassing maakt van de beheersmaatregelen, opgenomen in de standaardprocedure.
+
+### ART 39/3.
+
+De erkende deskundige overstromingsattest, vermeld in artikel 6, 1°, h):<br>
+1° volgt bij de uitvoering van de taken de bepalingen van het ministerieel besluit met de richtlijnen voor het actualiseren van de G-score en de P-score, vermeld in artikel 8/2, tweede lid, van het besluit van de Vlaamse Regering van 20 juli 2006 tot vaststelling van nadere regels voor de toepassing van de watertoets, tot aanwijzing van de adviesinstanties en tot vaststelling van nadere regels voor de adviesprocedure bij de watertoets, vermeld in artikel 1.3.1.1 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
+2° beschikt over het noodzakelijke materiaal voor de uitvoering van de taken waarvoor de erkenning is verkregen, dat behoorlijk onderhouden is en voldoet aan alle reglementaire eisen;<br>
+3° beschikt over de nodige vakliteratuur en technische gegevens over de uit te voeren taken met betrekking tot de erkenning;<br>
+4° blijft op de hoogte van de recentste ontwikkelingen met betrekking tot overstromingsbescherming door tweejaarlijks een geattesteerde bijscholing van ten minste twee uur te volgen;<br>
+5° heeft geen rechtstreeks belang in een bedrijf dat apparaten, toestellen of andere middelen aanlevert om gebouwen beter te beschermen tegen overstromingen;<br>
+6° bezorgt na iedere attestering het overstromingsattest aan de eigenaar van het gebouw. Het overstromingsattest bevat het resultaat van de attestering, alsook, indien van toepassing, de bijkomende maatregelen die nodig zijn om een actualisatie van de P-score of G-score te verkrijgen en, in voorkomend geval, de evaluatie van de aanbevelingen die bij de vorige attestering zijn geformuleerd;<br>
+7° mag zijn erkenning niet gebruiken als:<br>
+a) hij, in rechte of in feite, bestuursmandaten opneemt of bestuursfuncties uitoefent bij de opdrachtgever of het bureau dat gelast is met de verkoop van het vastgoed;<br>
+b) de opdrachtgever, zelf of met een tussenpersoon, in rechte of in feite bestuursmandaten opneemt of bestuursfuncties uitoefent bij de erkende persoon of het bureau dat gelast is met de verkoop van het vastgoed;<br>
+c) hij bloed- of aanverwant in de rechte lijn tot en met de derde graad en in de zijlijn tot en met de vierde graad is met de opdrachtgever of het bureau dat gelast is met de verkoop van het vastgoed;<br>
+d) er financiële banden zijn tussen hem en de opdrachtgever of het bureau dat gelast is met de verkoop van het vastgoed;<br>
+e) hij rechtstreeks of onrechtstreeks, geheel of gedeeltelijk, gecontroleerd of beheerd wordt door de opdrachtgever of het bureau dat gelast is met de verkoop van het vastgoed.
 
 ## Onderafdeling 2 Gebruikseisen voor technici
 
@@ -1705,7 +1730,7 @@ De bedragen van die retributie worden vastgesteld in bijlage 18, B, die bij dit 
 
 § 1. De erkenning vervalt van rechtswege op de dag dat de erkenninghouder aan de bevoegde afdeling de stopzetting van het gebruik van de erkenning meedeelt.<br>
 &nbsp;
-<p style="text-align:justify">§1/1. De erkenning als laboratorium als vermeld in artikel 6, 5°, a), voor een deeldomein van een pakket vervalt van rechtswege als het deeldomein niet meer vastgelegd is door de minister.<br>
+<p>§1/1. De erkenning als laboratorium als vermeld in artikel 6, 5°, a), voor een deeldomein van een pakket vervalt van rechtswege als het deeldomein niet meer vastgelegd is door de minister.<br>
 <br>
 § 2. De erkenning van een airco-energiedeskundige als vermeld in artikel 6, 1°, f), of een technicus als&nbsp;vermeld in artikel 6, 2°, a) tot en met d), vervalt ook in een van de volgende gevallen :<br>
 1° als hij de bijscholing niet heeft gevolgd;<br>
@@ -1730,7 +1755,11 @@ Met behoud van de toepassing van hoofdstuk 9 en 13 van dit besluit zijn de bijzo
 <br>
 In het geval, vermeld in het eerste lid, moet de koeltechnicus slagen voor het actualisatie-examen, vermeld in artikel 40/1, 4°, voor de erkenning opnieuw kan worden verleend.<br>
 <br>
-§ 3. In afwijking van paragraaf 2, 2/1 en 2/3 vervalt de erkenning niet van rechtswege als de bevoegde afdeling beslist, op basis van de door de erkende persoon voor te leggen bewijzen, dat hij om redenen van overmacht niet in staat was de bijscholing te volgen of de proef af te leggen. Als de bevoegde afdeling tot die beslissing komt, zal ze de erkende persoon een nieuwe termijn opleggen waarbinnen die de bijscholing moet volgen of met gunstig gevolg de proef moet afleggen, opdat zijn erkenning niet van rechtswege zou vervallen.<br>
+§2/4. De erkenning van een deskundige overstromingsattest als vermeld in artikel 6, 1°, h), vervalt van rechtswege in de volgende gevallen:<br>
+1° als de deskundige de bijscholing niet heeft gevolgd. In dat geval toont de deskundige, voor de erkenning opnieuw kan worden verleend, aan dat hij de bijscholing, vermeld in artikel 39/3, 4°, gevolgd heeft.<br>
+2° als de deskundige niet meer over de erkenning als keurder, vermeld in artikel 13/3, 2°, beschikt.<br>
+<br>
+§ 3. In afwijking van paragraaf 2, 2/1, 2/3 en 2/4, 1° vervalt de erkenning niet van rechtswege als de bevoegde afdeling beslist, op basis van de door de erkende persoon voor te leggen bewijzen, dat hij om redenen van overmacht niet in staat was de bijscholing te volgen of de proef af te leggen. Als de bevoegde afdeling tot die beslissing komt, zal ze de erkende persoon een nieuwe termijn opleggen waarbinnen die de bijscholing moet volgen of met gunstig gevolg de proef moet afleggen, opdat zijn erkenning niet van rechtswege zou vervallen.<br>
 <br>
 § 3/1. De erkenning van een bodemsaneringsdeskundige als vermeld in artikel 6, 6°, vervalt van rechtswege in de volgende gevallen :<br>
 1° als het gaat om een bodemsaneringsdeskundige van type 1 : hij beschikt gedurende een periode van negentig opeenvolgende dagen niet over minstens één persoon met een individuele handtekeningsbevoegdheid als vermeld in artikel 53/4, § 2, eerste lid;<br>
@@ -4619,6 +4648,10 @@ A. Retributie voor de behandeling van de aanvraag tot erkenning<br>
 			<td>125 euro</td>
 		</tr>
 		<tr>
+			<td>- deskundige overstromingsattest&nbsp;</td>
+			<td>500 euro</td>
+		</tr>
+		<tr>
 			<td>milieucoördinatoren en milieuverificateurs</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -4716,6 +4749,10 @@ B. Retributie voor de uitoefening van het toezicht op de erkenning<br>
 		<tr>
 			<td>b) indien erkend als MER-deskundige</td>
 			<td>25 euro</td>
+		</tr>
+		<tr>
+			<td>- deskundige overstromingsattest&nbsp;</td>
+			<td>100 euro</td>
 		</tr>
 		<tr>
 			<td>technici</td>
@@ -5156,3 +5193,16 @@ Bijlage 24. Lijst met minimumgegevens van het certificaat als vermeld in artikel
 7° de voor- en achternaam en de handtekening van de directeur van de keuringsinstelling;<br>
 8° het certificaat- en erkenningsnummer die toegekend worden aan het bedrijf en de aanvangsdatum van de erkenning;<br>
 9° de activiteiten die de houder mag verrichten.
+
+### BIJLAGE 25
+
+Bijlage 25. Onderwerpen van de opleiding voor de deskundige overstromingsattest, vermeld in artikel 13/3, 3°<br>
+<br>
+De opleiding, vermeld in artikel 13/3, 3°, bestaat ten minste uit de volgende onderdelen:<br>
+1° een duidelijke inleiding over de regelgeving, de visie en de doelstelling van het scoringssysteem;&nbsp;<br>
+2° een duidelijke omschrijving van de verschillende types overstromingsbronnen, de bijbehorende kenmerken en gevaren en de manier waarop de modelleringen van die overstromingen zijn opgebouwd;<br>
+3° de manieren waarop overstromingswater een gebouw kan binnendringen en de manier waarop dat onderzocht kan worden;<br>
+4° een overzicht van de wijzigingen die een impact kunnen hebben op de overstromingsscore;<br>
+5° de mogelijkheden om een gebouw beter te beschermen tegen overstromingen zowel met maatregelen die impact hebben op de score als met maatregelen die een betere bescherming bieden maar geen impact hebben op de overstromingsscore;<br>
+6° de wijze waarop een overstromingsattest opgemaakt moet worden;<br>
+7° het uitwerken van minimaal drie cases om de aangereikte theorie te illustreren.
