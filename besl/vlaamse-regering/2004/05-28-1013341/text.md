@@ -4,85 +4,71 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° het decreet: het decreet van 18 juli 2003 betreffende de verblijven en verenigingen die een werking uitoefenen in het kader van "Toerisme Voor Allen";<br />2° Toerisme Vlaanderen: Toerisme Vlaanderen, opgericht bij het decreet van 19 maart 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Toerisme Vlaanderen";<br />3° de administrateur-generaal: het hoofd van het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Toerisme Vlaanderen";<br />4° de minister: de Vlaamse minister, bevoegd voor het Toerisme.
+...
 
 ## HOOFDSTUK II ERKENNINGSPROCEDURE
 
 ### ART. 2.
 
-<P>Om overeenkomstig het decreet als sociaal-toeristisch verblijf erkend te   worden, moet de exploitant of eigenaar de erkenning met een aangetekende brief   of op een wijze als vermeld in artikel 2281 van het Burgerlijk Wetboek bij   Toerisme Vlaanderen aanvragen.<BR><BR>De aanvraag is vergezeld van:<BR>1° een   ingevuld inlichtingenblad, dat door Toerisme Vlaanderen ter beschikking wordt   gesteld;<BR>2° een uittreksel uit het strafregister, bestemd voor een openbaar   bestuur, dat uitgereikt is op naam van de exploitant of, in voorkomend geval,   van de persoon die belast is met het dagelijkse of feitelijke bestuur van het   verblijf.<BR>Dat uittreksel uit het strafregister mag worden vervangen door   eender welk document, uitgereikt door de ervoor bevoegde overheid van de staat   van oorsprong of herkomst van de betrokkene waaruit blijkt dat aan de   voorwaarden van goed zedelijk gedrag is voldaan als de betrokkene :<BR>a) hetzij   onderdaan is van een lidstaat van de Europese Economische Ruimte;<BR>b) hetzij   een staatloze is die bestendig in België verblijft of een onderdaan is van een   staat die aan Belgen gelijkwaardige wederkerigheid toekent;<BR>3° het   brandveiligheidsattest, vermeld in hoofdstuk 6. Zowel het origineel uitgereikte   brandveiligheidsattest als een kopie wordt aanvaard. <BR><BR>Punt 3° is niet van   toepassing voor verblijven die beschikken over een geldende   exploitatievergunning op grond van het decreet van 10 juli 2008 betreffende het   toeristische logies.</P>
+...
 
 ### ART. 3.
 
-De exploitant van het verblijf moet met Toerisme Vlaanderen een   overeenkomst afsluiten die voorziet in een driejaarlijkse vastlegging van het   overnachtingsaanbod dat wordt voorbehouden voor personen met een laag inkomen.   Deze personen moeten personen zijn die via Toerisme Vlaanderen zelf of via een   organisatie voor kansarmen reserveren. Toerisme Vlaanderen maakt aan de   exploitant van het verblijf een lijst over van de organisaties die hiervoor in   aanmerking komen.<BR><BR>In de overeenkomst wordt de maximumprijs van het aanbod   bepaald.<BR><BR>Het overnachtingsaanbod wordt berekend op basis van de   kamercapaciteit of, in het geval van openluchtrecreatieve terreinen, het aantal   verblijfplaatsen, die ter beschikking worden gesteld.<BR><BR>Dit artikel is niet   van toepassing op verblijven die overeenkomstig artikel 9 van&nbsp;dit besluit   erkend zijn als jeugdverblijfcentrum type A.
+...
 
 ### ART. 3bis.
 
-Om als sociaal-toeristisch verblijf erkend te worden of te blijven, verklaart de exploitant of eigenaar zich bereid het verblijf te laten doorlichten op het vlak van toegankelijkheid door een door Toerisme Vlaanderen geselecteerd adviesbureau inzake toegankelijkheid.<br /><br />Deze bepaling is niet van toepassing op verblijven die erkend zijn in het kader van het decreet en die bij de inwerkingtreding van dit besluit al werden doorgelicht op het vlak van toegankelijkheid door een door Toerisme Vlaanderen geselecteerd adviesbureau inzake toegankelijkheid.
+...
 
 ### ART. 4.
 
-De erkenning blijft geldig zolang aan de erkenningscriteria en de bepalingen van het decreet en de uitvoeringsbesluiten ervan wordt voldaan.
+...
 
 ### ART. 5.
 
-De administrateur-generaal beslist over de uitreiking van de erkenning of de weigering van de erkenningsaanvraag.<br /><br />Binnen drie maanden na het indienen van de aanvraag en alle nodige bewijsstukken wordt de aanvrager met een aangetekende brief of op een wijze als vermeld in artikel 2281 van het Burgerlijk Wetboek in kennis gesteld van de beslissing van de administrateur-generaal.
+...
 
 ### ART. 6.
 
-Overeenkomstig artikel 14 van het decreet kan de administrateur-generaal een erkenningsaanvraag weigeren of een erkenning intrekken of schorsen als het verblijf, de exploitant of eigenaar niet voldoet aan de bepalingen van het decreet of de uitvoeringsbesluiten ervan.
+...
 
 ### ART. 7.
 
-Binnen dertig dagen na de kennisgeving van de weigering, intrekking of schorsing, of bij ontstentenis van enig bericht binnen drie maanden na de aanvraag, kan de aanvrager beroep instellen bij de minister.<br /><br />De minister doet uitspraak na het gemotiveerde advies van de administrateur-generaal te hebben ingewonnen.<br /><br />Indien de administrateur-generaal niet binnen een maand na de adviesaanvraag het advies geeft, mag de minister aan deze adviesverplichting voorbijgaan.<br /><br />De minister doet uitspraak binnen drie maanden na ontvangst van het beroep.
+...
 
 ### ART. 8.
 
-De administrateur-generaal kan op basis van het plan een principiële erkenning verlenen of weigeren aan nog te bouwen verblijven of voor de uitbreiding of aanpassing van bestaande verblijven.<br /><br />De principiële erkenning wordt verleend als uit het plan blijkt dat het nog te bouwen verblijf of dat de uitbreiding of aanpassing van het bestaande verblijf zal voldoen aan de erkenningsvoorwaarden, vermeld in dit besluit.<br /><br />In geval van weigering van de principiële erkenning of bij ontstentenis van enig bericht binnen drie maanden na de aanvraag, kan de aanvrager beroep aantekenen bij de minister. De beroepsprocedure en de termijnen, vermeld in artikel 7, zijn van overeenkomstige toepassing.
+...
 
 ## HOOFDSTUK III LABEL JEUGDTOERISME
 
 ### ART. 9.
 
-De administrateur-generaal kan aan een erkend sociaal-toeristisch verblijf   het label jeugdtoerisme toekennen. Erkende sociaal-toeristische verblijven met   het label jeugdtoerisme worden ingedeeld in de categorie jeugdverblijfcentrum of   in de categorie hostel.<BR><BR>Erkende sociaal-toeristische verblijven met het   label jeugdtoerisme worden ingedeeld in de categorie jeugdverblijfcentrum als   :<BR>1° per kalenderjaar minstens 70 % van de overnachtingen in het verblijf   voor rekening is van personen tot en met 30 jaar;<BR>2° het verblijf voldoet aan   de classificatienormen voor jeugdverblijfcentra type A, type B of type   C.<BR><BR>Erkende sociaal-toeristische verblijven met het label jeugdtoerisme   worden ingedeeld in de categorie hostel als :<BR>1° het verblijf de mogelijkheid   biedt aan individuele reizigers om een bed te huren;<BR>2° het verblijf een   afzonderlijke prijscategorie voor individuele reizigers heeft;<BR>3° per   kalenderjaar minstens 50 % van de overnachtingen in het verblijf voor rekening   is van personen tot en met 30 jaar;<BR>4° het verblijf minstens 9 maanden per   kalenderjaar open is;<BR>5° het verblijf voldoet aan de classificatienormen voor   hostels.<BR><BR>Het label jeugdtoerisme blijft geldig zolang aan de   classificatienormen en aan de bepalingen van het decreet en de   uitvoeringsbesluiten ervan wordt voldaan.<BR><BR>De bepalingen van artikelen 5,   6 en 7 zijn van overeenkomstige toepassing op de toekenning, weigering of   schorsing van het label jeugdtoerisme.
+...
 
 ## [HOOFDSTUK IIIbis LABEL TOEGANKELIJKHEID (ing. BVR 18 april 2008, art. 11, I: 8 september 2008)]
 
 ### ART. 9bis.
 
-De administrateur-generaal kan aan een erkend sociaal-toeristisch verblijf het label toegankelijkheid toekennen, als het verblijf voldoet aan de in het labelconcept omschreven toegankelijkheidscriteria.<br /><br />Het label toegankelijkheid blijft geldig zolang aan de in het labelconcept omschreven toegankelijkheidscriteria wordt voldaan.
+...
 
 ## HOOFDSTUK IV FINANCIËLE STEUN
 
 ### ART. 10.
 
-De administrateur-generaal kan aan een sociaal-toeristisch verblijf dat overeenkomstig dit besluit definitief of principieel erkend is in de categorie jeugdverblijfcentrum, financiële steun toekennen.<br>
-<br>
-De aanvraag tot financiële steun wordt met een aangetekend schrijven of op een wijze als vermeld in artikel 2281 van het Burgerlijk Wetboek bij Toerisme Vlaanderen ingediend en moet vergezeld zijn van:<br>
-1° een ingevuld inlichtingenblad, dat door Toerisme Vlaanderen ter beschikking wordt gesteld;<br>
-2° een omschrijving van de exploitatie- en eigenaarsstructuur van het verblijf;<br>
-3° indien de eigenaar of exploitant een rechtspersoon is: een Nederlandstalig exemplaar van de statuten en, voor zover beschikbaar, van de laatste twee balansen;<br>
-4° een financieringsplan waaruit de bestemming van de aangevraagde financiële steun blijkt;<br>
-5° indien er een of meerdere cofinancierders zijn: een lijst van alle cofinancierders en een afschrift van de overeenkomst tussen deze cofinancierders en de aanvrager;<br>
-6° indien de aanvrager overheidssubsidies van een andere instelling dan Toerisme Vlaanderen ontvangt: de vermelding van deze andere subsidiërende overheidsinstelling of overheidsinstellingen en de subsidiebedragen die door deze instellingen worden toegekend;<br>
-6°bis de aanvrager voegt een toegankelijkheidsadvies bij de bouwplannen. De uitzonderingen zijn subsidiedossiers betreffende instandhoudingswerken, werken aan technische installaties, werken aan niet-publieksgerichte ruimtes en niet-ingrijpende werken waarvoor Toerisme Vlaanderen zelf advies kan verstrekken;<br>
-7° als de aanvraag voor financiële steun betrekking heeft op vergunningsplichtige werken : een omgevingsvergunning voor stedenbouwkundige handelingen. In afwachting van het verkrijgen van die vergunning kan een stedenbouwkundig attest ingediend worden om het subsidiedossier te vervolledigen;<br>
-<br>
-8° als de aanvraag voor financiële steun betrekking heeft op animatie : een precieze omschrijving van de animatie en een precisering van de doelgroep, vermeld in artikel 3 van het decreet, waarop de animatie betrekking heeft;<br>
-<br>
-9° als de aanvraag voor financiële steun betrekking heeft op proef- of themagerichte projecten : een precieze omschrijving van het project en een precisering van de doelgroep, vermeld in artikel 3 van het decreet, waarop het project betrekking heeft.
+...
 
 ### ART. 11.
 
-De aanvrager bezorgt per kalenderjaar, uiterlijk op 30 juni, een financieel verslag aan Toerisme Vlaanderen. Het financieel verslag bevat de verantwoording van de besteding van de middelen. Voor natuurlijke personen stelt Toerisme Vlaanderen een formulier ter beschikking waarin de besteding van de middelen wordt verantwoord. Als het toegekende subsidiebedrag lager is dan 2000 euro, vervalt de verplichting om een financieel verslag in te dienen. Toerisme Vlaanderen blijft inzagerecht in de boekhouding behouden.
+...
 
 ### ART. 12.
 
-Toerisme Vlaanderen beschikt over inzagerecht in de begroting van de aanvrager.
+...
 
 ### ART. 13.
 
-De begunstigde moet kunnen aantonen dat de aankopen, werken en uitbesteding van diensten aan private personen plaats hadden tegen de voordeligste voorwaarden en na beroep te hebben gedaan op de vrije mededinging.
+...
 
 ### ART. 14.
 
@@ -96,130 +82,96 @@ De begunstigde moet kunnen aantonen dat de aankopen, werken en uitbesteding van 
 
 ### ART. 16.
 
-Toerisme Vlaanderen kan een oproep tot indiening van aanvragen tot erkenning of aanvragen voor financiële steun doen, en de ontvankelijkheid van de aanvraag afhankelijk stellen van de indiening van de aanvraag binnen een bepaalde termijn na de oproep.<br /><br />Toerisme Vlaanderen bepaalt in de oproep welke soort proefprojecten of themagerichte projecten in aanmerking komt voor financiële steun.
+...
 
 ## HOOFDSTUK VI BRANDVEILIGHEIDSNORMEN
 
 ### ART. 17.
 
-Om als sociaal-toeristisch verblijf erkend te worden of te blijven, moet de eigenaar of exploitant over een brandveiligheidsattest beschikken.
+...
 
 ### ART. 18.
 
-Het brandveiligheidsattest wordt met een aangetekende brief of op een wijze als vermeld in artikel 2281 van het Burgerlijk Wetboek aangevraagd bij de burgemeester van de gemeente waar het verblijf ligt. <br /><br />De burgemeester beslist over de aanvraag van het attest binnen drie maanden na de ontvangst van de aanvraag. De burgemeester brengt de toekenning of weigering ter kennis van de aanvrager door hem het model van toekenning of weigering van attest, opgenomen in bijlage II, te bezorgen met een aangetekende brief of op een wijze als vermeld in artikel 2281 van het Burgerlijk Wetboek. <br /><br />De exploitant of eigenaar van een verblijf in het Brusselse Hoofdstedelijke Gewest voegt bij die aanvraag een positief advies voor brandpreventie bezorgd door de daartoe bevoegde overheid.
+...
 
 ### ART. 19.
 
-Onverminderd de algemene bevoegdheid van de burgemeester om passende maatregelen te nemen om brand te voorkomen, wordt de inachtname van de brandveiligheid vastgesteld aan de hand van de brandveiligheidsnormen opgenomen in bijlage één van dit besluit.
+...
 
 ### ART. 20.
 
-De burgemeester kan, na advies van de commandant van de territoriaal bevoegde brandweerdienst van de gemeente waar het verblijf gelegen is, het attest intrekken wanneer het verblijf, onverminderd de door minister toegestane afwijkingen, niet langer aan de in bijlage één van dit besluit bepaalde brandveiligheidsnormen voldoet en dit onverminderd de bevoegdheid van de burgemeester om het attest in te trekken in het kader van zijn algemene bevoegdheid om passende maatregelen te nemen om brand te voorkomen.
+...
 
 ### ART. 21.
 
-Binnen dertig dagen na de kennisgeving van de weigering of intrekking, of bij ontstentenis van enig bericht binnen drie maanden na de aanvraag, kan de aanvrager beroep instellen bij de minister.<br /><br />De minister doet uitspraak na het gemotiveerd advies van de technische commissie brandveiligheid te hebben ingewonnen.<br /><br />De minister bepaalt de termijn waarbinnen de technische commissie brandveiligheid haar advies moet verlenen.<br /><br />De minister doet uitspraak binnen 3 maanden na ontvangst van het beroep.
+...
 
 ### ART. 22.
 
-De minister kan op vraag van de erkenningsaanvrager, na gemotiveerd advies   van de technische commissie brandveiligheid, afwijkingen toestaan op de in   bijlage één van dit besluit bepaalde brandveiligheidsnormen. Er kunnen geen   afwijkingen toegestaan worden voor nog te bouwen verblijven of voor   uitbreidingswerken waarvoor een&nbsp;omgevingsvergunning voor stedenbouwkundige   handelingen vereist is.
+...
 
 ### ART. 23.
 
-Het brandveiligheidsattest vervalt vijf jaar na de toekenning van het attest. De exploitant of eigenaar moet tijdig een nieuw attest kunnen voorleggen.<br />Aan de brandveiligheidsnormen, vermeld in bijlage I, moet voldaan zijn zodra een nieuw brandveiligheidsattest wordt aangevraagd.<br /><br />Bij de toekenning van dat nieuwe attest blijven de in het kader van dit besluit toegestane afwijkingen van de brandveiligheidsnormen geldig.
+...
 
 ## HOOFDSTUK VII [HYGIËNE-, COMFORT- , VEILIGHEIDS_ EN CLASSIFICATIENORMEN (verv. BVR 18 april 2008, art. 20, I: 8 september 2008)]
 
 ### ART. 24.
 
-Om als sociaal-toeristisch verblijf erkend te worden, moet het verblijf voldoen aan de hygiëne-, comfort- en veiligheidsnormen, vermeld in bijlage III.<br /><br />Erkende sociaal-toeristische verblijven die voldoen aan de per categorie bepaalde classificatienormen, vermeld in bijlage III, krijgen het label jeugdtoerisme.<br /><br />De inachtneming van die normen wordt vastgesteld door Toerisme Vlaanderen.
+...
 
 ### ART. 25.
 
-De minister kan op verzoek van de erkenningsaanvrager, na gemotiveerd   advies van de administrateur-generaal, afwijkingen toestaan van de hygiëne-,   comfort-, veiligheids- en classificatienormen, vermeld in bijlage III. Er kunnen   geen afwijkingen toegestaan worden voor nog te bouwen verblijven of voor   uitbreidingswerken waarvoor een&nbsp;omgevingsvergunning voor stedenbouwkundige   handelingen vereist is.
+...
 
 ### ART. 26.
 
-<P>Dit hoofdstuk is niet van toepassing voor verblijven die beschikken over een   geldende exploitatievergunning op grond van het decreet van 10 juli 2008   betreffende het toeristische logies.</P>
+...
 
 ## HOOFDSTUK VIII TECHNISCHE COMMISSIE BRANDVEILIGHEID
 
 ### ART. 27.
 
-<p>§ 1. Voor de toepassing van dit besluit wordt een technische commissie brandveiligheid opgericht, die als volgt wordt samengesteld :<br>
-1° een voorzitter, die een personeelslid is van een Vlaamse overheidsdienst. Als de voorzitter verhinderd is, kan hij een plaatsvervanger aanduiden die aan dezelfde voorwaarden voldoet;<br>
-2° vier deskundigen voor de "Toerisme voor Allen"-verblijven, van wie twee deskundigen namens de jeugdverblijfsector en twee deskundigen namens de volwassenenverblijfsector;<br>
-3° vier brandveiligheiddeskundigen die actief deel uitmaken van een openbare brandweerdienst.<br>
-4° voor elke deskundige voor de « Toerisme voor Allen »-verblijven benoemt de minister een plaatsvervangend lid dat aan dezelfde voorwaarden voldoet.</p>
-
-<p>Bij hun infunctietreding verbinden de deskundigen, vermeld in punten 2° tot en met 4°, zich er schriftelijk toe om bij de uitoefening van hun mandaat altijd onafhankelijk en onpartijdig op te treden, overeenkomstig het onderstaande model :<br>
-« Ik verklaar dat ik bij de uitoefening van mijn mandaat in de technische commissie brandveiligheid zal optreden als onafhankelijke en onpartijdige deskundige.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (handtekening)&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(voornaam en achternaam) ».<br>
-<br>
-§ 2.Toerisme Vlaanderen bezorgt voor de samenstelling van de technische commissie brandveiligheid een indicatieve lijst met kandidaten aan de minister. De minister kan een of meer kandidaten aan die lijst toevoegen.<br>
-<br>
-§ 3. De minister benoemt de leden van de technische commissie brandveiligheid.<br>
-<br>
-§ 4. Een vertegenwoordiger van Toerisme Vlaanderen die wordt aangewezen door de leidend ambtenaar van Toerisme Vlaanderen, en een vertegenwoordiger van het Departement Cultuur, Jeugd en Media van het Vlaams Ministerie van Cultuur, Jeugd, Sport en Media, wonen met raadgevende stem de vergaderingen van de technische commissie brandveiligheid bij. Als die vertegenwoordigers verhinderd zijn, kunnen ze een plaatsvervanger aanwijzen.<br>
-<br>
-§ 5. Het secretariaat van de technische commissie brandveiligheid wordt waargenomen door Toerisme Vlaanderen.<br>
-<br>
-§ 6. De voorzitter en de deskundigen van de technische commissie brandveiligheid zijn ertoe gemachtigd om in onderling overleg buitenstaanders als deskundigen uit te nodigen op de vergaderingen van de commissie. Die buitenstaanders hebben geen stemrecht.<br>
-<br>
-§ 7. De zetelende deskundigen, vermeld in paragraaf 1, eerste lid, 2° en 4°, kunnen aanspraak maken op de volgende vergoedingen :<br>
-1° een geïndexeerd presentiegeld van 50 euro per bijgewoonde vergadering om vergaderingen van de technische commissie brandveiligheid bij te wonen;<br>
-2° een reisvergoeding voor de reiskosten die ze gemaakt hebben om een vergadering van de technische commissie brandveiligheid bij te wonen overeenkomstig de kilometervergoeding voor dienstreizen die toegekend wordt aan de personeelsleden van de diensten van de Vlaamse overheid. De vergoeding wordt berekend op basis van de afstand tussen de woonplaats en de plaats van de vergadering;<br>
-3° een reisvergoeding voor de reiskosten die ze gemaakt hebben om een plaatsbezoek uit te voeren met een ander vervoermiddel dan hun dienstwagen overeenkomstig de kilometervergoeding voor dienstreizen die toegekend wordt aan de personeelsleden van de diensten van de Vlaamse overheid;<br>
-4° een geïndexeerde vergoeding van 25 euro voor de plaatsbezoeken die ze uitgevoerd hebben per afwijkings- en beroepsdossier.<br>
-<br>
-De brandveiligheidsdeskundigen, vermeld in paragraaf 1, 3°, kunnen aanspraak maken op de volgende vergoedingen :<br>
-1° een geïndexeerd presentiegeld van 50 euro per bijgewoonde vergadering, om vergaderingen van de technische commissie brandveiligheid bij te wonen;<br>
-2° een reisvergoeding voor de reiskosten die ze gemaakt hebben om een vergadering van de technische commissie brandveiligheid bij te wonen overeenkomstig de kilometervergoeding voor dienstreizen die toegekend wordt aan de personeelsleden van de diensten van de Vlaamse overheid. De vergoeding wordt berekend op basis van de afstand tussen de woonplaats en de plaats van de vergadering;<br>
-3° een reisvergoeding voor de reiskosten die ze gemaakt hebben om een plaatsbezoek uit te voeren met een ander vervoermiddel dan hun dienstwagen overeenkomstig de kilometervergoeding voor dienstreizen die toegekend wordt aan de personeelsleden van de diensten van de Vlaamse overheid;<br>
-4° een geïndexeerde vergoeding van 100 euro voor de plaatsbezoeken die ze uitgevoerd hebben per afwijkings- en beroepsdossier.<br>
-<br>
-De vergoedingen, vermeld in de vorige leden, zijn gekoppeld aan het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen. De vergoedingen worden telkens op 1 januari van het jaar aangepast volgens de formule :<br>
-&nbsp;&nbsp;&nbsp; vergoeding x spilindex 1/01/jaar/basisindex 1/01/2010</p>
+...
 
 ### ART. 27bis.
 
-§ 1. De voorzitter en de deskundigen van de technische commissie brandveiligheid hebben een mandaat van vier jaar, dat begint te lopen op de datum van hun benoemingsbesluit.<br /><br />§ 2. De minister kan :<br />1° op verzoek van een lid een einde maken aan het mandaat van dat lid;<br />2° op verzoek van de technische commissie brandveiligheid ambtshalve het mandaat van een lid beëindigen als de mandaathouder :<br />a) driemaal na elkaar zonder voorafgaande kennisgeving de vergadering van de technische commissie brandveiligheid niet bijwoont;<br />b) activiteiten verricht of functies vervult die onverenigbaar zijn met het mandaat of die een strijdigheid van belangen tot gevolg hebben.<br /><br />§ 3. Als een mandaat van een lid vacant wordt voor het verstreken is, voorziet de minister in de vervanging van de mandaathouder binnen een periode van drie maanden. De vervanger wordt benoemd voor de overblijvende duur van het mandaat. Zolang de vervanging niet heeft plaatsgevonden, vergadert de technische commissie brandveiligheid, in afwachting van de nieuwe benoeming, op geldige wijze.
+...
 
 ### ART. 27ter.
 
-§ 1.&nbsp;&nbsp;De technische commissie brandveiligheid vergadert alleen   op geldige wijze als minstens de voorzitter of zijn plaatsvervanger, twee   benoemde brandveiligheidsdeskundigen, en twee benoemde vertegenwoordigers namens   de « Toerisme voor Allen »-verblijven of hun plaatsvervangers, waarvan ten   minste een vertegenwoordiger van de sector waarop het uit te brengen advies   betrekking heeft, aanwezig zijn. De adviezen worden uitgebracht door de   aanwezige deskundigen, vermeld in artikel 27, § 1, 2°, 3° en 4°. <BR><BR>De   aanwezige brandveiligheidsdeskundigen, vermeld in artikel 27, § 1, 3°, en de   aanwezige vertegenwoordigers van « Toerisme voor Allen »-verblijven, vermeld in   artikel 27, § 1, 2° en 4°, hebben ieder de helft van de stemmen. Naar rato van   het aantal aangewezen leden wordt de weging van de stemmen per deskundige   bepaald.<BR><BR>De adviezen van de technische commissie brandveiligheid worden   bij meerderheid van stemmen uitgebracht. Bij staking van stemmen beslist de   voorzitter over het advies. <BR><BR>§ 2. Eenieder die partij is in een zaak die   wordt voorgelegd aan de technische commissie brandveiligheid heeft recht van   wraking in de gevallen, vermeld in artikel 828 van het Gerechtelijk   Wetboek.
+...
 
 ### ART. 27quater.
 
-Binnen zes maanden na haar installatie vraagt de technische commissie brandveiligheid aan de minister de goedkeuring van een ontwerp van huishoudelijk reglement tot nadere regeling van de uitoefening van haar werking.
+...
 
 ## HOOFDSTUK IX TOEZICHT
 
 ### ART. 28.
 
-Toerisme Vlaanderen kan ter plaatse of op stukken controle uitoefenen op de toepassing van de bepalingen van dit besluit, met inbegrip van het onderzoek van de aanvragen en de aanwending van de financiële steun.<br /><br />De aanvragers en begunstigden bezorgen op vraag van Toerisme Vlaanderen een afschrift van alle documenten die nodig zijn voor dit toezicht.
+...
 
 ## HOOFDSTUK X SLOTBEPALINGEN
 
 ### ART. 29.
 
-De minister bevoegd voor het toerisme is belast met de uitvoering van dit besluit
+...
 
 ## Bijlage I [Brandveiligheidsnormen (verv. BVR 18 april 2008, art. 23, I: 8 september 2008)]
 
 ### BIJLAGE I.
 
-0.1. Doel van de bepalingen.<br />Deze bepalingen zijn van toepassing op de verblijfcentra die een werking uitoefenen in het kader van Toerisme voor Allen en dienen om : <br />a) het ontstaan van brand te voorkomen;<br />b) de veiligheid van personen te verzekeren;<br />c) de interventie van de brandweer te vergemakkelijken.<br /><br />0.2. Indeling van de inrichtingen.<br />Volgens de hoogte zijn drie categorieën van inrichtingen te onderscheiden :<br />a) categorie 1 : de lage gebouwen, dit wil zeggen gebouwen die lager zijn dan 10 meter;<br />b) categorie 2 : de middelhoge gebouwen, dit wil zeggen gebouwen waarvan de hoogte gelijk is aan of begrepen is tussen 10 meter en 25 meter; <br />c) categorie 3 : de hoge gebouwen, dit wil zeggen gebouwen die hoger zijn dan 25 meter.<br /><br />De hoogte van een gebouw is conventioneel de afstand tussen het afgewerkte vloerpeil van de hoogste bouwlaag en het laagste peil van de door de brandweerwagens bruikbare wegen rond het gebouw. Het dak met uitsluitend technische lokalen wordt bij die hoogtemeting niet meegerekend.<br /><br />HOOFDSTUK 1. - Inplanting en toegangswegen<br /><br />1.1. Inplanting.<br /><br />Het gebouw moet van de nevenliggende constructies gescheiden worden door wanden die gebouwd zijn in metselwerk of in beton, of door wanden met een Rf 1/2 h voor categorie 1 en door wanden met een Rf van 1 h voor categorie 2 en 3. Eventuele doorgangen naar nevenliggende constructies zijn voor categorie 2 en 3 voorzien van zelfsluitende of bij brand zelfsluitende deuren met een Rf 1/2 h. Als aan dat voorschrift niet is voldaan voor categorie 1, dan moeten autonome branddetectoren worden geplaatst en moet voor categorie 2 en 3 in een algemene automatische branddetectie worden voorzien.<br /><br />1.2. Toegangswegen. <br /><br />Het gebouw is permanent toegankelijk voor de brandweervoertuigen. In de nabijheid van de inrichting kan het materiaal voor brandbestrijding en redding gemakkelijk opgesteld en bediend worden. <br /><br />HOOFDSTUK 2. - Bouwelementen<br /><br />2.1. Constructieve elementen.<br /><br />De constructieve elementen die de stabiliteit van het gebouw verzekeren, zoals kolommen, dragende wanden, hoofdbalken en vloeren, zijn in metselwerk of beton of hebben een Rf 1/2 h voor categorie 1 en een Rf 1 h voor categorie 2 en 3. Als aan dat voorschrift niet is voldaan kunnen voor categorie 1 autonome branddetectoren worden geplaatst en kan voor categorie 2 en 3 in een algemene automatische branddetectie worden voorzien.<br /><br />2.2. Valse plafonds en binnenwanden.<br /><br />De valse plafonds en binnenwanden van de inrichtingen hebben respectievelijk een stabiliteit die bescherming biedt tegen brand en een brandweerstand van Rf 1/2 h.<br /><br />Als aan dat voorschrift niet is voldaan kunnen voor categorie 1 autonome branddetectoren worden geplaatst en kan voor categorie 2 en 3 in een algemene automatische branddetectie worden voorzien.<br /><br />HOOFDSTUK 3. - Evacuatie<br /><br />3.1. De vluchtwegen worden oordeelkundig verdeeld over het gebouw en moeten een snelle en gemakkelijke ontruiming van personen toelaten. Elke bouwlaag heeft minstens twee vluchtwegen die onafhankelijk van elkaar uitkomen op een straat of vrije ruimte die voldoende groot is om zich van het gebouw te kunnen verwijderen en het snel en veilig te kunnen ontruimen. De twee vluchtwegen moeten vanaf elk punt in het gebouw vlug en vlot bereikbaar zijn.<br /><br />3.2. De plaats van elke uitgang en nooduitgang, evenals de richting van de wegen, uitgangswegen en trappen die naar de uitgangen leiden, zijn aangeduid door de overeenkomstig de geldende wetten en reglementen omschreven reddingstekens.<br /><br />3.3. De deuren die deel uitmaken van de vluchtweg, gaan voor zover mogelijk open in de vluchtrichting. Nog te bouwen verblijven worden in ieder geval zo gebouwd dat de deuren die deel uitmaken van de vluchtweg, opengaan in de vluchtrichting.<br /><br />3.4. Vluchtmogelijkheden.<br /><br />3.4.1. Voor de inrichtingen van categorie 1 die alleen bestaan uit een gelijkvloerse verdieping, bestaat de eerste vluchtmogelijkheid in een vluchtweg die rechtstreeks op straat of op een vrije ruimte komt en is er een tweede vluchtweg vanuit de kamers via een opendraaiend of schuivend raam. Voor inrichtingen van categorie 1 met meerdere bouwlagen bestaat de eerste vluchtmogelijkheid in een binnentrap en bestaat de tweede vluchtmogelijkheid in :<br />a) een tweede binnentrap;<br />b) een buitentrap;<br />c) een buitenladder;<br />d) een glijbaan;<br />e) een opendraaiend venster, als de kamervloer zich lager bevindt dan 3 meter boven de begane grond;<br />f) een gevelopening die bereikbaar is voor de ladders van de brandweerdienst, hetzij rechtstreeks, hetzij via een terras. Indien nodig kan een toegankelijkheidstest van de voertuigen van de brandweerdienst vooraf uitgevoerd worden om te oordelen of die optie aanvaardbaar is.<br /><br />3.4.2. Voor de inrichtingen van categorie 2 en 3 bestaat de eerste vluchtmogelijkheid in een binnentrap en bestaat de tweede vluchtmogelijkheid in :<br />a) een tweede binnentrap;<br />b) een glijbaan;<br />c) een buitentrap;<br />d) een buitenladder.<br /><br />3.5. De trappen en ladders van de vluchtwegen zijn gemakkelijk toegankelijk en monden uit in een plaats waar de gebruikers zich gemakkelijk in veiligheid kunnen stellen. Trappen hebben minstens één stevige leuning en buitenladders zijn stevig bevestigd.<br /><br />3.6. Elke binnentrap van een vluchtweg in een inrichting van categorie 2 en 3 wordt ommuurd. Voor de inrichtingen van categorie 2 mogen de muren en de toegangsdeuren van de kamers per bouwlaag de ommuring vormen.<br /><br />3.7. De trappen van de vluchtwegen van en naar de slaapruimtes zijn minstens 0,8 meter breed. De buitentrappen en buitenladders van de vluchtwegen van en naar de slaapruimtes zijn minstens 0,6 meter breed.<br /><br />HOOFDSTUK 4. - Vaste bekleding en vaste wandversiering<br /><br />4.1. Bekleding en wandversiering moeten van die aard zijn dat ze niet bijdragen tot brandvoortplanting en rookontwikkeling.<br /><br />4.2. Voor de minimumeisen waaraan de bekleding en de wandversiering bij vernieuwing moeten voldoen, kunnen de volgende attesten aanvaard worden :<br />a) voor de vloerbekleding : klasse M 3 (gemiddeld ontvlambaar ) en klasse 3 (matige vlamuitbreiding) of klasse A3;<br />b) voor de wandbekleding : klasse M 2 (moeilijk ontvlambaar) of klasse 2 (trage vlamuitbreiding) of klasse A2;<br />c) voor de plafondbekleding : klasse M 1 (niet ontvlambaar) of klasse 1 (zeer trage vlamuitbreiding) of klasse A1.<br /><br />HOOFDSTUK 5. - Verwarmings- en kooktoestellen, opslagplaatsen voor brandstof<br /><br />5.1. Algemene bepalingen.<br /><br />5.1.1. Verwarmings- en kooktoestellen moeten beantwoorden aan de algemeen geldende voorschriften en normen. Ze zijn geplaatst volgens de regels van een goed vakmanschap en verkeren in goede staat van werking en onderhoud.<br /><br />5.1.2. Een volledige en regelmatige afvoer van de verbrandingsgassen moet verzekerd zijn.<br /><br />5.1.3. Verwarmingstoestellen, kooktoestellen en maaltijdverwarmers zijn ver genoeg verwijderd of geïsoleerd van alle ontvlambare materialen.<br /><br />5.2. Verwarmingstoestellen.<br /><br />5.2.1. De verwarmingstoestellen moeten zodanig opgevat en opgesteld zijn dat ze voldoende veiligheidswaarborgen bieden, rekening houdend met de plaatselijke omstandigheden.<br /><br />5.2.2. De verwarmingstoestellen moeten gebruiksklaar worden gehouden, verbonden zijn met een goed trekkende schoorsteen en zo zijn gemaakt dat een volledige en regelmatige afvoer van de verbrandingsgassen verzekerd is.<br /><br />5.2.3. De schoorstenen en rookgangen van de verwarmingstoestellen moeten gebouwd zijn uit onbrandbare materialen en behoorlijk onderhouden worden.<br /><br />5.2.4. De warmtegeneratoren, de schoorstenen en de rookgangen moeten op een voldoende afstand van brandbare stoffen en materialen opgesteld zijn of er zodanig van afgezonderd zijn dat brandgevaar voorkomen wordt.<br /><br />5.2.5. Verplaatsbare verwarmingstoestellen zijn verboden.<br /><br />5.3. Stookplaatsen en brandstofopslagplaatsen.<br /><br />5.3.1. Stookplaatsen zijn goed verlucht en hebben een goede rookgasafvoer met een schoorsteen die goed geïsoleerd is. Als er wordt gebruikgemaakt van vloeibare of gasvormige brandstoffen, moet elke verbinding tussen de stookplaats en het gebouw en tussen de stookplaats en de brandstofopslagplaats afgesloten zijn met wanden met een Rf van minstens 1/2 h en een deur met een Rf van minstens 1/2 h. De in dat voorschrift vermelde deuren sluiten automatisch of worden steeds vergrendeld. Het is verboden ze open te houden.<br /><br />5.3.2. De buitenleidingen van de brandstoftoevoerleidingen zijn steeds in metaal. Als het gebouw een algemene gastoevoerleiding heeft, dan moet daarop minstens één handbediende afsluitkraan aangebracht zijn. Dat wordt geïnstalleerd bij het begin van de leiding in het gebouw en op een behoorlijk aangeduide en goed bereikbare plaats.<br /><br />5.3.3. Elke opslagplaats van vloeibare brandstoffen of vloeibare petroleumgassen bevindt zich buiten de lokalen die toegankelijk zijn voor de gasten. Er wordt niet gekookt in de opslagplaats van de vloeibare brandstoffen of vloeibare petroleumgassen.<br /><br />5.3.4. In de kelder en in elke andere ruimte waarvan de bodem of vloer aan alle zijden lager is dan de omringende bodem van het gebouw, mag geen verplaatsbare opslagplaats voor vloeibaar gemaakte petroleumgassen aanwezig zijn.<br /><br />5.3.5. Gasflessen die niet in gebruik zijn of waarvan verondersteld wordt dat ze leeg zijn, moeten buiten staan en afgeschermd zijn tegen zonnestraling, omvallen en spelende kinderen.<br /><br />5.3.6. Gasflessen zijn steeds afgeschermd tegen zonnestraling, omvallen en spelende kinderen.<br /><br />5.3.7. De schoorstenen en de rookgasafvoer moeten gebouwd zijn met onbrandbare materialen en moeten moeten behoorlijk onderhouden zijn.<br /><br />HOOFDSTUK 6. - De slaapruimtes<br /><br />6.1. Elke slaapruimte bevat minstens één autonome rookdetector. Deze bepaling geldt niet voor de inrichtingen die al met een algemene automatische branddetectie zijn uitgerust.<br /><br />6.2. Elke slaapruimte heeft een vluchtweg met een minimale breedte van 0,8 meter.<br /><br />HOOFDSTUK 7. - Veiligheidsverlichting<br /><br />In de gemeenschappelijke lokalen en de vluchtwegen is er een degelijke veiligheidsverlichting die, bij het uitvallen van de normale verlichting, binnen de 30 seconden in werking treedt en minstens één uur in werking blijft.<br /><br />HOOFDSTUK 8. - Brandbestrijdingsmiddelen en autonome branddetectoren<br /><br />8.1. Per capaciteit van vijftig personen is er minstens één gekeurde ABC-brandblusser van 6 kg, met minstens twee gekeurde ABC-brandblussers van 6 kg per gebouw. Die brandblussers zijn doelmatig gesignaleerd, gemakkelijk bereikbaar, goed onderhouden en oordeelkundig verdeeld over het gebouw.<br /><br />8.2. Als autonome branddetectoren worden voorgeschreven, worden die geplaatst op alle verdiepingen, in alle lokalen en aan de evacuatiewegen.<br /><br />HOOFDSTUK 9. - Onderhoud en controle<br /><br />9.1. De exploitant of eigenaar voldoet aan en vervult al de verplichtingen die voortvloeien uit de geldende wetten en voorschriften voor onderhoud, controle en keuring van de uitrusting in het gebouw in het algemeen en de elektrische installaties, de kook- en verwarmingstoestellen en brandstofopslagplaatsen in het bijzonder.<br /><br />9.2. De afvoerkanalen voor rook- en verbrandingsgassen worden altijd in goede staat gehouden.<br /><br />9.3. Filters en kokers van dampkappen worden goed onderhouden.<br /><br />9.4. De brandbestrijdingstoestellen, alsmede de autonome branddetectoren en de algemene automatische branddetectie, worden goed onderhouden.<br /><br />9.5. Brandblusapparaten worden vervangen voor de vervaldatum bereikt is.
+...
 
 ## Bijlage II. Toekenning of weigering van een brandveiligheidsattest voor een sociaal-toeristisch verblijf
 
 ### BIJLAGE II.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2008/08/29_2.pdf#page=101" title=" bijlage II" target="_blank" class="pdf">bijlage II</a>
+...
 
 ## Bijlage III. [Hygiëne-,comfort-, veiligheids en classificatienormen (verv. BVR 18 april 2008, art. 25, I: 8 september 2008)]
 
 ### BIJLAGE III.
 
-Alle verblijven die erkend zijn in het kader van het decreet moeten voldoen aan de in dit besluit bepaalde hygiëne-, comfort- en veiligheidsnormen.<br /><br />Alle verblijven met het label jeugdtoerisme die erkend zijn in het kader van het decreet moeten voldoen aan de classificatienormen voor jeugdverblijfcentra type A, type B of type C of aan de classificatienormen voor hostels.<br /><br />§ 1. Alle in het kader van dit decreet erkende verblijven moeten voldoen aan de volgende hygiëne-, comfort- en veiligheidsnormen :<br />1° in de gebouwen is voorzien van afsluitbare en reinigbare vuilnisbakken. Buiten de gebouwen wordt een plaats voorbehouden voor volle vuilnisbakken en het dagelijkse huisvuil;<br />2° als er matrassen zijn dan hebben ze afneembare beschermhoezen die gewassen kunnen worden;<br />3° in de kookruimte is er stromend water. Als ander water gebruikt wordt dan dat van het openbare waterleidingsnet, wordt het drinkwater ieder jaar op initiatief van de exploitant of eigenaar ontleed en goed bevonden door een door het Instituut voor Hygiëne en Epidemiologie erkend ontleedcentrum of door de provinciale gezondheidsinspectie. Het attest van de ontleding ligt ter inzage van de gebruiker;<br />4° er is minstens één toilet per vijftien personen. De toiletten zijn overdekt, duidelijk van elkaar afgescheiden, verluchtbaar, hygiënisch, verlicht en beschikken voortdurend over stromend water; <br />5° het gebouw is goed verluchtbaar en steeds proper en goed onderhouden; <br />6° in elke ruimte is er voldoende verlichting, aangesloten op het elektriciteitsnet;<br />7° er zijn voldoende tafels en voldoende stoelen of banken in verhouding tot het aantal mogelijke gebruikers;<br />8° in elke ruimte met slaapgelegenheid valt er rechtstreeks daglicht binnen. Elke ruimte met slaapgelegenheid staat ook in rechtstreekse verbinding met de buitenlucht;<br />9° er is minstens één aparte ruimte om zich te wassen. In of aan het verblijf is er per vijftien personen minstens één kraan met stromend water dat bestemd is voor sanitaire doeleinden;<br />10° elke slaapruimte heeft een minimaal volume van 4 m3 per persoon;<br />11° stapelbedden zijn bovenaan voorzien van een randbeveiliging. Als meer dan twee stapelbedden met de lange zijden tegen elkaar geplaatst zijn, beschikt elk stapelbed over een ladder aan de korte zijde van het bed;<br />12° ladders, vastgemaakt aan of geplaatst tegen stapelbedden, moeten altijd zo geïnstalleerd zijn dat de evacuatie van de personen, zowel uit de onderste als uit de bovenliggende bedden, niet gehinderd wordt;<br />13° in de slaapruimtes is steeds in voldoende ruimte voorzien om bagage te plaatsen zodat de vluchtwegen en de weg naar de vluchtwegen niet door bagage versperd wordt.<br /><br />§ 2. Jeugdverblijfcentra type A als vermeld in artikel 9, moeten niet alleen voldoen aan de hygiëne-, comfort- en veiligheidsnormen, vermeld in § 1, maar ook aan de volgende classificatienormen : <br />1° het centrum beschikt over een huishoudelijk reglement dat aan de gebruikers overhandigd wordt of dat op een duidelijk zichtbare plaats kenbaar wordt gemaakt aan de gebruikers;<br />2° een verantwoordelijke van het centrum is bekend en steeds bereikbaar voor de gebruikers;<br />3° als een vereniging meerdere centra uitbaat, wordt er een exploitatierekening gemaakt per centrum. Voor centra op hetzelfde domein volstaat één exploitatierekening.<br /><br />§ 3. Jeugdverblijfcentra type B als vermeld in artikel 9, moeten niet alleen voldoen aan de hygiëne-, comfort- en veiligheidsnormen, vermeld in § 1, maar ook aan classificatienormen van jeugdverblijfcentra type A en aan de volgende classificatienormen :<br />1° de slaapruimten zijn voorzien van bedden of ledikanten, matrassen en matrasbeschermers voor alle gebruikers;<br />2° er is een aparte ingerichte keuken, een gootsteen en een koele eetwarenberging of koelkast;<br />3° in jeugdverblijfcentra met een capaciteit tot twintig personen is er minstens één douche. Vanaf een capaciteit van eenentwintig personen zijn er minstens twee gescheiden douches.<br /><br />§ 4. Jeugdverblijfcentra type C als vermeld in artikel 9, moeten niet alleen voldoen aan de hygiëne-, comfort- en veiligheidsnormen, vermeld in § 1, maar ook aan classificatienormen van jeugdverblijfcentra type A en type B en aan de volgende classificatienormen :<br />1° de slaapruimten zijn ingericht met bedden of ledikanten, matrassen en matrasbeschermers, hoofdkussens en dekens voor alle gebruikers. Per matras wordt minstens in één beschermhoes, één hoofdkussen en één deken voorzien;<br />2° het centrum beschikt over een keuken voor de gebruikers of over de mogelijkheid tot volpension;<br />3° de keuken voor de gebruikers is volledig ingericht, met voldoende kookmateriaal en eetgerei. In verhouding tot de capaciteit zijn er één of meer branders, kookpitten of fornuizen en een koele eetwarenberging of koelkast;<br />4° als de exploitant of eigenaar gebruikmaakt van de keuken, dan is die niet toegankelijk voor de gebruikers;<br />5° per capaciteit van twintig personen is er minstens één douche;<br />6° in centra met een capaciteit tot twintig personen is er, buiten de eetzaal en de slaapruimtes, nog minstens één lokaal voor minstens vijftien personen. In centra met een capaciteit van eenentwintig tot veertig bedden zijn er, buiten de eetzaal en de slaapruimtes, minstens twee lokalen voor telkens minstens vijftien personen. Per volledige aanvullende schijf van veertig bedden is er één lokaal extra voor minstens vijftien personen.<br /><br />§ 5. Hostels als vermeld in artikel 9, moeten niet alleen voldoen aan de hygiëne-, comfort- en veiligheidsnormen, vermeld in § 1, maar ook aan classificatienormen van jeugdverblijfcentra type A, type B en type C, met uitzondering van de classificatienormen vermeld in § 3, 2°, en in § 4, 2°, 3° en 6°, en aan de volgende classificatienormen :<br />1° er zijn minstens één computer met internetverbinding en een draadloze internetverbinding aanwezig die op elk moment ter beschikking staan van de gebruikers;<br />2° het verblijf is dag en nacht toegankelijk voor de gebruikers;<br />3° het verblijf biedt een beveiligde opbergruimte aan voor de bagage van de gebruikers;<br />4° het onthaal van het verblijf omvat een vaste balie waarop de openingsuren duidelijk vermeld staan; het personeel is meertalig en er zijn meertalige toeristische brochures beschikbaar.<br />5° als de hostel over een keuken, bestemd voor de gebruikers, beschikt, dan is deze volledig ingericht, met voldoende kookmateriaal en eetgerei. In verhouding tot de capaciteit zijn er één of meer branders, kookplaten of fornuizen en een koele eetwarenberging of koelkast.
+...

@@ -2,16 +2,16 @@
   "codex_id": 1013341,
   "title": "Besluit van de Vlaamse Regering van 2004-05-28 betreffende de erkenning en de financiële ondersteuning van verblijven in het kader van \"Toerisme voor Allen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013341/VolledigDocument?datum=2020-09-01",
-  "source_sha256": "4bd4941acf9978bd58b60a411ac4b5c0e1f7e33258b4ca82f8b6f86020d07f93",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013341/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "e87be820c7e2381df5c08be6f4410bd2b20ca1ff80a6e9281f80625d6cc934f6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013341&param=informatie",
-  "as_of": "2020-09-01",
+  "as_of": "2023-01-01",
   "made": "2004-05-28",
   "gazette": "2004-08-19",
   "numac": 2004036328,
   "document_start": null,
   "document_end": "2022-12-31",
-  "in_force": "2020-09-01",
+  "in_force": "2023-01-01",
   "article_versions": 37,
-  "record_form": "consolidated version as in force on 2020-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }
