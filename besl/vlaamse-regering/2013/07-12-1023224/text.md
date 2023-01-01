@@ -12,7 +12,7 @@ In dit besluit wordt verstaan onder :<br>
 1° beleidsdomein : het beleidsdomein Welzijn, Volksgezondheid en Gezin, vermeld in artikel 9 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 2° bevoegde entiteit : het departement of het agentschap van het beleidsdomein, dat de beslissing heeft genomen of het voornemen heeft geuit, vermeld in artikel 12, tweede lid, van het decreet van 7 december 2007, waartegen een bezwaar is ingediend;<br>
 3° bevoegde minister : een minister als vermeld in punt 10°, die bevoegd is voor de voorziening in kwestie;<br>
-4° bezwaar : een bezwaar als vermeld in artikel 12, tweede, derde en vierde lid, van het decreet van 7 december 2007;<br>
+4° bezwaar : een bezwaar als vermeld in artikel 12, tweede, derde, vierde en vijfde lid, van het decreet van 7 december 2007;<br>
 5° Commissie : de commissie, vermeld in artikel 12 van het decreet van 7 december 2007;<br>
 6° decreet van 7 december 2007 : het decreet van 7 december 2007 houdende oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers;<br>
 7° gezins- en welzijnsaangelegenheden : de aangelegenheden, vermeld in artikel 5, § 1, II en IV, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, die tot het beleidsdomein behoren;<br>
@@ -27,21 +27,24 @@ In dit besluit wordt verstaan onder :<br>
 
 ### ART. 2.
 
-<p>§ 1. De Commissie is samengesteld uit een voorzitter, vier ondervoorzitters en vierentwintig leden. Voor elk van hen is er een plaatsvervanger.<br>
+<p>§ 1. De Commissie is samengesteld uit een voorzitter, vijf ondervoorzitters en drieëndertig leden. Voor elk van hen is er een plaatsvervanger.<br>
 <br>
-Met behoud van de toepassing van artikel 8, § 2, bestaat de Commissie uit de volgende kamers:<br>
-1° een kamer voor welzijnsvoorzieningen;<br>
-2° een kamer voor gezondheidsvoorzieningen;<br>
-3° een kamer voor artsen-specialisten en huisartsen;<br>
-4° een kamer voor tandartsen en tandartsen-specialisten.<br>
+Met behoud van de toepassing van artikel 8, §2, bestaat de Commissie uit de volgende kamers:<br>
+1°&nbsp;&nbsp; &nbsp;een kamer voor welzijnsvoorzieningen;<br>
+2°&nbsp;&nbsp; &nbsp;een kamer voor gezondheidsvoorzieningen;<br>
+3°&nbsp;&nbsp; &nbsp;een kamer voor artsen-specialisten en huisartsen;<br>
+4°&nbsp;&nbsp; &nbsp;een kamer voor tandartsen en tandartsen-specialisten;<br>
+5°&nbsp;&nbsp; &nbsp;een kamer voor beoefenaars van geestelijke gezondheidszorgberoepen.<br>
 <br>
 De kamer voor welzijnsvoorzieningen en de kamer voor gezondheidsvoorzieningen zijn elk samengesteld uit een voorzitter, een ondervoorzitter en vijf leden van de Commissie, en hun plaatsvervangers.<br>
 <br>
 De kamer voor artsen-specialisten en huisartsen en de kamer voor tandartsen en tandartsen-specialisten zijn elk samengesteld uit een voorzitter, een ondervoorzitter en zeven leden van de Commissie, en hun plaatsvervangers.<br>
 <br>
-De voorzitter en de plaatsvervangende voorzitter van de Commissie zijn ook voorzitter en plaatsvervangende voorzitter van de kamers. De ondervoorzitters en plaatsvervangende ondervoorzitters van de Commissie zijn ook ondervoorzitter en plaatsvervangende ondervoorzitter van de kamer waarvan ze deel uitmaken..</p>
-
-<p>§ 2. De voorzitter, de ondervoorzitters en hun plaatsvervangers getuigen van juridische kennis en bekwaamheid.</p>
+De kamer voor beoefenaars van geestelijke gezondheidszorgberoepen is samengesteld uit een voorzitter, een ondervoorzitter en negen leden van de Commissie, en hun plaatsvervangers.<br>
+<br>
+De voorzitter en de plaatsvervangende voorzitter van de Commissie zijn ook voorzitter en plaatsvervangende voorzitter van de kamers. De ondervoorzitters en de plaatsvervangende ondervoorzitters van de Commissie zijn ook ondervoorzitter en plaatsvervangende ondervoorzitter van de kamer waarvan ze deel uitmaken.<br>
+<br>
+§ 2. De voorzitter, de ondervoorzitters en hun plaatsvervangers getuigen van juridische kennis en bekwaamheid.</p>
 
 <p>De voorzitter en de plaatsvervangende voorzitter zijn deskundig in gezins-, welzijns- en gezondheidsaangelegenheden.</p>
 
@@ -54,6 +57,8 @@ De voorzitter en de plaatsvervangende voorzitter van de Commissie zijn ook voorz
 De leden van de kamer voor artsen-specialisten en huisartsen en hun plaatsvervangers zijn deskundig in de procedure voor de erkenning van huisartsen en artsen-specialisten. De universiteiten en de beroepsorganisaties dragen elk vier leden en plaatsvervangende leden voor. Die leden kiezen in hun midden een ondervoorzitter en een plaatsvervangende ondervoorzitter.<br>
 <br>
 De leden van de kamer voor tandartsen en tandartsen-specialisten en hun plaatsvervangers zijn deskundig in de procedure voor de erkenning van tandartsen en tandartsen-specialisten. De universiteiten en de beroepsorganisaties dragen elk vier leden en plaatsvervangende leden voor. Die leden kiezen in hun midden een ondervoorzitter en een plaatsvervangende ondervoorzitter.<br>
+<br>
+De leden van de kamer voor beoefenaars van geestelijke gezondheidszorgberoepen en hun plaatsvervangers zijn deskundig in de procedure voor de erkenning van beoefenaars van de klinische psychologie of in de procedure voor de erkenning van beoefenaars van de klinische orthopedagogiek. De universiteiten en de beroepsorganisaties dragen elk vijf leden, onder wie drie leden die beoefenaars van de klinische psychologie zijn en twee leden die beoefenaars van de klinische orthopedagogiek zijn, en plaatsvervangende leden voor. Die leden kiezen in hun midden een ondervoorzitter en een plaatsvervangende ondervoorzitter.<br>
 <br>
 § 3. De ministers benoemen de voorzitter, de ondervoorzitters, de leden en de plaatsvervangers voor een termijn van vijf jaar, die tweemaal hernieuwbaar is. Bij de benoeming van de ondervoorzitters, de leden en hun plaatsvervangers wordt vermeld van welke kamer ze deel uitmaken.</p>
 
@@ -99,23 +104,25 @@ Voor de toepassing van het eerste lid gelden voor de samenstelling van de Commis
 <br>
 § 3. Bezwaren over de erkenning van artsen-specialisten en huisartsen worden behandeld door de kamer voor artsen-specialisten en huisartsen. Bezwaren over de erkenning van tandartsen en tandartsen-specialisten worden behandeld door de kamer voor tandartsen en tandartsen-specialisten.<br>
 <br>
+Bezwaren over de erkenning van beoefenaars van de klinische psychologie en van de klinische orthopedagogiek worden behandeld door de kamer voor beoefenaars van geestelijke gezondheidszorgberoepen.<br>
+<br>
 § 4. Voor de behandeling van bezwaren over het voornemen tot weigering van de erkenning van zorgkassen en bezwaren over het voornemen tot intrekking van de erkenning van zorgkassen zijn de kamer voor gezondheidsvoorzieningen en de kamer voor welzijnsvoorzieningen gezamenlijk bevoegd. In dat geval zijn artikel 9 tot en met 12, artikel 15, eerste lid, en artikel 16 tot en met 21 van overeenkomstige toepassing, met dien verstande dat:<br>
 1° de vergadering van de gezamenlijk bevoegde kamers wordt voorgezeten door een voorzitter of een ondervoorzitter van een van de gezamenlijk bevoegde kamers of hun plaatsvervanger;<br>
 2° de gezamenlijk bevoegde kamers alleen geldig kunnen beraadslagen en stemmen als minstens de voorzitter of de ondervoorzitter, of hun plaatsvervangers, en twee leden van elk van de kamers, of hun plaatsvervangers, aanwezig zijn.</p>
 
 ### ART. 9.
 
-<p>§ 1. De vergadering van een kamer wordt voorgezeten door de voorzitter of de ondervoorzitter van de kamer of zijn plaatsvervanger.</p>
-
-<p>§ 2. Alleen de voorzitter, de ondervoorzitter en de leden van de kamer of hun plaatsvervangers zijn stemgerechtigd. Ze hebben elk een stem.</p>
-
-<p>§ 3.&nbsp;De kamer voor welzijnsvoorzieningen en de kamer voor gezondheidsvoorzieningen kunnen alleen geldig beraadslagen en stemmen als minstens de voorzitter of de ondervoorzitter en drie leden, of plaatsvervangers, aanwezig zijn. De kamer voor artsen-specialisten en huisartsen en de kamer voor tandartsen en tandartsen-specialisten kunnen alleen geldig beraadslagen en stemmen als minstens de voorzitter of de ondervoorzitter en vijf leden, of hun plaatsvervangers, aanwezig zijn.</p>
-
-<p>Als geen consensus kan worden bereikt, worden beslissingen genomen bij gewone meerderheid.</p>
-
-<p>Bij de stemming worden onthoudingen niet in aanmerking genomen om de vereiste meerderheid te bereiken. Bij staking van stemmen is de stem van de voorzitter van de vergadering doorslaggevend.</p>
-
-<p>§ 4. Wie een persoonlijk belang heeft bij de behandeling van een bezwaar, kan de beraadslaging en de stemming over dat bezwaar niet bijwonen.</p>
+<p>§ 1. De vergadering van een kamer wordt voorgezeten door de voorzitter of de ondervoorzitter van de kamer of zijn plaatsvervanger.<br>
+<br>
+§ 2. Alleen de voorzitter, de ondervoorzitter en de leden van de kamer of hun plaatsvervangers zijn stemgerechtigd. Ze hebben elk een stem.<br>
+<br>
+§ 3.&nbsp;De kamer voor welzijnsvoorzieningen en de kamer voor gezondheidsvoorzieningen kunnen alleen geldig beraadslagen en stemmen als minstens de voorzitter of de ondervoorzitter en drie leden, of plaatsvervangers, aanwezig zijn. De kamer voor artsen-specialisten en huisartsen en de kamer voor tandartsen en tandartsen-specialisten kunnen alleen geldig beraadslagen en stemmen als minstens de voorzitter of de ondervoorzitter en vijf leden, of hun plaatsvervangers, aanwezig zijn.&nbsp;De kamer voor beoefenaars van geestelijke gezondheidszorgberoepen kan alleen geldig beraadslagen en stemmen als minstens de voorzitter of de ondervoorzitter en vijf leden, of hun plaatsvervangers, aanwezig zijn.<br>
+<br>
+Als geen consensus kan worden bereikt, worden beslissingen genomen bij gewone meerderheid.<br>
+<br>
+Bij de stemming worden onthoudingen niet in aanmerking genomen om de vereiste meerderheid te bereiken. Bij staking van stemmen is de stem van de voorzitter van de vergadering doorslaggevend.<br>
+<br>
+§ 4. Wie een persoonlijk belang heeft bij de behandeling van een bezwaar, kan de beraadslaging en de stemming over dat bezwaar niet bijwonen.</p>
 
 ### ART. 10.
 
@@ -137,11 +144,11 @@ Met behoud van de toepassing van artikel 10 verleent de kamer haar advies   op s
 
 ### ART. 13.
 
-<p>§ 1. De Commissie kan alleen geldig beraadslagen en stemmen als minstens de voorzitter of een ondervoorzitter en&nbsp;dertien leden, of plaatsvervangers, aanwezig zijn. Minstens drie leden of plaatsvervangers van elk van de kamers, vermeld in artikel 2, § 1, tweede lid, zijn aanwezig.</p>
+<p>§ 1. De Commissie kan alleen geldig beraadslagen en stemmen als minstens de voorzitter of een ondervoorzitter en&nbsp;achttien leden, of plaatsvervangers, aanwezig zijn. Minstens drie leden of plaatsvervangers van elk van de kamers, vermeld in artikel 2, § 1, tweede lid, zijn aanwezig.</p>
 
 <p>§ 2. Op de vergaderingen van de Commissie is artikel 9, § 1, § 2 en § 3, tweede en derde lid, van overeenkomstige toepassing.</p>
 
-<p>In afwijking van het eerste lid keurt de Commissie met minstens negentien stemmen de volgende stukken goed :<br>
+<p>In afwijking van het eerste lid keurt de Commissie met minstens zesentwintig stemmen de volgende stukken goed :<br>
 1° het advies over het beëindigen van een mandaat, vermeld in artikel 4, tweede lid;<br>
 2° ...;<br>
 3° het voorstel van huishoudelijk reglement of tot wijziging ervan, vermeld in artikel 17, eerste lid;<br>
@@ -157,7 +164,9 @@ Als conform artikel 8, § 1, tweede lid of derde lid, de behandeling van   een b
 
 De Commissie, de kamer voor welzijnsvoorzieningen en de kamer voor gezondheidsvoorzieningen kunnen zich laten bijstaan door onpartijdige deskundigen. De ministers kunnen nadere regels bepalen voor de aanstelling van die deskundigen.<br>
 <br>
-De kamer voor artsen-specialisten en huisartsen wordt bijgestaan door een arts-specialist of een huisarts, naargelang het bezwaar een erkenning als arts-specialist of als huisarts betreft. De kamer voor tandartsen en tandartsen-specialisten wordt bijgestaan door een algemeen tandarts of een tandarts-specialist, naargelang het bezwaar een erkenning als algemeen tandarts of als tandarts-specialist betreft.
+De kamer voor artsen-specialisten en huisartsen wordt bijgestaan door een arts-specialist of een huisarts, naargelang het bezwaar een erkenning als arts-specialist of als huisarts betreft. De kamer voor tandartsen en tandartsen-specialisten wordt bijgestaan door een algemeen tandarts of een tandarts-specialist, naargelang het bezwaar een erkenning als algemeen tandarts of als tandarts-specialist betreft.<br>
+<br>
+De kamer voor beoefenaars van geestelijke gezondheidszorgberoepen kan worden bijgestaan door een beoefenaar van de klinische psychologie of door een beoefenaar van de klinische orthopedagogiek, naargelang het bezwaar betrekking heeft op een erkenning als klinisch psycholoog of als klinisch orthopedagoog.
 
 ### ART. 16.
 
@@ -181,7 +190,7 @@ De Commissie maakt jaarlijks een verslag op van haar werkzaamheden,   inclusief 
 
 <p>Het presentiegeld per vergadering wordt door de ministers vastgesteld en bedraagt maximaal 100 euro. Aan degene die de vergadering voorzit, wordt een presentiegeld van 150 % van het door de ministers vastgestelde bedrag toegekend.</p>
 
-<p>Er wordt voor maximaal dertig vergaderingen per jaar een presentiegeld toegekend. Twee of meer vergaderingen van de Commissie of van een kamer op dezelfde dag gelden als een vergadering.</p>
+<p>Er wordt voor maximaal drieëndertig vergaderingen per jaar een presentiegeld toegekend. Twee of meer vergaderingen van de Commissie of van een kamer op dezelfde dag gelden als een vergadering.</p>
 
 ### ART. 21.
 
