@@ -13,10 +13,10 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br>
 2° minister : de minister, bevoegd voor het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden;<br>
 3° ziekenhuis : een voorziening als vermeld in artikel 2 van de wet betreffende de ziekenhuizen en andere verzorgingsinrichtingen, gecoördineerd op 10 juli 2008;<br>
 4° psychiatrisch ziekenhuis : een ziekenhuis als vermeld in artikel 3 van de wet betreffende de ziekenhuizen en andere verzorgingsinrichtingen, gecoördineerd op 10 juli 2008;<br>
-5° woonzorgcentrum met een bijkomende erkenning: een woonzorgcentrum als vermeld in artikel 52/1, tweede lid, van het Woonzorgdecreet van 13 maart 2009;<br>
+5° ...;<br>
 6° psychiatrisch verzorgingstehuis : een psychiatrisch verzorgingstehuis als vermeld in artikel 170 van de wet betreffende de ziekenhuizen en andere verzorgingsinrichtingen, gecoördineerd op 10 juli 2008<br>
 7° functie daghospitalisatie binnen een ziekenhuis : een aanwijsbare entiteit binnen de vestigingsplaats van een ziekenhuis, met uitzondering van een psychiatrisch ziekenhuis, waarin verstrekkingen worden verricht als vermeld in de desbetreffende artikelen van de overeenkomst tussen de verplegingsinrichtingen en de verzekeringsinstellingen, zonder dat deze verstrekkingen aanleiding geven tot een ziekenhuisverblijf met overnachting;<br>
-8° verzorgingsinstelling : een ziekenhuis, een woonzorgcentrum met een bijkomende erkenning, een psychiatrisch verzorgingstehuis of een functie daghospitalisatie binnen een ziekenhuis;<br>
+8° verzorgingsinstelling : een ziekenhuis, een psychiatrisch verzorgingstehuis of een functie daghospitalisatie binnen een ziekenhuis;<br>
 9° woonzorgcentrum : een voorziening als vermeld in artikel 37 van het woonzorgdecreet van 13 maart 2009;<br>
 10° regionaal dienstencentrum : een voorziening als vermeld in artikel 20 van het woonzorgdecreet van 13 maart 2009;<br>
 11° lokaal dienstencentrum : een voorziening als vermeld in artikel 16 van het woonzorgdecreet van 13 maart 2009;<br>
