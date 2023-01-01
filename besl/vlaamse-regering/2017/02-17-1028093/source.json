@@ -2,16 +2,16 @@
   "codex_id": 1028093,
   "title": "Besluit van de Vlaamse Regering van 2017-02-17 betreffende het geïntegreerde planningsproces voor ruimtelijke uitvoeringsplannen, planmilieueffectrapportage, ruimtelijke veiligheidsrapportage en andere effectbeoordelingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028093/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "1e2d00abc456c30767f6cea1ac533639cb258e879240ff77f401dac00faa2207",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028093/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "b6139013b40ca865d9d37f328408779a564fde326271abddea7c421c44dd74f7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028093&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2023-01-01",
   "made": "2017-02-17",
   "gazette": "2017-03-28",
   "numac": 2017011334,
   "document_start": "2017-05-01",
   "document_end": null,
-  "in_force": "2021-01-01",
+  "in_force": "2023-01-01",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }
