@@ -171,9 +171,10 @@ De Vlaamse Regering bepaalt de voorwaarden om ter beschikking te worden gesteld 
 
 Niemand kan ter beschikking worden gesteld of gehouden wegens ziekte na het einde van de maand waarin hij aanspraak kan maken op een rustpensioen en dertig dienstjaren telt die in aanmerking komen voor de berekening van het rustpensioen.<br>
 <br>
-Het eerste lid is niet van toepassing op de personeelsleden die ter beschikking zijn gesteld wegens ziekte en voor wie:<br>
-1° er een geschil voor een arbeidsrechtbank loopt, als dat geschil handelt over het niet-erkennen van een afwezigheid ten gevolge van een arbeidsongeval of een beroepsziekte of over de consolidatiedatum;<br>
-2° de procedure buitendienstongeval niet is afgesloten.
+Het eerste lid is niet van toepassing op de volgende personeelsleden:<br>
+1° de personeelsleden die ter beschikking zijn gesteld wegens ziekte en voor wie er een geschil voor een arbeidsrechtbank loopt, als dat geschil handelt over het niet-erkennen van een afwezigheid ten gevolge van een arbeidsongeval of een beroepsziekte of over de consolidatiedatum;<br>
+2° de personeelsleden die ter beschikking zijn gesteld wegens ziekte en voor wie de procedure buitendienstongeval niet is afgesloten;<br>
+3° de personeelsleden die gedeeltelijk ter beschikking gesteld zijn wegens ziekte of gebrekkigheid tijdens een verlof voor verminderde prestaties wegens ziekte.
 
 ### ART 24.
 
