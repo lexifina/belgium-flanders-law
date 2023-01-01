@@ -150,35 +150,23 @@ De halve-dagprestaties wegens ziekte die door de heer Roger Verschueren, eerste 
 
 ### ART. 28.
 
-Er wordt een Rubiconfonds opgericht, hierna het Fonds te noemen.<br /><br />Het Fonds wordt opgericht als een instelling van categorie A in de zin van de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut.
+...
 
 ### ART. 29.
 
-De middelen van het Fonds zijn:<br>
-1° de opbrengsten van de planbatenheffing, bedoeld in artikel 2.6.4 van de Vlaamse Codex Ruimtelijke Ordening, verschuldigd ingevolge de bestemmingswijzigingen van een perceel naar een zone bestemd voor bedrijven;<br>
-2° alle inkomsten voortvloeiend uit de activiteiten van het Fonds;<br>
-3° het gebeurlijke saldo op het einde van het begrotingsjaar op het Fonds;<br>
-4° de terugvorderingen voortvloeiend uit de ten onrechte gedane betalingen;<br>
-5° een eventuele dotatie ten laste van de algemene uitgavenbegroting van de Vlaamse Gemeenschap.
+...
 
 ### ART. 30.
 
-De middelen van het Fonds kunnen uitsluitend aangewend worden voor de gehele of gedeeltelijke financiering of subsidiëring van:<br>
-1° alle waterkeringswerken, alle werken tot de aanleg, aanpassing of inrichting van overstromingsgebieden en wachtbekkens, en de bijhorende werken van natuurtechnische milieubouw;<br>
-2° de werken tot aanleg of aanpassing van de rechtstreekse toegang naar de in 1° bedoelde waterkeringswerken, overstromingsgebieden en wachtbekkens;<br>
-3° het aankopen en onteigenen zoals bedoeld in de artikelen 6 en 7 van het decreet van 16 april 1996 betreffende de waterkeringen;<br>
-4° de uitvoering van de instrumenten inzake de verwerving van goederen zoals bedoeld in afdeling III, hoofdstuk III, titel I, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid;<br>
-5° de uitvoering van de bepalingen van het stroomgebiedsbeheersplan, het bekkenbeheersplan en het deel-bekkenbeheersplan, zoals bedoeld in titel I van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, die uitvoering geven aan artikel 5, 6°, van het decreet;<br>
-6° de werkingskosten eigen aan het Fonds;<br>
-7° de vergoedingen als gevolg van de aanduiding als watergevoelig openruimtegebied, zoals bedoeld in artikel 5.6.8 van de Vlaamse Codex Ruimtelijke Ordening.
+...
 
 ### ART. 31.
 
-De Vlaamse regering bepaalt de nadere modaliteiten voor het financieel en materieel beheer van het Fonds.
+...
 
 ### ART. 32.
 
-De Vlaamse regering stelt de nadere regels vast voor de subsidiëring, zoals bedoeld in artikel 30 van onderhavig decreet.
+...
 
 ## HOOFDSTUK XII FINANCIËN
 
