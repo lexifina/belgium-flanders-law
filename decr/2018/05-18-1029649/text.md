@@ -1069,7 +1069,7 @@ De aanvraag, vermeld in het eerste lid, wordt ingediend bij de zorgkas waarbij d
 <br>
 De Vlaamse Regering stelt de nadere regels vast voor de behandeling van de aanvraag of de ambtshalve toekenning.<br>
 <br>
-§ 2. De tegemoetkoming bedraagt 130 euro per maand.<br>
+§ 2. De tegemoetkoming bedraagt 135 euro per maand.<br>
 <br>
 Het bedrag, vermeld in het eerste lid, wordt met ingang van het door de Vlaamse Regering te bepalen kalenderjaar, ieder jaar op 1 januari aangepast aan de ontwikkeling van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april van het voorgaande jaar ten opzichte van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april in het door de Vlaamse Regering te bepalen jaar.<br>
 <br>
@@ -1748,9 +1748,9 @@ De Vlaamse Regering kan regels en criteria bepalen voor de beheersing van de uit
 
 ### ART 145.
 
-§ 1. De Vlaamse Regering bepaalt het bedrag van de tegemoetkoming voor zorg in woonzorgcentra met een bijkomende erkenning.<br>
+§ 1. De Vlaamse Regering bepaalt het bedrag van de tegemoetkoming voor zorg in woonzorgcentra.<br>
 <br>
-De zorgkas betaalt de tegemoetkoming, vermeld in het eerste lid, uit aan de woonzorgcentra, vermeld in het eerste lid, in de vorm van een dagelijkse tegemoetkoming.<br>
+De zorgkas betaalt de tegemoetkoming, vermeld in het eerste lid, uit aan de woonzorgcentra in de vorm van een dagelijkse tegemoetkoming.<br>
 <br>
 § 2. De Vlaamse Regering legt de voorwaarden vast waaronder de tegemoetkoming wordt verleend. Die voorwaarden hebben onder meer betrekking op de fysieke en op de psychische afhankelijkheid van de gebruiker, bepaald aan de hand van een evaluatie-instrument dat de Vlaamse Regering bepaalt.<br>
 <br>
@@ -1803,7 +1803,7 @@ Het agentschap kan een beroep doen op het betrokken team van de Zorgkassencommis
 
 ### ART 146/1.
 
-Als een woonzorgcentrum met een bijkomende erkenning het agentschap opzettelijk verkeerde gegevens verstrekt om een hogere tegemoetkoming te verkrijgen dan de tegemoetkoming waarop het op basis van de reële gegevens recht heeft, kan het agentschap, naast de terugvordering van de tegemoetkomingen die ten onrechte zijn uitbetaald, aan het woonzorgcentrum in kwestie een administratieve geldboete opleggen.<br>
+Als een woonzorgcentrum het agentschap opzettelijk verkeerde gegevens verstrekt om een hogere tegemoetkoming te verkrijgen dan de tegemoetkoming waarop het op basis van de reële gegevens recht heeft, kan het agentschap, naast de terugvordering van de tegemoetkomingen die ten onrechte zijn uitbetaald, aan het woonzorgcentrum in kwestie een administratieve geldboete opleggen.<br>
 <br>
 Het bedrag van de administratieve geldboete, vermeld in het eerste lid, bedraagt minstens 500 euro en maximaal 50.000 euro.<br>
 <br>
@@ -1823,37 +1823,11 @@ De Vlaamse Regering bepaalt de inhoud van het pakket aan zorg dat gedekt wordt d
 
 ### ART 148.
 
-§ 1. De Vlaamse Regering bepaalt het bedrag van de tegemoetkoming voor zorg in woonzorgcentra zonder een bijkomende erkenning.<br>
-<br>
-De tegemoetkoming, vermeld in het eerste lid, wordt uitbetaald aan de woonzorgcentra, vermeld in het eerste lid, in de vorm van een dagelijkse tegemoetkoming.<br>
-<br>
-§ 2. De Vlaamse Regering legt de voorwaarden vast waaronder de tegemoetkoming wordt verleend. Die voorwaarden kunnen onder meer betrekking hebben op de fysieke en op de psychische afhankelijkheid van de gebruiker, bepaald aan de hand van een evaluatie-instrument dat de Vlaamse Regering bepaalt.<br>
-<br>
-De Vlaamse Regering bepaalt de wijze waarop de toepassing van het door haar bepaalde evaluatie-instrument wordt herzien en gecontroleerd.<br>
-<br>
-Voor de controles, vermeld in het tweede lid, wordt een beroep gedaan op de Zorgkassencommissie. De controles worden aangestuurd door het agentschap, dat over de gegevens beschikt die voor de aansturing noodzakelijk zijn.<br>
-<br>
-In het kader van de controles die worden verricht met het oog op de toepassing van deze paragraaf, hebben de door de Zorgkassencommissie verzamelde gegevens over de zorgbehoefte, bewijswaarde tot bewijs van het tegendeel.<br>
-<br>
-Artikel 146 is van overeenkomstige toepassing op de woonzorgcentra, vermeld in dit artikel.<br>
-<br>
-§ 3. De zorgkassen worden belast met de uitbetaling van de tegemoetkomingen aan de woonzorgcentra, vermeld in paragraaf 1, eerste lid. De Vlaamse Regering bepaalt de procedure voor de uitbetaling van de tegemoetkomingen door de zorgkassen.
+...
 
 ### ART 148/1.
 
-Als een woonzorgcentrum zonder bijkomende erkenning het agentschap opzettelijk verkeerde gegevens verstrekt om een hogere tegemoetkoming te verkrijgen dan de tegemoetkoming waarop het op basis van de reële gegevens recht heeft, kan het agentschap, naast de terugvordering van de tegemoetkomingen die ten onrechte zijn uitbetaald, aan het woonzorgcentrum in kwestie een administratieve geldboete opleggen.<br>
-<br>
-Het bedrag van de administratieve geldboete, vermeld in het eerste lid, bedraagt minstens 500 euro en maximaal 50.000 euro.<br>
-<br>
-Als er verzachtende omstandigheden zijn, kan de door de Vlaamse Regering aangewezen ambtenaar een administratieve geldboete opleggen die lager is dan het minimumbedrag, vermeld in het tweede lid. Het bedrag van de administratieve geldboete kan evenwel niet lager zijn dan 50% van het minimumbedrag, vermeld in het tweede lid.<br>
-<br>
-De Vlaamse Regering bepaalt de nadere regels voor de oplegging en de betaling van de administratieve geldboete, vermeld in het eerste lid, en de beroepsmogelijkheden. Ze wijst de ambtenaren aan die de administratieve geldboete kunnen opleggen.<br>
-<br>
-De administratieve geldboete, verhoogd met de invorderingskosten, kan bij dwangbevel worden ingevorderd. Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door de ambtenaar die de Vlaamse Regering daarvoor aanwijst. Het dwangbevel wordt betekend bij gerechtsdeurwaardersexploot met bevel tot betaling.<br>
-<br>
-De bepalingen van deel V van het Gerechtelijk Wetboek zijn van toepassing op het dwangbevel.<br>
-<br>
-De vordering tot voldoening van de administratieve geldboete verjaart na verloop van vijf jaar vanaf de dag waarop ze is ontstaan. De verjaring wordt gestuit conform artikel 2244 tot en met 2250 van het Burgerlijk Wetboek.
+...
 
 ### ART 149.
 
