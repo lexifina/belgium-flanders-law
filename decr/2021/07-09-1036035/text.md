@@ -58,6 +58,14 @@ In artikel 5.6.6, § 1, van dezelfde codex, gewijzigd bij de decreten van 16 jul
 
 ## HOOFDSTUK 5. Wijzigingen van de Vlaamse Codex Fiscaliteit van 13 december 2013
 
+### ART 11.
+
+In artikel 2.1.4.0.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013, het laatst gewijzigd bij het decreet van 2 april 2021, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 2, eerste lid, 3°, worden de woorden "sociale huisvestingsmaatschappijen" vervangen door het woord "woonmaatschappijen";<br>
+2° in paragraaf 2, eerste lid, wordt punt 5° opgeheven;<br>
+3° in paragraaf 2/1, eerste lid, wordt de zinsnede "erkend sociaal verhuurkantoor worden gehuurd met toepassing van en conform de voorwaarden, vermeld in artikel 4.55, tweede en derde lid, van de Vlaamse Codex Wonen van 2021 en in artikel 4.168 van het Besluit Vlaamse Codex Wonen van 2021" vervangen door de zinsnede "erkende woonmaatschappij worden gehuurd conform de voorwaarden ter uitvoering van artikel 4.40, 4°, van de Vlaamse Codex Wonen van 2021";<br>
+4° in paragraaf 2/1, tweede lid, worden de woorden "erkend sociaal verhuurkantoor" vervangen door de woorden "erkende woonmaatschappij".
+
 ### ART 12.
 
 In artikel 2.7.4.2.1, eerste lid, 7°, van dezelfde codex, ingevoegd bij het decreet van 19 december 2014 en gewijzigd bij het besluit van de Vlaamse Regering van 17 juli 2020, worden de woorden "sociale huisvestingsmaatschappijen" vervangen door het woord "woonmaatschappijen".
@@ -77,6 +85,10 @@ In artikel 2.9.4.2.3 van dezelfde codex, ingevoegd bij het decreet van 19 decemb
 In artikel 2.9.4.2.13 van dezelfde codex, ingevoegd bij het decreet van 18 mei 2018 en gewijzigd bij de decreten van 21 december 2018 en 2 april 2021, worden de volgende wijzigingen aangebracht:<br>
 1° in paragraaf 1, eerste lid, 1°, wordt de zinsnede "erkend sociaal verhuurkantoor met toepassing van en in overeenstemming met de voorwaarden, vermeld in artikel 4.55, tweede en derde lid, van de Vlaamse Codex Wonen van 2021 en in artikel 4.168 van het Besluit Vlaamse Codex Wonen van 2021" vervangen door de zinsnede "erkende woonmaatschappij met toepassing van en conform de voorwaarden opgelegd ter uitvoering van artikel 4.40, 4°, van de Vlaamse Codex Wonen van 2021";<br>
 2° in paragraaf 4 worden de woorden "het erkend sociaal verhuurkantoor" vervangen door de woorden "de erkende woonmaatschappij".
+
+### ART 16.
+
+In artikel 3.1.0.0.6 van dezelfde codex, ingevoegd bij het decreet van 18 mei 2018 en gewijzigd bij het decreet van 21 december 2018, wordt de zinsnede "eerste lid, 5° " vervangen door de zinsnede "eerste lid, 3°, voor zover het eigendommen betreft die verhuurd worden conform de voorwaarden ter uitvoering van artikel 4.40, 4°, van de Vlaamse Codex Wonen van 2021,".
 
 ## HOOFDSTUK 6. Wijzigingen van de Vlaamse Codex Wonen van 2021
 
@@ -101,6 +113,23 @@ In artikel 1.3, § 1, eerste lid, van de Vlaamse Codex Wonen van 2021 worden de 
 ### ART 18.
 
 In artikel 1.4 van dezelfde codex wordt de zinsnede "titel VII, hoofdstuk II, afdeling II, van het Gemeentedecreet van 15 juli 2005" vervangen door de zinsnede "deel 2, titel 3, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur".
+
+### ART 19.
+
+Aan boek 1 van dezelfde codex wordt een deel 3 toegevoegd, dat luidt als volgt:<br>
+"Deel 3. Implementatie kaderdecreet Bestuurlijke Handhaving".
+
+### ART 20.
+
+In dezelfde codex wordt aan deel 3, toegevoegd bij artikel 19, een artikel 1.8 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 1.8. § 1. Het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019 is, met uitzondering van artikel 22, § 2, van dit kaderdecreet, van toepassing op de handhaving van de woningkwaliteitsbewaking, vermeld in boek 3.<br>
+<br>
+§ 2. De door de Vlaamse Regering als wooninspecteurs aangewezen ambtenaren zijn van rechtswege officier van gerechtelijke politie - hulpofficier van de procureur des Konings, bestuurlijke opsporingsagent en toezichthouder in de zin van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019. In hun hoedanigheid van bestuurlijk opsporingsagent beschikken ze over de bevoegdheid, vermeld in artikel 30, § 1 en § 2, van voormeld decreet.<br>
+<br>
+De personeelsleden van de politiediensten, vermeld in artikel 26, § 3, van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019, zijn bevoegd voor de bestuurlijke opsporing van de inbreuken, vermeld in artikel 3.55 van deze codex, volgens de bepalingen van hoofdstuk 4 van hetzelfde kaderdecreet. Personeelsleden van de politiediensten die officier van bestuurlijke politie zijn, beschikken daarvoor van rechtswege over de bevoegdheden, vermeld in artikel 30, § 1 en § 2, van voormeld decreet.<br>
+<br>
+Voor de toepassing van artikel 20, § 5, tweede lid, van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019 worden sociale verhuurders gelijkgesteld met de overheden die afschriften van processen-verbaal of verslagen van vaststelling mogen ontvangen voor de daar bepaalde doeleinden.".
 
 ### ART 21.
 
@@ -147,6 +176,10 @@ In artikel 2.32, § 2, eerste lid, van dezelfde codex worden de volgende wijzigi
 ### ART 30.
 
 In artikel 2.37, tweede lid, van dezelfde codex worden de woorden "sociale huisvestingsmaatschappijen" vervangen door het woord "woonmaatschappijen".
+
+### ART 31.
+
+Artikel 3.4 van dezelfde codex wordt opgeheven.
 
 ### ART 32.
 
@@ -218,10 +251,59 @@ In artikel 3.27 van dezelfde codex worden de volgende wijzigingen aangebracht:<b
 
 In artikel 3.33, eerste lid, van dezelfde codex worden de woorden "ongeschikte of onbewoonbare woning" vervangen door de zinsnede "onbewoonbare of overbewoonde woning of van een goed als vermeld in artikel 3.35".
 
+### ART 42.
+
+Artikel 3.37, eerste lid, van dezelfde codex wordt opgeheven.
+
+### ART 43.
+
+Artikel 3.38 van dezelfde codex wordt opgeheven.
+
+### ART 44.
+
+In artikel 3.39, eerste lid, van dezelfde codex wordt de zinsnede ", vermeld in artikel 3.37," opgeheven.
+
+### ART 45.
+
+In artikel 3.40, eerste lid, van dezelfde codex wordt de zinsnede ", vermeld in artikel 3.37," opgeheven in de eerste en de tweede zin.
+
+### ART 46.
+
+Artikel 3.41 van dezelfde codex wordt opgeheven.
+
+### ART 47.
+
+In artikel 3.42 van dezelfde codex worden de volgende wijzigen aangebracht:<br>
+1° in het eerste lid wordt de zinsnede "verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) kunnen de ambtenaren, vermeld in artikel 3.37 van deze codex," vervangen door de zinsnede "algemene verordening gegevensbescherming kan de wooninspecteur of een door de Vlaamse Regering voor de handhaving van boek 3, deel 9, aangewezen agent van gerechtelijke politie";<br>
+2° in het tweede lid wordt de zinsnede "ambtenaren, vermeld in artikel 3.37 van deze codex," vervangen door de zinsnede "wooninspecteur of een door de Vlaamse Regering voor de handhaving van boek 3, deel 9, aangewezen agent van gerechtelijke politie";<br>
+3° in het zesde lid wordt de zinsnede "ambtenaren, vermeld in artikel 3.37," vervangen door de zinsnede "wooninspecteur of een door de Vlaamse Regering voor de handhaving van boek 3, deel 9, aangewezen agent van gerechtelijke politie".
+
+### ART 48.
+
+In artikel 3.46 van dezelfde codex worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de zinsnede "de ambtenaar, vermeld in artikel 3.37, eerste lid," vervangen door de zinsnede "de wooninspecteur of een door de Vlaamse Regering voor de handhaving van boek 3, deel 9, aangewezen agent van gerechtelijke politie,";<br>
+2°....
+
+### ART 49.
+
+Artikel 3.52 van dezelfde codex wordt opgeheven.
+
+### ART 50.
+
+In artikel 3.53 van dezelfde codex worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de zinsnede "en de ambtenaren, vermeld in artikel 3.37" vervangen door de zinsnede ", de wooninspecteur of een door de Vlaamse Regering voor de handhaving van boek 3, deel 9, aangewezen agent van gerechtelijke politie";<br>
+2° het vierde lid wordt opgeheven.
+
 ### ART 51.
 
 In artikel 3.54, tweede lid, van dezelfde codex worden tussen de eerste en de tweede zin de volgende zinnen ingevoegd:<br>
 "Het verzoek wordt verstuurd met een beveiligde zending. De instantie aan wie het verzoek is gericht, beslist binnen 30 dagen nadat ze het verzoek tot opheffing van de verzegeling heeft ontvangen. Die termijn is eenmalig verlengbaar met 30 dagen. Als er geen tijdige beslissing wordt genomen, wordt het verzoek geacht afgewezen te zijn.".
+
+### ART 52.
+
+Artikel 3.55 van dezelfde codex wordt vervangen door wat volgt:<br>
+<br>
+"Art. 3.55. Het schenden van een verzegeling of het niet-naleven van de voorwaarden die gekoppeld zijn aan de opheffing van de verzegeling, is strafbaar met een bestuurlijke geldboete van 500 euro tot 5000 euro.".
 
 ### ART 53.
 
@@ -1259,13 +1341,116 @@ Aan boek 6, deel 1, van dezelfde codex wordt een artikel 6.3/2 toegevoegd, dat l
 <br>
 Binnen de perken van de kredieten die daarvoor op de begroting van het Vlaamse Gewest ingeschreven worden, kan de Vlaamse Regering, onder de voorwaarden die ze bepaalt, een vergoeding betalen aan de verhuurder die een beroep doet op de private partners die aangeduid zijn in de raamovereenkomst, vermeld in het eerste lid.".
 
+### ART 175.
+
+In artikel 6.16, eerste lid, 2°, van dezelfde codex wordt tussen het woord "huurder" en het woord "en" de zinsnede ", van de personen die op duurzame wijze de sociale huurwoning mee gaan bewonen" ingevoegd.
+
+### ART 176.
+
+In artikel 6.17, eerste lid, 7°, van dezelfde codex wordt tussen het woord "de" en het woord "waarborg" de woorden "vrijgave van de" ingevoegd.
+
 ### ART 177.
 
 In artikel 6.18 van dezelfde codex wordt het eerste lid opgeheven.
 
+### ART 178.
+
+In artikel 6.20 van dezelfde codex worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid, 5° en 6°, wordt de zinsnede "A1" vervangen door de zinsnede "A2";<br>
+<br>
+2° aan het eerste lid wordt een punt 12° toegevoegd, dat luidt als volgt:<br>
+"12° voor zover de huurder een niet-beroepsactieve burger is met arbeidspotentieel, zich inschrijven bij de VDAB.";<br>
+<br>
+3° in het tweede lid wordt de zinsnede "6° en 7° " vervangen door de zinsnede "5° en 6° ";<br>
+<br>
+4° er worden een derde en een vierde lid toegevoegd, die luiden als volgt:<br>
+<br>
+"De Vlaamse Regering bepaalt de voorwaarden waaronder de verhuizing, vermeld in het eerste lid, 9° en 10°, gebeurt.<br>
+<br>
+De Vlaamse Regering bepaalt wie wordt verstaan onder een niet-beroepsactieve burger met arbeidspotentieel als vermeld in het eerste lid, 12°, en op welke manier de verhuurder de huurdersverplichting, vermeld in het eerste lid, 12°, controleert.".
+
 ### ART 179.
 
 In artikel 6.23, eerste lid, van dezelfde codex wordt de zinsnede ", alsmede met de specificiteit van de verhuurder zoals bepaald in artikel 6.2, eerste lid" opgeheven.
+
+### ART 180.
+
+In boek 6 van dezelfde codex wordt het opschrift van deel 10 vervangen door wat volgt:<br>
+"Deel 10. Duur en einde van het woonrecht en de huurovereenkomst".
+
+### ART 181.
+
+In boek 6, deel 10, van dezelfde codex wordt het opschrift van titel 1 vervangen door wat volgt:<br>
+"Titel 1. Het woonrecht en de huurovereenkomst".
+
+### ART 182.
+
+Artikel 6.27 van dezelfde codex wordt vervangen door wat volgt:<br>
+<br>
+"Art. 6.27. § 1. Met behoud van de toepassing van artikel 6.28, beschikt de huurder over een woonrecht gedurende negen jaar nadat hem een woning is toegewezen.<br>
+<br>
+Op basis van dat woonrecht kan hij gedurende negen jaar een sociale huurwoning huren via een of meer opeenvolgende huurovereenkomsten. De verhuurder heeft in voorkomend geval een herhuisvestingsplicht zodat het woonrecht kan worden uitgeoefend.<br>
+<br>
+De huurovereenkomsten hebben een duur van negen jaar. Als de huurovereenkomst betrekking heeft op een woning waarover de verhuurder minder dan negen jaar beschikt, bedraagt de duur van de huurovereenkomst de periode waarover de verhuurder beschikt.<br>
+<br>
+§ 2. Als de huurder op het einde van zijn woonrecht van negen jaar of op het einde van een verlengde periode als vermeld in het tweede lid, niet voldoet aan de voorwaarden van woonbehoeftigheid of van passendheid van de woning, vermeld in artikel 6.29 en 6.30, zegt de verhuurder de lopende huurovereenkomst op met een opzeggingstermijn van zes maanden en eindigt het woonrecht op de vervaldag van de huurovereenkomst.<br>
+<br>
+Als de huurder op het einde van zijn woonrecht van negen jaar aan de voorwaarden, vermeld in het eerste lid, voldoet, wordt zijn woonrecht verlengd met drie jaar. Het woonrecht wordt vervolgens telkens met drie jaar verlengd als de voorwaarden, vermeld in het eerste lid, vervuld zijn.".
+
+### ART 183.
+
+Artikel 6.28 van dezelfde codex wordt vervangen door wat volgt:<br>
+<br>
+"Art. 6.28. Als een huurder verhuist naar een andere sociale huurwoning is de duur van de huurovereenkomst gelijk aan de resterende duur waarop de huurder nog recht had op grond van het woonrecht, vermeld in artikel 6.27.<br>
+<br>
+De Vlaamse Regering kan de duurtijd van het woonrecht, vermeld in artikel 6.27, verkorten voor de gevallen die ze vaststelt, onder meer voor de tijdelijke opvang van gezinnen die in een noodsituatie verkeren.<br>
+<br>
+Een huurder heeft een woonrecht van onbepaalde duur als hij met de verhuurder een huurovereenkomst van onbepaalde duur heeft gesloten vóór 1 maart 2017. Die huurder behoudt het woonrecht van onbepaalde duur als hij verhuist naar een andere sociale huurwoning van dezelfde verhuurder, of, in het kader van gedwongen herhuisvesting wegens renovatie, aanpassing, sloop of verkoop, van een andere verhuurder.".
+
+### ART 184.
+
+Artikel 6.29 van dezelfde codex wordt vervangen door wat volgt:<br>
+<br>
+"Art. 6.29. De huurder is woonbehoeftig als het rekenkundig gemiddelde van het inkomen van de huurder bij de drie laatste jaarlijkse huurprijsaanpassingen minder dan 125% bedraagt van de inkomensgrens die van toepassing is bij de drie laatste jaarlijkse huurprijsaanpassingen. Als er geen jaarlijkse huurprijsaanpassing is, wordt de datum van de verjaardag van de huurovereenkomst genomen.<br>
+<br>
+De huurder kan de verhuurder vragen om de opzegging, vermeld in artikel 6.27, § 2, eerste lid, in te trekken als:<br>
+1° hij aantoont dat zijn huidige inkomen, berekend over drie opeenvolgende maanden en geëxtrapoleerd naar twaalf maanden, die voorafgaan aan het moment van het ingaan van de opzeggingstermijn, onder het plafond van 125 % ligt;<br>
+2° hij aantoont dat hij zijn pensioen heeft aangevraagd of de wettelijke pensioenleeftijd zal bereiken uiterlijk drie jaar na de vervaldag van de huurovereenkomst en dat hij ten gevolge van de pensionering een inkomen zal hebben dat onder het plafond van 125% ligt;<br>
+3° hij van oordeel is dat de intrekking van de opzegging billijk is wegens de specifieke omstandigheden waarin hij zich bevindt.".
+
+### ART 185.
+
+Artikel 6.30 van dezelfde codex wordt vervangen door wat volgt:<br>
+<br>
+"Art. 6.30. De huurder voldoet niet aan de voorwaarde van passendheid van de woning als hij een onderbezette woning bewoont en minstens twee aanbiedingen van een woning die aangepast is aan zijn nieuwe gezinssamenstelling in dezelfde omgeving weigert of geweigerd heeft. De Vlaamse Regering bepaalt wat wordt verstaan onder onderbezette woning en onder dezelfde omgeving en aan welke voorwaarden de aangeboden woning moet voldoen.<br>
+<br>
+De huurder kan de verhuurder vragen om de opzegging, vermeld in artikel 6.27, § 2, eerste lid, in te trekken als hij van oordeel is dat de intrekking van de opzegging billijk is wegens de specifieke omstandigheden waarin hij zich bevindt.".
+
+### ART 186.
+
+Artikel 6.31 van dezelfde codex wordt vervangen door wat volgt:<br>
+<br>
+"Art. 6.31. Als de verhuurder niet ingaat op de vraag, vermeld in artikel 6.29, tweede lid, en artikel 6.30, tweede lid, kan de huurder beroep instellen bij de toezichthouder. De Vlaamse Regering bepaalt de termijnen en de procedure voor het instellen van de vraag tot intrekking van de opzegging en van het beroep.".
+
+### ART 187.
+
+In boek 6, deel 10, titel 1, van dezelfde codex wordt het opschrift van hoofdstuk 2 opgeheven.
+
+### ART 188.
+
+Artikel 6.32 van dezelfde codex wordt opgeheven.
+
+### ART 189.
+
+In artikel 6.33 van dezelfde codex worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de zinsnede "6.27 tot 6.31" vervangen door de zinsnede "6.27, § 2, eerste lid,";<br>
+2° in het eerste lid, 2°, wordt de zinsnede "5° en 6° " vervangen door de zinsnede "5°, 6° en 12° ";<br>
+3° in het eerste lid worden de woorden "van een sociale huurwoning" telkens opgeheven;<br>
+4° het tweede lid wordt vervangen door wat volgt:<br>
+"In het geval, vermeld in het eerste lid, 1°, bedraagt de opzeggingstermijn zes maanden. In de gevallen, vermeld in het eerste lid, 2° en 3°, bedraagt de opzeggingstermijn drie maanden.";<br>
+5° er wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+"Als de verhuurder de huurovereenkomst opzegt, eindigt het woonrecht, vermeld in artikel 6.27, dat de huurder op dat ogenblik uitoefent.".
 
 ### ART 190.
 
