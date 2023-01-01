@@ -2,16 +2,16 @@
   "codex_id": 1036632,
   "title": "Decreet van 2022-02-11 tot wijziging van het decreet van 5 februari 2016 houdende het toeristische logies en tot opheffing van het decreet van 18 juli 2003 betreffende de verblijven en verenigingen die een werking uitoefenen in het kader van \"Toerisme voor Allen\"",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036632/VolledigDocument?datum=2022-09-12",
-  "source_sha256": "c52644515f5721da410e60f5a0940b886f3be22a1e0e6c0b3de3d2ac71014307",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036632/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "be55d44c18c6288d0d2df4c43db0bce0be41580cba96ce069ac1f86e1ec223f1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036632&param=informatie",
-  "as_of": "2022-09-12",
+  "as_of": "2023-01-01",
   "made": "2022-02-11",
   "gazette": "2022-03-11",
   "numac": 2022040486,
   "document_start": "3000-01-01",
   "document_end": null,
-  "in_force": "2022-09-12",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2022-09-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-01-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }
