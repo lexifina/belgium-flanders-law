@@ -79,6 +79,12 @@ b) in het buitengewoon onderwijs: wijziging in de structuur van een school op he
 27° bis leefentiteit: leerlingen met ten minste één gemeenschappelijke ouder, als vermeld in 41°, of leerlingen met eenzelfde hoofdverblijfplaats;<br>
 27° ter leerlingenbegeleiding: een geheel van preventieve en begeleidende maatregelen. Leerlingenbegeleiding situeert zich op vier domeinen: de onderwijsloopbaan, leren en studeren, psychisch en sociaal functioneren en preventieve gezondheidszorg. De maatregelen vertrekken steeds vanuit een geïntegreerde en holistische benadering voor de vier begeleidingsdomeinen en dit vanuit een continuüm van zorg;<br>
 28° leerlingengroep: aantal leerlingen dat samen voor een bepaalde periode eenzelfde opvoedings- of onderwijsactiviteit volgt;<br>
+28° /1 leerling met een zorgthuis:<br>
+a) een leerling die effectief gebruik maakt van een jeugdhulpverleningsbeslissing als vermeld in artikel 2, § 1, 28°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp voor:<br>
+- een verblijf bij een jeugdhulpaanbieder als vermeld in artikel 2, § 1, 27°, van hetzelfde decreet, met uitzondering van de schoolinternaten, vermeld in artikel 68, 5°, van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp en met uitzondering van vrijwillige Jeugdhulpverlening in de multifunctionele centra, als bepaald in het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
+- contextbegeleiding in functie van autonoom wonen of begeleiding in een kleinschalige wooneenheid, overeenkomstig artikel 3 van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp;<br>
+b) een leerling die geplaatst is door de jeugdrechter of jeugdrechtbank in een gemeenschapsinstelling als vermeld in artikel 2, 4°, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
+c) een niet-begeleide minderjarige vreemdeling voor wie de voorwaarden, vermeld in artikel 5 en 5/1 van hoofdstuk 6 van titel XIII van de Programmawet (I) van 24 december 2002, vervuld zijn<br>
 28° bis leerling met specifieke onderwijsbehoeften: leerling met langdurige en belangrijke participatieproblemen die te wijten zijn aan het samenspel tussen:<br>
 a) één of meerdere functiebeperkingen op mentaal, psychisch, lichamelijk of zintuiglijk vlak en;<br>
 b) beperkingen bij het uitvoeren van activiteiten en;<br>
@@ -124,7 +130,7 @@ b) in het buitengewoon basisonderwijs : het pakket lestijden dat bestaat uit de 
 52° bis/1 selectieve participatietoeslagen leerling: de selectieve participatietoeslagen, zoals opgenomen in boek 2, deel 2, titel 1, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid;<br>
 52° bis/1/1 SES-lestijden : lestijden, toegekend op basis van de socio-economische status van leerlingen in het gewoon basisonderwijs die gevat wordt door leerlingkenmerken;<br>
 52° bis/1/2 systematisch contact: een periodiek contact waarop de leerling en het centrum voor leerlingenbegeleiding in persoon samenzitten en er een uniform aanbod voor populaties of doelgroepen wordt voorzien ter uitvoering van het begeleidingsdomein preventieve gezondheidszorg;<br>
-52° bis/2 thuisloze: een leerling die tijdelijk of permanent buiten het eigen gezinsverband opgenomen is door een gezin of persoon, een voorziening of een sociale dienst, bedoeld in het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand, met uitzondering van de internaten die gefinancierd of gesubsidieerd worden door het Departement Onderwijs en Vorming van de Vlaamse Gemeenschap, of een leerling die een niet-begeleide minderjarige vreemdeling is als vermeld in artikel 479 van de programmawet I van 24 december 2002;<br>
+52° bis/2 ...;<br>
 52°ter trekkende bevolking: binnenschippers, kermis- en circusexploitanten en -artiesten en woonwagenbewoners, bedoeld in artikel 2, 3°, van het decreet van 28 april 1998 inzake het Vlaamse beleid ten aanzien van etnisch-culturele minderheden;<br>
 53° type: indeling van het buitengewoon onderwijs op basis van de bijzondere opvoedings- en onderwijsbehoeften die een bepaalde groep leerlingen gemeenschappelijk heeft;<br>
 53° bis uitbreiding van zorg: fase in het zorgcontinuüm waarbij de school de maatregelen uit de fase van verhoogde zorg onverkort verderzet en het CLB een proces van handelingsgerichte diagnostiek opstart. Het CLB richt zich daarbij op een uitgebreide analyse van de onderwijs- en opvoedingsbehoeften van de leerling en op de ondersteuningsbehoeften van de leerkracht(en) en ouders met het oog op het formuleren van adviezen voor het optimaliseren van het proces van afstemming van het onderwijs- en opvoedingsaanbod op de zorgvraag van de leerling. Het CLB bepaalt in samenspraak met de school en de ouders welke bijkomende inzet van middelen, hulp of expertise, hetzij ten aanzien van de school of de leerling, al dan niet in zijn context, wenselijk is alsook de omvang en de duur daarvan;<br>
@@ -2994,7 +3000,7 @@ i) het schoolbestuur biedt, conform artikel 24, § 1, vierde lid, van de gecoör
 <br>
 § 2. Leerlingenkenmerk 4 wordt als volgt vastgesteld :<br>
 1° in een eerste fase wordt de schoolse vertraging van alle buurten berekend. De berekening van de schoolse vertraging, is gebaseerd op alle leerlingen van het gewoon onderwijs die school hebben gelopen in een onderwijsinstelling, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap. Per buurt wordt het percentage vijftienjarige leerlingen berekend die de afgelopen zes tot tien jaar op vijftienjarige leeftijd twee of meer jaar schoolse vertraging hebben opgelopen. Buurten waarvan de berekening van de schoolse vertraging gebaseerd is op minder dan vijftig vijftienjarigen worden hierna dunbevolkte buurten genoemd;<br>
-2° in een tweede fase wordt voor elke leerling vastgesteld wat het percentage schoolse vertraging is van de buurt. Leerlingen die behoren tot de trekkende bevolking, vermeld in artikel 3, 52ter, en thuislozen, vermeld in artikel 3, 52° bis/2, worden geacht te wonen in een buurt met een hoog percentage leerlingen met minstens twee jaar schoolse vertraging op vijftienjarige leeftijd.<br>
+2° in een tweede fase wordt voor elke leerling vastgesteld wat het percentage schoolse vertraging is van de buurt. Leerlingen die behoren tot de trekkende bevolking, vermeld in artikel 3, 52ter, en leerlingen met een zorgthuis worden geacht te wonen in een buurt met een hoog percentage leerlingen met minstens twee jaar schoolse vertraging op vijftienjarige leeftijd.<br>
 <br>
 Voor alle leerlingen uit het gewoon basisonderwijs wordt het 75e percentiel van de buurtscores bepaald. Leerlingen die hun woonplaats hebben in een buurt met een score hoger dan of gelijk aan het 75e percentiel beantwoorden aan de indicator 'woonplaats hebben in een buurt met een hoog percentage leerlingen met minstens twee jaar schoolse vertraging op vijftienjarige leeftijd'.<br>
 <br>
@@ -4520,7 +4526,7 @@ a) die verblijven in een centrum voor kinderzorg en gezinsondersteuning;<br>
 b) die verblijven in tehuizen voor kinderen van wie de ouders geen vaste verblijfplaats hebben;<br>
 c) ...<br>
 d) van wie de ouders tot de trekkende bevolking behoren;<br>
-e) die thuisloos zijn, zoals bepaald in artikel 3, 52° bis/2.<br>
+e) die een zorgthuis hebben.<br>
 De regering bepaalt de wijze waarop wordt vastgesteld of aan die criteria is voldaan.<br>
 De wegingen van 1,5 kunnen niet cumulatief gebeuren;<br>
 7° in afwijking van punt 5° wordt, voor de berekening van de lestijden volgens de schalen, zoals bepaald in artikel 132, op de leerlingen van vestigingsplaatsen die in het Brussels Hoofdstedelijk Gewest liggen, de coëfficiënt 1,11 toegepast;<br>
