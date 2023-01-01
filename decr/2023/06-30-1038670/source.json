@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038670,
+  "title": "Decreet van 2023-06-30 houdende aanpassing van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2023",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038670/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "2601e63c4637e57ab099e3fcaa10f83d57a8434e89b3fb9264b508eb14e46646",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038670&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2023-06-30",
+  "gazette": "2023-10-10",
+  "numac": 2023044297,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 70,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
