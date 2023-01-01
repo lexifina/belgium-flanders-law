@@ -165,9 +165,11 @@ Minstens   75% van het puntenpakket in erkenning wordt besteed aan functies van 
 
 <p>Het bedrag, vermeld in het eerste lid, wordt alleen gesubsidieerd op voorwaarde dat er over de aanwending van het bedrag voorafgaand overleg is gepleegd met het collectief overlegorgaan of dat er collectieve inspraak is geweest en dat er overleg met de werknemersvertegenwoordiging heeft plaatsgevonden, en er aan deze overlegkanalen transparantie is geboden over de aanwending. Op verzoek van het agentschap bewijst het MFC het resultaat van het overleg met het collectief overlegorgaan of collectieve inspraak en het&nbsp;overleg met de werknemersvertegenwoordiging.</p>
 
-<p>Het bedrag, vermeld in het eerste lid, mag niet aangewend worden voor reservevorming of voor de aanwerving van personeel of voor de vergoeding van eigen personeelskosten.</p>
-
-<p>De besteding van het bedrag, vermeld in het eerste lid, mag evenwel gespreid worden over meer dan een boekhoudkundig jaar.</p>
+<p>Het bedrag, vermeld in het eerste lid, mag niet aangewend worden voor reservevorming of voor de aanwerving van personeel of voor de vergoeding van eigen personeelskosten.<br>
+<br>
+In afwijking van het vierde lid kan het bedrag, vermeld in het eerste lid, aangewend worden voor de vergoeding van variabele prestaties die niet vergoed worden conform artikel 8, §1, van het besluit van de Vlaamse regering van 15 december 1993 houdende de subsidiëring van de personeelskosten in bepaalde voorzieningen van de welzijnssector.<br>
+<br>
+De besteding van het bedrag, vermeld in het eerste lid, mag evenwel gespreid worden over meer dan een boekhoudkundig jaar.</p>
 
 ### ART. 20.
 
