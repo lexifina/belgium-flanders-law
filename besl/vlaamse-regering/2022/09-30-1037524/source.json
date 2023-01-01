@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037524,
+  "title": "Besluit van de Vlaamse Regering van 2022-09-30 tot wijziging van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding, wat betreft de toevoeging van de NEET-jongeren als doelgroep van de activeringsregisseur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037524/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "1e66f392b342a05b260484f7715edad4b7c533cd9cacfac03ff75781c79bb65d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037524&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2022-09-30",
+  "gazette": "2022-12-19",
+  "numac": 2022033990,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
