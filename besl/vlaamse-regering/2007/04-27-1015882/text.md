@@ -30,12 +30,13 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 
 ### BIJLAGE I.
 
-<p><span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Bijlage I. Lijst van gewassen die moeten voldoen aan de CBP-testprotocollen</span></span></span><br>
+<p>Bijlage I. Lijst van gewassen die moeten voldoen aan de CBP-testprotocollen<br>
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Deze bijlage voorziet in de gedeeltelijke omzetting van uitvoeringsrichtlijn (EU) 2021/746 van de Commissie van 6 mei 2021 tot wijziging van de Richtlijnen 2003/90/EG en 2003/91/EG wat betreft de protocollen voor het onderzoek van bepaalde rassen van landbouw- en groentegewassen en tot wijziging van Richtlijn 2003/90/EG wat betreft bepaalde botanische namen van planten.</span></span></span><br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">1° landbouwgewassen</span></span></span></p>
+Deze bijlage voorziet in de gedeeltelijke omzetting van uitvoeringsrichtlijn (EU) 2022/905 van de Commissie van 9 juni 2022 tot wijziging van de Richtlijnen 2003/90/EG en 2003/91/EG wat betreft de protocollen voor het onderzoek van bepaalde rassen van landbouw- en groentegewassen.<br>
+<br>
+1° landbouwgewassen</p>
 
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+<table border="1">
 	<tbody>
 		<tr>
 			<td>wetenschappelijke benaming</td>
@@ -65,7 +66,12 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 		<tr>
 			<td>Cannabis sativa L.</td>
 			<td>hennep</td>
-			<td>TP 276/1 gedeeltelijke rev. van 21.3.2018</td>
+			<td>TP 276/2 van 1.2.2022</td>
+		</tr>
+		<tr>
+			<td>Dactylis glomerata L.</td>
+			<td>kropaar</td>
+			<td>TP 31/1 van 25.3.2021</td>
 		</tr>
 		<tr>
 			<td>Festuca arundinacea Schreb.</td>
@@ -138,14 +144,34 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 			<td>TP 4/2 van 19.3.2019</td>
 		</tr>
 		<tr>
+			<td>Medicago sativa L.</td>
+			<td>luzerne</td>
+			<td>TP 6/1 van 22.12.2021</td>
+		</tr>
+		<tr>
+			<td>Medicago x varia T. Martyn</td>
+			<td>bonte luzerne</td>
+			<td>TP 6/1 van 22.12.2021</td>
+		</tr>
+		<tr>
 			<td>Oryza sativa L.</td>
 			<td>rijst</td>
 			<td>TP 16/3 van 1.10.2015</td>
 		</tr>
 		<tr>
+			<td>Phleum nodosum L.</td>
+			<td>klein timotheegras</td>
+			<td>TP 34/1 van 22.12.2021</td>
+		</tr>
+		<tr>
+			<td>Phleum pratense L.</td>
+			<td>timotheegras</td>
+			<td>TP 34/1 van 22.12.2021</td>
+		</tr>
+		<tr>
 			<td>Pisum sativum L. (partim)</td>
 			<td>voedererwt</td>
-			<td>TP 7/2 rev. 3 van 6.3.2020</td>
+			<td>TP 7/2 rev. 3 corr. van 16.3.2020</td>
 		</tr>
 		<tr>
 			<td>Poa pratensis L.</td>
@@ -165,7 +191,7 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 		<tr>
 			<td>Secale cereale L.</td>
 			<td>rogge</td>
-			<td>TP 58/1 van 31.10.2002</td>
+			<td>TP 58/1 rev. van 27.4.2022</td>
 		</tr>
 		<tr>
 			<td>Solanum tuberosum L.</td>
@@ -174,7 +200,7 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 		</tr>
 		<tr>
 			<td>Sorghum bicolor (L.) Moench subsp. bicolor</td>
-			<td>sorghum</td>
+			<td>sorgho</td>
 			<td>TP 122/1 van 19.3.2019</td>
 		</tr>
 		<tr>
@@ -188,23 +214,28 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 			<td>TP 122/1 van 19.3.2019</td>
 		</tr>
 		<tr>
+			<td>Trifolium pratense L.</td>
+			<td>rode klaver</td>
+			<td>TP 5/1 van 22.12.2021</td>
+		</tr>
+		<tr>
 			<td>Triticum aestivum L. subsp. aestivum</td>
-			<td>zachte tarwe</td>
+			<td>tarwe</td>
 			<td>TP 3/5 van 19.3.2019</td>
 		</tr>
 		<tr>
 			<td>Triticum turgidum L. subsp. durum (Desf.) van Slageren</td>
-			<td>harde tarwe/durumtarwe</td>
+			<td>harde tarwe</td>
 			<td>TP 120/3 van 19.3.2014</td>
 		</tr>
 		<tr>
 			<td>xTriticosecale Wittm. ex A. Camus</td>
 			<td>hybriden die het product zijn van de kruising van een soort van het geslacht Triticum met een soort van het geslacht Secale</td>
-			<td>TP 121/2 rev. 1 van 16.2.2011</td>
+			<td>TP 121/3 van 27.4.2022</td>
 		</tr>
 		<tr>
 			<td>Vicia faba L.</td>
-			<td>paardenboon/veldboon</td>
+			<td>veldboon</td>
 			<td>TP 8/1 van 19.3.2019</td>
 		</tr>
 		<tr>
@@ -220,9 +251,8 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 	</tbody>
 </table>
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">2° groentegewassen</span></span></span>
-
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+2° groentegewassen
+<table border="1">
 	<tbody>
 		<tr>
 			<td>wetenschappelijke benaming</td>
@@ -252,7 +282,7 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 		<tr>
 			<td>Allium sativum L.</td>
 			<td>knoflook</td>
-			<td>TP 162/1 van 25.3.2004</td>
+			<td>TP 162/1 corr. van 25.3.2004</td>
 		</tr>
 		<tr>
 			<td>Allium schoenoprasum L.</td>
@@ -261,7 +291,7 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 		</tr>
 		<tr>
 			<td>Apium graveolens L.</td>
-			<td>bleekselderij</td>
+			<td>selderij</td>
 			<td>TP 82/1 van 13.3.2008</td>
 		</tr>
 		<tr>
@@ -282,7 +312,7 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 		<tr>
 			<td>Beta vulgaris L.</td>
 			<td>snijbiet</td>
-			<td>TP 106/1 van 11.3.2015</td>
+			<td>TP 106/2 van 14.4.2021</td>
 		</tr>
 		<tr>
 			<td>Brassica oleracea L.</td>
@@ -301,7 +331,7 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 		</tr>
 		<tr>
 			<td>Brassica oleracea L.</td>
-			<td>spruitkool</td>
+			<td>spruitjes</td>
 			<td>TP 54/2 rev. van 15.3.2017</td>
 		</tr>
 		<tr>
@@ -312,17 +342,17 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 		<tr>
 			<td>Brassica oleracea L.</td>
 			<td>savooiekool, wittekool en rodekool</td>
-			<td>TP 48/3 rev. van 15.3.2017</td>
+			<td>TP 48/3 rev. 2 van 25.3.2021</td>
 		</tr>
 		<tr>
 			<td>Brassica rapa L.</td>
-			<td>Chinese kool, paksoi</td>
+			<td>Chinese kool</td>
 			<td>TP 105/1 van 13.3.2008</td>
 		</tr>
 		<tr>
 			<td>Capsicum annuum L.</td>
 			<td>paprika of Spaanse peper</td>
-			<td>TP 76/2 rev. 2 van 21.4.2020</td>
+			<td>TP 76/2 rev. 2 corr. van 21.4.2020</td>
 		</tr>
 		<tr>
 			<td>Cichorium endivia L.</td>
@@ -332,7 +362,7 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 		<tr>
 			<td>Cichorium intybus L.</td>
 			<td>bladcichorei</td>
-			<td>TP/154/1 rev. van 19.3.2019</td>
+			<td>TP 154/1 rev. 2 corr. van 14.4.2021</td>
 		</tr>
 		<tr>
 			<td>Cichorium intybus L.</td>
@@ -347,12 +377,12 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 		<tr>
 			<td>Citrullus lanatus (Thunb.) Matsum. et Nakai</td>
 			<td>watermeloen</td>
-			<td>TP 142/2 van 19.3.2014</td>
+			<td>TP 142/2 rev. van 14.4.2021</td>
 		</tr>
 		<tr>
 			<td>Cucumis melo L.</td>
 			<td>meloen</td>
-			<td>TP 104/2 rev. van 21.4.2020</td>
+			<td>TP 104/2 rev. 2 van 25.3.2021</td>
 		</tr>
 		<tr>
 			<td>Cucumis sativus L.</td>
@@ -366,7 +396,7 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 		</tr>
 		<tr>
 			<td>Cucurbita maxima Duchesne x Cucurbita moschata Duchesne</td>
-			<td>interspecifieke hybriden van Cucurbita maxima Duchesne x Cucurbita moschata Duchesne voor gebruik als wortelstokken/ onderstammen</td>
+			<td>interspecifieke hybriden van Cucurbita maxima Duchesne x Cucurbita moschata Duchesne voor gebruik als wortelstokken/onderstammen</td>
 			<td>TP 311/1 van 15.3.2017</td>
 		</tr>
 		<tr>
@@ -386,18 +416,18 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 		</tr>
 		<tr>
 			<td>Foeniculum vulgare Mill.</td>
-			<td>knolvenkel</td>
-			<td>TP 183/1 van 25.3.2004</td>
+			<td>venkel</td>
+			<td>TP 183/2 van 14.4.2021</td>
 		</tr>
 		<tr>
 			<td>Lactuca sativa L.</td>
 			<td>sla</td>
-			<td>TP 13/6 rev. van 15.2.2019</td>
+			<td>TP 13/6 rev. 3 van 27.4.2022</td>
 		</tr>
 		<tr>
 			<td>Petroselinum crispum (Mill.) Nyman ex A. W. Hill</td>
 			<td>peterselie</td>
-			<td>TP 136/1 van 21.3.2007</td>
+			<td>TP 136/1 corr. van 21.3.2007</td>
 		</tr>
 		<tr>
 			<td>Phaseolus coccineus L.</td>
@@ -412,7 +442,7 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 		<tr>
 			<td>Pisum sativum L. (partim)</td>
 			<td>kreukzadige doperwt, rondzadige doperwt en peul</td>
-			<td>TP 7/2 rev. 3 van 6.3.2020</td>
+			<td>TP 7/2 rev. 3 van 16.3.2020</td>
 		</tr>
 		<tr>
 			<td>Raphanus sativus L.</td>
@@ -432,12 +462,12 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 		<tr>
 			<td>Solanum lycopersicum L.</td>
 			<td>tomaat</td>
-			<td>TP 44/4 rev. 4 van 21.4.2020</td>
+			<td>TP 44/4 rev. 5 van 14.4.2021</td>
 		</tr>
 		<tr>
 			<td>Solanum habrochaites S. Knapp &amp; D.M. Spooner; Solanum lycopersicum L. x Solanum habrochaites S. Knapp &amp; D.M. Spooner; Solanum lycopersicum L. x Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. x Solanum cheesmaniae (L. Ridley) Fosberg; Solanum pimpinellifolium L. x Solanum habrochaites S. Knapp &amp; D.M. Spooner</td>
 			<td>tomaatwortelstokken</td>
-			<td>TP 294/1 rev. 4 van 21.4.2020</td>
+			<td>TP 294/1 rev. 5 van 14.4.2021</td>
 		</tr>
 		<tr>
 			<td>Solanum melongena L.</td>
@@ -447,7 +477,7 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 		<tr>
 			<td>Spinacia oleracea L.</td>
 			<td>spinazie</td>
-			<td>TP 55/5 rev. 3 van 6.3.2020</td>
+			<td>TP 55/5 rev. 4 van 27.4.2022</td>
 		</tr>
 		<tr>
 			<td>Valerianella locusta (L.) Laterr.</td>
@@ -466,17 +496,18 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 		</tr>
 	</tbody>
 </table>
-
-<p><br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">De tekst van deze protocollen is te vinden op de website van het Communautair Bureau voor Plantenrassen (CBP) (www.cpvo.europa.eu/main/nl).</span></span></span></p>
+<br>
+De tekst van deze protocollen is te vinden op de website van het Communautair Bureau voor Plantenrassen (CBP) (www.cpvo.europa.eu/main/nl).<br>
+&nbsp;
 
 ### BIJLAGE II.
 
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Bijlage II. Lijst van gewassen die moeten voldoen aan de UPOV-testrichtsnoeren</span></span></span><br>
+Bijlage II. Lijst van gewassen die moeten voldoen aan de UPOV-testrichtsnoeren<br>
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Deze bijlage voorziet in de gedeeltelijke omzetting van uitvoeringsrichtlijn (EU) 2021/746 van de Commissie van 6 mei 2021 tot wijziging van de Richtlijnen 2003/90/EG en 2003/91/EG wat betreft de protocollen voor het onderzoek van bepaalde rassen van landbouw- en groentegewassen en tot wijziging van Richtlijn 2003/90/EG wat betreft bepaalde botanische namen van planten.</span></span></span><br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">1° landbouwgewassen</span></span></span>
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+Deze bijlage voorziet in de gedeeltelijke omzetting van uitvoeringsrichtlijn (EU) 2022/905 van de Commissie van 9 juni 2022 tot wijziging van de Richtlijnen 2003/90/EG en 2003/91/EG wat betreft de protocollen voor het onderzoek van bepaalde rassen van landbouw- en groentegewassen.<br>
+<br>
+1° landbouwgewassen
+<table border="1">
 	<tbody>
 		<tr>
 			<td>wetenschappelijke benaming</td>
@@ -485,7 +516,7 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 		</tr>
 		<tr>
 			<td>Agrostis canina L.</td>
-			<td>kruipend struisgras en heidestruisgras</td>
+			<td>kruipend struisgras/moerasstruisgras</td>
 			<td>TG/30/6 van 12.10.1990</td>
 		</tr>
 		<tr>
@@ -535,23 +566,18 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 		</tr>
 		<tr>
 			<td>Carthamus tinctorius L.</td>
-			<td>saffloer</td>
+			<td>safflower</td>
 			<td>TG/134/3 van 12.10.1990</td>
 		</tr>
 		<tr>
-			<td>Dactylis glomerata L.</td>
-			<td>kropaar</td>
-			<td>TG/31/8 van 17.4.2002</td>
-		</tr>
-		<tr>
 			<td>xFestulolium Asch. et Graebn.</td>
-			<td>hybriden die het product zijn van de kruising van een soort van het geslacht Festuca met een soort van het geslacht Lolium</td>
+			<td>hybriden die het gevolg zijn van de kruising van een soort van het geslacht Festuca met een soort van het geslacht Lolium</td>
 			<td>TG/243/1 van 9.4.2008</td>
 		</tr>
 		<tr>
 			<td>Lotus corniculatus L.</td>
 			<td>rolklaver</td>
-			<td>TP 193/1 van 9.4.2008</td>
+			<td>TG 193/1 van 9.4.2008</td>
 		</tr>
 		<tr>
 			<td>Lupinus albus L.</td>
@@ -570,17 +596,17 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 		</tr>
 		<tr>
 			<td>Medicago doliata Carmign.</td>
-			<td>-</td>
+			<td>(geen triviale naam in het Nederlands)</td>
 			<td>TG/228/1 van 5.4.2006</td>
 		</tr>
 		<tr>
 			<td>Medicago italica (Mill.) Fiori</td>
-			<td>-</td>
+			<td>(geen triviale naam in het Nederlands)</td>
 			<td>TG/228/1 van 5.4.2006</td>
 		</tr>
 		<tr>
 			<td>Medicago littoralis Rohde ex Loisel.</td>
-			<td>-</td>
+			<td>(geen triviale naam in het Nederlands)</td>
 			<td>TG/228/1 van 5.4.2006</td>
 		</tr>
 		<tr>
@@ -590,7 +616,7 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 		</tr>
 		<tr>
 			<td>Medicago murex Willd.</td>
-			<td>-</td>
+			<td>(geen triviale naam in het Nederlands)</td>
 			<td>TG/228/1 van 5.4.2006</td>
 		</tr>
 		<tr>
@@ -600,13 +626,8 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 		</tr>
 		<tr>
 			<td>Medicago rugosa Desr.</td>
-			<td>-</td>
+			<td>(geen triviale naam in het Nederlands)</td>
 			<td>TG/228/1 van 5.4.2006</td>
-		</tr>
-		<tr>
-			<td>Medicago sativa L.</td>
-			<td>luzerne</td>
-			<td>TG/6/5 van 6.4.2005</td>
 		</tr>
 		<tr>
 			<td>Medicago scutellata (L.) Mill.</td>
@@ -615,38 +636,18 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 		</tr>
 		<tr>
 			<td>Medicago truncatula Gaertn.</td>
-			<td>-</td>
+			<td>(geen triviale naam in het Nederlands)</td>
 			<td>TG/228/1 van 5.4.2006</td>
 		</tr>
 		<tr>
-			<td>Medicago x varia T. Martyn</td>
-			<td>bonte luzerne</td>
-			<td>TG/6/5 van 6.4.2005</td>
-		</tr>
-		<tr>
 			<td>Papaver somniferum L.</td>
-			<td>blauwmaanzaad</td>
+			<td>slaapbol</td>
 			<td>TG/166/4 van 9.4.2014</td>
 		</tr>
 		<tr>
 			<td>Phacelia tanacetifolia Benth.</td>
 			<td>phacelia</td>
 			<td>TG/319/1 van 5.4.2017</td>
-		</tr>
-		<tr>
-			<td>Phleum nodosum L.</td>
-			<td>klein timoteegras</td>
-			<td>TG/34/7 van 17.12.2020</td>
-		</tr>
-		<tr>
-			<td>Phleum pratense L.</td>
-			<td>timotee</td>
-			<td>TG/34/7 van 17.12.2020</td>
-		</tr>
-		<tr>
-			<td>Trifolium pratense L.</td>
-			<td>rode klaver</td>
-			<td>TG/5/8 van 17.12.2020</td>
 		</tr>
 		<tr>
 			<td>Trifolium repens L.</td>
@@ -661,9 +662,8 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 	</tbody>
 </table>
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">2° groentegewassen</span></span></span>
-
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+2° groentegewassen
+<table border="1">
 	<tbody>
 		<tr>
 			<td>wetenschappelijke benaming</td>
@@ -678,7 +678,8 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 	</tbody>
 </table>
 <br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">De tekst van deze richtsnoeren is te vinden op de website van de Internationale Unie tot bescherming van kweekproducten (UPOV) (www.upov.int/portal/index.html.en).</span></span></span>
+De tekst van deze richtsnoeren is te vinden op de website van de Internationale Unie tot bescherming van kweekproducten (UPOV) (www.upov.int/portal/index.html.en).<br>
+&nbsp;
 
 ### BIJLAGE
 
