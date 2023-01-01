@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038006,
+  "title": "Besluit van de Vlaamse Regering van 2023-01-20 tot wijziging van artikel 31 van het besluit van de Vlaamse Regering van 28 september 2018 houdende het terugkommoment in het kader van de rijopleiding categorie B",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038006/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "dfc57f4078ce5f6eeb683c30ab38e16794b5bc511767daa2ca435ac566a64092",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038006&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2023-01-20",
+  "gazette": "2023-04-17",
+  "numac": 2023015107,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
