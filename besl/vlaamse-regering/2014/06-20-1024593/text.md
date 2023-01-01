@@ -51,7 +51,7 @@ De Vlaamse minister, bevoegd voor de ruimtelijke ordening, of zijn   gemachtigde
 
 ### ART. 6.
 
-Het Rubiconfonds is belast met de verdere financiële   afhandeling.<BR>
+Het BRV-fonds, vermeld in artikel 1.6.1 van de Vlaamse Codex Ruimtelijke Ordening, is belast met de verdere financiële afhandeling.
 
 ## HOOFDSTUK 4 Slotbepaling
 
