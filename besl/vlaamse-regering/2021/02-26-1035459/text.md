@@ -112,85 +112,24 @@ Hoofdstuk 7 treedt in werking op 1 januari 2021. Hoofdstuk 8 treedt in werking o
 
 ### ART 10.
 
-Dit hoofdstuk is van toepassing op:<br>
-1° de personeelsleden en inrichtende machten vermeld in artikel 2, § 1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs, met uitzondering van de pedagogische begeleidingsdiensten;<br>
-2° de personeelsleden en inrichtende machten vermeld in artikel 4, § 1, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs, met uitzondering van de pedagogische begeleidingsdiensten;<br>
-3° de personeelsleden vermeld in artikel 3 van het decreet Rechtspositie Basiseducatie van 7 juli 2017 en de centrumbesturen bedoeld in artikel 5, 4°, van het decreet Rechtspositie Basiseducatie van 7 juli 2017.
+...
 
 ### ART 11.
 
-§ 1. Een inrichtende macht of een centrumbestuur, vermeld in artikel 10, kan aan een personeelslid dat minstens voor een halftijdse opdracht is aangesteld of aan een persoon die niet in het onderwijs is aangesteld een meelooptraject voor directeur aanbieden met het oog op het opnemen van het ambt van directeur in de nabije toekomst. Een personeelslid kan ook zelf aan een inrichtende macht of een centrumbestuur vragen om een meelooptraject te organiseren.<br>
-<br>
-Een meelooptraject voor directeur laat toe dat een personeelslid gedurende een bepaalde periode kan meelopen met een of meerdere ervaren directeurs. Tijdens het meelooptraject kan het betrokken personeelslid kijken, observeren en vragen stellen over de job van directeur. Het personeelslid krijgt zo een beeld van wat de job van directeur allemaal inhoudt en kan daarbij ervaren wat het werk allemaal vergt en hoe de ervaren directeur daarmee omgaat. Tijdens het meelooptraject oefent het personeelslid geen taken of opdrachten uit in het ambt van directeur.<br>
-<br>
-De inrichtende macht of het centrumbestuur onderhandelt in het daartoe bevoegde onderhandelingscomité selectiecriteria voor deelname aan het meelooptraject voor directeur. Als het meelooptraject georganiseerd wordt in scholen van basis- of secundair onderwijs die behoren tot een scholengemeenschap onderhandelt de scholengemeenschap in het daartoe bevoegde onderhandelingscomité selectiecriteria voor deelname aan het meelooptraject voor directeur.<br>
-<br>
-Inrichtende machten of centrumbesturen kunnen ook een samenwerkingsverband vormen om het meelooptraject voor directeur te organiseren en maken dan samen afspraken over de selectiecriteria voor deelname aan het meelooptraject voor directeur. Deze selectiecriteria worden onderhandeld in de bevoegde lokale onderhandelingscomités van de inrichtende machten of centrumbesturen die deel uitmaken van het samenwerkingsverband.<br>
-<br>
-§ 2. Het meelooptraject voor directeur wordt ontwikkeld en georganiseerd door de inrichtende macht, de scholengemeenschap, het centrumbestuur of het samenwerkingsverband, vermeld in paragraaf 1. Daarbij moet minstens rekening worden gehouden met volgende criteria:<br>
-- de ontwikkeling en vormgeving van het meelooptraject verloopt in samenspraak met ervaren directeurs van de instellingen die behoren tot de inrichtende macht, het centrumbestuur, de scholengemeenschap of het samenwerkingsverband;<br>
-- het meelooptraject vindt plaats in een of meer instellingen van de inrichtende macht of van het centrumbestuur. Als het meelooptraject georganiseerd wordt in een scholengemeenschap of in een samenwerkingsverband wordt bepaald in welke instelling of instellingen het meelooptraject zal plaatsvinden;<br>
-- de duurtijd van een meelooptraject bedraagt maximum zes opeenvolgende maanden. Als een vakantieperiode binnen de periode van het meelooptraject valt, dan telt die mee voor de bepaling van de zes opeenvolgende maanden;<br>
-- het meelooptraject is steeds persoonsgebonden.
+...
 
 ### ART 12.
 
-§ 1. Als het personeelslid instemt met het aanbod van een meelooptraject voor directeur, dan stellen de inrichtende macht of het centrumbestuur dat het meelooptraject organiseert, in overleg met het personeelslid het feitelijke meelooptraject op, rekening houdend met de criteria die daartoe werden bepaald volgens artikel 11, § 2.<br>
-<br>
-Als het overleg, vermeld in het eerste lid, tot een akkoord leidt, wordt het meelooptraject schriftelijk vastgelegd en voor akkoord ondertekend door het personeelslid en de inrichtende macht of het centrumbestuur.<br>
-<br>
-§ 2. Als het personeelslid behoort tot een andere inrichtende macht of centrumbestuur dan datgene dat het meelooptraject voor directeur organiseert, dan wordt deze inrichtende macht of dit centrumbestuur ook bij dit overleg betrokken. De inrichtende macht of het centrumbestuur waar het personeelslid is aangesteld en dat het verlof voor het meelooptraject van directeur aan het personeelslid toekent, blijft als werkgever verantwoordelijk voor het personeelslid tijdens de uitoefening van het meelooptraject.<br>
-<br>
-Als het overleg, vermeld in het eerste lid, tot een akkoord leidt, wordt het meelooptraject schriftelijk vastgelegd en voor akkoord ondertekend door de partijen vermeld in het eerste lid.
+...
 
 ### ART 13.
 
-§ 1. Als het personeelslid akkoord gaat met het voorgestelde meelooptraject, als vermeld in artikel 11 en 12, verzoekt het zijn inrichtende macht of centrumbestuur om hem een verlof voor een meelooptraject van directeur toe te kennen.<br>
-<br>
-De inrichtende macht of het centrumbestuur kan, mits goedkeuring van haar aanvraag door het desbetreffende agentschap als vermeld in artikel 15, § 2, het verlof voor een meelooptraject van directeur toekennen voor een periode van maximum zes opeenvolgende maanden, conform het voorstel tot meelooptraject dat alle betrokken partijen zijn overeengekomen, als vermeld in artikel 12. Tijdens deze periode wordt het personeelslid voor een halftijdse opdracht vrijgesteld, op voorwaarde dat de aanstelling van het personeelslid gedurende de volledige duur van het verlof doorloopt.<br>
-<br>
-§ 2. Het personeelslid blijft tijdens het verlof voor een meelooptraject van directeur, vermeld in paragraaf 1, in de stand dienstactiviteit en blijft recht hebben op zijn salaris of salaristoelage voor de prestaties en de duur waarvoor het verlof geldt.<br>
-<br>
-De inrichtende macht of het centrumbestuur kan het personeelslid dat met een verlof voor een meelooptraject van directeur is, vervangen voor de duur van het verlof.<br>
-<br>
-Als de inrichtende macht of het centrumbestuur of het personeelslid het afgesproken meelooptraject vroegtijdig stopzet, dan wordt het verlof voor een meelooptraject onmiddellijk beëindigd.
+...
 
 ### ART 14.
 
-§ 1. Een inrichtende macht of een centrumbestuur, vermeld in artikel 10, kan het meelooptraject voor directeur, vermeld in artikel 11, ook aanbieden aan een persoon die niet in het onderwijs is aangesteld, met het oog op een aanwerving als directeur van een instelling.<br>
-<br>
-Als deze persoon instemt met het aanbod van een meelooptraject stellen de inrichtende macht of het centrumbestuur dat het meelooptraject organiseert, in overleg met hem het feitelijke meelooptraject op, rekening houdend met de criteria die daartoe werden bepaald volgens artikel 11, § 2. In afwijking van artikel 11, § 2, kan dit meelooptraject slechts voor een periode van maximum drie opeenvolgende maanden worden aangeboden.<br>
-<br>
-Als het overleg, vermeld in het tweede lid, tot een akkoord leidt en de aanvraag van de inrichtende macht of het centrumbestuur voor het meelooptraject is goedgekeurd door het agentschap volgens artikel 15, § 2, wordt het meelooptraject schriftelijk vastgelegd en voor akkoord ondertekend door de persoon en de inrichtende macht of het centrumbestuur.<br>
-§ 2. Tijdens de duur van het meelooptraject stelt de inrichtende macht of het centrumbestuur de externe persoon tijdelijk aan in voltijdse betrekking van een wervingsambt in een onderwijsinstelling van het onderwijsniveau waar deze externe persoon nadien als directeur zal worden aangeworven. Daartoe richt de inrichtende macht of het centrumbestuur in die instelling een niet-organieke voltijdse betrekking op in een wervingsambt, mits goedkeuring van haar aanvraag door het desbetreffende agentschap als vermeld in artikel 15, § 2.<br>
-<br>
-De externe persoon moet voor deze tijdelijke aanstelling voldoen aan de volgende aanstellingsvoorwaarden voor het wervingsambt in kwestie:<br>
-- in een instelling van het gemeenschapsonderwijs aan de bepalingen van artikel 17, § 1 en 2, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991;<br>
-- in een instelling van het gesubsidieerd onderwijs aan de bepalingen van artikel 19, § 1, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991;<br>
-- in een centrum voor basiseducatie aan de bepalingen van artikel 27 van het decreet Rechtspositie Basiseducatie van 7 juli 2017.
+...
 
 ### ART 15.
 
-§ 1. Tijdens het kalenderjaar 2021 kunnen maximaal het volgende aantal meelooptrajecten worden gefinancierd of gesubsidieerd:<br>
-1° in het basisonderwijs maximaal 304 meelooptrajecten;<br>
-2° in het secundair onderwijs maximaal 166 meelooptrajecten;<br>
-3° in het deeltijds kunstonderwijs maximaal 11 meelooptrajecten;<br>
-4° in het volwassenenonderwijs (CVO + CBE) maximaal 9 meelooptrajecten;<br>
-5° in de CLB maximaal 9 meelooptrajecten.<br>
-<br>
-Tijdens het kalenderjaar 2022 kunnen maximaal het volgende aantal meelooptrajecten worden gefinancierd of gesubsidieerd:<br>
-1° in het basisonderwijs maximaal 195 meelooptrajecten;<br>
-2° in het secundair onderwijs maximaal 106 meelooptrajecten;<br>
-3° in het deeltijds kunstonderwijs maximaal 9 meelooptrajecten;<br>
-4° in het volwassenenonderwijs (CVO + CBE) maximaal 7 meelooptrajecten;<br>
-5° in de CLB maximaal 7 meelooptrajecten.<br>
-<br>
-Een aangevat meelooptraject wordt, ongeacht de duurtijd van het traject, altijd als een aangewend meelooptraject beschouwd.<br>
-<br>
-§ 2. De inrichtende macht of het centrumbestuur, vermeld in artikel 10, dient uiterlijk een maand voor de startdatum ervan, een aanvraag tot financiering of subsidiering van een meelooptraject in:<br>
-- bij het Agentschap voor Onderwijsdiensten als het gaat om een meelooptraject in een instelling van het basisonderwijs, deeltijds kunstonderwijs, secundair onderwijs of in een centrum voor leerlingenbegeleiding;<br>
-- bij het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen als het gaat om een meelooptraject in een centrum voor volwassenenonderwijs of een centrum voor basiseducatie.<br>
-<br>
-Bij haar aanvraag vermeldt de inrichtende macht of het centrumbestuur in welk onderwijsniveau zij het meelooptraject wenst te organiseren en of het gaat om een halftijdse vrijstelling van een personeelslid of om de inrichting van een tijdelijke niet-organieke betrekking in een wervingsambt voor een externe persoon.<br>
-<br>
-Bij goedkeuring van de aanvraag kent de inrichtende macht of het centrumbestuur bij de aanvang van het meelooptraject aan het personeelslid het verlof voor een meelooptraject toe en kan ze een vervanger aanstellen voor het overeenkomend volume van het toegestane verlof, als vermeld in artikel 13, of stelt ze de externe persoon aan als tijdelijk personeelslid in een niet-organieke betrekking in een wervingsambt, als vermeld in artikel 14.
+...
