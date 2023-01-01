@@ -34,7 +34,7 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 2.
 
-§ 1. De initiatiefnemer bezorgt de VMSW conform artikel 4.13, tweede lid, 4°, van het Besluit Vlaamse Codex Wonen van 2021 een rapport over de huidige staat van de gebouwen of woningen die deel uitmaken van het project, hierna scorecard te noemen.<br>
+§ 1. De initiatiefnemer bezorgt het agentschap Wonen in Vlaanderen conform artikel 4.13, tweede lid, 4°, van het Besluit Vlaamse Codex Wonen van 2021 een rapport over de huidige staat van de gebouwen of woningen die deel uitmaken van het project, hierna scorecard te noemen.<br>
 <br>
 In de scorecard geeft de initiatiefnemer een score van 1 (uitstekende staat) tot en met 6 (onherstelbaar) voor de volgende elementen die betrekking hebben op de staat van de gebouwen of woningen:<br>
 1° externe kenmerken;<br>
@@ -44,7 +44,7 @@ In de scorecard geeft de initiatiefnemer een score van 1 (uitstekende staat) tot
 <br>
 Daarna worden de scores, vermeld in het tweede lid, per element vertaald in een score op 100: 6 is 0%, 5 is 20%, 4 is 40%, 3 is 60%, 2 is 80% en 1 is 100%.<br>
 <br>
-Op basis van de scorecard stelt de VMSW voor de gebouwen of woningen een conditiescore vast, rekening houdend met de volgende weging van de verplichte elementen:<br>
+Op basis van de scorecard stelt het agentschap Wonen in Vlaanderen voor de gebouwen of woningen een conditiescore vast, rekening houdend met de volgende weging van de verplichte elementen:<br>
 1° externe kenmerken: 30%;<br>
 2° isolatie: 30%;<br>
 3° interne kenmerken: 20%;<br>
@@ -52,7 +52,7 @@ Op basis van de scorecard stelt de VMSW voor de gebouwen of woningen een conditi
 <br>
 In de scorecard geeft de initiatiefnemer aan of de huidige staat van de gebouwen of woningen wel (score van 0) of niet (score van 1) voldoet aan de elementaire veiligheids-, gezondheids- en woningkwaliteitsvereisten, vastgesteld bij of krachtens artikel 3.1 van de Vlaamse Codex Wonen van 2021. Als een element niet onderzocht kan worden, wordt dat aangegeven als `onbekend'.<br>
 <br>
-Als een gebouw of woning niet voldoet aan een of meer van de veiligheids- en gezondheidsaspecten, vastgesteld bij of krachtens artikel 3.1 van de Vlaamse Codex Wonen van 2021, trekt de VMSW punten af van de conditiescore. Per aanwezig veiligheids- of gezondheidsrisico wordt de volgende negatieve score toegekend:<br>
+Als een gebouw of woning niet voldoet aan een of meer van de veiligheids- en gezondheidsaspecten, vastgesteld bij of krachtens artikel 3.1 van de Vlaamse Codex Wonen van 2021, trekt het agentschap Wonen in Vlaanderen punten af van de conditiescore. Per aanwezig veiligheids- of gezondheidsrisico wordt de volgende negatieve score toegekend:<br>
 1° stabiliteit: -10%;<br>
 2° brandveiligheid: -10%;<br>
 3° veiligheid van de installaties: -15%;<br>
@@ -60,18 +60,18 @@ Als een gebouw of woning niet voldoet aan een of meer van de veiligheids- en gez
 5° valbeveiliging: -5%;<br>
 6° binnenklimaat: -5%.<br>
 <br>
-§ 2. De initiatiefnemer bezorgt de VMSW conform artikel 4.13, tweede lid, 5°, van het Besluit Vlaamse Codex Wonen van 2021 een toelichtingsnota waarin hij:<br>
+§ 2. De initiatiefnemer bezorgt het agentschap Wonen in Vlaanderen conform artikel 4.13, tweede lid, 5°, van het Besluit Vlaamse Codex Wonen van 2021 een toelichtingsnota waarin hij:<br>
 1° de keuze motiveert die hij heeft gemaakt voor de vervangingsbouw of de investeringsverrichting;<br>
 2° een inschatting maakt van de planning van de werkzaamheden voor de volgende vijf jaar;<br>
 3° in voorkomend geval een beschrijving geeft van de voorgestelde fasering.
 
 ### ART 3.
 
-De VMSW geeft een positief advies als uit de scorecard en de toelichtingsnota blijkt dat de vervangingsbouw of de investeringsverrichting:<br>
-1° de woningen op duurzame wijze binnen de respectieve prijsplafonds laten beantwoorden aan de normen en de bouwtechnische en conceptuele richtlijnen, uitgezonderd de richtlijnen waarvoor de VMSW of de kwaliteitskamer een afwijking toestaan;<br>
+Het agentschap Wonen in Vlaanderen geeft een positief advies als uit de scorecard en de toelichtingsnota blijkt dat de vervangingsbouw of de investeringsverrichting:<br>
+1° de woningen op duurzame wijze binnen de respectieve prijsplafonds laten beantwoorden aan de normen en de bouwtechnische en conceptuele richtlijnen, uitgezonderd de richtlijnen waarvoor het agentschap Wonen in Vlaanderen of de kwaliteitskamer een afwijking toestaan;<br>
 2° dringend en noodzakelijk zijn om de veiligheids- en gezondheidsaspecten van de bewoners te kunnen garanderen.<br>
 <br>
-Als niet is voldaan aan een of elk van beide voorwaarden, vermeld in het eerste lid, geeft de VMSW een negatief advies.
+Als niet is voldaan aan een of elk van beide voorwaarden, vermeld in het eerste lid, geeft het agentschap Wonen in Vlaanderen een negatief advies.
 
 ## HOOFDSTUK 3 Het kader voor de lokale woontoets
 
@@ -85,13 +85,13 @@ De BSO-planner, vermeld in het eerste lid, 1°, monitort het gerealiseerde en he
 1° voor het gerealiseerde sociale huuraanbod in de gemeente: het aanbod aan sociale huurwoningen volgens de meest recente jaarlijkse meting van het sociale huuraanbod, waarbij:<br>
 a) bijkomende sociale huurwoningen van sociale verhuurkantoren sinds de nulmeting pas meetellen als ten minste 90 % van het objectief voor sociale huurwoningen behaald is of behaald zal worden, rekening houdend met het gerealiseerde en geplande sociale huuraanbod;<br>
 b) overdrachten waarvan de verkoopovereenkomst wordt gesloten na 31 oktober 2017, van sociale huurwoningen van een gemeente, OCMW, intergemeentelijk samenwerkingsverband, OCMW-vereniging of het Vlaams Woningfonds aan een woonmaatschappij niet meetellen;<br>
-2° voor het geplande sociale huuraanbod in de gemeente: het aanbod aan sociale huurwoningen volgens de meest recente Projectenlijst die de VMSW aan de beoordelingscommissie heeft voorgelegd.<br>
+2° voor het geplande sociale huuraanbod in de gemeente: het aanbod aan sociale huurwoningen volgens de meest recente Projectenlijst die het agentschap Wonen in Vlaanderen aan de beoordelingscommissie heeft voorgelegd.<br>
 <br>
 De convenant-planner, vermeld in het eerste lid, 2°, monitort het gerealiseerde en het geplande sociale huuraanbod dat verwezenlijkt is met een sociaal woonbeleidsconvenant als vermeld in artikel 5.52, eerste lid, van de Vlaamse Codex Wonen van 2021.<br>
 <br>
 De gemeente kan voor een overschrijding met meer dan tien eenheden een gemotiveerd verzoek tot afwijking richten aan de Vlaamse minister bevoegd voor het woonbeleid.<br>
 <br>
-In afwijking van het eerste lid passen de projecten, vermeld in het eerste lid, in het bindend sociaal objectief van de gemeente als ze louter gefinancierd worden op de wijze, vermeld in artikel 4.10, 2°, h), van het Besluit Vlaamse Codex Wonen van 2021. Dit lid is niet van toepassing op huurwoningen die worden gerealiseerd met een lening vanuit het Vlaams Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant, vermeld in artikel 5.11, tweede lid, van de Vlaamse Codex Wonen van 2021.
+In afwijking van het eerste lid passen de projecten, vermeld in het eerste lid, in het bindend sociaal objectief van de gemeente als ze louter gefinancierd worden op de wijze, vermeld in artikel 4.10, 2°, h), van het Besluit Vlaamse Codex Wonen van 2021. Dit lid is niet van toepassing op huurwoningen die worden gerealiseerd met een lening vanuit het Vlaams Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant of die volledig of gedeeltelijk gefinancierd wordt met middelen van de VMSW in het kader van haar opdracht, vermeld in artikel 4.15 van de Vlaamse Codex Wonen van 2021.
 
 ### ART 5.
 
@@ -99,7 +99,7 @@ Een project dat voorziet in de vervangingsbouw van sociale huurwoningen waarbij 
 <br>
 De gemeente kan voor een overschrijding met meer dan tien eenheden een gemotiveerd verzoek tot afwijking richten aan de Vlaamse minister bevoegd voor het woonbeleid.<br>
 <br>
-In afwijking van het eerste lid passen de projecten, vermeld in het eerste lid, in het bindend sociaal objectief van de gemeente als ze louter gefinancierd worden op de wijze, vermeld in artikel 4.10, 2°, h), van het Besluit Vlaamse Codex Wonen van 2021. Dit lid is niet van toepassing op huurwoningen die worden gerealiseerd met een lening vanuit het Vlaams Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant, vermeld in artikel 5.11, tweede lid, van de Vlaamse Codex Wonen van 2021.
+In afwijking van het eerste lid passen de projecten, vermeld in het eerste lid, in het bindend sociaal objectief van de gemeente als ze louter gefinancierd worden op de wijze, vermeld in artikel 4.10, 2°, h), van het Besluit Vlaamse Codex Wonen van 2021. Dit lid is niet van toepassing op huurwoningen die worden gerealiseerd met een lening vanuit het Vlaams Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant&nbsp;of die volledig of gedeeltelijk gefinancierd wordt met middelen van de VMSW in het kader van haar opdracht, vermeld in artikel 4.15 tweede lid, van de Vlaamse Codex Wonen van 2021.
 
 ## HOOFDSTUK 4 Het financiële kader
 
@@ -117,7 +117,7 @@ In dit artikel wordt verstaan onder een verrichting:<br>
 2° de investering in de renovatie, de verbetering of de aanpassing van verworven bebouwde onroerende goederen;<br>
 3° de vervangingsbouw van verworven bebouwde onroerende goederen.<br>
 <br>
-Bij de beslissing over de opname van een verrichting in de meerjarenplanning en de kortetermijnplanning houdt de beoordelingscommissie, respectievelijk de VMSW achtereenvolgens rekening met:<br>
+Bij de beslissing over de opname van een verrichting in de meerjarenplanning en de kortetermijnplanning houdt de beoordelingscommissie, respectievelijk het agentschap Wonen in Vlaanderen achtereenvolgens rekening met:<br>
 1° voorrang voor de verrichtingen die deel uitmaken van een CBO-oproep;<br>
 2° de chronologische volgorde volgens de datum waarop de verrichting principieel vatbaar is voor opname in de meerjarenplanning, respectievelijk principieel vatbaar is voor opname in de kortetermijnplanning.
 
@@ -129,13 +129,13 @@ Bij de beslissing over de opname van een verrichting in de meerjarenplanning en 
 <br>
 De beoordelingscommissie kan in geval van beperkte budgetten beslissen om voorrang te verlenen aan projecten op basis van de conditiescore die de projecten in het kader van de renovatietoets hebben gekregen of op basis van de veiligheids- en gezondheidsaspecten van de gebouwen of woningen in de projecten.<br>
 <br>
-§ 3. Bij de beslissing over de opname van een verrichting in de kortetermijnplanning houdt de beoordelingscommissie, respectievelijk de VMSW rekening met de chronologische volgorde volgens de datum waarop de verrichting principieel vatbaar is voor opname in de kortetermijnplanning.<br>
+§ 3. Bij de beslissing over de opname van een verrichting in de kortetermijnplanning houdt de beoordelingscommissie, respectievelijk het agentschap Wonen in Vlaanderen rekening met de chronologische volgorde volgens de datum waarop de verrichting principieel vatbaar is voor opname in de kortetermijnplanning.<br>
 <br>
 De beoordelingscommissie kan in geval van beperkte budgetten beslissen om voorrang te verlenen aan projecten op basis van de conditiescore die de projecten in het kader van de renovatietoets hebben gekregen of op basis van de veiligheids- en gezondheidsaspecten van de gebouwen of woningen in de projecten.
 
 ### ART 9.
 
-Bij de beslissing over de opname van een infrastructuurverrichting in de meerjarenplanning en de kortetermijnplanning houdt de VMSW rekening met de chronologische volgorde volgens de datum waarop de verrichting principieel vatbaar is voor opname in de meerjarenplanning, respectievelijk principieel vatbaar is voor opname in de kortetermijnplanning.
+Bij de beslissing over de opname van een infrastructuurverrichting in de meerjarenplanning en de kortetermijnplanning houdt het agentschap Wonen in Vlaanderen rekening met de chronologische volgorde volgens de datum waarop de verrichting principieel vatbaar is voor opname in de meerjarenplanning, respectievelijk principieel vatbaar is voor opname in de kortetermijnplanning.
 
 ## HOOFDSTUK 5 Slotbepalingen
 
