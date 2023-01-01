@@ -158,4 +158,6 @@ De Vlaamse Regering kan de lijst van subsidieverstrekkers die is opgenomen in de
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2021/12/16_1.pdf#page=61">Bijlage</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2021/12/16_1.pdf#page=61">Bijlage</a><br>
+<br>
+* Bij artikel 80 van het decreet van 21 april 2023 worden met ingang van 1 januari 2023&nbsp;punt 2°, 6), en punt 2°, 23), van de bijlage opgeheven.
