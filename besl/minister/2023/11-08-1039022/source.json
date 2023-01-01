@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039022,
+  "title": "Ministerieel besluit van 2023-11-08 tot wijziging van het ministerieel besluit van 11 december 2020 tot verdeling van een toeslag in het kader van de interne staatshervorming voor de erkende private diensten voor gezinszorg",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039022/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "d133d11d4351586991841ba744d0194d8175f9afd67dbc264a545aaad5062399",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039022&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2023-11-08",
+  "gazette": "2023-11-30",
+  "numac": 2023047502,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
