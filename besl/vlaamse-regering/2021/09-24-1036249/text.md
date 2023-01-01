@@ -193,8 +193,6 @@ b) 7,57 euro voor een halve opvangprestatie;<br>
 c) 5,02 euro voor een 1/3 opvangprestatie;<br>
 3° voor opvang op woensdagnamiddag bepaalt de organisator de prijs volgens het systeem, vermeld in punt 1°, of volgens het systeem, vermeld in punt 2°.<br>
 <br>
-Voor de opvang voor en na de schooluren rekent de organisator een prijs aan de gezinnen die berekend wordt per begonnen half uur. Het totale bedrag per opvangprestatie overschrijdt het bedrag, vermeld in het eerste lid, niet.<br>
-<br>
 De organisator geeft een vermindering van 25% op de prijs, vermeld in het eerste lid, voor de opvang van verschillende kinderen uit hetzelfde gezin op dezelfde dag.<br>
 <br>
 De organisator kan een bijkomende prijs vragen per kind per dag voor een warme maaltijd.<br>
