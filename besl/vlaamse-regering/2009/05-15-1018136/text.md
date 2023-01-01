@@ -122,7 +122,8 @@ Op basis van het goedgekeurde meerjarenplan dient het Vlaams Netwerk bij de secr
 
 ### ART. 16.
 
-Op basis van het goedgekeurde jaarplan kent de secretaris-generaal, binnen de beschikbare begrotingskredieten, aan het Vlaams Netwerk een subsidie-enveloppe toe voor het werkjaar waarop het plan betrekking heeft. Het bedrag van de subsidie-enveloppe is afhankelijk van de subsidiabele personeelsformatie, vermeld in het goedgekeurde meerjarenplan.<br /><br />
+Op basis van het goedgekeurde jaarplan kent de secretaris-generaal, binnen de beschikbare begrotingskredieten, jaarlijks aan het Vlaams Netwerk een subsidie-enveloppe toe voor het werkjaar waarop het plan betrekking heeft. De jaarlijkse subsidie-enveloppe bedraagt 874.281,39 euro op 1 januari 2023.<br>
+&nbsp;
 
 ### ART. 17.
 
@@ -236,7 +237,15 @@ Voor de uitvoering van haar opdrachten kan de vereniging samenwerken met andere 
 
 ### ART. 34.
 
-§ 1. De jaarlijkse subsidie bedraagt :<br />1° 46.240 euro voor een lokale vereniging; <br />2° 65.000 euro voor een bovenlokale vereniging. <br /><br />De secretaris-generaal kent aan de erkende verenigingen de subsidie toe binnen de perken van de begrotingskredieten met behoud van de toepassing van paragraaf 2 en 3 en artikel 35, 35/1 en 36.<br /><br />§ 2. De subsidie wordt toegekend op voorwaarde dat aan de subsidiecriteria, vermeld in artikel 31, is voldaan.<br /><br />§ 3. De subsidie wordt uitbetaald in twee schijven van 50 %. Een eerste schijf wordt uitbetaald in de loop van de maand februari van het jaar waarop de subsidie betrekking heeft, de tweede schijf wordt uitbetaald in de loop van de maand juli van dat jaar.
+§ 1. De jaarlijkse subsidie bedraagt:&nbsp;<br>
+1° 71.260 euro voor een lokale vereniging op 1 januari 2023;&nbsp;<br>
+2° 100.433,60 euro voor een bovenlokale vereniging op 1 januari 2023.<br>
+<br>
+De secretaris-generaal kent aan de erkende verenigingen de subsidie toe binnen de perken van de begrotingskredieten met behoud van de toepassing van paragraaf 2 en 3 en artikel 35, 35/1 en 36.<br>
+<br>
+§ 2. De subsidie wordt toegekend op voorwaarde dat aan de subsidiecriteria, vermeld in artikel 31, is voldaan.<br>
+<br>
+§ 3. De subsidie wordt uitbetaald in twee schijven van 50 %. Een eerste schijf wordt uitbetaald in de loop van de maand februari van het jaar waarop de subsidie betrekking heeft, de tweede schijf wordt uitbetaald in de loop van de maand juli van dat jaar.
 
 ### ART. 35.
 
