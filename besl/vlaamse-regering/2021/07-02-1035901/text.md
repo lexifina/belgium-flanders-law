@@ -27,11 +27,37 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## HOOFDSTUK 1. Wijzigingen van het besluit van de Vlaamse regering van 13 juni 2003 betreffende de toekenning van zendvergunningen aan de erkende particuliere landelijke, regionale, netwerk- en lokale radio-omroepen
 
+### ART 1.
+
+In het opschrift van het besluit van de Vlaamse regering van 13 juni 2003 betreffende de toekenning van zendvergunningen aan de erkende particuliere landelijke, regionale, netwerk- en lokale radio-omroepen, gewijzigd bij het besluit van de Vlaamse Regering van 21 april 2017, wordt de zinsnede "regionale," opgeheven.
+
+### ART 2.
+
+In artikel 1 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 21 april 2017, wordt de zinsnede "regionale," opgeheven.
+
 ## HOOFDSTUK 2. Wijzigingen van het besluit van de Vlaamse Regering van 30 juni 2006 betreffende de procedure voor de Vlaamse Regulator voor de Media
+
+### ART 3.
+
+In artikel 20 van het besluit van de Vlaamse Regering van 30 juni 2006 betreffende de procedure voor de Vlaamse Regulator voor de Media, gewijzigd bij de besluiten van de Vlaamse Regering van 30 maart 2007, 29 januari 2010 en 21 april 2017, wordt paragraaf 3 vervangen door wat volgt:<br>
+<br>
+" § 3. Paragraaf 1 en 2 zijn niet van toepassing op de aanvragen voor de erkenningen van de landelijke, netwerk- en lokale radio-omroeporganisaties.".
 
 ### ART 4.
 
 In hoofdstuk III van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 21 april 2017, worden de artikelen 21 tot en met 23, het laatste lid van paragraaf 2 van artikel 24, en artikel 25 tot en met 28 van afdeling II opgeheven.
+
+### ART 5.
+
+In hoofdstuk III van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 21 april 2017, wordt in het opschrift van afdeling III de zinsnede "regionale," opgeheven.
+
+### ART 6.
+
+In artikel 35, eerste lid, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 29 januari 2010 en 21 april 2017, wordt de zinsnede "regionale," opgeheven.
+
+### ART 7.
+
+In artikel 39, eerste lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 21 april 2017, wordt de zinsnede ", regionale" opgeheven.
 
 ## HOOFDSTUK 3. Wijziging van het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de voorwaarden en procedure voor het verkrijgen van een licentie voor het aanbieden van een radio- of televisieomroepnetwerk en de bijbehorende zendvergunningen
 

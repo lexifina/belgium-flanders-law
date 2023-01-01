@@ -2,16 +2,16 @@
   "codex_id": 1035901,
   "title": "Besluit van de Vlaamse Regering van 2021-07-02 tot wijziging van diverse besluiten over radio-omroep",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035901/VolledigDocument?datum=2021-08-14",
-  "source_sha256": "b9b5bdaaa1329e5ea5875a73e60e7a2b69b229a35b97019ffe1d0f273759b26a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035901/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "b1c95958dcdab1fef809d02f21fc4c99b9393f0a9450cecaa230034d40f4acce",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035901&param=informatie",
-  "as_of": "2021-08-14",
+  "as_of": "2023-01-01",
   "made": "2021-07-02",
   "gazette": "2021-08-04",
   "numac": 2021032134,
   "document_start": "2021-08-14",
   "document_end": null,
-  "in_force": "2021-08-14",
-  "article_versions": 11,
-  "record_form": "consolidated version as in force on 2021-08-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-01-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }
