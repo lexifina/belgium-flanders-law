@@ -76,75 +76,100 @@ Toegekend bedrag/925 = maximaal aantal subsidieerbare personeelspunten.<br>
 <br>
 Maximaal 20 % van deze personeelspunten kunnen worden omgezet in werkingstoelagen.<br>
 <br>
-Eveneens met het oog op de subsidiëring worden rekening houdend met de ondersteuning, vermeld in dienstverleningsovereenkomst, vermeld in artikel 5, voor de verschillende modules, vermeld in artikel 2, tweede lid, navolgende equivalenten aan personeelspunten gehanteerd:<br>
-&nbsp;
-<table border="1">
+Eveneens met het oog op de subsidiëring worden rekening houdend met de ondersteuning, vermeld in dienstverleningsovereenkomst, vermeld in artikel 5, voor de verschillende modules, vermeld in artikel 2, tweede lid, navolgende equivalenten aan personeelspunten gehanteerd:
+<table align="left" cellspacing="0" style="border-collapse:collapse; width:588px">
 	<tbody>
 		<tr>
-			<td colspan="5">Aantal dagen in dienstverleningsovereenkomst</td>
+			<td style="height:28px; vertical-align:bottom; width:211px">&nbsp;</td>
+			<td style="height:28px; vertical-align:bottom; width:83px">&nbsp;</td>
+			<td style="height:28px; vertical-align:bottom; width:96px">&nbsp;</td>
+			<td style="height:28px; vertical-align:bottom; width:88px">&nbsp;</td>
+			<td style="height:28px; vertical-align:bottom; width:62px">&nbsp;</td>
+			<td style="height:28px; vertical-align:bottom; width:49px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;minstens 5</td>
-			<td>4</td>
-			<td>3</td>
-			<td>2</td>
-			<td>1</td>
+			<td style="height:22px; vertical-align:bottom; width:211px">&nbsp;</td>
+			<td colspan="3" style="border-bottom:1px solid black; border-left:1px solid black; border-right:none; border-top:1px solid black; height:22px; vertical-align:bottom; width:266px">aantal dagen in dienstverleningsovereenkomst</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:none; border-top:1px solid black; height:22px; vertical-align:bottom; width:62px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:22px; vertical-align:bottom; width:49px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td>Verblijf in combinatie met dagopvang</td>
-			<td>65,14</td>
-			<td>52,12</td>
-			<td>39,09</td>
-			<td>26,06</td>
-			<td>13,03</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:18px; vertical-align:bottom; width:211px">&nbsp;</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:83px">minstens 5</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:96px">4</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:88px">3</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:62px">2</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:49px">1</td>
 		</tr>
 		<tr>
-			<td>Schoolaanvullende dagopvang</td>
-			<td>21,92</td>
-			<td>17,53</td>
-			<td>13,15</td>
-			<td>8,77</td>
-			<td>4,38</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:211px">verblijf in combinatie met dagopvang</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:83px">65,14</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:96px">52,12</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:88px">39,09</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:62px">26,06</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:49px">13,03</td>
 		</tr>
 		<tr>
-			<td>Schoolvervangende dagopvang</td>
-			<td>46,12</td>
-			<td>36,89</td>
-			<td>27,67</td>
-			<td>18,45</td>
-			<td>9,22</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:211px">schoolaanvullende dagopvang</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:83px">32,73</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:96px">26,18</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:88px">19,64</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:62px">13,09</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:49px">6,55</td>
 		</tr>
 		<tr>
-			<td>Verblijf in combinatie met diagnostiek</td>
-			<td>71,56</td>
-			<td>57,25</td>
-			<td>42,93</td>
-			<td>28,62</td>
-			<td>14,31</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:211px">schoolvervangende dagopvang</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:83px">46,12</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:96px">36,89</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:88px">27,67</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:62px">18,45</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:49px">9,22</td>
 		</tr>
 		<tr>
-			<td>Verblijf in combinatie met behandeling</td>
-			<td>71,56</td>
-			<td>57,25</td>
-			<td>42,93</td>
-			<td>28,62</td>
-			<td>14,31</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:211px">verblijf in combinatie met diagnostiek</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:83px">71,56</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:96px">57,25</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:88px">42,93</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:62px">28,62</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:49px">14,31</td>
 		</tr>
 		<tr>
-			<td>Verblijf voor GES+</td>
-			<td>84,10</td>
-			<td>67,28</td>
-			<td>50,46</td>
-			<td>33,64</td>
-			<td>16,82</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:211px">verblijf in combinatie met behandeling</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:83px">71,56</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:96px">57,25</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:88px">42,93</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:62px">28,62</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:49px">14,31</td>
+		</tr>
+		<tr>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:211px">verblijf voor GES+</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:83px">76,53</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:96px">61,23</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:88px">45,92</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:62px">30,61</td>
+			<td style="background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:bottom; width:49px">15,31</td>
 		</tr>
 	</tbody>
 </table>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 De aantallen, vermeld in de tabel zijn aantallen op jaarbasis. Als de duur van de dienstverleningsovereenkomst niet een heel jaar bestrijkt worden de aantallen vermeld in de tabel verhoudingsgewijs verminderd.<br>
 <br>
-Voor een mobiele of ambulante begeleiding worden 0,288 punten per begeleiding toegekend.
+Voor een mobiele of ambulante begeleiding worden 0,245 punten per begeleiding toegekend.
 
 ## HOOFDSTUK 3 Aanwending van persoonsvolgende middelen door middel van een persoonlijke-assitentiebudget
 
