@@ -188,11 +188,11 @@ De organisator heeft de integriteit en geschiktheid om op een rechtmatige   mani
 
 ### ART. 11.
 
-De basissubsidie voor gezinsopvang bedraagt 267,30 euro per gesubsidieerde   kinderopvangplaats per kalenderjaar.<BR>
+De basissubsidie voor gezinsopvang bedraagt&nbsp;482,63 euro per gesubsidieerde kinderopvangplaats per kalenderjaar.
 
 ### ART. 12.
 
-De basissubsidie voor groepsopvang bedraagt&nbsp;752,28 euro per gesubsidieerde kinderopvangplaats per kalenderjaar.
+De basissubsidie voor groepsopvang bedraagt&nbsp;1358,33 euro per gesubsidieerde kinderopvangplaats per kalenderjaar.
 
 ### ART. 13.
 
@@ -231,7 +231,7 @@ De basissubsidie voor groepsopvang bedraagt&nbsp;752,28 euro per gesubsidieerde 
 2° een deel op basis van de leeftijd van de verantwoordelijken en van de medewerkers die in de kinderopvanglocatie instaan voor de systematische ondersteuning van de verantwoordelijke en die voldoen aan de voorwaarden over de kennis van het Nederlands en over de kwalificatie waaraan de verantwoordelijke moet voldoen.</p>
 
 <p>Het deel op basis van kinderopvangprestaties, vermeld in het eerste lid, 1°, wordt als volgt berekend :<br>
-1° de subsidie bedraagt 24,06 euro voor een kinderopvangprestatie die vijf tot elf uur duurt, en bedraagt 60% van dat bedrag voor een kinderopvangprestatie die minder dan vijf uur duurt;<br>
+1° de subsidie bedraagt&nbsp;26,88 euro (prijsniveau op 1 april 2022) voor een kinderopvangprestatie die vijf tot elf uur duurt, en bedraagt 60% van dat bedrag voor een kinderopvangprestatie die minder dan vijf uur duurt;<br>
 2° alle kinderopvangprestaties van elke kinderopvanglocatie gezinsopvang uit de subsidiegroep die voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36/1, tellen mee, met uitzondering van de volgende kinderopvangprestaties :<br>
 a) de kinderopvangprestaties 's nachts;<br>
 b) de kinderopvangprestaties voor de kinderen die tot het thuismilieu van de kinderbegeleider gezinsopvang behoren, en voor wie de kinderbegeleider de verantwoordelijkheid draagt;<br>
@@ -244,7 +244,7 @@ In afwijking van het tweede lid, 1°, bedraagt de subsidie 40% van het bedrag vo
 De organisator kan, voor kinderen die buitenschools opgevangen worden, de verschillende verblijfstijden van minder dan één uur van een kind per week samentellen. In dat geval tellen die verblijfstijden als één kinderopvangprestatie.</p>
 
 <p>Het deel op basis van de leeftijd van de personen, vermeld in het eerste lid, 2°, wordt als volgt berekend :<br>
-1° de subsidie bedraagt 431,42 euro per gesubsidieerde kinderopvangplaats per kalenderjaar als de gemiddelde leeftijd van die personen twintig jaar is;<br>
+1° de subsidie bedraagt&nbsp;358,43 euro per gesubsidieerde kinderopvangplaats per kalenderjaar als de gemiddelde leeftijd van die personen twintig jaar is;<br>
 2° voor elk jaar boven op de gemiddelde leeftijd van twintig jaar wordt de subsidie verhoogd met 7,42 euro per gesubsidieerde kinderopvangplaats, tot maximaal een gemiddelde leeftijd van zestig jaar;<br>
 3° de gemiddelde leeftijd wordt berekend op basis van alle leeftijden en de werkregeling van deze personen.<br>
 <br>
@@ -269,7 +269,7 @@ In afwijking van het tweede lid, 1°, bedraagt de subsidie 40% van het bedrag vo
 De organisator kan, voor kinderen die buitenschools opgevangen worden, de verschillende verblijfstijden van minder dan één uur van een kind per week samentellen. In dat geval tellen die verblijfstijden als één kinderopvangprestatie.</p>
 
 <p>Het deel op basis van de leeftijd van de personen, vermeld in het eerste lid, 2°, wordt als volgt berekend :<br>
-1° de subsidie bedraagt&nbsp;5286,12 euro per gesubsidieerde kinderopvangplaats per kalenderjaar als de gemiddelde leeftijd van deze personen twintig jaar is;<br>
+1° de subsidie bedraagt&nbsp;5910,32 euro per gesubsidieerde kinderopvangplaats per kalenderjaar als de gemiddelde leeftijd van deze personen twintig jaar is;<br>
 2° voor elk jaar boven op de gemiddelde leeftijd van twintig jaar wordt de subsidie verhoogd met 95,5 euro per gesubsidieerde kinderopvangplaats, tot maximaal een gemiddelde leeftijd van zestig jaar;<br>
 3° de gemiddelde leeftijd wordt berekend op basis van alle leeftijden en de werkregeling van deze personen.</p>
 
@@ -837,40 +837,17 @@ Het bedrag van de basissubsidie voor groepsopvang, vermeld in artikel 12, wordt 
 
 ### ART. 58.
 
-<p>§ 1. ....</p>
-
-<p>§ 2. De subsidie voor inkomenstarief voor gezinsopvang, meer bepaald het deel op basis van de leeftijd van de personen, vermeld in artikel 17, eerste lid, 2°, wordt gedurende een overgangsperiode van twaalf jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend als vermeld in artikel 17, vijfde lid, 1° en 2°, voor kinderopvangplaatsen die voordien gesubsidieerd waren tegen het tarief voor een openbaar bestuur op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende de overgangsperiode gelden de volgende bedragen :<br>
-1° de subsidie bedraagt 343,75 euro per gesubsidieerde kinderopvangplaats per kalenderjaar, als de gemiddelde leeftijd van de personen, vermeld in artikel 17, eerste lid, 2°, twintig jaar is;<br>
-2° voor elk jaar boven op de gemiddelde leeftijd van twintig jaar wordt de subsidie verhoogd met 5,91 euro per gesubsidieerde kinderopvangplaats, tot maximaal een gemiddelde leeftijd van zestig jaar.</p>
+<p>...</p>
 
 ### ART. 59.
 
 <p>§ 1. De subsidie voor inkomenstarief voor groepsopvang, meer bepaald het deel op basis van kinderopvangprestaties, vermeld in artikel 18, tweede lid, 1°, wordt gedurende een overgangsperiode van twaalf jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend voor kinderopvangplaatsen die voordien gesubsidieerd waren als samenwerkende onthaalouders op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende de overgangsperiode gelden de bedragen, vermeld in artikel 17, tweede lid, 1°.</p>
 
-<p>De subsidie voor inkomenstarief voor groepsopvang, meer bepaald het deel op basis van de leeftijd van de personen, vermeld in artikel 18, eerste lid, 2°, wordt gedurende een overgangsperiode van twaalf jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend als vermeld in artikel 18, vijfde lid, 1° en 2°, voor kinderopvangplaatsen die voordien gesubsidieerd waren als samenwerkende onthaalouders op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende de overgangsperiode gelden de volgende bedragen :<br>
-1° voor kinderopvangplaatsen die voordien gesubsidieerd waren tegen het tarief voor een openbaar bestuur :<br>
-a) de subsidie bedraagt 343,75 euro per gesubsidieerde kinderopvangplaats per kalenderjaar, als de gemiddelde leeftijd van de personen, vermeld in artikel 18, eerste lid, 2°, twintig jaar is;<br>
-b) voor elk jaar bovenop de gemiddelde leeftijd van twintig jaar wordt de subsidie verhoogd met 5,91 euro per gesubsidieerde kinderopvangplaats, tot maximaal een gemiddelde leeftijd van zestig jaar;<br>
-2° voor kinderopvangplaatsen die voordien gesubsidieerd waren tegen het tarief voor een vzw :<br>
-a) de subsidie bedraagt 431,42 euro per gesubsidieerde kinderopvangplaats per kalenderjaar, als de gemiddelde leeftijd van de personen, vermeld in artikel 18, eerste lid, 2°, twintig jaar is;<br>
-b) voor elk jaar boven op de gemiddelde leeftijd van twintig jaar wordt de subsidie verhoogd met 7,42 euro per gesubsidieerde kinderopvangplaats, tot maximaal een gemiddelde leeftijd van zestig jaar.</p>
-
-<p>§ 2. De subsidie voor inkomenstarief voor groepsopvang, meer bepaald het deel op basis van de leeftijd van de personen, vermeld in artikel 18, eerste lid, 2°, wordt gedurende een overgangsperiode van twaalf jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend als vermeld in artikel 18, vijfde lid, 1° en 2°, voor kinderopvangplaatsen die voordien gesubsidieerd waren voor het inkomensgerelateerd systeem op basis van het besluit, vermeld in artikel 52, 4°, voor subsidieerbare plaatsen die tussen 1 april 2015 en 31 maart 2021 worden toegekend zoals vermeld in dit lid en voor subsidieerbare plaatsen die vanaf 1 april 2021 worden toegekend alleen als de organisator vraagt om ze toe te kennen op basis van dit lid omdat hij al subsidieerbare plaatsen heeft die zijn toegekend op dezelfde basis. Gedurende de overgangsperiode gelden de volgende bedragen :<br>
-1° de subsidie bedraagt 2133,89 euro per gesubsidieerde kinderopvangplaats per kalenderjaar, als de gemiddelde leeftijd van de personen, vermeld in artikel 18, eerste lid, 2°, twintig jaar is;<br>
-2° voor elk jaar boven op de gemiddelde leeftijd van twintig jaar wordt de subsidie verhoogd met 40,38 euro per gesubsidieerde kinderopvangplaats, tot maximaal een gemiddelde leeftijd van 60 jaar.<br>
+<p>De subsidie voor inkomenstarief voor groepsopvang, meer bepaald het deel op basis van de leeftijd van de personen, vermeld in artikel 18, eerste lid, 2°, wordt gedurende een overgangsperiode van twaalf jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend als vermeld in artikel 18, vijfde lid, 1° en 2°, voor kinderopvangplaatsen die voordien gesubsidieerd waren als samenwerkende onthaalouders op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende de overgangsperiode&nbsp;gelden de bedragen, vermeld in artikel 17, vijfde lid.<br>
 <br>
-Binnen de overgangsperiode van twaalf jaar en voor de bedragen, vermeld in het eerste lid, wordt gestreefd naar een groeipad dat in zeven fases verloopt, waarbij de bedragen, vermeld in het eerste lid, geleidelijk verhogen als volgt:<br>
-1° fase 1: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 413,56 euro en het bedrag, vermeld in het eerste lid, 2°, met 7,24 euro. Deze fase heeft uitwerking op 1 april 2015;<br>
-2° fase 2: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 416,47 euro en het bedrag, vermeld in het eerste lid, 2°, met 7,28 euro. Deze fase heeft uitwerking vanaf 1 december 2018;<br>
-3° fase 3: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 630,78 euro en het bedrag, vermeld in het eerste lid, 2°, met 11,04 euro. Deze fase heeft uitwerking vanaf 1 december 2018;<br>
-4° fase 4: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 417,21 euro en het bedrag, vermeld in het eerste lid, 2°, met 7,31 euro. Deze fase heeft uitwerking vanaf 1 juli 2020;<br>
-5° fase 5: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 380,69 euro en het bedrag, vermeld in het eerste lid, 2°, met 6,67 euro. Deze fase heeft uitwerking met ingang van 1 april 2021;<br>
-6° fase 6: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 355,87 euro en het bedrag, vermeld in eerste lid, 2°, met 6,23 euro;<br>
-7° fase 7: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 355,07 euro en het bedrag, vermeld in het eerste lid, 2°, met 6,20 euro.</p>
+§ 2. ...</p>
 
-<p>§ 3. De subsidie voor inkomenstarief voor groepsopvang, meer bepaald het deel op basis van de leeftijd van de personen, vermeld in artikel 18, eerste lid, 2°, wordt gedurende een overgangsperiode van twaalf jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend, als vermeld in artikel 18, vijfde lid, 1° en 2°, voor een aantal kinderopvangplaatsen die voordien gesubsidieerd waren voor een peutertuin en voor een crèche met kinderopvangplaatsen die voordien gesubsidieerd waren tegen het tarief voor een openbaar bestuur, op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende de overgangsperiode gelden voor dat aantal kinderopvangplaatsen de bedragen en het groeipad, vermeld in paragraaf 2.</p>
-
-<p>De minister bepaalt de nadere regels, onder meer de verhouding van het aantal kinderopvangplaatsen, en wat betreft de peutertuinen, enerzijds voor kinderopvangplaatsen die voordien gesubsidieerd waren volgens het tarief voor een peutertuin van een openbaar bestuur, en anderzijds volgens het tarief voor een peutertuin van een vzw.</p>
+<p>§ 3. ...</p>
 
 ## Afdeling 3 Overgangsperiode voorwaarden specifieke dienstverlening
 
