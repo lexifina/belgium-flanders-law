@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-De zendvergunningen van de landelijke, regionale , netwerk-&nbsp;en lokale radio-omroepen die uitgeschreven worden op basis van de goedgekeurde frequentieplannen vermelden nauwkeurig de volgende gegevens:<br>
+De zendvergunningen van de landelijke, netwerk-&nbsp;en lokale radio-omroepen die uitgeschreven worden op basis van de goedgekeurde frequentieplannen vermelden nauwkeurig de volgende gegevens:<br>
 1° de naam en het adres van de titularis;<br>
 2° de roepnaam van de radio-omroep;<br>
 3° het zendschema;<br>
