@@ -3614,11 +3614,10 @@ De Vlaamse Regering bepaalt de nadere regels om de bruikbare vloeroppervlakte te
 <br>
 De Vlaamse Regering kan bepalen welke delen van het energieprestatiecertificaat aangebracht worden op een opvallende plaats die duidelijk zichtbaar is voor het publiek.<br>
 <br>
-§ 3. Elke verkoper, verhuurder, erfpachtgever, opstalgever, houder van een zakelijk recht, en ook de opdrachthouder, lasthebber of gevolmachtigde, vermeldt de volgende gegevens in alle commerciële advertenties die hij plaatst of laat plaatsen voor de verkoop of verhuur van een gebouw of de vestiging van een zakelijk recht erop, dat conform paragraaf 1 over een energieprestatiecertifi caat beschikt:<br>
-1° het kengetal of label dat op het energieprestatiecertificaat staat;<br>
-2° de unieke code van het energieprestatiecertificaat of het adres van het gebouw.<br>
-<br>
-De Vlaamse Regering kan nadere regels bepalen betreffende de vorm van deze publiciteit.
+§3. Elke verkoper, verhuurder, erfpachtgever, opstalgever, houder van een zakelijk recht, en ook de opdrachthouder, lasthebber of gevolmachtigde, vermeldt de volgende gegevens in alle commerciële advertenties die hij plaatst of laat plaatsen voor de verkoop of verhuur van een gebouw of de vestiging van een zakelijk recht erop, dat conform paragraaf 1 over een energieprestatiecertificaat beschikt:<br>
+1° de energiescore of het label, bepaald op basis van de energiescore, zoals vermeld op het energieprestatiecertificaat;<br>
+2° het aandeel hernieuwbare energie of het label, bepaald op basis van het aandeel hernieuwbare energie, zoals vermeld op het energieprestatiecertificaat;<br>
+3° de unieke code van het energieprestatiecertificaat of het adres van het gebouw.
 
 ### ART. 11.2.2.
 
@@ -3654,11 +3653,15 @@ Het Vlaams Energieagentschap kan, onder de voorwaarden bepaald door de Vlaamse R
 
 § 1. De Vlaamse Regering kan bepalen dat residentiële gebouwen en niet-residentiële gebouwen of gebouweenheden bij een notariële overdracht in volle eigendom, of bij het vestigen of overdragen van een opstalrecht of erfpacht op een&nbsp;residentieel gebouw of niet-residentieel gebouw of de niet-residentiële gebouweenheid, binnen een gestelde termijn na het verlijden van de authentieke akte aan een minimaal energieprestatieniveau voldoen. De Vlaamse Regering kan hier ook een reeks van aparte eisen, maatregelen en type-renovatiewerken bepalen die daarbij als een minimum binnen die termijn moeten worden uitgevoerd.<br>
 <br>
-De uitvoering van de verplichting, vermeld in het eerste lid, wordt opgelegd aan respectievelijk de eigenaar, de opstalhouder, of de erfpachter. In geval na de verkoop van het residentieel gebouw of niet-residentieel gebouw of de niet-residentiële gebouweenheid&nbsp;gedurende de looptijd van deze verplichting die op&nbsp;het gebouw of de gebouweenheid rust:<br>
+De uitvoering van de verplichting, vermeld in het eerste lid, wordt opgelegd aan respectievelijk de eigenaar, de opstalhouder, of de erfpachter. In geval na de notariële overdracht in volle eigendom van, of de vestiging of overdracht van een opstalrecht of erfpacht op het residentieel gebouw of niet-residentieel gebouw of de niet-residentiële gebouweenheid&nbsp;gedurende de looptijd van deze verplichting die op&nbsp;het gebouw of de gebouweenheid rust:<br>
 1° het&nbsp;residentieel gebouw of niet-residentieel gebouw of de niet-residentiële gebouweenheid wordt geërfd, dan gaat de verplichting over op de erfgenaam of legataris. De erfgenaam of de legataris moet dan binnen de resterende termijn voldoen aan het minimaal energieprestatieniveau dat de erflater diende te halen;<br>
-2° het&nbsp;residentieel gebouw of niet-residentieel gebouw of de niet-residentiële gebouweenheid wordt geschonken of verkocht, of een opstalrecht of erfpacht wordt erop gevestigd, dan gaat de verplichting over op de koper of de ontvanger van de schenking of de erfpachter of opstalhouder. De koper, de ontvanger van de schenking, de erfpachter of de opstalhouder moet dan binnen de resterende termijn voldoen aan het minimaal energieprestatieniveau dat de verkoper, schenker, erfpachtgever of opstalgever zelf diende te halen. Indien het te behalen minimaal energieprestatieniveau sindsdien werd verstrengd rust bijkomend op de nieuwe eigenaar, erfpachter of de opstalhouder de verplichting om binnen een gestelde termijn na het verlijden van de authentieke akte aan dat verstrengde minimaal energieprestatieniveau te voldoen.<br>
+2° het&nbsp;residentieel gebouw of niet-residentieel gebouw of de niet-residentiële gebouweenheid wordt notarieel overgedragen in volle eigendom, of een opstalrecht of erfpacht wordt erop gevestigd, dan gaat de verplichting over op de nieuwe eigenaar of de erfpachter of opstalhouder. De nieuwe eigenaar, de erfpachter of de opstalhouder moet dan binnen de resterende termijn voldoen aan het minimaal energieprestatieniveau dat de oorspronkelijke eigenaar, erfpachtgever of opstalgever zelf diende te halen. Indien het te behalen minimaal energieprestatieniveau sindsdien werd verstrengd rust bijkomend op de nieuwe eigenaar, erfpachter of de opstalhouder de verplichting om binnen een gestelde termijn na het verlijden van de authentieke akte aan dat verstrengde minimaal energieprestatieniveau te voldoen.<br>
 <br>
 In geval een rechtspersoon wordt gesplitst of indien een rechtspersoon fusioneert met, of wordt overgenomen door een andere rechtspersoon, dan ontstaat door die splitsing, fusie of overneming voor de gebouwen van die rechtspersonen echter geen verplichting, vermeld in het eerste lid. Indien er voorafgaand aan de splitsing, de fusie of de overneming op een gebouw van een van die rechtspersonen echter reeds een verplichting, vermeld in het eerste lid, van toepassing was, dan voldoet de rechtsopvolger binnen de resterende termijn aan het minimaal energieprestatieniveau dat de rechtspersoon die fusioneerde, splitste of werd overgenomen en tot wie het gebouw in kwestie behoorde zelf diende te halen.<br>
+<br>
+Als er in het kader van echtscheiding of de beëindiging van een al dan niet wettelijke samenwoning een notariële overdracht in volle eigendom van een deel van die volle eigendom plaatsvindt tussen natuurlijke personen die allen reeds eigenaar zijn van het residentieel gebouw en waarbij minstens een van hen daar zijn hoofdverblijfplaats heeft en behoudt, dan is er geen verplichting, vermeld in het eerste lid.<br>
+<br>
+Als een notariële overdracht in volle eigendom van een deel van die volle eigendom plaatsvindt tussen natuurlijke personen die allen reeds eigenaar zijn van één residentieel gebouw in kwestie, en waarbij minstens een van hen daar zijn hoofdverblijfplaats heeft en behoudt, dan is er geen verplichting, vermeld in het eerste lid.<br>
 <br>
 § 2. Iedereen die een residentieel gebouw of een niet-residentieel gebouw of niet-residentiële gebouweenheid in volle eigendom notarieel overdraagt of hierop een opstalrecht of erfpachtrecht vestigt of overdraagt, moet in de hieraan verbonden publiciteit vermelden dat er verplichtingen gelden als vermeld in paragraaf 1.<br>
 <br>
@@ -4373,7 +4376,7 @@ Als een overtreding van het tweede lid wordt vastgesteld, maant het VEKA de ener
 <br>
 Die administratieve geldboete kan niet worden gecumuleerd met de sanctie vermeld in § 2.<br>
 <br>
-§ 3/1. Als bij de controle blijkt dat voor een te koop of te huur gesteld gebouw, of voor een gebouw waarop een zakelijk recht wordt gevestigd, waarvoor een energieprestatiecertificaat beschikbaar dient te zijn, het kengetal of het label, het adres van het gebouw of de unieke code van het energieprestatiecertificaat niet worden vermeld in de publiciteit die wordt gemaakt, of indien het vermelde kengetal of het label, het vermelde adres van het gebouw of de vermelde unieke code van het energieprestatiecertificaat niet met de werkelijkheid overeenstemt, kan het VEKA de eigenaar of gebruiker een administratieve geldboete opleggen, die niet lager mag zijn dan 250 euro, noch hoger dan 5.000 euro.<br>
+§ 3/1. Als bij de controle blijkt dat voor een te koop of te huur gesteld gebouw, of voor een gebouw waarop een zakelijk recht wordt gevestigd, waarvoor een energieprestatiecertificaat beschikbaar dient te zijn, de gegevens, vermeld in artikel 11.2.1, §3, eerste lid, niet worden vermeld in de publiciteit die wordt gemaakt, of indien het vermelde label of energiescore, het vermelde aandeel hernieuwbare energie of het label dat op basis daarvan bepaald is, het vermelde adres van het gebouw of de vermelde unieke code van het energieprestatiecertificaat niet met de werkelijkheid overeenstemt, kan het VEKA de eigenaar of gebruiker een administratieve geldboete opleggen, die niet lager mag zijn dan 250 euro, noch hoger dan 5.000 euro.<br>
 <br>
 In afwijking van het eerste lid legt het VEKA de sanctie, vermeld in het eerste lid, op aan de opdrachthouder,&nbsp;lasthebber of gevolmachtigde in het geval de eigenaar of gebruiker gebruikmaakte van deze opdrachthouder,&nbsp;lasthebber of gevolmachtigde in het kader van het te koop of te huur stellen van het gebouw.<br>
 <br>
@@ -4533,7 +4536,7 @@ Het geheel van afnamepunten van een gesloten distributienet als vermeld in parag
 
 Het tarief van de heffing bedraagt per afnamepunt per maand dat de afnemer in het heffingsjaar is aangesloten geweest op een van de netten, vermeld in artikel 14.1.1, § 1:<br>
 1° voor de volgende afnemers die aangesloten zijn op laagspanning:<br>
-a) voor residentiële afnemers: 42 eurocent per maand;<br>
+a) voor residentiële afnemers: 0 eurocent per maand;<br>
 b) voor niet-residentiële afnemers: 7,87 euro per maand;<br>
 2° voor de afnemers die aangesloten zijn op middenspanning: 150,00 euro per maand;<br>
 3° voor afnemers die aangesloten zijn op hoogspanning: 875,00 euro per maand.<br>
