@@ -109,6 +109,12 @@ b) in een reële arbeidsomgeving bij een werkgever;<br>
 c) onder gelijkaardige omstandigheden als reguliere werknemers van die werkgever;<br>
 d) waarbij effectieve arbeid wordt verricht;<br>
 e) met de bedoeling beroepservaring op te doen;<br>
+17° /2/1 leerling met een zorgthuis:<br>
+a) een leerling die effectief gebruik maakt van een jeugdhulpverleningsbeslissing als vermeld in artikel 2, § 1, 28°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp voor:<br>
+- een verblijf bij een jeugdhulpaanbieder als vermeld in artikel 2, § 1, 27°, van hetzelfde decreet, met uitzondering van de schoolinternaten, vermeld in artikel 68, 5°, van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp en met uitzondering van vrijwillige Jeugdhulpverlening in de multifunctionele centra, als bepaald in het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
+- contextbegeleiding in functie van autonoom wonen of begeleiding in een kleinschalige wooneenheid, overeenkomstig artikel 3 van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp;<br>
+b) een leerling die geplaatst is door de jeugdrechter of jeugdrechtbank in een gemeenschapsinstelling als vermeld in artikel 2, 4°, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
+c) een niet-begeleide minderjarige vreemdeling voor wie de voorwaarden, vermeld in artikel 5 en 5/1 van hoofdstuk 6 van titel XIII van de Programmawet (I) van 24 december 2002, vervuld zijn;<br>
 17° /3 leertijd: de opleiding, vermeld in artikel 2, 15°, van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding";<br>
 17° /3 leerling met specifieke onderwijsbehoeften: leerling met langdurige en belangrijke participatieproblemen die te wijten zijn aan het samenspel tussen:<br>
 a) één of meerdere functiebeperkingen op mentaal, psychisch, lichamelijk of zintuiglijk vlak en;<br>
@@ -161,7 +167,7 @@ c) hetzij de oprichting van een op 1 oktober van de zes voorafgaande schooljaren
 43° /0 studierichting: de combinatie van basisvorming, specifiek gedeelte en complementair gedeelte;<br>
 43° /1 ...;<br>
 43° /1/1 systematisch contact: een periodiek contact waarop de leerling en het centrum voor leerlingenbegeleiding in persoon samenzitten en er een uniform aanbod voor populaties of doelgroepen wordt voorzien ter uitvoering van het begeleidingsdomein preventieve gezondheidszorg;<br>
-43° /2 thuisloze: een leerling die tijdelijk of permanent buiten het eigen gezinsverband opgenomen is door een gezin of persoon, een voorziening of een sociale dienst, bedoeld in het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand, met uitzondering van de internaten die gefinancierd of gesubsidieerd worden door het Departement Onderwijs en Vorming van de Vlaamse Gemeenschap of een leerling die een niet-begeleide minderjarige vreemdeling is als vermeld in artikel 479 van de Programmawet I van 24 december 2002;<br>
+43° /2 ...;<br>
 44° trekkende bevolking : de binnenschippers, de kermis- en circusexploitanten en Bartiesten en de woonwagenbewoners bedoeld in artikel 2, 3° van het decreet van 28 april 1998 inzake het Vlaams beleid ten aanzien van etnisch-culturele minderheden;<br>
 44° /1 uitbreiding van zorg: fase in het zorgcontinuüm waarbij de school de maatregelen uit de fase van verhoogde zorg onverkort verderzet en het centrum voor leerlingenbegeleiding een proces van handelingsgerichte diagnostiek opstart. Het centrum voor leerlingenbegeleiding richt zich daarbij op een uitgebreide analyse van de onderwijs- en opvoedingsbehoeften van de leerling en op de ondersteuningsbehoeften van de leerkracht(en) en ouders met het oog op het formuleren van adviezen voor het optimaliseren van het proces van afstemming van het onderwijs- en opvoedingsaanbod op de zorgvraag van de leerling. Het centrum voor leerlingenbegeleiding bepaalt in samenspraak met de school en de ouders welke bijkomende inzet van middelen, hulp of expertise, hetzij ten aanzien van de school, de leerling, al dan niet in zijn context, wenselijk is alsook de omvang en de duur daarvan;<br>
 45° vacature : elke volledige of onvolledige betrekking die ofwel definitief vacant is ofwel tijdelijk vacant is voor een periode van ten minste tien werkdagen;<br>
@@ -3843,7 +3849,7 @@ De bepalingen van deze onderafdeling zijn van toepassing op de eerste graad van 
 
 § 1. Voor de toepassing van deze onderafdeling gelden volgende indicatoren, verder genoemd "gelijkekansenindicatoren" :<br>
 1° het gezin ontvangt één of meerdere selectieve participatietoeslagen leerling;<br>
-2° de leerling is thuisloze;<br>
+2° de leerling is leerling met een zorgthuis;<br>
 3° de ouders behoren tot de trekkende bevolking;<br>
 4° de moeder is niet in het bezit van een diploma van het secundair onderwijs, een studiegetuigschrift van het tweede leerjaar van de derde graad van het beroepssecundair onderwijs of van een daarmee gelijkwaardig studiebewijs;<br>
 5° de taal die de leerling in het gezin spreekt, dit is de taal die de leerling spreekt met moeder, vader, broers of zussen, is niet het Nederlands. Die taal is niet het Nederlands indien de leerling in het gezin met niemand of in een gezin met drie gezinsleden (de leerling niet meegerekend) met maximum één gezinslid het Nederlands spreekt. Broers en zussen worden als één gezinslid beschouwd.<br>
@@ -3904,7 +3910,7 @@ De bepalingen van deze onderafdeling zijn van toepassing op de tweede en derde g
 
 § 1. Voor de toepassing van deze onderafdeling gelden volgende indicatoren, verder genoemd "gelijkekansenindicatoren" :<br>
 1° het gezin ontvangt één of meerdere selectieve participatietoeslagen leerling;<br>
-2° de leerling is thuisloze;<br>
+2° de leerling is leerling met een zorgthuis;<br>
 4° de moeder is niet in het bezit van een diploma van het secundair onderwijs, een studiegetuigschrift van het tweede leerjaar van de derde graad van het beroepssecundair onderwijs of van een daarmee gelijkwaardig studiebewijs;<br>
 5° de taal die de leerling in het gezin spreekt, dit is de taal die de leerling spreekt met moeder, vader, broers of zussen, is niet het Nederlands. Die taal is niet het Nederlands indien de leerling in het gezin met niemand of in een gezin met drie gezinsleden (de leerling niet meegerekend) met maximum één gezinslid het Nederlands spreekt. Broers en zussen worden als één gezinslid beschouwd.<br>
 <br>
