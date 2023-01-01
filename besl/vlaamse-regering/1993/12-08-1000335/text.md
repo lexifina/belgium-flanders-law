@@ -14,7 +14,11 @@ Dit besluit is van toepassing op :<br>
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° directeur:   de directeur van een instelling of een P.M.S.-centrum of de hiërarchische   overste voor wat de leden van de inspectie en de pedagogische   begeleidingsdiensten betreft of hun plaatsvervanger;<BR>2° controleorgaan: een   gemeenschappelijke geneeskundige dienst die, op basis van het besluit van de   Vlaamse regering van 8 december 1993&nbsp; houdende de organisatie van de   controle op de afwezigheid wegens ziekte door de Vlaamse minister van onderwijs   aangeduid is om het toezicht op de afwezigheid wegens ziekte uit te   voeren;<BR>3° afwezigheidsattest: een attest opgemaakt door middel van het door   het departement onderwijs voorgeschreven formulier, gedateerd en ondertekend   door een arts met vermelding van het aantal noodzakelijke kalenderdagen   ziekteverlof en met vermelding of het betrokken personeelslid de woon- of   verblijfplaats al dan niet mag verlaten. Voor personeelsleden die in   verschillende betrekkingen fungeren moet het attest duidelijk vermelden op welke   betrekkingen de afwezigheid wegens ziekte betrekking heeft;<BR>4° medisch   attest: een attest opgemaakt door middel van het door het departement   voorgeschreven formulier, gedateerd en ondertekend door een arts met vermelding   van de diagnose, het aantal noodzakelijke kalenderdagen ziekteverlof en met   vermelding of het betrokken personeelslid de woon- of verblijfplaats al dan niet   mag verlaten.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° directeur: de directeur van een instelling of een P.M.S.-centrum of de hiërarchische overste voor wat de leden van de inspectie en de pedagogische begeleidingsdiensten betreft of hun plaatsvervanger;<br>
+2° controleorgaan: een gemeenschappelijke geneeskundige dienst die, op basis van het besluit van de Vlaamse regering van 8 december 1993&nbsp; houdende de organisatie van de controle op de afwezigheid wegens ziekte door de Vlaamse minister van onderwijs aangeduid is om het toezicht op de afwezigheid wegens ziekte uit te voeren;<br>
+3° afwezigheidsattest: een attest gedateerd en ondertekend door een arts met vermelding van het aantal noodzakelijke kalenderdagen ziekteverlof en met vermelding of het betrokken personeelslid de woon- of verblijfplaats al dan niet mag verlaten.&nbsp;<br>
+4° medisch attest: een attest opgemaakt door middel van het door het Vlaams Ministerie van Onderwijs en Vorming voorgeschreven formulier, gedateerd en ondertekend door een arts met vermelding van de diagnose, het aantal noodzakelijke kalenderdagen ziekteverlof en met vermelding of het betrokken personeelslid de woon- of verblijfplaats al dan niet mag verlaten.&nbsp;Op het attest wordt vermeld waar het personeelslid tijdens de afwezigheid verblijft.
 
 ## HOOFDSTUK II [FORMALITEITEN BIJ AFWEZIGHEID WEGENS ZIEKTE (verv. B.V.R. 25 januari 1995, art. 2)]
 
@@ -30,7 +34,9 @@ Indien het wegens ziekte afwezige personeelslid tijdens de ziekte niet in zijn w
 
 ### ART. 5.
 
-Bij een afwezigheid wegens ziekte van meer dan één dag stuurt het   personeelslid onmiddellijk een afwezigheidsattest naar de directeur en een   medisch attest naar het controleorgaan. Op beide attesten moet vermeld worden   waar men tijdens de afwezigheid verblijft. Elke verandering van verblijfplaats   in de loop van de afwezigheid wegens ziekte moet vooraf aan het controleorgaan   worden gemeld. <BR><BR>Dit geldt eveneens voor personeelsleden die ter   beschikking gesteld zijn wegens ziekte.
+Bij een afwezigheid wegens ziekte van meer dan één dag stuurt het personeelslid onmiddellijk een afwezigheidsattest naar de directeur en een medisch attest naar het controleorgaan. Als het personeelslid dat wegens ziekte afwezig is, tijdens de ziekte niet in zijn woonplaats verblijft, deelt het personeelslid zijn verblijfplaats aan de directeur mee. Elke verandering van verblijfplaats in de loop van de afwezigheid wegens ziekte moet vooraf aan het controleorgaan worden gemeld.<br>
+<br>
+Dit geldt eveneens voor personeelsleden die ter beschikking gesteld zijn wegens ziekte.
 
 ### ART. 6.
 
@@ -44,7 +50,15 @@ Bij een afwezigheid wegens ziekte van meer dan één dag stuurt het   personeels
 
 ### ART. 8.
 
-§ 1. Iedere directeur kan het controleorgaan verzoeken om over te gaan tot   een controle-onderzoek van een personeelslid met ziekteverlof.<BR><BR>§ 2. Het   departement onderwijs kan het controleorgaan verzoeken om over te gaan tot een   controle-onderzoek van een personeelslid met ziekteverlof.<BR><BR>§ 3. Een   personeelslid, afwezig wegens ziekte, kan via de directeur of via het   departement Onderwijs een controle-onderzoek aanvragen.<BR><BR>Het   personeelslid, dat tijdens zijn afwezigheid wegens ziekte voor meer dan een dag   naar het buitenland wenst te gaan, is verplicht tenminste vier kalenderdagen   vóór het vertrek zelf rechtstreeks een controleonderzoek aan te vragen bij het   controleorgaan door middel van het document "medisch attest". Deze verplichting   geldt niet als de afwezigheid wegens ziekte volledig binnen een schoolvakantie   valt. <BR><BR>§ 4. Het door de Vlaamse minister, bevoegd voor het onderwijs,   aangeduide controleorgaan kan, binnen de door deze minister opgelegde   beperkingen, een controlearts sturen naar een personeelslid met ziekteverlof.
+§ 1. Iedere directeur kan het controleorgaan verzoeken om over te gaan tot een controle-onderzoek van een personeelslid met ziekteverlof.<br>
+<br>
+§ 2. Het Vlaams Ministerie van Onderwijs en Vorming kan het controleorgaan verzoeken om over te gaan tot een controle-onderzoek van een personeelslid met ziekteverlof.<br>
+<br>
+§ 3. Een personeelslid, afwezig wegens ziekte, kan via de directeur of via het Vlaams Ministerie van Onderwijs en Vorming een controle-onderzoek aanvragen.<br>
+<br>
+Het personeelslid, dat tijdens zijn afwezigheid wegens ziekte voor meer dan een dag naar het buitenland wenst te gaan, is verplicht tenminste vier kalenderdagen vóór het vertrek zelf rechtstreeks een controleonderzoek aan te vragen bij het controleorgaan door middel van het document "medisch attest". Deze verplichting geldt niet als de afwezigheid wegens ziekte volledig binnen een schoolvakantie valt.<br>
+<br>
+§ 4. Het door de Vlaamse minister, bevoegd voor het onderwijs, aangeduide controleorgaan kan, binnen de door deze minister opgelegde beperkingen, een controlearts sturen naar een personeelslid met ziekteverlof.
 
 ### ART. 9.
 
@@ -64,7 +78,9 @@ Indien de datum van arbeidsgeschiktheid voorgesteld door de scheidsrechter een d
 
 ### ART. 12.
 
-De controle-onderzoeken gebeuren in de woon- of verblijfplaats van het   ziek personeelslid. Het controleorgaan dient het controle-onderzoek niet aan te   kondigen.
+De controle-onderzoeken in het kader van voltijds ziekteverlof gebeuren in de woon- of verblijfplaats van het ziek personeelslid. Het controleorgaan dient het controle-onderzoek niet aan te kondigen.<br>
+<br>
+De controleonderzoeken in het kader van een verlof voor verminderde prestaties wegens ziekte en van een langdurig verlof voor verminderde prestaties wegens medische redenen worden in de praktijk van de dokter of in een medisch controlecentrum uitgevoerd.
 
 ### ART. 13.
 
@@ -72,11 +88,29 @@ Een personeelslid bij wie de controlearts zich tevergeefs heeft aangeboden, kan 
 
 ### ART. 14.
 
-§ 1. Stelt de controlearts vast dat de afwezigheid wegens ziekte gerechtvaardigd is, dan deelt hij dit onmiddellijk mee aan de betrokkene die kan afwezig blijven voor de duur van het toegestane ziekteverlof.<br /><br />§ 2. De directeur wordt binnen de 24 uur schriftelijk, telefonisch of per fax op de hoogte gebracht.<br /><br />§ 3. Het departement onderwijs wordt binnen de 24 uur schriftelijk, telefonisch of per fax op de hoogte gebracht voor de controle-onderzoeken die het zelf aangevraagd heeft.
+§ 1. Stelt de controlearts vast dat de afwezigheid wegens ziekte gerechtvaardigd is, dan deelt hij dit onmiddellijk mee aan de betrokkene die kan afwezig blijven voor de duur van het toegestane ziekteverlof.<br>
+<br>
+§ 2. De directeur wordt binnen de 24 uur schriftelijk, telefonisch of per fax op de hoogte gebracht.<br>
+<br>
+§ 3. Het Vlaams Ministerie van Onderwijs en Vorming wordt binnen de 24 uur schriftelijk, telefonisch of per fax op de hoogte gebracht voor de controle-onderzoeken die het zelf aangevraagd heeft.
 
 ### ART. 15.
 
-§ 1. Als de controlearts van oordeel is dat de afwezigheid wegens ziekte   niet of niet langer gerechtvaardigd is, deelt hij dit, bij middel van een   formulier dat voor ontvangst wordt ondertekend, onmiddellijk mee aan het   betrokken personeelslid. Het personeelslid moet dan zijn dienst hervatten op de   eerstvolgende werkdag, tenzij de controlearts een andere dag bepaalt.<BR><BR>Als   het betrokken personeelslid niet akkoord gaat met de beslissing van de   controlearts, staat het hem vrij zelf onmiddellijk contact op te nemen met zijn   behandelende arts. Als deze laatste niet akkoord gaat met de beslissing van de   controlearts, moet hij onmiddellijk contact opnemen met de controlearts, om   overleg te plegen over de arbeidsgeschiktheid van het betrokken personeelslid.   Dit overleg moet plaatsvinden binnen 24 uur na de beslissing van de controlearts   en vóór de door de controlearts bepaalde datum van werkhervatting. Als dit   overleg niet binnen deze tijdspanne plaatsvindt, is de beslissing van de   controlearts definitief en kan geen beroep worden gedaan op de in artikel 16   bedoelde procedure.<BR><BR>Het overleg tussen de behandelende arts en de   controlearts schort de beslissing van de controlearts op.<BR><BR>Het   personeelslid moet, binnen de voormelde tijdspanne, zelf informeren naar het   resultaat van het overleg tussen de controlearts en de behandelende   arts.<BR><BR>Als de behandelende arts en de controlearts een akkoord bereiken   over de datum van werkhervatting, moet het personeelslid op die dag de dienst   hervatten. Het akkoord tussen beide artsen wordt nadien bij aangetekend   schrijven bevestigd door het controleorgaan. <BR><BR>§ 2. De directeur wordt   binnen de 24 uur schriftelijk, telefonisch of per fax op de hoogte   gebracht.<BR><BR>§ 3. Het departement onderwijs wordt binnen de 24 uur   schriftelijk, telefonisch of per fax op de hoogte gebracht voor de   controle-onderzoeken die het zelf aangevraagd heeft.<BR><BR>§ 4. ...
+§ 1. Als de controlearts van oordeel is dat de afwezigheid wegens ziekte niet of niet langer gerechtvaardigd is, deelt hij dit, bij middel van een formulier dat voor ontvangst wordt ondertekend, onmiddellijk mee aan het betrokken personeelslid. Het personeelslid moet dan zijn dienst hervatten op de eerstvolgende werkdag, tenzij de controlearts een andere dag bepaalt.<br>
+<br>
+Als het betrokken personeelslid niet akkoord gaat met de beslissing van de controlearts, staat het hem vrij zelf onmiddellijk contact op te nemen met zijn behandelende arts. Als deze laatste niet akkoord gaat met de beslissing van de controlearts, moet hij onmiddellijk contact opnemen met de controlearts, om overleg te plegen over de arbeidsgeschiktheid van het betrokken personeelslid. Dit overleg moet plaatsvinden binnen 24 uur na de beslissing van de controlearts en vóór de door de controlearts bepaalde datum van werkhervatting. Als dit overleg niet binnen deze tijdspanne plaatsvindt, is de beslissing van de controlearts definitief en kan geen beroep worden gedaan op de in artikel 16 bedoelde procedure.<br>
+<br>
+Het overleg tussen de behandelende arts en de controlearts schort de beslissing van de controlearts op.<br>
+<br>
+Het personeelslid moet, binnen de voormelde tijdspanne, zelf informeren naar het resultaat van het overleg tussen de controlearts en de behandelende arts.<br>
+<br>
+Als de behandelende arts en de controlearts een akkoord bereiken over de datum van werkhervatting, moet het personeelslid op die dag de dienst hervatten. Het akkoord tussen beide artsen wordt nadien bij aangetekend schrijven bevestigd door het controleorgaan.<br>
+<br>
+§ 2. De directeur wordt binnen de 24 uur schriftelijk, telefonisch of per fax op de hoogte gebracht.<br>
+<br>
+§ 3. Het Vlaams Ministerie van Onderwijs en Vorming wordt binnen de 24 uur schriftelijk, telefonisch of per fax op de hoogte gebracht voor de controle-onderzoeken die het zelf aangevraagd heeft.<br>
+<br>
+§ 4. ...
 
 ### ART. 15bis.
 
@@ -90,7 +124,11 @@ Indien de behandelende arts niet akkoord gaat met de diagnose van de   controle-
 
 ### ART. 17.
 
-§ 1. De scheidsrechter doet binnen de 24 uur na zijn aanstelling zijn onderzoek en deelt aan het einde van dat onderzoek onmiddellijk zijn bindende beslissing mee aan het personeelslid. Hij doet dit bij middel van een document dat voor ontvangst wordt ondertekend. [ <span class="reference">(verv. B.V.R. 24 november 1998, art. 6, I: 1 juni 1998)</span> ]<br /><br />§ 2. De directeur wordt binnen de 24 uur schriftelijk, telefonisch of per fax op de hoogte gebracht van de scheidsrechterlijke beslissing.<br /><br />§ 3. Het departement onderwijs wordt binnen de 24 uur in kennis gesteld van de scheidsrechterlijke beslissingen in de zaken waarin het zelf een controle-onderzoek heeft aangevraagd.
+§ 1. De scheidsrechter doet binnen de 24 uur na zijn aanstelling zijn onderzoek en deelt aan het einde van dat onderzoek onmiddellijk zijn bindende beslissing mee aan het personeelslid. Hij doet dit bij middel van een document dat voor ontvangst wordt ondertekend.&nbsp;<br>
+<br>
+§ 2. De directeur wordt binnen de 24 uur schriftelijk, telefonisch of per fax op de hoogte gebracht van de scheidsrechterlijke beslissing.<br>
+<br>
+§ 3. Het Vlaams Ministerie van Onderwijs en Vorming wordt binnen de 24 uur in kennis gesteld van de scheidsrechterlijke beslissingen in de zaken waarin het zelf een controle-onderzoek heeft aangevraagd.
 
 ### ART. 18.
 
@@ -100,7 +138,7 @@ De beroepsprocedure zoals bepaald in de artikelen 16 en 17 van dit besluit schor
 
 ### ART. 19.
 
-Het personeelslid, vermeld in artikel 1, dat een verlof voor verminderde prestaties wegens ziekte wil opnemen, stuurt een geneeskundig attest en een plan, opgemaakt door de behandelende arts, in naar het controleorgaan. In dat plan vermeldt de behandelende arts de vermoedelijke duur van het verlof voor verminderde prestaties wegens ziekte en het volume van de nog te verrichten prestaties.
+Het personeelslid, vermeld in artikel 1 van dit besluit, dat een verlof voor verminderde prestaties wegens ziekte wil opnemen, stuurt een aanvraag in de vorm van een plan, zoals vermeld in artikel 24, §1, van het besluit van 15 februari 2008 betreffende het ziekteverlof, het verlof voor verminderde prestaties wegens ziekte, het langdurig verlof voor verminderde prestaties wegens medische redenen en de terbeschikkingstelling wegens ziekte voor bepaalde personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding, naar het controleorgaan.
 
 ### ART. 20.
 
@@ -112,7 +150,13 @@ Als de controlearts het plan voor het verlof voor verminderde prestaties wegens 
 
 ### ART. 20/2.
 
-Als het verlof voor verminderde prestaties wegens ziekte langer duurt dan twee maanden, gaat het controleorgaan op het einde van iedere periode van twee maanden na of de gezondheidstoestand van het betrokken personeelslid de verderzetting van het verlof voor verminderde prestaties wegens ziekte nog wettigt. Het controleorgaan maakt daarvoor de nodige afspraken met het personeelslid.<br /><br />Als de controlearts niet akkoord gaat met de verderzetting van het verlof voor verminderde prestaties wegens ziekte, deelt hij dat onmiddellijk mee aan de betrokkene. De weigering moet ten aanzien van het personeelslid schriftelijk worden gemotiveerd. <br /><br />Als de behandelende arts niet akkoord gaat met de beslissing van de controlearts en ze binnen 24 uur geen overeenstemming bereiken over de uiteindelijke beslissing, kan de behandelende arts beroep aantekenen tegen die beslissing. Ze stellen dan in gezamenlijk overleg een andere arts van het controleorgaan als scheidsrechter aan. <br /><br />De scheidsrechter voert binnen 24 uur na zijn aanstelling zijn onderzoek uit en deelt op het einde van dat onderzoek zijn bindende beslissing mee aan het personeelslid. Hij doet dat door middel van een document dat voor ontvangst wordt ondertekend. Die beroepsprocedure schorst de beslissing van de controlearts. De directeur wordt binnen de 24 uur schriftelijk, per e-mail of per fax op de hoogte gebracht van de scheidsrechterlijke beslissing.
+Als het controleorgaan dat nodig acht, kan het een tussentijdse controle vastleggen om na te gaan of de gezondheidstoestand van het personeelslid de verdere uitvoering van het plan nog wettigt. Over de eventuele tussentijdse controle maakt het controleorgaan bij de goedkeuring van het plan of bij een tussentijdse controle afspraken met het personeelslid.<br>
+<br>
+Als de controlearts&nbsp;na de tussentijdse controle, vermeld in het eerste lid, niet akkoord gaat met de verderzetting van het verlof voor verminderde prestaties wegens ziekte, deelt hij dat onmiddellijk mee aan de betrokkene. De weigering moet ten aanzien van het personeelslid schriftelijk worden gemotiveerd.<br>
+<br>
+Als de behandelende arts niet akkoord gaat met de beslissing van de controlearts en ze binnen 24 uur geen overeenstemming bereiken over de uiteindelijke beslissing, kan de behandelende arts beroep aantekenen tegen die beslissing. Ze stellen dan in gezamenlijk overleg een andere arts van het controleorgaan als scheidsrechter aan.<br>
+<br>
+De scheidsrechter voert binnen 24 uur na zijn aanstelling zijn onderzoek uit en deelt op het einde van dat onderzoek zijn bindende beslissing mee aan het personeelslid. Hij doet dat door middel van een document dat voor ontvangst wordt ondertekend. Die beroepsprocedure schorst de beslissing van de controlearts. De directeur wordt binnen de 24 uur schriftelijk, per e-mail of per fax op de hoogte gebracht van de scheidsrechterlijke beslissing.
 
 ### ART. 20/3.
 
@@ -152,7 +196,12 @@ Met ingang van de ontvangst van de beslissing van de Administratieve   Gezondhei
 
 ### ART. 20quinquies.
 
-Bij een ongeval buiten dienstverband kan het controleorgaan door het   departement Onderwijs belast worden met volgende opdrachten:<BR>1° een medisch   verslag opmaken over de afwezigheden die het gevolg zijn van een ongeval buiten   dienstverband;<BR>2° het departement Onderwijs vertegenwoordigen bij een   minnelijke medische expertise;<BR>3° het departement Onderwijs vertegenwoordigen   bij een gerechtelijk deskundig onderzoek.<BR><BR>Voor de toepassing van dit   besluit wordt onder ongeval buiten dienstverband verstaan, een ongeval dat   buiten dienstverband veroorzaakt wordt door een derde en een   arbeidsongeschiktheid tot gevolg heeft.
+Bij een ongeval buiten dienstverband kan het controleorgaan door het Vlaams Ministerie van Onderwijs en Vorming belast worden met volgende opdrachten:<br>
+1° een medisch verslag opmaken over de afwezigheden die het gevolg zijn van een ongeval buiten dienstverband;<br>
+2° het Vlaams Ministerie van Onderwijs en Vorming vertegenwoordigen bij een minnelijke medische expertise;<br>
+3° het Vlaams Ministerie van Onderwijs en Vorming vertegenwoordigen bij een gerechtelijk deskundig onderzoek.<br>
+<br>
+Voor de toepassing van dit besluit wordt onder ongeval buiten dienstverband verstaan, een ongeval dat buiten dienstverband veroorzaakt wordt door een derde en een arbeidsongeschiktheid tot gevolg heeft.
 
 ## HOOFDSTUK VI SANCTIES
 
