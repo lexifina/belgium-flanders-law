@@ -2,16 +2,16 @@
   "codex_id": 1035753,
   "title": "Ministerieel besluit van 2021-06-11 tot uitvoering van artikel 4 en 9 van het besluit van de Vlaamse Regering van 2 oktober 2015 betreffende steun aan niet-productieve investeringen en aan de ontwikkeling van kleine landbouwbedrijven",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035753/VolledigDocument?datum=2022-01-24",
-  "source_sha256": "e78f764528cd2837e22ab5abe9f1f57df071fb6949a73ca81cf9ff48178ada09",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035753/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "0bd6c6684bb9e75af704d17ce28979cae450d74cff392177707cef30b6a5c77c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035753&param=informatie",
-  "as_of": "2022-01-24",
+  "as_of": "2023-01-01",
   "made": "2021-06-11",
   "gazette": "2021-06-28",
   "numac": 2021021136,
   "document_start": "2021-07-08",
   "document_end": "2022-12-31",
-  "in_force": "2022-01-24",
+  "in_force": "2023-01-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2022-01-24; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }
