@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Binnen het Vlaams ministerie van Omgeving wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht onder de benaming Wonen-Vlaanderen, hierna het agentschap te noemen.<br>
+Binnen het Vlaams ministerie van Omgeving wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht onder de benaming Wonen in Vlaanderen, hierna het agentschap te noemen.<br>
 <br>
 Het agentschap wordt opgericht voor de voorbereiding, de uitvoering met inbegrip van de handhaving en het toezicht, de monitoring en de evaluatie van het beleid met betrekking tot de huisvesting, inzonderheid wat de in dit besluit opgesomde taken betreft.<br>
 <br>
@@ -37,7 +37,10 @@ Het agentschap is belast met de coördinatie van de opmaak van de beleidsnota's 
 <br>
 Binnen het kader dat de minister, bevoegd voor de huisvesting, vaststelt heeft het agentschap tot taak :<br>
 1° een huisvestingsdatabank te ontwikkelen voor permanente dataopbouw en -uitwisseling;<br>
-2° het beleidsmatig investeringsprogramma voor sociale woonprojecten op te maken en te evalueren en de uitvoering ervan op te volgen;<br>
+2° het beleidsmatige investeringsprogramma voor sociale woonprojecten op te maken, te evalueren en uit te voeren. Daarvoor neemt het agentschap de volgende taken op zich:<br>
+a)&nbsp;&nbsp; &nbsp;het ondersteunen van de sociale woonorganisaties, gemeenten, intergemeentelijke samenwerkingsverbanden, OCMW's en welzijnsverenigingen, op technisch, juridisch en administratief vlak bij de realisatie van woonprojecten en bij het kwaliteitsgerichte en kostprijsbewuste beheer van hun woningpatrimonium, voorzover de voormelde actoren in hun werking rekening houden met de bijzondere doelstellingen van het woonbeleid, vermeld in artikel 1.6 van de Vlaamse Codex Wonen van 2021;<br>
+b)&nbsp;&nbsp; &nbsp;het opstellen van een meerjarenplanning en een kortetermijnplanning die voor ten minste 30% betrekking moet hebben op de renovatie of vervangingsbouw van sociale huurwoningen, of op de verbetering of aanpassing van sociale huurwoningen;<br>
+c)&nbsp;&nbsp; &nbsp;het oprichten van de beoordelingscommissie vermeld in artikel 2.22, §2, van de voormelde codex;<br>
 3° de erkenning van sociale woonorganisaties en kredietmaatschappijen voor te bereiden en de in de regelgeving ter zake voorgeschreven verrichtingen inzake financiering, subsidiëring en waarborgverlening uit te voeren;<br>
 4° de beslissingen van de Vlaamse Regering voor te bereiden over :<br>
 a) de afbakening van woonvernieuwings- en woningbouwgebieden, vermeld in artikel 2.36 van de Vlaamse Codex Wonen van 2021, of van bijzondere gebieden, vermeld in artikel 5.76, § 1, tweede lid, 3°, van de voormelde codex;<br>
@@ -63,24 +66,36 @@ c) hoofdstuk III van het decreet van 18 december 1992 houdende bepalingen tot be
 d) de Vlaamse Codex Wonen van 2021;<br>
 e) het besluit van de provincieraad van de provincie Vlaams-Brabant van 22 oktober 2013 tot oprichting van het autonoom provinciebedrijf Vlabinvest APB;<br>
 en deze subsidies, toelagen, premies of tegemoetkomingen in te vorderen bij de begunstigden die de verbintenissen of voorwaarden niet naleven of die ze niet aanwenden voor de doeleinden waarvoor ze werden toegekend;<br>
-14° de handhavingsmaatregelen toe te passen, vermeld in boek 3, deel 9, van de Vlaamse Codex Wonen van 2021;<br>
+f) titel XIII en titel IX van het decreet van 8 mei 2009 houdende algemene bepalingen betreffende het energiebeleid;<br>
+14° de handhavingsmaatregelen toe te passen, vermeld in&nbsp;artikel 1.8, §1, en boek 3, deel 9, van de Vlaamse Codex Wonen van 2021;<br>
 15° toezicht uit te oefenen op de sociale woonorganisaties en de sociale kredietverstrekkers met toepassing van de Vlaamse Codex Wonen van 2021, met inbegrip van de sancties die kunnen worden getroffen door de toezichthouder voor de sociale huisvesting;<br>
 16° controle uit te oefenen op de toewijzing van woningen die geheel of gedeeltelijk werden gefinancierd op basis van de bepalingen van:<br>
 a) de Huisvestingscode, gevoegd bij het koninklijk besluit van 10 december 1970, bekrachtigd door de wet van 2 juli 1971;<br>
 b) hoofdstuk IV van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992;<br>
 c) hoofdstuk III van het decreet van 18 december 1992 houdende bepalingen tot begeleiding van de begroting 1993;<br>
 d) de Vlaamse Codex Wonen van 2021;<br>
-e) het besluit van de provincieraad van de provincie Vlaams-Brabant van 22 oktober 2013 tot oprichting van het autonoom provinciebedrijf Vlabinvest APB.<br>
+e) het besluit van de provincieraad van de provincie Vlaams-Brabant van 22 oktober 2013 tot oprichting van het autonoom provinciebedrijf Vlabinvest APB;<br>
+17° periodiek oproepen lanceren bij private actoren om projectvoorstellen in te dienen voor de verwezenlijking van sociale huurwoningen of sociale koopwoningen overeenkomstig de voor de woonmaatschappijen geldende prijs- en kwaliteitsnormen;&nbsp;<br>
+18° de conformiteit met de voor de woonmaatschappijen geldende prijs- en kwaliteitsnormen beoordelen van woningen die door private actoren worden opgericht in het kader van een koop-verkoopovereenkomst met een woonmaatschappij, die de woningen na de overname zal verhuren als sociale huurwoningen of overdragen als sociale koopwoningen;&nbsp;<br>
+19° zorgen voor de opbouw en het beheer van een databank met informatie over de prestaties van de sociale woonorganisaties en andere instanties die door de Vlaamse Regering erkend zijn;&nbsp;<br>
+20° aanspreekpunt zijn voor verhuurders en voor kandidaat-verhuurders als ze woningen verhuren of willen verhuren aan een woonmaatschappij;&nbsp;<br>
+21° het ondersteunen van de woonmaatschappijen bij het uitvoeren van de taken, vermeld in artikel 4.55, eerste en tweede lid, van dezelfde codex;&nbsp;<br>
+22° het organiseren van het overleg tussen woonmaatschappijen;&nbsp;<br>
+23° het ondersteunen van de woonmaatschappijen als huurders op de private huurmarkt enerzijds en als sociale verhuurders anderzijds;&nbsp;<br>
+24° het begeleiden van woonmaatschappijen die nog niet erkend zijn, met het oog op die erkenning;&nbsp;<br>
+25° het stimuleren en ondersteunen van samenwerkingsverbanden tussen woonmaatschappijen, gemeenten, OCMW's, welzijnsorganisaties en andere relevante actoren.<br>
 <br>
-Met behoud van de toepassing van de bepaling van het tweede lid, 13° en 15°, behoort het administratief toezicht op de lokale en provinciale besturen niet tot de bevoegdheid van het agentschap.
+Met behoud van de toepassing van de bepaling van het tweede lid, 13° en 15°, behoort het administratief toezicht op de lokale en provinciale besturen niet tot de bevoegdheid van het agentschap.<br>
+<br>
+Voor de ondersteuning van de woonmaatschappijen en de lokale besturen bij de uitvoering van de opdrachten rond sociale huisvesting richt het agentschap een Overlegplatform Sociaal Wonen op. De minister regelt de organisatie en de samenstelling van dat overlegplatform.
 
 ### ART. 4.
 
-Het agentschap is niet bevoegd voor de opdrachten die door of ter uitvoering van de Vlaamse Codex Wonen van 2021 worden toevertrouwd aan de Vlaamse Maatschappij voor Sociaal Wonen.
+Het agentschap voert de opdrachten uit die door of ter uitvoering van de Vlaamse Codex Wonen van 2021 of andere decreten worden toevertrouwd aan de Vlaamse Maatschappij voor Sociaal Wonen.
 
 ### ART. 5.
 
-De concretisering van de wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, wordt geregeld in het ondernemingsplan, vermeld in artikel 7.<br>
+De concretisering van de wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, wordt geregeld in het ondernemingsplan, vermeld in artikel 7.&nbsp;Er wordt een gezamenlijk ondernemingsplan vastgesteld voor het agentschap en de Vlaamse Maatschappij voor Sociaal Wonen.<br>
 <br>
 Overeenkomstig artikel III.61 van het bestuursdecreet van 7 december 2018, regelt het ondernemingsplan de concretisering van de kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, beschreven aan de hand van meetbare criteria.
 
@@ -113,12 +128,16 @@ c) artikel 1.3, § 1, eerste lid, 18°, van de Vlaamse Codex Wonen van 2021;<br>
 Het hoofd van het agentschap:<br>
 1° wordt aangewezen als gemachtigde voor het viseren en uitvoerbaar verklaren van dwangbevelen als vermeld in artikel 5.4 van de Vlaamse Codex Wonen van 2021.<br>
 2° kan, op het volledige grondgebied van het Vlaamse Gewest, de functie uitoefenen van:<br>
-a) wooninspecteur als vermeld in artikel 3.37 van de voormelde codex;<br>
+a) wooninspecteur als vermeld in artikel 1.3, § 1, eerste lid, 69°, van de voormelde codex;<br>
 b) toezichthouder voor de sociale huisvesting als vermeld in artikel 4.79 van de voormelde codex.<br>
 3° worden de volgende specifieke delegaties verleend:<br>
 a) het aanstellen van wooninspecteurs en toezichthouders voor de sociale huisvesting en het bepalen van hun ambtsgebieden;<br>
 b) het aanwijzen van ambtenaren die belast worden met de invordering van subsidies, toelagen, premies en tegemoetkomingen en het opstellen van dwangbevelen als vermeld in 1° ;<br>
-c) het aanstellen van ambtenaren met opsporings- en vaststellingsbevoegdheid als vermeld in artikel 3.37 van de voormelde codex.
+c) het aanstellen van agenten en officieren van gerechtelijke politie, vermeld in artikel 23, § 1, en § 2, van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019, voor de handhaving van boek 3, deel 9, van de voormelde codex op basis van een positieve beoordeling van de competenties en resultaatsgebieden, vermeld in de functiebeschrijving, na het doorlopen van een interne opleidingsperiode, en het inhoudelijk, geografisch en temporeel omschrijven van hun opsporingsopdracht;<br>
+d) het aanstellen van bestuurlijke opsporingsagenten als vermeld in artikel 26, § 1, van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019, voor de handhaving van boek 3, deel 9, van de voormelde codex op basis van een positieve beoordeling van de competenties en resultaatsgebieden, vermeld in de functiebeschrijving, na het doorlopen van een interne opleidingsperiode, en het inhoudelijk, geografisch en temporeel omschrijven van hun opsporingsopdracht;<br>
+e) het aanstellen van personeelsleden die een bestuurlijke sanctiebeslissing als vermeld in artikel 72, § 1, van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019, als uitvoerbaar kunnen waarmerken voor de handhaving van boek 3, deel 9, van dezelfde codex;<br>
+f) het aanstellen van personeelsleden als beboetingsinstantie als vermeld in artikel 2, 1°, van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019, voor de handhaving van boek 3, deel 9, van de voormelde codex;<br>
+g) het aanstellen van personeelsleden als vervolgingsinstantie als vermeld in artikel 2, 17°, van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019, voor de handhaving van boek 3, deel 9, van de voormelde codex.
 
 ## HOOFDSTUK IV Controle, voortgangscontrole en toezicht
 
