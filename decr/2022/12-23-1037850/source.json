@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037850,
+  "title": "Decreet van 2022-12-23 tot het verlenen van noodleningen en noodsteun aan de georganiseerde sportsector naar aanleiding van de stijgende energie-uitgaven",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037850/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "a383f26f3205f7f2bdde76d0bdbb7d9dce1d1f50b8aac21a13fd7cd925c611a9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037850&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2022-12-23",
+  "gazette": "2023-01-05",
+  "numac": 2022043237,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
