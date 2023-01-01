@@ -91,9 +91,10 @@ Het agentschap beslist over de goedkeuring van het jaarplan. Voor het agentschap
 
 ### ART 5.
 
-Binnen de beschikbare begrotingskredieten kent het agentschap, aan het cliëntenforum een jaarlijkse subsidie toe van maximaal 200.000 euro.<br>
+Binnen de beschikbare begrotingskredieten kent het agentschap, aan het cliëntenforum een jaarlijkse subsidie toe van maximaal 236.068 euro.<br>
 <br>
-De subsidie, vermeld in het eerste lid, is gekoppeld aan de index van de consumptieprijzen, die van toepassing is op 1 januari 2021.
+De subsidie, vermeld in het eerste lid, is gekoppeld aan de spilindex die van toepassing is op 1 januari 2023.<br>
+&nbsp;
 
 ### ART 6.
 
