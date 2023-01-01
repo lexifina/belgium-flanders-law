@@ -98,6 +98,14 @@ In artikel VII 71 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaams
 </table>
 ”.
 
+### ART 8.
+
+In artikel VII 164 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 8 juni 2012, en het laatst gewijzigd bij besluit van de Vlaamse Regering van 27 november 2020, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, wordt punt 5° opgeheven;<br>
+2° er wordt een paragraaf 2bis ingevoegd, die luidt als volgt:<br>
+“§2bis. De personeelsleden die vóór 1 december 2012 in dienst zijn getreden bij De Vlaams Maatschappij voor Sociaal Wonen, en op 1 januari 2023 worden overgeheveld naar het Agentschap Wonen-Vlaanderen, behouden de compenserende toelage, vermeld in paragraaf 1, totdat ze het Agentschap Wonen-Vlaanderen vrijwillig verlaten of ontslagen worden.”;<br>
+3° in paragraaf 3 wordt de zinsnede “en §2” vervangen door de zinsnede “§2 en §2bis".
+
 ### ART 9.
 
 In bijlage 2 bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 16 maart 2017 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 27 januari 2017, worden in punt h) van niveau C de volgende wijzigingen aangebracht:<br>
