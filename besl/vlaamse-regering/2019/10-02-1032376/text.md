@@ -130,7 +130,7 @@ Zij draagt de titel "Vlaams minister van Justitie en Handhaving, Omgeving, Energ
 5° het Agentschap voor Natuur en Bos;<br>
 6° het Grindfonds;<br>
 7° het Eigen Vermogen Instituut voor Natuur- en Bosonderzoek;<br>
-8° het Rubiconfonds;<br>
+8° ...;<br>
 9° de Vlaamse maatschappij voor watervoorziening;<br>
 10° Natuurinvest;<br>
 11° het Vlaams Energie- en Klimaatagentschap;<br>
@@ -155,10 +155,10 @@ Hij draagt de titel "Vlaams minister van Financiën en Begroting, Wonen en Onroe
 1° de Vlaamse belastingdienst;<br>
 2° het Vlaams Fonds voor de Lastendelging;<br>
 3° het agentschap Onroerend Erfgoed;<br>
-4° Wonen-Vlaanderen;<br>
+4° Wonen in Vlaanderen;<br>
 5° de Vlaamse Maatschappij voor Sociaal Wonen;<br>
-6° het Garantiefonds voor Huisvesting;<br>
-7° het Vlaams Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant.
+6° ...;<br>
+7° ...
 
 ### ART 9.
 
