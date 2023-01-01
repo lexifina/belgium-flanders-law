@@ -2,16 +2,16 @@
   "codex_id": 1024724,
   "title": "Besluit van de Vlaamse Regering van 2014-07-30 betreffende het verlenen van subsidies voor de aanplant van boslandbouwsystemen met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor de programmeringsperiode 2014-2020",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024724/VolledigDocument?datum=2018-12-30",
-  "source_sha256": "7808ec6781696a8d4dd4e7f77c05dbde64a7e75e756796b74d3598c74ea779ce",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024724/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "a93c759d7e5d1bef99d1fe81f961556b783131e1c1592c2dce32309bec4019f0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024724&param=informatie",
-  "as_of": "2018-12-30",
+  "as_of": "2023-01-01",
   "made": "2014-07-30",
   "gazette": "2014-11-03",
   "numac": 2014036779,
   "document_start": "2014-08-01",
   "document_end": "2022-12-31",
-  "in_force": "2018-12-30",
+  "in_force": "2023-01-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2018-12-30; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }
