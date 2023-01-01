@@ -56,6 +56,10 @@ In afwijking van het tweede lid bepaalt de Vlaamse Regering de gevallen waarin e
 <br>
 Dit artikel is niet van toepassing op sociale verhuurkantoren.".
 
+### ART 9.
+
+In artikel 6.25, achtste lid, van dezelfde codex, vervangen bij artikel 8 van dit decreet, worden de woorden "sociale verhuurkantoren" vervangen door de woorden "sociale huurwoningen die ingehuurd zijn".
+
 ### ART 10.
 
 Om de productieopbrengst te volgen van installaties die op de dag van de bekendmaking van dit decreet in het Belgisch Staatsblad al in gebruik genomen zijn, plaatst de verhuurder vóór de datum die de Vlaamse Regering vaststelt een productiemeter als vermeld in artikel 6.25 van de Vlaamse Codex Wonen van 2021.<br>
