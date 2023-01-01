@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039530,
+  "title": "Besluit van de Vlaamse Regering van 2023-07-07 tot wijziging van artikel 86 van het besluit van de Vlaamse regering van 8 september 2000 houdende een impuls- en ondersteuningsprogramma van de meerwaardeneconomie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039530/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "9564c75377883421ae52bc7e6841dacc13e1f98f850a637e4505afa9b7fa630d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039530&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2023-07-07",
+  "gazette": "2024-03-25",
+  "numac": 2024002828,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
