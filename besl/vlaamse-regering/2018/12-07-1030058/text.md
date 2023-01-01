@@ -455,6 +455,18 @@ In juni 2023 stort het agentschap aan de voorzieningen, vermeld in artikel 16/10
 <br>
 Het totaal van de bedragen die aan de voorzieningen worden gestort conform deze paragraaf en artikel 16/13, § 2, is niet hoger dan het hiervoor op basis van het zesde Vlaamse Intersectorale Akkoord voorziene bedrag in de begroting 2022.
 
+### ART 16/15/1.
+
+Uiterlijk in maart 2023 stort het agentschap aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 1° tot en met 9°, een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023.&nbsp;<br>
+<br>
+Het bedrag dat aan de voorzieningen wordt gestort, is gelijk aan het bedrag dat in juni 2022 conform artikel 16/14, tweede lid, aan het agentschap werd meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.
+
+### ART 16/15/2.
+
+In juni 2024 stort het agentschap aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 1° tot en met 9°, het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023 of vordert het agentschap het te veel betaalde bedrag terug. Het saldo is het verschil tussen het bedrag dat in mei 2024 aan het agentschap wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit en het bedrag dat het agentschap op basis van artikel 16/15/1, betaald heeft.&nbsp;<br>
+<br>
+Het totaal van de bedragen die aan de voorzieningen worden gestort conform dit artikel en artikel 16/15/1 is niet hoger dan het bedrag dat daarvoor op basis van het vijfde en zesde Vlaams intersectoraal akkoord is vastgelegd in de begroting van 2023.
+
 ### ART 16/16.
 
 De voorziening die weigert zich aan de controle van het agentschap te onderwerpen, verliest de rechten, vermeld in dit hoofdstuk.
@@ -500,6 +512,18 @@ Uiterlijk in juni 2023 stort het agentschap aan de voorzieningen een bedrag om d
 Het bedrag dat aan de voorzieningen wordt gestort, wordt uiterlijk in mei 2023 aan het agentschap meegedeeld door een orgaan dat of een instelling die kan instaan voor de bepaling van de bedragen die moeten worden uitbetaald in het licht van de beoogde functieclassificatie, waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
 <br>
 Het totaal van de bedragen die aan de voorzieningen worden gestort met toepassing van dit artikel en artikel 16/20, is niet hoger dan het bedrag dat daarvoor is vastgelegd in de begroting van 2022 op basis van het Zesde Vlaams Intersectoraal Akkoord. In dat bedrag wordt ook de opbrengst van het deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf voor de openbare sector opgenomen.
+
+### ART 16/21/1.
+
+Uiterlijk in maart 2023 stort het agentschap aan de voorzieningen een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023.&nbsp;<br>
+<br>
+Het bedrag dat aan de voorzieningen wordt gestort, is per voorziening gelijk aan het bedrag dat conform artikel 16/18 en artikel 16/19 aan het agentschap wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit, vermenigvuldigd met 2.
+
+### ART 16/21/2.
+
+In juni 2024 stort het agentschap aan de voorzieningen het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023 of vordert het agentschap het te veel betaalde bedrag terug. Het saldo is het verschil tussen het bedrag dat in mei 2024 aan het agentschap wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit en het bedrag dat het agentschap op basis van artikel 16/21/1 betaald heeft.<br>
+<br>
+Het totaal van de bedragen die aan de voorzieningen worden gestort conform dit artikel en artikel 16/21/1, is niet hoger dan het bedrag dat daarvoor op basis van het zesde Vlaams intersectoraal akkoord is vastgelegd in de begroting van 2023.
 
 ### ART 16/22.
 
