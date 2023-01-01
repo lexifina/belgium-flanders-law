@@ -143,7 +143,7 @@ Conform artikel 11, eerste lid, 4°, van het decreet van 29 juni 2012   beschikt
 
 ### ART. 19.
 
-De dienst voor pleegzorg waakt erover dat zijn personeelsleden van goed zedelijk gedrag zijn. Hij vraagt daarvoor minstens bij de aanwerving van elke nieuwe medewerker een&nbsp;uittreksel als vermeld in artikel 596, tweede lid, van het Wetboek van strafvordering. Een gelijkwaardig document als het bedoelde uittreksel uit het strafregister dat is verleend door andere lidstaten van de Europese Unie of door staten die ermee gelijkgesteld zijn op het vlak van de toegang tot het uitoefenen van beroepswerkzaamheden, wordt ook in aanmerking genomen.
+De dienst voor pleegzorg waakt erover dat elke medewerker van goed zedelijk gedrag is conform artikel 3 van het decreet van 3 juni 2022 houdende de verplichting voor bepaalde organisaties om een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, te controleren voor bepaalde nieuwe medewerkers.
 
 ### ART. 20.
 
@@ -297,58 +297,57 @@ Als een dienst voor pleegzorg niet aan de bepalingen van dit besluit   voldoet, 
 
 ### ART. 51.
 
-<br>
-<span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">Vergunde diensten voor pleegzorg ontvangen per module begeleiding of behandeling die ze inzetten, een forfaitaire subsidie die op jaarbasis wordt vastgesteld volgens de volgende tabel:</span></span></span>
-<table border="1" style="-webkit-text-stroke-width:0px; border:undefined; font-family:&quot;Times New Roman&quot;; letter-spacing:normal; orphans:2; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-transform:none; widows:2; word-spacing:0px">
+Vergunde diensten voor pleegzorg ontvangen per module begeleiding of behandeling die ze inzetten, een forfaitaire subsidie die op jaarbasis wordt vastgesteld volgens de volgende tabel:
+<table cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td>module</td>
-			<td>personeel (P)</td>
-			<td>anciënniteit extra boven vijf jaar (A)</td>
-			<td>werking (W)</td>
-			<td>totaal (T=P+W)</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:35px; width:230px">Module</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:35px; width:84px">Personeel (P)</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; height:35px; width:103px">Anciënniteit extra boven vijf jaar (A)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:35px; width:67px">Werking (W)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:35px; width:77px">Totaal (T=P+W)</td>
 		</tr>
 		<tr>
-			<td>ondersteunend verblijf in een pleeggezin - lage frequentie, vermeld in artikel 3, eerste lid, 2°</td>
-			<td>4175,85</td>
-			<td>100,67</td>
-			<td>784,47</td>
-			<td>4960,32</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:35px; width:230px">Ondersteunend verblijf in een pleeggezin - lage frequentie, vermeld in artikel 3, eerste lid, 2°</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; vertical-align:bottom; width:84px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5245,48</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:35px; vertical-align:bottom; width:103px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 108,64</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; width:67px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 784,47</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; width:77px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6029,95</td>
 		</tr>
 		<tr>
-			<td>ondersteunend verblijf in een pleeggezin - korte duur, vermeld in artikel 3, eerste lid, 3°</td>
-			<td>4175,85</td>
-			<td>100,67</td>
-			<td>784,47</td>
-			<td>4960,32</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:46px; width:230px">Ondersteunend verblijf in een pleeggezin - korte duur, vermeld in artikel 3, eerste lid, 3°</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:bottom; width:84px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5245,48</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:bottom; width:103px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 108,64</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; width:67px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 784,47</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; width:77px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6029,95</td>
 		</tr>
 		<tr>
-			<td>crisisverblijf in een pleeggezin, vermeld in artikel 3, eerste lid, 1°</td>
-			<td>25.054,72</td>
-			<td>604,04</td>
-			<td>4706,81</td>
-			<td>29.761,53</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:46px; width:230px">Crisisverblijf in een pleeggezin, vermeld in artikel 3, eerste lid, 1°</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:bottom; width:84px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 31.472,88</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:bottom; width:103px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 651,84</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:bottom; width:67px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4706,82</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:bottom; width:77px">&nbsp;&nbsp;&nbsp; 36.179,70</td>
 		</tr>
 		<tr>
-			<td>perspectiefzoekend verblijf in een pleeggezin, vermeld in artikel 4</td>
-			<td>4175,85</td>
-			<td>100,67</td>
-			<td>784,47</td>
-			<td>4960,32</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:46px; width:230px">Perspectiefzoekend verblijf in een pleeggezin, vermeld in artikel 4</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; height:46px; width:84px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5245,48</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:46px; width:103px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 108,64</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; width:67px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 784,47</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; width:77px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6029,95</td>
 		</tr>
 		<tr>
-			<td>perspectiefbiedend verblijf in een pleeggezin, vermeld in artikel 5</td>
-			<td>4175,85</td>
-			<td>100,67</td>
-			<td>784,47</td>
-			<td>4960,32</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:46px; width:230px">Perspectiefbiedend verblijf in een pleeggezin, vermeld in artikel 5</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; width:84px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5245,48</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; width:103px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 108,64</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; width:67px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 784,47</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; width:77px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6029,95</td>
 		</tr>
 		<tr>
-			<td>behandelingspleegzorg, vermeld in artikel 6, § 1</td>
-			<td>7829,72</td>
-			<td>188,76</td>
-			<td>1470,88</td>
-			<td>9300,60</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:46px; width:230px">Behandelingspleegzorg, vermeld in artikel 6, §1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; width:84px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9835,28</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; width:103px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 203,70</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; width:67px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1470,88</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; width:77px">&nbsp;&nbsp;&nbsp; 11.306,16</td>
 		</tr>
 	</tbody>
 </table>
@@ -359,7 +358,49 @@ Binnen de beschikbare begrotingskredieten heeft een vergunde dienst voor pleegzo
 <br>
 Voor de berekening van de subsidie, vermeld in het tweede lid, mag het aantal modules begeleiding, vermeld in artikel 4, 2°, en artikel 5, 3°, die met toepassing van artikel 6, 2°, worden ingezet binnen de behandelingspleegzorg, op jaarbasis samen maximaal 15 % bedragen van de som van het totale aantal modules begeleiding, vermeld in artikel 4, 2°, en artikel 5, 3°, dat buiten de behandelingspleegzorg wordt ingezet. Binnen dat percentage zet de dienst voor pleegzorg de modules begeleiding die deel uitmaken van behandelingspleegzorg, tijdens het betreffende jaar voor minimaal 80 % in.<br>
 <br>
-De bedragen, vermeld in het eerste lid, zijn gekoppeld aan de index van de consumptieprijzen die van toepassing is op 1 januari 2019.<br>
+Voor personeel dat in dienst is op 1 januari van het jaar, wordt het volgende extra subsidiebedrag toegekend:
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:20px; width:275px">Anciënniteitsjaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:20px; width:112px">Bedrag per vte</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:275px">28 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:112px">138,83</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:275px">29 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:112px">267,08</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:275px">30 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:112px">386,27</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:275px">31 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:112px">496,44</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:275px">32 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:112px">598,49</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:275px">33 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:112px">693,08</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:275px">34 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:112px">780,67</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:275px">35 jaar en meer</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:112px">861,72</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+De bedragen, vermeld in het eerste lid, zijn gekoppeld aan de spilindex die van toepassing is op 1 januari 2023.<br>
 <br>
 De inzet van modules wordt door het agentschap gemonitord en halfjaarlijks gerapporteerd aan de financiële overheden.
 <p>&nbsp;</p>
