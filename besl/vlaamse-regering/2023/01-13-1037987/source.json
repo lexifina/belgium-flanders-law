@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037987,
+  "title": "Besluit van de Vlaamse Regering van 2023-01-13 tot wijziging van het besluit van de Vlaamse Regering van 12 oktober 2018 houdende de erkenning en de subsidiëring van consultatiebureaus en de erkenning van consultatiebureauartsen, wat betreft de verlenging van de erkenningen van de prenatale consultatiebureaus",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037987/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "5cce341ed2b70ea63ab3cd0dc23b980d5337266ca0002d81c7a1f455656f695d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037987&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2023-01-13",
+  "gazette": "2023-04-14",
+  "numac": 2023040357,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
