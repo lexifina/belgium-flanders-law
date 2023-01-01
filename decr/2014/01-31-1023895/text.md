@@ -78,7 +78,7 @@ De VMSW vult het subsidiebedrag, vermeld in het eerste lid, aan met de winsten d
 
 ### ART 7/1.
 
-De interesten, vermeld in artikel 5.15 van de Vlaamse Codex Wonen van 2021 worden door Vlabinvest apb geboekt in het intern financieringsfonds Wonen.
+De interesten, vermeld in artikel 4.15, § 1, vierde lid, van de Vlaamse Codex Wonen van 2021 worden door Vlabinvest apb geboekt in het intern financieringsfonds Wonen.
 
 ### ART 7/2.
 

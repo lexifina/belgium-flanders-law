@@ -2,16 +2,16 @@
   "codex_id": 1023895,
   "title": "Decreet van 2014-01-31 [betreffende opdracht van de bevoegdheid inzake het voeren van een specifiek grond- en woonbeleid en een specifiek welzijns- en gezondheidsinfrastructuurbeleid voor Vlaams-Brabant aan de Provincie Vlaams-Brabant (verv. decr. 22 december 2017, art. 2, I: 1 januari 2018)]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023895/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "56fb0fdea52de67c1a3119bd783fc2d6582b8712793cbd71c348aba75b1b512f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023895/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "e37d7e7c64db028d08698effbdb564cfa548f3bfe8d60487b680cc7a9787366d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023895&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2023-01-01",
   "made": "2014-01-31",
   "gazette": "2014-02-28",
   "numac": 2014201210,
   "document_start": "2014-01-01",
   "document_end": null,
-  "in_force": "2021-01-01",
+  "in_force": "2023-01-01",
   "article_versions": 40,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }
