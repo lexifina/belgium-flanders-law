@@ -698,7 +698,16 @@ In afwijking van paragraaf 1 kan de raad van bestuur een personeelslid dat uiter
 <br>
 In afwijking van paragraaf 1 kan de raad van bestuur een personeelslid dat uiterlijk op 31 augustus 2019 vast benoemd is in het ambt van lector in een centrum voor volwassenenonderwijs, op zijn verzoek op 1 september 2019 een mutatie toewijzen in een vacante betrekking in het ambt van leraar secundair volwassenenonderwijs, op voorwaarde dat dit personeelslid beschikt over een vereist of voldoend geacht bekwaamheidsbewijs voor dat ambt. Als het personeelslid deze mutatie opneemt, houdt dit in dat het personeelslid ook de salarisschaal verbonden aan dit ambt aanvaardt.<br>
 <br>
-In afwijking van paragraaf 1 kan de raad van bestuur een personeelslid dat uiterlijk op 31 augustus 2019 vast benoemd is in het ambt van lector in een centrum voor volwassenenonderwijs voor een opdracht van maximum 10 procent van een voltijdse betrekking, op zijn verzoek op 1 september 2019 een mutatie toewijzen in een vacante betrekking in het ambt van leraar secundair volwassenenonderwijs, op voorwaarde dat dit personeelslid beschikt over een vereist of voldoend geacht bekwaamheidsbewijs voor dat ambt. Als het personeelslid deze mutatie opneemt, behoudt het personeelslid voor het volume van de opdracht waarvoor hij op 31 augustus 2019 vast benoemd is in het ambt van lector de salarisschaal verbonden aan het ambt van lector.
+In afwijking van paragraaf 1 kan de raad van bestuur een personeelslid dat uiterlijk op 31 augustus 2019 vast benoemd is in het ambt van lector in een centrum voor volwassenenonderwijs voor een opdracht van maximum 10 procent van een voltijdse betrekking, op zijn verzoek op 1 september 2019 een mutatie toewijzen in een vacante betrekking in het ambt van leraar secundair volwassenenonderwijs, op voorwaarde dat dit personeelslid beschikt over een vereist of voldoend geacht bekwaamheidsbewijs voor dat ambt. Als het personeelslid deze mutatie opneemt, behoudt het personeelslid voor het volume van de opdracht waarvoor hij op 31 augustus 2019 vast benoemd is in het ambt van lector de salarisschaal verbonden aan het ambt van lector.<br>
+<br>
+§ 8. In afwijking van paragraaf 1 kan de raad van bestuur een personeelslid dat uiterlijk op 31 augustus 2023 vastbenoemd is in een ambt in een internaat buitengewoon onderwijs als vermeld in deel III, hoofdstuk 4, afdeling 1, onderafdeling 2, van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, of een internaat met permanente openstelling als vermeld in deel III, hoofdstuk 6, van dezelfde codificatie, of een tehuis als vermeld in artikel III.37 van dezelfde codificatie, mits zijn akkoord, op 1 september 2023 een nieuwe affectatie toewijzen in een vacante betrekking in een wervingsambt in het gewoon of buitengewoon basisonderwijs, in het gewoon of buitengewoon secundair onderwijs of in een internaat, op voorwaarde dat dit personeelslid beschikt over een vereist of voldoend geacht bekwaamheidsbewijs voor dat ambt. Als het personeelslid deze affectatie aanvaardt, houdt dit in dat het personeelslid ook de salarisschaal verbonden aan dit ambt aanvaardt.<br>
+<br>
+In afwijking van paragraaf 1 kan de raad van bestuur een personeelslid dat uiterlijk op 31 augustus 2023 vastbenoemd is in een ambt in een internaat buiten- gewoon onderwijs als vermeld in deel III, hoofdstuk 4, afdeling 1, onderafdeling 2, van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, of een internaat met permanente openstelling als vermeld in deel III, hoofdstuk 6, van dezelfde codificatie, of een tehuis als vermeld in artikel III.37 van dezelfde codificatie, op zijn verzoek op 1 september 2023 een mutatie toewijzen in een vacante betrekking in een wervingsambt in het gewoon of buitengewoon basisonderwijs, in het gewoon of buitengewoon secundair onderwijs of in een internaat, op voorwaarde dat dit personeelslid beschikt over een vereist of voldoend geacht bekwaamheidsbewijs voor dat ambt. Als het personeelslid deze mutatie opneemt, houdt dit in dat het personeelslid ook de salarisschaal verbonden aan dit ambt aanvaardt.<br>
+<br>
+Een personeelslid dat niet in het bezit is van een bekwaamheidsbewijs van ten minste hoger secundair onderwijs (ten minste hso) wordt geacht in het bezit te zijn van een vereist bekwaamheidsbewijs voor het ambt van administratief medewerker in het basisonderwijs of het secundair onderwijs. Voor het personeelslid blijft de salarisschaal gelden die hem op grond van de reglementering die gold op 31 augustus 2023 werd verleend voor het ambt waarin hij was aangesteld.<br>
+&nbsp;<br>
+De betrekking in een school voor buitengewoon basis- of secundair onderwijs die tot en met 31 augustus 2023 werd ingericht overeenkomstig artikel III.29 van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016 en vanaf 1 september 2023 overeenkomstig artikel 17 van het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de personeelsformatie in het buitengewoon basisonderwijs en betreffende coördinatieopdrachten door ondersteuningsnetwerken in het basis- en secundair onderwijs, of artikel 311 van de Codex Secundair Onderwijs wordt ingericht, is in het schooljaar 2023-2024 niet onderworpen aan de reglementering betreffende terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling.<br>
+&nbsp;
 
 ### ART. 32.
 
@@ -1913,7 +1922,8 @@ f) artikel 11bis van het koninklijk besluit nr. 467 van 1 oktober 1986 betreffen
 5° die volledig, halftijds of een vierde ter beschikking zijn gesteld in toepassing van de overgangsmaatregel zoals bepaald artikel 9quinquies van het besluit van 11 februari 2000 betreffende de volledige terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen voor personeelsleden van het onderwijs en van de psycho-medisch-sociale centra.<br>
 6° ...<br>
 7° die ter beschikking zijn gesteld wegens ziekte en waarvoor er een geschil voor een arbeidsrechtbank lopende is. Dit geschil moet handelen over het niet-erkennen van een afwezigheid ten gevolge van een arbeidsongeval of een beroepsziekte of over de consolidatiedatum;<br>
-8° die ter beschikking zijn gesteld wegens ziekte en waarvoor de procedure buitendienstongeval niet is afgesloten.<br>
+8° die ter beschikking zijn gesteld wegens ziekte en waarvoor de procedure buitendienstongeval niet is afgesloten;<br>
+9° die gedeeltelijk ter beschikking gesteld zijn wegens ziekte of gebrekkigheid tijdens een verlof voor verminderde prestaties wegens ziekte.<br>
 <br>
 De terbeschikkingstelling zoals bedoeld in het eerste lid, kan ook aanvangen na of verder lopen dan het tijdstip waarop het personeelslid het recht heeft verkregen op een pensioen ten laste van de Schatkist.
 
@@ -1922,7 +1932,8 @@ De terbeschikkingstelling zoals bedoeld in het eerste lid, kan ook aanvangen na 
 De Vlaamse regering bepaalt de voorwaarden waaronder de personeelsleden die ter beschikking gesteld zijn:<br>
 a) wegens volledige ontstentenis van betrekking of om de redenen vermeld in artikel 82, eerste lid, b) en c), aanspraak kunnen maken op een wachtgeld;<br>
 b) wegens volledige ontstentenis van betrekking doch volledig of gedeeltelijk gereaffecteerd of wedertewerkgesteld zijn, aanspraak kunnen maken op een wedde;<br>
-c) wegens gedeeltelijke ontstentenis van betrekking aanspraak kunnen maken op een wedde.<br>
+c) wegens gedeeltelijke ontstentenis van betrekking aanspraak kunnen maken op een wedde;<br>
+d) wegens ziekte, aanspraak kunnen maken op een wachtgeld.<br>
 <br>
 Dit wachtgeld, de toelagen en de vergoedingen die eventueel aan die personeelsleden worden toegekend zijn onderworpen aan de mobiliteitsregeling die geldt voor de bezoldiging van de personeelsleden in dienstactiviteit.
 
@@ -1966,7 +1977,8 @@ tenminste vijftien kalenderdagen;<br>
 4° bij toepassing van artikel 83, § 1;<br>
 5° de definitieve pensionering;&nbsp;<br>
 6° het einde van de verlenging van de aanstelling zoals voorzien in het tweede lid van dit artikel;<br>
-7° de weigering van een vastbenoemde lector van een centrum voor volwassenenonderwijs om op 1 september 2019 over te gaan naar een hogeschool, zoals bedoeld in artikel 103undecies.<br>
+7° ...;<br>
+8° de weigering van een vastbenoemd personeelslid van een internaat om opgenomen te worden in het transitiekader en om aldus op 1 september 2023 over te gaan naar een voorziening conform de regeling, vermeld in artikel 5, §2, van het decreet van 28 april 2023 over de transitie van personeelsleden van sommige instellingen van Onderwijs naar Welzijn.<br>
 <br>
 In afwijking van punt 2° geeft het bereiken van de leeftijdsgrens geen aanleiding tot definitieve ambtsneerlegging als het betrokken personeelslid en zijn inrichtende macht overeenkomen de aanstelling te verlengen.<br>
 <br>
