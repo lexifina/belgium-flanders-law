@@ -2,16 +2,16 @@
   "codex_id": 1024672,
   "title": "Besluit van de Vlaamse Regering van 2014-07-04 tot het verlenen van hectaresteun voor de biologische productiemethode met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor de periode 2014-2020",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024672/VolledigDocument?datum=2022-01-01",
-  "source_sha256": "d53d78441d0cdd517961e6218fefc045fcc0688be08aff37e2d321aecc937715",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024672/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "adb823d4b6aee6772e4ef913402126418b46c6af41834a6f497ac33eccacc139",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024672&param=informatie",
-  "as_of": "2022-01-01",
+  "as_of": "2023-01-01",
   "made": "2014-07-04",
   "gazette": "2014-10-17",
   "numac": 2014036512,
   "document_start": "2015-01-01",
   "document_end": "2022-12-31",
-  "in_force": "2022-01-01",
+  "in_force": "2023-01-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }
