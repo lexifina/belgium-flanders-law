@@ -136,9 +136,9 @@ Het Vlaams Agentschap voor Personen met een Handicap stelt het model vast van he
 
 ### ART. 9.
 
-<p>§ 1. Het bedrag van het PAB mag per persoon op jaarbasis minimaal 7.436,81 euro en maximaal 34.705,09 euro bedragen. Die bedragen, alsook de maximumbedragen, vermeld in artikel 8, § 1, worden vanaf 1 januari 2002 jaarlijks aangepast, rekening houdend met het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1999 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens de formule:<br>
+<p>§ 1. Het bedrag van het PAB mag per persoon op jaarbasis minimaal 7.436,81 euro en maximaal 34.705,09 euro bedragen. Die bedragen, alsook de maximumbedragen, vermeld in artikel 8, § 1, worden vanaf 1 januari 2002 jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1999 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens de formule:<br>
 <br>
-bedrag van het jaar x = (bedrag van het jaar x-1 x G-index december jaar x-1)/G-index december jaar x-2<br>
+bedrag van het jaar x = (bedrag van het jaar x-1 x G-index november jaar x-1)/G-index november jaar x-2<br>
 <br>
 Als het met toepassing van het eerste lid berekende bedrag voor het jaar x lager is dan het bedrag voor het jaar x-1, wordt de aanpassing van de bedragen, vermeld in het eerste lid, niet toegepast, maar verrekend met de volgende indexaanpassing. In dat geval worden de bedragen, vermeld in het eerste lid, van dat volgende jaar aangepast, rekening houdend met het feit dat de noemer van de breuk gevormd wordt door de noemer die gebruikt wordt voor de berekening van de bedragen van het voorgaande jaar.<br>
 <br>
