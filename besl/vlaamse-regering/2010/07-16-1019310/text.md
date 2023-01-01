@@ -220,7 +220,7 @@ De bedragen, vermeld in artikelen 9, 10, 11, 14, 18&nbsp;en 19, worden jaarlijks
 De aanpassing, vermeld in het eerste lid, wordt doorgevoerd aan de hand van de actualisatieformule 0,40 s/S + 0,40 i/I + 0,20, waarbij :<br>
 1° s : het officiële loon in de bouwnijverheid voor categorie 2A, dat van kracht is op 1 januari van het jaar in kwestie;<br>
 2° S : 19,885;<br>
-3° i : de index van de bouwmaterialen die van kracht is op 1 december voorafgaand aan het jaar in kwestie;<br>
+3° i : de index van de bouwmaterialen die van kracht is op 1 december voorafgaand aan het jaar in kwestie . Vanaf 1 januari 2023 stemt i overeen met de Index I 2021, zoals berekend door de Federale Overheidsdienst Economie op 1 december voorafgaand aan het jaar in kwestie, na vermenigvuldiging met de coëfficiënt 87,02;<br>
 4° I : 3627.
 
 ### ART. 21.
