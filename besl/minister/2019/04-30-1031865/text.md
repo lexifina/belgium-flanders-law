@@ -18,76 +18,56 @@ Besluit :
 
 ### ART 1.
 
-Wordt tot voorzitter benoemd:<br>
-- Mevrouw Lieve Cornelis
+...
 
 ### ART 2.
 
-Wordt tot plaatsvervangend voorzitter benoemd:<br>
-- Mevrouw Dorine Samyn
+...
 
 ### ART 3.
 
-Worden tot effectieve afgevaardigden van de representatieve werkgeversorganisaties benoemd:<br>
-- Mevrouw Sonja Teughels<br>
-- De heer Joris Renard<br>
-- De heer Dirk Malfait
+...
 
 ### ART 4.
 
-Worden tot effectieve afgevaardigden van de representatieve werknemersorganisaties benoemd:<br>
-- De heer Philippe Diepvents<br>
-- De heer Peter Van der Hallen<br>
-- Mevrouw Katrien Allaert
+...
 
 ### ART 5.
 
-Worden tot plaatsvervangende afgevaardigden van de representatieve werkgeversorganisaties benoemd:<br>
-- De heer Jonas De Raeve<br>
-- Mevrouw Caroline Deiteren<br>
-- De heer Bert Meulemans
+...
 
 ### ART 6.
 
-Worden tot plaatsvervangende afgevaardigden van de representatieve werknemersorganisaties benoemd:<br>
-- Mevrouw Annick Clauwaert<br>
-- De heer Sam Coomans<br>
-- Mevrouw Justine Scholiers
+...
 
 ### ART 7.
 
-Wordt tot effectieve vertegenwoordiger van de Vlaamse minister, bevoegd voor het onderwijs, benoemd:<br>
-- Mevrouw Isabelle Goudeseune
+...
 
 ### ART 8.
 
-Wordt tot plaatsvervangende vertegenwoordiger van de Vlaamse minister, bevoegd voor onderwijs, benoemd:<br>
-- Mevrouw Marion Vrijens
+...
 
 ### ART 9.
 
-Wordt tot effectieve vertegenwoordiger van de Vlaamse minister, bevoegd voor de professionele vorming, benoemd:<br>
-- Mevrouw Charlien Van Leuffel
+...
 
 ### ART 10.
 
-Wordt tot plaatsvervangende vertegenwoordiger van de Vlaamse minister, bevoegd voor de professionele vorming, benoemd:<br>
-- De heer Davy Maes
+...
 
 ### ART 11.
 
-Wordt tot secretaris benoemd:<br>
-- Mevrouw Elke Schets
+...
 
 ### ART 12.
 
-Wordt tot plaatsvervangend secretaris benoemd<br>
-- Mevrouw Carine Pissoort
+...
 
 ### ART 13.
 
-Het ministerieel besluit van 3 juni 2015 houdende samenstelling van de erkenningscommissie betaald educatief verlof wordt opgeheven.
+...
 
 ### ART 14.
 
-Dit besluit treedt in werking op 1 mei 2019.
+...
