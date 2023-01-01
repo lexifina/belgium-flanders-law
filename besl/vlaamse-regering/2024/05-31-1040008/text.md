@@ -19,6 +19,10 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+Voor de toepassing van de uurnorm van 475 uur in het kader van arbeidsovereenkomsten voor studenten, vermeld in artikel 14, §2, eerste lid, 1°, artikel 29, §1, eerste lid, 1°, en artikel 41, eerste lid, 1°, van het besluit van de Vlaamse Regering van 5 oktober 2018 tot vaststelling van de diverse hoedanigheden van het rechtgevend kind en betreffende de vrijstellingen van de toekenningsvoorwaarden voor de gezinsbijslagen, de startbedragen geboorte en adoptie en de universele participatietoeslagen wordt in de zorgsector geen rekening gehouden met de prestaties, met inbegrip van de prestaties als uitzendkracht bij gebruikers die behoren tot de zorgsector, die tijdens de periode van 1 januari 2023 tot en met 31 maart 2023 onder die arbeidsovereenkomsten geleverd zijn.
+
 ### ART 3.
 
 In artikel 3, §2, negende lid, van het besluit van de Vlaamse Regering van 17 mei 2019 betreffende de selectieve participatietoeslag leerling, gewijzigd bij het besluit van de Vlaamse Regering van 11 februari 2022, wordt de zinsnede “, vermeld in het achtste lid” opgeheven.
