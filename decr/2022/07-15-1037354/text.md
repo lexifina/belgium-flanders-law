@@ -26,6 +26,18 @@ In artikel I.3 van de Codex Hoger Onderwijs van 11 oktober 2013, het laatst gewi
 
 In artikel II.92, § 2, van dezelfde codex, ingevoegd bij het decreet van 25 april 2014 en vervangen bij het decreet van 4 mei 2018, wordt het woord "Diepenbeek" vervangen door het woord "Genk".
 
+### ART 24.
+
+In artikel III.9, § 6, van dezelfde codex, wordt in de tabel het jaartal "2023" vervangen door de zinsnede "vanaf 2023".
+
+### ART 26.
+
+In artikel III.13, § 3, derde lid, 3°, van dezelfde codex, toegevoegd bij het decreet van 4 mei 2018, wordt het jaartal "2023" vervangen door het jaartal "2024".
+
+### ART 27.
+
+In artikel III.14, § 4, derde lid, 3°, van dezelfde codex, toegevoegd bij het decreet van 4 mei 2018, wordt het jaartal "2023" vervangen door het jaartal "2024".
+
 ### ART 28.
 
 In artikel III.22, § 3, van dezelfde codex, wordt in de tabel de zinsnede "2020 en 2021" vervangen door de zinsnede "vanaf 2020".
