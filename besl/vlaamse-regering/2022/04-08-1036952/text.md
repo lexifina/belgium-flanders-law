@@ -63,7 +63,9 @@ Voor de eerste schijf van deze subsidie wordt het resultaat van de optelsom, ver
 <br>
 Voor de tweede schijf van deze subsidie wordt het resultaat van de optelsom, vermeld in het tweede lid, op basis van de informatie waarover het agentschap beschikt op 30 september 2022, vermenigvuldigd met 400 en met 0,45.<br>
 <br>
-Voor de derde schijf van deze subsidie wordt het resultaat van de optelsom, vermeld in het tweede lid, op basis van de informatie waarover het agentschap beschikt op 31 december 2022, vermenigvuldigd met 400 en met 0,3.
+Voor de derde schijf van deze subsidie wordt het resultaat van de optelsom, vermeld in het tweede lid, op basis van de informatie waarover het agentschap beschikt op 31 december 2022, vermenigvuldigd met 400 en met 0,3.<br>
+<br>
+Voor de vierde schijf van deze subsidie wordt het resultaat van de optelsom, vermeld in het tweede lid, op basis van de informatie waarover het agentschap beschikt op 28 februari 2023, vermenigvuldigd met 400 en met 0,3.
 
 ## HOOFDSTUK 2. [Private en publieke plekken in de Vlaamse Huisvestingstool en subsidiëring van de publieke plekken (verv. BVR 29 juni 2022, art. 3, I: 14 maart 2022)]
 
@@ -106,7 +108,7 @@ In het tweede lid, 1°, wordt verstaan onder slaapkamer: een afsluitbare ruimte 
 
 ### ART 4/1.
 
-Een lokaal bestuur komt vanaf 1 augustus 2022 in aanmerking voor een forfaitaire subsidie van het Vlaamse Gewest van 55 euro per maand per publieke slaapplek.<br>
+Een lokaal bestuur komt vanaf 1 januari 2023 in aanmerking voor een forfaitaire subsidie van het Vlaamse Gewest van 65 euro per maand per publieke slaapplek.<br>
 <br>
 De publieke slaapplek, vermeld in het eerste lid, voldoet aan de voorwaarden uit artikel 3, tweede lid, uitgezonderd 4°. Ze voldoet daarnaast aan de volgende voorwaarden:<br>
 1° ze is beschikbaar op de laatste dag van de maand en op de 59 daaraan voorafgaande kalenderdagen;<br>
@@ -114,11 +116,19 @@ De publieke slaapplek, vermeld in het eerste lid, voldoet aan de voorwaarden uit
 
 ### ART 4/2.
 
-Een lokaal bestuur komt vanaf 1 augustus 2022 in aanmerking voor een forfaitaire subsidie van het Vlaamse Gewest van 180 euro per maand per publieke slaapplek.<br>
+Een lokaal bestuur komt vanaf 1 januari 2023 in aanmerking voor een forfaitaire subsidie van het Vlaamse Gewest van 220 euro per maand per publieke slaapplek.<br>
 <br>
 De publieke slaapplek, vermeld in het eerste lid, voldoet aan de voorwaarden uit artikel 3, tweede lid, uitgezonderd 4°. Ze voldoet daarnaast aan de volgende voorwaarden:<br>
 1° ze is beschikbaar op de laatste dag van de maand en op de 59 daaraan voorafgaande kalenderdagen;<br>
-2° ze bevindt zich op een adres waar er op de laatste dag van de maand minimaal 15 slaapplekken zijn die voldoen aan de voorwaarde, vermeld in 1°.&nbsp;
+2° ze bevindt zich op een adres waar er op de laatste dag van de maand minimaal 15 slaapplekken en maximaal 49 slaapplekken zijn die voldoen aan de voorwaarde, vermeld in 1°.&nbsp;
+
+### ART 4/3.
+
+Een lokaal bestuur komt vanaf 1 januari 2023 in aanmerking voor een forfaitaire subsidie van het Vlaamse Gewest van 270 euro per maand per publieke slaapplek.<br>
+<br>
+De publieke slaapplek, vermeld in het eerste lid, voldoet aan de voorwaarden uit artikel 3, tweede lid, uitgezonderd 4°. Ze voldoet daarnaast aan de volgende voorwaarden:<br>
+1° ze is beschikbaar op de laatste dag van de maand en op de 59 daaraan voorafgaande kalenderdagen;<br>
+2° ze bevindt zich op een adres waar er op de laatste dag van de maand minimaal 50 slaapplekken zijn die voldoen aan de voorwaarde, vermeld in 1°.&nbsp;
 
 ### ART 5.
 
@@ -133,10 +143,10 @@ De subsidies, vermeld in artikel 4/1 en artikel 4/2 hebben als doel om de gebrui
 ### ART 6.
 
 § 1. Een lokaal bestuur komt in aanmerking voor een forfaitaire subsidie van het Vlaamse Gewest voor de eerste 10 000 in de Vlaamse huisvestingstool gevalideerde specifieke slaapplekken als vermeld in het derde lid. De forfaitaire subsidie bedraagt per slaapplek en per dag voor een:<br>
-1° hotel of B&amp;B: 35 euro;<br>
-2° hostel of jeugdverblijfcentrum: 20 euro;<br>
-3° vakantiewoning, vakantiepark of een ander toeristisch logies: 15 euro;<br>
-4° assistentiewoning of serviceflat: 15 euro.<br>
+1° hotel of B&amp;B: 39,2 euro;<br>
+2° hostel of jeugdverblijfcentrum: 22,4 euro;<br>
+3° vakantiewoning, vakantiepark of een ander toeristisch logies: 16,8 euro;<br>
+4° assistentiewoning of serviceflat: 16,8 euro.<br>
 <br>
 Trekkershutten en tenten, vouwwagens, kampeerauto’s, campers, rijcaravans, stacaravans en elk ander vergelijkbaar verplaatsbaar verblijf of toeristisch logies komen niet in aanmerking voor de subsidie vermeld in het eerste lid.<br>
 <br>
@@ -166,13 +176,13 @@ Als de laatste dag van de aaneensluitende beschikbaarheidsperiode valt na 31 aug
 1° de kosten om de specifieke slaapplekken, vermeld in paragraaf 1, eerste lid, te huren&nbsp;en desgevallend in te richten;<br>
 2° ...<br>
 <br>
-§ 4. Als een slaapplek wordt toegewezen aan een tijdelijk ontheemde uit Oekraïne, wordt de subsidie, vermeld in paragraaf 1, verminderd met een forfaitair bedrag van 5,90 euro per slaapplek per dag.
+§ 4. Als een slaapplek wordt toegewezen aan een tijdelijk ontheemde uit Oekraïne, wordt de subsidie, vermeld in paragraaf 1, verminderd met een forfaitair bedrag van 6,6 euro per slaapplek per dag.
 
 ## HOOFDSTUK 4. [Subsidiëring nooddorpen (verv. BVR 29 juni 2022, art. 11, I: 8 april 2022)]
 
 ### ART 7.
 
-De stad Antwerpen, de stad Mechelen, de stad Gent en een gemeente te bepalen door de Vlaamse Regering komen in aanmerking voor een subsidie van het Vlaamse Gewest voor de opbouw van een nooddorp voor de opvang van tijdelijk ontheemden uit Oekraïne.<br>
+De stad Antwerpen, de stad Mechelen en de stad Gent komen in aanmerking voor een subsidie van het Vlaamse Gewest voor de opbouw van een nooddorp voor de opvang van tijdelijk ontheemden uit Oekraïne.<br>
 <br>
 De gemeenten, vermeld in het eerste lid,&nbsp;komen in aanmerking voor de subsidie, vermeld in het eerste lid, als al de volgende voorwaarden vervuld zijn:<br>
 1° de slaapplekken in het nooddorp zijn geregistreerd en gevalideerd in de Vlaamse huisvestingstool;<br>
@@ -180,7 +190,7 @@ De gemeenten, vermeld in het eerste lid,&nbsp;komen in aanmerking voor de subsid
 3° ...<br>
 <br>
 De volgende reële kosten komen in aanmerking voor de subsidie:<br>
-1° de huurprijs van mobiele units, inclusief plaatsings- en verwijderingskosten;<br>
+1° de huurprijs van mobiele units, inclusief plaatsingskosten;<br>
 2° de inrichtingskosten, onder meer meubilair en sanitaire voorzieningen;<br>
 3° de kosten die betrekking hebben op de veiligheid: onder meer verzekeringen, brandblussers en rookmelders;<br>
 4° de kosten voor het beheer en de uitbating van het nooddorp, onder meer energiekosten;<br>
@@ -188,7 +198,9 @@ De volgende reële kosten komen in aanmerking voor de subsidie:<br>
 <br>
 Per slaapplek in het nooddorp komt het lokaal bestuur ook in aanmerking voor een eenmalige forfaitaire subsidie van 400 euro.<br>
 <br>
-Als een slaapplek in het nooddorp wordt toegewezen aan een tijdelijk ontheemde uit Oekraïne, wordt de terugbetaling van de kosten, vermeld in het derde lid, verminderd met een forfaitair bedrag van 5,90 euro per slaapplek per dag.
+Als een slaapplek in het nooddorp wordt toegewezen aan een tijdelijk ontheemde uit Oekraïne, wordt de terugbetaling van de kosten, vermeld in het derde lid, verminderd met een forfaitair bedrag van 6,6 euro per slaapplek per dag.&nbsp;Die vermindering wordt alleen toegepast indien de huurinkomsten van de ontheemden toekomen of zouden toekomen aan het lokaal bestuur.<br>
+<br>
+Alleen de eerste 1.000 slaapplekken in het nooddorp in Antwerpen, de eerste 730 slaapplekken in het nooddorp in Mechelen en de eerste 600 slaapplekken in het nooddorp in Gent komen in aanmerking voor de subsidies vermeld in het derde lid en het vierde lid.
 
 ## HOOFDSTUK 5. Aanvraag, controle en uitbetaling van de subsidie
 
@@ -209,7 +221,9 @@ Om de subsidies voor de reëel gemaakte kosten, vermeld in artikel 4, tweede lid
 <br>
 In het eerste lid wordt verstaan onder Loket voor Lokale Besturen: een online toepassing van het agentschap voor gegevensdeling tussen de lokale besturen en het agentschap.<br>
 <br>
-Het bedrag op de facturen, vermeld in het eerste lid, wordt, in voorkomend geval, verhoogd met de niet-aftrekbare btw die via verlegging van heffing conform artikel 20 van het koninklijk besluit nr. 1 van 29 december 1992 met betrekking tot de regeling voor de voldoening van de belasting over de toegevoegde waarde, ten laste is van het lokaal bestuur.
+Het bedrag op de facturen, vermeld in het eerste lid, wordt, in voorkomend geval, verhoogd met de niet-aftrekbare btw die via verlegging van heffing conform artikel 20 van het koninklijk besluit nr. 1 van 29 december 1992 met betrekking tot de regeling voor de voldoening van de belasting over de toegevoegde waarde, ten laste is van het lokaal bestuur.<br>
+<br>
+De facturen die betrekking hebben op de subsidies uit artikel 7, derde lid, met factuurdatum 31 december 2022 of vroeger, moeten ingediend worden uiterlijk op 28 februari 2023. Vanaf 1 januari 2023 moeten 60 dagen na het verstrijken van elk kwartaal de facturen die betrekking hebben op de subsidies uit artikel 7, derde lid, met een factuurdatum in het voorbije kwartaal, ingediend worden.
 
 ### ART 10.
 
@@ -223,7 +237,9 @@ In het tweede lid wordt verstaan onder het agentschap Facilitair Bedrijf: het in
 
 Als het lokaal bestuur voldoet aan de voorwaarden om de forfaitaire subsidies en de subsidies voor de reëel gemaakte kosten, vermeld in dit besluit, te ontvangen, betaalt het agentschap een eerste keer het vastgestelde subsidiebedrag uiterlijk op 31 december 2022, op basis van de informatie waarover het beschikt op 31 augustus 2022.<br>
 <br>
-Uiterlijk op 31 maart 2023 betaalt het agentschap een tweede keer het vastgestelde subsidiebedrag, op basis van de informatie waarover het beschikt op 31 december 2022.
+Uiterlijk op 30 juni 2023 betaalt het agentschap een tweede keer het vastgestelde subsidiebedrag, op basis van de informatie waarover het beschikt op 31 maart 2023.<br>
+<br>
+Uiterlijk op 31 december 2023 betaalt het agentschap een derde keer het vastgestelde subsidiebedrag, op basis van de informatie waarover het beschikt op 30 september 2023.
 
 ### ART 12.
 
@@ -285,7 +301,7 @@ Dit besluit treedt in werking op 8 april 2022.<br>
 <br>
 Artikel 2 tot en met 6 hebben uitwerking met ingang van 14 maart 2022.<br>
 <br>
-Dit besluit houdt op uitwerking te hebben op 31 december 2022.
+Dit besluit houdt op uitwerking te hebben op 30 juni 2023.
 
 ### ART 23.
 
