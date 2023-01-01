@@ -38,8 +38,8 @@ Om als centrum voor ontwikkelingsstoornissen erkend te kunnen worden of erkend t
 3° het is verbonden aan een dienst kindergeneeskunde van een universitaire medische faculteit;<br>
 4° het beschikt over een multidisciplinair team dat bestaat uit ten minste vertegenwoordigers van de medische, psychologische en pedagogische, paramedische en sociale disciplines;<br>
 5° ...<br>
-6° a) het een financiële bijdrage vraagt van de cliënt, die niet hoger mag zijn dan&nbsp;70,80 euro per opgestart multidisciplinair onderzoek;<br>
-b) uit de rekening van het afgelopen werkjaar van het centrum blijkt dat een gemiddelde bijdrage van meer dan&nbsp;35,40 euro per opgestart multidisciplinair onderzoek werd geïnd;<br>
+6° a) het een financiële bijdrage vraagt van de cliënt, die niet hoger mag zijn dan&nbsp;82,96 euro per opgestart multidisciplinair onderzoek;<br>
+b) uit de rekening van het afgelopen werkjaar van het centrum blijkt dat een gemiddelde bijdrage van meer dan&nbsp;41,48 euro per opgestart multidisciplinair onderzoek werd geïnd;<br>
 7° het bevordert de betrokkenheid van de cliënt bij beoordeling, oriëntatie en therapeutische en opvoedkundige aanpak, om na inschatting van de mogelijkheden en de draagkracht van het gezin, in overleg met de betrokkenen te komen tot een optimale verdeling van taken en verantwoordelijkheden tussen het gezin en andere, al dan niet professionele hulpverleners;<br>
 8° ...;<br>
 9° het voert onderzoek uit ongeacht ras, politieke, filosofische of godsdienstige overtuiging van de cliënt;<br>
@@ -126,13 +126,57 @@ Elk centrum dient jaarlijks minimaal 90 % en maximaal 110 % van de haar toegeken
 <br>
 Indien de bezettingsgraad gedurende twee opeenvolgende jaren minder dan 90 % bedraagt, wordt de erkende capaciteit verminderd tot 110 % van de gemiddelde bezetting tijdens deze twee opeenvolgende jaren.<br>
 <br>
-§ 2. Het subsidiebedrag per capaciteitseenheid wordt vastgesteld op&nbsp;723,81 euro.<br>
+§ 2. Het subsidiebedrag per capaciteitseenheid wordt vastgesteld op&nbsp;892,79 euro.<br>
 <br>
 § 2bis. ...<br>
 <br>
-§ 2ter. Per jaar dat de gemiddelde anciënniteit van de gesubsidieerde personeelsleden van het centrum hoger ligt dan vijf jaar, wordt het subsidiebedrag, vermeld in paragraaf 2, per capaciteitseenheid verhoogd met 15,74 euro.<br>
+§ 2ter. Per jaar dat de gemiddelde anciënniteit van de gesubsidieerde personeelsleden van het centrum hoger ligt dan vijf jaar, wordt het subsidiebedrag, vermeld in paragraaf 2, per capaciteitseenheid verhoogd met&nbsp;16,92 euro.<br>
 <br>
 De anciënniteitsparameter wordt vastgesteld door de Vlaamse minister, bevoegd voor de bijstand aan personen.<br>
+<br>
+Voor personeel dat in dienst is op 1 januari wordt het volgende extra subsidiebedrag toegekend:
+<table cellspacing="0" style="border-collapse:collapse; width:381px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:19px; vertical-align:bottom; width:208px">Jaren anciënniteit</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:19px; vertical-align:bottom; width:174px">Bedrag per vte</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:208px">28 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:174px">138,83</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:208px">29 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:174px">267,08</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:208px">30 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:174px">386,27</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:208px">31 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:174px">496,44</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:208px">32 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:174px">598,49</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:208px">33 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:174px">693,08</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:208px">34 jaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:174px">780,67</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:208px">35 jaar en meer</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:174px">861,72</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+De subsidiebedragen, vermeld in het derde lid, zijn gekoppeld aan de spilindex die van toepassing is op 1 januari 2023.<br>
 <br>
 § 3. De situatie van 1 januari van het jaar in kwestie wordt als basis genomen om de gemiddelde anciënniteit, vermeld in paragraaf 2ter, te bepalen.<br>
 <br>
@@ -152,7 +196,7 @@ De reserves kunnen uitsluitend worden aangewend om uitgaven te financieren die b
 
 ### ART. 17.
 
-De bedragen, vermeld in artikel 4, eerste lid, 6°, en artikel 14, § 2 zijn gekoppeld aan de index van de consumptieprijzen die van toepassing is op 1 januari 2020.
+De bedragen, vermeld in artikel 4, eerste lid, 6°, en artikel 14, § 2 zijn gekoppeld aan de spilindex die van toepassing is op 1 januari 2023.
 
 ### ART. 18.
 
