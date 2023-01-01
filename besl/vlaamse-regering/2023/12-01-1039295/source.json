@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039295,
+  "title": "Besluit van de Vlaamse Regering van 2023-12-01 tot wijziging van het besluit van de Vlaamse Regering van 9 december 2022 houdende de overdracht van personeelsleden binnen de diensten van de Vlaamse overheid naar het agentschap Facilitair Bedrijf ingevolge de inkanteling van kantoorgebouwen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039295/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "1fcfde88ae466ee58538aadfc2af2370bf5c937e1c9da0c03e85227b16e7efe3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039295&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2023-12-01",
+  "gazette": "2024-01-31",
+  "numac": 2024000870,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
