@@ -48,11 +48,19 @@ Het jaarverslag, vermeld in het eerste lid, licht de nominatieve verdeling van d
 <br>
 Het fonds stort op eenvoudig verzoek de vergoeding terug als die niet wordt aangewend conform de doelstelling, vermeld in het eerste lid.
 
+### ART 2.
+
+In artikel 131 quinquies van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering, ingevoegd bij het koninklijk besluit van 21 januari 2002, wordt paragraaf 2 opgeheven.
+
 ### ART 3.
 
 In artikel 3, § 1, van het besluit van de Vlaamse regering van 27 oktober 1993 tot veralgemening van het stelsel van gesubsidieerde contractuelen, gewijzigd bij de besluiten van de Vlaamse Regering van 1 februari 2008, 10 juli 2008 en 17 februari 2017, worden de volgende wijzigingen aangebracht:<br>
 1° in punt 7 wordt de zinsnede "vermeld in artikel 3, 2°, b)," vervangen door de zinsnede "vermeld in artikel 3, 2°, a), en b),";<br>
 2° punt 12 wordt opgeheven.
+
+### ART 4.
+
+Artikel 4bis van het koninklijk besluit van 3 mei 1999 tot uitvoering van artikel 7, § 1, derde lid, m, van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders betreffende de herinschakeling van zeer moeilijk te plaatsen werklozen, ingevoegd bij het koninklijk besluit van 21 september 2004, wordt opgeheven.
 
 ### ART 5.
 
