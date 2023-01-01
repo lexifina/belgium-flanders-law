@@ -161,4 +161,4 @@ Dit besluit treedt in werking op 1 september 2018. De Vlaamse minister, bevoegd 
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/06/18_1.pdf#page=203">http://www.ejustice.just.fgov.be/mopdf/2018/06/18_1.pdf#page=203</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2023/04/27_1.pdf#page=429">Bijlage</a>
