@@ -96,7 +96,7 @@ Een definitieve aanduiding bevat :<br>
 1° een toetsing aan de criteria, vermeld in artikel 5.6.8, § 1, tweede lid, van de VCRO;<br>
 2° een grafisch plan dat aangeeft voor welk gebied of welke gebieden de aanduiding van toepassing is, overeenkomstig artikel 5.6.8, § 1, tweede lid, van de VCRO;<br>
 3° in voorkomend geval een lijst van vergunningen of akkoorden die vervallen met toepassing van artikel 5.6.8, § 4, van de VCRO;<br>
-4° in voorkomend geval een lijst van ruimtelijke uitvoeringsplannen die definitief zijn vastgesteld vóór de definitieve aanduiding en waarvoor wordt beslist om de planschadevergoeding aan te rekenen op het Rubiconfonds met toepassing van artikel 5.6.9 van de VCRO.<br>
+4° in voorkomend geval een lijst van ruimtelijke uitvoeringsplannen die definitief zijn vastgesteld vóór de definitieve aanduiding en waarvoor wordt beslist om de planschadevergoeding aan te rekenen op het BRV-fonds, vermeld in artikel 1.6.1 van de VCRO, met toepassing van artikel 5.6.9 van de VCRO.<br>
 <br>
 De definitieve aanduiding wordt :<br>
 1° bij uittreksel gepubliceerd in het Belgisch Staatsblad;<br>
