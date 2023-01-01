@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040248,
+  "title": "Besluit van de Vlaamse Regering van 2024-09-06 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de verhoging van het federale jaarsalaris op 1 januari 2023 als een gevolg van het sectoraal akkoord 2020-2022",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040248/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "60e45feedc3e5330fa2afe049f89140b20d8deec1fd3beb4fa81c90c086bf4c7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040248&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2024-09-06",
+  "gazette": "2024-10-04",
+  "numac": 2024009046,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
