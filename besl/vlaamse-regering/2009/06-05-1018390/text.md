@@ -40,8 +40,8 @@ c) de deeltijdse werknemer die een opleiding volgt in een onderwijsinstelling al
 24° controledienst: de dienst die binnen de VDAB is belast met de controle van de beschikbaarheid van de verplicht ingeschreven werkzoekende en het in voorkomend geval bepalen van de bijbehorende sanctie;<br>
 25° partnerorganisaties: organisaties waarmee de VDAB samenwerkt in het kader van een overheidsopdracht, subsidieovereenkomst of samenwerkingsovereenkomst;<br>
 26° RVA: de Rijksdienst voor Arbeidsvoorziening;<br>
-27° werkervaringsstage: een stage voor een werkzoekende op een reële werkvloer, die als voornaamste doel heeft om de werkzoekende generieke competenties te laten opbouwen die van elke werknemer verwacht worden, los van de functie van de werknemer, en om de werkzoekende werkervaring te laten opdoen, zodat een eerste stap naar herintrede op de arbeidsmarkt gezet kan worden;<br>
-28° activeringsstage: een stage die openstaat voor werkzoekenden bij wie een medisch, mentaal, psychisch, psychiatrisch of sociaal probleem, of een combinatie van die problemen, de inschakeling op de arbeidsmarkt verhindert. De stage oriënteert de werkzoekende naar betaald werk en bereidt de werkzoekende voor op betaald werk door zijn algemene basisvaardigheden te versterken en door drempels weg te werken die de inschakeling op de arbeidsmarkt bemoeilijken of verhinderen;<br>
+27° werkervaringsstage: een stage voor een niet-werkende werkzoekende als vermeld in punt 8°, a), in het kader van een traject naar betaald werk. Tijdens de werkervaringsstage voert de stagair acties uit op een reële werkvloer en ligt de focus niet primair op technische competentieversterking;<br>
+28° ...;<br>
 29° beroepsinlevingsstage: een betaalde opleiding op de werkvloer waarbij de cursist competenties en werkervaring verwerft en waarbij de VDAB geen begeleiding biedt;<br>
 30° tewerkstellingsbreuk: het gemiddeld aantal uren per week van de werknemer gedeeld door het gemiddeld aantal uren per week van de maatpersoon;<br>
 31° kwetsbare werknemer:<br>
@@ -251,6 +251,16 @@ In de volgende gevallen zet de raad van bestuur het mandaat, vermeld in artikel 
 De tijdelijk werklozen worden ter uitvoering van artikel 5, § 1/1, tweede lid, van het decreet van 7 mei 2004 aangewezen als categorie die behoort tot de doelgroep van de activeringsregisseur.<br>
 <br>
 In het eerste lid wordt verstaan onder tijdelijk werkloze: de werknemer van wie de arbeidsovereenkomst geheel of gedeeltelijk geschorst is door tijdelijke werkloosheid.
+
+### ART 31/2.
+
+In dit artikel wordt verstaan onder NEET-jongere, de jongere die aan al de volgende voorwaarden voldoet:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;jonger zijn dan dertig jaar;<br>
+2°&nbsp;&nbsp; &nbsp;het onderwijs hebben verlaten, al dan niet met een diploma of getuigschrift;<br>
+3°&nbsp;&nbsp; &nbsp;geen opleiding volgen;<br>
+4°&nbsp;&nbsp; &nbsp;geen beroepsarbeid of zelfstandige activiteit verrichten.<br>
+<br>
+De NEET-jongeren worden ter uitvoering van artikel 5, §1/1, tweede lid, van het decreet van 7 mei 2004 aangewezen als categorie die behoort tot de doelgroep van de activeringsregisseur.
 
 ## HOOFDSTUK II. Arbeidsbemiddeling, georganiseerd door de VDAB
 
@@ -495,6 +505,22 @@ Om de competentieontwikkeling te organiseren, kan de VDAB eigen centra oprichten
 ### ART. 65.
 
 De raad van bestuur stelt een huishoudelijk reglement op voor de centra. Het reglement bepaalt onder meer de rechten en de plichten van de cursisten, zowel voor orde en tucht als voor de uitvoering van opdrachten die ze in het kader van de opleiding krijgen. Het reglement wordt ter beschikking gesteld van de cursist voor de aanvang van de opleiding&nbsp;of het moet aangeplakt zijn op een goed zichtbare plaats in elk centrum.
+
+### ART 65/1.
+
+De VDAB kan beslissen om aan de onderneming, de vereniging zonder winstoogmerk of de administratieve overheid die haar wettelijke of contractuele verplichtingen niet nakomt, gedurende drie jaar:<br>
+1°&nbsp;&nbsp; &nbsp;geen van de de volgende opleidingen en stages toe te kennen:<br>
+a)&nbsp;&nbsp; &nbsp;een beroepsverkennende stage als vermeld in artikel 41 tot en met 44;<br>
+b)&nbsp;&nbsp; &nbsp;een opleidingsstage als vermeld in artikel 84 tot en met 84/8;<br>
+c)&nbsp;&nbsp; &nbsp;een werkervaringsstage als vermeld in artikel 111/0/1 tot en met 111/0/12;&nbsp;<br>
+d)&nbsp;&nbsp; &nbsp;een individuele beroepsopleiding als vermeld in artikel 90 tot en met 98;<br>
+e)&nbsp;&nbsp; &nbsp;een individuele beroepsopleiding plus als vermeld in artikel 98/1 tot en met 98/4;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;geen goedkeuring te geven voor een opleidingsplan voor een beroepsinlevingsstage als vermeld in artikel 111/0/24.&nbsp;<br>
+<br>
+De periode van drie jaar, vermeld in het eerste lid, begint op de datum van de kennisgeving van de beslissing, vermeld in het eerste lid.<br>
+<br>
+Tegen de beslissing, vermeld in het eerste lid, kan de onderneming, de vereniging zonder winstoogmerk of de administratieve overheid beroep aantekenen bij de raad van bestuur binnen dertig dagen na de schriftelijke kennisgeving van de beslissing.<br>
+&nbsp;
 
 ## HOOFDSTUK II. De organisatie van de beroepsopleiding
 
@@ -756,23 +782,25 @@ Voor de uitvoering van de individuele beroepsopleiding wordt tussen de VDAB of d
 
 ...
 
+## [Afdeling I/1. IBO voor kwetsbare werkzoekenden (verv. BVR 6 juli 2018, art. 29, I: 1 september 2018)][(IBO-plus) (verv. BVR 28 oktober 2022, art. 5, I: 1 januari 2023)]
+
 ### ART. 98/1.
 
-In deze afdeling wordt verstaan onder K-IBO: de individuele beroepsopleiding, vermeld in artikel 90, die verstrekt wordt aan:<br>
+In deze afdeling wordt verstaan onder IBO-plus: de individuele beroepsopleiding, vermeld in artikel 90, die verstrekt wordt aan:<br>
 1° de niet-werkende werkzoekende met een indicatie van arbeidshandicap;<br>
-2° de niet-werkende werkzoekende die jonger dan 25 jaar is en die ten minste gedurende twaalf maanden onmiddellijk voorafgaand aan de start van de K-IBO bij de VDAB als zodanig is ingeschreven;<br>
-3° de niet-werkende werkzoekende die ouder dan 25 jaar is en die ten minste gedurende 24 maanden onmiddellijk voorafgaand aan de start van de K-IBO bij de VDAB als zodanig is ingeschreven;<br>
+2° de niet-werkende werkzoekende die jonger dan 25 jaar is en die ten minste gedurende twaalf maanden onmiddellijk voorafgaand aan de start van de IBO-plus bij de VDAB als zodanig is ingeschreven;<br>
+3° de niet-werkende werkzoekende die ouder dan 25 jaar is en die ten minste gedurende 24 maanden onmiddellijk voorafgaand aan de start van de IBO-plus bij de VDAB als zodanig is ingeschreven;<br>
 4° personen ten laste van het RIZIV die actieve stappen naar tewerkstelling zetten.
 
 ### ART. 98/2.
 
-De VDAB of de partnerorganisatie bepaalt de opleidingsduur van de K-IBO. De opleidingsduur bedraagt ten minste een maand en ten hoogste een jaar.
+De VDAB of de partnerorganisatie bepaalt de opleidingsduur van de IBO-plus. De opleidingsduur bedraagt ten minste een maand en ten hoogste een jaar.
 
 ### ART. 98/3.
 
-§ 1. De cursist die een K-IBO volgt, krijgt van de VDAB een K-IBO-premie. Die premie is afgestemd op het bedrag van het vervangingsinkomen van de cursist.<br>
+§ 1. De cursist die een IBO-plus volgt, krijgt van de VDAB een IBO-plus-premie. Die premie is afgestemd op het bedrag van het vervangingsinkomen van de cursist.<br>
 <br>
-De IBO-premie bedraagt:<br>
+De IBO-plus-premie bedraagt:<br>
 1° 20 % van het GGMMI bij een vervangingsinkomen van minstens 38,5 euro per dag;<br>
 2° 40 % van het GGMMI bij een vervangingsinkomen van minstens 25,66 euro per dag en maximaal 38,49 euro per dag;<br>
 3° 60 % van het GGMMI bij een vervangingsinkomen van maximaal 25,65 euro per dag;<br>
@@ -780,17 +808,17 @@ De IBO-premie bedraagt:<br>
 <br>
 De bedragen van het vervangingsinkomen, vermeld in het tweede lid, worden aangepast aan de spilindex.<br>
 <br>
-§ 2. Bij een deeltijdse K-IBO wordt de K-IBO-premie berekend volgens de tewerkstellingsbreuk.<br>
+§ 2. Bij een deeltijdse IBO-plus wordt de K-IBO-premie berekend volgens de tewerkstellingsbreuk.<br>
 <br>
-§ 3. De cursist die een K-IBO volgt, heeft recht op de vergoedingen, vermeld in artikel 6, § 2, als hij voldoet aan de voorwaarden, vermeld in artikel 6.<br>
+§ 3. De cursist die een IBO-plus volgt, heeft recht op de vergoedingen, vermeld in artikel 6, § 2, als hij voldoet aan de voorwaarden, vermeld in artikel 6.<br>
 <br>
-§ 4. De VDAB betaalt maandelijks de K-IBO-premie aan de cursist. De VDAB geeft de cursist een overzicht van de premie en de vergoedingen die aan hem zijn uitbetaald.<br>
+§ 4. De VDAB betaalt maandelijks de IBO-plus-premie aan de cursist. De VDAB geeft de cursist een overzicht van de premie en de vergoedingen die aan hem zijn uitbetaald.<br>
 <br>
-§ 5. De onderneming, de vereniging zonder winstoogmerk of de administratieve overheid waar een K-IBO georganiseerd wordt, is geen maandelijks bedrag verschuldigd.
+§ 5. De onderneming, de vereniging zonder winstoogmerk of de administratieve overheid waar een IBO-plus georganiseerd wordt, is geen maandelijks bedrag verschuldigd.
 
 ### ART. 98/4.
 
-Artikel 91 en artikel 94 tot en met 97 zijn van toepassing op de K-IBO.
+Artikel 91 en artikel 94 tot en met 97 zijn van toepassing op de IBO-plus.
 
 ## Afdeling II. [... (opgeh. BVR 6 juli 2018, art. 30, I: 1 september 2018)]
 
@@ -856,40 +884,43 @@ Artikel 91 en artikel 94 tot en met 97 zijn van toepassing op de K-IBO.
 
 ### ART 111/0/1.
 
-De VDAB of de partnerorganisatie kan de werkzoekende in het kader van de begeleiding naar werk een werkervaringsstage voorstellen bij een werkgever. De werkervaringsstage staat open voor elke werkzoekende als:<br>
-1° de VDAB of de partnerorganisatie oordeelt dat de werkervaringsstage passend is in zijn traject naar werk;<br>
-2° de werkzoekende voldoende leerpotentieel heeft om de afstand tot het normale economische circuit te overbruggen;<br>
-3° de werkzoekende een gebrek aan generieke competenties en werkervaring heeft.
+De VDAB of de partnerorganisatie kan de niet-werkende werkzoekende in het kader van de begeleiding naar werk een werkervaringsstage voorstellen bij een werkgever. De werkervaringsstage staat open voor elke niet-werkende werkzoekende als al de volgende voorwaarden zijn vervuld:<br>
+1°&nbsp;&nbsp; &nbsp;de VDAB of de partnerorganisatie oordeelt dat de werkervaringsstage passend is in zijn traject naar werk;<br>
+2°&nbsp;&nbsp; &nbsp;de niet-werkende werkzoekende heeft voldoende leerpotentieel om de afstand tot het normale economische circuit of het sociale economische circuit te overbruggen;<br>
+3°&nbsp;&nbsp; &nbsp;de niet-werkende werkzoekende heeft een gebrek aan generieke competenties en werkervaring.
 
 ### ART 111/0/2.
 
-De VDAB of de partnerorganisatie beslist of een werkzoekende een werkervaringsstage mag volgen.<br>
+De VDAB of de partnerorganisatie beslist of een niet-werkende werkzoekende een werkervaringsstage mag volgen.<br>
 <br>
 De VDAB of de partnerorganisatie beslist over de verlenging of de voortijdige beëindiging van de werkervaringsstage.
 
 ### ART 111/0/3.
 
-De VDAB of de partnerorganisatie&nbsp;bepaalt de duur van de werkervaringsstage. De werkervaringsstage bedraagt ten minste twintig uur per week. De duur van de werkervaringsstage bedraagt maximaal zes maanden.
+De VDAB of de partnerorganisatie&nbsp;bepaalt de duur van de werkervaringsstage. De duur van de werkervaringsstage bedraagt maximaal zes maanden.
 
 ### ART 111/0/4.
 
-De werkervaringsstage wordt aangevat met een opleidingsplan. Dat opleidingsplan omvat de aan te leren competenties en de wijze waarop die competenties aangeleerd zullen worden.
+De werkervaringsstage wordt aangevat met een stageplan. Dat stageplan omvat&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de aan te leren competenties en de wijze waarop die competenties aangeleerd zullen worden;<br>
+2°&nbsp;&nbsp; &nbsp;of een beschrijving van de acties om de beginsituatie van de niet-werkende werkzoekende in kaart te brengen;<br>
+3°&nbsp;&nbsp; &nbsp;de doelstelling van de werkervaringsstage.
 
 ### ART 111/0/5.
 
-Tijdens de duur van de werkervaringsstage wordt de werkzoekende regelmatig opgevolgd door VDAB of de partnerorganisatie. De werkgever bij wie de stage wordt aangevat, staat in voor de ondersteuning van de werkzoekende op de werkvloer.
+Tijdens de duur van de werkervaringsstage wordt de stagiair regelmatig opgevolgd door VDAB of de partnerorganisatie. De werkgever bij wie de stage wordt aangevat, staat in voor de ondersteuning van de stagiair op de werkvloer.
 
 ### ART 111/0/6.
 
-De niet-werkende werkzoekende of de verplicht ingeschreven werkzoekende die een werkervaringsstage volgt, heeft recht op de vergoedingen, vermeld in artikel 6, § 2, als hij voldoet aan de voorwaarden, vermeld in het voormelde artikel.
+De stagiair die een werkervaringsstage volgt, heeft recht op de vergoedingen, vermeld in artikel 6, § 2, als hij voldoet aan de voorwaarden, vermeld in het voormelde artikel.
 
 ### ART 111/0/7.
 
-De werkzoekende die een werkervaringsstage volgt, heeft recht op een maandelijkse vergoeding van 200 euro die betaald wordt door de VDAB. De vergoeding wordt naar verhouding verminderd voor maanden waarin de stagiair geen volledige prestaties heeft geleverd.
+De stagiair die een werkervaringsstage volgt, heeft recht op een maandelijkse vergoeding van 200 euro die betaald wordt door de VDAB. De vergoeding wordt naar verhouding verminderd voor maanden waarin de stagiair geen volledige prestaties heeft geleverd.
 
 ### ART 111/0/8.
 
-Tijdens de werkervaringsstage is de stagiair verzekerd voor ongevallen als vermeld in artikel 11. De werkzoekende die in het kader van de werkervaringsstage schade berokkent aan de VDAB of aan derden, wordt alleen aansprakelijk gesteld in de gevallen, vermeld in artikel 12.
+Tijdens de werkervaringsstage is de stagiair verzekerd voor ongevallen als vermeld in artikel 11. De stagiair die in het kader van de werkervaringsstage schade berokkent aan de VDAB of aan derden, wordt alleen aansprakelijk gesteld in de gevallen, vermeld in artikel 12.
 
 ### ART 111/0/9.
 
@@ -899,17 +930,20 @@ De overeenkomst vermeldt ten minste:<br>
 1° de identiteit van de partijen;<br>
 2° de aanvangsdatum van de werkervaringsstage en de duur ervan;<br>
 3 de omschrijving van de activiteiten die in het kader van de werkervaringsstage plaatsvinden op de werkvloer;<br>
-4° de rechten en plichten van de partijen.
+4° de rechten en plichten van de partijen, vermeld in het decreet van 30 april 2004 houdende het Handvest van de Werkzoekende en de wetgeving op de arbeidsbescherming.
 
 ### ART 111/0/10.
 
-De werkervaringsstage wordt geschorst gedurende de periodes van ziekte en moederschapsverlof, ongeval of overmacht voor de duur van die periode.
+...
 
 ### ART 111/0/11.
 
-De werkervaringsstage wordt stopgezet:<br>
-1° als de periode van schorsing, vermeld in artikel 111/0/10, een zodanige duur heeft bereikt dat de re-integratie van de werkzoekende niet zonder moeilijkheden kan verlopen;<br>
-2° als de stagiair of de werkgever zijn contractuele verplichtingen niet langer nakomt en de VDAB of de partnerorganisatie vaststelt dat de verdere uitvoering van de werkervaringsstage onmogelijk is geworden.
+De werkervaringsstage wordt stopgezet in de volgende gevallen:<br>
+1°&nbsp;&nbsp; &nbsp;de stagiair of de werkgever komt zijn contractuele verplichtingen of wettelijke verplichtingen niet langer na en de VDAB of de partnerorganisatie stelt vast dat de verdere uitvoering van de werkervaringsstage onmogelijk is geworden;<br>
+2°&nbsp;&nbsp; &nbsp;de stagiair vindt werk;<br>
+3°&nbsp;&nbsp; &nbsp;de stagiair is gedurende een lange periode afwezig door ziekte, moederschapsverlof, een ongeval of vanwege overmacht;<br>
+4°&nbsp;&nbsp; &nbsp;de doelstelling is bereikt;<br>
+5°&nbsp;&nbsp; &nbsp;de VDAB of de partnerorganisatie stelt vast dat de doelstelling niet haalbaar is.
 
 ### ART 111/0/12.
 
@@ -919,53 +953,35 @@ Indien de werkervaringsstage deel uitmaakt van een traject tijdelijke werkervari
 
 ### ART 111/0/13.
 
-De activeringsstage maakt integraal deel uit van een intensief en specifiek begeleidingstraject met het oog op psycho-medisch-sociale remediëring. De VDAB kan aan werkzoekenden die geactiveerd worden via een intensief en specifiek begeleidingstraject, een activeringsstage voorstellen bij een werkgever.<br>
-<br>
-Een activeringsstage staat open voor werkzoekenden bij wie een medisch, mentaal, psychisch, psychiatrisch of sociaal probleem, of een combinatie van die problemen, de inschakeling op de arbeidsmarkt verhindert.
+...
 
 ### ART 111/0/14.
 
-De VDAB of de partnerorganisatie&nbsp;bepaalt de duur van de activeringsstage naargelang de afstand tot de arbeidsmarkt. De activeringsstage heeft een maximale doorlooptijd van zes maanden. Het aantal uren op de werkvloer wordt gradueel opgebouwd naargelang de capaciteiten van de stagiair.<br>
-<br>
-De VDAB of de partnerorganisatie beslist of de werkzoekende een activeringsstage kan volgen. De VDAB beslist ook over de voortijdige beëindiging van de activeringsstage. Een activeringsstage kan niet verlengd worden.
+...
 
 ### ART 111/0/15.
 
-De activeringsstage kan onmiddellijk worden stopgezet door de begeleider:<br>
-1° als de stagiair werk vindt;<br>
-2° als de stagiair of de werkgever hun contractuele verplichtingen niet langer nakomen en de VDAB of de partnerorganisatie vaststelt dat de verdere uitvoering van de activeringsstage onmogelijk is geworden;<br>
-3° als het doel, vermeld in artikel 1, 28°, bereikt is;<br>
-4° als de VDAB of de partnerorganisatie vaststelt dat het doel, vermeld in artikel 1, 28°, niet haalbaar is.
+...
 
 ### ART 111/0/16.
 
-Een beschrijving van de acties om de beginsituatie in kaart te brengen, wordt bij de aanvang van de activeringsstage bepaald en door de VDAB of de partnerorganisatie goedgekeurd. Op het einde van de activeringsstage wordt een opleidings- of trajectplan opgemaakt, tenzij blijkt dat de stagiair niet toeleidbaar is naar de arbeidsmarkt.
+...
 
 ### ART 111/0/17.
 
-Tijdens de duur van de activeringsstage wordt de werkzoekende regelmatig opgevolgd door de VDAB of de partnerorganisatie. De werkgever waarbij de stage wordt aangevat staat in voor de ondersteuning van de werkzoekende op de werkvloer.
+...
 
 ### ART 111/0/18.
 
-De werkzoekende die een activeringsstage volgt, heeft recht op de vergoedingen, vermeld in artikel 6, § 2, als hij voldoet aan de voorwaarden, vermeld in het voormelde artikel.
+...
 
 ### ART 111/0/19.
 
-Tijdens de activeringsstage wordt de stagiair verzekerd voor ongevallen als vermeld in artikel 11. Artikel 12 is van overeenkomstige toepassing.
+...
 
 ### ART 111/0/20.
 
-Voor de uitvoering van de activeringsstage wordt tussen de VDAB of de partnerorganisatie, de stagiair en de werkgever een overeenkomst gesloten, waarvan de raad van bestuur van de VDAB het model bepaalt.<br>
-<br>
-De overeenkomst bevat ten minste de volgende elementen:<br>
-1° de identiteit van de partijen;<br>
-2° de aanvangsdatum van de activeringsstage en de vermoedelijke duur ervan;<br>
-3° de omschrijving van de activiteiten die in het kader van de activeringsstage plaatsvinden op de werkvloer;<br>
-4° de rechten en de plichten van de partijen, onder andere:<br>
-a) de vergoedingen en premies;<br>
-b) de begeleiding en evaluatie;<br>
-c) het naleven van voorschriften inzake veiligheid en A.R.A.B.;<br>
-d) het respecteren van de privacy
+...
 
 ## [HOOFDSTUK VI. De beroepsinlevingsstage (ing. BVR 6 juli 2018, art. 42, I: 1 september 2018)]
 
