@@ -636,6 +636,12 @@ De accreditatiebesluiten en de besluiten die de instellingsreview afronden worde
 
 De Vlaamse Regering kan met inachtname van artikel 1.2 van het verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de accreditatie van opleidingen binnen het Nederlandse en het Vlaamse hoger onderwijs, ondertekend te Den Haag op 3 september 2003, de accreditatieorganisatie belasten met de volgende bijkomende opdracht: studie en advies inzake de samenwerking tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap op het vlak van het hoger onderwijs in het algemeen.
 
+### ART II.29/2.
+
+De Vlaamse Regering financiert, binnen de perken van het verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de accreditatie van opleidingen binnen het Nederlandse en het Vlaamse hoger onderwijs, ondertekend te Den Haag op 3 september 2003 en van de Vlaamse begroting, de werking van de accreditatieorganisatie.<br>
+<br>
+De accreditatieorganisatie kan het gedeelte van de toegekende financiële ondersteuning dat de aanvaarde kosten overschrijdt, aanwenden voor de aanleg van reserves van maximaal 20% van het maximale jaarlijkse subsidiebedrag. De totale gecumuleerde reserves mogen maximaal 50% van het maximale jaarlijkse subsidiebedrag bedragen. De accreditatieorganisatie rapporteert jaarlijks over de reservevorming.
+
 ### ART. II.30.
 
 <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De accreditatieorganisatie   rapporteert jaarlijks over haar werkzaamheden aan het Vlaams   Parlement.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
@@ -5763,12 +5769,19 @@ Vanaf het begrotingsjaar 2025 wordt het bedrag voor VOWhbo, vermeld in deze para
 <br>
 § 19. In het begrotingsjaar 2021 wordt het bedrag VOWprof, vermeld in of berekend conform dit artikel, vermeerderd met 8.000.000 euro.<br>
 <br>
-§20. Het bedrag VOWprof als vermeld in of berekend conform dit artikel, wordt vermeerderd met de volgende bedragen:<br>
+§20. Het bedrag VOWprof, vermeld in of berekend conform dit artikel, wordt vermeerderd met de volgende bedragen:<br>
 1° in het begrotingsjaar 2022 met 12.000.000 euro;<br>
-2° in het begrotingsjaar 2023 met 16.000.000 euro;<br>
-3° vanaf het begrotingsjaar 2024 met 20.000.000 euro.<br>
+2° in het begrotingsjaar 2023 met 12.491.600 euro. Dit bedrag wordt geïndexeerd aan de hand van de indexformule, vermeld in paragraaf 9, en verhoogd met 4 miljoen euro;<br>
+3° in het begrotingsjaar 2024 wordt het totale bedrag berekend overeenkomstig punt 2° geïndexeerd aan de hand van de indexformule, vermeld in paragraaf 9, en verhoogd met 4 miljoen euro;<br>
+4° vanaf het begrotingsjaar 2025 wordt het totale bedrag berekend overeenkomstig punt 3° geïndexeerd aan de hand van de indexformule, vermeld in paragraaf 9..<br>
 <br>
 Bij de opmaak van de begroting 2023 wordt het groeipad, vermeld in paragraaf 18 tot en met 20, geëvalueerd.
+
+### ART III.5/1.
+
+In het begrotingsjaar 2023 worden de bedragen die in deze codex geïndexeerd worden aan de hand van de indexformule, vermeld in artikel III.5, §9, bijkomend geïndexeerd met 0,93 procent.<br>
+<br>
+In het begrotingsjaar 2023 worden de bedragen die in deze codex geïndexeerd worden aan de hand van de indexformule, vermeld in artikel III.5, §9, bijkomend geïndexeerd met 2,69 procent.
 
 ### ART. III.6.
 
@@ -5828,6 +5841,8 @@ In afwijking van artikel III.6, § 1, § 2 en § 3, van deze codex, evolueren in
 <br>
 In afwijking van artikel III.6, § 1, § 2 en § 3, van deze codex, evolueren in het begrotingsjaar 2021 de bedragen van de variabele onderwijsdelen VOWun en VOWac niet als het aantal opgenomen studiepunten in het desbetreffende variabele onderwijsdeel berekend voor het begrotingsjaar 2021 toeneemt met ten minste 2% ten opzichte van de referentiepunten. Er worden ook geen nieuwe referentiepunten vastgelegd bij een eventuele stijging van 2% of meer van het aantal opgenomen studiepunten voor het desbetreffende variabele onderwijsdeel.<br>
 <br>
+In afwijking van artikel III.6, §1, §2 en §3, van deze codex, evolueren in het begrotingsjaar 2023 de bedragen van de variabele onderwijsdelen VOWun en VOWac niet als het aantal opgenomen studiepunten in het desbetreffende variabele onderwijsdeel berekend voor het begrotingsjaar 2023 toeneemt met ten minste 2 procent ten opzichte van de referentiepunten. Er worden ook geen nieuwe referentiepunten vastgelegd bij een eventuele stijging van 2 procent of meer van het aantal opgenomen studiepunten voor het desbetreffende variabele onderwijsdeel.<br>
+<br>
 Onder VOWun, vermeld in het vorige lid, wordt begrepen VOWun vermeerderd met het bedrag uit de kolom VOWun2014ZAP, zoals vermeld in paragraaf 2 van artikel III.6. Onder VOWac, vermeld in het vorige lid, wordt begrepen VOWac ver- minderd met het bedrag van het variabele onderwijsdeel VOWhko en vermeerderd met het bedrag uit de kolom VOWun2014puntengewichten, vermeld in paragraaf 2 van artikel III.6.
 
 ## Onderafdeling 2 De onderwijssokkel
@@ -5842,7 +5857,203 @@ Onder VOWun, vermeld in het vorige lid, wordt begrepen VOWun vermeerderd met het
 
 ### ART. III.9.
 
-<P style="MARGIN: 0cm 0cm 0pt">§1. Voor de berekening van de onderwijssokkel van een hogeschool of   universiteit (SOWi) wordt het bedrag van de totale onderwijssokkel SOW, vermeld   in artikel III.5, en verminderd met de forfaitaire sokkel van de transnationale   Universiteit Limburg/Universiteit Hasselt, vermeld in paragraaf 3, omgeslagen   over de hogescholen en universiteiten die voldoen aan de minimale   instellingsnorm op basis van het aantal opgenomen studiepunten, vermenigvuldigd   met een gewichtsfactor, overeenkomstig de volgende formule:<?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">SOWi = gOSTPi x SOWa / &#931;i   gOSTPi</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">waarbij </P>  <P style="MARGIN: 0cm 0cm 0pt">1° SOWi gelijk is aan de onderwijssokkel van instelling   i;</P>  <P style="MARGIN: 0cm 0cm 0pt">2° gOSTPi gelijk is aan het aantal opgenomen studiepunten OSTPi in   instelling i, berekend overeenkomstig artikel III.7 en vermenigvuldigd met de   gewichtsfactor, vermeld in paragraaf 2;</P>  <P style="MARGIN: 0cm 0cm 0pt">3° SOWa gelijk is aan de totale onderwijssokkel, vermeld in artikel   III.5, verminderd met het bedrag van de forfaitaire sokkel van de transnationale   Universiteit Limburg/Universiteit Hasselt.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">De sommatie i loopt over alle instellingen die voldoen aan de minimale   instellingsnorm.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§2. Vanaf het begrotingsjaar 2014 wordt voor de berekening van de   onderwijssokkel van een hogeschool de volgende formule   toegepast:</P>  <P style="MARGIN: 0cm 0cm 0pt">SOWi = SOWi-prof2014 + SOWi-hko2014</P>  <P style="MARGIN: 0cm 0cm 0pt">waarbij:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">1°&nbsp;&nbsp; SOWi gelijk is aan de   onderwijssokkel voor hogeschool i;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">2°&nbsp;&nbsp; SOWi-prof2014 = gOSTPi-prof2014 x SOWprof2014 / &#931;i   gOSTP-prof2014;</P>  <P style="MARGIN: 0cm 0cm 0pt 14.2pt">waarbij:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 32.2pt; mso-list: l6 level1 lfo2">a)&nbsp;&nbsp;&nbsp;   SOWi-prof2014 gelijk is aan de onderwijssokkel voor de professioneel   gerichte opleidingen, met uitzondering van de professioneel gerichte   kunstopleidingen, in hogeschool i;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 32.2pt; mso-list: l6 level1 lfo2">b)&nbsp;&nbsp;&nbsp;   SOWprof2014 gelijk is aan de onderwijssokkel voor de professioneel   gerichte opleidingen, met uitzondering van de professioneel gerichte   kunstopleidingen, in de hogescholen, vermeld in artikel   III.5;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 32.2pt; mso-list: l6 level1 lfo2">c)&nbsp;&nbsp;&nbsp;   gOSTPi-prof2014 gelijk is aan het aantal opgenomen studiepunten voor de   professioneel gerichte opleidingen, met uitzondering van de professioneel   gerichte kunstopleidingen, in hogeschool i, berekend overeenkomstig artikel   III.7 en vermenigvuldigd met de gewichtsfactor, vermeld in paragraaf 6 van dit   artikel;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">3°&nbsp;&nbsp; SOWi-hko2014 = gOSTPi-hko2014   x SOWhko2014 / &#931;i gOSTP-hko2014;</P>  <P style="MARGIN: 0cm 0cm 0pt 14.2pt">waarbij:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 32.2pt; mso-list: l3 level1 lfo3">a)&nbsp;&nbsp;&nbsp;   SOWi-hko2014 gelijk is aan de onderwijssokkel voor de kunstopleidingen   in de Schools of Arts in hogeschool i;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 32.2pt; mso-list: l3 level1 lfo3">b)&nbsp;&nbsp;&nbsp;   gOSTPi-hko2014 gelijk is aan het totale aantal opgenomen studiepunten   voor de kunstopleidingen in de Schools of Arts in hogeschool i, berekend   overeenkomstig artikel III.7 en vermenigvuldigd met de gewichtsfactor, vermeld   in paragraaf 6;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 32.2pt; mso-list: l3 level1 lfo3">c)&nbsp;&nbsp;&nbsp;   SOWhko2014 gelijk is aan de onderwijssokkel voor de kunstopleidingen in   de Schools of Arts, vermeld in artikel III.5.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">De sommatie &#931;i loopt over het aantal hogescholen die overeenkomstig   artikel III.8 in aanmerking komen voor een   onderwijssokkel.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§3. Vanaf het begrotingsjaar 2014 wordt voor de berekening van de   onderwijssokkel van een universiteit de volgende formule   toegepast:</P>  <P style="MARGIN: 0cm 0cm 0pt">SOWi-un2014 = gOSTPi-un2014 x (SOWun2014 – bedrag van de forfaitaire   sokkel voor de transnationale Universiteit Limburg/Universiteit Hasselt, vermeld   in paragraaf 8) / &#931;i gOSTP-un2014;</P>  <P style="MARGIN: 0cm 0cm 0pt">waarbij:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l5 level1 lfo4">1°&nbsp;&nbsp; SOWi-un2014 gelijk is aan de   onderwijssokkel voor de academisch gerichte opleidingen in universiteit   i;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l5 level1 lfo4">2°&nbsp;&nbsp; gOSTPi-un2014 gelijk is aan   het aantal opgenomen studiepunten voor de academisch gerichte opleidingen in   universiteit i, berekend overeenkomstig artikel III.7 en vermenigvuldigd met de   gewichtsfactor, vermeld in paragraaf 7 van dit artikel;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l5 level1 lfo4">3°&nbsp;&nbsp; SOWun2014 gelijk is aan de   onderwijssokkel voor de academisch gerichte opleidingen aan de universiteiten,   vermeld in artikel III.5.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">De sommatie &#931;i loopt over het aantal universiteiten die voldoen aan de   minimale instellingsnorm.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§4. Als de Vlaamse Regering een aangepast sokkelbedrag heeft toegekend   aan een gefuseerde instelling, als vermeld in artikel III.10, wordt in afwijking   van paragraaf 2 het bedrag van de aangepaste sokkel voorafgenomen van de   desbetreffende sokkel, namelijk SOWprof2014, SOWhko2014 of SOWun2014, voor die   bedragen verdeeld worden overeenkomstig paragraaf 2.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§5. Per instelling wordt het aantal opgenomen studiepunten OSTPi   vermenigvuldigd met de volgende gewichtsfactor:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l2 level1 lfo5">1°&nbsp;&nbsp; het aantal opgenomen   studiepunten dat kleiner is dan of gelijk is aan 360.000 : factor   3;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l2 level1 lfo5">2°&nbsp;&nbsp; het aantal opgenomen   studiepunten dat groter is dan 360.000 en kleiner is dan of gelijk is aan   720.000 : factor 2;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l2 level1 lfo5">3°&nbsp;&nbsp; het aantal opgenomen   studiepunten dat groter is dan 720.000 : factor 0.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§6. Bij de hogescholen wordt vanaf het begrotingsjaar 2014 het aantal   opgenomen studiepunten OSTPi-prof2014 en OSTPi-hko2014 vermenigvuldigd met de   volgende gewichtsfactor:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l4 level1 lfo6">1°&nbsp;&nbsp; het aantal opgenomen   studiepunten dat kleiner is dan of gelijk is aan het getal, opgenomen in kolom 2   van de onderstaande tabel: factor 3;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l4 level1 lfo6">2°&nbsp;&nbsp; het aantal opgenomen   studiepunten dat groter is dan het bedrag, opgenomen in kolom 2 van de   onderstaande tabel, en kleiner is dan of gelijk is aan het bedrag, opgenomen in   kolom 3 van de onderstaande tabel: factor 2;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l4 level1 lfo6">3°&nbsp;&nbsp; het aantal   opgenomen studiepunten dat groter is dan het bedrag, opgenomen in kolom 3 van de   onderstaande tabel: factor 0.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-table-layout-alt: fixed; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 97.55pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       vAlign=top width=130>        <P>begrotingsjaar</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 63.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=85>        <P>kolom         2</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 63.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=85>        <P>kolom         3</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 1">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 97.55pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=130>        <P>2014</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 63.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=85>        <P>360.000</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 63.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=85>        <P>720.000</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 2">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 97.55pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=130>        <P>2015</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 63.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=85>        <P>370.000</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 63.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=85>        <P>740.000</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 3">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 97.55pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=130>        <P>2016</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 63.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=85>        <P>380.000</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 63.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=85>        <P>760.000</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 4">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 97.55pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=130>        <P>2017</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 63.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=85>        <P>390.000</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 63.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=85>        <P>780.000</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 5">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 97.55pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=130>        <P>2018</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 63.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=85>        <P>400.000</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 63.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=85>        <P>800.000</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 6">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 97.55pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=130>        <P>2019</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 63.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=85>        <P>410.000</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 63.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=85>        <P>820.000</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 7">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 97.55pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=130>        <P>2020</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 63.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=85>        <P>420.000</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 63.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=85>        <P>840.000</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 8">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 97.55pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=130>        <P>2021</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 63.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=85>        <P>430.000</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 63.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=85>        <P>860.000</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 9">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 97.55pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=130>        <P>2022</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 63.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=85>        <P>440.000</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 63.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=85>        <P>880.000</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 10; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 97.55pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=130>        <P>2023</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 63.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=85>        <P>450.000</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 63.8pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=85>        <P>900.000</P></TD></TR></TBODY></TABLE>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§7. Bij de universiteiten wordt vanaf het begrotingsjaar 2014 het aantal   opgenomen studiepunten OSTPi-un2014 vermenigvuldigd met de volgende   gewichtsfactor:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo7">1°&nbsp;&nbsp; het aantal opgenomen   studiepunten dat kleiner is dan of gelijk is aan 450.000: factor   3;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo7">2°&nbsp;&nbsp; het aantal opgenomen   studiepunten dat groter is dan 450.000 en kleiner is dan of gelijk is aan   900.000: factor 2;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo7">3°&nbsp;&nbsp; het aantal opgenomen   studiepunten dat groter is dan 900.000 en kleiner is dan of gelijk is aan   1.800.000: factor 1;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo7">4°&nbsp;&nbsp; het aantal opgenomen   studiepunten dat groter is dan 1.800.000: factor 0.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§8. De onderwijssokkel van de transnationale Universiteit   Limburg/Universiteit Hasselt, berekend overeenkomstig paragraaf 1, wordt   verhoogd met een forfaitaire sokkel van 1.057.000 euro.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Vanaf het begrotingsjaar 2008 wordt dit bedrag geïndexeerd volgens de   bepalingen in artikel III.5, §9.</P>
+<p style="margin-left:0cm; margin-right:0cm">§1. Voor de berekening van de onderwijssokkel van een hogeschool of universiteit (SOWi) wordt het bedrag van de totale onderwijssokkel SOW, vermeld in artikel III.5, en verminderd met de forfaitaire sokkel van de transnationale Universiteit Limburg/Universiteit Hasselt, vermeld in paragraaf 3, omgeslagen over de hogescholen en universiteiten die voldoen aan de minimale instellingsnorm op basis van het aantal opgenomen studiepunten, vermenigvuldigd met een gewichtsfactor, overeenkomstig de volgende formule:<!--?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /--><br>
+<br>
+SOWi = gOSTPi x SOWa / Σi gOSTPi<br>
+<br>
+waarbij</p>
+
+<p style="margin-left:0cm; margin-right:0cm">1° SOWi gelijk is aan de onderwijssokkel van instelling i;</p>
+
+<p style="margin-left:0cm; margin-right:0cm">2° gOSTPi gelijk is aan het aantal opgenomen studiepunten OSTPi in instelling i, berekend overeenkomstig artikel III.7 en vermenigvuldigd met de gewichtsfactor, vermeld in paragraaf 2;</p>
+
+<p style="margin-left:0cm; margin-right:0cm">3° SOWa gelijk is aan de totale onderwijssokkel, vermeld in artikel III.5, verminderd met het bedrag van de forfaitaire sokkel van de transnationale Universiteit Limburg/Universiteit Hasselt.<br>
+<br>
+De sommatie i loopt over alle instellingen die voldoen aan de minimale instellingsnorm.<br>
+<br>
+§2. Vanaf het begrotingsjaar 2014 wordt voor de berekening van de onderwijssokkel van een hogeschool de volgende formule toegepast:</p>
+
+<p style="margin-left:0cm; margin-right:0cm">SOWi = SOWi-prof2014 + SOWi-hko2014</p>
+
+<p style="margin-left:0cm; margin-right:0cm">waarbij:<br>
+1°&nbsp;&nbsp; SOWi gelijk is aan de onderwijssokkel voor hogeschool i;<br>
+2°&nbsp;&nbsp; SOWi-prof2014 = gOSTPi-prof2014 x SOWprof2014 / Σi gOSTP-prof2014;<br>
+<br>
+waarbij:<br>
+a)&nbsp;&nbsp;&nbsp; SOWi-prof2014 gelijk is aan de onderwijssokkel voor de professioneel gerichte opleidingen, met uitzondering van de professioneel gerichte kunstopleidingen, in hogeschool i;<br>
+b)&nbsp;&nbsp;&nbsp; SOWprof2014 gelijk is aan de onderwijssokkel voor de professioneel gerichte opleidingen, met uitzondering van de professioneel gerichte kunstopleidingen, in de hogescholen, vermeld in artikel III.5;<br>
+c)&nbsp;&nbsp;&nbsp; gOSTPi-prof2014 gelijk is aan het aantal opgenomen studiepunten voor de professioneel gerichte opleidingen, met uitzondering van de professioneel gerichte kunstopleidingen, in hogeschool i, berekend overeenkomstig artikel III.7 en vermenigvuldigd met de gewichtsfactor, vermeld in paragraaf 6 van dit artikel;<br>
+<br>
+3°&nbsp;&nbsp; SOWi-hko2014 = gOSTPi-hko2014 x SOWhko2014 / Σi gOSTP-hko2014;<br>
+<br>
+waarbij:<br>
+a)&nbsp;&nbsp;&nbsp; SOWi-hko2014 gelijk is aan de onderwijssokkel voor de kunstopleidingen in de Schools of Arts in hogeschool i;<br>
+b)&nbsp;&nbsp;&nbsp; gOSTPi-hko2014 gelijk is aan het totale aantal opgenomen studiepunten voor de kunstopleidingen in de Schools of Arts in hogeschool i, berekend overeenkomstig artikel III.7 en vermenigvuldigd met de gewichtsfactor, vermeld in paragraaf 6;<br>
+c)&nbsp;&nbsp;&nbsp; SOWhko2014 gelijk is aan de onderwijssokkel voor de kunstopleidingen in de Schools of Arts, vermeld in artikel III.5.<br>
+<br>
+De sommatie Σi loopt over het aantal hogescholen die overeenkomstig artikel III.8 in aanmerking komen voor een onderwijssokkel.<br>
+<br>
+§3. Vanaf het begrotingsjaar 2014 wordt voor de berekening van de onderwijssokkel van een universiteit de volgende formule toegepast:<br>
+<br>
+SOWi-un2014 = gOSTPi-un2014 x (SOWun2014 – bedrag van de forfaitaire sokkel voor de transnationale Universiteit Limburg/Universiteit Hasselt, vermeld in paragraaf 8) / Σi gOSTP-un2014;<br>
+<br>
+waarbij:<br>
+1°&nbsp;&nbsp; SOWi-un2014 gelijk is aan de onderwijssokkel voor de academisch gerichte opleidingen in universiteit i;<br>
+2°&nbsp;&nbsp; gOSTPi-un2014 gelijk is aan het aantal opgenomen studiepunten voor de academisch gerichte opleidingen in universiteit i, berekend overeenkomstig artikel III.7 en vermenigvuldigd met de gewichtsfactor, vermeld in paragraaf 7 van dit artikel;<br>
+3°&nbsp;&nbsp; SOWun2014 gelijk is aan de onderwijssokkel voor de academisch gerichte opleidingen aan de universiteiten, vermeld in artikel III.5.<br>
+<br>
+De sommatie Σi loopt over het aantal universiteiten die voldoen aan de minimale instellingsnorm.<br>
+<br>
+§4. Als de Vlaamse Regering een aangepast sokkelbedrag heeft toegekend aan een gefuseerde instelling, als vermeld in artikel III.10, wordt in afwijking van paragraaf 2 het bedrag van de aangepaste sokkel voorafgenomen van de desbetreffende sokkel, namelijk SOWprof2014, SOWhko2014 of SOWun2014, voor die bedragen verdeeld worden overeenkomstig paragraaf 2.<br>
+<br>
+§5. Per instelling wordt het aantal opgenomen studiepunten OSTPi vermenigvuldigd met de volgende gewichtsfactor:<br>
+1°&nbsp;&nbsp; het aantal opgenomen studiepunten dat kleiner is dan of gelijk is aan 360.000 : factor 3;<br>
+2°&nbsp;&nbsp; het aantal opgenomen studiepunten dat groter is dan 360.000 en kleiner is dan of gelijk is aan 720.000 : factor 2;<br>
+3°&nbsp;&nbsp; het aantal opgenomen studiepunten dat groter is dan 720.000 : factor 0.<br>
+<br>
+§6. Bij de hogescholen wordt vanaf het begrotingsjaar 2014 het aantal opgenomen studiepunten OSTPi-prof2014 en OSTPi-hko2014 vermenigvuldigd met de volgende gewichtsfactor:<br>
+1°&nbsp;&nbsp; het aantal opgenomen studiepunten dat kleiner is dan of gelijk is aan het getal, opgenomen in kolom 2 van de onderstaande tabel: factor 3;<br>
+2°&nbsp;&nbsp; het aantal opgenomen studiepunten dat groter is dan het bedrag, opgenomen in kolom 2 van de onderstaande tabel, en kleiner is dan of gelijk is aan het bedrag, opgenomen in kolom 3 van de onderstaande tabel: factor 2;<br>
+3°&nbsp;&nbsp; het aantal opgenomen studiepunten dat groter is dan het bedrag, opgenomen in kolom 3 van de onderstaande tabel: factor 0.</p>
+
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-bottom:medium none; border-collapse:collapse; border-left:medium none; border-right:medium none; border-top:medium none; mso-border-alt:solid windowtext .5pt; mso-border-insideh:.5pt solid windowtext; mso-border-insidev:.5pt solid windowtext; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-table-layout-alt:fixed">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:97.55pt">
+			<p>begrotingsjaar</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:63.8pt">
+			<p>kolom 2</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:63.8pt">
+			<p>kolom 3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:97.55pt">
+			<p>2014</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:63.8pt">
+			<p>360.000</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:63.8pt">
+			<p>720.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:97.55pt">
+			<p>2015</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:63.8pt">
+			<p>370.000</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:63.8pt">
+			<p>740.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:97.55pt">
+			<p>2016</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:63.8pt">
+			<p>380.000</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:63.8pt">
+			<p>760.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:97.55pt">
+			<p>2017</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:63.8pt">
+			<p>390.000</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:63.8pt">
+			<p>780.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:97.55pt">
+			<p>2018</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:63.8pt">
+			<p>400.000</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:63.8pt">
+			<p>800.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:97.55pt">
+			<p>2019</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:63.8pt">
+			<p>410.000</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:63.8pt">
+			<p>820.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:97.55pt">
+			<p>2020</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:63.8pt">
+			<p>420.000</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:63.8pt">
+			<p>840.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:97.55pt">
+			<p>2021</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:63.8pt">
+			<p>430.000</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:63.8pt">
+			<p>860.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:97.55pt">
+			<p>2022</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:63.8pt">
+			<p>440.000</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:63.8pt">
+			<p>880.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:97.55pt">
+			<p>vanaf 2023</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:63.8pt">
+			<p>450.000</p>
+			</td>
+			<td style="background-color:transparent; height:6.35pt; vertical-align:top; width:63.8pt">
+			<p>900.000</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="margin-left:0cm; margin-right:0cm"><br>
+§7. Bij de universiteiten wordt vanaf het begrotingsjaar 2014 het aantal opgenomen studiepunten OSTPi-un2014 vermenigvuldigd met de volgende gewichtsfactor:<br>
+1°&nbsp;&nbsp; het aantal opgenomen studiepunten dat kleiner is dan of gelijk is aan 450.000: factor 3;<br>
+2°&nbsp;&nbsp; het aantal opgenomen studiepunten dat groter is dan 450.000 en kleiner is dan of gelijk is aan 900.000: factor 2;<br>
+3°&nbsp;&nbsp; het aantal opgenomen studiepunten dat groter is dan 900.000 en kleiner is dan of gelijk is aan 1.800.000: factor 1;<br>
+4°&nbsp;&nbsp; het aantal opgenomen studiepunten dat groter is dan 1.800.000: factor 0.<br>
+<br>
+§8. De onderwijssokkel van de transnationale Universiteit Limburg/Universiteit Hasselt, berekend overeenkomstig paragraaf 1, wordt verhoogd met een forfaitaire sokkel van 1.057.000 euro.<br>
+<br>
+Vanaf het begrotingsjaar 2008 wordt dit bedrag geïndexeerd volgens de bepalingen in artikel III.5, §9.</p>
 
 ### ART. III.10.
 
@@ -6057,7 +6268,7 @@ Vanaf het begrotingsjaar 2014 worden, voor de vaststelling van het aantal financ
 In afwijking van het eerste lid is voor de graduaatsopleidingen het aantal financieringspunten FPi-output :<br>
 1° in het begrotingsjaar 2022 gelijk aan de som van de producten van het aantal verworven studiepunten per opleiding, vermeld in paragraaf 4, voor het academiejaar 2019-2020, en het overeenkomstige puntengewicht, vermeld in artikel III.19;<br>
 2° in het begrotingsjaar 2023 gelijk aan de som van de producten van het gemiddelde aantal verworven studiepunten per opleiding, vermeld in paragraaf 4, over de academiejaren 2020-2021 en 2019-2020, en het overeenkomstige puntengewicht, vermeld in artikel III.19;<br>
-3° vanaf het begrotingsjaar 2023 gelijk aan de som van de producten van het gemiddelde aantal verworven studiepunten per opleiding, vermeld in paragraaf 4, over de academiejaren t-5/t-4 tot en met t-3/t-2, en het overeenkomstige puntengewicht, vermeld in artikel III.19.<br>
+3° vanaf het begrotingsjaar 2024&nbsp;gelijk aan de som van de producten van het gemiddelde aantal verworven studiepunten per opleiding, vermeld in paragraaf 4, over de academiejaren t-5/t-4 tot en met t-3/t-2, en het overeenkomstige puntengewicht, vermeld in artikel III.19.<br>
 <br>
 § 4. Voor de vaststelling van het aantal verworven studiepunten per opleiding wordt het aantal studiepunten in aanmerking genomen waarvoor een student onder diplomacontract een creditbewijs ontvangen heeft :<br>
 1° voor de berekening van FPi-output-initieel :<br>
@@ -6083,7 +6294,7 @@ In afwijking van paragraaf 4 komen de verworven studiepunten van een educatieve 
 
 ### ART. III.14.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. Voor de berekening van het aantal financieringspunten FPi-diploma wordt in aanmerking genomen:<br>
+<p style="margin-left:0cm; margin-right:0cm">§1. Voor de berekening van het aantal financieringspunten FPi-diploma wordt in aanmerking genomen:<br>
 1°&nbsp;&nbsp; voor de professioneel gerichte opleidingen in de hogescholen : het aantal financieringspunten, gebaseerd op het aantal uitgereikte diploma's in de initiële bacheloropleidingen (FPi-diploma-initieel) en in de bachelor-na-bacheloropleidingen (FPi-diploma-banaba);<br>
 2°&nbsp;&nbsp; voor de academisch gerichte opleidingen in de hogescholen : het aantal financieringspunten, gebaseerd op het aantal uitgereikte diploma's in de initiële masteropleidingen (FPi-diploma-initieel);<br>
 3°&nbsp;&nbsp; voor de academisch gerichte opleidingen in de universiteiten : het aantal financieringspunten, gebaseerd op het aantal uitgereikte diploma's in de initiële masteropleidingen (FPi-diploma-initieel).<br>
@@ -6114,7 +6325,7 @@ Vanaf het begrotingsjaar 2014 worden, voor de vaststelling van het aantal financ
 In afwijking van het eerste lid is voor de graduaatsopleidingen het aantal financieringspunten FPi-diploma :<br>
 1° in het begrotingsjaar 2022 gelijk aan de som van de producten van het aantal uitgereikte diploma's per opleiding, vermeld in paragraaf 5, voor het academiejaar 2019-2020, en het overeenkomstige puntengewicht, vermeld in artikel III.19, en de doorstroombonus, vermeld in paragraaf 6;<br>
 2° in het begrotingsjaar 2023 gelijk aan de som van de producten van het gemiddelde aantal uitgereikte diploma's per opleiding, vermeld in paragraaf 5, over de academiejaren 2020-2021 en 2019-2020, en het overeenkomstige puntengewicht, vermeld in artikel III.19, en de doorstroombonus, vermeld in paragraaf 6;<br>
-3° vanaf het begrotingsjaar 2023 gelijk aan de som van de producten van het gemiddelde aantal uitgereikte diploma's per opleiding, vermeld in paragraaf 5, over de academiejaren t-5/t-4 tot en met t-3/t-2, en het overeenkomstige puntengewicht, vermeld in artikel III.19, en de doorstroombonus, vermeld in paragraaf 6.<br>
+3° vanaf het begrotingsjaar 2024&nbsp;gelijk aan de som van de producten van het gemiddelde aantal uitgereikte diploma's per opleiding, vermeld in paragraaf 5, over de academiejaren t-5/t-4 tot en met t-3/t-2, en het overeenkomstige puntengewicht, vermeld in artikel III.19, en de doorstroombonus, vermeld in paragraaf 6.<br>
 <br>
 § 5. Voor de vaststelling van het aantal uitgereikte diploma's per opleiding komen in aanmerking :<br>
 1° voor de berekening van FPi-diploma-initieel :<br>
@@ -7286,7 +7497,7 @@ Als in de begrotingsjaren 2008 tot en met 2013 de som van de werkingsuitkeringen
 <br>
 §2. De volgende gegarandeerde minimumbedragen worden vastgelegd voor de hogescholen en de universiteiten :</p>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-image:none; border:1pt outset #222222; mso-border-alt:outset #222222 .75pt; mso-cellspacing:0cm; mso-padding-alt:2.25pt 2.25pt 2.25pt 2.25pt">
+<table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; width:258.15pt">
@@ -7592,7 +7803,39 @@ De bedragen, vermeld in het eerste en het tweede lid, worden vanaf het begroting
 <p><br>
 De bedragen voor het afschaffen van de baremieke leeftijd, de laagste lonen en voor 2021 het budget voor wendbaar en weerbaar personeelsbeleid worden verdeeld op basis van het procentuele aandeel van elke hogeschool en universiteit in de totale werkingsmiddelen.<br>
 <br>
-Vanaf het begrotingsjaar 2022 worden de bedragen, vermeld in deze paragraaf, geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.</p>
+Vanaf het begrotingsjaar 2022 worden de bedragen, vermeld in deze paragraaf, geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.<br>
+<br>
+§12. Vanaf het begrotingsjaar 2023 wordt de totale werkingsuitkering van de universiteiten met 15.000.000 euro verminderd. Dit bedrag wordt als volgt verdeeld over de universiteiten:</p>
+
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:1px solid #231f20; height:20px; vertical-align:top; width:294px">Katholieke Universiteit Leuven</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:1px solid #231f20; height:20px; vertical-align:top; width:257px">5.079.715 euro</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:294px">Universiteit Gent</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:257px">4.336.989 euro</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:294px">Universiteit Antwerpen</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:257px">2.335.359 euro</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:294px">Vrije Universiteit Brussel</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:257px">2.097.957 euro</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:294px">Universiteit Hasselt</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:257px">1.149.980 euro</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+§13. Vanaf het begrotingsjaar 2023 worden de totale werkingsmiddelen van de hogescholen (inclusief de Hogere Zeevaartschool) en de universiteiten met 7.941.650 euro vermeerderd. Dit bedrag wordt verdeeld op basis van het procentuele aandeel van elke hogeschool en universiteit in de totale werkingsmiddelen.<br>
+<br>
+Vanaf het begrotingsjaar 2024 wordt het bedrag, vermeld in deze paragraaf, geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.<br>
+&nbsp;
 
 ### ART. III.25.
 
@@ -7601,6 +7844,12 @@ Vanaf het begrotingsjaar 2022 worden de bedragen, vermeld in deze paragraaf, ge�
 ### ART III.25/1.
 
 Ter uitvoering van de acties vervat in het speerpunt 1 Een toekomstbestendig en wendbaar Vlaams opleidingsportfolio uitbouwen, het speerpunt 2 Veel meer mogelijkheden aanreiken om levenslang te leren binnen het hoger onderwijs en het speerpunt 3 Kwaliteitsvol verduurzamen van nieuwe werkvormen in het hoger onderwijs, binnen de maatregel VV112 Voorsprongfonds Hoger Onderwijs, van het relanceplan Vlaamse Veerkracht, zoals beschreven in de visienota Voorsprongfonds Hoger Onderwijs, goedgekeurd op de Vlaamse Regering van 26 februari 2021 (VR 2021 2602 VV DOC.0011/2BIS), kan de Vlaamse Regering voor de academiejaren 2021-2022 en 2022-2023, binnen de perken van de beschikbare enveloppe van 60 miljoen euro, naast de bepalingen in artikel III.25, een bijkomende werkingstoelage of projecttoelage toekennen aan de hogescholen en universiteiten.De Vlaamse Regering bepaalt de verdeling van die bijkomende middelen over de hogescholen en universiteiten en stelt de aanwending ervan vast.
+
+### ART III.25/2.
+
+In het kader van een verhoging van de quota, vermeld in artikel II.187, §4, kan de Vlaamse Regering vanaf het begrotingsjaar 2023 binnen de beschikbare budgettaire ruimte een bijkomende werkingstoelage toekennen voor de universiteiten die een bacheloropleiding aanbieden in het studiegebied Geneeskunde en/of Tandheelkunde.<br>
+<br>
+De universiteiten kunnen de bijkomende middelen, vermeld in het eerste lid, enkel aanwenden voor werking of infrastructuur investeringen. Deze bijkomende middelen voor het begrotingsjaar t worden verdeeld over de desbetreffende universiteiten op basis van het gemiddeld aantal opgenomen studiepunten over de academiejaren t-7/t-6 tot en met t-3/t-2 waarvoor studenten onder diplomacontract zich hebben ingeschreven voor een bacheloropleiding in het studiegebied Geneeskunde en/of Tandheelkunde.
 
 ### ART. III.26.
 
@@ -8854,7 +9103,87 @@ Het bedrag, vermeld in het eerste lid, op prijsniveau 2020, wordt jaarlijks aang
 
 ### ART. III.54.
 
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">§1. Het basisbedrag van de   investeringskredieten van de universiteiten, uitgedrukt in duizend euro wordt   voor de jaren 2011, 2012, 2013&nbsp;en 2014 vastgesteld als volgt :</P>  <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <TABLE class=MsoNormalTable   style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; mso-table-layout-alt: fixed; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext"   cellSpacing=0 cellPadding=0 border=1>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes">      <TD       style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 318.95pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 3.5pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 3.5pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt"       vAlign=top width=425>        <P class=MsoNormal         style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt">1.&nbsp;&nbsp;&nbsp;         Katholieke Universiteit Leuven</P>        <P class=MsoNormal         style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt">2.&nbsp;&nbsp;&nbsp;         Vrije Universiteit Brussel</P>        <P class=MsoNormal         style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt">3.&nbsp;&nbsp;&nbsp;         Universiteit Antwerpen</P>        <P class=MsoNormal         style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt">4.&nbsp;&nbsp;&nbsp;         Universiteit Hasselt</P>        <P class=MsoNormal         style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt">5.&nbsp;&nbsp;&nbsp;         HUB-KUBrussel</P>        <P class=MsoNormal         style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt">6.&nbsp;&nbsp;&nbsp;         Universiteit Gent</P></TD>      <TD       style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 53.1pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 3.5pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 3.5pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=71>        <P class=MsoNormal style="TEXT-ALIGN: right; MARGIN: 0cm 0cm 0pt"         align=right>9.100</P>        <P class=MsoNormal style="TEXT-ALIGN: right; MARGIN: 0cm 0cm 0pt"         align=right>2.992</P>        <P class=MsoNormal style="TEXT-ALIGN: right; MARGIN: 0cm 0cm 0pt"         align=right>2.687</P>        <P class=MsoNormal style="TEXT-ALIGN: right; MARGIN: 0cm 0cm 0pt"         align=right>585</P>        <P class=MsoNormal style="TEXT-ALIGN: right; MARGIN: 0cm 0cm 0pt"         align=right>139</P>        <P class=MsoNormal style="TEXT-ALIGN: right; MARGIN: 0cm 0cm 0pt"         align=right>6.341</P></TD></TR></TBODY></TABLE>  <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">§2. Het basisbedrag wordt   geïndexeerd als volgt : het basisbedrag wordt vermenigvuldigd met de gewogen   evolutie van het jaarlijks gemiddelde van de index van de Associatie van   Belgische Experten (ABEX-index) van de 5 voorlaatste kalenderjaren die   voorafgaan aan het begrotingsjaar, uitgedrukt in percenten.</P>  <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">§ 3. Vanaf het begrotingsjaar   2015 wordt het basisbedrag van de investeringskredieten voor de universiteiten   vastgesteld op 28.640.000 euro. Dit bedrag wordt als volgt verdeeld over de   universiteiten :<BR>1° elke universiteit ontvangt, in euro, een forfaitair   bedrag van :<BR>a) Katholieke Universiteit Leuven 4.239.550<BR>b) Vrije   Universiteit Brussel 1.372.700<BR>c) Universiteit Gent 2.909.900<BR>d)   Universiteit Antwerpen 1.233.050<BR>e) Universiteit Hasselt 268.800<BR>2° het   resterende bedrag, zijnde het verschil tussen het basisbedrag en de som van de   forfaitaire bedragen wordt verdeeld op basis van het aantal unieke studenten per   universiteit.<BR>Voor de berekening van het aantal unieke studenten worden de   unieke studenten in aanmerking genomen die in het academiejaar t-3/t-2 onder   diplomacontract ingeschreven zijn in de desbetreffende universiteit in een   initiële bachelor- of masteropleiding. De studenten ingeschreven in een initiële   bachelor- of masteropleiding die met ingang van het academiejaar 2013-2014   geïntegreerd is in een universiteit worden daarbij niet in aanmerking   genomen.<BR>Onder unieke studenten wordt begrepen de studenten die zich in een   bepaald academiejaar inschrijven aan een universiteit, ongeacht het aantal   inschrijvingen van de student aan die universiteit.<BR>De bedragen vermeld in   deze paragraaf worden geïndexeerd overeenkomstig de bepalingen vermeld in   paragraaf 2.</P>
+<p>§1. Het basisbedrag van de investeringskredieten van de universiteiten, uitgedrukt in duizend euro wordt voor de jaren 2011, 2012, 2013&nbsp;en 2014 vastgesteld als volgt :</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:318.95pt">
+			<p>1.&nbsp;&nbsp;&nbsp; Katholieke Universiteit Leuven</p>
+
+			<p>2.&nbsp;&nbsp;&nbsp; Vrije Universiteit Brussel</p>
+
+			<p>3.&nbsp;&nbsp;&nbsp; Universiteit Antwerpen</p>
+
+			<p>4.&nbsp;&nbsp;&nbsp; Universiteit Hasselt</p>
+
+			<p>5.&nbsp;&nbsp;&nbsp; HUB-KUBrussel</p>
+
+			<p>6.&nbsp;&nbsp;&nbsp; Universiteit Gent</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:53.1pt">
+			<p>9.100</p>
+
+			<p>2.992</p>
+
+			<p>2.687</p>
+
+			<p>585</p>
+
+			<p>139</p>
+
+			<p>6.341</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+§2. Het basisbedrag wordt geïndexeerd als volgt : het basisbedrag wordt vermenigvuldigd met de gewogen evolutie van het jaarlijks gemiddelde van de index van de Associatie van Belgische Experten (ABEX-index) van de 5 voorlaatste kalenderjaren die voorafgaan aan het begrotingsjaar, uitgedrukt in percenten.<br>
+<br>
+§ 3. Vanaf het begrotingsjaar 2015 wordt het basisbedrag van de investeringskredieten voor de universiteiten vastgesteld op 28.640.000 euro. Dit bedrag wordt als volgt verdeeld over de universiteiten :<br>
+1° elke universiteit ontvangt, in euro, een forfaitair bedrag van :<br>
+a) Katholieke Universiteit Leuven 4.239.550<br>
+b) Vrije Universiteit Brussel 1.372.700<br>
+c) Universiteit Gent 2.909.900<br>
+d) Universiteit Antwerpen 1.233.050<br>
+e) Universiteit Hasselt 268.800<br>
+2° het resterende bedrag, zijnde het verschil tussen het basisbedrag en de som van de forfaitaire bedragen wordt verdeeld op basis van het aantal unieke studenten per universiteit.<br>
+<br>
+Voor de berekening van het aantal unieke studenten worden de unieke studenten in aanmerking genomen die in het academiejaar t-3/t-2 onder diplomacontract ingeschreven zijn in de desbetreffende universiteit in een initiële bachelor- of masteropleiding. De studenten ingeschreven in een initiële bachelor- of masteropleiding die met ingang van het academiejaar 2013-2014 geïntegreerd is in een universiteit worden daarbij niet in aanmerking genomen.<br>
+<br>
+Onder unieke studenten wordt begrepen de studenten die zich in een bepaald academiejaar inschrijven aan een universiteit, ongeacht het aantal inschrijvingen van de student aan die universiteit.<br>
+<br>
+De bedragen vermeld in deze paragraaf worden geïndexeerd overeenkomstig de bepalingen vermeld in paragraaf 2.<br>
+<br>
+§4. Vanaf het begrotingsjaar 2023 wordt het basisbedrag van de investeringskredieten voor de universiteiten vermeerderd met 15.000.000 euro aan vastleggingskredieten. Dit bedrag wordt als volgt verdeeld over de universiteiten:</p>
+
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:1px solid #231f20; height:20px; vertical-align:top; width:294px">Katholieke Universiteit Leuven</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:1px solid #231f20; height:20px; vertical-align:top; width:257px">5.079.715 euro</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:294px">Universiteit Gent</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:257px">4.336.989 euro</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:294px">Universiteit Antwerpen</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:257px">2.335.359 euro</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:294px">Vrije Universiteit Brussel</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:257px">2.097.957 euro</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid #231f20; border-left:1px solid #231f20; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:294px">Universiteit Hasselt</td>
+			<td style="border-bottom:1px solid #231f20; border-left:none; border-right:1px solid #231f20; border-top:none; height:20px; vertical-align:top; width:257px">1.149.980 euro</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>De gekoppelde betaalkredieten aan deze vastleggingskredieten worden over vijf jaar gespreid: 10 procent wordt uitbetaald in het eerste jaar van vastlegging, zijnde het jaar N, 20 procent in jaar N+1, 30 procent in jaar N+2, 20 procent in jaar N+3 en 20 procent in jaar N+4.</p>
 
 ### ART. III.54/1.
 
@@ -9613,7 +9942,7 @@ De instellingen voor postinitieel onderwijs kunnen aan de personeelsleden van de
 
 ### ART. III.118.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. De basissubsidie van de Vlaamse Gemeenschap aan het Instituut voor Tropische Geneeskunde wordt vanaf het begrotingsjaar 2007 vastgesteld op 9.776.000 euro.<br>
+<p>§1. De basissubsidie van de Vlaamse Gemeenschap aan het Instituut voor Tropische Geneeskunde wordt vanaf het begrotingsjaar 2007 vastgesteld op 9.776.000 euro.<br>
 <br>
 §2. De basissubsidie van de Vlaamse Gemeenschap aan de Vlerick Business School wordt vanaf het begrotingsjaar 2002 vastgesteld op 1.665.000 euro.<br>
 <br>
@@ -9637,13 +9966,21 @@ Voor de begrotingsjaren 2012, 2013 en 2015 worden de bedragen vermeld in paragra
 <br>
 § 10. Het bedrag voor de Vlerick Business School, berekend overeenkomstig dit artikel, wordt vanaf het begrotingsjaar 2020 met 121.000 euro verminderd.<br>
 <br>
-Het bedrag voor de Antwerp Management School, berekend overeenkomstig dit artikel, wordt vanaf het begrotingsjaar 2020 met 63.000 euro verminderd.</p>
+Het bedrag voor de Antwerp Management School, berekend overeenkomstig dit artikel, wordt vanaf het begrotingsjaar 2020 met 63.000 euro verminderd.<br>
+<br>
+§11. Vanaf het begrotingsjaar 2023 wordt het bedrag voor de Vlerick Business School, berekend overeenkomstig dit artikel, vermeerderd met 7750 euro.<br>
+<br>
+Vanaf het begrotingsjaar 2023 wordt het bedrag voor de Antwerp Management School, berekend overeenkomstig dit artikel, vermeerderd met 4000 euro.<br>
+<br>
+Vanaf het begrotingsjaar 2023 wordt het bedrag voor het Instituut voor Tropische Geneeskunde, berekend overeenkomstig dit artikel, vermeerderd met 46.600 euro.<br>
+<br>
+Vanaf het begrotingsjaar 2024 worden de bedragen, vermeld in deze paragraaf, geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.</p>
 
 ## Hoofdstuk 5 Hogere instituten en andere instellingen voor Schone Kunsten
 
 ### ART. III.119.
 
-<p style="margin-left:0cm; margin-right:0cm">§ 1. De Vlaamse Regering kan in de vorm van een jaarlijkse toelage bijdragen in de financiering van de Hogere Instituten voor Schone Kunsten en van instellingen die excellente kunstopleidingen organiseren.<br>
+<p>§ 1. De Vlaamse Regering kan in de vorm van een jaarlijkse toelage bijdragen in de financiering van de Hogere Instituten voor Schone Kunsten en van instellingen die excellente kunstopleidingen organiseren.<br>
 <br>
 De toelage aan P.A.R.T.S. (Performing Arts Research and Training Studios) wordt vanaf het begrotingsjaar 2022 vastgesteld op 1.309.000 euro.<br>
 <br>
@@ -9651,9 +9988,9 @@ De toelage aan het Orpheus Instituut wordt vanaf het begrotingsjaar 2022 vastges
 <br>
 De toelage aan de IOA (International Opera Academy) wordt vanaf het begrotingsjaar 2022 vastgesteld op 576.000 euro.<br>
 <br>
-De toelage aan het HISK (Hoger Instituut voor Schone Kunsten) wordt voor het begrotingsjaar 2022 vastgesteld op 1.000.000 euro.<br>
+De toelage aan het HISK (Hoger Instituut voor Schone Kunsten) wordt voor de begrotingsjaren 2022 en 2023 vastgesteld op 1.000.000 euro.<br>
 <br>
-De toelage aan PoPoK (Posthogeschool voor Podiumkunsten) wordt voor het begrotingsjaar 2022 vastgesteld op 461.000 euro.<br>
+De toelage aan PoPoK (Posthogeschool voor Podiumkunsten) wordt voor de begrotingsjaren 2022 en 2023 vastgesteld op 461.000 euro.<br>
 <br>
 De bedragen, vermeld in deze paragraaf, worden binnen de perken van de begroting van de Vlaamse Gemeenschap vanaf het begrotingsjaar 2022 jaarlijks geïndexeerd aan de hand van de indexeringsformule, vermeld in artikel III.5, § 9.<br>
 <br>
