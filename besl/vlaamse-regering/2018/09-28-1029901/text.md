@@ -296,7 +296,7 @@ De bedragen van de retributies zijn gekoppeld aan het indexcijfer van de gezondh
 
 ### ART 31.
 
-De instelling kan een subsidie van 20 euro ontvangen per deelnemer die wordt geregistreerd conform artikel 23.<br>
+De instelling kan een subsidie van 20 euro, te vermeerderen met de verschuldigde belasting over de toegevoegde waarde, ontvangen per deelnemer die wordt geregistreerd conform artikel 23.<br>
 <br>
 Het bedrag van de subsidie is gekoppeld aan het indexcijfer van de gezondheidsindex dat op 31 december 2017 is bereikt. Het bedrag wordt op 1 januari van elk jaar aangepast aan het indexcijfer van de gezondheidsindex dat op 31 december van het voorgaande jaar bereikt is, en wordt tot op de dichtstbijzijnde euro naar beneden afgerond.
 
