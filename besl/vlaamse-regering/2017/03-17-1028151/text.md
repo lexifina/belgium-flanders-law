@@ -69,15 +69,16 @@ De bedragen in dit besluit zijn uitgedrukt tegen 100% en worden gekoppeld aan he
 <br>
 De subsidie wordt berekend op basis van het aantal gesubsidieerde opvangplaatsen op 1 januari van het kalenderjaar waarvoor de subsidie geldt of op basis van de personen die bij de organisator werken op 1 januari van het kalenderjaar waarvoor de subsidie geldt.&nbsp;In afwijking daarvan wordt de bijkomende subsidie, vermeld in artikel 14/1, berekend op basis van het aantal vergunde plaatsen op 1 september van het kalenderjaar dat voorafgaat aan het kalenderjaar waarvoor de subsidie geldt. Bij een stopzetting wordt de voormelde subsidie pro rata toegekend.<br>
 <br>
-§ 2. De subsidie wordt betaald met één voorschot per jaar en bedraagt maximaal 80% van de geraamde subsidie. Dat voorschot wordt betaald uiterlijk op 30 juni van het kalenderjaar in kwestie. Het saldo wordt uiterlijk afgerekend op 1 april van het kalenderjaar dat volgt op het kalenderjaar in kwestie.<br>
+§2. De subsidie wordt betaald per kwartaal en bedraagt maximaal 95% van de geraamde subsidie. Het voorschot wordt betaald in de eerste maand van elk kwartaal. Het saldo wordt uiterlijk afgerekend op 30 juni van het kalenderjaar dat volgt op het kalenderjaar in kwestie.<br>
 <br>
-In afwijking van het eerste lid kan het agentschap, bij ernstige problemen bij de organisator, en minstens als er een risico is op plotse stopzetting van de specifieke dienstverlening, of bij vermoeden van fraude door de organisator beslissen om een specifieke regeling toe te passen voor de uitbetaling van de voorschotten.<br>
-<br>
-In afwijking van het eerste lid wordt voor de bijkomende subsidie, vermeld in artikel 14/1, per kwartaal een voorschot van 95% uitbetaald in de eerste maand van elk kwartaal.
+In afwijking van het eerste lid kan het agentschap in de volgende gevallen beslissen om een specifieke regeling toe te passen voor de uitbetaling van de voorschotten:<br>
+1°&nbsp;&nbsp; &nbsp;bij ernstige problemen bij de organisator;<br>
+2°&nbsp;&nbsp; &nbsp;als er minstens een risico op plotse stopzetting van de specifieke dienstverlening is;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;bij vermoeden van fraude door de organisator.
 
 ### ART 5.
 
-Het budget voor de subsidie voor werkdrukvermindering voor de organisatoren, vermeld in artikel 8 en 12, bedraagt in totaal&nbsp;4.872.078,95 euro. Het budget voor de subsidie voor werkdrukvermindering voor de organisatoren, vermeld in artikel 19, 24, 27, 31, 32/1 en 35, bedraagt in totaal 776.388,18 euro.<br>
+Het budget voor de subsidie voor werkdrukvermindering voor de organisatoren, vermeld in artikel 8 en 12, bedraagt in totaal 6.627.091,32 euro. Het budget voor de subsidie voor werkdrukvermindering voor de organisatoren, vermeld in artikel 19, 24, 27, 31, 32/1 en 35, bedraagt in totaal 776.388,18 euro.<br>
 <br>
 Het totaalbedrag, vermeld in het eerste lid, wordt geïndexeerd conform artikel 3. Na de indexering wordt het totaalbedrag verdeeld, rekening houdend met de criteria, vermeld in het derde lid, en het aantal voltijdsequivalenten, vermeld in het vierde lid.<br>
 <br>
