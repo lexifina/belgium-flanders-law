@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-§ 1. Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° dienst: de dienst met afzonderlijk beheer "Fonds voor de financiering van het urgentieplan voor de sociale huisvesting";<br /><br />2° Vlaamse minister: de Vlaamse minister bevoegd voor de huisvesting.<br /><br />§ 2....
+...
 
 ## HOOFDSTUK II DE BEGROTING
 
@@ -18,7 +18,7 @@
 
 ### ART. 4.
 
-De ontvangsten bedoeld in artikel 27, 5°, van het voormelde decreet van 18 december 1992 bestaan uit:<br /><br />1° de schenkingen en de legaten;<br /><br />2° de ontvangsten voor orde;<br /><br />3° alle andere toevallige inkomsten.
+...
 
 ### ART. 5.
 
@@ -36,7 +36,7 @@ De ontvangsten bedoeld in artikel 27, 5°, van het voormelde decreet van 18 dece
 
 ### ART. 7bis.
 
-De leidend ambtenaar van het intern verzelfstandigd agentschap Wonen-Vlaanderen wordt aangesteld als ordonnateur van de dienst. Hij kan andere ambtenaren van niveau A die tot zijn agentschap behoren, voordragen als ordonnateur.<br />
+...
 
 ## HOOFDSTUK IV [... (opgeh. BVR 1 juni 2012, art.8)]
 
@@ -70,8 +70,8 @@ De leidend ambtenaar van het intern verzelfstandigd agentschap Wonen-Vlaanderen 
 
 ### ART. 14.
 
-Dit besluit heeft uitwerking met ingang van 8 januari 1993.
+...
 
 ### ART. 15.
 
-De Vlaamse minister bevoegd voor huisvesting en de Vlaamse minister bevoegd voor financiën en begroting, zijn ieder wat hem betreft belast met de uitvoering van dit besluit.
+...
