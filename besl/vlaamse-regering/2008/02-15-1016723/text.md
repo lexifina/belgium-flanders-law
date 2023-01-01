@@ -163,33 +163,83 @@ Is de afwezigheid te wijten aan een ongeval, veroorzaakt door de fout van een de
 
 ### ART. 23.
 
-Dit hoofdstuk is van toepassing op de personeelsleden, vermeld in artikel 1, § 1, zolang ze recht hebben op bezoldigd ziekteverlof als het tijdelijke personeelsleden betreft of zolang ze niet in de stand terbeschikkingstelling wegens ziekte geplaatst worden als het vastbenoemde of tot de proeftijd toegelaten personeelsleden betreft.<br /><br />Dit hoofdstuk is ook van toepassing op de personeelsleden die aangesteld zijn in een mandaat.
+Dit hoofdstuk is van toepassing op de vastbenoemde personeelsleden, vermeld in artikel 1, §1.&nbsp;<br>
+<br>
+Dit hoofdstuk is van toepassing op de tijdelijke personeelsleden, vermeld in artikel 1, §1, zolang ze recht hebben op bezoldigd ziekteverlof.
 
 ### ART. 24.
 
-§ 1. Het personeelslid, vermeld in artikel 23, kan gemachtigd worden om onmiddellijk aansluitend op een periode van bezoldigd ziekteverlof, omwille van een ernstige of langdurige ziekte zijn ambt of ambten met verminderde prestaties uit te oefenen met het oog op het volledig hernemen van de opdracht die het personeelslid uitoefende aan de vooravond van het ziekteverlof.<br /> <br />Het verlof voor verminderde prestaties wegens ziekte kan door het controleorgaan worden toegestaan op aanvraag van het personeelslid of op voorstel van het controleorgaan zelf. In beide gevallen stuurt het personeelslid een geneeskundig attest en een plan, opgemaakt door de behandelende arts, in naar het controleorgaan. In dat plan vermeldt de behandelende arts de vermoedelijke duur van het verlof voor verminderde prestaties wegens ziekte en het volume van de nog te verrichten prestaties tijdens de periode van dat verlof. Met het volume van de nog te verrichten prestaties wordt de verhouding bedoeld, uitgedrukt in procenten, tussen het aantal nog te verrichten prestatie-eenheden en het aantal prestatie-eenheden die vereist zijn voor een ambt met volledige prestaties. Als het controleorgaan oordeelt dat de gezondheidstoestand van de betrokkene dat toelaat, brengt het de Vlaamse minister, bevoegd voor het onderwijs, het Vlaams Ministerie van Onderwijs en Vorming, de directeur van de school, instelling of centrum waar het betrokken personeelslid is tewerkgesteld en het betrokken personeelslid zelf op de hoogte van die beslissing. Het verlof voor verminderde prestaties wegens ziekte kan pas aanvangen na de voorafgaande goedkeuring van het plan door het controleorgaan.<br /><br />§ 2. De personeelsleden die de periode vermeld in artikel 32, zesde lid, hebben opgebruikt, hebben het recht om onder de voorwaarden vermeld in paragraaf 1, een verlof voor verminderde prestaties wegens ziekte aan te vragen.<br /><br />§ 3. De personeelsleden van wie de tewerkstelling met verminderde prestaties eindigt overeenkomstig de volgende bepalingen, hebben het recht om onder de voorwaarden, vermeld in paragraaf 1, tweede lid, een verlof voor verminderde prestaties wegens ziekte aan te vragen : <br />1° artikel 32bis van het koninklijk besluit van 24 januari 1969 betreffende de schadevergoeding ten gunste van personeelsleden van de overheidssector, voor arbeidsongevallen en voor ongevallen op de weg naar en van het werk;<br />2° artikel 19bis het koninklijk besluit van 5 januari 1971 betreffende de schadevergoeding voor beroepsziekten in de overheidssector. <br /><br />§ 4. In afwijking van paragraaf 1, eerste lid, kan het verlof voor verminderde prestaties wegens ziekte onmiddellijk aansluiten op de periode, vermeld in paragraaf 2 of in paragraaf 3.
+§ 1. Het personeelslid, vermeld in artikel 23, kan een aanvraag indienen om onmiddellijk aansluitend op een periode van bezoldigd ziekteverlof of van terbeschikkingstelling wegens ziekte, omwille van een ernstige of langdurige ziekte zijn ambt of ambten met verminderde prestaties uit te oefenen met het oog op het volledig hernemen van de opdracht die het personeelslid uitoefende aan de vooravond van de afwezigheid wegens ziekte.<br>
+<br>
+Het verlof voor verminderde prestaties wegens ziekte kan door het controleorgaan worden toegestaan op aanvraag van het personeelslid of op voorstel van het controleorgaan zelf. In beide gevallen stuurt het personeelslid een aanvraag in de vorm van een plan, opgemaakt door de behandelende arts, in naar het controleorgaan. In dat plan vermeldt de behandelende arts de vermoedelijke duur van het verlof voor verminderde prestaties wegens ziekte en het volume van de nog te verrichten prestaties tijdens de periode van dat verlof. Met het volume van de nog te verrichten prestaties wordt de verhouding bedoeld, uitgedrukt in procenten, tussen het aantal nog te verrichten prestatie-eenheden en het aantal prestatie-eenheden die vereist zijn voor een ambt met volledige prestaties. Als het controleorgaan oordeelt dat de gezondheidstoestand van de betrokkene dat toelaat, brengt het het Vlaams Ministerie van Onderwijs en Vorming, de directeur van de school, instelling of centrum waar het betrokken personeelslid is tewerkgesteld en het betrokken personeelslid zelf op de hoogte van die beslissing. Het verlof voor verminderde prestaties wegens ziekte kan pas aanvangen na de voorafgaande goedkeuring van het plan door het controleorgaan.&nbsp;De totale duur van het verlof kan ook bestaan uit opeenvolgende periodes met een verschillend volume van nog te verrichten prestaties. Het volume van de nog te verrichten prestaties wordt in dat geval telkens groter.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. De personeelsleden van wie de tewerkstelling met verminderde prestaties eindigt overeenkomstig de volgende bepalingen, hebben het recht om onder de voorwaarden, vermeld in paragraaf 1, tweede lid, een verlof voor verminderde prestaties wegens ziekte aan te vragen :<br>
+1° artikel 32bis van het koninklijk besluit van 24 januari 1969 betreffende de schadevergoeding ten gunste van personeelsleden van de overheidssector, voor arbeidsongevallen en voor ongevallen op de weg naar en van het werk;<br>
+2° artikel 19bis het koninklijk besluit van 5 januari 1971 betreffende de schadevergoeding voor beroepsziekten in de overheidssector.<br>
+<br>
+§ 4. In afwijking van paragraaf 1, eerste lid, kan het verlof voor verminderde prestaties wegens ziekte onmiddellijk aansluiten op de periode, vermeld in paragraaf 3.
 
 ### ART. 25.
 
-Het personeelslid dat een verlof voor verminderde prestaties wegens ziekte krijgt, moet zijn ambt of ambten opnieuw opnemen voor het volume dat vastgelegd is in het plan. Het aantal nog te verrichten prestaties moet wel ten minste 50 % bedragen van het aantal prestatie-eenheden die vereist zijn voor een ambt met volledige prestaties. De nog te verrichten prestaties worden altijd afgerond naar de hogere eenheid, naargelang het geval, op een volledige lestijd, een volledig lesuur, of een volledig uur. Het volume blijft ongewijzigd gedurende de volledige periode van het verlof zoals vermeld in het plan.<br>
+Het personeelslid dat een verlof voor verminderde prestaties wegens ziekte krijgt, moet zijn ambt of ambten opnieuw opnemen voor het volume dat vastgelegd is in het plan. Het aantal nog te verrichten prestaties moet ten minste 20 % bedragen van het aantal prestatie-eenheden die vereist zijn voor een ambt met volledige prestaties. De nog te verrichten prestaties worden altijd afgerond naar de hogere eenheid, naargelang het geval, op een volledige lestijd, een volledig lesuur, of een volledig uur.&nbsp;<br>
 <br>
 De prestaties, verricht door personeelsleden die belast zijn met een opdracht aan een hogeschool, als vermeld in artikel 2, 39°, van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap, komen enkel en alleen in aanmerking om het volume te bepalen van de nog te verrichten prestaties.
 
+### ART 25/1.
+
+Als het personeelslid het volume of de duur van een periode, die zijn vastgelegd in het plan, wil wijzigen, dient het personeelslid bij het controleorgaan opnieuw een plan in, dat de behandelende arts opmaakt.
+
 ### ART. 26.
 
-Het controleorgaan kan het plan toestaan of weigeren. Als het controleorgaan het plan goedkeurt voor een periode van meer dan twee maanden, gaat het op het einde van iedere periode van twee maanden na of de gezondheidstoestand van het personeelslid de verdere uitvoering van het plan nog wettigt. Daarover maakt het bij de ingang van het plan onmiddellijk afspraken met het personeelslid.<br /><br />Als het personeelslid zich op de afgesproken datum niet ter controle kan aanbieden, legt het controleorgaan, mits voorafgaande verwittiging door en in samenspraak met het personeelslid, een nieuwe afspraak vast, zonder de termijn van twee maanden te overschrijden. <br /><br />Als het controleorgaan het plan of de verdere uitvoering ervan niet goedkeurt, kan het personeelslid beroep aantekenen overeenkomstig de bepalingen van artikel 20/2, derde en vierde lid, van het besluit van de Vlaamse Regering van 8 december 1993 betreffende de controle op de afwezigheid wegens ziekte.
+Het controleorgaan kan het plan toestaan of weigeren. Als het controleorgaan dat nodig acht, kan het een tussentijdse controle vastleggen om na te gaan of de gezondheidstoestand van het personeelslid de verdere uitvoering van het plan nog wettigt. In dat geval geldt de goedkeuring voor het verlof voor &nbsp;verminderde prestaties wegens ziekte voor een beperktere periode. Over de eventuele tussentijdse controle maakt het controleorgaan bij de goedkeuring van het plan of bij een tussentijdse controle afspraken met het personeelslid.<br>
+<br>
+Als het personeelslid zich op de afgesproken datum niet ter controle kan aanbieden, legt het controleorgaan, mits voorafgaande verwittiging door en in samenspraak met het personeelslid, een nieuwe afspraak vast.<br>
+<br>
+Als het controleorgaan het plan of de verdere uitvoering ervan niet goedkeurt, kan het personeelslid beroep aantekenen overeenkomstig de bepalingen van artikel 20/1 van het besluit van de Vlaamse Regering van 8 december 1993 betreffende de controle op de afwezigheid wegens ziekte.
 
 ### ART. 27.
 
-Aan het verlof voor verminderde prestaties wegens ziekte wordt een einde gesteld in de volgende gevallen : <br />1° op het ogenblik dat het personeelslid de opdracht herneemt die het uitoefende aan de vooravond van het verlof;<br />2° als het controleorgaan niet instemt met de verdere uitvoering van het plan;<br />3° op het ogenblik dat het personeelslid geen recht meer heeft op bezoldigd ziekteverlof of in de stand terbeschikkingstelling wegens ziekte geplaatst wordt;<br />4° als het volume van de nog uitgeoefende prestaties kleiner wordt dan het volume vermeld in het plan;<br />5° als de duur van de periode van het verlof voor verminderde prestaties wegens ziekte verstrijkt;<br />6° als het personeelslid zich zonder wettige redenen onttrekt aan de controle van het controleorgaan.
+Aan het verlof voor verminderde prestaties wegens ziekte wordt een einde gesteld in de volgende gevallen :<br>
+1° op het ogenblik dat het personeelslid de opdracht herneemt die het uitoefende aan de vooravond van het verlof;<br>
+2° als het controleorgaan&nbsp;na een tussentijdse controle als vermeld in artikel 26, eerste lid, niet instemt met de verdere uitvoering van het plan;<br>
+3° op het ogenblik dat het tijdelijk personeelslid geen recht meer heeft op bezoldigd ziekteverlof ;<br>
+4° op het ogenblik dat het volume van de nog uitgeoefende prestaties kleiner wordt dan het volume dat op dat ogenblik vooropgesteld wordt in het plan, vermeld in artikel 24, §1;<br>
+5° als de duur van de goedgekeurde periode van het verlof voor verminderde prestaties wegens ziekte verstrijkt;<br>
+6° als het personeelslid zich zonder wettige redenen onttrekt aan de controle van het controleorgaan;<br>
+7° als het personeelslid 24 maanden verlof voor verminderde prestaties wegens ziekte zoals vermeld in artikel 27/1, heeft opgenomen;<br>
+8° als het personeelslid de maximumduur van zes maanden overschrijdt, waarbij minder dan 50% van het aantal prestatie-eenheden wordt gepresteerd dat vereist is voor een ambt met volledige prestaties.<br>
+&nbsp;
+
+### ART 27/1.
+
+Een personeelslid kan gedurende zijn loopbaan maximaal 24 maanden verlof voor verminderde prestaties wegens ziekte opnemen, waarvan gedurende maximaal zes maanden minder dan 50% van het aantal prestatie-eenheden mag worden gepresteerd dat vereist is voor een ambt met volledige prestaties.&nbsp;<br>
+<br>
+Enkel de periodes van verlof voor verminderde prestaties wegens ziekte opgenomen vanaf 1 januari 2023 tellen mee voor de berekening van de maximumtermijnen vermeld in het eerste lid.
 
 ### ART. 28.
 
-Het verlof voor verminderde prestaties wegens ziekte wordt geschorst zodra het personeelslid, binnen de statutaire bepalingen die op hem van toepassing zijn, een dienstonderbreking opneemt. Het verlof voor verminderde prestaties wegens ziekte wordt ook geschorst in het geval van ziekte.<br />
+Het verlof voor verminderde prestaties wegens ziekte wordt geschorst zodra het personeelslid, binnen de statutaire bepalingen die op hem van toepassing zijn, een dienstonderbreking opneemt, met uitzondering van het omstandigheidsverlof, het verlof wegens overmacht en een ziekteverlof van minder dan veertien kalenderdagen. De periode van schorsing wordt niet meegerekend om het totaal van 24 maanden verlof voor verminderde prestaties wegens ziekte, vermeld in artikel 27/1, te berekenen. Na de beëindiging van de dienstonderbreking neemt het personeelslid het verlof voor verminderde prestaties wegens ziekte opnieuw op conform het plan, vermeld in artikel 24, §1.<br>
+<br>
+Dienstonderbrekingen die al zijn ingegaan voor de ingangsdatum van het verlof voor verminderde prestaties wegens ziekte, kunnen gecombineerd worden met het verlof voor verminderde prestaties wegens ziekte, op voorwaarde dat het volume van de nog te verrichten prestaties dat is opgenomen in het plan, vermeld in artikel 24, §1, wordt gerespecteerd.<br>
+<br>
+Het personeelslid kan niet gelijktijdig gebruikmaken van het verlof voor verminderde prestaties wegens ziekte en van de deeltijdse hervatting na ziekte in het kader van een beslissing van de adviserende arts van het ziekenfonds.
 
 ### ART. 28/1.
 
-§ 1. Het verlof voor verminderde prestaties wegens ziekte wordt beschouwd als ziekteverlof en wordt gelijkgesteld met een periode van dienstactiviteit.<br /><br />De aanrekening van dit ziekteverlof gebeurt als volgt : <br />1° per dag wordt een halve dag ziekteverlof aangerekend als het personeelslid een opdracht uitoefent die kleiner is dan 75 % van het aantal prestatie-eenheden vereist voor een ambt met volledige prestaties;<br />2° per dag wordt een vierde dag ziekteverlof aangerekend als het personeelslid een opdracht uitoefent die minstens 75 % bedraagt van het aantal prestatie-eenheden vereist voor een ambt met volledige prestaties.<br /><br />§ 2. Tijdens het verlof voor verminderde prestaties wegens ziekte heeft het personeelslid recht op het salaris dat of de salaristoelage die het zou gehad hebben als het geen verlof voor verminderde prestaties wegens ziekte zou genoten hebben. <br /><br />Met behoud van de toepassing van artikel 25, eerste lid, zal het personeelslid dat een bijkomende aanstelling verwerft tijdens de periode van het verlof voor verminderde prestaties wegens ziekte, pas recht hebben op een salaris of een salaristoelage voor die bijkomende aanstelling vanaf het ogenblik dat het verlof voor verminderde prestaties wegens ziekte beëindigd is. <br /><br />Als een gedeelte van de opdracht wegvalt tijdens de periode van het verlof voor verminderde prestaties wegens ziekte en als het personeelslid nog aan alle gestelde voorwaarden blijft voldoen, zal het salaris of de salaristoelage vastgesteld worden op basis van de nog resterende opdracht.
+§1. Als het personeelslid nog beschikt over bezoldigd ziekteverlof, wordt het verlof voor verminderde prestaties wegens ziekte beschouwd als ziekteverlof en gelijkgesteld met een periode van dienstactiviteit. Als het vastbenoemde personeelslid geen bezoldigd ziekteverlof meer heeft, wordt het verlof voor verminderde prestaties beschouwd als een terbeschikkingstelling wegens ziekte.&nbsp;<br>
+<br>
+De aanrekening van het ziekteverlof gebeurt op de volgende wijze:<br>
+1°&nbsp;&nbsp; &nbsp;per dag wordt drievierdedag ziekteverlof aangerekend als het personeelslid een opdracht uitoefent die groter is dan of gelijk is aan 20% en kleiner is dan 50% van het aantal prestatie-eenheden dat vereist is voor een ambt met volledige prestaties;<br>
+2°&nbsp;&nbsp; &nbsp;per dag wordt een halve dag ziekteverlof aangerekend als het personeelslid een opdracht uitoefent die groter is dan of gelijk is aan 50% en kleiner is dan 75% van het aantal prestatie-eenheden dat vereist is voor een ambt met volledige prestaties;<br>
+3°&nbsp;&nbsp; &nbsp;per dag wordt eenvierdedag ziekteverlof aangerekend als het personeelslid een opdracht uitoefent die minstens 75% bedraagt van het aantal prestatie-eenheden dat vereist is voor een ambt met volledige prestaties.<br>
+<br>
+§ 2. Tijdens het verlof voor verminderde prestaties wegens ziekte heeft het personeelslid dat nog recht heeft op bezoldigd ziekteverlof recht op het salaris dat of de salaristoelage die het zou gehad hebben als het geen verlof voor verminderde prestaties wegens ziekte zou genoten hebben.&nbsp;Het vastbenoemde personeelslid dat geen recht meer heeft op bezoldigd ziekteverlof, heeft recht op een salaris of salaristoelage voor de uitgeoefende prestaties. Voor de niet-verrichte prestaties waarvoor het personeelslid het verlof voor verminderde prestaties wegens ziekte opneemt, ontvangt het personeelslid een wachtgeld van 60 % van het salaris dat of salaristoelage die het gehad zou hebben als het geen verlof voor verminderde prestaties wegens ziekte genoten zou hebben.<br>
+<br>
+Met behoud van de toepassing van artikel 25, eerste lid, zal het personeelslid dat een bijkomende aanstelling verwerft tijdens de periode van het verlof voor verminderde prestaties wegens ziekte, pas recht hebben op een salaris of een salaristoelage voor die bijkomende aanstelling vanaf het ogenblik dat het verlof voor verminderde prestaties wegens ziekte beëindigd is.<br>
+<br>
+Als een gedeelte van de opdracht wegvalt tijdens de periode van het verlof voor verminderde prestaties wegens ziekte en als het personeelslid nog aan alle gestelde voorwaarden blijft voldoen, zal het salaris of de salaristoelage vastgesteld worden op basis van de nog resterende opdracht.
 
 ## [HOOFDSTUK III/1 Langdurig verlof voor verminderde prestaties wegens medische redenen (ing. BVR 17 oktober 2014, art. 14, I: 1 januari 2015)]
 
@@ -203,7 +253,13 @@ Het personeelslid, vermeld in artikel 28/2, dat om medische redenen zijn   ambt 
 
 ### ART. 28/4.
 
-§ 1. Het langdurig verlof voor verminderde prestaties wegens medische   redenen kan aanvangen na een periode van ten minste dertig dagen ononderbroken   afwezigheid door :<BR>1° ziekteverlof;<BR>2° terbeschikkingstelling wegens   ziekte;<BR>3° verlof voor verminderde prestaties na een arbeidsongeval;<BR>4°   wederaanpassing met een halve dagtaak.<BR><BR>§ 2. In afwijking van paragraaf 1   kunnen personeelsleden die op de vooravond van de aanvraag van het langdurig   verlof voor verminderde prestaties wegens medische redenen minstens halftijds   werken en daarnaast een dienstonderbreking hebben opgenomen, overstappen naar   het langdurig verlof voor verminderde prestaties wegens medische redenen. In dat   geval eindigt de dienstonderbreking op het ogenblik dat het langdurig verlof   voor verminderde prestaties wegens medische redenen ingaat.
+§ 1. Het langdurig verlof voor verminderde prestaties wegens medische redenen kan aanvangen na een periode van ten minste dertig dagen ononderbroken afwezigheid door :<br>
+1° ziekteverlof;<br>
+2° terbeschikkingstelling wegens ziekte;<br>
+3° verlof voor verminderde prestaties na een arbeidsongeval;<br>
+4° ...<br>
+<br>
+§ 2. In afwijking van paragraaf 1 kunnen personeelsleden die op de vooravond van de aanvraag van het langdurig verlof voor verminderde prestaties wegens medische redenen minstens halftijds werken en daarnaast een dienstonderbreking hebben opgenomen, overstappen naar het langdurig verlof voor verminderde prestaties wegens medische redenen. In dat geval eindigt de dienstonderbreking op het ogenblik dat het langdurig verlof voor verminderde prestaties wegens medische redenen ingaat.
 
 ### ART. 28/5.
 
@@ -275,7 +331,7 @@ Het personeelslid dat wegens ziekte ter beschikking gesteld is, ontvangt een wac
 
 ### ART. 32.
 
-Als Medex voorstelt dat een personeelslid dat ter beschikking gesteld is wegens ziekte geschikt is om onmiddellijk bij wijze van wederaanpassing gedurende een bepaalde periode met een halve dagtaak te werken en zodra het personeelslid aan dat voorstel gevolg geeft, is de terbeschikkingstelling wegens ziekte ambtshalve beëindigd. <br /><br />Het personeelslid heeft in het geval vermeld in het eerste lid, het recht elke week een of meer ambten uit te oefenen die samen de helft van het aantal prestatie-eenheden omvatten die vereist zijn voor een ambt met volledige prestaties. Voor het berekenen van de halve opdracht die het personeelslid moet blijven uitoefenen, komen de uren waarvoor hij tijdelijk is aangesteld en komen de prestaties in een opdracht aan een hogeschool als vermeld in artikel 2, 39°, van het hetzelfde decreet van 13 juli 1994 eveneens in aanmerking. De nog te verrichten prestaties moeten steeds worden afgerond naar de hogere eenheid, naargelang van het geval tot een volledige lestijd of tot een volledig uur.<br /><br />Het personeelslid mag de halftijdse prestaties alleen uitoefenen gedurende de periode die in de beslissing van het voormelde bestuur wordt vermeld. Die periode is echter ambtshalve tot een maximum van negentig kalenderdagen beperkt.<br /><br />Het personeelslid dat, tijdens de toegestane lopende periode van halftijdse prestaties, afwezig is wegens ziekte, behoudt na deze afwezigheid het recht om de halftijdse prestaties voor het nog resterend aantal dagen van de toegestane periode verder te zetten. Dit recht geldt niet indien het gaat om een afwezigheid wegens ziekte die langer dan veertien opeenvolgende kalenderdagen duurt.<br /><br />Met behoud van de toepassing van artikel 24, § 1, eerste lid, mag het personeelslid in een periode van tien jaar zijn ambt in totaal niet meer dan negentig kalenderdagen met dergelijke halftijdse prestaties uitoefenen. Voor het bepalen ven de negentig kalenderdagen worden alleen periodes van halftijdse prestaties wegens ziekte geteld.<br /><br />Het personeelslid heeft recht op een periode van maximaal negentig kalenderdagen halftijdse prestaties, op voorwaarde dat het in de periode van maximaal tien jaar die aan die periode voorafgaat nog geen negentig kalenderdagen met halftijdse prestaties heeft genoten.<br /><br />Tijdens de periode dat het personeelslid die halftijdse prestaties uitoefent, wordt de halftijdse afwezigheid wegens ziekte beschouwd als verlof, gelijkgesteld met een periode van dienstactiviteit. Tijdens dit verlof heeft het personeelslid recht op het salaris dat of de salaristoelage die het zou hebben gehad mocht het zijn volledige dagtaak hebben uitgeoefend. <br /><br />
+...
 
 ## HOOFDSTUK V Wijzigingsbepaling
 
@@ -334,6 +390,24 @@ In artikel 192 van het decreet van 1 december 1998 betreffende de centra voor le
 ### ART. 45.
 
 De berekeningswijze van het bezoldigd ziekteverlof voor de in artikel 2 en 10 genoemde personeelsleden heeft voor de periode tot en met 31 augustus 2007 geen gevolgen, noch voor de personeelsleden, noch voor de inrichtende machten en is definitief verworven.<br /><br />Indien het bedrag hoger is dan het bedrag vastgesteld op grond van artikel 30 ontvangt het lid van het administratief personeel, het statutair meesters-, vak- en dienstpersoneel, de administratief medewerker van het ondersteunend personeel van het gewoon en buitengewoon secundair onderwijs en de administratief medewerker van het beleids- en ondersteunend personeel van het basisonderwijs dat vóór 1 september 2007 wegens ziekte ter beschikking was gesteld en na die datum ononderbroken in die administratieve stand blijft, verder het wachtgeld of de wachtgeldtoelage waarop het op grond van de op 31 augustus 2007 geldende reglementering recht had. <br /><br />
+
+### ART 45/1.
+
+Een personeelslid dat een verlof voor verminderde prestaties wegens ziekte neemt dat ingegaan is voor 1 januari 2023, kan zijn plan dat goedgekeurd werd voor 1 januari 2023 &nbsp;voortzetten tot de voorziene einddatum. Bij de eerstvolgende tweemaandelijkse tussentijdse controle kan het controleorgaan, conform artikel 26, een volgende tussentijdse controle vastleggen als het dat nodig acht.<br>
+<br>
+De periode van verlof voor verminderde prestaties wegens ziekte opgenomen vanaf 1 januari 2023 telt mee voor de berekening van de maximumtermijnen vermeld in artikel 27/1, eerste lid.
+
+### ART 45/2.
+
+De personeelsleden die een wederaanpassing met halve dagtaak opnemen die ingegaan is voor 1 januari 2023, kunnen de lopende periode van wederaanpassing met halve dagtaak verderzetten volgens de regelgeving over de wederaanpassing met halve dagtaak die van kracht was voor 1 januari 2023.&nbsp;<br>
+<br>
+De personeelsleden die een wederaanpassing met halve dagtaak opnemen die ingegaan is voor 1 januari 2023, hebben na afloop van de periode van wederaanpassing met halve dagtaak het recht om onder de voorwaarden vermeld in artikel 24, paragraaf 1, een verlof voor verminderde prestaties wegens ziekte aan te vragen.<br>
+<br>
+De personeelsleden die een wederaanpassing met halve dagtaak opnemen die ingegaan is voor 1 januari 2023, hebben na afloop van de periode van wederaanpassing met halve dagtaak het recht om onder de voorwaarden vermeld in artikel 28/5, een langdurig verlof voor verminderde prestaties wegens medische redenen aan te vragen.
+
+### ART 45/3.
+
+Aanvragen die na 1 januari 2023 en tot 1 maart 2023 zijn gebeurd volgens de oude regeling worden geacht te voldoen aan de formele vereisten die voortvloeien uit de bepalingen die van kracht zijn vanaf 1 januari 2023.
 
 ## HOOFDSTUK VIII Slotbepalingen
 
