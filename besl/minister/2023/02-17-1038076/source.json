@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038076,
+  "title": "Ministerieel besluit van 2023-02-17 over de verdeling van de middelen voor de terbeschikkingstelling van budgetten voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor het jaar 2023",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038076/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "885db0f9e621e02d9f0f79a59298662cbaf75a02831ce3613d2834264f6e6a79",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038076&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2023-02-17",
+  "gazette": "2023-05-03",
+  "numac": 2023030470,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
