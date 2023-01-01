@@ -31,7 +31,7 @@ In dit besluit wordt verstaan onder:<br>
 1° beheersinstantie: de rechtspersoon of natuurlijke persoon die een woonzorgcentrum vertegenwoordigt en juridisch kan binden.<br>
 2° inwonende persoon: de natuurlijke persoon die voldoet aan de voorwaarden vermeld in artikel 53/1, § 1, eerste lid, 1° of 2° van het Woonzorgdecreet van 13 maart 2009;<br>
 3° aangemelde woongelegenheid: de woongelegenheid die wordt aangemeld bovenop de erkende capaciteit van een woonzorgcentrum waarin de inwonende persoon conform artikel 53/1 van het Woonzorgdecreet van 13 maart 2009, verblijft;<br>
-4° agentschap: het intern verzelfstandigd agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004;<br>
+4° ...;<br>
 &nbsp;
 
 ### ART 2.
