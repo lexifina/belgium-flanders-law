@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038045,
+  "title": "Besluit van de Vlaamse Regering van 2022-12-23 tot wijziging van het besluit van de Vlaamse Regering van 25 september 2015 betreffende steun aan projecten in het kader van het Europees Fonds voor de Regionale Ontwikkeling en het Europees Sociaal Fonds",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038045/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "c4787df3f5cb5f0adfc9b1a8677b102307d5c40985c0f1c03e9b7e1d7eb84014",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038045&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2022-12-23",
+  "gazette": "2023-04-19",
+  "numac": 2023040675,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
