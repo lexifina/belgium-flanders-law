@@ -941,7 +941,9 @@ Het agentschap kent aan de volgende organisatoren een erkenning voor drie jaar t
 2° vzw Thuishulp voor het prenataal consultatiebureau gelegen in de Atletenstraat 80 in 2020 Antwerpen;<br>
 3° vzw Kind en Preventie voor het prenataal consultatiebureau gelegen in de Pothoekstraat 112 in 2060 Antwerpen en het prenataal consultatiebureau gelegen in de Bevrijdingslaan 88 in 9000 Gent.<br>
 <br>
-Vanaf 1 januari 2022 worden de erkenningen voor de organisatie en het beheer van een prenataal consultatiebureau, vermeld in het eerste lid, voor een periode van een jaar verlengd.
+Vanaf 1 januari 2022 worden de erkenningen voor de organisatie en het beheer van een prenataal consultatiebureau, vermeld in het eerste lid, voor een periode van een jaar verlengd.<br>
+<br>
+Vanaf 1 januari 2023 worden de erkenningen voor de organisatie en het beheer van een prenataal consultatiebureau, vermeld in het eerste lid, die conform het tweede lid zijn verlengd, voor een periode van zes maanden verlengd.
 
 ### ART 98.
 
