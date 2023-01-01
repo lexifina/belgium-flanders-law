@@ -108,18 +108,15 @@ Voor de toepassing van het besluit van de Vlaamse Regering van 5 juni 2009 tot v
 
 ### ART. 7.
 
-Op de bijkomende erkenning van een woonzorgcentrum dat voor meerdere vestigingen is erkend, zijn de bepalingen van het besluit van de Vlaamse Regering van 25 april 2014 tot vaststelling van de procedures voor de gezondheidszorgvoorzieningen van toepassing, met dien verstande dat:<br>
-1° de eerste aanvraag tot erkenning voor elke vestiging van het woonzorgcentrum de documenten, vermeld in artikel 32, 1°, van het voormelde besluit, bevat;<br>
-2° het onderzoek naar de naleving van de gestelde erkenningsnormen en -voorwaarden, vermeld in artikel 36 van het voormelde besluit, voor elk van de vestigingen van het woonzorgcentrum afzonderlijk plaatsvindt;<br>
-3° de bepalingen van hoofdstuk III, afdeling 5, 6 en 7, van het voormelde besluit op elk van de vestigingen van het woonzorgcentrum afzonderlijk kunnen worden toegepast.
+...
 
 ### ART. 8.
 
-Elke vestiging van een woonzorgcentrum dat erkend is als een woonzorgcentrum met een bijkomende erkenning, voldoet aan de bijkomende erkenningsvoorwaarden, vermeld in hoofdstuk III/1 van bijlage XII van het besluit van 24 juli 2009.
+...
 
 ### ART. 9.
 
-Als voor een vestiging van een erkend woonzorgcentrum, dat ook de bijkomende erkenning heeft gekregen, vermeld in artikel 10/4 van het besluit van 24 juli 2009, de erkenning als woonzorgcentrum wordt ingetrokken met toepassing van artikel 4, § 2, van dit besluit, wordt voor die vestiging ook de bijkomende erkenning ingetrokken. Het aantal woongelegenheden dat in die vestiging erkend was als een woonzorgcentrum met een bijkomende erkenning, kan niet met behoud van die erkenning worden uitgebaat in de andere vestigingen van het woonzorgcentrum.
+...
 
 ## [HOOFDSTUK 4/1 Erkenning van meerdere vestigingen als dagverzorgingscentrum met een bijkomende erkenning (ing. BVR 29 maart 2019, art. 5, I: 1 juni 2019)]
 
