@@ -40,7 +40,7 @@ Per huisartsenkring worden de gebieden opgesomd die deel uitmaken van het werkin
 25° Huisartsenkring Dilsen-Stokkem : Dilsen-Stokkem;<br>
 26° Huisartsenkring Hoeilaart : Hoeilaart;<br>
 27° Huisartsenkring Hoeilaart &amp; Overijse : Overijse;<br>
-28° Huisartsenkring Hoppeland : Asse, Merchtem;<br>
+28° Huisartsenkring Hoppeland : Asse, Merchtem, Opwijk;<br>
 29° Huisartsenkring Huisartsen Noordrand : Grimbergen, Kampenhout,&nbsp;Kapelle-op-den-Bos, Londerzeel, Machelen, Meise, Steenokkerzeel, Vilvoorde, Wemmel, Zemst;<br>
 30° ...;<br>
 31° Huisartsenkring Izegem - Ingelmunster - Lendelede : Ingelmunster, Izegem, Lendelede;<br>
@@ -53,7 +53,7 @@ Per huisartsenkring worden de gebieden opgesomd die deel uitmaken van het werkin
 38° Huisartsenkring Middenkust : Bredene, Oostende;<br>
 39° Huisartsenkring Moerland : Kapellen;<br>
 40° Huisartsenkring Noord Antwerpen : Antwerpen (2030, 2040, 2170, 2180), Schoten, Stabroek;<br>
-41° Huisartsenkring Opwijk : Opwijk;<br>
+41° ...;<br>
 42° Huisartsenkring Pajottenland : Bever, Dilbeek, Galmaarden, Gooik, Herne, Lennik, Roosdaal, Ternat;<br>
 43° Huisartsenkring Pallieterland en Omgeving : Berlaar, Duffel, Lier, Nijlen, Ranst;<br>
 44° Huisartsenkring Panacea : Brakel, Herzele, Lierde, Oosterzele, Sint-Lievens-Houtem, Zottegem;<br>
@@ -71,7 +71,7 @@ Per huisartsenkring worden de gebieden opgesomd die deel uitmaken van het werkin
 56° Huisartsenkring Wezembeek-Oppem en Kraainem : Kraainem, Wezembeek-Oppem;<br>
 57° Huisartsenkring Zuid-West-Vlaanderen : Anzegem, Avelgem, Deerlijk, Harelbeke, Kortrijk, Kuurne, Menen, Spiere-Helkijn, Waregem, Wervik,&nbsp;Wevelgem, Wielsbeke, Zwevegem;<br>
 58° Huisartsenvereniging Minerva: Antwerpen (2000, 2018, 2060, 2600);<br>
-59° Huisartsenvereniging Aprilia Zuid-Oost-Hageland : Boutersem, Geetbets, Glabbeek, Hoegaarden, Kortenaken, Linter, Tienen, Zoutleeuw;<br>
+59° Huisartsenkring vereniging zonder winstoogmerk Huisartsen Zuid-Oost Hageland : Boutersem, Geetbets, Glabbeek, Hoegaarden, Kortenaken, Landen, Linter, Tienen, Zoutleeuw;<br>
 60° Huisartsenvereniging Brecht-Wuustwezel : Brecht, Wuustwezel;<br>
 61° Huisartsenvereniging der Durmestreek : Lokeren, Moerbeke;<br>
 62° Huisartsenvereniging Essen-Nieuwmoer : Essen;<br>
@@ -82,7 +82,7 @@ Per huisartsenkring worden de gebieden opgesomd die deel uitmaken van het werkin
 67° Huisartsenvereniging Regio Turnhout : Arendonk, Baarle-Hertog, Beerse, Dessel, Hoogstraten, Kasterlee, Lille, Merksplas, Oud-Turnhout, Ravels, Retie, Rijkevorsel, Turnhout, Vosselaar;<br>
 68° Huisartsenvereniging Voorkempen : Schilde, Wijnegem;<br>
 69° Kring Huisartsen Oost-Brabant: Bertem, Bierbeek, Boortmeerbeek, Haacht, Herent, Holsbeek, Huldenberg, Kortenberg, Leuven, Lubbeek, Oud-Heverlee, Rotselaar;<br>
-70° Landense Huisartsenkring : Landen;<br>
+70° ...;<br>
 71° Lommelse Huisartsenkring : Lommel;<br>
 72° Noord-Limburgse Huisartsenkring : Bocholt, Hamont-Achel, Hechtel-Eksel, Peer, Pelt;<br>
 73° ...;<br>
