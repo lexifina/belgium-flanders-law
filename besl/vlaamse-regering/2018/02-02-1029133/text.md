@@ -347,11 +347,11 @@ De Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, de Vlaamse minister
 
 ### ART 32.
 
-§ 1. De begeleiding op en naar een werkvloer die deel uitmaakt van een activeringstraject als vermeld in artikel 23, eerste lid, 1°, van het decreet van 25 april 2014, bestaat minimaal uit een activeringsstage als vermeld in artikel 111/0/13 tot en met artikel 111/0/20 van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding.<br>
+§ 1. De begeleiding op en naar een werkvloer die deel uitmaakt van een activeringstraject als vermeld in artikel 23, eerste lid, 1°, van het decreet van 25 april 2014, bestaat minimaal uit een werkervaringsstage als vermeld in artikel 111/0/1 tot en met artikel 111/0/12 van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding.<br>
 <br>
-De activeringsstage, vermeld in het eerste lid, kan bij verschillende werkgevers dan wel in verschillende functies bij dezelfde werkgever georganiseerd worden.<br>
+De werkervaringsstage, vermeld in het eerste lid, kan bij verschillende werkgevers dan wel in verschillende functies bij dezelfde werkgever georganiseerd worden.<br>
 <br>
-De activeringsstage, vermeld in het eerste lid, kan alleen begeleid worden door de werkactor, vermeld in artikel 18, § 1, tweede lid, 1°, c), van het voormelde decreet.<br>
+De werkervaringsstage, vermeld in het eerste lid, kan alleen begeleid worden door de werkactor, vermeld in artikel 18, § 1, tweede lid, 1°, c), van het voormelde decreet.<br>
 <br>
 § 2. Tijdens het activeringstraject kan de VDAB, na het advies van de casemanager Werk en de casemanager Zorg, beslissen om de deelnemer toe te leiden als een kandidaat-arbeidszorgmedewerker, als vermeld in artikel 1, 16°, van het besluit van de Vlaamse regering van 8 december 1998 tot uitvoering van het decreet inzake sociale werkplaatsen, of als een kandidaat-arbeidszorgmedewerker in de arbeidszorginitiatieven op het vlak van de sociale economie.<br>
 &nbsp;
