@@ -391,19 +391,21 @@ De verwarmingsaudit, bedoeld in artikel 9, § 2, 3°, c), wordt uitgevoerd aan d
 
 Afgeven en ter beschikking houden van attesten en rapporten<br>
 <br>
-§ 1. De persoon die de keuring van een nieuw centraal stooktoestel, bedoeld in artikel 7, uitvoert, overhandigt aan de eigenaar een behoorlijk ingevuld keuringsrapport en een verbrandingsattest. Een duplicaat ervan houdt hij gedurende minstens één jaar ter beschikking van de toezichthouder.<br>
+§1. De persoon die de keuring van een nieuw centraal stooktoestel, bedoeld in artikel 7, uitvoert, overhandigt aan de eigenaar een behoorlijk ingevuld keuringsrapport en een verbrandingsattest. Een duplicaat ervan houdt hij gedurende minstens één jaar ter beschikking van de toezichthouder.<br>
 <br>
-§ 2. De persoon die de gedeeltelijke of de volledige onderhoudsbeurt van artikel 8, 4°, heeft uitgevoerd overhandigt aan de gebruiker van het centrale stooktoestel het behoorlijk ingevulde reinigingsattest en/of het behoorlijk ingevulde verbrandingsattest. Een duplicaat ervan houdt hij gedurende minstens één jaar ter beschikking van de toezichthouder.<br>
+§2. De persoon die de gedeeltelijke of de volledige onderhoudsbeurt van artikel 8, 4°, heeft uitgevoerd overhandigt aan de gebruiker van het centrale stooktoestel het behoorlijk ingevulde reinigingsattest en/of het behoorlijk ingevulde verbrandingsattest. Een duplicaat ervan houdt hij gedurende minstens één jaar ter beschikking van de toezichthouder.<br>
 <br>
-§ 3. De persoon die de verwarmingsaudit, bedoeld in artikel 9, heeft uitgevoerd, overhandigt aan de eigenaar van het centrale stooktoestel een verwarmingsauditrapport. Een duplicaat ervan houdt hij gedurende minstens één jaar ter beschikking van de toezichthouder.<br>
+§3. De persoon die de verwarmingsaudit, bedoeld in artikel 9, heeft uitgevoerd, overhandigt aan de eigenaar van het centrale stooktoestel een verwarmingsauditrapport. Een duplicaat ervan houdt hij gedurende minstens één jaar ter beschikking van de toezichthouder.<br>
 <br>
-§ 4. ....<br>
+§4. ....<br>
 <br>
-§ 5. Een behoorlijk ingevuld reinigingsattest, verbrandingsattest, keuringsrapport of verwarmingsauditrapport bevat minstens de gegevens, gevraagd in het toepasselijke model uit bijlage III in duidelijk leesbare alfanumerieke tekens. Een rapport of attest is enkel geldig indien het behoorlijk werd ingevuld.<br>
+§5. Een behoorlijk ingevuld reinigingsattest, verbrandingsattest, keuringsrapport of verwarmingsauditrapport bevat minstens de gegevens, gevraagd in het toepasselijke model uit bijlage III in duidelijk leesbare alfanumerieke tekens. Een rapport of attest is enkel geldig indien het behoorlijk werd ingevuld.<br>
 <br>
-§ 6. De persoon die het keuringsrapport, reinigings- of verbrandingsattest of verwarmingsauditrapport opstelt en overhandigt aan de eigenaar of gebruiker van een centraal stooktoestel op gasvormige of vloeibare brandstof, moet op het moment van de uitreikingen daarvan over een erkenning als vermeld in hoofdstuk IV beschikken.<br>
+§6. De persoon die het keuringsrapport, reinigings- of verbrandingsattest of verwarmingsauditrapport opstelt en overhandigt aan de eigenaar of gebruiker van een centraal stooktoestel op gasvormige of vloeibare brandstof, moet op het moment van de uitreikingen daarvan over een erkenning als vermeld in hoofdstuk IV beschikken.<br>
 <br>
-Een schoorsteenveger mag alleen een reinigingsattest opstellen voor het gedeelte reinigen en controleren van het rookgasafvoerkanaal.
+Een schoorsteenveger mag alleen een reinigingsattest opstellen voor het gedeelte reinigen en controleren van het rookgasafvoerkanaal.<br>
+<br>
+§7. De persoon die de keuring of de volledige onderhoudsbeurt heeft uitgevoerd of zijn aangestelde doet melding van de kenmerken van het centraal stooktoestel en de kenmerken van de keuring of de volledige onderhoudsbeurt zoals het type toestel, de locatie, het vermogen, de brandstof, de brandertechnologie, het bouwjaar en de kenmerken van de keuring of de volledige onderhoudsbeurt, zoals het type activiteit, de datum van uitvoering van de activiteit en de eindbeoordeling, en dit via de webapplicatie van het VEKA in de databank, vermeld in artikel 12.5.1 van het Energiedecreet van 8 mei 2009. De voormelde melding gebeurt volgens het formaat dat het VEKA vastlegt. De voormelde melding gebeurt binnen dertig dagen na de uitvoering van de keuring of de volledige onderhoudsbeurt.
 
 ## HOOFDSTUK V Erkenning van een technicus vloeibare brandstof, een technicus gasvormige brandstof of een technicus verwarmingsaudit
 
