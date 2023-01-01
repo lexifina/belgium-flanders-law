@@ -10,7 +10,7 @@
 
 In dit besluit wordt verstaan onder:<br>
 1° aanvraag: de aanvraag , vermeld in artikel 5.164, § 1, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021;<br>
-2° agentschap: het intern verzelfstandigd agentschap Wonen-Vlaanderen, opgericht bij het besluit van de Vlaamse Regering van 16 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen;<br>
+2° agentschap: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen in Vlaanderen, opgericht bij het besluit van de Vlaamse Regering van 16 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen in Vlaanderen;<br>
 3° ...;<br>
 4° huursubsidiewoning: de woning die gehuurd wordt en waarvoor de tegemoetkoming in de huurprijs wordt aangevraagd conform artikel 5.164 van het Besluit Vlaamse Codex Wonen van 2021;<br>
 5° verlaten woning: de woning of het goed, vermeld inartikel 5.164, § 1, eerste lid, 1°, a), b), c), f), en 2°, van het Besluit Vlaamse Codex Wonen van 2021, die bewoond wordt voor de huursubsidiewoning betrokken wordt, met uitzondering van de transitwoning, vermeld in artikel 5.168, § 2, van het voormelde besluit.
