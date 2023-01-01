@@ -1651,6 +1651,8 @@ De bedragen, vermeld in deze paragraaf, zijn gekoppeld aan het spilindexcijfer 1
 <br>
 De erkenning als initiatief van beschut of als zorgvernieuwend initiatief van een initiatief van beschut wonen dat al erkend is, wordt door de leidend ambtenaar verleend per initiatief van beschut wonen, en legt enerzijds de begeleidingscapaciteit en anderzijds de huisvestingscapaciteit vast. De erkenning vermeldt ook het adres van de woongelegenheden, vermeld in artikel 129.<br>
 <br>
+De begeleidingscapaciteit van een initiatief van beschut wonen bedraagt ten minste 64 zorggebruikers, met uitzondering van de initiatieven van beschut wonen die gevestigd zijn in het tweetalig gebied Brussel-Hoofdstad. Het initiatief van beschut wonen begeleidt zorggebruikers uit hetzelfde zorgniveau van de regionale stad, vermeld in de bijlage bij het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en welzijnsvoorzieningen.<br>
+<br>
 § 2. Het initiatief van beschut wonen leeft de vereisten na vermeld in het besluit van de Vlaamse Regering van 13 januari 2006 betreffende de boekhouding en het financieel verslag voor de voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin.
 
 ## HOOFDSTUK 2. Algemene werkingsnormen
