@@ -9,7 +9,7 @@ De   Vlaamse minister van Energie, Wonen, Steden en Sociale Economie,<BR   style
 ### ART. 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° agentschap: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen, opgericht bij het besluit van de Vlaamse Regering van 16 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen;<br>
+1° agentschap: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen in Vlaanderen, opgericht bij het besluit van de Vlaamse Regering van 16 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen;<br>
 2° GSC: de gewestelijke sociale correctie;<br>
 3° woonmaatschappij: een woonmaatschappij als vermeld in artikel 4.36 van de Vlaamse Codex Wonen van 2021;<br>
 4° VMSW: de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 4.7 van de Vlaamse Codex Wonen van 2021.
@@ -18,23 +18,22 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART. 2.
 
-Het Overlegplatform Sociaal Wonen, vermeld in artikel 4.89 van het Besluit Vlaamse Codex Wonen van 2021, wordt als volgt samengesteld:<br>
-1° drie vertegenwoordigers, voorgedragen door de Vereniging van Vlaamse Huisvestingsmaatschappijen;<br>
-2° twee vertegenwoordigers, voorgedragen door de Vlaamse Erkende Maatschappijen;<br>
-3° één vertegenwoordiger van het VWF, vermeld in artikel 4.60 van de Vlaamse Codex Wonen van 2021;<br>
-4° één vertegenwoordiger, voorgedragen door de Vereniging van Vlaamse Steden en Gemeenten;<br>
-5° één vertegenwoordiger, voorgedragen door Huurpunt vzw;<br>
-6° zes vertegenwoordigers, voorgedragen door de VMSW.
+Het Overlegplatform Sociaal Wonen, vermeld in artikel 3, vierde lid, van het besluit van de Vlaamse Regering van 16 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen in Vlaanderen, bestaat uit:<br>
+1°&nbsp;&nbsp; &nbsp;vier vertegenwoordigers van het agentschap;<br>
+2°&nbsp;&nbsp; &nbsp;drie vertegenwoordigers die worden voorgedragen door de woonmaatschappijen;<br>
+3°&nbsp;&nbsp; &nbsp;een vertegenwoordiger die wordt voorgedragen door de Vereniging van Vlaamse Steden en Gemeenten.<br>
+<br>
+Het voorzitterschap en het secretariaat van het Overlegplatform Sociaal Wonen worden waargenomen door het agentschap.
 
 ### ART. 3.
 
-Het Overlegplatform Sociaal Wonen stelt een huishoudelijk   reglement op dat de interne wijze van besluitvorming en de interne organisatie   regelt.
+...
 
 ## HOOFDSTUK 3. Bepaling van de berekeningswijze van de GSC en het subsidiepercentage van de infrastructuursubsidies
 
 ### ART. 4.
 
-<p>§ 1. De woonmaatschappijen stellen binnen de perken, vermeld in paragraaf 2, de nodige gegevens voor de berekening van de GSC elektronisch ter beschikking van de VMSW en van het agentschap.</p>
+<p>§ 1. De woonmaatschappijen stellen binnen de perken, vermeld in paragraaf 2, de nodige gegevens voor de berekening van de GSC elektronisch ter beschikking van het agentschap.</p>
 
 <p>§ 2. Uiterlijk op 28 februari van elk referentiejaar bezorgen de woonmaatschappijen de beschikbare gegevens over het referentiejaar.</p>
 
@@ -42,21 +41,21 @@ Het Overlegplatform Sociaal Wonen stelt een huishoudelijk   reglement op dat de 
 
 ### ART. 5.
 
-<p>§ 1. In het referentiejaar berekent de VMSW voor elke woonmaatschappij afzonderlijk het voorschot op de GSC voor dat referentiejaar.</p>
+<p>§ 1. In het referentiejaar berekent het agentschap voor elke woonmaatschappij afzonderlijk het voorschot op de GSC voor dat referentiejaar.</p>
 
-<p>§ 2. In afwijking van paragraaf 1 berekent de VMSW geen voorschot op de GSC als de woonmaatschappij voor het referentiejaar de verplichting, vermeld in artikel 4, § 2, eerste lid, niet heeft nageleefd.</p>
+<p>§ 2. In afwijking van paragraaf 1 berekent het agentschap geen voorschot op de GSC als de woonmaatschappij voor het referentiejaar de verplichting, vermeld in artikel 4, § 2, eerste lid, niet heeft nageleefd.</p>
 
-<p>Als het eerste lid van toepassing is, brengt de VMSW de woonmaatschappij in kwestie op de hoogte van de niet-berekening van het voorschot.</p>
+<p>Als het eerste lid van toepassing is, brengt het agentschap de woonmaatschappij in kwestie op de hoogte van de niet-berekening van het voorschot.</p>
 
 ### ART. 6.
 
-<p>§ 1. In het jaar dat volgt op het referentiejaar, berekent de VMSW voor elke woonmaatschappij afzonderlijk de definitieve GSC voor het referentiejaar, op basis van de door de woonmaatschappij aangereikte gegevens over het referentiejaar.</p>
+<p>§ 1. In het jaar dat volgt op het referentiejaar, berekent het agentschap voor elke woonmaatschappij afzonderlijk de definitieve GSC voor het referentiejaar, op basis van de door de woonmaatschappij aangereikte gegevens over het referentiejaar.</p>
 
-<p>§ 2. In afwijking van paragraaf 1 berekent de VMSW geen definitieve GSC als de woonmaatschappij voor het referentiejaar de verplichting, vermeld in artikel 4, § 2, tweede lid, niet heeft nageleefd.</p>
+<p>§ 2. In afwijking van paragraaf 1 berekent het agentschap geen definitieve GSC als de woonmaatschappij voor het referentiejaar de verplichting, vermeld in artikel 4, § 2, tweede lid, niet heeft nageleefd.</p>
 
-<p>Als het eerste lid van toepassing is, brengt de VMSW de woonmaatschappij in kwestie op de hoogte van de niet-berekening van de definitieve GSC.</p>
+<p>Als het eerste lid van toepassing is, brengt het agentschap de woonmaatschappij in kwestie op de hoogte van de niet-berekening van de definitieve GSC.</p>
 
-<p>§ 3. Uiterlijk op 30 juni van het jaar dat volgt op het referentiejaar, bezorgt de VMSW het agentschap een afrekening voor elke woonmaatschappij afzonderlijk.</p>
+<p>§ 3. Uiterlijk op 30 juni van het jaar dat volgt op het referentiejaar, maakt het agentschap een afrekening op voor elke woonmaatschappij afzonderlijk.</p>
 
 <p>De afrekening, vermeld in het eerste lid, bevat minstens de volgende gegevens:<br>
 1° een tabel met een overzicht van de inkomsten en uitgaven van de woonmaatschappij;<br>
