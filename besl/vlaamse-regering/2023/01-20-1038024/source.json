@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038024,
+  "title": "Besluit van de Vlaamse Regering van 2023-01-20 tot wijziging van het besluit van de Vlaamse Regering van 14 oktober 2016 houdende de voorwaarden van de vaststelling, de uitbetaling en de terugvordering van de subsidies van de zorgkassen in het kader van de Vlaamse sociale bescherming, wat betreft de subsidie voor psychiatrische verzorgingstehuizen voor het jaar 2023",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038024/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "d0ce41f10def593dcd50d4635083864a49ce6764fc642f6fbde4172aff82584b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038024&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2023-01-20",
+  "gazette": "2023-04-19",
+  "numac": 2023015180,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
