@@ -73,6 +73,10 @@ Binnen tien dagen na de dag waarop de dienst de premie-aanvraag heeft ontvangen,
 <br>
 Als het dossier volledig is, brengt de dienst de verantwoordelijke van de paardencarrousel binnen dertig dagen na ontvangst van de volledige premie-aanvraag op de hoogte van haar beslissing.".
 
+### ART 5.
+
+Het koninklijk besluit van 1 maart 2013 betreffende het welzijn van paarden en pony's op kermissen wordt opgeheven.
+
 ### ART 6.
 
 De artikelen 1 tot en met 4, 6 en 7 van dit besluit en het decreet van 29 januari 2021 tot wijziging van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, wat betreft de invoering van een verbod op het gebruik van paardachtigen op kermissen en aanverwante evenementen, treden in werking tien dagen na de datum van de bekendmaking van dit besluit in het Belgisch Staatsblad.<br>
