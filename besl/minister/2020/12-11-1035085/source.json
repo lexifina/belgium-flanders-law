@@ -2,16 +2,16 @@
   "codex_id": 1035085,
   "title": "Ministerieel besluit van 2020-12-11 tot verdeling van een toeslag in het kader van de interne staatshervorming voor de erkende private diensten voor gezinszorg",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035085/VolledigDocument?datum=2022-01-01",
-  "source_sha256": "203d90bfb3ef58c2cb8b466eccc64f0f7860e6a403941bcabf3ddb9386c3e7df",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035085/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "b1b0ac270302615bfb46007fc2cc985fe08416d2169f6fe85636f3c76424303e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035085&param=informatie",
-  "as_of": "2022-01-01",
+  "as_of": "2023-01-01",
   "made": "2020-12-11",
   "gazette": "2021-01-20",
   "numac": 2020031746,
   "document_start": "2020-01-01",
   "document_end": null,
-  "in_force": "2022-01-01",
+  "in_force": "2023-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }
