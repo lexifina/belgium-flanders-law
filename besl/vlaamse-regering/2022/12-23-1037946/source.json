@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037946,
+  "title": "Besluit van de Vlaamse Regering van 2022-12-23 over de subsidiëring van forensische zorg in het kader van de opdrachten van de justitiehuizen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037946/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "969b5e3da72d80f36142be0df3303fb35985c17b6c40299e1f5d5bf86218c1fa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037946&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2022-12-23",
+  "gazette": "2023-03-27",
+  "numac": 2023015055,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
