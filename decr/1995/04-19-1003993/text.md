@@ -24,7 +24,7 @@ Saneringen in de milieutechnische zin kunnen hierin evenwel nooit zijn begrepen;
 a) de volle eigendom;<br>
 b) het recht van opstal of van erfpacht;<br>
 c) het vruchtgebruik;<br>
-10° vernieuwingsfonds: fonds voor vernieuwing van de leegstaande en/of verwaarloosde bedrijfsruimten;<br>
+10° ...;<br>
 11° basisstudie: de studie die een gedetailleerd voorstel van de uit te voeren saneringswerkzaamheden, de te realiseren herbestemming, een kostprijsraming en een tijdtabel voor de uitvoering bevat. De basisstudie vormt een wezenlijk onderdeel van de eigenlijke aanvraag om financiële ondersteuning, zoals bedoeld in artikel 43 van dit decreet;<br>
 12° ...;<br>
 13° ....<br>
@@ -104,36 +104,7 @@ De aanvaarding van de schrapping heeft rechtsgevolgen vanaf de datum   van&nbsp;
 
 ### ART. 17.
 
-§ 1. Er wordt een Vernieuwingsfonds opgericht. De Vlaamse regering beheert het Vernieuwings-fonds. Dit Vernieuwingsfonds neemt de vorm aan van een fonds zoals bedoeld in artikel 15, § 2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.<br>
-<br>
-§ 2. Het Vernieuwingsfonds heeft als doel bij te dragen in de verwezenlijking en inzonderheid in de financiële ondersteuning van de saneringswerkzaamheden in het kader van de vernieuwing van de leegstaande en/of verwaarloosde bedrijfsruimten.<br>
-<br>
-Het Vernieuwingsfonds heeft verder als doel, met ingang van 1 juli 2002 en tot een nader door de Vlaamse regering te bepalen datum, de kosten te dragen verbonden aan de afhandeling van de bezwaarschriften tegen de heffingen, zoals bedoeld in titel 2, hoofdstuk 5, van de Vlaamse Codex Fiscaliteit van 13 december 2013, met betrekking tot de heffingsjaren 1997 tot en met 2004.<br>
-<br>
-Het Vernieuwingsfonds heeft verder als doel, met ingang van 1 juli 2008 en tot een nader door de Vlaamse Regering te bepalen datum, doch uiterlijk tot 1 juli 2013, alle kosten, met inbegrip van de desbetreffende personeels-, werkings- en informaticakosten te dragen die gepaard gaan met de inning en invordering en de bezwaar- en geschilafhandeling van de planbatenheffing, zoals bedoeld in titel II, hoofdstuk VIII, afdeling II, van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, zoals later gewijzigd, alsook aan de voorbereiding van deze inning.<br>
-<br>
-Het Vernieuwingsfonds heeft verder als doel :<br>
-1° in de begrotingsjaren 2009 en 2010 de kosten te dragen die voortvloeien uit de operationalisering, inning en invordering van de planbatenheffing, vermeld in het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening;<br>
-2° in het begrotingsjaar 2009 personeels- en werkingskosten te dekken van de gewestelijke administratie, belast met het toezicht en de handhaving inzake ruimtelijke ordening.<br>
-<br>
-§ 3. Het Vernieuwingsfonds wordt gestijfd door:<br>
-1° ...<br>
-<br>
-2° de opbrengsten van de heffingen, vermeld in titel 2, hoofdstuk 6, van de Vlaamse Codex Fiscaliteit van 13 december 2013;<br>
-<br>
-3° alle andere middelen die nuttig zijn in het kader van de doelstelling van het Vernieuwingsfonds en die inzonderheid ingevolge wettelijke, decretale of reglementaire bepalingen aan het Vernieuwingsfonds toekomen evenals de terugstortingen en toevallige ontvangsten;<br>
-<br>
-4° de ontvangsten voortvloeiende uit en na de afwijzing van een bezwaar tegen de heffing zoals bedoeld in titel 2, hoofdstuk 5, van de Vlaamse Codex Fiscaliteit van 13&nbsp;december 2013, en voortkomende uit inningen ingevolge, lastens het Vernieuwingsfonds betaalde, procedures;<br>
-<br>
-Eerder geboekte vastgestelde rechten ten gunste van Organisatieafdeling 24, Programma 10, artikel 36.01 (heffingen leegstand en verkrotting) van de middelenbegroting van de Vlaamse Gemeenschap, die hierop betrekking hebben, worden hiertoe overgedragen naar het Vernieuwingsfonds.<br>
-<br>
-5° het eenmalig saldo aan respectievelijk vastleggingskrediet en ordonnanceringskrediet, zoals beschikbaar op 30 juni 2003 bij het Leegstandfonds, bedoeld in artikel 24 van het decreet van 20 december 1996 houdende bepalingen tot begeleiding van de begroting 1997.<br>
-<br>
-§ 4. De vastlegging en de ordonnancering der uitgaven ten laste van het Vernieuwingsfonds geschiedt door toedoen van de Vlaamse regering, onverminderd de regels inzake de administratieve en begrotingscontrole en onverminderd de regels inzake delegatie van bevoegdheden in de Vlaamse regering die op het Vernieuwingsfonds toepasselijk zijn. Het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap kan elk jaar het bedrag van de vastleggingsmachtiging gehecht aan het Vernieuwingsfonds bepalen. Het per 31 december van het lopende jaar beschikbare saldo van het Vernieuwingsfonds wordt overgedragen naar de middelenbegroting van het Vernieuwingsfonds van het volgende begrotingsjaar.<br>
-<br>
-§ 5. Het Vernieuwingsfonds neemt vanaf 1 juli 2003 alle rechten en verplichtingen, alsmede het op die datum beschikbaar saldo, over van het Leegstandfonds, bedoeld in artikel 24 van het decreet van 20 december 1996 houdende bepalingen tot begeleiding van de begroting 1997.<br>
-<br>
-§ 6. ...
+...
 
 ### ART. 18.
 
@@ -309,7 +280,7 @@ Er kan geen financiële steun voor de saneringswerkzaamheden worden toegekend al
 
 ### ART. 45.
 
-Werkzaamheden waarvoor reeds andere subsidies of tegemoetkomingen zijn toegekend, komen niet in aanmerking voor financiële steun in het kader van dit decreet, behoudens de subsidies die in mindering worden gebracht van het door het Vernieuwingsfonds te dragen aandeel.
+Werkzaamheden waarvoor reeds andere subsidies of tegemoetkomingen zijn toegekend, komen niet in aanmerking voor financiële steun in het kader van dit decreet, behoudens de subsidies die in mindering worden gebracht van het door het&nbsp;BRV-fonds, vermeld in artikel 1.6.1 van de Vlaamse Codex Ruimtelijke Ordening te dragen aandeel.
 
 ### ART. 46.
 
