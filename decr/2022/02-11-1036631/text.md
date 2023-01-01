@@ -215,8 +215,6 @@ De financiële vraag geldt voor de volledige beleidsperiode van vier jaar. Een t
 <br>
 De werkings- en personeelssubsidies, vermeld in dit hoofdstuk, worden jaarlijks gekoppeld aan de gezondheidsindex.<br>
 <br>
-De werkings- en personeelssubsidies aan hostels kunnen pas worden toegekend na definitieve goedkeuring van dit steunregime door de Europese Commissie.<br>
-<br>
 De Vlaamse Regering kan de nadere voorwaarden en de procedure bepalen voor:<br>
 1° de indiening van de aanvraag;<br>
 2° de jaarlijkse verantwoording;<br>
