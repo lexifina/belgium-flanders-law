@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038962,
+  "title": "Ministerieel besluit van 2023-03-27 tot wijziging van het ministerieel besluit van 24 januari 2020 tot aanduiding van de leden van de beheerscommissie van het Eigen Vermogen Digitaal Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038962/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "73e316ec72d95bd436dbc9e04296b80727b250221e923bcbf3997979832dd6fa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038962&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2023-03-27",
+  "gazette": "2023-09-22",
+  "numac": 2023010233,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
