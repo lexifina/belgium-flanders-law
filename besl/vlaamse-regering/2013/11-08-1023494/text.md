@@ -28,10 +28,10 @@ In dit besluit wordt verstaan onder :<br>
 17° psychiatrisch ziekenhuis : een ziekenhuis als vermeld in artikel 3 van de gecoördineerde wet op de ziekenhuizen en andere verzorgingsinrichtingen, gecoördineerd op 10 juli 2008;<br>
 18° rechtsopvolger : algemene rechtsverkrijger of rechtsverkrijger onder bijzondere titel;<br>
 19° regionaal dienstencentrum : een voorziening als vermeld in artikel 20 van het woonzorgdecreet van 13 maart 2009;<br>
-20° woonzorgcentrum met een bijkomende erkenning: een woonzorgcentrum als vermeld in artikel 52/1, tweede lid, van het Woonzorgdecreet van 13 maart 2009;<br>
-21° verzorgingsinstelling : een ziekenhuis, psychiatrisch ziekenhuis, een woonzorgcentrum met een bijkomende erkenning, een psychiatrisch verzorgingstehuis of een functie daghospitalisatie binnen een ziekenhuis;<br>
+20° ...;<br>
+21° verzorgingsinstelling : een ziekenhuis, psychiatrisch ziekenhuis, een woonzorgcentrum, een psychiatrisch verzorgingstehuis of een functie daghospitalisatie binnen een ziekenhuis;<br>
 22° waarborgovereenkomst : de overeenkomst tussen het Fonds en de financiers of, in voorkomend geval, de agent die aangewezen is door of voor de financiers, waarin de voorwaarden en modaliteiten van een investeringswaarborg voor een specifiek project nader worden bepaald;<br>
-23° woonzorgcentrum : een voorziening als vermeld in artikel 37 van het Woonzorgdecreet van 13 maart 2009;<br>
+23° woonzorgcentrum: een woonzorgcentrum als vermeld in artikel 33 van het Woonzorgdecreet van 15 februari 2019;<br>
 24° ziekenhuis : een voorziening als vermeld in artikel 2 van de gecoördineerde wet op de ziekenhuizen en andere verzorgingsinrichtingen, gecoördineerd op 10 juli 2008.
 
 ## HOOFDSTUK 2 Toepassingsgebied
