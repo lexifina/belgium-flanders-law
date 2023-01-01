@@ -595,11 +595,9 @@ Met behoud van de toepassing van artikel 38, kan de Vlaamse Regering, conform de
 
 ### ART 44.
 
-§ 1. Met behoud van de toepassing van artikel 38 en tot een datum die de Vlaamse Regering bepaalt, kan de Vlaamse Regering, conform de normen die de Vlaamse Regering bepaalt en binnen de perken van de begrotingskredieten, een bijkomende erkenning verlenen aan woonzorgcentra die een verzorgingsstructuur aanbieden die zwaar afhankelijke zorgbehoevende personen opneemt.<br>
+§ 1. ....<br>
 <br>
-Alle rust- en verzorgingstehuizen die voor 1 januari 2019 erkend zijn of waarvoor voor 1 januari 2019 een erkenningsaanvraag werd ingediend conform artikel 170 van de gecoördineerde wet op de ziekenhuizen en andere verzorgingsinrichtingen worden van rechtswege beschouwd als woonzorgcentra met een bijkomende erkenning.<br>
-<br>
-§ 2. De Vlaamse Regering kan conform de normen die de Vlaamse Regering bepaalt en binnen de perken van de begrotingskredieten, een bijzondere erkenning verlenen aan woonzorgcentra met een bijkomende erkenning als vermeld in de eerste paragraaf die aan specifieke doelgroepen gespecialiseerde zorg aanbieden onder de voorwaarden die de Vlaamse Regering bepaalt.
+§ 2. De Vlaamse Regering kan conform de normen die ze bepaalt en binnen de perken van de begrotingskredieten, een bijkomende erkenning verlenen aan woonzorgcentra die aan specifieke doelgroepen gespecialiseerde zorg aanbieden onder de voorwaarden die de Vlaamse Regering bepaalt.
 
 ### ART 45.
 
@@ -688,9 +686,7 @@ De Vlaamse Regering kan binnen de perken van de begrotingskredieten, op verzoek 
 
 ### ART 54.
 
-§ 1. Met behoud van de toepassing van artikel 51 en 52 en tot een datum die de Vlaamse Regering bepaalt, kan de Vlaamse Regering, conform de programmatie die de Vlaamse Regering bepaalt en binnen de perken van de begrotingskredieten, een planningsvergunning voor een bijkomende erkenning verlenen aan woonzorgcentra die een verzorgingsstructuur aanbieden die zwaar afhankelijke zorgbehoevende personen opneemt als vermeld in artikel 44, § 1.<br>
-<br>
-Met behoud van de toepassing van artikel 51 en 52 en tot een datum die de Vlaamse Regering bepaalt, kan de Vlaamse Regering, conform de programmatie die de Vlaamse Regering bepaalt en binnen de perken van de begrotingskredieten, een planningsvergunning voor een bijzondere erkenning verlenen aan woonzorgcentra met een bijkomende erkenning die aan specifieke doelgroepen gespecialiseerde zorg aanbieden als vermeld in artikel 44, § 2.<br>
+&nbsp;§ 1. Met behoud van de toepassing van artikel 51 en 52 en tot en met een datum die de Vlaamse Regering bepaalt, kan de Vlaamse Regering, conform de programmatie die de Vlaamse Regering bepaalt en binnen de perken van de begrotingskredieten, een planningsvergunning voor een bijkomende erkenning verlenen aan woonzorgcentra die aan specifieke doelgroepen gespecialiseerde zorg aanbieden als vermeld in artikel 44, § 2.<br>
 <br>
 § 2. Met behoud van de toepassing van artikel 51 en 52 en tot een datum die de Vlaamse Regering bepaalt, kan de Vlaamse Regering, conform de programmatie die de Vlaamse Regering bepaalt en binnen de perken van de begrotingskredieten, een planningsvergunning voor een bijkomende erkenning verlenen aan centra voor dagverzorging die een verzorgingsstructuur aanbieden die zwaar afhankelijke zorgbehoevende personen overdag opvangt en die de noodzakelijke ondersteuning biedt voor het behoud van die personen in hun thuisomgeving en aan centra voor dagverzorging die een verzorgingsstructuur aanbieden die overdag personen opvangt die lijden aan een ernstige ziekte die aangepaste zorg vereist en die de noodzakelijke ondersteuning biedt voor het behoud van die personen in hun thuisomgeving als vermeld in artikel 46.<br>
 <br>
@@ -848,13 +844,13 @@ De Vlaamse Regering vermindert de subsidie van die woonzorgvoorzieningen en vere
 <br>
 De Vlaamse Regering vermindert de subsidie of ze vordert de subsidie terug volgens de regels die ze bepaalt, als dat centrum voor dagopvang van een dienst voor gezinszorg de subsidievoorwaarden niet naleeft.<br>
 <br>
-§ 2. De Vlaamse Regering kan, volgens de regels die ze bepaalt, de bijkomende erkenning van een woonzorgcentrum, vermeld in artikel 44, § 1, wijzigen, alsook die bijkomende erkenning schorsen of intrekken als het woonzorgcentrum de bijkomende erkenningsvoorwaarden niet naleeft. Die regels bevatten de mogelijkheid om een bezwaar in te dienen.<br>
+§ 2. ...<br>
 <br>
 § 3. De Vlaamse Regering kan, volgens de regels die ze bepaalt, de bijkomende erkenning van een centrum voor kortverblijf, vermeld in artikel 45, schorsen of intrekken als het centrum voor kortverblijf de bijkomende erkenningsvoorwaarden niet naleeft. Die regels bevatten de mogelijkheid om een bezwaar in te dienen.<br>
 <br>
 § 4. De Vlaamse Regering kan, volgens de regels die ze bepaalt, de bijkomende erkenning van een centrum voor dagverzorging, vermeld in artikel 46 schorsen of intrekken als het centrum voor dagverzorging de bijkomende erkenningsvoorwaarden niet naleeft. Die regels bevatten de mogelijkheid om een bezwaar in te dienen.<br>
 <br>
-§ 5. De Vlaamse Regering kan, volgens de regels die ze bepaalt, de bijzondere erkenning van een woonzorgcentrum met een bijkomende erkenning, vermeld in artikel 44, § 2, schorsen of intrekken als het woonzorgcentrum de bijzondere erkenningsvoorwaarden niet naleeft. Die regels bevatten de mogelijkheid om een bezwaar in te dienen.
+§ 5. De Vlaamse Regering kan, volgens de regels die ze bepaalt, de bijkomende erkenning van een woonzorgcentrum, vermeld in artikel 44, § 2, schorsen of intrekken als het woonzorgcentrum de bijzondere erkenningsvoorwaarden niet naleeft. Die regels bevatten de mogelijkheid om een bezwaar in te dienen.
 
 ### ART 66.
 
@@ -900,13 +896,11 @@ De erkenning van een centrum voor kortverblijf type 1 vervalt van rechtswege:<br
 
 De bijkomende erkenning voor een centrum voor dagopvang van een dienst voor gezinszorg, vermeld in artikel 13, vervalt van rechtswege als de dienst voor gezinszorg zijn erkenning verliest.<br>
 <br>
-De bijkomende erkenning van een woonzorgcentrum, vermeld in artikel 44, § 1, vervalt van rechtswege als het woonzorgcentrum zijn erkenning verliest of gesloten wordt.<br>
-<br>
 De bijkomende erkenning van een centrum voor kortverblijf, vermeld in artikel 45, vervalt van rechtswege als het centrum voor kortverblijf type 1 zijn erkenning verliest of gesloten wordt en als het woonzorgcentrum of het centrum voor herstelverblijf zijn erkenning verliest.<br>
 <br>
 De bijkomende erkenning van een centrum voor dagverzorging, vermeld in artikel 46, vervalt van rechtswege als het centrum voor dagverzorging zijn erkenning verliest of gesloten wordt.<br>
 <br>
-De bijzondere erkenning van een woonzorgcentrum met een bijkomende erkenning, vermeld in artikel 44, § 2, vervalt van rechtswege als het woonzorgcentrum zijn erkenning of zijn bijkomende erkenning verliest of gesloten wordt.
+De bijkomende erkenning van een woonzorgcentrum, vermeld in artikel 44, § 2, vervalt van rechtswege als het woonzorgcentrum zijn erkenning of zijn bijkomende erkenning verliest of als het gesloten wordt.
 
 ## HOOFDSTUK 8. Sancties
 
