@@ -21,6 +21,15 @@ Dit besluit sluit aan bij de volgende regelgeving:<br>
 &nbsp;&nbsp; &nbsp;<br>
 DE VLAAMSE MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME BESLUIT:
 
+### ART 1.
+
+Artikel 5, §2, van het ministerieel besluit van 23 mei 2022 tot vaststelling van de nadere regels en technische vereisten en de hoogten van de premies, trajectbegeleidingen en collectieve renovatieprojecten, vermeld in artikels 6.4.1/1/2, 6.4.1/1/3, 6.4.1/1/5, 6.4.1/5/2, 6.4.1/9, 6.4.1/9/1 en 12.3.29 van het Energiebesluit van 19 november 2010, wordt vervangen door wat volgt:<br>
+&nbsp;&nbsp; &nbsp;<br>
+“§ 2. De hoogte van de investeringssteun, vermeld in artikel 6.4.1/5/2, § 4, derde lid van het Energiebesluit van 19 november 2010, in functie van de goedgekeurde of gecorrigeerde interne rentevoet na belastingen, als vermeld in artikel 6.4.1/5/2, § 4, derde lid van het Energiebesluit van 19 november 2010, wordt als volgt vastgelegd:<br>
+1° een percentage van de meerkosten van de investering gelijk aan (13 – IRR) * 20 %;<br>
+2° als de interne rentevoet na belastingen van de investering groter dan of gelijk is aan 13%, wordt geen investeringssteun verleend;<br>
+3° als de interne rentevoet na belastingen van de investering kleiner is dan 10%, wordt de investeringssteun afgetopt op 60% van de meerkosten van de investering.”.
+
 ### ART 2.
 
 Artikel 17 en artikel 67 van het besluit van de Vlaamse Regering van 8 juli 2022 tot wijziging van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, het Energiebesluit van 19 november 2010 en het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning, wat betreft diverse bepalingen inzake de energie-efficiëntie en hernieuwbare energie, treden in werking op 12 december 2022.
