@@ -20,6 +20,14 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 4.
+
+In artikel 6.3/1, § 1, van het besluit Vlaamse Codex Wonen van 2021, &nbsp;ingevoegd bij het besluit van de Vlaamse Regering van 17 december 2021, worden de volgende wijzigingen aangebracht:<br>
+1° aan het eerste lid, wordt een punt 16° toegevoegd, dat luidt als volgt:<br>
+“16° de vaststelling dat de huurder een beschermde afnemer als vermeld in artikel 6.60, §1, eerste lid, is.”;<br>
+2° tussen het eerste en het tweede lid wordt een lid ingevoegd, dat luidt als volgt:&nbsp;<br>
+“De verwerkingsverantwoordelijke, vermeld in artikel 6.3/1, §2, 1°, van de Vlaamse Codex Wonen van 2021, kan de persoonsgegevens, vermeld in het eerste lid, 16°, doorgeven aan een private partner voor de berekening van de vergoeding, vermeld in artikel 6.25, eerste lid, van de Vlaamse Codex Wonen van 2021.”.
+
 ### ART 8.
 
 Artikel 6.60 van hetzelfde besluit wordt vervangen door wat volgt:&nbsp;<br>
@@ -82,3 +90,30 @@ Als de verhuurder technisch niet in staat is om het zelfverbruik van energie, ve
 4° voor het vierde jaarkwartaal 10% van het zelfverbruik van energie op jaarbasis.<br>
 <br>
 Als de huurder op het moment van de berekening van de vergoeding de woning minder dan een jaar heeft bewoond, wordt in de gevallen, vermeld in het derde en het vierde lid, de verdeling pro rata aangepast.”.&nbsp;
+
+### ART 15.
+
+Artikel 7.51/2 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 17 december 2021, wordt vervangen door wat volgt:<br>
+<br>
+“Art. 7.51/2. Voor de woningen die eigendom zijn of waren van het SVK of waarover het SVK krachtens een erfpacht of een ander zakelijk recht beschikt of beschikte, zal de huurprijs vanaf 1 juli 2023 worden berekend overeenkomstig boek 6, deel 9, titel 1, hoofdstuk 1. Tot 30 juni 2023 is artikel 6.56, tweede lid, zoals van kracht vóór de inwerkingtreding van artikel 45 van het besluit van de Vlaamse Regering van 17 december 2021 tot wijziging van het Besluit Vlaamse Codex Wonen van 2021, wat betreft de sociale huur, van toepassing.”.
+
+### ART 16.
+
+In artikel 66 van het besluit van de Vlaamse Regering van 17 december 2021 tot wijziging van het Besluit Vlaamse Code Wonen van 2021, wat betreft de sociale huur, gewijzigd bij het besluit van de Vlaamse Regering van 10 november 2022, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 2, eerste lid, wordt tussen de zinsnede “eerste lid,” en de woorden “aan de” de zinsnede “na de actualisering, vermeld in paragraaf 5, tweede lid,” ingevoegd;<br>
+2° aan paragraaf 2 worden een tweede, een derde en een vierde lid toegevoegd, die luiden als volgt:<br>
+“De kandidaat-huurder moet binnen de termijn die de verhuurder bepaalt, met een minimum van een maand en een maximum van vijfenveertig kalenderdagen vanaf de postdatum van de brief, bevestigen dat hij wil ingeschreven blijven in het centraal inschrijvingsregister, en zijn gegevens correct en volledig zijn. De kandidaat-huurder bevestigt dat via zijn digitaal dossier, vermeld in het eerste lid, of schriftelijk aan de primaire verhuurder.&nbsp;<br>
+Als de kandidaat-huurder niet binnen de termijn, vermeld in het tweede lid, reageert, verzendt de primaire verhuurder een herinneringsbrief, waarin hij meedeelt dat de kandidaat-huurder wordt geschrapt als hij niet reageert binnen de in de herinneringsbrief vastgestelde termijn, met een minimum van vijftien kalenderdagen en een maximum van dertig kalenderdagen vanaf de postdatum van de brief. Als de kandidaat-huurder niet reageert, geldt deze brief als schriftelijke melding van de schrapping. De primaire verhuurder moet de herinneringsbrief niet versturen als het afschrift van het inschrijvingsdossier, vermeld in het eerste lid, onbestelbaar terugkeert, op voorwaarde dat het afschrift naar het laatst bekende adres van de kandidaat-huurder in het rijksregister werd verzonden, tenzij uit het inschrijvingsdossier van de verhuurder waar de kandidaat-huurder was ingeschreven en waarop het inschrijvingsdossier, vermeld in paragraaf 1, eerste lid, is gebaseerd, blijkt dat de kandidaat-huurder uitdrukkelijk heeft gevraagd om de briefwisseling naar een ander adres te verzenden.&nbsp;<br>
+De primaire verhuurder schrapt de kandidaat-huurders die niet of niet tijdig hebben gereageerd uit het centraal inschrijvingsregister, uiterlijk op 28 februari 2024.”;<br>
+3° er wordt een paragraaf 5 toegevoegd, die luidt als volgt:<br>
+“§5. In afwijking van artikel 6.6 van het Besluit Vlaamse Codex Wonen van 2021, zoals van kracht vóór de inwerkingtreding van artikel 28 van dit besluit, hoeven de inschrijvingsregisters niet te worden geactualiseerd in 2023.<br>
+Ter uitvoering van artikel 6.9 van het Besluit Vlaamse Codex Wonen van 2021, zoals van kracht na de inwerkingtreding van artikel 28 van dit besluit, actualiseert het agentschap voor het kalenderjaar 2023, de gegevens over de inschrijvingsvoorwaarden, vermeld in artikel 6.8, §1, eerste lid, 2° en 3°, van de Vlaamse Codex Wonen van 2021 van alle kandidaat-huurders die op 1 oktober 2023 zijn ingeschreven in het centraal inschrijvingsregister in oktober 2023.&nbsp;<br>
+Als bij de actualisering, vermeld in het tweede lid, blijkt dat de kandidaat-huurder niet langer voldoet aan de voorwaarden, vermeld in het eerste lid, brengt het agentschap de primaire verhuurder op de hoogte.<br>
+De primaire verhuurder verzendt een brief over de actualisering aan de kandidaat-huurder, vermeld in het tweede lid, samen met het afschrift van het inschrijvingsdossier, vermeld in paragraaf 2. De termijnen en de werkwijze, vermeld in paragraaf 2, tweede en derde lid, zijn van overeenkomstige toepassing.<br>
+De primaire verhuurder schrapt uiterlijk op 28 februari 2024 een kandidatuur uit het centraal inschrijvingsregister als de kandidaat-huurder niet meer voldoet aan de inschrijvingsvoorwaarden, vermeld in het tweede lid, of als de kandidaat-huurder nalaat om te reageren op het verzoek van de primaire verhuurder om de stavingstukken aan te leveren waaruit blijkt dat hij wel voldoet.”.
+
+### ART 17.
+
+In artikel 71 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 10 november 2022, worden de volgende wijzigingen aangebracht:<br>
+1° in het derde lid, 2°, wordt tussen de zinsnede “6,” en de zinsnede “37,” de zinsnede “25,” ingevoegd;<br>
+2° &nbsp;in het vierde lid, 2°, wordt de zinsnede “met 25” vervangen door de zinsnede “met 24”.
