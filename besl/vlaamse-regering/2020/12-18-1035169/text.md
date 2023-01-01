@@ -194,55 +194,27 @@ Als de administrateur-generaal het voornemen heeft de wijziging van de voorafgaa
 
 ### ART 10.
 
-Een aanvraag van een planningsvergunning voor een bijkomende erkenning van woonzorgcentra die een verzorgingsstructuur aanbieden die zwaar afhankelijke zorgbehoevende personen opneemt, wordt aangetekend of op digitale wijze aan het agentschap bezorgd door de initiatiefnemer die de inplantingsplaats van erkende woongelegenheden of van in het kader van een omzettingskalender geplande woongelegenheden van een woonzorgcentrum met een bijkomende erkenning wil wijzigen naar de inplantingsplaats van een ander woonzorgcentrum of van andere woonzorgcentra met al dan niet een bijkomende erkenning van dezelfde initiatiefnemer.
+...
 
 ### ART 11.
 
-Een aanvraag van een planningsvergunning is ontvankelijk als ze wordt ingediend met een formulier dat het agentschap ter beschikking stelt en als ze al de volgende documenten en gegevens bevat:<br>
-1° de volledige identiteit van de initiatiefnemer;<br>
-2° de statuten van de initiatiefnemer en de eventuele wijzigingen ervan, tenzij de initiatiefnemer een openbaar bestuur is;<br>
-3° de rechtsgeldige beslissingen om de inplantingsplaats te wijzigen van erkende woongelegenheden of van in het kader van de omzettingskalender geplande woongelegenheden van een woonzorgcentrum met een bijkomende erkenning en om de planningsvergunning aan te vragen;<br>
-4° het aantal woongelegenheden waarvoor de inplantingsplaats gewijzigd wordt;<br>
-5° de geplande ingangsdatum van de wijziging van de inplantingsplaats;<br>
-6° de inplantingsplaats en de identificatiegegevens van het woonzorgcentrum of de woonzorgcentra waarnaar de woongelegenheden overgebracht worden;<br>
-7° het bewijs dat de dekkingsgraad voor zware zorgprofielen van het woonzorgcentrum waarvan de inplantingsplaats van de woongelegenheden gewijzigd wordt, behouden blijft op minimaal 80 % na de gevraagde wijziging van de erkenning, op basis van de dekkingsgraad van de twee kwartalen vóór het kwartaal van de aanvraag;<br>
-8° het bewijs dat de dekkingsgraad voor zware zorgprofielen van het woonzorgcentrum of de woonzorgcentra waarnaar de woongelegenheden overgebracht worden, niet hoger zal zijn dan 95 % na de gevraagde wijziging van de erkenning, op basis van de dekkingsgraad van de twee kwartalen vóór het kwartaal van de aanvraag.<br>
-<br>
-De dekkingsgraad voor zware zorgprofielen, vermeld in het eerste lid, 6°, wordt op de volgende wijze berekend: het aantal woongelegenheden met een bijkomende erkenning, met uitzondering van de woongelegenheden met een bijzondere erkenning als centrum voor niet aangeboren hersenletsels, vermeld in artikel 3bis van het koninklijk besluit van 21 september 2004 houdende vaststelling van de normen voor de bijzondere erkenning als rust- en verzorgingstehuis, als centrum voor dagverzorging of als centrum voor niet aangeboren hersenletsels, op het einde van het kwartaal vóór het kwartaal van de aanvraag plus het aantal woongelegenheden met een planningsvergunning, gedeeld door het gemiddelde aantal bewoners met een zorgprofiel B, C, Cd, of D in het woonzorgcentrum en in het woonzorgcentrum met bijkomende erkenning tijdens de twee kwartalen vóór het kwartaal van de aanvraag.<br>
-<br>
-De minister kan de regels over de ontvankelijkheid van de documenten en gegevens, vermeld in het eerste lid, preciseren.
+...
 
 ### ART 12.
 
-Het agentschap onderzoekt de ontvankelijkheid van de aanvraag van een planningsvergunning.<br>
-<br>
-Als de aanvraag niet ontvankelijk is, brengt het agentschap de initiatiefnemer daarvan op de hoogte binnen dertig dagen na de dag waarop het agentschap de aanvraag heeft ontvangen.
+...
 
 ### ART 13.
 
-Het agentschap onderzoekt het dossier binnen negentig dagen na de dag waarop het de ontvankelijke aanvraag heeft ontvangen. Het agentschap kan aan de initiatiefnemer aanvullende inlichtingen vragen.<br>
-<br>
-In het kader van een aanvraag tot wijziging van de inplantingsplaats van de bijkomende erkenning van een woonzorgcentrum kan het agentschap een bijkomend onderzoek instellen naar de correctheid van de gegevens van het bewijs, vermeld in artikel 11, eerste lid, 7°.
+...
 
 ### ART 14.
 
-De administrateur-generaal verleent de planningsvergunning. De beslissing wordt aan de initiatiefnemer bezorgd en bekendgemaakt in het Belgisch Staatsblad.<br>
-<br>
-De planningsvergunning vermeldt al de volgende gegevens:<br>
-1° de identificatiegegevens van de initiatiefnemer en de woonzorgcentra, al dan niet met een bijkomende erkenning;<br>
-2° de gewijzigde en de nieuwe inplantingsplaats;<br>
-3° het aantal woongelegenheden;<br>
-4° de ingangsdatum en de geldigheidsduur van de planningsvergunning.<br>
-<br>
-De planningsvergunning is twee jaar geldig.<br>
-<br>
-Als de administrateur-generaal het voornemen heeft de planningsvergunning te weigeren, wordt de initiatiefnemer op de hoogte gebracht van dat voornemen met een aangetekende brief tegen ontvangstbewijs. Die brief vermeldt ook de mogelijkheid en de voorwaarden om een bezwaar tegen het voornemen in te dienen als vermeld in artikel 34.
+...
 
 ### ART 15.
 
-De planningsvergunning vervalt volledig of gedeeltelijk van rechtswege voor de niet-gerealiseerde woongelegenheden als binnen de geldigheidsduur van de planningsvergunning de initiatiefnemer voor de woongelegenheden van de woonzorgcentra met een bijkomende erkenning geen ontvankelijke aanvraag heeft ingediend om de bijkomende erkenningen te krijgen of te wijzigen.<br>
-<br>
-Het agentschap brengt de initiatiefnemer op de hoogte van het verval of het gedeeltelijke verval van de planningsvergunning.
+...
 
 ## Afdeling 2. Planningsvergunning voor een bijkomende erkenning voor centra voor kortverblijf type 1 die oriënterend kortverblijf aanbieden
 
@@ -372,17 +344,17 @@ De minister kan de regels over de documenten en gegevens, vermeld in het tweede 
 
 ### ART 28.
 
-De minister kan een oproep doen om een planningsvergunning aan te vragen voor een bijzondere erkenning voor de zorg en ondersteuning van personen met jongdementie. De minister bepaalt bij een oproep de uiterste indieningsdatum voor het aanvragen van een planningsvergunning.
+De minister kan een oproep doen om een planningsvergunning aan te vragen voor een bijkomende erkenning voor de zorg en ondersteuning van personen met jongdementie. De minister bepaalt bij een oproep de uiterste indieningsdatum voor het aanvragen van een planningsvergunning.
 
 ### ART 29.
 
 Een aanvraag van een planningsvergunning is ontvankelijk als ze al de volgende documenten en gegevens bevat:<br>
 1° een aanvraagformulier dat het agentschap ter beschikking stelt en dat al de volgende gegevens bevat:<br>
-a) de identificatiegegevens van de initiatiefnemer en het woonzorgcentrum met een bijkomende erkenning waarvoor een planningsvergunning wordt aangevraagd;<br>
+a) de identificatiegegevens van de initiatiefnemer en het woonzorgcentrum waarvoor een planningsvergunning wordt aangevraagd;<br>
 b) het aantal woongelegenheden waarvoor de planningsvergunning wordt aangevraagd;<br>
-c) het aantal bezettingsdagen door personen met jongdementie in het woonzorgcentrum met een bijkomende erkenning in het jaar dat voorafgaat aan de oproep, vermeld in artikel 28 van dit besluit;<br>
+c) het aantal bezettingsdagen door personen met jongdementie in het woonzorgcentrum in het jaar dat voorafgaat aan de oproep, vermeld in artikel 28 van dit besluit;<br>
 2° als de initiatiefnemer een rechtspersoon is, met uitzondering van openbare besturen: de statuten en de eventuele wijzigingen ervan;<br>
-3° een kopie van de beslissing van het bevoegde orgaan om een planningsvergunning aan te vragen voor een bijzondere erkenning voor de zorg en ondersteuning van personen met jongdementie;<br>
+3° een kopie van de beslissing van het bevoegde orgaan om een planningsvergunning aan te vragen voor een bijkomende erkenning voor de zorg en ondersteuning van personen met jongdementie;<br>
 4° een toelichting waarin al de volgende elementen aan bod komen:<br>
 a) de voorwaarden, vermeld in artikel 68, 1°, 3° en 5°, van bijlage 11 bij het besluit van 28 juni 2019;<br>
 b) de visie op zorg en ondersteuning van personen met dementie in het algemeen en van personen met jongdementie in het bijzonder;<br>
@@ -427,7 +399,7 @@ De planningsvergunning is twee jaar geldig.<br>
 
 ### ART 33.
 
-De planningsvergunning vervalt van rechtswege als binnen de geldigheidsduur van de planningsvergunning de initiatiefnemer voor de voorziening of de entiteiten van de voorziening geen ontvankelijke aanvraag heeft ingediend om de bijzondere erkenning te krijgen.<br>
+De planningsvergunning vervalt van rechtswege als binnen de geldigheidsduur van de planningsvergunning de initiatiefnemer voor de voorziening of de entiteiten van de voorziening geen ontvankelijke aanvraag heeft ingediend om de bijkomende erkenning te krijgen.<br>
 <br>
 Het agentschap brengt de initiatiefnemer op de hoogte van het verval of het gedeeltelijke verval van de planningsvergunning.<br>
 <br>
