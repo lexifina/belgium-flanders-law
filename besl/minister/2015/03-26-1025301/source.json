@@ -2,16 +2,16 @@
   "codex_id": 1025301,
   "title": "Ministerieel besluit van 2015-03-26 tot delegatie van specifieke bevoegdheden aan het hoofd van het [Agentschap Landbouw en Zeevisserij]",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025301/VolledigDocument?datum=2020-02-15",
-  "source_sha256": "4f97b19aa5fc71e5866d9dfc8f524e677056ece2405e98bea9a30dd6aed140e7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025301/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "49531c36b7d356baf644b9c723bc9ca76c5a209c621da24d82c6dfb4265d449e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025301&param=informatie",
-  "as_of": "2020-02-15",
+  "as_of": "2023-01-01",
   "made": "2015-03-26",
   "gazette": "2015-04-22",
   "numac": 2015035480,
   "document_start": "2015-05-01",
   "document_end": null,
-  "in_force": "2020-02-15",
+  "in_force": "2023-01-01",
   "article_versions": 32,
-  "record_form": "consolidated version as in force on 2020-02-15; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }
