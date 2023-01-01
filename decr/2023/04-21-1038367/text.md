@@ -8,6 +8,10 @@
 
 ## Hoofdstuk 4. Wijzigingen van de Vlaamse Codex Wonen van 2021
 
+### ART 7.
+
+In artikel 1.8, §2, eerste lid, van dezelfde codex, toegevoegd bij het decreet van 9 juli 2021, wordt het woord “ambtenaren” vervangen door het woord “personeelsleden”.
+
 ### ART 31.
 
 In artikel 4.1/1 van dezelfde codex, ingevoegd bij het decreet van 9 juli 2021 en gewijzigd bij het decreet van 3 juni 2022, worden de volgende wijzigingen aangebracht:<br>
@@ -45,6 +49,10 @@ In artikel 4.45 van dezelfde codex, vervangen bij het decreet van 9 juli 2021 en
 ## Hoofdstuk 5. Wijziging van het decreet van 9 juli 2021 houdende wijziging van diverse decreten met betrekking tot wonen
 
 ## Hoofdstuk 6. Wijziging van het decreet van 19 november 2021 tot oprichting van een Vlaams subsidieregister
+
+### ART 80.
+
+In de bijlage bij het decreet van 19 november 2021 tot oprichting van een Vlaams subsidieregister worden punt 2°, 6), en punt 2°, 23), opgeheven.
 
 ## Hoofdstuk 7. Wijziging van het decreet van 3 oktober 2022 tot beperking van de indexatie van de huurprijzen om de gevolgen van de energiecrisis te verlichten
 
