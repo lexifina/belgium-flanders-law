@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037938,
+  "title": "Besluit van de Vlaamse Regering van 2022-12-23 tot ontbinding van het Fonds Jongerenwelzijn",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037938/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "eac9bad14ac456d0be64fb94be67e1fbd9c32e5f3479a3ea87d7751a51af3151",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037938&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2022-12-23",
+  "gazette": "2023-03-24",
+  "numac": 2023015027,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
