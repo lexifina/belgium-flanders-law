@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037815,
+  "title": "Besluit van de Vlaamse Regering van 2022-12-02 tot wijziging van artikel 7 van het besluit van de Vlaamse Regering van 24 mei 2019 tot uitvoering van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037815/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "2142b72a20a9af0aa2344e6caddfca999140ce1d5e93a8bab283e23ff0aceda8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037815&param=informatie",
+  "as_of": "2023-01-01",
+  "made": "2022-12-02",
+  "gazette": "2022-12-28",
+  "numac": 2022043139,
+  "document_start": "2023-01-01",
+  "document_end": null,
+  "in_force": "2023-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
