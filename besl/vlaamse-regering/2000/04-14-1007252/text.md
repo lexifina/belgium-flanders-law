@@ -4,7 +4,13 @@
 
 ### ART. 1.
 
-§ 1. Dit besluit regelt het financiële en materiële beheer van de dienst   met afzonderlijk beheer Grondfonds, bedoeld in artikel 5.6.3. van de Vlaamse   Codex Ruimtelijke Ordening, hierna te noemen "Grondfonds".<BR><BR>§ 2.   ...<BR><BR>§ 3. Voor de toepassing van dit besluit wordt verstaan onder:<BR>1°   ...;<BR>2° de Vlaamse minister: het lid van de Vlaamse regering, bevoegd voor de   ruimtelijke ordening.
+§ 1. Dit besluit regelt het financiële en materiële beheer van de dienst met afzonderlijk beheer BRV-fonds, vermeld in artikel 1.6.1 van de Vlaamse Codex Ruimtelijke Ordening, hierna BRV-fonds te noemen.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° ...;<br>
+2° de Vlaamse minister: het lid van de Vlaamse regering, bevoegd voor de ruimtelijke ordening.
 
 ## HOOFDSTUK II DE BEGROTING
 
@@ -18,7 +24,11 @@
 
 ### ART. 4.
 
-De raming van de ontvangsten heeft betrekking op:<BR>1° het over te dragen   saldo;<BR>2° de dotaties;<BR>3° de bedragen die het Grondfonds ontvangt   krachtens titel II, hoofdstuk VI, afdeling 2, van de Vlaamse Codex Ruimtelijke   Ordening;<BR>4° de bedragen die het Grondfonds gedurende het begrotingsjaar in   kwestie zal ontvangen.
+De raming van de ontvangsten heeft betrekking op:<br>
+1° het over te dragen saldo;<br>
+2° de dotaties;<br>
+3° de bedragen die het BRV-fonds ontvangt krachtens titel II, hoofdstuk VI, afdeling 2, van de Vlaamse Codex Ruimtelijke Ordening;<br>
+4° de bedragen die het BRV-fonds gedurende het begrotingsjaar in kwestie zal ontvangen.
 
 ### ART. 5.
 
@@ -40,7 +50,7 @@ De raming van de ontvangsten heeft betrekking op:<BR>1° het over te dragen   sa
 
 ### ART. 9.
 
-De leidend ambtenaar van het Departement Omgeving wordt aangesteld als inhoudelijk ordonnateur van het Grondfonds voor de betaalbaarstelling van andere kredieten dan de kredieten voor de verrichtingen inzake de planbatenheffing, vermeld in titel II, hoofdstuk VI, afdeling 2, van de Vlaamse Codex Ruimtelijke Ordening. Hij wordt tevens belast met de inning van de inkomsten uit de handhaving die voortvloeien uit de toepassing van Titel VI van de Vlaamse Codex Ruimtelijke Ordening. Hij kan de voormelde bevoegdheden delegeren aan ambtenaren van niveau A van het Departement Omgeving.<br>
+De leidend ambtenaar van het Departement Omgeving wordt aangesteld als inhoudelijk ordonnateur van het BRV-fonds voor de betaalbaarstelling van andere kredieten dan de kredieten voor de verrichtingen inzake de planbatenheffing, vermeld in titel II, hoofdstuk VI, afdeling 2, van de Vlaamse Codex Ruimtelijke Ordening. Hij wordt tevens belast met de inning van de inkomsten uit de handhaving die voortvloeien uit de toepassing van Titel VI van de Vlaamse Codex Ruimtelijke Ordening. Hij kan de voormelde bevoegdheden delegeren aan ambtenaren van niveau A van het Departement Omgeving.<br>
 <br>
 De leidend ambtenaar van de Vlaamse Belastingsdienst wordt aangesteld als inhoudelijk ordonnateur voor de betaalbaarstelling van kredieten voor de verrichtingen inzake de planbatenheffing. Hij wordt tevens belast met de inning van de planbatenheffingen. Hij kan zijn bevoegdheid delegeren aan ambtenaren van niveau A van het agentschap.
 
@@ -72,7 +82,7 @@ Op het einde van ieder kwartaal wordt een staat van ontvangsten en een staat van
 
 ### ART. 16.
 
-De leidend ambtenaar van het Departement Omgeving wordt aangesteld als beheerder van het Grondfonds. Hij kan zijn bevoegdheden, vermeld in dit hoofdstuk, overdragen aan ambtenaren van niveau A die tot zijn administratie behoren. De voormelde ambtenaren mogen niet als ordonnateur van het Grondfonds worden voorgedragen of benoemd.
+De leidend ambtenaar van het Departement Omgeving wordt aangesteld als beheerder van het BRV-fonds. Hij kan zijn bevoegdheden, vermeld in dit hoofdstuk, overdragen aan ambtenaren van niveau A die tot zijn administratie behoren. De voormelde ambtenaren mogen niet als ordonnateur van het BRV-fonds worden voorgedragen of benoemd.
 
 ### ART. 17.
 
@@ -125,7 +135,7 @@ Deze machtiging geldt slechts binnen de perken van de geopende kredieten en van 
 </table>
 
 <p><br>
-§ 2. De beheerder staat bovendien in voor de eenvoudige uitvoering van de opdrachten voor de aanneming van werken, leveringen of diensten die in het kader van het functioneren van het Grondfonds worden gegund door de Vlaamse regering of de Vlaamse minister. Onder eenvoudige uitvoering dient te worden verstaan het nemen van alle maatregelen en beslissingen om de opdracht binnen de perken van de aanneming te realiseren, met uitzondering van de maatregelen en beslissingen die een beoordeling door de gunnende overheid vereisen.<br>
+§ 2. De beheerder staat bovendien in voor de eenvoudige uitvoering van de opdrachten voor de aanneming van werken, leveringen of diensten die in het kader van het functioneren van het BRV-fonds worden gegund door de Vlaamse regering of de Vlaamse minister. Onder eenvoudige uitvoering dient te worden verstaan het nemen van alle maatregelen en beslissingen om de opdracht binnen de perken van de aanneming te realiseren, met uitzondering van de maatregelen en beslissingen die een beoordeling door de gunnende overheid vereisen.<br>
 <br>
 § 3. De beheerder is tevens bevoegd om:<br>
 1° met betrekking tot de in § 1, eerste lid, en § 2 vermelde opdrachten:<br>
@@ -135,7 +145,7 @@ b) boeten kwijt te schelden, na advies van de bevoegde juridische afdeling over 
 a) prijsherzieningen, voortvloeiend uit de betrokken overeenkomsten goed te keuren zonder beperking van bedrag;<br>
 b) verrekeningen, andere dan voormelde herzieningen, ramingstaten en de hieraan verbonden termijnverlengingen goed te keuren voor zover hieruit geen totale extra uitgaven van meer dan 25 % voortvloeien en de uitgaven [250.000 euro (verv. B.V.R. 14 december 2001, art. 7, I: 1 januari 2002) ] niet overschrijden.<br>
 <br>
-§ 4. De beheerder is bovendien bevoegd om allerlei uitgaven die buiten de toepassing vallen van de wetgeving op de overheidsopdrachten en die betrekking hebben op de uitvoering van de taken van het Grondfonds, goed te keuren tot een bedrag van maximum [62.500 euro (verv. B.V.R. 14 december 2001, art. 8, I: 1 januari 2002) ] per beslissing, voor zover het niet gaat om subsidies.</p>
+§ 4. De beheerder is bovendien bevoegd om allerlei uitgaven die buiten de toepassing vallen van de wetgeving op de overheidsopdrachten en die betrekking hebben op de uitvoering van de taken van het BRV-fonds, goed te keuren tot een bedrag van maximum [62.500 euro (verv. B.V.R. 14 december 2001, art. 8, I: 1 januari 2002) ] per beslissing, voor zover het niet gaat om subsidies.</p>
 
 ### ART. 18.
 
