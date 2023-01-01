@@ -95,7 +95,19 @@ Wanneer voor de maand geen volledig maandsalaris verschuldigd is, wordt de toela
 
 ### ART. 8.
 
-§ 1. De extra salarissupplementen, bedoeld in artikel 4, eerste lid, 6°, worden gesubsidieerd als volgt.<br /><br />In 1994 worden de extra salarissupplementen gesubsidieerd overeenkomstig de regeling die in 1993 van kracht was met inachtneming van de salarisschalen vermeld in dit besluit. De subsidiëring wordt beperkt tot het aantal uren dat in 1991, zo nodig omgerekend op jaarbasis, voor de verschillende bijzondere prestaties afzonderlijk berekend, gesubsidieerd werd. Het aldus per voorziening op basis van voornoemd aantal uren berekend totaal subsidieerbaar bedrag voor bijzondere prestaties, wordt met 5 % verminderd.<br /><br />Indien de vermindering van het aantal uren in 1994 t.o.v. 1991 minstens 2,5 % bedraagt, wordt de hiervoor vermelde vermindering van het gesubsidieerd bedrag met 5 % niet toegepast.<br /><br />Vanaf 1995 wordt het op basis van deze regeling voor het voorafgaande jaar aan een voorziening toegekend aantal uren, voor de verschillende prestaties afzonderlijk bepaald, in aanmerking genomen voor subsidiëring, met inachtneming van de salarisschalen vermeld in dit besluit. [ <span class="reference">(ing. B.V.R. 12 juni 1995, art. 1, I: 1 januari 1994)</span> ]<br /><br />In afwijking van de vorige leden: [ <span class="reference">(verv. B.V.R. 12 juni 1995, art. 1, I: 1 januari 1994)</span> ]<br /><br />1° wordt voor de centra voor residentiële opvang van jong-volwassenen en voor de erkenningscategorie "centra voor residentiële crisisopvang" het forfaitaire bedrag bepaald door de Vlaamse minister;<br /><br />2° wordt bij wijziging van de capaciteit van een voorziening of bij een nieuwe erkenning het forfaitaire bedrag vastgesteld op het gemiddelde bedrag dat, naar rata van de capaciteit, in dezelfde erkenningscategorie werd gesubsidieerd. De Vlaamse minister bepaalt de lijst van deze gemiddelden.<br /><br />§ 2. Op gemotiveerde aanvraag van een voorziening kan de Vlaamse minister het op basis van § 1 berekende bedrag voor deze voorziening aanpassen. De Vlaamse minister stelt dienaangaande de nadere voorwaarden vast.<br /><br />§ 3. [...  <span class="reference">(opgeh. B.V.R. 12 juni 1995, art. 1, I: 1 januari 1994)</span> ]
+§ 1. De extra salarissupplementen, bedoeld in artikel 4, eerste lid, 6°, worden gesubsidieerd als volgt.<br>
+<br>
+In 1994 worden de extra salarissupplementen gesubsidieerd overeenkomstig de regeling die in 1993 van kracht was met inachtneming van de salarisschalen vermeld in dit besluit. De subsidiëring wordt beperkt tot het aantal uren dat in 1991, zo nodig omgerekend op jaarbasis, voor de verschillende bijzondere prestaties afzonderlijk berekend, gesubsidieerd werd. Het aldus per voorziening op basis van voornoemd aantal uren berekend totaal subsidieerbaar bedrag voor bijzondere prestaties, wordt met 2,5 % verminderd.<br>
+<br>
+Vanaf 1995 wordt het op basis van deze regeling voor het voorafgaande jaar aan een voorziening toegekend aantal uren, voor de verschillende prestaties afzonderlijk bepaald, in aanmerking genomen voor subsidiëring, met inachtneming van de salarisschalen vermeld in dit besluit.&nbsp;<br>
+<br>
+In afwijking van de vorige leden:&nbsp;<br>
+1° wordt voor de centra voor residentiële opvang van jong-volwassenen en voor de erkenningscategorie "centra voor residentiële crisisopvang" het forfaitaire bedrag bepaald door de Vlaamse minister;<br>
+2° wordt bij wijziging van de capaciteit van een voorziening of bij een nieuwe erkenning het forfaitaire bedrag vastgesteld op het gemiddelde bedrag dat, naar rata van de capaciteit, in dezelfde erkenningscategorie werd gesubsidieerd. De Vlaamse minister bepaalt de lijst van deze gemiddelden.<br>
+<br>
+§ 2. Op gemotiveerde aanvraag van een voorziening kan de Vlaamse minister het op basis van § 1 berekende bedrag voor deze voorziening aanpassen. De Vlaamse minister stelt dienaangaande de nadere voorwaarden vast.<br>
+<br>
+§ 3. ...
 
 ### ART. 9.
 
