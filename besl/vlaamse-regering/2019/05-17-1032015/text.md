@@ -871,8 +871,9 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° begrotingsakkoord: het akkoord van de Vlaamse minister, bevoegd voor de financiën en de begrotingen, in het kader van zijn rol bij de ex ante controle van de uitvoering van de begroting;<br>
+1° begrotingsakkoord: het akkoord van de Vlaamse minister, bevoegd voor het budgettair beleid, in het kader van zijn rol bij de ex ante controle van de uitvoering van de begroting;<br>
 2° codex: de Vlaamse Codex Overheidsfinanciën van 29 maart 2019;<br>
+2°/1 Departement Financiën en Begroting: het departement, vermeld in artikel 19, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 3° thema-overschrijdend inhoudelijk structuurelement: een inhoudelijk structuurelement dat de beleidskredieten bundelt die niet eenduidig kunnen worden toegewezen aan één specifiek structuurelement.
 
 ## HOOFDSTUK 2. Begroting
@@ -883,27 +884,66 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 2.
 
-De Vlaamse minister, bevoegd voor de financiën en de begrotingen, bereidt de jaarlijkse indiening van de meerjarenraming van de Vlaamse deelstaatoverheid voor.<br>
+De Vlaamse minister, bevoegd voor het budgettair beleid, bereidt de jaarlijkse indiening van de meerjarenraming van de Vlaamse deelstaatoverheid voor.<br>
 <br>
-De Vlaamse minister, bevoegd voor de financiën en de begrotingen, kan daarvoor de entiteiten van de Vlaamse deelstaatoverheid vragen om de nodige gegevens voor de opmaak of actualisering van de meerjarenraming aan te leveren, volgens de instructies en binnen de termijn die de minister bepaalt.
+De Vlaamse minister, bevoegd voor het budgettair beleid, kan daarvoor de entiteiten van de Vlaamse deelstaatoverheid vragen om de nodige gegevens voor de opmaak of actualisering van de meerjarenraming aan te leveren, volgens de instructies en binnen de termijn die de minister bepaalt.
 
 ### ART 3.
 
 De inhoudelijk bevoegde ministers bereiden de indiening van de beleids- en begrotingstoelichtingen voor.<br>
 <br>
-De inhoudelijk bevoegde ministers, kunnen daarvoor de entiteiten van de Vlaamse deelstaatoverheid vragen om beleids- en begrotingsinformatie op te stellen of te actualiseren volgens de instructies en binnen de termijn die de Vlaamse minister, bevoegd voor het algemeen regeringsbeleid, en de Vlaamse minister, bevoegd voor de financiën en de begroting, bepalen.
+De inhoudelijk bevoegde ministers, kunnen daarvoor de entiteiten van de Vlaamse deelstaatoverheid vragen om beleids- en begrotingsinformatie op te stellen volgens de instructies en binnen de termijn die de Vlaamse minister, bevoegd voor het algemeen regeringsbeleid, en de Vlaamse minister, bevoegd voor het budgettair beleid, bepalen.
+
+### ART 3/1.
+
+§1. Minstens een keer per zittingsperiode wordt een brede heroverweging georganiseerd.&nbsp;<br>
+<br>
+Na de regeringsvorming wordt voor de uitgaventoetsingen een indicatieve planning opgesteld, die tijdens de zittingsperiode minstens een keer wordt geactualiseerd.<br>
+<br>
+§2. Bij brede heroverwegingen en uitgaventoetsingen worden de volgende principes gehanteerd:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;een uitdrukkelijke taakopdracht van de projectgroep die de brede heroverweging of uitgaventoetsing uitvoert;<br>
+2°&nbsp;&nbsp; &nbsp;een onafhankelijk ambtelijk onderzoek;<br>
+3°&nbsp;&nbsp; &nbsp;een capaciteitsopbouw voor de evaluatie van de uitgaven en de ontvangsten;<br>
+4°&nbsp;&nbsp; &nbsp;een coördinerende en centraliserende rol van het Departement Financiën en Begroting;<br>
+5°&nbsp;&nbsp; &nbsp;een keuzemenu voor de beleidsmakers in de eindrapportering van de projectgroep;&nbsp;<br>
+6°&nbsp;&nbsp; &nbsp;een transparante eindrapportering;<br>
+7°&nbsp;&nbsp; &nbsp;een weergave van de leereffecten in de eindrapportering.<br>
+<br>
+De projectgroep stelt bij aanvang van de werkzaamheden zijn huishoudelijk reglement op.<br>
+<br>
+De voorzitter van de projectgroep bezorgt het eindrapport ter kennisgeving aan de inhoudelijke bevoegde minister en aan de Vlaamse minister, bevoegd voor het budgettair beleid. De projectgroep organiseert vervolgens een overlegmoment waarin het eindrapport wordt toegelicht aan de betrokken Vlaamse ministers. De betrokken Vlaamse ministers kunnen daarna de voorzitter vragen om het eindrapport op korte termijn aan te vullen met hun antwoorden op het eindrapport.<br>
+<br>
+De voorzitter van de projectgroep bezorgt het eindrapport, in voorkomend geval aangevuld met de antwoorden, vermeld in het derde lid, gelijktijdig digitaal aan de leden van de Vlaamse Regering en de voorzitter van het Vlaams Parlement. Het eindrapport wordt aansluitend bekendgemaakt op de website van de instantie die bevoegd is voor de begroting.<br>
+<br>
+§3. De voorzitter van de projectgroep, vermeld in paragraaf 2, derde en vierde lid, wordt aangewezen in samenspraak tussen het inhoudelijk bevoegde departement en het Departement Financiën en Begroting. Het voorzitterschap is onverenigbaar met een bezoldiging door een entiteit als vermeld in artikel III.22 van het Bestuursdecreet van 7 december 2018.&nbsp;<br>
+<br>
+Aan de voorzitter van de projectgroep, vermeld in het eerste lid, wordt een forfaitaire jaarlijkse vergoeding toegekend, met een maximumbedrag als vermeld in artikel 6, §1, 3°, van het besluit van de Vlaamse regering van 27 januari 1988 houdende sommige maatregelen tot harmonisatie van de toelagen en presentiegelden aan commissarissen, gemachtigden van financiën, afgevaardigden van de Vlaamse regering, voorzitters en leden van niet-adviserende bijzondere commissies of van raden van bestuur van instellingen en ondernemingen die onder de Vlaamse regering behoren, en kunnen vergoedingen voor reis- en verblijfskosten worden toegekend conform de regeling, vermeld in artikel 11, tweede lid, van het voormelde besluit.&nbsp;<br>
+<br>
+De forfaitaire jaarlijkse vergoeding, vermeld in het tweede lid, kan alleen betaald worden als de voorzitter in het kalenderjaar waarop de vergoeding betrekking heeft, aanwezig was op minstens twee derde van de vergaderingen van de projectgroep waarvoor hij als voorzitter is aangesteld. De voormelde regel geldt niet als de afwezigheid het gevolg was van overmacht of gewettigde verhindering.<br>
+<br>
+Als het mandaat van de voorzitter in een bepaald jaar minder dan twaalf maanden bestrijkt, wordt het bedrag van de forfaitaire vergoeding pro rata berekend, in maanden. Bij die berekening wordt de maand meegerekend waarin het mandaat is begonnen of beëindigd.<br>
+<br>
+De forfaitaire jaarlijkse vergoeding, vermeld in het tweede lid, volgt de evolutie van het gezondheidsindexcijfer overeenkomstig de wet van 1 maart 1977 houdende de inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het rijk worden gekoppeld. De forfaitaire jaarlijkse vergoeding is gekoppeld aan het spilindexcijfer 103,04 (basis 2013).<br>
+<br>
+De forfaitaire jaarlijkse vergoeding en de vergoedingen voor reis- en verblijfskosten, vermeld in het tweede lid, zijn ten laste van het inhoudelijk bevoegde departement.
+
+### ART 3/2.
+
+De modaliteiten van het criterium van de uitgaven, vermeld in artikel 10, §1, van de codex, worden opgenomen in een instructie van de Vlaamse minister, bevoegd voor het budgettair beleid.&nbsp;<br>
+<br>
+Over het criterium, vermeld in het eerste lid, wordt in elk geval gerapporteerd in de meerjarenraming, vermeld in artikel 10, §1, van de codex.
 
 ## Onderafdeling 2. Bepalingen over de jaarlijkse begroting
 
 ### ART 4.
 
-De Vlaamse minister, bevoegd voor de financiën en de begrotingen, stelt, in samenwerking met de inhoudelijk bevoegde ministers, het ontwerp van decreet tot begrotingsopmaak of begrotingsaanpassing op.
+De Vlaamse minister, bevoegd voor het budgettair beleid, stelt, in samenwerking met de inhoudelijk bevoegde ministers, het ontwerp van decreet tot begrotingsopmaak of begrotingsaanpassing op.
 
 ### ART 5.
 
 De Vlaamse Gemeenschap hanteert een geüniformiseerd begrotingsplan dat tenminste de componenten vermeld in artikel 12, eerste lid, van de codex bevat.<br>
 <br>
-De Vlaamse minister, bevoegd voor de financiën en de begrotingen, stelt het geüniformiseerde begrotingsplan, vermeld in het eerste lid, vast.<br>
+De Vlaamse minister, bevoegd voor het budgettair beleid, stelt het geüniformiseerde begrotingsplan, vermeld in het eerste lid, vast.<br>
 <br>
 De Vlaamse rechtspersonen die werken met een artikelstructuur hanteren het geüniformiseerde begrotingsplan.<br>
 <br>
@@ -915,21 +955,25 @@ De Vlaamse rechtspersonen die geen Vlaamse rechtspersonen zijn als vermeld in he
 
 ### ART 6.
 
-De Vlaamse minister, bevoegd voor de financiën en de begrotingen, maakt in samenwerking met de inhoudelijk bevoegde ministers het ontwerp van begroting of begrotingsaanpassing voor de Vlaamse Gemeenschap op, volgens de instructies en binnen de termijn die de Vlaamse minister, bevoegd voor de financiën en de begrotingen, bepaalt.
+De Vlaamse minister, bevoegd voor het budgettair beleid, maakt in samenwerking met de inhoudelijk bevoegde ministers het ontwerp van begroting of begrotingsaanpassing voor de Vlaamse Gemeenschap op, volgens de instructies en binnen de termijn die de Vlaamse minister, bevoegd voor het budgettair beleid, bepaalt.
 
 ## Onderafdeling 2. Herverdelingen
 
 ### ART 7.
 
-Een herverdeling tussen de vastleggingskredieten van hetzelfde programma gebeurt bij besluit van de inhoudelijk bevoegde minister.<br>
+Een herverdeling tussen de vastleggingskredieten binnen hetzelfde programma, gebeurt bij besluit van de inhoudelijk bevoegde minister.<br>
 <br>
-Een herverdeling tussen de vastleggingskredieten over een programma heen, gebeurt in het geval, vermeld in artikel 21, eerste lid, 2°, a), van de codex, bij besluit van de inhoudelijk bevoegde minister.<br>
+Een herverdeling tussen de vastleggingskredieten over een programma heen, gebeurt bij besluit van de inhoudelijk bevoegde minister.<br>
 <br>
-Een herverdeling die vertrekt vanuit een provisioneel krediet over een programma heen, gebeurt in het geval, vermeld in artikel 21, eerste lid, 2°, b), van de codex, bij besluit van de Vlaamse Regering.
+In afwijking van het eerste en tweede lid gebeurt een herverdeling van vastleggingskredieten die vertrekt vanuit een provisioneel krediet binnen een programma of over een programma heen bij besluit van de Vlaamse Regering.
 
 ### ART 8.
 
 Vereffeningskredieten kunnen overeenkomstig artikel 22 van de codex binnen en over de programma's heen worden herverdeeld bij besluit van de inhoudelijk bevoegde minister.
+
+### ART 8/1.
+
+In afwijking van artikel 7, eerste en tweede lid, en artikel 8 kunnen variabele kredieten vrij herverdeeld worden tussen begrotingsartikels die behoren tot hetzelfde begrotingsfonds.
 
 ### ART 9.
 
@@ -939,15 +983,15 @@ Alle beslissingen tot herverdeling als vermeld in artikel 7 en 8 worden onmiddel
 
 ### ART 10.
 
-De inhoudelijk bevoegde minister maakt voor de Vlaamse rechtspersonen die onder het rechtstreekse gezag van de Vlaamse Regering staan het ontwerp van begroting of begrotingsaanpassing op, volgens de instructies en binnen de termijn die de Vlaamse minister, bevoegd voor de financiën en de begrotingen, bepaalt.<br>
+De inhoudelijk bevoegde minister maakt voor de Vlaamse rechtspersonen die onder het rechtstreekse gezag van de Vlaamse Regering staan het ontwerp van begroting of begrotingsaanpassing op, volgens de instructies en binnen de termijn die de Vlaamse minister, bevoegd voor het budgettair beleid, bepaalt.<br>
 <br>
-De Vlaamse minister, bevoegd voor de financiën en de begrotingen, voegt het ontwerp, vermeld in het eerste lid, als bijlage bij het ontwerp van uitgavenbegroting van de Vlaamse Gemeenschap, voor hij beide ter goedkeuring voorlegt aan de Vlaamse Regering en het Vlaams Parlement.
+De Vlaamse minister, bevoegd voor het budgettair beleid, voegt het ontwerp, vermeld in het eerste lid, als bijlage bij het ontwerp van uitgavenbegroting van de Vlaamse Gemeenschap, voor hij beide ter goedkeuring voorlegt aan de Vlaamse Regering en het Vlaams Parlement.
 
 ### ART 11.
 
-Het beheersorgaan van de Vlaamse rechtspersonen die niet onder het rechtstreekse gezag van de Vlaamse Regering staan, maakt het ontwerp van begroting of begrotingsaanpassing op, volgens de instructies en binnen de termijn die de Vlaamse minister, bevoegd voor de financiën en de begrotingen, bepaalt.<br>
+Het beheersorgaan van de Vlaamse rechtspersonen die niet onder het rechtstreekse gezag van de Vlaamse Regering staan, maakt het ontwerp van begroting of begrotingsaanpassing op, volgens de instructies en binnen de termijn die de Vlaamse minister, bevoegd voor het budgettair beleid, bepaalt.<br>
 <br>
-De Vlaamse minister, bevoegd voor de financiën en de begrotingen, bezorgt het ontwerp, vermeld in het eerste lid, ter kennisgeving aan het Vlaams Parlement, als bijlage bij het ontwerp van uitgavenbegroting van de Vlaamse Gemeenschap.
+De Vlaamse minister, bevoegd voor het budgettair beleid, bezorgt het ontwerp, vermeld in het eerste lid, ter kennisgeving aan het Vlaams Parlement, als bijlage bij het ontwerp van uitgavenbegroting van de Vlaamse Gemeenschap.
 
 ### ART 12.
 
@@ -971,7 +1015,7 @@ Alle beslissingen tot herverdeling als vermeld in artikel 12, eerste lid, of tot
 
 Het boekhoudplan met een basisstructuur voor de analytische component voor de entiteiten van de Vlaamse deelstaatoverheid omvat minstens de rubrieken van het algemeen rekeningenstelsel, opgenomen in de bijlage bij het koninklijk besluit van 21 oktober 2018 tot uitvoering van de artikelen III.82 tot en met III.95 van het wetboek Economisch recht.<br>
 <br>
-De Vlaamse minister, bevoegd voor de financiën en de begrotingen, kan het gebruik van bijkomende rekeningen of een verdere indeling van het algemeen rekeningenstelsel verplichten.
+De Vlaamse minister,bevoegd voor de boekhouding, kan het gebruik van bijkomende rekeningen of een verdere indeling van het algemeen rekeningenstelsel verplichten.
 
 ### ART 16.
 
@@ -985,7 +1029,7 @@ De technieken, vermeld in het eerste lid, omvatten onder meer:<br>
 
 ### ART 17.
 
-De Vlaamse minister, bevoegd voor de financiën en de begrotingen, stelt een handleiding op met een toelichting bij de boekhoudregels die van toepassing zijn op de Vlaamse Gemeenschap en de Vlaamse rechtspersonen.<br>
+De Vlaamse minister, bevoegd voor de boekhouding, stelt een handleiding op met een toelichting bij de boekhoudregels die van toepassing zijn op de Vlaamse Gemeenschap en de Vlaamse rechtspersonen.<br>
 <br>
 Hij deelt die handleiding en de aanpassingen eraan jaarlijks mee aan de Vlaamse Regering.
 
@@ -996,7 +1040,7 @@ Hij deelt die handleiding en de aanpassingen eraan jaarlijks mee aan de Vlaamse 
 § 1. Alleen verrichtingen die niet binnen de Vlaamse Gemeenschap plaatsvinden, of met diensten met afzonderlijk beheer kunnen aanleiding geven tot een aanrekening op een begrotingsartikel of een vastleggings- of vereffeningskrediet.<br>
 <br>
 De volgende kosten en opbrengsten leiden niet tot een aanrekening:<br>
-1° voorzieningen;<br>
+1° voorzieningen, met uitzondering van voorzieningen voor niet opgenomen vakantiedagen en voorzieningen voor gestandaardiseerde waarborgen;<br>
 2° afschrijvingen;<br>
 3° opbrengsten of kosten als gevolg van herwaarderingen;<br>
 4° interne verrekeningen;<br>
@@ -1016,13 +1060,13 @@ Voor verschuldigde of gevorderde interesten en huur wordt een proratering toegep
 
 ### ART 20.
 
-§ 1. Subsidies worden conform artikel 34, § 1, tweede lid, van de codex voor het volledige bedrag van de aangegane verbintenis vastgelegd, tenzij de subsidie jaarlijks kan worden geëvalueerd naar aanleiding van een controle van de voorwaarden of bijgesteld naar aanleiding van begrotingsmaatregelen.<br>
+§1. Subsidies worden conform artikel 34, §1, tweede lid, van de codex voor het volledige bedrag van de aangegane verbintenis vastgelegd. Conform artikel 34, §1, vierde lid, van de codex worden subsidies jaarlijks vastgelegd als het maximale subsidiebedrag eenzijdig door de subsidieverstrekker naar beneden kan worden bijgesteld wegens beleidswijzigingen of besparingsmaatregelen.<br>
 <br>
 § 2. Subsidies die inkomensoverdrachten zijn, worden aangerekend op het vereffeningskrediet van het kalenderjaar waarop de gesubsidieerde activiteiten betrekking hebben. Als een subsidie over verschillende kalenderjaren is gespreid, wordt het bedrag geprorateerd op basis van het aantal maanden waarop de gesubsidieerde activiteit betrekking heeft.<br>
 <br>
 Als de jaarlijkse kosten niet vaststaan, raamt de subsidieverstrekker de prestaties op een consistente wijze.<br>
 <br>
-§ 3. Subsidies die kapitaaloverdrachten zijn, worden aangerekend op het vereffeningskrediet voor het deel van de subsidie dat voor de gesubsidieerde als verworven kan worden beschouwd.
+§3. Subsidies die kapitaaloverdrachten zijn, worden aangerekend op het vereffeningskrediet voor het deel van de subsidie waarvoor al prestaties zijn geleverd.
 
 ### ART 21.
 
@@ -1038,13 +1082,13 @@ Een recurrente verbintenis wordt in het eerste jaar vastgelegd op het moment waa
 
 ### ART 22.
 
-§ 1. Ieder jaar maakt de instantie die bevoegd is voor de rekeningen of de bevoegde dienst binnen de Vlaamse rechtspersoon een lijst op van de vastleggingen die acht jaar of ouder zijn en die nog niet zijn vereffend. Ze deelt die lijst mee aan de inhoudelijk bevoegde minister.<br>
+§ 1. Ieder jaar maakt de instantie die bevoegd is voor de rekeningen of de bevoegde dienst binnen de Vlaamse rechtspersoon een lijst op van de vastleggingen die acht jaar of ouder zijn en die nog niet zijn vereffend. Ze deelt die lijst mee aan de inhoudelijk bevoegde administratie.<br>
 <br>
-Elke minister bezorgt voor de niet vereffende vastleggingen, vermeld in het eerste lid, die betrekking hebben op zijn beleidsdomein een aanvraag tot behoud van de vastlegging aan de Inspectie van Financiën, met toepassing van de procedure, vermeld in artikel 52 en 53.<br>
+Voor de niet vereffende vastleggingen, vermeld in het eerste lid, waarvan de onderliggende verbintenis nog in uitvoering is, bezorgt de inhoudelijk bevoegde minister een aanvraag tot behoud van vastleggingen aan de Inspectie van Financiën. Daarbij past de inhoudelijk bevoegde minister de procedure, vermeld in artikel 52 en 53, toe.<br>
 <br>
 De vastleggingen waarvoor de Inspectie van Financiën de voorgelegde motivering gunstig adviseert, blijven behouden.<br>
 <br>
-Als de Inspectie van Financiën een ongunstig advies uitbrengt, kan de inhoudelijk bevoegde minister daartegen een beroep indienen bij de Vlaamse minister, bevoegd voor de financiën en de begrotingen, conform artikel 54. Als de Vlaamse minister, bevoegd voor de financiën en de begrotingen, of de Vlaamse Regering het beroep inwilligt, blijft de vastlegging behouden. De andere vastleggingen worden van rechtswege geannuleerd als geen beroep wordt ingediend of het beroep wordt verworpen.<br>
+Als de Inspectie van Financiën een ongunstig advies uitbrengt, kan de inhoudelijk bevoegde minister daartegen een beroep indienen bij de Vlaamse minister, bevoegd voor het budgettair beleid, conform artikel 54. Als de Vlaamse minister, bevoegd voor het budgettair beleid, of de Vlaamse Regering het beroep inwilligt, blijft de vastlegging behouden. De andere vastleggingen worden van rechtswege geannuleerd als geen beroep wordt ingediend of het beroep wordt verworpen.<br>
 <br>
 § 2. De aanvraag, vermeld in paragraaf 1, tweede lid, kan onmiddellijk de einddatum van de vastlegging omvatten. Als de Inspectie van Financiën die aanvraag gunstig adviseert, moet niet jaarlijks een nieuwe aanvraag gebeuren.
 
@@ -1054,17 +1098,17 @@ Als de Inspectie van Financiën een ongunstig advies uitbrengt, kan de inhoudeli
 
 ### ART 23.
 
-De rekening, vermeld in artikel 42, § 1, van de codex, met inbegrip van alle elementen waaruit ze bestaat, vermeld in artikel 42, § 1, tweede lid, van de codex, wordt opgemaakt volgens de instructies en binnen de termijn die de Vlaamse minister, bevoegd voor de financiën en de begrotingen, en de Vlaamse minister, bevoegd voor het algemeen regeringsbeleid, bepaalt.
+De rekening, vermeld in artikel 42, § 1, van de codex, met inbegrip van alle elementen waaruit ze bestaat, vermeld in artikel 42, § 1, tweede lid, van de codex, wordt opgemaakt volgens de instructies en binnen de termijn die de Vlaamse minister, bevoegd voor het budgettair beleid, en de Vlaamse minister, bevoegd voor het algemeen regeringsbeleid, bepaalt.
 
 ### ART 24.
 
-De Vlaamse minister, bevoegd voor de financiën en de begrotingen, kan instructies vaststellen om de tussentijdse of bijkomende jaarlijkse rapportering, vermeld in artikel 45 van de codex, te coördineren.
+De Vlaamse minister, bevoegd voor het budgettair beleid, kan instructies vaststellen om de tussentijdse of bijkomende jaarlijkse rapportering, vermeld in artikel 45 van de codex, te coördineren.
 
 ## Afdeling 2. Specifieke bepalingen voor de Vlaamse Gemeenschap
 
 ### ART 25.
 
-De Vlaamse minister, bevoegd voor de financiën en de begrotingen, maakt in samenwerking met de inhoudelijk bevoegde ministers de rekening voor de Vlaamse Gemeenschap op.
+De Vlaamse minister, bevoegd voor het budgettair beleid, maakt in samenwerking met de inhoudelijk bevoegde ministers de rekening voor de Vlaamse Gemeenschap op.
 
 ## Afdeling 3. Specifieke bepaling voor de Vlaamse rechtspersonen
 
@@ -1072,13 +1116,13 @@ De Vlaamse minister, bevoegd voor de financiën en de begrotingen, maakt in same
 
 De inhoudelijk bevoegde minister maakt voor de Vlaamse rechtspersonen die onder het rechtstreekse gezag van de Vlaamse Regering staan de rekeningen, vermeld in artikel 42, § 1, van de codex op.<br>
 <br>
-De Vlaamse minister, bevoegd voor de financiën en de begrotingen, voegt ze als bijlage bij de rekening van de Vlaamse Gemeenschap, voor hij beide ter goedkeuring voorlegt aan de Vlaamse Regering en het Vlaams Parlement.
+De Vlaamse minister, bevoegd voor het budgettair beleid, voegt ze als bijlage bij de rekening van de Vlaamse Gemeenschap, voor hij beide ter goedkeuring voorlegt aan de Vlaamse Regering en het Vlaams Parlement.
 
 ### ART 27.
 
 De beheersorganen van de Vlaamse rechtspersonen die niet onder het rechtstreekse gezag van de Vlaamse Regering staan, maken de rekeningen, vermeld in artikel 42, § 1, van de codex op.<br>
 <br>
-De Vlaamse minister, bevoegd voor de financiën en de begrotingen, voegt de rekeningen, vermeld in het eerste lid, als bijlage bij de rekening van de Vlaamse Gemeenschap ter kennisgeving aan de Vlaamse Regering en aan het Vlaams Parlement.
+De Vlaamse minister,bevoegd voor het budgettair beleid, voegt de rekeningen, vermeld in het eerste lid, als bijlage bij de rekening van de Vlaamse Gemeenschap ter kennisgeving aan de Vlaamse Regering en aan het Vlaams Parlement.
 
 ### ART 28.
 
@@ -1098,19 +1142,19 @@ Overeenkomstig artikel 43, eerste lid, van de codex bezorgt de instantie die bev
 1° het advies van de Inspectie van Financiën en, in voorkomend geval, een repliek op dat advies;<br>
 2° een transparante weergave van de budgettaire gevolgen voor het lopende begrotingsjaar en de daaropvolgende jaren, inclusief de berekening van de ESR-impact van de voorgestelde maatregelen.<br>
 <br>
-De Vlaamse minister, bevoegd voor de financiën en de begrotingen, kan een modelformulier ter beschikking stellen voor de aanvraag van het advies van de Inspectie van Financiën of van het begrotingsakkoord. Dat modelformulier wordt meegedeeld aan de Vlaamse Regering.<br>
+De Vlaamse minister, bevoegd voor het budgettair beleid, kan een modelformulier ter beschikking stellen voor de aanvraag van het advies van de Inspectie van Financiën of van het begrotingsakkoord. Dat modelformulier wordt meegedeeld aan de Vlaamse Regering.<br>
 <br>
-Als onvolledigheden in het dossier worden vastgesteld, kan de Vlaamse minister, bevoegd voor de financiën en de begrotingen, de aanvrager verzoeken om het dossier te vervolledigen.<br>
+Als onvolledigheden in het dossier worden vastgesteld, kan de Vlaamse minister, bevoegd voor het budgettair beleid, de aanvrager verzoeken om het dossier te vervolledigen.<br>
 <br>
 Een verzoek als vermeld in het derde lid schorst de termijn, vermeld in paragraaf 2, als het verzoek, vermeld in het derde lid, gebeurt binnen een termijn van zes werkdagen nadat de aanvraag van het begrotingsakkoord is ontvangen en de vervollediging gebeurt na een termijn van drie werkdagen na dat verzoek. De schorsing gaat in op de dag van het verzoek als vermeld in het derde lid. De schorsing wordt meegedeeld aan de aanvrager van het begrotingsakkoord.<br>
 <br>
-§ 2. De Vlaamse minister, bevoegd voor de financiën en de begrotingen, beslist over het gevraagde begrotingsakkoord binnen een termijn van twaalf werkdagen nadat hij de aanvraag van het begrotingsakkoord heeft ontvangen.
+§ 2. De Vlaamse minister, bevoegd voor het budgettair beleid, beslist over het gevraagde begrotingsakkoord binnen een termijn van twaalf werkdagen nadat hij de aanvraag van het begrotingsakkoord heeft ontvangen.
 
 ### ART 30.
 
-Als de Vlaamse minister, bevoegd voor de financiën en de begrotingen, het begrotingsakkoord weigert, kan de inhoudelijk bevoegde minister zijn voorstel ter beslissing voorleggen aan de Vlaamse Regering.<br>
+Als de Vlaamse minister, bevoegd voor het budgettair beleid, het begrotingsakkoord weigert, kan de inhoudelijk bevoegde minister zijn voorstel ter beslissing voorleggen aan de Vlaamse Regering.<br>
 <br>
-Als de Vlaamse minister, bevoegd voor de financiën en de begrotingen, geen beslissing heeft meegedeeld binnen de termijn van twaalf werkdagen, vermeld in artikel 29, § 2, kan de inhoudelijk bevoegde minister zijn voorstel uitvoeren wanneer geen beslissing van de Vlaamse Regering vereist is of ter beslissing voorleggen aan de Vlaamse Regering wanneer een beslissing van de Vlaamse Regering vereist is.
+Als de Vlaamse minister, bevoegd voor het budgettair beleid, geen beslissing heeft meegedeeld binnen de termijn van twaalf werkdagen, vermeld in artikel 29, § 2, kan de inhoudelijk bevoegde minister zijn voorstel uitvoeren wanneer geen beslissing van de Vlaamse Regering vereist is of ter beslissing voorleggen aan de Vlaamse Regering wanneer een beslissing van de Vlaamse Regering vereist is.
 
 ## Onderafdeling 2. Toezicht op de uitvoering van de begroting
 
@@ -1126,11 +1170,13 @@ Het begrotingsakkoord is ook vereist voor:<br>
 <br>
 § 2. In afwijking van paragraaf 1, is het begrotingsakkoord niet vereist in de volgende gevallen:<br>
 1° als met toepassing van artikel 43, § 3, geen advies van de Inspectie van Financiën vereist is;<br>
-2° als de Inspectie van Financiën in haar advies vaststelt dat noch de uitgaven noch de ontvangsten worden beïnvloed;<br>
+2° als de Inspectie van Financiën in haar advies vaststelt en motiveert dat de uitgaven en ontvangsten niet worden beïnvloed of die invloed hooguit bijkomstig is;<br>
 3° voor standpuntbepalingen in het kader van de institutionele samenwerking tussen de federale staat en de gemeenschappen en gewesten, in geval van een gunstig advies van de Inspectie van Financiën;<br>
-4° als subsidies, die geen toelage uitmaken en die alleen een rechtsgrond hebben in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap als vermeld in artikel 71, § 1, eerste lid, 2°, een gunstig advies hebben gekregen van de Inspectie van Financiën, behalve als de toekenning van de subsidie verbonden is aan de goedkeuring van een overeenkomst met meerjarige gevolgen.<br>
+4° ....<br>
 <br>
-§ 3. De Vlaamse minister, bevoegd voor de financiën en de begrotingen, kan, in afwijking van paragraaf 1, voor bepaalde aangelegenheden beslissen dat het begrotingsakkoord niet meer vereist is na het gunstige advies van de Inspectie van Financiën.
+§ 3. De Vlaamse minister, bevoegd voor het budgettair beleid, kan, in afwijking van paragraaf 1, voor bepaalde aangelegenheden beslissen dat het begrotingsakkoord niet meer vereist is na het gunstige advies zonder voorwaarden van de Inspectie van Financiën.<br>
+<br>
+§4. Dit artikel is niet van toepassing op subsidies en oproepen tot subsidieaanvragen als vermeld in artikel 71.
 
 ## Onderafdeling 3. Toezicht op de herverdelingen of aanpassingen van de begroting
 
@@ -1170,7 +1216,7 @@ Het begrotingsakkoord is vereist voor aanpassingen van de begroting van de Vlaam
 
 § 1. De beleidscoördinator, vermeld in artikel 52, § 2, van de codex, wordt verkozen door de leden van de Inspectie van Financiën die ter beschikking worden gesteld van de Vlaamse Regering. Voormelde leden dragen de beleidscoördinator voor na interne verkiezingen waaraan enkel de leden die in dienstactiviteit zijn, kunnen deelnemen.<br>
 <br>
-De Vlaamse minister, bevoegd voor de financiën en de begrotingen, bepaalt de procedure voor de stemming en de aanstelling. Hij deelt die procedures en de aanpassingen eraan, en het resultaat van de stemming mee aan de Vlaamse Regering.<br>
+De Vlaamse minister, bevoegd voor het budgettair beleid, bepaalt de procedure voor de stemming en de aanstelling. Hij deelt die procedures en de aanpassingen eraan, en het resultaat van de stemming mee aan de Vlaamse Regering.<br>
 <br>
 De beleidscoördinator ontvangt voor het uitoefenen van zijn bijkomende taak als beleidscoördinator als vermeld in artikel 52, § 2, tweede lid, van de codex een vergoeding van 7000 euro per jaar.<br>
 <br>
@@ -1200,7 +1246,7 @@ Het jaarlijks rapport bevat ook duiding van de risico's die waargenomen zijn bij
 <br>
 De Inspectie van Financiën bewaakt de juistheid van haar vaststellingen bij het uitvoeren van de analyses en evaluaties, vermeld in paragraaf 3, 1° en 2°. Hiertoe organiseert zij overlegmomenten met de inhoudelijk bevoegde minister waarin die vaststellingen worden besproken, aangevuld met de mogelijkheid voor de inhoudelijk bevoegde minister om op korte termijn te antwoorden.<br>
 <br>
-§ 5. Een inbreuk op de deontologische code, vermeld in artikel 52, § 2, tweede lid, van de codex, wordt bij de vaststelling ervan gerapporteerd aan de Vlaamse minister, bevoegd voor de financiën en de begrotingen. Hierbij mag op generlei wijze afbreuk gedaan worden aan de federale bevoegdheden inzake de naleving van de deontologische code, vermeld in artikel 52, § 2, tweede lid, van de codex.
+§ 5. Een inbreuk op de deontologische code, vermeld in artikel 52, § 2, tweede lid, van de codex, wordt bij de vaststelling ervan gerapporteerd aan de Vlaamse minister, bevoegd voor het budgettair beleid. Hierbij mag op generlei wijze afbreuk gedaan worden aan de federale bevoegdheden inzake de naleving van de deontologische code, vermeld in artikel 52, § 2, tweede lid, van de codex.
 
 ### ART 38.
 
@@ -1210,7 +1256,7 @@ Op voorstel van de beleidscoördinator kan de Vlaamse Regering beslissen een ins
 
 ### ART 39.
 
-Binnen het kader van de algemene doelstellingen van de Vlaamse Regering behandelen de adviezen van de Inspectie van Financiën uitsluitend de wettigheid, de regelmatigheid, de doelmatigheid, de kostenefficiëntie en de budgettaire inpasbaarheid op termijn.
+Binnen het kader van de algemene doelstellingen van de Vlaamse Regering behandelen de adviezen van de Inspectie van Financiën uitsluitend de wettigheid, de regelmatigheid, de doelmatigheid en doeltreffendheid, de kostenefficiëntie en de budgettaire inpasbaarheid op termijn.
 
 ### ART 40.
 
@@ -1220,15 +1266,17 @@ Binnen de groep van ter beschikking gestelde inspecteurs van Financiën kan de V
 
 ### ART 41.
 
-De Inspectie van Financiën kan op eigen initiatief of op aanvraag van de inhoudelijk bevoegde minister of de Vlaamse minister, bevoegd voor de financiën en de begrotingen en nadat de inhoudelijk bevoegde minister geïnformeerd werd:<br>
+De Inspectie van Financiën kan op eigen initiatief of op aanvraag van de inhoudelijk bevoegde minister of de Vlaamse minister, bevoegd voor het budgettair beleid en nadat de inhoudelijk bevoegde minister geïnformeerd werd:<br>
 1° de analyses en evaluaties, vermeld in artikel 37, § 3, 1° en 2°, opzetten;<br>
 2° onderzoek verrichten over elke aangelegenheid die de doelmatigheid van de besteding van de begrotingskredieten kan beïnvloeden;<br>
 3° een audit uitvoeren bij elke instelling die door de Vlaamse deelstaatoverheid gesubsidieerd wordt;<br>
 4° de totstandkoming van het zelfevaluatierapport en de zelfevaluatie, vermeld in artikel 8 van het decreet van 22 maart 2019 houdende een kader voor grote projecten en programma's, faciliteren voor de Vlaamse rechtspersonen die onder het rechtstreekse gezag van de Vlaamse Regering staan.<br>
 <br>
+De Inspectie van Financiën oefent een gericht systematisch toezicht uit op de toegekende en uitbetaalde subsidies na het afsluiten van het project of van de activiteit waarvoor die subsidies zijn toegekend. Dat toezicht houdt ook in dat er snel en gepast opgetreden wordt als er op welk ogenblik ook binnen het subsidieproces een ernstig vermoeden is of ernstige aanwijzingen zijn dat een subsidie oneigenlijk wordt gebruikt.<br>
+<br>
 De Inspectie van Financiën voert de audit, vermeld in het eerste lid, 3°, uit in samenwerking met de personeelsleden van de Vlaamse Gemeenschap of met ondersteuning van externe deskundigen. Ze behoudt de eindverantwoordelijkheid van de audit.<br>
 <br>
-De Inspectie van Financiën deelt de auditaanpak en het auditverslag aan de andere controleactoren mee, op voorwaarde dat de inhoudelijk bevoegde minister, de minister, bevoegd voor de financiën en de begrotingen, of de Vlaamse Regering daarover geen andere beslissing neemt.
+De Inspectie van Financiën deelt de auditaanpak en het auditverslag aan de andere controleactoren mee, op voorwaarde dat de inhoudelijk bevoegde minister, de Vlaamse minister, bevoegd voor het budgettair beleid, of de Vlaamse Regering daarover geen andere beslissing neemt.
 
 ## Onderafdeling 3. Voorbereiding en bijsturing van de begroting
 
@@ -1246,9 +1294,9 @@ De Inspectie van Financiën wordt betrokken bij de opstelling en de bijsturing v
 1° elk ontwerp van reglementair ministerieel besluit of van omzendbrief met een budgettaire weerslag;<br>
 2° voorstellen, met inbegrip van herverdelingen en aanpassingen van de begroting, die het begrotingsakkoord vereisen;<br>
 3° ontwerpen van reorganisatie- en personeelsplannen en het eerste ondernemingsplan van een regeerperiode;<br>
-4° leningen en uitgifte van kredieten, en het aangaan van participaties, vanaf een bedrag groter dan 7000 euro, behalve als dat gebeurt ter uitvoering van een samenwerkingsovereenkomst die al voor advies werd voorgelegd aan de Inspectie van Financiën, of voor elke verrichting van financieel beheer in het algemeen belang die uitdrukkelijk gedelegeerd is aan de Vlaamse minister, bevoegd voor de financiën en de begrotingen.<br>
+4° leningen en uitgifte van kredieten, en het aangaan van participaties, vanaf een bedrag groter dan 7000 euro, behalve als dat gebeurt ter uitvoering van een samenwerkingsovereenkomst die al voor advies werd voorgelegd aan de Inspectie van Financiën, of voor elke verrichting van financieel beheer in het algemeen belang die uitdrukkelijk gedelegeerd is aan de Vlaamse minister, bevoegd voor het budgettair beleid.<br>
 <br>
-Het ondernemingsplan voor het lopende kalenderjaar, dat niet het eerste ondernemingsplan van een regeerperiode is, wordt ter kennisgeving voorgelegd aan de Inspectie van Financiën en de Vlaamse minister, bevoegd voor de financiën en de begrotingen.<br>
+Het ondernemingsplan voor het lopende kalenderjaar, dat niet het eerste ondernemingsplan van een regeerperiode is, wordt ter kennisgeving voorgelegd aan de Inspectie van Financiën en de Vlaamse minister, bevoegd voor het budgettair beleid.<br>
 <br>
 § 3. In afwijking van paragraaf 1 moeten de volgende voorstellen van beslissing niet voor advies worden voorgelegd:<br>
 1° beslissingen over de aanwijzing, voordracht, benoeming of bevordering van personen, alsook beslissingen over het verder in dienst houden van een ambtenaar na het einde van de maand waarin hij de wettelijke pensioenleeftijd heeft bereikt;<br>
@@ -1256,7 +1304,11 @@ Het ondernemingsplan voor het lopende kalenderjaar, dat niet het eerste ondernem
 3° ontwerpen van of wijzigingen aan ruimtelijke beleids- en uitvoeringsplannen;<br>
 4° beslissingen op krachtlijnen die voorafgaan aan een definitieve beslissing, zoals goedkeuring van conceptnota's, visienota's, groen- of witboeken, op voorwaarde dat die beslissingen uitdrukkelijk vermelden dat ze nog geen enkel financieel of budgettair engagement inhouden;<br>
 5° beslissingen tot indiening van een beroep tot vernietiging bij het Grondwettelijk Hof;<br>
-6° besluiten houdende de toekenning van een toelage.
+6° ...<br>
+7° beslissingen met betrekking tot de indiening van een nota op het Overlegcomité;<br>
+8° beslissingen over het beroep tegen de beslissing van de Commissie Zorgvuldig Bestuur, vermeld in artikel VII.14 van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016.<br>
+<br>
+§4. Dit artikel is niet van toepassing op subsidies en oproepen tot subsidieaanvragen als vermeld in artikel 71.
 
 ### ART 44.
 
@@ -1264,36 +1316,43 @@ Onder voorbehoud van andere afspraken die vastgelegd zijn met de Inspectie van F
 
 ### ART 45.
 
-§ 1. Overheidsopdrachten zijn vrijgesteld van voorafgaand advies van de Inspectie van Financiën met uitzondering van de volgende overheidsopdrachten:<br>
-1° overheidsopdrachten die geplaatst zijn via een openbare of niet-openbare procedure voor leveringen en diensten waarvan de geraamde waarde gelijk is aan of hoger is dan 221.000 euro, exclusief btw;<br>
-2° overheidsopdrachten die geplaatst zijn via een openbare of niet-openbare procedure voor werken waarvan de geraamde waarde hoger is dan 750.000 euro, exclusief btw;<br>
-3° overheidsopdrachten die geplaatst zijn via een andere gunningswijze dan een openbare of een niet-openbare procedure, waarvan de geraamde waarde hoger is dan 144.000 euro, exclusief btw.<br>
+§1. Overheidsopdrachten zijn vrijgesteld van een voorafgaand advies van de Inspectie van Financiën met uitzondering van de volgende overheidsopdrachten:<br>
+1°&nbsp;&nbsp; &nbsp;overheidsopdrachten die worden geplaatst bij een openbare of niet-openbare procedure voor leveringen en diensten waarvan de geraamde waarde gelijk is aan of hoger is dan 221.000 euro, exclusief btw;<br>
+2°&nbsp;&nbsp; &nbsp;overheidsopdrachten die worden geplaatst bij een openbare of niet-openbare procedure voor werken waarvan de geraamde waarde gelijk is aan of hoger is dan 750.000 euro, exclusief btw;<br>
+3°&nbsp;&nbsp; &nbsp;overheidsopdrachten die worden geplaatst bij een andere gunningswijze dan een openbare of een niet-openbare procedure, waarvan de geraamde waarde gelijk is aan of hoger is dan 144.000 euro, exclusief btw.<br>
 <br>
 In afwijking van het eerste lid worden de volgende overheidsopdrachten ongeacht de geraamde waarde van de opdracht altijd voor advies van de Inspectie van Financiën voorgelegd:<br>
-1° de overheidsopdracht die gegund wordt via een openbare of niet-openbare procedure, met als enig gunningscriterium de prijs, waarbij de aanbestedende overheid voorstelt de opdracht niet aan de laagste inschrijver toe te wijzen;<br>
-2° elke overheidsopdracht die de raming met meer dan 20% overschrijdt.<br>
+1°&nbsp;&nbsp; &nbsp;de overheidsopdracht die geplaatst wordt bij een openbare of niet-openbare procedure, met als enig gunningscriterium de prijs of de kosten, waarbij de aanbestedende overheid voorstelt de opdracht niet aan de laagste inschrijver toe te wijzen;<br>
+2°&nbsp;&nbsp; &nbsp;elke overheidsopdracht waarvan de goed te keuren offerte de raming met meer dan 20% overschrijdt.<br>
 <br>
-§ 2. In de gevallen, vermeld in de eerste paragraaf, wordt aan de Inspectie van Financiën advies gevraagd over:<br>
-1° het voorwerp van de opdracht en de wettigheid van de gekozen plaatsingsprocedure;<br>
-2° het ontwerp van bestek;<br>
-3° het voorstel tot gunning;<br>
-4° alle andere wijzigingen in de lopende opdracht dan de wijzigingen, vermeld in artikel 38/1, 38/2, 38/3 38/4, 38/5, 38/9, en 38/10 van het koninklijk besluit van 14 januari 2013 tot bepaling van de algemene uitvoeringsregels van de overheidsopdrachten.<br>
+Voor occasioneel gezamenlijke opdrachten als vermeld in artikel 48 van de wet van 17 juni 2016 inzake overheidsopdrachten waarvan de totale geraamde waarde van de opdracht gelijk is aan of hoger is dan de drempelbedragen, vermeld in het eerste of tweede lid, vraagt de entiteit van de Vlaamse deelstaatoverheid het advies van de Inspectie van Financiën als:<br>
+1°&nbsp;&nbsp; &nbsp;de voormelde entiteit de plaatsingsprocedure beheert;<br>
+2°&nbsp;&nbsp; &nbsp;de voormelde entiteit de plaatsingsprocedure niet beheert en de beherende entiteit niet ressorteert onder de controlebevoegdheid van de Inspectie van Financiën of een regeringscommissaris als vermeld in artikel 54 van de codex.<br>
 <br>
-§ 3. Bestellingen binnen een eigen raamovereenkomst, of andere eigen centrale aankooptechnieken worden niet voor advies voorgelegd aan de Inspectie van Financiën, tenzij de Inspectie van Financiën bij het advies over de raamovereenkomst heeft aangegeven dat elke bestelling gelijk aan of hoger dan 144.000 euro, exclusief btw, moet worden voorgelegd.<br>
+§2. In de gevallen, vermeld in paragraaf 1, wordt aan de Inspectie van Financiën advies gevraagd over:<br>
+1°&nbsp;&nbsp; &nbsp;het voorwerp van de opdracht en de wettigheid van de gekozen plaatsingsprocedure;<br>
+2°&nbsp;&nbsp; &nbsp;de opdrachtdocumenten;<br>
+3°&nbsp;&nbsp; &nbsp;het voorstel tot gunning.<br>
 <br>
-De bestellingen binnen een eigen raamovereenkomst of andere eigen centrale aankooptechnieken, vermeld in het eerste lid, gelijk aan of hoger dan 144.000 euro, exclusief btw, waarvan het advies over de raamovereenkomst door de Inspectie van Financiën werd verleend voor de inwerkingtreding van dit besluit, worden steeds voor advies voorgelegd aan de Inspectie van Financiën, tenzij die bij het advies over een eerdere bestelling of een herbeoordeling van de raamovereenkomst heeft aangegeven dat de toekomstige bestellingen hiervan worden vrijgesteld.<br>
+Aan de Inspectie van Financiën wordt advies gevraagd over alle andere wijzigingen in de lopende opdracht dan de wijzigingen, vermeld in artikel 38/4, 38/7 en 38/8 van het koninklijk besluit van 14 januari 2013 tot bepaling van de algemene uitvoeringsregels van de overheidsopdrachten.<br>
+<br>
+§3. Bestellingen binnen een raamovereenkomst, of andere centrale aankooptechnieken worden voor advies voorgelegd aan de Inspectie van Financiën als de waarde van de bestelling gelijk is aan of hoger is dan 144.000 euro, exclusief btw, tenzij de Inspectie van Financiën bij het advies over de raamovereenkomst heeft aangegeven dat een bestelling niet moet worden voorgelegd.<br>
+<br>
+Met behoud van de toepassing van het eerste lid worden voor bestellingen waarvoor de raamovereenkomst niet alle voorwaarden vastlegt, het voorwerp van de opdracht, de wettigheid van de bestelprocedure, de opdrachtdocumenten en het voorstel tot gunning van de bestelling voor advies voorgelegd aan de Inspectie van Financiën.<br>
+.<br>
 <br>
 § 4. Alle gemotiveerde beslissingen over de overheidsopdrachten, vermeld in artikel 4 van de wet van 17 juni 2013 betreffende de motivering, de informatie en de rechtsmiddelen over de overheidsopdrachten, bepaalde opdrachten voor werken, leveringen en diensten en concessies, en ook de wijzigingen, vermeld in paragraaf 2, 4°, waarvoor geen verplicht advies nodig is, kunnen worden opgevraagd door de Inspectie van Financiën.
 
 ### ART 46.
 
-Concessies voor werken en diensten zijn vrijgesteld van voorafgaand advies van de Inspectie van Financiën, met uitzondering van concessies voor werken en diensten voor een bedrag gelijk aan of hoger dan 144.000 euro, exclusief btw.<br>
+Concessies voor werken en diensten zijn vrijgesteld van voorafgaand advies van de Inspectie van Financiën, met uitzondering van concessies voor werken en diensten voor een geraamde waarde gelijk aan of hoger dan 144.000 euro, exclusief btw.<br>
 <br>
 In de gevallen, vermeld in het eerste lid, wordt aan de Inspectie van Financiën minstens advies gevraagd over:<br>
-1° het voorwerp van de concessie en de wettigheid van de procedure die tot de keuze van de concessiehouder leidt;<br>
-2° het ontwerp van bestek;<br>
-3° het voorstel tot gunning;<br>
-4° alle andere wijzigingen in de lopende concessie dan de wijzigingen, vermeld in de artikelen 38/1, 38/2, 38/3 38/4, 38/5, 38/9, en 38/10 van het koninklijk besluit van 14 januari 2013 tot bepaling van de algemene uitvoeringsregels van de overheidsopdrachten.<br>
+1°&nbsp;&nbsp; &nbsp;het voorwerp van de concessie en de wettigheid van de procedure die tot de keuze van de concessiehouder leidt;<br>
+2°&nbsp;&nbsp; &nbsp;de concessiedocumenten;<br>
+3°&nbsp;&nbsp; &nbsp;het voorstel tot gunning.<br>
+<br>
+Aan de Inspectie van Financiën wordt advies gevraagd over alle andere wijzigingen in de lopende concessie dan de wijzigingen, vermeld in artikel 63 en 67 van het koninklijk besluit van 25 juni 2017 betreffende de plaatsing en de algemene uitvoeringsregels van de concessieovereenkomsten.<br>
 <br>
 Alle gemotiveerde beslissingen over de concessies, vermeld in artikel 4 van de wet van 17 juni 2013 betreffende de motivering, de informatie en de rechtsmiddelen inzake overheidsopdrachten, bepaalde opdrachten voor werken, leveringen en diensten en concessies, evenals de wijzigingen, vermeld in het tweede lid, 4°, waarvoor geen verplicht advies nodig is, kunnen worden opgevraagd door de Inspectie van Financiën.
 
@@ -1303,7 +1362,7 @@ Elke domeinconcessie wordt voor advies voorgelegd aan de Inspectie van Financië
 
 ### ART 48.
 
-Dadingen als vermeld in artikel 2044 van het Burgerlijk Wetboek die niet in het kader van een overheidsopdracht worden gesloten, worden voor advies voorgelegd aan de Inspectie van Financiën als de geraamde waarde van de dading 144.000 euro, exclusief btw, bereikt.
+Dadingen als vermeld in artikel 2044 van het Burgerlijk Wetboek worden voor advies voorgelegd aan de Inspectie van Financiën als de geraamde waarde van de dading 144.000 euro, exclusief btw, bereikt.
 
 ### ART 49.
 
@@ -1341,7 +1400,7 @@ Een herziening wordt gevraagd binnen een termijn van een maand na de dag waarop 
 <br>
 § 2. Een aanvraag tot herziening gaat gepaard met bijkomende informatie of een bijkomende argumentatie.<br>
 <br>
-§ 3. De Inspectie van Financiën geeft haar advies binnen een termijn van vier werkdagen nadat ze de aanvraag tot herziening als vermeld in paragraaf 2 heeft ontvangen.<br>
+§ 3. De Inspectie van Financiën geeft haar advies binnen een termijn van zes werkdagen nadat ze de aanvraag tot herziening als vermeld in paragraaf 2 heeft ontvangen.<br>
 <br>
 Dat advies is niet voor herziening vatbaar.<br>
 <br>
@@ -1349,15 +1408,15 @@ Als de Inspectie van Financiën geen advies heeft meegedeeld binnen de termijn, 
 
 ### ART 54.
 
-§ 1. Als de Inspectie van Financiën een ongunstig advies uitbrengt over een voorstel waarvoor het begrotingsakkoord niet vereist is conform artikel 31, § 2, kan de inhoudelijk bevoegde minister daartegen een gemotiveerd beroep indienen bij de Vlaamse minister, bevoegd voor de financiën en de begrotingen, en hem verzoeken zijn voorstel goed te keuren. Dat beroep bevat het advies van de Inspectie van Financiën.<br>
+§ 1. Als de Inspectie van Financiën een ongunstig advies uitbrengt over een voorstel waarvoor het begrotingsakkoord niet vereist is conform artikel 31, § 2, kan de inhoudelijk bevoegde minister daartegen een gemotiveerd beroep indienen bij de Vlaamse minister, bevoegd voor het budgettair beleid, en hem verzoeken zijn voorstel goed te keuren. Dat beroep bevat het advies van de Inspectie van Financiën.<br>
 <br>
-§ 2. Als het ongunstige advies is uitgesproken ten gevolge van de kostenefficiëntie of de budgettaire inpasbaarheid op termijn kan de Vlaamse minister, bevoegd voor de financiën en de begrotingen, het voorstel van de inhoudelijk bevoegde minister goedkeuren.<br>
+§ 2. Als het ongunstige advies is uitgesproken ten gevolge van de kostenefficiëntie of de budgettaire inpasbaarheid op termijn kan de Vlaamse minister, bevoegd voor het budgettair beleid, het voorstel van de inhoudelijk bevoegde minister goedkeuren.<br>
 <br>
-Als de Vlaamse minister, bevoegd voor de financiën en de begrotingen, geen uitspraak doet binnen een termijn van twaalf werkdagen nadat hij het gemotiveerd beroep, vermeld in paragraaf 1, heeft ontvangen, wordt hij geacht in te stemmen met het voorstel van de inhoudelijk bevoegde minister.<br>
+Als de Vlaamse minister, bevoegd voor het budgettair beleid, geen uitspraak doet binnen een termijn van twaalf werkdagen nadat hij het gemotiveerd beroep, vermeld in paragraaf 1, heeft ontvangen, wordt hij geacht in te stemmen met het voorstel van de inhoudelijk bevoegde minister.<br>
 <br>
-§ 3. Als de Vlaamse minister, bevoegd voor de financiën en de begrotingen oordeelt dat het ongunstige advies louter is uitgesproken ten gevolge van andere overwegingen, dan die vermeld in paragraaf 2, kan hij het dossier aan de Vlaamse Regering voorleggen.<br>
+§ 3. Als de Vlaamse minister, bevoegd voor het budgettair beleid oordeelt dat het ongunstige advies louter is uitgesproken ten gevolge van andere overwegingen, dan die vermeld in paragraaf 2, kan de inhoudelijk bevoegde minister het dossier aan de Vlaamse Regering voorleggen.<br>
 <br>
-§ 4. Als de Vlaamse minister, bevoegd voor de financiën en de begrotingen, het ongunstig advies van de Inspectie van Financiën bevestigt, kan de inhoudelijk bevoegde minister zijn voorstel ter beslissing voorleggen aan de Vlaamse Regering.
+§ 4. Als de Vlaamse minister, bevoegd voor het budgettair beleid, het ongunstig advies van de Inspectie van Financiën bevestigt, kan de inhoudelijk bevoegde minister zijn voorstel ter beslissing voorleggen aan de Vlaamse Regering.
 
 ## Afdeling 3. De regeringscommissaris
 
@@ -1382,7 +1441,7 @@ De regeringscommissaris, vermeld in artikel 54 van de codex, faciliteert de tots
 
 ### ART 59.
 
-Aan de regeringscommissarissen, vermeld in artikel 54 van de codex, kan de Vlaamse minister, bevoegd voor de financiën en de begrotingen, nadere regels over de rapporteringsverplichtingen opleggen.
+Aan de regeringscommissarissen, vermeld in artikel 54 van de codex, kan de Vlaamse minister, bevoegd voor het budgettair beleid, nadere regels over de rapporteringsverplichtingen opleggen.
 
 ## Afdeling 4. De bedrijfsrevisor
 
@@ -1447,7 +1506,7 @@ Daarvoor stellen de controleactoren de resultaten van hun audit ter beschikking 
 ### ART 65.
 
 De VABN wordt op de volgende wijze samengesteld:<br>
-1° de voorzitter wordt aangewezen door de Vlaamse minister, bevoegd voor de financiën en de begrotingen, onder de leden van de adviescommissie;<br>
+1° de voorzitter wordt aangewezen door de Vlaamse minister, bevoegd voor de boekhouding, onder de leden van de adviescommissie;<br>
 2° één lid wordt aangewezen onder de personeelsleden van de instantie die bevoegd is voor begroting;<br>
 3° één lid wordt aangewezen onder de personeelsleden van de instantie die bevoegd is voor de rekeningen;<br>
 4° één lid op voordracht van het Instituut voor Nationale Rekeningen-INR;<br>
@@ -1466,11 +1525,11 @@ De commissie kan het advies van experten vragen, die op verzoek van de voorzitte
 
 Het secretariaat van de VABN wordt waargenomen door de instantie die bevoegd is voor de rekeningen.<br>
 <br>
-De Vlaamse minister, bevoegd voor de financiën en de begrotingen, wijst onder de personeelsleden van de instantie die bevoegd is voor de rekeningen een secretaris aan. De secretaris heeft geen stemrecht.
+De Vlaamse minister, bevoegd voor de boekhouding, wijst onder de personeelsleden van de instantie die bevoegd is voor de rekeningen een secretaris aan. De secretaris heeft geen stemrecht.
 
 ### ART 67.
 
-De Vlaamse minister, bevoegd voor financiën en de begrotingen, benoemt de leden van de VABN voor een hernieuwbare periode van zes jaar, op voorstel van de organisaties en entiteiten, vermeld in artikel 70, § 1, van de codex. Als een lid in de loop van het mandaat wordt vervangen, beëindigt het nieuwe lid het mandaat van de persoon die hij vervangt.<br>
+De Vlaamse minister, bevoegd voor de boekhouding, benoemt de leden van de VABN voor een hernieuwbare periode van zes jaar, op voorstel van de organisaties en entiteiten, vermeld in artikel 70, § 1, van de codex. Als een lid in de loop van het mandaat wordt vervangen, beëindigt het nieuwe lid het mandaat van de persoon die hij vervangt.<br>
 <br>
 Het mandaat van de leden wordt beëindigd als ze de hoedanigheid verliezen op basis waarvan ze zijn aangesteld.<br>
 <br>
@@ -1478,11 +1537,11 @@ De leden blijven in de commissie zitten tot op het ogenblik dat ze vervangen wor
 
 ### ART 68.
 
-De VABN stelt haar huishoudelijk reglement op en legt het ter goedkeuring voor aan de Vlaamse minister, bevoegd voor financiën en de begrotingen.
+De VABN stelt haar huishoudelijk reglement op en legt het ter goedkeuring voor aan de Vlaamse minister, bevoegd voor de boekhouding.
 
 ### ART 69.
 
-Tenzij de Vlaamse minister, bevoegd voor financiën en de begrotingen, in zijn aanvraag uitdrukkelijk in een langere termijn heeft voorzien, worden de adviezen, vermeld in artikel 69 van de codex, verstrekt binnen een termijn van één maand na de dag waarop de aanvraag is ontvangen.<br>
+Tenzij de Vlaamse minister, bevoegd voor de boekhouding, in zijn aanvraag uitdrukkelijk in een langere termijn heeft voorzien, worden de adviezen, vermeld in artikel 69 van de codex, verstrekt binnen een termijn van één maand na de dag waarop de aanvraag is ontvangen.<br>
 <br>
 De adviezen, vermeld in artikel 69 van de codex, worden binnen een termijn van tien werkdagen na de totstandkoming van het advies bekendgemaakt op de website van de VABN.
 
@@ -1502,23 +1561,303 @@ De verplaatsingskosten worden terugbetaald overeenkomstig de regels die van toep
 
 ### ART 71.
 
-§ 1. Subsidies, die geen toelage uitmaken en die alleen een rechtsgrond hebben in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap worden:<br>
-1° toegekend bij ministerieel besluit, en in afwijking van artikel 43, § 2, eerste lid, 1°, slechts voor advies aan de Inspectie van Financiën voorgelegd vanaf het bedrag van 7000 euro;<br>
-2° toegekend bij besluit van de Vlaamse Regering vanaf een bedrag van 250.000 euro.<br>
+§1. De regels uit de volgende tabel zijn van toepassing op de subsidies die cumulatief voldoen aan de volgende kenmerken:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de subsidies hebben alleen een rechtsgrond in het decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap;<br>
+2°&nbsp;&nbsp; &nbsp;de subsidies maken geen toelage uit;<br>
+3°&nbsp;&nbsp; &nbsp;de subsidies worden niet toegekend ten gevolge van een oproep tot subsidieaanvragen.
+<table border="1" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:solid windowtext 1.0pt">
+	<tbody>
+		<tr>
+			<td style="vertical-align:top; width:141.5pt">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+			</td>
+			<td style="vertical-align:top; width:63.8pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Toekenning</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:90.4pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Advies Inspectie van Financiën</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:117.7pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Begrotingsakkoord</span></span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:141.5pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Subsidiebedrag </span></span></span><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">&lt; 10.000 euro</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:63.8pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Via ministerieel besluit</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:90.4pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Niet vereist</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:117.7pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Niet vereist</span></span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:141.5pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">10.000 euro ≤ subsidiebedrag &lt; 250.000 euro</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:63.8pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Via ministerieel besluit</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:90.4pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Vereist</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:117.7pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Niet vereist</span></span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:141.5pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Subsidiebedrag ≥ 250.000 euro</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:63.8pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Via Besluit Vlaamse Regering</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:90.4pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Vereist</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:117.7pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Vereist</span></span></span></span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="margin-left:0cm; margin-right:0cm"><br>
+Het subsidiebedrag, vermeld in de tabel in het eerste lid, wordt voor het totale bedrag dat door een of meer entiteiten van de Vlaamse deelstaatoverheid wordt toegekend voor een gezamenlijke activiteit van algemeen belang, getoetst aan de drempelbedragen die zijn opgenomen in de tabel, vermeld in het eerste lid.<br>
 <br>
-In afwijking van het eerste lid, 2°, worden subsidies, die geen toelage uitmaken en die alleen een rechtsgrond hebben in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap, en waarvan de begunstigde van de subsidie en het bedrag uitdrukkelijk vermeld zijn in dat decreet, toegekend bij ministerieel besluit.<br>
+In afwijking van het eerste lid is het begrotingsakkoord nooit vereist voor subsidies als vermeld in het eerste lid, als de subsidie een gunstig advies zonder voorwaarden van de Inspectie van Financiën heeft verkregen, tenzij de toekenning van de subsidie verbonden is aan een overeenkomst met meerjarige gevolgen.<br>
 <br>
-§ 2. Voor subsidies als vermeld in artikel 34, § 1, derde lid, van de codex, is geen controle vereist op de individuele toekenningsbeslissingen.<br>
+In afwijking van het eerste lid worden subsidies als vermeld in het eerste lid, altijd toegekend via ministerieel besluit en is het begrotingsakkoord niet vereist als de begunstigde en het bedrag van de subsidie uitdrukkelijk vermeld zijn in het decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap.&nbsp;<br>
 <br>
-§ 3. Voor subsidies, die geen toelage uitmaken en die een rechtsgrond hebben buiten het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap en niet vallen onder de toepassing van paragraaf 2, wordt bepaald welke voorafgaande controle bij de toekenning van een subsidie vereist is.<br>
+§2. Voor automatische subsidies als vermeld in artikel 34, §1, derde lid, van de codex, zijn de regels uit de volgende tabel van toepassing op de individuele toekenningsbeslissingen:</p>
+
+<table border="1" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:solid windowtext 1.0pt; width:336.9pt">
+	<tbody>
+		<tr>
+			<td style="vertical-align:top; width:193.15pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Advies Inspectie van Financiën</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:143.75pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Niet vereist</span></span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:193.15pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Begrotingsakkoord</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:143.75pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Niet vereist</span></span></span></span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="margin-left:0cm; margin-right:0cm"><br>
+Automatische subsidies die algemene financiering van de lokale besturen vormen, worden toegekend bij besluit van de Vlaamse minister, bevoegd voor het binnenlands bestuur en stedenbeleid.<br>
 <br>
-Als op het moment van de inwerkingtreding van dit besluit geen voorafgaande controles zijn opgenomen, kan de bevoegde minister bij aanvang van een begrotingsjaar een algemene adviesaanvraag indienen bij de Inspectie van Financiën waarin de budgettaire raming wordt opgenomen van de subsidies die hij van plan is te verlenen.<br>
+§3. Voor subsidies die geen toelage uitmaken en die een rechtsgrond hebben buiten het decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap en niet vallen onder de toepassing van paragraaf 2, kan in een afsprakenkader met de Inspectie van Financiën bepaald worden welk toezicht de Inspectie van Financiën voorafgaand aan of na de toekenning van de subsidie zal uitoefenen.&nbsp;<br>
 <br>
-Als de Inspectie van Financiën de adviesaanvraag, vermeld in het tweede lid, gunstig adviseert, worden de individuele toekenningsbeslissingen niet voorgelegd voor advies.<br>
+De beleidscoördinator, of een inspecteur van Financiën die door de beleidscoördinator wordt aangewezen in samenspraak met de Vlaamse minister, bevoegd voor het budgettair beleid, kan bemiddelen tussen de betrokken entiteit van de Vlaamse deelstaatoverheid en de inspecteur van Financiën, vermeld in artikel 38, eerste lid, om tot een afsprakenkader te komen.<br>
 <br>
-Als de bevoegde minister in de loop van het jaar de budgettaire raming, vermeld in het tweede lid, overschrijdt, legt hij de individuele toekenningsbeslissingen die volgen opnieuw voor aan de Inspectie van Financiën.<br>
+De beleidscoördinator bezorgt het afsprakenkader, vermeld in het eerste lid, aan de Vlaamse minister, bevoegd voor het budgettair beleid, en de inhoudelijk bevoegde minister. De Vlaamse minister, bevoegd voor het budgettair beleid, beschikt over een termijn van twaalf werkdagen na de dag van de voormelde kennisgeving, om het afsprakenkader af te wijzen. Als hij binnen die termijn het afsprakenkader niet heeft afgewezen, wordt het geacht goedgekeurd te zijn.<br>
 <br>
-§ 4. Als niet in een controle, als vermeld in paragraaf 3, eerste lid, is voorzien, is de procedure, vermeld in paragraaf 1, van toepassing op elke individuele toekenningsbeslissing.
+Het afsprakenkader, vermeld in het eerste lid, wordt louter ter kennisgeving en voor bekendmaking bezorgd aan de instantie die bevoegd is voor de begroting.<br>
+<br>
+Als er geen afsprakenkader als vermeld in het eerste lid, met de Inspectie van Financiën wordt gesloten, en geen sectorspecifieke decretale of reglementaire bepaling van toepassing is, zijn voor de subsidies, vermeld in het eerste lid, de regels uit de volgende tabel van toepassing:</p>
+
+<table border="1" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:solid windowtext 1.0pt">
+	<tbody>
+		<tr>
+			<td style="vertical-align:top; width:137.9pt">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+			</td>
+			<td style="vertical-align:top; width:91.8pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Toekenning</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:91.85pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Advies Inspectie van Financiën</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:91.85pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Begrotings-akkoord</span></span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:137.9pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Subsidiebedrag </span></span></span><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">&lt; 10.000 euro</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:91.8pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Via ministerieel besluit</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:91.85pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Niet vereist</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:91.85pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Niet vereist</span></span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:137.9pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">10.000 euro ≤ subsidiebedrag &lt; 250.000 euro</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:91.8pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Via ministerieel besluit</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:91.85pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Vereist</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:91.85pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Niet vereist</span></span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:137.9pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Subsidiebedrag ≥ 250.000 euro</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:91.8pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Via Besluit Vlaamse Regering</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:91.85pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Vereist</span></span></span></span></span></p>
+			</td>
+			<td style="vertical-align:top; width:91.85pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Vereist</span></span></span></span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="margin-left:0cm; margin-right:0cm"><br>
+Het subsidiebedrag, vermeld in de tabel, vermeld in het vierde lid, wordt voor het totale bedrag dat door een of meer entiteiten van de Vlaamse deelstaatoverheid wordt toegekend voor gezamenlijke activiteit van algemeen belang, getoetst aan de drempelbedragen die zijn opgenomen in de tabel, vermeld in het vierde lid.<br>
+<br>
+In afwijking van het vierde lid is het begrotingsakkoord nooit vereist voor subsidies als vermeld in het vierde lid, als de subsidie een gunstig advies zonder voorwaarden van de Inspectie van Financiën heeft verkregen, tenzij de toekenning van de subsidie verbonden is aan een overeenkomst met meerjarige gevolgen.<br>
+<br>
+§4. Op een oproep tot subsidieaanvragen of op subsidies die geen toelage uitmaken en die worden toegekend naar aanleiding van die oproep tot subsidieaanvragen zijn de regels uit de volgende tabel van toepassing:</p>
+
+<table border="1" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:solid windowtext 1.0pt; width:633px">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="height:10.8pt; vertical-align:top; width:77.75pt">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+			</td>
+			<td colspan="3" style="height:10.8pt; vertical-align:top; width:191.35pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Oproep tot subsidieaanvragen</span></span></span></span></span></p>
+			</td>
+			<td colspan="3" style="height:10.8pt; vertical-align:top; width:205.55pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Individuele subsidie</span></span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:10.8pt; vertical-align:top; width:63.75pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Bevoegd-heid</span></span></span></span></span></p>
+			</td>
+			<td style="height:10.8pt; vertical-align:top; width:63.8pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Advies Inspectie van Financiën</span></span></span></span></span></p>
+			</td>
+			<td style="height:10.8pt; vertical-align:top; width:63.8pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Begrotingsakkoord</span></span></span></span></span></p>
+			</td>
+			<td style="height:10.8pt; vertical-align:top; width:74.6pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Toekenning</span></span></span></span></span></p>
+			</td>
+			<td style="height:10.8pt; vertical-align:top; width:68.7pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Advies Inspectie van Financiën</span></span></span></span></span></p>
+			</td>
+			<td style="height:10.8pt; vertical-align:top; width:62.25pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Begrotingsakkoord</span></span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="height:39.55pt; vertical-align:top; width:77.75pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Oproep tot subsidieaan-vragen </span></span></span><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">&lt; 1.500.000 euro en geen enkele subsidie ≥ 250.000 euro wordt voorzien</span></span></span></span></span></p>
+			</td>
+			<td rowspan="2" style="height:39.55pt; vertical-align:top; width:63.75pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Inhoudelijk bevoegde minister</span></span></span></span></span></p>
+			</td>
+			<td rowspan="2" style="height:39.55pt; vertical-align:top; width:63.8pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Vereist</span></span></span></span></span></p>
+			</td>
+			<td rowspan="2" style="height:39.55pt; vertical-align:top; width:63.8pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Niet vereist</span></span></span></span></span></p>
+			</td>
+			<td rowspan="2" style="height:39.55pt; vertical-align:top; width:74.6pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Via ministerieel besluit</span></span></span></span></span></p>
+			</td>
+			<td style="height:39.55pt; vertical-align:top; width:68.7pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Niet vereist als subsidie </span></span></span><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">&lt; 10.000 euro</span></span></span></span></span></p>
+			</td>
+			<td rowspan="2" style="height:39.55pt; vertical-align:top; width:62.25pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Niet vereist</span></span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:39.55pt; vertical-align:top; width:68.7pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Vereist als 10.000 euro ≤ subsidie &lt; 250.000 euro</span></span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:118.7pt; vertical-align:top; width:77.75pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Alle andere oproepen tot subsidieaan-vragen</span></span></span></span></span></p>
+			</td>
+			<td style="height:118.7pt; vertical-align:top; width:63.75pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Vlaamse Regering </span></span></span></span></span></p>
+			</td>
+			<td style="height:118.7pt; vertical-align:top; width:63.8pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Vereist</span></span></span></span></span></p>
+			</td>
+			<td style="height:118.7pt; vertical-align:top; width:63.8pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Vereist</span></span></span></span></span></p>
+			</td>
+			<td style="height:118.7pt; vertical-align:top; width:74.6pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Via ministerieel besluit</span></span></span></span></span></p>
+			</td>
+			<td style="height:118.7pt; vertical-align:top; width:68.7pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Vereist als subsidie </span></span></span><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">≥ </span></span></span><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">10.000 euro</span></span></span></span></span></p>
+			</td>
+			<td style="height:118.7pt; vertical-align:top; width:62.25pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Niet vereist</span></span></span></span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<br>
+In afwijking van het eerste lid worden subsidies die geen toelage uitmaken en die worden toegekend naar aanleiding van een oproep tot subsidieaanvragen die een besluit van de Vlaamse Regering vergen, alleen aan de Vlaamse Regering voorgelegd als de Vlaamse Regering daartoe beslist als de betrokken oproep tot subsidieaanvragen wordt goedgekeurd. Als de Vlaamse Regering beslist dat de subsidies aan haar moeten worden voorgelegd, worden de subsidies voorafgaandelijk voor advies voorgelegd aan de Inspectie van Financiën en voor akkoord van de Vlaamse minister, bevoegd voor het budgettair beleid.&nbsp;<br>
+<br>
+Deze paragraaf is slechts van toepassing als er geen sectorspecifieke decretale of reglementaire bepaling geldt.<br>
+<br>
+§5. Op subsidies die een toelage uitmaken, zijn de regels uit de volgende tabel van toepassing:
+<table border="1" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:solid windowtext 1.0pt; width:415.4pt">
+	<tbody>
+		<tr>
+			<td style="height:12.8pt; vertical-align:top; width:238.15pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Advies Inspectie van Financiën</span></span></span></span></span></p>
+			</td>
+			<td style="height:12.8pt; vertical-align:top; width:177.25pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Niet vereist</span></span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:13.4pt; vertical-align:top; width:238.15pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Begrotingsakkoord</span></span></span></span></span></p>
+			</td>
+			<td style="height:13.4pt; vertical-align:top; width:177.25pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Niet vereist</span></span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:12.8pt; vertical-align:top; width:238.15pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Toekenning</span></span></span></span></span></p>
+			</td>
+			<td style="height:12.8pt; vertical-align:top; width:177.25pt">
+			<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif"><span style="color:black">Via ministerieel besluit</span></span></span></span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Afdeling 2. Bepalingen inzake de reservevorming bij subsidies
 
@@ -1528,9 +1867,13 @@ Als de bevoegde minister in de loop van het jaar de budgettaire raming, vermeld 
 <br>
 De totale gecumuleerde reserves kunnen maximaal 50% van het subsidiebedrag van de laatst gesubsidieerde werkingsperiode bedragen.<br>
 <br>
-Na motivering kan in de subsidiebeslissing of de rechtsgrond ervan worden afgeweken van de maximumpercentages, vermeld in het eerste en het tweede lid.<br>
+Na motivering kan in een decreet of reglementaire bepaling worden afgeweken van het eerste en het tweede lid.<br>
 <br>
-§ 2. Reserves die ten laste van subsidies aangelegd zijn conform paragraaf 1, mogen alleen worden aangewend voor de doelstelling waarvoor de initiële subsidie is toegekend.
+§ 2. Reserves die ten laste van subsidies aangelegd zijn conform paragraaf 1, mogen alleen worden aangewend voor de doelstelling waarvoor de initiële subsidie is toegekend.<br>
+<br>
+§3. Reserves die ten laste van de subsidie zijn aangelegd, worden teruggevorderd op het einde of bij de vervroegde stopzetting van de gesubsidieerde activiteit.<br>
+<br>
+§4. Een sociaal passief aanleggen ten laste van de subsidie kan alleen als er daarvoor in een rechtsgrond is voorzien in een decreet of reglementaire bepaling.
 
 ## Afdeling 3. Bepalingen inzake de ex post controle na de toekenning van subsidies
 
@@ -1558,6 +1901,24 @@ De functionele en financiële verantwoording wordt ingediend uiterlijk zes maand
 De subsidieverstrekker kan zich altijd alle aanvullende gegevens laten verschaffen die nodig zijn om de verantwoorde subsidie definitief vast te stellen.
 
 ## [Afdeling 3/1. Periodieke beleidsevaluatie (ing. BVR 28 oktober 2022, art. 27, I: 1 januari 2023)]
+
+### ART 75/1.
+
+Overeenkomstig artikel 76/1, §1, eerste lid, en §2, van de codex, onderwerpt het inhoudelijk bevoegde beleidsdomein de subsidie of het subsidiekader naargelang het geval aan een beleidsevaluatie.<br>
+<br>
+De beleidsevaluatie, vermeld in het eerste lid, van een subsidie wordt ter beschikking gehouden van de inhoudelijk bevoegde minister, de Vlaamse minister, bevoegd voor het budgettair beleid, de instantie die bevoegd is voor de begroting, en de Inspectie van Financiën, die de beleidsevaluatie, vermeld in het eerste lid, kunnen opvragen om hun respectievelijke opdrachten in het kader van de codex of dit besluit en de uitgaventoetsingen uit te voeren.<br>
+<br>
+De beleidsevaluatie, vermeld in het eerste lid, van een subsidiekader wordt bekendgemaakt op de website van de instantie die bevoegd is voor de begroting.<br>
+&nbsp;
+
+### ART 75/2.
+
+De beleidsevaluatie, vermeld in artikel 75/1, eerste lid, voldoet aan de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;het onderzoek maakt duidelijk welk subsidiekader of welke subsidie wordt onderzocht en wat de doelstellingen van dat subsidiekader of die subsidie zijn;<br>
+2°&nbsp;&nbsp; &nbsp;het onderzoek geeft antwoord op de vraag in welke mate het beleid dat met het subsidiekader of de subsidie wordt beoogd en de uitgaven die daarmee samenhangen, doeltreffend en doelmatig zijn;<br>
+3°&nbsp;&nbsp; &nbsp;de conclusies van het onderzoek worden onderbouwd door onderliggende bevindingen;<br>
+4°&nbsp;&nbsp; &nbsp;de onderzoeksmethode die in het onderzoek is gebruikt, is valide en betrouwbaar;<br>
+5°&nbsp;&nbsp; &nbsp;de beleidsevaluatie geeft inzicht in de gebruikte evaluatiemethode en in de mogelijkheden en onmogelijkheden om de doeltreffendheid en de doelmatigheid van het beleid in kwestie vast te stellen.
 
 ## Afdeling 4. Bepalingen inzake sancties en onverenigbaarheden
 
@@ -1625,13 +1986,13 @@ In het licht van de specifieke behoeften van de zorgsector bedraagt het percenta
 
 ### ART 88.
 
-De Vlaamse minister, bevoegd voor de financiën en de begrotingen, beslist of de uitzondering, vermeld in artikel 92, derde lid, van de codex, van toepassing is.
+De Vlaamse minister, bevoegd voor de financiële operaties, beslist of de uitzondering, vermeld in artikel 92, derde lid, van de codex, van toepassing is.
 
 ## Afdeling 3. Waarborgbeheer
 
 ### ART 89.
 
-Elke waarborg die wordt verleend ter uitvoering van artikel 93 van de codex wordt ter kennisgeving bezorgd aan de Vlaamse minister, bevoegd voor de financiën en de begrotingen.
+Elke waarborg die wordt verleend ter uitvoering van artikel 93 van de codex wordt ter kennisgeving bezorgd aan de Vlaamse minister, bevoegd voor de financiële operaties.
 
 ### ART 90.
 
@@ -1674,13 +2035,13 @@ De vooruitzichten over het gebruik van de beschikbare gelden, vermeld in artikel
 
 ### ART 94.
 
-De Vlaamse minister, bevoegd voor de financiën en de begrotingen, wordt gemachtigd om een interne auditor aan te stellen.<br>
+De Vlaamse minister, bevoegd voor de financiële operaties, wordt gemachtigd om een interne auditor aan te stellen.<br>
 <br>
 De auditor oefent zijn taken volledig onafhankelijk uit.
 
 ### ART 95.
 
-De Vlaamse minister, bevoegd voor de financiën en de begrotingen, wordt gemachtigd om de andere audittaken, vermeld in artikel 107 van de codex, toe te kennen aan de interne auditor.
+De Vlaamse minister, bevoegd voor de financiële operaties, wordt gemachtigd om de andere audittaken, vermeld in artikel 107 van de codex, toe te kennen aan de interne auditor.
 
 ## HOOFDSTUK 11. De Diensten met Afzonderlijk Beheer
 
@@ -1707,13 +2068,13 @@ In de begroting van de Dienst met Afzonderlijk Beheer moeten alle ontvangsten en
 
 ### ART 98.
 
-§ 1. Het saldo van het lopende jaar, verminderd met het totale bedrag van de aangegane verbintenissen die nog niet zijn vereffend, kan voor maximaal 10% worden aangewend voor de vorming of de spijzing van een reservefonds. De minister die belast is met het beheer van of het toezicht op de Dienst met Afzonderlijk Beheer, kan dat percentage aanpassen na het akkoord van de Vlaamse minister, bevoegd voor de financiën en de begrotingen.<br>
+§ 1. Het saldo van het lopende jaar, verminderd met het totale bedrag van de aangegane verbintenissen die nog niet zijn vereffend, kan voor maximaal 10% worden aangewend voor de vorming of de spijzing van een reservefonds. De minister die belast is met het beheer van of het toezicht op de Dienst met Afzonderlijk Beheer, kan dat percentage aanpassen na het akkoord van de Vlaamse minister, bevoegd voor het budgettair beleid.<br>
 <br>
-De voorafname gebeurt tot de middelen van het reservefonds 10 % bedragen van het gemiddelde van de uitgaven van de drie voorafgaande begrotingsjaren, tenzij dat bedrag wordt gewijzigd op voorstel van de minister die belast is met het beheer van of het toezicht op de Dienst met Afzonderlijk Beheer, met het akkoord van de Vlaamse minister, bevoegd voor de financiën en de begrotingen.<br>
+De voorafname gebeurt tot de middelen van het reservefonds 10 % bedragen van het gemiddelde van de uitgaven van de drie voorafgaande begrotingsjaren, tenzij dat bedrag wordt gewijzigd op voorstel van de minister die belast is met het beheer van of het toezicht op de Dienst met Afzonderlijk Beheer, met het akkoord van de Vlaamse minister, bevoegd voor het budgettair beleid.<br>
 <br>
 § 2. De aanwending uit het reservefonds en de aanwending van het gerealiseerde positieve begrotingssaldo van de Dienst met Afzonderlijk Beheer is mogelijk op basis van een aanwendingsplan dat opgemaakt wordt door de minister die belast is met het beheer van of het toezicht op de Dienst met Afzonderlijk Beheer. Het aanwendingsplan omvat ook een overzicht van de geplande spijzing van het reservefonds of het saldo en kan in voorkomend geval betrekking hebben op verschillende begrotingsjaren.<br>
 <br>
-§ 3. Het ontwerp van begroting of begrotingsaanpassing respectievelijk het aanwendingsplan wordt ter goedkeuring voorgelegd aan de Vlaamse Regering. Het ontwerp van begroting of van begrotingsaanpassing, opgemaakt met toepassing van artikel 6, wordt door de Vlaamse minister, bevoegd voor de financiën en de begrotingen, toegevoegd bij het ontwerp van uitgavenbegroting van de Vlaamse Gemeenschap voor hij het ter goedkeuring aan het Vlaams Parlement bezorgt.
+§ 3. Het ontwerp van begroting of begrotingsaanpassing respectievelijk het aanwendingsplan wordt ter goedkeuring voorgelegd aan de Vlaamse Regering. Het ontwerp van begroting of van begrotingsaanpassing, opgemaakt met toepassing van artikel 6, wordt door de Vlaamse minister, bevoegd voor het budgettair beleid, toegevoegd bij het ontwerp van uitgavenbegroting van de Vlaamse Gemeenschap voor hij het ter goedkeuring aan het Vlaams Parlement bezorgt.
 
 ## HOOFDSTUK 12. Sanctiebepaling
 
