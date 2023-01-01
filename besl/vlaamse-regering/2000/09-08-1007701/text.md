@@ -504,7 +504,13 @@ Om als Vlaams participatiefonds voor de sociale economie te worden erkend, dient
 
 ### ART. 86.
 
-Een jaarlijkse subsidie van maximaal 136.000 euro wordt toegekend voor de   delging van de loon- en werkingskosten van het fonds.<BR><BR>Het subsidiebedrag   evolueert op dezelfde wijze en in dezelfde mate als de gezondheidsindex, met als   basismaand mei 2005. Het geïndexeerde subsidiebedrag wordt jaarlijks op 1   januari door de minister vastgelegd voor het komende werkingsjaar.
+Een jaarlijkse subsidie van maximaal 259.000 euro wordt toegekend voor de delging van de loon- en werkingskosten van het fonds.<br>
+<br>
+Het subsidiebedrag, vermeld in het eerste lid, evolueert op dezelfde wijze en in dezelfde mate als de gezondheidsindex, met als basismaand december 2022.&nbsp;<br>
+<br>
+Op basis van de gezondheidsindex van de maand december van het voorgaande jaar wordt jaarlijks voor het huidige werkingsjaar het subsidiebedrag dat conform het tweede lid wordt geïndexeerd bepaald.<br>
+<br>
+De minister legt jaarlijks voor 30 april dat geïndexeerde subsidiebedrag vast voor het komende werkingsjaar.
 
 ### ART. 87.
 
