@@ -10,7 +10,9 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 
 Dit decreet is niet van toepassing op de gemeenten in het tweetalige gebied Brussel-Hoofdstad.<br>
 <br>
-De Vlaamse Regering sluit een convenant met de Vlaamse Gemeenschapscommissie om de doelstellingen van dit decreet te realiseren in het tweetalige gebied Brussel-Hoofdstad.
+De Vlaamse Regering sluit een convenant met de Vlaamse Gemeenschapscommissie om de doelstellingen van dit decreet te realiseren in het tweetalige gebied Brussel-Hoofdstad.<br>
+<br>
+De Vlaamse Regering kan, onder de voorwaarden die ze bepaalt en binnen de perken van de begrotingskredieten, een subsidie verlenen aan de Vlaamse Gemeenschapscommissie voor de uitvoering van het convenant, vermeld in het tweede lid.
 
 ### ART 3.
 
@@ -129,7 +131,10 @@ Het lokaal bestuur kan de taken, vermeld in artikel 13, 14 en 15, uitvoeren in s
 
 ### ART 17.
 
-De Vlaamse Regering bepaalt de Vlaamse beleidsprioriteiten waarvoor, binnen de perken van de begrotingskredieten, een subsidie aan de lokale besturen kan worden verleend voor de uitvoering van activiteiten conform de bepalingen van dit decreet of aan initiatieven of organisaties die lokale besturen bijstaan en ondersteunen bij de uitvoering van activiteiten conform de bepalingen van dit decreet.
+De Vlaamse Regering bepaalt de Vlaamse beleidsprioriteiten waarvoor, binnen de perken van de begrotingskredieten, een subsidie aan de lokale besturen kan worden verleend voor de uitvoering van activiteiten conform de bepalingen van dit decreet of aan initiatieven of organisaties die lokale besturen bijstaan en ondersteunen bij de uitvoering van activiteiten conform de bepalingen van dit decreet.<br>
+<br>
+De Vlaamse Regering kan, onder de voorwaarden die ze bepaalt en binnen de perken van de begrotingskredieten, een subsidie verlenen aan organisaties die activiteiten organiseren of ondersteunen die zijn gericht op de vermaatschappelijking van de lokale sociale hulp- en dienstverlening of het verhogen van de toegang tot de sociale hulp- en dienstverlening en het aanpakken van de onderbescherming.<br>
+&nbsp;
 
 ### ART 18.
 
