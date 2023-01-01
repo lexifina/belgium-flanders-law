@@ -23,6 +23,12 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## Hoofdstuk 2. Wijzigingen van het besluit van de Vlaamse regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap
 
+### ART 3.
+
+In artikel 9, §1, eerste lid, van het besluit van de Vlaamse regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap, ingevoegd bij het besluit van de Vlaamse Regering van 8 november 2013 en gewijzigd bij het besluit van de Vlaamse Regering van 24 juni 2022, worden de volgende wijzigingen aangebracht:<br>
+1° tussen het woord “jaarlijks” en het woord “aangepast” wordt de zinsnede “op 1 januari” ingevoegd;<br>
+2° de woorden “G-index december” worden telkens vervangen door de woorden “G-index november”.
+
 ### ART 5.
 
 In artikel 12, § 1, eerste lid van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 20 november 2020, wordt punt 1°, vervangen door wat volgt:<br>
@@ -49,6 +55,13 @@ In artikel 12 van hetzelfde besluit, vervangen bij het besluit van 25 mei 2018 e
 
 ## Hoofdstuk 4. Wijzigingen van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget
 
+### ART 8.
+
+In artikel 17 van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget, vervangen bij het besluit van de Vlaamse Regering van 8 juni 2018, worden de volgende wijzigingen aangebracht:<br>
+1° in het derde lid wordt het bedrag “839,72 euro” vervangen door het bedrag “988,46 euro;<br>
+2° in het vierde lid wordt tussen het woord “jaarlijks” en het woord “aangepast” de zinsnede “op 1 januari” ingevoegd;<br>
+3° in het vierde lid worden de woorden “G-index december” telkens vervangen door de woorden “G-index november”.
+
 ### ART 9.
 
 In artikel 37/0, §2, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 maart 2021, wordt tussen de woorden “van het toegewezen budget” en de woorden “De beslissing” de zin “Om de budgetcategorie vast te stellen, wordt de waarde 5 voor de parameter begeleiding, vermeld in het multidisciplinaire verslag, omgezet in de waarde 6 en wordt de waarde 6 omgezet in de waarde 8.” ingevoegd.
@@ -67,6 +80,18 @@ vervangen door de rij<br>
 
 ## Hoofdstuk 5. Wijzigingen van het besluit van de Vlaamse Regering van 11 december 2015 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering
 
+### ART 12.
+
+In artikel 11 van het besluit van de Vlaamse Regering van 11 december 2015 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering wordt het derde lid vervangen door wat volgt:<br>
+<br>
+“De bijstandsorganisaties mogen het aanbod, vermeld in het eerste lid, 1° tot en met 3°, beperken tot leden voor wie ze conform artikel 16 subsidies ontvangen van het agentschap. Het aanbod, vermeld in het eerste lid, 4°, mag beperkt worden tot leden. De bijstandsorganisaties vragen geen bijkomende bijdrage van de budgethouders om het aanbod, vermeld in het eerste lid, te leveren.”.
+
+### ART 13.
+
+Aan artikel 16, eerste lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 9 juli 2021, wordt de volgende zin toegevoegd:<br>
+<br>
+“De jaarlijkse subsidie kan ook worden gebruikt voor de uitvoering van de opdrachten, vermeld in artikel 11, eerste lid, 1° tot en met 3°.”.
+
 ## Hoofdstuk 6. Wijzigingen van het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders
 
 ### ART 15.
@@ -78,6 +103,16 @@ In artikel 12 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Re
 ## Hoofdstuk 7. Wijziging van het besluit van de Vlaamse Regering van 10 maart 2017 over persoonsvolgende middelen voor minderjarige personen met een handicap met dringende noden
 
 ## Hoofdstuk 8. Wijzigingen van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten
+
+### ART 18.
+
+Aan artikel 2 van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten, gewijzigd bij het besluit van de Vlaamse Regering van 22 december 2017, worden een tweede tot en met vierde lid toegevoegd, die luiden als volgt;<br>
+<br>
+“In afwijking van het eerste lid berekent het agentschap de subsidies voor de personeelskosten voor organisaties die conform artikel 15/1 tot en met artikel 15/3 van het besluit van de Vlaamse Regering van 22 februari 2013 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap, tijdelijk erkend zijn om rechtstreeks toegankelijke hulp te bieden die voldoet aan de voorwaarden, vermeld in artikel 15/2 van het voormelde besluit, waarop het paritair comité 319.01 niet van toepassing is, op basis van een forfaitair bedrag van 1.027,74 euro per personeelspunt. Om het aantal personeelspunten vast te stellen, wordt rekening gehouden met het aantal personeelspunten dat overeenstemt met de ondersteuning die effectief geboden is door de organisatie in het kader van de tijdelijke erkenning om rechtstreeks toegankelijke hulp te bieden waarbij het aantal personeelspunten waarvoor de organisatie tijdelijk is erkend voor het bieden van rechtstreeks toegankelijke hulp, als maximum geldt.<br>
+<br>
+De organisatie, vermeld in het eerste lid, vermeldt in het financiële verslag, vermeld in artikel 10, derde lid, van het besluit van de Vlaamse Regering van 22 februari 2013 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap, de personeelsleden die tijdens het werkingsjaar zijn ingezet voor de rechtstreeks toegankelijke hulp in het kader van de tijdelijke erkenning, vermeld in het eerste lid, samen met de personeelskosten voor de voormelde personeelsleden.<br>
+<br>
+Het agentschap betaalt het subsidiebedrag dat is berekend conform het tweede lid, naar rato van de personeelskosten die zijn aangetoond.”.
 
 ### ART 19.
 

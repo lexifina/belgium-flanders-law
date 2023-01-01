@@ -2,16 +2,16 @@
   "codex_id": 1038142,
   "title": "Besluit van de Vlaamse Regering van 2023-02-17 tot wijziging van een aantal besluiten over de ondersteuning van personen met een handicap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038142/VolledigDocument?datum=2022-12-01",
-  "source_sha256": "38ca5a68a75b05ee9f82396e697e588b3521ba90d7d1ea634f307d4a516f3864",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038142/VolledigDocument?datum=2023-01-01",
+  "source_sha256": "80d985672545b9d7558c62b1a80612af7daffc8f5f5a9d94a4cb1fb17e2f9f91",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038142&param=informatie",
-  "as_of": "2022-12-01",
+  "as_of": "2023-01-01",
   "made": "2023-02-17",
   "gazette": "2023-06-29",
   "numac": 2023041047,
   "document_start": "2023-07-09",
   "document_end": null,
-  "in_force": "2022-12-01",
-  "article_versions": 10,
-  "record_form": "consolidated version as in force on 2022-12-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-01-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
 }
