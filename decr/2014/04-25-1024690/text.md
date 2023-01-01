@@ -818,6 +818,13 @@ Als de uitvoering van diverse lasten financieel moet worden gewaarborgd, dan han
 
 <P>&nbsp;De lasten zijn redelijk in verhouding tot het vergunde project. Ze   kunnen worden verwezenlijkt door toedoen van de aanvrager.<BR></P>  <P>De bevoegde overheid kan een gefaseerde uitvoering van de lasten   voorschrijven.<BR></P>
 
+### ART 76/1.
+
+De ontvangsten uit financiële lasten, vermeld in artikel 75, verbonden aan een omgevingsvergunning voor stedenbouwkundige handelingen of voor het verkavelen van gronden worden gestort op de volgende rekening:<br>
+1° de rekening van het BRV-fonds, vermeld in artikel 1.6.1 van de VCRO, als de last wordt verbonden aan een omgevingsvergunning en opgelegd is op grond van een gewestelijke stedenbouwkundige verordening;<br>
+2° de rekening van de provincie, als de last wordt verbonden aan een omgevingsvergunning en opgelegd is op grond van een provinciale stedenbouwkundige verordening;<br>
+3° op rekening van de gemeente, in alle andere gevallen.
+
 ### ART. 77.
 
 Als een last als vermeld in artikel 75 niet is uitgevoerd binnen de   daarvoor gestelde termijn en niet of onvoldoende gedekt is door een financiële   waarborg, kan de schuldeiser van de last per beveiligde zending een beslissing   tot toepassing van bestuursdwang betekenen aan de schuldenaar van de last. De   beslissing vermeldt dat de toepassing van bestuursdwang op kosten van de   schuldenaar van de last plaatsvindt. In de beslissing wordt een termijn gesteld   waarbinnen de schuldenaar van de last de tenuitvoerlegging kan voorkomen door de   last alsnog uit te voeren. Als niet tot tijdige uitvoering wordt overgegaan, kan   de schuldeiser van de last ambtshalve in de uitvoering van de lasten voorzien.   De schuldenaar van de last is verplicht alle uitvoeringskosten te vergoeden, op   voorlegging van een staat, opgesteld door de schuldeiser van de   last.<BR>
