@@ -27,6 +27,7 @@ In dit besluit wordt verstaan onder:<br>
 6° /1 multidisciplinair overleg: een multidisciplinair overleg als vermeld in artikel 2, eerste lid, 20° /1, van het decreet van 18 mei 2018;<br>
 7° overnamedecreet : decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging;<br>
 8° premies: de premies voor de Vlaamse sociale bescherming, vermeld in artikel 45 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
+8°/0 psychiatrisch verzorgingstehuis: een psychiatrisch verzorgingstehuis als vermeld in artikel 2, 12°, van het overnamedecreet;<br>
 8° /1 revalidatieziekenhuis: een revalidatieziekenhuis als vermeld in artikel 2, eerste lid, 27°, van het decreet van 18 mei 2018;<br>
 9° tegemoetkoming: een financiële tegemoetkoming bepaald in artikel 2, 30° van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming of een tegemoetkoming als vermeld in artikel 18 tot en met 40 van het overnamedecreet;<br>
 10° verzekeringsinstelling: een landsbond, de Hulpkas en de Kas der geneeskundige verzorging van HR Rail";<br>
@@ -195,8 +196,9 @@ In afwijking van het derde en het vierde lid gaat het voor het jaar 2017 om het 
 
 Het totaalbedrag van de subsidie voor werkingskosten van de zorgtickets en de mobiliteitshulpmiddelen bedraagt de som van volgende subsidies:<br>
 1° de subsidie voor werkingskosten voor de tegemoetkomingen voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra;<br>
-2° de subsidie voor werkingskosten voor de tegemoetkomingen voor mobiliteitshulpmiddelen.<br>
-3° de subsidie voor werkingskosten voor de tegemoetkomingen voor de revalidatieziekenhuizen en de tegemoetkomingen voor het multidisciplinair overleg.
+2° de subsidie voor werkingskosten voor de tegemoetkomingen voor mobiliteitshulpmiddelen;<br>
+3° de subsidie voor werkingskosten voor de tegemoetkomingen voor de revalidatieziekenhuizen en de tegemoetkomingen voor het multidisciplinair overleg;<br>
+4° de subsidie voor werkingskosten voor de tegemoetkomingen voor psychiatrische verzorgingstehuizen.
 
 ## [Onderafdeling 2. Subsidie voor werkingskosten voor de tegemoetkoming voor mobiliteitshulpmiddelen (ing. BVR 14 december 2018, art. 17, I: 1 januari 2019)]
 
@@ -248,6 +250,16 @@ Als een zorgkas in de loop van een jaar erkend wordt of als een erkende zorgkas 
 
 ## [Onderafdeling 3/2. Subsidie voor werkingskosten voor de tegemoetkomingen voor psychiatrische verzorgingstehuizen (ing. BVR 20 januari 2023, art. 3, I: 1 januari 2023)]
 
+### ART 13/3/2.
+
+Het agentschap kent aan de erkende zorgkassen een subsidie voor werkingskosten voor de tegemoetkomingen voor psychiatrische verzorgingstehuizen voor het jaar 2023 toe. De subsidie bedraagt 1.106.810,80 euro.<br>
+<br>
+Het bedrag, vermeld in het eerste lid, wordt voor het jaar 2023 verdeeld onder de erkende zorgkassen op basis van het percentage uitgaven voor tegemoetkomingen in de psychiatrische verzorgingstehuizen per verzekeringsinstelling die een zorgkas heeft opgericht, ten opzichte van het totaal aan uitgaven voor tegemoetkomingen in de psychiatrische verzorgingstehuizen bij alle verzekeringsinstellingen die een zorgkas hebben opgericht.&nbsp;<br>
+<br>
+In het tweede lid wordt verstaan onder uitgaven: de uitgaven voor 2021.<br>
+<br>
+Als een zorgkas in de loop van een jaar erkend wordt of als een erkende zorgkas vrijwillig haar activiteiten stopzet of haar erkenning verliest, wordt de subsidie pro rata berekend.
+
 ## [Onderafdeling 4. Regeling voor de voorschotten op de subsidie voor werkingskosten van de tegemoetkomingen voor mobiliteitshulpmiddelen, de zorgtickets en de tegemoetkomingen voor het multidisciplinair overleg (verv. BVR 17 december 2021, art. 13, I: 1 januari 2022)]
 
 ### ART 13/4.
@@ -263,6 +275,10 @@ Het voorschot wordt verdeeld onder de erkende zorgkassen op basis van het percen
 ### ART 13/5.
 
 Het agentschap verdeelt voor de vijftiende dag van de eerste maand van elk kwartaal verhoudingsgewijs over de erkende zorgkassen een voorschot van 20% van het bedrag, vermeld in artikel 13/3/1, § 1.
+
+### ART 13/5/1.
+
+Het agentschap verdeelt voor de vijftiende dag van de eerste maand van elk kwartaal verhoudingsgewijs over de zorgkassen een voorschot van 20% van het bedrag, vermeld in artikel 13/3/2, eerste lid.
 
 ## [Onderafdeling 5. Bepaling van een subsidie voor investeringskosten in ICT-toepassingen binnen de Vlaamse sociale bescherming (ing. BVR 17 december 2021, art. 15, I: 1 januari 2022)]
 
@@ -306,6 +322,8 @@ Als basis voor de subsidie voor werkingskosten voor de tegemoetkoming voor reval
 <br>
 In afwijking van het zevende lid worden voor het jaar 2022 als basis voor de subsidie voor werkingskosten voor de tegemoetkoming voor revalidatieziekenhuizen en voor het multidisciplinair overleg de databankgegevens van de verzekeringsinstellingen gebruikt voor het aantal kennisgevingen van opnames in revalidatieziekenhuizen en worden de databankgegevens van het agentschap Zorg en Gezondheid gebruikt voor het aantal aanvragen van dossiers multidisciplinair overleg.<br>
 <br>
+Als basis voor de subsidie voor werkingskosten voor de tegemoetkoming voor psychiatrische verzorgingstehuizen worden voor het jaar 2023 de databankgegevens van de verzekeringsinstellingen gebruikt.<br>
+<br>
 § 2. In afwijking van paragraaf 1 wordt het saldo van de subsidie voor werkingskosten voor de zorgtickets en de mobiliteitshulpmiddelen&nbsp;en de tegemoetkomingen voor het multidisciplinair overleg uitbetaald op 15 november van het betrokken kalenderjaar.
 
 ## HOOFDSTUK 3. Vergoeding van de indicatiestellingen voor [het zorgbudget voor zwaar zorgbehoevenden (verv. BVR 14 december 2018, art. 11, I: 1 januari 2019)]
@@ -338,15 +356,15 @@ De verzekeringsinstelling bezorgt aan het agentschap Zorg en Gezondheid de verei
 
 ### ART 15/2.
 
-§ 1. Het Agentschap Zorg en Gezondheid stelt de vergoeding voor werkingskosten vast.<br>
+§1. Het Agentschap Zorg en Gezondheid stelt de vergoeding voor werkingskosten vast.<br>
 <br>
-§ 2. De subsidie voor alle verzekeringsinstellingen tezamen bedraagt per jaar 4.117.086 euro.<br>
+§2. De subsidie voor alle verzekeringsinstellingen bedraagt 3.024.189,20 euro.<br>
 <br>
-§ 3. Dat bedrag wordt verdeeld onder de verzekeringsinstellingen op basis van het totaal aantal unieke opnames of aanvragen van patiënten van alle voorzieningen per verzekeringsinstelling van het voorgaande jaar voor wie een tegemoetkoming werd uitbetaald voor de zorg, vermeld in artikel 3 van het overnamedecreet.<br>
+§3. Dat bedrag wordt verdeeld onder de verzekeringsinstellingen op basis van het totaal aantal unieke opnames of aanvragen van patiënten van alle voorzieningen per verzekeringsinstelling van het voorgaande jaar voor wie een tegemoetkoming werd uitbetaald voor de zorg, vermeld in artikel 3 van het overnamedecreet.<br>
 <br>
 Het gaat om het totaal aantal opnames of aanvragen van 1 januari tot en met 31 december van het jaar voor het voorgaande jaar.<br>
 <br>
-§ 4. De subsidie, vermeld in paragraaf 2, wordt aangevuld met een percentage van de teruggevorderde bedragen niet te wijten aan een eigen fout, vergissing of nalatigheid van de verzekeringsinstelling.<br>
+§4. De subsidie, vermeld in paragraaf 2, wordt aangevuld met een percentage van de teruggevorderde bedragen niet te wijten aan een eigen fout, vergissing of nalatigheid van de verzekeringsinstelling.<br>
 <br>
 Het percentage dat jaarlijks toekomt aan een bepaalde verzekeringsinstelling is afhankelijk van het recuperatieniveau. Onder het recuperatieniveau wordt verstaan de verhouding tussen het bedrag dat gerecupereerd wordt, exclusief interesten, en het bedrag van de geboekte uitgaven. Het percentage wordt als volgt bepaald:<br>
 10 % bij een recuperatieniveau beneden 0,6%;<br>
@@ -354,13 +372,13 @@ Het percentage dat jaarlijks toekomt aan een bepaalde verzekeringsinstelling is 
 14 % bij een recuperatieniveau vanaf 0,8 % tot minder dan 1 %;<br>
 16 % bij een recuperatieniveau vanaf 1 %;<br>
 <br>
-§ 5. Het agentschap Zorg en Gezondheid verdeelt voor de vijftiende dag van de eerste maand van elk kwartaal verhoudingsgewijs over de verzekeringsinstellingen een voorschot van 20% van het bedrag, vermeld in artikel 15/2 . Het saldo wordt uitbetaald op 15 november van het betrokken kalenderjaar."<br>
+§5. Het agentschap Zorg en Gezondheid verdeelt voor de vijftiende dag van de eerste maand van elk kwartaal verhoudingsgewijs over de verzekeringsinstellingen een voorschot van 20% van het bedrag, vermeld in artikel 15/2 . Het saldo wordt uitbetaald op 15 november van het betrokken kalenderjaar."<br>
 <br>
-§ 6. Een verzekeringsinstelling heeft recht op de subsidie voor werkingskosten op voorwaarde dat ze:<br>
+§6. Een verzekeringsinstelling heeft recht op de subsidie voor werkingskosten op voorwaarde dat ze:<br>
 1° de taken voortvloeiend uit het overnamedecreet en dit Besluit uitvoert;<br>
 2° aan het Agentschap Zorg en Gezondheid de vereiste bewijsstukken bezorgt om de subsidies te berekenen. Het Agentschap Zorg en Gezondheid bepaalt de nadere regels waaraan de bewijsstukken moeten voldoen en de termijn waarin de bewijsstukken ingediend moeten worden.<br>
 <br>
-§ 7. De door een verzekeringsinstelling onrechtmatig betaalde tegemoetkomingen worden in mindering gebracht van de subsidie voor werkingskosten van die verzekeringsinstelling, met uitzondering van de niet gerecupereerde tegemoetkomingen waarvoor het Agentschap financieel verantwoordelijk is.
+§7. De door een verzekeringsinstelling onrechtmatig betaalde tegemoetkomingen worden in mindering gebracht van de subsidie voor werkingskosten van die verzekeringsinstelling, met uitzondering van de niet gerecupereerde tegemoetkomingen waarvoor het Agentschap financieel verantwoordelijk is.
 
 ### ART 15/3.
 
@@ -390,7 +408,9 @@ Het agentschap verdeelt vanaf 1 november 2021 in 2021 tussen de verzekeringsinst
 
 ### ART 16.
 
-De bedragen, vermeld in artikel 8, eerste lid, artikel 9, tweede lid, artikel 10, eerste lid, artikel 11, eerste, vijfde en zesde lid, artikel 13/2, § 1, eerste lid, artikel 13/3, § 1, eerste lid, artikel 13/3/1, § 1, en artikel 15/2, § 2, worden, met ingang van het kalenderjaar 2023, ieder jaar op 1 januari aangepast aan de ontwikkeling van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april van het voorgaande jaar ten opzichte van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april in 2021.
+De bedragen, vermeld in artikel 8, eerste lid, artikel 9, tweede lid, artikel 10, eerste lid, artikel 11, eerste, vijfde en zesde lid, artikel 13/2, § 1, eerste lid, artikel 13/3, § 1, eerste lid, en artikel 13/3/1, §1, worden, met ingang van het kalenderjaar 2023, ieder jaar op 1 januari aangepast aan de ontwikkeling van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april van het voorgaande jaar ten opzichte van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april in 2021.<br>
+<br>
+Het bedrag, vermeld in artikel 15/2, §2, wordt, met ingang van het kalenderjaar 2024, ieder jaar op 1 januari aangepast aan de ontwikkeling van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april van het voorgaande jaar ten opzichte van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april in 2022.
 
 ## [HOOFDSTUK 6. Toezicht op de subsidie of vergoedingen voor de werkingskosten en de tegemoetkomingen aan de zorgkassen en de verzekeringsinstellingen (verv. BVR 14 december 2018, art. 31, I: 1 januari 2019)]
 
