@@ -129,6 +129,20 @@ De Vlaamse Regering bepaalt de regels voor de vaststelling en de toekenning van 
 
 ## [AFDELING 6 VORMINGSORGANISATIES INZAKE ARMOEDE (ing. Decr. 16 december 2022, art. 63, I: 1 januari 2023)]
 
+### ART 18/2.
+
+De Vlaamse Regering kan een of meerdere organisaties erkennen als vormingsorganisatie inzake armoede. De Vlaamse Regering bepaalt de voorwaarden voor de erkenning.<br>
+<br>
+Een vormingorganisatie inzake armoede organiseert vorming en biedt coaching, advies en ondersteuning aan organisaties en lokale besturen inzake armoedebestrijding.<br>
+<br>
+Ze vertrekt vanuit de ervaringswereld van mensen in armoede en zet ervaringskennis inzake het leven in armoede centraal in de ontwikkeling en uitvoering van de vormings-, coachings- en ondersteuningstrajecten.<br>
+<br>
+Deze vorming beoogt verhoogde kennis en inzicht in armoede en armoedebestrijding, concrete verandering in het gedrag van mensen en in de werking van de betrokken organisaties of lokale besturen.
+
+### ART 18/3.
+
+De Vlaamse Regering kan, binnen de beschikbare begrotingskredieten, erkende vormingsorganisaties inzake armoede subsidiëren. De Vlaamse Regering bepaalt daartoe de nodige regels.
+
 ## HOOFDSTUK V SLOTBEPALING
 
 ### ART. 19.
