@@ -37,17 +37,18 @@ DE VLAAMSE REGERING BESLUIT:
 In dit besluit wordt verstaan onder:<br>
 1° Agentschap Innoveren en Ondernemen: het agentschap, opgericht bij het besluit van de Vlaamse Regering van 7 oktober 2005 aangaande het Agentschap Innoveren en Ondernemen;<br>
 2° Decreet van 16 maart 2012: het decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid;<br>
+2°/1 LRM: de naamloze vennootschap Limburgse Reconversiemaatschappij opgericht bij notariële akte van 1 februari 1994, bij uittreksel gepubliceerd in het Belgisch Staatsblad van 24 februari 1994 onder het nummer 940224-318, met inbegrip van alle latere wijzigingen van de statuten;<br>
 3° Minister: de Vlaamse minister, bevoegd voor de economie;<br>
 4° Overbruggingslening: de lening die PMV/z-Leningen in naam en voor rekening van het Vlaamse Gewest toekent aan de steunaanvrager om zijn acute liquiditeitsnoden te ondersteunen, voor zover deze het gevolg zijn van de oorlog in Oekraïne;<br>
 5° PMV: de naamloze vennootschap Participatiemaatschappij Vlaanderen opgericht bij notariële akte van 31 juli 1995, bij uittreksel gepubliceerd in het Belgisch Staatsblad van 25 augustus 1995 onder het nummer 950825-236, met inbegrip van alle latere wijzigingen van de statuten, hierna vertegenwoordigd door haar dochtervennootschap PMV/z-Leningen met ondernemingsnummer 0553.802.890;<br>
-6° Steunaanvrager: een onderneming, als vermeld in artikel 3, 1°, 2° en 3°, van het decreet van 16 maart 2012, inclusief ondernemingen actief in de landbouwsector, visserij en aquacultuur, met uitzondering van die ondernemingen waarvan de hoofdbedrijvigheid bestaat in het verwerven van deelnemingen of het stellen van financiële verrichtingen;<br>
+6° Steunaanvrager: een onderneming, als vermeld in artikel 3, 1° tot en met 4°, van het decreet van 16 maart 2012, inclusief ondernemingen actief in de landbouwsector, visserij en aquacultuur, met uitzondering van die ondernemingen waarvan de hoofdbedrijvigheid bestaat in het verwerven van deelnemingen of het stellen van financiële verrichtingen;<br>
 7° Tijdelijke kaderregeling: de mededeling van de Commissie (2022/C 131 I/01) Tijdelijk crisiskader voor staatssteunmaatregelen ter ondersteuning van de economie na de Russische agressie tegen Oekraïne;<br>
 8° Verbonden ondernemingen: ondernemingen die met elkaar een van de banden onderhouden zoals beschreven in artikel 3.3 van de `Aanbeveling van de Commissie van 6 mei 2003 betreffende de definitie van kleine, middelgrote en micro-ondernemingen'.<br>
 9° Wet van 16 mei 2003: de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.
 
 ### ART 2.
 
-Alle steun die toegekend wordt met toepassing van dit besluit, wordt verleend binnen de voorwaarden, vermeld in verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (Publicatieblad van 24 december 2013, L 352), tenzij de steunaanvrager zelf uitdrukkelijk aangeeft de steun te willen verkrijgen met toepassing van afdeling 2.1 of afdeling 2.3 van de tijdelijke kaderregeling.&nbsp;De steun die toegekend wordt met toepassing van afdeling 2.3 van de tijdelijke kaderregeling mag niet hoger zijn dan 15% van de gemiddelde jaaromzet van de voorbije drie jaar. De steunaanvrager bezorgt hiervoor de officiële btw-aangifte met overzicht van de uitgaande handelingen (Kader II) voor de jaren 2019, 2020 en 2021 aan het Agentschap Innoveren en Ondernemen via de applicatie, vermeld in artikel 7, eerste lid, of, indien de applicatie dit niet toelaat, via email. Enkel indien de aanvrager vrijgesteld is van het indienen van een officiële btw-aangifte, mag hij zijn gemiddelde jaaromzet bewijzen door middel van de klantenlisting van de voorbije drie jaar, zijnde een lijst van de Belgische btw-nummers van de klanten aan wie de onderneming goederen heeft geleverd of diensten heeft verstrekt tijdens het vorige kalenderjaar. De lijst bevat voor elke klant het totaalbedrag aan leveringen en diensten. De minister kan nader bepalen hoe ondernemingen die geen officiële btw-aangifte indienen hun jaaromzet moeten bewijzen. Steun die toegekend wordt aan ondernemingen actief in de landbouwsector, visserij en aquacultuur wordt beperkt tot de maximale bedragen, voorzien in punt 42 van de tijdelijke kaderregeling, voor wat betreft de steun toegekend met toepassing van afdeling 2.1.
+Alle steun die toegekend wordt met toepassing van dit besluit, wordt verleend binnen de voorwaarden, vermeld in verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (Publicatieblad van 24 december 2013, L 352), tenzij de steunaanvrager zelf uitdrukkelijk aangeeft de steun te willen verkrijgen met toepassing van afdeling 2.1 of afdeling 2.3 van de tijdelijke kaderregeling.&nbsp;De steun die toegekend wordt met toepassing van afdeling 2.3 van de tijdelijke kaderregeling mag niet hoger zijn dan 15% van de gemiddelde jaaromzet van de voorbije drie jaar. De steunaanvrager bezorgt hiervoor de officiële btw-aangifte met overzicht van de uitgaande handelingen (Kader II) voor de&nbsp;drie kalenderjaren voorafgaand aan de aanvraag aan het Agentschap Innoveren en Ondernemen via de applicatie, vermeld in artikel 7, eerste lid, of, indien de applicatie dit niet toelaat, via email. Enkel indien de aanvrager vrijgesteld is van het indienen van een officiële btw-aangifte, mag hij zijn gemiddelde jaaromzet bewijzen door middel van de klantenlisting van de voorbije drie jaar, zijnde een lijst van de Belgische btw-nummers van de klanten aan wie de onderneming goederen heeft geleverd of diensten heeft verstrekt tijdens het vorige kalenderjaar. De lijst bevat voor elke klant het totaalbedrag aan leveringen en diensten. De minister kan nader bepalen hoe ondernemingen die geen officiële btw-aangifte indienen hun jaaromzet moeten bewijzen. Steun die toegekend wordt aan ondernemingen actief in de landbouwsector, visserij en aquacultuur wordt beperkt tot de maximale bedragen, voorzien in punt 42 van de tijdelijke kaderregeling, voor wat betreft de steun toegekend met toepassing van afdeling 2.1.
 
 ### ART 3.
 
@@ -60,9 +61,9 @@ Het Agentschap Innoveren en Ondernemen, respectievelijk PMV zullen de persoonsge
 
 ### ART 4.
 
-De doelstelling van de overbruggingslening is de ondersteuning van de acute liquiditeitsnoden van de steunaanvrager, voor zover deze het gevolg zijn van de oorlog in Oekraïne.<br>
+De doelstelling van de overbruggingslening is de ondersteuning van de acute liquiditeitsnoden van de steunaanvrager, voor zover deze het gevolg zijn van de oorlog in Oekraïne en voortvloeien uit stijgende kosten inzake energie en, meer algemeen, de toename van het algehele prijsniveau.<br>
 <br>
-De overbruggingslening kan worden aangevraagd tot en met 15 december 2022, tenzij de budgettaire middelen vroeger uitgeput zijn. Wanneer de budgettaire middelen vroeger uitgeput zijn, maakt de applicatie, vermeld in artikel 7, eerste lid, hiervan melding.<br>
+De overbruggingslening kan worden aangevraagd tot en met 15 december 2023, tenzij de budgettaire middelen vroeger uitgeput zijn. Wanneer de budgettaire middelen vroeger uitgeput zijn, maakt de applicatie, vermeld in artikel 7, eerste lid, hiervan melding.<br>
 <br>
 De minister kan de periode, vermeld in het tweede lid, verlengen binnen de perken van de beschikbare begrotingskredieten.
 
@@ -79,7 +80,9 @@ De steunaanvrager neemt een van de volgende rechtsvormen aan:<br>
 
 De steunaanvrager, rechtspersoon, heeft een operationele exploitatiezetel in het Vlaamse Gewest.<br>
 <br>
-De steunaanvrager, natuurlijk persoon, is gevestigd in het Vlaamse Gewest en oefent zijn beroepsactiviteit uit in hoofdberoep.
+De steunaanvrager, natuurlijk persoon, is gevestigd in het Vlaamse Gewest en oefent zijn beroepsactiviteit uit in hoofdberoep.<br>
+<br>
+De steunaanvrager, maatschap, heeft minstens één vennoot die gevestigd is in het Vlaamse Gewest.
 
 ### ART 7.
 
@@ -97,7 +100,7 @@ Het Agentschap Innoveren en Ondernemen zal controleren, onder andere via een kop
 <br>
 In het eerste lid wordt verstaan onder MAGDA-platform: de dienst van de Vlaamse overheid die unieke gegevens uit diverse Vlaamse en federale databanken ontsluit.<br>
 <br>
-Het Agentschap Innoveren en Ondernemen kan controleren of er geen achterstallige betalingen zijn bij het Agentschap Innoveren en ondernemen, het Fonds Innoveren en Ondernemen of PMV inzake de terugbetaling van onterecht verkregen steun, terugvorderbare voorschotten of vroegere leningen van de onderneming of met haar verbonden ondernemingen. Indien er nog dergelijke achterstallige betalingen zijn, wordt de lening geweigerd.<br>
+Het Agentschap Innoveren en Ondernemen kan controleren of er geen achterstallige betalingen zijn bij het Agentschap Innoveren en ondernemen, het Fonds Innoveren en Ondernemen, PMV of LRM&nbsp;inzake de terugbetaling van onterecht verkregen steun, terugvorderbare voorschotten of vroegere leningen van de onderneming of met haar verbonden ondernemingen. Indien er nog dergelijke achterstallige betalingen zijn, wordt de lening geweigerd.<br>
 <br>
 In het derde lid wordt verstaan onder Fonds Innoveren en Ondernemen: het Fonds Innoveren en Ondernemen, opgericht bij artikel 41, § 1, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002.
 
@@ -110,23 +113,26 @@ De steunaanvrager legt een verklaring op erewoord af over al de volgende element
 4° hij is niet betrokken in een lopende insolventieprocedure als vermeld in de lijst van procedures die voor België opgenomen is in bijlage A bij verordening (EU) 2015/848 van het Europees Parlement en de Raad van 20 mei 2015 betreffende insolventieprocedures, of de opstart van een dergelijke procedure wordt niet voorbereid;<br>
 5° hij wel of niet een verbonden onderneming is, met opgave van de ondernemingsnummers van de ondernemingen waarmee hij verbonden is;<br>
 6° de eerder gedane aanvragen of toegekende leningen met het oog op het bekomen van coronasteun van de onderneming zelf en de aan de onderneming verbonden ondernemingen;<br>
-7° over onvoldoende liquiditeiten in de onderneming of in een verbonden onderneming te beschikken en niet in staat is deze via normale bankfinanciering te verwerven.
+7° over onvoldoende liquiditeiten in de onderneming of in een verbonden onderneming te beschikken en niet in staat is deze via normale bankfinanciering te verwerven;<br>
+8° hij op het ogenblik van de aanvraag leningen lopende heeft of in aanvraag heeft bij LRM met opgave van de concrete gegevens van deze lening en of er achterstallen zijn in de terugbetaling van deze leningen.
 
 ### ART 10.
 
 Het Agentschap Innoveren en Ondernemen bepaalt bij de dossierbehandeling, vermeld in artikel 7, het bedrag van de steun met toepassing van de volgende voorwaarden:<br>
-1° een steunaanvrager kan maximaal twee overbruggingsleningen toegezegd krijgen;<br>
+1° een steunaanvrager kan maximaal drie overbruggingsleningen toegezegd krijgen;<br>
 2° de steunaanvraag kan betrekking hebben op aankopen bij meerdere toeleveranciers van goederen, diensten of investeringen. De steunaanvraag kan ook betrekking hebben op de vergoeding van handelshuur of leasingovereenkomsten;<br>
-3° de voorgelegde facturen hebben betrekking op de periode van 24 februari 2022 tot en met de datum van aanvraag van de lening en uiterlijk 15 december 2022, 12.00 uur. De steunaanvrager kan maximaal honderd facturen inbrengen per lening. De steunaanvrager geeft in de applicatie, vermeld in artikel 7, eerste lid, voor elke ingebrachte factuur minstens de datum en het volgnummer van de factuur, de identiteit van de onderneming die de factuur uitschrijft, en de prijs exclusief btw. Facturen met een bedrag dat hoger ligt dan 30.000 euro moeten mee worden opgeladen. Het Agentschap Innoveren en Ondernemen kan bijkomende elementen tot staving van de factuur opvragen. Een factuur kan slechts eenmaal gebruikt worden;<br>
-4° betaalbewijzen van handelshuur hebben betrekking op de huurperiode tussen 24 februari 2022 tot en met de datum van aanvraag van de lening en uiterlijk 15 december 2022. De verhuurder mag geen aan de steunaanvrager verbonden onderneming zijn. Leasingfacturen hebben betrekking op de leasing tussen 24 februari 2022 tot en met de datum van aanvraag van de lening en uiterlijk 15 december 2022. De leasinggever mag geen aan de steunaanvrager verbonden onderneming zijn. Maximaal 20 procent van het te ontlenen bedrag mag betrekking hebben op handelshuur en/of leasing;<br>
-5° de totale omvang per lening en van de twee leningen samen, vermeld in punt 1°, is beperkt tot 200.000 euro voor ondernemingen met minder dan 50 werknemers en tot 400.000 euro voor ondernemingen met 50 of meer werknemers en minder dan 250 werknemers;<br>
+3° de voorgelegde facturen hebben betrekking op de periode van 1 augustus 2022 tot en met de datum van aanvraag van de lening en uiterlijk 15 december 2023, 12.00 uur. De steunaanvrager kan maximaal honderd facturen inbrengen per lening. De steunaanvrager geeft in de applicatie, vermeld in artikel 7, eerste lid, voor elke ingebrachte factuur minstens de datum en het volgnummer van de factuur, de identiteit van de onderneming die de factuur uitschrijft, en de prijs exclusief btw. Facturen met een bedrag dat hoger ligt dan 15.000 euro moeten mee worden opgeladen. Facturen van bedrijven die geen maatschappelijke zetel hebben binnen het grondgebied van de Europese Economische Ruimte worden niet aanvaard. Een factuur kan slechts één maal gebruikt worden. Het Agentschap Innoveren en Ondernemen kan bijkomende elementen tot staving van de factuur opvragen;<br>
+4° betaalbewijzen van handelshuur hebben betrekking op de huurperiode tussen 1 augustus 2022 tot en met de datum van aanvraag van de lening en uiterlijk 15 december 2023. De verhuurder mag geen aan de steunaanvrager verbonden onderneming zijn. Leasingfacturen hebben betrekking op de leasing tussen 1 augustus 2022 tot en met de datum van aanvraag van de lening en uiterlijk 15 december 2023. De leasinggever mag geen aan de steunaanvrager verbonden onderneming zijn. Maximaal 20 procent van het te ontlenen bedrag mag betrekking hebben op handelshuur en/of leasing;<br>
+5° de totale omvang per lening en van de drie leningen, vermeld in punt 1°, samen kan nooit meer zijn dan 2 miljoen euro en is ook beperkt tot:<br>
+a) ondernemingen die kiezen om de steun te krijgen in uitvoering van de-minimis of artikel 2.1 van de tijdelijke kaderregeling: 200.000 euro of het voor specifieke sectoren vermelde maximum in artikel 2.1 van de tijdelijke kaderregeling voor ondernemingen met minder dan 50 werknemers en de maximale bedragen vermeld in artikel 2.1 van de tijdelijke kaderregeling voor ondernemingen met 50 of meer werknemers;<br>
+b) ondernemingen die kiezen om de steun te krijgen in uitvoering van artikel 2.3 van de tijdelijke kaderregeling: 2 miljoen euro. De steun die toegekend wordt met toepassing van artikel 2.3 van de tijdelijke kaderregeling mag niet hoger zijn dan 15% van de gemiddelde jaaromzet van de voorbije drie jaar. De steunaanvrager bezorgt hiervoor de officiële btw-aangifte met overzicht van de uitgaande handelingen (kader II) voor de drie kalenderjaren voorafgaand aan de aanvraag aan het Agentschap Innoveren en Ondernemen via de applicatie, vermeld in artikel 7, eerste lid, of, indien de applicatie dit niet toelaat, via email. Enkel indien de aanvrager vrijgesteld is van het indienen van een officiële btw-aangifte, mag hij zijn gemiddelde jaaromzet bewijzen door middel van de klantenlisting van de voorbije drie jaar, zijnde een lijst van de Belgische btw-nummers van de klanten aan wie de onderneming goederen heeft geleverd of diensten heeft verstrekt tijdens het vorige kalenderjaar. De lijst bevat voor elke klant het totaalbedrag aan leveringen en diensten. De minister kan nader bepalen hoe ondernemingen die geen officiële btw-aangifte indienen hun jaaromzet moeten bewijzen;<br>
 6° het minimum bedrag van de lening bedraagt 10.000 euro;<br>
 7° voor leningen tot 50.000 euro wordt 80% van het bedrag op de aanvaarde voorgelegde facturen als lening aanvaard;<br>
 8° voor leningen boven de 50.000 euro wordt voor het gedeelte van de lening dat 50.000 euro overschrijdt, 50% van het bedrag op de aanvaarde facturen als lening aanvaard;<br>
-9° Indien een steunaanvrager, of een met de steunaanvrager verbonden onderneming, van PMV al een handelshuurlening, een of meerdere heropstartleningen of meer algemeen een lening als gevolg van een Vlaamse coronasteunmaatregel kreeg, dan mag het totaal van deze leningen, samen met de te verlenen overbruggingslening, het bedrag van 750.000 euro niet overschrijden, tenzij een door VLAIO en PMV ingericht kredietcomité oordeelt dat de steunaanvrager nog over voldoende terugbetalingscapaciteit beschikt om de bijkomende lening te krijgen. In dat geval geldt het maximum voor de bijkomende overbruggingslening zoals bepaald in artikel 10, 5°;<br>
-10° De steun die toegekend wordt met toepassing van afdeling 2.3 van de tijdelijke kaderregeling mag niet hoger zijn dan 15% van de gemiddelde jaaromzet van de voorbije drie jaar. De steunaanvrager bezorgt hiervoor de officiële btw-aangifte met overzicht van de uitgaande handelingen (Kader II) voor de jaren 2019, 2020 en 2021 aan het Agentschap Innoveren en Ondernemen via de applicatie, vermeld in artikel 7, eerste lid, of, indien de applicatie dit niet toelaat, via email. Enkel indien de aanvrager vrijgesteld is van het indienen van een officiële btw-aangifte, mag hij zijn gemiddelde jaaromzet bewijzen door middel van de klantenlisting van de voorbije drie jaar, zijnde een lijst van de Belgische btw-nummers van de klanten aan wie de onderneming goederen heeft geleverd of diensten heeft verstrekt tijdens het vorige kalenderjaar. De lijst bevat voor elke klant het totaalbedrag aan leveringen en diensten. De minister kan nader bepalen hoe ondernemingen die geen officiële btw-aangifte indienen hun jaaromzet moeten bewijzen.&nbsp;Het bedrag van de totale omvang per lening en van de twee leningen samen bedraagt in dit geval, in afwijking van artikel 10, eerste lid, 5°, maximaal 750.000 euro voor ondernemingen met maximaal 250 werknemers.<br>
+9° Indien een steunaanvrager, of een met de steunaanvrager verbonden onderneming,&nbsp;van PMV of LRM al een handelshuurlening, een of meerdere heropstartleningen, een of meerdere overbruggingsleningen of meer algemeen een lening als gevolg van een Vlaamse coronasteunmaatregel kreeg, dan mag het totaal van deze leningen, samen met de te verlenen overbruggingslening, het bedrag van 2.000.000 euro niet overschrijden, tenzij een door VLAIO en PMV ingericht kredietcomité oordeelt dat de steunaanvrager nog over voldoende terugbetalingscapaciteit beschikt om de bijkomende lening te krijgen. In dat geval geldt het maximum voor de bijkomende overbruggingslening zoals bepaald in artikel 10, 5°;<br>
+10° voor leningen boven de 400.000 euro oordeelt het kredietcomité, vermeld in &nbsp;punt 9°, altijd of de steunaanvrager nog over voldoende terugbetalingscapaciteit beschikt om de lening te krijgen.<br>
 <br>
-Het Agentschap Innoveren en Ondernemen kan na 31 december 2022, of wanneer het budget is uitgeput, geen beslissingen meer nemen tot toekenning van steun, als vermeld in het eerste lid.
+Het Agentschap Innoveren en Ondernemen kan na 31 december 2023, of wanneer het budget is uitgeput, geen beslissingen meer nemen tot toekenning van steun, als vermeld in het eerste lid.
 
 ### ART 11.
 
@@ -139,17 +145,29 @@ Het Agentschap Innoveren en Ondernemen geeft de gegevens van steunaanvragers van
 ### ART 13.
 
 PMV hanteert de volgende voorwaarden bij het toekennen van de overbruggingslening:<br>
-1° de rente op de lening bedraagt 1,5% op jaarbasis, uitgesteld;<br>
-2° voor leningen tot 50.000 euro:<br>
-a) is de looptijd van de lening beperkt tot 24 maanden;<br>
-b) gebeurt de terugbetaling per trimester in gelijke schijven na een vrijgestelde periode van 12 maanden;<br>
-3° voor leningen boven de 50.000 euro:<br>
-a) is de looptijd van de lening beperkt tot 36 maanden;<br>
-b) gebeurt de terugbetaling per trimester in gelijke schijven na een vrijgestelde periode van 12 maanden.<br>
+De rente op de lening bedraagt tot 1 april 2023:<br>
+1° 2% op jaarbasis, voor kleine en middelgrote ondernemingen die ervoor kiezen de lening terug te betalen over een periode van 36 maanden;<br>
+2° 2,5% op jaarbasis, voor grote ondernemingen die ervoor kiezen de lening terug te betalen over een periode van 36 maanden;<br>
+3° 2,5% op jaarbasis, voor kleine en middelgrote ondernemingen die ervoor kiezen de lening terug te betalen over een periode van 60 maanden;<br>
+4° 3,5% op jaarbasis, voor grote ondernemingen die ervoor kiezen de lening terug te betalen over een periode van 60 maanden.<br>
+<br>
+Op 1 april 2023, 1 juli 2023 en 1 oktober 2023 actualiseert de Minister de rente zodat de minimale rente ten minste gelijk is aan het basispercentage (eenjaars IBOR of gelijkwaardig, zoals gepubliceerd door de Commissie) op respectievelijk 1 maart 2023, 1 juni 2023 en 1 september 2023 vermeerderd met<br>
+1° 50 basispunten voor kleine en middelgrote ondernemingen die ervoor kiezen de lening terug te betalen over een periode van 36 maanden;<br>
+2° 100 basispunten, voor grote ondernemingen die ervoor kiezen de lening terug te betalen over een periode van 36 maanden;<br>
+3° 100 basispunten, voor kleine en middelgrote ondernemingen die ervoor kiezen de lening terug te betalen over een periode van 60 maanden;<br>
+4° 200 basispunten, voor grote ondernemingen die ervoor kiezen de lening terug te betalen over een periode van 60 maanden.<br>
+<br>
+De terugbetaling van het kapitaal gebeurt maandelijks, in gelijke schijven, na&nbsp;een vrijgestelde periode van 24 maanden.<br>
+<br>
+De terugbetaling van de rente gebeurt maandelijks. Er is geen vrijgestelde&nbsp;periode voor de terugbetaling van de rente.&nbsp; &nbsp;&nbsp;<br>
 <br>
 PMV kan in de leningsovereenkomst nog bijkomende voorwaarden bepalen.<br>
 <br>
-PMV kan aangepaste terugbetalingstermijnen verlenen aan ondernemingen.
+PMV kan aangepaste terugbetalingstermijnen verlenen aan ondernemingen.<br>
+&nbsp; &nbsp;&nbsp;<br>
+In het eerste en tweede lid wordt verstaan onder:&nbsp;<br>
+1° kleine en middelgrote onderneming: de onderneming, vermeld in artikel 3, 2° en 3°, van het decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid;<br>
+2° grote onderneming: de onderneming, vermeld in artikel 3, 4°, van het decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid.
 
 ### ART 14.
 
@@ -157,7 +175,9 @@ Het Agentschap Innoveren en Ondernemen kan vanaf het ogenblik dat de steunaanvra
 <br>
 Op basis van de controle, vermeld in het eerste lid, neemt het Agentschap Innoveren en Ondernemen, afhankelijk van het feit of de steun al dan niet is toegekend, de volgende beslissingen:<br>
 1° de steun weigeren;<br>
-2° de toegekende steun volledig of gedeeltelijk niet uitbetalen of terugvorderen.
+2° de toegekende steun volledig of gedeeltelijk niet uitbetalen of terugvorderen.<br>
+<br>
+Als uit een controle blijkt dat de onderneming een steunaanvraag heeft ingediend, na de datum van inwerkingtreding van dit lid, op basis van onjuiste verklaringen of foutieve informatie en die niet spontaan heeft gecorrigeerd, komt die onderneming gedurende een periode van vijf jaar, vanaf het moment van de kennisgeving van de voormelde vaststelling, niet in aanmerking voor steun, als vermeld in artikel 3, 5°, van het decreet van 16 maart 2012, artikel 4, eerste en vijfde lid, van het decreet van 15 juli 2016 houdende toekenning van een hinderpremie aan kleine ondernemingen die ernstige hinder ondervinden van openbare werken in het Vlaamse Gewest, en artikel 41ter, §2, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002.
 
 ### ART 15.
 
