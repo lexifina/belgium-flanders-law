@@ -92,7 +92,8 @@ In artikel 18 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderw
 - de uitvoering van het Vlaamse beleid inzake de flexibiliteitsmechanismen van het Protocol van Kyoto of zoals uitgewerkt in Europese of internationale wetgeving of akkoorden;<br>
 - de uitvoering van Vlaamse bijdrage(n) in het kader van de internationale steun aan ontwikkelingslanden in hun strijd tegen klimaatverandering in overeenstemming met de beslissingen van de United Nations Framework Convention on Climate Change (UNFCCC);<br>
 - de remediëring van competitiviteitsverlies bij de Vlaamse bedrijven ten gevolge van Europees of internationaal klimaatbeleid;<br>
-- alle beleidskosten die verband houden met de voorbereiding, organisatie of bijdragen in het kader van klimaatveilingen.<br>
+- alle beleidskosten die verband houden met de voorbereiding, organisatie of bijdragen in het kader van klimaatveilingen;<br>
+- de uitvoering van het Vlaamse flankerend beleid voor het terugdringen van bijkomende ruimte-inname voor wonen en werken.<br>
 <br>
 Ter uitvoering hiervan is het voor het Fonds in afwijking van artikel 15, §3, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 toegestaan om middelen te storten richting AGION, het GO! en andere begrotingsfondsen binnen de Vlaamse overheid, én worden deze begrotingsfondsen gemachtigd om deze middelen te ontvangen vanuit het Vlaams Klimaatfonds. De Vlaamse Regering wordt gemachtigd om hiertoe de passende begrotingsartikelen te creëren.<br>
 <br>
