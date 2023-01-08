@@ -63,7 +63,19 @@ Een   huisartsenkring is verplicht om elke huisarts, die wenst toe te treden tot
 4° optimaliseert een huisartsenkring de toegankelijkheid van de huisartsgeneeskunde voor alle patiënten van de huisartsenzone;<br>
 5° stimuleert en optimaliseert een huisartsenkring gegevensuitwisseling die noodzakelijk is om de continuïteit en de kwaliteit van de zorgverlening te verzekeren tussen de huisartsen onderling en tussen de huisartsen en organisaties, diensten en personen met een meer gespecialiseerd zorgaanbod;<br>
 6° organiseert een huisartsenkring de huisartspraktijkpermanentie : de huisartsgeneeskunde is beschikbaar voor de patiënten van één of meer praktijken;<br>
-7° werkt een huisartsenkring mee aan de organisatie binnen de eerstelijnszones van de profylaxe tegen besmettelijke aandoeningen, zowel binnen de reguliere zorg als in het kader van een pandemie die afgekondigd is door de Wereldgezondheidsorganisatie.
+7° werkt een huisartsenkring mee aan de organisatie binnen de eerstelijnszones van de profylaxe tegen besmettelijke aandoeningen, zowel binnen de reguliere zorg als in het kader van een pandemie die afgekondigd is door de Wereldgezondheidsorganisatie;<br>
+8° rapporteert de huisartsenkring jaarlijks aan het agentschap over het totale aantal actieve huisartsen en huisartsen in opleiding in zijn werkingsgebied, met het oog op het nemen van beleidsmaatregelen om de huisartsengeneeskunde en de eerstelijnszorg te versterken. In het kader van die opdracht worden de volgende gegevens bezorgd:<br>
+a)&nbsp;&nbsp; &nbsp;de voor- en achternaam van de huisarts;<br>
+b)&nbsp;&nbsp; &nbsp;het beroepsadres van de huisarts;<br>
+c)&nbsp;&nbsp; &nbsp;de samenstelling van de huisartsenpraktijk met een overzicht van het aantal disciplines en het tewerkstellingspercentage van de verschillende disciplines;<br>
+d)&nbsp;&nbsp; &nbsp;de volgende aanvullende gegevens van de praktijk als dat van toepassing is: de praktijknaam, de praktijkwebsite en het praktijkmailadres;<br>
+e)&nbsp;&nbsp; &nbsp;een overzicht van de huisartsenpraktijken met een patiëntenstop, met de vermelding van de aard en de duur van die patiëntenstop;<br>
+f)&nbsp;&nbsp; &nbsp;de demografische leeftijdsverdeling van de actieve huisartsen in het werkingsgebied.<br>
+Het agentschap is verwerkingsverantwoordelijke voor de verwerking van de persoonsgegevens vermeld in punt a) tot en met f). De persoonsgegevens, vermeld in punt a) tot en met f), worden door het agentschap bewaard gedurende een termijn van maximaal 18 maanden na de ontvangst van de gegevens.<br>
+<br>
+In het eerste lid, 8°, wordt verstaan onder:<br>
+1°&nbsp;&nbsp; &nbsp;huisarts in opleiding: een arts die een theoretische en praktische opleiding tot de specialisatie huisarts volgt bij een stagemeester die daarvoor erkend is conform een goedgekeurd stageplan;<br>
+2°&nbsp;&nbsp; &nbsp;actieve huisarts: een erkende huisarts die effectief praktijk voert als huisarts in de huisartsenzone.
 
 ## Onderafdeling 2 Voorwaarden om erkend te blijven
 
