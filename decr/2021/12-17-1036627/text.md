@@ -392,7 +392,7 @@ Als bij controle blijkt dat een circulatieleiding of combilus geplaatst is in te
 
 ### ART 24.
 
-Artikel 7.1.10, § 3/1, van het Energiedecreet van 8 mei 2009, zoals gewijzigd bij artikel 5, 2°, en artikel 7.1.11, § 2/2, van het Energiedecreet van 8 mei 2009, zoals ingevoegd bij artikel 6, 4°, zijn voor het eerst van toepassing op de inleveringsperiode die eindigt op 31 maart 2023.<br>
+Artikel 7.1.10, § 3/1, van het Energiedecreet van 8 mei 2009, zoals gewijzigd bij artikel 5, 2°, en artikel 7.1.11, § 2/2, van het Energiedecreet van 8 mei 2009, zoals ingevoegd bij artikel 6, 4°, zijn voor het eerst van toepassing op de inleveringsperiode die eindigt op 30 april 2023.<br>
 <br>
 Artikel 7, 20, 21 en 23, 1°, 9°, 10°, 11°, 12°, 13° en 14°, treden in werking op 1 januari 2022.<br>
 <br>
