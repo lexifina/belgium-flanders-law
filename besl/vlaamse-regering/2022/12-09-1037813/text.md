@@ -316,6 +316,23 @@ Als de contractuele verbintenis, vermeld in artikel 18, eerste lid, zich niet ov
 
 ## Hoofdstuk 5. Wijzigingsbepalingen
 
+### ART 21.
+
+In artikel 8 van het besluit van de Vlaamse Regering van 26 juni 2015 betreffende de huisartsenkringen, gewijzigd bij het besluit van de Vlaamse Regering van 23 april 2021, worden de volgende wijzigingen aangebracht:<br>
+1° er wordt een punt 8° toegevoegd, dat luidt als volgt:&nbsp;<br>
+“8° rapporteert de huisartsenkring jaarlijks aan het agentschap over het totale aantal actieve huisartsen en huisartsen in opleiding in zijn werkingsgebied, met het oog op het nemen van beleidsmaatregelen om de huisartsengeneeskunde en de eerstelijnszorg te versterken. In het kader van die opdracht worden de volgende gegevens bezorgd:<br>
+a) de voor- en achternaam van de huisarts;<br>
+b) het beroepsadres van de huisarts;<br>
+c) de samenstelling van de huisartsenpraktijk met een overzicht van het aantal disciplines en het tewerkstellingspercentage van de verschillende disciplines;<br>
+d) de volgende aanvullende gegevens van de praktijk als dat van toepassing is: de praktijknaam, de praktijkwebsite en het praktijkmailadres;<br>
+e) een overzicht van de huisartsenpraktijken met een patiëntenstop, met de vermelding van de aard en de duur van die patiëntenstop;<br>
+f) de demografische leeftijdsverdeling van de actieve huisartsen in het werkingsgebied.<br>
+Het agentschap is verwerkingsverantwoordelijke voor de verwerking van de persoonsgegevens vermeld in punt a) tot en met f). De persoonsgegevens, vermeld in punt a) tot en met f), worden door het agentschap bewaard gedurende een termijn van maximaal 18 maanden na de ontvangst van de gegevens.”;<br>
+2° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+“In het eerste lid, 8°, wordt verstaan onder:<br>
+1° huisarts in opleiding: een arts die een theoretische en praktische opleiding tot de specialisatie huisarts volgt bij een stagemeester die daarvoor erkend is conform een goedgekeurd stageplan;<br>
+2° actieve huisarts: een erkende huisarts die effectief praktijk voert als huisarts in de huisartsenzone.”.
+
 ## Hoofdstuk 6. Slotbepalingen
 
 ### ART 22.
