@@ -33,7 +33,7 @@ Een subsidie van maximaal 20.000 euro kan vanuit begrotingsartikel MB0-1MFH2KA-W
 
 ### ART 3.
 
-De subsidie, vermeld in artikel 2, heeft tot doel de terugbetaling van de kilometerheffing die is verschuldigd door de belastingplichtige houders van voertuigen waarmee humanitair transport naar Oekraïne wordt uitgevoerd in de periode van 20 juni 2022 tot en met 31 december 2022.<br>
+De subsidie, vermeld in artikel 2, heeft tot doel de terugbetaling van de kilometerheffing die is verschuldigd door de belastingplichtige houders van voertuigen waarmee humanitair transport naar Oekraïne wordt uitgevoerd in de periode van 20 juni 2022 tot en met 30 juni 2023.<br>
 <br>
 Het humanitair transport naar de landen Polen, Slowakije, Hongarije, Roemenië en Moldavië wordt met het humanitair transport naar Oekraïne gelijkgesteld wanneer de vervoerde goederen bestemd zijn om de noden van de Oekraïense bevolking ingevolge het conflict in Oekraïne gedurende de periode vermeld in het eerste lid te lenigen.
 

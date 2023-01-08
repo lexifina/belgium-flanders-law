@@ -2,16 +2,16 @@
   "codex_id": 1037157,
   "title": "Ministerieel besluit van 2022-06-13 tot terugbetaling van de kilometerheffing voor transporten van humanitaire hulpgoederen bestemd voor het lenigen van noden veroorzaakt door de oorlog in Oekraïne",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037157/VolledigDocument?datum=2022-07-01",
-  "source_sha256": "10f2d241cbeea7961379eadb8268d7800b0780b71111ac02885feb81a20c0c89",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037157/VolledigDocument?datum=2023-01-08",
+  "source_sha256": "1371de8aa4bb01bc31bf1fe0ecb38617f5d041454563548baa5ebf03254f3f50",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037157&param=informatie",
-  "as_of": "2022-07-01",
+  "as_of": "2023-01-08",
   "made": "2022-06-13",
   "gazette": "2022-06-21",
   "numac": 2022032475,
   "document_start": "2022-07-01",
   "document_end": null,
-  "in_force": "2022-07-01",
+  "in_force": "2023-01-08",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2022-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-01-08; future article versions excluded; article text as the API gives it"
 }
