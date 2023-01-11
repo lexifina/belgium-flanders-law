@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037890,
+  "title": "Ministerieel besluit van 2022-12-21 tot verlenging van het ministerieel besluit tot vaststelling van een soortenbeschermingsprogramma voor de beekprik, de rivierdonderpad en de kleine modderkruiper",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037890/VolledigDocument?datum=2023-01-11",
+  "source_sha256": "c9630970446444ce09cf29e808c43f9a606ae8c18d2e25f0a533e1e631c4a079",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037890&param=informatie",
+  "as_of": "2023-01-11",
+  "made": "2022-12-21",
+  "gazette": "2023-03-01",
+  "numac": 2023030304,
+  "document_start": "2023-01-11",
+  "document_end": null,
+  "in_force": "2023-01-11",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-01-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
