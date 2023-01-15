@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038517,
+  "title": "Ministerieel besluit van 2023-06-16 tot goedkeuring van het compendium voor de monsterneming, meting en analyse van lucht (LUC)",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038517/VolledigDocument?datum=2023-01-15",
+  "source_sha256": "5865b9d434dae6c0ebc6bc01c07b033fa8b1f93d80c0c860afcba63753a1fda4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038517&param=informatie",
+  "as_of": "2023-01-15",
+  "made": "2023-06-16",
+  "gazette": "2023-07-06",
+  "numac": 2023043239,
+  "document_start": "2023-01-15",
+  "document_end": null,
+  "in_force": "2023-01-15",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2023-01-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
