@@ -20,22 +20,23 @@ Besluit :
 
 In dit besluit wordt verstaan onder:<br>
 1° Agentschap Innoveren en Ondernemen: het agentschap, vermeld in artikel 1, 2°, van het besluit van de Vlaamse Regering van 18 december 2015 inzake de ontbinding zonder vereffening van het Agentschap voor Innovatie door Wetenschap en Technologie en tot regeling van de overdracht van zijn activiteiten aan het Agentschap Innoveren en Ondernemen;<br>
-2° concreet gepland: de geplande start- en einddatum van de openbare werken is ingevoerd in het GIPOD;<br>
+2° concreet gepland: de signalisatievergunning, vermeld in artikel 3, 8°/3, van het GIPOD-decreet van 4 april 2014, is aangevraagd voor het in GIPOD ingegeven grondwerk, vermeld in artikel 8 van het voormelde decreet;<br>
 3° decreet van 15 juli 2016: het decreet van 15 juli 2016 houdende toekenning van een hinderpremie aan kleine ondernemingen die ernstige hinder ondervinden van openbare werken in het Vlaamse Gewest;<br>
 4° GIPOD: het Generiek Informatieplatform Openbaar Domein, vermeld in artikel 3, 4°, van het GIPOD-decreet van 4 april 2014;<br>
-5° GIPOD-werkzone: de zone waarbinnen de openbare werken worden uitgevoerd, vermeld in artikel 8, § 3, van het GIPOD-decreet van 4 april 2014;<br>
+5° ...;<br>
 6° hinderperiode: een aaneensluitende periode van ernstige hinder, veroorzaakt door openbare werken;<br>
-7° hinderzone: alle wegvakken en kruispunten die overlappen met de GIPOD-werkzone;<br>
+7° hinderzone: alle wegvakken en kruispunten die overlappen met de grondwerkzone, vermeld in artikel 3, 5°/3, van het GIPOD-decreet van 4 april 2014;<br>
 8° kennisgeving: de kennisgeving, vermeld in artikel 21, eerste lid;<br>
 9° kleine onderneming: een kleine onderneming als vermeld in artikel 2, eerste lid, 1°, van het decreet van 15 juli 2016;<br>
 10° minister: de Vlaamse minister, bevoegd voor de economie;<br>
 11° NACE-codegroep 1: de lijst van activiteiten met code 1, opgenomen in de bijlage bij dit besluit. Het betreft de detailhandel, de horeca en allerhande diensten waarvoor persoonlijk en direct contact met de klanten is vereist en die redelijkerwijze moeilijk kunnen worden uitgeoefend op verplaatsing;<br>
 12° NACE-codegroep 2: de lijst van activiteiten met code 2, opgenomen in de bijlage bij dit besluit. Het betreft vrije beroepen en dienstverleningen die niet buiten de praktijkmuren of fysieke grenzen van de vestiging te organiseren zijn;<br>
 13° onderneming: een onderneming als vermeld in artikel 2, eerste lid, 2°, van het decreet van 15 juli 2016;<br>
-14° openbare werken: een of meer werkopdrachten als vermeld in artikel 3, 12° en 13°, van het GIPOD-decreet van 4 april 2014, die op hetzelfde moment worden uitgevoerd;<br>
+14° openbare werken: een of meer grondwerken van categorie 1, vermeld in artikel 11, §1, van het GIPOD-decreet van 4 april 2014, die op hetzelfde moment worden uitgevoerd;<br>
 15° rijbaan: de rijbaan, vermeld in artikel 2, 2.1, van de wegcode;<br>
 16° rijstrook: de rijstrook, vermeld in artikel 2, 2.2, van de wegcode;<br>
 17 sluitingsperiode: een aaneensluitende periode van sluitingsdagen;<br>
+17°/1 VKBO: de Verrijkte Kruispuntbank voor Ondernemingen, vermeld in artikel 4, 11°, van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator;<br>
 18° wegcode: het koninklijk besluit van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en van het gebruik van de openbare weg;<br>
 19° wegvak: het gedeelte van de weg tussen twee opeenvolgende kruispunten.<br>
 <br>
@@ -227,8 +228,6 @@ De minister kan de hoogte van de hinderpremie A en B, vermeld in artikel 5, eers
 
 De ondernemingen die aan de voorwaarden voor de toekenning van hinderpremie A, vermeld in artikel 2 en 3, voldoen, worden door het Agentschap Innoveren en Ondernemen geselecteerd op basis van de gegevens die opgenomen zijn in het GIPOD en de VKBO.<br>
 <br>
-In het eerste lid wordt verstaan onder VKBO: de Verrijkte Kruispuntbank voor Ondernemingen, vermeld in artikel 4, 11°, van het decreet van 13 juli 2012 houdende de oprichting van een Vlaamse dienstenintegrator.<br>
-<br>
 Het Agentschap Innoveren en Ondernemen kan ondernemingen toevoegen aan de selectie na onderzoek van de elektronische meldingen, vermeld in artikel 28.
 
 ## Afdeling 2. Kennisgeving
@@ -237,9 +236,11 @@ Het Agentschap Innoveren en Ondernemen kan ondernemingen toevoegen aan de select
 
 De geselecteerde ondernemingen ontvangen een schriftelijke kennisgeving nadat de openbare werken concreet zijn gepland.<br>
 <br>
-De kennisgeving gebeurt uiterlijk zes weken vóór de geplande startdatum van de openbare werken als de openbare werken zijn ingevoerd in het GIPOD binnen de termijn vermeld in artikel 8, § 2, 1° van het GIPOD-decreet van 4 april 2014.<br>
+De kennisgeving gebeurt uiterlijk zes weken vóór de geplande startdatum van de openbare werken als de openbare werken zijn ingevoerd in het GIPOD binnen de termijn, vermeld in artikel 3/1, eerste lid, 1°, van het besluit van 9 december 2016.<br>
 <br>
-De kennisgeving gebeurt uiterlijk vijf maanden vóór de geplande startdatum van de openbare werken als de openbare werken zijn ingevoerd in het GIPOD binnen de termijn vermeld in artikel 8, § 2, 2° van het GIPOD-decreet van 4 april 2014.
+De kennisgeving gebeurt uiterlijk vijf maanden vóór de geplande startdatum van de openbare werken als de openbare werken zijn ingevoerd in het GIPOD binnen de termijn, vermeld in artikel 3/1, eerste lid, 2°, van het besluit van 9 december 2016.<br>
+<br>
+In het tweede en derde lid wordt verstaan onder het besluit van 9 december 2016: het besluit van de Vlaamse Regering van 9 december 2016 houdende de uitvoering van het decreet van 4 april 2014 houdende de uitwisseling van informatie over een inname van het openbaar domein in het Vlaamse Gewest en van het decreet van 10 november 2017 inzake maatregelen ter verlaging van de kosten voor de aanleg van elektronische communicatienetwerken met hoge snelheid en tot wijziging van diverse decreten;
 
 ## Afdeling 3. Aanvraag
 
@@ -249,7 +250,7 @@ De kennisgeving gebeurt uiterlijk vijf maanden vóór de geplande startdatum van
 
 De geselecteerde onderneming vraagt hinderpremie A elektronisch aan. In de aanvraag wordt bevestigd dat de gegevens op grond waarvan de selectie, vermeld in artikel 20, eerste lid, is gebeurd, correct en op haar van toepassing zijn.<br>
 <br>
-Hinderpremie A wordt uiterlijk zestig kalenderdagen vanaf de kennisgeving en vóór de geplande einddatum van de openbare werken aangevraagd.
+Hinderpremie A wordt vóór de geplande einddatum van de openbare werken aangevraagd. De minimale aanvraagtermijn bedraagt in elk geval zestig kalenderdagen vanaf de kennisgeving.
 
 ## Onderafdeling 2. Hinderpremie B
 
@@ -293,7 +294,9 @@ De niet-geselecteerde onderneming die van oordeel is dat ze aan de voorwaarden v
 <br>
 De elektronische melding wordt nader onderzocht door het Agentschap Innoveren en Ondernemen, met het oog op een aanvulling of verbetering van de gegevens in het GIPOD door de initiatiefnemer van de openbare werken of in de VKBO door de onderneming.<br>
 <br>
-De elektronische melding en de aanvulling of verbetering van de gegevens in het GIPOD of de VKBO moeten gebeuren vóór de geplande einddatum van de openbare werken.
+De elektronische melding wordt gedaan vóór de geplande einddatum van de openbare werken. De gegevens in de VKBO worden aangevuld of verbeterd vóór de geplande einddatum van de openbare werken.<br>
+<br>
+Het Agentschap Innoveren en Ondernemen kan een positief gevolg geven aan de melding van de niet-geselecteerde onderneming als de onderneming de hinderpremie A of B dreigt mis te lopen door niet of verkeerd ingevoerde gegevens in het GIPOD of door andere anomalieën.
 
 ## Afdeling 7. Aanpassing van de procedure
 
