@@ -118,9 +118,9 @@ De organisator die wettelijk verplicht is een commissaris-revisor aan te stellen
 
 <p>De subsidieerbare kinderopvangplaatsen blijven behouden binnen een subsidiegroep :<br>
 1° in geval van verhuizing van een kinderopvanglocatie binnen dezelfde subsidiegroep;<br>
-2° als het aantal vergunde kinderopvangplaatsen lager wordt dan het aantal subsidieerbare kinderopvangplaatsen. De subsidieerbare kinderopvangplaatsen zijn dan voorbehouden gedurende een bepaalde termijn.</p>
+2° als het aantal vergunde kinderopvangplaatsen lager wordt dan het aantal subsidieerbare kinderopvangplaatsen, op voorwaarde dat het agentschap het voorbehoud toekent op gemotiveerd verzoek van de organisator. De subsidieerbare kinderopvangplaatsen zijn dan voorbehouden gedurende een bepaalde termijn.</p>
 
-<p>De minister bepaalt de nadere regels, onder meer de invulling van het voorbehoud.</p>
+<p>De minister bepaalt de nadere regels, onder meer de invulling van het voorbehoud en de wijze waarop dat aangevraagd en toegekend wordt.</p>
 
 ### ART. 7.
 
