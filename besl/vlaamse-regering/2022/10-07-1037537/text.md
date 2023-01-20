@@ -35,7 +35,7 @@ In dit besluit wordt verstaan onder:&nbsp;<br>
 4° halve opvangdag: een opvangdag waarbij een kind minder dan 5 uur aanwezig is in de opvanglocatie;<br>
 5° kinderopvang: de kinderopvang, vermeld in artikel 2 van het decreet van 20 april 2012;<br>
 6° minister: de Vlaamse minister, bevoegd voor Welzijn, Volksgezondheid en Gezin;<br>
-7° tijdelijke vervangcapaciteit: het aanbod van tijdelijke vervangcapaciteit van baby’s en peuters dat tijdelijk gecreëerd wordt om tegemoet te komen aan de opvangnoden van gezinnen in situaties waar er omwille van schorsing of opheffing van een vergunning van kinderopvang een acute capaciteitsvermindering is;<br>
+7° tijdelijke vervangcapaciteit: het aanbod van tijdelijke vervangcapaciteit van baby’s en peuters dat tijdelijk gecreëerd wordt om tegemoet te komen aan de opvangnoden van gezinnen in situaties waar er omwille van schorsing of opheffing van een vergunning van kinderopvang, door het faillissement van een organisator van kinderopvang of door de plotse stopzetting van een organisator van kinderopvang door overmacht een acute capaciteitsvermindering is;<br>
 8° organisator: de organisator van kinderopvang;<br>
 9° vergunning: een vergunning voor gezinsopvang of een vergunning voor groepsopvang als vermeld in artikel 4, eerste lid, 1° en 2°, van het decreet van 20 april 2012;<br>
 10° volle opvangdag: een opvangdag waarbij een kind minstens 5 uur aanwezig is in de opvanglocatie.
@@ -46,25 +46,25 @@ De subsidies worden toegekend met inachtneming van het besluit 2012/21/EU van de
 
 ### ART 3.
 
-Met toepassing van artikel 10, 3°, van het decreet van 20 april 2012 kan het agentschap aan de organisator van kinderopvang een subsidie toekennen voor het creëren van tijdelijke vervangcapaciteit van baby’s en peuters in situaties waar er omwille van schorsing of opheffing van een vergunning een acute capaciteitsvermindering is.&nbsp;<br>
+Met toepassing van artikel 10, 3°, van het decreet van 20 april 2012 kan het agentschap aan de organisator van kinderopvang een subsidie toekennen voor het creëren van tijdelijke vervangcapaciteit van baby’s en peuters in situaties waar er omwille van schorsing of opheffing van een vergunning, door het faillissement van een organisator van kinderopvang of door de plotse stopzetting van een organisator van kinderopvang door overmacht een acute capaciteitsvermindering is.&nbsp;<br>
 <br>
 Het creëren van tijdelijke vervangcapaciteit voor baby’s en peuters, vermeld in het eerste lid, gebeurt overeenkomstig de bepalingen, vermeld in artikel 10 tot en met 17 van dit besluit.&nbsp;<br>
 <br>
-De vervangcapaciteit voor baby’s en peuters, vermeld in het eerste lid, is tijdelijk. Dit betekent dat de tijdelijke vervangcapaciteit bestaat voor de periode van schorsing van de vergunning of tot uiterlijk drie maanden na het stopzetten van de plaatsen omwille van opheffing van de vergunning.<br>
+De vervangcapaciteit voor baby’s en peuters, vermeld in het eerste lid, is tijdelijk. Dit betekent dat de tijdelijke vervangcapaciteit bestaat voor de periode van schorsing van de vergunning of tot uiterlijk twaalf maanden na het stopzetten van de plaatsen omwille van opheffing van de vergunning, door het faillissement van de organisator of door de plotse stopzetting door de organisator door overmacht.&nbsp;De tijdelijke vervangcapaciteit stopt zodra de subsidies, die vrijgekomen zijn naar aanleiding van de opheffing, het faillissement of de stopzetting door overmacht, conform artikel 57, §2/1 en §3, derde lid, van het Procedurebesluit van 9 mei 2014, opnieuw toegekend zijn en betaald worden. Als niet hetzelfde aantal subsidieerbare plaatsen toegekend kon worden, wordt de tijdelijke vervangcapaciteit maar gedeeltelijk stopgezet.<br>
 <br>
-De periode van drie maanden, vermeld in het derde lid, kan, op basis van een gemotiveerde vraag door het lokaal bestuur, eenmaal verlengd worden met een periode van maximaal drie maanden.
+De periode van twaalf maanden, vermeld in het derde lid, kan, op basis van een gemotiveerde vraag door het lokaal bestuur, eenmaal verlengd worden met een periode van maximaal zes maanden.
 
 ## Hoofdstuk 2. Regierol van het lokaal loket kinderopvang en het lokaal bestuur
 
 ### ART 4.
 
-Het lokaal loket kinderopvang analyseert in overleg met het lokaal bestuur de opvangnoden van gezinnen waarbij er een opvangnood bestaat door een acute capaciteitsvermindering omwille van schorsing of opheffing van de vergunning van de kinderopvang waar hun baby of peuter opgevangen werd of waar al een formeel engagement in de vorm van een geschreven overeenkomst voor opvang was. Het lokaal loket kinderopvang ondersteunt deze gezinnen in de toeleiding naar andere vergunde opvangcapaciteit.&nbsp;<br>
+Het lokaal loket kinderopvang analyseert in overleg met het lokaal bestuur de opvangnoden van gezinnen waarbij er een opvangnood bestaat door een acute capaciteitsvermindering omwille van schorsing of opheffing van de vergunning van de kinderopvang, door het faillissement van de organisator of door de plotse stopzetting van de kinderopvanglocatie door de organisator wegens overmacht waar hun baby of peuter opgevangen werd of waar al een formeel engagement in de vorm van een geschreven overeenkomst voor opvang was. Het lokaal loket kinderopvang ondersteunt deze gezinnen in de toeleiding naar andere vergunde opvangcapaciteit.&nbsp;<br>
 <br>
 In gemeenten waar er geen bij het agentschap aangemeld lokaal loket kinderopvang is, neemt het lokaal bestuur de opdracht, vermeld in het eerste lid,&nbsp;waar.
 
 ### ART 5.
 
-Indien uit de in artikel 4 vermelde analyse blijkt dat de al vergunde opvangcapaciteit niet voldoende is, kan het lokaal bestuur via overleg met de relevante organisatoren de mogelijkheden inzake tijdelijke vervangcapaciteit voor baby’s en peuters inventariseren. Deze tijdelijke vervangcapaciteit wordt zo dicht mogelijk in de buurt van de kinderopvang waarvan de vergunning geschorst of opgeheven werd, georganiseerd. &nbsp;<br>
+Indien uit de in artikel 4 vermelde analyse blijkt dat de al vergunde opvangcapaciteit niet voldoende is, kan het lokaal bestuur via overleg met de relevante organisatoren de mogelijkheden inzake tijdelijke vervangcapaciteit voor baby’s en peuters inventariseren. Deze tijdelijke vervangcapaciteit wordt zo dicht mogelijk in de buurt van de kinderopvang waarvan de vergunning geschorst of opgeheven werd, de organisator failliet is verklaard of de organisator plots gestopt is wegens overmacht, georganiseerd. &nbsp;<br>
 <br>
 Het agentschap kan het lokaal bestuur ondersteunen bij de uitvoering van de opdracht, vermeld in het eerste lid.
 
@@ -106,12 +106,12 @@ De organisator waarvoor toestemming voor tijdelijke vervangcapaciteit baby’s e
 ### ART 11.
 
 Het agentschap kent de subsidie voor de tijdelijke vervangcapaciteit van baby’s en peuters toe aan de organisator als de organisator daarvoor conform artikel 13 een aanvraag indient en voldoet aan al de volgende voorwaarden:<br>
-1° het betreft de opvang van een baby of peuter met een opvangnood omwille van schorsing of opheffing van de vergunning van de kinderopvang;<br>
+1° het betreft de opvang van een baby of peuter met een opvangnood omwille van schorsing of opheffing van de vergunning van de kinderopvang, door het faillissement van de organisator of door de plotse stopzetting door de organisator door overmacht;<br>
 2° het agentschap heeft toestemming gegeven voor de tijdelijke vervangcapaciteit van baby’s en peuters voor de opvanglocatie waarvoor de organisator de aanvraag indient;<br>
 3° de organisator voldoet voor de realisatie van de tijdelijke vervangcapaciteit van baby’s en peuters aan de voorwaarden, vermeld in het Vergunningsbesluit van 22 november 2013, met uitzondering van artikel 2 tot en met 11, artikel 17 en artikel 23, tweede tot en met vierde lid, van hetzelfde besluit;<br>
 4° de gezinnen van de in de tijdelijke vervangcapaciteit opgevangen baby’s en peuters betalen per volle opvangdag:<br>
-a) een bedrag dat overeenkomt met het inkomenstarief als het gezin in de opvanglocatie, waarvan de vergunning is geschorst of opgeheven, gebruik maakte van een opvangplaats die moest voldoen aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013;<br>
-b) een bedrag dat overeenkomt met de vrije prijs, verminderd met het bedrag van de kinderopvangtoeslag, als het gezin in de opvanglocatie, waarvan de vergunning is geschorst of opgeheven, gebruik maakte van een opvangplaats die niet moest voldoen aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013.<br>
+a) een bedrag dat overeenkomt met het inkomenstarief als het gezin in de opvanglocatie, waarvan de vergunning is geschorst of opgeheven, de organisator failliet is verklaard of plots door overmacht is gestopt, gebruik maakte van een opvangplaats die moest voldoen aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013;<br>
+b) een bedrag dat overeenkomt met de vrije prijs, verminderd met het bedrag van de kinderopvangtoeslag, als het gezin in de opvanglocatie, waarvan de vergunning is geschorst of opgeheven, de organisator failliet is verklaard of plots door overmacht is gestopt, gebruik maakte van een opvangplaats die niet moest voldoen aan de voorwaarden, vermeld in artikel 20 tot en met 36/1 van het Subsidiebesluit van 22 november 2013.<br>
 <br>
 Het bedrag van de kinderopvangtoeslag is het bedrag, vermeld in artikel 52 van het Groeipakketdecreet van 2018.<br>
 <br>
