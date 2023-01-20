@@ -542,17 +542,26 @@ Als het agentschap het voornemen heeft om de subsidie te weigeren op basis van e
 
 ### ART. 57.
 
-§ 1. Het agentschap kent een subsidiebelofte toe voor een programmatiesubsidie conform paragraaf 2 tot en met 4.<br>
+§1. Het agentschap kent een subsidiebelofte toe voor een programmatiesubsidie conform paragraaf 2 tot en met 4.<br>
 <br>
-§ 2. Als er nieuw subsidiebudget beschikbaar is voor een programmatiesubsidie, wordt dat verdeeld binnen de geografische gebieden op basis van de behoefte aan die programmatiesubsidie. De behoefte wordt berekend op basis van het verschil tussen de behoefte aan de programmatiesubsidie en het beschikbare aanbod met de programmatiesubsidie.<br>
+§2. Als er nieuw subsidiebudget beschikbaar is voor een programmatiesubsidie, wordt dat verdeeld binnen de geografische gebieden op basis van de behoefte aan die programmatiesubsidie. De behoefte wordt berekend op basis van het verschil tussen de behoefte aan de programmatiesubsidie en het beschikbare aanbod met de programmatiesubsidie.<br>
 <br>
 Het agentschap berekent de behoefte en het aanbod op basis van de beschikbare objectieve en relevante cijfergegevens, waaronder, voor wat betreft de subsidie voor inkomenstarief en de plussubsidie, minstens de gegevens, vermeld in artikel 3, zesde lid, van het decreet van 20 april 2012. Het agentschap kan een beroep doen op de gegevens van de lokale loketten kinderopvang om de behoefte te berekenen.<br>
 <br>
 Het agentschap bepaalt op basis van de vastgestelde behoefte uit welke geografische gebieden een organisator een aanvraag van een subsidiebelofte kan indienen.<br>
 <br>
-§ 3. Het agentschap doet voor de programmatie en de verdeling van het budget een algemene oproep bij kandidaten om een aanvraag van een subsidiebelofte in te dienen voor de programmatiesubsidie die verdeeld kan worden.<br>
+§2/1. In afwijking van paragraaf 2 kan het agentschap het subsidiebudget opnieuw verdelen in hetzelfde geografische gebied als waar het is toegekend, of in een aangrenzend geografisch gebied, als het subsidiebudget voor de programmatiesubsidie opnieuw beschikbaar wordt naar aanleiding van een van de volgende situaties:<br>
+1°&nbsp;&nbsp; &nbsp;de organisator die beschikte over een beslissing van het agentschap tot toekenning van de programmatiesubsidie en die al de specifieke dienstverlening realiseerde, beslist om de vergunning voor de kinderopvanglocatie waar hij de specifieke dienstverlening realiseerde, stop te zetten of beslist om de subsidie stop te zetten. Er geldt geen voorbehoud conform artikel 6 van het Subsidiebesluit van 22 november 2013;<br>
+2°&nbsp;&nbsp; &nbsp;het agentschap beslist om:<br>
+a)&nbsp;&nbsp; &nbsp;de vergunning op te heffen van een organisator die beschikte over een beslissing tot toekenning van de programmatiesubsidie en die de specifieke dienstverlening in die kinderopvanglocatie al realiseerde;<br>
+b)&nbsp;&nbsp; &nbsp;de vergunning te wijzigen van een organisator die beschikte over een beslissing tot toekenning van de programmatiesubsidie en die de specifieke dienstverlening in die kinderopvanglocatie al realiseerde;&nbsp;<br>
+c)&nbsp;&nbsp; &nbsp;de subsidie stop te zetten van een organisator die beschikte over een beslissing tot toekenning van de programmatiesubsidie en die de specifieke dienstverlening in die kinderopvanglocatie al realiseerde;<br>
+3°&nbsp;&nbsp; &nbsp;de subsidie is van rechtswege stopgezet omdat de organisator bij vonnis in staat van faillissement is verklaard.<br>
 <br>
-De algemene oproep van het agentschap bevat al de volgende gegevens:<br>
+<br>
+§3. Het agentschap doet voor de programmatie en de verdeling van het budget een algemene oproep bij kandidaten om een aanvraag van een subsidiebelofte in te dienen voor de programmatiesubsidie die verdeeld kan worden.<br>
+<br>
+De algemene oproep van het agentschap&nbsp;voor de verdeling van subsidiebudget, vermeld in paragraaf 2, bevat al de volgende gegevens:<br>
 1° de vermelding dat het om een standaard vergelijkende procedure gaat waarbij de beslissingen tot toekenning van de subsidiebelofte definitief zijn, ondanks een eventueel bezwaar of beroep tegen een weigeringsbeslissing van een andere aanvrager;<br>
 2° het subsidiebudget, voor welke programmatiesubsidie het budget bestemd is en vanaf wanneer het subsidiebudget beschikbaar is;<br>
 3° bij de subsidie voor inkomenstarief, de subsidie voor dringende kinderopvang en de subsidie voor kinderopvang met flexibele openingstijden de vermelding van de voorafname voor de grootsteden Antwerpen, het tweetalige gebied Brussel-hoofdstad en Gent. Tot 31 december 2024 gelden volgende percentages:<br>
@@ -571,6 +580,12 @@ c) 5% voor Gent;<br>
 13° het aanvraagformulier dat gebruikt moet worden;<br>
 14° het beslissingskader.<br>
 <br>
+De algemene oproep van het agentschap voor de verdeling van subsidiebudget dat opnieuw beschikbaar wordt conform 2/1, bevat al de volgende gegevens:<br>
+1°&nbsp;&nbsp; &nbsp;de gegevens, vermeld in het tweede lid, 1°, 2°, 8°, 9°, 10°, 12°, 13° en 14°;<br>
+2°&nbsp;&nbsp; &nbsp;het geografische gebied waaruit het budget beschikbaar wordt en in welke geografische gebieden het opnieuw verdeeld kan worden;<br>
+3°&nbsp;&nbsp; &nbsp;de begindatum en de einddatum voor de indiening van een aanvraag van een subsidiebelofte. De termijn tussen de begindatum en de einddatum bedraagt minstens zeven dagen;<br>
+4°&nbsp;&nbsp; &nbsp;de vermelding dat de termijn om een aanvraag in te dienen met twee weken verlengd wordt als er binnen de aanvankelijke termijn, vermeld in punt 3°, geen aanvraag is ingediend. De aanvraagtermijn kan in totaal maximaal vier keer verlengd worden.<br>
+<br>
 In het tweede lid, 8°, wordt verstaan onder de omschakeling van een bestaande kinderopvangplaats: de omschakeling van een kinderopvangplaats die vergund en opgestart is op het moment van de algemene oproep zonder een bepaalde programmatiesubsidie van het agentschap naar een kinderopvangplaats waarvoor die programmatiesubsidie wordt toegekend.<br>
 <br>
 In het beslissingskader, vermeld in het tweede lid, 14°, bepaalt het agentschap de criteria aan de hand waarvan het agentschap, naargelang de principes van de algemene oproep, per geografisch gebied, als de geografische gebieden gerangschikt worden, of over de geografische gebieden heen de verschillende subsidieaanvragen op een objectieve wijze beoordeelt en rangschikt om te beslissen welke aanvragen een subsidiebelofte krijgen. Dat beslissingskader kan ontvankelijkheidscriteria, uitsluitingscriteria, voorrangscriteria en inhoudelijke vergelijkingscriteria bevatten. De criteria die het agentschap bepaalt, resulteren erin dat de subsidiebeloftes toegekend worden aan de aanvragen die de beste beoordeling krijgen op de criteria die betrekking hebben op een of meer van de volgende kenmerken:<br>
@@ -579,9 +594,10 @@ In het beslissingskader, vermeld in het tweede lid, 14°, bepaalt het agentschap
 3° het medewerkersbeleid;<br>
 4° de wijze van uitvoering van de specifieke dienstverlening in het kader van de te verdelen subsidie;<br>
 5° het netwerk van de organisator in het kader van de kinderopvangactiviteiten en de samenwerking met andere relevante actoren;<br>
-6° de lokale meerwaarde en relevantie van de aanvraag op basis van een gemotiveerd negatief of positief advies met een score van het lokaal bestuur waarbij het lokaal bestuur een procedure en criteria hanteert als vermeld in artikel 7 van het besluit van de Vlaamse Regering van 24 mei 2013 houdende het lokaal beleid kinderopvang. De criteria van het lokaal bestuur zijn andere criteria dan degene die het agentschap in de algemene oproep hanteert.<br>
+6° de lokale meerwaarde en relevantie van de aanvraag op basis van een gemotiveerd negatief of positief advies met een score van het lokaal bestuur waarbij het lokaal bestuur een procedure en criteria hanteert als vermeld in artikel 7 van het besluit van de Vlaamse Regering van 24 mei 2013 houdende het lokaal beleid kinderopvang. De criteria van het lokaal bestuur zijn andere criteria dan degene die het agentschap in de algemene oproep hanteert;<br>
+7° de mate waarin de organisator tegemoetkomt aan de behoeften van de contracthouders van de voorgaande organisator voor een kinderopvangplaats op korte termijn en in de nabijheid, in geval van een algemene oproep voor de verdeling van subsidiebudget dat opnieuw beschikbaar wordt conform paragraaf 2/1.<br>
 <br>
-§ 4. De minister oefent goedkeuringstoezicht uit op de algemene oproep van het agentschap. In het kader van dat goedkeuringstoezicht controleert de minister of de algemene oproep van het agentschap, met inbegrip van het beslissingskader, voldoet aan de bepalingen van het decreet van 20 april 2012 en dit besluit.<br>
+§4. De minister oefent goedkeuringstoezicht uit op de algemene oproep van het agentschap. In het kader van dat goedkeuringstoezicht controleert de minister of de algemene oproep van het agentschap, met inbegrip van het beslissingskader, voldoet aan de bepalingen van het decreet van 20 april 2012 en dit besluit.<br>
 <br>
 Het agentschap kan geen algemene oproep versturen voordat de minister het goedkeuringstoezicht, vermeld in het eerste lid, uitgeoefend heeft.
 
@@ -885,8 +901,9 @@ Als het agentschap een wijziging van de subsidietoekenning als vermeld in artike
 <p>De nieuwe organisator kan dezelfde subsidietoekenning vragen bij het agentschap buiten een algemene oproep, zodat hij de specifieke dienstverlening, verbonden aan de subsidie, kan uitvoeren zodra hij een vergunning krijgt voor de kinderopvanglocatie en onder de volgende voorwaarden:<br>
 1° de nieuwe organisator neemt de al gesloten schriftelijke overeenkomsten voor kinderopvang over van de vorige organisator;<br>
 2° de kinderopvang vindt plaats op dezelfde kinderopvanglocatie;<br>
-3° de nieuwe organisator dient uiterlijk zeven kalenderdagen voor de officiële wijziging van de organisator ingaat, de aanvraag van een subsidietoekenning bij wijziging van de organisator in bij het agentschap;<br>
-4° de vorige organisator doet schriftelijk afstand van zijn recht op voorbehoud als vermeld in artikel 6 van het Subsidiebesluit van 22 november 2013.</p>
+3° de nieuwe organisator dient uiterlijk op het moment van de vergunningsaanvraag, de aanvraag van een subsidietoekenning bij wijziging van de organisator in bij het agentschap;<br>
+4° de vorige organisator meldde de stopzetting aan het agentschap conform artikel 30 en 107 van dit besluit, of doet schriftelijk afstand van zijn recht op voorbehoud, vermeld in artikel 6 van het Subsidiebesluit van 22 november 2013;<br>
+5° de nieuwe organisator start de werking op uiterlijk dertig dagen na de stopzetting door de vorige organisator.</p>
 
 ### ART. 91.
 
@@ -1027,6 +1044,12 @@ Als het agentschap geen beslissing heeft genomen of de organisator daarvan op de
 <p>In elk geval kan een stopzetting van een subsidie pas ingaan op de eerste dag van de maand die volgt op de melding daarvan aan het agentschap, tenzij de vergunning gelijktijdig wordt stopgezet.</p>
 
 <p>De organisator die zijn subsidie voor werken met inkomenstarief wil stopzetten, voorziet in een redelijke overgangsperiode voor de gezinnen. Bij gebrek daaraan kan het agentschap beslissen tot terugvordering van de betaalde subsidie, vermeld in het Subsidiebesluit van 22 november 2013. De organisator neemt daarover de nodige bepalingen op in de schriftelijke overeenkomst en het huishoudelijk reglement.</p>
+
+### ART 107/1.
+
+Als de organisator bij vonnis in staat van faillissement verklaard wordt, wordt de subsidietoekenning van rechtswege stopgezet op de datum dat het vonnis kracht van gewijsde heeft.<br>
+<br>
+Het agentschap bezorgt de bevestiging van de stopzetting, vermeld in het eerste lid, en de gevolgen ervan, namelijk dat er geen subsidie meer wordt uitbetaald en dat een saldoafrekening plaatsvindt, aan de curator elektronisch en met een aangetekende brief.
 
 ## TITEL 4 Bezwaar tegen de beslissing van [het agentschap (verv. BVR 12 maart 2021, art. 212, I: 18 april 2019)] tot weigering
 
