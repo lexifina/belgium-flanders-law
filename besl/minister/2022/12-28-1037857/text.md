@@ -33,3 +33,22 @@ Artikel 5, §2, van het ministerieel besluit van 23 mei 2022 tot vaststelling va
 ### ART 2.
 
 Artikel 17 en artikel 67 van het besluit van de Vlaamse Regering van 8 juli 2022 tot wijziging van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, het Energiebesluit van 19 november 2010 en het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning, wat betreft diverse bepalingen inzake de energie-efficiëntie en hernieuwbare energie, treden in werking op 12 december 2022.
+
+### ART 3.
+
+Artikel 9.2.8 van het Energiebesluit van 19 november, zoals gewijzigd bij artikel 41 van het besluit van de Vlaamse Regering van 2 december 2022, is, voor wat betreft niet-residentiële gebouwen en niet-residentiële gebouweenheden, voor het eerst van toepassing op authentieke akten verleden vanaf 1 mei 2023.
+
+### ART 4.
+
+In titel 6 van het ministerieel besluit van 28 december 2018 houdende algemene bepalingen inzake de energieprestatieregelgeving, energieprestatiecertificaten en de certificering van aannemers en installateurs, gewijzigd bij het ministerieel besluit van 19 december 2020, wordt een hoofdstuk 4, dat bestaat uit artikel 88/1, ingevoegd, dat luidt als volgt:&nbsp;<br>
+<br>
+“Hoofdstuk 4. Toegang tot de energieprestatiedatabank<br>
+<br>
+Art. 88/1. De eigenaar, die geen aangifteplichtige is, heeft toegang tot de bijlagen van de EPB-aangifte, zoals vermeld in artikel 71 van hetzelfde besluit.”.<br>
+&nbsp;
+
+### ART 5.
+
+Artikel 2 van dit besluit treedt in werking op 12 december 2022.<br>
+<br>
+Artikel 1 van dit besluit treedt in werking op 1 januari 2023.
