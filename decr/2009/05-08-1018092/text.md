@@ -3172,7 +3172,7 @@ De Vlaamse Regering kan een steunprogramma opstellen met tegemoetkomingen ten vo
 ### ART. 8.2.2.
 
 §1. De Vlaamse Regering kan leningen verstrekken ter ondersteuning van investeringen in het kader van de bevordering van het rationeel energieverbruik of de woningkwaliteit, door:<br>
-1° via energiehuizen leningen aan eigenaars of&nbsp;aan eindafnemers te verstrekken voor de financiering van investeringen in privéwoningen die dienen als hoofdverblijfplaats;<br>
+1° via energiehuizen leningen aan eigenaars of&nbsp;aan eindafnemers te verstrekken voor de financiering van investeringen in privéwoningen die dienen als hoofdverblijfplaats, of voor de financiering van investeringen aan de gemene delen van het gebouw waartoe een privéwoning waarvan ze eigenaar zijn, behoort;<br>
 2° het rechtstreeks verstrekken van deze leningen aan eindafnemers.<br>
 <br>
 De Vlaamse Regering kan de modaliteiten voor de leningen bepalen evenals de procedure voor aanvraag en toekenning.<br>
