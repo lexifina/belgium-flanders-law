@@ -1834,7 +1834,8 @@ e) het deelnemen aan de werkzaamheden van de bekkensecretariaten, vermeld in art
 5°...;<br>
 6° het uitvoeren van de analyses en beoordelingen van de kenmerken van het stroomgebiedsdistrict, de effecten van de menselijke activiteiten op de toestand van het oppervlaktewater en het grondwater en van het watergebruik, bedoeld in artikel&nbsp;1.7.3.1. van het decreet integraal waterbeleid;<br>
 7° het uitbrengen van het advies bij de watertoets, bedoeld in artikel&nbsp;1.3.1.1,§ 3, van het decreet integraal waterbeleid, voor die gevallen waarin de Vlaamse Milieumaatschappij door de Vlaamse regering is aangewezen als adviesverlenende instantie;<br>
-8° het opstellen, controleren en opvolgen van de investeringsprogramma's en de subsidiëringsprogramma's voor de zuivering van het afvalwater dat geloosd wordt in de openbare riolen en collectoren; de aansturing van de uitbouw van het gemeentelijke rioleringsnet met inbegrip van subsidiëring en het ecologisch en economisch toezicht op de uitbouw en het beheer van de zuiveringsinfrastructuur;<br>
+8° het uitoefenen van toezicht op de Vennootschap, vermeld in artikel 2.6.1.1.1, §1, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, vermeld in titel II, hoofdstuk VI, afdeling 1, onderafdelingen 1 en 2, van het voormelde decreet, en het opstellen, controleren en opvolgen van de subsidiëringsprogramma’s voor de zuivering van het afvalwater dat geloosd wordt in de openbare riolen en collectoren;<br>
+8°bis de aansturing van de uitbouw van het gemeentelijke rioleringsnet met inbegrip van subsidiëring en het toezicht op de uitbouw en het beheer van de zuiveringsinfrastructuur;<br>
 9° het beheren van het grondwater en de voorstellen voor afbakening van waterwingebieden en beschermingszones;<br>
 10° met betrekking tot de onbevaarbare waterlopen:<br>
 a) de coördinatie van de uitvoering van de wet op de onbevaarbare waterlopen;<br>
@@ -1856,7 +1857,7 @@ c) de tarieven die verbonden zijn aan de aspecten, vermeld in punt a) en b);<br>
 20° het opmaken van zoneringsplannen voor de sanering van het afvalwater. De zoneringsplannen maken een onderscheid tussen de gebieden met collectieve sanering en de gebieden met individuele sanering. In uitvoering van één of meerdere zoneringsplannen wordt een gebiedsdekkend uitvoeringsplan per zuiveringsgebied opgemaakt waarin de uitvoering en de timing van de projecten met betrekking tot respectievelijk de gemeentelijke en bovengemeentelijke saneringsverplichting geregeld zijn, evenals de noodzakelijke afstemming van de projecten. Deze zonerings- en uitvoeringsplannen worden bindend voor derden na goedkeuring door de Vlaamse Regering.<br>
 21° het ondersteunen van de uitbouw van grijswatercircuits ter bescherming van de kwetsbare watervoerende lagen door subsidiëring van grijswaterleveranciers.<br>
 <br>
-Met betrekking tot de in § 1, tweede lid, 8°, bepaalde taak kan tegen de beslissingen van de ecologische en economische toezichthouder beroep worden ingesteld bij de Vlaamse minister bevoegd voor het leefmilieu. De Vlaamse Regering bepaalt hiertoe de voorwaarden.<br>
+Met betrekking tot de in het tweede lid, 8° en 8°bis, bepaalde taak kan tegen de beslissingen van de Vlaamse Milieumaatschappij beroep worden ingesteld bij de Vlaamse minister bevoegd voor het leefmilieu.&nbsp;De Vlaamse Regering bepaalt hiertoe de voorwaarden.<br>
 <br>
 § 2. De taken van de Vlaamse Milieumaatschappij met betrekking tot de verontreiniging van de atmosfeer zijn:<br>
 1° het verzamelen, beoordelen en verwerken van gegevens en informatie door:<br>
