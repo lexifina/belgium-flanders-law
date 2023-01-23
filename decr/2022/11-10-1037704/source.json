@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037704,
+  "title": "Decreet van 2022-11-10 tot wijziging van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie en het decreet van 7 juli 2017 tot oprichting van een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid, tot vaststelling van vergunningsnormen voor private uitbetalingsactoren en tot wijziging van het decreet van 30 april 2004 betreffende de oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037704/VolledigDocument?datum=2023-01-23",
+  "source_sha256": "24c012bcff2d7474961ed7fe912d118271e7b37f8e14e6a09dbd3b03780069f9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037704&param=informatie",
+  "as_of": "2023-01-23",
+  "made": "2022-11-10",
+  "gazette": "2023-01-13",
+  "numac": 2022042905,
+  "document_start": "2023-01-23",
+  "document_end": null,
+  "in_force": "2023-01-23",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2023-01-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
