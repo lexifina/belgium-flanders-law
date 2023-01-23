@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037577,
+  "title": "Decreet van 2022-10-21 tot wijziging van artikel 10.2.3 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, wat de sanering van afvalwater betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037577/VolledigDocument?datum=2023-01-23",
+  "source_sha256": "7aedb49f23bcc69c6e5762d9633a8b7515c8966071cab41322fcfe6d14a31e8a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037577&param=informatie",
+  "as_of": "2023-01-23",
+  "made": "2022-10-21",
+  "gazette": "2023-01-13",
+  "numac": 2022042680,
+  "document_start": "2023-01-23",
+  "document_end": null,
+  "in_force": "2023-01-23",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2023-01-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
