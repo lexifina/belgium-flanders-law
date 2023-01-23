@@ -227,6 +227,28 @@ Het delen van de identificatiegegevens is vrijwillig en is alleen mogelijk als d
 <br>
 § 5. In het tweetalige gebied Brussel-Hoofdstad kunnen de gegevens, vermeld in paragraaf 1, tweede lid, onder de voorwaarden, vermeld in paragraaf 2, worden gedeeld met een medewerker van het centrum algemeen welzijnswerk van Brussel als partner van het samenwerkingsverband geïntegreerd breed onthaal dat tot stand komt ter uitvoering van de convenant, vermeld in artikel 2 van het decreet van 9 februari 2018 betreffende het lokaal sociaal beleid.
 
+### ART 10/2.
+
+Het agentschap kan persoonsgegevens van de rechtgevende kinderen, vermeld in artikel 3, §1, 34°, van het Groeipakketdecreet van 2018, de rechthebbende kinderen, vermeld in artikel 3, §1, 35°, van het voormelde decreet, en begunstigden als vermeld in boek 2, deel 4, titel 1, van het voormelde decreet uit het kadaster van toelagen in het kader van het gezinsbeleid, vermeld in artikel 7/1, eerste lid, 5°, van dit decreet, ter beschikking stellen van een lokaal bestuur of de Vlaamse Gemeenschapscommissie om dat lokaal bestuur of de Vlaamse Gemeenschapscommissie te ondersteunen bij de uitvoering van de bevoegdheid die eraan bij of krachtens een wet of decreet is toegekend om een beleid uit te oefenen voor de gezinnen die op het grondgebied ervan wonen.<br>
+<br>
+De volgende persoonsgegevens kunnen gedeeld worden conform het eerste lid:<br>
+1°&nbsp;&nbsp; &nbsp;de identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;de toegekende toelagen in het kader van het gezinsbeleid, vermeld in artikel 3, §1, 44°, van het Groeipakketdecreet van 2018;<br>
+3°&nbsp;&nbsp; &nbsp;de periode waarvoor de toelagen, vermeld in punt 2°, worden toegekend.<br>
+<br>
+De gegevensuitwisseling heeft alleen betrekking op gegevens die noodzakelijk zijn voor de acties van het lokaal bestuur of de Vlaamse Gemeenschapscommissie ter uitvoering van de bevoegdheid die eraan bij of krachtens een wet of decreet is toegekend om een beleid uit te oefenen voor de gezinnen die op het grondgebied ervan wonen.<br>
+&nbsp;<br>
+De gegevens worden uitgewisseld op een beveiligde elektronische manier.<br>
+<br>
+De persoonsgegevens worden verwerkt conform artikel 6, lid 1, e), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
+<br>
+Het agentschap, het lokaal bestuur en de Vlaamse Gemeenschapscommissie zijn elk afzonderlijk verwerkingsverantwoordelijke voor de persoonsgegevens, ver- meld in het tweede lid, die zij verwerken.<br>
+<br>
+Conform artikel 12 van de voornoemde verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 informeren het agentschap, het lokaal bestuur en de Vlaamse Gemeenschapscommissie de betrokkenen minstens via hun website over de verwerking.<br>
+<br>
+Voor de lokale besturen en de Vlaamse Gemeenschapscommissie worden de maximale bewaringstermijnen voor persoonsgegevens, vermeld in dit artikel, con- form artikel 5, lid 1, e), van de voornoemde verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016, vastgelegd in de beheersregels, vermeld in artikel III.81, §2, van het Bestuursdecreet van 7 december 2018. Bij het bepalen van deze bewaartermijnen wordt rekening gehouden met de specificiteit van de dossiers.<br>
+&nbsp;
+
 ### ART. 11.
 
 Het agentschap werkt voor de realisatie van zijn taken samen en sluit samenwerkingsakkoorden af met overheden, instanties, instellingen, diensten en verenigingen die op het vlak van de toegewezen taken actief zijn.<br>
