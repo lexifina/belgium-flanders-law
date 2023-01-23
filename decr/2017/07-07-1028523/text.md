@@ -19,6 +19,7 @@ In dit decreet wordt verstaan onder:<br>
 7° ...<br>
 8° private uitbetalingsactor: een private rechtspersoon, vergund met het oog op de uitbetaling van toelagen in het kader van het gezinsbeleid;<br>
 9° toelagen in het kader van het gezinsbeleid: de toelagen die de overheid uitbetaalt aan gezinnen in het kader van de gezinsbijslagen, of elke andere toelage die de overheid rechtstreeks toekent ter ondersteuning van de kosten voor de opvoeding van kinderen of andere doelstellingen in het kader van het gezinsbeleid;<br>
+9°/1 toelagen in het kader van het lokale gezinsbeleid: de toelagen en voordelen die gemeenten en openbare centra voor maatschappelijk welzijn rechtstreeks, krachtens een reglement dat ze hebben goedgekeurd, toekennen om kosten voor de opvoeding van kinderen te ondersteunen, of voor andere doelstellingen in het kader van het lokale gezinsbeleid;<br>
 10° uitbetalingsactoren: het agentschap en de private uitbetalingsactoren.
 
 ## HOOFDSTUK 2 Oprichting van het agentschap
@@ -37,11 +38,12 @@ Het agentschap draagt de naam Vlaams Agentschap voor de Uitbetaling van Toelagen
 
 ### ART 4.
 
-&nbsp;Het agentschap heeft als missie de stipte, correcte en continue uitbetaling van toelagen in het kader van gezinsbeleid, samen met de private uitbetalingsactoren.<br>
+&nbsp;Het agentschap heeft als missie de stipte, correcte en continue uitbetaling van toelagen in het kader van gezinsbeleid, samen met de private uitbetalingsactoren.&nbsp;Het agentschap ondersteunt bij de uitoefening van zijn missie ook de uitbouw van het gezinsbeleid.<br>
 <br>
 Binnen het kader van de missie, vermeld in het eerste lid:<br>
 1° verzorgt het agentschap een performant, klantvriendelijk en kwaliteitsvol aanbod, waarin de gezinnen en in het bijzonder de meest kwetsbare gezinnen maximaal bijgestaan worden in de uitoefening van hun recht op toelagen in het kader van gezinsbeleid;<br>
-2° onderzoekt het agentschap proactief het recht op toelagen, op basis van de gegevens die beschikbaar zijn via de elektronische gegevensstromen, met het oog op de automatische rechtentoekenning en uitbetaling van toelagen in het kader van het gezinsbeleid waar mogelijk.
+2° onderzoekt het agentschap proactief het recht op toelagen, op basis van de gegevens die beschikbaar zijn via de elektronische gegevensstromen, met het oog op de automatische rechtentoekenning en uitbetaling van toelagen in het kader van het gezinsbeleid waar mogelijk;<br>
+3° kan het agentschap gemeenten en openbare centra voor maatschappelijk welzijn bijstaan bij het onderzoek naar het recht op en de uitbetaling van toelagen in het kader van het lokale gezinsbeleid, in het kader van een samenwerkingsovereenkomst als vermeld in artikel 6, tweede lid.
 
 ### ART 5.
 
@@ -55,7 +57,9 @@ Om de missie, vermeld in artikel 4, waar te maken, heeft het agentschap de volge
 7° als publieke uitbetalingsactor instaan voor de, waar mogelijk, automatische uitbetaling van toelagen in het kader van het gezinsbeleid;<br>
 8° één gemeenschappelijke betaalmotor ontwikkelen en uitbouwen die het de uitbetalingsactoren mogelijk maakt om toelagen in het kader van het gezinsbeleid op een efficiënte, correcte en zo veel mogelijk automatische wijze uit te betalen;<br>
 9° de private uitbetalingsactoren financieel responsabiliseren;<br>
-10° klachten over het optreden van de uitbetalingsactoren behandelen.<br>
+10° klachten over het optreden van de uitbetalingsactoren behandelen;<br>
+11°&nbsp;&nbsp; &nbsp;bij het onderzoek naar het recht op en de uitbetaling van toelagen in het kader van het lokale gezinsbeleid voor gemeenten of openbare centra voor maatschappelijk welzijn, de betaalmotor en de diensten van het agentschap ter beschikking te stellen in het kader van een samenwerkingsovereenkomst als vermeld in artikel 6, tweede lid, van dit decreet;<br>
+12°&nbsp;&nbsp; &nbsp;het ondersteunen van initiatieven in het kader van het gezinsbeleid, rekening houdend met de taken en de regierol van het agentschap Opgroeien regie, vermeld in artikel 5, §1, eerste lid, 1°, c), en §2, 1°, en artikel 7/1 en 10/2 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie.<br>
 <br>
 De Vlaamse Regering kan nadere regels bepalen voor de aangelegenheden, vermeld in het eerste lid.
 
@@ -63,21 +67,40 @@ De Vlaamse Regering kan nadere regels bepalen voor de aangelegenheden, vermeld i
 
 Met het oog op de uitvoering van de missie, vermeld in artikel 4, en de taken, vermeld in artikel 5, is het agentschap gerechtigd alle activiteiten te verrichten die bijdragen tot de verwezenlijking van de voormelde missie en taken.<br>
 <br>
-Om de taken, vermeld in artikel 5, te realiseren, werkt het agentschap samen met instanties, diensten en verenigingen die op het vlak van de voormelde taken actief zijn, in het bijzonder met&nbsp;het agentschap Opgroeien regie en met de Huizen van het Kind.<br>
+Om de taak, vermeld in artikel 5, eerste lid, 11°, uit te voeren, sluit het agentschap een samenwerkingsovereenkomst met de gemeente of het open- baar centrum voor maatschappelijk welzijn.<br>
+<br>
+Om de taken, vermeld in artikel 5, te realiseren, werkt het agentschap samen met instanties, diensten en verenigingen die op het vlak van de voormelde taken actief zijn, in het bijzonder met&nbsp;het agentschap Opgroeien regie, met de Huizen van het Kind, met gemeenten of openbare centra voor maatschappelijk welzijn, de Vlaamse Gemeenschapscommissie en andere partners binnen het gezinsbeleid.<br>
 <br>
 Het agentschap organiseert samen met de private uitbetalingsactoren een goed uitgewerkte loketfunctie, zowel fysiek via de Huizen van het Kind, als via digitale weg. Het agentschap zorgt er in overleg met de private uitbetalingsactoren voor dat de fysieke loketten voldoende geografisch verspreid en vlot bereikbaar zijn.<br>
 <br>
-Het agentschap zal de verworven kennis en expertise ter beschikking stellen van het agentschap Opgroeien regie.<br>
+Het agentschap zal de verworven kennis en expertise ter beschikking stellen van het agentschap Opgroeien regie, de gemeenten of de openbare centra voor maatschappelijk welzijn.<br>
 <br>
 Het agentschap optimaliseert en vernieuwt zijn activiteiten permanent op basis van actuele ontwikkelingen op het vlak van kennis en expertise.
 
 ### ART 7.
 
-Het agentschap registreert en verwerkt alle gegevens, met inbegrip van persoonsgegevens, die noodzakelijk zijn om:<br>
-1° de taken, vermeld in artikel 5 van dit decreet, uit te voeren;<br>
-2° de beleidsgerichte input, vermeld in artikel III.2, derde lid, van het Bestuursdecreet, te leveren.<br>
+Het agentschap verwerkt de volgende categorieën van persoonsgegevens van kinderen en begunstigden en hun gezin om zijn missie, vermeld in artikel 4, en zijn taken, vermeld in artikel 5, uit te voeren:<br>
+1° de identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;de financiële bijzonderheden;<br>
+3°&nbsp;&nbsp; &nbsp;de persoonlijke kenmerken;<br>
+4°&nbsp;&nbsp; &nbsp;de samenstelling van het gezin;<br>
+5°&nbsp;&nbsp; &nbsp;de gegevens over kinderopvang;<br>
+6°&nbsp;&nbsp; &nbsp;de gegevens over pleegzorg en adoptie;<br>
+7°&nbsp;&nbsp; &nbsp;de opleiding en vorming;<br>
+8°&nbsp;&nbsp; &nbsp;de beroepsmatige of gelijkgestelde situaties en de gegevens over de sociale zekerheid;<br>
+9°&nbsp;&nbsp; &nbsp;de gegevens over de lichamelijke en de psychische gezondheid;<br>
+10° de gegevens over gerechtelijke maatregelen;<br>
+11° de gegevens over de plaatsing overeenkomstig artikel 68 van het Groeipakketdecreet van 2018.<br>
 <br>
-De Vlaamse Regering bepaalt de nadere regels voor de gegevensregistratie en verwerking, met inachtneming van de regelgeving tot bescherming van de persoonlijke levenssfeer voor de verwerking van de persoonsgegevens.
+De persoonsgegevens worden verwerkt conform artikel 6, lid 1, e), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
+<br>
+Het agentschap is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de voornoemde verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016, voor de persoonsgegevens, vermeld in het eerste lid van dit artikel, die het verwerkt in het kader van zijn missie, vermeld in artikel 4 van dit decreet, en zijn taken, vermeld in artikel 5 van dit decreet.<br>
+<br>
+Als gemeenten of openbare centra voor maatschappelijk welzijn betrokken worden bij de gegevensverwerking, wordt er een verwerkersovereenkomst als ver- meld in artikel 28, punt 3, van de voornoemde verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 gesloten met het agentschap. Deze verwerkersovereenkomst zal uitdrukkelijk bepalen welke personen betrokken zijn bij de gegevensverwerking.<br>
+<br>
+De persoonsgegevens, vermeld in het eerste lid, worden door het agentschap bewaard tot vijf jaar na de afsluiting van het gezinsdossier.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de gegevensregistratie en -verwerking.
 
 ## HOOFDSTUK 4 Organisatie van het agentschap
 
@@ -131,7 +154,7 @@ De raad van bestuur legt het huishoudelijk reglement, evenals iedere wijziging o
 
 ### ART 11.
 
-Het agentschap organiseert de publieke uitbetalingsfunctie van toelagen in het kader van het gezinsbeleid.
+Het agentschap organiseert de publieke uitbetalingsfunctie van toelagen in het kader van het gezinsbeleid en van toelagen in het kader van het lokale gezinsbeleid, in het kader van een samenwerkingsovereenkomst als vermeld in artikel 6, tweede lid.
 
 ### ART 12.
 
@@ -139,7 +162,7 @@ Het agentschap voert een transparante boekhouding waarbij een efficiënte bested
 
 ### ART 13.
 
-Zorginspectie als vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein, houdt, op verzoek van het agentschap Opgroeien regie, toezicht op de besteding van de beleidskredieten door de publieke uitbetalingsactor.
+Zorginspectie als vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein, houdt, op verzoek van het agentschap Opgroeien regie, toezicht op de besteding van de beleidskredieten door de publieke uitbetalingsactor met uitzondering van de besteding van de lokale toelagen in het kader van het gezinsbeleid.
 
 ## Afdeling 3 Audit
 
@@ -193,7 +216,7 @@ De klachten- en bemiddelingsdienst bemiddelt tussen een uitbetalingsactor en een
 
 ### ART 21.
 
-Het agentschap rapporteert jaarlijks over de klachten over uitbetalingsactoren en de bemiddeling tussen uitbetalingsactoren en begunstigden aan&nbsp;het agentschap Opgroeien regie binnen de termijn en volgens de vormvereisten die de Vlaamse Regering bepaalt.
+Met uitzondering van de klachten over de toelagen in het kader van het lokale gezinsbeleid rapporteert het agentschap jaarlijks over de klachten over uitbetalingsactoren en de bemiddeling tussen uitbetalingsactoren en begunstigden aan&nbsp;het agentschap Opgroeien regie binnen de termijn en volgens de vormvereisten die de Vlaamse Regering bepaalt.
 
 ## Afdeling 5 Sociale inspectie- en begeleidingsdienst
 
@@ -209,7 +232,8 @@ De taken van de sociale inspectie- en begeleidingsdienst voor de begeleidings- e
 1° controleren of de gegevens uit de authentieke bronnen gelijk zijn aan de concrete situatie van de gezinnen;<br>
 2° tijdens huisbezoeken de gezinnen informeren over hun recht op toelagen in het kader van het gezinsbeleid;<br>
 3° de solvabiliteit van de schuldenaars controleren, in geval van terugvordering van ten onrechte verrichte betalingen van toelagen in het kader van het gezinsbeleid, om in voorkomend geval een afbetalingsplan op te stellen;<br>
-4° controleren of de toepasselijke regelgeving wordt nageleefd.<br>
+4° controleren of de toepasselijke regelgeving wordt nageleefd;<br>
+5° de opdrachten die toevertrouwd worden aan het agentschap in het kader van een samenwerkingsovereenkomst als vermeld in artikel 6, tweede lid.<br>
 <br>
 De Vlaamse Regering bepaalt nadere regels voor de opdrachten van de sociale inspectie- en begeleidingsdienst en kan voor de inspectiefunctie van het agentschap regels voor samenwerkingsverbanden met andere inspectiediensten binnen de Vlaamse en federale overheid vastleggen.
 
@@ -226,11 +250,12 @@ Het agentschap kan over de volgende ontvangsten beschikken:<br>
 6° opbrengst uit sponsoring;<br>
 7° terugvordering van ten onrechte verrichte betalingen;<br>
 8° vergoedingen voor prestaties aan derden, in het bijzonder de bijdragen van derden in de kostprijs daarvan;<br>
-9° retributies als ze bij een decreet zijn toegewezen aan het agentschap.
+9° retributies als ze bij een decreet zijn toegewezen aan het agentschap;<br>
+10° kredieten die zijn toegekend door de gemeenten en openbare centra voor maatschappelijk welzijn ter uitvoering van een samenwerkingsovereenkomst als vermeld in artikel 6, tweede lid.
 
 ### ART 25.
 
-De Vlaamse Regering kan aan het agentschap roerende en onroerende goederen ter beschikking stellen om zijn taken te vervullen. Ze kan nadere regels bepalen voor de modaliteiten van terbeschikkingstelling van die goederen.
+De Vlaamse Regering en de gemeenten en openbare centra voor maatschappelijk welzijn kunnen aan het agentschap roerende en onroerende goederen ter beschikking stellen om zijn taken te vervullen. Ze kan nadere regels bepalen voor de modaliteiten van terbeschikkingstelling van die goederen.
 
 ## HOOFDSTUK 6 Vergunningsnormen voor private uitbetalingsactoren
 
@@ -302,7 +327,7 @@ Een private uitbetalingsactor vervult minstens de volgende opdrachten:<br>
 1° toelagen in het kader van het gezinsbeleid stipt, correct, continu en, waar mogelijk, automatisch uitbetalen aan de aangesloten gezinnen, waarbij gebruikgemaakt wordt van de gemeenschappelijke betaalmotor, vermeld in artikel 5, eerste lid, 8°, met inachtneming van de regelgeving betreffende deze toelagen en de onderrichtingen van het agentschap;<br>
 2° het recht op toelagen in het kader van het gezinsbeleid van de dossiers onder zijn beheer proactief onderzoeken op basis van de gegevens die beschikbaar zijn via de elektronische gegevensstromen, met het oog op automatische rechtentoekenning waar mogelijk en het informeren van begunstigden en potentieel begunstigden van hun recht op toelagen in het kader van het gezinsbeleid;<br>
 3° samenwerken met andere instanties, diensten en verenigingen die op het vlak van de toegewezen opdrachten actief zijn, in het bijzonder het agentschap Opgroeien regie, het agentschap en de Huizen van het Kind;<br>
-4° in samenwerking met het agentschap de loketfunctie vervullen, vermeld in artikel 6, derde lid;<br>
+4° in samenwerking met het agentschap de loketfunctie vervullen, vermeld in artikel 6, vierde lid;<br>
 5° de gegevens die betrekking hebben op activiteiten in het kader van het gezinsbeleid en de werking van de rechtspersoon, registreren en verwerken, en die gegevens ter beschikking stellen van&nbsp;het agentschap Opgroeien regie en het agentschap in de vorm en binnen de termijnen die de Vlaamse Regering vaststelt;<br>
 6° waarborgen dat de persoonsgegevens geregistreerd en verwerkt worden met inachtneming van de regelgeving betreffende de bescherming van de persoonlijke levenssfeer;<br>
 7° een&nbsp;analytische boekhouding opmaken, waarbij een efficiënte besteding van de overheidsmiddelen wordt aangetoond en verantwoord, en waarbij in een strikte scheiding wordt voorzien tussen, enerzijds, de middelen, inclusief de reserves, die vastgelegd zijn voor de uitbetaling van toelagen in het kader van het gezinsbeleid, en, anderzijds, de middelen die vastgelegd zijn voor de werking;<br>
