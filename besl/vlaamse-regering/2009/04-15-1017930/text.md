@@ -8,7 +8,20 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-§ 1. Voor de toepassing van dit besluit wordt verstaan onder : <BR>1° ...;   <BR>2° management : alle natuurlijke of rechtspersonen die het bestuur of het   dagelijks bestuur van de kredietnemer bepalen, daarin begrepen de leden van de   raad van bestuur, het directiecomité en alle andere organen of functies van   dagelijks bestuur binnen de kredietnemer;<BR>3° Minister : de Vlaamse minister,   bevoegd voor het economisch beleid;<BR>4° ...;<BR>5° waarborg : de ad-hoc   waarborg voor kredietnemers, vermeld in hoofdstuk III/1 van het   Waarborgdecreet;<BR>6° waarborgaanvraag : de aanvraag van de waarborg conform   artikel 4, § 1;<BR>7° Waarborgdecreet : het decreet van 6 februari 2004   betreffende een waarborgregeling voor kleine, middelgrote en grote   ondernemingen;<BR>8° ...;<BR>9° ...;<BR>10° waarborgvennootschap : de   vennootschap, opgericht door het Vlaamse Gewest ter uitvoering van artikel 22/1   van het Waarborgdecreet, die de waarborgen zal verstrekken.<BR><BR>§ 2. De   definities, vermeld in artikel 2 van het Waarborgdecreet, zijn eveneens van   toepassing in dit besluit.<BR><BR>
+§ 1. Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° decreet van 6 februari 2004: het decreet van 6 februari 2004 houdende ad-hocwaarborgen voor ondernemingen en waarborgen voor financieringsfondsen en kredietportefeuilles;<br>
+2° management : alle natuurlijke of rechtspersonen die het bestuur of het dagelijks bestuur van de kredietnemer bepalen, daarin begrepen de leden van de raad van bestuur, het directiecomité en alle andere organen of functies van dagelijks bestuur binnen de kredietnemer;<br>
+3° Minister : de Vlaamse minister, bevoegd voor het economisch beleid;<br>
+4° ...;<br>
+5° waarborg : de ad-hoc waarborg voor kredietnemers, vermeld in hoofdstuk III/1 van het decreet van 6 februari 2004;<br>
+6° waarborgaanvraag : de aanvraag van de waarborg conform artikel 4, § 1;<br>
+7° ...;<br>
+8° ...;<br>
+9° ...;<br>
+10° waarborgvennootschap : de vennootschap, opgericht door het Vlaamse Gewest ter uitvoering van artikel 22/1 van het decreet van 6 februari 2004, die de waarborgen zal verstrekken.<br>
+<br>
+§ 2. De definities, vermeld in artikel 2 van het decreet van 6 februari 2004, zijn eveneens van toepassing in dit besluit.<br>
+&nbsp;
 
 ## HOOFDSTUK II De waarborgvenootschap
 
@@ -20,7 +33,7 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 3.
 
-§ 1. De waarborgvennootschap kan waarborgen toekennen volgens de modaliteiten, vermeld in het Waarborgdecreet en dit besluit.<br>
+§ 1. De waarborgvennootschap kan waarborgen toekennen volgens de modaliteiten, vermeld in het decreet van 6 februari 2004 en dit besluit.<br>
 <br>
 De financiële middelen, verstrekt door financieringsovereenkomsten waaraan de waarborg is gehecht, mogen noch rechtstreeks noch onrechtstreeks, in welke vorm ook, worden aangewend om een vergoeding te betalen aan de aandeelhouders of het management van de kredietnemer, of van de ondernemingen die eraan verbonden zijn, vermeld in artikel 11 van het Wetboek van Vennootschappen. Het verbod geldt niet voor de vergoedingen die de kredietnemer op basis van bestaande overeenkomsten verschuldigd is tegen marktconforme voorwaarden, met uitzondering van elke vorm van bonus, winstuitkering of vervroegde terugbetaling van leningen. Het bevoegde orgaan van de kredietnemer voegt bij de aanvraag van de waarborg een eenzijdige verbintenis waarin bepaald is dat aan die voorwaarde zal worden voldaan.<br>
 <br>
@@ -30,16 +43,30 @@ Een waarborg is beperkt tot de hoofdsom en de interesten van de financieringsove
 <br>
 De maximale duurtijd van de waarborg is beperkt tot vijftien jaar.<br>
 <br>
-Voor de waarborgen, vermeld in hoofdstuk III/1, afdeling 4, van het Waarborgdecreet, is de maximale duurtijd beperkt tot zes jaar. De voormelde waarborgen kunnen uitgegeven worden tot 31 december 2021 of op een later tijdstip als daarvoor een akkoord van de Europese Commissie is verkregen conform de mededeling van de Commissie van 19 maart 2020 (C/2020/1863) Tijdelijke kaderregeling inzake staatssteun ter ondersteuning van de economie vanwege de COVID-19-uitbraak.<br>
+Voor de waarborgen, vermeld in hoofdstuk III/1, afdeling 4, van het decreet van 6 februari 2004, is de maximale duurtijd beperkt tot zes jaar. De voormelde waarborgen kunnen uitgegeven worden tot 31 december 2021 of op een later tijdstip als daarvoor een akkoord van de Europese Commissie is verkregen conform de mededeling van de Commissie van 19 maart 2020 (C/2020/1863) Tijdelijke kaderregeling inzake staatssteun ter ondersteuning van de economie vanwege de COVID-19-uitbraak.<br>
 <br>
-§ 3. De waarborg zoals bepaald in artikel 22/3 van het decreet van 6 februari 2004 betreffende een waarborgregeling voor kleine, middelgrote en grote ondernemingen kan slechts worden gecombineerd met andere steunmaatregelen, verleend voor de investering of de activiteit die werd gefinancierd met de financieringsovereenkomst waaraan de waarborg is gehecht, voor zover de maximum steunintensiteiten, vermeld in de relevante richtsnoeren of groepsvrijstellingsverordeningen, niet worden overschreden.<br>
+§ 3. De waarborg zoals bepaald in artikel 22/3 van het decreet van 6 februari 2004 kan slechts worden gecombineerd met andere steunmaatregelen, verleend voor de investering of de activiteit die werd gefinancierd met de financieringsovereenkomst waaraan de waarborg is gehecht, voor zover de maximum steunintensiteiten, vermeld in de relevante richtsnoeren of groepsvrijstellingsverordeningen, niet worden overschreden.<br>
 <br>
 Als de kredietnemer sinds 1 januari 2008 steun heeft ontvangen in het kader van de deminimisverordening voor hetzelfde doel als waarvoor de waarborg wordt aangevraagd, moet die steun worden afgetrokken van de steuncomponent van de waarborg die wordt aangevraagd.<br>
 &nbsp;
 
 ### ART. 4.
 
-§ 1. De waarborgaanvraag, die ingediend wordt bij de waarborgvennootschap,   moet minstens de volgende gegevens bevatten : <BR>1° de identificatie van de   kredietnemer en de kredietgever;<BR>2° het bedrag, het doel, de interestvoet, de   looptijd, het delgingsprogramma en de andere contractuele voorwaarden van de   financieringsovereenkomst ;<BR>3° een overzicht van de andere zekerheden tot   garantie van de&nbsp;financieringsovereenkomst&nbsp;waaraan de waarborg wordt   gehecht;<BR>4° het businessplan, vermeld in artikel 22/2, 6°, van het   Waarborgdecreet;<BR>5° de eenzijdige verbintenis, vermeld in artikel 3, § 1,   tweede lid;<BR>6° de risicobeoordeling (rating) van de kredietnemer;<BR>7° een   engagementsverklaring over de werkgelegenheid als vermeld in artikel 22/2, 7°,   van het Waarborgdecreet;<BR>8° een uiteenzetting van de motieven waarom geen   waarborg kan worden verkregen als vermeld in hoofdstuk II van het   Waarborgdecreet;<BR>9° de duurtijd en het percentage van de gevraagde   waarborg.<BR><BR>§ 2. De minister kan voor de onderdelen van de waarborgaanvraag   een standaardformulier bepalen.<BR><BR>§ 3. De kredietgever en de kredietnemer   verklaren zich door de waarborgaanvraag steeds volledig akkoord met alle   decretale en reglementaire voorwaarden van de waarborg.<BR><BR>
+§ 1. De waarborgaanvraag, die ingediend wordt bij de waarborgvennootschap, moet minstens de volgende gegevens bevatten :<br>
+1° de identificatie van de kredietnemer en de kredietgever;<br>
+2° het bedrag, het doel, de interestvoet, de looptijd, het delgingsprogramma en de andere contractuele voorwaarden van de financieringsovereenkomst ;<br>
+3° een overzicht van de andere zekerheden tot garantie van de&nbsp;financieringsovereenkomst&nbsp;waaraan de waarborg wordt gehecht;<br>
+4° het businessplan, vermeld in artikel 22/2, 6°, van het decreet van 6 februari 2004;<br>
+5° de eenzijdige verbintenis, vermeld in artikel 3, § 1, tweede lid;<br>
+6° de risicobeoordeling (rating) van de kredietnemer;<br>
+7° een engagementsverklaring over de werkgelegenheid als vermeld in artikel 22/2, 7°, van het decreet van 6 februari 2004;<br>
+8° een uiteenzetting van de motieven waarom geen waarborg kan worden verkregen in het kader van het decreet van 10 december 2021 houdende een generieke waarborgregeling voor ondernemingen;<br>
+9° de duurtijd en het percentage van de gevraagde waarborg.<br>
+<br>
+§ 2. De minister kan voor de onderdelen van de waarborgaanvraag een standaardformulier bepalen.<br>
+<br>
+§ 3. De kredietgever en de kredietnemer verklaren zich door de waarborgaanvraag steeds volledig akkoord met alle decretale en reglementaire voorwaarden van de waarborg.<br>
+&nbsp;
 
 ### ART. 5.
 
@@ -47,7 +74,27 @@ Participatiemaatschappij Vlaanderen wordt belast met de   dossierbehandeling, wa
 
 ### ART. 6.
 
-§ 1. De waarborgvennootschap is bevoegd om de waarborg voor de   financieringsovereenkomst goed te keuren op voorwaarde dat de waarborg voldoet   aan de voorwaarden, vermeld in artikel 22/2 van het Waarborgdecreet en in dit   besluit, en als de kredietnemer de levensvatbaarheid van zijn activiteiten kan   aantonen op basis van het businessplan, vermeld in artikel 22/2, 6°, van het   Waarborgdecreet.<BR><BR>De waarborgvennootschap heeft de bevoegdheid om   bijkomende zekerheden te vragen voor ze de waarborg goedkeurt.<BR><BR>Voor   waarborgaanvragen waarbij de waarborg hoger is dan 10.000.000 euro of het   waarborgpercentage hoger is dan 75 %, krijgt de waarborgvennootschap een   voorafgaande goedkeuring door de Vlaamse Regering voor ze de waarborg kan   toekennen.<BR><BR>§ 2. Na goedkeuring van de waarborgaanvraag door de   waarborgvennootschap, ondertekenen de kredietgever en de waarborgvennootschap de   waarborgovereenkomst. De individuele contractuele bepalingen van de   waarborgovereenkomst kunnen dossier per dossier bepaald worden door de   waarborgvennootschap op basis van de resultaten van het onderzoek van de   waarborgaanvraag. De waarborgovereenkomst moet minstens de volgende contractuele   bepalingen bevatten : <BR>1° een omschrijving van de   financieringsovereenkomst&nbsp;waaraan de waarborg wordt gehecht;<BR>2° een   overzicht van de andere zekerheden tot garantie van de   financieringsovereenkomst&nbsp;waaraan de waarborg wordt gehecht;<BR>3° de   omvang, de duurtijd en de beperkingen van de waarborg;<BR>4° het juridisch kader   van de waarborg;<BR>5° de wijze van berekening en betaling van de   waarborgpremie;<BR>6° verklaringen en waarborgen vanwege de kredietgever;<BR>7°   de verplichtingen tot informatieverstrekking door de kredietgever;<BR>8° de   procedure van afroep van de waarborg;<BR>9° de bepaling dat de waarborg na de   toekenning ervan gedurende de looptijd ervan niet gewijzigd kan worden zonder   het akkoord van beide partijen.<BR><BR>§ 3. De waarborg treedt op zijn vroegst   in werking na de ondertekening van de waarborgovereenkomst door de kredietgever   en de waarborgvennootschap, en na de ontvangst door de waarborgvennootschap van   de betaling van de eerste waarborgpremie. De waarborgvennootschap kan de   waarborg niet eenzijdig opzeggen gedurende de looptijd ervan.<BR><BR>§ 4. De   waarborgvennootschap rapporteert op trimesteriële wijze aan de Vlaamse Regering   over de werking van de waarborgregeling zoals bepaald in hoofdstuk III/1 van het   decreet van 6 februari 2004 betreffende een waarborgregeling voor kleine,   middelgrote en grote ondernemingen.<BR><BR>
+§ 1. De waarborgvennootschap is bevoegd om de waarborg voor de financieringsovereenkomst goed te keuren op voorwaarde dat de waarborg voldoet aan de voorwaarden, vermeld in artikel 22/2 van het decreet van 6 februari 2004 en in dit besluit, en als de kredietnemer de levensvatbaarheid van zijn activiteiten kan aantonen op basis van het businessplan, vermeld in artikel 22/2, 6°, van het decreet van 6 februari 2004.<br>
+<br>
+De waarborgvennootschap heeft de bevoegdheid om bijkomende zekerheden te vragen voor ze de waarborg goedkeurt.<br>
+<br>
+Voor waarborgaanvragen waarbij de waarborg hoger is dan 10.000.000 euro of het waarborgpercentage hoger is dan 75 %, krijgt de waarborgvennootschap een voorafgaande goedkeuring door de Vlaamse Regering voor ze de waarborg kan toekennen.<br>
+<br>
+§ 2. Na goedkeuring van de waarborgaanvraag door de waarborgvennootschap, ondertekenen de kredietgever en de waarborgvennootschap de waarborgovereenkomst. De individuele contractuele bepalingen van de waarborgovereenkomst kunnen dossier per dossier bepaald worden door de waarborgvennootschap op basis van de resultaten van het onderzoek van de waarborgaanvraag. De waarborgovereenkomst moet minstens de volgende contractuele bepalingen bevatten :<br>
+1° een omschrijving van de financieringsovereenkomst&nbsp;waaraan de waarborg wordt gehecht;<br>
+2° een overzicht van de andere zekerheden tot garantie van de financieringsovereenkomst&nbsp;waaraan de waarborg wordt gehecht;<br>
+3° de omvang, de duurtijd en de beperkingen van de waarborg;<br>
+4° het juridisch kader van de waarborg;<br>
+5° de wijze van berekening en betaling van de waarborgpremie;<br>
+6° verklaringen en waarborgen vanwege de kredietgever;<br>
+7° de verplichtingen tot informatieverstrekking door de kredietgever;<br>
+8° de procedure van afroep van de waarborg;<br>
+9° de bepaling dat de waarborg na de toekenning ervan gedurende de looptijd ervan niet gewijzigd kan worden zonder het akkoord van beide partijen.<br>
+<br>
+§ 3. De waarborg treedt op zijn vroegst in werking na de ondertekening van de waarborgovereenkomst door de kredietgever en de waarborgvennootschap, en na de ontvangst door de waarborgvennootschap van de betaling van de eerste waarborgpremie. De waarborgvennootschap kan de waarborg niet eenzijdig opzeggen gedurende de looptijd ervan.<br>
+<br>
+§ 4. De waarborgvennootschap rapporteert op trimesteriële wijze aan de Vlaamse Regering over de werking van de waarborgregeling zoals bepaald in hoofdstuk III/1 van het decreet van 6 februari 2004.<br>
+&nbsp;
 
 ## HOOFDSTUK IV Waarborgpremie
 
