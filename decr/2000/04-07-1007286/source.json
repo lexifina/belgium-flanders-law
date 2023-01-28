@@ -2,16 +2,16 @@
   "codex_id": 1007286,
   "title": "Decreet van 2000-04-07 houdende een waarborgregeling voor de ondernemingen die zijn getroffen door de dioxinecrisis in 1999",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007286/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "3c35bc664c812a1752598722699dff5688c5e11f5dab796a66cf7a13bdc4709e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007286/VolledigDocument?datum=2023-01-28",
+  "source_sha256": "62af043a92d080a88a0dde7b47aaee38a05aadaaa4132f79e1ead7d83185fcf2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007286&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2023-01-28",
   "made": "2000-04-07",
   "gazette": "2000-05-23",
   "numac": 2000035475,
   "document_start": "2000-05-23",
   "document_end": "2023-01-27",
-  "in_force": "2006-06-01",
+  "in_force": "2023-01-28",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-01-28; future article versions excluded; article text as the API gives it"
 }
