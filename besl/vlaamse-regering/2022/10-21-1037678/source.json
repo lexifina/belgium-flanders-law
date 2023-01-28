@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037678,
+  "title": "Besluit van de Vlaamse Regering van 2022-10-21 tot uitvoering van het decreet van 10 december 2021 houdende een generieke waarborgregeling voor ondernemingen en tot wijziging van het besluit van de Vlaamse Regering van 15 april 2009 tot uitvoering van Hoofdstuk III/1 van het decreet van 6 februari 2004 betreffende een waarborgregeling voor kleine, middelgrote en grote ondernemingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037678/VolledigDocument?datum=2023-01-28",
+  "source_sha256": "4a9659bf8ab874f5dbcdb67f240d44c359545e73f862e835539e33fae7549b2d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037678&param=informatie",
+  "as_of": "2023-01-28",
+  "made": "2022-10-21",
+  "gazette": "2023-01-18",
+  "numac": 2022042832,
+  "document_start": "2023-01-28",
+  "document_end": null,
+  "in_force": "2023-01-28",
+  "article_versions": 32,
+  "record_form": "consolidated version as in force on 2023-01-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
