@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037700,
+  "title": "Decreet van 2022-11-10 tot wijziging van het decreet van 7 mei 2004 betreffende de materiële organisatie en werking van de erkende erediensten, het decreet van 12 juli 2013 houdende toekenning van subsidies voor gebouwen van de eredienst, gebouwen voor de openbare uitoefening van de niet-confessionele morele dienstverlening en crematoria en het Onroerenderfgoeddecreet van 12 juli 2013, wat betreft de eventuele her- of nevenbestemming van parochiekerken",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037700/VolledigDocument?datum=2023-01-29",
+  "source_sha256": "63535068af98e89d9056fe7b96656bd33ceb2c2245588f7dd19a4f921f04bb8f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037700&param=informatie",
+  "as_of": "2023-01-29",
+  "made": "2022-11-10",
+  "gazette": "2023-01-19",
+  "numac": 2022034338,
+  "document_start": "2023-01-29",
+  "document_end": null,
+  "in_force": "2023-01-29",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2023-01-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
