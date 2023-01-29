@@ -8,7 +8,11 @@ Dit decreet regelt een gewestaangelegenheid.<BR>
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder : <BR>1° decreet van 7 mei 2004 : het   decreet van 7 mei 2004 betreffende de materiële organisatie en werking van de   erkende erediensten;<BR>2° gebouw van de eredienst : de gebouwen vermeld in   artikel 4, 81, 117, 153, 189 en 232 van het decreet van 7 mei 2004, met inbegrip   van de pastorieën en de bisschoppelijke seminaries;<BR>3° betrokken gemeente- of   provinciebestuur : het gemeente- of provinciebestuur dat met toepassing van   artikel 52/1 van het decreet van 7 mei 2004 de eventuele tekorten van de   exploitatie moet bijpassen van het bestuur van de eredienst dat met toepassing   van artikel 4, 81, 117, 153, 189 of 232 van het decreet van 7 mei 2004 belast is   met het onderhoud en de bewaring van het gebouw van de eredienst waarvoor de   subsidie wordt aangevraagd, of het provinciebestuur dat moet tussenkomen in de   tekorten van de instelling voor morele dienstverlening van de Centrale   Vrijzinnige Raad, met toepassing van 26, 4°, van de wet van 21 juni 2002   betreffende de Centrale Raad der niet-confessionele levensbeschouwelijke   gemeenschappen van België, de afgevaardigden en de instellingen belast met het   beheer van de materiële en financiële belangen van de erkende niet-confessionele   levensbeschouwelijke gemeenschappen.<BR>
+In dit decreet wordt verstaan onder :<br>
+1° decreet van 7 mei 2004 : het decreet van 7 mei 2004 betreffende de materiële organisatie en werking van de erkende erediensten;<br>
+2° gebouw van de eredienst : de gebouwen vermeld in artikel 4, 81, 117, 153, 189 en 232 van het decreet van 7 mei 2004, met inbegrip van de pastorieën en de bisschoppelijke seminaries;<br>
+2°/1 gewezen gebouw van de eredienst: een gebouw dat, op het moment van de subsidieaanvraag, maximaal vijf jaar geleden is onttrokken aan de eredienst;<br>
+3° betrokken gemeente- of provinciebestuur : het gemeente- of provinciebestuur dat met toepassing van artikel 52/1 van het decreet van 7 mei 2004 de eventuele tekorten van de exploitatie moet bijpassen van het bestuur van de eredienst dat met toepassing van artikel 4, 81, 117, 153, 189 of 232 van het decreet van 7 mei 2004 belast is met het onderhoud en de bewaring van het gebouw van de eredienst waarvoor de subsidie wordt aangevraagd, of het provinciebestuur dat moet tussenkomen in de tekorten van de instelling voor morele dienstverlening van de Centrale Vrijzinnige Raad, met toepassing van 26, 4°, van de wet van 21 juni 2002 betreffende de Centrale Raad der niet-confessionele levensbeschouwelijke gemeenschappen van België, de afgevaardigden en de instellingen belast met het beheer van de materiële en financiële belangen van de erkende niet-confessionele levensbeschouwelijke gemeenschappen.
 
 ### ART. 3.
 
@@ -22,11 +26,22 @@ Binnen de perken van de goedgekeurde begroting kan de Vlaamse Regering een   sub
 
 ### ART. 5.
 
-<P>De subsidie kan voor gebouwen van de eredienst worden toegekend voor : <BR>1°   nieuwbouw;<BR>2° aankoop en verbouwing;<BR>3° renovatie;<BR>4° studies voor   herbestemming;<BR>5° studies en aanpassingsinvesteringen voor   nevenbestemming.<BR></P>  <P>De Vlaamse Regering kan prioriteiten bepalen voor de toekenning van de   subsidie.<BR></P>
+<p>De subsidie kan voor gebouwen van de eredienst worden toegekend voor :<br>
+1° nieuwbouw;<br>
+2° aankoop en verbouwing;<br>
+3° renovatie;<br>
+4° studies,&nbsp;&nbsp; &nbsp;opmetingsplannen&nbsp;&nbsp; &nbsp;en&nbsp;&nbsp; &nbsp;trajectbegeleiding&nbsp;&nbsp; &nbsp;voor&nbsp;&nbsp; &nbsp;neven-&nbsp;&nbsp; &nbsp;of herbestemming;<br>
+5°&nbsp;aanpassingsinvesteringen voor nevenbestemming.<br>
+<br>
+De subsidie kan voor gewezen gebouwen van de eredienst worden toegekend voor:<br>
+1°&nbsp;&nbsp; &nbsp;studies, opmetingsplannen en trajectbegeleiding voor herbestemming;<br>
+2°&nbsp;&nbsp; &nbsp;noodzakelijke basisinvesteringen die een herbestemming mogelijk maken, tot een subsidiebedrag van maximaal 250.000 euro.<br>
+<br>
+De Vlaamse Regering kan prioriteiten bepalen voor de toekenning van de subsidie.</p>
 
 ### ART. 6.
 
-Alleen de investeringen aan gebouwen van de eredienst die eigendom zijn van een publieke rechtspersoon en die niet als monument beschermd zijn met toepassing van het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten, komen in aanmerking voor deze subsidie.<br>
+Alleen de investeringen aan gebouwen van de eredienst of gewezen gebouwen van de eredienst die eigendom zijn van een publieke rechtspersoon en die niet als monument beschermd zijn met toepassing van het Onroerenderfgoeddecreet van 12 juli 2013, komen in aanmerking voor deze subsidie.<br>
 <br>
 Voor de investeringen, vermeld in artikel 5, eerste lid, 3°, wordt voor toepassing van het eerste lid van dit artikel met eigendom gelijkgesteld een zakelijk recht dat voldoet aan de volgende voorwaarden :<br>
 1° het zakelijk recht verzekert het bestuur van de eredienst het genot van het goed gedurende nog ten minste dertig jaar;<br>
@@ -35,7 +50,11 @@ Voor de investeringen, vermeld in artikel 5, eerste lid, 3°, wordt voor toepass
 
 ### ART. 7.
 
-De subsidie voor de investeringen, vermeld in artikel 5, kan worden   aangevraagd door : <BR>1° het bestuur van de eredienst dat met toepassing van   artikel 4, 81, 117, 153, 189 of 232 van het decreet van 7 mei 2004 belast is met   het onderhoud en de bewaring van het gebouw van de eredienst waarvoor de   subsidie wordt aangevraagd;<BR>2° het bisschoppelijk seminarie, voor de   investeringen aan een bisschoppelijk seminarie;<BR>3° het gemeente- of   provinciebestuur of het bestuur van de eredienst dat eigenaar is van het gebouw   van de eredienst waarvoor de subsidie wordt aangevraagd;<BR>4° het betrokken   gemeente- of provinciebestuur.<BR>
+De subsidie voor de investeringen, vermeld in artikel 5, kan worden aangevraagd door :<br>
+1° het bestuur van de eredienst dat met toepassing van artikel 4, 81, 117, 153, 189 of 232 van het decreet van 7 mei 2004 belast is met het onderhoud en de bewaring van het gebouw van de eredienst waarvoor de subsidie wordt aangevraagd;<br>
+2° het bisschoppelijk seminarie, voor de investeringen aan een bisschoppelijk seminarie;<br>
+3° het gemeente- of provinciebestuur of het bestuur van de eredienst dat eigenaar is van het gebouw van de eredienst of het gewezen gebouw van de eredienst waarvoor de subsidie wordt aangevraagd;<br>
+4° het betrokken gemeente- of provinciebestuur.
 
 ### ART. 8.
 
