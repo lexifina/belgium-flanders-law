@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037826,
+  "title": "Ministerieel besluit van 2022-12-12 over de projectoproep voor het jaar 2023 voor de uitvoering van archeologisch syntheseonderzoek",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037826/VolledigDocument?datum=2023-01-31",
+  "source_sha256": "9feb69a9db2ff14282cb8c436c5f37d429f3725e14316f34039d72f29877fbe9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037826&param=informatie",
+  "as_of": "2023-01-31",
+  "made": "2022-12-12",
+  "gazette": "2023-02-09",
+  "numac": 2022043335,
+  "document_start": "2023-01-31",
+  "document_end": null,
+  "in_force": "2023-01-31",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2023-01-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
