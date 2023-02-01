@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038107,
+  "title": "Besluit van de Vlaamse Regering van 2023-02-10 tot wijziging van het besluit van de Vlaamse regering van 17 juni 1997 betreffende de personeelsformatie in het gewoon basisonderwijs en het besluit van de Vlaamse Regering van 16 juli 2021 over het geïntegreerde ondersteuningsaanbod gelijke onderwijskansen in het secundair onderwijs en tot wijziging van diverse besluiten van de Vlaamse Regering, wat betreft studieaanbod, studietoelagen en projectsubsidiëring contractuelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038107/VolledigDocument?datum=2023-02-01",
+  "source_sha256": "faf252d822605f38835be5c01712a4997e8b0969423c8828895c28d77fab7357",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038107&param=informatie",
+  "as_of": "2023-02-01",
+  "made": "2023-02-10",
+  "gazette": "2023-05-15",
+  "numac": 2023040914,
+  "document_start": "2023-02-01",
+  "document_end": null,
+  "in_force": "2023-02-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2023-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
