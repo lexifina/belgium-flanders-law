@@ -3860,6 +3860,12 @@ De Vlaamse Regering bepaalt de wijze waarop het beantwoorden aan de in § 1, 1°
 <br>
 De documenten of verklaringen die aantonen dat leerlingen beantwoorden aan één of meer van de gelijkekansenindicatoren worden ten minste vijf jaar bewaard in de school.<br>
 <br>
+Als voor de toepassing van paragraaf 1, 2°, gegevens op een elektronische wijze worden uitgewisseld met andere overheden, worden de volgende gegevens uitgewisseld:<br>
+a)&nbsp;&nbsp; &nbsp;voor de leerlingen die voldoen aan artikel 3, 17°/2/1, a) of b), het INSZ-nummer van de leerling en indien van toepassing de begin- en einddatum van de overeenkomst van verblijf in het multifunctionele centrum, bepaald in het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap en de doorverwijzende instantie;<br>
+b)&nbsp;&nbsp; &nbsp;voor de leerlingen die voldoen aan artikel 3, 17°/2/1, c), het INSZ-nummer, voor de leerlingen met INSZ-nummer en de einddatum van de status, vermeld in artikel 3, 17°/2/1, c), en bijkomende gegevens voor leerlingen zonder INSZ-nummer, de voornaam, de familienaam, de geboortedatum, het geslacht, de nationaliteit en het adres van de laatste opvangplaats met het oog op unieke identificatie.<br>
+<br>
+De gegevens worden verwerkt door de bevoegde dienst van de Vlaamse overheid die instaat voor de berekening van de omkadering van de scholen. Deze bevoegde dienst is de verwerkingsverantwoordelijke van de gegevens. De maximale bewaartermijn voor deze gegevens is 30 jaar.<br>
+<br>
 § 3. De Vlaamse Regering kent aan elke gelijkekansenindicator een gewicht toe. Voor de eerste graad van het secundair onderwijs bepaalt zij tevens het maximum van de gecumuleerde gewichten, dat ten minste gelijk is aan het hoogste gewicht dat aan een gelijkekansenindicator wordt toegekend en ten hoogste gelijk is aan anderhalf maal dit hoogste gewicht. De hoogste gewichten worden toegekend aan de in § 1, 2° en 3°, bedoelde gelijkekansenindicatoren. De in § 1, 5°, bedoelde gelijkekansenindicator wordt enkel gewogen in combinatie met andere gelijkekansenindicatoren. (224)
 
 ### ART. 226.
@@ -3919,6 +3925,12 @@ De bepalingen van deze onderafdeling zijn van toepassing op de tweede en derde g
 De Vlaamse Regering bepaalt de wijze waarop het beantwoorden aan de in § 1, 1°, 2° en 3°, bedoelde gelijkekansenindicator wordt vastgesteld en legt de procedure vast volgens dewelke de gegevens worden gemeld aan het Vlaams Ministerie van Onderwijs en Vorming. Zij houdt daarbij rekening met de vigerende regelgeving inzake de bescherming van de persoonlijke levenssfeer.<br>
 <br>
 De documenten of verklaringen die aantonen dat leerlingen beantwoorden aan één of meer van de gelijkekansenindicatoren worden ten minste vijf jaar bewaard in de school.<br>
+<br>
+Als voor de toepassing van paragraaf 1, 2°, gegevens op een elektronische wijze worden uitgewisseld met andere overheden, worden de volgende gegevens uitgewisseld:<br>
+a)&nbsp;&nbsp; &nbsp;voor de leerlingen die voldoen aan artikel 3, 17°/2/1, a) of b), het INSZ-nummer van de leerling en indien van toepassing de begin- en einddatum van de overeenkomst van verblijf in het multifunctionele centrum, bepaald in het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap en de doorverwijzende instantie;<br>
+b)&nbsp;&nbsp; &nbsp;voor de leerlingen die voldoen aan artikel 3, 17°/2/1, c), het INSZ-nummer, voor de leerlingen met INSZ-nummer en de einddatum van de status, vermeld in artikel 3, 17°/2/1, c), en bijkomende gegevens voor leerlingen zonder INSZ-nummer, de voornaam, de familienaam, de geboortedatum, het geslacht, de nationaliteit en het adres van de laatste opvangplaats met het oog op unieke identificatie.<br>
+<br>
+De gegevens worden verwerkt door de bevoegde dienst van de Vlaamse overheid die instaat voor de berekening van de omkadering van de scholen. Deze bevoegde dienst is de verwerkingsverantwoordelijke van de gegevens. De maximale bewaartermijn voor deze gegevens is 30 jaar.<br>
 <br>
 § 3. De Vlaamse Regering kent aan elke gelijkekansenindicator een gewicht toe. Zij bepaalt tevens het maximum van de gecumuleerde gewichten, dat ten minste gelijk is aan het hoogste gewicht dat aan een gelijkekansenindicator wordt toegekend en ten hoogste gelijk is aan anderhalf maal dit hoogste gewicht. De hoogste gewichten worden toegekend aan de in § 1, 2° en 3°, bedoelde gelijkekansenindicatoren.<br>
 <br>
