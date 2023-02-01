@@ -38,6 +38,33 @@ In dit besluit wordt verstaan onder:<br>
 
 ## HOOFDSTUK 2. Uitwisseling van officiële berichten
 
+### ART 2.
+
+§ 1. Het agentschap voorziet in een elektronische procedure om officiële berichten uit te wisselen tussen het voorlopig bestuursorgaan, het tijdelijk voltallig bestuursorgaan, het bestuur van de eredienst, het centraal bestuur, het representatief orgaan, de financierende overheid, de adviserende gemeente, de provinciegouverneur en de Vlaamse Regering en maakt deze elektronische procedure bekend op zijn website.<br>
+<br>
+Het agentschap informeert het voorlopig bestuursorgaan, het tijdelijk voltallig bestuursorgaan, het bestuur van de eredienst, het centraal bestuur, het representatief orgaan, de financierende overheid en de adviserende gemeente over:<br>
+1° de stappen die gevolgd moeten worden;<br>
+2° de technieken die worden gebruikt;<br>
+3° de rechtsgevolgen van de elektronische uitwisseling.<br>
+<br>
+Het agentschap stelt maatregelen vast die aangepast zijn aan de omstandigheden en die voldoende garanties bieden voor informatieveiligheid en onweerlegbaarheid van de in het eerste lid vermelde elektronische procedure te verzekeren. Het agentschap maakt die maatregelen bekend op zijn publieke website.<br>
+<br>
+§ 2. Het tijdstip waarop het officiële bericht het informatiesysteem verlaat dat de verzender gebruikt, geldt als tijdstip waarop het officiële bericht elektronisch is verzonden door de verzender. Het tijdstip waarop het officiële bericht het informatiesysteem bereikt dat de geadresseerde gebruikt, geldt als tijdstip waarop het officiële bericht elektronisch is ontvangen door de geadresseerde.<br>
+<br>
+Als de verzender en de geadresseerde hetzelfde informatiesysteem gebruiken, geldt het tijdstip waarop het officiële bericht toegankelijk wordt voor de geadresseerde als tijdstip van verzending en als tijdstip van ontvangst door de geadresseerde. Die elektronische verzending geldt als aangetekende zending.<br>
+<br>
+In deze paragraaf wordt verstaan onder hetzelfde informatiesysteem: een informatiesysteem of een combinatie van informatiesystemen waarbij de verzender en de geadresseerde voldoende controle heeft over de logging van het tijdstip van verzending en ontvangst van een bericht.
+
+### ART 3.
+
+In dit artikel wordt verstaan onder algemene technische storing: een storing van de elektronische procedure, vermeld in artikel 2, § 1, eerste lid, waardoor de elektronische procedure niet beschikbaar is gedurende meer dan vier uur van de dag en die door het agentschap is vastgesteld en bekendgemaakt op zijn publieke website.<br>
+<br>
+In geval van een algemene technische storing kan de uitwisseling van officiële berichten tussen het voorlopig bestuursorgaan, het tijdelijk voltallig orgaan, het bestuur van de eredienst, het centraal bestuur, het representatief orgaan, de financierende overheid, de adviserende gemeente, de provinciegouverneur en de Vlaamse Regering gebeuren via een aangetekende zending via de post of een afgifte tegen ontvangstbewijs.<br>
+<br>
+Een aangetekende zending via de post wordt, behalve in geval van bewijs van het tegendeel door de geadresseerde, geacht ontvangen te zijn op de eerste werkdag na de datum van de poststempel van de aangetekende brief. De datum van de poststempel heeft bewijskracht zowel voor de verzending als voor de ontvangst.<br>
+<br>
+Een afgifte tegen ontvangstbewijs wordt geacht plaats te vinden op de datum van het ontvangstbewijs.
+
 ## HOOFDSTUK 3. Communicatie van de indiener van de klacht aan de toezichthoudende overheid
 
 ### ART 4.
@@ -53,6 +80,10 @@ Een klacht bij de provinciegouverneur of de Vlaamse Regering kan ook worden inge
 Het agentschap stelt de algemene protocollen voor de elektronische uitwisseling van persoonsgegevens op conform artikel 47, § 8, van het Erkenningsdecreet Lokale Geloofsgemeenschappen van 22 oktober 2021. Het agentschap houdt een inventaris bij van de algemene protocollen voor de elektronische uitwisseling van persoonsgegevens, een overzicht van de instanties als vermeld in artikel 2, 10°, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer die erbij aansluiten en publiceert die op zijn publieke website.
 
 ## HOOFDSTUK 5. Slotbepalingen
+
+### ART 6.
+
+Het besluit van de Vlaamse Regering van 13 mei 2016 tot vaststelling van de wijze van communicatie in het kader van het bestuurlijk toezicht op de besturen van de eredienst, gewijzigd bij het besluit van de Vlaamse Regering van 10 mei 2019, wordt opgeheven.
 
 ### ART 7.
 
