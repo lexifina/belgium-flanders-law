@@ -152,7 +152,7 @@ De subsidies, vermeld in het tweede lid, worden jaarlijks voor 1 april van het k
 <br>
 §2. Binnen de perken van de daarvoor op de begroting vastgelegde kredieten, kent het agentschap in de volgende gevallen aan vergunde bijstandsorganisaties subsidies toe voor het verlenen van bijstand aan budgethouders bij de opstart van de besteding van het persoonsvolgend budget of van het persoonlijke- assistentiebudget en voor de vergoeding van het lidgeld voor een jaar:<br>
 1° er is voor het eerst een persoonlijke-assistentiebudget toegekend;<br>
-2° er is voor het eerst een persoonsvolgend budget ter beschikking gesteld en er was geen persoonlijke-assistentiebudget toegekend. Bij de vaststelling of het om een eerste terbeschikkingstelling gaat, wordt geen rekening gehouden met de terbeschikkingstelling van een persoonsvolgend budget conform artikel 28 tot en met 31 van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget.<br>
+2° er is voor het eerst een persoonsvolgend budget ter beschikking gesteld en er was geen persoonlijke-assistentiebudget toegekend.<br>
 <br>
 De bijstand, vermeld in het eerste lid, heeft tot doel om de besteding van het persoonlijke assistentiebudget of het persoonsvolgend budget tijdig en correct op te starten.<br>
 <br>
