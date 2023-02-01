@@ -2,16 +2,16 @@
   "codex_id": 1029775,
   "title": "Ministerieel besluit van 2018-08-30 tot erkenning van [FOODCHAIN ID Certification] nv als controleorgaan biologische landbouw en tot opheffing van het ministerieel besluit van 23 december 2009 tot erkenning van Quality Partner nv als controleorgaan biologische landbouw",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029775/VolledigDocument?datum=2018-08-30",
-  "source_sha256": "61f22482787eef36668a4ef4b63a788214d7d56c0a848849d746a98fc4fd63de",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029775/VolledigDocument?datum=2023-02-01",
+  "source_sha256": "a3cabbab21fff44aa4c6dd32337907b5c7a5bbafa3f884f5a03b96325c63eee0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029775&param=informatie",
-  "as_of": "2018-08-30",
+  "as_of": "2023-02-01",
   "made": "2018-08-30",
   "gazette": "2018-10-02",
   "numac": 2018013888,
   "document_start": "2018-08-30",
   "document_end": null,
-  "in_force": "2018-08-30",
+  "in_force": "2023-02-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2018-08-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-02-01; future article versions excluded; article text as the API gives it"
 }

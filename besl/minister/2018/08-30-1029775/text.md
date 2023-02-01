@@ -11,7 +11,7 @@ Besluit :
 
 ### ART 1.
 
-Met toepassing van artikel 5 van het besluit van de Vlaamse Regering van 12 december 2008 betreffende de biologische productie en de etikettering van biologische producten wordt Inscert Partner nv, Rue Hayeneux 62, 4040 Herstal als controleorgaan erkend.
+Met toepassing van artikel 5 van het besluit van de Vlaamse Regering van 12 december 2008 betreffende de biologische productie en de etikettering van biologische producten wordt FOODCHAIN ID Certification nv, Rue Hayeneux 62, 4040 Herstal als controleorgaan erkend.
 
 ### ART 2.
 
@@ -19,7 +19,7 @@ Het ministerieel besluit van 23 december 2009 tot erkenning van Quality Partner 
 
 ### ART 3.
 
-Met toepassing van artikel 14 van hetzelfde besluit wordt het volgende codenummer toegekend aan Inscert Partner nv: BE-BIO-03.
+Met toepassing van artikel 14 van hetzelfde besluit wordt het volgende codenummer toegekend aan FOODCHAIN ID Certification nv: BE-BIO-03.
 
 ### ART 4.
 
