@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037169,
+  "title": "Decreet van 2022-06-03 houdende de verplichting voor bepaalde organisaties om een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, te controleren voor bepaalde nieuwe medewerkers",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037169/VolledigDocument?datum=2023-02-01",
+  "source_sha256": "3d45ccf395c80b78766a6200a349c445d455de0e2eb22df8ffb3deb985357d6c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037169&param=informatie",
+  "as_of": "2023-02-01",
+  "made": "2022-06-03",
+  "gazette": "2022-06-24",
+  "numac": 2022032477,
+  "document_start": "2023-02-01",
+  "document_end": null,
+  "in_force": "2023-02-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2023-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
