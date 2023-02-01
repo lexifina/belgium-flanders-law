@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037998,
+  "title": "Besluit van de Vlaamse Regering van 2022-12-23 tot overdracht van een personeelslid van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding naar het Departement Werk en Sociale Economie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037998/VolledigDocument?datum=2023-02-01",
+  "source_sha256": "ed2dc6338cc661dc0ded32dd949c41aca567d84c3cf73ec76a8d6defeabe519c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037998&param=informatie",
+  "as_of": "2023-02-01",
+  "made": "2022-12-23",
+  "gazette": "2023-03-13",
+  "numac": 2023010139,
+  "document_start": "2023-02-01",
+  "document_end": null,
+  "in_force": "2023-02-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
