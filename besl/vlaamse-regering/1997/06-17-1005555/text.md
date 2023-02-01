@@ -184,13 +184,10 @@ De verklaringen op erewoord die gebruikt worden om de gegevens voor leerlingenke
 <br>
 § 4. Met toepassing van artikel 140, § 1, 6°, zevende lid, van het decreet is het verblijf op zich in een tehuis voor kinderen van wie de ouders geen vaste verblijfplaats hebben, een voldoende bewijs.<br>
 <br>
-§ 5. Met toepassing van artikel 140, § 1, 6°, zevende lid, van het decreet wordt de indicator « die geplaatst zijn door de jeugdrechter of door de comités voor bijzondere jeugdzorg », vermeld in artikel 140, § 1, 6°, c), van het decreet, vastgesteld op basis van een van de volgende attesten :<br>
-1° een kopie van de beslissing van de jeugdrechtbank;<br>
-2° een kopie van de beslissing van het comité voor bijzondere jeugdzorg;<br>
-3° een verklaring van de betrokken instelling waaruit blijkt dat het om een plaatsing gaat in het kader van de bijzondere jeugdzorg of de jeugdbescherming door de jeugrechter of het comité voor bijzondere jeugdzorg. Het is niet noodzakelijk dat gespecificeerd wordt om welk van beide instanties het gaat.<br>
+§ 5. ...<br>
 <br>
 § 6. Met toepassing van artikel 140, § 1, 6°, zevende lid, van het decreet wordt de indicator « de ouders behoren tot de trekkende bevolking », vermeld in artikel 140, § 1, 6°, d), van het decreet, vastgesteld op basis van een van de volgende attesten :<br>
-1° een attest van gezinssamenstelling, waaruit blijkt dat beide ouders binnenschipper of kermis- of circusexploitant of -artiest zijn;<br>
+1° ...;<br>
 2° een kopie van de aanvraag tot vermindering van het kostgeld voor kinderen van wie de ouders geen vaste verblijfplaats hebben;<br>
 3° een kopie uit het handelsregister, waaruit blijkt dat beide ouders kermis- of circusexploitant of -artiest zijn;<br>
 4° een lidmaatschapskaart van de ouders van foorreiziger of kermisexploitant;<br>
@@ -203,7 +200,15 @@ De verklaringen op erewoord die gebruikt worden om de gegevens voor leerlingenke
 <br>
 De attesten die gebruikt worden om de gegevens te verzamelen, worden ten minste vijftien jaar bewaard door de school.<br>
 <br>
-§ 7. Met toepassing van artikel 140, § 1, 6°, zevende lid, van het decreet wordt de indicator « thuisloos », vermeld in artikel 140, § 1, 6°, e), van het decreet, vastgesteld op basis van een verklaring van de persoon, de voorziening of de sociale dienst die de leerling tijdelijk op permanent opneemt. Of de leerling een niet-begeleide minderjarige vreemdeling is als vermeld in artikel 479 van de programmawet I van 24 december 2002, wordt vastgesteld op basis van een attest, afgeleverd door een instantie die onafhankelijk is van de school.<br>
+§ 7. Met toepassing van artikel 140, §1, 6°, van het decreet wordt de indicator leerlingen die een zorgthuis hebben als vermeld in artikel 140, §1, 6°, e), van het decreet, vastgesteld door AGODI, de verwerkingsverantwoordelijke, op basis van de data van het agentschap Opgroeien, het Vlaams Agentschap voor Personen met een Handicap of Fedasil.<br>
+<br>
+Als er geen automatische data-uitwisseling met het agentschap Opgroeien of het Vlaams Agentschap voor Personen met een Handicap plaatsvindt, wordt het voldoen aan de voormelde indicator leerlingen die een zorgthuis hebben voor de leerlingen, vermeld in artikel 3, 28°/1, a), van het decreet, vastgesteld op basis van een bewijs van het gebruik van een jeugdhulpverleningsbeslissing, vermeld in artikel 3, 28°/1, a), van het decreet.<br>
+<br>
+Als er geen automatische data-uitwisseling met het agentschap Opgroeien plaatsvindt, wordt het voldoen aan de voormelde indicator leerlingen die een zorgthuis hebben, voor de leerlingen, vermeld in artikel 3, 28°/1, b), van het decreet, vastgesteld op basis van een bewijs van plaatsing als vermeld in artikel 3, 28°/1, b), van het decreet.<br>
+<br>
+Als er geen automatische data-uitwisseling met Fedasil plaatsvindt, wordt het voldoen aan de voormelde indicator leerlingen die een zorgthuis hebben, voor de leerlingen, vermeld in artikel 3, 28°/1, c), van het decreet, vastgesteld op basis van een document dat is afgeleverd door een instantie die onafhankelijk is van de school.<br>
+<br>
+De maximale bewaartermijnen voor gegevens vermeld in het eerste lid, die worden bewaard conform artikel 5, lid 1, e), van de Algemene Verordening Gegevensbescherming, worden vastgelegd in beheersregels als vermeld in artikel III.81, §2, van het Bestuursdecreet van 7 december 2018.<br>
 <br>
 De verklaringen op erewoord die gebruikt worden om de gegevens te verzamelen, worden ten minste vijftien jaar bewaard door de school.</p>
 
