@@ -40,7 +40,7 @@ In dit besluit wordt verstaan onder:<br>
 4° dagplafond: een maximale hoeveelheid dat per zeedag mag worden opgevist zoals vastgelegd in dit besluit;<br>
 5° de-minimis hoeveelheden: hoeveelheden van soorten die onder de aanlandingsplicht vallen en die mogen overboord gezet worden ten belope van een maximale hoeveelheid uitgedrukt in een percentage van de totale vangsten door de nationale vloot van die soort en in dat gebied;<br>
 6° elektronisch logboek: elektronisch niet-papieren logboek voor elektronische registratie van visserijlogboekgegevens en de gegevens van de aangifte van aanlanding;<br>
-7° gereglementeerde vistuigen: BT1 boomkor met maaswijdte groter dan 120 mm; BT2 boomkor met maaswijdte 80-119 mm; TR1 trawl (Bordenvisserij (OTB) en Schotse zegens (SSC)) met maaswijdte groter dan 100mm; TR2 trawl (OTB en SSC) met maaswijdte 80-99 mm; TR3 trawl (OTB) met maaswijdte 20-55 mm; GNS (staand net) alle warrelnetten; GTR alle schakels;<br>
+7° gereglementeerde vistuigen: BT1 boomkor met maaswijdte groter dan 120 mm; BT2 boomkor met maaswijdte 80-119 mm; TR1 trawl (Bordenvisserij (OTB) en Schotse zegens (SSC)) met maaswijdte groter dan 100mm; TR2 trawl (OTB en SSC) met maaswijdte 80-99 mm; TR3 trawl (OTB) met maaswijdte 16-55 mm; GNS (staand net) alle warrelnetten; GTR alle schakels;<br>
 8° GVS: groot vlootsegment zoals bepaald in artikel 1, 6°, van het besluit van de Vlaamse Regering van 16 december 2005 tot de instelling van een visvergunning en houdende tijdelijke maatregelen voor de uitvoering van de communautaire regeling inzake de instandhouding en de duurzame exploitatie van de visbestanden;<br>
 9° ICES-gebieden: de beschrijving van gebieden en sectoren, vermeld in bijlage III van Verordening (EG) nr. 218/2009 van het Europees parlement en de Raad van 11 maart 2009 inzake de verstrekking van statistieken van de nominale vangsten van Lidstaten die in het noordoostelijke gedeelte van de Atlantische Oceaan vissen;<br>
 10° KVS: klein vlootsegment zoals bepaald in artikel 1, 7°, van het besluit van de Vlaamse Regering van 16 december 2005 tot de instelling van een visvergunning en houdende tijdelijke maatregelen voor de uitvoering van de communautaire regeling inzake de instandhouding en de duurzame exploitatie van de visbestanden;<br>
@@ -98,8 +98,7 @@ In de periode van 1 januari 2023 tot en met 31 december 2023 is het verboden:<br
 9° uitgerust te zijn of te vissen met boomkornetten van de segmenten BT1 en BT2 waarvan de staart, te weten de achterste drie meter van de korre voor de kuil, niet is uitgerust met het Vlaams paneel;<br>
 10° voor vaartuigen van het KVS een sleepduur van meer dan negentig minuten uit te voeren;<br>
 11° uitgerust te zijn of te vissen met boomkornetten van het segment BT2 uit het GVS waarvan de onderpees niet is uitgerust met een steenschotje, de zogenaamde flip up rope of waarvan de korre aan de onderkant en voor het Vlaams paneel niet is uitgerust met een bentisch paneel onder de vorm van een paneel met vierkante mazen met een maaswijdte van 170 mm en een minimale lengte en breedte van 1,8 meter;<br>
-12° andere roggensoorten te vissen, aan boord te houden en aan te landen en andere 3-alfacodes te gebruiken dan: roggen SRX, blonde rog RJH, stekelrog RJC en gevlekte rog RJM. &nbsp;<br>
-Andere roggensoorten die worden gevangen, worden ongedeerd gelaten en onmiddellijk teruggezet. De vissers worden daarbij aangemoedigd technieken en apparatuur te gebruiken voor een snelle en behouden terugzetting, conform de Europese regelgeving;<br>
+12° ...;<br>
 13°&nbsp; op paling te vissen in alle ICES-gebieden.
 
 ### ART 6.
@@ -359,9 +358,14 @@ Het is in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden
 <br>
 Het is in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-§2. Van 1 januari 2023 tot 31 januari 2023 worden in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat gedurende de gehele visreis gebruik maakt van netmaaswijdtes groter dan 100mm in de bordenvisserij (TR1) of groter dan 120mm in de boomkorvisserij (BT1), de hoeveelheden vermeld in paragraaf 1 verhoogd met 500 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden. Vanaf 1 februari 2023 worden de hierboven vermelde hoeveelheden voor die vaartuigen terug verminderd tot de hoeveelheden vermeld in paragraaf 1.<br>
+§2. Van 1 januari 2023 tot 28 februari 2023 worden in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat gedurende de gehele visreis gebruik maakt van netmaaswijdtes groter dan 100mm in de bordenvisserij (TR1) of groter dan 120mm in de boomkorvisserij (BT1), de hoeveelheden vermeld in paragraaf 1 verhoogd met 500 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden. Vanaf 1 maart 2023 worden de hierboven vermelde hoeveelheden voor die vaartuigen terug verminderd tot de hoeveelheden vermeld in paragraaf 1.<br>
 <br>
-§3. In de periode van 1 januari 2023 tot en met 30 juni 2023 is het in het ICES-gebied VIIa voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 50 kg.
+§3. In de periode van 1 januari 2023 tot en met 30 juni 2023 is het in het ICES-gebied VIIa voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 50 kg.<br>
+<br>
+§4. Het is in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, verboden bij een zeeduivelvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg levend gewicht, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Vanaf 1 februari 2023 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, verboden bij een zeeduivelvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 210 kg levend gewicht, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+&nbsp;
 
 ## Afdeling 5. Rog
 
@@ -390,6 +394,10 @@ Het is in de ICES-gebieden VIIa-c, e-k voor een vissersvaartuig van het GVS verb
 §1. Het is in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig verboden bij makreelvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis.<br>
 <br>
 Het totale makreelquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, dat gereserveerd is voor de vissersvaartuigen die volgens de Officiële lijst der Belgische zeeschepen 2022 uitsluitend uitgerust zijn met de zegen en die per zeereis minder dan 10 kg Noordzeetong aanlanden, bedraagt 50 ton. Zolang dat quotum niet is opgebruikt, geldt de beperking, vermeld in het eerste lid, niet.<br>
+<br>
+Het in het eerste lid vermelde dagplafond wordt voor de vaartuigen die uitgerust zijn met planken, binnen een gereserveerde hoeveelheid van 50 ton, verdubbeld naar 100kg. Zodra het plafond is bereikt, valt het dagplafond terug op 50 kg.<br>
+<br>
+§1/1. Voor de ICES-gebieden VII is er geen makreelquotum beschikbaar.<br>
 <br>
 §2. In de ICES-gebieden IV en VIId, zijnde Noordzee en Oostelijk Engels Kanaal, is het voor een vissersvaartuig verboden bij de haringvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis.<br>
 <br>
@@ -429,9 +437,11 @@ De beperkingen vermeld in het eerste en tweede lid zijn niet van toepassing zola
 <br>
 Het is in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de tarbot en grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-§11. Het is in de ICES-gebieden VII, VIII voor een vissersvaartuig van het KVS verboden bij de schelvisvangst een hoeveelheid te overschrijden die gelijk is aan 40 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+§11. Het is in de ICES-gebieden VIIb-k, VIII voor een vissersvaartuig van het KVS verboden bij de schelvisvangst een hoeveelheid te overschrijden die gelijk is aan 40 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-Het is in de ICES-gebieden VII, VIII voor een vissersvaartuig van het GVS verboden bij de schelvisvangst een hoeveelheid te overschrijden die gelijk is aan 80 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+Het is in de ICES-gebieden VIIb-k, VIII voor een vissersvaartuig van het GVS verboden bij de schelvisvangst een hoeveelheid te overschrijden die gelijk is aan 80 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+Er worden geen vangstbeperkingen voor schelvisvangst in het ICES-gebied VIIa ingesteld.<br>
 <br>
 §12. Het is in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de lengvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 30 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
@@ -463,7 +473,7 @@ Als voor het vissersvaartuig in kwestie gedurende het jaar in kwestie dagen werd
 
 ### ART 27.
 
-§1. Onverminderd de bepalingen van artikel 26 worden de opbrengsten van de overschrijdingen van de maximum toegekende valoriseerbare hoeveelheden onder de vorm van dagplafonds vermeld in artikel 25 paragrafen 1, 2, 3, 4, 5, 6, 9, 10, 11, en 12 ingehouden ten voordele van de rekening voor opvangvis van de producentenorganisatie Rederscentrale.<br>
+§1. Onverminderd de bepalingen van artikel 26 worden de opbrengsten van de overschrijdingen van de maximum toegekende valoriseerbare hoeveelheden onder de vorm van dagplafonds vermeld in artikel 25, paragrafen 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12 en 13 ingehouden ten voordele van de rekening voor opvangvis van de producentenorganisatie Rederscentrale.<br>
 <br>
 §2. Voor de uitvoering van de bepalingen van dit artikel verzorgt de producentenorganisatie Rederscentrale toezicht uit in de visafslagen volgens de modaliteiten die met de bevoegde entiteit zijn overeengekomen in het kader van Verordening (EU) nr. 1379/2013 van het Europees Parlement en de Raad van 11 december 2013 houdende een gemeenschappelijke marktordening voor visserijproducten en aquacultuurproducten.<br>
 <br>
