@@ -11415,7 +11415,9 @@ De periode van de borstvoedingspauze wordt bezoldigd en is gelijkgesteld met die
 
 ### ART. V.91.
 
-<P style="MARGIN: 0cm 0cm 0pt">Niemand kan ter beschikking worden gesteld of gehouden na het einde van   de maand waarin hij of zij aanspraak kan maken op een rustpensioen ten laste van   de schatkist en 30 dienstjaren telt die in aanmerking komen voor de berekening   van het rustpensioen.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+<p>Niemand kan ter beschikking worden gesteld of gehouden na het einde van de maand waarin hij of zij aanspraak kan maken op een rustpensioen ten laste van de schatkist en 30 dienstjaren telt die in aanmerking komen voor de berekening van het rustpensioen.<br>
+<br>
+Het eerste lid is niet van toepassing op personeelsleden die gedeeltelijk ter beschikking gesteld zijn wegens ziekte of gebrekkigheid tijdens een verlof voor verminderde prestaties wegens ziekte.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
 
 ### ART. V.92.
 
