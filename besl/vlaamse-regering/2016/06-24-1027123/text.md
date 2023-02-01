@@ -192,18 +192,18 @@ Als budgethouders aan het agentschap meedelen dat ze afzien van de terbeschikkin
 
 ### ART 9.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgethouder start binnen vier maanden, te rekenen vanaf de aanvangsdatum, vermeld in de beslissing van het agentschap over de terbeschikkingstelling, met het besteden van het budget.</span><br>
+De budgethouder start binnen vier maanden, te rekenen vanaf de aanvangsdatum, vermeld in de beslissing van het agentschap over de terbeschikkingstelling, met het besteden van het budget.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgethouder is met het besteden van het budget gestart als hij:</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° ofwel een overeenkomst heeft gesloten als vermeld in artikel 13 en de gegevens over die overeenkomst conform artikel 13, tweede lid, heeft meegedeeld aan het agentschap;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° ofwel een overeenkomst heeft afgesloten als vermeld in artikel 7 en de gegevens over de overeenkomst conform artikel 17 heeft meegedeeld aan het agentschap.</span><br>
+De budgethouder is met het besteden van het budget gestart als hij:<br>
+1° ofwel een overeenkomst heeft gesloten als vermeld in artikel 13 en de gegevens over die overeenkomst conform artikel 13, tweede lid, heeft meegedeeld aan het agentschap;<br>
+2° ofwel een overeenkomst heeft afgesloten als vermeld in artikel 7 en de gegevens over de overeenkomst conform artikel 17 heeft meegedeeld aan het agentschap.<br>
+<br>
+In afwijking van het eerste lid start de budgethouder met de besteding van het tijdelijk budget voor niet rechtstreeks toegankelijke zorg en ondersteuning, vermeld in artikel &nbsp;28 van het besluit 27 november 2015, &nbsp;binnen de drie maanden te rekenen vanaf de aanvangsdatum, vermeld in de beslissing van het agentschap over de terbeschikkingstelling van dat budget.<br>
 &nbsp;
 
 ### ART 9/1.
 
-Als het agentschap voor het eerst een budget ter beschikking stelt en er geen persoonlijke-assistentiebudget als vermeld in artikel 19/2 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, is toegekend, kunnen budgethouders aanspraak maken op bijstand bij de opstart van de besteding als vermeld in artikel 16/0, § 2, van het besluit van de Vlaamse Regering van 11 december 2015 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering. Ze sluiten zich daarvoor als lid aan bij een bijstandsorganisatie die is vergund door het agentschap conform artikel 6 tot en met 8 van het voormelde besluit. Ze hoeven daarvoor geen lidgeld te betalen. Ze hoeven de bijstand ook niet te vergoeden met het budget.<br>
-<br>
-Bij de vaststelling of het om een eerste terbeschikkingstelling gaat, wordt geen rekening gehouden met de terbeschikkingstelling van een persoonsvolgend budget conform artikel 28 tot en met artikel 31 van het besluit van 27 november 2015.
+Als het agentschap voor het eerst een budget ter beschikking stelt en er geen persoonlijke-assistentiebudget als vermeld in artikel 19/2 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, is toegekend, kunnen budgethouders aanspraak maken op bijstand bij de opstart van de besteding als vermeld in artikel 16/0, § 2, van het besluit van de Vlaamse Regering van 11 december 2015 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering. Ze sluiten zich daarvoor als lid aan bij een bijstandsorganisatie die is vergund door het agentschap conform artikel 6 tot en met 8 van het voormelde besluit. Ze hoeven daarvoor geen lidgeld te betalen. Ze hoeven de bijstand ook niet te vergoeden met het budget.
 
 ### ART 10.
 
@@ -229,9 +229,9 @@ Het agentschap kan aan de budgethouder intensieve bemiddeling, vermeld in artike
 
 ### ART 12.
 
-De beslissing van het agentschap tot terbeschikkingstelling van het budget en de beslissing tot toewijzing van dat budget vervallen als de budgethouder binnen de termijn, vermeld in artikel 9, niet is gestart met het besteden van het budget. Als de budgethouder overmacht aantoont, kan het agentschap de termijn, vermeld in artikel 9, eenmalig verlengen met vier maanden.<br>
+De beslissing van het agentschap tot terbeschikkingstelling van het budget en de beslissing tot toewijzing van dat budget vervallen als de budgethouder binnen de termijn, vermeld in artikel 9, eerste of tweede lid, niet is gestart met het besteden van het budget. Als de budgethouder overmacht aantoont, kan het agentschap de termijn, vermeld in artikel 9, eerste lid, eenmalig verlengen met vier maanden. De termijn, vermeld in artikel 9, tweede lid, kan met drie maanden worden verlengd.<br>
 <br>
-In afwijking van het eerste lid wordt de termijn, vermeld in artikel 9 van dit besluit, verlengd met een periode van acht maanden als het agentschap op het moment dat de termijn, vermeld in artikel 9 van dit besluit, afloopt, heeft beslist om in te stemmen met intensieve bemiddeling als vermeld in artikel 2, § 1, van het besluit van de Vlaamse Regering van 20 juli 2018 over de bemiddeling, de afstemming en de planning in het kader van persoonsvolgende financiering voor meerderjarige personen met een handicap, conform artikel 4 van het voormelde besluit.<br>
+In afwijking van het eerste lid wordt de termijn, vermeld in artikel 9,eerste of tweede lid, van dit besluit, verlengd met een periode van acht maanden als het agentschap op het moment dat de termijn, vermeld in artikel 9,eerste of tweede lid, van dit besluit, afloopt, heeft beslist om in te stemmen met intensieve bemiddeling als vermeld in artikel 2, § 1, van het besluit van de Vlaamse Regering van 20 juli 2018 over de bemiddeling, de afstemming en de planning in het kader van persoonsvolgende financiering voor meerderjarige personen met een handicap, conform artikel 4 van het voormelde besluit.<br>
 <br>
 In afwijking van het eerste lid vervalt de beslissing over de toewijzing van het budget niet als de budgethouder binnen de termijn, vermeld in artikel 9, eerste lid, van dit besluit, of binnen de termijn van acht maanden die conform het eerste lid is vastgesteld, niet is gestart met het besteden van het budget dat gedeeltelijk ter beschikking is gesteld conform het besluit van de Vlaamse Regering van 16 september 2022 over een experiment voor de gedeeltelijke terbeschikkingstelling van budgetten voor niet-rechtstreeks toegankelijke zorg en ondersteuning aan personen met een handicap in prioriteitengroep twee.<br>
 <br>
