@@ -77,7 +77,7 @@ Een   MFC kan gebruikers opnemen tot en met de leeftijd van eenentwintig   jaar.
 <br>
 Indien de ondersteuning van de gebruiker, vermeld in paragraaf 2, 1°, niet het afronden van de schoolloopbaan tot doel heeft, gebeurt de ondersteuning in de vorm van de begeleiding, vermeld in artikel 10, § 5.<br>
 <br>
-§ 4. In het geval, vermeld in paragraaf 2, 3°, moet de gebruiker beschikken over een toewijzing van minimaal budgetcategorie V als vermeld in artikel 17 van het besluit van 27 november 2015.</p>
+§ 4. In het geval, vermeld in paragraaf 2, 3°, beschikt de gebruiker met toepassing van het besluit van 27 november 2015 over een toewijzing van minimaal budgetcategorie V of budgetcategorie 8.</p>
 
 ## HOOFDSTUK 4 Opdracht
 
@@ -214,7 +214,13 @@ De   werkingssubsidies worden verminderd met de niet-geïnde bijdrage, vermeld i
 
 <p>§ 2. De bijdrage mag niet meer bedragen dan het basisbedrag, verhoogd met de zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte waarop de gebruiker recht heeft krachtens het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid.<br>
 <br>
-In afwijking van het eerste lid mag het bedrag voor de gebruiker die geboren is voor 1 januari 2019, niet hoger zijn dan de kinderbijslag, verhoogd met de leeftijdstoeslag en de zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte waarop de gebruiker recht heeft krachtens het voormelde decreet van 27 april 2018.</p>
+In afwijking van het eerste lid mag het bedrag voor de gebruiker die geboren is voor 1 januari 2019, niet hoger zijn dan het basisbedrag, verhoogd met de leeftijdstoeslag en de zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte waarop de gebruiker recht heeft krachtens het voormelde decreet van 27 april 2018.<br>
+<br>
+Als de gebruiker, vermeld in het eerste of tweede lid, een inkomensvervangende tegemoetkoming of een integratietegemoetkoming ontvangt, bedraagt de bijdrage niet meer dan het basisbedrag of, voor kinderen die geboren zijn voor 1 januari 2019, niet meer dan het basisbedrag, verhoogd met de leeftijdstoeslag waarop ze recht hebben krachtens het Groeipakketdecreet van 2018 en de inkomensvervangende tegemoetkoming of de integratietegemoetkoming.<br>
+<br>
+In het derde lid wordt verstaan onder:<br>
+1° inkomensvervangende tegemoetkoming: een inkomensvervangende tegemoetkoming als vermeld in artikel 2, § 1, van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap;<br>
+2° integratietegemoetkoming: een integratietegemoetkoming als vermeld in artikel 2, § 2, van de voormelde wet.</p>
 
 <p>§ 3. In deze paragraaf wordt verstaan onder intersectorale toegangspoort : de toegangspoort, vermeld in artikel 16 van het besluit van de Vlaamse Regering van 21 februari 2014 betreffende de integrale jeugdhulp.</p>
 
