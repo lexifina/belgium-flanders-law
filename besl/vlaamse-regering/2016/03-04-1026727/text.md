@@ -32,7 +32,14 @@ In dit besluit wordt verstaan onder :<br>
 
 ### ART. 2.
 
-<P>§   1. Er wordt in elke provincie een regionale prioriteitencommissie   opgericht.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">De   regionale prioriteitencommissie heeft de volgende opdrachten :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de toekenning van een prioriteitengroep, als vermeld in artikel 23 van het   besluit van de Vlaamse Regering over de indiening en de afhandeling van de   aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en   ondersteuning voor meerderjarige personen met een handicap en over de   terbeschikkingstelling van dat budget, aan de vraag van personen met een   handicap tot toewijzing van een budget voor niet rechtstreeks toegankelijke zorg   en ondersteuning;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   de vaststelling van de aanwezigheid van maatschappelijke noodzaak, als vermeld   in artikel 23 van het besluit van de Vlaamse Regering over de indiening en de   afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke   zorg en ondersteuning voor meerderjarige personen met een handicap en over de   terbeschikkingstelling van dat budget.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. De regionale prioriteitencommissie van een provincie is bevoegd voor de   behandeling van dossiers van personen met een handicap die in de provincie   gedomicilieerd zijn.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   afwijking van het eerste lid is de regionale prioriteitencommissie in de   provincie Vlaams-Brabant bevoegd voor de behandeling van dossiers van personen   met een handicap die in de provincie gedomicilieerd zijn, en voor de afhandeling   van de dossiers van personen met een handicap die gedomicilieerd zijn in het   tweetalig gebied Brussel-Hoofdstad.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. Er wordt in elke provincie een regionale prioriteitencommissie opgericht.<br>
+De regionale prioriteitencommissie heeft de volgende opdrachten :<br>
+1° de toekenning van een prioriteitengroep, als vermeld in artikel 23 van het besluit van de Vlaamse Regering over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget, aan de vraag van personen met een handicap tot toewijzing van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning;<br>
+2° ...</p>
+
+<p>§ 2. De regionale prioriteitencommissie van een provincie is bevoegd voor de behandeling van dossiers van personen met een handicap die in de provincie gedomicilieerd zijn.</p>
+
+<p>In afwijking van het eerste lid is de regionale prioriteitencommissie in de provincie Vlaams-Brabant bevoegd voor de behandeling van dossiers van personen met een handicap die in de provincie gedomicilieerd zijn, en voor de afhandeling van de dossiers van personen met een handicap die gedomicilieerd zijn in het tweetalig gebied Brussel-Hoofdstad.</p>
 
 ### ART. 3.
 
@@ -221,15 +228,7 @@ Binnen elke prioriteitengroep komen de personen met een handicap met de vroegste
 
 ### ART. 16.
 
-<p>Op verzoek van de persoon die een vraag naar een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning heeft ingediend, kan de regionale prioriteitencommissie de aanwezigheid van maatschappelijke noodzaak vaststellenals aan een van de volgende voorwaarden is voldaan :<br>
-1° er is aangetoond dat de persoon met een handicap ernstig fysiek, psychisch, emotioneel of seksueel misbruikt wordt door de mantelzorgers of samenwonende personen uit het netwerk, of dat de persoon met een handicap het slachtoffer is van incest;<br>
-2° er is ernstig fysiek misbruik of ernstig psychisch of emotioneel misbruik of ernstig seksueel misbruik of incest door de persoon met een handicap ten aanzien van de mantelzorgers of samenwonende personen uit het netwerk aangetoond;<br>
-3° er is aangetoond dat de persoon met een handicap ernstig fysiek, psychisch of emotioneel wordt verwaarloosd door de mantelzorgers of samenwonende personen uit het netwerk;<br>
-4° er is aangetoond dat de persoon met een handicap de mantelzorgers of samenwonende personen uit het netwerk ernstig fysiek of ernstig psychisch of emotioneel verwaarloost.</p>
-
-<p>Als de vaststelling van maatschappelijke noodzaak wordt gevraagd, moet het multidisciplinaire team het ernstige misbruik of de ernstige verwaarlozing, vermeld in het eerste lid, aantonen.</p>
-
-<p>De persoon die een vraag naar een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning indient, kan ook informatie aanleveren om de maatschappelijke noodzaak te beoordelen.</p>
+<p>...</p>
 
 ## Hoofdstuk 4 Bemiddeling, planning en afstemming in het kader van persoonsvolgende financiering
 
