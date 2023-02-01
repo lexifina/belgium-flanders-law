@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037775,
+  "title": "Besluit van de Vlaamse Regering van 2022-09-16 tot wijziging van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap wat betreft de bijdrageregeling",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037775/VolledigDocument?datum=2023-02-01",
+  "source_sha256": "dff5e6d722c6d6c8255b5a10d050f2e2bd4b7672b0366d502aca88f319265877",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037775&param=informatie",
+  "as_of": "2023-02-01",
+  "made": "2022-09-16",
+  "gazette": "2022-12-09",
+  "numac": 2022033711,
+  "document_start": "2023-02-01",
+  "document_end": null,
+  "in_force": "2023-02-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2023-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
