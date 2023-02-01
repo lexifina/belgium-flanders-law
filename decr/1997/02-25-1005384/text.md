@@ -4524,11 +4524,16 @@ Voor de aanwending van de lestijden samen school maken kunnen de scholen samenwe
 6° in afwijking van punt 5° wordt, voor de berekening van de lestijden volgens de schalen, zoals bepaald in artikel 132, en voor de berekening van de aanvullende lestijden voor elke erkende godsdienst en voor de niet-confessionele zedenleer of voor cultuurbeschouwing, zoals bepaald in artikel 138, § 1, 1°, de coëfficiënt 1,5 toegepast op de leerlingen :<br>
 a) die verblijven in een centrum voor kinderzorg en gezinsondersteuning;<br>
 b) die verblijven in tehuizen voor kinderen van wie de ouders geen vaste verblijfplaats hebben;<br>
-c) ...<br>
+c) die effectief gebruikmaken van een jeugdhulpverleningsbeslissing als vermeld in artikel 2, §1, 28°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp voor verblijf op verwijzing van een gemandateerde voorziening of een Sociale Dienst Jeugdrechtbank;<br>
 d) van wie de ouders tot de trekkende bevolking behoren;<br>
 e) die een zorgthuis hebben.<br>
 De regering bepaalt de wijze waarop wordt vastgesteld of aan die criteria is voldaan.<br>
 De wegingen van 1,5 kunnen niet cumulatief gebeuren;<br>
+6°/1 als voor de toepassing van paragraaf 1, 6°, gegevens op een elektronische wijze worden uitgewisseld met andere overheden, worden de volgende gegevens uitgewisseld:<br>
+a)&nbsp;&nbsp; &nbsp;voor de leerlingen die voldoen aan artikel 3, 28°/1, a) of b), het INSZ-nummer van de leerling en indien van toepassing de aard van de doorverwijzing en de begin- en einddatum van de overeenkomst van verblijf in het multifunctionele centrum, bepaald in het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap en de doorverwijzende instantie;<br>
+b)&nbsp;&nbsp; &nbsp;voor de leerlingen die voldoen aan artikel 3, 28°/1, c), het INSZ-nummer en de einddatum van de status, vermeld in artikel 3, 28°/1, c), en bijkomende gegevens voor leerlingen zonder INSZ-nummer, de voornaam, de familienaam, de geboortedatum, het geslacht, de nationaliteit en het adres van de laatste opvangplaats met het oog op unieke identificatie;<br>
+c)&nbsp;&nbsp; &nbsp;voor de leerlingen die voldoen aan paragraaf 1, 6°, c), het INSZ-nummer van de leerling en indien van toepassing de begin- en einddatum van het voldoen aan de betrokken indicator.<br>
+De gegevens worden verwerkt door de bevoegde dienst van de Vlaamse overheid die instaat voor de berekening van de omkadering en werkingsmiddelen van de scholen. Deze bevoegde dienst is de verwerkingsverantwoordelijke van de gegevens. De maximale bewaartermijn voor deze gegevens is 30 jaar.<br>
 7° in afwijking van punt 5° wordt, voor de berekening van de lestijden volgens de schalen, zoals bepaald in artikel 132, op de leerlingen van vestigingsplaatsen die in het Brussels Hoofdstedelijk Gewest liggen, de coëfficiënt 1,11 toegepast;<br>
 8° in afwijking van punten 5°, 6° en 7° wordt, voor de berekening van de lestijden volgens de schalen, zoals bepaald in artikel 132, op een leerling die in aanmerking komt voor zowel een weging van 1,11 als een weging van 1,5, een weging van 1,665 toegepast;<br>
 9° in afwijking van punt 5° wordt, voor de berekening van de lestijden volgens de schalen, zoals bepaald in artikel 132, op de leerlingen van vestigingsplaatsen die in gemeenten met een bevolkingsdichtheid van minder dan 100 inwoners per vierkante kilometer, de coëfficiënt 1,05 toegepast;<br>
