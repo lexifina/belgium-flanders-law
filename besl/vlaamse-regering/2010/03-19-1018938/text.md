@@ -50,4 +50,51 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/12_1_2.pdf#page=407">Bijlage</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/12_1_2.pdf#page=407">Bijlage</a><br>
+<br>
+<br>
+* Bij BVR van 3 maart 2023, BS 11 augustus 2023, wordt met ingang van 1 februari 2023 een punt 17° toegevoegd aan de bijlage dat luidt als volgt:<br>
+<br>
+17° Met ingang van 1 februari 2023 kan de module die is vermeld in de volgende linkerkolom, individueel geconcordeerd worden naar de opleiding die is vermeld in de volgende rechterkolom:
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Module</td>
+			<td>Opleiding</td>
+		</tr>
+		<tr>
+			<td>Elektriciteit maritieme motoren</td>
+			<td>Aspirant-officier STCW II/3</td>
+		</tr>
+		<tr>
+			<td>Hulpwerktuigen scheepsmachines</td>
+			<td>Aspirant-officier STCW II/3</td>
+		</tr>
+		<tr>
+			<td>Onderhoudstechnieken scheepsmotoren</td>
+			<td>Aspirant-officier STCW II/3</td>
+		</tr>
+		<tr>
+			<td>Pneumatica en hydraulica maritieme</td>
+			<td>Aspirant-officier STCW II/3</td>
+		</tr>
+		<tr>
+			<td>Scheepsmotoren</td>
+			<td>Aspirant-officier STCW II/3</td>
+		</tr>
+		<tr>
+			<td>Toegepaste mechanica maritieme</td>
+			<td>Aspirant-officier STCW II/3</td>
+		</tr>
+		<tr>
+			<td>Warmteleer en koeltechnieken scheepsmachines</td>
+			<td>Aspirant-officier STCW II/3</td>
+		</tr>
+		<tr>
+			<td>Werkplekleren scheepsmachines</td>
+			<td>Aspirant-officier STCW II/3 ".</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+&nbsp;
