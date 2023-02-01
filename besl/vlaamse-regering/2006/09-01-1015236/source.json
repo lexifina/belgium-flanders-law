@@ -2,16 +2,16 @@
   "codex_id": 1015236,
   "title": "Besluit van de Vlaamse Regering van 2006-09-01 betreffende de ambtshalve concordantie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015236/VolledigDocument?datum=2022-09-01",
-  "source_sha256": "0bdc1cb79af7409c95774a7584e58a9cafd1f2f29df1f0dd5cc9247a0d09d52a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015236/VolledigDocument?datum=2023-02-01",
+  "source_sha256": "759e357eae9f039e046e20b2fdf704c39393e5031c27574b725966d3d1c22bf9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015236&param=informatie",
-  "as_of": "2022-09-01",
+  "as_of": "2023-02-01",
   "made": "2006-09-01",
   "gazette": "2006-12-05",
   "numac": 2006036909,
   "document_start": "2005-09-01",
   "document_end": null,
-  "in_force": "2022-09-01",
+  "in_force": "2023-02-01",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2022-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-02-01; future article versions excluded; article text as the API gives it"
 }
