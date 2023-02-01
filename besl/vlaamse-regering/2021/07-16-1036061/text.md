@@ -55,17 +55,15 @@ b) ze zijn ingeschreven in een internaat buitengewoon onderwijs als vermeld in d
 ### ART 2.
 
 § 1. De scholen die, naargelang van het geval, beantwoorden aan de voorwaarde van artikel 226, eerste lid, 1°, of artikel 234, eerste lid, 1°, van de Codex Secundair Onderwijs van 17 december 2010, melden vóór 1 maart van het voorafgaande schooljaar aan AGODI hoeveel regelmatige leerlingen, die ingeschreven zijn op de eerste lesdag van februari van het voormelde schooljaar, beantwoorden aan een of meer van de volgende gelijkekansenindicatoren:<br>
-1° het gezin ontvangt een of meer selectieve participatietoeslagen leerling als vermeld in artikel 3, § 1, 38°, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid, vastgesteld op basis van de toestand vóór 15 juni van het kalenderjaar dat voorafgaat aan het kalenderjaar waarin het schooljaar start waarvoor de middelen worden toegekend. AGODI stelt dit vast op basis van de databanken van het Agentschap Opgroeien;<br>
-2° de leerling bevindt zich in een van de volgende situaties:<br>
-a) de leerling is thuisloze als vermeld in artikel 3, punt 43° /2, a) van de Codex Secundair Onderwijs van 17 december 2010. Het voormelde is vastgesteld op basis van een bewijs van jeugdhulpverleningsbeslissing dat is afgeleverd door een gemandateerde voorziening of een sociale dienst van de jeugdrechtbank;<br>
-b) de leerling is thuisloze als vermeld in artikel 3, punt 43° /2, b) van de Codex Secundair Onderwijs van 17 december 2010. Het voormelde is vastgesteld op basis van een document dat is afgeleverd door een instantie die onafhankelijk is van de school;<br>
+1° ...;<br>
+2° ...;<br>
 3° de ouders behoren tot de trekkende bevolking. Het voormelde wordt vastgesteld op basis van een van de volgende attesten waarover de ouders beschikken:<br>
 a) binnenschipper:<br>
-1) een attest van gezinssamenstelling waaruit blijkt dat beide ouders binnenschipper zijn;<br>
+1) ...;<br>
 2) een kopie van de aanvraag tot vermindering van het kostgeld voor kinderen van wie de ouders geen vaste verblijfplaats hebben;<br>
 3) een attest, afgeleverd door een instantie die onafhankelijk is van de school, waaruit blijkt dat beide ouders tot de beroepsgroep behoren van de binnenschippers;<br>
 b) kermis- en circusexploitanten en -artiesten:<br>
-1) een attest van gezinssamenstelling of een kopie uit het handelsregister waaruit blijkt dat beide ouders kermis- of circusexploitanten of -artiesten zijn;<br>
+1) een kopie uit het handelsregister waaruit blijkt dat beide ouders kermis- of circusexploitanten of -artiesten zijn;<br>
 2) een lidkaart van kermisreiziger of -exploitant;<br>
 3) een kopie van de aanvraag tot vermindering van het kostgeld voor kinderen van wie de ouders geen vaste verblijfplaats hebben;<br>
 4) een attest, afgeleverd door een instantie die onafhankelijk is van de school, waaruit blijkt dat beide ouders tot de beroepsgroep behoren van de kermis- en circusexploitanten en -artiesten;<br>
@@ -79,24 +77,33 @@ d) Romazigeuners:<br>
 4° de moeder is niet in het bezit van een diploma van het secundair onderwijs, een studiegetuigschrift van het tweede leerjaar van de derde graad van het beroepssecundair onderwijs of van een studiebewijs dat daarmee gelijkwaardig is;<br>
 5° de taal die de leerling in het gezin spreekt, is niet het Nederlands, als bedoeld in artikel 225, § 1, 5°, en artikel 233, § 1, 5°, van de Codex Secundair Onderwijs van 17 december 2010.<br>
 <br>
-§ 2. In afwijking van § 1 moeten de scholen voor de in § 1, 4° of 5°, bedoelde gelijkekansenindicator geen melding meer doen voor die regelmatige leerlingen die al gekend zijn bij AGODI, tenzij bij wijziging.
+§ 2. In afwijking van § 1 moeten de scholen voor de in § 1, 4° of 5°, bedoelde gelijkekansenindicator geen melding meer doen voor die regelmatige leerlingen die al gekend zijn bij AGODI, tenzij bij wijziging.<br>
+<br>
+§ 3. AODI stelt vast welke leerlingen aan de volgende gelijke kansenindicatoren beantwoorden:<br>
+1° het gezin ontvangt een of meer selectieve participatietoeslagen leerling als vermeld in artikel 3, §1, 38°, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid, vastgesteld op basis van de toestand vóór 15 juni van het kalenderjaar dat voorafgaat aan het kalenderjaar waarin het schooljaar start waarvoor de middelen worden toegekend. AGODI stelt dit vast op basis van de databanken van het Agentschap Opgroeien;<br>
+2° de indicator leerlingen die een zorgthuis hebben als vermeld in artikel 3, 17°/2/1, van de Codex Secundair Onderwijs van 17 december 2010, wordt vastgesteld door AGODI, de verwerkingsverantwoordelijke, op basis van de databanken van het agentschap Opgroeien, het Vlaams Agentschap voor Personen met een Handicap of Fedasil.&nbsp;<br>
+<br>
+Als er geen automatische data-uitwisseling met het agentschap Opgroeien of het Vlaams Agentschap voor Personen met een Handicap plaatsvindt, wordt het voldoen aan de voormelde indicator leerlingen die een zorgthuis hebben voor de leerlingen, vermeld in artikel 3, 17°/2/1, a), van de voormelde codex, vastgesteld op basis van een bewijs van het gebruik van een jeugdhulpverleningsbeslissing, vermeld in artikel 3, 17°/2/1, a), van de voormelde codex.&nbsp;<br>
+<br>
+Als er geen automatische data-uitwisseling met het agentschap Opgroeien plaatsvindt, wordt het voldoen aan de voormelde indicator leerlingen die een zorgthuis hebben voor de leerlingen, vermeld in artikel 3, 17°/2/1, b), van de voormelde codex, vastgesteld op basis van een bewijs van plaatsing als vermeld in artikel 3, 17°/2/1, b), van de voormelde codex.&nbsp;<br>
+Als er geen automatische data-uitwisseling met Fedasil plaatsvindt, wordt het voldoen aan de voormelde indicator leerlingen die een zorgthuis hebben, voor de leerlingen, vermeld in artikel 3, 17°/2/1, c), van de voormelde codex, vastgesteld op basis van een document dat is afgeleverd door een instantie die onafhankelijk is van de school. De maximale bewaartermijnen voor deze gegevens, die worden bewaard conform artikel 5, lid 1, e), van de Algemene Verordening Gegevensbescherming, worden vastgelegd in beheersregels als vermeld in artikel III.81, §2, van het Bestuursdecreet van 7 december 2018.
 
 ### ART 3.
 
 De gelijkekansenindicatoren, vermeld in artikel 2, hebben de volgende gewichten, uitgedrukt in punten:<br>
-1° de indicator, vermeld in artikel 2, 1° :<br>
-a) niet in combinatie met een of meer van de indicatoren, vermeld in artikel 2, 2° tot en met 5° : 0,40 punten;<br>
-b) alleen in combinatie met de indicator, vermeld in artikel 2, 5° : 0,40 punten;<br>
-c) in combinatie, met uitzondering van de combinatie in punt b), met een of meer van de indicatoren, vermeld in artikel 2, 2° tot en met 5° : 0,18 punten;<br>
-2° de indicator, vermeld in artikel 2, 2° : 0,80 punten;<br>
-3° de indicator, vermeld in artikel 2, 3° : 0,80 punten;<br>
-4° de indicator, vermeld in artikel 2, 4° : 0,60 punten;<br>
-5° de indicator, vermeld in artikel 2, 5° : 0,20 punten enkel in combinatie met een of meer van de indicatoren, vermeld in artikel 2, 1° tot en met 4°.
+1° de indicator, vermeld in artikel 2, §3, 1° :<br>
+a) niet in combinatie met een of meer van de indicatoren, vermeld in artikel 2, §1, 3° tot en met 5° of artikel 2, §3, 2°: 0,40 punten;<br>
+b) alleen in combinatie met de indicator, vermeld in artikel 2, §1, 5° : 0,40 punten;<br>
+c) in combinatie, met uitzondering van de combinatie in punt b), met een of meer van de indicatoren, vermeld in artikel 2, §1, 3° tot en met 5° &nbsp;of artikel 2, §3, 2° : 0,18 punten;<br>
+2° de indicator, vermeld in artikel 2, §3, 2° : 0,80 punten;<br>
+3° de indicator, vermeld in artikel 2, §1, 3° : 0,80 punten;<br>
+4° de indicator, vermeld in artikel 2, §1, 4° : 0,60 punten;<br>
+5° de indicator, vermeld in artikel 2, §1, 5° : 0,20 punten enkel in combinatie met een of meer van de indicatoren, vermeld in artikel 2, §1, 3° en 4° of artikel 2, §3, 1° en 2°.
 
 ### ART 4.
 
 Het aantal punten van een school wordt, afzonderlijk voor enerzijds de eerste graad en het structuuronderdeel onthaaljaar voor anderstalige nieuwkomers en anderzijds de tweede en de derde graad, als volgt vastgesteld:<br>
-1° het aantal regelmatige leerlingen dat alleen voldoet aan de indicator, vermeld in artikel 2, 1°, of dat alleen voldoet aan de combinatie van de indicatoren, vermeld in artikel 2, 1° en 5°, wordt vermenigvuldigd met de coëfficiënt 0,4417;<br>
+1° het aantal regelmatige leerlingen dat alleen voldoet aan de indicator, vermeld in artikel 2, §3, 1°, of dat alleen voldoet aan de combinatie van de indicatoren, vermeld in artikel 2, §3, 1° en artikel 2, §1, 5°, wordt vermenigvuldigd met de coëfficiënt 0,4417;<br>
 2° het maximum van de gecumuleerde gewichten voor een leerling die aan verschillende gelijkekansenindicatoren beantwoordt, is: 1,20 punten;<br>
 3° de optelsom, met toepassing van punt 1° en 2°, van de gewichten van de gelijkekansenindicatoren gegenereerd door de regelmatige leerlingen die beantwoorden aan een of meer van die indicatoren, wordt vermenigvuldigd met de coëfficiënt 1,50 als de school in het tweetalige gebied Brussel-Hoofdstad ligt of een concentratiegraad heeft van ten minste 55 %. Als een school aan beide criteria voldoet, wordt de vermenigvuldiging twee keer toegepast. De concentratiegraad is de procentuele verhouding tussen het aantal regelmatige leerlingen die beantwoorden aan een of meer van de gelijkekansenindicatoren, gecorrigeerd op basis van punt 1°, en het totale aantal regelmatige leerlingen;<br>
 4° het met toepassing van punt 1°, 2° en 3° bekomen totale aantal punten wordt afgerond naar de hogere eenheid als het eerste cijfer na de komma groter dan vier is, en naar de lagere eenheid als het eerste cijfer na de komma kleiner dan of gelijk aan vier is.
