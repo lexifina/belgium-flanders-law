@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038722,
+  "title": "Besluit van de Vlaamse Regering van 2023-03-03 tot wijziging van de regelgeving over de nuttige ervaring, de concordantie en de bekwaamheidsbewijzen en salarisschalen in het volwassenenonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038722/VolledigDocument?datum=2023-02-01",
+  "source_sha256": "988e2ba23e3d1c569938b13ad4f837cdb2b661ffa6899679d3c22c57d5bb1590",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038722&param=informatie",
+  "as_of": "2023-02-01",
+  "made": "2023-03-03",
+  "gazette": "2023-08-11",
+  "numac": 2023041747,
+  "document_start": "2023-02-01",
+  "document_end": null,
+  "in_force": "2023-02-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2023-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
