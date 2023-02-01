@@ -133,4 +133,4 @@ niet opgenomen<br /><br />stelt formulier vast
 
 ### BIJLAGE III
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/12_1_2.pdf#page=146">Bijlage III</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2023/08/11_1.pdf#page=5">Bijlage 3</a>
