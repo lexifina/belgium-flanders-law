@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038083,
+  "title": "Besluit van de Vlaamse Regering van 2023-01-27 tot wijziging van regelgeving over de ondersteuning van personen met een handicap in verband met de integratie van de procedures noodsituatie en maatschappelijke noodzaak",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038083/VolledigDocument?datum=2023-02-01",
+  "source_sha256": "879157e0db44c64ed3c357eb2116d3bb145ca4fbcab102257fc026799a16f74f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038083&param=informatie",
+  "as_of": "2023-02-01",
+  "made": "2023-01-27",
+  "gazette": "2023-03-13",
+  "numac": 2023015247,
+  "document_start": "2023-02-01",
+  "document_end": null,
+  "in_force": "2023-02-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2023-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
