@@ -2480,6 +2480,35 @@ Een afschrift van dit besluit wordt meegedeeld aan het betrokken personeelslid.<
 <br>
 § 9. In afwijking van artikel 33, § 1, gaat de vaste benoeming in op 1 juli 2021 volgend op de vacantverklaring, voor zover de betrekking op die datum nog vacant is.
 
+### ART 84duodetricies.
+
+§1. Voor de toepassing van dit artikel wordt verstaan onder:<br>
+1° een leersteuncentrum: een centrum als vermeld in artikel 20 van het decreet van 5 mei 2023 over leersteun;<br>
+2° de opdracht van ondersteuner: de opdracht, vermeld in artikel 172quinquies, §8, en 172quinquies/1, §6, van het decreet basisonderwijs van 25 februari 1997 en van artikel 314/8, §8, en 314/9, §6, van de Codex Secundair Onderwijs van 17 december 2010;<br>
+3° een betrekking van ondersteuner: een betrekking die is opgericht op basis van de personeelsomkadering, vermeld in artikel 172quinquies en 172quinquies/1 van het decreet basisonderwijs van 25 februari 1997 en artikel 314/8 en 314/9 van de Codex Secundair Onderwijs van 17 december 2010.<br>
+<br>
+§2. In afwijking van titel II, hoofdstuk III, gebeurt de aanstelling in een ambt van het leerondersteunend personeel in een leersteuncentrum op 1 september 2023, van een personeelslid dat tijdens het schooljaar 2022-2023 is aangesteld in een betrekking van ondersteuner, volgens de volgende procedure:<br>
+1° een personeelslid dat tijdens het schooljaar 2022-2023 aangesteld is in een betrekking van ondersteuner, deelt aan de inrichtende macht van de school mee kandidaat te zijn voor een aanstelling in een ambt van het leerondersteunend personeel in het leersteuncentrum van zijn voorkeur. De inrichtende macht beslist over de wijze van kandidaatstelling;<br>
+2° de inrichtende macht van de school stelt per leersteuncentrum een lijst op met de personeelsleden, vermeld in punt 1°. Een personeelslid kan maar op één lijst voorkomen;<br>
+3° de inrichtende macht van de school bezorgt uiterlijk op 5 juni 2023 de lijst of de lijsten, vermeld in punt 2° en in artikel 103sexies decies, §2, 2°, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, met de personeelsleden aan de inrichtende machten van de betreffende leersteuncentra;<br>
+4° de lijst met personeelsleden, vermeld in punt 2°, bevat:<br>
+a)&nbsp;&nbsp; &nbsp;van elk personeelslid de identiteit en contactgegevens;<br>
+b)&nbsp;&nbsp; &nbsp;van elk personeelslid alle diploma’s;<br>
+c)&nbsp;&nbsp; &nbsp;van elk personeelslid het laatst uitgeoefende ambt;<br>
+d)&nbsp;&nbsp; &nbsp;van elk personeelslid het aantal dagen dienstanciënniteit in een betrekking van ondersteuner en in voorkomend geval in een betrekking in het tijdelijke project van de prewaarborgregeling of waarborgregeling, in het geïntegreerd onderwijs of het project inclusief onderwijs voor leerlingen met een verstandelijke beperking;<br>
+e)&nbsp;&nbsp; &nbsp;van elk personeelslid de statutaire toestand: vastbenoemd, ter beschikking gesteld wegens ontstentenis van betrekking, tijdelijk aangesteld voor doorlopende duur, tijdelijk aangesteld voor bepaalde duur;<br>
+f)&nbsp;&nbsp; &nbsp;van elk personeelslid de omvang van de laatste opdracht als ondersteuner;<br>
+g)&nbsp;&nbsp; &nbsp;van elk personeelslid de omvang van de gewenste aanstelling in het leersteuncentrum;<br>
+h)&nbsp;&nbsp; &nbsp;van elk vastbenoemd personeelslid de gewenste statutaire toestand in het leersteuncentrum;<br>
+5° de inrichtende macht van het leersteuncentrum kiest uit de verkregen lijst of lijsten, vermeld in punt 2° en in artikel 103sexies decies, §2, 2°, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, de personeelsleden die op 1 september 2023 zullen worden aangesteld in het leersteuncentrum. Daarbij houdt ze ten minste rekening met de vereiste expertise, vermeld in artikel 8 van het decreet van 5 mei 2023 over leersteun;<br>
+6° uiterlijk op 23 juni 2023 doet de inrichtende macht van het leersteuncentrum via een aangetekende brief of via een e-mail met ontvangstbevestiging een voorstel van aanstelling in een betrekking in een ambt van het leerondersteunend personeel, aan de personeelsleden die ze conform punt 5° geselecteerd heeft. Een personeelslid dat niet akkoord gaat met het voorstel meldt dat op de wijze die wordt bepaald door de inrichtende macht van het leersteuncentrum, binnen vijf werkdagen nadat het personeelslid het voorstel heeft ontvangen;<br>
+7° als de inrichtende macht van het leersteuncentrum beslist om een personeelslid uit de lijst of lijsten, vermeld in punt 2° en in artikel 103sexies decies, §2, 2°, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, niet in aanmerking te nemen, deelt ze dat mee via een aangetekende brief of via een e-mail met ontvangstbevestiging aan het betrokken personeelslid uiterlijk op 23 juni 2023. Ze voegt daarbij een motivering voor die beslissing.<br>
+<br>
+De inrichtende macht van de school voor buitengewoon onderwijs waar het personeelslid tijdens het schooljaar 2022-2023 aangesteld is in een betrekking van ondersteuner, en de inrichtende macht van het leersteuncentrum dat toegang krijgt tot de lijst of lijsten, zijn elk verwerkingsverantwoordelijke voor wat betreft hun opdracht, vermeld in het eerste lid. De verwerkingsverantwoordelijken bewaren de lijsten tot uiterlijk 31 december 2023.<br>
+<br>
+§3. Onverminderd paragraaf 2, eerste lid, 1°, kan een inrichtende macht ook kandidaten toevoegen aan de lijst of lijsten, vermeld in paragraaf 2, tweede lid, 2°, en in artikel 103sexies decies, §2, 2°, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, die diensten hebben gepresteerd in een betrekking van ondersteuner vóór het schooljaar 2022-2023, in het tijdelijke project van de prewaarborgregeling of waarborgregeling of in het geïntegreerd onderwijs of het project inclusief onderwijs voor leerlingen met een verstandelijke beperking. De toevoeging van een kandidaat aan deze lijst gebeurt uitsluitend op vraag van de kandidaat zelf.<br>
+&nbsp;
+
 ## TITEL III ANDERE BEPALINGEN
 
 ### ART. 85.
