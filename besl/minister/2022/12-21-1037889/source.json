@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037889,
+  "title": "Ministerieel besluit van 2022-12-21 tot wijziging van het ministerieel besluit van 22 juni 2018 betreffende het basisnetwerk, de voertuigen, de aantakkingstrajecten en de vergunningen voor LZV in het kader van het tweede proefproject",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037889/VolledigDocument?datum=2023-02-02",
+  "source_sha256": "d90b75c14a84e0b781ea32f0a0957b4c53ac9e9c55112c70381f6f00a558e3f3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037889&param=informatie",
+  "as_of": "2023-02-02",
+  "made": "2022-12-21",
+  "gazette": "2023-01-23",
+  "numac": 2023030287,
+  "document_start": "2023-02-02",
+  "document_end": null,
+  "in_force": "2023-02-02",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2023-02-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
