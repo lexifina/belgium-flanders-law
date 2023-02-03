@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037962,
+  "title": "Besluit van de Vlaamse Regering van 2022-07-15 tot wijziging van het besluit van de Vlaamse Regering van 28 oktober 2005 tot oprichting van het intern verzelfstandigd agentschap \"Agentschap Binnenlands Bestuur\"",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037962/VolledigDocument?datum=2023-02-03",
+  "source_sha256": "015771ef2633aaeab9f36697a01acb7f7936204a13e7ea7761a262633e08192c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037962&param=informatie",
+  "as_of": "2023-02-03",
+  "made": "2022-07-15",
+  "gazette": "2023-01-24",
+  "numac": 2022033028,
+  "document_start": "2023-02-03",
+  "document_end": null,
+  "in_force": "2023-02-03",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2023-02-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
