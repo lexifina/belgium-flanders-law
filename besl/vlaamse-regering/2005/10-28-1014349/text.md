@@ -4,7 +4,12 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° het   Algemeen Delegatiebesluit: het besluit van de Vlaamse Regering van 10 oktober   2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden   van de intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid van de   Vlaamse overheid;<BR>2° het agentschap: het Agentschap&nbsp;Binnenlands   Bestuur;<BR>3° de minister: Vlaamse minister bevoegd voor de binnenlandse   aangelegenheden, het stedenbeleid en het inburgeringsbeleid;<BR>4° de lokale   besturen: de gemeenten, de openbare centra voor maatschappelijk welzijn, de   intergemeentelijke samenwerkingsverbanden, de eredienstinstellingen, de   (autonome) gemeentebedrijven, de OCMW-verenigingen en de gemeentelijke extern   verzelfstandigde agentschappen in privaatrechtelijke vorm;<BR>5° de provinciale   besturen: de provincies, de (autonome) provinciebedrijven en de provinciale   extern verzelfstandigde agentschappen in privaatrechtelijke vorm.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° besluit van 30 oktober 2015: het besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen;<br>
+2° het agentschap: het Agentschap&nbsp;Binnenlands Bestuur;<br>
+3° de minister: Vlaamse minister bevoegd voor de binnenlandse aangelegenheden, het stedenbeleid en het inburgeringsbeleid;<br>
+4° de lokale besturen: de gemeenten, de openbare centra voor maatschappelijk welzijn, de intergemeentelijke samenwerkingsverbanden, de eredienstinstellingen, de (autonome) gemeentebedrijven, de OCMW-verenigingen en de gemeentelijke extern verzelfstandigde agentschappen in privaatrechtelijke vorm;<br>
+5° de provinciale besturen: de provincies, de (autonome) provinciebedrijven en de provinciale extern verzelfstandigde agentschappen in privaatrechtelijke vorm.
 
 ## HOOFDSTUK II Benaming, doelstellingen en taken van het agentschap
 
@@ -12,37 +17,38 @@ Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° het   Algemeen D
 
 Binnen het Vlaamse Ministerie Kanselarij, Bestuur, Buitenlandse Zaken en Justitie wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht, onder de benaming "Agentschap Binnenlands Bestuur".<br>
 <br>
-Het agentschap wordt opgericht voor de beleidsondersteuning en de uitvoering van het beleid inzake de binnenlandse aangelegenheden, met inbegrip van de coördinatie van het beleid met betrekking tot Brussel-Hoofdstad en met betrekking tot de Vlaamse Rand rond Brussel, van het stedenbeleid, van het integratie- en inburgeringsbeleid en voor de beleidsondersteuning conform artikel III.2 van het bestuursdecreet van 7 december 2018.<br>
+Het agentschap wordt opgericht voor:<br>
+1° de beleidsondersteuning, vermeld in artikel 4 van dit besluit, en de uitvoering van het beleid over het binnenlands bestuur en het stedenbeleid, met inbegrip van de coördinatie van het beleid met betrekking tot Brussel-Hoofdstad en met betrekking tot de Vlaamse Rand rond Brussel;<br>
+2° de beleidsondersteuning, vermeld in artikel 4 van dit besluit, en de uitvoering van het beleid, vermeld in artikel 38 van het besluit van de Vlaamse Regering van 29 januari 2016 houdende de uitvoering van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid, inzake de gelijke kansen, de integratie en de inburgering.<br>
 <br>
 Het agentschap behoort tot het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie.
 
 ### ART. 3.
 
-Het agentschap heeft als missie een kader te creëren voor een   kwaliteitsvol, efficiënt en samenhangend Vlaams beleid betreffende het   binnenlands bestuur, met inbegrip van Brussel-Hoofdstad en de Vlaamse Rand rond   Brussel, de steden en de integratie en inburgering, zodat de lokale en   provinciale besturen en de uitvoerders van het integratie- en inburgeringsbeleid   een kwaliteitsvolle dienstverlening aan de burger kunnen bieden.
+Het agentschap heeft als missie mee te bouwen aan duurzaam en democratisch samenleven in diversiteit door burgers en bestuur te verbinden en te versterken.
 
 ### ART. 4.
 
-Het agentschap heeft onder meer tot taak het uitvoeren van een samenhangend beleid inzake de lokale en de provinciale besturen en het stedenbeleid, en het verticale beleid inzake gelijke kansen en inzake integratie en inburgering, met inbegrip van het evalueren en het formuleren van voorstellen tot aanpassing en bijsturing, inzonderheid op het vlak van:<br>
-1° de bestuurlijke regelgeving betreffende de lokale en de provinciale besturen, met inbegrip van het aanbieden van ondersteuning aan die besturen in dat verband en het formuleren van voorstellen, onder meer naar aanleiding van vaststellingen ter gelegenheid van de beleidsuitvoering;<br>
-2° de verdeling en het beheer van de financieringsfondsen ten behoeve van de lokale en provinciale besturen;<br>
-3° de organisatie van de verkiezingen voor de gemeente- en provincieraden en van de betrokkenheid van de Vlaamse overheid bij de verkiezingen van het Vlaamse Parlement;<br>
-4° de dossierbehandeling in het kader van de uitvoering van het administratief toezicht op de lokale en provinciale besturen, voorafgaand aan de beslissingsbevoegdheid van de minister, de gouverneur en de commissarissen van de Vlaamse Regering;<br>
-5° het stedenbeleid;<br>
-6° de begraafplaatsen en de lijkbezorging;<br>
-7° de werking van de eredienstinstellingen;<br>
-8° het integratie- en inburgeringsbeleid;<br>
-8° /1 het gelijkekansenbeleid;<br>
-9° de ondersteuning van de gouverneurs bij de uitoefening van hun bestuurskundige opdrachten ten behoeve van de Vlaamse Regering;<br>
-10° de ontwikkeling van een kenniscentrum inzake de lokale en provinciale besturen;<br>
-11° de coördinatie van het beleid met betrekking tot Brussel-Hoofdstad;<br>
-12° de coördinatie van het beleid met betrekking tot de Vlaamse Rand rond Brussel.<br>
-13° het permanent verbeteren van de interbestuurlijke samenwerking door de entiteiten van de Vlaamse overheid te ondersteunen bij het proactief in kaart brengen van de weerslag op de lokale besturen van regelgeving en de daarmee samenhangende processen en interacties, in samenwerking met het agentschap Digitaal Vlaanderen.<br>
-<br>
-Voor de beleidsondersteuning van het integratie- en inburgeringsbeleid vervult het agentschap de taken, vermeld in artikel 30, § 1 en § 2, 1°, a), b), en c), en 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.
+Het agentschap heeft als taak het ondersteunen van het beleid, vermeld in artikel 30, § 1 en § 2, 1°, a), b), en c), en 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie inzake de volgende beleidsvelden:<br>
+1° gelijke kansen en integratie en inburgering als vermeld in artikel 3, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+2° Brussel als vermeld in artikel 3, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+3° Vlaamse rand als vermeld in artikel 3, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+4° binnenlands bestuur en stedenbeleid als vermeld in artikel 3, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, met betrekking tot de volgende bevoegdheden:<br>
+a) de binnenlandse aangelegenheden, vermeld in artikel 6, § 1, VIII, en artikel 7 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen met inbegrip van:<br>
+1) het overleg met andere beleidsdomeinen;<br>
+2) de bestuurlijke organisatie van en het administratief toezicht op de lokale en provinciale besturen;<br>
+3) het aanbieden van ondersteuning aan de lokale en provinciale besturen;<br>
+4) de controle van de lokale geloofsgemeenschappen en de besturen van de eredienst, vermeld in artikel 18 van het Erkenningsdecreet Lokale Geloofsgemeenschappen van 22 oktober 2021;<br>
+5) de betrokkenheid van de Vlaamse overheid bij de verkiezingen van het Vlaamse Parlement;<br>
+6) de ondersteuning van de gouverneurs bij de uitoefening van hun bestuurskundige opdrachten voor de Vlaamse Regering;<br>
+7) de ontwikkeling van een kenniscentrum inzake de lokale en provinciale besturen;<br>
+8) het permanent verbeteren van de interbestuurlijke samenwerking door de entiteiten van de Vlaamse overheid te ondersteunen bij het proactief in kaart brengen van de weerslag op de lokale besturen van regelgeving en de daarmee samenhangende processen en interacties, in samenwerking met het agentschap Digitaal Vlaanderen;<br>
+b) het gebruik van de talen in de lokale besturen;<br>
+c) het stedenbeleid.
 
 ### ART. 5.
 
-Naast de inhoud, vermeld in artikel III.61 van het bestuursdecreet van 7 december 2018, regelt het ondernemingsplan ook de concretisering van de kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, beschreven aan de hand van meetbare criteria.
+Het agentschap stelt jaarlijks een ondernemingsplan op als vermeld in artikel III.61 van het Bestuursdecreet van 7 december 2018.
 
 ### ART. 6.
 
@@ -66,11 +72,11 @@ Het hoofd van het agentschap is belast met de algemene leiding, de werking en de
 
 ### ART. 10.
 
-Het hoofd van het agentschap heeft delegatie van beslissingsbevoegdheid voor de aangelegenheden die zijn vastgesteld in het Algemeen Delegatiebesluit.
+Het hoofd van het agentschap heeft delegatie van beslissingsbevoegdheid voor de aangelegenheden, vermeld in het besluit van 30 oktober 2015.
 
 ### ART. 11.
 
-Naast de delegaties betreffende de aangelegenheden bedoeld in artikel 9 van het Algemeen Delegatiebesluit, worden aan het hoofd van het agentschap de volgende specifieke delegaties verleend:<br /><br />1° namens de Vlaamse minister, de ondertekening van betalingsborderellen en voorschotten in verband met het Gemeentefonds en het Provinciefonds;<br /><br />2° namens de Vlaamse minister, de terugbetaling van de geprefinancierde trekkingsrechten en de door de prefinanciering ontstane debetintresten van het Investeringsfonds, zoals bedoeld bij decreet van 20 maart 1991.
+Naast de delegaties voor de aangelegenheden, vermeld in artikel 9 van het besluit van 30 oktober 2015, wordt aan het hoofd van het agentschap de specifieke delegatie verleend om namens de minister, de voorschotten en de saldi in het kader van de algemene financiering aan de lokale en provinciale besturen, vermeld in de desbetreffende regelgeving, uit te betalen.
 
 ### ART. 12.
 
