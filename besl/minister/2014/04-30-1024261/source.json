@@ -2,16 +2,16 @@
   "codex_id": 1024261,
   "title": "Ministerieel besluit van 2014-04-30 tot uitvoering van het besluit van de Vlaamse Regering van 21 april 2014 tot toekenning van steun aan ondernemingen ter compensatie van indirecte emissiekosten",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024261/VolledigDocument?datum=2014-05-01",
-  "source_sha256": "b6c6c51fe195165e5dc7530315fcc7ce060d4077040a4a3f6ca951547a8bb730",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024261/VolledigDocument?datum=2023-02-03",
+  "source_sha256": "0afcfc780c5a3b21a698277f788020b745939351982d1c71cae79390994fa3c4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024261&param=informatie",
-  "as_of": "2014-05-01",
+  "as_of": "2023-02-03",
   "made": "2014-04-30",
   "gazette": "2014-07-02",
   "numac": 2014203372,
   "document_start": "2014-05-01",
   "document_end": "2023-02-02",
-  "in_force": "2014-05-01",
+  "in_force": "2023-02-03",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2014-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-02-03; future article versions excluded; article text as the API gives it"
 }
