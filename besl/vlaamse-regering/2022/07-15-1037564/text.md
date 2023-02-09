@@ -37,20 +37,25 @@ DE VLAAMSE REGERING BESLUIT:
 
 De kredieten ingeschreven onder de begrotingsartikelen van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022 worden herverdeeld overeenkomstig onderstaande tabel:<br>
 <br>
-(in euro)
+(in euro)<br>
+&nbsp;
 <table border="1">
 	<tbody>
 		<tr>
-			<td colspan="" rowspan="2>">Begrotingsartikel</td>
-			<td rowspan="2">Ent.</td>
-			<td rowspan="2">Basisall.</td>
-			<td rowspan="2">ESR</td>
+			<td>Begrotingsartikel</td>
+			<td>Ent.</td>
+			<td>Basisall.</td>
+			<td>ESR</td>
 			<td>Van</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;Naar</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 			<td>VAK</td>
 			<td>VEK</td>
 			<td>VAK</td>
@@ -61,8 +66,8 @@ De kredieten ingeschreven onder de begrotingsartikelen van de uitgavenbegroting 
 			<td>CB0</td>
 			<td>1CB038</td>
 			<td>0100</td>
-			<td>576.695.826,16</td>
-			<td>576.695.826,16</td>
+			<td>566.695.826,16</td>
+			<td>566.695.826,16</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 		</tr>
