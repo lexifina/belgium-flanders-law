@@ -349,4 +349,4 @@ Dit   besluit treedt in werking op 1 april 2016.
 
 ### BIJLAGE 2
 
-<a href="https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037854&amp;param=inhoud&amp;AID=1315165">Bijlage 2. De lijst van ondernemerschapsbevorderende diensten die gericht zijn op de beroepsspecifieke competenties, vermeld in artikel 4/3</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2023/06/23_1.pdf#page=42">Link naar bijlage 2</a>
