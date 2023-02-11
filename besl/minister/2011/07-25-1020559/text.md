@@ -47,4 +47,6 @@ Dit besluit treedt in werking drie maanden na de bekendmaking ervan in het Belgi
 - In artikel 7.6.1.1 van de bijlage, wordt de zinsnede "Vanaf 1 januari 2020 mag de certificaathouder het puin dat hij als LMRP heeft geaccepteerd, niet meer als HMRP verwerken." vervangen door de zinsnede "Vanaf 1 januari 2022 mag de certificaathouder het puin dat hij als LMRP heeft geaccepteerd, niet meer als HMRP verwerken.".<br>
 <br>
 * Bij MB van 14 december 2021, BS 27 januari 2022 worden de volgende wijzigingen aangebracht met ingang van 6 februari 2022:<br>
--&nbsp;het jaartal "2022" wordt vervangen door het jaartal "2023";</p>
+-&nbsp;het jaartal "2022" wordt vervangen door het jaartal "2023";<br>
+<br>
+*Bij MB van 2 december 2022, BS 1 februari 2023 wordt in artikel 7.6.1.1 met ingang van 11 februari 2023 de volgende zin opgeheven: “Vanaf 1 januari 2023 mag de certificaathouder het puin dat hij als LMRP heeft geaccepteerd, niet meer als HMRP verwerken".</p>
