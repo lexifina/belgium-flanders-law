@@ -22,6 +22,25 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 5.
+
+In artikel VII 85septies, eerste lid, van hetzelfde besluit, ingevoegd bij het be-sluit van de Vlaamse Regering van 6 september 2019, worden tussen het woord “overnachting” en het woord “worden”, de woorden “en het ontbijt” in-gevoegd.
+
+### ART 6.
+
+In artikel VII 85octies van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 6 september 2019, worden de volgende wijzigin-gen aangebracht:<br>
+1° in het eerste lid worden tussen het woord “overnachting” en de woorden “ter plaatse” de woorden “en het ontbijt” ingevoegd;<br>
+2° in het tweede lid worden tussen het woord “overnachting” en het woord “zelf” de woorden “en het ontbijt” ingevoegd.
+
+### ART 7.
+
+In artikel VII 85novies van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 6 september 2019, worden de volgende wijzigingen aangebracht:<br>
+1° in §2 worden na het woord “maaltijden” de woorden “met uitzondering van de ontbijtkosten” ingevoegd, en wordt het woord “kleine” geschrapt;<br>
+2° in §5 worden volgende wijzigingen aangebracht:<br>
+a. het woord “kleine” wordt vervangen door het woord “andere”;<br>
+b. punt 1° wordt geschrapt, en de andere punten worden hernummerd;<br>
+c. in huidig punt 4°, dat punt 3° wordt, &nbsp;wordt “5%” vervangen door “20%” en wordt het woord “kleine” vervangen door “andere”.
+
 ### ART 10.
 
 In artikel XI 8bis, §1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 26 april 2019, worden de volgende wijzigingen aangebracht:<br>
