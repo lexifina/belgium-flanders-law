@@ -14,6 +14,31 @@
 
 ## Afdeling 3. Casemanager Werk en casemanagers Zorg
 
+### ART 12.
+
+§ 1. De Vlaamse Regering mandateert in het kader van een openbaredienstverplichting per werkingsgebied een samenwerkingsverband Zorg dat bestaat uit drie welzijns- en zorgvoorzieningen die de functie van casemanager Zorg opnemen en de opdrachten, vermeld in artikel 14, § 2, uitvoeren.<br>
+<br>
+Een samenwerkingsverband Zorg, vermeld in het eerste lid, voldoet aan de volgende mandaatvoorwaarden:<br>
+1° per werkingsgebied is er:<br>
+a) een centrum voor algemeen welzijnswerk of een OCMW of een dienst maatschappelijk werk van het ziekenfonds;<br>
+b) een VAPH-voorziening;<br>
+c) een van de volgende voorzieningen uit de geestelijke gezondheidszorg:<br>
+1) een centrum voor geestelijke gezondheidszorg;<br>
+2) een psychiatrisch ziekenhuis;<br>
+3) een revalidatiecentrum;<br>
+4) een initiatief van beschut wonen;<br>
+2° de welzijns- en zorgvoorzieningen van het gemandateerd samenwerkingsverband Zorg, vermeld in het eerste lid, tonen aan dat ze beschikken over professionele deskundigheid om de zorgbehoeften van de deelnemer in het kader van het activeringstraject te verkennen;<br>
+3° het gemandateerd samenwerkingsverband Zorg, vermeld in het eerste lid, toont aan dat het de opdrachten kan opnemen in het volledige werkingsgebied;<br>
+4° de welzijns- en zorgvoorzieningen van het gemandateerd samenwerkingsverband Zorg, vermeld in het eerste lid, verzekeren de continuïteit van de uitvoering van de opdrachten van het casemanagementteam ten aanzien van de deelnemer op het vlak van zorg.<br>
+<br>
+De Vlaamse Regering bepaalt wat onder werkingsgebied als vermeld in het eerste lid en het tweede lid, 1°, wordt verstaan.<br>
+<br>
+De Vlaamse Regering bepaalt wat onder professionele deskundigheid, vermeld in het tweede lid, 2°, wordt verstaan.<br>
+<br>
+De Vlaamse Regering kan aanvullende mandaatvoorwaarden bepalen.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt de procedure voor de aanvraag, goedkeuring en toekenning van het mandaat en bepaalt de duur ervan.
+
 ### ART 13.
 
 § 1. De VDAB bekleedt de functie van casemanager Werk.<br>
@@ -84,3 +109,7 @@ De Vlaamse Regering kan aanvullende mandaatvoorwaarden bepalen.<br>
 ## HOOFDSTUK 9. Wijziging van het decreet van 30 april 2004 houdende sociaalrechtelijk toezicht
 
 ## HOOFDSTUK 10. Slotbepalingen
+
+### ART 39.
+
+De Vlaamse Regering bepaalt de maatregelen die nodig zijn voor de overgang van de regelgeving, vermeld in artikel 38.
