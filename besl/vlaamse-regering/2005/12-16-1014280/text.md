@@ -117,10 +117,10 @@ Het hoofd van het agentschap is belast met de algemene leiding, de werking en de
 
 ### ART. 8.
 
-Met toepassing van artikel 18 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde agentschappen van de Vlaamse Overheid, worden aan het hoofd van het agentschap de volgende aanvullende en specifieke delegaties verleend:<br>
+Met toepassing van artikel 19 van het besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen, worden aan het hoofd van het agentschap de volgende aanvullende en specifieke delegaties verleend:<br>
 1° op het volledige grondgebied van het Vlaamse Gewest de functie uit te oefenen van gewestelijke ambtenaar, vermeld in:<br>
-a) artikel 24, 3°, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996;<br>
-b) artikel 15 van het decreet van 4 februari 1997 houdende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers;<br>
+a) ...;<br>
+b) ...;<br>
 c) artikel 1.3, § 1, eerste lid, 18°, van de Vlaamse Codex Wonen van 2021;<br>
 2° gewestelijke ambtenaren als vermeld in 1° aan te stellen en hun werkingsgebied vast te stellen;<br>
 3° alle in het ondernemingsplan nominatief opgenomen gereglementeerde subsidies, toelagen, premies en tegemoetkomingen te verlenen binnen het daartoe ter beschikking gestelde budget.<br>
