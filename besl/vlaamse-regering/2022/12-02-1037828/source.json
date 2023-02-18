@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037828,
+  "title": "Besluit van de Vlaamse Regering van 2022-12-02 tot toekenning van een subsidie in het kader van het Relanceplan ‘Vlaamse Veerkracht’ voor werken aan de site Thermae Palace in Oostende",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037828/VolledigDocument?datum=2023-02-18",
+  "source_sha256": "dcf4884a4804fb078a6523eaddceb902f81810b853099bc29fc0c403920ac948",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037828&param=informatie",
+  "as_of": "2023-02-18",
+  "made": "2022-12-02",
+  "gazette": "2023-02-08",
+  "numac": 2022043256,
+  "document_start": "2023-02-18",
+  "document_end": null,
+  "in_force": "2023-02-18",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2023-02-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
