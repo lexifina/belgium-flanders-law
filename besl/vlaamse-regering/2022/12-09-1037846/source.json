@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037846,
+  "title": "Besluit van de Vlaamse Regering van 2022-12-09 tot herverdeling van loonkredieten tussen het agentschap Onroerend Erfgoed en het Instituut voor Natuur- en Bosonderzoek voor het begrotingsjaar 2022",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037846/VolledigDocument?datum=2023-02-18",
+  "source_sha256": "529b098810ceb8a2d94a92783e367093a7714b34b6ddade9c96fa18597b7a02b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037846&param=informatie",
+  "as_of": "2023-02-18",
+  "made": "2022-12-09",
+  "gazette": "2023-02-08",
+  "numac": 2022043434,
+  "document_start": "2023-02-18",
+  "document_end": null,
+  "in_force": "2023-02-18",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-02-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
