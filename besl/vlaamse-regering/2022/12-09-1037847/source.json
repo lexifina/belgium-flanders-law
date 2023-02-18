@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037847,
+  "title": "Besluit van de Vlaamse Regering van 2022-12-09 tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2022",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037847/VolledigDocument?datum=2023-02-18",
+  "source_sha256": "812837e5be762398e02ae5af621c3093d18108b84e523fab622be20568cd1f25",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037847&param=informatie",
+  "as_of": "2023-02-18",
+  "made": "2022-12-09",
+  "gazette": "2023-02-08",
+  "numac": 2022043433,
+  "document_start": "2023-02-18",
+  "document_end": null,
+  "in_force": "2023-02-18",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-02-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
