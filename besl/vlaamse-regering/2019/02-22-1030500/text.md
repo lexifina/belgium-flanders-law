@@ -102,7 +102,7 @@ De organisator meldt aan&nbsp;het agentschap de effectieve vermindering van het 
 
 ### ART 12/1.
 
-Het agentschap maakt in 2021 een oproep bekend voor de toekenning van bijkomende subsidies in het kader van het vernieuwende project voor de aanwerving van 244 voltijdsequivalente kinderbegeleiders in de private sector en 27,77 voltijdsequivalente kinderbegeleiders in de publieke sector en voor de vervanging van de vrijgekomen voltijdsequivalente kinderbegeleiders, vermeld in artikel 4/1.
+Het agentschap maakt in 2021 een oproep bekend voor de toekenning van bijkomende subsidies in het kader van het vernieuwende project voor de aanwerving van 247,5 voltijdsequivalente kinderbegeleiders in de private sector en 27,77 voltijdsequivalente kinderbegeleiders in de publieke sector en voor de vervanging van de vrijgekomen voltijdsequivalente kinderbegeleiders, vermeld in artikel 4/1.
 
 ### ART 13.
 
