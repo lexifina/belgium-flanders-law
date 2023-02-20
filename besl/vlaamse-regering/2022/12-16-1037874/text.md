@@ -52,6 +52,12 @@ In artikel 12/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse 
 3° in het tweede lid, 1°, wordt het bedrag “13,61 euro” vervangen door het bedrag “17,06 euro”;<br>
 4° in het tweede lid, 2°, wordt het bedrag “0,16 euro” vervangen door het bedrag “0,19 euro”.
 
+### ART 4.
+
+In artikel 14/2, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 11 maart 2022, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 4° wordt punt d) opgeheven;&nbsp;<br>
+2° in punt 5° worden de woorden “tijdens of” opgeheven.
+
 ### ART 5.
 
 Aan artikel 19/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 14 januari 2022, wordt een tweede lid toegevoegd, dat luidt als volgt:&nbsp;<br>
@@ -60,9 +66,25 @@ Aan artikel 19/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse
 
 ## Hoofdstuk 2. Wijzigingen van het besluit van de Vlaamse Regering van 23 februari 2018 houdende toekenning van een subsidie aan het ondersteuningsnetwerk kinderopvang
 
+### ART 6.
+
+In artikel 4/1, tweede lid, van het besluit van de Vlaamse Regering van 23 februari 2018 houdende toekenning van een subsidie aan het ondersteuningsnetwerk kinderopvang, ingevoegd bij het besluit van de Vlaamse Regering van 11 maart 2022, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 4° wordt punt d) opgeheven;&nbsp;<br>
+2° in punt 5° worden de woorden “tijdens of” opgeheven.
+
 ## Hoofdstuk 3. Wijzigingen van het besluit van de Vlaamse Regering van 22 februari 2019 houdende de toekenning van een subsidie aan pools gezinsopvang
 
+### ART 7.
+
+In artikel 3/1, tweede lid, van het besluit van de Vlaamse Regering van 22 februari 2019 houdende de toekenning van een subsidie aan pools gezinsopvang, ingevoegd bij het besluit van de Vlaamse Regering van 11 maart 2022, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 4° wordt punt d) opgeheven;&nbsp;<br>
+2° in punt 5° worden de woorden “tijdens of” opgeheven.
+
 ## Hoofdstuk 4. Wijziging van het besluit van 22 februari 2019 houdende de toekenning van een subsidie voor een vernieuwend project werknemersstatuut van de kinderbegeleider gezinsopvang
+
+### ART 8.
+
+In artikel 12/1 van het besluit van 22 februari 2019 houdende de toekenning van een subsidie voor een vernieuwend project werknemersstatuut van de kinderbegeleider gezinsopvang, ingevoegd bij het besluit van de Vlaamse Regering van 14 januari 2022, wordt het getal “244” vervangen door het getal “247,5”.
 
 ## Hoofdstuk 5. Wijziging van het besluit van 14 oktober 2022 tot toekenning van een subsidie voor het jaar 2022 in het kader van het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021-2025 aan GSD-V voor de realisatie van de kwaliteitsondersteuning op de werkvloer van de organistoren kinderopvang en kleuteropvang die een openbaar bestuur zijn
 
@@ -71,3 +93,13 @@ Aan artikel 19/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse
 In artikel 1 van het besluit van 14 oktober 2022 tot toekenning van een subsidie voor het jaar 2022 in het kader van het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021-2025 aan GSD-V voor de realisatie van de kwaliteitsondersteuning op de werkvloer van de organisatoren kinderopvang en kleuteropvang die een openbaar bestuur zijn wordt het bedrag “3.722.518,76” vervangen door het bedrag “3.798.158,14”.
 
 ## Hoofdstuk 6. Slotbepalingen
+
+### ART 10.
+
+Dit besluit treedt in werking op de tiende dag die volgt op de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van artikel 1 dat in werking treedt op 1 januari 2023.<br>
+<br>
+Artikel 2, 3, 5 en 9 hebben uitwerking met ingang van 1 januari 2022.
+
+### ART 11.
+
+De Vlaamse minister, bevoegd voor opgroeien, is belast met de uitvoering van dit besluit.
