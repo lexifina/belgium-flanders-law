@@ -187,8 +187,8 @@ d) het inclusief omgaan met kinderen met specifieke zorgbehoeften en kinderen ui
 a) deze te detecteren;<br>
 b) deze te bespreken met de organisator;<br>
 c) deze samen met de organisator mee op te volgen in functie van het herstel van de veiligheid;<br>
-d) het agentschap te informeren als er door de organisator geen passend gevolg gegeven wordt aan de bespreking en de opvolging vermeld in punt b) en c);<br>
-5° ondersteuning bieden tijdens of na afloop van een bezoek van Zorginspectie in het kader van een begeleidings- of opvolgingstraject van het agentschap en dit binnen de opdrachten van de ondersteuner als vermeld in deze bepaling.<br>
+d) ...;<br>
+5° ondersteuning bieden na afloop van een bezoek van Zorginspectie in het kader van een begeleidings- of opvolgingstraject van het agentschap en dit binnen de opdrachten van de ondersteuner als vermeld in deze bepaling.<br>
 <br>
 De ondersteuning van de kinderbegeleiders houdt rekening met het pedagogisch raamwerk dat in september 2014 is ontwikkeld door de vakgroep sociale agogiek van de universiteit Gent en het expertisecentrum ervaringsgericht onderwijs van de Katholieke Universiteit Leuven, in opdracht van het agentschap.
 
