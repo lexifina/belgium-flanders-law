@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037875,
+  "title": "Ministerieel besluit van 2022-12-09 houdende vaststelling van het projectuitvoeringsplan 4 van het natuurinrichtingsproject Zoerselbos",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037875/VolledigDocument?datum=2023-02-23",
+  "source_sha256": "37b647cd5c01d7327291731e8bf8139f62affd7dc2f80daa87d90f72ff2ce2bd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037875&param=informatie",
+  "as_of": "2023-02-23",
+  "made": "2022-12-09",
+  "gazette": "2023-02-13",
+  "numac": 2023030125,
+  "document_start": "2023-02-23",
+  "document_end": null,
+  "in_force": "2023-02-23",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-02-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
