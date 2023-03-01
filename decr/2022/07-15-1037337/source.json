@@ -2,16 +2,16 @@
   "codex_id": 1037337,
   "title": "Decreet van 2022-07-15 tot wijziging van de wet van 8 april 1965 betreffende de jeugdbescherming, het decreet van 12 juli 2013 betreffende de integrale jeugdhulp en het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht, met het oog op de inwerkingtreding van de gesloten oriëntatie en de gesloten begeleiding in de gemeenschapsinstellingen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037337/VolledigDocument?datum=2023-02-28",
-  "source_sha256": "01188c58254b306a9c37b2bc91d94eb4a0953362169e3d662b7cadad4b17d597",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037337/VolledigDocument?datum=2023-03-01",
+  "source_sha256": "d6191dd673e924b59fb3c4520296c900126540feed840de0b7cc261866fa8916",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037337&param=informatie",
-  "as_of": "2023-02-28",
+  "as_of": "2023-03-01",
   "made": "2022-07-15",
   "gazette": "2022-08-16",
   "numac": 2022033029,
   "document_start": "2023-03-01",
   "document_end": null,
-  "in_force": "2023-02-28",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2023-02-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-03-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2023-03-01; future article versions excluded; article text as the API gives it"
 }
