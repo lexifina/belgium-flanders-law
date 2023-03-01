@@ -495,8 +495,8 @@ b) er zijn voldoende aanwijzingen dat de minderjarige, vermeld in a), zich in ee
 10° voor ten hoogste één jaar de functie beveiligend verblijf opleggen;<br>
 11° uitzonderlijk en voor ten hoogste één jaar de minderjarige toevertrouwen aan een geschikte open inrichting die niet behoort tot het toepassingsgebied zoals vermeld in artikel 3;<br>
 12° voor ten hoogste één jaar de minderjarige toevertrouwen aan een psychiatrische inrichting, als dat na een psychiatrische expertise noodzakelijk blijkt;<br>
-13° uitzonderlijk en voor ten hoogste één jaar de minderjarige toevertrouwen aan een afdeling van een gemeenschapsinstelling;<br>
-14° uitzonderlijk en voor ten hoogste drie maanden de minderjarige die de leeftijd van veertien jaar heeft bereikt, toevertrouwen aan een geschikte gesloten inrichting, als wordt aangetoond dat de minderjarige zich aan de maatregelen, vermeld in punt 9° tot en met 13°, tweemaal of meer heeft onttrokken en dat die maatregel noodzakelijk is voor het behoud van de integriteit van de persoon van de minderjarige.<br>
+13° ...;<br>
+14° ...<br>
 <br>
 De jeugdrechter en de jeugdrechtbank bepalen de jeugdhulpaanbieder bij wie de functie dient opgenomen te worden en, wanneer aangewezen, vermelden zij de bijhorende typemodules.<br>
 <br>
