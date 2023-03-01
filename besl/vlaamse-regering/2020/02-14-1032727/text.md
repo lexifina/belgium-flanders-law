@@ -34,13 +34,12 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Het aantal kandidaten dat gunstig gerangschikt kan worden, bedraagt 1276 voor het toelatingsexamen arts en 180 voor het toelatingsexamen tandarts.
+...
 
 ### ART 2.
 
-Dit besluit treedt in werking op 1 maart 2020.<br>
-&nbsp;
+...
 
 ### ART 3.
 
-De Vlaamse minister, bevoegd voor onderwijs en vorming, is belast met de uitvoering van dit besluit.
+...

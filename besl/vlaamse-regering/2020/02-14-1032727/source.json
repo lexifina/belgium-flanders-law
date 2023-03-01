@@ -2,16 +2,16 @@
   "codex_id": 1032727,
   "title": "Besluit van de Vlaamse Regering van 2020-02-14 tot vastlegging van het startquotum voor de opleiding arts en voor de opleiding tandarts",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032727/VolledigDocument?datum=2020-03-01",
-  "source_sha256": "37d18d36297c2b7601bb8548093c3c42b40cc57abd470f1b18d60d3c53de97ab",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032727/VolledigDocument?datum=2023-03-01",
+  "source_sha256": "f102abb6d3103e77fdf039c6856d6e64d7fd93fc4e15eb6fbca22bb5073caba7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032727&param=informatie",
-  "as_of": "2020-03-01",
+  "as_of": "2023-03-01",
   "made": "2020-02-14",
   "gazette": "2020-03-17",
   "numac": 2020020529,
   "document_start": "2020-03-01",
   "document_end": "2023-02-28",
-  "in_force": "2020-03-01",
+  "in_force": "2023-03-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2020-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-03-01; future article versions excluded; article text as the API gives it"
 }
