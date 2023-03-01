@@ -2,16 +2,16 @@
   "codex_id": 1031874,
   "title": "Besluit van de Vlaamse Regering van 2019-04-05 tot inrichting van de gemeenschapsinstellingen en tot uitvoering van diverse bepalingen van het decreet betreffende het jeugddelinquentierecht",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031874/VolledigDocument?datum=2020-08-15",
-  "source_sha256": "2b7eac1aee2dd5e2b14ba288374c2a544f34bf2f0344f86eca7dc85db933c2f2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031874/VolledigDocument?datum=2023-03-01",
+  "source_sha256": "fd6568ebee17909eed65bb09bc1444b633f1885597b7b55da6dde9512a798cc7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031874&param=informatie",
-  "as_of": "2020-08-15",
+  "as_of": "2023-03-01",
   "made": "2019-04-05",
   "gazette": "2019-07-03",
   "numac": 2019013427,
   "document_start": "2019-09-01",
   "document_end": null,
-  "in_force": "2020-08-15",
+  "in_force": "2023-03-01",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2020-08-15; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-03-01; future article versions excluded; article text as the API gives it"
 }

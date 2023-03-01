@@ -46,10 +46,13 @@ Besluit :
 
 Het bewijs van de naleving van de voorwaarden, vermeld in artikel 11, § 1, tweede lid, 3°, 4°, 5° en 6°, van het decreet van 15 februari 2019, wordt geleverd door de diensten die belast zijn met de uitvoering van de voorwaarden.<br>
 <br>
-Het bewijs, vermeld in het eerste lid, bestaat uit een verslag dat maandelijks bezorgd wordt aan de procureur des Konings. In het verslag worden de volgende elementen opgenomen :<br>
+De dienst, vermeld in het eerste lid, levert het bewijs aan de procureur des Koning dat de voorwaarden een aanvang hebben genomen. Dat bewijs bestaat uit:<br>
 1° de identificatiegegevens van de minderjarige verdachte;<br>
-2° de aanwezigheid van de minderjarige verdachte;<br>
-3° een beschrijving van de voortgang van de opgelegde voorwaarde en de inzet van de vermelde minderjarige.<br>
+2° de mededeling dat de voorwaarden een aanvang hebben genomen;<br>
+<br>
+Na de uitvoering van de voorwaarden stelt de dienst, vermeld in het eerste lid, een eindverslag op in de vorm van een attestering waaruit blijkt dat de minderjarige verdachte de vastgelegde voorwaarden heeft nageleefd en bezorgt dat aan de procureur des Konings.<br>
+<br>
+Zodra blijkt dat de voorwaarden niet of niet volledig worden nageleefd, licht de dienst, vermeld in het eerste lid, de procureur des Konings daarvan in, alsook van de reden van de niet-naleving.<br>
 <br>
 De informatie die schade kan berokkenen aan de minderjarige verdachte of aan het slachtoffer, wordt niet opgenomen in het verslag, vermeld in het tweede lid.
 
@@ -62,28 +65,23 @@ De informatie die schade kan berokkenen aan de minderjarige verdachte of aan het
 Er worden drie gemeenschapsinstellingen opgericht :<br>
 1° gemeenschapsinstelling De Kempen, met zetel in Mol, samengesteld uit de campus De Hutten en de campus De Markt;<br>
 2° gemeenschapsinstelling De Zande, met zetel in Ruiselede, samengesteld uit de campus Ruiselede, de campus Beernem en de campus Wingene;<br>
-3° gemeenschapsinstelling De Grubbe, met zetel in Kortenberg, met toepassing van de wet van 1 maart 2002 betreffende de voorlopige plaatsing van minderjarigen die een als misdrijf omschreven feit hebben gepleegd.
+3° gemeenschapsinstelling De Grubbe, met zetel in Kortenberg.
 
 ## Afdeling 2. Capaciteit
 
 ### ART 4.
 
-De minister bepaalt de maximumcapaciteit van elke gemeenschapsinstelling, alsook de organisatie en capaciteit van de verschillende afdelingen.
+De minister bepaalt de organisatie van de capaciteit en de maximumcapaciteit van elke gemeenschapsinstelling, alsook van de verschillende afdelingen.
 
 ### ART 5.
 
 Binnen de maximumcapaciteit van de gemeenschapsinstellingen De Kempen en De Zande wordt voorzien in reguliere capaciteit.<br>
 <br>
-Reguliere capaciteit is alle capaciteit die niet expliciet benoemd wordt als buffercapaciteit, als bijzondere capaciteit of als time-outcapaciteit.
+Reguliere capaciteit is alle capaciteit die niet expliciet benoemd wordt als bijzondere capaciteit of als time-outcapaciteit.
 
 ### ART 6.
 
-Binnen de maximumcapaciteit van de gemeenschapsinstellingen De Kempen en De Zande wordt een buffercapaciteit georganiseerd die voorbehouden wordt om de reacties van opvang in een gesloten opvoedingsafdeling uit te voeren, die door de jeugdrechter of de jeugdrechtbank zijn opgelegd aan minderjarigen die een jeugddelict hebben gepleegd of daarvan verdacht worden.<br>
-<br>
-Om een minderjarige toe te wijzen aan een eenheid van de buffercapaciteit, moet aan de volgende voorwaarden zijn voldaan :<br>
-1° de persoon is ouder dan 14 jaar het ogenblik dat hij een jeugddelict pleegt en er bestaan voldoende ernstige aanwijzingen van schuld;<br>
-2° het jeugddelict waarvoor hij vervolgd wordt, kan, als hij meerderjarig zou zijn, in de zin van het Strafwetboek of de bijzondere wetten, een straf van vijf tot tien jaar opsluiting of een zwaardere straf tot gevolg hebben;<br>
-3° er bestaan dringende, ernstige en uitzonderlijke omstandigheden die betrekking hebben op de vereisten van bescherming van de openbare veiligheid.
+...
 
 ### ART 7.
 
@@ -97,7 +95,7 @@ Binnen de maximumcapaciteit van de gemeenschapsinstellingen De Kempen en De Zand
 
 ### ART 9.
 
-Voor het efficiënte gebruik van de capaciteit bepaalt de minister op basis van de noodwendigheden het aantal plaatsen van de buffercapaciteit, van de bijzondere capaciteit en van de time-outcapaciteit.
+Voor het efficiënte gebruik van de capaciteit bepaalt de minister op basis van de noodwendigheden het aantal plaatsen van de bijzondere capaciteit en van de time-outcapaciteit.
 
 ## Afdeling 3. Instroom en begeleidingscommissie
 
