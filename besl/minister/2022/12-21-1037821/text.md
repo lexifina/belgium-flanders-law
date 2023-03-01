@@ -148,7 +148,7 @@ Voor de visserij op wijting onder de minimuminstandhoudingsreferentiegroottes me
 <br>
 Voor de visserij op schelvis in de ICES-gebieden VIIe-k kan worden gebruik gemaakt van de de-minimisvoorwaarden beschreven in het teruggooiplan voor de westelijke wateren.&nbsp;<br>
 <br>
-Voor de visserij op wijting in de ICES-gebieden II, IV, en VIIb-k, kan worden gebruik gemaakt van de de-minimisvoorwaarden beschreven in de teruggooiplannen voor de Noordzee en de westelijke wateren.<br>
+Voor de visserij op wijting in de ICES-gebieden II, IV, en VIId, e, kan worden gebruik gemaakt van de de-minimisvoorwaarden beschreven in de teruggooiplannen voor de Noordzee en de westelijke wateren.<br>
 <br>
 Voor de visserij op makreel en horsmakreel in de ICES-gebieden II, IV, VIIb–k, en VIIIa, b, kan worden gebruik gemaakt van de de-minimisvoorwaarden beschreven in respectievelijk de teruggooiplannen Noordzee en de westelijke wateren.<br>
 <br>
@@ -180,7 +180,7 @@ De registratie van visuren in het elektronisch logboek is verplicht.
 
 §1. Het systeem van beperking van aantal zeedagen in het ICES-gebied VIIe ingesteld overeenkomstig bijlage II van Verordening (EU) nr. 2022/109 van de Raad van 27 januari 2022 tot vaststelling, voor 2022, van de vangstmogelijkheden voor sommige visbestanden en groepen visbestanden welke in de wateren van de Unie en, voor vissersvaartuigen van de Unie, in bepaalde wateren buiten de Unie van toepassing zijn, is van toepassing in januari 2023.&nbsp;<br>
 <br>
-Het aantal zeedagen in het ICES-gebied VIIe, vermeld in bijlage II van Verordening (EU) nr. 2023/ van de Raad van januari 2023 tot vaststelling, voor 2023, van de vangstmogelijkheden voor bepaalde visbestanden en groepen visbestanden welke in de wateren van de Unie en, voor vissersvaartuigen van de Unie, in bepaalde wateren buiten de Unie van toepassing zijn, toegekend voor de periode van 1 februari 2023 tot en met 31 januari 2024.<br>
+Het aantal zeedagen in het ICES-gebied VIIe, vermeld in bijlage II van Verordening (EU) 2023/194 van de Raad van 30 januari 2023 tot vaststelling, voor 2023, van de vangstmogelijkheden voor bepaalde visbestanden welke in de wateren van de Unie en, voor vissersvaartuigen van de Unie, in bepaalde wateren buiten de Unie van toepassing zijn, en tot vaststelling, voor 2023 en 2024, van dergelijke vangstmogelijkheden voor bepaalde diepzeevisbestanden, toegekend voor de periode van 1 februari 2023 tot en met 31 januari 2024.<br>
 <br>
 In ICES-gebied VIIe is de overdracht van zeedagen tussen individuele vissersvaartuigen verboden.<br>
 <br>
@@ -188,7 +188,7 @@ In ICES-gebied VIIe is de overdracht van zeedagen tussen individuele vissersvaar
 <br>
 §3. Bij de overschrijding van de grenzen in het ICES-gebied VIIe, registreren de kapiteins van vissersvaartuigen in hun elektronisch logboek de dag, het tijdstip en de positie van de overschrijding.<br>
 <br>
-De visvergunning van vissersvaartuigen die hun aantal zeedagen in het gebied VIIe overschrijden, kan voor minstens vijf opeenvolgende dagen worden ingetrokken door de bevoegde entiteit. De vismachtiging VIIe, afgeleverd overeenkomstig bijlage xx van Verordening (EU) nr. 2023/ van de Raad van januari 2023 tot vaststelling, voor 2023, van de vangstmogelijkheden voor bepaalde visbestanden en groepen visbestanden welke in de wateren van de Unie en, voor vissersvaartuigen van de Unie, in bepaalde wateren buiten de Unie van toepassing zijn, wordt bovendien in 2024 slechts voor zes maanden toegekend.
+De visvergunning van vissersvaartuigen die hun aantal zeedagen in het gebied VIIe overschrijden, kan voor minstens vijf opeenvolgende dagen worden ingetrokken door de bevoegde entiteit. De vismachtiging VIIe, afgeleverd overeenkomstig bijlage II van Verordening (EU) 2023/194 van de Raad van 30 januari 2023 tot vaststelling, voor 2023, van de vangstmogelijkheden voor bepaalde visbestanden welke in de wateren van de Unie en, voor vissersvaartuigen van de Unie, in bepaalde wateren buiten de Unie van toepassing zijn, en tot vaststelling, voor 2023 en 2024, van dergelijke vangstmogelijkheden voor bepaalde diepzeevisbestanden, wordt bovendien in 2024 slechts voor zes maanden toegekend.
 
 ## Afdeling 3. Vaartdagen
 
@@ -240,7 +240,7 @@ In afwijking van het eerste lid is het vanaf 1 februari 2023 tot en met 31 oktob
 <br>
 Om aan de lijst, vermeld in het tweede lid, toegevoegd te kunnen worden, richten de eigenaars van vissersvaartuigen tegen uiterlijk 6 januari 2023, 12.00 uur, met een aangetekende brief of per e-mail een aanvraag tot de bevoegde entiteit.<br>
 <br>
-Behoudens herziening door de bevoegde entiteit bedraagt de toegewezen hoeveelheid tong in de ICES-gebieden VIIf, g voor de periode 1 februari 2023 tot en met 31 oktober 2023, 5000 kg per vaartuig dat op de lijst, vermeld in het tweede lid, wordt opgenomen.<br>
+De toegewezen hoeveelheid tong in de ICES-gebieden VIIf, g voor de periode 1 februari 2023 tot en met 31 oktober 2023, bedraagt 6000 kg per vaartuig dat op de lijst, vermeld in het tweede lid, wordt opgenomen.<br>
 <br>
 Bij overschrijding van de hoeveelheden tong, vermeld in het vierde lid, worden de door dat vissersvaartuig overschreden hoeveelheden tong in tweevoud in mindering gebracht.<br>
 <br>
@@ -348,7 +348,11 @@ Het is voor een vissersvaartuig van het GVS, die gemengde zeereizen in de ICES-g
 <br>
 §2. Het is in de ICES-gebieden VIIf, g voor een vissersvaartuig van het KVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-Het is in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.
+Vanaf 1 maart 2023 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het KVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 25 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+Het is in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+Vanaf 1 maart 2023 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.
 
 ## [Afdeling 4. Kabeljauw en zeeduivel (verv. MB 25 januari 2023, art. 3, I: 1 februari 2023)]
 
@@ -397,7 +401,7 @@ Het totale makreelquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-
 <br>
 Het in het eerste lid vermelde dagplafond wordt voor de vaartuigen die uitgerust zijn met planken, binnen een gereserveerde hoeveelheid van 50 ton, verdubbeld naar 100kg. Zodra het plafond is bereikt, valt het dagplafond terug op 50 kg.<br>
 <br>
-§1/1. Voor de ICES-gebieden VII is er geen makreelquotum beschikbaar.<br>
+§1/1. Voor de ICES-gebieden VII is het voor een vissersvaartuig verboden bij de makreelvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 §2. In de ICES-gebieden IV en VIId, zijnde Noordzee en Oostelijk Engels Kanaal, is het voor een vissersvaartuig verboden bij de haringvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis.<br>
 <br>
