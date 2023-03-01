@@ -564,6 +564,24 @@ In het geval het advies gesloten begeleiding vooropstelt, en de jeugdrechter dit
 
 ## Onderafdeling 7. De gesloten begeleiding in een afdeling van een gemeenschapsinstelling
 
+### ART 27.
+
+§ 1. De jeugdrechter kan een minderjarige verdachte toevertrouwen aan een afdeling binnen een gemeenschapsinstelling, ingericht voor minderjarigen die een reactie opgelegd krijgen met toepassing van dit decreet, voor een gesloten begeleiding van maximaal drie maanden opeenvolgend als vermeld in artikel 20, § 2, eerste lid, 5°.<br>
+<br>
+§ 2. De jeugdrechter kan de minderjarige, vermeld in paragraaf 1, toevertrouwen aan een afdeling binnen een gemeenschapsinstelling als vermeld in artikel 26, § 1. De jeugdrechter kan de minderjarige pas toevertrouwen aan een afdeling binnen een gemeenschapsinstelling voor een gesloten begeleiding nadat hij het oriëntatievoorstel, vermeld in artikel 26, § 4, vierde lid, heeft ontvangen.&nbsp;De jeugdrechter kan enkel een gesloten begeleiding opleggen als dit in het oriëntatievoorstel wordt geadviseerd, tenzij hij hiervan afwijkt met een gemotiveerde beslissing. De jeugdrechter bepaalt de duur van de gesloten begeleiding in zijn beschikking.<br>
+<br>
+De jeugdrechter kan desgevallend elementen uit een vorig oriëntatievoorstel in overweging nemen.<br>
+<br>
+§ 3. De jeugdrechter kan de minderjarige, vermeld in paragraaf 1, op advies van de directie van de gemeenschapsinstelling, onder de voorwaarden die hij bepaalt, toelaten de instelling te verlaten voor de termijn die hij bepaalt, of toelaten contact te hebben met derden die hij aanwijst.<br>
+<br>
+Een kopie van het advies van de directie van de gemeenschapsinstelling en van de toelating kan na de ontvangst door de griffie, aan het openbaar ministerie bezorgd worden.<br>
+<br>
+Het verlaten van de instelling om te verschijnen voor de rechtbank, om medische redenen of om een begrafenis in België bij te wonen in geval van het overlijden van een familielid tot en met de tweede graad, is niet ondergeschikt aan een toelating door de jeugdrechter.<br>
+<br>
+Als de jeugdrechter weigert de gevraagde toelating om de gemeenschapsinstelling te verlaten, te verstrekken, vermeldt hij de redenen van dat verbod.<br>
+<br>
+§ 4. De Vlaamse Regering bepaalt de nadere regels voor de organisatie, de samenstelling en de werking van gemeenschapsinstellingen. De Vlaamse Regering kan voor bepaalde specifieke doelgroepen programma's erkennen en de toegankelijkheid tot die programma's bepalen.
+
 ## Afdeling 3. Rechtspleging ten gronde
 
 ### ART 28.
@@ -697,11 +715,11 @@ De sanctie, vermeld in het eerste lid, kan alleen in de uitzonderlijke omstandig
 1° de minderjarige delictpleger is zestien jaar of meer op het ogenblik van het plegen van het jeugddelict;<br>
 2° er is een vermoeden van schuldbekwaamheid aanwezig. Het betreft een weerlegbaar vermoeden, rekening houdend met de persoonlijkheid en maturiteit van voormelde minderjarige en zijn sociale context;<br>
 3° elke andere sanctie is ongepast of heeft gefaald;<br>
-4° het jeugddelict dat voormelde minderjarige gepleegd heeft, is een feit als vermeld in de artikelen 136bis, 136ter, 136quater, 136sexies, 137, 140, 141, 373, 375, 376, 379, 393, 394, 395, 396, 397, 400, 401, 417ter, 417quater, 428, § 5, 468, 469, 470, 471, 472, 473, 474 en 475 van het Strafwetboek voor zover deze strafbaar zijn met meer dan vijf jaar opsluiting;<br>
+4° het jeugddelict dat voormelde minderjarige gepleegd heeft, is een feit als vermeld in de artikelen 136bis, 136ter, 136quater, 136sexies, 137, 140, 141, 373, 375, 376, 379, 393, 394, 395, 396, 397, 400, 401, 417ter, 417quater, 428, § 5, 468, 469, 470, 471, 472, 473, 474 en 475 van het Strafwetboek voor zover deze strafbaar zijn met meer dan vijf jaar opsluiting of een poging tot het plegen van een feit als vermeld in de artikelen 393, 394, 395, 396 en 397 van het Strafwetboek;<br>
 5° de fysieke en psychische integriteit van voormelde minderjarige of van derden is in gevaar;<br>
 6° een gesloten begeleiding is noodzakelijk.<br>
 <br>
-§ 3. De sanctie, vermeld in paragraaf 1, houdt een gesloten begeleiding binnen een afdeling van een gemeenschapsinstelling in, gericht op begeleiding en re-integratie, vanaf de datum van de plaatsing tot de dag van de eerstvolgende zittingsdag van de jeugdrechtbank na de dag waarop de minderjarige delictpleger, vermeld in paragraaf 1, de leeftijd van achttien jaar bereikt. Op deze zitting verschijnt de minderjarige delictpleger persoonlijk voor een evaluatie en om een vervolgtraject uit te werken. De sanctie, vermeld in paragraaf 1, kan zich niet verder uitstrekken dan tot de dag waarop de minderjarige delictpleger de leeftijd van vijfentwintig jaar bereikt.<br>
+§ 3. De sanctie, vermeld in paragraaf 1, houdt een gesloten begeleiding binnen een afdeling van een gemeenschapsinstelling in, gericht op begeleiding en re-integratie. De sanctie, vermeld in paragraaf 1, kan zich niet verder uitstrekken dan tot de dag waarop de minderjarige delictpleger de leeftijd van vijfentwintig jaar bereikt.<br>
 <br>
 § 4. In afwijking van paragraaf 2, 1°, kan de jeugdrechtbank de sanctie, vermeld in paragraaf 1, bevelen ten aanzien van minderjarige delictplegers die nog geen zestien jaar waren op het ogenblik van het plegen van het jeugddelict.<br>
 <br>
@@ -717,15 +735,15 @@ Vanaf de leeftijd van achttien jaar verschijnen de minderjarige delictplegers ja
 <br>
 De jeugdrechtbank kan echter:<br>
 1° de sanctie ook opleggen zonder dat zij over het verslag van het medisch-psychologisch onderzoek beschikt, als zij constateert dat de minderjarige delict-pleger zich aan dat onderzoek onttrekt of weigert zich eraan te onderwerpen;<br>
-2° de sanctie ook opleggen zonder dat zij een maatschappelijk onderzoek en een medisch-psychologisch onderzoek heeft laten uitvoeren, als bij vonnis al een sanctie genomen is ten aanzien van een minderjarige delictpleger en die een of meer feiten als vermeld in de artikelen 323, 373, 374, 375, 376, 377, 378, 392 393, 394, 401, 468, 469, 470, 471, 472, 473, 474, 475 en 476 van het Strafwetboek, heeft gepleegd, nadat hij de leeftijd van zestien jaar had bereikt, en die persoon opnieuw wordt vervolgd omdat hij na die eerste veroordeling weer een of meer van de voormelde feiten heeft gepleegd. De stukken van de vorige procedure worden bij die van de nieuwe procedure gevoegd;<br>
-3° onder dezelfde voorwaarden als vermeld in 2°, de sanctie opleggen ten aanzien van een minderjarige delictpleger die een feit, dat als misdaad wordt omschreven en waarop een straf staat die hoger ligt dan twintig jaar opsluiting of correctionele gevangenisstraf, heeft gepleegd nadat hij de leeftijd van zestien jaar had bereikt en pas wordt vervolgd nadat hij de leeftijd van achttien jaar heeft bereikt.<br>
+2° de sanctie ook opleggen zonder dat zij een maatschappelijk onderzoek en een medisch-psychologisch onderzoek heeft laten uitvoeren, als bij vonnis al een sanctie genomen is ten aanzien van een minderjarige delictpleger en die een of meer feiten als vermeld in de artikelen 136bis, 136ter, 136quater, 136sexies, 137, 140, 141, 393, 394, 395, 396, 397, 400, 401, 417/2, 417/3, 417/7, 417/11, 417/12 tot en met 417/17, 417/25 tot en met 417/41, 428, § 5, 468, 469, 470, 471, 472, 473, 474 en 475 van het Strafwetboek, heeft gepleegd, nadat hij de leeftijd van zestien jaar had bereikt, en die persoon opnieuw wordt vervolgd omdat hij na die eerste veroordeling weer een of meer van de voormelde feiten heeft gepleegd. De stukken van de vorige procedure worden bij die van de nieuwe procedure gevoegd;<br>
+3° onder dezelfde voorwaarden als vermeld in 2°, de sanctie opleggen ten aanzien van een minderjarige delictpleger die een feit, dat als misdaad wordt omschreven en waarop een straf staat die hoger ligt dan twintig jaar opsluiting, heeft gepleegd nadat hij de leeftijd van zestien jaar had bereikt en pas wordt vervolgd nadat hij de leeftijd van achttien jaar heeft bereikt.<br>
 <br>
 § 7. De Vlaamse Regering bepaalt de nadere regels voor de organisatie van de gesloten begeleiding van maximaal twee, vijf of zeven jaar, en de inhoud en de invulling van de opdrachten die hiermee gepaard gaan en de wijze waarop deze opdrachten worden uitgevoerd in de gemeenschapsinstellingen. De Vlaamse Regering kan voor bepaalde specifieke doelgroepen programma's erkennen en de toegankelijkheid tot die programma's bepalen.<br>
 <br>
 § 8. Het toevertrouwen van een minderjarige delictpleger aan een afdeling binnen een gemeenschapsinstelling, ingericht voor personen die een reactie opgelegd krijgen met toepassing van dit decreet, voor een gesloten begeleiding als vermeld in paragraaf 1, eerste lid, wordt in voorkomend geval gecombineerd met een terbeschikkingstelling van de jeugdrechtbank van maximaal tien jaar, na het einde van de hier vermelde sanctie. De jeugdrechtbank legt de terbeschikkingstelling op en bepaalt de duur ervan uiterlijk op het moment van de uitspraak van de hier vermelde sanctie.<br>
 <br>
 De terbeschikkingstelling kan enkel worden uitgesproken wanneer de volgende voorwaarden cumulatief voldaan zijn:<br>
-1° het jeugddelict dat de minderjarige delictpleger gepleegd heeft, is een feit als vermeld in de artikelen 136bis, 136ter, 136quater, 136sexies, 137, 140, 141, 376, eerste lid, 393, 394, 395, 396, 397, 417ter, derde lid, 2°, 428, § 5, 474 en 475 van het Strafwetboek, voor zover deze strafbaar zijn met twintig jaar opsluiting of meer;<br>
+1° het jeugddelict dat de minderjarige delictpleger gepleegd heeft, is een feit als vermeld in de artikelen 136bis, 136ter, 136quater, 136sexies, 137, 140, § 2, 375, zevende lid, 376, eerste lid, 393, 394, 395, 396, 397, 417ter, derde lid, 2°, 428, § 5, 474 en 475 van het Strafwetboek, voor zover deze strafbaar zijn met twintig jaar opsluiting of meer;<br>
 2° de minderjarige delictpleger is zich op het ogenblik van de feiten ten volle bewust van de ernst van de feiten en de gevolgen die zijn daad tot gevolg hebben, rekening houdend met zijn persoonlijkheid, zijn omgeving en zijn maturiteitsgraad, onverminderd artikel 71 van het Strafwetboek;<br>
 3° een verdere opvolging is noodzakelijk na het aflopen van de sanctie met het oog op de bescherming van de fysieke en psychische integriteit van de minderjarige delictpleger of van derden en gelet op de ernst van de strafbare feiten met het oog op de bescherming van de maatschappij tegen een hoog risico op recidive.<br>
 <br>
@@ -758,9 +776,9 @@ De terbeschikkingstelling aan de jeugdrechtbank neemt in elk geval een einde op 
 <br>
 De jeugdrechtbank kan evenwel alleen beslissen tot uithandengeving als bovendien cumulatief aan de volgende voorwaarden is voldaan:<br>
 1° de minderjarige verdachte, vermeld in het eerste lid, is het voorwerp geweest van een of meer sancties, vermeld in de artikelen 35, 36 en 37;<br>
-2° het gepleegde jeugddelict betreft een feit als vermeld in de artikelen 373, 375, 393, 394, 395, 396, 397, 400, 401, 417ter, 417quater, 468, 469, 470, 471, 472, 473, 474 en 475 van het Strafwetboek of een poging tot het plegen van een feit als vermeld in de artikelen 393, 394, 395, 396 en 397 van het Strafwetboek.<br>
+2° het gepleegde jeugddelict betreft een feit als vermeld in de artikelen 373, 379, 400, 401, 417/2, 417/3, 417/11, 417/12 tot en met 417/17, 428, § 5, 468, 469, 470, 471, 472, 473 en 474 van het Strafwetboek of een poging tot het plegen van een feit als vermeld in de artikelen 393, 394, 395, 396 en 397 van het Strafwetboek.<br>
 <br>
-De jeugdrechtbank kan ook beslissen tot uithandengeving wanneer de minderjarige verdachte een feit heeft gepleegd als vermeld in de artikelen 136bis, 136ter, 136quater, 136sexies, 137, 140 en 141 van het Strafwetboek, die, als ze door een meerderjarige gepleegd zouden zijn, strafbaar worden gesteld met een gevangenisstraf van vijf tot tien jaar of een zwaardere straf.<br>
+De jeugdrechtbank kan ook beslissen tot uithandengeving wanneer de minderjarige verdachte een feit heeft gepleegd als vermeld in de artikelen 136bis, 136ter, 136quater, 136sexies, 137, 140 , 141, 393, 394, 395, 396, 397, 417/11, 417/12 tot en met 417/17 en 475 van het Strafwetboek.<br>
 <br>
 De motivering, vermeld in paragraaf 2, eerste lid, wordt opgesteld in functie van de persoonlijkheid van de minderjarige verdachte, zijn maturiteitsgraad en zijn omgeving.<br>
 <br>
@@ -774,8 +792,8 @@ De Vlaamse Regering bepaalt de nadere regels voor de opmaak en inhoud van het me
 <br>
 De jeugdrechtbank kan echter:<br>
 1° de zaak uit handen geven zonder dat zij over het verslag van het medisch-psychologisch onderzoek beschikt, als ze constateert dat de minderjarige verdachte zich aan dat onderzoek onttrekt of weigert zich eraan te onderwerpen;<br>
-2° de zaak uit handen geven zonder dat zij een maatschappelijk onderzoek en een medisch-psychologisch onderzoek heeft laten uitvoeren, als bij vonnis al een sanctie genomen is ten aanzien van een minderjarige verdachte en die een of meer feiten als vermeld in de artikelen 323, 373, 374, 375, 376, 377, 378, 392, 393, 394, 401, 468, 469, 470, 471, 472, 473, 474, 475 en 476 van het Strafwetboek, heeft gepleegd, nadat hij de leeftijd van zestien jaar had bereikt, en die persoon opnieuw wordt vervolgd omdat hij na die eerste veroordeling weer een of meer van de voormelde feiten heeft gepleegd. De stukken van de vorige procedure worden bij die van de nieuwe procedure gevoegd;<br>
-3° onder dezelfde voorwaarden als vermeld in 2°, uitspraak doen over de vordering tot het uit handen geven ten aanzien van een minderjarige verdachte die een feit, dat als misdaad wordt omschreven en waarop een straf staat die hoger ligt dan twintig jaar hoofdgevangenisstraf, heeft gepleegd nadat hij de leeftijd van zestien jaar had bereikt en pas wordt vervolgd nadat hij de leeftijd van achttien jaar heeft bereikt.
+2° de zaak uit handen geven zonder dat zij een maatschappelijk onderzoek en een medisch-psychologisch onderzoek heeft laten uitvoeren, als bij vonnis al een sanctie genomen is ten aanzien van een minderjarige verdachte en die een of meer feiten als vermeld in de artikelen 136bis, 136ter, 136quater, 136sexies, 137, 140, 141, 373, 375, 376, 379, 393, 394, 395, 396, 397, 400, 401, 417/2, 417/3, 417/11, 417/12 tot en met 417/17, 428, § 5, 468, 469, 470, 471, 472, 473, 474 en 475 van het Strafwetboek, heeft gepleegd, nadat hij de leeftijd van zestien jaar had bereikt, en die persoon opnieuw wordt vervolgd omdat hij na die eerste veroordeling weer een of meer van de voormelde feiten heeft gepleegd. De stukken van de vorige procedure worden bij die van de nieuwe procedure gevoegd;<br>
+3° onder dezelfde voorwaarden als vermeld in 2°, uitspraak doen over de vordering tot het uit handen geven ten aanzien van een minderjarige verdachte die een feit, dat als misdaad wordt omschreven en waarop een straf staat die hoger ligt dan twintig jaar opsluiting, heeft gepleegd nadat hij de leeftijd van zestien jaar had bereikt en pas wordt vervolgd nadat hij de leeftijd van achttien jaar heeft bereikt.
 
 ## Onderafdeling 2. Toevertrouwen aan een afdeling van een jeugdpsychiatrische dienst
 
@@ -1144,7 +1162,13 @@ Een bij de jeugdrechter of jeugdrechtbank aanhangig gemaakte zaak met toepassing
 <br>
 De regels, vermeld in de wet van 8 april 1965, die op de uitvoering van de in het eerste en tweede lid vermelde voorlopige maatregelen, maatregelen en beslissingen betrekking hebben, zijn van toepassing, met inbegrip van de herzieningsmogelijkheid, vermeld in artikel 60 van voormelde wet.<br>
 <br>
-§ 2. Een bij de jeugdrechter of jeugdrechtbank aanhangig gemaakte zaak met toepassing van de wet van 1 maart 2002, waarover op de datum van inwerkingtreding van dit decreet een beslissing werd genomen maar die nog niet in uitvoering is, wordt uitgevoerd overeenkomstig de genomen beslissing.<br>
+§ 2. Artikel 52 en 52quater van de wet van 8 april 1965, zoals van kracht op 28 februari 2023, blijven van toepassing voor een voorlopige maatregel tot plaatsing van een minderjarige in een gemeenschapsinstelling, naar aanleiding van een jeugddelict dat gepleegd is vóór 1 maart 2023.<br>
+<br>
+Artikel 37, § 2, 8°, 37, § 2quater, en artikel 37, § 3, van de wet van 8 april 1965, zoals van kracht op 28 februari 2023, blijven van toepassing voor een maatregel tot plaatsing van een minderjarige in een gemeenschapsinstelling, naar aanleiding van een jeugddelict dat gepleegd is vóór 1 maart 2023.<br>
+<br>
+De regels, vermeld in de wet van 8 april 1965, die op de uitvoering van de in het eerste en tweede lid vermelde voorlopige maatregelen en maatregelen betrekking hebben, zoals van kracht op 28 februari 2023, blijven van toepassing naar aanleiding van een jeugddelict dat gepleegd is vóór 1 maart 2023.<br>
+<br>
+De wet van 1 maart 2002 betreffende de voorlopige plaatsing van minderjarigen die een als misdrijf omschreven feit hebben gepleegd, zoals van kracht op 28 februari 2023, blijft van toepassing voor een voorlopige maatregel tot plaatsing van een minderjarige in een gemeenschapsinstelling, met toepassing van de bovenvermelde wet, naar aanleiding van een jeugddelict dat gepleegd is vóór 1 maart 2023..<br>
 <br>
 § 3. Voor een beslissing tot uithandengeving als vermeld in artikel 38, § 2, tweede lid, van dit decreet, wordt een plaatsing in een openbare gemeenschapsinstelling als vermeld in artikel 37, § 2, 8°, van de wet van 8 april 1965, gelijkgesteld met de sancties, vermeld in artikel 35, 36 en 37 van dit decreet.<br>
 <br>
