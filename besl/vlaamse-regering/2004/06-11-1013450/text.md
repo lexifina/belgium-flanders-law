@@ -54,24 +54,27 @@ In afwijking van het eerste lid kan de taak vermeld in het eerste lid, 11°, wor
 § 2/1. Het agentschap beheert de personeelsdossiers van de kabinetten van de Vlaamse Regering en voert het statuut van de Vlaamse ministers uit. In het kader van de voormelde taak biedt het administratieve ondersteuning en interne dienstverlening aan de kabinetten van de leden van de Vlaamse Regering.<br>
 <br>
 § 3. Het agentschap voert als selectiecentrum voor de diensten van de Vlaamse overheid de volgende taken uit:<br>
-1° de uitvoering van opdrachten inzake werving, selectie en bevordering van statutair en contractueel personeel;<br>
+1° de uitvoering van opdrachten inzake werving, selectie, bevordering en mobiliteit van statutair en contractueel personeel;<br>
 2° de professionele begeleiding bij de rekrutering en selectie van het statutair en contractueel personeel;<br>
-3° de coördinatie en materiële uitvoering van de aan het agentschap toevertrouwde aanwervingsexamens voor het statutair personeel van de Vlaamse ministeries;<br>
-4° de herplaatsing van contractuele en statutaire personeelsleden;<br>
-5° het beheer van de externe mobiliteit;<br>
-6° het beheer van de beleidsdomeinoverschrijdende mobiliteit;<br>
-7° het beheer van de reserves van aanwervingsexamens en van de beleidsdomeinoverschrijdende bevorderingsexamens;<br>
+3° ...<br>
+4° ...<br>
+5° ...<br>
+6° ...<br>
+7° het beheer van de reserves van aanwervingsexamens en van bevorderingsexamens;<br>
 8° de organisatie van de vervangingspool;<br>
-9° de ontwikkeling van aanverwante diensten zoals de ondersteuning bij de evaluatie van personeelsleden, de organisatie van potentieelinschattingen, potentieelinschattingen door middel van de assessment-center-methode, en de organisatie van overgangs- en bevorderingsproeven, en mobiliteit en selecties;<br>
+9° de ontwikkeling van aanverwante diensten zoals de ondersteuning bij de evaluatie van personeelsleden, de organisatie van potentieelinschattingen en potentieelinschattingen door middel van de assessment-center-methode;<br>
 10° de uitvoering van activiteiten die rechtstreeks of onrechtstreeks bijdragen tot de realisatie van de doelstellingen van het agentschap.<br>
 <br>
 In afwijking van het eerste lid kan de taak, vermeld in het eerste lid, 1° en 2°, worden uitgevoerd voor het top- en middenkader, ten behoeve van de Vlaamse overheid, vermeld in artikel I.3, 1°, van het Bestuursdecreet van 7 december 2018.<br>
 <br>
-&nbsp;§ 4. Het agentschap is exclusief bevoegd voor de volgende taken :<br>
-1° de taken, vermeld in paragraaf 3, 1°, die het agentschap uitoefent voor de Vlaamse ministeries, wat betreft de statutaire personeelsleden;<br>
-2° de taken, vermeld in paragraaf 3, 1°, die het agentschap uitoefent, wat het top- en middenkader betreft;<br>
-3° de taken, vermeld in paragraaf 3, 2°, die het agentschap uitoefent voor de Vlaamse ministeries;<br>
-4° de taken, vermeld in paragraaf 3, 3° tot en met 8°.<br>
+§4. Het agentschap is exclusief bevoegd voor de taken, vermeld in paragraaf 3, eerste lid, 1°, 2°, 7° en 8°, die het agentschap uitoefent voor de diensten van de Vlaamse overheid.<br>
+<br>
+In afwijking van het eerste lid geldt de exclusieve bevoegdheid niet voor selecties voor de volgende functies:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;functies bij de Openbare Psychiatrische Zorgcentra Geel en Rekem die niet behoren tot het top- en middenkader;<br>
+2°&nbsp;&nbsp; &nbsp;functies waarvoor de lijnmanager zelf kan optreden als selector conform het Vlaams personeelsstatuut van 13 januari 2006;<br>
+3°&nbsp;&nbsp; &nbsp;de entiteitsspecifieke functies.&nbsp;<br>
+<br>
+De minister stelt in overleg met de functioneel bevoegde minister of ministers per entiteit, raad of instelling de lijst met entiteitsspecifieke functies als vermeld in het tweede lid, 3°, vast.<br>
 <br>
 § 5. Het agentschap staat in voor het beheer en de ondersteuning van het Vlaams Pensioenfonds ten behoeve van de diensten van de Vlaamse overheid en andere besturen, als vermeld in artikel 3 van het decreet van 23 november 2018 betreffende het Vlaams Pensioenfonds en het publieke pensioenstelsel voor de werknemers van de diensten van de Vlaamse overheid en andere besturen.<br>
 <br>
@@ -130,6 +133,10 @@ De minister kan, in het kader van de opvolging en de uitoefening van het toezich
 ### ART. 15.
 
 De Vlaamse regering bepaalt de datum van inwerkingtreding van dit besluit.<br /><br />(Deze datum is 1 april 2006. Zie B.V.R. 17 maart 2006, B.S., 5 mei 2006)
+
+### ART 15/1.
+
+In afwijking van artikel 4, §4, eerste lid, kan de selector, voor entiteiten die nog niet zijn aangesloten op de gemeenschappelijke dienstverlening van het agentschap, tot 1 januari 2024 een ander professioneel orgaan zijn dan het agentschap.
 
 ### ART. 16.
 
