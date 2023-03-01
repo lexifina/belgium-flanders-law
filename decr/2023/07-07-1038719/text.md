@@ -94,6 +94,26 @@ In artikel II.151, derde lid, van dezelfde codex, ingevoegd bij het decreet van 
 1° de zin “Een bachelor­ of masteropleiding die kadert binnen een ‘European Universities Initiative’ dat als pilootproject werd goedgekeurd in 2019 of 2020, wordt geacht een opleiding te zijn die geselecteerd werd overeenkomstig de bepalingen van een Europees financieringsprogramma ter bevordering van de internationale samenwerking in het hoger onderwijs en waarbinnen multi- of gezamenlijke diplomering wordt vooropgesteld, vermeld in het eerste lid.” wordt vervangen door de zin: “Een bachelor­ of masteropleiding die kadert binnen een ‘European Universities Initiative’ dat als pilootproject in 2019 of 2020 is goedgekeurd, of de verlengingen daarvan, wordt geacht een opleiding te zijn die is geselecteerd conform de bepalingen van een Europees financieringsprogramma ter bevordering van de internationale samenwerking in het hoger onderwijs en waarbinnen multi­ of gezamenlijke diplomering wordt vooropgesteld als vermeld in het eerste lid.”;<br>
 2° de zin “Deze opleidingen starten uiterlijk in het academiejaar volgend op het academiejaar waarin het pilootproject afloopt.” wordt vervangen door de zin “De voormelde opleidingen starten uiterlijk in het academiejaar dat volgt op het academiejaar waarin het pilootproject afloopt of waarin de verlengingen van het pilootproject aflopen.”.
 
+### ART 124.
+
+In artikel II.187 van dezelfde codex, vervangen bij het decreet van 8 december 2017 en gewijzigd bij de decreten van 1 maart 2019 en 5 april 2019, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 4, vierde lid, wordt de datum “1 januari” vervangen door de datum “1 maart”;<br>
+2° aan paragraaf 5, eerste lid, 1°, wordt de zinsnede “voor de toelatingsexamens georganiseerd tot en met 2024 en afgestemd op de tweede en de derde graad van de doorstroomfinaliteit van het secundair onderwijs voor de toelatingsexamens georganiseerd vanaf 2025” toegevoegd;<br>
+3° paragraaf 7 wordt vervangen door wat volgt:<br>
+“§7. De toelatingsexamens, vermeld in paragraaf 1 en 2, en in artikel II.187/1, worden georganiseerd door dezelfde examencommissie.<br>
+De Vlaamse Regering benoemt de voorzitter, de secretaris en de leden van de examencommissie.<br>
+De examencommissie telt, voorzitter en secretaris uitgezonderd, minimaal tien en maximaal twintig leden.<br>
+De leden van de examencommissie worden op zodanige wijze aangeduid uit de leden van het zelfstandig academisch personeel van de universiteiten dat de nodige expertise aanwezig is op het vlak van de medische, de tandheelkundige en de diergeneeskundige praktijk, de inhoud van de vakken, de onderwijskunde en de psychologie.”;<br>
+4° in paragraaf 8, eerste lid, wordt de zinsnede “de beide toelatingsexamens, vermeld in paragraaf 1 en 2” vervangen door de zinsnede “de toelatingsexamens, vermeld in paragraaf 1 en 2, en in artikel II.187/1”;<br>
+5° in paragraaf 8, tweede lid, wordt tussen het woord “toelatingsexamens” en het woord “melden” de zinsnede “, vermeld in paragraaf 1 en 2,” ingevoegd;<br>
+6° in paragraaf 9 worden de woorden “in het bezit is van het diploma secundair onderwijs of van een daarmee gelijkwaardig of gelijkgesteld studiebewijs” vervangen door de zinsnede “voldoet aan de algemene toelatingsvoorwaarden voor een bacheloropleiding, vermeld in artikel II.178”.
+
+### ART 125.
+
+In artikel II.187/1 van dezelfde codex, ingevoegd bij het decreet van 15 juli 2022, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 6 worden het tweede tot en met het vierde lid opgeheven;<br>
+2° in paragraaf 7 wordt de zinsnede “de beide toelatingsexamens, vermeld in paragraaf 1 en in artikel II.187” vervangen door de zinsnede “de toelatingsexamens, vermeld in paragraaf 1, en in artikel II.187, §1 en §2”.
+
 ## Hoofdstuk 11. Wijzigingen van de codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016
 
 ### ART 136.
@@ -110,6 +130,12 @@ In dezelfde codificatie, het laatst gewijzigd bij het decreet van 16 juni 2023, 
 
 ## Hoofdstuk 12. Wijziging van het decreet van 25 november 2016 betreffende de alternatieve financiering van schoolinfrastructuur via projectspecifieke DBFM­overeenkomsten
 
+### ART 138.
+
+Aan artikel 14, §1, van het decreet van 25 november 2016 betreffende de alternatieve financiering van schoolinfrastructuur via projectspecifieke DBFM­overeenkomsten wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“Het gedeelte van de beschikbaarheidsvergoeding, vermeld in het eerste lid, dat de beschikbaarheidsvergoeding gerekend aan een rentevoet van 2% overschrijdt, wordt voor alle onderwijsnetten aan 100% betoelaagd.”.
+
 ## Hoofdstuk 13. Wijzigingen van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs
 
 ## Hoofdstuk 14. Wijzigingen van het decreet van 26 april 2019 betreffende het kwaliteitstoezicht voor beroepskwalificerende trajecten op basis van een gemeenschappelijk kwaliteitskader
@@ -117,6 +143,12 @@ In dezelfde codificatie, het laatst gewijzigd bij het decreet van 16 juni 2023, 
 ## Hoofdstuk 15. Wijzigingen van het decreet van 26 april 2019 betreffende een geïntegreerd beleid voor de erkenning van verworven competenties
 
 ## Hoofdstuk 16. Wijziging van het decreet van 10 december 2021 over DBFM­Scholen van Vlaanderen
+
+### ART 158.
+
+Aan artikel 15, §1, van het decreet van 10 december 2021 over DBFM­Scholen van Vlaanderen wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“Het gedeelte van de beschikbaarheidsvergoeding, vermeld in het eerste lid, dat de beschikbaarheidsvergoeding gerekend aan een rentevoet van 2% overschrijdt, wordt voor alle onderwijsnetten aan 100% betoelaagd.”.
 
 ## Hoofdstuk 17. Slotbepalingen
 
