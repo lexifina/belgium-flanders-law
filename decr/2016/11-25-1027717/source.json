@@ -2,16 +2,16 @@
   "codex_id": 1027717,
   "title": "Decreet van 2016-11-25 betreffende de alternatieve financiering van schoolinfrastructuur via projectspecifieke DBFM-overeenkomsten",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027717/VolledigDocument?datum=2018-01-01",
-  "source_sha256": "1fe98ae1c6d4d2d10fdea4d6bfb11c2cd6a3b792d200b149d1b6a95080c88c26",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027717/VolledigDocument?datum=2023-03-01",
+  "source_sha256": "011789534799e0e4411e5f700f085ee4c9725ea59d21010ae018be71a5ce1eed",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027717&param=informatie",
-  "as_of": "2018-01-01",
+  "as_of": "2023-03-01",
   "made": "2016-11-25",
   "gazette": "2017-01-10",
   "numac": 2016036651,
   "document_start": "2017-01-20",
   "document_end": null,
-  "in_force": "2018-01-01",
+  "in_force": "2023-03-01",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-03-01; future article versions excluded; article text as the API gives it"
 }
