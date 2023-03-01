@@ -128,7 +128,7 @@ d) een welomschreven opleiding, opleidingsonderdeel of cluster van opleidingsond
 
 <p>25°examencontract : een contract, aangegaan door een instellingsbestuur met de student die zich onder de door het instellingsbestuur bepaalde voorwaarden inschrijft voor het afleggen van examens met het oog op het behalen van :</p>
 
-<p style="text-align: justify;">a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; een graad of een diploma van een opleiding, of</p>
+<p style="text-align:justify">a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; een graad of een diploma van een opleiding, of</p>
 
 <p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; een creditbewijs voor 1 of meer opleidingsonderdelen;</p>
 
@@ -182,15 +182,15 @@ d) een welomschreven opleiding, opleidingsonderdeel of cluster van opleidingsond
 
 <p>42°onderwijsbevoegdheid :</p>
 
-<p style="text-align: justify;">a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de studiegebieden,</p>
+<p style="text-align:justify">a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de studiegebieden,</p>
 
-<p style="text-align: justify;">b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de delen van studiegebieden,</p>
+<p style="text-align:justify">b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de delen van studiegebieden,</p>
 
-<p style="text-align: justify;">c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de combinaties van studiegebieden,</p>
+<p style="text-align:justify">c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de combinaties van studiegebieden,</p>
 
-<p style="text-align: justify;">d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de combinaties van delen van studiegebieden,</p>
+<p style="text-align:justify">d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de combinaties van delen van studiegebieden,</p>
 
-<p style="text-align: justify;">e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de combinaties van studiegebieden met delen van studiegebieden,</p>
+<p style="text-align:justify">e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de combinaties van studiegebieden met delen van studiegebieden,</p>
 
 <p>waarin de ambtshalve geregistreerde instellingen krachtens deze codificatie opleidingen kunnen aanbieden;</p>
 
@@ -231,7 +231,9 @@ d) een welomschreven opleiding, opleidingsonderdeel of cluster van opleidingsond
 
 <p>57°School of Arts: een organisatorische eenheid binnen een hogeschool of over verschillende hogescholen heen waarin, conform artikel II.7, de professioneel gerichte bacheloropleidingen of de academisch gerichte bachelor- en masteropleidingen in de studiegebieden Audiovisuele en beeldende kunst, of Muziek en podiumkunsten aangeboden worden;</p>
 
-<p>58°specificatie van een graad : de toevoeging van de woorden “of Arts”, “of Science”, “of Laws”, “of Medicine”, “of Veterinary Science”, “of Veterinary Medicine” of “of Philosophy” aan een graad;</p>
+<p>58°specificatie van een graad : de toevoeging van de woorden “of Arts”, “of Science”, “of Laws”, “of Medicine”, “of Veterinary Science”, “of Veterinary Medicine” of “of Philosophy” aan een graad;<br>
+<br>
+58° /1 starttoets: een instellingsneutrale toets waaraan de student moet deelnemen als voorwaarde voor de eerste inschrijving in bepaalde bacheloropleidingen als vermeld in artikel II.188/1;</p>
 
 <p>59°student : de persoon ingeschreven in een instelling;</p>
 
@@ -3217,21 +3219,119 @@ De vrijstelling van het vergelijkend toelatingsexamen, vermeld in dit artikel, g
 <br>
 § 12. Het bewijs van toelating van een student die gunstig wordt gerangschikt en tijdig voldoet aan de algemene toelatingsvoorwaarde, vermeld in paragraaf 9, blijft onbeperkt geldig.
 
+### ART II.187/1.
+
+§ 1. Voor de inschrijving in een bacheloropleiding in het studiegebied Diergeneeskunde geldt naast de algemene toelatingsvoorwaarde, als bijkomende toelatingsvoorwaarde het gunstig gerangschikt zijn op basis van een toelatingsexamen, hierna het toelatingsexamen dierenarts te noemen. Het toelatingsexamen dierenarts wordt georganiseerd door een examencommissie.<br>
+<br>
+Het toelatingsexamen dierenarts beoogt het toetsen van de bekwaamheid van de studenten om een diergeneeskundige opleiding met succes af te ronden.<br>
+<br>
+§ 2. Het toelatingsexamen dierenarts is vergelijkend van aard.<br>
+<br>
+De kandidaten die ten minste de helft van de punten behalen op elk examenonderdeel, voldoen aan de voorwaarde voor rangschikking. Kandidaten die aan deze voorwaarde voldoen, worden gerangschikt in de volgorde van de behaalde numerieke totaalscore.<br>
+<br>
+De gerangschikte kandidaten met de hoogst behaalde scores worden gunstig gerangschikt, rekening houdend met het startquotum, vermeld in paragraaf 3.<br>
+<br>
+De lijst met de gunstig gerangschikte kandidaten wordt definitief bekendgemaakt uiterlijk vóór 1 augustus van het jaar waarin het toelatingsexamen dierenarts is georganiseerd.<br>
+<br>
+§ 3. Het startquotum voor de bacheloropleiding in het studiegebied Diergeneeskunde bedraagt 240 kandidaten en is gebaseerd op beroeps- en opleidingsgerelateerde parameters.<br>
+<br>
+Afhankelijk van de examenresultaten die de kandidaten behalen, kan het startquotum overschreden worden. De cesuur wordt principieel getrokken tussen de kandidaten met een verschillend examenresultaat.<br>
+<br>
+De Vlaamse Regering stelt jaarlijks uiterlijk tegen 1 februari het aantal effectieve starters in het lopende academiejaar vast. Indien dit aantal afwijkt van het startquotum dat voor deze opleiding voor dat academiejaar vooropgesteld was, corrigeert de Vlaamse Regering het startquotum voor het volgende academiejaar met dat verschil.<br>
+<br>
+Bijkomend kan de Vlaamse Regering bij deze aanpassing van dit startquotum rekening houden met een of meer van de volgende beroeps- en opleidingsgerelateerde criteria:<br>
+1° het aantal afgestudeerden in de masteropleiding;<br>
+2° het afnemende beroepenveld;<br>
+3° de opleidingscapaciteit.<br>
+<br>
+§ 4. Het toelatingsexamen dierenarts omvat toetsen die betrekking hebben op:<br>
+1° wetenschappelijke kennis en inzicht in de vakken biologie, fysica, chemie en wiskunde, afgestemd op de tweede en de derde graad van het algemeen secundair onderwijs voor de toelatingsexamens georganiseerd tot en met 2024 en afgestemd op de tweede en de derde graad van de doorstroomfinaliteit van het secundair onderwijs voor de toelatingsexamens georganiseerd vanaf 2025;<br>
+2° generieke competenties die aansluiten bij themata uit de beroepspraktijk van dierenartsen.<br>
+<br>
+De Vlaamse Regering legt de nadere regels vast voor de indeling, de wegings-en evaluatiecriteria, met inbegrip van de afrondingsregels, de toetsmethoden en de inhoud van de examens.<br>
+<br>
+§ 5. Het toelatingsexamen dierenarts wordt georganiseerd conform de volgende regels:<br>
+1° het wordt eenmaal per jaar georganiseerd. De organisatie ervan wordt tijdig bekendgemaakt;<br>
+2° de Vlaamse Regering kan een examengeld van ten hoogste 50 euro vastleggen als bijdrage in de organisatiekosten. Vanaf 2019 wordt het bedrag aangepast aan de jaarlijkse stijging van de index van de consumptieprijzen met als referentiedatum 1 januari 2018. Het bedrag wordt afgerond naar het dichtstbijzijnde geheel getal;<br>
+3° de Vlaamse Regering:<br>
+a) organiseert het toelatingsexamen dierenarts volgens de nadere regels die ze bepaalt en legt die vast in een besluit. Bij de organisatie van het examen wordt voor studenten met functiebeperkingen als vermeld in artikel II.221, § 2, in redelijke aanpassingen voorzien;<br>
+b) legt de modaliteiten vast van de interne beroepsprocedure en de inzageprocedure. De Vlaamse Regering regelt de werking van de examencommissie, vermeld in paragraaf 6, en bepaalt de vergoedingen van de leden;<br>
+c) bepaalt de nadere regels voor het vergelijkende examen, vermeld in paragraaf 1;<br>
+4° de examencommissie, vermeld in paragraaf 6:<br>
+a) stelt een werkings- en examenreglement op waarin concrete voorschriften zijn opgenomen ter uitvoering van het besluit, vermeld in punt 3° ;<br>
+b) valideert de examenvragen en evalueert de examenresultaten;<br>
+c) is verantwoordelijk voor de kwaliteit van de examens;<br>
+d) maakt vooraf het examenprogramma bekend en publiceert na afloop van de examens een representatief staal van de examenvragen en antwoorden;<br>
+5° de voorzitter van de examencommissie, vermeld in paragraaf 6, maakt de resultaten en de lijst, vermeld in paragraaf 2, bekend.<br>
+<br>
+§ 6. De toelatingsexamens, vermeld in dit artikel en in artikel II.187, worden georganiseerd door dezelfde examencommissie, zoals omschreven in artikel II.187, § 7.<br>
+<br>
+§ 7. De toelatingsexamens worden op zodanige wijze georganiseerd dat studenten per academiejaar aan de toelatingsexamens, vermeld in paragraaf 1, en in artikel II.187, §1 en §2, kunnen deelnemen.<br>
+<br>
+§ 8. De gunstige rangschikking voor het toelatingsexamen dierenarts in een bepaald burgerlijk jaar wordt alleen aanvaard voor het voldoen aan de bijkomende toelatingsvoorwaarde als de student uiterlijk op 30 september van dat burgerlijk jaar voldoet aan de algemene toelatingsvoorwaarden voor een bacheloropleiding, vermeld in artikel II.178.<br>
+<br>
+§ 9. De bijkomende toelatingsvoorwaarde van gunstige rangschikking voor het toelatingsexamen dierenarts, vermeld in paragraaf 1, geldt ook:<br>
+1° voor de inschrijving in een bachelor- of masteropleiding in het studiegebied Diergeneeskunde als de student vrijstelling heeft verkregen van sommige opleidingsonderdelen of een diploma heeft behaald na een opleiding waarvoor de voormelde bijkomende toelatingsvoorwaarde niet van toepassing is;<br>
+2° voor de inschrijving in een bachelor- of masteropleiding in het studiegebied Diergeneeskunde in geval van een rechtstreekse diplomering als vermeld in artikel II.245.<br>
+<br>
+§ 10. Studenten die in het academiejaar 2022-2023 ingeschreven zijn in de bachelor-of masteropleiding diergeneeskunde, worden vrijgesteld van het toelatingsexamen dierenarts, vermeld in paragraaf 1.<br>
+<br>
+De vrijstelling van het toelatingsexamen dierenarts geldt, met behoud van de toepassing van artikel II.193, ook voor personen die buiten België een diploma van dierenarts hebben behaald en die de toelating hebben om zich aan een universiteit van de Vlaamse Gemeenschap in te schrijven voor een masteropleiding in het studiegebied Diergeneeskunde.<br>
+<br>
+§ 11. Het bewijs van toelating van een student die gunstig wordt gerangschikt en tijdig voldoet aan de algemene toelatingsvoorwaarde, vermeld in paragraaf 8, blijft onbeperkt geldig.
+
 ### ART. II.188.
 
 <p style="margin-left:0cm; margin-right:0cm">De inschrijving in het derde studiejaar van een bacheloropleiding of in een masteropleiding in het studiegebied Godgeleerdheid, Godsdienstwetenschappen en Kerkelijk Recht staat open voor de studenten die geslaagd zijn voor de gehele cyclus aan een instelling die leidt tot het ambt van bedienaar van een erkende eredienst. Het universiteitsbestuur kan de inschrijving afhankelijk maken van een onderzoek waarin gepeild wordt naar de geschiktheid van deze studenten voor de betreffende opleiding en desgevallend van het met succes voltooien van een voorbereidingsprogramma.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
 
 ### ART II.188/1.
 
-Onverminderd de algemene toelatingsvoorwaarden voor een bacheloropleiding, vermeld in artikel II.178, wordt de eerste inschrijving voor bepaalde bacheloropleidingen aan de hogescholen of de universiteiten afhankelijk gesteld van de verplichte deelname aan een niet-bindende toelatingsproef.<br>
+§ 1. Met behoud van de toepassing van de algemene toelatingsvoorwaarden voor een bacheloropleiding, vermeld in artikel II.178, wordt de eerste inschrijving voor bepaalde bacheloropleidingen aan de hogescholen of universiteiten afhankelijk gesteld van de verplichte deelname aan een starttoets. Een starttoets is instellingsneutraal, betrouwbaar en valide. Na de afname van de starttoets ontvangen de deelnemers een attest van deelname, dat alleen geldig is voor inschrijving in het lopende academiejaar waarin de test wordt afgenomen of in het academiejaar dat start na de afname van de starttoets.<br>
 <br>
-De niet-bindende toelatingsproef is instellingsneutraal. De resultaten van de niet-bindende toelatingsproef kunnen in geen geval de weigering tot de eerste inschrijving voor een opleiding tot gevolg hebben. Een instelling kan wel beslissen om een remediëring als vermeld in artikel II.246, § 1, 1°, op te leggen aan een student die de vooropgestelde cesuur voor de proef niet behaalt.<br>
+Een starttoets test startcompetenties die nodig zijn voor het welslagen in de betrokken opleiding. De deelname aan een starttoets gebeurt onder gecontroleerde omstandigheden. Bij de organisatie van een starttoets wordt voor studenten met functiebeperkingen als vermeld in artikel II.221, § 2, tweede lid, in redelijke aanpassingen voorzien.<br>
 <br>
-In uitzonderlijke gevallen kan door de instelling voor een individuele student op gemotiveerde wijze worden afgeweken van de voorwaarde tot verplichte deelname. Ook in dat geval kan de instelling een remediëring opleggen aan die studenten.<br>
+Na de afname van de starttoets ontvangt iedere deelnemer een individueel feedbackrapport. Iedere deelnemer heeft het recht om op basis van dit feedbackrapport een gesprek aan te gaan met een studie- of trajectbegeleider in de instelling waar hij zich wenst in te schrijven.<br>
 <br>
-De Vlaamse Regering legt, na raadpleging van de VLUHR, bij besluit de lijst vast van de opleidingen waarvoor deelname aan een niet-bindende toelatingsproef een voorwaarde voor inschrijving is.<br>
+De Vlaamse Regering legt, na raadpleging van de VLUHR, bij besluit de lijst vast van de opleidingen waarvoor deelname aan een starttoets een voorwaarde voor inschrijving is.<br>
 <br>
-De hogescholen en universiteiten nemen de bijkomende inschrijvingsvoorwaarde tot het afleggen van een verplichte, niet-bindende toelatingsproef, de modaliteiten waarbinnen dat moet gebeuren, de mogelijke afwijkingen op de verplichte deelname, en, in voorkomend geval, een remediëring die wordt opgelegd in het onderwijs- en examenreglement.
+De hogescholen en universiteiten nemen de bijkomende inschrijvingsvoorwaarde van het afleggen van een starttoets en de verplichte remediëring die wordt opgelegd, op in hun onderwijsreglement.<br>
+<br>
+§ 2. In afwijking van paragraaf 1, eerste lid, wordt in de instellingsoverschrijdende reglementen, vermeld in paragraaf 5, opgenomen onder welke voorwaarden en op welke wijze een student of een groep van studenten wordt vrijgesteld van de verplichte deelname aan een starttoets. Elke vrijstelling wordt gemotiveerd.<br>
+<br>
+§ 3. De resultaten op de starttoetsen kunnen in geen geval de weigering tot inschrijving in de opleiding tot gevolg hebben.<br>
+<br>
+De instellingen leggen vanaf het academiejaar 2023-2024 verplichte remediering op aan studenten die de vastgelegde cesuur of cesuren op de starttoets of een toetsonderdeel van de starttoets niet behalen. De cesuur of cesuren voor de starttoetsen worden per toets vastgelegd over de instellingen heen en opgenomen in de instellingsoverschrijdende reglementen, vermeld in paragraaf 5.<br>
+<br>
+De instellingen kunnen vanaf het academiejaar 2023-2024 verplichte remediering opleggen aan een student die:<br>
+1° is vrijgesteld van deelname aan een starttoets;<br>
+2° heeft deelgenomen aan een andere starttoets dan de starttoets die overeenstemt met de opleiding waarvoor de student zich wil inschrijven.<br>
+<br>
+De instellingen leggen in de instellingsoverschrijdende reglementen, vermeld in paragraaf 5, vast in welke gevallen ze verplichte remediëring opleggen als vermeld in het derde lid.<br>
+<br>
+De verplichte remediëring moet zich richten op die kennis en competenties waarvoor door de starttoets remedieerbare tekorten werden vastgesteld. De instellingen voorzien in een remediëringsaanbod voorafgaand aan de start van het academiejaar alsook in een aanbod dat tijdens het academiejaar intra- of extracurriculair kan opgenomen worden. Elke instelling bepaalt autonoom de omvang en de inhoud van de verplichte remediëring. Indien de remediëring tijdens het academiejaar wordt vormgegeven, mag de omvang van de verplichte remediëring niet meer dan zes studiepunten bedragen.<br>
+<br>
+Elke instelling bepaalt autonoom of er evaluatiemomenten of verplichte deelname worden gekoppeld aan de opgelegde remediëring.<br>
+<br>
+De VLIR en de VLHORA volgen de validering van de verplichte remediëring en de impact ervan op studenten op. Ze rapporteren hierover jaarlijks aan de Vlaamse minister, bevoegd voor onderwijs en vorming.<br>
+<br>
+§ 4. Een student kan een beroep instellen tegen:<br>
+1° zijn resultaten op de starttoets;<br>
+2° het niet verkrijgen van een vrijstelling van deelname aan een starttoets;<br>
+3° het niet verkrijgen van redelijke aanpassingen bij de deelname aan een starttoets, of de aard van die aanpassingen.<br>
+<br>
+De modaliteiten voor het beroep worden vastgelegd in de instellingsoverschrijdende reglementen, vermeld in paragraaf 5.<br>
+<br>
+§ 5. Alle hogescholen respectievelijk alle universiteiten leggen gezamenlijk binnen respectievelijk de VLHORA en de VLIR een instellingsoverschrijdend reglement vast. Dit bevat minimaal volgende elementen:<br>
+1° de cesuur of cesuren voor een starttoets of toetsonderdeel van een starttoets en de consequenties naar verplichte remediëring toe;<br>
+2° de consequenties naar verplichte remediëring bij deelname aan een niet-overeenstemmende starttoets of bij vrijstelling van deelname aan een starttoets;<br>
+3° de afnamemodaliteiten van de starttoetsen;<br>
+4° de vrijstellingen van de verplichte deelname aan een starttoets en de manier waarop de vrijstelling van deelname wordt verleend;<br>
+5° de regels over de beroepsprocedure;<br>
+6° afspraken rond de toekenning van redelijke aanpassingen bij de deelname aan een starttoets voor studenten met functiebeperkingen als vermeld in artikel II.221, § 2, tweede lid.<br>
+<br>
+De instellingsoverschrijdende reglementen worden jaarlijks opgesteld en gevalideerd door respectievelijk de VLHORA en de VLIR volgens hun eigen beslissingsregels. Ze maken deze reglementen over aan de Vlaamse minister, bevoegd voor onderwijs en vorming, uiterlijk op 15 maart van het jaar waarin de starttoetsen worden afgenomen. De instellingsoverschrijdende reglementen worden door de instellingen openbaar en makkelijk raadpleegbaar gemaakt.<br>
+<br>
+§ 6. De deelname aan een starttoets is kosteloos. In voorkomend geval genereert ook de opgelegde verplichte remediëring voor de student geen extra kosten, met uitzondering van verschuldigd studiegeld en kosten voor het gebruikelijke cursusmateriaal.
 
 ### ART. II.189.
 
@@ -7850,6 +7950,12 @@ Ter uitvoering van de acties vervat in het speerpunt 1 Een toekomstbestendig en 
 In het kader van een verhoging van de quota, vermeld in artikel II.187, §4, kan de Vlaamse Regering vanaf het begrotingsjaar 2023 binnen de beschikbare budgettaire ruimte een bijkomende werkingstoelage toekennen voor de universiteiten die een bacheloropleiding aanbieden in het studiegebied Geneeskunde en/of Tandheelkunde.<br>
 <br>
 De universiteiten kunnen de bijkomende middelen, vermeld in het eerste lid, enkel aanwenden voor werking of infrastructuur investeringen. Deze bijkomende middelen voor het begrotingsjaar t worden verdeeld over de desbetreffende universiteiten op basis van het gemiddeld aantal opgenomen studiepunten over de academiejaren t-7/t-6 tot en met t-3/t-2 waarvoor studenten onder diplomacontract zich hebben ingeschreven voor een bacheloropleiding in het studiegebied Geneeskunde en/of Tandheelkunde.
+
+### ART III.25/3.
+
+In het kader van de verplichte remediëring, vermeld in artikel II.188/1, kent de Vlaamse Regering vanaf het begrotingsjaar 2023 een bijkomende werkingstoelage van 1.100.567 euro toe aan de hogescholen en 1.034.927 euro aan de universiteiten. Deze toelage voor het begrotingsjaar t wordt over de instellingen verdeeld op basis van het gemiddelde aantal opgenomen studiepunten over de academiejaren t-7/t-6 tot en met t-3/t-2 waarvoor studenten onder diplomacontract zich hebben ingeschreven voor de bacheloropleidingen waarvoor deelname aan een starttoets een voorwaarde voor inschrijving is in academiejaar t/t+1.<br>
+<br>
+De bedragen, vermeld in deze paragraaf, worden binnen de perken van de begroting van de Vlaamse Gemeenschap vanaf het begrotingsjaar 2023 jaarlijks geïndexeerd aan de hand van de indexeringsformule, vermeld in artikel III.5, §9.
 
 ### ART. III.26.
 
