@@ -160,26 +160,30 @@ De lijst van vergaderingen, vermeld in artikel 17, § 1, eerste lid, van het dec
 2° de vergaderingen met de vertegenwoordigers van de intern verzelfstandigde agentschappen;<br>
 3° de vergaderingen waarvoor het aanwezigheidsquorum niet is bereikt, maar waarvoor de raadsleden, als het bereikt was, wel presentiegeld zouden krijgen;<br>
 4° de vergaderingen die maar gedeeltelijk zijn bijgewoond;<br>
-5° de vergaderingen die hervat worden op een andere dag.<br>
+5° de vergaderingen die hervat worden op een andere dag;<br>
+6° de vergaderingen van de deontologische commissie, vermeld in artikel 39 van het decreet van 22 december 2017.<br>
 <br>
 De lijst van vergaderingen, vermeld in artikel 73, eerste lid, en artikel 536, § 1, van het decreet van 22 december 2017, omvat:<br>
 1° de vergaderingen met de vertegenwoordigers van de intern verzelfstandigde agentschappen;<br>
 2° de vergaderingen met de vertegenwoordigers van de verenigingen of vennootschappen voor maatschappelijk welzijn, vermeld in deel 3, titel 4, van het decreet van 22 december 2017;<br>
 3° de vergaderingen waarvoor het aanwezigheidsquorum niet is bereikt, maar waarvoor de raadsleden, als het bereikt was, wel presentiegeld zouden krijgen;<br>
 4° de vergaderingen die maar gedeeltelijk zijn bijgewoond;<br>
-5° de vergaderingen die hervat worden op een andere dag.<br>
+5° de vergaderingen die hervat worden op een andere dag;<br>
+6° de vergaderingen van de deontologische commissie, vermeld in artikel 39 van het decreet van 22 december 2017.<br>
 <br>
 De lijst van vergaderingen, vermeld in artikel 107, § 1, van het decreet van 22 december 2017, omvat:<br>
 1° de vergaderingen van de subcomités, opgericht met toepassing van artikel 89 van het decreet van 22 december 2017;<br>
 2° de vergaderingen waarvoor het aanwezigheidsquorum niet is bereikt, maar waarvoor de leden, als het bereikt was, wel presentiegeld zouden krijgen;<br>
 3° de vergaderingen die maar gedeeltelijk zijn bijgewoond;<br>
-4° de vergaderingen die hervat worden op een andere dag.<br>
+4° de vergaderingen die hervat worden op een andere dag;<br>
+5° de vergaderingen van de deontologische commissie, vermeld in artikel 39 van het decreet van 22 december 2017.<br>
 <br>
 De lijst van vergaderingen voor de districten omvat op grond van artikel 119, eerste lid, van het decreet van 22 december 2017:<br>
 1° de vergaderingen van de districtsraadscommissies, met inbegrip van de vergaderingen waarvoor de raadsleden aangewezen zijn als lid met raadgevende stem;<br>
 2° de vergaderingen waarvoor het aanwezigheidsquorum niet is bereikt, maar waarvoor de raadsleden, als het bereikt was, wel presentiegeld zouden krijgen;<br>
 3° de vergaderingen die maar gedeeltelijk zijn bijgewoond;<br>
-4° de vergaderingen die hervat worden op een andere dag.
+4° de vergaderingen die hervat worden op een andere dag;<br>
+5° de vergaderingen van de deontologische commissie, vermeld in artikel 39 van het decreet van 22 december 2017.
 
 ### ART 16.
 
