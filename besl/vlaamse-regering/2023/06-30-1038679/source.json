@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038679,
+  "title": "Besluit van de Vlaamse Regering van 2023-06-30 tot wijziging van artikel 14, 15, 53, 54, 56 en 58 van het besluit van de Vlaamse Regering van 6 juli 2018 houdende het statuut van de lokale mandataris",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038679/VolledigDocument?datum=2023-03-02",
+  "source_sha256": "8f2840ab579a239db24768ddf9353cd60a04950969c7586588f0717eec6b82fb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038679&param=informatie",
+  "as_of": "2023-03-02",
+  "made": "2023-06-30",
+  "gazette": "2023-10-03",
+  "numac": 2023044415,
+  "document_start": "2023-10-13",
+  "document_end": null,
+  "in_force": "2023-03-02",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-03-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
