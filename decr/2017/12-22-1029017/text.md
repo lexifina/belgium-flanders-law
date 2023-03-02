@@ -492,7 +492,7 @@ De gemeenteraad kan het huishoudelijk reglement op elk moment wijzigen.
 
 ### ART 39.
 
-De gemeenteraad neemt een deontologische code aan.
+De gemeenteraad neemt een deontologische code aan en richt een deontologische commissie op. De deontologische code regelt ook de samenstelling, werking en bevoegdheid van de deontologische commissie. De deontologische commissie bestaat minstens uit één vertegenwoordiger per fractie in de gemeenteraad.
 
 ## Afdeling 3. De bevoegdheden van de gemeenteraad
 
@@ -1537,7 +1537,7 @@ De verbodsbepalingen, vermeld in artikel 27, § 2, en de rechten van de leden va
 
 ### ART 127.
 
-De leden van de districtsraad hanteren de deontologische code van de gemeenteraad, vermeld in artikel 39. De leden van de districtsraad worden door de districtssecretaris van die deontologische code en de wijzigingen erin binnen een maand na de aanneming ervan op de hoogte gebracht.
+De leden van de districtsraad hanteren de deontologische code van de gemeenteraad, vermeld in artikel 39, en vallen onder de bevoegdheid van de deontologische commissie van de gemeenteraad. De leden van de districtsraad worden door de districtssecretaris van die deontologische code en de wijzigingen erin binnen een maand na de aanneming ervan op de hoogte gebracht.
 
 ### ART 128.
 
