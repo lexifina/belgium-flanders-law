@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037910,
+  "title": "Besluit van de Vlaamse Regering van 2022-12-16 houdende de herverdeling van begrotingsartikel CB0-1CBG2AM-PR van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037910/VolledigDocument?datum=2023-03-02",
+  "source_sha256": "21c4f829aa6061b0c1eae45f8324d4aa485ead5b9e5aba6559eb1cd0015e6775",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037910&param=informatie",
+  "as_of": "2023-03-02",
+  "made": "2022-12-16",
+  "gazette": "2023-02-20",
+  "numac": 2023030388,
+  "document_start": "2023-03-02",
+  "document_end": null,
+  "in_force": "2023-03-02",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-03-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
