@@ -10,7 +10,9 @@ In   dit besluit wordt verstaan onder:<BR   style="TEXT-TRANSFORM: none; TEXT-IN
 
 ### ART. 2.
 
-Het hoofd van de Vlaamse Belastingdienst wordt gemachtigd om de Vlaamse commissarissen, vermeld in artikel 2, 2° van het decreet van 19 december 2014, aan te wijzen.
+Het hoofd van de Vlaamse Belastingdienst wordt gemachtigd om de Vlaamse commissarissen, vermeld in artikel 2, 2° van het decreet van 19 december 2014, aan te wijzen.<br>
+<br>
+Het hoofd van de Vlaamse Belastingdienst wordt gemachtigd om de schatters-onderhandelaars, vermeld in artikel 2, 2°/1, van het decreet van 19 december 2014, aan te wijzen.
 
 ### ART. 3.
 
