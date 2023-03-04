@@ -384,7 +384,7 @@ Het Agentschap Wegen en Verkeer kan lokale besturen belasten met beheersbevoegdh
 § 1. Het Vlaamse Gewest en de lokale besturen zijn gemachtigd om deel te nemen aan vaststellingsovereenkomsten als vermeld in artikel 2044 van het oude Burgerlijk Wetboek, met als doel de vergoeding verbonden aan verwervingen genoodzaakt door MIA-infrastructuurwerken te laten bepalen bij wijze van bindende derdenbeslissing.<br>
 <br>
 De derdenbeslissing wordt genomen door:<br>
-1° een landmeter-expert of een personeelslid van de afdeling Vastgoedtransacties, aangesteld door de overheid;<br>
+1° een landmeter-expert of een personeelslid van de afdeling van de Vlaamse Belastingdienst die bevoegd is voor de schattingen en waarderingen, aangesteld door de overheid;<br>
 2° een landmeter-expert, aangesteld door de eigenaar;<br>
 3° een door beide landmeters-experten aangestelde bemiddelaar, beslagen in het bestuursrecht, die optreedt als voorzitter.<br>
 <br>
