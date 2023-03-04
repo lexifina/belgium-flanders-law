@@ -1381,13 +1381,13 @@ Aan de voorwaarde, vermeld in het eerste lid, 4°, is ook voldaan als de woning 
 
 ### ART 4.5.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Voor de opmaak van schattingsverslagen, in het kader van onroerende transacties krachtens deze codex, doen sociale woonorganisaties een beroep op een van de hierna volgende personen of instanties:</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">1° een commissaris van de Vlaamse Belastingdienst die bevoegd is voor schattingen;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">2° een notaris;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">3° een landmeter-expert, na gezamenlijk akkoord over de schatter;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">4° een ambtenaar die gemachtigd is door de dienst die door de Vlaamse Regering belast is met het woonbeleid, als die dienst zelf geen partij is bij de onroerende transactie waarvoor het schattingsverslag wordt opgemaakt.</span></span></span><br>
+<p>Voor de opmaak van schattingsverslagen, in het kader van onroerende transacties krachtens deze codex, doen sociale woonorganisaties een beroep op een van de hierna volgende personen of instanties:<br>
+1° een schatter-onderhandelaar van de Vlaamse Belastingdienst die bevoegd is voor schattingen;<br>
+2° een notaris;<br>
+3° een landmeter-expert, na gezamenlijk akkoord over de schatter;<br>
+4° een ambtenaar die gemachtigd is door de dienst die door de Vlaamse Regering belast is met het woonbeleid, als die dienst zelf geen partij is bij de onroerende transactie waarvoor het schattingsverslag wordt opgemaakt.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De raming van de waarde van een onroerend goed door een persoon of instantie als vermeld in het eerste lid, 1°, primeert op de raming van een onroerend goed door een persoon of instantie als vermeld in het eerste lid, 2°, 3° en 4°.</span></span></span></p>
+De raming van de waarde van een onroerend goed door een persoon of instantie als vermeld in het eerste lid, 1°, primeert op de raming van een onroerend goed door een persoon of instantie als vermeld in het eerste lid, 2°, 3° en 4°.</p>
 
 ### ART 4.6.
 
