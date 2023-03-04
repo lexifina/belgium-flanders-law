@@ -130,7 +130,7 @@ De Vlaamse Regering kan andere rechtspersonen, die bevoegd zijn om onroerende go
 <br>
 § 2. Het definitieve onteigeningsbesluit dient uiterlijk 5 jaar na het sluiten van het brownfieldconvenant of, indien het projectgebied wordt uitgebreid via een addendum bij het brownfieldconvenant, uiterlijk 5 jaar na het sluiten van voormeld addendum, te worden goedgekeurd.<br>
 <br>
-§ 3. Voor de uitvoering van een goedgekeurd onteigeningsplan kan de onteigenaar zich in rechte laten vertegenwoordigen door de afdeling Vastgoedtransacties bij de Vlaamse Belastingdienst conform de artikelen 3 tot en met 5 van het decreet van 19 december 2014 houdende de Vlaamse Vastgoedcodex.<br>
+§ 3. Voor de uitvoering van een goedgekeurd onteigeningsplan kan de onteigenaar zich in rechte laten vertegenwoordigen door de Vlaamse Belastingdienst conform de artikelen 3 tot en met 5 van het decreet van 19 december 2014 houdende de Vlaamse Vastgoedcodex.<br>
 <br>
 § 4. ...<br>
 <br>
