@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038079,
+  "title": "Besluit van de Vlaamse Regering van 2022-12-23 tot herverdeling van kredieten over programma’s van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038079/VolledigDocument?datum=2023-03-05",
+  "source_sha256": "181402f68ff4e5d703948840c45cf179e251178c442768126fde3eac62083d46",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038079&param=informatie",
+  "as_of": "2023-03-05",
+  "made": "2022-12-23",
+  "gazette": "2023-02-23",
+  "numac": 2023010021,
+  "document_start": "2023-03-05",
+  "document_end": null,
+  "in_force": "2023-03-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-03-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
