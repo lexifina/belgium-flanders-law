@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032644,
+  "title": "Samenwerkingsakkoord van 2019-07-17 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest met betrekking tot de eenmaking van de wijze waarop gerefereerd wordt aan de adressen en de koppeling van adresgegevens",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032644/VolledigDocument?datum=2023-03-08",
+  "source_sha256": "34e7910e88de26b46ea29ba65c1b9fa71308ddb5f85b47931d15983295ff9a37",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032644&param=informatie",
+  "as_of": "2023-03-08",
+  "made": "2019-07-17",
+  "gazette": "2023-03-08",
+  "numac": 2023015091,
+  "document_start": "2023-03-08",
+  "document_end": null,
+  "in_force": "2023-03-08",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2023-03-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
