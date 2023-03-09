@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038068,
+  "title": "Besluit van de Vlaamse Regering van 2023-01-27 tot wijziging van het koninklijk besluit van 16 juli 2009 tot vaststelling van de lijst van niet voor productiedoeleinden gehouden zoogdieren die gehouden mogen worden en het besluit van de Vlaamse Regering van 22 maart 2019 tot vaststelling van de lijst van reptielen die gehouden mogen worden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038068/VolledigDocument?datum=2023-03-09",
+  "source_sha256": "72bba8f8bf15c7b5b6c30fd64bac552335e2fbdf6f8c25fbacdcd5dba7108f52",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038068&param=informatie",
+  "as_of": "2023-03-09",
+  "made": "2023-01-27",
+  "gazette": "2023-02-27",
+  "numac": 2023030418,
+  "document_start": "2023-03-09",
+  "document_end": null,
+  "in_force": "2023-03-09",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2023-03-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
