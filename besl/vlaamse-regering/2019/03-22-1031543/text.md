@@ -53,13 +53,13 @@ De bewijstukken worden bijgehouden zolang het reptiel in kwestie in leven is.
 
 ### ART 4.
 
-§ 1. Een particulier als vermeld in artikel 3bis, § 2, 3°, b), van de wet van 14 augustus 1986, die vanaf de datum van de inwerkingtreding van dit besluit een of meer reptielen die niet vermeld zijn in de lijst, opgenomen in de bijlage die bij dit besluit is gevoegd, wil houden, dient daarvoor vooraf bij de minister een gemotiveerd aanvraagdossier in. Uit dat dossier blijkt dat de aanvrager zich goed gedocumenteerd heeft over de levensgewoonten en fysiologische behoeften van de soort die hij wil houden. Het dossier bevat ook een beschrijving van de huisvesting en verzorging die de particulier het dier kan verschaffen.<br>
+§1. Een particulier als vermeld in artikel 3bis, § 2, 3°, b), van de wet van 14 augustus 1986, die vanaf de datum van de inwerkingtreding van dit besluit een of meer reptielen die niet vermeld zijn in de lijst, opgenomen in de bijlage die bij dit besluit is gevoegd, wil houden, dient daarvoor vooraf bij de minister een gemotiveerd aanvraagdossier in. Uit dat dossier blijkt dat de aanvrager zich goed gedocumenteerd heeft over de levensgewoonten en fysiologische behoeften van de soort die hij wil houden. Het dossier bevat ook een beschrijving van de huisvesting en verzorging die de particulier het dier kan verschaffen.<br>
 <br>
 Voor elk ingediend dossier wordt een retributie betaald van 60 euro per soort. De retributie wordt gestort op rekeningnummer BE04 3751 1109 9031 van het Vlaams Dierenwelzijnsfonds van het departement.<br>
 <br>
 In het tweede lid wordt verstaan onder Vlaams Dierenwelzijnsfonds : het fonds zoals opgericht bij het decreet van 19 december 2014 houdende bepalingen tot begeleiding van de begroting.<br>
 <br>
-§ 2. Voor de aanvraag wordt gebruikgemaakt van een formulier waarvan het model ter beschikking wordt gesteld op de website www.omgevingvlaanderen.be van het departement.<br>
+§2. Voor de aanvraag wordt gebruikgemaakt van een formulier waarvan het model ter beschikking wordt gesteld op de website www.omgevingvlaanderen.be van het departement.<br>
 <br>
 Het aanvraagformulier bevat al de volgende gegevens :<br>
 1° de gegevens van de diersoort;<br>
@@ -74,16 +74,35 @@ Het aanvraagformulier bevat al de volgende gegevens :<br>
 10° het beschermingsstatuut van het dier;<br>
 11° een oplijsting van de andere diersoorten die gehouden worden door de aanvrager.<br>
 <br>
-§ 3. De minister beslist na advies van de Vlaamse Dierentuinencommissie over de erkenning van de particulier, vermeld in paragraaf 1, eerste lid, binnen zes maanden nadat hij het aanvraagdossier heeft ontvangen.<br>
+§3. De minister beslist na advies van de Vlaamse Dierentuinencommissie over de erkenning van de particulier, vermeld in paragraaf 1, eerste lid, binnen zes maanden nadat de minister het aanvraagdossier conform paragraaf 1 heeft ontvangen. De minister beslist op basis van al de volgende criteria:<br>
+1°&nbsp;&nbsp; &nbsp;het feit of de dieren van de soort in kwestie al dan niet gemakkelijk te houden en te huisvesten zijn met inachtname van de essentiële fysiologische, ethologische en ecologische behoeften van de soort;<br>
+2°&nbsp;&nbsp; &nbsp;de handelbaarheid van de soort, rekening houdend met de grootte van de volwassen dieren;<br>
+3°&nbsp;&nbsp; &nbsp;de mate waarin de dieren van de soort in kwestie van nature agressief of gevaarlijk zijn of een ander bijzonder gevaar voor de gezondheid van de mens inhouden;<br>
+4°&nbsp;&nbsp; &nbsp;het feit of er &nbsp;duidelijke aanwijzingen bestaan dat de soort zich in de natuur kan handhaven bij ontsnapping van specimens uit gevangenschap en bijgevolg een ecologische bedreiging vormt;<br>
+5°&nbsp;&nbsp; &nbsp;de beschikbaarheid van gedetailleerde informatie over het houden van de soort, met inbegrip van informatie over de behoeften en voorwaarden om de soort in gevangenschap te houden en te verzorgen;<br>
+6°&nbsp;&nbsp; &nbsp;de voorziene huisvesting biedt voldoende garanties om het welzijn van de dieren te verzekeren en is zo ontworpen en onderhouden dat de dieren niet kunnen ontsnappen en dat de veiligheid van de dieren, de omwonenden en de omgeving gewaarborgd is;<br>
+7°&nbsp;&nbsp; &nbsp;de voorziene verzorging en de kennis van de aanvrager bieden voldoende garanties om het welzijn van de dieren te verzekeren, inclusief de intenties van de particulier om met de aangevraagde diersoort te kweken of nieuwe individuen te verwerven.<br>
 <br>
-Het dossier wordt beoordeeld op basis van een uitgebreid onderzoek dat berust op de meest betrouwbare wetenschappelijke gegevens die beschikbaar zijn, en op de meest recente resultaten van het internationale onderzoek ter zake. De beslissing van de minister is positief als uit het ingediende aanvraagdossier duidelijk blijkt dat de voorziene huisvesting en verzorging en de kennis van de aanvrager voldoende garanties bieden om het welzijn van de dieren te verzekeren.<br>
+In het eerste lid wordt verstaan onder Vlaamse Dierentuinencommissie:&nbsp;<br>
+het comité van deskundigen, vermeld in artikel 5, § 2, van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren.<br>
 <br>
-§ 4. De erkenning is geldig voor onbeperkte duur.<br>
+In geval van tegenstrijdige gegevens of informatie over de houdbaarheid van een soort wordt beschouwd dat niet voldaan is aan een of meerdere van de criteria, vermeld in het eerste lid.<br>
+<br>
+Het aanvraagdossier, vermeld in paragraaf 1, wordt beoordeeld op basis van al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;de meest betrouwbare wetenschappelijke gegevens die beschikbaar zijn;<br>
+2°&nbsp;&nbsp; &nbsp;de meest recente resultaten van het internationale onderzoek ter zake;<br>
+3°&nbsp;&nbsp; &nbsp;de minimumnormen, vermeld in het ministerieel besluit van 23 juni 2004 tot vaststelling van minimumnormen voor het houden van reptielen in dierentuinen.<br>
+.<br>
+§4. De erkenning is geldig voor onbeperkte duur.<br>
+<br>
+In de erkenning wordt bepaald of kweken met de aangevraagde diersoort toegelaten wordt en of er een beperking opgelegd wordt voor het maximale aantal individuen van de soort in kwestie dat gehouden mag worden.<br>
 <br>
 De minister kan een erkenning schorsen of intrekken als :<br>
 1° de huisvesting of de verzorging van de dieren het welzijn van de dieren in kwestie niet meer verzekert;<br>
 2° de kennis van de reptielenhouder niet langer voldoende garanties biedt om het welzijn van zijn dieren te verzekeren;<br>
-3° de bepalingen van de wet van 14 augustus 1986 of zijn uitvoeringsbesluiten overtreden worden.
+3° de bepalingen van de wet van 14 augustus 1986 of zijn uitvoeringsbesluiten overtreden worden.<br>
+<br>
+§5. De aanvrager zorgt ervoor dat de dieren niet kunnen ontsnappen.
 
 ### ART 5.
 
