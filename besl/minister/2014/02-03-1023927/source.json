@@ -2,16 +2,16 @@
   "codex_id": 1023927,
   "title": "Ministerieel besluit van 2014-02-03 houdende goedkeuring van het bijzonder waterverkoopreglement huisaansluitingen van TMVW in uitvoering van artikel 16, § 2, van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023927/VolledigDocument?datum=2014-03-31",
-  "source_sha256": "6bf554fbeba0eca02117610e896f097b227fcb36be04fed19c3fbc29d511f5a4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023927/VolledigDocument?datum=2023-03-10",
+  "source_sha256": "f28dac5764fe3c210b61362756aa7d0a29aa374aad9d7109f1db5f7a4ff99d4b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023927&param=informatie",
-  "as_of": "2014-03-31",
+  "as_of": "2023-03-10",
   "made": "2014-02-03",
   "gazette": "2014-03-21",
   "numac": 2014201478,
   "document_start": "2014-03-31",
   "document_end": "2099-12-31",
-  "in_force": "2014-03-31",
+  "in_force": "2023-03-10",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2014-03-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-03-10; future article versions excluded; article text as the API gives it"
 }
