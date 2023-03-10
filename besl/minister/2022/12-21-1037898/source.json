@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037898,
+  "title": "Ministerieel besluit van 2022-12-21 tot goedkeuring van het bijzonder waterverkoopreglement van TMVW in uitvoering van artikel 2.5.3.1 §2 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037898/VolledigDocument?datum=2023-03-10",
+  "source_sha256": "62e7cf171b03d74283927fd1d8b88dbe2e5357fa48f5d8f36ee2ef511314afce",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037898&param=informatie",
+  "as_of": "2023-03-10",
+  "made": "2022-12-21",
+  "gazette": "2023-02-28",
+  "numac": 2023030349,
+  "document_start": "2023-03-10",
+  "document_end": null,
+  "in_force": "2023-03-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-03-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
