@@ -22,10 +22,8 @@ Besluit :
 
 ### ART 1.
 
-Het bijzonder waterverkoopreglement-deel IBA van FARYS/TMVW dat werd voorgelegd op 28 oktober 2016 wordt goedgekeurd.
+...
 
 ### ART 2.
 
-Tegen deze beslissing kan binnen 60 dagen na kennisneming een beroep tot nietigverklaring ingediend worden bij de Raad van State.<br>
-<br>
-Het verzoekschrift dient aangetekend te worden neergelegd bij de Raad van State samen met drie door de ondertekenaar eensluidend verklaarde afschriften en bovendien zoveel afschriften als er tegenpartijen zijn. Bevat het verzoekschrift tot nietigverklaring tevens een vordering tot schorsing van de tenuitvoerlegging van de bestreden akte, dan bevat het verzoekschrift negen door de ondertekenaar eensluidend verklaarde afschriften (artikel 85 van het procedurereglement van de Raad van State, zoals gewijzigd door het K.B. van 25 april 2007).
+...
