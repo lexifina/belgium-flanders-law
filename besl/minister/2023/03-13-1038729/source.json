@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038729,
+  "title": "Ministerieel besluit van 2023-03-13 houdende de interne administratieve overdracht van een onroerend goed",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038729/VolledigDocument?datum=2023-03-13",
+  "source_sha256": "4538dacdfe6a93d2f78fa9ecbf05258fc74894e38680e540315b75b0a24a7cdd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038729&param=informatie",
+  "as_of": "2023-03-13",
+  "made": "2023-03-13",
+  "gazette": "2023-10-10",
+  "numac": 2023044729,
+  "document_start": "2023-03-13",
+  "document_end": null,
+  "in_force": "2023-03-13",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2023-03-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
