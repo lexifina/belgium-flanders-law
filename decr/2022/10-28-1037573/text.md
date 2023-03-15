@@ -120,7 +120,111 @@ Indien de melding betrekking heeft op een mogelijke discriminatie zoals bedoeld 
 
 ## Onderafdeling 2. Klachten
 
+### ART 13.
+
+§ 1. Bij het VMRI kan kosteloos en met een schriftelijke neerslag een met redenen omklede klacht worden ingediend over een discriminatie zoals bedoeld in het decreet van 10 juli 2008 en het decreet van 8 mei 2002, met uitsluiting van discriminatie op grond van taal, door:<br>
+1° de persoon die meent dat hij wordt gediscrimineerd, of zijn wettelijke vertegenwoordiger;<br>
+2° een instelling, vereniging of organisatie zoals bedoeld in artikel 41 van het decreet van 10 juli 2008 en in artikel 16 van het decreet van 8 mei 2002;<br>
+3° iedere andere persoon die een belang aantoont.<br>
+<br>
+Een klacht kan alleen worden ingediend in naam van de persoon die meent dat hij wordt gediscrimineerd, als die persoon daarmee heeft ingestemd.<br>
+<br>
+§ 2. De volgende personen zijn de betrokken partijen bij de behandeling van de klacht:<br>
+1° de klager, namelijk de persoon die de klacht heeft ingediend;<br>
+2° de verweerder, namelijk de persoon die gediscrimineerd zou hebben.<br>
+<br>
+Indien de klager niet de persoon is die meent dat hij wordt gediscrimineerd, en de klacht wordt ingediend namens die persoon, vraagt het VMRI of die persoon tevens betrokken partij wil worden.<br>
+<br>
+De betrokken partijen kunnen zich laten bijstaan door een raadsman of een derde.<br>
+<br>
+§ 3. In de volgende gevallen is de klacht niet ontvankelijk: 1° de klacht is niet ingediend conform paragraaf 1;<br>
+2° de klacht is kennelijk ongegrond;<br>
+3° de klacht is kennelijk roekeloos of tergend;<br>
+4° de klacht heeft betrekking op feiten die zich meer dan vijf jaar vóór het indienen van de klacht hebben voorgedaan;<br>
+5° de klacht is al behandeld door het VMRI.<br>
+<br>
+Het geval, vermeld in het eerste lid, 5°, is niet van toepassing als er voldoende nieuwe elementen voorliggen die een nieuwe behandeling verantwoorden.<br>
+<br>
+Als het VMRI beslist dat een klacht niet ontvankelijk is, brengt het de klager daarvan gemotiveerd en minstens schriftelijk op de hoogte.<br>
+<br>
+Als dat mogelijk is, verwijst het VMRI de klager door naar een instelling, organisatie of vereniging die hem mogelijks wel verder kan bijstaan.<br>
+<br>
+Het VMRI kan de klacht doorsturen naar overheden of openbare instellingen, mits toestemming van de klager of mits het VMRI hierover met die overheid of instelling een samenwerkingsprotocol afsluit.<br>
+<br>
+§ 4. Als de klacht ontvankelijk is conform paragraaf 3, kan het VMRI elke bemiddelingsopdracht uitvoeren die het nuttig acht. De bemiddeling is een vertrouwelijk en gestructureerd proces van vrijwillig overleg tussen de betrokken partijen waarbij het VMRI, als onafhankelijke en neutrale derde, de communicatie vergemakkelijkt en de voormelde betrokken partijen er probeert toe te brengen zelf een oplossing uit te werken.<br>
+<br>
+Als de klager niet dezelfde persoon is als de persoon die meent dat hij gediscrimineerd wordt, kan het VMRI die laatste persoon, met zijn goedkeuring, ook betrekken in de bemiddeling.<br>
+<br>
+§ 5. Als de bemiddelingsopdracht, vermeld in paragraaf 4, niet tot een resultaat leidt of kan leiden, wordt de klacht, met instemming van de klager, aan de geschillenkamer bezorgd. Indien de klager niet de persoon is die meent dat hij wordt gediscrimineerd, en de klacht werd ingediend namens die persoon, kan de klacht enkel worden overgemaakt aan de geschillenkamer als die laatste persoon daarmee heeft ingestemd.<br>
+<br>
+Indien de betrokken partijen tijdens het bemiddelingstraject overtuigingsstukken hebben bezorgd aan het VMRI, worden deze, mits toestemming van de partij die de stukken had bezorgd en zonder enige appreciatie erover vanwege de bemiddelaar, ook bezorgd aan de geschillenkamer.<br>
+<br>
+Indien het VMRI informatie of documentatie heeft ingewonnen met toepassing van artikel 22, die aangeleverd werd door derden die geen betrokken partij zijn, wordt die informatie of documentatie, zonder enige appreciatie erover vanwege de bemiddelaar, ook bezorgd aan de geschillenkamer.<br>
+&nbsp;
+
+### ART 14.
+
+De geschillenkamer is bevoegd om op niet-bindende wijze te beoordelen of er sprake is van een discriminatie als vermeld in het decreet van 10 juli 2008 of het decreet 8 mei 2002, met uitzondering van een discriminatie op grond van taal.
+
+### ART 15.
+
+De geschillenkamer zetelt altijd met de voorzitter en twee bijzitters die de voorzitter aanwijst, waaronder een lid die over de vereiste ervaring, vermeld in artikel 34, §2, 1°, beschikt, tenzij de voorzitter beslist dat hij of een van de bijzitters alleen zetelt. Als er met drie leden wordt gezeteld, en bij gebrek aan consensus, beslist de geschillenkamer bij meerderheid.<br>
+<br>
+De leden van de geschillenkamer mogen niet oordelen over een klacht waarbij ze een persoonlijk of rechtstreeks belang hebben of waarbij hun bloed- of aanverwanten tot en met de derde graad een persoonlijk of rechtstreeks belang hebben. Voor het oordeel wordt gevormd mogen de leden van de geschillenkamer geen standpunt innemen over de klacht waardoor een schijn van partijdigheid kan ontstaan over hun betrokkenheid. In de voormelde gevallen kan het lid, op eigen initiatief of op verzoek van een partij, worden gewraakt van de procedure. De voorzitter van de geschillenkamer of, in het geval dat over de voorzitter zelf een verzoek tot wraking voorligt, de plaatsvervangende voorzitter, beoordeelt het verzoek tot wraking.
+
+### ART 16.
+
+§ 1. Nadat de klacht en de eventuele overtuigingsstukken conform artikel 13, §5, werden bezorgd aan de geschillenkamer, controleert de geschillenkamer of de klacht ontvankelijk is conform artikel 13, §3.<br>
+<br>
+§ 2. De geschillenkamer kan samenhangende klachten samenvoegen. In dat geval worden de klachten samen beoordeeld door de zetel waarbij de eerste klacht aanhangig is gemaakt.<br>
+<br>
+§ 3. De geschillenkamer brengt de verweerder ervan op de hoogte dat de klacht voor beoordeling is bezorgd, en nodigt hem uit om zijn overtuigingsstukken te bezorgen.<br>
+&nbsp;<br>
+De geschillenkamer nodigt de klager eveneens uit om zijn overtuigingsstukken te bezorgen.<br>
+<br>
+De geschillenkamer kan deskundigen en getuigen bevragen als ze dat nuttig acht voor de beoordeling van de klacht.<br>
+<br>
+De betrokken partijen mogen het dossier inzien dat ter beoordeling voorligt, tenzij de geschillenkamer ambtshalve of op verzoek van een van beide of van beide van de voormelde betrokken partijen om gewichtige redenen anders beslist.<br>
+<br>
+§ 4. De procedure voor de geschillenkamer verloopt schriftelijk, tenzij de geschillenkamer een hoorzitting nuttig acht of tenzij de voormelde betrokken partijen verzoeken om gehoord te worden. De hoorzitting is openbaar, tenzij de geschillenkamer ambtshalve of op verzoek van een van beide of van beide van de voormelde betrokken partijen om gewichtige redenen anders beslist.<br>
+<br>
+§ 5. De geschillenkamer houdt de voormelde betrokken partijen op de hoogte van alle stappen die ze onderneemt. De geschillenkamer behandelt de klacht binnen een redelijke termijn. De geschillenkamer deelt aan de voormelde betrokken partijen een richtdatum mee waarop ze het oordeel kunnen verwachten.<br>
+<br>
+§ 6. De geschillenkamer motiveert haar oordeel op een duidelijke en begrijpelijke wijze. De geschillenkamer kan daarbij aanbevelingen doen aan een persoon die heeft gediscrimineerd.<br>
+<br>
+De geschillenkamer brengt de voormelde betrokken partijen minstens schriftelijk op de hoogte van het oordeel. Het oordeel wordt ook publiek bekendgemaakt na anonimisering van de voormelde betrokken partijen die natuurlijke personen zijn.<br>
+<br>
+Rechtspersonen worden wel bij naam genoemd, tenzij de geschillenkamer ambtshalve of op verzoek van een van de partijen of beide partijen om gewichtige redenen anders beslist.<br>
+&nbsp;
+
+### ART 17.
+
+De Vlaamse Regering bepaalt de nadere uitwerking van de procedure, bedoeld in artikel 16, met inbegrip van de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;de samenstelling van de geschillenkamer per zaak;<br>
+2°&nbsp;&nbsp; &nbsp;het verloop van de procedure voor de geschillenkamer, met inbegrip van de termijnen van de verschillende stappen in de procedure.
+
+### ART 18.
+
+Het VMRI volgt de oordelen van de geschillenkamer actief en nauwgezet op. De opvolging wordt ook geregistreerd en deze informatie wordt, mits uitdrukkelijke en schriftelijke toestemming van de betrokken verweerder, ook toegevoegd in het oordeel.
+
+### ART 19.
+
+Tegen het oordeel van de geschillenkamer staat geen beroep open.<br>
+<br>
+Het oordeel van de geschillenkamer laat altijd de mogelijkheid onverlet om een vordering in rechte in te stellen.
+
+### ART 20.
+
+Indien een van de partijen niet tevreden is met de wijze waarop zijn klacht werd behandeld door de bemiddelaar of door de geschillenkamer, kan die hierover beklag doen bij het VMRI. Er wordt hiertoe een interne procedure vastgelegd in het organiek reglement.
+
 ## Onderafdeling 3. Bepaling gemeen aan de behandeling van meldingen en klachten
+
+### ART 21.
+
+Met behoud van de toepassing van artikel 27 is de werkwijze om meldingen en klachten te ontvangen en te behandelen, op de volgende beginselen gebaseerd:<br>
+1° het VMRI onderzoekt en behandelt de voormelde meldingen en klachten op een onafhankelijke, onpartijdige, objectieve en professionele wijze;<br>
+2° &nbsp; het VMRI behandelt de voormelde meldingen en klachten op discrete wijze; 3° het VMRI behandelt de melder en de betrokken partijen bij een klacht op een<br>
+correcte, onpartijdige en respectvolle wijze.
 
 ## Afdeling 5. Informatie
 
@@ -458,11 +562,66 @@ De afdeling Bestuursrechtspraak van de Raad van State is bevoegd om kennis te ne
 
 ## Hoofdstuk 1. Wijzigingen van het decreet van 7 juli 1998 houdende instelling van de Vlaamse Ombudsdienst
 
+### ART 45.
+
+Artikel 1bis van het decreet van 7 juli 1998 houdende instelling van de Vlaamse Ombudsdienst, ingevoegd bij het decreet van 17 juli 2015, wordt opgeheven.
+
+### ART 46.
+
+In artikel 2bis van hetzelfde decreet, ingevoegd bij het decreet van 23 juni 2006 en gewijzigd bij het decreet van 17 juli 2015, worden punt 3° en 4° opgeheven.
+
+### ART 47.
+
+In artikel 3 van hetzelfde decreet, gewijzigd bij de decreten van 7 mei 2004, 23 juni 2006 en 17 juli 2015, wordt paragraaf 3 opgeheven.
+
+### ART 48.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 8 mei 2020, wordt hoofdstuk IIIbis, dat bestaat uit artikel 17ter tot en met 17quinquies, opgeheven.
+
 ## Hoofdstuk 2. Wijziging van het decreet van 8 mei 2002 houdende evenredige participatie op de arbeidsmarkt
+
+### ART 49.
+
+Artikel 9 van het decreet van 8 mei 2002 houdende evenredige participatie op de arbeidsmarkt, vervangen bij het decreet van 30 april 2009, wordt opgeheven.
 
 ## Hoofdstuk 3. Wijzigingen van het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid
 
+### ART 50.
+
+In artikel 29, §1, eerste lid, van het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid wordt de zinsnede “een van de organen, verenigingen of organisaties, vermeld in artikelen 40 en 41” vervangen door de zinsnede “een van de instellingen, verenigingen of organisaties, vermeld in artikel 41”.
+
+### ART 51.
+
+In artikel 30 van hetzelfde decreet wordt de zinsnede “, van het orgaan of de organen in de zin van artikel 40, of van een van de verenigingen of organisaties in de zin van artikel 41,” vervangen door de zinsnede “of van een van de instellingen, verenigingen of organisaties, vermeld in artikel 41 van dit decreet,”.
+
+### ART 52.
+
+In artikel 36 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in paragraaf 1 wordt de zinsnede “een van de instellingen, organen of verenigingen, vermeld in artikelen 40 en 41” vervangen door de zinsnede “een van de instellingen, verenigingen of organisaties, vermeld in artikel 41”;<br>
+<br>
+2° in paragraaf 2, 1°, wordt de zinsnede “die bij het orgaan of de organen in de zin van artikel 40, of bij een van de verenigingen of organisaties in de zin van artikel 41,” vervangen door de zinsnede “die bij het Vlaams Mensenrechteninstituut of bij een van de instellingen, verenigingen of organisaties, vermeld in artikel 41 van dit decreet,”.
+
+### ART 53.
+
+In artikel 37 van hetzelfde decreet, gewijzigd bij het decreet van 28 maart 2014, wordt paragraaf 2 vervangen door wat volgt:<br>
+<br>
+“§ 2. Voor de toepassing van dit artikel wordt onder klacht begrepen:<br>
+1° een met redenen omklede klacht die de betrokkene heeft ingediend bij de instantie of organisatie waar de discriminatie plaatsvond of bij de ambtenaren die krachtens artikel 39 van dit decreet belast zijn met het toezicht op de uitvoering van dit decreet en de uitvoeringsbesluiten ervan;<br>
+2° een met redenen omklede melding of klacht die de betrokkene heeft ingediend bij het Vlaams Mensenrechteninstituut of bij een instelling, vereniging of organisatie als vermeld in artikel 41 van dit decreet;<br>
+3° een met redenen omklede klacht die ingediend is ten voordele van de betrokkene door een instelling, vereniging of organisatie als vermeld in artikel 41 van dit decreet, bij de instantie of organisatie waar de discriminatie plaatsvond;<br>
+4° &nbsp; een rechtsvordering die de betrokkene heeft ingesteld;<br>
+5° een rechtsvordering die ingesteld is ten voordele van de betrokkene door een instelling, vereniging of organisatie als vermeld in artikel 41 van dit decreet.”.
+
+### ART 54.
+
+Artikel 40 van hetzelfde decreet, gewijzigd bij het decreet van 28 maart 2014, wordt opgeheven.
+
 ## Hoofdstuk 4. Wijzigingen van het decreet van 20 december 2013 houdende instemming met het samenwerkingsakkoord van 12 juni 2013 tussen de federale overheid, de Gewesten en de Gemeenschappen voor de oprichting van het interfederaal Centrum voor gelijke kansen en bestrijding van discriminatie en racisme onder de vorm van een gemeenschappelijke instelling zoals bedoeld in artikel 92bis van de bijzondere wet van 8 augustus 1980
+
+### ART 55.
+
+Het decreet van 20 december 2013 houdende instemming met het samenwerkingsakkoord tot oprichting van Unia wordt opgeheven.
 
 ## Titel 9. Slotbepalingen
 
