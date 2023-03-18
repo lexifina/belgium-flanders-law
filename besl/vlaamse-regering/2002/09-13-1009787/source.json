@@ -2,16 +2,16 @@
   "codex_id": 1009787,
   "title": "Besluit van de Vlaamse Regering van 2002-09-13 betreffende de toekenning en de vaststelling van het vakantiegeld van het gemeentepersoneel en het provinciepersoneel",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009787/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "3f8e8312ac41781bf15a025045d321f612a145429effe226d515b8a30c213d57",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009787/VolledigDocument?datum=2023-03-18",
+  "source_sha256": "279bbffff94dd4ad1c724ba584df5d3d81c3d6cb294a13ef87114a5587a2a25d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009787&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2023-03-18",
   "made": "2002-09-13",
   "gazette": "2002-10-30",
   "numac": 2002036331,
   "document_start": "2002-01-01",
   "document_end": "2023-03-17",
-  "in_force": "2006-06-01",
+  "in_force": "2023-03-18",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-03-18; future article versions excluded; article text as the API gives it"
 }
