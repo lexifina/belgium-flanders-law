@@ -642,7 +642,7 @@ Besluit :<br>
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° O.C.M.W. : het openbaar centrum voor maatschappelijk welzijn;<br />2° AGB : het autonoom gemeentebedrijf;<br />3° APB : het autonoom provinciebedrijf;<br />4° O.C.M.W.-vereniging : vereniging van een of meer O.C.M.W.'s, of van een O.C.M.W. met een of meer andere openbare besturen en/of rechtspersonen, andere dan die welke een winstoogmerk hebben, als vermeld in titel VIII, hoofdstuk I, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn;<br />5° bevoegde raden : <br />a) de gemeenteraad voor het gemeentepersoneel en voor het O.C.M.W.-personeel in een betrekking die ook bestaat bij de gemeente;<br />b) de O.C.M.W.-raad voor het O.C.M.W.-personeel in een betrekking die niet bestaat bij de gemeente;<br />c) de provincieraad voor het provinciepersoneel;<br />d) de raad van bestuur van het AGB en van het APB, respectievelijk voor het personeel van een AGB en een APB;<br />e) het orgaan dat op grond van de statuten van de O.C.M.W.-vereniging bevoegd is voor de vaststelling van de rechtspositieregeling van het personeel voor het personeel van een O.C.M.W.-vereniging; <br />6° procedure van interne personeelsmobiliteit : de procedure voor de vervulling van een vacante betrekking, vastgesteld in :<br />a) de plaatselijke rechtspositieregeling, met toepassing van titel III, hoofdstuk X, van het besluit van de Vlaamse Regering van 7 december 2007 houdende de minimale voorwaarden voor de personeelsformatie, de rechtspositieregeling en het mandaatstelsel van het gemeentepersoneel en het provinciepersoneel en houdende enkele bepalingen betreffende de rechtspositie van de secretaris en de ontvanger van de openbare centra voor maatschappelijk welzijn, voor het gemeentepersoneel en het O.C.M.W.-personeel in een betrekking die ook bestaat bij de gemeente en voor het provinciepersoneel;<br />b) de plaatselijke rechtspositieregeling, met toepassing van deel 3, titel 2, hoofdstuk 9, van het besluit van de Vlaamse Regering van 12 november 2010 houdende de minimale voorwaarden voor de personeelsformatie en het mandaatstelsel van het personeel van de openbare centra voor maatschappelijk welzijn en houdende de minimale voorwaarden voor sommige aspecten van de rechtspositieregeling van bepaalde personeelsgroepen van de openbare centra voor maatschappelijk welzijn, voor het personeel van het O.C.M.W. in een betrekking die niet bestaat bij de gemeente;<br />c) de plaatselijke rechtspositieregeling, in navolging van de rechtspositieregeling van het gemeentepersoneel of het provinciepersoneel, voor het personeel van een AGB, een O.C.M.W.-vereniging, of van een APB in een betrekking die niet bestaat bij de gemeente, respectievelijk de provincie;<br />7° bevorderingsprocedure : de procedure voor de vervulling van een vacante betrekking, vastgesteld in :<br />a) de plaatselijke rechtspositieregeling, met toepassing van titel III, hoofdstuk IX, van het besluit van de Vlaamse Regering van 7 december 2007 houdende de minimale voorwaarden voor de personeelsformatie, de rechtspositieregeling en het mandaatstelsel van het gemeentepersoneel en het provinciepersoneel en houdende enkele bepalingen betreffende de rechtspositie van de secretaris en de ontvanger van de openbare centra voor maatschappelijk welzijn, voor het gemeentepersoneel en het provinciepersoneel en voor het O.C.M.W.-personeel in een betrekking die ook bestaat bij de gemeente;<br />b) de plaatselijke rechtspositieregeling, met toepassing van deel 3, titel 2, hoofdstuk 8, van het besluit van de Vlaamse Regering van 12 november 2010 houdende de minimale voorwaarden voor de personeelsformatie en het mandaatstelsel van het personeel van de openbare centra voor maatschappelijk welzijn en houdende de minimale voorwaarden voor sommige aspecten van de rechtspositieregeling van bepaalde personeelsgroepen van de openbare centra voor maatschappelijk welzijn, voor het personeel van het O.C.M.W. in een betrekking die niet bestaat bij de gemeente;<br />c) de plaatselijke rechtspositieregeling, in navolging van de rechtspositieregeling van het gemeentepersoneel of het provinciepersoneel, voor het personeel van een AGB, een O.C.M.W.-vereniging, of van een APB in een betrekking die niet bestaat bij de gemeente, respectievelijk de provincie;<br />8° aanwervingsprocedure : de procedure voor de vervulling van een vacante betrekking, vastgesteld in de plaatselijke rechtspositieregeling van het gemeentepersoneel, respectievelijk het provinciepersoneel, met toepassing van titel III, hoofdstuk II, van het besluit van de Vlaamse Regering van 7 december 2007 houdende de minimale voorwaarden voor de personeelsformatie, de rechtspositieregeling en het mandaatstelsel van het gemeentepersoneel en het provinciepersoneel en houdende enkele bepalingen betreffende de rechtspositie van de secretaris en de ontvanger van de openbare centra voor maatschappelijk welzijn voor :<br />a) het gemeentepersoneel, het O.C.M.W.-personeel in een betrekking die ook bestaat bij de gemeente en het personeel van het AGB of de AGB's in een betrekking die ook bestaat bij de gemeente; <br />b) het provinciepersoneel en het personeel van het APB of de APB's in een betrekking die ook bestaat bij de provincie. <br /><br />
+...
 
 ## HOOFDSTUK 2 Externe personeelsmobiliteit tussen lokale of provinciale overheden met hetzelfde werkingsgebied
 
@@ -650,87 +650,87 @@ In dit besluit wordt verstaan onder :<br />1° O.C.M.W. : het openbaar centrum v
 
 ### ART. 2.
 
-Dit hoofdstuk is uitsluitend van toepassing op lokale of provinciale overheden met hetzelfde werkingsgebied, meer bepaald :<br />1° de gemeente en haar O.C.M.W.;<br />2° het O.C.M.W. en de O.C.M.W.-vereniging met het eigen O.C.M.W. als enig lid of met het eigen O.C.M.W. en de eigen gemeente als enige leden;<br />3° de gemeente en haar AGB of AGB's;<br />4° de provincie en haar APB of APB's.<br /><br />Dit hoofdstuk is niet van toepassing op :<br />1° de ziekenhuizen in eigen beheer, vermeld in artikel 218, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn;<br />2° in afwijking van het eerste lid, 2°, de O.C.M.W.-vereniging A.V. met het eigen O.C.M.W. als enig lid, opgericht met het oog op het exploiteren van een ziekenhuis of van een gedeelte van een ziekenhuis, vermeld in artikel 219, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn.<br /><br />
+...
 
 ### ART. 3.
 
-De bevoegde raden kunnen in de plaatselijke rechtspositieregeling de externe personeelsmobiliteit vaststellen tussen alle of bepaalde lokale overheden met hetzelfde werkingsgebied, vermeld in artikel 2, eerste lid, 1°, 2° en 3°, onder de voorwaarden, vastgesteld in dit hoofdstuk. <br /><br />De bevoegde raden kunnen in de plaatselijke rechtspositieregeling de externe personeelsmobiliteit vaststellen tussen alle of bepaalde provinciale overheden met hetzelfde werkingsgebied, vermeld in artikel 2, eerste lid, 4°, onder de voorwaarden, vastgesteld in dit hoofdstuk.<br /><br />In voorkomend geval is de regeling voor de externe personeelsmobiliteit tussen lokale of provinciale overheden met hetzelfde werkingsgebied wederkerig en gelijk voor de overheden waarop ze van toepassing gesteld wordt.<br /><br />
+...
 
 ### ART. 4.
 
-De externe personeelsmobiliteit tussen de lokale of provinciale overheden met hetzelfde werkingsgebied wordt verwezenlijkt op de volgende manieren of op een van de volgende manieren :<br />1° door deelname van personeelsleden van de ene overheid aan de procedure voor interne personeelsmobiliteit bij de andere overheid;<br />2° door deelname van personeelsleden van de ene overheid aan de bevorderingsprocedure bij de andere overheid.<br /><br />Bij de toepassing van de externe personeelsmobiliteit tussen lokale of provinciale overheden met hetzelfde werkingsgebied worden niet alleen personeelsleden in dienst bij de eigen overheid uitgenodigd om zich kandidaat te stellen voor de vacante betrekking, maar ook personeelsleden van de andere overheid of overheden met hetzelfde werkingsgebied.<br /><br />
+...
 
 ### ART. 5.
 
-De externe personeelsmobiliteit tussen lokale of provinciale overheden met hetzelfde werkingsgebied, vermeld in artikel 4, is van toepassing op de volgende betrekkingen : <br />1° de statutaire betrekkingen bij de gemeente, bij het O.C.M.W., bij de O.C.M.W.-vereniging, bij het AGB, bij de provincie en bij het APB;<br />2° bestendige contractuele betrekkingen op de personeelsformatie van de gemeente, van het O.C.M.W. en van de provincie;<br />3° bestendige contractuele betrekkingen bij het AGB, bij de O.C.M.W.-vereniging en bij het APB, andere dan betrekkingen ingesteld ter uitvoering van de werkgelegenheidsmaatregelen van de hogere overheid.<br /><br />De externe personeelsmobiliteit tussen lokale of provinciale overheden met hetzelfde werkingsgebied is niet van toepassing op de betrekkingen van gemeentesecretaris, adjunct-gemeentesecretaris, financieel beheerder van de gemeente, O.C.M.W.-secretaris, financieel beheerder van het O.C.M.W. en van provinciegriffier en financieel beheerder van de provincie.<br /><br />
+...
 
 ### ART. 6.
 
-De volgende personeelsleden kunnen zich kandidaat stellen voor deelname aan de procedure van interne personeelsmobiliteit of voor deelname aan de bevorderingsprocedure voor een vacature bij een andere overheid :<br />1° de vast aangestelde statutaire personeelsleden, ongeacht hun administratieve toestand;<br />2° de contractuele personeelsleden die beantwoorden aan de criteria om bij de eigen overheid in aanmerking te komen voor deelname aan de procedure van interne personeelsmobiliteit, respectievelijk aan de bevorderingsprocedure.<br /><br />
+...
 
 ## Afdeling 2 Procedure en voorwaarden
 
 ### ART. 7.
 
-De aanstellende overheid van de gemeente, van het O.C.M.W., van het AGB, van de O.C.M.W.-vereniging, vermeld in artikel 2, 2°, van de provincie of van het APB beslist bij de vacantverklaring van een betrekking of ze een beroep doet op externe personeelsmobiliteit met een andere overheid of andere overheden met hetzelfde werkingsgebied. In voorkomend geval deelt ze haar beslissing mee aan die andere overheid of overheden, samen met het verzoek aan die andere overheid of overheden om de vacature intern bekend te maken.<br /><br />
+...
 
 ### ART. 8.
 
-De regels over het vacaturebericht, over de wijze van kandidaatstelling en over de termijn voor de kandidaatstelling die op grond van de plaatselijke rechtspositieregeling van toepassing zijn bij de procedure van interne personeelsmobiliteit en bij de bevorderingsprocedure, zijn ook van toepassing als de aanstellende overheid een beroep doet op kandidaten van een andere overheid. <br /><br />De bekendmaking van de vacature door de andere overheid gebeurt via de interne bekendmakingskanalen die op grond van de plaatselijke rechtspositieregeling van die andere overheid gebruikt worden bij de toepassing van de procedure van interne personeelsmobiliteit, respectievelijk de bevorderingsprocedure. <br /><br />
+...
 
 ### ART. 9.
 
-Het personeelslid van een andere overheid dat zich kandidaat stelt voor deelname aan de procedure van interne personeelsmobiliteit, moet voldoen aan de algemene toelatingsvoorwaarden en aan de andere voorwaarden voor de vacante betrekking, vastgesteld met toepassing van de regels voor de procedure van interne personeelsmobiliteit. <br /><br />Het personeelslid van een andere overheid dat zich kandidaat stelt voor deelname aan de bevorderingsprocedure, moet voldoen aan de algemene toelatingsvoorwaarden en aan de andere voorwaarden voor de vacante betrekking, vastgesteld met toepassing van de regels voor de bevorderingsprocedure. <br /><br />
+...
 
 ### ART. 10.
 
-Kandidaten van een andere overheid moeten op dezelfde wijze als kandidaten van de eigen overheid : <br />1° aantonen dat ze voldoen aan de competentievereisten voor de vacante betrekking bij deelname aan de procedure van interne personeelsmobiliteit;<br />2° slagen voor de selectieprocedure bij deelname aan de bevorderingsprocedure.<br /><br />
+...
 
 ## Afdeling 3 De aanstelling van het personeelslid dat overkomt van een andere overheid
 
 ### ART. 11.
 
-De geselecteerde kandidaat die overkomt van een andere overheid, wordt aangesteld in de betrekking waarvoor hij zich kandidaat gesteld heeft. De kandidaat voor een statutaire betrekking wordt in statutair dienstverband aangesteld. De kandidaat voor een contractuele betrekking wordt in contractueel dienstverband aangesteld.<br /><br />Het personeelslid dat overkomt van een andere overheid wordt na de statutaire aanstelling niet opnieuw onderworpen aan een proeftijd, tenzij in geval van deelname aan een bevorderingsprocedure waarbij de eigen statutaire personeelsleden op grond van de plaatselijke rechtspositieregeling onderworpen zijn aan een proeftijd.<br /><br />In afwijking van het tweede lid kunnen de bevoegde raden bepalen dat het personeelslid dat overkomt van een andere overheid na een procedure van interne personeelsmobiliteit, bij een statutaire aanstelling toch onderworpen wordt aan een proeftijd. In voorkomend geval is de maximale duur van de proeftijd drie maanden. <br /><br />Die termijn is verlengbaar met de duur van de afwezigheden, zodra het statutaire personeelslid op proef tien werkdagen afwezig is geweest.<br /><br />
+...
 
 ### ART. 12.
 
-De aanstellende overheid beslist over de aanstelling van de kandidaat die overkomt van een andere overheid. Ze bezorgt een kopie van de aanstellingsbeslissing aan de overheid van herkomst van de kandidaat.<br /><br />De aanstellende overheid bepaalt de datum of de termijn van indiensttreding van het geselecteerde personeelslid. <br /><br />Het personeelslid dat overkomt van een andere overheid legt bij zijn indiensttreding opnieuw de eed af. <br /><br />
+...
 
 ## Afdeling 4 Administratieve anciënniteiten en andere arbeidsvoorwaarden
 
 ### ART. 13.
 
-§ 1. Het personeelslid dat overkomt van een andere overheid als gevolg van deelname aan de procedure van interne personeelsmobiliteit behoudt na zijn aanstelling in de nieuwe betrekking de salarisschaal en de schaalanciënniteit die het verworven had in de functionele loopbaan van zijn vorige betrekking, als met de nieuwe betrekking dezelfde functionele loopbaan verbonden is. <br /><br />Als het personeelslid aangesteld wordt in een betrekking van dezelfde rang waarmee een andere functionele loopbaan met andere salarisschalen verbonden is, dan behoudt het zijn schaalanciënniteit en wordt het met die schaalanciënniteit ingeschaald in de daarmee overeenstemmende salarisschaal van de nieuwe functionele loopbaan. <br /><br />§ 2. Het personeelslid dat overkomt van een andere overheid als gevolg van deelname aan de bevorderingsprocedure krijgt na zijn aanstelling in de nieuwe betrekking de eerste salarisschaal van de functionele loopbaan die verbonden is met de nieuwe betrekking. De schaalanciënniteit begint opnieuw vanaf nul te lopen. <br /><br />De regeling van de gegarandeerde salarisverhoging bij bevordering naar een graad van een hoger niveau is ook van toepassing op het personeelslid dat als gevolg van een bevordering naar een graad van een hoger niveau overkomt van een andere overheid.<br /><br />§ 3. In afwijking van paragraaf 1 wordt ervaring in de privésector of als zelfstandige die bij de andere overheid gevaloriseerd werd in de schaalanciënniteit, alleen gevaloriseerd in de schaalanciënniteit voor zover de overheid bij wie het personeelslid wordt aangesteld, die valorisatieregeling ook heeft voor het eigen personeel. <br /><br />Ervaring in de privésector of als zelfstandige die bij de andere overheid gevaloriseerd werd in de geldelijke anciënniteit, wordt alleen gevaloriseerd in de geldelijke anciënniteit voor zover de overheid bij wie het personeelslid wordt aangesteld, die valorisatieregeling ook heeft voor het eigen personeel.<br /><br />
+...
 
 ### ART. 14.
 
-De niveau-anciënniteit en de dienstanciënniteit die het personeelslid verworven had bij de andere overheid, worden volledig in aanmerking genomen voor de vaststelling van de niveau-anciënniteit en de dienstanciënniteit.<br /><br />De regels voor de vaststelling van de graadanciënniteit na aanstelling in een andere graad bij de toepassing van de procedure van interne personeelsmobiliteit zijn ook van toepassing op het personeelslid dat overkomt van de andere overheid en dat aangesteld wordt in een andere graad. <br /><br />Na bevordering neemt de graadanciënniteit in de nieuwe graad een aanvang.<br /><br />
+...
 
 ### ART. 15.
 
-Het personeelslid dat overkomt van een andere overheid, is onderworpen aan de regels over de jaarlijkse vakantie, de feestdagen en de andere verloven en afwezigheden die gelden bij de overheid waar het aangesteld wordt. Er zijn geen overgangsbepalingen van toepassing.<br /><br />De regels over het ziektekrediet bij de overheid waarbij het vast aangestelde statutaire personeelslid wordt aangesteld, zijn van toepassing, met dien verstande dat de jaren dienstactiviteit en de al opgenomen ziektedagen bij de andere overheid, meegerekend worden voor de vaststelling van het aantal dagen ziektekrediet.<br /><br />
+...
 
 ## HOOFDSTUK 3 Gezamenlijke selecties en gemeenschappelijke wervingsreserves bij sommige overheden met hetzelfde werkingsgebied
 
 ### ART. 16.
 
-Dit hoofdstuk is uitsluitend van toepassing op de volgende lokale of provinciale overheden met hetzelfde werkingsgebied :<br />1° de gemeente en haar O.C.M.W.;<br />2° de gemeente en haar AGB of AGB's;<br />3° de provincie en haar APB of APB's.<br /><br />De betrekkingen van gemeentesecretaris, adjunct-gemeentesecretaris en financieel beheerder van de gemeente, van O.C.M.W.-secretaris en financieel beheerder van het O.C.M.W. en van provinciegriffier en financieel beheerder van de provincie, vallen niet onder het toepassingsgebied van dit hoofdstuk.<br /><br />
+...
 
 ### ART. 17.
 
-De aanstellende overheden van de gemeente en haar O.C.M.W. kunnen bij de toepassing van de aanwervingsprocedure samen, onder de voorwaarden vastgesteld in dit hoofdstuk, selectieprocedures organiseren voor vacatures in betrekkingen die zowel bestaan bij de gemeente als bij het O.C.M.W.. <br /><br />De aanstellende overheden van de gemeente en haar AGB of AGB's, respectievelijk van de provincie en haar APB of APB's, kunnen bij de toepassing van de aanwervingsprocedure samen, onder de voorwaarden, vastgesteld in dit hoofdstuk, selectieprocedures organiseren voor vacatures in betrekkingen die zowel bestaan bij de gemeente als bij haar AGB of AGB's en voor vacatures in betrekkingen die zowel bestaan bij de provincie als bij haar APB of APB's. <br /><br />Alleen betrekkingen als vermeld in artikel 5, eerste lid, komen in aanmerking voor de toepassing van een gezamenlijke selectieprocedure. <br /><br />
+...
 
 ### ART. 18.
 
-De gezamenlijke organisatie van een selectieprocedure gaat gepaard met een gezamenlijke externe oproep aan de kandidaten. Bij de oproep aan de kandidaten wordt meegedeeld dat er een gezamenlijke selectieprocedure wordt georganiseerd, waarvan de resultaten gelden voor de betrokken besturen. De bekendmaking van de vacature vermeldt dat de ingediende kandidaturen geldig zijn voor de overheden die de gezamenlijke selectieprocedure organiseren.<br /><br />Voor de uitvoering van de gezamenlijke selectieprocedure wordt een gemeenschappelijke selectiecommissie geïnstalleerd en is hetzelfde selectieprogramma van toepassing. Het selectieprogramma is afgestemd op een functiebeschrijving voor de betrekking.<br /><br />De algemene regels voor de selectiecommissies in de rechtspositieregeling van het gemeentepersoneel, respectievelijk het provinciepersoneel, gelden ook voor de gemeenschappelijke selectiecommissie. <br /><br />
+...
 
 ### ART. 19.
 
-§ 1. De aanstellende overheden kunnen na een gezamenlijke selectieprocedure ook een gemeenschappelijke wervingsreserve van de geslaagde kandidaten aanleggen. <br /><br />In voorkomend geval worden in de plaatselijke rechtspositieregeling van het gemeentepersoneel, respectievelijk van het provinciepersoneel, de regels voor de gemeenschappelijke wervingsreserves vastgesteld, waaronder ook :<br />1° de regels voor de maximale geldigheidsduur van de gemeenschappelijke wervingsreserves, met inbegrip van de eventuele mogelijkheid van verlenging;<br />2° de regels volgens welke de kandidaten hun opname in de gemeenschappelijke wervingsreserves behouden of verliezen.<br /><br />§ 2. In voorkomend geval wordt bij de oproep aan de kandidaten meegedeeld dat er een gemeenschappelijke wervingsreserve wordt aangelegd die geldt voor de betrokken besturen. <br /><br />De aanstellende overheden kunnen elk voor zich een beroep doen op de kandidaten die opgenomen zijn in de gemeenschappelijke wervingsreserve.<br /><br />
+...
 
 ### ART. 20.
 
-De aanstellende overheden van de gemeente en haar O.C.M.W., van de gemeente en haar AGB of AGB's, en van de provincie en haar APB of APB's kunnen, voor de betrekkingen die ze gemeenschappelijk hebben, de gezamenlijke selectie en het aanleggen van een gemeenschappelijke reserve van geslaagde kandidaten ook toepassen bij een bevorderingsprocedure. In voorkomend geval zijn artikelen 16 en 17, derde lid, en artikelen 18 en 19 van overeenkomstige toepassing. <br /><br />De aanstellende overheden van de gemeente en haar O.C.M.W., van de gemeente en haar AGB of AGB's, en van de provincie en haar APB of APB's kunnen, voor de betrekkingen die ze gemeenschappelijk hebben, de gezamenlijke selectie en het aanleggen van een gemeenschappelijke reserve van geslaagde kandidaten ook toepassen bij een procedure van externe personeelsmobiliteit als vermeld in artikel 23. In voorkomend geval zijn artikelen 16 en 17, derde lid, en artikelen 18 en 19 van overeenkomstige toepassing. <br /><br />
+...
 
 ## HOOFDSTUK 4 De externe personeelsmobiliteit tussen lokale en provinciale overheden die niet hetzelfde werkingsgebied hebben en tussen diezelfde lokale en provinciale overheden en de diensten van de Vlaamse overheid
 
@@ -738,64 +738,64 @@ De aanstellende overheden van de gemeente en haar O.C.M.W., van de gemeente en h
 
 ### ART. 21.
 
-Dit hoofdstuk is van toepassing op de volgende lokale en provinciale overheden, die niet hetzelfde werkingsgebied hebben :<br />1° de gemeenten;<br />2° de O.C.M.W.'s, met uitzondering van het ziekenhuis in eigen beheer, vermeld in artikel 218 van het O.C.M.W.-decreet;<br />3° de O.C.M.W.-verenigingen, met uitzondering van de ziekenhuisverenigingen; <br />4° de AGB's;<br />5° de provincies;<br />6° de APB's.<br /><br />Dit hoofdstuk regelt de procedure van externe personeelsmobiliteit tussen de volgende overheden in het Vlaamse Gewest :<br />1° de gemeente enerzijds, en de andere gemeenten, de andere lokale overheden, vermeld in het eerste lid, 2° tot en met 4°, die niet hetzelfde werkingsgebied hebben, de provinciale overheden, vermeld in het eerste lid, 5° en 6°, en de diensten van de Vlaamse overheid anderzijds;<br />2° het O.C.M.W. enerzijds, en de andere O.C.M.W.'s, de andere lokale overheden, vermeld in het eerste lid, 1°, 3° en 4°, die niet hetzelfde werkingsgebied hebben, de provinciale overheden, vermeld in het eerste lid, 5° en 6°, en de diensten van de Vlaamse overheid anderzijds;<br />3° de O.C.M.W.-vereniging enerzijds, en de andere O.C.M.W.-verenigingen, de andere lokale overheden vermeld in het eerste lid, 1°, 2° en 4°, die niet hetzelfde werkingsgebied hebben, de provinciale overheden, vermeld in het eerste lid, 5° en 6°, en de diensten van de Vlaamse overheid anderzijds;<br />4° de provincie enerzijds, en de andere provincies, de lokale overheden, vermeld in het eerste lid, 1° tot en met 4°, de APB's, met uitzondering van het eigen APB, en de diensten van de Vlaamse overheid anderzijds;<br />5° het AGB enerzijds, en de andere AGB's, de andere lokale overheden, vermeld in het eerste lid, 1° tot en met 3°, die niet hetzelfde werkingsgebied hebben, de provinciale overheden, vermeld in het eerste lid, 5° en 6°, en de diensten van de Vlaamse overheid anderzijds; <br />6° het APB enerzijds, en de andere APB's, de andere lokale overheden, vermeld in het eerste lid, 1° tot en met 4°, de provincies, met uitzondering van de eigen provincie, en de diensten van de Vlaamse overheid anderzijds.<br /><br />Onder diensten van de Vlaamse overheid als vermeld in het tweede lid, worden de diensten verstaan die onder het toepassingsgebied vallen van het Vlaams Personeelsstatuut.<br /><br />
+...
 
 ### ART. 22.
 
-De bevoegde raden van de lokale en provinciale overheden, vermeld in artikel 21, eerste lid, kunnen in de plaatselijke rechtspositieregeling van hun personeel de procedure van externe personeelsmobiliteit vaststellen onder de voorwaarden, vastgesteld in dit hoofdstuk.<br /><br />
+...
 
 ### ART. 23.
 
-De procedure van externe personeelsmobiliteit is een procedure voor de vervulling van een vacante betrekking naast de aanwervingsprocedure, de procedure van interne personeelsmobiliteit en de bevorderingsprocedure. De procedure van externe personeelsmobiliteit kan gecombineerd worden met een andere procedure voor de vervulling van betrekkingen. <br /><br />Bij de toepassing van de procedure van externe personeelsmobiliteit worden de personeelsleden van de lokale en provinciale overheden en van de diensten van de Vlaamse overheid, vermeld in artikel 21, tweede lid, of de personeelsleden van een bepaald segment van die overheidsarbeidsmarkt, uitgenodigd om zich kandidaat te stellen voor de vacante betrekking. <br /><br />Onder segment van die overheidsarbeidsmarkt als vermeld in het tweede lid, wordt verstaan : <br />1° een of meer soorten lokale of provinciale overheden als vermeld in artikel 21, eerste lid, 1° tot en met 6°;<br />2° de diensten van de Vlaamse overheid als vermeld in artikel 21, derde lid.<br /><br />
+...
 
 ### ART. 24.
 
-De procedure van externe personeelsmobiliteit is van toepassing op de volgende betrekkingen :<br />1° statutaire betrekkingen bij de gemeente, het O.C.M.W., de O.C.M.W.-vereniging, vermeld in artikel 21, eerste lid, 3°, het AGB, de provincie en het APB;<br />2° bestendige contractuele betrekkingen op de personeelsformatie van de gemeente, van de provincie en van het O.C.M.W.;<br />3° bestendige contractuele betrekkingen bij het AGB, bij de O.C.M.W.-vereniging vermeld in artikel 21, eerste lid, 3°, en bij het APB, andere dan betrekkingen ingesteld ter uitvoering van de werkgelegenheidsmaatregelen van de hogere overheid.<br /><br />De procedure van externe personeelsmobiliteit is niet van toepassing op de betrekkingen van gemeentesecretaris, adjunct-gemeentesecretaris, financieel beheerder van de gemeente, O.C.M.W.-secretaris, financieel beheerder van het O.C.M.W. en van provinciegriffier en financieel beheerder van de provincie.<br /><br />
+...
 
 ### ART. 25.
 
-De volgende personeelsleden kunnen zich kandidaat stellen voor deelname aan een procedure van externe personeelsmobiliteit :<br />1° de vast aangestelde statutaire personeelsleden in een gelijkwaardige graad;<br />2° de contractuele personeelsleden in een gelijkwaardige graad die bij de eigen overheid werden aangeworven na een externe bekendmaking van de vacature en een gelijkwaardige selectieprocedure als van toepassing op vacatures in statutaire betrekkingen.<br /><br />Onder gelijkwaardige graad als vermeld in het eerste lid wordt verstaan :<br />1° voor personeelsleden uit de lokale en provinciale overheden, vermeld in artikel 21, eerste lid : een graad van hetzelfde niveau en van dezelfde rang in de hiërarchie van de graden waaraan dezelfde functionele loopbaan en salarisschalen verbonden zijn en met vergelijkbare voorwaarden en een vergelijkbaar functieprofiel;<br />2° voor personeelsleden uit de diensten van de Vlaamse overheid : een graad van hetzelfde niveau en van dezelfde rang waaraan vergelijkbare salarisschalen verbonden zijn en met vergelijkbare voorwaarden en een vergelijkbaar functieprofiel. <br /><br />Met dezelfde functionele loopbaan en salarisschalen in punt 1°, worden gelijkgesteld :<br />1° de functionele loopbaan en salarisschalen A1a-A1b-A2a en A1a-A2a-A3a voor de basisgraad van niveau A;<br />2° de functionele loopbaan en salarisschalen A6a-A6b-A7a en A6a-A7a-A7b voor de specifieke basisgraad van niveau A.<br /><br />
+...
 
 ## Afdeling 2 Procedure en voorwaarden
 
 ### ART. 26.
 
-De aanstellende overheid van de overheden, vermeld in artikel 21, eerste lid, 1° tot en met 6°, beslist bij de vacantverklaring van een betrekking of ze een beroep doet op de procedure van externe personeelsmobiliteit. In voorkomend geval bepaalt ze op welk segment van de overheidsarbeidsmarkt, vermeld in artikel 23, derde lid, ze een beroep doet. <br /><br />
+...
 
 ### ART. 27.
 
-De betrekkingen die vacant verklaard worden met het oog op de toepassing   van de procedure van externe personeelsmobiliteit, worden in elk geval   meegedeeld aan Jobpunt Vlaanderen als het een vacante betrekking betreft bij één   van de lokale en provinciale overheden, vermeld in artikel 21, eerste lid, en   aan het Agentschap Overheidspersoneel als het een vacante betrekking betreft bij   de diensten van de Vlaamse overheid, vermeld in artikel 21, derde lid. Jobpunt   Vlaanderen of het Agentschap Overheidspersoneel zorgt voor de bekendmaking van   de vacature op de eigen website. De bevoegde raden kunnen in de   rechtspositieregeling andere bekendmakingskanalen vaststellen. <BR><BR>De regels   over het vacaturebericht, over de wijze van kandidaatstelling en over de   minimale termijn voor de kandidaatstelling die in de plaatselijke   rechtspositieregeling gelden bij aanwerving, zijn ook van toepassing als de   aanstellende overheid een beroep doet op de procedure van externe   personeelsmobiliteit.<BR><BR>
+...
 
 ### ART. 28.
 
-Het personeelslid dat zich kandidaat stelt voor deelname aan de procedure van externe personeelsmobiliteit, moet :<br />1° voldoen aan de voorwaarden, vermeld in artikel 25;<br />2° voldoen aan de algemene toelatingsvoorwaarden;<br />3° voldoen aan de vereiste over de taalkennis, opgelegd door de wetten op het gebruik der talen in bestuurszaken, gecoördineerd op 18 juli 1966;<br />4° voldoen aan een vereiste inzake specifieke ervaring in een gelijkwaardige graad;<br />5° een gunstig evaluatieresultaat gekregen hebben voor de laatste evaluatie;<br />6° zo nodig, beschikken over het vereiste diploma.<br /><br />De aanstellende overheid beoordeelt de geldigheid van de ingediende kandidaturen. Als de raad de aanstellende overheid is, beoordeelt het uitvoerend orgaan de geldigheid van de ingediende kandidaturen.<br /><br />De kandidaten moeten slagen voor een functiespecifieke selectie, die aantoont dat ze voldoen aan de competentievereisten, vastgesteld in de functiebeschrijving voor de betrekking. <br /><br />
+...
 
 ## Afdeling 3 De aanstelling van het personeelslid dat overkomt van een andere overheid
 
 ### ART. 29.
 
-De geselecteerde kandidaat die overkomt van een andere overheid, wordt aangesteld in de betrekking waarvoor hij zich kandidaat gesteld heeft. De kandidaat voor een statutaire betrekking wordt in statutair dienstverband aangesteld. De kandidaat voor een contractuele betrekking wordt in contractueel dienstverband aangesteld. <br /><br />De bevoegde raden kunnen bepalen dat het in statutair verband aangestelde personeelslid onderworpen wordt aan een proeftijd. In voorkomend geval is de maximale duur van de proeftijd drie maanden. Die termijn is verlengbaar met de duur van de afwezigheden, zodra het statutaire personeelslid op proef tien werkdagen afwezig is geweest.<br /><br />
+...
 
 ### ART. 30.
 
-De aanstellende overheid beslist over de aanstelling van de kandidaat die overkomt van een andere overheid. Ze bezorgt een kopie van de aanstellingsbeslissing aan de overheid van herkomst van de kandidaat. <br /><br />De aanstellende overheid bepaalt de datum of de termijn van indiensttreding van het geselecteerde personeelslid.<br /><br />Het personeelslid dat overkomt van een andere overheid, legt bij zijn indiensttreding opnieuw de eed af.<br /><br />
+...
 
 ## Afdeling 4 Administratieve anciënniteiten en andere arbeidsvoorwaarden
 
 ### ART. 31.
 
-§ 1. Het personeelslid dat overkomt van een andere lokale of provinciale overheid behoudt na de aanstelling in een nieuwe betrekking als gevolg van deelname aan de procedure van externe personeelsmobiliteit de salarisschaal en de schaalanciënniteit die het verworven had in de functionele loopbaan van zijn vorige betrekking. <br /><br />Het personeelslid dat overkomt van de diensten van de Vlaamse overheid en dat aangesteld wordt bij een lokale of provinciale overheid als gevolg van deelname aan een procedure van externe personeelsmobiliteit, krijgt de functionele loopbaan die verbonden is met de graad waarin het wordt aangesteld. Het personeelslid wordt ingeschaald in een salarisschaal van die functionele loopbaan in overeenstemming met de al verworven geldelijke anciënniteit en met de gecumuleerde schaalanciënniteit, verworven in de functionele loopbaan van zijn graad van herkomst.<br /><br />§ 2. In afwijking van paragraaf 1 wordt ervaring in de privésector of als zelfstandige die bij de andere overheid gevaloriseerd werd in de schaalanciënniteit, alleen gevaloriseerd in de schaalanciënniteit voor zover de overheid bij wie het personeelslid wordt aangesteld, die valorisatieregeling ook heeft voor het eigen personeel. <br /><br />Ervaring in de privésector of als zelfstandige die bij de andere overheid gevaloriseerd werd in de geldelijke anciënniteit, wordt alleen gevaloriseerd in de geldelijke anciënniteit voor zover de overheid bij wie het personeelslid wordt aangesteld, die valorisatieregeling ook heeft voor het eigen personeel. <br /><br />
+...
 
 ### ART. 32.
 
-De niveau-anciënniteit en de dienstanciënniteit die het personeelslid verworven had bij de andere overheid, worden volledig in aanmerking genomen voor de vaststelling van de niveau-anciënniteit en de dienstanciënniteit bij de overheid waarin het personeelslid aangesteld wordt.<br /><br />De regels voor de vaststelling van de graadanciënniteit na aanstelling in een andere graad bij de toepassing van de procedure van interne personeelsmobiliteit zijn ook van toepassing op het personeelslid dat met toepassing van de externe personeelsmobiliteit overkomt van de andere overheid en dat aangesteld wordt in een andere graad. <br /><br />
+...
 
 ### ART. 33.
 
-Het personeelslid dat overkomt van een andere overheid, is onderworpen aan de regels over de jaarlijkse vakantie, de feestdagen en de andere verloven en afwezigheden die gelden bij de overheid waar het aangesteld wordt. Er zijn geen overgangsbepalingen van toepassing.<br /><br />De regels over het ziektekrediet bij de overheid waarbij het vast aangestelde statutaire personeelslid wordt aangesteld, zijn van toepassing, met dien verstande dat de jaren dienstactiviteit en de al opgenomen ziektedagen bij de overheid van herkomst, meegerekend worden voor de vaststelling van het aantal dagen ziektekrediet. <br /><br />
+...
 
 ## HOOFDSTUK 5 Slotbepaling
 
 ### ART. 34.
 
-De Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden, is belast met de uitvoering van dit besluit. <br /><br />
+...
