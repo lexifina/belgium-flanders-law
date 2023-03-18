@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015386,
+  "title": "Besluit van de Vlaamse Regering van 2007-01-12 tot vaststelling van de regels inzake de aanwerving en terbeschikkingstelling van het kabinets- en fractiepersoneel in de gemeenten en provincies",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015386/VolledigDocument?datum=2023-03-18",
+  "source_sha256": "dd1b02a8468172ac0c7e90badb64d3aac53a388fa9fb10c37bde49b55c9bc9c5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015386&param=informatie",
+  "as_of": "2023-03-18",
+  "made": "2007-01-12",
+  "gazette": "2007-01-23",
+  "numac": 2007035075,
+  "document_start": null,
+  "document_end": "2023-03-17",
+  "in_force": "2023-03-18",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2023-03-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
