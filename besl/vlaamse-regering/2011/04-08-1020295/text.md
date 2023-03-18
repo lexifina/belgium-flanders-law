@@ -10,7 +10,7 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 In dit besluit wordt verstaan onder :<br>
 1° decreet van 18 juli 2003: het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
-2° het besluit van 13 december 2002 : het besluit van de Vlaamse Regering van 13 december 2002 houdende reglementering inzake de kwaliteit en levering van water, bestemd voor menselijke consumptie;<br>
+2° het besluit van 20 januari 2023: het besluit van de Vlaamse Regering van 20 januari 2023 over de kwaliteit, kwantiteit en levering van water bestemd voor menselijke consumptie;<br>
 3° ...;<br>
 4° binneninstallatie : het deel van het huishoudelijke leidingnet, vermeld in artikel&nbsp;2.1.2,17°, van het decreet van 18 juli 2003, alsmede alle systemen en toestellen die ermee verbonden zijn, dat verbonden is met het openbaar waterdistributienetwerk;<br>
 5° controleambtenaar : de ambtenaar, vermeld in artikel&nbsp;2.4.1 van het decreet van 18 juli 2003;<br>
@@ -64,7 +64,7 @@ De definities, vermeld in artikel 2.1.2 van het decreet van 18 juli 2003 en de d
 
 ### ART. 2.
 
-§ 1. Met behoud van de toepassing van het aansluitrecht conform het besluit van 13 december 2002 wordt een verzoek tot aansluiting op het openbaar waterdistributienetwerk gericht tot de exploitant. Afhankelijk van de situatie verwijst de exploitant de aanvrager door naar de gemeente voor een voorafgaande goedkeuring tot aansluiting.<br>
+§ 1. Met behoud van de toepassing van het aansluitrecht conform het besluit van 20 januari 2023 wordt een verzoek tot aansluiting op het openbaar waterdistributienetwerk gericht tot de exploitant. Afhankelijk van de situatie verwijst de exploitant de aanvrager door naar de gemeente voor een voorafgaande goedkeuring tot aansluiting.<br>
 <br>
 Behoudens uitdrukkelijke en voorafgaande weigering van de titularis acht de exploitant het bewezen dat de aanvrager van een verzoek tot aansluiting op het openbaar waterdistributienetwerk het akkoord van de titularis daarvoor heeft verkregen.<br>
 <br>
@@ -113,9 +113,9 @@ De exploitant beslist over de wijze van afkoppeling en over de gehele of gedeelt
 
 ### ART. 3.
 
-§ 1. De exploitant levert water dat beantwoordt aan de Europese en Vlaamse kwaliteitseisen voor water, bestemd voor menselijke consumptie, inzonderheid aan de kwaliteitsnormen, vermeld in artikel 2 van het besluit van 13 december 2002, op het punt binnen een onroerend goed waar het water uit de kranen komt die gewoonlijk worden aangewend voor water, bestemd voor menselijke consumptie. Daarbij wordt op elk moment voldaan aan de bepaling van artikel 2 van het besluit van 13 december 2002.<br>
+§ 1. De exploitant levert water dat beantwoordt aan de Europese en Vlaamse kwaliteitseisen voor water, bestemd voor menselijke consumptie, inzonderheid aan de kwaliteitsnormen, vermeld in artikel 4 van het besluit van 20 januari 2023, op het punt binnen een onroerend goed waar het water uit de kranen komt die gewoonlijk worden aangewend voor water, bestemd voor menselijke consumptie. Daarbij wordt op elk moment voldaan aan de bepaling van artikel 4 van het besluit van 20 januari 2023.<br>
 <br>
-De controle van het water aan de kranen die gewoonlijk worden aangewend voor water bestemd voor menselijke consumptie, door de verbruiker, van de binneninstallatie en van de watermeter, wordt uitgevoerd conform de bepalingen van artikel&nbsp;2.4.1 van het decreet van&nbsp;18 juli 2003&nbsp;en van hoofdstuk III van het besluit van 13 december 2002.<br>
+De controle van het water aan de kranen die gewoonlijk worden aangewend voor water bestemd voor menselijke consumptie, door de verbruiker, van de binneninstallatie en van de watermeter, wordt uitgevoerd conform de bepalingen van artikel&nbsp;2.4.1 van het decreet van&nbsp;18 juli 2003&nbsp;en van hoofdstuk 2, Afdeling 4 van het besluit van 20 januari 2023.<br>
 <br>
 De bepalingen over de toegang tot gebouwen, vermeld in artikel 21 van dit besluit, zijn van toepassing.<br>
 <br>
@@ -135,9 +135,9 @@ De exploitant kan de waterlevering onderbreken of beperken, telkens als werkzaam
 <br>
 Als de uitgevoerde werkzaamheden de kwaliteit van het water, bestemd voor menselijke consumptie, kunnen beïnvloeden, moet de exploitant de klant informeren over de situatie en de maatregelen die getroffen moeten worden vóór de watervoorziening door de klant weer in gebruik genomen kan worden.<br>
 <br>
-§ 3. Als niet aan de kwaliteitseisen voor het water bestemd voor menselijke consumptie wordt voldaan, of bij een onmiddellijke en ernstige bedreiging voor de volksgezondheid moeten alle verplichtingen worden nageleefd, vermeld in artikel 2.3.2, van het decreet van 18 juli 2003, en in artikel 13 en 14 van het besluit van 13 december 2002.<br>
+§ 3. Als niet aan de kwaliteitseisen voor het water bestemd voor menselijke consumptie wordt voldaan, of bij een onmiddellijke en ernstige bedreiging voor de volksgezondheid moeten alle verplichtingen worden nageleefd, vermeld in artikel 2.3.2, van het decreet van 18 juli 2003, en in artikel 18 en 19 van het besluit van 20 januari 2023.<br>
 <br>
-Bij een onmiddellijke en ernstige bedreiging voor de volksgezondheid kan de exploitant de waterlevering afsluiten waarbij de procedure, vermeld in artikel 14 van het besluit van 13 december 2002, wordt gevolgd.<br>
+Bij een onmiddellijke en ernstige bedreiging voor de volksgezondheid kan de exploitant de waterlevering afsluiten waarbij de procedure, vermeld in artikel 19 van het besluit van 20 januari 2023, wordt gevolgd.<br>
 <br>
 Zodra het water bestemd voor menselijke consumptie opnieuw voldoet aan de kwaliteitseisen of de onmiddellijke en ernstige bedreiging voor de volksgezondheid wegvalt, gaat de exploitant over tot de heraansluiting en het heropstarten van de levering. Hij brengt de toezichthoudende ambtenaar daarvan op de hoogte en zorgt voor een gepaste communicatie aan de betrokken klant. In die communicatie worden de genomen herstelmaatregelen toegelicht en wordt de klant in voorkomend geval geïnformeerd over de maatregelen die hij zelf nog moet nemen voor hij de watervoorziening opnieuw in gebruik neemt.
 
@@ -894,7 +894,13 @@ Op of bij de verbruiksfactuur en de eindfactuur met betrekking tot het waterverb
 19° de gegevens van het contactpunt waar de klant terechtkan als hij vragen heeft over de factuur;<br>
 20° een vermelding dat kencijfers over het waterverbruik kunnen worden opgevraagd bij de exploitant, inclusief de wijze waarop;<br>
 21° het aantal wooneenheden dat in rekening is gebracht, als dat van toepassing is;<br>
-22° de capaciteitsvergoeding, als dat van toepassing is.<br>
+22° de capaciteitsvergoeding, als dat van toepassing is;<br>
+23° de vergelijking van het vastgestelde verbruik met een gemiddeld verbruik voor een huishouden met een gelijk aantal gedomicilieerden;<br>
+24° de prijs per liter en per m³ van de drinkwatercomponent van het geleverde water bestemd voor menselijke consumptie;<br>
+25° een link naar de website van de exploitant, waarin jaarlijkse informatie over de volgende zaken beschikbaar wordt gesteld:<br>
+a)&nbsp;&nbsp; &nbsp;de eigendomsstructuur van de waterlevering door de exploitant;<br>
+b)&nbsp;&nbsp; &nbsp;de tariefstructuur per kubieke meter water, met inbegrip van vaste en variabele componenten;<br>
+c)&nbsp;&nbsp; &nbsp;een link naar de website die de in bijlage IV, deel A van het besluit van 20 januari 2023 vermelde informatie bevat.<br>
 <br>
 De exploitant bezorgt op verzoek van de klant kosteloos een duplicaat van de factuur aan een derde partij die de klant aanwijst.<br>
 <br>
@@ -1048,7 +1054,7 @@ Wanneer klantgegevens wijzigen, brengt de klant de exploitant daarvan onmiddelli
 
 ### ART. 22.
 
-Het algemeen waterverkoopreglement bevat de bepalingen, vermeld in hoofdstuk 1 tot en met 5, en hoofdstuk 7 en 7/1 en het bepaalde in de artikels van het decreet van 18 juli 2003 en het besluit van 13 december 2002 waarnaar wordt verwezen.<br>
+Het algemeen waterverkoopreglement bevat de bepalingen, vermeld in hoofdstuk 1 tot en met 5, en hoofdstuk 7 en 7/1 en het bepaalde in de artikels van het decreet van 18 juli 2003 en het het besluit van 20 januari 2023 waarnaar wordt verwezen.<br>
 <br>
 Het algemeen waterverkoopreglement, vermeld in het eerste lid, wordt enkel verspreid samen met een bijbehorend informatiedocument dat wordt opgesteld door de toezichthoudende ambtenaar, de ecologisch toezichthouder en de economisch toezichthouder.<br>
 <br>
