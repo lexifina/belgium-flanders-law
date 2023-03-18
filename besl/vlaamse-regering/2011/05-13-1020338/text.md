@@ -23,7 +23,7 @@ In dit besluit wordt verstaan onder :<br>
 <br>
 § 2. De toezichthoudende ambtenaar Leefmilieu houdt toezicht op de toepassing van het decreet van 18 juli 2003, als vermeld in artikel 5.2.1.1, § 1 van het decreet van 24 mei 2002.<br>
 <br>
-In aanvulling hierop houdt de toezichthoudende ambtenaar Volksgezondheid mede toezicht op de toepassing van de bepalingen in relatie met volksgezondheid, in het bijzonder van artikel 2.2.1, 2.3.2, 2.3.3, 2.3.4 en 2.4.1 van het decreet van 18 juli 2003 en artikel 2, 5, § 2 en § 3, artikel 7, 13 en 14 van het besluit van 13 december 2002 houdende reglementering inzake de kwaliteit en levering van water, bestemd voor menselijke consumptie.
+In aanvulling hierop houdt de toezichthoudende ambtenaar Volksgezondheid mede toezicht op de toepassing van de bepalingen in relatie met volksgezondheid, in het bijzonder van artikel 2.2.1, 2.3.2, 2.3.3, 2.3.4 en 2.4.1 van het decreet van 18 juli 2003 en artikel 4, artikel 5, artikel 11, artikel 12, artikel 18, artikel 19 en artikel 21.
 
 ### ART. 3.
 

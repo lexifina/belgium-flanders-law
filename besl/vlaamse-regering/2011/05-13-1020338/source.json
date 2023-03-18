@@ -2,16 +2,16 @@
   "codex_id": 1020338,
   "title": "Besluit van de Vlaamse Regering van 2011-05-13 tot uitvoering van diverse bepalingen van het decreet van [18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018] en tot wijziging van het besluit van de Vlaamse Regering van 13 december 2002 houdende reglementering inzake de kwaliteit en levering van water, bestemd voor menselijke consumptie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020338/VolledigDocument?datum=2021-06-24",
-  "source_sha256": "58c111c72fdb85dbceaf4507db00e373fe32b3eb73cdf040041c3bbfed802dcb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020338/VolledigDocument?datum=2023-03-18",
+  "source_sha256": "4038e981bcc8d8047b287907dfd909cc5408b3db3b1f028653f24cc73d72b4a1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020338&param=informatie",
-  "as_of": "2021-06-24",
+  "as_of": "2023-03-18",
   "made": "2011-05-13",
   "gazette": "2011-06-21",
   "numac": 2011202803,
   "document_start": "2011-07-01",
   "document_end": null,
-  "in_force": "2021-06-24",
+  "in_force": "2023-03-18",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2021-06-24; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-03-18; future article versions excluded; article text as the API gives it"
 }
