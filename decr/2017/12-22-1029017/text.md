@@ -3687,7 +3687,7 @@ Het gezamenlijke voorstel tot samenvoeging bevat ook de kadastrale gegevens waar
 
 De Vlaamse Regering kan het voorstel tot samenvoeging als ontwerp van samenvoegingsdecreet indienen bij het Vlaams Parlement.<br>
 <br>
-Het ontwerp van samenvoegingsdecreet bevat de naam van de samen te voegen gemeenten, de samenvoegingsdatum, de naam en de aanduiding van de grenzen van de nieuwe gemeente en, als de samen te voegen gemeenten niet tot dezelfde provincie behoren, de provincie waartoe de nieuwe gemeente behoort.<br>
+Het ontwerp van samenvoegingsdecreet bevat de naam van de samen te voegen gemeenten, de samenvoegingsdatum, de naam en de aanduiding van de grenzen van de nieuwe gemeente, als de samen te voegen gemeenten niet tot dezelfde provincie behoren, de provincie waartoe de nieuwe gemeente behoort en, als de samen te voegen gemeenten niet tot dezelfde referentieregio behoren, de referentieregio waartoe de nieuwe gemeente behoort.&nbsp;Onder referentieregio wordt verstaan: een referentieregio als vermeld in artikel 3, 4°, van het Regiodecreet van 3 februari 2023.<br>
 <br>
 Als de samen te voegen gemeenten niet behoren tot hetzelfde provinciedistrict, bevat het ontwerp van samenvoegingsdecreet ook de nodige bepalingen over de aanpassing van de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011.
 
@@ -4118,7 +4118,7 @@ Voor de berekening van alle termijnen, vermeld in deze titel, vormt de dag die v
 
 ### ART 392.
 
-Twee of meer gemeenten kunnen een samenwerkingsverband zonder rechtspersoonlijkheid vormen om, zonder beheersoverdracht, een welbepaald project van gemeentelijk belang te verwezenlijken.<br>
+Twee of meer gemeenten kunnen een samenwerkingsverband zonder rechtspersoonlijkheid vormen om, zonder beheersoverdracht, een welbepaalde doelstelling van gemeentelijk belang te verwezenlijken.<br>
 <br>
 Met behoud van de toepassing van andersluidende decretale bepalingen kunnen andere rechtspersonen van publiek recht en privaat recht deelnemen aan de samenwerkingsverbanden, vermeld in het eerste lid.<br>
 <br>
@@ -4128,7 +4128,7 @@ Als in een samenwerkingsverband, als vermeld in het eerste lid, andere overheden
 
 ### ART 393.
 
-Het samenwerkingsverband is gegrond op een overeenkomst met statutaire draagkracht die bepalingen bevat over de duur en de eventuele verlenging, de opzegmogelijkheid, de eventuele inbreng van de deelnemers en de wijze waarop die inbreng wordt beheerd, de interne organisatie, de wederzijdse rechten en verplichtingen en de financiële repercussies, de informatieverstrekking aan de deelnemers en de jaarlijkse evaluatie door de gemeenteraden, de opmaak van de rekeningen en de bestemming van het resultaat, de financiële controle, de vereffening.
+Het samenwerkingsverband is gegrond op een overeenkomst met statutaire draagkracht die bepalingen bevat over de duur en de eventuele verlenging, de opzegmogelijkheid, de eventuele inbreng van de deelnemers waaronder een eventuele inbreng in nijverheid en de wijze waarop die inbreng wordt beheerd, de interne organisatie, de wederzijdse rechten en verplichtingen en de financiële repercussies, de informatieverstrekking aan de deelnemers en de jaarlijkse evaluatie door de gemeenteraden, de opmaak van de rekeningen en de bestemming van het resultaat, de financiële controle, de vereffening.
 
 ### ART 394.
 
