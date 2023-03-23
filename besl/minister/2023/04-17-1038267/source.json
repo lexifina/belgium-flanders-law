@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038267,
+  "title": "Ministerieel besluit van 2023-04-17 tot buitenwerking stellen van de mondmaskerplicht in de zorginstellingen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038267/VolledigDocument?datum=2023-03-23",
+  "source_sha256": "6d6ba080d26b461b190858e460da358ade41092d96239c7069135db4719256c6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038267&param=informatie",
+  "as_of": "2023-03-23",
+  "made": "2023-04-17",
+  "gazette": "2023-04-28",
+  "numac": 2023041850,
+  "document_start": "2023-03-23",
+  "document_end": null,
+  "in_force": "2023-03-23",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-03-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
