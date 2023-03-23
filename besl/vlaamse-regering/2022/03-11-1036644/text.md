@@ -20,7 +20,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-In dit besluit wordt verstaan onder mondmasker: een masker zonder uitlaatventiel, uit stof of wegwerpmateriaal, dat nauw aansluit op het gelaat, en de neus, mond en kin bedekt, bestemd om besmettingen bij contact tussen personen te voorkomen.
+...
 
 ### ART 2.
 
@@ -28,21 +28,7 @@ In dit besluit wordt verstaan onder mondmasker: een masker zonder uitlaatventiel
 
 ### ART 3.
 
-§ 1. Iedere persoon van 12 jaar en ouder is verplicht om de mond en de neus te bedekken met een mondmasker in de binnenruimten van de zorginstellingen. Onder zorginstellingen wordt verstaan:<br>
-1° algemene, universitaire en psychiatrische ziekenhuizen;<br>
-2° residentiële ouderenzorg;<br>
-3° gezinszorg, thuiszorg en lokale dienstencentra in een zorgsituatie;<br>
-4° revalidatieziekenhuizen en -voorzieningen;<br>
-5° psychiatrische verzorgingstehuizen;<br>
-6° voorzieningen die erkend of vergund worden door het Vlaams Agentschap voor Personen met een Handicap.<br>
-<br>
-In afwijking van het eerste lid is het dragen van een mondmasker in het algemeen of in bepaalde omstandigheden, voor alle of bepaalde personen, niet verplicht als de zorginstelling daartoe beslist op basis van een risicoanalyse die past binnen de richtlijnen die voor een dergelijke zorginstelling van toepassing zijn.<br>
-<br>
-§ 2. Het mondmasker mag occasioneel worden afgezet om te eten, te drinken en wanneer de aard van de activiteit het dragen van het mondmasker onmogelijk maakt.<br>
-<br>
-§ 3. Wanneer het dragen van een mondmasker niet mogelijk is omwille van medische redenen, mag een gelaatsscherm worden gebruikt.<br>
-<br>
-De verplichtingen, vermeld in dit artikel, zijn niet van toepassing op personen die in de onmogelijkheid zijn een mondmasker of een gelaatsscherm te dragen omwille van een beperking, gestaafd door middel van een medisch attest.
+...
 
 ### ART 4.
 
