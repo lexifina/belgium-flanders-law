@@ -2,16 +2,16 @@
   "codex_id": 1038164,
   "title": "Ministerieel besluit van 2023-03-15 over de oproep 2023/1 voor de thema’s digitalisering, internationalisering, duurzaam en circulair ondernemen en innovatie, en tot wijziging van het ministerieel besluit van 12 oktober 2022 over de oproep 2022/3 voor de thema’s digitalisering, internationalisering, duurzaam en circulair ondernemen en innovatie",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038164/VolledigDocument?datum=2022-10-31",
-  "source_sha256": "2843dced33db0bea01c7b5429fa799e53d59b71284f2bed04fc7c8ce2cb53505",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038164/VolledigDocument?datum=2023-03-26",
+  "source_sha256": "c81e00b40696794afb278f16c8a3baf636d16d175281bac4ecb15576f5048cda",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038164&param=informatie",
-  "as_of": "2022-10-31",
+  "as_of": "2023-03-26",
   "made": "2023-03-15",
   "gazette": "2023-03-24",
   "numac": 2023041196,
   "document_start": "2023-03-26",
   "document_end": null,
-  "in_force": "2022-10-31",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2022-10-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-03-26",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2023-03-26; future article versions excluded; article text as the API gives it"
 }
