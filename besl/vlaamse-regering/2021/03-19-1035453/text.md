@@ -88,7 +88,9 @@ De minister bepaalt de verdeelsleutel die toegepast wordt op het bedrag, vermeld
 
 Het erkende dierenasiel dient uiterlijk op 31 maart van ieder jaar een subsidieaanvraag in bij de dienst. Het erkende dierenasiel gebruikt daarvoor het formulier dat de dienst op zijn website ter beschikking stelt.&nbsp;Wanneer de subsidieaanvraag tijdig werd ingediend maar onvolledig is, vraagt de dienst de ontbrekende informatie op. Het asiel bezorgt deze informatie aan de dienst uiterlijk binnen de 7 dagen na de datum van de vraag tot vervollediging, bij gebreke waaraan de aanvraag als onvolledig wordt verworpen.<br>
 <br>
-De dienst beslist over de toekenning van de subsidie uiterlijk op 31 mei van ieder jaar waarin het de subsidieaanvragen heeft ontvangen. De dienst brengt het erkende dierenasiel op de hoogte van die beslissing uiterlijk vijftien dagen nadat hij de beslissing heeft genomen.
+De dienst beslist over de toekenning van de subsidie uiterlijk op 31 mei van ieder jaar waarin het de subsidieaanvragen heeft ontvangen. De dienst brengt het erkende dierenasiel op de hoogte van die beslissing uiterlijk vijftien dagen nadat hij de beslissing heeft genomen.<br>
+<br>
+In afwijking van het eerste en tweede lid dienen de erkende dierenasielen voor het jaar 2023 uiterlijk op 30 juni 2023 een subsidieaanvraag in bij de dienst, waarna de dienst uiterlijk op 31 augustus 2023 beslist over de toekenning van de subsidie.
 
 ### ART 7.
 

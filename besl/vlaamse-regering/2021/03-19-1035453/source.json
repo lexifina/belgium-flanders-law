@@ -2,16 +2,16 @@
   "codex_id": 1035453,
   "title": "Besluit van de Vlaamse Regering van 2021-03-19 over de vergoeding voor de opvang van in beslag genomen dieren, de subsidiëring van de erkende dierenasielen en het verhalen op de verantwoordelijke van de kosten voor inbeslagname van dieren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035453/VolledigDocument?datum=2022-01-28",
-  "source_sha256": "05664b4262922861ebc1a43839dd813e41341dace0e749921f56b60d283a195d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035453/VolledigDocument?datum=2023-03-30",
+  "source_sha256": "c4a583affc4abe08374d56987bd3183bada940ee6cbdc7a2a3015e4cb83eb055",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035453&param=informatie",
-  "as_of": "2022-01-28",
+  "as_of": "2023-03-30",
   "made": "2021-03-19",
   "gazette": "2021-04-15",
   "numac": 2021030997,
   "document_start": "2021-05-01",
   "document_end": null,
-  "in_force": "2022-01-28",
+  "in_force": "2023-03-30",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2022-01-28; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-03-30; future article versions excluded; article text as the API gives it"
 }
