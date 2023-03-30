@@ -1026,6 +1026,10 @@ e) in het logboek wordt gerapporteerd over de beoordeling van de goede werking v
 3° de rendementsmeting bestaat uit drie keer een meting van een half uur tijdens piekbelasting van het biobed (dat betekent voor de veehouderij overdag). Het gemiddelde van die drie metingen bepaalt het verwijderingsrendement van het biobed;<br>
 4° het gemeten verwijderingsrendement mag maximaal 5% lager liggen dan het vereiste rendement van 70%.".
 
+### ART 5.
+
+Bijlage II bij hetzelfde ministerieel besluit wordt vervangen door de bijlage die bij dit besluit is gevoegd.
+
 ### ART 6.
 
 Dit besluit treedt in werking op de tiende dag na de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van artikel 5 dat in werking treedt op een datum die de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, bepaalt.
