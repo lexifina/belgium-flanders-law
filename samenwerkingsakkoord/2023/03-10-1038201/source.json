@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038201,
+  "title": "Samenwerkingsakkoord van 2023-03-10 tussen de Federale Staat, de Vlaamse Gemeenschap, het Waalse Gewest, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de wijziging van het samenwerkingsakkoord van 25 augustus 2020 tussen de Federale Staat, de Vlaamse Gemeenschap, het Waalse Gewest, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de gezamenlijke gegevensverwerking door Sciensano en de door de bevoegde gefedereerde entiteiten of door de bevoegde agentschappen aangeduide contactcentra, gezondheidsinspecties en mobiele teams in het kader van een contactonderzoek bij personen die (vermoedelijk) met het coronavirus COVID-19 besmet zijn op basis van een gegevensbank bij Sciensano",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038201/VolledigDocument?datum=2023-03-31",
+  "source_sha256": "78f91436e96f0a3a65b014f4123e57ffb0f8efd5d81fab05093889a178f55080",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038201&param=informatie",
+  "as_of": "2023-03-31",
+  "made": "2023-03-10",
+  "gazette": "2023-03-31",
+  "numac": 2023030745,
+  "document_start": "2023-03-31",
+  "document_end": null,
+  "in_force": "2023-03-31",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2023-03-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
