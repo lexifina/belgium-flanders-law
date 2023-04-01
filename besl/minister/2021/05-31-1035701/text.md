@@ -20,8 +20,8 @@ DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID, GEZIN EN ARMOEDEBESTRIJDING BE
 
 ### ART 1.
 
-De bijdrage die overeenkomstig artikel 4, § 3, van het besluit van de Vlaamse Regering van 8 mei 2020 tot uitvoering van het decreet van 26 april 2019 houdende de oprichting van een afstammingscentrum en een DNA-databank door de gebruiker aan het afstammingscentrum wordt betaald, bedraagt 85 euro.
+...
 
 ### ART 2.
 
-Dit besluit treedt buiten werking op 31 maart 2023.
+...
