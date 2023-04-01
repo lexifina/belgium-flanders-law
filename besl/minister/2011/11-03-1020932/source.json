@@ -2,16 +2,16 @@
   "codex_id": 1020932,
   "title": "Ministerieel besluit van 2011-11-03 houdende precisering voor de ouderenvoorzieningen en de centra voor herstelverblijf van de regels met betrekking tot de ontvankelijkheid van een aanvraag voor een voorafgaande vergunning en voor een aanpassing van de voorafgaande vergunning",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020932/VolledigDocument?datum=2012-12-17",
-  "source_sha256": "b07360bbf9a8f1d53b97cb201eec869442e4d87ae06a83a395bacf7ef5571aba",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020932/VolledigDocument?datum=2023-04-01",
+  "source_sha256": "7bf2674ff4bd45d6bfa84bfea96ad9751e7d834bae64557df02e087101bfd962",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020932&param=informatie",
-  "as_of": "2012-12-17",
+  "as_of": "2023-04-01",
   "made": "2011-11-03",
   "gazette": "2011-11-21",
   "numac": 2011035940,
   "document_start": "2011-11-15",
   "document_end": "2023-03-31",
-  "in_force": "2012-12-17",
+  "in_force": "2023-04-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2012-12-17; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-04-01; future article versions excluded; article text as the API gives it"
 }
