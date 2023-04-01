@@ -556,10 +556,12 @@ Als de inspectie tijdens een doorlichting tekorten vaststelt, onderzoekt ze of d
 8° het beleid inzake participatie.<br>
 <br>
 § 4. De inspectie baseert zich voor de bepaling van de frequentie en de intensiteit van de doorlichting op het profiel van de instelling dat tot stand komt op basis van :<br>
-1° een reeks vooraf vastgestelde en meegedeelde gegevens met betrekking tot de instelling. Die gegevens zijn te relateren aan elementen in het referentiekader onderwijskwaliteit of het referentiekader CLB-kwaliteit, vermeld in artikel 4, § 2, eerste en tweede lid;<br>
+1° een reeks vooraf vastgestelde en meegedeelde gegevens met betrekking tot de instelling, waaronder de resultaten op de Vlaamse toetsen indien van toepassing. Die gegevens zijn te relateren aan elementen in het referentiekader onderwijskwaliteit of het referentiekader CLB-kwaliteit, vermeld in artikel 4, §2, eerste en tweede lid;<br>
 2° het vorige doorlichtingsverslag en, in voorkomend geval, de opvolgingsverslagen.<br>
 <br>
 In afwijking van het eerste lid, kan de inspectie, naar aanleiding van ernstige klachten over een instelling, op vraag van de Vlaamse Regering een doorlichting uitvoeren.<br>
+<br>
+De inspectie kan een doorlichting uitvoeren op grond van herhaaldelijk mindere prestaties op de Vlaamse toetsen of minder leerwinst.<br>
 <br>
 § 5. Het toezicht op de voorwaarden inzake hygiëne, veiligheid en bewoonbaarheid van gebouwen en lokalen, vermeld in de reglementering, kan afzonderlijk van de doorlichting uitgevoerd worden. De Vlaamse Regering bepaalt de verdere procedure.<br>
 <br>
