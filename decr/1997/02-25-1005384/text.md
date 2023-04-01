@@ -32,6 +32,7 @@ Dat de leerling voldoet aan de voorwaarden, vermeld in punt a), 1) en 2), wordt 
 5° het Gemeenschapsonderwijs: een openbare instelling met rechtspersoonlijkheid, opgericht bij het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs;<br>
 6° basisschool: school waar kleuteronderwijs en lager onderwijs georganiseerd wordt;<br>
 7° behoudsnorm: gunstige rationalisatienorm die in welbepaalde situaties in het buitengewoon onderwijs mag toegepast worden;<br>
+7°bis bevoegd steunpunt: het universitair steunpunt dat erkend en gesubsidieerd wordt voor de ontwikkeling van de Vlaamse toetsen volgens het besluit van de Vlaamse Regering van 6 juli 1999 houdende de regeling van de procedure en de voorwaarden van erkenning en subsidiëring van de universitaire steunpunten;<br>
 8° bevolkingsdichtheid van een gemeente: het aantal inwoners per vierkante kilometer dat opgenomen is in de gemeentemonitor van de Vlaamse overheid en dat op 1 februari van het schooljaar voorafgaand aan de start van de zesjaarlijkse periode voor scholengemeenschappen, vermeld in artikel 125quinquies, beschikbaar is;<br>
 8°bis bijkomende lestijden : lestijden die niet behoren tot het lestijdenpakket en geen extra lestijden zijn;<br>
 8°ter bijkomende uren : uren die niet behoren tot het urenpakket en geen extra uren zijn;<br>
@@ -53,6 +54,7 @@ Dat de leerling voldoet aan de voorwaarden, vermeld in punt a), 1) en 2), wordt 
 14°bis extra uren : uren die toegekend zijn in het kader van een tijdelijk project;<br>
 14°bis extra-muros activiteiten : activiteiten die plaatsvinden buiten de schoolmuren en georganiseerd worden voor één of meer leerlingengroepen. Activiteiten die volledig buiten de schooluren georganiseerd worden, vallen hier niet onder;<br>
 14°ter extra-murosactiviteiten : activiteiten die plaatsvinden buiten de schoolmuren en georganiseerd worden voor één of meer leerlingengroepen. Activiteiten die volledig buiten de schooluren georganiseerd worden, vallen hier niet onder;<br>
+14°quater feedbackrapport: een rapport met de resultaten op de Vlaamse toetsen op het schoolniveau, het niveau van de leerlingengroep of het leerlingniveau;<br>
 15° fusie van scholen: de samenvoeging tot één nieuwe school van twee of méér scholen die gelijktijdig worden afge-schaft of de samenvoeging tot één school van twee of méér scholen waarbij één van de betrokken scholen blijft bestaan en de andere(n) opslorpt;<br>
 16° gefinancierd onderwijs: gemeenschapsonderwijs dat voldoet aan de voorwaarden zoals bepaald in artikel 68;<br>
 17° Gemeenschap: de Vlaamse Gemeenschap;<br>
@@ -92,6 +94,7 @@ c) persoonlijke en externe factoren;<br>
 29° leergebied: samenhangend geheel van leerinhouden;<br>
 30° leerplicht: periode binnen de welke men verplicht is onderwijs te volgen, zoals vastgelegd in&nbsp;artikel 1, § 1, § 3, § 7 van de wet van 29 juni 1983 betreffende de leerplicht;<br>
 31° leerplichtige: jongere onderworpen aan de leerplicht;<br>
+31°bis leerwinst: de verandering in de leerprestaties tussen twee metingen bij dezelfde leerlingen op dezelfde meetschaal. Leerwinst kan verwijzen naar diverse niveaus: het Vlaamse niveau, het schoolniveau en het leerlingniveau;<br>
 32° lestijd: periode van vijftig minuten die als eenheid voor de bepaling van de duur van de onderwijsactiviteiten wordt gebruikt;<br>
 33° lestijdenpakket :<br>
 a) in het gewoon basisonderwijs : pakket lestijden dat bestaat uit de lestijden volgens de schalen, de SES-lestijden en de aanvullende lestijden, toegekend aan een school om de financierbare of subsidieerbare personeelsformatie van het onderwijzend personeel te bepalen, inclusief de eventuele lesopdracht van de directie;<br>
@@ -140,6 +143,7 @@ b) in het buitengewoon onderwijs: het aantal uren toegekend aan een school om de
 55° uren volgens de richtgetallen: resultaat van de verrekening van het aantal regelmatige leerlingen op een welbepaalde teldag of tijdens een welbepaalde telperiode aan de hand van de richtgetallen door de regering vastgelegd;<br>
 55° bis verhoogde zorg: fase in het zorgcontinuüm waarbij de school extra zorg voorziet onder de vorm van remediërende, differentiërende, compenserende of dispenserende maatregelen, afgestemd op de specifieke onder- wijsbehoeften van bepaalde leerlingen, en voorafgaand aan de fase van uitbreiding van zorg;<br>
 56° vestigingsplaats: gebouw of gebouwencomplex waarin een school of een gedeelte van een school gehuisvest is;<br>
+56°bis de Vlaamse toetsen: gestandaardiseerde, genormeerde en gevalideerde, net- en koepeloverschrijdende toetsen die worden afgenomen in bepaalde leerjaren van het basisonderwijs in alle scholen over een selectie van eindtermen;<br>
 57° vrij onderwijs: onderwijs georganiseerd door een natuurlijk persoon of een private rechtspersoon;<br>
 58° ziekenhuisschool: school voor buitengewoon basisonderwijs van type 5 verbonden aan een ziekenhuis waar kinderen omwille van ernstige medische redenen worden opgenomen;<br>
 59° zorgcontinuüm: opeenvolging van de fasen in de organisatie van de onderwijsomgeving op het gebied van brede basiszorg, verhoogde zorg en uitbreiding van zorg;
@@ -2622,6 +2626,89 @@ Op het einde van het gewoon lager onderwijs neemt de school van elke leerling, v
 De resultaten van deze toetsafnames zijn gericht op het verkrijgen van informatie op schoolniveau over de mate waarin de leerlingenpopulatie de eindtermen bereikt en ze worden aangewend in het kader van interne kwaliteitszorg. De resultaten kunnen één van de elementen zijn waar de klassenraad rekening mee houdt bij de toekenning van een getuigschrift zoals bepaald in artikel 53.
 
 ## [AFDELING 2ter DE VLAAMSE TOETSEN (ing. decr. 28 april 2023, art. 4, I: 1 april 2023)]
+
+### ART 44quater.
+
+§1. Op het einde van het vierde jaar gewoon lager onderwijs, vanaf het schooljaar 2023-2024, en op het einde van het gewoon lager onderwijs, vanaf het schooljaar 2025-2026, nemen alle leerlingen, met uitzondering van de anderstalige nieuwkomers en de leerlingen met een individueel aangepast curriculum, deel aan de Vlaamse toetsen.<br>
+<br>
+In afwijking van het eerste lid kan de school beslissen om anderstalige nieuwkomers en leerlingen met een individueel aangepast curriculum te laten deelnemen aan de Vlaamse toetsen.<br>
+<br>
+Een school voor buitengewoon lager onderwijs kan beslissen haar leerlingen te laten deelnemen aan de Vlaamse toetsen.<br>
+<br>
+De Vlaamse toetsen worden ontwikkeld door het bevoegde steunpunt met betrokkenheid van de onderwijsverstrekkers en kunnen van zodra technisch mogelijk door deze onderwijsverstrekkers worden aangevuld met eigen items in functie van een eigen kwaliteitszorgsysteem. De Vlaamse overheid stelt de Vlaamse toetsen, met inbegrip van oefentoetsen, ter beschikking van de scholen die ze digitaal en op basis van instructies bij hun leerlingen afnemen. De Vlaamse Regering kan nadere regels bepalen voor de praktische organisatie van de Vlaamse toetsen.<br>
+<br>
+De Vlaamse toetsen omvatten een selectie van eindtermen van het leergebied wiskunde en het leergebied Nederlands. De Vlaamse toetsen houden rekening met zowel de eindtermen als de gelijkwaardig verklaarde vervangende eindtermen.<br>
+<br>
+De deelname aan de Vlaamse toetsen aan het einde van het gewoon lager onderwijs vanaf het schooljaar 2025-2026 vervangt de verplichte afname in het gewoon lager onderwijs van een gevalideerde toets voor ten minste drie leergebieden als vermeld in artikel 44ter.<br>
+<br>
+§2. De Vlaamse toetsen hebben tot doel de onderwijskwaliteit te versterken en te monitoren door het bereiken van de eindtermen en de leerwinst te meten op onder- staande niveaus.<br>
+<br>
+De resultaten van de Vlaamse toetsen worden op de volgende wijze gebruikt: 1°&nbsp;&nbsp; &nbsp;op Vlaams niveau als bron van informatie over de onderwijskwaliteit, meer bepaald de mate waarin de eindtermen bereikt worden, de mate waarin leerwinst gegenereerd wordt en als element van kwaliteitszorg op systeemniveau;<br>
+2° op schoolniveau als element van interne en externe kwaliteitszorg:<br>
+a)&nbsp; als een van de elementen in de interne kwaliteitszorg van de school. De school en het schoolbestuur zullen daartoe een eigen feedbackrapport met gecontextualiseerde resultaten op een beveiligde manier kunnen consulteren;<br>
+b)&nbsp; als een van de elementen in de werking van de pedagogische begeleidingsdiensten, vermeld in artikel 15, §1, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br>
+c)&nbsp; als een van de elementen in de werking van de onderwijsinspectie, meer bepaald de doorlichtingen, vermeld in artikel 36 tot en met 42 van het decreet van 8 mei 2009 betreffende de kwaliteit van het onderwijs;<br>
+3° op niveau van de leerlingengroep als een van de elementen voor reflectie over het pedagogisch-didactisch handelen in het schoolteam;<br>
+4° op leerlingniveau als een van de mogelijke elementen waarmee de klassenraad rekening kan houden bij de evaluatie. De resultaten op leerlingniveau worden niet als enige criterium voor de evaluatie gebruikt.<br>
+<br>
+§3. Leerlingen die recht hebben op redelijke aanpassingen of speciale onderwijsleermiddelen gedurende het schooljaar waarin de Vlaamse toetsen worden afgenomen, hebben recht op behoud en gebruik van die aanpassingen en leermiddelen als ze de Vlaamse toetsen afleggen.
+
+### ART 44quinquies.
+
+§1. Voor de toepassing van artikel 44quater worden de volgende gegevens verwerkt door de scholen, de bevoegde diensten van de Vlaamse overheid en het bevoegde steunpunt:<br>
+1°&nbsp;&nbsp; &nbsp;de identificatiegegevens van de deelnemende leerlingen: naam, voornaam en identificatiecode van de leerling;<br>
+2°&nbsp;&nbsp; &nbsp;de individuele toetsresultaten: het antwoord op elke toetsvraag en de daarop gebaseerde totaalscores van de leerling;<br>
+3°&nbsp;&nbsp; &nbsp;de leerlingenkenmerken die nodig zijn voor een juiste interpretatie van de gegevens. Het gaat over de volgende leerlingenkenmerken:<br>
+a)&nbsp;&nbsp; &nbsp;demografische gegevens: geboortejaar, geslacht;<br>
+b)&nbsp;&nbsp; &nbsp;onderwijskansarmoede-indicatoren: opleidingsniveau van de moeder, thuistaal, schooltoelage, trekkende bevolking, leerling met een zorgthuis;<br>
+c)&nbsp;&nbsp; &nbsp;schoolloopbaangegevens: voorafgaande schoolloopbaan, individueel aangepast curriculum, anderstalige nieuwkomer, vrijstelling, gemotiveerd verslag of verslag gemeenschappelijk curriculum, gebruik van hulpmiddelen, administratieve groep, leerlingengroep Nederlands, leerlingengroep wiskunde;<br>
+d)&nbsp;&nbsp; &nbsp;indicatoren van cultureel kapitaal: aantal boeken thuis;<br>
+4° de kenmerken van de school waar de leerling is ingeschreven;<br>
+5° de leerlingenkenmerken die nodig zijn voor wetenschappelijk onderzoek waaronder de loggegevens over de toetsafname en de antwoorden op een leerlingenvragenlijst.<br>
+<br>
+De scholen ontvangen en verwerken die gegevens van de leerlingen die bij hen zijn ingeschreven. De bevoegde diensten van de Vlaamse overheid en het bevoegde steunpunt ontvangen en verwerken de gegevens van de leerlingen, ver- meld in het eerste lid.<br>
+<br>
+De gegevens worden gedurende maximaal tien jaar bewaard op het data- platform. De gegevens in de registratiemodule worden gedurende maximaal acht maanden bewaard. De gegevens in het toetsplatform worden gedurende maximaal zes maanden bewaard. De gegevens in de feedbackmodule worden gedurende maximaal twaalf maanden bewaard. Zolang doeleinden van wetenschappelijk onderzoek en statistiek daartoe nopen, worden de gegevens gepseudonimiseerd bewaard. De gepseudonimiseerde persoonsgegevens kunnen onder contractuele voorwaarden doorgegeven worden met het oog op wetenschappelijk onderzoek. Na afloop van de bewaartermijnen worden de persoonsgegevens vernietigd of geanonimiseerd.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor die verwerking en legt de leerlingenkenmerken die verwerkt worden vast.<br>
+&nbsp;<br>
+§2. De Vlaamse overheid en het bevoegde steunpunt treden, ieder voor zijn of haar bevoegdheid, op als verwerkingsverantwoordelijke voor de verwerking van de persoonsgegevens, vermeld in paragraaf 1. Het bestuur van de onderwijsinstelling of de gemandateerde is verwerkingsverantwoordelijke voor de verwerkingen van de persoonsgegevens, overeenkomstig artikel 31, §1, eerste lid, 5°.<br>
+<br>
+De scholen, de Vlaamse overheid en het bevoegde steunpunt verwerken de persoonsgegevens om te voldoen aan een wettelijke verplichting die op hen rust en bepalen, ieder binnen zijn of haar bevoegdheidssfeer, op transparante wijze hun respectieve verantwoordelijkheden.<br>
+<br>
+De verwerkingsverantwoordelijken verduidelijken in een privacyverklaring welke verwerkingen er gebeuren. Zij nemen met het oog op transparantie en de garantie van de rechten van betrokkenen in hun communicatie met de betrokkenen een verwijzing op naar de vindplaats van hun respectieve privacyverklaring. De verwerkingsverantwoordelijken nemen de nodige maatregelen om de juistheid van de persoonsgegevens te garanderen.<br>
+<br>
+De leerlingen of hun ouders hebben het recht op inzage in en kopie van het feedbackrapport met hun resultaten op de Vlaamse toetsen. De leerlingen of hun ouders hebben het recht op inzage in hun toets, op een manier die de vertrouwelijkheid van de toetsvragen garandeert.<br>
+&nbsp;
+
+### ART 44sexies.
+
+Het bevoegde steunpunt of de bevoegde diensten van de Vlaamse overheid bezorgen de resultaten op schoolniveau jaarlijks aan de onderwijsinspectie, aan de betrokken pedagogische begeleidingsdienst en aan de Raad van het Gemeenschapsonderwijs. De gegevens van de individuele leerlingen worden daarbij niet opgenomen.<br>
+<br>
+In afwijking van de algemene regeling in het Bestuursdecreet van 7 december 2018 inzake openbaarheid, delen de leden van de onderwijsinspectie, de personeelsleden van de scholen, van de Vlaamse overheid, van het bevoegde steunpunt en van de pedagogische begeleidingsdiensten, de Raad van het Gemeenschapsonderwijs en de schoolbesturen, die de resultaten kennen van de Vlaamse toetsen, die resultaten niet mee aan derden.<br>
+<br>
+In afwijking van het tweede lid mag een school de eigen schoolresultaten wel bezorgen aan derden die de school begeleiden. Deze begeleidende instantie mag op haar beurt de resultaten niet meedelen aan derden.<br>
+<br>
+In afwijking van het tweede lid kan een school inzage in haar schoolfeedback- rapport geven aan ouders die bij hun aanvraag een bijzonder individueel belang aantonen. De inzage kan enkel gegeven worden voor de resultaten van de Vlaamse toetsen waar het kind van betrokken ouders zelf aan heeft deelgenomen. Het schoolbestuur bepaalt hiertoe zelf de modaliteiten. De ouders mogen op hun beurt de resultaten niet meedelen aan derden. Indien ouders deze geheimhoudingsplicht schenden kunnen ze gesanctioneerd worden met een geldboete van honderd euro tot duizend euro.<br>
+<br>
+Leden van schoolraden en ouderraden mogen het schoolfeedbackrapport niet meedelen aan derden. Hierbij zijn ze gebonden aan de geheimhoudingsplicht.<br>
+<br>
+De leden van de onderwijsinspectie, de personeelsleden van de scholen, van de Vlaamse overheid, van het bevoegde steunpunt en van de bevoegde begeleidingsdiensten, de Raad van het Gemeenschapsonderwijs en de schoolbesturen die de<br>
+&nbsp;<br>
+resultaten kennen van de Vlaamse toetsen, zijn wat die resultaten betreft gehouden tot het beroepsgeheim. Wie dit beroepsgeheim niet naleeft, wordt gestraft met een geldboete van honderd euro tot duizend euro.<br>
+<br>
+Het is verboden om de resultaten van een school publiek te maken.<br>
+<br>
+De niet-naleving van het verbod op openbaarmaking door het schoolbestuur is een inbreuk op het verbod op oneerlijke concurrentie in de zin van artikel 51, §1.<br>
+<br>
+De resultaten die behaald zijn bij de Vlaamse toetsen geven geen aanleiding tot de rangschikking van scholen.
+
+### ART 44septies.
+
+De Vlaamse Regering zal een evaluatie doorvoeren die minstens uit volgende onderdelen zal bestaan:<br>
+1° een procesevaluatie onmiddellijk na de testafname in 2023 in het vierde jaar bij een representatieve steekproef van scholen;<br>
+2° onmiddellijk na de eerste toetsafname een procesevaluatie van de eerste toetsafname;<br>
+3° uiterlijk in 2029 een evaluatie van de mate waarin de Vlaamse toetsen de doelstellingen, vermeld in artikel 44quater, §2, hebben helpen bereiken en van de andere effecten die ze hebben teweeggebracht.
 
 ## [AFDELING 3 LEERPLAN, INDIVIDUEEL AANGEPAST CURRICULUM EN SCHOOLWERKPLAN (verv. decr. 5 mei 2023, art. 107, I: 1 september 2023)]
 
