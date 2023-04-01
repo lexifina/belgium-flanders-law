@@ -270,7 +270,33 @@ Van 1 januari 2023 tot en met 31 oktober 2023 is het in het ICES-gebied VIId voo
 
 ### ART 19.
 
-De aanwezigheid van een vissersvaartuig in de ICES-gebieden VIIIa, b is verboden in de periode van 1 januari 2023 tot en met 31 december 2023.
+§1. De aanwezigheid van een vissersvaartuig in de ICES-gebieden VIIIa, b is verboden in de periode van 1 januari 2023 tot en met 31 december 2023.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+§2. In afwijking van paragraaf 1 is het vanaf 1 juni 2023 om 00.00 uur, alleen voor de vissersvaartuigen die op de lijst "Visvergunningen Golf van Gascogne 2023" vermeld worden, toegestaan om in de ICES-gebieden VIIIa en b aanwezig te zijn.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Om aan de lijst, vermeld in het eerste lid, toegevoegd te kunnen worden, moeten de eigenaars van vissersvaartuigen van het groot vlootsegment tegen uiterlijk 31 maart 2023 via een aangetekende brief of per e-mail een aanvraag voor het bekomen van een visvergunning tot de dienst Zeevisserij richten.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§3. Vanaf 1 juni 2023 tot en met 30 september 2023 is het verboden dat in de ICES-gebieden VIIIa en b de tongvangst van een vissersvaartuig, dat voorkomt op de lijst vermeld in §2, een hoeveelheid overschrijdt die minstens gelijk is aan 15 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+De hoeveelheid vermeld in vorig lid kan door de dienst Zeevisserij van het Departement Landbouw en Visserij nog worden opgetrokken naar een hoger aantal, afhankelijk van de situatie van het totale motorvermogen van de deelnemende vaartuigen op 1 april 2023. De dienst Zeevisserij zal in dat geval de precieze hoeveelheid kenbaar maken op haar website.<br>
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<br>
+§4. Bij overschrijding van de hoeveelheden tong vermeld in §3, worden de door dat vissersvaartuig overschreden hoeveelheden tong in tweevoud in mindering gebracht op de hoeveelheid tong die aan het vissersvaartuig wordt toegekend voor 2024.<br>
+&nbsp; &nbsp;<br>
+§5. De vissersvaartuigen op de lijst "Visvergunningen Golf van Gascogne 2023”, leveren voor de periode 1 juli 2023 tot en met 31 oktober 2023 een hoeveelheid tong van 5500 kg in voor de Ierse Zee (ICES-gebied VIIa). Deze vaartuigen leveren ook 5,5 kg/kW in voor het ICES-gebied VIIf, g gedurende de periode 1 juli 2023 tot en met 31 oktober 2023.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Tijdens een zelfde visreis in de Golf van Gascogne mag slechts één soort vistuig aan boord worden gehouden.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+§6. Het is verboden gemengde visreizen te maken waarbij tijdens dezelfde visreis naast ICES-gebieden VIIIa en b, ook gevist wordt in andere ICES-gebieden.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§7. Bij niet-naleving van de bepalingen van §1 of §2, wordt de visvergunning die aan het vissersvaartuig werd afgeleverd, conform artikel 28 van dit besluit, voor een periode van tien opeenvolgende dagen ingetrokken. Het maximum aantal vaartdagen wordt bovendien ook verminderd met 10 dagen.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Bovendien zullen de vissersvaartuigen die gesanctioneerd worden op basis van het eerste lid, niet aanwezig mogen zijn in de ICES-gebieden VIIIa en b gedurende het jaar 2024.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§8. Het de-minimisquotum voor tong in de ICES-gebieden VIIIa en b wordt vastgelegd op 11.000 kg tong. De drempelwaarde bedoeld in artikel 8 wordt voor de tongvisserij in de ICES-gebieden VIIIa en b vastgelegd op maximaal 8% van de reeds in de visreis gerealiseerde tongvangst in het gebied in kwestie.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§9. Het aantal vaartuigen met een “Visvergunning Golf van Gascogne 2023” wordt beperkt tot 10. Indien meer vaartuigen een aanvraag tot visvergunning indienen, zal een loting worden georganiseerd door de dienst Zeevisserij.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+§10. Een gedetailleerd overzicht van de technische bepalingen wordt tijdig aan de reders bezorgd door de dienst Zeevisserij.
 
 ## Hoofdstuk 2. Toewijzing van vangstmogelijkheden per zeereis
 
@@ -296,17 +322,21 @@ Indien een eigenaar van een vaartuig, aangeduid conform lid 4, behoudens in geva
 <br>
 §2. Het de-minimisquotum voor tong in het ICES-gebied VIId bedraagt 3% van het tongquotum in ICES-gebied VIId. De drempelwaarde vermeld in artikel 8 bedraagt voor de tongvisserij in het ICES-gebied VIId maximaal 5% van de reeds in de visreis in kwestie gerealiseerde tongvangst in dat ICES-gebied. Bij uitputting van dat de-minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de-minimis voor tong afkomstig uit dat ICES-gebied.<br>
 <br>
-In het ICES-gebied VIId is voor een vissersvaartuig van het KVS verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+In het ICES-gebied VIId is voor een vissersvaartuig van het KVS verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 225 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
 <br>
-In het ICES-gebied VIId is voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+In het ICES-gebied VIId is voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 450 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+<br>
+Bij gecombineerde zeereizen in ICES-gebieden VIId en VIIe is het voor een vissersvaartuig van het KVS in ICES-gebied VIId verboden een hoeveelheid tong te overschrijden van 110 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in dat gebied.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Bij gecombineerde zeereizen in ICES-gebieden VIId en VIIe is het voor een vissersvaartuig van het GVS in ICES-gebied VIId verboden een hoeveelheid tong te overschrijden van 220 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in dat gebied.<br>
 <br>
 Het is voor een vissersvaartuig van het KVS, die gemengde zeereizen in de ICES-gebieden VIId, II en IV maakt, verboden bij de tongvangst in de ICES-gebieden II, IV per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de ICES-gebieden II, IV.<br>
 <br>
 Het is voor een vissersvaartuig van het GVS, die gemengde zeereizen in de ICES-gebieden VIId, II, en IV maakt, verboden bij de tongvangst in de ICES-gebieden II, IV per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de ICES-gebieden II, IV.<br>
 <br>
-Het is voor een vissersvaartuig van het KVS, die gemengde zeereizen in de ICES-gebieden VIId, en VIIf, g maakt, verboden bij de tongvangst in het ICES-gebied VIId per zeereis een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het ICES gebied VIId.<br>
+Het is voor een vissersvaartuig van het KVS, die gemengde zeereizen in de ICES-gebieden VIId, en VIIf, g maakt, verboden bij de tongvangst in het ICES-gebied VIId per zeereis een hoeveelheid te overschrijden die gelijk is aan 110 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het ICES gebied VIId.<br>
 <br>
-Het is voor een vissersvaartuig van het GVS, die gemengde zeereizen in de ICES-gebieden VIId, en VIIf, g maakt, verboden bij de tongvangst in het ICES-gebied VIId per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het ICES gebied VIId.<br>
+Het is voor een vissersvaartuig van het GVS, die gemengde zeereizen in de ICES-gebieden VIId, en VIIf, g maakt, verboden bij de tongvangst in het ICES-gebied VIId per zeereis een hoeveelheid te overschrijden die gelijk is aan 220 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het ICES gebied VIId.<br>
 <br>
 §3. Het de-minimisquotum voor tong in het ICES-gebied VIIe bedraagt 3% van het tongquotum in ICES-gebied VIIe. De drempelwaarde vermeld in artikel 8, bedraagt voor de tongvisserij in het ICES-gebied VIIe maximaal 5% van de reeds in de visreis in kwestie gerealiseerde tongvangst in het gebied in kwestie. Los van deze bepalingen is het bij uitputting van dat de-minimisquotum voor die vissersvaartuigen verboden nog gebruik te maken van de-minimis voor tong afkomstig uit dat ICES-gebied VIIe.&nbsp;<br>
 <br>
@@ -321,6 +351,10 @@ Ingeval van gemengde visreizen met aanwezigheid in de ICES-gebieden VIIe en VIIf
 ### ART 21.
 
 De tongvangst in ICES-gebieden VIIh, j, k is verboden in de periode van 1 januari 2023 tot en met 31 maart 2023, behalve voor wetenschappelijke zeereizen.<br>
+<br>
+Vanaf 1 april 2023 tot en met 31 oktober 2023 is het in de ICES-gebieden VIIh, j, k voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden van 1800 kg per vaartuig in die ICES-gebieden, waarbij het wetenschappelijk quotum niet wordt meegerekend.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Ingeval van gemengde visreizen met aanwezigheid in de ICES-gebieden VIIh, j, k en VIIf, g, is het in de ICES-gebieden VIIh, j, k verboden een hoeveelheid te overschrijden van 600 kg.<br>
 <br>
 Er wordt een wetenschappelijk tongquotum voorbehouden van 6 ton, verdeeld over telkens één visreis per kwartaal a rato van maximaal 1500 kg tong.<br>
 <br>
@@ -352,7 +386,9 @@ Vanaf 1 maart 2023 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig v
 <br>
 Het is in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-Vanaf 1 maart 2023 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.
+Vanaf 1 maart 2023 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+§3. In de periode van 1 april 2023 tot en met 31 oktober 2023 is het in de ICES-gebieden VIIh, j, k voor een vissersvaartuig van het GVS verboden een totale scholvangst te realiseren die groter is dan 1200 kg. Voor vaartuigen van het KVS is de scholvangst in ICES-gebieden VIIh, j, k verboden.
 
 ## [Afdeling 4. Kabeljauw en zeeduivel (verv. MB 25 januari 2023, art. 3, I: 1 februari 2023)]
 
