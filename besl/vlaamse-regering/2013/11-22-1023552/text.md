@@ -78,7 +78,11 @@ De organisator van gezinsopvang heeft een kinderbegeleider als vermeld in   arti
 
 ### ART. 11.
 
-De organisator van gezinsopvang zorgt ervoor dat elke kinderbegeleider de   module « kennismaken met de gezinsopvang » van twintig uur heeft gevolgd. Die   module geeft inzicht in het werken binnen de specifieke context van gezinsopvang   zodat de kinderbegeleider via reflectie de eigen situatie en competenties kan   evalueren. Dat blijkt uit een attest, vastgesteld door de minister, die bepaalt   wie de uitreikende instanties en wat de leerinhouden zijn. <BR>
+De organisator van gezinsopvang zorgt ervoor dat elke kinderbegeleider een traject gezinsopvang met succes heeft doorlopen.<br>
+<br>
+Een traject gezinsopvang als vermeld in het eerste lid, focust op inzicht in de specifieke context van gezinsopvang.<br>
+<br>
+De minister bepaalt de nadere regels, minstens voor de inhoud van de kennis die aan bod komt in het traject gezinsopvang, vermeld in het eerste lid.
 
 ### ART. 12.
 
@@ -108,7 +112,13 @@ De infrastructuur is geschikt om kwaliteitsvolle kinderopvang te   organiseren e
 
 ### ART. 14.
 
-<P>Op de kinderopvanglocatie zijn er de volgende afzonderlijke binnenruimtes   :<BR>1° een of meer leefruimtes per leefgroep;<BR>2° een rustruimte waar elk   aanwezig kind dat jonger is dan achttien maanden of dat `s nachts opgevangen   wordt, kan slapen;<BR>3° als er meer dan 36 kinderopvangplaatsen zijn, een   circulatieruimte die alle leefgroepen apart bereikbaar maakt.<BR><BR>In elke   leef- en rustruimte die de kinderen in de kinderopvanglocatie gebruiken, vinden   er tijdens de openingsuren geen activiteiten plaats die niet gerelateerd zijn   aan kinderopvang.</P>
+<p>De kinderopvanglocatie heeft de volgende afzonderlijke binnenruimtes:<br>
+1°&nbsp;&nbsp; &nbsp;een of meer leefruimtes per leefgroep;<br>
+2°&nbsp;&nbsp; &nbsp;een rustruimte waar elk aanwezig kind dat jonger dan achttien maanden is of dat ‘s nachts opgevangen wordt, kan slapen.<br>
+<br>
+Als er meer dan 36 kinderopvangplaatsen zijn, zijn alle leefgroepen apart bereikbaar.<br>
+<br>
+In elke leef- en rustruimte die de kinderen in de kinderopvanglocatie gebruiken, vinden er tijdens de openingsuren geen activiteiten plaats die niet gerelateerd zijn aan kinderopvang.</p>
 
 ### ART. 15.
 
@@ -132,7 +142,9 @@ Er is voldoende, vlot en veilig bereikbare buitenspelmogelijkheid die   afgestem
 
 ### ART. 20.
 
-<P>Voor elk aanwezig kind is er een veilig bed.<BR><BR>Voor een kind jonger dan   achttien maanden wordt onder veilig bed verstaan : een bed of wieg met minstens   twee spijlenwanden, een ventilerende bodem en een stevige passende matras, en   dat voldoet aan de voorschriften die door de minister worden   vastgesteld.</P>
+<p>Voor elk aanwezig kind is er een veilig bed aanwezig in de binnenruimtes, vermeld in artikel 14.<br>
+<br>
+Voor een kind jonger dan achttien maanden wordt onder veilig bed verstaan : een bed of wieg met minstens twee spijlenwanden, een ventilerende bodem en een stevige passende matras, en dat voldoet aan de voorschriften die door de minister worden vastgesteld.</p>
 
 ### ART. 21.
 
@@ -347,7 +359,7 @@ a) een attest A van medische geschiktheid, opgemaakt door de verantwoordelijke, 
 b) een attest B van medische geschiktheid, opgemaakt door een huisarts, volgens het model dat door de minister wordt vastgesteld, als blijkt uit het attest, vermeld in punt a), dat de betrokkene in onderzoek of behandeling is voor een bepaalde fysieke of psychische beperking of aandoening, of als er een gegronde indicatie is en het agentschap gemotiveerd erom verzoekt;<br>
 c) een attest, opgemaakt door een arbeidsgeneesheer. Dat attest kan het attest, vermeld in punt a) en b), vervangen;<br>
 3° een attest van actieve kennis van het Nederlands, waaruit blijkt dat het behaalde taalvaardigheidsniveau voor luisteren en gesprekken voeren het ERK-niveau B2 is, en voor lezen en schrijven het ERK-niveau B1 is, dat door de minister wordt vastgesteld, die bepaalt wie de uitreikende instanties zijn;<br>
-4° een attest van kennis van levensreddend handelen bij kinderen dat door de minister wordt vastgesteld, die bepaalt wie de uitreikende instanties zijn en wat de leerinhouden zijn;<br>
+4° een attest van kennis van levensreddend handelen bij kinderen. De minister bepaalt wat de leerinhouden voor die attesten zijn en op welke wijze de uitreikende instanties zich kunnen bekendmaken;<br>
 5° een kwalificatiebewijs dat door de minister wordt vastgesteld.<br>
 <br>
 Het document, vermeld in het eerste lid, 1° en 2°, is bij de aanvraag van de vergunning of bij de start van de tewerkstelling maximaal drie maanden oud, tenzij de verantwoordelijke al werkt als verantwoordelijke in een andere kinderopvanglocatie van de organisator. Het document, vermeld in het eerste lid, 4°, wordt om de drie jaar hernieuwd.<br>
@@ -366,11 +378,22 @@ De organisator zorgt voor een jaarlijkse analyse van de vormingsbehoeften   van 
 
 ### ART. 42.
 
-<P>De organisator zorgt ervoor dat er niet meer dan het volgende aantal tegelijk   aanwezige kinderen wordt opgevangen per aanwezige kinderbegeleider :<BR>1° acht   kinderen : als een kinderbegeleider alleen in de kinderopvanglocatie aanwezig   is;<BR>2° negen kinderen : als er minstens twee kinderbegeleiders in de   kinderopvanglocatie aanwezig zijn;<BR>3° veertien kinderen : op het moment dat   de kinderen rusten, op voorwaarde dat er minstens twee kinderbegeleiders in de   kinderopvanglocatie aanwezig zijn, gedurende maximaal twee aaneensluitende   uren.<BR></P>  <P>De organisator van gezinsopvang levert een inspanning om gemiddeld maximaal   vier kinderen tegelijk op te vangen per aanwezige kinderbegeleider per kwartaal.   De organisator van groepsopvang levert een inspanning om maximaal zeven kinderen   tegelijk op te vangen per aanwezige kinderbegeleider. Die inspanning wordt   geleverd binnen het budget dat een organisator ter beschikking   heeft.<BR></P>
+<p>De organisator zorgt ervoor dat er niet meer dan het volgende aantal tegelijk aanwezige kinderen wordt opgevangen per aanwezige kinderbegeleider :<br>
+1° acht kinderen : als een kinderbegeleider alleen in de kinderopvanglocatie aanwezig is;<br>
+2° negen kinderen : als er minstens twee kinderbegeleiders in de kinderopvanglocatie aanwezig zijn;<br>
+3° veertien kinderen : op het moment dat de kinderen rusten, op voorwaarde dat er minstens twee kinderbegeleiders in de kinderopvanglocatie aanwezig zijn, gedurende maximaal twee aaneensluitende uren.</p>
+
+<p>De organisator van gezinsopvang levert een inspanning om gemiddeld maximaal vier kinderen tegelijk op te vangen per aanwezige kinderbegeleider per kwartaal. De organisator van groepsopvang levert een inspanning om maximaal zeven kinderen tegelijk op te vangen per aanwezige kinderbegeleider. Die inspanning wordt geleverd binnen het budget dat een organisator ter beschikking heeft.<br>
+<br>
+De organisator groepsopvang kan de verplichtingen, vermeld in het eerste en tweede lid, uitzonderlijk en voor maximaal 30 dagen per kalenderjaar laten opnemen door de personen, vermeld in artikel 45, als al de volgende voorwaarden zijn vervuld:<br>
+1° er is altijd een kinderbegeleider met een kwalificatiebewijs als vermeld in artikel 43, §2, 4°, a), aanwezig in de leefgroep in kwestie;<br>
+2° hij dit meldt aan het agentschap met daarbij de motivatie waarom dit nodig is en hoe hij de kwaliteit van de kinderopvang garandeert.<br>
+<br>
+De mogelijkheid, vermeld in het derde lid, zal geëvalueerd worden door het agentschap tegen uiterlijk 1 april 2025.</p>
 
 ### ART. 43.
 
-<p>§ 1. De kinderbegeleider is minstens 18 jaar oud.<br>
+<p>§ 1. De kinderbegeleider is minstens 18 jaar oud.&nbsp;De kinderbegeleider in een kwalificerend traject duaal leren wordt minstens achttien jaar in het schooljaar waarin hij start met het kwalificerende traject duaal leren.<br>
 <br>
 § 2. De organisator heeft de volgende documenten over de kinderbegeleider :<br>
 1° een uittreksel uit het strafregister overeenkomstig artikel 6, § 4, eerste lid, van het decreet van 20 april 2012;<br>
@@ -378,14 +401,12 @@ De organisator zorgt voor een jaarlijkse analyse van de vormingsbehoeften   van 
 a) een attest A van medische geschiktheid, opgemaakt door de kinderbegeleider, volgens het model dat door de minister wordt vastgesteld;<br>
 b) een attest B van medische geschiktheid, opgemaakt door een huisarts, volgens het model dat door de minister wordt vastgesteld, als blijkt uit het attest, vermeld in punt a), dat de betrokkene in onderzoek of behandeling is voor een bepaalde fysieke of psychische beperking of aandoening, of als er een gegronde indicatie is en het agentschap gemotiveerd erom verzoekt;<br>
 c) een attest, opgemaakt door een arbeidsgeneesheer. Dat attest kan het attest, vermeld in punt a) en b), vervangen;<br>
-3° een attest van kennis van levensreddend handelen bij kinderen dat door de minister wordt vastgesteld, die bepaalt wie de uitreikende instanties zijn en wat de leerinhouden zijn;<br>
+3° een attest van kennis van levensreddend handelen bij kinderen. De minister bepaalt wat de leerinhouden voor die attesten zijn en op welke wijze de uitreikende instanties zich kunnen bekendmaken;<br>
 4° een van de volgende bewijzen van kwalificatie :<br>
 a) een kwalificatiebewijs dat door de minister wordt vastgesteld.<br>
-b) voor groepsopvang een bewijs van een kwalificerend traject dat door de minister wordt vastgesteld, als voldaan wordt aan de volgende voorwaarden :<br>
-1) per kinderbegeleider in een kwalificerend traject werken er drie voltijds equivalenten kinderbegeleiders met een kwalificatiebewijs als vermeld in punt a), op het niveau van de organisator;<br>
-2) per kinderbegeleider in een kwalificerend traject is er altijd een kinderbegeleider met een kwalificatiebewijs als vermeld in punt a), aanwezig in de kinderopvanglocatie;<br>
-3) de kinderbegeleider in een kwalificerend traject behaalt een kwalificatiebewijs als vermeld in punt a), maximaal zes jaar na het starten met werken als kinderbegeleider bij de organisator.<br>
-4) de kinderbegeleider in een kwalificerend traject wordt minstens achttien jaar in het schooljaar waarin hij start met het kwalificerende traject.<br>
+b) een bewijs van actieve deelname aan een kwalificerend traject dat de minister vaststelt, dat ertoe leidt dat de kinderbegeleider een kwalificatiebewijs als vermeld in punt a) haalt, en de voormelde kinderbegeleider specifiek ondersteund wordt op de werkplek. Voor groepsopvang gelden naast de voormelde voorwaarde de volgende bijkomende voorwaarden:<br>
+1)&nbsp;&nbsp; &nbsp;per kinderbegeleider in een kwalificerend traject werken er drie voltijdsequivalenten kinderbegeleiders met een kwalificatiebewijs als vermeld in punt a), op het niveau van de organisator;&nbsp;<br>
+2)&nbsp;&nbsp; &nbsp;er is altijd een kinderbegeleider met een kwalificatiebewijs als vermeld in punt a), aanwezig in de kinderopvanglocatie.<br>
 <br>
 Het document, vermeld in het eerste lid, 1° en 2°, is bij de aanvraag van de vergunning of bij de start van de tewerkstelling maximaal drie maanden oud. Als de kinderbegeleider stage loopt, moet het document dateren uit het lopende schooljaar. Het document, vermeld in het eerste lid, 3°, wordt om de drie jaar hernieuwd.<br>
 <br>
@@ -683,7 +704,397 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met   de u
 
 ### BIJLAGE 1
 
-<P>...</P>
+<p>Bijlage 1. Specifieke brandveiligheidsvoorschriften voor groepsopvang als vermeld in artikel 23<br>
+<br>
+Inhoudsopgave<br>
+1. Algemene bepalingen<br>
+2. Inplanting en toegangswegen<br>
+3. Compartimentering<br>
+4. Voorschriften voor sommige bouwmaterialen<br>
+5. Voorschriften voor de evacuatiewegen<br>
+5.1. Uitgangen<br>
+5.2. Evacuatiewegen<br>
+5.3. Trappen voor evacuatie<br>
+6. Constructievoorschriften voor technische ruimten<br>
+6.1. Transformatorlokalen<br>
+6.2. Lokalen met verwarmingsinstallatie<br>
+6.3. Lokalen met was- of droogmachine<br>
+6.4. Keukens<br>
+7. Uitrusting van de gebouwen<br>
+7.1. Verwarmingsinstallatie en waterverwarmingstoestellen<br>
+7.2. Verplaatsbare gasflessen<br>
+7.3. Veiligheidsverlichting<br>
+7.4. Signalisatie<br>
+7.5. Branddetectie<br>
+7.6. Brandbestrijdingsmiddelen<br>
+7.7. Manueel alarmsysteem<br>
+8. Veiligheidsregister<br>
+9. Preventie<br>
+9.1. Voorlichting en vorming van medewerkers<br>
+9.2. Evacuatie- en interventieplan<br>
+<br>
+1. Algemene bepalingen<br>
+<br>
+1.1. Toepassingsgebied<br>
+<br>
+De brandveiligheidsvoorschriften zijn van toepassing op een van de volgende gebouwen of gebouwonderdelen:<br>
+- het volledige gebouw waarin de kinderopvanglocatie gelegen is;<br>
+- een of meer brandwerende compartimenten van het gebouw waarin de kinderopvanglocatie gelegen is.<br>
+<br>
+De gemeenschappelijk gebruikte evacuatiewegen van het gebouw waarin de kinderopvanglocatie gelegen is, voldoen aan de technische specificaties van deze bijlage.<br>
+<br>
+1.2. Definities<br>
+<br>
+Voor de toepassing van deze bijlage gelden de begrippen, zoals bepaald in bijlage 1 bij het koninklijk besluit van 7 juli 1994 tot vaststelling van de basisnormen voor de preventie van brand en ontploffing waaraan de nieuwe gebouwen moeten voldoen, aangevuld met de volgende definities:<br>
+1° federale basisnormen: de specificaties waaraan de nieuwe gebouwen moeten voldoen overeenkomstig de bepalingen van het koninklijk besluit van 7 juli 1994 tot vaststelling van de basisnormen voor de preventie van brand en ontploffing waaraan de nieuwe gebouwen moeten voldoen;<br>
+2° bevoegde controleur: persoon die volgens de toepasselijke regelgeving bevoegd is om de controletaken uit te voeren;<br>
+3° bevoegde persoon: persoon die door de organisator is aangewezen, en die de nodige kennis en vaardigheden bezit om de controletaken uit te voeren. Hij moet ook de nodige middelen ter beschikking hebben om zijn taak goed uit te voeren;<br>
+4° kinderopvangplaatsen: het maximaal aantal kinderen dat de organisator gelijktijdig wil opvangen en waarvoor hij een vergunning wil aanvragen.<br>
+<br>
+1.3. Weerstand tegen brand van bouwelementen<br>
+<br>
+Voor bouwelementen met een dragende of scheidende functie wordt de weerstand tegen brand uitgedrukt zoals gedefinieerd in de Europese norm NBN EN 13501-2. Klasseringen die verkregen zijn volgens de Belgische norm 713.020 en de vier bijbehorende bijlagen, worden als volgt als evenwaardig aanvaard:</p>
+
+<table cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="2">NBN EN 13501</td>
+			<td colspan="2">NBN 713.020</td>
+		</tr>
+		<tr>
+			<td>voor</td>
+			<td>R 30, RE 30, REI 30 en EI 30</td>
+			<td>voldoet</td>
+			<td>Rf ½ h</td>
+		</tr>
+		<tr>
+			<td>voor</td>
+			<td>R 60, RE 60, REI 60 en EI 60</td>
+			<td>voldoet</td>
+			<td>Rf 1 h</td>
+		</tr>
+		<tr>
+			<td>voor</td>
+			<td>R 120, RE 120, REI 120 en EI 120</td>
+			<td>voldoet</td>
+			<td>Rf 2 h</td>
+		</tr>
+		<tr>
+			<td>voor</td>
+			<td>EI1 30 deuren</td>
+			<td>voldoet</td>
+			<td>Rf ½ h</td>
+		</tr>
+		<tr>
+			<td>voor</td>
+			<td>EI1 60 deuren</td>
+			<td>voldoet</td>
+			<td>Rf 1 h</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+1.4. Gelijkwaardigheid van buitenlandse bouwproducten<br>
+<br>
+Alle bouwproducten met dezelfde functie, zoals beschreven in de technische normen vermeld in deze bijlage, die op legale wijze worden geproduceerd en/of gecommercialiseerd in een andere lidstaat of in Turkije of op legale wijze worden geproduceerd in een land van de EVA, contracterende partij van de overeenkomst betreffende de Europese Economische Ruimte, waardoor een gelijkwaardig beschermingsniveau wordt gegarandeerd, worden ook aanvaard.<br>
+<br>
+2. Inplanting en toegangswegen<br>
+<br>
+2.1. De kinderopvanglocatie is bereikbaar voor voertuigen van de brandweerdiensten, zodat de brandbestrijding en de redding er normaal kunnen worden uitgevoerd.<br>
+<br>
+2.2. Een kinderopvanglocatie bevindt zich op een bouwlaag niet hoger dan 25 meter.<br>
+<br>
+2.3. Onder het laagst gelegen evacuatieniveau mogen geen kinderen verblijven.<br>
+<br>
+2.4. Het aantal toegangswegen en het tracé van de toegangswegen worden bepaald in overleg met de bevoegde brandweerdienst. Daarbij wordt rekening gehouden met de uitgestrektheid, het aantal aanwezige personen, het aantal bezette verdiepingen en de opstelling van de gebouwen. Elke toegangsweg wordt zo opgevat dat het materieel en de voertuigen van de brandweer er kunnen rijden, stilstaan en werken.<br>
+<br>
+3. Compartimentering<br>
+<br>
+3.1. De oppervlakte van een compartiment bedraagt maximaal 750 m².<br>
+<br>
+3.2. De wanden van een compartiment hebben minstens EI60 of zijn uitgevoerd in metselwerk of beton met een minimale dikte van 90 mm.<br>
+<br>
+3.3. De deuren van een compartiment hebben minstens EI130 en zijn zelfsluitend of zelfsluitend bij brand.<br>
+<br>
+4. Voorschriften voor sommige bouwmaterialen<br>
+<br>
+4.1. Gemakkelijk brandbare materialen worden in de kinderopvanglocaties niet als plafondbekleding gebruikt.<br>
+<br>
+4.2. Gemakkelijk brandbaar textiel en brandbare of smeltende kunststoffen worden in de kinderopvanglocaties noch als decoratie, noch als bouwmateriaal gebruikt.<br>
+<br>
+5. Voorschriften voor de evacuatiewegen<br>
+<br>
+5.1. Uitgangen<br>
+<br>
+5.1.1. Aantal uitgangen per bouwlaag en per compartiment die de kinderen gebruiken voor gebouwen die onder het toepassingsgebied vallen van de federale basisnorm:
+<table cellspacing="0">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+			<td>9 tot en met 25 kinderopvangplaatsen</td>
+			<td>26 tot en met 50 kinderopvangplaatsen</td>
+			<td>51 of meer kinderopvangplaatsen</td>
+		</tr>
+		<tr>
+			<td>kinderen verblijven overdag niet hoger dan de tweede bouwlaag*</td>
+			<td>1</td>
+			<td>1</td>
+			<td>2</td>
+		</tr>
+		<tr>
+			<td>kinderen verblijven ’s nachts niet hoger dan de tweede bouwlaag*</td>
+			<td>1</td>
+			<td>2</td>
+			<td>2</td>
+		</tr>
+		<tr>
+			<td>kinderen verblijven overdag op de derde bouwlaag* of hoger</td>
+			<td>1</td>
+			<td>2</td>
+			<td>2</td>
+		</tr>
+		<tr>
+			<td>kinderen verblijven ’s nachts op de derde bouwlaag of hoger*</td>
+			<td>2</td>
+			<td>2</td>
+			<td>2</td>
+		</tr>
+	</tbody>
+</table>
+*De eerste bouwlaag valt daarbij samen met het evacuatieniveau.<br>
+<br>
+5.1.2. Aantal uitgangen per bouwlaag en per compartiment die de kinderen gebruiken voor gebouwen die NIET onder het toepassingsgebied vallen van de federale basisnorm:
+<table cellspacing="0">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+			<td>9 tot en met 25 kinderopvangplaatsen</td>
+			<td>26 tot en met 50 kinderopvangplaatsen</td>
+			<td>51 of meer kinderopvangplaatsen</td>
+		</tr>
+		<tr>
+			<td>kinderen verblijven niet hoger dan de tweede bouwlaag*</td>
+			<td>1</td>
+			<td>2</td>
+			<td>2</td>
+		</tr>
+		<tr>
+			<td>kinderen verblijven op de derde bouwlaag* of hoger</td>
+			<td>2</td>
+			<td>2</td>
+			<td>2</td>
+		</tr>
+	</tbody>
+</table>
+*De eerste bouwlaag valt daarbij samen met het evacuatieniveau.<br>
+<br>
+5.1.3. De uitgangen liggen in tegenovergestelde zones van het compartiment of van de bouwlaag.<br>
+<br>
+5.1.4. De uitgangen leiden naar buiten of naar een ander compartiment. Voor de bouwlagen of compartimenten die niet op het evacuatieniveau liggen, zijn de uitgangen met het evacuatieniveau verbonden door middel van trappen binnen of buiten het gebouw die voldoen aan de voorwaarden van deze bijlage.<br>
+<br>
+5.2. Evacuatiewegen<br>
+<br>
+5.2.1. De evacuatiewegen en de deuren die deel uitmaken van de evacuatiewegen, hebben een nuttige breedte van minstens 70 cm. De vluchtterrassen hebben een nuttige breedte van minstens 60 cm.<br>
+<br>
+5.2.2. Evacuatiewegen worden vrij en bruikbaar gehouden. De deuren aan de uitgangen kunnen onmiddellijk ontgrendeld worden in geval van evacuatie.<br>
+<br>
+5.3. Trappen voor evacuatie<br>
+<br>
+5.3.1. De trappen die gebruikt worden bij evacuatie, hebben de volgende kenmerken:<br>
+a) de trappen hebben een nuttige breedte van minstens 70 cm;<br>
+b) de trappen zijn aan beide zijden uitgerust met een leuning, tenzij de trappen een nuttige breedte hebben kleiner dan 120 cm en er geen gevaar is om te vallen, in welk geval 1 leuning volstaat;<br>
+c) de trappen hebben naast de gebruikelijke leuning aan een van de zijden een extra leuning op 60 centimeter hoogte als die trappen door kinderen zelfstandig worden gebruikt;<br>
+d) de aantrede van de treden bedraagt op elk punt minimaal 17 cm;<br>
+e) de optrede van de treden bedraagt niet meer dan 20 cm;<br>
+f) de trappen hebben een maximale hellingshoek van 45°;<br>
+g) de trappen zijn van het “rechte” type. Wenteltrappen worden toegestaan als ze verdreven treden hebben en als de treden ervan, naast de bovenvermelde vereisten, minstens 20 cm aantrede hebben op de looplijn.<br>
+<br>
+5.3.2. De binnentrappen en de overlopen die gebruikt worden bij evacuatie, hebben minstens een van de volgende kenmerken:<br>
+a) ze hebben een stabiliteit bij brand R30;<br>
+b) ze bestaan uit beton of metselwerk;<br>
+c) ze zijn aan de onderzijde bekleed met brandwerende beplating. De materialen en de uitvoering zijn analoog aan die van een getest plafond met brandweerstand EI30.<br>
+<br>
+5.3.3. De buitentrappen die gebruikt worden bij evacuatie, hebben de volgende kenmerken:<br>
+a) de trappen geven toegang tot een evacuatieniveau;<br>
+b) de trappen zijn gemaakt van een niet-brandbaar materiaal;<br>
+c) een buitentrap en een compartiment worden met elkaar verbonden door een deur of door een of meer vluchtterrassen;<br>
+d) voor de verbinding tussen het evacuatieniveau en de onmiddellijk hoger gelegen bouwlaag mag een trap of een gedeelte van een trap gebruikt worden die inschuifbaar of geleed is.<br>
+<br>
+6. Constructievoorschriften voor technische ruimten<br>
+<br>
+6.1. Transformatorlokalen voldoen aan de federale basisnormen.<br>
+<br>
+6.2. Lokalen met verwarmingsinstallatie<br>
+<br>
+6.2.1. Een lokaal met een verwarmingsinstallatie heeft een doeltreffende verluchting, afhankelijk van de installatie.<br>
+<br>
+6.2.2. Als het totale nuttige warmtevermogen van de generatoren:<br>
+a) kleiner is dan 30 kW, gelden geen specifieke voorwaarden voor het lokaal waar de verwarmingsinstallatie is opgesteld;<br>
+b) gelijk is aan of groter is dan 30 kW en kleiner dan 70 kW, is de verwarmingsinstallatie opgesteld in een technisch lokaal met wanden die minstens EI60 hebben of zijn uitgevoerd in metselwerk of beton. De deuren van dit technisch lokaal hebben minstens EI130 en zijn zelfsluitend of zelfsluitend bij brand. De bepalingen van dit punt gelden niet voor de lokalen waarin slechts generatoren op gas met gesloten verbrandingsruimte met mechanische trek opgesteld zijn;<br>
+c) gelijk is aan of groter is dan 70 kW, is de verwarmingsinstallatie opgesteld in een stooklokaal met wanden die minstens EI120 hebben of zijn uitgevoerd in metselwerk of beton. De deuren van dit stooklokaal hebben minstens EI160 en zijn zelfsluitend of zelfsluitend bij brand.<br>
+&nbsp;<br>
+6.2.3. De installaties voor opslag en ontspanning van vloeibaar petroleumgas liggen buiten het gebouw.<br>
+<br>
+6.3. Lokalen met was- of droogmachine<br>
+<br>
+In een kinderopvanglocatie met 26 of meer kinderopvangplaatsen zijn was- en droogmachines opgesteld in een lokaal met wanden die minstens EI60 hebben of die zijn uitgevoerd in metselwerk of beton met een minimale dikte van 90 mm. De deuren van dit lokaal hebben minstens EI130 en zijn zelfsluitend of zelfsluitend bij brand.<br>
+<br>
+6.4. Keukens<br>
+<br>
+In een kinderopvanglocatie met 26 of meer kinderopvangplaatsen zijn kooktoestellen met een open vlam of kooktoestellen met een vermogen van meer dan 0,8 kW die zichzelf niet automatisch uitschakelen, opgesteld in een keuken met wanden die minstens EI60 hebben of die zijn uitgevoerd in metselwerk of beton met een minimale dikte van 90 mm. De deuren van de keuken hebben minstens EI130 en zijn zelfsluitend of zelfsluitend bij brand.<br>
+<br>
+7. Uitrusting van het gebouw<br>
+<br>
+7.1. Verwarmingsinstallatie en waterverwarmingstoestellen<br>
+<br>
+Alleen het gebruik van de volgende niet-verplaatsbare systemen is toegestaan:<br>
+a) centrale verwarming;<br>
+b) elektrische verwarming zonder zichtbare weerstand;<br>
+c) gesloten individuele (water)verwarmingstoestellen die aangesloten zijn als een type C met externe aanvoer van buitenlucht en externe afvoer van verbrandingsgassen.<br>
+<br>
+7.2. Verplaatsbare gasflessen zijn niet toegestaan.<br>
+<br>
+7.3. Veiligheidsverlichting<br>
+<br>
+7.3.1. De kinderopvanglocatie heeft veiligheidsverlichting die onmiddellijk en automatisch in dienst treedt als de stroom uitvalt. Er worden minstens armaturen voor veiligheidsverlichting aangebracht boven elke uitgangsdeur, in alle evacuatiewegen (gangen, trappen en buitentrappen), in de nabijheid van de brandbestrijdingsmiddelen en in alle lokalen die uitsluitend door kunstlicht bediend worden. Als de verlichtingssterkte niet volstaat om een gemakkelijke ontruiming te waarborgen, wordt de veiligheidsverlichting verder uitgebreid op advies van de brandweerdiensten.<br>
+<br>
+7.3.2. De veiligheidsverlichting kan minstens gedurende één uur zonder onderbreking functioneren.<br>
+&nbsp;<br>
+7.4. Signalisatie<br>
+<br>
+Voor alle bouwlagen wordt het volgnummer duidelijk aangebracht op de overlopen en in de vluchtruimten bij trappenhuizen en liften. De aanduiding van de uitgangen en nooduitgangen voldoet aan de bepalingen over veiligheids- en gezondheidssignalering op het werk.<br>
+<br>
+7.5. Branddetectie<br>
+<br>
+7.5.1. In alle lokalen van de kinderopvanglocatie zijn er correct geplaatste autonome rookmelders of is er een branddetectie-installatie met centrale. Rookmelders van het ionische type zijn niet toegestaan.<br>
+<br>
+7.5.2. Een kinderopvanglocatie die ’s nachts kinderopvang organiseert, heeft een branddetectie-installatie met centrale.<br>
+<br>
+7.5.3. Een kinderopvanglocatie met 51 of meer kinderopvangplaatsen heeft een branddetectie-installatie met centrale.<br>
+<br>
+7.5.4. Een branddetectie-installatie met centrale bestaat uit een aantal branddetectoren in alle lokalen die deel uitmaken van de kinderopvanglocatie en die zijn verbonden met een interne centrale. Bij de keuze van het type van detectoren wordt rekening gehouden met de aard, het risico en de omgevingsvoorwaarden.<br>
+<br>
+De centrale is aangepast aan de detectoren en minstens uitgerust met:<br>
+a) een optisch signaal dat de inbedrijfstelling van de installatie aangeeft;<br>
+b) een akoestisch waarschuwingssignaal;<br>
+c) een optisch waarschuwingssignaal dat het mogelijk maakt de plaats waar de brand is ontstaan, te lokaliseren. Die lokalisering van de brand is op zijn minst mogelijk per bouwlaag;<br>
+d) een akoestisch en optisch storingssignaal dat verschilt van het waarschuwingssignaal bij brand;<br>
+e) een alarmsignaal dat niet verward kan worden met andere signalen en overal in de kinderopvanglocatie gehoord kan worden.<br>
+<br>
+De centrale wordt gevoed door het openbare elektriciteitsnet en wordt beveiligd met afzonderlijke zekeringen. Als het openbare elektriciteitsnet uitvalt, zorgt een autonome stroombron automatisch voor de voeding van de installatie.<br>
+<br>
+7.6. De kinderopvanglocatie beschikt over brandbestrijdingsmiddelen. De keuze, het aantal en de plaats van de brandbestrijdingsmiddelen worden bepaald in overleg met de bevoegde brandweerdienst en zijn afhankelijk van de aard en de omvang van het risico.<br>
+<br>
+7.7. Manueel alarmsysteem<br>
+<br>
+In een kinderopvanglocatie met 26 of meer kinderopvangplaatsen is er een manueel alarmsysteem dat aangesloten is op een interne alarmcentrale en dat bestaat uit een aantal drukknoppen en een alarminrichting.<br>
+<br>
+De drukknoppen staan op goed zichtbare of degelijk gemerkte plaatsen en zijn in alle omstandigheden gemakkelijk bereikbaar. Ze worden onder andere geplaatst in de nabijheid van de doorgangen die naar buiten leiden, op de overlopen en in de gangen. Ze worden zo geplaatst dat ze de circulatie niet hinderen en niet beschadigd kunnen worden.<br>
+<br>
+De alarminrichtingen worden bepaald op advies van de bevoegde brandweerdienst. Op iedere bouwlaag waar kinderen verblijven, moet er minstens één drukknop aanwezig zijn.<br>
+<br>
+Alarminrichtingen (sirene) worden zo opgevat dat:<br>
+a) signalen niet met andere signalen kunnen worden verward;<br>
+b) ze overal in de kinderopvanglocatie kunnen worden gehoord;<br>
+c) ze in geval van defect van de normale stroombron, hun voeding krijgen via een autonome stroombron;<br>
+d) ze verbonden zijn met een centrale.<br>
+<br>
+8. Veiligheidsregister<br>
+<br>
+8.1. De organisator van de kinderopvanglocatie zorgt ervoor dat de installaties, vermeld in 8.2, gecontroleerd worden door de bevoegde controleur of door de bevoegde persoon, vermeld in 8.2, volgens de frequentie, vermeld in 8.2, en dat de resultaten ervan aantoonbaar zijn met een verslag of factuur. De betreffende documenten worden gebundeld in een veiligheidsregister. Dat veiligheidsregister moet permanent ter inzage liggen in de kinderopvanglocatie.<br>
+<br>
+8.2. De volgende installaties, als ze in de kinderopvanglocatie aanwezig zijn, zijn te controleren, volgens de bepaalde frequentie en door de volgende bevoegde controleur of persoon:<br>
+&nbsp;
+<table cellspacing="0">
+	<tbody>
+		<tr>
+			<td><strong>te controleren</strong></td>
+			<td><strong>frequentie</strong></td>
+			<td><strong>uitvoerder van de controle</strong></td>
+		</tr>
+		<tr>
+			<td>1. liftinstallatie</td>
+			<td>volgens toepasselijke regelgeving</td>
+			<td>bevoegde controleur</td>
+		</tr>
+		<tr>
+			<td>2. laagspanningsinstallatie</td>
+			<td>volgens toepasselijke regelgeving</td>
+			<td>bevoegde controleur</td>
+		</tr>
+		<tr>
+			<td>3. hoogspanningsinstallatie</td>
+			<td>jaarlijks</td>
+			<td>bevoegde controleur</td>
+		</tr>
+	</tbody>
+</table>
+
+<table cellspacing="0">
+	<tbody>
+		<tr>
+			<td>4. branddetectie-installatie en manueel alarmsysteem</td>
+			<td>driejaarlijks</td>
+			<td>bevoegde persoon</td>
+		</tr>
+		<tr>
+			<td>5. brandbestrijdingsmiddelen</td>
+			<td>jaarlijks</td>
+			<td>bevoegde persoon</td>
+		</tr>
+		<tr>
+			<td>6. centrale</td>
+			<td>volgens toepasselijke</td>
+			<td>bevoegde</td>
+		</tr>
+		<tr>
+			<td>verwarmingsinstallatie en waterverwarmingtoestellen, schouwen en stookplaatsen</td>
+			<td>regelgeving</td>
+			<td>controleur</td>
+		</tr>
+		<tr>
+			<td>7. gesloten individuele (water)verwarmingstoestellen van het type C</td>
+			<td>jaarlijks</td>
+			<td>bevoegde persoon</td>
+		</tr>
+		<tr>
+			<td>8. veiligheidsverlichting</td>
+			<td>driemaandelijks</td>
+			<td>bevoegde persoon</td>
+		</tr>
+		<tr>
+			<td>9. toestand evacuatiewegen en brandwerende deuren</td>
+			<td>driemaandelijks</td>
+			<td>bevoegde persoon</td>
+		</tr>
+		<tr>
+			<td>10. autonome rookmelders</td>
+			<td>driemaandelijks</td>
+			<td>bevoegde persoon</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+9. Preventie<br>
+<br>
+9.1. Voorlichting en vorming van medewerkers<br>
+<br>
+9.1.1. De organisator zorgt ervoor dat bepaalde medewerkers die in de kinderopvanglocatie werkzaam zijn, vorming over brandpreventie krijgen, waardoor ze geoefend zijn in het hanteren van de brandbestrijdingsmiddelen en de ontruiming van de kinderopvanglocatie. Die medewerkers zijn vooraf aangewezen door de organisator wegens de permanentie en de aard van hun functie. Er is altijd minstens één van die medewerkers aanwezig in de kinderopvanglocatie.<br>
+Een attest van de vorming over brandpreventie wordt bijgehouden in het veiligheidsregister, vermeld in 8.2.<br>
+<br>
+9.1.2. De organisator zorgt ervoor dat alle medewerkers zijn ingelicht over de gevaren en de preventie van brand in de kinderopvanglocatie en voorziet in instructierichtlijnen voor een veilige ontruiming.<br>
+<br>
+9.2. Evacuatie- en interventieplan<br>
+<br>
+9.2.1. De organisator van de kinderopvanglocatie stelt een evacuatie- en interventieplan op in samenspraak met de bevoegde brandweerdienst. Dat evacuatie- en interventieplan wordt opgenomen in de crisisprocedure, vermeld in artikel 27 van dit besluit, en is op elk moment beschikbaar voor de brandweerdiensten.<br>
+<br>
+9.2.2. Er wordt jaarlijks een evacuatieoefening gehouden, waarna de doelmatigheid van het evacuatie- en het interventieplan zo nodig wordt bijgestuurd.<br>
+&nbsp;<br>
+9.2.3. Er wordt in overleg met de bevoegde brandweerdienst een veilige verzamelplaats bepaald die voldoende groot is om de geëvacueerde personen te verzamelen en die op voldoende afstand van het geteisterde gebouw ligt.<br>
+<br>
+9.2.4. Een plan van elk niveau wordt aangeplakt bij elke toegang tot dat niveau. Een plan van de kelderverdiepingen wordt aangeplakt op het evacuatieniveau en bij het uitgangspunt van de trappen die naar de kelderverdiepingen leiden. Die plannen verschaffen onder meer inlichtingen over de plaats en de bestemming van de lokalen en technische ruimten, de toegangswegen, de uitgangen, de nooduitgangen, de evacuatiewegen, de trappen en de opstelling van de uitrusting voor brandbestrijding. In het evacuatie- en interventieplan is een exemplaar van die plannen opgenomen.<br>
+&nbsp;</p>
 
 ### BIJLAGE 2
 
@@ -715,4 +1126,4 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met   de u
 
 ### BIJLAGE 9
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/01/13_1.pdf#page=72">Bijlage   9</A><BR><BR>* het opschrift van bijlage 9 wordt vervangen door wat volgt   :<BR>"Bijlage 2. Competenties kinderbegeleider baby's en peuters, uitgewerkt per   cluster als vermeld in artikel 43". (Zie BVR 9 oktober 2015, art. 38, I: 1   september 2015).
+...
