@@ -994,7 +994,8 @@ De activiteiten inzake databeheer op het distributienet&nbsp;omvatten volgende t
 a) allocatie, reconciliatie en facturatie in het kader van de aankoop en verkoop van elektriciteit en aardgas;<br>
 b) het aanbieden van energiediensten door een derde na expliciete en geïnformeerde toestemming van de afnemer;<br>
 c) netbeheer en operationele veiligheid;<br>
-d) verrekeningen die gepaard gaan met peer-to-peerhandel van de hoeveelheden groene stroom door één actieve afnemer aan één andere actieve afnemer en met energiedelen door actieve afnemers, energiegemeenschappen van burgers of hernieuwbare-energiegemeenschappen.<br>
+d) verrekeningen die gepaard gaan met peer-to-peerhandel van de hoeveelheden groene stroom door één actieve afnemer aan één andere actieve afnemer en met energiedelen door actieve afnemers, energiegemeenschappen van burgers of hernieuwbare-energiegemeenschappen;<br>
+e) verrekeningen van de verkoop van groene stroom conform artikel 7.2.3;<br>
 2° het beheren van het toegangsregister;<br>
 3° het beheren, verwerken, beveiligen en bewaren van de technische, relationele en meetgegevens met betrekking tot de toegangspunten van het distributienet, en het instaan voor de waarachtigheid en nauwkeurigheid ervan;<br>
 4° de bepaling en de validatie van de injectie en de afname van de producenten en afnemers die aangesloten zijn op het distributienet;<br>
@@ -1073,7 +1074,14 @@ De bepalingen van onderafdeling III tot en met V gelden behoudens   andersluiden
 
 ### ART. 4.1.11/3.
 
-De distributienetbeheerder is de aanvrager van een aansluiting op zijn net   een vergoeding verschuldigd per dag overschrijding van de aansluitingstermijn   die voorgeschreven is door de technische reglementen of die in onderling overleg   werd afgesproken, behalve als hij kan bewijzen dat hij de laattijdigheid van de   aansluiting niet heeft kunnen beletten.<BR><BR>De dagvergoeding bedraagt 25 euro   voor een huishoudelijke netgebruiker in geval van een laattijdige eenvoudige   aansluiting of een laattijdige tijdelijke aansluiting, 50 euro voor een   niet-huishoudelijke netgebruiker in geval van een laattijdige eenvoudige   aansluiting of een laattijdige tijdelijke aansluiting, en 100 euro voor een   laattijdige aansluiting met detailstudie.<BR><BR>De Vlaamse Regering bepaalt, na   advies van de VREG, de voorwaarden en de procedure tot indiening van de aanvraag   van de vergoeding.
+De distributienetbeheerder is de aanvrager van een aansluiting op zijn net een vergoeding verschuldigd per dag overschrijding van de aansluitingstermijn die voorgeschreven is door de technische reglementen of die in onderling overleg werd afgesproken, behalve als hij kan bewijzen dat hij de laattijdigheid van de aansluiting niet heeft kunnen beletten.<br>
+<br>
+De dagvergoeding bedraagt:<br>
+1° 25 euro in geval van een laattijdige eenvoudige aansluiting of een laattijdige tijdelijke aansluiting van een wooneenheid;<br>
+2° 50 euro in geval van elke andere laattijdige eenvoudige aansluiting of elke andere laattijdige tijdelijke aansluiting dan de laattijdige eenvoudige aansluiting of laattijdige tijdelijke aansluiting, vermeld in punt 1°;<br>
+3° 100 euro in geval van een laattijdige aansluiting met detailstudie.<br>
+<br>
+De Vlaamse Regering bepaalt, na advies van de VREG, de voorwaarden en de procedure tot indiening van de aanvraag van de vergoeding.
 
 ## [Onderafdeling IV. Forfaitaire vergoeding bij laattijdige heraansluiting (ing. decr. 20 december 2013, art. 10, I: 1 januari 2015)]
 
@@ -1085,7 +1093,19 @@ De distributienetbeheerder is een aanvrager van een heraansluiting op zijn   net
 
 ### ART. 4.1.11/5.
 
-§ 1. De netbeheerder is de netgebruiker, aangesloten op het   distributienet, een vergoeding verschuldigd in geval van een niet-geplande   stroomonderbreking met technische oorzaak van minstens vier uur.<BR><BR>De   vergoeding bedraagt 35 euro voor de huishoudelijke netgebruiker, vermeerderd met   20 euro voor elke bijkomende periode van vier uur. Deze bedragen worden   verdubbeld als de onderbreking plaatsvindt in de periode vermeld in artikel   6.1.2, § 1, derde lid.<BR><BR>Voor de niet-huishoudelijke netgebruiker bedraagt   de vergoeding 20% van het bedrag overeenkomstig de distributiekosten voor de   maand die voorafgaat aan de maand waarin de onderbreking zich heeft voorgedaan,   met een minimum van 35 euro. Dat bedrag wordt vermeerderd met de helft van het   bedrag, met een minimum van 20 euro, voor elke bijkomende periode van vier   uur.<BR><BR>§ 2. De vergoedingsplicht, vermeld in paragraaf 1, geldt niet in   geval van een onderbreking als gevolg van een noodsituatie of overmacht, zoals   omschreven in de technische reglementen.<BR><BR>§ 3. De netgebruiker dient de   aanvraag voor de vergoeding in bij de distributienetbeheerder, op straffe van   onontvankelijkheid binnen dertig kalenderdagen die volgen op de langdurige   onderbreking. Binnen zestig kalenderdagen die volgen op de indiening van de   aanvraag, wordt de vergoeding door de distributienetbeheerder betaald als de   aanvraag gegrond is.<BR><BR>§ 4. De distributienetbeheerder wordt in de rechten   van de netgebruiker gesteld ten opzichte van degene die het ontstaan of het   aanhouden van de onderbreking veroorzaakte, voor de door hem betaalde vergoeding   met toepassing van dit artikel.<BR><BR>De Vlaamse Regering bepaalt, na advies   van de VREG, de voorwaarden en de procedure tot indiening van de aanvraag van de   vergoeding.
+§ 1. De netbeheerder is de netgebruiker, aangesloten op het distributienet, een vergoeding verschuldigd in geval van een niet-geplande stroomonderbreking met technische oorzaak van minstens vier uur.<br>
+<br>
+De vergoeding bedraagt 35 euro voor de netgebruiker gesitueerd in een wooneenheid, vermeerderd met 20 euro voor elke bijkomende periode van vier uur. Deze bedragen worden verdubbeld als de onderbreking plaatsvindt in de periode vermeld in artikel 6.1.2, § 1, derde lid.<br>
+<br>
+In alle andere gevallen dan het geval, vermeld in het tweede lid, bedraagt de vergoeding 20% van het bedrag overeenkomstig de distributiekosten voor de maand die voorafgaat aan de maand waarin de onderbreking zich heeft voorgedaan, met een minimum van 35 euro. Dat bedrag wordt vermeerderd met de helft van het bedrag, met een minimum van 20 euro, voor elke bijkomende periode van vier uur.<br>
+<br>
+§ 2. De vergoedingsplicht, vermeld in paragraaf 1, geldt niet in geval van een onderbreking als gevolg van een noodsituatie of overmacht, zoals omschreven in de technische reglementen.<br>
+<br>
+§ 3. De netgebruiker dient de aanvraag voor de vergoeding in bij de distributienetbeheerder, op straffe van onontvankelijkheid binnen dertig kalenderdagen die volgen op de langdurige onderbreking. Binnen zestig kalenderdagen die volgen op de indiening van de aanvraag, wordt de vergoeding door de distributienetbeheerder betaald als de aanvraag gegrond is.<br>
+<br>
+§ 4. De distributienetbeheerder wordt in de rechten van de netgebruiker gesteld ten opzichte van degene die het ontstaan of het aanhouden van de onderbreking veroorzaakte, voor de door hem betaalde vergoeding met toepassing van dit artikel.<br>
+<br>
+De Vlaamse Regering bepaalt, na advies van de VREG, de voorwaarden en de procedure tot indiening van de aanvraag van de vergoeding.
 
 ## [Onderafdeling VI. Schadevergoeding bij inbreuk in verband met persoonsgegevens (ing. decr. 23 december 2022, art. 9, I: 1 april 2023)]
 
@@ -1096,6 +1116,10 @@ Onverminderd de toepassing van artikel 82 van de algemene verordening gegevensbe
 De netbeheerder wordt in de rechten van de betrokkene gesteld ten opzichte van de veroorzaker van de inbreuk, voor de vergoeding die hij heeft betaald met toepassing van dit artikel.
 
 ## [Onderafdeling VII. Forfaitaire vergoeding bij laattijdige plaatsing van een digitale meter (ing. decr. decr. 23 december 2022, art. 10, I: 1 april 2023)]
+
+### ART 4.1.11/7.
+
+De distributienetbeheerder is aan de netgebruiker die, conform artikel 4.1.22/2, eerste lid, 7°, om de plaatsing van een digitale meter heeft verzocht, een vergoeding verschuldigd van 100 euro bij overschrijding van de termijn, vastgesteld door de Vlaamse Regering, conform artikel 4.1.22/2, vierde lid, voor het aanleveren van de offerte of het plaatsen van de digitale meter.
 
 ## Afdeling V. Aansluiting op een distributienet of het plaatselijk vervoernet van elektriciteit
 
@@ -1780,11 +1804,11 @@ De reglementen bevatten telkens de bepalingen van toepassing op de gesloten dist
 <br>
 § 2. De technische reglementen, vermeld in § 1, bevatten voor het beheer, de toegang tot en de aansluiting op het net in ieder geval :<br>
 1° de technische en operationele regels die verbonden zijn aan de taken die behoren tot het beheer van het net, vermeld in artikel 4.1.6;<br>
-2° de verplichtingen die opgelegd zijn aan producenten, evenwichtsverantwoordelijken, bevrachters, leveranciers,&nbsp;actieve afnemers, energiegemeenschappen van burgers, hernieuwbare-energiegemeenschappen, aanbieders van energiediensten met inbegrip van exploitanten van noodgroepen, aggregatoren,&nbsp;dienstverleners van flexibiliteit, afnemers,&nbsp;om de netbeheerder in staat te stellen zijn net zo kwaliteitsvol mogelijk te beheren, inclusief de handels- en balanceringsvereisten opgelegd aan iedere leverancier van elektriciteit of aardgas aan afnemers in het Vlaamse Gewest;<br>
-3° de regels voor de uitwisseling van gegevens tussen de beheerder van het transmissienet, de vervoeronderneming, de distributienetbeheerders, de beheerder van het plaatselijke vervoernet van elektriciteit, de beheerder van het gesloten distributienet, de producenten, de aardgasinvoerders, de evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de leveranciers,&nbsp;de actieve afnemers, energiegemeenschappen van burgers, de hernieuwbare-energiegemeenschappen, de&nbsp;aanbieders van energiediensten met inbegrip van aggregatorenen de afnemers en de dienstverleners van flexibiliteit;<br>
-4° de regels die opgelegd zijn aan leveranciers en netbeheerders bij klant- of leverancierswissels, contractuele wijzigingen op het toegangspunt, de opname en rechtzetting van meterstanden, energiedelen conform artikel 7.2.1, de peer-to-peerhandel van groene stroom door één actieve afnemer aan een andere afnemer conform artikel 7.2.2 en de allocatie en reconciliatie, inclusief de financiële verrekeningen tussen marktpartijen;<br>
+2° de verplichtingen die opgelegd zijn aan producenten, evenwichtsverantwoordelijken, bevrachters, leveranciers,&nbsp;actieve afnemers, energiegemeenschappen van burgers, hernieuwbare-energiegemeenschappen,&nbsp;de producenten van groene stroom, vermeld in artikel 7.2.3, §2, eerste lid, aanbieders van energiediensten met inbegrip van exploitanten van noodgroepen, aggregatoren,&nbsp;dienstverleners van flexibiliteit, afnemers,&nbsp;om de netbeheerder in staat te stellen zijn net zo kwaliteitsvol mogelijk te beheren, inclusief de handels- en balanceringsvereisten opgelegd aan iedere leverancier van elektriciteit of aardgas aan afnemers in het Vlaamse Gewest;<br>
+3° de regels voor de uitwisseling van gegevens tussen de beheerder van het transmissienet, de vervoeronderneming, de distributienetbeheerders, de beheerder van het plaatselijke vervoernet van elektriciteit, de beheerder van het gesloten distributienet, de producenten, de aardgasinvoerders, de evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de leveranciers,&nbsp;de actieve afnemers, energiegemeenschappen van burgers, de hernieuwbare-energiegemeenschappen,&nbsp;de producenten van groene stroom, vermeld in artikel 7.2.3, §2, eerste lid, de&nbsp;aanbieders van energiediensten met inbegrip van aggregatorenen de afnemers en de dienstverleners van flexibiliteit;<br>
+4° de regels die opgelegd zijn aan leveranciers en netbeheerders bij klant- of leverancierswissels, contractuele wijzigingen op het toegangspunt, de opname en rechtzetting van meterstanden, energiedelen conform artikel 7.2.1,&nbsp;de verkoop van groene stroom conform artikel 7.2.3, de peer-to-peerhandel van groene stroom door één actieve afnemer aan een andere afnemer conform artikel 7.2.2 en de allocatie en reconciliatie, inclusief de financiële verrekeningen tussen marktpartijen;<br>
 5° de eventuele technische uitvoeringsregels bij openbaredienstverplichtingen die opgelegd zijn aan leveranciers of netbeheerders op grond van dit decreet;<br>
-6° de informatieverplichtingen of voorafgaande goedkeuring of vaststelling door de VREG van de operationele regels, algemene voorwaarden, typeovereenkomsten, formulieren en procedures die gebruikt worden door de netbeheerder ten aanzien van leveranciers,&nbsp;actieve afnemers, energiegemeenschappen van burgers, hernieuwbare-energiegemeenschappen, aanbieders van energiediensten met inbegrip van aggregatoren, dienstverleners van flexibiliteit en afnemers;<br>
+6° de informatieverplichtingen of voorafgaande goedkeuring of vaststelling door de VREG van de operationele regels, algemene voorwaarden, typeovereenkomsten, formulieren en procedures die gebruikt worden door de netbeheerder ten aanzien van leveranciers,&nbsp;actieve afnemers, energiegemeenschappen van burgers, hernieuwbare-energiegemeenschappen, de producenten van groene stroom, vermeld in artikel 7.2.3, §2, eerste lid, aanbieders van energiediensten met inbegrip van aggregatoren, dienstverleners van flexibiliteit en afnemers;<br>
 7° de prioriteit die moet worden gegeven aan kwalitatieve warmtekrachtinstallaties en aan productie-installaties van groene stroom;<br>
 8° de verplichting voor de netbeheerders tot het verstrekken van informatie aan de VREG over de beoordeling die zij uitvoeren van het potentieel voor energie-efficiëntie van hun gas- en elektriciteitsinfrastructuur, in het bijzonder wat betreft transport, distributie, beheer van de belasting van het net en interoperabiliteit, en de aansluiting op installaties voor energieopwekking, inclusief de toegangsmogelijkheden voor micro-energiegeneratoren;<br>
 9° de vaststelling of goedkeuring van niet-tarifaire toegangs- en aansluitingsvoorwaarden.<br>
@@ -1796,7 +1820,7 @@ De reglementen bevatten telkens de bepalingen van toepassing op de gesloten dist
 15° de regels die zijn opgelegd in het kader van flexibiliteit aan de elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit en de dienstverleners van flexibiliteit;<br>
 16° de lijst van gegevens, waaronder ook persoonsgegevens, die in het flexibiliteitstoegangsregister worden opgenomen;<br>
 17° de lijst van gegevens, waaronder ook persoonsgegevens, die in het flexibiliteitsactivatieregister worden opgenomen;<br>
-18° de gegevens die worden gemeten, berekend, bezorgd en beheerd, en ook de methodieken om energiehoeveelheden voor de allocatie, reconciliatie en facturatie te berekenen, en de aanpassingen aan die berekeningen, die gepaard gaan met de activiteiten van actieve afnemers, energiegemeenschappen van burgers en hernieuwbare-energiegemeenschappen.<br>
+18° de gegevens die worden gemeten, berekend, bezorgd en beheerd, en ook de methodieken om energiehoeveelheden voor de allocatie, reconciliatie en facturatie te berekenen, en de aanpassingen aan die berekeningen, die gepaard gaan met de activiteiten van actieve afnemers, energiegemeenschappen van burgers en hernieuwbare-energiegemeenschappen en de verkoop van groene stroom conform artikel 7.2.3.<br>
 <br>
 § 3. De technische reglementen, vermeld in paragraaf 1, worden na een openbare consultatie goedgekeurd door de raad van bestuur van de VREG.<br>
 <br>
@@ -2146,7 +2170,7 @@ Elke energiegemeenschap van burgers en elke hernieuwbare-energiegemeenschap zijn
 <br>
 § 3. Elke vennoot of elk lid van een energiegemeenschap van burgers en hernieuwbare-energiegemeenschap behoudt zijn rechten als afnemer, huishoudelijke afnemer of actieve afnemer en kan de energiegemeenschap van burgers of de hernieuwbare-energiegemeenschap verlaten. De voorwaarden, vermeld in artikel 4.4.1, tweede lid, zijn in dat geval van overeenkomstige toepassing.<br>
 <br>
-§ 4. De Vlaamse Regering neemt maatregelen om de ontwikkeling van hernieuwbare-energiegemeenschappen en energiegemeenschappen van burgers te bevorderen en te vergemakkelijken. In dat kader vraagt de Vlaamse Regering aan de VREG via een kosten-batenanalyse te onderzoeken in welke mate activiteiten van energiegemeenschappen en actieve afnemers in een gebouw als vermeld in artikel 7.2.1, § 1, tweede lid, 1°, kunnen bijdragen aan de ontlasting van het distributienet, inclusief de vermeden investeringen en kosten in het net, en de relevante vergoedingen en kortingen op nettarieven te onderzoeken die daarvoor desgevallend kunnen worden voorzien ten aanzien van de hernieuwbare-energiegemeenschappen, de energiegemeenschappen van burgers of de actieve afnemers in een gebouw als vermeld in artikel 7.2.1, § 1, tweede lid, 1°.<br>
+§ 4. De Vlaamse Regering neemt maatregelen om de ontwikkeling van hernieuwbare-energiegemeenschappen en energiegemeenschappen van burgers te bevorderen en te vergemakkelijken. In dat kader vraagt de Vlaamse Regering aan de VREG via een kosten-batenanalyse te onderzoeken in welke mate activiteiten van energiegemeenschappen en actieve afnemers in een gebouw als vermeld in artikel 7.2.1, § 1, tweede lid, 1°, en de verkoop van groene stroom conform artikel 7.2.3, kunnen bijdragen aan de ontlasting van het distributienet, inclusief de vermeden investeringen en kosten in het net, en de relevante vergoedingen en kortingen op nettarieven te onderzoeken die daarvoor desgevallend kunnen worden voorzien ten aanzien van de hernieuwbare-energiegemeenschappen, de energiegemeenschappen van burgers, de betrokken personen van de verkoop van groene stroom conform artikel 7.2.3 of de actieve afnemers in een gebouw als vermeld in artikel 7.2.1, § 1, tweede lid, 1°.<br>
 <br>
 De Vlaamse Regering kan met het doel innovatieve projecten te stimuleren binnen het kader van regelluwe zones voor energie, vermeld in titel XIV/1, aan energiegemeenschappen van burgers of aan hernieuwbare-energiegemeenschap-pen toestaan om distributienetten binnen hun dekkingsgebied te beheren, evenwel zonder dat dit in strijd is met de geldende regelgeving.
 
@@ -2974,10 +2998,12 @@ Onverminderd enige andersluidende bepaling worden de bouw en de aanleg, met inbe
 
 ### ART. 7.2.1.
 
-§ 1. In dit artikel wordt verstaan onder gebouw: een gebouw met minstens twee wooneenheden of andere eenheden met een of meerdere gemeenschappelijke aansluitingspunten op hetzelfde adres en die aangesloten zijn op een elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit of een gesloten distributienet van elektriciteit.<br>
+§ 1. In dit artikel wordt verstaan onder appartementsgebouw of multifunctioneel gebouw: een gebouw of gebouwencomplex dat bestaat uit een of meer gebouwen op een eigen site met per gebouw minstens twee wooneenheden of andere eenheden, dat aan de volgende voorwaarden voldoet:<br>
+1° het gebouw of gebouwencomplex beschikt over een of meer gemeenschappelijke aansluitingspunten op een elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit of een gesloten distributienet van elektriciteit;<br>
+2° in geval van een gebouwencomplex beschikken de gebouwen die deel uitmaken van het gebouwencomplex over gemeenschappelijke aanhorigheden.<br>
 <br>
 De volgende personen kunnen aan energiedelen doen:<br>
-1° de actieve afnemer in een gebouw, met betrekking tot de gezamenlijk geproduceerde energie uit hernieuwbare energiebronnen in of op het gebouw of zijn aanhorigheden, maximaal ten belope van de afname op zijn toegangspunt in het gebouw waarin hij is gevestigd, waarbij de productie-installaties van elektriciteit zijn aangesloten op een elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit of een gesloten distributienet van elektriciteit;<br>
+1° de actieve afnemer in een appartementsgebouw of multifunctioneel gebouw, met betrekking tot de gezamenlijk geproduceerde energie uit hernieuwbare energiebronnen in of op het appartementsgebouw of multifunctioneel gebouw of zijn aanhorigheden, maximaal ten belope van de afname op zijn toegangspunt in het appartementsgebouw of multifunctioneel gebouw waarin hij is gevestigd, waarbij de productie-installaties van elektriciteit zijn aangesloten op een elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit of een gesloten distributienet van elektriciteit;<br>
 2° een vennoot of lid van een energiegemeenschap van burgers, met betrekking tot de energie die binnen de energiegemeenschap van burgers geproduceerd is, maximaal ten belope van de afname op zijn toegangspunt;<br>
 3° een vennoot of lid van een hernieuwbare-energiegemeenschap, met betrekking tot de energie uit hernieuwbare energiebronnen die de hernieuwbare-energiegemeenschap geproduceerd heeft, maximaal ten belope van de afname op zijn toegangspunt.<br>
 4° de actieve afnemer tussen verschillende toegangspunten op het elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit of een gesloten distributienet van elektriciteit waarvan hij titularis is, met betrekking tot de energie uit hernieuwbare energiebronnen die op één van die toegangspunten wordt geproduceerd, en maximaal ten belope van de afname op die toegangspunten.<br>
@@ -3020,7 +3046,33 @@ De Vlaamse Regering bepaalt de fasering en timing om de activiteit, vermeld in p
 
 ### ART. 7.2.3.
 
-...
+§1. In dit artikel wordt verstaan onder appartementsgebouw of multifunctioneel gebouw: een gebouw of gebouwencomplex dat bestaat uit een of meer gebouwen op een eigen site met per gebouw minstens twee wooneenheden of andere eenheden, dat aan de volgende voorwaarden voldoet:<br>
+1° het gebouw of gebouwencomplex beschikt over een of meer gemeenschappelijke aansluitingspunten op een elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit of een gesloten distributienet van elektriciteit;<br>
+2° in geval van een gebouwencomplex beschikken de gebouwen die deel uitmaken van het gebouwencomplex over gemeenschappelijke aanhorigheden.<br>
+<br>
+§2. De vereniging van mede-eigenaars, een eigenaar van een appartementsgebouw of multifunctioneel gebouw, of een eigenaar die van de vereniging van mede-eigenaars of, als er geen vereniging van mede-eigenaars is opgericht, van de andere eigenaars het recht heeft gekregen om de gemeenschappelijke delen of een deel van het appartementsgebouw of multifunctioneel gebouw daarvoor privatief in gebruik te nemen, kan de groene stroom die hij zelf geproduceerd heeft in of op het appartementsgebouw of multifunctioneel gebouw of de aanhorigheden ervan, die hij in voorkomend geval opgeslagen heeft, en die hij in het elektriciteits- distributienet geïnjecteerd heeft, per onbalansverrekeningsperiode verkopen aan de bewoner of gebruiker van het appartementsgebouw of multifunctioneel gebouw, maximaal ten belope van de afname van de bewoner of gebruiker op zijn toegangspunt in het appartementsgebouw of multifunctioneel gebouw. In dat geval is die natuurlijke persoon of rechtspersoon in het kader van de levering van die groene stroom niet onderworpen aan de verplichtingen die hem door of krachtens artikel 4.3.1, §1, eerste lid, artikel 4.3.2 en artikel 7.5.1, eerste lid, worden opgelegd.<br>
+<br>
+De titularis van het toegangspunt wijst bij de activiteit, vermeld in het eerste lid, altijd een toegangshouder aan op het toegangspunt. Die toegangshouder kan in geen geval de netbeheerder zijn of de vereniging van mede-eigenaars, tenzij die een leveringsvergunning heeft aangevraagd.<br>
+<br>
+De Vlaamse Regering kan, na advies van de VREG, de vereniging van mede- eigenaars in het kader van de activiteit, vermeld in het eerste lid, verplichtingen opleggen over de volgende aspecten:<br>
+1° &nbsp;de informatieverlening;<br>
+2° de behandeling van klachten;<br>
+3° &nbsp;maatregelen van sociale aard;<br>
+4° maatregelen ter bevordering van rationeel energiegebruik en hernieuwbare energiebronnen.<br>
+<br>
+De activiteit, vermeld in het eerste lid, doet geen afbreuk aan de hoedanigheid van afnemer, huishoudelijke afnemer, beschermde afnemer of actieve afnemer en de daarmee verbonden rechten, heffingen, belastingen, toeslagen en bijdragen, waaronder bijdragen voor openbaredienstverplichtingen en bijdragen in het kader van de certificatenverplichtingen als vermeld in artikel 7.1.10 en 7.1.11, alsook wordt geen afbreuk gedaan aan het behalen van en het berekenen van de hoogte van de certificatenverplichtingen, vermeld in artikel 7.1.10 en 7.1.11.<br>
+<br>
+De activiteit, vermeld in het eerste lid, is niet onderworpen aan hetgeen is bepaald door of krachtens artikel 15.3.5/13.<br>
+<br>
+De gemeten energie op het toegangspunt wordt bij de berekening van de heffingen, belastingen, toeslagen en bijdragen, waaronder bijdragen voor openbaredienstverplichtingen en certificatenverplichtingen, niet gewijzigd door verkochte energie in het kader van de uitoefening van de activiteit, vermeld in het eerste lid.<br>
+<br>
+De betrokken personen beschikken over een meter die de afgenomen energie en de energie die in het distributienet wordt geïnjecteerd, afzonderlijk meet en waarvan de meetwaarden minstens elke onbalansverrekeningsperiode geregistreerd worden en verwerkt worden bij de allocatie conform de technische reglementen.<br>
+<br>
+De betrokken personen zijn financieel verantwoordelijk voor de onbalansen die ze in het elektriciteitsnet veroorzaken. Ze dragen zelf de evenwichtsverantwoordelijkheid of belasten een evenwichtsverantwoordelijke met die verantwoordelijkheid.<br>
+<br>
+De betrokken personen sluiten elk een overeenkomst over hun rechten en verplichtingen met betrekking tot de activiteit, vermeld in het eerste lid. De Vlaamse Regering kan de minimale inhoud van die overeenkomst bepalen.<br>
+<br>
+§3. De Vlaamse Regering kan de nadere regels bepalen voor de activiteit, vermeld in paragraaf 2, eerste lid. De regels hebben betrekking op de minimale bepalingen van de overeenkomsten die worden gesloten tussen de betrokken personen, met inbegrip van bepalingen betreffende het uitstappen uit de activiteit, vermeld in paragraaf 2, eerste lid, het vastleggen van de benodigde gegevens, waaronder de meting en meetgegevens, en de voorwaarden waaraan de methodieken voor de berekening van energiehoeveelheden voor de allocatie, reconciliatie en facturatie, en de aanpassingen aan die berekeningen moeten voldoen.
 
 ## HOOFDSTUK III. Beperking aansluitkosten productie-installaties voor elektriciteit uit warmtekrachtinstallaties
 
@@ -3584,15 +3636,17 @@ Het technisch EPB-dossier kan volledig in elektronisch formaat zijn. Het wordt v
 
 § 1. Als er voor een gebouw EPB-eisen gelden volgens artikel 11.1.1, § 1, is de houder van de omgevingsvergunning voor stedenbouwkundige handelingen of de meldingsplichtige de aangifteplichtige.<br>
 <br>
-Als een gebouw dat gebouwd moet worden of in aanbouw is, door de aangifteplichtige wordt vervreemd, of als de omgevingsvergunning voor stedenbouwkundige handelingen door de aangifteplichtige wordt overgedragen, dan wordt respectievelijk de nieuwe eigenaar of de nieuwe houder van de omgevingsvergunning voor stedenbouwkundige handelingen de nieuwe aangifteplichtige. Als een gebouw dat al voorlopig opgeleverd is, wordt vervreemd voor een EPB-aangifte is ingediend, blijft de oorspronkelijke houder van de omgevingsvergunning voor stedenbouwkundige handelingen of de meldingsplichtige de aangifteplichtige.<br>
+Als een gebouw dat gebouwd moet worden of in aanbouw is, door de aangifteplichtige wordt vervreemd voor een EPB-aangifte is ingediend, of als de omgevingsvergunning voor stedenbouwkundige handelingen door de aangifte- plichtige wordt overgedragen voor een EPB-aangifte is ingediend, wordt respectievelijk de nieuwe eigenaar of de nieuwe houder van de omgevingsvergunning voor stedenbouwkundige handelingen de nieuwe aangifteplichtige als aan de volgende voorwaarden is voldaan:<br>
+1° op het moment van de vervreemding of overdacht van de omgevingsvergunning voor stedenbouwkundige handelingen is het gebouw nog niet voorlopig opgeleverd;<br>
+2° in de authentieke akte wordt vermeld dat de aangifteplicht wordt overgedragen en aan wie;<br>
+3° bij de authentieke akte wordt een tussentijds verslag overgedragen dat opgemaakt is door de verslaggever die door de oorspronkelijke aangifteplichtige is aangesteld, en dat is ondertekend door de verslaggever, de oorspronkelijke aangifteplichtige en de nieuwe aangifteplichtige. In het tussentijdse verslag worden alle maatregelen die uitgevoerd zijn of die uitgevoerd moeten worden om aan de EPB-eisen te voldoen, opgesomd en wordt vermeld wie voor de uitvoering van de verschillende maatregelen instaat;<br>
+4° de oorspronkelijke aangifteplichtige stelt de nodige gegevens van werken die door hem of in zijn opdracht zijn uitgevoerd, ter beschikking van de nieuwe aangifteplichtige om de definitieve EPB-aangifte op te stellen.<br>
 <br>
-Als de aangifteplicht wordt overgedragen als vermeld in het tweede lid, wordt in het kader van de overdracht een tussentijds verslag opgesteld dat opgemaakt is door de verslaggever die door de oorspronkelijke aangifteplichtige is aangesteld, en dat is ondertekend door de verslaggever, de oorspronkelijke aangifteplichtige en de nieuwe aangifteplichtige, en waarin alle maatregelen die uitgevoerd zijn of die uitgevoerd moeten worden om aan de EPB-eisen te voldoen, worden opgesomd, en waarin wordt vermeld wie voor de uitvoering van de verschillende maatregelen zal instaan. De oorspronkelijke aangifteplichtige stelt na de beëindiging van de werken waarvoor hij instaat, de nodige gegevens van de door hem of in zijn opdracht uitgevoerde werken, ter beschikking van de aangifteplichtige met het oog op het opstellen van de definitieve EPB-aangifte.<br>
-<br>
-De Vlaamse Regering kan nadere regels bepalen voor de vaststelling van de vorm en de inhoud van het tussentijdse verslag, vermeld in het derde lid.<br>
+De Vlaamse Regering kan nadere regels bepalen voor de vaststelling van de vorm en de inhoud van het tussentijdse verslag, vermeld in het tweede lid, 3°.<br>
 <br>
 § 2. In afwijking van paragraaf 1 is bij een overeenkomst tussen een promotor-bouwheer en een natuurlijke persoon of een rechtspersoon, en die tot doel heeft een gebouw te verkopen, te bouwen of te verbouwen, de promotor-bouwheer altijd de aangifteplichtige, tenzij aan de volgende drie voorwaarden is voldaan:<br>
 1° in de authentieke akte wordt vermeld dat de aangifteplicht wordt overgedragen en aan wie;<br>
-2° bij de authentieke akte wordt een tussentijds verslag gevoegd dat opgemaakt is door de verslaggever die door de promotor-bouwheer is aangesteld, en dat is ondertekend door de verslaggever, de promotor-bouwheer en de nieuwe aangifteplichtige. In het tussentijdse verslag worden alle maatregelen die uitgevoerd zijn of die uitgevoerd moeten worden om aan de EPB-eisen te voldoen, opgesomd en wordt vermeld wie voor de uitvoering van de verschillende maatregelen zal instaan;<br>
+2° bij de authentieke akte wordt een tussentijds verslag overgedragen dat opgemaakt is door de verslaggever die door de promotor-bouwheer is aangesteld, en dat is ondertekend door de verslaggever, de promotor-bouwheer en de nieuwe aangifteplichtige. In het tussentijdse verslag worden alle maatregelen die uitgevoerd zijn of die uitgevoerd moeten worden om aan de EPB-eisen te voldoen, opgesomd en wordt vermeld wie voor de uitvoering van de verschillende maatregelen zal instaan;<br>
 3° de promotor-bouwheer stelt na de beëindiging van de werken de nodige gegevens van de door hem of in zijn opdracht uitgevoerde werken, ter beschikking van de aangifteplichtige met het oog op het opstellen van de definitieve EPB-aangifte.<br>
 <br>
 Het eerste lid is ook van toepassing op elke overeenkomst waarbij de Woningbouwwet van toepassing is of contractueel van toepassing is gemaakt.<br>
