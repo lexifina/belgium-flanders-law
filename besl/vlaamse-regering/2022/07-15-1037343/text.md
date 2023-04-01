@@ -243,6 +243,30 @@ In de volgende gevallen kan de minister na het advies van het departement beslis
 
 ## Afdeling 4. Vlaamse ondersteuningspremie
 
+### ART 88.
+
+In deze afdeling wordt verstaan onder Vlaamse ondersteuningspremie: de Vlaamse ondersteuningspremie voor personen met een arbeidshandicap, vermeld in hoofdstuk VI van het besluit van 18 juli 2008.
+
+### ART 89.
+
+Het departement kent werkondersteunende maatregelen toe conform de voorwaarden, vermeld in dit besluit, aan werkgevers en zelfstandigen die een aanvraag tot verlenging van de Vlaamse ondersteuningspremie hebben ingediend in het kwartaal voor het kwartaal waarin dit besluit in werking treedt. De toekenning van de werkondersteunende maatregelen start vanaf de datum van de inwerkingtreding van dit besluit.<br>
+<br>
+Met behoud van het eerste lid blijft het departement de betaling van de Vlaamse ondersteuningspremie verzekeren, ook na het verstrijken van de duurtijd ervan, zolang het departement geen beslissing heeft genomen over de ingediende aanvraag tot verlenging, als aan al de volgende voorwaarden is voldaan:<br>
+1° het departement heeft buiten de wil van de werkgever of de zelfstandige om voor het einde van de toekenning van de Vlaamse ondersteuningspremie geen beslissing genomen;<br>
+2° de werkgever of de zelfstandige heeft uiterlijk vijf maanden voor de afloop van de toekenning van de Vlaamse ondersteuningspremie een ontvankelijke aanvraag ingediend.<br>
+<br>
+De beslissing over de hoogte en de duurtijd van de werkondersteunende maatregelen die door het departement wordt genomen na het verstrijken van de toekenning van de Vlaamse ondersteuningspremie, ressorteert gevolgen vanaf de eerste dag van het kwartaal dat volgt op het kwartaal waarin de beslissing is genomen.
+
+### ART 90.
+
+Het departement kent werkondersteunende maatregelen toe conform de voorwaarden, vermeld in dit besluit, aan werkgevers en zelfstandigen die een aanvraag tot verhoging van de Vlaamse ondersteuningspremie hebben ingediend in het kwartaal voor het kwartaal waarin dit besluit in werking treedt. De toekenning van de werkondersteunende maatregelen start vanaf de datum van de inwerkingtreding van dit besluit en kan de duurtijd van de initieel toegekende Vlaamse ondersteuningspremie overschrijden tot een periode van maximum van 20 kwartalen.<br>
+<br>
+Als werkgevers of zelfstandigen een aanvraag van werkondersteunende maatregelen in het kader van dit besluit indienen binnen vier kwartalen na datum van de stopzetting van de uitbetaling van de Vlaamse ondersteuningspremie, behandelt het departement die aanvraag als een wijziging van de werkondersteunende maatregelen, vermeld in artikel 15 en 57.
+
+### ART 91.
+
+De beslissing van het departement tot toekenning van de Vlaamse ondersteuningspremie heeft uitwerking vanaf het kwartaal waarin de aanvraag is ingediend, als de aanvraag door werkgevers en zelfstandigen is ingediend in het kwartaal voor het kwartaal waarin dit besluit in werking treedt.
+
 ## Afdeling 5. Maatwerkafdelingen
 
 ## Afdeling 6. Inwerkingtredingsbepaling
