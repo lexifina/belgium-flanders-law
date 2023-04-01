@@ -337,6 +337,7 @@ Het basisbedrag, vermeld in artikel 13, wordt voor het rechtgevende kind verhoog
 <br>
 Het bedrag van de toeslag, vermeld in het eerste lid, bedraagt:<br>
 1° 63,86 euro per kind voor gezinnen tot en met twee rechtgevende kinderen, waarvan de gezinsinkomsten op jaarbasis niet meer dan 31.897,53 euro bedragen;<br>
+1/1° 32,33 euro per kind voor gezinnen tot en met twee rechtgevende kinderen, waarvan de gezinsinkomsten op jaarbasis tussen 31.897,53 euro en 37.213,79 euro liggen;<br>
 2° 93,86 euro per kind voor gezinnen met meer dan twee rechtgevende kinderen, waarvan de gezinsinkomsten op jaarbasis niet meer dan&nbsp;31.897,53 euro bedragen;<br>
 3° 73,86 euro per kind voor gezinnen met meer dan twee rechtgevende kinderen, waarvan de gezinsinkomsten op jaarbasis tussen&nbsp;31.897,53 euro&nbsp;en 60.000 euro liggen.<br>
 <br>
@@ -362,7 +363,9 @@ De Vlaamse Regering bepaalt met welke inkomsten van welke personen rekening word
 
 Voor elk kind dat in november 2022 recht geeft op een maandelijkse sociale toeslag als vermeld in artikel 18, wordt het bedrag, vermeld in artikel 18, tweede lid, voor de maand november 2022 eenmalig verhoogd met 100 euro.<br>
 <br>
-Het bedrag van 100 euro, vermeld in het eerste lid, wordt in afwijking van artikel 4 niet geïndexeerd.
+Voor elk kind dat in april 2023 recht geeft op een maandelijkse sociale toeslag als vermeld in artikel 18, wordt het bedrag, vermeld in artikel 18, tweede lid, voor de maand april 2023 eenmalig verhoogd met 100 euro.<br>
+<br>
+Het bedrag van 100 euro, vermeld in het eerste&nbsp; en tweede lid, wordt in afwijking van artikel 4 niet geïndexeerd.
 
 ## Titel 6. Universele participatietoeslagen
 
@@ -1110,7 +1113,7 @@ De student kan voorafgaand aan de uitbetaling in zijn eigen belang het Vlaams Mi
 
 ### ART 75.
 
-Het basisbedrag, vermeld in artikel 13, de zorgtoeslagen, vermeld in titel 4 van boek 2, deel 1, de sociale toeslagen, vermeld in artikel 18, en de kinderopvangtoeslag, vermeld in artikel 52, worden uitbetaald in de maand die volgt op de maand waarin het kind recht geeft op de toeslag.&nbsp;Het bedrag, vermeld in artikel 18/1, eerste lid, wordt uitbetaald in november 2022. De Vlaamse Regering bepaalt het exacte tijdstip.<br>
+Het basisbedrag, vermeld in artikel 13, de zorgtoeslagen, vermeld in titel 4 van boek 2, deel 1, de sociale toeslagen, vermeld in artikel 18 en artikel 18/1, tweede lid, en de kinderopvangtoeslag, vermeld in artikel 52, worden uitbetaald in de maand die volgt op de maand waarin het kind recht geeft op de toeslag.&nbsp;Het bedrag, vermeld in artikel 18/1, eerste lid, wordt uitbetaald in november 2022. De Vlaamse Regering bepaalt het exacte tijdstip.<br>
 <br>
 Een gewijzigd bedrag van de toelagen, vermeld in het eerste lid, ten gevolge van een indexering of ten gevolge van een wijziging bij of krachtens een decreet, wordt uitbetaald in de maand die volgt op de maand waarin de indexering plaatsvindt of de wijziging in werking treedt.<br>
 <br>
@@ -2400,6 +2403,8 @@ Het bedrag van de toeslag, vermeld in het eerste en tweede lid, bedraagt:<br>
 2° 42,92 euro voor het rechtgevende kind dat recht geeft op kinderbijslag van 170,39 euro;<br>
 3° 18,96 euro voor het rechtgevende kind dat recht geeft op kinderbijslag van 254,40 euro.<br>
 <br>
+Een rechtgevend kind dat recht geeft op kinderbijslag als vermeld in artikel 210, §1, of dat recht geeft op de gewone wezenbijslag, vermeld in titel 2, kan recht geven op een maandelijkse sociale toeslag van 32,33 euro als voldaan is aan de voorwaarden, vermeld in artikel 18, tweede lid, 1/1°.<br>
+<br>
 § 2. Het bedrag van de toeslag, vermeld in paragraaf 1, derde lid, 1°, wordt verhoogd tot 114,72 euro voor het betrokken rechtgevende kind, vermeld in paragraaf 1, eerste lid, als de bijslagtrekkende of de begunstigden van de kinderbijslag voor dat rechtgevende kind in aanmerking komt of komen voor de toeslag voor langdurig zieken en arbeidsongeschikten en mindervaliden, vermeld in artikel 50ter juncto artikel 56, § 2, artikel 56quinquies, § 1, en artikel 57, eerste lid, van de Algemene kinderbijslagwet.<br>
 <br>
 De Vlaamse Regering breidt de toepassing van het eerste lid uit tot andere personen dan de bijslagtrekkende of begunstigden, op voorwaarde dat die andere personen een gezin vormen met het rechtgevende kind.<br>
@@ -2420,7 +2425,9 @@ De Vlaamse Regering kan nadere uitvoeringsbepalingen voor deze paragraaf vastste
 
 Voor elk kind dat in november 2022 recht geeft op een maandelijkse sociale toeslag als vermeld in artikel 222, wordt het bedrag, vermeld in artikel 222, voor de maand november 2022 eenmalig verhoogd met 100 euro.<br>
 <br>
-Het bedrag van 100 euro, vermeld in het eerste lid, wordt in afwijking van artikel 4 niet geïndexeerd.
+Voor elk kind dat in april 2023 recht geeft op een maandelijkse sociale toeslag als vermeld in artikel 222, wordt het bedrag, vermeld in artikel 222, voor de maand april 2023 eenmalig verhoogd met 100 euro.<br>
+<br>
+Het bedrag van 100 euro, vermeld in het eerste en tweede lid, wordt in afwijking van artikel 4 niet geïndexeerd.
 
 ### ART 223.
 
