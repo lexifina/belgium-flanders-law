@@ -47,6 +47,7 @@ In dit decreet wordt verstaan onder:<br>
 22° Patiëntenrichtlijn: richtlijn 2011/24/EU van het Europees Parlement en de Raad van 9 maart 2011 betreffende de toepassing van de rechten van patiënten bij grensoverschrijdende gezondheidszorg;<br>
 23° persoonsvolgend budget: het geheel van tegemoetkomingen, vermeld in artikel 58, dat bestaat uit een zorgbudget dat cash wordt uitbetaald, een zorgticket dat via een trekkingsrecht wordt toegekend, een tegemoetkoming voor mobiliteitshulpmiddelen, een tegemoetkoming voor de organisatie van en de deelname aan multidisciplinair overleg of een tegemoetkoming voor reiskosten;<br>
 24° pijler van de Vlaamse sociale bescherming: een van de verschillende onderdelen van de Vlaamse sociale bescherming, vermeld in artikel 4;<br>
+24° /1 psychiatrisch verzorgingstehuis: een psychiatrisch verzorgingstehuis als vermeld in artikel 2, 12°, van het decreet van 6 juli 2018;<br>
 25° revalidatie: de behandeling, de diagnostiek of de ondersteuning die verleend wordt in een revalidatieziekenhuis of in een revalidatievoorziening, waarvoor de Vlaamse Gemeenschap bevoegd is conform artikel 128, § 1, van de Grondwet;<br>
 25° /1 revalidatieovereenkomst: de overeenkomst als vermeld in artikel 75 van het decreet van 6 juli 2018;<br>
 25° /2 revalidatieverstrekking: de volledige therapeutische activiteit per tijdsdeel, in contact met de gebruiker of zijn context, en de ondersteunende werking om die activiteit mogelijk te maken;<br>
@@ -786,7 +787,7 @@ In het eerste lid wordt verstaan onder het Intermutualistisch Agentschap: het In
 
 ### ART 50.
 
-De zorgkassen enerzijds en de ziekenfondsen en verzekeringsinstellingen, vermeld in artikel 2, g) en i), van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994 anderzijds, wisselen onder elkaar gegevens, met inbegrip van de gegevens over gezondheid, uit die noodzakelijk zijn in het kader van de toepassing van de bepalingen van dit decreet, conform een overeenkomst die daarover wordt gesloten.<br>
+De zorgkassen enerzijds en de ziekenfondsen en verzekeringsinstellingen, vermeld in artikel 2, g) en i), van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994&nbsp;en de Brusselse verzekeringsinstellingen, vermeld in artikel 2, 7°, van de ordonnantie van 21 december 2018 betreffende de Brusselse verzekeringsinstellingen in het domein van de gezondheidszorg en de hulp aan personen, anderzijds, wisselen onder elkaar gegevens, met inbegrip van de gegevens over gezondheid, uit die noodzakelijk zijn in het kader van de toepassing van de bepalingen van dit decreet, conform een overeenkomst die daarover wordt gesloten.<br>
 <br>
 De gegevens, vermeld in het eerste lid, kunnen onder meer betrekking hebben op:<br>
 1° de verzekeringsstatus van gebruikers in het kader van de verplichte verzekering voor geneeskundige verzorging en uitkeringen;<br>
@@ -1921,15 +1922,42 @@ In de uitzonderingsgevallen, bepaald door de Vlaamse Regering, vindt tot een dat
 
 ## [TITEL 3. Tijdelijke bepalingen voor de psychiatrische verzorgingstehuizen en initiatieven van beschut wonen (ing. decr. 18 juni 2021, art. 66)]
 
+### ART 154/1.
+
+De Vlaamse Regering bepaalt de criteria om de opnemingsprijs in psychiatrische verzorgingstehuizen te berekenen en om de prijs per verblijfdag in initiatieven van beschut wonen te berekenen.
+
+### ART 154/2.
+
+De Vlaamse Regering legt de opnemingsprijs per psychiatrisch verzorgingstehuis en de prijs per verblijfdag per initiatief van beschut wonen vast.<br>
+<br>
+De Vlaamse Regering kan categorieën van gebruikers in psychiatrische verzorgingstehuizen bepalen voor wie de opnemingsprijs verschillend is, afhankelijk van de met de categorie gerelateerde kosten voor herstelondersteunende zorg. Die categorieën kunnen verschillen van de categorieën, vermeld in artikel 154/7, tweede lid.<br>
+<br>
+In dit artikel wordt verstaan onder herstelondersteunende zorg: de herstelondersteunende zorg, vermeld in artikel 2, 6°, van het decreet van 6 juli 2018.
+
+### ART 154/3.
+
+De Vlaamse Regering kan de financiering en de financieringsvoorwaarden vastleggen voor de zorgvernieuwende initiatieven, vermeld in artikel 59 van het decreet van 6 juli 2018.
+
 ### ART 154/4.
 
 De Vlaamse Regering bepaalt de omvang van de tegemoetkoming voor zorg in de opnemingsprijs in psychiatrische verzorgingstehuizen en in de prijs per verblijfdag in initiatieven van beschut wonen.<br>
 <br>
 De tegemoetkomingen worden verleend aan de psychiatrische verzorgingstehuizen en de initiatieven van beschut wonen.
 
+### ART 154/5.
+
+De Vlaamse Regering bepaalt de inhoud van het aanbod aan zorg dat wordt gedekt door de tegemoetkoming, vermeld in artikel 154/4.
+
 ### ART 154/6.
 
 De Vlaamse Regering kan aanvullende financiering voor opname in psychiatrische verzorgingstehuizen en verblijf in initiatieven van beschut wonen vastleggen, naast de tegemoetkoming, vermeld in artikel 154/4.
+
+### ART 154/7.
+
+Een gebruiker betaalt aan het psychiatrische verzorgingstehuis een persoonlijke bijdrage in de opnemingsprijs. Die persoonlijke bijdrage is de opnemingsprijs verminderd met de tegemoetkoming, vermeld in artikel 154/4.<br>
+<br>
+De Vlaamse Regering kan categorieën van gebruikers in psychiatrische verzorgingstehuizen bepalen voor wie de persoonlijke bijdrage, vermeld in het eerste lid, wordt verminderd met een bijkomende forfaitaire tegemoetkoming, die een andere<br>
+is dan de tegemoetkoming, vermeld in artikel 154/4. De Vlaamse Regering kan het bedrag van de bijkomende forfaitaire tegemoetkoming per categorie bepalen.
 
 ## [TITEL 4. Tijdelijke bepalingen voor de revalidatievoorzieningen (ing. decr. 18 juni 2021, art. 75)]
 
