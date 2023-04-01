@@ -59,6 +59,10 @@ In artikel 49, § 3/1, van hetzelfde decreet, ingevoegd bij het decreet van 18 j
 3° er wordt een derde lid toegevoegd, dat luidt als volgt:<br>
 "De Vlaamse Regering bepaalt per commissie, vermeld in het eerste lid, welke persoonsgegevens van de leden, vermeld in het tweede lid, worden verwerkt en kan die gegevens nader specificeren.".
 
+### ART 28.
+
+In artikel 50, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 18 juni 2021, wordt tussen de datum "14 juli 1994" en de zinsnede "anderzijds," de zinsnede "en de Brusselse verzekeringsinstellingen, vermeld in artikel 2, 7°, van de ordonnantie van 21 december 2018 betreffende de Brusselse verzekeringsinstellingen in het domein van de gezondheidszorg en de hulp aan personen," ingevoegd.
+
 ### ART 29.
 
 In artikel 53/1 van hetzelfde decreet, ingevoegd bij het decreet van 18 juni 2021, wordt het tweede lid vervangen door wat volgt:<br>
