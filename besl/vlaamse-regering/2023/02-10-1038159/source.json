@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038159,
+  "title": "Besluit van de Vlaamse Regering van 2023-02-10 houdende wijziging van de regelgeving m.b.t. de Vlaamse sociale bescherming en de overnamereglementering wat betreft de psychiatrische verzorgingstehuizen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038159/VolledigDocument?datum=2023-04-01",
+  "source_sha256": "5718571741507f4313a5122f2eb35f6b64a9932c2c969002df56abba4a7c51aa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038159&param=informatie",
+  "as_of": "2023-04-01",
+  "made": "2023-02-10",
+  "gazette": "2023-03-24",
+  "numac": 2023041182,
+  "document_start": "2023-04-01",
+  "document_end": null,
+  "in_force": "2023-04-01",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2023-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
