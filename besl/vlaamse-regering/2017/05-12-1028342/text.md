@@ -31,6 +31,10 @@ In dit besluit wordt verstaan onder:<br>
 
 De centrumsteden Antwerpen, Gent, Mechelen, Oostende en Sint-Niklaas zetten de subsidies in voor investeringsuitgaven in innoverende stadsvernieuwingsprojecten, die als doel hebben om de duurzaamheid en de kwaliteit van de fysieke leefomgeving in een bepaald stadsdeel te verbeteren. De projecten hebben een hefboomfunctie voor het stadsdeel in kwestie en verhogen de algemene leefkwaliteit ervan.
 
+### ART 3.
+
+De subsidies, vermeld in artikel 6 van het decreet, worden uitbetaald in twee gelijke schijven: een eerste schijf vóór 30 juni, een tweede schijf vóór 30 november.
+
 ### ART 4.
 
 De aanwending van de subsidies, vermeld in artikel 6 van het decreet, kan door de betrokken steden gespreid worden over verschillende jaren.
