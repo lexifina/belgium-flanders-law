@@ -109,7 +109,7 @@ De minister bepaalt het bedrag van de vergoeding, vermeld in het eerste lid, aan
 <br>
 § 2. Overeenkomstig artikel 42, § 1, derde lid, van de wet van 14 augustus 1986 bezorgt het erkende dierenasiel aan de dienst een overzicht van de dieren die conform artikel 42, § 1, van de voormelde wet in beslag genomen zijn en die het opvangt. Het erkende dierenasiel vermeldt daarbij ook de tijdsduur waarin het de dieren gedurende de inbeslagname heeft opgevangen en in voorkomend geval de informatie nodig voor het bepalen van de transportvergoeding voor het ophalen van de dieren.<br>
 <br>
-De informatie, vermeld in het eerste lid, wordt driemaandelijks ingediend bij de dienst uiterlijk op 31 maart, 30 juni, 30 september en 31 december. Het erkende dierenasiel gebruikt daarvoor het formulier dat de dienst op zijn website ter beschikking stelt.<br>
+De informatie, vermeld in het eerste lid, wordt&nbsp;per dossier ingediend bij de dienst uiterlijk zes maanden nadat het erkende dierenasiel is ingelicht van de beslissing die is genomen met toepassing van artikel 42, §2, van de wet van 14 augustus 1986. Het erkende dierenasiel gebruikt daarvoor het formulier dat de dienst op zijn website ter beschikking stelt.<br>
 <br>
 De dienst betaalt de vergoeding binnen dertig dagen na de dag waarop hij het formulier, vermeld in het tweede lid, heeft ontvangen.
 
