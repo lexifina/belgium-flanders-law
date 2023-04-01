@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038195,
+  "title": "Ministerieel besluit van 2023-03-22 tot wijziging van het ministerieel besluit van 21 december 2022 houdende tijdelijke aanvullende maatregelen voor het jaar 2023 tot het behoud van de visbestanden in zee",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038195/VolledigDocument?datum=2023-04-01",
+  "source_sha256": "7db0f119efc843294c7e71b92584727ac60c997952c7cc5c4d4bb4f5d83976aa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038195&param=informatie",
+  "as_of": "2023-04-01",
+  "made": "2023-03-22",
+  "gazette": "2023-03-31",
+  "numac": 2023041355,
+  "document_start": "2023-04-01",
+  "document_end": null,
+  "in_force": "2023-04-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2023-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
