@@ -64,15 +64,24 @@ De instanties die een attest als vermeld in het eerste lid, kunnen uitreiken, zi
 
 ### ART 3.
 
-Het attest van het volgen van de module "werken in de kinderopvang", vermeld in artikel 73, tweede lid, van het Vergunningsbesluit van 22 november 2013, toont aan dat de houder ervan de volgende leerinhouden gevolgd heeft :<br>
-1° professioneel opvoeden van kinderen : basisbehoeften van jonge kinderen, begeleidersstijl;<br>
-2° samenwerken met gezinnen, het gezin als partner in de opvoeding;<br>
-3° verzorgende aspecten : gezonde voeding, veiligheid, verzorging, levensreddend handelen.<br>
+§1. Het traject gezinsopvang, vermeld in artikel 11 van het Vergunningsbesluit van 22 november 2013, vervangen bij het besluit van de Vlaamse Regering van 17 maart 2023, bestaat uit de volgende onderdelen:<br>
+1°&nbsp;&nbsp; &nbsp;de organisator geeft de volgende informatie over de specifieke context van gezinsopvang, en laat zich daarbij bijstaan door een pool gezinsopvang:<br>
+a)&nbsp;&nbsp; &nbsp;de kennis van de vergunningsvoorwaarden;<br>
+b)&nbsp;&nbsp; &nbsp;de organisatie, de taken en de competenties die nodig zijn;<br>
+c)&nbsp;&nbsp; &nbsp;de impact op de gezinscontext, de ondersteunende en belastende elementen;<br>
+d)&nbsp;&nbsp; &nbsp;het arbeidsrechtelijke statuut waarin gewerkt wordt;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;de organisator organiseert een screening van de draagkracht en de volgende competenties van de kinderbegeleider en laat zich daarbij bijstaan door een pool gezinsopvang:<br>
+a)&nbsp;&nbsp; &nbsp;het omgaan met kinderen;<br>
+b)&nbsp;&nbsp; &nbsp;de zelfreflectie;<br>
+c)&nbsp;&nbsp; &nbsp;de communicatie en het samenwerken met gezinnen en derden;<br>
+d)&nbsp;&nbsp; &nbsp;het inschatten van de gezinscontext;<br>
+e)&nbsp;&nbsp; &nbsp;het organisatietalent om alle taken te combineren;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;de organisator maakt een persoonlijk ontwikkelingsplan voor de kinderbegeleider op dat focust op de elementen en competenties, vermeld in punt 1° en 2°, en laat zich daarbij bijstaan door een pool gezinsopvang;<br>
+4° &nbsp; &nbsp; &nbsp;de organisator organiseert een meeloopmoment in een vergunde &nbsp;&nbsp; &nbsp;kinderopvanglocatie gezinsopvang die niet in handhaving zit.<br>
 <br>
-Een instantie die een attest uitreikt, voldoet aan de criteria, vermeld in artikel 2, tweede lid.<br>
+In het eerste lid wordt verstaan onder pool gezinsopvang: een pool gezinsopvang, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 22 februari 2019 houdende de toekenning van een subsidie aan pools gezinsopvang.<br>
 <br>
-De instanties die een attest als vermeld in het eerste lid, kunnen uitreiken, zijn de instanties opgenomen in punt 1 van bijlage 2, die bij dit besluit is gevoegd.<br>
-&nbsp;
+§2. Voor kinderbegeleiders gezinsopvang die ook organisator gezinsopvang zijn, is er een automatische vrijstelling voor het traject gezinsopvang, vermeld in paragraaf 1.
 
 ## Onderafdeling 3 Attest kennis van levensreddend handelen
 
