@@ -2,16 +2,16 @@
   "codex_id": 1037839,
   "title": "Decreet van 2022-12-23 tot wijziging van de wet van 28 december 1964 betreffende de bestrijding van de luchtverontreiniging, het Energiedecreet van 8 mei 2009, het decreet van 13 juli 2012 houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2012 en het decreet van 17 december 2021 tot wijziging van het Energiedecreet van 8 mei 2009, wat betreft toewijzingen aan het Energiefonds, wijzigingen betreffende flexibiliteit en energiedelen, de uitbouw van het energiedataplatform en de herziening van de administratieve geldboetes aangaande installatie-eisen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037839/VolledigDocument?datum=2023-01-08",
-  "source_sha256": "1ef7def53d1c0146495b4747211ad1a9c1e7a37a78fe8dc06de07df0590e2f59",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037839/VolledigDocument?datum=2023-04-01",
+  "source_sha256": "daba3fddebdc2ecbf189fb6e94c80bb7f2894cb5118a1e7400983cafcdeb43ce",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037839&param=informatie",
-  "as_of": "2023-01-08",
+  "as_of": "2023-04-01",
   "made": "2022-12-23",
   "gazette": "2022-12-29",
   "numac": 2022043148,
   "document_start": "2023-01-08",
   "document_end": null,
-  "in_force": "2023-01-08",
-  "article_versions": 53,
-  "record_form": "consolidated version as in force on 2023-01-08; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-04-01",
+  "article_versions": 59,
+  "record_form": "consolidated version as in force on 2023-04-01; future article versions excluded; article text as the API gives it"
 }

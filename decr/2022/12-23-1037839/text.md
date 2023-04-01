@@ -52,6 +52,39 @@ In artikel 3.1.8, tweede lid, van hetzelfde decreet, vervangen bij het decreet v
 
 In artikel 3.1.13, §1, 6°, van hetzelfde decreet, worden de woorden “volgens de voorwaarden in de beheersovereenkomst” vervangen door de zinsnede “volgens de modaliteiten die zijn opgenomen in het ondernemingsplan”.
 
+### ART 7.
+
+Artikel 4.1.11/3, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 20 december 2013, wordt vervangen door wat volgt:<br>
+<br>
+“De dagvergoeding bedraagt:<br>
+1° 25 euro in geval van een laattijdige eenvoudige aansluiting of een laattijdige tijdelijke aansluiting van een wooneenheid;<br>
+2° 50 euro in geval van elke andere laattijdige eenvoudige aansluiting of elke andere laattijdige tijdelijke aansluiting dan de laattijdige eenvoudige aansluiting of laattijdige tijdelijke aansluiting, vermeld in punt 1°;<br>
+3° 100 euro in geval van een laattijdige aansluiting met detailstudie.”.
+
+### ART 8.
+
+In artikel 4.1.11/5, §1, van hetzelfde decreet, ingevoegd bij het decreet van 20 december 2013, worden de volgende wijzigingen aangebracht:<br>
+1° &nbsp;in het tweede lid worden de woorden “de huishoudelijke netgebruiker” vervangen door de woorden “de netgebruiker gesitueerd in een wooneenheid”;<br>
+2° in het derde lid worden de woorden “Voor de niet-huishoudelijke netgebruiker” vervangen door de woorden “In alle andere gevallen dan het geval, vermeld in het tweede lid,”.
+
+### ART 9.
+
+In titel IV, hoofdstuk I, afdeling IV/1, van hetzelfde decreet, ingevoegd bij het decreet van 20 december 2013 en gewijzigd bij het decreet van 26 april 2019, wordt tussen artikel 4.1.11/5 en 4.1.11/6 een opschrift ingevoegd, dat luidt als volgt:<br>
+<br>
+“Onderafdeling VI. Schadevergoeding bij inbreuk in verband met persoonsgegevens”.
+
+### ART 10.
+
+Aan titel IV, hoofdstuk I, afdeling IV/1, van hetzelfde decreet, ingevoegd bij het decreet van 20 december 2013 en gewijzigd bij het decreet van 26 april 2019, wordt een onderafdeling VII toegevoegd, die luidt als volgt:<br>
+<br>
+“Onderafdeling VII. Forfaitaire vergoeding bij laattijdige plaatsing van een digitale meter”.
+
+### ART 11.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 15 juli 2022, wordt aan onderafdeling VII, toegevoegd bij artikel 10, een artikel 4.1.11/7 toegevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 4.1.11/7. De distributienetbeheerder is aan de netgebruiker die, conform artikel 4.1.22/2, eerste lid, 7°, om de plaatsing van een digitale meter heeft verzocht, een vergoeding verschuldigd van 100 euro bij overschrijding van de termijn, vastgesteld door de Vlaamse Regering, conform artikel 4.1.22/2, vierde lid, voor het aanleveren van de offerte of het plaatsen van de digitale meter.”.
+
 ### ART 12.
 
 In artikel 4.1.17/5 van hetzelfde decreet, ingevoegd bij het decreet van 2 april 2021, worden de volgende wijzigingen aangebracht:<br>
@@ -285,6 +318,19 @@ De Vlaamse Regering kan nadere voorwaarden en modaliteiten bepalen voor de gegev
 Aan artikel 11.1.8, §1/1, van hetzelfde decreet, ingevoegd bij het decreet van 16 november 2018 en gewijzigd bij het decreet van 4 december 2020, wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
 <br>
 “Als de stedenbouwkundige vergunning voor onbepaalde duur, conform artikel 4.2.21 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, of de omgevingsvergunning voor stedenbouwkundige handelingen, conform artikel 80 van het decreet van 25 april 2014 betreffende de omgevingsvergunning, uitdrukkelijk melding maakt van de verschillende fasen van het bouwproject, wordt de termijn van vijf jaar, vermeld in het eerste lid, in afwijking van het eerste lid, voor elke EPB-eenheid van die vergunning gerekend per fase waaronder ze valt en waaronder de werken aan die EPB-eenheid het eerst zijn gestart.”.
+
+### ART 40.
+
+In artikel 11.1.9 van hetzelfde decreet, gewijzigd bij de decreten van 14 maart 2014, 25 april 2014 en 17 februari 2017, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 worden het tweede en derde lid vervangen door wat volgt:<br>
+“Als een gebouw dat gebouwd moet worden of in aanbouw is, door de aangifteplichtige wordt vervreemd voor een EPB-aangifte is ingediend, of als de omgevingsvergunning voor stedenbouwkundige handelingen door de aangifteplichtige wordt overgedragen voor een EPB-aangifte is ingediend, wordt respectievelijk de nieuwe eigenaar of de nieuwe houder van de omgevingsvergunning voor stedenbouwkundige handelingen de nieuwe aangifteplichtige als aan de volgende voorwaarden is voldaan:<br>
+1° op het moment van de vervreemding of overdacht van de omgevingsvergunning voor stedenbouwkundige handelingen is het gebouw nog niet voorlopig opgeleverd;<br>
+2° in de authentieke akte wordt vermeld dat de aangifteplicht wordt overgedragen en aan wie;<br>
+3° bij de authentieke akte wordt een tussentijds verslag overgedragen dat opgemaakt is door de verslaggever die door de oorspronkelijke aangifteplichtige is aangesteld, en dat is ondertekend door de verslaggever, de oorspronkelijke aangifteplichtige en de nieuwe aangifteplichtige. In het tussentijdse verslag worden alle maatregelen die uitgevoerd zijn of die uitgevoerd moeten worden om aan de EPB-eisen te voldoen, opgesomd en wordt vermeld wie voor de uitvoering van de verschillende maatregelen instaat;<br>
+4° de oorspronkelijke aangifteplichtige stelt de nodige gegevens van werken die door hem of in zijn opdracht zijn uitgevoerd, ter beschikking van de nieuwe aangifteplichtige om de definitieve EPB-aangifte op te stellen.<br>
+De Vlaamse Regering kan nadere regels bepalen voor de vaststelling van de vorm en de inhoud van het tussentijdse verslag, vermeld in het tweede lid, 3°.”;<br>
+2° in paragraaf 1 wordt het vierde lid opgeheven;<br>
+3° in paragraaf 2, 2°, wordt het woord “gevoegd” vervangen door het woord “overgedragen”.
 
 ### ART 41.
 
