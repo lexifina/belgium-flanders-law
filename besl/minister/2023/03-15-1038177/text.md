@@ -1,0 +1,35 @@
+# Ministerieel besluit van 2023-03-15 tot actualisering van de minimale rente bij het toekennen van de overbruggingslening
+
+### Aanhef
+
+Rechtsgronden<br>
+Dit besluit is gebaseerd op:<br>
+- het decreet van 7 mei 2004 betreffende de investeringsmaatschappijen van de Vlaamse overheid, artikel 5, §2, eerste lid, 4°;<br>
+- het decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid, artikel 35;<br>
+- het besluit van de Vlaamse Regering van 21 januari 2022 over het verlenen van een overbruggingslening aan ondernemingen, artikel 13, tweede lid.<br>
+<br>
+Vormvereiste<br>
+De volgende vormvereiste is vervuld:<br>
+- de Inspectie van financiën heeft advies gegeven op 6 maart 2023.<br>
+<br>
+Motivering<br>
+Dit besluit is gebaseerd op het volgende motief:<br>
+- artikel 13, eerste lid, van het besluit van de Vlaamse Regering van 21 januari 2022 over het verlenen van een overbruggingslening aan ondernemingen bepaalt de rentepercentages die PMV hanteert bij het toekennen van de overbruggingslening. &nbsp;Artikel 13, tweede lid, van hetzelfde besluit stelt dat de Minister op 1 april 2023, 1 juli 2023 en 1 oktober 2023 de rente actualiseert zodat de minimale rente ten minste gelijk is aan het basispercentage (eenjaars IBOR of gelijkwaardig, zoals gepubliceerd door de Commissie) op respectievelijk 1 maart 2023, 1 juni 2023 en 1 september 2023, vermeerderd met basispunten als vermeld in het besluit. Met dit ministerieel besluit wordt uitvoering gegeven aan artikel 13, tweede lid, van het besluit van de Vlaamse Regering van 21 januari 2022 over het verlenen van een overbruggingslening aan ondernemingen.<br>
+<br>
+DE VLAAMSE MINISTER VAN ECONOMIE, INNOVATIE, WERK, SOCIALE ECONOMIE EN LANDBOUW BESLUIT:
+
+### ART 1.
+
+Met toepassing van artikel 13, tweede lid, van het besluit van de Vlaamse Regering van 21 januari 2022 over het verlenen van een overbruggingslening aan ondernemingen, wordt de rente, vermeld in artikel 13, eerste lid, van hetzelfde besluit, voor de periode 1 april 2023 tot en met 30 juni 2023 bepaald als volgt:<br>
+1° 3,56% op jaarbasis, voor kleine en middelgrote ondernemingen die ervoor kiezen de lening terug te betalen over een periode van 36 maanden;<br>
+2° 4,06% op jaarbasis, voor grote ondernemingen die ervoor kiezen de lening terug te betalen over een periode van 36 maanden;<br>
+3° 4,06% op jaarbasis, voor kleine en middelgrote ondernemingen die ervoor kiezen de lening terug te betalen over een periode van 60 maanden;<br>
+4° 5,06% op jaarbasis, voor grote ondernemingen die ervoor kiezen de lening terug te betalen over een periode van 60 maanden.
+
+### ART 2.
+
+De rente, vermeld in artikel 1, wordt toegepast op steunaanvragen die het &nbsp;Agentschap Innoveren en Ondernemen ontvangt in de periode van 1 april 2023 tot en met 30 juni 2023.
+
+### ART 3.
+
+Dit besluit treedt in werking op 1 april 2023.
