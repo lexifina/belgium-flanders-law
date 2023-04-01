@@ -525,6 +525,18 @@ In deel 4, titel 1, hoofdstuk 2, van hetzelfde decreet wordt afdeling 3, die bes
 
 In artikel 150/1, eerste lid, van hetzelfde decreet, ingevoegd bij het decreet van 3 mei 2019, wordt het woord "dagverzorgingscentrum" telkens vervangen door de woorden "centrum voor dagverzorging".
 
+### ART 66.
+
+Aan deel 4 van hetzelfde decreet, gewijzigd bij de decreten van 15 februari 2019 en 3 mei 2019, wordt een titel 3 toegevoegd, die luidt als volgt:<br>
+<br>
+"Titel 3. Tijdelijke bepalingen voor de psychiatrische verzorgingstehuizen en initiatieven van beschut wonen".
+
+### ART 67.
+
+In hetzelfde decreet, gewijzigd bij de decreten van 15 februari 2019, 29 maart 2019 en 3 mei 2019, wordt in titel 3, ingevoegd bij artikel 66, een artikel 154/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 154/1. De Vlaamse Regering bepaalt de criteria om de opnemingsprijs in psychiatrische verzorgingstehuizen te berekenen en om de prijs per verblijfdag in initiatieven van beschut wonen te berekenen.".
+
 ### ART 68.
 
 In hetzelfde decreet, gewijzigd bij de decreten van 15 februari 2019, 29 maart 2019 en 3 mei 2019, wordt in dezelfde titel een artikel 154/2 ingevoegd, dat luidt als volgt:<br>
@@ -535,6 +547,12 @@ De Vlaamse Regering kan categorieën van gebruikers in psychiatrische verzorging
 <br>
 In dit artikel wordt verstaan onder herstelondersteunende zorg: de herstelondersteunende zorg, vermeld in artikel 2, 6°, van het decreet van 6 juli 2018.".
 
+### ART 69.
+
+In hetzelfde decreet, gewijzigd bij de decreten van 15 februari 2019, 29 maart 2019 en 3 mei 2019, wordt in dezelfde titel een artikel 154/3 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 154/3. De Vlaamse Regering kan de financiering en de financieringsvoorwaarden vastleggen voor de zorgvernieuwende initiatieven, vermeld in artikel 59 van het decreet van 6 juli 2018.".
+
 ### ART 70.
 
 In hetzelfde decreet, gewijzigd bij de decreten van 15 februari 2019, 29 maart 2019 en 3 mei 2019, wordt in dezelfde titel een artikel 154/4 ingevoegd, dat luidt als volgt:<br>
@@ -543,11 +561,25 @@ In hetzelfde decreet, gewijzigd bij de decreten van 15 februari 2019, 29 maart 2
 <br>
 De tegemoetkomingen worden verleend aan de psychiatrische verzorgingstehuizen en de initiatieven van beschut wonen.".
 
+### ART 71.
+
+In hetzelfde decreet, gewijzigd bij de decreten van 15 februari 2019, 29 maart 2019 en 3 mei 2019, wordt in dezelfde titel een artikel 154/5 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 154/5. De Vlaamse Regering bepaalt de inhoud van het aanbod aan zorg dat wordt gedekt door de tegemoetkoming, vermeld in artikel 154/4.".
+
 ### ART 72.
 
 In hetzelfde decreet, gewijzigd bij de decreten van 15 februari 2019, 29 maart 2019 en 3 mei 2019, wordt in dezelfde titel een artikel 154/6 ingevoegd, dat luidt als volgt:<br>
 <br>
 "Art. 154/6. De Vlaamse Regering kan aanvullende financiering voor opname in psychiatrische verzorgingstehuizen en verblijf in initiatieven van beschut wonen vastleggen, naast de tegemoetkoming, vermeld in artikel 154/4.".
+
+### ART 73.
+
+In hetzelfde decreet, gewijzigd bij de decreten van 15 februari 2019, 29 maart 2019 en 3 mei 2019, wordt in dezelfde titel een artikel 154/7 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 154/7. Een gebruiker betaalt aan het psychiatrische verzorgingstehuis een persoonlijke bijdrage in de opnemingsprijs. Die persoonlijke bijdrage is de opnemingsprijs verminderd met de tegemoetkoming, vermeld in artikel 154/4.<br>
+<br>
+De Vlaamse Regering kan categorieën van gebruikers in psychiatrische verzorgingstehuizen bepalen voor wie de persoonlijke bijdrage, vermeld in het eerste lid, wordt verminderd met een bijkomende forfaitaire tegemoetkoming, die een andere is dan de tegemoetkoming, vermeld in artikel 154/4. De Vlaamse Regering kan het bedrag van de bijkomende forfaitaire tegemoetkoming per categorie bepalen.".
 
 ### ART 75.
 
