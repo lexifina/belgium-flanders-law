@@ -2,16 +2,16 @@
   "codex_id": 1038218,
   "title": "Besluit van de Vlaamse Regering van 2023-03-24 tot wijziging van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, wat betreft het zorgbudget voor ouderen met een zorgnood in een woonzorgcentrum",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038218/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "a3690f52ef3190948bc953a34152106958c365de5ed5b2fe1d1c3ab2b6f66812",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038218/VolledigDocument?datum=2023-04-01",
+  "source_sha256": "2af14cc2715be06033317942b34bda6a706dc9c1f51457487652dcc966d242ff",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038218&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2023-04-01",
   "made": "2023-03-24",
   "gazette": "0001-01-01",
   "numac": 2023041443,
   "document_start": "2023-04-01",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-04-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2023-04-01; future article versions excluded; article text as the API gives it"
 }
