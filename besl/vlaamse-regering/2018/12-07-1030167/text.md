@@ -158,7 +158,7 @@ De verzekeringsinstellingen oefenen de opdrachten uit die hun conform het decree
 <br>
 De verzekeringsinstellingen bezorgen het agentschap volgens de modaliteiten bepaald bij overeenkomst tussen het agentschap en de verzekeringsinstellingen:<br>
 1° maandelijks gegevens over de kaspositie in het begin van de maand, de ontvangsten, de uitgaven, het beschikbare bedrag op het einde van de maand en de openstaande te betalen prestaties en tegemoetkomingen, zowel als de terugvorderingen en de vervaldagnota's, dit zijn de documenten T20(VL). De verdere technische specificaties worden beschreven in de overeenkomst met de verzekeringsinstellingen;<br>
-2° maandelijks de facturatiegegevens die de zorgvoorzieningen bezorgen aan de verzekeringsinstellingen, met inbegrip van de gegevens over de eventuele bijdrage van de overheid in de bijkomende forfaitaire tegemoetkoming voor de rechthebbende in de psychiatrische verzorgingstehuizen, vermeld in artikel 69, tweede lid, van het decreet van 6 juli 2018. Dit zijn de documenten N(Vl). De verdere technische specificaties worden beschreven in de overeenkomst met de verzekeringsinstellingen;<br>
+2° maandelijks de facturatiegegevens die de zorgvoorzieningen bezorgen aan de verzekeringsinstellingen. Dit zijn de documenten N(Vl). De verdere technische specificaties worden beschreven in de overeenkomst met de verzekeringsinstellingen;<br>
 3° jaarlijks het aantal unieke patiënten per zorgvoorziening, per verstrekkingsjaar, per geboortejaar, per geslacht, per arrondissement, en per type rechthebbende op een geanonimiseerde manier. De verdere technische specificaties worden beschreven in de overeenkomst met de verzekeringsinstellingen;<br>
 4° jaarlijks de nodige informatie voor de jaarafsluiting. De definitieve afsluiting gebeurt op basis van informatie die jaarlijks voor 30 juni van het jaar X wordt bezorgd en die betrekking heeft op het voorgaande jaar X-1. Dat zijn de documenten T3(VL) en T4(VL). De verdere technische specificaties worden beschreven in de overeenkomst met de verzekeringsinstellingen;<br>
 5° jaarlijks een jaarrapport met de volgende gegevens: de jaarrekening, de betaaltermijnen per sector, het aantal dossiers en het bedrag van de terugvorderingen in kader van de toepassing van artikel 22, derde lid, en artikel 26 tot en met 38 van het decreet van 6 juli 2018.<br>
@@ -333,7 +333,7 @@ Elke aanvraag wordt rechtstreeks gericht aan één centraal contactpunt dat bepa
 <br>
 § 2. De verzekeringsinstelling is belast met de controle van de verzekeringsstatus van de zorggebruiker als rechthebbende als vermeld in artikel 2, 13°, van het decreet van 6 juli 2018, en van de vergoedingsvoorwaarden van de zorg waarvoor tegemoetkoming wordt gevraagd en vraagt, als dat nodig is, ontbrekende informatie op.<br>
 <br>
-§ 3. Na de uitvoering van de controle, vermeld in paragraaf 2, bezorgt de verzekeringsinstelling uiterlijk binnen vijftien werkdagen nadat ze de aanvraag ontvangen heeft, in de gevallen die de minister bepaalt, de aanvraag om tegemoetkoming voor zorg ter controle aan de Zorgkassencommissie. Voor de initiatieven van beschut wonen en de psychiatrische verzorgingstehuizen worden de aanvragen alleen aan de Zorgkassencommissie bezorgd voor een eventuele a posteriori controle.<br>
+§ 3. Na de uitvoering van de controle, vermeld in paragraaf 2, bezorgt de verzekeringsinstelling uiterlijk binnen vijftien werkdagen nadat ze de aanvraag ontvangen heeft, in de gevallen die de minister bepaalt, de aanvraag om tegemoetkoming voor zorg ter controle aan de Zorgkassencommissie. Voor de initiatieven van beschut wonen worden de aanvragen alleen aan de Zorgkassencommissie bezorgd voor een eventuele a posteriori controle.<br>
 <br>
 De Zorgkassencommissie bezorgt binnen twintig werkdagen nadat ze de aanvraag ontvangen heeft, een eensluidend advies aan de verzekeringsinstelling.<br>
 <br>
@@ -355,15 +355,7 @@ De Zorgkassencommissie brengt aan de verzekeringsinstelling verslag uit over de 
 <br>
 § 2. Het initiatief van beschut wonen dient de kennisgeving van opstart begeleiding in met een formulier waarvan het agentschap het model kan bepalen, binnen dertig dagen na de start van de begeleiding.<br>
 <br>
-§ 3. Voor elke zorggebruiker die is opgenomen in een psychiatrisch verzorgingstehuis, dient het psychiatrisch verzorgingstehuis de aanvraag van de tegemoetkoming voor zorg en de bijkomende forfaitaire tegemoetkoming in binnen zeven dagen na de dag van de opname.<br>
-<br>
-Die aanvraag is vergezeld van de twee volgende getuigschriften:<br>
-1° een geneeskundig getuigschrift dat door de behandelend arts is opgemaakt en waaruit blijkt dat de zorggebruiker voldoet aan de criteria, vermeld in artikel 54 van het decreet van 6 juli 2018;<br>
-2° een getuigschrift van een erkend psychiatrisch verzorgingstehuis waaruit blijkt dat het instaat voor de verzorging van de zorggebruiker.<br>
-<br>
-In voorkomend geval kan het voormelde psychiatrisch verzorgingstehuis een verlenging aanvragen met een formulier waarvan het agentschap het model kan bepalen.<br>
-<br>
-De aanvraag en de aanvraag tot verlenging worden ingediend met een formulier waarvan het agentschap het model kan bepalen.<br>
+§ 3. ...<br>
 <br>
 § 4. Voor de multidisciplinaire begeleidingsequipes is geen voorafgaande aanvraag of een kennisgeving vereist.
 
@@ -425,36 +417,19 @@ De minister kan de modaliteiten van deze betaling bepalen.<br>
 <br>
 § 2....<br>
 <br>
-§ 3. Bij goedkeuring van de aanvraag tot opname in een psychiatrisch verzorgingstehuis stelt de verzekeringsinstelling de periode vast waarvoor de tegemoetkomingen worden toegekend. Die periode gaat op zijn vroegst in op de dag van de opname als de aanvraag binnen zeven dagen na de dag van de opname is ingediend. In voorkomend geval kan een verlenging van die periode worden aangevraagd door het voormelde psychiatrisch verzorgingstehuis met een formulier waarvan het agentschap het model heeft bepaald.<br>
-<br>
-Het psychiatrisch verzorgingstehuis brengt de verzekeringsinstelling op de hoogte van het ontslag van de zorggebruiker met een formulier waarvan het agentschap het model heeft bepaald.<br>
-<br>
-De psychiatrische verzorgingstehuizen rekenen de zorggebruiker de opnemingsprijs aan voor elke dag herstelondersteunende zorg die ten minste één nacht behelst, dat wil zeggen een opname die begint voor middernacht en eindigt na acht uur de volgende dag.<br>
+§ 3. ...<br>
 <br>
 § 4. Het initiatief van beschut wonen brengt de verzekeringsinstelling op de hoogte van het ontslag van de zorggebruiker met een formulier waarvan het agentschap het model heeft bepaald.
 
 ### ART 23.
 
-§ 1. De psychiatrische verzorgingstehuizen kunnen de opnemingsprijs tijdens de in artikel 80 vermelde individuele verlofdagen aanrekenen aan de verzekeringsinstellingen tot maximaal 48 dagen verlof per kalenderjaar per rechthebbende zorggebruiker, naar rato van vier dagen per begonnen kalendermaand van opname.<br>
-<br>
-Voor de individuele verlofdagen kan:<br>
-1° aan de zorggebruiker de persoonlijke bijdrage in de opnemingsprijs worden aangerekend, verminderd met 6,20 euro;<br>
-2° aan de verzekeringsinstellingen de tegemoetkoming in de opnemingsprijs worden aangerekend.<br>
-<br>
-§ 2. Voor de in artikel 80 vermelde collectieve verlofdagen kan het psychiatrisch verzorgingstehuis de opnemingsprijs aanrekenen.<br>
-<br>
-§ 3. Het psychiatrisch verzorgingstehuis brengt de verzekeringsinstelling bij de indiening van de facturatie op de hoogte van alle opgenomen verlofdagen van de zorggebruiker, en registreert per zorggebruiker al de volgende gegevens:<br>
-1° het aantal opgenomen verlofdagen;<br>
-2° per verlofdag: of die al dan niet vergoed werd;<br>
-3° voor elke collectief vakantieverblijf: de plaats waar het verlof plaatsvond.<br>
-<br>
-De verloven worden geacht de opname niet te onderbreken.
+...
 
 ## Onderafdeling 2. Facturatie van de zorg
 
 ### ART 24.
 
-§ 1. De verantwoordelijke van de zorgvoorziening valideert de facturen en stuurt ze elektronisch via MyCareNet naar de verzekeringsinstellingen. In afwachting van elektronische facturatie via MyCareNet, kunnen de psychiatrische verzorgingstehuizen, de initiatieven van beschut wonen, de revalidatievoorzieningen en de multidisciplinaire begeleidingsequipes de facturen via magnetische of papieren drager bezorgen.<br>
+§ 1. De verantwoordelijke van de zorgvoorziening valideert de facturen en stuurt ze elektronisch via MyCareNet naar de verzekeringsinstellingen. In afwachting van elektronische facturatie via MyCareNet, kunnen de initiatieven van beschut wonen, de revalidatievoorzieningen en de multidisciplinaire begeleidingsequipes de facturen via magnetische of papieren drager bezorgen.<br>
 <br>
 Bij de facturen voegt de zorgvoorziening per zorggebruiker en per verzekeringsinstelling de individuele kostennota's voor de verleende zorg.<br>
 <br>
@@ -466,7 +441,7 @@ Voor de revalidatievoorzieningen die gevestigd zijn in de ziekenhuizen of in de 
 <br>
 § 3. De zorgvoorzieningen bezorgen de facturen en de individuele onkostennota's maandelijks per verzekeringsinstelling en uiterlijk tot 24 maanden na de periode waarin of na de laatste dag waarop de zorg verstrekt is, tenzij anders bepaald in de overeenkomst met de zorgvoorziening. Een aangetekende zending stuit de voormelde verjaringstermijn.<br>
 <br>
-Voor de multidisciplinaire begeleidingsequipes worden de facturen uiterlijk tot twee maand na het overlijden van de rechthebbende bezorgd. Voor de psychiatrische verzorgingstehuizen en de initatieven van beschut wonen kan in afwachting van de integratie in MyCareNet driemaandelijks gefactureerd worden.<br>
+Voor de multidisciplinaire begeleidingsequipes worden de facturen uiterlijk tot twee maand na het overlijden van de rechthebbende bezorgd. Voor de initatieven van beschut wonen kan in afwachting van de integratie in MyCareNet driemaandelijks gefactureerd worden.<br>
 <br>
 § 4. Als de facturen, zoals vermeld in het laatste lid van paragraaf 3, driemaandelijks ingediend worden, uiterlijk op de twintigste dag van de eerste maand na het kalenderkwartaal waarop ze betrekking hebben, kan de verzekeringsinstelling aan de zorgvoorziening een som storten die gelijk is aan de helft van het bedrag van de voormelde driemaandelijkse factuur. Dat is alleen mogelijk als de verzekeringsinstelling uiterlijk de vijftiende van de tweede maand van het voormelde kwartaal een voorlopige nota indient die als vervalbrief dient. De verzekeringsinstelling betaalt de som uiterlijk op de eerste dag van de derde maand van het beschouwde kalenderkwartaal. De betaalde som wordt afgetrokken van het bedrag van de volgende factuur.
 
@@ -501,20 +476,20 @@ In afwachting dat de schade effectief wordt vergoed als vermeld in artikel 22, t
 ### ART 29.
 
 Met behoud van de toepassing van de overige artikelen van deze onderafdeling, mag een tegemoetkoming voor het verblijf in een revalidatievoorziening niet gecumuleerd worden met:<br>
-1° een tegemoetkoming voor een verblijf in een psychiatrisch verzorgingstehuis tijdens dezelfde periode;<br>
+1° ...<br>
 2° een tegemoetkoming voor gebruik van of verblijf in een andere revalidatievoorziening tijdens dezelfde periode, tenzij dit gebruik van of verblijf in die beide revalidatievoorzieningen niet op dezelfde dag plaatsvindt;<br>
 3° een tegemoetkoming voor het gebruik van een multidisciplinaire begeleidingsequipe.
 
 ### ART 30.
 
 Met behoud van de toepassing van de overige artikelen van deze onderafdeling, mag een tegemoetkoming voor verblijf in een psychiatrisch verzorgingstehuis niet gecumuleerd worden met:<br>
-1° een tegemoetkoming voor verblijf in een psychiatrisch verzorgingstehuis tijdens dezelfde periode;<br>
+1° ...<br>
 2° een tegemoetkoming voor begeleiding in een ander initiatief van beschut wonen tijdens dezelfde periode.;<br>
 3° een tegemoetkoming voor gebruik van of een verblijf in een woonzorgcentrum, een centrum voor dagverzorging, een centrum voor kortverblijf tijdens dezelfde periode.
 
 ### ART 31.
 
-Met behoud van de toepassing van de overige artikelen van deze onderafdeling, mag een tegemoetkoming voor een begeleiding in een initiatief van beschut wonen niet gecumuleerd worden met een tegemoetkoming voor een begeleiding in een ander initiatief van beschut wonen of in een psychiatrisch verzorgingstehuis tijdens dezelfde periode, tenzij het anders bepaald is. De minister bepaalt hiertoe de nadere regels.
+Met behoud van de toepassing van de overige artikelen van deze onderafdeling, mag een tegemoetkoming voor een begeleiding in een initiatief van beschut wonen niet gecumuleerd worden met een tegemoetkoming voor een begeleiding in een ander initiatief van beschut wonen tijdens dezelfde periode, tenzij het anders bepaald is. De minister bepaalt hiertoe de nadere regels.
 
 ### ART 32.
 
@@ -552,7 +527,7 @@ De minister kan nadere regels bepalen voor de gevallen waarin kan worden afgewek
 
 ### ART 37.
 
-Een tegemoetkoming voor gebruik van of verblijf in een revalidatievoorziening, een tegemoetkoming voor een verblijf in een psychiatrisch verzorgingstehuis, een begeleiding in een initiatief van beschut wonen of een tegemoetkoming voor een begeleiding door een multidisciplinaire begeleidingsequipe, mag niet worden gecumuleerd met een vergoeding voor ziekenhuisopname met minstens één overnachting op grond van de federale ziekte- en invaliditeitsverzekering als het gebruik of verblijf plaatsvindt op dezelfde dag, tenzij het gebruik of verblijf zich situeert buiten de periode van het verblijf in het ziekenhuis, of tenzij het ziekenhuis een revalidatievoorziening is.
+Een tegemoetkoming voor gebruik van of verblijf in een revalidatievoorziening, een begeleiding in een initiatief van beschut wonen of een tegemoetkoming voor een begeleiding door een multidisciplinaire begeleidingsequipe, mag niet worden gecumuleerd met een vergoeding voor ziekenhuisopname met minstens één overnachting op grond van de federale ziekte- en invaliditeitsverzekering als het gebruik of verblijf plaatsvindt op dezelfde dag, tenzij het gebruik of verblijf zich situeert buiten de periode van het verblijf in het ziekenhuis, of tenzij het ziekenhuis een revalidatievoorziening is.
 
 ## Onderafdeling 2. Cumulatieverboden van tegemoetkomingen en prestaties volgens inhoud
 
@@ -1394,248 +1369,55 @@ De programmatie van de psychiatrische verzorgingstehuizen die in het tweetalige 
 
 ### ART 110.
 
-De opnemingsprijs wordt vastgesteld per dag.
+...
 
 ### ART 111.
 
-De opnemingsprijs bestaat uit de volgende drie delen:<br>
-1° deel A bestaat uit:<br>
-a) onderdeel A1 dat de aanloopkosten en afschrijvingslasten dekt, met inbegrip van de financiële lasten voor aangegane leningen, voor bouw- of verbouwingen, uitrusting en apparatuur, grote onderhoudswerken en een eerste installatie;<br>
-b) onderdeel A2 dat de korte termijnkredietlasten dekt. Het dekt de financiële lasten van de korte termijn kredietlasten om de normale werking van het psychiatrisch verzorgingstehuis te verzekeren;<br>
-2° deel B bestaat uit:<br>
-a) onderdeel B1 dat alle werkingskosten dekt met uitzondering van de lasten van het verzorgend en paramedisch personeel;<br>
-b) onderdeel B2 dat de lasten van het verzorgend en paramedisch personeel dekt;<br>
-c) onderdeel B3 dat de kosten voor de registratie van minimale psychiatrische gegevens dekt;<br>
-3° deel C dat bestaat uit onderdeel C2A en onderdeel C2B, dat de inhaalbedragen bevat voor een tekort of een teveel aan ontvangsten ten opzichte van het budget dat vastgesteld is voor het lopend kalenderjaar of voor het budget dat vastgesteld is voor een of meer vorige kalenderjaren.
+...
 
 ### ART 112.
 
-§ 1. Onderdeel A1, vermeld in artikel 111, 1°, a), dekt:<br>
-1° de aanloopkosten:<br>
-a) de oprichtingskosten van een vereniging zonder winstoogmerk of van andere rechtspersonen zonder winstoogmerk;<br>
-b) de kosten van hypothecaire akten;<br>
-c) de bouwbelastingen;<br>
-d) de verzekeringskosten;<br>
-e) de verwarmingskosten;<br>
-f) de kosten van schoonmaak voor de ingebruikstelling;<br>
-g) de financiële lasten van leningen of overbruggingskredieten voor financiering van het eigen aandeel;<br>
-h) de notaris- en registratiekosten ingevolge de leningen, vermeld in g°.<br>
-2° de afschrijvingslasten. De investeringslasten, die gedekt worden door onderdeel A1 van de opnemingsprijs van de psychiatrische verzorgingstehuizen worden afgeschreven conform de bepalingen en de termijnen, vermeld in het koninklijk besluit van 19 juni 2007 betreffende de jaarrekeningen van de ziekenhuizen. De afschrijvingen voor de lasten van opbouw, uitrusting en apparatuur, worden berekend op de werkelijke investeringswaarden, en zijn begrensd tot de maximumbedragen die daarvoor gelden, verminderd met:<br>
-a) de om niet-verkregen toelagen;<br>
-b) de schadeloosstelling, vermeld in artikel 10bis van het koninklijk besluit van 19 mei 1987 houdende vaststelling van de voorwaarden voor de toekenning van de schadeloosstelling voor de niet-uitvoering van projecten van ziekenhuisbouw en voor de sluiting en de niet-ingebruikname van ziekenhuisdiensten evenals van de wijze waarop de schadeloosstelling wordt berekend.<br>
-<br>
-De werkelijke investeringswaarden, vermeld in het eerste lid, worden beperkt tot 192.147,25 euro per zorggebruiker, vermeld in de opnamecapaciteit, verhoogd met het percentage van algemene kosten van 10 % op het basisbedrag en de geldende btw. Het geldende maximumbedrag wordt jaarlijks aangepast aan de bouwindex. De basisindex is die van 1 januari 2018 (1,70703).<br>
-<br>
-De investeringswaarden die de basis vormen voor de afschrijvingslasten, worden vastgesteld aan de hand van de bouwindex die van toepassing is in het eerste jaar nadat de investering in gebruik is genomen, behalve als die ingebruikname in de maand januari is. Dan geldt de bouwindex van het jaar in kwestie.<br>
-<br>
-De afschrijvingslasten voor onroerende investeringen waarvoor geen toelagen kunnen worden verkregen, worden voor 100 % van de werkelijke investeringswaarde gedekt in de opnemingsprijs van de psychiatrische verzorgingstehuizen.<br>
-<br>
-Voor de afschrijvingen van lasten van grote onderhoudswerken alsook voor de lasten van een eerste inrichting, worden de werkelijke lasten in aanmerking genomen, na aftrek van de eventuele subsidiëring.<br>
-<br>
-De volgende lasten worden ook op reële basis vergoed:<br>
-1° de lasten die verband houden met de afschrijving van medische uitrusting;<br>
-2° de lasten die verband houden met de afschrijving van de niet-medische uitrusting, met inbegrip van informatica-apparatuur en meubilair;<br>
-3° de lasten die verband houden met de afschrijving van het rollend materieel.<br>
-<br>
-De aankoopprijs van de grond wordt uitgesloten van de vermelde afschrijving.<br>
-<br>
-Voor de toepassing van deze paragraaf worden de lasten voor het huren van gebouwen gelijkgesteld met afschrijvingen.<br>
-<br>
-§ 2. Voor de financiële lasten van leningen die zijn aangegaan ter financiering van de investeringen, vermeld in paragraaf 1, gedekt door onderdeel A1 van de opnemingsprijs, worden ook de werkelijke lasten in aanmerking genomen met dezelfde beperkingen als de beperkingen, vermeld in paragraaf 1.<br>
-<br>
-§ 3. Voor onderdeel A2, vermeld in artikel 111, 1°, b), van dit besluit, gelden de bepalingen voor de psychiatrische ziekenhuizen, vermeld in artikel 30 van het koninklijk besluit van 25 april 2002, zoals van kracht op 31 december 2018.
+...
 
 ### ART 113.
 
-Onderdeel B1, vermeld in artikel 111, 2°, a), wordt vastgesteld op 36,67 euro per dag. Dit bedrag wordt geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld waarbij de verhoging of de vermindering wordt toegepast vanaf de eerste maand nadat het indexcijfer een waarde bereikt die een wijziging rechtvaardigt.<br>
-<br>
-De koppeling aan het indexcijfer, vermeld in het eerste lid, wordt berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
-<br>
-Het bedrag, vermeld in het eerste lid, is gekoppeld aan het spilindexcijfer 103,04 (basis 2013=100).
+...
 
 ### ART 114.
 
-Onderdeel B2, vermeld in artikel 111, 2°, b), wordt vastgesteld op 88,18 euro per dag per zorggebruiker met een verstandelijke beperking en 81,46 euro per dag per andere zorggebruiker.<br>
-<br>
-De bedragen, vermeld in het eerste lid, worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld waarbij de verhoging of de vermindering wordt toegepast vanaf de eerste maand nadat het indexcijfer een waarde bereikt die een wijziging rechtvaardigt.<br>
-<br>
-De koppeling aan het indexcijfer, vermeld in het tweede lid, wordt berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
-<br>
-De bedragen, vermeld in het eerste lid, zijn gekoppeld aan het spilindexcijfer 103,04 (basis 2013=100).<br>
-<br>
-Onderdeel B2, vermeld in artikel 111, 2°, b), dekt de kosten van de volgende zorg:<br>
-1° de verzorging verleend door verpleegkundigen;<br>
-2° de kinesitherapieverstrekkingen en de logopedieverstrekkingen verleend door de zorgverstrekkers, die daarvoor bevoegd zijn, met uitzondering van de kinesitherapieverstrekkingen die niet in de psychiatrische behandeling kaderen en die door een behandelende arts, andere dan de coördinerend en behandelend psychiater worden voorgeschreven;<br>
-3° de bijstand in de handelingen van het dagelijks leven en elke handeling tot re-activatie en sociale re-integratie, inclusief de ergotherapie;<br>
-4° de geneeskundige verstrekkingen verleend door de coördinerende en behandelende psychiater.
+...
 
 ### ART 115.
 
-Onderdeel B3, vermeld in artikel 111, 2°, c), bedraagt 3413,79 euro per erkend psychiatrisch verzorgingstehuis, vermeerderd met 73,99 euro per zorggebruiker, vermeld in de opnamecapaciteit.<br>
-<br>
-De bedragen, vermeld in het eerste lid, worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld waarbij de verhoging of de vermindering wordt toegepast vanaf de eerste maand nadat het indexcijfer een waarde bereikt die een wijziging rechtvaardigt.<br>
-<br>
-De koppeling aan het indexcijfer, vermeld in het tweede lid, wordt berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
-<br>
-De bedragen, vermeld in het eerste lid, zijn gekoppeld aan het spilindexcijfer 103,04 (basis 2013=100).
+...
 
 ### ART 116.
 
-De onderdelen C2A en C2B, vermeld in artikel 111, 3°, worden als volgt bepaald:<br>
-1° C2A: het verschil tussen het nog niet in aanmerking genomen inhaalbedrag van het psychiatrisch verzorgingstehuis gedeeld door het aantal dagen dat overeenkomt met het gemiddeld aantal opgenomen zorggebruikers, vermeld in de opnamecapaciteit van het psychiatrisch verzorgingstehuis met een bezettingsgraad van 90 %, en het onderdeel C2B;<br>
-2° C2B: het gemiddelde inhaalbedrag verkregen door de som van de inhaalbedragen die nog niet in aanmerking zijn genomen voor het geheel van de erkende psychiatrische verzorgingstehuizen, gedeeld door het aantal dagen dat overeenkomt met het gemiddelde aantal opgenomen zorggebruikers van de sector met een bezettingsgraad van 90 %, waarna van dat gemiddelde inhaalbedrag een bedrag van 1,60 euro wordt afgetrokken.<br>
-<br>
-Voor de berekening van het gemiddeld aantal opgenomen zorggebruikers, vermeld in het eerste lid, 1° en 2°, wordt rekening gehouden met de laatst bekende gegevens.<br>
-<br>
-Als het resultaat van de berekening, vermeld in het eerste en tweede lid, negatief is, dan wordt onderdeel C2B teruggebracht tot nul.
+...
 
 ### ART 117.
 
-§ 1. Elk psychiatrisch verzorgingstehuis voert een eigen boekhouding conform de regels, die opgenomen zijn in bijlage 1 van het koninklijk besluit van 14 augustus 1987 tot bepaling van de minimumindeling van het algemeen rekeningenstelsel voor de ziekenhuizen.<br>
-<br>
-§ 2. Voor de rekeningen en onderverdelingen die niet voorkomen in de minimumindeling van het algemeen rekeningenstelsel voor de ziekenhuizen, worden de rekeningen en onderverdelingen van rekeningen overgenomen die voorkomen in de minimumindeling van het rekeningstelsel voor de ondernemingen dat in bijlage bij het koninklijk besluit van 12 september 1983 tot bepaling van de minimumindeling van een algemeen rekeningstelsel is gevoegd.<br>
-<br>
-§ 3. De rekeningen die opgenomen zijn in de minimumindeling van het algemeen rekeningenstelsel voor de ziekenhuizen die voor een psychiatrisch verzorgingstehuis niet dienstig zijn, hoeven in het rekeningenstelsel niet voor te komen.<br>
-<br>
-§ 4. De kosten en opbrengsten van psychiatrische verzorgingstehuizen worden geboekt op grond van hun aard, namelijk algemene boekhouding, klassen 6 en 7 van de rekeningen, en op basis van de volgende bestanddelen van de kostprijs:<br>
-1° afschrijvingen;<br>
-2° financiële lasten;<br>
-3° algemene kosten;<br>
-4° onderhoud;<br>
-5° verwarming;<br>
-6° administratie;<br>
-7° was en linnen;<br>
-8° voeding;<br>
-9° internaat;<br>
-10° medische kosten.<br>
-<br>
-Elke verrichting die tot een kost of een opbrengst leidt, moet het voorwerp zijn van een codecijfer dat bestaat uit de volgende twee delen:<br>
-1° het eerste deel bestaat uit ten minste vijf cijfers en verwijst naar de kosten- of opbrengstenrekening volgens de aard waarmee de verrichting overeenstemt;<br>
-2° het tweede deel bestaat uit een cijfer dat overeenstemt met het bestanddeel van de kostprijs, vermeld in het eerste lid.<br>
-<br>
-§ 5. De volgende rekening van de minimumindeling van het algemeen rekeningenstelsels van de ziekenhuizen, wordt aangepast voor de psychiatrische verzorgingstehuizen. De rekening 700 wordt onderverdeeld in:<br>
-1° 7001: tegemoetkoming van de verzekeringsinstellingen en zorgkassen;<br>
-2° 7002: tegemoetkoming van het agentschap;<br>
-3° 7003: tegemoetkoming van de zorggebruikers.<br>
-<br>
-§ 6. De volgende inlichtingen worden medegedeeld aan het agentschap op haar verzoek en op de wijze door haar bepaald:<br>
-1° de eindbalans, de resultatenrekening voor het psychiatrisch verzorgingstehuis, de staten en inlichtingen waarvan de modellen bij het koninklijk besluit van 19 juni 2007 betreffende de jaarrekeningen van de ziekenhuizen zijn vastgesteld;<br>
-2° het aantal dagen dat gerealiseerd is gedurende het beschouwde boekjaar, alsook de uitsplitsing van die dagen per maand, per betalingsinstelling en per categorie: zorggebruiker met of zonder een verstandelijke beperking;<br>
-3° de inlichtingen over het personeel vermeld in artikel 89 per kalenderjaar.
+...
 
 ### ART 118.
 
-De beheerinstantie van het psychiatrisch verzorgingstehuis gaat binnen een maand in op de vragen naar informatie komende van het agentschap en deelt aan het agentschap alle inlichtingen en documenten mee die zij noodzakelijk acht voor het toezicht op de uitvoering van dit besluit.
+...
 
 ## Titel 4. [... (opgeh. BVR 10 februari 2023, art. 16, I: 1 april 2023)]
 
 ### ART 119.
 
-§ 1. De tegemoetkoming voor zorg, vermeld in artikel 66 van het decreet van 6 juli 2018, dekt de kosten van onderdeel B2, B3 en C2A, vermeld in artikel 111, 2° en 3°, van de opnemingsprijs.<br>
-<br>
-§ 2. Wanneer een opnemingsprijs aanleiding geeft tot een individuele tegemoetkoming van een Openbaar Centrum voor Maatschappelijk Welzijn voor een behoeftige, verleent de Vlaamse Gemeenschap aan het Openbaar Centrum voor Maatschappelijk Welzijn een subsidie die overeenkomt met 60 % van de individuele tegemoetkoming. Het Openbaar Centrum voor Maatschappelijk Welzijn bezorgt hiertoe een document waarvan het model door het agentschap ter beschikking wordt gesteld.<br>
-<br>
-Die subsidie wordt enkel uitbetaald indien het Openbaar Centrum voor Maatschappelijk Welzijn het bewijs kan voorleggen dat het bij de bepaling van de individuele tegemoetkoming rekening gehouden heeft met de bepalingen van artikel 81 van dit besluit.<br>
-<br>
-Het resterend gedeelte van de opnemingsprijs valt ten laste van het Openbaar Centrum voor Maatschappelijk Welzijn.
+...
 
 ## Titel 5. [... (opgeh. BVR 10 februari 2023, art. 16, I: 1 april 2023)]
 
 ### ART 120.
 
-De bijkomende forfaitaire tegemoetkoming, vermeld in artikel 69 van het decreet van 6 juli 2018, is de som van de toepasselijke bedragen, vermeld in artikel 121 van dit besluit.
+...
 
 ### ART 121.
 
-§ 1. In dit artikel wordt verstaan onder:<br>
-1° inkomensgarantie voor ouderen: de inkomensgarantie voor ouderen, vermeld in de wet van 22 maart 2001 tot instelling van een inkomensgarantie voor ouderen;<br>
-2° integratietegemoetkoming: de integratietegemoetkoming, vermeld in artikel 1 van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap;<br>
-3° invaliditeitsuitkering: de invaliditeitsuitkering, vermeld in artikel 93 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;<br>
-4° maatschappelijke integratie: de maatschappelijke integratie, vermeld in de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie;<br>
-5° verhoogde tegemoetkoming: de verhoogde tegemoetkoming, vermeld in artikel 37, § 1 en § 19, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994,<br>
-<br>
-§ 2. Een eerste deel van de bijkomende forfaitaire tegemoetkoming, vermeld in artikel 120, wordt vastgesteld op:<br>
-1° 15,41 euro per dag:<br>
-a) voor zorggebruikers die personen ten laste hebben in het kader van de verzekering voor geneeskundige verzorging of in het kader van een rechterlijke beslissing;<br>
-b) voor de rechthebbenden die in de verzekering voor geneeskundige verzorging ingeschreven staan als personen ten laste van een zorggebruiker;<br>
-2° 9,25 euro per dag voor de zorggebruikers die recht hebben op de verhoogde tegemoetkoming;<br>
-3° 4,63 euro per dag voor alle andere zorggebruikers.<br>
-<br>
-De bedragen, vermeld in het eerste lid, worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld waarbij de verhoging of de vermindering wordt toegepast vanaf de eerste maand nadat het indexcijfer een waarde bereikt die een wijziging rechtvaardigt.<br>
-<br>
-De koppeling aan het indexcijfer, vermeld in het tweede lid, wordt berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
-<br>
-De bedragen, vermeld in het eerste lid, zijn gekoppeld aan het spilindexcijfer 103,04 (basis 2013=100).<br>
-<br>
-In afwijking van het eerste lid wordt voor de zorggebruikers die op 1 januari 2003 in een psychiatrisch verzorgingstehuis verbleven, het eerste deel van de bijkomende forfaitaire tegemoetkoming als volgt vastgesteld, als dit voor hen voordeliger is:<br>
-1° 9,91 euro per dag als het gaat om:<br>
-a) zorggebruikers die aan één van de volgende voorwaarden beantwoorden:<br>
-1) ze hebben recht op een maatschappelijke integratie;<br>
-2) ze hebben recht op een gewaarborgd inkomen of behouden het recht op een rentebijslag met toepassing van de wet van 1 april 1969 tot instelling van een gewaarborgd inkomen voor bejaarden;<br>
-3) ze hebben recht op een integratietegemoetkoming of inkomensvervangende tegemoetkoming met toepassing van de wet van 27 februari 1987 betreffende de tegemoetkoming aan personen met een handicap;<br>
-b) zorggebruikers die recht hebben op de verhoogde verzekeringstegemoetkoming en die hetzij personen ten laste hebben in de verzekering voor geneeskundige verzorging, hetzij bij gerechtelijke beslissing of notariële akte gehouden zijn alimentatiegeld te betalen;<br>
-c) zorggebruikers die in de verzekering voor geneeskundige verzorging als persoon ten laste van de gerechtigden, vermeld in punt a) en b), zijn ingeschreven;<br>
-2° 7,44 euro per dag als het gaat om:<br>
-a) zorggebruikers die recht hebben op de verhoogde verzekeringstegemoetkoming en die geen personen ten laste hebben in de verzekering voor geneeskundige verzorging;<br>
-b) zorggebruikers die personen ten laste hebben in de verzekering voor geneeskundige verzorging of bij gerechtelijke beslissing of notariële akte gehouden zijn alimentatiegeld te betalen, met uitzondering van de zorggebruikers, vermeld in punt 1°, a) en b);<br>
-c) zorggebruikers die in de verzekering voor geneeskundige verzorging als personen ten laste van de in b) vermelde gerechtigden zijn ingeschreven;<br>
-3° 4,96 euro per dag als het gaat om zorggebruikers die geen personen ten laste hebben in de verzekering voor geneeskundige verzorging, met uitzondering van de zorggebruikers, vermeld in punt 1°, a), en 2°, a).<br>
-<br>
-§ 3. Een tweede deel van de bijkomende forfaitaire tegemoetkoming, vermeld in artikel 120, wordt vastgesteld op:<br>
-1° 7,59 euro per verblijfdag voor de zorggebruiker die aan één van de volgende voorwaarden beantwoordt:<br>
-a) ze hebben personen ten laste in het kader van de verzekering voor geneeskundige verzorging;<br>
-b) ze zijn verplicht om, in het kader van een rechterlijke beslissing of notariële akte, onderhoudsgeld te storten;<br>
-c) in de verzekering voor geneeskundige verzorging staan ze ingeschreven als persoon ten laste van een zorggebruiker;<br>
-2° 13,95 euro per verblijfdag voor de zorggebruikers die voldoen aan al de volgende voorwaarden:<br>
-a) ze vallen niet onder toepassing van punt 1° ;<br>
-b) ze hebben recht op de verhoogde tegemoetkoming;<br>
-c) ze hebben:<br>
-1) geen recht op een integratietegemoetkoming;<br>
-2) recht op een integratietegemoetkoming categorie 1;<br>
-d) ze hebben recht op één van de volgende tegemoetkomingen:<br>
-1) een invaliditeitsuitkering als onregelmatig werknemer;<br>
-2) een maatschappelijke integratie;<br>
-3) een inkomensgarantie voor ouderen;<br>
-3° 10,95 euro per verblijfdag voor de zorggebruikers die voldoen aan al de volgende voorwaarden:<br>
-a) ze vallen niet onder toepassing van punt 1° ;<br>
-b) ze hebben recht op de verhoogde tegemoetkoming;<br>
-c) ze hebben hetzij:<br>
-1) geen recht op een integratietegemoetkoming;<br>
-2) recht op de integratietegemoetkoming categorie 1;<br>
-d) ze hebben hetzij:<br>
-1) geen recht op een invaliditeitsuitkering;<br>
-2) recht op een invaliditeitsuitkering andere dan onregelmatig werknemer;<br>
-4° 8,25 euro per verblijfdag voor de zorggebruikers die voldoen aan al de volgende voorwaarden:<br>
-a) ze vallen niet onder toepassing van punt 1° ;<br>
-b) ze hebben recht op de verhoogde tegemoetkoming;<br>
-c) ze hebben recht op een integratietegemoetkoming categorie 2 of 3:<br>
-d) ze hebben recht op een invaliditeitsuitkering als onregelmatig werknemer;<br>
-5° 5,75 euro per verblijfdag voor de zorggebruikers die voldoen aan al de volgende voorwaarden:<br>
-a) ze vallen niet onder toepassing van punt 1° ;<br>
-b) ze hebben recht op de verhoogde tegemoetkoming;<br>
-c) ze hebben recht op een integratietegemoetkoming categorie 2 of 3;<br>
-d) ze hebben hetzij:<br>
-1) geen recht op een invaliditeitsuitkering;<br>
-2) recht op een invaliditeitsuitkering andere dan onregelmatig werknemer;<br>
-6° 5,75 euro per verblijfdag voor de zorggebruikers die voldoen aan al de volgende voorwaarden:<br>
-a) ze vallen niet onder toepassing van punt 1° ;<br>
-b) ze hebben recht op de verhoogde tegemoetkoming;<br>
-c) ze hebben recht op een integratietegemoetkoming categorie 4 of 5;<br>
-d) ze hebben recht op een invaliditeitsuitkering als onregelmatig werknemer;<br>
-7° 4,75 euro per verblijfdag voor de zorggebruikers die voldoen aan al de volgende voorwaarden:<br>
-a) ze vallen niet onder toepassing van punt 1° ;<br>
-b) ze hebben recht op de verhoogde tegemoetkoming;<br>
-c) ze hebben recht op een integratietegemoetkoming categorie 4 of 5:<br>
-d) ze hebben hetzij:<br>
-1) geen recht op een invaliditeitsuitkering;<br>
-2) recht op een invaliditeitsuitkering andere dan onregelmatig werknemer.<br>
-8° 4,27 euro per verblijfdag voor de zorggebruikers die niet onder toepassing valt van punt 1° tot en met 7°.<br>
-<br>
-De bedragen, vermeld in deze paragraaf, worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld waarbij de verhoging of de vermindering wordt toegepast vanaf de eerste maand nadat het indexcijfer een waarde bereikt die een wijziging rechtvaardigt.<br>
-<br>
-De koppeling aan het indexcijfer, vermeld in het tweede lid, wordt berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
-<br>
-De bedragen, vermeld in deze paragraaf, zijn gekoppeld aan het spilindexcijfer 103,04 (basis 2013=100).
+...
 
 ## Deel 3. Initiatieven van beschut wonen
 
