@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038362,
+  "title": "Decreet van 2023-04-28 over de Vlaamse toetsen in het onderwijs",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038362/VolledigDocument?datum=2023-04-01",
+  "source_sha256": "6bc74a77e77a6c1ed269df88ef5176ffc42ebadb0e42f495a5b7e289be039b49",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038362&param=informatie",
+  "as_of": "2023-04-01",
+  "made": "2023-04-28",
+  "gazette": "2023-07-18",
+  "numac": 2023042514,
+  "document_start": "2023-04-01",
+  "document_end": null,
+  "in_force": "2023-04-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2023-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
