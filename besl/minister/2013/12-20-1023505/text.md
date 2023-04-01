@@ -64,11 +64,11 @@ De land- of tuinbouwer meldt elke wijziging die gevolgen heeft voor de   subsidi
 
 <p>De land- of tuinbouwer voert de registratie, vermeld in artikel 17 van het besluit van de Vlaamse Regering van 20 december 2013, in via het e-loket.</p>
 
-<p>Na afloop van de overeenkomst of bij het einde van een kwartaal bevestigt de land- of tuinbouwer de registraties via het e-loket met een elektronische handtekening. De elektronische handtekening bij de bevestiging van de registratie geldt als subsidieaanvraag.</p>
+<p>Na afloop van de overeenkomst of bij het einde van een kwartaal dient de land- of tuinbouwer de registraties via het e-loket in. De voormelde indiening van de registratie geldt als een subsidieaanvraag.</p>
 
 <p>Bij de subsidieaanvraag verklaart de land- of tuinbouwer op erewoord dat hij voldoet aan de voorwaarden, vermeld in verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun, gepubliceerd in het Publicatieblad van de Europese Unie (L 352) van 24 december 2013.</p>
 
-<p>De voorziening bevestigt de ingediende registraties uit de subsidieaanvraag met een elektronische handtekening.</p>
+<p>De voorziening bevestigt de registraties uit de subsidieaanvraag, die de land- of tuinbouwer heeft ingediend. Als de voorziening de voormelde registraties die de land- of tuinbouwer heeft ingediend, niet binnen 21 kalenderdagen bevestigd heeft, worden de voormelde registraties die de land- of tuinbouwer heeft ingediend, stilzwijgend geacht bevestigd te zijn door de voorziening. De voormelde termijn start op de dag na de dag waarop de land- of tuinbouwer de registraties heeft ingediend.</p>
 
 ## HOOFDSTUK 5 Slotbepaling
 
