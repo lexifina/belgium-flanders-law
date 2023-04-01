@@ -676,6 +676,44 @@ De organisator met meer dan achttien vergunde kinderopvangplaatsen neemt in het 
 
 Gezinnen betalen het inkomenstarief voor de opvang op een dringende opvangplaats als vermeld in artikel 40/12.
 
+## [TITEL 4/3 De subsidie voor kinderbegeleiders gezinsopvang in een werknemersstatuut (ing. BVR 26 mei 2023, art. 1, I: 1 april 2023)]
+
+### ART 40/17.
+
+Het agentschap kan conform artikel 40/19 en 40/20 een subsidie voor kinderbegeleiders gezinsopvang in een werknemersstatuut toekennen aan organisatoren met een vergunning voor gezinsopvang als vermeld in het decreet van 20 april 2012, die met kinderbegeleiders in het sociaal statuut van de aangesloten onthaalouders werken.<br>
+<br>
+De subsidie, vermeld in het eerste lid, bedraagt:<br>
+1° voor de organisator die onder de private sector valt: 16.884,00 euro (zestienduizend achthonderdvierentachtig euro) per voltijdsequivalent kinderbegeleider per kalenderjaar;<br>
+2° voor de organisator die onder de publieke sector valt: 21.147,30 euro (eenentwintigduizend honderdzevenenveertig euro dertig cent) per voltijdsequivalent kinderbegeleider per kalenderjaar.<br>
+<br>
+Het bedrag, vermeld in het tweede lid, wordt verhoudingsgewijze verminderd als een voltijdsequivalent of een fractie ervan niet wordt ingevuld gedurende meer dan dertig dagen, vanaf de eenendertigste dag waarop de voltijdsequivalent of de fractie ervan niet is ingevuld.&nbsp;<br>
+<br>
+De organisator verliest het recht op de subsidie, vermeld in het eerste lid, als een voltijdsequivalent kinderbegeleider in een werknemersstatuut niet wordt ingevuld of uit dienst treedt en niet vervangen wordt door een nieuwe kinderbegeleider in een werknemersstatuut binnen zes maanden vanaf de kalenderdag waarin de gewijzigde situatie zich heeft voorgedaan.<br>
+&nbsp;
+
+### ART 40/18.
+
+De organisator, vermeld in artikel 40/17 van dit besluit, voldoet aan al de volgende subsidievoorwaarden:<br>
+1° de organisator selecteert voor de aanstelling als werknemer alleen de volgende personen:<br>
+a) kinderbegeleiders die een kwalificatiebewijs als vermeld in artikel 43, §2, eerste lid, 4°, a), van het Vergunningsbesluit van 22 november 2013, hebben of een bewijs van een kwalificerend traject leveren als vermeld in artikel 8 van het ministerieel besluit van 25 november 2016 tot uitvoering van het Vergunningsbesluit van 22 november 2013;<br>
+b) kinderbegeleiders die beschikbaar zijn om per voltijdsequivalent gemiddeld vier kinderen op te vangen per kwartaal;<br>
+2° de organisator engageert zich voor de tewerkstelling van het aantal toegekende voltijdsequivalenten werknemers;<br>
+3° de organisator werkt samen met een pool gezinsopvang als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 22 februari 2019 houdende de toekenning van een subsidie aan pools gezinsopvang om het beleidsvoerende vermogen van de organisator als werkgever van kinderbegeleiders gezinsopvang te versterken.<br>
+&nbsp;
+
+### ART 40/19.
+
+De organisatoren die een subsidie ontvingen op basis van het besluit van de Vlaamse Regering van 22 mei 2015 houdende de regeling van de toekenning van een subsidie voor een vernieuwend project betreffende het werknemersstatuut van de kinderbegeleider gezinsopvang aan organisatoren met een vergunning en het besluit van de Vlaamse Regering van 22 februari 2019 houdende de toekenning van een subsidie voor een vernieuwend project werknemersstatuut van de kinderbegeleider gezinsopvang behouden het recht op de toegekende subsidies zolang de subsidievoorwaarden, vermeld in artikel 40/18 van dit besluit, worden nageleefd.
+
+### ART 40/20.
+
+Het agentschap kan na een algemene oproep middelen toekennen aan organisatoren als daarvoor budgettaire ruimte is.&nbsp;<br>
+<br>
+De aanvraag van een organisator wordt uitgesloten als er ernstige dossiermatige indicaties zijn die erop wijzen dat de vergunningsvoorwaarden of de subsidievoorwaarden niet nageleefd kunnen worden of als er is geen duidelijk en realistisch perspectief is waaruit blijkt dat de organisator in staat is om negentig dagen na de datum van de toewijzingsbeslissing van de bijkomende voltijds equivalente werknemers als werkgever op te treden.<br>
+<br>
+De minister bepaalt de nadere regels voor de inhoud van de oproep en de procedure voor de behandeling van de aanvragen en legt de voorrangscriteria vast, rekening houdend met de subsidievoorwaarden vermeld in artikel 40/18.<br>
+&nbsp;
+
 ## TITEL 5 Subsidie voor inclusieve kinderopvang
 
 ## HOOFDSTUK 1 Individuele inclusieve kinderopvang
