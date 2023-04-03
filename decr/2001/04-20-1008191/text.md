@@ -175,7 +175,7 @@ Ieder die vervoer voor eigen rekening verricht dient de statistische gegevens hi
 
 ### ART. 24bis.
 
-§ 1. Dit artikel is van toepassing op volgende vormen van vervoer als dat plaatsvindt met voertuigen die door hun bouwtype en uitrusting geschikt zijn voor het vervoer van meer dan negen personen, de bestuurder inbegrepen, en als het vervoer verricht wordt tegen betaling :<br />1° de exploitatie van het niet-grensoverschrijdende en grensoverschrijdende geregeld vervoer;<br />2° de exploitatie van grensoverschrijdende en niet-grensoverschrijdende bijzondere vormen van geregeld vervoer, met uitzondering van het in artikel 2, eerste lid, 2°, a), vermelde vervoer dat wordt verricht door een privé-exploitant.<br /><br />§ 2. De in het Vlaamse Gewest gevestigde ondernemingen die een of meer vormen van het vervoer, vermeld in § 1, willen uitvoeren, zijn onderworpen aan de voorafgaande verkrijging van een vergunning voor de toegang tot het beroep.<br /><br />De Vlaamse Regering bepaalt de nadere regels voor de toegang tot het beroep van het geregeld vervoer en de bijzondere vormen van geregeld vervoer. De voorwaarden om toegang te hebben tot het beroep hebben minstens betrekking op :<br />1° betrouwbaarheid;<br />2° financiële draagkracht;<br />3° vakbekwaamheid.<br /><br />§ 3. De duur van de vergunning voor de toegang tot het beroep bedraagt hoogstens vijf jaar.<br /><br />De Vlaamse Regering kan de vergunning telkens voor ten hoogste vijf jaar hernieuwen.<br /><br />§ 4. De Vlaamse Regering neemt een beslissing binnen vier maanden na de datum van de indiening van de vergunningsaanvraag door de kandidaat-vervoerder.<br /><br />De aanvrager wordt daarvan op de hoogte gebracht binnen tien dagen na afloop van de bovenvermelde termijn.<br /><br />§ 5. De Vlaamse Regering kan de vergunning voorlopig intrekken voor een termijn van maximaal drie maanden als de vergunninghouder de bepalingen van dit decreet of de uitvoeringsbesluiten ervan niet naleeft.<br /><br />De vergunning wordt ingetrokken zonder schadeloosstelling en nadat de vergunninghouder gehoord is.<br /><br />De Vlaamse Regering stelt een grondig onderzoek in.<br /><br />Als de Vlaamse Regering vaststelt dat de vergunninghouder, waarvan de vergunning voorlopig is ingetrokken, nog steeds de bepalingen van dit decreet of de uitvoeringsbesluiten ervan niet naleeft, wordt de vergunning definitief ingetrokken.<br /><br />§ 6. De Vlaamse Regering kan de nadere regels bepalen waaronder de vergunning voor de toegang tot het beroep, afgeleverd door een andere lidstaat, een ander gewest of de federale overheid, wordt erkend.
+...
 
 ## HOOFDSTUK V [... (opgeh. decr. 29 maart 2019, art. 39, I: 1 januari 2020)]
 
@@ -378,12 +378,12 @@ Ieder die vervoer voor eigen rekening verricht dient de statistische gegevens hi
 1° bis zonder vergunning als vermeld in artikel 16 een dienst voor het geregeld vervoer exploiteren;<br>
 2° zonder vergunning of overeenkomst als vermeld in artikel 19, een dienst voor de bijzondere vormen van geregeld vervoer exploiteren;<br>
 3° zonder attest als vermeld in artikel 23, aan vervoer voor eigen rekening doen;<br>
-4° zonder vergunning voor toegang tot het beroep als vermeld in artikel 24bis, een dienst voor het geregeld vervoer of een dienst voor de bijzondere vormen van geregeld vervoer, exploiteren;<br>
-5° ...;<br>
-6° ...;<br>
-7° ...;<br>
-8° ...;<br>
-9° ...;<br>
+4° ...<br>
+5° ...<br>
+6° ...<br>
+7° ...<br>
+8° ...<br>
+9° ...<br>
 10° ...<br>
 <br>
 § 2. Onverminderd de schadevergoeding, wordt gestraft met een gevangenisstraf van acht dagen tot drie maanden en met een geldboete van 26 euro tot 10 000 euro, of met een van deze straffen alleen degene die een andere inbreuk pleegt op de bepalingen van dit decreet of de uitvoeringsbepalingen ervan, andere dan deze bedoeld in artikel 66, § 1 en artikel 66bis.<br>
