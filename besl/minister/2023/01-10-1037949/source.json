@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037949,
+  "title": "Ministerieel besluit van 2023-01-10 tot wijziging van de inventarismethodologie voor de inventaris van bouwkundig erfgoed",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037949/VolledigDocument?datum=2023-04-07",
+  "source_sha256": "8e50367154357d4d4a11274c8cbddb1c3fad1d45bd92f3b7e6cba4c591c21651",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037949&param=informatie",
+  "as_of": "2023-04-07",
+  "made": "2023-01-10",
+  "gazette": "2023-03-28",
+  "numac": 2023040115,
+  "document_start": "2023-04-07",
+  "document_end": null,
+  "in_force": "2023-04-07",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-04-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
