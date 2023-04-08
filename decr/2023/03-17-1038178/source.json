@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038178,
+  "title": "Decreet van 2023-03-17 tot wijziging van het decreet van 26 april 2019 houdende de justitiehuizen en de juridische eerstelijnsbijstand, wat betreft de indicatiestelling en de interne informatiedeling",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038178/VolledigDocument?datum=2023-04-08",
+  "source_sha256": "3dad7c4678b7c9b0441e979d343fb97300221d2b23e412637d1f0edb7fdbef3c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038178&param=informatie",
+  "as_of": "2023-04-08",
+  "made": "2023-03-17",
+  "gazette": "2023-03-29",
+  "numac": 2023041281,
+  "document_start": "2023-04-08",
+  "document_end": null,
+  "in_force": "2023-04-08",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-04-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
