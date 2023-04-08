@@ -18,7 +18,7 @@ c) deel uitmaken van een sectoroverschrijdend netwerk als vermeld in artikel 5, 
 4° commissie voor juridische eerstelijnsbijstand: de commissie, vermeld in artikel 27;<br>
 5° gecodeerde persoonsgegevens: gepseudonomiseerde persoonsgegevens, zoals bedoeld in artikel 4, 5), van de algemene verordening gegevensbescherming, die alleen door middel van een code in verband kunnen worden gebracht met een geïdentificeerde of identificeerbare persoon;<br>
 6° geïntegreerd breed onthaal: onthaal als vermeld in artikel 9 en 10 van het decreet van 9 februari 2018 betreffende het lokaal sociaal beleid;<br>
-7° indicatiestelling: het proces van inschatting van de risico's, behoeften en sterktes van een justitiabele dat voorafgaat aan het plannen van een interventie of het opstellen van een sociaal voorlichtingsrapport;<br>
+7° indicatiestelling: de inschatting van de risico’s, behoeften en sterktes van een justitiabele, aan de hand van onder meer risicotaxatie of een psychodiagnostisch onderzoek;<br>
 8° juridische eerstelijnsbijstand: de juridische bijstand die verstrekt wordt door advocaten in de vorm van praktische inlichtingen, juridische informatie, een eerste juridisch advies of de verwijzing naar een relevante, gespecialiseerde of meer aangewezen instantie of organisatie, gerealiseerd door de commissies voor juridische eerstelijnsbijstand;<br>
 9° justitiabele:<br>
 a) een verdachte, beschuldigde, beklaagde, inverdenkinggestelde, veroordeelde of geïnterneerde persoon;<br>
@@ -106,7 +106,7 @@ Het Agentschap Justitie en Handhaving, opgericht bij het besluit van de Vlaamse 
 
 ### ART 8.
 
-De justitiehuizen verwerken persoonsgegevens op grond van artikel 6, eerste lid, e), van de algemene verordening gegevensbescherming.<br>
+De justitiehuizen verwerken persoonsgegevens op grond van artikel 6, eerste lid, c) en e), van de algemene verordening gegevensbescherming.<br>
 <br>
 In uitvoering van artikel 9, tweede lid, g), van de algemene verordening gegevensbescherming worden de verwerkingen met het oog op de uitvoering van de opdrachten, vermeld in artikel 5, 1° en 2°, beschouwd als noodzakelijke verwerkingen om redenen van zwaarwegend algemeen belang, en verwerken de justitiehuizen persoonsgegevens als vermeld in artikel 9, eerste lid, van diezelfde verordening.<br>
 <br>
@@ -162,7 +162,7 @@ Voor de uitoefening van de rechten, vermeld in artikel 12 tot en met 22 en 34 va
 
 ### ART 11.
 
-§ 1. De justitiehuizen winnen, met het oog op het uitvoeren van een opdracht als vermeld in artikel 5, 1° en 2°, minstens informatie in:<br>
+§1. De justitiehuizen winnen, met het oog op het uitvoeren van een opdracht als vermeld in artikel 5, 1° en 2°, minstens informatie in:<br>
 1° bij de opdrachtgever;<br>
 2° bij de justitiabele op wie de opdracht betrekking heeft, waarbij het doel van het verzamelen van informatie aan die justitiabele wordt meegedeeld;<br>
 3° bij de andere actoren die betrokken zijn bij de uitvoering van de opdracht;<br>
@@ -170,7 +170,7 @@ Voor de uitoefening van de rechten, vermeld in artikel 12 tot en met 22 en 34 va
 5° uit de bestanden, vermeld in artikel 12;<br>
 6° uit de informatiesystemen van de opdrachtgevers voor zover hen toegang is verleend.<br>
 <br>
-§ 2. Met behoud van de toepasselijke regelgeving stellen de actoren die een begeleiding, omkadering of behandeling aannemen in het kader van een opdracht als vermeld in artikel 5, 1°, daarover een verslag op ten behoeve van de justitiehuizen.<br>
+§2. Met behoud van de toepasselijke regelgeving stellen de actoren die een begeleiding, omkadering of behandeling aannemen in het kader van een opdracht als vermeld in artikel 5, 1°, daarover een verslag op ten behoeve van de justitiehuizen.<br>
 <br>
 In het verslag, vermeld in het eerste lid, worden minstens de volgende punten behandeld:<br>
 1° de daadwerkelijke aanwezigheden van de justitiabele op de gemaakte afspraken;<br>
@@ -178,7 +178,11 @@ In het verslag, vermeld in het eerste lid, worden minstens de volgende punten be
 3° de eenzijdige stopzetting van de begeleiding, omkadering of behandeling door de justitiabele;<br>
 4° de situaties die een ernstig risico inhouden voor derden;<br>
 5° de formele moeilijkheden die bij de begeleiding, omkadering of behandeling zijn gerezen;<br>
-6° zo mogelijk, bij weigering of stopzetting van een begeleiding, omkadering of behandeling, een richtinggevend alternatief.
+6° zo mogelijk, bij weigering of stopzetting van een begeleiding, omkadering of behandeling, een richtinggevend alternatief.<br>
+<br>
+§3. Psychologen die werkzaam zijn binnen de justitiehuizen kunnen, met het oog op het uitvoeren van een opdracht die tot doel heeft een opdrachtgever te informeren over een passende straf, maatregel, uitvoeringsmodaliteit of voorwaarde die aan een justitiabele kan worden opgelegd, of over de opvolging van een dergelijke straf, maatregel, uitvoeringsmodaliteit of voorwaarde, de noodzakelijke informatie omtrent een indicatiestelling van een justitiabele als vermeld in artikel 2, 9°, a), delen met het personeelslid van het justitiehuis dat instaat voor de uitvoering van de opdracht, zonder dat de psychologen wegens eventuele miskenning van het beroepsgeheim strafbaar kunnen worden gesteld op basis van artikel 458 van het Strafwetboek.<br>
+<br>
+In deze paragraaf wordt verstaan onder psycholoog: elke persoon die de titel van psycholoog draagt in de zin van de wet van 8 november 1993 tot bescherming van de titel van psycholoog.
 
 ### ART 12.
 
