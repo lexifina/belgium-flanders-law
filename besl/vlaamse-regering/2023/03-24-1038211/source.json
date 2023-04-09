@@ -2,16 +2,16 @@
   "codex_id": 1038211,
   "title": "Besluit van de Vlaamse Regering van 2023-03-24 tot wijziging van artikel 6 en 8 van het besluit van de Vlaamse Regering van 19 maart 2021 over de vergoeding voor de opvang van in beslag genomen dieren, de subsidiëring van de erkende dierenasielen en het verhalen op de verantwoordelijke van de kosten voor inbeslagname van dieren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038211/VolledigDocument?datum=2023-04-01",
-  "source_sha256": "ef4298bd6cb52f3a072a5c4dc81629dac2b703b55a6e377795ce23989dcb8a13",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038211/VolledigDocument?datum=2023-04-09",
+  "source_sha256": "31e26dad5c26cf312198fb8f2f2fafef353f0bb5cd373363ddd1df62a2d69552",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038211&param=informatie",
-  "as_of": "2023-04-01",
+  "as_of": "2023-04-09",
   "made": "2023-03-24",
   "gazette": "2023-03-30",
   "numac": 2023041402,
   "document_start": null,
   "document_end": null,
-  "in_force": "2023-04-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2023-04-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-04-09",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-04-09; future article versions excluded; article text as the API gives it"
 }
