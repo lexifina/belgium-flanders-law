@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039342,
+  "title": "Besluit van de Vlaamse Regering van 2023-03-10 tot vaststelling van een programmatische aanpak stikstof",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039342/VolledigDocument?datum=2023-04-14",
+  "source_sha256": "9d6d5411ddf047143395e67f23f735b518c1d5fddfd57a67d36b6e016292265f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039342&param=informatie",
+  "as_of": "2023-04-14",
+  "made": "2023-03-10",
+  "gazette": "2024-02-20",
+  "numac": 2024001208,
+  "document_start": "2023-04-14",
+  "document_end": null,
+  "in_force": "2023-04-14",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2023-04-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
