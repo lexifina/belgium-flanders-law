@@ -47,6 +47,12 @@ In artikel 78 van hetzelfde decreet, vervangen bij het decreet van 4 juli 2008 e
 
 ## Hoofdstuk 9. Wijzigingen van de Codex Secundair Onderwijs van 17 december 2010
 
+### ART 49.
+
+In artikel 2, §1, van de Codex Secundair Onderwijs van 17 december 2010, het laatst gewijzigd bij het decreet van 24 maart 2023, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 2° wordt de zinsnede “, 116 tot en met 120 en 122/2 tot en met 122/6” vervangen door de zinsnede “en 116 tot en met 120”;<br>
+2° in punt 3° wordt de zinsnede “112,” vervangen door de zinsnede “112, 122/2 tot en met 122/6,”.
+
 ### ART 50.
 
 In artikel 3 van dezelfde codex, het laatst gewijzigd bij het decreet van 5 mei 2023, worden de volgende wijzigingen aangebracht:<br>
@@ -58,6 +64,19 @@ a) hetzij de oprichting van een school die nog niet bestond op 1 oktober van het
 b) hetzij de oprichting van een op 1 oktober van de twee voorafgaande schooljaren niet georganiseerd structuuronderdeel dat niet onder toepassing van punt c) of d) valt, met de bedoeling dat structuuronderdeel in aanmerking te laten komen voor financiering of subsidiëring. Als het een structuuronderdeel betreft van het derde leerjaar van de derde graad dat op semesterbasis wordt georganiseerd, is de desbetreffende datum 1 oktober of 1 maart, naargelang het geval, van de twee voorafgaande schooljaren;<br>
 c) hetzij de heroprichting op 1 oktober van een structuuronderdeel dat minstens drie schooljaren terug is opgeheven doordat de toepasbare leerlingennorm niet werd bereikt, met de bedoeling dat structuuronderdeel in aanmerking te laten komen voor financiering of subsidiëring. Als het een structuuronderdeel betreft van het derde leerjaar van de derde graad dat op semesterbasis wordt georganiseerd, is de desbetreffende datum 1 oktober of 1 maart, naargelang het geval;<br>
 &nbsp;d) hetzij de oprichting van een op 1 oktober van de zes voorafgaande schooljaren niet georganiseerd structuuronderdeel met in de benaming de component ‘topsport’, met de bedoeling dat structuuronderdeel in aanmerking te laten komen voor financiering of subsidiëring. Opdat de heroprichting van een structuuronderdeel, conform deze definitie, niet als een programmatie wordt beschouwd, organiseert de betrokken school ten minste één sportdiscipline die eerder ook al aan die school is toegewezen;”.
+
+### ART 60.
+
+In artikel 122/2 van dezelfde codex, ingevoegd bij het decreet van 24 maart 2023, wordt het vijfde lid vervangen door wat volgt:<br>
+<br>
+“Interactief afstandsonderwijs kan per structuuronderdeel op schooljaarbasis voor maximaal:<br>
+1° 20% in de eerste graad, het onthaaljaar en de observatiefase van opleidingsvorm 3;<br>
+2° 30% in de tweede graad en de opleidingsfase van opleidingsvorm 3;<br>
+3° 40% in de derde graad, de kwalificatiefase en de schoolcomponent van de integratiefase van opleidingsvorm 3.”.
+
+### ART 61.
+
+In artikel 122/6, eerste lid, van dezelfde codex, ingevoegd bij het decreet van 24 maart 2023, wordt voor de zinsnede “opleidingsvorm 4,” de zinsnede “opleidingsvorm 3 en” ingevoegd.
 
 ### ART 74.
 
