@@ -12,8 +12,8 @@ De codificatie van de wettelijke en decretale bepalingen betreffende het secunda
 <br>
 In afwijking van het eerste lid:<br>
 1° ...<br>
-2° gelden artikel 96 tot en met 99, 115/1&nbsp;en 116 tot en met 120 niet voor het deeltijds beroepssecundair onderwijs;<br>
-3° gelden artikel 110/1 tot en met 110/18, 111 en 112, 123/2 tot en met 123/4, 123/6 tot en met 123/25 ook voor de leertijd.<br>
+2° gelden artikel 96 tot en met 99, 115/1,&nbsp;en 116 tot en met 120 niet voor het deeltijds beroepssecundair onderwijs;<br>
+3° gelden artikel 110/1 tot en met 110/18, 111 en 112, 122/2 tot en met 122/6, 123/2 tot en met 123/4, 123/6 tot en met 123/25 ook voor de leertijd.<br>
 <br>
 § 2. De bepalingen van deel IV van de codificatie zijn van toepassing op het door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd voltijds gewoon secundair onderwijs.<br>
 <br>
@@ -158,7 +158,7 @@ c) hetzij de oprichting van een op 1 oktober van de zes voorafgaande schooljaren
 36° /1 remediërende maatregelen: maatregelen waarbij de school effectieve vormen van aangepaste leerhulp verstrekt binnen het gemeenschappelijk curriculum;<br>
 37° secundair onderwijs : het voltijds gewoon en buitengewoon secundair onderwijs en het deeltijds beroepssecundair onderwijs;<br>
 37° /1 selectieve participatietoeslagen leerling: de selectieve participatietoeslagen, zoals opgenomen in boek 2, deel 2, titel 1, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid;<br>
-38° school : een autonome entiteit die voltijds gewoon of buitengewoon secundair onderwijs organiseert en die door de Vlaamse Gemeenschap wordt erkend, gefinancierd of gesubsidieerd en daartoe aan de hand van een uniek nummer wordt geïdentificeerd. Voor de toepassing van deel III, titel II, hoofdstuk 1/1, wordt onder school en school voor gewoon secundair onderwijs ook een centrum voor deeltijds beroepssecundair onderwijs en voor wat de opleiding in de leertijd betreft ook een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen begrepen;<br>
+38° school : een autonome entiteit die voltijds gewoon of buitengewoon secundair onderwijs organiseert en die door de Vlaamse Gemeenschap wordt erkend, gefinancierd of gesubsidieerd en daartoe aan de hand van een uniek nummer wordt geïdentificeerd. Voor de toepassing van deel III, titel II, hoofdstuk 1/1 en hoofdstuk 4/1, wordt onder school en school voor gewoon secundair onderwijs ook een centrum voor deeltijds beroepssecundair onderwijs en voor wat de opleiding in de leertijd betreft ook een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen begrepen;<br>
 39° scholengemeenschap : één school of een groep van scholen die binnen een geografische omschrijving gezamenlijk instaat voor de onderwijsvoorziening;<br>
 39° /1 scholengemeenschapsinstelling: een scholengemeenschapsinstelling is een instelling die geen onderwijsinstelling is en die uitsluitend opgericht kan worden binnen één scholengemeenschap en zich beperkt tot en als enige doel heeft daar personeelsleden, die werken ter ondersteuning van de scholen van de scholengemeenschap aan te stellen, te affecteren, toe te laten tot de proeftijd en vast te benoemen indien ze daarvoor in aanmerking komen.<br>
 40° schoolbestuur: de rechtspersoon of natuurlijke persoon die verantwoordelijk is voor één of meer scholen; wat de centra voor deeltijds beroepssecundair onderwijs en de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen betreft, kan het schoolbestuur ook worden vermeld onder de benaming centrumbestuur;<br>
@@ -1969,7 +1969,7 @@ d) de opzet en de procedure van de screening en trajectbegeleiding in het deelti
 8° de voorwaarden waaronder de betrokken leerling en de betrokken personen inzage kunnen uitoefenen in of een toelichting kunnen vragen bij of een kopie kunnen bekomen van de leerlingengegevens, waaronder de evaluatiegegevens;<br>
 9° de organisatie van de leerlingenevaluatie, meer bepaald:<br>
 a) de vermelding dat de school, het centrum voor deeltijds beroepssecundair onderwijs of het centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen in de loop van het schooljaar op regelmatige basis of tijdig zal communiceren over:<br>
-1) de basisprincipes van het school- of centrumbeleid met betrekking tot leerlingenevaluatie, waaronder voor het secundair onderwijs de beslissing van de klassenraad wordt verstaan of de leerling in voldoende mate de doelstellingen, vastgelegd door of krachtens decreet- of regelgeving, heeft bereikt of nagestreefd, naargelang van het geval;<br>
+1) de basisprincipes van het school- of centrumbeleid met betrekking tot leerlingenevaluatie, met inbegrip van, desgevallend, de leerstofonderdelen die via interactief afstandsonderwijs worden aangeboden, waaronder voor het secundair onderwijs de beslissing van de klassenraad wordt verstaan of de leerling in voldoende mate de doelstellingen, vastgelegd door of krachtens decreet- of regelgeving, heeft bereikt of nagestreefd, naargelang van het geval;<br>
 1)/1 de wijze waarop de klassenraad, onverminderd de bepalingen van artikel 115/8, §2, tweede lid, 4°, bij de leerlingenevaluatie al dan niet rekening houdt met de resultaten van de Vlaamse toetsen;<br>
 2) de studievorderingen van de leerling;<br>
 3) de voor de leerling noodzakelijke remediëring;<br>
@@ -2256,6 +2256,55 @@ Leerlingen hebben recht op moederschapsverlof, naar rata van maximaal één week
 Onder de voorwaarden als bedoeld in artikel 117, hebben desbetreffende leerlingen recht op tijdelijk onderwijs aan huis. Onder de voorwaarden als bedoeld in artikel 117/1, hebben desbetreffende leerlingen recht op SIO.
 
 ## [HOOFDSTUK 4/1. Interactief afstandsonderwijs (ing. decr. 24 maart 2023, art. 5, I: 17 april 2023)]
+
+### ART 122/2.
+
+In het voltijds gewoon secundair onderwijs, met uitzondering van de aanloopstructuuronderdelen, vermeld in artikel 357/39, en buitengewoon secundair onderwijs opleidingsvorm 3 en opleidingsvorm 4 kan een school interactief afstandsonderwijs organiseren voor een leerlingengroep.&nbsp;<br>
+<br>
+In alle structuuronderdelen en onderwijsvormen van het voltijds gewoon secundair onderwijs, het buitengewoon secundair onderwijs, het stelsel van leren en werken, het deeltijds beroepssecundair onderwijs en aanloopstructuurnderdelen, vermeld in artikel 357/39, kan een school in uitzonderlijke gevallen en onder de voorwaarden zoals bepaald in deze codex, interactief afstandsonderwijs organiseren voor een individuele leerling.<br>
+<br>
+Interactief afstandsonderwijs bestaat uit onderwijsactiviteiten die via digitale media plaatsonafhankelijk worden georganiseerd tijdens de schooltijd en waarbij er interactie is tussen de leerling en de leerkracht, synchroon of asynchroon.&nbsp;<br>
+<br>
+Interactief afstandsonderwijs wordt altijd georganiseerd in combinatie met contactonderwijs. De school bepaalt autonoom de verhouding tussen interactief afstandsonderwijs en contactonderwijs.&nbsp;<br>
+ <br>
+Interactief afstandsonderwijs kan per structuuronderdeel op schooljaarbasis voor maximaal:<br>
+1° 20% in de eerste graad, het onthaaljaar en de observatiefase van opleidingsvorm 3;<br>
+2° 30% in de tweede graad en de opleidingsfase van opleidingsvorm 3;<br>
+3° 40% in de derde graad, de kwalificatiefase en de schoolcomponent van de integratiefase van opleidingsvorm 3.<br>
+<br>
+In een duaal opgericht structuuronderdeel hebben de percentages, vermeld in het vijfde lid, betrekking op de schoolcomponent.<br>
+<br>
+Voor de structuuronderdelen met in de benaming “topsport”, die vallen onder toepassing van het gesloten topsportconvenant, het structuuronderdeel Ballet en de opleiding Verpleegkunde van het hoger beroepsonderwijs, zijn de maxima niet van toepassing.&nbsp;<br>
+<br>
+De maxima zijn niet van toepassing op individueel interactief afstandsonderwijs voor een leerling.<br>
+&nbsp;
+
+### ART 122/3.
+
+Een school kan alleen interactief afstandsonderwijs als vermeld in artikel 122/2 organiseren als de school aan al de volgende voorwaarden voldoet:<br>
+1° de school maakt een analyse van de beginsituatie, met minstens aandacht<br>
+voor de beschikbaarheid en kennis van de benodigde ICT-materialen en -competenties, voor de leerling en de leerkracht;<br>
+2° de school ontwikkelt voor zichzelf de visie op en de bijhorende doelen van het interactieve afstandsonderwijs;<br>
+3° de school waarborgt de participatiekansen van elke leerling. De leerling krijgt altijd de mogelijkheid om het interactieve afstandsonderwijs in de school of het centrum te volgen. Ook de leraar krijgt altijd de mogelijkheid om in de school of het centrum les te geven.<br>
+&nbsp;
+
+### ART 122/4.
+
+Een school die interactief afstandsonderwijs als vermeld in artikel 122/2 organiseert, neemt dat op in zijn schoolreglement of centrumreglement, en vermeldt, met behoud van de toepassing van artikel 112, minstens al de volgende elementen:<br>
+1° de mogelijkheid om het interactieve afstandsonderwijs in de school of het centrum te volgen;<br>
+2° de structuuronderdelen die in interactief afstandsonderwijs worden georganiseerd;<br>
+3° of het interactieve afstandsonderwijs in groep of individueel wordt aangeboden.<br>
+&nbsp;
+
+### ART 122/5.
+
+Als een school interactief afstandsonderwijs organiseert als vermeld in artikel 122/2 wordt de wijze waarop personeelsleden worden ingezet, vastgelegd in het arbeidsreglement.
+
+### ART 122/6.
+
+Met het oog op een mogelijke bijsturing wordt het interactief afstandsonderwijs in het voltijds gewoon secundair onderwijs en het buitengewoon secundair onderwijs, opleidingsvorm 3 en opleidingsvorm 4, in het schooljaar 2027-2028 geëvalueerd.<br>
+<br>
+De Vlaamse Regering kan de nadere modaliteiten van deze evaluatie bepalen en heeft bij die evaluatie minstens aandacht voor de gelijke onderwijskansen van alle leerlingen.
 
 ## HOOFDSTUK 5. [Leerplicht (verv. decr. 25 april 2014, art. III.27, I: 1 september 2014)]
 
