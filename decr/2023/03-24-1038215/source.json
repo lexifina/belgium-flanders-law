@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038215,
+  "title": "Decreet van 2023-03-24 over het hybride onderwijs in het secundair onderwijs",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038215/VolledigDocument?datum=2023-04-17",
+  "source_sha256": "18f4ed7eeb72f50d7ccbe116c2e132157ed63b7c6e2804b58f53456b8c11d20f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038215&param=informatie",
+  "as_of": "2023-04-17",
+  "made": "2023-03-24",
+  "gazette": "2023-04-07",
+  "numac": 2023041429,
+  "document_start": "2023-04-17",
+  "document_end": null,
+  "in_force": "2023-04-17",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2023-04-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
