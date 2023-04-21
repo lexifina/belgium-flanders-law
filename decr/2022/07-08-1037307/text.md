@@ -40,6 +40,26 @@ Aan artikel 7 van hetzelfde decreet, vervangen bij het decreet van 28 juni 2013 
 
 ## Afdeling 2. Wijzigingen van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid
 
+### ART 10.
+
+Artikel 16 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+<br>
+"Art. 16. Binnen de grenzen van de jaarlijks toegestane begrotingskredieten kunnen subsidies worden toegekend voor de organisatie van sensibiliseringsacties om een duurzame landbouw te bevorderen.<br>
+<br>
+Met betrekking tot de subsidies, vermeld in het eerste lid, kan de Vlaamse Regering bepalen:<br>
+1° wie in aanmerking komt voor subsidiëring;<br>
+2° dat de begunstigden erkend of geregistreerd moeten worden om voor subsidiëring in aanmerking te komen en aan welke voorwaarden ze in voorkomend geval moeten voldoen;<br>
+3° aan welke regels de sensibiliseringsacties moeten voldoen;<br>
+4° aan welke verplichtingen de begunstigden moeten voldoen;<br>
+5° onder welke voorwaarden de subsidie verleend wordt;<br>
+6° welke procedure gevolgd moet worden.".
+
+### ART 11.
+
+In hetzelfde decreet worden de volgende artikelen opgeheven:<br>
+1° artikel 17, gewijzigd bij de decreten van 30 juni 2017 en 26 april 2019;<br>
+2° artikel 18.
+
 ## HOOFDSTUK 4. Onderwijs en Vorming
 
 ## Afdeling 1. Bijzondere salarisschalen hoger kunstonderwijs
