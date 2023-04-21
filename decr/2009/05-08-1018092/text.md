@@ -5025,7 +5025,11 @@ De werkmaatschappij past tegen uiterlijk 1 april 2019 de statuten en de samenste
 
 ### ART 15.3.5/18.
 
-De distributienetbeheerders hebben tot en met 1 januari 2023 de tijd om te voldoen aan de voorwaarden, vermeld in artikel 4.1.1, eerste lid, waarbij eventueel onderling gebieden kunnen worden uitgewisseld. De VREG doet, conform de door de Vlaamse Regering volgens artikel 4.1.4 vastgestelde procedure, waar nodig een nieuwe aanwijzing als distributienetbeheerder, of wijzigt de bestaande aanwijzing als distributienetbeheerder.
+In afwijking van artikel 4.1.1, eerste lid, hebben de distributienetbeheerders tot 1 september 2023 de tijd om te voldoen aan de voorwaarden, vermeld in artikel 4.1.1, eerste lid. De distributienetbeheerders bezorgen de VREG uiterlijk op 1 september 2023 het bewijs dat ze voldoen aan de voorwaarden, vermeld in artikel 4.1.1, eerste lid.<br>
+<br>
+In afwijking van het eerste lid heeft een distributienetbeheerder tot 1 januari 2025 de tijd om te voldoen aan de voorwaarden, vermeld in artikel 4.1.1, eerste lid, op voorwaarde dat hij voor 1 september 2023 aan de VREG het bewijs bezorgt dat het bevoegde orgaan de onomkeerbare beslissing heeft genomen om alle nodige rechtshandelingen te stellen die resulteren in de naleving van die voor- waarden.<br>
+<br>
+De VREG doet conform de procedure die de Vlaamse Regering volgens artikel 4.1.4 heeft vastgesteld, waar dat nodig is, een nieuwe aanwijzing als distributienetbeheerder of wijzigt de bestaande aanwijzing als distributienetbeheerder.
 
 ### ART 15.3.5/19.
 
