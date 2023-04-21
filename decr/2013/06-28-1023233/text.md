@@ -154,26 +154,23 @@ De Vlaamse Regering kan een vergoeding voor sociale promotie toekennen aan   per
 
 ### ART. 16.
 
-Met behoud van de toepassing van artikel 10, § 1, tweede lid, kunnen, ter   bevordering van een duurzame landbouw, sensibiliseringsacties worden   georganiseerd rond de thema's, vermeld in artikel 10, § 1, eerste   lid.<BR>
+Binnen de grenzen van de jaarlijks toegestane begrotingskredieten kunnen subsidies worden toegekend voor de organisatie van sensibiliseringsacties om een duurzame landbouw te bevorderen.<br>
+<br>
+Met betrekking tot de subsidies, vermeld in het eerste lid, kan de Vlaamse Regering bepalen:<br>
+1° wie in aanmerking komt voor subsidiëring;<br>
+2° dat de begunstigden erkend of geregistreerd moeten worden om voor subsidiëring in aanmerking te komen en aan welke voorwaarden ze in voorkomend geval moeten voldoen;<br>
+3° aan welke regels de sensibiliseringsacties moeten voldoen;<br>
+4° aan welke verplichtingen de begunstigden moeten voldoen;<br>
+5° onder welke voorwaarden de subsidie verleend wordt;<br>
+6° welke procedure gevolgd moet worden.
 
 ### ART. 17.
 
-<p>Een vereniging kan als centrum voor sensibilisering van duurzame landbouw worden erkend als ze aan de volgende voorwaarden voldoet :<br>
-1° ze is opgericht in de vorm van een vereniging zonder winstoogmerk met als statutair doel de organisatie van sensibiliseringsacties als vermeld in artikel 16;<br>
-2° ze stelt op eenvoudig verzoek alle gegevens ter beschikking die nodig zijn voor de controle op en de uitvoering van de activiteiten waarvoor ze erkend is;<br>
-3° ze heeft de nodige ervaring met de organisatie en uitvoering van sensibiliseringsactiviteiten als vermeld in artikel 16, of van sensibiliseringsactiviteiten in sectoren die verwant zijn met landbouw;<br>
-4° ze biedt alle waarborgen voor een adequate organisatie en planning van de sensibiliseringsacties, vermeld in artikel 16;<br>
-5° ze aanvaardt de administratieve en financiële controle van de Vlaamse overheid en de Europese Unie.</p>
-
-<p>De Vlaamse Regering kan nadere regels voor de voorwaarden, vermeld in het eerste lid, en aanvullende voorwaarden en regels voor de erkenning en de gevolgen van de erkenning bepalen.</p>
-
-<p>De erkenning kan worden geschorst of opgeheven als niet aan de voorwaarden, vermeld in het eerste lid, wordt voldaan. De Vlaamse Regering kan de regels voor de schorsing en de opheffing nader bepalen en kan ook nog andere gevallen bepalen die leiden tot schorsing of opheffing van de erkenning als centrum.</p>
-
-<p>De erkenning wordt geschorst als het centrum ook andere subsidiëring aanvraagt en krijgt voor activiteiten die worden gesubsidieerd ter uitvoering van deze afdeling.</p>
+<p>...</p>
 
 ### ART. 18.
 
-<P>Binnen de grenzen van de jaarlijks toegestane begrotingskredieten kunnen   subsidies worden toegekend voor de organisatie van de sensibiliseringsacties,   vermeld in artikel 16, als aan de voorwaarden, bepaald door de Vlaamse Regering,   is voldaan.<BR></P>  <P>Met betrekking tot de subsidies, vermeld in het eerste lid, kan de Vlaamse   Regering bepalen : <BR>1° wie in aanmerking komt voor subsidiëring; <BR>2° aan   welke regels de centra moeten voldoen; <BR>3° wat de aard en de kwaliteit is van   de sensibiliseringsacties.<BR></P>
+<p>...</p>
 
 ## Afdeling 5 Landbouweducatie
 
