@@ -35,7 +35,7 @@ Op voorstel van het advies van de VDAB kent de Vlaamse minister, bevoegd voor he
 
 ### ART 3.
 
-Het mandaat van de casemanager werk eindigt op 31 december 2023.<br>
+Het mandaat van de casemanager werk eindigt op 30 juni 2023.<br>
 &nbsp;
 
 ### ART 4.
