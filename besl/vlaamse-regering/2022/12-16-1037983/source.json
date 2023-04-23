@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037983,
+  "title": "Besluit van de Vlaamse Regering van 2022-12-16 tot toekenning van een subsidie in het kader van het Relanceplan ‘Vlaamse Veerkracht’ voor de restauratie van het Hof ter Walle in Beveren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037983/VolledigDocument?datum=2023-04-23",
+  "source_sha256": "efbe90b7a53501e84dca7f828104c736ff7d4975d11695fcdff42960bdd78c38",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037983&param=informatie",
+  "as_of": "2023-04-23",
+  "made": "2022-12-16",
+  "gazette": "2023-04-13",
+  "numac": 2023040346,
+  "document_start": "2023-04-23",
+  "document_end": null,
+  "in_force": "2023-04-23",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2023-04-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
