@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038001,
+  "title": "Ministerieel besluit van 2023-01-13 tot het verlenen van de voorafgaande vergunning voor een centrum voor dagverzorging",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038001/VolledigDocument?datum=2023-04-23",
+  "source_sha256": "b7fb61550def2d66baa5e75a2f821d2a1fe886499f1ab59c753b59e30ec068ed",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038001&param=informatie",
+  "as_of": "2023-04-23",
+  "made": "2023-01-13",
+  "gazette": "2023-04-13",
+  "numac": 2023040391,
+  "document_start": "2023-04-23",
+  "document_end": null,
+  "in_force": "2023-04-23",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2023-04-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
