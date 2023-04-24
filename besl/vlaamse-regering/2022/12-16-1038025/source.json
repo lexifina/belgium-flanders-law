@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038025,
+  "title": "Besluit van de Vlaamse Regering van 2022-12-16 over de bescherming van geografische aanduidingen van gedistilleerde dranken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038025/VolledigDocument?datum=2023-04-24",
+  "source_sha256": "4d293671e1d689f45ad702f55b955eede4b589c64d92c400a93436a4db3a5836",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038025&param=informatie",
+  "as_of": "2023-04-24",
+  "made": "2022-12-16",
+  "gazette": "2023-04-14",
+  "numac": 2023015193,
+  "document_start": "2023-04-24",
+  "document_end": "2026-02-25",
+  "in_force": "2023-04-24",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2023-04-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
