@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038306,
+  "title": "Decreet van 2023-04-28 tot wijziging van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid, wat de opheffing van de bepalingen over de tijdelijke afzondering in het kader van COVID-19 betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038306/VolledigDocument?datum=2023-04-26",
+  "source_sha256": "f3d7ef660ec8b2fa8542da86b93a22822cbc74c4423556903e88ddc6542d3e4b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038306&param=informatie",
+  "as_of": "2023-04-26",
+  "made": "2023-04-28",
+  "gazette": "2023-05-08",
+  "numac": 2023031073,
+  "document_start": "2023-04-26",
+  "document_end": null,
+  "in_force": "2023-04-26",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2023-04-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
