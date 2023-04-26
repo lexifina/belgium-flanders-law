@@ -343,7 +343,7 @@ De gemeentelijke en provinciale overheden, met uitzondering van de gemeenten van
 § 3. In elk geval neemt de Vlaamse regering het initiatief:<br>
 1° tot het bepalen van de door biotische factoren veroorzaakte infecties die gemeld moeten worden om maatregelen te kunnen nemen om uitbreiding van infecties tegen te gaan;<br>
 2° tot aanduiding van de ambtenaren-artsen die bevoegd zijn tot het nemen van maatregelen om uitbreiding van infecties tegen te gaan, onder voorbehoud van de verantwoordelijkheden van partnerorganisaties, organisaties met terreinwerking en individuele zorgaanbieders;<br>
-3° tot aanduiding van de ambtenaren die belast zijn met het toezicht op de naleving van artikel 44, § 2 en § 3, 2°, artikel 45, § 3, artikel 47, artikel 47/1 en artikel 48, onverminderd de bevoegdheden van de officieren van gerechtelijke politie.
+3° tot aanduiding van de ambtenaren die belast zijn met het toezicht op de naleving van artikel 44, § 2 en § 3, 2°, artikel 45, § 3, artikel 47 en artikel 48, onverminderd de bevoegdheden van de officieren van gerechtelijke politie.
 
 ### ART. 45.
 
@@ -387,29 +387,7 @@ De elementen, bedoeld in 1°, 2° en 5°, worden aan de betrokkene ook mondeling
 
 ### ART 47/1.
 
-§ 1. In afwijking van artikel 47, § 1, 1°, gaat iedere persoon van wie bewezen is dat hij besmet is met COVID-19 of van wie de arts een ernstig vermoeden heeft dat hij besmet is met COVID-19, onmiddellijk in tijdelijke afzondering, hetzij op zijn hoofdverblijfplaats, hetzij op een andere gepaste plaats.<br>
-<br>
-De Vlaamse Regering bepaalt de termijn van de tijdelijke afzondering, vermeld in het eerste lid, op basis van de wetenschappelijke inzichten over de besmettelijkheid van COVID-19.<br>
-<br>
-§ 2. [... (vernietigd bij&nbsp;<a href="https://www.const-court.be/public/n/2023/2023-026n.pdf">arrest Grondwettelijk Hof 2023/026 van 16 februari 2023</a>&nbsp;].<br>
-<br>
-§ 3. In afwijking van artikel 47, § 1, 1°, gaat iedere andere persoon dan de personen, vermeld in paragraaf 1 en 2, die&nbsp;na een contact met een persoon als vermeld in paragraaf 1, eerste lid, een verhoogd risico heeft op COVID-19, onmiddellijk in tijdelijke afzondering als hij op de hoogte is gebracht van het feit dat hij een verhoogd risico heeft op COVID-19, hetzij op zijn hoofdverblijfplaats, hetzij op een andere aangepaste plaats.<br>
-<br>
-De persoon, vermeld in het eerste lid, is verplicht om zich&nbsp;op een door de Vlaamse Regering bepaald moment nadat hij kennis heeft genomen van het feit dat hij een verhoogd risico heeft op COVID- 19, te melden bij een COVID-19-testcentrum, bij een triagecentrum of bij zijn behandelend arts, zodat hij een COVID-19-test kan ondergaan.&nbsp;De Vlaamse Regering kan bepalen of en wanneer die persoon zich opnieuw bij een COVID-19-testcentrum, bij een triagecentrum of bij zijn behandelend arts moet melden, zodat hij nog een COVID-19-test kan ondergaan.<br>
-<br>
-De Vlaamse Regering bepaalt:<br>
-1° de termijn van de tijdelijke afzondering, vermeld in het eerste lid, op basis van de wetenschappelijke inzichten over de incubatietijd van COVID-19;<br>
-2° de activiteiten waarvoor en de voorwaarden waaronder een tijdelijke opheffing van de tijdelijke afzondering, vermeld in het eerste lid, kan gelden. De Vlaamse Regering houdt daarbij rekening met het noodzakelijke karakter van de activiteit en het risico op een verdere verspreiding van COVID-19.<br>
-<br>
-De termijn van tijdelijke afzondering loopt af als uit een onderzoek blijkt dat de persoon geen gevaar vormt voor de volksgezondheid.<br>
-<br>
-De Vlaamse Regering bepaalt nader op welke manier de persoon, vermeld in het eerste lid, op de hoogte wordt gebracht van het feit dat hij een verhoogd risico heeft op COVID-19.<br>
-<br>
-Het verhoogde risico op COVID-19, vermeld in het eerste lid, wordt door de Vlaamse Regering vastgesteld op basis van de richtlijnen van de bevoegde federale dienst.<br>
-<br>
-In afwijking van het eerste lid kan de Vlaamse Regering bepalen dat er een vrijstelling geldt van de tijdelijke afzondering of van de verplichting om zich bij een COVID-19-testcentrum, triagecentrum of behandelend arts te melden, vermeld in het tweede lid, voor een persoon bij wie de kans op besmetting na een hoogrisicocontact laag wordt ingeschat. De Vlaamse Regering bepaalt de nadere regels van die afwijking en bepaalt de manier waarop de kans op besmetting wordt ingeschat.<br>
-<br>
-§ 4. In afwijking van paragraaf 2, eerste lid, en van paragraaf 3, eerste lid, kan de Vlaamse Regering op basis van wetenschappelijke inzichten bepalen dat de tijdelijke afzondering of de verplichting om zich bij een COVID-19-testcentrum, triagecentrum of behandelend arts te melden, vermeld in paragraaf 2, tweede lid, en in paragraaf 3, tweede lid, niet geldt voor personen die behoren tot een leeftijdscategorie die de Vlaamse Regering bepaalt. De Vlaamse Regering bepaalt ook de voorwaarden waaronder die afwijking geldt.
+...
 
 ### ART. 48.
 
@@ -417,7 +395,7 @@ Iedere betrokkene heeft de plicht de aangeduide ambtenaren-artsen, bedoeld in ar
 
 ### ART. 49.
 
-§ 1. Als de verplichtingen, vermeld in artikel 45, § 3, artikel 47, § 1, artikel 47/1, en artikel 48 niet worden nageleefd, zijn de aangeduide ambtenaren die met het toezicht belast zijn, onverminderd de bevoegdheden van de gemeenten conform artikel 135, § 2, van de Nieuwe Gemeentewet van 24 juni 1988,&nbsp;bevoegd om een proces-verbaal op te stellen. Hun processen-verbaal hebben bewijskracht tot het tegendeel bewezen is. Een afschrift van hun proces-verbaal wordt de betrokkene binnen vijf werkdagen aangetekend toegestuurd.<br>
+§ 1. Als de verplichtingen, vermeld in artikel 45, § 3, artikel 47, § 1 en artikel 48 niet worden nageleefd, zijn de aangeduide ambtenaren die met het toezicht belast zijn, onverminderd de bevoegdheden van de gemeenten conform artikel 135, § 2, van de Nieuwe Gemeentewet van 24 juni 1988,&nbsp;bevoegd om een proces-verbaal op te stellen. Hun processen-verbaal hebben bewijskracht tot het tegendeel bewezen is. Een afschrift van hun proces-verbaal wordt de betrokkene binnen vijf werkdagen aangetekend toegestuurd.<br>
 <br>
 § 2. Ten aanzien van natuurlijke personen zie zich bevinden op het grondgebied van het tweetalig gebied Brussel-Hoofdstad, zijn de artikelen 46 tot en met 49, § 1, enkel van toepassing op deze personen die vrijwillig beroep hebben gedaan op een voorziening die wegens haar organisatie beschouwd moet worden als uitsluitend ressorterend onder de bevoegdheid van Vlaamse Gemeenschap.
 
@@ -615,7 +593,7 @@ De maatregelen, genomen ter uitvoering van het decreet van 30 april 2004 tot opr
 ### ART. 79.
 
 Onverminderd de toepassing van de in het Strafwetboek gestelde straffen, worden gestraft met een geldboete van 26 tot 500 euro en met een gevangenisstraf van acht dagen tot zes maanden of met een van deze straffen alleen:<br>
-1° degenen die geen gevolg geven aan de dwangmaatregelen, vermeld in artikel 41, § 1, § 5 en § 6, artikel 47 en artikel 47/1, of die de uitvoering of naleving ervan verhinderen of belemmeren;<br>
+1° degenen die geen gevolg geven aan de dwangmaatregelen, vermeld in artikel 41, § 1, § 5 en § 6 en artikel 47, of die de uitvoering of naleving ervan verhinderen of belemmeren;<br>
 2° degenen die de toegang, bedoeld in artikel 41, § 3, en in artikel 46, 2°, verhinderen of belemmeren;<br>
 3° degenen die de uitoefening van de bevoegdheden van de ambtenaar verhinderen of belemmeren of die de ambtenaar verhinderen of belemmeren bij de uitvoering van artikel 41, § 4 en 46, 3°;<br>
 4° degenen die de beslissing na beroep, vermeld in artikel 81, § 3, niet uitvoeren of niet naleven, of die de uitvoering of de naleving ervan verhinderen of belemmeren.
