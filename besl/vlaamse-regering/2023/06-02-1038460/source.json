@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038460,
+  "title": "Besluit van de Vlaamse Regering van 2023-06-02 tot opheffing van het besluit van de Vlaamse Regering van 1 april 2022 over isolatie, quarantaine en testen bij COVID-19",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038460/VolledigDocument?datum=2023-04-26",
+  "source_sha256": "7a4e649fa133b75a4b7c60cd7683f80dc97e1d90976b27667f838da352f4d368",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038460&param=informatie",
+  "as_of": "2023-04-26",
+  "made": "2023-06-02",
+  "gazette": "2023-06-28",
+  "numac": 2023042797,
+  "document_start": "2023-04-26",
+  "document_end": null,
+  "in_force": "2023-04-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-04-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
