@@ -32,7 +32,19 @@ In dit besluit wordt verstaan onder :<BR>1° aanvraagdossier : het dossier   waa
 
 ### ART. 6.
 
-<P>Bij de toekenning van een subsidie voor de gebouwen van de erediensten en   voor de gebouwen voor de openbare uitoefening van de niet-confessionele morele   dienstverlening worden de aanvraagdossiers ingedeeld in de volgende categorieën,   in dalende volgorde van prioriteit :<BR>1° studies voor herbestemming en   nevenbestemming;<BR>2° aanpassingsinvesteringen voor nevenbestemmingen tot een   subsidiebedrag van 200.000 euro;<BR>3° renovatie;<BR>4° aankoop en verbouwing en   aanpassingsinvesteringen voor nevenbestemmingen vanaf een subsidiebedrag van   200.000 euro;<BR>5° nieuwbouw.<BR></P>  <P>Binnen elke categorie worden de aanvragen behandeld in volgorde van ontvangst   van de aanvraagdossiers. Binnen de categorie "renovatie" wordt dat algemene   principe evenwel gecombineerd met de volgende indeling, in dalende volgorde van   prioriteit :<BR>1° code A : werken om veiligheidsredenen en   bliksemafleiding;<BR>2° code B : elektriciteitswerken, dringende   instandhoudingswerken, vernieuwing van de centrale verwarming, werken   gecombineerd met andere, gelijktijdige, door de Vlaamse overheid gesubsidieerde   werken aan hetzelfde gebouw;<BR>3° code C : dakwerken, werken aan torens,   buitenschilderwerken, gefaseerde werken;<BR>4° code D : algemene restauratie,   glasramen, gevelwerken;<BR>5° code E : schilderwerken en   interieurherstel.<BR></P>
+<p>Bij de toekenning van een subsidie voor de gebouwen van de erediensten, voor de gewezen gebouwen van de erediensten en voor de gebouwen voor de openbare uitoefening van de niet-confessionele morele dienstverlening worden de aanvraagdossiers ingedeeld in de volgende categorieën, in dalende volgorde van prioriteit :<br>
+1° studies, opmetingsplannen en trajectbegeleiding voor herbestemming en nevenbestemming;<br>
+2° aanpassingsinvesteringen voor nevenbestemmingen en noodzakelijke basisinvesteringen voor herbestemmingen, beide tot een subsidiebedrag van maximaal 250.000 euro;<br>
+3° renovatie;<br>
+4° aankoop en verbouwing en aanpassingsinvesteringen voor nevenbestemmingen vanaf een subsidiebedrag van 250.000 euro;<br>
+5° nieuwbouw.</p>
+
+<p>Binnen elke categorie worden de aanvragen behandeld in volgorde van ontvangst van de aanvraagdossiers. Binnen de categorie "renovatie" wordt dat algemene principe evenwel gecombineerd met de volgende indeling, in dalende volgorde van prioriteit :<br>
+1° code A : werken om veiligheidsredenen en bliksemafleiding;<br>
+2° code B : elektriciteitswerken, dringende instandhoudingswerken, vernieuwing van de centrale verwarming, werken gecombineerd met andere, gelijktijdige, door de Vlaamse overheid gesubsidieerde werken aan hetzelfde gebouw;<br>
+3° code C : dakwerken, werken aan torens, buitenschilderwerken, gefaseerde werken;<br>
+4° code D : algemene restauratie, glasramen, gevelwerken;<br>
+5° code E : schilderwerken en interieurherstel.</p>
 
 ### ART. 7.
 
