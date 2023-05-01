@@ -29,7 +29,7 @@ b) de natuurlijke persoon, vermeld in artikel 3 van het koninklijk besluit nr. 3
 2) hij heeft zijn woonplaats op het grondgebied van een van de andere lidstaten van de Europese Unie (EU) of van de Europese Economische Ruimte (EER) en hij oefent zijn bedrijvigheid uit in een vestiging op het grondgebied van het Vlaamse Gewest of het Brusselse Hoofdstedelijke Gewest;<br>
 3) hij heeft zijn woonplaats op het grondgebied van het Waalse Gewest, maakt gebruik van zijn recht op vrij verkeer van werknemers of van de vrijheid van vestiging, zoals gewaarborgd door artikel 45 en 49 van het verdrag betreffende de werking van de Europese Unie, en oefent zijn bedrijvigheid uit in een vestiging op het grondgebied van het Vlaamse Gewest of het Brusselse Hoofdstedelijke Gewest;<br>
 8° stimuleringsfinanciering : de bijkomende financiële ondersteuning voor een gemandateerde onderneming met het oog op een hoger bereik van kansengroepen;<br>
-9° uitgiftebedrijf : de na mededinging aangewezen onderneming die belast is met de uitgifte en de uitbetaling van de loopbaancheques;<br>
+9° verstrekker: de onderneming die na mededinging wordt aangewezen, of bij gebrek daaraan de VDAB of een andere Vlaamse overheidsinstelling die door de raad van bestuur van de VDAB belast wordt met de uitgifte of de uitbetaling van de loopbaancheques;<br>
 10° VDAB : het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, opgericht bij artikel 3 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap « Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding »;<br>
 11° vergoeding : een financiële compensatie voor de uitvoering van de loopbaanbegeleiding.
 
@@ -133,7 +133,11 @@ De VDAB kan naast de bepalingen, vermeld in het eerste lid, 5°, aanvullende ric
 
 ### ART. 7.
 
-De professioneel actieve persoon vraagt een loopbaancheque aan bij de   VDAB.<BR><BR>De VDAB onderzoekt of de persoon voldoet aan de voorwaarden,   vermeld in artikel 3, § 1, tweede lid. De VDAB brengt het uitgiftebedrijf op de   hoogte van rechtmatige aanvragen. Het uitgiftebedrijf onderzoekt of de   professioneel actieve persoon de tegemoetkoming, vermeld in artikel 8, heeft   betaald en kent in voorkomend geval de loopbaancheque toe.<BR><BR>De minister   kan nadere voorwaarden bepalen op het vlak van de wijze van aanvraag,   kennisgeving en toekenning van de loopbaancheque.
+De professioneel actieve persoon vraagt een loopbaancheque aan bij de VDAB.<br>
+<br>
+De VDAB onderzoekt of de persoon voldoet aan de voorwaarden, vermeld in artikel 3, § 1, tweede lid. De VDAB brengt de verstrekker op de hoogte van rechtmatige aanvragen. De verstrekker onderzoekt of de professioneel actieve persoon de tegemoetkoming, vermeld in artikel 8, heeft betaald en kent in voorkomend geval de loopbaancheque toe.<br>
+<br>
+De minister kan nadere voorwaarden bepalen op het vlak van de wijze van aanvraag, kennisgeving en toekenning van de loopbaancheque.
 
 ### ART. 8.
 
@@ -141,11 +145,15 @@ De professioneel actieve persoon, of een door hem aangestelde derde,   betaalt e
 
 ### ART. 9.
 
-De loopbaancheque vermeldt de naam van de titularis, is niet overdraagbaar   en heeft een geldigheidsduur van maximaal drie maanden vanaf de datum van   uitgifte.<BR><BR>Bij verval van de geldigheidsduur van de loopbaancheque betaalt   het uitgiftebedrijf de eigen bijdrage van de professioneel actieve persoon,   vermeld in artikel 8, terug. Een vervallen loopbaancheque ontzegt de   niet-begeleide professioneel actieve persoon niet de mogelijkheid om een nieuwe   loopbaancheque aan te vragen overeenkomstig de voorwaarden van dit   besluit.
+De loopbaancheque vermeldt de naam van de titularis, is niet overdraagbaar en heeft een geldigheidsduur van maximaal drie maanden vanaf de datum van uitgifte.<br>
+<br>
+Bij verval van de geldigheidsduur van de loopbaancheque betaalt de verstrekker de eigen bijdrage van de professioneel actieve persoon, vermeld in artikel 8, terug. Een vervallen loopbaancheque ontzegt de niet-begeleide professioneel actieve persoon niet de mogelijkheid om een nieuwe loopbaancheque aan te vragen overeenkomstig de voorwaarden van dit besluit.
 
 ### ART. 10.
 
-Na registratie van de geleverde loopbaanbegeleiding bezorgt de   gemandateerde onderneming de loopbaancheque ter betaling aan het   uitgiftebedrijf.<BR><BR>De loopbaancheque wordt door de gemandateerde   onderneming uiterlijk negen maanden na de datum van uitgifte ter betaling   aangeboden.
+Na registratie van de geleverde loopbaanbegeleiding bezorgt de gemandateerde onderneming de loopbaancheque ter betaling aan de verstrekker.<br>
+<br>
+De loopbaancheque wordt door de gemandateerde onderneming uiterlijk negen maanden na de datum van uitgifte ter betaling aangeboden.
 
 ## HOOFDSTUK 6. Vergoeding
 
