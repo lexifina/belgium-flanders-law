@@ -1392,13 +1392,13 @@ De Vlaamse Regering bepaalt de procedure voor de aanstelling van de centrale org
 
 ## [Hoofdstuk 12. Netwerk Islamexperten (ing. decr. 5 april 2019, art. 141, I: 1 mei 2019)]
 
-### ART IV. 52.
+### ART IV. 53/1.
 
-Binnen de beschikbare kredieten subsidieert de Vlaamse Regering jaarlijks de door het Executief van de Moslims van België erkende vzw die optreedt als erkende instantie van het islamitische godsdienstonderwijs in de Vlaamse Gemeenschap.<br>
+Binnen de beschikbare kredieten subsidieert de Vlaamse Regering jaarlijks een vzw voor de organisatie van het Onderwijsnetwerk Islamexperten.<br>
 <br>
-De subsidie strekt ertoe om de loonkost van de medewerkers in kwestie en de werkingskost van het ingediende project te dekken. Dat project moet activiteiten omvatten op het vlak van levensbeschouwelijke diversiteit, polarisering, radicalisering en extremisme binnen de werking van onderwijsinstellingen, vormingscentra en centra voor leerlingenbegeleiding die door de Vlaamse Gemeenschap zijn erkend.<br>
+De subsidie, vermeld in het eerste lid, heeft als doel om de loonkosten van de medewerkers in kwestie en de werkingskosten van het ingediende project te dekken. Het ingediende project omvat activiteiten op het vlak van levensbeschouwelijke diversiteit, polarisering, radicalisering en extremisme binnen de werking van onderwijsinstellingen, vormingscentra en centra voor leerlingenbegeleiding die door de Vlaamse Gemeenschap zijn erkend.<br>
 <br>
-De Vlaamse Regering sluit met vermelde vzw een beheersovereenkomst telkens voor maximaal vier jaren waarin opzet en doelstellingen, invulling, evaluatie en aanwending van de subsidie nader zijn omschreven.
+De Vlaamse Regering sluit met de gekozen vzw een beheersovereenkomst voor telkens maximaal vier jaar, waarin de opzet en de doelstellingen, de invulling, de evaluatie en de aanwending van de subsidie nader zijn omschreven. De Vlaamse Regering motiveert bij elke nieuwe beheersovereenkomst haar keuze voor de specifieke vzw aan wie ze de subsidies toekent.
 
 ## [Hoofdstuk 13. Verbetering van de arbeidsvoorwaarden en arbeidsomstandigheden voor MVDP+ (ing. decr. 5 april 2019, art. 43, I: 1 september 2021)]
 

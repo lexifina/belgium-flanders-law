@@ -2,16 +2,16 @@
   "codex_id": 1027707,
   "title": "Gecodificeerd Decreet van 2016-10-28 sommige bepalingen voor het onderwijs",
   "type": "Gecodificeerd Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027707/VolledigDocument?datum=2022-09-01",
-  "source_sha256": "f6e1c292d17d1e53ab87832df9d85f1d4b36d49eaa56ea7c51d728de60eb341e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027707/VolledigDocument?datum=2023-05-01",
+  "source_sha256": "71c0f07f930ff9ab673dd61d9257ce065b7a31b54527a197c7ea5cee16265f3c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027707&param=informatie",
-  "as_of": "2022-09-01",
+  "as_of": "2023-05-01",
   "made": "2016-10-28",
   "gazette": "2016-12-29",
   "numac": 2016036660,
   "document_start": "2017-01-01",
   "document_end": null,
-  "in_force": "2022-09-01",
+  "in_force": "2023-05-01",
   "article_versions": 309,
-  "record_form": "consolidated version as in force on 2022-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-05-01; future article versions excluded; article text as the API gives it"
 }
