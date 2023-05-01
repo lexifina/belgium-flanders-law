@@ -183,7 +183,648 @@ De Vlaamse Regering kan de bevoegde instantie belasten met het begeleiden van de
 
 ### ART. 37bis.
 
-§ 1. Voor de toepassing van dit artikel wordt verstaan onder :<br />1° VBS-vergoeding : de VBS-retributie, vermeld in artikel 37;<br />2° tariefgebied : het gebied waarbinnen verkeersbegeleiding verstrekt wordt;<br />3° lengte : de lengte over alles.<br /><br />§ 2. Een VBS-vergoeding is verschuldigd voor ieder vaartuig dat uit zee komt, met als bestemming een Vlaamse haven die in het verkeersbegeleidingssysteem is ingeschakeld; ze geldt als vergoeding voor in- en uitvaart.<br /><br />Als het vaartuig gedurende één kalenderdag meer dan eenmaal het tariefgebied binnenvaart, is het tarief maar eenmaal verschuldigd.<br /><br />De VBS-vergoeding is niet verschuldigd bij scheepvaartverkeer tussen Vlaamse havens.<br /><br />§ 3. Voor de volgende categorieën van vaartuigen is geen vergoeding verschuldigd :<br />1° binnenschepen;<br />2° schepen tot 46 m lengte;<br />3° schepen in eigendom van of in beheer bij het Rijk of een gewest;<br />4° vaartuigen voor het winnen of vervoeren van zand, baggerspecie of grind, maar alleen als ze daartoe worden gebruikt ter uitvoering van werkzaamheden in opdracht van de vaarweg- of waterbeheerder;<br />5° vaartuigen in dienst van het loodswezen van Nederland en Vlaanderen.<br /><br />§ 4. De Vlaamse minister bevoegd voor het vervoer, kan aan een vaartuig vrijstelling van VBS-vergoeding verlenen als het deelneemt aan een bijzondere manifestatie of werkzaamheden verricht in het algemeen belang.<br /><br />§ 5. Het bedrag van de verschuldigde VBS-vergoeding wordt overeenkomstig het tarief opgenomen in de onderstaande tabel, vastgesteld op grond van de lengte van het vaartuig.<br /><br />In het geval van gesleepte vaart is de VBS-vergoeding verschuldigd voor de sleepboot en het gesleepte vaartuig afzonderlijk, op grond van hun respectievelijke lengte.<br /> <html xmlns:v=&quote;urn:schemas-microsoft-com:vml&quote;xmlns:o=&quote;urn:schemas-microsoft-com:office:office&quote;xmlns:w=&quote;urn:schemas-microsoft-com:office:word&quote;xmlns=&quote;http://www.w3.org/TR/REC-html40&quote;><head><meta http-equiv=Content-Type content=&quote;text/html; charset=windows-1252&quote;><meta name=ProgId content=Word.Document><meta name=Generator content=&quote;Microsoft Word 11&quote;><meta name=Originator content=&quote;Microsoft Word 11&quote;><link rel=File-List href=&quote;20081219-m14-art6_bestanden/filelist.xml&quote;><title>Lengte </title><!--[if gte mso 9]><xml> <o:DocumentProperties>  <o:Author>deschrmb</o:Author>  <o:Template>Normal</o:Template>  <o:LastAuthor>Vankeech</o:LastAuthor>  <o:Revision>2</o:Revision>  <o:TotalTime>1</o:TotalTime>  <o:Created>2009-03-10T08:58:00Z</o:Created>  <o:LastSaved>2009-04-01T06:46:00Z</o:LastSaved>  <o:Pages>1</o:Pages>  <o:Words>406</o:Words>  <o:Characters>2233</o:Characters>  <o:Company>MVG</o:Company>  <o:Lines>18</o:Lines>  <o:Paragraphs>5</o:Paragraphs>  <o:CharactersWithSpaces>2634</o:CharactersWithSpaces>  <o:Version>11.6360</o:Version> </o:DocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml> <w:WordDocument>  <w:SpellingState>Clean</w:SpellingState>  <w:GrammarState>Clean</w:GrammarState>  <w:HyphenationZone>21</w:HyphenationZone>  <w:PunctuationKerning/>  <w:ValidateAgainstSchemas/>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>  <w:Compatibility>   <w:BreakWrappedTables/>   <w:SnapToGridInCell/>   <w:WrapTextWithPunct/>   <w:UseAsianBreakRules/>   <w:DontGrowAutofit/>  </w:Compatibility>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> </w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml> <w:LatentStyles DefLockedState=&quote;false&quote; LatentStyleCount=&quote;156&quote;> </w:LatentStyles></xml><![endif]--><style><!-- /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal	&lftaco;mso-style-parent:&quote;&quote;;	margin:0cm;	margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:12.0pt;	font-family:&quote;Times New Roman&quote;;	mso-fareast-font-family:&quote;Times New Roman&quote;;&rgtaco;span.SpellE	&lftaco;mso-style-name:&quote;&quote;;	mso-spl-e:yes;&rgtaco;span.GramE	&lftaco;mso-style-name:&quote;&quote;;	mso-gram-e:yes;&rgtaco;@page Section1	&lftaco;size:595.3pt 841.9pt;	margin:70.85pt 70.85pt 70.85pt 70.85pt;	mso-header-margin:35.4pt;	mso-footer-margin:35.4pt;	mso-paper-source:0;&rgtaco;div.Section1	&lftaco;page:Section1;&rgtaco;--></style><!--[if gte mso 10]><style> /* Style Definitions */ table.MsoNormalTable	&lftaco;mso-style-name:Standaardtabel;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-parent:&quote;&quote;;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:&quote;Times New Roman&quote;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;</style><![endif]--><!--[if gte mso 9]><xml> <o:shapedefaults v:ext=&quote;edit&quote; spidmax=&quote;3074&quote;/></xml><![endif]--><!--[if gte mso 9]><xml> <o:shapelayout v:ext=&quote;edit&quote;>  <o:idmap v:ext=&quote;edit&quote; data=&quote;1&quote;/> </o:shapelayout></xml><![endif]--></head><body lang=NL style='tab-interval:35.4pt'><div class=Section1><table class=MsoNormalTable border=1 cellpadding=0 style='mso-cellspacing:1.5pt; mso-padding-alt:0cm 5.4pt 0cm 5.4pt'> <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>Lengte </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>Bedrag van de <span class=SpellE>VBS-vergoeding</span> in euro  </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>Lengte </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>Bedrag van de <span class=SpellE>VBS-vergoeding</span> in euro  </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>Lengte </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>Bedrag van de <span class=SpellE>VBS-vergoeding</span> in <span  class=GramE>euro <span style='mso-spacerun:yes'> </span></span></p>  </td> </tr> <tr style='mso-yfti-irow:1'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>46 t/m 60 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>35 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>100 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>105 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>140 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>174</p>  </td> </tr> <tr style='mso-yfti-irow:2'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>61 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>37 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>101 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>106 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>141 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>176</p>  </td> </tr> <tr style='mso-yfti-irow:3'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>62 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>39 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>102 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>108 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>142 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>177</p>  </td> </tr> <tr style='mso-yfti-irow:4'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>63 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>40 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>103 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>110 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>143 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>179</p>  </td> </tr> <tr style='mso-yfti-irow:5'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>64 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>42 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>104 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>112 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>144 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>181</p>  </td> </tr> <tr style='mso-yfti-irow:6'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>65 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>44 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>105 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>113 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>145 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>183</p>  </td> </tr> <tr style='mso-yfti-irow:7'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>66 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>46 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>106 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>115 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>146 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>184</p>  </td> </tr> <tr style='mso-yfti-irow:8'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>67 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>47 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>107 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>117 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>147 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>186</p>  </td> </tr> <tr style='mso-yfti-irow:9'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>68 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>49 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>108 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>118 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>148 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>188</p>  </td> </tr> <tr style='mso-yfti-irow:10'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>69 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>51 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>109 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>120 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>149 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>190</p>  </td> </tr> <tr style='mso-yfti-irow:11'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>70 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>53 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>110 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>122 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>150 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>191</p>  </td> </tr> <tr style='mso-yfti-irow:12'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>71 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>54 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>111 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>124 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>151 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>193</p>  </td> </tr> <tr style='mso-yfti-irow:13'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>72 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>56 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>112 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>125 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>152 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>195</p>  </td> </tr> <tr style='mso-yfti-irow:14'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>73 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>58 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>113 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>127 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>153 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>197</p>  </td> </tr> <tr style='mso-yfti-irow:15'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>74 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>59 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>114 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>129 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>154 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>198</p>  </td> </tr> <tr style='mso-yfti-irow:16'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>75 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>61 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>115 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>131 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>155 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>200</p>  </td> </tr> <tr style='mso-yfti-irow:17'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>76 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>63 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>116 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>132 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>156 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>202</p>  </td> </tr> <tr style='mso-yfti-irow:18'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>77 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>65 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>117 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>134 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>157 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>204</p>  </td> </tr> <tr style='mso-yfti-irow:19'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>78 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>66 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>118 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>136 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>158 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>205</p>  </td> </tr> <tr style='mso-yfti-irow:20'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>79 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>68 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>119 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>138 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>159 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>207</p>  </td> </tr> <tr style='mso-yfti-irow:21'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>80 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>70 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>120 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>139 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>160 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>209</p>  </td> </tr> <tr style='mso-yfti-irow:22'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>81 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>72 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>121 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>141 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>161 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>210</p>  </td> </tr> <tr style='mso-yfti-irow:23'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>82 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>73 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>122 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>143 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>162 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>212</p>  </td> </tr> <tr style='mso-yfti-irow:24'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>83 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>75 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>123 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>145 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>163 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>214</p>  </td> </tr> <tr style='mso-yfti-irow:25'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>84 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>77 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>124 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>146 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>164 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>216</p>  </td> </tr> <tr style='mso-yfti-irow:26'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>85 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>79 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>125 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>148 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>165 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>217</p>  </td> </tr> <tr style='mso-yfti-irow:27'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>86 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>80 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>126 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>150 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>166 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>219</p>  </td> </tr> <tr style='mso-yfti-irow:28'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>87 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>82 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>127 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>151 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>167 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>221</p>  </td> </tr> <tr style='mso-yfti-irow:29'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>88 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>84 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>128 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>153 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>168 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>223</p>  </td> </tr> <tr style='mso-yfti-irow:30'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>89 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>86 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>129 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>155 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>169 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>224</p>  </td> </tr> <tr style='mso-yfti-irow:31'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>90 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>87 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>130 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>157 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>170 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>226</p>  </td> </tr> <tr style='mso-yfti-irow:32'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>91 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>89 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>131 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>158 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>171 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>228</p>  </td> </tr> <tr style='mso-yfti-irow:33'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>92 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>91 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>132 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>160 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>172 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>230</p>  </td> </tr> <tr style='mso-yfti-irow:34'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>93 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>92 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>133 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>162 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>173 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>231</p>  </td> </tr> <tr style='mso-yfti-irow:35'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>94 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>94 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>134 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>164 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>174 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>233</p>  </td> </tr> <tr style='mso-yfti-irow:36'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>95 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>96 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>135 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>165 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>175 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>235</p>  </td> </tr> <tr style='mso-yfti-irow:37'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>96 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>98 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>136 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>167 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>176 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>236</p>  </td> </tr> <tr style='mso-yfti-irow:38'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>97 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>99 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>137 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>169 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>177 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>238</p>  </td> </tr> <tr style='mso-yfti-irow:39'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>98 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>101 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>138 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>171 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>178 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>240</p>  </td> </tr> <tr style='mso-yfti-irow:40;mso-yfti-lastrow:yes'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>99 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>103 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>139 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>172 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>179 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>242</p>  </td> </tr></table><p class=MsoNormal><o:p>&nbsp;</o:p></p><table class=MsoNormalTable border=1 cellpadding=0 style='mso-cellspacing:1.5pt; mso-padding-alt:0cm 5.4pt 0cm 5.4pt'> <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>Lengte </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>Bedrag van de <span class=SpellE>VBS-vergoeding</span> in euro  </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>Lengte </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>Bedrag van de <span class=SpellE>VBS-vergoeding</span> in euro  </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>Lengte </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>Bedrag van de <span class=SpellE>VBS-vergoeding</span> in euro</p>  </td> </tr> <tr style='mso-yfti-irow:1'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>180 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>243 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>220 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>313 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>260 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>382</p>  </td> </tr> <tr style='mso-yfti-irow:2'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>181 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>245 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>221 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>315 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>261 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>384</p>  </td> </tr> <tr style='mso-yfti-irow:3'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>182 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>247 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>222 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>316 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>262 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>386</p>  </td> </tr> <tr style='mso-yfti-irow:4'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>183 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>249 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>223 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>318 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>263 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>387</p>  </td> </tr> <tr style='mso-yfti-irow:5'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>184 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>250 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>224 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>320 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>264 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>389</p>  </td> </tr> <tr style='mso-yfti-irow:6'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>185 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>252 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>225 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>322 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>265 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>391</p>  </td> </tr> <tr style='mso-yfti-irow:7'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>186 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>254 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>226 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>323 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>266 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>393</p>  </td> </tr> <tr style='mso-yfti-irow:8'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>187 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>256 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>227 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>325 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>267 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>394</p>  </td> </tr> <tr style='mso-yfti-irow:9'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>188 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>257 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>228 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>327 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>268 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>396</p>  </td> </tr> <tr style='mso-yfti-irow:10'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>189 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>259 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>229 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>328 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>269 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>398</p>  </td> </tr> <tr style='mso-yfti-irow:11'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>190 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>261 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>230 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>330 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>270 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>400</p>  </td> </tr> <tr style='mso-yfti-irow:12'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>191 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>263 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>231 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>332 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>271 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>401</p>  </td> </tr> <tr style='mso-yfti-irow:13'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>192 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>264 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>232 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>334 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>272 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>403</p>  </td> </tr> <tr style='mso-yfti-irow:14'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>193 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>266 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>233 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>335 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>273 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>405</p>  </td> </tr> <tr style='mso-yfti-irow:15'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>194 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>268 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>234 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>337 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>274 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>407</p>  </td> </tr> <tr style='mso-yfti-irow:16'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>195 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>269 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>235 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>339 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>275 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>408</p>  </td> </tr> <tr style='mso-yfti-irow:17'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>196 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>271 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>236 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>341 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>276 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>410</p>  </td> </tr> <tr style='mso-yfti-irow:18'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>197 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>273 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>237 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>342 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>277 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>412</p>  </td> </tr> <tr style='mso-yfti-irow:19'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>198 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>275 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>238 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>344 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>278 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>413</p>  </td> </tr> <tr style='mso-yfti-irow:20'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>199 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>276 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>239 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>346 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>279 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>415</p>  </td> </tr> <tr style='mso-yfti-irow:21'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>200 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>278 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>240 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>348 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>280 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>417</p>  </td> </tr> <tr style='mso-yfti-irow:22'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>201 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>280 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>241 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>349 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>281 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>419</p>  </td> </tr> <tr style='mso-yfti-irow:23'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>202 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>282 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>242 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>351 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>282 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>420</p>  </td> </tr> <tr style='mso-yfti-irow:24'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>203 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>283 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>243 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>353 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>283 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>422</p>  </td> </tr> <tr style='mso-yfti-irow:25'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>204 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>285 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>244 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>354 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>284 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>424</p>  </td> </tr> <tr style='mso-yfti-irow:26'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>205 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>287 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>245 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>356 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>285 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>426</p>  </td> </tr> <tr style='mso-yfti-irow:27'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>206 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>289 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>246 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>358 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>286 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>427</p>  </td> </tr> <tr style='mso-yfti-irow:28'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>207 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>290 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>247 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>360 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>287 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>429</p>  </td> </tr> <tr style='mso-yfti-irow:29'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>208 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>292 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>248 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>361 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>288 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>431</p>  </td> </tr> <tr style='mso-yfti-irow:30'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>209 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>294 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>249 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>363 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>289 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>433</p>  </td> </tr> <tr style='mso-yfti-irow:31'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>210 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>295 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>250 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>365 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>290 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>434</p>  </td> </tr> <tr style='mso-yfti-irow:32'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>211 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>297 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>251 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>367 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>291 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>436</p>  </td> </tr> <tr style='mso-yfti-irow:33'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>212 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>299 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>252 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>368 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>292 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>438</p>  </td> </tr> <tr style='mso-yfti-irow:34'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>213 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>301 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>253 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>370 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>293 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>440</p>  </td> </tr> <tr style='mso-yfti-irow:35'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>214 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>302 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>254 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>372 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>294 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>441</p>  </td> </tr> <tr style='mso-yfti-irow:36'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>215 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>304 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>255 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>374 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>295 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>443</p>  </td> </tr> <tr style='mso-yfti-irow:37'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>216 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>306 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>256 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>375 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>296 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>445</p>  </td> </tr> <tr style='mso-yfti-irow:38'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>217 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>308 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>257 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>377 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>297 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>446</p>  </td> </tr> <tr style='mso-yfti-irow:39'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>218 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>309 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>258 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>379 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>298 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>448</p>  </td> </tr> <tr style='mso-yfti-irow:40'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>219 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>311 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>259 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>381 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>299 </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>450</p>  </td> </tr> <tr style='mso-yfti-irow:41;mso-yfti-lastrow:yes'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>&nbsp; </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>&nbsp; </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>&nbsp; </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>&nbsp; </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>300 en meer </p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal>452</p>  </td> </tr></table><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html> <br /><br />§ 6. De VBS-vergoeding is betaalbaar op de rekening, geopend op naam van Loodswezen Locatie Antwerpen.
+§ 1. Voor de toepassing van dit artikel wordt verstaan onder :<br>
+1° VBS-vergoeding : de VBS-retributie, vermeld in artikel 37;<br>
+2° tariefgebied : het gebied waarbinnen verkeersbegeleiding verstrekt wordt;<br>
+3° lengte : de lengte over alles.<br>
+<br>
+§ 2. Een VBS-vergoeding is verschuldigd voor ieder vaartuig dat uit zee komt, met als bestemming een Vlaamse haven die in het verkeersbegeleidingssysteem is ingeschakeld; ze geldt als vergoeding voor in- en uitvaart.<br>
+<br>
+Als het vaartuig gedurende één kalenderdag meer dan eenmaal het tariefgebied binnenvaart, is het tarief maar eenmaal verschuldigd.<br>
+<br>
+De VBS-vergoeding is niet verschuldigd bij scheepvaartverkeer tussen Vlaamse havens.<br>
+<br>
+§ 3. Voor de volgende categorieën van vaartuigen is geen vergoeding verschuldigd :<br>
+1° binnenschepen;<br>
+2° schepen tot 41 m lengte;<br>
+3° schepen in eigendom van of in beheer bij het Rijk of een gewest;<br>
+4° vaartuigen voor het winnen of vervoeren van zand, baggerspecie of grind, maar alleen als ze daartoe worden gebruikt ter uitvoering van werkzaamheden in opdracht van de vaarweg- of waterbeheerder;<br>
+5° vaartuigen in dienst van het loodswezen van Nederland en Vlaanderen.<br>
+<br>
+§ 4. De Vlaamse minister bevoegd voor het vervoer, kan aan een vaartuig vrijstelling van VBS-vergoeding verlenen als het deelneemt aan een bijzondere manifestatie of werkzaamheden verricht in het algemeen belang.<br>
+<br>
+§ 5. Het bedrag van de verschuldigde VBS-vergoeding wordt overeenkomstig het tarief opgenomen in de onderstaande tabel, vastgesteld op grond van de lengte van het vaartuig.<br>
+<br>
+In het geval van gesleepte vaart is de VBS-vergoeding verschuldigd voor de sleepboot en het gesleepte vaartuig afzonderlijk, op grond van hun respectievelijke lengte.<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:514px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:9px; vertical-align:top; width:208px">Lengte in meter</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; height:9px; vertical-align:top; width:306px">Bedrag van de VBS-vergoeding in euro</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">41 t/m 100</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">113,45</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">101</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">121,16</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">102</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">128,87</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">103</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">136,58</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">104</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">144,29</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">105</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">152,00</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">106</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">159,71</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">107</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">167,42</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">108</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">175,13</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">109</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">182,84</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">110</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">190,55</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">111</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">198,26</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">112</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">205,97</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">113</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">213,68</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">114</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">221,39</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">115</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">229,10</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">116</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">236,81</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">117</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">244,52</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">118</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">252,23</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">119</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">259,94</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">120</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">267,65</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">121</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">275,36</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">122</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">283,07</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">123</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">290,78</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">124</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">298,49</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">125</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">306,20</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">126</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">313,91</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">127</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">321,62</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">128</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">329,33</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">129</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">337,04</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">130</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">344,75</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">131</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">352,46</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">132</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">360,17</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">133</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">367,88</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">134</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">375,59</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">135</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">383,30</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">136</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">391,01</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">137</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">398,72</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">138</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">406,43</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">139</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">414,14</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">140</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">421,85</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">141</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">429,56</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">142</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">437,27</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">143</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">444,98</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">144</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">452,69</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">145</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">460,40</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">146</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">468,11</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">147</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">475,82</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">148</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">483,53</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">149</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">491,24</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">150</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">498,95</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">151</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">506,66</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">152</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">514,37</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">153</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">522,08</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">154</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">529,79</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">155</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">537,50</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">156</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">545,21</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">157</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">552,92</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">158</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">560,63</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">159</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">568,34</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">160</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">576,05</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">161</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">583,76</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">162</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">591,47</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">163</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">599,18</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">164</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">606,89</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">165</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">614,60</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">166</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">622,31</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">167</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">630,02</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">168</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">637,73</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">169</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">645,44</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">170</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">653,15</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">171</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">660,86</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">172</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">668,57</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">173</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">676,28</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">174</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">683,99</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">175</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">691,70</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">176</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">699,41</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">177</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">707,12</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">178</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">714,83</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">179</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">722,54</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">180</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">730,25</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">181</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">737,96</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">182</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">745,67</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">183</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">753,38</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">184</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">761,09</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">185</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">768,80</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">186</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">776,51</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">187</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">784,22</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">188</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">791,93</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">189</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">799,64</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">190</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">807,35</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">191</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">815,06</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">192</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">822,77</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">193</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">830,48</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">194</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">838,19</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">195</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">845,90</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">196</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">853,61</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">197</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">861,32</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">198</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">869,03</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">199</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">876,74</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">200</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">884,45</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">201</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">892,16</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">202</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">899,87</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">203</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">907,58</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">204</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">915,29</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">205</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">923,00</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">206</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">930,71</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">207</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">938,42</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">208</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">946,13</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">209</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">953,84</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">210</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">961,55</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">211</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">969,26</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">212</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">976,97</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">213</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">984,68</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">214</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">992,39</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">215</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.000,10</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">216</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.007,81</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">217</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.015,52</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">218</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.023,23</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">219</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.030,94</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">220</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.038,65</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">221</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.046,36</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">222</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.054,07</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">223</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.061,78</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">224</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.069,49</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">225</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.077,20</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">226</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.084,91</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">227</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.092,62</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">228</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.100,33</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">229</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.108,04</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">230</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.115,75</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">231</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.123,46</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">232</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.131,17</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">233</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.138,88</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">234</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.146,59</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">235</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.154,30</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">236</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.162,01</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">237</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.169,72</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">238</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.177,43</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">239</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.185,14</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">240</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.192,85</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">241</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.200,56</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">242</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.208,27</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">243</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.215,98</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">244</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.223,69</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">245</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.231,40</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">246</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.239,11</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">247</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.246,82</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">248</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.254,53</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">249</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.262,24</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:208px">250<br>
+			en meer</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:9px; vertical-align:top; width:306px">1.269,95</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<p>De VBS-vergoeding wordt jaarlijks op 1 augustus automatisch geïndexeerd overeenkomstig de Belgische consumptieprijsindex in functie van het indexcijfer van de maand mei van het hetzelfde jaar ten opzichte van het indexcijfer van de maand van bekendmaking van het betrokken tarief. Het verkregen resultaat wordt afgerond tot de hogere euro.</p>
+<br>
+§ 6. De VBS-vergoeding is betaalbaar op de rekening, geopend op naam van Loodswezen Locatie Antwerpen.
 
 ### ART. 38.
 
