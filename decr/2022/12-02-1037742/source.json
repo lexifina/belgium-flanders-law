@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037742,
+  "title": "Decreet van 2022-12-02 over de overname van de personeelsleden van het Agentschap Integratie en Inburgering door het agentschap Facilitair Bedrijf",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037742/VolledigDocument?datum=2023-05-01",
+  "source_sha256": "99cb299d6ac4283fe5eb544a5a7fae9ddbdfc68f4269bc7f2aa4e25f03433899",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037742&param=informatie",
+  "as_of": "2023-05-01",
+  "made": "2022-12-02",
+  "gazette": "2023-01-13",
+  "numac": 2022042986,
+  "document_start": "2023-05-01",
+  "document_end": null,
+  "in_force": "2023-05-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
