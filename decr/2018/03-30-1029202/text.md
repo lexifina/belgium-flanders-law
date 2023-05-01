@@ -39,7 +39,4 @@ Als de Vlaamse Regering binnen een termijn van twintig vrije dagen, die ingaat o
 
 ### ART 5.
 
-Zolang de holdingvennootschap met toepassing van artikel 4 van dit decreet deelneemt in North Sea Port Flanders, kunnen de statuten van North Sea Port Flanders, in afwijking van artikel 5, § 3, eerste lid, van het Havendecreet, bepalen dat North Sea Port Flanders enkel bestuurd wordt door een raad van bestuur. De statuten kunnen in dat geval ook bepalen dat, in afwijking van artikel 518, § 1, eerste lid, van het Wetboek van Vennootschappen, de raad van bestuur van de naamloze vennootschap van publiek recht North Sea Port Flanders uit minder dan drie leden bestaat.<br>
-<br>
-Zolang de holdingvennootschap met toepassing van artikel 4 van dit decreet deelneemt in North Sea Port Flanders en de raad van bestuur of, in voorkomend geval, het toezichthoudend orgaan van die holdingvennootschap ten hoogste voor twee derde uit leden van hetzelfde geslacht bestaat, is artikel 5, § 3, vierde lid, van het Havendecreet niet van toepassing op de raad van bestuur van North Sea Port Flanders. Deze bepaling houdt op uitwerking te hebben op 1 januari 2022.<br>
-&nbsp;
+Zolang de holdingvennootschap met toepassing van artikel 4 van dit decreet deelneemt in North Sea Port Flanders en de raad van bestuur of, in voorkomend geval, het toezichthoudend orgaan van die holdingvennootschap ten hoogste voor twee derde uit leden van hetzelfde geslacht bestaat, is artikel 5, §3, van het Havendecreet niet van toepassing op de raad van bestuur van North Sea Port Flanders.
