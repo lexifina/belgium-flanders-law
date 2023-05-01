@@ -2,16 +2,16 @@
   "codex_id": 1036910,
   "title": "Besluit van de Vlaamse Regering van 2022-03-25 tot bepaling van de huurprijs voor de tijdelijke huisvesting van gezinnen of alleenstaanden die dakloos zijn of dreigen te worden naar aanleiding van de oorlog in Oekraïne, tot wijziging van het besluit van de Vlaamse Regering van 18 maart 2022 tot regeling van de tijdelijke huisvesting van gezinnen of alleenstaanden die dakloos zijn of dreigen te worden naar aanleiding van de oorlog in Oekraïne en tot opheffing van besluit van de Vlaamse Regering van 14 maart 2022 tot regeling van de tijdelijke huisvesting van gezinnen of alleenstaanden die dakloos zijn of dreigen te worden naar aanleiding van de oorlog in Oekraïne",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036910/VolledigDocument?datum=2022-04-14",
-  "source_sha256": "8583caf4498932cadccf9aa052a6371780aad01353c462bbcd2f04f66c67169f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036910/VolledigDocument?datum=2023-05-01",
+  "source_sha256": "c02c438a577e85a06c3d3840710a483494eced8c9c168f4e04a7dab2d0922789",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036910&param=informatie",
-  "as_of": "2022-04-14",
+  "as_of": "2023-05-01",
   "made": "2022-03-25",
   "gazette": "2022-04-14",
   "numac": 2022031553,
   "document_start": "2022-04-14",
   "document_end": null,
-  "in_force": "2022-04-14",
-  "article_versions": 13,
-  "record_form": "consolidated version as in force on 2022-04-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-05-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2023-05-01; future article versions excluded; article text as the API gives it"
 }

@@ -135,6 +135,10 @@ De maandelijkse huurprijs voor een slaapfaciliteit in een collectieve voorzienin
 	</tbody>
 </table>
 
+### ART 3/1.
+
+De bedragen, vermeld in artikel 2 en 3, worden jaarlijks op 1 mei aangepast aan de evolutie van de gezondheidsindex (basis 2013), naar het gezondheidsindexcijfer van de maand die voorafgaat aan de aanpassing (februari), en met als basis het gezondheidsindexcijfer (basis 2013) van 118,74 voor februari 2022. Het resultaat van de voormelde aanpassing wordt afgerond naar het eerstvolgende natuurlijke getal.
+
 ### ART 4.
 
 Als een sociale huisvestingsmaatschappij, een woonmaatschappij of het VWF met toepassing van artikel 6.74 van het Besluit Vlaamse Codex Wonen van 2021 sociale huurwoningen die leegstaan in afwachting van renovatie, sloop of verkoop, via een leegstandsbeheerder als vermeld in artikel 6.74, § 1, eerste lid, 3°, van het voormelde besluit, verhuurt aan tijdelijk ontheemden uit Oekraïne, zijn de voorwaarden, vermeld in artikel 6.74, § 2, 5°, 6° en 7°, van het voormelde besluit, niet van toepassing op de leegstandbeheerder.<br>
