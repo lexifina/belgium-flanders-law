@@ -578,9 +578,11 @@ De Vlaamse Regering kan de regels bepalen over de aanstelling van de exploitante
 
 ### ART 36.
 
-§ 1. De Vlaamse Regering coördineert het tariefbeleid voor het kernnet en het aanvullend net en bepaalt de tarieven.<br>
+§ 1. Als er een interne exploitant werd aangeduid conform artikel 34, §1, beslist de interne exploitant over de tarieven voor het kernnet en het aanvullend net conform de bepalingen vastgelegd in het openbaredienstencontract, met uitzondering van de sociale tarieven waarvan de rechthebbenden en de hoogte van het tarief door de Vlaamse Regering worden beslist.&nbsp;<br>
 <br>
-De Vlaamse Regering coördineert het tariefbeleid voor het openbaar personenvervoer over water en bepaalt de tarieven.<br>
+Als er geen interne exploitant werd aangeduid conform artikel 34, §1, coördi-neert de Vlaamse Regering het tariefbeleid voor het kernnet en het aanvullend net en beslist de Vlaamse Regering over de tarieven.&nbsp;<br>
+<br>
+De Vlaamse Regering coördineert het tariefbeleid voor het openbaar perso-nenvervoer over water en beslist over de tarieven.<br>
 <br>
 § 2. De vervoerregioraad coördineert het tariefbeleid voor het vervoer op maat en bepaalt de tarieven.<br>
 <br>
