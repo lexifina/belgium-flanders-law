@@ -22,6 +22,32 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 2.
+
+In artikel VII 12, §1, 4°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij de besluiten van de Vlaamse Regering van 20 april 2018, 6 september 2019 en 23 september 2022, wordt in de tabel de rij<br>
+“
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:276px">Vakantiewerker bij het Agentschap Opgroeien regie als arts.<br>
+			De tewerkstelling als vakantiewerker-arts is alleen mogelijk tijdens de maanden juli, augustus en september die aansluiten op het academiejaar waarin de student het diploma van master in de geneeskunde heeft behaald, en op voorwaarde dat de student aansluitend op de tewerkstelling als jobstudent niet in dienst wordt genomen bij Agentschap Opgroeien regie.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:276px">80 % van A121</td>
+		</tr>
+	</tbody>
+</table>
+.”<br>
+vervangen door de rij&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>
+“
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:276px">Vakantiewerker met het diploma van master in de geneeskunde bij het agentschap Opgroeien regie als arts, op voorwaarde dat de vakantiewerker na het behalen van het voormelde diploma verder studeert en blijft voldoen aan de voorwaarden om als jobstudent te kunnen worden tewerkgesteld. De tewerkstelling als arts is ook mogelijk tijdens de maanden juli, augustus en september die aansluiten op het laatste academiejaar, op voorwaarde dat de student aansluitend op zijn tewerkstelling als jobstudent niet in dienst wordt genomen bij het agentschap Opgroeien regie of het agentschap Opgroeien.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:276px">80% van A121</td>
+		</tr>
+	</tbody>
+</table>
+”.
+
 ### ART 5.
 
 In artikel VII 85septies, eerste lid, van hetzelfde besluit, ingevoegd bij het be-sluit van de Vlaamse Regering van 6 september 2019, worden tussen het woord “overnachting” en het woord “worden”, de woorden “en het ontbijt” in-gevoegd.
