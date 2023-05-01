@@ -673,7 +673,7 @@ Deze bepaling is niet van toepassing binnen het VBS-werkingsgebied en het opspor
 <br>
 De waterwegbeheerder of het havenbedrijf kan daarbij, voor zover noodzakelijk, tijdelijke afwijkingen toelaten van bepalingen van wetten, decreten of uitvoeringsbesluiten die betrekking hebben op de bemanning en het besturen van het vaartuig, de technische kenmerken of uitrusting van het vaartuig, de regeling van het scheepvaartverkeer, de voorschriften met betrekking tot de activiteiten aan boord en aan wal en de boorddocumenten.<br>
 <br>
-De afwijkingen, vermeld in het tweede lid, kunnen geen betrekking hebben op bepalingen over toezicht en handhaving en op bepalingen van strafrechtelijke aard. Zij hebben een maximale geldingsduur van één jaar en kunnen in functie van de noden worden hernieuwd, zonder dat de totale geldingsduur van een afwijking vijf jaren mag overschrijden.<br>
+De afwijkingen, vermeld in het tweede lid, kunnen geen betrekking hebben op bepalingen over toezicht en handhaving en op bepalingen van strafrechtelijke aard. Zij hebben een maximale geldingsduur van één jaar en kunnen in functie van de noden worden hernieuwd, zonder dat de totale geldingsduur van een afwijking tien jaren mag overschrijden.<br>
 <br>
 § 2. Bij de toelating voor de experimenten of pilootprojecten, vermeld in paragraaf 1, worden in ieder geval de volgende zaken bepaald:<br>
 1° wat het doel van de experimenten of de pilootprojecten is;<br>
@@ -732,7 +732,7 @@ De bevoegde autoriteit controleert of de terminalexploitanten aan de hen opgeleg
 
 ### ART 74.
 
-De bevoegde autoriteit kan, in afwijking van artikel 72, § 1, 4°, aan nieuwe terminals een tijdelijke exploitatievergunning met een geldigheidsduur van ten hoogste twaalf maanden uitreiken. De terminal moet echter aantonen voornemens te zijn een kwaliteitszorgsysteem in te voeren overeenkomstig de ISO 9001:2000-norm of een gelijkwaardige norm als vermeld in artikel 72, § 1, 4°.
+De bevoegde autoriteit kan, in afwijking van artikel 73, §1, eerste lid, 4°, aan nieuwe terminals een tijdelijke exploitatievergunning met een geldigheidsduur van ten hoogste twaalf maanden uitreiken. De terminal moet echter aantonen voornemens te zijn een kwaliteitszorgsysteem in te voeren overeenkomstig de ISO 9001:2000-norm of een gelijkwaardige norm als vermeld in artikel 73, §1, eerste lid, 4°.
 
 ### ART 75.
 
@@ -770,7 +770,7 @@ De eigenaar en de exploitant van het schip zijn hoofdelijk tot de betaling van d
 <br>
 § 3. De waterwegbeheerder is belast met de inning van de in paragraaf 1 bedoelde scheepvaartrechten en andere retributies.<br>
 <br>
-De invordering van aan het Vlaamse Gewest toekomende in paragraaf 1 bedoelde scheepvaartrechten en andere retributies, geldboeten, eventuele interesten en kosten welke niet werden voldaan, geschiedt overeenkomstig de bepalingen van het decreet van 22 februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en de instellingen die eronder ressorteren.<br>
+De invordering van aan het Vlaamse Gewest toekomende in paragraaf 1 bedoelde scheepvaartrechten en andere retributies, geldboeten, eventuele interesten en kosten welke niet werden voldaan, geschiedt overeenkomstig de bepalingen van het decreet van 22 februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen voor het Vlaamse Gewest en de instellingen die eronder ressorteren.<br>
 <br>
 Met het oog op de invordering van aan haar verschuldigde onbetwiste en opeisbare in paragraaf 1 bedoelde scheepvaartrechten en andere retributies, eventuele interesten en kosten, kan De Vlaamse Waterweg nv een dwangbevel uitvaardigen. Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door de gedelegeerd bestuurder. Een dergelijk dwangbevel wordt aan de schuldenaar betekend bij gerechtsdeurwaardersexploot en stuit de verjaring. Een bevel kan door de gedelegeerd bestuurder alleen worden geviseerd en uitvoerbaar verklaard als de schuld opeisbaar, vaststaand en zeker is. De schuldenaar moet bovendien vooraf aangemaand zijn met een aangetekende brief. De Vlaamse Waterweg nv kan administratieve kosten aanrekenen voor deze aangetekende brief. Deze kosten vallen ten laste van de schuldenaar en kunnen eveneens ingevorderd worden via het dwangbevel. Schulden van een publieke rechtspersoon kunnen nooit via een dwangbevel worden ingevorderd. Verzet kan tegen dat exploot worden ingediend binnen één maand na de betekening ervan bij verzoekschrift of door een dagvaarding ten gronde voor de ondernemingsrechtbank.<br>
 <br>
@@ -885,7 +885,7 @@ De opbrengst van de verkoop wordt in de Deposito- en Consignatiekas gestort ten 
 
 Het kaderdecreet van 22 maart 2019 betreffende de bestuurlijke handhaving is, met uitzondering van artikel 62 van voormeld kaderdecreet, van toepassing op de handhaving van dit decreet en zijn uitvoeringsbesluiten.<br>
 <br>
-Aanvullend op artikel 26, § 3, van voormeld kaderdecreet van 22 maart 2019 betreffende de bestuurlijke handhaving, zijn de personeelsleden van de scheepvaartpolitie vermeld in artikel 2 van de wet van 5 augustus 1992 op het politieambt eveneens bevoegd voor de bestuurlijke opsporing van de inbreuken, vermeld in artikel 133, 1° tot en met 6°.<br>
+Aanvullend op artikel 26, § 3, van voormeld kaderdecreet van 22 maart 2019 betreffende de bestuurlijke handhaving, zijn de personeelsleden van de scheepvaartpolitie vermeld in artikel 2 van de wet van 5 augustus 1992 op het politieambt eveneens bevoegd voor de bestuurlijke opsporing van de inbreuken, vermeld in 133, eerste lid, 1° tot en met 6°.<br>
 <br>
 De Vlaamse Regering kan nadere voorwaarden bepalen waaronder de scheepvaartpolitie wordt ingeschakeld.<br>
 <br>
@@ -927,7 +927,7 @@ Voor de zone van de Scheldekaaien in de stad Antwerpen (Scheldekaaien zone stad)
 <br>
 De Vlaamse Regering stelt nader de grenzen vast van de zone, vermeld in het tweede lid.<br>
 <br>
-De in het eerste lid bedoelde personeelsleden kunnen op voordracht van de bevoegde autoriteiten, waterwegbeheerders, havenbedrijven of het loodswezen door de Vlaamse Regering worden aangesteld als officier van gerechtelijke politie, officier van gerechtelijke politie, hulpofficier van de procureur des Konings, of bestuurlijk opsporingsagent in de zin van artikel 30, § 1, van het kaderdecreet van 22 maart 2019 betreffende de bestuurlijke handhaving.
+De in het eerste lid bedoelde personeelsleden kunnen op voordracht van de bevoegde autoriteiten, waterwegbeheerders, havenbedrijven of het loodswezen door de Vlaamse Regering worden aangesteld als officier van gerechtelijke politie, officier van gerechtelijke politie-hulpofficier van de procureur des Konings, of bestuurlijk opsporingsagent in de zin van artikel 30, § 1, van het kaderdecreet van 22 maart 2019 betreffende de bestuurlijke handhaving.
 
 ### ART 113.
 
@@ -951,9 +951,9 @@ Teneinde de toepassing van afdeling 5 van hoofdstuk 1 van titel 3 van dit decree
 
 ### ART 117.
 
-De bevoegde autoriteit verifieert regelmatig of de terminals aan de voorschriften van artikel 73, § 1, 1°, artikel 75, § 1, en artikel 76 voldoen. Daarbij voert ze tijdens laad- en losverrichtingen onaangekondigde inspecties uit.<br>
+De bevoegde autoriteit verifieert regelmatig of de terminals aan de voorschriften van artikel 73, §1, eerste lid, 1°, artikel 75, eerste lid, en artikel 76 voldoen. Daarbij voert ze tijdens laad- en losverrichtingen onaangekondigde inspecties uit.<br>
 <br>
-Daarnaast verifieert de bevoegde autoriteit aan het einde van de in artikel 74 vermelde termijn of de nieuwe terminals aan de in artikel 73, § 1, 4°, vermelde vereisten voldoen.
+Daarnaast verifieert de bevoegde autoriteit aan het einde van de in artikel 74 vermelde termijn of de nieuwe terminals aan de in artikel 73, §1, eerste lid, 4°, vermelde vereisten voldoen.
 
 ## HOOFDSTUK 3. Sancties
 
@@ -987,7 +987,7 @@ Wordt gestraft met een gevangenisstraf van vijftien dagen tot één jaar en met 
 1° ieder die de bepalingen van artikel 56 tot en met 60 of artikel 116, alsook de bepalingen van de ter uitvoering van deze artikelen genomen besluiten heeft overtreden;<br>
 2° ieder die de opdracht van de bevoegde autoriteit en deskundigen, krachtens artikel 56 tot en met 60, artikel 116, en de uitvoeringsbesluiten uitgeoefend, heeft belemmerd.<br>
 <br>
-§ 3. De in paragraaf 2 gestelde sancties zijn ook van toepassing wanneer de overtreding van artikel 116 of de onder punt 2° bedoelde strafbare feiten door de gezagvoerder, de officieren of door personen van Belgische nationaliteit buiten België zijn gepleegd.<br>
+§ 3. De in paragraaf 2 gestelde sancties zijn ook van toepassing wanneer de overtreding van artikel 116 of de strafbare feiten, vermeld in paragraaf 2, 2°, door de gezagvoerder, de officieren of door personen van Belgische nationaliteit buiten België zijn gepleegd.<br>
 <br>
 § 4. De in dit artikel gestelde straffen kunnen ten aanzien van de gezagvoerder verminderd worden tot één vierde van de straffen waarmee de eigenaar of de exploitant van het schip kan gestraft worden, indien bewezen is dat de gezagvoerder van de eigenaar of de exploitant schriftelijk of mondeling bevel heeft gekregen in strijd met artikel 56 tot en met 60, artikel 116, of de uitvoeringsbesluiten te handelen.<br>
 <br>

@@ -2,16 +2,16 @@
   "codex_id": 1036996,
   "title": "Decreet van 2022-01-21 Scheepvaartdecreet",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036996/VolledigDocument?datum=2022-06-01",
-  "source_sha256": "f080b5a64ce1d6bc67202dd03879bdbb80f550d4197464aabf1b54669b47edeb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036996/VolledigDocument?datum=2023-05-01",
+  "source_sha256": "577bdce94ea909ba3d60993ec2d84ff863cee56fe6a939f3bb95159f867b5c11",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036996&param=informatie",
-  "as_of": "2022-06-01",
+  "as_of": "2023-05-01",
   "made": "2022-01-21",
   "gazette": "2022-05-06",
   "numac": 2022031332,
   "document_start": "2022-06-01",
   "document_end": null,
-  "in_force": "2022-06-01",
+  "in_force": "2023-05-01",
   "article_versions": 174,
-  "record_form": "consolidated version as in force on 2022-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-05-01; future article versions excluded; article text as the API gives it"
 }
