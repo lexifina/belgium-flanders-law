@@ -15,7 +15,7 @@ In dit decreet wordt verstaan onder :<br>
 4° solidariteitsbijdrage : de bijdrage, vermeld in artikel 15, eerste lid;<br>
 5° technisch reglement : het koninklijk besluit van 15 maart 1968 houdende algemeen reglement op de technische eisen waaraan de auto's, hun aanhangwagens, hun onderdelen en hun veiligheidstoebehoren moeten voldoen en de aanpassingen ervan;<br>
 6° uitzonderlijk vervoer : het vervoer dat plaatsvindt met een voertuig of een sleep waarvan de afmetingen, de eigen massa, de massa onder de assen of de massa in beladen toestand, door zijn constructie of zijn ondeelbare lading, de maxima overschrijden die zijn bepaald in het algemeen reglement op de politie van het wegverkeer en in het technisch reglement;<br>
-6° /1 langere en zwaardere sleep: een sleep van voertuigen waarvan de samenstelling niet beantwoordt aan de voorschriften voor maximale massa en maximale lengte, bepaald in het technisch reglement;<br>
+6/1° &nbsp;&nbsp; &nbsp;langere en zwaardere sleep: een voertuigcombinatie die bestaat uit een trekkend voertuig, een tussenvoertuig en een getrokken voertuig en die wordt gebruikt in het kader van een proefproject als vermeld in artikel 4, tweede lid;<br>
 7° Vlaams Infrastructuurfonds : het fonds, opgericht bij artikel 57, § 1, van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992;<br>
 8° wegeninspecteur : personeelslid dat aangewezen is ter uitvoering van artikel 16;<br>
 9° wegeninspecteur-controleur : ambtenaar die aangewezen is ter uitvoering van artikel 17.
@@ -26,7 +26,9 @@ In dit decreet wordt verstaan onder :<br>
 
 ### ART. 3.
 
-<P>Het is verboden zich op de openbare weg te bevinden met een ander voertuig of   een andere sleep dan het vervoer, vermeld in artikel 4 en 7, waarvan de hoogte   het toegestane maximum met meer dan één procent overschrijdt, of waarvan de   andere afmetingen of de massa in beladen toestand de toegestane maxima   overschrijden.<BR></P>  <P>Het is verboden het wegdek te beschadigen door zich met een voertuig op de   openbare weg te bevinden waarvan de massa op de grond onder een van de assen het   toegestane maximum, met meer dan 5 procent overschrijdt.<BR></P>
+<p>Het is verboden zich op de openbare weg te bevinden met een voertuig of een sleep waarvan de hoogte het toegestane maximum met meer dan 1 procent overschrijdt of waarvan de andere afmetingen of de massa in beladen toestand de toegestane maxima overschrijden.&nbsp;<br>
+<br>
+Het is verboden zich op de openbare weg te bevinden met een voertuig waarvan de massa op de grond onder een van de assen het toegestane maximum met meer dan 5 procent overschrijdt.</p>
 
 ## Afdeling 2 Vervoer met langere en zwaardere slepen
 
@@ -107,7 +109,7 @@ Aan elke rechtspersoon of natuurlijke persoon die een erkenningsaanvraag indient
 
 ### ART. 12.
 
-<P>De Vlaamse Regering kan bepalen dat het Agentschap Wegen en Verkeer op de   hoogte gebracht moet worden van het tijdstip, de gevolgde reisweg en de   voertuigen van het vervoer. De Vlaamse Regering bepaalt in dat geval ook de   wijze waarop dat gebeurt en de eventuele uitzonderingen.<BR></P>  <P>In het eerste lid wordt verstaan onder Agentschap Wegen en Verkeer : het   intern verzelfstandigd agentschap zonder rechtspersoonlijkheid binnen het Vlaams   Ministerie van Mobiliteit en Openbare Werken, opgericht bij het besluit van de   Vlaamse Regering van 7 oktober 2005 tot oprichting van het intern   verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap Wegen en   Verkeer.<BR></P>
+<p>De Vlaamse Regering kan bepalen dat de dienst van de Vlaams administratie die ze aanwijst op de hoogte gebracht moet worden van het tijdstip, de gevolgde reisweg en de voertuigen van het vervoer. De Vlaamse Regering bepaalt in dat geval ook de wijze waarop dat gebeurt en de eventuele uitzonderingen.</p>
 
 ### ART. 13.
 
@@ -145,9 +147,7 @@ De Vlaamse Regering kan voor het uitreiken van de vergunning, vermeld in het eer
 
 ### ART 13/5.
 
-In het kader van een pilootproject als vermeld in artikel 13/1 kan de Vlaamse Regering bepalen dat het Departement Mobiliteit en Openbare Werken op de hoogte gebracht wordt van het tijdstip en de gevolgde reisweg en de voertuigen van het vervoer. De Vlaamse Regering bepaalt in dat geval ook de wijze waarop dat gebeurt en de eventuele uitzonderingen.<br>
-<br>
-In het eerste lid wordt verstaan onder Departement Mobiliteit en Openbare Werken: het departement, vermeld in artikel 28, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.
+In het kader van een pilootproject als vermeld in artikel 13/1 kan de Vlaamse Regering bepalen dat de dienst van de Vlaamse administratie die ze aanwijst op de hoogte gebracht wordt van het tijdstip en de gevolgde reisweg en de voertuigen van het vervoer. De Vlaamse Regering bepaalt in dat geval ook de wijze waarop dat gebeurt en de eventuele uitzonderingen.
 
 ### ART 13/6.
 
