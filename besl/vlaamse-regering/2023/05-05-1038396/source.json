@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038396,
+  "title": "Besluit van de Vlaamse Regering van 2023-05-05 over het verlenen van een overbruggingslening aan exploitanten van het individueel bezoldigd personenvervoer",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038396/VolledigDocument?datum=2023-05-01",
+  "source_sha256": "165a8d565d30884dc4b3b7bea7af20f4e1af6ca6e6c81c44413a3450112c51cd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038396&param=informatie",
+  "as_of": "2023-05-01",
+  "made": "2023-05-05",
+  "gazette": "2023-09-06",
+  "numac": 2023015391,
+  "document_start": "2023-05-01",
+  "document_end": null,
+  "in_force": "2023-05-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2023-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
