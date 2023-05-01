@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038251,
+  "title": "Decreet van 2023-03-31 over diverse bepalingen over het gemeenschappelijk vervoer, de weginfrastructuur en het wegenbeleid, en de waterinfrastructuur en het waterbeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038251/VolledigDocument?datum=2023-05-01",
+  "source_sha256": "163de8072f3a22341909a8868cfdd2766073a78dc8f09b29337d56520b77ff2f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038251&param=informatie",
+  "as_of": "2023-05-01",
+  "made": "2023-03-31",
+  "gazette": "2023-04-21",
+  "numac": 2023041636,
+  "document_start": "2023-05-01",
+  "document_end": null,
+  "in_force": "2023-05-01",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2023-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
