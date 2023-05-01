@@ -65,7 +65,7 @@ Als verschillende havenkapiteins benoemd of aangesteld zijn, wijst het havenbedr
 
 § 1. De havenkapiteins zijn bevoegd om ter uitvoering van de havenpolitieverordeningen en de havenverkeersverordeningen bevelen te geven, inbreuken vast te stellen en er proces-verbaal van op te stellen.<br>
 <br>
-Ze worden door het havenbedrijf benoemd of aangeworven, en ontslagen of uit hun functie ontheven. De beslissing van een havenbedrijf om een havenkapitein te ontslaan of uit zijn functie te ontheffen, is onderworpen aan de goedkeuring van de Vlaamse Regering. In afwachting van de goedkeuring daarvan wordt de havenkapitein tijdelijk uit zijn functie ontheven. Het besluit van de Vlaamse Regering houdende goedkeuring of weigering van ontslag of ontheffing uit de functie wordt genomen binnen negentig kalenderdagen na de ontvangst van het per aangetekende brief verstuurde verzoek tot goedkeuring van het ontslag of de ontheffing uit de functie. Als de Vlaamse Regering binnen die termijn geen beslissing heeft genomen, wordt de goedkeuring geacht te zijn verworven en is het ontslag of de ontheffing uit de functie definitief. Als de Vlaamse Regering het ontslag of de ontheffing uit de functie heeft goedgekeurd of als de termijn van negentig dagen is verstreken zonder dat de Vlaamse Regering een beslissing heeft genomen, gaat dat ontslag of die ontheffing uit de functie in op de datum van de beslissing van het havenbedrijf.<br>
+Ze worden door het havenbedrijf benoemd of aangeworven, en ontslagen of uit hun functie ontheven. De beslissing van een havenbedrijf om een havenkapitein te ontslaan of uit zijn functie te ontheffen, is onderworpen aan de goedkeuring van de Vlaamse Regering, met als uitzondering de beëindiging met het oog op pensionering. In afwachting van de goedkeuring daarvan wordt de havenkapitein tijdelijk uit zijn functie ontheven. Het besluit van de Vlaamse Regering houdende goedkeuring of weigering van ontslag of ontheffing uit de functie wordt genomen binnen negentig kalenderdagen na de ontvangst van het per aangetekende brief verstuurde verzoek tot goedkeuring van het ontslag of de ontheffing uit de functie. Als de Vlaamse Regering binnen die termijn geen beslissing heeft genomen, wordt de goedkeuring geacht te zijn verworven en is het ontslag of de ontheffing uit de functie definitief. Als de Vlaamse Regering het ontslag of de ontheffing uit de functie heeft goedgekeurd of als de termijn van negentig dagen is verstreken zonder dat de Vlaamse Regering een beslissing heeft genomen, gaat dat ontslag of die ontheffing uit de functie in op de datum van de beslissing van het havenbedrijf.<br>
 <br>
 De vereiste van een beslissing van de Vlaamse Regering, vermeld in het -tweede lid, vindt evenwel geen toepassing indien het gaat om een personeelslid dat in dienst is genomen met een arbeidsovereenkomst en ten aanzien van wie het havenbedrijf zich gehouden ziet tot een ontslag om dringende reden.<br>
 <br>
@@ -89,7 +89,7 @@ Voor zover de aard en de uitgebreidheid van de bevoegdheden van de havenkapitein
 
 ### ART 12.
 
-Voor zover de aard en de uitgebreidheid van de bevoegdheden van de havenkapiteinsdienst dat vereisen, kan het havenbedrijf haveninspecteurs aanwerven of benoemen. De beslissing van een havenbedrijf om een haveninspecteur te ontslaan of uit zijn functie te ontheffen is onderworpen aan het advies van de havenkapitein die de leiding heeft over de havenkapiteinsdienst.<br>
+Voor zover de aard en de uitgebreidheid van de bevoegdheden van de havenkapiteinsdienst dat vereisen, kan het havenbedrijf haveninspecteurs aanwerven of benoemen. De beslissing van een havenbedrijf om een haveninspecteur te ontslaan of uit zijn functie te ontheffen is onderworpen aan het advies van de havenkapitein die de leiding heeft over de havenkapiteinsdienst, met als uitzondering de beëindiging met het oog op pensionering.<br>
 <br>
 De haveninspecteurs werken onder het gezag van een havenkapitein. Ze zijn bevoegd om ter uitvoering van de havenpolitieverordeningen en de havenverkeersverordeningen bevelen te geven, inbreuken vast te stellen en er proces-verbaal van op te stellen.<br>
 <br>
@@ -103,7 +103,7 @@ De haveninspecteurs brengen over alle andere misdrijven dan die, vermeld in arti
 
 ### ART 13.
 
-§ 1. Voor zover de aard en de uitgebreidheid van de bevoegdheden van de havenkapiteinsdienst dat vereisen, kan het havenbedrijf havenagenten aanwerven of benoemen. De beslissing van een havenbedrijf om een havenagent te ontslaan of uit zijn functie te ontheffen is onderworpen aan het advies van de havenkapitein die de leiding heeft over de havenkapiteinsdienst. De havenagenten werken onder het gezag van een havenkapitein of een haveninspecteur.<br>
+§ 1. Voor zover de aard en de uitgebreidheid van de bevoegdheden van de havenkapiteinsdienst dat vereisen, kan het havenbedrijf havenagenten aanwerven of benoemen. De beslissing van een havenbedrijf om een havenagent te ontslaan of uit zijn functie te ontheffen is onderworpen aan het advies van de havenkapitein die de leiding heeft over de havenkapiteinsdienst, met als uitzondering de beëindiging met het oog op pensionering. De havenagenten werken onder het gezag van een havenkapitein of een haveninspecteur.<br>
 <br>
 Alvorens in dienst te treden leggen de havenagenten de eed af voor de rechtbank van eerste aanleg.<br>
 <br>
