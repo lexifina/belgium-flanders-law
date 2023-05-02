@@ -33,7 +33,7 @@ De centrumsteden Antwerpen, Gent, Mechelen, Oostende en Sint-Niklaas zetten de s
 
 ### ART 3.
 
-De subsidies, vermeld in artikel 6 van het decreet, worden uitbetaald in twee gelijke schijven: een eerste schijf vóór 30 juni, een tweede schijf vóór 30 november.
+De subsidies, vermeld in artikel 6 van het decreet, worden uitbetaald in één schijf vóór 30 juni.
 
 ### ART 4.
 
@@ -92,7 +92,7 @@ Voor elke projectsubsidie die een stad of de VGC ontvangt, stelt ze jaarlijks ee
 
 Voor de toekenning van thematische projectsubsidies lanceert de minister een oproep voor aanvragen bij de centrumsteden, de provinciale steden en de VGC. De minister bepaalt de thematische focus van de oproep.<br>
 <br>
-De maximale realisatietermijn van een project voor thematische stadsvernieuwing bedraagt drie jaar vanaf de datum van toekenning van de subsidie door de Vlaamse Regering.<br>
+De maximale realisatietermijn van een project voor thematische stadsvernieuwing bedraagt vijf jaar vanaf de datum van toekenning van de subsidie door de Vlaamse Regering.<br>
 <br>
 De centrumsteden, de provinciale steden en de VGC omschrijven in hun subsidieaanvraag de volgende elementen:<br>
 1° het project;<br>
@@ -112,7 +112,7 @@ Het bedrag van de thematische projectsubsidie wordt gestort op de rekening van d
 
 ### ART 13.
 
-Voor elke thematische projectsubsidie die een stad of de VGC ontvangt, stelt ze jaarlijks een voortgangsverslag ter beschikking van ABB. In het verslag toont de stad of de VGC de vooruitgang van het project aan, zowel administratief, financieel als inhoudelijk.
+Voor elke thematische projectsubsidie die een stad of de VGC ontvangt, stelt ze na drie jaar en na vijf jaar een voortgangsverslag ter beschikking van ABB. In het verslag toont de stad of de VGC de vooruitgang van het project aan, zowel administratief, financieel als inhoudelijk.
 
 ## Afdeling 4. De conceptsubsidies
 
@@ -162,9 +162,7 @@ Op basis van de ingediende subsidieaanvragen verleent de jury advies aan de Vlaa
 4° eventuele aanbevelingen voor de realisatie van de voorgestelde projecten;<br>
 5° een motivering van het juryadvies per voorgesteld project.<br>
 <br>
-De Vlaamse Regering legt een lijst voor subsidiëring vast, met een motivering en met een concrete beschrijving van de gesubsidieerde activiteiten per project, alsook met het bedrag van de toegekende subsidies.<br>
-<br>
-Jaarlijks kan maximaal 1.200.000 euro subsidie toegekend worden aan thematische stadsvernieuwingsprojecten als vermeld in artikel 7, 2° en maximaal 360.000 euro subsidie aan conceptsubsidies als vermeld in artikel 7, 3°.
+De Vlaamse Regering legt een lijst voor subsidiëring vast, met een motivering en met een concrete beschrijving van de gesubsidieerde activiteiten per project, alsook met het bedrag van de toegekende subsidies.
 
 ## Afdeling 6. De begeleiding van toegekende subsidies
 
@@ -195,7 +193,7 @@ De minister stelt de leden van het regieteam aan en bepaalt de vergoeding van de
 
 ### ART 21.
 
-De subsidies, vermeld in hoofdstuk 5, worden uitbetaald in twee gelijke schijven: een eerste schijf vóór 30 juni, een tweede schijf vóór 30 november.
+De subsidies, vermeld in hoofdstuk 5, worden uitbetaald in één schijf vóór 30 juni.
 
 ### ART 22.
 
