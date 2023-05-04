@@ -49,11 +49,17 @@ Het hoofd van het agentschap is belast met de algemene leiding, de werking en de
 
 ### ART. 9.
 
-§ 1. Aan het hoofd van het agentschap worden volgende specifieke delegaties verleend:<br /><br />1° het hoofd van het agentschap wordt gemachtigd om de gerechtsdeurwaarders aan te stellen die belast zijn met de gedwongen invordering van de Vlaamse belastingen en niet-fiscale schuldvorderingen door middel van de betekening van een dwangbevel, alsmede om de voorwaarden tot hun aanstelling te bepalen;<br /><br />2° het sluiten van samenwerkingsovereenkomsten met externe partners in het kader van de taken van het agentschap tot een maximum bedrag van 2,4 miljoen euro, inzonderheid betreffende de inventarisatie van de belastings- of heffingsgegevens en de inning en invordering van de belastings- of heffingsschulden.<br /><br />§ 2. De delegaties inzake de aangelegenheden die zijn bedoeld in artikel 16, 3° van het besluit van de Vlaamse regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde agentschappen van de Vlaamse administratie, hebben voor wat de IVA Vlaamse Belastingdienst betreft meer bepaald betrekking op de taken vermeld in artikel 3 van dit oprichtingsbesluit.
+§ 1. Aan het hoofd van het agentschap worden volgende specifieke delegaties verleend:<br>
+<br>
+1° het hoofd van het agentschap wordt gemachtigd om de gerechtsdeurwaarders aan te stellen die belast zijn met de gedwongen invordering van de Vlaamse belastingen en niet-fiscale schuldvorderingen door middel van de betekening van een dwangbevel, alsmede om de voorwaarden tot hun aanstelling te bepalen;<br>
+<br>
+2° het sluiten van samenwerkingsovereenkomsten met externe partners in het kader van de taken van het agentschap tot een maximum bedrag van 2,4 miljoen euro, inzonderheid betreffende de inventarisatie van de belastings- of heffingsgegevens en de inning en invordering van de belastings- of heffingsschulden.<br>
+<br>
+§ 2. De delegaties inzake de aangelegenheden die zijn bedoeld in artikel 17, eerste lid, 2° en 3°, van het besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen, hebben voor wat de IVA Vlaamse Belastingdienst betreft meer bepaald betrekking op de taken vermeld in artikel 3 van dit oprichtingsbesluit.
 
 ### ART. 10.
 
-Bij het gebruik van de delegaties gelden de algemene regelingen, voorwaarden en beperkingen, zoals vervat in het besluit van de Vlaamse regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde agentschappen van de Vlaamse overheid, met inbegrip van de bepalingen inzake subdelegatie, de regeling bij vervanging en de verantwoording.
+Bij het gebruik van de delegaties gelden de algemene regelingen, voorwaarden en beperkingen, zoals vervat in het besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen, met inbegrip van de bepalingen inzake subdelegatie, de regeling bij vervanging en de verantwoording.
 
 ## HOOFDSTUK IV CONTROLE, OPVOLGING EN TOEZICHT
 
