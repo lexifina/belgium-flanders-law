@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038026,
+  "title": "Besluit van de Vlaamse Regering van 2023-01-20 tot wijziging van het besluit van de Vlaamse regering van 11 juni 2004 tot oprichting van het agentschap Vlaamse Belastingdienst en het besluit Vlaamse Codex Fiscaliteit van 20 december 2013",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038026/VolledigDocument?datum=2023-05-04",
+  "source_sha256": "5029708b45e351db49e9c7d83959da4e8ca5139e7785c2155607c4d553e4cadf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038026&param=informatie",
+  "as_of": "2023-05-04",
+  "made": "2023-01-20",
+  "gazette": "2023-04-24",
+  "numac": 2023015194,
+  "document_start": "2023-05-04",
+  "document_end": null,
+  "in_force": "2023-05-04",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2023-05-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
