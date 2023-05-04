@@ -369,7 +369,11 @@ Voorbehouden voor toekomstig gebruik.
 
 ### ART. 2.6.7.0.2.
 
-<P>De eigenaar stuurt het verzoek tot opschorting voor bedrijfsruimten die het   voorwerp uitmaken van een definitief gesloten brownfieldconvenant met een   aangetekende brief naar het departement. De aanvraag tot opschorting moet worden   gestaafd door een afschrift van het brownfieldconvenant, dat definitief werd   gesloten met toepassing van hoofdstuk III van het decreet van 30 maart 2007   betreffende de Brownfieldconvenanten.<BR></P>  <P>Het departement betekent de al dan niet aanvaarding van het voorstel tot   opschorting aan de indiener binnen dertig kalenderdagen na de verzendingsdatum   van de aangetekende brief over de aanvraag tot opschorting voor bedrijfsruimten   die het voorwerp uitmaken van een definitief gesloten   brownfieldconvenant.<BR></P>  <P>Als het departement binnen de termijn, vermeld in het tweede lid, geen   beslissing heeft betekend, wordt het voorstel geacht aanvaard te zijn. Het   departement verleent de aanvrager in dat geval een opschorting van de   heffing.</P>
+<p>De eigenaar stuurt het verzoek tot opschorting voor bedrijfsruimten die het voorwerp uitmaken van een ontwerp van brownfieldconvenant dat de Vlaamse Regering principieel heeft goedgekeurd met een aangetekende brief naar het departement. De aanvraag tot opschorting moet worden gestaafd door een ontwerp van brownfieldconvenant en een verwijzing naar de beslissing van de Vlaamse Regering met toepassing van hoofdstuk III van het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten.</p>
+
+<p>Het departement betekent de al dan niet aanvaarding van het voorstel tot opschorting aan de indiener binnen dertig kalenderdagen na de verzendingsdatum van de aangetekende brief over de aanvraag tot opschorting voor bedrijfsruimten die het voorwerp uitmaken van een ontwerp van brownfieldconvenant dat de Vlaamse Regering principieel heeft goedgekeurd.</p>
+
+<p>Als het departement binnen de termijn, vermeld in het tweede lid, geen beslissing heeft betekend, wordt het voorstel geacht aanvaard te zijn. Het departement verleent de aanvrager in dat geval een opschorting van de heffing.</p>
 
 ### ART. 2.6.7.0.3.
 
@@ -702,14 +706,14 @@ Voorbehouden voor toekomstig gebruik.
 ### ART. 3.1.0.0.2.
 
 <p>De gemeenten ontvangen voor de administratiekosten die ze ter uitvoering van de heffing ongeschikte en onbewoonbare woningen moeten maken:<br>
-1° een eenmalige vergoeding van 15 % van de opbrengst van de eerste belasting met betrekking tot de onroerende goederen die op het grondgebied van de gemeente liggen, met een maximum van 125 euro per belaste woning of gebouw, voor elke woning waarvoor de gemeente conform <span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">artikel 3.16, tweede lid, van het Besluit Vlaamse Codex Wonen van 2021</span></span> het agentschap heeft ingelicht;<br>
-2° vanaf de eerste heffing, 6% van de jaarlijkse opbrengst van de belasting met betrekking tot de onroerende goederen die op het grondgebied van de gemeente liggen voor het beheer van de inventaris, inclusief de opsporings- en vaststellingskosten, op voorwaarde dat de gemeente het agentschap over de woningen heeft ingelicht conform <span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">artikel 3.16, tweede lid, van het Besluit Vlaamse Codex Wonen van 2021</span></span>.</p>
+1° een eenmalige vergoeding van 15 % van de opbrengst van de eerste belasting met betrekking tot de onroerende goederen die op het grondgebied van de gemeente liggen, met een maximum van 125 euro per belaste woning of gebouw, voor elke woning waarvoor de gemeente conform artikel 3.16, tweede lid, van het Besluit Vlaamse Codex Wonen van 2021 het agentschap heeft ingelicht;<br>
+2° ...</p>
 
 <p>De gemeentelijke opcentiemen, de nalatigheidsinteresten, de administratieve geldboetes en de kosten worden niet in aanmerking genomen voor de berekening van de opbrengst van de belasting, vermeld in het vorige lid.</p>
 
 <p>De onkostenvergoeding wordt berekend op de geïnde heffingen.</p>
 
-<p>De vergoedingen, vermeld in het eerste lid, 1° en 2°, worden toegekend ongeacht het tijdstip waarop de gegevens werden meegedeeld, op voorwaarde dat de belasting voor het jaar waarop de gegevens betrekking hebben, tijdig kon worden opgenomen in het kohier.</p>
+<p>De vergoeding, vermeld in het eerste lid, 1°, wordt toegekend ongeacht het tijdstip waarop de gegevens werden meegedeeld, op voorwaarde dat de belasting voor het jaar waarop de gegevens betrekking hebben, tijdig kon worden opgenomen in het kohier.</p>
 
 <p>Bij gehele of gedeeltelijke ontheffingen wordt het te veel uitbetaalde bedrag aan onkostenvergoedingen verrekend op de eerstvolgende uit te keren onkostenvergoedingen en opcentiemen.</p>
 
@@ -891,7 +895,7 @@ Zodra de kohieren uitvoerbaar verklaard zijn, wordt aan de betrokken   belasting
 <br>
 Vanaf het ogenblik van de desactivering, vermeld in het eerste lid, worden de documenten aan de belastingschuldige toegezonden conform artikel 3.3.5.0.1, eerste lid, van de Vlaams Codex Fiscaliteit van 13 december 2013.<br>
 <br>
-§ 4. De documenten, vermeld in artikel 3.3.5.0.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013, blijven beschikbaar op het elektronisch platform gedurende zes maanden.
+§ 4. De documenten, vermeld in artikel 3.3.5.0.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013, blijven beschikbaar op het elektronisch platform gedurende een jaar.
 
 ## HOOFDSTUK 4. Betalingen
 
@@ -1314,15 +1318,7 @@ Voorbehouden voor toekomstig gebruik.
 
 ### ART 3.12.4.0.1.
 
-§ 1. De invoerder, de fabrikant of al wie rechtstreeks of onrechtstreeks als dusdanig optreedt, dient de aangifte tot rangschikking, vermeld in artikel 3.12.4.0.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013, volledig ingevuld en ondertekend in bij de bevoegde entiteit van de Vlaamse administratie met een formulier dat die entiteit ter beschikking stelt.<br>
-<br>
-Het formulier, vermeld in het eerste lid, bevat identificatiegegevens van de aangever, fabrikant of invoerder en de gegevens van het model van automatisch ontspanningstoestel die nodig zijn voor de rangschikking, vermeld in artikel 2.13.3.0.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013.<br>
-<br>
-§ 2. De bevoegde entiteit van de Vlaamse administratie onderzoekt de aangifte. Ze brengt de aangever binnen vijftien dagen na de dag waarop ze het formulier heeft ontvangen op de hoogte van ontbrekende of onduidelijke gegevens.<br>
-<br>
-De bevoegde entiteit van de Vlaamse administratie brengt de aangever schriftelijk op de hoogte van haar beslissing binnen dertig dagen na de dag waarop ze een volledige aangifte heeft ontvangen.<br>
-<br>
-§ 3. De bevoegde entiteit van de Vlaamse administratie houdt de rangschikking van automatische ontspanningstoestellen in de categorieën, vermeld in artikel 2.13.3.0.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013, bij in een repertorium dat wordt gepubliceerd op haar website.
+...
 
 ## HOOFDSTUK 13. Onderzoek en controle
 
@@ -1368,7 +1364,7 @@ Zodra aan zijn aanwijzing een einde komt, bezorgt het bevoegde   personeelslid d
 
 ### ART. 3.13.2.0.4.
 
-Voor de toepassing van artikel 3.13.2.0.1, 3.13.2.0.2 en 3.13.2.0.4 van de   Vlaamse Codex Fiscaliteit van 13 december 2013 dragen de bevoegde   personeelsleden een uniform waarvan het model wordt bepaald door de leidend   ambtenaar van de bevoegde entiteit van de Vlaamse administratie.
+Voor de toepassing van artikel 3.13.2.0.1, eerste lid, artikel 3.13.2.0.2 en artikel 3.13.2.0.4 van de Vlaamse Codex Fiscaliteit van 13 december 2013 dragen de bevoegde personeelsleden een uniform en verplaatsen ze zich in een dienstvoertuig. De leidend ambtenaar van de bevoegde entiteit van de Vlaamse administratie bepaalt het model van de voormelde uniformen en de uiterlijke kenmerken van de dienstvoertuigen.
 
 ## HOOFDSTUK 14. Verjaring
 
