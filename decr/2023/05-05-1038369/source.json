@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038369,
+  "title": "Decreet van 2023-05-05 over de kwaliteit van zorg in het beleidsdomein Welzijn, Volksgezondheid en Gezin",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038369/VolledigDocument?datum=2023-05-05",
+  "source_sha256": "dfb5a286c54f990658bcad7e0d207c2b474175be841482d203638be5ae5fe36e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038369&param=informatie",
+  "as_of": "2023-05-05",
+  "made": "2023-05-05",
+  "gazette": "2023-05-30",
+  "numac": 2023042523,
+  "document_start": "3000-01-01",
+  "document_end": null,
+  "in_force": "2023-05-05",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2023-05-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
