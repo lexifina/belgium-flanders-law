@@ -2,16 +2,16 @@
   "codex_id": 1025080,
   "title": "Ministerieel besluit van 2015-03-03 tot vaststelling van de herkenningstekens voor beschermd onroerend erfgoed",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025080/VolledigDocument?datum=2015-03-15",
-  "source_sha256": "2fff4fbdb677ba1b6863843395783abd616a68f62099b0d3619140fd0dbb89a0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025080/VolledigDocument?datum=2023-05-05",
+  "source_sha256": "b881e91b643b5e05110de8cbd6a5bfecb2b8ea435ff201999e3383b14c8b6b3f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025080&param=informatie",
-  "as_of": "2015-03-15",
+  "as_of": "2023-05-05",
   "made": "2015-03-03",
   "gazette": "2015-03-05",
   "numac": 2015035187,
   "document_start": "2015-03-15",
   "document_end": "2023-05-04",
-  "in_force": "2015-03-15",
+  "in_force": "2023-05-05",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2015-03-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-05-05; future article versions excluded; article text as the API gives it"
 }

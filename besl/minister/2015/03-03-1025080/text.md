@@ -11,8 +11,8 @@ Besluit :
 
 ### Enig artikel.
 
-De modellen, opgenomen in de bijlage die bij dit besluit is   gevoegd, worden als herkenningsteken voor beschermde archeologische sites,   beschermde monumenten, beschermde cultuurhistorische landschappen en beschermde   stads- en dorpsgezichten vastgesteld.
+...
 
 ### BIJLAGE
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/03/05_1.pdf#page=69">Modellen   van de herkenningstekens voor beschermde archeologische sites, beschermde   monumenten, beschermde cultuurhistorische landschappen en beschermde stads- en   dorpsgezichten</A>
+...
