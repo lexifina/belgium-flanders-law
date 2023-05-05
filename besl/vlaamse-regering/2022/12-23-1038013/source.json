@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038013,
+  "title": "Besluit van de Vlaamse Regering van 2022-12-23 tot vaststelling van het landinrichtingsplan ‘Scheldeboord Sint-Amands - Kleine Molenbeek Liezele’",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038013/VolledigDocument?datum=2023-05-05",
+  "source_sha256": "88679eb3300fd1fd7c0fef294a37fad296eff87d96c91ac59607650ecbe14880",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038013&param=informatie",
+  "as_of": "2023-05-05",
+  "made": "2022-12-23",
+  "gazette": "2023-04-25",
+  "numac": 2023040431,
+  "document_start": "2023-05-05",
+  "document_end": null,
+  "in_force": "2023-05-05",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2023-05-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
