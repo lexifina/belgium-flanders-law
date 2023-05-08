@@ -28,6 +28,20 @@ In artikel 6.3/1, § 1, van het besluit Vlaamse Codex Wonen van 2021, &nbsp;inge
 2° tussen het eerste en het tweede lid wordt een lid ingevoegd, dat luidt als volgt:&nbsp;<br>
 “De verwerkingsverantwoordelijke, vermeld in artikel 6.3/1, §2, 1°, van de Vlaamse Codex Wonen van 2021, kan de persoonsgegevens, vermeld in het eerste lid, 16°, doorgeven aan een private partner voor de berekening van de vergoeding, vermeld in artikel 6.25, eerste lid, van de Vlaamse Codex Wonen van 2021.”.
 
+### ART 5.
+
+,Aan artikel 6.47 van het besluit Vlaamse Codex Wonen van 2021 wordt een vierde lid toegevoegd, dat luidt als volgt:&nbsp;<br>
+<br>
+“In afwijking van het eerste lid stelt de verhuurder de marktwaarde, vermeld in artikel 6.46, eerste lid, van dit besluit, vast voor een kamer in een kamerwoning op basis van de woningkenmerken van de kamer en de kamerwoning, rekening houdend met de verhouding tussen de private en gemeenschappelijke delen.”.
+
+### ART 6.
+
+In artikel 6.52 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 17 december 2021, worden het tweede en derde lid vervangen door wat volgt:<br>
+<br>
+“In afwijking van het eerste lid wordt het referentie-inkomen van een persoon die op het moment van de huurprijsberekening een persoon ten laste als vermeld in artikel 6.1, eerste lid, 4°, a) of b), is, niet meegerekend.<br>
+<br>
+In afwijking van het eerste lid wordt het referentie-inkomen of een gedeelte ervan van de familieleden van de eerste, tweede en derde graad van de huurder die op het moment van de huurprijsberekening erkend zijn als ernstig gehandicapt, vrijgesteld voor de huurprijsberekening. Het bedrag van de vrijstelling is gelijk aan de geïndexeerde inkomensvervangende tegemoetkoming die toegekend wordt aan de personen die behoren tot categorie B als vermeld in artikel 6, §1, van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap. De voormelde geïndexeerde inkomensvervangende tegemoetkoming is de tegemoetkoming zoals die van toepassing is op 1 september van het jaar dat voorafgaat aan de vaststelling van het referentie-inkomen. De vrijstelling geldt per familielid van de eerste, tweede en derde graad van de huurder dat erkend is als ernstig gehandicapt. Als de vrijstelling groter is dan het referentie-inkomen van het familielid, wordt ze begrensd tot het referentie-inkomen van dat familielid.”.
+
 ### ART 8.
 
 Artikel 6.60 van hetzelfde besluit wordt vervangen door wat volgt:&nbsp;<br>
@@ -68,6 +82,18 @@ De aangewende opbrengsten, vermeld in het eerste lid, worden niet verrekend met 
 
 In artikel 6.60, §1, tweede lid, van hetzelfde besluit, vervangen bij artikel 8 van dit besluit, wordt punt 1° vervangen door wat volgt:<br>
 “1° de federale bijzondere accijns per kWh, vermeld in artikel 419, k), van de programmawet van 27 december 2004 voor elektriciteit van de GN-code 2716;”.
+
+### ART 10.
+
+In artikel 6.61, §2, vijfde lid, van hetzelfde besluit, worden de woorden “plaatsbeschrijving van uittreding” vervangen door de woorden “beëindiging van de huurovereenkomst”.
+
+### ART 12.
+
+In artikel 6.71, §3, vierde lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 17 december 2021, wordt de zin “De huurprijs mag niet hoger zijn dan de marktwaarde, vermeld in artikel 6.46, en niet lager dan de helft van die marktwaarde.” opgeheven.
+
+### ART 13.
+
+Aan artikel 6.74, §1, derde lid, 1°, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 17 december 2021, wordt de zinsnede “tenzij de leegstandsbeheerder zelf maar voor een kortere periode over de woning kan beschikken, in welk geval de duur van de huurovereenkomst de periode bedraagt waarover de leegstandsbeheerder over de woning beschikt” toegevoegd.
 
 ### ART 14.
 
@@ -117,3 +143,27 @@ De primaire verhuurder schrapt uiterlijk op 28 februari 2024 een kandidatuur uit
 In artikel 71 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 10 november 2022, worden de volgende wijzigingen aangebracht:<br>
 1° in het derde lid, 2°, wordt tussen de zinsnede “6,” en de zinsnede “37,” de zinsnede “25,” ingevoegd;<br>
 2° &nbsp;in het vierde lid, 2°, wordt de zinsnede “met 25” vervangen door de zinsnede “met 24”.
+
+### ART 19.
+
+Als een huurder op basis van artikel 6.57 van het Besluit Vlaamse Codex Wonen van 2021, zoals van kracht vóór de inwerkingtreding van artikel 7 van dit besluit, een aangeboden woning voor de eerste maal heeft geweigerd, wordt die weigering niet mee in aanmerking genomen voor de toepassing van artikel 6.57 van het Besluit Vlaamse Codex Wonen van 2021, zoals van kracht na de inwerkingtreding van artikel 7 van dit besluit.<br>
+<br>
+Als een huurder al een onderbezettingsvergoeding als vermeld in artikel 6.57 van het Besluit Vlaamse Codex Wonen van 2021, zoals van kracht vóór de inwerkingtreding van artikel 7 van dit besluit, betaalt, zal de onderbezettingsvergoeding, vermeld in artikel &nbsp;6.57 van het Besluit Vlaamse Codex Wonen van 2021, zoals van kracht na de inwerkingtreding van artikel 7 van dit besluit pas van toepassing zijn vanaf de eerstvolgende weigering van een aangeboden woning na de inwerkingtreding van artikel 7 van dit besluit.
+
+### ART 20.
+
+Artikel 8 en 14 van dit besluit hebben uitwerking met ingang van 1 maart 2021.<br>
+<br>
+Artikel 9 van dit besluit heeft uitwerking met ingang van 1 januari 2022.<br>
+<br>
+Artikel 4, 15 tot en met 17 van dit besluit hebben uitwerking met ingang van 1 januari 2023.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Artikel 7 en 11 van dit besluit treden in werking op 1 oktober 2023.<br>
+<br>
+Artikel 1, 2, 3 en 18 treden in werking op de datum die de minister, bevoegd voor het woonbeleid, vaststelt.&nbsp;<br>
+<br>
+Artikel 9 van het decreet van 6 mei 2022 tot wijziging van boek 6, deel 9, titel 2 van de Vlaamse Codex Wonen van 2021, wat het gebruik van hernieuwbare energie door sociale huurders betreft, en tot wijziging van artikel 6.3/1, 6.16, 6.17 en 6.19 van dezelfde codex, treedt in werking op 1 januari 2023.
+
+### ART 21.
+
+De Vlaamse minister, bevoegd voor het woonbeleid, is belast met de uitvoering van dit besluit.
