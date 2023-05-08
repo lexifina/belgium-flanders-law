@@ -2,16 +2,16 @@
   "codex_id": 1038123,
   "title": "Besluit van de Vlaamse Regering van 2023-01-27 tot uitvoering van artikel 23 van het decreet van 1 juli 2022 tot wijziging van artikel 5 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, tot wijziging van het Groeipakketdecreet van 2018 en tot uitlegging van artikel 8 van het Groeipakketdecreet van 2018 en tot wijziging van het besluit van de Vlaamse Regering van 29 juni 2018 houdende nadere regels betreffende de aanwijzing van de begunstigden van de gezinsbijslagen en de uitbetaling van de toelagen in het kader van het gezinsbeleid en het besluit van de Vlaamse Regering van 7 december 2018 betreffende de nadere regels voor het verkrijgen van een zorgtoeslag",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038123/VolledigDocument?datum=2022-08-01",
-  "source_sha256": "e2995b298f84d81c83b6c65e06b7af51b1f777e3e14bb6af9c5dfc535848a481",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038123/VolledigDocument?datum=2023-05-08",
+  "source_sha256": "c7059db814e7fc933aa4679f936a7fd46774d47fd499aa6a93bfd42ba6f6ccfd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038123&param=informatie",
-  "as_of": "2022-08-01",
+  "as_of": "2023-05-08",
   "made": "2023-01-27",
   "gazette": "2023-05-08",
   "numac": 2023030653,
   "document_start": "2023-05-08",
   "document_end": null,
-  "in_force": "2022-08-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2022-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-05-08",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2023-05-08; future article versions excluded; article text as the API gives it"
 }
