@@ -23,9 +23,10 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° besluit van 21 februari 2014: het besluit van de Vlaamse Regering van 21 februari 2014 betreffende de integrale jeugdhulp;<br>
+1° agentschap Opgroeien: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Opgroeien, vermeld in artikel 1, 1°, van het besluit van de Vlaamse Regering van 24 oktober 2008 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Opgroeien;<br>
+1°/1 besluit van 21 februari 2014: het besluit van de Vlaamse Regering van 21 februari 2014 betreffende de integrale jeugdhulp;<br>
 2° ...;<br>
-3° evaluerend arts: een arts erkend door&nbsp;het agentschap Opgroeien regie om de gevolgen van een aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit vast te stellen;<br>
+3° evaluerend arts: een arts in dienst van het agentschap Opgroeien of het agentschap Opgroeien regie of een arts erkend door&nbsp;het agentschap Opgroeien regie om de gevolgen van een aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit vast te stellen;<br>
 4° koninklijk besluit van 28 maart 2003: het koninklijk besluit van 28 maart 2003 tot uitvoering van de artikelen 47, 56septies en 63 van de samengeordende wetten betreffende de kinderbijslag voor loonarbeiders en van artikel 88 van de programmawet (I) van 24 december 2002;<br>
 5° MDT-arts: een arts die binnen een multidisciplinair team werkt en die de gevolgen van een aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit vaststelt;<br>
 6° minister: de Vlaamse minister bevoegd voor de bijstand aan personen;<br>
@@ -195,14 +196,14 @@ Op basis van de vaststelling van de gevolgen van de aandoening waaruit de specif
 ### ART 15.
 
 In afwijking van artikel 13 verricht de evaluerend arts in de volgende situaties de evaluatie alleen op grond van de bezorgde informatie:<br>
-1° als de evaluerend arts in samenspraak met het agentschap Opgroeien regie van oordeel is dat hij met de bezorgde informatie over voldoende informatie beschikt om een gefundeerde beslissing te nemen. In dat geval geeft de evaluerend arts de aanvragers van de zorgtoeslag de nodige toelichting bij zijn evaluatie en is hun uitdrukkelijke akkoord vereist;<br>
+1° als de evaluerend arts in samenspraak met het agentschap Opgroeien regie van oordeel is dat hij met de bezorgde informatie over voldoende informatie beschikt om een gefundeerde beslissing te nemen. Op verzoek van de begunstigden kan de evaluerend arts of het agentschap Opgroeien regie de nodige toelichting bij de evaluatie geven;<br>
 2° als de evaluerend arts van oordeel is dat hij over voldoende informatie beschikt om een gefundeerde beslissing te nemen en de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, de levensprognose van het kind op korte termijn bedreigt. In dit geval moet bijkomend aan een van de volgende voorwaarden zijn voldaan:<br>
 a) de zware behandeling heeft gevolgen voor de immuniteit;<br>
 b) er is een belangrijke chirurgische ingreep of een ongeval;<br>
 c) er is een ziekenhuisopname of posttraumatische revalidatie in een instelling gedurende minstens zes maanden;<br>
 d) het kind krijgt palliatieve verzorging.<br>
 <br>
-De bijzondere procedure, vermeld in het eerste lid, 2°, is alleen mogelijk als de begunstigden zich er niet tegen verzet hebben in het inlichtingenformulier.<br>
+De evaluatie, vermeld in het eerste lid, is alleen mogelijk als de begunstigden zich er niet tegen verzet hebben in het inlichtingenformulier.<br>
 <br>
 De minister kan de mogelijkheid om een beslissing te nemen op basis van stukken, ook uitbreiden tot andere gevallen. De minister somt daarbij de criteria op die van toepassing zijn bij deze beoordeling op basis van stukken en bepaalt hoe lang deze mogelijkheid kan gebruikt worden, beperkt in de tijd.
 
@@ -277,7 +278,7 @@ In afwijking van artikel 19, § 1, kunnen de begunstigden op basis van nieuwe in
 <br>
 Aan de herzieningsaanvragen die binnen zes maanden voor het tijdstip van de ambtshalve herziening, vermeld in artikel 19, § 1, derde lid, zijn ingediend, wordt geen gevolg gegeven. In voorkomend geval gaat de ambtshalve herziening door.<br>
 <br>
-Als door de herziening, vermeld in het eerste lid, een hoger bedrag kan worden toegekend, betaalt de uitbetalingsactor het verschil. Hij baseert zich daarvoor op de periode die de evaluerend arts bepaalt. Als de nieuwe vaststelling tot een lager bedrag leidt, heef die nieuwe vaststelling pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin de evaluerend arts de vaststelling heeft meegedeeld aan het agentschap Opgroeien regie.
+Als door de herziening, vermeld in het eerste lid, een hoger bedrag kan worden toegekend, betaalt de uitbetalingsactor het verschil. Hij baseert zich daarvoor op de periode die de evaluerend arts&nbsp;of het agentschap Opgroeien regie bepaalt. Als de nieuwe vaststelling tot een lager bedrag leidt, heeft die nieuwe vaststelling pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin de evaluerend arts&nbsp;of het agentschap Opgroeien regie de vaststelling heeft meegedeeld aan het agentschap Opgroeien regie.
 
 ## [HOOFDSTUK 4. Evaluerend arts erkend door het agentschap Opgroeien regie om de gevolgen van een aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit, vast te stellen (verv. BVR 27 januari 2023, art. 6, I: 8 mei 2023)])]
 
@@ -409,7 +410,7 @@ De erkenning van de evaluerend arts wordt van rechtswege verlengd met drie jaar,
 
 ### ART 32.
 
-§ 1. Het agentschap Opgroeien regie kan een oproep doen bij de erkende evaluerend artsen, om op te treden als mentorarts. De oproep bevat minstens de volgende gegevens:<br>
+§1. Het agentschap Opgroeien regie kan een oproep doen bij de erkende evaluerend artsen, om op te treden als mentorarts. De oproep bevat minstens de volgende gegevens:<br>
 1° de periode waarin de aanvraag kan ingediend worden;<br>
 2° de vergelijkende procedure en het beslissingskader dat in de vergelijkende procedure wordt toegepast om de rangorde tussen de verschillende kandidaten vast te stellen;<br>
 3° de vereiste criteria en de competenties waaraan de evaluerend arts moet voldoen om te kunnen optreden als mentorarts;<br>
@@ -418,9 +419,11 @@ De erkenning van de evaluerend arts wordt van rechtswege verlengd met drie jaar,
 <br>
 De oproep vermeld in het eerste lid, wordt via de elektronische communicatiekanalen van&nbsp;het agentschap Opgroeien regie kenbaar gemaakt.<br>
 <br>
-§ 2. De geïnteresseerde evaluerend artsen dienen de aanvraag elektronisch in bij&nbsp;het agentschap Opgroeien regie binnen de indieningstermijn, vermeld in de oproep, met het aanvraagformulier dat&nbsp;het agentschap Opgroeien regie ter beschikking stelt.<br>
+§2. De geïnteresseerde evaluerend artsen dienen de aanvraag elektronisch in bij&nbsp;het agentschap Opgroeien regie binnen de indieningstermijn, vermeld in de oproep, met het aanvraagformulier dat&nbsp;het agentschap Opgroeien regie ter beschikking stelt.<br>
 <br>
-Het agentschap Opgroeien regie&nbsp;neemt binnen de termijn, vermeld in paragraaf 1, eerste lid, 4°, een beslissing conform de vergelijkende procedure en het beslissingskader, vermeld in paragraaf 1, eerste lid, 2°. Het agentschap Opgroeien regie bezorgt elke aanvrager elektronisch de beslissing over zijn aanvraag.
+Het agentschap Opgroeien regie&nbsp;neemt binnen de termijn, vermeld in paragraaf 1, eerste lid, 4°, een beslissing conform de vergelijkende procedure en het beslissingskader, vermeld in paragraaf 1, eerste lid, 2°. Het agentschap Opgroeien regie bezorgt elke aanvrager elektronisch de beslissing over zijn aanvraag.<br>
+<br>
+§3. Een arts die in dienst is bij het agentschap Opgroeien of het agentschap Opgroeien regie, kan door het agentschap Opgroeien regie aangewezen worden als mentorarts in het kader van dit besluit.
 
 ### ART 32/1.
 
@@ -585,21 +588,23 @@ Als het kind voldoet aan de voorwaarden, vermeld in paragraaf 1, wordt het als v
 
 ### ART 49.
 
-§ 1. Het kind voor wie een beslissing is genomen op basis van het koninklijk besluit van 28 maart 2003, en dat ten gevolge van die beslissing bij de uitbetalingsactor een recht opent op een maandelijkse zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte als vermeld in artikel 16, § 1, van het Groeipakketdecreet van 2018, blijft gerechtigd op de zorgtoeslag zolang die beslissing onverminderd van toepassing blijft omdat er geen herziening plaatsvond op aanvraag of ambtshalve en op voorwaarde dat het kind de leeftijd van 21 jaar niet bereikt heeft.<br>
+§1. Het kind voor wie een beslissing is genomen op basis van het koninklijk besluit van 28 maart 2003, en dat ten gevolge van die beslissing bij de uitbetalingsactor een recht opent op een maandelijkse zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte als vermeld in artikel 16, § 1, van het Groeipakketdecreet van 2018, blijft gerechtigd op de zorgtoeslag zolang die beslissing onverminderd van toepassing blijft omdat er geen herziening plaatsvond op aanvraag of ambtshalve en op voorwaarde dat het kind de leeftijd van 21 jaar niet bereikt heeft.<br>
 <br>
 Voor het kind, vermeld in het eerste lid, voor wie vanaf 1 januari 2019 een herziening op aanvraag of een ambtshalve herziening plaatsvindt en waarbij uit de nieuwe beslissing blijkt dat het kind een specifieke ondersteuningsbehoefte heeft die gevolgen heeft als vermeld in artikel 6, wordt een zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte uitgekeerd als vermeld in artikel 16, § 1, van het Groeipakketdecreet van 2018.<br>
 <br>
 De beslissing tot toekenning of weigering van de zorgtoeslag voor een kind met een specifieke ondersteuning die voortvloeit uit een ambtshalve herziening, heeft uitwerking vanaf de eerste dag van de maand na de einddatum van de geldigheid van de vorige beslissing.<br>
 <br>
-Als ten gevolge van de herziening op aanvraag een hoger bedrag kan worden toegekend, betaalt de uitbetalingsactor het verschil voor de periode die de evaluerende arts bepaalt. Als de nieuwe beslissing tot een lager bedrag leidt, heeft die nieuwe beslissing pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin de evaluerende arts de beslissing heeft meegedeeld aan het agentschap Opgroeien regie.<br>
+Als ten gevolge van de herziening op aanvraag een hoger bedrag kan worden toegekend, betaalt de uitbetalingsactor het verschil voor de periode die de evaluerend arts bepaalt. Als de nieuwe beslissing tot een lager bedrag leidt, heeft die nieuwe beslissing pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin de evaluerend arts de beslissing heeft meegedeeld aan het agentschap Opgroeien regie.<br>
 <br>
-§ 2. Het kind voor wie een lichamelijke en geestelijke ongeschiktheid en een graad van zelfredzaamheid is vastgesteld conform artikel 2 van het koninklijk besluit van 28 maart 2003 en dat door die beslissing recht heeft op een bijslag van 414,28 euro, 453,49 euro of 484,78 euro als vermeld in artikel 47, § 1, van de Algemene Kinderbijslagwet en afhankelijk van zijn graad van zelfredzaamheid, blijft zijn recht op die bijslag behouden zolang de beslissing niet herzien wordt.
+§2. Het kind voor wie een lichamelijke en geestelijke ongeschiktheid en een graad van zelfredzaamheid is vastgesteld conform artikel 2 van het koninklijk besluit van 28 maart 2003 en dat door die beslissing recht heeft op een bijslag van 414,28 euro, 453,49 euro of 484,78 euro als vermeld in artikel 47, § 1, van de Algemene Kinderbijslagwet en afhankelijk van zijn graad van zelfredzaamheid, blijft zijn recht op die bijslag behouden zolang de beslissing niet herzien wordt.
 
 ### ART 50.
 
 Zolang de inschaling voor kinderen met een specifieke ondersteuningsbehoefte vanaf 1 januari 2019 conform het driepijlersysteem, vermeld in artikel 6 en 7 van het koninklijk besluit van 28 maart 2003, wordt uitgevoerd onder de bevoegdheid van het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap, worden de beslissingen die daaruit voortvloeien automatisch overgenomen door de Vlaamse Gemeenschap, als het betrokken kind onder de bevoegdheid van de Vlaamse Gemeenschap komt te vallen. Die beslissing geldt voor de termijn die daarvoor bepaald is door de betrokken deelentiteiten en valt onder de toepassing van artikel 19 en 20 van dit besluit.<br>
 <br>
 Het agentschap Opgroeien regie&nbsp;beoordeelt of de inschaling, vermeld in het eerste lid, die gevoerd wordt onder de bevoegdheid van het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie of de Duitstalige Gemeenschap, blijvend conform het driepijlersysteem, vermeld in het eerste lid, wordt uitgevoerd.
+
+## Onderafdeling 3. Erkenning als [evaluerend arts (verv. BVR 27 januari 2023, art. 9, I: 8 mei 2023)]
 
 ### ART 51.
 
@@ -609,7 +614,7 @@ Zonder dat ze daartoe een aanvraag hoeven in te dienen, krijgen artsen op 1 janu
 <br>
 De arts die de erkenning, vermeld in het eerste lid, niet wil, meldt dat elektronisch aan Kind en Gezin. Kind en Gezin verleent in dat geval geen erkenning aan de arts.<br>
 <br>
-De evaluerende arts, vermeld in het eerste lid, heeft drie jaar de tijd om te voldoen aan de erkenningsvoorwaarde, vermeld in artikel 22, § 1, eerste lid, 6°.
+De evaluerend arts, vermeld in het eerste lid, heeft drie jaar de tijd om te voldoen aan de erkenningsvoorwaarde, vermeld in artikel 22, § 1, eerste lid, 6°.
 
 ## Onderafdeling 4. Pleegzorgtoeslag
 
