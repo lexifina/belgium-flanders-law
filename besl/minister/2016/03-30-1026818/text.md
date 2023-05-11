@@ -351,4 +351,4 @@ Dit   besluit treedt in werking op 1 april 2016.
 
 ### BIJLAGE 2
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2023/09/08_1.pdf#page=272">Bijlage 2. De lijst van ondernemerschapsbevorderende diensten die gericht zijn op de beroepsspecifieke competenties, vermeld in artikel 4/3</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2023/09/08_1.pdf#page=650">De lijst van ondernemerschapsbevorderende diensten die gericht zijn op de beroepsspecifieke competenties, vermeld in artikel 4/3.</a>
