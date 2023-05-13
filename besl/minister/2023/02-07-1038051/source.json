@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038051,
+  "title": "Ministerieel besluit van 2023-02-07 tot aanwijzing van gewestelijke toezichthouders, gewestelijke milieuopsporingsambtenaren, gemachtigde ambtenaren bij het Agentschap voor Natuur en Bos overeenkomstig het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en van bosinventariseerders overeenkomstig het Bosdecreet van 13 juni 1990",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038051/VolledigDocument?datum=2023-05-13",
+  "source_sha256": "f51c5f2861a9822a9bdd6925b0f4600a2f6d34a0a6b15462553dbe11cf51d966",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038051&param=informatie",
+  "as_of": "2023-05-13",
+  "made": "2023-02-07",
+  "gazette": "2023-05-03",
+  "numac": 2023040685,
+  "document_start": "2023-05-13",
+  "document_end": "2023-09-09",
+  "in_force": "2023-05-13",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2023-05-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
