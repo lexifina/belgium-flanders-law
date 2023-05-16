@@ -38,11 +38,14 @@ Met het oog op een efficiënte en resultaatgerichte interne organisatie wordt de
 - Christophe Schelfaut, adjunct van de directeur;<br>
 - Leen Straetmans, adjunct van de directeur.<br>
 <br>
-Deze subdelegatie omvat het nemen van beslissingen over:<br>
-a) Het instellen van rechtsgedingen;<br>
-b) Het verrichten van alle noodzakelijke proceshandelingen;<br>
-c) Het berusten in een vonnis of arrest, of het instellen van rechtsmiddelen ertegen, met uitzondering van het instellen van een hoger beroep of een voorziening in cassatie;<br>
-d) De afstand van het geding<br>
+Met het oog op een efficiënte en resultaatgerichte interne organisatie wordt de bevoegdheid om rechtsgedingen te voeren, namens de Vlaamse Regering als eiser, verweerder of tussenkomende partij voor de administratieve rechtscolleges gesubdelegeerd aan de volgende personen:&nbsp;<br>
+-&nbsp;&nbsp; &nbsp;Pieter Callebaut, adviseur;<br>
+-&nbsp;&nbsp; &nbsp;Julie Cornelis, adjunct van de directeur;<br>
+-&nbsp;&nbsp; &nbsp;Yves de Regt, directeur<br>
+-&nbsp;&nbsp; &nbsp;Kris Franssens, adviseur;<br>
+-&nbsp;&nbsp; &nbsp;Tine Renders, adviseur;<br>
+-&nbsp;&nbsp; &nbsp;Christophe Schelfaut, adjunct van de directeur;<br>
+-&nbsp;&nbsp; &nbsp;Leen Straetmans, adjunct van de directeur.<br>
 &nbsp;
 
 ### ART 3.
