@@ -50,14 +50,19 @@ Met het oog op een efficiënte en resultaatgerichte interne organisatie wordt de
 
 ### ART 3.
 
-Met het oog op een efficiënte en resultaatgerichte interne organisatie wordt de bevoegdheid om rechtsgedingen te voeren (met uitzondering van de beslissingen over het instellen van rechtsgedingen, het berusten in een vonnis of arrest, of het instellen van rechtsmiddelen ertegen en de afstand van het geding), namens de Vlaamse Regering als eiser, verweerder of tussenkomende partij voor de administratieve rechtscollege, gesubdelegeerd aan de volgende personen:<br>
-- Catherine Bruyninckx, adjunct van de directeur;<br>
-- Laura De Block, adjunct van de directeur;<br>
-- Ruth D'haese, adjunct van de directeur;<br>
-- Charlotte De Meersman, adjunct van de directeur;<br>
-- Sarah Meert, adjunct van de directeur;<br>
-- Katrien Op de Beeck, adjunct van de directeur;<br>
-- Hannes Vanden Heule, adjunct van de directeur.
+Met het oog op een efficiënte en resultaatgerichte interne organisatie wordt de bevoegdheid om rechtsgedingen te voeren (met uitzondering van de beslissingen over het instellen van rechtsgedingen, het berusten in een vonnis of arrest, of het instellen van rechtsmiddelen ertegen en de afstand van het geding), namens de Vlaamse Regering als eiser, verweerder of tussenkomende partij voor de administratieve rechtscollege, gesubdelegeerd aan de volgende personen:&nbsp;<br>
+-&nbsp;&nbsp; &nbsp;Catherine Bruyninckx, adjunct van de directeur;<br>
+-&nbsp;&nbsp; &nbsp;Angelie Cuypers, adjunct van de directeur;<br>
+-&nbsp;&nbsp; &nbsp;Laura De Block, adjunct van de directeur;<br>
+-&nbsp;&nbsp; &nbsp;Ruth D’haese, adjunct van de directeur;<br>
+-&nbsp;&nbsp; &nbsp;Charlotte De Meersman, adjunct van de directeur;<br>
+-&nbsp;&nbsp; &nbsp;Yente Denayer, adjunct van de directeur;<br>
+-&nbsp;&nbsp; &nbsp;Huub Jans, adjunct van de directeur;<br>
+-&nbsp;&nbsp; &nbsp;Alexis Jansoone, adjunct van de directeur;<br>
+-&nbsp;&nbsp; &nbsp;Sarah Meert, adjunct van de directeur;<br>
+-&nbsp;&nbsp; &nbsp;Katrien Op de Beeck, adjunct van de directeur;<br>
+-&nbsp;&nbsp; &nbsp;Hannes Vanden Heule, adjunct van de directeur<br>
+-&nbsp;&nbsp; &nbsp;Grete Van Laer, ingenieur.
 
 ### ART 4.
 

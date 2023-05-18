@@ -2,16 +2,16 @@
   "codex_id": 1028793,
   "title": "Besluit van een ambtenaar van 2017-11-08 van het Departement Omgeving houdende subdelegatie van sommige bevoegdheden inzake rechtsgedingen aan personeelsleden van de afdeling Handhaving",
   "type": "Besluit van een ambtenaar",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028793/VolledigDocument?datum=2023-05-16",
-  "source_sha256": "7c164029b6bbd172bfba3e0e4ce518ac6ed241a4c157d4a93eababdef37ede51",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028793/VolledigDocument?datum=2023-05-18",
+  "source_sha256": "a277995dc53bdd66447f8c6f84c57cc2b908f712a89dc759535c52930c3181b7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028793&param=informatie",
-  "as_of": "2023-05-16",
+  "as_of": "2023-05-18",
   "made": "2017-11-08",
   "gazette": "2017-12-08",
   "numac": 2017206395,
   "document_start": "2017-11-09",
   "document_end": null,
-  "in_force": "2023-05-16",
+  "in_force": "2023-05-18",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2023-05-16; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-05-18; future article versions excluded; article text as the API gives it"
 }
