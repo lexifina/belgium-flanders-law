@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038105,
+  "title": "Besluit van de Vlaamse Regering van 2023-01-20 houdende opheffing van de Polder van Battenbroek",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038105/VolledigDocument?datum=2023-05-20",
+  "source_sha256": "a29a2f77c002fc4ca6ca67afdf6025cde429c1f8be22883a35c73988c6353cb0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038105&param=informatie",
+  "as_of": "2023-05-20",
+  "made": "2023-01-20",
+  "gazette": "2023-05-10",
+  "numac": 2023040905,
+  "document_start": "2023-05-20",
+  "document_end": null,
+  "in_force": "2023-05-20",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2023-05-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
