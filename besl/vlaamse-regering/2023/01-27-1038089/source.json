@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038089,
+  "title": "Besluit van de Vlaamse Regering van 2023-01-27 tot wijziging van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming en het besluit van de Vlaamse Regering van 7 december 2018 houdende de uitvoering van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging, wat betreft de verlenging van de compenserende maatregelen voor de revalidatievoorzieningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038089/VolledigDocument?datum=2023-05-20",
+  "source_sha256": "26af037965bf5f124b35302ec9b1ad8c41832abd789f77d0997dbe3af6995d67",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038089&param=informatie",
+  "as_of": "2023-05-20",
+  "made": "2023-01-27",
+  "gazette": "2023-05-10",
+  "numac": 2023030564,
+  "document_start": "2023-05-20",
+  "document_end": null,
+  "in_force": "2023-05-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-05-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
