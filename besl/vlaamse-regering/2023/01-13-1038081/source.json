@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038081,
+  "title": "Besluit van de Vlaamse Regering van 2023-01-13 tot verlenging van de geldigheidsduur van de besluiten over de aanvragen van verschillende graduaatsopleidingen aangeboden door de hogescholen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038081/VolledigDocument?datum=2023-05-21",
+  "source_sha256": "98691ddd9ebc679944a40c15e5adccc6b407ba46c29e8fd5ba0607e4b8ec8c03",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038081&param=informatie",
+  "as_of": "2023-05-21",
+  "made": "2023-01-13",
+  "gazette": "2023-05-11",
+  "numac": 2023030495,
+  "document_start": "2023-05-21",
+  "document_end": null,
+  "in_force": "2023-05-21",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-05-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
