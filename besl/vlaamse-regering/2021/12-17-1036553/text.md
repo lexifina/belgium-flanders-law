@@ -129,9 +129,11 @@ Het implementatietraject is gericht op de effectieve invulling van al de doelste
 
 ### ART 14.
 
-Het implementatietraject heeft een duur van minimaal 24 maanden en eindigt uiterlijk op 31 december 2024.<br>
+Het implementatietraject heeft een duur van minimaal 24 maanden.<br>
 <br>
-De minister kan de termijn van het implementatietraject wijzigen in functie van beleidsprioriteiten.
+De minister kan de termijn, vermeld in het eerste lid, wijzigen.<br>
+<br>
+De minister kan projecten die voor 31 december 2022 zijn goedgekeurd verlengen naargelang van beleidsprioriteiten en aantoonbare behoeften die hij in zijn oproep uiteenzet, waarbij hij bijkomende oproepvoorwaarden kan bepalen. De aanvragen voor de oproep gebeuren overeenkomstig de artikelen 22 tot 24 en worden behandeld overeenkomstig de procedure bepaald in de artikelen 25 tot 32.
 
 ### ART 15.
 
