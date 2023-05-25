@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038103,
+  "title": "Besluit van de Vlaamse Regering van 2023-02-17 tot wijziging van het besluit van de Vlaamse regering van 19 juli 2002 betreffende het geregeld vervoer, de bijzondere vormen van geregeld vervoer, het vervoer voor eigen rekening en het ongeregeld vervoer en tot opheffing van het besluit van de Vlaamse regering van 12 september 2003 betreffende de rapportering over het personenvervoer over de weg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038103/VolledigDocument?datum=2023-05-25",
+  "source_sha256": "395c2e6be17279983558279bd8521e94c3423949e644ebd98e22a9076102c75a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038103&param=informatie",
+  "as_of": "2023-05-25",
+  "made": "2023-02-17",
+  "gazette": "2023-05-15",
+  "numac": 2023040900,
+  "document_start": "2023-05-25",
+  "document_end": null,
+  "in_force": "2023-05-25",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2023-05-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
