@@ -4,7 +4,13 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° minister: de Vlaamse minister, bevoegd voor de mobiliteit;<br /><br />2° decreet: het decreet van 20 april 2001 betreffende de organisatie van het personenvervoer over de weg en tot oprichting van de Mobiliteitsraad van Vlaanderen;<br /><br />3° bevoegde administratie: de afdeling Personenvervoer en Luchthavens van het Ministerie van de Vlaamse Gemeenschap, departement Leefmilieu en Infrastructuur, administratie Wegen en Verkeer;<br /><br />4° wegeninspecteurs: de ambtenaren, bedoeld in artikel 64 van het decreet;<br /><br />5° wegeninspecteurs-controleurs: de ambtenaren, bedoeld in artikel 64 en 66 van het decreet;<br /><br />6° VVM: de Vlaamse Vervoermaatschappij "De Lijn".
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° minister: de Vlaamse minister, bevoegd voor de mobiliteit;<br>
+2° decreet: het decreet van 20 april 2001 betreffende de organisatie van het personenvervoer over de weg en tot oprichting van de Mobiliteitsraad van Vlaanderen;<br>
+3° bevoegde administratie: het Departement Mobiliteit en Openbare werken, vermeld in artikel 28, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+4° wegeninspecteurs: de ambtenaren, bedoeld in artikel 64 van het decreet;<br>
+5° wegeninspecteurs-controleurs: de ambtenaren, bedoeld in artikel 64 en 66 van het decreet;<br>
+6° VVM: de Vlaamse Vervoermaatschappij "De Lijn".
 
 ## HOOFDSTUK II GEREGELD VERVOER
 
@@ -36,6 +42,10 @@ De vergunningshouders zijn ertoe gehouden:<br>
 ### ART 2/5.
 
 De minister kan de vergunninghouders verplichten de door de Vlaamse Regering vastgestelde tarieven na te leven.
+
+### ART 2/6.
+
+De vergunning, vermeld in artikel 2/1, wordt ingetrokken en beëindigd conform artikel 4 tot en met 6. Aan de vergunninghouder kan ook een verbod worden opgelegd om aan geregeld vervoer te doen als vermeld in artikel 7.
 
 ### ART. 3.
 

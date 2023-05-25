@@ -2,16 +2,16 @@
   "codex_id": 1009621,
   "title": "Besluit van de Vlaamse Regering van 2002-07-19 betreffende het geregeld vervoer, de bijzondere vormen van geregeld vervoer, het vervoer voor eigen rekening en het ongeregeld vervoer",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009621/VolledigDocument?datum=2022-03-05",
-  "source_sha256": "9ab9409f7aec284a9165a708e442d8b3fbb7e6cf62597ab74bec3c233bd58d20",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009621/VolledigDocument?datum=2023-05-25",
+  "source_sha256": "5d5c37dcecebf25a4699127c1a0b8578ac7c9aa5e949ab7f2aae1082e995bca8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009621&param=informatie",
-  "as_of": "2022-03-05",
+  "as_of": "2023-05-25",
   "made": "2002-07-19",
   "gazette": "2002-08-31",
   "numac": 2002036097,
   "document_start": "2002-09-10",
   "document_end": null,
-  "in_force": "2022-03-05",
-  "article_versions": 51,
-  "record_form": "consolidated version as in force on 2022-03-05; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-05-25",
+  "article_versions": 52,
+  "record_form": "consolidated version as in force on 2023-05-25; future article versions excluded; article text as the API gives it"
 }
