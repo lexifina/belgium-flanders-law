@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038119,
+  "title": "Besluit van de Vlaamse Regering van 2023-02-10 tot erkenning van de bacheloropleiding “Bachelor in de built environment” als nieuwe opleiding van de Hogeschool West-Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038119/VolledigDocument?datum=2023-05-25",
+  "source_sha256": "6db8792f350d3b2a36f098ae14ddcc8dc630e22da4c01903e6bb7fc267c3dbb6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038119&param=informatie",
+  "as_of": "2023-05-25",
+  "made": "2023-02-10",
+  "gazette": "2023-05-15",
+  "numac": 2023040938,
+  "document_start": "2023-05-25",
+  "document_end": null,
+  "in_force": "2023-05-25",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-05-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
