@@ -141,7 +141,7 @@ Het agentschap kan voor de aanvragen, vermeld in het eerste lid, een digitaal pl
 <br>
 Bij het stageplan voor de volledige duur van de opleiding zijn de volgende documenten gevoegd:<br>
 1° de stukken waaruit blijkt dat de kandidaat gemachtigd is om in België de tandheelkunde uit te oefenen;<br>
-2° minstens voor het eerste stagejaar een exemplaar van de schriftelijke overeenkomst die gesloten is tussen de kandidaat en een of meer stagemeesters of de verantwoordelijke instelling, over de vergoeding van de kandidaat, met nauwkeurige vermelding van de duur van de overeenkomst;<br>
+2° ...;<br>
 3° het inschrijvingsbewijs voor de specifieke universitaire opleiding voor de desbetreffende bijzondere beroepstitel.<br>
 <br>
 § 2. Alleen volledige dossiers worden aan de erkenningscommissie voorgelegd.<br>
@@ -156,11 +156,15 @@ Als de kandidaat uitgenodigd wordt voor de vergadering van de erkenningscommissi
 <br>
 § 4. Als het stageplan tijdens de twee maanden na de start van de opleiding wordt ingediend, wordt de stageperiode gerekend vanaf de datum waarop de opleiding werkelijk begonnen is.<br>
 <br>
-Als het stageplan na de twee maanden, vermeld in het eerste lid, wordt ingediend, wordt de datum van de indiening beschouwd als de datum waarop de stage is begonnen.
+Als het stageplan na de twee maanden, vermeld in het eerste lid, wordt ingediend, wordt de datum van de indiening beschouwd als de datum waarop de stage is begonnen, tenzij de erkenningscommissie in specifieke omstandigheden anders adviseert.
 
 ### ART 9.
 
 De kandidaat legt elke wijziging van zijn stageplan vooraf aan het agentschap ter goedkeuring voor. Alle bepalingen die betrekking hebben op een nieuw stageplan, zijn ook van toepassing op de wijziging van een stageplan.
+
+### ART 9/1.
+
+De kandidaat houdt een exemplaar bij van elke schriftelijke overeenkomst die gesloten is tussen de kandidaat en een of meer stagemeesters of de verantwoordelijke instelling, over de vergoeding van de kandidaat, met nauwkeurige vermelding van de duur van de overeenkomst, en bezorgt dat op verzoek van het agentschap.
 
 ### ART 10.
 
@@ -231,7 +235,7 @@ Het agentschap bezorgt zijn definitieve beslissing, na een advies van de erkenni
 Het agentschap kan voor de aanvragen, vermeld in het eerste lid, een digitaal platform ter beschikking stellen dat het aanvraagformulier, vermeld in het eerste lid, aanvult of vervangt.<br>
 <br>
 Bij de aanvraag zijn de volgende documenten gevoegd:<br>
-1° de attesten van de stagemeesters;<br>
+1° het eindattest van de coördinerende stagemeester;<br>
 2° het laatste stagerapport, alsook elk ander document dat de erkenningscommissie in staat stelt over de waarde van de aanvrager te adviseren;<br>
 3° het bewijs dat de aanvrager geslaagd is voor de opleiding, vermeld in artikel 8, § 1, derde lid, 3°.<br>
 <br>
@@ -261,29 +265,33 @@ Als het agentschap en de onderwijsinstellingen, andere instellingen en organisat
 
 ### ART 16.
 
-Als de erkenningscommissie een negatief advies geeft en het agentschap beslist om dat advies te volgen, bezorgt het agentschap het voornemen tot negatieve beslissing met een aangetekende brief aan de aanvrager.<br>
+§1. Als de erkenningscommissie een negatief advies geeft en het agentschap beslist om dat advies te volgen, bezorgt het agentschap een voornemen tot negatieve beslissing aan de aanvrager met een aangetekende brief.<br>
 <br>
-De aanvrager kan binnen dertig dagen na de ontvangst van het voornemen tot negatieve beslissing een bezwaarnota aan het agentschap bezorgen met zijn opmerkingen.<br>
+§2. De aanvrager kan binnen dertig dagen na de dag waarop hij het voornemen tot negatieve beslissing, vermeld in paragraaf 1, heeft ontvangen, een bezwaarnota met zijn opmerkingen bezorgen aan het agentschap.<br>
 <br>
-De bezwaarnota van de aanvrager wordt, samen met het negatieve advies, het voornemen tot negatieve beslissing en het aanvraagdossier, voorgelegd aan de adviescommissie.<br>
+De bezwaarnota van de aanvrager, vermeld in het eerste lid, wordt, samen met het negatieve advies en het voornemen tot negatieve beslissing, vermeld in paragraaf 1, en het aanvraagdossier, vermeld in artikel 8, §1, of artikel 14, §1, of het stagerapport, vermeld in artikel 11, voorgelegd aan de adviescommissie.<br>
 <br>
-De bezwaarnota wordt behandeld conform de regels die zijn vastgesteld in of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
+De bezwaarnota wordt behandeld volgens de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
 <br>
-Het agentschap bezorgt zijn definitieve beslissing aan de aanvrager, tenzij het advies van de adviescommissie afwijkt van het voornemen tot negatieve beslissing. In dat geval beslist de Vlaamse minister, bevoegd voor het gezondheidsbeleid.
+Het agentschap bezorgt zijn definitieve beslissing aan de aanvrager, tenzij het advies van de adviescommissie afwijkt van het voornemen tot negatieve beslissing, vermeld in paragraaf 1. In dat laatste geval beslist de Vlaamse minister, bevoegd voor de gezondheids- en woonzorg.<br>
+<br>
+§3. Als de aanvrager geen bezwaarnota indient binnen de termijn, vermeld in paragraaf 2, eerste lid, wordt het voornemen tot negatieve beslissing, vermeld in paragraaf 1, van rechtswege geacht een weigeringsbeslissing te zijn.
 
 ### ART 17.
 
-Als het agentschap van oordeel is dat een positief advies van de erkenningscommissie niet gevolgd kan worden, brengt het de erkenningscommissie daarvan op de hoogte.<br>
+§1. Als de erkenningscommissie een positief advies geeft en als het agentschap van oordeel is dat het advies van de erkenningscommissie niet gevolgd kan worden, brengt het de erkenningscommissie daarvan op de hoogte.<br>
 <br>
-Als de erkenningscommissie bij haar oorspronkelijke positieve advies blijft, bezorgt het agentschap het voornemen tot negatieve beslissing, samen met het positieve advies, aan de aanvrager.<br>
+Als de erkenningscommissie na de kennisgeving, vermeld in het eerste lid, bij haar oorspronkelijke positieve advies blijft, bezorgt het agentschap een voornemen tot negatieve beslissing, samen met het positieve advies, aan de aanvrager.<br>
 <br>
-De aanvrager kan binnen dertig dagen na de ontvangst van het voornemen tot negatieve beslissing een bezwaarnota aan het agentschap bezorgen met zijn opmerkingen.<br>
+§2. De aanvrager kan binnen dertig dagen na de dag waarop hij het voornemen tot negatieve beslissing, vermeld in paragraaf 1, tweede lid, heeft ontvangen, een bezwaarnota met zijn opmerkingen bezorgen aan het agentschap.<br>
 <br>
-De bezwaarnota van de aanvrager wordt, samen met het positieve advies, het voornemen tot negatieve beslissing en het aanvraagdossier, voorgelegd aan de adviescommissie.<br>
+De bezwaarnota van de aanvrager, vermeld in het eerste lid, wordt, samen met het positieve advies en het voornemen tot negatieve beslissing, vermeld in paragraaf 1, en het aanvraagdossier, vermeld in artikel 8, §1, of artikel 14, §1, of het stagerapport, vermeld in artikel 11, voorgelegd aan de adviescommissie.<br>
 <br>
-De bezwaarnota wordt behandeld conform de regels die zijn vastgesteld in of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
+De bezwaarnota wordt behandeld volgens de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
 <br>
-Het agentschap bezorgt zijn definitieve beslissing aan de aanvrager, tenzij het advies van de adviescommissie afwijkt van het voornemen tot negatieve beslissing. In dat geval beslist de Vlaamse minister, bevoegd voor het gezondheidsbeleid.
+Het agentschap bezorgt zijn definitieve beslissing aan de aanvrager, tenzij het advies van de adviescommissie afwijkt van het voornemen tot negatieve beslissing, vermeld in paragraaf 1, tweede lid. In dat laatste geval beslist de Vlaamse minister, bevoegd voor de gezondheids- en woonzorg.<br>
+<br>
+§3. Als de aanvrager geen bezwaarnota indient binnen de termijn, vermeld in paragraaf 2, eerste lid, wordt het voornemen tot negatieve beslissing, vermeld in paragraaf 1, tweede lid, van rechtswege geacht een weigeringsbeslissing te zijn.
 
 ## HOOFDSTUK 5 De opschorting en de intrekking van de erkenning
 
