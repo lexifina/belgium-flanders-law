@@ -29,6 +29,7 @@ In dit besluit wordt verstaan onder:<br>
 2° adviescommissie: de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers, vermeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers;<br>
 3° agentschap: het agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
 4° erkenningscommissies: de erkenningscommissies voor de erkenning van de bijzondere beroepstitels van artsen-specialisten en de erkenningscommissie voor de erkenning van de bijzondere beroepstitel van huisarts;<br>
+4/1° titel van niveau 2: een titel van niveau 2 als vermeld in artikel 1 van het koninklijk besluit van 25 november 1991 houdende de lijst van bijzondere beroepstitels voorbehouden aan de beoefenaars van de geneeskunde, met inbegrip van de tandheelkunde;<br>
 5° titel van niveau 3: een titel van niveau 3 als vermeld in artikel 2 van het koninklijk besluit van 25 november 1991 houdende de lijst van bijzondere beroepstitels voorbehouden aan de beoefenaars van de geneeskunde, met inbegrip van de tandheelkunde;<br>
 6° voorzitterscollege: het geheel van de voorzitters van de erkenningscommissies.
 
@@ -36,7 +37,7 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 2.
 
-§ 1. In dit artikel wordt verstaan onder titel van niveau 2: een titel van niveau 2 als vermeld in artikel 1 van het koninklijk besluit van 25 november 1991 houdende de lijst van bijzondere beroepstitels voorbehouden aan de beoefenaars van de geneeskunde, met inbegrip van de tandheelkunde.<br>
+§ 1. ....<br>
 <br>
 § 2. Bij het agentschap wordt voor elk van de titels van niveau 2 voor artsen-specialisten en voor de bijzondere beroepstitel van huisarts een erkenningscommissie opgericht.<br>
 <br>
@@ -173,8 +174,17 @@ Het agentschap kan voor het indienen van de aanvragen, vermeld in het eerste lid
 Bij het stageplan voor de volledige duur van de opleiding zijn de volgende documenten gevoegd:<br>
 1° een attest dat aantoont dat de kandidaat door een faculteit Geneeskunde aanvaard is voor de discipline waarin hij wil worden opgeleid;<br>
 2° een attest waaruit blijkt dat de aanvrager ingeschreven is op de lijst van de Orde der Artsen;<br>
-3° wat de kandidaat-specialisten betreft, voor minstens het eerste stagejaar een exemplaar van de schriftelijke overeenkomst, gesloten tussen de kandidaat en de stagemeester of de verantwoordelijke instelling, met betrekking tot de vergoeding van de kandidaat, met nauwkeurige vermelding van de duur van de overeenkomst;<br>
-4° wat de kandidaat-huisartsen betreft, voor minstens het eerste stagejaar een exemplaar van de opleidingsovereenkomst, gesloten tussen de kandidaat en de stagemeester of de verantwoordelijke instelling, met betrekking tot de vergoeding van de kandidaat, met nauwkeurige vermelding van de duur van de overeenkomst.<br>
+3° ...;<br>
+4° ...<br>
+<br>
+Voorafgaand aan de indiening van het stageplan, vermeld in het derde lid, of uiterlijk tegelijk met de indiening ervan kan een kandidaat aan het agentschap een verkorting vragen als hij aan een van de volgende voorwaarden voldoet:<br>
+1°&nbsp;&nbsp; &nbsp;een volledige of gedeeltijke opleiding in het buitenland hebben gevolgd die niet is bekrachtigd door een kwalificerende beroepstitel;<br>
+2°&nbsp;&nbsp; &nbsp;in België erkend zijn voor een titel van niveau 2 of niveau 3;<br>
+3°&nbsp;&nbsp; &nbsp;een volledige of gedeeltelijke opleiding voor een titel van niveau 2 of niveau 3 in België hebben gevolgd op basis van een goedgekeurd stageplan.<br>
+<br>
+Het agentschap stelt voor de aanvraag van een verkorting als vermeld in het vierde lid, een aanvraagformulier ter beschikking.<br>
+<br>
+Om de aanvragen, vermeld in het vierde lid, in te dienen, kan het agentschap een digitaal platform ter beschikking stellen dat het aanvraagformulier, vermeld in het vijfde lid, aanvult of vervangt.<br>
 <br>
 § 2. Alleen volledige dossiers worden aan de erkenningscommissie voorgelegd.<br>
 <br>
@@ -184,15 +194,23 @@ De kandidaat kan worden uitgenodigd voor de vergadering van de erkenningscommiss
 <br>
 Als de kandidaat die voor de vergadering van de erkenningscommissie is uitgenodigd, niet aanwezig kan zijn, kan de erkenningscommissie adviseren op basis van het dossier.<br>
 <br>
+Als de erkenningscommissie een negatief advies geeft over een verkorting als vermeld in paragraaf 1, vierde lid, kan geen advies worden gegeven over het bijbehorende stageplan.<br>
+<br>
 § 3. Het agentschap beslist, na advies van de erkenningscommissie, over de goedkeuring van het stageplan. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.<br>
 <br>
 § 4. Als het stageplan tijdens de eerste vier maanden na de start van de opleiding wordt ingediend, wordt de stageperiode gerekend vanaf de datum waarop de opleiding werkelijk begonnen is.<br>
 <br>
-Als het stageplan na de vier maanden, vermeld in het eerste lid, wordt ingediend, wordt de datum van de indiening beschouwd als de datum waarop de stage is begonnen.
+Als het stageplan na de vier maanden, vermeld in het eerste lid, wordt ingediend, wordt de datum van de indiening beschouwd als de datum waarop de stage is begonnen, tenzij de erkenningscommissie in specifieke omstandigheden anders adviseert.
 
 ### ART 9.
 
 De kandidaat legt elke wijziging in zijn stageplan vooraf aan het agentschap voor ter goedkeuring. Alle bepalingen die betrekking hebben op een nieuw stageplan, zijn ook van toepassing op een wijziging van een stageplan, met uitzondering van artikel 8, § 1, derde lid, 1° en 2°.
+
+### ART 9/1.
+
+De kandidaat-specialist houdt een exemplaar bij van elke schriftelijke overeenkomst die gesloten is tussen de kandidaat en de stagemeester of de verantwoordelijke instelling, over de vergoeding van de kandidaat, met nauwkeurige vermelding van de duur van de overeenkomst, en<font color="#0782c1">&nbsp;</font>bezorgt dat op verzoek van het agentschap<br>
+<br>
+De kandidaat-huisarts houdt een exemplaar bij van elke opleidingsovereenkomst die gesloten is tussen de kandidaat en de stagemeester of de verantwoordelijke instelling, over de vergoeding van de kandidaat, met nauwkeurige vermelding van de duur van de overeenkomst, en bezorgt dat op verzoek van het agentschap.
 
 ### ART 10.
 
@@ -236,17 +254,7 @@ Als er een onderzoek ter plaatse gebeurt, bezorgt de onderzoekscommissie een ver
 <br>
 Het agentschap bezorgt zijn definitieve beslissing, na advies van de erkenningscommissie, aan de kandidaat, de stagemeester en de coördinerende stagemeester.<br>
 <br>
-§ 2. Als de voorzitter, de ondervoorzitter of de secretaris van de bevoegde erkenningscommissie onregelmatigheden vaststelt tijdens de uitvoering van de procedure, vermeld in paragraaf 1, kan het geschil verder worden behandeld door het voorzitterscollege.<br>
-<br>
-Het voorzitterscollege hoort de kandidaat en de stagemeester.<br>
-<br>
-Als het geschil blijft bestaan, kan het voorzitterscollege een onderzoekscommissie, die bestaat uit ten minste twee van haar leden, belasten met een onderzoek ter plaatse.<br>
-<br>
-Als een onderzoek ter plaatse gebeurt, woont een personeelslid van het agentschap dat onderzoek ter plaatse bij.<br>
-<br>
-Als er een onderzoek ter plaatse gebeurt, bezorgt de onderzoekscommissie een verslag aan het voorzitterscollege.<br>
-<br>
-Het agentschap bezorgt zijn definitieve beslissing, na advies van het voorzitterscollege, aan de kandidaat, de stagemeester en de coördinerende stagemeester.
+§ 2. ...
 
 ### ART 13.
 
@@ -266,33 +274,23 @@ Als ook de tweede stagemeester na de uitvoering van het gewijzigde stageplan een
 <br>
 Het agentschap bezorgt zijn definitieve beslissing, na een advies van de erkenningscommissie als vermeld in het zesde en het zevende lid, aan de kandidaat, de stagemeester en de coördinerende stagemeester.<br>
 <br>
-§ 2. Als de bevoegde erkenningscommissie in de loop van of op het einde van de stageperiode van oordeel is dat de kandidaat niet geschikt is om de gekozen discipline uit te oefenen, deelt ze dat schriftelijk mee aan de kandidaat en aan het agentschap, met vermelding van de motieven waarop ze haar beoordeling baseert.<br>
-<br>
+§2. Als de bevoegde erkenningscommissie in de loop van of op het einde van de stageperiode van oordeel is dat de kandidaat niet geschikt is om de gekozen discipline uit te oefenen, deelt ze dat schriftelijk mee aan de kandidaat en aan het agentschap, met vermelding van de motieven waarop ze haar beoordeling baseert.<br>
+&nbsp;<br>
 De erkenningscommissie hoort de kandidaat en de stagemeester.<br>
-<br>
+&nbsp;<br>
 Als de erkenningscommissie bij haar standpunt blijft, kan ze een onderzoekscommissie, die bestaat uit ten minste twee van haar leden, belasten met een onderzoek ter plaatse.<br>
-<br>
+&nbsp;<br>
 Als een onderzoek ter plaatse gebeurt, woont een personeelslid van het agentschap dat onderzoek ter plaatse bij.<br>
-<br>
+&nbsp;<br>
 Als een onderzoek ter plaatse gebeurt, bezorgt de onderzoekscommissie een verslag aan de erkenningscommissie.<br>
-<br>
+&nbsp;<br>
 De erkenningscommissie adviseert ofwel om een einde te maken aan de stage, ofwel om de stage te laten voortzetten. In het laatste geval adviseert de erkenningscommissie dat de kandidaat een nieuwe stagemeester zoekt en in welke mate de stage die gevolgd is bij de eerste stagemeester, in aanmerking zal worden genomen bij het berekenen van de totale stageduur. De kandidaat legt een wijziging van het stageplan ter goedkeuring voor aan het agentschap.<br>
-<br>
+&nbsp;<br>
 Als de tweede stagemeester na de uitvoering van het gewijzigde stageplan een ongunstige evaluatie geeft, kan de erkenningscommissie adviseren de kandidaat niet toe te laten zijn stage in de discipline in kwestie voort te zetten.<br>
-<br>
+&nbsp;<br>
 Het agentschap bezorgt zijn definitieve beslissing, na een advies van de erkenningscommissie als vermeld in het zesde en het zevende lid, aan de kandidaat, de stagemeester en de coördinerende stagemeester.<br>
 <br>
-§ 3. Als de voorzitter, de ondervoorzitter of de secretaris van de bevoegde erkenningscommissie onregelmatigheden vaststelt tijdens de uitvoering van de procedure, vermeld in paragraaf 1 of 2, kan de geschiktheid van de kandidaat voor de gekozen discipline verder worden onderzocht door het voorzitterscollege.<br>
-<br>
-Het voorzitterscollege hoort de kandidaat, de stagemeester en een lid van de bevoegde erkenningscommissie.<br>
-<br>
-Als de stagemeester of de erkenningscommissie bij hetzelfde standpunt blijft, kan het voorzitterscollege een onderzoekscommissie, die bestaat uit ten minste twee van haar leden, belasten met een onderzoek ter plaatse.<br>
-<br>
-Als een onderzoek ter plaatse gebeurt, woont een personeelslid van het agentschap dat onderzoek ter plaatse bij.<br>
-<br>
-Als een onderzoek ter plaatse gebeurt, bezorgt de onderzoekscommissie een verslag aan het voorzitterscollege.<br>
-<br>
-Het agentschap bezorgt zijn definitieve beslissing, na advies van het voorzitterscollege, aan de kandidaat, de stagemeester en de coördinerende stagemeester.
+§ 3. ...
 
 ## Afdeling 2 De erkenning
 
@@ -303,7 +301,7 @@ Het agentschap bezorgt zijn definitieve beslissing, na advies van het voorzitter
 Het agentschap kan voor de indiening van de aanvragen, vermeld in het eerste lid, een digitaal platform ter beschikking stellen dat het aanvraagformulier, vermeld in het eerste lid, aanvult of vervangt.<br>
 <br>
 Bij de aanvraag zijn de volgende documenten gevoegd:<br>
-1° de attesten van de stagemeesters;<br>
+1° het eindattest van de coördinerende stagemeester;<br>
 2° het laatste stagerapport, alsook elk ander document dat de erkenningscommissie in staat stelt over de waarde van de aanvrager te adviseren;<br>
 3° een attest dat niet ouder is dan drie maanden en waaruit blijkt dat de kandidaat ingeschreven is op de lijst van de Orde der Artsen;<br>
 4° het diploma van master in de specialistische geneeskunde van het overeenkomstige specialisme of van master in de huisartsgeneeskunde, of een ander bewijsstuk dat aantoont dat de aanvrager aan de algemene erkenningscriteria in verband met de theoretische opleiding, vermeld in artikel 3 en 19 van het ministerieel besluit van 23 april 2014 tot vaststelling van de algemene criteria voor de erkenning van arts- specialisten, stagemeesters en stagediensten of in artikel 4 van het ministerieel besluit van 1 maart 2010 tot vaststelling van de criteria voor de erkenning van huisartsen, voldoet;<br>
@@ -341,29 +339,33 @@ Als het agentschap en de onderwijsinstellingen, de Orde der Artsen, en andere in
 
 ### ART 16.
 
-Als de erkenningscommissie een negatief advies geeft en het agentschap beslist om dat advies te volgen, bezorgt het agentschap het voornemen tot negatieve beslissing aan de aanvrager met een aangetekende brief.<br>
+§1. Als de erkenningscommissie een negatief advies geeft en het agentschap beslist om dat advies te volgen, bezorgt het agentschap een voornemen tot negatieve beslissing aan de aanvrager met een aangetekende brief.<br>
 <br>
-De aanvrager kan binnen dertig dagen na de ontvangst van het voornemen tot negatieve beslissing een bezwaarnota aan het agentschap bezorgen met zijn opmerkingen.<br>
+§2. De aanvrager kan binnen dertig dagen na de dag waarop hij het voornemen tot negatieve beslissing, vermeld in het eerste lid, heeft ontvangen, een bezwaarnota met zijn opmerkingen bezorgen aan het agentschap.<br>
 <br>
-De bezwaarnota van de aanvrager wordt, samen met het negatieve advies, het voornemen tot negatieve beslissing en het aanvraagdossier, voorgelegd aan de adviescommissie.<br>
+De bezwaarnota van de aanvrager, vermeld in het eerste lid, wordt, samen met het negatieve advies en het voornemen tot negatieve beslissing, vermeld in paragraaf 1, en het aanvraagdossier, vermeld in artikel 8, §1, of artikel 14, §1, of het stagerapport, vermeld in artikel 11, voorgelegd aan de adviescommissie.<br>
 <br>
-De bezwaarnota wordt behandeld volgens de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
+De bezwaarnota van de aanvrager, vermeld in het eerste lid, wordt behandeld volgens de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
 <br>
-Het agentschap bezorgt zijn definitieve beslissing aan de aanvrager, tenzij het advies van de adviescommissie afwijkt van het voornemen tot negatieve beslissing. In dat laatste geval beslist de Vlaamse minister, bevoegd voor het gezondheidsbeleid.
+Het agentschap bezorgt zijn definitieve beslissing aan de aanvrager, tenzij het advies van de adviescommissie afwijkt van het voornemen tot negatieve beslissing, vermeld in paragraaf 1. In dat laatste geval beslist de Vlaamse minister, bevoegd voor de gezondheids- en woonzorg.<br>
+<br>
+§3. Als de aanvrager geen bezwaarnota indient binnen de termijn, vermeld in paragraaf 2, eerste lid, wordt het voornemen tot negatieve beslissing, vermeld in paragraaf 1, van rechtswege geacht een weigeringsbeslissing te zijn.
 
 ### ART 17.
 
-Als het agentschap van oordeel is dat een positief advies van de erkenningscommissie niet gevolgd kan worden, brengt het de erkenningscommissie daarvan op de hoogte.<br>
+§1. Als de erkenningscommissie een positief advies geeft en als het agentschap van oordeel is dat het advies van de erkenningscommissie niet gevolgd kan worden, brengt het de erkenningscommissie daarvan op de hoogte.<br>
 <br>
-Als de erkenningscommissie bij haar oorspronkelijke positieve advies blijft, bezorgt het agentschap het voornemen tot negatieve beslissing, samen met het positieve advies, aan de aanvrager.<br>
+Als de erkenningscommissie na de kennisgeving, vermeld in het eerste lid, bij haar oorspronkelijke positieve advies blijft, bezorgt het agentschap een voornemen tot negatieve beslissing, samen met het positieve advies, aan de aanvrager.<br>
 <br>
-De aanvrager kan binnen dertig dagen na de ontvangst van het voornemen tot negatieve beslissing een bezwaarnota aan het agentschap bezorgen met zijn opmerkingen.<br>
+§2. De aanvrager kan binnen dertig dagen na de dag waarop hij het voornemen tot negatieve beslissing, vermeld in paragraaf 1, tweede lid, heeft ontvangen, een bezwaarnota met zijn opmerkingen bezorgen aan het agentschap.<br>
 <br>
-De bezwaarnota van de aanvrager wordt, samen met het positieve advies, het voornemen tot negatieve beslissing en het aanvraagdossier, voorgelegd aan de adviescommissie.<br>
+De bezwaarnota van de aanvrager, vermeld in het eerste lid, wordt, samen met het positieve advies en het voornemen tot negatieve beslissing, vermeld in paragraaf 1, en het aanvraagdossier, vermeld in artikel 8, §1, of artikel 14, §1, of het stagerapport, vermeld in artikel 11, voorgelegd aan de adviescommissie.<br>
 <br>
-De bezwaarnota wordt behandeld volgens de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
+De bezwaarnota van de aanvrager, vermeld in het eerste lid, wordt behandeld volgens de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
 <br>
-Het agentschap bezorgt zijn definitieve beslissing aan de aanvrager, tenzij het advies van de adviescommissie afwijkt van het voornemen tot negatieve beslissing. In dat laatste geval beslist de Vlaamse minister, bevoegd voor het gezondheidsbeleid.
+Het agentschap bezorgt zijn definitieve beslissing aan de aanvrager, tenzij het advies van de adviescommissie afwijkt van het voornemen tot negatieve beslissing, vermeld in paragraaf 1, tweede lid. In dat laatste geval beslist de Vlaamse minister, bevoegd voor de gezondheids- en woonzorg.<br>
+<br>
+§3. Als de aanvrager geen bezwaarnota indient binnen de termijn, vermeld in paragraaf 2, eerste lid, wordt het voornemen tot negatieve beslissing, vermeld in paragraaf 1, tweede lid, van rechtswege geacht een weigeringsbeslissing te zijn.
 
 ## HOOFDSTUK 5 De intrekking van de erkenning van de bijzondere beroepstitel van arts-specialist of huisarts
 
