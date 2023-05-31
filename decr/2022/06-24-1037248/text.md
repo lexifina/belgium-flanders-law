@@ -35,6 +35,108 @@ Aan artikel 30, § 3, van hetzelfde decreet wordt een vierde lid toegevoegd, dat
 
 ## HOOFDSTUK 5. Wijzigingen van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015
 
+### ART 6.
+
+In artikel 43, § 1, eerste lid, van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, worden de woorden "afgegeven door de minister bevoegd voor Volksgezondheid" opgeheven.
+
+### ART 7.
+
+In artikel 55, § 3, van dezelfde wet wordt de zinsnede "en met dat van lid van de Erkenningscommissie voor de beoefenaars van de verpleegkunde bedoeld in artikel 61, § 1" opgeheven.
+
+### ART 8.
+
+In artikel 56 van dezelfde wet wordt de zinsnede "binnen de diensten van de regering, overeenkomstig de modaliteiten vastgesteld door de Koning" opgeheven.
+
+### ART 9.
+
+Artikel 61 van dezelfde wet wordt opgeheven.
+
+### ART 10.
+
+In artikel 63 van dezelfde wet, gewijzigd bij het koninklijk besluit van 27 juni 2016, worden de volgende wijzigingen aangebracht:<br>
+1° in het zesde lid wordt de zin "De erkenning als houder of houdster van de beroepstitel van vroedvrouw wordt toegekend door de minister bevoegd voor Volksgezondheid." opgeheven;<br>
+2° in het zevende lid wordt de zin "De regels inzake intrekking van de erkenning worden, op advies van de Federale Raad voor de Vroedvrouwen, door de Koning vastgesteld." opgeheven.
+
+### ART 11.
+
+Artikel 64 van dezelfde wet wordt opgeheven.
+
+### ART 12.
+
+In artikel 65 van dezelfde wet wordt de zinsnede "bij de Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu, overeenkomstig de nadere regels vastgesteld door de Koning" opgeheven.
+
+### ART 13.
+
+In artikel 68/1, § 1, eerste lid, van dezelfde wet, ingevoegd bij de gecoördineerde wet van 10 mei 2015 en gewijzigd bij de wet van 10 juli 2016, worden de woorden "uitgereikt door de minister bevoegd voor Volksgezondheid" opgeheven.
+
+### ART 14.
+
+In artikel 68/2, § 1, eerste lid, van dezelfde wet, ingevoegd bij de gecoördineerde wet van 10 mei 2015 en gewijzigd bij de wet van 10 juli 2016, worden de woorden "uitgereikt door de minister bevoegd voor Volksgezondheid" opgeheven.
+
+### ART 15.
+
+Artikel 68/4 van dezelfde wet, ingevoegd bij de gecoördineerde wet van 10 mei 2015, wordt opgeheven.
+
+### ART 16.
+
+In artikel 72 van dezelfde wet, gewijzigd bij de gecoördineerde wet van 10 mei 2015 en de wet van 22 juni 2016, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 worden de woorden "afgegeven door de minister bevoegd voor Volksgezondheid" opgeheven;<br>
+2° in paragraaf 2 wordt het eerste lid opgeheven.
+
+### ART 17.
+
+In artikel 86 van dezelfde wet worden de woorden "door de minister bevoegd voor Volksgezondheid of de door hem gemachtigde ambtenaar" opgeheven.
+
+### ART 18.
+
+In artikel 88 van dezelfde wet wordt het eerste lid opgeheven.
+
+### ART 19.
+
+In dezelfde wet, het laatst gewijzigd bij de wet van 19 juli 2021, wordt een hoofdstuk 8/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Hoofdstuk 8/1. De erkenning".
+
+### ART 20.
+
+In dezelfde wet, het laatst gewijzigd bij de wet van 19 juli 2021, wordt in hoofdstuk 8/1, ingevoegd bij artikel 19, een artikel 101/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 101/1. De Vlaamse Regering erkent de gezondheidszorgberoepen, bijzondere beroepstitels, bijzondere beroepsbekwaamheden en beroepskwalificaties, vermeld in deze wet.".
+
+### ART 21.
+
+&nbsp;In dezelfde wet, het laatst gewijzigd bij de wet van 19 juli 2021, wordt in hetzelfde hoofdstuk 8/1 een artikel 101/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 101/2. De Vlaamse Regering bepaalt de procedures voor:<br>
+1° de erkenning, vermeld in artikel 101/1, op basis van een Belgische opleiding en gelijkwaardig verklaarde diploma's als vermeld in artikel 145, § 1;<br>
+2° het behoud en de intrekking van de erkenning, vermeld in artikel 101/1.<br>
+<br>
+De Vlaamse Regering kan voor de uitoefening van de taak, vermeld in artikel 101/1, adviesorganen oprichten. In dat geval kan ze de taken, de samenstelling, de organisatie, de werkingsregels van die adviesorganen en de vergoeding voor de deelname aan vergaderingen van die adviesorganen bepalen.".
+
+### ART 22.
+
+In dezelfde wet, het laatst gewijzigd bij de wet van 19 juli 2021, wordt in hetzelfde hoofdstuk 8/1 een artikel 101/3 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 101/3. De Vlaamse Regering bepaalt de procedure voor:<br>
+1° de erkenning van beroepskwalificaties met toepassing van de richtlijn, vermeld in artikel 103, 3°, van deze wet;<br>
+2° het behoud en de intrekking van de erkenning, vermeld in punt 1°. ".
+
+### ART 23.
+
+In dezelfde wet, het laatst gewijzigd bij de wet van 19 juli 2021, wordt in hetzelfde hoofdstuk 8/1 een artikel 101/4 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 101/4. De Vlaamse Regering bepaalt de procedure voor:<br>
+1° de erkenning op basis van een andere opleiding dan de opleiding, vermeld in artikel 101/2, eerste lid, 1°, van deze wet, en waarop de richtlijn, vermeld in artikel 103, 3°, en artikel 145, § 1, van deze wet, niet van toepassing zijn;<br>
+2° het behoud en de intrekking van de erkenning, vermeld in punt 1°. ".
+
+### ART 24.
+
+In dezelfde wet, het laatst gewijzigd bij de wet van 19 juli 2021, wordt een artikel 104/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 104/1. De Vlaamse Regering bepaalt de volgende elementen:<br>
+1° de wijze waarop houders van een beroepskwalificatie die ze in de Vlaamse Gemeenschap hebben behaald, die hun beroep willen uitoefenen in een andere lidstaat, een aanvraag tot afgifte van een Europese beroepskaart kunnen indienen;<br>
+2° de wijze waarop een Europese beroepskaart met het oog op vestiging in het Nederlandse taalgebied kan worden afgegeven aan migranten die hun beroepskwalificatie in een andere lidstaat verworven hebben.".
+
 ## HOOFDSTUK 6. Wijzigingen van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming
 
 ### ART 26.
