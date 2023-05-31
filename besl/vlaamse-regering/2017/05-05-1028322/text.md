@@ -113,25 +113,29 @@ De minister kan de nadere regels bepalen voor de controle op de voorwaarde dat d
 
 ### ART 9.
 
-Als de erkenningscommissie een negatief advies geeft en het agentschap beslist om dat advies te volgen, bezorgt het agentschap het voornemen tot negatieve beslissing met een aangetekende brief aan de aanvrager.<br>
+§1. Als de erkenningscommissie een negatief advies geeft en het agentschap beslist om dat advies te volgen, bezorgt het agentschap een voornemen tot negatieve beslissing aan de aanvrager met een aangetekende brief.<br>
 <br>
-De aanvrager kan binnen dertig dagen na de ontvangst van het voornemen tot negatieve beslissing een bezwaarnota aan het agentschap bezorgen met zijn opmerkingen.<br>
+§2. De aanvrager kan binnen dertig dagen na de dag waarop hij het voornemen tot negatieve beslissing, vermeld in het eerste lid, heeft ontvangen een bezwaarnota met zijn opmerkingen bezorgen aan het agentschap.<br>
 <br>
-De bezwaarnota van de aanvrager wordt, samen met het negatieve advies, het voornemen tot negatieve beslissing en het aanvraagdossier, opnieuw voorgelegd aan de erkenningscommissie, die op basis van die stukken een nieuw advies uitbrengt.<br>
+De bezwaarnota van de aanvrager, vermeld in het eerste lid, wordt, samen met het negatieve advies en het voornemen tot negatieve beslissing, vermeld in paragraaf 1, en het aanvraagdossier, vermeld in artikel 7, §1, opnieuw voorgelegd aan de erkenningscommissie, die op basis van die stukken een nieuw advies uitbrengt.<br>
 <br>
-Het agentschap bezorgt zijn definitieve beslissing aan de aanvrager.
+Het agentschap bezorgt zijn definitieve beslissing aan de aanvrager.<br>
+<br>
+§3. Als de aanvrager geen bezwaarnota indient binnen de termijn, vermeld in paragraaf 2, eerste lid, wordt het voornemen tot negatieve beslissing, vermeld in paragraaf 1, van rechtswege geacht een weigeringsbeslissing te zijn.
 
 ### ART 10.
 
-Als het agentschap van oordeel is dat een positief advies van de erkenningscommissie niet gevolgd kan worden, brengt het de erkenningscommissie daarvan op de hoogte.<br>
+§1. Als de erkenningscommissie een positief advies geeft en als het agentschap van oordeel is dat het advies van de erkenningscommissie niet gevolgd kan worden, brengt het de erkenningscommissie daarvan op de hoogte.<br>
 <br>
-Als de erkenningscommissie bij haar oorspronkelijke positieve advies blijft, bezorgt het agentschap het voornemen tot negatieve beslissing, samen met het positieve advies, aan de aanvrager.<br>
+Als de erkenningscommissie na de kennisgeving, vermeld in het eerste lid, bij haar oorspronkelijke positieve advies blijft, bezorgt het agentschap een voornemen tot negatieve beslissing, samen met het positieve advies, aan de aanvrager.<br>
 <br>
-De aanvrager kan binnen dertig dagen na de ontvangst van het voornemen tot negatieve beslissing een bezwaarnota aan het agentschap bezorgen met zijn opmerkingen.<br>
+§2. De aanvrager kan binnen dertig dagen na de dag waarop hij het voornemen tot negatieve beslissing, vermeld in paragraaf 1, tweede lid, heeft ontvangen, een bezwaarnota met zijn opmerkingen bezorgen aan het agentschap.<br>
 <br>
-De bezwaarnota van de aanvrager wordt, samen met het positieve advies, het voornemen tot negatieve beslissing en het aanvraagdossier, voorgelegd aan de Vlaamse minister, bevoegd voor het gezondheidsbeleid, die op basis van die stukken een definitieve beslissing neemt over het dossier in kwestie.<br>
+De bezwaarnota van de aanvrager, vermeld in het eerste lid, wordt, samen met het positieve advies en het voornemen tot negatieve beslissing, vermeld in paragraaf 1, en het aanvraagdossier, vermeld in artikel 7, §1, voorgelegd aan de Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, die op basis van die stukken een definitieve beslissing neemt over het dossier in kwestie.<br>
 <br>
-Het agentschap bezorgt de definitieve beslissing van de Vlaamse minister, bevoegd voor het gezondheidsbeleid, aan de aanvrager.
+Het agentschap bezorgt de definitieve beslissing van de minister aan de aanvrager.<br>
+<br>
+§3. Als de aanvrager geen bezwaarnota indient binnen de termijn, vermeld in paragraaf 2, eerste lid, wordt het voornemen tot negatieve beslissing, vermeld in paragraaf 1, tweede lid, van rechtswege geacht een weigeringsbeslissing te zijn.
 
 ## HOOFDSTUK 6. De intrekking van de erkenning
 
