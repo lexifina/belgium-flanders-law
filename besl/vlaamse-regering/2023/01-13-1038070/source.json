@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038070,
+  "title": "Besluit van de Vlaamse Regering van 2023-01-13 tot wijziging van regelgeving over de erkenning van gezondheidszorgberoepen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038070/VolledigDocument?datum=2023-05-31",
+  "source_sha256": "ef6240d0c5b5da211529b0c912fd18b22b48e63eab6b9f1c8497f72d95893cf3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038070&param=informatie",
+  "as_of": "2023-05-31",
+  "made": "2023-01-13",
+  "gazette": "2023-05-10",
+  "numac": 2023030441,
+  "document_start": "2023-05-31",
+  "document_end": null,
+  "in_force": "2023-05-31",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2023-05-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
