@@ -2,16 +2,16 @@
   "codex_id": 1030153,
   "title": "Besluit van de Vlaamse Regering van 2018-11-30 houdende de subsidiëring van projecten van preventieve infrastructurele maatregelen inzake agressie, vrijheidsbeperking of vrijheidsberoving in bepaalde voorzieningen van het beleidsdomein Welzijn, Volksgezondheid en Gezin",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030153/VolledigDocument?datum=2021-09-20",
-  "source_sha256": "a9813aec712aac2b0d8c2497a840c351cbb303896ae427a2afcb48e2146288db",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030153/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "62909c5416c0bb123f561c52d6d891c0ab0dc31d2053ebbbb19ca60e04c71eea",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030153&param=informatie",
-  "as_of": "2021-09-20",
+  "as_of": "2023-06-01",
   "made": "2018-11-30",
   "gazette": "2019-01-28",
   "numac": 2019040106,
   "document_start": "2019-02-07",
   "document_end": null,
-  "in_force": "2021-09-20",
+  "in_force": "2023-06-01",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2021-09-20; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }

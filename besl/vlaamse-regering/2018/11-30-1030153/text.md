@@ -179,7 +179,7 @@ Het Fonds onderzoekt of de aanvraag voldoet aan de bepalingen van artikel 2, 3, 
 
 Het Fonds stuurt de ontvankelijke aanvragen naar een beoordelingscommissie. De beoordelingscommissie bestaat uit :<br>
 1° een of meer vertegenwoordigers van het Fonds;<br>
-2° een of meer vertegenwoordigers van elk van de functioneel bevoegde agentschappen.<br>
+2° een of meer vertegenwoordigers van elk van de functioneel bevoegde agentschappen of van het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.<br>
 <br>
 Uiterlijk twee maanden na de uiterste datum voor de indiening van de aanvragen komt de beoordelingscommissie een eerste keer samen.<br>
 <br>
