@@ -152,7 +152,12 @@ De Klachtendienst bestaat uit een of meer klachtenbehandelaars; een van hen verv
 
 ### ART. 28.
 
-§ 1. De Klachtendienst wordt geleid door de klachtencoördinator, een   personeelslid van niveau A, die<BR>verantwoordelijk is voor de uitvoering van de   decretale taken en de leiding heeft van de dienst.<BR><BR>§ 2. De Klachtendienst   staat onder het hiërarchische gezag van de administrateur-generaal, maar heeft   beslissingsbevoegdheid voor taken, vastgesteld door het decreet. In die zin kan   de dienst de nodige contacten leggen, met inbegrip van contacten met   Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in   artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart   2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende   de inwerkingtreding van regelgeving tot oprichting van agentschappen in het   beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van   regelgeving met betrekking tot dat beleidsdomein, volgens de voorwaarden die   daarvoor tussen het agentschap en het voormelde departement zijn afgesproken, en   het overleggen van dossiers van de administratie.<BR><BR>De Klachtendienst kan   aan de administrateur-generaal voorstellen tot verbetering van de   dienstverlening voorleggen.<BR>
+§ 1. De Klachtendienst wordt geleid door de klachtencoördinator, een personeelslid van niveau A, die<br>
+verantwoordelijk is voor de uitvoering van de decretale taken en de leiding heeft van de dienst.<br>
+<br>
+§ 2. De Klachtendienst staat onder het hiërarchische gezag van de administrateur-generaal, maar heeft beslissingsbevoegdheid voor taken, vastgesteld door het decreet. In die zin kan de dienst de nodige contacten leggen, met inbegrip van contacten met Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van &nbsp;12 mei 2023 over het Departement Zorg, volgens de voorwaarden die daarvoor tussen het agentschap en het voormelde departement zijn afgesproken, en het overleggen van dossiers van de administratie.<br>
+<br>
+De Klachtendienst kan aan de administrateur-generaal voorstellen tot verbetering van de dienstverlening voorleggen.
 
 ## HOOFDSTUK VI. De Sociale Dienst voor het Personeel
 
