@@ -12,7 +12,7 @@ In dit besluit wordt verstaan onder :<br>
 1° het decreet van 21 maart 2003 : het decreet van 21 maart 2003 betreffende de armoedebestrijding;<br>
 2° de coördinerende minister : de Vlaamse minister, bevoegd voor de coördinatie van het armoedebeleid;<br>
 2°/1 de Minister : de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
-3° administratie: de functioneel bevoegde afdeling van het Departement Welzijn, Volksgezondheid en Gezin van het Vlaams Ministerie van Welzijn, Volksgezondheid en Gezin of Zorginspectie van het voormelde departement;<br>
+3° administratie: de functioneel bevoegde afdeling van het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg, of Zorginspectie als vermeld in artikel 4, §2, derde lid, van het voormelde besluit;<br>
 4° actieplan : het Vlaams Actieplan Armoedebestrijding, vermeld in artikel 5 van het decreet van 21 maart 2003;<br>
 5° permanent armoedeoverleg : het instrument om in alle beleidsdomeinen het armoedebestrijdingsbeleid op elkaar af te stemmen, te bewaken en te evalueren;<br>
 6° Vlaams Netwerk : het Vlaams Netwerk van verenigingen waar armen het woord nemen;<br>
@@ -23,7 +23,7 @@ In dit besluit wordt verstaan onder :<br>
 11° Algemeen Verslag over de Armoede : het verslag, opgesteld in 1994 in opdracht van de minister van Sociale Integratie en in samenwerking met de doelgroepen, dat de armoede in België beschrijft en dat aanbevelingen en voorstellen inzake armoedebestrijding formuleert;<br>
 12° opleidingsorganisatie : een organisatie voor de coördinatie van of de toeleiding tot de opleiding en tewerkstelling van ervaringsdeskundigen in de armoede en sociale uitsluiting;<br>
 13° beleidsdomein : een homogeen beleidsdomein als vermeld in artikel III.1, eerste lid, van het bestuursdecreet van 7 december 2018;<br>
-14° secretaris-generaal : het personeelslid dat belast is met de leiding van het Departement Welzijn, Volksgezondheid en Gezin;<br>
+14° secretaris-generaal : het hoofd van de administratie;<br>
 15° besluit van 13 januari 2006 : het besluit van de Vlaamse Regering van 13 januari 2006 betreffende de boekhouding en het financieel verslag voor de voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin;<br>
 16° zorgregio : een geografisch omschreven gebied, op het niveau van de regionale stad, als bepaald in de bijlage bij het decreet van 28 november 2008 tot wijziging van het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en welzijnsvoorzieningen;<br>
 17° werkingsgebied : een zorgregio op regionaalstedelijk niveau of het tweetalige gebied Brussel-Hoofdstad.<br>
