@@ -6,12 +6,12 @@
 
 In dit besluit wordt verstaan onder:<br>
 1° de minister: de Vlaamse minister, bevoegd voor de Bijstand aan Personen;<br>
-2° de administratie: het intern verzelfstandigd agentschap Zorg en Gezondheid<br>
+2° de administratie: het Departement Zorg;<br>
 3° het besluit van 24 juli 2009: het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers;<br>
 4° erkenning: de bijkomende erkenning, vermeld in artikel 10/5 van het besluit van 24 juli 2009;<br>
 5° centrum: een dagverzorgingscentrum met een bijkomende erkenning, zijnde een dagverzorgingscentrum dat een verzorgingsstructuur aanbiedt die zwaar afhankelijke zorgbehoevende personen overdag opvangt en die de noodzakelijke ondersteuning verschaft voor het behoud van die personen in hun thuisomgeving of dat een verzorgingsstructuur aanbiedt die overdag personen opvangt die lijden aan een ernstige ziekte die aangepaste zorg vereist en die de noodzakelijke ondersteuning verschaft voor het behoud van die personen in hun thuisomgeving;<br>
 6° verblijfseenheden: opnamemogelijkheden in een dagverzorgingscentrum;<br>
-7° de administrateur-generaal : het hoofd van het intern verzelfstandigd agentschap Zorg en Gezondheid.
+7° secretaris-generaal: het hoofd van de administratie.
 
 ## [HOOFDSTUK II DE BIJKOMENDE ERKENNING (verv. BVR 30 november 2018, art. 543, I: 1 januari 2019)]
 
@@ -36,15 +36,23 @@ Een erkenningsaanvraag moet door het centrum met de post, per fax of per e-mail 
 
 ### ART. 5.
 
-§ 1. Als de aanvraag niet conform artikel 4 is ingediend, deelt de   administratie dit binnen dertig dagen na ontvangst van de aanvraag aan het   centrum mee met vermelding van de reden. <BR><BR>§ 2. Als een ontvankelijke   aanvraag niet past in de door de minister vastgestelde planning, zendt de   administratie het met redenen omklede voornemen van de administrateur-generaal   om de erkenning te weigeren, binnen&nbsp;vier maanden na het indienen van de   erkenningsaanvraag per aangetekende brief aan het centrum. Die brief vermeldt de   mogelijkheid en de voorwaarden om een bezwaarschrift, bedoeld in artikel 7, in   te dienen.
+§ 1. Als de aanvraag niet conform artikel 4 is ingediend, deelt de administratie dit binnen dertig dagen na ontvangst van de aanvraag aan het centrum mee met vermelding van de reden.<br>
+<br>
+§ 2. Als een ontvankelijke aanvraag niet past in de door de minister vastgestelde planning, zendt de administratie het met redenen omklede voornemen van de secretaris-generaal om de erkenning te weigeren, binnen&nbsp;vier maanden na het indienen van de erkenningsaanvraag per aangetekende brief aan het centrum. Die brief vermeldt de mogelijkheid en de voorwaarden om een bezwaarschrift, bedoeld in artikel 7, in te dienen.
 
 ### ART. 6.
 
-Als de erkenningsaanvraag ontvankelijk is en in de door de minister   vastgelegde planning past, zendt de administratie hetzij de beslissing van de   administrateur-generaal waarin de erkenning wordt verleend, hetzij het met   redenen omklede voornemen van de administrateur-generaal om de erkenning te   weigeren, binnen&nbsp;vier maanden na het indienen van de erkenningsaanvraag per   aangetekende brief aan het centrum.<BR><BR>Ingeval een voornemen om de erkenning   te weigeren wordt verzonden, vermeldt die brief de mogelijkheid en de   voorwaarden om een bezwaarschrift als bedoeld in artikel 7 in te   dienen.
+Als de erkenningsaanvraag ontvankelijk is en in de door de minister vastgelegde planning past, zendt de administratie hetzij de beslissing van de secretaris-generaal waarin de erkenning wordt verleend, hetzij het met redenen omklede voornemen van de secretaris-generaal om de erkenning te weigeren, binnen&nbsp;vier maanden na het indienen van de erkenningsaanvraag per aangetekende brief aan het centrum.<br>
+<br>
+Ingeval een voornemen om de erkenning te weigeren wordt verzonden, vermeldt die brief de mogelijkheid en de voorwaarden om een bezwaarschrift als bedoeld in artikel 7 in te dienen.
 
 ### ART. 7.
 
-§ 1. Op straffe van niet-ontvankelijkheid kan het centrum tot uiterlijk   een maand na ontvangst van het voornemen van de administrateur-generaal ,   bedoeld in artikel 5, § 2, of in artikel 6, per aangetekende brief of tegen   ontvangstbewijs een gemotiveerd bezwaarschrift indienen bij de administratie.   Het kan daarin uitdrukkelijk vragen om te worden gehoord.<BR><BR>Dat bezwaar   wordt behandeld volgens de regels die zijn vastgesteld bij of ter uitvoering van   hoofdstuk III van het decreet van 7 december 2007 houdende oprichting van de   Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid   en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en   Gezin en (Kandidaat-)pleegzorgers.<BR><BR>§ 2. Als het centrum binnen de in § 1,   eerste lid, bepaalde termijn geen bezwaarschrift heeft ingediend, wordt het   voornemen van de administrateur-generaal van rechtswege geacht een   weigeringsbeslissing van de administrateur-generaal te zijn.
+§ 1. Op straffe van niet-ontvankelijkheid kan het centrum tot uiterlijk een maand na ontvangst van het voornemen van de secretaris-generaal , bedoeld in artikel 5, § 2, of in artikel 6, per aangetekende brief of tegen ontvangstbewijs een gemotiveerd bezwaarschrift indienen bij de administratie. Het kan daarin uitdrukkelijk vragen om te worden gehoord.<br>
+<br>
+Dat bezwaar wordt behandeld volgens de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
+<br>
+§ 2. Als het centrum binnen de in § 1, eerste lid, bepaalde termijn geen bezwaarschrift heeft ingediend, wordt het voornemen van de secretaris-generaal van rechtswege geacht een weigeringsbeslissing van de secretaris-generaal te zijn.
 
 ### ART. 8.
 
@@ -52,7 +60,9 @@ Als de erkenning werd geweigerd, of krachtens artikel 7, § 2, geacht wordt te z
 
 ### ART. 9.
 
-Een aanvraag tot wijziging van één of meer elementen van de erkenning, die   uitdrukkelijk in de erkenningsbeslissing zijn opgenomen, dient per aangetekende   brief of tegen ontvangstbewijs aan de administratie te worden gericht. Een   aanvraag is enkel ontvankelijk als ze alle nodige vermeldingen en stukken tot   staving van de aangevraagde wijziging bevat.<BR><BR>Op deze aanvraag zijn   artikel 2, 3, 4, 1°, 2° en 3°, 5 tot en met 8 van toepassing. Over een aanvraag   tot wijziging van één of meer elementen van de erkenning die geen invloed hebben   op de planning kan de administrateur-generaal onmiddellijk   beslissen.
+Een aanvraag tot wijziging van één of meer elementen van de erkenning, die uitdrukkelijk in de erkenningsbeslissing zijn opgenomen, dient per aangetekende brief of tegen ontvangstbewijs aan de administratie te worden gericht. Een aanvraag is enkel ontvankelijk als ze alle nodige vermeldingen en stukken tot staving van de aangevraagde wijziging bevat.<br>
+<br>
+Op deze aanvraag zijn artikel 2, 3, 4, 1°, 2° en 3°, 5 tot en met 8 van toepassing. Over een aanvraag tot wijziging van één of meer elementen van de erkenning die geen invloed hebben op de planning kan de secretaris-generaal onmiddellijk beslissen.
 
 ## HOOFDSTUK III HET TOEZICHT
 
@@ -64,11 +74,17 @@ Het centrum verleent zijn medewerking aan de uitoefening van dat toezicht. Het b
 
 ### ART. 11.
 
-Als het centrum niet langer voldoet aan één of meer erkenningsvoorwaarden of als het niet meewerkt aan de uitoefening van het toezicht, genoemd in artikel 10, kan de administrateur-generaal, via een aangetekende brief, een gemotiveerd voornemen tot intrekking van de erkenning aan het centrum sturen. Hierin worden de mogelijkheid en de voorwaarden om een bezwaarschrift, als bedoeld in artikel 12, § 1, in te dienen vermeld.
+Als het centrum niet langer voldoet aan één of meer erkenningsvoorwaarden of als het niet meewerkt aan de uitoefening van het toezicht, genoemd in artikel 10, kan de secretaris-generaal, via een aangetekende brief, een gemotiveerd voornemen tot intrekking van de erkenning aan het centrum sturen. Hierin worden de mogelijkheid en de voorwaarden om een bezwaarschrift, als bedoeld in artikel 12, § 1, in te dienen vermeld.
 
 ### ART. 12.
 
-§ 1. Op straffe van niet-ontvankelijkheid kan het centrum tot uiterlijk   een maand na ontvangst van het voornemen van de administrateur-generaal tot   intrekking van de erkenning via een aangetekende brief of tegen ontvangstbewijs   een gemotiveerd bezwaarschrift indienen bij de administratie. Het kan daarin   uitdrukkelijk vragen om te worden gehoord.<BR><BR>Dat bezwaar wordt behandeld   volgens de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III   van het decreet van 7 december 2007 houdende oprichting van de Strategische   Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een   Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.<BR><BR>§ 2. Als het centrum binnen de in § 1, eerste   lid, bepaalde termijn geen bezwaarschrift heeft ingediend, zendt de   administratie de definitieve beslissing van de administrateur-generaal over het   intrekken van de erkenning binnen één maand na het verstrijken van die termijn   per aangetekende brief aan het centrum.<BR><BR>Als de beslissing van de   administrateur-generaal niet binnen de in het eerste lid bepaalde termijn wordt   verzonden, blijft het centrum erkend.
+§ 1. Op straffe van niet-ontvankelijkheid kan het centrum tot uiterlijk een maand na ontvangst van het voornemen van de secretaris-generaal tot intrekking van de erkenning via een aangetekende brief of tegen ontvangstbewijs een gemotiveerd bezwaarschrift indienen bij de administratie. Het kan daarin uitdrukkelijk vragen om te worden gehoord.<br>
+<br>
+Dat bezwaar wordt behandeld volgens de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
+<br>
+§ 2. Als het centrum binnen de in § 1, eerste lid, bepaalde termijn geen bezwaarschrift heeft ingediend, zendt de administratie de definitieve beslissing van de secretaris-generaal over het intrekken van de erkenning binnen één maand na het verstrijken van die termijn per aangetekende brief aan het centrum.<br>
+<br>
+Als de beslissing van de secretaris-generaal niet binnen de in het eerste lid bepaalde termijn wordt verzonden, blijft het centrum erkend.
 
 ## HOOFDSTUK IV OVERGANGS- EN SLOTBEPALINGEN
 
