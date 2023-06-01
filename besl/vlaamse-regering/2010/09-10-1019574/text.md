@@ -221,9 +221,9 @@ Het wijkgezondheidscentrum waakt erover dat in het bijzonder de meest kwetsbare 
 
 ### ART. 22.
 
-Elk jaar brengt het wijkgezondheidscentrum verslag uit bij het intern verzelfstandigd agentschap Zorg en Gezondheid over het beantwoorden aan de voorwaarden, vermeld in artikelen 20 en 21.<br>
+Elk jaar brengt het wijkgezondheidscentrum verslag uit bij het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg, over het beantwoorden aan de voorwaarden, vermeld in artikelen 20 en 21 van dit besluit.<br>
 <br>
-Als het intern verzelfstandigd agentschap Zorg en Gezondheid vaststelt dat niet meer voldaan wordt aan één of meer van de voorwaarden in dit hoofdstuk, wordt dat beschouwd als een bestemmingswijziging als vermeld in artikel 41, § 2,&nbsp;van het besluit van de Vlaamse Regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden.
+Als het voormelde departement vaststelt dat niet meer voldaan wordt aan één of meer van de voorwaarden in dit hoofdstuk, wordt dat beschouwd als een bestemmingswijziging als vermeld in artikel 41, § 2,&nbsp;van het besluit van de Vlaamse Regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden.
 
 ## HOOFDSTUK 7. Wijzigingsbepaling
 
