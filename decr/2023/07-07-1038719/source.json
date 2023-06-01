@@ -2,16 +2,16 @@
   "codex_id": 1038719,
   "title": "Decreet van 2023-07-07 over het onderwijs XXXIII",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038719/VolledigDocument?datum=2023-05-01",
-  "source_sha256": "cd7766e1fa62e464214ef2f5321ee13c714a05a4dea73ee30e89f4e2048b3676",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038719/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "64e1e552de1905e9f276f80186ca6349a2be6651f4f3a7350299efe76df21659",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038719&param=informatie",
-  "as_of": "2023-05-01",
+  "as_of": "2023-06-01",
   "made": "2023-07-07",
   "gazette": "2023-08-28",
   "numac": 2023044695,
   "document_start": "2023-09-01",
   "document_end": null,
-  "in_force": "2023-05-01",
-  "article_versions": 22,
-  "record_form": "consolidated version as in force on 2023-05-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-06-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }

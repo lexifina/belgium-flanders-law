@@ -6,6 +6,10 @@
 
 ## Hoofdstuk 3. Wijzigingen van het decreet rechtspositie gemeenschapsonderwijs van 27 maart 1991
 
+### ART 6.
+
+Artikel 19 van het decreet rechtspositie gemeenschapsonderwijs van 27 maart 1991, vervangen bij het decreet van 18 mei 1999 en gewijzigd bij het decreet van 14 februari 2003, wordt opgeheven.
+
 ## Hoofdstuk 4. Wijzigingen van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991
 
 ## Hoofdstuk 5. Wijzigingen van het decreet basisonderwijs van 25 februari 1997
