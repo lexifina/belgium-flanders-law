@@ -2,7 +2,11 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° administratie: het intern   verzelfstandigd agentschap Zorg en Gezondheid of Zorginspectie van het   Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde   lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het   Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding   van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn,   Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met   betrekking tot dat beleidsdomein;<BR>2° BEVAK: een   vastgoedbeleggingsvennootschap met vast kapitaal die door de Vlaamse regering   erkend is met toepassing van artikel 2.7.6.0.1, § 2, van de Vlaamse Codex   Fiscaliteit van 13 december 2013;<BR>3° serviceflatgebouw: een serviceflatgebouw   of een woningcomplex met dienstverlening als bedoeld in artikel 2, 5° van de   decreten inzake voorzieningen voor bejaarden, gecoördineerd op 18 december   1991;<BR>4° initiatiefnemer: een Openbaar Centrum voor maatschappelijk welzijn   dat of een vereniging zonder winstoogmerk die met de BEVAK een onroerende   leasingovereenkomst heeft gesloten.
+In dit besluit wordt verstaan onder:<br>
+1° administratie: de functioneel bevoegde afdeling van het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg, of Zorginspectie als vermeld in artikel 4, §2, derde lid, van het voormelde besluit;<br>
+2° BEVAK: een vastgoedbeleggingsvennootschap met vast kapitaal die door de Vlaamse regering erkend is met toepassing van artikel 2.7.6.0.1, § 2, van de Vlaamse Codex Fiscaliteit van 13 december 2013;<br>
+3° serviceflatgebouw: een serviceflatgebouw of een woningcomplex met dienstverlening als bedoeld in artikel 2, 5° van de decreten inzake voorzieningen voor bejaarden, gecoördineerd op 18 december 1991;<br>
+4° initiatiefnemer: een Openbaar Centrum voor maatschappelijk welzijn dat of een vereniging zonder winstoogmerk die met de BEVAK een onroerende leasingovereenkomst heeft gesloten.
 
 ### ART. 2.
 
