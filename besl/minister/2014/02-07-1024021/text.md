@@ -26,11 +26,13 @@ De voorschotten worden uitbetaald voor het einde van de tweede maand van   het k
 
 ### ART. 6.
 
-Het saldo, dat het resultaat is van de subsidie-enveloppe verminderd met   de reeds uitbetaalde voorschotten, wordt uitbetaald nadat het Vlaams Agentschap   Zorg en Gezondheid het financiële verslag, het jaarverslag en de   kwaliteitsplanning heeft ontvangen en goedgekeurd.<BR>
+Het saldo, dat het resultaat is van de subsidie-enveloppe verminderd met de reeds uitbetaalde voorschotten, wordt uitbetaald nadat het Departement Zorg het financiële verslag, het jaarverslag en de kwaliteitsplanning heeft ontvangen en goedgekeurd.
 
 ### ART. 7.
 
-<P>Als de uitbetaalde voorschotten de subsidie-enveloppe overschrijden, wordt   het verschil teruggevorderd. Het Vlaams Agentschap Zorg en Gezondheid meldt per   brief het terug te storten bedrag, alsook de procedure die de DMW daarbij moet   volgen.<BR></P>  <P>Reserves die op het ogenblik van het afsluiten van het boekjaar meer bedragen   dan de subsidie-enveloppe voor dat jaar, worden ten belope van het bedrag dat de   jaarlijkse subsidie-enveloppe overschrijdt, overeenkomstig artikel 7 van bijlage   V bij het besluit van 24 juli 2009, teruggestort aan de Vlaamse Gemeenschap.   <BR></P>
+<p>Als de uitbetaalde voorschotten de subsidie-enveloppe overschrijden, wordt het verschil teruggevorderd. Het Departement Zorg meldt per brief het terug te storten bedrag, alsook de procedure die de DMW daarbij moet volgen.</p>
+
+<p>Reserves die op het ogenblik van het afsluiten van het boekjaar meer bedragen dan de subsidie-enveloppe voor dat jaar, worden ten belope van het bedrag dat de jaarlijkse subsidie-enveloppe overschrijdt, overeenkomstig artikel 7 van bijlage V bij het besluit van 24 juli 2009, teruggestort aan de Vlaamse Gemeenschap.</p>
 
 ### ART. 8.
 
