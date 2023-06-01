@@ -36,7 +36,8 @@ De hierna genoemde personeelsleden van de afdeling Handhaving van het Departemen
 11° Vercauteren Mart;<br>
 12° Verheyden Elke;<br>
 13° Uten Yorne;<br>
-14° De Reu Margot.
+14° De Reu Margot;<br>
+15° Walgraeve Lynn.
 
 ### ART 2.
 
