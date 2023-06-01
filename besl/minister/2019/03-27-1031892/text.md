@@ -64,7 +64,7 @@ Twee of meer vergaderingen van de Administratieve Beroepscommissie op dezelfde d
 <br>
 Het presentiegeld wordt toegekend per vergadering van de Expertencommissie gespecialiseerde zorg of van een kamer van die commissie.<br>
 <br>
-De personeelsleden van het Agentschap Zorg en Gezondheid hebben geen recht op de bovenvermelde presentiegelden, indien de zittingen plaatshebben tijdens de gewone diensturen.<br>
+De personeelsleden van het Departement Zorg hebben geen recht op de bovenvermelde presentiegelden, indien de zittingen plaatshebben tijdens de gewone diensturen.<br>
 <br>
 § 2. Er wordt voor maximaal 27 vergaderingen per jaar een presentiegeld toegekend.<br>
 <br>
