@@ -331,7 +331,7 @@ Het agentschapn kan de subsidie van het afstammingscentrum verminderen of stopze
 
 Het agentschap&nbsp;kan een bestuurlijke geldboete van 1000 tot 5000 euro opleggen als de organisatie die voor de opdrachten van het afstammingscentrum vergund is of het centrum voor menselijke erfelijkheid de bepalingen van dit decreet en de besluiten van de Vlaamse Regering ter uitvoering van dit decreet niet naleeft.<br>
 <br>
-De bestuurlijke geldboete kan opgelegd worden binnen een termijn van zes maanden, te rekenen vanaf de dag waarop&nbsp;het agentschap het verslag van vaststellingen van Zorginspectie heeft ontvangen of vanaf de dag waarop&nbsp;het agentschap zelf de inbreuk heeft vastgesteld.<br>
+De bestuurlijke geldboete kan opgelegd worden binnen een termijn van zes maanden, te rekenen vanaf de dag waarop&nbsp;het agentschap het verslag van vaststellingen van de afdeling Zorginspectie van het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie heeft ontvangen of vanaf de dag waarop&nbsp;het agentschap zelf de inbreuk heeft vastgesteld.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels voor het opleggen en betalen van de bestuurlijke geldboete.
 
