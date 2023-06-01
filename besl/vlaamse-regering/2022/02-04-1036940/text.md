@@ -55,7 +55,7 @@ b) preventie;<br>
 <br>
 Bij de uitvoering van de opdrachten, vermeld in het eerste lid, wordt rekening gehouden met de specificiteit van het tweetalige gebied Brussel-Hoofdstad. Dit houdt onder meer de ondersteuning in van de zorgraad in hun werking in het grootstedelijk beleid.<br>
 <br>
-De uitvoering van de opdrachten, vermeld in het eerste lid, 2°, c), en 6°, a), worden door het agentschap geëvalueerd binnen twee jaar na de inwerkingtreding van dit besluit.<br>
+De uitvoering van de opdrachten, vermeld in het eerste lid, 2°, c), en 6°, a), worden door de administratie geëvalueerd binnen twee jaar na de inwerkingtreding van dit besluit.<br>
 <br>
 De opdrachten, vermeld in het eerste lid, worden volgens de volgende principes uitgevoerd:<br>
 1° de principes, vermeld in artikel 4 van het decreet van 26 april 2019;<br>
@@ -127,13 +127,13 @@ In dit artikel wordt verstaan onder:<br>
 <br>
 Het bestuursorgaan van het VIVEL bevat twee onafhankelijke leden. Een van beide leden wordt tot voorzitter van het bestuursorgaan verkozen.<br>
 <br>
-Een personeelslid van het agentschap woont de vergaderingen van het bestuursorgaan bij als waarnemer en rapporteert daarover aan het agentschap.
+Een personeelslid van de administratie woont de vergaderingen van het bestuursorgaan bij als waarnemer en rapporteert daarover aan de administratie.
 
 ## Hoofdstuk 4. Erkenning en weigering van de erkenning
 
 ### ART 6.
 
-De administrateur-generaal erkent het VIVEL voor een termijn van maximaal vijf jaar.
+De secretaris-generaal erkent het VIVEL voor een termijn van maximaal vijf jaar.
 
 ### ART 7.
 
@@ -166,25 +166,25 @@ Als er verschillende aanvragen zijn die voldoen aan de erkenningsvoorwaarden, ve
 <br>
 De minister lanceert een oproep voor erkenningsaanvragen minstens twee maanden voorafgaand aan de datum waarop de erkenning van het VIVEL afloopt of, in voorkomend geval, binnen een maand nadat de erkenning van het VIVEL is ingetrokken.<br>
 <br>
-De oproep, vermeld in het tweede lid, wordt bekendgemaakt op de website van het agentschap (www.zorg-en-gezondheid.be) en wordt gecommuniceerd naar de sector(en).<br>
+De oproep, vermeld in het tweede lid, wordt bekendgemaakt op de website van de administratie&nbsp;en wordt gecommuniceerd naar de sector(en).<br>
 <br>
-Erkenningsaanvragen in het kader van de oproep, vermeld in het tweede lid, worden ingediend binnen dertig dagen na de datum van de bekendmaking op de website van het agentschap, vermeld in het derde lid. De einddatum waarop de aanvraag ingediend kan worden, is in de oproep opgenomen.<br>
+Erkenningsaanvragen in het kader van de oproep, vermeld in het tweede lid, worden ingediend binnen dertig dagen na de datum van de bekendmaking op de website van de administratie, vermeld in het derde lid. De einddatum waarop de aanvraag ingediend kan worden, is in de oproep opgenomen.<br>
 <br>
-De erkenning wordt aangevraagd met een formulier dat het agentschap op zijn website ter beschikking stelt.<br>
+De erkenning wordt aangevraagd met een formulier dat de administratie op zijn website ter beschikking stelt.<br>
 <br>
-§ 2. Het agentschap meldt de aanvrager binnen dertig dagen na de dag waarop het de erkenningsaanvraag heeft ontvangen, dat de aanvraag ontvankelijk of onontvankelijk is.
+§ 2. de administratie meldt de aanvrager binnen dertig dagen na de dag waarop het de erkenningsaanvraag heeft ontvangen, dat de aanvraag ontvankelijk of onontvankelijk is.
 
 ### ART 10.
 
 § 1. De beslissing over de erkenning wordt bezorgd aan de aanvrager binnen dertig dagen na de einddatum, vermeld in artikel 9, § 1, vierde lid.<br>
 <br>
-§ 2. Als niet voldaan is aan de erkenningsvoorwaarden, vermeld in artikel 7, of als de erkenning niet wordt toegekend aan de aanvrager door de toepassing van artikel 8, deelt de administrateur-generaal het voornemen tot weigering van de erkenning mee.<br>
+§ 2. Als niet voldaan is aan de erkenningsvoorwaarden, vermeld in artikel 7, of als de erkenning niet wordt toegekend aan de aanvrager door de toepassing van artikel 8, deelt de secretaris-generaal het voornemen tot weigering van de erkenning mee.<br>
 <br>
 De aanvrager wordt met een aangetekende zending op de hoogte gebracht van het voornemen tot weigering van de erkenning. Dit voornemen bevat:<br>
 1° de motivering conform artikel 2 van de wet van 29 juli 1991 betreffende de uitdrukkelijke motivering van de bestuurshandelingen;<br>
-2° uitleg over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij het agentschap.<br>
+2° uitleg over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij de administratie.<br>
 <br>
-Als de aanvrager geen bezwaarschrift indient binnen vijfenveertig dagen na ontvangst van de aangetekende zending, wordt de beslissing van de administrateur-generaal tot weigering van de erkenning met een aangetekende zending aan de aanvrager bezorgd.<br>
+Als de aanvrager geen bezwaarschrift indient binnen vijfenveertig dagen na ontvangst van de aangetekende zending, wordt de beslissing van de secretaris-generaal tot weigering van de erkenning met een aangetekende zending aan de aanvrager bezorgd.<br>
 <br>
 § 3. Als de erkenning wordt geweigerd, kan de aanvrager geen aanspraak maken op een vergoeding voor de kosten die verbonden zijn aan activiteiten die hebben plaatsgevonden om de erkenning te verkrijgen.<br>
 <br>
@@ -196,28 +196,28 @@ Als de aanvrager geen bezwaarschrift indient binnen vijfenveertig dagen na ontva
 
 Om erkend te blijven, moet het VIVEL:<br>
 1° voldoen aan de erkenningsvoorwaarden, vermeld in artikel 7;<br>
-2° elke wijziging van de statuten onmiddellijk aan het agentschap meedelen;<br>
+2° elke wijziging van de statuten onmiddellijk aan de administratie meedelen;<br>
 3° de opdrachten, vermeld in artikel 2 en 3, uitvoeren;<br>
-4° jaarlijks uiterlijk op 31 maart aan het agentschap een verslag bezorgen over de uitvoering van de opdrachten;<br>
-5° jaarlijks uiterlijk op 31 maart aan het agentschap het financiële verslag van het voorbije werkingsjaar bezorgen;<br>
-6° het actieplan voor elk volgend werkingsjaar vóór 30 september ter goedkeuring voorleggen aan het agentschap;<br>
-7° elke wijziging die betrekking heeft op de erkenning, onmiddellijk aan het agentschap melden.
+4° jaarlijks uiterlijk op 31 maart aan de administratie een verslag bezorgen over de uitvoering van de opdrachten;<br>
+5° jaarlijks uiterlijk op 31 maart aan de administratie het financiële verslag van het voorbije werkingsjaar bezorgen;<br>
+6° het actieplan voor elk volgend werkingsjaar vóór 30 september ter goedkeuring voorleggen aan de administratie;<br>
+7° elke wijziging die betrekking heeft op de erkenning, onmiddellijk aan de administratie melden.
 
 ## Hoofdstuk 5. Procedure om een erkenning te schorsen of in te trekken
 
 ### ART 12.
 
-§ 1. De administrateur-generaal uit een voornemen tot schorsing of tot intrekking van de erkenning als het VIVEL niet meer voldoet aan de voorwaarden, vermeld in artikel 11.<br>
+§ 1. De secretaris-generaal uit een voornemen tot schorsing of tot intrekking van de erkenning als het VIVEL niet meer voldoet aan de voorwaarden, vermeld in artikel 11.<br>
 <br>
 § 2. Het VIVEL wordt met een aangetekende zending op de hoogte gebracht van het voornemen tot schorsing of tot intrekking van de erkenning. Dit voornemen bevat:<br>
 1° de motivering conform artikel 2 van de wet van 29 juli 1991 betreffende de uitdrukkelijke motivering van de bestuurshandelingen;<br>
-2° uitleg over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij het agentschap.<br>
+2° uitleg over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij de administratie.<br>
 <br>
-Als het VIVEL geen bezwaarschift indient binnen vijfenveertig dagen na de ontvangst van de aangetekende zending, wordt de beslissing van de administrateur-generaal tot schorsing of intrekking van de erkenning met een aangetekende zending aan het agentschap bezorgd.<br>
+Als het VIVEL geen bezwaarschift indient binnen vijfenveertig dagen na de ontvangst van de aangetekende zending, wordt de beslissing van de secretaris-generaal tot schorsing of intrekking van de erkenning met een aangetekende zending aan de administratie bezorgd.<br>
 <br>
 § 3. De beslissing tot schorsing vermeldt de begindatum, de periode van de schorsing en de voorwaarden die vervuld moeten zijn om de schorsing ongedaan te maken.<br>
 <br>
-De administrateur-generaal bepaalt de termijn van de schorsing. Die termijn mag niet meer bedragen dan drie maanden. Op gemotiveerd verzoek van het VIVEL kan die termijn eenmalig maximaal drie maanden verlengd worden. VIVEL bezorgt die aanvraag minstens dertig dagen voor de afloop van de initiële schorsingstermijn met een aangetekende zending aan het agentschap.<br>
+De secretaris-generaal bepaalt de termijn van de schorsing. Die termijn mag niet meer bedragen dan drie maanden. Op gemotiveerd verzoek van het VIVEL kan die termijn eenmalig maximaal drie maanden verlengd worden. VIVEL bezorgt die aanvraag minstens dertig dagen voor de afloop van de initiële schorsingstermijn met een aangetekende zending aan de administratie.<br>
 <br>
 § 4. Als bij de beëindiging van de schorsingstermijn nog niet aan alle erkenningsnormen is voldaan, wordt de procedure tot intrekking van de erkenning gestart.<br>
 <br>
@@ -229,9 +229,9 @@ De administrateur-generaal bepaalt de termijn van de schorsing. Die termijn mag 
 
 ### ART 13.
 
-De administrateur-generaal kan de erkenning intrekken als het VIVEL daar aangetekend of tegen ontvangstbewijs om verzoekt. De beslissing van de administrateur-generaal wordt binnen drie maanden na de dag waarop het agentschap het verzoek heeft ontvangen, aangetekend met kennisgeving van ontvangst, aan het VIVEL bezorgd.<br>
+De secretaris-generaal kan de erkenning intrekken als het VIVEL daar aangetekend of tegen ontvangstbewijs om verzoekt. De beslissing van de secretaris-generaal wordt binnen drie maanden na de dag waarop de administratie het verzoek heeft ontvangen, aangetekend met kennisgeving van ontvangst, aan het VIVEL bezorgd.<br>
 <br>
-Het VIVEL brengt het agentschap binnen drie maanden op de hoogte van zijn voornemen om de activiteiten vrijwillig stop te zetten, met vermelding van de datum waarop die beslissing uitwerking heeft.
+Het VIVEL brengt de administratie binnen drie maanden op de hoogte van zijn voornemen om de activiteiten vrijwillig stop te zetten, met vermelding van de datum waarop die beslissing uitwerking heeft.
 
 ## Hoofdstuk 7. Subsidiëring
 
@@ -253,7 +253,7 @@ Een werkingsjaar loopt van 1 januari tot en met 31 december.<br>
 <br>
 Als het werkingsjaar korter dan een kalenderjaar is, wordt de subsidie berekend in verhouding tot het aantal begonnen maanden.<br>
 <br>
-Er is een voorafgaande goedkeuring van het agentschap vereist voor de vergoeding van de volgende kosten als ze meer dan 2000 euro bedragen:<br>
+Er is een voorafgaande goedkeuring van de administratie vereist voor de vergoeding van de volgende kosten als ze meer dan 2000 euro bedragen:<br>
 1° de kosten voor reizen naar en verblijven in het buitenland;<br>
 2° de reis- en verblijfskosten van buitenlandse deskundigen;<br>
 3° de kosten die verbonden zijn aan leningen.<br>
@@ -268,7 +268,7 @@ Het VIVEL ontvangt maximaal 90% van de subsidie, vermeld in artikel 15, § 1, al
 <br>
 Het voorschot wordt in vier gelijke schijven uitbetaald. De eerste schijf wordt zo snel mogelijk uitbetaald nadat de subsidie is vastgelegd. De volgende schijven worden respectievelijk in de laatste week van maart, de laatste week van juni en de laatste week van september uitbetaald.<br>
 <br>
-Het saldo van de subsidie wordt uitbetaald nadat het agentschap het financiële verslag heeft goedgekeurd.
+Het saldo van de subsidie wordt uitbetaald nadat de administratie het financiële verslag heeft goedgekeurd.
 
 ### ART 17.
 
@@ -276,15 +276,15 @@ De personeelssubsidie, vermeld in artikel 15, § 2, eerste lid, wordt gekoppeld 
 
 ### ART 18.
 
-§ 1. Elk jaar bezorgt het VIVEL aan het agentschap een inhoudelijk en een financieel jaarverslag uiterlijk op 31 maart van het jaar dat volgt op het jaar waarop de subsidie betrekking heeft.<br>
+§ 1. Elk jaar bezorgt het VIVEL aan de administratie een inhoudelijk en een financieel jaarverslag uiterlijk op 31 maart van het jaar dat volgt op het jaar waarop de subsidie betrekking heeft.<br>
 <br>
-De documenten worden elektronisch naar het agentschap gestuurd.<br>
+De documenten worden elektronisch naar de administratie gestuurd.<br>
 <br>
-Het inhoudelijke verslag bevat een beschrijving van de uitvoering van de opdrachten, vermeld in artikel 2, dat het agentschap in staat stelt te evalueren in welke mate de opdrachten zijn gerealiseerd. Het verslag bevat ook een kritische zelfevaluatie van de uitvoering van de opdrachten.<br>
+Het inhoudelijke verslag bevat een beschrijving van de uitvoering van de opdrachten, vermeld in artikel 2, dat de administratie in staat stelt te evalueren in welke mate de opdrachten zijn gerealiseerd. Het verslag bevat ook een kritische zelfevaluatie van de uitvoering van de opdrachten.<br>
 <br>
 De minister kan de vorm van het inhoudelijke verslag nader bepalen.<br>
 <br>
-Het agentschap kan beslissen om de elektronische versie van het inhoudelijke jaarverslag op zijn website bekend te maken.<br>
+de administratie kan beslissen om de elektronische versie van het inhoudelijke jaarverslag op zijn website bekend te maken.<br>
 <br>
 Het financiële verslag omvat:<br>
 1° de staat van ontvangsten en uitgaven, gegroepeerd per kosten- en inkomstensoort, als een enkelvoudige boekhouding of kasboekhouding wordt gevoerd, of de resultatenrekening als een dubbele boekhouding wordt gevoerd, met inbegrip van de oorsprong, de omvang en de besteding van de eventuele middelen die verkregen worden buiten dit subsidiebesluit en die aangewend worden voor activiteiten die verband houden met dit subsidiebesluit;<br>
@@ -295,9 +295,9 @@ Het financiële verslag omvat:<br>
 <br>
 De minister kan de vorm van het financiële verslag nader bepalen.<br>
 <br>
-§ 2. Het VIVEL bezorgt elk jaar en uiterlijk op 30 september een actieplan voor elk volgend werkingsjaar ter goedkeuring aan het agentschap.<br>
+§ 2. Het VIVEL bezorgt elk jaar en uiterlijk op 30 september een actieplan voor elk volgend werkingsjaar ter goedkeuring aan de administratie.<br>
 <br>
-De documenten worden elektronisch naar het agentschap gestuurd.<br>
+De documenten worden elektronisch naar de administratie gestuurd.<br>
 <br>
 Het actieplan bevat een beschrijving van de concretisering en prioritering van de opdrachten die het VIVEL wil uitvoeren in het volgende werkingsjaar. Het actieplan vermeldt duidelijk welke acties voor welke opdrachten, vermeld in artikel 2, ondernomen worden.
 
@@ -323,13 +323,13 @@ Het bedrag van de subsidie dat de toegelaten grenzen van de opbouw van de reserv
 
 ### ART 21.
 
-§ 1. Het agentschap controleert de naleving van de erkennings- en subsidievoorwaarden. Het kan daarover alle gegevens opvragen.<br>
+§ 1. De administratie controleert de naleving van de erkennings- en subsidievoorwaarden. Het kan daarover alle gegevens opvragen.<br>
 <br>
-§ 2. De voortgang van de realisatie van de activiteiten en de financiering worden gecontroleerd en aangestuurd tijdens overlegmomenten met het agentschap.<br>
+§ 2. De voortgang van de realisatie van de activiteiten en de financiering worden gecontroleerd en aangestuurd tijdens overlegmomenten met de administratie.<br>
 <br>
-De begunstigde bereidt het overleg voor en zorgt voor de nodige documenten, die het agentschap in staat stellen te controleren als vermeld in het eerste lid.<br>
+De begunstigde bereidt het overleg voor en zorgt voor de nodige documenten, die de administratie in staat stellen te controleren als vermeld in het eerste lid.<br>
 <br>
-§ 3. Als uit de voortgangscontrole of de evaluatie, vermeld in het paragraaf 1 en 2, blijkt dat de financiële verantwoording of de uitvoering van de opdrachten, vermeld in artikel 2, onvoldoende is, of als het subsidiebedrag te hoog blijkt, betaalt het agentschap een deel van de subsidie niet uit of vordert het een deel van de subsidie terug.
+§ 3. Als uit de voortgangscontrole of de evaluatie, vermeld in het paragraaf 1 en 2, blijkt dat de financiële verantwoording of de uitvoering van de opdrachten, vermeld in artikel 2, onvoldoende is, of als het subsidiebedrag te hoog blijkt, betaalt de administratie een deel van de subsidie niet uit of vordert het een deel van de subsidie terug.
 
 ## Hoofdstuk 9. Slotbepalingen
 
