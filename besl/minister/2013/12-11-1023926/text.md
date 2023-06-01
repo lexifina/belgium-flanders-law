@@ -37,7 +37,7 @@ b) een opgave van de groepen of personen die het daarmee heeft bereikt, zowel op
 c) een beschrijving van de signalen die uit de acties zijn voortgevloeid en de wijze waarop met die signalen aan de slag is gegaan;<br>
 2° met betrekking tot de opdracht preventie, vermeld in artikel 11, eerste lid, 4°, van het voormelde besluit:<br>
 a) een beschrijving van de reguliere werkingen en initiatieven rond preventie in het CAW;<br>
-b) een beschrijving van de preventieprojecten aan de hand van de projectfiche die ter beschikking wordt gesteld door het Departement Welzijn, Volksgezondheid en Gezin;<br>
+b) een beschrijving van de preventieprojecten aan de hand van de projectfiche die ter beschikking wordt gesteld door het Departement Zorg;<br>
 3° met betrekking tot de opdrachten onthaal en psychosociale begeleiding, vermeld in artikel 11, eerste lid, 5°, 7° tot en met 9°, 11° tot en met 22°, 24° en 25°, van het voormelde besluit, het aantal bereikte cliënten in onthaal en begeleiding, opgesplitst naar geïdentificeerde en niet-geïdentificeerde personen, met vermelding van:<br>
 a) de leeftijd, uitgedrukt in de volgende categorieën:<br>
 1) minder dan twaalf jaar;<br>
