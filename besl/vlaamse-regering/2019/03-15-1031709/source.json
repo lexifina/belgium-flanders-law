@@ -2,16 +2,16 @@
   "codex_id": 1031709,
   "title": "Besluit van de Vlaamse Regering van 2019-03-15 tot vaststelling van de regels voor het verlenen van een omzettingskalender aan pilootprojecten en tot wijziging van het besluit van de Vlaamse Regering van 19 oktober 2018 tot vaststelling van de regels voor het verlenen van een erkennings- of omzettingskalender en tot wijziging van de regels voor de voorafgaande vergunning",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031709/VolledigDocument?datum=2019-05-21",
-  "source_sha256": "f642e3d4200af21a0dd5a9f11c458d06012c40f5c822bc7ff949dad4a381f760",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031709/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "416e85b54cb4c66881d10568ebe170df474bd1a23d5757e67804399f07984b17",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031709&param=informatie",
-  "as_of": "2019-05-21",
+  "as_of": "2023-06-01",
   "made": "2019-03-15",
   "gazette": "2019-05-21",
   "numac": 2019012226,
   "document_start": "2019-05-21",
   "document_end": null,
-  "in_force": "2019-05-21",
+  "in_force": "2023-06-01",
   "article_versions": 58,
-  "record_form": "consolidated version as in force on 2019-05-21; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
