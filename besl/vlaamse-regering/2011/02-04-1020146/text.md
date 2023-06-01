@@ -28,7 +28,7 @@ In dit besluit wordt verstaan onder :<br>
 12° vertegenwoordiger : de persoon die de gebruiker vertegenwoordigt met toepassing van artikel 2;<br>
 13° voorziening: de voorzieningen, vermeld in artikel 4;<br>
 13° /1 woonkosten: de woonkosten, vermeld in artikel 9, § 3, eerste lid;<br>
-14° Zorginspectie: Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.<br>
+14° Zorginspectie: Zorginspectie als vermeld in artikel 4, § 2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.<br>
 &nbsp;
 
 ### ART. 2.
