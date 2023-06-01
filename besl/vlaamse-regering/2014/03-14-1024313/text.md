@@ -115,7 +115,9 @@ Een aanvrager kan alleen een erkenning of een verlenging van een erkenning   ver
 
 ### ART. 20.
 
-<P>Personeelsleden van Zorginspectie van het Departement Welzijn,   Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit   van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn,   Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot   oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en   Gezin en betreffende de wijziging van regelgeving met betrekking tot dat   beleidsdomein, oefenen ter plaatse of op stukken toezicht uit op de naleving van   de erkenningsvoorwaarden door de ondersteuningsteams.<BR></P>  <P>De ondersteuningsteams verlenen hun medewerking aan de uitoefening van het   toezicht. Ze bezorgen aan de personeelsleden, vermeld in het eerste lid, op hun   eenvoudig verzoek, de stukken die verband houden met de erkenningsaanvraag of   met de erkenning. De Zorginspectie kan het dossier van een minderjarige   uitsluitend ter plaatse inzien.<BR></P>
+<p>Personeelsleden van Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg, oefenen ter plaatse of op stukken toezicht uit op de naleving van de erkenningsvoorwaarden door de ondersteuningsteams.</p>
+
+<p>De ondersteuningsteams verlenen hun medewerking aan de uitoefening van het toezicht. Ze bezorgen aan de personeelsleden, vermeld in het eerste lid, op hun eenvoudig verzoek, de stukken die verband houden met de erkenningsaanvraag of met de erkenning. De Zorginspectie kan het dossier van een minderjarige uitsluitend ter plaatse inzien.</p>
 
 ### ART. 21.
 
