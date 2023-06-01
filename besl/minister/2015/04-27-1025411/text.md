@@ -6,7 +6,11 @@ De   Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<BR   style="WIDOWS:
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   agentschap : het Agentschap Zorg en Gezondheid;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   minister : de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   besluit van de Vlaamse Regering van 14 november 2008 : besluit van de Vlaamse   Regering van 14 november 2008 betreffende Vlaamse werkgroepen binnen het   preventieve gezondheidsbeleid, gewijzigd door het besluit van de Vlaamse   Regering van 16 mei 2014 houdende diverse bepalingen ter uitvoering van het   decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid en   tot wijziging van uitvoeringsbesluiten van dit decreet;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   besluit van de Vlaamse Regering van 5 juni 2009 : het besluit van de Vlaamse   Regering van 5 juni 2009 betreffende het erkennen van departementen en   afdelingen medisch toezicht, gewijzigd door het besluit van de Vlaamse Regering   van 16 mei 2014 houdende diverse bepalingen ter uitvoering van het decreet van   21 november 2003 betreffende het preventieve gezondheidsbeleid en tot wijziging   van uitvoeringsbesluiten van dit decreet.
+In dit besluit wordt verstaan onder :<br>
+1° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
+2° minister : de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
+3° besluit van de Vlaamse Regering van 14 november 2008 : besluit van de Vlaamse Regering van 14 november 2008 betreffende Vlaamse werkgroepen binnen het preventieve gezondheidsbeleid, gewijzigd door het besluit van de Vlaamse Regering van 16 mei 2014 houdende diverse bepalingen ter uitvoering van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid en tot wijziging van uitvoeringsbesluiten van dit decreet;<br>
+4° besluit van de Vlaamse Regering van 5 juni 2009 : het besluit van de Vlaamse Regering van 5 juni 2009 betreffende het erkennen van departementen en afdelingen medisch toezicht, gewijzigd door het besluit van de Vlaamse Regering van 16 mei 2014 houdende diverse bepalingen ter uitvoering van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid en tot wijziging van uitvoeringsbesluiten van dit decreet.
 
 ### ART. 2.
 
@@ -18,7 +22,20 @@ De Vlaamse werkgroep wordt opgericht voor onbepaalde   duur.
 
 ### ART. 4.
 
-<P>§   1. De Vlaamse werkgroep wordt opgericht voor de volgende opdrachten :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het opvolgen en bespreken van evoluties op wetenschappelijk en maatschappelijk   vlak over bedrijfsgezondheidszorg in het algemeen, onder meer aan de hand van   wetenschappelijke literatuur, Europese aanbevelingen en persteksten, en in het   bijzonder wanneer die een impact kunnen hebben op het Vlaamse beleid inzake   bedrijfsgezondheidszorg;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   het verlenen van advies aan de minister en aan het agentschap zoals vermeld in   artikel 10, § 1, van het besluit van de Vlaamse Regering van 5 juni   2009;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   opvolgen en bewaken van de werkzaamheden van eventuele subwerkgroepen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. De Vlaamse werkgroep rapporteert aan de minister over de realisatie van de   opdrachten.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   3. De Vlaamse werkgroep maakt een huishoudelijk reglement op.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   huishoudelijk reglement en de wijzigingen ervan, worden ter goedkeuring   voorgelegd aan het agentschap.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   4. Het agentschap coördineert de werking van de werkgroep en draagt de   eindverantwoordelijkheid voor het secretariaatstaken, namelijk de   administratieve, logistieke en, in functie van haar deskundigheid, inhoudelijke   ondersteuning van de Vlaamse werkgroep. Bepaalde secretariaatstaken kunnen door   leden van de werkgroep of door externen worden opgenomen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   er subwerkgroepen worden opgericht, draagt de subwerkgroep de   eindverantwoordelijkheid voor het secretariaat, tenzij dat bij de goedkeuring   van het oprichten van een subwerkgroep, vermeld in artikel 5, § 1, derde lid,   anders wordt vermeld.</P>
+<p>§ 1. De Vlaamse werkgroep wordt opgericht voor de volgende opdrachten :<br>
+1° het opvolgen en bespreken van evoluties op wetenschappelijk en maatschappelijk vlak over bedrijfsgezondheidszorg in het algemeen, onder meer aan de hand van wetenschappelijke literatuur, Europese aanbevelingen en persteksten, en in het bijzonder wanneer die een impact kunnen hebben op het Vlaamse beleid inzake bedrijfsgezondheidszorg;<br>
+2° het verlenen van advies aan de minister en aan de administratie zoals vermeld in artikel 10, § 1, van het besluit van de Vlaamse Regering van 5 juni 2009;<br>
+3° opvolgen en bewaken van de werkzaamheden van eventuele subwerkgroepen.</p>
+
+<p>§ 2. De Vlaamse werkgroep rapporteert aan de minister over de realisatie van de opdrachten.</p>
+
+<p>§ 3. De Vlaamse werkgroep maakt een huishoudelijk reglement op.</p>
+
+<p>Het huishoudelijk reglement en de wijzigingen ervan, worden ter goedkeuring voorgelegd aan de administratie.</p>
+
+<p>§ 4. de administratie coördineert de werking van de werkgroep en draagt de eindverantwoordelijkheid voor het secretariaatstaken, namelijk de administratieve, logistieke en, in functie van haar deskundigheid, inhoudelijke ondersteuning van de Vlaamse werkgroep. Bepaalde secretariaatstaken kunnen door leden van de werkgroep of door externen worden opgenomen.</p>
+
+<p>Als er subwerkgroepen worden opgericht, draagt de subwerkgroep de eindverantwoordelijkheid voor het secretariaat, tenzij dat bij de goedkeuring van het oprichten van een subwerkgroep, vermeld in artikel 5, § 1, derde lid, anders wordt vermeld.</p>
 
 ### ART. 5.
 
@@ -26,7 +43,7 @@ De Vlaamse werkgroep wordt opgericht voor onbepaalde   duur.
 
 <p>Als de voorzitter van de Vlaamse werkgroep afwezig is, dan zit het oudste aanwezige lid de vergadering van de Vlaamse werkgroep voor.</p>
 
-<p>De voorzitter kan na goedkeuring door het agentschap een of meerdere subwerkgroepen oprichten. Daartoe deelt zij haar voornemen tot het oprichten van een subwerkgroep mee aan het agentschap, met inbegrip van de deelaspecten van de opdracht van de Vlaamse werkgroep die door een subwerkgroep worden uitgevoerd, het tijdschema om die deelaspecten uit te voeren, de samenstelling en het maximale aantal leden.</p>
+<p>De voorzitter kan na goedkeuring door de administratie een of meerdere subwerkgroepen oprichten. Daartoe deelt zij haar voornemen tot het oprichten van een subwerkgroep mee aan de administratie, met inbegrip van de deelaspecten van de opdracht van de Vlaamse werkgroep die door een subwerkgroep worden uitgevoerd, het tijdschema om die deelaspecten uit te voeren, de samenstelling en het maximale aantal leden.</p>
 
 <p>De voorzitter van de werkgroep verklaart de aanwezigheidslijst voor waar en echt.</p>
 
@@ -45,11 +62,11 @@ De Vlaamse werkgroep wordt opgericht voor onbepaalde   duur.
 2° de heer Ulrik van Soom;<br>
 3° de heer Bart Curvers.</p>
 
-<p>§ 5. De volgende personen, werkzaam bij het agentschap, worden benoemd tot effectief lid van de Vlaamse werkgroep :<br>
+<p>§ 5. De volgende personen, werkzaam bij de administratie, worden benoemd tot effectief lid van de Vlaamse werkgroep :<br>
 1° de heer Pieter Vandenbulcke;<br>
 2° de heer Pieter Luyten.</p>
 
-<p>§ 6. De identificatie- en contactgegevens van de personen, vermeld in dit artikel, worden bijgehouden door het agentschap.</p>
+<p>§ 6. De identificatie- en contactgegevens van de personen, vermeld in dit artikel, worden bijgehouden door de administratie.</p>
 
 ### ART. 6.
 
