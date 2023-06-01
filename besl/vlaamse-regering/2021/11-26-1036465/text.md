@@ -23,7 +23,7 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° agentschap: het agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+1° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 2° revalidatieziekenhuis: een zorgvoorziening voor gezondheidszorg als vermeld in artikel 5, § 1, I, eerste lid, 3° en 4°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waarin passende zorg wordt aangeboden aan patiënten van wie de gezondheidstoestand de opname of het verblijf vereisen, met als doel de gezondheidstoestand te herstellen of te verbeteren door de ziekte te bestrijden of de patiënt te revalideren;<br>
 3° revalidatievoorziening: een zorgvoorziening die uitgebaat wordt door een rechtspersoon die uitsluitend de uitbating van een of meer zorgvoorzieningen als statutair doel heeft, en waarmee de Vlaamse Regering een revalidatieovereenkomst heeft gesloten;<br>
 4° psychiatrisch verzorgingstehuis: een psychiatrisch verzorgingstehuis als vermeld in artikel 54 van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging;<br>
@@ -61,12 +61,12 @@ i. Het voorzien in de nodige operationele en beleidsmatige rapportering.<br>
 3° De installatie en opstartkosten;<br>
 4° Het voldoen aan de voorwaarden rond informatieveiligheid.<br>
 <br>
-De volgende kosten kunnen slechts worden gedekt door deze subsidie als het agentschap op voorhand zijn toestemming heeft verleend:<br>
+De volgende kosten kunnen slechts worden gedekt door deze subsidie als de administratie op voorhand zijn toestemming heeft verleend:<br>
 1° kosten voor reizen naar en verblijven in het buitenland;<br>
 2° reis- en verblijfskosten van buitenlandse deskundigen;<br>
 3° kosten die verbonden zijn aan leningen.<br>
 <br>
-§ 3. Het agentschap kan beslissen om op haar website (www.zorg-en-gezondheid.be) een lijst te publiceren van de voorzieningen die de doelstellingen, vermeld in § 1, realiseren of niet realiseren.
+§ 3. De administratie kan beslissen om op haar website een lijst te publiceren van de voorzieningen die de doelstellingen, vermeld in § 1, realiseren of niet realiseren.
 
 ### ART 4.
 
@@ -80,7 +80,7 @@ De bijlage die bij dit besluit is gevoegd, bevat een lijst van de betrokken voor
 
 § 1. De subsidie, vermeld in artikel 2, § 1, wordt uitbetaald bij de inwerkingtreding van dit besluit.<br>
 <br>
-§ 2. De betrokken voorzieningen bezorgen aan het agentschap de financiële bewijs- en verantwoordingsstukken ter verantwoording van de ontvangen subsidie, uiterlijk 4 maanden na de inwerkingtreding van het besluit van de Vlaamse Regering waarmee de betrokken sector ingekanteld wordt in de Vlaamse sociale bescherming, conform artikel 4 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.<br>
+§ 2. De betrokken voorzieningen bezorgen aan de administratie de financiële bewijs- en verantwoordingsstukken ter verantwoording van de ontvangen subsidie, uiterlijk 4 maanden na de inwerkingtreding van het besluit van de Vlaamse Regering waarmee de betrokken sector ingekanteld wordt in de Vlaamse sociale bescherming, conform artikel 4 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.<br>
 <br>
 § 3. De financiële bewijsstukken omvatten:<br>
 1° De bewijs- en verantwoordingsstukken van de kosten en die ter realisatie van de digitalisering van het opname-, facturatie- en financieringsproces tussen de voorzieningen en de zorgkassen, vermeld in artikel 3, § 1 worden gegenereerd;<br>
@@ -88,25 +88,25 @@ De bijlage die bij dit besluit is gevoegd, bevat een lijst van de betrokken voor
 <br>
 § 4. De financiële bewijs- en verantwoordingsstukken, vermeld in artikel 5, § 2, moeten worden ingediend op elektronische wijze.<br>
 <br>
-Als uit de voortgangscontrole of evaluatie door het agentschap blijkt dat de financiële verantwoording of de uitvoering van de activiteiten onvoldoende is of als het subsidiebedrag te hoog blijkt, wordt door het agentschap een deel van de projectsubsidie teruggevorderd.
+Als uit de voortgangscontrole of evaluatie door de administratie blijkt dat de financiële verantwoording of de uitvoering van de activiteiten onvoldoende is of als het subsidiebedrag te hoog blijkt, wordt door de administratie een deel van de projectsubsidie teruggevorderd.
 
 ### ART 6.
 
-De Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein, ingevoegd bij het besluit van de Vlaamse Regering van 30 januari 2015, houdt toezicht op de toepassing van dit besluit en heeft daartoe de mogelijkheid om ter plaatse controles uit te voeren op de financiële stukken.
+Zorginspectie als vermeld in artikel 4, § 2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg houdt toezicht op de toepassing van dit besluit en heeft daartoe de mogelijkheid om ter plaatse controles uit te voeren op de financiële stukken.
 
 ### ART 7.
 
-De voortgang van de realisatie van de activiteiten wordt, als het agentschap dat nodig acht, gecontroleerd en aangestuurd door het agentschap.
+De voortgang van de realisatie van de activiteiten wordt, als de administratie dat nodig acht, gecontroleerd en aangestuurd door de administratie.
 
 ### ART 8.
 
-§ 1. Iedere mediacampagne over de activiteiten, vermeld in dit besluit, wordt minimaal veertien dagen vooraf gemeld aan het agentschap.<br>
+§ 1. Iedere mediacampagne over de activiteiten, vermeld in dit besluit, wordt minimaal veertien dagen vooraf gemeld aan de administratie.<br>
 <br>
-§ 2. Resultaten van activiteiten die gefinancierd worden in het kader van dit besluit, mogen alleen openbaar gemaakt worden of gepubliceerd worden nadat ze bezorgd zijn aan het agentschap.<br>
+§ 2. Resultaten van activiteiten die gefinancierd worden in het kader van dit besluit, mogen alleen openbaar gemaakt worden of gepubliceerd worden nadat ze bezorgd zijn aan de administratie.<br>
 <br>
 § 3. De steun van de Vlaamse overheid moet vermeld worden bij publicaties, presentaties en andere mededelingen over de activiteiten, vermeld in dit besluit. Die vermelding gebeurt door het aanbrengen van het logo van de Vlaamse overheid met `Vlaanderen is zorg' erbij.<br>
 <br>
-Die publicaties, presentaties en mededelingen worden, bij voorkeur elektronisch, bezorgd aan het agentschap. Als dat niet mogelijk is, wordt het agentschap daarover geïnformeerd.
+Die publicaties, presentaties en mededelingen worden, bij voorkeur elektronisch, bezorgd aan de administratie. Als dat niet mogelijk is, wordt de administratie daarover geïnformeerd.
 
 ### ART 9.
 
