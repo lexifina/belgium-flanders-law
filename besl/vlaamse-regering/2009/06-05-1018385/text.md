@@ -6,11 +6,17 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 20 maart 2009 houdende 
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° voorziening van Welzijn, Volksgezondheid en Gezin : een organisatie die activiteiten uitoefent in de gemeenschapsaangelegenheden, vermeld in artikel 5, § 1, I en II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen en die tot het beleidsdomein Welzijn, Volksgezondheid en Gezin behoren;<br />2° bevoegde entiteit : de afdeling van een agentschap van het beleidsdomein Welzijn, Volksgezondheid en Gezin of van het departement van dat beleidsdomein, die functioneel bevoegd is voor de administratieve afhandeling van het verzoek tot afwijking van Vlaamse normen voor brandveiligheid die van toepassing zijn op de voorziening die de afwijking vraagt;<br />3° minister : de Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor het gezondheidsbeleid.<br /><br />
+In dit besluit wordt verstaan onder :<br>
+1° voorziening van Welzijn, Volksgezondheid en Gezin : een organisatie die activiteiten uitoefent in de gemeenschapsaangelegenheden, vermeld in artikel 5, § 1, I en II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen en die tot het beleidsdomein Welzijn, Volksgezondheid en Gezin behoren;<br>
+2° bevoegde entiteit : de afdeling van een agentschap van het beleidsdomein Welzijn, Volksgezondheid en Gezin of van het departement van dat beleidsdomein, die functioneel bevoegd is voor de administratieve afhandeling van het verzoek tot afwijking van Vlaamse normen voor brandveiligheid die van toepassing zijn op de voorziening die de afwijking vraagt;<br>
+3° minister : de Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
+4° Departement Zorg: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.<br>
+&nbsp;
 
 ### ART. 2.
 
-Binnen het Departement Welzijn, Volksgezondheid en Gezin wordt een technische commissie voor de brandveiligheid in de voorzieningen van Welzijn, Volksgezondheid en Gezin opgericht, hierna « de technische commissie » te noemen.<br /><br />
+Binnen het Departement Zorg wordt een technische commissie voor de brandveiligheid in de voorzieningen van Welzijn, Volksgezondheid en Gezin opgericht, hierna « de technische commissie » te noemen.<br>
+&nbsp;
 
 ### ART. 3.
 
@@ -23,7 +29,7 @@ De beslissing over een verzoek tot afwijking van Vlaamse normen voor brandveilig
 ### ART. 5.
 
 De technische commissie is samengesteld als volgt :<br>
-1° een ambtenaar met minstens rang A1 van het departement Welzijn, Volksgezondheid en Gezin, Afdeling Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, die de commissie voorzit;<br>
+1° een ambtenaar met minstens rang A1 van het Departement Zorg, Afdeling Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, die de commissie voorzit;<br>
 2° een persoon met de kwalificatie van preventieadviseur;<br>
 3° twee brandveiligheidsdeskundigen die actief deel uitmaken van een hulpverleningszone, als vertegenwoordigers voor de brandweerdiensten van het Vlaamse Gewest;<br>
 4° een persoon uit de academische wereld met een bijzondere kwalificatie voor brandveiligheid;<br>
@@ -52,7 +58,8 @@ Voor de adviezen vermeld in artikel 3, 1° wordt de bevoegde entiteit uitgenodig
 
 ### ART. 8.
 
-Het secretariaat van de technische commissie wordt waargenomen door een personeelslid van het Departement Welzijn, Volksgezondheid en Gezin.<br /><br />
+Het secretariaat van de technische commissie wordt waargenomen door een personeelslid van het Departement Zorg.<br>
+&nbsp;
 
 ### ART. 9.
 
@@ -91,7 +98,8 @@ De externe leden van de technische commissie kunnen aanspraak maken op de volgen
 
 ### ART. 16.
 
-De werkingskosten van de technische commissie en de vergoedingen van de leden worden aangerekend op de begroting van het Departement Welzijn, Volksgezondheid en Gezin.<br /><br />
+De werkingskosten van de technische commissie en de vergoedingen van de leden worden aangerekend op de begroting van het Departement Zorg.<br>
+&nbsp;
 
 ### ART. 17.
 
