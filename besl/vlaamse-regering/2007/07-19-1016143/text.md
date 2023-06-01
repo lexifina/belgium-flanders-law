@@ -13,7 +13,7 @@ In dit besluit wordt verstaan onder :<br>
 2° agentschap Opgroeien regie: het agentschap, vermeld in artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 3° VAPH : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
 4° Agentschap voor Vlaamse Sociale Bescherming : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Agentschap voor Vlaamse Sociale Bescherming, vermeld in artikel 9 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
-5° Zorg en Gezondheid : het intern verzelfstandigd agentschap Zorg en Gezondheid;<br>
+5° ...;<br>
 6° ...;<br>
 7° minister : de Vlaamse minister bevoegd voor de Bijstand aan Personen en voor het Gezondheidsbeleid.<br>
 &nbsp;
@@ -22,14 +22,7 @@ In dit besluit wordt verstaan onder :<br>
 
 ### ART. 2.
 
-§ 1. Het raadgevend comité van Zorg en Gezondheid bestaat uit dertig leden, van wie :<br>
-1° tien vertegenwoordigers van de representatieve beroepsverenigingen van zorgverleners;<br>
-2° zes vertegenwoordigers van voorzieningen die actief zijn op het werkterrein van het agentschap;<br>
-3° vier vertegenwoordigers van de gebruikers van diensten die het agentschap ondersteunt;<br>
-4° zes vertegenwoordigers van de sociale partners binnen het domein Welzijn, Volksgezondheid en Gezin;<br>
-5° vier onafhankelijke deskundigen met een bijzondere deskundigheid binnen het beleidsdomein Welzijn, Volksgezondheid en Gezin.<br>
-<br>
-De voorzitter, vermeld in artikel 5, wordt aangewezen onder de deskundigen, vermeld in het eerste lid, 5°.<br>
+§ 1. ...<br>
 <br>
 § 2. Het raadgevend comité van het VAPH bestaat uit 24 leden, waarvan :<br>
 1° zes vertegenwoordigers van de gebruikers van de door het agentschap georganiseerde ondersteuning;<br>
@@ -74,7 +67,7 @@ De leden worden door de Vlaamse Regering voor een periode van vier jaar benoemd,
 
 ### ART. 4.
 
-De minister nodigt organisaties en geledingen uit om kandidaten voor te dragen voor de mandaten vermeld in artikel 2,&nbsp;&nbsp;§ 1, eerste lid, 1° tot en met 4°, § 2, 1° tot en met 3°, § 3, eerste lid, 2° tot en met 5°, tweede lid, 1°, a) tot en met d), tweede lid, 2° a) tot en met c) en § 4, 1° tot en met 4°.<br>
+De minister nodigt organisaties en geledingen uit om kandidaten voor te dragen voor de mandaten vermeld in artikel 2, § 2, 1° tot en met 3°, § 3, eerste lid, 2° tot en met 5°, tweede lid, 1°, a) tot en met d), tweede lid, 2° a) tot en met c) en § 4, 1° tot en met 4°.<br>
 <br>
 Hij houdt hierbij rekening met de maatschappelijke relevantie en de belangrijkheid van deze organisaties en geledingen evenals met de verscheidenheid ervan.<br>
 <br>
@@ -89,12 +82,12 @@ De minister wijst onder de leden van de raadgevende comités een voorzitter en h
 
 ### ART. 6.
 
-De voordragende organisaties en geledingen duiden een plaatsvervanger aan voor de vertegenwoordigers, vermeld in artikel 2, § 1, eerste lid, 1° tot en met 4°, § 2, 1° tot en met 3°,§ 3, eerste lid, 1° tot en met 5°, tweede lid, 1°, a) tot en met d), tweede lid, 2° a) tot en met c) en § 4, 1° tot en met 4°.<br>
+De voordragende organisaties en geledingen duiden een plaatsvervanger aan voor de vertegenwoordigers, vermeld in artikel 2, § 2, 1° tot en met 3°,§ 3, eerste lid, 1° tot en met 5°, tweede lid, 1°, a) tot en met d), tweede lid, 2° a) tot en met c) en § 4, 1° tot en met 4°.<br>
 &nbsp;
 
 ### ART. 7.
 
-De vertegenwoordigers, vermeld in artikel 2, § 1, eerste lid, 1° tot en met 4°, § 2, 1° tot en met 3°, § 3, eerste lid, 1° tot en met 5°, tweede lid, 1°, a) tot en met d), tweede lid, 2° a) tot en met c) en § 4, 1° tot en met 4° worden voorgedragen op lijsten, waarbij voor elke vertegenwoordiger één mannelijke en één vrouwelijke kandidaat worden voorgedragen.<br>
+De vertegenwoordigers, vermeld in artikel 2, § 2, 1° tot en met 3°, § 3, eerste lid, 1° tot en met 5°, tweede lid, 1°, a) tot en met d), tweede lid, 2° a) tot en met c) en § 4, 1° tot en met 4° worden voorgedragen op lijsten, waarbij voor elke vertegenwoordiger één mannelijke en één vrouwelijke kandidaat worden voorgedragen.<br>
 <br>
 Telkens als in een raadgevend comité één of meerdere mandaten ten gevolge van een voordrachtprocedure vacant zijn, moeten per mandaat, één man en één vrouw worden voorgedragen.<br>
 &nbsp;
