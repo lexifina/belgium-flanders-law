@@ -6,7 +6,11 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op h
 
 ### ART. 1.
 
-De volgende personen worden aangesteld tot intern lid van de waarborgcommissie bij het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, vermeld in artikel 12 het besluit van de Vlaamse Regering van 9 februari 2007 tot regeling van de investeringswaarborg voor rusthuizen, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, en tot wijziging van het besluit van de Vlaamse Regering van 1 september 2006 tot regeling van de alternatieve investeringswaarborg verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, hierna de waarborgcommissie te noemen :<br />1° het afdelingshoofd van de afdeling VIPA van het departement Welzijn, Volksgezondheid en Gezin;<br />2° een personeelslid van de afdeling VIPA van het departement Welzijn, Volksgezondheid en Gezin.<br /><br />Het afdelingshoofd, vermeld in het eerste lid, 1°, kan zich laten vervangen door een personeelslid van niveau A van de betreffende afdeling. <br />
+De volgende personen worden aangesteld tot intern lid van de waarborgcommissie bij het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, vermeld in artikel 12 het besluit van de Vlaamse Regering van 9 februari 2007 tot regeling van de investeringswaarborg voor rusthuizen, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, en tot wijziging van het besluit van de Vlaamse Regering van 1 september 2006 tot regeling van de alternatieve investeringswaarborg verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, hierna de waarborgcommissie te noemen :<br>
+1° het afdelingshoofd van de afdeling VIPA van het Departement Zorg;<br>
+2° een personeelslid van de afdeling VIPA van het Departement Zorg.<br>
+<br>
+Het afdelingshoofd, vermeld in het eerste lid, 1°, kan zich laten vervangen door een personeelslid van niveau A van de betreffende afdeling.
 
 ### ART. 2.
 
@@ -14,7 +18,8 @@ De volgende personen worden aangesteld tot extern lid van de waarborgcommissie :
 
 ### ART. 3.
 
-Het afdelingshoofd van de afdeling VIPA van het departement Welzijn, Volksgezondheid en Gezin of zijn vervanger zit de vergaderingen van de waarborgcommissie voor.<br /><br />
+Het afdelingshoofd van de afdeling VIPA van het Departement Zorg of zijn vervanger zit de vergaderingen van de waarborgcommissie voor.<br>
+&nbsp;
 
 ### ART. 4.
 
@@ -26,7 +31,9 @@ Het secretariaat van de waarborgcommissie wordt waargenomen door personeelsleden
 
 ### ART. 6.
 
-De externe leden van de waarborgcommissie ontvangen de volgende vergoedingen :<br />1° een forfaitaire vergoeding van 150 euro per ingediend dossier waarover de waarborgcommissie een advies heeft verstrekt;<br />2° de terugbetaling van hun reiskosten volgens dezelfde normen als voor de ambtenaren van het departement Welzijn, Volksgezondheid en Gezin, waarbij de externe leden worden gelijkgesteld met ambtenaren van niveau A.<br />
+De externe leden van de waarborgcommissie ontvangen de volgende vergoedingen :<br>
+1° een forfaitaire vergoeding van 150 euro per ingediend dossier waarover de waarborgcommissie een advies heeft verstrekt;<br>
+2° de terugbetaling van hun reiskosten volgens dezelfde normen als voor de ambtenaren van het Departement Zorg waarbij de externe leden worden gelijkgesteld met ambtenaren van niveau A.
 
 ### ART. 7.
 
