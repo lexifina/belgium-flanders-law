@@ -2,16 +2,16 @@
   "codex_id": 1017364,
   "title": "Besluit van de Vlaamse Regering van 2008-11-14 betreffende Vlaamse werkgroepen binnen het preventieve gezondheidsbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017364/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "29bb8dfcb490fb86e1fe6574f09fd22ba22ff7905169e2550751ea859b10745d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017364/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "43e3d2ee4983182e95be7a14529ea22a34f4e2cb17ac2a27c2c742f707710b7c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017364&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2023-06-01",
   "made": "2008-11-14",
   "gazette": "2008-12-17",
   "numac": 2008204550,
   "document_start": "2008-12-27",
   "document_end": null,
-  "in_force": "2014-01-01",
+  "in_force": "2023-06-01",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
