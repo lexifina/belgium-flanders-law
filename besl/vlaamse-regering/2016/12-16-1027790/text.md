@@ -77,7 +77,7 @@ Het agentschap onderzoekt of een aanvraag van een bijzondere subsidie voldoet aa
 2° twee vertegenwoordigers van de vergunde zorgaanbieders en één vertegenwoordiger van een particulier ouderinitiatief zoals bedoeld in artikel 2, 3° van het BVR houdende het vergunnen van aanbieders van niet- rechtstreeks toegankelijke hulp voor personen met een handicap.<br>
 3° drie vertegenwoordigers van de gebruikers van de door het agentschap georganiseerde ondersteuning;<br>
 4° één vertegenwoordiger van de instanties, vermeld in artikel 22 van het besluit van de Vlaamse Regering van 24 juli 1991 betreffende de indiening en afhandeling van de aanvraag tot ondersteuning bij het Vlaams Agentschap voor Personen met een Handicap;<br>
-5° één vertegenwoordiger van het Departement Welzijn, Volksgezondheid en Gezin van het Vlaams Ministerie van Welzijn, Volksgezondheid en Gezin.<br>
+5° één vertegenwoordiger van het Departement Zorg van het Vlaams Ministerie van Welzijn, Volksgezondheid en Gezin.<br>
 <br>
 Voor alle permanente leden wordt een plaatsvervanger aangewezen.<br>
 <br>

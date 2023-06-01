@@ -2,16 +2,16 @@
   "codex_id": 1027790,
   "title": "Besluit van de Vlaamse Regering van 2016-12-16 houdende de vaststelling van de procedure en de voorwaarden volgens welke het Vlaams Agentschap voor Personen met een Handicap bijzondere subsidies kan verlenen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027790/VolledigDocument?datum=2017-01-01",
-  "source_sha256": "aec10d2917a7d37038284a36ddd42937f866d0c4a8a017cef3883903d8a6458d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027790/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "e5eafcea48c13dff92d1e44b7801b7dd95b8bbf3456970a2c43248a771171356",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027790&param=informatie",
-  "as_of": "2017-01-01",
+  "as_of": "2023-06-01",
   "made": "2016-12-16",
   "gazette": "2017-01-26",
   "numac": 2017010060,
   "document_start": "2017-01-01",
   "document_end": null,
-  "in_force": "2017-01-01",
+  "in_force": "2023-06-01",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
