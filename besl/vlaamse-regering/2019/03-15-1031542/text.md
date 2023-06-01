@@ -29,14 +29,15 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° administrateur-generaal: het hoofd van het agentschap;<br>
-2° agentschap: het intern verzelfstandigd agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+1° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
+2° ...;<br>
 3° besluit van 24 juli 2009: het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers, gewijzigd bij het besluit van de Vlaamse Regering van 7 december 2018;<br>
 4° bijkomende erkenning: een bijkomende erkenning voor de zorg en ondersteuning van personen met jongdementie;<br>
 5° dementie: een aandoening waarbij meerdere stoornissen in het cognitieve functioneren samen optreden en de impact op het denken, de stemming en het gedrag zo ernstig is dat de persoon in zijn algemeen dagelijks functioneren wordt beperkt;<br>
 6° diagnostisch bilan: een interdisciplinair onderzoek onder leiding van een neuroloog, geriater of psychiater, met evaluatie van het cognitieve functioneren van een persoon met vermoeden van beginnende dementie;<br>
 7° jongdementie: dementie die vastgesteld is aan de hand van een diagnostisch bilan, vóór de leeftijd van 65 jaar;<br>
-8° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor het gezondheidsbeleid.
+8° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
+9° secretaris-generaal: het hoofd van de administratie.
 
 ## HOOFDSTUK 2. Planningsvergunning
 
@@ -61,7 +62,7 @@ In dit besluit wordt verstaan onder:<br>
 ### ART 6.
 
 § 1. Een aanvraag van bijkomende erkenning is alleen ontvankelijk als de initiatiefnemer beschikt over een geldige planningsvergunning als vermeld in artikel 4 en als de aanvraag al de volgende gegevens en stukken bevat:<br>
-1° een aanvraagformulier dat het agentschap ter beschikking stelt en dat al de volgende gegevens bevat:<br>
+1° een aanvraagformulier dat de administratie ter beschikking stelt en dat al de volgende gegevens bevat:<br>
 a) de identificatiegegevens van de initiatiefnemer en het woonzorgcentrum waarvoor de bijkomende erkenning wordt aangevraagd;<br>
 b) het aantal woongelegenheden waarvoor de bijkomende erkenning wordt aangevraagd;<br>
 c) de voor- en achternaam en de kwalificatie van de directeur van het woonzorgcentrum;<br>
@@ -71,24 +72,24 @@ d) de gevraagde ingangsdatum van de erkenning;<br>
 4° een nominatieve lijst van de bijkomende personeelsleden die conform artikel 48/36 van de bijlage XII bij het besluit van 24 juli 2009 vereist zijn, met vermelding van hun wekelijkse arbeidsduur en kwalificatie;<br>
 5° de verbintenis om binnen een jaar na de datum van de erkenningsbeslissing te voldoen aan de specifieke bijkomende erkenningsvoorwaarden vervat in de artikelen 48/34 en 48/35 van bijlage XII bij het besluit van 24 juli 2009.<br>
 <br>
-§ 2. Het agentschap onderzoekt de ontvankelijkheid van de aanvraag.<br>
+§ 2. De administratie onderzoekt de ontvankelijkheid van de aanvraag.<br>
 <br>
-Als de aanvraag niet ontvankelijk is, brengt het agentschap de initiatiefnemer daarvan op de hoogte binnen dertig kalenderdagen nadat het de aanvraag heeft ontvangen.<br>
+Als de aanvraag niet ontvankelijk is, brengt de administratie de initiatiefnemer daarvan op de hoogte binnen dertig kalenderdagen nadat het de aanvraag heeft ontvangen.<br>
 <br>
-§ 3. Het agentschap kan de initiatiefnemer om aanvullende inlichtingen verzoeken. Nadat het agentschap die inlichtingen heeft ontvangen, begint er een nieuwe termijn als vermeld in paragraaf 2, te lopen.<br>
+§ 3. De administratie kan de initiatiefnemer om aanvullende inlichtingen verzoeken. Nadat de administratie die inlichtingen heeft ontvangen, begint er een nieuwe termijn als vermeld in paragraaf 2, te lopen.<br>
 <br>
-Als het agentschap de informatie, vermeld in het eerste lid, niet heeft ontvangen binnen dertig dagen nadat het verzoek is verzonden, wordt de aanvraag van de bijkomende erkenning onontvankelijk verklaard. Het agentschap kan die termijn verlengen als de initiatiefnemer daarom in een gemotiveerde aanvraag heeft verzocht.
+Als de administratie de informatie, vermeld in het eerste lid, niet heeft ontvangen binnen dertig dagen nadat het verzoek is verzonden, wordt de aanvraag van de bijkomende erkenning onontvankelijk verklaard. De administratie kan die termijn verlengen als de initiatiefnemer daarom in een gemotiveerde aanvraag heeft verzocht.
 
 ### ART 7.
 
-§ 1. De administrateur-generaal beslist over de bijkomende erkenning van het woonzorgcentrum. De beslissing wordt binnen honderdtwintig dagen nadat hij de ontvankelijke aanvraag heeft ontvangen aan de initiatiefnemer meegedeeld met een aangetekende brief of op een andere wijze die de minister bepaalt.<br>
+§ 1. De secretaris-generaal beslist over de bijkomende erkenning van het woonzorgcentrum. De beslissing wordt binnen honderdtwintig dagen nadat hij de ontvankelijke aanvraag heeft ontvangen aan de initiatiefnemer meegedeeld met een aangetekende brief of op een andere wijze die de minister bepaalt.<br>
 <br>
 De erkenningsbeslissing vermeldt minstens de volgende gegevens:<br>
 1° de identificatiegegevens van de initiatiefnemer en van het woonzorgcentrum;<br>
 2° de ingangsdatum van de bijkomende erkenning;<br>
 3° het aantal woongelegenheden waarvoor de bijkomende erkenning wordt verleend.<br>
 <br>
-§ 2. Als de administrateur-generaal het voornemen heeft om de bijkomende erkenning te weigeren, brengt hij de initiatiefnemer van dat gemotiveerde voornemen op de hoogte met een aangetekende brief of op een andere wijze die de minister bepaalt. Hij vermeldt daarbij de mogelijkheid en de voorwaarden om tegen het voornemen bezwaar aan te tekenen.
+§ 2. Als de secretaris-generaal het voornemen heeft om de bijkomende erkenning te weigeren, brengt hij de initiatiefnemer van dat gemotiveerde voornemen op de hoogte met een aangetekende brief of op een andere wijze die de minister bepaalt. Hij vermeldt daarbij de mogelijkheid en de voorwaarden om tegen het voornemen bezwaar aan te tekenen.
 
 ### ART 8.
 
@@ -96,25 +97,25 @@ De woonzorgcentra hebben de keuze om de bijkomende erkenning voor de zorg en ond
 <br>
 In afwijking van het eerste lid hebben de woonzorgcentra die een bijkomende erkenning aanvragen in 2019, de keuze om die aan te vragen met ingang van 1 juli 2019 of 1 oktober 2019.<br>
 <br>
-Uiterlijk 45 dagen voor de op basis van het eerste of tweede lid aangevraagde ingangsdatum van de bijkomende erkenning moet het agentschap de ontvankelijke aanvraag tot erkenning ontvangen hebben. Indien de aanvraag tot erkenning niet uiterlijk 45 dagen voor de op basis van het eerste of tweede lid aangevraagde ingangsdatum van de bijkomende erkenning ontvankelijk was, gaat de erkenning pas in op zijn vroegst 45 dagen na de dag waarop het agentschap de ontvankelijke aanvraag tot erkenning ontvangen heeft.
+Uiterlijk 45 dagen voor de op basis van het eerste of tweede lid aangevraagde ingangsdatum van de bijkomende erkenning moet de administratie de ontvankelijke aanvraag tot erkenning ontvangen hebben. Indien de aanvraag tot erkenning niet uiterlijk 45 dagen voor de op basis van het eerste of tweede lid aangevraagde ingangsdatum van de bijkomende erkenning ontvankelijk was, gaat de erkenning pas in op zijn vroegst 45 dagen na de dag waarop de administratie de ontvankelijke aanvraag tot erkenning ontvangen heeft.
 
 ## HOOFDSTUK 4. Bezwaar
 
 ### ART 9.
 
-Binnen dertig dagen nadat de initiatiefnemer het voornemen tot weigering van&nbsp;de bijkomende erkenning heeft ontvangen, kan hij daartegen een gemotiveerd bezwaarschrift indienen bij het agentschap. Hij dient het bezwaarschrift in met een aangetekende brief of op een andere wijze die de minister bepaalt. In het bezwaarschrift kan hij verzoeken om gehoord te worden.<br>
+Binnen dertig dagen nadat de initiatiefnemer het voornemen tot weigering van&nbsp;de bijkomende erkenning heeft ontvangen, kan hij daartegen een gemotiveerd bezwaarschrift indienen bij de administratie. Hij dient het bezwaarschrift in met een aangetekende brief of op een andere wijze die de minister bepaalt. In het bezwaarschrift kan hij verzoeken om gehoord te worden.<br>
 <br>
 Het bezwaarschrift wordt behandeld en over het bezwaarschrift wordt beslist conform de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
 <br>
-Als de initiatiefnemer geen bezwaar indient binnen de termijn, vermeld in het eerste lid, wordt het voornemen van de administrateur-generaal van rechtswege geacht een weigeringsbeslissing van de administrateur-generaal te zijn. Het agentschap brengt de initiatiefnemer daarvan binnen een maand na de dag waarop die termijn is verstreken, op de hoogte met een aangetekende brief of op een andere wijze die de minister bepaalt.
+Als de initiatiefnemer geen bezwaar indient binnen de termijn, vermeld in het eerste lid, wordt het voornemen van de secretaris-generaal van rechtswege geacht een weigeringsbeslissing van de secretaris-generaal te zijn. de administratie brengt de initiatiefnemer daarvan binnen een maand na de dag waarop die termijn is verstreken, op de hoogte met een aangetekende brief of op een andere wijze die de minister bepaalt.
 
 ## HOOFDSTUK 5. Handhaving
 
 ### ART 10.
 
-Als een woonzorgcentrum dat een bijkomende erkenning heeft, niet langer voldoet aan de voorwaarden voor de bijkomende erkenning, kan het agentschap de initiatiefnemer in kwestie met een aangetekende zending aanmanen om alle verplichtingen na te komen binnen een termijn die het agentschap bepaalt.<br>
+Als een woonzorgcentrum dat een bijkomende erkenning heeft, niet langer voldoet aan de voorwaarden voor de bijkomende erkenning, kan de administratie de initiatiefnemer in kwestie met een aangetekende zending aanmanen om alle verplichtingen na te komen binnen een termijn die de administratie bepaalt.<br>
 <br>
-Als het woonzorgcentrum ondanks die aanmaning de voorwaarden niet naleeft, kan het agentschap de bijkomende erkenning schorsen of intrekken conform de regels, vermeld in hoofdstuk V en XI van het besluit van de Vlaamse Regering van 5 juni 2009 betreffende de procedures voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers.
+Als het woonzorgcentrum ondanks die aanmaning de voorwaarden niet naleeft, kan de administratie de bijkomende erkenning schorsen of intrekken conform de regels, vermeld in hoofdstuk V en XI van het besluit van de Vlaamse Regering van 5 juni 2009 betreffende de procedures voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers.
 
 ## HOOFSTUK 6. Wijzigingen van het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers
 
