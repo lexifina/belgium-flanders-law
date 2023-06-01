@@ -16,13 +16,14 @@ Na beraadslaging,Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° administrateur-generaal: de administrateur-generaal van het agentschap;<br>
-2° agentschap: het agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+1° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
+2° ...;<br>
 3° decreet van 18 mei 2018: het decreet van 18 mei 2018 betreffende het niet-dringend liggend ziekenvervoer;<br>
 4° dienst: een dienst voor niet-dringend liggend ziekenvervoer als vermeld in artikel 2, 1°, van het decreet van 18 mei 2018;<br>
 5° gemengde werkgroep opleiding: de werkgroep, vermeld in artikel 5, § 2, van het decreet van 18 mei 2018;<br>
 6° minister: de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
 7° onafhankelijke commissie: de onafhankelijke commissie, vermeld in artikel 5, § 1, van het decreet van 18 mei 2018;<br>
+7°/1 secretaris-generaal: het hoofd van de administratie;<br>
 8° ziekenfonds: de Landsbond der Christelijke Mutualiteiten, het Nationaal Verbond van Socialistische Mutualiteiten, de Landsbond van de Liberale Mutualiteiten, de Landsbond van de Onafhankelijke Ziekenfondsen en de Landsbond van de Neutrale Ziekenfondsen.
 
 ## HOOFDSTUK 2. De onafhankelijke commissie niet-dringend liggend ziekenvervoer
@@ -37,13 +38,13 @@ De onafhankelijke commissie bestaat, naast de voorzitter, uit de volgende leden:
 3° een vertegenwoordiger van het Vlaams Patiëntenplatform vzw;<br>
 4° een vertegenwoordiger van Zorgnet-Icuro vzw;<br>
 5° een vertegenwoordiger van Test-Aankoop vzw;<br>
-6° een vertegenwoordiger van het agentschap.<br>
+6° een vertegenwoordiger van de administratie.<br>
 <br>
 Om aan de voorwaarde van 50.000 ritten per jaar, vermeld in het tweede lid, 2°, te voldoen, mogen verschillende diensten zich groeperen en samen een vertegenwoordiger aanwijzen. Het aandeel ritten van een dienst kan maar door één vertegenwoordiger worden vertegenwoordigd.<br>
 <br>
 Voor elk van de effectieve leden, vermeld in het tweede lid, wordt een plaatsvervangend lid aangewezen.<br>
 <br>
-De functie van secretaris van de onafhankelijke commissie wordt waargenomen door een personeelslid van het agentschap.
+De functie van secretaris van de onafhankelijke commissie wordt waargenomen door een personeelslid van de administratie.
 
 ### ART 3.
 
@@ -73,15 +74,15 @@ De minister benoemt een van de kandidaat-voorzitters tot voorzitter en de andere
 
 ### ART 6.
 
-De onafhankelijke commissie stelt een huishoudelijk reglement op dat in afwijking van de stemprocedure, vermeld in artikel 4 van dit besluit, alleen kan worden goedgekeurd bij een tweederdemeerderheid van de aanwezige leden op een vergadering waarbij minstens twee derde van de leden aanwezig is. Het aldus goedgekeurde huishoudelijk reglement wordt bezorgd aan de administrateur-generaal en bevat minstens:<br>
+De onafhankelijke commissie stelt een huishoudelijk reglement op dat in afwijking van de stemprocedure, vermeld in artikel 4 van dit besluit, alleen kan worden goedgekeurd bij een tweederdemeerderheid van de aanwezige leden op een vergadering waarbij minstens twee derde van de leden aanwezig is. Het aldus goedgekeurde huishoudelijk reglement wordt bezorgd aan de secretaris-generaal en bevat minstens:<br>
 1° de manier waarop de onafhankelijke commissie wordt samengeroepen, en de minimale frequentie van de bijeenkomsten;<br>
 2° de manier waarop de agenda van de onafhankelijke commissie wordt samengesteld;<br>
 3° het vereiste aanwezigheidsquorum om geldig te kunnen beraadslagen;<br>
 4° de werkwijze die wordt gevolgd voor de adviserende opdracht, vermeld in artikel 5, § 1, eerste lid, van het decreet van 18 mei 2018, en de adviserende opdracht, vermeld in artikel 6, tweede lid, van het voormelde decreet;<br>
-5° de interne werkwijze die wordt gevolgd in geval van een verzoek om advies van het agentschap over een bezwaar tegen de weigering van vergunning door een dienst niet-dringend liggend ziekenvervoer;<br>
+5° de interne werkwijze die wordt gevolgd in geval van een verzoek om advies van de administratie over een bezwaar tegen de weigering van vergunning door een dienst niet-dringend liggend ziekenvervoer;<br>
 6° de interne werkwijze die wordt gevolgd om de concrete eisen te bepalen waaraan een controle door een onafhankelijke controleorganisatie moet voldoen;<br>
 7° de interne werkwijze die wordt gevolgd om klachten in tweede lijn te behandelen;<br>
-8° de interne werkwijze die wordt gevolgd in geval van een verzoek om advies van het agentschap over de machtiging van een onafhankelijke controleorganisatie, of over de intrekking van een dergelijke machtiging.<br>
+8° de interne werkwijze die wordt gevolgd in geval van een verzoek om advies van de administratie over de machtiging van een onafhankelijke controleorganisatie, of over de intrekking van een dergelijke machtiging.<br>
 <br>
 In het eerste lid wordt verstaan onder onafhankelijke controleorganisatie: een organisatie zoals vermeld in artikel 8 van het decreet van 18 mei 2018.
 
@@ -95,13 +96,13 @@ De gemengde werkgroep opleiding bestaat uit:<br>
 1° twee vertegenwoordigers van de ziekenfondsen;<br>
 2° twee vertegenwoordigers van de diensten;<br>
 3° een vertegenwoordiger van Zorgnet Icuro vzw;<br>
-4° een vertegenwoordiger van het agentschap.<br>
+4° een vertegenwoordiger van de administratie.<br>
 <br>
 Voor elk van de effectieve leden, vermeld in het tweede lid, wordt een plaatsvervangend lid gekozen.<br>
 <br>
 De gemengde werkgroep opleiding kan experts uitnodigen om deel te nemen aan de vergaderingen.<br>
 <br>
-De functie van secretaris van de gemengde werkgroep opleiding wordt waargenomen door een personeelslid van het agentschap.
+De functie van secretaris van de gemengde werkgroep opleiding wordt waargenomen door een personeelslid van de administratie.
 
 ### ART 8.
 
@@ -123,7 +124,7 @@ Bij staking van stemmen is de stem van de voorzitter beslissend.<br>
 
 De gemengde werkgroep opleiding stelt een huishoudelijk reglement op dat alleen kan worden goedgekeurd bij een tweederdemeerderheid van de aanwezige leden op een vergadering waarbij minstens twee derde van de leden aanwezig is.<br>
 <br>
-Het huishoudelijk reglement wordt bezorgd aan de administrateur-generaal en bevat minstens:<br>
+Het huishoudelijk reglement wordt bezorgd aan de secretaris-generaal en bevat minstens:<br>
 1° de manier waarop de gemengde werkgroep opleiding wordt samengeroepen, en de minimale frequentie van de bijeenkomsten;<br>
 2° de manier waarop de agenda van de gemengde werkgroep opleiding wordt samengesteld;<br>
 3° het vereiste aanwezigheidsquorum om geldig te kunnen beraadslagen;<br>
