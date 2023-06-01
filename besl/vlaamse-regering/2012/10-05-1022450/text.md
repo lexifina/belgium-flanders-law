@@ -8,7 +8,15 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 18 mei 1999 betreffende
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° agentschap : het Vlaams Agentschap Zorg en Gezondheid;<br />2° CGG : centrum voor geestelijke gezondheidszorg, vermeld in artikel 2, 1°, van het decreet van 18 mei 1999;<br />3° decreet van 18 mei 1999 : het decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg;<br />4° indexformule : (persoonlijke financiële bijdrage voor consultatie in referentiemaand) x (indexcijfer maand voorafgaand aan berekening/indexcijfer referentiemaand) = geïndexeerde persoonlijke financiële bijdrage voor consultatie, waarbij de referentiemaand gelijk is aan de maand waarin dit besluit in werking is getreden, en waarbij het indexcijfer gelijk is aan het cijfer van de gezondheidsindex;<br />5° minister : de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br />6° patiënt : de patiënt, vermeld in artikel 2, 3°, van het decreet van 18 mei 1999;<br />7° persoonlijke financiële bijdrage : de bijdrage die van de patiënt verwacht wordt om de zorg te bekostigen die aan de patiënt wordt verstrekt;<br />8° urgentiezorg : zorg aan personen in een acuut beleefde noodsituatie die niet vooraf kan worden ingeschat en waarin onmiddellijk hulp moet worden geboden en waarbij zorg vanuit het Centrum voor Geestelijke Gezondheidszorg, in functie van de veiligheid van de patiënt en zijn onmiddellijke omgeving, gewenst is.
+In dit besluit wordt verstaan onder :<br>
+1° ...;<br>
+2° CGG : centrum voor geestelijke gezondheidszorg, vermeld in artikel 2, 1°, van het decreet van 18 mei 1999;<br>
+3° decreet van 18 mei 1999 : het decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg;<br>
+4° indexformule : (persoonlijke financiële bijdrage voor consultatie in referentiemaand) x (indexcijfer maand voorafgaand aan berekening/indexcijfer referentiemaand) = geïndexeerde persoonlijke financiële bijdrage voor consultatie, waarbij de referentiemaand gelijk is aan de maand waarin dit besluit in werking is getreden, en waarbij het indexcijfer gelijk is aan het cijfer van de gezondheidsindex;<br>
+5° minister : de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
+6° patiënt : de patiënt, vermeld in artikel 2, 3°, van het decreet van 18 mei 1999;<br>
+7° persoonlijke financiële bijdrage : de bijdrage die van de patiënt verwacht wordt om de zorg te bekostigen die aan de patiënt wordt verstrekt;<br>
+8° urgentiezorg : zorg aan personen in een acuut beleefde noodsituatie die niet vooraf kan worden ingeschat en waarin onmiddellijk hulp moet worden geboden en waarbij zorg vanuit het Centrum voor Geestelijke Gezondheidszorg, in functie van de veiligheid van de patiënt en zijn onmiddellijke omgeving, gewenst is.
 
 ### ART. 2.
 
@@ -59,7 +67,7 @@ Bij consultaties zoals bedoeld in artikel 4, die gebeuren in het kader van een o
 
 ### ART. 8.
 
-De CGG registreren, zoals bepaald in artikel 2, 6° van het decreet van 18 mei 1999, conform de instructies van het agentschap de elementen die noodzakelijk zijn voor de opvolging van de uitvoering van dit besluit.
+De CGG registreren, zoals bepaald in artikel 2, 6° van het decreet van 18 mei 1999, de elementen die noodzakelijk zijn voor de opvolging van de uitvoering van dit besluit conform de instructies van Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.
 
 ### ART. 9.
 
