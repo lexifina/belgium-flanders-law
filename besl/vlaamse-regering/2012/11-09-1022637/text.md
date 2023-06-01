@@ -31,7 +31,7 @@
 &nbsp;In dit besluit wordt verstaan onder :<br>
 1° de minister : het lid van de Vlaamse Regering, bevoegd voor de bijstand aan personen;<br>
 2° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie;<br>
-3° Zorginspectie: Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein;<br>
+3° Zorginspectie: Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 4° het CKG : het centrum voor kinderzorg en gezinsondersteuning, zoals omschreven in artikel 2;<br>
 5° typemodule : een door de minister duidelijk omschreven en afgelijnde eenheid van jeugdhulpverlening, gebaseerd op één enkele functie. Een functie is daarbij een specifiek omschreven kernproces van hulpverlening;<br>
 6° module : een duidelijk afgelijnde eenheid van jeugdhulpverlening gebaseerd op één enkele typemodule die afzonderlijk, gelijktijdig of consecutief met andere eenheden kan worden aangeboden;<br>
