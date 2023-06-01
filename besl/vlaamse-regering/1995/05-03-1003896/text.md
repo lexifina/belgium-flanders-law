@@ -4,7 +4,11 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° centrum:   het Centrum voor menselijke erfelijkheid overeenkomstig het koninklijk besluit   van 14 december 1987 houdende vaststelling van de normen waaraan de centra voor   menselijke erfelijkheid moeten voldoen, zoals gewijzigd,<BR>2° minister: de   Vlaamse minister bevoegd voor de gezondheidsinstellingen;<BR>3° administratie:   het intern verzelfstandigd agentschap Zorg en   Gezondheid&nbsp;of&nbsp;Zorginspectie van het Departement Welzijn,   Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit   van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn,   Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot   oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en   Gezin en betreffende de wijziging van regelgeving met betrekking tot dat   beleidsdomein;<BR>4° het besluit van 14 december 1987: het koninklijk besluit   van 14 december 1987 houdende vaststelling van de normen waaraan de centra voor   menselijke erfelijkheid moeten voldoen.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° centrum: het Centrum voor menselijke erfelijkheid overeenkomstig het koninklijk besluit van 14 december 1987 houdende vaststelling van de normen waaraan de centra voor menselijke erfelijkheid moeten voldoen, zoals gewijzigd,<br>
+2° minister: de Vlaamse minister bevoegd voor de gezondheidsinstellingen;<br>
+3° administratie: de functioneel bevoegde afdeling van het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg, of Zorginspectie als vermeld in artikel 4, §2, derde lid, van het voormelde besluit;<br>
+4° het besluit van 14 december 1987: het koninklijk besluit van 14 december 1987 houdende vaststelling van de normen waaraan de centra voor menselijke erfelijkheid moeten voldoen.
 
 ## HOOFDSTUK II OPDRACHTEN VAN HET CENTRUM
 
