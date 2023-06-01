@@ -57,7 +57,7 @@ In dit besluit wordt verstaan onder:<br>
 
 Een gemeente komt in aanmerking voor een subsidie voor de begeleiding van tijdelijk ontheemden uit Oekraïne.<br>
 <br>
-Voor de berekening van de subsidie wordt uitgegaan van de optelsom van het aantal meerderjarige tijdelijk ontheemden uit Oekraïne en het aantal minderjarige Oekraïners, op basis van de informatie uit het rijksregister.<br>
+Voor de berekening&nbsp;van de eerste vier schijven, vermeld in het derde tot en met het zesde lid, van de subsidie wordt uitgegaan van de optelsom van het aantal meerderjarige tijdelijk ontheemden uit Oekraïne en het aantal minderjarige Oekraïners, op basis van de informatie uit het rijksregister.<br>
 <br>
 Voor de eerste schijf van deze subsidie wordt het resultaat van de optelsom, vermeld in het tweede lid, op basis van de informatie waarover het agentschap beschikt op 30 juni 2022, vermenigvuldigd met 400 en met 0,45.<br>
 <br>
@@ -65,7 +65,17 @@ Voor de tweede schijf van deze subsidie wordt het resultaat van de optelsom, ver
 <br>
 Voor de derde schijf van deze subsidie wordt het resultaat van de optelsom, vermeld in het tweede lid, op basis van de informatie waarover het agentschap beschikt op 31 december 2022, vermenigvuldigd met 400 en met 0,3.<br>
 <br>
-Voor de vierde schijf van deze subsidie wordt het resultaat van de optelsom, vermeld in het tweede lid, op basis van de informatie waarover het agentschap beschikt op 28 februari 2023, vermenigvuldigd met 400 en met 0,3.
+Voor de vierde schijf van deze subsidie wordt het resultaat van de optelsom, vermeld in het tweede lid, op basis van de informatie waarover het agentschap beschikt op 28 februari 2023, vermenigvuldigd met 400 en met 0,3.<br>
+<br>
+Vanaf de vijfde schijf wordt uitgegaan van het aantal tijdelijk ontheemden uit Oekraïne op basis van de informatie uit het Rijksregister.<br>
+<br>
+Voor de vijfde schijf van deze subsidie wordt het aantal ontheemden, vermeld in het zevende lid, op basis van de informatie waarover het agentschap op 30 juni 2023 beschikt, vermenigvuldigd met 400 en met 0,30.&nbsp;<br>
+<br>
+Voor de zesde schijf van deze subsidie wordt het aantal ontheemden, vermeld in het zevende lid, op basis van de informatie waarover het agentschap op 30 september 2023 beschikt, vermenigvuldigd met 400 en met 0,30.<br>
+<br>
+Voor de zevende schijf van deze subsidie wordt het aantal ontheemden, vermeld in het zevende lid, op basis van de informatie waarover het agentschap op 31 december 2023 beschikt, vermenigvuldigd met 400 en met 0,30.<br>
+<br>
+Voor de achtste schijf van deze subsidie wordt het aantal ontheemden, vermeld in het zevende lid, op basis van de informatie waarover het agentschap op 31 maart 2024 beschikt, vermenigvuldigd met 400 en met 0,30.
 
 ## HOOFDSTUK 2. [Private en publieke plekken in de Vlaamse Huisvestingstool en subsidiëring van de publieke plekken (verv. BVR 29 juni 2022, art. 3, I: 14 maart 2022)]
 
@@ -136,13 +146,13 @@ De subsidies, vermeld in artikel 3 en 4, eerste lid, hebben als doel de volgende
 1° de kosten om een duurzame slaapplek als vermeld in dit hoofdstuk, in te richten;<br>
 2° de kosten om een minimale dienstverlening te voorzien voor de tijdelijk ontheemden uit Oekraïne die op het grondgebied van het lokaal bestuur verblijven.<br>
 <br>
-De subsidies, vermeld in artikel 4/1 en artikel 4/2 hebben als doel om de gebruikskost en de exploitatiekost voor het lokaal bestuur financieel te ondersteunen.
+De subsidies, vermeld in artikel 4/1, 4/2 en 4/3, hebben als doel om de gebruikskost en de exploitatiekost voor het lokaal bestuur financieel te ondersteunen.
 
 ## HOOFDSTUK 3. Subsidiëring specifieke slaapplekken
 
 ### ART 6.
 
-§ 1. Een lokaal bestuur komt in aanmerking voor een forfaitaire subsidie van het Vlaamse Gewest voor de eerste 10 000 in de Vlaamse huisvestingstool gevalideerde specifieke slaapplekken als vermeld in het derde lid. De forfaitaire subsidie bedraagt per slaapplek en per dag voor een:<br>
+§ 1. Een lokaal bestuur komt in aanmerking voor een forfaitaire subsidie van het Vlaamse Gewest voor de in de Vlaamse huisvestingstool gevalideerde specifieke slaapplekken als vermeld in het derde lid. De forfaitaire subsidie bedraagt per slaapplek en per dag voor een:<br>
 1° hotel of B&amp;B: 39,2 euro;<br>
 2° hostel of jeugdverblijfcentrum: 22,4 euro;<br>
 3° vakantiewoning, vakantiepark of een ander toeristisch logies: 16,8 euro;<br>
@@ -164,7 +174,7 @@ In het eerste lid wordt verstaan onder:<br>
 De specifieke slaapplek, vermeld in het eerste lid, voldoet aan de volgende voorwaarden:<br>
 1° ze is veilig, gezond en menswaardig;<br>
 2° ze is geregistreerd en gevalideerd in de Vlaamse huisvestingstool;<br>
-3° ...<br>
+3° ze is bevestigd door het agentschap in de Vlaamse huisvestingstool.<br>
 <br>
 De forfaitaire subsidie vermeld in het eerste lid wordt slechts toegekend voor de kalenderdagen die vielen in een periode waarin de specifieke slaapplek gedurende minstens 90 aaneensluitende kalenderdagen ter beschikking werd gesteld in de Vlaamse huisvestingstool.<br>
 <br>
@@ -206,7 +216,7 @@ Alleen de eerste 1.000 slaapplekken in het nooddorp in Antwerpen, de eerste 730 
 
 ### ART 8.
 
-Als het lokaal bestuur de nodige registraties en validaties doet in de Vlaamse huisvestingstool, kan de gemeente de forfaitaire subsidies, vermeld in artikel 3, 4, eerste lid, artikel 4/1, 4/2 en artikel 6 ontvangen.<br>
+Als het lokaal bestuur de nodige registraties en validaties doet in de Vlaamse huisvestingstool, kan de gemeente de forfaitaire subsidies, vermeld in artikel 3, 4, eerste lid, artikel 4/1, 4/2, 4/3 en artikel 6 ontvangen.<br>
 <br>
 De subsidies, vermeld in het eerste lid, en de subsidie vermeld in artikel 1/1 worden toegekend als forfaits. Er wordt voor de voormelde subsidies geen kostenrapportering gevraagd.<br>
 <br>
@@ -227,7 +237,7 @@ De facturen die betrekking hebben op de subsidies uit artikel 7, derde lid, met 
 
 ### ART 10.
 
-Het agentschap berekent de forfaitaire subsidies vermeld in artikel 1/1. Het agentschap berekent de forfaitaire subsidie vermeld in artikel 3, 4, eerste lid, artikel 4/1, 4/2 en artikel 6 op basis van de geregistreerde en gevalideerde gegevens in de Vlaamse huisvestingstool, vermeld in artikel 8.<br>
+Het agentschap berekent de forfaitaire subsidies vermeld in artikel 1/1. Het agentschap berekent de forfaitaire subsidie vermeld in artikel 3, 4, eerste lid, artikel 4/1, 4/2, 4/3 en artikel 6 op basis van de geregistreerde en gevalideerde gegevens in de Vlaamse huisvestingstool, vermeld in artikel 8.<br>
 <br>
 Het agentschap Facilitair Bedrijf controleert de ingediende facturen of bewijsstukken, vermeld in artikel 9, eerste lid, 2° en 3°, en berekent het bedrag van de subsidie voor de reële kosten, vermeld in artikel 4, tweede lid, en artikel 7, derde lid.<br>
 <br>
@@ -239,7 +249,9 @@ Als het lokaal bestuur voldoet aan de voorwaarden om de forfaitaire subsidies en
 <br>
 Uiterlijk op 30 juni 2023 betaalt het agentschap een tweede keer het vastgestelde subsidiebedrag, op basis van de informatie waarover het beschikt op 31 maart 2023.<br>
 <br>
-Uiterlijk op 31 december 2023 betaalt het agentschap een derde keer het vastgestelde subsidiebedrag, op basis van de informatie waarover het beschikt op 30 september 2023.
+Uiterlijk op 31 december 2023 betaalt het agentschap een derde keer het vastgestelde subsidiebedrag, op basis van de informatie waarover het beschikt op 30 september 2023.<br>
+<br>
+Uiterlijk op 30 juni 2024 betaalt het agentschap een vierde keer het vastgestelde subsidiebedrag op basis van de informatie op 31 maart 2024. De bewijsstukken voor de subsidies voor de reëel gemaakte kosten, vermeld in artikel 4, tweede lid, worden uiterlijk op 31 mei 2024 ingediend op de wijze vermeld in artikel 9, eerste lid.
 
 ### ART 12.
 
@@ -301,7 +313,7 @@ Dit besluit treedt in werking op 8 april 2022.<br>
 <br>
 Artikel 2 tot en met 6 hebben uitwerking met ingang van 14 maart 2022.<br>
 <br>
-Dit besluit houdt op uitwerking te hebben op 30 juni 2023.
+Dit besluit houdt op uitwerking te hebben op 31 maart 2024.
 
 ### ART 23.
 
