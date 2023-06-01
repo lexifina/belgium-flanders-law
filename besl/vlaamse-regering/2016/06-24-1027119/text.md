@@ -157,9 +157,9 @@ In de volgende gevallen stelt de vergunde zorgaanbieder een beleidsplan op confo
 
 ### ART 12.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De afdeling Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein, controleert ter plaatse of de vergunningsnormen, vermeld in hoofdstuk 2 van dit besluit, worden nageleefd.</span><br>
+De afdeling Zorginspectie van het Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg, controleert ter plaatse of de vergunningsnormen, vermeld in hoofdstuk 2 van dit besluit, worden nageleefd.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De afdeling Zorginspectie voert het toezicht en evaluatie uit zoals bepaald in hoofdstuk 11 van het besluit van 4 februari 2011.</span><br>
+De afdeling Zorginspectie voert het toezicht en evaluatie uit zoals bepaald in hoofdstuk 11 van het besluit van 4 februari 2011.<br>
 &nbsp;
 
 ### ART 13.
@@ -414,7 +414,7 @@ De situatie van de vergunde zorgaanbieder is financieel leefbaar.
 		<tr>
 			<td>zelf te definiëren</td>
 			<td>Voor een aantal indicatoren haalt de vergunde zorgaanbieder een minimale score.</td>
-			<td>dashboard jaarrekeningen Departement WVG (voor neergelegde jaarrekeningen)</td>
+			<td>dashboard jaarrekeningen Departement Zorg (voor neergelegde jaarrekeningen)</td>
 		</tr>
 	</tbody>
 </table>
