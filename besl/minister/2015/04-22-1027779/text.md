@@ -21,7 +21,7 @@ Om voor subsidiëring in aanmerking te komen, moet een dagverzorgingscentrum voo
 
 ### ART 2.
 
-Het dagverzorgingscentrum voor palliatieve verzorging moet de bezettingsgegevens jaarlijks voor 1 april indienen bij het Agentschap Zorg en Gezondheid met het formulier dat op de website van het agentschap staat.
+Het dagverzorgingscentrum voor palliatieve verzorging moet de bezettingsgegevens jaarlijks voor 1 april indienen bij het Departement Zorg met het formulier dat op de website van het departement staat.
 
 ### ART 3.
 
@@ -31,7 +31,7 @@ Nieuwe dagverzorgingscentra voor palliatieve verzorging komen alleen in aanmerki
 <br>
 § 2. Om de continue werking van de centra te garanderen, wordt het toegekende subsidiebedrag uitbetaald als een voorschot dat hoogstens 90% van het totale subsidiebedrag kan bedragen. Dat voorschot wordt uitbetaald voor 1 juli van het werkingsjaar waarop de subsidie betrekking heeft.<br>
 <br>
-§ 3. Als blijkt dat het dagverzorgingscentrum voor palliatieve verzorging een groter voorschot heeft ontvangen dan het definitieve subsidiebedrag, vordert het Agentschap Zorg en Gezondheid het verschil terug.<br>
+§ 3. Als blijkt dat het dagverzorgingscentrum voor palliatieve verzorging een groter voorschot heeft ontvangen dan het definitieve subsidiebedrag, vordert het Departement Zorg het verschil terug.<br>
 <br>
 § 4. Als op het ogenblik van de uitkering van de voorschotten, vermeld in paragraaf 2, het teruggevorderde bedrag van het voorgaande jaar nog niet is betaald, wordt dat bedrag in mindering gebracht op de uit te betalen voorschotten.<br>
 <br>
@@ -40,7 +40,7 @@ Nieuwe dagverzorgingscentra voor palliatieve verzorging komen alleen in aanmerki
 
 ### ART 4.
 
-Het saldo wordt vereffend in de loop van het jaar dat volgt op het jaar van de uitbetaling van het voorschot, na goedkeuring door het Agentschap Zorg en Gezondheid van de bewijsvoering, vermeld in artikel 2.
+Het saldo wordt vereffend in de loop van het jaar dat volgt op het jaar van de uitbetaling van het voorschot, na goedkeuring door het Departement Zorg van de bewijsvoering, vermeld in artikel 2.
 
 ### ART 5.
 
