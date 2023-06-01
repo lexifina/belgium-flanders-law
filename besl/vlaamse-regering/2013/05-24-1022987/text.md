@@ -6,7 +6,15 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° agentschap: het intern   verzelfstandigd agentschap Agentschap Zorg en Gezondheid, opgericht bij het   besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern   verzelfstandigd agentschap "Zorg en Gezondheid";<BR>1°/1 algemeen ziekenhuis:   een ziekenhuis als vermeld in artikel 2 van de wet betreffende de ziekenhuizen   en andere verzorgingsinrichtingen, gecoördineerd op 10 juli 2008, met   uitzondering van de psychiatrische ziekenhuizen en met uitzondering van de   ziekenhuizen die uitsluitend beschikken over gespecialiseerde diensten voor   behandeling en revalidatie (kenletter Sp), al of niet samen met diensten voor   gewone hospitalisatie (kenletter H) of diensten neuropsychiatrie voor   behandeling van volwassen patiënten (kenletter T) of diensten geriatrie   (kenletter G); <BR>2° deelprogramma's B1-B2: het deelprogramma B1 en het   deelprogramma B2, gezamenlijk erkend en uitgebaat zonder deelprogramma B3,   conform de voorwaarden, vermeld in hoofdstuk III, afdeling 6/1, van het   koninklijk besluit van 15 juli 2004;<BR>3° globaal zorgprogramma B1-B2-B3: het   zorgprogramma, vermeld in artikel 11, eerste lid, van het koninklijk besluit van   15 juli 2004;<BR>4° koninklijk besluit van 15 juli 2004: het koninklijk besluit   van 15 juli 2004 houdende vaststelling van de normen waaraan de zorgprogramma's   « cardiale pathologie » moeten voldoen om erkend te worden;<BR>4° /1   kwaliteitshandboek: het multidisciplinaire cardiologische kwaliteitshandboek,   vermeld in artikel 20 van het koninklijk besluit van 15 juli 2004;<BR>5°   minister: de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<BR>6°   zorgprogramma « cardiale pathologie » B: het zorgprogramma « cardiale pathologie   » B dat beantwoordt aan de erkenningsnormen, vermeld in hoofdstuk III van het   koninklijk besluit van 15 juli 2004, en dat als dusdanig is erkend. Het   zorgprogramma « cardiale pathologie » B bestaat, in het kader van dit besluit,   ofwel uit de deelprogramma's B1-B2, ofwel uit het globale zorgprogramma   B1-B2-B3.<BR>
+In dit besluit wordt verstaan onder:<br>
+1° administratie: het Departement Zorg;<br>
+1°/1 algemeen ziekenhuis: een ziekenhuis als vermeld in artikel 2 van de wet betreffende de ziekenhuizen en andere verzorgingsinrichtingen, gecoördineerd op 10 juli 2008, met uitzondering van de psychiatrische ziekenhuizen en met uitzondering van de ziekenhuizen die uitsluitend beschikken over gespecialiseerde diensten voor behandeling en revalidatie (kenletter Sp), al of niet samen met diensten voor gewone hospitalisatie (kenletter H) of diensten neuropsychiatrie voor behandeling van volwassen patiënten (kenletter T) of diensten geriatrie (kenletter G);<br>
+2° deelprogramma's B1-B2: het deelprogramma B1 en het deelprogramma B2, gezamenlijk erkend en uitgebaat zonder deelprogramma B3, conform de voorwaarden, vermeld in hoofdstuk III, afdeling 6/1, van het koninklijk besluit van 15 juli 2004;<br>
+3° globaal zorgprogramma B1-B2-B3: het zorgprogramma, vermeld in artikel 11, eerste lid, van het koninklijk besluit van 15 juli 2004;<br>
+4° koninklijk besluit van 15 juli 2004: het koninklijk besluit van 15 juli 2004 houdende vaststelling van de normen waaraan de zorgprogramma's « cardiale pathologie » moeten voldoen om erkend te worden;<br>
+4° /1 kwaliteitshandboek: het multidisciplinaire cardiologische kwaliteitshandboek, vermeld in artikel 20 van het koninklijk besluit van 15 juli 2004;<br>
+5° minister: de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
+6° zorgprogramma « cardiale pathologie » B: het zorgprogramma « cardiale pathologie » B dat beantwoordt aan de erkenningsnormen, vermeld in hoofdstuk III van het koninklijk besluit van 15 juli 2004, en dat als dusdanig is erkend. Het zorgprogramma « cardiale pathologie » B bestaat, in het kader van dit besluit, ofwel uit de deelprogramma's B1-B2, ofwel uit het globale zorgprogramma B1-B2-B3.
 
 ### ART. 2.
 
@@ -14,7 +22,7 @@ Om erkend te worden en erkend te blijven, voldoet het zorgprogramma «   cardial
 
 ### ART. 5.
 
-<P>Het algemeen ziekenhuis dat een erkenning voor het zorgprogramma cardiale   pathologie B heeft, of, in voorkomend geval, de coördinerend   geneesheer-dienstoverste, vermeld in artikel 24, § 3, 1°, van het koninklijk   besluit van 15 juli 2004, bezorgt een kopie van het kwaliteitshandboek aan het   agentschap.</P>
+<p>Het algemeen ziekenhuis dat een erkenning voor het zorgprogramma cardiale pathologie B heeft, of, in voorkomend geval, de coördinerend geneesheer-dienstoverste, vermeld in artikel 24, § 3, 1°, van het koninklijk besluit van 15 juli 2004, bezorgt een kopie van het kwaliteitshandboek aan de administratie.</p>
 
 ### ART. 6.
 
