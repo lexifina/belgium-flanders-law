@@ -40,8 +40,9 @@ Besluit :
 
 In dit besluit wordt verstaan onder:<br>
 1° decreet van 15 juli 2016: het decreet van 15 juli 2016 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin;<br>
+1°/1 departement: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 2° instituut: het Vlaams Instituut voor Kwaliteit van Zorg, vermeld in hoofdstuk 2, afdeling 1, van het decreet van 15 juli 2016;<br>
-3° agentschap: het Agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+3° ...;<br>
 4° minister: de Vlaamse minister, bevoegd voor het gezondheidsbeleid, en de Vlaamse minister, bevoegd voor de bijstand aan personen.
 
 ### ART 2.
@@ -54,7 +55,7 @@ Het beleidsplan bevat: de resultaatsgebieden voor de uitvoering van de beheersov
 
 ### ART 3.
 
-De jaarlijkse planning die het instituut opmaakt conform artikel 3, § 1, 5°, van het decreet van 15 juli 2016, wordt uiterlijk op 1 december van het jaar dat voorafgaat aan het jaar waarop de planning betrekking heeft, ter goedkeuring voorgelegd aan het agentschap.<br>
+De jaarlijkse planning die het instituut opmaakt conform artikel 3, § 1, 5°, van het decreet van 15 juli 2016, wordt uiterlijk op 1 december van het jaar dat voorafgaat aan het jaar waarop de planning betrekking heeft, ter goedkeuring voorgelegd aan het departement.<br>
 <br>
 Het jaarplan omvat:<br>
 1° de operationele en financiële doelstellingen<br>
@@ -66,13 +67,13 @@ In afwijking van het eerste lid wordt de eerste jaarlijkse planning bezorgd binn
 
 ### ART 4.
 
-§ 1. Het boekhoudkundig verslag van alle verrichtingen, vermeld in artikel 3, § 1, 6°, van het decreet van 15 juli 2016, wordt jaarlijks en uiterlijk op 31 maart ter goedkeuring voorgelegd aan het agentschap.<br>
+§ 1. Het boekhoudkundig verslag van alle verrichtingen, vermeld in artikel 3, § 1, 6°, van het decreet van 15 juli 2016, wordt jaarlijks en uiterlijk op 31 maart ter goedkeuring voorgelegd aan het departement.<br>
 <br>
 Het boekhoudkundig verslag bevat de jaarrekening die goedgekeurd is door de algemene vergadering van het instituut.<br>
 <br>
-§ 2. Het werkingsverslag, vermeld in artikel 3, § 1, 6°, van het decreet van 15 juli 2016, wordt jaarlijks en uiterlijk op 31 maart ter goedkeuring voorgelegd aan het agentschap. Het werkingsverslag bevat een overzicht van de uitgevoerde activiteiten en de behaalde resultaten per opdracht, per sector en per doelgroep.<br>
+§ 2. Het werkingsverslag, vermeld in artikel 3, § 1, 6°, van het decreet van 15 juli 2016, wordt jaarlijks en uiterlijk op 31 maart ter goedkeuring voorgelegd aan het departement. Het werkingsverslag bevat een overzicht van de uitgevoerde activiteiten en de behaalde resultaten per opdracht, per sector en per doelgroep.<br>
 <br>
-Tegen 1 augustus van elk werkingsjaar legt het instituut aan het agentschap een tussentijds verslag ter goedkeuring voor op basis waarvan het agentschap de realisatie van de opdrachten, opgenomen in de beheersovereenkomst, kan volgen.
+Tegen 1 augustus van elk werkingsjaar legt het instituut aan het departement een tussentijds verslag ter goedkeuring voor op basis waarvan het departement de realisatie van de opdrachten, opgenomen in de beheersovereenkomst, kan volgen.
 
 ### ART 5.
 
@@ -84,7 +85,7 @@ Het instituut wendt de subsidie aan voor de opdrachten, vermeld in artikel 2 van
 
 ### ART 6.
 
-&nbsp;Het subsidiebedrag wordt aan het instituut uitbetaald in drie schijven. Een eerste schijf van 50% wordt uitbetaald na de ondertekening van het ministerieel besluit dat de subsidie vaststelt, vermeld in artikel 5. Een tweede schijf van 30% wordt uitbetaald na de ontvangst en goedkeuring van de tussentijdse verslaggeving, vermeld in artikel 4, § 2, tweede lid. Het saldo van 20% van het subsidiebedrag wordt uitbetaald na de indiening van de financiële verantwoording, waarvan de inhoud wordt bepaald in het subsidiebesluit vermeld in artikel 5, eerste lid, en het werkingsverslag van het desbetreffende werkingsjaar en na de goedkeuring door het agentschap.<br>
+Het subsidiebedrag wordt aan het instituut uitbetaald in drie schijven. Een eerste schijf van 50% wordt uitbetaald na de ondertekening van het ministerieel besluit dat de subsidie vaststelt, vermeld in artikel 5. Een tweede schijf van 30% wordt uitbetaald na de ontvangst en goedkeuring van de tussentijdse verslaggeving, vermeld in artikel 4, § 2, tweede lid. Het saldo van 20% van het subsidiebedrag wordt uitbetaald na de indiening van de financiële verantwoording, waarvan de inhoud wordt bepaald in het subsidiebesluit vermeld in artikel 5, eerste lid, en het werkingsverslag van het desbetreffende werkingsjaar en na de goedkeuring door het departement.<br>
 <br>
 Het gedeelte van de subsidie, vermeld in artikel 5, dat de gesubsidieerde kosten overschrijdt, wordt teruggevorderd.
 
