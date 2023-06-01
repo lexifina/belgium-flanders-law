@@ -99,7 +99,7 @@ Voor het tweetalige gebied Brussel-Hoofdstad wordt 15% van de dagpopulatie bekla
 <br>
 De dagpopulatie en gemiddelde capaciteit, vermeld in het eerste en tweede lid, worden bepaald op basis van de cijfers, omschreven in bijlage 2, die bij dit besluit is gevoegd.<br>
 <br>
-§ 4. De secretaris-generaal van het Departement Welzijn, Volksgezondheid en Gezin maakt in het eerste kwartaal van het tweede en het laatste jaar van de legislatuur een lijst bekend met het gewogen aantal inwoners van twaalf jaar of ouder per gemeente, berekend conform paragraaf 2, en de dagpopulatie beklaagden en veroordeelden per gevangenis, berekend conform paragraaf 3, waarbij wordt gebruikgemaakt van de meest recente cijferreeksen waarover het voormelde departement beschikt.<br>
+§ 4. De secretaris-generaal van het Departement Zorg maakt in het eerste kwartaal van het tweede en het laatste jaar van de legislatuur een lijst bekend met het gewogen aantal inwoners van twaalf jaar of ouder per gemeente, berekend conform paragraaf 2, en de dagpopulatie beklaagden en veroordeelden per gevangenis, berekend conform paragraaf 3, waarbij wordt gebruikgemaakt van de meest recente cijferreeksen waarover het voormelde departement beschikt.<br>
 &nbsp;
 
 ### ART 5.
@@ -153,7 +153,7 @@ De thematische indicator welzijnsvraag wordt uitgedrukt als een percentage dat v
 De afbakening van de doelgroep, de gehanteerde indicatoren en het gewicht op basis van de totaalscore worden per cluster bepaald conform bijlage 4, die bij dit besluit is<br>
 gevoegd.<br>
 <br>
-§ 3. De secretaris-generaal van het Departement Welzijn, Volksgezondheid en Gezin maakt in het eerste kwartaal van het tweede en het laatste jaar van de legislatuur een lijst bekend met per cluster het gewogen aantal inwoners uit de doelgroep per gemeente, waarbij wordt gebruikgemaakt van de meest recente cijferreeksen waarover het voormelde departement beschikt.<br>
+§ 3. De secretaris-generaal van het Departement Zorg maakt in het eerste kwartaal van het tweede en het laatste jaar van de legislatuur een lijst bekend met per cluster het gewogen aantal inwoners uit de doelgroep per gemeente, waarbij wordt gebruikgemaakt van de meest recente cijferreeksen waarover het voormelde departement beschikt.<br>
 &nbsp;
 
 ### ART 11.
