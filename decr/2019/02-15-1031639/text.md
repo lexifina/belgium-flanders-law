@@ -170,7 +170,7 @@ De code voor goed bestuur, vermeld in het eerste lid, 5°, is afgestemd op de aa
 2° een solide en passende regeling voor de bedrijfsorganisatie maken en die weergeven in de code voor goed bestuur, onderdeel van het administratief basisdossier weerbaarheid vermeld in paragraaf 1, eerste lid, 1° ;<br>
 3° de nodige maatregelen treffen voor risicobeheer op het vlak van compliance, risicobeheer en interne controle.<br>
 <br>
-§ 3. Er wordt een permanent overlegorgaan weerbaarheid en transparantie opgericht dat zorgt voor een overleg over de in dit artikel beschreven verplichtingen inzake bestuurlijke en financiële weerbaarheid en transparantie en de concrete toepassing ervan. Het Agentschap bevoegd voor de erkenningen en financiering van de woonzorgvoorzieningen en verenigingen in dit decreet, de Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, en de representatieve vertegenwoordigers van de woonzorgvoorzieningen en verenigingen maken deel uit van dit permanent overlegorgaan. De Vlaamse Regering regelt de samenstelling en de werking van dit permanent overlegorgaan.
+§ 3. Er wordt een permanent overlegorgaan weerbaarheid en transparantie opgericht dat zorgt voor een overleg over de in dit artikel beschreven verplichtingen inzake bestuurlijke en financiële weerbaarheid en transparantie en de concrete toepassing ervan. Het Agentschap bevoegd voor de erkenningen en financiering van de woonzorgvoorzieningen en verenigingen in dit decreet, de afdeling Zorginspectie van het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, en de representatieve vertegenwoordigers van de woonzorgvoorzieningen en verenigingen maken deel uit van dit permanent overlegorgaan. De Vlaamse Regering regelt de samenstelling en de werking van dit permanent overlegorgaan.
 
 ### ART 8.
 
@@ -763,9 +763,7 @@ De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autorite
 3° de instanties waaraan de persoonsgegevens zullen worden verstrekt;<br>
 4° de vorm waarin en de wijze waarop gegevens worden uitgewisseld.<br>
 <br>
-§ 5. Met het oog op de uitvoering van de bevoegdheden en taken, geregeld bij of krachtens dit decreet, worden persoonsgegevens van de gebruiker, inclusief gegevens als vermeld in artikel 4, 15), van de algemene verordening gegevensbescherming, en de persoonsgegevens van de personeelsleden, vrijwilligers, verenigingswerkers en bestuurders verwerkt door:<br>
-1° het Agentschap Zorg en Gezondheid;<br>
-2° het Departement Welzijn, Volksgezondheid en Gezin.<br>
+§ 5. Met het oog op de uitvoering van de bevoegdheden en taken, geregeld bij of krachtens dit decreet, worden persoonsgegevens van de gebruiker, inclusief gegevens als vermeld in artikel 4, 15), van de algemene verordening gegevensbescherming, en de persoonsgegevens van de personeelsleden, vrijwilligers, verenigingswerkers en bestuurders verwerkt door het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
 <br>
 De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autoriteit, vermeld in artikel 4, 21), van de algemene verordening gegevensbescherming:<br>
 1° welke gegevens worden verzameld, inclusief de gezondheidsgegevens, vermeld in artikel 4, 15), van voormelde verordening;<br>
@@ -775,8 +773,8 @@ De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autorite
 5° de vorm waarin en de wijze waarop gegevens worden uitgewisseld.<br>
 <br>
 § 6. De verwerkingsverantwoordelijken in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming zijn:<br>
-1° het Agentschap Zorg en Gezondheid voor de verwerking van persoonsgegevens in het kader van de passende financiering van de woonzorgvoorzieningen, de monitoring en handhaving met betrekking tot de geboden woonzorg en de bekwaamheid en integriteit van de personeelsleden, vrijwilligers, verenigingswerkers en bestuurders;<br>
-2° het Departement Welzijn, Volksgezondheid en Gezin voor het uitoefenen van toezicht op de erkenningsvoorwaarden en de kwaliteit van de geboden woonzorg;<br>
+1° het Departement Zorg, voor de verwerking van persoonsgegevens in het kader van de passende financiering van de woonzorgvoorzieningen, de monitoring en handhaving met betrekking tot de geboden woonzorg en de bekwaamheid en integriteit van de personeelsleden, vrijwilligers, verenigingswerkers en bestuurders en voor het uitoefenen van toezicht op de erkenningsvoorwaarden en de kwaliteit van de geboden woonzorg;<br>
+2° ...;<br>
 3° de woonzorgvoorzieningen en verenigingen voor wat betreft de verwerking van persoonsgegevens in het kader van hun opdrachten en hun zorgrelatie met de gebruiker;<br>
 4° de partnerorganisaties, vermeld in artikel 60, en de projecten, vermeld in artikel 61, in het kader van hun opdrachten en hun zorgrelatie met de gebruiker.<br>
 <br>
