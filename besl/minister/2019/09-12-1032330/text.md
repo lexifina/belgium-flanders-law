@@ -17,7 +17,7 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° afdeling Preventie: de afdeling Preventie van het Agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid", die het toezicht uitoefent op de naleving van het Legionellabesluit .<br>
+1° .. .<br>
 2° beheersmaatregelen: maatregelen die bestaan uit controlemaatregelen, voorkomingsmaatregelen en correctieve maatregelen;<br>
 3° BifiproR: apparaat op basis van koper-zilver-ionisatie dat ontwikkeld werd door de firma Holland Water, voorheen Holland Water Technology: HWT;<br>
 4° controlemaatregelen: maatregelen die het mogelijk maken na te gaan of de werkingsvoorwaarden van de installatie die aerosol produceert van die aard zijn dat er geen omstandigheden optreden die de ontwikkeling van legionellabacteriën bevorderen;<br>
@@ -47,7 +47,7 @@ als uit de analyseresultaten blijkt dat er meer dan 1000 kolonievormende eenhede
 
 ### ART 3.
 
-Als de veiligheid of de kwaliteit van het BifiproR-toestel niet meer gegarandeerd kan worden of als de afdeling Preventie problemen met het BifiproR-toestel vaststelt, kan de goedkeuring worden opgeheven.
+Als de veiligheid of de kwaliteit van het BifiproR-toestel niet meer gegarandeerd kan worden of als de afdeling, bevoegd voor het toezicht op de naleving van het Legionellabesluit van het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg, problemen met het BifiproR-toestel vaststelt, kan de goedkeuring worden opgeheven.
 
 ### ART 4.
 
