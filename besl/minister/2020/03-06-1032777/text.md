@@ -17,7 +17,7 @@ DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID, GEZIN EN ARMOEDEBESTRIJDING BE
 
 ### ART Enig artikel
 
-Overeenkomstig artikel 534/5 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming worden de bezettingsgegevens van de capaciteit met een bijzondere erkenning door de initiatiefnemer van het woonzorgcentrum met een bijzondere erkenning voor de zorg en ondersteuning van personen met jongdementie vóór 1 april van het jaar dat volgt op het jaar dat in aanmerking genomen wordt voor de subsidiëring aan het agentschap Zorg en Gezondheid bezorgd. Die bezorging gebeurt via het e-loket.<br>
+Overeenkomstig artikel 534/5 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming worden de bezettingsgegevens van de capaciteit met een bijzondere erkenning door de initiatiefnemer van het woonzorgcentrum met een bijzondere erkenning voor de zorg en ondersteuning van personen met jongdementie vóór 1 april van het jaar dat volgt op het jaar dat in aanmerking genomen wordt voor de subsidiëring aan het Departement Zorg bezorgd. Die bezorging gebeurt via het e-loket.<br>
 <br>
 In het eerste lid worden onder bezettingsgegevens de volgende gegevens per bewoner verstaan:<br>
 1° een identificator die toelaat om, als dat vereist is, de gegevens die via het e-loket zijn ingediend te verifiëren met het dossier in het woonzorgcentrum;<br>
