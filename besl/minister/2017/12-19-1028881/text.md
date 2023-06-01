@@ -16,7 +16,7 @@ Besluit :<br>
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° afdeling Preventie: de afdeling Preventie van het Agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid", die het toezicht uitoefent op de naleving van het Legionellabesluit .<br>
+1° ...<br>
 2° Huwa-San ControllerR: apparaat dat water bestemd voor menselijke consumptie desinfecteert door injectie in de koudwaterleiding van Huwa-San TR-50 (met zilver gestabiliseerde waterstofperoxide), en dat ontwikkeld werd door de firma's Reus NV, ROAM Technology en SEM Waterbehandeling BV; waarvoor het "Goedkeuringsprotocol alternatieve beheersmaatregelen (bijlage 1 van het Legionellabesluit)" werd doorlopen en geadviseerd werd door de Hoge Gezondheidsraad in advies nr 9457.<br>
 3° beheersmaatregelen: maatregelen die bestaan uit controlemaatregelen, voorkomingsmaatregelen en correctieve maatregelen;<br>
 4° controlemaatregelen: maatregelen die het mogelijk maken na te gaan of de werkingsvoorwaarden van de installatie die aerosol produceert van die aard zijn dat er geen omstandigheden optreden die de ontwikkeling van legionellabacteriën bevorderen;<br>

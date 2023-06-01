@@ -2,16 +2,16 @@
   "codex_id": 1028881,
   "title": "Ministerieel besluit van 2017-12-19 tot goedkeuring van de Huwa-San ControllerR als alternatieve beheersmaatregel in het kader van het Legionellabesluit",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028881/VolledigDocument?datum=2018-01-16",
-  "source_sha256": "15a9977bbdc5042886ad9f32e7ad848ba9ba51073d178853dc5d589a9496c2f8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028881/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "07183bda70d953c30bc2a9f960a168ed84ca02407396d21146c90ecad11fff3a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028881&param=informatie",
-  "as_of": "2018-01-16",
+  "as_of": "2023-06-01",
   "made": "2017-12-19",
   "gazette": "2018-01-15",
   "numac": 2018010085,
   "document_start": "2018-01-16",
   "document_end": null,
-  "in_force": "2018-01-16",
+  "in_force": "2023-06-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2018-01-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
