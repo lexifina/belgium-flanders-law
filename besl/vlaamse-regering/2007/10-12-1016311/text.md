@@ -111,10 +111,10 @@ Voor de toepassing van deze bijlage wordt verstaan onder:<br>
 9° IVA: afkorting van intern verzelfstandigd agentschap.<br>
 <br>
 1° op de gezondheid en de veiligheid van de mens:<br>
-- als het voorgenomen plan of programma als doelstelling heeft de realisatie van een industriegebied, een bedrijventerrein of een ermee vergelijkbaar gebied zal de afdeling Toezicht Volksgezondheid van het Agentschap Zorg en Gezondheid (WVG) of de provinciale afdelingen ervan geraadpleegd worden;<br>
-- als het voorgenomen plan of programma als doelstelling heeft de realisatie van een zone van openbaar nut, een recreatiegebied, een gebied voor verblijfsrecreatie of een ermee vergelijkbaar gebied zal de afdeling Toezicht Volksgezondheid van het Agentschap Zorg en Gezondheid (WVG) of de provinciale afdelingen ervan geraadpleegd worden;<br>
+- als het voorgenomen plan of programma als doelstelling heeft de realisatie van een industriegebied, een bedrijventerrein of een ermee vergelijkbaar gebied zal het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg of de provinciale afdelingen ervan geraadpleegd worden;<br>
+- als het voorgenomen plan of programma als doelstelling heeft de realisatie van een zone van openbaar nut, een recreatiegebied, een gebied voor verblijfsrecreatie of een ermee vergelijkbaar gebied zal het Departement Zorg of de provinciale afdelingen ervan geraadpleegd worden;<br>
 - als het voorgenomen plan of programma geurhinder kan veroorzaken zal het Departement Omgeving geraadpleegd worden;<br>
-- als het voorgenomen plan of programma als doelstelling heeft de realisatie of wijziging van verkeersinfrastructuren zal de afdeling Toezicht Volksgezondheid van het Agentschap Zorg en Gezondheid (WVG) of de provinciale afdelingen ervan geraadpleegd worden;<br>
+- als het voorgenomen plan of programma als doelstelling heeft de realisatie of wijziging van verkeersinfrastructuren zal het Departement Zorg of de provinciale afdelingen ervan geraadpleegd worden;<br>
 - als het voorgenomen plan of programma als doelstelling heeft de realisatie van een industriegebied, een bedrijventerrein of een ermee vergelijkbaar gebied waar Seveso-bedrijven zich kunnen vestigen zal het departement Omgeving geraadpleegd worden;<br>
 - als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele het volgende omvatten:<br>
 a) gebied met woonfunctie:<br>
