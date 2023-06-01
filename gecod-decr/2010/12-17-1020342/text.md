@@ -2255,6 +2255,24 @@ Leerlingen hebben recht op moederschapsverlof, naar rata van maximaal één week
 <br>
 Onder de voorwaarden als bedoeld in artikel 117, hebben desbetreffende leerlingen recht op tijdelijk onderwijs aan huis. Onder de voorwaarden als bedoeld in artikel 117/1, hebben desbetreffende leerlingen recht op SIO.
 
+### ART 122/1/1.
+
+§1. Voor elke leerling met een OV4-verslag moet, zowel in het gewoon als het buitengewoon onderwijs, het gemeenschappelijke curriculum van het gewoon voltijds secundair onderwijs gevolgd worden. Daarbij wordt rekening gehouden met de onderwijsbehoeften en ondersteuningsbehoeften van de leerling.<br>
+<br>
+§2. De klassenraad geeft het gemeenschappelijke curriculum en de aanpassingen die nodig zijn om tegemoet te komen aan de onderwijsbehoeften en ondersteuningsbehoeften van de leerling, vorm. De klassenraad selecteert ook bijkomende doelen, naargelang de onderwijsbehoeften en ondersteuningsbehoeften van de leerling. De vormgeving van het gemeenschappelijke curriculum, met inbegrip van de aanpassingen en de bijkomende doelen, gebeurt op basis van een cyclisch proes van handelingsplanmatig werken. De klassenraad stemt daarvoor af met de leerling tenzij dat niet mogelijk is, de ouders, waar nodig de CLB-medewerker en in voorkomend geval de leerondersteuner en andere externe ondersteuners. In samenspraak wordt bepaald hoe de doelen worden gerealiseerd en hoe de sociale, psychologische, orthopedagogische, medische of paramedische hulpverlening in het onderwijsaanbod wordt geïntegreerd. Daarbij wordt gebruikgemaakt van het netwerk en de ondersteunende partners die betrokken zijn naargelang de onderwijscontext waarin de leerling schoolloopt.<br>
+<br>
+De realisatie van de doelen is gericht op de maximale ontplooiing van en leerwinst bij de leerling en met het oog op een zo volwaardig mogelijke participatie aan het klas- en schoolgebeuren en maatschappelijke participatie zoals andere leeftijdsgenoten. Voor leerlingen in het buitengewoon onderwijs wordt actief gewerkt aan de mogelijkheid tot terugkeer naar het gewoon onderwijs.<br>
+<br>
+§3. Alle betrokkenen werken samen om een optimaal leer- en ontwikkelingstraject voor de leerling te garanderen. De school is verantwoordelijk voor de opvolging, evaluatie en bijsturing van het traject en de afstemming tussen alle betrokken partners.<br>
+<br>
+§4. Een leerling met een OV4-verslag met een individueel handelingsplan dat dateert van voor 1 september 2023, kan dat individueel handelingsplan verder volgen. Als er wijzigingen doorgevoerd moeten worden aan een dergelijk handelingsplan, geeft de klassenraad het gemeenschappelijke curriculum voor de leerling vorm conform de bepalingen van paragraaf 1 tot en met 3.<br>
+&nbsp;<br>
+Als een leerling met een OV4-verslag die nog beschikt over een individueel handelingsplan dat is opgemaakt voor 1 september 2023, van school verandert, geeft de klassenraad van de school waar de leerling nu wordt ingeschreven, het gemeenschappelijke curriculum vorm conform de bepalingen van paragraaf 1 tot en met 3.<br>
+<br>
+Een leerling met een OV4-verslag in het gewoon onderwijs waarvoor voor 1 september 2023 een individueel aangepast curriculum is opgemaakt, kan dat individueel aangepaste curriculum verder volgen. Als er wijzigingen zijn aan het traject van de leerling, moet overgestapt worden naar het gemeenschappelijke curriculum. De klassenraad geeft dat vorm conform de bepalingen van paragraaf 1 tot en met 3. Als de school en het CLB van oordeel zijn dat de leerling een individueel aangepast curriculum moet volgen, maakt het CLB een IAC-verslag op.<br>
+<br>
+Als een leerling met een OV4-verslag die nog beschikt over een individueel aangepast curriculum dat werd opgemaakt voor 1 september 2023, van school verandert, moet overgestapt worden naar het gemeenschappelijke curriculum. De klassenraad van de school waar de leerling nu wordt ingeschreven, moet het gemeenschappelijke curriculum vormgeven conform de bepalingen van paragraaf 1 tot en met 3. Als de school en het CLB van oordeel zijn dat de leerling een individueel aangepast curriculum moet volgen, maakt het CLB een IAC-verslag op.
+
 ## [HOOFDSTUK 4/1. Interactief afstandsonderwijs (ing. decr. 24 maart 2023, art. 5, I: 17 april 2023)]
 
 ### ART 122/2.
