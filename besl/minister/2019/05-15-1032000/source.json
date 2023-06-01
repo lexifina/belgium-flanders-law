@@ -2,16 +2,16 @@
   "codex_id": 1032000,
   "title": "Ministerieel besluit van 2019-05-15 betreffende de uitvoering van de Vlaamse sociale bescherming, wat betreft de tegemoetkoming voor zorg in een woonzorgcentrum, centrum voor kortverblijf of dagverzorgingscentrum",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032000/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "40ba7e6a00c51a1db2c512e7c1791cbcd40a0dd38ca15808385cbc6b020e5a28",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032000/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "e3b8a9f76000534897be91a380707706b95b3004626f1453d1442a776bd12253",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032000&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2023-06-01",
   "made": "2019-05-15",
   "gazette": "2019-08-05",
   "numac": 2019041458,
   "document_start": "2019-01-01",
   "document_end": null,
-  "in_force": "2023-01-01",
+  "in_force": "2023-06-01",
   "article_versions": 56,
-  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }

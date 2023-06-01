@@ -26,10 +26,10 @@ Besluit :
 
 In dit besluit wordt verstaan onder:<br>
 1° agentschap: het agentschap, vermeld in artikel 2, eerste lid, 2°, van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
-2° agentschap Zorg en Gezondheid: het agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+2° ...;<br>
 3° beheer: de persoon of personen die een opleidingsinstantie vertegenwoordigen en juridisch kunnen binden;<br>
 4° besluit van 30 november 2018: besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
-5° opleidingsinstantie: een organisatie die een opleidingscyclus of jaarlijkse permanente vorming die door het agentschap Zorg en Gezondheid erkend is, aanbiedt of wil aanbieden.
+5° opleidingsinstantie: een organisatie die een opleidingscyclus of jaarlijkse permanente vorming die door het Departement Zorg erkend is, aanbiedt of wil aanbieden.
 
 ## TITEL 2. Evaluatieschaal afhankelijkheid
 
@@ -171,9 +171,9 @@ De producten die niet vermeld zijn in het eerste lid, mogen afzonderlijk aan de 
 
 ### ART 7.
 
-Als de bezorging van de beslissing tot verlening van de erkenning, vermeld in artikel 462, eerste lid, en artikel 466, eerste lid van het besluit van 30 november 2018, volgt op de ingangsdatum van de erkenning van het woonzorgcentrum, centrum voor kortverblijf of dagverzorgingscentrum, kan de zorgvoorziening in kwestie een aanvraag indienen bij de administrateur-generaal van het agentschap om de tegemoetkoming, vermeld in artikel 458 en 459 van het besluit van 30 november 2018, al toe te kennen vanaf de ingangsdatum van de erkenning. Die aanvraag is omstandig gemotiveerd en vergezeld van de rechtsgeldige beslissing tot aanvraag.<br>
+Als de bezorging van de beslissing tot verlening van de erkenning, vermeld in artikel 462, eerste lid, en artikel 466, eerste lid van het besluit van 30 november 2018, volgt op de ingangsdatum van de erkenning van het woonzorgcentrum, centrum voor kortverblijf of dagverzorgingscentrum, kan de zorgvoorziening in kwestie een aanvraag indienen bij de leidend ambtenaar van het agentschap om de tegemoetkoming, vermeld in artikel 458 en 459 van het besluit van 30 november 2018, al toe te kennen vanaf de ingangsdatum van de erkenning. Die aanvraag is omstandig gemotiveerd en vergezeld van de rechtsgeldige beslissing tot aanvraag.<br>
 <br>
-In het geval, vermeld in het eerste lid, beslist de administrateur-generaal van het agentschap of de tegemoetkoming voor zorg in een woonzorgcentrum, centrum voor kortverblijf of dagverzorgingscentrum, vermeld in artikel 458 en 459 van het besluit van 30 november 2018, vanaf de ingangsdatum van de erkenning van het woonzorgcentrum, centrum voor kortverblijf of dagverzorgingscentrum in kwestie wordt toegekend. Als de administrateur-generaal van het agentschap een negatieve beslissing neemt, wordt de tegemoetkoming toegekend op het moment dat de beslissing wordt bezorgd, conform artikel 462, eerste lid, en 466, eerste lid van het besluit van 30 november 2018.
+In het geval, vermeld in het eerste lid, beslist de leidend ambtenaar van het agentschap of de tegemoetkoming voor zorg in een woonzorgcentrum, centrum voor kortverblijf of dagverzorgingscentrum, vermeld in artikel 458 en 459 van het besluit van 30 november 2018, vanaf de ingangsdatum van de erkenning van het woonzorgcentrum, centrum voor kortverblijf of dagverzorgingscentrum in kwestie wordt toegekend. Als de leidend ambtenaar van het agentschap een negatieve beslissing neemt, wordt de tegemoetkoming toegekend op het moment dat de beslissing wordt bezorgd, conform artikel 462, eerste lid, en 466, eerste lid van het besluit van 30 november 2018.
 
 ## HOOFDSTUK 2. Opleiding en permanente vorming voor hoofdverpleegkundigen, hoofdparamedici en verpleegkundig coördinatoren
 
@@ -189,7 +189,7 @@ In dit hoofdstuk wordt verstaan onder:<br>
 
 ### ART 9.
 
-Een opleiding of permanente vorming kan worden erkend als het beheer bij het agentschap Zorg en Gezondheid aan de hand van een aanvraagformulier waarvan het model door het agentschap Zorg en Gezondheid ter beschikking wordt gesteld, een aanvraag tot erkenning indient. De aanvraag tot erkenning bevat de volgende documenten:<br>
+Een opleiding of permanente vorming kan worden erkend als het beheer bij het Departement Zorg aan de hand van een aanvraagformulier waarvan het model door het Departement Zorg ter beschikking wordt gesteld, een aanvraag tot erkenning indient. De aanvraag tot erkenning bevat de volgende documenten:<br>
 1° een ingevuld aanvraagformulier dat de volgende gegevens bevat:<br>
 a) de naam en het adres van de opleidingsinstantie;<br>
 b) de naam en de contactgegevens van het beheer van de opleidingsinstantie;<br>
@@ -201,19 +201,19 @@ d) de activiteiten en de resultaatsgebieden van de opleidingscyclus;<br>
 5° een organogram met de bevoegdheden van de verantwoordelijken binnen de opleidingsinstantie;<br>
 6° een nominatieve lijst van alle medewerkers, met vermelding van hun wekelijkse arbeidsduur en kwalificatie, geordend per functie.<br>
 <br>
-De documenten, vermeld in het eerste lid, worden elektronisch aan het agentschap Zorg en Gezondheid bezorgd. Als dat niet mogelijk is, worden ze met de post verstuurd.<br>
+De documenten, vermeld in het eerste lid, worden elektronisch aan het Departement Zorg bezorgd. Als dat niet mogelijk is, worden ze met de post verstuurd.<br>
 <br>
-Het agentschap Zorg en Gezondheid bewaart persoonsgegevens als vermeld in het eerste lid, 1°, b), 5° en 6° gedurende een termijn van minimaal twee jaar en maximaal vijftig jaar.
+Het Departement Zorg bewaart persoonsgegevens als vermeld in het eerste lid, 1°, b), 5° en 6° gedurende een termijn van minimaal twee jaar en maximaal vijftig jaar.
 
 ### ART 10.
 
 Een opleiding of permanente vorming die voldoet aan de voorwaarden, vermeld in artikel 497, § 2, van het besluit van 30 november 2018, wordt erkend voor onbepaalde duur.<br>
 <br>
-De lijst van erkende opleidingen wordt op de website van het agentschap Zorg en Gezondheid geplaatst.
+De lijst van erkende opleidingen wordt op de website van het Departement Zorg geplaatst.
 
 ### ART 11.
 
-De beslissing van de administrateur-generaal van het agentschap Zorg en Gezondheid waarin de erkenning wordt verleend aan de opleiding of permanente vorming, wordt binnen vier maanden na de dag van de ontvangst van de ontvankelijke aanvraag aan het beheer bezorgd.<br>
+De beslissing van de secretaris-generaal van het Departement Zorg waarin de erkenning wordt verleend aan de opleiding of permanente vorming, wordt binnen vier maanden na de dag van de ontvangst van de ontvankelijke aanvraag aan het beheer bezorgd.<br>
 <br>
 De erkenningsbeslissing bevat de volgende gegevens:<br>
 1° de naam en het adres van de opleidingsinstantie;<br>
@@ -227,24 +227,24 @@ De erkenningsbeslissing bevat de volgende gegevens:<br>
 
 Het beheer wordt binnen vier maanden na de dag van de ontvangst van de ontvankelijke aanvraag aangetekend, met kennisgeving van ontvangst, op de hoogte gebracht van het voornemen tot weigering van een erkenning.<br>
 <br>
-De aangetekende brief, vermeld in het eerste lid, bevat naast het voornemen ook de uitleg over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij het agentschap Zorg en Gezondheid.
+De aangetekende brief, vermeld in het eerste lid, bevat naast het voornemen ook de uitleg over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij het Departement Zorg.
 
 ### ART 13.
 
-Als het beheer geen bezwaarschrift indient binnen een maand na de ontvangst van de aangetekende brief, vermeld in artikel 12, wordt na het verstrijken van die termijn door de administrateur-generaal een weigeringsbeslissing genomen. Het agentschap Zorg en Gezondheid brengt het beheer daarvan aangetekend, met kennisgeving van ontvangst, op de hoogte binnen één maand na het verstrijken van die termijn.
+Als het beheer geen bezwaarschrift indient binnen een maand na de ontvangst van de aangetekende brief, vermeld in artikel 12, wordt na het verstrijken van die termijn door de secretaris-generaal een weigeringsbeslissing genomen. Het Departement Zorg brengt het beheer daarvan aangetekend, met kennisgeving van ontvangst, op de hoogte binnen één maand na het verstrijken van die termijn.
 
 ## Onderafdeling 2. Wijziging van de erkenning op verzoek van het beheer
 
 ### ART 14.
 
-Het beheer dient bij het agentschap Zorg en Gezondheid een aanvraag tot wijziging in als ze de volgende gegevens wil wijzigen:<br>
+Het beheer dient bij het Departement Zorg een aanvraag tot wijziging in als ze de volgende gegevens wil wijzigen:<br>
 1° de naam of het adres van de opleidingsinstantie;<br>
 2° de naam of de contactgegevens van het beheer;<br>
 3° de regio en het werkgebied van de opleidingsinstantie.<br>
 <br>
 Een aanvraag tot wijziging van de erkenning is alleen ontvankelijk als ze een kopie bevat van de beslissing daarover van het beheer.<br>
 <br>
-De aanvraag, vermeld in het eerste lid, wordt elektronisch aan het agentschap bezorgd. Als dat niet mogelijk is, worden ze met de post verstuurd.<br>
+De aanvraag, vermeld in het eerste lid, wordt elektronisch aan het Departement Zorg bezorgd. Als dat niet mogelijk is, worden ze met de post verstuurd.<br>
 <br>
 Over de aanvraag tot wijziging van de erkenning wordt beslist conform artikel 11 tot en met 13.
 
@@ -252,21 +252,21 @@ Over de aanvraag tot wijziging van de erkenning wordt beslist conform artikel 11
 
 ### ART 15.
 
-De administrateur-generaal van het agentschap Zorg en Gezondheid kan de erkenning wijzigen, of de erkenning intrekken als de erkende opleiding of permanente vorming niet voldoet aan de erkenningsvoorwaarden.<br>
+De secretaris-generaal van het Departement Zorg kan de erkenning wijzigen, of de erkenning intrekken als de erkende opleiding of permanente vorming niet voldoet aan de erkenningsvoorwaarden.<br>
 <br>
-De administrateur-generaal van het agentschap Zorg en Gezondheid kan een voornemen tot intrekking of wijziging van de erkenning alleen nemen nadat:<br>
-1° het beheer aangetekend, met kennisgeving van ontvangst, een aanmaning van het agentschap Zorg en Gezondheid heeft ontvangen om zich te schikken naar de erkenningsvoorwaarden, vermeld in de aanmaning;<br>
-2° het beheer in kwestie niet aantoont dat de opleiding of permanente vorming voldoet aan de erkenningsvoorwaarden binnen de termijn die het agentschap Zorg en Gezondheid in de aanmaning heeft bepaald.
+De secretaris-generaal van het Departement Zorg kan een voornemen tot intrekking of wijziging van de erkenning alleen nemen nadat:<br>
+1° het beheer aangetekend, met kennisgeving van ontvangst, een aanmaning van het Departement Zorg heeft ontvangen om zich te schikken naar de erkenningsvoorwaarden, vermeld in de aanmaning;<br>
+2° het beheer in kwestie niet aantoont dat de opleiding of permanente vorming voldoet aan de erkenningsvoorwaarden binnen de termijn die het Departement Zorg in de aanmaning heeft bepaald.
 
 ### ART 16.
 
-Het agentschap Zorg en Gezondheid brengt het beheer aangetekend, met kennisgeving van ontvangst, op de hoogte van het gemotiveerde voornemen van de administrateur-generaal van het agentschap Zorg en Gezondheid om een erkenning te wijzigen of in te trekken.<br>
+Het Departement Zorg brengt het beheer aangetekend, met kennisgeving van ontvangst, op de hoogte van het gemotiveerde voornemen van de secretaris-generaal van het Departement Zorg om een erkenning te wijzigen of in te trekken.<br>
 <br>
-De aangetekende brief, vermeld in het eerste lid, bevat naast het voornemen ook uitleg over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij het agentschap Zorg en Gezondheid.
+De aangetekende brief, vermeld in het eerste lid, bevat naast het voornemen ook uitleg over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij het Departement Zorg.
 
 ### ART 17.
 
-Als het beheer geen bezwaarschrift indient binnen een maand na de dag van de ontvangst van de aangetekende brief, vermeld in artikel 16, wordt na het verstrijken van die termijn een beslissing van de administrateur-generaal van het agentschap Zorg en Gezondheid tot wijziging of intrekking van de erkenning aangetekend, met kennisgeving van ontvangst, aan het beheer bezorgd.
+Als het beheer geen bezwaarschrift indient binnen een maand na de dag van de ontvangst van de aangetekende brief, vermeld in artikel 16, wordt na het verstrijken van die termijn een beslissing van de secretaris-generaal van het Departement Zorg tot wijziging of intrekking van de erkenning aangetekend, met kennisgeving van ontvangst, aan het beheer bezorgd.
 
 ### ART 18.
 
@@ -274,7 +274,7 @@ De beslissing tot intrekking of wijziging van de erkenning heeft uitwerking op d
 
 ### ART 19.
 
-De administrateur-generaal van het agentschap Zorg en Gezondheid kan een erkenning ook intrekken als het beheer daar aangetekend of tegen ontvangstbewijs rechtsgeldig om verzoekt, met opgave van de datum waarop de intrekking van de erkenning bij voorkeur uitwerking heeft. De beslissing van de administrateur-generaal van het agentschap Zorg en Gezondheid wordt binnen een termijn van drie maanden na de dag waarop het verzoek is ingediend, aangetekend, met kennisgeving van ontvangst, aan het beheer bezorgd.<br>
+De secretaris-generaal van het Departement Zorg kan een erkenning ook intrekken als het beheer daar aangetekend of tegen ontvangstbewijs rechtsgeldig om verzoekt, met opgave van de datum waarop de intrekking van de erkenning bij voorkeur uitwerking heeft. De beslissing van de secretaris-generaal van het Departement Zorg wordt binnen een termijn van drie maanden na de dag waarop het verzoek is ingediend, aangetekend, met kennisgeving van ontvangst, aan het beheer bezorgd.<br>
 <br>
 Bij stopzetting van de erkende opleiding verzoekt het beheer drie maanden voor de effectieve stopzetting om een intrekking van de erkenning conform het eerste lid.
 
@@ -305,7 +305,7 @@ De persoonsgegevens die verwerkt worden bij de evaluatie worden geanonimiseerd b
 
 ### ART 22.
 
-De eerste evaluatie wordt uiterlijk vijf jaar na de ingangsdatum van de erkenning die is toegekend door het agentschap Zorg en Gezondheid, uitgevoerd door de opleidingsinstantie. Daarna voert de opleidingsinstantie om de vijf jaar of op verzoek van het agentschap Zorg en Gezondheid een evaluatie uit. De termijn van vijf jaar begint opnieuw te lopen na elke uitgevoerde evaluatie.
+De eerste evaluatie wordt uiterlijk vijf jaar na de ingangsdatum van de erkenning die is toegekend door het Departement Zorg, uitgevoerd door de opleidingsinstantie. Daarna voert de opleidingsinstantie om de vijf jaar of op verzoek van het Departement Zorg een evaluatie uit. De termijn van vijf jaar begint opnieuw te lopen na elke uitgevoerde evaluatie.
 
 ### ART 23.
 
@@ -342,7 +342,7 @@ Als twee of meerdere opleidingsinstanties van dezelfde provincie voldoen aan het
 
 ### ART 26.
 
-Om erkend te worden als opleidingsinstantie die gemachtigd is om een opleiding te verstrekken die aanleiding geeft tot een opleidingscertificaat referentiepersoon dementie, dient de opleidingsinstantie een aanvraag in via een standaardformulier waarvan het model op de website van het agentschap Zorg en Gezondheid, www.zorg-en-gezondheid.be, staat.<br>
+Om erkend te worden als opleidingsinstantie die gemachtigd is om een opleiding te verstrekken die aanleiding geeft tot een opleidingscertificaat referentiepersoon dementie, dient de opleidingsinstantie een aanvraag in via een standaardformulier waarvan het model op de website van het Departement Zorg, staat.<br>
 <br>
 In het aanvraagformulier worden de volgende gegevens meegedeeld:<br>
 1° de gegevens van de aanvrager;<br>
@@ -354,31 +354,31 @@ In het aanvraagformulier worden de volgende gegevens meegedeeld:<br>
 <br>
 Het formulier, vermeld in het tweede lid, wordt vergezeld van een volledige, gedetailleerde beschrijving van de voorgestelde opleiding.<br>
 <br>
-Het agentschap Zorg en Gezondheid bewaart persoonsgegevens als vermeld in het tweede lid, 5°, tot het moment dat de vermelde persoonsgegevens aangepast worden conform het vijfde lid of voor een termijn van minimaal 5 jaar en maximaal tien jaar na de intrekking van de erkenning conform afdeling 5.<br>
+Het Departement Zorg bewaart persoonsgegevens als vermeld in het tweede lid, 5°, tot het moment dat de vermelde persoonsgegevens aangepast worden conform het vijfde lid of voor een termijn van minimaal 5 jaar en maximaal tien jaar na de intrekking van de erkenning conform afdeling 5.<br>
 <br>
-Elke aanpassing die de inhoud van de opleiding die is opgenomen in het elektronisch aanvraagdossier wijzigt, moet opnieuw door het agentschap Zorg en Gezondheid worden goedgekeurd.<br>
+Elke aanpassing die de inhoud van de opleiding die is opgenomen in het elektronisch aanvraagdossier wijzigt, moet opnieuw door het Departement Zorg worden goedgekeurd.<br>
 <br>
-Erkenningsaanvragen worden minstens vier maanden voor de aanvang van de opleiding per e-mail bezorgd aan het agentschap Zorg en Gezondheid.<br>
+Erkenningsaanvragen worden minstens vier maanden voor de aanvang van de opleiding per e-mail bezorgd aan het Departement Zorg.<br>
 <br>
-Binnen een maand na de ontvangst van de erkenningsaanvraag bevestigt het agentschap Zorg en Gezondheid aan de opleidingsinstantie of de erkenningsaanvraag al dan niet ontvankelijk is en past in de programmatie. Als de aanvraag niet ontvankelijk is, vermeldt het agentschap Zorg en Gezondheid welke informatie ontbreekt of ontoereikend is.<br>
+Binnen een maand na de ontvangst van de erkenningsaanvraag bevestigt het Departement Zorg aan de opleidingsinstantie of de erkenningsaanvraag al dan niet ontvankelijk is en past in de programmatie. Als de aanvraag niet ontvankelijk is, vermeldt het Departement Zorg welke informatie ontbreekt of ontoereikend is.<br>
 <br>
-Vanaf het moment dat de erkenningsaanvraag volledig en ontvankelijk is, deelt het agentschap Zorg en Gezondheid binnen drie maanden de beslissing tot het al dan niet toekennen van de erkenning aan de opleidingsinstantie mee.
+Vanaf het moment dat de erkenningsaanvraag volledig en ontvankelijk is, deelt het Departement Zorg binnen drie maanden de beslissing tot het al dan niet toekennen van de erkenning aan de opleidingsinstantie mee.
 
 ### ART 27.
 
-Als de opleidingsinstantie door het agentschap Zorg en Gezondheid erkend wordt, levert het agentschap Zorg en Gezondheid daarvoor gelijktijdig met de toekenning van de erkenning, vermeld in artikel 26, zevende lid, een erkenningsnummer af aan de opleidingsinstantie.<br>
+Als de opleidingsinstantie door het Departement Zorg erkend wordt, levert het Departement Zorg daarvoor gelijktijdig met de toekenning van de erkenning, vermeld in artikel 26, zevende lid, een erkenningsnummer af aan de opleidingsinstantie.<br>
 <br>
-De lijst van erkende opleidingsinstanties wordt op de website van het agentschap Zorg en Gezondheid geplaatst.
+De lijst van erkende opleidingsinstanties wordt op de website van het Departement Zorg geplaatst.
 
 ### ART 28.
 
 De aanvrager wordt uiterlijk binnen vier maanden na de dag van de ontvangst van de ontvankelijke aanvraag aangetekend, met kennisgeving van de ontvangst, op de hoogte gebracht van het voornemen tot weigering van de erkenning.<br>
 <br>
-De aangetekende brief, vermeld in het eerste lid, bevat naast het voornemen ook de uitleg over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij het agentschap Zorg en Gezondheid.
+De aangetekende brief, vermeld in het eerste lid, bevat naast het voornemen ook de uitleg over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij het Departement Zorg.
 
 ### ART 29.
 
-Als de aanvrager geen bezwaarschrift indient binnen een maand na de ontvangst van de aangetekende brief, vermeld in artikel 28, wordt na het verstrijken van die termijn door de administrateur-generaal van het agentschap Zorg en Gezondheid een weigeringsbeslissing genomen. Het agentschap Zorg en Gezondheid brengt de aanvrager daarvan aangetekend, met kennisgeving van ontvangst, op de hoogte binnen één maand na het verstrijken van die termijn.
+Als de aanvrager geen bezwaarschrift indient binnen een maand na de ontvangst van de aangetekende brief, vermeld in artikel 28, wordt na het verstrijken van die termijn door de secretaris-generaal van het Departement Zorg een weigeringsbeslissing genomen. Het Departement Zorg brengt de aanvrager daarvan aangetekend, met kennisgeving van ontvangst, op de hoogte binnen één maand na het verstrijken van die termijn.
 
 ## Afdeling 3. Erkenningsvoorwaarden
 
@@ -449,7 +449,7 @@ De lesgevers van de opleiding hebben minstens een diploma behaald in een opleidi
 <br>
 De namen en de diplomakwalificaties van de lesgevers die de leerstof aanbieden binnen de opleiding worden binnen de opleidingsinstantie bewaard gedurende een termijn van tien jaar.<br>
 <br>
-De opleidingsinstantie bezorgt de gegevens, vermeld in het tweede lid, aan het agentschap Zorg en Gezondheid als dat agentschap erom vraagt. Die gegevens worden binnen het agentschap Zorg en Gezondheid bewaard voor een termijn van maximaal tien jaar.
+De opleidingsinstantie bezorgt de gegevens, vermeld in het tweede lid, aan het Departement Zorg als dat departement erom vraagt. Die gegevens worden binnen het Departement Zorg bewaard voor een termijn van maximaal tien jaar.
 
 ## Afdeling 4. Evaluatie van de leerstof
 
@@ -481,7 +481,7 @@ De opleidingsinstantie bewaart gedurende maximaal drie jaar de schriftelijke nee
 
 ### ART 33.
 
-Aan elke cursist die de volledige opleidingscyclus heeft gevolgd en die geslaagd is voor de schriftelijke proef, vermeld in artikel 32, wordt na de vorming van minimum zestig uur een attest uitgereikt door de opleidingsinstantie, volgens het model dat op de website van het agentschap Zorg en Gezondheid is geplaatst.<br>
+Aan elke cursist die de volledige opleidingscyclus heeft gevolgd en die geslaagd is voor de schriftelijke proef, vermeld in artikel 32, wordt na de vorming van minimum zestig uur een attest uitgereikt door de opleidingsinstantie, volgens het model dat op de website van het Departement Zorg is geplaatst.<br>
 <br>
 Het attest, vermeld in het eerste lid, bevat de volgende gegevens:<br>
 1° van de cursist die de opleiding referentiepersoon dementie gevolgd heeft:<br>
@@ -497,7 +497,7 @@ b) het adres;<br>
 c) de telefoonnummer;<br>
 e) het e-mailadres;<br>
 f) de naam van de contactpersoon;<br>
-g) het erkenningsnummer toegekend door het agentschap Zorg en Gezondheid;<br>
+g) het erkenningsnummer toegekend door het Departement Zorg;<br>
 3° van de opleiding:<br>
 a) de datum;<br>
 b) het aantal uren;<br>
@@ -510,36 +510,36 @@ d) de handtekening;<br>
 
 ### ART 34.
 
-De opleidingsinstanties bezorgen op het einde van elke vormingscyclus de lijst van deelnemers die geslaagd zijn en de lijst van de cursisten die aan de volledige opleiding hebben deelgenomen aan het agentschap Zorg en Gezondheid. Het model van de lijsten staat op de website van het agentschap Zorg en Gezondheid.<br>
+De opleidingsinstanties bezorgen op het einde van elke vormingscyclus de lijst van deelnemers die geslaagd zijn en de lijst van de cursisten die aan de volledige opleiding hebben deelgenomen aan het Departement Zorg. Het model van de lijsten staat op de website van het Departement Zorg.<br>
 <br>
-De lijsten worden, bij voorkeur op digitale wijze, aan het agentschap Zorg en Gezondheid bezorgd, binnen zestig dagen na de dag waarop de vormingscyclus is beëindigd.<br>
-Het agentschap Zorg en Gezondheid houdt de lijst van deelnemers die geslaagd zijn, vermeld in het eerste lid, bij voor een periode van tien jaar. Het agentschap Zorg en Gezondheid houdt de lijst van de cursisten die aan de volledige opleiding hebben deelgenomen, vermeld in het eerste lid, bij gedurende een termijn van twee jaar.
+De lijsten worden, bij voorkeur op digitale wijze, aan het Departement Zorg bezorgd, binnen zestig dagen na de dag waarop de vormingscyclus is beëindigd.<br>
+Het Departement Zorg houdt de lijst van deelnemers die geslaagd zijn, vermeld in het eerste lid, bij voor een periode van tien jaar. Het Departement Zorg houdt de lijst van de cursisten die aan de volledige opleiding hebben deelgenomen, vermeld in het eerste lid, bij gedurende een termijn van twee jaar.
 
 ## Afdeling 5. Procedure voor de schorsing of de intrekking van de erkenning
 
 ### ART 35.
 
-De administrateur-generaal van het agentschap Zorg en Gezondheid kan de erkenning voor bepaalde tijd schorsen, of de erkenning intrekken als de erkende opleidingsinstantie niet voldoet aan de erkenningsvoorwaarden, vermeld in afdeling 3 van dit besluit en artikel 498, § 4, eerste lid, 1°, van het besluit van 30 november 2018.<br>
+De secretaris-generaal van het Departement Zorg kan de erkenning voor bepaalde tijd schorsen, of de erkenning intrekken als de erkende opleidingsinstantie niet voldoet aan de erkenningsvoorwaarden, vermeld in afdeling 3 van dit besluit en artikel 498, § 4, eerste lid, 1°, van het besluit van 30 november 2018.<br>
 <br>
-De administrateur-generaal van het agentschap Zorg en Gezondheid kan een voornemen tot intrekking van de erkenning alleen nemen nadat:<br>
-1° het beheer van de opleidingsinstantie aangetekend, met kennisgeving van ontvangst, een aanmaning van het agentschap Zorg en Gezondheid heeft ontvangen om zich te schikken naar de erkenningsvoorwaarden, vermeld in de aanmaning;<br>
-2° het beheer in kwestie niet aantoont dat de opleidingsinstantie voldoet aan de erkenningsvoorwaarden, vermeld in afdeling 3 van dit besluit en artikel 498, § 4, eerste lid, 1°, van het besluit van 30 november 2018binnen de termijn die het agentschap Zorg en Gezondheid in de aanmaning heeft bepaald.
+De secretaris-generaal van het Departement Zorg kan een voornemen tot intrekking van de erkenning alleen nemen nadat:<br>
+1° het beheer van de opleidingsinstantie aangetekend, met kennisgeving van ontvangst, een aanmaning van het Departement Zorg heeft ontvangen om zich te schikken naar de erkenningsvoorwaarden, vermeld in de aanmaning;<br>
+2° het beheer in kwestie niet aantoont dat de opleidingsinstantie voldoet aan de erkenningsvoorwaarden, vermeld in afdeling 3 van dit besluit en artikel 498, § 4, eerste lid, 1°, van het besluit van 30 november 2018binnen de termijn die het Departement Zorg in de aanmaning heeft bepaald.
 
 ### ART 36.
 
-Het agentschap Zorg en Gezondheid brengt het beheer aangetekend, met kennisgeving van ontvangst, op de hoogte van het gemotiveerde voornemen van de administrateur-generaal van het agentschap Zorg en Gezondheid tot schorsing of intrekking van een erkenning.<br>
+Het Departement Zorg brengt het beheer aangetekend, met kennisgeving van ontvangst, op de hoogte van het gemotiveerde voornemen van de secretaris-generaal van het Departement Zorg tot schorsing of intrekking van een erkenning.<br>
 <br>
-De aangetekende brief, vermeld in het eerste lid, bevat naast het voornemen ook uitleg over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij het agentschap Zorg en Gezondheid.
+De aangetekende brief, vermeld in het eerste lid, bevat naast het voornemen ook uitleg over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij het Departement Zorg.
 
 ### ART 37.
 
-Als het beheer van de opleidingsinstantie geen bezwaarschrift indient binnen een maand na de ontvangst van de aangetekende zending, vermeld in artikel 36, wordt na het verstrijken van die termijn een beslissing van de administrateur-generaal van het agentschap Zorg en Gezondheid tot schorsing of intrekking van de erkenning aangetekend, met kennisgeving van ontvangst, aan het beheer bezorgd.
+Als het beheer van de opleidingsinstantie geen bezwaarschrift indient binnen een maand na de ontvangst van de aangetekende zending, vermeld in artikel 36, wordt na het verstrijken van die termijn een beslissing van de secretaris-generaal van het Departement Zorg tot schorsing of intrekking van de erkenning aangetekend, met kennisgeving van ontvangst, aan het beheer bezorgd.
 
 ### ART 38.
 
 De beslissing tot schorsing van de erkenning vermeldt de begindatum, de termijn van de schorsing en de voorwaarden die vervuld moeten worden om de schorsing in te trekken.<br>
 <br>
-De administrateur-generaal van het agentschap Zorg en Gezondheid bepaalt de termijn van de schorsing van de erkenning. Die termijn mag niet meer bedragen dan zes maanden. Op gemotiveerd verzoek van het beheer kan die termijn eenmaal voor maximaal dezelfde termijn worden verlengd. Die aanvraag wordt minstens dertig dagen voor de afloop van de initiële schorsingstermijn aangetekend of tegen ontvangstbewijs aan het agentschap Zorg en Gezondheid bezorgd.<br>
+De secretaris-generaal van het Departement Zorg bepaalt de termijn van de schorsing van de erkenning. Die termijn mag niet meer bedragen dan zes maanden. Op gemotiveerd verzoek van het beheer kan die termijn eenmaal voor maximaal dezelfde termijn worden verlengd. Die aanvraag wordt minstens dertig dagen voor de afloop van de initiële schorsingstermijn aangetekend of tegen ontvangstbewijs aan het Departement Zorg bezorgd.<br>
 <br>
 Als bij het beëindigen van de schorsingstermijn nog niet aan alle erkenningsvoorwaarden, afdeling 3 van dit besluit en artikel 498, § 4, eerste lid, 1°, van het besluit van 30 november 2018, is voldaan, wordt de procedure tot intrekking van de erkenning ingesteld conform artikel 35.
 
@@ -549,7 +549,7 @@ De beslissing tot intrekking van de erkenning heeft uitwerking op de datum, verm
 
 ### ART 40.
 
-De administrateur-generaal van het agentschap Zorg en Gezondheid kan een erkenning ook intrekken als het beheer daar aangetekend of tegen ontvangstbewijs rechtsgeldig om verzoekt, met opgave van de datum waarop de intrekking van de erkenning bij voorkeur uitwerking heeft. De beslissing van de administrateur-generaal van het agentschap Zorg en Gezondheid wordt binnen drie maanden na de dag waarop het verzoek is ingediend, aangetekend, met kennisgeving van ontvangst, aan het beheer bezorgd.<br>
+De secretaris-generaal van het Departement Zorg kan een erkenning ook intrekken als het beheer daar aangetekend of tegen ontvangstbewijs rechtsgeldig om verzoekt, met opgave van de datum waarop de intrekking van de erkenning bij voorkeur uitwerking heeft. De beslissing van de secretaris-generaal van het Departement Zorg wordt binnen drie maanden na de dag waarop het verzoek is ingediend, aangetekend, met kennisgeving van ontvangst, aan het beheer bezorgd.<br>
 <br>
 Bij stopzetting van de erkende opleiding verzoekt het beheer drie maanden voor de effectieve stopzetting om een intrekking van de erkenning conform het eerste lid.
 
