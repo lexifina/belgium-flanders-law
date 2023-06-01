@@ -2,16 +2,16 @@
   "codex_id": 1018357,
   "title": "Besluit van de Vlaamse Regering van 2009-06-19 betreffende initiatieven om uitbreiding van schadelijke effecten, die veroorzaakt zijn door biotische factoren, tegen te gaan",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018357/VolledigDocument?datum=2018-05-25",
-  "source_sha256": "5f5bfc60c3e3a223f043938fd4f1e8bfeb29eaba3c655f0b51610117abe18402",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018357/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "85a69e89db75b3ab93021d37cf6883d015638f845d376c8bcf94631f754db48e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018357&param=informatie",
-  "as_of": "2018-05-25",
+  "as_of": "2023-06-01",
   "made": "2009-06-19",
   "gazette": "2009-09-16",
   "numac": 2009035882,
   "document_start": "2009-09-26",
   "document_end": "2024-01-24",
-  "in_force": "2018-05-25",
+  "in_force": "2023-06-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }

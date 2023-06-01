@@ -32,11 +32,22 @@ Besluit :
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° decreet van 21 november 2003 : het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid;<br />2° minister : de Vlaamse minister, bevoegd voor het gezondheidsbeleid.
+In dit besluit wordt verstaan onder :<br>
+1° decreet van 21 november 2003 : het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid;<br>
+1°/1 Departement Zorg: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
+2° minister : de Vlaamse minister, bevoegd voor het gezondheidsbeleid.
 
 ### ART. 2.
 
-§ 1. Om overeenkomstig artikel 44, § 3, 1° van het decreet van 21 november 2003 maatregelen te kunnen nemen om verspreiding van infecties tegen te gaan, moeten de infecties, vermeld in een lijst die door de minister wordt bepaald, binnen vierentwintig uur na het eerste realistische klinische, epidemiologische of laboratoriumtechnische vermoeden, op basis van de gevalsdefinities die ter beschikking gesteld worden door het Vlaams Agentschap Zorg en Gezondheid, gemeld worden. De melding gebeurt op een beveiligde elektronische wijze, telefonisch of mondeling, of eventueel schriftelijk per post, met inachtneming van de vereisten voor de uitwisseling van medische gegevens. De beveiligde elektronische wijze betekent dat de melding gebeurt via een geëncrypteerd bericht of via een beveiligde webapplicatie, die door de bevoegde overheid ter beschikking wordt gesteld aan de melders. De eventuele schriftelijke melding per post gebeurt onder gesloten omslag, op naam van de arts-gezondheidsinspecteur die binnen het Vlaams Agentschap Zorg en Gezondheid verantwoordelijk is voor de provincie waar de melder zijn beroepsactiviteit uitvoert. De melding bevat over de patiënt alleen de gegevens die krachtens dit besluit nodig zijn.<br /><br />De melding wordt gedaan aan een ambtenaar-arts als vermeld in artikel 44, § 3, 2°, van het decreet van 21 november 2003.<br /><br />§ 2. Elk vermoeden van een ernstige infectie die niet in de lijst, vermeld in paragraaf 1, is opgenomen, en die, volgens de inschatting van de potentiële melder, op basis van de medische kennis die die verondersteld wordt te hebben, een epidemisch karakter dreigt aan te nemen of aangenomen heeft, moet ook gemeld worden. Het betreft ook de infecties die veroorzaakt zijn door accidentele of doelbewuste introductie van biotische factoren. Die melding wordt gedaan op dezelfde wijze, met inachtneming van dezelfde voorzorgen, door dezelfde personen en gericht aan dezelfde ambtenaar-arts als vermeld in paragraaf 1.<br /><br />Als de potentiële melder twijfel heeft over de ernst of het epidemische karakter van een infectie, neemt hij telefonisch contact op met de ambtenaar-arts, vermeld in paragraaf 1.<br /><br />§ 3. Als degene die de infectie moet melden, van oordeel is dat de maatregelen die genomen moeten worden van die aard zijn dat ze een onmiddellijke aanpak of coördinatie vergen, wordt de infectie onmiddellijk telefonisch of mondeling gemeld. Bij een telefonische of een mondelinge melding moet de melder, als de ambtenaar-arts, vermeld in paragraaf 1, of een ambtenaar als vermeld in artikel 44, § 3, 3°, van het decreet van 21 november 2003, daarom verzoekt, de melding bevestigen op een beveiligde elektronische wijze of via de post.
+§ 1. Om overeenkomstig artikel 44, § 3, 1° van het decreet van 21 november 2003 maatregelen te kunnen nemen om verspreiding van infecties tegen te gaan, moeten de infecties, vermeld in een lijst die door de minister wordt bepaald, binnen vierentwintig uur na het eerste realistische klinische, epidemiologische of laboratoriumtechnische vermoeden, op basis van de gevalsdefinities die ter beschikking gesteld worden door het Departement Zorg, gemeld worden. De melding gebeurt op een beveiligde elektronische wijze, telefonisch of mondeling, of eventueel schriftelijk per post, met inachtneming van de vereisten voor de uitwisseling van medische gegevens. De beveiligde elektronische wijze betekent dat de melding gebeurt via een geëncrypteerd bericht of via een beveiligde webapplicatie, die door de bevoegde overheid ter beschikking wordt gesteld aan de melders. De eventuele schriftelijke melding per post gebeurt onder gesloten omslag, op naam van de arts-gezondheidsinspecteur die binnen het Departement Zorg verantwoordelijk is voor de provincie waar de melder zijn beroepsactiviteit uitvoert. De melding bevat over de patiënt alleen de gegevens die krachtens dit besluit nodig zijn.<br>
+<br>
+De melding wordt gedaan aan een ambtenaar-arts als vermeld in artikel 44, § 3, 2°, van het decreet van 21 november 2003.<br>
+<br>
+§ 2. Elk vermoeden van een ernstige infectie die niet in de lijst, vermeld in paragraaf 1, is opgenomen, en die, volgens de inschatting van de potentiële melder, op basis van de medische kennis die die verondersteld wordt te hebben, een epidemisch karakter dreigt aan te nemen of aangenomen heeft, moet ook gemeld worden. Het betreft ook de infecties die veroorzaakt zijn door accidentele of doelbewuste introductie van biotische factoren. Die melding wordt gedaan op dezelfde wijze, met inachtneming van dezelfde voorzorgen, door dezelfde personen en gericht aan dezelfde ambtenaar-arts als vermeld in paragraaf 1.<br>
+<br>
+Als de potentiële melder twijfel heeft over de ernst of het epidemische karakter van een infectie, neemt hij telefonisch contact op met de ambtenaar-arts, vermeld in paragraaf 1.<br>
+<br>
+§ 3. Als degene die de infectie moet melden, van oordeel is dat de maatregelen die genomen moeten worden van die aard zijn dat ze een onmiddellijke aanpak of coördinatie vergen, wordt de infectie onmiddellijk telefonisch of mondeling gemeld. Bij een telefonische of een mondelinge melding moet de melder, als de ambtenaar-arts, vermeld in paragraaf 1, of een ambtenaar als vermeld in artikel 44, § 3, 3°, van het decreet van 21 november 2003, daarom verzoekt, de melding bevestigen op een beveiligde elektronische wijze of via de post.
 
 ### ART. 3.
 
@@ -44,7 +55,20 @@ Ter uitvoering van artikel 44, § 3, 2° en 3°, van het decreet van 21 november
 
 ### ART. 4.
 
-De melding, vermeld in artikel 2, bevat, als de melder ervan op de hoogte is, al de volgende gegevens :<br />1° de naam van de infectie;<br />2° of het volgens de melder gaat om een ziektegeval dat bevestigd is of niet bevestigd is;<br />3° of de diagnose op klinische, epidemiologische of laboratoriumtechnische gronden wordt bevestigd of wordt vermoed, of op basis van een combinatie van die gronden;<br />4° het vermoedelijke land waar de besmetting heeft plaatsgevonden;<br />5° de geboortedatum van de persoon die geïnfecteerd is;<br />6° het geslacht van de persoon die geïnfecteerd is;<br />7° het postnummer of de naam van de gemeente van de persoon die geïnfecteerd is;<br />8° de datum van de melding;<br />9° de dossierreferentie van de melder;<br />10° de identiteit en de contactgegevens van de melder;<br />11° de identiteit en de contactgegevens van de behandelende arts, als dat niet de melder is.<br /><br />Voor de melding stelt het Vlaams Agentschap Zorg en Gezondheid een formulier ter beschikking.
+De melding, vermeld in artikel 2, bevat, als de melder ervan op de hoogte is, al de volgende gegevens :<br>
+1° de naam van de infectie;<br>
+2° of het volgens de melder gaat om een ziektegeval dat bevestigd is of niet bevestigd is;<br>
+3° of de diagnose op klinische, epidemiologische of laboratoriumtechnische gronden wordt bevestigd of wordt vermoed, of op basis van een combinatie van die gronden;<br>
+4° het vermoedelijke land waar de besmetting heeft plaatsgevonden;<br>
+5° de geboortedatum van de persoon die geïnfecteerd is;<br>
+6° het geslacht van de persoon die geïnfecteerd is;<br>
+7° het postnummer of de naam van de gemeente van de persoon die geïnfecteerd is;<br>
+8° de datum van de melding;<br>
+9° de dossierreferentie van de melder;<br>
+10° de identiteit en de contactgegevens van de melder;<br>
+11° de identiteit en de contactgegevens van de behandelende arts, als dat niet de melder is.<br>
+<br>
+Voor de melding stelt het Departement Zorg een formulier ter beschikking.
 
 ### ART. 5.
 
@@ -60,7 +84,7 @@ Nadat hij zich geïnformeerd heeft over de infectieziekte die gemeld wordt, legt
 <br>
 § 2. Alle verwerkingen voor statistische, wetenschappelijke of beleidsondersteunende doeleinden, gebeuren uitsluitend op basis van de geanonimiseerde gegevens uit het dossier.<br>
 <br>
-§ 3. De geanonimiseerde gegevens uit het dossier, vermeld in artikel 6, die niet met een geïdentificeerd of identificeerbaar persoon in verband kunnen worden gebracht en daardoor geen persoonsgegevens zijn, kunnen in een aparte databank bewaard blijven voor de verwerking voor statistische, wetenschappelijke of beleidsondersteunende doeleinden. De gegevens worden geanonimiseerd overeenkomstig de regels die de federale wetgever uitvaardigt ter uitvoering van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), onder toezicht van een ambtenaar-arts van het Vlaams Agentschap Zorg en Gezondheid, dat verantwoordelijk is voor de verwerking van het dossier, vermeld in artikel 6.<br>
+§ 3. De geanonimiseerde gegevens uit het dossier, vermeld in artikel 6, die niet met een geïdentificeerd of identificeerbaar persoon in verband kunnen worden gebracht en daardoor geen persoonsgegevens zijn, kunnen in een aparte databank bewaard blijven voor de verwerking voor statistische, wetenschappelijke of beleidsondersteunende doeleinden. De gegevens worden geanonimiseerd overeenkomstig de regels die de federale wetgever uitvaardigt ter uitvoering van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), onder toezicht van een ambtenaar-arts van het Departement Zorg, dat verantwoordelijk is voor de verwerking van het dossier, vermeld in artikel 6.<br>
 <br>
 § 4.&nbsp;De verwerkingsverantwoordelijke wijst de categorieën van personen aan die de persoonsgegevens kunnen raadplegen met vermelding van hun hoedanigheid ten opzichte van de verwerking, ziet er op toe dat die personen er formeel toe gehouden zijn het vertrouwelijke karakter van de betrokken gegevens in acht te nemen en houdt een lijst van die personen bij.
 
