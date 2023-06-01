@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038379,
+  "title": "Besluit van de Vlaamse Regering van 2023-05-12 over het Departement Zorg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038379/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "853703280a06d150f62ba99fbce4382c599a98bf3cf3cc337b8480d42277cb61",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038379&param=informatie",
+  "as_of": "2023-06-01",
+  "made": "2023-05-12",
+  "gazette": "2023-05-31",
+  "numac": 2023031102,
+  "document_start": "2023-06-01",
+  "document_end": null,
+  "in_force": "2023-06-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2023-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
