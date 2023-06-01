@@ -8,7 +8,17 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 21 november 2003 betref
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1°administrateur-generaal : de   leidend ambtenaar van het agentschap;<BR>2° agentschap : het Vlaams Agentschap   Zorg en Gezondheid van het Vlaams Ministerie van Welzijn, Volksgezondheid en   Gezin;<BR>3° decreet van 21 november 2003 : het decreet van 21 november 2003   betreffende het preventieve gezondheidsbeleid;<BR>4° besluit van 14 november   2008: het besluit van de Vlaamse Regering van 14 november 2008 betreffende   Vlaamse werkgroepen binnen het preventieve gezondheidsbeleid;<BR>5°   doelmatigheid : de mate waarin gezondheidswinst bereikt wordt tegen aanvaardbare   kosten;<BR>6° minister : de Vlaamse minister, bevoegd voor het   gezondheidsbeleid;<BR>7° screening: elk onderzoek naar een ziekte of aandoening   of naar risicofactoren, voorstadia of verwikkelingen ervan, bij een of meer   personen, dat niet gebeurt naar aanleiding van uit eigen beweging geformuleerde   gezondheidsklachten die verband houden met de opgespoorde ziekte of aandoening   of de risicofactoren, voorstadia of verwikkelingen ervan;<BR>8°   screeningsinstrument : het middel, zoals een bevraging, test of meting, dat   gebruikt wordt voor screening.<BR>9° doelgroep voor screening: de gehele   bevolking of een deel van de gehele bevolking, ingeperkt op basis van kenmerken   die eigen zijn aan de persoon of zijn omgeving, of op basis van kenmerken die   eigen zijn aan de screening.
+In dit besluit wordt verstaan onder :<br>
+1°...;<br>
+2° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
+3° decreet van 21 november 2003 : het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid;<br>
+4° besluit van 14 november 2008: het besluit van de Vlaamse Regering van 14 november 2008 betreffende Vlaamse werkgroepen binnen het preventieve gezondheidsbeleid;<br>
+5° doelmatigheid : de mate waarin gezondheidswinst bereikt wordt tegen aanvaardbare kosten;<br>
+6° minister : de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
+7° screening: elk onderzoek naar een ziekte of aandoening of naar risicofactoren, voorstadia of verwikkelingen ervan, bij een of meer personen, dat niet gebeurt naar aanleiding van uit eigen beweging geformuleerde gezondheidsklachten die verband houden met de opgespoorde ziekte of aandoening of de risicofactoren, voorstadia of verwikkelingen ervan;<br>
+8° screeningsinstrument : het middel, zoals een bevraging, test of meting, dat gebruikt wordt voor screening;<br>
+8°/1 secretaris-generaal: het hoofd van de administratie;<br>
+9° doelgroep voor screening: de gehele bevolking of een deel van de gehele bevolking, ingeperkt op basis van kenmerken die eigen zijn aan de persoon of zijn omgeving, of op basis van kenmerken die eigen zijn aan de screening.
 
 ## HOOFDSTUK II. Toepassingsgebied
 
@@ -52,7 +62,7 @@ e) de screening wordt uitgevoerd door personen die daarvoor over de nodige bekwa
 f) de screening wordt uitgevoerd conform de regels voor de uitoefening van de gezondheidszorgberoepen, de bescherming van de persoonlijke levenssfeer, de experimenten op de menselijke persoon en de burgerlijke aansprakelijkheid;<br>
 g) er is een gunstig enkel advies van een volledig erkend comité als vermeld in artikel 2, 4°, van de wet van 7 mei 2004 inzake experimenten op de menselijke persoon.<br>
 <br>
-Op verzoek van het agentschap tonen de organisatoren of de uitvoerders van de onderzoeken, vermeld in het derde lid, aan dat ze voldoen aan de bepalingen van het derde lid.<br>
+Op verzoek van de administratie tonen de organisatoren of de uitvoerders van de onderzoeken, vermeld in het derde lid, aan dat ze voldoen aan de bepalingen van het derde lid.<br>
 <br>
 De initiatieven die zich beperken tot informatieverstrekking over bepaalde aandoeningen vallen niet onder het toepassingsgebied van dit besluit, ook als daarbij de omstandigheden worden opgesomd waarin het aangewezen is een arts te raadplegen.<br>
 <br>
@@ -98,7 +108,22 @@ De volgende bevolkingsonderzoeken namens de Vlaamse Regering hoeven niet te vold
 
 ### ART. 7.
 
-§ 1. Met toepassing van artikel 31, § 2, eerste lid, van het   preventiedecreet van 21 november 2003, vereist bevolkingsonderzoek dat niet   namens de Vlaamse Regering wordt georganiseerd, een toestemming van de   minister.<BR><BR>§ 2. De minister kan een toestemming voor bevolkingsonderzoek   alleen verlenen als is voldaan aan de bepaling van artikel 31, § 2, tweede lid,   van het decreet van 21 november 2003, en aan al de volgende voorwaarden :<BR>1°   er is een aanvraag voor toestemming ingediend bij de minister;<BR>2° er is een   rechtspersoon of een natuurlijke persoon aangewezen als verantwoordelijke voor   het organiseren van het bevolkingsonderzoek;<BR>3° de te verwachten   gezondheidswinst bij de doelgroep, ten gevolge van het bevolkingsonderzoek, is   wetenschappelijk onderbouwd;<BR>4° de screening moet kunnen vaststellen welke   deelnemers zeer waarschijnlijk meer baat dan nadeel ondervinden bij verder   diagnostisch onderzoek, bij een behandeling of bij ander zinvol handelen met   betrekking tot hun gezondheid;<BR>5° het bevolkingsonderzoek beoogt alle   personen van de doelgroep voor de screening de mogelijkheid te geven om deel te   nemen;<BR>6° er is geen bevolkingsonderzoek namens de Vlaamse Regering met   hetzelfde doel en ten aanzien van dezelfde doelgroep voor screening   georganiseerd in dezelfde regio van het bevolkingsonderzoek waarvoor een   toestemming is aangevraagd;<BR>7° de Vlaamse werkgroep Bevolkingsonderzoek,   vermeld in artikel 9, heeft een advies gegeven over het bevolkingsonderzoek en   de eventuele wijzigingen in het bevolkingsonderzoek die betrekking hebben op de   keuze van het screeningsinstrument of de omschrijving van de doelgroep voor   screening.<BR><BR>Alle voorwaarden, vermeld in het eerste lid, moeten worden   vervuld behalve:<BR>1° de voorwaarde, vermeld in het eerste lid, 2°, als het een   toestemming betreft op verzoek van het agentschap;<BR>2° de voorwaarde, vermeld   in het eerste lid, 4°, als het bevolkingsonderzoek betreft dat tot doel heeft de   effectiviteit of de doelmatigheid van een eventueel bevolkingsonderzoek te   onderzoeken.<BR><BR>§ 3. De minister kan voorwaarden of beperkingen verbinden   aan de toestemming voor bevolkingsonderzoek, vermeld in paragraaf 1. Die   voorwaarden kunnen betrekking hebben op de duur, de omvang, de uitvoering, de   kwaliteit of de evaluatie van het bevolkingsonderzoek.
+§ 1. Met toepassing van artikel 31, § 2, eerste lid, van het preventiedecreet van 21 november 2003, vereist bevolkingsonderzoek dat niet namens de Vlaamse Regering wordt georganiseerd, een toestemming van de minister.<br>
+<br>
+§ 2. De minister kan een toestemming voor bevolkingsonderzoek alleen verlenen als is voldaan aan de bepaling van artikel 31, § 2, tweede lid, van het decreet van 21 november 2003, en aan al de volgende voorwaarden :<br>
+1° er is een aanvraag voor toestemming ingediend bij de minister;<br>
+2° er is een rechtspersoon of een natuurlijke persoon aangewezen als verantwoordelijke voor het organiseren van het bevolkingsonderzoek;<br>
+3° de te verwachten gezondheidswinst bij de doelgroep, ten gevolge van het bevolkingsonderzoek, is wetenschappelijk onderbouwd;<br>
+4° de screening moet kunnen vaststellen welke deelnemers zeer waarschijnlijk meer baat dan nadeel ondervinden bij verder diagnostisch onderzoek, bij een behandeling of bij ander zinvol handelen met betrekking tot hun gezondheid;<br>
+5° het bevolkingsonderzoek beoogt alle personen van de doelgroep voor de screening de mogelijkheid te geven om deel te nemen;<br>
+6° er is geen bevolkingsonderzoek namens de Vlaamse Regering met hetzelfde doel en ten aanzien van dezelfde doelgroep voor screening georganiseerd in dezelfde regio van het bevolkingsonderzoek waarvoor een toestemming is aangevraagd;<br>
+7° de Vlaamse werkgroep Bevolkingsonderzoek, vermeld in artikel 9, heeft een advies gegeven over het bevolkingsonderzoek en de eventuele wijzigingen in het bevolkingsonderzoek die betrekking hebben op de keuze van het screeningsinstrument of de omschrijving van de doelgroep voor screening.<br>
+<br>
+Alle voorwaarden, vermeld in het eerste lid, moeten worden vervuld behalve:<br>
+1° de voorwaarde, vermeld in het eerste lid, 2°, als het een toestemming betreft op verzoek van de administratie;<br>
+2° de voorwaarde, vermeld in het eerste lid, 4°, als het bevolkingsonderzoek betreft dat tot doel heeft de effectiviteit of de doelmatigheid van een eventueel bevolkingsonderzoek te onderzoeken.<br>
+<br>
+§ 3. De minister kan voorwaarden of beperkingen verbinden aan de toestemming voor bevolkingsonderzoek, vermeld in paragraaf 1. Die voorwaarden kunnen betrekking hebben op de duur, de omvang, de uitvoering, de kwaliteit of de evaluatie van het bevolkingsonderzoek.
 
 ### ART. 8.
 
@@ -112,7 +137,18 @@ De minister richt een Vlaamse werkgroep Bevolkingsonderzoek op, conform   het be
 
 ### ART. 10.
 
-De Vlaamse werkgroep Bevolkingsonderzoek geeft onafhankelijk advies aan de   minister en het agentschap over :<BR>1° de aanvragen van toestemming voor   bevolkingsonderzoek, vermeld in artikel 7, § 2, eerste lid, 1°, met inbegrip van   de eventuele voorwaarden en beperkingen, vermeld in artikel 7, § 3;<BR>2°   ...<BR>3° de voorstellen van bevolkingsonderzoek namens de Vlaamse   Regering;<BR>3° /1 de wijzigingen in een bevolkingsonderzoek waarvoor   toestemming is verleend, die de keuze van het screeningsinstrument of de   omschrijving van de doelgroep betreffen;<BR>4° lopend bevolkingsonderzoek, op   verzoek van de minister of het agentschap, of op eigen initiatief;<BR>5° het   intrekken van een toestemming voor bevolkingsonderzoek, vermeld in artikel 25,   eerste lid, of het stopzetten van een bevolkingsonderzoek namens de Vlaamse   Regering;<BR>6° de uitvoering van dit besluit of van bevolkingsonderzoek in het   algemeen, op verzoek van de minister of het agentschap, of op eigen   initiatief.<BR><BR>Een advies van de Vlaamse werkgroep Bevolkingsonderzoek moet   gemotiveerd zijn en een eindconclusie bevatten.<BR><BR>De minister bepaalt,   conform artikel 4 van het besluit van 14 november 2008, eventueel nog andere   opdrachten van de Vlaamse werkgroep Bevolkingsonderzoek.
+De Vlaamse werkgroep Bevolkingsonderzoek geeft onafhankelijk advies aan de minister en de administratie over :<br>
+1° de aanvragen van toestemming voor bevolkingsonderzoek, vermeld in artikel 7, § 2, eerste lid, 1°, met inbegrip van de eventuele voorwaarden en beperkingen, vermeld in artikel 7, § 3;<br>
+2° ...<br>
+3° de voorstellen van bevolkingsonderzoek namens de Vlaamse Regering;<br>
+3° /1 de wijzigingen in een bevolkingsonderzoek waarvoor toestemming is verleend, die de keuze van het screeningsinstrument of de omschrijving van de doelgroep betreffen;<br>
+4° lopend bevolkingsonderzoek, op verzoek van de minister of de administratie, of op eigen initiatief;<br>
+5° het intrekken van een toestemming voor bevolkingsonderzoek, vermeld in artikel 25, eerste lid, of het stopzetten van een bevolkingsonderzoek namens de Vlaamse Regering;<br>
+6° de uitvoering van dit besluit of van bevolkingsonderzoek in het algemeen, op verzoek van de minister of de administratie, of op eigen initiatief.<br>
+<br>
+Een advies van de Vlaamse werkgroep Bevolkingsonderzoek moet gemotiveerd zijn en een eindconclusie bevatten.<br>
+<br>
+De minister bepaalt, conform artikel 4 van het besluit van 14 november 2008, eventueel nog andere opdrachten van de Vlaamse werkgroep Bevolkingsonderzoek.
 
 ### ART. 11.
 
@@ -140,17 +176,31 @@ De Vlaamse werkgroep Bevolkingsonderzoek bezorgt, na beoordeling, een advies aan
 
 ### ART. 16.
 
-§ 1. De minister neemt, na advies van de Vlaamse werkgroep Bevolkingsonderzoek, een beslissing over het al dan niet organiseren van een bevolkingsonderzoek namens de Vlaamse Regering, eventueel aangepast aan de voorwaarden of beperkingen, vermeld in artikel 15, tweede lid.<br /><br />Bij een gunstige beslissing neemt de minister de nodige initiatieven om de bepalingen, vermeld in artikel 5, uit te voeren.<br /><br />De minister maakt het organiseren van bevolkingsonderzoek namens de Vlaamse Regering, en het advies van de Vlaamse werkgroep Bevolkingsonderzoek daarover, kenbaar op de website van het agentschap.<br /><br />§ 2. Als de Vlaamse werkgroep Bevolkingsonderzoek binnen de termijn, vermeld in artikel 15, derde lid, geen advies heeft uitgebracht, is de voorwaarde, vermeld in artikel 4, 5°, niet meer van toepassing.
+§ 1. De minister neemt, na advies van de Vlaamse werkgroep Bevolkingsonderzoek, een beslissing over het al dan niet organiseren van een bevolkingsonderzoek namens de Vlaamse Regering, eventueel aangepast aan de voorwaarden of beperkingen, vermeld in artikel 15, tweede lid.<br>
+<br>
+Bij een gunstige beslissing neemt de minister de nodige initiatieven om de bepalingen, vermeld in artikel 5, uit te voeren.<br>
+<br>
+De minister maakt het organiseren van bevolkingsonderzoek namens de Vlaamse Regering, en het advies van de Vlaamse werkgroep Bevolkingsonderzoek daarover, kenbaar op de website van de administratie.<br>
+<br>
+§ 2. Als de Vlaamse werkgroep Bevolkingsonderzoek binnen de termijn, vermeld in artikel 15, derde lid, geen advies heeft uitgebracht, is de voorwaarde, vermeld in artikel 4, 5°, niet meer van toepassing.
 
 ## Afdeling II. Procedures voor bevolkingsonderzoek waarvoor een toestemming is vereist
 
 ### ART. 17.
 
-§1. Een aanvraag voor toestemming voor bevolkingsonderzoek wordt door de   aanvrager ingediend bij de minister, op het adres van het secretariaat van de   Vlaamse werkgroep Bevolkingsonderzoek, minstens zes maanden voor de geplande   aanvang van het bevolkingsonderzoek, tenzij een kortere termijn wordt   gemotiveerd. Die motivering moet worden aanvaard door de voorzitter van de   werkgroep.<BR><BR>De aanvraag moet minstens de gegevens bevatten om de Vlaamse   werkgroep Bevolkingsonderzoek toe te laten de aanvraag te toetsen aan de   bepalingen van artikel 31, § 2, tweede lid, van het decreet van 21 november   2003, en van artikel 2, artikel 7, § 2, van dit besluit, en een advies te   verstrekken, na beoordeling volgens de voorwaarden van artikel 7, § 2 en de   criteria, vermeld in artikel 11.<BR><BR>Het secretariaat van de Vlaamse   werkgroep Bevolkingsonderzoek stuurt een ontvangstmelding naar de   aanvrager.<BR><BR>§ 2. Een aanvraag voor toestemming mag verwijzen naar gegevens   uit bevolkingsonderzoek waarvoor al toestemming is verleend of uit   bevolkingsonderzoek namens de Vlaamse Regering.<BR><BR>§ 3. De minister kan   nadere regels bepalen met betrekking tot de inhoud en de vorm van de aanvraag   voor toestemming, en voor de wijze waarop die wordt bezorgd aan het   agentschap.
+§1. Een aanvraag voor toestemming voor bevolkingsonderzoek wordt door de aanvrager ingediend bij de minister, op het adres van het secretariaat van de Vlaamse werkgroep Bevolkingsonderzoek, minstens zes maanden voor de geplande aanvang van het bevolkingsonderzoek, tenzij een kortere termijn wordt gemotiveerd. Die motivering moet worden aanvaard door de voorzitter van de werkgroep.<br>
+<br>
+De aanvraag moet minstens de gegevens bevatten om de Vlaamse werkgroep Bevolkingsonderzoek toe te laten de aanvraag te toetsen aan de bepalingen van artikel 31, § 2, tweede lid, van het decreet van 21 november 2003, en van artikel 2, artikel 7, § 2, van dit besluit, en een advies te verstrekken, na beoordeling volgens de voorwaarden van artikel 7, § 2 en de criteria, vermeld in artikel 11.<br>
+<br>
+Het secretariaat van de Vlaamse werkgroep Bevolkingsonderzoek stuurt een ontvangstmelding naar de aanvrager.<br>
+<br>
+§ 2. Een aanvraag voor toestemming mag verwijzen naar gegevens uit bevolkingsonderzoek waarvoor al toestemming is verleend of uit bevolkingsonderzoek namens de Vlaamse Regering.<br>
+<br>
+§ 3. De minister kan nadere regels bepalen met betrekking tot de inhoud en de vorm van de aanvraag voor toestemming, en voor de wijze waarop die wordt bezorgd aan de administratie.
 
 ### ART. 18.
 
-Het agentschap stelt een aanvraagdossier samen en bezorgt het aan de Vlaamse werkgroep Bevolkingsonderzoek.
+De administratie stelt een aanvraagdossier samen en bezorgt het aan de Vlaamse werkgroep Bevolkingsonderzoek.
 
 ### ART. 19.
 
@@ -166,11 +216,19 @@ De Vlaamse werkgroep Bevolkingsonderzoek bezorgt, na beoordeling, een   advies a
 
 ### ART. 22.
 
-§ 1. De minister neemt, na advies van de Vlaamse werkgroep   Bevolkingsonderzoek, een beslissing over het al dan niet verlenen van een   toestemming voor het bevolkingsonderzoek.<BR><BR>In voorkomend geval bepaalt de   minister bij het verlenen van een toestemming de daaraan verbonden voorwaarden   en beperkingen, vermeld in artikel 7, § 3.<BR><BR>De beslissing van de minister,   eventuele voorwaarden en beperkingen die door de minister worden bepaald en het   advies van de Vlaamse werkgroep Bevolkingsonderzoek worden meegedeeld aan de   aanvrager en worden minstens kenbaar gemaakt op de website van het   agentschap.<BR><BR>§ 2. De beslissing over het verlenen van de toestemming wordt   genomen uiterlijk vijf maanden na de datum van de ontvangstmelding van de   aanvraag.<BR><BR>De termijn, vermeld in het eerste lid, wordt in voorkomend   geval opgeschort tot de Vlaamse werkgroep Bevolkingsonderzoek in het bezit is   van de gegevens, vermeld in artikel 20.
+§ 1. De minister neemt, na advies van de Vlaamse werkgroep Bevolkingsonderzoek, een beslissing over het al dan niet verlenen van een toestemming voor het bevolkingsonderzoek.<br>
+<br>
+In voorkomend geval bepaalt de minister bij het verlenen van een toestemming de daaraan verbonden voorwaarden en beperkingen, vermeld in artikel 7, § 3.<br>
+<br>
+De beslissing van de minister, eventuele voorwaarden en beperkingen die door de minister worden bepaald en het advies van de Vlaamse werkgroep Bevolkingsonderzoek worden meegedeeld aan de aanvrager en worden minstens kenbaar gemaakt op de website van de administratie.<br>
+<br>
+§ 2. De beslissing over het verlenen van de toestemming wordt genomen uiterlijk vijf maanden na de datum van de ontvangstmelding van de aanvraag.<br>
+<br>
+De termijn, vermeld in het eerste lid, wordt in voorkomend geval opgeschort tot de Vlaamse werkgroep Bevolkingsonderzoek in het bezit is van de gegevens, vermeld in artikel 20.
 
 ### ART. 23.
 
-De verantwoordelijke voor het organiseren van een bevolkingsonderzoek waarvoor de minister toestemming heeft verleend, meldt elke wijziging in of stopzetting van dat bevolkingsonderzoek onmiddellijk aan het agentschap.
+De verantwoordelijke voor het organiseren van een bevolkingsonderzoek waarvoor de minister toestemming heeft verleend, meldt elke wijziging in of stopzetting van dat bevolkingsonderzoek onmiddellijk aan de administratie.
 
 ### ART. 24.
 
@@ -184,7 +242,7 @@ De minister kan, na advies van de Vlaamse werkgroep Bevolkingsonderzoek, een toe
 
 ### ART. 26.
 
-De intrekking van de toestemming voor bevolkingsonderzoek en in voorkomend geval het advies van de Vlaamse werkgroep Bevolkingsonderzoek daarover, worden door het agentschap meegedeeld aan de verantwoordelijke voor het organiseren van het bevolkingsonderzoek en worden minstens vermeld op de website van het agentschap.
+De intrekking van de toestemming voor bevolkingsonderzoek en in voorkomend geval het advies van de Vlaamse werkgroep Bevolkingsonderzoek daarover, worden door de administratie meegedeeld aan de verantwoordelijke voor het organiseren van het bevolkingsonderzoek en worden minstens vermeld op de website van de administratie.
 
 ### ART. 27.
 
@@ -194,7 +252,11 @@ De minister kan, na advies van de Vlaamse werkgroep Bevolkingsonderzoek, bevolki
 
 ### ART. 28.
 
-§ 1. In geval van het niet-naleven van de bepaling in artikel 31, § 2, van   het decreet van 21 november 2003 of als artikel 76, § 1, 1°, van het voormelde   decreet, van toepassing is, kan de administrateur-generaal een administratieve   geldboete opleggen aan iedereen die een bevolkingsonderzoek promoot, aanbiedt,   oplegt, organiseert, uitvoert, financiert of eraan meewerkt.<BR><BR>§ 2. Het   bedrag van de administratieve geldboete, vermeld in artikel 76, § 2, van het   decreet van 21 november 2003, wordt door de administrateur-generaal van het   agentschap soeverein bepaald en opgelegd, rekening houdend met de ernst van de   inbreuk op de bepalingen, vermeld in § 1.<BR><BR>§ 3. Het horen van de   betrokkene, vermeld in artikel 76, § 3, 3°, van het decreet van 21 november   2003, gebeurt door de administrateur-generaal van het agentschap. Elke   betrokkene kan zich laten bijstaan door een raadsman.
+§ 1. In geval van het niet-naleven van de bepaling in artikel 31, § 2, van het decreet van 21 november 2003 of als artikel 76, § 1, 1°, van het voormelde decreet, van toepassing is, kan de secretaris-generaal een administratieve geldboete opleggen aan iedereen die een bevolkingsonderzoek promoot, aanbiedt, oplegt, organiseert, uitvoert, financiert of eraan meewerkt.<br>
+<br>
+§ 2. Het bedrag van de administratieve geldboete, vermeld in artikel 76, § 2, van het decreet van 21 november 2003, wordt door de secretaris-generaal soeverein bepaald en opgelegd, rekening houdend met de ernst van de inbreuk op de bepalingen, vermeld in § 1.<br>
+<br>
+§ 3. Het horen van de betrokkene, vermeld in artikel 76, § 3, 3°, van het decreet van 21 november 2003, gebeurt door de secretaris-generaal. Elke betrokkene kan zich laten bijstaan door een raadsman.
 
 ## HOOFDSTUK VIII. Overgangsbepalingen
 
