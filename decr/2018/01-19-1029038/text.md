@@ -73,7 +73,7 @@ De inspecteurs en de deskundigen, vermeld in artikel 7, § 1, 7°, bewaren het v
 <br>
 De inspecteurs en de deskundigen, vermeld in artikel 7, § 1, 7°, bewaren andere informatie die zij bij de uitoefening van hun opdracht verwerken tot 3 jaar nadat het verslag definitief is geworden.<br>
 <br>
-§ 4. Het Departement Welzijn, Volksgezondheid en Gezin is de verwerkingsverantwoordelijke voor de persoonsgegevens die inspecteurs bij de uitoefening van hun opdracht verwerken.
+§ 4. Het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie is de verwerkingsverantwoordelijke voor de persoonsgegevens die inspecteurs bij de uitoefening van hun opdracht verwerken.
 
 ### ART 6.
 
