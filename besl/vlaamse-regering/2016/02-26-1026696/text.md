@@ -336,7 +336,7 @@ In afwijking van het vijfde lid hoeven de reserves die aangelegd zijn voor het s
 
 ### ART. 37.
 
-Zorginspectie   van het Departement Welzijn, Volksgezondheid en Gezin als vermeld in artikel 3,   § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006   betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de   inwerkingtreding van regelgeving tot oprichting van agentschappen in het   beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van   regelgeving met betrekking tot dat beleidsdomein, controleert in voorkomend   geval ook ter plaatse of de bepalingen, vermeld in de hoofdstukken 2 tot en met   5 van dit besluit, worden nageleefd.
+Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg, controleert in voorkomend geval ook ter plaatse of de bepalingen, vermeld in de hoofdstukken 2 tot en met 5 van dit besluit, worden nageleefd.
 
 ## HOOFDSTUK 7 Wijzigingsbepaling
 
