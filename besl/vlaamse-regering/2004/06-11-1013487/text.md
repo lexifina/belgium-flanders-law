@@ -5,9 +5,9 @@
 ### ART. 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° Agentschap Zorg en Gezondheid : het Agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd Agentschap "Zorg en Gezondheid;<br>
+1° Departement Zorg: het departement, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 1° /0 beheerder : de natuurlijke of rechtspersoon die een publiek toegankelijk gebouw of delen ervan functioneel openstelt voor het publiek;<br>
-1° /1 bevoegde dienst : de personeelsleden van het Agentschap Zorg en Gezondheid die ervoor bevoegd zijn een gezonde leefstijl te bevorderen en ziektes en aandoeningen die gerelateerd zijn aan het milieu, te voorkomen;<br>
+1° /1 bevoegde dienst : de personeelsleden van het Departement Zorg die ervoor bevoegd zijn een gezonde leefstijl te bevorderen en ziektes en aandoeningen die gerelateerd zijn aan het milieu, te voorkomen;<br>
 2° binnenmilieu : de omgeving binnen in woningen en publiek toegankelijke gebouwen die bepaald wordt door chemische, fysische of biotische factoren;<br>
 3° biotische factoren in het binnenmilieu:<br>
 a) micro-organismen, zijnde al dan niet cellulaire microbiologische entiteiten, met het vermogen tot replicatie of overdracht van genetisch materiaal;<br>
@@ -45,7 +45,7 @@ Onverminderd de bepalingen van de Vlaamse Codex Wonen van 2021, mag het binnenmi
 <br>
 Bij de beoordeling van die vereiste wordt onder meer rekening gehouden met de richtwaarden, de interventiewaarden en andere bepalingen, in de bijlage bij dit besluit.<br>
 <br>
-De Vlaamse Regering kan, op basis van wetenschappelijke gegevens, de bijlage vervolledigen of aanpassen, na het advies te hebben ingewonnen van het Agentschap Zorg en Gezondheid.
+De Vlaamse Regering kan, op basis van wetenschappelijke gegevens, de bijlage vervolledigen of aanpassen, na het advies te hebben ingewonnen van het Departement Zorg.
 
 ## HOOFDSTUK III BEVOEGDHEDEN
 
@@ -59,7 +59,7 @@ Ter uitvoering van artikel 30, § 2, van het decreet, worden de Logo's belast me
 <br>
 Daartoe organiseren zij een dienstverlening die het mogelijk maakt om inwoningen en in publiek toegankelijke gebouwen een onderzoek in te stellen.<br>
 <br>
-§ 2. De medisch milieukundigen bij de Logo's en de bevoegde dienst informeren, op specifiek verzoek of op eigen initiatief, de gezondheidswerkers en de burgers, en andere groepen of personen als de medisch milieukundigen bij de Logo's en het Agentschap Zorg en Gezondheid oordelen dat die er baat bij hebben,&nbsp; over de gezondheidsrisico's die verbonden zijn aan vormen van vervuiling die aanwezig zijn in woningen of in publiek toegankelijke gebouwen.<br>
+§ 2. De medisch milieukundigen bij de Logo's en de bevoegde dienst informeren, op specifiek verzoek of op eigen initiatief, de gezondheidswerkers en de burgers, en andere groepen of personen als de medisch milieukundigen bij de Logo's en het&nbsp;Departement Zorg oordelen dat die er baat bij hebben,&nbsp; over de gezondheidsrisico's die verbonden zijn aan vormen van vervuiling die aanwezig zijn in woningen of in publiek toegankelijke gebouwen.<br>
 <br>
 Zij verstrekken gerichte adviezen over het gezondheidsrisico van een onderzochte woning of van een publiek toegankelijk gebouw of van onderdelen ervan.<br>
 <br>

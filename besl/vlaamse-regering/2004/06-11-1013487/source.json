@@ -2,16 +2,16 @@
   "codex_id": 1013487,
   "title": "Besluit van de Vlaamse Regering van 2004-06-11 houdende maatregelen tot bestrijding van de gezondheidsrisico's door verontreiniging van het binnenmilieu (citeeropschrift: \"het Binnenmilieubesluit\")",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013487/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "7f657331838cacf153452eaa055cd69b1aa94682e25d4f89fe8e31a85938dda6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013487/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "8cede124c6e2074852eb3f9cf756044634c960cec174371043fe74b89145b9d8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013487&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2023-06-01",
   "made": "2004-06-11",
   "gazette": "2004-10-19",
   "numac": 2004036561,
   "document_start": "2004-10-01",
   "document_end": null,
-  "in_force": "2021-01-01",
+  "in_force": "2023-06-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
