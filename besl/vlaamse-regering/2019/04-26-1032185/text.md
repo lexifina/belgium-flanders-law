@@ -31,7 +31,7 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder :<br>
-1° agentschap : het agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+1° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 2° locoregionaal klinisch ziekenhuisnetwerk: een door de Vlaamse gemeenschap erkende duurzame en juridisch geformaliseerde samenwerking met rechtspersoonlijkheid tussen minstens twee op het ogenblik van de oprichting van het locoregionale klinische ziekenhuisnetwerk afzonderlijk erkende niet-psychiatrische ziekenhuizen, uitgezonderd ziekenhuizen die enkel beschikken over psychiatrische ziekenhuisdiensten (kenletter A, T of K) samen met gespecialiseerde diensten voor behandeling en revalidatie (kenletter Sp) of een dienst voor geriatrie (kenletter G), die zich binnen een geografisch aansluitend gebied bevinden en die complementair en rationeel locoregionale zorgopdrachten aanbieden. De locoregionale klinische ziekenhuisnetwerken met ziekenhuizen binnen de grootstedelijke gebieden, zoals afgebakend in een gewestelijk ruimtelijk uitvoeringsplan, hoeven niet geografisch aaneensluitend zijn, wat betreft het deel van het netwerk dat binnen dezelfde grootstedelijke gebieden ligt;<br>
 3° locoregionale zorgopdrachten : de zorgopdrachten die elk locoregionaal klinisch ziekenhuisnetwerk aanbiedt;<br>
 4° minister : de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
@@ -101,7 +101,7 @@ Het regionale zorgstrategische plan omvat de aspecten, vermeld in artikel 2, ove
 
 ### ART 8.
 
-Het locoregionale klinische ziekenhuisnetwerk dient de volgende documenten in bij het agentschap om de goedkeuring van het regionale zorgstrategische plan te verkrijgen :<br>
+Het locoregionale klinische ziekenhuisnetwerk dient de volgende documenten in bij de administratie om de goedkeuring van het regionale zorgstrategische plan te verkrijgen :<br>
 1° een aanvraag tot goedkeuring van het regionale zorgstrategische plan;<br>
 2° het regionale zorgstrategische plan;<br>
 3° van elk ziekenhuis van het locoregionale klinische ziekenhuisnetwerk : het bewijs van goedkeuring van de aanvraag van het regionale zorgstrategische plan;<br>
@@ -129,7 +129,7 @@ Het thematische zorgstrategische plan kan worden opgesteld door een locoregionaa
 
 ### ART 13.
 
-Het locoregionale klinische ziekenhuisnetwerk of samenwerkingsverband rond een supraregionale zorgopdracht dient de volgende documenten in bij het agentschap om de goedkeuring van een thematisch zorgstrategisch plan te verkrijgen :<br>
+Het locoregionale klinische ziekenhuisnetwerk of samenwerkingsverband rond een supraregionale zorgopdracht dient de volgende documenten in bij de administratie om de goedkeuring van een thematisch zorgstrategisch plan te verkrijgen :<br>
 1° een aanvraag tot goedkeuring van een thematisch zorgstrategisch plan;<br>
 2° het thematische zorgstrategische plan;<br>
 3° de bewijzen van goedkeuring van de aanvraag van het thematische zorgstrategische plan door elk deelnemend ziekenhuis;<br>
@@ -166,7 +166,7 @@ Voor het zorgaanbod dat niet gedekt is door het regionale of thematische zorgstr
 
 ### ART 16.
 
-Het ziekenhuis dient de volgende documenten in bij het agentschap om de goedkeuring van het individuele zorgstrategische plan te verkrijgen :<br>
+Het ziekenhuis dient de volgende documenten in bij de administratie om de goedkeuring van het individuele zorgstrategische plan te verkrijgen :<br>
 1° een aanvraag tot goedkeuring van een individueel zorgstrategisch plan;<br>
 2° het individuele zorgstrategische plan;<br>
 3° als het ziekenhuis deel uitmaakt van een locoregionaal klinisch ziekenhuisnetwerk: een advies van de ziekenhuizen die deel uitmaken van het locoregionale klinische ziekenhuisnetwerk waartoe het behoort..
