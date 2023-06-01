@@ -74,20 +74,20 @@
 
 ### ART 10.
 
-<span style="color: rgb(0, 0, 0);">Elke dienst die gebruik maakt van de BelRAI screener moet de gegevens elektronisch doorsturen naar de BelRAI - databank met het oog op:</span><br>
-<span style="color: rgb(0, 0, 0);">1° het hergebruiken van administratieve data en data over de zorgbehoevendheid door de bevoegde personen van:</span><br>
-<span style="color: rgb(0, 0, 0);">a) het agentschap Zorg en Gezondheid;</span><br>
-<span style="color: rgb(0, 0, 0);">b) de diensten voor gezinszorg en aanvullende thuiszorg;</span><br>
-<span style="color: rgb(0, 0, 0);">c) de diensten voor logistieke hulp;</span><br>
-<span style="color: rgb(0, 0, 0);">d) de diensten voor maatschappelijk werk van het ziekenfonds;</span><br>
-<span style="color: rgb(0, 0, 0);">e) de dagverzorgingscentra;</span><br>
-<span style="color: rgb(0, 0, 0);">f) de centra voor kortverblijf;</span><br>
-<span style="color: rgb(0, 0, 0);">g) de woonzorgcentra;</span><br>
-<span style="color: rgb(0, 0, 0);">h) de openbare centra voor maatschappelijk welzijn.</span><br>
-<span style="color: rgb(0, 0, 0);">2° het op een gestandaardiseerde en gestructureerde manier in kaart brengen van de zorgtoestand en het welzijn van personen met een zorgbehoefte, zodat een beter zorgplan en kwaliteitscontrole gefaciliteerd wordt;</span><br>
-<span style="color: rgb(0, 0, 0);">3° het toekennen van een tegemoetkoming of een korting op bepaalde diensten in functie van de zorgbehoevendheid.</span><br>
+Elke dienst die gebruik maakt van de BelRAI screener moet de gegevens elektronisch doorsturen naar de BelRAI - databank met het oog op:<br>
+1° het hergebruiken van administratieve data en data over de zorgbehoevendheid door de bevoegde personen van:<br>
+a) het Departement Zorg;<br>
+b) de diensten voor gezinszorg en aanvullende thuiszorg;<br>
+c) de diensten voor logistieke hulp;<br>
+d) de diensten voor maatschappelijk werk van het ziekenfonds;<br>
+e) de dagverzorgingscentra;<br>
+f) de centra voor kortverblijf;<br>
+g) de woonzorgcentra;<br>
+h) de openbare centra voor maatschappelijk welzijn.<br>
+2° het op een gestandaardiseerde en gestructureerde manier in kaart brengen van de zorgtoestand en het welzijn van personen met een zorgbehoefte, zodat een beter zorgplan en kwaliteitscontrole gefaciliteerd wordt;<br>
+3° het toekennen van een tegemoetkoming of een korting op bepaalde diensten in functie van de zorgbehoevendheid.<br>
 <br>
-<span style="color: rgb(0, 0, 0);">De personen met een zorgbehoefte worden ingelicht en geven hun toestemming dat hun gegevens automatisch doorgestuurd worden naar de BelRAI-databank, waar zij hergebruikt kunnen worden door de diensten en met de finaliteit vermeld in het eerste lid. Dat gebeurt volgens de richtlijnen die het agentschap Zorg en Gezondheid ter beschikking heeft gesteld. De dienst is verantwoordelijk voor het veiligheidsbeleid bij het doorsturen van de gegevens."</span><br>
+De personen met een zorgbehoefte worden ingelicht en geven hun toestemming dat hun gegevens automatisch doorgestuurd worden naar de BelRAI-databank, waar zij hergebruikt kunnen worden door de diensten en met de finaliteit vermeld in het eerste lid. Dat gebeurt volgens de richtlijnen die het Departement Zorg ter beschikking heeft gesteld. De dienst is verantwoordelijk voor het veiligheidsbeleid bij het doorsturen van de gegevens."<br>
 &nbsp;
 
 ### ART 11.
