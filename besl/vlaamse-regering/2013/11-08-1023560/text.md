@@ -279,7 +279,9 @@ Een dienst waarvan de sluiting is bevolen of waarvan de vergunning is   ingetrok
 
 ### ART. 47.
 
-Het agentschap en Zorginspectie van het Departement Welzijn,   Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit   van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn,   Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot   oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en   Gezin en betreffende de wijziging van regelgeving met betrekking tot dat   beleidsdomein, oefenen het toezicht uit op de naleving door de diensten voor   pleegzorg van de bepalingen van : <BR>1° het decreet van 29 juni 2012 en de   uitvoeringsbesluiten ervan;<BR>2° het decreet van 17 oktober 2003 betreffende de   kwaliteit van de gezondheids- en welzijnsvoorzieningen en de   uitvoeringsbesluiten ervan.<BR>
+Het agentschap en Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg, oefenen het toezicht uit op de naleving door de diensten voor pleegzorg van de bepalingen van :<br>
+1° het decreet van 29 juni 2012 en de uitvoeringsbesluiten ervan;<br>
+2° het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen en de uitvoeringsbesluiten ervan.
 
 ### ART. 48.
 
