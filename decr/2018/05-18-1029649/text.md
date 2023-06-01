@@ -213,7 +213,7 @@ Het agentschap voert de taken, vermeld in artikel 11 en 12, uit, in samenhang me
 
 ### ART 14.
 
-De Vlaamse Regering regelt de werking en het beheer van het agentschap. In afwijking van artikel 6, § 3, van het kaderdecreet kan ze het hoofd van een intern verzelfstandigd agentschap van het beleidsdomein met de algemene leiding, de werking en de vertegenwoordiging van het agentschap belasten. In voorkomend geval zal het ondernemingsplan, vermeld in artikel 5/1 van het kaderdecreet, deel uitmaken van het ondernemingsplan van het intern verzelfstandigd agentschap dat het agentschap beheert.
+De Vlaamse Regering regelt de werking en het beheer van het agentschap. In afwijking van artikel 6, § 3, van het kaderdecreet kan ze het hoofd van&nbsp;het departement van het beleidsdomein met de algemene leiding, de werking en de vertegenwoordiging van het agentschap belasten. In voorkomend geval zal het ondernemingsplan, vermeld in artikel 5/1 van het kaderdecreet, deel uitmaken van het ondernemingsplan van het departement dat het agentschap beheert.
 
 ## Afdeling 4. Financiering en reservefonds
 
