@@ -2,16 +2,16 @@
   "codex_id": 1032329,
   "title": "Ministerieel besluit van 2019-04-08 tot uitvoering van artikel 48/10 van bijlage XII bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers betreffende de opleiding voor coördinerend en raadgevend artsen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032329/VolledigDocument?datum=2019-10-21",
-  "source_sha256": "0b9c40076e2cc5bff1b996a490e8f68250465ea4ebbed761b09573cfafb7f38e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032329/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "a6e488ce1e9b021307b03b3318206a668c49fbf044d7ee2fcfc3a914574373ac",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032329&param=informatie",
-  "as_of": "2019-10-21",
+  "as_of": "2023-06-01",
   "made": "2019-04-08",
   "gazette": "2019-10-11",
   "numac": 2019014870,
   "document_start": "2019-10-21",
   "document_end": null,
-  "in_force": "2019-10-21",
+  "in_force": "2023-06-01",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2019-10-21; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
