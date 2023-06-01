@@ -286,7 +286,7 @@ Het agentschap volgt jaarlijks de werking van het vertrouwenscentrum kindermisha
 <br>
 Naast de controle, vermeld in het eerste lid, evalueert het agentschap minstens om de vijf jaar de naleving van de erkenningsvoorwaarden en de aanwending van de toegekende subsidie door het vertrouwenscentrum kindermishandeling en de partnerorganisatie. Die evaluatie wordt minstens gedaan op basis van de rapportage, vermeld in artikel 21, en op basis van de bevindingen van Zorginspectie. Het agentschap kan daarnaast aan het vertrouwenscentrum kindermishandeling of de partnerorganisatie alle stukken opvragen die met de erkenningsvoorwaarden en de aanwending van de toegekende subsidie verband houden.<br>
 <br>
-In het tweede lid wordt verstaan onder Zorginspectie: Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.<br>
+In het tweede lid wordt verstaan onder Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.<br>
 <br>
 Het agentschap bespreekt het resultaat van de evaluatie, vermeld in het tweede lid, met het vertrouwenscentrum kindermishandeling of de partnerorganisatie. Op basis van die bespreking kan het agentschap in voorkomend geval gebruikmaken van een van de handhavingsinstrumenten, vermeld in afdeling 2.
 
