@@ -86,6 +86,65 @@ De gewichten per eenheid worden vermenigvuldigd met de correctiecoëfficiënt, v
 <br>
 De correctiecoëfficiënt is gelijk aan het getal dat wordt bekomen door het bedrag, vermeld in artikel 5, eerste lid, van het besluit van 19 maart 2021, te delen door de totale som van de gewichten per eenheid, berekend aan de hand van het totaal van de ingediende eenheden die in aanmerking komen voor subsidie.
 
+### ART 2/1.
+
+Ter uitvoering van artikel 5/1 van het besluit van 19 maart 2021 wordt het bedrag, vermeld in artikel 5/1, eerste lid, van het voormelde besluit, verdeeld op basis van de volgende gewichten per eenheid:<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:187px">modaliteit</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:182px">gewicht per eenheid</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:187px">honden</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:182px">10</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:187px">katten</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:182px">8</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:187px">Konijnen en knaagdieren</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:182px">3</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:187px">pluimvee</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:182px">1</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:187px">vogels</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:182px">1</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:187px">paarden, pony’s, ezels en runderen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:182px">25</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:187px">geiten, schapen en varkens</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:182px">15</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:187px">reptielen en amfibieën</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:182px">4</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:187px">vissen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:182px">1</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:187px">andere dieren</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:182px">Gewicht wordt bepaald door de dienst op basis van het gewicht voor gelijkaardige diersoorten.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Dieren die met toepassing van artikel 42, §2, van de wet van 14 augustus 1986, in volle eigendom zijn gegeven aan het erkende dierenasiel krijgen een waarde van 150% van het gewicht per eenheid van de diersoort in kwestie, vermeld in het eerste lid.&nbsp;<br>
+<br>
+De gewichten per eenheid, vermeld in het eerste en tweede lid, worden vermenigvuldigd met de correctiecoëfficiënt, vermeld in het vierde lid, waardoor het bedrag wordt verkregen dat kan worden uitgekeerd per eenheid.<br>
+<br>
+De correctiecoëfficiënt is gelijk aan het getal dat wordt verkregen door het bedrag, vermeld in artikel 5/1, eerste lid, van het besluit van 19 maart 2021, te delen door de totale som van de gewichten per eenheid, die wordt berekend aan de hand van het totaal van de ingediende eenheden die in aanmerking komen voor subsidie.
+
 ### ART 3.
 
 Het erkende dierenasiel kan conform artikel 8, § 1, van het besluit van 19 maart 2021 aanspraak maken op de volgende vergoedingen:<br>
@@ -98,7 +157,8 @@ a) zoogdieren:<br>
 5) (hangbuik)varken: 10 euro;<br>
 6) schaap of geit: 8 euro;<br>
 7) fret: 5 euro;<br>
-8) cavia, konijn of knaagdier: een vergoeding die wordt bepaald op basis van het intervalsysteem, rubriek `kleine zoogdieren', vermeld in de bijlage die bij dit besluit is gevoegd;<br>
+7)/1 konijn: 3 euro;<br>
+8) cavia of knaagdier: een vergoeding die wordt bepaald op basis van het intervalsysteem, rubriek `kleine zoogdieren', vermeld in de bijlage die bij dit besluit is gevoegd;<br>
 9) Voor zoogdieren die niet voorkomen in het punt 1) tot en met 8): een vergoeding die wordt bepaald op basis van het intervalsysteem dat is opgenomen in de bijlage die bij dit besluit is gevoegd;<br>
 b) vogels: een vergoeding die wordt bepaald op basis van het intervalsysteem dat is opgenomen in de bijlage die bij dit besluit is gevoegd;<br>
 c) reptielen: een vergoeding die wordt bepaald op basis van het intervalsysteem dat is opgenomen in de bijlage die bij dit besluit is gevoegd;<br>
@@ -108,7 +168,24 @@ Jonge dieren die nog niet gespeend zijn en samen met het moederdier opgevangen w
 2° de volgende transportvergoeding voor het ophalen van dieren:<br>
 a) standaardtarief: 40 euro per rit (heen en terug). Als de afstand tot de inbeslagname enkele rit meer dan 25 km bedraagt, kan een extra vergoeding van 0,8 euro per bijkomende kilometer ontvangen worden;<br>
 b) tarief voor rit met vrachtwagen of trailer (paard, pony, ezel of rund): 80 euro per rit (heen en terug). Als de afstand tot de inbeslagname enkele rit meer dan 25 km bedraagt, kan een extra vergoeding van 1,2 euro per bijkomende kilometer ontvangen worden;<br>
-c) afwijkend transport met inbegrip van meermaals heen en weer rijden kan alleen gefactureerd worden als dat afdoend wordt verantwoord.
+c) afwijkend transport met inbegrip van meermaals heen en weer rijden kan alleen gefactureerd worden als dat afdoend wordt verantwoord;<br>
+3° de&nbsp;&nbsp; &nbsp; volgende forfaitaire vergoeding voor de kosten verbonden aan de kattensterilisatie:<br>
+a) castratie van een kater: 30,00 euro;<br>
+b) sterilisatie van een kattin: 70,00 euro;<br>
+4° de volgende forfaitaire vergoeding voor de kosten verbonden aan de identificatie en registratie;<br>
+a) identificatie:<br>
+1) van een hond, kat, paard of ezel: 6,00 euro;<br>
+2) van een kleine herkauwer: 2,50 euro;<br>
+b) registratie:&nbsp;<br>
+1) van een hond: het bedrag, vermeld in artikel 1, 2°, van het ministerieel besluit van 25 april 2014 betreffende de identificatie en registratie van honden;<br>
+2) van een kat: het bedrag, vermeld in artikel 1 van het ministerieel besluit van 13 oktober 2017 betreffende de identificatie en registratie van katten;<br>
+3) van een paard, pony of ezel: het bedrag bepaald &nbsp;in toepassing van artikel 37 van het koninklijk besluit van 7 november 2022 betreffende de voorschriften voor inrichtingen waar paardachtigen worden gehouden en de traceerbaarheid van paardachtigen;<br>
+5° de volgende forfaitaire vergoeding voor de kosten verbonden aan de vaccinatie van een hond of een kat: 40,00 euro per dier;&nbsp;<br>
+6° de volgende forfaitaire vergoeding voor de kosten verbonden aan de opmaak van een paspoort:&nbsp;<br>
+a) van een hond: 1,00 euro;<br>
+b) van een paard of ezel: 26,15 euro;<br>
+7° de volgende forfaitaire vergoeding voor de opmaak van een diergeneeskundig verslag: 35,00 euro per inbeslagname, te vermeerderen met 5 euro per schijf van 10 dieren.<br>
+&nbsp;
 
 ### ART 4.
 
