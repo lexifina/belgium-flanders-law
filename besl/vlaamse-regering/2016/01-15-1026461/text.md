@@ -8,7 +8,11 @@
 
 ### ART. 1.
 
-In   dit besluit wordt verstaan onder:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   administrateur-generaal: de leidend ambtenaar van het agentschap;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   agentschap: het agentschap Zorg en Gezondheid, opgericht bij het besluit van de   Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd   agentschap "Zorg en Gezondheid";<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   erkenningscommissie: de erkenningscommissies voor de erkenning van de bijzondere   beroepstitels en bijzondere beroepsbekwaamheden voor de beoefenaars van de   verpleegkunde en de registratie als zorgkundige.
+In dit besluit wordt verstaan onder:<br>
+1° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
+2° ...;<br>
+3° erkenningscommissie: de erkenningscommissies voor de erkenning van de bijzondere beroepstitels en bijzondere beroepsbekwaamheden voor de beoefenaars van de verpleegkunde en de registratie als zorgkundige;<br>
+4° secretaris-generaal: het hoofd van de administratie.
 
 ## HOOFDSTUK 2 De erkenningscommissies
 
@@ -16,12 +20,12 @@ In   dit besluit wordt verstaan onder:<BR   style="WHITE-SPACE: normal; WORD-SPA
 
 ### ART. 2.
 
-<p>Bij het agentschap worden de volgende erkenningscommissies opgericht:<br>
-1° één erkenningscommissie per bijzondere beroepstitel en één erkenningscommissie per bijzondere beroepsbekwaamheid, die als taak heeft om gemotiveerde adviezen te verstrekken aan het agentschap over de aanvragen om een erkenning te verkrijgen, waarbij de beoefenaar van de verpleegkunde gemachtigd wordt een bijzondere beroepstitel te dragen of zich te beroepen op een bijzondere bekwaamheid als vermeld in artikel 88 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015;<br>
+<p>Bij de administratie worden de volgende erkenningscommissies opgericht:<br>
+1° één erkenningscommissie per bijzondere beroepstitel en één erkenningscommissie per bijzondere beroepsbekwaamheid, die als taak heeft om gemotiveerde adviezen te verstrekken aan de administratie over de aanvragen om een erkenning te verkrijgen, waarbij de beoefenaar van de verpleegkunde gemachtigd wordt een bijzondere beroepstitel te dragen of zich te beroepen op een bijzondere bekwaamheid als vermeld in artikel 88 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015;<br>
 2° in afwijking van punt 1° wordt alleen één gezamenlijke erkenningscommissie opgericht als een bijzondere beroepstitel en een bijzondere beroepsbekwaamheid voor dezelfde specialiteit voorkomen in het koninklijk besluit van 27 september 2006 houdende de lijst van bijzondere beroepstitels en bijzondere beroepsbekwaamheden voor de beoefenaars van de verpleegkunde;<br>
-3° één erkenningscommissie die als taak heeft om gemotiveerde adviezen te verstrekken aan het agentschap over de aanvragen tot registratie als zorgkundige, vermeld in artikel 56 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015.</p>
+3° één erkenningscommissie die als taak heeft om gemotiveerde adviezen te verstrekken aan de administratie over de aanvragen tot registratie als zorgkundige, vermeld in artikel 56 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015.</p>
 
-<p>De erkenningscommissies kunnen het agentschap machtigen om voor bepaalde categorieën van aanvragen een beslissing te nemen zonder daarover voorafgaandelijk het advies van de erkenningscommissies in te winnen.</p>
+<p>De erkenningscommissies kunnen de administratie machtigen om voor bepaalde categorieën van aanvragen een beslissing te nemen zonder daarover voorafgaandelijk het advies van de erkenningscommissies in te winnen.</p>
 
 ### ART. 3.
 
@@ -40,9 +44,9 @@ In   dit besluit wordt verstaan onder:<BR   style="WHITE-SPACE: normal; WORD-SPA
 
 <p>De leden van de erkenningscommissies worden voorgedragen door de beroepsverenigingen en -organisaties van de verpleegkundigen en de zorgkundigen.</p>
 
-<p>§ 2. De leden van de erkenningscommissies worden door de administrateur-generaal benoemd voor een hernieuwbare termijn van zes jaar. Ze blijven in functie tot de administrateur-generaal over de hernieuwing van hun mandaten een beslissing heeft genomen.</p>
+<p>§ 2. De leden van de erkenningscommissies worden door de secretaris-generaal benoemd voor een hernieuwbare termijn van zes jaar. Ze blijven in functie tot de secretaris-generaal over de hernieuwing van hun mandaten een beslissing heeft genomen.</p>
 
-<p>In geval van overlijden, ontslag of intrekking van een mandaat van een lid benoemt de administrateur-generaal een nieuw lid, voorgedragen door de beroepsverenigingen en -organisaties. De administrateur-generaal benoemt dat vervangende lid voor de resterende duur van het mandaat van het lid dat hij vervangt.</p>
+<p>In geval van overlijden, ontslag of intrekking van een mandaat van een lid benoemt de secretaris-generaal een nieuw lid, voorgedragen door de beroepsverenigingen en -organisaties. De secretaris-generaal benoemt dat vervangende lid voor de resterende duur van het mandaat van het lid dat hij vervangt.</p>
 
 <p>§ 3. Een lid kan in verschillende erkenningscommissies tegelijk zitten.</p>
 
@@ -50,15 +54,31 @@ In   dit besluit wordt verstaan onder:<BR   style="WHITE-SPACE: normal; WORD-SPA
 
 <p>Bij afwezigheid van de voorzitter en van de ondervoorzitter wordt de erkenningscommissie voorgezeten door het oudste lid in leeftijd.</p>
 
-<p>§ 5. De functie van secretaris van de erkenningscommissie wordt waargenomen door een personeelslid van het agentschap.</p>
+<p>§ 5. De functie van secretaris van de erkenningscommissie wordt waargenomen door een personeelslid van de administratie.</p>
 
 ### ART. 4.
 
-<P>&nbsp;§ 1. Het geheel van de voorzitters van   de erkenningscommissies vormt het voorzitterscollege. Het college kiest voor het   voorzitterschap van zijn vergaderingen uit zijn leden een voorzitter en een   ondervoorzitter.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Het voorzitterscollege stelt een huishoudelijk reglement voor de   erkenningscommissies op.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   voorzitterscollege regelt de werkzaamheden van de   erkenningscommissies.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   3. Het voorzitterscollege heeft als opdracht de problemen te bestuderen die   regelmatig worden vastgesteld bij de behandeling van de aanvragen tot erkenning   door de verschillende erkenningscommissies.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   voorzitterscollege kan een nota tot de administrateur-generaal richten met een   advies en opmerkingen over de erkenningsprocedure voor bijzondere beroepstitels   of bijzondere beroepsbekwaamheden of de registratieprocedure als zorgkundige, of   over de werking van de erkenningscommissies.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   4. De administrateur-generaal kan aan het voorzitterscollege advies vragen in   het kader van de opdracht, vermeld in paragraaf 3.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   5. De functie van secretaris van het voorzitterscollege wordt waargenomen door   een personeelslid van het agentschap.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>&nbsp;§ 1. Het geheel van de voorzitters van de erkenningscommissies vormt het voorzitterscollege. Het college kiest voor het voorzitterschap van zijn vergaderingen uit zijn leden een voorzitter en een ondervoorzitter.</p>
+
+<p>§ 2. Het voorzitterscollege stelt een huishoudelijk reglement voor de erkenningscommissies op.</p>
+
+<p>Het voorzitterscollege regelt de werkzaamheden van de erkenningscommissies.</p>
+
+<p>§ 3. Het voorzitterscollege heeft als opdracht de problemen te bestuderen die regelmatig worden vastgesteld bij de behandeling van de aanvragen tot erkenning door de verschillende erkenningscommissies.</p>
+
+<p>Het voorzitterscollege kan een nota tot de secretaris-generaal richten met een advies en opmerkingen over de erkenningsprocedure voor bijzondere beroepstitels of bijzondere beroepsbekwaamheden of de registratieprocedure als zorgkundige, of over de werking van de erkenningscommissies.</p>
+
+<p>§ 4. De secretaris-generaal kan aan het voorzitterscollege advies vragen in het kader van de opdracht, vermeld in paragraaf 3.</p>
+
+<p>§ 5. De functie van secretaris van het voorzitterscollege wordt waargenomen door een personeelslid van de administratie.</p>
 
 ### ART. 5.
 
-<P>Als   de administrateur-generaal in de onmogelijkheid verkeert om tot de benoeming van   de leden van de erkenningscommissies over te gaan omdat niet voldoende leden   worden voorgedragen door de beroepsverenigingen en -organisaties, wordt de   bevoegdheid om advies te verlenen over de aanvraag tot erkenning van de   bijzondere beroepstitels en bijzondere beroepsbekwaamheden voor de beoefenaars   van de verpleegkunde en de registratie als zorgkundige, tijdelijk toegewezen aan   het agentschap.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   agentschap kan voor de uitvoering van de adviserende bevoegdheid om het even   welk personeelslid of om het even welke expert of organisatie raadplegen of   belasten met een adviesopdracht. De uiteindelijke beslissing over het te   verlenen advies behoort toe aan het agentschap.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   tijdelijke bevoegdheid van het agentschap neemt een einde op het moment dat de   leden van de erkenningscommissie benoemd zijn.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Als de secretaris-generaal in de onmogelijkheid verkeert om tot de benoeming van de leden van de erkenningscommissies over te gaan omdat niet voldoende leden worden voorgedragen door de beroepsverenigingen en -organisaties, wordt de bevoegdheid om advies te verlenen over de aanvraag tot erkenning van de bijzondere beroepstitels en bijzondere beroepsbekwaamheden voor de beoefenaars van de verpleegkunde en de registratie als zorgkundige, tijdelijk toegewezen aan de administratie.</p>
+
+<p>de administratie kan voor de uitvoering van de adviserende bevoegdheid om het even welk personeelslid of om het even welke expert of organisatie raadplegen of belasten met een adviesopdracht. De uiteindelijke beslissing over het te verlenen advies behoort toe aan de administratie.</p>
+
+<p>De tijdelijke bevoegdheid van de administratie neemt een einde op het moment dat de leden van de erkenningscommissie benoemd zijn.</p>
 
 ## Afdeling 2 Werking
 
@@ -70,17 +90,37 @@ In   dit besluit wordt verstaan onder:<BR   style="WHITE-SPACE: normal; WORD-SPA
 
 <p>De erkenningscommissie, vermeld in artikel 2, eerste lid, 3°, houdt zitting en beraadslaagt op geldige wijze als twee leden aanwezig zijn, onder wie een lid dat over een definitieve registratie als zorgkundige beschikt.</p>
 
-<p>Als de leden niet in voldoende aantal aanwezig zijn, organiseert het agentschap een nieuwe vergadering met dezelfde agenda. De erkenningscommissie kan dan geldig vergaderen ongeacht het aantal aanwezige leden.</p>
+<p>Als de leden niet in voldoende aantal aanwezig zijn, organiseert de administratie een nieuwe vergadering met dezelfde agenda. De erkenningscommissie kan dan geldig vergaderen ongeacht het aantal aanwezige leden.</p>
 
 ### ART. 7.
 
-<P>§   1. De erkenningscommissies spreken zich uit bij meerderheid van de aanwezige   leden.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Bij   staking van stemmen is de stem van de voorzitter beslissend.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   erkenningscommissies kunnen, als ze dat nuttig achten en na akkoord van het   agentschap, een beroep doen op externe deskundigen. Die personen hebben een   raadgevende stem.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. De beraadslagingen van de erkenningscommissie, alsook het verslag ervan, zijn   geheim. De erkenningscommissie motiveert haar adviezen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. De erkenningscommissies spreken zich uit bij meerderheid van de aanwezige leden.</p>
+
+<p>Bij staking van stemmen is de stem van de voorzitter beslissend.</p>
+
+<p>De erkenningscommissies kunnen, als ze dat nuttig achten en na akkoord van de administratie, een beroep doen op externe deskundigen. Die personen hebben een raadgevende stem.</p>
+
+<p>§ 2. De beraadslagingen van de erkenningscommissie, alsook het verslag ervan, zijn geheim. De erkenningscommissie motiveert haar adviezen.</p>
 
 ## Afdeling 3 Vergoeding
 
 ### ART. 8.
 
-<P>&nbsp;§ 1. De voorzitter en de leden van de   erkenningscommissies, en de eventuele externe deskundigen, ontvangen voor hun   werkzaamheden een vergoeding per vergadering van de erkenningscommissie waarop   ze aanwezig zijn.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. De vergoeding, vermeld in paragraaf 1, bedraagt 5 euro, behalve voor de   voorzitter, aan wie een vergoeding van 7,5 euro wordt toegekend.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   vergoeding wordt voor maximaal twaalf vergaderingen, die plaatsvinden op   initiatief van het agentschap, per jaar toegekend.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Verschillende   vergaderingen van de erkenningscommissie die op dezelfde dag plaatsvinden,   gelden maar als één vergadering.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   3. De voorzitter en de leden van het voorzitterscollege ontvangen voor hun   werkzaamheden een vergoeding per vergadering van het voorzitterscollege waarop   ze aanwezig zijn.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   4. De vergoeding, vermeld in paragraaf 3, bedraagt 7,5 euro.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   vergoeding wordt voor maximaal zes vergaderingen, die plaatsvinden op initiatief   van het agentschap, per jaar toegekend.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Verschillende   vergaderingen van het voorzitterscollege die op dezelfde dag plaatsvinden,   gelden maar als één vergadering.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. De voorzitter en de leden van de erkenningscommissies, en de eventuele externe deskundigen, ontvangen voor hun werkzaamheden een vergoeding per vergadering van de erkenningscommissie waarop ze aanwezig zijn.</p>
+
+<p>§ 2. De vergoeding, vermeld in paragraaf 1, bedraagt 5 euro, behalve voor de voorzitter, aan wie een vergoeding van 7,5 euro wordt toegekend.</p>
+
+<p>De vergoeding wordt voor maximaal twaalf vergaderingen, die plaatsvinden op initiatief van de administratie, per jaar toegekend.</p>
+
+<p>Verschillende vergaderingen van de erkenningscommissie die op dezelfde dag plaatsvinden, gelden maar als één vergadering.</p>
+
+<p>§ 3. De voorzitter en de leden van het voorzitterscollege ontvangen voor hun werkzaamheden een vergoeding per vergadering van het voorzitterscollege waarop ze aanwezig zijn.</p>
+
+<p>§ 4. De vergoeding, vermeld in paragraaf 3, bedraagt 7,5 euro.</p>
+
+<p>De vergoeding wordt voor maximaal zes vergaderingen, die plaatsvinden op initiatief van de administratie, per jaar toegekend.</p>
+
+<p>Verschillende vergaderingen van het voorzitterscollege die op dezelfde dag plaatsvinden, gelden maar als één vergadering.</p>
 
 ### ART. 9.
 
@@ -92,39 +132,71 @@ De   voorzitter en de leden van de erkenningscommissies, de eventuele externe   
 
 ### ART. 10.
 
-<P>§   1. De aanvrager die erkend wil worden als houder van een bijzondere beroepstitel   of die gemachtigd wil worden om zich op een bijzondere beroepsbekwaamheid te   beroepen, dient daarvoor zijn aanvraag in bij het agentschap. Het agentschap   stelt daarvoor een aanvraagformulier ter beschikking.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   agentschap kan voor de indiening van de aanvragen, vermeld in het eerste lid,   een digitaal platform ter beschikking stellen dat het aanvraagformulier, vermeld   in het eerste lid, aanvult of vervangt.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   aanvrager voegt bij zijn aanvraag alle bewijsstukken waaruit blijkt dat de   aanvrager voldoet aan de voorwaarden die ter uitvoering van artikel 88 van de   wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op   10 mei 2015, zijn vastgesteld.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Alleen volledige dossiers worden aan de erkenningscommissie   voorgelegd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   agentschap vraagt bij de aanvrager, in geval van onvolledigheid van het dossier,   de ontbrekende documenten op. Als de aanvrager die documenten niet binnen drie   maanden na de opvraging bezorgt, kan de aanvraag administratief worden   afgesloten.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   aanvrager kan worden uitgenodigd voor de vergadering van de erkenningscommissie   waarbij hem gevraagd wordt om eventuele bijkomende inlichtingen te   verstrekken.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   een aanvrager die voor de vergadering van de erkenningscommissie is uitgenodigd,   niet aanwezig kan zijn, kan de erkenningscommissie adviseren op basis van het   dossier.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   3. Het agentschap beslist, na advies van de erkenningscommissie, over de   aanvraag van de erkenning waarbij de beoefenaar van de verpleegkunde erkend   wordt als houder van een bijzondere beroepstitel of gemachtigd wordt om zich op   een bijzondere beroepsbekwaamheid te beroepen. Het gemotiveerde advies van de   erkenningscommissie wordt bij de beslissing gevoegd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   4. Het agentschap kan met de onderwijsinstellingen afspraken maken over de   gegevensuitwisseling met betrekking tot de geslaagde studenten die een erkenning   als houder van een bijzondere beroepstitel willen of gemachtigd willen worden om   zich op een bijzondere beroepsbekwaamheid te beroepen. Als het agentschap en de   onderwijsinstellingen die gegevensuitwisseling organiseren, hoeven de aanvragers   zelf geen individuele aanvraag in te dienen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. De aanvrager die erkend wil worden als houder van een bijzondere beroepstitel of die gemachtigd wil worden om zich op een bijzondere beroepsbekwaamheid te beroepen, dient daarvoor zijn aanvraag in bij de administratie. de administratie stelt daarvoor een aanvraagformulier ter beschikking.</p>
+
+<p>De administratie kan voor de indiening van de aanvragen, vermeld in het eerste lid, een digitaal platform ter beschikking stellen dat het aanvraagformulier, vermeld in het eerste lid, aanvult of vervangt.</p>
+
+<p>De aanvrager voegt bij zijn aanvraag alle bewijsstukken waaruit blijkt dat de aanvrager voldoet aan de voorwaarden die ter uitvoering van artikel 88 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, zijn vastgesteld.</p>
+
+<p>§ 2. Alleen volledige dossiers worden aan de erkenningscommissie voorgelegd.</p>
+
+<p>De administratie vraagt bij de aanvrager, in geval van onvolledigheid van het dossier, de ontbrekende documenten op. Als de aanvrager die documenten niet binnen drie maanden na de opvraging bezorgt, kan de aanvraag administratief worden afgesloten.</p>
+
+<p>De aanvrager kan worden uitgenodigd voor de vergadering van de erkenningscommissie waarbij hem gevraagd wordt om eventuele bijkomende inlichtingen te verstrekken.</p>
+
+<p>Als een aanvrager die voor de vergadering van de erkenningscommissie is uitgenodigd, niet aanwezig kan zijn, kan de erkenningscommissie adviseren op basis van het dossier.</p>
+
+<p>§ 3. De administratie beslist, na advies van de erkenningscommissie, over de aanvraag van de erkenning waarbij de beoefenaar van de verpleegkunde erkend wordt als houder van een bijzondere beroepstitel of gemachtigd wordt om zich op een bijzondere beroepsbekwaamheid te beroepen. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.</p>
+
+<p>§ 4. De administratie kan met de onderwijsinstellingen afspraken maken over de gegevensuitwisseling met betrekking tot de geslaagde studenten die een erkenning als houder van een bijzondere beroepstitel willen of gemachtigd willen worden om zich op een bijzondere beroepsbekwaamheid te beroepen. Als de administratie en de onderwijsinstellingen die gegevensuitwisseling organiseren, hoeven de aanvragers zelf geen individuele aanvraag in te dienen.</p>
 
 ## Afdeling 2 De registratie als zorgkundige
 
 ### ART. 11.
 
-<P>§   1. De aanvrager die een registratie als zorgkundige wil verkrijgen, dient   daarvoor een aanvraag in bij het agentschap. Het agentschap stelt daarvoor een   aanvraagformulier ter beschikking.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   agentschap kan voor de indiening van de aanvragen, vermeld in het eerste lid,   een digitaal platform ter beschikking stellen dat het aanvraagformulier, vermeld   in het eerste lid, aanvult of vervangt.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   aanvrager voegt bij zijn aanvraag alle bewijsstukken waaruit blijkt dat de   aanvrager voldoet aan de voorwaarden die ter uitvoering van artikel 56 van de   wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op   10 mei 2015, zijn vastgesteld.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Alleen volledige dossiers worden aan de erkenningscommissie   voorgelegd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   agentschap vraagt bij de aanvrager, in geval van onvolledigheid van het dossier,   de ontbrekende documenten op. Als de aanvrager die documenten niet binnen drie   maanden na de opvraging bezorgt, kan de aanvraag administratief worden   afgesloten.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   aanvrager kan worden uitgenodigd voor de vergadering van de erkenningscommissie   waarbij hem gevraagd wordt om eventuele bijkomende inlichtingen te   verstrekken.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   een aanvrager die voor de vergadering van de erkenningscommissie is uitgenodigd,   niet aanwezig kan zijn, kan de erkenningscommissie adviseren op basis van het   dossier.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   3. Het agentschap beslist, na advies van de erkenningscommissie, over de   aanvraag van de registratie als zorgkundige. Het gemotiveerde advies van de   erkenningscommissie wordt bij de beslissing gevoegd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   4. Het agentschap kan met de onderwijsinstellingen afspraken maken over de   gegevensuitwisseling met betrekking tot de geslaagde studenten. Als het   agentschap en de onderwijsinstellingen die gegevensuitwisseling organiseren,   hoeven de aanvragers zelf geen individuele aanvraag in te dienen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. De aanvrager die een registratie als zorgkundige wil verkrijgen, dient daarvoor een aanvraag in bij de administratie. de administratie stelt daarvoor een aanvraagformulier ter beschikking.</p>
+
+<p>De administratie kan voor de indiening van de aanvragen, vermeld in het eerste lid, een digitaal platform ter beschikking stellen dat het aanvraagformulier, vermeld in het eerste lid, aanvult of vervangt.</p>
+
+<p>De aanvrager voegt bij zijn aanvraag alle bewijsstukken waaruit blijkt dat de aanvrager voldoet aan de voorwaarden die ter uitvoering van artikel 56 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, zijn vastgesteld.</p>
+
+<p>§ 2. Alleen volledige dossiers worden aan de erkenningscommissie voorgelegd.</p>
+
+<p>De administratie vraagt bij de aanvrager, in geval van onvolledigheid van het dossier, de ontbrekende documenten op. Als de aanvrager die documenten niet binnen drie maanden na de opvraging bezorgt, kan de aanvraag administratief worden afgesloten.</p>
+
+<p>De aanvrager kan worden uitgenodigd voor de vergadering van de erkenningscommissie waarbij hem gevraagd wordt om eventuele bijkomende inlichtingen te verstrekken.</p>
+
+<p>Als een aanvrager die voor de vergadering van de erkenningscommissie is uitgenodigd, niet aanwezig kan zijn, kan de erkenningscommissie adviseren op basis van het dossier.</p>
+
+<p>§ 3. De administratie beslist, na advies van de erkenningscommissie, over de aanvraag van de registratie als zorgkundige. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.</p>
+
+<p>§ 4. De administratie kan met de onderwijsinstellingen afspraken maken over de gegevensuitwisseling met betrekking tot de geslaagde studenten. Als de administratie en de onderwijsinstellingen die gegevensuitwisseling organiseren, hoeven de aanvragers zelf geen individuele aanvraag in te dienen.</p>
 
 ## HOOFDSTUK 4 De procedure tot heroverweging
 
 ### ART. 12.
 
-<p>§1. Als de erkenningscommissie een negatief advies geeft en het agentschap beslist om dat advies te volgen, bezorgt het agentschap een voornemen tot negatieve beslissing aan de aanvrager met een aangetekende brief.<br>
+<p>§1. Als de erkenningscommissie een negatief advies geeft en de administratie beslist om dat advies te volgen, bezorgt de administratie een voornemen tot negatieve beslissing aan de aanvrager met een aangetekende brief.<br>
 <br>
-§2. De aanvrager kan binnen dertig dagen na de de dag waarop hij het voornemen tot negatieve beslissing, vermeld in paragraaf 1, heeft ontvangen, een bezwaarnota met zijn opmerkingen bezorgen aan het agentschap.<br>
+§2. De aanvrager kan binnen dertig dagen na de de dag waarop hij het voornemen tot negatieve beslissing, vermeld in paragraaf 1, heeft ontvangen, een bezwaarnota met zijn opmerkingen bezorgen aan de administratie.<br>
 <br>
 De bezwaarnota van de aanvrager, vermeld in het eerste lid, wordt, samen met het negatieve advies en het voornemen tot negatieve beslissing, vermeld in paragraaf 1, en het aanvraagdossier, vermeld in artikel 10, §1, of artikel 11, §1, opnieuw voorgelegd aan de erkenningscommissie, die op basis van die stukken een nieuw advies uitbrengt.<br>
 <br>
-Het agentschap bezorgt zijn definitieve beslissing aan de aanvrager.<br>
+De administratie bezorgt zijn definitieve beslissing aan de aanvrager.<br>
 <br>
 §3. Als de aanvrager geen bezwaarnota indient binnen de termijn, vermeld in paragraaf 2, eerste lid, wordt het voornemen tot negatieve beslissing, vermeld in paragraaf 1, van rechtswege geacht een weigeringsbeslissing te zijn.</p>
 
 ### ART. 13.
 
-<p>§1. Als de erkenningscommissie een positief advies geeft en als het agentschap van oordeel is dat het advies van de erkenningscommissie niet gevolgd kan worden, brengt het de erkenningscommissie daarvan op de hoogte.<br>
+<p>§1. Als de erkenningscommissie een positief advies geeft en als de administratie van oordeel is dat het advies van de erkenningscommissie niet gevolgd kan worden, brengt het de erkenningscommissie daarvan op de hoogte.<br>
 <br>
-Als de erkenningscommissie na de kennisgeving, vermeld in het eerste lid, bij haar oorspronkelijke positieve advies blijft, bezorgt het agentschap een voornemen tot negatieve beslissing, samen met het positieve advies, aan de aanvrager.<br>
+Als de erkenningscommissie na de kennisgeving, vermeld in het eerste lid, bij haar oorspronkelijke positieve advies blijft, bezorgt de administratie een voornemen tot negatieve beslissing, samen met het positieve advies, aan de aanvrager.<br>
 <br>
-§2. De aanvrager kan binnen dertig dagen na de dag waarop hij het voornemen tot negatieve beslissing, vermeld in paragraaf 1, tweede lid, heeft ontvangen, een bezwaarnota met zijn opmerkingen bezorgen aan het agentschap.<br>
+§2. De aanvrager kan binnen dertig dagen na de dag waarop hij het voornemen tot negatieve beslissing, vermeld in paragraaf 1, tweede lid, heeft ontvangen, een bezwaarnota met zijn opmerkingen bezorgen aan de administratie.<br>
 <br>
 De bezwaarnota van de aanvrager, vermeld in het eerste lid, wordt, samen met het positieve advies en het voornemen tot negatieve beslissing, vermeld in paragraaf 1, en het aanvraagdossier, vermeld in artikel 10, §1, of artikel 11, §1, voorgelegd aan de Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, die op basis van die stukken een definitieve beslissing neemt over het dossier in kwestie.<br>
 <br>
-Het agentschap bezorgt de definitieve beslissing van de minister aan de aanvrager.<br>
+De administratie bezorgt de definitieve beslissing van de minister aan de aanvrager.<br>
 <br>
 §3. Als de aanvrager geen bezwaarnota indient binnen de termijn, vermeld in paragraaf 2, eerste lid, wordt het voornemen tot negatieve beslissing, vermeld in paragraaf 1, tweede lid, van rechtswege geacht een weigeringsbeslissing te zijn.</p>
 
@@ -134,15 +206,21 @@ Het agentschap bezorgt de definitieve beslissing van de minister aan de aanvrage
 
 ### ART. 14.
 
-<P>Als   de verpleegkundige niet meer aan de erkenningscriteria voldoet, kan het   agentschap de erkenning van de bijzondere beroepstitel of de bijzondere   beroepsbekwaamheid intrekken.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   agentschap kan een erkenning pas intrekken nadat het daarover het advies van de   erkenningscommissie heeft ingewonnen, en nadat het, na het advies van de   erkenningscommissie ontvangen te hebben, zijn voornemen tot intrekking aan de   verpleegkundige heeft bekendgemaakt.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   verpleegkundige van wie het agentschap de erkenning wil intrekken conform het   tweede lid, kan binnen dertig dagen na de ontvangst van het voornemen een   bezwaarnota indienen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   bezwaarnota wordt, samen met het voornemen tot intrekking, voorgelegd aan de   erkenningscommissie, die op basis van die stukken een advies uitbrengt. Na het   advies van de erkenningscommissie wordt de definitieve beslissing van het   agentschap aan de verpleegkundige bezorgd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Als de verpleegkundige niet meer aan de erkenningscriteria voldoet, kan de administratiede erkenning van de bijzondere beroepstitel of de bijzondere beroepsbekwaamheid intrekken.</p>
+
+<p>de administratiekan een erkenning pas intrekken nadat het daarover het advies van de erkenningscommissie heeft ingewonnen, en nadat het, na het advies van de erkenningscommissie ontvangen te hebben, zijn voornemen tot intrekking aan de verpleegkundige heeft bekendgemaakt.</p>
+
+<p>De verpleegkundige van wie de administratiede erkenning wil intrekken conform het tweede lid, kan binnen dertig dagen na de ontvangst van het voornemen een bezwaarnota indienen.</p>
+
+<p>De bezwaarnota wordt, samen met het voornemen tot intrekking, voorgelegd aan de erkenningscommissie, die op basis van die stukken een advies uitbrengt. Na het advies van de erkenningscommissie wordt de definitieve beslissing van de administratieaan de verpleegkundige bezorgd.</p>
 
 ### ART. 15.
 
-Als   de verpleegkundige een erkenning die conform dit besluit is verleend, niet wil   behouden, brengt hij het agentschap daarvan schriftelijk op de hoogte. Het   agentschap trekt, op basis van die uitdrukkelijke vraag van de verpleegkundige,   de erkenning in.
+Als de verpleegkundige een erkenning die conform dit besluit is verleend, niet wil behouden, brengt hij de administratie daarvan schriftelijk op de hoogte. De administratie trekt, op basis van die uitdrukkelijke vraag van de verpleegkundige, de erkenning in.
 
 ### ART. 16.
 
-De   verpleegkundige van wie de erkenning is ingetrokken conform artikel 14 of 15,   kan altijd bij het agentschap een nieuwe erkenning aanvragen. In dat geval   verloopt de erkenningsprocedure volgens de bepalingen van dit   besluit.
+De verpleegkundige van wie de erkenning is ingetrokken conform artikel 14 of 15, kan altijd bij de administratie een nieuwe erkenning aanvragen. In dat geval verloopt de erkenningsprocedure volgens de bepalingen van dit besluit.
 
 ## Afdeling 2 De intrekking van de registratie
 
@@ -158,15 +236,15 @@ De   verpleegkundige van wie de erkenning is ingetrokken conform artikel 14 of 1
 
 ### ART 17/1.
 
-Als conform artikel 11, §4, een registratie wordt afgeleverd op basis van gegevensuitwisseling met een onderwijsinstelling en achteraf blijkt dat onterecht een registratie is afgeleverd omdat de gegevens niet correct zijn, kan het agentschap de registratie in afwijking van artikel 17 intrekken. Die beslissing wordt aan de persoon in kwestie bezorgd.
+Als conform artikel 11, §4, een registratie wordt afgeleverd op basis van gegevensuitwisseling met een onderwijsinstelling en achteraf blijkt dat onterecht een registratie is afgeleverd omdat de gegevens niet correct zijn, kan de administratie de registratie in afwijking van artikel 17 intrekken. Die beslissing wordt aan de persoon in kwestie bezorgd.
 
 ### ART. 18.
 
-Als   de zorgkundige een registratie, die conform dit besluit is gegeven, niet wil   behouden, brengt hij het agentschap daarvan schriftelijk op de hoogte. Het   agentschap trekt, op basis van die uitdrukkelijke vraag van de zorgkundige, de   registratie in.
+Als de zorgkundige een registratie, die conform dit besluit is gegeven, niet wil behouden, brengt hij de administratie daarvan schriftelijk op de hoogte. De administratie trekt, op basis van die uitdrukkelijke vraag van de zorgkundige, de registratie in.
 
 ### ART. 19.
 
-De   zorgkundige van wie de registratie is ingetrokken conform artikel 17 of 18, kan   altijd bij het agentschap een nieuwe registratie aanvragen. In dat geval   verloopt de registratieprocedure volgens de bepalingen van dit   besluit.
+De zorgkundige van wie de registratie is ingetrokken conform artikel 17 of 18, kan altijd bij het agentschap een nieuwe registratie aanvragen. In dat geval verloopt de registratieprocedure volgens de bepalingen van dit besluit.
 
 ## HOOFDSTUK 6 Slotbepalingen
 
@@ -180,7 +258,9 @@ Het   koninklijk besluit van 18 april 2013 betreffende de samenstelling, de   or
 
 ### ART. 22.
 
-<P>&nbsp;Tot op het ogenblik dat de leden van de   nieuw op te richten erkenningscommissie benoemd zijn, wordt de bevoegdheid om   advies te verlenen over de aanvraag tot erkenning van de bijzondere   beroepstitels en bijzondere beroepsbekwaamheden voor de beoefenaars van de   verpleegkunde en de registratie als zorgkundige, tijdelijk toegewezen aan het   agentschap.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   agentschap kan voor de uitvoering van de adviserende bevoegdheid om het even   welk personeelslid of om het even welke expert of organisatie raadplegen of   belasten met een adviesopdracht. De uiteindelijke beslissing over het te   verlenen advies behoort toe aan het agentschap.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>&nbsp;Tot op het ogenblik dat de leden van de nieuw op te richten erkenningscommissie benoemd zijn, wordt de bevoegdheid om advies te verlenen over de aanvraag tot erkenning van de bijzondere beroepstitels en bijzondere beroepsbekwaamheden voor de beoefenaars van de verpleegkunde en de registratie als zorgkundige, tijdelijk toegewezen aan de administratie.</p>
+
+<p>de administratie kan voor de uitvoering van de adviserende bevoegdheid om het even welk personeelslid of om het even welke expert of organisatie raadplegen of belasten met een adviesopdracht. De uiteindelijke beslissing over het te verlenen advies behoort toe aan de administratie.</p>
 
 ### ART. 23.
 
