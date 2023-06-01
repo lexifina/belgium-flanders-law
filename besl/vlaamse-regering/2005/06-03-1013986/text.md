@@ -1058,14 +1058,12 @@ De aangelegenheden die bij artikel 3 tot en met 13 aan de verschillende beleidsd
 
 ### ART. 23.
 
-§ 1. Voor het beleidsdomein Welzijn, Volksgezondheid en Gezin wordt het Vlaams ministerie van Welzijn, Volksgezondheid en Gezin opgericht, dat bestaat uit het gelijknamige departement en twee agentschappen zonder rechtspersoonlijkheid :<br>
-1° Zorg en Gezondheid;<br>
-2° Jongerenwelzijn.<br>
+§ 1. Voor het beleidsdomein Welzijn, Volksgezondheid en Gezin wordt het Vlaams ministerie van Welzijn, Volksgezondheid en Gezin opgericht, dat bestaat uit het Departement Zorg en het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Opgroeien.<br>
 <br>
 § 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Welzijn, Volksgezondheid en Gezin behoren, zijn :<br>
 1° Openbaar Psychiatrisch Zorgcentrum Geel;<br>
 2° Openbaar Psychiatrisch Zorgcentrum Rekem;<br>
-3° Kind en Gezin;<br>
+3° Opgroeien regie;<br>
 4° Vlaams Agentschap voor Personen met een Handicap;<br>
 5° het Agentschap voor Vlaamse Sociale Bescherming;<br>
 6° Fonds Jongerenwelzijn;<br>
