@@ -25,11 +25,11 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-In dit hoofdstuk wordt verstaan onder agentschap: het intern verzelfstandigd agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid".
+In dit hoofdstuk wordt verstaan onder departement: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.
 
 ### ART 2.
 
-Overeenkomstig artikel 34/1, tweede lid, van het decreet van 21 december 2003 wordt het agentschap aangewezen als de verwerkingsverantwoordelijke voor de persoonsgegevens, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.
+Overeenkomstig artikel 34/1, tweede lid, van het decreet van 21 december 2003 wordt het departement aangewezen als de verwerkingsverantwoordelijke voor de persoonsgegevens, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.
 
 ### ART 3.
 
