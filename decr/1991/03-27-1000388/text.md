@@ -2509,6 +2509,28 @@ De inrichtende macht van de school voor buitengewoon onderwijs waar het personee
 §3. Onverminderd paragraaf 2, eerste lid, 1°, kan een inrichtende macht ook kandidaten toevoegen aan de lijst of lijsten, vermeld in paragraaf 2, tweede lid, 2°, en in artikel 103sexies decies, §2, 2°, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, die diensten hebben gepresteerd in een betrekking van ondersteuner vóór het schooljaar 2022-2023, in het tijdelijke project van de prewaarborgregeling of waarborgregeling of in het geïntegreerd onderwijs of het project inclusief onderwijs voor leerlingen met een verstandelijke beperking. De toevoeging van een kandidaat aan deze lijst gebeurt uitsluitend op vraag van de kandidaat zelf.<br>
 &nbsp;
 
+### ART 84triciessemel
+
+§1. Voor de personeelsleden die in het schooljaar 2022-2023 in dienst zijn als contractueel personeelslid in een functie van opvoeder en aangesteld worden in een onderwijsinternaat binnen de omkadering, vermeld in artikel 25 tot en met 28 van het decreet van 16 juni 2023 over de onderwijsinternaten, worden de diensten die ze gepresteerd hebben als contractueel personeelslid in een functie van opvoeder, beschouwd als dienstanciënniteit als vermeld in artikel 6, 23, 31 en<br>
+35. De diensten worden beschouwd alsof ze gepresteerd werden in het ambt van internaatsmedewerker in de personeelscategorie van het ondersteunend personeel in een onderwijsinternaat.<br>
+<br>
+In afwijking van het eerste lid, komen de volgende periodes niet in aanmerking voor de berekening van de dienstanciënniteit:<br>
+1° politiek verlof of politiek mandaat;<br>
+2° onbezoldigde ziektedagen;<br>
+3° verlof zonder wedde.<br>
+&nbsp;<br>
+§2. In afwijking van de bepalingen van artikel 23, §3 en §4, heeft het personeels- lid, vermeld in paragraaf 1, op 1 september 2023 recht op een tijdelijke aanstelling van doorlopende duur als het personeelslid voldoet aan de volgende voorwaarden:<br>
+1° het personeelslid wordt op 1 september 2023 aangesteld in een onderwijs- internaat binnen de omkadering, vermeld in artikel 25 tot en met 28 van het<br>
+decreet van 16 juni 2023 over de onderwijsinternaten;<br>
+2° het personeelslid heeft op 1 september 2023 een dienstanciënniteit verworven van 290 dagen;<br>
+3° het personeelslid stelt zich, om een beroep te doen op het recht op een tijdelijke aanstelling van doorlopende duur, op straffe van verlies van zijn recht voor het volgende schooljaar, voor 15 augustus 2023 kandidaat bij de inrichtende macht. Het personeelslid kan dat naar keuze doen met een aangetekende brief of op een wijze die door de inrichtende macht, na onderhandeling in het bevoegde lokaal comité, wordt vastgelegd en die, wat tegenstelbaarheid betreft, minimaal dezelfde garanties biedt als een aangetekende brief. De inrichtende macht deelt de mogelijkheden van mededeling van kandidaatstelling mee aan alle personeelsleden en maakt die ook openbaar. De kandidaatstelling geldt voor alle betrekkingen waarvoor het recht is verworven. Als de kandidatuur van het personeelslid aan alle voorwaarden voldoet, vermeld in het eerste lid, geldt die vanaf dat ogenblik als een kandidatuur voor dat ambt die over de schooljaren doorloopt.<br>
+<br>
+Voor het bepalen van de dienstanciënniteit, bedoeld in punt 2°, wordt, in afwijking van artikel 6, §1, a), het aantal gepresteerde dagen niet met 1,2 vermenigvuldigd.<br>
+<br>
+§3. In afwijking van artikel 31, §1, 1°, wordt voor het personeelslid, vermeld in paragraaf 1, voor een vaste benoeming op 1 januari 2024 de dienstanciënniteit in het ambt van internaatsmedewerker vastgesteld op 1 september 2023.<br>
+<br>
+§4. Voor de personeelsleden die in het schooljaar 2022-2023 in dienst zijn als con- tractueel personeelslid en aangesteld worden in een onderwijsinternaat binnen de omkadering, vermeld in artikel 25 tot en met 28 van het decreet van 16 juni 2023 over de onderwijsinternaten wordt de geldelijke anciënniteit die uiterlijk op 31 augustus 2023 door de inrichtende macht was toegekend aan hen als contractueel personeelslid meegenomen.
+
 ## TITEL III ANDERE BEPALINGEN
 
 ### ART. 85.
