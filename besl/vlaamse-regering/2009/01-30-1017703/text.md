@@ -10,8 +10,8 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 In dit besluit wordt verstaan onder :<br>
 1° aanvrager : de persoon of de rechtspersoon die geen winst beoogt en die een aanvraag tot erkenning als Logo indient;<br>
-2° administrateur-generaal : de leidend ambtenaar van het agentschap;<br>
-3° agentschap : het Vlaams Agentschap "Zorg en Gezondheid", opgericht bij het Besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap 'Zorg en Gezondheid';<br>
+2° ...;<br>
+3° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 4° centrum voor geestelijke gezondheidszorg : de erkende verzorgingsvoorziening die op multidisciplinaire wijze ambulante geestelijke gezondheidszorg verleent in een extramuraal kader aan personen wiens geestelijke gezondheid verstoord is, vermeld in artikel 2, 1°, van het decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg;<br>
 5° decreet van 21 november 2003 : het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid;<br>
 6° Logo : een door de Vlaamse Regering erkend samenwerkingsverband voor loco-regionaal gezondheidsoverleg en -organisatie binnen een geografisch aaneengesloten gebied als vermeld in artikel 2, 19°, van het decreet van 21 november 2003;<br>
@@ -22,7 +22,8 @@ In dit besluit wordt verstaan onder :<br>
 11° ...<br>
 12° medisch milieukundige : een medewerker van een Logo die wordt belast met taken rond milieugerelateerde gezondheid;<br>
 13° onafhankelijkheid : het kunnen innemen van een ongebonden standpunt, op basis van objectieve vaststellingen, dat louter vanuit natuur- en sociaalwetenschappelijke kennis wordt gemotiveerd;<br>
-14° Vlaams medisch milieukundig netwerk : het samenwerkingsmodel dat bestaat uit drie actieniveaus, op de eerste lijn staan de medisch milieukundigen van de Logo's, op de tweede lijn staan de afdeling Preventie van het agentschap en de afdeling Vlaams Planbureau voor Omgeving van het Departement Omgeving, op de derde lijn staan de organisaties die zorgen voor de wetenschappelijke onderbouwing van het milieugerelateerde gezondheidsbeleid.
+13°/1 secretaris-generaal: het hoofd van de administratie;<br>
+14° Vlaams medisch milieukundig netwerk : het samenwerkingsmodel dat bestaat uit drie actieniveaus, op de eerste lijn staan de medisch milieukundigen van de Logo's, op de tweede lijn staan de administratie en de afdeling Vlaams Planbureau voor Omgeving van het Departement Omgeving, op de derde lijn staan de organisaties die zorgen voor de wetenschappelijke onderbouwing van het milieugerelateerde gezondheidsbeleid.
 
 ## HOOFDSTUK II Toepassingsgebied
 
@@ -35,72 +36,88 @@ Dit besluit bepaalt de werkgebieden van de Logo's, vermeld in artikel 29 van het
 
 ### ART. 3.
 
-De administrateur-generaal erkent een Logo voor minimaal twee en maximaal drie jaar als het Logo voldoet aan de erkenningsvoorwaarden, vermeld in artikel 4.<br>
+De secretaris-generaal erkent een Logo voor minimaal twee en maximaal drie jaar als het Logo voldoet aan de erkenningsvoorwaarden, vermeld in artikel 4.<br>
 <br>
 Aan de erkenning is een subsidie verbonden volgens de bepalingen van dit besluit.<br>
 &nbsp;
 
 ### ART. 4.
 
-Voor een erkenning als Logo moeten al de volgende voorwaarden vervuld zijn : <br />1° de aanvrager dient een aanvraag tot erkenning in bij het agentschap; <br />2° de aanvrager bezorgt het agentschap een lijst van de preventieorganisaties, vermeld in artikel 1 van de bijlage, die bij dit besluit is gevoegd, met een werking binnen het werkgebied van het Logo waarvoor een aanvraag tot erkenning wordt ingediend;<br />3° de aanvrager toont aan dat minimaal met de preventieorganisaties, vermeld in artikel 1 van de bijlage, die bij dit besluit is gevoegd, contact werd opgenomen om te participeren in en ondersteuning te bieden aan het Logo;<br />4° de aanvraag wordt ondersteund door minimaal 50 % van de preventieorganisaties van elke groep, vermeld in artikel 1 van de bijlage, die bij dit besluit is gevoegd. De aanvrager toont dat aan met een lijst die ondertekend wordt door voldoende vertegenwoordigers van elke groep;<br />5° het Logo waarvoor een erkenning wordt aangevraagd is een vereniging zonder winstoogmerk of wordt opgericht door een vereniging zonder winstoogmerk. In het tweetalig gebied Brussel-Hoofdstad kan het Logo opgericht worden door de Vlaamse Gemeenschapscommissie, bevoegd voor het gezondheidsbeleid; <br />6° de aanvrager toont aan dat het Logo voldoet aan de bepalingen over het werkgebied, vermeld in artikel 11.<br /><br />
+Voor een erkenning als Logo moeten al de volgende voorwaarden vervuld zijn :<br>
+1° de aanvrager dient een aanvraag tot erkenning in bij de administratie;<br>
+2° de aanvrager bezorgt de administratie een lijst van de preventieorganisaties, vermeld in artikel 1 van de bijlage, die bij dit besluit is gevoegd, met een werking binnen het werkgebied van het Logo waarvoor een aanvraag tot erkenning wordt ingediend;<br>
+3° de aanvrager toont aan dat minimaal met de preventieorganisaties, vermeld in artikel 1 van de bijlage, die bij dit besluit is gevoegd, contact werd opgenomen om te participeren in en ondersteuning te bieden aan het Logo;<br>
+4° de aanvraag wordt ondersteund door minimaal 50 % van de preventieorganisaties van elke groep, vermeld in artikel 1 van de bijlage, die bij dit besluit is gevoegd. De aanvrager toont dat aan met een lijst die ondertekend wordt door voldoende vertegenwoordigers van elke groep;<br>
+5° het Logo waarvoor een erkenning wordt aangevraagd is een vereniging zonder winstoogmerk of wordt opgericht door een vereniging zonder winstoogmerk. In het tweetalig gebied Brussel-Hoofdstad kan het Logo opgericht worden door de Vlaamse Gemeenschapscommissie, bevoegd voor het gezondheidsbeleid;<br>
+6° de aanvrager toont aan dat het Logo voldoet aan de bepalingen over het werkgebied, vermeld in artikel 11.<br>
+&nbsp;
 
 ### ART. 5.
 
 § 1 De minister bepaalt welke gegevens de aanvraag tot erkenning moet bevatten om te kunnen oordelen of de erkenningsvoorwaarden vervuld zijn. Een aanvraag tot een erkenning is alleen ontvankelijk als ze die gegevens bevat.<br>
 <br>
-§ 2. Als de aanvraag onontvankelijk is, wordt dat door het agentschap aan de aanvrager gemeld binnen een termijn van dertig dagen na de ontvangst van de aanvraag tot erkenning.<br>
+§ 2. Als de aanvraag onontvankelijk is, wordt dat door de administratie aan de aanvrager gemeld binnen een termijn van dertig dagen na de ontvangst van de aanvraag tot erkenning.<br>
 <br>
-§ 3. Het agentschap vervolledigt het erkenningsdossier eventueel met een inspectieverslag als vermeld in artikel 35, 4°.<br>
+§ 3. De administratie vervolledigt het erkenningsdossier eventueel met een inspectieverslag als vermeld in artikel 35, 4°.<br>
 <br>
-§ 4. De beslissing van de administrateur-generaal waarbij de erkenning wordt verleend, wordt bezorgd aan de aanvrager.<br>
+§ 4. De beslissing van de secretaris-generaal waarbij de erkenning wordt verleend, wordt bezorgd aan de aanvrager.<br>
 <br>
-§ 5. De administrateur-generaal uit het voornemen tot weigering van een erkenning als niet is voldaan aan de erkenningsvoorwaarden, vermeld in artikel 4.<br>
+§ 5. De secretaris-generaal uit het voornemen tot weigering van een erkenning als niet is voldaan aan de erkenningsvoorwaarden, vermeld in artikel 4.<br>
 <br>
 Het voornemen tot weigering van een erkenning wordt met een aangetekende zending ter kennis gebracht van de aanvrager. Dat voornemen wordt gemotiveerd.<br>
 <br>
-De aangetekende zending bevat naast het voornemen ook de uitleg over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij het agentschap.<br>
+De aangetekende zending bevat naast het voornemen ook de uitleg over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij de administratie.<br>
 <br>
 § 6. Als de erkenning wordt geweigerd, kan het Logo in kwestie geen aanspraak maken op een vergoeding voor kosten, verbonden aan activiteiten die hebben plaatsgevonden om een erkenning te verkrijgen, of voor verlies van inkomsten door de weigering van de erkenning.<br>
 &nbsp;
 
 ### ART. 6.
 
-Alle gegevens en documenten die betrekking hebben op dit besluit worden elektronisch door en naar het agentschap gestuurd. Als dat niet mogelijk is, worden ze per post&nbsp;gestuurd.<br>
+Alle gegevens en documenten die betrekking hebben op dit besluit worden elektronisch door en naar de administratie gestuurd. Als dat niet mogelijk is, worden ze per post&nbsp;gestuurd.<br>
 &nbsp;
 
 ### ART. 7.
 
-Als aan de voorwaarde van artikel 4, 4°, niet is voldaan, buiten de wil van het Logo in kwestie om, kan toch een erkenning worden verleend na de goedkeuring door de administrateur-generaal van de motivatie van de aanvrager waarom de voorwaarde niet is vervuld.<br /><br />In voorkomend geval vermindert de administrateur-generaal het bedrag van de subsidie, vermeld in artikel 24, met 3 % per groep van preventieorganisaties als vermeld in artikel 1 van de bijlage, die bij dit besluit is gevoegd, die de aanvraag tot erkenning niet ondersteunt. <br /><br />
+Als aan de voorwaarde van artikel 4, 4°, niet is voldaan, buiten de wil van het Logo in kwestie om, kan toch een erkenning worden verleend na de goedkeuring door de secretaris-generaal van de motivatie van de aanvrager waarom de voorwaarde niet is vervuld.<br>
+<br>
+In voorkomend geval vermindert de secretaris-generaal het bedrag van de subsidie, vermeld in artikel 24, met 3 % per groep van preventieorganisaties als vermeld in artikel 1 van de bijlage, die bij dit besluit is gevoegd, die de aanvraag tot erkenning niet ondersteunt.<br>
+&nbsp;
 
 ### ART. 8.
 
-Om erkend te blijven, moet een Logo voldoen aan al de bepalingen van dit   besluit en in het bijzonder : <BR>1° voldoen aan de voorwaarden, vermeld in   artikel 4;<BR>2° voldoen aan de vereisten voor de samenstelling en aan de   werkingsbeginselen, vermeld in artikel 12 tot en met 16;<BR>3° de taken, vermeld   in artikel 17, § 1, eerste lid, uitvoeren en initiatieven nemen als vermeld in   artikel 17, § 2, eerste lid, volgens de bepalingen van dit besluit;<BR>4° de   registratiegegevens over de uitvoering van de taken en initiatieven bezorgen aan   het agentschap. Het agentschap bepaalt de vorm en de overdrachtswijze en   -frequentie waarop de registratiegegevens bezorgd moeten worden en kan daartoe,   na overleg met de betrokkenen, een registratiesysteem invoeren waarvan de   administratieve last zo beperkt mogelijk wordt gehouden. De laatste   registratiegegevens van een werkingsjaar worden bezorgd uiterlijk drie maanden   nadat het werkingsjaar is verstreken;<BR>5° per werkingsjaar het financiële   verslag, vermeld in artikel 32, bezorgen aan het agentschap, uiterlijk drie   maanden nadat het werkingsjaar is verstreken;<BR>6° elke wijziging die   betrekking heeft op de erkenning als Logo of de statuten ervan onmiddellijk aan   het agentschap melden.
+Om erkend te blijven, moet een Logo voldoen aan al de bepalingen van dit besluit en in het bijzonder :<br>
+1° voldoen aan de voorwaarden, vermeld in artikel 4;<br>
+2° voldoen aan de vereisten voor de samenstelling en aan de werkingsbeginselen, vermeld in artikel 12 tot en met 16;<br>
+3° de taken, vermeld in artikel 17, § 1, eerste lid, uitvoeren en initiatieven nemen als vermeld in artikel 17, § 2, eerste lid, volgens de bepalingen van dit besluit;<br>
+4° de registratiegegevens over de uitvoering van de taken en initiatieven bezorgen aan de administratie. De administratie bepaalt de vorm en de overdrachtswijze en -frequentie waarop de registratiegegevens bezorgd moeten worden en kan daartoe, na overleg met de betrokkenen, een registratiesysteem invoeren waarvan de administratieve last zo beperkt mogelijk wordt gehouden. De laatste registratiegegevens van een werkingsjaar worden bezorgd uiterlijk drie maanden nadat het werkingsjaar is verstreken;<br>
+5° per werkingsjaar het financiële verslag, vermeld in artikel 32, bezorgen aan de administratie, uiterlijk drie maanden nadat het werkingsjaar is verstreken;<br>
+6° elke wijziging die betrekking heeft op de erkenning als Logo of de statuten ervan onmiddellijk aan de administratie melden.
 
 ## HOOFDSTUK IV Verlenging van de erkenning en weigering van de verlenging van de erkenning
 
 ### ART. 9.
 
-De administrateur-generaal verlengt de erkenning van de Logo's eenmalig voor minimaal twee en maximaal drie jaar als het dossier tot verlenging van de erkenning voldoet aan de voorwaarden, vermeld in artikel 8 en 10, § 1 tot en met § 3
+De secretaris-generaal verlengt de erkenning van de Logo's eenmalig voor minimaal twee en maximaal drie jaar als het dossier tot verlenging van de erkenning voldoet aan de voorwaarden, vermeld in artikel 8 en 10, § 1 tot en met § 3
 
 ### ART. 10.
 
-§ 1. Om de continuïteit van de erkenning te kunnen garanderen, verzoekt het agentschap, minimaal twaalf maanden voordat de erkenning is afgelopen, een Logo om de informatie te bezorgen die conform artikel 8 nodig is voor een verlenging van de erkenning.<br>
+§ 1. Om de continuïteit van de erkenning te kunnen garanderen, verzoekt de administratie, minimaal twaalf maanden voordat de erkenning is afgelopen, een Logo om de informatie te bezorgen die conform artikel 8 nodig is voor een verlenging van de erkenning.<br>
 <br>
-De administrateur-generaal bepaalt de nadere regels voor de vorm van die informatie en voor de wijze waarop die bezorgd moet worden.<br>
+De secretaris-generaal bepaalt de nadere regels voor de vorm van die informatie en voor de wijze waarop die bezorgd moet worden.<br>
 <br>
-§ 2. Het Logo bezorgt, minimaal zes maanden voordat de erkenning is afgelopen, de informatie, vermeld in paragraaf 1, over de samenstelling van een dossier tot verlenging van een erkenning aan het agentschap.<br>
+§ 2. Het Logo bezorgt, minimaal zes maanden voordat de erkenning is afgelopen, de informatie, vermeld in paragraaf 1, over de samenstelling van een dossier tot verlenging van een erkenning aan de administratie.<br>
 <br>
-Het dossier tot verlenging van een erkenning is alleen ontvankelijk als het de nodige informatie, vermeld in paragraaf 1, bevat. Als het dossier onontvankelijk is, wordt het Logo minimaal drie maanden voordat de erkenning is afgelopen, daarvan op de hoogte gebracht. Binnen een termijn van een maand na de datum van het bericht van onontvankelijkheid moet het Logo het dossier vervolledigen. Als het Logo die termijn niet respecteert en de eventuele reden die daarvoor door het Logo wordt opgegeven niet door het agentschap aanvaard wordt, moet er een nieuwe aanvraag tot erkenning ingediend worden.<br>
+Het dossier tot verlenging van een erkenning is alleen ontvankelijk als het de nodige informatie, vermeld in paragraaf 1, bevat. Als het dossier onontvankelijk is, wordt het Logo minimaal drie maanden voordat de erkenning is afgelopen, daarvan op de hoogte gebracht. Binnen een termijn van een maand na de datum van het bericht van onontvankelijkheid moet het Logo het dossier vervolledigen. Als het Logo die termijn niet respecteert en de eventuele reden die daarvoor door het Logo wordt opgegeven niet door de administratie aanvaard wordt, moet er een nieuwe aanvraag tot erkenning ingediend worden.<br>
 <br>
-§ 3. Het agentschap vervolledigt het dossier tot verlenging van een erkenning eventueel met een inspectieverslag als vermeld in artikel 35, 4°.<br>
+§ 3. De administratie vervolledigt het dossier tot verlenging van een erkenning eventueel met een inspectieverslag als vermeld in artikel 35, 4°.<br>
 <br>
-§ 4. De beslissing van de administrateur-generaal waarin de erkenning wordt verlengd, wordt bezorgd aan het Logo.<br>
+§ 4. De beslissing van de secretaris-generaal waarin de erkenning wordt verlengd, wordt bezorgd aan het Logo.<br>
 <br>
 § 5. Het voornemen tot weigering van een verlenging van erkenning wordt met een aangetekende zending ter kennis gebracht van het Logo. Dat voornemen wordt gemotiveerd.<br>
 <br>
-De aangetekende zending bevat naast het voornemen ook de uitleg over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij het agentschap.<br>
+De aangetekende zending bevat naast het voornemen ook de uitleg over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij de administratie.<br>
 <br>
-§ 6. Als de administrateur-generaal voordat de erkenning afgelopen is, geen beslissing als vermeld in paragraaf 4, neemt of geen voornemen uit tot weigering van de verlenging van de erkenning als vermeld in paragraaf 5, wordt de erkenning van rechtswege verlengd met twee jaar.<br>
+§ 6. Als de secretaris-generaal voordat de erkenning afgelopen is, geen beslissing als vermeld in paragraaf 4, neemt of geen voornemen uit tot weigering van de verlenging van de erkenning als vermeld in paragraaf 5, wordt de erkenning van rechtswege verlengd met twee jaar.<br>
 <br>
 De erkenning wordt van rechtswege verlengd op voorwaarde dat het Logo de termijn, vermeld in paragraaf 2, respecteert en kan, volgens de bepalingen van dit besluit, worden geschorst of ingetrokken zoals een erkenning of een verlenging van een erkenning die niet van rechtswege is toegekend.<br>
 <br>
@@ -131,7 +148,7 @@ Elke preventieorganisatie wordt door het Logo in kwestie uitgenodigd om deel te 
 <br>
 § 2. Het Logo kan met een of meer andere Logo's samenwerken aan specifieke opdrachten en initiatieven.<br>
 <br>
-Als twee of meer Logo's een structureel samenwerkingsverband willen aangaan, moet dat voornemen vooraf gemeld worden aan het agentschap en moet dat samenwerkingsverband goedgekeurd worden door de administrateur-generaal. Dat samenwerkingsverband tussen Logo's mag de samenwerking van het Logo met de preventieorganisaties uit zijn werkgebied niet in het gedrang brengen en moet garanderen dat het locoregionaal karakter van het takenpakket gerespecteerd blijft.<br>
+Als twee of meer Logo's een structureel samenwerkingsverband willen aangaan, moet dat voornemen vooraf gemeld worden aan de administratie en moet dat samenwerkingsverband goedgekeurd worden door de secretaris-generaal. Dat samenwerkingsverband tussen Logo's mag de samenwerking van het Logo met de preventieorganisaties uit zijn werkgebied niet in het gedrang brengen en moet garanderen dat het locoregionaal karakter van het takenpakket gerespecteerd blijft.<br>
 &nbsp;
 
 ### ART. 16.
@@ -143,11 +160,11 @@ De minister kan vastleggen dat het Logo samenwerkingsafspraken moet maken met an
 ### ART. 17.
 
 <p>§ 1. Om de realisatie van de Vlaamse gezondheidsdoelstellingen na te streven als vermeld in artikel 30, § 1, van het decreet van 21 november 2003, en ter uitvoering van artikel 30, § 2, van voormelde decreet, voert een Logo binnen haar werkgebied en daar waar haar samenwerking met preventieorganisaties een meerwaarde heeft, al de volgende taken uit:<br>
-1° de operationele doelstellingen voor de Logo's, die geformuleerd zijn door het agentschap na goedkeuring door de minister, realiseren. Die doelstellingen concretiseren de beleidsprioriteiten van het preventieve gezondheidsbeleid en de realisatie van de Vlaamse gezondheidsdoelstellingen en worden door het agentschap opgenomen in het registratiesysteem, vermeld in artikel 8, 4° ;<br>
-2° het adviseren van het agentschap en de minister, op verzoek of op eigen initiatief, over het Vlaamse preventieve gezondheidsbeleid, onder meer over de behoefte aan preventiemethodieken en over de noden bij de implementatie ervan;<br>
+1° de operationele doelstellingen voor de Logo's, die geformuleerd zijn door de administratie na goedkeuring door de minister, realiseren. Die doelstellingen concretiseren de beleidsprioriteiten van het preventieve gezondheidsbeleid en de realisatie van de Vlaamse gezondheidsdoelstellingen en worden door de administratie opgenomen in het registratiesysteem, vermeld in artikel 8, 4° ;<br>
+2° het adviseren van de administratie en de minister, op verzoek of op eigen initiatief, over het Vlaamse preventieve gezondheidsbeleid, onder meer over de behoefte aan preventiemethodieken en over de noden bij de implementatie ervan;<br>
 3° het, minstens eenmaal per legislatuur, opmaken van een zelfevaluatie voor de minister, met daarin voorstellen van efficiëntieverhoging van de eigen werking;<br>
 4° aanspreekpunt zijn voor en, binnen haar taken, een samenwerking uitbouwen met de preventieorganisaties, in het bijzonder de preventieorganisaties, vermeld in artikel 1 van de bijlage die bij dit besluit is gevoegd;<br>
-5° het dissemineren bij preventieorganisaties van preventiemethodieken in het kader van de preventieve gezondheidszorg en het facettenbeleid, vermeld in artikel 3, tweede lid, van het decreet van 21 november 2003, die aangeleverd worden door partnerorganisaties, of aangeleverd worden door andere organisaties en die aanvaard worden door het agentschap. Het dissemineren van preventiemethodieken houdt onder meer in:<br>
+5° het dissemineren bij preventieorganisaties van preventiemethodieken in het kader van de preventieve gezondheidszorg en het facettenbeleid, vermeld in artikel 3, tweede lid, van het decreet van 21 november 2003, die aangeleverd worden door partnerorganisaties, of aangeleverd worden door andere organisaties en die aanvaard worden door de administratie. Het dissemineren van preventiemethodieken houdt onder meer in:<br>
 a) het zoeken van geschikte preventieorganisaties voor een bepaalde preventiemethodiek of een geheel van preventiemethodieken;<br>
 b) het informeren van preventieorganisaties over het aanbod aan methodieken en de toepassing van die preventiemethodieken;<br>
 c) het aanmoedigen van preventieorganisaties om de acties op basis van bepaalde preventiemethodieken uit te voeren binnen hun eigen werking en hun eigen beleid en deze ook structureel op te nemen in hun werking en in hun eigen beleid;<br>
@@ -157,8 +174,8 @@ e) het helpen bij het organiseren van vormingen voor preventieorganisaties zodat
 7° het opnemen van de eerstelijnsfunctie binnen het Vlaams medisch milieukundig netwerk voor milieugerelateerde gezondheidsproblemen. Dat houdt in:<br>
 a) de taken, vermeld in punt 1° tot en met 6° ;<br>
 b) de taken, vermeld in artikel 4 en 5, § 1, § 2 en § 4, van het Binnenmilieubesluit van 11 juni 2004;<br>
-c) het verwerven van inzicht in de gezondheidssituatie die gerelateerd is aan milieufactoren, en op verzoek van het agentschap of de minister een actueel beeld van die milieugerelateerde gezondheidssituatie geven;<br>
-d) interne en externe communicatie voeren rond gezondheid en milieu bij alle betrokkenen, op verzoek van het agentschap meewerken aan acties rond lokale milieugerelateerde gezondheid die gericht zijn op risicocommunicatie, en het lokaal bestuur en het agentschap op de hoogte brengen als dreigende gezondheidsrisico's als gevolg van het milieu in die gemeente worden gesignaleerd;<br>
+c) het verwerven van inzicht in de gezondheidssituatie die gerelateerd is aan milieufactoren, en op verzoek van de administratie of de minister een actueel beeld van die milieugerelateerde gezondheidssituatie geven;<br>
+d) interne en externe communicatie voeren rond gezondheid en milieu bij alle betrokkenen, op verzoek van de administratie meewerken aan acties rond lokale milieugerelateerde gezondheid die gericht zijn op risicocommunicatie, en het lokaal bestuur en de administratie op de hoogte brengen als dreigende gezondheidsrisico's als gevolg van het milieu in die gemeente worden gesignaleerd;<br>
 e) een eerstelijnsaanspreekpunt zijn voor professionelen uit de gezondheidszorg, preventieorganisaties en de individuele burger, en de eigen werking bekendmaken bij professionelen uit de gezondheidszorg en bij preventieorganisaties om informatie over milieugerelateerde gezondheid door te geven en een netwerk te vormen;<br>
 f) het uitvoeren van preventieve taken die gericht zijn op de beïnvloedbare factoren van milieugerelateerde gezondheid, zoals informeren, voorlichten en sensibiliseren;<br>
 g) het lokaal initiëren en conceptualiseren van, alsook het bijdragen aan, het opzetten, het uitvoeren en het afstemmen van preventieprogramma's binnen de milieugerelateerde gezondheidszorg, en het uitwerken van een voorstel van plan van aanpak voor milieugerelateerde gezondheidsvraagstukken;<br>
@@ -170,28 +187,28 @@ l) professionelen uit de gezondheidszorg en preventieorganisaties wegwijs maken 
 <br>
 De taak, vermeld in het eerste lid, 7°, geldt niet voor het Logo van het tweetalige gebied Brussel-Hoofdstad.<br>
 <br>
-§ 2. Eigen initiatieven van het Logo als vermeld in artikel 30, § 3, van het decreet van 21 november 2003, zijn niet in strijd met de initiatieven en richtlijnen van de Vlaamse Regering en brengen de opdrachten van de Logo's niet in het gedrang. Ze zijn dus toegelaten als ze vooraf aan het agentschap worden gemeld en geregistreerd worden in het registratiesysteem, vermeld in artikel 8, 4°.<br>
+§ 2. Eigen initiatieven van het Logo als vermeld in artikel 30, § 3, van het decreet van 21 november 2003, zijn niet in strijd met de initiatieven en richtlijnen van de Vlaamse Regering en brengen de opdrachten van de Logo's niet in het gedrang. Ze zijn dus toegelaten als ze vooraf aan de administratie worden gemeld en geregistreerd worden in het registratiesysteem, vermeld in artikel 8, 4°.<br>
 <br>
 Voor de volgende initiatieven gelden bijkomend de erbij vermelde voorwaarden:<br>
 1° meewerken aan de ontwikkeling en de evaluatie van preventiemethodieken:<br>
-a) de preventiemethodieken worden ontwikkeld of geëvalueerd door een partnerorganisatie of door een andere organisatie die aanvaard is door het agentschap;<br>
+a) de preventiemethodieken worden ontwikkeld of geëvalueerd door een partnerorganisatie of door een andere organisatie die aanvaard is door de administratie;<br>
 b) de te ontwikkelen of te evalueren preventiemethodiek past in de Vlaamse beleidsprioriteiten;<br>
 c) per werkingsjaar wordt maximaal 5% van de geïndexeerde subsidie van dat werkingsjaar besteed aan dit initiatief en het initiatief, vermeld in punt 2°, samen.<br>
 De eventuele reserve mag niet besteed worden aan dit initiatief;<br>
 2° zelf ontwikkelen van preventiemethodieken:<br>
-a) het Logo heeft daarvoor toestemming gekregen van het agentschap;<br>
-b) bij de ontwikkeling van de preventiemethodiek wordt samengewerkt met een partnerorganisatie of met een andere organisatie die aanvaard is door het agentschap;<br>
+a) het Logo heeft daarvoor toestemming gekregen van de administratie;<br>
+b) bij de ontwikkeling van de preventiemethodiek wordt samengewerkt met een partnerorganisatie of met een andere organisatie die aanvaard is door de administratie;<br>
 c) de nood aan die preventiemethodiek aantonen;<br>
 d) de preventiemethodiek is toepasbaar in heel Vlaanderen;<br>
 e) de preventiemethodiek past in de Vlaamse beleidsprioriteiten;<br>
 f) per werkingsjaar wordt maximaal 5% van de geïndexeerde subsidie van dat werkingsjaar besteed aan dit initiatief en het initiatief, vermeld in punt 1°, samen. De eventuele reserve mag niet besteed worden aan dit initiatief;<br>
 3° begeleiden van andere preventieorganisaties dan lokale besturen bij het uitwerken en opvolgen van hun preventieve gezondheidsbeleid:<br>
-a) het Logo krijgt daarvoor toestemming van het agentschap, waarbij de toestemming bepaalt welk aandeel van de geïndexeerde subsidie van dat werkingsjaar maximaal besteed mag worden aan dit initiatief. De eventuele reserve mag niet besteed worden aan dit initiatief;<br>
+a) het Logo krijgt daarvoor toestemming van de administratie, waarbij de toestemming bepaalt welk aandeel van de geïndexeerde subsidie van dat werkingsjaar maximaal besteed mag worden aan dit initiatief. De eventuele reserve mag niet besteed worden aan dit initiatief;<br>
 b) dit initiatief wordt ontwikkeld op verzoek van de preventieorganisaties in kwestie.<br>
 <br>
 De volgende eigen initiatieven van het Logo als vermeld in artikel 30, § 3, van het decreet van 21 november 2003, zijn in strijd met de initiatieven en richtlijnen van de Vlaamse Regering of brengen de opdrachten van de Logo's in het gedrang en zijn dus niet toegelaten:<br>
-1° het dissemineren van preventiemethodieken die niet aangeleverd zijn door partnerorganisaties of die aangeleverd worden door andere organisaties en niet aanvaard worden door het agentschap;<br>
-2° het begeleiden van lokale besturen bij het uitwerken en opvolgen van hun lokale preventieve gezondheidsbeleid in het kader van hun lokaal sociaal beleid door gebruik te maken van preventiemethodieken die niet aangeleverd zijn door partnerorganisaties of die aangeleverd worden door andere organisaties en niet aanvaard zijn door het agentschap.<br>
+1° het dissemineren van preventiemethodieken die niet aangeleverd zijn door partnerorganisaties of die aangeleverd worden door andere organisaties en niet aanvaard worden door de administratie;<br>
+2° het begeleiden van lokale besturen bij het uitwerken en opvolgen van hun lokale preventieve gezondheidsbeleid in het kader van hun lokaal sociaal beleid door gebruik te maken van preventiemethodieken die niet aangeleverd zijn door partnerorganisaties of die aangeleverd worden door andere organisaties en niet aanvaard zijn door de administratie.<br>
 <br>
 De minister kan de taken, vermeld in paragraaf 1, nader bepalen en bijkomende voorwaarden bepalen voor de initiatieven, vermeld in paragraaf 2, eerste lid.</p>
 
@@ -206,15 +223,15 @@ d) er wordt een beherend lokaal bestuur aangesteld of het beheer gebeurt via een
 e) als alle deelnemende lokale besturen van een lokale preventiewerking dat wensen, kan de organisatie van de lokale preventiewerking in kwestie gedelegeerd worden naar het Logo dat het werkgebied van de lokale preventiewerking omvat of naar een andere rechtspersoon die werkzaam is binnen het werkgebied van de lokale preventiewerking die expertise heeft op het vlak van de beleidsdoelstellingen van het Vlaamse preventieve gezondheidsbeleid en de realisatie van de Vlaamse gezondheidsdoelstellingen als vermeld in punt 2°, a). In dat geval wordt de lokale preventiewerking een afzonderlijk activiteitencentrum en, als het een delegatie naar het Logo betreft, wordt dat beschouwd als een taak als vermeld in artikel 30, § 2, van het decreet van 21 november 2003;<br>
 2° binnen de lokale preventiewerkingen worden de volgende taken opgenomen onder de verantwoordelijkheid van de beheerder, vermeld in punt 1°, d):<br>
 a) organiseren en uitvoeren van een lokaal preventief gezondheidsbeleid dat afgestemd is op verschillende initiatieven en thema's binnen de beleidsdoelstellingen van het Vlaamse preventieve gezondheidsbeleid en de realisatie van de Vlaamse gezondheidsdoelstellingen en dat gebruik maakt van de preventiemethodieken, met uitzondering van het opnemen van de eerstelijnsfunctie binnen het Vlaams medisch milieukundig netwerk, vermeld in artikel 17, § 1, eerste lid, 7°, van dit besluit. Die taak kan het geven van geïndividualiseerde adviezen rechtstreeks aan burgers inhouden als de interventies die daarvoor nodig zijn kortdurend zijn en geen behandeling betreffen;<br>
-b) jaarlijks, na begeleiding en ondersteuning van het Logo in kwestie, rapporteren aan het agentschap over de lokale preventiewerking;<br>
+b) jaarlijks, na begeleiding en ondersteuning van het Logo in kwestie, rapporteren aan de administratie over de lokale preventiewerking;<br>
 3° de bijkomende subsidie wordt uitsluitend en volledig aangewend voor lokale preventiewerkingen;<br>
-4° er is voorafgaand aan het toekennen van de subsidie een engagementsverklaring bezorgd aan het agentschap waaruit blijkt dat de lokale besturen in kwestie voor de realisatie van de taken van de lokale preventiewerkingen alle volgende engagementen opnemen voor de duur van hun legislatuur:<br>
+4° er is voorafgaand aan het toekennen van de subsidie een engagementsverklaring bezorgd aan de administratie waaruit blijkt dat de lokale besturen in kwestie voor de realisatie van de taken van de lokale preventiewerkingen alle volgende engagementen opnemen voor de duur van hun legislatuur:<br>
 a) instaan voor cofinanciering van personeelskosten voor de lokale preventiewerking die ten minste even groot is als de subsidie vanuit de Vlaamse overheid voor de lokale preventiewerking, als vermeld in artikel 24;<br>
 b) met die financiering en de bijkomende subsidie personeel inzetten dat beschikt over voldoende competenties voor de lokale preventiewerking;<br>
 c) het organiseren en uitvoeren van een lokaal preventief gezondheidsbeleid dat aan de andere voorwaarden voldoet;<br>
 d) jaarlijks rapporteren als vermeld in punt 2°, b).<br>
 <br>
-Om in aanmerking te komen voor de bijkomende subsidie, vermeld in het eerste lid, deelt het lokaal bestuur dat een lokale preventiewerking wil opstarten dat mee aan het agentschap voor 31 mei voorafgaand aan het jaar waarin de start gepland is. Die mededeling is niet verplicht voor de lokale preventiewerkingen die opgestart worden in het eerste jaar van een gemeentelijke legislatuur.<br>
+Om in aanmerking te komen voor de bijkomende subsidie, vermeld in het eerste lid, deelt het lokaal bestuur dat een lokale preventiewerking wil opstarten dat mee aan de administratie voor 31 mei voorafgaand aan het jaar waarin de start gepland is. Die mededeling is niet verplicht voor de lokale preventiewerkingen die opgestart worden in het eerste jaar van een gemeentelijke legislatuur.<br>
 <br>
 Afhankelijk van de beschikbare ruimte binnen de Vlaamse begroting kan de minister, bij de opstart van een lokale preventiewerking in het eerste jaar van een gemeentelijke legislatuur of als niet voldaan is aan de verplichting, vermeld in het tweede lid, beslissen de subsidie op te schorten tot een volgend kalenderjaar.<br>
 <br>
@@ -234,21 +251,65 @@ De verplichting tot co-financiering door het lokale bestuur, vermeld in het eers
 
 ### ART. 18.
 
-§ 1. De administrateur-generaal formuleert een voornemen tot schorsing van een erkenning als het Logo niet meer voldoet aan de voorwaarden om erkend te blijven, vermeld in artikel 8, en als de voorwaarden, vermeld in artikel 78, § 2, van het decreet van 21 november 2003, vervuld zijn.<br /><br />§ 2. Het voornemen tot schorsing van een erkenning wordt met een aangetekende zending ter kennis gebracht van het Logo. Dat voornemen wordt gemotiveerd.<br /><br />De aangetekende zending bevat naast het voornemen ook de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij het agentschap.<br /><br />§ 3. Als de erkenning wordt geschorst, kan het Logo in kwestie geen aanspraak maken op een vergoeding voor kosten, verbonden aan activiteiten die hebben plaatsgevonden in het kader van de schorsing, of voor verlies van inkomsten door de schorsing van de erkenning.<br /><br />§ 4. De volgende maatregelen kunnen opgelegd worden in het kader van de schorsing : <br />1° het Logo moet de preventieorganisaties van het netwerk informeren over de schorsing;<br />2° het Logo moet zijn activiteiten als Logo stopzetten;<br />3° de subsidie, vermeld in artikel 24, wordt geheel of gedeeltelijk ingehouden of teruggevorderd als de voorwaarden, vermeld in artikel 77 van het decreet van 21 november 2003, vervuld zijn.<br /><br />De maatregel, vermeld in het eerste lid, 3°, kan per Logo worden gemoduleerd, afhankelijk van de redenen voor de schorsing.<br /><br />
+§ 1. De secretaris-generaal formuleert een voornemen tot schorsing van een erkenning als het Logo niet meer voldoet aan de voorwaarden om erkend te blijven, vermeld in artikel 8, en als de voorwaarden, vermeld in artikel 78, § 2, van het decreet van 21 november 2003, vervuld zijn.<br>
+<br>
+§ 2. Het voornemen tot schorsing van een erkenning wordt met een aangetekende zending ter kennis gebracht van het Logo. Dat voornemen wordt gemotiveerd.<br>
+<br>
+De aangetekende zending bevat naast het voornemen ook de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij de administratie.<br>
+<br>
+§ 3. Als de erkenning wordt geschorst, kan het Logo in kwestie geen aanspraak maken op een vergoeding voor kosten, verbonden aan activiteiten die hebben plaatsgevonden in het kader van de schorsing, of voor verlies van inkomsten door de schorsing van de erkenning.<br>
+<br>
+§ 4. De volgende maatregelen kunnen opgelegd worden in het kader van de schorsing :<br>
+1° het Logo moet de preventieorganisaties van het netwerk informeren over de schorsing;<br>
+2° het Logo moet zijn activiteiten als Logo stopzetten;<br>
+3° de subsidie, vermeld in artikel 24, wordt geheel of gedeeltelijk ingehouden of teruggevorderd als de voorwaarden, vermeld in artikel 77 van het decreet van 21 november 2003, vervuld zijn.<br>
+<br>
+De maatregel, vermeld in het eerste lid, 3°, kan per Logo worden gemoduleerd, afhankelijk van de redenen voor de schorsing.<br>
+&nbsp;
 
 ### ART. 19.
 
-§ 1. De administrateur-generaal formuleert een voornemen tot intrekking van een erkenning als na een schorsing blijkt dat het Logo nog altijd niet voldoet aan de voorwaarden om erkend te blijven, vermeld in artikel 8, en als is voldaan aan de voorwaarden, vermeld in artikel 78, § 2, van het decreet van 21 november 2003, en als de maatregelen in het kader van de schorsing, vermeld in artikel 18, § 4, niet worden nageleefd.<br /><br />§ 2. De administrateur-generaal kan een erkenning ook intrekken als het Logo met een aangetekende zending daarom verzoekt. De beslissing van de administrateur-generaal wordt, binnen een termijn van zes maanden nadat het verzoek wordt ingediend, met een aangetekende zending bezorgd aan het Logo.<br /><br />§ 3. Het voornemen tot intrekking van een erkenning wordt met een aangetekende zending bezorgd aan het Logo. Dat voornemen wordt gemotiveerd.<br /><br />De aangetekende zending bevat naast het voornemen ook de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij het agentschap.<br /><br />§ 4. Als de erkenning wordt ingetrokken, kan het Logo in kwestie geen aanspraak maken op een vergoeding voor kosten, verbonden aan activiteiten die hebben plaatsgevonden in het kader van de intrekking van de erkenning, of voor verlies van inkomsten door de intrekking van de erkenning.<br /><br />
+§ 1. De&nbsp;secretaris-generaal formuleert een voornemen tot intrekking van een erkenning als na een schorsing blijkt dat het Logo nog altijd niet voldoet aan de voorwaarden om erkend te blijven, vermeld in artikel 8, en als is voldaan aan de voorwaarden, vermeld in artikel 78, § 2, van het decreet van 21 november 2003, en als de maatregelen in het kader van de schorsing, vermeld in artikel 18, § 4, niet worden nageleefd.<br>
+<br>
+§ 2. De secretaris-generaal kan een erkenning ook intrekken als het Logo met een aangetekende zending daarom verzoekt. De beslissing van de secretaris-generaal wordt, binnen een termijn van zes maanden nadat het verzoek wordt ingediend, met een aangetekende zending bezorgd aan het Logo.<br>
+<br>
+§ 3. Het voornemen tot intrekking van een erkenning wordt met een aangetekende zending bezorgd aan het Logo. Dat voornemen wordt gemotiveerd.<br>
+<br>
+De aangetekende zending bevat naast het voornemen ook de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij de administratie.<br>
+<br>
+§ 4. Als de erkenning wordt ingetrokken, kan het Logo in kwestie geen aanspraak maken op een vergoeding voor kosten, verbonden aan activiteiten die hebben plaatsgevonden in het kader van de intrekking van de erkenning, of voor verlies van inkomsten door de intrekking van de erkenning.<br>
+&nbsp;
 
 ## HOOFDSTUK VIII Beroepsprocedure
 
 ### ART. 20.
 
-Een aanvrager of een Logo kan binnen dertig dagen nadat de aangetekende   zending, vermeld in artikel 5, § 5, artikel 10, § 5, artikel 18, § 2, of artikel   19, § 3, is verstuurd, met een aangetekende zending een gemotiveerd   bezwaarschrift indienen bij het agentschap in een van de volgende gevallen :   <BR>1° bij een voornemen tot weigering van een erkenning;<BR>2° bij een   voornemen tot weigering van een verlenging van een erkenning;<BR>3° bij een   voornemen tot schorsing van een erkenning;<BR>4° bij een voornemen tot   intrekking van een erkenning.<BR><BR>Het agentschap beoordeelt de   ontvankelijkheid van het bezwaar dat een aanvrager of een Logo heeft ingediend   tegen een voornemen dat door de administrateur-generaal wordt geuit.<BR><BR>Dat   bezwaarschrift is onontvankelijk als : <BR>1° het bezwaarschrift niet   gemotiveerd is;<BR>2° het bezwaarschrift niet is ingediend met een aangetekende   zending;<BR>3° het bezwaarschrift niet is ingediend binnen dertig dagen nadat de   aangetekende zending, vermeld in artikel 5, § 5, artikel 10, § 5, artikel 18, §   2, en artikel 19, § 3, verstuurd is.<BR><BR>Het ontvankelijke bezwaarschrift   wordt behandeld volgens de regels die zijn vastgesteld bij of ter uitvoering van   hoofdstuk III van het decreet van 7 december 2007 houdende oprichting van de   Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid   en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en   Gezin en (Kandidaat-)pleegzorgers.<BR><BR>
+Een aanvrager of een Logo kan binnen dertig dagen nadat de aangetekende zending, vermeld in artikel 5, § 5, artikel 10, § 5, artikel 18, § 2, of artikel 19, § 3, is verstuurd, met een aangetekende zending een gemotiveerd bezwaarschrift indienen bij de administratie in een van de volgende gevallen :<br>
+1° bij een voornemen tot weigering van een erkenning;<br>
+2° bij een voornemen tot weigering van een verlenging van een erkenning;<br>
+3° bij een voornemen tot schorsing van een erkenning;<br>
+4° bij een voornemen tot intrekking van een erkenning.<br>
+<br>
+De administratie beoordeelt de ontvankelijkheid van het bezwaar dat een aanvrager of een Logo heeft ingediend tegen een voornemen dat door de secretaris-generaal wordt geuit.<br>
+<br>
+Dat bezwaarschrift is onontvankelijk als :<br>
+1° het bezwaarschrift niet gemotiveerd is;<br>
+2° het bezwaarschrift niet is ingediend met een aangetekende zending;<br>
+3° het bezwaarschrift niet is ingediend binnen dertig dagen nadat de aangetekende zending, vermeld in artikel 5, § 5, artikel 10, § 5, artikel 18, § 2, en artikel 19, § 3, verstuurd is.<br>
+<br>
+Het ontvankelijke bezwaarschrift wordt behandeld volgens de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
+&nbsp;
 
 ### ART. 21.
 
-§ 1. ...<BR><BR>§ 2. ...<BR><BR>§ 3. ...<BR><BR>§ 4. Als het Logo geen   bezwaarschrift indient binnen dertig dagen nadat de aangetekende zending,   vermeld in artikel 5, § 5, artikel 10, § 5, artikel 18, § 2, en artikel 19, § 3,   is verstuurd, wordt, nadat die termijn verstreken is, de beslissing van de   administrateur-generaal aangetekend verstuurd naar het Logo of de   aanvrager.<BR><BR>
+§ 1. ...<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. ...<br>
+<br>
+§ 4. Als het Logo geen bezwaarschrift indient binnen dertig dagen nadat de aangetekende zending, vermeld in artikel 5, § 5, artikel 10, § 5, artikel 18, § 2, en artikel 19, § 3, is verstuurd, wordt, nadat die termijn verstreken is, de beslissing van de secretaris-generaal aangetekend verstuurd naar het Logo of de aanvrager.<br>
+&nbsp;
 
 ### ART. 22.
 
@@ -325,11 +386,11 @@ De subsidie voor een Logo, vermeld in artikel 23, met uitzondering van het Logo 
 	</tbody>
 </table>
 <br>
-Naast de subsidie, vermeld in het eerste lid, wordt voor de lokale preventiewerkingen een bedrag voorzien van 3.000 euro per gemeente, vermeerderd met 0,08 euro, beide aan de gezondheidsindex van december 2018, per gewogen inwoner van de gemeenten waarvan het lokaal bestuur participeert aan een lokale preventiewerking, vermeld in en onder de voorwaarden van artikel 17/1. Het gewogen aantal inwoners is het aantal inwoners, op dezelfde wijze vastgelegd zoals bepaald in het voorlaatste lid van dit artikel, vermeerderd met eenmaal het aantal inwoners die volgens de verplichte verzekering voor geneeskundige verzorging en uitkeringen recht hebben op een verhoogde tegemoetkoming. Indien de deelnemende gemeenten aan de lokale preventiewerking tot het werkgebied van een verschillend Logo behoren, dan wordt de subsidie voor de lokale preventiewerking in kwestie toegekend aan het Logo dat de deelnemende gemeente met de meeste inwoners in haar werkgebied heeft. In dit geval kan een Logo, in tegenstelling tot de bepaling vermeld in artikel 17, § 1, eerste lid, de taken vermeld in artikel 17, § 1, eerste lid, 6°, toch verrichten ten aanzien van de lokale besturen van gemeenten buiten haar werkgebied. Artikel 31, § 1 en § 3, en artikel 32 en 34 zijn niet van toepassing op de bijkomende subsidie voor de lokale preventiewerkingen. Voor lokale preventiewerkingen met een looptijd die korter is dan een volledig kalenderjaar wordt de bijkomende subsidie in verhouding berekend, met uitzondering van de bijkomende subsidie voor het eerste jaar van een gemeentelijke legislatuur. Voor het eerste jaar van de gemeentelijke legislatuur wordt de volledige bijkomende subsidie toegekend als het document, vermeld in artikel 17/1, eerste lid, 4°, aan het agentschap wordt bezorgd voor 1 april van het jaar in kwestie. Reserveaanleg voor de lokale preventiewerkingen is toegestaan en is geregeld naar analogie met de bepalingen van artikel 29. De bijkomende subsidie is onderhevig aan toezicht door het agentschap naar analogie van artikel 35 en 36.<br>
+Naast de subsidie, vermeld in het eerste lid, wordt voor de lokale preventiewerkingen een bedrag voorzien van 3.000 euro per gemeente, vermeerderd met 0,08 euro, beide aan de gezondheidsindex van december 2018, per gewogen inwoner van de gemeenten waarvan het lokaal bestuur participeert aan een lokale preventiewerking, vermeld in en onder de voorwaarden van artikel 17/1. Het gewogen aantal inwoners is het aantal inwoners, op dezelfde wijze vastgelegd zoals bepaald in het voorlaatste lid van dit artikel, vermeerderd met eenmaal het aantal inwoners die volgens de verplichte verzekering voor geneeskundige verzorging en uitkeringen recht hebben op een verhoogde tegemoetkoming. Indien de deelnemende gemeenten aan de lokale preventiewerking tot het werkgebied van een verschillend Logo behoren, dan wordt de subsidie voor de lokale preventiewerking in kwestie toegekend aan het Logo dat de deelnemende gemeente met de meeste inwoners in haar werkgebied heeft. In dit geval kan een Logo, in tegenstelling tot de bepaling vermeld in artikel 17, § 1, eerste lid, de taken vermeld in artikel 17, § 1, eerste lid, 6°, toch verrichten ten aanzien van de lokale besturen van gemeenten buiten haar werkgebied. Artikel 31, § 1 en § 3, en artikel 32 en 34 zijn niet van toepassing op de bijkomende subsidie voor de lokale preventiewerkingen. Voor lokale preventiewerkingen met een looptijd die korter is dan een volledig kalenderjaar wordt de bijkomende subsidie in verhouding berekend, met uitzondering van de bijkomende subsidie voor het eerste jaar van een gemeentelijke legislatuur. Voor het eerste jaar van de gemeentelijke legislatuur wordt de volledige bijkomende subsidie toegekend als het document, vermeld in artikel 17/1, eerste lid, 4°, aan de administratie wordt bezorgd voor 1 april van het jaar in kwestie. Reserveaanleg voor de lokale preventiewerkingen is toegestaan en is geregeld naar analogie met de bepalingen van artikel 29. De bijkomende subsidie is onderhevig aan toezicht door de administratie naar analogie van artikel 35 en 36.<br>
 <br>
 De subsidiebedragen kunnen worden verhoogd in uitvoering van Vlaamse Intersectorale Akkoorden voor de social- en non-profitsectoren, gesloten na 1 januari 2014.<br>
 <br>
-Het aantal inwoners in het werkgebied van het Logo wordt, voor de toepassing van dit besluit, bepaald door het agentschap op basis van de gegevens die zijn aangeleverd door de dienst Demografie, Algemene Directie Statistiek en Economische Informatie en die betrekking hebben op het kalenderjaar dat twee kalenderjaren voorafgaat aan het werkingsjaar waarop de subsidie betrekking heeft. Het aantal inwoners dat volgens de verplichte verzekering voor geneeskundige verzorging en uitkeringen recht heeft op een verhoogde tegemoetkoming, wordt voor het laatst beschikbare kalenderjaar bepaald door het agentschap op basis van de gegevens die zijn aangeleverd door het intermutualistisch agentschap.<br>
+Het aantal inwoners in het werkgebied van het Logo wordt, voor de toepassing van dit besluit, bepaald door de administratie op basis van de gegevens die zijn aangeleverd door de dienst Demografie, Algemene Directie Statistiek en Economische Informatie en die betrekking hebben op het kalenderjaar dat twee kalenderjaren voorafgaat aan het werkingsjaar waarop de subsidie betrekking heeft. Het aantal inwoners dat volgens de verplichte verzekering voor geneeskundige verzorging en uitkeringen recht heeft op een verhoogde tegemoetkoming, wordt voor het laatst beschikbare kalenderjaar bepaald door de administratie op basis van de gegevens die zijn aangeleverd door het intermutualistisch agentschap.<br>
 <br>
 De Vlaamse Regering kan de bedragen voor de bijkomende subsidie, vermeld in het tweede lid, verhogen, eventueel in functie van de eigen bijdrage van de gemeenten.
 <p>&nbsp;</p>
@@ -365,13 +426,13 @@ De aanpassing van de bedragen, vermeld in het eerste lid, gebeurt voor het bedra
 <br>
 Elk deel bedraagt 25 % van de geïndexeerde subsidie.<br>
 <br>
-Het derde en het vierde deel voor een bepaald werkingsjaar worden, behalve in het eerste werkingsjaar van een erkenning als Logo, pas uitbetaald als de registratiegegevens, vermeld in artikel 8, 4°, en het financiële verslag, vermeld in artikel 8, 5°, van het vorige werkingsjaar aan het agentschap worden bezorgd.<br>
+Het derde en het vierde deel voor een bepaald werkingsjaar worden, behalve in het eerste werkingsjaar van een erkenning als Logo, pas uitbetaald als de registratiegegevens, vermeld in artikel 8, 4°, en het financiële verslag, vermeld in artikel 8, 5°, van het vorige werkingsjaar aan de administratie worden bezorgd.<br>
 <br>
 De bijkomende subsidie, vermeld in artikel 24, tweede lid, wordt volledig uitbetaald bij het driemaandelijks deel dat uitbetaald wordt als voldaan is aan de subsidievoorwaarden voor de bijkomende subsidie, vermeld in artikel 17/1.<br>
 <br>
-§ 2. In de loop van het volgende werkingsjaar maakt het agentschap een jaarafrekening op basis van zijn beoordeling van de registratiegegevens, vermeld in artikel 8, 4°, die bezorgd werden, en van het financiële verslag, vermeld in artikel 8, 5° en een jaarafrekening per lokale preventiewerking voor de bijkomende subsidie, vermeld in artikel 24, tweede lid, op basis van de beoordeling van de registratiegegevens, vermeld in artikel 17/1, eerste lid, 1°, c), en van het financiële verslag, vermeld in artikel 17/1, eerste lid, 1°, d).<br>
+§ 2. In de loop van het volgende werkingsjaar maakt de administratie een jaarafrekening op basis van zijn beoordeling van de registratiegegevens, vermeld in artikel 8, 4°, die bezorgd werden, en van het financiële verslag, vermeld in artikel 8, 5° en een jaarafrekening per lokale preventiewerking voor de bijkomende subsidie, vermeld in artikel 24, tweede lid, op basis van de beoordeling van de registratiegegevens, vermeld in artikel 17/1, eerste lid, 1°, c), en van het financiële verslag, vermeld in artikel 17/1, eerste lid, 1°, d).<br>
 <br>
-Als uit de evaluatie door het agentschap blijkt dat de financiële verantwoording of de uitvoering van de activiteiten onvoldoende is, beslist het agentschap een deel van de ingebrachte kosten niet te aanvaarden.
+Als uit de evaluatie door de administratie blijkt dat de financiële verantwoording of de uitvoering van de activiteiten onvoldoende is, beslist de administratie een deel van de ingebrachte kosten niet te aanvaarden.
 
 ### ART. 28.
 
@@ -381,7 +442,7 @@ Inkomsten die verkregen worden buiten dit besluit, worden niet in mindering gebr
 
 § 1. De aanleg van een reserve per Logo als vermeld in artikel 38, § 3, van het decreet van 21 november 2003, die wordt opgebouwd uit de subsidie in het kader van dit besluit, hierna reserve te noemen, wordt toegestaan.<br>
 <br>
-§ 2. De reserve wordt elk werkingsjaar ter gelegenheid van de jaarafrekening door het agentschap bepaald door de subsidie in het kader van dit besluit te verminderen met de uitgaven die aanvaard zijn door het agentschap in het kader van de uitvoering van dit besluit. De reserve wordt afzonderlijk bepaald, zowel voor de basissubsidie als voor de bijkomende subsidie voor de lokale preventiewerkingen.<br>
+§ 2. De reserve wordt elk werkingsjaar ter gelegenheid van de jaarafrekening door de administratie bepaald door de subsidie in het kader van dit besluit te verminderen met de uitgaven die aanvaard zijn door de administratie in het kader van de uitvoering van dit besluit. De reserve wordt afzonderlijk bepaald, zowel voor de basissubsidie als voor de bijkomende subsidie voor de lokale preventiewerkingen.<br>
 <br>
 § 3.&nbsp;Elke reserve die wordt opgebouwd in een bepaald werkingsjaar, mag niet meer bedragen dan een&nbsp;vijfde van de geïndexeerde subsidie voor het werkingsjaar in kwestie.<br>
 <br>
@@ -399,11 +460,28 @@ Zonder afbreuk te doen aan de bepaling § 3, tweede lid, wordt&nbsp;elke reserve
 
 ### ART. 30.
 
-§ 1. Alleen de kosten die betrekking hebben op de uitvoering van de   opdrachten en initiatieven, kunnen in rekening worden gebracht.<BR><BR>§ 2.   Kosten van reizen naar en verblijven in het buitenland en reis- en   verblijfskosten van buitenlandse deskundigen worden alleen vergoed als het   agentschap daarvoor op voorhand toestemming heeft verleend.<BR><BR>§ 3. Kosten   die verbonden zijn aan leningen, worden niet terugbetaald behalve als het   agentschap daarvoor op voorhand toestemming heeft verleend.<BR><BR>§ 4. Voor de   aankoop van uitrustingsgoederen voor een totaal bedrag dat hoger is dan 5% van   de subsidie van het werkingsjaar in kwestie, moet op voorhand toestemming worden   verleend door het agentschap. Voor die toestemming worden alleen   uitrustingsgoederen met een aanschafwaarde van meer dan 500 euro, btw   inbegrepen, in rekening gebracht.<BR><BR>Uitrustingsgoederen kunnen alleen   worden gefinancierd via dit besluit als de kosten ervan gespreid worden   afgeschreven. De afschrijvingstermijn voor informatica-apparatuur, hard- en   software, bedraagt ten minste drie jaar. Voor meubilair en andere   uitrustingsgoederen bedraagt die ten minste vijf jaar.<BR><BR>§ 5. De aanwending   van middelen die verkregen zijn in het kader van dit besluit, om onroerende   goederen al dan niet volledig te verwerven, is alleen mogelijk als de minister   daarvoor op voorhand, na advies van de inspectie van financiën, toestemming   heeft verleend.<BR><BR>
+§ 1. Alleen de kosten die betrekking hebben op de uitvoering van de opdrachten en initiatieven, kunnen in rekening worden gebracht.<br>
+<br>
+§ 2. Kosten van reizen naar en verblijven in het buitenland en reis- en verblijfskosten van buitenlandse deskundigen worden alleen vergoed als de administratie daarvoor op voorhand toestemming heeft verleend.<br>
+<br>
+§ 3. Kosten die verbonden zijn aan leningen, worden niet terugbetaald behalve als de administratie daarvoor op voorhand toestemming heeft verleend.<br>
+<br>
+§ 4. Voor de aankoop van uitrustingsgoederen voor een totaal bedrag dat hoger is dan 5% van de subsidie van het werkingsjaar in kwestie, moet op voorhand toestemming worden verleend door de administratie. Voor die toestemming worden alleen uitrustingsgoederen met een aanschafwaarde van meer dan 500 euro, btw inbegrepen, in rekening gebracht.<br>
+<br>
+Uitrustingsgoederen kunnen alleen worden gefinancierd via dit besluit als de kosten ervan gespreid worden afgeschreven. De afschrijvingstermijn voor informatica-apparatuur, hard- en software, bedraagt ten minste drie jaar. Voor meubilair en andere uitrustingsgoederen bedraagt die ten minste vijf jaar.<br>
+<br>
+§ 5. De aanwending van middelen die verkregen zijn in het kader van dit besluit, om onroerende goederen al dan niet volledig te verwerven, is alleen mogelijk als de minister daarvoor op voorhand, na advies van de inspectie van financiën, toestemming heeft verleend.<br>
+&nbsp;
 
 ### ART. 31.
 
-§ 1. Iedere mediacampagne wordt door het Logo minimaal veertien dagen op   voorhand gemeld aan het agentschap.<BR><BR>§ 2. De steun van de Vlaamse overheid   moet vermeld worden op publicaties, presentaties en andere mededelingen over de   opdrachten en initiatieven van het Logo.<BR><BR>Die publicaties, presentaties en   mededelingen worden, bij voorkeur elektronisch, bezorgd aan het agentschap. Als   dat niet mogelijk is, wordt het agentschap daarover geïnformeerd.<BR><BR>§ 3. De   Vlaamse overheid en de organisaties of personen die ze aanwijst, mogen, zonder   dat ze eventuele kosten moeten betalen of aan andere verplichtingen moeten   voldoen, gebruikmaken van alle gegevens, producten, documenten en materialen   zoals ontwikkelde software en bijhorende broncodes, logo's, foto's en   publicaties die in het kader van dit besluit werden ontwikkeld en waarvan het   Logo, of zijn onderaannemer, de rechten bezit.
+§ 1. Iedere mediacampagne wordt door het Logo minimaal veertien dagen op voorhand gemeld aan de administratie.<br>
+<br>
+§ 2. De steun van de Vlaamse overheid moet vermeld worden op publicaties, presentaties en andere mededelingen over de opdrachten en initiatieven van het Logo.<br>
+<br>
+Die publicaties, presentaties en mededelingen worden, bij voorkeur elektronisch, bezorgd aan de administratie. Als dat niet mogelijk is, wordt de administratie daarover geïnformeerd.<br>
+<br>
+§ 3. De Vlaamse overheid en de organisaties of personen die ze aanwijst, mogen, zonder dat ze eventuele kosten moeten betalen of aan andere verplichtingen moeten voldoen, gebruikmaken van alle gegevens, producten, documenten en materialen zoals ontwikkelde software en bijhorende broncodes, logo's, foto's en publicaties die in het kader van dit besluit werden ontwikkeld en waarvan het Logo, of zijn onderaannemer, de rechten bezit.
 
 ### ART. 32.
 
@@ -411,7 +489,8 @@ Zonder afbreuk te doen aan de bepaling § 3, tweede lid, wordt&nbsp;elke reserve
 
 ### ART. 33.
 
-Het agentschap kan de vorm van het financiële verslag nader   bepalen.<BR><BR>
+De administratie kan de vorm van het financiële verslag nader bepalen.<br>
+&nbsp;
 
 ### ART. 34.
 
@@ -421,17 +500,26 @@ Voor Logo's met een erkenning die niet ingaat op 1 januari of die niet eindigt o
 
 ### ART. 35.
 
-Het agentschap wordt belast met het toezicht op de Logo's.
+De administratie wordt belast met het toezicht op de Logo's.
 
 ### ART. 36.
 
-De voortgang van de realisatie van de opdrachten en initiatieven van de Logo's wordt, als het agentschap dat nodig acht, gecontroleerd en aangestuurd tijdens overlegmomenten met het agentschap. Het overleg wordt door het Logo voorbereid en gedocumenteerd, zodat een goede voortgangscontrole mogelijk is.<br /><br />Het agentschap kan andere deskundigen uitnodigen om deel te nemen aan het overleg.<br /><br />
+De voortgang van de realisatie van de opdrachten en initiatieven van de Logo's wordt, als de administratie dat nodig acht, gecontroleerd en aangestuurd tijdens overlegmomenten met de administratie. Het overleg wordt door het Logo voorbereid en gedocumenteerd, zodat een goede voortgangscontrole mogelijk is.<br>
+<br>
+De administratie kan andere deskundigen uitnodigen om deel te nemen aan het overleg.<br>
+&nbsp;
 
 ## HOOFDSTUK XI Administratieve sancties
 
 ### ART. 37.
 
-Als niet wordt voldaan aan de bepalingen van het decreet van 21 november 2003 en van dit besluit, kan de administrateur-generaal : <br />1° ter uitvoering van artikel 76 van het decreet van 21 november 2003 een administratieve geldboete opleggen;<br />2° ter uitvoering van artikel 77 van het decreet van 21 november 2003 de subsidie van een Logo inhouden of terugvorderen;<br />3° ter uitvoering van artikel 78 van het decreet van 21 november 2003 de erkenning van een Logo schorsen of intrekken.<br /><br />De administratieve sanctie, vermeld in het eerste lid, 3°, wordt opgelegd volgens de bepalingen, vermeld in artikel 18 tot en met 22.<br /><br />
+Als niet wordt voldaan aan de bepalingen van het decreet van 21 november 2003 en van dit besluit, kan de secretaris-generaal :<br>
+1° ter uitvoering van artikel 76 van het decreet van 21 november 2003 een administratieve geldboete opleggen;<br>
+2° ter uitvoering van artikel 77 van het decreet van 21 november 2003 de subsidie van een Logo inhouden of terugvorderen;<br>
+3° ter uitvoering van artikel 78 van het decreet van 21 november 2003 de erkenning van een Logo schorsen of intrekken.<br>
+<br>
+De administratieve sanctie, vermeld in het eerste lid, 3°, wordt opgelegd volgens de bepalingen, vermeld in artikel 18 tot en met 22.<br>
+&nbsp;
 
 ## HOOFDSTUK XII Wijzigingsbepalingen
 
