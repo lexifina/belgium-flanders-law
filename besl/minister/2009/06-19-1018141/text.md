@@ -52,4 +52,4 @@ Ter uitvoering van artikel 2 van het besluit van de Vlaamse Regering van 19 juni
 
 ### ART. 2.
 
-De administrateur-generaal van het Vlaams Agentschap Zorg en Gezondheid wijst de ambtenaren-artsen en de ambtenaren aan, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 19 juni 2009 betreffende initiatieven om uitbreiding van schadelijke effecten, die veroorzaakt zijn door biotische factoren, tegen te gaan.
+De secretaris-generaal van het Departement Zorg wijst de ambtenaren-artsen en de ambtenaren aan, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 19 juni 2009 betreffende initiatieven om uitbreiding van schadelijke effecten, die veroorzaakt zijn door biotische factoren, tegen te gaan.

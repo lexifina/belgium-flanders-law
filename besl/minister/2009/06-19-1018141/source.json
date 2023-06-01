@@ -2,16 +2,16 @@
   "codex_id": 1018141,
   "title": "Ministerieel besluit van 2009-06-19 tot bepaling van de lijst van infecties die gemeld moeten worden en tot delegatie van de bevoegdheid om ambtenaren-artsen en ambtenaren aan te wijzen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018141/VolledigDocument?datum=2017-01-01",
-  "source_sha256": "1f179e976b75bfe0e027f299a5635ee648ed5b6d6f7b71320dbd5d6af6b1e0a2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018141/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "86548a48eddb94ed1e0a5ce64fd8345f7f95d5c826ca0487b2a717978bf6ef04",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018141&param=informatie",
-  "as_of": "2017-01-01",
+  "as_of": "2023-06-01",
   "made": "2009-06-19",
   "gazette": "2009-07-20",
   "numac": 2009203206,
   "document_start": "2009-07-30",
   "document_end": null,
-  "in_force": "2017-01-01",
+  "in_force": "2023-06-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
