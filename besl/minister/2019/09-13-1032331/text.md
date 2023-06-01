@@ -17,7 +17,7 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° afdeling Preventie: de afdeling Preventie van het Agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid", die het toezicht uitoefent op de naleving van het Legionellabesluit .<br>
+1° ...<br>
 2° EasyDisR: apparaat dat water bestemd voor menselijke consumptie desinfecteert door injectie in de koudwaterleiding van in situ aangemaakte Chloordioxide oplossing, en dat ontwikkeld werd door de firma Aqua Ecologic;<br>
 3° beheersmaatregelen: maatregelen die bestaan uit controlemaatregelen, voorkomingsmaatregelen en correctieve maatregelen;<br>
 4° controlemaatregelen: maatregelen die het mogelijk maken na te gaan of de werkingsvoorwaarden van de installatie die aerosol produceert van die aard zijn dat er geen omstandigheden optreden die de ontwikkeling van legionellabacteriën bevorderen;<br>

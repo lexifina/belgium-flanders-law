@@ -2,16 +2,16 @@
   "codex_id": 1032331,
   "title": "Ministerieel besluit van 2019-09-13 tot goedkeuring van het EasyDis-toestelR als alternatieve beheersmaatregel in het kader van het Legionellabesluit",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032331/VolledigDocument?datum=2019-10-12",
-  "source_sha256": "14fad1dd87976d04e3246cc002320ae8eb3d8fd0677f8619339eb83b4b2579e6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032331/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "8be6af94da1af453820df9b825131f5a3c422def11440272114e244540747524",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032331&param=informatie",
-  "as_of": "2019-10-12",
+  "as_of": "2023-06-01",
   "made": "2019-09-13",
   "gazette": "2019-10-11",
   "numac": 2019042067,
   "document_start": "2019-10-12",
   "document_end": null,
-  "in_force": "2019-10-12",
+  "in_force": "2023-06-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2019-10-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
