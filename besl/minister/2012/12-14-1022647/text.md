@@ -10,7 +10,15 @@ In dit besluit wordt verstaan onder :<BR>1° basiswerking : de werking van   de 
 
 ### ART. 2.
 
-<P>Elke vereniging houdt een activiteitenregister bij waarin minimaal de   georganiseerde activiteiten in het kader van de beleidswerking en de   georganiseerde vormingsactiviteiten worden bijgehouden.<BR></P>  <P>Het activiteitenregister bevat :<BR>1° de datum van de activiteit;<BR>2° een   indeling van de activiteit in de rubrieken basiswerking, beleidswerking, interne   vorming of externe vorming;<BR>3° de aard van de activiteit en het behandelde   thema;<BR>4° het aantal deelnemers in armoede en het aantal deelnemers niet in   armoede.<BR></P>  <P>Het model van activiteitenregister wordt ter beschikking gesteld op de   website www.welzijnensamenleving.be van het de afdeling Welzijn en Samenleving   van het departement Welzijn, Volksgezondheid en Gezin.</P>
+<p>Elke vereniging houdt een activiteitenregister bij waarin minimaal de georganiseerde activiteiten in het kader van de beleidswerking en de georganiseerde vormingsactiviteiten worden bijgehouden.</p>
+
+<p>Het activiteitenregister bevat :<br>
+1° de datum van de activiteit;<br>
+2° een indeling van de activiteit in de rubrieken basiswerking, beleidswerking, interne vorming of externe vorming;<br>
+3° de aard van de activiteit en het behandelde thema;<br>
+4° het aantal deelnemers in armoede en het aantal deelnemers niet in armoede.</p>
+
+<p>Het model van activiteitenregister wordt ter beschikking gesteld op de website van het Departement Zorg.</p>
 
 ### ART. 3.
 
