@@ -121,7 +121,7 @@ Het hoofd van het agentschap heeft delegatie van beslissingsbevoegdheid voor de 
 <br>
 Met betrekking tot de aangelegenheden, vermeld in het eerste lid, wordt aan het hoofd van het agentschap een aanvullende delegatie verleend voor het toekennen van gereglementeerde subsidies waarvoor de reglementering geen vast recht instelt voor de mogelijke begunstigden.<br>
 <br>
-De algemene delegatie aan het hoofd van het agentschap betreffende de toezichts-, controle- en inspectietaken, vermeld in artikel 16, 6°, van het besluit, vermeld in het eerste lid, wordt, ter uitvoering van artikel 17 van voormelde besluit, beperkt tot de taken die niet uitgeoefend worden door Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin.<br>
+De algemene delegatie aan het hoofd van het agentschap betreffende de toezichts-, controle- en inspectietaken, vermeld in artikel 16, 6°, van het besluit, vermeld in het eerste lid, wordt, ter uitvoering van artikel 17 van voormelde besluit, beperkt tot de taken die niet uitgeoefend worden door Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.<br>
 &nbsp;
 
 ### ART. 16.
