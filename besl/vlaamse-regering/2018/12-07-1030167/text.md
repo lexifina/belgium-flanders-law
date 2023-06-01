@@ -97,7 +97,7 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° agentschap: het agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+1° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 2° beheerinstantie: een of meer personen die een initiatief van beschut wonen of een psychiatrisch verzorgingstehuis vertegenwoordigen en juridisch kunnen binden;<br>
 3° ...;<br>
 4° context: de familie en de naastbetrokkenen die een sociale en emotionele band hebben met de zorggebruiker;<br>
@@ -107,7 +107,7 @@ In dit besluit wordt verstaan onder:<br>
 8° gecoördineerde wet van 10 juli 2008: de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen;<br>
 9° herstellende zorg: de herstelondersteunende zorg, vermeld in artikel 54, § 1, tweede en derde lid, van het decreet van 6 juli 2018;<br>
 10° ...;<br>
-11° leidend ambtenaar: de leidend ambtenaar, vermeld in artikel 12 van het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+11° leidend ambtenaar: het hoofd van de administratie;<br>
 12° minister: de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
 13°...;<br>
 14° netwerk: het geestelijke gezondheidsnetwerk. Dit is een geformaliseerd samenwerkingsverband dat verantwoordelijk is voor een bepaald werkgebied en betrokken is bij de zorg voor de deelpopulatie waartoe het samenwerkingsverband zich richt, en dat in samenwerking met vertegenwoordigers van gebruikers en hun context het geestelijke gezondheidsaanbod en functies faciliteert en optimaliseert;<br>
@@ -116,11 +116,11 @@ In dit besluit wordt verstaan onder:<br>
 17° residentiële zorg- of welzijnsvoorziening: een zorg- of welzijnsvoorziening die behandeling of zorg en ondersteuning met verblijf aanbiedt;<br>
 18° verhoogde tegemoetkoming: de verhoogde tegemoetkoming, vermeld in artikel 37, § 1 en § 19, van de wet gecoördineerd op 14 juli 1994;<br>
 19° raadgevend comité VSB: het raadgevend comité van het Agentschap voor Vlaamse Sociale Bescherming, vermeld in artikel 17 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
-20° raadgevend comité Zorg en Gezondheid: het raadgevend comité van het agentschap, vermeld in artikel 18 van het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+20° ...;<br>
 20° /1 verblijfsovereenkomst: een verblijfsovereenkomst als vermeld in artikel 74;<br>
 21° werkdag: een dag die geen zaterdag, zondag of wettelijke feestdag is;<br>
 21° /1 zorggebruiker die geïnterneerd is: een zorggebruiker ten aanzien van wie de internering bevolen is als vermeld in artikel 9 van de wet van 5 mei 2014 betreffende de internering;<br>
-22° zorginspectie: de Zorginspectie, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.
+22° zorginspectie: Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.
 
 ### ART 1/1.
 
@@ -135,7 +135,7 @@ In afwijking van het eerste lid is dit besluit van toepassing op de tegemoetkomi
 De verzekeringsinstellingen oefenen de opdrachten uit die hun conform het decreet van 6 juli 2018 zijn toevertrouwd onder de volgende voorwaarden en modaliteiten:<br>
 1° constructieve samenwerking voor de uitvoering, de verbetering, de bevordering, de optimalisatie van de organisatie van de zorg, vermeld in het decreet van 6 juli 2018;<br>
 2° opbouwend overleg voor de uitbouw van nieuwe initiatieven en projecten die de verbetering van de organisatie van het zorgaanbod beogen;<br>
-3° uitvoering en toepassing van de administratieve processen en procedures zoals die toegepast worden door het agentschap in samenspraak met de verzekeringsinstellingen en in overleg met de voorzieningen indien een verandering van administratieve processen een intensieve aanpassing voor hen inhoudt.
+3° uitvoering en toepassing van de administratieve processen en procedures zoals die toegepast worden door de administratie in samenspraak met de verzekeringsinstellingen en in overleg met de voorzieningen indien een verandering van administratieve processen een intensieve aanpassing voor hen inhoudt.
 
 ### ART 3.
 
@@ -145,8 +145,8 @@ De verzekeringsinstellingen oefenen de opdrachten uit die hun conform het decree
 1° de tegemoetkomingen uitbetalen aan de rechthebbenden, vervoerders of zorgvoorzieningen conform de voorwaarden, vermeld in artikel 3 en 4 van het decreet van 6 juli 2018, en conform de voorwaarden, vermeld in dit besluit;<br>
 2° de tegemoetkomingen, vermeld in punt 1°, uitbetalen binnen de termijnen vastgesteld in dit besluit, en conform de technische specificaties vastgesteld in de facturatie en boekhoudkundige instructies;<br>
 3° hun leden informeren en adviseren, ervoor bemiddelen en de rechten van hun leden verdedigen;<br>
-4° onregelmatigheden en misbruiken melden aan het agentschap over de financiering, de veiligheid van de zorggebruiker en de kwaliteit van het zorgaanbod;<br>
-5° de opgevraagde statistische informatie over de uitvoering van de opdrachten van de verzekeringsinstellingen vermeld in het decreet aan het agentschap bezorgen met het oog op beleidsrapportering.<br>
+4° onregelmatigheden en misbruiken melden aan de administratie over de financiering, de veiligheid van de zorggebruiker en de kwaliteit van het zorgaanbod;<br>
+5° de opgevraagde statistische informatie over de uitvoering van de opdrachten van de verzekeringsinstellingen vermeld in het decreet aan de administratie bezorgen met het oog op beleidsrapportering.<br>
 <br>
 § 3. De verzekeringsinstellingen voeren de opdrachten en taken, vermeld in paragraaf 2, uit op een efficiënte en kwaliteitsvolle wijze en streven daarmee de volgende doelstellingen na:<br>
 1° de Vlaamse Gemeenschap in eerste instantie toelaten de continuïteit van de zorg aan de zorggebruiker, vermeld in artikel 3 van het decreet van 6 juli 2018, te garanderen;<br>
@@ -154,9 +154,9 @@ De verzekeringsinstellingen oefenen de opdrachten uit die hun conform het decree
 3° de Vlaamse Gemeenschap toelaten op die vlakken een eigen beleid te voeren;<br>
 4° op korte termijn een integratie van die zorg in de Vlaamse sociale bescherming nastreven en voorbereiden.<br>
 <br>
-§ 4. De mate waarin de doelstellingen, vermeld in paragraaf 3, worden nageleefd, wordt permanent opgevolgd door het agentschap aan de hand van de rapportering door de verzekeringsinstellingen die zowel mondeling, als om de zes maanden schriftelijk gebeurt.<br>
+§ 4. De mate waarin de doelstellingen, vermeld in paragraaf 3, worden nageleefd, wordt permanent opgevolgd door de administratie aan de hand van de rapportering door de verzekeringsinstellingen die zowel mondeling, als om de zes maanden schriftelijk gebeurt.<br>
 <br>
-De verzekeringsinstellingen bezorgen het agentschap volgens de modaliteiten bepaald bij overeenkomst tussen het agentschap en de verzekeringsinstellingen:<br>
+De verzekeringsinstellingen bezorgen de administratie volgens de modaliteiten bepaald bij overeenkomst tussen de administratie en de verzekeringsinstellingen:<br>
 1° maandelijks gegevens over de kaspositie in het begin van de maand, de ontvangsten, de uitgaven, het beschikbare bedrag op het einde van de maand en de openstaande te betalen prestaties en tegemoetkomingen, zowel als de terugvorderingen en de vervaldagnota's, dit zijn de documenten T20(VL). De verdere technische specificaties worden beschreven in de overeenkomst met de verzekeringsinstellingen;<br>
 2° maandelijks de facturatiegegevens die de zorgvoorzieningen bezorgen aan de verzekeringsinstellingen. Dit zijn de documenten N(Vl). De verdere technische specificaties worden beschreven in de overeenkomst met de verzekeringsinstellingen;<br>
 3° jaarlijks het aantal unieke patiënten per zorgvoorziening, per verstrekkingsjaar, per geboortejaar, per geslacht, per arrondissement, en per type rechthebbende op een geanonimiseerde manier. De verdere technische specificaties worden beschreven in de overeenkomst met de verzekeringsinstellingen;<br>
@@ -165,9 +165,9 @@ De verzekeringsinstellingen bezorgen het agentschap volgens de modaliteiten bepa
 <br>
 In de overeenkomst met de verzekeringsinstellingen worden de specifieke variabelen, de termijnen en de manier van overdracht opgenomen.<br>
 <br>
-De verzekeringsinstellingen nemen de nodige maatregelen en voorzien de interne controles zodat de kwaliteit kan gegarandeerd worden van de data die ze aanleveren aan het agentschap.<br>
+De verzekeringsinstellingen nemen de nodige maatregelen en voorzien de interne controles zodat de kwaliteit kan gegarandeerd worden van de data die ze aanleveren aan de administratie.<br>
 <br>
-Het agentschap kan in overleg met de verzekeringsinstellingen en de betrokken actoren de facturatie en boekhoudkundige instructies vermeld in de overeenkomst aanpassen om wijzigingen door te voeren die dringend nodig zijn als gevolg van de evoluties in de technische inzameling en het doorzenden van de gegevens.<br>
+de administratie kan in overleg met de verzekeringsinstellingen en de betrokken actoren de facturatie en boekhoudkundige instructies vermeld in de overeenkomst aanpassen om wijzigingen door te voeren die dringend nodig zijn als gevolg van de evoluties in de technische inzameling en het doorzenden van de gegevens.<br>
 <br>
 § 5. De verzekeringsinstelling beschikt over een beleidsstructuur, een administratieve en boekhoudkundige organisatie en een interne controle die aan haar activiteiten aangepast zijn.<br>
 <br>
@@ -197,7 +197,7 @@ De waarderingsregels zijn opgenomen in hoofdstuk 2, afdeling 2 van het koninklij
 11° het attest van gevangenschap;<br>
 12° de gezondheidsgegevens in het kader van een aanvraag, toekenning, betaling en eventuele terugvordering van een tegemoetkoming als vermeld in deel 1, titel 4 van dit besluit.<br>
 <br>
-§ 2. De verzekeringsinstellingen bezorgen het agentschap en Intermutualistisch Agentschap vermeld in artikel 13, § 7 van het decreet van 6 juli 2018 de volgende gepseudonimiseerde gegevens van de bij hun aangesloten rechthebbenden via magnetische drager met de volgende periodiciteit:<br>
+§ 2. De verzekeringsinstellingen bezorgen de administratie en Intermutualistisch Agentschap vermeld in artikel 13, § 7 van het decreet van 6 juli 2018 de volgende gepseudonimiseerde gegevens van de bij hun aangesloten rechthebbenden via magnetische drager met de volgende periodiciteit:<br>
 1° maandelijks: de terugbetaalde zorg;<br>
 2° op 30 juni en 31 december: de gegevens vermeld in paragraaf 1, 2°, 3°, 4°, 5°, 6°, 7°, 8°, 9°, 10°, 11° en 12° ;<br>
 <br>
@@ -246,15 +246,15 @@ De psychiatrische verzorgingstehuizen en initiatieven van beschut wonen verwerke
 
 ### ART 8.
 
-§ 1. Het agentschap verwerkt de gepseudonimiseerde persoonsgegevens van de zorggebruikers en de naam van de coördinator vermeld in bijlage 1 en 2. Deze gegevens worden bewaard tot 15 jaar na ontvangst.<br>
+§ 1. de administratie verwerkt de gepseudonimiseerde persoonsgegevens van de zorggebruikers en de naam van de coördinator vermeld in bijlage 1 en 2. Deze gegevens worden bewaard tot 15 jaar na ontvangst.<br>
 <br>
-Het agentschap verwerkt de persoonsgegevens van de personeelsleden vermeld in artikel 89, artikel 144, artikel 153, § 2, 7°, d), f) en g). Deze gegevens worden bewaard tot 15 jaar na ontvangst.<br>
+de administratie verwerkt de persoonsgegevens van de personeelsleden vermeld in artikel 89, artikel 144, artikel 153, § 2, 7°, d), f) en g). Deze gegevens worden bewaard tot 15 jaar na ontvangst.<br>
 <br>
-De persoonsgegevens uit het personeelskostendossier, vermeld in artikel 193, derde lid, worden door het agentschap bewaard tot het ogenblik dat de tegemoetkoming voor revalidatieverstrekkingen wordt aangepast, conform artikel 193, hetzij tot één jaar na de beëindiging van de revalidatieovereenkomst.<br>
+De persoonsgegevens uit het personeelskostendossier, vermeld in artikel 193, derde lid, worden door de administratie bewaard tot het ogenblik dat de tegemoetkoming voor revalidatieverstrekkingen wordt aangepast, conform artikel 193, hetzij tot één jaar na de beëindiging van de revalidatieovereenkomst.<br>
 <br>
-De persoonsgegevens uit het personeelskostendossier, vermeld in artikel 322, § 2, worden door het agentschap bewaard tot maximaal één jaar na de ontvangst van een geactualiseerd personeelskostendossier, hetzij tot één jaar na de beëindiging van de overeenkomst met de multidisciplinaire begeleidingsequipe.<br>
+De persoonsgegevens uit het personeelskostendossier, vermeld in artikel 322, § 2, worden door de administratie bewaard tot maximaal één jaar na de ontvangst van een geactualiseerd personeelskostendossier, hetzij tot één jaar na de beëindiging van de overeenkomst met de multidisciplinaire begeleidingsequipe.<br>
 <br>
-§ 2. Het in artikel 13, § 2 vermelde agentschap is het Agentschap voor Vlaamse Sociale Bescherming, dat voor de in artikel 13, § 2 vermelde opdrachten de volgende gegevens verwerkt:<br>
+§ 2. Het in artikel 13, § 2 vermelde agentschap is de administratie voor Vlaamse Sociale Bescherming, dat voor de in artikel 13, § 2 vermelde opdrachten de volgende gegevens verwerkt:<br>
 1° de voor- en achternaam;<br>
 2° de leeftijd;<br>
 3° het geslacht;<br>
@@ -269,17 +269,17 @@ De persoonsgegevens, vermeld in artikel 13, § 2, tweede lid, van het decreet va
 <br>
 De persoonsgegevens die worden verwerkt door de Zorgkassencommissie, worden na het verlenen van het advies vernietigd. De persoonsgegevens die verwerkt worden door de Expertencommissie worden bewaard voor een termijn van 30 jaar na de verleende zorg.<br>
 <br>
-Het in artikel 13, § 3, 1° van het decreet van 6 juli 2018 vermelde agentschap dat de Zorgkassencommissie aanstuurt is het Agentschap voor Vlaamse Sociale Bescherming. Het in artikel 13, § 3, 1° van het decreet van 6 juli 2018 vermelde agentschap dat de werking van Expertencommissie aanstuurt is het agentschap.<br>
+Het in artikel 13, § 3, 1° van het decreet van 6 juli 2018 vermelde agentschap dat de Zorgkassencommissie aanstuurt is de administratie voor Vlaamse Sociale Bescherming. Het in artikel 13, § 3, 1° van het decreet van 6 juli 2018 vermelde agentschap dat de werking van Expertencommissie aanstuurt is de administratie.<br>
 <br>
-§ 3. De verzekeringsinstellingen bezorgen voor de analyse, vermeld in artikel 13, § 6, eerste lid, van het decreet van 6 juli 2018, aan het agentschap de volgende statistische gegevens van de rechthebbenden: de leeftijd, het geslacht, de nationaliteit, de woon- en verblijfplaats, de gezinssamenstelling, het gezinsinkomen, de verzekeringsstatus, de loongegevens, het sociaal statuut en de gezondheidsgegevens.<br>
+§ 3. De verzekeringsinstellingen bezorgen voor de analyse, vermeld in artikel 13, § 6, eerste lid, van het decreet van 6 juli 2018, aan de administratie de volgende statistische gegevens van de rechthebbenden: de leeftijd, het geslacht, de nationaliteit, de woon- en verblijfplaats, de gezinssamenstelling, het gezinsinkomen, de verzekeringsstatus, de loongegevens, het sociaal statuut en de gezondheidsgegevens.<br>
 <br>
-De zorgvoorzieningen bezorgen voor de analyse, vermeld in artikel 13, § 6, eerste lid, van het decreet van 6 juli 2018, aan het agentschap de gegevens van de zorggebruikers, vermeld in bijlage 1 en 2, die bij dit besluit zijn gevoegd, alsook de volgende statistische gegevens van de personeelsleden: de leeftijd, de woon- en verblijfplaats.<br>
+De zorgvoorzieningen bezorgen voor de analyse, vermeld in artikel 13, § 6, eerste lid, van het decreet van 6 juli 2018, aan de administratie de gegevens van de zorggebruikers, vermeld in bijlage 1 en 2, die bij dit besluit zijn gevoegd, alsook de volgende statistische gegevens van de personeelsleden: de leeftijd, de woon- en verblijfplaats.<br>
 <br>
-De Expertencommissie bezorgt voor de analyse, vermeld in artikel 13, § 6, eerste lid, van het decreet van 6 juli 2018, aan het agentschap de volgende statistische gegevens van de zorggebruikers: de leeftijd, het geslacht, de woon- en verblijfplaats, de verzekeringsstatus en de gezondheidsgegevens.<br>
+De Expertencommissie bezorgt voor de analyse, vermeld in artikel 13, § 6, eerste lid, van het decreet van 6 juli 2018, aan de administratie de volgende statistische gegevens van de zorggebruikers: de leeftijd, het geslacht, de woon- en verblijfplaats, de verzekeringsstatus en de gezondheidsgegevens.<br>
 <br>
-De Zorgkassencommissie bezorgt voor de analyse, vermeld in artikel 13, § 6, eerste lid, van het decreet van 6 juli 2018, aan het Agentschap voor Vlaamse Sociale Bescherming, de volgende statistische gegevens van de rechthebbenden: de leeftijd, het geslacht, de woon- en verblijfplaats, de verzekeringsstatus en de gezondheidsgegevens.<br>
+De Zorgkassencommissie bezorgt voor de analyse, vermeld in artikel 13, § 6, eerste lid, van het decreet van 6 juli 2018, aan de administratie voor Vlaamse Sociale Bescherming, de volgende statistische gegevens van de rechthebbenden: de leeftijd, het geslacht, de woon- en verblijfplaats, de verzekeringsstatus en de gezondheidsgegevens.<br>
 <br>
-De statistische gegevens, vermeld in dit artikel, worden op vraag van het Agentschap voor Vlaamse Sociale Bescherming elektronisch bezorgd binnen drie maanden. Het Agentschap voor Vlaamse Sociale Bescherming specifieert het doel van het onderzoek in de aanvraag.
+De statistische gegevens, vermeld in dit artikel, worden op vraag van de administratie voor Vlaamse Sociale Bescherming elektronisch bezorgd binnen drie maanden. de administratie voor Vlaamse Sociale Bescherming specifieert het doel van het onderzoek in de aanvraag.
 
 ## HOOFDSTUK 2. Bewijswaarde van elektronische documenten
 
@@ -309,7 +309,7 @@ De minister kan de nadere modaliteiten bepalen.
 
 ### ART 13.
 
-De zorginspectie en het agentschap houden er voor hun eigen bevoegdheden toezicht op dat de bepalingen van dit hoofdstuk gerespecteerd worden. Met behoud van hun eigen specifieke bevoegdheden melden de controlediensten eventuele onregelmatigheden of tekortkomingen ter informatie aan de respectieve sectorale adviescommissie.
+De zorginspectie en de administratie houden er voor hun eigen bevoegdheden toezicht op dat de bepalingen van dit hoofdstuk gerespecteerd worden. Met behoud van hun eigen specifieke bevoegdheden melden de controlediensten eventuele onregelmatigheden of tekortkomingen ter informatie aan de respectieve sectorale adviescommissie.
 
 ## Titel 4. Tegemoetkomingen
 
@@ -325,7 +325,7 @@ Met behoud van de toepassing van andersluidende bepalingen in dit besluit, legt 
 <br>
 De zorgvoorziening dient de aanvraag in met een aangetekende zending of op om het even welke andere manier die toelaat de datum van de indiening met zekerheid vast te stellen.<br>
 <br>
-De zorgvoorziening dient de aanvraag van een tegemoetkoming in met een formulier waarvan het agentschap het model kan bepalen.<br>
+De zorgvoorziening dient de aanvraag van een tegemoetkoming in met een formulier waarvan de administratie het model kan bepalen.<br>
 <br>
 De aanvraag is ontvankelijk zodra de zorgvoorziening alle gegevens bezorgd heeft die vereist zijn conform het aanvraagformulier.<br>
 <br>
@@ -353,7 +353,7 @@ De Zorgkassencommissie brengt aan de verzekeringsinstelling verslag uit over de 
 
 § 1. ...<br>
 <br>
-§ 2. Het initiatief van beschut wonen dient de kennisgeving van opstart begeleiding in met een formulier waarvan het agentschap het model kan bepalen, binnen dertig dagen na de start van de begeleiding.<br>
+§ 2. Het initiatief van beschut wonen dient de kennisgeving van opstart begeleiding in met een formulier waarvan de administratie het model kan bepalen, binnen dertig dagen na de start van de begeleiding.<br>
 <br>
 § 3. ...<br>
 <br>
@@ -391,7 +391,7 @@ De minister kan de nadere regels bepalen voor de mededeling van gegevens, vermel
 
 ### ART 20.
 
-Het agentschap begroot voor elk kalenderjaar het totale bedrag van de kredieten, vermeld in artikel 8, 5°, van het decreet van 6 juli 2018, voor het volgende kalenderjaar voor alle sectoren, vermeld in artikel 3, eerste lid, van het voormelde decreet. Dat totale kredietbedrag is het voorschot op de tegemoetkomingen voor zorg geleverd in het kalenderjaar in kwestie dat het agentschap aan de verzekeringsinstellingen uitbetaalde.<br>
+De administratie begroot voor elk kalenderjaar het totale bedrag van de kredieten, vermeld in artikel 8, 5°, van het decreet van 6 juli 2018, voor het volgende kalenderjaar voor alle sectoren, vermeld in artikel 3, eerste lid, van het voormelde decreet. Dat totale kredietbedrag is het voorschot op de tegemoetkomingen voor zorg geleverd in het kalenderjaar in kwestie dat de administratie aan de verzekeringsinstellingen uitbetaalde.<br>
 <br>
 Voor alle sectoren wordt het totale kredietbedrag voor elk kalenderjaar vastgesteld op basis van de uitgaven van de kalenderjaren die voorafgaan aan het lopende kalenderjaar. Het totale kredietbedrag wordt in maandelijkse schijven uitbetaald.
 
@@ -419,7 +419,7 @@ De minister kan de modaliteiten van deze betaling bepalen.<br>
 <br>
 § 3. ...<br>
 <br>
-§ 4. Het initiatief van beschut wonen brengt de verzekeringsinstelling op de hoogte van het ontslag van de zorggebruiker met een formulier waarvan het agentschap het model heeft bepaald.
+§ 4. Het initiatief van beschut wonen brengt de verzekeringsinstelling op de hoogte van het ontslag van de zorggebruiker met een formulier waarvan de administratie het model heeft bepaald.
 
 ### ART 23.
 
@@ -433,7 +433,7 @@ De minister kan de modaliteiten van deze betaling bepalen.<br>
 <br>
 Bij de facturen voegt de zorgvoorziening per zorggebruiker en per verzekeringsinstelling de individuele kostennota's voor de verleende zorg.<br>
 <br>
-De facturen en de individuele onkostennota's worden opgesteld overeenkomstig de modellen en de facturatie instructies die het agentschap heeft bepaald.<br>
+De facturen en de individuele onkostennota's worden opgesteld overeenkomstig de modellen en de facturatie instructies die de administratie heeft bepaald.<br>
 <br>
 Voor de revalidatievoorzieningen die gevestigd zijn in de ziekenhuizen of in de revalidatieziekenhuizen kunnen die facturaties afgezonderd worden van de facturaties in het kader van de verplichte ziekteverzekering.<br>
 <br>
@@ -455,7 +455,7 @@ De bijdrage van de rechthebbende in de tegemoetkoming wordt vermeld op de factuu
 
 ### ART 26.
 
-Het agentschap betaalt de zorgvoorzieningen de financiële tegemoetkoming in het kader van de sociale akkoorden die afgesloten zijn en de compensatie van de financiële schade van laattijdige toekenningen.
+De administratie betaalt de zorgvoorzieningen de financiële tegemoetkoming in het kader van de sociale akkoorden die afgesloten zijn en de compensatie van de financiële schade van laattijdige toekenningen.
 
 ## HOOFDSTUK 4. Voorlopige toekenning van tegemoetkoming
 
@@ -567,7 +567,7 @@ De ten onrechte uitbetaalde tegemoetkoming wordt bij dwangbevel ingevorderd in d
 1° de zorggebruiker, als er geen afbetalingsplan is, heeft het bedrag van de ten onrechte uitbetaalde tegemoetkomingen niet terugbetaald binnen drie maanden nadat de aangetekende zending, vermeld in artikel 39, eerste lid, is verstuurd;<br>
 2° de zorggebruiker volgt het afbetalingsplan niet.<br>
 <br>
-De verzekeringsinstelling bezorgt de gegevens van de zorggebruiker bij wie de ten onrechte uitbetaalde tegemoetkomingen bij dwangbevel moeten worden ingevorderd, via het agentschap, aan de Vlaamse Belastingdienst.
+De verzekeringsinstelling bezorgt de gegevens van de zorggebruiker bij wie de ten onrechte uitbetaalde tegemoetkomingen bij dwangbevel moeten worden ingevorderd, via de administratie, aan de Vlaamse Belastingdienst.
 
 ### ART 42.
 
@@ -638,11 +638,11 @@ De koppeling aan het indexcijfer, vermeld in het eerste lid, wordt berekend en t
 <br>
 § 3. De zorggebruiker aan wie een beslissing tot terugvordering van een tegemoetkoming is meegedeeld, kan binnen drie maanden vanaf de dag nadat de beroepstermijn verstreken is of vanaf de dag waarop de rechterlijke beslissing in kracht van gewijsde gaat bij de verzekeringsinstelling waarbij hij aangesloten is, een verzoek tot verzaking indienen om af te zien van de terugvordering.<br>
 <br>
-De verzekeringsinstelling bezorgt het verzoek vermeld in het vorige lid aan het agentschap.<br>
+De verzekeringsinstelling bezorgt het verzoek vermeld in het vorige lid aan de administratie.<br>
 <br>
-Het agentschap onderzoekt het verzoek en bezorgt zijn advies aan de leidende ambtenaar.<br>
+De administratie onderzoekt het verzoek en bezorgt zijn advies aan de leidende ambtenaar.<br>
 <br>
-De leidend ambtenaar, of een ambtenaar die hij aangewezen heeft neemt een beslissing op basis van het advies van het agentschap.<br>
+De leidend ambtenaar, of een ambtenaar die hij aangewezen heeft neemt een beslissing op basis van het advies van de administratie.<br>
 <br>
 Het is alleen toegestaan om af te zien van de terugvordering als de zorggebruiker te goeder trouw is en zich in een behartenswaardige toestand bevindt.<br>
 <br>
@@ -723,10 +723,10 @@ De bijdragen die bij of krachtens het decreet van 6 juli 2018 gedragen moeten wo
 De aanvraag van een tegemoetkoming in de reis- en verblijfskosten wordt samen met de aanvraag van een tegemoetkoming voor buitengewone zorg ingediend.<br>
 <br>
 § 2. De aanvraag bevat de volgende elementen:<br>
-1° een gedagtekend en ingevuld inlichtingsblad waarvan het agentschap het model opmaakt;<br>
-2° een voorschrift, waarvan het model kan worden vastgesteld door het agentschap, en dat een arts-specialist die gespecialiseerd is in de behandeling van de desbetreffende aandoening, opmaakt, dagtekent en ondertekent en waarbij een omstandig geneeskundig verslag is gevoegd dat alle inlichtingen bevat die toelaten te besluiten of de buitengewone zorg voldoet aan de voorwaarden voor een tegemoetkoming die gesteld zijn bij of krachtens het decreet van 6 juli 2018;<br>
+1° een gedagtekend en ingevuld inlichtingsblad waarvan de administratie het model opmaakt;<br>
+2° een voorschrift, waarvan het model kan worden vastgesteld door de administratie, en dat een arts-specialist die gespecialiseerd is in de behandeling van de desbetreffende aandoening, opmaakt, dagtekent en ondertekent en waarbij een omstandig geneeskundig verslag is gevoegd dat alle inlichtingen bevat die toelaten te besluiten of de buitengewone zorg voldoet aan de voorwaarden voor een tegemoetkoming die gesteld zijn bij of krachtens het decreet van 6 juli 2018;<br>
 3° een gedetailleerde factuur in geval van buitengewone zorg voor revalidatie of geestgelijke gezondheidszorg die is toegediend in een voorziening in het Nederlandstalige taalgebied of in een door de Vlaamse Gemeenschap erkende voorziening in het tweetalige gebied Brussel-Hoofdstad, dan wel een omstandig bestek in geval van buitengewone zorg voor revalidatie of geestelijke gezondheidzorg gepland in een voorziening in de Franstalige Gemeenschap, in de Duitstalige Gemeenschap of in het buitenland;<br>
-4° een verklaring op erewoord, waarvan het agentschap het model opmaakt, waarin de rechthebbende:<br>
+4° een verklaring op erewoord, waarvan de administratie het model opmaakt, waarin de rechthebbende:<br>
 a) bevestigt dat hij, voor de zorg waarvoor hij een tegemoetkoming vraagt, zijn rechten heeft uitgeput krachtens de wetgeving, vermeld in artikel 39, tweede lid, van het decreet van 6 juli 2018, en geen rechten kan doen gelden krachtens een individueel of collectief gesloten overeenkomst;<br>
 b) meedeelt voor welk bedrag hij, in voorkomend geval, zijn rechten kan doen gelden krachtens de voormelde overeenkomst;<br>
 c) bevestigt dat hij ervan op de hoogte is gebracht dat een toestemming voor een behandeling in het buitenland, verleend door zijn verzekeringsinstelling, niet van rechtswege het recht opent op een tegemoetkoming voor buitengewone zorg;<br>
@@ -772,7 +772,7 @@ De beslissing, vermeld in het eerste lid, bepaalt het bedrag van de geldboete en
 <br>
 De beslissing wordt ter kennis gebracht aan de rechthebbende of de vervoerder met een aangetekende zending en wordt geacht te zijn ontvangen de derde werkdag die volgt op het overhandigen van de briefomslag bij de post, tenzij de geadresseerde kan bewijzen dat de kennisgeving hem pas later heeft bereikt. Zij heeft uitwerking de dag van de kennisgeving.<br>
 <br>
-§ 3. De opbrengst van de administratieve geldboeten wordt aan het agentschap overgemaakt.<br>
+§ 3. De opbrengst van de administratieve geldboeten wordt aan de administratie overgemaakt.<br>
 <br>
 § 4. De administratieve geldboete die opgelegd is zonder uitstel van de tenuitvoerlegging ervan, wordt binnen twee maanden vanaf de datum van de kennisgeving van de beslissing betaald.<br>
 <br>
@@ -811,7 +811,7 @@ De documenten die de betaling van de tegemoetkomingen toestaan, vermeld in artik
 
 Om na te gaan of zorg overbodig is als vermeld in artikel 43, § 1, eerste lid, 6°, van het decreet van 6 juli 2018, kan de leidend ambtenaarhet Agentschap voor Vlaamse Sociale Bescherming, of de ambtenaar die hij aangewezen heeft, aan de Zorgkassencommissie vragen een controle uit te voeren conform artikel 25 van het decreet van 6 juli 2018.<br>
 <br>
-Op basis van de resultaten van het onderzoek van de Zorgkassencommissie en na advies van de Expertencommissie die voorafgaand in dialoog gaat met de betreffende sectorale adviescommissie stelt het agentschap, vast of de zorg al dan niet overbodig is conform artikel 43, § 1, eerste lid, 6°, van het decreet van 6 juli 2018.<br>
+Op basis van de resultaten van het onderzoek van de Zorgkassencommissie en na advies van de Expertencommissie die voorafgaand in dialoog gaat met de betreffende sectorale adviescommissie stelt de administratie, vast of de zorg al dan niet overbodig is conform artikel 43, § 1, eerste lid, 6°, van het decreet van 6 juli 2018.<br>
 <br>
 Het advies van de Expertencommissie, vermeld in het tweede lid, beoordeelt of de zorghandelingen bijdragen tot de kwaliteit van de zorg of het bereiken van de zorgdoelstellingen.
 
@@ -827,7 +827,7 @@ De beslissing van de leidend ambtenaar of de ambtenaar die hij aangewezen heeft 
 <br>
 De zorgvoorziening wordt met een aangetekende zending op de hoogte gebracht van de beslissing, vermeld in het eerste lid. Die beslissing wordt geacht te zijn ontvangen op de derde werkdag nadat de briefomslag bij de post overhandigd is, tenzij de geadresseerde kan bewijzen dat de kennisgeving hem pas later heeft bereikt. Die beslissing heeft uitwerking de dag van de kennisgeving.<br>
 <br>
-§ 3. De opbrengst van de administratieve geldboetes wordt aan het agentschap overgemaakt.<br>
+§ 3. De opbrengst van de administratieve geldboetes wordt aan de administratie overgemaakt.<br>
 <br>
 § 4. De administratieve geldboete wordt betaald binnen twee maanden vanaf de datum van de kennisgeving van de beslissing.<br>
 <br>
@@ -851,11 +851,11 @@ Als de inbreuk aanleiding heeft gegeven tot strafrechtelijke vervolging, wordt d
 
 ### ART 63.
 
-De verzekeringsinstelling of de rechthebbende kan de ernstige, nauwkeurige en met elkaar overeenstemmende aanwijzingen van bedrog bij de zorgvoorziening melden aan het agentschap.<br>
+De verzekeringsinstelling of de rechthebbende kan de ernstige, nauwkeurige en met elkaar overeenstemmende aanwijzingen van bedrog bij de zorgvoorziening melden aan de administratie.<br>
 <br>
 De leidend ambtenaar, of de ambtenaar die hij aangewezen heeft, kan de zorgvoorziening met een aangetekende zending op de hoogte brengen van de feiten waarop de aanwijzingen berusten. De aangetekende zending wordt geacht ontvangen te zijn op de derde werkdag nadat de brief aan de postdiensten is overhandigd. Hij nodigt de zorgvoorziening uit hem zijn verweermiddelen mee te delen met een aangetekende zending binnen vijftien werkdagen.<br>
 <br>
-Na het onderzoek van de verweermiddelen, of als hij geen verweermiddelen ontvangen heeft binnen de termijn, vermeld in het vorige lid, bezorgt de leidend ambtenaar of de ambtenaar die hij aangewezen heeft, het dossier aan de zorginspectie. De zorginspectie onderzoekt alle nodige elementen, evalueert de verweermiddelen en rapporteert aan het agentschap. Het agentschap neemt de beslissing op basis van het rapport van de zorginspectie. Als het agentschap beslist de uitbetalingen te schorsen, bepaalt het de duur van de periode van de schorsing. Het agentschap bepaalt ook of de schorsing geheel of gedeeltelijk is.<br>
+Na het onderzoek van de verweermiddelen, of als hij geen verweermiddelen ontvangen heeft binnen de termijn, vermeld in het vorige lid, bezorgt de leidend ambtenaar of de ambtenaar die hij aangewezen heeft, het dossier aan de zorginspectie. De zorginspectie onderzoekt alle nodige elementen, evalueert de verweermiddelen en rapporteert aan de administratie. de administratie neemt de beslissing op basis van het rapport van de zorginspectie. Als de administratie beslist de uitbetalingen te schorsen, bepaalt het de duur van de periode van de schorsing. de administratie bepaalt ook of de schorsing geheel of gedeeltelijk is.<br>
 <br>
 De zorgvoorziening wordt met een aangetekende zending op de hoogte gebracht van de beslissing, vermeld in het derde lid. De beslissing heeft uitwerking, niettegenstaande beroep, vanaf de kennisgeving, die wordt geacht ontvangen te zijn de derde werkdag nadat de brief aan de postdiensten is overhandigd, tenzij de geadresseerde kan bewijzen dat de kennisgeving hem pas later heeft bereikt. Een afschrift van de beslissing wordt gelijktijdig ter kennisgeving meegedeeld aan de verzekeringsinstellingen.<br>
 <br>
@@ -875,7 +875,7 @@ Het dwangbevel, vermeld in artikel 46 van het decreet van 6 juli 2018, wordt gev
 
 De door de Vlaamse Regering aangewezen ambtenaar, vermeld in artikel 9 en 37 van het decreet van 6 juli 2018, is de leidend ambtenaar of de ambtenaar die hij aanwijst.<br>
 <br>
-De beslissing van de leidend ambtenaar, of de ambtenaar die hij aanwijst, bepaalt het bedrag van de geldboete, vermeld in artikel 9 en 37 van het decreet van 6 juli 2018. Bij de beslissing is een uitnodiging gevoegd om de geldboete te betalen binnen drie maanden vanaf de dag van de kennisgeving van de beslissing. De opbrengst van de geldboetes wordt aan het agentschap gestort
+De beslissing van de leidend ambtenaar, of de ambtenaar die hij aanwijst, bepaalt het bedrag van de geldboete, vermeld in artikel 9 en 37 van het decreet van 6 juli 2018. Bij de beslissing is een uitnodiging gevoegd om de geldboete te betalen binnen drie maanden vanaf de dag van de kennisgeving van de beslissing. De opbrengst van de geldboetes wordt aan de administratie gestort
 
 ## Afdeling 4. Verplichtingen voor de verzekeringsinstellingen, de zorgvoorzieningen en de rechthebbenden
 
@@ -1139,9 +1139,9 @@ In dit artikel wordt onder evaluatie onder andere, maar niet uitsluitend, versta
 
 ### ART 88.
 
-Het psychiatrisch verzorgingstehuis bezorgt het agentschap jaarlijks de gegevens, die opgenomen zijn in bijlage 1, die bij dit besluit is gevoegd, voor de analyse van die gegevens, voor de evidence based beleidsvoering voor het Vlaamse welzijns- en gezondheidsbeleid en voor de informatieverstrekking daarover, vermeld in artikel 13, § 6, van het decreet van 6 juli 2018.<br>
+Het psychiatrisch verzorgingstehuis bezorgt de administratie jaarlijks de gegevens, die opgenomen zijn in bijlage 1, die bij dit besluit is gevoegd, voor de analyse van die gegevens, voor de evidence based beleidsvoering voor het Vlaamse welzijns- en gezondheidsbeleid en voor de informatieverstrekking daarover, vermeld in artikel 13, § 6, van het decreet van 6 juli 2018.<br>
 <br>
-In ieder psychiatrisch verzorgingstehuis wordt een persoon door de beheerinstantie belast met de coördinatie van de bezorging van de gegevens, vermeld in het eerste lid, aan het agentschap en de pseudonimisering van de persoonsgegevens die onder de gegevens, vermeld in het eerste lid, vallen. Deze gegevens bieden de mogelijkheid om tot beleidsmatige inzichten te komen en maatregelen te rechtvaardigen.<br>
+In ieder psychiatrisch verzorgingstehuis wordt een persoon door de beheerinstantie belast met de coördinatie van de bezorging van de gegevens, vermeld in het eerste lid, aan de administratie en de pseudonimisering van de persoonsgegevens die onder de gegevens, vermeld in het eerste lid, vallen. Deze gegevens bieden de mogelijkheid om tot beleidsmatige inzichten te komen en maatregelen te rechtvaardigen.<br>
 <br>
 De bewaartermijn van de in het eerste lid vermelde gegevens is één jaar na het bezorgen van de gegevens.
 
@@ -1169,7 +1169,7 @@ Per dertig zorggebruikers wordt er, binnen de personeelsnorm, vermeld in het twe
 <br>
 Het team van begeleiders is in staat om een multidisciplinaire aanpak te garanderen voor elke zorggebruiker in begeleiding, met onder meer psycho-educatie en psychosociale interventies.<br>
 <br>
-Het psychiatrisch verzorgingstehuis verstrekt aan het agentschap op verzoek en op de wijze bepaald door het agentschap de volgende inlichtingen over het personeel:<br>
+Het psychiatrisch verzorgingstehuis verstrekt aan de administratie op verzoek en op de wijze bepaald door de administratie de volgende inlichtingen over het personeel:<br>
 - de voor- en achternaam van het personeelslid;<br>
 - het rijksregisternummer;<br>
 - de geboortedatum;<br>
@@ -1318,11 +1318,11 @@ Het brandgevaar wordt voorkomen door:<br>
 
 ### ART 107.
 
-Op gemotiveerde aanvraag van het psychiatrisch verzorgingstehuis kan het agentschap, in het kader van een proefproject, overeenkomstig artikel 58 van het decreet van 6 juli 2018, het psychiatrisch verzorgingstehuis een tijdelijke afwijking van een of meer erkenningsnormen toestaan.<br>
+Op gemotiveerde aanvraag van het psychiatrisch verzorgingstehuis kan de administratie, in het kader van een proefproject, overeenkomstig artikel 58 van het decreet van 6 juli 2018, het psychiatrisch verzorgingstehuis een tijdelijke afwijking van een of meer erkenningsnormen toestaan.<br>
 <br>
-Het agentschap kan op gemotiveerde aanvraag van het psychiatrisch verzorgingstehuis ook een tijdelijke afwijking van de huisvestingsnormen, vermeld in artikel 92 tot en met 106, toestaan.<br>
+De administratie kan op gemotiveerde aanvraag van het psychiatrisch verzorgingstehuis ook een tijdelijke afwijking van de huisvestingsnormen, vermeld in artikel 92 tot en met 106, toestaan.<br>
 <br>
-De aanvraag, vermeld in het eerste en tweede lid, wordt ingediend bij het agentschap. Een aanvraag vermeldt duidelijk op welke normen ze betrekking heeft en bevat minstens een motivatie voor de aanvraag en een voorstel met de alternatieve maatregelen om de veiligheid van de zorggebruikers en de kwaliteit van de verstrekte zorg op een voldoende niveau te waarborgen. Het agentschap onderzoekt en bepaalt in functie van de motivatie van de aanvraag de termijn van de tijdelijke afwijking.
+De aanvraag, vermeld in het eerste en tweede lid, wordt ingediend bij de administratie. Een aanvraag vermeldt duidelijk op welke normen ze betrekking heeft en bevat minstens een motivatie voor de aanvraag en een voorstel met de alternatieve maatregelen om de veiligheid van de zorggebruikers en de kwaliteit van de verstrekte zorg op een voldoende niveau te waarborgen. de administratie onderzoekt en bepaalt in functie van de motivatie van de aanvraag de termijn van de tijdelijke afwijking.
 
 ## HOOFDSTUK 8. Bescherming van de persoonlijke levenssfeer bij de verwerking van persoonsgegevens van zorggebruikers, in het bijzonder medische gegevens
 
@@ -1646,9 +1646,9 @@ Het initiatief van beschut wonen richt voor zijn zorggebruikers een zorggebruike
 
 ### ART 143.
 
-Het initiatief van beschut wonen bezorgt het agentschap jaarlijks de gegevens, die zijn opgenomen in bijlage 2 bij dit besluit, voor de analyse van die gegevens, voor evidence based beleidsvoering voor het Vlaamse welzijns- en gezondheidsbeleid en voor de informatieverstrekking daarover, vermeld in artikel 13, § 6, van het decreet van 6 juli 2018.<br>
+Het initiatief van beschut wonen bezorgt de administratie jaarlijks de gegevens, die zijn opgenomen in bijlage 2 bij dit besluit, voor de analyse van die gegevens, voor evidence based beleidsvoering voor het Vlaamse welzijns- en gezondheidsbeleid en voor de informatieverstrekking daarover, vermeld in artikel 13, § 6, van het decreet van 6 juli 2018.<br>
 <br>
-In ieder initiatief van beschut wonen wordt een persoon door de beheerinstantie belast met de coördinatie van de bezorging van de gegevens, vermeld in het eerste lid, aan het agentschap en de pseudonimisering van de persoonsgegevens die onder de gegevens, vermeld in het eerste lid, vallen.<br>
+In ieder initiatief van beschut wonen wordt een persoon door de beheerinstantie belast met de coördinatie van de bezorging van de gegevens, vermeld in het eerste lid, aan de administratie en de pseudonimisering van de persoonsgegevens die onder de gegevens, vermeld in het eerste lid, vallen.<br>
 <br>
 De bewaartermijn van de in het eerste lid vermelde persoonsgegevens is één jaar na het ontvangen van de gegevens.
 
@@ -1670,11 +1670,11 @@ Minimaal 80 % van de personeelsleden die instaan voor de begeleiding van de zorg
 <br>
 Het team van begeleiders is in staat om een multidisciplinaire aanpak te garanderen voor elke zorggebruiker in begeleiding, met psycho-educatie en psychosociale interventies.<br>
 <br>
-De personeelsleden die niet voldoen aan de diplomavoorwaarde, vermeld in het derde lid, doch die vóór 26 juli 1990 al werkten in een initiatief van beschut wonen, kunnen die functie verder blijven uitoefenen. Die personen moeten op elk moment kunnen bewijzen aan het agentschap dat ze al vóór 26 juli 1990 werkten in een initiatief van beschut wonen.<br>
+De personeelsleden die niet voldoen aan de diplomavoorwaarde, vermeld in het derde lid, doch die vóór 26 juli 1990 al werkten in een initiatief van beschut wonen, kunnen die functie verder blijven uitoefenen. Die personen moeten op elk moment kunnen bewijzen aan de administratie dat ze al vóór 26 juli 1990 werkten in een initiatief van beschut wonen.<br>
 <br>
-De personeelsleden die op 1 januari 2019 in het bezit waren van een diploma als vermeld in artikel 20 van het koninklijk besluit van 10 juli 1990 houdende vaststelling van de normen voor de erkenning van initiatieven van beschut wonen ten behoeve van psychiatrische patiënten, zoals van kracht op 31 december 2018, en vóór 1 januari 2019 al tewerkgesteld waren in een initiatief van beschut wonen, worden geacht te voldoen aan de diplomavoorwaarde, vermeld in het derde lid. Het bewijs dat die personen al vóór 1 januari 2019 beschikten over het diploma en tewerkgesteld waren in een initiatief van beschut wonen, moet altijd kunnen geleverd worden ten aanzien van het agentschap.<br>
+De personeelsleden die op 1 januari 2019 in het bezit waren van een diploma als vermeld in artikel 20 van het koninklijk besluit van 10 juli 1990 houdende vaststelling van de normen voor de erkenning van initiatieven van beschut wonen ten behoeve van psychiatrische patiënten, zoals van kracht op 31 december 2018, en vóór 1 januari 2019 al tewerkgesteld waren in een initiatief van beschut wonen, worden geacht te voldoen aan de diplomavoorwaarde, vermeld in het derde lid. Het bewijs dat die personen al vóór 1 januari 2019 beschikten over het diploma en tewerkgesteld waren in een initiatief van beschut wonen, moet altijd kunnen geleverd worden ten aanzien van de administratie.<br>
 <br>
-Het initiatief van beschut wonen verstrekt aan het agentschap op verzoek en op de wijze bepaald door het agentschap de volgende inlichtingen over het personeel:<br>
+Het initiatief van beschut wonen verstrekt aan de administratie op verzoek en op de wijze bepaald door de administratie de volgende inlichtingen over het personeel:<br>
 - de voor- en achternaam van het personeelslid;<br>
 - het rijksregisternummer;<br>
 - de geboortedatum;<br>
@@ -1709,9 +1709,9 @@ Op geregelde tijdstippen vindt een teamoverleg plaats waarin alle disciplines zi
 
 ### ART 147.
 
-Op gemotiveerde aanvraag van het initiatief van beschut wonen kan het agentschap, in het kader van een proefproject, overeenkomstig artikel 58 van het decreet van 6 juli 2018, het initiatief van beschut wonen een tijdelijke afwijking van een of meer erkenningsnormen toestaan.<br>
+Op gemotiveerde aanvraag van het initiatief van beschut wonen kan de administratie, in het kader van een proefproject, overeenkomstig artikel 58 van het decreet van 6 juli 2018, het initiatief van beschut wonen een tijdelijke afwijking van een of meer erkenningsnormen toestaan.<br>
 <br>
-Het initiatief van beschut wonen dient de aanvraag in bij het agentschap. De aanvraag vermeldt duidelijk op welke normen ze betrekking heeft en bevat een motivatie voor de aanvraag en een voorstel met alternatieve maatregelen om de veiligheid van de zorggebruikers en de kwaliteit van de verstrekte zorg op een voldoende niveau te waarborgen.
+Het initiatief van beschut wonen dient de aanvraag in bij de administratie. De aanvraag vermeldt duidelijk op welke normen ze betrekking heeft en bevat een motivatie voor de aanvraag en een voorstel met alternatieve maatregelen om de veiligheid van de zorggebruikers en de kwaliteit van de verstrekte zorg op een voldoende niveau te waarborgen.
 
 ## HOOFDSTUK 7. Zorgvernieuwende initiatieven
 
@@ -1816,7 +1816,7 @@ d) 21.866,93 euro voor de initiatieven met een begeleidingscapaciteit van maxima
 e) 24.990,77 euro voor de initiatieven met een begeleidingscapaciteit van maximaal 100 zorggebruikers;<br>
 f) 28.114,61 euro voor de initiatieven met een begeleidingscapaciteit van meer dan 100 zorggebruikers.<br>
 5° een vergoeding voor de registratie van de minimale psychiatrische gegevens: 3.470,94 euro per initiatief van beschut wonen, verhoogd met 69,40 euro per zorggebruiker;<br>
-6° een eenmalige installatievergoeding van 2.074,03 euro per extra zorggebruiker nadat het agentschap de begeleidingscapaciteit van een erkend initiatief van beschut wonen heeft uitgebreid;<br>
+6° een eenmalige installatievergoeding van 2.074,03 euro per extra zorggebruiker nadat de administratie de begeleidingscapaciteit van een erkend initiatief van beschut wonen heeft uitgebreid;<br>
 7° een vergoeding voor de eindeloopbaanmaatregelen:<br>
 a) Definities<br>
 Voor de toepassing van dit punt 7° wordt verstaan onder :<br>
@@ -1867,7 +1867,7 @@ vi) T2: aantal per week te presteren uren die voortvloeit uit de arbeidsovereenk
 vii) S: wekelijkse arbeidsregeling toegepast in het initiatief van beschut wonen;<br>
 viii) N: jaarlijks aantal werkuren door de werkgever bezoldigt in het kader van de eindeloopbaanmaatregelen voor het beschouwde jaar;<br>
 ix) Y: theoretisch jaarlijks aantal werkuren die de begunstigde moet presteren volgens zijn arbeidsovereenkomst of zijn individuele benoemingsakte;<br>
-d) voor de vergoeding voor de eindeloopbaanmaatregelen verstrekt het initiatief van beschut wonen de volgende gegevens aan het agentschap, in de vorm bepaald door het agentschap:<br>
+d) voor de vergoeding voor de eindeloopbaanmaatregelen verstrekt het initiatief van beschut wonen de volgende gegevens aan de administratie, in de vorm bepaald door de administratie:<br>
 1) voor- en achternaam van het personeelslid;<br>
 2) het rijksregisternummer;<br>
 3) de geboortedatum;<br>
@@ -1897,8 +1897,8 @@ De toegekende financiering wordt, in voorkomend geval, begrensd tot het werkelij
 10) de einddatum van de overeenkomst;<br>
 Bij die gegevens moeten de nieuwe arbeidsovereenkomsten en de bijvoegsels bij de overeenkomsten in geval van verhoging van de arbeidstijd of individuele benoemingsakten gevoegd worden;<br>
 g) voor de vergoeding voor de eindeloopbaanmaatregelen geldende sancties: als de beheerder niet binnen de vereiste termijn de inlichtingen voor de uitwerking van de definitieve budgetten mededeelt, worden de voorlopige bedragen teruggevorderd.<br>
-Met het oog op het opstarten van de herziening van de eindeloopbaanmaatregelen bezorgt het initiatief van beschut wonen voor 30 april van het kalenderjaar waarop de herziening van de eindeloopbaanmaatregelen betrekking heeft, aan het agentschap een tabel over het betrokken personeel.<br>
-De initiatieven van beschut wonen bezorgen het agentschap ook een kopie van de arbeidscontracten van het personeel dat ter vervanging aangeworven is of de aanhangsels van de arbeidscontracten voor het personeel dat zijn arbeidstijd verhoogd heeft;<br>
+Met het oog op het opstarten van de herziening van de eindeloopbaanmaatregelen bezorgt het initiatief van beschut wonen voor 30 april van het kalenderjaar waarop de herziening van de eindeloopbaanmaatregelen betrekking heeft, aan de administratie een tabel over het betrokken personeel.<br>
+De initiatieven van beschut wonen bezorgen de administratie ook een kopie van de arbeidscontracten van het personeel dat ter vervanging aangeworven is of de aanhangsels van de arbeidscontracten voor het personeel dat zijn arbeidstijd verhoogd heeft;<br>
 8° een vergoeding voor de kosten van de attractiviteitspremie:<br>
 a) voor alle werknemers van de openbare initiatieven van beschut wonen wordt de attractiviteitspremie toegekend in de vorm van een jaarlijks forfaitair bedrag van 803,87 euro per voltijds equivalent.<br>
 b) voor elk jaar wordt het bedrag berekend door het aantal voltijds equivalenten van het initiatief van beschut wonen te vermenigvuldigen met het forfaitair bedrag van de attractiviteitspremie;<br>
@@ -1955,19 +1955,19 @@ De toelage, vermeld in artikel 72, § 1, eerste lid van het decreet van 6 juli 2
 
 ### ART 157.
 
-De revalidatieovereenkomsten worden gesloten of gewijzigd op verzoek van een zorgvoorziening die uitgebaat wordt door een rechtspersoon, die uitsluitend de uitbating van een of meer zorgvoorzieningen als statutair doel heeft, of op initiatief van de minister of het agentschap.<br>
+De revalidatieovereenkomsten worden gesloten of gewijzigd op verzoek van een zorgvoorziening die uitgebaat wordt door een rechtspersoon, die uitsluitend de uitbating van een of meer zorgvoorzieningen als statutair doel heeft, of op initiatief van de minister of de administratie.<br>
 <br>
-Als eenzelfde revalidatieovereenkomst van toepassing is op verschillende zorgvoorzieningen als vermeld in het eerste lid, kan deze revalidatieovereenkomst enkel worden gesloten of gewijzigd op verzoek van alle zorgvoorzieningen samen of op initiatief van de minister of het agentschap.
+Als eenzelfde revalidatieovereenkomst van toepassing is op verschillende zorgvoorzieningen als vermeld in het eerste lid, kan deze revalidatieovereenkomst enkel worden gesloten of gewijzigd op verzoek van alle zorgvoorzieningen samen of op initiatief van de minister of de administratie.
 
 ### ART 158.
 
-De revalidatieovereenkomsten worden beëindigd op verzoek van de revalidatievoorziening in kwestie of op initiatief van de minister of het agentschap.
+De revalidatieovereenkomsten worden beëindigd op verzoek van de revalidatievoorziening in kwestie of op initiatief van de minister of de administratie.
 
 ## HOOFDSTUK 2. Procedure om revalidatieovereenkomsten te sluiten en te wijzigen
 
 ### ART 159.
 
-Een aanvraag om een revalidatieovereenkomst als vermeld in artikel 157, te sluiten of te wijzigen, wordt gericht aan het agentschap. De aanvraag is ontvankelijk als ze de volgende gegevens bevat:<br>
+Een aanvraag om een revalidatieovereenkomst als vermeld in artikel 157, te sluiten of te wijzigen, wordt gericht aan de administratie. De aanvraag is ontvankelijk als ze de volgende gegevens bevat:<br>
 1° de gegevens van de rechtspersoon die de aanvraag indient;<br>
 2° de doelgroep waarvoor het zorgaanbod wordt voorgesteld of gewijzigd;<br>
 3° het zorgaanbod dat de zorgvoorziening wil organiseren, leveren of wijzigen in relatie tot het andere zorgaanbod in het werkingsgebied van het geestelijke gezondheidsnetwerk, als vermeld in artikel 2, 15°, van het decreet van 5 april 2019 betreffende de organisatie en ondersteuning van het geestelijke gezondheidsaanbod;<br>
@@ -1976,15 +1976,15 @@ Een aanvraag om een revalidatieovereenkomst als vermeld in artikel 157, te sluit
 
 ### ART 160.
 
-§ 1. Het agentschap onderzoekt of de aanvraag, vermeld in artikel 159, voldoet aan de ontvankelijkheidsvoorwaarden, vermeld in artikel 159.<br>
+§ 1. De administratie onderzoekt of de aanvraag, vermeld in artikel 159, voldoet aan de ontvankelijkheidsvoorwaarden, vermeld in artikel 159.<br>
 <br>
-Het agentschap stuurt een ontvangstbewijs naar de aanvrager met de vermelding of de aanvraag al dan niet ontvankelijk is en, in voorkomend geval, met de vermelding van de datum van ontvangst van de ontvankelijke aanvraag.<br>
+De administratie stuurt een ontvangstbewijs naar de aanvrager met de vermelding of de aanvraag al dan niet ontvankelijk is en, in voorkomend geval, met de vermelding van de datum van ontvangst van de ontvankelijke aanvraag.<br>
 <br>
-§ 2. Het agentschap kan advies vragen aan de Expertencommissie of de sectorale adviescommissie in kwestie over de inhoudelijke aspecten van de aanvraag.
+§ 2. De administratie kan advies vragen aan de Expertencommissie of de sectorale adviescommissie in kwestie over de inhoudelijke aspecten van de aanvraag.
 
 ### ART 161.
 
-Als de minister of het agentschap een voorstel doet om een revalidatieovereenkomst als vermeld in artikel 157, te sluiten of te wijzigen kan het agentschap advies vragen aan de Expertencommissie of de sectorale adviescommissie in kwestie over de inhoudelijke aspecten van het voorstel.
+Als de minister of de administratie een voorstel doet om een revalidatieovereenkomst als vermeld in artikel 157, te sluiten of te wijzigen kan de administratie advies vragen aan de Expertencommissie of de sectorale adviescommissie in kwestie over de inhoudelijke aspecten van het voorstel.
 
 ### ART 162.
 
@@ -2001,7 +2001,7 @@ Als de minister of het agentschap een voorstel doet om een revalidatieovereenkom
 ### ART 165.
 
 Bij het opstellen van een advies kan de Expertencommissie of de sectorale adviescommissie in kwestie:<br>
-1° aanvullende inlichtingen vragen aan het agentschap of de aanvrager;<br>
+1° aanvullende inlichtingen vragen aan de administratie of de aanvrager;<br>
 2° deskundigen raadplegen met een specifieke expertise op het vlak van het voorstel of de aanvraag.
 
 ### ART 166.
@@ -2010,19 +2010,19 @@ Bij het opstellen van een advies kan de Expertencommissie of de sectorale advies
 
 ### ART 167.
 
-Als er geen advies als vermeld in artikel 161, is gegeven, wordt de behandeling van de aanvraag voortgezet door het agentschap.
+Als er geen advies als vermeld in artikel 161, is gegeven, wordt de behandeling van de aanvraag voortgezet door de administratie.
 
 ### ART 168.
 
-Het agentschap heeft als taak een advies op te maken over de aanvraag en kan daarbij, in voorkomend geval, rekening houden met het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie.<br>
+De administratie heeft als taak een advies op te maken over de aanvraag en kan daarbij, in voorkomend geval, rekening houden met het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie.<br>
 <br>
-Het agentschap bezorgt zijn advies aan de minister.<br>
+De administratie bezorgt zijn advies aan de minister.<br>
 <br>
-Bij het advies van het agentschap wordt, in voorkomend geval, het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie gevoegd.
+Bij het advies van de administratie wordt, in voorkomend geval, het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie gevoegd.
 
 ### ART 169.
 
-In het kader van de adviesopdracht, vermeld in artikel 168, kan het agentschap:<br>
+In het kader van de adviesopdracht, vermeld in artikel 168, kan de administratie:<br>
 1° aanvullende inlichtingen inwinnen bij de Expertencommissie of de sectorale adviescommissie in kwestie;<br>
 2° aanvullende inlichtingen inwinnen bij de aanvrager;<br>
 3° deskundigen raadplegen met een specifieke expertise op het vlak van het voorstel of de aanvraag.
@@ -2033,9 +2033,9 @@ In het kader van de adviesopdracht, vermeld in artikel 168, kan het agentschap:<
 
 ### ART 171.
 
-De minister keurt de aanvraag goed of keurt de aanvraag af op basis van het advies van het agentschap en, in voorkomend geval, het advies van de Expertencommissie of de sectorale adviescommissie in kwestie.<br>
+De minister keurt de aanvraag goed of keurt de aanvraag af op basis van het advies van de administratie en, in voorkomend geval, het advies van de Expertencommissie of de sectorale adviescommissie in kwestie.<br>
 <br>
-Het agentschap deelt de beslissing van de minister mee aan de aanvrager met een aangetekende zending of op om het even welke andere manier die toelaat de ontvangstdatum met zekerheid vast te stellen.
+De administratie deelt de beslissing van de minister mee aan de aanvrager met een aangetekende zending of op om het even welke andere manier die toelaat de ontvangstdatum met zekerheid vast te stellen.
 
 ### ART 172.
 
@@ -2051,17 +2051,17 @@ De revalidatieovereenkomsten, alsook elke wijziging ervan, worden ondertekend do
 
 ### ART 174.
 
-Een aanvraag om een revalidatieovereenkomst als vermeld in artikel 158, te beëindigen, wordt gericht aan het agentschap. De aanvraag is ontvankelijk als ze minstens de volgende gegevens bevat:<br>
+Een aanvraag om een revalidatieovereenkomst als vermeld in artikel 158, te beëindigen, wordt gericht aan de administratie. De aanvraag is ontvankelijk als ze minstens de volgende gegevens bevat:<br>
 1° de datum waarop de revalidatieovereenkomst wordt beëindigd;<br>
 2° de maatregelen om de continuïteit van de zorg te garanderen voor de zorggebruikers.
 
 ### ART 175.
 
-§ 1. Het agentschap onderzoekt of de aanvraag, vermeld in artikel 174, voldoet aan de ontvankelijkheidsvoorwaarden, vermeld in artikel 174.<br>
+§ 1. De administratie onderzoekt of de aanvraag, vermeld in artikel 174, voldoet aan de ontvankelijkheidsvoorwaarden, vermeld in artikel 174.<br>
 <br>
-Het agentschap stuurt een ontvangstbewijs naar de aanvrager, met de vermelding of de aanvraag al dan niet ontvankelijk is en, in voorkomend geval, met de vermelding van de datum van ontvangst van de ontvankelijke aanvraag.<br>
+De administratie stuurt een ontvangstbewijs naar de aanvrager, met de vermelding of de aanvraag al dan niet ontvankelijk is en, in voorkomend geval, met de vermelding van de datum van ontvangst van de ontvankelijke aanvraag.<br>
 <br>
-§ 2. Het agentschap kan over elke aanvraag die ontvankelijk is conform paragraaf 1, advies vragen aan de Expertencommissie of de sectorale adviescommissie in kwestie over de maatregelen om de continuïteit van de zorg te garanderen voor de zorggebruikers.
+§ 2. De administratie kan over elke aanvraag die ontvankelijk is conform paragraaf 1, advies vragen aan de Expertencommissie of de sectorale adviescommissie in kwestie over de maatregelen om de continuïteit van de zorg te garanderen voor de zorggebruikers.
 
 ### ART 176.
 
@@ -2069,13 +2069,13 @@ Het agentschap stuurt een ontvangstbewijs naar de aanvrager, met de vermelding o
 
 ### ART 177.
 
-Als er geen advies als vermeld in artikel 175, § 2, is gegeven, wordt de behandeling van de aanvraag voortgezet door het agentschap.
+Als er geen advies als vermeld in artikel 175, § 2, is gegeven, wordt de behandeling van de aanvraag voortgezet door de administratie.
 
 ### ART 178.
 
-Het agentschap heeft als taak een advies op te maken over de aanvraag en kan daarbij, in voorkomend geval, rekening houden met het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie.<br>
+De administratie heeft als taak een advies op te maken over de aanvraag en kan daarbij, in voorkomend geval, rekening houden met het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie.<br>
 <br>
-Het agentschap bezorgt zijn advies aan de minister. Bij elk advies van het agentschap wordt, in voorkomend geval, het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie gevoegd.
+De administratie bezorgt zijn advies aan de minister. Bij elk advies van de administratie wordt, in voorkomend geval, het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie gevoegd.
 
 ### ART 179.
 
@@ -2097,31 +2097,31 @@ Als er conform artikel 175, § 2, advies is gevraagd aan de Expertencommissie of
 
 ### ART 182.
 
-§ 1. Het voornemen van de minister of het agentschap om een revalidatieovereenkomst te beëindigen, wordt met een aangetekende zending met ontvangstbewijs aan de betrokken revalidatievoorziening meegedeeld. Het voornemen bevat de redenen voor de beëindiging van de revalidatieovereenkomst.<br>
+§ 1. Het voornemen van de minister of de administratie om een revalidatieovereenkomst te beëindigen, wordt met een aangetekende zending met ontvangstbewijs aan de betrokken revalidatievoorziening meegedeeld. Het voornemen bevat de redenen voor de beëindiging van de revalidatieovereenkomst.<br>
 <br>
 § 2. De revalidatievoorziening beschikt over dertig dagen na de dag van de ontvangst van de aangetekende zending, om te reageren op het voornemen.<br>
 <br>
 In haar reactie op het voornemen kan de revalidatievoorziening een voorstel uitwerken voor de continuïteit van de zorg voor de zorggebruikers bij eventuele beëindiging van de revalidatieovereenkomst.<br>
 <br>
-Als de minister of het agentschap een voornemen tot beëindiging van de revalidatieovereenkomst neemt omdat de revalidatievoorziening niet meer voldoet aan de voorwaarden, vermeld in de revalidatieovereenkomst, kan de revalidatievoorziening een voorstel tot remediëring uitwerken.<br>
+Als de minister of de administratie een voornemen tot beëindiging van de revalidatieovereenkomst neemt omdat de revalidatievoorziening niet meer voldoet aan de voorwaarden, vermeld in de revalidatieovereenkomst, kan de revalidatievoorziening een voorstel tot remediëring uitwerken.<br>
 <br>
-§ 3. Het agentschap kan advies vragen over het voornemen tot beëindiging van de revalidatieovereenkomst aan de Expertencommissie of aan de sectorale adviescommissie in kwestie.<br>
+§ 3. De administratie kan advies vragen over het voornemen tot beëindiging van de revalidatieovereenkomst aan de Expertencommissie of aan de sectorale adviescommissie in kwestie.<br>
 <br>
 Bij de adviesaanvraag, vermeld in het eerste lid, worden, in voorkomend geval, de reactie en, in voorkomend geval, het voorstel, vermeld in paragraaf 2, gevoegd.
 
 ### ART 183.
 
-De Expertencommissie of de sectorale adviescommissie in kwestie stellen een advies op over de adviesvragen, vermeld in artikel 182, § 3. Ze bezorgen het advies aan het agentschap.
+De Expertencommissie of de sectorale adviescommissie in kwestie stellen een advies op over de adviesvragen, vermeld in artikel 182, § 3. Ze bezorgen het advies aan de administratie.
 
 ### ART 184.
 
-Als er geen advies als vermeld in artikel 182, § 3, is gegeven, wordt de behandeling van de aanvraag voortgezet door het agentschap.
+Als er geen advies als vermeld in artikel 182, § 3, is gegeven, wordt de behandeling van de aanvraag voortgezet door de administratie.
 
 ### ART 185.
 
-Het agentschap heeft als taak een advies op te maken over de beëindiging van de revalidatieovereenkomst en kan daarbij, in voorkomend geval, rekening houden met het advies, vermeld in artikel 183, en de reactie en, in voorkomend geval, het voorstel, vermeld in artikel 182, § 2.<br>
+De administratie heeft als taak een advies op te maken over de beëindiging van de revalidatieovereenkomst en kan daarbij, in voorkomend geval, rekening houden met het advies, vermeld in artikel 183, en de reactie en, in voorkomend geval, het voorstel, vermeld in artikel 182, § 2.<br>
 <br>
-Het agentschap bezorgt zijn advies aan de minister. Bij elk advies van het agentschap worden, in voorkomend geval, het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie en de reactie en, in voorkomend geval, het voorstel, vermeld in artikel 182, § 2, gevoegd.
+De administratie bezorgt zijn advies aan de minister. Bij elk advies van de administratie worden, in voorkomend geval, het advies van de Expertencommissie of van de sectorale adviescommissie in kwestie en de reactie en, in voorkomend geval, het voorstel, vermeld in artikel 182, § 2, gevoegd.
 
 ### ART 186.
 
@@ -2190,7 +2190,7 @@ Als de termijn, vermeld in artikel 6 van de voormelde wet, niet wordt gerespecte
 
 Het aandeel van de personeelskosten in de tegemoetkomingen voor revalidatieverstrekkingen wordt berekend in de revalidatieovereenkomst. Het aandeel van de personeelskosten in de tegemoetkomingen voor revalidatieverstrekkingen wordt aan de reële personeelskosten aangepast zodra de werkelijke personeelsuitgaven ten gevolge van de evolutie van de anciënniteit van het werkelijk tewerkgestelde personeel 1 % hoger liggen dan de personeelskosten die begrepen zijn in de tegemoetkoming voor revalidatieverstrekkingen.<br>
 <br>
-Met het oog op de berekening van het aandeel van de personeelskosten in de tegemoetkoming voor revalidatieverstrekkingen en de aanpassing van de tegemoetkoming voor revalidatieverstrekkingen, vermeld in het eerste lid, bezorgt de revalidatievoorziening, volgens een model dat het agentschap bepaald heeft, een volledig geactualiseerd en gedocumenteerd personeelskostendossier aan het agentschap.<br>
+Met het oog op de berekening van het aandeel van de personeelskosten in de tegemoetkoming voor revalidatieverstrekkingen en de aanpassing van de tegemoetkoming voor revalidatieverstrekkingen, vermeld in het eerste lid, bezorgt de revalidatievoorziening, volgens een model dat de administratie bepaald heeft, een volledig geactualiseerd en gedocumenteerd personeelskostendossier aan de administratie.<br>
 <br>
 Het personeelskostendossier vermeldt voor ieder personeelslid van wie de loonkosten in de berekening van de tegemoetkomingen voor revalidatieverstrekkingen kan worden opgenomen de volgende gegevens en documenten:<br>
 1° de voor- en achternaam;<br>
@@ -2212,11 +2212,11 @@ Het personeelskostendossier bevat de nodige bewijsstukken van de kosten, vermeld
 <br>
 De revalidatievoorziening bewaart de personeelsgegevens, vermeld in het derde lid, tot één jaar na vertrek van het personeelslid.<br>
 <br>
-Als een personeelskostendossier niet beantwoordt aan de voormelde voorwaarden, wordt het personeelskostendossier door het agentschap als onontvankelijk beschouwd. In voorkomend geval wordt dat meegedeeld aan de revalidatievoorziening binnen dertig dagen nadat het agentschap het personeelskostendossier heeft ontvangen.<br>
+Als een personeelskostendossier niet beantwoordt aan de voormelde voorwaarden, wordt het personeelskostendossier door de administratie als onontvankelijk beschouwd. In voorkomend geval wordt dat meegedeeld aan de revalidatievoorziening binnen dertig dagen nadat de administratie het personeelskostendossier heeft ontvangen.<br>
 <br>
-De minister neemt een beslissing tot vaststelling van de aanpassing van de tegemoetkoming voor revalidatieverstrekkingen, vermeld in het eerste lid. Het agentschap brengt de revalidatievoorziening en de verzekeringsinstellingen op de hoogte van de beslissing van de minister. De aangepaste tegemoetkoming voor revalidatieverstrekkingen wordt van kracht op de eerste dag van de vierde maand die volgt op de maand waarin het agentschap een ontvankelijk personeelskostendossier heeft ontvangen.<br>
+De minister neemt een beslissing tot vaststelling van de aanpassing van de tegemoetkoming voor revalidatieverstrekkingen, vermeld in het eerste lid. de administratie brengt de revalidatievoorziening en de verzekeringsinstellingen op de hoogte van de beslissing van de minister. De aangepaste tegemoetkoming voor revalidatieverstrekkingen wordt van kracht op de eerste dag van de vierde maand die volgt op de maand waarin de administratie een ontvankelijk personeelskostendossier heeft ontvangen.<br>
 <br>
-Als het agentschap de termijn, vermeld in het zesde lid, niet naleeft, ontvangt de revalidatievoorziening een financiële vergoeding ter compensatie van de financiële schade die ze heeft geleden door de laattijdige toekenning.<br>
+Als de administratie de termijn, vermeld in het zesde lid, niet naleeft, ontvangt de revalidatievoorziening een financiële vergoeding ter compensatie van de financiële schade die ze heeft geleden door de laattijdige toekenning.<br>
 <br>
 In afwijking van het eerste lid wordt het aandeel van de personeelskosten in de tegemoetkoming voor revalidatieverstrekkingen, vermeld in artikel 191, niet aangepast aan de reële personeelskosten voor de revalidatievoorzieningen waarvan het erkenningsnummer begint met het nummer 9.69, 7.74.6 of 74.051.09.
 
@@ -2226,7 +2226,7 @@ In afwijking van het eerste lid wordt het aandeel van de personeelskosten in de 
 <br>
 Vanaf april 2020 wordt een budgetgarantie voorzien als bepaald in dit artikel.<br>
 <br>
-Vanaf 15 april 2020 wordt maandelijks een compenserend budget ingevolge de COVID-19 pandemie betaald. Het compenserend budget is het verschil tussen het bedrag dat gefactureerd wordt op basis van een reguliere activiteit en het bedrag dat, met respect voor de bepalingen van dit besluit, aan de verzekeringsinstellingen gefactureerd werd voor de gerealiseerde revalidatieprestaties in de voorbije maand. Het bedrag dat gefactureerd wordt op basis van een reguliere activiteit wordt door het agentschap berekend en is het product van het aantal eenheidsprestaties in de overeenstemmende maand van het voorbije jaar met de vigerende eenheidsprijs zoals vermeld in artikel 191, § 1, 1°. Vanaf april 2021 is het bedrag dat gefactureerd wordt op basis van een reguliere activiteit het bedrag dat door het agentschap werd berekend voor de overeenstemmende maand van het jaar 2020. Als de revalidatievoorziening staaft dat in de overeenstemmende maand van het voorbije jaar uitzonderlijke omstandigheden waren, waardoor de overeenstemmende maand niet representatief is en significante afwijkingen van de normale activiteitsgraad bestaan, kan het aantal eenheidsprestaties worden bijgesteld na onderzoek door het agentschap.<br>
+Vanaf 15 april 2020 wordt maandelijks een compenserend budget ingevolge de COVID-19 pandemie betaald. Het compenserend budget is het verschil tussen het bedrag dat gefactureerd wordt op basis van een reguliere activiteit en het bedrag dat, met respect voor de bepalingen van dit besluit, aan de verzekeringsinstellingen gefactureerd werd voor de gerealiseerde revalidatieprestaties in de voorbije maand. Het bedrag dat gefactureerd wordt op basis van een reguliere activiteit wordt door de administratie berekend en is het product van het aantal eenheidsprestaties in de overeenstemmende maand van het voorbije jaar met de vigerende eenheidsprijs zoals vermeld in artikel 191, § 1, 1°. Vanaf april 2021 is het bedrag dat gefactureerd wordt op basis van een reguliere activiteit het bedrag dat door de administratie werd berekend voor de overeenstemmende maand van het jaar 2020. Als de revalidatievoorziening staaft dat in de overeenstemmende maand van het voorbije jaar uitzonderlijke omstandigheden waren, waardoor de overeenstemmende maand niet representatief is en significante afwijkingen van de normale activiteitsgraad bestaan, kan het aantal eenheidsprestaties worden bijgesteld na onderzoek door de administratie.<br>
 <br>
 Wat betreft het persoonlijk aandeel van de zorggebruikers kan het compenserend budget, vermeld in het tweede lid, niet worden gewijzigd.<br>
 <br>
@@ -2234,7 +2234,7 @@ De revalidatievoorziening heeft het recht om het compensatiebudget voor de maand
 <br>
 Voor de maanden september tot en met december 2021 wordt een compenserend budget voorzien, op voorwaarde dat de revalidatievoorziening minstens 60% van het theoretisch aantal eenheidsprestaties heeft gepresteerd en gefactureerd aan de verzekeringsinstellingen. Voor de voorzieningen waarvan het erkenningsnummer begint met 7.72, wordt de budgetgarantie voorzien zodra 50% van het theoretisch aantal eenheidsprestaties is gepresteerd en gefactureerd aan de verzekeringsinstellingen. Een compenserend budget voor de maanden september tot en met december 2021 wordt vereffend bij de eindafrekening voor het jaar 2021, conform paragraaf 2.<br>
 <br>
-Voor de maanden januari 2022 tot en met maart 2022 wordt een compenserend budget betaald op voorwaarde dat de revalidatievoorziening minstens 60% van het theoretisch aantal eenheidsprestaties heeft gepresteerd en gefactureerd aan de verzekeringsinstellingen. Voor de voorzieningen waarvan het erkenningsnummer begint met 7.72, wordt het compenserend budget voorzien zodra 50% van het theoretisch aantal eenheidsprestaties is gepresteerd en gefactureerd aan de verzekeringsinstellingen. Het compenserend budget is het verschil tussen het bedrag dat overeenstemt met de reguliere prestaties in de maanden januari 2019 tot en met maart 2019, zoals berekend conform het derde lid, en het bedrag dat, op basis van de bepalingen van dit besluit, aan de verzekeringsinstellingen is gefactureerd voor de gerealiseerde revalidatieprestaties in de maanden januari 2022 tot en met maart 2022. Het compenserend budget voor het eerste kwartaal van 2022 wordt voor 80% betaald in september 2022. Het saldo wordt in september 2023 betaald op basis van de gerapporteerde uitgaven door de verzekeringsinstellingen. Als bij de eindafrekening blijkt dat het compenserend budget voor de maanden januari 2022 tot en met maart 2022 dat al is uitbetaald, te hoog was, vordert het agentschap het te veel betaalde deel van het compenserend budget terug dat al is uitbetaald.<br>
+Voor de maanden januari 2022 tot en met maart 2022 wordt een compenserend budget betaald op voorwaarde dat de revalidatievoorziening minstens 60% van het theoretisch aantal eenheidsprestaties heeft gepresteerd en gefactureerd aan de verzekeringsinstellingen. Voor de voorzieningen waarvan het erkenningsnummer begint met 7.72, wordt het compenserend budget voorzien zodra 50% van het theoretisch aantal eenheidsprestaties is gepresteerd en gefactureerd aan de verzekeringsinstellingen. Het compenserend budget is het verschil tussen het bedrag dat overeenstemt met de reguliere prestaties in de maanden januari 2019 tot en met maart 2019, zoals berekend conform het derde lid, en het bedrag dat, op basis van de bepalingen van dit besluit, aan de verzekeringsinstellingen is gefactureerd voor de gerealiseerde revalidatieprestaties in de maanden januari 2022 tot en met maart 2022. Het compenserend budget voor het eerste kwartaal van 2022 wordt voor 80% betaald in september 2022. Het saldo wordt in september 2023 betaald op basis van de gerapporteerde uitgaven door de verzekeringsinstellingen. Als bij de eindafrekening blijkt dat het compenserend budget voor de maanden januari 2022 tot en met maart 2022 dat al is uitbetaald, te hoog was, vordert de administratie het te veel betaalde deel van het compenserend budget terug dat al is uitbetaald.<br>
 <br>
 Voor de maanden april 2022 tot en met december 2022 wordt een compenserend budget betaald op voorwaarde dat de revalidatievoorziening minstens 60% van het theoretische aantal eenheidsprestaties heeft gepresteerd en gefactureerd aan de verzekeringsinstellingen. Voor de voorzieningen waarvan het erkenningsnummer begint met 7.72, wordt in het compenserende budget voorzien zodra 50% van het theoretische aantal eenheidsprestaties is gepresteerd en gefactureerd aan de verzekeringsinstellingen.&nbsp;<br>
 <br>
@@ -2242,13 +2242,13 @@ Het compenserende budget, vermeld in het achtste lid, is het verschil tussen het
 <br>
 Het compenserende budget voor de maanden, vermeld in het achtste lid, wordt voor 80% betaald in maart 2023. Het saldo wordt in januari 2024 betaald op basis van de gerapporteerde uitgaven door de verzekeringsinstellingen.&nbsp;<br>
 <br>
-Als bij de eindafrekening blijkt dat het compenserende budget voor de maanden april 2022 tot en met december 2022 dat al is uitbetaald, te hoog was, vordert het agentschap het te veel betaalde deel van het compenserende budget terug dat al is uitbetaald.<br>
+Als bij de eindafrekening blijkt dat het compenserende budget voor de maanden april 2022 tot en met december 2022 dat al is uitbetaald, te hoog was, vordert de administratie het te veel betaalde deel van het compenserende budget terug dat al is uitbetaald.<br>
 <br>
-§ 2. In september 2021 doet het agentschap een eindafrekening voor het in paragraaf 1 bepaalde compenserend budget van het jaar 2020. Het agentschap berekent het verschil tussen de voor het jaar 2020 betaalde bedrag aan compenserend budget en het bedrag dat de revalidatievoorziening voor 90 % van het theoretisch aantal eenheidsverstrekkingen, vermeld in artikel 191, § 1, 3°, zou kunnen hebben factureren. Als een revalidatievoorziening in 2019 meer dan 90 % van het theoretisch aantal eenheidsprestaties heeft gefactureerd, wordt in de berekening van het verschil rekening gehouden met het percentage dat in 2019 werd gefactureerd. Als de voorziening te veel aan compenserende middelen heeft ontvangen, kan dat door de voorziening gebruikt worden als provisie op het compenserend budget voor de maanden september tot en met december 2021. Als de voorziening te weinig aan compenserende middelen heeft ontvangen, wordt het tekort aan compenserende middelen betaald door het agentschap.<br>
+§ 2. In september 2021 doet de administratie een eindafrekening voor het in paragraaf 1 bepaalde compenserend budget van het jaar 2020. de administratie berekent het verschil tussen de voor het jaar 2020 betaalde bedrag aan compenserend budget en het bedrag dat de revalidatievoorziening voor 90 % van het theoretisch aantal eenheidsverstrekkingen, vermeld in artikel 191, § 1, 3°, zou kunnen hebben factureren. Als een revalidatievoorziening in 2019 meer dan 90 % van het theoretisch aantal eenheidsprestaties heeft gefactureerd, wordt in de berekening van het verschil rekening gehouden met het percentage dat in 2019 werd gefactureerd. Als de voorziening te veel aan compenserende middelen heeft ontvangen, kan dat door de voorziening gebruikt worden als provisie op het compenserend budget voor de maanden september tot en met december 2021. Als de voorziening te weinig aan compenserende middelen heeft ontvangen, wordt het tekort aan compenserende middelen betaald door de administratie.<br>
 <br>
-Revalidatievoorzieningen die cashproblemen hebben in het laatste trimester van 2021, kunnen een provisioneel bedrag vragen aan het agentschap. Het agentschap betaalt eenmalig een provisioneel bedrag van maximaal een twaalfde van de jaarenveloppe van de voorziening in kwestie. Onder cashproblemen wordt verstaan dat de revalidatievoorziening een tekort heeft aan liquide middelen om noodzakelijke betalingen op korte termijn te kunnen doen.<br>
+Revalidatievoorzieningen die cashproblemen hebben in het laatste trimester van 2021, kunnen een provisioneel bedrag vragen aan de administratie. de administratie betaalt eenmalig een provisioneel bedrag van maximaal een twaalfde van de jaarenveloppe van de voorziening in kwestie. Onder cashproblemen wordt verstaan dat de revalidatievoorziening een tekort heeft aan liquide middelen om noodzakelijke betalingen op korte termijn te kunnen doen.<br>
 <br>
-In september 2022 maakt het agentschap een eindafrekening voor het compenserende budget, vermeld in paragraaf 1, van het jaar 2021.&nbsp;De berekening gebeurt op dezelfde wijze als vermeld in het eerste lid, rekening houdend met de provisionele bedragen, vermeld in het eerste en tweede lid. Voor de controle op de voorwaarde om een compenserend budget voor de maanden juli tot en met december 2021 te verkrijgen, vermeld in paragraaf 1, vijfde en zesde lid, wordt het theoretisch aantal eenheidsprestaties bepaald als de helft van het theoretisch aantal eenheidsprestaties op jaarbasis, vermeld in de revalidatieovereenkomst, vermeld in artikel 157. Het bedrag dat op de voormelde wijze is berekend, wordt teruggevorderd van de revalidatievoorziening of betaald door het agentschap.
+In september 2022 maakt de administratie een eindafrekening voor het compenserende budget, vermeld in paragraaf 1, van het jaar 2021.&nbsp;De berekening gebeurt op dezelfde wijze als vermeld in het eerste lid, rekening houdend met de provisionele bedragen, vermeld in het eerste en tweede lid. Voor de controle op de voorwaarde om een compenserend budget voor de maanden juli tot en met december 2021 te verkrijgen, vermeld in paragraaf 1, vijfde en zesde lid, wordt het theoretisch aantal eenheidsprestaties bepaald als de helft van het theoretisch aantal eenheidsprestaties op jaarbasis, vermeld in de revalidatieovereenkomst, vermeld in artikel 157. Het bedrag dat op de voormelde wijze is berekend, wordt teruggevorderd van de revalidatievoorziening of betaald door de administratie.
 
 ## HOOFDSTUK 2. Tegemoetkomingen voor reiskosten
 
@@ -2342,7 +2342,7 @@ De koppeling aan het indexcijfer, vermeld in het tweede lid, wordt berekend en t
 
 § 1. De vervoerder bepaalt of hij zijn facturen bezorgt aan de zorggebruiker, of aan de verzekeringsinstelling.<br>
 <br>
-De vervoerder gebruikt hiervoor een model dat zowel de revalidatievoorziening als de zorggebruiker valideren. Het agentschap kan het model bepalen.<br>
+De vervoerder gebruikt hiervoor een model dat zowel de revalidatievoorziening als de zorggebruiker valideren. De administratie kan het model bepalen.<br>
 <br>
 De vervoerder mag geen extra vergoeding of andere kosten aanrekenen aan de zorggebruiker dan wel aan de verzekeringsinstelling dan de kilometervergoeding, vermeld in paragraaf 2.<br>
 <br>
@@ -2605,7 +2605,7 @@ De aanvraag kan enkel worden ingediend nadat de zorggebruiker of zijn wettelijke
 
 ### ART 231.
 
-Het agentschap stelt op zijn website een aanvraagformulier ter beschikking. De verzekeringsinstelling stelt ook een Franse, Engelse en Duitse versie van het aanvraagformulier ter beschikking.<br>
+De administratie stelt op zijn website een aanvraagformulier ter beschikking. De verzekeringsinstelling stelt ook een Franse, Engelse en Duitse versie van het aanvraagformulier ter beschikking.<br>
 <br>
 Het aanvraagformulier bevat minstens de volgende onderdelen:<br>
 1° een gedetailleerde omschrijving van het buitenlandse revalidatieprogramma dat wordt voorgeschreven;<br>
@@ -2679,7 +2679,7 @@ Als de verzekeringsinstelling een beslissing tot weigering neemt en die beslissi
 
 Als de verzekeringsinstelling conform artikel 232, vierde lid, een beslissing tot weigering heeft genomen op basis van een inbreuk op de cumulatieverboden, vermeld in dit besluit, en de zorggebruiker een nieuwe aanvraag indient die dezelfde revalidatieverstrekkingen en, in voorkomend geval, dezelfde reiskosten tot voorwerp heeft als de oorspronkelijke aanvraag, voegt de zorggebruiker een bijkomende motivering over de cumulatie van tegemoetkomingen bij de aanvraag.<br>
 <br>
-De verzekeringsinstelling vervolledigt de nieuwe aanvraag, vermeld in het eerste lid, met informatie over de tegemoetkomingen voor revalidatieverstrekkingen die al zijn toegekend, op basis waarvan de cumulbepalingen opnieuw kunnen worden geëvalueerd. De verzekeringsinstelling bezorgt de nieuwe aanvraag binnen de termijn, vermeld in artikel 233, eerste lid, aan het agentschap. In afwijking van artikel 232 beoordeelt niet de verzekeringsinstelling, maar wel de Expertencommissie de naleving van de regel over de cumulatie. De Expertencommissie voert die beoordeling uit in het kader van het onderzoek, vermeld in artikel 234.
+De verzekeringsinstelling vervolledigt de nieuwe aanvraag, vermeld in het eerste lid, met informatie over de tegemoetkomingen voor revalidatieverstrekkingen die al zijn toegekend, op basis waarvan de cumulbepalingen opnieuw kunnen worden geëvalueerd. De verzekeringsinstelling bezorgt de nieuwe aanvraag binnen de termijn, vermeld in artikel 233, eerste lid, aan hde administratie. In afwijking van artikel 232 beoordeelt niet de verzekeringsinstelling, maar wel de Expertencommissie de naleving van de regel over de cumulatie. De Expertencommissie voert die beoordeling uit in het kader van het onderzoek, vermeld in artikel 234.
 
 ## Deel 5. [... (opgeh. BVR 26 november 2021, art. 63, I: 1 januari 2022)]
 
@@ -2911,7 +2911,7 @@ De verzekeringsinstelling vervolledigt de nieuwe aanvraag, vermeld in het eerste
 
 ### ART 276.
 
-§ 1. De overeenkomsten met multidisciplinaire begeleidingsequipes worden gesloten of gewijzigd op verzoek van een multidisciplinaire begeleidingsequipe of op initiatief van de minister of het agentschap.<br>
+§ 1. De overeenkomsten met multidisciplinaire begeleidingsequipes worden gesloten of gewijzigd op verzoek van een multidisciplinaire begeleidingsequipe of op initiatief van de minister of de administratie.<br>
 <br>
 Een erkend palliatief samenwerkingsverband kan een aanvraag indienen in naam van een multidisciplinaire begeleidingsequipe die deel uitmaakt van het palliatieve samenwerkingsverband in kwestie.<br>
 <br>
@@ -2919,7 +2919,7 @@ Een erkend palliatief samenwerkingsverband kan een aanvraag indienen in naam van
 
 ### ART 277.
 
-De overeenkomsten met de multidisciplinaire begeleidingsequipes worden beëindigd op aanvraag van de multidisciplinaire begeleidingsequipe in kwestie of op initiatief van de minister of het agentschap.<br>
+De overeenkomsten met de multidisciplinaire begeleidingsequipes worden beëindigd op aanvraag van de multidisciplinaire begeleidingsequipe in kwestie of op initiatief van de minister of de administratie.<br>
 <br>
 Een erkend palliatief samenwerkingsverband kan een aanvraag tot beëindiging van de overeenkomst indienen in naam van een multidisciplinaire begeleidingsequipe die deel uitmaakt van het palliatieve samenwerkingsverband in kwestie.
 
@@ -2939,21 +2939,21 @@ De aanvragen bevatten minstens de volgende gegevens en documenten om ontvankelij
 
 ### ART 279.
 
-§ 1. Het agentschap onderzoekt of de aanvraag voldoet aan de ontvankelijkheidsvoorwaarden, vermeld in artikel 278.<br>
+§ 1. de administratie onderzoekt of de aanvraag voldoet aan de ontvankelijkheidsvoorwaarden, vermeld in artikel 278.<br>
 <br>
-Het agentschap stuurt binnen dertig dagen na de dag van de ontvangst van de aanvraag een ontvangstbewijs naar de aanvrager, met de vermelding of de aanvraag al dan niet ontvankelijk is en, in voorkomend geval, met de vermelding van de datum van de ontvangst van de ontvankelijke aanvraag.<br>
+de administratie stuurt binnen dertig dagen na de dag van de ontvangst van de aanvraag een ontvangstbewijs naar de aanvrager, met de vermelding of de aanvraag al dan niet ontvankelijk is en, in voorkomend geval, met de vermelding van de datum van de ontvangst van de ontvankelijke aanvraag.<br>
 <br>
-§ 2. Binnen dertig dagen na de dag van de ontvangst van de ontvankelijke aanvraag vraagt het agentschap advies aan de Expertencommissie en de sectorale adviescommissie in kwestie over de inhoudelijke aspecten van de aanvraag.<br>
+§ 2. Binnen dertig dagen na de dag van de ontvangst van de ontvankelijke aanvraag vraagt de administratie advies aan de Expertencommissie en de sectorale adviescommissie in kwestie over de inhoudelijke aspecten van de aanvraag.<br>
 <br>
-In afwijking van het eerste lid vraagt het agentschap geen advies in de volgende gevallen:<br>
+In afwijking van het eerste lid vraagt de administratie geen advies in de volgende gevallen:<br>
 1° het betreft een uitzondering die de Vlaamse Regering heeft bepaald krachtens artikel 91, § 1, derde lid, van het decreet van 6 juli 2018;<br>
 2° de wijzigingen die beoogd worden, vloeien voort uit de bepalingen van de overeenkomst met de multidisciplinaire begeleidingsequipe zelf, vermeld in artikel 91, § 1, vierde lid, van het decreet van 6 juli 2018.
 
 ### ART 280.
 
-Als de minister of het agentschap een voorstel doet om een overeenkomst met een multidisciplinaire begeleidingsequipe als vermeld in artikel 276, te sluiten of te wijzigen, vraagt het agentschap advies aan de Expertencommissie en de sectorale adviescommissie in kwestie over de inhoudelijke aspecten van het voorstel.<br>
+Als de minister of de administratie een voorstel doet om een overeenkomst met een multidisciplinaire begeleidingsequipe als vermeld in artikel 276, te sluiten of te wijzigen, vraagt de administratie advies aan de Expertencommissie en de sectorale adviescommissie in kwestie over de inhoudelijke aspecten van het voorstel.<br>
 <br>
-In afwijking van het eerste lid vraagt het agentschap geen advies in de volgende gevallen:<br>
+In afwijking van het eerste lid vraagt de administratie geen advies in de volgende gevallen:<br>
 1° het voorstel, vermeld in het eerste lid, betreft een uitzondering die de Vlaamse Regering heeft bepaald krachtens artikel 91, § 1, derde lid, van het decreet van 6 juli 2018;<br>
 2° de wijzigingen die beoogd worden, vloeien voort uit de bepalingen van de overeenkomst met de multidisciplinaire begeleidingsequipe zelf, vermeld in artikel 91, § 1, vierde lid, van het decreet van 6 juli 2018.
 
@@ -2963,43 +2963,43 @@ De Expertencommissie en de sectorale adviescommissie in kwestie stellen in onder
 
 ### ART 282.
 
-De Expertencommissie en de sectorale adviescommissie in kwestie bezorgen hun gezamenlijke advies, vermeld in artikel 281, aan het agentschap binnen dertig dagen na de dag van de ontvangst van de adviesvraag van het agentschap.
+De Expertencommissie en de sectorale adviescommissie in kwestie bezorgen hun gezamenlijke advies, vermeld in artikel 281, aan de administratie binnen dertig dagen na de dag van de ontvangst van de adviesvraag van de administratie.
 
 ### ART 283.
 
-Als de Expertencommissie en de sectorale adviescommissie in kwestie binnen de door het agentschap toegelaten termijn geen gezamenlijk advies aan het agentschap hebben bezorgd, conform artikel 282, bezorgen ze binnen vijftien dagen na afloop van de termijn, vermeld in artikel 282, elk afzonderlijk een advies aan het agentschap.
+Als de Expertencommissie en de sectorale adviescommissie in kwestie binnen de door de administratie toegelaten termijn geen gezamenlijk advies aan de administratie hebben bezorgd, conform artikel 282, bezorgen ze binnen vijftien dagen na afloop van de termijn, vermeld in artikel 282, elk afzonderlijk een advies aan de administratie.
 
 ### ART 284.
 
 Bij het opstellen van het gezamenlijke advies, vermeld in artikel 281, en de adviezen, vermeld in artikel 283, kunnen de Expertencommissie en de sectorale adviescommissie in kwestie, samen of op eigen initiatief:<br>
-1° aanvullende inlichtingen vragen aan het agentschap of de aanvrager;<br>
+1° aanvullende inlichtingen vragen aan de administratie of de aanvrager;<br>
 2° deskundigen raadplegen die een specifieke expertise hebben op vlak van het voorstel of de aanvraag.
 
 ### ART 285.
 
-Bij ontstentenis van een gezamenlijk advies als vermeld in artikel 281, of van een of de beide van de individuele adviezen, vermeld in artikel 283, binnen de termijnen, vermeld in artikel 282 en 283 wordt de behandeling van de aanvraag voortgezet door het agentschap.
+Bij ontstentenis van een gezamenlijk advies als vermeld in artikel 281, of van een of de beide van de individuele adviezen, vermeld in artikel 283, binnen de termijnen, vermeld in artikel 282 en 283 wordt de behandeling van de aanvraag voortgezet door de administratie.
 
 ### ART 286.
 
-Het agentschap maakt een advies op over de aanvraag en kan daarbij, in voorkomend geval, rekening houden met, het gezamenlijke advies, vermeld in artikel 281, of een of de beide van de adviezen, vermeld in artikel 283.<br>
+De administratie maakt een advies op over de aanvraag en kan daarbij, in voorkomend geval, rekening houden met, het gezamenlijke advies, vermeld in artikel 281, of een of de beide van de adviezen, vermeld in artikel 283.<br>
 <br>
-Het agentschap bezorgt zijn advies aan de minister binnen dertig dagen na de dag van de ontvangst van het gezamenlijke advies, vermeld in artikel 281, of een of de beide adviezen, vermeld in artikel 283, of na afloop van de termijn, vermeld in artikel 283.<br>
+De administratie bezorgt zijn advies aan de minister binnen dertig dagen na de dag van de ontvangst van het gezamenlijke advies, vermeld in artikel 281, of een of de beide adviezen, vermeld in artikel 283, of na afloop van de termijn, vermeld in artikel 283.<br>
 <br>
 Bij het advies wordt een van de volgende documenten gevoegd:<br>
-1° het gezamenlijke advies, vermeld in artikel 281, dat het agentschap binnen de termijn, vermeld in artikel 282, heeft ontvangen;<br>
-2° een of de beide van de adviezen, vermeld in artikel 283, die het agentschap binnen de termijn, vermeld in artikel 283, heeft ontvangen.
+1° het gezamenlijke advies, vermeld in artikel 281, dat de administratie binnen de termijn, vermeld in artikel 282, heeft ontvangen;<br>
+2° een of de beide van de adviezen, vermeld in artikel 283, die de administratie binnen de termijn, vermeld in artikel 283, heeft ontvangen.
 
 ### ART 287.
 
-In het kader van zijn adviesopdracht, vermeld in artikel 286, kan het agentschap aanvullende inlichtingen inwinnen bij de Expertencommissie en de sectorale adviescommissie in kwestie.
+In het kader van zijn adviesopdracht, vermeld in artikel 286, kan de administratie aanvullende inlichtingen inwinnen bij de Expertencommissie en de sectorale adviescommissie in kwestie.
 
 ### ART 288.
 
-Het agentschap bezorgt de adviezen van de Expertencommissie en de sectorale adviescommissie in kwestie, vermeld in artikel 281 en 283, ter informatie aan het raadgevend comité Zorg en Gezondheid en het raadgevend comité VSB.
+De administratie bezorgt de adviezen van de Expertencommissie en de sectorale adviescommissie in kwestie, vermeld in artikel 281 en 283, ter informatie aan het raadgevend comité VSB.
 
 ### ART 289.
 
-De minister beslist over de goedkeuring van de aanvraag nadat hij het advies van het agentschap heeft ontvangen, of na afloop van de termijn, vermeld in artikel 286, tweede lid.<br>
+De minister beslist over de goedkeuring van de aanvraag nadat hij het advies van de administratie heeft ontvangen, of na afloop van de termijn, vermeld in artikel 286, tweede lid.<br>
 <br>
 Bij een positieve beslissing over een aanvraag om een overeenkomst te sluiten, wordt een ontwerp van overeenkomst met de multidisciplinaire begeleidingsequipe opgemaakt. Bij een positieve beslissing over een aanvraag om een overeenkomst te wijzigen, wordt een ontwerp van addendum bij de overeenkomst met de multidisciplinaire begeleidingsequipe opgemaakt.<br>
 <br>
@@ -3031,31 +3031,31 @@ De maatregelen om de continuïteit van de dienstverlening te garanderen, vermeld
 
 ### ART 293.
 
-§ 1. Het agentschap onderzoekt of de aanvraag voldoet aan de ontvankelijkheidsvoorwaarden, vermeld in artikel 292.<br>
+§ 1. De administratie onderzoekt of de aanvraag voldoet aan de ontvankelijkheidsvoorwaarden, vermeld in artikel 292.<br>
 <br>
-Het agentschap stuurt binnen dertig dagen na de dag van de ontvangst van de aanvraag een ontvangstbewijs naar de aanvrager, met de vermelding of de aanvraag al dan niet ontvankelijk is en, in voorkomend geval, met de vermelding van de datum van ontvangst van de ontvankelijke aanvraag.<br>
+De administratie stuurt binnen dertig dagen na de dag van de ontvangst van de aanvraag een ontvangstbewijs naar de aanvrager, met de vermelding of de aanvraag al dan niet ontvankelijk is en, in voorkomend geval, met de vermelding van de datum van ontvangst van de ontvankelijke aanvraag.<br>
 <br>
 Als de aanvraag niet is ingediend door het palliatieve samenwerkingsverband in naam van de multidisciplinaire begeleidingsequipe wordt het palliatieve samenwerkingsverband van de aanvraag, vermeld in artikel 277, op de hoogte gebracht.<br>
 <br>
-§ 2. Binnen dertig dagen na de dag van de ontvangst van de ontvankelijke aanvraag vraagt het agentschap advies aan de Expertencommissie en de sectorale adviescommissie in kwestie over de maatregelen om de continuïteit van de dienstverlening te garanderen.
+§ 2. Binnen dertig dagen na de dag van de ontvangst van de ontvankelijke aanvraag vraagt de administratie advies aan de Expertencommissie en de sectorale adviescommissie in kwestie over de maatregelen om de continuïteit van de dienstverlening te garanderen.
 
 ### ART 294.
 
-De Expertencommissie en de sectorale adviescommissie in kwestie stellen samen of elk afzonderlijk een advies op over de adviesvragen, vermeld in artikel 293, § 2. In het gezamenlijke advies streven ze naar een consensus. Als ze geen consensus bereiken, vermeldt het gezamenlijk advies waarom geen consensus kon worden bereikt. Ze bezorgen de adviezen aan het agentschap binnen dertig dagen na de dag van de ontvangst van de adviesvraag.
+De Expertencommissie en de sectorale adviescommissie in kwestie stellen samen of elk afzonderlijk een advies op over de adviesvragen, vermeld in artikel 293, § 2. In het gezamenlijke advies streven ze naar een consensus. Als ze geen consensus bereiken, vermeldt het gezamenlijk advies waarom geen consensus kon worden bereikt. Ze bezorgen de adviezen aan de administratie binnen dertig dagen na de dag van de ontvangst van de adviesvraag.
 
 ### ART 295.
 
-Bij ontstentenis van het gezamenlijke advies of een of de beide afzonderlijke adviezen, vermeld in artikel 294, binnen de termijnen, vermeld in artikel 294, wordt de behandeling van de aanvraag voortgezet door het agentschap.
+Bij ontstentenis van het gezamenlijke advies of een of de beide afzonderlijke adviezen, vermeld in artikel 294, binnen de termijnen, vermeld in artikel 294, wordt de behandeling van de aanvraag voortgezet door de administratie.
 
 ### ART 296.
 
-Het agentschap maakt een advies op over de aanvraag en kan daarbij, in voorkomend geval, rekening houden met het gezamenlijke advies of een of de beide afzonderlijke adviezen, vermeld in artikel 294.<br>
+De administratie maakt een advies op over de aanvraag en kan daarbij, in voorkomend geval, rekening houden met het gezamenlijke advies of een of de beide afzonderlijke adviezen, vermeld in artikel 294.<br>
 <br>
-Het agentschap bezorgt dat advies aan de minister binnen dertig dagen na de dag van de ontvangst van het gezamenlijke advies, vermeld in artikel 294, een afzonderlijk advies of, in voorkomend geval, beide afzonderlijke adviezen, vermeld in artikel 294, of na afloop van de termijn, vermeld in artikel 294. Bij elk advies van het agentschap worden de adviezen gevoegd die binnen de termijn, vermeld in artikel 294, ontvangen zijn.
+De administratie bezorgt dat advies aan de minister binnen dertig dagen na de dag van de ontvangst van het gezamenlijke advies, vermeld in artikel 294, een afzonderlijk advies of, in voorkomend geval, beide afzonderlijke adviezen, vermeld in artikel 294, of na afloop van de termijn, vermeld in artikel 294. Bij elk advies van de administratie worden de adviezen gevoegd die binnen de termijn, vermeld in artikel 294, ontvangen zijn.
 
 ### ART 297.
 
-Het agentschap bezorgt de adviezen van de Expertencommissie en de sectorale adviescommissie in kwestie, vermeld in artikel 294, ter informatie aan het raadgevend comité Zorg en Gezondheid en het raadgevend comité VSB.
+De administratie bezorgt de adviezen van de Expertencommissie en de sectorale adviescommissie in kwestie, vermeld in artikel 294, ter informatie aan het raadgevend comité Zorg en Gezondheid en het raadgevend comité VSB.
 
 ### ART 298.
 
@@ -3073,37 +3073,37 @@ De beslissing van de minister, vermeld in het eerste lid, wordt ter informatie, 
 
 ### ART 300.
 
-§ 1. Het voornemen van de minister of het agentschap om een overeenkomst met een multidisciplinaire begeleidingsequipe te beëindigen, wordt meegedeeld met een aangetekende zending met ontvangstbewijs aan de betrokken multidisciplinaire begeleidingsequipe en het palliatieve samenwerkingsverband waarvan die multidisciplinaire begeleidingsequipe deel uitmaakt. Dat voornemen bevat de redenen voor de beëindiging van de overeenkomst.<br>
+§ 1. Het voornemen van de minister of de administratie om een overeenkomst met een multidisciplinaire begeleidingsequipe te beëindigen, wordt meegedeeld met een aangetekende zending met ontvangstbewijs aan de betrokken multidisciplinaire begeleidingsequipe en het palliatieve samenwerkingsverband waarvan die multidisciplinaire begeleidingsequipe deel uitmaakt. Dat voornemen bevat de redenen voor de beëindiging van de overeenkomst.<br>
 <br>
 § 2. De multidisciplinaire begeleidingsequipe beschikt over dertig dagen na de dag van de ontvangst van de aangetekende zending, om te reageren op het voornemen.<br>
 <br>
 In zijn reactie op het voornemen kan de multidisciplinaire begeleidingsequipe een voorstel uitwerken voor de continuïteit van de dienstverlening bij eventuele beëindiging van de overeenkomst.<br>
 <br>
-Als de minister of het agentschap een voornemen tot beëindiging van de overeenkomst neemt omdat de multidisciplinaire begeleidingsequipe niet meer voldoet aan de voorwaarden, vermeld in artikel 311 tot en met 322, kan de multidisciplinaire begeleidingsequipe een voorstel tot remediëring uitwerken.
+Als de minister of de administratie een voornemen tot beëindiging van de overeenkomst neemt omdat de multidisciplinaire begeleidingsequipe niet meer voldoet aan de voorwaarden, vermeld in artikel 311 tot en met 322, kan de multidisciplinaire begeleidingsequipe een voorstel tot remediëring uitwerken.
 
 ### ART 301.
 
-Het agentschap vraagt binnen vijftien dagen na de dag van de ontvangst van de reactie, vermeld in artikel 300, § 2, of na afloop van de termijn, vermeld in artikel 300, § 2, advies over het voornemen tot beëindiging van de overeenkomst met de multidisciplinaire begeleidingsequipe aan de Expertencommissie en de sectorale adviescommissie in kwestie.<br>
+De administratie vraagt binnen vijftien dagen na de dag van de ontvangst van de reactie, vermeld in artikel 300, § 2, of na afloop van de termijn, vermeld in artikel 300, § 2, advies over het voornemen tot beëindiging van de overeenkomst met de multidisciplinaire begeleidingsequipe aan de Expertencommissie en de sectorale adviescommissie in kwestie.<br>
 <br>
 Bij de adviesvraag, vermeld in het eerste lid, worden, in voorkomend geval, de reactie en het voorstel of, in voorkomend geval, de voorstellen, vermeld in artikel 300, § 2, gevoegd.
 
 ### ART 302.
 
-De Expertencommissie en de sectorale adviescommissie in kwestie stellen samen of elk afzonderlijk een advies op over de adviesvragen, vermeld in artikel 301. In het gezamenlijke advies streven ze naar een consensus. Als ze geen consensus bereiken, vermeldt het advies waarom er geen consensus kon worden bereikt. Ze bezorgen de adviezen aan het agentschap binnen dertig dagen na de dag van de ontvangst van de adviesvraag .
+De Expertencommissie en de sectorale adviescommissie in kwestie stellen samen of elk afzonderlijk een advies op over de adviesvragen, vermeld in artikel 301. In het gezamenlijke advies streven ze naar een consensus. Als ze geen consensus bereiken, vermeldt het advies waarom er geen consensus kon worden bereikt. Ze bezorgen de adviezen aan de administratie binnen dertig dagen na de dag van de ontvangst van de adviesvraag .
 
 ### ART 303.
 
-Bij ontstentenis van de adviezen, vermeld in artikel 302, binnen de termijn, vermeld in artikel 302, wordt de behandeling van de aanvraag voortgezet door het agentschap.
+Bij ontstentenis van de adviezen, vermeld in artikel 302, binnen de termijn, vermeld in artikel 302, wordt de behandeling van de aanvraag voortgezet door de administratie.
 
 ### ART 304.
 
-Het agentschap maakt een advies op over de beëindiging van de overeenkomst met de multidisciplinaire begeleidingsequipe en kan daarbij, in voorkomend geval, rekening houden met de adviezen, vermeld in artikel 302, en de reactie en het voorstel of, in voorkomend geval, de voorstellen, vermeld in artikel 300, § 2.<br>
+De administratie maakt een advies op over de beëindiging van de overeenkomst met de multidisciplinaire begeleidingsequipe en kan daarbij, in voorkomend geval, rekening houden met de adviezen, vermeld in artikel 302, en de reactie en het voorstel of, in voorkomend geval, de voorstellen, vermeld in artikel 300, § 2.<br>
 <br>
-Het agentschap bezorgt zijn advies aan de minister binnen dertig dagen na de dag van de ontvangst van het gezamenlijke advies, vermeld in artikel 302, een afzonderlijk advies of, in voorkomend geval, de beide afzonderlijke adviezen, vermeld in artikel 302, of na afloop van de termijn, vermeld in artikel 302. Bij elk advies van het agentschap worden de adviezen, vermeld in artikel 302, en de reactie en het voorstel of, in voorkomend geval, de voorstellen, vermeld in artikel 300, § 2, gevoegd.
+De administratie bezorgt zijn advies aan de minister binnen dertig dagen na de dag van de ontvangst van het gezamenlijke advies, vermeld in artikel 302, een afzonderlijk advies of, in voorkomend geval, de beide afzonderlijke adviezen, vermeld in artikel 302, of na afloop van de termijn, vermeld in artikel 302. Bij elk advies van de administratie worden de adviezen, vermeld in artikel 302, en de reactie en het voorstel of, in voorkomend geval, de voorstellen, vermeld in artikel 300, § 2, gevoegd.
 
 ### ART 305.
 
-Het agentschap bezorgt de adviezen van de Expertencommissie en de sectorale adviescommissie, vermeld in artikel 302, ter informatie aan het raadgevend comité Zorg en Gezondheid en het raadgevend comité VSB.
+De administratie bezorgt de adviezen van de Expertencommissie en de sectorale adviescommissie, vermeld in artikel 302, ter informatie aan het raadgevend comité VSB.
 
 ### ART 306.
 
@@ -3239,7 +3239,7 @@ De lokalen, vermeld in het eerste lid, mogen gedeeld worden met het palliatieve 
 
 ### ART 321.
 
-§ 1. Een multidisciplinaire begeleidingsequipe bezorgt jaarlijks, uiterlijk op 30 juni van het daaropvolgende jaar, een activiteitenverslag aan het agentschap.<br>
+§ 1. Een multidisciplinaire begeleidingsequipe bezorgt jaarlijks, uiterlijk op 30 juni van het daaropvolgende jaar, een activiteitenverslag aan de administratie.<br>
 <br>
 Het activiteitenverslag, vermeld in het eerste lid, bevat de volgende gegevens over het werkelijke aantal palliatieve personen voor wie de multidisciplinaire begeleidingsequipe een bijdrage aan de palliatieve verzorging in het thuismilieu of in het thuisvervangende milieu heeft geleverd:<br>
 1° het werkelijke aantal gevolgde palliatieve personen;<br>
@@ -3376,13 +3376,13 @@ Als de berekening, vermeld in het eerste lid, tot minder dan 3,9 voltijds equiva
 
 § 1. Het aandeel van de personeelskosten in het eenmalige forfaitaire bedrag, vermeld in artikel 324, wordt aan de realiteit aangepast als de werkelijke personeelsuitgaven door de evolutie van de anciënniteit van het personeel, vermeld in artikel 330, of door wijzigingen in de samenstelling van het personeel, vermeld in artikel 330, op jaarbasis 2 % hoger liggen dan de personeelskosten die als basis hebben gediend voor de berekening van het eenmalige forfaitaire bedrag.<br>
 <br>
-§ 2. Voor de aanpassing van het eenmalige forfaitaire bedrag, vermeld in paragraaf 1, bezorgt de multidisciplinaire begeleidingsequipe of, in voorkomend geval, het palliatieve samenwerkingsverband dat optreedt in naam van een multidisciplinaire begeleidingsequipe, een volledig geactualiseerd en gedocumenteerd personeelskostendossier aan het agentschap. Dat personeelskostendossier beantwoordt aan de vereisten, vermeld in artikel 322 van dit besluit.<br>
+§ 2. Voor de aanpassing van het eenmalige forfaitaire bedrag, vermeld in paragraaf 1, bezorgt de multidisciplinaire begeleidingsequipe of, in voorkomend geval, het palliatieve samenwerkingsverband dat optreedt in naam van een multidisciplinaire begeleidingsequipe, een volledig geactualiseerd en gedocumenteerd personeelskostendossier aan de administratie. Dat personeelskostendossier beantwoordt aan de vereisten, vermeld in artikel 322 van dit besluit.<br>
 <br>
-Als een personeelskostendossier niet beantwoordt aan de de voorwaarden, vermeld in artikel 322, wordt het personeelskostendossier door het agentschap als onontvankelijk beschouwd. Binnen dertig dagen na de dag van de ontvangst van het personeelskostendossier door het agentschap, deelt het agentschap de onontvankelijkheid mee aan de multidisciplinaire begeleidingsequipe of, in voorkomend geval, aan het palliatieve samenwerkingsverband.<br>
+Als een personeelskostendossier niet beantwoordt aan de de voorwaarden, vermeld in artikel 322, wordt het personeelskostendossier door de administratie als onontvankelijk beschouwd. Binnen dertig dagen na de dag van de ontvangst van het personeelskostendossier door de administratie, deelt de administratie de onontvankelijkheid mee aan de multidisciplinaire begeleidingsequipe of, in voorkomend geval, aan het palliatieve samenwerkingsverband.<br>
 <br>
-§ 3. De minister neemt een beslissing tot de vaststelling van de aanpassing van het eenmalige forfaitaire bedrag, vermeld paragraaf 1. Het agentschap communiceert de beslissing van de minister aan de multidisciplinaire begeleidingsequipe en, in voorkomend geval, aan het palliatieve samenwerkingsverband dat optreedt in naam van de multidisciplinaire begeleidingsequipe. Het aangepaste eenmalige forfaitaire bedrag wordt van kracht de eerste dag van de maand die volgt op de maand waarin de minister zijn beslissing neemt en uiterlijk op de eerste dag van de vierde maand die volgt op de maand waarin een ontvankelijk personeelskostendossier als vermeld in de paragraaf 2, is ontvangen door het agentschap.<br>
+§ 3. De minister neemt een beslissing tot de vaststelling van de aanpassing van het eenmalige forfaitaire bedrag, vermeld paragraaf 1. de administratie communiceert de beslissing van de minister aan de multidisciplinaire begeleidingsequipe en, in voorkomend geval, aan het palliatieve samenwerkingsverband dat optreedt in naam van de multidisciplinaire begeleidingsequipe. Het aangepaste eenmalige forfaitaire bedrag wordt van kracht de eerste dag van de maand die volgt op de maand waarin de minister zijn beslissing neemt en uiterlijk op de eerste dag van de vierde maand die volgt op de maand waarin een ontvankelijk personeelskostendossier als vermeld in de paragraaf 2, is ontvangen door de administratie.<br>
 <br>
-Als het agentschap de termijn, vermeld in het eerste lid, niet naleeft, ontvangt de multidisciplinaire begeleidingsequipe een financiële vergoeding ter compensatie van de financiële schade die de multidisciplinaire begeleidingsequipe heeft geleden ingevolge de laattijdige toekenning.<br>
+Als de administratie de termijn, vermeld in het eerste lid, niet naleeft, ontvangt de multidisciplinaire begeleidingsequipe een financiële vergoeding ter compensatie van de financiële schade die de multidisciplinaire begeleidingsequipe heeft geleden ingevolge de laattijdige toekenning.<br>
 <br>
 § 4. Een aanpassing als vermeld in paragraaf 1, kan niet gevraagd worden gedurende het eerste loopjaar van de overeenkomst of binnen het jaar nadat een nieuw berekend forfaitair bedrag als vermeld in paragraaf 3 of artikel 332, derde lid, van toepassing is geworden.
 
@@ -3390,9 +3390,9 @@ Als het agentschap de termijn, vermeld in het eerste lid, niet naleeft, ontvangt
 
 Als het aandeel van de personeelskosten in het eenmalige forfaitaire bedrag, vermeld in artikel 324, ten gevolge van een wijziging in de samenstelling van het personeel op jaarbasis 2 % lager ligt dan de personeelskosten die als basis hebben gediend voor de berekening van het eenmalige forfaitaire bedrag, wordt het eenmalige forfaitaire bedrag herberekend.<br>
 <br>
-Het agentschap brengt de multidisciplinaire begeleidingsequipe of, in voorkomend geval, het palliatieve samenwerkingsverband dat optreedt in naam van zijn multidisciplinaire begeleidingsequipe op de hoogte van de herberekening en vraagt de nodige gegevens op over het tewerkgestelde personeel om het eenmalige forfaitaire bedrag te kunnen herberekenen.<br>
+De administratie brengt de multidisciplinaire begeleidingsequipe of, in voorkomend geval, het palliatieve samenwerkingsverband dat optreedt in naam van zijn multidisciplinaire begeleidingsequipe op de hoogte van de herberekening en vraagt de nodige gegevens op over het tewerkgestelde personeel om het eenmalige forfaitaire bedrag te kunnen herberekenen.<br>
 <br>
-De minister neemt een beslissing tot vaststelling van de aanpassing van het eenmalige forfaitaire bedrag, vermeld in het eerste lid. Het agentschap communiceert de beslissing van de minister aan de multidisciplinaire begeleidingsequipe en, in voorkomend geval, aan het palliatieve samenwerkingsverband dat optreedt in naam van de multidisciplinaire begeleidingsequipe. Het aangepaste eenmalige forfaitaire bedrag wordt van kracht op de eerste dag van de maand die volgt op de maand waarin de minister zijn beslissing neemt.
+De minister neemt een beslissing tot vaststelling van de aanpassing van het eenmalige forfaitaire bedrag, vermeld in het eerste lid. De administratie communiceert de beslissing van de minister aan de multidisciplinaire begeleidingsequipe en, in voorkomend geval, aan het palliatieve samenwerkingsverband dat optreedt in naam van de multidisciplinaire begeleidingsequipe. Het aangepaste eenmalige forfaitaire bedrag wordt van kracht op de eerste dag van de maand die volgt op de maand waarin de minister zijn beslissing neemt.
 
 ### ART 333.
 
@@ -3429,7 +3429,7 @@ Ook personeel met een andere hogeronderwijsopleiding kan daar eventueel deel van
 <br>
 § 6. De samenstelling van het personeelskader van de multidisciplinaire begeleidingsequipe, vermeld in paragraaf 2, 3 en 4, wordt opgenomen in de overeenkomst met de multidisciplinaire begeleidingsequipe.<br>
 <br>
-De multidisciplinaire begeleidingsequipe meldt aan het agentschap iedere wijziging in de samenstelling van het personeelsbestand, vermeld in paragraaf 2, 3 en 4, binnen een maand nadat de wijziging is doorgevoerd.
+De multidisciplinaire begeleidingsequipe meldt aan de administratie iedere wijziging in de samenstelling van het personeelsbestand, vermeld in paragraaf 2, 3 en 4, binnen een maand nadat de wijziging is doorgevoerd.
 
 ### ART 335.
 
@@ -5133,11 +5133,16 @@ De Vlaamse minister, bevoegd voor het gezondheidsbeleid, is belast met de uitvoe
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/01/28_1.pdf#page=164">Bijlage 1</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/01/28_1.pdf#page=164">Bijlage 1</a><br>
+<br>
+Bij BVR van 12 mei 2023 worden in het opschrift&nbsp; met ingang van 1 juni 2023, de woorden ”het agentschap” vervangen door de woorden “de administratie”
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/01/28_1.pdf#page=166">Bijlage 2</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/01/28_1.pdf#page=166">Bijlage 2</a><br>
+<br>
+<br>
+Bij BVR van 12 mei 2023 worden in het opschrift&nbsp; met ingang van 1 juni 2023, de woorden ”het agentschap” vervangen door de woorden “de administratie”
 
 ### BIJLAGE
 

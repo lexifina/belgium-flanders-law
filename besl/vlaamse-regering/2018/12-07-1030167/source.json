@@ -2,16 +2,16 @@
   "codex_id": 1030167,
   "title": "Besluit van de Vlaamse Regering van 2018-12-07 houdende de uitvoering van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030167/VolledigDocument?datum=2023-05-20",
-  "source_sha256": "1c10f674caaf81410fc9822c018044a150b8d1adb8d6063fbb5f812feaf37c11",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030167/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "50f8da93ebe54bd47e6e885c19517f3ebce8314f08531154022129c95ee32cee",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030167&param=informatie",
-  "as_of": "2023-05-20",
+  "as_of": "2023-06-01",
   "made": "2018-12-07",
   "gazette": "2019-01-28",
   "numac": 2019030061,
   "document_start": "2019-01-01",
   "document_end": null,
-  "in_force": "2023-05-20",
+  "in_force": "2023-06-01",
   "article_versions": 400,
-  "record_form": "consolidated version as in force on 2023-05-20; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
