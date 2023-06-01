@@ -370,7 +370,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 
 ### BIJLAGE
 
-<strong>5) BELEIDSDOMEIN WLEZIJN, VOLKSGEZONDHEID EN GEZIN</strong>
+<strong>5) BELEIDSDOMEIN WELZIJN, VOLKSGEZONDHEID EN GEZIN</strong>
 <table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
@@ -421,7 +421,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 			<td colspan="2" style="width:204px">D232</td>
 		</tr>
 		<tr>
-			<td colspan="1" rowspan="3" style="width:185px">&nbsp;5.3. Zorg en Gezondheid<br>
+			<td colspan="1" rowspan="3" style="width:185px">&nbsp;5.3. Departement Zorg<br>
 			&nbsp;<br>
 			&nbsp;</td>
 			<td colspan="1" rowspan="3" style="width:191px">Deskundige (gezondheidswerker of verpleegkundige – VRGT-taken)<br>
