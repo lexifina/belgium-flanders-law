@@ -2,16 +2,16 @@
   "codex_id": 1038064,
   "title": "Besluit van de Vlaamse Regering van 2022-12-23 over de erkenning van de beroepskwalificaties voor de gezondheidsberoepen die verworven zijn in een andere lidstaat van de Europese Unie dan België, de Europese beroepskaart en de erkenning op basis van een andere opleiding dan de opleidingen, vermeld in artikel 101/2 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, waarvoor noch de richtlijn, vermeld in artikel 103, 3°, van de voormelde wet, noch artikel 145, §1, van de voormelde wet geldt",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038064/VolledigDocument?datum=2023-05-31",
-  "source_sha256": "5a881b22c99dbe2dc251f6715600dca58ed9f97bd5fb0d38e0b5e5c17ad5a9b2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038064/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "7dbd59a5c3efd9a3ef6ae3325d6adc6a67da432d269f2b07a0cbde59bfa18728",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038064&param=informatie",
-  "as_of": "2023-05-31",
+  "as_of": "2023-06-01",
   "made": "2022-12-23",
   "gazette": "2023-05-05",
   "numac": 2023040772,
   "document_start": "2023-05-31",
   "document_end": null,
-  "in_force": "2023-05-31",
+  "in_force": "2023-06-01",
   "article_versions": 30,
-  "record_form": "consolidated version as in force on 2023-05-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
