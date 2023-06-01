@@ -2,16 +2,16 @@
   "codex_id": 1023948,
   "title": "Ministerieel besluit van 2014-02-07 tot vaststelling van de subsidiëringswijze van de diensten maatschappelijk werk van de ziekenfondsen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023948/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "4e203ae6c9aeff306f10660fa66a9e6beae39509dd836f99a9aa2bb1a2e116e4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023948/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "516eab9b48d913ffe0526d9b722a61490c9c064fb86d00f790527530b807c09d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023948&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2023-06-01",
   "made": "2014-02-07",
   "gazette": "2014-03-26",
   "numac": 2014035262,
   "document_start": "2014-01-01",
   "document_end": null,
-  "in_force": "2014-01-01",
+  "in_force": "2023-06-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
