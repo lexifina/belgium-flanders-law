@@ -162,7 +162,7 @@ Het agentschap voert een transparante boekhouding waarbij een efficiënte bested
 
 ### ART 13.
 
-Zorginspectie als vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein, houdt, op verzoek van het agentschap Opgroeien regie, toezicht op de besteding van de beleidskredieten door de publieke uitbetalingsactor met uitzondering van de besteding van de lokale toelagen in het kader van het gezinsbeleid.
+De afdeling Zorginspectie van het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, houdt, op verzoek van het agentschap Opgroeien regie, toezicht op de besteding van de beleidskredieten door de publieke uitbetalingsactor met uitzondering van de besteding van de lokale toelagen in het kader van het gezinsbeleid.
 
 ## Afdeling 3 Audit
 
