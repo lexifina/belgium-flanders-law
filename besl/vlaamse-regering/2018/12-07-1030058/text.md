@@ -19,7 +19,7 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° agentschap: het agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid;<br>
+1° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 2° centrum voor kortverblijf: een ouderenvoorziening als vermeld in artikel 30 en 32 van het Woonzorgdecreet van 13 maart 2009, die erkend is door de Vlaamse Regering conform artikel 48 van het voormelde decreet;<br>
 3° dagverzorgingscentrum: het dagverzorgingscentrum, vermeld in artikel 25 van het Woonzorgdecreet van 13 maart 2009, dat een bijkomende erkenning heeft conform artikel 10/5 van het besluit van de Vlaamse Regering van 24 juli 2009;<br>
 4° decreet van 6 juli 2018: het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging;<br>
@@ -61,9 +61,9 @@ i) de psychologen, orthopedagogen en pedagogen, die in de zorgteams werken of di
 <br>
 De omschrijving van de kwalificaties, vermeld in het eerste lid, 2° verwijst naar de reëel uitgeoefende functie volgens de bepalingen van het contract of, in de overheidssector, de functiebeschrijving of aanstellingsbeslissing.<br>
 <br>
-Bij een exploitatietransfer vanuit een openbare dienst, wordt het gedetacheerde statutaire personeel dat op het moment van de overdracht van de exploitatie opgenomen is in een lijst, gelijkgesteld aan eigen loontrekkend of statutair personeel, als de volgende gegevens aan het agentschap worden bezorgd:<br>
-1° de exhaustieve lijst met namen van de statutaire personeelsleden in kwestie, hun kwalificatie en hun wekelijkse arbeidsduur, waarbij een kopie van de beslissing van hun aanstelling is gevoegd. Die lijst moet worden ondertekend door de openbare dienst én door de verantwoordelijke van de voorziening en aan het agentschap worden bezorgd binnen een maand na de exploitatietransfer. Aan die lijst kunnen nadien geen personen worden toegevoegd. De wekelijkse arbeidsduur van de personen kan wel worden verhoogd en hun kwalificatie kan worden aangepast. De voormelde wijzigingen hebben voor de berekening van de tegemoetkoming pas uitwerking op de dag van de wijziging;<br>
-2° als het agentschap erom vraagt, alle andere bijkomende informatie over de exploitatietransfer en de rol van de openbare dienst.
+Bij een exploitatietransfer vanuit een openbare dienst, wordt het gedetacheerde statutaire personeel dat op het moment van de overdracht van de exploitatie opgenomen is in een lijst, gelijkgesteld aan eigen loontrekkend of statutair personeel, als de volgende gegevens aan de administratie worden bezorgd:<br>
+1° de exhaustieve lijst met namen van de statutaire personeelsleden in kwestie, hun kwalificatie en hun wekelijkse arbeidsduur, waarbij een kopie van de beslissing van hun aanstelling is gevoegd. Die lijst moet worden ondertekend door de openbare dienst én door de verantwoordelijke van de voorziening en aan de administratie worden bezorgd binnen een maand na de exploitatietransfer. Aan die lijst kunnen nadien geen personen worden toegevoegd. De wekelijkse arbeidsduur van de personen kan wel worden verhoogd en hun kwalificatie kan worden aangepast. De voormelde wijzigingen hebben voor de berekening van de tegemoetkoming pas uitwerking op de dag van de wijziging;<br>
+2° als de administratie erom vraagt, alle andere bijkomende informatie over de exploitatietransfer en de rol van de openbare dienst.
 
 ### ART 3.
 
@@ -126,7 +126,7 @@ De volgende werknemers geven geen recht op een tegemoetkoming voor vervangende t
 
 ### ART 5.
 
-§ 1. De voorzieningen delen aan het agentschap de volgende gegevens per trimester mee:<br>
+§ 1. De voorzieningen delen aan de administratie de volgende gegevens per trimester mee:<br>
 1° de volgende gegevens over de voorziening:<br>
 a) het statuut;<br>
 b) het sociale zekerheidsnummer;<br>
@@ -145,23 +145,23 @@ i) het aantal niet-gelijkgestelde dagen of uren;<br>
 a) de voornaam, de achternaam en de beroepskwalificatie van de werknemer;<br>
 b) het inschrijvingsnummer van de werknemer in het Rijksregister;<br>
 c) het aantal uren van de nieuwe of bijkomende tewerkstelling en de aanvangsdatum en eventueel de einddatum ervan;<br>
-d) als het agentschap erom verzoekt, een afschrift van de arbeidsovereenkomst of een afschrift van de benoemingsakte van de inrichtende macht als het om een openbare dienst gaat. Uit dat afschrift moet blijken dat de nieuwe of bijkomende tewerkstelling, vermeld in punt c), het gevolg is van de compensatie van de vrijstelling van arbeidsprestaties;<br>
-e) als het agentschap erom verzoekt, een kopie van de RSZ-aangifte waarin het personeelsbestand is opgenomen;<br>
-f) als het agentschap erom verzoekt, het bewijs dat de voordelen, vermeld in artikel 3 van dit besluit, worden toegepast.<br>
+d) als de administratie erom verzoekt, een afschrift van de arbeidsovereenkomst of een afschrift van de benoemingsakte van de inrichtende macht als het om een openbare dienst gaat. Uit dat afschrift moet blijken dat de nieuwe of bijkomende tewerkstelling, vermeld in punt c), het gevolg is van de compensatie van de vrijstelling van arbeidsprestaties;<br>
+e) als de administratie erom verzoekt, een kopie van de RSZ-aangifte waarin het personeelsbestand is opgenomen;<br>
+f) als de administratie erom verzoekt, het bewijs dat de voordelen, vermeld in artikel 3 van dit besluit, worden toegepast.<br>
 <br>
-§ 2. Elke voorziening moet elk trimester de gegevens, vermeld in paragraaf 1, via de elektronische vragenlijst die het agentschap ter beschikking stelt, invullen of bijwerken, uiterlijk op het einde van het trimester dat volgt op het trimester waarop de gegevens betrekking hebben.<br>
+§ 2. Elke voorziening moet elk trimester de gegevens, vermeld in paragraaf 1, via de elektronische vragenlijst die de administratie ter beschikking stelt, invullen of bijwerken, uiterlijk op het einde van het trimester dat volgt op het trimester waarop de gegevens betrekking hebben.<br>
 <br>
-De voorziening is verplicht om de voorlopige tegemoetkomingen, vermeld in artikel 8, die eventueel te veel betaald zijn, terug te storten aan het agentschap als blijkt dat ze op geen andere wijze gerecupereerd kunne worden.<br>
+De voorziening is verplicht om de voorlopige tegemoetkomingen, vermeld in artikel 8, die eventueel te veel betaald zijn, terug te storten aan de administratie als blijkt dat ze op geen andere wijze gerecupereerd kunne worden.<br>
 <br>
-Op 30 september nadat de referentieperiode is afgelopen, gaat het agentschap na of voor alle trimesters de elektronische vragenlijst is bezorgd. Als de gegevens, vermeld in paragraaf 1, op 16 oktober nog altijd niet zijn bezorgd, kan het agentschap de terugbetaling eisen van de voorlopige tegemoetkomingen, vermeld in artikel 8.<br>
+Op 30 september nadat de referentieperiode is afgelopen, gaat de administratie na of voor alle trimesters de elektronische vragenlijst is bezorgd. Als de gegevens, vermeld in paragraaf 1, op 16 oktober nog altijd niet zijn bezorgd, kan de administratie de terugbetaling eisen van de voorlopige tegemoetkomingen, vermeld in artikel 8.<br>
 <br>
-§ 3. Het agentschap kan jaarlijks de gegevens die meegedeeld zijn in de elektronisch ingevulde vragenlijst, vermeld in paragraaf 2, controleren door de gegevens te vergelijken met de authentieke bronnen van de bevoegde overheidsdiensten die daarvoor beschikbaar zijn. Als het agentschap dat nodig acht, kan het bijkomende informatie opvragen bij de voorziening.<br>
+§ 3. De administratie kan jaarlijks de gegevens die meegedeeld zijn in de elektronisch ingevulde vragenlijst, vermeld in paragraaf 2, controleren door de gegevens te vergelijken met de authentieke bronnen van de bevoegde overheidsdiensten die daarvoor beschikbaar zijn. Als de administratie dat nodig acht, kan het bijkomende informatie opvragen bij de voorziening.<br>
 <br>
-Als het agentschap in het kader van de controles, vermeld in het eerste lid, vaststelt dat er foutieve gegevens meegedeeld zijn in de laatst afgelopen referentieperiode, kan het agentschap de gegevens die de voorziening via de elektronische vragenlijst bezorgd heeft, nadat het informatie ingewonnen heeft bij de voorziening, aanpassen op basis van de reële gegevens voor de referentieperiode. Op basis van de reële gegevens wordt de tegemoetkoming herberekend.
+Als de administratie in het kader van de controles, vermeld in het eerste lid, vaststelt dat er foutieve gegevens meegedeeld zijn in de laatst afgelopen referentieperiode, kan de administratie de gegevens die de voorziening via de elektronische vragenlijst bezorgd heeft, nadat het informatie ingewonnen heeft bij de voorziening, aanpassen op basis van de reële gegevens voor de referentieperiode. Op basis van de reële gegevens wordt de tegemoetkoming herberekend.
 
 ### ART 6.
 
-§ 1. De tegemoetkoming, vermeld in artikel 3, wordt door het agentschap berekend aan de hand de gegevens, vermeld in artikel 5, voor elke periode, vermeld in artikel 8, § 1.<br>
+§ 1. De tegemoetkoming, vermeld in artikel 3, wordt door de administratie berekend aan de hand de gegevens, vermeld in artikel 5, voor elke periode, vermeld in artikel 8, § 1.<br>
 <br>
 § 2. De tegemoetkoming per personeelslid dat heeft gekozen voor het behoud van de arbeidsduur (Tp1) wordt vastgesteld met de volgende formule: Tp1 = Y1 * vte-premie, waarbij:<br>
 1° Y1 = de gemiddelde jaarlijkse loonkosten tijdens de referentieperiode, gedekt door het contract van de werknemer in functie van zijn categorie, berekend op basis van de bedragen, vermeld in de bijlage die bij dit besluit is gevoegd;<br>
@@ -182,7 +182,7 @@ Als de vte-premie per trimester kleiner dan nul is, wordt ze herleid naar nul.<b
 <br>
 § 3. De tegemoetkoming voor een werknemer die de uren van vrijstelling van een personeelslid dat gekozen heeft voor de vrijstelling van de arbeidsprestaties (Tp2), compenseert, wordt vastgesteld conform het tweede tot en met het zesde lid.<br>
 <br>
-De vte-vervanging die gefinancierd moet worden in de vermelde periode, wordt op de volgende wijze berekend: het agentschap berekent de hoeveelheid aan vte-arbeidsduurvermindering die effectief worden toegekend in de referentieperiode aan de personeelsleden die in aanmerking komen voor de maatregel ('Sigma'1) en de hoeveelheid aan vte van de uren die besteed worden aan hun vervanging ('Sigma'2), waarbij 'Sigma'1 en 'Sigma'2 op de volgende wijze worden berekend:<br>
+De vte-vervanging die gefinancierd moet worden in de vermelde periode, wordt op de volgende wijze berekend: de administratie berekent de hoeveelheid aan vte-arbeidsduurvermindering die effectief worden toegekend in de referentieperiode aan de personeelsleden die in aanmerking komen voor de maatregel ('Sigma'1) en de hoeveelheid aan vte van de uren die besteed worden aan hun vervanging ('Sigma'2), waarbij 'Sigma'1 en 'Sigma'2 op de volgende wijze worden berekend:<br>
 <br>
 1° 'Sigma'1: som voor alle personeelsleden die gekozen hebben voor arbeidsduurvermindering, van de vte-arbeidsduurvermindering, die op de volgende wijze wordt berekend per werknemer: U1/T * (V - (38 - T))/38 * C/365, waarbij:<br>
 <br>
@@ -202,7 +202,7 @@ Het vte-VERV per contract van de werknemer stemt overeen met de som van het vte-
 <br>
 Als met toepassing van het tweede en het derde lid 'Sigma'2 &lt; 'Sigma'1, wordt de tegemoetkoming begrensd tot 'Sigma'2. Als met toepassing van het tweede en het derde lid 'Sigma'2 &gt; 'Sigma'1, wordt de tegemoetkoming begrensd tot 'Sigma'1. In dat geval worden de vervangers in chronologische volgorde van hun aanwerving of van de wijziging van hun arbeidsovereenkomst in aanmerking genomen.<br>
 <br>
-Het agentschap past voor de berekening van de tegemoetkoming per vervangingscontract voor elk vervangingscontract de volgende formule toe: Tp2 = Y2 * vte-VERV, waarbij Y2 gelijk is aan de gemiddelde jaarlijkse loonkosten tijdens de referentieperiode, gedekt door het contract van de werknemer in functie van zijn categorie, berekend op basis van de bedragen, vermeld in de bijlage die bij dit besluit is toegevoegd.<br>
+De administratie past voor de berekening van de tegemoetkoming per vervangingscontract voor elk vervangingscontract de volgende formule toe: Tp2 = Y2 * vte-VERV, waarbij Y2 gelijk is aan de gemiddelde jaarlijkse loonkosten tijdens de referentieperiode, gedekt door het contract van de werknemer in functie van zijn categorie, berekend op basis van de bedragen, vermeld in de bijlage die bij dit besluit is toegevoegd.<br>
 <br>
 Als met toepassing van het vifde lid 'Sigma'2 &gt; 'Sigma'1, wordt het te financieren vte-vervanging in chronologische volgorde in rekening gebracht, totdat 'Sigma'1 bereikt is.
 
@@ -212,27 +212,27 @@ In afwijking van artikel 6, § 2, wordt de tegemoetkoming begrensd tot 13 uur pe
 
 ### ART 8.
 
-§ 1. De bedragen van de voorlopige tegemoetkomingen per personeelslid, hierna voorschotten te noemen, en de bedragen van de definitieve tegemoetkomingen per personeelslid, worden door het agentschap meegedeeld aan de voorziening en worden gestort op de financiële rekening die de voorziening doorgeeft aan het agentschap.<br>
+§ 1. De bedragen van de voorlopige tegemoetkomingen per personeelslid, hierna voorschotten te noemen, en de bedragen van de definitieve tegemoetkomingen per personeelslid, worden door de administratie meegedeeld aan de voorziening en worden gestort op de financiële rekening die de voorziening doorgeeft aan de administratie.<br>
 <br>
 Voor de voorzieningen die de voorwaarden, vermeld in artikel 5, § 2, naleven, worden de voorschotten en de definitieve tegemoetkomingen op de volgende wijze geregeld:<br>
 1° het voorschot van 31 januari, 30 april, 31 juli en 31 oktober van het jaar J is gelijk aan: 1/4 x (bedrag van de definitieve tegemoetkoming voor het derde en vierde trimester van het jaar J-2 en het eerste en tweede trimester van het jaar J-1 x 1,02). De voorschotten van 31 januari en 30 april worden betaald in januari. De voorschotten van 31 juli en 31 oktober worden samen met het eventueel resterende verschil, vermeld in paragraaf 2, betaald in juli;<br>
 2° vervolgens wordt het verschil tussen de tegemoetkomingen voor de laatste twee trimesters van het jaar J en de eerste twee trimesters van het jaar J + 1, en de voorschotten voor diezelfde trimesters, betaald in januari van het jaar J+2.<br>
 <br>
-§ 2. Als een voorziening te veel voorschotten heeft ontvangen, en als de terugvordering via de volgende vier voorschotten niet mogelijk is, wordt het saldo door de voorziening teruggestort aan het agentschap vóór het einde van de maand die volgt op de maand waarin het agentschap het terug te vorderen bedrag aan de voorziening heeft meegedeeld. Dat bedrag kan eventueel worden teruggevorderd via een compensatie op de bedragen die het agentschap in de loop van datzelfde jaar verschuldigd is aan de voorziening met toepassing van hoofdstuk 3.<br>
+§ 2. Als een voorziening te veel voorschotten heeft ontvangen, en als de terugvordering via de volgende vier voorschotten niet mogelijk is, wordt het saldo door de voorziening teruggestort aan de administratie vóór het einde van de maand die volgt op de maand waarin de administratie het terug te vorderen bedrag aan de voorziening heeft meegedeeld. Dat bedrag kan eventueel worden teruggevorderd via een compensatie op de bedragen die de administratie in de loop van datzelfde jaar verschuldigd is aan de voorziening met toepassing van hoofdstuk 3.<br>
 <br>
-§ 3. Als de voorziening de gegevens, vermeld in artikel 5, heeft meegedeeld, kan de voorziening die gegevens nog wijzigen tot dertig dagen na de dag waarop de voorziening van het agentschap de berekening heeft ontvangen. Het agentschap bezorgt de berekening aan de voorziening tussen 16 oktober en 31 oktober.<br>
+§ 3. Als de voorziening de gegevens, vermeld in artikel 5, heeft meegedeeld, kan de voorziening die gegevens nog wijzigen tot dertig dagen na de dag waarop de voorziening van de administratie de berekening heeft ontvangen. de administratie bezorgt de berekening aan de voorziening tussen 16 oktober en 31 oktober.<br>
 <br>
 In afwijking van het eerste lid, zijn aanvullende gegevens of correcties van gegevens die eerder zijn meegedeeld over de periode van 1 juli 2017 tot en met 30 juni 2018 nog ontvankelijk tot 10 januari 2019.
 
 ### ART 9.
 
-Het agentschap staat in voor de coördinatie van de controle op de juistheid van de gegevens die de voorzieningen meedelen.
+De administratie staat in voor de coördinatie van de controle op de juistheid van de gegevens die de voorzieningen meedelen.
 
 ### ART 10.
 
 Tegen de beslissingen, vermeld in artikel 8, § 1, tweede lid, 1°, is er geen administratief beroep mogelijk.<br>
 <br>
-In geval van een gerechtelijk geschil over de beslissingen, vermeld in artikel 8, stort het agentschap, in afwachting van een uitspraak door de rechtbank, het bedrag van de tegemoetkomingen op basis van de berekeningen van het agentschap.
+In geval van een gerechtelijk geschil over de beslissingen, vermeld in artikel 8, stort de administratie, in afwachting van een uitspraak door de rechtbank, het bedrag van de tegemoetkomingen op basis van de berekeningen van de administratie.
 
 ## HOOFDSTUK 3. Tegemoetkoming in de vakbondspremie in bepaalde gezondheidsinrichtingen en -diensten
 
@@ -248,9 +248,9 @@ c) de revalidatieziekenhuizen;<br>
 
 ### ART 12.
 
-Elk jaar stort het agentschap een tegemoetkoming in de kosten voor de vakbondspremiebijdrage aan de woonzorgcentra en de centra voor kortverblijf die behoren tot de openbare sector. Die tegemoetkoming moet worden aangewend bij de inning van de vakbondspremiebijdragen die verschuldigd zijn voor de werknemers die werken in de voorzieningen die tot de provinciale en lokale besturen behoren.<br>
+Elk jaar stort de administratie een tegemoetkoming in de kosten voor de vakbondspremiebijdrage aan de woonzorgcentra en de centra voor kortverblijf die behoren tot de openbare sector. Die tegemoetkoming moet worden aangewend bij de inning van de vakbondspremiebijdragen die verschuldigd zijn voor de werknemers die werken in de voorzieningen die tot de provinciale en lokale besturen behoren.<br>
 <br>
-Elk jaar stort het agentschap een tegemoetkoming in de kosten voor vakbondspremies aan het Syndicaal Fonds Non-Profit dat bestaat uit de representatieve werknemersorganisaties en dat de juridische vorm heeft van een vzw. Die tegemoetkoming wordt aangewend om een vakbondspremie uit te keren.
+Elk jaar stort de administratie een tegemoetkoming in de kosten voor vakbondspremies aan het Syndicaal Fonds Non-Profit dat bestaat uit de representatieve werknemersorganisaties en dat de juridische vorm heeft van een vzw. Die tegemoetkoming wordt aangewend om een vakbondspremie uit te keren.
 
 ### ART 13.
 
@@ -262,15 +262,15 @@ De bedragen, vermeld in het eerste en tweede lid, zijn de bedragen die gelden op
 
 ### ART 14.
 
-De vzw Syndicaal Fonds Non-Profit, met KBO-nummer 0480.161.084, stuurt het agentschap jaarlijks zijn begroting die in de algemene vergadering is goedgekeurd, de jaarrekening, de toelichting bij de balans en de resultatenrekening met een duidelijke opsplitsing van de gedane uitgaven en het rapport van de bedrijfsrevisor.<br>
+De vzw Syndicaal Fonds Non-Profit, met KBO-nummer 0480.161.084, stuurt de administratie jaarlijks zijn begroting die in de algemene vergadering is goedgekeurd, de jaarrekening, de toelichting bij de balans en de resultatenrekening met een duidelijke opsplitsing van de gedane uitgaven en het rapport van de bedrijfsrevisor.<br>
 <br>
-De documenten, vermeld in het eerste lid, moeten bezorgd zijn voor het agentschap het bedrag, vermeld in artikel 13, tweede lid, aan de vzw Syndicaal Fonds Non-Profit kan storten.<br>
+De documenten, vermeld in het eerste lid, moeten bezorgd zijn voor de administratie het bedrag, vermeld in artikel 13, tweede lid, aan de vzw Syndicaal Fonds Non-Profit kan storten.<br>
 <br>
 Het bedrag, vermeld in artikel 13, tweede lid, wordt gestort op voorwaarde dat uit de laatste balans die door de algemene vergadering van de vzw Syndicaal Fonds Non-Profit is goedgekeurd, blijkt dat het eigen vermogen groter dan 1 euro (een euro) is en dat de schulden maximaal 3.500.000 euro (drie miljoen vijfhonderdduizend euro) bedragen. Als uit diezelfde balans blijkt dat het eigen vermogen groter dan 7.000.000 euro (zeven miljoen euro) is, wordt het bedrag van de tegemoetkoming verminderd met het bedrag van het verschil tussen het eigen vermogen en die 7.000.000 euro (zeven miljoen euro).
 
 ### ART 15.
 
-Het agentschap stort de tegemoetkoming, vermeld in artikel 13, tweede lid, uiterlijk op 31 januari van het jaar na het referentiejaar aan de vzw Syndicaal Fonds Non-Profit, met vermelding van het referentiejaar.
+De administratie stort de tegemoetkoming, vermeld in artikel 13, tweede lid, uiterlijk op 31 januari van het jaar na het referentiejaar aan de vzw Syndicaal Fonds Non-Profit, met vermelding van het referentiejaar.
 
 ### ART 16.
 
@@ -287,7 +287,7 @@ In dit hoofdstuk wordt verstaan onder voorzieningen:<br>
 
 ### ART 16/2.
 
-Ter uitvoering van de federale sociale akkoorden van 2000, 2005, 2011 en 2013 stort het agentschap elk jaar in de maand januari:<br>
+Ter uitvoering van de federale sociale akkoorden van 2000, 2005, 2011 en 2013 stort de administratie elk jaar in de maand januari:<br>
 1° 39.645.429 euro aan het Fonds Sociale Maribel van het paritair comité 330, kamer ouderenzorg;<br>
 2° 11.886.681 euro aan het Fonds Sociale Maribel van de overheidssector.<br>
 <br>
@@ -301,7 +301,7 @@ De toewijzing van bijkomende tewerkstelling kan niet op de Vlaamse overheid word
 
 ### ART 16/3.
 
-Het dagverzorgingscentrum kan aan het agentschap de premies factureren voor titels en beroepskwalificaties die de voorziening betaald heeft aan de rechthebbende verpleegkundige met toepassing van artikel 1, § 1 en § 2, van het koninklijk besluit van 28 december 2011 betreffende uitvoering van het attractiviteitsplan voor het verpleegkundig beroep, in bepaalde federale gezondheidssectoren, wat betreft de premies voor de titels en bijzondere beroepsbekwaamheden en ongemakkelijke prestaties.<br>
+Het dagverzorgingscentrum kan aan de administratie de premies factureren voor titels en beroepskwalificaties die de voorziening betaald heeft aan de rechthebbende verpleegkundige met toepassing van artikel 1, § 1 en § 2, van het koninklijk besluit van 28 december 2011 betreffende uitvoering van het attractiviteitsplan voor het verpleegkundig beroep, in bepaalde federale gezondheidssectoren, wat betreft de premies voor de titels en bijzondere beroepsbekwaamheden en ongemakkelijke prestaties.<br>
 <br>
 De voorziening, vermeld in het eerste lid, levert voor 31 oktober van het jaar waarin de premie is uitbetaald aan de rechthebbende, het bewijs dat de premie, waarvoor ze een factuur heeft ingediend, aan die rechthebbende is uitbetaald.<br>
 <br>
@@ -339,9 +339,9 @@ De voorzieningen, vermeld in 1e lid, betreft alleen de voorzieningen uit de priv
 
 ### ART 16/5.
 
-In november 2019 stort het agentschap aan de voorzieningen, vermeld in artikel 16/4, een bedrag ter compensatie van de eerste fase in de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen.<br>
+In november 2019 stort de administratie aan de voorzieningen, vermeld in artikel 16/4, een bedrag ter compensatie van de eerste fase in de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen.<br>
 <br>
-Het aan de voorzieningen te storten bedrag zal in oktober 2019 aan het agentschap Zorg en Gezondheid worden meegedeeld door een orgaan of instelling die tot de nodige berekeningen in het licht van de beoogde functieclassificatie kunnen overgaan en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+Het aan de voorzieningen te storten bedrag zal in oktober 2019 aan de administratie&nbsp;worden meegedeeld door een orgaan of instelling die tot de nodige berekeningen in het licht van de beoogde functieclassificatie kunnen overgaan en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
 <br>
 Het totaal van de bedragen die aan de voorzieningen wordt gestort, mag niet hoger zijn dan 4.635.875 euro.<br>
 <br>
@@ -349,33 +349,33 @@ Indien het totaal van de bedragen die aan de voorzieningen wordt gestort, lager 
 
 ### ART 16/6.
 
-Het agentschap stort aan de voorzieningen, vermeld in artikel 16/4, met uitzondering van de voorzieningen, vermeld in artikel 16/4, eerste lid, g), voor de rechten van november en december 2019, het saldo van het bedrag ter compensatie van de eerste fase in de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, of vordert het bedrag dat in december 2019 te veel is ontvangen, terug.<br>
+De administratie stort aan de voorzieningen, vermeld in artikel 16/4, met uitzondering van de voorzieningen, vermeld in artikel 16/4, eerste lid, g), voor de rechten van november en december 2019, het saldo van het bedrag ter compensatie van de eerste fase in de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, of vordert het bedrag dat in december 2019 te veel is ontvangen, terug.<br>
 <br>
-Het aan de voorzieningen te storten bedrag zal uiterlijk 30 juni 2020 aan het agentschap Zorg en Gezondheid worden meegedeeld door een orgaan of instelling die tot de nodige berekeningen in het licht van de beoogde functieclassificatie kunnen overgaan en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit<br>
+Het aan de voorzieningen te storten bedrag zal uiterlijk 30 juni 2020 aan de administratie worden meegedeeld door een orgaan of instelling die tot de nodige berekeningen in het licht van de beoogde functieclassificatie kunnen overgaan en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit<br>
 <br>
 Het totaalbedrag dat aan de voorzieningen wordt gestort, mag niet hoger zijn dan 896.046,27 euro.
 
 ### ART 16/7.
 
-In 2020 stort het agentschap aan de voorzieningen, vermeld in artikel 16/4, eerste lid, g), een bedrag ter compensatie van de eerste fase in de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2019.<br>
+In 2020 stort de administratie aan de voorzieningen, vermeld in artikel 16/4, eerste lid, g), een bedrag ter compensatie van de eerste fase in de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2019.<br>
 <br>
-Het bedrag dat aan de voorzieningen wordt gestort, wordt aan het agentschap meegedeeld door een orgaan dat of instelling die de nodige berekeningen kan uitvoeren in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+Het bedrag dat aan de voorzieningen wordt gestort, wordt aan de administratie meegedeeld door een orgaan dat of instelling die de nodige berekeningen kan uitvoeren in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
 <br>
 Het totaalbedrag dat aan de voorzieningen wordt gestort, mag niet hoger zijn dan 20.000 euro.
 
 ### ART 16/8.
 
-Uiterlijk tegen 31 juli 2020 stort het agentschap aan de voorzieningen, vermeld in artikel 16/4, een bedrag ter compensatie van de eerste fase in de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2020. Het totaal van de bedragen die aan de voorzieningen wordt gestort, mag niet hoger zijn dan 23.114.185 euro.<br>
+Uiterlijk tegen 31 juli 2020 stort de administratie aan de voorzieningen, vermeld in artikel 16/4, een bedrag ter compensatie van de eerste fase in de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2020. Het totaal van de bedragen die aan de voorzieningen wordt gestort, mag niet hoger zijn dan 23.114.185 euro.<br>
 <br>
-In 2021 stort het agentschap aan de voorzieningen, vermeld in artikel 16/4, het saldo van het bedrag ter compensatie van de eerste fase in de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2020, of vordert het te veel betaalde bedrag terug.<br>
+In 2021 stort de administratie aan de voorzieningen, vermeld in artikel 16/4, het saldo van het bedrag ter compensatie van de eerste fase in de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2020, of vordert het te veel betaalde bedrag terug.<br>
 <br>
-Het bedrag dat aan de voorzieningen wordt gestort, wordt aan het agentschap meegedeeld door een orgaan dat of instelling die de nodige berekeningen kan uitvoeren in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+Het bedrag dat aan de voorzieningen wordt gestort, wordt aan de administratie meegedeeld door een orgaan dat of instelling die de nodige berekeningen kan uitvoeren in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
 <br>
 Het totaalbedrag dat aan de voorzieningen wordt gestort met toepassing van het eerste en het tweede lid, mag niet hoger zijn dan 23.114.185 euro.
 
 ### ART 16/9.
 
-De voorziening die weigert zich aan de controle van het agentschap te onderwerpen, verliest de rechten, vermeld in dit hoofdstuk.
+De voorziening die weigert zich aan de controle van de administratie te onderwerpen, verliest de rechten, vermeld in dit hoofdstuk.
 
 ## [HOOFDSTUK 3/4. Financiering functieclassificatie ter uitvoering van het Vijfde Vlaams Intersectoraal akkoord van 8 juni 2018 en het Zesde Vlaams Intersectoraal akkoord van 30 maart 2021 voor de social/non-profitsectoren (ing. BVR 16 juli 2021, art.1, I: 1 juli 2021)]
 
@@ -397,79 +397,79 @@ De voorzieningen, vermeld in het eerste lid, betreffen alleen de voorzieningen u
 
 ### ART 16/11.
 
-§1. In juli 2021 stort het agentschap aan de voorzieningen, vermeld in artikel 16/10,&nbsp;eerste lid, 1° tot en met 9°, een bedrag ter compensatie van de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2021.<br>
+§1. In juli 2021 stort de administratie aan de voorzieningen, vermeld in artikel 16/10,&nbsp;eerste lid, 1° tot en met 9°, een bedrag ter compensatie van de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2021.<br>
 <br>
-Het bedrag dat aan de voorzieningen wordt gestort, wordt in juni 2021 aan het agentschap meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+Het bedrag dat aan de voorzieningen wordt gestort, wordt in juni 2021 aan de administratie meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
 <br>
 Het totaal van de bedragen die aan de voorzieningen worden gestort, is niet hoger dan het hiervoor op basis van het vijfde en zesde Vlaamse Intersectorale Akkoord voorziene bedrag in de begroting 2021.<br>
 <br>
-§2. In september 2022 stort het agentschap aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2021.<br>
+§2. In september 2022 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2021.<br>
 <br>
 Het voorschot, vermeld in het eerste lid, bedraagt in totaal 60% van het hiervoor op basis van het zesde Vlaamse Intersectorale Akkoord voorziene bedrag in de begroting 2021. Het voorschot wordt pro rata verdeeld over de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, op basis van rubriek 62 van de resultatenrekening van 2020.
 
 ### ART 16/12.
 
-§1. In juni 2022 stort het agentschap aan de voorzieningen, vermeld in artikel 16/10,&nbsp;eerste lid, 1° tot en met 9°, een bedrag ter compensatie van de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2021.<br>
+§1. In juni 2022 stort de administratie aan de voorzieningen, vermeld in artikel 16/10,&nbsp;eerste lid, 1° tot en met 9°, een bedrag ter compensatie van de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2021.<br>
 <br>
-Het bedrag dat aan de voorzieningen wordt gestort, wordt berekend door het bedrag dat de voorziening in 2021 heeft ontvangen in het deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf, af te trekken van het bedrag dat in mei 2022 aan het agentschap wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+Het bedrag dat aan de voorzieningen wordt gestort, wordt berekend door het bedrag dat de voorziening in 2021 heeft ontvangen in het deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf, af te trekken van het bedrag dat in mei 2022 aan de administratie wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
 <br>
-Een bedrag dat moet worden teruggevorderd, brengt het agentschap in mindering op de rechten 2022, vermeld in artikel 16/14.<br>
+Een bedrag dat moet worden teruggevorderd, brengt de administratie in mindering op de rechten 2022, vermeld in artikel 16/14.<br>
 <br>
 Het totaal van de bedragen die aan de voorzieningen worden gestort conform dit artikel en artikel 16/11, is niet hoger dan het hiervoor op basis van het vijfde en zesde Vlaamse Intersectorale Akkoord voorziene bedrag in de begroting 2021.<br>
 <br>
-§2. Het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, te compenseren voor de rechten 2021, wordt in november 2022 aan het agentschap meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+§2. Het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, te compenseren voor de rechten 2021, wordt in november 2022 aan de administratie meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
 <br>
-In december 2022 betaalt het agentschap aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren voor de rechten 2021, of vordert het agentschap het te veel betaalde bedrag terug. Het saldo is het verschil tussen het bedrag dat door het orgaan of de instelling, conform het vorige lid, in november 2022 aan het agentschap meegedeeld wordt en het bedrag dat het agentschap op basis van artikel 16/11, § 2, betaald heeft.<br>
+In december 2022 betaalt de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren voor de rechten 2021, of vordert de administratie het te veel betaalde bedrag terug. Het saldo is het verschil tussen het bedrag dat door het orgaan of de instelling, conform het vorige lid, in november 2022 aan de administratie meegedeeld wordt en het bedrag dat de administratie op basis van artikel 16/11, § 2, betaald heeft.<br>
 <br>
 Het totaal van de bedragen die aan de voorzieningen worden gestort conform deze paragraaf en artikel 16/11, § 2, is niet hoger dan het hiervoor op basis van het zesde Vlaamse Intersectorale Akkoord voorziene bedrag in de begroting 2021.
 
 ### ART 16/13.
 
-§1. In januari 2022 stort het agentschap aan de voorzieningen, vermeld in artikel 16/10,&nbsp;eerste lid, 1° tot en met 9°, een bedrag ter compensatie van de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2022.<br>
+§1. In januari 2022 stort de administratie aan de voorzieningen, vermeld in artikel 16/10,&nbsp;eerste lid, 1° tot en met 9°, een bedrag ter compensatie van de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2022.<br>
 <br>
 Het bedrag dat aan de voorzieningen wordt gestort, is gelijk aan twee derden van het bedrag dat aan de voorzieningen is betaald met toepassing van artikel 16/11.<br>
 <br>
-§2. In september 2022 stort het agentschap aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, een voorschot op het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2022.<br>
+§2. In september 2022 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, een voorschot op het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2022.<br>
 <br>
 Het voorschot, vermeld in het eerste lid, bedraagt in totaal 60% van het hiervoor op basis van het zesde Vlaamse Intersectorale Akkoord voorziene bedrag in de begroting 2022. Het voorschot wordt pro rata verdeeld over de voorzieningen, vermeld in artikel 16/10, 10°, op basis van rubriek 62 uit van de resultatenrekening van 2021.
 
 ### ART 16/14.
 
-In juli 2022 stort het agentschap aan de voorzieningen, vermeld in artikel 16/10,&nbsp;punt 1° tot en met 9°, een bedrag ter compensatie van de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2022.<br>
+In juli 2022 stort de administratie aan de voorzieningen, vermeld in artikel 16/10,&nbsp;punt 1° tot en met 9°, een bedrag ter compensatie van de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2022.<br>
 <br>
-Het bedrag dat aan de voorzieningen wordt gestort, bedraagt maximaal de helft van het bedrag dat in juni 2022 aan het agentschap wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+Het bedrag dat aan de voorzieningen wordt gestort, bedraagt maximaal de helft van het bedrag dat in juni 2022 aan de administratie wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
 <br>
 Het totaal van de bedragen die aan de voorzieningen worden gestort conform dit artikel en artikel 16/13, is niet hoger dan het hiervoor op basis van het vijfde en zesde Vlaamse Intersectorale Akkoord voorziene bedrag in de begroting 2022. In dit bedrag wordt ook de opbrengst van het deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf zoals bedoeld in artikel 16/12, tweede lid opgenomen.
 
 ### ART 16/15.
 
-§1. In juni 2023 stort het agentschap aan de voorzieningen, vermeld in artikel 16/10,&nbsp;eerste lid, 1° tot en met 9°, een bedrag ter compensatie van de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2022.<br>
+§1. In juni 2023 stort de administratie aan de voorzieningen, vermeld in artikel 16/10,&nbsp;eerste lid, 1° tot en met 9°, een bedrag ter compensatie van de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen, voor de rechten 2022.<br>
 <br>
-Het bedrag dat aan de voorzieningen wordt gestort, wordt in mei 2023 aan het agentschap meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+Het bedrag dat aan de voorzieningen wordt gestort, wordt in mei 2023 aan de administratie meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
 <br>
 Het totaal van de bedragen die aan de voorzieningen worden gestort met toepassing van dit artikel en artikel 16/13 en 16/14, is niet hoger dan het hiervoor op basis van het vijfde en zesde Vlaamse Intersectorale Akkoord voorziene bedrag in de begroting 2022. In dit bedrag wordt ook de opbrengst van het deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf zoals bedoeld in artikel 16/12, tweede lid opgenomen.<br>
 <br>
-§2. Het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, te compenseren voor de rechten 2022, wordt in juni 2023 aan het agentschap meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+§2. Het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, te compenseren voor de rechten 2022, wordt in juni 2023 aan de administratie meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
 <br>
-In juni 2023 stort het agentschap aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2022, of vordert het agentschap het te veel betaalde bedrag terug. Het saldo is het verschil tussen het bedrag dat door het orgaan of de instelling, conform het vorige lid, in mei 2023 aan het agentschap meegedeeld wordt en het bedrag dat het agentschap op basis van artikel 16/13, § 2, betaald heeft.<br>
+In juni 2023 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2022, of vordert de administratie het te veel betaalde bedrag terug. Het saldo is het verschil tussen het bedrag dat door het orgaan of de instelling, conform het vorige lid, in mei 2023 aan de administratie meegedeeld wordt en het bedrag dat de administratie op basis van artikel 16/13, § 2, betaald heeft.<br>
 <br>
 Het totaal van de bedragen die aan de voorzieningen worden gestort conform deze paragraaf en artikel 16/13, § 2, is niet hoger dan het hiervoor op basis van het zesde Vlaamse Intersectorale Akkoord voorziene bedrag in de begroting 2022.
 
 ### ART 16/15/1.
 
-Uiterlijk in maart 2023 stort het agentschap aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 1° tot en met 9°, een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023.&nbsp;<br>
+Uiterlijk in maart 2023 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 1° tot en met 9°, een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023.&nbsp;<br>
 <br>
-Het bedrag dat aan de voorzieningen wordt gestort, is gelijk aan het bedrag dat in juni 2022 conform artikel 16/14, tweede lid, aan het agentschap werd meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.
+Het bedrag dat aan de voorzieningen wordt gestort, is gelijk aan het bedrag dat in juni 2022 conform artikel 16/14, tweede lid, aan de administratie werd meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.
 
 ### ART 16/15/2.
 
-In juni 2024 stort het agentschap aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 1° tot en met 9°, het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023 of vordert het agentschap het te veel betaalde bedrag terug. Het saldo is het verschil tussen het bedrag dat in mei 2024 aan het agentschap wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit en het bedrag dat het agentschap op basis van artikel 16/15/1, betaald heeft.&nbsp;<br>
+In juni 2024 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 1° tot en met 9°, het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023 of vordert de administratie het te veel betaalde bedrag terug. Het saldo is het verschil tussen het bedrag dat in mei 2024 aan de administratie wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit en het bedrag dat de administratie op basis van artikel 16/15/1, betaald heeft.&nbsp;<br>
 <br>
 Het totaal van de bedragen die aan de voorzieningen worden gestort conform dit artikel en artikel 16/15/1 is niet hoger dan het bedrag dat daarvoor op basis van het vijfde en zesde Vlaams intersectoraal akkoord is vastgelegd in de begroting van 2023.
 
 ### ART 16/16.
 
-De voorziening die weigert zich aan de controle van het agentschap te onderwerpen, verliest de rechten, vermeld in dit hoofdstuk.
+De voorziening die weigert zich aan de controle van de administratie te onderwerpen, verliest de rechten, vermeld in dit hoofdstuk.
 
 ## [HOOFDSTUK 3/5. Financiering van de functieclassificatie in ouderenvoorzieningen ter uitvoering van het Zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren: openbare sector (ing. BVR 16 september 2022, art. 8, I: 16 september 2022)]
 
@@ -479,55 +479,55 @@ In dit hoofdstuk wordt onder voorzieningen de woonzorgcentra, de dagverzorgingsc
 
 ### ART 16/18.
 
-Uiterlijk in september 2022 stort het agentschap aan de voorzieningen een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten van 1 juli 2021 tot en met 31 december 2021.<br>
+Uiterlijk in september 2022 stort de administratie aan de voorzieningen een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten van 1 juli 2021 tot en met 31 december 2021.<br>
 <br>
-Het bedrag dat aan de voorzieningen wordt gestort, wordt berekend door het bedrag dat de voorziening voor de periode van 1 juli 2021 tot en met 31 december 2021 heeft ontvangen voor het deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf, af te trekken van het bedrag dat is berekend op basis van verwerkte gegevens tot en met 30 juni 2022, dat uiterlijk op 16 september 2022 aan het agentschap wordt meegedeeld door een orgaan dat of een instelling die kan instaan voor de bepaling van de bedragen die moeten worden uitbetaald in het licht van de beoogde functieclassificatie, waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+Het bedrag dat aan de voorzieningen wordt gestort, wordt berekend door het bedrag dat de voorziening voor de periode van 1 juli 2021 tot en met 31 december 2021 heeft ontvangen voor het deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf, af te trekken van het bedrag dat is berekend op basis van verwerkte gegevens tot en met 30 juni 2022, dat uiterlijk op 16 september 2022 aan de administratie wordt meegedeeld door een orgaan dat of een instelling die kan instaan voor de bepaling van de bedragen die moeten worden uitbetaald in het licht van de beoogde functieclassificatie, waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
 <br>
 Het totaal van de bedragen die aan de voorzieningen worden gestort, is niet hoger dan het bedrag dat daarvoor is vastgelegd in de begroting 2021 op basis van het Zesde Vlaams Intersectoraal Akkoord. Het voormelde bedrag is 25.499.251,89 euro.
 
 ### ART 16/19.
 
-Uiterlijk op 31 maart 2023 stort het agentschap aan de voorzieningen een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten van 1 juli 2021 tot en met 31 december 2021.<br>
+Uiterlijk op 31 maart 2023 stort de administratie aan de voorzieningen een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten van 1 juli 2021 tot en met 31 december 2021.<br>
 <br>
-Het bedrag dat aan de voorzieningen wordt gestort, wordt berekend door het bedrag dat de voorziening voor de periode van 1 juli 2021 tot en met 31 december 2021 heeft ontvangen in het deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf, af te trekken van het bedrag dat uiterlijk op 1 maart 2023 aan het agentschap wordt meegedeeld door een orgaan dat of een instelling die kan instaan voor de bepaling van de bedragen die moeten worden uitbetaald in het licht van de beoogde functieclassificatie, waarmee de Vlaamse Regering met dat doel een overeenkomst sluit. Als het deel M dat de voorziening ontvangen heeft voor de periode van 1 juli 2021 tot en met 31 december 2021, al verrekend is bij het te storten bedrag dat wordt bepaald conform artikel 16/18, wordt het niet opnieuw in mindering gebracht.<br>
+Het bedrag dat aan de voorzieningen wordt gestort, wordt berekend door het bedrag dat de voorziening voor de periode van 1 juli 2021 tot en met 31 december 2021 heeft ontvangen in het deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf, af te trekken van het bedrag dat uiterlijk op 1 maart 2023 aan de administratie wordt meegedeeld door een orgaan dat of een instelling die kan instaan voor de bepaling van de bedragen die moeten worden uitbetaald in het licht van de beoogde functieclassificatie, waarmee de Vlaamse Regering met dat doel een overeenkomst sluit. Als het deel M dat de voorziening ontvangen heeft voor de periode van 1 juli 2021 tot en met 31 december 2021, al verrekend is bij het te storten bedrag dat wordt bepaald conform artikel 16/18, wordt het niet opnieuw in mindering gebracht.<br>
 <br>
-Als er naar aanleiding van beroepscommissies bij de openbare besturen nog bijkomende betalingen vereist zijn, kan het agentschap de betaling in de loop van 2023 uitvoeren binnen het beschikbare budget dat vastgelegd is in de begroting 2021.<br>
+Als er naar aanleiding van beroepscommissies bij de openbare besturen nog bijkomende betalingen vereist zijn, kan de administratie de betaling in de loop van 2023 uitvoeren binnen het beschikbare budget dat vastgelegd is in de begroting 2021.<br>
 <br>
 In het derde lid wordt verstaan onder beroepscommissies bij de openbare besturen: de interne en externe beroepscommissies, als vermeld in de regeling beroepsfase voor intern en extern beroep zoals bepaald in het Protocol IFIC Vlaamse publieke sectoren (deel 1): toewijzingsprocedures van de sectorale IFIC-functies.<br>
 <br>
-Een bedrag dat moet worden teruggevorderd, brengt het agentschap in mindering op de rechten 2022, vermeld in artikel 16/21.<br>
+Een bedrag dat moet worden teruggevorderd, brengt de administratie in mindering op de rechten 2022, vermeld in artikel 16/21.<br>
 <br>
 Het totaal van de bedragen die aan de voorzieningen worden gestort conform dit artikel en artikel 16/18, is niet hoger dan het bedrag dat daarvoor is vastgelegd in de begroting van 2021 op basis van het Zesde Vlaams Intersectoraal Akkoord. Het voormelde bedrag is 25.499.251,89 euro.
 
 ### ART 16/20.
 
-Uiterlijk in september 2022 stort het agentschap aan de voorzieningen een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2022.<br>
+Uiterlijk in september 2022 stort de administratie aan de voorzieningen een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2022.<br>
 <br>
-Het bedrag dat aan de voorzieningen wordt gestort, is per voorziening gelijk aan 90% van het bedrag dat volgens artikel 16/18 aan het agentschap wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit, vermenigvuldigd met 2.
+Het bedrag dat aan de voorzieningen wordt gestort, is per voorziening gelijk aan 90% van het bedrag dat volgens artikel 16/18 aan de administratie wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit, vermenigvuldigd met 2.
 
 ### ART 16/21.
 
-Uiterlijk in juni 2023 stort het agentschap aan de voorzieningen een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2022.<br>
+Uiterlijk in juni 2023 stort de administratie aan de voorzieningen een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2022.<br>
 <br>
-Het bedrag dat aan de voorzieningen wordt gestort, wordt uiterlijk in mei 2023 aan het agentschap meegedeeld door een orgaan dat of een instelling die kan instaan voor de bepaling van de bedragen die moeten worden uitbetaald in het licht van de beoogde functieclassificatie, waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+Het bedrag dat aan de voorzieningen wordt gestort, wordt uiterlijk in mei 2023 aan de administratie meegedeeld door een orgaan dat of een instelling die kan instaan voor de bepaling van de bedragen die moeten worden uitbetaald in het licht van de beoogde functieclassificatie, waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
 <br>
 Het totaal van de bedragen die aan de voorzieningen worden gestort met toepassing van dit artikel en artikel 16/20, is niet hoger dan het bedrag dat daarvoor is vastgelegd in de begroting van 2022 op basis van het Zesde Vlaams Intersectoraal Akkoord. In dat bedrag wordt ook de opbrengst van het deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf voor de openbare sector opgenomen.
 
 ### ART 16/21/1.
 
-Uiterlijk in maart 2023 stort het agentschap aan de voorzieningen een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023.&nbsp;<br>
+Uiterlijk in maart 2023 stort de administratie aan de voorzieningen een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023.&nbsp;<br>
 <br>
-Het bedrag dat aan de voorzieningen wordt gestort, is per voorziening gelijk aan het bedrag dat conform artikel 16/18 en artikel 16/19 aan het agentschap wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit, vermenigvuldigd met 2.
+Het bedrag dat aan de voorzieningen wordt gestort, is per voorziening gelijk aan het bedrag dat conform artikel 16/18 en artikel 16/19 aan de administratie wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit, vermenigvuldigd met 2.
 
 ### ART 16/21/2.
 
-In juni 2024 stort het agentschap aan de voorzieningen het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023 of vordert het agentschap het te veel betaalde bedrag terug. Het saldo is het verschil tussen het bedrag dat in mei 2024 aan het agentschap wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit en het bedrag dat het agentschap op basis van artikel 16/21/1 betaald heeft.<br>
+In juni 2024 stort de administratie aan de voorzieningen het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023 of vordert de administratie het te veel betaalde bedrag terug. Het saldo is het verschil tussen het bedrag dat in mei 2024 aan de administratie wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit en het bedrag dat de administratie op basis van artikel 16/21/1 betaald heeft.<br>
 <br>
 Het totaal van de bedragen die aan de voorzieningen worden gestort conform dit artikel en artikel 16/21/1, is niet hoger dan het bedrag dat daarvoor op basis van het zesde Vlaams intersectoraal akkoord is vastgelegd in de begroting van 2023.
 
 ### ART 16/22.
 
-De voorziening die weigert zich aan de controle van het agentschap te onderwerpen, verliest de rechten, vermeld in dit hoofdstuk.
+De voorziening die weigert zich aan de controle van de administratie te onderwerpen, verliest de rechten, vermeld in dit hoofdstuk.
 
 ## HOOFDSTUK 4. Wijzigingsbepalingen
 
@@ -553,11 +553,11 @@ De bedragen vermeld in dit besluit en in de bijlage die bij dit besluit is gevoe
 
 ### ART 19.
 
-In afwijking van artikel 5, §2, derde lid, gaat het agentschap, nadat de referentieperiode van 1 juli 2021 tot en met 30 juni 2022 is afgelopen, op 17 oktober 2022 na of voor alle trimesters de elektronische vragenlijst is bezorgd. Als de gegevens, vermeld in paragraaf 1, op uiterlijk 30 oktober 2022 nog altijd niet zijn bezorgd, kan het agentschap de terugbetaling eisen van de voorlopige tegemoetkomingen, vermeld in artikel 8.
+In afwijking van artikel 5, §2, derde lid, gaat de administratie, nadat de referentieperiode van 1 juli 2021 tot en met 30 juni 2022 is afgelopen, op 17 oktober 2022 na of voor alle trimesters de elektronische vragenlijst is bezorgd. Als de gegevens, vermeld in paragraaf 1, op uiterlijk 30 oktober 2022 nog altijd niet zijn bezorgd, kan de administratie de terugbetaling eisen van de voorlopige tegemoetkomingen, vermeld in artikel 8.
 
 ### ART 19/1.
 
-In afwijking van artikel 8, §3, eerste lid, geldt voor het meedelen van de gegevens voor de referentieperiode van 1 juli 2021 tot en met 30 juni 2022 dat als de voorziening de gegevens, vermeld in artikel 5, §1, heeft meegedeeld, de voorziening die gegevens nog kan wijzigen tot dertig dagen na de dag waarop de voorziening van het agentschap de berekening heeft ontvangen. Het agentschap bezorgt de berekening aan de voorziening tussen 31 oktober 2022 en 14 november 2022.
+In afwijking van artikel 8, §3, eerste lid, geldt voor het meedelen van de gegevens voor de referentieperiode van 1 juli 2021 tot en met 30 juni 2022 dat als de voorziening de gegevens, vermeld in artikel 5, §1, heeft meegedeeld, de voorziening die gegevens nog kan wijzigen tot dertig dagen na de dag waarop de voorziening van de administratie de berekening heeft ontvangen. De administratie bezorgt de berekening aan de voorziening tussen 31 oktober 2022 en 14 november 2022.
 
 ### ART 19/2.
 
