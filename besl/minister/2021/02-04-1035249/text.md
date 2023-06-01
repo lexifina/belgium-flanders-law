@@ -93,9 +93,9 @@ Extra uren voor een bepaalde regionale stad die niet aan de diensten in kwestie 
 
 ### ART 6.
 
-Een dienst die het percentage van 85 %, vermeld in artikel 2, vijfde lid, of in artikel 3, § 3, tweede lid, van dit besluit, niet haalt door de uren acute zorg, vermeld in artikel 6, § 3, derde lid, van bijlage 2, of door onregelmatige prestaties die korter zijn dan twee of acht uur, of door de verdeling van de uren dagopvang over de regionale steden, vermeld in artikel 2, negende lid, kan een herberekening van de realisatie van het urencontingent per regionale stad, vermeld in artikel 2, zevende lid, van dit besluit, vragen aan het agentschap. De dienst bezorgt daarvoor de nodige bewijsstukken aan het agentschap.<br>
+Een dienst die het percentage van 85 %, vermeld in artikel 2, vijfde lid, of in artikel 3, § 3, tweede lid, van dit besluit, niet haalt door de uren acute zorg, vermeld in artikel 6, § 3, derde lid, van bijlage 2, of door onregelmatige prestaties die korter zijn dan twee of acht uur, of door de verdeling van de uren dagopvang over de regionale steden, vermeld in artikel 2, negende lid, kan een herberekening van de realisatie van het urencontingent per regionale stad, vermeld in artikel 2, zevende lid, van dit besluit, vragen aan de administratie. De dienst bezorgt daarvoor de nodige bewijsstukken aan de administratie.<br>
 <br>
-Het agentschap bezorgt de dienst een gemotiveerde beslissing over de herberekening, vermeld in het eerste lid.
+de administratie bezorgt de dienst een gemotiveerde beslissing over de herberekening, vermeld in het eerste lid.
 
 ### ART 7.
 
