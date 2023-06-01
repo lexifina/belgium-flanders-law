@@ -36,7 +36,7 @@ Het Agentschap is gevestigd in het tweetalige gebied Brussel-Hoofdstad.<br>
 
 ### ART 3.
 
-Het personeelslid dat belast is met de leiding van het Departement Welzijn, Volksgezondheid en Gezin wordt aangesteld als gedelegeerd bestuurder van het Agentschap.<br>
+Het hoofd van het departement, vermeld in artikel 12 van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg, wordt aangesteld als gedelegeerd bestuurder van het Agentschap.<br>
 &nbsp;
 
 ### ART 4.
@@ -59,7 +59,7 @@ De deskundigen, op wie een beroep wordt gedaan voor deelname aan een overlegcomi
 
 ### ART 6.
 
-De personeelsleden die belast zijn met de leiding van het Departement Welzijn, Volksgezondheid en Gezin en de agentschappen binnen het beleidsdomein Welzijn, Volksgezondheid en Gezin beslissen op welke personeelsleden en goederen van hun entiteit het Agentschap een beroep kan doen.
+De personeelsleden die belast zijn met de leiding van het Departement Zorg en de agentschappen binnen het beleidsdomein Welzijn, Volksgezondheid en Gezin beslissen op welke personeelsleden en goederen van hun entiteit het Agentschap een beroep kan doen.
 
 ### ART 7.
 
