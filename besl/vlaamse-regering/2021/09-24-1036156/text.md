@@ -23,12 +23,12 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° agentschap: het intern verzelfstandigd agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+1° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 2° besluit van 28 juni 2019: het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers;<br>
 3° dienst: een dienst voor gezinszorg;<br>
 4° evaluatiecriteriabesluit: het ministerieel besluit van 4 februari 2021 tot vastlegging voor de diensten voor gezinszorg van de evaluatiecriteria voor de programmatie, vermeld in artikel 4 van bijlage 2 bij het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers;<br>
 5° verdelingsbesluit: het ministerieel besluit van 4 februari 2021 tot vastlegging voor de diensten voor gezinszorg van de voorwaarden voor de toekenning van een subsidiabel urencontingent gezinszorg, vermeld in artikel 49, en van de ontvankelijkheidscriteria voor de aanvraag van extra uren gezinszorg, vermeld in artikel 50 van bijlage 2 bij het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers;<br>
-6° Vesta: het systeem van elektronische gegevensuitwisseling dat elke dienst gebruikt om de gegevens over zijn personeel en zijn gebruikers, die nodig zijn om de subsidies te berekenen en om operationele en beleidsinformatie te genereren, aan het agentschap te bezorgen.
+6° Vesta: het systeem van elektronische gegevensuitwisseling dat elke dienst gebruikt om de gegevens over zijn personeel en zijn gebruikers, die nodig zijn om de subsidies te berekenen en om operationele en beleidsinformatie te genereren, aan de administratie te bezorgen.
 
 ## HOOFDSTUK 2. Evaluatiecriteria voor de programmatie van de diensten
 
