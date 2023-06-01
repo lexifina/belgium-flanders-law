@@ -63,13 +63,14 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° administrateur-generaal: het hoofd van het agentschap;<br>
-2° agentschap: het intern verzelfstandigd agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+1° administratie: de functioneel bevoegde afdeling van het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van &nbsp; 12 mei 2023 &nbsp;over het Departement Zorg, of Zorginspectie als vermeld in artikel 4, §2, derde lid, van het voormelde besluit;<br>
+2° ...;<br>
 2° /1 BelRAI: BelRAI, vermeld in artikel 2, 5° van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
 3° kernactor van het geïntegreerd breed onthaal: een kernactor als vermeld in artikel 1, 5°, van het besluit van de Vlaamse Regering van 30 november 2018 betreffende het lokaal sociaal beleid, vermeld in artikels 2, 9 tot en met 11, 17, 19 en 26 van het decreet van 9 februari 2018 betreffende het lokaal sociaal beleid;<br>
 4° kwetsbare personen: personen die om een of andere reden niet zelfredzaam zijn en daardoor onvoldoende kunnen participeren op een of meerdere levensdomeinen. Het kan gaan om mensen met een beperking, chronisch zieken, ouderen, jongeren met gedrags- en emotionele problemen, mensen die in armoede leven, enz., maar ook minder gekende groepen zoals mensen zonder papieren, recent erkende vluchtelingen, gedetineerden, ex-gedetineerden, ROM-zigeuners, allochtone mantelzorgers, radicaliserende jongeren, deradicaliserende jongeren, ... ;<br>
 5° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen, of de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
-6° zorginspectie: Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.
+5°/1 secretaris-generaal: het hoofd van de administratie;<br>
+6° ...
 
 ### ART 2.
 
@@ -174,9 +175,9 @@ Bij elk van de evaluaties worden de vijf stappen, vermeld in artikel 5, § 3, tw
 
 ### ART 9.
 
-§ 1. Met het oog op de beleidsvoering op het vlak van de woonzorg en de uitoefening van het toezicht, verstrekt de woonzorgvoorziening of de vereniging aan het agentschap en zorginspectie informatie over haar werking in het algemeen en haar kwaliteitsbeleid in het bijzonder. Conform artikel 59 van het Woonzorgdecreet van 15 februari 2019 registreert de woonzorgvoorziening of de vereniging daarvoor anonieme gegevens over de activiteiten van het voorbije werkjaar. Die registratiegegevens vermelden het onderwerp, het doel, de vorm, de frequentie, de intensiteit van de activiteiten en de bereikte doelgroep. De minister kan nadere regels bepalen voor die registratie.<br>
+§ 1. Met het oog op de beleidsvoering op het vlak van de woonzorg en de uitoefening van het toezicht, verstrekt de woonzorgvoorziening of de vereniging aan de administratie informatie over haar werking in het algemeen en haar kwaliteitsbeleid in het bijzonder. Conform artikel 59 van het Woonzorgdecreet van 15 februari 2019 registreert de woonzorgvoorziening of de vereniging daarvoor anonieme gegevens over de activiteiten van het voorbije werkjaar. Die registratiegegevens vermelden het onderwerp, het doel, de vorm, de frequentie, de intensiteit van de activiteiten en de bereikte doelgroep. De minister kan nadere regels bepalen voor die registratie.<br>
 <br>
-§ 2. De woonzorgvoorziening of de vereniging houdt jaarlijks vanaf 15 april het jaarverslag van het voorbije werkjaar en de kwaliteitsplanning voor het lopende jaar ter beschikking van het agentschap.<br>
+§ 2. De woonzorgvoorziening of de vereniging houdt jaarlijks vanaf 15 april het jaarverslag van het voorbije werkjaar en de kwaliteitsplanning voor het lopende jaar ter beschikking van de administratie.<br>
 <br>
 Het jaarverslag bevat de registratiegegevens, vermeld in paragraaf 1. Het bevat ook een evaluatie van de kwaliteitsplanning.<br>
 <br>
@@ -194,9 +195,9 @@ In afwijking van het tweede lid worden de gegevens over de activiteiten van de d
 <br>
 De woonzorgvoorziening of de vereniging hanteert een procedure voor de preventie van, de detectie van en gepaste reacties op grensoverschrijdend gedrag ten aanzien van de gebruikers. In die procedure is een registratiesysteem opgenomen dat geanonimiseerde gegevens bijhoudt over de gevallen van grensoverschrijdend gedrag ten aanzien van de gebruikers.<br>
 <br>
-De woonzorgvoorziening of de vereniging meldt, op een geanonimiseerde wijze, elke vorm van grensoverschrijdend gedrag ten aanzien van de gebruikers aan het agentschap. Het agentschap stelt daarvoor een formulier ter beschikking.<br>
+De woonzorgvoorziening of de vereniging meldt, op een geanonimiseerde wijze, elke vorm van grensoverschrijdend gedrag ten aanzien van de gebruikers aan de administratie. de administratie stelt daarvoor een formulier ter beschikking.<br>
 <br>
-§ 2. Ernstige gebeurtenissen die de zorg en ondersteuning, de gezondheid, de veiligheid, de waardigheid of de integriteit van de gebruikers in het gedrang kunnen brengen, of die daarop een ernstige impact hebben, worden onmiddellijk aan het agentschap gemeld.<br>
+§ 2. Ernstige gebeurtenissen die de zorg en ondersteuning, de gezondheid, de veiligheid, de waardigheid of de integriteit van de gebruikers in het gedrang kunnen brengen, of die daarop een ernstige impact hebben, worden onmiddellijk aan de administratie gemeld.<br>
 <br>
 In de melding, vermeld in het eerste lid, worden geen persoonsgegevens opgenomen.
 
@@ -247,13 +248,13 @@ De minister kan nadere regels bepalen over de wijze waarop de woonzorgvoorzienin
 
 ### ART 14.
 
-Binnen een maand na de dag van de goedkeuring door het bevoegde orgaan van de initiatiefnemer meldt de initiatiefnemer de belangrijke strategische beslissingen die een impact hebben op zijn structuur, werking en bestuur, de woonzorgvoorziening of vereniging, vermeld in artikel 7, § 1, eerste lid, 4°, van het Woonzorgdecreet van 15 februari 2019, aan het agentschap.
+Binnen een maand na de dag van de goedkeuring door het bevoegde orgaan van de initiatiefnemer meldt de initiatiefnemer de belangrijke strategische beslissingen die een impact hebben op zijn structuur, werking en bestuur, de woonzorgvoorziening of vereniging, vermeld in artikel 7, § 1, eerste lid, 4°, van het Woonzorgdecreet van 15 februari 2019, aan de administratie.
 
 ## Afdeling 5. Afwijkingen
 
 ### ART 15.
 
-Op het voldoende gemotiveerde verzoek van de woonzorgvoorziening of vereniging, kan de administrateur-generaal een afwijking toestaan op artikel 11 en op de specifieke erkenningsvoorwaarden, vermeld zijn in bijlage 1 tot en met 12 die bij dit besluit zijn gevoegd.
+Op het voldoende gemotiveerde verzoek van de woonzorgvoorziening of vereniging, kan de secretaris-generaal een afwijking toestaan op artikel 11 en op de specifieke erkenningsvoorwaarden, vermeld zijn in bijlage 1 tot en met 12 die bij dit besluit zijn gevoegd.
 
 ## HOOFDSTUK 4. Subsidiëring
 
@@ -261,7 +262,7 @@ Op het voldoende gemotiveerde verzoek van de woonzorgvoorziening of vereniging, 
 
 ### ART 16.
 
-Binnen de beschikbare begrotingskredieten kan de administrateur-generaal aan erkende woonzorgvoorzieningen, met uitzondering van de diensten voor thuisverpleging, de centra voor kortverblijf type 1, de groepen van assistentiewoningen en de centra voor herstelverblijf, en aan erkende verenigingen een jaarlijkse subsidie toekennen, als ze voldoen aan de bepalingen van dit hoofdstuk en de specifieke subsidievoorwaarden, vermeld in bijlage 1 tot en met 3, 5 tot en met 8, en 12, die bij dit besluit zijn gevoegd.<br>
+Binnen de beschikbare begrotingskredieten kan de secretaris-generaal aan erkende woonzorgvoorzieningen, met uitzondering van de diensten voor thuisverpleging, de centra voor kortverblijf type 1, de groepen van assistentiewoningen en de centra voor herstelverblijf, en aan erkende verenigingen een jaarlijkse subsidie toekennen, als ze voldoen aan de bepalingen van dit hoofdstuk en de specifieke subsidievoorwaarden, vermeld in bijlage 1 tot en met 3, 5 tot en met 8, en 12, die bij dit besluit zijn gevoegd.<br>
 <br>
 Binnen de beschikbare begrotingskredieten kunnen aan erkende woonzorgcentra en centra voor kortverblijf type 1, die aan de bepalingen van dit hoofdstuk voldoen, jaarlijkse subsidies worden toegekend voor de terbeschikkingstelling en het gebruik van infrastructuur, conform de bepalingen van bijlage 14, die bij dit besluit is gevoegd.
 
@@ -300,7 +301,7 @@ De lokale dienstencentra, de diensten voor gastopvang, de centra voor dagopvang,
 
 ### ART 22.
 
-Op straffe van niet-ontvankelijkheid vraagt een lokaal dienstencentrum, een dienst voor gastopvang, een centrum voor kortverblijf type 2 of type 3, of een vereniging die voor het eerst een subsidie aanvraagt, vóór 1 juli met een aangetekende brief aan het agentschap de subsidie. De stukken die de minister bepaalt worden aan die aanvraag toegevoegd.
+Op straffe van niet-ontvankelijkheid vraagt een lokaal dienstencentrum, een dienst voor gastopvang, een centrum voor kortverblijf type 2 of type 3, of een vereniging die voor het eerst een subsidie aanvraagt, vóór 1 juli met een aangetekende brief aan de administratie de subsidie. De stukken die de minister bepaalt worden aan die aanvraag toegevoegd.
 
 ### ART 23.
 
@@ -308,7 +309,7 @@ De subsidie wordt vastgesteld op de wijze, vermeld in bijlage 1 tot 3, 5 tot en 
 
 ### ART 24.
 
-Het lokaal dienstencentrum, de thuiszorgvoorziening, met uitzondering van de dienst voor thuisverpleging, het centrum voor dagverzorging of het centrum voor kortverblijf type 1, of de vereniging bezorgt jaarlijks zo spoedig mogelijk en uiterlijk op 1 oktober het financiële verslag van het afgelopen jaar aan het agentschap. Dat financiële verslag omvat de documenten, vermeld in artikel 13 en 14 van het besluit van de Vlaamse Regering van 13 januari 2006 betreffende de boekhouding en het financieel verslag voor de voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin.
+Het lokaal dienstencentrum, de thuiszorgvoorziening, met uitzondering van de dienst voor thuisverpleging, het centrum voor dagverzorging of het centrum voor kortverblijf type 1, of de vereniging bezorgt jaarlijks zo spoedig mogelijk en uiterlijk op 1 oktober het financiële verslag van het afgelopen jaar aan de administratie. Dat financiële verslag omvat de documenten, vermeld in artikel 13 en 14 van het besluit van de Vlaamse Regering van 13 januari 2006 betreffende de boekhouding en het financieel verslag voor de voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin.
 
 ## Afdeling 3. Specifieke bepaling voor projecten
 
@@ -328,8 +329,8 @@ De minister bepaalt de nadere regels over:<br>
 
 Het permanent overlegorgaan weerbaarheid en transparantie, vermeld in artikel 7, § 3, van het Woonzorgdecreet van 15 februari 2019, bestaat uit:<br>
 1° de minister of zijn vertegenwoordigers;<br>
-2° vertegenwoordigers van het agentschap die bevoegd zijn voor de erkenningen en financiering van de woonzorgvoorzieningen en verenigingen;<br>
-3° vertegenwoordigers van zorginspectie;<br>
+2° vertegenwoordigers van de administratie die bevoegd zijn voor de erkenningen en financiering van de woonzorgvoorzieningen en verenigingen;<br>
+3° vertegenwoordigers van zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 4° maximum acht experten aangewezen door representatieve koepelverenigingen van de initiatiefnemers die in de woonzorg actief zijn en waarop artikel 6, 7 en 8 van het Woonzorgdecreet van 15 februari 2019 van toepassing zijn.<br>
 <br>
 Het voorzitterschap wordt waargenomen door de minister of zijn vertegenwoordiger(s).<br>
@@ -830,12 +831,12 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minist
 
 ### ART 6.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het centrum maakt een buurtanalyse op die voldoet aan de volgende voorwaarden:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;ze omvat kwantitatieve en kwalitatieve gegevens over de buurt, de bewoners, de actoren, de beleving, de sterktes en hiaten, en maakt daarbij gebruik van analyses en beleidsprioriteiten in het kader van het lokaal sociaal beleid over het realiseren van zorgzame buurten; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;ze bepaalt de reikwijdte en prioritering van de opdrachten op maat van de buurt;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;ze vormt de basis voor het meerjarenplan dat tot stand komt op basis van een participatief traject waarin de lokale ouderenverenigingen, de lokale ouderenadviesraad, relevante eerstelijnsactoren en andere relevante actoren in andere beleidsdomeinen geconsulteerd zijn en dat aantoont op welke manier het bijdraagt tot de door het lokaal bestuur geformuleerde beleidsdoelstellingen.</span></span></span></span><br>
+<p>Het centrum maakt een buurtanalyse op die voldoet aan de volgende voorwaarden:<br>
+1°&nbsp;ze omvat kwantitatieve en kwalitatieve gegevens over de buurt, de bewoners, de actoren, de beleving, de sterktes en hiaten, en maakt daarbij gebruik van analyses en beleidsprioriteiten in het kader van het lokaal sociaal beleid over het realiseren van zorgzame buurten;<br>
+2°&nbsp;ze bepaalt de reikwijdte en prioritering van de opdrachten op maat van de buurt;<br>
+3°&nbsp;ze vormt de basis voor het meerjarenplan dat tot stand komt op basis van een participatief traject waarin de lokale ouderenverenigingen, de lokale ouderenadviesraad, relevante eerstelijnsactoren en andere relevante actoren in andere beleidsdomeinen geconsulteerd zijn en dat aantoont op welke manier het bijdraagt tot de door het lokaal bestuur geformuleerde beleidsdoelstellingen.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het agentschap kan de buurtanalyse en het meerjarenplan opvragen.</span></span></p>
+De administratie kan de buurtanalyse en het meerjarenplan opvragen.</p>
 
 ### ART 7.
 
@@ -1003,11 +1004,11 @@ De subsidie-enveloppe, vermeld in het eerste lid, wordt voor een openbaar centru
 <p>In deze bijlage wordt verstaan onder:<br>
 1°&nbsp;algemene psychosociale en (ped)agogische ondersteuning: de activiteiten, vermeld in artikel 2, 2°, van het besluit betreffende de zorg- en bijstandsverlening in de thuiszorg van 27 maart 2009;<br>
 2°&nbsp;begeleidend personeel: de personeelsleden van een dienst die met een of meer van de volgende opdrachten belast zijn:<br>
-a) de sociale onderzoeken verrichten;<br>
+a)&nbsp;de sociale onderzoeken verrichten;<br>
 b) de gebruikers en hun informeel zorg- en ondersteuningsnetwerk bij het opnemen van de eigen zorgregie ondersteunen en versterken;<br>
-c) zorg-, ondersteunings- en ontwikkelingsdoelen in het zorg- en ondersteuningsplan opvolgen;<br>
-d) de integrale en geïntegreerde zorg en ondersteuning op vraag van de gebruiker coördineren;<br>
-e) het kwaliteitsbeleid opvolgen en het verzorgend en logistiek personeel en de doelgroepwerknemers begeleiden;3° centrum voor dagopvang: de bijkomende erkenning voor een centrum voor dagopvang van een dienst conform artikel 13 en 14 van het Woonzorgdecreet van 15 februari 2019;<br>
+c)&nbsp;zorg-, ondersteunings- en ontwikkelingsdoelen in het zorg- en ondersteuningsplan opvolgen;<br>
+d)&nbsp;de integrale en geïntegreerde zorg en ondersteuning op vraag van de gebruiker coördineren;<br>
+e)&nbsp;het kwaliteitsbeleid opvolgen en het verzorgend en logistiek personeel en de doelgroepwerknemers begeleiden;3° centrum voor dagopvang: de bijkomende erkenning voor een centrum voor dagopvang van een dienst conform artikel 13 en 14 van het Woonzorgdecreet van 15 februari 2019;<br>
 4° dienst: een dienst voor gezinszorg;<br>
 5° dienst voor logistieke hulp: een dienst voor logistieke hulp als vermeld in artikel 8 en 9 van het Woonzorgdecreet van 13 maart 2009 en als vermeld in artikel 96 van het Woonzorgdecreet van 15 februari 2019;<br>
 6° doelgroepwerknemer: de persoon die schoonmaakhulp, karweihulp of oppashulp uitvoert in het kader van de lokale diensteneconomie;<br>
@@ -1016,12 +1017,12 @@ e) het kwaliteitsbeleid opvolgen en het verzorgend en logistiek personeel en de 
 9° gezelschap bieden: in het bijzijn van de gebruiker vertoeven en hem vergezellen bij de activiteiten van het dagelijkse leven.<br>
 10° gezinszorg: het zorg- en ondersteuningsaanbod dat bestaat uit persoonsverzorging, huishoudelijke hulp, schoonmaakhulp, oppashulp en karweihulp, alsook de daarmee verband houdende algemene psychosociale en (ped)agogische ondersteuning en begeleiding;<br>
 11° huishoudelijke hulp: de zorg en ondersteuning die bestaat uit de volgende activiteiten:<br>
-a) de organisatie van het huishouden;<br>
+a)&nbsp;de organisatie van het huishouden;<br>
 b)&nbsp;de zorg voor de maaltijden die bestaat uit de volgende activiteiten: maaltijden bereiden, inclusief dieetmaaltijden en babyvoeding, alsook inmaken en bewaren van voedingswaren voor gezinsverbruik en opdienen, afruimen en afwassen;<br>
 c)&nbsp;de zorg voor kleding en linnen die bestaat uit de volgende activiteiten: wassen, strijken en verstellen;<br>
 d)&nbsp;de zorg voor woon- en leefklimaat die bestaat uit de volgende activiteiten: leefruimten hygiënisch onderhouden, bedden opmaken en verschonen, zorgen voor planten in de woning en zorgen voor huisdieren;<br>
 e)&nbsp;boodschappen doen;<br>
-f)&nbsp;de zorg voor veiligheid en hygiëne in de woning;12° kraamzorg: de zorg en ondersteuning voor de moeder, het kind en hun gezin, in de periode van een maand voor de vermoedelijke bevallingsdatum tot drie maanden na de bevalling;<br>
+f)&nbsp;de zorg voor veiligheid en hygiëne in de woning; 12° kraamzorg: de zorg en ondersteuning voor de moeder, het kind en hun gezin, in de periode van een maand voor de vermoedelijke bevallingsdatum tot drie maanden na de bevalling;<br>
 13° leidinggevend personeel: de personeelsleden van een dienst voor gezinszorg die belast zijn met de leiding en de algemene beleidsvoering;<br>
 14° logistiek personeel: de personen, al dan niet tewerkgesteld in een dienst, die schoonmaakhulp, karweihulp of oppashulp aanbieden;<br>
 15° indicatiestelling: de evaluatie en objectivering van het zelfzorgvermogen;<br>
@@ -1035,7 +1036,7 @@ f)&nbsp;de zorg voor veiligheid en hygiëne in de woning;12° kraamzorg: de zorg
 23° regionale stad: een regionale stad als vermeld in de bijlage bij het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en welzijnsvoorzieningen of het tweetalige gebied Brussel-Hoofdstad;<br>
 24° toezicht houden: met aandacht aanwezig zijn in de onmiddellijke nabijheid van de gebruiker, oplettend zijn voor de eventuele behoeften van de gebruiker en indien nodig dringende zorg en ondersteuning verlenen of professionele zorg of mantelzorg inroepen;<br>
 25° verzorgend personeel: de personeelsleden van een dienst die aan de gebruiker persoonsverzorging en huishoudelijke hulp aanbieden, alsook algemene psychosociale en (ped)agogische ondersteuning die met die activiteiten verband houden, met als doel de gebruiker en zijn mantelzorger te handhaven en te ondersteunen in het natuurlijke thuismilieu;<br>
-26° Vesta: het systeem van elektronische gegevensuitwisseling dat elke dienst gebruikt om de gegevens over zijn personeel en zijn gebruikers, die nodig zijn om de subsidies te berekenen en om operationele en beleidsinformatie te genereren, aan het agentschap te bezorgen;<br>
+26° Vesta: het systeem van elektronische gegevensuitwisseling dat elke dienst gebruikt om de gegevens over zijn personeel en zijn gebruikers, die nodig zijn om de subsidies te berekenen en om operationele en beleidsinformatie te genereren, aan de administratie te bezorgen;<br>
 27° vte: een voltijds equivalent;<br>
 28° werkvergadering: een overlegmoment van praktische en organisatie-technische aard, dat meestal, maar niet noodzakelijk, rechtstreeks in verband staat met de dienstverlening aan de gebruikers;<br>
 29° zorg en ondersteuning: één activiteit of het geheel van activiteiten in het kader van het gezondheids- of welzijnsbeleid, die uitgevoerd worden in het kader van dit besluit;<br>
@@ -1315,7 +1316,7 @@ c)&nbsp;in het universitair onderwijs: het studiegebied lichamelijke opvoeding, 
 
 ### ART 34.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Elk verzorgend, logistiek, begeleidend of leidinggevend personeelslid, elke doelgroepwerknemer en elk lid van het omkaderingspersoneel beschikt over een inschrijvingsnummer bij het agentschap voor hij tewerkgesteld mag worden bij een dienst. Het agentschap kent dat nummer toe en levert een inschrijvingsbewijs af nadat de dienst het identificatienummer van de sociale zekerheid (INSZ-nummer) van de betrokken persoon bezorgd heeft. Er wordt per functietype een apart inschrijvingsnummer toegekend en een inschrijvingsbewijs afgeleverd.</span></span></p>
+<p>Elk verzorgend, logistiek, begeleidend of leidinggevend personeelslid, elke doelgroepwerknemer en elk lid van het omkaderingspersoneel beschikt over een inschrijvingsnummer bij de administratie voor hij tewerkgesteld mag worden bij een dienst. De administratie kent dat nummer toe en levert een inschrijvingsbewijs af nadat de dienst het identificatienummer van de sociale zekerheid (INSZ-nummer) van de betrokken persoon bezorgd heeft. Er wordt per functietype een apart inschrijvingsnummer toegekend en een inschrijvingsbewijs afgeleverd.</p>
 
 ### ART 35.
 
@@ -1325,10 +1326,10 @@ c)&nbsp;in het universitair onderwijs: het studiegebied lichamelijke opvoeding, 
 
 ### ART 36.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De dienst leeft de volgende voorwaarden in verband met Vesta na:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de dienst maakt gebruik van Vesta om de gegevens over zijn personeel en zijn gebruikers, die nodig zijn om de subsidies te berekenen en om operationele en beleidsinformatie te genereren, aan het agentschap te bezorgen;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de dienst past bij het doorsturen van gegevens naar Vesta de handleiding toe die het agentschap ter beschikking stelt;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;de dienst houdt rekening met het informatieveiligheidsbeleid bij het doorsturen van gegevens naar Vesta.</span></span></span></span></p>
+<p>De dienst leeft de volgende voorwaarden in verband met Vesta na:<br>
+1°&nbsp;de dienst maakt gebruik van Vesta om de gegevens over zijn personeel en zijn gebruikers, die nodig zijn om de subsidies te berekenen en om operationele en beleidsinformatie te genereren, aan de administratie te bezorgen;<br>
+2°&nbsp;de dienst past bij het doorsturen van gegevens naar Vesta de handleiding toe die de administratie ter beschikking stelt;<br>
+3°&nbsp;de dienst houdt rekening met het informatieveiligheidsbeleid bij het doorsturen van gegevens naar Vesta.</p>
 
 ## Hoofdstuk 4. Bijkomende erkenning voor een centrum voor dagopvang
 
@@ -1426,9 +1427,9 @@ c)&nbsp;in het universitair onderwijs: het studiegebied lichamelijke opvoeding, 
 
 ### ART 47.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Binnen de beschikbare begrotingskredieten en conform de bepalingen van hoofdstuk 3 van dit besluit kan de administrateur-generaal subsidies toekennen aan de diensten voor gezinszorg op voorwaarde dat:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;aan alle erkenningsvoorwaarden voldaan wordt;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;het financiële verslag aan het agentschap bezorgd wordt conform artikel 24 van dit besluit.</span></span></span></span></p>
+<p>Binnen de beschikbare begrotingskredieten en conform de bepalingen van hoofdstuk 3 van dit besluit kan de secretaris-generaal subsidies toekennen aan de diensten voor gezinszorg op voorwaarde dat:<br>
+1°&nbsp;aan alle erkenningsvoorwaarden voldaan wordt;<br>
+2°&nbsp;het financiële verslag aan de administratie bezorgd wordt conform artikel 24 van dit besluit.</p>
 
 ## Afdeling 2. Subsidiëring van gezinszorg, geboden door verzorgend personeel
 
@@ -1458,26 +1459,26 @@ c)&nbsp;in het universitair onderwijs: het studiegebied lichamelijke opvoeding, 
 
 ### ART 50.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Een erkende dienst kan, voor elke regionale stad waarin hij minstens 1539 uur gezinszorg effectief presteert, extra uren gezinszorg aanvragen bij het agentschap.</span></span><br>
+<p>Een erkende dienst kan, voor elke regionale stad waarin hij minstens 1539 uur gezinszorg effectief presteert, extra uren gezinszorg aanvragen bij de administratie.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">De minister bepaalt de criteria voor de beoordeling van de aanvraag, vermeld in het eerste lid. Hij houdt daarbij rekening met:</span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de realisatie van het toegekende urencontingent gezinszorg van de dienst;</span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de mate waarin de dienst zijn werking richt naar kwetsbare doelgroepen. De kwetsbare doelgroepen worden vastgesteld aan de hand van de volgende parameters, waarbij de dienst minstens twee van de vier doelgroepen bereikt:</span></span></span></p>
+De minister bepaalt de criteria voor de beoordeling van de aanvraag, vermeld in het eerste lid. Hij houdt daarbij rekening met:<br>
+1°&nbsp;de realisatie van het toegekende urencontingent gezinszorg van de dienst;<br>
+2°&nbsp;de mate waarin de dienst zijn werking richt naar kwetsbare doelgroepen. De kwetsbare doelgroepen worden vastgesteld aan de hand van de volgende parameters, waarbij de dienst minstens twee van de vier doelgroepen bereikt:</p>
 
-<ol style="list-style-type:lower-alpha">
-	<li><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">de behoeften van de gebruiker van gezinszorg, die worden vastgesteld op de wijze, vermeld in artikel 6 van deze bijlage;</span></span></span></li>
-	<li><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">de gebruikersbijdrage voor gezinszorg, die wordt berekend met toepassing van artikel 17, §1, van deze bijlage;</span></span></span></li>
-	<li><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">de onregelmatige prestaties, vermeld in artikel 53, §1, van deze bijlage;</span></span></span></li>
-	<li><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">de reden voor het opstarten van de gezinszorg, die wordt doorgestuurd naar Vesta. </span></span></span></li>
+<ol>
+	<li>de behoeften van de gebruiker van gezinszorg, die worden vastgesteld op de wijze, vermeld in artikel 6 van deze bijlage;</li>
+	<li>de gebruikersbijdrage voor gezinszorg, die wordt berekend met toepassing van artikel 17, §1, van deze bijlage;</li>
+	<li>de onregelmatige prestaties, vermeld in artikel 53, §1, van deze bijlage;</li>
+	<li>de reden voor het opstarten van de gezinszorg, die wordt doorgestuurd naar Vesta.</li>
 </ol>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Vanaf de toekenning van het extra urencontingent gezinszorg voor het werkingsjaar 2022 wordt de realisatie, vermeld in het tweede lid, 1°, getoetst op het niveau van een regionale stad.</span></span></span><br>
+<p>Vanaf de toekenning van het extra urencontingent gezinszorg voor het werkingsjaar 2022 wordt de realisatie, vermeld in het tweede lid, 1°, getoetst op het niveau van een regionale stad.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">De extra uren gezinszorg worden aangevraagd via een formulier, dat het agentschap daarvoor op zijn website ter beschikking stelt. De aanvraag wordt vóór 1 oktober van het kalenderjaar dat voorafgaat aan het kalenderjaar waarin het extra urencontingent gezinszorg door de minister wordt toegekend, aan het agentschap bezorgd.<br>
+De extra uren gezinszorg worden aangevraagd via een formulier, dat de administratie daarvoor op zijn website ter beschikking stelt. De aanvraag wordt vóór 1 oktober van het kalenderjaar dat voorafgaat aan het kalenderjaar waarin het extra urencontingent gezinszorg door de minister wordt toegekend, aan de administratie bezorgd.<br>
 <br>
-In afwijking van het vierde lid wordt de aanvraag voor 2021 vóór 1 december 2020 aan het agentschap bezorgd.</span></span></span><br>
+In afwijking van het vierde lid wordt de aanvraag voor 2021 vóór 1 december 2020 aan de administratie bezorgd.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Een nieuw initiatief ontvangt geen extra uren gezinszorg in het jaar dat volgt op het jaar van zijn erkenning.</span></span></span></p>
+Een nieuw initiatief ontvangt geen extra uren gezinszorg in het jaar dat volgt op het jaar van zijn erkenning.</p>
 
 ### ART 51.
 
@@ -1527,7 +1528,7 @@ Prestaties tussen 22 uur en 7 uur die korter zijn dan 8 uur worden, binnen het u
 <br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de diensten op basis van het aantal gepresteerde uren gezinszorg tussen 18 uur en 20 uur op werkdagen als vermeld in artikel 21, tweede lid, van deze bijlage, met inbegrip van de uren die gepresteerd zijn in een centrum voor dagopvang, door het verzorgend personeel dat gefinancierd wordt met de middelen, vermeld in artikel 52, eerste lid, 1°, van deze bijlage. De diensten kunnen per gepresteerd uur maximaal 15% van het bedrag, vermeld in artikel 52, eerste lid, 1°, van deze bijlage, ontvangen. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar waarop het budget betrekking heeft.<br>
 <br>
-§ 3. De dienst bezorgt het aantal gepresteerde uren, vermeld in paragraaf 2, jaarlijks via een formulier dat het agentschap daarvoor op zijn website ter beschikking stelt, uiterlijk op 1 mei van het jaar dat volgt op het jaar waarop het budget betrekking heeft.<br>
+§ 3. De dienst bezorgt het aantal gepresteerde uren, vermeld in paragraaf 2, jaarlijks via een formulier dat de administratie daarvoor op zijn website ter beschikking stelt, uiterlijk op 1 mei van het jaar dat volgt op het jaar waarop het budget betrekking heeft.<br>
 <br>
 Het subsidiebedrag wordt aan de diensten toegekend samen met het saldo, vermeld in artikel 66, eerste lid, van deze bijlage.<br>
 <br>
@@ -1564,18 +1565,18 @@ Het totale aantal gelijkgestelde uren wordt begrensd tot 9% van het toegekende u
 
 ### ART 56.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. Boven op de subsidies, vermeld in artikel 52 van deze bijlage, wordt in het kader van meerlingenhulp een toeslag uitbetaald als compensatie voor het verlies aan inkomsten uit gebruikersbijdragen. Die toeslag bedraagt: </span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;een forfaitair bedrag van 240 euro per kalendermaand waarin er &nbsp;&nbsp;&nbsp;&nbsp; meerlingenhulp is geboden, per geholpen gezin;<br>
-2°&nbsp;</span></span></span></span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">vanaf de kalendermaand waarin de meerling een jaar wordt, wordt de toeslag verlaagd naar 120 euro per kalendermaand waarin er meerlingenhulp is geboden, per geholpen gezin;<br>
-3°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">vanaf de kalendermaand waarin de meerling twee jaar wordt, wordt er geen toeslag meer toegekend.</span><br>
+<p>§1. Boven op de subsidies, vermeld in artikel 52 van deze bijlage, wordt in het kader van meerlingenhulp een toeslag uitbetaald als compensatie voor het verlies aan inkomsten uit gebruikersbijdragen. Die toeslag bedraagt:<br>
+1°&nbsp;een forfaitair bedrag van 240 euro per kalendermaand waarin er &nbsp;&nbsp;&nbsp;&nbsp; meerlingenhulp is geboden, per geholpen gezin;<br>
+2°&nbsp;vanaf de kalendermaand waarin de meerling een jaar wordt, wordt de toeslag verlaagd naar 120 euro per kalendermaand waarin er meerlingenhulp is geboden, per geholpen gezin;<br>
+3°&nbsp;vanaf de kalendermaand waarin de meerling twee jaar wordt, wordt er geen toeslag meer toegekend.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§2. De toeslag, vermeld in paragraaf 1, wordt jaarlijks bij het agentschap aangevraagd door de dienst die meerlingenhulp heeft geboden. Als meerdere diensten voor gezinszorg bij hetzelfde gezin meerlingenhulp bieden, stellen ze onderling een coördinerende dienst aan. Die coördinerende dienst is verantwoordelijk voor de aanvraag van de toeslag, vermeld in paragraaf 1, en verdeelt de ontvangen toeslag over de betrokken diensten voor gezinszorg of de diensten voor logistieke hulp, naar rata van het aantal uren meerlingenhulp in hetzelfde gezin.</span></span><br>
+§2. De toeslag, vermeld in paragraaf 1, wordt jaarlijks bij de administratie aangevraagd door de dienst die meerlingenhulp heeft geboden. Als meerdere diensten voor gezinszorg bij hetzelfde gezin meerlingenhulp bieden, stellen ze onderling een coördinerende dienst aan. Die coördinerende dienst is verantwoordelijk voor de aanvraag van de toeslag, vermeld in paragraaf 1, en verdeelt de ontvangen toeslag over de betrokken diensten voor gezinszorg of de diensten voor logistieke hulp, naar rata van het aantal uren meerlingenhulp in hetzelfde gezin.<br>
 <br>
 De toeslag wordt samen met het saldo, vermeld in artikel 66, eerste lid, van deze bijlage uitbetaald.</p>
 
 ### ART 57.
 
-<span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De dienst of coördinerende dienst bezorgt in het kader van meerlingenhulp jaarlijks aan het agentschap tegen uiterlijk 1 april een overzicht met het aantal geholpen gezinnen per kalendermaand van het afgelopen jaar, en per geholpen gezin het dossiernummer of in voorkomend geval de dossiernummers die worden gebruikt in Vesta, alsook een bewijsstuk van gezinssamenstelling. De coördinerende dienst bezorgt ook een overzicht van de diensten die betrokken zijn bij de hulpverlening in hetzelfde gezin.</span></span>
+De dienst of coördinerende dienst bezorgt in het kader van meerlingenhulp jaarlijks aan de administratie tegen uiterlijk 1 april een overzicht met het aantal geholpen gezinnen per kalendermaand van het afgelopen jaar, en per geholpen gezin het dossiernummer of in voorkomend geval de dossiernummers die worden gebruikt in Vesta, alsook een bewijsstuk van gezinssamenstelling. De coördinerende dienst bezorgt ook een overzicht van de diensten die betrokken zijn bij de hulpverlening in hetzelfde gezin.
 
 ### ART 58.
 
@@ -1585,7 +1586,7 @@ De toeslag wordt samen met het saldo, vermeld in artikel 66, eerste lid, van dez
 <br>
 De minister kan de wijze bepalen waarop de private diensten moeten bewijzen dat ze het bedrag dat ze door die verdeling ontvangen, gebruiken voor de financiering van vervangend personeel binnen de dienst, voor wie geen andere middelen worden verkregen.<br>
 <br>
-§3. Het budget, vermeld in paragraaf 1, wordt verdeeld en toegekend nadat Zorggezind aan het agentschap de gegevens van het afgelopen jaar die nodig zijn voor die verdeling, bezorgd heeft. Die gegevens moeten uiterlijk op 1 april aan het agentschap bezorgd worden.<br>
+§3. Het budget, vermeld in paragraaf 1, wordt verdeeld en toegekend nadat Zorggezind aan de administratie de gegevens van het afgelopen jaar die nodig zijn voor die verdeling, bezorgd heeft. Die gegevens moeten uiterlijk op 1 april aan de administratie bezorgd worden.<br>
 <br>
 Het subsidiebedrag wordt aan de private diensten toegekend samen met hun voorschot van het derde trimester.<br>
 <br>
@@ -1608,7 +1609,7 @@ De kilometers, vermeld in het tweede lid, bevatten ook de kilometers die het per
 <br>
 De kilometers, vermeld in het tweede lid, bevatten niet de verplaatsingen om boodschappen te doen voor de gebruiker.<br>
 <br>
-§3. De dienst geeft jaarlijks uiterlijk tegen 1 april aan het agentschap het aantal kilometers van het afgelopen jaar door dat in aanmerking komt conform paragraaf 2.<br>
+§3. De dienst geeft jaarlijks uiterlijk tegen 1 april aan de administratie het aantal kilometers van het afgelopen jaar door dat in aanmerking komt conform paragraaf 2.<br>
 <br>
 Het subsidiebedrag wordt aan de diensten toegekend samen met hun voorschot voor het derde trimester.<br>
 <br>
@@ -1618,7 +1619,7 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, §3, 
 <br>
 Het deel van het budget, vermeld in het eerste lid, dat in het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft, aan verzorgend personeel is toegekend, stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent gezinszorg wordt verhoogd voor het jaar waarop het budget betrekking heeft.<br>
 <br>
-Het budget, vermeld in het eerste lid, wordt evenredig verdeeld tussen de diensten op basis van het aantal kilometers dat de diensten jaarlijks doorgeven aan het agentschap conform paragraaf 3, eerste lid.<br>
+Het budget, vermeld in het eerste lid, wordt evenredig verdeeld tussen de diensten op basis van het aantal kilometers dat de diensten jaarlijks doorgeven aan de administratie conform paragraaf 3, eerste lid.<br>
 <br>
 Het subsidiebedrag wordt aan de private diensten toegekend samen met hun voorschot voor het derde trimester.<br>
 <br>
@@ -1626,7 +1627,7 @@ Het bedrag, vermeld in het eerste lid, wordt geïndexeerd conform artikel 58, §
 <br>
 § 5. Ter uitvoering van het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025 wordt aan de private diensten voor gezinszorg 211.700 euro en aan de openbare diensten voor gezinszorg 78.259 euro toegekend voor vernieuwende projecten die het fietsgebruik ondersteunen.<br>
 <br>
-De budgetten, vermeld in het eerste lid, worden evenredig verdeeld tussen de diensten, vermeld in paragraaf 1, op basis van het aantal kilometers dat de diensten jaarlijks doorgeven aan het agentschap conform paragraaf 3, eerste lid.<br>
+De budgetten, vermeld in het eerste lid, worden evenredig verdeeld tussen de diensten, vermeld in paragraaf 1, op basis van het aantal kilometers dat de diensten jaarlijks doorgeven aan de administratie conform paragraaf 3, eerste lid.<br>
 <br>
 De bewijsstukken over de besteding van de subsidie voor vernieuwende projecten die het fietsgebruik stimuleren, vermeld in het eerste lid, zijn raadpleegbaar in de dienst.<br>
 <br>
@@ -1658,7 +1659,7 @@ Het bedrag, vermeld in paragraaf 1, eerste lid, wordt geïndexeerd conform artik
 <br>
 §2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens in verband met de eindejaarspremie die ze bezorgen aan Zorggezind. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop het budget betrekking heeft.<br>
 <br>
-§3. Het budget, vermeld in paragraaf 1, wordt verdeeld en toegekend nadat Zorggezind aan het agentschap de gegevens van het afgelopen jaar die nodig zijn voor de verdeling, bezorgd heeft. Die gegevens moeten uiterlijk op 1 april aan het agentschap bezorgd worden.<br>
+§3. Het budget, vermeld in paragraaf 1, wordt verdeeld en toegekend nadat Zorggezind aan de administratie de gegevens van het afgelopen jaar die nodig zijn voor de verdeling, bezorgd heeft. Die gegevens moeten uiterlijk op 1 april aan de administratie bezorgd worden.<br>
 <br>
 Het subsidiebedrag wordt aan de private diensten toegekend samen met hun voorschot van het derde trimester.<br>
 <br>
@@ -1690,15 +1691,15 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, § 3,
 
 ### ART 64.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. Jaarlijks wordt een budget verdeeld tussen de erkende diensten voor gezinszorg voor maatregelen voor milieubewuste verplaatsingen. Dat budget bedraagt 496.836,36 euro. </span></span><br>
+<p>§1. Jaarlijks wordt een budget verdeeld tussen de erkende diensten voor gezinszorg voor maatregelen voor milieubewuste verplaatsingen. Dat budget bedraagt 496.836,36 euro.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De diensten gebruiken het budget, vermeld in het eerste lid, voor een permanent ondersteunend beleid inzake minimale verplaatsingsafstanden en -tijden van de verzorgenden en voor sensibiliserende initiatieven rond het gebruik van verplaatsingsmiddelen. Ze beschrijven het beleid en vermelden de initiatieven die ze in dat kader nemen en plannen in de kwaliteitsplanning en het jaarverslag, vermeld in artikel 9, §2, van dit besluit. </span></span><br>
+De diensten gebruiken het budget, vermeld in het eerste lid, voor een permanent ondersteunend beleid inzake minimale verplaatsingsafstanden en -tijden van de verzorgenden en voor sensibiliserende initiatieven rond het gebruik van verplaatsingsmiddelen. Ze beschrijven het beleid en vermelden de initiatieven die ze in dat kader nemen en plannen in de kwaliteitsplanning en het jaarverslag, vermeld in artikel 9, §2, van dit besluit.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de diensten op basis van het aantal kilometers dat de diensten jaarlijks doorgeven aan het agentschap conform artikel 60, §3, eerste lid, van deze bijlage .</span></span><br>
+§2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de diensten op basis van het aantal kilometers dat de diensten jaarlijks doorgeven aan de administratie conform artikel 60, §3, eerste lid, van deze bijlage .<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het subsidiebedrag wordt aan de diensten toegekend samen met hun voorschot voor het derde trimester.</span></span><br>
+Het subsidiebedrag wordt aan de diensten toegekend samen met hun voorschot voor het derde trimester.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§3. Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, §3, derde lid, van deze bijlage.</span></span></p>
+§3. Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, §3, derde lid, van deze bijlage.</p>
 
 ### ART 65.
 
@@ -1720,7 +1721,7 @@ Met behoud van de toepassing van het eerste lid ontvangt een dienst binnen de be
 <br>
 De subsidie die berekend wordt conform het eerste en tweede lid, wordt aan de diensten toegekend, samen met het saldo, vermeld in artikel 66, eerste lid, van deze bijlage.<br>
 <br>
-§3. De diensten voor gezinszorg bezorgen aan het agentschap jaarlijks voor 1 mei per zijinstromer het totale aantal uren waarvoor ze tijdens het voorbije jaar een loon uitbetaald hebben.<br>
+§3. De diensten voor gezinszorg bezorgen aan&nbsp;de administratie jaarlijks voor 1 mei per zijinstromer het totale aantal uren waarvoor ze tijdens het voorbije jaar een loon uitbetaald hebben.<br>
 <br>
 §4. Voor de verdeling van de subsidies, vermeld in artikel 58 tot en met 61 en in artikel 64 van deze bijlage, worden zijinstromers gelijkgesteld met verzorgende personeelsleden.
 
@@ -1815,7 +1816,7 @@ Het bedrag, vermeld in het eerste lid, wordt verhoogd met 1932,08 euro om de koo
 <br>
 §2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens over de eindejaarspremie die ze bezorgen aan Zorggezind. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop het budget betrekking heeft.<br>
 <br>
-§3. Het budget, vermeld in paragraaf 1, wordt verdeeld en toegekend nadat Zorggezind aan het agentschap de gegevens van het afgelopen jaar die nodig zijn voor de verdeling, bezorgd heeft. Die gegevens worden uiterlijk op 1 april aan het agentschap bezorgd.<br>
+§3. Het budget, vermeld in paragraaf 1, wordt verdeeld en toegekend nadat Zorggezind aan de administratie de gegevens van het afgelopen jaar die nodig zijn voor de verdeling, bezorgd heeft. Die gegevens worden uiterlijk op 1 april aan de administratie bezorgd.<br>
 &nbsp;&nbsp; &nbsp;<br>
 Het subsidiebedrag wordt aan de private diensten toegekend samen met hun voorschot voor het derde trimester.<br>
 &nbsp;&nbsp; &nbsp;<br>
@@ -1830,7 +1831,7 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, §3, 
 <br>
 De minister kan de wijze bepalen waarop de private diensten moeten bewijzen dat ze het bedrag dat ze door die verdeling ontvangen, gebruiken voor de financiering van vervangend personeel binnen de dienst, voor wie geen andere middelen worden verkregen.<br>
 <br>
-§3. Het budget, vermeld in paragraaf 1, wordt verdeeld en toegekend nadat Zorggezind aan het agentschap de gegevens van het afgelopen jaar die nodig zijn voor die verdeling, bezorgd heeft. Die gegevens worden uiterlijk op 1 april aan het agentschap bezorgd.<br>
+§3. Het budget, vermeld in paragraaf 1, wordt verdeeld en toegekend nadat Zorggezind aan de administratie de gegevens van het afgelopen jaar die nodig zijn voor die verdeling, bezorgd heeft. Die gegevens worden uiterlijk op 1 april aan de administratie bezorgd.<br>
 <br>
 Het subsidiebedrag wordt aan de private diensten toegekend samen met hun voorschot van het derde trimester.<br>
 <br>
@@ -1838,11 +1839,11 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, §3, 
 
 ### ART 78/1.
 
-§ 1. Voor de maatregel koopkracht uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025 wordt een budget van&nbsp;778.428,84 euro verdeeld tussen de erkende openbare diensten.<br>
+§ 1. Voor de maatregel koopkracht uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025 wordt een budget van 778.428,84 euro verdeeld tussen de erkende openbare diensten.<br>
 <br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de openbare diensten op basis van de gegevens over de koopkracht die ze bezorgen aan VVSG. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop het budget betrekking heeft.<br>
 <br>
-§ 3. Het budget, vermeld in paragraaf 1, wordt verdeeld en toegekend nadat VVSG aan het agentschap de gegevens van het afgelopen jaar bezorgd heeft die nodig zijn voor de verdeling. Die gegevens worden uiterlijk op 1 april aan het agentschap bezorgd.<br>
+§ 3. Het budget, vermeld in paragraaf 1, wordt verdeeld en toegekend nadat VVSG aan de administratie de gegevens van het afgelopen jaar bezorgd heeft die nodig zijn voor de verdeling. Die gegevens worden uiterlijk op 1 april aan de administratie bezorgd.<br>
 <br>
 Het subsidiebedrag wordt aan de openbare diensten toegekend samen met hun voorschot voor het derde trimester.<br>
 <br>
@@ -1886,23 +1887,23 @@ Voor alle andere verplaatsingen dan de verplaatsingen, vermeld in het eerste en 
 
 ### ART 82.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. In dit artikel wordt verstaan onder functionaris voor gegevensbescherming: een functionaris voor gegevensbescherming als vermeld in artikel 9 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.</span></span><br>
+<p>§1. In dit artikel wordt verstaan onder functionaris voor gegevensbescherming: een functionaris voor gegevensbescherming als vermeld in artikel 9 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§2. Binnen de beschikbare begrotingskredieten kan de administrateur-generaal een subsidie toekennen aan Zorggezind voor de vergoeding van de kosten van een functionaris voor gegevensbescherming. Die subsidie bedraagt maximaal 57.434,28 euro per kalenderjaar.</span></span><br>
+§2. Binnen de beschikbare begrotingskredieten kan de secretaris-generaal een subsidie toekennen aan Zorggezind voor de vergoeding van de kosten van een functionaris voor gegevensbescherming. Die subsidie bedraagt maximaal 57.434,28 euro per kalenderjaar.<br>
 <br>
 De functionaris voor gegevensbescherming is verantwoordelijk voor het informatieveiligheidsbeleid van alle erkende diensten voor gezinszorg en alle erkende diensten voor oppashulp, vermeld in bijlage 3 die bij dit besluit is gevoegd, waarvoor het koninklijk besluit van 14 april 1988 tot regeling van het gebruik van het identificatienummer van het Rijksregister van de natuurlijke personen, wat de openbare centra voor maatschappelijk welzijn betreft, of het koninklijk besluit van 5 december 1986 tot regeling van de toegang tot de informatiegegevens en van het gebruik van het identificatienummer van het Rijksregister van de natuurlijke personen in hoofde van instellingen die, in het kader van de wetgeving betreffende de ziekte- en invaliditeitsverzekering, opdrachten van algemeen belang vervullen, niet van toepassing zijn. Door de toepassing van het informatieveiligheidsbeleid zijn die diensten gemachtigd om het identificatienummer van de sociale zekerheid (INSZ-nummer) te gebruiken binnen Vesta of binnen VO als vermeld in artikel 1, 7°, van bijlage 3 die bij dit besluit is gevoegd.<br>
 <br>
 De functionaris voor gegevensbescherming en de diensten, vermeld in het tweede lid, leven de regelgeving na over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, die van toepassing is bij de mededeling van persoonsgegevens, zoals ze, in voorkomend geval, op federaal of Vlaams niveau verder is of wordt gespecificeerd. Zorggezind zorgt ervoor dat de functionaris voor gegevensbescherming in alle onafhankelijkheid de informatieveiligheid kan beoordelen bij de diensten, vermeld in het tweede lid.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§3. Er wordt een voorschot van 50% van het bedrag, vermeld in paragraaf 2, eerste lid, uitbetaald voor eind februari.</span></span><br>
+§3. Er wordt een voorschot van 50% van het bedrag, vermeld in paragraaf 2, eerste lid, uitbetaald voor eind februari.<br>
 <br>
-Het saldo wordt uitbetaald na afloop van het jaar in kwestie, op voorwaarde dat Zorggezind voor 1 maart de volgende documenten bezorgt aan het agentschap:<br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;een rapport waarin per dienst, vermeld in paragraaf 2, tweede lid, een overzicht gegeven wordt van de activiteiten die de functionaris voor gegevensbescherming tijdens het afgelopen jaar uitgevoerd heeft;<br>
-2°&nbsp;</span></span></span></span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">facturen en andere bewijsstukken waaruit de kosten blijken die Zorggezind tijdens het afgelopen jaar gemaakt heeft voor de financiering van de functionaris voor gegevensbescherming.</span><br>
+Het saldo wordt uitbetaald na afloop van het jaar in kwestie, op voorwaarde dat Zorggezind voor 1 maart de volgende documenten bezorgt aan de administratie:<br>
+1°&nbsp;een rapport waarin per dienst, vermeld in paragraaf 2, tweede lid, een overzicht gegeven wordt van de activiteiten die de functionaris voor gegevensbescherming tijdens het afgelopen jaar uitgevoerd heeft;<br>
+2°&nbsp;facturen en andere bewijsstukken waaruit de kosten blijken die Zorggezind tijdens het afgelopen jaar gemaakt heeft voor de financiering van de functionaris voor gegevensbescherming.<br>
 <br>
 Als de bewijsstukken, vermeld in het tweede lid, het bedrag, vermeld in paragraaf 2, eerste lid, niet of niet volledig verantwoorden, wordt het saldo niet of niet volledig uitbetaald, en wordt het eventueel te veel uitbetaalde voorschot teruggevorderd.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§4. Het bedrag, vermeld in paragraaf 2, eerste lid, wordt geïndexeerd conform artikel 58, §3, derde lid, van deze bijlage.</span></span></p>
+§4. Het bedrag, vermeld in paragraaf 2, eerste lid, wordt geïndexeerd conform artikel 58, §3, derde lid, van deze bijlage.</p>
 
 ## Afdeling 5. Subsidiëring van de bijkomende erkenning voor een centrum voor dagopvang
 
@@ -1920,7 +1921,7 @@ Als de bewijsstukken, vermeld in het tweede lid, het bedrag, vermeld in paragraa
 
 ### ART 84/1.
 
-De minister kan de nadere subsidiëringswijze en de vorm, de inhoud en de organisatie van de bewijsvoering bepalen die de centra voor dagopvang aan het agentschap bezorgen om jaarlijks de gemiddelde bezettingsgraad te berekenen.
+De minister kan de nadere subsidiëringswijze en de vorm, de inhoud en de organisatie van de bewijsvoering bepalen die de centra voor dagopvang aan de administratie bezorgen om jaarlijks de gemiddelde bezettingsgraad te berekenen.
 
 ### ART 85.
 
@@ -2019,15 +2020,15 @@ De minister kan de nadere subsidiëringswijze en de vorm, de inhoud en de organi
 
 ### ART 1.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">In deze bijlage wordt verstaan onder:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;dienst: een dienst voor oppashulp;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;gezelschap bieden: in het bijzijn van de gebruiker vertoeven en hem vergezellen bij de activiteiten van het dagelijkse leven; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;oppashulp: het aanbod dat erin bestaat de gebruiker gezelschap te houden en toezicht op hem te houden bij afwezigheid of ter ondersteuning van de mantelzorger;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;oppasser: een vrijwilliger of verenigingswerker die oppashulp verleent;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;toezicht houden: met aandacht aanwezig zijn in de onmiddellijke nabijheid van de gebruiker, oplettend zijn voor de eventuele behoeften van de gebruiker en als dat nodig is, dringend hulp en bijstand verlenen of professionele zorg of mantelzorg inroepen;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;verenigingswerker: een natuurlijke persoon die een activiteit als vermeld in artikel 2, 1°, van de wet van 18 juli 2018 betreffende de economische relance en de versterking van de sociale cohesie, verricht;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">7°&nbsp;VO: het systeem van elektronische gegevensuitwisseling waarvan elke dienst gebruikmaakt om de gegevens over zijn oppassers en zijn gebruikers, die nodig zijn om de subsidies te berekenen en om operationele en beleidsinformatie te genereren, aan het agentschap te bezorgen;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">8° vrijwilliger: een natuurlijke persoon die een activiteit als vermeld in artikel 3, 1°, van de wet van 3 juli 2005 betreffende de rechten van vrijwilligers, verricht.</span></span></span></span></p>
+<p>In deze bijlage wordt verstaan onder:<br>
+1°&nbsp;dienst: een dienst voor oppashulp;<br>
+2°&nbsp;gezelschap bieden: in het bijzijn van de gebruiker vertoeven en hem vergezellen bij de activiteiten van het dagelijkse leven;<br>
+3°&nbsp;oppashulp: het aanbod dat erin bestaat de gebruiker gezelschap te houden en toezicht op hem te houden bij afwezigheid of ter ondersteuning van de mantelzorger;<br>
+4°&nbsp;oppasser: een vrijwilliger of verenigingswerker die oppashulp verleent;<br>
+5°&nbsp;toezicht houden: met aandacht aanwezig zijn in de onmiddellijke nabijheid van de gebruiker, oplettend zijn voor de eventuele behoeften van de gebruiker en als dat nodig is, dringend hulp en bijstand verlenen of professionele zorg of mantelzorg inroepen;<br>
+6°&nbsp;verenigingswerker: een natuurlijke persoon die een activiteit als vermeld in artikel 2, 1°, van de wet van 18 juli 2018 betreffende de economische relance en de versterking van de sociale cohesie, verricht;<br>
+7°&nbsp;VO: het systeem van elektronische gegevensuitwisseling waarvan elke dienst gebruikmaakt om de gegevens over zijn oppassers en zijn gebruikers, die nodig zijn om de subsidies te berekenen en om operationele en beleidsinformatie te genereren, aan de administratie te bezorgen;<br>
+8° vrijwilliger: een natuurlijke persoon die een activiteit als vermeld in artikel 3, 1°, van de wet van 3 juli 2005 betreffende de rechten van vrijwilligers, verricht.</p>
 
 ## Hoofdstuk 2. Programmatie
 
@@ -2201,13 +2202,13 @@ Voor de toepassing van de programmacijfers, vermeld in het eerste en tweede lid,
 
 ### ART 28.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De dienst maakt gebruik van VO om de gegevens over zijn oppassers en zijn gebruikers, die nodig zijn om de subsidies te berekenen en om operationele en beleidsinformatie te genereren, aan het agentschap te bezorgen.</span></span></p>
+<p>De dienst maakt gebruik van VO om de gegevens over zijn oppassers en zijn gebruikers, die nodig zijn om de subsidies te berekenen en om operationele en beleidsinformatie te genereren, aan de administratie te bezorgen.</p>
 
 ### ART 29.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als de dienst gegevens doorstuurt naar VO, past hij <span style="color:black">de handleiding toe die het agentschap ter beschikking stelt.</span></span></span><br>
+<p>Als de dienst gegevens doorstuurt naar VO, past hij de handleiding toe die de administratie ter beschikking stelt.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als de dienst de gegevens doorstuurt naar VO, houdt hij rekening met het informatieveiligheidsbeleid.</span></span></p>
+Als de dienst de gegevens doorstuurt naar VO, houdt hij rekening met het informatieveiligheidsbeleid.</p>
 
 ## Hoofdstuk 4. Subsidiëring
 
@@ -2354,9 +2355,9 @@ Het totale aantal gesubsidieerde uren van een dienst kan nooit meer zijn dan het
 
 ### ART 21.
 
-<p style="margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De dienst beschikt over minstens 7 <span style="color:black">voltijdsequivalent</span> verpleegkundigen en één coördinerend verpleegkundige. </span></span><br>
+<p>De dienst beschikt over minstens 7 voltijdsequivalent verpleegkundigen en één coördinerend verpleegkundige.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">In het eerste lid wordt verstaan onder coördinerend verpleegkundige: de verpleegkundige die verantwoordelijk is voor de organisatie van de dienst voor de coördinatie, de continuïteit, de kwaliteit en de evaluatie van de zorg. Die verpleegkundige is ook het aanspreekpunt voor het agentschap.</span></span></span></p>
+In het eerste lid wordt verstaan onder coördinerend verpleegkundige: de verpleegkundige die verantwoordelijk is voor de organisatie van de dienst voor de coördinatie, de continuïteit, de kwaliteit en de evaluatie van de zorg. Die verpleegkundige is ook het aanspreekpunt voor de administratie.</p>
 
 ### ART 22.
 
@@ -2567,7 +2568,7 @@ Het totale aantal gesubsidieerde uren van een dienst kan nooit meer zijn dan het
 
 ### ART 21.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Alle erkende diensten bezorgen samen jaarlijks voor 15 april een beleidsrapport aan het agentschap, met knelpunten en toekomstige ontwikkelingen die van belang zijn voor de algemene werking van de sector van de diensten, en met beleidssignalen zowel over individuele casuïstiek als op een geaggregeerd niveau.</span></span></p>
+<p>Alle erkende diensten bezorgen samen jaarlijks voor 15 april een beleidsrapport aan de administratie, met knelpunten en toekomstige ontwikkelingen die van belang zijn voor de algemene werking van de sector van de diensten, en met beleidssignalen zowel over individuele casuïstiek als op een geaggregeerd niveau.</p>
 
 ### ART 22.
 
@@ -2878,17 +2879,17 @@ Het totale aantal gesubsidieerde uren van een dienst kan nooit meer zijn dan het
 
 ### ART 26.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. Om voor subsidiëring in aanmerking te komen, presteert een erkende dienst minstens het aantal uren gastopvang, vermeld in artikel 5.</span></span><br>
+<p>§1. Om voor subsidiëring in aanmerking te komen, presteert een erkende dienst minstens het aantal uren gastopvang, vermeld in artikel 5.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De subsidie-enveloppe voor de erkende diensten bestaat uit:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;een basissubsidie van 22.973,71 euro voor de eerste 3000 uur gastopvang in de regio waarvoor de dienst erkend is of, als de dienst erkend is voor het tweetalige gebied Brussel-Hoofdstad, voor de eerste 1800 uur in die regio;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;een forfaitair bedrag van 1,243 euro per uur gastopvang, gepresteerd in de regio waarvoor de dienst erkend is, dat het aantal uren, vermeld in punt 1°, overstijgt.</span></span></span></span><br>
+De subsidie-enveloppe voor de erkende diensten bestaat uit:<br>
+1°&nbsp;een basissubsidie van 22.973,71 euro voor de eerste 3000 uur gastopvang in de regio waarvoor de dienst erkend is of, als de dienst erkend is voor het tweetalige gebied Brussel-Hoofdstad, voor de eerste 1800 uur in die regio;<br>
+2°&nbsp;een forfaitair bedrag van 1,243 euro per uur gastopvang, gepresteerd in de regio waarvoor de dienst erkend is, dat het aantal uren, vermeld in punt 1°, overstijgt.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het totale aantal gesubsidieerde uren van een dienst kan nooit meer zijn dan het maximale aantal subsidiabele uren dat met toepassing van artikel 250 aan de dienst is toegewezen.</span></span><br>
+Het totale aantal gesubsidieerde uren van een dienst kan nooit meer zijn dan het maximale aantal subsidiabele uren dat met toepassing van artikel 250 aan de dienst is toegewezen.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§2. In afwijking van paragraaf 1, eerste lid, kan een erkende dienst die tijdens het eerste jaar dat hij voor subsidiëring in aanmerking komt, het aantal uren gastopvang, vermeld in artikel 5, niet haalt, toch een subsidie-enveloppe ontvangen die gelijk is aan de basissubsidie van 22.973,71 euro.</span></span><br>
+§2. In afwijking van paragraaf 1, eerste lid, kan een erkende dienst die tijdens het eerste jaar dat hij voor subsidiëring in aanmerking komt, het aantal uren gastopvang, vermeld in artikel 5, niet haalt, toch een subsidie-enveloppe ontvangen die gelijk is aan de basissubsidie van 22.973,71 euro.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§3. De diensten bezorgen jaarlijks voor 1 maart een overzicht van het aantal gepresteerde uren gastopvang per gemeente tijdens het voorbije werkjaar aan het agentschap.</span></span></p>
+§3. De diensten bezorgen jaarlijks voor 1 maart een overzicht van het aantal gepresteerde uren gastopvang per gemeente tijdens het voorbije werkjaar aan de administratie.</p>
 
 ### ART 27.
 
@@ -3277,13 +3278,13 @@ Voorafgaand aan het verblijf van een gebruiker gaat het centrum voor dagverzorgi
 
 ### ART 28.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. Elke gebruiker, zijn vertegenwoordiger en mantelzorger wordt in de mogelijkheid gesteld om een klacht, suggestie, opmerking te uiten over de werking van het centrum. Het centrum werkt daarvoor een klachtenprocedure uit en maakt die bekend op de website of in de onthaalbrochure. Het centrum wijst een klachtenbehandelaar aan. De gebruiker of zijn vertegenwoordiger, een familielid of mantelzorger kan suggesties, opmerkingen of klachten rechtstreeks, zowel schriftelijk als mondeling, aan die persoon meedelen. </span></span><br>
+<p>§1. Elke gebruiker, zijn vertegenwoordiger en mantelzorger wordt in de mogelijkheid gesteld om een klacht, suggestie, opmerking te uiten over de werking van het centrum. Het centrum werkt daarvoor een klachtenprocedure uit en maakt die bekend op de website of in de onthaalbrochure. Het centrum wijst een klachtenbehandelaar aan. De gebruiker of zijn vertegenwoordiger, een familielid of mantelzorger kan suggesties, opmerkingen of klachten rechtstreeks, zowel schriftelijk als mondeling, aan die persoon meedelen.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De klachtenbehandelaar verzamelt de ingediende suggesties, opmerkingen of klachten en anonimiseert deze gegevens. Het agentschap kan daarvan inzage nemen. Het gevolg dat aan een klacht wordt gegeven, wordt rechtstreeks en binnen de termijn, zoals bepaald in de klachtenprocedure, aan de indiener ervan meegedeeld. Indieners krijgen de garantie dat op hun klacht binnen een redelijke termijn feedback wordt gegeven.</span></span><br>
+De klachtenbehandelaar verzamelt de ingediende suggesties, opmerkingen of klachten en anonimiseert deze gegevens. De administratie kan daarvan inzage nemen. Het gevolg dat aan een klacht wordt gegeven, wordt rechtstreeks en binnen de termijn, zoals bepaald in de klachtenprocedure, aan de indiener ervan meegedeeld. Indieners krijgen de garantie dat op hun klacht binnen een redelijke termijn feedback wordt gegeven.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De beheersinstantie zorgt voor periodieke informatie over de klachtenbehandeling aan alle gebruikers, hun vertegenwoordigers en mantelzorgers. Op basis van de periodieke analyse van de klachten formuleert het centrum correctieve en preventieve maatregelen.</span></span><br>
+De beheersinstantie zorgt voor periodieke informatie over de klachtenbehandeling aan alle gebruikers, hun vertegenwoordigers en mantelzorgers. Op basis van de periodieke analyse van de klachten formuleert het centrum correctieve en preventieve maatregelen.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§2. De gegevens over de Woonzorglijn worden op een zichtbare plaats opgehangen.</span></span></p>
+§2. De gegevens over de Woonzorglijn worden op een zichtbare plaats opgehangen.</p>
 
 ### ART 29.
 
@@ -3336,7 +3337,7 @@ Voorafgaand aan het verblijf van een gebruiker gaat het centrum voor dagverzorgi
 
 ### ART 35.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het overzicht van de gehanteerde dagprijzen voor een volledige en een halve dag, eventueel opgesplitst per kostensoort, en van de aangerekende extra vergoedingen, is beschikbaar in het centrum en wordt op eenvoudig verzoek aan het agentschap bezorgd. </span></span></p>
+<p>Het overzicht van de gehanteerde dagprijzen voor een volledige en een halve dag, eventueel opgesplitst per kostensoort, en van de aangerekende extra vergoedingen, is beschikbaar in het centrum en wordt op eenvoudig verzoek aan de administratie bezorgd.</p>
 
 ### ART 36.
 
@@ -3362,7 +3363,7 @@ Voorafgaand aan het verblijf van een gebruiker gaat het centrum voor dagverzorgi
 
 ### ART 41.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als vastgesteld wordt dat de initiatiefnemer ten onrechte bepaalde kosten aanrekent, herziet de initiatiefnemer alle facturen tot minstens een jaar voorafgaand aan de vaststelling en stort de eventueel ten onrechte aangerekende bedragen terug. De initiatiefnemer brengt het agentschap op de hoogte van het resultaat van die herziening en levert het bewijs dat de eventueel ten onrechte aangerekende bedragen teruggestort zijn.</span></span></p>
+<p>Als vastgesteld wordt dat de initiatiefnemer ten onrechte bepaalde kosten aanrekent, herziet de initiatiefnemer alle facturen tot minstens een jaar voorafgaand aan de vaststelling en stort de eventueel ten onrechte aangerekende bedragen terug. De initiatiefnemer brengt de administratie op de hoogte van het resultaat van die herziening en levert het bewijs dat de eventueel ten onrechte aangerekende bedragen teruggestort zijn.</p>
 
 ## Afdeling 4. Voorwaarden voor de personeelsomkadering
 
@@ -3645,7 +3646,7 @@ De centra voor dagverzorging die een gemiddelde bezettingsgraad van minder dan t
 <br>
 De centra voor dagverzorging met een bijkomende erkenning voor de opvang van personen die lijden aan een ernstige ziekte die een gemiddelde bezettingsgraad van minder dan tien gebruikers maar van minimaal vier gebruikers hebben, kunnen evenredig aan de gerealiseerde gemiddelde bezettingsgraad van minstens 9, 8, 7, 6, 5 of 4 een subsidiebedrag ontvangen van respectievelijk 36.654,16 euro, 34.666,87 euro, 32.679,60 euro, 30.692,33 euro, 28.705,06 euro of 26.717,80 euro.<br>
 <br>
-De minister kan de nadere subsidiëringswijze en de vorm, de inhoud en de organisatie van de bewijsvoering bepalen die de centra voor dagverzorging aan het agentschap bezorgen om jaarlijks de gemiddelde bezettingsgraad te berekenen.</p>
+De minister kan de nadere subsidiëringswijze en de vorm, de inhoud en de organisatie van de bewijsvoering bepalen die de centra voor dagverzorging aan de administratie bezorgen om jaarlijks de gemiddelde bezettingsgraad te berekenen.</p>
 
 ### ART 67.
 
@@ -3855,37 +3856,37 @@ Op de centrum type 1, dat wordt uitgebaat in lokalen van een woonzorgcentrum die
 
 ### ART 16.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het centrum type 1 dat uitgebaat wordt in de lokalen van een centrum voor herstelverblijf, die daarvoor bestemd zijn, voldoet aan al de volgende voorwaarden voor de facturatie:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;voor iedere gebruiker wordt een factuur opgemaakt, in overeenstemming met de schriftelijke opnameovereenkomst, waarvan een exemplaar wordt bezorgd aan elke natuurlijke persoon of rechtspersoon die geheel of gedeeltelijk belast is met de betaling en waarop onder meer de volgende gegevens duidelijk zijn vermeld:<br>
-&nbsp; a)&nbsp;</span></span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">de identiteit van de gebruiker;<br>
-&nbsp; b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">het aantal dagen dat de gebruiker in het centrum type 1 verbleven heeft, met opgave van de begin- en einddatum van het verblijf waarop de factuur betrekking heeft;<br>
-&nbsp; c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de gevraagde dagprijs;<br>
-&nbsp; d)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">een gedetailleerde opgave van alle extra vergoedingen die boven op de dagprijs in rekening zijn gebracht, met vermelding van hun aard, aantal en bedrag&nbsp;<br>
-&nbsp; e)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de eventuele voorschotten ten gunste van derden die gerechtvaardigd worden door een bewijsstuk;&nbsp;<br>
-&nbsp; f)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">in voorkomend geval: het infrastructuurforfait;<br>
-&nbsp; g)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de toegestane kortingen op de dagprijs, met vermelding van hun reden, duur, bedrag of percentage;<br>
-&nbsp; h)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">in voorkomend geval: de in mindering gebrachte bedragen voor niet-gebruikte diensten en leveringen, in het bijzonder bij tijdelijke afwezigheid of bij overlijden;<br>
-&nbsp; i)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">in voorkomend geval: de al betaalde bedragen voor de afgelopen verblijfsperiode en de te betalen bedragen voor de volgende maand;<br>
-&nbsp; j)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">het totale verschuldigde nettobedrag, dat de gebruiker of zijn vertegenwoordiger moet betalen;</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de factuur wordt opgemaakt op het einde van het verblijf of, als het verblijf langer dan een maand duurt, telkens op het einde van de maand. Het is niet toegestaan om een voorschot aan te rekenen;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;de voorwaarden in verband met de betaling:<br>
-&nbsp; a)&nbsp;</span></span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">de termijn voor het betalen van de maandelijkse factuur bedraagt dertig dagen;&nbsp;<br>
-&nbsp; b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">als de factuur niet of laattijdige wordt betaald, kunnen interesten worden aangerekend. De percentages en de procedure daarover zijn bepaald in de schriftelijke opnameovereenkomst;<br>
-&nbsp; c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">als de factuur niet wordt betaald, stelt de initiatiefnemer de gebruiker of zijn vertegenwoordiger in </span>gebreke en leidt deze toe naar een van de kernactoren van het geïntegreerd breed onthaal voor onderzoek van mogelijkheden tot financiële ondersteuning.<span style="font-family:Verdana,sans-serif; font-size:10pt"> De procedure en de ontvankelijkheidsvereisten zijn bepaald in de schriftelijke opnameovereenkomst;</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;de voorwaarden in verband met de dagprijs en extra vergoedingen:<br>
-&nbsp; a)&nbsp;</span></span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">de minister bepaalt:<br>
-&nbsp; &nbsp; 1)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">welke kostprijselementen minstens deel moeten uitmaken van de dagprijs en dus niet afzonderlijk mogen worden gefactureerd;<br>
-&nbsp; &nbsp; 2)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">voor welke extra diensten en leveringen er een extra vergoeding aangerekend kan worden en, in voorkomend geval, onder welke voorwaarden die aangerekend mag worden;<br>
-&nbsp; &nbsp; 3)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">welke uitgaven als voorschotten ten gunste van derden beschouwd moeten worden;<br>
-&nbsp; b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de informatie over de van toepassing zijnde dagprijs, eventuele kortingen en de extra vergoedingen worden geafficheerd op een toegankelijke en zichtbare plaats in het centrum en wordt vermeld in een onthaalbrochure of op de website van het centrum.<br>
-&nbsp; c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">extra vergoedingen worden uitdrukkelijk in de schriftelijke &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; overeenkomst met de gebruiker vermeld en die vergoedingen behoren niet tot de minimale kostprijselementen van de dagprijs;<br>
-&nbsp; d)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de beheersinstantie kan aan de gebruiker of zijn vertegenwoordiger op eenvoudig verzoek de bewijsstukken voorleggen die die uitgaven rechtvaardigen. De extra vergoeding mag alleen tegen marktconforme prijzen aangerekend worden. De extra vergoeding moet gebaseerd zijn op een reële aantoonbare kostenberekening;<br>
-&nbsp; e)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de dagprijzen en extra vergoedingen die in het centrum type 1 gehanteerde worden, alsook de regeling van de voorschotten ten gunste van derden, worden duidelijk geafficheerd op een centrale plaats die toegankelijk is voor alle gebruikers, bezoekers en personeelsleden;<br>
-&nbsp; f)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de initiatiefnemer kan een waarborg aan de gebruiker of zijn vertegenwoordiger vragen. Het bedrag van een waarborgsom mag niet hoger zijn dan zeven keer de dagprijs. Dat bedrag wordt op een geblokkeerde en gepersonaliseerde rekening geplaatst en de opbrengst ervan is voor de gebruiker. Het gereserveerde bedrag dient alleen ter uitvoering van de bepalingen van de schriftelijke opnameovereenkomst of om een eventuele schadevergoeding voor opzettelijk veroorzaakte schade te betalen;&nbsp;<br>
-&nbsp; g)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de initiatiefnemer kan geen borgstelling vragen;<br>
-&nbsp; h)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">gebruikers die alleen tijdens de nacht in het centrum type 1 worden opgenomen, betalen een aangepaste verblijfsvergoeding die lager ligt dan de dagprijs voor een aanwezigheid de klok rond;<br>
-&nbsp; i)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">bij afwezigheid van de gebruiker worden de door hem niet- gebruikte diensten en leveringen afgetrokken van de factuur en dit met een dagbedrag dat minstens 10% van de laagste dagprijs in het centrum type 1 bedraagt, exclusief de kortingen die op de dagprijs toegepast worden. De terugbetaling gaat in vanaf de eerste volledige dag dat een gebruiker afwezig is;</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;als vastgesteld wordt dat de initiatiefnemer ten onrechte bepaalde kosten aanrekent, stort de beheersinstantie alle facturen tot minstens een jaar voorafgaand aan de vaststelling herzien en de eventueel ten onrechte aangerekende bedragen terug. De initiatiefnemer brengt het agentschap in kennis van het resultaat van die herziening en levert het bewijs dat de eventueel ten onrechte aangerekende bedragen teruggestort zijn.</span></span></span></span></p>
+<p>Het centrum type 1 dat uitgebaat wordt in de lokalen van een centrum voor herstelverblijf, die daarvoor bestemd zijn, voldoet aan al de volgende voorwaarden voor de facturatie:<br>
+1°&nbsp;voor iedere gebruiker wordt een factuur opgemaakt, in overeenstemming met de schriftelijke opnameovereenkomst, waarvan een exemplaar wordt bezorgd aan elke natuurlijke persoon of rechtspersoon die geheel of gedeeltelijk belast is met de betaling en waarop onder meer de volgende gegevens duidelijk zijn vermeld:<br>
+&nbsp; a)&nbsp;de identiteit van de gebruiker;<br>
+&nbsp; b)&nbsp;het aantal dagen dat de gebruiker in het centrum type 1 verbleven heeft, met opgave van de begin- en einddatum van het verblijf waarop de factuur betrekking heeft;<br>
+&nbsp; c)&nbsp;de gevraagde dagprijs;<br>
+&nbsp; d)&nbsp;een gedetailleerde opgave van alle extra vergoedingen die boven op de dagprijs in rekening zijn gebracht, met vermelding van hun aard, aantal en bedrag&nbsp;<br>
+&nbsp; e)&nbsp;de eventuele voorschotten ten gunste van derden die gerechtvaardigd worden door een bewijsstuk;&nbsp;<br>
+&nbsp; f)&nbsp;in voorkomend geval: het infrastructuurforfait;<br>
+&nbsp; g)&nbsp;de toegestane kortingen op de dagprijs, met vermelding van hun reden, duur, bedrag of percentage;<br>
+&nbsp; h)&nbsp;in voorkomend geval: de in mindering gebrachte bedragen voor niet-gebruikte diensten en leveringen, in het bijzonder bij tijdelijke afwezigheid of bij overlijden;<br>
+&nbsp; i)&nbsp;in voorkomend geval: de al betaalde bedragen voor de afgelopen verblijfsperiode en de te betalen bedragen voor de volgende maand;<br>
+&nbsp; j)&nbsp;het totale verschuldigde nettobedrag, dat de gebruiker of zijn vertegenwoordiger moet betalen;<br>
+2°&nbsp;de factuur wordt opgemaakt op het einde van het verblijf of, als het verblijf langer dan een maand duurt, telkens op het einde van de maand. Het is niet toegestaan om een voorschot aan te rekenen;<br>
+3°&nbsp;de voorwaarden in verband met de betaling:<br>
+&nbsp; a)&nbsp;de termijn voor het betalen van de maandelijkse factuur bedraagt dertig dagen;&nbsp;<br>
+&nbsp; b)&nbsp;als de factuur niet of laattijdige wordt betaald, kunnen interesten worden aangerekend. De percentages en de procedure daarover zijn bepaald in de schriftelijke opnameovereenkomst;<br>
+&nbsp; c)&nbsp;als de factuur niet wordt betaald, stelt de initiatiefnemer de gebruiker of zijn vertegenwoordiger in gebreke en leidt deze toe naar een van de kernactoren van het geïntegreerd breed onthaal voor onderzoek van mogelijkheden tot financiële ondersteuning. De procedure en de ontvankelijkheidsvereisten zijn bepaald in de schriftelijke opnameovereenkomst;<br>
+4°&nbsp;de voorwaarden in verband met de dagprijs en extra vergoedingen:<br>
+&nbsp; a)&nbsp;de minister bepaalt:<br>
+&nbsp; &nbsp; 1)&nbsp;welke kostprijselementen minstens deel moeten uitmaken van de dagprijs en dus niet afzonderlijk mogen worden gefactureerd;<br>
+&nbsp; &nbsp; 2)&nbsp;voor welke extra diensten en leveringen er een extra vergoeding aangerekend kan worden en, in voorkomend geval, onder welke voorwaarden die aangerekend mag worden;<br>
+&nbsp; &nbsp; 3)&nbsp;welke uitgaven als voorschotten ten gunste van derden beschouwd moeten worden;<br>
+&nbsp; b)&nbsp;de informatie over de van toepassing zijnde dagprijs, eventuele kortingen en de extra vergoedingen worden geafficheerd op een toegankelijke en zichtbare plaats in het centrum en wordt vermeld in een onthaalbrochure of op de website van het centrum.<br>
+&nbsp; c)&nbsp;extra vergoedingen worden uitdrukkelijk in de schriftelijke &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; overeenkomst met de gebruiker vermeld en die vergoedingen behoren niet tot de minimale kostprijselementen van de dagprijs;<br>
+&nbsp; d)&nbsp;de beheersinstantie kan aan de gebruiker of zijn vertegenwoordiger op eenvoudig verzoek de bewijsstukken voorleggen die die uitgaven rechtvaardigen. De extra vergoeding mag alleen tegen marktconforme prijzen aangerekend worden. De extra vergoeding moet gebaseerd zijn op een reële aantoonbare kostenberekening;<br>
+&nbsp; e)&nbsp;de dagprijzen en extra vergoedingen die in het centrum type 1 gehanteerde worden, alsook de regeling van de voorschotten ten gunste van derden, worden duidelijk geafficheerd op een centrale plaats die toegankelijk is voor alle gebruikers, bezoekers en personeelsleden;<br>
+&nbsp; f)&nbsp;de initiatiefnemer kan een waarborg aan de gebruiker of zijn vertegenwoordiger vragen. Het bedrag van een waarborgsom mag niet hoger zijn dan zeven keer de dagprijs. Dat bedrag wordt op een geblokkeerde en gepersonaliseerde rekening geplaatst en de opbrengst ervan is voor de gebruiker. Het gereserveerde bedrag dient alleen ter uitvoering van de bepalingen van de schriftelijke opnameovereenkomst of om een eventuele schadevergoeding voor opzettelijk veroorzaakte schade te betalen;&nbsp;<br>
+&nbsp; g)&nbsp;de initiatiefnemer kan geen borgstelling vragen;<br>
+&nbsp; h)&nbsp;gebruikers die alleen tijdens de nacht in het centrum type 1 worden opgenomen, betalen een aangepaste verblijfsvergoeding die lager ligt dan de dagprijs voor een aanwezigheid de klok rond;<br>
+&nbsp; i)&nbsp;bij afwezigheid van de gebruiker worden de door hem niet- gebruikte diensten en leveringen afgetrokken van de factuur en dit met een dagbedrag dat minstens 10% van de laagste dagprijs in het centrum type 1 bedraagt, exclusief de kortingen die op de dagprijs toegepast worden. De terugbetaling gaat in vanaf de eerste volledige dag dat een gebruiker afwezig is;<br>
+5°&nbsp;als vastgesteld wordt dat de initiatiefnemer ten onrechte bepaalde kosten aanrekent, stort de beheersinstantie alle facturen tot minstens een jaar voorafgaand aan de vaststelling herzien en de eventueel ten onrechte aangerekende bedragen terug. De initiatiefnemer brengt de administratie in kennis van het resultaat van die herziening en levert het bewijs dat de eventueel ten onrechte aangerekende bedragen teruggestort zijn.</p>
 
 ## Afdeling 4. Voorwaarden voor de personeelsomkadering
 
@@ -4468,13 +4469,13 @@ Bij vertrek van de gebruiker uit het centrum type 2 begeleidt het centrum type 2
 
 ### ART 76.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. Elke betrokkene heeft de mogelijkheid om een klacht, suggestie, opmerking te uiten over de werking van het centrum type 2. Het centrum type 2 werkt daarvoor een klachtenprocedure uit en maakt die bekend op de website of in de onthaalbrochure. Elk centrum type 2 wijst een klachtenbehandelaar aan. De gebruiker of een familielid of een mantelzorger kan suggesties, opmerkingen of klachten rechtstreeks aan die persoon meedelen, zowel schriftelijk als mondeling. </span></span><br>
+<p>§1. Elke betrokkene heeft de mogelijkheid om een klacht, suggestie, opmerking te uiten over de werking van het centrum type 2. Het centrum type 2 werkt daarvoor een klachtenprocedure uit en maakt die bekend op de website of in de onthaalbrochure. Elk centrum type 2 wijst een klachtenbehandelaar aan. De gebruiker of een familielid of een mantelzorger kan suggesties, opmerkingen of klachten rechtstreeks aan die persoon meedelen, zowel schriftelijk als mondeling.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De klachtenbehandelaar verzamelt de ingediende suggesties, opmerkingen of klachten en anonimiseert deze gegevens. Het agentschap kan daarvan inzage nemen. Het gevolg dat aan een klacht wordt gegeven, wordt rechtstreeks en binnen de termijn, vermeld in de klachtenprocedure, aan de indiener ervan meegedeeld. Indieners krijgen garanties dat op hun klacht binnen een redelijke termijn feedback wordt gegeven.</span></span><br>
+De klachtenbehandelaar verzamelt de ingediende suggesties, opmerkingen of klachten en anonimiseert deze gegevens. De administratie kan daarvan inzage nemen. Het gevolg dat aan een klacht wordt gegeven, wordt rechtstreeks en binnen de termijn, vermeld in de klachtenprocedure, aan de indiener ervan meegedeeld. Indieners krijgen garanties dat op hun klacht binnen een redelijke termijn feedback wordt gegeven.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Op basis van een periodieke analyse van de klachten formuleert het centrum type 2 correctieve en preventieve maatregelen.</span></span><br>
+Op basis van een periodieke analyse van de klachten formuleert het centrum type 2 correctieve en preventieve maatregelen.<br>
 <br>
-<span style="color:black">§2. De gegevens over de Woonzorglijn worden op een zichtbare plaats opgehangen. </span></p>
+§2. De gegevens over de Woonzorglijn worden op een zichtbare plaats opgehangen.</p>
 
 ## Onderafdeling 3. Facturatie
 
@@ -4514,7 +4515,7 @@ Een exemplaar van die factuur wordt bezorgd aan elke natuurlijke of rechtspersoo
 
 ### ART 80.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het overzicht van de gehanteerde dagprijzen, eventueel opgesplitst per kostensoort, en van de aangerekende extra vergoedingen, is beschikbaar in het centrum type 2 en wordt op eenvoudig verzoek aan het agentschap bezorgd.</span></span></p>
+<p>Het overzicht van de gehanteerde dagprijzen, eventueel opgesplitst per kostensoort, en van de aangerekende extra vergoedingen, is beschikbaar in het centrum type 2 en wordt op eenvoudig verzoek aan de administratie bezorgd.</p>
 
 ### ART 81.
 
@@ -4532,7 +4533,7 @@ Een exemplaar van die factuur wordt bezorgd aan elke natuurlijke of rechtspersoo
 
 ### ART 84.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als vastgesteld wordt dat het centrum type 2 ten onrechte bepaalde kosten aanrekent, herziet het centrum type 2 alle facturen tot minimaal 1 jaar voorafgaand aan de vaststelling en stort de eventueel ten onrechte aangerekende bedragen terug. De beheersinstantie brengt het agentschap op de hoogte van het resultaat van die herziening en levert het bewijs dat de eventueel ten onrechte aangerekende bedragen teruggestort zijn.</span></span></p>
+<p>Als vastgesteld wordt dat het centrum type 2 ten onrechte bepaalde kosten aanrekent, herziet het centrum type 2 alle facturen tot minimaal 1 jaar voorafgaand aan de vaststelling en stort de eventueel ten onrechte aangerekende bedragen terug. De beheersinstantie brengt de administratie op de hoogte van het resultaat van die herziening en levert het bewijs dat de eventueel ten onrechte aangerekende bedragen teruggestort zijn.</p>
 
 ## Afdeling 5. Voorwaarden voor de personeelsomkadering
 
@@ -4992,7 +4993,7 @@ Het centrum voor herstelverblijf, vermeld in het eerste lid, past van rechtswege
 
 ### ART 35.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De centra die op 31 december 2019 aangemeld zijn conform artikel 99, §1, tweede lid, van het Woonzorgdecreet van 15 februari 2019 bezorgen uiterlijk op 31 december 2020 aan het agentschap een afschrift van de omgevingsvergunning tot realisatie van een aangemeld centrum. </span></span></p>
+<p>De centra die op 31 december 2019 aangemeld zijn conform artikel 99, §1, tweede lid, van het Woonzorgdecreet van 15 februari 2019 bezorgen uiterlijk op 31 december 2020 aan de administratie een afschrift van de omgevingsvergunning tot realisatie van een aangemeld centrum.</p>
 
 ### ART 36.
 
@@ -5015,13 +5016,13 @@ Het centrum voor herstelverblijf, vermeld in het eerste lid, past van rechtswege
 
 ### ART 2.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. Een groep van assistentiewoningen waarvoor een erkenning wordt aangevraagd, wordt van rechtswege geacht te passen in de programmatie voor die voorzieningen. Die groep wordt van rechtswege geacht te beschikken over een voorafgaande vergunning als vermeld in artikel 52 van het Woonzorgdecreet van 15 februari 2019.</span></span><br>
+<p>§1. Een groep van assistentiewoningen waarvoor een erkenning wordt aangevraagd, wordt van rechtswege geacht te passen in de programmatie voor die voorzieningen. Die groep wordt van rechtswege geacht te beschikken over een voorafgaande vergunning als vermeld in artikel 52 van het Woonzorgdecreet van 15 februari 2019.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De administrateur-generaal levert aan de initiatiefnemer van de groep van assistentiewoningen die voor de toepassing van een andere regelgeving de voorafgaande vergunning moet voorleggen, op zijn schriftelijke verzoek, een voorafgaande vergunning af. </span></span><br>
+De secretaris-generaal levert aan de initiatiefnemer van de groep van assistentiewoningen die voor de toepassing van een andere regelgeving de voorafgaande vergunning moet voorleggen, op zijn schriftelijke verzoek, een voorafgaande vergunning af.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De initiatiefnemer gebruikt voor de aanvraag van de voorafgaande vergunning of erkenning het aanvraagformulier dat het agentschap ter beschikking stelt.</span></span><br>
+De initiatiefnemer gebruikt voor de aanvraag van de voorafgaande vergunning of erkenning het aanvraagformulier dat de administratie ter beschikking stelt.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§2. De initiatiefnemer vermeldt in de aanvraag waarom de voorafgaande vergunning moet worden voorgelegd. Hij voegt bij de aanvraag een verbintenis die door hem ondertekend is om voor de groep van assistentiewoningen een erkenning aan te vragen en aan de erkenningsvoorwaarden voor de groepen van assistentiewoningen te voldoen. Het bewijs van een ontvankelijke aanvraag van een omgevingsvergunning voor het bouwen van een groep van assistentiewoningen voegt hij ook bij de aanvraag. De voorafgaande vergunning blijft vijf jaar geldig.</span></span></p>
+§2. De initiatiefnemer vermeldt in de aanvraag waarom de voorafgaande vergunning moet worden voorgelegd. Hij voegt bij de aanvraag een verbintenis die door hem ondertekend is om voor de groep van assistentiewoningen een erkenning aan te vragen en aan de erkenningsvoorwaarden voor de groepen van assistentiewoningen te voldoen. Het bewijs van een ontvankelijke aanvraag van een omgevingsvergunning voor het bouwen van een groep van assistentiewoningen voegt hij ook bij de aanvraag. De voorafgaande vergunning blijft vijf jaar geldig.</p>
 
 ## Hoofdstuk 3. Specifieke erkenningsvoorwaarden
 
@@ -5291,23 +5292,23 @@ Het kwaliteitsmanagementsyteem, vermeld in eerste lid, 3°, worden minstens de v
 
 ### ART 28.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. De beheersinstantie richt een gebruikersraad op die ten minste één keer per trimester vergadert. Die raad is samengesteld uit bewoners en familieleden of mantelzorgers. De samenstelling van de gebruikersraad kan veranderen maar de beheersinstantie waarborgt dat de bewoners altijd minstens de helft van de aanwezigen uitmaken.</span></span><br>
+<p>§1. De beheersinstantie richt een gebruikersraad op die ten minste één keer per trimester vergadert. Die raad is samengesteld uit bewoners en familieleden of mantelzorgers. De samenstelling van de gebruikersraad kan veranderen maar de beheersinstantie waarborgt dat de bewoners altijd minstens de helft van de aanwezigen uitmaken.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Op verzoek van bewoners en familieleden of mantelzorgers kan een onafhankelijk vertegenwoordiger vanuit de gebruikers- of mantelzorgvereniging worden uitgenodigd. De verenigingen maken daar onderling afspraken over. Als de beheersinstantie niet kan tegemoetkomen aan de gestelde vraag, motiveert die deze keuze. </span></span><br>
+Op verzoek van bewoners en familieleden of mantelzorgers kan een onafhankelijk vertegenwoordiger vanuit de gebruikers- of mantelzorgvereniging worden uitgenodigd. De verenigingen maken daar onderling afspraken over. Als de beheersinstantie niet kan tegemoetkomen aan de gestelde vraag, motiveert die deze keuze.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De gebruikersraad kan advies uitbrengen op eigen initiatief of op verzoek van de beheersinstantie over alle aangelegenheden die de algemene werking van de groep van assistentiewoningen betreffen. Van de vergaderingen van de raad wordt een verslag opgemaakt dat aan alle bewoners of hun vertegenwoordigers bezorgd wordt. Het agentschap kan die verslagen inkijken.</span></span><br>
+De gebruikersraad kan advies uitbrengen op eigen initiatief of op verzoek van de beheersinstantie over alle aangelegenheden die de algemene werking van de groep van assistentiewoningen betreffen. Van de vergaderingen van de raad wordt een verslag opgemaakt dat aan alle bewoners of hun vertegenwoordigers bezorgd wordt. de administratie kan die verslagen inkijken.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De beheersinstantie en de woonassistent van de groep van assistentiewoningen worden uitgenodigd om de vergaderingen van de raad bij te wonen.</span></span><br>
+De beheersinstantie en de woonassistent van de groep van assistentiewoningen worden uitgenodigd om de vergaderingen van de raad bij te wonen.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De beheersinstantie kan aantonen dat de opmerkingen en suggesties die aan bod kwamen in de gebruikersraad worden gehoord, opgevolgd en teruggekoppeld aan de gebruikersraad.</span></span><br>
+De beheersinstantie kan aantonen dat de opmerkingen en suggesties die aan bod kwamen in de gebruikersraad worden gehoord, opgevolgd en teruggekoppeld aan de gebruikersraad.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§2. Elke betrokkene heeft de mogelijkheid om een klacht, suggestie of opmerking te uiten over de werking van de groep van assistentiewoningen. De beheersinstantie werkt daarvoor een klachtenprocedure uit en maakt die bekend op de website of in de onthaalbrochure. De beheersinstantie wijst een klachtenbehandelaar aan. Suggesties, opmerkingen of klachten kunnen rechtstreeks, zowel schriftelijk als mondeling, door elke betrokkene aan die persoon worden meegedeeld. </span></span><br>
+§2. Elke betrokkene heeft de mogelijkheid om een klacht, suggestie of opmerking te uiten over de werking van de groep van assistentiewoningen. De beheersinstantie werkt daarvoor een klachtenprocedure uit en maakt die bekend op de website of in de onthaalbrochure. De beheersinstantie wijst een klachtenbehandelaar aan. Suggesties, opmerkingen of klachten kunnen rechtstreeks, zowel schriftelijk als mondeling, door elke betrokkene aan die persoon worden meegedeeld.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De klachtenbehandelaar verzamelt de ingediende suggesties, opmerkingen of klachten en anonimiseert deze gegevens. Het agentschap kan daarvan inzage nemen. Het gevolg dat aan een klacht wordt gegeven, wordt rechtstreeks en binnen de termijn, vermeld in de klachtenprocedure, aan de indiener ervan meegedeeld. Indieners krijgen garanties dat op hun klacht binnen een redelijke termijn feedback wordt gegeven.</span></span><br>
+De klachtenbehandelaar verzamelt de ingediende suggesties, opmerkingen of klachten en anonimiseert deze gegevens. de administratie kan daarvan inzage nemen. Het gevolg dat aan een klacht wordt gegeven, wordt rechtstreeks en binnen de termijn, vermeld in de klachtenprocedure, aan de indiener ervan meegedeeld. Indieners krijgen garanties dat op hun klacht binnen een redelijke termijn feedback wordt gegeven.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De beheersinstantie zorgt voor periodieke informatie over de klachtenbehandeling aan alle bewoners, hun vertegenwoordigers en mantelzorgers. Op basis van een periodieke analyse van de klachten formuleert de beheersinstantie correctieve en preventieve maatregelen.</span></span><br>
+De beheersinstantie zorgt voor periodieke informatie over de klachtenbehandeling aan alle bewoners, hun vertegenwoordigers en mantelzorgers. Op basis van een periodieke analyse van de klachten formuleert de beheersinstantie correctieve en preventieve maatregelen.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§3. De gegevens over de Woonzorglijn worden op een zichtbare plaats opgehangen. </span></span></p>
+§3. De gegevens over de Woonzorglijn worden op een zichtbare plaats opgehangen.</p>
 
 ## Onderafdeling 4. Facturatie
 
@@ -5338,7 +5339,7 @@ Het kwaliteitsmanagementsyteem, vermeld in eerste lid, 3°, worden minstens de v
 
 ### ART 31.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het aangestelde personeel van het agentschap is gemachtigd om kennis te nemen van de boekhouding en van de individuele facturen.</span></span>
+Het aangestelde personeel van de administratie is gemachtigd om kennis te nemen van de boekhouding en van de individuele facturen.
 
 ## Afdeling 3. Voorwaarden voor de personeelsomkadering
 
@@ -5471,7 +5472,7 @@ Het kwaliteitsmanagementsyteem, vermeld in eerste lid, 3°, worden minstens de v
 
 ### ART 48.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De groepen van assistentiewoningen die op 31 december 2019 aangemeld zijn overeenkomstig artikel 99, §1, tweede lid, van het Woonzorgdecreet van 15 februari 2019 bezorgen uiterlijk op 31 december 2020 aan het agentschap een afschrift van de omgevingsvergunning tot realisatie van een aangemelde groep van assistentiewoningen. </span></span></p>
+<p>De groepen van assistentiewoningen die op 31 december 2019 aangemeld zijn overeenkomstig artikel 99, §1, tweede lid, van het Woonzorgdecreet van 15 februari 2019 bezorgen uiterlijk op 31 december 2020 aan de administratie een afschrift van de omgevingsvergunning tot realisatie van een aangemelde groep van assistentiewoningen.</p>
 
 ### ART 49.
 
@@ -5819,7 +5820,7 @@ n)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de v
 
 ### ART 28.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Uiterlijk één maand na de opname van de bewoner wordt de zorgzwaarte van de bewoner vastgesteld aan de hand van de BelRAI LTCF. Dat instrument maakt integraal deel uit van het woonzorgleefplan, dat ingevuld, regelmatig geëvalueerd en, in voorkomend geval, bijgestuurd wordt.</span></span></span>
+Uiterlijk acht weken na de opname van de bewoner wordt de zorgzwaarte van de bewoner vastgesteld aan de hand van de BelRAI LTCF. Dat instrument maakt integraal deel uit van het woonzorgleefplan, dat ingevuld, regelmatig geëvalueerd en, in voorkomend geval, bijgestuurd wordt.
 
 ### ART 29.
 
@@ -5911,9 +5912,9 @@ Daarbij worden de keuzevrijheid en een maximale persoonlijke autonomie en zelfve
 
 ### ART 33/1.
 
-§ 1. In elk woonzorgcentrum, al dan niet met bijbehorend centrum voor kortverblijf type 1, wijst de initiatiefnemer een coördinerend en raadgevend arts aan die een erkende huisarts is en die uiterlijk vier jaar na zijn aanwijzing houder is van een attest dat toegang verleent tot de functie van coördinerend en raadgevend arts. Dat attest kan worden verkregen nadat een opleidingscyclus van minstens 24 uur, die erkend is door het agentschap, met vrucht afgerond is.<br>
+§ 1. In elk woonzorgcentrum, al dan niet met bijbehorend centrum voor kortverblijf type 1, wijst de initiatiefnemer een coördinerend en raadgevend arts aan die een erkende huisarts is en die uiterlijk vier jaar na zijn aanwijzing houder is van een attest dat toegang verleent tot de functie van coördinerend en raadgevend arts. Dat attest kan worden verkregen nadat een opleidingscyclus van minstens 24 uur, die erkend is door de administratie, met vrucht afgerond is.<br>
 <br>
-De coördinerend en raadgevend arts is verbonden aan het woonzorgcentrum, al dan niet met bijbehorend centrum voor kortverblijf type 1, met een ondernemingscontract. Het agentschap kan een exemplaar van dat contract opvragen.<br>
+De coördinerend en raadgevend arts is verbonden aan het woonzorgcentrum, al dan niet met bijbehorend centrum voor kortverblijf type 1, met een ondernemingscontract. de administratie kan een exemplaar van dat contract opvragen.<br>
 <br>
 Het ondernemingscontract vermeldt de rechten en plichten van beide partijen, waaronder minstens de te leveren prestaties en de vergoeding. De te leveren prestaties omvatten minstens de prestaties vermeldt onder § 4 van dit artikel.<br>
 <br>
@@ -6019,23 +6020,23 @@ Het algemeen reglement van de medische activiteit beschrijft minstens de volgend
 
 ### ART 41.
 
-<p><span style="color:black">§1. Het woonzorgcentrum richt een gebruikers- en een familieraad op. De gebruikersraad vergadert minstens één keer per trimester. De familieraad vergadert om de zes maanden. De gebruikers- en familieraad kunnen evenwel samen worden georganiseerd. In dat geval waarborgt het woonzorgcentrum dat de bewoners altijd minstens de helft van de aanwezigen uitmaken. Op verzoek van een bewoner of een familielid kan een vertegenwoordiger van de lokale ouderenraad of een vertegenwoordiger van de verenigingen van mantelzorgers en gebruikers deel uitmaken van de gebruikersraad. De verenigingen maken daarover afspraken. Als het woonzorgcentrum niet kan tegemoetkomen aan de gestelde vraag, motiveert die deze keuze.<br>
+<p>§1. Het woonzorgcentrum richt een gebruikers- en een familieraad op. De gebruikersraad vergadert minstens één keer per trimester. De familieraad vergadert om de zes maanden. De gebruikers- en familieraad kunnen evenwel samen worden georganiseerd. In dat geval waarborgt het woonzorgcentrum dat de bewoners altijd minstens de helft van de aanwezigen uitmaken. Op verzoek van een bewoner of een familielid kan een vertegenwoordiger van de lokale ouderenraad of een vertegenwoordiger van de verenigingen van mantelzorgers en gebruikers deel uitmaken van de gebruikersraad. De verenigingen maken daarover afspraken. Als het woonzorgcentrum niet kan tegemoetkomen aan de gestelde vraag, motiveert die deze keuze.<br>
 <br>
-§2. De gebruikers- en familieraad kan advies uitbrengen, hetzij op eigen initiatief, hetzij op verzoek van het woonzorgcentrum, over alle aangelegenheden die betrekking hebben op de algemene werking van het woonzorgcentrum betreffen. Van de vergaderingen van die raden wordt een gedateerd</span> <span style="color:black">verslag opgemaakt dat aan alle bewoners en hun vertegenwoordigers, familie of mantelzorgers bezorgd wordt. Het agentschap kan die verslagen inkijken. Als in het woonzorgcentrum alleen bewoners met cognitieve problemen verblijven, kan de gebruikersraad vervangen worden door een familieraad.<br>
+§2. De gebruikers- en familieraad kan advies uitbrengen, hetzij op eigen initiatief, hetzij op verzoek van het woonzorgcentrum, over alle aangelegenheden die betrekking hebben op de algemene werking van het woonzorgcentrum betreffen. Van de vergaderingen van die raden wordt een gedateerd verslag opgemaakt dat aan alle bewoners en hun vertegenwoordigers, familie of mantelzorgers bezorgd wordt. de administratie kan die verslagen inkijken. Als in het woonzorgcentrum alleen bewoners met cognitieve problemen verblijven, kan de gebruikersraad vervangen worden door een familieraad.<br>
 <br>
 Een of meer vertegenwoordigers van het woonzorgcentrum worden uitgenodigd om de vergaderingen van de gebruikers- of familieraad bij te wonen.<br>
 <br>
-Het woonzorgcentrum kan aantonen dat de opmerkingen en suggesties die aan bod kwamen in de gebruikers- en familieraad worden gehoord, opgevolgd en teruggekoppeld aan de gebruikers- en familieraad.</span></p>
+Het woonzorgcentrum kan aantonen dat de opmerkingen en suggesties die aan bod kwamen in de gebruikers- en familieraad worden gehoord, opgevolgd en teruggekoppeld aan de gebruikers- en familieraad.</p>
 
 ### ART 42.
 
-<p><span style="color:black">§1. Elke betrokkene wordt in de mogelijkheid gesteld om een klacht, suggestie of opmerking te uiten over de werking van het woonzorgcentrum. Het woonzorgcentrum werkt daarvoor een klachtenprocedure uit en maakt die bekend op de website of in de onthaalbrochure. Het woonzorgcentrum wijst een klachtenbehandelaar aan. De gebruiker of zijn vertegenwoordiger, een familielid of mantelzorger kan suggesties, opmerkingen of klachten rechtstreeks, zowel schriftelijk als mondeling, aan die persoon meedelen.<br>
+<p>§1. Elke betrokkene wordt in de mogelijkheid gesteld om een klacht, suggestie of opmerking te uiten over de werking van het woonzorgcentrum. Het woonzorgcentrum werkt daarvoor een klachtenprocedure uit en maakt die bekend op de website of in de onthaalbrochure. Het woonzorgcentrum wijst een klachtenbehandelaar aan. De gebruiker of zijn vertegenwoordiger, een familielid of mantelzorger kan suggesties, opmerkingen of klachten rechtstreeks, zowel schriftelijk als mondeling, aan die persoon meedelen.<br>
 <br>
-De klachtenbehandelaar verzamelt de ingediende suggesties, opmerkingen of klachten en anonimiseert deze gegevens. Het agentschap kan daarvan inzage nemen. Het gevolg dat aan een klacht wordt gegeven, wordt rechtstreeks en binnen de termijn, vermeld in de klachtenprocedure, aan de indiener ervan meegedeeld. Indieners krijgen de garantie dat binnen een redelijke termijn feedback op hun klacht wordt gegeven.<br>
+De klachtenbehandelaar verzamelt de ingediende suggesties, opmerkingen of klachten en anonimiseert deze gegevens. De administratie kan daarvan inzage nemen. Het gevolg dat aan een klacht wordt gegeven, wordt rechtstreeks en binnen de termijn, vermeld in de klachtenprocedure, aan de indiener ervan meegedeeld. Indieners krijgen de garantie dat binnen een redelijke termijn feedback op hun klacht wordt gegeven.<br>
 <br>
 Het woonzorgcentrum verstrekt periodiek informatie over de klachtenbehandeling aan alle bewoners, hun vertegenwoordigers en mantelzorgers. Op basis van periodieke analyse van de klachten formuleert het woonzorgcentrum correctieve en preventieve maatregelen.<br>
 <br>
-§2. De gegevens over de Woonzorglijn worden op een zichtbare plaats opgehangen. </span></p>
+§2. De gegevens over de Woonzorglijn worden op een zichtbare plaats opgehangen.</p>
 
 ## Onderafdeling 3. Facturatie
 
@@ -6330,14 +6331,14 @@ De buitenruimte van het gebouw of de gebouwen, vermeld in het eerste lid, voldoe
 
 ### ART 58.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">§1. Per woonzorgcentrum mag het aantal gebruikers jonger dan 65 jaar, maximaal 10% van het totale aantal woongelegenheden van dat woonzorgcentrum bedragen. Het het aantal woongelegenheden met een bijzondere erkenning als centrum voor niet aangeboren hersenletsels worden daarbij niet meegerekend. De minister kan nadere voorwaarden bepalen voor de bewoners jonger dan 65 jaar.</span></span></span><br>
+<p>§1. Per woonzorgcentrum mag het aantal gebruikers jonger dan 65 jaar, maximaal 10% van het totale aantal woongelegenheden van dat woonzorgcentrum bedragen. Het het aantal woongelegenheden met een bijzondere erkenning als centrum voor niet aangeboren hersenletsels worden daarbij niet meegerekend. De minister kan nadere voorwaarden bepalen voor de bewoners jonger dan 65 jaar.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Een erkend woonzorgcentrum waarvan 10% of meer van het aantal gebruikers van het totale aantal erkende woongelegenheden jonger dan 65 is, houdt voor iedere bijkomende gebruiker boven die 10% een verslag van een interdisciplinair team van het woonzorgcentrum, een ziekenhuis of een personeelslid dat in de thuiszorg werkt, ter beschikking in de woonzorgvoorziening waaruit blijkt dat er in de woonomgeving van de gebruiker geen gepaste opvang beschikbaar is en dat de opname in het woonzorgcentrum beantwoordt aan de zorg- en ondersteuningsvragen van de gebruiker in kwestie. Het interdisciplinair team bevat minstens een maatschappelijk assistent en een behandelde arts.</span></span></span><br>
+Een erkend woonzorgcentrum waarvan 10% of meer van het aantal gebruikers van het totale aantal erkende woongelegenheden jonger dan 65 is, houdt voor iedere bijkomende gebruiker boven die 10% een verslag van een interdisciplinair team van het woonzorgcentrum, een ziekenhuis of een personeelslid dat in de thuiszorg werkt, ter beschikking in de woonzorgvoorziening waaruit blijkt dat er in de woonomgeving van de gebruiker geen gepaste opvang beschikbaar is en dat de opname in het woonzorgcentrum beantwoordt aan de zorg- en ondersteuningsvragen van de gebruiker in kwestie. Het interdisciplinair team bevat minstens een maatschappelijk assistent en een behandelde arts.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">§2. De administrateur-generaal kan, als meer dan 10% van het aantal gebruikers van het totale aantal erkende woongelegenheden jonger dan 65 is, op basis van het gemotiveerde verzoek toestemming verlenen om een groep van gebruikers van jonger dan 65 jaar met gemeenschappelijke zorg- en ondersteuningsnoden op te nemen. Dat verzoek bevat minstens de volgende elementen:<br>
-1°&nbsp;</span></span></span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">het aantal opnamemogelijkheden het woonzorgcentrum wil voorbehouden voor die groep van gebruikers en een omschrijving van de doelgroep;<br>
-2°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">samenwerkingsverbanden met een of meer en gespecialiseerd in de doelgroep voorzieningen en een toelichting bij de toeleidingsafspraken;<br>
-3°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de nodige bewijsstukken dat het woonzorgcentrum over voldoende personeel, competenties en expertise beschikt. </span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">De minister kan bepalen over welke groepen het gaat en aanvullende voorwaarden bepalen voor die groepen van gebruikers.</span></p>
+§2. De secretaris-generaal kan, als meer dan 10% van het aantal gebruikers van het totale aantal erkende woongelegenheden jonger dan 65 is, op basis van het gemotiveerde verzoek toestemming verlenen om een groep van gebruikers van jonger dan 65 jaar met gemeenschappelijke zorg- en ondersteuningsnoden op te nemen. Dat verzoek bevat minstens de volgende elementen:<br>
+1°&nbsp;het aantal opnamemogelijkheden het woonzorgcentrum wil voorbehouden voor die groep van gebruikers en een omschrijving van de doelgroep;<br>
+2°&nbsp;samenwerkingsverbanden met een of meer en gespecialiseerd in de doelgroep voorzieningen en een toelichting bij de toeleidingsafspraken;<br>
+3°&nbsp;de nodige bewijsstukken dat het woonzorgcentrum over voldoende personeel, competenties en expertise beschikt. De minister kan bepalen over welke groepen het gaat en aanvullende voorwaarden bepalen voor die groepen van gebruikers.</p>
 
 ## Hoofdstuk 5. [... (opgeh. BVR 20 januari 2023, art. 52, I: 1 januari 2023)]
 
@@ -6502,7 +6503,12 @@ In afwijking van het eerste lid kan het woonzorgcentrum of het gedeelte van het 
 
 ### ART 84.
 
-In afwijking van artikel 28 kan de zorgzwaarte van de bewoner tot 1 juni 2023 worden vastgesteld aan de hand van de Katz-schaal, vermeld in artikel 1, 31°, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.
+In afwijking van artikel 28 gelden de volgende overgangsmaatregelen:<br>
+1° in de periode van 1 juni 2023 tot en met 31 december 2023 wordt de zorgzwaarte in het kader van de zorgplanning van minstens 10% van de bewoners van het woonzorgcentrum al vastgesteld aan de hand van BelRAI LTCF;&nbsp;<br>
+2° vanaf 1 januari 2024 wordt de zorgzwaarte in het kader van de zorgplanning van alle nieuwe bewoners van het woonzorgcentrum vastgesteld aan de hand van BelRAI LTCF uiterlijk acht weken na de opname;<br>
+3° op uiterlijk 1 juni 2024 is de zorgzwaarte in het kader van de zorgplanning van minstens 40% van de bewoners van het woonzorgcentrum die op dat moment opgenomen zijn, al vastgesteld aan de hand van BelRAI LTCF;<br>
+4° op uiterlijk 1 januari 2025 is de zorgzwaarte in het kader van de zorgplanning van minstens 70% van de bewoners van het woonzorgcentrum die op dat moment opgenomen zijn, al vastgesteld aan de hand van BelRAI LTCF;&nbsp;<br>
+5° uiterlijk op 1 juni 2025 is de zorgzwaarte in het kader van de zorgplanning van alle bewoners van het woonzorgcentrum vastgesteld aan de hand van BelRAI LTCF.
 
 ## Bijlage 12. Verenigingen voor mantelzorgers en gebruikers
 
@@ -6552,11 +6558,11 @@ In afwijking van artikel 28 kan de zorgzwaarte van de bewoner tot 1 juni 2023 wo
 
 ### ART 7.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De vereniging neemt de rol van belangenbehartiging op door:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de gesignaleerde problemen van mantelzorgers en gebruikers te inventariseren en een rapport daarvan voor het voorbije werkjaar gebundeld over alle verenigingen heen, jaarlijks voor 15 april aan het agentschap te bezorgen;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;een mantelzorgraad te organiseren met als opdracht de problemen van de mantelzorgers te bespreken en oplossingsgerichte voorstellen uit te werken. De mantelzorgraad is samengesteld uit mantelzorgers en gebruikers. De mantelzorgraad vergadert minstens zes keer per jaar;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;jaarlijks een belangenbehartigend initiatief te organiseren;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;mantelzorgers te vertegenwoordigen in overleg- en beslissingsorganen.</span></span></span></span></p>
+<p>De vereniging neemt de rol van belangenbehartiging op door:<br>
+1°&nbsp;de gesignaleerde problemen van mantelzorgers en gebruikers te inventariseren en een rapport daarvan voor het voorbije werkjaar gebundeld over alle verenigingen heen, jaarlijks voor 15 april aan de administratie te bezorgen;<br>
+2°&nbsp;een mantelzorgraad te organiseren met als opdracht de problemen van de mantelzorgers te bespreken en oplossingsgerichte voorstellen uit te werken. De mantelzorgraad is samengesteld uit mantelzorgers en gebruikers. De mantelzorgraad vergadert minstens zes keer per jaar;<br>
+3°&nbsp;jaarlijks een belangenbehartigend initiatief te organiseren;<br>
+4°&nbsp;mantelzorgers te vertegenwoordigen in overleg- en beslissingsorganen.</p>
 
 ### ART 8.
 
@@ -6683,48 +6689,48 @@ In afwijking van artikel 28 kan de zorgzwaarte van de bewoner tot 1 juni 2023 wo
 
 ### ART 2.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Binnen de beschikbare begrotingskredieten kan de administrateur-generaal conform de bepalingen van dit hoofdstuk aanvullende subsidies in de vorm van een DAC-supplement toekennen aan de woonzorgcentra die personeelsleden tewerkstellen met een gewezen DAC-statuut.</span></span>
+Binnen de beschikbare begrotingskredieten kan de secretaris-generaal conform de bepalingen van dit hoofdstuk aanvullende subsidies in de vorm van een DAC-supplement toekennen aan de woonzorgcentra die personeelsleden tewerkstellen met een gewezen DAC-statuut.
 
 ### ART 3.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. Aan de woonzorgcentra, vermeld in artikel 2, wordt jaarlijks een subsidie-enveloppe toegekend in de vorm van een DAC-supplement.</span></span><br>
+§1. Aan de woonzorgcentra, vermeld in artikel 2, wordt jaarlijks een subsidie-enveloppe toegekend in de vorm van een DAC-supplement.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">Als jaarlijkse basis voor dat DAC-supplement gelden het subsidiebedrag en het aantal voltijdsequivalenten, tewerkgesteld met een gewezen DAC-statuut, per woonzorgcentrum, zoals vastgelegd voor het werkingsjaar 2016 in bijlage 2 van het ministerieel besluit van 10 mei 2016 tot bepaling voor het eerste semester 2016 van het maximale subsidiebedrag per voorziening in het kader van de subsidiëring van de animatiewerking en tot bepaling voor het werkingsjaar 2016 van het DAC-supplement voor de woonzorgcentra die personeelsleden tewerkstellen in een gewezen DAC-statuut.</span><br>
+Als jaarlijkse basis voor dat DAC-supplement gelden het subsidiebedrag en het aantal voltijdsequivalenten, tewerkgesteld met een gewezen DAC-statuut, per woonzorgcentrum, zoals vastgelegd voor het werkingsjaar 2016 in bijlage 2 van het ministerieel besluit van 10 mei 2016 tot bepaling voor het eerste semester 2016 van het maximale subsidiebedrag per voorziening in het kader van de subsidiëring van de animatiewerking en tot bepaling voor het werkingsjaar 2016 van het DAC-supplement voor de woonzorgcentra die personeelsleden tewerkstellen in een gewezen DAC-statuut.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">De subsidiebedragen per woonzorgcentrum worden proportioneel verminderd bij definitieve vermindering van de arbeidsduur als vermeld in artikel 10, §1.</span><br>
+De subsidiebedragen per woonzorgcentrum worden proportioneel verminderd bij definitieve vermindering van de arbeidsduur als vermeld in artikel 10, §1.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">De middelen die vrijkomen als gevolg van een vermindering als vermeld in het derde lid, worden ingezet voor de financiering van de zware zorg in de woonzorgcentra en de centra voor kortverblijf type 1 in het kader van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.</span><br>
+De middelen die vrijkomen als gevolg van een vermindering als vermeld in het derde lid, worden ingezet voor de financiering van de zware zorg in de woonzorgcentra en de centra voor kortverblijf type 1 in het kader van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">§2. De administrateur-generaal bepaalt jaarlijks het aantal voltijdsequivalenten aan personeelsleden, tewerkgesteld met een gewezen DAC-statuut, dat in aanmerking komt voor de subsidiëring, vermeld in paragraaf 1, en het maximale subsidiebedrag per woonzorgcentrum.</span>
+§2. De secretaris-generaal bepaalt jaarlijks het aantal voltijdsequivalenten aan personeelsleden, tewerkgesteld met een gewezen DAC-statuut, dat in aanmerking komt voor de subsidiëring, vermeld in paragraaf 1, en het maximale subsidiebedrag per woonzorgcentrum.
 
 ### ART 4.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Vóór 1 april van het jaar dat volgt op het jaar dat in aanmerking genomen wordt voor de subsidiëring, bezorgt de initiatiefnemer van het woonzorgcentrum aan het agentschap de bewijsvoering van de effectieve tewerkstelling van de personeelsleden die tewerkgesteld zijn met een vroeger DAC-statuut. De minister bepaalt de vorm en de inhoud van die bewijsvoering.</span></span>
+Vóór 1 april van het jaar dat volgt op het jaar dat in aanmerking genomen wordt voor de subsidiëring, bezorgt de initiatiefnemer van het woonzorgcentrum aan de administratie de bewijsvoering van de effectieve tewerkstelling van de personeelsleden die tewerkgesteld zijn met een vroeger DAC-statuut. De minister bepaalt de vorm en de inhoud van die bewijsvoering.
 
 ## Hoofdstuk 3. Subsidiëring van de gewezen gescoprojecten in de woonzorgcentra
 
 ### ART 5.
 
-<span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Binnen de beschikbare begrotingskredieten kan de administrateur-generaal conform de bepalingen van dit hoofdstuk subsidies voor gewezen gescoprojecten toekennen aan de woonzorgcentra die beheerd worden door een verenigingen met rechtspersoonlijkheid die rechtstreeks noch onrechtstreeks enig vermogensvoordeel mogen uitkeren of bezorgen behalve voor het in de statuten bepaalde belangeloze doel.</span></span>
+Binnen de beschikbare begrotingskredieten kan de secretaris-generaal conform de bepalingen van dit hoofdstuk subsidies voor gewezen gescoprojecten toekennen aan de woonzorgcentra die beheerd worden door een verenigingen met rechtspersoonlijkheid die rechtstreeks noch onrechtstreeks enig vermogensvoordeel mogen uitkeren of bezorgen behalve voor het in de statuten bepaalde belangeloze doel.
 
 ### ART 6.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§ 1. Aan de woonzorgcentra, vermeld in artikel 5, wordt jaarlijks een subsidie-enveloppe toegekend voor de tewerkgestelde personeelsleden met een gewezen gescostatuut.</span></span><br>
+§ 1. Aan de woonzorgcentra, vermeld in artikel 5, wordt jaarlijks een subsidie-enveloppe toegekend voor de tewerkgestelde personeelsleden met een gewezen gescostatuut.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">Als basis voor die subsidie-enveloppe geldt :</span><br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">1° 95% van de gescopremie, toegekend voor het jaar 2014 met toepassing van het besluit van de Vlaamse Regering van 27 oktober 1993 tot&nbsp; veralgemening van het stelsel van gesubsidieerde contractuelen;</span><br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">2° 95% van de vermindering van de sociale zekerheidsbijdrage voor het jaar 2014, toegekend conform artikel 9, 9bis, 14 en 28/11 van het koninklijk besluit van 16 mei 2003 tot uitvoering van het Hoofdstuk 7 van Titel IV van de programmawet van 24 december 2002 (I), betreffende de harmonisering en vereenvoudiging van de regelingen inzake verminderingen van de sociale zekerheidsbijdragen;</span><br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">3° het aantal nog in aanmerking te nemen voltijdsequivalenten aan personeelsleden, tewerkgesteld met een gewezen gescostatuut op 1 januari van het desbetreffende werkingsjaar.</span><br>
+Als basis voor die subsidie-enveloppe geldt :<br>
+1° 95% van de gescopremie, toegekend voor het jaar 2014 met toepassing van het besluit van de Vlaamse Regering van 27 oktober 1993 tot&nbsp; veralgemening van het stelsel van gesubsidieerde contractuelen;<br>
+2° 95% van de vermindering van de sociale zekerheidsbijdrage voor het jaar 2014, toegekend conform artikel 9, 9bis, 14 en 28/11 van het koninklijk besluit van 16 mei 2003 tot uitvoering van het Hoofdstuk 7 van Titel IV van de programmawet van 24 december 2002 (I), betreffende de harmonisering en vereenvoudiging van de regelingen inzake verminderingen van de sociale zekerheidsbijdragen;<br>
+3° het aantal nog in aanmerking te nemen voltijdsequivalenten aan personeelsleden, tewerkgesteld met een gewezen gescostatuut op 1 januari van het desbetreffende werkingsjaar.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">De subsidiebedragen per woonzorgcentrum worden proportioneel verminderd bij definitieve vermindering van de arbeidsduur als vermeld in artikel 10, §3.</span><br>
+De subsidiebedragen per woonzorgcentrum worden proportioneel verminderd bij definitieve vermindering van de arbeidsduur als vermeld in artikel 10, §3.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">De middelen die vrijkomen als gevolg van een vermindering als vermeld in artikel 10, §3 worden ingezet voor de financiering van de zware zorg in de woonzorgcentra en de centra voor kortverblijf type 1 in het kader van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.</span><br>
+De middelen die vrijkomen als gevolg van een vermindering als vermeld in artikel 10, §3 worden ingezet voor de financiering van de zware zorg in de woonzorgcentra en de centra voor kortverblijf type 1 in het kader van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">§2. De administrateur-generaal bepaalt jaarlijks de woonzorgcentra en, per woonzorgcentrum, het aantal voltijdse equivalenten aan personeelsleden, tewerkgesteld in een gewezen gescostatuut, die in aanmerking komen voor de subsidiëring, vermeld in paragraaf 1, en het maximale subsidiebedrag per woonzorgcentrum .</span>
+§2. De secretaris-generaal bepaalt jaarlijks de woonzorgcentra en, per woonzorgcentrum, het aantal voltijdse equivalenten aan personeelsleden, tewerkgesteld in een gewezen gescostatuut, die in aanmerking komen voor de subsidiëring, vermeld in paragraaf 1, en het maximale subsidiebedrag per woonzorgcentrum .
 
 ### ART 7.
 
-<span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Vóór 1 april van het jaar dat volgt op het jaar dat in aanmerking genomen wordt voor de subsidiëring, bezorgt de initiatiefnemer van het woonzorgcentrum aan het agentschap de bewijsvoering van de effectieve tewerkstelling van de personeelsleden die tewerkgesteld zijn met een vroeger gescostatuut. De minister bepaalt de vorm en de inhoud van die bewijsvoering.</span></span>
+Vóór 1 april van het jaar dat volgt op het jaar dat in aanmerking genomen wordt voor de subsidiëring, bezorgt de initiatiefnemer van het woonzorgcentrum aan de administratie de bewijsvoering van de effectieve tewerkstelling van de personeelsleden die tewerkgesteld zijn met een vroeger gescostatuut. De minister bepaalt de vorm en de inhoud van die bewijsvoering.
 
 ## Hoofdstuk 4. Algemene bepalingen
 
@@ -6734,11 +6740,11 @@ In afwijking van artikel 28 kan de zorgzwaarte van de bewoner tot 1 juni 2023 wo
 
 ### ART 9.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het definitieve subsidiebedrag wordt berekend, toegekend en gesaldeerd nadat het agentschap de bewijsvoering, vermeld in artikel 4 en 7, heeft goedgekeurd.<br>
+Het definitieve subsidiebedrag wordt berekend, toegekend en gesaldeerd nadat de administratie de bewijsvoering, vermeld in artikel 4 en 7, heeft goedgekeurd.<br>
 <br>
-Als blijkt dat het woonzorgcentrum, vermeld in artikel 2 en 5, meer voorschotten heeft ontvangen dan het definitieve subsidiebedrag, vordert het agentschap het verschil terug. Als op het moment dat de voorschotten worden uitgekeerd, vermeld in artikel 8, het teruggevorderde bedrag van het voorgaande jaar nog niet is betaald, wordt dat bedrag in mindering gebracht van de uit te betalen voorschotten.<br>
+Als blijkt dat het woonzorgcentrum, vermeld in artikel 2 en 5, meer voorschotten heeft ontvangen dan het definitieve subsidiebedrag, vordert de administratie het verschil terug. Als op het moment dat de voorschotten worden uitgekeerd, vermeld in artikel 8, het teruggevorderde bedrag van het voorgaande jaar nog niet is betaald, wordt dat bedrag in mindering gebracht van de uit te betalen voorschotten.<br>
 <br>
-De initiatiefnemer van het woonzorgcentrum, vermeld in artikel 2 en 5, wordt op de hoogte gebracht van de berekening van het definitieve subsidiebedrag en het uit te betalen saldo of van de terug te vorderen voorschotten.</span></span><br>
+De initiatiefnemer van het woonzorgcentrum, vermeld in artikel 2 en 5, wordt op de hoogte gebracht van de berekening van het definitieve subsidiebedrag en het uit te betalen saldo of van de terug te vorderen voorschotten.<br>
 <br>
 &nbsp;
 
@@ -6746,17 +6752,17 @@ De initiatiefnemer van het woonzorgcentrum, vermeld in artikel 2 en 5, wordt op 
 
 ### ART 10.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. Met toepassing van artikel 6 komen met ingang van 1 januari 2003 de volgende personeelsleden niet meer in aanmerking voor het bepalen van het aantal nog in aanmerking te nemen voltijdsequivalenten aan personeelsleden, tewerkgesteld met een gewezen DAC-statuut, op 1 januari van het desbetreffende werkingsjaar:<br>
-1° de mandatarissen die op 31 december 2002 tewerkgesteld zijn in een&nbsp; arbeidsplaats van een vroeger DAC-project, vanaf de datum van hun &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; uitdiensttreding;<br>
-2° de mandatarissen die op 31 december 2002 tewerkgesteld zijn in een&nbsp; arbeidsplaats van een vroeger DAC-project, vanaf de datum van de&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; definitieve vermindering van hun arbeidsduur voor de doorgevoerde vermindering van hun arbeidsduur.<br>
+§1. Met toepassing van artikel 6 komen met ingang van 1 januari 2003 de volgende personeelsleden niet meer in aanmerking voor het bepalen van het aantal nog in aanmerking te nemen voltijdsequivalenten aan personeelsleden, tewerkgesteld met een gewezen DAC-statuut, op 1 januari van het desbetreffende werkingsjaar:<br>
+1° de mandatarissen die op 31 december 2002 tewerkgesteld zijn in een&nbsp; arbeidsplaats van een vroeger DAC-project, vanaf de datum van hun uitdiensttreding;<br>
+2° de mandatarissen die op 31 december 2002 tewerkgesteld zijn in een&nbsp; arbeidsplaats van een vroeger DAC-project, vanaf de datum van de definitieve vermindering van hun arbeidsduur voor de doorgevoerde vermindering van hun arbeidsduur.<br>
 <br>
-§2. Elke definitieve vermindering van de arbeidsduur, vermeld in paragraaf 1, 1° en 2°, wordt binnen dertig dagen aan het agentschap gemeld. Daarbij worden de identiteit van de mandataris, de doorgevoerde vermindering en de ingangsdatum van de vermindering duidelijk vermeld.<br>
+§2. Elke definitieve vermindering van de arbeidsduur, vermeld in paragraaf 1, 1° en 2°, wordt binnen dertig dagen aan de administratie gemeld. Daarbij worden de identiteit van de mandataris, de doorgevoerde vermindering en de ingangsdatum van de vermindering duidelijk vermeld.<br>
 <br>
-§3. Met toepassing van artikel 6 komen met ingang van 1 januari 2016 de volgende personeelsleden niet meer in aanmerking voor het bepalen van het aantal nog in aanmerking te nemen voltijdsequivalenten aan personeelsleden, tewerkgesteld met een gewezen gescostatuut, op 1 januari van het desbetreffende werkingsjaar:</span></span><br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">1° de mandatarissen die op 31 december 2015 tewerkgesteld zijn in een arbeidsplaats van een vroeger gescoproject, vanaf de datum van hun uitdiensttreding;</span><br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">2° de mandatarissen die op 31 december 2015 tewerkgesteld zijn in een arbeidsplaats van een vroeger gescoproject, vanaf de datum van de definitieve vermindering van hun arbeidsduur, voor de doorgevoerde vermindering van hun arbeidsduur.</span><br>
+§3. Met toepassing van artikel 6 komen met ingang van 1 januari 2016 de volgende personeelsleden niet meer in aanmerking voor het bepalen van het aantal nog in aanmerking te nemen voltijdsequivalenten aan personeelsleden, tewerkgesteld met een gewezen gescostatuut, op 1 januari van het desbetreffende werkingsjaar:<br>
+1° de mandatarissen die op 31 december 2015 tewerkgesteld zijn in een arbeidsplaats van een vroeger gescoproject, vanaf de datum van hun uitdiensttreding;<br>
+2° de mandatarissen die op 31 december 2015 tewerkgesteld zijn in een arbeidsplaats van een vroeger gescoproject, vanaf de datum van de definitieve vermindering van hun arbeidsduur, voor de doorgevoerde vermindering van hun arbeidsduur.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">§4. Elke definitieve vermindering van de arbeidsduur, vermeld in paragraaf 3, 1° en 2°, wordt binnen dertig dagen aan het agentschap gemeld. Daarbij worden de identiteit van de mandataris, de doorgevoerde vermindering en de ingangsdatum van de vermindering duidelijk vermeld.</span>
+§4. Elke definitieve vermindering van de arbeidsduur, vermeld in paragraaf 3, 1° en 2°, wordt binnen dertig dagen aan de administratie gemeld. Daarbij worden de identiteit van de mandataris, de doorgevoerde vermindering en de ingangsdatum van de vermindering duidelijk vermeld.
 
 ### ART 11.
 
@@ -6776,47 +6782,47 @@ De initiatiefnemer van het woonzorgcentrum, vermeld in artikel 2 en 5, wordt op 
 
 ### ART 2.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. Binnen de beschikbare begrotingskredieten kan het agentschap aan erkende woonzorgcentra en centra voor kortverblijf type 1 die daarvoor na een oproep een aanvraag hebben ingediend, subsidies toekennen voor de terbeschikkingstelling en het gebruik van infrastructuur.<br>
+§1. Binnen de beschikbare begrotingskredieten kan de administratie aan erkende woonzorgcentra en centra voor kortverblijf type 1 die daarvoor na een oproep een aanvraag hebben ingediend, subsidies toekennen voor de terbeschikkingstelling en het gebruik van infrastructuur.<br>
 <br>
-De minister doet een oproep om aanvragen in te dienen voor:</span></span><br>
-<span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">1° de woongelegenheden in woonzorgcentra en de verblijfseenheden in centra voor kortverblijf type 1 die uiterlijk op 31 december 2014 een ontvankelijke aanvraag tot goedkeuring van het technische en financiële aspect van het masterplan en het betreffende project, vermeld in artikel 20 en 24/1 van het besluit van de Vlaamse Regering van 18 maart 2011 tot regeling van de alternatieve investeringssubsidies, verstrekt door het Vlaams infrastructuurfonds voor Persoonsgebonden Aangelegenheden, hebben ingediend en die nog geen goedkeuring van het masterplan en geen definitief principieel akkoord hebben gekregen;</span><br>
-<span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">2° de woongelegenheden in woonzorgcentra en verblijfseenheden in centra voor kortverblijf type 1 die in 2016 en 2017 in gebruik zijn genomen, en die niet vallen onder 1°.</span><br>
+De minister doet een oproep om aanvragen in te dienen voor:<br>
+1° de woongelegenheden in woonzorgcentra en de verblijfseenheden in centra voor kortverblijf type 1 die uiterlijk op 31 december 2014 een ontvankelijke aanvraag tot goedkeuring van het technische en financiële aspect van het masterplan en het betreffende project, vermeld in artikel 20 en 24/1 van het besluit van de Vlaamse Regering van 18 maart 2011 tot regeling van de alternatieve investeringssubsidies, verstrekt door het Vlaams infrastructuurfonds voor Persoonsgebonden Aangelegenheden, hebben ingediend en die nog geen goedkeuring van het masterplan en geen definitief principieel akkoord hebben gekregen;<br>
+2° de woongelegenheden in woonzorgcentra en verblijfseenheden in centra voor kortverblijf type 1 die in 2016 en 2017 in gebruik zijn genomen, en die niet vallen onder 1°.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">De minister bepaalt de modaliteiten voor de oproep, vermeld in het tweede lid. Voor de aanvragen, vermeld in het tweede lid, 1°, worden de infrastructuursubsidies toegekend op basis van de datum van ontvankelijkheid van de aanvraag tot goedkeuring van het technische en financiële aspect van het masterplan en het betreffende project, waarbij de woongelegenheden en de verblijfseenheden met de oudste datum van ontvankelijkheid voorrang hebben. Voor de aanvragen, vermeld in het tweede lid, 2°, worden de infrastructuursubsidies toegekend volgens trimester of, in voorkomend geval, volgens datum van ingebruikname, waarbij de woongelegenheden en de verblijfseenheden die het eerst in gebruik zijn genomen, voorrang hebben.</span><br>
+De minister bepaalt de modaliteiten voor de oproep, vermeld in het tweede lid. Voor de aanvragen, vermeld in het tweede lid, 1°, worden de infrastructuursubsidies toegekend op basis van de datum van ontvankelijkheid van de aanvraag tot goedkeuring van het technische en financiële aspect van het masterplan en het betreffende project, waarbij de woongelegenheden en de verblijfseenheden met de oudste datum van ontvankelijkheid voorrang hebben. Voor de aanvragen, vermeld in het tweede lid, 2°, worden de infrastructuursubsidies toegekend volgens trimester of, in voorkomend geval, volgens datum van ingebruikname, waarbij de woongelegenheden en de verblijfseenheden die het eerst in gebruik zijn genomen, voorrang hebben.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">De minister doet een oproep om aanvragen in te dienen voor de woongelegenheden of de verblijfseenheden die na 2017 in gebruik zijn genomen. Die oproep geldt ook voor woongelegenheden of verblijfseenheden die in een eerder jaar en op zijn vroegst vanaf 2016 in gebruik zijn genomen. De minister bepaalt de modaliteiten voor de oproep.&nbsp;Behalve voor woongelegenheden of verblijfseenheden als vermeld in het tweede lid, 1°, waarvoor dezelfde voorrangsregeling geldt als de voorrangsregeling, vermeld in het vierde en vijfde lid, kan de minister prioriteitscriteria bepalen voor de toekenning van de infrastructuursubsidies, die onder meer betrekking hebben op de aard van de werkzaamheden die vereist zijn voor de realisatie van de woongelegenheden of de verblijfseenheden, en op de invulling van de programmatie voor woongelegenheden in woonzorgcentra en voor verblijfseenheden in centra voor kortverblijf type 1.</span><br>
+De minister doet een oproep om aanvragen in te dienen voor de woongelegenheden of de verblijfseenheden die na 2017 in gebruik zijn genomen. Die oproep geldt ook voor woongelegenheden of verblijfseenheden die in een eerder jaar en op zijn vroegst vanaf 2016 in gebruik zijn genomen. De minister bepaalt de modaliteiten voor de oproep.&nbsp;Behalve voor woongelegenheden of verblijfseenheden als vermeld in het tweede lid, 1°, waarvoor dezelfde voorrangsregeling geldt als de voorrangsregeling, vermeld in het vierde en vijfde lid, kan de minister prioriteitscriteria bepalen voor de toekenning van de infrastructuursubsidies, die onder meer betrekking hebben op de aard van de werkzaamheden die vereist zijn voor de realisatie van de woongelegenheden of de verblijfseenheden, en op de invulling van de programmatie voor woongelegenheden in woonzorgcentra en voor verblijfseenheden in centra voor kortverblijf type 1.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">§2. Een aanvraag die volgt op een oproep als vermeld in paragraaf 1, tweede of vierde lid, is ontvankelijk als de initiatiefnemer van het woonzorgcentrum of het centrum voor kortverblijf type 1 een aanvraag indient bij het agentschap die de volgende stukken of gegevens bevat:</span><br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">1° de rechtsgeldige beslissing om voor de woongelegenheden of de verblijfseenheden, vermeld in de aanvraag, infrastructuursubsidies aan te vragen;</span><br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">2° de verbintenis om voor de woongelegenheden of de verblijfseenheden, vermeld in de aanvraag, te voldoen aan de voorwaarden, vermeld in artikel 3;</span><br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">3° de verbintenis, vermeld in artikel 6;</span><br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">4° het geplande trimester of, in voorkomend geval, de effectieve datum van ingebruikname van de woongelegenheden of de verblijfseenheden.</span><br>
+§2. Een aanvraag die volgt op een oproep als vermeld in paragraaf 1, tweede of vierde lid, is ontvankelijk als de initiatiefnemer van het woonzorgcentrum of het centrum voor kortverblijf type 1 een aanvraag indient bij de administratie die de volgende stukken of gegevens bevat:<br>
+1° de rechtsgeldige beslissing om voor de woongelegenheden of de verblijfseenheden, vermeld in de aanvraag, infrastructuursubsidies aan te vragen;<br>
+2° de verbintenis om voor de woongelegenheden of de verblijfseenheden, vermeld in de aanvraag, te voldoen aan de voorwaarden, vermeld in artikel 3;<br>
+3° de verbintenis, vermeld in artikel 6;<br>
+4° het geplande trimester of, in voorkomend geval, de effectieve datum van ingebruikname van de woongelegenheden of de verblijfseenheden.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">§3. De leidend ambtenaar van het agentschap beslist over de aanvragen. Hij kan met toepassing van artikel 8, eerste lid, de infrastructuursubsidies verlenen, weigeren of, als de begrotingskredieten ontoereikend zijn, de infrastructuursubsidies verlenen vanaf een later trimester. In geval van een weigeringsbeslissing bevat de aangetekende zending ook een toelichting over de mogelijkheid, de voorwaarden en de procedure om een bezwaarschrift in te dienen bij het agentschap.</span><br>
+§3. De leidend ambtenaar van de administratie beslist over de aanvragen. Hij kan met toepassing van artikel 8, eerste lid, de infrastructuursubsidies verlenen, weigeren of, als de begrotingskredieten ontoereikend zijn, de infrastructuursubsidies verlenen vanaf een later trimester. In geval van een weigeringsbeslissing bevat de aangetekende zending ook een toelichting over de mogelijkheid, de voorwaarden en de procedure om een bezwaarschrift in te dienen bij de administratie.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">Als de ingebruikname in het goedgekeurde of uitgestelde trimester, vermeld in de beslissing die genomen is op basis van het eerste lid, door omstandigheden buiten de wil van de initiatiefnemer om, niet kan worden gehaald, kan de leidend ambtenaar van het agentschap maximaal drie jaar uitstel verlenen op het trimester, vermeld in de beslissing. De initiatiefnemer bezorgt daarover een omstandig gemotiveerd verzoek aan de leidend ambtenaar van het agentschap met een aangetekende brief, uiterlijk in het trimester, vermeld in de voormelde beslissing. In geval van een weigeringsbeslissing bevat de aangetekende zending ook een toelichting over de mogelijkheid, de voorwaarden en de procedure om een bezwaarschrift in te dienen bij het agentschap.</span><br>
+Als de ingebruikname in het goedgekeurde of uitgestelde trimester, vermeld in de beslissing die genomen is op basis van het eerste lid, door omstandigheden buiten de wil van de initiatiefnemer om, niet kan worden gehaald, kan de leidend ambtenaar van de administratie maximaal drie jaar uitstel verlenen op het trimester, vermeld in de beslissing. De initiatiefnemer bezorgt daarover een omstandig gemotiveerd verzoek aan de leidend ambtenaar van de administratie met een aangetekende brief, uiterlijk in het trimester, vermeld in de voormelde beslissing. In geval van een weigeringsbeslissing bevat de aangetekende zending ook een toelichting over de mogelijkheid, de voorwaarden en de procedure om een bezwaarschrift in te dienen bij de administratie.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">§4. Het bezwaarschrift, vermeld in paragraaf 3, is ontvankelijk als het gemotiveerd is en het door de initiatiefnemer aangetekend of tegen ontvangstbewijs bij het agentschap wordt ingediend binnen dertig dagen na de dag van de ontvangst van de weigeringsbeslissing. De minister deelt zijn beslissing over het bezwaarschrift mee aan de initiatiefnemer met een aangetekende brief binnen zestig dagen na de dag dat hij het bezwaarschrift heeft ontvangen.</span>
+§4. Het bezwaarschrift, vermeld in paragraaf 3, is ontvankelijk als het gemotiveerd is en het door de initiatiefnemer aangetekend of tegen ontvangstbewijs bij de administratie wordt ingediend binnen dertig dagen na de dag van de ontvangst van de weigeringsbeslissing. De minister deelt zijn beslissing over het bezwaarschrift mee aan de initiatiefnemer met een aangetekende brief binnen zestig dagen na de dag dat hij het bezwaarschrift heeft ontvangen.
 
 ### ART 3.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Een woonzorgcentrum of een centrum voor kortverblijf type 1 komt in aanmerking voor infrastructuursubsidies als al de volgende voorwaarden vervuld zijn:</span></span><br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">1° het woonzorgcentrum of het centrum voor kortverblijf type 1 voldoet gedurende het subsidiejaar aan de voorwaarden, vermeld in respectievelijk hoofdstuk 3, afdeling 5, van bijlage 11 en deel 2, hoofdstuk 2, afdeling 5, van bijlage 8;</span><br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">2° de woongelegenheden of de verblijfseenheden waarop de infrastructuursubsidies betrekking hebben, zijn erkend. De infrastructuursubsidies zijn aangevraagd overeenkomstig artikel 2 en de woongelegenheden of de verblijfseenheden zijn tijdig in gebruik genomen conform artikel 2, paragraaf 3;</span><br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">3° de woongelegenheden of de verblijfseenheden waarop de infrastructuursubsidies betrekking hebben, zijn het laatst voorlopig erkend, op zijn vroegst met ingang van 1 januari 2016, waarbij de verlenging van een voorlopige erkenning niet als nieuwe voorlopige erkenning geldt;</span><br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">4° voor de realisatie van de woongelegenheden of de verblijfseenheden die zijn opgenomen in de voorafgaande vergunning en waarop de infrastructuursubsidies betrekking hebben, is een stedenbouwkundige vergunning&nbsp;of een omgevingsvergunning voor stedenbouwkundige handelingen vereist;</span><br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">5° het maximaal te verkrijgen subsidiebedrag wordt door het woonzorgcentrum of het centrum voor kortverblijf type 1 op zichtbare wijze in mindering gebracht op de maandelijkse factuur van de bewoner voor elke dag waarvoor de dagprijs wordt aangerekend, vanaf de eerste dag van de toekenning van de infrastructuursubsidies. De minister kan louter praktische schikkingen betreffende de aanrekening nemen;</span><br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">6° de woongelegenheden of de verblijfseenheden waarop de infrastructuursubsidies betrekking hebben, zijn in de vijfentwintig jaar die voorafgaan aan de voorlopige erkenning, vermeld in punt 3°, niet het voorwerp geweest van subsidies, als vermeld in het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden. Aan die voorwaarde is voldaan als de subsidies, verleend voor de woongelegenheden of de verblijfseenheden, volledig zijn teruggestort of niet teruggestort hoefden te worden na uitdrukkelijke en voorafgaande toestemming van de minister, verleend conform artikel 87, eerste lid, van het besluit van de Vlaamse Regering van 18 maart 2011 tot regeling van de alternatieve investeringssubsidies, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, of artikel 41, §2, eerste lid, van het besluit van de Vlaamse Regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden, of als de subsidies uitsluitend zijn verleend om brandveiligheidswerkzaamheden aan de woongelegenheden of de verblijfseenheden uit te voeren;</span><br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">7° het woonzorgcentrum of het centrum voor kortverblijf type 1 dient uiterlijk vier maanden vóór de datum vanaf wanneer de infrastructuursubsidies &nbsp;worden toegekend of, in voorkomend geval, vanaf wanneer het maximaal te verkrijgen subsidiebedrag in mindering wordt gebracht op de maandelijkse factuur van de bewoner, voor elke bepaling of verhoging van de dagprijs voor de woongelegenheden in het woonzorgcentrum of de verblijfseenheden in het centrum voor kortverblijf type 1 waarop de infrastructuursubsidies betrekking hebben, een &nbsp; aanvraag in bij het agentschap conform artikel 6, §4, van het ministerieel besluit van 12 augustus 2005 houdende bijzondere bepalingen inzake prijzen voor de sector van de instellingen voor bejaardenopvang.</span><br>
+Een woonzorgcentrum of een centrum voor kortverblijf type 1 komt in aanmerking voor infrastructuursubsidies als al de volgende voorwaarden vervuld zijn:<br>
+1° het woonzorgcentrum of het centrum voor kortverblijf type 1 voldoet gedurende het subsidiejaar aan de voorwaarden, vermeld in respectievelijk hoofdstuk 3, afdeling 5, van bijlage 11 en deel 2, hoofdstuk 2, afdeling 5, van bijlage 8;<br>
+2° de woongelegenheden of de verblijfseenheden waarop de infrastructuursubsidies betrekking hebben, zijn erkend. De infrastructuursubsidies zijn aangevraagd overeenkomstig artikel 2 en de woongelegenheden of de verblijfseenheden zijn tijdig in gebruik genomen conform artikel 2, paragraaf 3;<br>
+3° de woongelegenheden of de verblijfseenheden waarop de infrastructuursubsidies betrekking hebben, zijn het laatst voorlopig erkend, op zijn vroegst met ingang van 1 januari 2016, waarbij de verlenging van een voorlopige erkenning niet als nieuwe voorlopige erkenning geldt;<br>
+4° voor de realisatie van de woongelegenheden of de verblijfseenheden die zijn opgenomen in de voorafgaande vergunning en waarop de infrastructuursubsidies betrekking hebben, is een stedenbouwkundige vergunning&nbsp;of een omgevingsvergunning voor stedenbouwkundige handelingen vereist;<br>
+5° het maximaal te verkrijgen subsidiebedrag wordt door het woonzorgcentrum of het centrum voor kortverblijf type 1 op zichtbare wijze in mindering gebracht op de maandelijkse factuur van de bewoner voor elke dag waarvoor de dagprijs wordt aangerekend, vanaf de eerste dag van de toekenning van de infrastructuursubsidies. De minister kan louter praktische schikkingen betreffende de aanrekening nemen;<br>
+6° de woongelegenheden of de verblijfseenheden waarop de infrastructuursubsidies betrekking hebben, zijn in de vijfentwintig jaar die voorafgaan aan de voorlopige erkenning, vermeld in punt 3°, niet het voorwerp geweest van subsidies, als vermeld in het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden. Aan die voorwaarde is voldaan als de subsidies, verleend voor de woongelegenheden of de verblijfseenheden, volledig zijn teruggestort of niet teruggestort hoefden te worden na uitdrukkelijke en voorafgaande toestemming van de minister, verleend conform artikel 87, eerste lid, van het besluit van de Vlaamse Regering van 18 maart 2011 tot regeling van de alternatieve investeringssubsidies, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, of artikel 41, §2, eerste lid, van het besluit van de Vlaamse Regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden, of als de subsidies uitsluitend zijn verleend om brandveiligheidswerkzaamheden aan de woongelegenheden of de verblijfseenheden uit te voeren;<br>
+7° het woonzorgcentrum of het centrum voor kortverblijf type 1 dient uiterlijk vier maanden vóór de datum vanaf wanneer de infrastructuursubsidies &nbsp;worden toegekend of, in voorkomend geval, vanaf wanneer het maximaal te verkrijgen subsidiebedrag in mindering wordt gebracht op de maandelijkse factuur van de bewoner, voor elke bepaling of verhoging van de dagprijs voor de woongelegenheden in het woonzorgcentrum of de verblijfseenheden in het centrum voor kortverblijf type 1 waarop de infrastructuursubsidies betrekking hebben, een &nbsp; aanvraag in bij de administratie conform artikel 6, §4, van het ministerieel besluit van 12 augustus 2005 houdende bijzondere bepalingen inzake prijzen voor de sector van de instellingen voor bejaardenopvang.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">In afwijking van het eerste lid, 4°, kan, als voor de realisatie van de woongelegenheden of de verblijfseenheden geen stedenbouwkundige vergunning&nbsp;of een omgevingsvergunning voor stedenbouwkundige handelingen vereist is, een woonzorgcentrum of een centrum voor kortverblijf type 1 in aanmerking komen voor infrastructuursubsidies in een van de volgende gevallen:</span><br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">1° uit de aanvraag van de voorafgaande vergunning blijkt dat voor die realisatie verbouwingswerken nodig zijn om de woongelegenheden of de verblijfseenheden te laten beantwoorden aan een van de volgende voorwaarden:<br>
-&nbsp;&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">a) de voorwaarden, vermeld in artikel 54 tot en met 56 van bijlage 11, als het bevel tot aanvang van de werken op zijn vroegst vanaf 1 januari 2017 gegeven wordt</span><br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">&nbsp; b) de voorwaarden, vermeld in artikel 53 of artikel 54 tot en met 56 van bijlage 11, als het bevel tot aanvang van de werken uiterlijk op 31 december 2016 gegeven wordt;</span><br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">2° de infrastructuur is oorspronkelijk gebouwd voor een gebruik als erkende assistentiewoning of is oorspronkelijk voorafgaande vergund en gebouwd voor een gebruik als een erkende verblijfseenheid in een centrum voor herstelverblijf. Uit de aanvraag van de voorafgaande vergunning blijkt dat voor de realisatie van de woongelegenheden of de verblijfseenheden, erkende assistentiewoningen of erkende verblijfseenheden in een centrum voor herstelverblijf worden herbestemd, waarbij werken moeten worden uitgevoerd om die woongelegenheden of verblijfseenheden te laten beantwoorden aan de voorwaarden, vermeld in artikel 59 tot en met 61 van bijlage 11;</span><br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">3° de infrastructuur is oorspronkelijk voorafgaand vergund en gebouwd&nbsp; voor een gebruik als een erkende woongelegenheid in een woonzorgcentrum of als een erkende verblijfseenheid in een centrum voor kortverblijf type 1, maar is met een voorafgaande vergunning of een erkenning tijdelijk in gebruik genomen als erkende assistentiewoning of erkende verblijfseenheid in een centrum voor herstelverblijf. De woongelegenheden of verblijfseenheden die worden uitgebaat als erkende assistentiewoningen of als erkende verblijfseenheden in een centrum voor herstelverblijf, worden met een voorafgaande vergunning herbestemd als woongelegenheden in een woonzorgcentrum of verblijfseenheden in een centrum voor kortverblijf type 1, ongeacht of die herbestemming gepaard gaat met werken, en ze beantwoorden aan de volgende voorwaarden:<br>
-&nbsp;&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">a) de woongelegenheden of de verblijfseenheden zijn het voorwerp van een voorafgaande vergunning voor woongelegenheden in een &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; woonzorgcentrum of voor verblijfseenheden in een centrum voor kortverblijf type 1;<br>
-&nbsp;&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">b) de woongelegenheden of de verblijfseenheden zijn gerealiseerd&nbsp; conform de voorwaarden, vermeld in artikel 58 of artikel 59 tot en met 61 van bijlage 11, naargelang de stedenbouwkundige vergunning of een omgevingsvergunning voor stedenbouwkundige handelingen voor realisatie ervan is uiterlijk op 31 december 2016 aangevraagd of op zijn vroegst vanaf 1 januari 2017.</span>
+In afwijking van het eerste lid, 4°, kan, als voor de realisatie van de woongelegenheden of de verblijfseenheden geen stedenbouwkundige vergunning&nbsp;of een omgevingsvergunning voor stedenbouwkundige handelingen vereist is, een woonzorgcentrum of een centrum voor kortverblijf type 1 in aanmerking komen voor infrastructuursubsidies in een van de volgende gevallen:<br>
+1° uit de aanvraag van de voorafgaande vergunning blijkt dat voor die realisatie verbouwingswerken nodig zijn om de woongelegenheden of de verblijfseenheden te laten beantwoorden aan een van de volgende voorwaarden:<br>
+&nbsp;&nbsp;a) de voorwaarden, vermeld in artikel 54 tot en met 56 van bijlage 11, als het bevel tot aanvang van de werken op zijn vroegst vanaf 1 januari 2017 gegeven wordt<br>
+&nbsp; b) de voorwaarden, vermeld in artikel 53 of artikel 54 tot en met 56 van bijlage 11, als het bevel tot aanvang van de werken uiterlijk op 31 december 2016 gegeven wordt;<br>
+2° de infrastructuur is oorspronkelijk gebouwd voor een gebruik als erkende assistentiewoning of is oorspronkelijk voorafgaande vergund en gebouwd voor een gebruik als een erkende verblijfseenheid in een centrum voor herstelverblijf. Uit de aanvraag van de voorafgaande vergunning blijkt dat voor de realisatie van de woongelegenheden of de verblijfseenheden, erkende assistentiewoningen of erkende verblijfseenheden in een centrum voor herstelverblijf worden herbestemd, waarbij werken moeten worden uitgevoerd om die woongelegenheden of verblijfseenheden te laten beantwoorden aan de voorwaarden, vermeld in artikel 59 tot en met 61 van bijlage 11;<br>
+3° de infrastructuur is oorspronkelijk voorafgaand vergund en gebouwd&nbsp; voor een gebruik als een erkende woongelegenheid in een woonzorgcentrum of als een erkende verblijfseenheid in een centrum voor kortverblijf type 1, maar is met een voorafgaande vergunning of een erkenning tijdelijk in gebruik genomen als erkende assistentiewoning of erkende verblijfseenheid in een centrum voor herstelverblijf. De woongelegenheden of verblijfseenheden die worden uitgebaat als erkende assistentiewoningen of als erkende verblijfseenheden in een centrum voor herstelverblijf, worden met een voorafgaande vergunning herbestemd als woongelegenheden in een woonzorgcentrum of verblijfseenheden in een centrum voor kortverblijf type 1, ongeacht of die herbestemming gepaard gaat met werken, en ze beantwoorden aan de volgende voorwaarden:<br>
+&nbsp;&nbsp;a) de woongelegenheden of de verblijfseenheden zijn het voorwerp van een voorafgaande vergunning voor woongelegenheden in een &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; woonzorgcentrum of voor verblijfseenheden in een centrum voor kortverblijf type 1;<br>
+&nbsp;&nbsp;b) de woongelegenheden of de verblijfseenheden zijn gerealiseerd&nbsp; conform de voorwaarden, vermeld in artikel 58 of artikel 59 tot en met 61 van bijlage 11, naargelang de stedenbouwkundige vergunning of een omgevingsvergunning voor stedenbouwkundige handelingen voor realisatie ervan is uiterlijk op 31 december 2016 aangevraagd of op zijn vroegst vanaf 1 januari 2017.
 
 ### ART 4.
 
@@ -6856,13 +6862,13 @@ De minister doet een oproep om aanvragen in te dienen voor:</span></span><br>
 
 ### ART 5.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. Het subsidiebedrag dat is vastgesteld conform artikel 4, wordt bij de eerste uitkering in een of meer betalingen uitgekeerd voor het einde van het subsidiejaar voor de voorlopige erkenningen die ingaan in het laatste kwartaal van het jaar dat voorafgaat aan het subsidiejaar of in de eerste drie kwartalen van het subsidiejaar.</span></span><br>
+§1. Het subsidiebedrag dat is vastgesteld conform artikel 4, wordt bij de eerste uitkering in een of meer betalingen uitgekeerd voor het einde van het subsidiejaar voor de voorlopige erkenningen die ingaan in het laatste kwartaal van het jaar dat voorafgaat aan het subsidiejaar of in de eerste drie kwartalen van het subsidiejaar.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">Het subsidiebedrag dat is vastgesteld conform artikel 4, wordt voor de volgende uitkeringen in een of meer betalingen uitgekeerd voor het einde van het subsidiejaar.</span><br>
+Het subsidiebedrag dat is vastgesteld conform artikel 4, wordt voor de volgende uitkeringen in een of meer betalingen uitgekeerd voor het einde van het subsidiejaar.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">§2. Als blijkt dat het woonzorgcentrum of het centrum voor kortverblijf type 1 voor een subsidiejaar betalingen heeft ontvangen voor een hoger bedrag dan het definitieve subsidiebedrag, vordert het agentschap het verschil terug.</span><br>
+§2. Als blijkt dat het woonzorgcentrum of het centrum voor kortverblijf type 1 voor een subsidiejaar betalingen heeft ontvangen voor een hoger bedrag dan het definitieve subsidiebedrag, vordert de administratie het verschil terug.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">Als op het moment van de uitkering van het subsidiebedrag het teruggevorderde bedrag van een voorgaand subsidiejaar nog niet is betaald, wordt dat bedrag in mindering gebracht van het uit te betalen subsidiebedrag.</span>
+Als op het moment van de uitkering van het subsidiebedrag het teruggevorderde bedrag van een voorgaand subsidiejaar nog niet is betaald, wordt dat bedrag in mindering gebracht van het uit te betalen subsidiebedrag.
 
 ### ART 6.
 
@@ -6870,11 +6876,11 @@ De minister doet een oproep om aanvragen in te dienen voor:</span></span><br>
 
 ### ART 7.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">In dit artikel wordt verstaan onder VIPA: het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, opgericht bij het decreet van 2 juni 2006 tot omvorming van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden tot een intern verzelfstandigd agentschap met rechtspersoonlijkheid, en tot wijziging van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden.</span></span><br>
+In dit artikel wordt verstaan onder VIPA: het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, opgericht bij het decreet van 2 juni 2006 tot omvorming van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden tot een intern verzelfstandigd agentschap met rechtspersoonlijkheid, en tot wijziging van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">Voor de toepassing van artikel 3, eerste lid, 6° en artikel 4 deelt het agentschap aan het VIPA de aanvragen van infrastructuursubsidies mee, en de beslissingen over de erkenning, de weigering, de intrekking of de stopzetting van de erkenning van woongelegenheden of verblijfseenheden waarvoor de subsidies zijn aangevraagd of toegekend.</span><br>
+Voor de toepassing van artikel 3, eerste lid, 6° en artikel 4 deelt de administratie aan het VIPA de aanvragen van infrastructuursubsidies mee, en de beslissingen over de erkenning, de weigering, de intrekking of de stopzetting van de erkenning van woongelegenheden of verblijfseenheden waarvoor de subsidies zijn aangevraagd of toegekend.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">Het VIPA bezorgt alle andere informatie die vereist is voor de toepassing van deze bijlage, aan het agentschap.</span>
+Het VIPA bezorgt alle andere informatie die vereist is voor de toepassing van deze bijlage, aan de administratie.
 
 ### ART 8.
 
