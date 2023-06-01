@@ -184,7 +184,7 @@ De maandcommissarissen communiceren niet individueel met derden;<br>
 2° de Commissie van Toezicht voor jeugdinstellingen bezorgt een rapport als bedoeld in punt 1° aan:<br>
 a) de betrokken voorziening voor vrijheidsbenemende opvang van kinderen en jongeren;<br>
 b) het Kinderrechtencommissariaat;<br>
-c) de Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, als bedoeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein;<br>
+c) de afdeling Zorginspectie van het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 d) de erkende cliëntenorganisaties, vermeld in artikel 45/1 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
 e) het cliëntenforum, vermeld in artikel 45/2 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp.<br>
 3° de maandcommissaris zorgt voor een actieve terugkoppeling van de rapporten naar de betrokken kinderen en jongeren in de voorzieningen voor vrijheidsbenemende opvang van kinderen en jongeren.<br>
