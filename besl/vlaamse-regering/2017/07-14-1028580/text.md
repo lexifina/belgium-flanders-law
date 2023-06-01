@@ -24,10 +24,11 @@ Besluit :
 
 In dit besluit wordt verstaan onder:<br>
 1° aanvrager: een rechtspersoon die een erkend ziekenhuis exploiteert en die voor dat ziekenhuis een aanvraag van een strategisch forfait indient;<br>
-2° agentschap Zorg en Gezondheid: het agentschap, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+2° ...;<br>
 3° algemeen ziekenhuis: een ziekenhuis dat geen psychiatrisch, universitair of revalidatieziekenhuis is;<br>
 4° bed of plaats: een bed of plaats in een algemeen of universitair ziekenhuis, inclusief geïsoleerde gespecialiseerde diensten voor behandeling en revalidatie (kenletter Sp) en geïsoleerde geriatriediensten (kenletter G), een plaats in dagopname of een bed of plaats in een psychiatrisch ziekenhuis;<br>
 5° besluit van 14 juli 2017: het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de subsidiëring van infrastructuur van ziekenhuizen;<br>
+5°/1 departement: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 6° revalidatieziekenhuis: een zorgvoorziening voor gezondheidszorg als vermeld in artikel 5, § 1, I, eerste lid, 3° en 4°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waarin passende zorg wordt aangeboden aan patiënten van wie de gezondheidstoestand de opname of het verblijf vereisen, met als doel de gezondheidstoestand te herstellen of te verbeteren door de ziekte te bestrijden of de patiënt te revalideren;<br>
 7° coördinatiecommissie: de commissie, vermeld in artikel 12 van dit besluit;<br>
 8° eenheid: een operatiezaal met inbegrip van het lokaal voor sterilisatie en de ontwaakzaal, een bed voor intensieve verzorging binnen de functie intensieve zorgen, het verloskwartier, de functie van lokale neonatale zorg (N*-functie), een bed in een dienst voor intensieve neonatologie (NIC-dienst), een bunker in een dienst Radiotherapie of een post van een centrum voor de behandeling van chronische nierinsufficiëntie;<br>
@@ -159,7 +160,7 @@ b) op het niveau van de site of de sites: globale schetsen waarop al de volgende
 2) de ligging van de verschillende diensten van het ziekenhuis, en de onderlinge samenhang tussen de diensten;<br>
 3) een analyse van de bewoners-, bezoekers-, personeels- en goederenstromen;<br>
 6° een verslag van het voortraject dat de aanvrager doorlopen heeft:<br>
-a) een overzicht van het gevolg dat is gegeven aan de opmerkingen uit de voorafgaande besprekingen met het Fonds en met het agentschap Zorg en Gezondheid;<br>
+a) een overzicht van het gevolg dat is gegeven aan de opmerkingen uit de voorafgaande besprekingen met het Fonds en met het departement;<br>
 b) een verslag van de besprekingen over het masterplan en het project met de interne belanghebbenden van de aanvrager, zoals personeel en patiënten;<br>
 7° een conceptnota met het functionele en architecturale concept van het project: een beschrijving van het architecturale en functionele concept, onder meer een beschrijving van de toegang en circulatie, de functionele opdeling in publieke en private delen, de flexibiliteit van het concept, de mogelijke uitbreidingsmogelijkheden en de fasering van de werkzaamheden;<br>
 8° de plannen van het project:<br>
@@ -208,7 +209,7 @@ De aanvraag van een akkoord strategisch forfait, vermeld in het eerste lid, beva
 Het Fonds stuurt binnen veertien dagen na de ontvangst van de aanvraag een ontvangstbewijs naar de aanvrager, met de vermelding of de aanvraag al dan niet ontvankelijk is en, in voorkomend geval, met de vermelding van de datum van ontvangst van de ontvankelijke aanvraag. Een aanvraag is ontvankelijk als ze voldoet aan de formele vereisten, vermeld in het eerste lid.<br>
 <br>
 § 2. Het Fonds vraagt binnen veertien dagen na de datum van de ontvangst van de ontvankelijke aanvraag advies aan:<br>
-1° het agentschap Zorg en Gezondheid over de inhoudelijke aspecten, onder meer over:<br>
+1° het departement over de inhoudelijke aspecten, onder meer over:<br>
 a) de erkenningsnormen;<br>
 b) de kwaliteitsvereisten;<br>
 c) de programmatie;<br>
@@ -221,11 +222,11 @@ b) over het beantwoorden aan de bouwtechnische en bouwfysische normen, over de t
 c) over de controle van de verwantschapsband, vermeld in artikel 3, eerste lid, en artikel 4 van dit besluit;<br>
 d) over het beantwoorden aan de voorwaarden, vermeld in artikel 5, § 2, van het besluit van 14 juli 2017.<br>
 <br>
-§ 3. Het agentschap en de personeelsleden, vermeld in paragraaf 2, kunnen aanvullende inlichtingen vragen aan de aanvrager. Ze bezorgen hun advies aan het Fonds binnen zestig dagen na de ontvangst van de adviesvraag.
+§ 3. Het departement en de personeelsleden, vermeld in paragraaf 2, kunnen aanvullende inlichtingen vragen aan de aanvrager. Ze bezorgen hun advies aan het Fonds binnen zestig dagen na de ontvangst van de adviesvraag.
 
 ### ART 12.
 
-Het Fonds roept minstens tweemaandelijks een coördinatiecommissie samen. Die coördinatiecommissie is samengesteld uit de vertegenwoordigers van het Fonds en van het agentschap Zorg en Gezondheid. De Inspectie van Financiën wordt op elke vergadering van de coördinatiecommissie uitgenodigd. De adviezen die zijn uitgebracht conform artikel 11, § 2 en § 3, worden op de agenda van de eerstvolgende vergadering van de coördinatiecommissie geplaatst.<br>
+Het Fonds roept minstens tweemaandelijks een coördinatiecommissie samen. Die coördinatiecommissie is samengesteld uit de vertegenwoordigers van het Fonds en van het departement. De Inspectie van Financiën wordt op elke vergadering van de coördinatiecommissie uitgenodigd. De adviezen die zijn uitgebracht conform artikel 11, § 2 en § 3, worden op de agenda van de eerstvolgende vergadering van de coördinatiecommissie geplaatst.<br>
 <br>
 De coördinatiecommissie heeft tot taak in overleg een advies op te maken over de goedkeuring van het masterplan en over het verlenen van een akkoord strategisch forfait of een voorlopig akkoord strategisch forfait, en dat advies aan de minister te bezorgen.<br>
 <br>
@@ -410,7 +411,7 @@ Het gesubsidieerde goed moet als een goede huisvader beheerd en onderhouden word
 
 ### ART 26.
 
-De aanvrager bezorgt de aanvraag, de informatie of de stukken, met inbegrip van plannen, op elektronische wijze aan het Fonds of aan het agentschap Zorg en Gezondheid. Bijkomend worden plannen in tweevoud bezorgd op papier.
+De aanvrager bezorgt de aanvraag, de informatie of de stukken, met inbegrip van plannen, op elektronische wijze aan het Fonds of aan het departement. Bijkomend worden plannen in tweevoud bezorgd op papier.
 
 ## HOOFDSTUK 3 Procedureregels voor het instandhoudingsforfait
 
