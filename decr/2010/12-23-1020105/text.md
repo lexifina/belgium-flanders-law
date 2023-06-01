@@ -13,7 +13,7 @@ De rechtenverkenner laat de burger toe een gepersonaliseerd overzicht van releva
 <br>
 Het verwerken van persoonsgegevens moet gebeuren met inachtneming van de geldende bepalingen betreffende de bescherming van de persoonlijke levenssfeer. De burger moet zijn toestemming geven voor het ophalen en verwerken van de nodige persoonsgegevens. Deze gegevensinzameling is beperkt tot gegevens nodig om uit te maken of de burger voldoet aan de voorwaarden van de verschillende rechten. De rechtenverkenner mag deze persoonsgegevens niet langer bewaren dan nodig voor de opmaak van een gepersonaliseerd rechtenoverzicht.<br>
 <br>
-Het Departement Welzijn, Volksgezondheid en Gezin, afdeling Welzijn en Samenleving, is verantwoordelijk voor de uitbouw van de rechtenverkenner.<br>
+Het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, is verantwoordelijk voor de uitbouw van de rechtenverkenner.<br>
 &nbsp;
 
 ### ART. 3.
