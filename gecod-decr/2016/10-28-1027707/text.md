@@ -521,7 +521,7 @@ Voor de berekening van die subsidie komen de regelmatige leerlingen die op 1 feb
 &nbsp;<br>
 §5. Voor 1 juli legt het Koninklijk Werk IBIS de begroting voor haar internaatswerking van het volgende jaar ter goedkeuring voor aan de Vlaamse Regering. Die begroting moet in evenwicht zijn. Voor 31 maart wordt de rekening van het voorgaande jaar ter goedkeuring voorgelegd.<br>
 <br>
-§ 6. De Zorginspectie, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein, en de onderwijsinspectie, vermeld in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, zijn samen bevoegd voor de controle op de kwaliteit van de opdracht, vermeld in paragraaf 1.
+§ 6. De afdeling Zorginspectie van het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, en de onderwijsinspectie, vermeld in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, zijn samen bevoegd voor de controle op de kwaliteit van de opdracht, vermeld in paragraaf 1.
 
 ## Afdeling 3 [... (opgeh. decr. 16 juni 2023, art. 137, I: 1 september 2023)]
 
@@ -681,7 +681,7 @@ Ongeacht het aantal interne leerlingen bedraagt het urenpakket na de aftrek, zoa
 
 ### ART III.30/1.
 
-De Zorginspectie, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein, en de onderwijsinspectie, vermeld in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, zijn samen bevoegd voor de controle op de kwaliteit van de internaten buitengewoon onderwijs.
+De afdeling Zorginspectie van het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, en de onderwijsinspectie, vermeld in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, zijn samen bevoegd voor de controle op de kwaliteit van de internaten buitengewoon onderwijs.
 
 ## Onderafdeling 3 [... (opgeh. decr. 16 juni 2023, art. 138, I: 1 september 2023)]
 
@@ -761,7 +761,7 @@ Het Agentschap voor Onderwijsdiensten betaalt de salaristoelage rechtstreeks aan
 
 De Vlaamse Regering bepaalt de regelen inzake de inrichting en de organisatie van een internaat van het gemeenschapsonderwijs, dat inzonderheid kan instaan voor de opname van jongeren in het kader van de hulp- en bijstandsregeling, en dat als zodanig is gelijkgesteld met een in het kader van de bijzondere jeugdzorg erkende voorziening.<br>
 <br>
-De Zorginspectie, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein, en de onderwijsinspectie, vermeld in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, zijn samen bevoegd voor de controle op de kwaliteit.
+De afdeling Zorginspectie van het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, en de onderwijsinspectie, vermeld in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, zijn samen bevoegd voor de controle op de kwaliteit.
 
 ## Hoofdstuk 6 [... (opgeh. decr. 16 juni 2023, art. 142, I: 1 september 2023)]
 
@@ -775,7 +775,7 @@ De Vlaamse Regering bepaalt de organisatie van en de ambten, de bekwaamheidsbewi
 <br>
 De Vlaamse Regering garandeert een personeelskader dat minimaal nodig is om verblijf en begeleiding te voorzien. De Vlaamse Regering stelt jaarlijks minimaal 7515 uren voor opvoedend hulppersoneel, paramedisch en sociaal personeel, psychologisch en medisch personeel, administratief personeel en minimaal 350.000 euro werkingsbudget ter beschikking voor een capaciteit van 265 plaatsen verblijf en begeleiding als vermeld in het tweede lid en sluit daartoe beheersovereenkomsten af met de scholengroep van de in het eerste lid vermelde instituten en internaten.<br>
 &nbsp;<br>
-De Zorginspectie, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein,&nbsp;en de onderwijsinspectie zoals bedoeld in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs zijn gezamenlijk bevoegd voor de controle op de kwaliteit van het verblijf en de begeleiding, als vermeld in het tweede lid.
+De afdeling Zorginspectie van het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie,&nbsp;en de onderwijsinspectie zoals bedoeld in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs zijn gezamenlijk bevoegd voor de controle op de kwaliteit van het verblijf en de begeleiding, als vermeld in het tweede lid.
 
 ### ART III.39.
 
