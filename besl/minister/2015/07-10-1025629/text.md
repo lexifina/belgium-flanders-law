@@ -6,7 +6,7 @@
 
 ### ART. 1.
 
-De   administrateur-generaal van het intern verzelfstandigd agentschap Zorg en   Gezondheid, of zijn gedelegeerde, is gemachtigd om te beslissen over de   aanvragen van dagverzorgingscentra, centra voor kortverblijf, groepen van   assistentiewoningen, woonzorgcentra en rust- en verzorgingstehuizen tot   prijsverhogingen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+De secretaris-generaal van het Departement Zorg, of zijn gedelegeerde, is gemachtigd om te beslissen over de aanvragen van dagverzorgingscentra, centra voor kortverblijf, groepen van assistentiewoningen, woonzorgcentra en rust- en verzorgingstehuizen tot prijsverhogingen.
 
 ### ART. 2.
 
