@@ -683,7 +683,7 @@ c) het Departement Mobiliteit en Openbare Werken als:<br>
 - het voorgenomen project aanzienlijke effecten zou kunnen hebben op de mobiliteit;<br>
 d) de Openbare Vlaamse Afvalstoffenmaatschappij (OVAM) als:<br>
 - voor het voorgenomen project een mogelijke impact zou kunnen hebben op gronden waarop volgens het Grondeninformatieregister van de OVAM een oriënterend bodemonderzoeken werd uitgevoerd met als conclusie dat verdere maatregelen voor de behandeling van de bodemverontreiniging noodzakelijk zijn of een beschrijvend bodemonderzoek werd uitgevoerd;<br>
-e) het agentschap Zorg en Gezondheid als:<br>
+e) het Departement Zorg als:<br>
 - het voorgenomen project aanzienlijke effecten zou kunnen hebben op de gezondheid van de mens;<br>
 f) het Agentschap Onroerend Erfgoed als:<br>
 - het voorgenomen project aanzienlijke effecten zou kunnen hebben op het landschap, de stoffelijke goederen of het cultureel erfgoed, met inbegrip van het architectonisch en archeologisch erfgoed;<br>
