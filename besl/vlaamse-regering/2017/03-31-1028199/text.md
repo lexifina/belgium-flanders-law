@@ -31,7 +31,7 @@ Besluit :
 In dit besluit wordt verstaan onder:<br>
 1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 2° besluit van 28 maart 2014: het besluit van de Vlaamse Regering van 28 maart 2014 tot uitvoering van het decreet van 29 november 2013 houdende de organisatie van preventieve gezinsondersteuning;<br>
-3° departement: het Departement Welzijn, Volksgezondheid en Gezin;<br>
+3° departement: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 4° organisator: een feitelijke vereniging of een rechtspersoon, al dan niet in de vorm van een samenwerkingsverband.
 
 ## HOOFDSTUK 2 Subsidiëring
@@ -135,7 +135,7 @@ Ieder jaar wordt geëvalueerd of de inspanningsverbintenissen conform de aanvraa
 <br>
 Het agentschap en het departement bespreken het resultaat van de evaluatie, vermeld in het eerste en tweede lid, met de betrokken organisator. Op basis van die bespreking en, in voorkomend geval, op basis van de bevindingen van Zorginspectie kan het agentschap, in voorkomend geval, gebruikmaken van een van de handhavingsinstrumenten, vermeld in artikel 76 tot en met 80 van het besluit van 28 maart 2014.<br>
 <br>
-In het derde lid wordt verstaan onder Zorginspectie: Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.
+In het derde lid wordt verstaan onder Zorginspectie: Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.
 
 ## HOOFDSTUK 4 Procedures voor de subsidiëring
 
