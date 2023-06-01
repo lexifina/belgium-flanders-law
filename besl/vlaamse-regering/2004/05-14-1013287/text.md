@@ -12,8 +12,8 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br>
 5° universitair ziekenhuis: een ziekenhuis, als vermeld in artikel 4 van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen;<br>
 6° kwaliteitshandboek: het kwaliteitshandboek, bedoeld in artikel 5, § 4, van het decreet;<br>
 7° de minister: de Vlaamse minister, bevoegd voor het Gezondheidsbeleid;<br>
-8° de administratie: het intern verzelfstandigd agentschap Zorg en Gezondheid of Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein;<br>
-9° de administrateur-generaal : het hoofd van het intern verzelfstandigd agentschap Zorg en Gezondheid.
+8° de administratie: de functioneel bevoegde afdeling van het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg, of Zorginspectie als vermeld in artikel 4, §2, derde lid, van het voormelde besluit;<br>
+9° secretaris-generaal: het hoofd van de administratie.
 
 ### ART. 2.
 
@@ -21,7 +21,11 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br>
 
 ### ART. 2/1.
 
-De voorziening ontwikkelt een geschreven referentiekader voor seksueel   grensoverschrijdend gedrag ten aanzien van de gebruikers.<BR><BR>De voorziening   hanteert een procedure voor de preventie van, de detectie van en gepaste   reacties op seksueel grensoverschrijdend gedrag ten aanzien van de gebruikers.   In die procedure is een registratiesysteem opgenomen dat geanonimiseerde   gegevens bijhoudt over de gevallen van seksueel grensoverschrijdend gedrag ten   aanzien van de gebruikers.<BR><BR>De voorziening meldt, op een geanonimiseerde   wijze, seksueel grensoverschrijdend gedrag ten aanzien van de gebruikers aan het   agentschap Zorg en Gezondheid;
+De voorziening ontwikkelt een geschreven referentiekader voor seksueel grensoverschrijdend gedrag ten aanzien van de gebruikers.<br>
+<br>
+De voorziening hanteert een procedure voor de preventie van, de detectie van en gepaste reacties op seksueel grensoverschrijdend gedrag ten aanzien van de gebruikers. In die procedure is een registratiesysteem opgenomen dat geanonimiseerde gegevens bijhoudt over de gevallen van seksueel grensoverschrijdend gedrag ten aanzien van de gebruikers.<br>
+<br>
+De voorziening meldt, op een geanonimiseerde wijze, seksueel grensoverschrijdend gedrag ten aanzien van de gebruikers aan het Departement Zorg;
 
 ## HOOFDSTUK II KWALITEITSMANAGEMENTSYSTEEM
 
@@ -41,7 +45,15 @@ In het kwaliteitshandboek wordt een lijst van gangbare procedures in de voorzien
 
 ### ART. 6.
 
-§ 1. Ter uitvoering van artikel 6, § 2, van het decreet kan de administrateur-generaal op basis van beschikbare data, informatie inzake klinische performantie selecteren en terugkoppelen naar de voorziening.<br /><br />Iedere voorziening dient de eigen situatie ten opzichte van de teruggekoppelde informatie te onderzoeken. Indien nodig moeten verbeteracties worden opgezet.<br /><br />§ 2. Onverminderd het bepaalde in § 1 moet iedere voorziening, op basis van een sterkte-zwakteanalyse, minimaal één domein binnen de klinische zorg selecteren voor het uitwerken van verbeteracties.<br /><br />Bij de selectie van indicatoren wordt bij voorkeur gebruikgemaakt van de kernset van klinische performantie-indicatoren, die speciaal hiervoor door de administrateur-generaal ter beschikking van de voorziening wordt gesteld.<br /><br />§ 3. De administrateur-generaal kan de voorziening uitnodigen om te participeren aan studies over specifieke aspecten inzake klinische zorg.
+§ 1. Ter uitvoering van artikel 6, § 2, van het decreet kan de secretaris-generaal op basis van beschikbare data, informatie inzake klinische performantie selecteren en terugkoppelen naar de voorziening.<br>
+<br>
+Iedere voorziening dient de eigen situatie ten opzichte van de teruggekoppelde informatie te onderzoeken. Indien nodig moeten verbeteracties worden opgezet.<br>
+<br>
+§ 2. Onverminderd het bepaalde in § 1 moet iedere voorziening, op basis van een sterkte-zwakteanalyse, minimaal één domein binnen de klinische zorg selecteren voor het uitwerken van verbeteracties.<br>
+<br>
+Bij de selectie van indicatoren wordt bij voorkeur gebruikgemaakt van de kernset van klinische performantie-indicatoren, die speciaal hiervoor door de secretaris-generaal ter beschikking van de voorziening wordt gesteld.<br>
+<br>
+§ 3. De secretaris-generaal kan de voorziening uitnodigen om te participeren aan studies over specifieke aspecten inzake klinische zorg.
 
 ## HOOFDSTUK IV TOEZICHT EN EVALUATIE
 
