@@ -298,7 +298,7 @@ Tijdens voormelde periode van 3 jaar komt het personeelslid dat voormelde afwijk
 
 ### ART. 19.
 
-[§ 1. De kandidaten voor een tijdelijke aanstelling moeten zich bij de scholengroep kandidaat stellen vóór  <span class="reference">(verv. decr. 18 mei 1999, art. 12, I: 1 januari 2000)</span> ] [15 juni.  <span class="reference">(verv. decr. 14 februari 2003, art. IX. 5, I: 1 mei 2003)</span> ]<br /><br />§ 2. De kandidatuur geldt voor de duur van het schooljaar waarvoor zij werd ingediend.<br /><br />§ 3. Laatstejaarsstudenten kunnen zich kandidaat stellen en voor een aanstelling in aanmerking komen als zij uiterlijk op 15 oktober schriftelijk aan de scholengroep laten weten dat zij aan de aanstellingsvoorwaarden voldoen.  <span class="reference">(verv. decr. 18 mei 1999, art. 12, I: 1 januari 2000)</span> ]
+...
 
 ### ART. 20.
 
@@ -2579,6 +2579,26 @@ De raad van bestuur van de scholengroep waar het personeelslid tijdens het schoo
 <br>
 §3. Onverminderd paragraaf 2, eerste lid, 1°, kan een raad van bestuur ook kandidaten toevoegen aan de lijst of lijsten, vermeld in paragraaf 2, tweede lid, 2°, en in artikel 84duodetricies, §2, 2°, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991, die diensten hebben gepresteerd in een betrekking van ondersteuner vóór het schooljaar 2022-2023, in het tijdelijke project van de prewaarborgregeling of waarborgregeling of in het geïntegreerd onderwijs of het project inclusief onderwijs voor leerlingen met een verstandelijke beperking. De toevoeging van een kandidaat aan deze lijst gebeurt uitsluitend op vraag van de kandidaat zelf.<br>
 &nbsp;
+
+### ART 103undevicies.
+
+§1. Voor de personeelsleden die in het schooljaar 2022-2023 in dienst zijn als contractueel personeelslid in een functie van opvoeder en aangesteld worden in een onderwijsinternaat binnen de omkadering, vermeld in artikel 25 tot en met 28 van het decreet van 16 juni 2023 over de onderwijsinternaten, worden de diensten die gepresteerd zijn als contractueel personeelslid in een functie van opvoeder, beschouwd als dienstanciënniteit als vermeld in artikel 4, 21 en 36. De diensten worden beschouwd alsof ze gepresteerd zijn in het ambt van internaats- medewerker in de personeelscategorie van het ondersteunend personeel in een onderwijsinternaat.<br>
+<br>
+In afwijking van het eerste lid komen de volgende periodes niet in aanmerking voor de berekening van de dienstanciënniteit:<br>
+1°&nbsp;&nbsp; &nbsp;politiek verlof of politiek mandaat;<br>
+2°&nbsp;&nbsp; &nbsp;onbezoldigde ziektedagen;<br>
+3°&nbsp;&nbsp; &nbsp;verlof zonder wedde.<br>
+<br>
+§2. In afwijking van de bepalingen van artikel 21, §3 en §4, heeft het personeels lid, vermeld in paragraaf 1, op 1 september 2023 recht op een tijdelijke aanstelling van doorlopende duur als het personeelslid voldoet aan de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;het personeelslid wordt op 1 september 2023 aangesteld in een onderwijs- internaat binnen de omkadering, vermeld in artikel 25 tot en met 28 van het decreet van 16 juni 2023 over de onderwijsinternaten;<br>
+2° het personeelslid heeft op 1 september 2023 een dienstanciënniteit verworven van 290 dagen;<br>
+3° het personeelslid stelt zich, om een beroep te doen op het recht op een tijdelijke aanstelling van doorlopende duur, op straffe van verlies van zijn recht voor het volgende schooljaar, voor 15 augustus 2023 kandidaat bij de raad van bestuur. Het personeelslid kan dat naar keuze doen met een aangetekende brief of op een wijze die door het college van directeurs, na onderhandeling in het bevoegde lokaal comité, wordt vastgelegd en die, wat tegenstelbaarheid betreft, minimaal dezelfde garanties biedt als een aangetekende brief. De raad van bestuur deelt de mogelijkheden van mededeling van kandidaatstelling mee aan alle personeelsleden en maakt die ook openbaar. Als de kandidatuur van het personeelslid aan alle voorwaarden voldoet, vermeld in dit artikel, geldt die vanaf dat ogenblik als een kandidatuur voor dat ambt die over de schooljaren doorloopt.<br>
+<br>
+Voor het bepalen van de dienstanciënniteit, bedoeld in punt 2°, wordt, in afwijking van artikel 4, §1, a), het aantal gepresteerde dagen niet met 1,2 vermenigvuldigd.<br>
+<br>
+§3. In afwijking van artikel 36, eerste lid, 1°, wordt voor het personeelslid, vermeld in paragraaf 1, voor een vaste benoeming op 1 januari 2024 de dienstanciënniteit in het ambt van internaatsmedewerker vastgesteld op 1 september 2023.<br>
+<br>
+§4. Voor de personeelsleden die in het schooljaar 2022-2023 in dienst zijn als contractueel personeelslid en aangesteld worden in een onderwijsinternaat binnen de omkadering, vermeld in artikel 25 tot en met 28 van het decreet van 16 juni 2023 over de onderwijsinternaten wordt de geldelijke anciënniteit die uiterlijk op 31 augustus 2023 door de raad van bestuur was toegekend aan hen als contractueel personeelslid meegenomen.
 
 ### ART. 104.
 
