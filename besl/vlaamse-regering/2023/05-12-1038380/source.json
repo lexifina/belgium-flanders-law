@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038380,
+  "title": "Besluit van de Vlaamse Regering van 2023-05-12 tot wijziging van besluiten van de Vlaamse Regering door de fusie van het Departement Welzijn, Volksgezondheid en Gezin en het intern verzelfstandigd agentschap Zorg en Gezondheid tot het Departement Zorg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038380/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "cb2072201d706645274518d07b02bcff41a00544c38792fc20f7a574338f068c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038380&param=informatie",
+  "as_of": "2023-06-01",
+  "made": "2023-05-12",
+  "gazette": "2023-06-30",
+  "numac": 2023042674,
+  "document_start": "2023-06-01",
+  "document_end": null,
+  "in_force": "2023-06-01",
+  "article_versions": 687,
+  "record_form": "consolidated version as in force on 2023-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
