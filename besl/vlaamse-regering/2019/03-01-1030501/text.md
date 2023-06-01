@@ -47,7 +47,7 @@ In dit besluit wordt verstaan onder:<br>
 4° de gebruikersvereniging toont aan dat ze minimaal 10.000 leden heeft;<br>
 5° de gebruikersvereniging hanteert een kwaliteitskader voor de uitvoering van de opdrachten, vermeld in dit besluit.<br>
 <br>
-De gebruikersvereniging houdt, ter staving van het aantal leden, vermeld in het eerste lid, 4°, een ledenlijst ter beschikking van het agentschap en de Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.<br>
+De gebruikersvereniging houdt, ter staving van het aantal leden, vermeld in het eerste lid, 4°, een ledenlijst ter beschikking van het agentschap en Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.<br>
 <br>
 § 2. Met behoud van de toepassing van paragraaf 1 kan het agentschap een vergunning als gebruikersvereniging met informatieloket voor personen met een handicap toekennen aan een samenwerkingsverband van gebruikersverenigingen die niet voldoen aan de voorwaarde, vermeld in paragraaf 1, eerste lid, 4°.<br>
 <br>
