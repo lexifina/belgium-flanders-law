@@ -58,10 +58,10 @@ b) het Agentschap voor onderwijsdiensten;<br>
 c) het Departement Onderwijs en Vorming;<br>
 d) de Onderwijsinspectie;<br>
 4° het beleidsdomein Welzijn, Volksgezondheid en Gezin:<br>
-a) het Departement Welzijn, Volksgezondheid en Gezin;<br>
+a) het Departement Zorg;<br>
 b) het agentschap Opgroeien;<br>
 c) het agentschap Opgroeien regie;<br>
-d) het agentschap Zorg en Gezondheid;<br>
+d) ...;<br>
 5° het beleidsdomein Cultuur, Jeugd, Sport en Media:<br>
 a) het Departement Cultuur, Jeugd, Sport en Media;<br>
 b) Sport Vlaanderen;<br>

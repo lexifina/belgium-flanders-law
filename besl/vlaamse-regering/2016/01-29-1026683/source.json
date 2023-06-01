@@ -2,16 +2,16 @@
   "codex_id": 1026683,
   "title": "Besluit van de Vlaamse Regering van 2016-01-29 houdende de uitvoering van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026683/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "54773acf6e5b6950f4a4b207c68fc57b8d35250309144be039f6d9ef84277caf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026683/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "9e404924bd4834413a76b17ce17a95bfc795153fc23bf827438525ae976fcd69",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026683&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2023-06-01",
   "made": "2016-01-29",
   "gazette": "2016-04-07",
   "numac": 2016035410,
   "document_start": "2016-02-29",
   "document_end": null,
-  "in_force": "2023-01-01",
+  "in_force": "2023-06-01",
   "article_versions": 110,
-  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
