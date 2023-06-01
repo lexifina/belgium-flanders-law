@@ -4,19 +4,23 @@
 
 De Vlaamse Regering,<br /><br />Gelet op het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden, gewijzigd bij de decreten van 20 december 1996, 16 maart 1999, 17 maart 2006, 2 juni 2006 en 23 juni 2006;<br /><br />Gelet op het kaderdecreet Bestuurlijk Beleid van 18 juli 2003, gewijzigd bij de decreten van 7 mei 2004, 15 juli 2005, 23 juni 2006, 22 december 2006 en 27 april 2007;<br /><br />Gelet op het decreet van 2 juni 2006 tot omvorming van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden tot een intern verzelfstandigd agentschap met rechtspersoonlijkheid, en tot wijziging van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden, gewijzigd bij het decreet van 29 juni 2007;<br /><br />Gelet op het Besluit van de Vlaamse Regering van 6 juli 1994 tot regeling van de werking en het financieel beheer van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, gewijzigd bij de Besluiten van de Vlaamse Regering van 8 juni 1999 en 31 maart 2006;<br /><br />Gelet op het Besluit van de Vlaamse Regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden, inzonderheid op artikel 40, § 2, gewijzigd bij het besluit van de Vlaamse Regering van 30 mei 2008;<br /><br />Gelet op het Besluit van de Vlaamse Regering van 31 maart 2006 betreffende het departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein, gewijzigd bij de besluiten van de Vlaamse Regering van 2 juni 2006, 19 januari 2007 en 19 juli 2007;<br /><br />Gelet op het Besluit van de Vlaamse Regering van 1 september 2006 tot regeling van de alternatieve investeringswaarborg verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, inzonderheid op artikel 19, gewijzigd bij de besluiten van de Vlaamse Regering van 9 februari 2007, 7 september 2007 en 30 mei 2008;<br /><br />Gelet op het besluit van de Vlaamse Regering van 9 februari 2007 tot regeling van de investeringswaarborg voor rusthuizen, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, en tot wijziging van het besluit van de Vlaamse Regering van 1 september 2006 tot regeling van de alternatieve investeringswaarborg verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, inzonderheid op artikel 24, § 4, vervangen bij het Besluit van de Vlaamse Regering van 7 september 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 30 mei 2008,<br /><br />Gelet op het akkoord van de Vlaamse minister, bevoegd voor de Begroting, gegeven op 23 mei 2008;<br /><br />Gelet op advies nr. 44.796/3 van de Raad van State, gegeven op 8 juli 2008, met toepassing van artikel 84, § 1, eerste lid, 1°, van de gecoördineerde wetten op de Raad van State;<br /><br />Op voorstel van de Vlaamse minister van Welzijn, Volksgezondheid en Gezin;<br /><br />Na beraadslaging, <br /><br />Besluit : <br /><br />
 
+### ART 1.
+
+In dit besluit wordt verstaan onder Departement Zorg: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.
+
 ### ART. 1/1.
 
-Het hoofd van het departement Welzijn, Volksgezondheid en Gezin is belast met de algemene leiding, de werking, het beheer en de vertegenwoordiging van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden.<br>
+Het hoofd van het Departement Zorg is belast met de algemene leiding, de werking, het beheer en de vertegenwoordiging van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden.<br>
 &nbsp;
 
 ### ART. 2.
 
-Bij de opdrachten, vermeld in artikel 1, heeft het hoofd van het departement Welzijn, Volksgezondheid en Gezin delegatie van beslissingsbevoegdheid voor de aangelegenheden, vermeld in het besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen.<br>
+Bij de opdrachten, vermeld in artikel 1, heeft het hoofd van het Departement Zorg delegatie van beslissingsbevoegdheid voor de aangelegenheden, vermeld in het besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen.<br>
 &nbsp;
 
 ### ART. 3.
 
-Naast de delegaties, vermeld in artikel 2, krijgt het hoofd van het departement Welzijn, Volksgezondheid en Gezin de volgende aanvullende en specifieke delegaties voor de opdrachten, vermeld in artikel 1 :<br>
+Naast de delegaties, vermeld in artikel 2, krijgt het hoofd van het Departement Zorg de volgende aanvullende en specifieke delegaties voor de opdrachten, vermeld in artikel 1 :<br>
 1° het ondertekenen van de dagelijkse briefwisseling, de nota's, de ambtsberichten en de documenten met betrekking tot het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden;<br>
 2° het ontvangen van de gewone en de aangetekende zendingen, inclusief de dagvaardingen, betekend aan het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden;<br>
 3° het eensluidend verklaren van uittreksels en afschriften van documenten;<br>
@@ -34,7 +38,7 @@ d) het sluiten van een pari-passuregeling met een financier in het kader van de 
 
 ### ART. 4.
 
-Bij het gebruik van de delegaties, vermeld in artikel 2 en 3, gelden de algemene regelingen, voorwaarden en beperkingen, vermeld in het besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen, met inbegrip van de bepalingen over subdelegatie, de regeling bij vervanging en de verantwoording. In afwijking van de bepalingen over subdelegatie kan het hoofd van het departement Welzijn, Volksgezondheid en Gezin de subdelegatie, vermeld in het besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen, verlenen aan personeelsleden van het departement Welzijn, Volksgezondheid en Gezin die onder zijn hiërarchische gezag staan.<br>
+Bij het gebruik van de delegaties, vermeld in artikel 2 en 3, gelden de algemene regelingen, voorwaarden en beperkingen, vermeld in het besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen, met inbegrip van de bepalingen over subdelegatie, de regeling bij vervanging en de verantwoording. In afwijking van de bepalingen over subdelegatie kan het hoofd van het Departement Zorg de subdelegatie, vermeld in het besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen, verlenen aan personeelsleden van het Departement Zorg die onder zijn hiërarchische gezag staan.<br>
 &nbsp;
 
 ### ART. 5.
@@ -43,7 +47,8 @@ De beslissingen die in de uitvoeringsbesluiten van het decreet van 23   februari
 
 ### ART. 6.
 
-Het hoofd van het departement Welzijn, Volksgezondheid en Gezin beslist op welke personeelsleden, uitrusting en installaties van het departement Welzijn, Volksgezondheid en Gezin het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden voor de uitvoering van zijn taken een beroep doet. <br /><br />
+Het hoofd van het Departement Zorg beslist op welke personeelsleden, uitrusting en installaties van het Departement Zorg het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden voor de uitvoering van zijn taken een beroep doet.<br>
+&nbsp;
 
 ### ART. 7.
 
