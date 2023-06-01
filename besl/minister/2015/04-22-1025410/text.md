@@ -6,7 +6,11 @@ De   Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<BR   style="WIDOWS:
 
 ### ART. 1.
 
-De volgende personeelsleden van Zorginspectie van het   Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde   lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het   Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding   van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn,   Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met   betrekking tot dat beleidsdomein, worden aangewezen als arts-inspecteur om het   toezicht, vermeld in artikel 33 van de wet van 26 juni 1990 betreffende de   bescherming van de persoon van de geesteszieke, uit te oefenen:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   mevrouw dr. Anja Claeys, adviseur-arts;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   mevrouw dr. Michaëla Daelemans, directeur-arts;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de heer dr. Koenraad Fierens, directeur-arts;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   de heer dr. Tom Wylin, directeur-arts.
+De volgende personeelsleden van Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg, worden aangewezen als arts-inspecteur om het toezicht, vermeld in artikel 33 van de wet van 26 juni 1990 betreffende de bescherming van de persoon van de geesteszieke, uit te oefenen:<br>
+1° mevrouw dr. Anja Claeys, adviseur-arts;<br>
+2° mevrouw dr. Michaëla Daelemans, directeur-arts;<br>
+3° de heer dr. Koenraad Fierens, directeur-arts;<br>
+4° de heer dr. Tom Wylin, directeur-arts.
 
 ### ART. 2.
 
