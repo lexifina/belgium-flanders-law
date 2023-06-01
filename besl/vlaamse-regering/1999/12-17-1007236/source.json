@@ -2,16 +2,16 @@
   "codex_id": 1007236,
   "title": "Besluit van de Vlaamse Regering van 1999-12-17 ter uitvoering van het decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007236/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "b508b0856c3fe24a7ef80ff0a21a4ed319390f0acafa1bcbfa19a89b26bd7004",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007236/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "31cf1bc945b7e1a5e70cc72e8bb1e54df538fcc00dcc36154c61028114661db0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007236&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2023-06-01",
   "made": "1999-12-17",
   "gazette": "2000-04-20",
   "numac": 2000035349,
   "document_start": "2000-01-01",
   "document_end": null,
-  "in_force": "2014-01-01",
+  "in_force": "2023-06-01",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }

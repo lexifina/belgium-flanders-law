@@ -4,13 +4,20 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° het   decreet: decreet van 18 mei 1999 betreffende de geestelijke   gezondheidszorg;<BR>2° de Vlaamse minister: Vlaamse minister, bevoegd voor het   gezondheidsbeleid;<BR>3° de administratie: het intern verzelfstandigd agentschap   Zorg en Gezondheid;<BR>4° centrum: centrum voor geestelijke gezondheidszorg   zoals bepaald in artikel 2, 1°, van het decreet;<BR>5° ...;<BR>6° ...;<BR>7° de   administrateur-generaal : het hoofd van het intern verzelfstandigd agentschap   Zorg en Gezondheid.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° het decreet: decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg;<br>
+2° de Vlaamse minister: Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
+3° de administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
+4° centrum: centrum voor geestelijke gezondheidszorg zoals bepaald in artikel 2, 1°, van het decreet;<br>
+5° ...;<br>
+6° ...;<br>
+7° secretaris-generaal: het hoofd van de administratie.
 
 ## HOOFDSTUK II OPDRACHTEN EN WERKING
 
 ### ART. 2.
 
-Ter uitvoering van artikel 9, § 2, van het decreet kan de administrateur-generaal convenants sluiten met centra voor een termijn van maximaal 3 jaar.
+Ter uitvoering van artikel 9, § 2, van het decreet kan de secretaris-generaal convenants sluiten met centra voor een termijn van maximaal 3 jaar.
 
 ### ART. 3.
 
@@ -18,7 +25,7 @@ De centra met specifieke aandacht voor de verslavings-problematiek wijzen een pe
 
 ### ART. 4.
 
-De centra rapporteren jaarlijks over de aard en omvang van de aanvullende taken zoals bedoeld in artikel 9, § 4, van het decreet aan de administrateur-generaal.
+De centra rapporteren jaarlijks over de aard en omvang van de aanvullende taken zoals bedoeld in artikel 9, § 4, van het decreet aan de secretaris-generaal.
 
 ## HOOFDSTUK III ERKENNING VAN CENTRA VOOR GEESTELIJKE GEZONDHEIDSZORG
 
@@ -36,11 +43,15 @@ Een centrum kan enkel worden erkend als:<br /><br />1° het daartoe een ontvanke
 
 ### ART. 8.
 
-§ 1. Als de aanvraag niet ontvankelijk is, wordt de reden daarvan binnen 30 dagen na ontvangst van de aanvraag door de administratie schriftelijk aan het centrum bekendgemaakt.<br /><br />§ 2. Bij een ontvankelijke aanvraag wordt binnen vier maanden na de ontvangst van de aanvraag aan het centrum ofwel de gemotiveerde beslissing van de administrateur-generaal tot erkenning of verlenging van de erkenning, ofwel het gemotiveerde voornemen tot weigering van de erkenning of verlenging van de erkenning betekend per aangetekende brief. De brief waarmee het voornemen tot weigering wordt betekend, vermeldt de mogelijkheid en de voorwaarden om een bezwaarschrift in te dienen, zoals bedoeld in artikel 9, § 1.
+§ 1. Als de aanvraag niet ontvankelijk is, wordt de reden daarvan binnen 30 dagen na ontvangst van de aanvraag door de administratie schriftelijk aan het centrum bekendgemaakt.<br>
+<br>
+§ 2. Bij een ontvankelijke aanvraag wordt binnen vier maanden na de ontvangst van de aanvraag aan het centrum ofwel de gemotiveerde beslissing van de secretaris-generaal tot erkenning of verlenging van de erkenning, ofwel het gemotiveerde voornemen tot weigering van de erkenning of verlenging van de erkenning betekend per aangetekende brief. De brief waarmee het voornemen tot weigering wordt betekend, vermeldt de mogelijkheid en de voorwaarden om een bezwaarschrift in te dienen, zoals bedoeld in artikel 9, § 1.
 
 ### ART. 9.
 
-§ 1. De aanvrager kan, tot uiterlijk dertig dagen na ontvangst van het in   artikel 8, § 2 genoemde voornemen, met een aangetekende brief een gemotiveerd   bezwaarschrift, gericht aan de administrateur-generaal, bij de administratie   indienen. Hij kan daarin uitdrukkelijk vragen om gehoord te worden.<BR><BR>§ 2.   ...
+§ 1. De aanvrager kan, tot uiterlijk dertig dagen na ontvangst van het in artikel 8, § 2 genoemde voornemen, met een aangetekende brief een gemotiveerd bezwaarschrift, gericht aan de secretaris-generaal, bij de administratie indienen. Hij kan daarin uitdrukkelijk vragen om gehoord te worden.<br>
+<br>
+§ 2. ...
 
 ### ART. 10.
 
@@ -48,7 +59,9 @@ Een centrum kan enkel worden erkend als:<br /><br />1° het daartoe een ontvanke
 
 ### ART. 11.
 
-§ 1. Indien tegen het voornemen tot weigering geen bezwaarschrift werd ingediend, wordt binnen een maand na het verstrijken van de termijn genoemd in artikel 9, § 1, de gemotiveerde beslissing van de administrateur-generaal per aangetekende brief aan het centrum bezorgd.<br /><br />§ 2. Indien zulks voor de toepassing van artikel 27, § 4, van het decreet vereist is, kan de administrateur-generaal afwijken van de termijn waarbinnen hij zijn beslissingen over de aanvragen moet betekenen, teneinde deze beslissingen gelijktijdig te kunnen nemen. De administrateur-generaal stelt de betrokken centra bij een gemotiveerd schrijven in kennis van zijn voornemen tot afwijking.
+§ 1. Indien tegen het voornemen tot weigering geen bezwaarschrift werd ingediend, wordt binnen een maand na het verstrijken van de termijn genoemd in artikel 9, § 1, de gemotiveerde beslissing van de secretaris-generaal per aangetekende brief aan het centrum bezorgd.<br>
+<br>
+§ 2. Indien zulks voor de toepassing van artikel 27, § 4, van het decreet vereist is, kan de secretaris-generaal afwijken van de termijn waarbinnen hij zijn beslissingen over de aanvragen moet betekenen, teneinde deze beslissingen gelijktijdig te kunnen nemen. De secretaris-generaal stelt de betrokken centra bij een gemotiveerd schrijven in kennis van zijn voornemen tot afwijking.
 
 ### ART. 12.
 
@@ -60,7 +73,7 @@ Als de erkenning of de verlenging van erkenning wordt geweigerd kan het centrum 
 
 ### ART. 14.
 
-Het gemotiveerde voornemen van de administrateur-generaal om de erkenning   in te trekken wordt met een aangetekende brief aan het centrum betekend. Daarin   worden de mogelijkheden en de voorwaarden vermeld om een bezwaarschrift in te   dienen zoals bepaald in artikel 9, § 1. Artikel 10 en 11, § 1, zijn van   overeenkomstige toepassing.
+Het gemotiveerde voornemen van de secretaris-generaal om de erkenning in te trekken wordt met een aangetekende brief aan het centrum betekend. Daarin worden de mogelijkheden en de voorwaarden vermeld om een bezwaarschrift in te dienen zoals bepaald in artikel 9, § 1. Artikel 10 en 11, § 1, zijn van overeenkomstige toepassing.
 
 ### ART. 15.
 
