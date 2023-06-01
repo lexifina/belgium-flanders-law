@@ -91,7 +91,7 @@ e) gebruikersdossier;<br>
 45° verblijf: een aangepaste woon- en leefomgeving onder toezicht en begeleiding;<br>
 46° vereffeningsfonds: een fonds dat minderjarige delictplegers in een bemiddelingsprocedure of binnen een herstelgericht groepsoverleg in staat stelt de mogelijkheid om schade die ze veroorzaakt hebben, te vergoeden bij het slachtoffer. Daarvoor doen ze een wederdienst naar de samenleving, in de vorm van vrijwilligerswerk;<br>
 47° zelfevaluatie: een zelfevaluatie als vermeld in artikel 5, § 3, van het decreet van 17 oktober 2003;<br>
-48° Zorginspectie: de Zorginspectie, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.
+48° Zorginspectie: Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.
 
 ### ART 2.
 
@@ -839,7 +839,7 @@ In afwijking van artikel 64 en 65 kan de administrateur-generaal, na de inrichte
 
 ### ART 67.
 
-Personeelsleden van Zorginspectie bij het Departement Welzijn, Volksgezondheid en Gezin, en voor wat voorzieningen van de categorie 6 betreft ook de onderwijsinspectie, oefenen ter plaatse of op basis van stukken toezicht uit op de naleving van de erkenningsvoorwaarden door de voorzieningen.<br>
+Personeelsleden van Zorginspectie bij het Departement Zorg, en voor wat voorzieningen van de categorie 6 betreft ook de onderwijsinspectie, oefenen ter plaatse of op basis van stukken toezicht uit op de naleving van de erkenningsvoorwaarden door de voorzieningen.<br>
 <br>
 De voorzieningen verlenen hun medewerking aan de uitoefening van het toezicht. Ze bezorgen aan de personeelsleden, vermeld in het eerste lid, op hun eenvoudig verzoek, de stukken die verband houden met de erkenningsaanvraag of de erkenning.
 
