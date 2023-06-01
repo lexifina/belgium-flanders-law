@@ -393,7 +393,7 @@ Bij het beroepschrift, vermeld in artikel 85 van het besluit van 30 november 201
 
 ### ART 34.
 
-Als het administratief beroep onontvankelijk of ongegrond wordt verklaard, bevat de beslissing van de leidend ambtenaar een nieuwe termijn van twee maanden waarin de betrokkene de administratieve geldboete en eventuele verschuldigde premies moet betalen.
+Als het administratief beroep onontvankelijk of ongegrond wordt verklaard, bevat de beslissing van het hoofd van het Departement Zorg een nieuwe termijn van twee maanden waarin de betrokkene de administratieve geldboete en eventuele verschuldigde premies moet betalen.
 
 ### ART 35.
 
@@ -412,7 +412,7 @@ Bij het beroepschrift, vermeld in artikel 119, § 1, eerste lid, van het besluit
 
 ### ART 37.
 
-Als het administratief beroep onontvankelijk of ongegrond wordt verklaard, maant de leidend ambtenaar de betrokkene in zijn beslissing om de niet-betaalde premies te betalen.
+Als het administratief beroep onontvankelijk of ongegrond wordt verklaard, maant het hoofd van het Departement Zorg de betrokkene in zijn beslissing om de niet-betaalde premies te betalen.
 
 ### ART 38.
 
