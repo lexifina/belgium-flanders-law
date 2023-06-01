@@ -6,7 +6,10 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <BR>1° agentschap : het Vlaams   Agentschap Zorg en Gezondheid;<BR>2° minister : de Vlaamse minister, bevoegd   voor het gezondheidsbeleid;<BR>3° besluit van de Vlaamse Regering van 14   november 2008 : besluit van de Vlaamse Regering van 14 november 2008 betreffende   Vlaamse werkgroepen binnen het preventieve gezondheidsbeleid.
+In dit besluit wordt verstaan onder :<br>
+1° ...;<br>
+2° minister : de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
+3° besluit van de Vlaamse Regering van 14 november 2008 : besluit van de Vlaamse Regering van 14 november 2008 betreffende Vlaamse werkgroepen binnen het preventieve gezondheidsbeleid.
 
 ### ART. 2.
 
@@ -18,11 +21,52 @@ De Vlaamse werkgroep wordt opgericht voor onbepaalde duur.
 
 ### ART. 4.
 
-<P>§ 1. De Vlaamse werkgroep wordt opgericht voor de volgende opdrachten :   <BR>1° opvolgen van en adviseren over evoluties op wetenschappelijk en   maatschappelijk vlak inzake de opsporing van aangeboren aandoeningen bij   pasgeborenen via een bloedstaal, onder andere aan de hand van wetenschappelijke   literatuur, Europese consensussen en persteksten, vooral wanneer die een impact   kunnen hebben op het Vlaamse bevolkingsonderzoek naar aangeboren aandoeningen;   <BR>2° opvolgen en bewaken van de werkzaamheden van de eventuele subwerkgroepen;   <BR>3° opvolgen van en adviseren over de kwaliteitsbewaking en de evaluatie van   het bevolkingsonderzoek en in elk geval het formuleren van evaluatiecriteria,   indicatoren, voorstellen van verbetering en bijsturing en procedures   dienaangaande; <BR>4° opvolgen van en adviseren over methodieken en initiatieven   met betrekking tot de sensibilisatie naar verschillende doelgroepen in het kader   van het bevolkingsonderzoek;<BR>5° samen met het agentschap en de organisaties   met terreinwerking formuleren, opvolgen, evalueren en zo nodig herformuleren van   afspraken in een draaiboek over de organisatie van het bevolkingsonderzoek;   <BR>6° evalueren van en adviseren over de lijst op te sporen aangeboren   aandoeningen bij pasgeborenen via een bloedstaal en voorbereiden van een   gemotiveerd dossier voor de Vlaamse werkgroep bevolkingsonderzoek;<BR>7° op   vraag of op eigen initiatief, advies uitbrengen aan de minister, het agentschap   en de Vlaamse werkgroep bevolkingsonderzoek over de opsporing van aangeboren   aandoeningen bij pasgeborenen via een bloedstaal in het algemeen en de hierboven   genoemde punten in het bijzonder.<BR></P>  <P>§ 2. De Vlaamse werkgroep rapporteert aan de minister en het agentschap over   de realisatie van de opdrachten, aan de hand van verslagen en adviezen van de   Vlaamse werkgroep.<BR></P>  <P>§ 3. De Vlaamse werkgroep maakt een huishoudelijk reglement op.<BR></P>  <P>Het huishoudelijk reglement en de wijzigingen ervan, worden ter goedkeuring   voorgelegd aan het agentschap.<BR></P>  <P>§ 4. Het agentschap neemt de secretariaatstaken waar, namelijk de   administratieve, logistieke en, in functie van haar deskundigheid, inhoudelijke   ondersteuning van de Vlaamse werkgroep.<BR></P>  <P>Als er subwerkgroepen worden opgericht, is het agentschap niet   verantwoordelijk voor de administratieve, logistieke en inhoudelijke   ondersteuning, tenzij dat bij de goedkeuring van het oprichten van een   subwerkgroep, vermeld in artikel 5, § 1, vierde lid, anders wordt   vermeld.</P>
+<p>§ 1. De Vlaamse werkgroep wordt opgericht voor de volgende opdrachten :<br>
+1° opvolgen van en adviseren over evoluties op wetenschappelijk en maatschappelijk vlak inzake de opsporing van aangeboren aandoeningen bij pasgeborenen via een bloedstaal, onder andere aan de hand van wetenschappelijke literatuur, Europese consensussen en persteksten, vooral wanneer die een impact kunnen hebben op het Vlaamse bevolkingsonderzoek naar aangeboren aandoeningen;<br>
+2° opvolgen en bewaken van de werkzaamheden van de eventuele subwerkgroepen;<br>
+3° opvolgen van en adviseren over de kwaliteitsbewaking en de evaluatie van het bevolkingsonderzoek en in elk geval het formuleren van evaluatiecriteria, indicatoren, voorstellen van verbetering en bijsturing en procedures dienaangaande;<br>
+4° opvolgen van en adviseren over methodieken en initiatieven met betrekking tot de sensibilisatie naar verschillende doelgroepen in het kader van het bevolkingsonderzoek;<br>
+5° samen met de administratie en de organisaties met terreinwerking formuleren, opvolgen, evalueren en zo nodig herformuleren van afspraken in een draaiboek over de organisatie van het bevolkingsonderzoek;<br>
+6° evalueren van en adviseren over de lijst op te sporen aangeboren aandoeningen bij pasgeborenen via een bloedstaal en voorbereiden van een gemotiveerd dossier voor de Vlaamse werkgroep bevolkingsonderzoek;<br>
+7° op vraag of op eigen initiatief, advies uitbrengen aan de minister, de administratie en de Vlaamse werkgroep bevolkingsonderzoek over de opsporing van aangeboren aandoeningen bij pasgeborenen via een bloedstaal in het algemeen en de hierboven genoemde punten in het bijzonder.</p>
+
+<p>§ 2. De Vlaamse werkgroep rapporteert aan de minister en de administratie over de realisatie van de opdrachten, aan de hand van verslagen en adviezen van de Vlaamse werkgroep.</p>
+
+<p>§ 3. De Vlaamse werkgroep maakt een huishoudelijk reglement op.</p>
+
+<p>Het huishoudelijk reglement en de wijzigingen ervan, worden ter goedkeuring voorgelegd aan de administratie.</p>
+
+<p>§ 4. De administratie neemt de secretariaatstaken waar, namelijk de administratieve, logistieke en, in functie van haar deskundigheid, inhoudelijke ondersteuning van de Vlaamse werkgroep.</p>
+
+<p>Als er subwerkgroepen worden opgericht, is de administratie niet verantwoordelijk voor de administratieve, logistieke en inhoudelijke ondersteuning, tenzij dat bij de goedkeuring van het oprichten van een subwerkgroep, vermeld in artikel 5, § 1, vierde lid, anders wordt vermeld.</p>
 
 ### ART. 5.
 
-<P>§ 1. De heer Pieter Vandenbulcke wordt, namens het Vlaams Agentschap Zorg en   Gezondheid, benoemd als voorzitter van de Vlaamse werkgroep.<BR></P>  <P>De voorzitter kan zich laten vervangen door zelf een vervanger aan te duiden.   Duidt hij geen vervanger aan, dan zit het oudste aanwezige lid de vergadering   van de Vlaamse werkgroep voor. Indien de voorzitter zich gedurende meer dan zes   opeenvolgende maanden laat vervangen, duidt de minister een andere voorzitter   aan.<BR></P>  <P>De voorzitter kan een of meerdere subwerkgroepen oprichten na goedkeuring   door het agentschap. Daartoe deelt hij zijn voornemen tot het oprichten van een   subwerkgroep mee aan het agentschap, met inbegrip van de deelaspecten van de   opdracht van de Vlaamse werkgroep die door de subwerkgroep zullen worden   uitgevoerd, het tijdschema om die deelaspecten uit te voeren, de samenstelling   en het maximale aantal leden. <BR></P>  <P>De voorzitter van de werkgroep verklaart de aanwezigheidslijst voor waar en   echt.<BR></P>  <P>§ 2. De volgende personen worden benoemd tot lid van de Vlaamse werkgroep :   <BR>1° de heer Alliet, Philippe;<BR>2° de heer Borry, Pascal;<BR>3° Mevr.   Debaere, Lut;<BR>4° Mevr. De Meirleir, Linda;<BR>5° Mevr. De Ronne,   Nadine;<BR>6° de heer De Schepper, Jean;<BR>7° de heer Eyskens, François;<BR>8°   Mevr. Laeremans, Hilde;<BR>9° Mevr. Loccufier, Anne;<BR>10° de heer Philips,   Eddy;<BR>11° Mevr. Van Holsbeeck, Ann;<BR>12° de heer Vermeersch,   Pieter.<BR></P>  <P>§ 3. De leden, vermeld in paragraaf 2, kunnen, als ze niet op een vergadering   aanwezig kunnen zijn, een plaatsvervanger aanduiden. <BR></P>  <P>§ 4. De identificatie- en contactgegevens van de personen, vermeld in dit   artikel, worden bijgehouden door het agentschap.</P>
+<p>§ 1. De heer Pieter Vandenbulcke wordt, namens de administratie, benoemd als voorzitter van de Vlaamse werkgroep.</p>
+
+<p>De voorzitter kan zich laten vervangen door zelf een vervanger aan te duiden. Duidt hij geen vervanger aan, dan zit het oudste aanwezige lid de vergadering van de Vlaamse werkgroep voor. Indien de voorzitter zich gedurende meer dan zes opeenvolgende maanden laat vervangen, duidt de minister een andere voorzitter aan.</p>
+
+<p>De voorzitter kan een of meerdere subwerkgroepen oprichten na goedkeuring door de administratie. Daartoe deelt hij zijn voornemen tot het oprichten van een subwerkgroep mee aan de administratie, met inbegrip van de deelaspecten van de opdracht van de Vlaamse werkgroep die door de subwerkgroep zullen worden uitgevoerd, het tijdschema om die deelaspecten uit te voeren, de samenstelling en het maximale aantal leden.</p>
+
+<p>De voorzitter van de werkgroep verklaart de aanwezigheidslijst voor waar en echt.</p>
+
+<p>§ 2. De volgende personen worden benoemd tot lid van de Vlaamse werkgroep :<br>
+1° de heer Alliet, Philippe;<br>
+2° de heer Borry, Pascal;<br>
+3° Mevr. Debaere, Lut;<br>
+4° Mevr. De Meirleir, Linda;<br>
+5° Mevr. De Ronne, Nadine;<br>
+6° de heer De Schepper, Jean;<br>
+7° de heer Eyskens, François;<br>
+8° Mevr. Laeremans, Hilde;<br>
+9° Mevr. Loccufier, Anne;<br>
+10° de heer Philips, Eddy;<br>
+11° Mevr. Van Holsbeeck, Ann;<br>
+12° de heer Vermeersch, Pieter.</p>
+
+<p>§ 3. De leden, vermeld in paragraaf 2, kunnen, als ze niet op een vergadering aanwezig kunnen zijn, een plaatsvervanger aanduiden.</p>
+
+<p>§ 4. De identificatie- en contactgegevens van de personen, vermeld in dit artikel, worden bijgehouden door de administratie.</p>
 
 ### ART. 6.
 
