@@ -26,7 +26,13 @@ De   personenalarmtoestellen voldoen aan de volgende technisch-functionele verei
 
 ### ART. 6.
 
-<P>Vóór   1 februari legt de minister binnen de beschikbare goedgekeurde budgettaire   middelen het totale bedrag vast dat kan worden besteed aan de subsidiëring van   de aankoop van personenalarmtoestellen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Zodra   de minister het beschikbare budget heeft vastgelegd, zal het Vlaams Agentschap   Zorg en Gezondheid een webformulier ter beschikking stellen dat moet worden   gebruikt voor de aanvraag tot subsidiëring van de aankoop van   personenalarmtoestellen. De daarin aangegeven keuzes worden beschouwd als   definitief.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Om   ontvankelijk te zijn moet de aanvraag vóór 1 april bij het Vlaams Agentschap   Zorg en Gezondheid worden ingediend.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Om   in aanmerking te komen voor subsidiëring moet de aankoop verricht worden in de   aankoopperiode die loopt van 1 januari tot en met 30 september van het jaar van   de aanvraag.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Vóór 1 februari legt de minister binnen de beschikbare goedgekeurde budgettaire middelen het totale bedrag vast dat kan worden besteed aan de subsidiëring van de aankoop van personenalarmtoestellen.</p>
+
+<p>Zodra de minister het beschikbare budget heeft vastgelegd, zal het Departement Zorg een webformulier ter beschikking stellen dat moet worden gebruikt voor de aanvraag tot subsidiëring van de aankoop van personenalarmtoestellen. De daarin aangegeven keuzes worden beschouwd als definitief.</p>
+
+<p>Om ontvankelijk te zijn moet de aanvraag vóór 1 april bij het Departement Zorg worden ingediend.</p>
+
+<p>Om in aanmerking te komen voor subsidiëring moet de aankoop verricht worden in de aankoopperiode die loopt van 1 januari tot en met 30 september van het jaar van de aanvraag.</p>
 
 ### ART. 7.
 
@@ -38,7 +44,9 @@ De   personenalarmtoestellen voldoen aan de volgende technisch-functionele verei
 
 ### ART. 9.
 
-<P>De   subsidie wordt uitbetaald nadat het Vlaams Agentschap Zorg en Gezondheid de   aankoopfactuur, het bewijs dat is voldaan aan de bepalingen van artikel 3, het   bewijs van betaling en een EG-typeverklaring van overeenstemming heeft ontvangen   en goedgekeurd.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   lokale en regionale dienstencentra, waaraan de subsidie is toegekend, sturen die   bewijsstukken naar het Vlaams Agentschap Zorg en Gezondheid vóór 1 november van   het jaar van de aanvraag.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De subsidie wordt uitbetaald nadat het Departement Zorg de aankoopfactuur, het bewijs dat is voldaan aan de bepalingen van artikel 3, het bewijs van betaling en een EG-typeverklaring van overeenstemming heeft ontvangen en goedgekeurd.</p>
+
+<p>De lokale en regionale dienstencentra, waaraan de subsidie is toegekend, sturen die bewijsstukken naar het Departement Zorg vóór 1 november van het jaar van de aanvraag.</p>
 
 ### ART. 10.
 

@@ -2,16 +2,16 @@
   "codex_id": 1025280,
   "title": "Ministerieel besluit van 2013-07-19 houdende de vaststelling van de nadere regels betreffende de subsidieverlening voor het aankopen van personenalarmtoestellen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025280/VolledigDocument?datum=2013-01-01",
-  "source_sha256": "edec5647b99cf8a301d1047c9deb89d8bbb79ac0425ba54fbc0115c3453efedd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025280/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "fc19bead9ae47ed0b646a2ce4431bff54a9d4a43e0c55dda2da9bd8c5b792ac0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025280&param=informatie",
-  "as_of": "2013-01-01",
+  "as_of": "2023-06-01",
   "made": "2013-07-19",
   "gazette": "2015-04-16",
   "numac": 2015035427,
   "document_start": "2013-01-01",
   "document_end": null,
-  "in_force": "2013-01-01",
+  "in_force": "2023-06-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
