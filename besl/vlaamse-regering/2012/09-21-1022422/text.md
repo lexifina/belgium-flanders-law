@@ -20,7 +20,7 @@ De kwaliteitskamer bestaat uit :<br>
 1° een vertegenwoordiger van het kabinet van de minister;<br>
 2° een vertegenwoordiger van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden;<br>
 3° de Vlaamse bouwmeester en een vertegenwoordiger van zijn team;<br>
-4° twee vertegenwoordigers van het intern verzelfstandigd agentschap het Vlaams Agentschap Zorg en Gezondheid;<br>
+4° twee vertegenwoordigers van het Departement Zorg;<br>
 5° een vertegenwoordiger van het beleidsdomein Omgeving;<br>
 6° drie deskundigen die geen personeelslid zijn van de Vlaamse administratie;<br>
 7° een deskundige die personeelslid is van de Vlaamse administratie, maar niet van het departement of van een agentschap van het beleidsdomein Welzijn, Volksgezondheid en Gezin of van het beleidsdomein Omgeving.<br>
