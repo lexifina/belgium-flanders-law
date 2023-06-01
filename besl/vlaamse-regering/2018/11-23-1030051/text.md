@@ -359,7 +359,7 @@ Het Fonds kan alleen een afwijking toestaan als de kwaliteit en de veiligheid va
 <br>
 Het Fonds neemt een beslissing na advies van de functioneel bevoegde administratie en van Zorginspectie.<br>
 <br>
-In het derde lid wordt verstaan onder Zorginspectie: Zorginspectie als vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.
+In het derde lid wordt verstaan onder Zorginspectie: Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.
 
 ## HOOFDSTUK 3. Subsidiabele oppervlakte
 
