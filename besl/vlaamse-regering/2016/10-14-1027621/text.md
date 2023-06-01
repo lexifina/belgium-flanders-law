@@ -19,8 +19,9 @@ Besluit :
 
 In dit besluit wordt verstaan onder:<br>
 1° agentschap: het Agentschap voor Vlaamse Sociale Bescherming, opgericht bij decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
-2° agentschap Zorg en Gezondheid: het Agentschap Zorg en Gezondheid, opgericht bij besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+2° ...;<br>
 3° decreet van 18 mei 2018: het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
+3°/1 Departement Zorg: het departement, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 4° hulpkas: "de Hulpkas voor ziekte- en invaliditeitsverzekering", vermeld in artikel 5 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;<br>
 5° landsbond: een landsbond als vermeld in artikel 6 tot en met 8 van de wet van 6 augustus 1990 betreffende de ziekenfondsen en de landsbonden van ziekenfondsen;<br>
 6° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
@@ -320,7 +321,7 @@ Als basis voor de subsidie voor werkingskosten voor de tegemoetkoming voor woonz
 <br>
 Als basis voor de subsidie voor werkingskosten voor de tegemoetkoming voor revalidatieziekenhuizen en voor het multidisciplinair overleg worden de databankgegevens van het agentschap gebruikt.<br>
 <br>
-In afwijking van het zevende lid worden voor het jaar 2022 als basis voor de subsidie voor werkingskosten voor de tegemoetkoming voor revalidatieziekenhuizen en voor het multidisciplinair overleg de databankgegevens van de verzekeringsinstellingen gebruikt voor het aantal kennisgevingen van opnames in revalidatieziekenhuizen en worden de databankgegevens van het agentschap Zorg en Gezondheid gebruikt voor het aantal aanvragen van dossiers multidisciplinair overleg.<br>
+In afwijking van het zevende lid worden voor het jaar 2022 als basis voor de subsidie voor werkingskosten voor de tegemoetkoming voor revalidatieziekenhuizen en voor het multidisciplinair overleg de databankgegevens van de verzekeringsinstellingen gebruikt voor het aantal kennisgevingen van opnames in revalidatieziekenhuizen en worden de databankgegevens van het Departement Zorg gebruikt voor het aantal aanvragen van dossiers multidisciplinair overleg.<br>
 <br>
 Als basis voor de subsidie voor werkingskosten voor de tegemoetkoming voor psychiatrische verzorgingstehuizen worden voor het jaar 2023 de databankgegevens van de verzekeringsinstellingen gebruikt.<br>
 <br>
@@ -352,11 +353,11 @@ Het agentschap vergoedt de indicatiestelling niet als de factuur van de gemachti
 
 De verzekeringsinstellingen ontvangen een vergoeding voor werkingskosten voor de opdrachten conform het overnamedecreet.<br>
 <br>
-De verzekeringsinstelling bezorgt aan het agentschap Zorg en Gezondheid de vereiste bewijsstukken om de definitieve vergoedingen en de voorschotten op de vergoedingen te berekenen. De minister bepaalt de nadere regels waaraan de bewijsstukken moeten voldoen en de termijn waarin de bewijsstukken ingediend moeten worden.
+De verzekeringsinstelling bezorgt aan het Departement Zorg de vereiste bewijsstukken om de definitieve vergoedingen en de voorschotten op de vergoedingen te berekenen. De minister bepaalt de nadere regels waaraan de bewijsstukken moeten voldoen en de termijn waarin de bewijsstukken ingediend moeten worden.
 
 ### ART 15/2.
 
-§1. Het Agentschap Zorg en Gezondheid stelt de vergoeding voor werkingskosten vast.<br>
+§1. Het Departement Zorg stelt de vergoeding voor werkingskosten vast.<br>
 <br>
 §2. De subsidie voor alle verzekeringsinstellingen bedraagt 3.024.189,20 euro.<br>
 <br>
@@ -372,11 +373,11 @@ Het percentage dat jaarlijks toekomt aan een bepaalde verzekeringsinstelling is 
 14 % bij een recuperatieniveau vanaf 0,8 % tot minder dan 1 %;<br>
 16 % bij een recuperatieniveau vanaf 1 %;<br>
 <br>
-§5. Het agentschap Zorg en Gezondheid verdeelt voor de vijftiende dag van de eerste maand van elk kwartaal verhoudingsgewijs over de verzekeringsinstellingen een voorschot van 20% van het bedrag, vermeld in artikel 15/2 . Het saldo wordt uitbetaald op 15 november van het betrokken kalenderjaar."<br>
+§5. Het Departement Zorg verdeelt voor de vijftiende dag van de eerste maand van elk kwartaal verhoudingsgewijs over de verzekeringsinstellingen een voorschot van 20% van het bedrag, vermeld in artikel 15/2 . Het saldo wordt uitbetaald op 15 november van het betrokken kalenderjaar."<br>
 <br>
 §6. Een verzekeringsinstelling heeft recht op de subsidie voor werkingskosten op voorwaarde dat ze:<br>
 1° de taken voortvloeiend uit het overnamedecreet en dit Besluit uitvoert;<br>
-2° aan het Agentschap Zorg en Gezondheid de vereiste bewijsstukken bezorgt om de subsidies te berekenen. Het Agentschap Zorg en Gezondheid bepaalt de nadere regels waaraan de bewijsstukken moeten voldoen en de termijn waarin de bewijsstukken ingediend moeten worden.<br>
+2° aan het Departement Zorg de vereiste bewijsstukken bezorgt om de subsidies te berekenen. Het Departement Zorg bepaalt de nadere regels waaraan de bewijsstukken moeten voldoen en de termijn waarin de bewijsstukken ingediend moeten worden.<br>
 <br>
 §7. De door een verzekeringsinstelling onrechtmatig betaalde tegemoetkomingen worden in mindering gebracht van de subsidie voor werkingskosten van die verzekeringsinstelling, met uitzondering van de niet gerecupereerde tegemoetkomingen waarvoor het Agentschap financieel verantwoordelijk is.
 
@@ -402,7 +403,7 @@ Het agentschap verdeelt vanaf 1 november 2021 in 2021 tussen de verzekeringsinst
 6° Hulpkas voor Ziekte- en Invaliditeitsverzekering: 47.696 euro;<br>
 7° Kas der Geneeskundige Verzorging van HR Rail: 48.180 euro.<br>
 <br>
-§ 3. Het agentschap betaalt aan de verzekeringsinstelling het saldo van 20% van het bedrag, vermeld in paragraaf 1, eerste lid, uit nadat de jaarrekening en het boekhoudkundig verslag van de verzekeringsinstellingen over de aanwending van de subsidie door het agentschap Zorg en Gezondheid zijn goedgekeurd.
+§ 3. Het agentschap betaalt aan de verzekeringsinstelling het saldo van 20% van het bedrag, vermeld in paragraaf 1, eerste lid, uit nadat de jaarrekening en het boekhoudkundig verslag van de verzekeringsinstellingen over de aanwending van de subsidie door het Departement Zorg zijn goedgekeurd.
 
 ## [HOOFDSTUK 5. Koppeling van de index van de subsidie of begrotingskredieten voor de werkingskosten en de tegemoetkomingen aan de zorgkassen en de verzekeringsinstellingen (verv. BVR 14 december 2018, art. 29, I: 1 januari 2019)]
 
@@ -430,7 +431,7 @@ Als de zorgkas tegen het voornemen geen ontvankelijk bezwaar heeft ingediend of 
 <br>
 Als de minister binnen de gestelde termijn het bezwaar gegrond heeft verklaard of geen beslissing neemt over het bezwaar, wordt de subsidiëring voortgezet of blijven de subsidies behouden.<br>
 <br>
-§ 3. De paragrafen § 1 en § 2 zijn van overeenkomstige toepassing op het toezicht op de subsidie voor de werkingskosten en de tegemoetkomingen aan de verzekeringsinstellingen. De leidend ambtenaar van het Agentschap Zorg en Gezondheid kan als een verzekeringsinstelling niet voldoet aan één of meer voorwaarden, vermeld in het overnamedecreet, als bij de verzekeringsinstelling subsidiefraude wordt vastgesteld of als ze niet meewerkt aan de uitoefening van het toezicht, de subsidies verlagen, de subsidiëring geheel of gedeeltelijk stopzetten of de reeds betaalde subsidie of vergoedingen terugvorderen.
+§ 3. De paragrafen § 1 en § 2 zijn van overeenkomstige toepassing op het toezicht op de subsidie voor de werkingskosten en de tegemoetkomingen aan de verzekeringsinstellingen. De leidend ambtenaar van het Departement Zorg kan als een verzekeringsinstelling niet voldoet aan één of meer voorwaarden, vermeld in het overnamedecreet, als bij de verzekeringsinstelling subsidiefraude wordt vastgesteld of als ze niet meewerkt aan de uitoefening van het toezicht, de subsidies verlagen, de subsidiëring geheel of gedeeltelijk stopzetten of de reeds betaalde subsidie of vergoedingen terugvorderen.
 
 ## [HOOFDSTUK 7. Slotbepalingen (verv. BVR 14 december 2018, art. 33, I: 1 januari 2019)]
 
