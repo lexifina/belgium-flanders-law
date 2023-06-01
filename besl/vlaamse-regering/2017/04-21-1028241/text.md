@@ -34,7 +34,7 @@ Besluit :&nbsp;
 
 In dit besluit wordt verstaan onder:<br>
 1° decreet van 17 februari 2017: het decreet van 17 februari 2017 houdende regeling tot erkenning en subsidiëring van een Vlaamse organisatie ter ondersteuning van welzijnsbevordering en samenlevingsopbouw;<br>
-2° departement: het Departement Welzijn, Volksgezondheid en Gezin van het Vlaams Ministerie van Welzijn, Volksgezondheid en Gezin;<br>
+2° departement: het Departement Zorg van het Vlaams Ministerie van Welzijn, Volksgezondheid en Gezin;<br>
 3° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
 4° operationele doelstelling: een doelstelling die de wijze beschrijft waarop de organisatie een strategische doelstelling concretiseert naar timing en beoogd resultaat;<br>
 5° organisatie: de organisatie, vermeld in artikel 2 van het decreet van 17 februari 2017;<br>
