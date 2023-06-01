@@ -24,10 +24,11 @@ Besluit :<br>
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° agentschap: het intern verzelfstandigd Agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+1° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 2° beheersinstantie: een of meer personen die een centrum voor kortverblijf type 1 en een erkende groep van assistentiewoningen vertegenwoordigen en juridisch kunnen binden;<br>
 3° flexibel kortverblijf: een of meer woongelegenheden kortverblijf die conform artikel 32, § 2, eerste lid, van het Woonzorgdecreet van 15 februari 2019 worden ingezet in een erkende groep van assistentiewoningen;<br>
-4° vestiging: een of meer gebouwen die in elkaars onmiddellijke nabijheid gevestigd zijn en die als woonzorgcentrum, centrum voor kortverblijf en erkende groep van assistentiewoningen worden uitgebaat.<br>
+4° vestiging: een of meer gebouwen die in elkaars onmiddellijke nabijheid gevestigd zijn en die als woonzorgcentrum, centrum voor kortverblijf en erkende groep van assistentiewoningen worden uitgebaat;<br>
+5° secretaris-generaal: het hoofd van de administratie.<br>
 &nbsp;
 
 ### ART 2.
@@ -40,14 +41,14 @@ Een centrum voor kortverblijf type 1 dat met toepassing van artikel 32, § 2, ee
 5° het centrum voor kortverblijf type 1 en de groep van assistentiewoningen maken deel uit van dezelfde vestiging;<br>
 6° het flexibele kortverblijf voldoet aan de bepalingen, vermeld in artikel 8 tot en met 14 van het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers, en aan de erkenningsvoorwaarden, vermeld in bijlage 8 bij het voormelde besluit;<br>
 7° het flexibele kortverblijf past binnen de erkende capaciteit van het centrum voor kortverblijf type 1;<br>
-8° de dagprijs van de assistentiewoning blijft behouden en wordt aangevuld met de prijs van het gedeelte van de zorg- en dienstverlening dat vervat zit in de dagprijs van het centrum voor kortverblijf. Dat gedeelte van de dagprijs van het flexibele kortverblijf moet goedgekeurd worden door het agentschap.<br>
+8° de dagprijs van de assistentiewoning blijft behouden en wordt aangevuld met de prijs van het gedeelte van de zorg- en dienstverlening dat vervat zit in de dagprijs van het centrum voor kortverblijf. Dat gedeelte van de dagprijs van het flexibele kortverblijf moet goedgekeurd worden door de administratie.<br>
 &nbsp;
 
 ### ART 3.
 
-Een aanvraag van toelating om flexibel kortverblijf in te zetten wordt aangetekend bij het agentschap ingediend.<br>
+Een aanvraag van toelating om flexibel kortverblijf in te zetten wordt aangetekend bij de administratie ingediend.<br>
 <br>
-De aanvraag is alleen ontvankelijk als ze wordt ingediend met het formulier dat het agentschap ter beschikking stelt. De aanvraag bevat minstens de volgende gegevens en stukken:<br>
+De aanvraag is alleen ontvankelijk als ze wordt ingediend met het formulier dat de administratie ter beschikking stelt. De aanvraag bevat minstens de volgende gegevens en stukken:<br>
 1° de identiteitsgegevens van de beheersinstantie en van de voorzieningen;<br>
 2° een plan van de vestiging waaruit blijkt dat het woonzorgcentrum, het centrum voor kortverblijf type 1 en de groep van assistentiewoningen in elkaars onmiddellijke nabijheid gevestigd zijn;<br>
 3° een beslissing van de raad van bestuur, waarbij de visie op en de organisatie van het flexibel inzetten van kortverblijf in de groep van assistentiewoningen wordt bevestigd;<br>
@@ -58,31 +59,31 @@ b) de opgave en samenstelling van de dagprijs van het flexibele kortverblijf, ve
 
 ### ART 4.
 
-Het agentschap onderzoekt de ontvankelijkheid van de aanvraag, vermeld in artikel 3. De Vlaamse minister, bevoegd voor de bijstand aan personen, kan de regels voor de ontvankelijkheid van de aanvraag preciseren.<br>
+De administratie onderzoekt de ontvankelijkheid van de aanvraag, vermeld in artikel 3. De Vlaamse minister, bevoegd voor de bijstand aan personen, kan de regels voor de ontvankelijkheid van de aanvraag preciseren.<br>
 <br>
-Als de aanvraag niet ontvankelijk is, brengt het agentschap de beheersinstantie daarvan op de hoogte binnen dertig dagen na de ontvangst van de aanvraag.<br>
+Als de aanvraag niet ontvankelijk is, brengt de administratie de beheersinstantie daarvan op de hoogte binnen dertig dagen na de ontvangst van de aanvraag.<br>
 &nbsp;
 
 ### ART 5.
 
-Het agentschap kan de beheersinstantie om aanvullende informatie verzoeken. Na de ontvangst van die inlichtingen begint er opnieuw een termijn als vermeld in artikel 4, tweede lid, te lopen.<br>
+De administratie kan de beheersinstantie om aanvullende informatie verzoeken. Na de ontvangst van die inlichtingen begint er opnieuw een termijn als vermeld in artikel 4, tweede lid, te lopen.<br>
 <br>
-Als het agentschap de informatie, vermeld in het eerste lid, niet ontvangt binnen een termijn van dertig dagen na de datum van de verzending van het verzoek, wordt de aanvraag van toelating onontvankelijk verklaard. Het agentschap kan die termijn verlengen als de beheersinstantie daarom in een gemotiveerde aanvraag heeft verzocht.<br>
+Als de administratie de informatie, vermeld in het eerste lid, niet ontvangt binnen een termijn van dertig dagen na de datum van de verzending van het verzoek, wordt de aanvraag van toelating onontvankelijk verklaard. De administratie kan die termijn verlengen als de beheersinstantie daarom in een gemotiveerde aanvraag heeft verzocht.<br>
 &nbsp;
 
 ### ART 6.
 
-De administrateur-generaal van het agentschap beslist over de toelating, vermeld in artikel 2, binnen een termijn van zestig dagen.<br>
+De secretaris-generaal beslist over de toelating, vermeld in artikel 2, binnen een termijn van zestig dagen.<br>
 &nbsp;
 
 ### ART 7.
 
-De toelating wordt gegeven voor onbepaalde duur. Als uit de uitbating blijkt dat de voorziening niet voldoet aan de voorwaarden, vermeld in artikel 2, trekt de administrateur-generaal de toelating in.<br>
+De toelating wordt gegeven voor onbepaalde duur. Als uit de uitbating blijkt dat de voorziening niet voldoet aan de voorwaarden, vermeld in artikel 2, trekt de secretaris-generaal de toelating in.<br>
 &nbsp;
 
 ### ART 8.
 
-Binnen een termijn van dertig dagen na de ontvangst van een negatieve beslissing over de toelating kan de beheersinstantie met een aangetekende brief een gemotiveerd verzoekschrift aan het agentschap richten waarin ze vraagt om gehoord te worden.
+Binnen een termijn van dertig dagen na de ontvangst van een negatieve beslissing over de toelating kan de beheersinstantie met een aangetekende brief een gemotiveerd verzoekschrift aan de administratie richten waarin ze vraagt om gehoord te worden.
 
 ### ART 9.
 
