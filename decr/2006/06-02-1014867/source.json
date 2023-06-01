@@ -2,16 +2,16 @@
   "codex_id": 1014867,
   "title": "Decreet van 2006-06-02 tot omvorming van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden tot een intern verzelfstandigd agentschap met rechtspersoonlijkheid, en tot wijziging van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014867/VolledigDocument?datum=2022-01-01",
-  "source_sha256": "867b0293d79906513bca6c3422eff876150a3456148b71a9de9836afbe7c49c1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014867/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "4dbdcfd0b79a55ff8e9bc9deb62037b2fb0a381d6e9f47e0435d497279ad9dcd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014867&param=informatie",
-  "as_of": "2022-01-01",
+  "as_of": "2023-06-01",
   "made": "2006-06-02",
   "gazette": "2006-08-24",
   "numac": 2006036190,
   "document_start": "2007-01-01",
   "document_end": null,
-  "in_force": "2022-01-01",
+  "in_force": "2023-06-01",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
