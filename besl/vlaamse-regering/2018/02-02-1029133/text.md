@@ -29,14 +29,14 @@ Besluit :<br>
 
 In dit besluit wordt verstaan onder:<br>
 1° decreet van 25 april 2014: het decreet van 25 april 2014 houdende de werk- en zorgtrajecten;<br>
-2° Departement WVG: het Departement Welzijn, Volksgezondheid en Gezin van het Vlaams Ministerie van Welzijn, Volksgezondheid en Gezin;<br>
+2° Departement WVG: het Departement Zorg van het Vlaams Ministerie van Welzijn, Volksgezondheid en Gezin;<br>
 3° dienstverlening: de acties die in het kader van een activeringstraject, worden uitgevoerd;<br>
 4° elektronische dossier: het digitale dossier van de kandidaat-deelnemer of de deelnemer dat door de VDAB beheerd wordt, vermeld in artikel 22/2 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding";<br>
 5° International Classification of Functioning, Disability and Health, afgekort ICF: een referentieclassificatie van de Wereldgezondheidsorganisatie, die het menselijk functioneren omschrijft;<br>
 6° ICF-instrument: het indiceringsinstrument dat de VDAB ontwikkeld heeft op basis van de ICF, dat het menselijk functioneren in kaart brengt met betrekking tot tewerkstelling en de eventuele nood aan ondersteuning vaststelt;<br>
 7° begeleider arbeidsmatige activiteiten: de erkende voorziening die de opdrachten, vermeld in artikel 47 van dit besluit, uitvoert;<br>
 8° werkpost: de rechtspersoon, de zelfstandige natuurlijke persoon, de feitelijke vereniging of de overheidsinstelling waar een persoon arbeidsmatige activiteiten verricht;<br>
-9° Zorginspectie: Zorginspectie, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.<br>
+9° Zorginspectie: Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.<br>
 10° het Departement Werk en Sociale Economie: het departement werk en sociale economie van het Vlaams ministerie van werk en sociale economie.<br>
 &nbsp;
 
