@@ -10,7 +10,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 5 april 1995, houdende 
 
 In dit besluit wordt verstaan onder :<br>
 1° het decreet van 18 juli 2003: het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
-2° toezichthoudende ambtenaar Volksgezondheid : het afdelingshoofd van de afdeling, bevoegd voor het toezicht op de volksgezondheid, van het Vlaams Agentschap Zorg en Gezondheid, of de door hem aangestelde van de afdeling;<br>
+2° toezichthoudende ambtenaar Volksgezondheid : het afdelingshoofd van de afdeling, bevoegd voor het toezicht op de volksgezondheid, van het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg, of de door hem aangestelde van de afdeling;<br>
 3° toezichthoudende ambtenaar Leefmilieu: de personeelsleden van de Vlaamse Milieumaatschappij die de leidend ambtenaar aanstelt.
 
 ## HOOFDSTUK 2. Toezicht, dwang- en veiligheidsmaatregelen
