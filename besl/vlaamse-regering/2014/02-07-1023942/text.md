@@ -10,7 +10,7 @@ In dit besluit wordt verstaan onder:<br>
 1° decreet van 21 juni 2013: het decreet van 21 juni 2013 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin;<br>
 2° centrum: het Kwaliteitscentrum voor Diagnostiek, als bedoeld in artikel 11 van het decreet van 21 juni 2013;<br>
 3° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
-4° departement: het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 1 van het besluit van de Vlaamse regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein;<br>
+4° departement: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 5° agentschap: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Opgroeien, dat is opgericht bij artikel 2 van het besluit van de Vlaamse Regering van 24 oktober 2008 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Opgroeien;<br>
 6° diagnostiek: het geheel van tussenliggende deelprocessen, als vermeld in artikel 10, 1°, 2° en 3°, van het decreet van 21 juni 2013.
 
