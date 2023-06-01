@@ -36,7 +36,7 @@ Alleen als het resultaat van de berekening, vermeld in het tweede lid, groter is
 <br>
 Voor de gepresteerde uren oppashulp, vermeld in het eerste lid, worden de laatst beschikbare gegevens gebruikt zoals die berekend zijn in het systeem Vrijwillige Oppas.<br>
 <br>
-In het tweede lid wordt verstaan onder systeem Vrijwillige Oppas: het systeem van elektronische gegevensuitwisseling tussen het agentschap en de diensten voor oppashulp, om de gegevens over zijn gebruikers en vrijwilligers die nodig zijn om de subsidies te berekenen en om operationele en beleidsinformatie te genereren, aan het agentschap te bezorgen.<br>
+In het tweede lid wordt verstaan onder systeem Vrijwillige Oppas: het systeem van elektronische gegevensuitwisseling tussen het Departement Zorg en de diensten voor oppashulp, om de gegevens over zijn gebruikers en vrijwilligers die nodig zijn om de subsidies te berekenen en om operationele en beleidsinformatie te genereren, aan het Departement Zorg te bezorgen.<br>
 <br>
 Voor het aantal inwoners per regio, vermeld in het eerste lid, worden de bevolkingscijfers gebruikt, zoals die berekend zijn door de Algemene Directie Statistiek en Economische Informatie van de Federale Overheidsdienst Economie, KMO, Middenstand en Energie. Het aantal inwoners op 1 januari van het jaar dat volgt op het jaar waarop de gepresteerde uren oppashulp, vermeld in het tweede lid, betrekking hebben, wordt gebruikt. Voor het tweetalige gebied Brussel-Hoofdstad wordt het aantal inwoners bepaald op 300.000.<br>
 <br>

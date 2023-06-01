@@ -2,16 +2,16 @@
   "codex_id": 1028378,
   "title": "Ministerieel besluit van 2017-06-15 betreffende de vaststelling van de evaluatiecriteria met betrekking tot de programmatie van de diensten voor oppashulp",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028378/VolledigDocument?datum=2017-07-13",
-  "source_sha256": "6558aae74115ffafad9959bc08fe05b0bd947975289cabda192ae5b2f0d3dbc7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028378/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "630ac1cb2971c350a4b173db961926cbc4f42e2e93c85fb91fecd2bf31744188",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028378&param=informatie",
-  "as_of": "2017-07-13",
+  "as_of": "2023-06-01",
   "made": "2017-06-15",
   "gazette": "2017-07-03",
   "numac": 2017012891,
   "document_start": "2017-07-13",
   "document_end": null,
-  "in_force": "2017-07-13",
+  "in_force": "2023-06-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2017-07-13; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
