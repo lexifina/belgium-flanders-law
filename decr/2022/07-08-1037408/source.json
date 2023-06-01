@@ -2,16 +2,16 @@
   "codex_id": 1037408,
   "title": "Decreet van 2022-07-08 tot oprichting van het platform Vitalink",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037408/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "12be70d9c42c616165c04e96d60f9c9eb50b5e9805ee5658f9bb79faf94987ac",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037408/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "b27c9297d3cf4d1b6026079a560cf4dae39bfb64d06650fc7248d4530f031956",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037408&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2023-06-01",
   "made": "2022-07-08",
   "gazette": "2022-09-16",
   "numac": 2022015597,
   "document_start": "2023-01-01",
   "document_end": null,
-  "in_force": "2023-01-01",
+  "in_force": "2023-06-01",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }

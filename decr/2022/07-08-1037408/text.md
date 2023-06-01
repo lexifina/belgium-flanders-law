@@ -115,15 +115,15 @@ De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autorite
 
 ### ART 8.
 
-In dit artikel wordt verstaan onder agentschap: het Agentschap Zorg en Gezondheid, dat is opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid".<br>
+In dit artikel wordt verstaan onder departement: het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
 <br>
-Het agentschap is verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in het kader van het beheer van Vitalink.<br>
+Het departement is verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in het kader van het beheer van Vitalink.<br>
 <br>
-Het agentschap en de ontvanger van de persoonsgegevens treden voor de gegevensuitwisselingen, vermeld in artikel 5 en 7 van dit decreet, op als gezamenlijke verwerkingsverantwoordelijken als vermeld in artikel 26 van de algemene verordening gegevensbescherming. Het agentschap en de ontvanger van persoonsgegevens leggen hun afspraken met betrekking tot de gegevensuitwisseling schriftelijk vast.<br>
+Het departement en de ontvanger van de persoonsgegevens treden voor de gegevensuitwisselingen, vermeld in artikel 5 en 7 van dit decreet, op als gezamenlijke verwerkingsverantwoordelijken als vermeld in artikel 26 van de algemene verordening gegevensbescherming. Het departement en de ontvanger van persoonsgegevens leggen hun afspraken met betrekking tot de gegevensuitwisseling schriftelijk vast.<br>
 <br>
 De actoren, vermeld in artikel 7, eerste lid, zijn verantwoordelijk voor de inhoud die ze ter beschikking stellen en uitwisselen via Vitalink en voor het zorgvuldig gebruik van de gegevens die ze verkregen hebben via Vitalink.<br>
 <br>
-Dit artikel sluit niet uit dat het agentschap als verwerker optreedt met betrekking tot bepaalde gegevensverwerkingen in Vitalink waar het de gegevens uitsluitend verwerkt ten behoeve van een verwerkingsverantwoordelijke in het kader van een welbepaald project. Het agentschap dient voorafgaand advies in te winnen bij het bestuursorgaan van Vitalink, vermeld in artikel 17.
+Dit artikel sluit niet uit dat het departement als verwerker optreedt met betrekking tot bepaalde gegevensverwerkingen in Vitalink waar het de gegevens uitsluitend verwerkt ten behoeve van een verwerkingsverantwoordelijke in het kader van een welbepaald project. Het departement dient voorafgaand advies in te winnen bij het bestuursorgaan van Vitalink, vermeld in artikel 17.
 
 ## Afdeling 6. Bewaartermijnen
 
