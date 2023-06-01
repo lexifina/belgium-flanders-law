@@ -25,7 +25,7 @@ Besluit :<br>
 
 § 1. Om na te gaan of gedurende het werkingsjaar of het gedeelte ervan waarvoor subsidies worden toegekend het betrokken woonzorgcentrum en in voorkomend geval het betrokken centrum voor kortverblijf voldoen aan de geldende erkenningsvoorwaarde inzake de animator moet de effectieve tewerkstelling van deze personeelsleden worden bewezen.<br>
 <br>
-§ 2. Om het bewijs, vermeld in het eerste lid, te leveren, bezorgt de initiatiefnemer van het woonzorgcentrum of van het centrum voor kortverblijf, aan het Agentschap Zorg en Gezondheid per trimester gegevens over de werkgever en het personeelslid dat voor de animatiewerking in het woonzorgcentrum of het centrum voor kortverblijf ingezet wordt, gebruik makend van een elektronische vragenlijst waarvan de Dienst voor Geneeskundige Verzorging van het RIZIV een model ter beschikking stelt.<br>
+§ 2. Om het bewijs, vermeld in het eerste lid, te leveren, bezorgt de initiatiefnemer van het woonzorgcentrum of van het centrum voor kortverblijf, aan het Departement Zorg per trimester gegevens over de werkgever en het personeelslid dat voor de animatiewerking in het woonzorgcentrum of het centrum voor kortverblijf ingezet wordt, gebruik makend van een elektronische vragenlijst waarvan de Dienst voor Geneeskundige Verzorging van het RIZIV een model ter beschikking stelt.<br>
 <br>
 In de elektronische vragenlijst worden per trimester onder meer de volgende gegevens vermeld:<br>
 1° de volgende gegevens over de werkgever:<br>
@@ -71,8 +71,8 @@ Een document dat de uitgeschreven visie met betrekking tot de animatiewerking om
 
 § 1. De effectieve tewerkstelling van de personeelsleden die te werk gesteld zijn in een vroeger DAC-statuut moet worden bewezen.<br>
 <br>
-§ 2. Om het bewijs, vermeld in paragraaf 1, te leveren worden de volgende stukken en documenten bij het Agentschap Zorg en Gezondheid ingediend:<br>
-1° per werknemer van elk gewezen DAC-project en zijn eventuele vervangers een personeelsfiche van de effectief gepresteerde uren en van de gelijkgestelde uren waarvan de loonkosten ten laste zijn genomen door de werkgever, volgens het model dat het voormelde agentschap ter beschikking stelt;<br>
+§ 2. Om het bewijs, vermeld in paragraaf 1, te leveren worden de volgende stukken en documenten bij het Departement Zorg ingediend:<br>
+1° per werknemer van elk gewezen DAC-project en zijn eventuele vervangers een personeelsfiche van de effectief gepresteerde uren en van de gelijkgestelde uren waarvan de loonkosten ten laste zijn genomen door de werkgever, volgens het model dat het voormelde departement ter beschikking stelt;<br>
 2° het sociaal document individuele rekening van desbetreffend kalenderjaar, waaruit de effectieve tewerkstelling blijkt van de personeelsleden voor wie een personeelsfiche wordt ingediend.<br>
 <br>
 Een afschrift van de documenten, vermeld in het eerste lid, wordt altijd in het woonzorgcentrum ter beschikking gehouden.<br>
@@ -86,8 +86,8 @@ Een afschrift van de documenten, vermeld in het eerste lid, wordt altijd in het 
 
 § 1. De effectieve tewerkstelling van de personeelsleden in een gewezen gescoproject moet worden bewezen.<br>
 <br>
-§ 2. Om het bewijs, vermeld in paragraaf 1, te leveren worden de volgende stukken en documenten bij het Agentschap Zorg en Gezondheid ingediend:<br>
-1° per werknemer van elk gewezen gescoproject en zijn eventuele vervangers een personeelsfiche van de effectief gepresteerde uren en van de gelijkgestelde uren, waarvan de loonkosten ten laste zijn genomen door de werkgever, volgens het model dat het voormelde agentschap ter beschikking stelt;<br>
+§ 2. Om het bewijs, vermeld in paragraaf 1, te leveren worden de volgende stukken en documenten bij het Departement Zorg ingediend:<br>
+1° per werknemer van elk gewezen gescoproject en zijn eventuele vervangers een personeelsfiche van de effectief gepresteerde uren en van de gelijkgestelde uren, waarvan de loonkosten ten laste zijn genomen door de werkgever, volgens het model dat het voormelde departement ter beschikking stelt;<br>
 2° het sociaal document individuele rekening van het desbetreffende kalenderjaar, waaruit de effectieve tewerkstelling blijkt van de personeelsleden voor wie een personeelsfiche wordt ingediend.<br>
 <br>
 Een afschrift van de documenten, vermeld in het eerste lid, wordt altijd in de ouderenvoorziening ter beschikking gehouden.<br>
@@ -99,18 +99,18 @@ Een afschrift van de documenten, vermeld in het eerste lid, wordt altijd in de o
 
 ### ART 6.
 
-De ouderenvoorziening moet de gegevens, vermeld in artikel 1, § 2, tweede lid, binnen negentig dagen die volgen op het werkingsjaar aan het Agentschap Zorg en Gezondheid bezorgen.<br>
+De ouderenvoorziening moet de gegevens, vermeld in artikel 1, § 2, tweede lid, binnen negentig dagen die volgen op het werkingsjaar aan het Departement Zorg bezorgen.<br>
 <br>
-Aanvullende gegevens of correcties van vroeger meegedeelde gegevens als vermeld in artikel 1, § 2, tweede lid, over een voorbij werkingsjaar, zijn niet langer ontvankelijk als ze meer dan een jaar na het werkingsjaar aan het voormelde agentschap worden bezorgd.<br>
+Aanvullende gegevens of correcties van vroeger meegedeelde gegevens als vermeld in artikel 1, § 2, tweede lid, over een voorbij werkingsjaar, zijn niet langer ontvankelijk als ze meer dan een jaar na het werkingsjaar aan het voormelde departement worden bezorgd.<br>
 &nbsp;
 
 ### ART 7.
 
-§ 1. De gegevens, vermeld in artikel 4, § 2 en in artikel 5, § 2, moeten in uitvoering van artikel 7 en 7/3 van bijlage XIV bij het besluit van de Vlaamse Regering van 24 juli 2009, voornoemd, vóór 1 april van het jaar volgend op het jaar dat in aanmerking genomen wordt voor de subsidiëring aan het Agentschap Zorg en Gezondheid bezorgd worden.<br>
+§ 1. De gegevens, vermeld in artikel 4, § 2 en in artikel 5, § 2, moeten in uitvoering van artikel 7 en 7/3 van bijlage XIV bij het besluit van de Vlaamse Regering van 24 juli 2009, voornoemd, vóór 1 april van het jaar volgend op het jaar dat in aanmerking genomen wordt voor de subsidiëring aan het Departement Zorg bezorgd worden.<br>
 <br>
 § 2. De documenten, vermeld in artikel 1 tot en met 5, moeten in uitvoering van artikel 72 van het woonzorgdecreet, voornoemd, bij uitoefening van het toezicht ter plaatse, door de voorziening tijdens het bezoek overhandigd te worden.<br>
 <br>
-§ 3. De documenten, vermeld in artikel 1, § 3, artikels 2 en 3, artikel 4, § 3, en artikel 5, § 3, moeten op eenvoudig verzoek aan het Agentschap Zorg en Gezondheid bezorgd worden.<br>
+§ 3. De documenten, vermeld in artikel 1, § 3, artikels 2 en 3, artikel 4, § 3, en artikel 5, § 3, moeten op eenvoudig verzoek aan het Departement Zorg bezorgd worden.<br>
 &nbsp;
 
 ## HOOFDSTUK 5 Overgangs- en slotbepalingen

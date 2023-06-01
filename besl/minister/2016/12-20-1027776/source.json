@@ -2,16 +2,16 @@
   "codex_id": 1027776,
   "title": "Ministerieel besluit van 2016-12-20 houdende de bewijsvoering met betrekking tot de subsidiëring van de animatiewerking in de woonzorgcentra en de centra voor kortverblijf, en van de personeelsleden met een ex-DAC- en ex-gescostatuut in de ouderenzorg",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027776/VolledigDocument?datum=2017-02-03",
-  "source_sha256": "1fbef83e9ab366d436e95f6a11e836fe9966757f417a6bfe5aae0d47d4fba2ce",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027776/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "13a5a2a55440bbbdd273d02521f2ef25205e433c0760b504a22d636a4b50ee63",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027776&param=informatie",
-  "as_of": "2017-02-03",
+  "as_of": "2023-06-01",
   "made": "2016-12-20",
   "gazette": "2017-01-24",
   "numac": 2017010094,
   "document_start": "2017-02-03",
   "document_end": "2024-12-31",
-  "in_force": "2017-02-03",
+  "in_force": "2023-06-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2017-02-03; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
