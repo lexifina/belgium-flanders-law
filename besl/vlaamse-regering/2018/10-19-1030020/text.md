@@ -37,8 +37,8 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° administrateur-generaal: het hoofd van het agentschap;<br>
-2° agentschap: het intern verzelfstandigd agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+1° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
+2° ...;<br>
 3° bronzorgvorm: de zorgvorm waarvoor de voorafgaande vergunning, vermeld in artikel 2, is verleend;<br>
 4° dagverzorgingscentrum conform artikel 51: een dagverzorgingscentrum dat erkend is om uitsluitend gebruikers te verzorgen die gezinszorg of aanvullende thuiszorg krijgen als vermeld in artikel 51 van bijlage IX bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers;<br>
 5° dagverzorgingscentrum niet conform artikel 51: een dagverzorgingscentrum dat geen dagverzorgingscentrum conform artikel 51 is;<br>
@@ -50,6 +50,7 @@ In dit besluit wordt verstaan onder:<br>
 11° omzettingskalender: de opgave van het trimester waarin voor de doelzorgvorm de erkenning of de bijzondere erkenning zal worden aangevraagd, de subsidie zal worden verleend of de subsidiabele uren zullen worden toegekend;<br>
 12° pilootprojecten: projecten die geselecteerd zijn bij het ministerieel besluit van 6 maart 2013 betreffende de selectie van pilootprojecten over nieuwe ruimtelijke concepten in de woonzorg met toepassing van artikel 2 van het besluit van de Vlaamse Regering van 21 september 2012 betreffende pilootprojecten over nieuwe ruimtelijke concepten in de woonzorg;<br>
 13° programmacijfer: het programmacijfer voor 2015;<br>
+13°/1 secretaris-generaal: het hoofd van de administratie;<br>
 14° voorafgaande vergunning: een vergunning als vermeld in artikel 59 van het Woonzorgdecreet van 13 maart 2009;<br>
 15° werkingsgebied: een geografisch omschreven gebied als vermeld in bijlage 1, die bij dit besluit is gevoegd.
 
@@ -67,17 +68,17 @@ De bepalingen uit hoofdstuk 2, 3 en 6 van dit besluit zijn slechts van toepassin
 
 ### ART 3.
 
-De initiatiefnemers die houder zijn van een voorafgaande vergunning voor woongelegenheden in centra voor kortverblijf of woonzorgcentra waarvan ze de erkenning willen laten ingaan in 2020, 2021, 2022, 2023, 2024 of 2025, bezorgen aan het agentschap met een aangetekende brief of op een andere wijze die de minister bepaalt, uiterlijk op 1 februari 2019 een erkenningskalender voor die woongelegenheden.<br>
+De initiatiefnemers die houder zijn van een voorafgaande vergunning voor woongelegenheden in centra voor kortverblijf of woonzorgcentra waarvan ze de erkenning willen laten ingaan in 2020, 2021, 2022, 2023, 2024 of 2025, bezorgen aan de administratie met een aangetekende brief of op een andere wijze die de minister bepaalt, uiterlijk op 1 februari 2019 een erkenningskalender voor die woongelegenheden.<br>
 <br>
 De initiatiefnemers dienen per woonzorgcentrum of centrum voor kortverblijf voor het geheel van de woongelegenheden waarvoor ze een erkenning zullen aanvragen, een erkenningskalender in voor hetzelfde trimester.<br>
 <br>
 Als de initiatiefnemer een rechtspersoon is, wordt bij de erkenningskalender een rechtsgeldige beslissing van het beheersorgaan gevoegd.<br>
 <br>
-Als bij de ingediende erkenningskalender niet alle stukken of inlichtingen zijn gevoegd, deelt het agentschap dat uiterlijk vijftien dagen na de uiterste indieningsdatum mee aan de oorspronkelijke initiatiefnemer. De oorspronkelijke initiatiefnemer kan binnen vijftien dagen na die mededeling de erkenningskalender vervolledigen. Als niet alle ontbrekende stukken of inlichtingen aan het agentschap zijn bezorgd op het moment waarop die termijn verstrijkt, verklaart het agentschap de ingediende erkenningskalender onontvankelijk en brengt het de oorspronkelijke initiatiefnemer daarvan op de hoogte.
+Als bij de ingediende erkenningskalender niet alle stukken of inlichtingen zijn gevoegd, deelt de administratie dat uiterlijk vijftien dagen na de uiterste indieningsdatum mee aan de oorspronkelijke initiatiefnemer. De oorspronkelijke initiatiefnemer kan binnen vijftien dagen na die mededeling de erkenningskalender vervolledigen. Als niet alle ontbrekende stukken of inlichtingen aan de administratie zijn bezorgd op het moment waarop die termijn verstrijkt, verklaart de administratie de ingediende erkenningskalender onontvankelijk en brengt het de oorspronkelijke initiatiefnemer daarvan op de hoogte.
 
 ### ART 4.
 
-§ 1. Het agentschap onderzoekt of erkenning in het trimester dat in de erkenningskalender is vermeld, mogelijk is binnen de maximale erkenningscapaciteit en de voorziene begrotingskredieten voor het betreffende jaar. Als volgens de ingediende erkenningskalenders het aantal woongelegenheden dat initiatiefnemers in een bepaald trimester willen laten erkennen, hoger ligt dan de maximale erkenningscapaciteit van dat trimester, past het agentschap achtereenvolgens de volgende prioriteringscriteria toe:<br>
+§ 1. de administratie onderzoekt of erkenning in het trimester dat in de erkenningskalender is vermeld, mogelijk is binnen de maximale erkenningscapaciteit en de voorziene begrotingskredieten voor het betreffende jaar. Als volgens de ingediende erkenningskalenders het aantal woongelegenheden dat initiatiefnemers in een bepaald trimester willen laten erkennen, hoger ligt dan de maximale erkenningscapaciteit van dat trimester, past de administratie achtereenvolgens de volgende prioriteringscriteria toe:<br>
 1° er wordt een hogere prioriteit gegeven aan de woongelegenheden die behoren tot de pilootprojecten;<br>
 2° binnen de categorieën van woongelegenheden, vermeld in punt 1°, krijgen woongelegenheden die niet na wijziging of samenvoeging als vermeld in hoofdstuk 4, voorafgaandelijk vergund zijn, een hogere prioriteit dan andere woongelegenheden;<br>
 3° binnen de categorieën van woongelegenheden, vermeld in punt 2°, krijgen woongelegenheden die worden aangewezen voor erkenning in een trimester dat volgt op het trimester, vermeld in de ingediende erkenningskalender, een hogere prioriteit in dat trimester dan woongelegenheden waarvoor de ingediende erkenningskalender hetzelfde trimester vermeldt;<br>
@@ -87,9 +88,9 @@ Als bij de ingediende erkenningskalender niet alle stukken of inlichtingen zijn 
 <br>
 In het eerste lid wordt verstaan onder maximale erkenningscapaciteit: het maximale aantal te erkennen woongelegenheden in centra voor kortverblijf en woonzorgcentra.<br>
 <br>
-§ 2. De administrateur-generaal beslist over de erkenningskalender. Hij kan de ingediende erkenningskalender goedkeuren, afwijzen, het daarin vermelde trimester wijzigen in een later trimester of, als de betrokken initiatiefnemer ermee akkoord gaat, in een voorafgaand trimester.<br>
+§ 2. De secretaris-generaal beslist over de erkenningskalender. Hij kan de ingediende erkenningskalender goedkeuren, afwijzen, het daarin vermelde trimester wijzigen in een later trimester of, als de betrokken initiatiefnemer ermee akkoord gaat, in een voorafgaand trimester.<br>
 <br>
-De beslissing van de administrateur-generaal over het trimester waarin de erkenning moet ingaan, wordt uiterlijk honderdtwintig dagen na de uiterste indieningsdatum met een aangetekende brief of op een andere wijze die de minister bepaalt, aan de initiatiefnemer meegedeeld. Die beslissing maakt integraal deel uit van de voorafgaande vergunning.
+De beslissing van de secretaris-generaal over het trimester waarin de erkenning moet ingaan, wordt uiterlijk honderdtwintig dagen na de uiterste indieningsdatum met een aangetekende brief of op een andere wijze die de minister bepaalt, aan de initiatiefnemer meegedeeld. Die beslissing maakt integraal deel uit van de voorafgaande vergunning.
 
 ## HOOFDSTUK 3. Omzettingskalenders
 
@@ -97,7 +98,7 @@ De beslissing van de administrateur-generaal over het trimester waarin de erkenn
 
 ### ART 5.
 
-De initiatiefnemers die houder zijn van een voorafgaande vergunning voor woongelegenheden in centra voor kortverblijf of woonzorgcentra kunnen uiterlijk op 1 februari 2019 bij het agentschap met een aangetekende brief of op een andere wijze die de minister bepaalt, een omzettingskalender indienen om die voorafgaande vergunning geheel of gedeeltelijk om te zetten in:<br>
+De initiatiefnemers die houder zijn van een voorafgaande vergunning voor woongelegenheden in centra voor kortverblijf of woonzorgcentra kunnen uiterlijk op 1 februari 2019 bij de administratie met een aangetekende brief of op een andere wijze die de minister bepaalt, een omzettingskalender indienen om die voorafgaande vergunning geheel of gedeeltelijk om te zetten in:<br>
 1° een planningsvergunning voor de bijkomende erkenning van een woongelegenheid in een woonzorgcentrum, waarvan ze de bijzondere erkenning willen laten ingaan in 2020, 2021, 2022, 2023, 2024 of 2025;<br>
 2° verblijfseenheden met een bijkomende erkenning als dagverzorgingscentrum voor zorgafhankelijke personen, waarvoor ze de bijzondere erkenning willen laten ingaan in 2020, 2021, 2022, 2023, 2024 of 2025;<br>
 3° een bijkomende erkenning als oriënterend kortverblijf die ze willen laten ingaan in 2020, 2021, 2022, 2023, 2024 of 2025;<br>
@@ -112,7 +113,7 @@ De initiatiefnemers dienen per doelzorgvorm voor het geheel van erkenningen en b
 <br>
 Als de initiatiefnemer een rechtspersoon is, wordt bij de omzettingskalender een rechtsgeldige beslissing van het beheersorgaan gevoegd.<br>
 <br>
-Als bij de ingediende omzettingskalender niet alle stukken of inlichtingen zijn gevoegd, deelt het agentschap dat uiterlijk vijftien dagen na de uiterste indieningsdatum mee aan de oorspronkelijke initiatiefnemer. De oorspronkelijke initiatiefnemer kan binnen vijftien dagen na die mededeling de omzettingskalender vervolledigen. Als niet alle ontbrekende stukken of inlichtingen aan het agentschap zijn bezorgd op het moment waarop die termijn verstrijkt, verklaart het agentschap de ingediende omzettingskalender onontvankelijk en brengt het de oorspronkelijke initiatiefnemer daarvan op de hoogte.
+Als bij de ingediende omzettingskalender niet alle stukken of inlichtingen zijn gevoegd, deelt de administratie dat uiterlijk vijftien dagen na de uiterste indieningsdatum mee aan de oorspronkelijke initiatiefnemer. De oorspronkelijke initiatiefnemer kan binnen vijftien dagen na die mededeling de omzettingskalender vervolledigen. Als niet alle ontbrekende stukken of inlichtingen aan de administratie zijn bezorgd op het moment waarop die termijn verstrijkt, verklaart de administratie de ingediende omzettingskalender onontvankelijk en brengt het de oorspronkelijke initiatiefnemer daarvan op de hoogte.
 
 ### ART 6.
 
@@ -120,7 +121,7 @@ Een woongelegenheid komt in aanmerking voor omzetting als in het werkingsgebied 
 
 ### ART 7.
 
-§ 1. Het agentschap onderzoekt of de omzetting in het trimester dat in de omzettingskalender is vermeld, mogelijk is binnen de maximale omzettingscapaciteit en de vastgelegde begrotingskredieten voor het betreffende jaar. Als volgens de ingediende omzettingskalenders het aantal woongelegenheden dat initiatiefnemers in een bepaald trimester willen laten omzetten, hoger ligt dan de maximale omzettingscapaciteit van dat trimester, past het agentschap achtereenvolgens de volgende prioriteringscriteria toe:<br>
+§ 1. De administratie onderzoekt of de omzetting in het trimester dat in de omzettingskalender is vermeld, mogelijk is binnen de maximale omzettingscapaciteit en de vastgelegde begrotingskredieten voor het betreffende jaar. Als volgens de ingediende omzettingskalenders het aantal woongelegenheden dat initiatiefnemers in een bepaald trimester willen laten omzetten, hoger ligt dan de maximale omzettingscapaciteit van dat trimester, past de administratie achtereenvolgens de volgende prioriteringscriteria toe:<br>
 1° woongelegenheden die niet na wijziging of samenvoeging als vermeld in hoofdstuk 4, voorafgaandelijk vergund zijn, krijgen een hogere prioriteit dan andere woongelegenheden;<br>
 2° binnen de categorieën van woongelegenheden, vermeld in punt 1°, krijgen woongelegenheden waaraan een omzettingskalender wordt toegewezen waarvan het trimester volgt op het trimester, vermeld in de ingediende omzettingskalender, een hogere prioriteit in dat trimester dan woongelegenheden waarvoor de ingediende omzettingskalender hetzelfde trimester vermeldt;<br>
 3° binnen de categorieën van woongelegenheden, vermeld in punt 2°, worden woongelegenheden gerangschikt op de doelzorgvorm in de volgorde waarin ze vermeld zijn in artikel 5, waarbij prioriteit wordt verleend aan de hoger geplaatste doelzorgvorm;<br>
@@ -129,7 +130,7 @@ Een woongelegenheid komt in aanmerking voor omzetting als in het werkingsgebied 
 <br>
 In het eerste lid wordt verstaan onder maximale omzettingscapaciteit: het maximale aantal om te zetten woongelegenheden.<br>
 <br>
-§ 2. De administrateur-generaal beslist over de omzettingskalender. Hij kan de ingediende omzettingskalender goedkeuren, afwijzen of het daarin vermelde trimester wijzigen in een later trimester of, als de betrokken initiatiefnemer ermee akkoord gaat, in een voorafgaand trimester.<br>
+§ 2. De secretaris-generaal beslist over de omzettingskalender. Hij kan de ingediende omzettingskalender goedkeuren, afwijzen of het daarin vermelde trimester wijzigen in een later trimester of, als de betrokken initiatiefnemer ermee akkoord gaat, in een voorafgaand trimester.<br>
 <br>
 De beslissing wordt uiterlijk honderdtwintig dagen na de uiterste indieningsdatum aan de initiatiefnemer meegedeeld met een aangetekende brief of op een andere wijze die de minister bepaalt.
 
@@ -143,13 +144,13 @@ Daarvoor voegt de initiatiefnemer bij de omzettingskalender alle documenten en i
 
 ### ART 9.
 
-Als aan een woongelegenheid in een woonzorgcentrum een bijkomende erkenning wordt verleend waaraan de administrateur-generaal een omzettingskalender heeft toegewezen, wordt die bijkomende erkenning van rechtswege geacht te passen in het maximale aantal woongelegenheden met een bijkomende erkenning en wordt het maximale aantal woongelegenheden met een bijkomende erkenning verhoogd met een woongelegenheid.<br>
+Als aan een woongelegenheid in een woonzorgcentrum een bijkomende erkenning wordt verleend waaraan de secretaris-generaal een omzettingskalender heeft toegewezen, wordt die bijkomende erkenning van rechtswege geacht te passen in het maximale aantal woongelegenheden met een bijkomende erkenning en wordt het maximale aantal woongelegenheden met een bijkomende erkenning verhoogd met een woongelegenheid.<br>
 <br>
 De bijkomende erkenning van woongelegenheden waarvoor de initiatiefnemer een planningsvergunning heeft gekregen met toepassing van dit besluit,&nbsp;is niet onderworpen aan de bepalingen van hoofdstuk 2 van het besluit van de Vlaamse Regering van 15 april 2016 houdende de toekenning en de erkenning van bijkomende en vrijgekomen woongelegenheden met een bijkomende erkenning.
 
 ### ART 10.
 
-Als de administrateur-generaal de planningsvergunning verleent, wijst hij ook de omzettingskalender toe, die het trimester vermeldt waarin de bijkomende erkenning moet ingaan.
+Als de secretaris-generaal de planningsvergunning verleent, wijst hij ook de omzettingskalender toe, die het trimester vermeldt waarin de bijkomende erkenning moet ingaan.
 
 ## Afdeling 3. Omzetting in een verblijfseenheid [met een bijkomende erkenning als dagverzorgingscentrum voor de opvang van zorgafhankelijke personen (verv. BVR 15 maart 2019, art. 42, I: 21 mei 2019)]
 
@@ -161,11 +162,11 @@ Daarvoor voegt de initiatiefnemer bij de omzettingskalender een verklaring op er
 
 ### ART 12.
 
-De verblijfseenheden bijkomende erkenning als centrum voor dagverzorging voor zorgafhankelijke ouderen waaraan de administrateur-generaal een omzettingskalender heeft toegewezen, worden geacht van rechtswege te passen in de programmatie.
+De verblijfseenheden bijkomende erkenning als centrum voor dagverzorging voor zorgafhankelijke ouderen waaraan de secretaris-generaal een omzettingskalender heeft toegewezen, worden geacht van rechtswege te passen in de programmatie.
 
 ### ART 13.
 
-De bijkomende erkenning moet ingaan in het trimester, vermeld in de omzettingskalender die de administrateur-generaal toewijst.
+De bijkomende erkenning moet ingaan in het trimester, vermeld in de omzettingskalender die de secretaris-generaal toewijst.
 
 ## Afdeling 4. Omzetting in oriënterend kortverblijf
 
@@ -177,11 +178,11 @@ Daarvoor voegt de initiatiefnemer bij de omzettingskalender een verklaring op er
 
 ### ART 15.
 
-Een woongelegenheid met een bijkomende erkenning als oriënterend kortverblijf waaraan de administrateur-generaal een omzettingskalender heeft toegewezen, wordt geacht van rechtswege te passen in de programmatie.
+Een woongelegenheid met een bijkomende erkenning als oriënterend kortverblijf waaraan de secretaris-generaal een omzettingskalender heeft toegewezen, wordt geacht van rechtswege te passen in de programmatie.
 
 ### ART 16.
 
-Als de administrateur-generaal de planningsvergunning verleent, wijst hij ook de omzettingskalender toe, die het trimester vermeldt waarin de bijkomende erkenning moet ingaan.
+Als de secretaris-generaal de planningsvergunning verleent, wijst hij ook de omzettingskalender toe, die het trimester vermeldt waarin de bijkomende erkenning moet ingaan.
 
 ## Afdeling 5. Omzetting in een centrum voor kortverblijf
 
@@ -193,11 +194,11 @@ Daarvoor voegt de initiatiefnemer bij de omzettingskalender alle documenten en i
 
 ### ART 18.
 
-Een woongelegenheid waaraan de administrateur-generaal een omzettingskalender heeft toegewezen, wordt geacht van rechtswege te passen in de programmatie.
+Een woongelegenheid waaraan de secretaris-generaal een omzettingskalender heeft toegewezen, wordt geacht van rechtswege te passen in de programmatie.
 
 ### ART 19.
 
-Als de administrateur-generaal de voorafgaande vergunning verleent, wijst hij ook de omzettingskalender toe, die het trimester vermeldt waarin de erkenning moet ingaan.
+Als de secretaris-generaal de voorafgaande vergunning verleent, wijst hij ook de omzettingskalender toe, die het trimester vermeldt waarin de erkenning moet ingaan.
 
 ## Afdeling 6. Omzetting in een lokaal dienstencentrum
 
@@ -209,7 +210,7 @@ Als het lokaal dienstencentrum, vermeld in eerste lid, nog niet erkend is, vraag
 
 ### ART 21.
 
-Een lokaal dienstencentrum waaraan de administrateur-generaal een omzettingskalender heeft toegewezen, ontvangt een jaarlijkse subsidie vanaf het trimester dat erin vermeld is.<br>
+Een lokaal dienstencentrum waaraan de secretaris-generaal een omzettingskalender heeft toegewezen, ontvangt een jaarlijkse subsidie vanaf het trimester dat erin vermeld is.<br>
 <br>
 Als het lokaal dienstencentrum nog niet erkend is, moet de erkenning uiterlijk ingaan op de eerste dag van het trimester, vermeld in de omzettingskalender.
 
@@ -227,11 +228,11 @@ Behalve als dat anders bepaald is, zijn de bepalingen uit de reguliere procedure
 
 ### ART 23.
 
-Een dagverzorgingscentrum niet conform artikel 51 en verblijfseenheden met een bijkomende erkenning als dagverzorgingscentrum voor de opvang van zorgafhankelijke personen waaraan de administrateur-generaal een omzettingskalender heeft toegewezen, worden geacht van rechtswege te passen in de programmatie.
+Een dagverzorgingscentrum niet conform artikel 51 en verblijfseenheden met een bijkomende erkenning als dagverzorgingscentrum voor de opvang van zorgafhankelijke personen waaraan de secretaris-generaal een omzettingskalender heeft toegewezen, worden geacht van rechtswege te passen in de programmatie.
 
 ### ART 24.
 
-Als de administrateur-generaal de voorafgaande vergunning verleent, wijst hij ook de omzettingskalender toe, die het trimester vermeldt waarin de erkenning van het dagverzorgingscentrum niet conform artikel 51 en de bijkomende erkenning voor de vijf verblijfseenheden van een dagverzorgingscentrum voor de opvang van zorgafhankelijke personen moeten ingaan.
+Als de secretaris-generaal de voorafgaande vergunning verleent, wijst hij ook de omzettingskalender toe, die het trimester vermeldt waarin de erkenning van het dagverzorgingscentrum niet conform artikel 51 en de bijkomende erkenning voor de vijf verblijfseenheden van een dagverzorgingscentrum voor de opvang van zorgafhankelijke personen moeten ingaan.
 
 ## Afdeling 8. Omzetting in verblijfseenheden [met een bijkomende erkenning als dagverzorgingscentrum voor de opvang van personen met (verv. BVR 15 maart 2019, art. 48, I: 21 mei 2019)] een ernstige ziekte of een voorafgaande vergunning voor een dagverzorgingscentrum voor palliatieve verzorging die moet leiden tot de erkenning als dagverzorgingscentrum voor palliatieve verzorging met vijf verblijfseenheden bijzondere erkenning als centrum voor dagverzorging voor personen die lijden aan een ernstige ziekte
 
@@ -249,13 +250,13 @@ Behalve als dat anders bepaald is, zijn de bepalingen uit de reguliere procedure
 
 ### ART 26.
 
-Een erkenning als dagverzorgingscentrum voor palliatieve verzorging en verblijfseenheden met een bijkomende erkenning als dagverzorgingscentrum voor de opvang van personen met een ernstige ziekte, waaraan de administrateur-generaal een omzettingskalender heeft toegewezen, worden geacht van rechtswege te passen in de programmatie.
+Een erkenning als dagverzorgingscentrum voor palliatieve verzorging en verblijfseenheden met een bijkomende erkenning als dagverzorgingscentrum voor de opvang van personen met een ernstige ziekte, waaraan de secretaris-generaal een omzettingskalender heeft toegewezen, worden geacht van rechtswege te passen in de programmatie.
 
 ### ART 27.
 
-De bijkomende erkenning moet ingaan in het trimester, vermeld in de omzettingskalender die de administrateur-generaal toewijst.<br>
+De bijkomende erkenning moet ingaan in het trimester, vermeld in de omzettingskalender die de secretaris-generaal toewijst.<br>
 <br>
-Als de administrateur-generaal de voorafgaande vergunning verleent, wijst hij ook de omzettingskalender toe, die het trimester vermeldt waarin de erkenning van het dagverzorgingscentrum voor palliatieve verzorging moet ingaan.
+Als de secretaris-generaal de voorafgaande vergunning verleent, wijst hij ook de omzettingskalender toe, die het trimester vermeldt waarin de erkenning van het dagverzorgingscentrum voor palliatieve verzorging moet ingaan.
 
 ## Afdeling 9. Omzetting in een dagverzorgingscentrum conform artikel 51
 
@@ -267,11 +268,11 @@ Daarvoor voegt de initiatiefnemer bij de omzettingskalender alle documenten en i
 
 ### ART 29.
 
-Een dagverzorgingscentrum conform artikel 51 waaraan de administrateur-generaal een omzettingskalender heeft toegewezen, wordt geacht van rechtswege te passen in de programmatie.
+Een dagverzorgingscentrum conform artikel 51 waaraan de secretaris-generaal een omzettingskalender heeft toegewezen, wordt geacht van rechtswege te passen in de programmatie.
 
 ### ART 30.
 
-Als de administrateur-generaal de voorafgaande vergunning verleent, wijst hij ook de omzettingskalender toe, die het trimester vermeldt waarin de erkenning moet ingaan.
+Als de secretaris-generaal de voorafgaande vergunning verleent, wijst hij ook de omzettingskalender toe, die het trimester vermeldt waarin de erkenning moet ingaan.
 
 ## Afdeling 10. Omzetting in een dienst voor gezinszorg en aanvullende thuiszorg
 
@@ -295,13 +296,13 @@ Daarvoor voegt de initiatiefnemer bij de omzettingskalender een verklaring op er
 
 De erkenning van de dienst voor gezinszorg en aanvullende thuiszorg moet ingaan op de eerste dag van het trimester, vermeld in de omzettingskalender.<br>
 <br>
-Subsidiabele uren gezinszorg en voltijdsequivalenten aanvullende thuiszorg waaraan de administrateur-generaal met toepassing van artikel 31, § 1 of § 2, een omzettingskalender heeft toegewezen, komen in aanmerking voor subsidiëring vanaf het trimester dat erin vermeld is. In het eerste jaar worden die subsidiabele uren gezinszorg proportioneel verminderd.
+Subsidiabele uren gezinszorg en voltijdsequivalenten aanvullende thuiszorg waaraan de secretaris-generaal met toepassing van artikel 31, § 1 of § 2, een omzettingskalender heeft toegewezen, komen in aanmerking voor subsidiëring vanaf het trimester dat erin vermeld is. In het eerste jaar worden die subsidiabele uren gezinszorg proportioneel verminderd.
 
 ## HOOFDSTUK 4. Wijziging en samenvoeging van voorafgaande vergunningen
 
 ### ART 33.
 
-Naar aanleiding van de indiening van een erkennings- of omzettingskalender kan de administrateur-generaal, op verzoek van de oorspronkelijke initiatiefnemer, de initiatiefnemer, vermeld in de voorafgaande vergunning wijzigen, op voorwaarde dat hij een erkennings- of omzettingskalender toewijst aan het initiatief.<br>
+Naar aanleiding van de indiening van een erkennings- of omzettingskalender kan de secretaris-generaal, op verzoek van de oorspronkelijke initiatiefnemer, de initiatiefnemer, vermeld in de voorafgaande vergunning wijzigen, op voorwaarde dat hij een erkennings- of omzettingskalender toewijst aan het initiatief.<br>
 <br>
 Daarvoor voegen de oorspronkelijke initiatiefnemers bij de erkennings- of omzettingskalender, vermeld in artikel 3 en 5, een dossier tot wijziging van de initiatiefnemer dat minstens de volgende stukken en inlichtingen bevat:<br>
 1° de volledige identiteit van de oorspronkelijke initiatiefnemer of initiatiefnemers, en van de nieuwe initiatiefnemer of initiatiefnemers;<br>
@@ -311,11 +312,11 @@ Daarvoor voegen de oorspronkelijke initiatiefnemers bij de erkennings- of omzett
 <br>
 De minister kan nadere regels bepalen voor de wijze waarop het dossier tot wijziging van de initiatiefnemer wordt ingediend.<br>
 <br>
-Als bij de ingediende erkennings- of omzettingskalender niet alle stukken of inlichtingen, vermeld in het tweede lid, zijn gevoegd, deelt het agentschap dat uiterlijk vijftien dagen na de uiterste indieningsdatum mee aan de oorspronkelijke initiatiefnemer. De oorspronkelijke initiatiefnemer kan binnen vijftien dagen na die mededeling de vraag tot wijziging van de initiatiefnemer vervolledigen. Als niet alle ontbrekende stukken of inlichtingen aan het agentschap zijn bezorgd op het moment waarop die termijn verstrijkt, verklaart het agentschap de vraag onontvankelijk en brengt het de oorspronkelijke initiatiefnemer daarvan op de hoogte.
+Als bij de ingediende erkennings- of omzettingskalender niet alle stukken of inlichtingen, vermeld in het tweede lid, zijn gevoegd, deelt de administratie dat uiterlijk vijftien dagen na de uiterste indieningsdatum mee aan de oorspronkelijke initiatiefnemer. De oorspronkelijke initiatiefnemer kan binnen vijftien dagen na die mededeling de vraag tot wijziging van de initiatiefnemer vervolledigen. Als niet alle ontbrekende stukken of inlichtingen aan de administratie zijn bezorgd op het moment waarop die termijn verstrijkt, verklaart de administratie de vraag onontvankelijk en brengt het de oorspronkelijke initiatiefnemer daarvan op de hoogte.
 
 ### ART 34.
 
-§ 1. Naar aanleiding van de indiening van een erkennings- of omzettingskalender kan de administrateur-generaal, op verzoek van de initiatiefnemer, de inplantingsplaats van een woongelegenheid wijzigen in een andere inplantingsplaats binnen het werkingsgebied, op voorwaarde dat hij een erkennings- of omzettingskalender toewijst aan het initiatief.<br>
+§ 1. Naar aanleiding van de indiening van een erkennings- of omzettingskalender kan de secretaris-generaal, op verzoek van de initiatiefnemer, de inplantingsplaats van een woongelegenheid wijzigen in een andere inplantingsplaats binnen het werkingsgebied, op voorwaarde dat hij een erkennings- of omzettingskalender toewijst aan het initiatief.<br>
 <br>
 Daarvoor voegt de initiatiefnemer bij de erkennings- of omzettingskalender, vermeld in artikel 3 en 5, een dossier tot wijziging van de inplantingsplaats dat minstens de volgende stukken en inlichtingen bevat:<br>
 1° de exacte locatie van de nieuwe inplantingsplaats;<br>
@@ -327,15 +328,15 @@ Daarvoor voegt de initiatiefnemer bij de erkennings- of omzettingskalender, verm
 <br>
 De minister kan nadere regels bepalen voor de wijze waarop het dossier tot wijziging van de inplantingsplaats wordt ingediend.<br>
 <br>
-Als bij de ingediende erkennings- of omzettingskalender niet alle stukken of inlichtingen, vermeld in het tweede lid, zijn gevoegd, deelt het agentschap dat uiterlijk vijftien dagen na de uiterste indieningsdatum mee aan de betrokken initiatiefnemer. De initiatiefnemer kan binnen vijftien dagen na die mededeling de vraag tot wijziging van de inplantingsplaats vervolledigen. Als niet alle ontbrekende stukken of inlichtingen aan het agentschap zijn bezorgd op het moment waarop die termijn verstrijkt, verklaart het agentschap de vraag onontvankelijk en brengt het de initiatiefnemer daarvan op de hoogte.<br>
+Als bij de ingediende erkennings- of omzettingskalender niet alle stukken of inlichtingen, vermeld in het tweede lid, zijn gevoegd, deelt de administratie dat uiterlijk vijftien dagen na de uiterste indieningsdatum mee aan de betrokken initiatiefnemer. De initiatiefnemer kan binnen vijftien dagen na die mededeling de vraag tot wijziging van de inplantingsplaats vervolledigen. Als niet alle ontbrekende stukken of inlichtingen aan de administratie zijn bezorgd op het moment waarop die termijn verstrijkt, verklaart de administratie de vraag onontvankelijk en brengt het de initiatiefnemer daarvan op de hoogte.<br>
 <br>
-§ 2. Als de initiatiefnemer bij de aanvraag tot wijziging een bewijs van aankoopoptie of een principiële beslissing tot onteigening van de inplantingsplaats heeft gevoegd, bezorgt hij binnen een jaar na de datum van de wijziging het eigendomsbewijs voor dat onroerend goed aan het agentschap.<br>
+§ 2. Als de initiatiefnemer bij de aanvraag tot wijziging een bewijs van aankoopoptie of een principiële beslissing tot onteigening van de inplantingsplaats heeft gevoegd, bezorgt hij binnen een jaar na de datum van de wijziging het eigendomsbewijs voor dat onroerend goed aan de administratie.<br>
 <br>
 Als dat vereist is, bezorgt de initiatiefnemer ten laatste drie jaar na de datum van de wijziging een bewijs van een ontvankelijke aanvraag van een omgevingsvergunning voor stedenbouwkundige handelingen met betrekking tot het initiatief of een kopie van de omgevingsvergunning voor stedenbouwkundige handelingen om het initiatief op de inplantingsplaats te verwezenlijken.
 
 ### ART 35.
 
-§ 1. Naar aanleiding van de indiening van een erkennings- of omzettingskalender kan de administrateur-generaal, op gezamenlijk verzoek van initiatiefnemers die houder zijn van voorafgaande vergunningen voor de realisatie van woongelegenheden in centra voor kortverblijf of woonzorgcentra op verschillende inplantingsplaatsen binnen hetzelfde werkingsgebied, het aantal woongelegenheden waarop die verschillende voorafgaande vergunningen betrekking hebben, geheel of gedeeltelijk samenvoegen tot één voorafgaande vergunning voor de realisatie van woongelegenheden in een centrum voor kortverblijf of woonzorgcentrum op een van die inplantingsplaatsen of op een andere inplantingsplaats binnen het werkingsgebied, op voorwaarde dat hij een erkennings- of omzettingskalender toewijst aan het initiatief.<br>
+§ 1. Naar aanleiding van de indiening van een erkennings- of omzettingskalender kan de secretaris-generaal, op gezamenlijk verzoek van initiatiefnemers die houder zijn van voorafgaande vergunningen voor de realisatie van woongelegenheden in centra voor kortverblijf of woonzorgcentra op verschillende inplantingsplaatsen binnen hetzelfde werkingsgebied, het aantal woongelegenheden waarop die verschillende voorafgaande vergunningen betrekking hebben, geheel of gedeeltelijk samenvoegen tot één voorafgaande vergunning voor de realisatie van woongelegenheden in een centrum voor kortverblijf of woonzorgcentrum op een van die inplantingsplaatsen of op een andere inplantingsplaats binnen het werkingsgebied, op voorwaarde dat hij een erkennings- of omzettingskalender toewijst aan het initiatief.<br>
 <br>
 Daarvoor voegt de initiatiefnemer bij de erkennings- of omzettingskalender, vermeld in artikel 3 en 5, een dossier tot samenvoeging dat minstens de volgende stukken en inlichtingen bevat:<br>
 1° de volledige identiteit van de initiatiefnemer of de initiatiefnemers;<br>
@@ -350,19 +351,19 @@ Daarvoor voegt de initiatiefnemer bij de erkennings- of omzettingskalender, verm
 <br>
 De minister kan nadere regels bepalen voor de wijze waarop het dossier tot samenvoeging wordt ingediend.<br>
 <br>
-Als bij de ingediende erkennings- of omzettingskalender niet alle stukken of inlichtingen, vermeld in het tweede lid, zijn gevoegd, deelt het agentschap dat uiterlijk vijftien dagen na de uiterste indieningsdatum mee aan de betrokken initiatiefnemer. De initiatiefnemer kan binnen vijftien dagen na die mededeling de vraag tot samenvoeging vervolledigen.<br>
+Als bij de ingediende erkennings- of omzettingskalender niet alle stukken of inlichtingen, vermeld in het tweede lid, zijn gevoegd, deelt de administratie dat uiterlijk vijftien dagen na de uiterste indieningsdatum mee aan de betrokken initiatiefnemer. De initiatiefnemer kan binnen vijftien dagen na die mededeling de vraag tot samenvoeging vervolledigen.<br>
 <br>
-Als niet alle ontbrekende stukken of inlichtingen aan het agentschap zijn bezorgd op het moment waarop die termijn verstrijkt, verklaart het agentschap de vraag onontvankelijk en brengt het de initiatiefnemer daarvan op de hoogte.<br>
+Als niet alle ontbrekende stukken of inlichtingen aan de administratie zijn bezorgd op het moment waarop die termijn verstrijkt, verklaart de administratie de vraag onontvankelijk en brengt het de initiatiefnemer daarvan op de hoogte.<br>
 <br>
 Woongelegenheden die behoren tot de pilootprojecten, komen niet in aanmerking voor samenvoeging.<br>
 <br>
-§ 2. Als de initiatiefnemer bij de aanvraag tot wijziging een bewijs van aankoopoptie of een principiële beslissing tot onteigening van de inplantingsplaats heeft gevoegd, bezorgt hij binnen een jaar na de datum van de wijziging het eigendomsbewijs voor dat onroerend goed aan het agentschap.<br>
+§ 2. Als de initiatiefnemer bij de aanvraag tot wijziging een bewijs van aankoopoptie of een principiële beslissing tot onteigening van de inplantingsplaats heeft gevoegd, bezorgt hij binnen een jaar na de datum van de wijziging het eigendomsbewijs voor dat onroerend goed aan de administratie.<br>
 <br>
 Als dat vereist is, bezorgt de initiatiefnemer ten laatste drie jaar na de datum van de wijziging een bewijs van een ontvankelijke aanvraag van een omgevingsvergunning voor stedenbouwkundige handelingen met betrekking tot het initiatief of een kopie van de omgevingsvergunning voor stedenbouwkundige handelingen om het initiatief op de inplantingsplaats te verwezenlijken.
 
 ### ART 36.
 
-§ 1. Naar aanleiding van de indiening van een erkenningskalender kan de administrateur-generaal:<br>
+§ 1. Naar aanleiding van de indiening van een erkenningskalender kan de secretaris-generaal:<br>
 1° op verzoek van de initiatiefnemer die houder is van voorafgaande vergunningen voor de realisatie van woongelegenheden in centra voor kortverblijf of woonzorgcentra op verschillende inplantingsplaatsen binnen twee aangrenzende werkingsgebieden, het aantal woongelegenheden waarop die voorafgaande vergunningen betrekking hebben, geheel of gedeeltelijk samenvoegen tot één voorafgaande vergunning voor de realisatie van woongelegenheden in een centrum voor kortverblijf of woonzorgcentrum op een van die inplantingsplaatsen of in een ander woonzorgcentrum of centrum voor kortverblijf dat al erkend is en in een van die werkingsgebieden ligt, als aan de voorwaarden, vermeld in het tweede lid, is voldaan;<br>
 2° op verzoek van de initiatiefnemer die houder is van een voorafgaande vergunning voor de realisatie van woongelegenheden in een centrum voor kortverblijf of een woonzorgcentrum en een erkenning voor dergelijke woongelegenheden op verschillende inplantingsplaatsen binnen twee aangrenzende werkingsgebieden, de inplantingsplaats van de woongelegenheden waaraan nog geen erkenning werd verleend, geheel of gedeeltelijk wijzigen naar de inplantingsplaats van de woongelegenheden die al erkend zijn, als aan de voorwaarden, vermeld in het tweede lid, is voldaan.<br>
 <br>
@@ -370,7 +371,7 @@ De woongelegenheden, vermeld in het eerste lid, komen in aanmerking voor samenvo
 1° de houder van de voorafgaande vergunningen of de erkenning is niet gewijzigd sinds 1 januari 2018;<br>
 2° voor het initiatief wordt een erkenningskalender ingediend voor het vierde trimester van 2025;<br>
 3° in het werkingsgebied van waaruit woongelegenheden naar het andere werkingsgebied zouden worden verplaatst, zal op 30 september 2025 minstens 80% van het programmacijfer voor woonzorgcentra of centra voor kortverblijf zijn ingevuld, rekening houdend met de woongelegenheden die al erkend zijn, woongelegenheden waarvoor een andere voorafgaande vergunning is verleend als de voorafgaande vergunning, vermeld in artikel 2, en woongelegenheden waarvoor een erkenningskalender is goedgekeurd;<br>
-4° de administrateur-generaal wijst een erkenningskalender toe aan het initiatief.<br>
+4° de secretaris-generaal wijst een erkenningskalender toe aan het initiatief.<br>
 <br>
 Daarvoor voegt de initiatiefnemer bij de erkenningskalender, vermeld in artikel 3, een dossier tot samenvoeging of tot wijziging van de inplantingsplaats dat minstens de volgende stukken en inlichtingen bevat:<br>
 1° de volledige identiteit van de initiatiefnemer;<br>
@@ -383,7 +384,7 @@ Daarvoor voegt de initiatiefnemer bij de erkenningskalender, vermeld in artikel 
 <br>
 De minister kan nadere regels bepalen voor de wijze waarop het dossier tot samenvoeging wordt ingediend.<br>
 <br>
-Als bij de ingediende erkenningskalender niet alle stukken of inlichtingen, vermeld in het tweede lid, zijn gevoegd, deelt het agentschap dat uiterlijk vijftien dagen na de uiterste indieningsdatum mee aan de betrokken initiatiefnemer. De initiatiefnemer kan binnen vijftien dagen na die mededeling de vraag tot samenvoeging of tot wijziging van de inplantingsplaats te vervolledigen. Als niet alle ontbrekende stukken of inlichtingen aan het agentschap zijn bezorgd op het moment waarop die termijn verstrijkt, verklaart het agentschap de vraag onontvankelijk en brengt het de initiatiefnemer daarvan op de hoogte.<br>
+Als bij de ingediende erkenningskalender niet alle stukken of inlichtingen, vermeld in het tweede lid, zijn gevoegd, deelt de administratie dat uiterlijk vijftien dagen na de uiterste indieningsdatum mee aan de betrokken initiatiefnemer. De initiatiefnemer kan binnen vijftien dagen na die mededeling de vraag tot samenvoeging of tot wijziging van de inplantingsplaats te vervolledigen. Als niet alle ontbrekende stukken of inlichtingen aan de administratie zijn bezorgd op het moment waarop die termijn verstrijkt, verklaart de administratie de vraag onontvankelijk en brengt het de initiatiefnemer daarvan op de hoogte.<br>
 <br>
 Woongelegenheden die behoren tot de pilootprojecten, komen niet in aanmerking voor samenvoeging.<br>
 <br>
@@ -394,30 +395,30 @@ Woongelegenheden die behoren tot de pilootprojecten, komen niet in aanmerking vo
 ### ART 37.
 
 § 1. De voorafgaande vergunning vervalt geheel of gedeeltelijk:<br>
-1° als de initiatiefnemer voor het initiatief geen erkennings- of omzettingskalender aan het agentschap heeft bezorgd;<br>
-2° als de initiatiefnemer bij de aanvraag tot wijziging, vermeld in hoofdstuk 4, een bewijs van aankoopoptie of een principiële beslissing tot onteigening van de inplantingsplaats heeft gevoegd en hij het agentschap niet binnen een jaar na de datum van de wijziging het eigendomsbewijs voor dat onroerend goed heeft bezorgd;<br>
-3° als de initiatiefnemer een aanvraag tot wijziging als vermeld in hoofdstuk 4, heeft ingediend waarvoor het initiatief op die nieuwe inplantingsplaats moest worden gerealiseerd en hij niet te laatste drie jaar na de datum van de wijziging aan het agentschap het bewijs heeft geleverd dat een omgevingsvergunning voor stedenbouwkundige handelingen is verkregen of aangevraagd om het initiatief op de inplantingsplaats te verwezenlijken;<br>
+1° als de initiatiefnemer voor het initiatief geen erkennings- of omzettingskalender aan de administratie heeft bezorgd;<br>
+2° als de initiatiefnemer bij de aanvraag tot wijziging, vermeld in hoofdstuk 4, een bewijs van aankoopoptie of een principiële beslissing tot onteigening van de inplantingsplaats heeft gevoegd en hij de administratie niet binnen een jaar na de datum van de wijziging het eigendomsbewijs voor dat onroerend goed heeft bezorgd;<br>
+3° als de initiatiefnemer een aanvraag tot wijziging als vermeld in hoofdstuk 4, heeft ingediend waarvoor het initiatief op die nieuwe inplantingsplaats moest worden gerealiseerd en hij niet te laatste drie jaar na de datum van de wijziging aan de administratie het bewijs heeft geleverd dat een omgevingsvergunning voor stedenbouwkundige handelingen is verkregen of aangevraagd om het initiatief op de inplantingsplaats te verwezenlijken;<br>
 4° als voor een woongelegenheid waaraan een erkennings- of een omzettingskalender is toegewezen, de erkenning of de bijkomende erkenning niet is aangevraagd met een ingangsdatum in het trimester, vermeld in de erkennings- of de omzettingskalender.<br>
 <br>
 De planningsvergunning, vermeld in hoofdstuk 3, vervalt als voor het bed waaraan een omzettingskalender is toegewezen, de bijkomende erkenning niet is aangevraagd met een ingangsdatum in het trimester, vermeld in de omzettingskalender.<br>
 <br>
-§ 2. Voor de woongelegenheden waarvoor een erkennings- of omzettingskalender is ingediend, kan de administrateur-generaal de voorafgaande vergunning, de planningsvergunning, de erkenning, de bijkomende erkenning, de&nbsp;subsidie of de subsidiabele uren geheel of gedeeltelijk intrekken en de reeds betaalde subsidies terugvorderen als na onderzoek blijkt dat de initiatiefnemer bij de indiening van die erkenningskalender of omzettingskalender wetens en willens onjuiste informatie verschaft heeft aan het agentschap.<br>
+§ 2. Voor de woongelegenheden waarvoor een erkennings- of omzettingskalender is ingediend, kan de secretaris-generaal de voorafgaande vergunning, de planningsvergunning, de erkenning, de bijkomende erkenning, de&nbsp;subsidie of de subsidiabele uren geheel of gedeeltelijk intrekken en de reeds betaalde subsidies terugvorderen als na onderzoek blijkt dat de initiatiefnemer bij de indiening van die erkenningskalender of omzettingskalender wetens en willens onjuiste informatie verschaft heeft aan de administratie.<br>
 <br>
-Het agentschap brengt de initiatiefnemers aangetekend met kennisgeving van ontvangst op de hoogte van het gemotiveerde voornemen van de administrateur-generaal tot intrekking van de voorafgaande vergunning, de planningsvergunning, de erkenning, de bijkomende erkenning, de&nbsp;subsidie of de subsidiabele uren. De aangetekende zending ook de uitleg over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij het agentschap.<br>
+de administratie brengt de initiatiefnemers aangetekend met kennisgeving van ontvangst op de hoogte van het gemotiveerde voornemen van de secretaris-generaal tot intrekking van de voorafgaande vergunning, de planningsvergunning, de erkenning, de bijkomende erkenning, de&nbsp;subsidie of de subsidiabele uren. De aangetekende zending ook de uitleg over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij de administratie.<br>
 <br>
-Als de initiatiefnemer geen bezwaarschrift indient binnen een maand na de ontvangst van de aangetekende zending, vermeld in het eerste lid, wordt na het verstrijken van die termijn een beslissing van de administrateur-generaal tot tot intrekking van de voorafgaande vergunning, de planningsvergunning, de erkenning, de bijkomende erkenning, de subsidie of de subsidiabele uren aangetekend met kennisgeving van ontvangst, aan de initiatiefnemer bezorgd.
+Als de initiatiefnemer geen bezwaarschrift indient binnen een maand na de ontvangst van de aangetekende zending, vermeld in het eerste lid, wordt na het verstrijken van die termijn een beslissing van de secretaris-generaal tot tot intrekking van de voorafgaande vergunning, de planningsvergunning, de erkenning, de bijkomende erkenning, de subsidie of de subsidiabele uren aangetekend met kennisgeving van ontvangst, aan de initiatiefnemer bezorgd.
 
 ### ART 38.
 
-Als vanwege omstandigheden buiten de wil van de initiatiefnemers om de erkenning of bijkomende erkenning niet tijdig kan worden aangevraagd of de subsidie niet tijdig kan worden verleend, kan de administrateur-generaal maximaal twee jaar uitstel geven voor het trimester, vermeld in de erkennings- of omzettingskalender. De initiatiefnemers bezorgen daarover een omstandig gemotiveerd verzoek aan de administrateur-generaal met een aangetekende brief of op een andere wijze die de minister bepaalt, uiterlijk in het trimester, vermeld in de erkennings- of omzettingskalender.<br>
+Als vanwege omstandigheden buiten de wil van de initiatiefnemers om de erkenning of bijkomende erkenning niet tijdig kan worden aangevraagd of de subsidie niet tijdig kan worden verleend, kan de secretaris-generaal maximaal twee jaar uitstel geven voor het trimester, vermeld in de erkennings- of omzettingskalender. De initiatiefnemers bezorgen daarover een omstandig gemotiveerd verzoek aan de secretaris-generaal met een aangetekende brief of op een andere wijze die de minister bepaalt, uiterlijk in het trimester, vermeld in de erkennings- of omzettingskalender.<br>
 <br>
-Als vanwege uitzonderlijke omstandigheden buiten de wil van de initiatiefnemers om de erkenning of bijkomende erkenning niet tijdig kan worden aangevraagd of de subsidie niet tijdig kan worden verleend, kan de administrateur-generaal boven op het uitstel, vermeld in het eerste lid, een uitstel van maximaal één jaar geven voor het trimester, vermeld in de erkennings- of omzettingskalender. De initiatiefnemers bezorgen daarover een omstandig gemotiveerd verzoek aan de administrateur-generaal met een aangetekende brief of op een andere wijze die de minister bepaalt, uiterlijk in het trimester, vermeld in de erkennings- of omzettingskalender.<br>
+Als vanwege uitzonderlijke omstandigheden buiten de wil van de initiatiefnemers om de erkenning of bijkomende erkenning niet tijdig kan worden aangevraagd of de subsidie niet tijdig kan worden verleend, kan de secretaris-generaal boven op het uitstel, vermeld in het eerste lid, een uitstel van maximaal één jaar geven voor het trimester, vermeld in de erkennings- of omzettingskalender. De initiatiefnemers bezorgen daarover een omstandig gemotiveerd verzoek aan de secretaris-generaal met een aangetekende brief of op een andere wijze die de minister bepaalt, uiterlijk in het trimester, vermeld in de erkennings- of omzettingskalender.<br>
 <br>
-Als de administrateur-generaal uitstel geeft voor het trimester, vermeld in de erkenningskalender of de omzettingskalender, en als tijdens dat uitstel de duur van de voorafgaande vergunning of de planningsvergunning verstrijkt, wordt die duur van rechtswege verlengd tot het einde van het uitstel.<br>
+Als de secretaris-generaal uitstel geeft voor het trimester, vermeld in de erkenningskalender of de omzettingskalender, en als tijdens dat uitstel de duur van de voorafgaande vergunning of de planningsvergunning verstrijkt, wordt die duur van rechtswege verlengd tot het einde van het uitstel.<br>
 <br>
-In afwijking van het eerste lid kan de administrateur-generaal aan initiatiefnemers aan wie vóór 1 juli 2015 een erkenningskalender is toegewezen en die op 1 januari 2017 beschikken over een voorafgaande vergunning voor woongelegenheden in hetzelfde woonzorgcentrum of centrum voor kortverblijf waarvoor nog geen erkenningskalender is toegewezen, voor de eerste woongelegenheden maximaal uitstel voor het trimester geven tot en met het trimester waarin de erkenning voor de laatste woongelegenheden moet ingaan.<br>
+In afwijking van het eerste lid kan de secretaris-generaal aan initiatiefnemers aan wie vóór 1 juli 2015 een erkenningskalender is toegewezen en die op 1 januari 2017 beschikken over een voorafgaande vergunning voor woongelegenheden in hetzelfde woonzorgcentrum of centrum voor kortverblijf waarvoor nog geen erkenningskalender is toegewezen, voor de eerste woongelegenheden maximaal uitstel voor het trimester geven tot en met het trimester waarin de erkenning voor de laatste woongelegenheden moet ingaan.<br>
 <br>
-In afwijking van het eerste lid kan de administrateur-generaal voor erkenningskalenders die zijn toegewezen voor de realisatie van woongelegenheden die behoren tot de pilootprojecten, meer dan twee jaar uitstel geven voor het trimester, vermeld in de erkenningskalender.
+In afwijking van het eerste lid kan de secretaris-generaal voor erkenningskalenders die zijn toegewezen voor de realisatie van woongelegenheden die behoren tot de pilootprojecten, meer dan twee jaar uitstel geven voor het trimester, vermeld in de erkenningskalender.
 
 ## HOOFDSTUK 6. Bijzondere oproep
 
@@ -641,7 +642,7 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minist
 
 ### ART 14.
 
-<span style="font-size:10.0pt">§ 1. De initiatiefnemer dient een aanvraag tot bijkomende erkenning als centrum voor oriënterend kortverblijf in met het formulier dat het agentschap ter beschikking stelt en dat minstens de volgende inlichtingen en stukken bevat:<br>
+§ 1. De initiatiefnemer dient een aanvraag tot bijkomende erkenning als centrum voor oriënterend kortverblijf in met het formulier dat de administratie ter beschikking stelt en dat minstens de volgende inlichtingen en stukken bevat:<br>
 1° de identificatiegegevens van de initiatiefnemer en het centrum voor kortverblijf waarvoor de bijkomende erkenning wordt aangevraagd;<br>
 2° het aantal opnamemogelijkheden waarvoor de bijkomende erkenning wordt aangevraagd;<br>
 3°&nbsp;de voor- en achternaam en de kwalificatie van de directeur of de coördinator van de voorziening;<br>
@@ -650,21 +651,21 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minist
 6° een nominatieve lijst van alle medewerkers, met vermelding van hun wekelijkse arbeidsduur en kwalificatie, geordend per functie, en met aanduiding van de medewerkers die langdurig afwezig zijn;<br>
 7° een verbintenis om binnen een termijn van een jaar na de datum van de erkenningsbeslissing te voldoen aan de erkenningsvoorwaarden voor de bijkomende erkenning als centrum voor oriënterend kortverblijf.<br>
 <br>
-Een aanvraag van een centrum voor kortverblijf tot bijkomende erkenning als centrum voor oriënterend kortverblijf of tot wijziging van de capaciteit ervan is alleen ontvankelijk als ze wordt ingediend in het trimester, vermeld in de planningsvergunning.</span>
+Een aanvraag van een centrum voor kortverblijf tot bijkomende erkenning als centrum voor oriënterend kortverblijf of tot wijziging van de capaciteit ervan is alleen ontvankelijk als ze wordt ingediend in het trimester, vermeld in de planningsvergunning.
 
 ### ART 15.
 
-<span style="font-size:10.0pt">§1. Het agentschap onderzoekt de ontvankelijkheid van de aanvraag, vermeld in artikel 14.<br>
+§1. De administratie onderzoekt de ontvankelijkheid van de aanvraag, vermeld in artikel 14.<br>
 <br>
-Als de aanvraag niet ontvankelijk is, brengt het agentschap de initiatiefnemer daarvan op de hoogte binnen dertig kalenderdagen nadat het de aanvraag heeft ontvangen.<br>
+Als de aanvraag niet ontvankelijk is, brengt de administratie de initiatiefnemer daarvan op de hoogte binnen dertig kalenderdagen nadat het de aanvraag heeft ontvangen.<br>
 <br>
-§2. Het agentschap kan de initiatiefnemer om aanvullende inlichtingen verzoeken. Nadat het agentschap die inlichtingen heeft ontvangen, begint er een nieuwe termijn als vermeld in paragraaf 1, te lopen.<br>
+§2. De administratie kan de initiatiefnemer om aanvullende inlichtingen verzoeken. Nadat de administratie die inlichtingen heeft ontvangen, begint er een nieuwe termijn als vermeld in paragraaf 1, te lopen.<br>
 <br>
-Als het agentschap de informatie, vermeld in het eerste lid, niet ontvangt binnen een termijn van dertig dagen na de datum waarop het verzoek verzonden is, wordt de erkenningsaanvraag onontvankelijk verklaard. Het agentschap kan die termijn verlengen als de initiatiefnemer daarom in een gemotiveerde aanvraag heeft verzocht.</span>
+Als de administratie de informatie, vermeld in het eerste lid, niet ontvangt binnen een termijn van dertig dagen na de datum waarop het verzoek verzonden is, wordt de erkenningsaanvraag onontvankelijk verklaard. De administratie kan die termijn verlengen als de initiatiefnemer daarom in een gemotiveerde aanvraag heeft verzocht.
 
 ### ART 16.
 
-<span style="font-size:10.0pt">§1. De administrateur-generaal beslist over de bijkomende erkenning als centrum voor oriënterend kortverblijf. Zijn beslissing wordt binnen een termijn van vier maanden nadat hij de ontvankelijke aanvraag heeft ontvangen, aan de initiatiefnemer bezorgd.<br>
+§1. De secretaris-generaal beslist over de bijkomende erkenning als centrum voor oriënterend kortverblijf. Zijn beslissing wordt binnen een termijn van vier maanden nadat hij de ontvankelijke aanvraag heeft ontvangen, aan de initiatiefnemer bezorgd.<br>
 <br>
 De erkenningsbeslissing bevat minstens de volgende gegevens:<br>
 1° de voor- en achternaam en het adres van de initiatiefnemer;<br>
@@ -673,18 +674,18 @@ De erkenningsbeslissing bevat minstens de volgende gegevens:<br>
 4° de ingangsdatum van de erkenning;<br>
 5° de erkende capaciteit.<br>
 <br>
-Als de administrateur-generaal het voornemen heeft de erkenning te weigeren, wordt de initiatiefnemer van dat gemotiveerde voornemen met een aangetekende brief op de hoogte gebracht. Die brief vermeldt ook de mogelijkheid en de voorwaarden om tegen het voornemen bezwaar aan te tekenen.</span>
+Als de secretaris-generaal het voornemen heeft de erkenning te weigeren, wordt de initiatiefnemer van dat gemotiveerde voornemen met een aangetekende brief op de hoogte gebracht. Die brief vermeldt ook de mogelijkheid en de voorwaarden om tegen het voornemen bezwaar aan te tekenen.
 
 ### ART 17.
 
-<span style="font-size: 10pt;">Binnen dertig kalenderdagen nadat de initiatiefnemer het voornemen tot weigering van de bijzondere erkenning heeft ontvangen, kan hij daartegen een gemotiveerd bezwaarschrift indienen bij het agentschap. Hij dient het bezwaarschrift in met een aangetekende brief. In het bezwaarschrift kan hij verzoeken om gehoord te worden.<br>
+Binnen dertig kalenderdagen nadat de initiatiefnemer het voornemen tot weigering van de bijzondere erkenning heeft ontvangen, kan hij daartegen een gemotiveerd bezwaarschrift indienen bij de administratie. Hij dient het bezwaarschrift in met een aangetekende brief. In het bezwaarschrift kan hij verzoeken om gehoord te worden.<br>
 <br>
 Het bezwaarschrift wordt behandeld en over het bezwaarschrift wordt beslist conform de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<br>
 <br>
-Als de initiatiefnemer geen bezwaar indient binnen de termijn, vermeld in het eerste lid, wordt het voornemen van de administrateur-generaal van rechtswege geacht een weigeringsbeslissing van de administrateur-generaal te zijn. Het agentschap brengt de initiatiefnemer binnen één maand nadat die termijn verstreken is, daarvan op de hoogte met een aangetekende brief.</span>
+Als de initiatiefnemer geen bezwaar indient binnen de termijn, vermeld in het eerste lid, wordt het voornemen van de secretaris-generaal van rechtswege geacht een weigeringsbeslissing van de secretaris-generaal te zijn. de administratie brengt de initiatiefnemer binnen één maand nadat die termijn verstreken is, daarvan op de hoogte met een aangetekende brief.
 
 ### ART 18.
 
-<span style="font-size:10.0pt">Als een centrum voor kortverblijf met een bijkomende erkenning niet langer voldoet aan de erkenningsvoorwaarden, kan het agentschap de initiatiefnemer van de voorziening in kwestie met een aangetekende zending aanmanen om alle verplichtingen na te komen binnen een termijn die het agentschap bepaalt.<br>
+Als een centrum voor kortverblijf met een bijkomende erkenning niet langer voldoet aan de erkenningsvoorwaarden, kan de administratie de initiatiefnemer van de voorziening in kwestie met een aangetekende zending aanmanen om alle verplichtingen na te komen binnen een termijn die de administratie bepaalt.<br>
 <br>
-Als ondanks die aanmaning de voorwaarden niet worden nageleefd, kan het agentschap de bijkomende erkenning schorsen of intrekken, conform de regels, vermeld in hoofdstuk V en XI van het besluit van de Vlaamse Regering van 5 juni 2009 betreffende de procedures voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers.</span>
+Als ondanks die aanmaning de voorwaarden niet worden nageleefd, kan de administratie de bijkomende erkenning schorsen of intrekken, conform de regels, vermeld in hoofdstuk V en XI van het besluit van de Vlaamse Regering van 5 juni 2009 betreffende de procedures voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers.

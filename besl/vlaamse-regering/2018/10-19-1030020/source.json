@@ -2,16 +2,16 @@
   "codex_id": 1030020,
   "title": "Besluit van de Vlaamse Regering van 2018-10-19 tot vaststelling van de regels voor het verlenen van een erkennings- of omzettingskalender en tot wijziging van de regels voor de voorafgaande vergunning",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030020/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "8c8a6215c15977e914f213a4c15294c3d4ae852d3c498a5112acdddc81e6bbba",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030020/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "0c75007440f89b3d6aa469958b8447649178b09d0b4b317066b5ea8d0e37b44a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030020&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2023-06-01",
   "made": "2018-10-19",
   "gazette": "2018-12-20",
   "numac": 2018032483,
   "document_start": "2019-01-01",
   "document_end": null,
-  "in_force": "2021-01-01",
+  "in_force": "2023-06-01",
   "article_versions": 67,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
