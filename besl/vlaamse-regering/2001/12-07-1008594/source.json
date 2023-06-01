@@ -2,16 +2,16 @@
   "codex_id": 1008594,
   "title": "Besluit van de Vlaamse Regering van 2001-12-07 betreffende de aanwijzing van de ambtenaren voor het uitoefenen van het toezicht op de toepassing van de gecoördineerde wet op de ziekenhuizen en van de krachtens die gecoördineerde wet genomen uitvoeringsbesluiten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008594/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "c27469b38b59c00c934da4334dd1713686c66a2ae387636c0171443fcb03c694",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008594/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "a7b674cb819339c321b8ea5225a86222d0fb0d1d36f603e65376a9de88378631",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008594&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2023-06-01",
   "made": "2001-12-07",
   "gazette": "2002-01-18",
   "numac": 2002035007,
   "document_start": null,
   "document_end": null,
-  "in_force": "2015-01-01",
+  "in_force": "2023-06-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
