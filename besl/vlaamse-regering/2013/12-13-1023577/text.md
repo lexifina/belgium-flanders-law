@@ -16,7 +16,7 @@ In dit besluit wordt verstaan onder :<br>
 4° gemengde commissie : de gemengde commissie, vermeld in artikel 9 van het decreet van 8 maart 2013;<br>
 5° lokaal actieplan : het plan, vermeld in artikel 10, eerste lid, van het decreet van 8 maart 2013;<br>
 6° strategisch plan : het plan, vermeld in artikel 8 van het decreet van 8 maart 2013;<br>
-7° Zorginspectie: Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.
+7° Zorginspectie: Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.
 
 ## HOOFDSTUK 2 Organisatie van de Vlaamse hulp- en dienstverlening aan gedetineerden
 
@@ -25,11 +25,11 @@ In dit besluit wordt verstaan onder :<br>
 ### ART. 2.
 
 <p>De gemengde commissie bestaat minimaal uit vertegenwoordigers van :<br>
-1° het Departement Welzijn, Volksgezondheid en Gezin;<br>
+1° het Departement Zorg;<br>
 2° het Departement Onderwijs en Vorming;<br>
 3° het Departement Werk en Sociale Economie;<br>
 4° het Departement Cultuur, Jeugd en Media;<br>
-5° het agentschap Zorg en Gezondheid;<br>
+5° ...;<br>
 6° het Vlaams Agentschap voor Personen met een Handicap;<br>
 7° het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs en Studietoelagen;<br>
 8° de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
