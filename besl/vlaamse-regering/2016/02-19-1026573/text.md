@@ -140,7 +140,9 @@ Het   Vlaams Centrum voor Adoptie evalueert systematisch de werking van de diens
 
 ### ART. 21.
 
-<P>&nbsp;De controle ter plaatse wordt   overeenkomstig artikel 26 van het decreet Binnenlandse Adoptie van 3 juli 2015   uitgevoerd door de personeelsleden van Zorginspectie van het Departement   Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het   besluit van de Vlaamse Regering van 31 maart 2006 betreffende de   inwerkingtreding van regelgeving tot oprichting van agentschappen in het   beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van   regelgeving met betrekking tot dat beleidsdomein.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   personeelsleden van Zorginspectie, vermeld in het eerste lid, hebben voor de   controle toegang tot de boekhouding en tot alle relevante documenten.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De controle ter plaatse wordt overeenkomstig artikel 26 van het decreet Binnenlandse Adoptie van 3 juli 2015 uitgevoerd door de personeelsleden van Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.</p>
+
+<p>De personeelsleden van Zorginspectie, vermeld in het eerste lid, hebben voor de controle toegang tot de boekhouding en tot alle relevante documenten.</p>
 
 ### ART. 22.
 
