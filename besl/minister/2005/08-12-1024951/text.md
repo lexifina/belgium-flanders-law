@@ -18,7 +18,13 @@ Besluit :
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<BR>1° Minister:   de Vlaamse minister, bevoegd voor de bijstand aan personen, of, alleen voor   zover dit besluit betrekking heeft op de rust- en verzorgingstehuizen, de   Vlaamse minister, bevoegd voor het gezondheidsbeleid;<BR>2° instellingen voor   bejaardenopvang: de dagverzorgingscentra, de centra voor kortverblijf, de   groepen van assistentiewoningen, de woonzorgcentra en de rust- en   verzorgingstehuizen;<BR>3° diensten : alle prestaties van dienstverlening met   uitzondering van deze welke geleverd worden in uitvoering van een arbeids-,   bedienden-, leer- of dienstbodencontract;<BR>4° producten : producten,   grondstoffen, eetwaren, koopwaren;<BR>5° marges : verschil tussen de   verkoopprijs en de aankoopprijs van een product of een dienst, uitgedrukt in een   percentage op de aankoopprijs.<BR>6° agentschap: het intern verzelfstandigd   agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering   van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en   Gezondheid.".
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° Minister: de Vlaamse minister, bevoegd voor de bijstand aan personen, of, alleen voor zover dit besluit betrekking heeft op de rust- en verzorgingstehuizen, de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
+2° instellingen voor bejaardenopvang: de dagverzorgingscentra, de centra voor kortverblijf, de groepen van assistentiewoningen, de woonzorgcentra en de rust- en verzorgingstehuizen;<br>
+3° diensten : alle prestaties van dienstverlening met uitzondering van deze welke geleverd worden in uitvoering van een arbeids-, bedienden-, leer- of dienstbodencontract;<br>
+4° producten : producten, grondstoffen, eetwaren, koopwaren;<br>
+5° marges : verschil tussen de verkoopprijs en de aankoopprijs van een product of een dienst, uitgedrukt in een percentage op de aankoopprijs.<br>
+6° : administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.
 
 ## HOOFDSTUK II. Procedure van prijsverhogingsaanvraag
 
@@ -28,23 +34,47 @@ De instellingen voor bejaardenopvang mogen geen prijsverhogingen of   verhoginge
 
 ### ART. 3.
 
-§ 1. Elke aanvraag tot verhoging van de prijzen of de marges wordt   elektronisch ingediend bij het agentschap.<BR><BR>§ 2. Om ontvankelijk te zijn   moet de aanvraag volgende gegevens bevatten :<BR>1° de maatschappelijke   benaming, de juridische vorm van de inrichtende macht, de naam en het adres van   de instelling, en in voorkomend geval, het ondernemingsnummer;<BR>2° de aard en   specificaties van de diensten en producten alsook de betrokken omzet;<BR>3° de   huidige en de gevraagde verkoopprijzen en hun toepassingsdatum;<BR>4° de   toegestane kortingen;<BR>5° een overzicht van het bestaande personeelsbestand op   het moment van de aanvraag en een overzicht van het personeelsbestand gedurende   de drie jaren die voorafgaan aan de aanvraag, uitgedrukt in voltijdse   equivalenten;<BR>6° de becijferde rechtvaardiging van de gevraagde   verhoging;<BR>7° de jaarrekeningen van de instelling voor de laatste drie   afgesloten boekjaren en, in voorkomend geval, de uitbatingsrekeningen van de   betrokken afdeling;<BR>8° een gedetailleerd overzicht van alle tegemoetkomingen   en subsidies verstrekt door de federale enlof gemeenschapslgewestelijke   overheden;<BR>9° het aantal ligdagen dat gefactureerd werd aan de bewoners over   een periode van drie jaar.<BR>10° het verslag van de bewonersraad waarin de   aanvraag tot verhoging van de prijzen van het woonzorgcentrum of het rust- en   verzorgingstehuis wordt gemeld en toegelicht.<BR><BR>Om de verhogingsaanvraag in   te dienen wordt een gratis formulier verstrekt door het   agentschap.<BR><BR>Wanneer de aanvraag niet volledig is, verwittigt het   agentschap de instelling binnen de tien dagen die volgen op de datum van de   ontvangst van de aanvraag en wijst op de ontbrekende gegevens. De termijn van   zestig dagen voorzien in artikel 4 begint pas te lopen vanaf de datum van   ontvangst door het agentschap van alle vereiste gegevens.
+§ 1. Elke aanvraag tot verhoging van de prijzen of de marges wordt elektronisch ingediend bij de administratie.<br>
+<br>
+§ 2. Om ontvankelijk te zijn moet de aanvraag volgende gegevens bevatten :<br>
+1° de maatschappelijke benaming, de juridische vorm van de inrichtende macht, de naam en het adres van de instelling, en in voorkomend geval, het ondernemingsnummer;<br>
+2° de aard en specificaties van de diensten en producten alsook de betrokken omzet;<br>
+3° de huidige en de gevraagde verkoopprijzen en hun toepassingsdatum;<br>
+4° de toegestane kortingen;<br>
+5° een overzicht van het bestaande personeelsbestand op het moment van de aanvraag en een overzicht van het personeelsbestand gedurende de drie jaren die voorafgaan aan de aanvraag, uitgedrukt in voltijdse equivalenten;<br>
+6° de becijferde rechtvaardiging van de gevraagde verhoging;<br>
+7° de jaarrekeningen van de instelling voor de laatste drie afgesloten boekjaren en, in voorkomend geval, de uitbatingsrekeningen van de betrokken afdeling;<br>
+8° een gedetailleerd overzicht van alle tegemoetkomingen en subsidies verstrekt door de federale enlof gemeenschapslgewestelijke overheden;<br>
+9° het aantal ligdagen dat gefactureerd werd aan de bewoners over een periode van drie jaar.<br>
+10° het verslag van de bewonersraad waarin de aanvraag tot verhoging van de prijzen van het woonzorgcentrum of het rust- en verzorgingstehuis wordt gemeld en toegelicht.<br>
+<br>
+Om de verhogingsaanvraag in te dienen wordt een gratis formulier verstrekt door de administratie.<br>
+<br>
+Wanneer de aanvraag niet volledig is, verwittigt&nbsp;de administratie de instelling binnen de tien dagen die volgen op de datum van de ontvangst van de aanvraag en wijst op de ontbrekende gegevens. De termijn van zestig dagen voorzien in artikel 4 begint pas te lopen vanaf de datum van ontvangst door&nbsp;de administratie van alle vereiste gegevens.
 
 ### ART. 4.
 
-§ 1. Binnen de zestig dagen die volgen op de ontvangst van de volledige   aanvraag, wordt de beslissing van de Minister met betrekking tot de verhoging   van de dagprijzen en van de marges die hij toestaat, met een aangetekende   zending aan de aanvrager bezorgd.<BR><BR>§ 2. De onderneming mag de toegestane   verhoging van de dagprijzen en de marges toepassen vanaf de dag dat zij de   beslissing van de Minister heeft ontvangen en nadat ze de toegepaste dagprijzen   en de percentages van de marges en hun toepassingsdatum heeft meegedeeld aan het   agentschap.<BR><BR>§ 3. Bij ontstentenis van een beslissing binnen de zestig   dagen die volgen op de ontvangst van de volledige aanvraag, is de instelling   gerechtigd de gevraagde verhoging van de dagprijzen en marges toe te passen   nadat ze de toegepaste dagprijzen en marges en hun toepassingsdatum elektronisch   heeft meegedeeld aan het agentschap.
+§ 1. Binnen de zestig dagen die volgen op de ontvangst van de volledige aanvraag, wordt de beslissing van de Minister met betrekking tot de verhoging van de dagprijzen en van de marges die hij toestaat, met een aangetekende zending aan de aanvrager bezorgd.<br>
+<br>
+§ 2. De onderneming mag de toegestane verhoging van de dagprijzen en de marges toepassen vanaf de dag dat zij de beslissing van de Minister heeft ontvangen en nadat ze de toegepaste dagprijzen en de percentages van de marges en hun toepassingsdatum heeft meegedeeld aan&nbsp;de administratie.<br>
+<br>
+§ 3. Bij ontstentenis van een beslissing binnen de zestig dagen die volgen op de ontvangst van de volledige aanvraag, is de instelling gerechtigd de gevraagde verhoging van de dagprijzen en marges toe te passen nadat ze de toegepaste dagprijzen en marges en hun toepassingsdatum elektronisch heeft meegedeeld aan&nbsp;de administratie.
 
 ### ART. 5.
 
-§ 1. In afwijking op de artikelen 2 en 3, mag de instelling de verhoging   van de dagprijzen die zij zal toepassen aan het agentschap elektronisch   meedelen, wanneer deze zich ten hoogste beperkt tot een percentage dat   overeenkomt met een lineaire aanpassing van de prijzen aan het indexcijfer van   de consumptieprijzen over een periode van maximum zesendertig maanden   voorafgaand aan de maand waarin de kennisgeving wordt ontvangen. Deze periode   van zesendertig maanden wordt beperkt tot de maand voorafgaand aan hetzij de   laatste beslissing van de Minister, hetzij de ontvangst van de laatste   kennisgeving gedaan in de zin van dit artikel. Bij ontstentenis van een   beslissing door de Minister wordt de periode van zesendertig maanden beperkt   door de datum van de kennisgeving door de instelling van de toegepaste   prijzen.<BR><BR>§ 2. De kennisgeving bevat de toegepaste dagprijzen en hun   toepassingsdatum, de nieuwe dagprijzen en hun toepassingsdatum, alsook het   percentage van de verhoging, afgerond op twee decimalen.<BR><BR>Bij ontstentenis   van een weigering door het agentschap mag binnen de dertig dagen die volgen op   de ontvangst van de kennisgeving, de meegedeelde verhoging toegepast worden ten   vroegste vanaf de vijftiende dag te rekenen vanaf de ontvangst van de   kennisgeving.
+§ 1. In afwijking op de artikelen 2 en 3, mag de instelling de verhoging van de dagprijzen die zij zal toepassen aan&nbsp;de administratie elektronisch meedelen, wanneer deze zich ten hoogste beperkt tot een percentage dat overeenkomt met een lineaire aanpassing van de prijzen aan het indexcijfer van de consumptieprijzen over een periode van maximum zesendertig maanden voorafgaand aan de maand waarin de kennisgeving wordt ontvangen. Deze periode van zesendertig maanden wordt beperkt tot de maand voorafgaand aan hetzij de laatste beslissing van de Minister, hetzij de ontvangst van de laatste kennisgeving gedaan in de zin van dit artikel. Bij ontstentenis van een beslissing door de Minister wordt de periode van zesendertig maanden beperkt door de datum van de kennisgeving door de instelling van de toegepaste prijzen.<br>
+<br>
+§ 2. De kennisgeving bevat de toegepaste dagprijzen en hun toepassingsdatum, de nieuwe dagprijzen en hun toepassingsdatum, alsook het percentage van de verhoging, afgerond op twee decimalen.<br>
+<br>
+Bij ontstentenis van een weigering door&nbsp;de administratie mag binnen de dertig dagen die volgen op de ontvangst van de kennisgeving, de meegedeelde verhoging toegepast worden ten vroegste vanaf de vijftiende dag te rekenen vanaf de ontvangst van de kennisgeving.
 
 ### ART. 6.
 
-§ 1. De prijzen van de diensten en producten die als nieuw kunnen aanzien worden, worden aan het agentschap ter kennis gebracht uiterlijk&nbsp;dertig dagen vóór hun toepassing.<br>
+§ 1. De prijzen van de diensten en producten die als nieuw kunnen aanzien worden, worden aan&nbsp;de administratie ter kennis gebracht uiterlijk&nbsp;dertig dagen vóór hun toepassing.<br>
 <br>
 Deze kennisgeving gebeurt elektronisch.<br>
 <br>
-Bij ontstentenis van een weigering door het agentschap binnen de dertig dagen die volgen op de ontvangst van de kennisgeving, zal de dienst enlof het product aanzien worden als nieuw.<br>
+Bij ontstentenis van een weigering door&nbsp;de administratie binnen de dertig dagen die volgen op de ontvangst van de kennisgeving, zal de dienst enlof het product aanzien worden als nieuw.<br>
 <br>
 § 2. Kunnen in geen geval als nieuw worden aanzien :<br>
 1° de diensten enlof producten die een gelijkenis of overeenstemming vertonen binnen de instelling;<br>
@@ -52,7 +82,7 @@ Bij ontstentenis van een weigering door het agentschap binnen de dertig dagen di
 <br>
 § 3. Elke prijsverhoging die toegepast wordt voor bewoners die overgebracht worden naar een nieuw gebouw, een nieuwe uitbreiding, een verbouwd gebouw, moet het voorwerp uitmaken van een aanvraag tot prijsverhoging conform de artikelen 2 en 3.<br>
 <br>
-§ 4. In afwijking van paragraaf 1 wordt bij het agentschap een aanvraag ingediend voor:<br>
+§ 4. In afwijking van paragraaf 1 wordt bij de administratie een aanvraag ingediend voor:<br>
 1° elke prijsverhoging die wordt toegepast voor bewoners die overgebracht worden naar woongelegenheden in woonzorgcentra of centra voor kortverblijf of in gedeelten van die centra, die het voorwerp hebben uitgemaakt van een verbouwing of een vervangingsnieuwbouw, en waarvoor infrastructuursubsidies als vermeld in bijlage XVII bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers, zijn aangevraagd of zullen worden aangevraagd;<br>
 2° de bepaling van de prijs die wordt aangerekend aan nieuwe bewoners van woongelegenheden in woonzorgcentra of centra voor kortverblijf of in gedeelten van die centra, die het voorwerp hebben uitgemaakt van een verbouwing of een vervangingsnieuwbouw, en waarvoor infrastructuursubsidies als vermeld in punt 1°, zijn aangevraagd of zullen worden aangevraagd;<br>
 3° de bepaling van de prijs die wordt aangerekend aan bewoners van woongelegenheden in nieuwe woonzorgcentra of centra voor kortverblijf of, na een uitbreiding, in nieuwe gedeelten van bestaande woonzorgcentra of centra voor kortverblijf, als voor die woongelegenheden infrastructuursubsidies als vermeld in punt 1°, zijn aangevraagd of zullen worden aangevraagd.<br>
@@ -63,7 +93,7 @@ Artikel 2 en 3 zijn van overeenkomstige toepassing op de aanvragen, vermeld in h
 
 ### ART. 7.
 
-De instellingen zijn verplicht om op vraag van het agentschap, alle   inlichtingen te verschaffen in verband met de prijsevolutie.
+De instellingen zijn verplicht om op vraag van de administratie, alle inlichtingen te verschaffen in verband met de prijsevolutie.
 
 ## HOOFDSTUK IV. Strafbepaling
 
