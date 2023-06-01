@@ -24,9 +24,10 @@ Besluit :
 
 In dit besluit wordt verstaan onder:<br>
 1° aanvrager: een rechtspersoon die een aanvraag tot erkenning als zorgraad indient;<br>
-2° administrateur-generaal: de leidend ambtenaar van het Agentschap Zorg en Gezondheid;<br>
-3° agentschap: het Agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+2° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;;<br>
+3° ...;<br>
 4° decreet van 26 april 2019: het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders;<br>
+4°/1 secretaris-generaal: het hoofd van de administratie;<br>
 5° zorgraad: een rechtspersoon als vermeld in hoofdstuk 5 van het decreet van 26 april 2019.
 
 ## HOOFDSTUK 2. Opdrachten en werkingsvoorwaarden
@@ -86,7 +87,7 @@ Ter uitvoering van artikel 11, eerste lid, 5°, en vierde lid, van het decreet v
 
 De zorgraden zijn samengesteld conform artikel 12 van het decreet van 26 april 2019.<br>
 <br>
-De zorgraden nodigen de eerstelijnszorgaanbieders die werkzaam zijn in het werkgebied van de zorgraad uit om te participeren in de zorgraad. De zorgraden zorgen ervoor dat elke eerstelijnszorgaanbieder die dat wenst en die werkzaam is in het werkgebied van de zorgraad, via een afgevaardigde vertegenwoordigd is in de zorgraad, op voorwaarde dat die eerstelijnszorgaanbieder zich ertoe verbindt de bepalingen van het voormelde decreet na te leven en er geen gegronde redenen zijn om te weigeren. Een beslissing tot weigering wordt met vermelding van de redenen meegedeeld aan de eerstelijnszorgaanbieder en aan het agentschap.
+De zorgraden nodigen de eerstelijnszorgaanbieders die werkzaam zijn in het werkgebied van de zorgraad uit om te participeren in de zorgraad. De zorgraden zorgen ervoor dat elke eerstelijnszorgaanbieder die dat wenst en die werkzaam is in het werkgebied van de zorgraad, via een afgevaardigde vertegenwoordigd is in de zorgraad, op voorwaarde dat die eerstelijnszorgaanbieder zich ertoe verbindt de bepalingen van het voormelde decreet na te leven en er geen gegronde redenen zijn om te weigeren. Een beslissing tot weigering wordt met vermelding van de redenen meegedeeld aan de eerstelijnszorgaanbieder en aan de administratie.
 
 ### ART 9.
 
@@ -135,7 +136,7 @@ De stuurgroep kan naast de leden, vermeld in het tweede lid, volgende leden omva
 
 ### ART 10.
 
-De administrateur-generaal erkent een zorgraad voor onbepaalde duur.<br>
+De secretaris-generaal erkent een zorgraad voor onbepaalde duur.<br>
 <br>
 Een erkenning als zorgraad kan ten vroegste ingaan op 1 juli 2020.
 
@@ -164,21 +165,21 @@ De aanvrager die als werkgebied het tweetalige gebied Brussel-Hoofdstad heeft, v
 5° een bewijs dat de aanvrager voldoet aan de erkenningsvoorwaarden, vermeld in artikel 11, eerste lid, 4° en 5° ;<br>
 6° een overzicht van de eerstelijnszorgaanbieders die door de Vlaamse Gemeenschap als voorziening of samenwerkingsverband zijn erkend en die actief zijn binnen het werkgebied waarvoor de erkenning wordt aangevraagd, waarin wordt aangetoond dat de aanvrager minstens twee derden van die eerstelijnszorgaanbieders vertegenwoordigt conform artikel 11, eerste lid, 7°, en, tenzij de aanvrager als werkgebied het tweetalige gebied Brussel-Hoofdstad heeft, een bewijs dat minstens twee derden van de lokale besturen in de aanvrager vertegenwoordigd is.<br>
 <br>
-De erkenning wordt aangevraagd met een formulier dat het agentschap op zijn website ter beschikking stelt.<br>
+De erkenning wordt aangevraagd met een formulier dat de administratie op zijn website ter beschikking stelt.<br>
 <br>
-§ 2. Het agentschap meldt de aanvrager of de aanvraag ontvankelijk is binnen dertig dagen na de dag waarop het agentschap de erkenningsaanvraag heeft ontvangen.
+§ 2. De administratie meldt de aanvrager of de aanvraag ontvankelijk is binnen dertig dagen na de dag waarop de administratie de erkenningsaanvraag heeft ontvangen.
 
 ### ART 13.
 
-§ 1. Het agentschap bezorgt de aanvrager de beslissing over de erkenning binnen dertig dagen na de dag waarop het agentschap de ontvankelijke aanvraag heeft ontvangen.<br>
+§ 1. de administratie bezorgt de aanvrager de beslissing over de erkenning binnen dertig dagen na de dag waarop de administratie de ontvankelijke aanvraag heeft ontvangen.<br>
 <br>
-§ 2. Als niet voldaan is aan de erkenningsvoorwaarden, vermeld in artikel 11, deelt de administrateur-generaal het voornemen tot weigering van de erkenning mee.<br>
+§ 2. Als niet voldaan is aan de erkenningsvoorwaarden, vermeld in artikel 11, deelt de secretaris-generaal het voornemen tot weigering van de erkenning mee.<br>
 <br>
-Het agentschap brengt de aanvrager met een aangetekende zending op de hoogte van het voornemen tot weigering van de erkenning.<br>
+De administratie brengt de aanvrager met een aangetekende zending op de hoogte van het voornemen tot weigering van de erkenning.<br>
 <br>
-De aangetekende zending bevat naast het voornemen ook de uitleg over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij het agentschap.<br>
+De aangetekende zending bevat naast het voornemen ook de uitleg over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij de administratie.<br>
 <br>
-Als de aanvrager geen bezwaarschrift indient binnen vijfenveertig dagen nadat het agentschap de aangetekende zending heeft verstuurd, wordt de beslissing van de administrateur-generaal tot weigering van de erkenning met een aangetekende zending aan de aanvrager bezorgd.<br>
+Als de aanvrager geen bezwaarschrift indient binnen vijfenveertig dagen nadat de administratie de aangetekende zending heeft verstuurd, wordt de beslissing van de secretaris-generaal tot weigering van de erkenning met een aangetekende zending aan de aanvrager bezorgd.<br>
 <br>
 § 3. Als de erkenning wordt geweigerd, kan de aanvrager geen aanspraak maken op een vergoeding voor de kosten die verbonden zijn aan activiteiten die hebben plaatsgevonden om de erkenning te verkrijgen.<br>
 <br>
@@ -191,17 +192,17 @@ Als de aanvrager geen bezwaarschrift indient binnen vijfenveertig dagen nadat he
 Om erkend te blijven, moeten de zorgraden:<br>
 1° voldoen aan de voorwaarden, vermeld in artikel 11;<br>
 2° de opdrachten en de taken, vermeld in artikel 3 tot en met 7, uitvoeren;<br>
-3° jaarlijks uiterlijk tegen 31 maart aan het agentschap een verslag bezorgen over de uitvoering van de opdrachten tijdens het voorbije werkingsjaar;<br>
-4° jaarlijks uiterlijk tegen 31 maart aan het agentschap het financieel verslag van het voorbije werkingsjaar bezorgen;<br>
-5° een actieplan voor elk volgend werkingsjaar opmaken en ter goedkeuring aan het agentschap bezorgen voor 15 oktober;<br>
-6° minstens voor oktober van het werkingsjaar waarin het beleidsplan afloopt, een nieuw beleidsplan opmaken voor de volgende drie werkingsjaren en ter goedkeuring voorleggen aan het agentschap;<br>
-7° elke wijziging die betrekking heeft op de erkenning onmiddellijk aan het agentschap melden;<br>
+3° jaarlijks uiterlijk tegen 31 maart aan de administratie een verslag bezorgen over de uitvoering van de opdrachten tijdens het voorbije werkingsjaar;<br>
+4° jaarlijks uiterlijk tegen 31 maart aan de administratie het financieel verslag van het voorbije werkingsjaar bezorgen;<br>
+5° een actieplan voor elk volgend werkingsjaar opmaken en ter goedkeuring aan de administratie bezorgen voor 15 oktober;<br>
+6° minstens voor oktober van het werkingsjaar waarin het beleidsplan afloopt, een nieuw beleidsplan opmaken voor de volgende drie werkingsjaren en ter goedkeuring voorleggen aan de administratie;<br>
+7° elke wijziging die betrekking heeft op de erkenning onmiddellijk aan de administratie melden;<br>
 8° beslissen met een meerderheid binnen elk van de volgende vier groepen die in de zorgraad vertegenwoordigd zijn:<br>
 a) welzijnsactoren;<br>
 b) eerstelijnszorgactoren;<br>
 c) lokale besturen;<br>
 d) vertegenwoordigers van personen met een zorg- en ondersteuningsvraag, mantelzorgers en vrijwilligers;<br>
-9° voor 15 oktober van het eerste erkenningsjaar voldoen aan de voorwaarde van artikel 9, § 2, betreffende de samenstelling van het bestuursorgaan van de zorgraad of aan de voorwaarde van artikel 9, § 3, betreffende de samenstelling van de stuurgroep als de zorgraad het tweetalige gebied Brussel-Hoofdstad als werkgebied heeft en hiervan het bewijs aan het agentschap bezorgen;<br>
+9° voor 15 oktober van het eerste erkenningsjaar voldoen aan de voorwaarde van artikel 9, § 2, betreffende de samenstelling van het bestuursorgaan van de zorgraad of aan de voorwaarde van artikel 9, § 3, betreffende de samenstelling van de stuurgroep als de zorgraad het tweetalige gebied Brussel-Hoofdstad als werkgebied heeft en hiervan het bewijs aan de administratie bezorgen;<br>
 10° hun personeelsadministratie, de ondersteuning van het personeelsmanagement, hun boekhoudkundige verplichtingen en de ondersteuning om hun verenigingsrechtelijke verplichtingen na te komen uitbesteden aan de partnerorganisatie, die daarvoor, wegens zijn deskundigheid in die materie, wordt aangewezen door de Vlaamse Regering.<br>
 <br>
 Als de zorgraad als werkgebied het tweetalige gebied Brussel-Hoofdstad heeft, wordt, in afwijking van het eerste lid, 8°, binnen de stuurgroep, vermeld in artikel 9, § 3, eerste lid, beslist met een meerderheid van elk van de drie groepen die in de stuurgroep vertegenwoordigd zijn: welzijnsactoren, eerstelijnszorgactoren en vertegenwoordigers van personen met een zorg en ondersteuningsvraag, mantelzorgers en vrijwilligers.
@@ -210,17 +211,17 @@ Als de zorgraad als werkgebied het tweetalige gebied Brussel-Hoofdstad heeft, wo
 
 ### ART 15.
 
-§ 1. De administrateur-generaal uit een voornemen tot schorsing of tot intrekking van de erkenning als een zorgraad niet meer voldoet aan de voorwaarden om erkend te blijven, vermeld in artikel 14.<br>
+§ 1. De secretaris-generaal uit een voornemen tot schorsing of tot intrekking van de erkenning als een zorgraad niet meer voldoet aan de voorwaarden om erkend te blijven, vermeld in artikel 14.<br>
 <br>
-§ 2. Het agentschap brengt de zorgraad met een aangetekende zending op de hoogte van het voornemen tot schorsing of tot intrekking van de erkenning.<br>
+§ 2. de administratie brengt de zorgraad met een aangetekende zending op de hoogte van het voornemen tot schorsing of tot intrekking van de erkenning.<br>
 <br>
-De aangetekende zending bevat naast het voornemen ook de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij het agentschap.<br>
+De aangetekende zending bevat naast het voornemen ook de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij de administratie.<br>
 <br>
-Als de zorgraad geen bezwaarschift indient binnen vijfenveertig dagen nadat het agentschap de aangetekende zending heeft verstuurd, wordt de beslissing van de administrateur-generaal tot schorsing of intrekking van de erkenning met een aangetekende zending aan de zorgraad bezorgd.<br>
+Als de zorgraad geen bezwaarschift indient binnen vijfenveertig dagen nadat de administratie de aangetekende zending heeft verstuurd, wordt de beslissing van de secretaris-generaal tot schorsing of intrekking van de erkenning met een aangetekende zending aan de zorgraad bezorgd.<br>
 <br>
 § 3. De beslissing tot schorsing vermeldt de begindatum, de periode van de schorsing en de voorwaarden waaraan voldaan moet zijn om de schorsing ongedaan te maken.<br>
 <br>
-De administrateur-generaal bepaalt de termijn van de schorsing. Die termijn mag niet meer bedragen dan drie maanden. Op gemotiveerd verzoek van de zorgraad kan die termijn eenmalig maximaal drie maanden verlengd worden. Die aanvraag wordt minstens dertig dagen voor de afloop van de initiële schorsingstermijn met een aangetekende zending aan het agentschap bezorgd.<br>
+De secretaris-generaal bepaalt de termijn van de schorsing. Die termijn mag niet meer bedragen dan drie maanden. Op gemotiveerd verzoek van de zorgraad kan die termijn eenmalig maximaal drie maanden verlengd worden. Die aanvraag wordt minstens dertig dagen voor de afloop van de initiële schorsingstermijn met een aangetekende zending aan de administratie bezorgd.<br>
 <br>
 § 4. Als bij het beëindigen van de schorsingstermijn nog niet aan alle erkenningsnormen is voldaan, wordt de procedure tot intrekking van de erkenning gestart.<br>
 <br>
@@ -232,9 +233,9 @@ De administrateur-generaal bepaalt de termijn van de schorsing. Die termijn mag 
 
 ### ART 16.
 
-De administrateur-generaal kan de erkenning intrekken als een zorgraad daar aangetekend of tegen ontvangstbewijs rechtsgeldig en gemotiveerd om verzoekt. De beslissing van de administrateur-generaal wordt binnen drie maanden na de dag waarop de zorgraad het verzoek heeft ingediend, aangetekend met kennisgeving van ontvangst, aan de zorgraad bezorgd.<br>
+De secretaris-generaal kan de erkenning intrekken als een zorgraad daar aangetekend of tegen ontvangstbewijs rechtsgeldig en gemotiveerd om verzoekt. De beslissing van de secretaris-generaal wordt binnen drie maanden na de dag waarop de zorgraad het verzoek heeft ingediend, aangetekend met kennisgeving van ontvangst, aan de zorgraad bezorgd.<br>
 <br>
-De zorgraad brengt het agentschap drie maanden voor de vrijwillige stopzetting van haar activiteiten op de hoogte van haar voornemen met de opgave van de datum waarop die beslissing uitwerking heeft.
+De zorgraad brengt de administratie drie maanden voor de vrijwillige stopzetting van haar activiteiten op de hoogte van haar voornemen met de opgave van de datum waarop die beslissing uitwerking heeft.
 
 ## HOOFDSTUK 7. Subsidiëring
 
@@ -280,20 +281,20 @@ Gemeenten die voor een indicator een score halen boven het 75ste percentiel, kri
 <br>
 § 6. In afwijking van paragraaf 4 en 5 wordt voor het tweetalige gebied Brussel-Hoofdstad het aantal gewogen inwoners berekend door 30% van het bevolkingsaantal van het tweetalige gebied Brussel-Hoofdstad te vermenigvuldigen met de wegingscoëfficiënt, vermeld in paragraaf 5, 3°.<br>
 <br>
-§ 7. Het aantal gewogen inwoners per gemeente en van het tweetalige gebied Brussel-Hoofdstad wordt om de drie jaar herberekend, conform paragraaf 3 tot en met 6, en een eerste keer in 2023. Het agentschap publiceert uiterlijk op 1 juli van het jaar waarin het aantal gewogen inwoners per gemeente en het tweetalige gebied Brussel-Hoofdstad wordt herberekend, een actuele lijst met het gewogen aantal inwoners per gemeente en van het tweetalige gebied Brussel-Hoofdstad op haar website.<br>
+§ 7. Het aantal gewogen inwoners per gemeente en van het tweetalige gebied Brussel-Hoofdstad wordt om de drie jaar herberekend, conform paragraaf 3 tot en met 6, en een eerste keer in 2023. de administratie publiceert uiterlijk op 1 juli van het jaar waarin het aantal gewogen inwoners per gemeente en het tweetalige gebied Brussel-Hoofdstad wordt herberekend, een actuele lijst met het gewogen aantal inwoners per gemeente en van het tweetalige gebied Brussel-Hoofdstad op haar website.<br>
 <br>
 Het herberekende aantal gewogen inwoners is van toepassing vanaf het werkingsjaar dat volgt op het jaar waarin de herberekening is uitgevoerd.
 
 ### ART 19.
 
-§ 1. De volgende kosten zijn alleen vergoedbaar als het agentschap op voorhand zijn toestemming heeft verleend:<br>
+§ 1. De volgende kosten zijn alleen vergoedbaar als de administratie op voorhand zijn toestemming heeft verleend:<br>
 1° de kosten voor reizen naar en verblijven in het buitenland;<br>
 2° de reis- en verblijfskosten van buitenlandse deskundigen;<br>
 3° de kosten die verbonden zijn aan leningen.<br>
 <br>
 Uitrustingsgoederen kunnen alleen worden gefinancierd via dit besluit als de kosten ervan gespreid worden afgeschreven. De afschrijvingstermijn voor informatica-apparatuur, hard- en software bedraagt ten minste drie jaar. Voor meubilair en andere uitrustingsgoederen bedraagt de afschrijvingstermijn ten minste vijf jaar.<br>
 <br>
-§ 2. Het subsidiebedrag dat een zorgraad ontvangt overeenkomstig de berekening vermeld in artikel 18, wordt voor minstens 60% aangewend voor personeelskosten. Als uit het financieel verslag, vermeld in artikel 22, blijkt dat minder dan 60% wordt besteed aan personeelskosten, wordt het verschil tussen het bestede percentage aan personeelskosten en 60% van de voormelde subsidie,door het agentschap teruggevorderd of niet uitbetaald.
+§ 2. Het subsidiebedrag dat een zorgraad ontvangt overeenkomstig de berekening vermeld in artikel 18, wordt voor minstens 60% aangewend voor personeelskosten. Als uit het financieel verslag, vermeld in artikel 22, blijkt dat minder dan 60% wordt besteed aan personeelskosten, wordt het verschil tussen het bestede percentage aan personeelskosten en 60% van de voormelde subsidie,door de administratie teruggevorderd of niet uitbetaald.
 
 ### ART 20.
 
@@ -301,7 +302,7 @@ De zorgraden ontvangen maximaal 90% van de subsidie als voorschot.<br>
 <br>
 Het voorschot wordt in vier gelijke delen betaald. Het eerste deel wordt zo snel als mogelijk na de vastlegging van de subsidie uitbetaald. De volgende schijven worden respectievelijk in de laatste week van maart, de laatste week van juni en de laatste week van september betaald.<br>
 <br>
-Het saldo van de subsidie wordt betaald nadat het agentschap het financieel en inhoudelijk verslag heeft goedgekeurd.
+Het saldo van de subsidie wordt betaald nadat de administratie het financieel en inhoudelijk verslag heeft goedgekeurd.
 
 ### ART 21.
 
@@ -309,15 +310,15 @@ De subsidie, vermeld in artikel 18, wordt gekoppeld aan de afgevlakte gezondheid
 
 ### ART 22.
 
-§ 1. Elk jaar bezorgen de zorgraden aan het agentschap een inhoudelijk en financieel jaarverslag uiterlijk op 31 maart van het jaar dat volgt op het jaar waarop de subsidie betrekking heeft.<br>
+§ 1. Elk jaar bezorgen de zorgraden aan de administratie een inhoudelijk en financieel jaarverslag uiterlijk op 31 maart van het jaar dat volgt op het jaar waarop de subsidie betrekking heeft.<br>
 <br>
-De documenten, vermeld in het eerste lid, worden elektronisch naar het agentschap gestuurd. Als dat niet mogelijk is, worden ze per post gestuurd.<br>
+De documenten, vermeld in het eerste lid, worden elektronisch naar de administratie gestuurd. Als dat niet mogelijk is, worden ze per post gestuurd.<br>
 <br>
-§ 2. Het inhoudelijk verslag bevat een beschrijving van de uitvoering van de opdrachten, vermeld in artikel 3, die het agentschap in staat stelt de realisatie van de opdrachten te evalueren.<br>
+§ 2. Het inhoudelijk verslag bevat een beschrijving van de uitvoering van de opdrachten, vermeld in artikel 3, die de administratie in staat stelt de realisatie van de opdrachten te evalueren.<br>
 <br>
-Het agentschap kan de vorm van het inhoudelijk verslag nader bepalen.<br>
+De administratie kan de vorm van het inhoudelijk verslag nader bepalen.<br>
 <br>
-Het agentschap kan de elektronische versie van het inhoudelijk jaarverslag op haar website (www.zorg-en-gezondheid.be) publiceren.<br>
+De administratie kan de elektronische versie van het inhoudelijk jaarverslag op haar website publiceren.<br>
 <br>
 § 3. Het financieel verslag omvat de volgende elementen:<br>
 1° de staat van ontvangsten en uitgaven, gegroepeerd per kosten- en inkomstensoort, als een enkelvoudige boekhouding of kasboekhouding wordt gevoerd, of de resultatenrekening als een dubbele boekhouding wordt gevoerd, met inbegrip van de oorsprong, de omvang en de besteding van de eventuele middelen die verkregen worden buiten dit besluit en die aangewend worden voor activiteiten die verband houden met de activiteiten, vermeld in dit besluit;<br>
@@ -325,7 +326,7 @@ Het agentschap kan de elektronische versie van het inhoudelijk jaarverslag op ha
 3° de opbouw en aanwending van de reserve;<br>
 4° als dat van van toepassing is, een afschrijvingstabel met de lopende en de nieuwe afschrijvingen.<br>
 <br>
-Het agentschap kan de vorm van het financiële verslag nader bepalen.
+De administratie kan de vorm van het financiële verslag nader bepalen.
 
 ### ART 23.
 
@@ -333,7 +334,7 @@ Het gedeelte van de toegekende subsidie dat de aanvaarde uitgaven overschrijdt, 
 <br>
 Een reserve kan alleen aangewend worden om uitgaven te financieren die bijdragen tot de realisatie van de opdrachten, vermeld in artikel 3 tot en met 7, en voor het sociaal passief.<br>
 <br>
-De reservevorming mag per werkingsjaar niet meer bedragen dan 20% van de jaarlijkse subsidie die toegekend wordt door het agentschap. De totale opgebouwde reserve mag op het einde van een bepaald werkingsjaar nooit meer bedragen dan de helft van het geïndexeerde bedrag van de subsidie, vermeld in artikel 18, voor het werkingsjaar in kwestie.<br>
+De reservevorming mag per werkingsjaar niet meer bedragen dan 20% van de jaarlijkse subsidie die toegekend wordt door de administratie. De totale opgebouwde reserve mag op het einde van een bepaald werkingsjaar nooit meer bedragen dan de helft van het geïndexeerde bedrag van de subsidie, vermeld in artikel 18, voor het werkingsjaar in kwestie.<br>
 <br>
 Als de erkenning wordt ingetrokken, wordt de reserve die binnen het kader van dit besluit is opgebouwd, integraal teruggestort, met uitzondering van het sociaal passief.
 
@@ -347,11 +348,11 @@ Het bedrag van de subsidie dat de toegelaten grenzen van de opbouw van de reserv
 
 ### ART 25.
 
-Het agentschap volgt de werking van de zorgraden op en kan daarvoor alle gegevens opvragen.<br>
+De administratie volgt de werking van de zorgraden op en kan daarvoor alle gegevens opvragen.<br>
 <br>
-Het agentschap controleert de naleving van de erkennings- en subsidievoorwaarden, vermeld in dit besluit.<br>
+De administratie controleert de naleving van de erkennings- en subsidievoorwaarden, vermeld in dit besluit.<br>
 <br>
-Als uit de controle of evaluatie door het agentschap blijkt dat de financiële verantwoording of de uitvoering van de opdrachten, vermeld in artikel 3 tot en met 7, onvoldoende is of als het subsidiebedrag te hoog blijkt, wordt door het agentschap een deel van de subsidie niet uitbetaald of teruggevorderd.
+Als uit de controle of evaluatie door de administratie blijkt dat de financiële verantwoording of de uitvoering van de opdrachten, vermeld in artikel 3 tot en met 7, onvoldoende is of als het subsidiebedrag te hoog blijkt, wordt door de administratie een deel van de subsidie niet uitbetaald of teruggevorderd.
 
 ## HOOFDSTUK 9. Werkingsgebied
 
