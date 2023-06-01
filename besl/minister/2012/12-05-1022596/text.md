@@ -6,7 +6,10 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° agentschap : het Vlaams   Agentschap Zorg en Gezondheid;<BR>2° minister : de Vlaamse minister, bevoegd   voor het gezondheidsbeleid;<BR>3° besluit van de Vlaamse Regering van 14   november 2008 : besluit van de Vlaamse Regering van 14 november 2008 betreffende   Vlaamse werkgroepen binnen het preventieve gezondheidsbeleid.<BR>
+In dit besluit wordt verstaan onder :<br>
+1° ...;<br>
+2° minister : de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
+3° besluit van de Vlaamse Regering van 14 november 2008 : besluit van de Vlaamse Regering van 14 november 2008 betreffende Vlaamse werkgroepen binnen het preventieve gezondheidsbeleid.
 
 ### ART. 2.
 
@@ -22,26 +25,62 @@ De Vlaamse werkgroep wordt opgericht voor onbepaalde   duur.<BR>
 1° het aanreiken van deskundigheid, wetenschappelijke inzichten en aangetoond werkzame methodieken, ten bate van suïcidepreventie in Vlaanderen en van de uitvoering van het Vlaams Actieplan Suïcidepreventie;<br>
 2° het opvolgen van taken en afspraken van voorgaande werkgroepvergaderingen;<br>
 3° het delegeren van opdrachten naar de subwerkgroepen en het bespreken van de werkzaamheden van de subwerkgroepen;<br>
-4° het fungeren als klankbord bij de bespreking en/of introductie van nieuwe initiatieven voorgesteld door het agentschap of de subwerkgroepen;<br>
+4° het fungeren als klankbord bij de bespreking en/of introductie van nieuwe initiatieven voorgesteld door de administratie of de subwerkgroepen;<br>
 5° het creëren van een draagvlak in het veld voor de uitvoering van nieuwe initiatieven;<br>
-6° het verzamelen van adviezen van de subwerkgroepen en formuleren van adviezen aan de minister en het agentschap;<br>
-7° op vraag of op eigen initiatief, advies uitbrengen aan de minister en het agentschap over suïcidepreventie in het algemeen en de hierboven genoemde punten in het bijzonder.</p>
+6° het verzamelen van adviezen van de subwerkgroepen en formuleren van adviezen aan de minister en de administratie;<br>
+7° op vraag of op eigen initiatief, advies uitbrengen aan de minister en de administratie over suïcidepreventie in het algemeen en de hierboven genoemde punten in het bijzonder.</p>
 
-<p>§ 2. De Vlaamse werkgroep rapporteert aan de minister en het agentschap over de realisatie van de opdrachten, aan de hand van verslagen en adviezen.</p>
+<p>§ 2. De Vlaamse werkgroep rapporteert aan de minister en de administratie over de realisatie van de opdrachten, aan de hand van verslagen en adviezen.</p>
 
 <p>§ 3. De Vlaamse werkgroep maakt een huishoudelijk reglement op.</p>
 
-<p>Het huishoudelijk reglement en de wijzigingen ervan, worden ter goedkeuring voorgelegd aan het agentschap.</p>
+<p>Het huishoudelijk reglement en de wijzigingen ervan, worden ter goedkeuring voorgelegd aan de administratie.</p>
 
 <p>In het huishoudelijk reglement moet minstens bepaald worden hoe de besluitvorming wordt geregeld.</p>
 
-<p>§ 4. Het agentschap neemt de secretariaatstaken waar, namelijk de administratieve, logistieke en, in functie van haar deskundigheid, inhoudelijke ondersteuning van de Vlaamse werkgroep.</p>
+<p>§ 4. De administratie neemt de secretariaatstaken waar, namelijk de administratieve, logistieke en, in functie van haar deskundigheid, inhoudelijke ondersteuning van de Vlaamse werkgroep.</p>
 
-<p>Als er subwerkgroepen worden opgericht, is het agentschap niet verantwoordelijk voor de administratieve, logistieke en inhoudelijke ondersteuning, tenzij dat bij de goedkeuring van het oprichten van een subwerkgroep, vermeld in artikel 5, § 1, vierde lid, anders wordt vermeld.</p>
+<p>Als er subwerkgroepen worden opgericht, is de administratie niet verantwoordelijk voor de administratieve, logistieke en inhoudelijke ondersteuning, tenzij dat bij de goedkeuring van het oprichten van een subwerkgroep, vermeld in artikel 5, § 1, vierde lid, anders wordt vermeld.</p>
 
 ### ART. 5.
 
-<P>§ 1. De heer Pieter Vandenbulcke, namens het Vlaams Agentschap Zorg en   Gezondheid, wordt benoemd als voorzitter van de Vlaamse werkgroep.<BR></P>  <P>De voorzitter kan zich laten vervangen door zelf een vervanger aan te duiden.   Duidt hij geen vervanger aan, dan zit het oudste aanwezige lid de vergadering   van de Vlaamse werkgroep voor. Indien de voorzitter zich gedurende meer dan zes   opeenvolgende maanden laat vervangen duidt de minister een andere voorzitter   aan.<BR></P>  <P>De voorzitter kan een of meerdere subwerkgroepen oprichten na goedkeuring   door het agentschap. Daartoe deelt hij zijn voornemen tot het oprichten van een   subwerkgroep mee aan het agentschap, met inbegrip van de deelaspecten van de   opdracht van de Vlaamse werkgroep die door de subwerkgroep zullen worden   uitgevoerd, het tijdschema om die deelaspecten uit te voeren, de samenstelling   en het maximale aantal leden.<BR></P>  <P>De voorzitter van de werkgroep verklaart de aanwezigheidslijst voor waar en   echt.<BR></P>  <P>§ 2. De volgende personen worden benoemd tot lid van de Vlaamse werkgroep   :<BR>1° de heer Aerts, Yves;<BR>2° Mevr. Balduyck, Sofie;<BR>3° Mevr. De   Busscher, Katia;<BR>4° Mevr. Declercq, Sibille;<BR>5° Mevr. De Deken,   Lutgart;<BR>6° de heer De Ketelbutter, Chris;<BR>7° Mevr. Delfosse, Lynn;<BR>8°   de heer De Maeseneir, Koen;<BR>9° Mevr. De Roover, Winnie;<BR>10° de heer   Dessein, Rik;<BR>11° Mevr. De Waele, Karen;<BR>12° Mevr. Enghien,   Marijke;<BR>13° Mevr. Langedock, Tine;<BR>14° Mevr. Moens, Ann;<BR>15° Mevr.   Pauwels, Kirsten;<BR>16° Mevr. Roelandt, Nele;<BR>17° de heer Toye, Jan;<BR>18°   Mevr. Van Audenhove, Chantal;<BR>19° Mevr. van den Berg, Marjolijn;<BR>20° Mevr.   Vandurme, Rita;<BR>21° de heer van Heeringen, Cornelis;<BR>22° de heer Van Hoof,   Bart;<BR>23° Mevr. Vanhove, Rita;<BR>24° de heer Van Speybroeck, Jan;<BR></P>  <P>§ 3. De leden, vermeld in paragraaf 2, kunnen, als ze niet op een vergadering   aanwezig kunnen zijn, een plaatsvervanger aanduiden.<BR></P>  <P>§ 4. De identificatie- en contactgegevens van de personen, vermeld in dit   artikel, worden bijgehouden door het agentschap.<BR></P>
+<p>§ 1. De heer Pieter Vandenbulcke, namens de administratie, wordt benoemd als voorzitter van de Vlaamse werkgroep.</p>
+
+<p>De voorzitter kan zich laten vervangen door zelf een vervanger aan te duiden. Duidt hij geen vervanger aan, dan zit het oudste aanwezige lid de vergadering van de Vlaamse werkgroep voor. Indien de voorzitter zich gedurende meer dan zes opeenvolgende maanden laat vervangen duidt de minister een andere voorzitter aan.</p>
+
+<p>De voorzitter kan een of meerdere subwerkgroepen oprichten na goedkeuring door de administratie. Daartoe deelt hij zijn voornemen tot het oprichten van een subwerkgroep mee aan de administratie, met inbegrip van de deelaspecten van de opdracht van de Vlaamse werkgroep die door de subwerkgroep zullen worden uitgevoerd, het tijdschema om die deelaspecten uit te voeren, de samenstelling en het maximale aantal leden.</p>
+
+<p>De voorzitter van de werkgroep verklaart de aanwezigheidslijst voor waar en echt.</p>
+
+<p>§ 2. De volgende personen worden benoemd tot lid van de Vlaamse werkgroep :<br>
+1° de heer Aerts, Yves;<br>
+2° Mevr. Balduyck, Sofie;<br>
+3° Mevr. De Busscher, Katia;<br>
+4° Mevr. Declercq, Sibille;<br>
+5° Mevr. De Deken, Lutgart;<br>
+6° de heer De Ketelbutter, Chris;<br>
+7° Mevr. Delfosse, Lynn;<br>
+8° de heer De Maeseneir, Koen;<br>
+9° Mevr. De Roover, Winnie;<br>
+10° de heer Dessein, Rik;<br>
+11° Mevr. De Waele, Karen;<br>
+12° Mevr. Enghien, Marijke;<br>
+13° Mevr. Langedock, Tine;<br>
+14° Mevr. Moens, Ann;<br>
+15° Mevr. Pauwels, Kirsten;<br>
+16° Mevr. Roelandt, Nele;<br>
+17° de heer Toye, Jan;<br>
+18° Mevr. Van Audenhove, Chantal;<br>
+19° Mevr. van den Berg, Marjolijn;<br>
+20° Mevr. Vandurme, Rita;<br>
+21° de heer van Heeringen, Cornelis;<br>
+22° de heer Van Hoof, Bart;<br>
+23° Mevr. Vanhove, Rita;<br>
+24° de heer Van Speybroeck, Jan;</p>
+
+<p>§ 3. De leden, vermeld in paragraaf 2, kunnen, als ze niet op een vergadering aanwezig kunnen zijn, een plaatsvervanger aanduiden.</p>
+
+<p>§ 4. De identificatie- en contactgegevens van de personen, vermeld in dit artikel, worden bijgehouden door de administratie.</p>
 
 ### ART. 6.
 
