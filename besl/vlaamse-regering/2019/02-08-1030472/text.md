@@ -23,13 +23,14 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° administrateur-generaal: de administrateur-generaal van het agentschap;<br>
-2° agentschap: het agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+1° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
+2° ...;<br>
 3° decreet van 18 mei 2018: het decreet van 18 mei 2018 betreffende het niet-dringend liggend ziekenvervoer;<br>
 4° dienst: een dienst voor niet-dringend liggend ziekenvervoer als vermeld in artikel 2, 1°, van het decreet van 18 mei 2018;<br>
 5° gemengde werkgroep opleiding: de werkgroep, vermeld in artikel 5, § 2, van het decreet van 18 mei 2018;<br>
 6° minister: de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
-7° onafhankelijke commissie: de onafhankelijke commissie, vermeld in artikel 5, § 1, van het decreet van 18 mei 2018.
+7° onafhankelijke commissie: de onafhankelijke commissie, vermeld in artikel 5, § 1, van het decreet van 18 mei 2018;<br>
+8° secretaris-generaal: het hoofd van de administratie;
 
 ## HOOFDSTUK 2. Bijkomende vergunningsvoorwaarden
 
@@ -166,7 +167,7 @@ Eén van de in het eerste lid vermelde personen, die de werking van de ziekenwag
 
 ### ART 15.
 
-De ambulancier niet-dringend patiëntenvervoer is houder van het certificaat van een opleiding eerste hulp van minstens 24 uur, tenzij hij zich kan beroepen op eerder verworven kwalificaties. Dat certificaat is op het moment waarop hij de functie opneemt, niet ouder dan drie jaar. Een organisatie die bekrachtigd is door de gemengde werkgroep opleiding, reikt het certificaat uit. De lijst van de bekrachtigde organisaties wordt gepubliceerd op de website van het agentschap.
+De ambulancier niet-dringend patiëntenvervoer is houder van het certificaat van een opleiding eerste hulp van minstens 24 uur, tenzij hij zich kan beroepen op eerder verworven kwalificaties. Dat certificaat is op het moment waarop hij de functie opneemt, niet ouder dan drie jaar. Een organisatie die bekrachtigd is door de gemengde werkgroep opleiding, reikt het certificaat uit. De lijst van de bekrachtigde organisaties wordt gepubliceerd op de website van de administratie.
 
 ### ART 17.
 
@@ -206,7 +207,7 @@ Het telefoonnummer en het woord "AMBULANCE" worden allebei gekleefd volgens een 
 <br>
 Op de achterzijde van de ziekenwagen wordt de combinatie van het telefoonnummer en de aanduiding van de functie aangebracht gecentreerd tussen de rand van het dak van het voertuig en de bovenzijde van het venster of de vensters achteraan.<br>
 <br>
-§ 7. Op de achterzijde van de ziekenwagen wordt rechts onderaan het identificatienummer gekleefd dat het agentschap toekent. Dat identificatienummer wordt uitgevoerd in zwarte zelfklevende cijfers in het lettertype Segoe UI bold en heeft een hoogte van 75 millimeter. Het identificatienummer wordt aangebracht zodat er rechts en onder dat nummer 50 millimeter afstand is ten opzichte van de dichtstbij gelegen rand van het koetswerk.<br>
+§ 7. Op de achterzijde van de ziekenwagen wordt rechts onderaan het identificatienummer gekleefd dat de administratie toekent. Dat identificatienummer wordt uitgevoerd in zwarte zelfklevende cijfers in het lettertype Segoe UI bold en heeft een hoogte van 75 millimeter. Het identificatienummer wordt aangebracht zodat er rechts en onder dat nummer 50 millimeter afstand is ten opzichte van de dichtstbij gelegen rand van het koetswerk.<br>
 <br>
 § 8. Optioneel kan op de beide zijkanten van de ziekenwagen het logo van de ziekenwagendienst en/of de naam van de ziekenwagendienst worden aangebracht.<br>
 <br>
@@ -277,7 +278,7 @@ c) 14 CH;<br>
 
 ### ART 20.
 
-Een dienst die een vergunning voor niet-dringend liggend ziekenvervoer wil verkrijgen, dient daarvoor een vergunningsaanvraag in bij het agentschap en vraagt een controle aan bij een gemachtigde controleorganisatie.<br>
+Een dienst die een vergunning voor niet-dringend liggend ziekenvervoer wil verkrijgen, dient daarvoor een vergunningsaanvraag in bij de administratie en vraagt een controle aan bij een gemachtigde controleorganisatie.<br>
 <br>
 Bij een aanvraag tot controle zijn al de volgende documenten gevoegd:<br>
 1° een nota met de vermelding van de maatschappelijke zetel van de dienst, de naam van de medisch verantwoordelijke, vermeld in artikel 4, en de naam van de algemeen verantwoordelijke, vermeld in artikel 5. De medisch verantwoordelijke en de algemeen verantwoordelijke ondertekenen die nota;<br>
@@ -286,13 +287,13 @@ Bij een aanvraag tot controle zijn al de volgende documenten gevoegd:<br>
 <br>
 De aanvraag van een eerste vergunning betreft altijd de vergunning voor de ziekenwagendienst en alle ziekenwagens die behoren tot de ziekenwagendienst.<br>
 <br>
-Als het dossier onvolledig is, deelt de gemachtigde controleorganisatie dat mee aan de aanvrager en het agentschap, met vermelding van de ontbrekende gegevens, binnen een maand nadat ze het dossier heeft ontvangen.
+Als het dossier onvolledig is, deelt de gemachtigde controleorganisatie dat mee aan de aanvrager en de administratie, met vermelding van de ontbrekende gegevens, binnen een maand nadat ze het dossier heeft ontvangen.
 
 ### ART 21.
 
-Uiterlijk binnen een maand nadat ze een ontvankelijk dossier heeft ontvangen, controleert de gemachtigde controleorganisatie, op basis van het eisenkader dat het agentschap heeft opgesteld, na advies van de onafhankelijke commissie, of de dienst en de ziekenwagens niet-dringend liggend ziekenvervoer die tot de dienst behoren, voldoen aan de vergunningsvoorwaarden, vermeld in hoofdstuk 4.<br>
+Uiterlijk binnen een maand nadat ze een ontvankelijk dossier heeft ontvangen, controleert de gemachtigde controleorganisatie, op basis van het eisenkader dat de administratie heeft opgesteld, na advies van de onafhankelijke commissie, of de dienst en de ziekenwagens niet-dringend liggend ziekenvervoer die tot de dienst behoren, voldoen aan de vergunningsvoorwaarden, vermeld in hoofdstuk 4.<br>
 <br>
-In het eisenkader, vermeld in het eerste lid, zijn de te controleren vergunningsvoorwaarden vertaald naar concrete en objectieve vaststellingen. Het eisenkader wordt gepubliceerd op de website van het agentschap. Het agentschap bepaalt voor elk van de vergunningsvoorwaarden, vermeld in het eisenkader, na advies van de onafhankelijke commissie, de waarde op basis waarvan het oordeel, vermeld in artikel 22, moet worden gegeven.<br>
+In het eisenkader, vermeld in het eerste lid, zijn de te controleren vergunningsvoorwaarden vertaald naar concrete en objectieve vaststellingen. Het eisenkader wordt gepubliceerd op de website van de administratie. de administratie bepaalt voor elk van de vergunningsvoorwaarden, vermeld in het eisenkader, na advies van de onafhankelijke commissie, de waarde op basis waarvan het oordeel, vermeld in artikel 22, moet worden gegeven.<br>
 <br>
 De ziekenwagendienst wordt ter plaatse gecontroleerd. De ziekenwagens worden steekproefsgewijs gecontroleerd. De grootte van de steekproef bedraagt 10% van het aantal ziekenwagens van de ziekenwagendienst, met een minimum van drie en een maximum van tien. De steekproef bevat ziekenwagens die at random door de gemachtigde controleorganisatie zijn geselecteerd. De gemachtigde controleorganisatie kan op het moment van de controle beslissen dat de steekproef wordt uitgebreid. In dat geval motiveert ze die beslissing in het verslag, vermeld in artikel 22. De dienst die de controle heeft aangevraagd, kan tijdens de controle de gemachtigde controleorganisatie ook vragen om de steekproefsgewijze controle te vervangen door een controle van alle ziekenwagens.<br>
 <br>
@@ -300,15 +301,15 @@ De dienst stelt aan de gemachtigde controleorganisatie alle gegevens ter beschik
 
 ### ART 22.
 
-Binnen een maand na de controle maakt de gemachtigde controleorganisatie een omstandig verslag, volgens een model dat het agentschap heeft bepaald, na advies van de onafhankelijke commissie.<br>
+Binnen een maand na de controle maakt de gemachtigde controleorganisatie een omstandig verslag, volgens een model dat de administratie heeft bepaald, na advies van de onafhankelijke commissie.<br>
 <br>
 In het verslag wordt het oordeel over de dienst en iedere gecontroleerde ziekenwagen vermeld. Het oordeel is gunstig, gunstig met voorbehoud of ongunstig.<br>
 <br>
-Het verslag wordt naar de dienst gestuurd met een kopie naar het agentschap.
+Het verslag wordt naar de dienst gestuurd met een kopie naar de administratie.
 
 ### ART 23.
 
-§ 1. Onder voorbehoud van het uitvoeren van een bijkomende controle, vermeld in artikel 30, beslist het agentschap over de vergunningsaanvraag uiterlijk een maand nadat het verslag, vermeld in artikel 22, werd ontvangen. Als er een bijkomende controle wordt uitgevoerd, beslist het agentschap binnen een maand nadat het agentschap het verslag van de bijkomende controle, vermeld in artikel 30, heeft ontvangen.<br>
+§ 1. Onder voorbehoud van het uitvoeren van een bijkomende controle, vermeld in artikel 30, beslist de administratie over de vergunningsaanvraag uiterlijk een maand nadat het verslag, vermeld in artikel 22, werd ontvangen. Als er een bijkomende controle wordt uitgevoerd, beslist de administratie binnen een maand nadat de administratie het verslag van de bijkomende controle, vermeld in artikel 30, heeft ontvangen.<br>
 <br>
 Een positieve vergunningsbeslissing vermeldt de begin- en einddatum van de voorlopige vergunning of de vergunning.<br>
 <br>
@@ -318,7 +319,7 @@ Een voorlopige vergunning geldt voor zes maanden en is twee keer met telkens max
 <br>
 In het voornemen tot weigering van een vergunning voor de dienst of voor een of meer ziekenwagens, vermeld in paragraaf 4, worden de mogelijkheid en de nadere regels om een bezwaarschrift in te dienen vermeld.<br>
 <br>
-Nadat de dienst een voorlopige vergunning heeft ontvangen voor de dienst of voor een of meer ziekenwagens, heeft de dienst drie maanden de tijd om de vastgestelde tekorten weg te werken. Uiterlijk binnen drie maanden nadat de dienst het verslag, vermeld in artikel 22, heeft ontvangen, vraagt ze een tweede controle aan bij de gemachtigde controleorganisatie die de voorgaande controle heeft uitgevoerd. Uiterlijk binnen een maand vanaf de dag waarop de controleorganisatie de tweede aanvraag tot controle heeft ontvangen, controleert ze of de vastgestelde tekortkomingen zijn weggewerkt. Binnen een maand na het beëindigen van de controle maakt de controleorganisatie een verslag als vermeld in artikel 22. Dat verslag wordt naar de dienst gestuurd met een kopie aan het agentschap.<br>
+Nadat de dienst een voorlopige vergunning heeft ontvangen voor de dienst of voor een of meer ziekenwagens, heeft de dienst drie maanden de tijd om de vastgestelde tekorten weg te werken. Uiterlijk binnen drie maanden nadat de dienst het verslag, vermeld in artikel 22, heeft ontvangen, vraagt ze een tweede controle aan bij de gemachtigde controleorganisatie die de voorgaande controle heeft uitgevoerd. Uiterlijk binnen een maand vanaf de dag waarop de controleorganisatie de tweede aanvraag tot controle heeft ontvangen, controleert ze of de vastgestelde tekortkomingen zijn weggewerkt. Binnen een maand na het beëindigen van de controle maakt de controleorganisatie een verslag als vermeld in artikel 22. Dat verslag wordt naar de dienst gestuurd met een kopie aan de administratie.<br>
 <br>
 Als bij een steekproefsgewijze controle een of meer ziekenwagens als ongunstig worden beoordeeld, worden alle ziekenwagens als ongunstig beoordeeld. Als bij een steekproefsgewijze controle een of meer ziekenwagens als gunstig met voorbehoud worden beoordeeld en geen enkele ziekenwagen als ongunstig, worden alle ziekenwagens als gunstig met voorbehoud beoordeeld.<br>
 <br>
@@ -326,17 +327,17 @@ Een tweede controle van ziekenwagens na een steekproefsgewijze controle heeft zo
 <br>
 Een tweede controle van ziekenwagens na een controle van alle ziekenwagens beperkt zich tot de ziekenwagens waarbij effectief tekorten werden vastgesteld.<br>
 <br>
-§ 2. Als het verslag, vermeld in artikel 22, een gunstige beoordeling bevat van de dienst en een gunstige beoordeling van de gecontroleerde ziekenwagens, bezorgt het agentschap een vergunning voor de dienst en een vergunning met bijbehorend uniek identificatienummer voor alle ziekenwagens aan de dienst, tenzij de administrateur-generaal anders beslist op grond van bevindingen na een bijkomende controle als vermeld in artikel 30.<br>
+§ 2. Als het verslag, vermeld in artikel 22, een gunstige beoordeling bevat van de dienst en een gunstige beoordeling van de gecontroleerde ziekenwagens, bezorgt de administratie een vergunning voor de dienst en een vergunning met bijbehorend uniek identificatienummer voor alle ziekenwagens aan de dienst, tenzij de secretaris-generaal anders beslist op grond van bevindingen na een bijkomende controle als vermeld in artikel 30.<br>
 <br>
-§ 3. Als het verslag, vermeld in artikel 22, een gunstige beoordeling met voorbehoud van de dienst bevat, en na een steekproefsgewijze controle een gunstige beoordeling of een gunstige beoordeling met voorbehoud van de ziekenwagens bevat, bezorgt het agentschap een voorlopige vergunning voor de dienst en een voorlopige vergunning met bijbehorend voorlopig uniek identificatienummer voor alle ziekenwagens aan de dienst, tenzij de administrateur-generaal anders beslist op grond van bevindingen na een bijkomende controle als vermeld in artikel 30.<br>
+§ 3. Als het verslag, vermeld in artikel 22, een gunstige beoordeling met voorbehoud van de dienst bevat, en na een steekproefsgewijze controle een gunstige beoordeling of een gunstige beoordeling met voorbehoud van de ziekenwagens bevat, bezorgt de administratie een voorlopige vergunning voor de dienst en een voorlopige vergunning met bijbehorend voorlopig uniek identificatienummer voor alle ziekenwagens aan de dienst, tenzij de secretaris-generaal anders beslist op grond van bevindingen na een bijkomende controle als vermeld in artikel 30.<br>
 <br>
-§ 4. Als het verslag, vermeld in artikel 22, een ongunstige beoordeling bevat van de dienst of een derde opeenvolgende gunstige beoordeling met voorbehoud van de dienst bevat, bezorgt het agentschap aan de dienst een voornemen tot weigering van vergunning voor de dienst en voor alle ziekenwagens die aan de dienst verbonden zijn, tenzij de administrateur-generaal anders beslist op grond van bevindingen na een bijkomende controle als vermeld in artikel 30. Een eerder verleende voorlopige vergunning blijft geldig zolang de bezwaartermijn, vermeld in artikel 24, eerste lid, loopt, of, als een ontvankelijk bezwaarschrift is ingediend, tot de datum van de definitieve beslissing over de aangevraagde vergunning.<br>
+§ 4. Als het verslag, vermeld in artikel 22, een ongunstige beoordeling bevat van de dienst of een derde opeenvolgende gunstige beoordeling met voorbehoud van de dienst bevat, bezorgt de administratie aan de dienst een voornemen tot weigering van vergunning voor de dienst en voor alle ziekenwagens die aan de dienst verbonden zijn, tenzij de secretaris-generaal anders beslist op grond van bevindingen na een bijkomende controle als vermeld in artikel 30. Een eerder verleende voorlopige vergunning blijft geldig zolang de bezwaartermijn, vermeld in artikel 24, eerste lid, loopt, of, als een ontvankelijk bezwaarschrift is ingediend, tot de datum van de definitieve beslissing over de aangevraagde vergunning.<br>
 <br>
-§ 5. Als het verslag, vermeld in artikel 22, een gunstige beoordeling van de dienst en, na een steekproefsgewijze controle, een gunstige beoordeling met voorbehoud voor de ziekenwagens bevat, bezorgt het agentschap een voorlopige vergunning voor de dienst en een voorlopige vergunning met bijbehorend voorlopig uniek identificatienummer voor alle ziekenwagens aan de dienst, tenzij de administrateur-generaal anders beslist op grond van bevindingen na een bijkomende controle als vermeld in artikel 30.<br>
+§ 5. Als het verslag, vermeld in artikel 22, een gunstige beoordeling van de dienst en, na een steekproefsgewijze controle, een gunstige beoordeling met voorbehoud voor de ziekenwagens bevat, bezorgt de administratie een voorlopige vergunning voor de dienst en een voorlopige vergunning met bijbehorend voorlopig uniek identificatienummer voor alle ziekenwagens aan de dienst, tenzij de secretaris-generaal anders beslist op grond van bevindingen na een bijkomende controle als vermeld in artikel 30.<br>
 <br>
-§ 6. Als het verslag, vermeld in artikel 22, na een steekproefsgewijze controle, een ongunstige beoordeling voor de ziekenwagens bevat of een derde opeenvolgende gunstige beoordeling met voorbehoud voor de ziekenwagens bevat, of na een controle van alle ziekenwagens, alle ziekenwagens een ongunstige beoordeling hebben gekregen of een derde opeenvolgende gunstige beoordeling met voorbehoud voor de ziekenwagens hebben gekregen, bezorgt het agentschap aan de dienst een voornemen tot weigering van vergunning voor de dienst en voor alle ziekenwagens die aan de dienst verbonden zijn, tenzij de administrateur-generaal anders beslist op grond van bevindingen na een bijkomende controle als vermeld in artikel 30. Een eerder verleende voorlopige vergunning blijft geldig zolang de bezwaartermijn, vermeld in artikel 24, eerste lid, loopt, of, als een ontvankelijk bezwaarschrift is ingediend, tot de datum van de definitieve beslissing over de aangevraagde vergunning.<br>
+§ 6. Als het verslag, vermeld in artikel 22, na een steekproefsgewijze controle, een ongunstige beoordeling voor de ziekenwagens bevat of een derde opeenvolgende gunstige beoordeling met voorbehoud voor de ziekenwagens bevat, of na een controle van alle ziekenwagens, alle ziekenwagens een ongunstige beoordeling hebben gekregen of een derde opeenvolgende gunstige beoordeling met voorbehoud voor de ziekenwagens hebben gekregen, bezorgt de administratie aan de dienst een voornemen tot weigering van vergunning voor de dienst en voor alle ziekenwagens die aan de dienst verbonden zijn, tenzij de secretaris-generaal anders beslist op grond van bevindingen na een bijkomende controle als vermeld in artikel 30. Een eerder verleende voorlopige vergunning blijft geldig zolang de bezwaartermijn, vermeld in artikel 24, eerste lid, loopt, of, als een ontvankelijk bezwaarschrift is ingediend, tot de datum van de definitieve beslissing over de aangevraagde vergunning.<br>
 <br>
-§ 7. Als het verslag, vermeld in artikel 22, een gunstige beoordeling van de dienst bevat en, na een controle van alle ziekenwagens, minstens één ziekenwagen met een gunstige beoordeling, bezorgt het agentschap aan de dienst :<br>
+§ 7. Als het verslag, vermeld in artikel 22, een gunstige beoordeling van de dienst bevat en, na een controle van alle ziekenwagens, minstens één ziekenwagen met een gunstige beoordeling, bezorgt de administratie aan de dienst :<br>
 1° een vergunning voor de dienst;<br>
 2° naargelang de beoordeling van de afzonderlijke ziekenwagens :<br>
 a) een vergunning met bijbehorend uniek identificatienummer voor de ziekenwagens die een gunstige beoordeling hebben gekregen;<br>
@@ -345,7 +346,7 @@ c) een voornemen tot weigering van vergunning voor de ziekenwagens die ofwel een
 <br>
 Een eerder verleende voorlopige vergunning voor een ziekenwagen die in het verslag, vermeld in het eerste lid, een ongunstige beoordeling of derde opeenvolgende gunstige beoordeling met voorbehoud voor de ziekenwagens heeft gekregen, blijft geldig zolang de bezwaartermijn, vermeld in artikel 24, eerste lid, loopt, of, als een ontvankelijk bezwaarschrift is ingediend, tot de datum van de definitieve beslissing over de aangevraagde vergunning.<br>
 <br>
-§ 8. Als het verslag, vermeld in artikel 22, een gunstige beoordeling met voorbehoud van de dienst bevat en, na een controle van alle ziekenwagens, minstens één ziekenwagen met een gunstige beoordeling of een gunstige beoordeling met voorbehoud voor de ziekenwagens bevat, bezorgt het agentschap aan de dienst :<br>
+§ 8. Als het verslag, vermeld in artikel 22, een gunstige beoordeling met voorbehoud van de dienst bevat en, na een controle van alle ziekenwagens, minstens één ziekenwagen met een gunstige beoordeling of een gunstige beoordeling met voorbehoud voor de ziekenwagens bevat, bezorgt de administratie aan de dienst :<br>
 1° een voorlopige vergunning voor de dienst;<br>
 2° naargelang de beoordeling van de afzonderlijke ziekenwagens :<br>
 a) een voorlopige vergunning met bijbehorend voorlopig uniek identificatienummer voor de ziekenwagens die een gunstige beoordeling of een gunstige beoordeling met voorbehoud hebben gekregen;<br>
@@ -353,7 +354,7 @@ b) een voornemen tot weigering van vergunning voor de ziekenwagens die ofwel een
 <br>
 Een eerder verleende voorlopige vergunning blijft geldig zolang de bezwaartermijn, vermeld in artikel 24, eerste lid, loopt, of, als een ontvankelijk bezwaarschrift is ingediend, tot de datum van de definitieve beslissing over de aangevraagde vergunning.<br>
 <br>
-§ 9. Als het verslag, vermeld in artikel 22, een gunstige beoordeling van de dienst bevat en, na een controle van alle ziekenwagens, geen enkele ziekenwagen met een gunstige beoordeling en minstens één ziekenwagen met een gunstige beoordeling met voorbehoud bevat, bezorgt het agentschap aan de dienst :<br>
+§ 9. Als het verslag, vermeld in artikel 22, een gunstige beoordeling van de dienst bevat en, na een controle van alle ziekenwagens, geen enkele ziekenwagen met een gunstige beoordeling en minstens één ziekenwagen met een gunstige beoordeling met voorbehoud bevat, bezorgt de administratie aan de dienst :<br>
 1° een voorlopige vergunning voor de dienst;<br>
 2° naargelang de beoordeling van de afzonderlijke ziekenwagens :<br>
 a) een voorlopige vergunning met bijbehorend voorlopig uniek identificatienummer voor de ziekenwagens die een gunstige beoordeling met voorbehoud hebben gekregen;<br>
@@ -363,33 +364,33 @@ Een eerder verleende voorlopige vergunning blijft geldig zolang de bezwaartermij
 
 ### ART 24.
 
-Op straffe van onontvankelijkheid kan de dienst tot uiterlijk dertig dagen nadat hij het voornemen tot weigering vermeld in artikel 23, § 4, heeft ontvangen, met een aangetekende zending of tegen ontvangstbewijs een gemotiveerd bezwaarschrift bij het agentschap indienen. Hij kan daarin uitdrukkelijk vragen om te worden gehoord.<br>
+Op straffe van onontvankelijkheid kan de dienst tot uiterlijk dertig dagen nadat hij het voornemen tot weigering vermeld in artikel 23, § 4, heeft ontvangen, met een aangetekende zending of tegen ontvangstbewijs een gemotiveerd bezwaarschrift bij de administratie indienen. Hij kan daarin uitdrukkelijk vragen om te worden gehoord.<br>
 <br>
-Binnen een maand nadat het agentschap het gemotiveerde bezwaarschrift heeft ontvangen, bezorgt het agentschap het bezwaarschrift, het voornemen tot weigering, vermeld in artikel 23, § 4, en het verslag, vermeld in artikel 22, aan de onafhankelijke commissie voor advies. De onafhankelijke commissie behandelt het bezwaar conform de werkwijze, vermeld in het huishoudelijk reglement. Binnen twee maanden nadat de onafhankelijke commissie een bezwaarschrift heeft ontvangen, formuleert ze een advies aan de administrateur-generaal.
+Binnen een maand nadat de administratie het gemotiveerde bezwaarschrift heeft ontvangen, bezorgt de administratie het bezwaarschrift, het voornemen tot weigering, vermeld in artikel 23, § 4, en het verslag, vermeld in artikel 22, aan de onafhankelijke commissie voor advies. De onafhankelijke commissie behandelt het bezwaar conform de werkwijze, vermeld in het huishoudelijk reglement. Binnen twee maanden nadat de onafhankelijke commissie een bezwaarschrift heeft ontvangen, formuleert ze een advies aan de secretaris-generaal.
 
 ### ART 25.
 
-Binnen twee maanden nadat de administrateur-generaal het advies van de onafhankelijke commissie, vermeld in artikel 24, heeft ontvangen, of, als het advies hem niet bereikt binnen de termijn, vermeld in artikel 24, binnen een maand nadat die termijn verstreken is, wordt de vergunning, de voorlopige vergunning of de beslissing om de vergunning te weigeren, met een aangetekende zending aan de dienst betekend.<br>
+Binnen twee maanden nadat de secretaris-generaal het advies van de onafhankelijke commissie, vermeld in artikel 24, heeft ontvangen, of, als het advies hem niet bereikt binnen de termijn, vermeld in artikel 24, binnen een maand nadat die termijn verstreken is, wordt de vergunning, de voorlopige vergunning of de beslissing om de vergunning te weigeren, met een aangetekende zending aan de dienst betekend.<br>
 <br>
-Als het advies van de onafhankelijke commissie, vermeld in artikel 24, tweede lid, ontbreekt, kan de administrateur-generaal geen beslissing nemen zonder dat hij de dienst heeft gehoord, als die daarom heeft verzocht in zijn bezwaarschrift. De termijn, vermeld in het eerste lid, wordt in dat geval met een maand verlengd.<br>
+Als het advies van de onafhankelijke commissie, vermeld in artikel 24, tweede lid, ontbreekt, kan de secretaris-generaal geen beslissing nemen zonder dat hij de dienst heeft gehoord, als die daarom heeft verzocht in zijn bezwaarschrift. De termijn, vermeld in het eerste lid, wordt in dat geval met een maand verlengd.<br>
 <br>
-Als de administrateur-generaal van oordeel is dat het advies van de onafhankelijke commissie niet kan worden gevolgd, beslist de minister.
+Als de secretaris-generaal van oordeel is dat het advies van de onafhankelijke commissie niet kan worden gevolgd, beslist de minister.
 
 ### ART 26.
 
-Als de dienst geen bezwaarschrift als vermeld in artikel 24, heeft ingediend binnen dertig dagen nadat hij het voornemen tot weigering van vergunning heeft ontvangen, wordt, nadat die termijn verstreken is, het voornemen van de administrateur-generaal geacht van rechtswege een weigeringsbeslissing te zijn.<br>
+Als de dienst geen bezwaarschrift als vermeld in artikel 24, heeft ingediend binnen dertig dagen nadat hij het voornemen tot weigering van vergunning heeft ontvangen, wordt, nadat die termijn verstreken is, het voornemen van de secretaris-generaal geacht van rechtswege een weigeringsbeslissing te zijn.<br>
 <br>
-Het agentschap brengt de dienst binnen een maand nadat de termijn, vermeld in het eerste lid, verstreken is met een aangetekende zending op de hoogte. Het bezorgt een kopie van die brief aan de onafhankelijke commissie.
+de administratie brengt de dienst binnen een maand nadat de termijn, vermeld in het eerste lid, verstreken is met een aangetekende zending op de hoogte. Het bezorgt een kopie van die brief aan de onafhankelijke commissie.
 
 ### ART 27.
 
-Het agentschap publiceert op zijn website een lijst van voorlopig vergunde en vergunde diensten niet-dringend liggend ziekenvervoer, hun vergunde en voorlopig vergunde ziekenwagens met bijbehorende uniek identificatienummers, en de begin- en einddatum van de vergunningen.
+De administratie publiceert op zijn website een lijst van voorlopig vergunde en vergunde diensten niet-dringend liggend ziekenvervoer, hun vergunde en voorlopig vergunde ziekenwagens met bijbehorende uniek identificatienummers, en de begin- en einddatum van de vergunningen.
 
 ## Afdeling 2. Verlenging van vergunning
 
 ### ART 28.
 
-§ 1. Een dienst die een verlenging van een vergunning voor niet-dringend liggend ziekenvervoer wil verkrijgen, dient daarvoor uiterlijk zes maanden voor de lopende vergunning verstreken is, een verlengingsaanvraag in bij het agentschap en een aanvraag tot controle bij een gemachtigde controleorganisatie.<br>
+§ 1. Een dienst die een verlenging van een vergunning voor niet-dringend liggend ziekenvervoer wil verkrijgen, dient daarvoor uiterlijk zes maanden voor de lopende vergunning verstreken is, een verlengingsaanvraag in bij de administratie en een aanvraag tot controle bij een gemachtigde controleorganisatie.<br>
 <br>
 Bij een aanvraag tot controle zijn de documenten, vermeld in artikel 20, tweede lid, gevoegd als er veranderingen zijn doorgevoerd sinds de laatste controle.<br>
 <br>
@@ -397,9 +398,9 @@ Bij een aanvraag tot controle zijn de documenten, vermeld in artikel 20, tweede 
 <br>
 § 3. Als er een gunstige beoordeling is, wordt de vergunning met bijbehorende uniek identificatienummer van de ziekenwagens verlengd.<br>
 <br>
-Het agentschap past de einddatum aan van de vergunning van de dienst en de ziekenwagens die aan de dienst verbonden zijn, en neemt de dienst op in de lijst van vergunde diensten niet-dringend liggend ziekenvervoer op de website van het agentschap.<br>
+de administratie past de einddatum aan van de vergunning van de dienst en de ziekenwagens die aan de dienst verbonden zijn, en neemt de dienst op in de lijst van vergunde diensten niet-dringend liggend ziekenvervoer op de website van de administratie.<br>
 <br>
-§ 4. Als er geen gunstige beoordeling is, deelt het agentschap de dienst een voornemen tot weigering van verlenging van de vergunning mee, met vermelding van de mogelijkheid en de nadere regels om een bezwaarschrift in te dienen.<br>
+§ 4. Als er geen gunstige beoordeling is, deelt de administratie de dienst een voornemen tot weigering van verlenging van de vergunning mee, met vermelding van de mogelijkheid en de nadere regels om een bezwaarschrift in te dienen.<br>
 <br>
 Artikel 24, 25 en 26 zijn van overeenkomstige toepassing.
 
@@ -407,21 +408,21 @@ Artikel 24, 25 en 26 zijn van overeenkomstige toepassing.
 
 ### ART 29.
 
-§ 1. Als een ziekenwagen van een vergunde dienst definitief buiten dienst wordt gesteld, meldt de dienst dat binnen een maand aan het agentschap.<br>
+§ 1. Als een ziekenwagen van een vergunde dienst definitief buiten dienst wordt gesteld, meldt de dienst dat binnen een maand aan de administratie.<br>
 <br>
-Het agentschap zet de vergunning van het voertuig in kwestie stop. Het agentschap schrapt de ziekenwagen van de lijst van vergunde diensten niet-dringend liggend ziekenvervoer, zoals gepubliceerd op de website van het agentschap.<br>
+De administratie zet de vergunning van het voertuig in kwestie stop. de administratie schrapt de ziekenwagen van de lijst van vergunde diensten niet-dringend liggend ziekenvervoer, zoals gepubliceerd op de website van de administratie.<br>
 <br>
-§ 2. Een vergunde dienst die een bijkomende ziekenwagen in dienst wil stellen of een vergunde ziekenwagen wil vervangen, dient daarvoor een vergunningsaanvraag in bij het agentschap en vraagt een controle van die ziekenwagen aan bij een gemachtigde controleorganisatie.<br>
+§ 2. Een vergunde dienst die een bijkomende ziekenwagen in dienst wil stellen of een vergunde ziekenwagen wil vervangen, dient daarvoor een vergunningsaanvraag in bij de administratie en vraagt een controle van die ziekenwagen aan bij een gemachtigde controleorganisatie.<br>
 <br>
 Binnen vijftien dagen nadat de gemachtigde controleorganisatie de aanvraag ontvangen heeft, controleert ze het voertuig in kwestie.<br>
 <br>
-Binnen vijftien dagen na de controle maakt de gemachtigde controleorganisatie een verslag. In het verslag wordt een conclusie van de beoordeling vermeld. Die conclusie is gunstig, gunstig met voorbehoud of ongunstig. Dat verslag wordt naar de dienst en naar het agentschap gestuurd.<br>
+Binnen vijftien dagen na de controle maakt de gemachtigde controleorganisatie een verslag. In het verslag wordt een conclusie van de beoordeling vermeld. Die conclusie is gunstig, gunstig met voorbehoud of ongunstig. Dat verslag wordt naar de dienst en naar de administratie gestuurd.<br>
 <br>
-§ 3. Als er een gunstige beoordeling met voorbehoud is, bezorgt het agentschap een voorlopige vergunning voor het voertuig in kwestie. Artikel 23, is van overeenkomstige toepassing.<br>
+§ 3. Als er een gunstige beoordeling met voorbehoud is, bezorgt de administratie een voorlopige vergunning voor het voertuig in kwestie. Artikel 23, is van overeenkomstige toepassing.<br>
 <br>
-§ 4. Als er een ongunstige beoordeling is, bezorgt het agentschap een voornemen tot weigering van vergunning voor het desbetreffende voertuig. Artikel 23, 24, 34 en 35 zijn van overeenkomstige toepassing.<br>
+§ 4. Als er een ongunstige beoordeling is, bezorgt de administratie een voornemen tot weigering van vergunning voor het desbetreffende voertuig. Artikel 23, 24, 34 en 35 zijn van overeenkomstige toepassing.<br>
 <br>
-§ 5. Als er een gunstige beoordeling is, bezorgt het agentschap een vergunning van het voertuig in kwestie met bijbehorend uniek identificatienummer van de ziekenwagen aan de dienst. De vergunning voor het bijkomende voertuig vermeldt de begin- en einddatum. Het agentschap vermeldt de vergunning voor het bijkomende voertuig, met bijbehorend uniek identificatienummer, op de lijst van vergunde diensten niet-dringend liggend ziekenvervoer, zoals gepubliceerd op de website van het agentschap.<br>
+§ 5. Als er een gunstige beoordeling is, bezorgt de administratie een vergunning van het voertuig in kwestie met bijbehorend uniek identificatienummer van de ziekenwagen aan de dienst. De vergunning voor het bijkomende voertuig vermeldt de begin- en einddatum. de administratie vermeldt de vergunning voor het bijkomende voertuig, met bijbehorend uniek identificatienummer, op de lijst van vergunde diensten niet-dringend liggend ziekenvervoer, zoals gepubliceerd op de website van de administratie.<br>
 <br>
 De dienst mag in geen geval de bijkomende ziekenwagen in gebruik nemen vóór de begindatum van de vergunning voor het bijkomende voertuig. De vergunning voor het bijkomende voertuig is geldig tot de einddatum van de lopende vergunning van de dienst.
 
@@ -429,27 +430,27 @@ De dienst mag in geen geval de bijkomende ziekenwagen in gebruik nemen vóór de
 
 ### ART 30.
 
-Het agentschap kan op verzoek van de onafhankelijke commissie of op eigen initiatief altijd een controle op de naleving van de vergunningsvoorwaarden, vermeld in hoofdstuk 4, bevelen door een gemachtigde controleorganisatie. De controle kan aangekondigd of onaangekondigd uitgevoerd worden.<br>
+De administratie kan op verzoek van de onafhankelijke commissie of op eigen initiatief altijd een controle op de naleving van de vergunningsvoorwaarden, vermeld in hoofdstuk 4, bevelen door een gemachtigde controleorganisatie. De controle kan aangekondigd of onaangekondigd uitgevoerd worden.<br>
 <br>
 Zorginspectie kan controles uitvoeren overeenkomstig de bepalingen van het decreet van 19 januari 2018 houdende het overheidstoezicht in het kader van het gezondheids- en welzijnsbeleid.<br>
 <br>
-In het tweede lid wordt verstaan onder Zorginspectie: de Zorginspectie, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.
+In het tweede lid wordt verstaan onder Zorginspectie: Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.
 
 ## Afdeling 5. Intrekking van vergunning
 
 ### ART 31.
 
-§ 1. Als de dienst niet langer voldoet aan de vergunningsvoorwaarden, vermeld in hoofdstuk 4, afdeling 1, kan het agentschap de dienst met een aangetekende zending aanmanen om binnen de drie maanden al zijn verplichtingen na te komen. De aanmaning vermeldt de periode en de voorwaarden die vervuld moeten zijn om de intrekking van de vergunning te voorkomen.<br>
+§ 1. Als de dienst niet langer voldoet aan de vergunningsvoorwaarden, vermeld in hoofdstuk 4, afdeling 1, kan de administratie de dienst met een aangetekende zending aanmanen om binnen de drie maanden al zijn verplichtingen na te komen. De aanmaning vermeldt de periode en de voorwaarden die vervuld moeten zijn om de intrekking van de vergunning te voorkomen.<br>
 <br>
 Als, ondanks de aanmaning, de vergunningsvoorwaarden niet worden nageleefd, wordt de vergunning voor de dienst ingetrokken.<br>
 <br>
-§ 2. Als een ziekenwagen van een dienst niet langer voldoet aan de vergunningsvoorwaarden, vermeld in hoofdstuk 4, afdeling 2, kan het agentschap de dienst met een aangetekende zending aanmanen om binnen drie maanden al zijn verplichtingen na te komen. De aanmaning vermeldt de periode en de voorwaarden die vervuld moeten zijn om de intrekking van de vergunning te voorkomen.<br>
+§ 2. Als een ziekenwagen van een dienst niet langer voldoet aan de vergunningsvoorwaarden, vermeld in hoofdstuk 4, afdeling 2, kan de administratie de dienst met een aangetekende zending aanmanen om binnen drie maanden al zijn verplichtingen na te komen. De aanmaning vermeldt de periode en de voorwaarden die vervuld moeten zijn om de intrekking van de vergunning te voorkomen.<br>
 <br>
 Als, ondanks de aanmaning, de vergunningsvoorwaarden niet worden nageleefd, wordt de vergunning voor de ziekenwagen in kwestie ingetrokken.
 
 ### ART 32.
 
-Het voornemen om de vergunning in te trekken, wordt aan de dienst betekend met een aangetekende zending van het agentschap, waarin de mogelijkheden en de nadere regels vermeld zijn om een bezwaarschrift conform artikel 24 in te dienen.
+Het voornemen om de vergunning in te trekken, wordt aan de dienst betekend met een aangetekende zending van de administratie, waarin de mogelijkheden en de nadere regels vermeld zijn om een bezwaarschrift conform artikel 24 in te dienen.
 
 ### ART 33.
 
@@ -459,68 +460,68 @@ De beslissing tot intrekking van de vergunning wordt met een aangetekende zendin
 
 ### ART 34.
 
-Klachten over de dienstverlening binnen het niet-dringend liggend ziekenvervoer kunnen schriftelijk worden ingediend bij het agentschap. Het agentschap gaat na of het een klacht in tweede lijn als vermeld in artikel 5, § 1, van het decreet van 18 mei 2018, betreft. Als dat niet het geval is, wordt aan de persoon die de klacht heeft ingediend, gevraagd de klacht te richten aan de desbetreffende ziekenwagendienst, die de klacht behandelt conform de klachtenprocedure, vermeld in artikel 12 van dit besluit.<br>
+Klachten over de dienstverlening binnen het niet-dringend liggend ziekenvervoer kunnen schriftelijk worden ingediend bij de administratie. de administratie gaat na of het een klacht in tweede lijn als vermeld in artikel 5, § 1, van het decreet van 18 mei 2018, betreft. Als dat niet het geval is, wordt aan de persoon die de klacht heeft ingediend, gevraagd de klacht te richten aan de desbetreffende ziekenwagendienst, die de klacht behandelt conform de klachtenprocedure, vermeld in artikel 12 van dit besluit.<br>
 <br>
-Voor elke klacht in tweede lijn bezorgt het agentschap schriftelijk een ontvangstmelding, binnen tien dagen nadat het de klacht ontvangen heeft, aan de persoon die de klacht heeft ingediend. In de ontvangstmelding wordt meegedeeld dat de klacht voor advies aan de onafhankelijke commissie is bezorgd, met vermelding van de datum van de eerstvolgende bijeenkomst van de onafhankelijke commissie.<br>
+Voor elke klacht in tweede lijn bezorgt de administratie schriftelijk een ontvangstmelding, binnen tien dagen nadat het de klacht ontvangen heeft, aan de persoon die de klacht heeft ingediend. In de ontvangstmelding wordt meegedeeld dat de klacht voor advies aan de onafhankelijke commissie is bezorgd, met vermelding van de datum van de eerstvolgende bijeenkomst van de onafhankelijke commissie.<br>
 <br>
-Het agentschap agendeert de klacht in tweede lijn op de volgende bijeenkomst van de onafhankelijke commissie. De onafhankelijke commissie behandelt de klacht conform de werkwijze, vermeld in het huishoudelijk reglement. De onafhankelijke commissie formuleert binnen dertig dagen een schriftelijk advies aan het agentschap over de correcte behandeling van de klacht door de dienst conform artikel 12, de aard, de gegrondheid en eventuele correctieve maatregelen ingevolge de klacht. Die termijn kan, na motivatie, één keer met dertig dagen worden verlengd.<br>
+de administratie agendeert de klacht in tweede lijn op de volgende bijeenkomst van de onafhankelijke commissie. De onafhankelijke commissie behandelt de klacht conform de werkwijze, vermeld in het huishoudelijk reglement. De onafhankelijke commissie formuleert binnen dertig dagen een schriftelijk advies aan de administratie over de correcte behandeling van de klacht door de dienst conform artikel 12, de aard, de gegrondheid en eventuele correctieve maatregelen ingevolge de klacht. Die termijn kan, na motivatie, één keer met dertig dagen worden verlengd.<br>
 <br>
-Het agentschap bezorgt de persoon die de klacht heeft gemeld, uiterlijk binnen dertig dagen nadat het het advies, vermeld in derde lid, heeft ontvangen, schriftelijk een antwoord.
+de administratie bezorgt de persoon die de klacht heeft gemeld, uiterlijk binnen dertig dagen nadat het het advies, vermeld in derde lid, heeft ontvangen, schriftelijk een antwoord.
 
 ## HOOFDSTUK 5. De onafhankelijke controleorganisaties
 
 ### ART 35.
 
-§ 1. De administrateur-generaal kan organisaties machtigen om controles uit te voeren op de naleving van de vergunningsvoorwaarden, vermeld in hoofdstuk 2. Die organisaties stellen zich daarvoor kandidaat bij het agentschap.<br>
+§ 1. De secretaris-generaal kan organisaties machtigen om controles uit te voeren op de naleving van de vergunningsvoorwaarden, vermeld in hoofdstuk 2. Die organisaties stellen zich daarvoor kandidaat bij de administratie.<br>
 <br>
-§ 2. Om een machtiging van de administrateur-generaal als vermeld in paragraaf 1, te verkrijgen, voldoet een organisatie aan al de volgende criteria:<br>
+§ 2. Om een machtiging van de secretaris-generaal als vermeld in paragraaf 1, te verkrijgen, voldoet een organisatie aan al de volgende criteria:<br>
 1° ze is gecertificeerd om accreditatieactiviteiten uit te voeren;<br>
 2° ...;<br>
 3° ze kan Nederlandstalige audits uitvoeren;<br>
 4° ze beschikt over een schriftelijke procedure om certificatie-audits bij ziekenwagendiensten uit te voeren. Die procedure bevat het engagement dat controles worden uitgevoerd op basis van een eisenkader dat daarvoor ontworpen is, en dat de onafhankelijke commissie heeft opgesteld;<br>
 5° ze beschikt over voldoende middelen om de controles binnen de vastgelegde termijnen te kunnen uitvoeren.<br>
 <br>
-§ 3. Het agentschap bezorgt de kandidatuur voor advies aan de onafhankelijke commissie. De onafhankelijke commissie adviseert op basis van de criteria, vermeld in paragraaf 2, binnen twee maanden nadat ze de kandidatuur, vermeld in paragraaf 1, heeft ontvangen, of de kandidaat geschikt is om de controles, vermeld in artikel 21, 23, en artikel 29, § 2, op kwaliteitsvolle wijze uit te voeren. De onafhankelijke commissie bezorgt haar advies schriftelijk aan het agentschap en de aanvrager.
+§ 3. de administratie bezorgt de kandidatuur voor advies aan de onafhankelijke commissie. De onafhankelijke commissie adviseert op basis van de criteria, vermeld in paragraaf 2, binnen twee maanden nadat ze de kandidatuur, vermeld in paragraaf 1, heeft ontvangen, of de kandidaat geschikt is om de controles, vermeld in artikel 21, 23, en artikel 29, § 2, op kwaliteitsvolle wijze uit te voeren. De onafhankelijke commissie bezorgt haar advies schriftelijk aan de administratie en de aanvrager.
 
 ### ART 36.
 
-§ 1. Binnen twee maanden nadat hij het advies van de onafhankelijke commissie ontvangen heeft, bezorgt de administrateur-generaal een machtiging of een voornemen tot weigering van een machtiging aan de kandidaat met een aangetekende brief.<br>
+§ 1. Binnen twee maanden nadat hij het advies van de onafhankelijke commissie ontvangen heeft, bezorgt de secretaris-generaal een machtiging of een voornemen tot weigering van een machtiging aan de kandidaat met een aangetekende brief.<br>
 <br>
 De machtiging geldt voor een periode van tien jaar en is hernieuwbaar.<br>
 <br>
-Als het advies van de onafhankelijke commissie uitblijft binnen de termijn, vermeld in artikel 35, § 3, beslist de administrateur-generaal.<br>
+Als het advies van de onafhankelijke commissie uitblijft binnen de termijn, vermeld in artikel 35, § 3, beslist de secretaris-generaal.<br>
 <br>
-§ 2. Op straffe van onontvankelijkheid kan de kandidaat die een voornemen tot weigering van de gevraagde machtiging heeft ontvangen van het agentschap, tot uiterlijk dertig dagen nadat hij dit voornemen heeft ontvangen, bij het agentschap met een aangetekende brief of tegen ontvangstbewijs een bezwaarschrift tegen de weigering indienen met zijn opmerkingen en, als de kandidaat dat wil, met het uitdrukkelijke verzoek om gehoord te worden.<br>
+§ 2. Op straffe van onontvankelijkheid kan de kandidaat die een voornemen tot weigering van de gevraagde machtiging heeft ontvangen van de administratie, tot uiterlijk dertig dagen nadat hij dit voornemen heeft ontvangen, bij de administratie met een aangetekende brief of tegen ontvangstbewijs een bezwaarschrift tegen de weigering indienen met zijn opmerkingen en, als de kandidaat dat wil, met het uitdrukkelijke verzoek om gehoord te worden.<br>
 <br>
 Het bezwaarschrift van de aanvrager wordt, samen met het advies van de onafhankelijke commissie, het voornemen tot weigering van een machtiging en de kandidatuur, opnieuw voorgelegd aan de onafhankelijke commissie, die op basis van de stukken en binnen twee maanden nadat ze het bezwaarschrift heeft ontvangen, een nieuw advies uitbrengt en bezorgt aan de aanvrager en de minister.<br>
 <br>
-Binnen twee maanden nadat hij het tweede advies van de onafhankelijke commissie heeft ontvangen, of, als het advies hem niet bereikt binnen twee maanden nadat het bezwaarschrift, vermeld in het eerste lid, is ingediend bij het agentschap, een maand nadat die termijn verstreken is, bezorgt de minister zijn definitieve beslissing aan de kandidaat.<br>
+Binnen twee maanden nadat hij het tweede advies van de onafhankelijke commissie heeft ontvangen, of, als het advies hem niet bereikt binnen twee maanden nadat het bezwaarschrift, vermeld in het eerste lid, is ingediend bij de administratie, een maand nadat die termijn verstreken is, bezorgt de minister zijn definitieve beslissing aan de kandidaat.<br>
 <br>
 Als het advies van de onafhankelijke commissie, vermeld in het derde lid, ontbreekt, kan de minister geen beslissing nemen zonder dat hij de aanvrager heeft gehoord, als die daarom heeft verzocht in zijn bezwaarschrift. De termijn, vermeld in het derde lid, wordt in dat geval met een maand verlengd.<br>
 <br>
-§ 3. Als de dienst geen bezwaarschrift als vermeld in paragraaf 2, heeft ingediend binnen dertig dagen nadat hij het voornemen tot weigering van machtiging heeft ontvangen, wordt, nadat die termijn verstreken is, het voornemen van de administrateur-generaal geacht van rechtswege een weigeringsbeslissing te zijn.
+§ 3. Als de dienst geen bezwaarschrift als vermeld in paragraaf 2, heeft ingediend binnen dertig dagen nadat hij het voornemen tot weigering van machtiging heeft ontvangen, wordt, nadat die termijn verstreken is, het voornemen van de secretaris-generaal geacht van rechtswege een weigeringsbeslissing te zijn.
 
 ### ART 37.
 
-Een controle van een dienst niet-dringend liggend ziekenvervoer als vermeld in artikel 21 en 23, en een controle van een of meer ziekenwagens als vermeld in artikel 29, § 2, door een gemachtigde controleorganisatie resulteert altijd in een verslag, volgens een model dat het agentschap heeft bepaald, dat wordt bezorgd aan het agentschap.
+Een controle van een dienst niet-dringend liggend ziekenvervoer als vermeld in artikel 21 en 23, en een controle van een of meer ziekenwagens als vermeld in artikel 29, § 2, door een gemachtigde controleorganisatie resulteert altijd in een verslag, volgens een model dat de administratie heeft bepaald, dat wordt bezorgd aan de administratie.
 
 ### ART 38.
 
-§ 1. Als een gemachtigde controleorganisatie niet langer voldoet aan de criteria, vermeld in artikel 35, § 2, of als een gemachtigde controleorganisatie de termijnen, vermeld in artikel 21, 22, 23, artikel 28 en 29, § 2, niet respecteert, of in andere gevallen van disfunctioneren kan de administrateur-generaal, op eigen initiatief of op advies van de onafhankelijke commissie, de machtiging van een controleorganisatie, vermeld in artikel 35, intrekken. De administrateur-generaal deelt het voornemen om de machtiging in te trekken, schriftelijk mee aan de organisatie in kwestie. In die brief worden de voorgenomen datum en de reden van de intrekking vermeld.<br>
+§ 1. Als een gemachtigde controleorganisatie niet langer voldoet aan de criteria, vermeld in artikel 35, § 2, of als een gemachtigde controleorganisatie de termijnen, vermeld in artikel 21, 22, 23, artikel 28 en 29, § 2, niet respecteert, of in andere gevallen van disfunctioneren kan de secretaris-generaal, op eigen initiatief of op advies van de onafhankelijke commissie, de machtiging van een controleorganisatie, vermeld in artikel 35, intrekken. De secretaris-generaal deelt het voornemen om de machtiging in te trekken, schriftelijk mee aan de organisatie in kwestie. In die brief worden de voorgenomen datum en de reden van de intrekking vermeld.<br>
 <br>
 § 2. Op straffe van onontvankelijkheid kan de organisatie, vermeld in paragraaf 1, tot uiterlijk dertig dagen nadat ze het voornemen tot intrekking van de machtiging heeft ontvangen, met een aangetekende brief of tegen ontvangstbewijs een bezwaarschrift tegen het voornemen tot intrekking indienen met haar opmerkingen en, als die organisatie dat wil, met het uitdrukkelijke verzoek om gehoord te worden.<br>
 <br>
-Het bezwaarschrift van de aanvrager wordt, samen met het voornemen tot intrekking van de machtiging door het agentschap, aan de minister bezorgd en voorgelegd aan de onafhankelijke commissie, die op basis van de stukken en binnen twee maanden nadat ze het bezwaarschrift heeft ontvangen, een advies uitbrengt.<br>
+Het bezwaarschrift van de aanvrager wordt, samen met het voornemen tot intrekking van de machtiging door de administratie, aan de minister bezorgd en voorgelegd aan de onafhankelijke commissie, die op basis van de stukken en binnen twee maanden nadat ze het bezwaarschrift heeft ontvangen, een advies uitbrengt.<br>
 <br>
-Binnen twee maanden nadat hij het advies van de onafhankelijke commissie heeft ontvangen, of, als het advies hem niet bereikt binnen twee maanden nadat het bezwaarschrift, vermeld in het eerste lid, is ingediend bij het agentschap, een maand na het verstrijken van die termijn, bezorgt de minister zijn definitieve beslissing aan de kandidaat.<br>
+Binnen twee maanden nadat hij het advies van de onafhankelijke commissie heeft ontvangen, of, als het advies hem niet bereikt binnen twee maanden nadat het bezwaarschrift, vermeld in het eerste lid, is ingediend bij de administratie, een maand na het verstrijken van die termijn, bezorgt de minister zijn definitieve beslissing aan de kandidaat.<br>
 <br>
 Als het advies van de onafhankelijke commissie, vermeld in het derde lid, ontbreekt, kan de minister geen beslissing nemen zonder dat hij de aanvrager heeft gehoord, als die daarom heeft verzocht in zijn bezwaarschrift. De termijn, vermeld in het derde lid, wordt in dat geval met een maand verlengd.<br>
 <br>
-§ 3. Als de organisatie geen bezwaarschrift als vermeld in paragraaf 2, heeft ingediend binnen dertig dagen nadat hij het voornemen tot intrekking van de machtiging heeft ontvangen, wordt, nadat die termijn verstreken is, het voornemen van de administrateur-generaal geacht van rechtswege een intrekkingsbeslissing te zijn.
+§ 3. Als de organisatie geen bezwaarschrift als vermeld in paragraaf 2, heeft ingediend binnen dertig dagen nadat hij het voornemen tot intrekking van de machtiging heeft ontvangen, wordt, nadat die termijn verstreken is, het voornemen van de secretaris-generaal geacht van rechtswege een intrekkingsbeslissing te zijn.
 
 ### ART 39.
 
-Het agentschap publiceert de lijst van gemachtigde controleorganisaties op zijn website.
+De administratie publiceert de lijst van gemachtigde controleorganisaties op zijn website.
 
 ## HOOFDSTUK 6. Slotbepalingen
 
