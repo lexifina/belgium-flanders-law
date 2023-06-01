@@ -835,7 +835,7 @@ De gegevensuitwisseling, vermeld in het tweede lid, kan alleen plaatsvinden na e
 1° een extern toezicht, naast het toezicht als bedoeld in paragraaf 1;<br>
 2° de klachtenbehandeling voor kinderen en jongeren, ouders, opvoedingsverantwoordelijken en vertrouwenspersonen van kinderen en jongeren.<br>
 <br>
-§ 3. In afwijking van de paragrafen 1 en 2, werkt de zorginspectie voor het toezicht samen met de onderwijsinspectie, vermeld in artikel 38, § 1, tweede lid, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, voor zover het een centrum voor leerlingenbegeleiding of een organisatie voor naadloze flexibele trajecten&nbsp;betreft.</p>
+§ 3. In afwijking van de paragrafen 1 en 2, werkt de afdeling Zorginspectie van het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie voor het toezicht samen met de onderwijsinspectie, vermeld in artikel 38, § 1, tweede lid, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, voor zover het een centrum voor leerlingenbegeleiding of een organisatie voor naadloze flexibele trajecten&nbsp;betreft.</p>
 
 ## [HOOFDSTUK 14/1. Private voorzieningen (ing. decr. 15 maart 2019, art. 37, I: 14 april 2019)]
 
