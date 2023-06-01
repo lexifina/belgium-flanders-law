@@ -211,7 +211,7 @@ De secretaris-generaal en de administrateurs-generaal bepalen, elk wat hem of ha
 <br>
 In het eerste lid wordt verstaan onder:<br>
 1° administrateurs-generaal: de administrateurs-generaal van de intern verzelfstandigde agentschappen die conform het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie behoren tot het beleidsdomein Welzijn, Volksgezondheid en Gezin;<br>
-2° secretaris-generaal: de secretaris-generaal van het Departement Welzijn, Volksgezondheid en Gezin, opgericht bij het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.
+2° secretaris-generaal: het hoofd van het Departement Zorg, vermeld in artikel 2, eerste lid, van het &nbsp;besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.
 
 ## HOOFDSTUK 4. Secretariaat van de Vlaamse Raad WVG
 
