@@ -162,7 +162,7 @@ In het eerste lid wordt verstaan onder:<br>
 1° kwaliteitsvolle zorg: de verantwoorde zorg en ondersteuning die rekening houdt met doeltreffendheid, doelmatigheid, continuïteit, maatschappelijke aanvaardbaarheid en gebruikersgerichtheid;<br>
 2° multidisciplinaire samenwerking: de wijze van samenwerking van zorgaanbieders rond en met de persoon met een zorg- en ondersteuningsvraag, die betrekking heeft op verschillende disciplines en waarbij vanuit de eigen discipline gehandeld wordt zonder combinatie of uitwisseling van expertise, ervaring of kennis;<br>
 3° vrijwilliger: de natuurlijke persoon die zijn activiteiten uitvoert op vrijwillige basis, onbezoldigd en in een georganiseerd verband;<br>
-4° sociale kaart: de gegevensbank, beheerd door het Departement Welzijn, Volksgezondheid en Gezin, met identificatie-, contact- en werkingsgegevens van de zorgaanbieders in Vlaanderen en in Brussel.<br>
+4° sociale kaart: de gegevensbank, beheerd door het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, met identificatie-, contact- en werkingsgegevens van de zorgaanbieders in Vlaanderen en in Brussel.<br>
 <br>
 Voor de ondersteuning van deze opdrachten doet de zorgraad zo veel mogelijk een beroep op de deskundigheid van de organisaties met terreinwerking en de partnerorganisaties.<br>
 <br>
@@ -352,11 +352,11 @@ De erkenning van een zorgraad, regionaal zorgplatform, partnerorganisatie en org
 ### ART 27.
 
 Een administratieve sanctie als vermeld in artikel 26 kan alleen uitgevoerd worden als:<br>
-1° de betrokkene van het agentschap een schriftelijke aanmaning heeft ontvangen om de verplichtingen in kwestie na te komen;<br>
-2° de betrokkene de verplichtingen in kwestie niet is nagekomen binnen de termijn die het agentschap bepaalt;<br>
-3° de betrokkene is uitgenodigd om gehoord te worden door het agentschap.<br>
+1° de betrokkene van het departement een schriftelijke aanmaning heeft ontvangen om de verplichtingen in kwestie na te komen;<br>
+2° de betrokkene de verplichtingen in kwestie niet is nagekomen binnen de termijn die het departement bepaalt;<br>
+3° de betrokkene is uitgenodigd om gehoord te worden door het departement.<br>
 <br>
-In het eerste lid wordt verstaan onder agentschap: het agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid".
+In het eerste lid wordt verstaan onder Departement Zorg: het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.
 
 ## HOOFDSTUK 13. Procedures voor erkenning, schorsing en intrekking van de erkenning
 

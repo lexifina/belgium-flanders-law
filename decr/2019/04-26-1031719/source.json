@@ -2,16 +2,16 @@
   "codex_id": 1031719,
   "title": "Decreet van 2019-04-26 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031719/VolledigDocument?datum=2019-10-01",
-  "source_sha256": "89e2977319adf3cd49959807b610208db73fb5bfd8ab34397e47775d7cd6fd93",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031719/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "1ebff600bf5744e00d7d886369a0afa08fae9cee5a27807702b0ced05b3d8958",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031719&param=informatie",
-  "as_of": "2019-10-01",
+  "as_of": "2023-06-01",
   "made": "2019-04-26",
   "gazette": "2019-05-24",
   "numac": 2019030471,
   "document_start": "2019-10-01",
   "document_end": null,
-  "in_force": "2019-10-01",
+  "in_force": "2023-06-01",
   "article_versions": 34,
-  "record_form": "consolidated version as in force on 2019-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
