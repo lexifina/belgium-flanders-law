@@ -40,7 +40,7 @@ In dit besluit wordt verstaan onder :<br>
 2° centrum voor herstelverblijf : een thuiszorgvoorziening als vermeld in artikel 28 van het Woonzorgdecreet van 15 februari 2019;<br>
 3° voorziening: een lokaal dienstencentrum, een centrum voor dagverzorging, een centrum voor dagopvang, een centrum voor kortverblijf, een centrum voor herstelverblijf, een groep van assistentiewoningen, een woonzorgcentrum;<br>
 4° beheersinstantie : de persoon of de personen die een voorziening vertegenwoordigen en die de voorziening juridisch kunnen binden;<br>
-5° agentschap : het intern verzelfstandigd agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004;<br>
+5° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 6° lokaal dienstencentrum: een woonzorgvoorziening als vermeld in artikel 9 van het Woonzorgdecreet van 15 februari 2019;<br>
 7° hulpverleningszone : de bevoegde hulpverleningszone, vermeld in het koninklijk besluit van 2 februari 2009 tot vaststelling van de territoriale afbakening van de hulpverleningszones, of in voorkomend geval de Brusselse Hoofdstedelijke dienst voor brandweer en dringende medische hulp;<br>
 8° brandpreventieverslag: een brandpreventieverslag als vermeld in artikel 1, 4°, van het koninklijk besluit van 19 december 2014 tot vastlegging van de organisatie van de brandpreventie in de hulpverleningszones;<br>
@@ -108,7 +108,7 @@ Als uit het brandpreventieverslag blijkt dat de voorziening aan de brandveilighe
 <br>
 De burgemeester bezorgt het attest met het bijbehorende verslag aan de beheersinstantie binnen drie maanden na de ontvangst van de aanvraag.<br>
 <br>
-De beheersinstantie bezorgt binnen tien werkdagen na de ontvangst ervan het attest met het bijbehorende verslag aan het agentschap.<br>
+De beheersinstantie bezorgt binnen tien werkdagen na de ontvangst ervan het attest met het bijbehorende verslag aan de administratie.<br>
 &nbsp;
 
 ### ART. 8.
@@ -117,7 +117,7 @@ De beheersinstantie bezorgt binnen tien werkdagen na de ontvangst ervan het atte
 <br>
 De burgemeester bezorgt het attest met het bijbehorende brandpreventieverslag aan de beheersinstantie binnen drie maanden na de ontvangst van de aanvraag.<br>
 <br>
-De beheersinstantie bezorgt binnen tien werkdagen na de ontvangst ervan het attest met het bijbehorende brandpreventieverslag aan het agentschap.<br>
+De beheersinstantie bezorgt binnen tien werkdagen na de ontvangst ervan het attest met het bijbehorende brandpreventieverslag aan de administratie.<br>
 <br>
 § 2. De voorziening beschikt over een termijn van maximaal zeven maanden na ontvangst van het verslag om een uitgewerkt stappenplan tot remediëring van de vastgestelde tekorten aan de burgemeester te bezorgen.<br>
 <br>
@@ -131,15 +131,15 @@ De hulpverleningszone onderzoekt het ingediende stappenplan en spreekt zich uit 
 <br>
 De burgemeester bezorgt het attest met het bijbehorende advies van de hulpverleningszone aan de beheersinstantie binnen twee maanden na de ontvangst van het stappenplan.<br>
 <br>
-Binnen tien werkdagen na de ontvangst ervan bezorgt de beheersinstantie beide documenten aan het agentschap.<br>
+Binnen tien werkdagen na de ontvangst ervan bezorgt de beheersinstantie beide documenten aan de administratie.<br>
 <br>
 § 5. Als uit het advies blijkt dat het ingediende stappenplan voldoende garanties bevat om op termijn aan de brandveiligheidsnormen te voldoen, verlengt de burgemeester het bij aanvang uitgereikte attest B met minstens een jaar, voor zover de totale termijn van negen jaar, vermeld in artikel 4, niet overschreden wordt.<br>
 <br>
 De burgemeester bezorgt het verlengde attest B met het bijbehorende advies van de hulpverleningszone aan de beheersinstantie binnen twee maanden na de ontvangst van het stappenplan.<br>
 <br>
-Binnen tien werkdagen na de ontvangst ervan bezorgt de beheersinstantie beide documenten aan het agentschap.<br>
+Binnen tien werkdagen na de ontvangst ervan bezorgt de beheersinstantie beide documenten aan de administratie.<br>
 <br>
-§ 6. Als uit het advies van de hulpverleningszone blijkt dat het ingediende stappenplan onvoldoende garanties bevat om op termijn aan de brandveiligheidsnormen te voldoen, of als de voorziening binnen de termijn, vermeld in paragraaf 2, geen stappenplan aan de burgemeester heeft bezorgd, kan het bij aanvang uitgereikte attest B niet verlengd worden. De burgemeester deelt dit mee aan de beheersinstantie en aan het agentschap. In voorkomend geval wordt het advies van de hulpverleningszone bijgevoegd.<br>
+§ 6. Als uit het advies van de hulpverleningszone blijkt dat het ingediende stappenplan onvoldoende garanties bevat om op termijn aan de brandveiligheidsnormen te voldoen, of als de voorziening binnen de termijn, vermeld in paragraaf 2, geen stappenplan aan de burgemeester heeft bezorgd, kan het bij aanvang uitgereikte attest B niet verlengd worden. De burgemeester deelt dit mee aan de beheersinstantie en aan de administratie. In voorkomend geval wordt het advies van de hulpverleningszone bijgevoegd.<br>
 &nbsp;
 
 ### ART. 9.
@@ -148,7 +148,7 @@ Als uit het brandpreventieverslag blijkt dat de voorziening niet volledig aan de
 <br>
 De burgemeester bezorgt het attest met het bijbehorende brandpreventieverslag aan de beheersinstantie binnen drie maanden na de ontvangst van de aanvraag.<br>
 <br>
-Tegelijkertijd bezorgt de burgemeester het attest met het bijbehorende brandpreventieverslag aan het agentschap.<br>
+Tegelijkertijd bezorgt de burgemeester het attest met het bijbehorende brandpreventieverslag aan de administratie.<br>
 &nbsp;
 
 ### ART. 10.
@@ -159,13 +159,13 @@ Tegelijkertijd bezorgt de burgemeester het attest met het bijbehorende brandprev
 <br>
 De burgemeester bezorgt het attest met het bijbehorende brandpreventieverslag aan de beheersinstantie vóór het aflopen van de geldigheidsduur van attest B.<br>
 <br>
-De beheersinstantie bezorgt binnen tien werkdagen na de ontvangst ervan het attest met het bijbehorende brandpreventieverslag aan het agentschap.<br>
+De beheersinstantie bezorgt binnen tien werkdagen na de ontvangst ervan het attest met het bijbehorende brandpreventieverslag aan de administratie.<br>
 <br>
 § 3. Als uit het brandpreventieverslag&nbsp;blijkt dat de voorziening geheel of gedeeltelijk nog dezelfde tekorten op de brandveiligheidsnormen vertoont, kan de burgemeester het attest B nogmaals met minstens een jaar verlengen, voor zover de totale termijn van negen jaar, vermeld in artikel 4, niet overschreden wordt.<br>
 <br>
 De burgemeester bezorgt het attest met het bijbehorende brandpreventieverslag aan de beheersinstantie vóór het aflopen van de geldigheidsduur van attest B.<br>
 <br>
-De beheersinstantie bezorgt binnen tien werkdagen na de ontvangst ervan het attest met het bijbehorende brandpreventieverslag aan het agentschap.<br>
+De beheersinstantie bezorgt binnen tien werkdagen na de ontvangst ervan het attest met het bijbehorende brandpreventieverslag aan de administratie.<br>
 <br>
 § 4. Als uit het brandpreventieverslag&nbsp;blijkt dat de voorziening de vastgestelde tekorten verholpen heeft, maar intussen niet voldoet aan andere brandveiligheidsnormen, geldt de procedure, vermeld in artikel 8 of 9.<br>
 &nbsp;
@@ -190,7 +190,7 @@ De aanvraag wordt ingediend bij het secretariaat van de technische commissie voo
 <br>
 Binnen vijftien dagen na de ontvangst van de aanvraag van afwijking bezorgt het secretariaat van de technische commissie voor de brandveiligheid een bewijs van ontvangst aan de aanvrager, met de vermelding of de aanvraag al dan niet ontvankelijk is, en in voorkomend geval met de vermelding van de datum van ontvankelijkheid. De voorzitter van de technische commissie voor de brandveiligheid beslist over de ontvankelijkheid. De ontvankelijkheid houdt in dat de aanvraag voldoet aan de formele vereisten, vermeld in het derde lid. De datum van ontvankelijkheid is de datum van de ontvangst van de ontvankelijke aanvraag.<br>
 <br>
-Het secretariaat van de technische commissie voor de brandveiligheid bezorgt de beslissing van de leidend ambtenaar, samen met het advies van de technische commissie voor de brandveiligheid, aan de beheersinstantie van de voorziening en aan het agentschap, uiterlijk zes maanden na de datum van ontvankelijkheid van de aanvraag van afwijking.
+Het secretariaat van de technische commissie voor de brandveiligheid bezorgt de beslissing van de leidend ambtenaar, samen met het advies van de technische commissie voor de brandveiligheid, aan de beheersinstantie van de voorziening en aan de administratie, uiterlijk zes maanden na de datum van ontvankelijkheid van de aanvraag van afwijking.
 
 ## HOOFDSTUK 6 Wijzigingsbepalingen
 
@@ -218,7 +218,18 @@ Artikel 18 van de decreten inzake de voorzieningen voor ouderen, gecoördineerd 
 
 ### ART. 17.
 
-§ 1. Met behoud van de toepassing van artikel 88, § 1, § 2 en § 3, van het Woonzorgdecreet van 13 maart 2009 gelden, voor de ouderenvoorzieningen die vóór 1 juli 2012 erkend zijn, of waarvoor vóór 1 juli 2012 een erkenningsaanvraag werd ingediend, de overgangsbepalingen, vermeld in paragraaf 2 tot en met 6.<br /><br />§ 2. De erkenningsnormen met betrekking tot de brandveiligheid die vóór 1 juli 2012 van toepassing waren, blijven nog tot 30 juni 2013 gelden.<br /><br />§ 3. In afwijking van paragraaf 2 kunnen met ingang van 1 juli 2012 geen afwijkingen meer gevraagd worden van de vóór die datum geldende brandveiligheidsnormen, en moet voor die aanvragen de procedure van artikel 11 nageleefd worden.<br /><br />§ 4. De aanvragen tot afwijking van de brandveiligheidsnormen die vóór 1 juli 2012 ingediend zijn, worden afgehandeld volgens de regels die vóór die datum van toepassing waren.<br /><br />§ 5. In afwijking van artikel 4, § 1, 6°, van het besluit van de Vlaamse Regering van 5 juni 2009 betreffende de procedures voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers, is een aanvraag tot erkenning die ingediend wordt gedurende het overgangsjaar, vermeld in paragraaf 2, ontvankelijk zonder een nieuw bewijs dat de ouderenvoorziening aan de toepasselijke brandveiligheidreglementering voldoet.<br /><br />§ 6. Het bewijs dat de ouderenvoorziening voldoet aan de nieuwe brandveiligheidreglementering moet uiterlijk op 30 juni 2013 bij het agentschap aankomen.<br /><br />
+§ 1. Met behoud van de toepassing van artikel 88, § 1, § 2 en § 3, van het Woonzorgdecreet van 13 maart 2009 gelden, voor de ouderenvoorzieningen die vóór 1 juli 2012 erkend zijn, of waarvoor vóór 1 juli 2012 een erkenningsaanvraag werd ingediend, de overgangsbepalingen, vermeld in paragraaf 2 tot en met 6.<br>
+<br>
+§ 2. De erkenningsnormen met betrekking tot de brandveiligheid die vóór 1 juli 2012 van toepassing waren, blijven nog tot 30 juni 2013 gelden.<br>
+<br>
+§ 3. In afwijking van paragraaf 2 kunnen met ingang van 1 juli 2012 geen afwijkingen meer gevraagd worden van de vóór die datum geldende brandveiligheidsnormen, en moet voor die aanvragen de procedure van artikel 11 nageleefd worden.<br>
+<br>
+§ 4. De aanvragen tot afwijking van de brandveiligheidsnormen die vóór 1 juli 2012 ingediend zijn, worden afgehandeld volgens de regels die vóór die datum van toepassing waren.<br>
+<br>
+§ 5. In afwijking van artikel 4, § 1, 6°, van het besluit van de Vlaamse Regering van 5 juni 2009 betreffende de procedures voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers, is een aanvraag tot erkenning die ingediend wordt gedurende het overgangsjaar, vermeld in paragraaf 2, ontvankelijk zonder een nieuw bewijs dat de ouderenvoorziening aan de toepasselijke brandveiligheidreglementering voldoet.<br>
+<br>
+§ 6. Het bewijs dat de ouderenvoorziening voldoet aan de nieuwe brandveiligheidreglementering moet uiterlijk op 30 juni 2013 bij de administratie aankomen.<br>
+&nbsp;
 
 ### ART 17/1.
 
@@ -228,7 +239,7 @@ De erkenningsnormen voor de brandveiligheid die vóór 1 oktober 2018 van toepas
 <br>
 Met toepassing van artikel 4, § 1, eerste lid, 6°, van het besluit van de Vlaamse Regering van 5 juni 2009 betreffende de procedures voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers is een erkenningsaanvraag die ingediend wordt gedurende de overgangsperiode, vermeld in het tweede lid, ontvankelijk op voorwaarde dat een bewijs wordt voorgelegd dat de groep van assistentiewoningen voldoet aan de toepasselijke erkenningsnormen voor de brandveiligheid, vermeld in het tweede lid.<br>
 <br>
-Het bewijs dat de groep van assistentiewoningen voldoet aan de nieuwe brandveiligheidsreglementering moet uiterlijk op 1 oktober 2022 bij het agentschap aankomen.<br>
+Het bewijs dat de groep van assistentiewoningen voldoet aan de nieuwe brandveiligheidsreglementering moet uiterlijk op 1 oktober 2022 bij de administratie aankomen.<br>
 <br>
 Uiterlijk op 31 maart 2022 bezorgt de voorziening in kwestie een aanvraag aan de burgemeester om een onderzoek te laten uitvoeren door de hulpverleningszone, als dat voor die datum nog niet gebeurd is.<br>
 &nbsp;<br>
@@ -236,7 +247,7 @@ In afwijking van artikel 7, tweede lid, artikel 8, § 1, tweede lid, en § 4, tw
 
 ### ART 17/2.
 
-Voor de lokale dienstencentra die vóór 1 oktober 2018 erkend zijn, of waarvoor vóór 1 oktober 2018 een erkenningsaanvraag is ingediend, moet het bewijs dat het lokaal dienstencentrum voldoet aan de nieuwe brandveiligheidsreglementering uiterlijk op 1 oktober 2022 bij het agentschap aankomen.<br>
+Voor de lokale dienstencentra die vóór 1 oktober 2018 erkend zijn, of waarvoor vóór 1 oktober 2018 een erkenningsaanvraag is ingediend, moet het bewijs dat het lokaal dienstencentrum voldoet aan de nieuwe brandveiligheidsreglementering uiterlijk op 1 oktober 2022 bij de administratie aankomen.<br>
 <br>
 Uiterlijk op 31 maart 2022 bezorgt de voorziening in kwestie een aanvraag aan de burgemeester om een onderzoek te laten uitvoeren door de hulpverleningszone, als dat voor die datum nog niet gebeurd is.&nbsp;<br>
 <br>
