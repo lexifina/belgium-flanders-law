@@ -21,7 +21,7 @@ Om voor subsidiëring in aanmerking te komen moet een centrum voor kortverblijf 
 
 ### ART 2.
 
-Het centrum voor kortverblijf moet de bezettingsgegevens jaarlijks voor 1 april indienen bij het Agentschap Zorg en Gezondheid met het formulier dat op de website van het agentschap staat.
+Het centrum voor kortverblijf moet de bezettingsgegevens jaarlijks voor 1 april indienen bij het Departement Zorg met het formulier dat op de website van het departement staat.
 
 ### ART 3.
 
@@ -31,7 +31,7 @@ Om de continue werking van de centra te garanderen, wordt het toegekende subsidi
 <br>
 Behalve bij een uitbreiding van een al erkend centrum voor kortverblijf ontvangt het centrum de eerste drie volledige jaren van erkenning dat het voor subsidiëring in aanmerking komt, het maximale subsidiebedrag, ongeacht de gemiddelde bezetting die gerealiseerd wordt. In geval van uitbreiding van een al erkend centrum worden op de bijkomende woongelegenheden de bepalingen toegepast die al van toepassing waren voor de gesubsidieerde woongelegenheden.<br>
 <br>
-Als blijkt dat het centrum voor kortverblijf een groter voorschot heeft ontvangen dan het definitieve subsidiebedrag, vordert het Agentschap Zorg en Gezondheid het verschil terug.<br>
+Als blijkt dat het centrum voor kortverblijf een groter voorschot heeft ontvangen dan het definitieve subsidiebedrag, vordert het Departement Zorg het verschil terug.<br>
 <br>
 Als op het ogenblik van de uitkering van de voorschotten het teruggevorderde bedrag van het voorgaande jaar nog niet is betaald, wordt dat bedrag in mindering gebracht op de uit te betalen voorschotten.<br>
 <br>
@@ -40,7 +40,7 @@ Als gedurende drie opeenvolgende werkjaren de uitbetaalde voorschotten zijn teru
 
 ### ART 4.
 
-Het saldo wordt vereffend in de loop van het jaar dat volgt op het jaar van uitbetaling van het voorschot, na goedkeuring door het Agentschap Zorg en Gezondheid van de bewijsvoering, vermeld in artikel 2.
+Het saldo wordt vereffend in de loop van het jaar dat volgt op het jaar van uitbetaling van het voorschot, na goedkeuring door het Departement Zorg van de bewijsvoering, vermeld in artikel 2.
 
 ### ART 5.
 
