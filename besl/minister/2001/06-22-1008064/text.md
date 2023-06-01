@@ -2,7 +2,57 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° centrum: centrum voor leerlingenbegeleiding;<br /><br />2° administratie: de administratie Gezondheidszorg van het departement Welzijn, Volksgezondheid en Cultuur van het ministerie van de Vlaamse Gemeenschap;<br /><br />3° a) eerste jaar kleuteronderwijs: de kleuters in het eerste jaar kleuteronderwijs die vóór 1 januari van het schooljaar in kwestie, drie jaar geworden zijn; voor het buitengewoon onderwijs: de kleuters die vier jaar worden in het kalenderjaar dat begint in het schooljaar in kwestie;<br /><br />b) tweede jaar kleuteronderwijs: de kleuters in het tweede jaar kleuteronderwijs; voor het buitengewoon onderwijs: de kleuters die vijf jaar worden in het kalenderjaar dat begint in het schooljaar in kwestie;<br /><br />c) eerste jaar lager onderwijs: de leerlingen in het eerste jaar lager onderwijs; voor het buitengewoon onderwijs: de leerlingen die zeven jaar worden in het kalenderjaar dat begint in het schooljaar in kwestie;<br /><br />d) derde jaar lager onderwijs: de leerlingen in het derde jaar lager onderwijs; voor het buitengewoon onderwijs: de leerlingen die negen jaar worden in het kalenderjaar dat begint in het schooljaar in kwestie;<br /><br />e) vijfde jaar lager onderwijs: de leerlingen in het vijfde jaar lager onderwijs; voor het buitengewoon onderwijs: de leerlingen die elf jaar worden in het kalenderjaar dat begint in het schooljaar in kwestie;<br /><br />f) eerste jaar secundair onderwijs: de leerlingen in het eerste jaar secundair onderwijs; voor het buitengewoon onderwijs: de leerlingen die dertien jaar worden in het kalenderjaar dat begint in het schooljaar in kwestie;<br /><br />g) derde jaar secundair onderwijs: de leerlingen in het derde jaar secundair onderwijs; voor het buitengewoon onderwijs: de leerlingen die vijftien jaar worden in het kalenderjaar dat begint in het schooljaar in kwestie;<br /><br />4° basisset: de volgende gegevens per doelgroep, onderwijstype, school en geslacht:<br /><br />a) aantal kleuters of leerlingen dat tot de doelgroep behoort;<br /><br />b) aantal kleuters of leerlingen dat volgens het onderzoeksprotocol werd onderzocht;<br /><br />c) aantal kleuters of leerlingen dat volgens het onderzoeksprotocol intern moet worden opgevolgd;<br /><br />d) aantal kleuters of leerlingen met afwijkingen volgens de verwijscriteria van het onderzoeksprotocol;<br /><br />e) aantal kleuters of leerlingen van wie de afwijking bekend is en die onder externe professionele opvolging staan;<br /><br />f) aantal kleuters of leerlingen van wie de afwijking al of niet bekend is, maar die niet adequaat opgevolgd en verwezen worden;<br /><br />g) aantal verwezen kleuters of leerlingen over wie professionele informatie verkregen is;<br /><br />5° vaccinatieset: de volgende gegevens per doelgroep, onderwijstype, school en geslacht:<br /><br />a) aantal leerlingen dat tot de doelgroep behoort;<br /><br />b) aantal leerlingen dat al gevaccineerd was;<br /><br />c) aantal leerlingen dat gevaccineerd werd door het centrum;<br /><br />d) aantal leerlingen dat voor vaccinatie werd verwezen naar de curatieve sector of te kennen gaf zich daar te zullen laten vaccineren;<br /><br />e) aantal leerlingen dat gevaccineerd werd door de curatieve sector;<br /><br />f) aantal leerlingen waarvan de informatie is verkregen dat ze niet gevaccineerd werden;<br /><br />g) aantal leerlingen over wie geen informatie verkregen werd.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+<br>
+1° centrum: centrum voor leerlingenbegeleiding;<br>
+<br>
+2° administratie: het Departement Zorg;<br>
+<br>
+3° a) eerste jaar kleuteronderwijs: de kleuters in het eerste jaar kleuteronderwijs die vóór 1 januari van het schooljaar in kwestie, drie jaar geworden zijn; voor het buitengewoon onderwijs: de kleuters die vier jaar worden in het kalenderjaar dat begint in het schooljaar in kwestie;<br>
+<br>
+b) tweede jaar kleuteronderwijs: de kleuters in het tweede jaar kleuteronderwijs; voor het buitengewoon onderwijs: de kleuters die vijf jaar worden in het kalenderjaar dat begint in het schooljaar in kwestie;<br>
+<br>
+c) eerste jaar lager onderwijs: de leerlingen in het eerste jaar lager onderwijs; voor het buitengewoon onderwijs: de leerlingen die zeven jaar worden in het kalenderjaar dat begint in het schooljaar in kwestie;<br>
+<br>
+d) derde jaar lager onderwijs: de leerlingen in het derde jaar lager onderwijs; voor het buitengewoon onderwijs: de leerlingen die negen jaar worden in het kalenderjaar dat begint in het schooljaar in kwestie;<br>
+<br>
+e) vijfde jaar lager onderwijs: de leerlingen in het vijfde jaar lager onderwijs; voor het buitengewoon onderwijs: de leerlingen die elf jaar worden in het kalenderjaar dat begint in het schooljaar in kwestie;<br>
+<br>
+f) eerste jaar secundair onderwijs: de leerlingen in het eerste jaar secundair onderwijs; voor het buitengewoon onderwijs: de leerlingen die dertien jaar worden in het kalenderjaar dat begint in het schooljaar in kwestie;<br>
+<br>
+g) derde jaar secundair onderwijs: de leerlingen in het derde jaar secundair onderwijs; voor het buitengewoon onderwijs: de leerlingen die vijftien jaar worden in het kalenderjaar dat begint in het schooljaar in kwestie;<br>
+<br>
+4° basisset: de volgende gegevens per doelgroep, onderwijstype, school en geslacht:<br>
+<br>
+a) aantal kleuters of leerlingen dat tot de doelgroep behoort;<br>
+<br>
+b) aantal kleuters of leerlingen dat volgens het onderzoeksprotocol werd onderzocht;<br>
+<br>
+c) aantal kleuters of leerlingen dat volgens het onderzoeksprotocol intern moet worden opgevolgd;<br>
+<br>
+d) aantal kleuters of leerlingen met afwijkingen volgens de verwijscriteria van het onderzoeksprotocol;<br>
+<br>
+e) aantal kleuters of leerlingen van wie de afwijking bekend is en die onder externe professionele opvolging staan;<br>
+<br>
+f) aantal kleuters of leerlingen van wie de afwijking al of niet bekend is, maar die niet adequaat opgevolgd en verwezen worden;<br>
+<br>
+g) aantal verwezen kleuters of leerlingen over wie professionele informatie verkregen is;<br>
+<br>
+5° vaccinatieset: de volgende gegevens per doelgroep, onderwijstype, school en geslacht:<br>
+<br>
+a) aantal leerlingen dat tot de doelgroep behoort;<br>
+<br>
+b) aantal leerlingen dat al gevaccineerd was;<br>
+<br>
+c) aantal leerlingen dat gevaccineerd werd door het centrum;<br>
+<br>
+d) aantal leerlingen dat voor vaccinatie werd verwezen naar de curatieve sector of te kennen gaf zich daar te zullen laten vaccineren;<br>
+<br>
+e) aantal leerlingen dat gevaccineerd werd door de curatieve sector;<br>
+<br>
+f) aantal leerlingen waarvan de informatie is verkregen dat ze niet gevaccineerd werden;<br>
+<br>
+g) aantal leerlingen over wie geen informatie verkregen werd.
 
 ### ART. 2.
 
