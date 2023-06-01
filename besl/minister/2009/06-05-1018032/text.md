@@ -54,7 +54,8 @@ Voor zover de belangen van haar leden niet worden geschaad kan een budgethouders
 
 ### ART. 13.
 
-Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin,   vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering   van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin,   betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen   in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de   wijziging van regelgeving met betrekking tot dat beleidsdomein, controleert   vanaf 1 juni 2010 of de bepalingen van dit besluit worden   nageleefd.<BR><BR>
+Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg, controleert vanaf 1 juni 2010 of de bepalingen van dit besluit worden nageleefd.<br>
+&nbsp;
 
 ### ART. 14.
 
