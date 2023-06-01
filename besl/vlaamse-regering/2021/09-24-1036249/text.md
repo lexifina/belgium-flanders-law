@@ -47,7 +47,7 @@ a) een volledige opvangprestatie: een opvangprestatie van zes uur of meer;<br>
 b) een halve opvangprestatie: een opvangprestatie tussen drie uur en zes uur;<br>
 c) een 1/3 opvangprestatie: een opvangprestatie van minder dan 3 uur;<br>
 10° overgangstermijn: de overgangstermijn vermeld in artikel 17, eerste lid, van het decreet van 3 mei 2019;<br>
-11° Zorginspectie: Zorginspectie als vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.
+11° Zorginspectie: Zorginspectie als vermeld in artikel 4, § 2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.
 
 ### ART 2.
 

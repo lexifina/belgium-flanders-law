@@ -2,16 +2,16 @@
   "codex_id": 1036249,
   "title": "Besluit van de Vlaamse Regering van 2021-09-24 tot regeling van de bestaande subsidies buitenschoolse opvang en de bijbehorende voorwaarden gedurende een overgangsperiode en tot wijziging van artikel 1, 2 en 3 van het besluit van de Vlaamse Regering van 15 juli 2016 betreffende subsidiëring van projecten vanuit het vroegere Fonds voor Collectieve Uitrustingen en Diensten en voor personeelsleden met een gewezen gescostatuut (citeeropschrift: \"Overgangsbesluit subsidies buitenschoolse opvang van 24 september 2021\")",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036249/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "f41ca090bebbecc7b22f3f7a1cd49565cd76c71ed8ca888277ec986699ad4ab8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036249/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "5908e26ba894429c965d960ea82ad24121aa19f1006e7c3a4d852e7ff25faff4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036249&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2023-06-01",
   "made": "2021-09-24",
   "gazette": "2021-11-26",
   "numac": 2021043003,
   "document_start": "2022-01-01",
   "document_end": null,
-  "in_force": "2023-01-01",
+  "in_force": "2023-06-01",
   "article_versions": 65,
-  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
