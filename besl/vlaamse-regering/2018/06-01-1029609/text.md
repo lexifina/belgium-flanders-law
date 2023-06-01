@@ -135,7 +135,7 @@ De standaard vaccinaties vormt daarbij de leidraad voor elk centrum. De bevoegde
 <br>
 De beroepsbeoefenaar in de gezondheidszorg van het centrum brengt de preventieadviseur-arbeidsgeneesheer op de hoogte van het vermoeden of het voorkomen van een infectieziekte op school bij een leerling of een personeelslid uit de lijst, vermeld in het Draaiboek Infectieziekten CLB.<br>
 <br>
-De beroepsbeoefenaar in de gezondheidszorg van het centrum bepaalt, zo nodig in overleg met de dienst Infectieziektebestrijding van de afdeling Preventie, welke maatregelen genomen moeten worden in geval van een infectieziekte.<br>
+De beroepsbeoefenaar in de gezondheidszorg van het centrum bepaalt, zo nodig in overleg met de afdeling bevoegd voor de bestrijding van infectieziekten van het Departement Zorg, welke maatregelen genomen moeten worden in geval van een infectieziekte.<br>
 <br>
 De beroepsbeoefenaar in de gezondheidszorg van het centrum informeert de directies van de scholen over die maatregelen.<br>
 <br>
@@ -143,7 +143,7 @@ Het Draaiboek Infectieziekten CLB vormt daarbij de leidraad voor elk centrum. De
 <br>
 § 2. De bevoegde diensten van de Vlaamse Regering informeren de organisator van huisonderwijs voor leerplichtigen welk vermoeden of voorkomen van welke infectieziekte gemeld moet worden aan een beroepsbeoefenaar in de gezondheidszorg van een centrum als vermeld in het Draaiboek Infectieziekten CLB. Het gaat alleen over de leerlingen in huisonderwijs voor wie een verklaring over huisonderwijs is ingediend en bij wie de plaats van het huisonderwijs verschilt van hun domicilie.<br>
 <br>
-De beroepsbeoefenaar in de gezondheidszorg van het centrum die de melding ontvangt, bepaalt, zo nodig in overleg met de dienst Infectieziektebestrijding van de afdeling Preventie, welke maatregelen genomen moeten worden in geval van een infectieziekte.<br>
+De beroepsbeoefenaar in de gezondheidszorg van het centrum die de melding ontvangt, bepaalt, zo nodig in overleg met de afdeling bevoegd voor de bestrijding van infectieziekten van het Departement Zorg, welke maatregelen genomen moeten worden in geval van een infectieziekte.<br>
 <br>
 De beroepsbeoefenaar in de gezondheidszorg van het centrum informeert de organisator van huisonderwijs over welke maatregelen genomen moeten worden.<br>
 <br>
@@ -276,13 +276,13 @@ De bevoegde diensten van de Vlaamse minister, bevoegd voor het gezondheidsbeleid
 <br>
 De centra bezorgen de gegevens voor de thema's vermeld in paragraaf 1, 3° en 7° aan het Departement Onderwijs en Vorming op een dergelijke wijze dat ze uniek zijn, maar niet langer met een geïdentificeerd of identificeerbaar persoon in verband gebracht kunnen worden. Het Departement Onderwijs en Vorming is de verwerkingsverantwoordelijke voor deze gegevens. De gegevensoverdracht heeft tot doel beleidsondersteunende statistische analyses te kunnen formuleren. De bewaartermijn van de gegevens is onbeperkt.<br>
 <br>
-De centra bezorgen de gepseudonimiseerde gegevens voor de thema's, vermeld in paragraaf 1, 9° tot en met 15°,&nbsp;aan het Vlaams Agentschap Zorg en Gezondheid. Het Agentschap Zorg en Gezondheid is de verwerkingsverantwoordelijke voor deze gegevens. De gegevensoverdracht heeft tot doel:<br>
+De centra bezorgen de gepseudonimiseerde gegevens voor de thema's, vermeld in paragraaf 1, 9° tot en met 15°,&nbsp;aan het Departement Zorg. Het Departement Zorg is de verwerkingsverantwoordelijke voor deze gegevens. De gegevensoverdracht heeft tot doel:<br>
 1° beleidsinformatie te ontwikkelen waarmee gezondheidsdoelstellingen en -indicatoren kunnen worden opgevolgd;<br>
 2° inzicht te krijgen in de rol van centra binnen preventieve gezondheidszorg;<br>
 3° de kwaliteit en de bruikbaarheid van de standaarden gebruikt binnen centra te evalueren en zo nodig aan te passen;<br>
 4° epidemiologische gegevens te verkrijgen die inzicht geven over gezondheidsstatus van de Vlaamse leerlingenpopulatie.<br>
 <br>
-De gegevens worden door het Agentschap Zorg en Gezondheid bewaard tot maximaal 30 jaar na ontvangst van deze gegevens.
+De gegevens worden door het Departement Zorg bewaard tot maximaal 30 jaar na ontvangst van deze gegevens.
 
 ### ART 25.
 

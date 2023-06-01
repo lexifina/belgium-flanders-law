@@ -2,16 +2,16 @@
   "codex_id": 1029609,
   "title": "Besluit van de Vlaamse Regering van 2018-06-01 tot operationalisering van de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029609/VolledigDocument?datum=2022-09-01",
-  "source_sha256": "422ef9f7c7975154f47fe73ba3623daa47f97675e5a53de2afbe552ab5672a99",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029609/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "824b3f1693280ca4aaced6ded55c4783384365df0b4c304724d0dac70bf79227",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029609&param=informatie",
-  "as_of": "2022-09-01",
+  "as_of": "2023-06-01",
   "made": "2018-06-01",
   "gazette": "2018-08-06",
   "numac": 2018013016,
   "document_start": "2018-09-01",
   "document_end": null,
-  "in_force": "2022-09-01",
+  "in_force": "2023-06-01",
   "article_versions": 35,
-  "record_form": "consolidated version as in force on 2022-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
