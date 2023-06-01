@@ -62,7 +62,7 @@ Zij draagt de titel "Vlaams minister van Welzijn, Volksgezondheid en Gezin".<br>
 <br>
 § 2. Mevrouw Hilde Crevits is bevoegd voor het bestuur van of het toezicht op de volgende instanties:<br>
 1° het Vlaams Agentschap voor Samenwerking rond Gegevensdeling tussen de Actoren in de Zorg;<br>
-2° Zorg en gezondheid;<br>
+2° ...;<br>
 3° OPZ Geel en Rekem;<br>
 4° het agentschap Opgroeien;<br>
 5° het Fonds Jongerenwelzijn;<br>
