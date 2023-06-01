@@ -589,21 +589,36 @@ De eerste voorzitter bezorgt het jaarverslag aan de voorzitter van het   Vlaams 
 
 ### ART. 49.
 
-<p>§ 1. De Vlaamse Regering benoemt de effectieve bestuursrechters voor het leven bij een Vlaams bestuursrechtscollege op voordracht van de algemene vergadering.</p>
-
-<p>De effectieve bestuursrechters voldoen minstens aan de volgende benoemingsvoorwaarden:<br>
+<p>§ 1. De Vlaamse Regering benoemt de effectieve bestuursrechters voor het leven bij een Vlaams bestuursrechtscollege op voordracht van de algemene vergadering.<br>
+<br>
+De effectieve bestuursrechters voldoen minstens aan de volgende benoemingsvoorwaarden:<br>
 1° houder zijn van het diploma van licentiaat of master in de rechten;<br>
 2° een grondige kennis hebben van en minstens tien jaar nuttige ervaring hebben in de domeinen van het Vlaamse recht inzake ruimtelijke ordening en van het Vlaamse milieurecht;<br>
 3° een grondige kennis hebben van procesvoering en rechtsbescherming in bestuurlijke of rechterlijke aangelegenheden;<br>
-4° een grondige kennis hebben van het Vlaams onteigeningsrecht.</p>
-
-<p>§ 2. In afwijking van paragraaf 1, eerste lid, kan de Vlaamse Regering bij het Vlaams bestuursrechtscollege, vermeld in artikel 2, 1°, c), aanvullende bestuursrechters benoemen op voordracht van de algemene vergadering voor een periode van zes jaar, die hernieuwbaar is.</p>
-
-<p>In afwijking van paragraaf 1, tweede lid, kan niemand als aanvullende bestuursrechter worden benoemd tenzij hij zijn deskundigheid kan aantonen op het vlak van publiek recht, politieke wetenschappen of bestuurswetenschappen.</p>
-
-<p>§ 3. De Vlaamse Regering verklaart de functie van bestuursrechter vacant.</p>
-
-<p>§ 4. De kandidaten worden geselecteerd door een selectiecommissie. De selectie beoogt de bekwaamheid die vereist is voor de uitoefening van het ambt van bestuursrechter te beoordelen. De algemene vergadering bepaalt de samenstelling van de selectiecommissie. De selectiecommissie stelt het programma van de selectieproef vast en legt dat ter bekrachtiging voor aan de algemene vergadering.</p>
+4° een grondige kennis hebben van het Vlaams onteigeningsrecht.<br>
+<br>
+In afwijking van het tweede lid voldoen de effectieve bestuursrechters die benoemd worden bij het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), minstens aan al de volgende benoemingsvoorwaarden:<br>
+1° houder zijn van het diploma van licentiaat of master in de rechten; 2° een grondige kennis hebben van het Vlaamse onderwijsrecht;<br>
+3° een grondige kennis hebben van procesvoering en rechtsbescherming in bestuurlijke of rechterlijke aangelegenheden.<br>
+<br>
+§ 2. In afwijking van paragraaf 1, eerste lid, kan de Vlaamse Regering bij het Vlaams bestuursrechtscollege, vermeld in artikel 2, 1°, c), aanvullende bestuursrechters benoemen op voordracht van de algemene vergadering voor een periode van zes jaar, die hernieuwbaar is.<br>
+<br>
+In afwijking van paragraaf 1, tweede lid, kan niemand als aanvullende bestuursrechter worden benoemd&nbsp;bij het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, c), tenzij hij zijn deskundigheid kan aantonen op het vlak van publiek recht, politieke wetenschappen of bestuurswetenschappen.<br>
+<br>
+Naast de effectieve bestuursrechters kan de Vlaamse Regering bij het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), aanvullende bestuursrechters benoemen op voordracht van de algemene vergadering voor een periode van zes jaar, die hernieuwbaar is.<br>
+<br>
+Niemand kan als aanvullende bestuursrechter worden benoemd bij het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), tenzij hij minstens voldoet aan de benoemingsvoorwaarden, bepaald in paragraaf 1, derde lid.<br>
+<br>
+De Vlaamse Regering benoemt de bijzitters bij het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), op voordracht van de algemene vergadering voor een periode van zes jaar, die hernieuwbaar is.<br>
+<br>
+De bijzitters die benoemd worden bij het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), voldoen minstens aan al de volgende benoemingsvoorwaarden:<br>
+1° &nbsp;&nbsp; &nbsp;op het ogenblik van de benoeming minstens vijf jaar belast zijn met een onderwijsopdracht als lid van het academisch of onderwijzend personeel van een instelling die binnen het toepassingsgebied valt van de Codex Hoger Onderwijs van 11 oktober 2013, en die ten hoogste drie jaar voor de benoeming is beëindigd;<br>
+2° &nbsp;een grondige kennis hebben van het hoger onderwijs;<br>
+3° een grondige kennis hebben van de beroepsprocedures in het hoger onderwijs.<br>
+<br>
+§ 3. De Vlaamse Regering verklaart de functie van bestuursrechter vacant.<br>
+<br>
+§ 4. De kandidaten worden geselecteerd door een selectiecommissie. De selectie beoogt de bekwaamheid die vereist is voor de uitoefening van het ambt van bestuursrechter te beoordelen. De algemene vergadering bepaalt de samenstelling van de selectiecommissie. De selectiecommissie stelt het programma van de selectieproef vast en legt dat ter bekrachtiging voor aan de algemene vergadering.</p>
 
 <p>De algemene vergadering brengt op grond van de beoordeling van de kandidaten een gemotiveerde voordracht uit aan de Vlaamse Regering, nadat ze de respectieve aanspraken en verdiensten van de kandidaten, die geslaagd zijn voor de selectieproef, vermeld in het eerste lid, heeft vergeleken, aangevuld met een interview met de batig gerangschikte kandidaten.<br>
 <br>
@@ -611,13 +626,31 @@ De eerste voorzitter bezorgt het jaarverslag aan de voorzitter van het   Vlaams 
 
 <p>§ 5. De Vlaamse Regering bepaalt de nadere regels voor de toepassing van deze bepalingen, waaronder de nadere regels voor de oproep tot de kandidaat-bestuursrechters.</p>
 
+### ART 49/1.
+
+Ten hoogste twee derde van de door de Vlaamse Regering benoemde leden van het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), mag van hetzelfde geslacht zijn.<br>
+<br>
+Als geen enkele kandidaat van het ondervertegenwoordigde geslacht batig gerangschikt is na de selectieprocedure, vermeld in artikel 49, kan bij de voordracht gemotiveerd worden afgeweken van de verplichting, vermeld in het eerste lid, op grond van de aanspraken en verdiensten van de voorgedragen kandidaat van het andere geslacht.
+
 ### ART. 50.
 
 De bestuursrechters nemen hun ambt op nadat ze in handen van de   functioneel bevoegde Vlaamse minister de volgende eed hebben afgelegd: "Ik zweer   de verplichtingen van mijn ambt na te komen".<BR>
 
 ### ART. 51.
 
-<P>Het ambt van effectief bestuursrechter wordt voltijds uitgeoefend.<BR></P>  <P>Het ambt van effectief bestuursrechter is onverenigbaar met de uitoefening   van om het even welke andere bezoldigde activiteit of functie of mandaat. De   algemene vergadering kan de uitoefening van bepaalde activiteiten, functies of   mandaten toestaan of de toestemming opheffen.<BR></P>  <P>Het ambt van effectief bestuursrechter is onverenigbaar met elke activiteit   die hij zelf of via een tussenpersoon verricht en waardoor ofwel:<BR>1° de   functieplichten niet kunnen worden vervuld;<BR>2° de waardigheid van de functie   in het gedrang komt en/of het vertrouwen van het publiek in de dienst wordt   aangetast;<BR>3° de eigen onafhankelijkheid wordt aangetast;<BR>4° een conflict   tussen tegenstrijdige belangen ontstaat.<BR></P>  <P>Het ambt van aanvullend bestuursrechter is onverenigbaar met een politiek   mandaat, met een beroepsactiviteit die de onpartijdigheid en onafhankelijkheid   van de aanvullende bestuursrechter in het gedrang brengt en met elke activiteit   die leidt tot tegenstrijdige belangen.<BR></P>
+<p>De effectieve bestuursrechter wordt voltijds benoemd.</p>
+
+<p>Het ambt van effectief bestuursrechter is onverenigbaar met de uitoefening van om het even welke andere bezoldigde activiteit of functie of mandaat. De algemene vergadering kan de uitoefening van bepaalde activiteiten, functies of mandaten toestaan of de toestemming opheffen.</p>
+
+<p>Het ambt van effectief bestuursrechter is onverenigbaar met elke activiteit die hij zelf of via een tussenpersoon verricht en waardoor ofwel:<br>
+1° de functieplichten niet kunnen worden vervuld;<br>
+2° de waardigheid van de functie in het gedrang komt en/of het vertrouwen van het publiek in de dienst wordt aangetast;<br>
+3° de eigen onafhankelijkheid wordt aangetast;<br>
+4° een conflict tussen tegenstrijdige belangen ontstaat.</p>
+
+<p>Het ambt van aanvullend bestuursrechter&nbsp;bij het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, c), is onverenigbaar met een politiek mandaat, met een beroepsactiviteit die de onpartijdigheid en onafhankelijkheid van de aanvullende bestuursrechter in het gedrang brengt en met elke activiteit die leidt tot tegenstrijdige belangen.<br>
+<br>
+Het ambt van aanvullende bestuursrechter of bijzitter bij het Vlaamse bestuursrechtscollege, vermeld in artikel 2, 1°, d), is onverenigbaar met een beroepsactiviteit die de onpartijdigheid en onafhankelijkheid van de bestuursrechter in het gedrang brengt en met elke activiteit die leidt tot tegenstrijdige belangen.</p>
 
 ## Afdeling 2 Bezoldiging
 
