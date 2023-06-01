@@ -393,7 +393,7 @@ Het agentschap bespreekt het resultaat van de evaluatie, vermeld in het tweede l
 
 Het agentschap geeft Zorginspectie de opdracht om binnen het jaar na de start of na een wijziging van de locatie van het consultatiebureau, het consultatiebureau te bezoeken en ter plaatse na te gaan of er voldaan is aan de erkenningsvoorwaarden en -voorschriften, vermeld in artikel 5 tot en met 36.<br>
 <br>
-In het eerste lid wordt verstaan onder Zorginspectie: Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.
+In het eerste lid wordt verstaan onder Zorginspectie: Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.
 
 ## Afdeling 2. Aanmaning, opheffing of onmiddellijke schorsing van de erkenning en subsidiëring
 
