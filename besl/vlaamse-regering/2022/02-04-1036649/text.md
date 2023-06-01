@@ -27,7 +27,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 In dit besluit wordt verstaan onder:<br>
 1° adviescommissie: de adviescommissie, vermeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-) pleegzorgers;<br>
-2° agentschap: het agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+2° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 3° beheersinstantie: een of meer personen die een ziekenhuis, een locoregionaal klinisch ziekenhuisnetwerk of een samenwerkingsverband rond een supraregionale zorgopdracht kunnen binden;<br>
 4° besluit van 26 april 2019: het besluit van de Vlaamse Regering van 26 april 2019 betreffende zorgstrategische planning;<br>
 5° locoregionaal klinisch ziekenhuisnetwerk: een door de Vlaamse gemeenschap erkende duurzame en juridisch geformaliseerde samenwerking met rechtspersoonlijkheid tussen minstens twee op het ogenblik van de oprichting van het locoregionale klinische ziekenhuisnetwerk afzonderlijk erkende niet-psychiatrische ziekenhuizen, uitgezonderd ziekenhuizen die enkel beschikken over psychiatrische ziekenhuisdiensten (kenletter A, T of K) samen met gespecialiseerde diensten voor behandeling en revalidatie (kenletter Sp) of een dienst voor geriatrie (kenletter G), die zich binnen een geografisch aansluitend gebied bevinden en die complementair en rationeel locoregionale zorgopdrachten aanbieden. De locoregionale klinische ziekenhuisnetwerken met ziekenhuizen binnen de grootstedelijke gebieden, zoals afgebakend in een gewestelijk ruimtelijk uitvoeringsplan, hoeven niet geografisch aaneensluitend zijn, wat betreft het deel van het netwerk dat binnen dezelfde grootstedelijke gebieden ligt;<br>
@@ -40,15 +40,15 @@ In dit besluit wordt verstaan onder:<br>
 
 Voor de toepassing van dit besluit wordt een aangetekende brief geacht ontvangen te zijn op de derde werkdag die volgt op de werkdag waarop de brief is overhandigd aan de postdiensten.<br>
 <br>
-Voor de toepassing van dit besluit geldt als tijdstip waarop het agentschap een bericht via e-mail heeft verzonden aan de geadresseerde, het tijdstip waarop de e-mail het informatiesysteem van het agentschap verlaat.<br>
+Voor de toepassing van dit besluit geldt als tijdstip waarop de administratie een bericht via e-mail heeft verzonden aan de geadresseerde, het tijdstip waarop de e-mail het informatiesysteem van de administratie verlaat.<br>
 <br>
-Voor de toepassing van dit besluit geldt als tijdstip waarop het agentschap een e-mail heeft ontvangen, het tijdstip waarop de e-mail het informatiesysteem dat het agentschap gebruikt, bereikt.
+Voor de toepassing van dit besluit geldt als tijdstip waarop de administratie een e-mail heeft ontvangen, het tijdstip waarop de e-mail het informatiesysteem dat de administratie gebruikt, bereikt.
 
 ## Hoofdstuk 2. Procedure regionaal of thematisch zorgstrategisch plan
 
 ### ART 3.
 
-§ 1. De aanvraag tot goedkeuring van een regionaal zorgstrategisch plan of een thematisch zorgstrategisch plan wordt met een aangetekende brief en via e-mail ingediend bij het agentschap.<br>
+§ 1. De aanvraag tot goedkeuring van een regionaal zorgstrategisch plan of een thematisch zorgstrategisch plan wordt met een aangetekende brief en via e-mail ingediend bij de administratie.<br>
 <br>
 De beheersinstantie van het locoregionale klinische ziekenhuisnetwerk dient de aanvraag tot goedkeuring van een regionaal zorgstrategisch plan in conform artikel 8, 1°, van het besluit van 26 april 2019.<br>
 <br>
@@ -64,9 +64,9 @@ De aanvraag voor het thematische zorgstrategische plan bevat de documenten, verm
 
 ### ART 4.
 
-Het agentschap brengt via e-mail binnen vijftien dagen na de dag waarop het de aangetekende verzonden aanvraag heeft ontvangen, de aanvrager op de hoogte van de ontvankelijkheid ervan.<br>
+De administratie brengt via e-mail binnen vijftien dagen na de dag waarop het de aangetekende verzonden aanvraag heeft ontvangen, de aanvrager op de hoogte van de ontvankelijkheid ervan.<br>
 <br>
-Het agentschap vermeldt in de kennisgeving, vermeld in het eerste lid, de datum waarop het de aanvraag heeft ontvangen en de datum van de ontvankelijkheidsverklaring.<br>
+De administratie vermeldt in de kennisgeving, vermeld in het eerste lid, de datum waarop het de aanvraag heeft ontvangen en de datum van de ontvankelijkheidsverklaring.<br>
 <br>
 Een aanvraag is ontvankelijk als al de volgende voorwaarden zijn vervuld:<br>
 1° de aanvraag wordt ingediend op de wijze, vermeld in artikel 3, § 1;<br>
@@ -74,21 +74,21 @@ Een aanvraag is ontvankelijk als al de volgende voorwaarden zijn vervuld:<br>
 
 ### ART 5.
 
-Het agentschap maakt een evaluatienota over het ingediende zorgstrategische plan. Binnen honderdtwintig dagen na de datum van de ontvankelijkheidsverklaring, vermeld in artikel 4, mailt het agentschap de evaluatienota naar de aanvrager.<br>
+De administratie maakt een evaluatienota over het ingediende zorgstrategische plan. Binnen honderdtwintig dagen na de datum van de ontvankelijkheidsverklaring, vermeld in artikel 4, mailt de administratie de evaluatienota naar de aanvrager.<br>
 <br>
-Als het nodig is om het zorgstrategische plan te beoordelen, kan het agentschap via e-mail bijkomende inlichtingen en stukken opvragen bij de aanvrager.<br>
+Als het nodig is om het zorgstrategische plan te beoordelen, kan de administratie via e-mail bijkomende inlichtingen en stukken opvragen bij de aanvrager.<br>
 <br>
-Als het agentschap bijkomende stukken opvraagt bij de indiener van het zorgstrategische plan, wordt de looptijd van de termijn, vermeld in het eerste lid, geschorst zodra het agentschap de aanvraag tot bijkomende stukken heeft verzonden. De resterende termijn start opnieuw de dag na de dag waarop het agentschap de bijkomende stukken via e-mail heeft ontvangen.
+Als de administratie bijkomende stukken opvraagt bij de indiener van het zorgstrategische plan, wordt de looptijd van de termijn, vermeld in het eerste lid, geschorst zodra de administratie de aanvraag tot bijkomende stukken heeft verzonden. De resterende termijn start opnieuw de dag na de dag waarop de administratie de bijkomende stukken via e-mail heeft ontvangen.
 
 ### ART 6.
 
-Na de ontvangst van de evaluatienota, vermeld in artikel 5, heeft de aanvrager veertig dagen om een reactienota te mailen naar het agentschap, of om het agentschap te laten weten dat hij het zorgstrategische plan grondig zal aanpassen.<br>
+Na de ontvangst van de evaluatienota, vermeld in artikel 5, heeft de aanvrager veertig dagen om een reactienota te mailen naar de administratie, of om de administratie te laten weten dat hij het zorgstrategische plan grondig zal aanpassen.<br>
 <br>
 Als de aanvrager beslist om het zorgstrategische plan grondig aan te passen, start de procedure, vermeld in artikel 3, opnieuw.
 
 ### ART 7.
 
-Het agentschap bezorgt het ingediende zorgstrategische plan, de evaluatienota en de eventuele reactienota aan de Commissie Zorgstrategie, vermeld in artikel 8, uiterlijk vijftien dagen nadat de termijn, vermeld in artikel 6, is verstreken.
+De administratie bezorgt het ingediende zorgstrategische plan, de evaluatienota en de eventuele reactienota aan de Commissie Zorgstrategie, vermeld in artikel 8, uiterlijk vijftien dagen nadat de termijn, vermeld in artikel 6, is verstreken.
 
 ### ART 8.
 
@@ -100,29 +100,29 @@ De Commissie Zorgstrategie kan de minister adviseren over de uitvoering van arti
 <br>
 § 2. De Commissie Zorgstrategie is samengesteld uit elf leden.<br>
 <br>
-Twee leden zijn personeelslid van het agentschap. Voor die leden zijn er plaatsvervangers. De administrateur-generaal van het agentschap benoemt die leden en de plaatsvervangers.<br>
+Twee leden zijn personeelslid van de administratie. Voor die leden zijn er plaatsvervangers. De secretaris-generaal van de administratie benoemt die leden en de plaatsvervangers.<br>
 <br>
-Het secretariaat van de Commissie Zorgstrategie wijst de overige negen leden aan die geen personeelslid van het agentschap zijn. Die negen leden worden per dossier aangewezen op basis van een lijst van experten die de administrateur-generaal van het agentschap benoemt. De expertise van de benoemde leden is gekoppeld aan een van de sectoren of de kennisgebieden, vermeld in het vijfde lid.<br>
+Het secretariaat van de Commissie Zorgstrategie wijst de overige negen leden aan die geen personeelslid van de administratie zijn. Die negen leden worden per dossier aangewezen op basis van een lijst van experten die de secretaris-generaal van de administratie benoemt. De expertise van de benoemde leden is gekoppeld aan een van de sectoren of de kennisgebieden, vermeld in het vijfde lid.<br>
 <br>
 Het secretariaat van de Commissie Zorgstrategie controleert bij de aanwijzing van de leden dat een lid geen persoonlijk belang heeft bij de behandeling van het zorgstrategische plan.<br>
 <br>
-De negen leden die geen personeelslid zijn van het agentschap, vertegenwoordigen altijd een specifieke sector of ze bezitten een specifieke expertise. Bij de samenstelling van de leden wordt altijd de volgende verdeling gerespecteerd:<br>
+De negen leden die geen personeelslid zijn van de administratie, vertegenwoordigen altijd een specifieke sector of ze bezitten een specifieke expertise. Bij de samenstelling van de leden wordt altijd de volgende verdeling gerespecteerd:<br>
 1° vier vertegenwoordigers uit de ziekenhuissector;<br>
 2° twee vertegenwoordigers uit de eerstelijnszorg;<br>
 3° een vertegenwoordiger uit de geestelijke gezondheidszorg;<br>
 4° twee academische experts, van wie minstens één deskundigheid heeft in gezondheidseconomie.<br>
 <br>
-§ 3. Een personeelslid van het agentschap is voorzitter van de Commissie Zorgstrategie. Voor de voorzitter is er een plaatsvervanger die ook een personeelslid van het agentschap is. De administrateur-generaal van het agentschap benoemt de voorzitter en zijn plaatsvervanger.<br>
+§ 3. Een personeelslid van de administratie is voorzitter van de Commissie Zorgstrategie. Voor de voorzitter is er een plaatsvervanger die ook een personeelslid van de administratie is. De secretaris-generaal van de administratie benoemt de voorzitter en zijn plaatsvervanger.<br>
 <br>
-Het secretariaat van de Commissie Zorgstrategie wordt waargenomen door personeelsleden die het agentschap ter beschikking stelt.<br>
+Het secretariaat van de Commissie Zorgstrategie wordt waargenomen door personeelsleden die de administratie ter beschikking stelt.<br>
 <br>
-§ 4. De administrateur-generaal van het agentschap benoemt de leden, de voorzitter en de plaatsvervangers van de Commissie Zorgstrategie voor een termijn van vijf jaar. Die termijn is één keer hernieuwbaar voor maximaal vijf jaar.<br>
+§ 4. De secretaris-generaal van de administratie benoemt de leden, de voorzitter en de plaatsvervangers van de Commissie Zorgstrategie voor een termijn van vijf jaar. Die termijn is één keer hernieuwbaar voor maximaal vijf jaar.<br>
 <br>
-De leden, de voorzitter en de plaatsvervangers blijven in functie tot de administrateur-generaal van het agentschap beslist over de hernieuwing van hun mandaat.
+De leden, de voorzitter en de plaatsvervangers blijven in functie tot de secretaris-generaal van de administratie beslist over de hernieuwing van hun mandaat.
 
 ### ART 9.
 
-De Commissie Zorgstrategie regelt haar werking in een huishoudelijk reglement, met behoud van de toepassing van de regels van dit besluit. De administrateur-generaal van het agentschap keurt het huishoudelijk reglement en elke wijziging ervan goed.<br>
+De Commissie Zorgstrategie regelt haar werking in een huishoudelijk reglement, met behoud van de toepassing van de regels van dit besluit. De secretaris-generaal van de administratie keurt het huishoudelijk reglement en elke wijziging ervan goed.<br>
 <br>
 Het lidmaatschap van de Commissie Zorgstrategie is niet verenigbaar met de uitoefening van een bovenlokaal politiek mandaat.<br>
 <br>
@@ -130,9 +130,9 @@ In het huishoudelijk reglement van de Commissie Zorgstrategie kunnen bijkomende 
 
 ### ART 10.
 
-Per dossier ontvangen de leden die geen personeelslid zijn van het agentschap en het dossier in kwestie op de zittingen van de Commissie Zorgstrategie behandelen, een vergoeding van 300 euro.<br>
+Per dossier ontvangen de leden die geen personeelslid zijn van de administratie en het dossier in kwestie op de zittingen van de Commissie Zorgstrategie behandelen, een vergoeding van 300 euro.<br>
 <br>
-De leden van de Commissie Zorgstrategie die geen personeelslid van het agentschap zijn, ontvangen in voorkomend geval een vergoeding voor de reiskosten die zijn verbonden aan de deelname aan de vergaderingen, conform de geldende regeling voor de kilometervergoeding van personeelsleden van de Vlaamse overheid.
+De leden van de Commissie Zorgstrategie die geen personeelslid van de administratie zijn, ontvangen in voorkomend geval een vergoeding voor de reiskosten die zijn verbonden aan de deelname aan de vergaderingen, conform de geldende regeling voor de kilometervergoeding van personeelsleden van de Vlaamse overheid.
 
 ### ART 11.
 
@@ -152,21 +152,21 @@ Bij staking van stemmen is de stem van de voorzitter of zijn plaatsvervanger doo
 
 ### ART 12.
 
-§ 1. De Commissie Zorgstrategie hoort op de vergadering de indiener van het zorgstrategische plan. Ze hoort ook het agentschap.<br>
+§ 1. De Commissie Zorgstrategie hoort op de vergadering de indiener van het zorgstrategische plan. Ze hoort ook de administratie.<br>
 <br>
-Uiterlijk de achtste dag voor de vergadering van de Commissie Zorgstrategie mailt het secretariaat van de Commissie Zorgstrategie een uitnodiging aan het agentschap en de indiener van het zorgstrategische plan.<br>
+Uiterlijk de achtste dag voor de vergadering van de Commissie Zorgstrategie mailt het secretariaat van de Commissie Zorgstrategie een uitnodiging aan de administratie en de indiener van het zorgstrategische plan.<br>
 <br>
-De indiener van het zorgstrategische plan en het agentschap kunnen zich tijdens de vergadering laten bijstaan of vertegenwoordigen door een of meer personen die ze daarvoor aanwijzen. Ze kunnen nog stukken neerleggen tot staving van hun mondelinge uiteenzetting. Als stukken worden neergelegd, worden die in tweevoud neergelegd, waarbij een exemplaar wordt overhandigd aan het secretariaat van de Commissie Zorgstrategie en een exemplaar aan respectievelijk het agentschap of de indiener van het zorgstrategische plan. Na afloop van de vergadering worden die stukken ook gemaild naar het secretariaat van de Commissie Zorgstrategie.<br>
+De indiener van het zorgstrategische plan en de administratie kunnen zich tijdens de vergadering laten bijstaan of vertegenwoordigen door een of meer personen die ze daarvoor aanwijzen. Ze kunnen nog stukken neerleggen tot staving van hun mondelinge uiteenzetting. Als stukken worden neergelegd, worden die in tweevoud neergelegd, waarbij een exemplaar wordt overhandigd aan het secretariaat van de Commissie Zorgstrategie en een exemplaar aan respectievelijk de administratie of de indiener van het zorgstrategische plan. Na afloop van de vergadering worden die stukken ook gemaild naar het secretariaat van de Commissie Zorgstrategie.<br>
 <br>
-Als de neergelegde stukken nieuwe elementen bevatten die niet zijn opgenomen in het zorgstrategische plan, de evaluatienota of de reactienota, kan de voorzitter van de Commissie Zorgstrategie, op verzoek van de indiener van het zorgstrategische plan of het agentschap of op eigen initiatief een bijkomende vergadering plannen binnen maximaal dertig dagen na de dag waarop de zitting van de Commissie Zorgstrategie heeft plaatsgevonden. De voorzitter stelt een bijkomende vergadering voor als de nieuwe elementen van dien aard zijn dat het agentschap, de indiener van het zorgstrategische plan of de Commissie Zorgstrategie bijkomende tijd nodig hebben om de informatie te bestuderen en te becommentariëren. Op de bijkomende vergadering worden alleen de volgende aspecten behandeld:<br>
+Als de neergelegde stukken nieuwe elementen bevatten die niet zijn opgenomen in het zorgstrategische plan, de evaluatienota of de reactienota, kan de voorzitter van de Commissie Zorgstrategie, op verzoek van de indiener van het zorgstrategische plan of de administratie of op eigen initiatief een bijkomende vergadering plannen binnen maximaal dertig dagen na de dag waarop de zitting van de Commissie Zorgstrategie heeft plaatsgevonden. De voorzitter stelt een bijkomende vergadering voor als de nieuwe elementen van dien aard zijn dat de administratie, de indiener van het zorgstrategische plan of de Commissie Zorgstrategie bijkomende tijd nodig hebben om de informatie te bestuderen en te becommentariëren. Op de bijkomende vergadering worden alleen de volgende aspecten behandeld:<br>
 1° de nieuwe elementen;<br>
-2° de reacties van het agentschap en de indiener van het zorgstrategische plan op de nieuwe elementen, vermeld in punt 1°, en de vragen daarover van de Commissie Zorgstrategie.<br>
+2° de reacties van de administratie en de indiener van het zorgstrategische plan op de nieuwe elementen, vermeld in punt 1°, en de vragen daarover van de Commissie Zorgstrategie.<br>
 <br>
 § 2. De voorzitter van de Commissie Zorgstrategie kan beslissen om een elektronische procedure te volgen.<br>
 <br>
-De vergadering, de beraadslaging en de stemming gebeuren bij een elektronische procedure via een onlinevergadering. De indiener van het zorgstrategische plan en het agentschap worden gehoord.<br>
+De vergadering, de beraadslaging en de stemming gebeuren bij een elektronische procedure via een onlinevergadering. De indiener van het zorgstrategische plan en de administratie worden gehoord.<br>
 <br>
-De indiener van het zorgstrategische plan en het agentschap hebben bij een elektronische procedure de mogelijkheid om bewijsstukken van hun mondelinge uiteenzetting neer te leggen. Dat gebeurt voorafgaand aan de start van de onlinevergadering via een e-mail aan het secretariaat van de Commissie Zorgstrategie en respectievelijk aan de indiener van het zorgstrategische plan of het agentschap.<br>
+De indiener van het zorgstrategische plan en de administratie hebben bij een elektronische procedure de mogelijkheid om bewijsstukken van hun mondelinge uiteenzetting neer te leggen. Dat gebeurt voorafgaand aan de start van de onlinevergadering via een e-mail aan het secretariaat van de Commissie Zorgstrategie en respectievelijk aan de indiener van het zorgstrategische plan of de administratie.<br>
 <br>
 De voorzitter van de Commissie Zorgstrategie beschikt bij een elektronische procedure over dezelfde mogelijkheid tot een bijkomende vergadering als vermeld in paragraaf 1, vierde lid.
 
@@ -177,9 +177,9 @@ De voorzitter van de Commissie Zorgstrategie beschikt bij een elektronische proc
 2° de evaluatienota;<br>
 3° de eventuele reactienota en eventuele bijkomende stukken.<br>
 <br>
-De Commissie Zorgstrategie bezorgt zijn advies aan het agentschap en aan de indiener van de aanvraag binnen dezelfde termijn, vermeld in het eerste lid.<br>
+De Commissie Zorgstrategie bezorgt zijn advies aan de administratie en aan de indiener van de aanvraag binnen dezelfde termijn, vermeld in het eerste lid.<br>
 <br>
-De voorzitter van de Commissie Zorgstrategie kan bij een gemotiveerde beslissing de termijn, vermeld in het eerste lid, met dertig dagen verlengen. Het secretariaat van de Commissie Zorgstrategie brengt het agentschap en van de indiener van het zorgstrategische plan onmiddellijk op de hoogte van de voormelde verlenging.<br>
+De voorzitter van de Commissie Zorgstrategie kan bij een gemotiveerde beslissing de termijn, vermeld in het eerste lid, met dertig dagen verlengen. Het secretariaat van de Commissie Zorgstrategie brengt de administratie en van de indiener van het zorgstrategische plan onmiddellijk op de hoogte van de voormelde verlenging.<br>
 <br>
 § 2. Als het advies van de Commissie Zorgstrategie niet bezorgd is binnen de termijn, vermeld in paragraaf 1, bezorgt het secretariaat van de Commissie Zorgstrategie binnen vijftien dagen nadat de termijn, vermeld in paragraaf 1, is verstreken de volgende documenten aan de minister:<br>
 1° het ingediende zorgstrategische plan;<br>
@@ -187,7 +187,7 @@ De voorzitter van de Commissie Zorgstrategie kan bij een gemotiveerde beslissing
 3° in voorkomend geval de reactienota;<br>
 4° in voorkomend geval de bijkomende stukken.<br>
 <br>
-Het secretariaat van de Commissie Zorgstrategie informeert het agentschap en de indiener van het zorgstrategische plan over het uitblijven van het advies en de bijbehorende communicatie naar de minister binnen dezelfde termijn van vijftien dagen, vermeld in het eerste lid.<br>
+Het secretariaat van de Commissie Zorgstrategie informeert de administratie en de indiener van het zorgstrategische plan over het uitblijven van het advies en de bijbehorende communicatie naar de minister binnen dezelfde termijn van vijftien dagen, vermeld in het eerste lid.<br>
 <br>
 § 3. De minister beslist tot volledige of gedeeltelijke goedkeuring of afkeuring van het zorgstrategische plan binnen dertig dagen na de dag waarop de minister het administratieve dossier heeft ontvangen.<br>
 <br>
@@ -197,15 +197,15 @@ De minister mailt de aanvrager over de goedkeuring van het zorgstrategische plan
 
 ### ART 14.
 
-De beheersinstantie van het ziekenhuis dient de aanvraag tot goedkeuring van een individueel zorgstrategisch plan als vermeld in artikel 16 van het besluit van 26 april 2019, in met een aangetekende brief en via een e-mail die gericht is aan het agentschap.<br>
+De beheersinstantie van het ziekenhuis dient de aanvraag tot goedkeuring van een individueel zorgstrategisch plan als vermeld in artikel 16 van het besluit van 26 april 2019, in met een aangetekende brief en via een e-mail die gericht is aan de administratie.<br>
 <br>
 De aanvraag, vermeld in het eerste lid, bevat de documenten, vermeld in artikel 16 van het besluit van 26 april 2019.
 
 ### ART 15.
 
-Het agentschap brengt binnen vijftien dagen na de dag waarop het de aangetekend verzonden aanvraag heeft ontvangen, de aanvrager via e-mail op de hoogte van de ontvankelijkheid ervan.<br>
+De administratie brengt binnen vijftien dagen na de dag waarop het de aangetekend verzonden aanvraag heeft ontvangen, de aanvrager via e-mail op de hoogte van de ontvankelijkheid ervan.<br>
 <br>
-Het agentschap vermeldt in de kennisgeving, vermeld in het eerste lid, de datum van ontvangst van de aanvraag en de datum van ontvankelijkheidsverklaring.<br>
+De administratie&nbsp;vermeldt in de kennisgeving, vermeld in het eerste lid, de datum van ontvangst van de aanvraag en de datum van ontvankelijkheidsverklaring.<br>
 <br>
 Een aanvraag is ontvankelijk als al de volgende voorwaarden zijn vervuld:<br>
 1° de aanvraag wordt ingediend op de wijze, vermeld in artikel 14, eerste lid;<br>
@@ -213,21 +213,21 @@ Een aanvraag is ontvankelijk als al de volgende voorwaarden zijn vervuld:<br>
 
 ### ART 16.
 
-§ 1. Binnen honderdtwintig dagen na de datum van de ontvankelijkheidsverklaring, vermeld in artikel 15, bezorgt het agentschap aan de aanvrager een goedkeuring van het individuele zorgstrategische plan of een voornemen tot weigering van goedkeuring van het individuele zorgstrategische plan.<br>
+§ 1. Binnen honderdtwintig dagen na de datum van de ontvankelijkheidsverklaring, vermeld in artikel 15, bezorgt de administratie aan de aanvrager een goedkeuring van het individuele zorgstrategische plan of een voornemen tot weigering van goedkeuring van het individuele zorgstrategische plan.<br>
 <br>
-Als het nodig is om het zorgstrategische plan te beoordelen, kan het agentschap aanvullende inlichtingen, stukken en gegevens opvragen bij de aanvrager.<br>
+Als het nodig is om het zorgstrategische plan te beoordelen, kan de administratie aanvullende inlichtingen, stukken en gegevens opvragen bij de aanvrager.<br>
 <br>
-Als het agentschap bijkomende stukken opvraagt bij de indiener van het zorgstrategische plan, wordt de looptijd van de termijn, vermeld in het eerste lid, geschorst zodra het agentschap de aanvraag tot bijkomende stukken heeft verzonden. De resterende termijn start opnieuw de dag na de dag waarop het agentschap de bijkomende stukken via e-mail heeft ontvangen.<br>
+Als de administratie bijkomende stukken opvraagt bij de indiener van het zorgstrategische plan, wordt de looptijd van de termijn, vermeld in het eerste lid, geschorst zodra de administratie de aanvraag tot bijkomende stukken heeft verzonden. De resterende termijn start opnieuw de dag na de dag waarop de administratie de bijkomende stukken via e-mail heeft ontvangen.<br>
 <br>
 § 2. Een voornemen tot weigering van goedkeuring wordt met een aangetekende brief verstuurd en vermeldt de mogelijkheid en modaliteiten om een bezwaarschrift in te dienen conform artikel 17.
 
 ### ART 17.
 
-Tegen een voornemen tot weigering van goedkeuring als vermeld in artikel 16, kan de aanvrager, op straffe van onontvankelijkheid, binnen dertig dagen na ontvangst ervan een gemotiveerd bezwaarschrift indienen, met een aangetekende brief die gericht is aan de administrateur-generaal van het agentschap. De aanvrager kan daarin vragen gehoord te worden door de adviescommissie.
+Tegen een voornemen tot weigering van goedkeuring als vermeld in artikel 16, kan de aanvrager, op straffe van onontvankelijkheid, binnen dertig dagen na ontvangst ervan een gemotiveerd bezwaarschrift indienen, met een aangetekende brief die gericht is aan de secretaris-generaal van de administratie. De aanvrager kan daarin vragen gehoord te worden door de adviescommissie.
 
 ### ART 18.
 
-Het agentschap bezorgt het bezwaarschrift, vermeld in artikel 17 van dit besluit, samen met het aanvraagdossier en het voornemen tot negatieve beslissing aan de adviescommissie. De adviescommissie behandelt het bezwaarschrift conform hoofdstuk 3 van het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.
+De administratie bezorgt het bezwaarschrift, vermeld in artikel 17 van dit besluit, samen met het aanvraagdossier en het voornemen tot negatieve beslissing aan de adviescommissie. De adviescommissie behandelt het bezwaarschrift conform hoofdstuk 3 van het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.
 
 ### ART 19.
 
@@ -235,7 +235,7 @@ De definitieve beslissing over het individueel zorgstrategische plan wordt genom
 
 ### ART 20.
 
-Als tegen het voornemen tot weigering van goedkeuring geen bezwaarschrift is ingediend binnen de termijn, vermeld in artikel 17, wordt binnen dertig dagen nadat die termijn is verstreken, de gemotiveerde beslissing van de administrateur-generaal van het agentschap met een aangetekende brief aan de aanvrager bezorgd.
+Als tegen het voornemen tot weigering van goedkeuring geen bezwaarschrift is ingediend binnen de termijn, vermeld in artikel 17, wordt binnen dertig dagen nadat die termijn is verstreken, de gemotiveerde beslissing van de secretaris-generaal van de administratie met een aangetekende brief aan de aanvrager bezorgd.
 
 ## Hoofdstuk 4. Slotbepalingen
 
