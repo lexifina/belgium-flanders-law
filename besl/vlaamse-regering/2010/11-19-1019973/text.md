@@ -565,7 +565,7 @@ Een aanvraag die onvolledig bevonden wordt en waaraan door de aanvrager binnen e
 2° voor de aanvragen tot erkenning als MER-deskundige als vermeld in artikel 6, 1°, d): aan de personeelsleden van het departement die deskundig zijn op het vlak van milieueffectrapportage.<br>
 Voor de volgende disciplines wordt een aanvullend advies gevraagd aan:<br>
 a) mens, deeldomeinen:<br>
-1) gezondheid: de afdeling Preventie van het Agentschap Zorg en Gezondheid;<br>
+1) gezondheid: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 2) ...<br>
 3) mobiliteit: de afdeling Beleid, Mobiliteit en Verkeersveiligheid van het Departement Mobiliteit en Openbare Werken;<br>
 4) ruimtelijke aspecten: de personeelsleden van het departement die deskundig zijn op het gebied van ruimtelijke ordening;<br>
