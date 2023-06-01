@@ -30,7 +30,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 In dit besluit wordt verstaan onder:<br>
 1° Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen: het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen, opgericht bij het besluit van de Vlaamse Regering van 24 april 2009 tot oprichting van het intern verzelfstandigd Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen;<br>
-2° agentschap Zorg en Gezondheid: het agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+2° Departement Zorg: het departement, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 3° opleidingen die leiden tot bijzondere beroepstitels: de opleidingen tot de bijzondere beroepstitels, vermeld in het koninklijk besluit van 25 november 1991 houdende de lijst van bijzondere beroepstitels voorbehouden aan de beoefenaars van de geneeskunde, met inbegrip van de tandheelkunde;<br>
 4° Planningscommissie Medisch aanbod: de federale Planningscommissie Medisch aanbod, vermeld in artikel 91, § 1, van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015;<br>
 5° referentieperiode: de periode van minstens één academiejaar en maximaal zes academiejaren waarin een bepaald aantal kandidaten voor een opleiding tot een bijzondere beroepstitel of een groep van bijzondere beroepstitels mag worden toegelaten;<br>
@@ -40,7 +40,7 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 2.
 
-Binnen het agentschap Zorg en Gezondheid wordt een Vlaamse commissie voor de planning van het medisch aanbod opgericht.
+Binnen het Departement Zorg wordt een Vlaamse commissie voor de planning van het medisch aanbod opgericht.
 
 ## HOOFDSTUK 3. Taakomschrijving, samenstelling, organisatie, werkingsregels en vergoeding van de Vlaamse Planningscommissie
 
@@ -66,7 +66,7 @@ De Vlaamse Planningscommissie verstrekt jaarlijks voor 1 november een advies als
 <br>
 § 2. Naast de taken, vermeld in paragraaf 1, heeft de Vlaamse Planningscommissie de volgende adviserende taken:<br>
 1° op eigen initiatief of op verzoek van de Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, een algemeen advies verstrekken over het beleid over het medisch aanbod;<br>
-2° het cijfermateriaal dat blijkt uit de rapportering van de werkelijke instroom, die wordt ingesteld bij het agentschap Zorg en Gezondheid, opvolgen, valideren en evalueren;<br>
+2° het cijfermateriaal dat blijkt uit de rapportering van de werkelijke instroom, die wordt ingesteld bij het Departement Zorg, opvolgen, valideren en evalueren;<br>
 3° de groepen van bijzondere beroepstitels omschrijven en bepaalde bijzondere beroepstitels al dan niet indelen in die groepen van bijzondere beroepstitels;<br>
 4° de referentieperiode bepalen om minimum- en maximumaantallen per opleiding tot bijzondere beroepstitel te hanteren.
 
@@ -99,10 +99,10 @@ De kamer, vermeld in het eerste lid, 3°, is samengesteld uit de volgende leden:
 5° een effectief lid, voorgedragen door het Vlaams Patiëntenplatform;<br>
 6° een effectief lid, voorgedragen door de Vlaamse minister, bevoegd voor de gezondheids- en woonzorg;<br>
 7° een effectief lid, voorgedragen door de Vlaamse minister, bevoegd voor onderwijs en vorming;<br>
-8° een effectief lid, voorgedragen door het agentschap Zorg en Gezondheid;<br>
+8° een effectief lid, voorgedragen door het Departement Zorg;<br>
 9° een effectief lid, voorgedragen door het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen.<br>
 <br>
-§ 2. De beroepsverenigingen, de Vlaamse geneeskundefaculteiten, het HAIO Overleg Platform, de Vereniging voor Arts-Specialisten in Opleiding en het Vlaams Patiëntenplatform, de ministers en de agentschappen, dragen voor elk effectief lid dat ze hebben voorgedragen, een plaatsvervanger voor. Het mandaat van de plaatsvervanger is gericht en kan alleen worden uitgeoefend als het lid dat hij vervangt, zelf zijn mandaat niet uitoefent.<br>
+§ 2. De beroepsverenigingen, de Vlaamse geneeskundefaculteiten, het HAIO Overleg Platform, de Vereniging voor Arts-Specialisten in Opleiding en het Vlaams Patiëntenplatform, de ministers het agentschap en het Departement Zorg, dragen voor elk effectief lid dat ze hebben voorgedragen, een plaatsvervanger voor. Het mandaat van de plaatsvervanger is gericht en kan alleen worden uitgeoefend als het lid dat hij vervangt, zelf zijn mandaat niet uitoefent.<br>
 <br>
 Als de aangewezen persoon zijn rol als plaatsvervanger vervult, wordt hij voor de duurtijd van die vergadering in het kader van de rechten en plichten van een effectief lid, vermeld in dit besluit, gelijkgesteld met het effectief lid van wie die persoon de plaatsvervanging vervult.<br>
 <br>
@@ -112,13 +112,13 @@ Als plaatsvervanger van een algemeen tandarts kan alleen een algemeen tandarts w
 <br>
 De Vlaamse geneeskundefaculteiten dragen voor elk effectief lid dat ze hebben voorgedragen een plaatsvervanger voor. Deze plaatsvervangers hoeven niet noodzakelijk dezelfde specialisatie te hebben als het effectief lid, zolang de hogergenoemde specialisatie-differentiatie in de samenstelling van de kamer voor artsen-specialisten en huisartsen en de kamer voor tandartsen en tandartsen-specialisten gerespecteerd wordt.<br>
 <br>
-§ 3. In deze paragraaf wordt verstaan onder administrateur-generaal: de leidend ambtenaar van het agentschap Zorg en Gezondheid.<br>
+§ 3. In deze paragraaf wordt verstaan onder secretaris-generaal: het hoofd van het Departement Zorg.<br>
 <br>
-Met uitzondering van de effectieve leden, vermeld in paragraaf 1, derde lid, 3°, en in paragraaf 1, vierde lid, 3°, worden de effectieve leden, vermeld in paragraaf 1, derde lid tot en met vijfde lid, en de plaatsvervangers, vermeld in paragraaf 2, door de administrateur-generaal benoemd voor een onbeperkt hernieuwbare termijn van vier jaar.<br>
+Met uitzondering van de effectieve leden, vermeld in paragraaf 1, derde lid, 3°, en in paragraaf 1, vierde lid, 3°, worden de effectieve leden, vermeld in paragraaf 1, derde lid tot en met vijfde lid, en de plaatsvervangers, vermeld in paragraaf 2, door de secretaris-generaal benoemd voor een onbeperkt hernieuwbare termijn van vier jaar.<br>
 <br>
-Als het mandaat van een effectief lid of een plaatsvervanger als vermeld in het tweede lid, niet meer wordt ondersteund door de Vlaamse geneeskundefaculteit, de beroepsvereniging, het Vlaams Patiëntenplatform, het HAIO Overleg Platform, de Vereniging voor Arts-Specialisten in Opleiding, de minister die of het agentschap dat hem heeft voorgedragen, kan het lid op verzoek van zijn geneeskundefaculteit, zijn beroepsvereniging, het Vlaams Patiëntenplatform, het HAIO Overleg Platform, de Vereniging voor Arts-Specialisten in Opleiding, de minister in kwestie of het agentschap in kwestie worden vervangen door een nieuw lid dat de administrateur-generaal benoemt voor de resterende duur van het mandaat van het effectief lid of de plaatsvervanger die hij vervangt.<br>
+Als het mandaat van een effectief lid of een plaatsvervanger als vermeld in het tweede lid, niet meer wordt ondersteund door de Vlaamse geneeskundefaculteit, de beroepsvereniging, het Vlaams Patiëntenplatform, het HAIO Overleg Platform, de Vereniging voor Arts-Specialisten in Opleiding, het Departement Zorg, het Agentschap voor Hoger Onderwijs of de minister die hem heeft voorgedragen, kan het lid op verzoek van zijn geneeskundefaculteit, zijn beroepsvereniging, het Vlaams Patiëntenplatform, het HAIO Overleg Platform, de Vereniging voor Arts-Specialisten in Opleiding, het Departement Zorg, het Agentschap voor Hoger Onderwijs of de minister in kwestie worden vervangen door een nieuw lid dat de secretaris-generaal benoemt voor de resterende duur van het mandaat van het effectief lid of de plaatsvervanger die hij vervangt.<br>
 <br>
-Bij overlijden, ontslag, intrekking van het mandaat van een effectief lid of een plaatsvervanger als vermeld in het tweede lid, benoemt de administrateur-generaal een nieuw lid, voorgedragen door een Vlaamse geneeskundefaculteit, door een beroepsvereniging, door het Vlaams Patiëntenplatform, het HAIO Overleg Platform, de Vereniging voor Arts-Specialisten in Opleiding, de minister of het agentschap. De administrateur-generaal benoemt dat lid voor de resterende duur van het mandaat van het lid dat hij vervangt.<br>
+Bij overlijden, ontslag, intrekking van het mandaat van een effectief lid of een plaatsvervanger als vermeld in het tweede lid, benoemt de secretaris-generaal een nieuw lid, voorgedragen door een Vlaamse geneeskundefaculteit, door een beroepsvereniging, door het Vlaams Patiëntenplatform, het HAIO Overleg Platform, de Vereniging voor Arts-Specialisten in Opleiding, het Departement Zorg, het Agentschap voor Hoger Onderwijs of de minister. De secretaris-generaal benoemt dat lid voor de resterende duur van het mandaat van het lid dat hij vervangt.<br>
 <br>
 § 4. De leden, vermeld in paragraaf 1, derde lid, 3°, en in paragraaf 1, vierde lid, 3°, zijn ambtshalve lid van de Vlaamse Planningscommissie.&nbsp;
 
@@ -152,9 +152,9 @@ Als er, rekening houdend met bovenstaande, niet voldoende leden aanwezig zijn, o
 <br>
 De kamers spreken zich uit bij meerderheid van de aanwezige leden. Elk lid heeft één stem. Bij staking van stemmen is de stem van de voorzitter van de vergadering beslissend.<br>
 <br>
-§ 4. De Vlaamse Planningscommissie en de kamers kunnen, als ze dat nuttig achten en na akkoord van het agentschap Zorg en Gezondheid, een beroep doen op externe deskundigen. Die personen hebben een raadgevende stem.<br>
+§ 4. De Vlaamse Planningscommissie en de kamers kunnen, als ze dat nuttig achten en na akkoord van het Departement Zorg, een beroep doen op externe deskundigen. Die personen hebben een raadgevende stem.<br>
 <br>
-§ 5. Een personeelslid van het agentschap Zorg en Gezondheid en een personeelslid van het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen oefenen de functie van secretaris van de Vlaamse Planningscommissie om de beurt uit. Op de allereerste vergadering oefent een personeelslid van het agentschap Zorg en Gezondheid de functie van secretaris van de Vlaamse Planningscommissie uit.<br>
+§ 5. Een personeelslid van het Departement Zorg en een personeelslid van het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen oefenen de functie van secretaris van de Vlaamse Planningscommissie om de beurt uit. Op de allereerste vergadering oefent een personeelslid van het Departement Zorg de functie van secretaris van de Vlaamse Planningscommissie uit.<br>
 <br>
 Een personeelslid van het agentschap Zorg en Gezondheid oefent de functie van secretaris van de kamer, vermeld in artikel 4, § 1, eerste lid, 1°, en van de kamer, vermeld in artikel 4, § 1, eerste lid, 2°, uit.<br>
 <br>
@@ -190,7 +190,7 @@ Als voor een bijzondere beroepstitel of groep van bijzondere beroepstitels de mi
 
 ### ART 9.
 
-Aan de hand van een rapportering die het agentschap Zorg en Gezondheid instelt, wordt bijgehouden of de vooropgestelde aantallen worden bereikt.<br>
+Aan de hand van een rapportering die het Departement Zorg instelt, wordt bijgehouden of de vooropgestelde aantallen worden bereikt.<br>
 <br>
 Het bereikte aantal kandidaten voor elke opleiding tot een bijzondere beroepstitel of groep van bijzondere beroepstitels wordt jaarlijks bekendgemaakt op de website van het agentschap Zorg en Gezondheid.
 
@@ -199,8 +199,8 @@ Het bereikte aantal kandidaten voor elke opleiding tot een bijzondere beroepstit
 Als de opleiding tot een bijzondere beroepstitel of groep van bijzondere beroepstitels van arts-specialist, huisarts, algemeen tandarts of tandarts-specialist van een kandidaat wordt stopgezet, kan hij voor de opleiding tot de bijzondere beroepstitel of groep van bijzondere beroepstitels in kwestie worden vervangen door een andere kandidaat.<br>
 <br>
 In de volgende gevallen wordt de opleiding van een kandidaat als stopgezet beschouwd als vermeld in het eerste lid:<br>
-1° het agentschap Zorg en Gezondheid ontvangt een attest, dat de decaan van de geneeskundefaculteit en de kandidaat ondertekenen. Dat attest bevestigt dat er aan de opleiding een einde wordt gemaakt;<br>
-2° het agentschap Zorg en Gezondheid of, in voorkomend geval, de Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, neemt een definitieve beslissing tot stopzetting;<br>
+1° het Departement Zorg ontvangt een attest, dat de decaan van de geneeskundefaculteit en de kandidaat ondertekenen. Dat attest bevestigt dat er aan de opleiding een einde wordt gemaakt;<br>
+2° het Departement Zorg of, in voorkomend geval, de Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, neemt een definitieve beslissing tot stopzetting;<br>
 3° de kandidaat is overleden.
 
 ### ART 11.
