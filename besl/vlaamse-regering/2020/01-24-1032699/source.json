@@ -2,16 +2,16 @@
   "codex_id": 1032699,
   "title": "Besluit van de Vlaamse Regering van 2020-01-24 tot aanwijzing van de dienst die belast is met de operationalisering van de sociale kaart",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032699/VolledigDocument?datum=2020-03-15",
-  "source_sha256": "e292ae1220db203cf250fd9164613af5f21baa4f8e026e3cfac3142444b28189",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032699/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "29583133ac18511e88c56166b0d994defa1dd53c4ac2c795fbfb6b66bd656955",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032699&param=informatie",
-  "as_of": "2020-03-15",
+  "as_of": "2023-06-01",
   "made": "2020-01-24",
   "gazette": "2020-03-05",
   "numac": 2020040462,
   "document_start": "2020-03-15",
   "document_end": null,
-  "in_force": "2020-03-15",
+  "in_force": "2023-06-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2020-03-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }

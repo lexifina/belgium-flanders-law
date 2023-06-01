@@ -21,7 +21,7 @@ DE VLAAMSE REGERING BESLUIT :
 
 ### ART 1.
 
-De dienst die belast is met de operationalisering van de sociale kaart, is het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 1, eerste lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.<br>
+De dienst die belast is met de operationalisering van de sociale kaart, is het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.<br>
 &nbsp;
 
 ### ART 2.
