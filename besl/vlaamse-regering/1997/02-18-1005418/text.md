@@ -20,8 +20,8 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br>
 3° de minister: de Vlaamse minister bevoegd voor het gezondheidsbeleid;<br>
 4° ...;<br>
 5° de Adviescommissie : de commissie, vermeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers;<br>
-6° de administratie: het intern verzelfstandigd agentschap Zorg en Gezondheid;<br>
-7° de administrateur-generaal : het hoofd van het intern verzelfstandigd agentschap Zorg en Gezondheid.
+6° de administratie: het Departement Zorg;<br>
+7° secretaris-generaal: het hoofd van de administratie.
 
 ## HOOFDSTUK II PROCEDURE TOT HET VERKRIJGEN VAN EEN PLANNINGSVERGUNNING
 
@@ -41,7 +41,9 @@ Binnen vier maanden na ontvangst van de aanvraag, wordt ofwel een met redenen om
 
 ### ART. 6.
 
-Op straffe van onontvankelijkheid, kan de aanvrager tot uiterlijk dertig   dagen na ontvangst van het in artikel 5 bedoelde voornemen, tegen dit voornemen   met een aangetekende brief een gemotiveerd bezwaarschrift, gericht aan de   administrateur-generaal, bij de administratie indienen.<BR><BR>Hij kan daarin   uitdrukkelijk vragen gehoord te worden.
+Op straffe van onontvankelijkheid, kan de aanvrager tot uiterlijk dertig dagen na ontvangst van het in artikel 5 bedoelde voornemen, tegen dit voornemen met een aangetekende brief een gemotiveerd bezwaarschrift, gericht aan de secretaris-generaal, bij de administratie indienen.<br>
+<br>
+Hij kan daarin uitdrukkelijk vragen gehoord te worden.
 
 ### ART. 7.
 
@@ -49,11 +51,34 @@ Op straffe van onontvankelijkheid, kan de aanvrager tot uiterlijk dertig   dagen
 
 ### ART. 8.
 
-Als geen bezwaarschrift is ingediend binnen de termijn bepaald in artikel 6, wordt binnen een maand na het verstrijken van deze termijn, de gemotiveerde beslissing van de administrateur-generaal  met een aangetekende brief aan de aanvrager(s) betekend.
+Als geen bezwaarschrift is ingediend binnen de termijn bepaald in artikel 6, wordt binnen een maand na het verstrijken van deze termijn, de gemotiveerde beslissing van de secretaris-generaal met een aangetekende brief aan de aanvrager(s) betekend.
 
 ### ART. 9.
 
-§ 1. Met toepassing van nieuwe of wijzigende reglementering inzake   planning, kan de administrateur-generaal een uiterste datum bepalen waarop alle   aanvragen ingediend moeten zijn, dit met het oog op een groepsgewijze   behandeling van soortgelijke dossiers.<BR><BR>§ 2. Als de administratie   aanvullende stukken of gegevens opvraagt, dient de aanvrager deze binnen dertig   dagen op te sturen, zoniet in § 9 van dit artikel van toepassing.<BR><BR>§ 3.   Binnen vier maanden na de uiterste datum waarvan sprake is § 1, wordt aan de   aanvrager per aangetekende brief toegestuurd:<BR>1. ofwel een met redenen   omkleed voornemen tot weigering van de planningsvergunning;<BR>2. ofwel een met   redenen omkleed voornemen tot toekenning van de planningsvergunning;<BR>3.   ofwel, als er in de groep dossiers geen enkel voornemen tot weigering wordt   betekend, een met redenen omklede planningsvergunning.<BR><BR>§ 4. Voor de   aanvrager die een voornemen tot weigering van de planningsvergunning heeft   ontvangen, gelden de artikelen 5, tweede lid, en 6. Artikel 7 is van   overeenkomstige toepassing voor zover de bepalingen van paragraaf 5 tot en met 8   daarvan niet afwijken.<BR><BR>§ 5. Alvorens advies te verlenen, nodigt de   Adviescommissie alle aanvragers binnen de groepsgewijze behandeling per   aangetekend schrijven uit om hun gemotiveerd standpunt kenbaar te maken met   betrekking tot het dossier dat hen aanbelangt.<BR><BR>Deze aanvragers dienen hu   standpunt bij aangetekend schrijven op te sturen aan de Adviescommissie, binnen   vijftien dagen na ontvangst van de voormelde uitnodiging. Zij kunnen daarin   vragen om gehoord te worden.<BR><BR>Als de aldus uitgenodigde aanvragers niet   hebben gereageerd zoals beschreven in het vorige lid, worden zij geacht geen   opmerkingen te hebben.<BR><BR>§ 6. De Adviescommissie hoort de indiener(s) van   het(de) bezwaarschrift(en) en de andere aanvragers als daarom werd verzocht. De   verzorgingsvoorzieningen worden daartoe op de zitting van de Adviescommissie   uitgenodigd per aangetekend schrijven, verstuurd uiterlijk de achtste dag voor   de zitting.<BR><BR>§ 7. Het gemotiveerd advies van de Adviescommissie wordt per   aangetekende brief betekend aan alle verzorgingsvoorzieningen die in de   procedure betrokken waren.<BR><BR>§ 8. De minister of de administrateur-generaal   beslist groepsgewijs in alle dossiers. Als het advies van de Adviescommissie   niet binnen de gestelde termijn is meegedeeld, kan de minister geen beslissing   nemen zonder ook de aanvragers te hebben gehoord die hun standpunt hebben   ingediend en die gevraagd hebben om te worden gehoord.<BR><BR>§ 9. Aanvragen die   worden ingediend na de datum die door de administrateur-generaal is bepaald,   conform § 1, worden behandeld na de datum waarop de administrateur-generaal of   de minister groepsgewijs de beslissingen heeft genomen, volgens de bepalingen   van artikel 3 tot en met 8. Hiertoe worden deze aanvragen door de administratie   geacht te zijn ontvangen op de datum waarop de administrateur-generaal of de   minister de beslissingen, vermeld in § 8, heeft genomen.
+§ 1. Met toepassing van nieuwe of wijzigende reglementering inzake planning, kan de secretaris-generaal een uiterste datum bepalen waarop alle aanvragen ingediend moeten zijn, dit met het oog op een groepsgewijze behandeling van soortgelijke dossiers.<br>
+<br>
+§ 2. Als de administratie aanvullende stukken of gegevens opvraagt, dient de aanvrager deze binnen dertig dagen op te sturen, zoniet in § 9 van dit artikel van toepassing.<br>
+<br>
+§ 3. Binnen vier maanden na de uiterste datum waarvan sprake is § 1, wordt aan de aanvrager per aangetekende brief toegestuurd:<br>
+1. ofwel een met redenen omkleed voornemen tot weigering van de planningsvergunning;<br>
+2. ofwel een met redenen omkleed voornemen tot toekenning van de planningsvergunning;<br>
+3. ofwel, als er in de groep dossiers geen enkel voornemen tot weigering wordt betekend, een met redenen omklede planningsvergunning.<br>
+<br>
+§ 4. Voor de aanvrager die een voornemen tot weigering van de planningsvergunning heeft ontvangen, gelden de artikelen 5, tweede lid, en 6. Artikel 7 is van overeenkomstige toepassing voor zover de bepalingen van paragraaf 5 tot en met 8 daarvan niet afwijken.<br>
+<br>
+§ 5. Alvorens advies te verlenen, nodigt de Adviescommissie alle aanvragers binnen de groepsgewijze behandeling per aangetekend schrijven uit om hun gemotiveerd standpunt kenbaar te maken met betrekking tot het dossier dat hen aanbelangt.<br>
+<br>
+Deze aanvragers dienen hu standpunt bij aangetekend schrijven op te sturen aan de Adviescommissie, binnen vijftien dagen na ontvangst van de voormelde uitnodiging. Zij kunnen daarin vragen om gehoord te worden.<br>
+<br>
+Als de aldus uitgenodigde aanvragers niet hebben gereageerd zoals beschreven in het vorige lid, worden zij geacht geen opmerkingen te hebben.<br>
+<br>
+§ 6. De Adviescommissie hoort de indiener(s) van het(de) bezwaarschrift(en) en de andere aanvragers als daarom werd verzocht. De verzorgingsvoorzieningen worden daartoe op de zitting van de Adviescommissie uitgenodigd per aangetekend schrijven, verstuurd uiterlijk de achtste dag voor de zitting.<br>
+<br>
+§ 7. Het gemotiveerd advies van de Adviescommissie wordt per aangetekende brief betekend aan alle verzorgingsvoorzieningen die in de procedure betrokken waren.<br>
+<br>
+§ 8. De minister of de secretaris-generaal beslist groepsgewijs in alle dossiers. Als het advies van de Adviescommissie niet binnen de gestelde termijn is meegedeeld, kan de minister geen beslissing nemen zonder ook de aanvragers te hebben gehoord die hun standpunt hebben ingediend en die gevraagd hebben om te worden gehoord.<br>
+<br>
+§ 9. Aanvragen die worden ingediend na de datum die door de secretaris-generaal is bepaald, conform § 1, worden behandeld na de datum waarop de secretaris-generaal of de minister groepsgewijs de beslissingen heeft genomen, volgens de bepalingen van artikel 3 tot en met 8. Hiertoe worden deze aanvragen door de administratie geacht te zijn ontvangen op de datum waarop de secretaris-generaal of de minister de beslissingen, vermeld in § 8, heeft genomen.
 
 ## HOOFDSTUK III PROCEDURE TOT HET VERKRIJGEN VAN EEN EXPLOITATIEVERGUNNING
 
