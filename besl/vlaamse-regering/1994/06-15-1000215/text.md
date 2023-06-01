@@ -42,7 +42,7 @@ Opdat een voorziening of zorgaanbieder&nbsp;door het&nbsp;agentschap vergund of 
 6° een kopie van de individuele dienstverleningsovereenkomst, vermeld in artikel 8, § 1, eerste lid, 1°, van het besluit van 4 februari 2011 wordt gevoegd bij de in 4° vermelde overeenkomst;<br>
 7° de plaatsing van gelden op een rekening bij een financiële instelling geschiedt op een individuele rekening op naam van de persoon met een handicap, waarvan de opbrengsten eigendom blijven van de persoon met een handicap en van niet geplaatste gelden wordt een individuele fiche bijgehouden;<br>
 <br>
-Een afschrift van de in het eerste lid, 4° en 5° bedoelde documenten alsmede van alle wijzigingen hieraan wordt ter beschikking gehouden van&nbsp;ambtenaren van Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein en van de in hoofdstuk IV bedoelde toezichtsraad.
+Een afschrift van de in het eerste lid, 4° en 5° bedoelde documenten alsmede van alle wijzigingen hieraan wordt ter beschikking gehouden van&nbsp;Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg, en van de in hoofdstuk IV bedoelde toezichtsraad.
 
 ### ART. 6.
 
