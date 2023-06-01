@@ -25,7 +25,7 @@ Ter uitvoering van artikel 7bis, § 1, van het besluit van de Vlaamse Regering v
 
 ### ART 2.
 
-De instelling registreert de gegevens, vermeld in artikel 1, in een onlineapplicatie die het Departement Welzijn, Volksgezondheid en Gezin ter beschikking stelt.
+De instelling registreert de gegevens, vermeld in artikel 1, in een onlineapplicatie die het Departement Zorgn ter beschikking stelt.
 
 ### ART 3.
 
