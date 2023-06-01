@@ -18,7 +18,10 @@ Op het subsidiebedrag wordt voor elk trimester een voorschot toegekend van maxim
 
 ### ART. 4.
 
-De voorschotten worden berekend op basis van het aantal uren gastopvang die gecoördineerd zijn tijdens het voorafgaande jaar, met een maximum gelijk aan het subsidiabel urencontingent. Als het aantal uren gastopvang kleiner is dan 3 000 uren (drieduizend uren), of 1 800 uren (duizend achthonderd uren) voor een dienst voor gastopvang die erkend is in het tweetalige gebied Brussel-Hoofdstad, worden er geen voorschotten toegekend.<br /><br />Die gegevens moeten met het jaarverslag en de kwaliteitsplanning uiterlijk op 15 april worden bezorgd aan het Vlaams Agentschap Zorg en Gezondheid. Als de gegevens na die datum worden bezorgd, kan de dienst voor gastopvang geen aanspraak maken op tussentijdse voorschotten.<br /><br />
+De voorschotten worden berekend op basis van het aantal uren gastopvang die gecoördineerd zijn tijdens het voorafgaande jaar, met een maximum gelijk aan het subsidiabel urencontingent. Als het aantal uren gastopvang kleiner is dan 3 000 uren (drieduizend uren), of 1 800 uren (duizend achthonderd uren) voor een dienst voor gastopvang die erkend is in het tweetalige gebied Brussel-Hoofdstad, worden er geen voorschotten toegekend.<br>
+<br>
+Die gegevens moeten met het jaarverslag en de kwaliteitsplanning uiterlijk op 15 april worden bezorgd aan het Departement Zorg. Als de gegevens na die datum worden bezorgd, kan de dienst voor gastopvang geen aanspraak maken op tussentijdse voorschotten.<br>
+&nbsp;
 
 ### ART. 5.
 
@@ -30,11 +33,13 @@ In afwijking van artikel 4, eerste lid en artikel 5 kan een dienst voor gastopva
 
 ### ART. 7.
 
-Het saldo wordt uitbetaald in het kalenderjaar dat volgt op het kalenderjaar waarop het saldo betrekking heeft, nadat het Vlaams Agentschap Zorg en Gezondheid het financiële verslag, het jaarverslag en de kwaliteitsplanning heeft goedgekeurd.<br /><br />
+Het saldo wordt uitbetaald in het kalenderjaar dat volgt op het kalenderjaar waarop het saldo betrekking heeft, nadat het Departement Zorg het financiële verslag, het jaarverslag en de kwaliteitsplanning heeft goedgekeurd.<br>
+&nbsp;
 
 ### ART. 8.
 
-Als blijkt dat de dienst voor gastopvang met de uitbetaling van de voorschotten te veel subsidies heeft ontvangen voor het kalenderjaar in kwestie, moet de voorziening dat bedrag onmiddellijk terugstorten. Het Vlaams Agentschap Zorg en Gezondheid meldt per brief het terug te storten bedrag, alsook de procedure die de dienst voor gastopvang daarbij moet volgen.<br /><br />
+Als blijkt dat de dienst voor gastopvang met de uitbetaling van de voorschotten te veel subsidies heeft ontvangen voor het kalenderjaar in kwestie, moet de voorziening dat bedrag onmiddellijk terugstorten. Het Departement Zorg meldt per brief het terug te storten bedrag, alsook de procedure die de dienst voor gastopvang daarbij moet volgen.<br>
+&nbsp;
 
 ### ART. 9.
 
