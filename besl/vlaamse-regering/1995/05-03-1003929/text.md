@@ -4,7 +4,15 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° palliatieve zorg: het geheel van de actieve totaalzorg voor patiënten waarvan de ziekte niet langer op curatieve therapieën reageert en voor wie de controle van pijn en andere symptomen, alsook psychologische, morele, spirituele en zingevende, familiale en sociale ondersteuning van essentieel belang zijn;<br />2° palliatief netwerk: een overkoepelend samenwerkingsverband, waarvan sprake in artikel 14 van dit besluit, tussen vertegenwoordigers van eerstelijnshulpverleners, organisaties, instellingen, verenigingen en diensten dat erkend wordt door de Vlaamse overheid en dat gericht is op het ondersteunen van palliatieve zorg;<br />3° partners: alle vertegenwoordigers van eerstelijnshulpverleners, organisaties, instellingen, verenigingen en diensten die de overeenkomst zoals omschreven in artikel 15 van dit besluit onderschreven;<br />4° samenwerkingsinitiatief: samenwerkingsinitiatief voor thuisverzorging erkend op basis van het besluit van de Vlaamse regering van 21 december 1990 houdende coördinatie en ondersteuning van de thuisverzorging;<br />5° palliatieve functie: verantwoordelijkheid binnen een voorziening of organisatie voor de sensibilisatie en ondersteuning van een palliatieve zorgcultuur zoals bedoeld in 1 ;<br />6° de administratie: het intern verzelfstandigd agentschap Zorg en Gezondheid;<br />7° de minister: de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br />8° de administrateur-generaal : het hoofd van het intern verzelfstandigd agentschap Zorg en Gezondheid.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° palliatieve zorg: het geheel van de actieve totaalzorg voor patiënten waarvan de ziekte niet langer op curatieve therapieën reageert en voor wie de controle van pijn en andere symptomen, alsook psychologische, morele, spirituele en zingevende, familiale en sociale ondersteuning van essentieel belang zijn;<br>
+2° palliatief netwerk: een overkoepelend samenwerkingsverband, waarvan sprake in artikel 14 van dit besluit, tussen vertegenwoordigers van eerstelijnshulpverleners, organisaties, instellingen, verenigingen en diensten dat erkend wordt door de Vlaamse overheid en dat gericht is op het ondersteunen van palliatieve zorg;<br>
+3° partners: alle vertegenwoordigers van eerstelijnshulpverleners, organisaties, instellingen, verenigingen en diensten die de overeenkomst zoals omschreven in artikel 15 van dit besluit onderschreven;<br>
+4° samenwerkingsinitiatief: samenwerkingsinitiatief voor thuisverzorging erkend op basis van het besluit van de Vlaamse regering van 21 december 1990 houdende coördinatie en ondersteuning van de thuisverzorging;<br>
+5° palliatieve functie: verantwoordelijkheid binnen een voorziening of organisatie voor de sensibilisatie en ondersteuning van een palliatieve zorgcultuur zoals bedoeld in 1 ;<br>
+6° de administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
+7° de minister: de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
+8° secretaris-generaal: het hoofd van de administratie.
 
 ## HOOFDSTUK II ERKENNING VAN PALLIATIEVE NETWERKEN
 
@@ -14,7 +22,7 @@ Om als palliatief netwerk te worden erkend moet worden voldaan aan de bepalingen
 
 ### ART. 3.
 
-Palliatieve netwerken worden erkend en gesubsidieerd binnen een regio die minstens 300 000 en hoogstens 1 000 000 inwoners telt. De administrateur-generaal kan hierop afhankelijk van een optimale geografische spreiding of vanwege werkzame en organisatorische verbanden een afwijking toestaan. Per regio kan maar één palliatief netwerk erkend worden.
+Palliatieve netwerken worden erkend en gesubsidieerd binnen een regio die minstens 300 000 en hoogstens 1 000 000 inwoners telt. De secretaris-generaal kan hierop afhankelijk van een optimale geografische spreiding of vanwege werkzame en organisatorische verbanden een afwijking toestaan. Per regio kan maar één palliatief netwerk erkend worden.
 
 ### ART. 4.
 
@@ -22,7 +30,9 @@ Het netwerk heeft de vorm van een rechtspersoon die geen winst nastreeft.
 
 ### ART. 5.
 
-De erkenning van een palliatief netwerk geldt voor een periode van maximum vier jaar en is telkens hernieuwbaar voor maximum vier jaar. De erkenningsperiode omvat altijd volledige kalenderjaren. Een afwijking is mogelijk bij de eerste erkenning.<br /><br />De administrateur-generaal kan de erkenning te allen tijde intrekken indien het netwerk niet meer voldoet aan de erkenningsvoorwaarden zoals ze gesteld zijn in dit besluit.
+De erkenning van een palliatief netwerk geldt voor een periode van maximum vier jaar en is telkens hernieuwbaar voor maximum vier jaar. De erkenningsperiode omvat altijd volledige kalenderjaren. Een afwijking is mogelijk bij de eerste erkenning.<br>
+<br>
+De secretaris-generaal kan de erkenning te allen tijde intrekken indien het netwerk niet meer voldoet aan de erkenningsvoorwaarden zoals ze gesteld zijn in dit besluit.
 
 ### ART. 6.
 
@@ -71,7 +81,17 @@ Het palliatieve netwerk nodigt alle bij de palliatieve zorg betrokken organisati
 
 ### ART. 15.
 
-De overeenkomst wordt ter goedkeuring aan de administrateur-generaal  voorgelegd en bevat ten minste de volgende gegevens:<br />1° de partners die de overeenkomst onderschrijven;<br />2° de door het palliatieve netwerk bereikte regio en het aantal inwoners ervan;<br />3° de administratieve zetel van het palliatieve netwerk, de telefonische bereikbaarheid en de wijze waarop de permanence wordt verzekerd;<br />4° de juridische vorm, datum van oprichting, werking en wijze van beslissing;<br />5° de duur van de overeenkomst, de opzeggings- en opnamemodaliteiten;<br />6° de regeling van eventuele geschillen tussen de partners;<br />7° de financiële afspraken;<br />8° de verzekeringen voor burgerlijke aansprakelijkheid van het netwerk, de burgerlijke aansprakelijkheid van elk personeelslid of elke vrijwilliger voor schade aangebracht aan het netwerk aan de hulpvrager of aan derden tijdens de uitvoering van de activiteiten;<br />9° het beschikbaar gestelde personeel en de wijze waarop dit personeel moet worden ingezet;<br />10° de doelstellingen rekening houdend met de in hoofdstuk IV van dit besluit opgenomen opdrachten.
+De overeenkomst wordt ter goedkeuring aan de secretaris-generaal voorgelegd en bevat ten minste de volgende gegevens:<br>
+1° de partners die de overeenkomst onderschrijven;<br>
+2° de door het palliatieve netwerk bereikte regio en het aantal inwoners ervan;<br>
+3° de administratieve zetel van het palliatieve netwerk, de telefonische bereikbaarheid en de wijze waarop de permanence wordt verzekerd;<br>
+4° de juridische vorm, datum van oprichting, werking en wijze van beslissing;<br>
+5° de duur van de overeenkomst, de opzeggings- en opnamemodaliteiten;<br>
+6° de regeling van eventuele geschillen tussen de partners;<br>
+7° de financiële afspraken;<br>
+8° de verzekeringen voor burgerlijke aansprakelijkheid van het netwerk, de burgerlijke aansprakelijkheid van elk personeelslid of elke vrijwilliger voor schade aangebracht aan het netwerk aan de hulpvrager of aan derden tijdens de uitvoering van de activiteiten;<br>
+9° het beschikbaar gestelde personeel en de wijze waarop dit personeel moet worden ingezet;<br>
+10° de doelstellingen rekening houdend met de in hoofdstuk IV van dit besluit opgenomen opdrachten.
 
 ## HOOFDSTUK IV OPDRACHTEN VAN HET PALLIATIEVE NETWERK
 
