@@ -29,7 +29,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 In dit besluit wordt verstaan onder:<br>
 1° actieve huisarts: een erkende huisarts die praktijk voert als huisarts in het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad;&nbsp;<br>
-2° agentschap: het Agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap “Zorg en Gezondheid”;<br>
+2° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 3° huisarts in opleiding: een arts die een theoretische en praktische opleiding tot de specialisatie huisarts volgt bij stagemeesters die daarvoor erkend zijn conform een goedgekeurd stageplan;<br>
 4° installatie: de datum vanaf wanneer de erkende huisarts deelneemt aan de medische permanentie conform artikel 21 van de wet van 22 april 2019 inzake de kwaliteitsvolle praktijkvoering in de gezondheidszorg;<br>
 5° startende huisarts: elke huisarts die zich voor de eerste keer installeert in een nieuwe of bestaande individuele praktijk of groepspraktijk op een van de volgende tijdstippen:<br>
@@ -40,7 +40,7 @@ b) binnen twee jaar na de terugkeer uit het buitenland, op voorwaarde dat de art
 
 ### ART 2.
 
-De aanvragen van een tegemoetkoming als vermeld in artikel 10, of een renteloze lening als vermeld in artikel 6 of 7, worden ingediend met een formulier dat of een webapplicatie die het agentschap daarvoor ter beschikking stelt op zijn website.<br>
+De aanvragen van een tegemoetkoming als vermeld in artikel 10, of een renteloze lening als vermeld in artikel 6 of 7, worden ingediend met een formulier dat of een webapplicatie die&nbsp;de administratie daarvoor ter beschikking stelt op zijn website.<br>
 <br>
 In het formulier of de webapplicatie, vermeld in het eerste lid, worden de volgende gegevens opgenomen:<br>
 1° de volgende identificatiegegevens van de aanvrager:<br>
@@ -82,15 +82,15 @@ Het formulier, vermeld in het eerste lid, wordt ondertekend door de aanvrager.&n
 <br>
 Als het een aanvraag betreft van een renteloze lening als vermeld in artikel 6, §1, eerste lid, of een bijkomende renteloze lening als vermeld in artikel 7, §1, eerste lid, en de aanvrager gehuwd is, wordt het formulier eveneens ondertekend door de partner van de aanvrager.<br>
 <br>
-Het agentschap is verwerkingsverantwoordelijke voor de verwerking van de persoonsgegevens in het kader van de verwerking en de opvolging van de aanvragen van een tegemoetkoming als vermeld in artikel 10, of een renteloze lening als vermeld in artikel 6 of 7.<br>
+De administratie&nbsp;is verwerkingsverantwoordelijke voor de verwerking van de persoonsgegevens in het kader van de verwerking en de opvolging van de aanvragen van een tegemoetkoming als vermeld in artikel 10, of een renteloze lening als vermeld in artikel 6 of 7.<br>
 <br>
 De persoonsgegevens, vermeld in het tweede lid, worden bewaard gedurende een termijn van maximaal 10 jaar, na de ontvangst van de ontvankelijke aanvraag.
 
 ### ART 3.
 
-§1. Het agentschap wijst, voor de verwerking en de opvolging van de aanvragen van een tegemoetkoming of een renteloze lening, vermeld in dit besluit, inclusief de uitbetaling aan de rechthebbenden, een of meer organisaties aan.<br>
+§1. De administratie wijst, voor de verwerking en de opvolging van de aanvragen van een tegemoetkoming of een renteloze lening, vermeld in dit besluit, inclusief de uitbetaling aan de rechthebbenden, een of meer organisaties aan.<br>
 <br>
-§2. De organisatie of organisaties die conform paragraaf 1 worden aangewezen, worden belast, voor rekening van het agentschap, met het dagelijks beheer van de tegemoetkomingen en de renteloze lening aan de individuele huisartsen en met de financierings- en controlemodaliteiten van dat dagelijks beheer.<br>
+§2. De organisatie of organisaties die conform paragraaf 1 worden aangewezen, worden belast, voor rekening van de administratie, met het dagelijks beheer van de tegemoetkomingen en de renteloze lening aan de individuele huisartsen en met de financierings- en controlemodaliteiten van dat dagelijks beheer.<br>
 <br>
 Het dagelijks beheer, vermeld in het eerste lid, omvat al de volgende aspecten:<br>
 1° de individuele kredietovereenkomsten beheren;<br>
@@ -98,7 +98,7 @@ Het dagelijks beheer, vermeld in het eerste lid, omvat al de volgende aspecten:<
 3° de terugbetalingen en de algemene opvolging van de kredieten, de fase van geschil daarin begrepen;<br>
 4° de individuele tegemoetkomingen aan de huisartsen verwerken en opvolgen en die individuele tegemoetkomingen beheren.<br>
 <br>
-De organisatie of organisaties die conform paragraaf 1 worden aangewezen, rapporteren maandelijks inhoudelijk en financieel over het dagelijks beheer, vermeld in het eerste en tweede lid, via de maandelijkse boekingsstaten. Om het dagelijks beheer op te volgen legt de voormelde organisatie of leggen de voormelde organisaties per kwartaal een gedetailleerde kostenstaat en kwartaalconciliatie voor over hun financiële werking van dat dagelijks beheer ter goedkeuring aan het agentschap.<br>
+De organisatie of organisaties die conform paragraaf 1 worden aangewezen, rapporteren maandelijks inhoudelijk en financieel over het dagelijks beheer, vermeld in het eerste en tweede lid, via de maandelijkse boekingsstaten. Om het dagelijks beheer op te volgen legt de voormelde organisatie of leggen de voormelde organisaties per kwartaal een gedetailleerde kostenstaat en kwartaalconciliatie voor over hun financiële werking van dat dagelijks beheer ter goedkeuring aan de administratie.<br>
 <br>
 De individuele kredietovereenkomst, vermeld in het tweede lid, 1°, bevat al de volgende informatie:<br>
 1° het bedrag van de lening;<br>
@@ -112,7 +112,7 @@ De individuele kredietovereenkomst, vermeld in het tweede lid, 1°, bevat al de 
 <br>
 De kwartaalconciliatie, vermeld in het derde lid, bevat een verklaring voor alle verrichtingen op de financiële rekening van de Vlaamse Gemeenschap voor de tegemoetkomingen of renteloze leningen, vermeld in dit besluit, waar de organisatie of organisaties die conform paragraaf 1 worden aangewezen, het beheer over hebben.<br>
 <br>
-§3. De organisatie of organisaties die conform paragraaf 1 worden aangewezen bezorgen jaarlijks voor het einde van de derde maand die volgt op het afsluiten van een boekjaar, een inhoudelijk en financieel jaarverslag aan het agentschap.<br>
+§3. De organisatie of organisaties die conform paragraaf 1 worden aangewezen bezorgen jaarlijks voor het einde van de derde maand die volgt op het afsluiten van een boekjaar, een inhoudelijk en financieel jaarverslag aan de administratie.<br>
 <br>
 Het inhoudelijk jaarverslag, vermeld in het eerste lid, bevat al de volgende elementen:<br>
 1° een overzicht van het aantal artsen dat een renteloze lening als vermeld in artikel 6, en een bijkomende renteloze lening als vermeld in artikel 7, heeft aangevraagd;<br>
@@ -126,25 +126,25 @@ De gegevens, vermeld in het tweede lid, 1° tot en met 3°, worden onderverdeeld
 <br>
 Het financieel verslag, vermeld in het eerste lid, wordt bezorgd in de vorm van een kostenanalytische boekhouding.<br>
 <br>
-De organisatie of organisaties die conform paragraaf 1 worden aangewezen, houden de bewijsstukken die de werkelijk gemaakte kosten aantonen, ter beschikking van het agentschap. Die bewijsstukken worden op verzoek aan het agentschap voorgelegd.
+De organisatie of organisaties die conform paragraaf 1 worden aangewezen, houden de bewijsstukken die de werkelijk gemaakte kosten aantonen, ter beschikking van de administratie. Die bewijsstukken worden op verzoek aan de administratie voorgelegd.
 
 ### ART 4.
 
-§1. Elke huisarts die in het kader van dit besluit tegemoetkomingen ontvangt, is verplicht om jaarlijks, voor 31 mei, aan het agentschap al de volgende gegevens te bezorgen:<br>
+§1. Elke huisarts die in het kader van dit besluit tegemoetkomingen ontvangt, is verplicht om jaarlijks, voor 31 mei, aan&nbsp;de administratie al de volgende gegevens te bezorgen:<br>
 1° het beroepsadres van de praktijk;<br>
 2° de samenstelling van de praktijk met een overzicht van alle aanwezige disciplines;<br>
 3° per aanwezige discipline de aanduiding van het tewerkstellingsstatuut;<br>
 4° het gehanteerde financieringssysteem.<br>
 <br>
-De persoonsgegevens, vermeld in het eerste lid, worden door het agentschap bewaard gedurende een termijn van maximaal 18 maanden na de ontvangst van de gegevens.<br>
+De persoonsgegevens, vermeld in het eerste lid, worden door&nbsp;de administratie bewaard gedurende een termijn van maximaal 18 maanden na de ontvangst van de gegevens.<br>
 <br>
-§2. De Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, bepaalt de technische modaliteiten van de wijze waarop de gegevens, vermeld in paragraaf 1, in samenwerking met de huisartsenkringen, aan het agentschap worden bezorgd.<br>
+§2. De Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, bepaalt de technische modaliteiten van de wijze waarop de gegevens, vermeld in paragraaf 1, in samenwerking met de huisartsenkringen, aan&nbsp;de administratie worden bezorgd.<br>
 <br>
 De Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, kan gegevens toevoegen aan de lijst, vermeld in paragraaf 1.
 
 ### ART 5.
 
-Het agentschap evalueert binnen zes jaar na het in voege treden van dit besluit het effect van de ondersteuningsmaatregelen, vermeld in dit besluit. De Vlaamse Regering wordt op de hoogte gebracht van de resultaten van de voormelde evaluatie en van de eventuele voorstellen tot wijziging van dit besluit.
+de administratie&nbsp;evalueert binnen zes jaar na het in voege treden van dit besluit het effect van de ondersteuningsmaatregelen, vermeld in dit besluit. De Vlaamse Regering wordt op de hoogte gebracht van de resultaten van de voormelde evaluatie en van de eventuele voorstellen tot wijziging van dit besluit.
 
 ## Hoofdstuk 3. Renteloze lening
 
@@ -181,12 +181,12 @@ Als een huisarts in opleiding zich niet installeert in het Nederlandse taalgebie
 ### ART 9.
 
 Bij de aanvraag van een renteloze lening als vermeld in artikel 6, §1, eerste lid, van dit besluit, en bij de aanvraag van een bijkomende renteloze lening als vermeld in artikel 7, §1, eerste lid, van dit besluit, worden de volgende bewijsstukken gevoegd:<br>
-1° voor de renteloze lening, vermeld in artikel 6, §1, eerste lid, van dit besluit, worden de volgende bewijsstukken aan het agentschap bezorgd:<br>
+1° voor de renteloze lening, vermeld in artikel 6, §1, eerste lid, van dit besluit, worden de volgende bewijsstukken aan&nbsp;de administratie bezorgd:<br>
 a) de gegevens van de huisartsenpraktijk, vermeld in artikel 4, §1, van dit besluit;<br>
-b) een omschrijving van de kosten die verbonden zijn aan de installatie van de huisarts. Die omschrijving wordt gestaafd met bewijsstukken die de huisarts ter beschikking houdt en die kunnen worden opgevraagd door het agentschap;<br>
+b) een omschrijving van de kosten die verbonden zijn aan de installatie van de huisarts. Die omschrijving wordt gestaafd met bewijsstukken die de huisarts ter beschikking houdt en die kunnen worden opgevraagd door de administratie;<br>
 c) een bewijs van toetreding tot de huisartsenkring die de huisartsenzone waar de betrokken huisarts praktijk voert, als werkgebied heeft, inclusief een verklaring van de huisartsenkring dat de aanvragende arts effectief praktijk voert;<br>
 d) een bewijs van de deelname van de betrokken huisarts aan de medische permanentie, vermeld in artikel 21 van de wet van 22 april 2019 inzake de kwaliteitsvolle praktijkvoering in de gezondheidszorg, waarop de startdatum van de deelname aan die medische permanentie vermeld wordt;<br>
-2° voor de bijkomende renteloze lening, vermeld in artikel 7, §1, eerste lid, van dit besluit, worden de volgende bewijsstukken aan het agentschap bezorgd:<br>
+2° voor de bijkomende renteloze lening, vermeld in artikel 7, §1, eerste lid, van dit besluit, worden de volgende bewijsstukken aan&nbsp;de administratie bezorgd:<br>
 a) de gegevens van de huisartsenpraktijk, vermeld in artikel 4, §1, van dit besluit;<br>
 b) een bewijs van toetreding tot de huisartsenkring die de huisartsenzone waar de betrokken huisarts praktijk voert, als werkgebied heeft, inclusief een verklaring van de huisartsenkring dat de aanvragende arts effectief praktijk voert;<br>
 c) het arbeidscontract dat is gesloten tussen de betreffende praktijk en een praktijkondersteuner of een praktijkverpleegkundige;<br>
