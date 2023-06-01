@@ -362,7 +362,7 @@ Om erkend te blijven of opnieuw erkend te worden, moet de trefgroep   :<BR>1° v
 
 ### ART. 49.
 
-<P>De controle ter plaatse wordt, overeenkomstig artikel 26 van het decreet van   20 januari 2012, uitgevoerd door de personeelsleden van Zorginspectie van het   Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde   lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het   Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding   van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn,   Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met   betrekking tot dat beleidsdomein. De voormelde personeelsleden hebben daarvoor   toegang tot de boekhouding en tot alle relevante documenten.</P>
+<p>De controle ter plaatse wordt, overeenkomstig artikel 26 van het decreet van 20 januari 2012, uitgevoerd door de personeelsleden van Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg. De voormelde personeelsleden hebben daarvoor toegang tot de boekhouding en tot alle relevante documenten.</p>
 
 ### ART. 50.
 
