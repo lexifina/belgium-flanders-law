@@ -2,16 +2,16 @@
   "codex_id": 1038792,
   "title": "Besluit van de Vlaamse Regering van 2023-08-31 tot wijziging van het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers, wat betreft de invoering van een subsidiemechanisme voor personeelsleden die aangeworven worden door de diensten voor gezinszorg in het kader van het structureel instroomkanaal voor de zorg- en welzijnssectoren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038792/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "68a798874782f0f1f13e745925d1e3a00ea0ad9fc993af19d1b90ee21f7123c7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038792/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "594c9013fa694876d2584f4c0738f6b71d6b4bfe73ddebed50259e5e2bdb3c3d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038792&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2023-06-01",
   "made": "2023-08-31",
   "gazette": "2023-10-12",
   "numac": 2023045486,
   "document_start": null,
   "document_end": null,
-  "in_force": "2023-01-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2023-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }

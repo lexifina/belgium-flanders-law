@@ -40,6 +40,10 @@ De subsidie die berekend wordt conform het eerste en tweede lid, wordt aan de di
 <br>
 §4. Voor de verdeling van de subsidies, vermeld in artikel 58 tot en met 61 en in artikel 64 van deze bijlage, worden zijinstromers gelijkgesteld met verzorgende personeelsleden.”.
 
+### ART 3.
+
+In artikel 65/1, §3, van bijlage 2 bij hetzelfde besluit, ingevoegd bij artikel 2, worden de woorden “het agentschap” vervangen door de woorden “de administratie”.
+
 ### ART 4.
 
 In artikel 69, eerste lid, van bijlage 2 bij hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 11 februari 2022, wordt tussen de zinsnede “artikel 52, eerste en derde lid,” en de woorden “van deze bijlage” de zinsnede “en artikel 65/1, §2, tweede lid,” ingevoegd.
