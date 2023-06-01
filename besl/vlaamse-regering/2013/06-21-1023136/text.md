@@ -8,7 +8,14 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <BR>1° administratie: de functioneel   bevoegde afdeling van het Departement Welzijn, Volksgezondheid en Gezin van het   Vlaams Ministerie van Welzijn, Volksgezondheid en Gezin of Zorginspectie van het   voormelde departement, vermeld in artikel 3, § 2, derde lid, van het besluit van   de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn,   Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot   oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en   Gezin en betreffende de wijziging van regelgeving met betrekking tot dat   beleidsdomein;<BR>2° beleidsplan : een dynamisch en flexibel instrument waarin   een centrum zijn visie weergeeft met betrekking tot zijn organisatieontwikkeling   en geïntegreerde werking, de aangeboden hulp- en dienstverlening, de   samenwerkingsverbanden met andere actoren en de rol die het centrum opneemt in   de zorgnetwerken;<BR>3° centrum : overeenkomstig artikel 2, 2°, van het decreet   van 8 mei 2009, een centrum voor algemeen welzijnswerk of een centrum voor   teleonthaal;<BR>4° decreet van 8 mei 2009 : het decreet van 8 mei 2009   betreffende het algemeen welzijnswerk;<BR>5° minister : de Vlaamse minister,   bevoegd voor de bijstand aan personen;<BR>6° secretaris-generaal : het   personeelslid dat belast is met de leiding van het Departement Welzijn,   Volksgezondheid en Gezin;<BR>7° werkgebied : een geografisch gebied waarbinnen   een centrum zijn activiteiten ontplooit.
+In dit besluit wordt verstaan onder :<br>
+1° administratie: de functioneel bevoegde afdeling van het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg, of Zorginspectie departement als vermeld in artikel 4, §2, derde lid, van het voormelde besluit;<br>
+2° beleidsplan : een dynamisch en flexibel instrument waarin een centrum zijn visie weergeeft met betrekking tot zijn organisatieontwikkeling en geïntegreerde werking, de aangeboden hulp- en dienstverlening, de samenwerkingsverbanden met andere actoren en de rol die het centrum opneemt in de zorgnetwerken;<br>
+3° centrum : overeenkomstig artikel 2, 2°, van het decreet van 8 mei 2009, een centrum voor algemeen welzijnswerk of een centrum voor teleonthaal;<br>
+4° decreet van 8 mei 2009 : het decreet van 8 mei 2009 betreffende het algemeen welzijnswerk;<br>
+5° minister : de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
+6° secretaris-generaal : het hoofd van de administratie;<br>
+7° werkgebied : een geografisch gebied waarbinnen een centrum zijn activiteiten ontplooit.
 
 ## HOOFDSTUK 2. De erkenning van centra
 
