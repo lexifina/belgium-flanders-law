@@ -15,12 +15,12 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° agentschap: het intern verzelfstandigd agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+1° ...;<br>
 2° besluit van 24 juli 2009: het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers;<br>
 3° verblijfseenheden: de verblijfseenheden bijkomende erkenning voor de opvang van zorgafhankelijke personen van een dagverzorgingscentrum als vermeld in hoofdstuk III/1 van bijlage IX bij het besluit van 24 juli 2009;<br>
 4° dekkingsgraad voor zware zorgprofielen: het aantal verblijfseenheden op 1 januari 2019, gedeeld door het gemiddelde aantal gerechtigden in de referentieperiode;<br>
 5° dagverzorgingscentrum: een dagverzorgingscentrum niet-conform artikel 51 van bijlage IX bij het besluit van 24 juli 2009;<br>
-6° gemiddeld aantal gerechtigden: het totale aantal gefactureerde aanwezigheidsdagen van de gebruikers in zorgafhankelijkheidscategorie F, Fd en D tijdens de referentieperiode, zoals ingediend bij het agentschap voor het werkingsjaar 2017 conform artikel 2 van het ministerieel besluit van 22 april 2015 tot vaststelling van de subsidiëringswijze van de dagverzorgingscentra, gedeeld door 250;<br>
+6° gemiddeld aantal gerechtigden: het totale aantal gefactureerde aanwezigheidsdagen van de gebruikers in zorgafhankelijkheidscategorie F, Fd en D tijdens de referentieperiode, zoals ingediend bij de administratie voor het werkingsjaar 2017 conform artikel 2 van het ministerieel besluit van 22 april 2015 tot vaststelling van de subsidiëringswijze van de dagverzorgingscentra, gedeeld door 250;<br>
 7° referentieperiode: de periode die loopt van 1 januari 2017 tot en met 31 december 2017;<br>
 8° werkdag: een dag in de week die niet valt op een zaterdag, een zondag, een wettelijke feestdag of in de periode van 25 december tot en met 1 januari.
 
@@ -74,7 +74,7 @@ De volgende dagverzorgingscentra komen niet in aanmerking voor de toekenning con
 
 ### ART 10.
 
-Het agentschap mailt het voorstel dat is berekend conform artikel 6 naar de initiatiefnemer. De initiatiefnemer dient de erkenningsaanvraag in binnen veertien werkdagen na de dag waarop hij het voorstel heeft ontvangen. Door de erkenningsaanvraag in te dienen, bevestigt de initiatiefnemer dat hij het voorstel aanvaardt.
+De administratie mailt het voorstel dat is berekend conform artikel 6 naar de initiatiefnemer. De initiatiefnemer dient de erkenningsaanvraag in binnen veertien werkdagen na de dag waarop hij het voorstel heeft ontvangen. Door de erkenningsaanvraag in te dienen, bevestigt de initiatiefnemer dat hij het voorstel aanvaardt.
 
 ### ART 11.
 
