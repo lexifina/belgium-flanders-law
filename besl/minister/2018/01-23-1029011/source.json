@@ -2,16 +2,16 @@
   "codex_id": 1029011,
   "title": "Ministerieel besluit van 2018-01-23 tot goedkeuring van het Bello ZonR-toestel als alternatieve beheersmaatregel in het kader van het Legionellabesluit",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029011/VolledigDocument?datum=2018-02-15",
-  "source_sha256": "e5c8a4db5742ed250eff905be09a0627fcf6a3461dd7cb82053011f0e35b51e1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029011/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "c743a13979f84e587c5dba6bb46c9f357489bebd26b8f9ff66a2d6c13699fa1b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029011&param=informatie",
-  "as_of": "2018-02-15",
+  "as_of": "2023-06-01",
   "made": "2018-01-23",
   "gazette": "2018-02-14",
   "numac": 2018030359,
   "document_start": "2018-02-15",
   "document_end": null,
-  "in_force": "2018-02-15",
+  "in_force": "2023-06-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2018-02-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
