@@ -10100,6 +10100,8 @@ De toelage aan PoPoK (Posthogeschool voor Podiumkunsten) wordt voor de begroting
 <br>
 De bedragen, vermeld in deze paragraaf, worden binnen de perken van de begroting van de Vlaamse Gemeenschap vanaf het begrotingsjaar 2022 jaarlijks geïndexeerd aan de hand van de indexeringsformule, vermeld in artikel III.5, § 9.<br>
 <br>
+Aan PoPoK wordt voor het begrotingsjaar 2023 een bijkomend transitiebudget van 60.000 euro voor een transitie- en onderzoekscoördinator en 25.000 euro aan werkingsmiddelen toegekend om de gesprekken en onderhandelingen met betrekking tot structurele, inhoudelijke en financiële samenwerkingen verder te zetten, en tegelijkertijd met deze transitie de programma’s van de huidige studenten te bestendigen.<br>
+<br>
 §2. De in paragraaf 1 bedoelde hogere instituten voor schone kunsten worden opgericht met als doel posthogeschoolvormingen te organiseren inzake de opleidingen van de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten. De posthogeschoolvorming wordt bekrachtigd met de titel van 'Laureaat van het Hoger Instituut voor Schone Kunsten'. Deze laureaatsvorming heeft tot doel aan afgestudeerden uit de betrokken sectoren en aan jonge kunstenaars de mogelijkheid te bieden hun artistiek talent verder te ontplooien. Deze instituten worden beheerd door een vereniging zonder winstgevend doel die met betrekking tot de posthogeschoolvorming optreedt als overkoepelende instantie voor alle hogescholen die een opleiding in de betrokken sectoren organiseren.<br>
 <br>
 De in paragraaf 1 bedoelde andere instellingen zijn instellingen die excellente hogere kunstopleidingen organiseren, doch krachtens artikel II.3 niet als hogescholen kunnen beschouwd worden.<br>
