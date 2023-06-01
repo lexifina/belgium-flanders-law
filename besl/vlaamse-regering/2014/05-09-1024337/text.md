@@ -26,7 +26,7 @@
 8° subsidie: een of meer van de subsidies, vermeld in artikel 1, 1°, 14°, 14° /1, 16°, 17°, 17° /1 en 18°, van het Subsidiebesluit van 22 november 2013;<br>
 9° technische commissie: de technische commissie voor de brandveiligheid, vermeld in het besluit van de Vlaamse Regering van 5 juni 2009 tot oprichting van een technische commissie voor de brandveiligheid in de voorzieningen van Welzijn, Volksgezondheid en Gezin;<br>
 10° verslag over de infrastructuur: een verslag over de infrastructuur als vermeld in artikel 3 van het Vergunningsbesluit van 22 november 2013;<br>
-11° Zorginspectie: Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.</p>
+11° Zorginspectie: Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.</p>
 
 <p>Dit besluit wordt aangehaald als: Procedurebesluit van 9 mei 2014.</p>
 
