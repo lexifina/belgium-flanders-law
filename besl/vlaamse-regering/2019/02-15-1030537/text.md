@@ -27,13 +27,13 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° administratie: de functioneel bevoegde afdeling van het departement WVG of van Zorginspectie, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaams Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein;<br>
+1° administratie: de functioneel bevoegde afdeling van het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg, of Zorginspectie als vermeld in artikel 4, §2, derde lid, van het voormelde besluit;<br>
 2° caseload: het aantal vooropgestelde op te nemen aanvragen voor herstelbemiddeling voor een werkingsjaar;<br>
 3° daders: de verdachten, in verdenking gestelde personen, beklaagden, veroordeelden en geïnterneerden;<br>
-4° departement WVG: het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 23 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+4° departement: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorge;<br>
 5° initiatiefnemer: een lokaal bestuur of een vereniging met rechtspersoonlijkheid die rechtstreeks noch onrechtstreeks enig vermogensvoordeel mag uitkeren of bezorgen behalve voor het in de statuten bepaalde belangeloze doel;<br>
 6° minister: de Vlaamse minister, bevoegd voor bijstand aan personen;<br>
-7° secretaris-generaal: de leidend ambtenaar van het departement WVG;<br>
+7° secretaris-generaal: het hoofd van het departement;<br>
 8° wet van 16 mei 2003: de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.
 
 ## HOOFDSTUK 2. Subsidiëring van herstelbemiddeling

@@ -2,16 +2,16 @@
   "codex_id": 1030537,
   "title": "Besluit van de Vlaamse Regering van 2019-02-15 houdende de subsidiëring van initiatieven die voorzien in een herstelgericht en constructief hulp- en dienstverleningsaanbod voor verdachten, in verdenking gestelde personen, beklaagden, veroordeelden of geïnterneerden, en voor slachtoffers van misdrijven, alsook voor hun onmiddellijke omgeving, dat niet wordt verstrekt ter uitvoering van een beslissing van een gerechtelijke of administratieve overheid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030537/VolledigDocument?datum=2019-04-21",
-  "source_sha256": "a1de6ca7a6404db68fa0002f7a7f7d32a38f5265b6538d857e41d205d24597e2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030537/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "05cc19e9a65c3bdd61958495739ee9cf7ba8d1a238c871e35b8eaa9dcdaca5ca",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030537&param=informatie",
-  "as_of": "2019-04-21",
+  "as_of": "2023-06-01",
   "made": "2019-02-15",
   "gazette": "2019-04-11",
   "numac": 2019011520,
   "document_start": "2019-04-21",
   "document_end": null,
-  "in_force": "2019-04-21",
+  "in_force": "2023-06-01",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2019-04-21; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
