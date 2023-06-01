@@ -2,16 +2,16 @@
   "codex_id": 1032609,
   "title": "Besluit van de Vlaamse Regering van 2019-12-13 tot uitvoering van het decreet van 29 maart 2019 tot oprichting van het Begeleidend Comité voor de opvolging van de monitoring van personeelsgegevens in het kader van de Vlaamse Intersectorale Akkoorden voor de social/non-profitsectoren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032609/VolledigDocument?datum=2020-03-01",
-  "source_sha256": "556fd388abde0823d3821998bd514ab579ae24f7e0ddfdb8cddd44696fbae1be",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032609/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "7ba5d5dff5a5fcbef68087754954aa3a2bd7472e14e660a56ad825f958522b4a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032609&param=informatie",
-  "as_of": "2020-03-01",
+  "as_of": "2023-06-01",
   "made": "2019-12-13",
   "gazette": "2020-01-27",
   "numac": 2020040088,
   "document_start": "2020-03-01",
   "document_end": null,
-  "in_force": "2020-03-01",
+  "in_force": "2023-06-01",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2020-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }

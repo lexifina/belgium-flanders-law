@@ -33,7 +33,7 @@ In dit besluit wordt verstaan onder:<br>
 1° algemene verordening gegevensbescherming: de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
 2° Begeleidend Comité: het Begeleidend Comité, vermeld in artikel 3 van het decreet van 29 maart 2019;<br>
 3° decreet van 29 maart 2019: het decreet van 29 maart 2019 tot oprichting van het Begeleidend Comité voor de opvolging van de monitoring van personeelsgegevens in het kader van de Vlaamse Intersectorale Akkoorden voor de social/non-profitsectoren;<br>
-4° Departement Welzijn, Volksgezondheid en Gezin: het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 1, eerste lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein;<br>
+4° Departement Zorg: het departement, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
 5° personeelsgegevens: personeelsgegevens, als vermeld in artikel 2, 2°, van het decreet van 29 maart 2019;<br>
 6° producten: producten, als vermeld in artikel 2, 3°, van het decreet van 29 maart 2019.
 
@@ -143,9 +143,9 @@ De Vlaamse Regering wijst de voorzitter van het Begeleidend Comité aan.<br>
 <br>
 De voorzitter van het Begeleidend Comité is niet stemgerechtigd.<br>
 <br>
-Het secretariaat van het Begeleidend Comité wordt waargenomen door het Departement Welzijn, Volksgezondheid en Gezin, en staat in voor de administratieve en logistieke ondersteuning van het Begeleidend Comité.<br>
+Het secretariaat van het Begeleidend Comité wordt waargenomen door het Departement Zorg, en staat in voor de administratieve en logistieke ondersteuning van het Begeleidend Comité.<br>
 <br>
-Het Departement Welzijn, Volksgezondheid en Gezin wijst een van zijn personeelsleden aan als secretaris van het Begeleidend Comité. De secretaris vertegenwoordigt de Vlaamse administratie en neemt deel aan de vergaderingen van het Begeleidend Comité, maar is niet stemgerechtigd. De secretaris vervangt de voorzitter bij afwezigheid van de voorzitter.<br>
+Het Departement Zorg wijst een van zijn personeelsleden aan als secretaris van het Begeleidend Comité. De secretaris vertegenwoordigt de Vlaamse administratie en neemt deel aan de vergaderingen van het Begeleidend Comité, maar is niet stemgerechtigd. De secretaris vervangt de voorzitter bij afwezigheid van de voorzitter.<br>
 <br>
 De vergaderingen kunnen door derden worden bijgewoond. Die personen zijn niet stemgerechtigd.
 
@@ -180,7 +180,7 @@ Het Begeleidend Comité stelt een huishoudelijk reglement op. Het huishoudelijk 
 
 De werkingskosten van het Begeleidend Comité, inclusief de kosten die betrekking hebben op de ontwikkeling van de producten, zijn ten laste van de begroting van de Vlaamse Gemeenschap en het Vlaamse Gewest.<br>
 <br>
-Het Begeleidend Comité stelt jaarlijks een financieel verslag op volgens het model dat het Departement Welzijn, Volksgezondheid en Gezin bepaalt, met de verantwoording voor de gemaakte werkingskosten.
+Het Begeleidend Comité stelt jaarlijks een financieel verslag op volgens het model dat het Departement Zorg bepaalt, met de verantwoording voor de gemaakte werkingskosten.
 
 ## HOOFDSTUK 5. Wijzigingsbepaling
 
