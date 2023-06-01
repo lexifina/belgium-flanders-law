@@ -126,7 +126,7 @@ Bij de stemming worden onthoudingen niet in aanmerking genomen om de vereiste me
 
 ### ART. 10.
 
-<p>De kamer hoort de indiener van het bezwaar als die daarom in zijn bezwaarschrift heeft verzocht, of op eigen initiatief. Ze hoort ook de bevoegde entiteit.&nbsp;De kamer voor welzijnsvoorzieningen en de kamer voor gezondheidsvoorzieningen kunnen op eigen initiatief of op verzoek van de indiener van het bezwaar of van de bevoegde entiteit Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein, horen.</p>
+<p>De kamer hoort de indiener van het bezwaar als die daarom in zijn bezwaarschrift heeft verzocht, of op eigen initiatief. Ze hoort ook de bevoegde entiteit.&nbsp;De kamer voor welzijnsvoorzieningen en de kamer voor gezondheidsvoorzieningen kunnen op eigen initiatief of op verzoek van de indiener van het bezwaar of van de bevoegde entiteit Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg, horen.</p>
 
 <p>De uitnodiging daarvoor wordt uiterlijk de achtste dag voor de vergadering per aangetekende brief verstuurd aan de indiener van het bezwaar en met de gewone of elektronische post aan de bevoegde entiteit en aan Zorginspectie, vermeld in het eerste lid, als Zorginspectie moet worden gehoord.</p>
 

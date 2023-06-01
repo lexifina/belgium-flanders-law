@@ -2,16 +2,16 @@
   "codex_id": 1023224,
   "title": "Besluit van de Vlaamse Regering van 2013-07-12 betreffende de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023224/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "b734563c09e6e51744ec013f9795b49974d0e337a98d5bfba12dac6ab0d7363d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023224/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "a7e8d5d573c34febcdf7a7f21eed28e70de09361317eb83eb297b29107145595",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023224&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2023-06-01",
   "made": "2013-07-12",
   "gazette": "2013-09-06",
   "numac": 2013204387,
   "document_start": "2014-01-01",
   "document_end": null,
-  "in_force": "2023-01-01",
+  "in_force": "2023-06-01",
   "article_versions": 93,
-  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
