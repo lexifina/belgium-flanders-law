@@ -8,7 +8,13 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° administrateur-generaal: de   leidend ambtenaar van het agentschap;<BR>2° adviescommissie: de Adviescommissie   voor Voorzieningen van Welzijn, Volksgezondheid en Gezin, vermeld in artikel 12   van het decreet van 7 december 2007 houdende de oprichting van de Strategische   Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van de   Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers;<BR>3° agentschap: het Vlaams Agentschap Zorg en   Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot   oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<BR>4°   beheersinstantie: de persoon of de personen die een partnerorganisatie   vertegenwoordigen en die de partnerorganisatie in kwestie juridisch kan of   kunnen binden;<BR>5° minister: de Vlaamse minister, bevoegd voor de bijstand aan   personen, en de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<BR>6°   partnerorganisatie: een rechtspersoon die deskundig is in een bepaald segment   van de woonzorg.<BR>
+In dit besluit wordt verstaan onder:<br>
+1° administrateur-generaal: de leidend ambtenaar van het agentschap;<br>
+2° adviescommissie: de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin, vermeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers;<br>
+3° agentschap: het Vlaams Agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
+4° beheersinstantie: de persoon of de personen die een partnerorganisatie vertegenwoordigen en die de partnerorganisatie in kwestie juridisch kan of kunnen binden;<br>
+5° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
+6° partnerorganisatie: een rechtspersoon die deskundig is in een bepaald segment van de woonzorg.
 
 ## HOOFDSTUK 2 Programmatie
 
@@ -38,7 +44,19 @@ De partnerorganisatie stelt daarvoor een actieplan op waarin ze haar   werking e
 
 ### ART. 7.
 
-<P>Een partnerorganisatie kan worden erkend als de beheersinstantie aangetekend   of tegen ontvangstbewijs bij het agentschap een aanvraag tot erkenning   indient.<BR></P>  <P>De erkenningsaanvraag bevat minstens de volgende gegevens:<BR>1° een   aanvraagformulier dat door het agentschap ter beschikking gesteld wordt en de   volgende gegevens bevat:<BR>a) de naam en het adres van de beheersinstantie en   de contactgegevens;<BR>b) de naam en het adres van de partnerorganisatie;<BR>c)   de beoogde soort erkenning van de partnerorganisatie, de doelgroep, de   activiteiten en de resultaatsgebieden;<BR>d) als dat van toepassing is, de regio   en het werkgebied van de partnerorganisatie;<BR>2° als de partnerorganisatie een   rechtspersoon is, met uitzondering van openbare besturen: de statuten van de   partnerorganisatie en de eventuele wijzigingen ervan;<BR>3° de rechtsgeldige   beslissing van de bevoegde beheersinstantie om de erkenning aan te vragen;<BR>4°   de missie of visie van de partnerorganisatie;<BR>5° de organisatiestructuur, een   organogram met bevoegdheden en verantwoordelijkheden van de   partnerorganisatie;<BR>6° een nominatieve lijst van alle medewerkers, met   vermelding van hun wekelijkse arbeidsduur en kwalificatie, geordend per   functie.<BR></P>
+<p>Een partnerorganisatie kan worden erkend als de beheersinstantie aangetekend of tegen ontvangstbewijs bij de administratie een aanvraag tot erkenning indient.</p>
+
+<p>De erkenningsaanvraag bevat minstens de volgende gegevens:<br>
+1° een aanvraagformulier dat door de administratie ter beschikking gesteld wordt en de volgende gegevens bevat:<br>
+a) de naam en het adres van de beheersinstantie en de contactgegevens;<br>
+b) de naam en het adres van de partnerorganisatie;<br>
+c) de beoogde soort erkenning van de partnerorganisatie, de doelgroep, de activiteiten en de resultaatsgebieden;<br>
+d) als dat van toepassing is, de regio en het werkgebied van de partnerorganisatie;<br>
+2° als de partnerorganisatie een rechtspersoon is, met uitzondering van openbare besturen: de statuten van de partnerorganisatie en de eventuele wijzigingen ervan;<br>
+3° de rechtsgeldige beslissing van de bevoegde beheersinstantie om de erkenning aan te vragen;<br>
+4° de missie of visie van de partnerorganisatie;<br>
+5° de organisatiestructuur, een organogram met bevoegdheden en verantwoordelijkheden van de partnerorganisatie;<br>
+6° een nominatieve lijst van alle medewerkers, met vermelding van hun wekelijkse arbeidsduur en kwalificatie, geordend per functie.</p>
 
 ### ART. 8.
 
@@ -46,27 +64,52 @@ De partnerorganisatie stelt daarvoor een actieplan op waarin ze haar   werking e
 
 ### ART. 9.
 
-<P>De beslissing van de administrateur-generaal waarin de erkenning wordt   verleend aan de partnerorganisatie, wordt binnen een termijn van vier maanden na   de ontvangst van de ontvankelijke aanvraag aan de beheersinstantie   bezorgd.<BR></P>  <P>De erkenningsbeslissing bevat minstens de volgende gegevens:<BR>1° de naam en   het adres van de beheersinstantie;<BR>2° de naam en het adres van de   partnerorganisatie;<BR>3° het erkenningsnummer;<BR>4° de ingangsdatum van de   erkenning;<BR>5° de soort erkenning als partnerorganisatie;<BR>6° als dat van   toepassing is, de regio en het werkgebied van de   partnerorganisatie.<BR></P>
+<p>De beslissing van de secretaris-generaal waarin de erkenning wordt verleend aan de partnerorganisatie, wordt binnen een termijn van vier maanden na de ontvangst van de ontvankelijke aanvraag aan de beheersinstantie bezorgd.</p>
+
+<p>De erkenningsbeslissing bevat minstens de volgende gegevens:<br>
+1° de naam en het adres van de beheersinstantie;<br>
+2° de naam en het adres van de partnerorganisatie;<br>
+3° het erkenningsnummer;<br>
+4° de ingangsdatum van de erkenning;<br>
+5° de soort erkenning als partnerorganisatie;<br>
+6° als dat van toepassing is, de regio en het werkgebied van de partnerorganisatie.</p>
 
 ### ART. 10.
 
-<P>De beheersinstantie wordt binnen een termijn van vier maanden na de ontvangst   van de ontvankelijke aanvraag aangetekend met kennisgeving van ontvangst op de   hoogte gebracht van het voornemen tot weigering van een erkenning.<BR></P>  <P>De mededeling van de beslissing, vermeld in het eerste lid, vermeldt ook de   informatie over de mogelijkheid, de voorwaarden en de procedure om een   gemotiveerd bezwaarschrift in te dienen bij het agentschap. Het bezwaarschrift   wordt behandeld volgens de regels die zijn vastgesteld bij of ter uitvoering van   hoofdstuk III van het decreet van 7 december 2007 houdende oprichting van de   Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid   en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en   Gezin en (Kandidaat-)pleegzorgers.<BR></P>
+<p>De beheersinstantie wordt binnen een termijn van vier maanden na de ontvangst van de ontvankelijke aanvraag aangetekend met kennisgeving van ontvangst op de hoogte gebracht van het voornemen tot weigering van een erkenning.</p>
+
+<p>De mededeling van de beslissing, vermeld in het eerste lid, vermeldt ook de informatie over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen bij de administratie. Het bezwaarschrift wordt behandeld volgens de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.</p>
 
 ### ART. 11.
 
-Als de beheersinstantie geen bezwaarschrift indient binnen een maand na de   ontvangst van de aangetekende zending, vermeld in artikel 10, wordt na het   verstrijken van die termijn het voornemen van de administrateur-generaal van   rechtswege geacht een weigeringsbeslissing te zijn. Het agentschap brengt de   beheersinstantie daarvan aangetekend met kennisgeving van ontvangst op de hoogte   binnen één maand na het verstrijken van die termijn.<BR>
+Als de beheersinstantie geen bezwaarschrift indient binnen een maand na de ontvangst van de aangetekende zending, vermeld in artikel 10, wordt na het verstrijken van die termijn het voornemen van de secretaris-generaal van rechtswege geacht een weigeringsbeslissing te zijn. De administratie brengt de beheersinstantie daarvan aangetekend met kennisgeving van ontvangst op de hoogte binnen één maand na het verstrijken van die termijn.
 
 ## HOOFDSTUK 5 Procedure voor de wijziging van de erkenning op verzoek van de partnerorganisatie
 
 ### ART. 12.
 
-<P>De beheersinstantie dient bij het agentschap aangetekend of tegen   ontvangstbewijs een aanvraag tot wijziging van de erkenning in als ze de   volgende gegevens wil wijzigen:<BR>1° de naam en het adres van de   beheersinstantie;<BR>2° de naam en het adres van de partnerorganisatie;<BR>3°   als dat van toepassing is, de regio en het werkgebied van de   partnerorganisatie;<BR>4° de statuten van de partnerorganisatie;<BR>5° een   fundamentele herstructurering of herziening van de missie of visie van de   organisatie.<BR></P>  <P>Een aanvraag tot wijziging van de erkenning is alleen ontvankelijk als ze   alle nodige vermeldingen en stukken tot staving van de aangevraagde wijziging   bevat.<BR></P>  <P>Over de aanvraag tot wijziging van de erkenning wordt beslist op de wijze,   vermeld in artikel 9 tot en met 11.<BR></P>  <P>Als de aanvraag tot wijziging van de erkenning van een partnerorganisatie   gevolgen heeft voor de subsidiëring van die partnerorganisatie, wordt die   wijziging doorgevoerd met ingang van 1 januari van het jaar dat volgt op het   jaar waarin de ontvankelijke aanvraag is ingediend. Die aanvraag moet voor 1   september ingediend worden.<BR></P>
+<p>De beheersinstantie dient bij de administratie aangetekend of tegen ontvangstbewijs een aanvraag tot wijziging van de erkenning in als ze de volgende gegevens wil wijzigen:<br>
+1° de naam en het adres van de beheersinstantie;<br>
+2° de naam en het adres van de partnerorganisatie;<br>
+3° als dat van toepassing is, de regio en het werkgebied van de partnerorganisatie;<br>
+4° de statuten van de partnerorganisatie;<br>
+5° een fundamentele herstructurering of herziening van de missie of visie van de organisatie.</p>
+
+<p>Een aanvraag tot wijziging van de erkenning is alleen ontvankelijk als ze alle nodige vermeldingen en stukken tot staving van de aangevraagde wijziging bevat.</p>
+
+<p>Over de aanvraag tot wijziging van de erkenning wordt beslist op de wijze, vermeld in artikel 9 tot en met 11.</p>
+
+<p>Als de aanvraag tot wijziging van de erkenning van een partnerorganisatie gevolgen heeft voor de subsidiëring van die partnerorganisatie, wordt die wijziging doorgevoerd met ingang van 1 januari van het jaar dat volgt op het jaar waarin de ontvankelijke aanvraag is ingediend. Die aanvraag moet voor 1 september ingediend worden.</p>
 
 ## HOOFDSTUK 6 Procedure voor de gedwongen wijziging, de schorsing en de intrekking van de erkenning
 
 ### ART. 13.
 
-<P>De administrateur-generaal kan de erkenning wijzigen, schorsen of intrekken   als de erkende partnerorganisatie de algemene of de specifieke   erkenningsvoorwaarden die erop van toepassing zijn niet naleeft.<BR></P>  <P>De administrateur-generaal kan een voornemen tot wijziging, schorsing of   intrekking van de erkenning nemen als:<BR>1° de partnerorganisatie aangetekend   met kennisgeving van ontvangst een aanmaning van het agentschap heeft ontvangen   om zich te schikken naar de erkenningsvoorwaarden, vermeld in de   aanmaning;<BR>2° de partnerorganisatie in kwestie niet aantoont dat ze zich naar   die erkenningsvoorwaarden heeft geschikt binnen de termijn die het agentschap in   de aanmaning heeft bepaald.<BR></P>
+<p>De secretaris-generaal kan de erkenning wijzigen, schorsen of intrekken als de erkende partnerorganisatie de algemene of de specifieke erkenningsvoorwaarden die erop van toepassing zijn niet naleeft.</p>
+
+<p>De secretaris-generaal kan een voornemen tot wijziging, schorsing of intrekking van de erkenning nemen als:<br>
+1° de partnerorganisatie aangetekend met kennisgeving van ontvangst een aanmaning van de administratie heeft ontvangen om zich te schikken naar de erkenningsvoorwaarden, vermeld in de aanmaning;<br>
+2° de partnerorganisatie in kwestie niet aantoont dat ze zich naar die erkenningsvoorwaarden heeft geschikt binnen de termijn die de administratie in de aanmaning heeft bepaald.</p>
 
 ### ART. 14.
 
@@ -74,11 +117,15 @@ Als de beheersinstantie geen bezwaarschrift indient binnen een maand na de   ont
 
 ### ART. 15.
 
-Als de beheersinstantie geen bezwaarschrift indient binnen een maand na de   ontvangst van de aangetekende zending, vermeld in artikel 14, wordt na het   verstrijken van die termijn een beslissing van de administrateur-generaal tot   wijziging, schorsing of intrekking van de erkenning aangetekend met kennisgeving   van ontvangst aan de beheersinstantie bezorgd.<BR>
+Als de beheersinstantie geen bezwaarschrift indient binnen een maand na de ontvangst van de aangetekende zending, vermeld in artikel 14, wordt na het verstrijken van die termijn een beslissing van de secretaris-generaal tot wijziging, schorsing of intrekking van de erkenning aangetekend met kennisgeving van ontvangst aan de beheersinstantie bezorgd.
 
 ### ART. 16.
 
-<P>De beslissing tot schorsing van de erkenning vermeldt de begindatum, de   termijn van de schorsing en de voorwaarden die vervuld moeten worden om de   schorsing in te trekken.<BR></P>  <P>De administrateur-generaal bepaalt de termijn van de schorsing van de   erkenning. Die termijn mag niet meer bedragen dan zes maanden. Op gemotiveerd   verzoek van de beheersinstantie kan die termijn eenmaal voor maximaal dezelfde   termijn worden verlengd. Die aanvraag wordt minstens dertig dagen voor de afloop   van de initiële schorsingstermijn aangetekend of tegen ontvangstbewijs aan het   agentschap bezorgd.<BR></P>  <P>Als bij de beëindiging van de schorsingstermijn nog niet aan alle   erkenningsvoorwaarden is voldaan, wordt de procedure tot intrekking van de   erkenning ingesteld conform artikel 13.<BR></P>
+<p>De beslissing tot schorsing van de erkenning vermeldt de begindatum, de termijn van de schorsing en de voorwaarden die vervuld moeten worden om de schorsing in te trekken.</p>
+
+<p>De secretaris-generaal bepaalt de termijn van de schorsing van de erkenning. Die termijn mag niet meer bedragen dan zes maanden. Op gemotiveerd verzoek van de beheersinstantie kan die termijn eenmaal voor maximaal dezelfde termijn worden verlengd. Die aanvraag wordt minstens dertig dagen voor de afloop van de initiële schorsingstermijn aangetekend of tegen ontvangstbewijs aan de administratie bezorgd.</p>
+
+<p>Als bij de beëindiging van de schorsingstermijn nog niet aan alle erkenningsvoorwaarden is voldaan, wordt de procedure tot intrekking van de erkenning ingesteld conform artikel 13.</p>
 
 ### ART. 17.
 
@@ -88,11 +135,11 @@ De beslissing tot intrekking van de erkenning heeft uitwerking op de   datum, ve
 
 ### ART. 18.
 
-De administrateur-generaal kan de erkenning ook intrekken als een   partnerorganisatie daar aangetekend of tegen ontvangstbewijs rechtsgeldig om   verzoekt. De beslissing van de administrateur-generaal wordt binnen een termijn   van drie maanden na de indiening van het verzoek, aangetekend met kennisgeving   van ontvangst, aan de partnerorganisatie bezorgd. De intrekking van de erkenning   als partnerorganisatie heeft de onmiddellijke verdwijning uit de programmatie   van de soort van partnerorganisatie tot gevolg.<BR>
+De secretaris-generaal kan de erkenning ook intrekken als een partnerorganisatie daar aangetekend of tegen ontvangstbewijs rechtsgeldig om verzoekt. De beslissing van de secretaris-generaal wordt binnen een termijn van drie maanden na de indiening van het verzoek, aangetekend met kennisgeving van ontvangst, aan de partnerorganisatie bezorgd. De intrekking van de erkenning als partnerorganisatie heeft de onmiddellijke verdwijning uit de programmatie van de soort van partnerorganisatie tot gevolg.
 
 ### ART. 19.
 
-Als de beheersinstantie van een partnerorganisatie tot de vrijwillige   stopzetting van de activiteiten als partnerorganisatie beslist, moet het   agentschap daarvan drie maanden vooraf op de hoogte gebracht worden, met opgave   van de datum waarop die beslissing uitwerking heeft. De vrijwillige stopzetting   van de activiteiten als partnerorganisatie heeft de onmiddellijke verdwijning   uit de programmatie van de soort van partnerorganisatie tot   gevolg.<BR>
+Als de beheersinstantie van een partnerorganisatie tot de vrijwillige stopzetting van de activiteiten als partnerorganisatie beslist, moet de administratie daarvan drie maanden vooraf op de hoogte gebracht worden, met opgave van de datum waarop die beslissing uitwerking heeft. De vrijwillige stopzetting van de activiteiten als partnerorganisatie heeft de onmiddellijke verdwijning uit de programmatie van de soort van partnerorganisatie tot gevolg.
 
 ## HOOFDSTUK 8 Subsidiëring
 
@@ -106,7 +153,7 @@ De Vlaamse Regering bepaalt het subsidiebedrag per partnerorganisatie,   afhanke
 
 ### ART. 22.
 
-Elk jaar bezorgt de partnerorganisatie een activiteitenverslag en een   financieel verslag over het werkjaar in kwestie, en een jaarplanning met de   activiteiten en doelstellingen voor het daarop volgende werkjaar aan het   agentschap, uiterlijk op 31 maart van het jaar dat volgt op het jaar waarop de   subsidies betrekking hebben.<BR>
+Elk jaar bezorgt de partnerorganisatie een activiteitenverslag en een financieel verslag over het werkjaar in kwestie, en een jaarplanning met de activiteiten en doelstellingen voor het daarop volgende werkjaar aan de administratie, uiterlijk op 31 maart van het jaar dat volgt op het jaar waarop de subsidies betrekking hebben.
 
 ### ART. 23.
 
@@ -116,29 +163,29 @@ Als het totaal van de kosten, die gemaakt zijn overeenkomstig de   subsidievoorw
 
 ### ART. 24.
 
-Het agentschap is belast met de aansturing van de werking van de erkende   partnerorganisaties en de naleving van de erkennings- en subsidievoorwaarden en   kan terzake alle gegevens opvragen.<BR>
+De administratie is belast met de aansturing van de werking van de erkende partnerorganisaties en de naleving van de erkennings- en subsidievoorwaarden en kan terzake alle gegevens opvragen.
 
 ### ART. 25.
 
-Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin,   vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering   van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin,   betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen   in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de   wijziging van regelgeving met betrekking tot dat beleidsdomein, is belast met   het toezicht op de werking van de partnerorganisaties conform artikel 72 van het   Woonzorgdecreet van 13 maart 2009.
+Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 &nbsp;over het Departement Zorg, is belast met het toezicht op de werking van de partnerorganisaties conform artikel 72 van het Woonzorgdecreet van 13 maart 2009.
 
 ## HOOFDSTUK 10 Procedure voor terugvordering van een subsidie
 
 ### ART. 26.
 
-De administrateur-generaal kan het maximale subsidiebedrag niet volledig   uitbetalen of het reeds uitbetaalde bedrag aan voorschotten gedeeltelijk of   volledig terugvorderen voor een door hem te bepalen termijn, als de   partnerorganisatie de subsidievoorwaarden niet naleeft of niet voldoende kosten   kan aantonen die voldoen aan de overeenkomstige subsidievoorwaarden.   <BR>
+De secretaris-generaal kan het maximale subsidiebedrag niet volledig uitbetalen of het reeds uitbetaalde bedrag aan voorschotten gedeeltelijk of volledig terugvorderen voor een door hem te bepalen termijn, als de partnerorganisatie de subsidievoorwaarden niet naleeft of niet voldoende kosten kan aantonen die voldoen aan de overeenkomstige subsidievoorwaarden.
 
 ### ART. 27.
 
-Het agentschap brengt de beheersinstantie van de partnerorganisatie   aangetekend met kennisgeving van ontvangst, op de hoogte van het gemotiveerde   voornemen van de administrateur-generaal tot terugvordering van de   subsidie.<BR>
+De administratie brengt de beheersinstantie van de partnerorganisatie aangetekend met kennisgeving van ontvangst, op de hoogte van het gemotiveerde voornemen van de secretaris-generaal tot terugvordering van de subsidie.
 
 ### ART. 28.
 
-De aangetekende zending, vermeld in artikel 14, bevat naast het voornemen   ook de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd   bezwaarschrift bij het agentschap in te dienen.<BR>
+De aangetekende zending, vermeld in artikel 14, bevat naast het voornemen ook de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift bij de administratie in te dienen.
 
 ### ART. 29.
 
-Als de beheersinstantie van de partnerorganisatie geen bezwaarschrift   indient binnen vijftien dagen na de ontvangst van de aangetekende zending,   vermeld in artikel 27, wordt na het verstrijken van die termijn, de beslissing   van de administrateur-generaal tot terugvordering van de subsidie, aangetekend   met kennisgeving van ontvangst, aan de beheersinstantie bezorgd. Als de   beheersinstantie wel tijdig een bezwaarschrift heeft ingediend, kan de minister   beslissen om het voornemen, vermeld in artikel 27, te bevestigen of in te   trekken.<BR>
+Als de beheersinstantie van de partnerorganisatie geen bezwaarschrift indient binnen vijftien dagen na de ontvangst van de aangetekende zending, vermeld in artikel 27, wordt na het verstrijken van die termijn, de beslissing van de secretaris-generaal tot terugvordering van de subsidie, aangetekend met kennisgeving van ontvangst, aan de beheersinstantie bezorgd. Als de beheersinstantie wel tijdig een bezwaarschrift heeft ingediend, kan de minister beslissen om het voornemen, vermeld in artikel 27, te bevestigen of in te trekken.
 
 ## HOOFDSTUK 11 Slotbepalingen
 
@@ -203,21 +250,82 @@ Aan het erkende Vlaams expertisecentrum dementie wordt jaarlijks een bedrag van 
 
 ### ART. 5.
 
-<P>§ 1. Om voor subsidiëring in aanmerking te komen, moet het Vlaams   expertisecentrum dementie voldoen aan de volgende voorwaarden:<BR>1° erkend zijn   gedurende het werkingsjaar of het gedeelte ervan waarvoor de subsidies worden   toegekend;<BR>2° de activiteiten uit zijn actieplan uitvoeren en   evalueren;<BR>3° een jaarplanning opstellen voor het volgende   werkingsjaar.<BR></P>  <P>§ 2. Aan het agentschap worden door het Vlaams expertisecentrum dementie een   jaarverslag en een financieel verslag van het werkingsjaar in kwestie en een   jaarplanning van het daaropvolgende werkingsjaar bezorgd. In afwijking van   artikel 22 van dit besluit moeten deze documenten uiterlijk op 31 mei van het   jaar dat volgt op het werkingsjaar in kwestie aan het agentschap worden   bezorgd.<BR></P>  <P>De documenten worden elektronisch aan het agentschap bezorgt. Als dat niet   mogelijk is, worden ze met de post of per fax verstuurd.<BR></P>  <P>§ 3. Het activiteitenverslag bevat alle gegevens over de activiteiten en de   evaluatie van de doelstellingen vastgelegd in het jaarplan van het werkingsjaar   in kwestie, zodat het agentschap de werking van het Vlaams expertisecentrum   dementie kan evalueren.<BR></P>  <P>§ 4. Het jaarplan moet aan de volgende voorwaarden voldoen:<BR>1° het past in   het Vlaamse beleid ten aanzien van personen met dementie en hun omgeving;<BR>2°   het omvat de strategische en operationele doelstellingen van het Vlaams   expertisecentrum dementie;<BR>3° de uitvoering is afgestemd op de ondersteuning   en de onderlinge afstemming van de regionale expertisecentra dementie.<BR></P>  <P>§ 5. Het financiële verslag omvat:<BR>1° de staat van ontvangsten en   uitgaven, gegroepeerd per kosten- en inkomstensoort die betrekking heeft op de   werking van het Vlaams expertisecentrum dementie in het werkjaar in   kwestie;<BR>2° de oorsprong, de omvang en de besteding van de eventuele middelen   die verkregen worden buiten de hier bepaalde subsidies en die aangewend worden   om de activiteiten te realiseren;<BR>3° een genummerde lijst van de kosten die   gemaakt zijn, met een verwijzing naar de begunstigde, het bedrag, de   omschrijving van het voorwerp van de kost en de kostensoort. De originele   bewijsstukken houdt de begunstigde bij;<BR>4° als dat van toepassing is, een   afschrijvingstabel met de lopende en de nieuwe afschrijvingen;<BR>5° de   besteding van de subsidie aan personeelskosten per medewerker, met vermelding   van de functie, de tewerkstellingstijd en het brutoloon.<BR></P>  <P>De staat van ontvangsten en uitgaven of de resultatenrekening, vermeld in het   eerste lid, geeft, onder meer, informatie over:<BR>1° de besteding van de   subsidie per kostensoort en in het bijzonder over:<BR>de besteding van de   subsidie aan personeelskosten per medewerker, met <BR>vermelding van de functie,   de tewerkstellingstijd en het brutoloon;<BR>2° de besteding van de subsidie,   verdeeld volgens de activiteiten, vermeld in de   jaarplanning.<BR></P>
+<p>§ 1. Om voor subsidiëring in aanmerking te komen, moet het Vlaams expertisecentrum dementie voldoen aan de volgende voorwaarden:<br>
+1° erkend zijn gedurende het werkingsjaar of het gedeelte ervan waarvoor de subsidies worden toegekend;<br>
+2° de activiteiten uit zijn actieplan uitvoeren en evalueren;<br>
+3° een jaarplanning opstellen voor het volgende werkingsjaar.</p>
+
+<p>§ 2. Aan de administratie worden door het Vlaams expertisecentrum dementie een jaarverslag en een financieel verslag van het werkingsjaar in kwestie en een jaarplanning van het daaropvolgende werkingsjaar bezorgd. In afwijking van artikel 22 van dit besluit moeten deze documenten uiterlijk op 31 mei van het jaar dat volgt op het werkingsjaar in kwestie aan de administratie worden bezorgd.</p>
+
+<p>De documenten worden elektronisch aan de administratie bezorgt. Als dat niet mogelijk is, worden ze met de post of per fax verstuurd.</p>
+
+<p>§ 3. Het activiteitenverslag bevat alle gegevens over de activiteiten en de evaluatie van de doelstellingen vastgelegd in het jaarplan van het werkingsjaar in kwestie, zodat de administratie de werking van het Vlaams expertisecentrum dementie kan evalueren.</p>
+
+<p>§ 4. Het jaarplan moet aan de volgende voorwaarden voldoen:<br>
+1° het past in het Vlaamse beleid ten aanzien van personen met dementie en hun omgeving;<br>
+2° het omvat de strategische en operationele doelstellingen van het Vlaams expertisecentrum dementie;<br>
+3° de uitvoering is afgestemd op de ondersteuning en de onderlinge afstemming van de regionale expertisecentra dementie.</p>
+
+<p>§ 5. Het financiële verslag omvat:<br>
+1° de staat van ontvangsten en uitgaven, gegroepeerd per kosten- en inkomstensoort die betrekking heeft op de werking van het Vlaams expertisecentrum dementie in het werkjaar in kwestie;<br>
+2° de oorsprong, de omvang en de besteding van de eventuele middelen die verkregen worden buiten de hier bepaalde subsidies en die aangewend worden om de activiteiten te realiseren;<br>
+3° een genummerde lijst van de kosten die gemaakt zijn, met een verwijzing naar de begunstigde, het bedrag, de omschrijving van het voorwerp van de kost en de kostensoort. De originele bewijsstukken houdt de begunstigde bij;<br>
+4° als dat van toepassing is, een afschrijvingstabel met de lopende en de nieuwe afschrijvingen;<br>
+5° de besteding van de subsidie aan personeelskosten per medewerker, met vermelding van de functie, de tewerkstellingstijd en het brutoloon.</p>
+
+<p>De staat van ontvangsten en uitgaven of de resultatenrekening, vermeld in het eerste lid, geeft, onder meer, informatie over:<br>
+1° de besteding van de subsidie per kostensoort en in het bijzonder over:<br>
+de besteding van de subsidie aan personeelskosten per medewerker, met<br>
+vermelding van de functie, de tewerkstellingstijd en het brutoloon;<br>
+2° de besteding van de subsidie, verdeeld volgens de activiteiten, vermeld in de jaarplanning.</p>
 
 ### ART. 6.
 
-<P>Alleen de kosten die betrekking hebben op de uitvoering van de activiteiten,   vermeld in het goedgekeurde jaarplan, verminderd met de opbrengsten uit de   activiteiten, vermeld in het goedgekeurde jaarplan, kunnen in rekening worden   gebracht.<BR></P>  <P>Als het Vlaams expertisecentrum dementie uitzonderlijke en onvoorziene   uitgaven doet voor activiteiten die niet in het jaarplan opgenomen zijn, moet   het agentschap daarvoor toestemming verlenen.<BR></P>  <P>De volgende uitgavencategorieën komen voor subsidie in aanmerking:<BR>1°   werkingskosten<BR>a) beheers- en werkingskosten, rechtstreeks verbonden aan de   opdracht:<BR>1. de huur van lokalen;<BR>2. energiekosten, telefoonkosten en   kosten voor administratie;<BR>3. de huren of aankoop van computerapparatuur en   software;<BR>4. verplaatsings- en verblijfskosten. Deze kosten mogen de bedragen   die van kracht zijn voor het personeel van de Vlaamse overheid niet   overschrijden;<BR>5. de huuren van personenwagens om acties uit te voeren die   behoren tot actieplan maar niet de aankoop van wagens;<BR>6. reis- en   verblijfskosten in het buitenland en reis- en verblijfskosten van buitenlandse   experten als die reizen voorafgaand door het agentschap zijn goedgekeurd;<BR>7.   voor de aankoop van uitrustingsgoederen voor een totaalbedrag als dat hoger is   5% van het toegekende subsidiebedrag binnen het betreffende subsidiejaar, moet   er op voorhand toestemming worden verleend door het agentschap;<BR>8.   uitrustingsgoederen komen voor subsidiëring in aanmerking als de kosten ervan   gespreid worden afgeschreven. De afschrijvingstermijn voor   informatica-apparatuur, hard- en software, bedraagt ten minste drie jaar, voor   meubilair en andere uitrustingsgoederen ten minste vijf jaar;<BR>b)   werkingskosten die niet subsidiabel zijn:<BR>1. restaurantkosten;<BR>2. kosten   die verbonden zijn aan leningen;<BR>2° personeelskosten<BR>a) de geïndexeerde   brutosalarissen;<BR>b) de RSZ-werkgeversbijdrage;<BR>c) de wettelijke   verzekeringen;<BR>d) alle andere wettelijke of reglementaire vergoedingen en   toelagen bij het salaris.<BR></P>  <P>Als de resultatenrekening van een partnerorganisatie een bepaald jaar een   batig saldo vertoont, bouwt de dienst reserves op. Die reserves worden aangewend   om uitgaven te financieren die bijdragen tot de realisatie van de opdracht van   de partnerorganisatie.<BR></P>  <P>Het agentschap gaat de concrete aanwending van de reserves na in het kader   van hoofdstuk 4 van deze bijlage en hoofdstuk 10 van dit besluit.<BR></P>  <P>Reserves, ontstaan uit de activiteiten georganiseerd in het kader van het   goedgekeurde jaarplan en dus subsidiabel zijn, en die op het ogenblik van het   afsluiten van het boekjaar meer bedragen dan de jaarlijkse subsidie-enveloppe,   vermeld in dit artikel, worden voor het bedrag dat de jaarlijkse   subsidie-enveloppe overschrijdt, teruggestort aan de Vlaamse   Gemeenschap.<BR></P>
+<p>Alleen de kosten die betrekking hebben op de uitvoering van de activiteiten, vermeld in het goedgekeurde jaarplan, verminderd met de opbrengsten uit de activiteiten, vermeld in het goedgekeurde jaarplan, kunnen in rekening worden gebracht.</p>
+
+<p>Als het Vlaams expertisecentrum dementie uitzonderlijke en onvoorziene uitgaven doet voor activiteiten die niet in het jaarplan opgenomen zijn, moet de administratie daarvoor toestemming verlenen.</p>
+
+<p>De volgende uitgavencategorieën komen voor subsidie in aanmerking:<br>
+1° werkingskosten<br>
+a) beheers- en werkingskosten, rechtstreeks verbonden aan de opdracht:<br>
+1. de huur van lokalen;<br>
+2. energiekosten, telefoonkosten en kosten voor administratie;<br>
+3. de huren of aankoop van computerapparatuur en software;<br>
+4. verplaatsings- en verblijfskosten. Deze kosten mogen de bedragen die van kracht zijn voor het personeel van de Vlaamse overheid niet overschrijden;<br>
+5. de huuren van personenwagens om acties uit te voeren die behoren tot actieplan maar niet de aankoop van wagens;<br>
+6. reis- en verblijfskosten in het buitenland en reis- en verblijfskosten van buitenlandse experten als die reizen voorafgaand door de administratie zijn goedgekeurd;<br>
+7. voor de aankoop van uitrustingsgoederen voor een totaalbedrag als dat hoger is 5% van het toegekende subsidiebedrag binnen het betreffende subsidiejaar, moet er op voorhand toestemming worden verleend door de administratie;<br>
+8. uitrustingsgoederen komen voor subsidiëring in aanmerking als de kosten ervan gespreid worden afgeschreven. De afschrijvingstermijn voor informatica-apparatuur, hard- en software, bedraagt ten minste drie jaar, voor meubilair en andere uitrustingsgoederen ten minste vijf jaar;<br>
+b) werkingskosten die niet subsidiabel zijn:<br>
+1. restaurantkosten;<br>
+2. kosten die verbonden zijn aan leningen;<br>
+2° personeelskosten<br>
+a) de geïndexeerde brutosalarissen;<br>
+b) de RSZ-werkgeversbijdrage;<br>
+c) de wettelijke verzekeringen;<br>
+d) alle andere wettelijke of reglementaire vergoedingen en toelagen bij het salaris.</p>
+
+<p>Als de resultatenrekening van een partnerorganisatie een bepaald jaar een batig saldo vertoont, bouwt de dienst reserves op. Die reserves worden aangewend om uitgaven te financieren die bijdragen tot de realisatie van de opdracht van de partnerorganisatie.</p>
+
+<p>de administratie gaat de concrete aanwending van de reserves na in het kader van hoofdstuk 4 van deze bijlage en hoofdstuk 10 van dit besluit.</p>
+
+<p>Reserves, ontstaan uit de activiteiten georganiseerd in het kader van het goedgekeurde jaarplan en dus subsidiabel zijn, en die op het ogenblik van het afsluiten van het boekjaar meer bedragen dan de jaarlijkse subsidie-enveloppe, vermeld in dit artikel, worden voor het bedrag dat de jaarlijkse subsidie-enveloppe overschrijdt, teruggestort aan de Vlaamse Gemeenschap.</p>
 
 ### ART. 7.
 
-<P>De subsidie, vermeld in artikel 3, wordt vereffend door betaling van een   voorschot van maximaal 45% van dat bedrag na de ondertekening van het   subsidiebesluit van het jaar waarop de subsidie betrekking heeft en van een   voorschot van maximaal 45% van dat bedrag op het einde van het tweede trimester   van dat jaar.<BR></P>  <P>Het saldo van maximaal 10% zal worden betaald nadat het agentschap het   activiteitenverslag over het jaar waarop de subsidie betrekking heeft, alsook   het financiële verslag heeft goedgekeurd uiterlijk vóór 1 september van het   daaropvolgende jaar. Daarvoor bezorgt het Vlaams expertisecentrum dementie het   activiteitenverslag, de jaarplanning en het financiële verslag uiterlijk op 31   mei van het jaar dat volgt op het werkingsjaar in kwestie aan het   agentschap.<BR></P>  <P>De bedragen van de voorschotten en de saldi worden overgeschreven naar het   rekeningnummer dat het Vlaams expertisecentrum dementie aan het agentschap heeft   meegedeeld.<BR></P>  <P>Als het uitbetaalde bedrag aan voorschotten het uiteindelijk verantwoorde   subsidiebedrag overschrijdt, zal het te veel betaalde subsidiebedrag worden   teruggevorderd conform hoofdstuk 10 van dit besluit.<BR></P>
+<p>De subsidie, vermeld in artikel 3, wordt vereffend door betaling van een voorschot van maximaal 45% van dat bedrag na de ondertekening van het subsidiebesluit van het jaar waarop de subsidie betrekking heeft en van een voorschot van maximaal 45% van dat bedrag op het einde van het tweede trimester van dat jaar.</p>
+
+<p>Het saldo van maximaal 10% zal worden betaald nadat de administratie het activiteitenverslag over het jaar waarop de subsidie betrekking heeft, alsook het financiële verslag heeft goedgekeurd uiterlijk vóór 1 september van het daaropvolgende jaar. Daarvoor bezorgt het Vlaams expertisecentrum dementie het activiteitenverslag, de jaarplanning en het financiële verslag uiterlijk op 31 mei van het jaar dat volgt op het werkingsjaar in kwestie aan de administratie.</p>
+
+<p>De bedragen van de voorschotten en de saldi worden overgeschreven naar het rekeningnummer dat het Vlaams expertisecentrum dementie aan de administratie heeft meegedeeld.</p>
+
+<p>Als het uitbetaalde bedrag aan voorschotten het uiteindelijk verantwoorde subsidiebedrag overschrijdt, zal het te veel betaalde subsidiebedrag worden teruggevorderd conform hoofdstuk 10 van dit besluit.</p>
 
 ## HOOFDSTUK 4 Toezicht op de naleving van de erkennings- en subsidievoorwaarden
 
 ### ART. 8.
 
-&nbsp;Het agentschap is belast met de aansturing van de werking van het   Vlaams expertisecentrum dementie.<BR>
+&nbsp;De administratie is belast met de aansturing van de werking van het Vlaams expertisecentrum dementie.
 
 ### ART. 9.
 
@@ -249,15 +357,18 @@ In deze bijlage wordt verstaan onder:<BR>1° actieplan: een document,   jaarlijk
 
 ### ART. 4.
 
-&nbsp;Het gemotiveerde verzoek om als eventueel vervangend regionaal   expertisecentrum dementie en erkende partnerorganisatie toe te treden, wordt per   aangetekende brief gericht aan het agentschap.<BR>
+&nbsp;Het gemotiveerde verzoek om als eventueel vervangend regionaal expertisecentrum dementie en erkende partnerorganisatie toe te treden, wordt per aangetekende brief gericht aan de administratie.
 
 ### ART. 5.
 
-De erkenning gebeurt door de administrateur-generaal, die vooraf het   advies van het Vlaams expertisecentrum dementie inwint.<BR>
+De erkenning gebeurt door de secretaris-generaal, die vooraf het advies van het Vlaams expertisecentrum dementie inwint.
 
 ### ART. 6.
 
-De criteria die worden gehanteerd om te beslissen over de erkenning van   een lid hebben minstens betrekking op:<BR>1° de regionale spreiding;<BR>2° de   aantoonbare kennis en ervaringsdeskundigheid op het vlak van de ondersteuning   van acties inzake de zorg voor en de begeleiding van personen met dementie en   hun omgeving;<BR>3° een door het agentschap goedgekeurd   actieplan.<BR>
+De criteria die worden gehanteerd om te beslissen over de erkenning van een lid hebben minstens betrekking op:<br>
+1° de regionale spreiding;<br>
+2° de aantoonbare kennis en ervaringsdeskundigheid op het vlak van de ondersteuning van acties inzake de zorg voor en de begeleiding van personen met dementie en hun omgeving;<br>
+3° een door de administratie goedgekeurd actieplan.
 
 ## HOOFDSTUK 3 Specifieke erkenningsvoorwaarden
 
@@ -273,21 +384,86 @@ Met behoud van de toepassing van artikel 68, § 1, van het Woonzorgdecreet   van
 
 ### ART. 9.
 
-<P>§ 1. Om voor subsidiëring in aanmerking te komen, moet een regionaal   expertisecentrum dementie als vermeld in artikel 1, voldoen aan de volgende   voorwaarden:<BR>1° erkend zijn gedurende het werkingsjaar in kwestie of het   gedeelte ervan waarvoor de subsidies worden toegekend;<BR>2° de activiteiten uit   het actieplan uitvoeren en de resultaten ervan evalueren;<BR>3° een jaarplanning   opstellen voor het volgende werkingsjaar.<BR></P>  <P>§ 2. Elk regionaal expertisecentrum dementie bezorgt een jaarverslag van het   werkingsjaar in kwestie en een jaarplanning van het daaropvolgende werkingsjaar   aan het Vlaams expertisecentrum dementie dat het inhoudelijke werkingsverslag   integreert binnen het eigen jaarverslag en aan het agentschap bezorgt. In   afwijking van artikel 22 van dit besluit worden deze documenten aan het   agentschap bezorgd uiterlijk op 31 mei van het jaar dat volgt op het   werkingsjaar in kwestie.<BR></P>  <P>Deze documenten worden elektronisch aan het agentschap bezorgd. Als dit niet   mogelijk is, worden ze met de post of per fax verstuurd.<BR></P>  <P>Het financiële verslag wordt door elk regionaal expertisecentrum dementie   afzonderlijk opgestuurd naar het agentschap tegen uiterlijk 31 mei van het jaar   dat volgt op het werkingsjaar in kwestie.<BR></P>  <P>§ 3. Het geïntegreerde jaarverslag bevat alle gegevens over de activiteiten   en de evaluatie van de doelstellingen per werkingsjaar, zodat het agentschap de   werking van het regionaal expertisecentrum dementie kan evalueren.<BR></P>  <P>§ 4. Het jaarplan moet aan de volgende voorwaarden voldoen:<BR>1° het past in   het Vlaamse beleidsplan ten aanzien van personen met dementie en hun   omgeving;<BR>2° het omvat de strategische en operationele doelstellingen van het   regionaal expertisecentrum dementie voor het volgende werkingsjaar;<BR>3° het is   afgestemd met het jaarplan en de doelstellingen van het Vlaams expertisecentrum   dementie.<BR></P>  <P>§ 5. Het financiële verslag omvat:<BR>1° de staat van ontvangsten en   uitgaven, gegroepeerd per kosten- en inkomstensoort, over de werking van het   regionaal expertisecentrum dementie in het werkingsjaar in kwestie;<BR>2° de   oorsprong, de omvang en de besteding van de eventuele middelen die verkregen   worden buiten de hier bepaalde subsidies en die aangewend worden om de   activiteiten te realiseren;<BR>3° een genummerde lijst van de kosten die gemaakt   zijn, met een verwijzing naar de begunstigde, het bedrag, de omschrijving van   het voorwerp van de kosten en de kostensoort. De begunstigde houdt de originele   bewijsstukken bij;<BR>4° als van toepassing is, een afschrijvingstabel met de   lopende en de nieuwe afschrijvingen;<BR>5° de besteding van de subsidie aan de   personeelskosten per medewerker, met vermelding van de functie, de   tewerkstellingstijd en het brutoloon.<BR></P>  <P>De staat van ontvangsten en uitgaven of de resultatenrekening, vermeld in het   eerste lid, geeft, onder meer, informatie over de besteding van de subsidie per   kostensoort en in het bijzonder over de besteding van de subsidie aan de   personeelskosten per medewerker, met vermelding van de functie, de   tewerkstellingstijd en het brutoloon.<BR></P>
+<p>§ 1. Om voor subsidiëring in aanmerking te komen, moet een regionaal expertisecentrum dementie als vermeld in artikel 1, voldoen aan de volgende voorwaarden:<br>
+1° erkend zijn gedurende het werkingsjaar in kwestie of het gedeelte ervan waarvoor de subsidies worden toegekend;<br>
+2° de activiteiten uit het actieplan uitvoeren en de resultaten ervan evalueren;<br>
+3° een jaarplanning opstellen voor het volgende werkingsjaar.</p>
+
+<p>§ 2. Elk regionaal expertisecentrum dementie bezorgt een jaarverslag van het werkingsjaar in kwestie en een jaarplanning van het daaropvolgende werkingsjaar aan het Vlaams expertisecentrum dementie dat het inhoudelijke werkingsverslag integreert binnen het eigen jaarverslag en aan de administratie bezorgt. In afwijking van artikel 22 van dit besluit worden deze documenten aan de administratie bezorgd uiterlijk op 31 mei van het jaar dat volgt op het werkingsjaar in kwestie.</p>
+
+<p>Deze documenten worden elektronisch aan de administratie bezorgd. Als dit niet mogelijk is, worden ze met de post of per fax verstuurd.</p>
+
+<p>Het financiële verslag wordt door elk regionaal expertisecentrum dementie afzonderlijk opgestuurd naar de administratie tegen uiterlijk 31 mei van het jaar dat volgt op het werkingsjaar in kwestie.</p>
+
+<p>§ 3. Het geïntegreerde jaarverslag bevat alle gegevens over de activiteiten en de evaluatie van de doelstellingen per werkingsjaar, zodat de administratie de werking van het regionaal expertisecentrum dementie kan evalueren.</p>
+
+<p>§ 4. Het jaarplan moet aan de volgende voorwaarden voldoen:<br>
+1° het past in het Vlaamse beleidsplan ten aanzien van personen met dementie en hun omgeving;<br>
+2° het omvat de strategische en operationele doelstellingen van het regionaal expertisecentrum dementie voor het volgende werkingsjaar;<br>
+3° het is afgestemd met het jaarplan en de doelstellingen van het Vlaams expertisecentrum dementie.</p>
+
+<p>§ 5. Het financiële verslag omvat:<br>
+1° de staat van ontvangsten en uitgaven, gegroepeerd per kosten- en inkomstensoort, over de werking van het regionaal expertisecentrum dementie in het werkingsjaar in kwestie;<br>
+2° de oorsprong, de omvang en de besteding van de eventuele middelen die verkregen worden buiten de hier bepaalde subsidies en die aangewend worden om de activiteiten te realiseren;<br>
+3° een genummerde lijst van de kosten die gemaakt zijn, met een verwijzing naar de begunstigde, het bedrag, de omschrijving van het voorwerp van de kosten en de kostensoort. De begunstigde houdt de originele bewijsstukken bij;<br>
+4° als van toepassing is, een afschrijvingstabel met de lopende en de nieuwe afschrijvingen;<br>
+5° de besteding van de subsidie aan de personeelskosten per medewerker, met vermelding van de functie, de tewerkstellingstijd en het brutoloon.</p>
+
+<p>De staat van ontvangsten en uitgaven of de resultatenrekening, vermeld in het eerste lid, geeft, onder meer, informatie over de besteding van de subsidie per kostensoort en in het bijzonder over de besteding van de subsidie aan de personeelskosten per medewerker, met vermelding van de functie, de tewerkstellingstijd en het brutoloon.</p>
 
 ### ART. 10.
 
-<P>Alleen de kosten die betrekking hebben op de uitvoering van de activiteiten,   vermeld in het jaarplan, verminderd met de opbrengsten uit de activiteiten   vermeld in het jaarplan, kunnen in aanmerking worden genomen voor   subsidiëring.<BR></P>  <P>Als het regionaal expertisecentrum dementie uitzonderlijke en onvoorziene   uitgaven doet voor activiteiten die niet in het jaarplan zijn opgenomen moet het   agentschap daarvoor de toestemming verlenen.<BR></P>  <P>De volgende uitgavencategorieën komen voor subsidie in aanmerking:<BR>1°   werkingskosten:<BR>a) beheers- en werkingskosten, rechtstreeks verbonden aan de   opdracht:<BR>1. de huur van lokalen;<BR>2. energiekosten, telefoonkosten en   kosten voor administratie;<BR>3. de huur of aankoop van computerapparatuur en   software;<BR>4. verplaatsings- en verblijfskosten. Die kosten mogen de bedragen   die van kracht zijn voor het personeel van de Vlaamse overheid, niet   overschrijden;<BR>5. de huur van personenwagens om acties uit te voeren die   behoren tot het jaarplan, maar niet de aankoop van wagens;<BR>6. reis- en   verblijfskosten in het buitenland en reis- en verblijfskosten van buitenlandse   experten als die reizen voorafgaand door het agentschap zijn goedgekeurd;<BR>7.   voor de aankoop van uitrustingsgoederen voor een totaalbedrag dat hoger is dan   5% van het toegekende subsidiebedrag binnen het betreffende subsidiejaar, moet   er op voorhand toestemming worden verleend door het agentschap;<BR>8.   uitrustingsgoederen komen voor subsidiëring in aanmerking als de kosten ervan   gespreid worden afgeschreven. De afschrijvingstermijn voor   informatica-apparatuur, hard- en software, bedraagt ten minste drie jaar, voor   meubilair en andere uitrustingsgoederen ten minste vijf jaar;<BR>b)   werkingskosten die niet subsidiabel zijn:<BR>1. restaurantkosten;<BR>2. kosten   die verbonden zijn aan leningen;<BR>2° personeelskosten:<BR>a) de geïndexeerde   brutosalarissen;<BR>b) de RSZ-werkgeversbijdrage;<BR>c) de wettelijke   verzekeringen;<BR>d) alle andere wettelijke of reglementaire vergoedingen en   toelagen bij het salaris.<BR></P>  <P>Als de resultatenrekening van een regionaal expertisecentrum dementie een   bepaald jaar een batig saldo vertoont, bouwt het centrum reserves op. Die   reserves worden aangewend om uitgaven te financieren die bijdragen tot de   realisatie van de opdracht van de partnerorganisatie.<BR></P>  <P>De organisator kan op de volgende wijze reserves opbouwen met de subsidies,   vermeld in dit besluit:<BR>1° de reserves worden aangewend om de specifieke   dienstverlening, vermeld in dit besluit, te kunnen realiseren;<BR>2° maximaal   20% van de jaarlijkse subsidiebedragen, vermeld in dit besluit, kan als reserve   overgedragen worden naar het volgende kalenderjaar;<BR>3° de gecumuleerde   reserve, opgebouwd uit de jaarlijkse subsidiebedragen, vermeld in punt 2°, is   maximaal 50% van de jaarlijkse subsidiebedragen, vermeld in punt 2° ;<BR>4° als   het maximum, vermeld in punt 2° en 3°, overschreden wordt, wordt het   overschreden bedrag teruggestort aan het agentschap, tenzij de organisator een   aanwendingsplan of aanzuiveringsplan heeft dat voldoet aan een aantal criteria,   waaronder de goedkeuring van de Inspectie van Financiën van de Vlaamse   overheid.<BR></P>  <P>De minister bepaalt de nadere regels, onder meer de criteria waaraan het   aanwendingsplan of aanzuiveringsplan moet voldoen.<BR></P>  <P>Het agentschap gaat de concrete aanwending van de reserves na in het kader   van hoofdstuk 4 van deze bijlage en hoofdstuk 10 van dit   besluit.<BR></P>
+<p>Alleen de kosten die betrekking hebben op de uitvoering van de activiteiten, vermeld in het jaarplan, verminderd met de opbrengsten uit de activiteiten vermeld in het jaarplan, kunnen in aanmerking worden genomen voor subsidiëring.</p>
+
+<p>Als het regionaal expertisecentrum dementie uitzonderlijke en onvoorziene uitgaven doet voor activiteiten die niet in het jaarplan zijn opgenomen moet de administratie daarvoor de toestemming verlenen.</p>
+
+<p>De volgende uitgavencategorieën komen voor subsidie in aanmerking:<br>
+1° werkingskosten:<br>
+a) beheers- en werkingskosten, rechtstreeks verbonden aan de opdracht:<br>
+1. de huur van lokalen;<br>
+2. energiekosten, telefoonkosten en kosten voor administratie;<br>
+3. de huur of aankoop van computerapparatuur en software;<br>
+4. verplaatsings- en verblijfskosten. Die kosten mogen de bedragen die van kracht zijn voor het personeel van de Vlaamse overheid, niet overschrijden;<br>
+5. de huur van personenwagens om acties uit te voeren die behoren tot het jaarplan, maar niet de aankoop van wagens;<br>
+6. reis- en verblijfskosten in het buitenland en reis- en verblijfskosten van buitenlandse experten als die reizen voorafgaand door de administratie zijn goedgekeurd;<br>
+7. voor de aankoop van uitrustingsgoederen voor een totaalbedrag dat hoger is dan 5% van het toegekende subsidiebedrag binnen het betreffende subsidiejaar, moet er op voorhand toestemming worden verleend door de administratie;<br>
+8. uitrustingsgoederen komen voor subsidiëring in aanmerking als de kosten ervan gespreid worden afgeschreven. De afschrijvingstermijn voor informatica-apparatuur, hard- en software, bedraagt ten minste drie jaar, voor meubilair en andere uitrustingsgoederen ten minste vijf jaar;<br>
+b) werkingskosten die niet subsidiabel zijn:<br>
+1. restaurantkosten;<br>
+2. kosten die verbonden zijn aan leningen;<br>
+2° personeelskosten:<br>
+a) de geïndexeerde brutosalarissen;<br>
+b) de RSZ-werkgeversbijdrage;<br>
+c) de wettelijke verzekeringen;<br>
+d) alle andere wettelijke of reglementaire vergoedingen en toelagen bij het salaris.</p>
+
+<p>Als de resultatenrekening van een regionaal expertisecentrum dementie een bepaald jaar een batig saldo vertoont, bouwt het centrum reserves op. Die reserves worden aangewend om uitgaven te financieren die bijdragen tot de realisatie van de opdracht van de partnerorganisatie.</p>
+
+<p>De organisator kan op de volgende wijze reserves opbouwen met de subsidies, vermeld in dit besluit:<br>
+1° de reserves worden aangewend om de specifieke dienstverlening, vermeld in dit besluit, te kunnen realiseren;<br>
+2° maximaal 20% van de jaarlijkse subsidiebedragen, vermeld in dit besluit, kan als reserve overgedragen worden naar het volgende kalenderjaar;<br>
+3° de gecumuleerde reserve, opgebouwd uit de jaarlijkse subsidiebedragen, vermeld in punt 2°, is maximaal 50% van de jaarlijkse subsidiebedragen, vermeld in punt 2° ;<br>
+4° als het maximum, vermeld in punt 2° en 3°, overschreden wordt, wordt het overschreden bedrag teruggestort aan de administratie, tenzij de organisator een aanwendingsplan of aanzuiveringsplan heeft dat voldoet aan een aantal criteria, waaronder de goedkeuring van de Inspectie van Financiën van de Vlaamse overheid.</p>
+
+<p>De minister bepaalt de nadere regels, onder meer de criteria waaraan het aanwendingsplan of aanzuiveringsplan moet voldoen.</p>
+
+<p>de administratie gaat de concrete aanwending van de reserves na in het kader van hoofdstuk 4 van deze bijlage en hoofdstuk 10 van dit besluit.</p>
 
 ### ART. 11.
 
-<P>De subsidie, vermeld in artikel 8, wordt vereffend door betaling van een   voorschot van maximaal 45% van dat bedrag na de ondertekening van het   subsidiebesluit van het jaar waarop de subsidie betrekking heeft, en van een   voorschot van maximaal 45% van dat bedrag op het einde van het tweede trimester   van dat jaar.<BR></P>  <P>Het saldo van maximaal 10% wordt pas betaald nadat het agentschap het   activiteitenverslag over het jaar waarop de subsidie betrekking heeft, alsook   het financiële verslag heeft goedgekeurd, uiterlijk vóór 1 september van het   daaropvolgende jaar. Daarvoor bezorgt het regionaal expertisecentrum het   activiteitenverslag, de jaarplanning en het financiële verslag aan het   agentschap uiterlijk op 31 mei van het jaar dat volgt op het werkingsjaar in   kwestie.<BR></P>  <P>De bedragen van de voorschotten en de saldi worden overgeschreven naar het   rekeningnummer dat door het regionaal expertisecentrum dementie aan het   agentschap is meegedeeld.<BR></P>  <P>Als het uitbetaalde bedrag aan voorschotten het uiteindelijk verantwoorde   subsidiebedrag overschrijdt, zal het te veel betaalde subsidiebedrag worden   teruggevorderd conform hoofdstuk 10 van dit besluit.<BR></P>
+<p>De subsidie, vermeld in artikel 8, wordt vereffend door betaling van een voorschot van maximaal 45% van dat bedrag na de ondertekening van het subsidiebesluit van het jaar waarop de subsidie betrekking heeft, en van een voorschot van maximaal 45% van dat bedrag op het einde van het tweede trimester van dat jaar.</p>
+
+<p>Het saldo van maximaal 10% wordt pas betaald nadat de administratie het activiteitenverslag over het jaar waarop de subsidie betrekking heeft, alsook het financiële verslag heeft goedgekeurd, uiterlijk vóór 1 september van het daaropvolgende jaar. Daarvoor bezorgt het regionaal expertisecentrum het activiteitenverslag, de jaarplanning en het financiële verslag aan de administratie uiterlijk op 31 mei van het jaar dat volgt op het werkingsjaar in kwestie.</p>
+
+<p>De bedragen van de voorschotten en de saldi worden overgeschreven naar het rekeningnummer dat door het regionaal expertisecentrum dementie aan de administratie is meegedeeld.</p>
+
+<p>Als het uitbetaalde bedrag aan voorschotten het uiteindelijk verantwoorde subsidiebedrag overschrijdt, zal het te veel betaalde subsidiebedrag worden teruggevorderd conform hoofdstuk 10 van dit besluit.</p>
 
 ## HOOFDSTUK 5 Toezicht op de naleving van de erkennings- en subsidievoorwaarden
 
 ### ART. 12.
 
-Met behoud van de toepassing van artikel 10 en 15 is het agentschap belast   met de aansturing van de werking van het regionaal expertisecentrum dementie als   partnerorganisatie van de Vlaamse Gemeenschap.<BR>
+Met behoud van de toepassing van artikel 10 en 15 is de administratie belast met de aansturing van de werking van het regionaal expertisecentrum dementie als partnerorganisatie van de Vlaamse Gemeenschap.
 
 ### ART. 13.
 
