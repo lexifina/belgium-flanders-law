@@ -23,7 +23,7 @@ In dit decreet wordt verstaan onder :<br>
 10° lokaal loket kinderopvang : neutraal informatie- en ondersteuningspunt voor gezinnen met een vraag naar kinderopvang, in de vorm van een netwerk van actoren die relevant zijn voor kinderopvang;<br>
 11° toezichthouder : de organisatie die één of meerdere toezichtperso(o)n(en) aanwijst om ter plaatse te laten vaststellen of de organisator de bepalingen van dit decreet en de uitvoeringsbesluiten ervan naleeft, om het agentschap daarover te adviseren;<br>
 12° private toezichtpersoon : het personeelslid van de private toezichthouder dat toezicht houdt;<br>
-13° Zorginspectie : Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein;<br>
+13° ...;<br>
 14° tegelijk aanwezige kinderen : alle baby's, peuters en kinderen die naar de basisschool gaan, en wat de kinderen die deel uitmaken van het gezin van de kinderbegeleider gezinsopvang betreft tot het einde van de kleuterschool, die gelijktijdig in de kinderopvanglocatie aanwezig zijn;<br>
 15° zorgregio : zorgregio niveau kleine stad, vermeld in artikel 2, 5°, van het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en welzijnsvoorzieningen. De gemeenten behorend tot het tweetalige gebied Brussel-Hoofdstad worden beschouwd als één aparte zorgregio;<br>
 16° kwalificatie : een afgerond en ingeschaald geheel van competenties;<br>
@@ -230,6 +230,8 @@ De Vlaamse Regering kan toezichthouders aanwijzen naast Zorginspectie. Dit gebeu
 4° de controle op de private toezichthouder;<br>
 5° de prijs die voor het toezicht gevraagd wordt, en wie die prijs betaalt;<br>
 6° de verhouding met Zorginspectie en met het agentschap.<br>
+<br>
+In het eerste lid wordt verstaan onder Zorginspectie: de afdeling Zorginspectie van het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
 <br>
 Bij de uitoefening van zijn toezichtopdracht draagt de private toezichtpersoon een legitimatiebewijs bij zich dat hij, op verzoek, meteen voorlegt. De Vlaamse Regering bepaalt de nadere inhoud en het model van het legitimatiebewijs en bepaalt ook welk bestuursorgaan het legitimatiebewijs uitreikt.<br>
 <br>
