@@ -116,7 +116,7 @@ De oproep wordt gepubliceerd in het Belgisch Staatsblad.<br>
 § 1. De minister richt een commissie op, die minimaal bestaat uit:<br>
 1° een voorzitter, aangeduid door het Departement Onderwijs en Vorming;<br>
 2° twee personeelsleden van het departement Onderwijs en Vorming;<br>
-3° een personeelslid van het agentschap Zorg en Gezondheid;<br>
+3° een personeelslid van het Departement Zorg;<br>
 4° een vertegenwoordiger van de VLOR;<br>
 5° een vertegenwoordiger van de minister;<br>
 6° een deskundige met ICT-kennis.<br>
