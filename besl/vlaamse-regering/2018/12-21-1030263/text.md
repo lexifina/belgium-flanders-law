@@ -37,7 +37,7 @@ In dit besluit wordt verstaan onder:<br>
 10° reconditionering: het klaarmaken van de hulpmiddelen om aan een andere gebruiker ter beschikking te stellen, met inbegrip van de reiniging, het onderhoud, de herstelling en als dat nodig is de desinfectie van het hulpmiddel;<br>
 11° verstrekker: een verstrekker van hulpmiddelen voor communicatie, computerbediening en omgevingsbediening die conform artikel 16 door het agentschap is gemachtigd om hulpmiddelen voor communicatie, computerbediening en omgevingsbediening af te leveren aan personen met een snel degeneratieve aandoening;<br>
 12° werkdagen: alle dagen met uitzondering van zaterdagen, zondagen en wettelijke feestdagen, vermeld in artikel 1 van het koninklijk besluit van 18 april 1974 tot bepaling van de algemene wijze van uitvoering van de wet van 4 januari 1974 betreffende de feestdagen;<br>
-13° Zorginspectie: Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.
+13° Zorginspectie: Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.
 
 ## HOOFDSTUK 2. Doelgroep
 
