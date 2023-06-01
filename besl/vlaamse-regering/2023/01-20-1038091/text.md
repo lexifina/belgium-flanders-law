@@ -43,7 +43,7 @@ Dit besluit heeft tot doel de gezondheid van de mens te beschermen tegen de scha
 
 In dit besluit wordt verstaan onder:<br>
 1° bevoegde entiteit Leefmilieu: de personeelsleden van de Vlaamse Milieumaatschappij die de leidend ambtenaar daartoe aanstelt;<br>
-2° bevoegde entiteit Volksgezondheid: de afdeling Preventie van het Vlaams Agentschap Zorg en Gezondheid die conform het decreet integraal waterbeleid en het preventiedecreet bevoegd is voor het toezicht op de volksgezondheid,;&nbsp;<br>
+2° bevoegde entiteit Volksgezondheid:&nbsp;de functioneel bevoegde afdeling van het Departement Zorg die conform het decreet integraal waterbeleid en het preventiedecreet bevoegd is voor het toezicht op de volksgezondheid,;&nbsp;<br>
 3° controleambtenaar: de ambtenaar die aangeduid is bij besluit van de Vlaamse van 13 mei 2011 tot uitvoering van diverse bepalingen van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, en tot wijziging van het besluit van de Vlaamse Regering van 13 december 2002 houdende reglementering inzake de kwaliteit en levering van water, bestemd voor menselijke consumptie;&nbsp;<br>
 4° eigen waterleverancier: de titularis van een private waterwinning die water bestemd voor menselijke consumptie produceert en levert buiten het kader van een commerciële of openbare activiteit, zonder daarbij gebruik te maken van een openbaar waterdistributienetwerk;&nbsp;<br>
 5° gevaar: een biologisch, chemisch, fysisch of radiologisch agens in water, of een ander aspect van de toestand van water met mogelijk nadelige gevolgen voor de gezondheid van de mens;&nbsp;<br>
