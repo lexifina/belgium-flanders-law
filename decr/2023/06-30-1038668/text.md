@@ -64,6 +64,12 @@ De Vlaamse Regering kan voor de vereniging, vermeld in artikel 6, de nadere rege
 
 ## Afdeling 2. Aanpassing asielmiddelen voor centra voor volwassenenonderwijs in het kader van zomeraanbod NT2
 
+### ART 12.
+
+Aan artikel 196sexies, §1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, ingevoegd bij het decreet van 18 december 2015 en het laatst gewijzigd bij het decreet van 16 december 2022, wordt een negende lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“De centra voor volwassenenonderwijs kunnen na een voorafgaand akkoord in het bevoegde lokale comité de toegekende leraarsuren ten laste van het begrotingsjaar 2023 omzetten in werkingsmiddelen voor contractuele aanwervingen ten belope van de lesopdracht tijdens de maanden juli en augustus. Voor de omzetting geldt één leraarsuur voor 63,64 euro. Uiterlijk twee maanden na de melding aan het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen van de om te zetten leraarsuren voor de aanwerving van contractuele personeelsleden worden 80% van deze omgezette werkingsmiddelen als voorschot aan de centra uitbetaald. Het resterende saldo van 20% wordt uitbetaald uiterlijk in de loop van de maand december van het kalenderjaar 2023. Het centrum moet alle aangewende middelen bewijzen met facturen of betalingen die werden gedaan in het kader van deze contractuele aanstellingen. Niet-aangewende middelen worden na het einde van het kalenderjaar 2023 teruggestort. Daarvoor deelt het centrum het niet-aangewende bedrag mee aan de bevoegde administratie.”.
+
 ## Afdeling 3. Technische correctie van het bedrag van de nascholingsmiddelen voor de centra voor volwassenenonderwijs in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs
 
 ## Afdeling 4. Invoegen mogelijkheid tot reserve-opbouw voor de accreditatieorganisatie voor het hoger onderwijs
@@ -78,6 +84,12 @@ De accreditatieorganisatie kan het gedeelte van de toegekende financiële onders
 
 ## Afdeling 5. Toekenning van een bijkomend transitiebudget van 60.000 euro en 25.000 euro werkingsmiddelen aan de Posthogeschool voor Podiumkunsten vzw voor het begrotingsjaar 2023
 
+### ART 15.
+
+Aan artikel III.119, §1, van de Codex Hoger Onderwijs van 11 oktober 2013, vervangen bij het decreet van 8 juli 2022 en gewijzigd bij het decreet van 16 december 2022, wordt een achtste lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“Aan PoPoK wordt voor het begrotingsjaar 2023 een bijkomend transitiebudget van 60.000 euro voor een transitie- en onderzoekscoördinator en 25.000 euro aan werkingsmiddelen toegekend om de gesprekken en onderhandelingen met betrekking tot structurele, inhoudelijke en financiële samenwerkingen verder te zetten, en tegelijkertijd met deze transitie de programma’s van de huidige studenten te bestendigen.”.
+
 ## Afdeling 6. Projectspecifieke DBFM en DBFM-Scholen van Vlaanderen - Overschrijding machtiging
 
 ## Afdeling 7. DBFM-Scholen van Vlaanderen - Aandelenparticipatie
@@ -85,6 +97,44 @@ De accreditatieorganisatie kan het gedeelte van de toegekende financiële onders
 ## Afdeling 8. DBFM-Scholen van Vlaanderen – ODII-verdeling
 
 ## Afdeling 9. Extra werkingsbudget voor bijkomende capaciteit voor leerlingen met een verslag
+
+### ART 20.
+
+§1. Vanaf het begrotingsjaar 2023 kan de Vlaamse Regering jaarlijks per schooljaar, startend met het schooljaar 2023-2024, binnen de beschikbare begrotingskredieten een extra werkingsbudget toekennen aan gefinancierde of gesubsidieerde scholen voor gewoon en buitengewoon basisonderwijs en secundair onderwijs die extra capaciteit inrichten voor regelmatige leerlingen met een verslag, IAC-verslag of OV4-verslag. De toekenning gebeurt onder de volgende voorwaarden:<br>
+1° de scholen voor buitengewoon onderwijs richten het betreffende type of de betreffende combinatie van type en opleidingsvorm in hun aanbod in op het moment van de aanvraag;<br>
+2° &nbsp;de scholen van het gewoon of het buitengewoon onderwijs die extra capaciteit creëren voor leerlingen met een verslag, IAC-verslag of OV4-verslag hebben per type voor het basisonderwijs en per combinatie van type en opleidingsvorm, waarbij de leerlingen per type worden samengeteld over de in aanmerking komende opleidingsvormen heen, in het secundair onderwijs, ten minste 7 regelmatige leerlingen met een verslag, IAC-verslag of OV4-verslag meer op de eerste schooldag van februari van het jaar X, startend in 2024, in vergelijking met het aantal regelmatige leerlingen met een verslag, IAC-verslag of OV4-verslag van het betreffende type op de eerste schooldag van februari van het jaar X-1.<br>
+Voor het schooljaar 2023-2024 kunnen scholen extra werkingsbudget ontvangen als ze extra capaciteit creëren voor leerlingen met een verslag of IAC-verslag van type 2 of 3 van het buitengewoon basisonderwijs en opleidingsvorm 1, type 2 of type 3 en opleidingsvorm 2, type 2 of 3 van het buitengewoon secundair onderwijs.<br>
+De Vlaamse Regering bepaalt vanaf het schooljaar 2024-2025, in functie van de bestaande capaciteitstekorten voor leerlingen met een verslag, IAC- verslag of een OV4-verslag, welke types en welke combinaties van types en opleidingsvormen in aanmerking komen voor extra werkingsbudget.<br>
+De Vlaamse Regering kan, in functie van de bestaande capaciteitstekorten voor leerlingen met een verslag, IAC-verslag of een OV4-verslag, een prioritering tussen de types en de combinaties van types en opleidingsvormen bepalen, alsook een prioritering voor een onderwijsniveau;<br>
+3° de scholen die tellen of hertellen op de eerste schooldag van oktober van het jaar X-1 komen niet in aanmerking voor extra werkingsbudget;<br>
+4° de leerlingen die permanent onderwijs aan huis volgen op de eerste schooldag van februari van het jaar X kunnen niet meegeteld worden voor het bekomen van het vereiste aantal van minimum 7 bijkomende leerlingen per type of combinatie van type en opleidingsvorm in vergelijking met het aantal op de eerste schooldag van februari van het schooljaar X-1;<br>
+5° de scholen dienen tegen uiterlijk 15 juni of op de eerstvolgende werkdag als 15 juni in een weekend valt, van het jaar X-1 een aanvraag in waarin de beoogde bijkomende capaciteit wordt vermeld die zal worden ingericht vanaf de eerste schooldag van september van het jaar X-1. De bevoegde diensten van de Vlaamse Gemeenschap stellen daarvoor een digitaal aanvraagformulier ter beschikking;<br>
+6° in voorkomend geval, worden de scholen conform de aanvraag, vermeld in punt 5°, gerangschikt volgens de prioritering van de types en de combinaties van types en opleidingsvormen, alsook volgens de prioritering van een onderwijsniveau als vermeld in punt 2°;<br>
+7° de school is gelegen in een onderwijszone als vermeld in artikel 53 van de Codex Secundair Onderwijs van 17 december 2010 waar zich een capaciteitstekort voordoet voor leerlingen met een verslag, IAC-verslag of OV4-verslag voor de in aanmerking komende types of combinaties van types en opleidingsvormen, vermeld in punt 2°. De bevoegde diensten van de Vlaamse Gemeenschap bepalen jaarlijks voor de in aanmerking komende types of combinaties van types en opleidingsvormen een rangorde per type, van de onderwijszones waarin zich een capaciteitstekort stelt door rekening te houden met ontbrekend of ontoereikend aanbod voor de in aanmerking komende types of combinaties van types en opleidingsvormen, op basis van de volgende criteria. Hierbij worden voor het secundair onderwijs de leerlingen per type samengeteld, over de in aanmerking komende opleidingsvormen heen:<br>
+&nbsp; a) eerst de mismatch in absolute cijfers tussen het aantal leerlingen dat ingeschreven is in het buitengewoon onderwijs en woonachtig is in de betreffende onderwijszone (a) en het aantal leerlingen dat ingeschreven is in het buitengewoon onderwijs in een vestigingsplaats voor buitengewoon onderwijs gelegen in de betreffende onderwijszone (b), waarbij het resultaat van (b) min (a) altijd negatief moet zijn;<br>
+&nbsp; b) vervolgens, bij een ex aequo van a), de procentuele uitgaande pendel tussen de woonplaats en de onderwijsplaats voor de leerlingen woonachtig in de betrokken zone, waarbij een hogere pendel tot een hogere rangschikking leidt;<br>
+8° binnen de gerangschikte onderwijszones, vermeld in punt 7°, en rekening houdend met het bepaalde in punt 6°, worden de scholen die een aanvraag indienden op hun beurt gerangschikt op basis van het beoogde aantal bijkomende inschrijvingen in verhouding tot het absoluut tekort, vermeld in punt 7°, a), in de onderwijszone voor dat type, waarbij een school die meer extra inschrijvingen realiseert gunstiger wordt gerangschikt dan een school die minder extra inschrijvingen realiseert;<br>
+9° in afwijking van punt 7° en 8° en indien er nog te besteden werkingsbudget over is nadat alle aanvragen uit zones met tekorten gehonoreerd zijn, kunnen scholen met aanvragen uit andere onderwijszones gerangschikt worden. Deze scholen worden gerangschikt op basis van de afstand, vermeld in artikel 3, 4°, van het decreet basisonderwijs van 25 februari 1997, van de vestigingsplaats waar extra inschrijvingen gerealiseerd zullen worden tot de grens van de onderwijszone met tekorten. Een school met een vestigingsplaats waar extra inschrijvingen gerealiseerd zullen worden die dichter gelegen is, wordt gunstiger gerangschikt dan een school met een vestigingsplaats die verderaf gelegen is tot de grens van de onderwijszone met tekorten. Bij een ex aequo in afstand wordt de school die meer extra leerlingen inschrijft gunstiger gerangschikt dan een school die minder extra leerlingen inschrijft.<br>
+<br>
+De scholen die, rekening houdend met de beschikbare begrotingskredieten, gunstig gerangschikt zijn, komen in aanmerking voor extra werkingsbudget. De toewijzing van extra werkingsbudget gebeurt telkens aan de hoogst gerangschikte onderwijszone voor elk type van de hoogst gerangschikte zones tot de laagst gerangschikte zones en daarbinnen van de hoogst naar de laagst gerangschikte scholen. De scholen die niet gunstig gerangschikt zijn, krijgen een brief met de motivering waarom ze niet gunstig gerangschikt werden.<br>
+<br>
+Het extra werkingsbudget bedraagt voor het schooljaar 2023-2024 18.000 euro per extra leerling met een verslag, IAC-verslag in het basisonderwijs en<br>
+24.00 euro per extra leerling met een verslag, IAC-verslag of OV4-verslag in het secundair onderwijs. Deze bedragen worden jaarlijks vermenigvuldigd met de aanpassingscoëfficiënt A, die berekend wordt conform de volgende formule:<br>
+A = (Cx-1/Cx-2), waarbij:<br>
+1° Cx-1: de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
+2° Cx-2: de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br>
+<br>
+§2. Het extra werkingsbudget wordt aangewend voor de personeels- en werkingskosten die verbonden zijn aan de inrichting van extra capaciteit.<br>
+<br>
+§3. Een eerste schijf van 60% wordt, uiterlijk op 31 december van het jaar X-1, uitbetaald op basis van het beoogde aantal leerlingen die per type bijkomend zullen worden ingeschreven, vermeld in paragraaf 1, 5°. Het saldo van maximaal 40% wordt uiterlijk op 30 juni van het jaar X uitbetaald na verificatie van het werkelijke aantal bijkomende inschrijvingen per type op de eerste schooldag van februari van het jaar X in vergelijking met de eerste schooldag van februari van het jaar X-1.<br>
+<br>
+Indien het vooropgestelde minimum van 7 leerlingen niet wordt gehaald, wordt alle extra werkingsbudget teruggevorderd, behalve in geval van overmacht. Indien door overmacht het vooropgestelde minimum van 7 leerlingen niet wordt gehaald, wordt er uitbetaald voor het aantal leerlingen dat effectief extra is ingeschreven.<br>
+&nbsp;<br>
+Indien evenveel leerlingen werden ingeschreven als vooropgesteld in de aanvraag, krijgt de school het saldo volledig uitbetaald.<br>
+<br>
+Indien er meer leerlingen werden ingeschreven dan vooropgesteld in de aanvraag, wordt er uitbetaald tot het aantal leerlingen uit de aanvraag.<br>
+<br>
+Indien er minder leerlingen werden ingeschreven dan vooropgesteld in de aanvraag, maar het vooropgestelde minimum van 7 leerlingen werd bereikt, wordt berekend hoeveel de school nog als saldo moet ontvangen of hoeveel er teruggevorderd zal worden van de eerste schijf van 60%. De berekening gebeurt op basis van het aantal extra leerlingen dat daadwerkelijk extra werd ingeschreven.
 
 ## Afdeling 10. Ondersteuningsbeleid voor cognitief sterk functionerende leerlingen
 
