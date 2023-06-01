@@ -101,7 +101,7 @@ c) de andere toelagen die de overheid toekent in het kader van het gezinsbeleid,
 7° kennisgeving: een schriftelijke mededeling met een aangetekende brief of elektronisch, als dat een ontvangstbewijs van de geadresseerde oplevert, of door afgifte tegen ontvangstbewijs;<br>
 8° toezichthouder: een gezinsinspecteur of zorginspecteur;<br>
 9° zorginspecteur: een personeelslid van Zorginspectie met toezichtsopdracht;<br>
-10° Zorginspectie: Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin als vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.
+10° Zorginspectie: de afdeling Zorginspectie van het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.
 
 ### ART 4.
 
