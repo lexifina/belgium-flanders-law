@@ -2,16 +2,16 @@
   "codex_id": 1026464,
   "title": "Besluit van de Vlaamse Regering van 2016-01-15 houdende de erkenning van kinesitherapeuten en van de bijzondere beroepsbekwaamheden voor kinesitherapeuten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026464/VolledigDocument?datum=2023-05-31",
-  "source_sha256": "cd28dd64d053f08c0ae25ca6fd5bb57477dc1e49f527c75ae3adbd2dbf478079",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026464/VolledigDocument?datum=2023-06-01",
+  "source_sha256": "c67bbde762cf916ed4ce175611f1cc2d00eda1a1e4ae957f8e6dfd33a2372fc6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026464&param=informatie",
-  "as_of": "2023-05-31",
+  "as_of": "2023-06-01",
   "made": "2016-01-15",
   "gazette": "2016-02-11",
   "numac": 2016035149,
   "document_start": "2016-01-01",
   "document_end": null,
-  "in_force": "2023-05-31",
+  "in_force": "2023-06-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2023-05-31; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
 }
