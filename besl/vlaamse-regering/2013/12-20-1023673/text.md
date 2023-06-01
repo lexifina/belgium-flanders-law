@@ -8,7 +8,11 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <BR>1° decreet van 7 december 2012 :   het decreet van 7 december 2012 houdende de stimulering van een inclusief Vlaams   ouderenbeleid en de beleidsparticipatie van ouderen;<BR>2° departement : het   departement Welzijn, Volksgezondheid en Gezin<BR>3° minister : de Vlaamse   minister, bevoegd voor de bijstand aan personen;<BR>4° relevante   partnerorganisatie : een organisatie die de kennis van een lokaal bestuur en van   ouderen op het terrein over de ontwikkeling van een inclusief ouderenbeleid en   de beleidsparticipatie van ouderen kan ondersteunen of   versterken.<BR>
+In dit besluit wordt verstaan onder :<br>
+1° decreet van 7 december 2012 : het decreet van 7 december 2012 houdende de stimulering van een inclusief Vlaams ouderenbeleid en de beleidsparticipatie van ouderen;<br>
+2° departement : het Departement Zorg;<br>
+3° minister : de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
+4° relevante partnerorganisatie : een organisatie die de kennis van een lokaal bestuur en van ouderen op het terrein over de ontwikkeling van een inclusief ouderenbeleid en de beleidsparticipatie van ouderen kan ondersteunen of versterken.
 
 ## HOOFDSTUK 2 Erkenning van de partnerorganisaties
 
