@@ -43,7 +43,7 @@ Het model van aanvraagformulier, vermeld in artikel 8, derde lid, van het beslui
 
 ### ART 3.
 
-Het aanvraagformulier, vermeld in artikel 2, wordt op digitale wijze ingediend bij het Departement WVG.<br>
+Het aanvraagformulier, vermeld in artikel 2, wordt op digitale wijze ingediend bij het Departement Zorg.<br>
 &nbsp;
 
 ### ART 4.
@@ -52,7 +52,7 @@ Het bewijs, vermeld in artikel 9, eerste lid, 2°, van het besluit van 2 februar
 
 ### ART 5.
 
-Het Departement WVG brengt de mandaataanvrager op digitale wijze op de hoogte van de beslissing, vermeld in artikel 11, eerste lid, van het besluit van 2 februari 2018.<br>
+Het Departement Zorg brengt de mandaataanvrager op digitale wijze op de hoogte van de beslissing, vermeld in artikel 11, eerste lid, van het besluit van 2 februari 2018.<br>
 &nbsp;
 
 ### ART 6.
@@ -69,7 +69,7 @@ Het model van aanvraagformulier, vermeld in artikel 46, § 2, derde lid, van het
 
 ### ART 8.
 
-Het aanvraagformulier, vermeld in artikel 7, wordt op digitale wijze ingediend bij het Departement WVG.<br>
+Het aanvraagformulier, vermeld in artikel 7, wordt op digitale wijze ingediend bij het Departement Zorg.<br>
 &nbsp;
 
 ### ART 9.
@@ -78,12 +78,12 @@ Het bewijs, vermeld in artikel 46, § 2, vierde lid, 2°, van het besluit van 2 
 
 ### ART 10.
 
-Het Departement WVG brengt de aanvrager op digitale wijze op de hoogte van de beslissing, vermeld in artikel 46, § 2, zesde lid, van het besluit van 2 februari 2018.<br>
+Het Departement Zorg brengt de aanvrager op digitale wijze op de hoogte van de beslissing, vermeld in artikel 46, § 2, zesde lid, van het besluit van 2 februari 2018.<br>
 &nbsp;
 
 ### ART 11.
 
-De begeleider arbeidsmatige activiteiten die initieel erkend is voor een periode van vijf jaar, vraagt de verlenging van de erkenning ten minste acht maanden voor het verstrijken van de erkenningsduur aan bij het Departement WVG. Op voorwaarde dat aan alle erkenningsvoorwaarden voldaan is, wordt een verlenging van de erkenning voor een periode van vijf jaar als begeleider arbeidsmatige activiteiten toegekend.<br>
+De begeleider arbeidsmatige activiteiten die initieel erkend is voor een periode van vijf jaar, vraagt de verlenging van de erkenning ten minste acht maanden voor het verstrijken van de erkenningsduur aan bij het Departement Zorg. Op voorwaarde dat aan alle erkenningsvoorwaarden voldaan is, wordt een verlenging van de erkenning voor een periode van vijf jaar als begeleider arbeidsmatige activiteiten toegekend.<br>
 <br>
 Een ontvankelijke aanvraag tot verlenging bevat de gegevens en stukken, vermeld in artikel 46, § 2, vierde lid, van het besluit van 2 februari 2018.<br>
 <br>
