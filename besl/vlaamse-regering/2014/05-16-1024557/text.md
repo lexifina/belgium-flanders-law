@@ -8,7 +8,12 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° administrateur-generaal: de   leidend ambtenaar van het agentschap;<BR>2° agentschap: het Agentschap Zorg en   Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot   oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<BR>3°   decreet van 21 november 2003: het decreet van 21 november 2003 betreffende het   preventieve gezondheidsbeleid;<BR>4° minister: de Vlaamse minister, bevoegd voor   het gezondheidsbeleid.<BR>
+In dit besluit wordt verstaan onder:<br>
+1° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
+2° ...;<br>
+3° decreet van 21 november 2003: het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid;<br>
+4° minister: de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
+5° secretaris-generaal: het hoofd van de administratie.
 
 ## HOOFDSTUK 2 Uitvoering van diverse bepalingen van het decreet van 21 november 2003
 
@@ -30,7 +35,19 @@ Een voorstel van een nieuwe of te herziene Vlaamse gezondheidsdoelstelling   als
 
 ### ART. 6.
 
-<P>Een centrum voor geestelijke gezondheidszorg wordt, met toepassing van   artikel 23, § 2, van het decreet van 21 november 2003, door de   administrateur-generaal erkend als organisatie met terreinwerking als voldaan is   aan al de volgende voorwaarden:<BR>1° er is een preventieovereenkomst van   maximaal drie jaar gesloten met de Vlaamse Regering over de initiatieven die het   centrum neemt als vermeld in artikel 63 of 69 van het decreet van 21 november   2003. De preventieovereenkomst vermeldt minimaal een of meer beleidsthema's, de   afspraken over de uitvoering van de initiatieven in het kader van de   beleidsthema's, het werkgebied van de organisatie met terreinwerking, de omvang   van de personeelsomkadering, vermeld in punt 2°, de afstemming op de   subsidiering en de regels voor het opzeggen van de overeenkomst. De   preventieovereenkomst wordt als onderdeel toegevoegd aan de overeenkomst,   vermeld in artikel 24 van het decreet van 18 mei 1999 betreffende de geestelijke   gezondheidszorg, en heeft bij voorkeur dezelfde duur;<BR>2° het centrum beschikt   over personeel dat specifiek belast is met het uitvoeren van de initiatieven,   vastgelegd in de preventieovereenkomst, vermeld in punt 1° ;<BR>3° het centrum   registreert de activiteiten in het kader van de preventieovereenkomst, vermeld   in punt 1°, en bezorgt die registratiegegevens aan het agentschap. Het   agentschap bepaalt de vorm en de overdrachtswijze en -frequentie van de   registratiegegevens en kan daartoe, na overleg met de betrokkenen, een   registratiesysteem invoeren waarvan de administratieve last zo beperkt mogelijk   wordt gehouden. De laatste registratiegegevens van een werkingsjaar worden   bezorgd uiterlijk drie maanden nadat het werkingsjaar is verstreken;<BR>4° het   centrum toont aan dat het, als organisatie met terreinwerking, voldoende   personeel inzet voor de realisatie van de initiatieven in het kader van de   preventieovereenkomst, vermeld in punt 1°.<BR></P>  <P>In het eerste lid wordt verstaan onder centrum voor geestelijke   gezondheidszorg: een centrum als vermeld in artikel 2, 1°, van het decreet van   18 mei 1999 betreffende de geestelijke gezondheidszorg.<BR></P>  <P>Bij de bepaling van het werkgebied, vermeld in het eerste lid, 1°, volgt de   minister het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en   betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en   welzijnsvoorzieningen.<BR></P>  <P>De erkenning als organisatie met terreinwerking loopt zolang de   preventieovereenkomst, vermeld in het eerste lid, geldig is.<BR></P>  <P>Het niet meer voldoen aan een of meer voorwaarden, vermeld in het eerste lid,   of het niet-nakomen van de afspraken uit de overeenkomst, vermeld in het eerste   lid, 1°, leidt tot het intrekken van de erkenning als organisatie met   terreinwerking. Voor de organisaties met terreinwerking, vermeld in het eerste   lid, is er geen mogelijkheid tot schorsing van de   erkenning.<BR></P>
+<p>Een centrum voor geestelijke gezondheidszorg wordt, met toepassing van artikel 23, § 2, van het decreet van 21 november 2003, door de secretaris-generaal erkend als organisatie met terreinwerking als voldaan is aan al de volgende voorwaarden:<br>
+1° er is een preventieovereenkomst van maximaal drie jaar gesloten met de Vlaamse Regering over de initiatieven die het centrum neemt als vermeld in artikel 63 of 69 van het decreet van 21 november 2003. De preventieovereenkomst vermeldt minimaal een of meer beleidsthema's, de afspraken over de uitvoering van de initiatieven in het kader van de beleidsthema's, het werkgebied van de organisatie met terreinwerking, de omvang van de personeelsomkadering, vermeld in punt 2°, de afstemming op de subsidiering en de regels voor het opzeggen van de overeenkomst. De preventieovereenkomst wordt als onderdeel toegevoegd aan de overeenkomst, vermeld in artikel 24 van het decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg, en heeft bij voorkeur dezelfde duur;<br>
+2° het centrum beschikt over personeel dat specifiek belast is met het uitvoeren van de initiatieven, vastgelegd in de preventieovereenkomst, vermeld in punt 1° ;<br>
+3° het centrum registreert de activiteiten in het kader van de preventieovereenkomst, vermeld in punt 1°, en bezorgt die registratiegegevens aan de administratie. de administratie bepaalt de vorm en de overdrachtswijze en -frequentie van de registratiegegevens en kan daartoe, na overleg met de betrokkenen, een registratiesysteem invoeren waarvan de administratieve last zo beperkt mogelijk wordt gehouden. De laatste registratiegegevens van een werkingsjaar worden bezorgd uiterlijk drie maanden nadat het werkingsjaar is verstreken;<br>
+4° het centrum toont aan dat het, als organisatie met terreinwerking, voldoende personeel inzet voor de realisatie van de initiatieven in het kader van de preventieovereenkomst, vermeld in punt 1°.</p>
+
+<p>In het eerste lid wordt verstaan onder centrum voor geestelijke gezondheidszorg: een centrum als vermeld in artikel 2, 1°, van het decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg.</p>
+
+<p>Bij de bepaling van het werkgebied, vermeld in het eerste lid, 1°, volgt de minister het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en welzijnsvoorzieningen.</p>
+
+<p>De erkenning als organisatie met terreinwerking loopt zolang de preventieovereenkomst, vermeld in het eerste lid, geldig is.</p>
+
+<p>Het niet meer voldoen aan een of meer voorwaarden, vermeld in het eerste lid, of het niet-nakomen van de afspraken uit de overeenkomst, vermeld in het eerste lid, 1°, leidt tot het intrekken van de erkenning als organisatie met terreinwerking. Voor de organisaties met terreinwerking, vermeld in het eerste lid, is er geen mogelijkheid tot schorsing van de erkenning.</p>
 
 ### ART. 7.
 
@@ -46,7 +63,9 @@ Onder het registratiesysteem, vermeld in artikel 43, § 3, van het decreet   van
 
 ### ART. 10.
 
-<P>De administrateur-generaal kan een administratieve geldboete opleggen als   vermeld in artikel 76 van het decreet van 21 november 2003.<BR></P>  <P>De beslissing van de administrateur-generaal waarin een administratieve   geldboete wordt opgelegd, wordt aangetekend met kennisgeving van ontvangst, aan   de betrokkene bezorgd. De beslissing vermeldt het bedrag van de administratieve   geldboete en de wijze waarop de geldboete moet worden betaald binnen een termijn   van dertig dagen na de ontvangst van de beslissing.<BR></P>
+<p>De secretaris-generaal kan een administratieve geldboete opleggen als vermeld in artikel 76 van het decreet van 21 november 2003.</p>
+
+<p>De beslissing van de secretaris-generaal waarin een administratieve geldboete wordt opgelegd, wordt aangetekend met kennisgeving van ontvangst, aan de betrokkene bezorgd. De beslissing vermeldt het bedrag van de administratieve geldboete en de wijze waarop de geldboete moet worden betaald binnen een termijn van dertig dagen na de ontvangst van de beslissing.</p>
 
 ### ART. 11.
 
