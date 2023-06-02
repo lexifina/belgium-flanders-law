@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038420,
+  "title": "Samenwerkingsakkoord van 2023-02-16 houdende uitvoering van het samenwerkingsakkoord van 30 januari 2019 tussen de Federale Staat, de Gemeenschappen en de Gewesten betreffende de preventie en beheersing van de introductie en verspreiding van invasieve uitheemse soorten, en tot vaststelling van de procedures en modaliteiten betreffende de rapportering over de uitvoering van de verordening(EU) nr. 1143/2014",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038420/VolledigDocument?datum=2023-06-02",
+  "source_sha256": "2d6413600fcf374fbd6815957015fb11bbfd056381d6f45fa12eb11e42023610",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038420&param=informatie",
+  "as_of": "2023-06-02",
+  "made": "2023-02-16",
+  "gazette": "2023-06-02",
+  "numac": 2023042148,
+  "document_start": "2023-06-02",
+  "document_end": null,
+  "in_force": "2023-06-02",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2023-06-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
