@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038315,
+  "title": "Samenwerkingsakkoord van 2022-11-30 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest, het Brusselse Hoofdstedelijk Gewest, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie tot het invoeren van een mechanisme voor de screening van buitenlandse directe investeringen",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038315/VolledigDocument?datum=2023-06-07",
+  "source_sha256": "e79dd2a7fb5169276088209fd3fd4895c09701347e5668861dd08edb4f8ab4b6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038315&param=informatie",
+  "as_of": "2023-06-07",
+  "made": "2022-11-30",
+  "gazette": "2023-06-07",
+  "numac": 2023031123,
+  "document_start": "2023-06-07",
+  "document_end": null,
+  "in_force": "2023-06-07",
+  "article_versions": 41,
+  "record_form": "consolidated version as in force on 2023-06-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
