@@ -3121,7 +3121,8 @@ De houder van een zakelijk recht wordt vrijgesteld van de heffing als hij&nbsp;d
 2°...;<br>
 3°&nbsp;de woningen die getroffen zijn door een ramp die zich heeft voorgedaan onafhankelijk van de wil van de belastingplichtige, gedurende een periode van twee jaar die volgt op de datum van de ramp;<br>
 4°&nbsp;de woningen waarvoor het sociaal beheersrecht conform artikel 5.82 tot 5.85 van de Vlaamse Codex Wonen van 2021, ingesteld is;<br>
-5° de woningen waarvoor een renovatiecontract als vermeld in artikel 3.30, § 2, van de Vlaamse Codex Wonen van 2021, gesloten is.</p>
+5° de woningen waarvoor een renovatiecontract als vermeld in artikel 3.30, § 2, van de Vlaamse Codex Wonen van 2021, gesloten is;<br>
+6° de woningen geheel of gedeeltelijk verkregen bij erfopvolging of testament, gedurende een periode van twee jaar die volgt op de datum van de verkrijging.</p>
 
 <p>Onder een ramp als vermeld in het eerste lid, 3°, wordt verstaan elke gebeurtenis die uiterlijk waarneembare schade veroorzaakt aan&nbsp;de woning, waardoor het gebruik of de bewoning van&nbsp;de woning geheel of ten dele onmogelijk wordt.</p>
 
@@ -3150,7 +3151,7 @@ De houder van een zakelijk recht wordt vrijgesteld van de heffing als hij&nbsp;d
 <p>De opschorting, vermeld in het eerste lid, geldt niet voor de volgende overdrachten :<br>
 1° de overdracht aan vennootschappen die door de overdrager rechtstreeks of onrechtstreeks in rechten of in feiten gecontroleerd worden;<br>
 2° de overdracht die het gevolg is van een fusie, splitsing of een andere overgang onder algemene titel;<br>
-3° de overdracht aan bloed- en aanverwanten tot en met de derde graad, tenzij in geval van overdracht bij erfopvolging of testament.</p>
+3° de overdracht aan bloed- en aanverwanten tot en met de derde graad.</p>
 
 ### ART. 2.5.7.0.3.
 
