@@ -2,16 +2,16 @@
   "codex_id": 1020893,
   "title": "Omzendbrief van 2011-10-14 BB 2011/4 - Beslissingen tijdens het jaar van de gemeenteraads-, stadsdistrictsraads- en provincieraadsverkiezingen en gebruik van informatiemiddelen",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020893/VolledigDocument?datum=2011-10-14",
-  "source_sha256": "d1d53a62f61e85ae0b64c306904284292e09897f46178801722483284b173834",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020893/VolledigDocument?datum=2023-06-09",
+  "source_sha256": "66fba131e5d3437873560c38c378d099aaef247561d2b8b5b48e16c503e0c185",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020893&param=informatie",
-  "as_of": "2011-10-14",
+  "as_of": "2023-06-09",
   "made": "2011-10-14",
   "gazette": "2011-11-03",
   "numac": 2011205529,
   "document_start": "2011-10-14",
   "document_end": "2023-06-08",
-  "in_force": "2011-10-14",
+  "in_force": "2023-06-09",
   "article_versions": 1,
-  "record_form": "consolidated version as in force on 2011-10-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-09; future article versions excluded; article text as the API gives it"
 }
