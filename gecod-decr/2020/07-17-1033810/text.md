@@ -35,7 +35,7 @@ c) elke andere door de Vlaamse Regering toegelaten betekeningswijze waarbij de d
 10° distributienetbeheerders: de natuurlijke personen of rechtspersonen, vermeld in artikel 2, 8°, van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt, en artikel 1, 31°, van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen;<br>
 11° doortrekkersterrein: een terrein dat bestemd en ingericht is voor het tijdelijk plaatsen van verkeerswaardige woonwagens;<br>
 12° eengezinswoning: elk bebouwd onroerend goed dat hoofdzakelijk bestemd is voor de huisvesting van één gezin of één alleenstaande, waarin zich geen andere woningen bevinden;<br>
-13° erkende huurdiensten: huurdersbonden of woonmaatschappijen&nbsp;die door de Vlaamse Regering erkend zijn overeenkomstig artikel 4.54 en artikel 4.68;<br>
+13° ...;<br>
 14° gebouw: elk bebouwd onroerend goed, dat zowel het hoofdgebouw als de bijgebouwen omvat, met uitsluiting van bedrijfsruimten, vermeld in artikel 2, 1°, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten;<br>
 15° Geïntegreerd Beheers- en Controlesysteem: het registratiesysteem in de zin van titel II, hoofdstuk 4, van de verordening (EG) nr. 1782/2003 van de Raad van 29 september 2003 tot vaststelling van gemeenschappelijke voorschriften voor regelingen inzake rechtstreekse steunverlening in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers en houdende wijziging van de verordeningen (EEG) nr. 2019/93, (EG) nr. 1452/2001, (EG) 1453/2001, (EG) nr. 1454/2001, (EG) nr. 1868/94, (EG) nr. 1251/1999, (EG) nr. 1254/1999, (EG) nr. 1673/2000, (EEG) nr. 2358/71 en (EG) nr. 2529/2001;<br>
 16° gemeenschappelijk wonen: een woonvorm in een gebouw of gebouwencomplex dat wonen als hoofdfunctie heeft en uit verschillende woongelegenheden bestaat, waarbij minimaal twee huishoudens op vrijwillige basis minimaal één leefruimte delen en daarnaast elk over minimaal één private leefruimte beschikken en waarbij de bewoners samen instaan voor het beheer;<br>
@@ -68,7 +68,7 @@ c) elke andere door de Vlaamse Regering toegelaten betekeningswijze waarbij de d
 43° residentieel woonwagenterrein: een terrein dat bestemd en ingericht is voor het sedentaire wonen in een woonwagen en waarop een beperkte ambachtelijke en/of commerciële activiteit kan plaatsvinden in overeenstemming met de heersende wetgeving;<br>
 44° rookmelder: een apparaat conform NBN EN 14604 dat reageert op de rookontwikkeling bij brand door het produceren van een scherp geluidssignaal, en dat niet van het ionische type is;<br>
 45° schattingsprijs: de raming van de waarde van een onroerend goed door een van de volgende personen of instanties, op voorwaarde dat een raming van een persoon of instantie als vermeld in punt a) en b), primeert op een raming van een persoon of instantie als vermeld in punt c), d) en e):<br>
-a) een commissaris van de Vlaamse Belastingdienst die bevoegd is voor schattingen;<br>
+a) een schatter-onderhandelaar van de Vlaamse Belastingdienst die bevoegd is voor schattingen;<br>
 b) ...;<br>
 c) een notaris;<br>
 d) een landmeter-expert, na gezamenlijk akkoord over de schatter;<br>
@@ -86,7 +86,7 @@ a) de VMSW of een woonmaatschappij;<br>
 b) ...<br>
 c) het Vlaams Woningfonds, een gemeente, een intergemeentelijk samenwerkingsverband, een OCMW of een welzijnsvereniging, voor zover er voor die woning een van de volgende subsidies werd verleend:<br>
 1) een subsidie met toepassing van artikel 38, tweede lid, 5°, van de Huisvestingscode, gevoegd bij het koninklijk besluit van 10 december 1970, bekrachtigd bij de wet van 2 juli 1971;<br>
-2) een subsidie als vermeld in artikel 49 van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992, of in boek 5, deel 2, titel 1, 2, 3, 4, 5 of 6;<br>
+2) een subsidie als vermeld in artikel 49 van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992, artikel 4.16, eerste lid, of in boek 5, deel 2, titel 1, 2, 3, 4, 5 of 6;<br>
 d) een gemeente, een OCMW of een sociale woonorganisatie, met uitzondering van de huurdersorganisaties, voor zover op de woning het sociaal beheersrecht, vermeld in artikel 5.82, wordt uitgeoefend of voor zover het een woning als vermeld in artikel 3.30, §2, betreft;<br>
 e) een gemeente of een OCMW, voor zover de woning verworven werd met toepassing van het recht van voorkoop, vermeld in artikel 5.76;<br>
 f) een gemeente of een intergemeentelijk samenwerkingsverband, voor zover er toepassing gemaakt wordt van artikel 2.8;<br>
@@ -109,6 +109,7 @@ d) een gemeente, voor zover de woning verworven werd met toepassing van het rech
 57° venale waarde: de prijs die de meestbiedende kandidaat-koper bereid zou zijn te betalen als een onroerend goed te koop gesteld zou worden onder de meest gunstige voorwaarden en na een degelijke voorbereiding;<br>
 58° verbetering: de uitvoering van beperkte ingrepen aan een woning, vooral met betrekking tot het comfort, de toegankelijkheid, de energie-efficiëntie of de privacy ten aanzien van de onmiddellijke woonomgeving;<br>
 59° vervangingsbouw: een gebouw of woning volledig afbreken en op hetzelfde perceel een of meer nieuwe woningen oprichten;<br>
+59°/1 verwerkingsverantwoordelijke: de persoon, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming;<br>
 60° Vlaamse besturen:<br>
 a) de Vlaamse ministeries, agentschappen en openbare instellingen;<br>
 b) de Vlaamse provincies, gemeenten en districten;<br>
@@ -118,6 +119,7 @@ e) de Vlaamse openbare centra voor maatschappelijk welzijn en de verenigingen, v
 f) de polders, vermeld in de wet van 3 juni 1957 betreffende de polders, en de wateringen, vermeld in de wet van 5 juli 1956 betreffende de wateringen;<br>
 g) de Vlaamse kerkfabrieken en de instellingen die belast zijn met het beheer van de temporaliën van de erkende erediensten;<br>
 61° Vlaamse Codex Ruimtelijke Ordening: de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009;<br>
+61°/1 Vlaamse Dienstenintegrator: de Vlaamse dienstenintegrator, vermeld in artikel 3 van het decreet van 13 juli 2012 houdende oprichting en organisatie van een Vlaamse Dienstenintegrator;<br>
 62° Vlaamse semipublieke rechtspersonen: rechtspersonen die niet behoren tot de Vlaamse besturen, doch met één of meer Vlaamse besturen een bijzondere band vertonen, doordat zij voldoen aan beide hiernavolgende voorwaarden:<br>
 a) hun werkzaamheden worden in hoofdzaak gefinancierd of gesubsidieerd door één of meer Vlaamse besturen;<br>
 b) hun werking is rechtstreeks of onrechtstreeks onderworpen aan enig toezicht in hoofde van een Vlaams bestuur middels één van de hiernavolgende regimes:<br>
@@ -781,15 +783,17 @@ Er wordt een beoordelingscommissie opgericht. De beoordelingscommissie neemt bes
 
 ### ART 3.2.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De gemeenteraad kan bij verordening:</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">1° het conformiteitsattest, vermeld in artikel 3.6, verplicht stellen en bepalen dat zolang niet aan die verplichting is voldaan, een jaarlijks terugkerende verplichting wordt opgelegd om dat attest aan te vragen;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">2° strengere veiligheids- en kwaliteitsnormen voor kamers opleggen dan vastgesteld door de Vlaamse Regering met toepassing van artikel 3.1, §2;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">3° het verhuren of ter beschikking of te huur stellen van kamers aan een voorafgaande vergunning onderwerpen met het oog op de naleving van de normen, vermeld in punt 2°;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">4° opleggen dat kamers in hetzelfde gebouw hetzij aan studenten, hetzij aan niet-studenten worden verhuurd.</span></span></span><br>
+<p>De gemeenteraad kan, bij verordening, na over de definitieve ontwerptekst een voorafgaand, niet-bindend advies te hebben ingewonnen bij de dienst die door de Vlaamse Regering belast is met het woonbeleid:<br>
+1° het conformiteitsattest, vermeld in artikel 3.6, verplicht stellen en bepalen dat zolang niet aan die verplichting is voldaan, een jaarlijks terugkerende verplichting wordt opgelegd om dat attest aan te vragen;<br>
+2° strengere veiligheids- en kwaliteitsnormen voor kamers opleggen dan vastgesteld door de Vlaamse Regering met toepassing van artikel 3.1, §2;<br>
+3° het verhuren of ter beschikking of te huur stellen van kamers aan een voorafgaande vergunning onderwerpen met het oog op de naleving van de normen, vermeld in punt 2°;<br>
+4° opleggen dat kamers in hetzelfde gebouw hetzij aan studenten, hetzij aan niet-studenten worden verhuurd.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Een gemeentelijke verordening als vermeld in het eerste lid geldt pas vanaf de goedkeuring door de Vlaamse Regering en tot ze herzien of vervangen wordt met toepassing van dezelfde procedure. Als een goedgekeurde verordening opgeheven wordt, brengt de gemeente de Vlaamse Regering daarvan op de hoogte.</span></span></span><br>
+De gemeenteraad kan een verordening als vermeld in het eerste lid wijzigen of herzien nadat hij een advies heeft ingewonnen als vermeld in het eerste lid. Als de verordening opgeheven wordt, brengt de gemeente de dienst, vermeld in het eerste lid, daarvan op de hoogte.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De Vlaamse Regering kan nadere regels bepalen voor de gemeentelijke verordeningen, vermeld in het eerste lid.</span></span></span></p>
+De gemeente mag voorbijgaan aan de adviesverplichting, vermeld in het eerste en tweede lid, als de dienst, vermeld in het eerste lid, het gevraagde advies niet verstrekt binnen zestig dagen na ontvangst van de adviesvraag.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de gemeentelijke verordeningen, vermeld in het eerste lid, voor de adviesverplichting, vermeld in het eerste en tweede lid, en voor het voorbijgaan aan de adviesverplichting, vermeld in het derde lid.</p>
 
 ## Deel 2. Conformiteitsonderzoek
 
@@ -825,65 +829,77 @@ Er wordt een beoordelingscommissie opgericht. De beoordelingscommissie neemt bes
 
 ### ART 3.6.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§1. De conformiteit van een woning die verhuurd wordt of te huur of ter beschikking gesteld wordt als hoofdverblijfplaats of voor de huisvesting van een of meer studenten, kan blijken uit het conformiteitsattest dat de burgemeester afgeeft op eigen initiatief of op verzoek. Het conformiteitsattest vermeldt de aanwezigheid van eventuele gebreken als vermeld in artikel 3.1, §1, derde lid, 1°, en de toegestane maximale woningbezetting volgens de normen die worden vastgesteld met toepassing van artikel 3.1, §1, vierde lid.</span></span></span><br>
+<p>§1. De conformiteit van een woning die verhuurd wordt of te huur of ter beschikking gesteld wordt , of van een woning die behoort tot een specifieke categorie van woningen die de Vlaamse Regering nader kan bepalen, kan blijken uit het conformiteitsattest dat de burgemeester afgeeft op eigen initiatief of op verzoek. Het conformiteitsattest vermeldt de aanwezigheid van eventuele gebreken als vermeld in artikel 3.1, §1, derde lid, 1°, en de toegestane maximale woningbezetting volgens de normen die worden vastgesteld met toepassing van artikel 3.1, §1, vierde lid.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De Vlaamse Regering stelt het model, de vergoeding voor de behandeling van een aanvraag tot afgifte en de regels voor de bekendmaking van het conformiteitsattest vast.</span></span></span><br>
+De Vlaamse Regering stelt het model en de regels voor de bekendmaking van het conformiteitsattest vast.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§2. In afwijking van paragraaf 1 geldt het proces-verbaal van uitvoering, vermeld in artikel 3.46, derde lid, als conformiteitsattest, op voorwaarde dat uit het proces-verbaal blijkt dat de woning opnieuw conform is.</span></span></span><br>
+De burgemeester die bij de toepassing van de procedure, vermeld in artikel 3.12, vaststelt dat een woning conform is, levert ambtshalve een conformiteitsattest af aan de verhuurder en de houder van het zakelijk recht.<br>
 <br>
-In afwijking van paragraaf 1 kan de gewestelijk ambtenaar een conformiteitsattest afgeven aan de verhuurder of de houder van het zakelijk recht, in een van de volgende gevallen:<br>
+§2. In afwijking van paragraaf 1 geldt het proces-verbaal van uitvoering, vermeld in artikel 3.46, derde lid, als conformiteitsattest, op voorwaarde dat uit het proces-verbaal blijkt dat de woning opnieuw conform is.<br>
+<br>
+In afwijking van paragraaf 1 geeft de gewestelijk ambtenaar, nadat de conformiteit van een woning is vastgesteld, een conformiteitsattest af aan de verhuurder of de houder van het zakelijk recht, in een van de volgende gevallen:<br>
 1° voor een woning die voor verhuring aangeboden wordt aan een woonmaatschappij;<br>
-2° na een conformiteitsonderzoek voor de tegemoetkoming in de huurprijs, vermeld in artikel 5.73 en 5.74.<br>
+2° na een conformiteitsonderzoek voor de tegemoetkoming in de huurprijs, vermeld in artikel 5.73 en 5.74, dat verloopt conform de procedure, vermeld in artikel 3.3;<br>
+3° na een besluit bij de behandeling van een beroep, vermeld in artikel 3.14 en 3.15;<br>
+4° na een conformiteitsonderzoek, uitgevoerd op eigen initiatief.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">In afwijking van paragraaf 1 kan de wooninspecteur, naar aanleiding van een vraag tot hercontrole als vermeld in artikel 3.46, voor een conforme woning een conformiteitsattest afgeven, als het herstel dat met toepassing van artikel 3.43 is gevorderd voor meerdere woningen in een pand, nog niet volledig is uitgevoerd, op voorwaarde dat hij alle woningen waarvan het herstel is gevorderd onderzoekt en het niet-afgeven van het conformiteitsattest zou leiden tot het verschuldigd zijn van een nakende heffing of een ander ernstig nadeel zou berokkenen aan de aanvrager.<br>
+In afwijking van paragraaf 1 kan de wooninspecteur, naar aanleiding van een vraag tot hercontrole als vermeld in artikel 3.46, voor een conforme woning een conformiteitsattest afgeven, als het herstel dat met toepassing van artikel 3.43 is gevorderd voor meerdere woningen in een pand, nog niet volledig is uitgevoerd, op voorwaarde dat hij alle woningen waarvan het herstel is gevorderd onderzoekt en het niet-afgeven van het conformiteitsattest zou leiden tot het verschuldigd zijn van een nakende heffing of een ander ernstig nadeel zou berokkenen aan de aanvrager.<br>
+<br>
+Na de melding, vermeld in artikel 3.37, kunnen de burgemeester of de gewestelijk ambtenaar geen conformiteitsattest afleveren zonder toestemming van de wooninspecteur. Dat kan evenmin na de opname van de herstelvordering, vermeld in artikel 3.43, op het register van herstelvorderingen, vermeld in artikel 3.44, §1, derde lid, zolang uit het proces-verbaal van uitvoering, vermeld in artikel 3.46, derde lid, niet blijkt dat de herstelmaatregel volledig is uitgevoerd.<br>
 <br>
 § 3. Als een bewoner van een kamer op het adres van het pand waarin de kamer zich bevindt, is ingeschreven in de bevolkingsregisters of het wachtregister, vermeld in artikel 1, § 1, eerste lid, 1° en 2°, van de wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten, en er een aanmaning, een proces-verbaal of een verslag van vaststelling voorligt waaruit blijkt dat voor die kamer niet voldaan is aan de verplichting van artikel 4.2.1, 6° of 7°, van de Vlaamse Codex Ruimtelijke Ordening, wordt de afgifte van een conformiteitsattest als vermeld in paragraaf 1 en 2 geweigerd.<br>
 <br>
-Het eerste lid is niet van toepassing op kamers die uiterlijk op 31 december 2021 in de inventaris zijn opgenomen.</span></span></span></p>
+Het eerste lid is niet van toepassing op kamers die uiterlijk op 31 december 2021 in de inventaris zijn opgenomen.</p>
 
 ### ART 3.7.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§1. Het verzoek, vermeld in artikel 3.6, §1, eerste lid, wordt ingediend bij de burgemeester van de gemeente waarin de woning ligt, door de natuurlijke persoon of de rechtspersoon die als eigenaar, mede-eigenaar, vruchtgebruiker, erfpachter, opstalhouder of onderverhuurder een woning als hoofdverblijfplaats of met het oog op de huisvesting van een of meer studenten verhuurt of te huur of ter beschikking stelt.</span></span></span></span><br>
+<p>§1. Het verzoek, vermeld in artikel 3.6, §1, eerste lid, wordt ingediend bij de burgemeester van de gemeente waarin de woning ligt, door de natuurlijke persoon of de rechtspersoon die als houder van het zakelijk recht of onderverhuurder een woning verhuurt of te huur of ter beschikking stelt.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De burgemeester neemt binnen zestig dagen na de datum van het verzoek een beslissing over de afgifte van het conformiteitsattest, na een conformiteitsonderzoek dat verloopt volgens de procedure, vermeld in artikel 3.3.</span></span></span></span><br>
+De burgemeester neemt binnen zestig dagen na de datum van het verzoek een beslissing over de afgifte van het conformiteitsattest, na een conformiteitsonderzoek dat verloopt volgens de procedure, vermeld in artikel 3.3.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§2. Als de burgemeester de afgifte van het conformiteitsattest weigert of geen beslissing neemt, kan de verzoeker binnen dertig dagen na de ontvangst van de weigering of na het verstrijken van de termijn, vermeld in paragraaf 1, tweede lid, een conformiteitsonderzoek aanvragen bij de gewestelijk ambtenaar, die in dat geval zelf het conformiteitsattest kan afgeven.</span></span></span></span><br>
+§2. Als de burgemeester de afgifte van het conformiteitsattest weigert of geen beslissing neemt, kan de verzoeker binnen dertig dagen na de ontvangst van de weigering of na het verstrijken van de termijn, vermeld in paragraaf 1, tweede lid, een conformiteitsonderzoek aanvragen bij de gewestelijk ambtenaar, die in dat geval binnen zestig dagen na het indienen van de aanvraag zelf het conformiteitsattest kan afgeven.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De Vlaamse Regering stelt de vergoeding voor de behandeling van een aanvraag tot afgifte van het conformiteitsattest door de gewestelijk ambtenaar vast.</span></span></span></span></p>
+De Vlaamse Regering stelt de vergoeding voor de behandeling van een aanvraag tot afgifte van het conformiteitsattest door de gewestelijk ambtenaar vast.</p>
 
 ### ART 3.8.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Het verzoek tot opheffing van het besluit waarbij een woning ongeschikt of onbewoonbaar verklaard is met toepassing van deel 5, titel 1, wordt behandeld als een verzoek als vermeld in artikel 3.7, §1, ongeacht door wie dat verzoek ingediend wordt.</span></span></span></span><br>
+<p>Het verzoek tot opheffing van het besluit waarbij een woning ongeschikt of onbewoonbaar verklaard is met toepassing van deel 5, titel 1, wordt behandeld als een verzoek als vermeld in artikel 3.7, §1, ongeacht door wie dat verzoek ingediend wordt.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Als het verzoek ingewilligd wordt, geeft de burgemeester ambtshalve het conformiteitsattest af aan de eigenaar, ongeacht of de woning al dan niet verhuurd of te huur of ter beschikking gesteld wordt. Als het verzoek betrekking heeft op een woning die na de ongeschikt- of onbewoonbaarverklaring een andere bestemming gekregen heeft of gesloopt is, heft de burgemeester het besluit op zonder afgifte van een conformiteitsattest.</span></span></span></span><br>
+Als het verzoek ingewilligd wordt, geeft de burgemeester ambtshalve het conformiteitsattest af aan de houder van het zakelijk recht, ongeacht of de woning al dan niet verhuurd of te huur of ter beschikking gesteld wordt. Als het verzoek betrekking heeft op een woning die na de ongeschikt- of onbewoonbaarverklaring een andere bestemming gekregen heeft of gesloopt is, heft de burgemeester het besluit op zonder afgifte van een conformiteitsattest.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Met behoud van de toepassing van artikel 3.17, tweede lid, wordt een besluit als vermeld in het eerste lid, dat dateert van voor de afgifte van het conformiteitsattest door de burgemeester of door de gewestelijk ambtenaar, geacht opgeheven te zijn met ingang van de datum van het conformiteitsattest. Hetzelfde geldt voor het besluit dat dateert van voor het proces-verbaal van uitvoering, vermeld in artikel 3.46, derde lid, met ingang van de datum van het proces-verbaal.</span></span></span></span></p>
+Met behoud van de toepassing van artikel 3.17, tweede lid, wordt een besluit als vermeld in het eerste lid, dat dateert van voor de afgifte van het conformiteitsattest door de burgemeester of door de gewestelijk ambtenaar, geacht opgeheven te zijn met ingang van de datum van het conformiteitsattest. Hetzelfde geldt voor het besluit dat dateert van voor het proces-verbaal van uitvoering, vermeld in artikel 3.46, derde lid, met ingang van de datum van het proces-verbaal.</p>
 
 ### ART 3.9.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Het conformiteitsattest vervalt van rechtswege vanaf het ogenblik dat:</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">1° aan de woning werkzaamheden uitgevoerd worden als vermeld in artikel 18 van het Vlaams Woninghuurdecreet;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">2° de woning ongeschikt of onbewoonbaar verklaard wordt met toepassing van deel 5, titel 1;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">3° de woning onbewoonbaar verklaard wordt met toepassing van artikel 135 van de Nieuwe Gemeentewet;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">4° er voor de woning een proces-verbaal wordt opgesteld voor de misdrijven, vermeld in artikel 3.34 tot en met 3.36;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">5° er een termijn van tien jaar of een termijn die vastgesteld wordt door de gemeenteraad, met een maximum van tien jaar, verstreken is na de afgifte van het conformiteitsattest.<br>
-6° in een aanmaning, proces-verbaal of een verslag van vaststelling wordt vastgesteld dat de kamer waarvoor het conformiteitsattest is afgegeven, gecreëerd is zonder te voldoen aan de verplichting van artikel 4.2.1, 6° of 7°, van de Vlaamse Codex Ruimtelijke Ordening, en de kamer na de afgifte van het conformiteitsattest bewoond werd door een persoon die op het adres van het pand waarin de kamer zich bevindt ingeschreven was in de bevolkingsregisters of het wachtregister, vermeld in artikel 1, § 1, eerste lid, 1° en 2°, van de wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten.</span></span></span><br>
+<p>Het conformiteitsattest vervalt van rechtswege vanaf het ogenblik dat:<br>
+1° aan de woning werkzaamheden uitgevoerd worden als vermeld in artikel 18 van het Vlaams Woninghuurdecreet;<br>
+2° de woning ongeschikt of onbewoonbaar verklaard wordt met toepassing van deel 5, titel 1;<br>
+3° de woning onbewoonbaar verklaard wordt met toepassing van artikel 135 van de Nieuwe Gemeentewet;<br>
+4° er voor de woning een proces-verbaal wordt opgesteld voor de misdrijven, vermeld in artikel 3.34 tot en met 3.36;<br>
+5° er een termijn van tien jaar of een termijn die vastgesteld wordt door de gemeenteraad, met een maximum van tien jaar, verstreken is na de afgifte van het conformiteitsattest.<br>
+6° in een aanmaning, proces-verbaal of een verslag van vaststelling wordt vastgesteld dat de kamer waarvoor het conformiteitsattest is afgegeven, gecreëerd is zonder te voldoen aan de verplichting van artikel 4.2.1, 6° of 7°, van de Vlaamse Codex Ruimtelijke Ordening, en de kamer na de afgifte van het conformiteitsattest bewoond werd door een persoon die op het adres van het pand waarin de kamer zich bevindt ingeschreven was in de bevolkingsregisters of het wachtregister, vermeld in artikel 1, § 1, eerste lid, 1° en 2°, van de wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De Vlaamse Regering kan de termijn van tien jaar, vermeld in het eerste lid, 5°, beperken voor conformiteitsattesten die afgegeven worden nadat beperkte gebreken vastgesteld zijn bij het conformiteitsonderzoek.</span></span></span><br>
+De Vlaamse Regering kan de termijn van tien jaar, vermeld in het eerste lid, 5°, beperken voor conformiteitsattesten die afgegeven worden nadat beperkte gebreken vastgesteld zijn bij het conformiteitsonderzoek dat verloopt volgens de procedure, vermeld in artikel 3.3.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Met behoud van de toepassing van het tweede lid geldt de termijn, vermeld in het eerste lid, 5°, ook voor de conformiteitsattesten die de gewestelijke ambtenaar afgeeft met toepassing van artikel 3.6, §2, 2°, en artikel 3.7, §2.</span></span></span></p>
+Met behoud van de toepassing van het tweede lid geldt de termijn, vermeld in het eerste lid, 5°, ook voor de conformiteitsattesten die de gewestelijke ambtenaar afgeeft met toepassing van artikel 3.6, §2, 2°, en artikel 3.7, §2.</p>
+
+### ART 3.9/1.
+
+De Vlaamse Regering kan nadere formele en procedurele regels bepalen voor de toepassing van dit deel.
 
 ## Deel 4. Waarschuwing
 
 ### ART 3.10.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Een gemeente die een melding ontvangt over de mogelijk gebrekkige kwaliteit van een woning geeft een ontvangstbewijs aan de melder, verstrekt hem informatie over de procedures, vermeld in dit deel en in deel 5, titel 1, en kan binnen een korte termijn, die de Vlaamse Regering nader bepaalt, een conformiteitsonderzoek uitvoeren, dat verloopt volgens de procedure, vermeld in artikel 3.3.</span></span></span></span><br>
+<p>Een gemeente die een melding ontvangt over de mogelijk gebrekkige kwaliteit van een woning geeft een ontvangstbewijs aan de melder, verstrekt hem informatie over de procedures, vermeld in dit deel en in deel 5, titel 1, en kan binnen een korte termijn, die de Vlaamse Regering nader bepaalt, een conformiteitsonderzoek uitvoeren, dat verloopt volgens de procedure, vermeld in artikel 3.3.&nbsp;Als de melding de vorm heeft van een mededeling van een dergelijk conformiteitsonderzoek, kan de gemeente zich op dit conformiteitsonderzoek baseren om vast te stellen of de woning al dan niet conform is.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Als wordt vastgesteld dat de woning niet conform is, kan de gemeente, in de gevallen die de Vlaamse Regering nader bepaalt, aan de houder van het zakelijk recht een termijn geven om de woning conform te maken. De gemeente doet dit binnen de maand na de melding, vermeld in het eerste lid. De gegeven hersteltermijn eindigt in ieder geval binnen de drie maanden na deze melding. Tegelijkertijd waarschuwt de gemeente de houder van het zakelijk recht voor de mogelijke gevolgen bij gebrek aan herstel en brengt ze de bewoners van de toegekende hersteltermijn op de hoogte.</span></span></span></span><br>
+Als is vastgesteld dat de woning niet conform is, kan de gemeente, in de gevallen die de Vlaamse Regering nader bepaalt, aan de houder van het zakelijk recht een termijn geven om de woning conform te maken. De gemeente doet dit binnen de maand na de melding, vermeld in het eerste lid. De gegeven hersteltermijn eindigt in ieder geval binnen de drie maanden na deze melding. Tegelijkertijd waarschuwt de gemeente de houder van het zakelijk recht voor de mogelijke gevolgen bij gebrek aan herstel en brengt ze de bewoners van de toegekende hersteltermijn op de hoogte.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Bij melding van herstel en uiterlijk binnen drie maanden na de melding, vermeld in het eerste lid, onderzoekt de gemeente de woning een tweede keer conform de procedure, vermeld in artikel 3.3. Als wordt vastgesteld dat de woning conform is, geeft de burgemeester een conformiteitsattest af.</span></span></span></span><br>
+Bij melding van herstel en uiterlijk binnen drie maanden na de melding, vermeld in het eerste lid, onderzoekt de gemeente de woning een tweede keer conform de procedure, vermeld in artikel 3.3. Als wordt vastgesteld dat de woning conform is, geeft de burgemeester een conformiteitsattest af aan de houder van het zakelijk recht en aan de verhuurder die bij de gemeente bekend is.&nbsp;De gemeente brengt de bewoners met een beveiligde zending op de hoogte van deze afgifte en bezorgt hun daarbij een afschrift van het conformiteitsattest en het technisch verslag.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Het ontbreken van een melding van herstel binnen de toegekende hersteltermijn als vermeld in het derde lid, of het ontbreken van een vaststelling van conformiteit binnen drie maanden na het conformiteitsonderzoek, vermeld in het eerste lid, geldt als de indiening van een verzoek om de woning ongeschikt of onbewoonbaar te verklaren, vermeld in artikel 3.13, eerste lid. In dat geval kan de gemeente de procedure, vermeld in het eerste, tweede en derde lid, niet meer herhalen.</span></span></span></span></p>
+Het ontbreken van een melding van herstel binnen de toegekende hersteltermijn als vermeld in het derde lid, of het ontbreken van een vaststelling van conformiteit binnen honderdenvijf dagen na de melding, vermeld in het eerste lid, geldt als de indiening van een verzoek om de woning ongeschikt of onbewoonbaar te verklaren, vermeld in artikel 3.13, eerste lid. In dat geval kan de gemeente de procedure, vermeld in het eerste, tweede en derde lid, niet meer herhalen.<br>
+<br>
+Bij de afgifte van een conformiteitsattest, vermeld in het derde lid, kan de bewoner binnen dertig dagen na de dag waarop hij de beveiligde zending, vermeld in het derde lid, heeft ontvangen, een conformiteitsonderzoek aanvragen bij de gewestelijk ambtenaar. In dat geval bevestigt de gewestelijk ambtenaar binnen zestig dagen na de ontvangst van de beveiligde zending met een brief aan de aanvrager en de burgemeester dat de woning conform is, ofwel bezorgt hij een advies aan de burgemeester, met afschrift aan de aanvrager, om de woning ongeschikt of onbewoonbaar te verklaren, samen met een uitdrukkelijk verzoek als vermeld in artikel 3.12, §1, derde lid, om geen toepassing te maken van de procedure, vermeld in dit artikel en in artikel 3.11.</p>
 
 ### ART 3.11.
 
@@ -895,15 +911,17 @@ Het eerste lid is niet van toepassing op kamers die uiterlijk op 31 december 202
 
 ### ART 3.12.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§1. Met behoud van de toepassing van artikel 135 van de Nieuwe Gemeentewet kan de burgemeester, op eigen initiatief of op verzoek, een woning die niet conform is, bij besluit ongeschikt of onbewoonbaar verklaren, op voorwaarde dat de gewestelijk ambtenaar de ongeschikt- of onbewoonbaarverklaring geadviseerd heeft en na de houder van het zakelijk recht&nbsp;en de bewoner gehoord te hebben. De burgemeester neemt in dat geval alle maatregelen die hij noodzakelijk acht ter uitvoering van zijn besluit.</span></span></span><br>
+<p>§1. Met behoud van de toepassing van artikel 135 van de Nieuwe Gemeentewet kan de burgemeester, op eigen initiatief of op verzoek, een woning die niet conform is, bij besluit ongeschikt of onbewoonbaar verklaren, op voorwaarde dat de gewestelijk ambtenaar de ongeschikt- of onbewoonbaarverklaring geadviseerd heeft en na de houder van het zakelijk recht&nbsp;en de bewoner gehoord te hebben. De burgemeester neemt in dat geval alle maatregelen die hij noodzakelijk acht ter uitvoering van zijn besluit.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Als na het horen van de betrokkenen blijkt dat de gebreken die aanleiding gegeven hebben tot het advies van de gewestelijk ambtenaar, vermeld in het eerste lid, geheel of gedeeltelijk hersteld zijn, kan de burgemeester, die vaststelt dat de woning nog niet conform is, toch een besluit nemen als vermeld in het eerste lid.</span></span></span><br>
+Als na het horen van de betrokkenen blijkt dat de gebreken die aanleiding gegeven hebben tot het advies van de gewestelijk ambtenaar, vermeld in het eerste lid, geheel of gedeeltelijk hersteld zijn, al dan niet na toepassing van de procedure, vermeld in deel 4, kan de burgemeester, die vaststelt dat de woning nog niet conform is, toch een besluit nemen als vermeld in het eerste lid.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§2. De burgemeester kan, voor een of meer gebreken van categorie III als vermeld in artikel 3.1, §1, derde lid, 3°, die vastgesteld zijn bij het conformiteitsonderzoek, de uitvoering binnen een termijn van maximaal vijftien dagen, van de dringende renovatie-, verbeterings- of aanpassingswerkzaamheden opleggen.</span></span></span><br>
+De gewestelijk ambtenaar geeft het advies, vermeld in het eerste lid, op verzoek van de burgemeester of op eigen initiatief. Als de gewestelijk ambtenaar daar uitdrukkelijk om verzoekt, maakt de burgemeester geen toepassing van de procedure, vermeld in deel 4.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Als de dringende werkzaamheden niet uitgevoerd worden binnen de termijn, vermeld in het eerste lid, kan de burgemeester ze zelf laten uitvoeren. Op vertoon van een staat kunnen de kosten van de uitgevoerde werkzaamheden in dat geval verhaald worden op de eigenaar.</span></span></span><br>
+§2. De burgemeester kan, voor een of meer gebreken van categorie III als vermeld in artikel 3.1, §1, derde lid, 3°, die vastgesteld zijn bij het conformiteitsonderzoek, dat verloopt volgens de procedure, vermeld in artikel 3.3, de uitvoering binnen een termijn van maximaal vijftien dagen, van de dringende renovatie-, verbeterings- of aanpassingswerkzaamheden opleggen.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§3. Op verzoek van de gemeenteraad kan de Vlaamse Regering de burgemeester vrijstellen van de verplichting om het advies van de gewestelijk ambtenaar, vermeld in paragraaf 1, eerste lid, te vragen. De Vlaamse Regering bepaalt de voorwaarden voor de vrijstelling. De vrijstelling geldt vanaf de goedkeuring ervan door de Vlaamse Regering. Ze kan op elk moment ingetrokken worden als blijkt dat niet meer voldaan is aan de voorwaarden waaronder ze verleend is.</span></span></span></p>
+Als de dringende werkzaamheden niet uitgevoerd worden binnen de termijn, vermeld in het eerste lid, kan de burgemeester ze zelf laten uitvoeren. Op vertoon van een staat kunnen de kosten van de uitgevoerde werkzaamheden in dat geval verhaald worden op de houder van het zakelijk recht.<br>
+<br>
+§3. Op verzoek van de gemeenteraad kan de Vlaamse Regering de burgemeester vrijstellen van de verplichting om het advies van de gewestelijk ambtenaar, vermeld in paragraaf 1, eerste lid, te vragen. De Vlaamse Regering bepaalt de voorwaarden voor de vrijstelling. De vrijstelling geldt vanaf de goedkeuring ervan door de Vlaamse Regering. Ze kan op elk moment ingetrokken worden als blijkt dat niet meer voldaan is aan de voorwaarden waaronder ze verleend is.</p>
 
 ### ART 3.13.
 
@@ -917,17 +935,17 @@ Het eerste lid is niet van toepassing op kamers die uiterlijk op 31 december 202
 
 ### ART 3.14.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Tegen de beslissing van de burgemeester, vermeld in artikel 3.13, tweede lid, kan binnen dertig dagen na de betekening van de beslissing beroep aangetekend worden bij de Vlaamse Regering. Bij de kennisgeving van de ontvankelijkheid van het beroep nodigt de Vlaamse Regering de houder van het zakelijk recht, de bewoner en de burgemeester uit om hun argumenten schriftelijk kenbaar te maken.</span></span></span><br>
+<p>Tegen de beslissing van de burgemeester, vermeld in artikel 3.13, tweede lid, kan binnen dertig dagen na de betekening van de beslissing beroep aangetekend worden bij de Vlaamse Regering die de burgemeester daarvan in voorkomend geval op de hoogte brengt. Bij de kennisgeving van de ontvankelijkheid van het beroep nodigt de Vlaamse Regering de houder van het zakelijk recht, de bewoner, de verzoeker en de burgemeester uit om hun argumenten schriftelijk kenbaar te maken.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De Vlaamse Regering voegt alle tijdig ingestelde beroepen tegen dezelfde beslissing verplicht samen. Alle betrokken partijen worden onverwijld in kennis gesteld van de samenvoeging.</span></span></span><br>
+De Vlaamse Regering voegt alle tijdig ingestelde beroepen tegen dezelfde beslissing verplicht samen. Alle betrokken partijen worden onverwijld in kennis gesteld van de samenvoeging.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De Vlaamse Regering neemt een beslissing binnen drie maanden na de ontvangst van het laatst ingestelde beroep. Als er geen beslissing genomen wordt binnen de termijn van drie&nbsp;maanden, wordt het beroep geacht afgewezen te zijn.</span></span></span></p>
+De Vlaamse Regering neemt een beslissing binnen drie maanden na de ontvangst van het laatst ingestelde beroep, of binnen vier maanden na de ontvangst van het laatste ingestelde beroep, als er voor de beoordeling van het beroep een nieuw conformiteitsonderzoek, dat verloopt volgens de procedure, vermeld in artikel 3.3, noodzakelijk is. Als er geen beslissing genomen wordt binnen de termijn van drie respectievelijk vier maanden bij een nieuw conformiteitsonderzoek, wordt het beroep geacht afgewezen te zijn.</p>
 
 ### ART 3.15.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Als de burgemeester geen beslissing neemt over het verzoek, vermeld in artikel 3.13, eerste lid, kunnen de verzoeker en de overige instanties, vermeld in artikel 3.13, eerste lid, beroep aantekenen bij de Vlaamse Regering binnen twaalf maanden na het verstrijken van de termijn van drie maanden, vermeld in artikel 3.13, tweede lid.&nbsp;De Vlaamse Regering nodigt de houder van het zakelijk recht&nbsp;en de bewoner uit om hun argumenten schriftelijk kenbaar te maken en brengt de burgemeester op de hoogte van het beroep en van het verval van zijn beslissingsbevoegdheid.</span></span></span><br>
+<p>Als de burgemeester geen beslissing neemt over het verzoek, vermeld in artikel 3.13, eerste lid, kan binnen twaalf maanden nadat de termijn van drie maanden, vermeld in artikel 3.13, tweede lid, is verstreken, beroep aangetekend worden bij de Vlaamse Regering, die de burgemeester daarvan in voorkomend geval op de hoogte brengt. Bij de kennisgeving van de ontvankelijkheid van het beroep nodigt de Vlaamse Regering de houder van het zakelijk recht, de burgemeester, de verzoeker en de bewoner uit om hun argumenten schriftelijk bekend te maken en brengt ze de burgemeester op de hoogte van het beroep en van het verval van zijn beslissingsbevoegdheid.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De Vlaamse Regering neemt een beslissing binnen drie maanden na de ontvangst van het beroep tegen het stilzitten van de burgemeester.&nbsp;Als er geen beslissing genomen wordt binnen de termijn van drie maanden, wordt het beroep geacht afgewezen te zijn.</span></span></span></p>
+De Vlaamse Regering neemt een beslissing binnen drie maanden na de ontvangst van het beroep tegen het stilzitten van de burgemeester, of binnen vier maanden na de ontvangst van het beroep, als er voor de beoordeling van het beroep een nieuw conformiteitsonderzoek, dat verloopt volgens de procedure, vermeld in artikel 3.3, noodzakelijk is.&nbsp;Als er geen beslissing genomen wordt binnen de termijn van drie respectievelijk vier maanden bij een nieuw conformiteitsonderzoek, wordt het beroep geacht afgewezen te zijn.</p>
 
 ### ART 3.16.
 
@@ -961,15 +979,16 @@ Het eerste lid is niet van toepassing op kamers die uiterlijk op 31 december 202
 
 ### ART 3.20.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De woningen, vermeld in artikel 3.19, § 1, 1°, worden ingeschreven op de inventarislijst op de datum van het besluit van de burgemeester, vermeld in artikel 3.12, § 1. In geval van een beslissing tot ongeschiktof onbewoonbaarverklaring in beroep als vermeld in artikel 3.16, eerste lid, worden de woningen ook ingeschreven op de inventarislijst op de datum van het besluit, vermeld in artikel 3.12, § 1, tenzij:<br>
+<p>De woningen, vermeld in artikel 3.19, § 1, 1°, worden ingeschreven op de inventarislijst op de datum van het besluit van de burgemeester, vermeld in artikel 3.12, § 1. In geval van een beslissing tot ongeschiktverklaring of ongeschikt- en onbewoonbaarverklaring in beroep als vermeld in artikel 3.16, eerste lid, worden de woningen ook ingeschreven op de inventarislijst op de datum van het besluit, vermeld in artikel 3.12, § 1, tenzij:<br>
 1° het besluit, vermeld in artikel 3.12, § 1, niet tot stand gekomen is volgens de procedure, vermeld in artikel 3.12 en 3.13;<br>
-2° het een beslissing betreft als vermeld in artikel 3.15, tweede lid.<br>
+2° het een beslissing betreft als vermeld in artikel 3.15, tweede lid;<br>
+3° de burgemeester met toepassing van artikel 3.13, tweede lid, een andere beslissing heeft genomen dan een besluit als vermeld in artikel 3.12, §1.<br>
 <br>
-In deze gevallen worden de woningen ingeschreven op de inventarislijst op de datum van het besluit, vermeld in artikel 16, eerste lid..</span></span></span><br>
+In deze gevallen worden de woningen ingeschreven op de inventarislijst op de datum van het besluit, vermeld in artikel 3.16, eerste lid.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De woningen, vermeld in artikel 3.19, §1, 2°, worden ingeschreven op de inventarislijst op de datum van het besluit van de burgemeester.</span></span></span><br>
+De woningen, vermeld in artikel 3.19, §1, 2°, worden ingeschreven op de inventarislijst op de datum van het besluit van de burgemeester op voorwaarde dat dit besluit binnen drie maanden nadat het is genomen, meegedeeld is aan de inventarisbeheerder.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Dit artikel geldt ook voor de afsplitsbare woningen en voor de bedrijfsruimten waarvan de woning van de eigenaar als verblijfplaats wordt benut en een niet-afsplitsbaar onderdeel uitmaakt als vermeld in artikel 2, 1°, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten.</span></span></span></p>
+Dit artikel geldt ook voor de afsplitsbare woningen en voor de bedrijfsruimten waarvan de woning van de eigenaar als verblijfplaats wordt benut en een niet-afsplitsbaar onderdeel uitmaakt als vermeld in artikel 2, 1°, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten.</p>
 
 ### ART 3.21.
 
@@ -1017,9 +1036,9 @@ In deze gevallen worden de woningen ingeschreven op de inventarislijst op de dat
 
 ### ART 3.24.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Als een woning na een conformiteitsonderzoek overbewoond blijkt te zijn, kan de burgemeester ze, op eigen initiatief of op verzoek van de voorzitter van de raad voor maatschappelijk welzijn, van de gewestelijk ambtenaar of van de wooninspecteur, bij besluit overbewoond verklaren, op voorwaarde dat de gewestelijk ambtenaar de overbewoondverklaring heeft geadviseerd.</span></span></span></span><br>
+<p>Als een woning na een conformiteitsonderzoek dat verloopt volgens de procedure, vermeld in artikel 3.3, overbewoond blijkt te zijn, kan de burgemeester ze, op eigen initiatief of op verzoek van de voorzitter van de raad voor maatschappelijk welzijn, van de gewestelijk ambtenaar of van de wooninspecteur, bij besluit overbewoond verklaren, op voorwaarde dat de gewestelijk ambtenaar de overbewoondverklaring heeft geadviseerd.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De burgemeester neemt de nodige maatregelen om de overbewoning ongedaan te maken door één of meer bewoners te herhuisvesten zoals bepaald in deel 8 van dit boek.</span></span></span></span></p>
+De burgemeester neemt de nodige maatregelen om de overbewoning ongedaan te maken door één of meer bewoners te herhuisvesten zoals bepaald in deel 8 van dit boek.</p>
 
 ### ART 3.25.
 
@@ -1027,17 +1046,17 @@ In deze gevallen worden de woningen ingeschreven op de inventarislijst op de dat
 
 ### ART 3.26.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Tegen de beslissing van de burgemeester, vermeld in artikel 3.25, kan binnen dertig dagen na de betekening van de beslissing beroep aangetekend worden bij de Vlaamse Regering.&nbsp;Bij de kennisgeving van de ontvankelijkheid van het beroep nodigt de Vlaamse Regering de houder van het zakelijk recht, de bewoner en de burgemeester uit om hun argumenten schriftelijk kenbaar te maken.</span></span></span><br>
+<p>Tegen de beslissing van de burgemeester, vermeld in artikel 3.25, kan binnen dertig dagen na de betekening van de beslissing beroep aangetekend worden bij de Vlaamse Regering die de burgemeester daarvan in voorkomend geval op de hoogte brengt.&nbsp;Bij de kennisgeving van de ontvankelijkheid van het beroep nodigt de Vlaamse Regering de houder van het zakelijk recht, de bewoner, de verzoeker en de burgemeester uit om hun argumenten schriftelijk kenbaar te maken.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De Vlaamse Regering voegt alle tijdig ingestelde beroepen tegen dezelfde beslissing verplicht samen. Alle betrokken partijen worden onverwijld in kennis gesteld van de samenvoeging.</span></span></span><br>
+De Vlaamse Regering voegt alle tijdig ingestelde beroepen tegen dezelfde beslissing verplicht samen. Alle betrokken partijen worden onverwijld in kennis gesteld van de samenvoeging.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De Vlaamse Regering neemt een beslissing binnen drie maanden na de ontvangst van het laatst ingestelde beroep. Als er geen beslissing genomen wordt binnen de termijn van drie maanden, wordt het beroep geacht afgewezen te zijn.</span></span></span></p>
+De Vlaamse Regering neemt een beslissing binnen drie maanden na de ontvangst van het laatst ingestelde beroep, of binnen vier maanden na de ontvangst van het laatst ingestelde beroep, als er voor de beoordeling van het beroep een nieuw conformiteitsonderzoek, dat verloopt volgens de procedure, vermeld in artikel 3.3, noodzakelijk is. Als er geen beslissing genomen wordt binnen de termijn van drie respectievelijk vier maanden bij een nieuw conformiteitsonderzoek, wordt het beroep geacht afgewezen te zijn.</p>
 
 ### ART 3.27.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Als de burgemeester geen beslissing neemt, kunnen de verzoeker en de overige instanties, vermeld in artikel 3.24, eerste lid, beroep aantekenen bij de Vlaamse Regering binnen twaalf maanden na het verstrijken van de termijn van drie maanden, vermeld in artikel 3.25.&nbsp;De Vlaamse Regering nodigt de houder van het zakelijk recht&nbsp;en de bewoner uit om hun argumenten schriftelijk kenbaar te maken en brengt de burgemeester op de hoogte van het beroep en van het verval van zijn beslissingsbevoegdheid.</span></span></span><br>
+<p>Als de burgemeester geen beslissing neemt, kan binnen twaalf maanden nadat de termijn van drie maanden, vermeld in artikel 3.25, is verstreken, beroep aangetekend worden bij de Vlaamse Regering, die de burgemeester daarvan in voorkomend geval op de hoogte brengt. Bij de kennisgeving van de ontvankelijkheid van het beroep nodigt de Vlaamse Regering de houder van het zakelijk recht, de burgemeester, de verzoeker en de bewoner uit om hun argumenten schriftelijk bekend te maken en brengt ze de burgemeester op de hoogte van het beroep en van het verval van zijn beslissingsbevoegdheid.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De Vlaamse Regering neemt een beslissing binnen drie maanden na de ontvangst van het beroep tegen het stilzitten van de burgemeester. Als er geen beslissing genomen wordt binnen de termijn van drie&nbsp;maanden, wordt het beroep geacht afgewezen te zijn.</span></span></span></p>
+De Vlaamse Regering neemt een beslissing binnen drie maanden na de ontvangst van het beroep tegen het stilzitten van de burgemeester, of binnen vier maanden na ontvangst van het beroep, als er voor de beoordeling van het beroep een nieuw conformiteitsonderzoek, dat verloopt volgens de procedure, vermeld in artikel 3.3, noodzakelijk is. Als er geen beslissing genomen wordt binnen de termijn van drie respectievelijk vier maanden bij een nieuw conformiteitsonderzoek, wordt het beroep geacht afgewezen te zijn.</p>
 
 ### ART 3.28.
 
@@ -1061,7 +1080,7 @@ In deze gevallen worden de woningen ingeschreven op de inventarislijst op de dat
 
 ### ART 3.31.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Als de woning die ongeschikt of onbewoonbaar werd verklaard of waarvoor de afgifte van een conformiteitsattest werd geweigerd, volgens de bevindingen van het conformiteitsonderzoek dat verloopt volgens de procedure, vermeld in artikel 3.3, niet in aanmerking komt voor renovatie-, verbeterings- of aanpassingswerkzaamheden, dan moet de eigenaar binnen een termijn die de Vlaamse Regering bepaalt hetzij aan de woning een andere bestemming geven volgens de bepalingen van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 hetzij de woning slopen, tenzij de sloop verboden is op grond van wettelijke, decretale of reglementaire bepalingen.</span></span></span></span></p>
+<p>Als de woning die ongeschikt of onbewoonbaar werd verklaard of waarvoor de afgifte van een conformiteitsattest werd geweigerd, volgens de bevindingen van het conformiteitsonderzoek dat verloopt volgens de procedure, vermeld in artikel 3.3, niet in aanmerking komt voor renovatie-, verbeterings- of aanpassingswerkzaamheden, dan moet de houder van het zakelijk recht&nbsp;hetzij aan de woning een andere bestemming geven volgens de bepalingen van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 hetzij de woning slopen, tenzij de sloop verboden is op grond van wettelijke, decretale of reglementaire bepalingen.</p>
 
 ## Deel 8. Herhuisvesting
 
@@ -1073,15 +1092,15 @@ In deze gevallen worden de woningen ingeschreven op de inventarislijst op de dat
 
 ### ART 3.33.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Als de burgemeester overgaat tot herhuisvesting van de bewoners van een onbewoonbare of overbewoonde woning of van een goed als vermeld in artikel 3.35, kan de gemeente onder meer de volgende kosten terugvorderen van de verhuurder of de persoon die de woning ter beschikking heeft gesteld:</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">1° de kosten om de woning te ontruimen;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">2° de kosten voor het vervoer en de opslag van het meubilair en de goederen van de bewoners;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">3° de installatiekosten met betrekking tot de nieuw te betrekken woning;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">4° het verschil tussen de kosten per maand van de woning, vermeld in punt 3°, of van het verblijf in een daartoe uitgeruste voorziening, en 20% van het maandelijkse beschikbare inkomen van de bewoner.</span></span></span><br>
+<p>Als de burgemeester overgaat tot herhuisvesting van de bewoners van een onbewoonbare of overbewoonde woning of van een goed als vermeld in artikel 3.35, kan de gemeente onder meer de volgende kosten terugvorderen van de verhuurder of de persoon die de woning&nbsp;of het goed, vermeld in artikel 3.35, ter beschikking heeft gesteld:<br>
+1° de kosten om de woning te ontruimen;<br>
+2° de kosten voor het vervoer en de opslag van het meubilair en de goederen van de bewoners;<br>
+3° de installatiekosten met betrekking tot de nieuw te betrekken woning;<br>
+4° het verschil tussen de kosten per maand van de woning, vermeld in punt 3°, of van het verblijf in een daartoe uitgeruste voorziening, en 20% van het maandelijkse beschikbare inkomen van de bewoner.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Het verschil, vermeld in het eerste lid, 4°, kan teruggevorderd worden voor een periode van maximaal een jaar.</span></span></span><br>
+Het verschil, vermeld in het eerste lid, 4°, kan teruggevorderd worden voor een periode van maximaal een jaar.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Als de gemeente daartoe een samenwerkingsovereenkomst sluit met de Vlaamse Regering, kan de Vlaamse Regering de kosten, vermeld in het eerste lid, laten prefinancieren door het Vlaamse Gewest. In dat geval treedt het Vlaamse Gewest voor de geprefinancierde kosten in alle rechten die de gemeente heeft ten aanzien van de schuldenaar. De eventuele invordering gebeurt met een dwangbevel dat opgesteld, geviseerd en uitvoerbaar verklaard wordt door de ambtenaren die aangewezen zijn met toepassing van artikel 5.4.</span></span></span></p>
+Als de gemeente daartoe een samenwerkingsovereenkomst sluit met de Vlaamse Regering, kan de Vlaamse Regering de kosten, vermeld in het eerste lid, laten prefinancieren door het Vlaamse Gewest. In dat geval treedt het Vlaamse Gewest voor de geprefinancierde kosten in alle rechten die de gemeente heeft ten aanzien van de schuldenaar. De eventuele invordering gebeurt met een dwangbevel dat opgesteld, geviseerd en uitvoerbaar verklaard wordt door de ambtenaren die aangewezen zijn met toepassing van artikel 5.4.</p>
 
 ## Deel 9. Strafrechtelijke handhaving
 
@@ -1103,7 +1122,7 @@ In deze gevallen worden de woningen ingeschreven op de inventarislijst op de dat
 
 ### ART 3.37.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De wooninspecteur deelt aan de burgemeester en de gewestelijke ambtenaar mee voor welke woningen een proces-verbaal werd opgesteld.</span></span></span></p>
+<p>De wooninspecteur deelt, na de controle ter plaatse, aan de burgemeester en de gewestelijk ambtenaar mee voor welke woningen hij een aanvankelijk proces-verbaal zal opstellen.</p>
 
 ### ART 3.38.
 
@@ -1163,17 +1182,17 @@ In deze gevallen worden de woningen ingeschreven op de inventarislijst op de dat
 
 ### ART 3.44.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§1. De vorderingen bedoeld in artikel 3.43, worden bij het parket ingeleid bij gewone brief in naam van het Vlaamse Gewest of het college van burgemeester en schepenen, door de wooninspecteurs en de aangestelden van het college van burgemeester en schepenen.</span></span></span></span><br>
+<p>§1. De vorderingen bedoeld in artikel 3.43, worden bij het parket ingeleid bij gewone brief in naam van het Vlaamse Gewest of het college van burgemeester en schepenen, door de wooninspecteurs en de aangestelden van het college van burgemeester en schepenen.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De wooninspecteur of het college van burgemeester en schepenen stuurt een afschrift van de vordering, vermeld in artikel 3.43, naar de overtreder en naar de eigenaar van de woning, het pand of het goed waarvoor de vordering werd ingeleid.</span></span></span></span><br>
+De wooninspecteur of het college van burgemeester en schepenen stuurt een afschrift van de vordering, vermeld in artikel 3.43, naar de overtreder en naar de houder van het zakelijk recht op de woning, het pand of het goed waarvoor de vordering werd ingeleid.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De wooninspecteur neemt de woningen, panden en goederen waarop een vordering als vermeld in artikel 3.43, rust, op in een register dat actief openbaar wordt gemaakt. De Vlaamse Regering kan nadere regels bepalen voor de vorm, inhoud, beheer en gebruik van dat register.&nbsp;</span></span></span></span><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Als een vordering als vermeld in artikel 3.43, wordt ingeleid in naam van het college van burgemeester en schepenen, wordt daarvan een afschrift bezorgd aan de wooninspecteur met het oog op de opname van die vordering in het register, vermeld in het derde lid.</span></span></span></span><br>
+De wooninspecteur neemt de woningen, panden en goederen waarop een vordering als vermeld in artikel 3.43, rust, op in een register dat actief openbaar wordt gemaakt. De Vlaamse Regering kan nadere regels bepalen voor de vorm, inhoud, beheer en gebruik van dat register.&nbsp;Als een vordering als vermeld in artikel 3.43, wordt ingeleid in naam van het college van burgemeester en schepenen, wordt daarvan een afschrift bezorgd aan de wooninspecteur met het oog op de opname van die vordering in het register, vermeld in het derde lid.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§2. De vordering wordt uitdrukkelijk gemotiveerd vanuit het oogpunt van de conformiteit van de woning en het beëindigen van de overbewoning. </span></span></span></span><br>
+§2. De vordering wordt uitdrukkelijk gemotiveerd vanuit het oogpunt van de conformiteit van de woning en het beëindigen van de overbewoning.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§3. De vordering vermeldt minstens de gebreken op basis waarvan het herstel wordt gevorderd.</span></span></span></span><br>
+§3. De vordering vermeldt minstens de gebreken op basis waarvan het herstel wordt gevorderd.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§4. De wooninspecteur en het college van burgemeester en schepenen kunnen ook voor de rechtbank van eerste aanleg, zetelend in burgerlijke aangelegenheden, in het gerechtelijk arrondissement waar de woning, het pand of het goed, vermeld in artikel 3.34, 3.35 en 3.36, zich bevindt, de uitvoering van herstelmaatregelen vorderen zoals omschreven in artikel 3.43.</span></span></span></span></p>
+§4. De wooninspecteur en het college van burgemeester en schepenen kunnen ook voor de rechtbank van eerste aanleg, zetelend in burgerlijke aangelegenheden, in het gerechtelijk arrondissement waar de woning, het pand of het goed, vermeld in artikel 3.34, 3.35 en 3.36, zich bevindt, de uitvoering van herstelmaatregelen vorderen zoals omschreven in artikel 3.43.</p>
 
 ### ART 3.45.
 
@@ -1181,13 +1200,13 @@ In deze gevallen worden de woningen ingeschreven op de inventarislijst op de dat
 
 ### ART 3.46.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Als de overtreder de gevorderde of de door de rechtbank opgelegde herstelmaatregelen vrijwillig heeft uitgevoerd, brengt hij de wooninspecteur en het college van burgemeester en schepenen daarvan onmiddellijk op de hoogte. De kennisgeving wordt aangetekend verstuurd of wordt afgegeven tegen ontvangstbewijs. Na ontvangst van de vergoeding, vermeld in het tweede lid, doet de wooninspecteur of een door de Vlaamse Regering voor de handhaving van boek 3, deel 9, aangewezen agent van gerechtelijke politie,&nbsp;een controle ter plaatse en stelt hij een proces-verbaal van vaststelling op.</span></span></span><br>
+<p>Als de overtreder de gevorderde of de door de rechtbank opgelegde herstelmaatregelen vrijwillig heeft uitgevoerd, brengt hij de wooninspecteur en het college van burgemeester en schepenen daarvan onmiddellijk op de hoogte. De kennisgeving wordt aangetekend verstuurd of wordt afgegeven tegen ontvangstbewijs. De wooninspecteur kan stukken en bewijselementen opvragen die het gemelde herstel aannemelijk maken. Als de overtreder de gevraagde stukken niet bezorgt, voert de wooninspecteur geen controle ter plaatse uit. Na ontvangst van de vergoeding, vermeld in het tweede lid, doet de wooninspecteur of een door de Vlaamse Regering voor de handhaving van boek 3, deel 9, aangewezen agent van gerechtelijke politie,&nbsp;een controle ter plaatse en stelt hij een proces-verbaal van vaststelling op.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De controle ter plaatse, vermeld in het eerste lid, wordt pas uitgevoerd na de betaling van een vergoeding. De Vlaamse Regering bepaalt het bedrag van de vergoeding en de nadere regelen voor de inning ervan. De opbrengst van de vergoeding wordt toegewezen aan het Fonds voor de Wooninspectie,&nbsp;vermeld in artikel 19 van het decreet van 29 juni 2007 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2007.</span></span></span><br>
+De controle ter plaatse, vermeld in het eerste lid, wordt pas uitgevoerd na de betaling van een vergoeding. De Vlaamse Regering bepaalt het bedrag van de vergoeding en de nadere regelen voor de inning ervan. De opbrengst van de vergoeding wordt toegewezen aan het Fonds voor de Wooninspectie,&nbsp;vermeld in artikel 19 van het decreet van 29 juni 2007 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2007.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De wooninspecteur stelt een proces-verbaal van uitvoering op. Behoudens bewijs van het tegendeel geldt alleen het proces-verbaal van uitvoering als bewijs van het herstel en van de datum van het herstel. De wooninspecteur zendt een afschrift van het proces-verbaal van uitvoering aan het college van burgemeester en schepenen en aan de overtreder en de eigenaar van de woning, het pand of het goed, vermeld in artikel 3.34, 3.35 en 3.36. De burgemeester of de gewestelijk ambtenaar kunnen geen conformiteitsattest afleveren zolang uit het proces-verbaal van uitvoering niet blijkt dat de herstelmaatregel volledig uitgevoerd is.</span></span></span></p>
+De wooninspecteur stelt een proces-verbaal van uitvoering op. Behoudens bewijs van het tegendeel geldt alleen het proces-verbaal van uitvoering als bewijs van het herstel en van de datum van het herstel. De wooninspecteur zendt een afschrift van het proces-verbaal van uitvoering aan het college van burgemeester en schepenen en aan de overtreder en de houder van het zakelijk recht op de woning, het pand of het goed, vermeld in artikel 3.34, 3.35 en 3.36.&nbsp;</p>
 
-<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+<p>&nbsp;</p>
 
 ### ART 3.47.
 
@@ -1207,21 +1226,21 @@ In deze gevallen worden de woningen ingeschreven op de inventarislijst op de dat
 
 ### ART 3.49.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§1. De dagvaarding voor de correctionele rechtbank op grond van artikel 3.34, 3.35 en 3.36, of het exploot tot inleiding van het geding, bedoeld in artikel 3.44, §4, is pas ontvankelijk na overschrijving in het bevoegde kantoor van de Algemene Administratie van de Patrimoniumdocumentatie van het gebied waar de goederen gelegen zijn.</span></span></span></span><br>
+<p>§1. De dagvaarding voor de correctionele rechtbank op grond van artikel 3.34, 3.35 en 3.36, of het exploot tot inleiding van het geding, bedoeld in artikel 3.44, §4, is pas ontvankelijk na overschrijving in het bevoegde kantoor van de Algemene Administratie van de Patrimoniumdocumentatie van het gebied waar de goederen gelegen zijn.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Elke eindbeslissing die in de zaak gewezen is, wordt op de kant van de overgeschreven dagvaarding of van het overgeschreven exploot ingeschreven op de wijze, bepaald in artikel 84 van de hypotheekwet. Bij gebrek aan een overschrijving, bedoeld in het eerste lid, wordt de eindbeslissing ingeschreven op de kant van de overschrijving van de titel van verkrijging.</span></span></span></span><br>
+Elke eindbeslissing die in de zaak gewezen is, wordt op de kant van de overgeschreven dagvaarding of van het overgeschreven exploot ingeschreven op de wijze, bepaald in artikel 84 van de hypotheekwet. Bij gebrek aan een overschrijving, bedoeld in het eerste lid, wordt de eindbeslissing ingeschreven op de kant van de overschrijving van de titel van verkrijging.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Hetzelfde geldt voor het proces-verbaal waarbij wordt vastgesteld dat het vonnis of arrest is uitgevoerd en voor het proces-verbaal waarbij wordt vastgesteld dat de in artikel 3.43 vermelde herstelvordering werd uitgevoerd nadat het exploot tot inleiding van het geding, bedoeld in artikel 3.44, §4, is overgeschreven.</span></span></span></span><br>
+Hetzelfde geldt voor het proces-verbaal waarbij wordt vastgesteld dat het vonnis of arrest is uitgevoerd en voor het proces-verbaal waarbij wordt vastgesteld dat de in artikel 3.43 vermelde herstelvordering werd uitgevoerd nadat het exploot tot inleiding van het geding, bedoeld in artikel 3.44, §4, is overgeschreven.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§2. De dagvaarding of het exploot vermeldt de kadastrale omschrijving van het onroerend goed dat het voorwerp uitmaakt van het misdrijf en identificeert de eigenaar ervan, in de vorm en onder de sanctie voorgeschreven door de wetgeving inzake hypotheken.</span></span></span></span><br>
+§2. De dagvaarding of het exploot vermeldt de kadastrale omschrijving van het onroerend goed dat het voorwerp uitmaakt van het misdrijf en identificeert de houder van het zakelijk recht op dat goed, in de vorm en onder de sanctie voorgeschreven door de wetgeving inzake hypotheken.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§3. De uitvoering door of in de plaats van de veroordeelde, van de publieke herstelmaatregel die is opgelegd met toepassing van artikel 3.43 tot en met 3.48, moet door iedereen worden gedoogd.</span></span></span></span><br>
+§3. De uitvoering door of in de plaats van de veroordeelde, van de publieke herstelmaatregel die is opgelegd met toepassing van artikel 3.43 tot en met 3.48, moet door iedereen worden gedoogd.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Met behoud van de toepassing van het eerste lid kunnen derden-verkrijgers die niet in het geding zijn tussengekomen en van wie de titel al was overgeschreven vóór de hypothecaire publiciteit, vermeld in paragraaf 1, derdenverzet instellen tegen de eindbeslissing waarin de herstelmaatregel, vermeld in het eerste lid, is opgelegd.</span></span></span></span><br>
+Met behoud van de toepassing van het eerste lid kunnen derden-verkrijgers die niet in het geding zijn tussengekomen en van wie de titel al was overgeschreven vóór de hypothecaire publiciteit, vermeld in paragraaf 1, derdenverzet instellen tegen de eindbeslissing waarin de herstelmaatregel, vermeld in het eerste lid, is opgelegd.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§4. Als openbare besturen of derden wegens het in gebreke blijven van de veroordeelde of van de nieuwe houder van het zakelijk recht, vermeld in artikel 3.50, gedwongen zijn om het vonnis uit te voeren, wordt de daaruit te hunnen bate voortvloeiende schuldvordering gewaarborgd door een wettelijke hypotheek, die ingeschreven, vernieuwd, verminderd of gedeeltelijk doorgehaald wordt overeenkomstig de bepalingen in de hoofdstukken IV en V van de hypotheekwet.</span></span></span></span><br>
+§4. Als openbare besturen of derden wegens het in gebreke blijven van de veroordeelde of van de nieuwe houder van het zakelijk recht, vermeld in artikel 3.50, gedwongen zijn om het vonnis uit te voeren, wordt de daaruit te hunnen bate voortvloeiende schuldvordering gewaarborgd door een wettelijke hypotheek, die ingeschreven, vernieuwd, verminderd of gedeeltelijk doorgehaald wordt overeenkomstig de bepalingen in de hoofdstukken IV en V van de hypotheekwet.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Die waarborg dekt ook de schuldvordering ten gevolge van de kosten van de hypothecaire formaliteiten die door hen zijn voorgeschoten en die ten laste komen van de veroordeelde of van de nieuwe houder van het zakelijk recht, vermeld in artikel 3.50.</span></span></span></span></p>
+Die waarborg dekt ook de schuldvordering ten gevolge van de kosten van de hypothecaire formaliteiten die door hen zijn voorgeschoten en die ten laste komen van de veroordeelde of van de nieuwe houder van het zakelijk recht, vermeld in artikel 3.50.</p>
 
 ### ART 3.50.
 
@@ -1290,7 +1309,8 @@ De verwerkingsverantwoordelijken, vermeld in deze paragraaf, verduidelijken in h
 2° rijksregisternummer;<br>
 3° woningkenmerken;<br>
 4° strafrechtelijke gegevens;<br>
-5° gegevens inzake bestuurlijke vervolging en sanctionering.<br>
+5° gegevens inzake bestuurlijke vervolging en sanctionering;<br>
+6° gegevens die noodzakelijk zijn om na te gaan of de bepalingen die de Vlaamse Regering met toepassing van artikel 3.5 oplegt, worden nageleefd.<br>
 <br>
 De Vlaamse Regering kan de categorieën van persoonsgegevens, vermeld in het eerste lid, nader omschrijven.<br>
 <br>
@@ -1299,7 +1319,9 @@ De Vlaamse Regering kan de categorieën van persoonsgegevens, vermeld in het eer
 2° van 30 jaar na het afsluiten van een strafrechtelijk dossier als vermeld in deel 9 van dit boek;<br>
 3° zoals bepaald in het Kaderdecreet betreffende de bestuurlijke handhaving van 22 maart 2019 voor wat betreft de bestuurlijke vervolging en beboeting.<br>
 <br>
-Binnen een jaar na het verstrijken van de termijn, vermeld in het eerste lid, worden persoonsgegevens in digitale vorm definitief gewist en papieren documenten die persoonsgegevens bevatten vernietigd.<br>
+Binnen een jaar na het verstrijken van de termijn, vermeld in het eerste en derde lid, worden persoonsgegevens in digitale vorm definitief gewist en papieren documenten die persoonsgegevens bevatten vernietigd.<br>
+<br>
+De persoonsgegevens, vermeld in paragraaf 3, eerste lid, 6°, kunnen bewaard worden tot tien jaar na de stopzetting van de erkenning van een woningcontroleur. De Vlaamse Regering kan voor specifieke persoonsgegevens een kortere bewaartermijn bepalen.<br>
 <br>
 § 5. De betrokkenen bij de verwerking van persoonsgegevens met toepassing van paragraaf 1 zijn:<br>
 1° de houder van het zakelijk recht op de woning;<br>
@@ -1307,7 +1329,8 @@ Binnen een jaar na het verstrijken van de termijn, vermeld in het eerste lid, wo
 3° de verhuurder;<br>
 4° de bewoner;<br>
 5° de personen die betrokken zijn bij het misdrijf, vermeld in boek 3, deel 9, titel 1;<br>
-6° de contactpersonen die zichzelf als dusdanig kenbaar gemaakt hebben.
+6° de contactpersonen die zichzelf als dusdanig kenbaar gemaakt hebben;<br>
+7° de controleurs, vermeld in artikel 3.5.
 
 ### ART 3.57.
 
@@ -1318,9 +1341,16 @@ Binnen een jaar na het verstrijken van de termijn, vermeld in het eerste lid, wo
 <br>
 De publicatie, vermeld in het eerste lid, kan gebeuren ten behoeve van alle geïnteresseerde of belanghebbende natuurlijke personen, rechtspersonen, organisaties, overheidsinstanties, diensten of andere organen, zowel voor commercieel als niet commercieel gebruik. Het agentschap kan hiervoor een beroep doen op een publieke of private dienstverlener. In dat geval is het agentschap verwerkingsverantwoordelijke voor de overdracht van de gegevens en is de dienstverlener verwerkingsverantwoordelijke voor het bijhouden en publiceren ervan.<br>
 <br>
-§ 2. Voor de woningen, vermeld in paragraaf 1, kunnen, naast de verwerkingen, vermeld in de procedures opgenomen in boek 3, ook de besluiten van de burgemeester of de minister om een woning ongeschikt of onbewoonbaar te verklaren, de resultaten van de technische vaststellingen, vermeld in artikel 3.3, en een afschrift van een afgegeven conformiteitsattest door het agentschap dat door de Vlaamse Regering belast is met de uitvoering van het woonbeleid, ter beschikking gesteld worden van de Koninklijke Federatie van het Belgisch Notariaat, de Vlaamse Maatschappij voor Sociaal Wonen en de Confederatie van Immobiliënberoepen Vlaanderen, voor zover dat noodzakelijk is voor de vervulling van hun maatschappelijke opdracht of voor de naleving van hun wettelijke verplichtingen of die van hun leden. In dat geval is het agentschap verwerkingsverantwoordelijke voor de overdracht van de gegevens en zijn de ontvangende organisaties verwerkingsverantwoordelijke voor de verdere verwerking ervan.<br>
+§2. De dienst die door de Vlaamse Regering belast is met het woonbeleid, of een gemeente kan voor de woningen, vermeld in paragraaf 1, ook de volgende documenten ter beschikking stellen van de VMSW en van notarissen en vastgoedmakelaars die betrokken zijn bij de verkoop of de verhuur van een woning:<br>
+1° de besluiten van de burgemeester of de minister om een woning ongeschikt of onbewoonbaar te verklaren;<br>
+2° de resultaten van het conformiteitsonderzoek dat verloopt volgens de procedure, vermeld in artikel 3.3;<br>
+3° een afschrift van een afgegeven conformiteitsattest.<br>
 <br>
-§ 3. Voor de woningen, vermeld in paragraaf 1, kunnen de resultaten van de recentste technische vaststellingen, vermeld in artikel 3.3, door steden en gemeenten of door het agentschap dat door de Vlaamse Regering belast wordt met de uitvoering van het woonbeleid, die als verwerkingsverantwoordelijke optreden, ter beschikking gesteld worden van de houder van het zakelijk recht die niet betrokken was bij de procedure die tot de inventarisatie of tot afgifte van een conformiteitsattest heeft geleid.
+De terbeschikkingstelling, vermeld in het eerste lid, kan gebeuren via een representatieve beroepsorganisatie, met het oog op de integratie van de gegevens in een digitale omgeving die ze ter beschikking stelt van haar leden.<br>
+<br>
+De dienst, vermeld in het eerste lid, is verwerkingsverantwoordelijke voor de overdracht van de gegevens. De VMSW, de representatieve beroepsorganisaties, vermeld in het tweede lid, en de ontvangende notarissen en vastgoedmakelaars, zijn verwerkingsverantwoordelijke voor de verdere verwerking ervan. Notarissen en vastgoedmakelaars kunnen de documenten die conform het eerste of tweede lid ter beschikking worden gesteld, op hun beurt ter beschikking stellen van de betrokkenen bij het dossier waarvoor deze notarissen of vastgoedmakelaars de voormelde gegevens opvragen.<br>
+<br>
+§ 3. Voor de woningen, vermeld in paragraaf 1, kunnen de resultaten van de recentste technische vaststellingen, vermeld in artikel 3.3, door steden en gemeenten of door het agentschap dat door de Vlaamse Regering belast wordt met de uitvoering van het woonbeleid, die als verwerkingsverantwoordelijke optreden, ter beschikking gesteld worden van de houder van het zakelijk recht die niet betrokken was bij de procedure die tot de inventarisatie of tot afgifte van een conformiteitsattest heeft geleid en van iedere persoon die aantoont dat de technische toestand van de woning hem rechtstreeks en persoonlijk in zijn rechtssituatie kan raken.
 
 ## Boek 4. Woonactoren
 
@@ -1566,15 +1596,16 @@ In het eerste lid wordt onder initiatiefnemer verstaan de initiatiefnemers, verm
 
 ### ART 4.22.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§1. De VMSW kan in onderlinge overeenstemming met de betrokken partijen de volgende verrichtingen doen:</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">1° een huurovereenkomst overnemen die gesloten is tussen een&nbsp;woonmaatschappij&nbsp;dat conform artikel 4.54 erkend is en een of meer verhuurders op de private huurmarkt. Enkel de huurovereenkomsten met een bedongen huurprijs die niet hoger is dan de door de Vlaamse Regering vastgestelde huurprijsgrens voor het bekomen van een tegemoetkoming verleend met toepassing van artikel 5.73 kunnen overgenomen worden;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">2° een huurovereenkomst die gesloten is tussen een&nbsp;woonmaatschappij&nbsp;dat conform artikel 4.54 erkend is en een of meer verhuurders op de private huurmarkt, en die de VMSW heeft overgenomen conform punt 1°, overdragen aan een&nbsp;woonmaatschappij&nbsp;dat conform artikel 4.54 erkend is.</span></span></span><br>
+<p>§1. De VMSW kan in onderlinge overeenstemming met de betrokken partijen de volgende verrichtingen doen:<br>
+1° een huurovereenkomst overnemen die gesloten is tussen een woonmaatschappij die erkend is conform artikel 4.36 van deze codex of artikel 206 van het decreet van 9 juli 2021 houdende wijziging van diverse decreten met betrekking tot wonen en een of meer verhuurders op de private huurmarkt. Enkel de huurovereenkomsten met een bedongen huurprijs die niet hoger is dan de door de Vlaamse Regering vastgestelde huurprijsgrens voor het bekomen van een tegemoetkoming verleend met toepassing van artikel 5.73 kunnen overgenomen worden;<br>
+2° een huurovereenkomst die de VMSW heeft overgenomen conform punt 1°, overdragen aan een woonmaatschappij die erkend is conform artikel<br>
+4.36 van deze codex of artikel 206 van het decreet van 9 juli 2021 houdende wijziging van diverse decreten met betrekking tot wonen.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§2. Met behoud van de toepassing van paragraaf 1, 2°, treedt de VMSW onder de voorwaarden, vermeld in artikel 4.58, in de rechten en verplichtingen van de woonmaatschappij&nbsp;die voortvloeien uit een overeenkomst die gesloten is tussen de woonmaatschappij&nbsp;en een of meer verhuurders op de private huurmarkt.</span></span></span><br>
+§2. Met behoud van de toepassing van paragraaf 1, 2°, treedt de VMSW onder de voorwaarden, vermeld in artikel 4.58, in de rechten en verplichtingen van de woonmaatschappij&nbsp;die voortvloeien uit een overeenkomst die gesloten is tussen de woonmaatschappij&nbsp;en een of meer verhuurders op de private huurmarkt.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§3. In het geval, vermeld in paragraaf 1, 1°, neemt de VMSW de onderhuurovereenkomsten die gesloten zijn tussen de&nbsp;woonmaatschappij&nbsp;en een of meer onderhuurders van een sociale huurwoning over.</span></span></span><br>
+§3. In het geval, vermeld in paragraaf 1, 1°, neemt de VMSW de onderhuurovereenkomsten die gesloten zijn tussen de&nbsp;woonmaatschappij&nbsp;en een of meer onderhuurders van een sociale huurwoning over.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De VMSW kan in de gevallen, vermeld in paragraaf 1, 1°, en in paragraaf 2, de woningen die het voorwerp uitmaken van de overgenomen overeenkomst opnieuw onderverhuren aan een of meer huurders die het goed gebruiken als hoofdverblijfplaats. De VMSW doet voor de toewijzing aan nieuwe onderhuurders een beroep op het kandidatenregister, vermeld in boek 6, deel 3, van de woonmaatschappij. Bij de toewijzing van de sociale huurwoning past ze de methodiek toe die de woonmaatschappijen&nbsp;hanteren.</span></span></span><br>
+De VMSW kan in de gevallen, vermeld in paragraaf 1, 1°, en in paragraaf 2, de woningen die het voorwerp uitmaken van de overgenomen overeenkomst opnieuw onderverhuren aan een of meer huurders die het goed gebruiken als hoofdverblijfplaats. De VMSW doet voor de toewijzing aan nieuwe onderhuurders een beroep op het kandidatenregister, vermeld in boek 6, deel 3, van de woonmaatschappij. Bij de toewijzing van de sociale huurwoning past ze de methodiek toe die de woonmaatschappijen&nbsp;hanteren.<br>
 <br>
 In het geval, vermeld in paragraaf 1, 2°, neemt de woonmaatschappij die de huurovereenkomsten van de VMSW heeft overgenomen, de onderhuurovereenkomsten over die de VMSW had overgenomen of heeft gesloten. Het kandidatenregister, vermeld in boek 6, deel 3, van de oorspronkelijke woonmaatschappij wordt samengevoegd met het eigen kandidatenregister van de woonmaatschappij. De Vlaamse Regering bepaalt de voorwaarden om de registers samen te voegen.</p>
 
@@ -1888,7 +1919,7 @@ f) functiegebonden gebouwen van publieke en semipublieke rechtspersonen;<br>
 <br>
 Voor de toepassing van deze paragraaf:<br>
 1° worden persoonsgegevens verwerkt met als doel na te gaan of voldaan is aan de voorwaarden en de verplichtingen die de Vlaamse Regering vaststelt conform het eerste lid;<br>
-2° is de woonmaatschappij de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming;<br>
+2° is de woonmaatschappij de verwerkingsverantwoordelijke;<br>
 3° kunnen de volgende categorieën van persoonsgegevens worden verwerkt:<br>
 a) identificatiegegevens;<br>
 b) persoonlijke kenmerken;<br>
@@ -2201,40 +2232,40 @@ De richtlijn 2014/17/EU van het Europees Parlement en de Raad van 4 februari 201
 
 ### ART 4.68.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De Vlaamse Regering kan, rekening houdend met artikel 4.6, eerste lid, huurdersbonden erkennen als huurdiensten waarvan de werking wordt gesubsidieerd conform artikel 4.70.</span></span></span><br>
+<p>De Vlaamse Regering kan, rekening houdend met artikel 4.6, eerste lid, huurdersbonden erkennen&nbsp; waarvan de werking wordt gesubsidieerd conform artikel 4.70.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Om erkend te kunnen worden en te blijven als huurdienst moet ten minste aan volgende voorwaarden zijn voldaan:</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">1° de huurdienst is werkzaam en gevestigd in het Vlaamse Gewest;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">2° de huurdienst verbindt er zich toe de opdrachten uit te voeren die hen worden opgelegd door:</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">a) deze codex en zijn uitvoeringsbesluiten;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">b) elk ander decreet of besluit, als dat betrekking heeft op aspecten van het sociale woonbeleid;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">3° de huurdienst aanvaardt het toezicht van de Vlaamse Regering en van de toezichthouder voor de sociale huisvesting in het bijzonder.</span></span></span><br>
+Om erkend te kunnen worden en te blijven moet ten minste aan volgende voorwaarden zijn voldaan:<br>
+1° de huurdersbond is werkzaam en gevestigd in het Vlaamse Gewest;<br>
+2° de huurdersbond verbindt er zich toe de opdrachten uit te voeren die hen worden opgelegd door:<br>
+a) deze codex en zijn uitvoeringsbesluiten;<br>
+b) elk ander decreet of besluit, als dat betrekking heeft op aspecten van het sociale woonbeleid;<br>
+3° de huurdersbond aanvaardt het toezicht van de Vlaamse Regering en van de toezichthouder voor de sociale huisvesting in het bijzonder.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De Vlaamse Regering stelt de procedure vast voor de erkenning van huurdiensten en de intrekking van de erkenning. De Vlaamse Regering kan aanvullende voorwaarden opleggen om erkend te worden als huurdienst, onder meer wat representativiteit, schaalgrootte en regionale spreiding betreft.</span></span></span></p>
+De Vlaamse Regering stelt de procedure vast voor de erkenning van huurdersbonden en de intrekking van de erkenning. De Vlaamse Regering kan aanvullende voorwaarden opleggen om erkend te worden, onder meer wat representativiteit, schaalgrootte en regionale spreiding betreft.</p>
 
 ## Hoofdstuk 2. Opdrachten
 
 ### ART 4.69.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De erkende huurdiensten dragen bij tot het helpen realiseren van het recht op wonen en behartigen de belangen van de meest behoeftige gezinnen en alleenstaanden op de privéhuurwoningmarkt.</span></span></span></span><br>
+<p>De huurdersbonden dragen bij tot het helpen realiseren van het recht op wonen en behartigen de belangen van de meest behoeftige gezinnen en alleenstaanden op de privéhuurwoningmarkt.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De huurdersbonden verstrekken op individuele of collectieve basis informatie en advies over alle aangelegenheden met betrekking tot het wonen in huurwoningen, onder meer bevattelijke huurinformatie en huuradvies. Ze kunnen juridische bijstand verlenen aan huurders en aanstaande huurders in het algemeen en aan de meest behoeftige huurders in het bijzonder.</span></span></span></span></p>
+De huurdersbonden verstrekken op individuele of collectieve basis informatie en advies over alle aangelegenheden met betrekking tot het wonen in huurwoningen, onder meer bevattelijke huurinformatie en huuradvies. Ze kunnen juridische bijstand verlenen aan huurders en aanstaande huurders in het algemeen en aan de meest behoeftige huurders in het bijzonder.</p>
 
 ## Hoofdstuk 3. Subsidie
 
 ### ART 4.70.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Binnen de perken van de kredieten die daarvoor op de begroting van het Vlaamse Gewest ingeschreven worden, kan de Vlaamse Regering, onder de voorwaarden die ze bepaalt, subsidies verlenen voor de werking van de erkende huurdiensten, vermeld in artikel 4.68. De subsidiëring ten laste van de uitgavenbegroting van het Vlaamse Gewest of de Vlaamse Gemeenschap mag nooit meer bedragen dan 100% van de totale kosten.</span></span></span></span></p>
+<p>Binnen de perken van de kredieten die daarvoor op de begroting van het Vlaamse Gewest ingeschreven worden, kan de Vlaamse Regering, onder de voorwaarden die ze bepaalt, subsidies verlenen voor de werking van de huurdersbonden, vermeld in artikel 4.68. De subsidiëring ten laste van de uitgavenbegroting van het Vlaamse Gewest of de Vlaamse Gemeenschap mag nooit meer bedragen dan 100% van de totale kosten.</p>
 
 ## Hoofdstuk 4. Sancties
 
 ### ART 4.71.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Op eigen initiatief of op verzoek van de toezichthouder kan de Vlaamse Regering de erkenning intrekken van een huurdersbond die niet aan de erkenningsvoorwaarden voldoet, de opdrachten, opgelegd bij deze codex of bij besluit van de Vlaamse Regering, niet behoorlijk uitvoert, of waarvan de werking in gebreke blijft.</span></span></span></span><br>
+<p>Op eigen initiatief of op verzoek van de toezichthouder kan de Vlaamse Regering de erkenning intrekken van een huurdersbond die niet aan de erkenningsvoorwaarden voldoet, de opdrachten, opgelegd bij deze codex of bij besluit van de Vlaamse Regering, niet behoorlijk uitvoert, of waarvan de werking in gebreke blijft.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Voorafgaand aan de beslissing om de sanctie, vermeld in het eerste lid, op te leggen, stuurt de Vlaamse Regering de betrokken huurdienst een ingebrekestelling. In de ingebrekestelling motiveert de Vlaamse Regering dat de huurdienst de erkenningsvoorwaarden niet nakomt, de opdrachten, opgelegd bij deze codex of bij besluit van de Vlaamse Regering, niet behoorlijk uitvoert, de verbintenissen die ze is aangegaan niet nakomt, of haar werking in gebreke blijft. De ingebrekestelling wordt met een beveiligde zending verstuurd. De in gebreke gestelde huurdienst wordt uitgenodigd om te worden gehoord. Zij kan zich daarbij laten bijstaan.</span></span></span></span><br>
+Voorafgaand aan de beslissing om de sanctie, vermeld in het eerste lid, op te leggen, stuurt de Vlaamse Regering de betrokken huurdersbond een ingebrekestelling. In de ingebrekestelling motiveert de Vlaamse Regering dat de huurdersbond de erkenningsvoorwaarden niet nakomt, de opdrachten, opgelegd bij deze codex of bij besluit van de Vlaamse Regering, niet behoorlijk uitvoert, de verbintenissen die ze is aangegaan niet nakomt, of haar werking in gebreke blijft. De ingebrekestelling wordt met een beveiligde zending verstuurd. De in gebreke gestelde huurdersbond wordt uitgenodigd om te worden gehoord. Zij kan zich daarbij laten bijstaan.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">De Vlaamse Regering kan de nadere regelen en procedure vastleggen voor het opleggen van de sanctie vermeld in het eerste lid.</span></p>
+De Vlaamse Regering kan de nadere regelen en procedure vastleggen voor het opleggen van de sanctie vermeld in het eerste lid.</p>
 
 ## Hoofdstuk 5. Ondersteuningsstructuur
 
@@ -2891,7 +2922,7 @@ De maximale verkoopwaarde wordt op 1 januari aangepast aan de gezondheidsindex v
 
 ### ART 5.63.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Bij uitwinning of ter voorkoming van een uitwinning van de waarborg vermeld in artikel 5.60, kan de Vlaamse Regering het VWF opdracht geven tot overname van de activa en passiva van de in artikel 5.58,&nbsp;vermelde kredietmaatschappijen. </span></span></span></p>
+<p>Bij uitwinning of ter voorkoming van een uitwinning van de waarborg vermeld in artikel 5.60, zoals van kracht op 31 januari 2021, kan de Vlaamse Regering het VWF opdracht geven tot overname van de activa en passiva van de in artikel 5.58,&nbsp;vermelde kredietmaatschappijen.</p>
 
 ### ART 5.64.
 
@@ -2915,7 +2946,7 @@ Het VWF kan&nbsp;in verhouding tot de gezinsgrootte een extra interestverminderi
 
 § 1. Voor de toepassing van deze titel worden persoonsgegevens verwerkt met als doel de voorwaarden en de verplichtingen na te gaan die de Vlaamse Regering vaststelt conform artikel 5.65 en 5.66.<br>
 <br>
-§ 2. De entiteit die conform artikel 5.65 bijzondere sociale leningen toestaat, is de verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
+§ 2. De entiteit die conform artikel 5.65 bijzondere sociale leningen toestaat, is de verwerkingsverantwoordelijke.<br>
 <br>
 § 3. Met toepassing van paragraaf 1 kunnen de volgende categorieën van gegevens worden verwerkt:<br>
 1° identificatiegegevens;<br>
@@ -2958,19 +2989,19 @@ De richtlijn 2014/17/EU van het Europees Parlement en de Raad van 4 februari 201
 
 § 1. Voor de toepassing van deze titel worden persoonsgegevens verwerkt met als doel de voorwaarden en de verplichtingen na te gaan die de Vlaamse Regering vaststelt conform artikel 5.68.<br>
 <br>
-§ 2. De entiteit die conform artikel 5.68 instaat voor het verstrekken van de huurwaarborglening, is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
+§ 2. De entiteit die conform artikel 5.68 instaat voor het verstrekken van de huurwaarborglening, is de verwerkingsverantwoordelijke.<br>
 <br>
 § 3. Met toepassing van paragraaf 1 kunnen de volgende categorieën van persoonsgegevens worden verwerkt:<br>
 1° identificatiegegevens;<br>
 2° rijksregisternummer;<br>
-3° persoonlijke kenmerken;<br>
-4° financiële bijzonderheden;<br>
+3° [... (vernietigd bij arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)];<br>
+4° [... (vernietigd bij arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)];<br>
 5° gezinssamenstelling;<br>
 6° gegevens van de huurovereenkomst;<br>
-7° gegevens over onroerende rechten;<br>
-8° gegevens over de lichamelijke of psychische gezondheid.<br>
+7° [... (vernietigd bij arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)];<br>
+8° [... (vernietigd bij arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)].<br>
 <br>
-De Vlaamse Regering kan de categorieën van persoonsgegevens, vermeld in het eerste lid, nader omschrijven.<br>
+[... (vernietigd bij arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)].<br>
 <br>
 § 4. De betrokkenen bij de verwerking van de persoonsgegevens zijn:<br>
 1° de aanvrager of zijn vertegenwoordiger en de personen ten laste;<br>
@@ -3010,15 +3041,16 @@ De Vlaamse Regering kan aanvullende voorwaarden voor de tenlasteneming vaststell
 <br>
 § 3. De Vlaamse Regering bepaalt de procedure voor de behandeling van de aanvragen voor de gehele of gedeeltelijke tenlasteneming van de terugbetaling van de hoofdsom en de betaling van de interesten van hypothecaire leningen.</p>
 
-### ART 5.71/1.
+### ART 5.71/0.
 
-§ 1. Voor de toepassing van deze titel worden persoonsgegevens verwerkt met als doel na te gaan of voldaan is aan de voorwaarden en de verplichtingen uit artikel 5.71 en die de Vlaamse Regering vaststelt conform artikel 5.71.<br>
+§1. Voor de toepassing van deze titel worden persoonsgegevens verwerkt met als doel na te gaan of voldaan is aan de voorwaarden en de verplichtingen uit artikel 5.71 en die de Vlaamse Regering vaststelt conform artikel 5.71.<br>
 <br>
-§ 2. De entiteit die de tenlasteneming, vermeld in artikel 5.71, § 1, van deze codex, beheert, is de verwerkingsverantwoordelijke, vermeld in artikel 4.7 van de algemene verordening gegevensbescherming.<br>
+§2. De entiteit die de tenlasteneming, vermeld in artikel 5.71, §1, van deze codex, beheert, is de verwerkingsverantwoordelijke.<br>
 <br>
-Als de tenlasteneming gebeurt via een verzekering als vermeld in artikel 5.71, § 1, tweede lid, kan de verwerkingsverantwoordelijke, vermeld in het eerste lid, de persoonsgegevens ter beschikking stellen van de verzekeraar die zelf verwerkingsverantwoordelijke is voor de verdere verwerking.<br>
+Als de tenlasteneming gebeurt via een verzekering als vermeld in artikel 5.71,<br>
+§1, tweede lid, kan de verwerkingsverantwoordelijke, vermeld in het eerste lid, de persoonsgegevens ter beschikking stellen van de verzekeraar die zelf verwerkingsverantwoordelijke is voor de verdere verwerking.<br>
 <br>
-§ 3. Met toepassing van het eerste lid kunnen de volgende categorieën van persoonsgegevens worden verwerkt:<br>
+§3. Met toepassing van het eerste lid kunnen de volgende categorieën van persoonsgegevens worden verwerkt:<br>
 1° persoonlijke identificatiegegevens;<br>
 2° rijksregisternummer;<br>
 3° financiële bijzonderheden;<br>
@@ -3030,21 +3062,28 @@ Als de tenlasteneming gebeurt via een verzekering als vermeld in artikel 5.71, �
 <br>
 De Vlaamse Regering kan de categorieën van persoonsgegevens, vermeld in het eerste lid, nader omschrijven.<br>
 <br>
-Om de categorieën van persoonsgegevens, vermeld in het eerste lid, te verwerken, doet de verwerkingsverantwoordelijke, conform artikel 6, lid 1, c), en artikel 9, 2, g), van de algemene verordening gegevensbescherming een beroep op de bevoegde diensten van de Federale Overheidsdienst Financiën, op het Rijksregister, op de Kruispuntbank van de Sociale Zekerheid en op het Vlaams Energie- en Klimaatagentschap, om digitaal toegang te krijgen tot de noodzakelijke gegevens met toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze, in voorkomend geval, op federaal of Vlaams niveau verder is of wordt gespecificeerd.<br>
+Om de categorieën van persoonsgegevens, vermeld in het eerste lid, te verwerken, doet de verwerkingsverantwoordelijke, conform artikel 6, lid 1, c), en artikel 9, 2, g), van de algemene verordening gegevensbescherming een beroep op de bevoegde diensten van de federale overheidsdienst Financiën, op het Rijksregister, op de Kruispuntbank van de Sociale Zekerheid en op het Vlaams Energie- en Klimaatagentschap, om digitaal toegang te krijgen tot de noodzakelijke gegevens met toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze, in voorkomend geval, op federaal of Vlaams niveau verder is of wordt gespecificeerd.<br>
 <br>
 De Vlaamse Dienstenintegrator en de Kruispuntbank van de Sociale Zekerheid staan mee in voor de organisatie en coördinatie van de gegevensstromen. Alleen de personeelsleden van de dienst van de verwerkingsverantwoordelijke die belast zijn met de beoordeling van de aanvragen van een tegemoetkoming, kunnen de gegevens, vermeld in het eerste lid, opvragen en verwerken. De verwerkingsverantwoordelijke houdt een lijst van de personeelsleden ter beschikking en zorgt ervoor dat de aangewezen personen door een wettelijke of statutaire verplichting, of door een evenwaardige contractuele bepaling ertoe gehouden zijn het vertrouwelijk karakter van de betrokken gegevens in acht te nemen.<br>
 <br>
-Bij de verwerking van de persoonsgegevens van de betrokkenen worden passende technische en organisatorische maatregelen gehandhaafd zodat de verwerking voldoet aan de vereisten van de algemene verordening gegevensbescherming en de bescherming van de rechten van de betrokkenen wordt gewaarborgd. Daar- bij worden de passende technische en organisatorische maatregelen genomen om een overeenkomstig het risico afgestemd beveiligingsniveau te waarborgen conform artikel 32 van de algemene verordening gegevensbescherming.<br>
-<br>
+Bij de verwerking van de persoonsgegevens van de betrokkenen worden passende technische en organisatorische maatregelen gehandhaafd zodat de verwerking voldoet aan de vereisten van de algemene verordening gegevensbescherming en de bescherming van de rechten van de betrokkenen wordt gewaarborgd. Daarbij worden de passende technische en organisatorische maatregelen genomen om een overeenkomstig het risico afgestemd beveiligingsniveau te waarborgen conform artikel 32 van de algemene verordening gegevensbescherming.<br>
+&nbsp;<br>
 Voor de verwerkingen van persoonsgegevens, vermeld in het eerste lid, worden de gepaste technische en organisatorische maatregelen tegen onbevoegde of onrechtmatige verwerking genomen en wordt op regelmatige basis de geschiktheid van die veiligheidsmaatregelen geëvalueerd en waar nodig aangepast. Daarnaast worden de gepaste technische en organisatorische maatregelen genomen om erop toe te zien dat de opgevraagde en verwerkte persoonsgegevens juist zijn en geactualiseerd worden.<br>
 <br>
-§ 4. De betrokkenen bij de verwerking van de persoonsgegevens zijn:<br>
+§4. De betrokkenen bij de verwerking van de persoonsgegevens zijn:<br>
 1° de aanvrager;<br>
 2° de lener.<br>
 <br>
-§ 5. De gegevens blijven maximaal bewaard voor 60 jaar. De Vlaamse Regering kan een kortere bewaringstermijn bepalen.<br>
+§5. De gegevens blijven maximaal bewaard voor 60 jaar. De Vlaamse Regering kan een kortere bewaringstermijn bepalen.<br>
 <br>
-§ 6. De verwerkingsverantwoordelijke verduidelijkt in een privacyverklaring welke verwerkingen er gebeuren. Hij neemt met het oog op transparantie en de garantie van de rechten van betrokkenen in zijn communicatie met de betrokkenen een verwijzing op naar de vindplaats van de privacyverklaring.
+§6. De verwerkingsverantwoordelijke verduidelijkt in een privacyverklaring welke verwerkingen er gebeuren. Hij neemt met het oog op transparantie en de garantie van de rechten van betrokkenen in zijn communicatie met de betrokkenen een verwijzing op naar de vindplaats van de privacyverklaring.<br>
+<br>
+§7. De verwerkingsverantwoordelijke kan de persoonsgegevens gebruiken voor statistische verwerking en kan ze ter beschikking stellen van andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking. De verwerkingsverantwoordelijke kan de persoonsgegevens ook doorgeven aan de toezichthouder, vermeld in artikel 4.79, om hem in staat te stellen het toezicht uit te oefenen.<br>
+&nbsp;
+
+### ART 5.71/1.
+
+...
 
 ## [Titel 5. Verbouwlening (ing. decr. 6 mei 2022, art. 9, I: 14 juni 2022)]
 
@@ -3052,9 +3091,41 @@ Voor de verwerkingen van persoonsgegevens, vermeld in het eerste lid, worden de 
 
 § 1. De Vlaamse Regering stelt de voorwaarden vast waaronder woonbehoeftige gezinnen en alleenstaanden een verbouwlening kunnen aangaan voor de renovatie, de verbetering of de aanpassing van een woning die in het Vlaamse Gewest ligt, die ze zelf bewonen en waarvan ze eigenaar zijn, en bepaalt onder meer de modaliteiten en eigenschappen van de verbouwlening.<br>
 <br>
-De Vlaamse Regering kan bepalen dat de verbouwlening, vermeld in het eerste lid, ook wordt verleend aan de eigenaar die zijn woning verhuurt. De Vlaamse Regering kan dan de maximale huurprijs, de minimale termijn waarvoor de verhuurder zich verbindt om de woning te verhuren en de voorwaarden waaraan de verhuurder, de huurder en de woning moeten voldoen, bepalen.<br>
+De Vlaamse Regering kan bepalen dat de verbouwlening, vermeld in het eerste lid, ook wordt verleend aan de eigenaar die zijn woning verhuurt. De Vlaamse Regering kan dan de maximale huurprijs, een korting op de huurprijs, de minimale termijn waarvoor de verhuurder zich verbindt om de woning te verhuren en de korting toe te passen en de voorwaarden waaraan de verhuurder, de huurder en de woning voldoen, bepalen.<br>
 <br>
 § 2. De Vlaamse Regering kan de energiehuizen, vermeld in titel IX van het Energiedecreet van 8 mei 2009, machtigen om de verbouwlening, vermeld in paragraaf 1, te verstrekken.
+
+### ART 5.71/2.
+
+§1. Voor de toepassing van deze titel worden persoonsgegevens verwerkt met als doel na te gaan of de eigenaar die overeenkomstig artikel 5.71/1, §1, tweede lid, een verbouwlening heeft verkregen, voldoet aan de verplichtingen.<br>
+<br>
+De dienst die door de Vlaamse Regering belast is met het woonbeleid is de verwerkingsverantwoordelijke.<br>
+<br>
+De verwerkingsverantwoordelijke verduidelijkt in een privacyverklaring welke verwerkingen er gebeuren. Er wordt met het oog op transparantie en de garantie van de rechten van betrokkenen een verwijzing opgenomen naar de vindplaats van de privacyverklaring.<br>
+<br>
+Bij de verwerking van de persoonsgegevens van de betrokkenen worden passende technische en organisatorische maatregelen gehandhaafd zodat de verwerking voldoet aan de vereisten van de algemene verordening gegevensbescherming en de bescherming van de rechten van de betrokkenen wordt gewaarborgd. Daarbij worden de passende technische en organisatorische maatregelen genomen om een overeenkomstig het risico afgestemd beveiligingsniveau te waarborgen conform artikel 32 van de algemene verordening gegevensbescherming. Daarnaast worden de gepaste technische en organisatorische maatregelen genomen om erop toe te zien dat de opgevraagde en verwerkte persoonsgegevens juist zijn en geactualiseerd worden.<br>
+<br>
+§2. Met toepassing van paragraaf 1 kunnen de volgende categorieën van persoonsgegevens opgevraagd en verwerkt worden:<br>
+1° persoonlijke identificatiegegevens;<br>
+2° rijksregisternummer en identificatienummer van de sociale zekerheid;<br>
+3° woningkenmerken;<br>
+4° de huurgelden, vermeld in de huurovereenkomst en het addendum.<br>
+<br>
+De Vlaamse Regering kan de categorieën van persoonsgegevens, vermeld in het eerste lid, nader omschrijven.<br>
+<br>
+§3. De betrokkenen bij de verwerking van persoonsgegevens zijn:<br>
+1° de huurder;<br>
+2° de verhuurder;<br>
+3° de kredietnemer.<br>
+<br>
+§4. De verwerkte persoonsgegevens worden tot tien jaar na afloop van de verbouwlening bewaard.<br>
+<br>
+§5. De verwerkingsverantwoordelijke kan de persoonsgegevens, vermeld in paragraaf 2, eerste lid, 1° en 2°, bezorgen aan het bevoegde energiehuis, vermeld in artikel 1.1.3, 40°/2, van het Energiedecreet van 8 mei 2009 om het energiehuis in staat te stellen om de modaliteiten van de verbouwlening aan te passen bij niet naleving van de verplichtingen.<br>
+<br>
+De Vlaamse Regering kan nadere voorwaarden en modaliteiten bepalen voor de gegevensuitwisseling tussen de verwerkingsverantwoordelijke en het energiehuis, vermeld in het eerste lid.<br>
+<br>
+§6. De verwerkingsverantwoordelijke kan de persoonsgegevens gebruiken voor statistische verwerking en kan ze ter beschikking stellen van andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking.<br>
+&nbsp;
 
 ## Deel 5. Tegemoetkomingen
 
@@ -3062,17 +3133,62 @@ De Vlaamse Regering kan bepalen dat de verbouwlening, vermeld in het eerste lid,
 
 ### ART 5.72.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§1. De Vlaamse Regering kan, afhankelijk van de kredieten die daartoe op de begroting van het Vlaamse Gewest worden ingeschreven, tegemoetkomingen verlenen, zoals bedoeld in titel 2, 3 en 4 van dit deel, om woonbehoeftige gezinnen en alleenstaanden in staat te stellen een woning te bouwen, te huren of te kopen of hun woning te renoveren, te verbeteren of aan te passen.</span></span></span></span><br>
+<p>§1. De Vlaamse Regering kan, afhankelijk van de kredieten die daartoe op de begroting van het Vlaamse Gewest worden ingeschreven, tegemoetkomingen verlenen, zoals bedoeld in titel 2, 3 en 4 van dit deel, om woonbehoeftige gezinnen en alleenstaanden in staat te stellen een woning te bouwen, te huren of te kopen of hun woning te renoveren, te verbeteren of aan te passen.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De tegemoetkomingen die in dit deel worden vermeld, kunnen enkel worden verleend wanneer de alleenstaande of het gezin voldoet aan de voorwaarden inzake onroerend bezit en inkomen die de Vlaamse Regering vaststelt. Naargelang van het geval moet de huurprijs van de woning of de waarde of omvang ervan in overeenstemming zijn met de normen die de Vlaamse Regering vaststelt.</span></span></span></span><br>
+De tegemoetkomingen die in dit deel worden vermeld, kunnen enkel worden verleend wanneer de alleenstaande of het gezin voldoet aan de voorwaarden inzake onroerend bezit en inkomen die de Vlaamse Regering vaststelt. Naargelang van het geval moet de huurprijs van de woning of de waarde of omvang ervan in overeenstemming zijn met de normen die de Vlaamse Regering vaststelt.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">In afwijking van het tweede lid kan een tegemoetkoming in de kosten, zoals vermeld in artikel 5.75, verleend worden aan de eigenaar-verhuurder die werken uitvoert aan de door hem verhuurde woning.</span></span></span></span><br>
+In afwijking van het tweede lid kan een tegemoetkoming in de kosten, zoals vermeld in artikel 5.75, verleend worden aan de eigenaar-verhuurder die werken uitvoert aan de door hem verhuurde woning.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De Vlaamse Regering bepaalt de bijzondere voorwaarden voor de toepassing van deze afdeling.</span></span></span></span><br>
+De Vlaamse Regering bepaalt de bijzondere voorwaarden voor de toepassing van dit deel.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">§2. De openbare centra voor maatschappelijk welzijn en de verenigingen ervan, kunnen het deel van de huurprijs dat overeenstemt met de hulp die zij voor de huisvesting van de betrokken gezinnen verlenen, rechtstreeks betalen aan de gemeenten en de sociale woonorganisaties die woningen verhuren overeenkomstig boek 6.</span></span></span></span><br>
+§2. De openbare centra voor maatschappelijk welzijn en de verenigingen ervan, kunnen het deel van de huurprijs dat overeenstemt met de hulp die zij voor de huisvesting van de betrokken gezinnen verlenen, rechtstreeks betalen aan de gemeenten en de sociale woonorganisaties die woningen verhuren overeenkomstig boek 6.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Als een tegemoetkoming wordt verleend overeenkomstig titel 2 en 3 van dit deel, betaalt het Vlaamse Gewest deze, met toepassing van het eerste lid, aan het OCMW of aan de vereniging van die centra.</span></span></span></span></p>
+Als een tegemoetkoming wordt verleend overeenkomstig titel 2 en 3 van dit deel, betaalt het Vlaamse Gewest deze, met toepassing van het eerste lid, aan het OCMW of aan de vereniging van die centra.</p>
+
+### ART 5.72/1.
+
+§1. Om na te gaan of de huurder recht heeft op de tegemoetkoming, vermeld in titel 2 en 3, worden persoonsgegevens verwerkt. De verwerkte gegevens zijn toereikend, ter zake dienend en beperkt tot de gegevens die noodzakelijk zijn om vast te stellen of de huurder voldoet aan de voorwaarden en de verplichtingen van de tegemoetkoming.<br>
+<br>
+De dienst die door de Vlaamse Regering belast is met de uitvoering van het woonbeleid, is de verwerkingsverantwoordelijke.<br>
+<br>
+§2. Met toepassing van paragraaf 1 kunnen de volgende persoonsgegevens of categorieën van persoonsgegevens opgevraagd en verwerkt worden:<br>
+1° persoonlijke identificatiegegevens;<br>
+2° het rijksregisternummer en de identificatienummers van de sociale zekerheid;<br>
+3° persoonlijke kenmerken;<br>
+4° gezinssamenstelling;<br>
+5° gegevens over de lichamelijke of psychische gezondheid;<br>
+6° financiële identificatiegegevens;<br>
+7° financiële middelen;<br>
+8° gegevens over onroerende rechten;<br>
+9° woningkenmerken van de woning;<br>
+10° de inschrijving en de schrapping in het inschrijvingsregister;<br>
+11° de toewijzing van een sociale woning;<br>
+12° de toekenning van de verhoging van het leefloon, vermeld in artikel 14, §3, van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie, of de installatiepremie, ingesteld bij het koninklijk besluit van 21 september 2004 tot toekenning van een installatiepremie door het openbaar centrum voor maatschappelijk welzijn aan bepaalde personen die hun hoedanigheid van dakloze verliezen.<br>
+<br>
+De gegevens over de lichamelijke of psychische gezondheid van de aanvrager of zijn inwonende gezinsleden worden opgevraagd en verwerkt conform artikel 9, lid 2, g), van de algemene verordening gegevensbescherming. De gegevens over de lichamelijke of psychische gezondheid worden opgevraagd en verwerkt om te bepalen of de huurder in aanmerking komt voor een verhoging van het aantal personen ten laste. Alleen het statuut van de persoon kan worden opgevraagd en verwerkt.<br>
+<br>
+De Vlaamse Regering kan de categorieën van persoonsgegevens, vermeld in het eerste lid, nader omschrijven.<br>
+<br>
+§3. De betrokkenen bij de verwerking van de persoonsgegevens zijn:<br>
+1° de huurder of zijn vertegenwoordiger;<br>
+2° de personen die met de huurder samenwonen.<br>
+<br>
+§4. Er wordt een beroep gedaan op de Vlaamse Dienstenintegrator en de Kruispuntbank van de Sociale Zekerheid om over de persoonsgegevens, vermeld in paragraaf 2, te beschikken. Alleen de personeelsleden die belast zijn met de beoordeling van de aanvragen van een tegemoetkoming van het agentschap, dat belast wordt met de uitvoering van het woonbeleid, kunnen de gegevens, vermeld in dit artikel, opvragen en verwerken. Het voormelde agentschap houdt een lijst van de personeelsleden ter beschikking en zorgt ervoor dat de aangewezen personen door een wettelijke of statutaire verplichting, of door een evenwaardige contractuele bepaling ertoe gehouden zijn het vertrouwelijke karakter van de gegevens in kwestie in acht te nemen.<br>
+<br>
+Bij de verwerking van de gegevens van de betrokkenen, vermeld in paragraaf 3, neemt en handhaaft het voormelde agentschap passende technische en organisatorische maatregelen zodat de verwerking voldoet aan de vereisten, vermeld in de algemene verordening gegevensbescherming, en de bescherming van de rechten van de voormelde betrokkenen wordt gewaarborgd. Daarbij implementeert het voormelde agentschap passende technische en organisatorische maatregelen om een conform het risico afgestemd beveiligingsniveau te waarborgen, in overeenstemming met artikel 32 van de algemene verordening gegevensbescherming. Het voormelde agentschap neemt gepaste technische en organisatorische maatregelen tegen onbevoegde of onrechtmatige verwerking, evalueert op regelmatige basis de geschiktheid van die veiligheidsmaatregelen en past ze aan waar nodig. Daarnaast worden de gepaste technische en organisatorische maatregelen genomen om erop toe te zien dat de opgevraagde en verwerkte persoonsgegevens juist zijn en geactualiseerd worden.<br>
+&nbsp;<br>
+§5. De verwerkingsverantwoordelijke, vermeld in paragraaf 1, tweede lid, bewaart de verwerkte gegevens over de aanvragen van een tegemoetkoming tien jaar vanaf de beslissing tot weigering of tot uitbetaling van de tegemoetkoming door de voormelde verwerkingsverantwoordelijke.<br>
+<br>
+§6. De verwerkingsverantwoordelijke, vermeld in paragraaf 1, tweede lid, kan de persoonsgegevens, vermeld in paragraaf 2, eerste lid, doorgeven aan de entiteiten van het beleidsdomein Omgeving voor statistische verwerking.<br>
+<br>
+De verwerkingsverantwoordelijke, vermeld in paragraaf 1, tweede lid, kan de persoonsgegevens, vermeld in paragraaf 2, eerste lid, doorgeven aan de toezichthouder, vermeld in artikel 4.79, met het oog op het uitoefenen van het toezicht.<br>
+<br>
+Op verzoek van een OCMW geeft de verwerkingsverantwoordelijke, vermeld in paragraaf 1, tweede lid, door of de cliënt van het OCMW een tegemoetkoming ontvangt.<br>
+<br>
+De Vlaamse Regering kan aanvullende entiteiten aanwijzen waaraan persoonsgegevens voor specifiek omschreven doeleinden kunnen worden doorgegeven.<br>
+<br>
+§7. De verwerkingsverantwoordelijke, vermeld in paragraaf 1, tweede lid, verduidelijkt in een privacyverklaring welke verwerkingen er gebeuren en neemt, met het oog op transparantie en de garantie van de rechten van betrokkenen, vermeld in paragraaf 3, in de communicatie met de betrokkenen een verwijzing op naar de vindplaats van de respectieve privacyverklaring.<br>
+&nbsp;
 
 ## Titel 2. Tegemoetkoming in de huurprijs voor woonbehoeftige huurders
 
@@ -3154,68 +3270,97 @@ Bij de verwerking van de persoonsgegevens van de betrokkenen worden passende tec
 <br>
 Voor de verwerkingen van persoonsgegevens in het kader van het gebruik en het beheer van het unieke loket worden de gepaste technische en organisatorische maatregelen tegen onbevoegde of onrechtmatige verwerking genomen en wordt op regelmatige basis de geschiktheid van die veiligheidsmaatregelen geëvalueerd en waar nodig aangepast.<br>
 <br>
-Voor de verwerkingen van persoonsgegevens in het kader van het gebruik en het beheer van het unieke loket is de dienst die de Vlaamse Regering, conform paragraaf 2, eerste lid, aanwijst, de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de taken die conform paragraaf 2, eerste lid, aan die dienst worden toegekend.<br>
+Voor de verwerkingen van persoonsgegevens in het kader van het gebruik en het beheer van het unieke loket is de dienst die de Vlaamse Regering, conform paragraaf 2, eerste lid, aanwijst, de verwerkingsverantwoordelijke voor de taken die conform paragraaf 2, eerste lid, aan die dienst worden toegekend.<br>
 <br>
-Voor de verwerkingen van persoonsgegevens in het kader van het gebruik en het beheer van het unieke loket is de distributienetbeheerder of zijn werkmaatschappij de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de taken die aan de distributienetbeheerder of zijn werkmaatschappij conform paragraaf 2, tweede lid, worden toegekend.<br>
+Voor de verwerkingen van persoonsgegevens in het kader van het gebruik en het beheer van het unieke loket is de distributienetbeheerder of zijn werkmaatschappij de verwerkingsverantwoordelijke voor de taken die aan de distributienetbeheerder of zijn werkmaatschappij conform paragraaf 2, tweede lid, worden toegekend.<br>
 <br>
 § 4. De verwerkte gegevens over de aanvragen voor tegemoetkoming worden tot vijftien jaar na de beslissing tot weigering of tot uitbetaling van de tegemoetkoming bewaard.<br>
 <br>
 § 5. De Vlaamse Regering stelt de werkwijze vast die de diensten van de Vlaamse overheid die de Vlaamse Regering aanwijst, vermeld in paragraaf 2, eerste lid, of de distributienetbeheerder of zijn werkmaatschappij, vermeld in paragraaf 2, tweede lid, dienen toe te passen om erop toe te zien dat de opgevraagde en verwerkte persoonsgegevens juist zijn en geactualiseerd worden.
 
+### ART 5.75/2.
+
+§1. Om na te gaan of de aanvrager recht heeft op de tegemoetkomingen, vermeld in artikel 5.75 van deze codex, waarvan de Vlaamse Regering niet heeft bepaald dat ze onder het unieke loket, vermeld in artikel 5.75/1 van deze codex, vallen, doet de dienst die door de Vlaamse Regering belast is met de uitvoering van het woonbeleid, conform artikel 6, lid 1, c), en artikel 9, lid 2, g), van de algemene verordening gegevensbescherming, een beroep op de bevoegde diensten van de federale overheidsdienst Financiën, op het Rijksregister, op de Kruispuntbank van de Sociale Zekerheid, het agentschap Opgroeien en op de lokale besturen om digitaal toegang te krijgen tot de noodzakelijke gegevens met toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze, in voorkomend geval, op federaal of Vlaams niveau verder is of wordt gespecificeerd. De dienst die door de Vlaamse Regering belast is met de uitvoering van het woonbeleid, is de verwerkingsverantwoordelijke.<br>
+<br>
+De verwerkingsverantwoordelijke, vermeld in het eerste lid, kan de volgende persoonsgegevens of categorieën van persoonsgegevens opvragen en verwerken:<br>
+1° de volgende gegevens over de aanvrager:<br>
+a) het huidige adres, het adres op de aanvraagdatum en de contactgegevens;<br>
+b) de gezinssamenstelling, de personen ten laste en de personen die met de aanvrager samenwonen;<br>
+c) de handicap van de aanvrager of van de personen die met de aanvrager samenwonen;<br>
+d) de burgerlijke staat;<br>
+2° de volgende gegevens over het inkomen van de aanvrager of het inkomen van personen met wie de aanvrager samenwoont, voor de tegemoetkomingen waar een inkomensgrens van toepassing is:<br>
+a) het gezamenlijk belastbaar inkomen;<br>
+b) het afzonderlijk belastbaar inkomen;<br>
+c) het leefloon;<br>
+d) de inkomensvervangende tegemoetkoming aan personen met een handicap;<br>
+e) de beroepsinkomsten die van belasting vrijgesteld zijn, uit het buitenland of verworven bij een Europese of internationale instelling;<br>
+3° de zakelijke rechten waarvan de aanvrager houder is;<br>
+4° de volgende gegevens over het gebouw waarvoor een tegemoetkoming wordt aangevraagd:<br>
+a) de aard;<br>
+b) de ligging;<br>
+c) de ouderdom;<br>
+d) de eigendom of zakelijke rechten die erop zijn gevestigd;<br>
+5° de gegevens over de uitgevoerde werken waarvoor een tegemoetkoming wordt aangevraagd, met inbegrip van facturen.<br>
+<br>
+§2. De vastgestelde handicap van de aanvrager of zijn inwonende gezinsleden wordt opgevraagd en verwerkt conform artikel 9, lid 2, g), van de algemene verordening gegevensbescherming. De gegevens over een handicap worden opgevraagd en verwerkt om te bepalen of de aanvrager in aanmerking komt voor een specifieke premieverhoging. Alleen het statuut van de persoon kan worden opgevraagd en verwerkt.<br>
+<br>
+Voor de unieke identificatie van de betrokkene, vermeld in paragraaf 3, kan het ondernemingsnummer, het rijksregisternummer of het vreemdelingennummer opgevraagd en verwerkt worden in het kader van de automatische verwerking van de gegevens, vermeld in het eerste lid.<br>
+<br>
+§3. De betrokkenen bij de verwerking van de persoonsgegevens zijn:<br>
+1° de aanvrager;<br>
+2° de personen die met de aanvrager samenwonen.<br>
+<br>
+§4. Er wordt een beroep gedaan op de Vlaamse Dienstenintegrator en de Kruispuntbank van de Sociale Zekerheid om over de persoonsgegevens, vermeld in paragraaf 1, tweede lid, te beschikken. Alleen de personeelsleden van de verwerkingsverantwoordelijke, vermeld in paragraaf 1, eerste lid, die belast zijn met de beoordeling van de aanvragen van een tegemoetkoming, kunnen de gegevens, vermeld in paragraaf 1, tweede lid, opvragen en verwerken. De voormelde verwerkingsverantwoordelijke houdt een lijst van de personeelsleden ter beschikking en zorgt ervoor dat de aangewezen personen door een wettelijke of statutaire verplichting, of door een evenwaardige contractuele bepaling ertoe gehouden zijn het vertrouwelijke karakter van de gegevens in kwestie in acht te nemen.<br>
+<br>
+Bij de verwerking van de persoonsgegevens van de betrokkenen, vermeld in paragraaf 3, worden passende technische en organisatorische maatregelen gehandhaafd zodat de verwerking voldoet aan de vereisten, vermeld in de algemene verordening gegevensbescherming, en zodat de bescherming van de rechten van de voormelde betrokkenen wordt gewaarborgd. Daarbij worden de passende technische en organisatorische maatregelen genomen om een beveiligingsniveau te waarborgen dat afgestemd is op het risico, conform artikel 32 van de algemene verordening gegevensbescherming. De voormelde verwerkingsverantwoordelijke neemt gepaste technische en organisatorische maatregelen tegen onbevoegde of onrechtmatige verwerking en evalueert op regelmatige basis de geschiktheid van die veiligheidsmaatregelen en past ze aan waar nodig.<br>
+&nbsp;<br>
+§5. De verwerkte gegevens worden tot tien jaar na de beslissing tot weigering of tot uitbetaling van de tegemoetkoming bewaard.<br>
+<br>
+§6. De Vlaamse Regering stelt de werkwijze vast die de verwerkingsverantwoordelijke, vermeld in paragraaf 1, eerste lid, toepast om erop toe te zien dat de opgevraagde en verwerkte persoonsgegevens juist zijn en geactualiseerd worden.
+
 ## Deel 6. Recht van voorkoop
 
 ### ART 5.76.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§1. De initiatiefnemer die met toepassing van artikel 3.30, §2, of artikel 5.85, §1, tweede lid, renovatie-, verbeterings- of aanpassingswerkzaamheden uitgevoerd heeft aan een woning, beschikt over een recht van voorkoop op die woning gedurende de duur van de renovatieovereenkomst of het sociaal beheersrecht.</span></span></span><br>
+<p>§1. De woonmaatschappijen, Vlabinvest apb en gemeenten hebben binnen hun werkingsgebied een recht van voorkoop op categorieën van percelen en gebouwen die in zones bestemd voor wonen liggen, die de gemeente afbakent via een gemeenteraadsbesluit.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Onverminderd het eerste lid, krijgen het VWF, Vlabinvest apb, de woonmaatschappijen binnen hun werkgebied, en de gemeenten op hun grondgebied, een recht van voorkoop op:</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">1° een woning die opgenomen is in het leegstandsregister, vermeld in boek 2, deel 2, titel 3, in het register van verwaarloosde gebouwen en woningen, vermeld in artikel 2.15, of in de inventaris;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">2° de woning, bedoeld in artikel 3.31, die niet werd gesloopt binnen de door de Vlaamse Regering bepaalde termijn;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">3° een perceel, bestemd voor woningbouw, dat gelegen is in een door de Vlaamse Regering te bepalen bijzonder gebied.</span></span></span><br>
+De Vlaamse Regering kan nadere regels bepalen over de wijze waarop de zones afgebakend worden en de afbakening bekendgemaakt wordt.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Het voorkooprecht geldt niet als een woonmaatschappij verkoopt of als in uitvoering van het gemeentelijk actieprogramma, vermeld in artikel 2.6, een grond wordt verkocht met het oog op de verwezenlijking van een sociaal woonaanbod. Bij verkoop door een titularis van het voorkooprecht hebben alleen de conform artikel 5.80, eerste lid, hoger in rangorde staande titularissen van het voorkooprecht een voorkooprecht.</span></span></span><br>
+§2. Het perceel of het gebouw dat is verworven door de uitoefening van het recht van voorkoop conform paragraaf 1, wordt, eventueel na werkzaamheden, aangewend met het oog op een verruiming of voor de ondersteuning van het woonaanbod in eigendom of het beheer van de woonmaatschappijen.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§2. Van het recht van voorkoop zijn uitgesloten:</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">1° de woningen die deel uitmaken van een gebouw met meerdere woningen, waarbij de verkoop mede-eigendom over gemeenschappelijke delen doet ontstaan;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">2° afzonderlijke garages en staanplaatsen voor fietsen en motorrijtuigen;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">3° afzonderlijke loten van een goedgekeurde verkaveling die niet in zijn geheel wordt verkocht;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">4° de aankoop van een woning of een perceel bestemd voor woningbouw door een of meer natuurlijke personen, op voorwaarde dat deze verkrijgers geen andere woning of ander perceel bestemd voor woningbouw volledig in volle eigendom of volledig in vruchtgebruik hebben, op de dag van het sluiten van de overeenkomst tot koop.</span></span></span><br>
+De Vlaamse Regering kan nadere regels bepalen voor de bestemming van de woning of het perceel, vermeld in paragraaf 1.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">De Vlaamse Regering kan uitzonderingen vaststellen op de in het eerste lid bepaalde uitsluitingen van het recht van voorkoop.&nbsp;</span></p>
+§3. Van het recht van voorkoop zijn uitgesloten:<br>
+1° de woningen die deel uitmaken van een gebouw met meerdere woningen, waarbij de verkoop mede-eigendom doet ontstaan;<br>
+2° afzonderlijke loten van een goedgekeurde verkaveling die niet in zijn geheel wordt verkocht;<br>
+3° &nbsp; afzonderlijke garages en staanplaatsen voor fietsen en motorvoertuigen;<br>
+4° de aankoop van een perceel of een gebouw dat door een of meer natuurlijke personen bestemd zal worden als enige en eigen woning, op voorwaarde dat al die verkrijgers samen geen andere woning of ander perceel, bestemd voor woningbouw, volledig in eigendom of volledig in vruchtgebruik hebben op de dag waarop de overeenkomst tot koop wordt gesloten;<br>
+5° de woningen die verkocht worden door de woonmaatschappijen;<br>
+6° de gronden die ter uitvoering van het gemeentelijk actieprogramma, vermeld in artikel 2.6, tweede lid, verkocht worden met het oog op de verwezenlijking van een sociaal woonaanbod.<br>
+&nbsp;</p>
 
 ### ART 5.77.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De bepalingen van titel IV, hoofdstukken I, II en VI, van het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen zijn van toepassing op dit recht van voorkoop. </span></span></span></span></p>
+<p>De bepalingen van titel IV, hoofdstuk I, II en VI, van het decreet van 16 juni 2006 betreffende het oprichten van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen en het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten zijn van toepassing op het recht van voorkoop, vermeld in artikel 5.76.</p>
 
 ### ART 5.78.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">In de gemeenten waarin het aandeel sociale huurwoningen ten opzichte van het aantal huishoudens in de nulmeting op het vlak van het bestaande sociaal woonaanbod, vastgesteld bij of krachtens het decreet grond- en pandenbeleid of deze codex, ten minste 9% bedraagt, kunnen&nbsp;de woonmaatschappijen, het VWF en Vlabinvest apb het recht van voorkoop, vermeld in artikel 5.76, §1, tweede lid, slechts uitoefenen na een positief advies van het college van burgemeester en schepenen van de gemeente waarin de woning of het perceel waarop het recht van voorkoop van toepassing, gelegen is. Het advies vanwege het college van burgemeester en schepenen moet gemotiveerd zijn en minstens de redenen aangeven volgens dewelke het betrokken project voor sociaal wonen geen meerwaarde zou opleveren.</span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De Vlaamse Regering stelt de lijst van de gemeenten, vermeld in het eerste lid, vast bij elke voortgangstoets over de implementatie van het bindend sociaal objectief, vermeld in artikel 2.23, §2, eerste lid.</span></span></span><br>
-<br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">De woonmaatschappijen, het VWF en Vlabinvest apb vragen het in het eerste lid vermelde advies binnen twintig dagen nadat ze in kennis werden gesteld van de geplande verkoop. Wanneer het advies negatief is, zien de woonmaatschappijen, het VWF of Vlabinvest apb af van het recht van voorkoop. Wordt geen advies gegeven binnen een termijn van twintig dagen, dan wordt het advies geacht gunstig te zijn.&nbsp;</span></p>
+<p>Als twee of meer begunstigden hun recht van voorkoop uitoefenen, wordt het goed in de hierna vermelde volgorde toegewezen:<br>
+1° de woonmaatschappij;<br>
+2° Vlabinvest apb;<br>
+3° de gemeente.</p>
 
 ### ART 5.79.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten is van toepassing op dit recht van voorkoop. </span></span></span></span></p>
+<p>...</p>
 
 ### ART 5.80.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Willen twee of meer begunstigden hun recht van voorkoop uitoefenen dan wordt het goed in de hierna vermelde volgorde toegewezen:</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">1° de woonmaatschappij;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">2° de VMSW;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">3° Vlabinvest apb;&nbsp; </span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">4° de gemeente;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">5° het VWF;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">6° ...</span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Wanneer het goed gelegen is in het werkgebied van meerdere woonmaatschappijen bepaalt de Vlaamse Regering volgens de regels die zij vaststelt, in welke volgorde die woonmaatschappijen hun recht van voorkoop kunnen uitoefenen. Deze volgorde wordt hen door het e-voorkooploket, bedoeld in artikel 2, 7°, van het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten meegedeeld samen met het aanbod of melding van openbare verkoop. </span></span></span></p>
+<p>...</p>
 
 ### ART 5.81.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Wanneer een begunstigde van een recht op voorkoop, bedoeld in artikel 5.76, §1, eerste lid, gebruik maakt van dit recht, wordt de verkoopprijs, verminderd met een bedrag dat gelijk is aan het resultaat van de volgende formule:</span></span></span></span></p>
-
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-family:Verdana,sans-serif; font-size:10pt">sb - (a x sb/27), waarbij sb staat voor het subsidiabele bedrag van de kosten voor de renovatie-, verbeterings- of aan-passingswerken, en a voor het aantal volledige jaren gedurende de welke de begunstigde van het recht op voorkoop de beschikking had over de woning.</span></p>
+<p>...</p>
 
 ## Deel 7. Sociaal beheer van woningen
 
@@ -3297,7 +3442,7 @@ Voor de verwerkingen van persoonsgegevens in het kader van het gebruik en het be
 
 § 1. Voor de toepassing van dit deel worden persoonsgegevens verwerkt met als doel na te gaan of voldaan is aan de voorwaarden uit dit deel en die de Vlaamse Regering vaststelt conform artikel 5.91.<br>
 <br>
-§ 2. De dienst die door de Vlaamse Regering belast is met het woonbeleid en de woonmaatschappij zijn verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
+§ 2. De dienst die door de Vlaamse Regering belast is met het woonbeleid en de woonmaatschappij zijn verwerkingsverantwoordelijke.<br>
 <br>
 § 3. Met toepassing van paragraaf 1 kunnen de volgende categorieën van persoonsgegevens worden verwerkt:<br>
 1° identificatiegegevens;<br>
@@ -3501,7 +3646,7 @@ De Vlaamse Regering kan aanvullende entiteiten aanduiden waaraan persoonsgegeven
 1° na te gaan of voldaan is aan de voorwaarden en de verplichtingen die de Vlaamse Regering vaststelt conform artikel 5.106, § 1;<br>
 2° de juridische afwikkeling van de huurovereenkomst verzekeren.<br>
 <br>
-§ 2. De woonmaatschappij is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
+§ 2. De woonmaatschappij is de verwerkingsverantwoordelijke.<br>
 <br>
 § 3. Met toepassing van paragraaf 1 kunnen de volgende categorieën van persoonsgegevens worden verwerkt:<br>
 1° identificatiegegevens;<br>
@@ -3579,16 +3724,17 @@ en doorgifte, opgevraagd worden bij die gegevensbronnen. De dienst die door de V
 
 ### ART 6.1.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">In dit deel en de besluiten die genomen worden ter uitvoering ervan, wordt verstaan onder:</span></span></span><br>
+<p>In dit boek en de besluiten die genomen worden ter uitvoering ervan, wordt verstaan onder:<br>
 1° huurder:<br>
-a) de persoon die zich vóór de toewijzing had opgegeven als referentiehuurder;<br>
-b) de persoon die met de referentiehuurder gehuwd is en die in de sociale huurwoning woont, of die met de referentiehuurder wettelijk samenwoont;<br>
-c) de feitelijke partner van de referentiehuurder bij de aanvang van de huurovereenkomst, die in de sociale huurwoning woont of die na de aanvang van de huurovereenkomst in de sociale huurwoning is gaan bijwonen en die overeenkomstig artikel 6.11, vierde lid, van rechtswege huurder wordt;<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">2° rationele bezetting: de passende bezetting van een woning, waarbij de verhuurder rekening houdt&nbsp;met het aantal personen die de sociale huurwoning op duurzame wijze bewonen of gaan bewonen en de fysieke toestand van die personen;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">2° /1 VDAB: de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, opgericht bij het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding";<br>
+a) de persoon of de personen die bij aanvang van de huurovereenkomst als huurder worden vermeld in de huurovereenkomst;<br>
+b) de persoon die met toepassing van artikel 6.11, derde of vierde lid, van rechtswege huurder wordt;<br>
+1° /1 kandidaat-huurder: de persoon of de personen die ingeschreven zijn in het centraal inschrijvingsregister, vermeld in artikel 6.5, en die de huurovereenkomst zullen ondertekenen als huurder;<br>
+1° /2 potentiële kandidaat-huurder: de persoon of de personen die zich willen inschrijven in het centraal inschrijvingsregister, vermeld in artikel 6.5;<br>
+2° rationele bezetting: de passende bezetting van een woning, waarbij de verhuurder rekening houdt&nbsp;met het aantal personen die de sociale huurwoning op duurzame wijze bewonen of gaan bewonen en de fysieke toestand van die personen;<br>
+2° /1 VDAB: de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, opgericht bij het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding";<br>
 3° welzijns- of gezondheidsvoorziening: een voorziening die werkzaam is in het kader van de aangelegenheden die vallen onder het beleidsdomein Welzijn, Volksgezondheid en Gezin. Een OCMW wordt gelijkgesteld met een welzijns- of gezondheidsvoorziening.<br>
 <br>
-De Vlaamse Regering kan in de gevallen die ze bepaalt, afwijken van de vereiste van duurzame bewoning voor de rationele bezetting, vermeld in het eerste lid, 2°.&nbsp;</span></span></span></p>
+De Vlaamse Regering kan in de gevallen die ze bepaalt, afwijken van de vereiste van duurzame bewoning voor de rationele bezetting, vermeld in het eerste lid, 2°.&nbsp;</p>
 
 ### ART 6.2.
 
@@ -3607,15 +3753,17 @@ De Vlaamse Regering kan in de gevallen die ze bepaalt, afwijken van de vereiste 
 § 1. Voor de toepassing van dit boek worden persoonsgegevens verwerkt voor de volgende doeleinden:<br>
 1° nagaan of voldaan is aan de voorwaarden en verplichtingen van dit boek en die de Vlaamse Regering vaststelt conform dit boek;<br>
 2° de juridische afwikkeling van de huurovereenkomst verzekeren;<br>
-3° de uitoefening van het toezicht, vermeld in deel 12, mogelijk maken.<br>
+3° de uitoefening van het toezicht, vermeld in deel 12, mogelijk maken;<br>
+4° het bijhouden van het centraal woningregister, vermeld in artikel 6.4.<br>
 <br>
-§ 2. De verwerkingsverantwoordelijken, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, zijn:<br>
+§ 2. De verwerkingsverantwoordelijken zijn:<br>
 1° de verhuurder, voor wat betreft de verwerkingen die hij voor zijn rekening neemt;<br>
 2° voor het centraal inschrijvingsregister de entiteit die conform artikel 6.5, eerste lid, van dit boek, wordt aangewezen om het centraal inschrijvingsregister bij te houden;<br>
-3° de toezichthouder, vermeld in artikel 4.79 van deze codex, voor wat betreft de verwerkingen in het kader van zijn toezichtsbevoegdheid.<br>
+3° de toezichthouder, vermeld in artikel 4.79 van deze codex, voor wat betreft de verwerkingen in het kader van zijn toezichtsbevoegdheid;<br>
+4° voor het centraal woningregister de entiteit die conform artikel 6.4 van deze codex wordt aangewezen om het centraal woningregister bij te houden.<br>
 <br>
 § 3. Met toepassing van paragraaf 1 kunnen de volgende categorieën van persoonsgegevens worden verwerkt:<br>
-1° identificatiegegevens;<br>
+1° identificatiegegevens, waaronder contactgegevens;<br>
 2° het rijksregisternummer en de identificatienummers van de sociale zekerheid;<br>
 3° [... (vernietigd arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)];<br>
 4° gezinssamenstelling;<br>
@@ -3629,7 +3777,7 @@ De Vlaamse Regering kan in de gevallen die ze bepaalt, afwijken van de vereiste 
 12° [... (vernietigd arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)];<br>
 13° [... (vernietigd arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)];<br>
 14° [... (vernietigd arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)];<br>
-15° [... (vernietigd arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)].<br>
+15° [... (vernietigd arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)];<br>
 16° verbruiksgegevens.<br>
 <br>
 [... (vernietigd arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)].<br>
@@ -3660,9 +3808,9 @@ De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 3°, past op de persoon
 <br>
 [... (vernietigd arrest 2023/92 van het Grondwettelijk Hof van 15 juni 2023)].<br>
 <br>
-§ 7. De verwerkingsverantwoordelijken, vermeld in paragraaf 2, 1° en 2°, verduidelijken in een privacyverklaring welke verwerkingen er gebeuren. Zij nemen met het oog op transparantie en de garantie van de rechten van betrokkenen in hun communicatie met de betrokkenen een verwijzing op naar de vindplaats van hun respectieve privacyverklaring.<br>
+§ 7. De verwerkingsverantwoordelijken, vermeld in paragraaf 2, 1°, 2° en 4°, verduidelijken in een privacyverklaring welke verwerkingen er gebeuren. Zij nemen met het oog op transparantie en de garantie van de rechten van betrokkenen in hun communicatie met de betrokkenen een verwijzing op naar de vindplaats van hun respectieve privacyverklaring.<br>
 <br>
-§ 8. De dienst die door de Vlaamse Regering belast is met het woonbeleid coördineert de elektronische gegevensstromen en elektronische informatie-uitwisseling tussen de diverse actoren, vermeld in dit boek. Alle elektronische gegevens mogen in dat kader via de dienst die door de Vlaamse Regering belast is met het woonbeleid uitgewisseld worden. De dienst die door de Vlaamse Regering belast is met het woonbeleid mag de gegevens ook gebruiken voor statistische verwerking en mag ze ter beschikking stellen van de andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking. De dienst die door de Vlaamse Regering belast is met het woonbeleid kan de persoonsgegevens verder verwerken voor doeleinden, vermeld in artikel 1.5, die verenigbaar zijn met de oorspronkelijke doeleinden.<br>
+§ 8. De dienst die door de Vlaamse Regering belast is met het woonbeleid, coördineert de elektronische gegevensstromen en elektronische informatie-uitwisseling tussen de diverse actoren, vermeld in dit boek. Alle elektronische gegevens mogen in dat kader via de dienst die door de Vlaamse Regering belast is met het woonbeleid, uitgewisseld worden en kunnen door die dienst, die in dat geval verwerkingsverantwoordelijke is voor de opvraging en doorgifte, opgevraagd worden bij de gegevensbronnen. De dienst die door de Vlaamse Regering belast is met het woonbeleid, mag de gegevens ook gebruiken voor statistische verwerking en mag ze ter beschikking stellen van de andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking. De dienst die door de Vlaamse Regering belast is met het woonbeleid, kan de persoonsgegevens verder verwerken voor doeleinden, vermeld in artikel 1.5, die verenigbaar zijn met de oorspronkelijke doeleinden.<br>
 <br>
 § 9. De verwerkingsverantwoordelijken, vermeld in paragraaf 2, 1° en 2°, nemen de nodige maatregelen om de juistheid van de persoonsgegevens, vermeld in paragraaf 3, te garanderen.
 
