@@ -288,7 +288,7 @@ Als de verhuurder binnen de termijn, vermeld in het tweede lid, geen opzegging h
 <br>
 Als de verhuurder de huurovereenkomst bij het verstrijken van de derde driejarige periode of van een volgende driejarige periode beëindigt met toepassing van artikel 19, § 1, is de vergoeding gelijk aan drie maanden huur.<br>
 <br>
-§ 2. Wanneer de huurovereenkomst wordt gesloten tussen enerzijds een private verhuurder en anderzijds een sociaal verhuurkantoor dat overeenkomstig artikel 4.54 van de Vlaamse Codex Wonen van 2021 erkend is als huurdienst of de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 4.7 van de Vlaamse Codex Wonen van 2021, en de huurovereenkomst wordt gesloten voor een duurtijd gelijk aan of langer dan vijftien jaar, kunnen de partijen overeenkomen om de mogelijkheid van vroegtijdige beëindiging, vermeld in artikel 20, § 1, uit te sluiten of te beperken.
+§ 2. Wanneer de huurovereenkomst wordt gesloten tussen enerzijds een private verhuurder en anderzijds een woonmaatschappij die erkend is conform artikel 4.36 van de Vlaamse Codex Wonen van 2021 of artikel 206 van het decreet van 9 juli 2021 houdende wijziging van diverse decreten met betrekking tot wonen of de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 4.7 van de Vlaamse Codex Wonen van 2021, en de huurovereenkomst wordt gesloten voor een duurtijd gelijk aan of langer dan vijftien jaar, kunnen de partijen overeenkomen om de mogelijkheid van vroegtijdige beëindiging, vermeld in artikel 20, § 1, uit te sluiten of te beperken.
 
 ### ART 23.
 
@@ -328,7 +328,9 @@ De huurder is verantwoordelijk voor de kleine herstellingen. Daarnaast moet de h
 <br>
 De Vlaamse Regering stelt een lijst vast van kleine herstellingen, die in elk geval als kleine herstellingen moeten worden beschouwd.<br>
 <br>
-De partijen kunnen overeenkomen om de herstellingsplicht van de huurder, vermeld in het eerste lid, te beperken of uit te sluiten.
+De partijen kunnen overeenkomen om de herstellingsplicht van de huurder, vermeld in het eerste lid, te beperken of uit te sluiten.<br>
+<br>
+Bij huurovereenkomsten gesloten tussen enerzijds een private verhuurder en anderzijds een woonmaatschappij die erkend is conform artikel 4.36 van de Vlaamse Codex Wonen van 2021 of artikel 206 van het decreet van 9 juli 2021 houdende wijziging van diverse decreten met betrekking tot wonen, kunnen de partijen schriftelijk overeenkomen dat de woonmaatschappij zich ertoe verbindt herstellingen uit te voeren die conform artikel 25 ten laste van de verhuurder zijn en dat de verhuurder zich ertoe verbindt de kosten van die herstellingen te dragen.
 
 ### ART 27.
 
