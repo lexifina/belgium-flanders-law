@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038354,
+  "title": "Ministerieel besluit van 2023-06-01 tot vaststelling van de inventaris bouwkundig erfgoed in de provincie Oost-Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038354/VolledigDocument?datum=2023-06-20",
+  "source_sha256": "85d8e862ffbc8dca0b794ef44e229b33f8d898382bbcd8c735d9a09603e1c356",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038354&param=informatie",
+  "as_of": "2023-06-20",
+  "made": "2023-06-01",
+  "gazette": "2023-06-14",
+  "numac": 2023020058,
+  "document_start": "2023-06-20",
+  "document_end": null,
+  "in_force": "2023-06-20",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2023-06-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
