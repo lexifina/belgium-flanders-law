@@ -2,16 +2,16 @@
   "codex_id": 1031788,
   "title": "Ministerieel besluit van 2019-05-24 betreffende de aanwijzing van personeelsleden belast met de opsporing en de vaststelling van de overtredingen van [de Vlaamse Codex Dierenwelzijn van 17 mei 2024], van de uitvoeringsbesluiten ervan en van de Europese verordeningen, beschikkingen en besluiten ter zake",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031788/VolledigDocument?datum=2022-05-03",
-  "source_sha256": "44c1dfbf3c71c3a5df6f6e71a50a70dd7fd8ff5ff685156ce70a85a584e4ca31",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031788/VolledigDocument?datum=2023-06-21",
+  "source_sha256": "d370c2d6cd35b726367950b61355973d1fe581d8512eaac217e4cb0d5ae988ab",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031788&param=informatie",
-  "as_of": "2022-05-03",
+  "as_of": "2023-06-21",
   "made": "2019-05-24",
   "gazette": "2019-06-14",
   "numac": 2019013016,
   "document_start": "2019-01-15",
   "document_end": null,
-  "in_force": "2022-05-03",
+  "in_force": "2023-06-21",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2022-05-03; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-21; future article versions excluded; article text as the API gives it"
 }

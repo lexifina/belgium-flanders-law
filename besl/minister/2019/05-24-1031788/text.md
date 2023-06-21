@@ -55,10 +55,19 @@ De volgende statutaire en contractuele personeelsleden van de subentiteit bevoeg
 33° Heleen Willems;<br>
 34° Bente Stockmans;<br>
 35° Karla De Coster;<br>
-36° Nele De Waele;<br>
-37° Dorine Dooms;<br>
-38° Ingrid Laenen;<br>
-40° Romina Paret.
+36° Zoë Everaert;<br>
+37° Stijn Boonen;<br>
+38° Kato Frederix;<br>
+40° Romina Paret.<br>
+41° Elke De Filette;<br>
+42° Karlien De Paepe;<br>
+43° Kelly Beckers;<br>
+44° Cindy Magherman;<br>
+45° Ester Peeters;<br>
+46° Eric Van Tilburgh;<br>
+47° Els Vanautryve;<br>
+48° Feline Geukens;<br>
+49° Greta De Maesschalck.
 
 ### ART 2.
 
