@@ -34,6 +34,14 @@ De personeelsleden van de VMSW die overgedragen worden aan de dienst die door de
 
 ## HOOFDSTUK 3. Overdracht van de bijzondere sociale leningen van de VMSW aan het VWF
 
+### ART 6.
+
+De bijzondere sociale leningen van de VMSW, met inbegrip van de bijbehorende dossiers en archieven in materiële of digitale vorm, worden met behoud van de bijbehorende rechten en verplichtingen overgedragen aan het VWF.<br>
+<br>
+Met behoud van de toepassing van artikel III.18 van het Bestuursdecreet is het Vlaamse Gewest gemachtigd om in het kader van de overdracht, vermeld in het eerste lid, deel te nemen in het VWF.<br>
+<br>
+Het VWF wordt de rechtsopvolger van de VMSW voor de bijzondere sociale leningen die overeenkomstig het eerste lid worden overgedragen. Het VWF treedt vanaf de overdracht in de rechten en verplichtingen van de VMSW voor de overgedragen bijzondere sociale leningen.
+
 ## HOOFDSTUK 4. Ontbinding van het Garantiefonds voor Huisvesting
 
 ### ART 7.
