@@ -2,16 +2,16 @@
   "codex_id": 1037621,
   "title": "Besluit van de Vlaamse Regering van 2022-07-15 tot vaststelling van de verhouding van de stemrechten tussen de gemeenten en OCMW'S die in het werkingsgebied voor woonmaatschappijen \"Vlaamse Ardennen-Oost\" liggen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037621/VolledigDocument?datum=2022-12-01",
-  "source_sha256": "9e06706c6d72bb5f8f75baab12e5853b458ce4306e1ce1d2c8d54eadeec89fdf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037621/VolledigDocument?datum=2023-06-23",
+  "source_sha256": "c12532d358e4b59bb6a9df1feb2d83ab4394eb0ff7156a780d1cfd2bd097d8ff",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037621&param=informatie",
-  "as_of": "2022-12-01",
+  "as_of": "2023-06-23",
   "made": "2022-07-15",
   "gazette": "2022-11-21",
   "numac": 2022041818,
   "document_start": "2022-12-01",
   "document_end": "2023-06-22",
-  "in_force": "2022-12-01",
+  "in_force": "2023-06-23",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2022-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-23; future article versions excluded; article text as the API gives it"
 }

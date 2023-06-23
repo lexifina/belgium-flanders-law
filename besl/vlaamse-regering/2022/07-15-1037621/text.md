@@ -30,19 +30,12 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Voor de woonmaatschappij die erkend is voor het werkingsgebied Vlaamse Ardennen-Oost, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW's die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
-1°gemeente Herzele: 25%<br>
-2° gemeente Oosterzele: 12,50%<br>
-3° gemeente Sint-Lievens-Houtem: 12,50%<br>
-4° gemeente Zottegem: 37,50%<br>
-5° gemeente Zwalm: 12,50%<br>
-<br>
-Als een gemeente of een OCMW als vermeld in het eerste lid, geen aandeelhouder is van de woonmaatschappij, vermeld in het eerste lid, wordt het percentage dat aan die gemeente of OCMW is toegekend, proportioneel over de andere gemeenten en OCMW's verdeeld. De voormelde proportionele herverdeling gebeurt in verhouding tot de percentages, vermeld in het eerste lid.
+...
 
 ### ART 2.
 
-Conform artikel 4.102/2, § 2, tweede lid, van het Besluit Vlaamse Codex Wonen van 2021 kan de Vlaamse minister, bevoegd voor het woonbeleid, de verhouding, vermeld in artikel 1, wijzigen.
+...
 
 ### ART 3.
 
-De Vlaamse minister, bevoegd voor het woonbeleid, is belast met de uitvoering van dit besluit.
+...
