@@ -31,8 +31,8 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-De gemeenten Brakel, Horebeke, Kluisbergen, Kruisem, Lierde, Maarkedal, Oudenaarde, Ronse en Wortegem-Petegem vormen het werkingsgebied Vlaamse Ardennen-West.
+...
 
 ### ART 2.
 
-De Vlaamse minister, bevoegd voor het woonbeleid, is belast met de uitvoering van dit besluit.
+...
