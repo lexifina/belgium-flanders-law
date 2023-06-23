@@ -35,7 +35,8 @@ Hij draagt de titel "minister-president van de Vlaamse Regering".<br>
 2° het beleidsveld Cultuur, vermeld in artikel 9, van het organisatiebesluit;<br>
 3° het beleidsveld Rampenschade, vermeld in artikel 3 van het organisatiebesluit;<br>
 4° het beleidsveld Digitalisering, vermeld in artikel 3 van het organisatiebesluit;<br>
-5° het facilitair management, het vastgoed,&nbsp;het documentbeheer en de overheidsopdrachten, vermeld in artikel 3 van het organisatiebesluit.<br>
+5° het facilitair management, het vastgoed,&nbsp;het documentbeheer en de overheidsopdrachten, vermeld in artikel 3 van het organisatiebesluit;<br>
+6° In afwijking van artikel 6, §1, 2° en artikel 6, §2, 13° is de minister-president van de Vlaamse Regering bevoegd voor het bestuur van en het toezicht op de cel EventFlanders binnen Toerisme Vlaanderen, voor wat betreft het project 'Flanders Technology and Innovation'.<br>
 <br>
 Hij draagt de titel "Vlaams minister van Buitenlandse Zaken, Cultuur, Digitalisering en Facilitair Management".<br>
 <br>
