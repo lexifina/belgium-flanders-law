@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038523,
+  "title": "Besluit van de Vlaamse Regering van 2023-06-23 tot wijziging van het besluit van de Vlaamse Regering van 2 oktober 2019 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038523/VolledigDocument?datum=2023-06-23",
+  "source_sha256": "223d9bbc012cbed3ad276c953a02445ed2f683d50c723f1ee8d4ae14e511e3c3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038523&param=informatie",
+  "as_of": "2023-06-23",
+  "made": "2023-06-23",
+  "gazette": "2023-07-05",
+  "numac": 2023043326,
+  "document_start": "2023-06-23",
+  "document_end": null,
+  "in_force": "2023-06-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-06-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
