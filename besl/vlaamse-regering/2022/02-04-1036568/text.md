@@ -32,8 +32,8 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-De gemeenten Herzele, Oosterzele, Sint-Lievens-Houtem, Zottegem en Zwalm vormen het werkingsgebied Vlaamse Ardennen-Oost.
+...
 
 ### ART 2.
 
-De Vlaamse minister, bevoegd voor het woonbeleid, is belast met de uitvoering van dit besluit.
+...
