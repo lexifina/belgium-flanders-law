@@ -2,16 +2,16 @@
   "codex_id": 1038401,
   "title": "Ministerieel besluit van 2023-05-24 tot wijziging van het ministerieel besluit van 23 mei 2022 tot vaststelling van de nadere regels en technische vereisten en de hoogten van de premies, trajectbegeleidingen en collectieve renovatieprojecten, vermeld in artikels 6.4.1/1/2, 6.4.1/1/3, 6.4.1/1/5, 6.4.1/5/2, 6.4.1/9, 6.4.1/9/1 en 12.3.29 van het Energiebesluit van 19 november 2010",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038401/VolledigDocument?datum=2023-06-15",
-  "source_sha256": "08485581a9ddf1f87652b24ffdcff6caf7f69103e62556c739a5a16ca910911f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038401/VolledigDocument?datum=2023-06-25",
+  "source_sha256": "c2d94591c3770c49d1483a624cf071824086fdf53d523c09d5fca2a1fb0606eb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038401&param=informatie",
-  "as_of": "2023-06-15",
+  "as_of": "2023-06-25",
   "made": "2023-05-24",
   "gazette": "2023-06-15",
   "numac": 2023042735,
   "document_start": "2023-06-25",
   "document_end": null,
-  "in_force": "2023-06-15",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2023-06-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-06-25",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-06-25; future article versions excluded; article text as the API gives it"
 }

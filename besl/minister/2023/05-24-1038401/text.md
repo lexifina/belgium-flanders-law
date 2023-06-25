@@ -27,3 +27,7 @@ DE VLAAMSE MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME BE
 In artikel 6, vierde lid, van het ministerieel besluit van 23 mei 2022 tot vaststelling van de nadere regels en technische vereisten en de hoogten van de premies, trajectbegeleidingen en collectieve renovatieprojecten, vermeld in artikels 6.4.1/1/2, 6.4.1/1/3, 6.4.1/1/5, 6.4.1/5/2, 6.4.1/9, 6.4.1/9/1 en 12.3.29 van het Energiebesluit van 19 november 2010 worden de volgende wijzigingen aangebracht:<br>
 1° het getal “200” wordt telkens vervangen door het getal “400”;<br>
 2° het getal “2500” wordt vervangen door het getal “3500”.
+
+### ART 2.
+
+Artikel 1 treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.
