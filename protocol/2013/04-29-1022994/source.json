@@ -2,16 +2,16 @@
   "codex_id": 1022994,
   "title": "Protocol van 2013-04-29 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie met het oog op het optimaal elektronisch uitwisselen en delen van informatie en gegevens tussen de actoren bevoegd inzake de gezondheids- en welzijnssector en de bijstand aan personen",
   "type": "Protocol",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022994/VolledigDocument?datum=2013-04-29",
-  "source_sha256": "71b6064b2fb152b4d7b6b4e3b6265a06342ec61e98657aeee503bc6af8cbb766",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022994/VolledigDocument?datum=2023-06-28",
+  "source_sha256": "8d374afa080a55dcba285877d992ea81699e5aa5cc5e9a54b8d9e86f712aea49",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022994&param=informatie",
-  "as_of": "2013-04-29",
+  "as_of": "2023-06-28",
   "made": "2013-04-29",
   "gazette": "2013-06-18",
   "numac": 2013024180,
   "document_start": "2013-04-29",
   "document_end": "2023-06-27",
-  "in_force": "2013-04-29",
+  "in_force": "2023-06-28",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2013-04-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-06-28; future article versions excluded; article text as the API gives it"
 }
