@@ -189,7 +189,7 @@ Die prebasismoederplant is, bij visuele inspectie van de faciliteiten, velden en
 
 ### ART 12.
 
-§ 1. Een prebasismoederplant of prebasismateriaal voldoet aan al de volgende voorwaarden:<br>
+§1. Een prebasismoederplant of prebasismateriaal voldoet aan al de volgende voorwaarden:<br>
 1° bij visuele inspectie van de faciliteiten, velden en partijen vrijzijn van de gereguleerde niet-quarantaineorganismen, vermeld in bijlage 1 en 2, die bij dit besluit zijn gevoegd;<br>
 2° in overeenstemming zijn met de voorschriften voor het geslacht of de soort in kwestie, vermeld in bijlage 4, die bij dit besluit is gevoegd.<br>
 <br>
@@ -199,17 +199,20 @@ Conform de voorschriften voor het geslacht of de soort in kwestie en de categori
 <br>
 Bij twijfel over de aanwezigheid van de gereguleerde niet-quarantaineorganismen, vermeld in bijlage 1, die bij dit besluit is gevoegd, voeren de bevoegde entiteit en, in voorkomend geval, de leverancier bemonstering en toetsing uit van de prebasismoederplant of het prebasismateriaal in kwestie.<br>
 <br>
-§ 2. Voor de bemonstering en toetsing, vermeld in paragraaf 1, worden de protocollen van de EPPO of andere internationaal erkende protocollen toegepast.<br>
+§2. Voor de bemonstering en toetsing, vermeld in paragraaf 1, worden de protocollen van de EPPO of andere internationaal erkende protocollen toegepast.<br>
 <br>
 Als de protocollen, vermeld in het eerste lid, niet bestaan, past de bevoegde entiteit de protocollen in kwestie toe die op gewestelijk niveau zijn vastgesteld. In dat geval stelt de bevoegde entiteit die protocollen op verzoek ter beschikking aan de andere lidstaten en de Commissie.<br>
 <br>
 De bevoegde entiteit en, in voorkomend geval, de leverancier zenden de monsters ter toetsing aan laboratoria die door de bevoegde entiteit officieel zijn erkend.<br>
 <br>
-§ 3. Als er een positief toetsingsresultaat is voor een of meer van de gereguleerde niet-quarantaineorganismen voor het geslacht of de soort in kwestie, vermeld in bijlage 1 en 2, die bij dit besluit zijn gevoegd, verwijdert de leverancier de aangetaste prebasismoederplant of het prebasismateriaal uit de nabijheid van andere prebasismoederplanten en ander prebasismateriaal met toepassing van artikel 5, § 3, of artikel 6, § 3, of neemt de leverancier de passende maatregelen conform bijlage 4, die bij dit besluit is gevoegd.<br>
+§3. Als er een positief toetsingsresultaat is voor een of meer van de gereguleerde niet-quarantaineorganismen voor het geslacht of de soort in kwestie, vermeld in bijlage 1 en 2, die bij dit besluit zijn gevoegd, verwijdert de leverancier de aangetaste prebasismoederplant of het prebasismateriaal uit de nabijheid van andere prebasismoederplanten en ander prebasismateriaal met toepassing van artikel 5, § 3, of artikel 6, § 3, of neemt de leverancier de passende maatregelen conform bijlage 4, die bij dit besluit is gevoegd.<br>
 <br>
-§ 4. De maatregelen om ervoor te zorgen dat de eisen van paragraaf 1 worden nageleefd, zijn opgenomen in bijlage 4 voor het geslacht of de soort in kwestie en de categorie.<br>
+§4. De maatregelen om ervoor te zorgen dat de eisen van paragraaf 1 worden nageleefd, zijn opgenomen in bijlage 4 voor het geslacht of de soort in kwestie en de categorie.<br>
 <br>
-§ 5. Paragraaf 1 is niet van toepassing op prebasismoederplanten en prebasismateriaal tijdens cryobewaring.
+§5. Paragraaf 1 is niet van toepassing op:<br>
+1° prebasismoederplanten en prebasismateriaal tijdens cryobewaring;<br>
+2° prebasismateriaal, als dat materiaal is geproduceerd in gebieden waarvan bekend is of is vastgesteld dat ze vrij zijn van de plaagorganismen in kwestie conform de internationale normen in kwestie voor fytosanitaire maatregelen (Requirements for the establishment of pest free areas. ISPM nr. 4 (1995), Rome, IPPC, FAO 2017).<br>
+&nbsp;
 
 ### ART 13.
 
@@ -295,7 +298,7 @@ In plaats van de onderstam te verwijderen, mag de leverancier passende maatregel
 
 ### ART 18.
 
-§ 1. Een basismoederplant of basismateriaal voldoet aan al de volgende voorwaarden:<br>
+§1. Een basismoederplant of basismateriaal voldoet aan al de volgende voorwaarden:<br>
 1° Bij visuele inspectie van de faciliteiten, velden en partijen vrij zijn van de gereguleerde niet-quarantaineorganismen, vermeld in bijlage 1 en 2, die bij dit besluit zijn gevoegd;<br>
 2° in overeenstemming zijn met de voorschriften voor het geslacht of de soort in kwestie, vermeld in bijlage 4, die bij dit besluit is gevoegd.<br>
 <br>
@@ -305,17 +308,19 @@ Conform de voorschriften voor het geslacht of de soort in kwestie en de categori
 <br>
 Bij twijfel over de aanwezigheid van de gereguleerde niet-quarantaineorganismen, vermeld in bijlage 1, die bij dit besluit is gevoegd, voeren de bevoegde entiteit en, in voorkomend geval, de leverancier bemonstering en toetsing uit van de basismoederplant of het basismateriaal in kwestie.<br>
 <br>
-§ 2. Voor de bemonstering en toetsing, vermeld in in paragraaf 1, worden de protocollen van de EPPO of andere internationaal erkende protocollen toegepast.<br>
+§2. Voor de bemonstering en toetsing, vermeld in in paragraaf 1, worden de protocollen van de EPPO of andere internationaal erkende protocollen toegepast.<br>
 <br>
 Als de protocollen, vermeld in het eerste lid, niet bestaan, past de bevoegde entiteit de protocollen in kwestie toe die op gewestelijk niveau zijn vastgesteld. In dat geval stelt de bevoegde entiteit die protocollen op verzoek ter beschikking aan de andere lidstaten en de Commissie.<br>
 <br>
 De bevoegde entiteit en, in voorkomend geval, de leverancier zenden monsters ter toetsing aan laboratoria die door de bevoegde entiteit officieel zijn erkend.<br>
 <br>
-§ 3. Als er een positief toetsingsresultaat is voor een of meer van de gereguleerde niet-quarantaineorganismen voor het geslacht of de soort in kwestie, vermeld in bijlage 1 en 2, die bij dit besluit zijn gevoegd, verwijdert de leverancier de aangetaste basismoederplant of het basismateriaal uit de nabijheid van andere basismoederplanten en ander basismateriaal met toepassing van artikel 17, § 7, of artikel 17, § 8, of neemt de leverancier passende maatregelen conform bijlage 4, die bij dit besluit is gevoegd.<br>
+§3. Als er een positief toetsingsresultaat is voor een of meer van de gereguleerde niet-quarantaineorganismen voor het geslacht of de soort in kwestie, vermeld in bijlage 1 en 2, die bij dit besluit zijn gevoegd, verwijdert de leverancier de aangetaste basismoederplant of het basismateriaal uit de nabijheid van andere basismoederplanten en ander basismateriaal met toepassing van artikel 17, § 7, of artikel 17, § 8, of neemt de leverancier passende maatregelen conform bijlage 4, die bij dit besluit is gevoegd.<br>
 <br>
-§ 4. De maatregelen om ervoor te zorgen dat de eisen van paragraaf 1 worden nageleefd, zijn opgenomen in bijlage 4 voor het geslacht of de soort in kwestie en de categorie.<br>
+§4. De maatregelen om ervoor te zorgen dat de eisen van paragraaf 1 worden nageleefd, zijn opgenomen in bijlage 4 voor het geslacht of de soort in kwestie en de categorie.<br>
 <br>
-§ 5. Paragraaf 1 is niet van toepassing op basismoederplanten en basismateriaal tijdens cryobewaring.
+§5. Paragraaf 1 is niet van toepassing op:<br>
+1° basismoederplanten en basismateriaal tijdens cryobewaring;<br>
+2° basismateriaal, als dat materiaal is geproduceerd in gebieden waarvan bekend is of is vastgesteld dat ze vrij zijn van de plaagorganismen in kwestie conform de internationale normen in kwestie voor fytosanitaire maatregelen (Requirements for the establishment of pest free areas. ISPM nr. 4 (1995), Rome, IPPC, FAO 2017).
 
 ### ART 19.
 
@@ -382,7 +387,7 @@ In plaats van de onderstam te verwijderen, mag de leverancier passende maatregel
 
 ### ART 23.
 
-§ 1. een gecertificeerde moederplant of gecertificeerd materiaal voldoet aan al de volgende voorwaarden:<br>
+§1. een gecertificeerde moederplant of gecertificeerd materiaal voldoet aan al de volgende voorwaarden:<br>
 1° Bij visuele inspectie van de faciliteiten, velden en partijen vrij zijn van de gereguleerde niet-quarantaineorganismen, vermeld in bijlage 1 en 2, die bij dit besluit zijn gevoegd;<br>
 2° in overeenstemming zijn met de de voorschriften voor het geslacht of de soort in kwestie, vermeld in bijlage 4, die bij dit besluit is gevoegd.<br>
 <br>
@@ -392,17 +397,20 @@ Conform de voorschriften voor het geslacht of de soort in kwestie en de categori
 <br>
 Bij twijfel over de aanwezigheid van de gereguleerde niet-quarantaineorganismen, vermeld in bijlage 1, die bij dit besluit is gevoegd, voeren de bevoegde entiteit en, in voorkomend geval, de leverancier bemonstering en toetsing uit van de gecertificeerde moederplant of het gecertificeerd materiaal in kwestie.<br>
 <br>
-§ 2. Voor de bemonstering en toetsing, vermeld in paragraaf 1, worden de protocollen van de EPPO of andere internationaal erkende protocollen toegepast.<br>
+§2. Voor de bemonstering en toetsing, vermeld in paragraaf 1, worden de protocollen van de EPPO of andere internationaal erkende protocollen toegepast.<br>
 <br>
 Als de protocollen, vermeld in het eerste lid, niet bestaan, past de bevoegde entiteit de protocollen in kwestie toe die op gewestelijk niveau zijn vastgesteld. In dat geval stelt de bevoegde entiteit die protocollen op verzoek ter beschikking aan de andere lidstaten en de Commissie.<br>
 <br>
 De bevoegde entiteit en, in voorkomend geval, de leverancier zenden monsters ter toetsing aan laboratoria die door de bevoegde entiteit officieel zijn erkend.<br>
 <br>
-§ 3. Als er een positief toetsingsresultaat is voor een of meer van de gereguleerde niet-quarantaineorganismen voor het geslacht of de soort in kwestie, vermeld in bijlage 1 en 2, die bij dit besluit zijn gevoegd, verwijdert de leverancier de aangetaste gecertificeerde moederplant of het gecertificeerd materiaal uit de nabijheid van andere gecertificeerde moederplanten en ander gecertificeerd materiaal met toepassing van artikel 22, § 7, of artikel 22, § 8, of neemt de leverancier passende maatregelen conform bijlage 4, die bij dit besluit is gevoegd.<br>
+§3. Als er een positief toetsingsresultaat is voor een of meer van de gereguleerde niet-quarantaineorganismen voor het geslacht of de soort in kwestie, vermeld in bijlage 1 en 2, die bij dit besluit zijn gevoegd, verwijdert de leverancier de aangetaste gecertificeerde moederplant of het gecertificeerd materiaal uit de nabijheid van andere gecertificeerde moederplanten en ander gecertificeerd materiaal met toepassing van artikel 22, § 7, of artikel 22, § 8, of neemt de leverancier passende maatregelen conform bijlage 4, die bij dit besluit is gevoegd.<br>
 <br>
-§ 4. De maatregelen om ervoor te zorgen dat de eisen van paragraaf 1 worden nageleefd, zijn opgenomen in bijlage 4 voor het geslacht of de soort in kwestie en de categorie.<br>
+§4. De maatregelen om ervoor te zorgen dat de eisen van paragraaf 1 worden nageleefd, zijn opgenomen in bijlage 4 voor het geslacht of de soort in kwestie en de categorie.<br>
 <br>
-§ 5. Paragraaf 1 is niet van toepassing op gecertificeerde moederplanten en gecertificeerd materiaal tijdens cryobewaring.
+§5. Paragraaf 1 is niet van toepassing op:<br>
+1° gecertificeerde moederplanten en gecertificeerd materiaal tijdens cryobewaring;<br>
+2° gecertificeerd materiaal, als dat materiaal is geproduceerd in gebieden waarvan bekend is of is vastgesteld dat ze vrij zijn van de plaagorganismen in kwestie conform de internationale normen in kwestie voor fytosanitaire maatregelen (Requirements for the establishment of pest free areas. ISPM nr. 4 (1995), Rome, IPPC, FAO 2017).<br>
+&nbsp;
 
 ### ART 24.
 
@@ -469,7 +477,7 @@ De rasechtheid van het CAC-materiaal wordt regelmatig gecontroleerd door de expr
 
 ### ART 28.
 
-§ 1. Bij visuele inspectie van de faciliteiten, velden en partijen tijdens de productiefase stelt de leverancier van CAC-materiaal vast dat het materiaal nagenoeg vrij is van de plaagorganismen voor het geslacht of de soort in kwestie, vermeld in bijlage 1 en 2, die bij dit besluit zijn vermeld, tenzij in bijlage 4, die bij dit besluit is gevoegd, anders is bepaald.<br>
+§1. Bij visuele inspectie van de faciliteiten, velden en partijen tijdens de productiefase stelt de leverancier van CAC-materiaal vast dat het materiaal nagenoeg vrij is van de plaagorganismen voor het geslacht of de soort in kwestie, vermeld in bijlage 1 en 2, die bij dit besluit zijn vermeld, tenzij in bijlage 4, die bij dit besluit is gevoegd, anders is bepaald.<br>
 <br>
 Conform de voorschriften voor het geslacht of de soort in kwestie en de categorie, vermeld in bijlage 4, die bij dit besluit is gevoegd, voert de leverancier van CAC-materiaal bemonstering en toetsing uit van de geïdentificeerde bron van het materiaal of het CAC-materiaal voor de gereguleerde niet-quarantaineorganismen, vermeld in bijlage 2, die bij dit besluit is gevoegd.<br>
 <br>
@@ -479,7 +487,9 @@ CAC-teeltmateriaal en CAC-fruitgewassen in partijen, na de productiefase, worden
 <br>
 De leverancier voert de maatregelen uit om ervoor te zorgen dat de eisen van deze paragraaf worden nageleefd conform de voorschriften voor het geslacht of de soort in kwestie en de categorie, vermeld in bijlage 4, die bij dit besluit is gevoegd.<br>
 <br>
-§ 2. Paragraaf 1 is niet van toepassing op CAC-materiaal tijdens cryobewaring.
+§2. Paragraaf 1 is niet van toepassing op:<br>
+1°&nbsp; CAC-materiaal tijdens cryobewaring;<br>
+2°&nbsp; CAC-materiaal, als dat materiaal is geproduceerd in gebieden waarvan bekend is of is vastgesteld dat ze vrij zijn van de plaagorganismen in kwestie conform de internationale normen in kwestie voor fytosanitaire maatregelen (Requirements for the establishment of pest free areas. ISPM nr. 4 (1995), Rome, IPPC, FAO 2017).
 
 ### ART 29.
 
@@ -536,15 +546,24 @@ Dit besluit treedt in werking op 1 januari 2017.
 
 ### ART 35.
 
-Tot en met 31 december 2022 mogen op het Vlaamse grondgebied het teeltmateriaal en de fruitgewassen die uit prebasis-, basis- en gecertificeerde moederplanten of CAC-materiaal verkregen zijn die vóór 1 januari 2017 bestonden en die vóór 31 december 2022 officieel gecertificeerd zijn of voldoen aan de voorwaarden om als CAC-materiaal te worden aangemerkt, in de handel worden gebracht. Als dat teeltmateriaal en die fruitgewassen in de handel worden gebracht, worden ze geïdentificeerd met een verwijzing naar dit artikel op het etiket en in een document.
+Tot en met 31 december 2029 kunnen de zaden en zaailingen die uit prebasis-, basis- en gecertificeerde moederplanten of CAC-materiaal verkregen zijn die vóór 1 januari 2017 bestonden en die vóór 31 december 2029 officieel gecertificeerd zijn of voldoen aan de voorwaarden om als CAC-materiaal te worden aangemerkt, in de handel worden gebracht. Als dat teeltmateriaal en die fruitgewassen in de handel worden gebracht, worden ze geïdentificeerd met een verwijzing naar dit artikel op het etiket en in een document.
 
 ### BIJLAGE 1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/17_1.pdf#page=72">Bijlage 1</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/17_1.pdf#page=72">Bijlage 1</a><br>
+<br>
+* Bij MB van 2 mei 2023 wordt met ingang van 30 juni 2023 de volgende wijziging aangebracht:<br>
+<br>
+-&nbsp;bij “<em>Fragaria</em> L.”,&nbsp; wordt in de tweede kolom, de vermelding “<em>Candidatus Phytoplasma australiense</em> Davis <em>et al.</em> [PHYPAU]” opgeheven.
 
 ### BIJLAGE 2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/17_1.pdf#page=81">Bijlage 2</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/17_1.pdf#page=81">Bijlage 2</a><br>
+<br>
+* Bij MB van 2 mei 2023 wordt bijlage 2 met ingang van 30 juni 2023 als volgt gewijzigd:<br>
+<br>
+a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; tussen de koppen van de kolommen van de tabel en de vermelding voor “<em>Citrus</em> L., <em>Fortunella Swingle</em> en <em>Poncirus</em> Raf.” wordt de volgende vermelding ingevoegd:“<em>Castanea</em> <em>sativa</em> Mill.” in de eerste kolom en in de tweede kolom de ondertitel “Schimmels en oömyceten” met daaronder “<em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld [PHYTRA]”;<br>
+b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in de vermelding voor “<em>Vaccinium</em> L.” wordt in de tweede kolom vóór de tekst “Virussen, viroïden, virusachtige ziekten en fytoplasma’s” de volgende tekst ingevoegd: “Schimmels en oömyceten” als tussentitel met daaronder “<em>Phytophthora</em> <em>ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld [PHYTRA]”.
 
 ### BIJLAGE 3
 
@@ -552,8 +571,173 @@ Tot en met 31 december 2022 mogen op het Vlaamse grondgebied het teeltmateriaal 
 
 ### BIJLAGE 4
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/17_1.pdf#page=90">Bijlage 4</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/17_1.pdf#page=90">Bijlage 4</a><br>
+<br>
+* Bij MB van 2 mei 2023 wordt bijlage 4 met ingang van 30 juni 2023 als volgt gewijzigd:<br>
+<br>
+1°&nbsp; &nbsp; &nbsp;deel 1 “<em>Castanea sativa</em> Mill.”, punt b) “Prebasiscategorie”, punt c) “Basiscategorie” en punt d) “Gecertificeerde en CAC-categorie” worden vervangen door:<br>
+<br>
+“b) Prebasiscategorie<br>
+<br>
+<em>Voorschriften betreffende productielocaties, productieplaatsen of gebieden</em><br>
+<br>
+Indien krachtens Uitvoeringsbesluit (EU) 2017/925 (**) van de Commissie bij afwijking wordt toegestaan dat prebasismateriaal in het veld onder niet-insectenvrije omstandigheden wordt geproduceerd, zijn de volgende voorschriften van toepassing:<br>
+<br>
+i) <em>Cryphonectria parasitica</em> (Murrill) Barr:<br>
+1) het teeltmateriaal en de fruitgewassen van de prebasiscategorie worden geproduceerd in gebieden die door de bevoegde autoriteit overeenkomstig de desbetreffende internationale normen voor fytosanitaire maatregelen vrij zijn bevonden van <em>Cryphonectria parasitica</em> (Murrill) Barr, of<br>
+2) tijdens de laatste volledige vegetatiecyclus worden op het teeltmateriaal en de fruitgewassen van de prebasiscategorie op de productielocatie geen symptomen van <em>Cryphonectria parasitica</em> (Murrill) Barr waargenomen.<br>
+<br>
+ii) <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld:<br>
+1) het teeltmateriaal en de fruitgewassen van de prebasiscategorie worden geproduceerd in gebieden die door de bevoegde autoriteit overeenkomstig de desbetreffende internationale normen voor fytosanitaire maatregelen vrij zijn bevonden van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; in ’t Veld, of<br>
+2) tijdens de laatste volledige vegetatiecyclus worden op het teeltmateriaal en de fruitgewassen van de prebasiscategorie op de productielocatie geen symptomen van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld waargenomen.<br>
+<br>
+c) Basiscategorie<br>
+<br>
+<em>Voorschriften betreffende productielocaties, productieplaatsen of gebieden</em><br>
+<br>
+i) <em>Cryphonectria parasitica</em> (Murrill) Barr:<br>
+1) het teeltmateriaal en de fruitgewassen van de basiscategorie worden geproduceerd in gebieden die door de bevoegde autoriteit overeenkomstig de desbetreffende internationale normen voor fytosanitaire maatregelen vrij zijn bevonden van <em>Cryphonectria parasitica</em> (Murrill) Barr, of<br>
+2) tijdens de laatste volledige vegetatiecyclus worden op het teeltmateriaal en de fruitgewassen van de basiscategorie op de productielocatie geen symptomen van <em>Cryphonectria parasitica</em> (Murrill) Barr waargenomen.<br>
+<br>
+ii) <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld:<br>
+1) het teeltmateriaal en de fruitgewassen van de basiscategorie worden geproduceerd in gebieden die door de bevoegde autoriteit overeenkomstig de desbetreffende internationale normen voor fytosanitaire maatregelen vrij zijn bevonden van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld, of<br>
+2) tijdens de laatste volledige vegetatiecyclus worden op het teeltmateriaal en de fruitgewassen van de basiscategorie op de productielocatie geen symptomen van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld waargenomen.<br>
+<br>
+d) Gecertificeerde en CAC-categorie<br>
+<br>
+<em>Voorschriften betreffende productielocaties, productieplaatsen of gebieden</em><br>
+<br>
+i) <em>Cryphonectria parasitica</em> (Murrill) Barr:<br>
+1) het teeltmateriaal en de fruitgewassen van de gecertificeerde en de CAC-categorie worden geproduceerd in gebieden die door de bevoegde autoriteit overeenkomstig de desbetreffende internationale normen voor fytosanitaire maatregelen vrij zijn bevonden van <em>Cryphonectria parasitica</em> (Murrill) Barr, of<br>
+2) tijdens de laatste volledige vegetatiecyclus worden op het teeltmateriaal en de fruitgewassen van de gecertificeerde en de CAC-categorie op de productielocatie geen symptomen van <em>Cryphonectria parasitica</em> (Murrill) Barr waargenomen, of<br>
+3) het teeltmateriaal en de fruitgewassen van de gecertificeerde en de CAC-categorie die symptomen van <em>Cryphonectria parasitica</em> (Murrill) Barr vertonen, worden verwijderd, het overblijvende teeltmateriaal en de overblijvende fruitgewassen worden wekelijks geïnspecteerd, en op de productielocatie worden gedurende ten minste drie weken vóór verzending geen symptomen waargenomen.<br>
+<br>
+ii) <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in “t Veld:<br>
+1) het teeltmateriaal en de fruitgewassen van de gecertificeerde en de CAC-categorie worden geproduceerd in gebieden die door de bevoegde autoriteit overeenkomstig de desbetreffende internationale normen voor fytosanitaire maatregelen vrij zijn bevonden van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld, of<br>
+2) tijdens de laatste volledige vegetatiecyclus worden op het teeltmateriaal en de fruitgewassen van de gecertificeerde en de CAC-categorie op de productielocatie geen symptomen van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld waargenomen,<br>
+of<br>
+3) de combinatie van de volgende drie punten:<br>
+3.1) het teeltmateriaal en de fruitgewassen van de gecertificeerde en de CAC-categorie die symptomen vertonen van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld op de productielocatie en alle planten binnen een straal van twee meter rond het teeltmateriaal en de fruitgewassen die symptomen vertonen, worden verwijderd en vernietigd, met inbegrip van de aanhangende grond,<br>
+alsmede<br>
+3.2.) voor alle planten binnen een straal van tien meter rond het teeltmateriaal en de fruitgewassen met symptomen, alsmede het resterende teeltmateriaal en de fruitgewassen van de besmette partij:<br>
+3.2.1.) worden binnen drie maanden na de ontdekking van het teeltmateriaal en de fruitgewassen met symptomen op dat teeltmateriaal en die fruitgewassen bij ten minste twee inspecties op geschikte tijdstippen voor de opsporing van het plaagorganisme geen symptomen van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld waargenomen en worden gedurende die periode van drie maanden geen behandelingen uitgevoerd die symptomen van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld onderdrukken, en<br>
+3.2.2.) worden/wordt na die periode van drie maanden:<br>
+3.2.2.1.) op dat teeltmateriaal en die fruitgewassen op de productielocatie geen symptomen van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld waargenomen, of<br>
+3.2.2.2.) een representatief monster van dat teeltmateriaal en van die te verplaatsen fruitgewassen getest en vrij bevonden van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld,<br>
+alsmede<br>
+3.3) voor alle andere teeltmateriaal en fruitgewassen op de productielocatie:<br>
+3.3.1.) worden op dat teeltmateriaal en die fruitgewassen op de productielocatie geen symptomen van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld waargenomen, of<br>
+3.3.2.) wordt een representatief monster van dat teeltmateriaal en die te verplaatsen fruitgewassen getest en vrij bevonden van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld.<br>
+_______________________________________________________<br>
+(**) Uitvoeringsbesluit (EU) 2017/925 van de Commissie van 29 mei 2017 tot verlening van tijdelijke toestemming aan bepaalde lidstaten voor de certificering van in het veld onder niet-insectenvrije omstandigheden geproduceerd prebasismateriaal van bepaalde soorten fruitgewassen en tot intrekking van Uitvoeringsbesluit (EU) 2017/167 (PB L 140 van 31.5.2017, blz. 7)”;<br>
+<br>
+<br>
+2°&nbsp; &nbsp; in deel” 4. <em>Cydonia oblonga</em> Mill.”, punt b) “Prebasiscategorie”, wordt het deel “Voorschriften betreffende productielocaties, productieplaatsen of gebieden” geschrapt;<br>
+<br>
+3°&nbsp; &nbsp; in deel 6 “<em>Fragaria</em> L.”, punt d) “Gecertificeerde categorie”, “Voorschriften betreffende productielocaties, productieplaatsen of gebieden”, punt iii), het streepje “1 % in het geval van:”, wordt de vermelding “<em>Candidatus</em> <em>Phytoplasma australiense</em> Davis <em>et al</em>.” geschrapt;<br>
+<br>
+4°&nbsp; &nbsp; deel 8 “<em>Malus</em> Mill.” wordt als volgt gewijzigd:<br>
+<br>
+i) aan punt c) “Basiscategorie” wordt het volgende deel toegevoegd:<br>
+<br>
+“<em>Voorschriften betreffende productielocaties, productieplaatsen of gebieden</em><br>
+<br>
+i) <em>Candidatus</em> Phytoplasma mali Seemüller &amp; Schneider<br>
+1) het teeltmateriaal en de fruitgewassen van de basiscategorie worden geproduceerd in gebieden waarvan bekend is dat zij vrij zijn van <em>Candidatus</em> Phytoplasma mali Seemüller &amp; Schneider, of<br>
+2) tijdens het laatste volledige groeiseizoen worden op het teeltmateriaal en de fruitgewassen van de basiscategorie op de productielocatie geen symptomen van <em>Candidatus</em> Phytoplasma mali Seemüller &amp; Schneider waargenomen en eventuele symptomatische planten in de onmiddellijke nabijheid worden verwijderd en onmiddellijk vernietigd;<br>
+<br>
+ii) <em>Erwinia amylovora</em> (Burrill) Winslow et al.<br>
+1) het teeltmateriaal en de fruitgewassen van de basiscategorie worden geproduceerd in gebieden waarvan bekend is dat zij vrij zijn van <em>Erwinia</em> <em>amylovora</em> (Burrill) Winslow et al., of<br>
+2) het teeltmateriaal en de fruitgewassen van de basiscategorie op de productielocatie worden tijdens het laatste volledige groeiseizoen geïnspecteerd, en het teeltmateriaal en de fruitgewassen die symptomen van <em>Erwinia</em> <em>amylovora</em> (Burrill) Winslow et al. vertonen en eventuele omringende waardplanten worden onmiddellijk verwijderd en vernietigd.”;<br>
+<br>
+ii) aan punt d) “gecertificeerde categorie” wordt het volgende deel toegevoegd:<br>
+<br>
+“<em>Voorschriften betreffende productielocaties, productieplaatsen of gebieden</em><br>
+<br>
+i) <em>Candidatus</em> Phytoplasma mali Seemüller &amp; Schneider<br>
+1) het teeltmateriaal en de fruitgewassen van de gecertificeerde categorie worden geproduceerd in gebieden waarvan bekend is dat zij vrij zijn van <em>Candidatus</em> Phytoplasma mali Seemüller &amp; Schneider, of<br>
+2) tijdens het laatste volledige groeiseizoen worden op het teeltmateriaal en de fruitgewassen van de gecertificeerde categorie op de productielocatie geen symptomen van <em>Candidatus</em> Phytoplasma mali Seemüller &amp; Schneider waargenomen en eventuele symptomatische planten in de onmiddellijke nabijheid worden verwijderd en onmiddellijk vernietigd, of<br>
+3) tijdens het laatste volledige groeiseizoen worden op niet meer dan 2 % van het teeltmateriaal en de fruitgewassen van de gecertificeerde categorie op de productielocatie symptomen van <em>Candidatus</em> Phytoplasma mali Seemüller &amp; Schneider waargenomen, dat teeltmateriaal en die fruitgewassen en de eventuele symptomatische planten in de onmiddellijke nabijheid worden verwijderd en onmiddellijk vernietigd, en een representatief monster van het/de resterende symptoomvrij(e) teeltmateriaal en fruitgewassen in de partijen waarin het teeltmateriaal en de fruitgewassen met symptomen zijn aangetroffen, is getoetst en vrij bevonden van <em>Candidatus</em> Phytoplasma mali Seemüller &amp; Schneider;<br>
+<br>
+ii) <em>Erwinia</em> <em>amylovora</em> (Burrill) Winslow et al.<br>
+1) het teeltmateriaal en de fruitgewassen van de gecertificeerde categorie worden geproduceerd in gebieden waarvan bekend is dat zij vrij zijn van <em>Erwinia</em> <em>amylovora</em> (Burrill) Winslow et al., of<br>
+2) het teeltmateriaal en de fruitgewassen van de gecertificeerde categorie op de productielocatie worden tijdens het laatste volledige groeiseizoen geïnspecteerd, en het teeltmateriaal en de fruitgewassen die symptomen van <em>Erwinia amylovora</em> (Burrill) Winslow et al. vertonen en eventuele omringende waardplanten worden onmiddellijk verwijderd en vernietigd.”;<br>
+<br>
+iii) punt e) “Basis- en gecertificeerde categorie” wordt geschrapt;<br>
+<br>
+5°&nbsp; &nbsp; deel 12 “<em>Pyrus</em> L.” wordt als volgt gewijzigd:<br>
+<br>
+i) in punt b) “prebasiscategorie” wordt de tekst onder punt i) “<em>Candidatus</em> Phytoplasma <em>pyri</em> Seemüller &amp; Schneider” van het deel “Voorschriften betreffende productielocaties, productieplaatsen of gebieden” vervangen door het volgende:<br>
+<br>
+“1) het teeltmateriaal en de fruitgewassen van de prebasiscategorie worden geproduceerd in gebieden die door de bevoegde autoriteit overeenkomstig de desbetreffende internationale normen voor fytosanitaire maatregelen vrij zijn bevonden van <em>Candidatus</em> Phytoplasma pyri Seemüller &amp; Schneider, of<br>
+2) tijdens de laatste drie groeiseizoenen worden op het teeltmateriaal en de fruitgewassen van de prebasiscategorie op de productielocatie geen symptomen van <em>Candidatus</em> Phytoplasma pyri Seemüller &amp; Schneider waargenomen en eventuele symptomatische planten in de onmiddellijke nabijheid worden verwijderd en onmiddellijk vernietigd,”;<br>
+<br>
+ii) in punt e) “Basis- en gecertificeerde categorie” wordt de tekst onder punt i) “<em>Candidatus</em> Phytoplasma <em>pyri</em> Seemüller &amp; Schneider” van het deel “Voorschriften betreffende productielocaties, productieplaatsen of gebieden” vervangen door het volgende:<br>
+<br>
+“1) het teeltmateriaal en de fruitgewassen van de basis- en gecertificeerde categorie worden geproduceerd in gebieden die door de bevoegde autoriteit overeenkomstig de desbetreffende internationale normen voor fytosanitaire maatregelen vrij zijn bevonden van <em>Candidatus</em> Phytoplasma pyri Seemüller &amp; Schneider, of<br>
+2) tijdens het laatste volledige groeiseizoen worden op het teeltmateriaal en de fruitgewassen van de basis- en gecertificeerde categorie op de productielocatie geen symptomen van <em>Candidatus</em> Phytoplasma pyri Seemüller &amp; Schneider waargenomen en eventuele symptomatische planten in de onmiddellijke nabijheid worden verwijderd en onmiddellijk vernietigd, of<br>
+3) het teeltmateriaal en de fruitgewassen van de basis- en de gecertificeerde categorie op de productielocatie en alle planten in de onmiddellijke nabijheid die bij visuele inspecties in de laatste drie groeiseizoenen symptomen van <em>Candidatus</em> Phytoplasma pyri Seemüller &amp; Schneider vertoonden, worden verwijderd en onmiddellijk vernietigd;”;<br>
+<br>
+iii) in punt f) “CAC-categorie” wordt de tekst onder punt i) “<em>Candidatus</em> Phytoplasma <em>pyri</em> Seemüller &amp; Schneider” van het deel “Voorschriften betreffende productielocaties, productieplaatsen of gebieden” vervangen door het volgende:<br>
+<br>
+“1) het teeltmateriaal en de fruitgewassen van de CAC-categorie worden geproduceerd in gebieden die door de bevoegde autoriteit overeenkomstig de desbetreffende internationale normen voor fytosanitaire maatregelen vrij zijn bevonden van <em>Candidatus</em> Phytoplasma pyri Seemüller &amp; Schneider, of<br>
+2) tijdens het laatste volledige groeiseizoen worden op het teeltmateriaal en de fruitgewassen van de CAC- categorie op de productielocatie geen symptomen van <em>Candidatus</em> Phytoplasma pyri Seemüller &amp; Schneider waargenomen en eventuele symptomatische planten in de onmiddellijke nabijheid worden verwijderd en onmiddellijk vernietigd, of<br>
+3) het teeltmateriaal en de fruitgewassen van de CAC-categorie op de productielocatie en alle planten in de onmiddellijke nabijheid die bij visuele inspecties in de laatste drie groeiseizoenen symptomen van <em>Candidatus</em> Phytoplasma pyri Seemüller &amp; Schneider vertoonden, worden verwijderd en onmiddellijk vernietigd;”;<br>
+<br>
+6°&nbsp; &nbsp;deel 15 “<em>Vaccinium</em> L.” wordt als volgt gewijzigd:<br>
+<br>
+i) aan punt b) “Basiscategorie”, in het deel “Voorschriften betreffende productielocaties, productieplaatsen of gebieden”, wordt het volgende punt toegevoegd:<br>
+<br>
+“iv) <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ‘t Veld<br>
+<br>
+1) het teeltmateriaal en de fruitgewassen van de basiscategorie worden geproduceerd in gebieden die door de bevoegde autoriteit overeenkomstig de desbetreffende internationale normen voor fytosanitaire maatregelen vrij zijn bevonden van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld, of<br>
+2) tijdens de laatste volledige vegetatiecyclus worden op het teeltmateriaal en de fruitgewassen van de basiscategorie op de productielocatie geen symptomen van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld waargenomen.”;<br>
+<br>
+ii) aan punt d) “Gecertificeerde categorie”, in het deel “Voorschriften betreffende productielocaties, productieplaatsen of gebieden”, wordt het volgende punt toegevoegd:<br>
+<br>
+“iii) <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld:<br>
+<br>
+1) het teeltmateriaal en de fruitgewassen van de gecertificeerde categorie worden geproduceerd in gebieden die door de bevoegde autoriteit overeenkomstig de desbetreffende internationale normen voor fytosanitaire maatregelen vrij zijn bevonden van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld, of<br>
+2) tijdens de laatste volledige vegetatiecyclus worden op het teeltmateriaal en de fruitgewassen van de gecertificeerde categorie op de productielocatie geen symptomen van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld waargenomen;<br>
+of<br>
+3) de combinatie van de volgende drie punten:<br>
+3.1.) het teeltmateriaal en de fruitgewassen van de gecertificeerde categorie die symptomen vertonen van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld op de productielocatie en alle planten binnen een straal van twee meter rond het teeltmateriaal en de fruitgewassen die symptomen vertonen, worden verwijderd en vernietigd, met inbegrip van de aanhangende grond,<br>
+alsmede<br>
+3.2.) voor alle planten binnen een straal van tien meter rond het teeltmateriaal en de fruitgewassen met symptomen, alsmede het resterende teeltmateriaal en de fruitgewassen van de besmette partij:<br>
+3.2.1.) worden binnen drie maanden na de ontdekking van het teeltmateriaal en de fruitgewassen met symptomen op dat teeltmateriaal en die fruitgewassen bij ten minste twee inspecties op geschikte tijdstippen voor de opsporing van het plaagorganisme geen symptomen van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld waargenomen en gedurende die periode van drie maanden worden geen behandelingen uitgevoerd die symptomen van <em>Phytophthora ramorum </em>(EU-isolaten) Werres, De Cock &amp; Man in ’t Veld onderdrukken, en<br>
+3.2.2.) worden/wordt na die periode van drie maanden:<br>
+3.2.2.1.) op dat teeltmateriaal en die fruitgewassen op de productielocatie geen symptomen van <em>Phytophthora</em> <em>ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld waargenomen, of<br>
+3.2.2.2.) een representatief monster van dat teeltmateriaal en die te verplaatsen fruitgewassen getest en vrij bevonden van <em>Phytophthora</em> <em>ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld,<br>
+alsmede<br>
+3.3.)<br>
+3.3.1.) voor alle andere teeltmateriaal en fruitgewassen op de productielocatie:<br>
+3.3.1.1.) worden op dat teeltmateriaal en die fruitgewassen op de productielocatie geen symptomen van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld waargenomen, of<br>
+3.3.1.2.) wordt een representatief monster van dat teeltmateriaal en die te verplaatsen fruitgewassen getest en vrij bevonden van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld.”;<br>
+<br>
+iii) het volgende punt wordt toegevoegd:<br>
+<br>
+“e) CAC-categorie<br>
+<br>
+<em>Voorschriften betreffende productielocaties, productieplaatsen of gebieden</em><br>
+<br>
+i) <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld:<br>
+<br>
+1) het teeltmateriaal en de fruitgewassen van de CAC-categorie worden geproduceerd in gebieden die door de bevoegde autoriteit overeenkomstig de desbetreffende internationale normen voor fytosanitaire maatregelen vrij zijn bevonden van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld, of<br>
+2) tijdens de laatste volledige vegetatiecyclus worden op het teeltmateriaal en de fruitgewassen van de CAC-categorie op de productielocatie geen symptomen van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld waargenomen,<br>
+of<br>
+2.1.) het teeltmateriaal en de fruitgewassen van de CAC-categorie die symptomen vertonen van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld op de productielocatie en alle planten binnen een straal van twee meter rond het teeltmateriaal en de fruitgewassen die symptomen vertonen, worden verwijderd en vernietigd, met inbegrip van de aanhangende grond, en<br>
+2.2.) voor alle planten binnen een straal van tien meter rond het teeltmateriaal en de fruitgewassen met symptomen, alsmede het resterende teeltmateriaal en de fruitgewassen van de besmette partij:<br>
+2.2.1.) worden binnen drie maanden na de ontdekking van het teeltmateriaal en de fruitgewassen met symptomen op dat teeltmateriaal en die fruitgewassen bij ten minste twee inspecties op geschikte tijdstippen voor de opsporing van het plaagorganisme geen symptomen van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld waargenomen en worden gedurende die periode van drie maanden geen behandelingen uitgevoerd die symptomen van <em>Phytophthora ramorum </em>(EU-isolaten) Werres, De Cock &amp; Man in ’t Veld onderdrukken, en worden/wordt na die periode van drie maanden:<br>
+2.2.1.1.) op dat teeltmateriaal en die fruitgewassen op de productielocatie geen symptomen van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld waargenomen, of<br>
+2.2.1.2.) een representatief monster van dat teeltmateriaal en die te verplaatsen fruitgewassen getest en vrij bevonden van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld,<br>
+alsmede<br>
+2.3.) voor alle andere teeltmateriaal en fruitgewassen op de productielocatie:<br>
+2.3.1.) worden op dat teeltmateriaal en die fruitgewassen op de productielocatie geen symptomen van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld waargenomen, of<br>
+2.3.2.) wordt een representatief monster van dat teeltmateriaal en die te verplaatsen fruitgewassen getest en vrij bevonden van <em>Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Man in ’t Veld ".
 
 ### BIJLAGE 5
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2016/10/11_1.pdf#page=83">http://www.ejustice.just.fgov.be/mopdf/2016/10/11_1.pdf#page=83</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2016/10/11_1.pdf#page=83">http://www.ejustice.just.fgov.be/mopdf/2016/10/11_1.pdf#page=83</a><br>
+<br>
+*Bij MB van 2 mei 2023 wordt met ingang van 30 juni 2023 in bijlage 5, punt 9° als volgt vervangen:<br>
+“9° <em>Prunus armeniaca </em>L.,<em> Prunus domestica</em> L.,<em> Prunus dulcis </em>(Mill.) D. A. Webb,<em> Prunus persica </em>(L.) Batsch en<em> Prunus salicina</em> Lindl.”.
