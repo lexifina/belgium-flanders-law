@@ -90,4 +90,97 @@ Het ministerieel besluit van 19 februari 2000 tot vaststelling van de schema's m
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/17_1.pdf#page=131">Lijst van gereguleerde niet-quarantaineorganismen en de bijhorende drempelwaarden volgens geslacht en soort</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/17_1.pdf#page=131">Lijst van gereguleerde niet-quarantaineorganismen en de bijhorende drempelwaarden volgens geslacht en soort</a><br>
+<br>
+*Bij MB van 2 mei 2023 worden met ingang van 30 juni 2023 de volgende wijzigingen aangebracht:<br>
+<br>
+1° tussen de rij<br>
+"
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:184px"><em>Erwinia amylovora</em> (Burill) Winslow <em>et al.</em> [ERWIAM]</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:184px">Teeltmateriaal van siergewassen, met uitzondering van zaden<br>
+			<em>Amelanchier</em> Medik., <em>Chaenomeles</em> Lindl., <em>Cotoneaster</em> Medik., <em>Crataegus</em> Tourn. ex L., <em>Cydonia</em> Mill., <em>Eriobtrya </em>Lindl., <em>Malus</em> Mill., <em>Mespilus</em> Bosc ex Spach, <em>Photinia davidiana</em> Decne., <em>Pyracantha</em> M. Roem., <em>Pyrus</em> L., <em>Sorbus</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:184px">0%</td>
+		</tr>
+	</tbody>
+</table>
+”<br>
+<br>
+en de rij<br>
+<br>
+“
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:184px"><em>Pseudomonas syringae </em>pv <em>persicae</em> (Prunier, Luisetti &amp;. Gardan) Young, Dye &amp; Wilkie [PSDMPE]</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:184px">Teeltmateriaal van siergewassen, met uitzondering van zaden<br>
+			<em>Prunus </em>persica (L.) Batsch, <em>Prunus salicina</em> Lindl.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:184px">0%</td>
+		</tr>
+	</tbody>
+</table>
+”<br>
+<br>
+wordt de volgende rij ingevoegd:<br>
+<br>
+“
+<table cellspacing="0" style="border-collapse:collapse; width:612px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:173px"><em>“Pseudomonas syringae</em> pv. <em>actinidiae</em> Takikawa, Serizawa, Ichikawa, Tsuyumu &amp; Goto [PSDMAK]</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:266px">Voor opplant bestemde planten, met uitzondering van zaden<br>
+			<em>Actinidia</em> Lindl.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:173px">0&nbsp;%”</td>
+		</tr>
+	</tbody>
+</table>
+”;<br>
+<br>
+2° tussen de rij<br>
+<br>
+“
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:184px"><em>Lecanosticta acicola</em> (von Thümen) Sydow [SCIRAC]</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:184px">Teeltmateriaal van siergewassen, met uitzondering van zaden<br>
+			<em>Pinus</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:184px">0%</td>
+		</tr>
+	</tbody>
+</table>
+”<br>
+<br>
+en de rij<br>
+<br>
+“
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:184px"><em>Plasmopara halstedii </em>(Farlow) Berlese &amp; de Toni [PLASHA]</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:184px">Zaden<br>
+			<em>Helianthus annuus </em>L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:184px">0%</td>
+		</tr>
+	</tbody>
+</table>
+”<br>
+<br>
+wordt de volgende rij ingevoegd:<br>
+<br>
+“
+<table cellspacing="0" style="border-collapse:collapse; width:612px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:173px"><em>“Phytophthora ramorum</em> (EU-isolaten) Werres, De Cock &amp; Mann in ´t Veld [PHYTRA]</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:266px">Voor opplant bestemde planten, met uitzondering van pollen en zaden<br>
+			<em>Camellia</em> L., <em>Castanea sativa</em> Mill., <em>Fraxinus excelsior</em> L., <em>Larix</em> <em>decidua</em> Mill., <em>Larix kaempferi</em> (Lamb.) Carrière, <em>Larix × eurolepis</em> A. Henry, <em>Pseudotsuga menziesii</em> (Mirb.) Franco, <em>Quercus cerris</em> L., <em>Quercus ilex</em> L., <em>Quercus rubra</em> L., <em>Rhododendron</em> L. met uitzondering van <em>R. simsii</em> L., <em>Viburnum</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:173px">0&nbsp;%”</td>
+		</tr>
+	</tbody>
+</table>
+”.<br>
+<br>
+&nbsp;
