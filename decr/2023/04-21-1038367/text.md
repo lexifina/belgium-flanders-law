@@ -239,6 +239,10 @@ In dezelfde codex, het laatst gewijzigd bij het decreet van 10 november 2022, wo
 <br>
 Aan de voorwaarde, vermeld in het eerste lid, 4°, is ook voldaan als de woning wordt afgebroken en op hetzelfde perceel een nieuwe woning wordt opgericht.”.
 
+### ART 33.
+
+In artikel 4.2, §1, eerste lid, van dezelfde codex, gewijzigd bij het decreet van 3 juni 2022, worden de woorden “en bescheiden huurwoningen” opgeheven.
+
 ### ART 34.
 
 In artikel 4.22 van dezelfde codex, gewijzigd bij het decreet van 9 juli 2021, worden de volgende wijzigingen aangebracht:<br>
@@ -247,6 +251,82 @@ In artikel 4.22 van dezelfde codex, gewijzigd bij het decreet van 9 juli 2021, w
 1° een huurovereenkomst overnemen die gesloten is tussen een woonmaatschappij die erkend is conform artikel 4.36 van deze codex of artikel 206 van het decreet van 9 juli 2021 houdende wijziging van diverse decreten met betrekking tot wonen en een of meer verhuurders op de private huurmarkt. Enkel de huurovereenkomsten met een bedongen huurprijs die niet hoger is dan de door de Vlaamse Regering vastgestelde huurprijsgrens voor het bekomen van een tegemoetkoming verleend met toepassing van artikel 5.73 kunnen overgenomen worden;<br>
 2° een huurovereenkomst die de VMSW heeft overgenomen conform punt 1°, overdragen aan een woonmaatschappij die erkend is conform artikel 4.36 van deze codex of artikel 206 van het decreet van 9 juli 2021 houdende wijziging van diverse decreten met betrekking tot wonen.”;<br>
 2° in paragraaf 3, derde lid, worden de zinnen “Het kandidatenregister, vermeld in boek 6, deel 3, van de oorspronkelijke woonmaatschappij wordt samengevoegd met het eigen kandidatenregister van de woonmaatschappij. De Vlaamse Regering bepaalt de voorwaarden om de registers samen te voegen.” opgeheven.
+
+### ART 35.
+
+In artikel 4.24 van dezelfde codex, gewijzigd bij de decreten van 9 juli 2021 en 3 juni 2022, worden de woorden “bescheiden huuraanbod” vervangen door de woorden “aanbod van geconventioneerde huurwoningen”.
+
+### ART 36.
+
+In artikel 4.25, 1°, b), van dezelfde codex worden de woorden “bescheiden huuraanbod” vervangen door de woorden “aanbod van geconventioneerde huurwoningen”.
+
+### ART 37.
+
+In artikel 4.27, eerste lid, 2°, van dezelfde codex worden de woorden “bescheiden huuraanbod” vervangen door de woorden “aanbod van geconventioneerde huurwoningen”.
+
+### ART 38.
+
+Artikel 4.42 van dezelfde codex, vervangen bij het decreet van 9 juli 2021, wordt vervangen door wat volgt:<br>
+<br>
+“Art. 4.42. §1. De woonmaatschappij kan een aanbod van geconventioneerde huurwoningen inhuren en verwerven van private initiatiefnemers als vermeld in artikel 5.52/1.<br>
+<br>
+De woonmaatschappij kan ook zelf ten belope van ten hoogste 20 procent van haar jaarlijkse investeringsvolume een aanbod van geconventioneerde huurwoningen realiseren. De Vlaamse Regering bepaalt de berekeningswijze. De woonmaatschappij hanteert gescheiden boekhoudingen voor haar taken met betrekking tot het aanbod van geconventioneerde huurwoningen en haar taken met betrekking tot het sociaal woonaanbod.<br>
+<br>
+§2. De Vlaamse Regering bepaalt de voorwaarden over de maximale huurprijs, de korting op de huurprijs, de inkomens- en eigendomsvoorwaarde waaraan de huurder voldoet, de wijze waarop gecontroleerd wordt of een huurder in aanmerking komt voor een geconventioneerde huurwoning en de voorwaarden waaronder een &nbsp;geconventioneerde huurwoning wordt verhuurd.<br>
+<br>
+Een geconventioneerde huurwoning wordt toegewezen na een projectgebonden oproep tot kandidaatstelling. De toewijzing gebeurt door het beslissingsorgaan van de woonmaatschappij of de persoon of personen die hij daartoe aanstelt, rekening houdend met:<br>
+1° de interesse van de kandidaat-huurder in een of meerdere woningen in het project;<br>
+2° de toewijzingsregels die de Vlaamse Regering vaststelt, waarbij ze rekening houdt met de bijzondere doelstellingen van het woonbeleid, vermeld in artikel 1.6, §2.<br>
+<br>
+§3. De Vlaamse Regering stelt voor de verhuur van de geconventioneerde huurwoningen een typeovereenkomst vast voor de huurders die in aanmerking komen voor een geconventioneerde huurwoning. Van de typehuurovereenkomsten kan alleen worden afgeweken in de gevallen die de Vlaamse Regering bepaalt.<br>
+<br>
+De typehuurovereenkomst, vermeld in het eerste lid, bevat minstens de volgende regelingen:<br>
+1° een regeling voor de duurtijd van de huurovereenkomst;<br>
+2° een regeling voor de opzegmogelijkheden van de huurder en de verhuurder.<br>
+<br>
+§4. De Vlaamse Regering kan, afhankelijk van de kredieten die daartoe op de begroting van het Vlaamse Gewest worden ingeschreven, een subsidie verlenen voor de realisatie van geconventioneerde huurwoningen en de aanleg of de aanpassing van infrastructuur, vermeld in artikel 5.23. De Vlaamse Regering legt de voorwaarden vast waaronder ze de subsidie verleent.”.
+
+### ART 39.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 3 juni 2022, wordt een artikel 4.42/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 4.42/1. §1. Voor de verhuring van de geconventioneerde woningen, vermeld in artikel 4.42, worden persoonsgegevens verwerkt met als doel:<br>
+1° na te gaan of voldaan is aan de voorwaarden die de Vlaamse Regering vaststelt conform artikel 4.42;<br>
+2° de juridische afwikkeling van de huurovereenkomst verzekeren.<br>
+<br>
+§2. De verwerkingsverantwoordelijken zijn:<br>
+1° de dienst die door de Vlaamse Regering belast is met de uitvoering van het woonbeleid;<br>
+2° de woonmaatschappij.<br>
+<br>
+§3. Met toepassing van paragraaf 1 kunnen de volgende categorieën van persoonsgegevens verwerkt worden:<br>
+1° persoonlijke identificatiegegevens;<br>
+2° het rijksregisternummer en de identificatienummers van de sociale zekerheid;<br>
+3° persoonlijke kenmerken;<br>
+4° gezinssamenstelling;<br>
+5° gegevens over de lichamelijke of psychische gezondheid;<br>
+6° financiële bijzonderheden;<br>
+7° gegevens over onroerende rechten;<br>
+8° woningkenmerken.<br>
+<br>
+De gegevens betreffende de lichamelijke en psychische gezondheid van de aanvrager of zijn inwonende gezinsleden worden opgevraagd en verwerkt conform artikel 9, lid 2, g), van de algemene verordening gegevensbescherming. Deze gegevens worden opgevraagd en verwerkt om te bepalen of de aanvrager in aanmerking komt voor een geconventioneerde huurwoning. Alleen het statuut van de persoon kan worden opgevraagd en verwerkt.<br>
+<br>
+De Vlaamse Regering kan de categorieën van persoonsgegevens, vermeld in het eerste lid, nader omschrijven.<br>
+<br>
+§4. De betrokkenen bij de verwerking van persoonsgegevens zijn:<br>
+1° de aanvrager van een geconventioneerde huurwoning;<br>
+2° de gezinsleden van de aanvrager van een geconventioneerde huurwoning;<br>
+3° de huurder en zijn gezinsleden;<br>
+4° de ex-huurder.<br>
+<br>
+§5. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 1°, past op de verwerkte persoonsgegevens een bewaartermijn van tien jaar toe na de behandeling van het aanvraagdossier. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 2°, past op de verwerkte persoonsgegevens een bewaartermijn van tien jaar toe na het einde van de huurovereenkomst.<br>
+<br>
+§6. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 1°, kan de persoonsgegevens doorgeven aan de woonmaatschappijen en de private initiatiefnemer, vermeld in artikel 5.52/1, voor het sluiten van de huurovereenkomst. De verwerkingsverantwoordelijken kunnen de persoonsgegevens gebruiken voor statistische verwerking en kunnen ze ter beschikking stellen van andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking. De verwerkingsverantwoordelijken kunnen de persoonsgegevens ook doorgeven aan de toezichthouder, vermeld in artikel 4.79 van deze codex, om hem in staat te stellen het toezicht uit te oefenen.<br>
+&nbsp;<br>
+De Vlaamse Regering kan aanvullende entiteiten aanduiden waaraan persoonsgegevens voor specifiek omschreven doeleinden kunnen worden doorgegeven.<br>
+<br>
+§7. De verwerkingsverantwoordelijken verduidelijken in een privacyverklaring welke verwerkingen er gebeuren. Ze nemen met het oog op transparantie en de garantie van de rechten van betrokkenen in hun communicatie met de betrokkenen een verwijzing op naar de vindplaats van de privacyverklaring.<br>
+<br>
+§8. De dienst die door de Vlaamse Regering belast is met het woonbeleid, coördineert de elektronische gegevensstromen en elektronische informatie-uitwisseling tussen de diverse actoren, vermeld in dit artikel. Alle elektronische gegevens mogen in dat kader via de dienst die door de Vlaamse Regering belast is met het woonbeleid, uitgewisseld worden en kunnen door die dienst, die in dat geval verwerkingsverantwoordelijke is voor de opvraging en doorgifte, opgevraagd worden bij die gegevensbronnen. De dienst die door de Vlaamse Regering belast is met het woonbeleid, mag de gegevens ook gebruiken voor statistische verwerking en mag ze ter beschikking stellen van de andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking. De dienst die door de Vlaamse Regering belast is met het woonbeleid, kan de persoonsgegevens verder verwerken voor doeleinden als vermeld in artikel 1.5 die verenigbaar zijn met de oorspronkelijke doeleinden.”.
 
 ### ART 40.
 
@@ -259,6 +339,12 @@ In artikel 4.45 van dezelfde codex, vervangen bij het decreet van 9 juli 2021 en
 5° in paragraaf 7, tweede lid, wordt de zinsnede “, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming” opgeheven;<br>
 6° paragraaf 7, vijfde lid, wordt vervangen door wat volgt:<br>
 “De dienst die door de Vlaamse Regering belast is met het woonbeleid, coördineert de elektronische gegevensstromen en elektronische informatieuitwisseling tussen de diverse actoren, vermeld in deze paragraaf. Alle elektronische gegevens mogen in dat kader via de dienst die door de Vlaamse Regering belast is met het woonbeleid, uitgewisseld worden en kunnen door die dienst, die in dat geval verwerkingsverantwoordelijke is voor de opvraging en doorgifte, opgevraagd worden bij de gegevensbronnen. De dienst die door de Vlaamse Regering belast is met het woonbeleid, mag de gegevens ook gebruiken voor statistische verwerking en mag ze ter beschikking stellen van de andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking. De dienst die door de Vlaamse Regering belast is met het woonbeleid, kan de persoonsgegevens verder verwerken voor doeleinden als vermeld in artikel 1.5 die verenigbaar zijn met de oorspronkelijke doeleinden.”.
+
+### ART 41.
+
+In artikel 4.48 van dezelfde codex, vervangen bij het decreet van 9 juli 2021 en gewijzigd bij het decreet van 3 juni 2022, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de zinsnede “, 4.42” opgeheven;<br>
+2° aan het eerste lid worden de volgende zinnen toegevoegd: “Voor de verrichtingen die uitdrukkelijk verband houden met hun opdrachten, vermeld in artikel 4.42, kunnen de woonmaatschappijen zowel de eigen middelen aanwenden als leningen aangaan bij de VMSW of, onder de voorwaarden die de Vlaamse Regering bepaalt, bij derden. De Vlaamse Regering legt de voorwaarden voor het aangaan van leningen bij de VMSW vast in een algemeen reglement.”.
 
 ### ART 42.
 
@@ -280,6 +366,84 @@ In artikel 4.70 van dezelfde codex worden de woorden “erkende huurdiensten” 
 ### ART 45.
 
 In artikel 4.71, tweede lid, van dezelfde codex wordt het woord “huurdienst” telkens vervangen door het woord “huurdersbond”.
+
+### ART 46.
+
+&nbsp;Aan boek 5, deel 2, van dezelfde codex, gewijzigd bij de decreten van 9 juli 2021 en 3 juni 2022, wordt een titel 9 toegevoegd, die luidt als volgt:<br>
+<br>
+“Titel 9. Huurwoningen gerealiseerd door een private initiatiefnemer”.
+
+### ART 47.
+
+In dezelfde codex wordt in titel 9, toegevoegd bij artikel 46, een artikel 5.52/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 5.52/1. In dit artikel wordt verstaan onder private initiatiefnemer: elke rechtspersoon of natuurlijke persoon met uitsluiting van een sociale woonorganisatie.<br>
+<br>
+Om het recht op wonen te bevorderen, kan de Vlaamse Regering, afhankelijk van de kredieten die daartoe op de begroting van het Vlaamse Gewest worden ingeschreven, een subsidie verstrekken aan private initiatiefnemers die kwaliteitsvolle en betaalbare huurwoningen realiseren die worden verhuurd als sociale huurwoning of als geconventioneerde huurwoning. Die subsidie kan zowel worden toegekend voor de realisatie van de huurwoningen als voor eventuele werken als vermeld in artikel 5.23 die gekoppeld zijn aan de realisatie van de woningen die worden verhuurd als sociale of als geconventioneerde huurwoning.<br>
+&nbsp;<br>
+De Vlaamse Regering stelt de subsidievoorwaarden vast en bepaalt minstens de volgende voorwaarden:<br>
+1° de termijn waarvoor de private initiatiefnemer zich verbindt om de woning te verhuren en de korting, vermeld in punt 3°, toe te passen;<br>
+2° de minimale grootte van het project dat door de private initiatiefnemer wordt gerealiseerd;<br>
+3° de maximale huurprijs en een korting op de huurprijs;<br>
+4° de voorwaarden waaraan de private initiatiefnemer voldoet;<br>
+5° de voorwaarden waaronder de geconventioneerde huurwoning wordt verhuurd.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze waarop gecontroleerd wordt of een huurder in aanmerking komt voor een geconventioneerde huurwoning.<br>
+<br>
+Een geconventioneerde huurwoning wordt toegewezen na een projectgebonden oproep tot kandidaatstelling. De toewijzing gebeurt door het beslissingsorgaan van de private initiatiefnemer of de persoon of personen die hij daartoe aanstelt, of een gemeente, een Openbaar Centrum voor Maatschappelijk Welzijn, een vereniging zonder winstoogmerk of een instelling van openbaar nut waarop het Wetboek van vennootschappen en verenigingen van 23 maart 2019 van toepassing is, of een sociale onderneming voor zover ze erkend is volgens het Wetboek van vennoot- schappen en verenigingen van 23 maart 2019, of een autonoom gemeentebedrijf als vermeld in deel 2, titel 3, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur, rekening houdend met:<br>
+1° de interesse van de kandidaat-huurder in een of meerdere woningen in het project;<br>
+2° de toewijzingsregels die de Vlaamse Regering vaststelt, waarbij ze rekening houdt met de bijzondere doelstellingen van het woonbeleid, vermeld in artikel 1.6, §2.<br>
+<br>
+De private initiatiefnemer, een gemeente, een Openbaar Centrum voor Maatschappelijk Welzijn, een vereniging zonder winstoogmerk of een instelling van openbaar nut waarop het Wetboek van vennootschappen en verenigingen van 23 maart 2019 van toepassing is, of een sociale onderneming voor zover ze erkend is volgens het Wetboek van vennootschappen en verenigingen van 23 maart 2019, of een autonoom gemeentebedrijf als vermeld in deel 2, titel 3, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur gebruikt de typehuurovereenkomst, vermeld in 4.42, §3, als hij een geconventioneerde huurwoning verhuurt aan een huurder die in aanmerking komt voor een geconventioneerde huurwoning. De voorwaarden waaraan de huurder voldoet om in aanmerking te komen voor een geconventioneerde huurwoning zijn dezelfde als de voorwaarden die de Vlaamse Regering krachtens artikel 4.42, §2, bepaalt.<br>
+<br>
+De Vlaamse Regering bepaalt de typehuurovereenkomsten die worden gebruikt voor de verhuur van de geconventioneerde huurwoningen aan woonmaatschappijen, een gemeente, een Openbaar Centrum voor Maatschappelijk Welzijn, een vereniging zonder winstoogmerk of een instelling van openbaar nut waarop het Wetboek van vennootschappen en verenigingen van 23 maart 2019 van toepassing is, of een sociale onderneming voor zover ze erkend is volgens het Wetboek van vennootschappen en verenigingen van 23 maart 2019, of een autonoom gemeentebedrijf als vermeld in deel 2, titel 3, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur, waarbij minstens de volgende voorwaarden worden opgenomen:<br>
+1° een regeling voor de duurtijd van de huurovereenkomst;<br>
+2° een regeling voor de opzegmogelijkheden van de huurder en de verhuurder.<br>
+&nbsp;<br>
+De Vlaamse Regering bepaalt de sancties op de niet-naleving van de subsidievoorwaarden.”.
+
+### ART 48.
+
+In dezelfde codex wordt in dezelfde titel 9 een artikel 5.52/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 5.52/2. §1. Voor de verhuring van de geconventioneerde woningen, vermeld in artikel 5.52/1, worden persoonsgegevens verwerkt met als doel:<br>
+1° na te gaan of voldaan is aan de voorwaarden die de Vlaamse Regering vaststelt conform artikel 5.52/1;<br>
+2° de juridische afwikkeling van de huurovereenkomst verzekeren.<br>
+<br>
+§2. De verwerkingsverantwoordelijken zijn:<br>
+1° de dienst die door de Vlaamse Regering belast is met de uitvoering van het woonbeleid;<br>
+2° de private initiatiefnemer, vermeld in artikel 5.52/1;<br>
+3° een gemeente, een Openbaar Centrum voor Maatschappelijk Welzijn, een vereniging zonder winstoogmerk of een instelling van openbaar nut waarop het Wetboek van vennootschappen en verenigingen van 23 maart 2019 van toepassing, of een sociale onderneming voor zover ze erkend is volgens het Wetboek van vennootschappen en verenigingen van 23 maart 2019, of een autonoom gemeentebedrijf als vermeld in deel 2, titel 3, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur.<br>
+<br>
+§3. Met toepassing van paragraaf 1 kunnen de volgende categorieën van persoonsgegevens verwerkt worden:<br>
+1° persoonlijke identificatiegegevens;<br>
+2° het rijksregisternummer en de identificatienummers van de sociale zekerheid;<br>
+3° persoonlijke kenmerken;<br>
+4° gezinssamenstelling;<br>
+5° gegevens over de lichamelijke of psychische gezondheid;<br>
+6° financiële bijzonderheden;<br>
+7° gegevens over onroerende rechten;<br>
+8° woningkenmerken.<br>
+<br>
+De gegevens betreffende de lichamelijke en psychische gezondheid van de aanvrager of zijn inwonende gezinsleden wordt opgevraagd en verwerkt conform artikel 9, lid 2, g), van de algemene verordening gegevensbescherming. Deze gegevens worden opgevraagd en verwerkt om te bepalen of de aanvrager in aanmerking komt voor een geconventioneerde huurwoning. Alleen het statuut van de persoon kan worden opgevraagd en verwerkt.<br>
+<br>
+De Vlaamse Regering kan de categorieën van persoonsgegevens, vermeld in het eerste lid, nader omschrijven.<br>
+<br>
+§4. De betrokkenen bij de verwerking van persoonsgegevens zijn:<br>
+1° de aanvrager van een geconventioneerde huurwoning;<br>
+2° de gezinsleden van de aanvrager van een geconventioneerde huurwoning;<br>
+3° de huurder en zijn gezinsleden;<br>
+4° de ex-huurder.<br>
+<br>
+§5. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 1°, past op de verwerkte persoonsgegevens een bewaartermijn van tien jaar toe na de beslissing dat de aanvrager in aanmerking komt voor een geconventioneerde huurwoning. De verwerkingsverantwoordelijken, vermeld in paragraaf 2, 2° en 3°, passen op de verwerkte persoonsgegevens een bewaartermijn van tien jaar toe na het einde van de huurovereenkomst.<br>
+&nbsp;<br>
+§6. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 1°, kan de persoonsgegevens doorgeven aan de private initiatiefnemer, vermeld in artikel 5.52/1, de woonmaatschappij of een gemeente, een Openbaar Centrum voor Maatschappelijk Welzijn, een vereniging zonder winstoogmerk of een instelling van openbaar nut waarop het Wetboek van vennootschappen en verenigingen van 23 maart 2019 van toepassing, of een sociale onderneming voor zover ze erkend is volgens het Wetboek van vennootschappen en verenigingen van 23 maart 2019, of een autonoom gemeentebedrijf als vermeld in deel 2, titel 3, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur voor het sluiten van de huurovereenkomst. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 1°, kan de persoonsgegevens gebruiken voor statistische verwerking en kan ze ter beschikking stellen van andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking.<br>
+<br>
+De Vlaamse Regering kan aanvullende entiteiten aanduiden waaraan persoonsgegevens voor specifiek omschreven doeleinden kunnen worden doorgegeven.<br>
+<br>
+§7. De verwerkingsverantwoordelijken verduidelijken in een privacyverklaring welke verwerkingen er gebeuren. Ze nemen met het oog op transparantie en de garantie van de rechten van betrokkenen in hun communicatie met de betrokkenen een verwijzing op naar de vindplaats van de privacyverklaring.<br>
+<br>
+§8. De dienst die door de Vlaamse Regering belast is met het woonbeleid, coördineert de elektronische gegevensstromen en elektronische informatie-uitwisseling tussen de diverse actoren, vermeld in dit artikel. Alle elektronische gegevens mogen in dat kader via de dienst die door de Vlaamse Regering belast is met het woonbeleid, uitgewisseld worden en kunnen door die dienst, die in dat geval verwerkingsverantwoordelijke is voor de opvraging en doorgifte, opgevraagd worden bij die gegevensbronnen. De dienst die door de Vlaamse Regering belast is met het woonbeleid, mag de gegevens ook gebruiken voor statistische verwerking en mag ze ter beschikking stellen van de andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking. De dienst die door de Vlaamse Regering belast is met het woonbeleid, kan de persoonsgegevens verder verwerken voor doeleinden, vermeld in artikel 1.5, die verenigbaar zijn met de oorspronkelijke doeleinden.”.
 
 ### ART 49.
 
@@ -527,12 +691,26 @@ In artikel 5.92/1 van dezelfde codex, ingevoegd bij het decreet van 9 juli 2021 
 3° paragraaf 8 wordt vervangen door wat volgt:<br>
 “§8. De dienst die door de Vlaamse Regering belast is met het woonbeleid, coördineert de elektronische gegevensstromen en elektronische informatie-uitwisseling tussen de diverse actoren, vermeld in dit deel. Alle elektronische gegevens mogen in dat kader via de dienst die door de Vlaamse Regering belast is met het woonbeleid, uitgewisseld worden en kunnen door die dienst, die in dat geval verwerkingsverantwoordelijke is voor de opvraging en doorgifte, opgevraagd worden bij die gegevensbronnen. De dienst die door de Vlaamse Regering belast is met het woonbeleid, mag de gegevens ook gebruiken voor statistische verwerking en mag ze ter beschikking stellen van de andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking. De dienst die door de Vlaamse Regering belast is met het woonbeleid, kan de persoonsgegevens verder verwerken voor doeleinden, vermeld in artikel 1.5, die verenigbaar zijn met de oorspronkelijke doeleinden.”.
 
+### ART 67.
+
+&nbsp;In boek 5, deel 9, van dezelfde codex worden in het opschrift van titel 2 de woorden “en toewijzingsregels” opgeheven.
+
+### ART 68.
+
+In artikel 5.106 van dezelfde codex, gewijzigd bij het decreet van 9 juli 2021, worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 1 wordt opgeheven;<br>
+2° in paragraaf 2 worden het derde tot en met vijfde lid opgeheven.
+
 ### ART 69.
 
 In artikel 5.106/1 van dezelfde codex, ingevoegd bij het decreet van 9 juli 2021 en gewijzigd bij het decreet van 3 juni 2022, worden de volgende wijzigingen aangebracht:<br>
 1° in paragraaf 2 wordt de zinsnede “, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming” opgeheven;<br>
 2° paragraaf 8 wordt vervangen door wat volgt:<br>
 “§8. De dienst die door de Vlaamse Regering belast is met het woonbeleid, coördineert de elektronische gegevensstromen en elektronische informatie-uitwisseling tussen de diverse actoren, vermeld in dit artikel. Alle elektronische gegevens mogen in dat kader via de dienst die door de Vlaamse Regering belast is met het woonbeleid, uitgewisseld worden en kunnen door die dienst, die in dat geval verwerkingsverantwoordelijke is voor de opvraging en doorgifte, opgevraagd worden bij die gegevensbronnen. De dienst die door de Vlaamse Regering belast is met het woonbeleid, mag de gegevens ook gebruiken voor statistische verwerking en mag ze ter beschikking stellen van de andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking. De dienst die door de Vlaamse Regering belast is met het woonbeleid, kan de persoonsgegevens verder verwerken voor doeleinden, vermeld in artikel 1.5, die verenigbaar zijn met de oorspronkelijke doeleinden.”.
+
+### ART 70.
+
+Artikel 5.106/1 van dezelfde codex, ingevoegd bij het decreet van 9 juni 2021 en gewijzigd bij het decreet van 3 juni 2022 en artikel 69 van dit decreet, wordt opgeheven.
 
 ### ART 71.
 
