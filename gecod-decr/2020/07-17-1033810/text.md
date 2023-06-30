@@ -18,7 +18,7 @@
 <p>§1. In deze codex en de besluiten genomen ter uitvoering ervan wordt verstaan onder:<br>
 1° aanpassing: de uitvoering van specifieke werkzaamheden om een woning te doen beantwoorden aan de woningbezetting, de gezinssamenstelling of aan de fysieke mogelijkheden van bejaarden en personen met een handicap;<br>
 1° /1 algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG;<br>
-2° bescheiden huuraanbod: de huurwoningen die deel uitmaken van het bescheiden woonaanbod, vermeld in punt 3°;<br>
+2° ...;<br>
 3° bescheiden woonaanbod: het aanbod aan huurwoningen, koopwoningen en kavels, met uitsluiting van het sociaal woonaanbod, dat met behoud van de toepassing van artikel 5.94, §1, tweede lid en artikel 5.96, tweede lid, bestaat uit:<br>
 a) kavels met een oppervlakte van ten hoogste 500 m²;<br>
 b) eengezinswoningen met een bouwvolume van ten hoogste 550 m³;<br>
@@ -37,6 +37,7 @@ c) elke andere door de Vlaamse Regering toegelaten betekeningswijze waarbij de d
 12° eengezinswoning: elk bebouwd onroerend goed dat hoofdzakelijk bestemd is voor de huisvesting van één gezin of één alleenstaande, waarin zich geen andere woningen bevinden;<br>
 13° ...;<br>
 14° gebouw: elk bebouwd onroerend goed, dat zowel het hoofdgebouw als de bijgebouwen omvat, met uitsluiting van bedrijfsruimten, vermeld in artikel 2, 1°, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten;<br>
+14°/1 geconventioneerde huurwoning: een woning die gerealiseerd wordt door een private initiatiefnemer of een woonmaatschappij en die wordt verhuurd aan een afgebakende doelgroep van woonbehoeftige gezinnen en alleenstaanden die wordt bepaald door de Vlaamse Regering krachtens artikel 4.42 en 5.52/1;<br>
 15° Geïntegreerd Beheers- en Controlesysteem: het registratiesysteem in de zin van titel II, hoofdstuk 4, van de verordening (EG) nr. 1782/2003 van de Raad van 29 september 2003 tot vaststelling van gemeenschappelijke voorschriften voor regelingen inzake rechtstreekse steunverlening in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers en houdende wijziging van de verordeningen (EEG) nr. 2019/93, (EG) nr. 1452/2001, (EG) 1453/2001, (EG) nr. 1454/2001, (EG) nr. 1868/94, (EG) nr. 1251/1999, (EG) nr. 1254/1999, (EG) nr. 1673/2000, (EEG) nr. 2358/71 en (EG) nr. 2529/2001;<br>
 16° gemeenschappelijk wonen: een woonvorm in een gebouw of gebouwencomplex dat wonen als hoofdfunctie heeft en uit verschillende woongelegenheden bestaat, waarbij minimaal twee huishoudens op vrijwillige basis minimaal één leefruimte delen en daarnaast elk over minimaal één private leefruimte beschikken en waarbij de bewoners samen instaan voor het beheer;<br>
 17° gemeenschapsvoorzieningen: de installaties of gebouwen van collectieve aard en van sociaal of cultureel belang, met inbegrip van voorzieningen die bijdragen tot een verwevenheid van functies op buurtniveau;<br>
@@ -81,7 +82,7 @@ a) het bestaande en geplande aanbod aan woonvoorzieningen die opvang en hulp aan
 b) het bestaande en geplande aanbod aan huurwoningen die gehuurd worden middels een gewestelijke of gemeentelijke huursubsidie of tegemoetkoming in de huurprijs;<br>
 c) het desgevallend door de gemeente geïnventariseerde bescheiden woonaanbod;<br>
 48° ...<br>
-49° sociale huurwoning: een woning die niet behoort tot het bescheiden woonaanbod, vermeld in punt 3°, die als hoofdverblijfplaats verhuurd of onderverhuurd wordt door:<br>
+49° sociale huurwoning: een woning die niet behoort tot het bescheiden woonaanbod, vermeld in punt 3°, die geen geconventioneerde huurwoning is en die als hoofdverblijfplaats verhuurd of onderverhuurd wordt door:<br>
 a) de VMSW of een woonmaatschappij;<br>
 b) ...<br>
 c) het Vlaams Woningfonds, een gemeente, een intergemeentelijk samenwerkingsverband, een OCMW of een welzijnsvereniging, voor zover er voor die woning een van de volgende subsidies werd verleend:<br>
@@ -1391,13 +1392,13 @@ Aan de voorwaarde, vermeld in het eerste lid, 4°, is ook voldaan als de woning 
 
 ### ART 4.2.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§1. Op voorstel van de dienst die door de Vlaamse Regering belast is met het woonbeleid en na overleg met vertegenwoordigers van de sociale woonorganisaties en van de steden en gemeenten stelt de Vlaamse Regering normen en bouwtechnische en conceptuele richtlijnen vast voor de bouw, de renovatie, de verbetering en de aanpassing van sociale woningen en bescheiden huurwoningen en de aanleg of aanpassing van wooninfrastructuur voor sociale woonprojecten.</span></span></span><br>
+<p>§1. Op voorstel van de dienst die door de Vlaamse Regering belast is met het woonbeleid en na overleg met vertegenwoordigers van de sociale woonorganisaties en van de steden en gemeenten stelt de Vlaamse Regering normen en bouwtechnische en conceptuele richtlijnen vast voor de bouw, de renovatie, de verbetering en de aanpassing van sociale woningen en de aanleg of aanpassing van wooninfrastructuur voor sociale woonprojecten.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Op verzoek van een initiatiefnemer of op eigen initiatief brengt de dienst die door de Vlaamse Regering belast is met het woonbeleid een advies uit over het al dan niet overeenstemmen van verrichtingen die deel uitmaken van sociale woonprojecten met de normen en richtlijnen, vermeld in het eerste lid. Onder de voorwaarden en volgens de procedure die de Vlaamse Regering bepaalt, kan de dienst die door de Vlaamse Regering belast is met het woonbeleid op dossierniveau afwijkingen van de richtlijnen toestaan. </span></span></span><br>
+Op verzoek van een initiatiefnemer of op eigen initiatief brengt de dienst die door de Vlaamse Regering belast is met het woonbeleid een advies uit over het al dan niet overeenstemmen van verrichtingen die deel uitmaken van sociale woonprojecten met de normen en richtlijnen, vermeld in het eerste lid. Onder de voorwaarden en volgens de procedure die de Vlaamse Regering bepaalt, kan de dienst die door de Vlaamse Regering belast is met het woonbeleid op dossierniveau afwijkingen van de richtlijnen toestaan.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§2. Er wordt een kwaliteitskamer opgericht. De kwaliteitskamer neemt beslissingen over verzoeken om los van een concreet project afwijkingen toe te staan van de richtlijnen, vermeld in paragraaf 1, eerste lid, en over beroepen tegen ongunstige adviezen van de dienst die door de Vlaamse Regering belast is met het woonbeleid, overeenkomstig paragraaf 1, tweede lid. De Vlaamse Regering stelt de nadere regels vast voor de samenstelling, organisatie en werking van de kwaliteitskamer.<br>
+§2. Er wordt een kwaliteitskamer opgericht. De kwaliteitskamer neemt beslissingen over verzoeken om los van een concreet project afwijkingen toe te staan van de richtlijnen, vermeld in paragraaf 1, eerste lid, en over beroepen tegen ongunstige adviezen van de dienst die door de Vlaamse Regering belast is met het woonbeleid, overeenkomstig paragraaf 1, tweede lid. De Vlaamse Regering stelt de nadere regels vast voor de samenstelling, organisatie en werking van de kwaliteitskamer.<br>
 <br>
-§ 3. De dienst die door de Vlaamse Regering belast is met het woonbeleid beoordeelt de conformiteit met de voor de woonmaatschappijen geldende prijs- en kwaliteitsnormen van woningen die door private actoren worden opgericht in het kader van een koop-verkoopovereenkomst met een woonmaatschappij, die de woningen na de overname zal verhuren als sociale huurwoningen of overdragen als sociale koopwoningen.</span></span></span></p>
+§ 3. De dienst die door de Vlaamse Regering belast is met het woonbeleid beoordeelt de conformiteit met de voor de woonmaatschappijen geldende prijs- en kwaliteitsnormen van woningen die door private actoren worden opgericht in het kader van een koop-verkoopovereenkomst met een woonmaatschappij, die de woningen na de overname zal verhuren als sociale huurwoningen of overdragen als sociale koopwoningen.</p>
 
 ### ART 4.3.
 
@@ -1617,29 +1618,29 @@ In het geval, vermeld in paragraaf 1, 2°, neemt de woonmaatschappij die de huur
 
 ### ART 4.24.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Om doeleinden die te maken hebben met het sociaal woonaanbod, het bescheiden huuraanbod, of de realisatie van gemeenschapsvoorzieningen die een identificeerbare band hebben met nabijgelegen reeds bestaande of nog te realiseren sociale woningen, bedoeld in artikel 2.22, § 2, te realiseren kan de VMSW:</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">1° zakelijke rechten verwerven op alle onroerende goederen die nodig zijn voor de sociale huisvesting en voor de verwerving van onroerende goederen, of onroerende goederen huren;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">2° aan de initiatiefnemers, vermeld in artikel 4.13, financiële middelen voorschieten;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">3° gebouwen slopen en oprichten;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">4° gebouwen waarop ze een zakelijk of persoonlijk recht bezit, renoveren, verbeteren, aanpassen en inrichten en ze verhuren;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">5° de bouwverplichting opleggen aan woonbehoeftige gezinnen en alleenstaanden aan wie ze zakelijke rechten op onroerende goederen afstaat en aan hen erfdienstbaarheden opleggen om het uitzicht en de functionele inrichting van groepen van woningen te behouden;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">6° ...;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">7° overeenkomsten sluiten met betrekking tot onroerende goederen waarop of waarin woonprojecten in de privé-sector worden gerealiseerd, zoals vermeld in artikel 5.29;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">8° zakelijke rechten op onroerende goederen afstaan aan de entiteiten, vermeld in artikel 4.27, eerste lid.</span></span></span></p>
+<p>Om doeleinden die te maken hebben met het sociaal woonaanbod, het aanbod van geconventioneerde huurwoningen, of de realisatie van gemeenschapsvoorzieningen die een identificeerbare band hebben met nabijgelegen reeds bestaande of nog te realiseren sociale woningen, bedoeld in artikel 2.22, § 2, te realiseren kan de VMSW:<br>
+1° zakelijke rechten verwerven op alle onroerende goederen die nodig zijn voor de sociale huisvesting en voor de verwerving van onroerende goederen, of onroerende goederen huren;<br>
+2° aan de initiatiefnemers, vermeld in artikel 4.13, financiële middelen voorschieten;<br>
+3° gebouwen slopen en oprichten;<br>
+4° gebouwen waarop ze een zakelijk of persoonlijk recht bezit, renoveren, verbeteren, aanpassen en inrichten en ze verhuren;<br>
+5° de bouwverplichting opleggen aan woonbehoeftige gezinnen en alleenstaanden aan wie ze zakelijke rechten op onroerende goederen afstaat en aan hen erfdienstbaarheden opleggen om het uitzicht en de functionele inrichting van groepen van woningen te behouden;<br>
+6° ...;<br>
+7° overeenkomsten sluiten met betrekking tot onroerende goederen waarop of waarin woonprojecten in de privé-sector worden gerealiseerd, zoals vermeld in artikel 5.29;<br>
+8° zakelijke rechten op onroerende goederen afstaan aan de entiteiten, vermeld in artikel 4.27, eerste lid.</p>
 
 ### ART 4.25.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Onder de voorwaarden die de Vlaamse Regering bepaalt, kan de VMSW in het kader van haar opdracht, vermeld in artikel 4.17, eerste lid, 5°:</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">1° zakelijke rechten vestigen op alle onroerende goederen die nodig zijn om projecten te verwezenlijken waarbij een vermenging wordt gerealiseerd van enerzijds sociale huurwoningen, sociale koopwoningen of sociale kavels, en anderzijds:</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">a) huurwoningen, koopwoningen of kavels die gefinancierd worden door Vlabinvest apb;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">b) een bescheiden huuraanbod;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">c) studentenkamers;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">d) zorgvoorzieningen als vermeld in artikel 1.3, §1, eerste lid, 75°;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">e) woningen van de privésector;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">f) functiegebonden gebouwen van publieke en semipublieke rechtspersonen;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">2° de onroerende goederen, vermeld in 1°, huren;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">3° de onroerende goederen die ze zelf heeft verworven met toepassing van 1°, aan de woonmaatschappijen, aan Vlabinvest apb, of functiegebonden aan de initiatiefnemers van projecten als vermeld in 1° verkopen, er zakelijke rechten op afstaan of verhuren;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">4° leningen met rentevermindering toestaan aan de initiatiefnemers, vermeld in artikel 4.13,&nbsp;en aan Vlabinvest apb voor de verwerving van onroerende goederen, vermeld in 1°, voor de realisatie van sociale huurwoningen.</span></span></span></p>
+<p>Onder de voorwaarden die de Vlaamse Regering bepaalt, kan de VMSW in het kader van haar opdracht, vermeld in artikel 4.17, eerste lid, 5°:<br>
+1° zakelijke rechten vestigen op alle onroerende goederen die nodig zijn om projecten te verwezenlijken waarbij een vermenging wordt gerealiseerd van enerzijds sociale huurwoningen, sociale koopwoningen of sociale kavels, en anderzijds:<br>
+a) huurwoningen, koopwoningen of kavels die gefinancierd worden door Vlabinvest apb;<br>
+b) een aanbod van geconventioneerde huurwoningen;<br>
+c) studentenkamers;<br>
+d) zorgvoorzieningen als vermeld in artikel 1.3, §1, eerste lid, 75°;<br>
+e) woningen van de privésector;<br>
+f) functiegebonden gebouwen van publieke en semipublieke rechtspersonen;<br>
+2° de onroerende goederen, vermeld in 1°, huren;<br>
+3° de onroerende goederen die ze zelf heeft verworven met toepassing van 1°, aan de woonmaatschappijen, aan Vlabinvest apb, of functiegebonden aan de initiatiefnemers van projecten als vermeld in 1° verkopen, er zakelijke rechten op afstaan of verhuren;<br>
+4° leningen met rentevermindering toestaan aan de initiatiefnemers, vermeld in artikel 4.13,&nbsp;en aan Vlabinvest apb voor de verwerving van onroerende goederen, vermeld in 1°, voor de realisatie van sociale huurwoningen.</p>
 
 ### ART 4.26.
 
@@ -1649,14 +1650,14 @@ In het geval, vermeld in paragraaf 1, 2°, neemt de woonmaatschappij die de huur
 
 ### ART 4.27.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De VMSW verkoopt haar onroerende goederen openbaar. Ze kan ze enkel uit de hand verkopen aan:</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">1° de woonmaatschappijen;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">2° gemeenten, autonome gemeentebedrijven als vermeld in titel VII, hoofdstuk II, afdeling II, van het Gemeentedecreet van 15 juli 2005, intergemeentelijke samenwerkingsverbanden, het Vlaams Woningfonds, openbare centra voor maatschappelijk welzijn of welzijnsverenigingen, voor doeleinden die te maken hebben met sociaal woonaanbod, het bescheiden huuraanbod of de realisatie van gemeenschapsvoorzieningen die een identificeerbare band hebben met nabijgelegen reeds bestaande of nog te realiseren sociale woningen;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">3° initiatiefnemers van en partners in projecten als vermeld in artikel 4.25, 1°, onder de voorwaarden die de Vlaamse Regering bepaalt;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">4° andere personen, voor zover de onroerende goederen in kwestie niet meer van nut zijn voor huisvesting, en een openbare verkoop niet de venale waarde oplevert of de kosten van een openbare verkoop niet in verhouding staan tot de venale waarde en voor zover voldaan is aan de voorwaarden die de Vlaamse Regering bepaalt;</span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">5° Vlabinvest apb.</span></span></span><br>
+<p>De VMSW verkoopt haar onroerende goederen openbaar. Ze kan ze enkel uit de hand verkopen aan:<br>
+1° de woonmaatschappijen;<br>
+2° gemeenten, autonome gemeentebedrijven als vermeld in titel VII, hoofdstuk II, afdeling II, van het Gemeentedecreet van 15 juli 2005, intergemeentelijke samenwerkingsverbanden, het Vlaams Woningfonds, openbare centra voor maatschappelijk welzijn of welzijnsverenigingen, voor doeleinden die te maken hebben met sociaal woonaanbod, het aanbod van geconventioneerde huurwoningen of de realisatie van gemeenschapsvoorzieningen die een identificeerbare band hebben met nabijgelegen reeds bestaande of nog te realiseren sociale woningen;<br>
+3° initiatiefnemers van en partners in projecten als vermeld in artikel 4.25, 1°, onder de voorwaarden die de Vlaamse Regering bepaalt;<br>
+4° andere personen, voor zover de onroerende goederen in kwestie niet meer van nut zijn voor huisvesting, en een openbare verkoop niet de venale waarde oplevert of de kosten van een openbare verkoop niet in verhouding staan tot de venale waarde en voor zover voldaan is aan de voorwaarden die de Vlaamse Regering bepaalt;<br>
+5° Vlabinvest apb.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De VMSW kan haar administratieve gebouwen uit de hand verkopen, mits passende publiciteitsmaatregelen.</span></span></span></p>
+De VMSW kan haar administratieve gebouwen uit de hand verkopen, mits passende publiciteitsmaatregelen.</p>
 
 ### ART 4.28.
 
@@ -1851,8 +1852,63 @@ Een gedeelte van de sociale huurwoningen is aangepast aan de behoeften van grote
 
 ### ART 4.42.
 
-<p style="margin-left:0cm; margin-right:0cm">De woonmaatschappij kan ten belope van ten hoogste 20 procent van haar jaarlijkse investeringsvolume een bescheiden huuraanbod verwerven en verwezenlijken. Dat bescheiden huuraanbod wordt bij voorrang verhuurd aan woonbehoeftige gezinnen of alleenstaanden die zich tijdelijk in een bijzondere of moeilijke situatie bevinden. De woonmaatschappij hanteert gescheiden boekhoudingen voor haar taken met betrekking tot het bescheiden huuraanbod en haar taken met betrekking tot het sociaal woonaanbod. De middelen die voortkomen uit haar taken met betrekking tot het bescheiden huuraanbod worden opnieuw aangewend voor die taken of voor haar taken met betrekking tot het sociaal woonaanbod.<br>
-De Vlaamse Regering bakent de woonbehoeftigheidsvoorwaarde, vermeld in het eerste lid, af op basis van het inkomen en het onroerend bezit.</p>
+<p>§1. De woonmaatschappij kan een aanbod van geconventioneerde huurwoningen inhuren en verwerven van private initiatiefnemers als vermeld in artikel 5.52/1.<br>
+<br>
+De woonmaatschappij kan ook zelf ten belope van ten hoogste 20 procent van haar jaarlijkse investeringsvolume een aanbod van geconventioneerde huurwoningen realiseren. De Vlaamse Regering bepaalt de berekeningswijze. De woonmaatschappij hanteert gescheiden boekhoudingen voor haar taken met betrekking tot het aanbod van geconventioneerde huurwoningen en haar taken met betrekking tot het sociaal woonaanbod.<br>
+<br>
+§2. De Vlaamse Regering bepaalt de voorwaarden over de maximale huurprijs, de korting op de huurprijs, de inkomens- en eigendomsvoorwaarde waaraan de huurder voldoet, de wijze waarop gecontroleerd wordt of een huurder in aanmerking komt voor een geconventioneerde huurwoning en de voorwaarden waaronder een &nbsp;geconventioneerde huurwoning wordt verhuurd.<br>
+<br>
+Een geconventioneerde huurwoning wordt toegewezen na een projectgebonden oproep tot kandidaatstelling. De toewijzing gebeurt door het beslissingsorgaan van de woonmaatschappij of de persoon of personen die hij daartoe aanstelt, rekening houdend met:<br>
+1° de interesse van de kandidaat-huurder in een of meerdere woningen in het project;<br>
+2° de toewijzingsregels die de Vlaamse Regering vaststelt, waarbij ze rekening houdt met de bijzondere doelstellingen van het woonbeleid, vermeld in artikel 1.6, §2.<br>
+<br>
+§3. De Vlaamse Regering stelt voor de verhuur van de geconventioneerde huurwoningen een typeovereenkomst vast voor de huurders die in aanmerking komen voor een geconventioneerde huurwoning. Van de typehuurovereenkomsten kan alleen worden afgeweken in de gevallen die de Vlaamse Regering bepaalt.<br>
+<br>
+De typehuurovereenkomst, vermeld in het eerste lid, bevat minstens de volgende regelingen:<br>
+1°&nbsp;&nbsp; &nbsp;een regeling voor de duurtijd van de huurovereenkomst;<br>
+2°&nbsp;&nbsp; &nbsp;een regeling voor de opzegmogelijkheden van de huurder en de verhuurder.<br>
+<br>
+§4. De Vlaamse Regering kan, afhankelijk van de kredieten die daartoe op de begroting van het Vlaamse Gewest worden ingeschreven, een subsidie verlenen voor de realisatie van geconventioneerde huurwoningen en de aanleg of de aanpassing van infrastructuur, vermeld in artikel 5.23. De Vlaamse Regering legt de voorwaarden vast waaronder ze de subsidie verleent.</p>
+
+### ART 4.42/1.
+
+§1. Voor de verhuring van de geconventioneerde woningen, vermeld in artikel 4.42, worden persoonsgegevens verwerkt met als doel:<br>
+1° na te gaan of voldaan is aan de voorwaarden die de Vlaamse Regering vaststelt conform artikel 4.42;<br>
+2° de juridische afwikkeling van de huurovereenkomst verzekeren.<br>
+<br>
+§2. De verwerkingsverantwoordelijken zijn:<br>
+1° de dienst die door de Vlaamse Regering belast is met de uitvoering van het woonbeleid;<br>
+2° de woonmaatschappij.<br>
+<br>
+§3. Met toepassing van paragraaf 1 kunnen de volgende categorieën van persoonsgegevens verwerkt worden:<br>
+1° persoonlijke identificatiegegevens;<br>
+2° het rijksregisternummer en de identificatienummers van de sociale zekerheid;<br>
+3° persoonlijke kenmerken;<br>
+4° gezinssamenstelling;<br>
+5° gegevens over de lichamelijke of psychische gezondheid;<br>
+6° financiële bijzonderheden;<br>
+7° gegevens over onroerende rechten;<br>
+8° woningkenmerken.<br>
+<br>
+De gegevens betreffende de lichamelijke en psychische gezondheid van de aanvrager of zijn inwonende gezinsleden worden opgevraagd en verwerkt conform artikel 9, lid 2, g), van de algemene verordening gegevensbescherming. Deze gegevens worden opgevraagd en verwerkt om te bepalen of de aanvrager in aanmerking komt voor een geconventioneerde huurwoning. Alleen het statuut van de persoon kan worden opgevraagd en verwerkt.<br>
+<br>
+De Vlaamse Regering kan de categorieën van persoonsgegevens, vermeld in het eerste lid, nader omschrijven.<br>
+<br>
+§4. De betrokkenen bij de verwerking van persoonsgegevens zijn:<br>
+1° de aanvrager van een geconventioneerde huurwoning;<br>
+2° de gezinsleden van de aanvrager van een geconventioneerde huurwoning;<br>
+3° de huurder en zijn gezinsleden;<br>
+4° de ex-huurder.<br>
+<br>
+§5. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 1°, past op de verwerkte persoonsgegevens een bewaartermijn van tien jaar toe na de behandeling van het aanvraagdossier. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 2°, past op de verwerkte persoonsgegevens een bewaartermijn van tien jaar toe na het einde van de huurovereenkomst.<br>
+<br>
+§6. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 1°, kan de persoonsgegevens doorgeven aan de woonmaatschappijen en de private initiatiefnemer, vermeld in artikel 5.52/1, voor het sluiten van de huurovereenkomst. De verwerkingsverantwoordelijken kunnen de persoonsgegevens gebruiken voor statistische verwerking en kunnen ze ter beschikking stellen van andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking. De verwerkingsverantwoordelijken kunnen de persoonsgegevens ook doorgeven aan de toezichthouder, vermeld in artikel 4.79 van deze codex, om hem in staat te stellen het toezicht uit te oefenen.<br>
+&nbsp;<br>
+De Vlaamse Regering kan aanvullende entiteiten aanduiden waaraan persoonsgegevens voor specifiek omschreven doeleinden kunnen worden doorgegeven.<br>
+<br>
+§7. De verwerkingsverantwoordelijken verduidelijken in een privacyverklaring welke verwerkingen er gebeuren. Ze nemen met het oog op transparantie en de garantie van de rechten van betrokkenen in hun communicatie met de betrokkenen een verwijzing op naar de vindplaats van de privacyverklaring.<br>
+<br>
+§8. De dienst die door de Vlaamse Regering belast is met het woonbeleid, coördineert de elektronische gegevensstromen en elektronische informatie-uitwisseling tussen de diverse actoren, vermeld in dit artikel. Alle elektronische gegevens mogen in dat kader via de dienst die door de Vlaamse Regering belast is met het woonbeleid, uitgewisseld worden en kunnen door die dienst, die in dat geval verwerkingsverantwoordelijke is voor de opvraging en doorgifte, opgevraagd worden bij die gegevensbronnen. De dienst die door de Vlaamse Regering belast is met het woonbeleid, mag de gegevens ook gebruiken voor statistische verwerking en mag ze ter beschikking stellen van de andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking. De dienst die door de Vlaamse Regering belast is met het woonbeleid, kan de persoonsgegevens verder verwerken voor doeleinden als vermeld in artikel 1.5 die verenigbaar zijn met de oorspronkelijke doeleinden.
 
 ### ART 4.43.
 
@@ -1882,18 +1938,19 @@ De richtlijn 2014/17/EU van het Europees Parlement en de Raad van 4 februari 201
 
 ### ART 4.45.
 
-<p>§ 1. Om de doeleinden te realiseren die te maken hebben met het sociaal woonaanbod, het bescheiden huuraanbod, of de realisatie van gemeenschapsvoorzieningen die een identificeerbare band hebben met nabijgelegen reeds bestaande of nog te realiseren sociale woningen, kan de woonmaatschappij:<br>
+<p>§ 1. Om de doeleinden te realiseren die te maken hebben met het sociaal woonaanbod, het aanbod van geconventioneerde huurwoningen, of de realisatie van gemeenschapsvoorzieningen die een identificeerbare band hebben met nabijgelegen reeds bestaande of nog te realiseren sociale woningen, kan de woonmaatschappij:<br>
 1° zakelijke rechten verwerven op alle onroerende goederen die nodig zijn voor de sociale huisvesting en voor de verwerving van onroerende goederen, of onroerende goederen huren;<br>
 2° gebouwen slopen en oprichten;<br>
 3° gebouwen waarop ze een zakelijk of persoonlijk recht bezit, renoveren, verbeteren, aanpassen en inrichten en ze verhuren;<br>
 4° de bouwverplichting opleggen aan woonbehoeftige gezinnen en alleenstaanden aan wie ze zakelijke rechten op onroerende goederen afstaat en aan hen erfdienstbaarheden opleggen om het uitzicht en de functionele inrichting van groepen van woningen te behouden;<br>
 5° overeenkomsten sluiten met betrekking tot onroerende goederen waarop of waarin woonprojecten in de privésector worden gerealiseerd;<br>
-6° zakelijke rechten op onroerende goederen afstaan aan de entiteiten, vermeld in artikel 4.27, eerste lid.<br>
+6° zakelijke rechten op onroerende goederen afstaan aan de entiteiten, vermeld in artikel 4.27, eerste lid;<br>
+7° opstal- en erfpachtrechten op onroerende goederen verlenen aan private initiatiefnemers als vermeld in artikel 5.52/1 met het oog op de realisatie van huurwoningen door private initiatiefnemers als vermeld in boek 5, deel 2, titel 9.<br>
 <br>
 § 2. Onder de voorwaarden die de Vlaamse Regering bepaalt, kan de woonmaatschappij in het kader van de uitvoering van grondbeleidsmaatregelen die noodzakelijk worden geacht om in de door de Vlaamse Regering te bepalen gebieden een hoogwaardige woonkwaliteit te behouden of te bevorderen:<br>
 1° zakelijke rechten vestigen op alle onroerende goederen die nodig zijn om projecten te verwezenlijken waarbij een vermenging wordt gerealiseerd van enerzijds sociale huurwoningen, sociale koopwoningen of sociale kavels, en anderzijds:<br>
 a) huurwoningen, koopwoningen of kavels die gefinancierd worden door Vlabinvest apb;<br>
-b) een bescheiden huuraanbod;<br>
+b) een aanbod van geconventioneerde huurwoningen;<br>
 c) studentenkamers;<br>
 d) zorgvoorzieningen als vermeld in artikel 1.3, § 1, eerste lid, 75° ;<br>
 e) woningen van de privésector;<br>
@@ -1904,7 +1961,7 @@ f) functiegebonden gebouwen van publieke en semipublieke rechtspersonen;<br>
 § 3. De woonmaatschappij verkoopt haar onroerende goederen openbaar. Ze kan ze enkel uit de hand verkopen aan:<br>
 1° de woonmaatschappijen;<br>
 2° gezinnen of alleenstaanden, overeenkomstig artikel 5.91;<br>
-3° gemeenten, autonome gemeentebedrijven, intergemeentelijke samenwerkingsverbanden, het Vlaams Woningfonds, OCMW's of welzijnsverenigingen, voor doeleinden die te maken hebben met sociaal woonaanbod, het bescheiden huuraanbod of de realisatie van gemeenschapsvoorzieningen die een identificeerbare band hebben met nabijgelegen reeds bestaande of nog te realiseren sociale woningen;<br>
+3° gemeenten, autonome gemeentebedrijven, intergemeentelijke samenwerkingsverbanden, het Vlaams Woningfonds, OCMW's of welzijnsverenigingen, voor doeleinden die te maken hebben met sociaal woonaanbod of de realisatie van gemeenschapsvoorzieningen die een identificeerbare band hebben met nabijgelegen reeds bestaande of nog te realiseren sociale woningen;<br>
 4° initiatiefnemers van en partners in projecten als vermeld in paragraaf 2, 1°, onder de voorwaarden die de Vlaamse Regering bepaalt;<br>
 5° andere personen, voor zover de onroerende goederen in kwestie niet meer van nut zijn voor huisvesting, en een openbare verkoop niet de venale waarde oplevert of de kosten van een openbare verkoop niet in verhouding staan tot de venale waarde en voor zover voldaan is aan de voorwaarden die de Vlaamse Regering bepaalt;<br>
 6° Vlabinvest apb.<br>
@@ -2015,7 +2072,7 @@ De Vlaamse Regering kan bijkomende voorwaarden vaststellen voor het rekeningstel
 
 ### ART 4.48.
 
-<p style="margin-left:0cm; margin-right:0cm">Met behoud van de mogelijkheid om de eigen middelen aan te wenden of om een projectsubsidie aan te vragen conform boek 5, deel 2, titel 3, hoofdstuk 1, titel 4, hoofdstuk 1, titel 5 en titel 6, financieren de woonmaatschappijen de verrichtingen die uitdrukkelijk verband houden met hun opdrachten, vermeld in artikel 4.40, 1° tot en met 3°, 4.42, 4.43 en 4.44, met leningen die aangegaan zijn bij de VMSW of, onder de voorwaarden die de Vlaamse Regering bepaalt, bij derden. De Vlaamse Regering legt de voorwaarden voor het aangaan van leningen bij de VMSW vast in een algemeen reglement.<br>
+<p>Met behoud van de mogelijkheid om de eigen middelen aan te wenden of om een projectsubsidie aan te vragen conform boek 5, deel 2, titel 3, hoofdstuk 1, titel 4, hoofdstuk 1, titel 5 en titel 6, financieren de woonmaatschappijen de verrichtingen die uitdrukkelijk verband houden met hun opdrachten, vermeld in artikel 4.40, 1° tot en met 3°, 4.43 en 4.44, met leningen die aangegaan zijn bij de VMSW of, onder de voorwaarden die de Vlaamse Regering bepaalt, bij derden. De Vlaamse Regering legt de voorwaarden voor het aangaan van leningen bij de VMSW vast in een algemeen reglement.&nbsp;Voor de verrichtingen die uitdrukkelijk verband houden met hun opdrachten, vermeld in artikel 4.42, kunnen de woonmaatschappijen zowel de eigen middelen aanwenden als leningen aangaan bij de VMSW of, onder de voorwaarden die de Vlaamse Regering bepaalt, bij derden. De Vlaamse Regering legt de voorwaarden voor het aangaan van leningen bij de VMSW vast in een algemeen reglement.<br>
 <br>
 Als een woonmaatschappij een subsidie als vermeld in boek 5, deel 2, titel 3, hoofdstuk 1, titel 4, hoofdstuk 1, titel 5 en titel 6, ontvangt, kan de Vlaamse Regering bijzondere regels vaststellen om die subsidie geheel of gedeeltelijk te verrekenen in de kostprijs van de woningen of percelen die beschikbaar worden gesteld voor gezinnen. Die regeling kan zowel betrekking hebben op het woonproject of de wijk in kwestie, als op een deel of het geheel van het woningpatrimonium van de woonmaatschappij.<br>
 <br>
@@ -2834,6 +2891,75 @@ De sociale woonbeleidsconvenanten bewaken de verhouding die door het Ruimtelijk 
 
 ## [Titel 9. Huurwoningen gerealiseerd door een private initiatiefnemer (ing. decr. 21 april 2023, art. 46, I: 30 juni 2023)]
 
+### ART 5.52/1.
+
+In dit artikel wordt verstaan onder private initiatiefnemer: elke rechtspersoon of natuurlijke persoon met uitsluiting van een sociale woonorganisatie.<br>
+<br>
+Om het recht op wonen te bevorderen, kan de Vlaamse Regering, afhankelijk van de kredieten die daartoe op de begroting van het Vlaamse Gewest worden ingeschreven, een subsidie verstrekken aan private initiatiefnemers die kwaliteitsvolle en betaalbare huurwoningen realiseren die worden verhuurd als sociale huurwoning of als geconventioneerde huurwoning. Die subsidie kan zowel worden toegekend voor de realisatie van de huurwoningen als voor eventuele werken als vermeld in artikel 5.23 die gekoppeld zijn aan de realisatie van de woningen die worden verhuurd als sociale of als geconventioneerde huurwoning.<br>
+&nbsp;<br>
+De Vlaamse Regering stelt de subsidievoorwaarden vast en bepaalt minstens de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;de termijn waarvoor de private initiatiefnemer zich verbindt om de woning te verhuren en de korting, vermeld in punt 3°, toe te passen;<br>
+2°&nbsp;&nbsp; &nbsp;de minimale grootte van het project dat door de private initiatiefnemer wordt gerealiseerd;<br>
+3°&nbsp;&nbsp; &nbsp;de maximale huurprijs en een korting op de huurprijs;<br>
+4°&nbsp;&nbsp; &nbsp;de voorwaarden waaraan de private initiatiefnemer voldoet;<br>
+5°&nbsp;&nbsp; &nbsp;de voorwaarden waaronder de geconventioneerde huurwoning wordt verhuurd.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze waarop gecontroleerd wordt of een huurder in aanmerking komt voor een geconventioneerde huurwoning.<br>
+<br>
+Een geconventioneerde huurwoning wordt toegewezen na een projectgebonden oproep tot kandidaatstelling. De toewijzing gebeurt door het beslissingsorgaan van de private initiatiefnemer of de persoon of personen die hij daartoe aanstelt, of een gemeente, een Openbaar Centrum voor Maatschappelijk Welzijn, een vereniging zonder winstoogmerk of een instelling van openbaar nut waarop het Wetboek van vennootschappen en verenigingen van 23 maart 2019 van toepassing is, of een sociale onderneming voor zover ze erkend is volgens het Wetboek van vennoot- schappen en verenigingen van 23 maart 2019, of een autonoom gemeentebedrijf als vermeld in deel 2, titel 3, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur, rekening houdend met:<br>
+1° de interesse van de kandidaat-huurder in een of meerdere woningen in het project;<br>
+2° de toewijzingsregels die de Vlaamse Regering vaststelt, waarbij ze rekening houdt met de bijzondere doelstellingen van het woonbeleid, vermeld in artikel 1.6, §2.<br>
+<br>
+De private initiatiefnemer, een gemeente, een Openbaar Centrum voor Maatschappelijk Welzijn, een vereniging zonder winstoogmerk of een instelling van openbaar nut waarop het Wetboek van vennootschappen en verenigingen van 23 maart 2019 van toepassing is, of een sociale onderneming voor zover ze erkend is volgens het Wetboek van vennootschappen en verenigingen van 23 maart 2019, of een autonoom gemeentebedrijf als vermeld in deel 2, titel 3, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur gebruikt de typehuurovereenkomst, vermeld in 4.42, §3, als hij een geconventioneerde huurwoning verhuurt aan een huurder die in aanmerking komt voor een geconventioneerde huurwoning. De voorwaarden waaraan de huurder voldoet om in aanmerking te komen voor een geconventioneerde huurwoning zijn dezelfde als de voorwaarden die de Vlaamse Regering krachtens artikel 4.42, §2, bepaalt.<br>
+<br>
+De Vlaamse Regering bepaalt de typehuurovereenkomsten die worden gebruikt voor de verhuur van de geconventioneerde huurwoningen aan woonmaatschappijen, een gemeente, een Openbaar Centrum voor Maatschappelijk Welzijn, een vereniging zonder winstoogmerk of een instelling van openbaar nut waarop het Wetboek van vennootschappen en verenigingen van 23 maart 2019 van toepassing is, of een sociale onderneming voor zover ze erkend is volgens het Wetboek van vennootschappen en verenigingen van 23 maart 2019, of een autonoom gemeentebedrijf als vermeld in deel 2, titel 3, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur, waarbij minstens de volgende voorwaarden worden opgenomen:<br>
+1° &nbsp; een regeling voor de duurtijd van de huurovereenkomst;<br>
+2° een regeling voor de opzegmogelijkheden van de huurder en de verhuurder.<br>
+&nbsp;<br>
+De Vlaamse Regering bepaalt de sancties op de niet-naleving van de subsidievoorwaarden.<br>
+&nbsp;
+
+### ART 5.52/2.
+
+§1. Voor de verhuring van de geconventioneerde woningen, vermeld in artikel 5.52/1, worden persoonsgegevens verwerkt met als doel:<br>
+1° na te gaan of voldaan is aan de voorwaarden die de Vlaamse Regering vaststelt conform artikel 5.52/1;<br>
+2° de juridische afwikkeling van de huurovereenkomst verzekeren.<br>
+<br>
+§2. De verwerkingsverantwoordelijken zijn:<br>
+1° de dienst die door de Vlaamse Regering belast is met de uitvoering van het woonbeleid;<br>
+2° de private initiatiefnemer, vermeld in artikel 5.52/1;<br>
+3° een gemeente, een Openbaar Centrum voor Maatschappelijk Welzijn, een vereniging zonder winstoogmerk of een instelling van openbaar nut waarop het Wetboek van vennootschappen en verenigingen van 23 maart 2019 van toepassing, of een sociale onderneming voor zover ze erkend is volgens het Wetboek van vennootschappen en verenigingen van 23 maart 2019, of een autonoom gemeentebedrijf als vermeld in deel 2, titel 3, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur.<br>
+<br>
+§3. Met toepassing van paragraaf 1 kunnen de volgende categorieën van persoonsgegevens verwerkt worden:<br>
+1° persoonlijke identificatiegegevens;<br>
+2° het rijksregisternummer en de identificatienummers van de sociale zekerheid;<br>
+3° persoonlijke kenmerken;<br>
+4° gezinssamenstelling;<br>
+5° gegevens over de lichamelijke of psychische gezondheid;<br>
+6° financiële bijzonderheden;<br>
+7° gegevens over onroerende rechten;<br>
+8° woningkenmerken.<br>
+<br>
+De gegevens betreffende de lichamelijke en psychische gezondheid van de aanvrager of zijn inwonende gezinsleden wordt opgevraagd en verwerkt conform artikel 9, lid 2, g), van de algemene verordening gegevensbescherming. Deze gegevens worden opgevraagd en verwerkt om te bepalen of de aanvrager in aanmerking komt voor een geconventioneerde huurwoning. Alleen het statuut van de persoon kan worden opgevraagd en verwerkt.<br>
+<br>
+De Vlaamse Regering kan de categorieën van persoonsgegevens, vermeld in het eerste lid, nader omschrijven.<br>
+<br>
+§4. De betrokkenen bij de verwerking van persoonsgegevens zijn:<br>
+1° de aanvrager van een geconventioneerde huurwoning;<br>
+2° de gezinsleden van de aanvrager van een geconventioneerde huurwoning;<br>
+3° de huurder en zijn gezinsleden;<br>
+4° de ex-huurder.<br>
+<br>
+§5. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 1°, past op de verwerkte persoonsgegevens een bewaartermijn van tien jaar toe na de beslissing dat de aanvrager in aanmerking komt voor een geconventioneerde huurwoning. De verwerkingsverantwoordelijken, vermeld in paragraaf 2, 2° en 3°, passen op de verwerkte persoonsgegevens een bewaartermijn van tien jaar toe na het einde van de huurovereenkomst.<br>
+&nbsp;<br>
+§6. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 1°, kan de persoonsgegevens doorgeven aan de private initiatiefnemer, vermeld in artikel 5.52/1, de woonmaatschappij of een gemeente, een Openbaar Centrum voor Maatschappelijk Welzijn, een vereniging zonder winstoogmerk of een instelling van openbaar nut waarop het Wetboek van vennootschappen en verenigingen van 23 maart 2019 van toepassing, of een sociale onderneming voor zover ze erkend is volgens het Wetboek van vennootschappen en verenigingen van 23 maart 2019, of een autonoom gemeentebedrijf als vermeld in deel 2, titel 3, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur voor het sluiten van de huurovereenkomst. De verwerkingsverantwoordelijke, vermeld in paragraaf 2, 1°, kan de persoonsgegevens gebruiken voor statistische verwerking en kan ze ter beschikking stellen van andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking.<br>
+<br>
+De Vlaamse Regering kan aanvullende entiteiten aanduiden waaraan persoonsgegevens voor specifiek omschreven doeleinden kunnen worden doorgegeven.<br>
+<br>
+§7. De verwerkingsverantwoordelijken verduidelijken in een privacyverklaring welke verwerkingen er gebeuren. Ze nemen met het oog op transparantie en de garantie van de rechten van betrokkenen in hun communicatie met de betrokkenen een verwijzing op naar de vindplaats van de privacyverklaring.<br>
+<br>
+§8. De dienst die door de Vlaamse Regering belast is met het woonbeleid, coördineert de elektronische gegevensstromen en elektronische informatie-uitwisseling tussen de diverse actoren, vermeld in dit artikel. Alle elektronische gegevens mogen in dat kader via de dienst die door de Vlaamse Regering belast is met het woonbeleid, uitgewisseld worden en kunnen door die dienst, die in dat geval verwerkingsverantwoordelijke is voor de opvraging en doorgifte, opgevraagd worden bij die gegevensbronnen. De dienst die door de Vlaamse Regering belast is met het woonbeleid, mag de gegevens ook gebruiken voor statistische verwerking en mag ze ter beschikking stellen van de andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking. De dienst die door de Vlaamse Regering belast is met het woonbeleid, kan de persoonsgegevens verder verwerken voor doeleinden, vermeld in artikel 1.5, die verenigbaar zijn met de oorspronkelijke doeleinden.
+
 ## Deel 3. Subsidie voor woonwagenterreinen
 
 ### ART 5.53.
@@ -3626,57 +3752,15 @@ De Vlaamse Regering kan aanvullende entiteiten aanduiden waaraan persoonsgegeven
 
 ### ART 5.106.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§1. De Vlaamse Regering kan de voorwaarden en aanvullende regels voor de verhuring van het bescheiden woonaanbod door woonmaatschappijen bepalen.</span></span></span><br>
+<p>§1. ....<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Bij de toewijzing van een bescheiden huurwoning kunnen de woonmaatschappijen de toewijzing van een woning weigeren als zij vaststellen dat het inkomen van de kandidaat-huurder niet in verhouding staat tot de hoogte van de huurprijs. De Vlaamse Regering kan nadere regels bepalen op welke wijze de woonmaatschappijen dat kunnen toepassen.</span></span></span><br>
+§2. De gemeenteraden kunnen een gemeentelijk reglement Bescheiden Wonen vaststellen, met dezelfde rechtskracht en bindende waarde als een stedenbouwkundige verordening. Dat gemeentelijk reglement omvat kwaliteitsnormen voor het bescheiden woonaanbod en de woonomgeving.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">§2. De gemeenteraden kunnen een gemeentelijk reglement Bescheiden Wonen vaststellen, met dezelfde rechtskracht en bindende waarde als een stedenbouwkundige verordening. Dat gemeentelijk reglement omvat kwaliteitsnormen voor het bescheiden woonaanbod en de woonomgeving.</span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Het gemeentelijk reglement kan onderscheiden percentages bescheiden woonaanbod vastleggen voor de verwezenlijking van diverse typologieën van kavels en woningen die deel uitmaken van het bescheiden woonaanbod.</span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Het gemeentelijk reglement kan lokale toewijzingsregels voor de verhuring van een bescheiden woonaanbod door woonmaatschappijen omvatten die een aanvulling vormen op de toewijzingsregels die de Vlaamse Regering overeenkomstig paragraaf 1, eerste lid, vaststelt.</span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De lokale toewijzingsregels komen tot stand in overleg met de gemeente of binnen een intergemeentelijk samenwerkingsverband. De gemeente of het intergemeentelijk samenwerkingsverband legt de procedure van de totstandkoming vast. Ze betrekken bij de totstandkoming de relevante lokale actoren.</span></span></span><br>
-<br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">Bij ontstentenis van een gemeentelijk reglement met lokale toewijzingsregels voor de verhuring van een bescheiden woonaanbod door woonmaatschappijen gelden de door de Vlaamse Regering overeenkomstig paragraaf 1, eerste lid, vastgestelde toewijzingsregels.</span></span></span></p>
+Het gemeentelijk reglement kan onderscheiden percentages bescheiden woonaanbod vastleggen voor de verwezenlijking van diverse typologieën van kavels en woningen die deel uitmaken van het bescheiden woonaanbod.</p>
 
 ### ART 5.106/1.
 
-§ 1. Voor de toepassing van deze titel worden persoonsgegevens verwerkt met als doel:<br>
-1° na te gaan of voldaan is aan de voorwaarden en de verplichtingen die de Vlaamse Regering vaststelt conform artikel 5.106, § 1;<br>
-2° de juridische afwikkeling van de huurovereenkomst verzekeren.<br>
-<br>
-§ 2. De woonmaatschappij is de verwerkingsverantwoordelijke.<br>
-<br>
-§ 3. Met toepassing van paragraaf 1 kunnen de volgende categorieën van persoonsgegevens worden verwerkt:<br>
-1° identificatiegegevens;<br>
-2° persoonlijke kenmerken;<br>
-3° woningkenmerken;<br>
-4° rijksregisternummer en identificatienummer van de sociale zekerheid;<br>
-5° gezinssamenstelling;<br>
-6° [... (vernietigd bij arrest Grondwettelijk Hof van&nbsp; 15 juni 2023)];<br>
-7° [... (vernietigd bij arrest Grondwettelijk Hof van&nbsp; 15 juni 2023)];<br>
-8° [... (vernietigd bij arrest Grondwettelijk Hof van&nbsp; 15 juni 2023)];<br>
-9° [... (vernietigd bij arrest Grondwettelijk Hof van&nbsp; 15 juni 2023)].<br>
-<br>
-[... (vernietigd bij arrest Grondwettelijk Hof van&nbsp; 15 juni 2023)].<br>
-<br>
-§ 4. De betrokkenen bij de verwerking van persoonsgegevens zijn:<br>
-1° de kandidaat-huurder of zijn vertegenwoordiger;<br>
-2° de gezinsleden van de kandidaat-huurder;<br>
-3° de huurder of zijn vertegenwoordiger;<br>
-4° de bewoners;<br>
-5° de ex-huurder of zijn vertegenwoordiger.<br>
-<br>
-§ 5. Voor de verwerking van persoonsgegevens geldt een bewaartermijn van tien jaar na de schrapping van het inschrijvingsdossier van de kandidaat-huurder of na het einde van de huurovereenkomst.<br>
-<br>
-§ 6. De verwerkingsverantwoordelijke kan de persoonsgegevens gebruiken voor statistische verwerking en kan ze ter beschikking stellen van andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking. De verwerkingsverantwoordelijke kan de persoonsgegevens ook doorgeven aan de toezichthouder, vermeld in artikel 4.79 van deze codex, om hem in staat te stellen het toezicht uit te oefenen.<br>
-<br>
-§ 7. De verwerkingsverantwoordelijke verduidelijkt in een privacyverklaring welke verwerkingen er gebeuren. Hij neemt met het oog op transparantie en de garantie van de rechten van betrokkenen in zijn communicatie met de betrokkenen een verwijzing op naar de vindplaats van de privacyverklaring.<br>
-<br>
-§ 8. De dienst die door de Vlaamse Regering belast is met het woonbeleid, coördineert de elektronische gegevensstromen en elektronische informatie-uitwisseling tussen de diverse actoren, vermeld in dit artikel. Alle elektronische gegevens mogen in dat kader via de dienst die door de Vlaamse Regering belast is met het woonbeleid, uitgewisseld worden en kunnen door die dienst, die in dat geval verwerkingsverantwoordelijke is voor de opvraging<br>
-&nbsp;<br>
-en doorgifte, opgevraagd worden bij die gegevensbronnen. De dienst die door de Vlaamse Regering belast is met het woonbeleid, mag de gegevens ook gebruiken voor statistische verwerking en mag ze ter beschikking stellen van de andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking. De dienst die door de Vlaamse Regering belast is met het woonbeleid, kan de persoonsgegevens verder verwerken voor doeleinden, vermeld in artikel 1.5, die verenigbaar zijn met de oorspronkelijke doeleinden.
+...
 
 ## Deel 10. Activeringstoezicht
 
