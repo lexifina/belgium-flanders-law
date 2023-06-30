@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038336,
+  "title": "Ministerieel besluit van 2023-05-02 tot wijziging van het ministerieel besluit van 25 augustus 2016 betreffende de uitvoeringsbepalingen met betrekking tot de voorschriften voor fruitgewassen, de specifieke voorschriften waaraan leveranciers moeten voldoen, en de nadere voorschriften voor officiële inspecties en het ministerieel besluit van 23 februari 2018 tot vaststelling van de schema's met de voorwaarden waaraan teeltmateriaal van siergewassen moet voldoen, van de voorschriften voor het door de leverancier op te maken etiket of ander document en van de aanvullende uitvoeringsbepalingen voor de door de leverancier bij te houden lijsten van siergewassen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038336/VolledigDocument?datum=2023-06-30",
+  "source_sha256": "74811b059fe14dd0cb7fdd2cf06ff8193d2f748855b8e6be5049a7286ebeabe2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038336&param=informatie",
+  "as_of": "2023-06-30",
+  "made": "2023-05-02",
+  "gazette": "2023-05-26",
+  "numac": 2023042390,
+  "document_start": "2023-06-30",
+  "document_end": null,
+  "in_force": "2023-06-30",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2023-06-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
