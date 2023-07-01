@@ -223,7 +223,7 @@ De zelfstandige adoptant bezorgt de Vlaamse adoptieambtenaar, binnen vier   maan
 
 ### ART. 30.
 
-Het agentschap erkent&nbsp;maximaal drie&nbsp;adoptiediensten, overeenkomstig artikel 16 van het decreet van 20 januari 2012, voor een hernieuwbare periode van minimaal twee en maximaal vijf jaar, volgens de procedures, vermeld in hoofdstuk 8.
+Het agentschap erkent één adoptiedienst.
 
 ### ART. 31.
 
@@ -269,25 +269,21 @@ Om de kwaliteit van de dienstverlening te garanderen en te bestendigen   voldoen
 
 ### ART. 37.
 
-<p>§ 1. Binnen de marge van de begrotingskredieten bepaalt het agentschap de verdeling van de beschikbare middelen over de krachtens dit besluit erkende adoptiediensten.</p>
+<p>§ 1. ...</p>
 
-<p>Het agentschap houdt daarbij rekening met de bepalingen van artikel 75.</p>
-
-<p>§ 2. De erkende adoptiediensten ontvangen binnen het beschikbare begrotingskrediet jaarlijks een basissubsidie voor personeels- en werkingskosten van 323.380,94 euro (driehonderddrieëntwintigduizend driehonderdtachtig euro vierennegentig cent).<br>
+<p>§ 2. De erkende adoptiedienst ontvangt binnen het beschikbare begrotingskrediet jaarlijks een basissubsidie voor personeels- en werkingskosten van 704.230,37 euro.<br>
 <br>
 De basissubsidie wordt, binnen het jaarlijks beschikbaar begrotingskrediet, vermeerderd met:<br>
 1° 3000 euro per voorlopig goedgekeurd kanaal, vermeld in artikel 9, § 1, gedurende de eerste drie jaar na goedkeuring door het Vlaams Centrum voor Adoptie, op voorwaarde dat bij herkomstlanden waar een accreditatie vereist is, die ook verkregen is;<br>
 2° 6000 euro per herkomstland waarin een kanaal geopend is als vermeld in artikel 11 en waarmee een lopende samenwerking bestaat. Er is een lopende samenwerking als de adoptiedienst in de afgelopen drie jaar een kind heeft geplaatst bij kandidaat-adoptanten;<br>
-3° het subsidiebedrag, vermeld in punt 1°, vervalt als het voorlopig goedgekeurde kanaal geopend wordt als vermeld in artikel 11..</p>
+3° het subsidiebedrag, vermeld in punt 1°, vervalt als het voorlopig goedgekeurde kanaal geopend wordt als vermeld in artikel 11.<br>
+4° het subsidiebedrag van 231.230 euro voor het laagdrempelig ondersteuningsaanbod, vermeld in artikel 22, eerste lid.</p>
 
-<p>§ 3. De adoptiedienst die een subsidie bekomt, behoudt zijn recht op subsidie zolang hij erkend is door het agentschap en voldoet aan de subsidievoorschriften, vermeld in artikel 39 tot en met 45.</p>
+<p>§ 3. De adoptiedienst&nbsp;behoudt zijn recht op subsidie zolang hij erkend is door het agentschap en voldoet aan de subsidievoorschriften, vermeld in artikel 39 tot en met 45.</p>
 
 ### ART. 38.
 
-De verdeling van bijkomende middelen gebeurt door het agentschap op basis van volgende parameters :<br>
-1° elke erkende adoptiedienst ontvangt de bedragen, als vermeld in artikel 37, § 1, tweede lid;<br>
-2° als aan punt 1° voldaan wordt, ontvangt elke erkende adoptiedienst die nog geen subsidie ontvangen heeft, een basissubsidie, als vermeld in artikel 37, § 1, eerste lid;<br>
-3° als er onvoldoende middelen zijn om aan elke erkende adoptiedienst, de bedragen als vermeld in punt 1° of 2° toe te kennen, worden de bijkomende middelen gelijk verdeeld over de erkende adoptiediensten zonder subsidie.
+...
 
 ### ART. 39.
 
