@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038857,
+  "title": "Ministerieel besluit van 2023-07-18 tot delegatie van sommige bevoegdheden inzake financiën en begroting aan de secretaris-generaal van het Departement Financiën en Begroting",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038857/VolledigDocument?datum=2023-07-01",
+  "source_sha256": "7075ef5a9ac339488bf2cf6e1d7324fb898f3958491ddd789949b29b0b7ba89c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038857&param=informatie",
+  "as_of": "2023-07-01",
+  "made": "2023-07-18",
+  "gazette": "2023-10-25",
+  "numac": 2023046120,
+  "document_start": "2023-07-01",
+  "document_end": null,
+  "in_force": "2023-07-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2023-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
