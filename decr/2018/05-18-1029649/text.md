@@ -763,12 +763,18 @@ Het agentschap verwerkt de volgende persoonsgegevens conform het eerste lid:<br>
 <br>
 De Vlaamse Regering bepaalt per commissie, vermeld in het eerste lid, welke persoonsgegevens van de leden, vermeld in het tweede lid, worden verwerkt en kan die gegevens nader specificeren.<br>
 <br>
-§ 3/2. Het agentschap kan persoonsgegevens verwerken over de medewerkers die ingezet worden in de zorgvoorzieningen en de zelfstandigen die zorg verlenen in de zorgvoorzieningen. Die gegevens zijn noodzakelijk om de sociale akkoorden uit te voeren en om de financiering die toekomt aan de zorgvoorzieningen te berekenen. De Vlaamse Regering bepaalt welke gegevens worden verwerkt.<br>
+§3/2. Het agentschap kan de identificatiegegevens, opleidingsgegevens en tewerkstellingsgegevens verwerken van de medewerkers die ingezet worden in de zorgvoorzieningen en van de zelfstandigen die met een ondernemingscontract aan de zorgvoorziening verbonden zijn en die worden ingeschakeld in de werking van de zorgvoorzieningen. Die gegevens zijn noodzakelijk om:<br>
+1° &nbsp; de sociale akkoorden uit te voeren;<br>
+2° &nbsp; de financiering die toekomt aan de zorgvoorzieningen, te berekenen;<br>
+3° passende maatregelen te kunnen nemen die een kwalitatieve zorg en ondersteuning in de zorgvoorziening garanderen;<br>
+4° de overheidsfinanciering op een onderbouwde basis gericht te kunnen inzetten.<br>
+<br>
+De Vlaamse Regering specificeert per doeleinde welke identificatie-, opleidings- of tewerkstellingsgegevens worden verwerkt.<br>
 <br>
 Als dat noodzakelijk is, vraagt het agentschap de gegevens, vermeld in het eerste lid, aan de zorgvoorzieningen in kwestie.<br>
 <br>
 § 4. De verwerkingsverantwoordelijken in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming zijn:<br>
-1° het agentschap, voor de verwerking van persoonsgegevens van gebruikers in het kader van de controles op indicatiestellingen en de aansturing van die controles, in het kader van de behandeling van de administratieve beroepen tegen beslissingen van de zorgkas, met het oog op de uitvoering van de opdrachten van de Expertencommissie, met het oog op de uitvoering van de opdrachten van de Bijzondere Technische Commissie en voor het beheer van de databank, vermeld in artikel 70, voor de verwerking van persoonsgegevens van leden van de Zorgkassencommissie, de Expertencommissie, de sectorale adviescommissies, de Adviescommissie Mobiliteitshulpmiddelen en de Bijzondere Technische Commissie en voor de verwerking van persoonsgegevens van medewerkers die ingezet worden in de zorgvoorzieningen en de zelfstandigen die zorg verlenen in de zorgvoorzieningen;<br>
+1° het agentschap, voor de verwerking van persoonsgegevens van gebruikers in het kader van de controles op indicatiestellingen en de aansturing van die controles, in het kader van de behandeling van de administratieve beroepen tegen beslissingen van de zorgkas, met het oog op de uitvoering van de opdrachten van de Expertencommissie, met het oog op de uitvoering van de opdrachten van de Bijzondere Technische Commissie en voor het beheer van de databank, vermeld in artikel 70, voor de verwerking van persoonsgegevens van leden van de Zorgkassencommissie, de Expertencommissie, de sectorale adviescommissies, de Adviescommissie Mobiliteitshulpmiddelen en de Bijzondere Technische Commissie en voor de verwerking van persoonsgegevens van medewerkers die ingezet worden in de zorgvoorzieningen en de zelfstandigen die met een ondernemingscontract aan de zorgvoorziening verbonden zijn en die worden ingeschakeld in de werking van de zorgvoorzieningen;<br>
 2° de zorgkassen, voor de verwerking van indicatiestellingen , voor de verwerking van persoonsgegevens van gebruikers in het kader van hun opdrachten, vermeld in artikel 22, en voor de doorgifte van persoonsgegevens conform artikel 46/1;<br>
 3° het agentschap en de zorgkassen, voor de verwerking van persoonsgegevens&nbsp;van gebruikers in het kader van het digitaal platform Vlaamse Sociale Bescherming en de gemeenschappelijke applicaties Vlaamse sociale bescherming, vermeld in artikel 28;<br>
 4° de zorgvoorzieningen, de deelnemers aan het multidisciplinair overleg en de verstrekkers van mobiliteitshulpmiddelen, voor de verwerking van persoonsgegevens&nbsp;van gebruikers in het kader van hun zorgrelatie met de gebruiker.<br>
@@ -830,7 +836,7 @@ In de gevallen bepaald door de Vlaamse Regering gebruiken het agentschap, de zor
 <br>
 In de gevallen die de Vlaamse Regering bepaalt, gebruikt het agentschap het rijksregisternummer van de volgende personen:<br>
 1° de medewerkers die ingezet worden in de zorgvoorzieningen;<br>
-2° de zelfstandigen die zorg verlenen in de zorgvoorzieningen;<br>
+2° de zelfstandigen die met een ondernemingscontract aan de zorgvoorziening verbonden zijn en die worden ingeschakeld in de werking van de zorgvoorzieningen;<br>
 3° de leden van de Zorgkassencommissie;<br>
 4° de leden van de Expertencommissie;<br>
 5° de leden van de Bijzondere Technische Commissie, vermeld in artikel 133;<br>
