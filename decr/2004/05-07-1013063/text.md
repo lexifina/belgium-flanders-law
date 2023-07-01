@@ -72,6 +72,7 @@ Voor de gegevensuitwisseling gebruiken de VDAB en de dienstverleners, vermeld in
 
 § 1. In dit artikel wordt verstaan onder:<br>
 1° activeren: acties ondernemen om werk te verkrijgen of te behouden of stappen zetten richting werk in het kader van een duurzame loopbaan. Dat omvat ook acties om de personen te bereiken die behoren tot de doel- groep, vermeld in paragraaf 1/1, 12° en 13° ;<br>
+1° /1 persoon met een arbeidsbeperking: de persoon met een arbeidsbeperking, vermeld in artikel 2, 9°, van het decreet van 14 januari 2022 betreffende maatwerk bij individuele inschakeling;<br>
 2° regisseur: de instantie die op permanente wijze voor een uniform referentiekader zorgt om de opdrachten, vermeld in paragraaf 1/1, 12°, 13° en 14°, te kunnen uitvoeren.<br>
 <br>
 § 1/1. Teneinde de in artikel 4 bedoelde missie waar te maken, vervult de VDAB de volgende taken:<br>
@@ -112,9 +113,9 @@ e) het toekennen van tegemoetkomingen voor stages, met inbegrip van stage-uitker
 <br>
 4° taken inzake de evenredige participatie op de arbeidsmarkt in het algemeen: het bijdragen tot de tenuitvoerlegging van het Vlaams werkgelegenheidsbeleid als bedoeld in artikel 2, 12°, van het decreet van 8 mei 2002 en zulks op een dermate wijze dat gestreefd wordt naar de verwezenlijking van de doelstellingen die in artikel 5 van het decreet van 8 mei 2002 zijn vooropgesteld;<br>
 <br>
-5° taken voor de integratie van&nbsp;personen met een arbeidshandicap en doelgroepwerknemers in het bijzonder :<br>
-a) de toekenning van tegemoetkomingen ter ondersteuning van de inschakeling op de arbeidsmarkt van de personen met een arbeidshandicap en doelgroepwerknemers. De Vlaamse Regering bepaalt de aard van de tegemoetkomingen, de procedure die wordt gehanteerd en de bijkomende voorwaarden waaraan de&nbsp;personen met een arbeidshandicap en doelgroepwerknemers moeten voldoen;<br>
-b) de verzorging van de trajectbegeleiding, de beroepsoriëntering, de competentieontwikkeling en de verlening van toegang tot de gesubsidieerde tewerkstelling in de maatwerkbedrijven en de maatwerkafdelingen;<br>
+5° taken voor de integratie van personen met een arbeidshandicap, doelgroepwerknemers en personen met een arbeidsbeperking in het bijzonder :<br>
+a) de toekenning van tegemoetkomingen ter ondersteuning van de inschakeling op de arbeidsmarkt van de personen met een arbeidshandicap, doelgroepwerknemers en personen met een arbeidsbeperking. De Vlaamse Regering bepaalt de aard van de tegemoetkomingen, de procedure die wordt gehanteerd en de bijkomende voorwaarden waaraan depersonen met een arbeidshandicap, doelgroepwerknemers en personen met een arbeidsbeperking moeten voldoen;<br>
+b) de verzorging van de trajectbegeleiding, de beroepsoriëntering, de competentieontwikkeling en de verlening van toegang tot de gesubsidieerde tewerkstelling in de maatwerkbedrijven;<br>
 c) de erkenning en subsidiëring van organisaties die instaan voor het verzorgen van de trajectbegeleiding, de beroepsoriëntering en de competentieontwikkeling;<br>
 <br>
 6° taak inzake het statuut van de werkzoekende:<br>
