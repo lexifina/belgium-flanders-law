@@ -103,7 +103,7 @@ Als de hoogste steunintensiteit of het hoogste steunbedrag, vermeld in artikelen
 <br>
 De minister bepaalt de methodiek die het departement hanteert zowel voor de becijfering van de op jaarbasis gemiddeld twintig voltijds equivalenten van tewerkgestelde doelgroepwerknemers als voor de becijfering van het totale werknemersbestand van het maatwerkbedrijf.<br>
 <br>
-§ 2. Het startende maatwerkbedrijf voldoet binnen twee jaar vanaf de datum van de toekenning van het contingent van de werkondersteunende maatregelen, vermeld in artikel 30, aan de voorwaarden, vermeld in paragraaf 1, eerste lid.
+§ 2. Het startende maatwerkbedrijf voldoet binnen vier jaar vanaf de datum van de toekenning van het contingent van de werkondersteunende maatregelen, vermeld in artikel 30, aan de voorwaarden, vermeld in paragraaf 1, eerste lid.
 
 ### ART 3.
 
@@ -609,6 +609,35 @@ Het maatwerkbedrijf toont de impact aan van de steun voor de organisatieonderste
 Het recht op de steun voor de werkondersteunende maatregelen is begrensd tot het toegekende contingent aan werkondersteunende maatregelen, uitgedrukt in voltijdsequivalenten voor de werkondersteunende maatregelen.<br>
 <br>
 De invulling van het contingent wordt gemeten aan de hand van de contractuele prestatiebreuk voor alle doelgroepwerknemers die loonkosten genereren, waarbij de doelgroepwerknemers met de hoogste ondersteuningsbehoefte als eerste in aanmerking worden genomen, gevolgd door de doelgroepwerknemers met de hoogste contractuele prestatiebreuk.
+
+### ART 57/1.
+
+Voor de wedertewerkstelling, vermeld in artikel 22, tweede lid, van het decreet van 12 juli 2013, gelden al de volgende voorwaarden:<br>
+1° de VDAB evalueert de doelgroepwerknemer en beoordeelt zijn kansen op doorstroom naar een reguliere arbeidsomgeving als gunstig;<br>
+2° de arbeidsovereenkomst van de persoon die is doorgestroomd, wordt beëindigd binnen een termijn van maximaal achttien maanden vanaf de startdatum van zijn reguliere tewerkstelling om een reden die vreemd is aan zijn wil, in een van de volgende gevallen:<br>
+a) ondanks de redelijke aanpassingen op de werkvloer en de tegemoetkoming van werkondersteunende maatregelen conform het decreet van 14 januari 2022 is de tewerkstelling in de reguliere arbeidsomgeving niet langer mogelijk om een van de volgende redenen:<br>
+1) een wijziging in de reguliere arbeidsomgeving;<br>
+2) een wijziging van de functievereisten van de tewerkstelling;<br>
+3) een gewijzigde gezondheidsreden;<br>
+4) een wijziging van de sociale situatie van de persoon;<br>
+b) de arbeidsovereenkomst van de persoon wordt binnen achttien maanden na zijn indiensttreding niet verlengd;<br>
+c) de werkgever beëindigt de arbeidsovereenkomst van de persoon binnen achttien maanden na de indiensttreding.
+
+### ART 57/2.
+
+Het maatwerkbedrijf dient een aanvraag in bij het departement voor de wedertewerkstelling van de persoon, vermeld in artikel 57/1.
+
+### ART 57/3.
+
+Met behoud van de toepassing van artikel 57/1 kan de minister voor een periode van twaalf maanden bijkomende werkondersteunende en organisatieondersteunende maatregelen toekennen aan het maatwerkbedrijf dat wedertewerkstellingen realiseert.<br>
+<br>
+Het bijkomende contingent wordt naar rato van de contractuele prestatiebreuk van de wedertewerkgestelde doelgroepwerknemer verrekend en toegekend aan het maatwerkbedrijf, waarbij de invulling van het toegekende contingent in het laatst afgerekende kwartaal meer dan 99% bedraagt.<br>
+<br>
+De minister kan op verzoek van het maatwerkbedrijf de periode van toekenning van een bijkomend contingent eenmalig verlengen voor een nieuwe periode van twaalf maanden als de invulling van het contingent over de periode van de vier laatst afgerekende kwartalen meer dan 99% bedraagt.<br>
+<br>
+De invulling van het toegekende contingent wordt bepaald aan de hand van de contractuele prestatiebreuk van alle doelgroepwerknemers met loonkosten in het kwartaal in kwestie, waarbij doelgroepwerknemers met loonkosten die niet rechtstreeks verband houden met de prestaties die in het kwartaal geleverd zijn, worden uitgesloten.<br>
+<br>
+De minister kan de procedurevoorwaarden voor de toekenning nader bepalen.
 
 ### ART 58.
 
