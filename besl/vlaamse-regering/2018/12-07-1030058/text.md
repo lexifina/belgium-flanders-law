@@ -63,7 +63,9 @@ De omschrijving van de kwalificaties, vermeld in het eerste lid, 2° verwijst na
 <br>
 Bij een exploitatietransfer vanuit een openbare dienst, wordt het gedetacheerde statutaire personeel dat op het moment van de overdracht van de exploitatie opgenomen is in een lijst, gelijkgesteld aan eigen loontrekkend of statutair personeel, als de volgende gegevens aan de administratie worden bezorgd:<br>
 1° de exhaustieve lijst met namen van de statutaire personeelsleden in kwestie, hun kwalificatie en hun wekelijkse arbeidsduur, waarbij een kopie van de beslissing van hun aanstelling is gevoegd. Die lijst moet worden ondertekend door de openbare dienst én door de verantwoordelijke van de voorziening en aan de administratie worden bezorgd binnen een maand na de exploitatietransfer. Aan die lijst kunnen nadien geen personen worden toegevoegd. De wekelijkse arbeidsduur van de personen kan wel worden verhoogd en hun kwalificatie kan worden aangepast. De voormelde wijzigingen hebben voor de berekening van de tegemoetkoming pas uitwerking op de dag van de wijziging;<br>
-2° als de administratie erom vraagt, alle andere bijkomende informatie over de exploitatietransfer en de rol van de openbare dienst.
+2° als de administratie erom vraagt, alle andere bijkomende informatie over de exploitatietransfer en de rol van de openbare dienst.<br>
+<br>
+Personeelsleden die vanuit een openbare dienst ter beschikking worden gesteld aan een woonzorgcentrum, in voorkomend geval met bijbehorend centrum voor kortverblijf, of een centrum voor dagverzorging, worden gelijkgesteld aan de eigen personeelsleden, vermeld in het eerste lid, 2°, op voorwaarde dat er een overeenkomst is gesloten tussen enerzijds het woonzorgcentrum, in voorkomend geval met bijbehorend centrum voor kortverblijf, of het centrum voor dagverzorging waaraan het personeel ter beschikking gesteld wordt en anderzijds de openbare dienst.
 
 ### ART 3.
 
@@ -149,15 +151,17 @@ d) als de administratie erom verzoekt, een afschrift van de arbeidsovereenkomst 
 e) als de administratie erom verzoekt, een kopie van de RSZ-aangifte waarin het personeelsbestand is opgenomen;<br>
 f) als de administratie erom verzoekt, het bewijs dat de voordelen, vermeld in artikel 3 van dit besluit, worden toegepast.<br>
 <br>
-§ 2. Elke voorziening moet elk trimester de gegevens, vermeld in paragraaf 1, via de elektronische vragenlijst die de administratie ter beschikking stelt, invullen of bijwerken, uiterlijk op het einde van het trimester dat volgt op het trimester waarop de gegevens betrekking hebben.<br>
+§ 2. De voorziening bezorgt aan de administratie over ieder trimester een elektronisch ingevulde vragenlijst waarvan de administratie het model bepaalt.<br>
 <br>
 De voorziening is verplicht om de voorlopige tegemoetkomingen, vermeld in artikel 8, die eventueel te veel betaald zijn, terug te storten aan de administratie als blijkt dat ze op geen andere wijze gerecupereerd kunne worden.<br>
-<br>
-Op 30 september nadat de referentieperiode is afgelopen, gaat de administratie na of voor alle trimesters de elektronische vragenlijst is bezorgd. Als de gegevens, vermeld in paragraaf 1, op 16 oktober nog altijd niet zijn bezorgd, kan de administratie de terugbetaling eisen van de voorlopige tegemoetkomingen, vermeld in artikel 8.<br>
 <br>
 § 3. De administratie kan jaarlijks de gegevens die meegedeeld zijn in de elektronisch ingevulde vragenlijst, vermeld in paragraaf 2, controleren door de gegevens te vergelijken met de authentieke bronnen van de bevoegde overheidsdiensten die daarvoor beschikbaar zijn. Als de administratie dat nodig acht, kan het bijkomende informatie opvragen bij de voorziening.<br>
 <br>
 Als de administratie in het kader van de controles, vermeld in het eerste lid, vaststelt dat er foutieve gegevens meegedeeld zijn in de laatst afgelopen referentieperiode, kan de administratie de gegevens die de voorziening via de elektronische vragenlijst bezorgd heeft, nadat het informatie ingewonnen heeft bij de voorziening, aanpassen op basis van de reële gegevens voor de referentieperiode. Op basis van de reële gegevens wordt de tegemoetkoming herberekend.
+
+### ART 5/2.
+
+Bij de eindafrekening van de maatregel vrijstelling van arbeidsprestaties op basis van de referentieperiode die loopt van 1 juli 2023 tot en met 30 juni 2024, wordt geen financiële vermindering toegepast als de voorziening na de definitieve berekening uitzonderlijk en eenmalig de gegevens in de vragenlijst, vermeld in artikel 5, §1, laat wijzigen.
 
 ### ART 6.
 
@@ -214,15 +218,25 @@ In afwijking van artikel 6, § 2, wordt de tegemoetkoming begrensd tot 13 uur pe
 
 § 1. De bedragen van de voorlopige tegemoetkomingen per personeelslid, hierna voorschotten te noemen, en de bedragen van de definitieve tegemoetkomingen per personeelslid, worden door de administratie meegedeeld aan de voorziening en worden gestort op de financiële rekening die de voorziening doorgeeft aan de administratie.<br>
 <br>
-Voor de voorzieningen die de voorwaarden, vermeld in artikel 5, § 2, naleven, worden de voorschotten en de definitieve tegemoetkomingen op de volgende wijze geregeld:<br>
-1° het voorschot van 31 januari, 30 april, 31 juli en 31 oktober van het jaar J is gelijk aan: 1/4 x (bedrag van de definitieve tegemoetkoming voor het derde en vierde trimester van het jaar J-2 en het eerste en tweede trimester van het jaar J-1 x 1,02). De voorschotten van 31 januari en 30 april worden betaald in januari. De voorschotten van 31 juli en 31 oktober worden samen met het eventueel resterende verschil, vermeld in paragraaf 2, betaald in juli;<br>
-2° vervolgens wordt het verschil tussen de tegemoetkomingen voor de laatste twee trimesters van het jaar J en de eerste twee trimesters van het jaar J + 1, en de voorschotten voor diezelfde trimesters, betaald in januari van het jaar J+2.<br>
+Voor de voorzieningen die de voorwaarden, vermeld in artikel 5, §2, naleven, worden de voorschotten en de definitieve tegemoetkomingen op de volgende wijze geregeld:<br>
+1°&nbsp;&nbsp; &nbsp;het voorschot van 31 januari en 31 juli van het jaar J is gelijk aan: 1/2 x (bedrag van de definitieve tegemoetkoming voor het derde en vierde trimester van het jaar J-2 en het eerste en tweede trimester van het jaar J-1 x 1,02). Het voorschot van 31 januari wordt betaald in januari. Het voorschot van 31 juli wordt samen met het eventueel resterende verschil, vermeld in paragraaf 2, betaald in juli;<br>
+2°&nbsp;&nbsp; &nbsp;vervolgens wordt het verschil tussen de tegemoetkomingen voor de laatste twee trimesters van het jaar J en de eerste twee trimesters van het jaar J + 1, en de voorschotten voor diezelfde trimesters betaald in januari van het jaar J+2.<br>
 <br>
-§ 2. Als een voorziening te veel voorschotten heeft ontvangen, en als de terugvordering via de volgende vier voorschotten niet mogelijk is, wordt het saldo door de voorziening teruggestort aan de administratie vóór het einde van de maand die volgt op de maand waarin de administratie het terug te vorderen bedrag aan de voorziening heeft meegedeeld. Dat bedrag kan eventueel worden teruggevorderd via een compensatie op de bedragen die de administratie in de loop van datzelfde jaar verschuldigd is aan de voorziening met toepassing van hoofdstuk 3.<br>
+§ 2. Als een voorziening te veel voorschotten heeft ontvangen, en als de terugvordering via de volgende twee voorschotten niet mogelijk is, wordt het saldo door de voorziening teruggestort aan de administratie vóór het einde van de maand die volgt op de maand waarin de administratie het terug te vorderen bedrag aan de voorziening heeft meegedeeld. Dat bedrag kan eventueel worden teruggevorderd via een compensatie op de bedragen die de administratie in de loop van datzelfde jaar verschuldigd is aan de voorziening met toepassing van hoofdstuk 3.<br>
 <br>
 § 3. Als de voorziening de gegevens, vermeld in artikel 5, heeft meegedeeld, kan de voorziening die gegevens nog wijzigen tot dertig dagen na de dag waarop de voorziening van de administratie de berekening heeft ontvangen. de administratie bezorgt de berekening aan de voorziening tussen 16 oktober en 31 oktober.<br>
 <br>
-In afwijking van het eerste lid, zijn aanvullende gegevens of correcties van gegevens die eerder zijn meegedeeld over de periode van 1 juli 2017 tot en met 30 juni 2018 nog ontvankelijk tot 10 januari 2019.
+In afwijking van het eerste lid, zijn aanvullende gegevens of correcties van gegevens die eerder zijn meegedeeld over de periode van 1 juli 2017 tot en met 30 juni 2018 nog ontvankelijk tot 10 januari 2019.<br>
+<br>
+In afwijking van het eerste lid geldt voor het meedelen van de gegevens voor de referentieperiode van 1 juli 2023 tot en met 30 juni 2024:<br>
+1°&nbsp;&nbsp; &nbsp;op 30 september 2024 gaat de administratie na of voor alle trimesters de elektronische vragenlijst, vermeld in artikel 5, §2, eerste lid, is ingediend. Uiterlijk op 7 oktober 2024 verstuurt de administratie een laatste herinnering aan de voorzieningen die geen elektronische vragenlijst, vermeld in artikel 5, §2, van dit besluit, voor een of meer trimesters hebben ingediend;<br>
+2°&nbsp;&nbsp; &nbsp;voor trimesters waarvoor op 16 oktober 2024 geen elektronische vragenlijst, vermeld in artikel 5, §2, van dit besluit, is ingediend, dient de administratie de elektronische vragenlijsten in;<br>
+3°&nbsp;&nbsp; &nbsp;vanaf 16 oktober 2024 bezorgt de administratie de voorlopige berekening van de bedragen van de definitieve tegemoetkomingen per personeelslid, vermeld paragraaf 1, eerste lid;<br>
+4°&nbsp;&nbsp; &nbsp;de voorziening kan aansluitend de gegevens wijzigen tot en met dertig dagen na de dag waarop ze de bedragen, vermeld in punt 3°, heeft ontvangen van de administratie;<br>
+5°&nbsp;&nbsp; &nbsp;de definitieve berekening van de bedragen van de definitieve tegemoetkomingen per personeelslid, vermeld in paragraaf 1, eerste lid wordt door de administratie bezorgd vanaf de eenendertigste dag die volgt op de voorlopige berekening, vermeld in punt 3°;<br>
+6°&nbsp;&nbsp; &nbsp;een voorziening kan tot en met twintig dagen na de dag waarop ze de definitieve berekening, vermeld in punt 5°, heeft ontvangen van de administratie, uitzonderlijk en eenmalig de gegevens laten wijzigen met het oog op een wijziging van de bedragen, vermeld in paragraaf 1, eerste lid, door de administratie. Als de voorziening gebruikmaakt van die mogelijkheid, wordt er op de bedragen van de definitieve tegemoetkomingen per personeelslid, vermeld in paragraaf 1, eerste lid, na de uitzonderlijke en eenmalige herberekening, een bedrag in mindering gebracht. Dat in mindering te brengen bedrag is gelijk aan 6,25% van het verschil tussen het bedrag na de uitzonderlijke en eenmalige herberekening en het bedrag na de voorgaande definitieve berekening vermeld in punt 5°. Als het verschil een negatief bedrag is, wordt het verschil herleid naar nul;<br>
+7°&nbsp;&nbsp; &nbsp;als een voorziening de gegevens uitzonderlijk en eenmalig laat wijzigen, met het oog op een wijziging van de bedragen, vermeld in paragraaf 1, eerste lid, door de administratie én een wijziging van de basistegemoetkoming voor zorg conform artikel 454, achtste lid, en artikel 456, §2, achtste lid, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, wordt alleen het bedrag van de basistegemoetkoming voor zorg verminderd conform artikel 454, tiende lid, en artikel 456, §2, tiende lid, van het voormelde besluit. De bedragen van de definitieve tegemoetkomingen per personeelslid, vermeld in paragraaf 1, eerste lid, worden in dat geval niet verminderd;<br>
+8°&nbsp;&nbsp; &nbsp;als de gegevens, vermeld in artikel 5, §1, eerste lid, op de eenentwintigste dag na de dag waarop de voorziening de definitieve berekening, vermeld in punt 5°, heeft ontvangen, nog altijd niet zijn bezorgd, kan de administratie de terugbetaling eisen van de voorlopige tegemoetkomingen, vermeld in paragraaf 1, eerste lid.
 
 ### ART 9.
 
