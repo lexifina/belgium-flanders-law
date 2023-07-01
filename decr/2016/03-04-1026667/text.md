@@ -32,6 +32,10 @@ Artikel 13 van hetzelfde decreet wordt opgeheven.
 
 <p>De Vlaamse Regering bepaalt wat onder oudere zittende werknemer en oudere niet-werkende werkzoekende als vermeld in het derde lid, moet worden verstaan.".</p>
 
+### ART. 5.
+
+...
+
 ### ART. 7.
 
 <p>&nbsp;In artikel 346 van dezelfde wet, vervangen bij de wet van 23 december 2005 en gewijzigd bij de wet van 27 december 2012, worden paragraaf 2 en 3 vervangen door wat volgt :<br>
@@ -74,9 +78,7 @@ Artikel 353bis/10 van dezelfde wet, ingevoegd bij de wet van 24 april 2014, word
 
 ### ART. 12.
 
-<p>&nbsp;De Vlaamse Regering wordt gemachtigd om een stelsel in te richten dat voorziet in de tegemoetkoming aan een werkgever die een persoon met een arbeidshandicap aanwerft of heeft aangeworven, of aan een zelfstandige met een arbeidshandicap, ter compensatie van de kosten van de inschakeling in het beroepsleven, van de kosten van ondersteuning en van verminderde productiviteit.</p>
-
-<p>De Vlaamse Regering bepaalt de voorwaarden voor de toekenning, de procedure voor de aanvraag, en het bedrag van de tegemoetkoming.</p>
+<p>....</p>
 
 ### ART. 13.
 
