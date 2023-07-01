@@ -2,16 +2,16 @@
   "codex_id": 1025894,
   "title": "Ministerieel besluit van 2015-08-01 tot wijziging van artikel 2 en 8 van het ministerieel besluit van 30 juni 2006 houdende de delegatie van sommige bevoegdheden inzake financiën en begroting aan de leidende ambtenaren van het Vlaams ministerie van Financiën en Begroting",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025894/VolledigDocument?datum=2015-08-01",
-  "source_sha256": "b966a575c0c584794da9b2d0200c9a0662b00411820fca14fe6f8ae98e828ec3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025894/VolledigDocument?datum=2023-07-01",
+  "source_sha256": "5d329d7b3a28787271fa23e683bbd096abcb8b0dc05380fbc4aca0c05bd1a7e2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025894&param=informatie",
-  "as_of": "2015-08-01",
+  "as_of": "2023-07-01",
   "made": "2015-08-01",
   "gazette": "2015-09-15",
   "numac": 2015204139,
   "document_start": "2015-08-01",
   "document_end": null,
-  "in_force": "2015-08-01",
+  "in_force": "2023-07-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2015-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-07-01; future article versions excluded; article text as the API gives it"
 }

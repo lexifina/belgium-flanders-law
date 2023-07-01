@@ -22,7 +22,7 @@ In   artikel 2, 7°, van het ministerieel besluit van 30 juni 2006 houdende de  
 
 ### ART. 4.
 
-Het   ministerieel besluit van 25 juni 2009 in uitvoering van het decreet houdende de   middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2009 en het   besluit van de Vlaamse Regering betreffende de uitgifte van Vlaamse   schuldbewijzen, wordt opgeheven;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Het ministerieel besluit van 25 juni 2009 in uitvoering van het decreet houdende de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2009 wordt opgeheven;
 
 ### ART. 5.
 
