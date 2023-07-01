@@ -106,6 +106,45 @@ De aanvrager kan de onderhandelingen op elk moment afbreken. Hij brengt   dit pe
 
 De aanvrager kan het aanbod van de Vlaamse regering of van van de door   haar aangewezen derde afwijzen. Hij brengt dit per aangetekende brief ter kennis   van de Vlaamse regering en, in voorkomend geval, van de door haar aangewezen   derde, binnen één maand na ontvangst van het aanbod.<BR><BR>Deze kennisgeving   heeft tot gevolg dat elke aanvraag tot toestemming om het topstuk buiten de   Vlaamse Gemeenschap te brengen tot drie jaar na de kennisgeving, bedoeld in het   eerste lid, ongeldig is.<BR><BR>Bij gebrek aan een aangetekende brief binnen   deze termijn, wordt de eigenaar geacht het aanbod te hebben   aanvaard.
 
+## [HOOFDSTUK Vbis AANVAARDING VAN CULTUURGOEDEREN TOT BETALING VAN DE ERFBELASTING (ing. decr. 10 maart 2023, art. 2)]
+
+### ART 18bis.
+
+Iedereen die, al dan niet samen met vermoedelijke erfgenamen, legatarissen of begiftigden, voor het geheel in volle eigendom eigenaar is van cultuurgoederen waarvan hij vermoedt dat ze voldoen aan de voorwaarden, vermeld in artikel 3.4.3.0.2, §1, van de Vlaamse Codex Fiscaliteit van 13 december 2013, kan, voorafgaand aan het openvallen van een nalatenschap, bij de Raad een verzoek indienen met het oog op een beslissing van de Vlaamse Regering als vermeld in het derde lid, dat de cultuurgoederen behoren tot een van de categorieën, vermeld in artikel 3.4.3.0.2, §1, eerste lid, van de voormelde codex, en over de bestemming van die cultuurgoederen als de inbetalinggeving conform artikel 3.4.3.0.2, §4, van de voormelde codex, wordt aanvaard.&nbsp;<br>
+<br>
+De Raad geeft een advies aan de Vlaamse Regering over het verzoek, vermeld in het eerste lid. Het advies van de Raad over de vraag of de ter betaling aangeboden cultuurgoederen behoren tot een van de categorieën, vermeld in artikel 3.4.3.0.2, §1, eerste lid, van de voormelde codex, is bindend voor de Vlaamse Regering.&nbsp;<br>
+<br>
+De Vlaamse Regering neemt een beslissing over het verzoek.&nbsp;<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen over de wijze waarop het verzoek moet worden ingediend en bepalen welke gegevens en documenten de aanvraag moet bevatten. De Vlaamse Regering kan de procedure voor de afhandeling van het verzoek nader bepalen, met inbegrip van de wijze waarop de kennisgeving van de beslissing, vermeld in het derde lid, moet gebeuren.
+
+### ART 18ter.
+
+Als het verzoek tot inbetalinggeving, vermeld in artikel 3.4.3.0.2, §1, van de Vlaamse Codex Fiscaliteit van 13 december 2013, conform artikel 3.4.3.0.2, §2 en §3, van de voormelde codex, ontvankelijk is verklaard, geeft de Raad aan de Vlaamse Regering een advies over:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de vraag of de ter betaling aangeboden cultuurgoederen behoren tot een van de categorieën, vermeld in artikel 3.4.3.0.2, §1, eerste lid, van de voormelde codex;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;de waarde van de aangeboden cultuurgoederen bij een positief advies over de vraag, vermeld in punt 1°. De ter betaling aangeboden cultuurgoederen worden, ongeacht of ze deel uitmaken van de nalatenschap, geschat op hun waarde op het ogenblik van het openvallen van de nalatenschap;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;de bestemming van de aangeboden cultuurgoederen in geval van aanvaarding van de inbetalinggeving bij een positief advies over de vraag, vermeld in punt 1°. Indien de verzoekers een voorkeur van bestemming hebben aangegeven voor de aangeboden cultuurgoederen, adviseert de Raad de Vlaamse Regering over de haalbaarheid van de voorgestelde bestemming.&nbsp;<br>
+<br>
+Het advies van de Raad over de punten, vermeld in het eerste lid, 1° en 2°, is bindend voor de Vlaamse Regering.&nbsp;<br>
+<br>
+De Vlaamse Regering beslist over de punten, vermeld in het eerste lid, en ook over de aanvaarding van de inbetalinggeving van de cultuurgoederen die het voorwerp uitmaken van het verzoek tot inbetalinggeving, vermeld in het eerste lid.&nbsp;<br>
+<br>
+Als het verzoek tot inbetalinggeving, vermeld in het eerste lid, cultuurgoe-deren bevat waarvoor de Vlaamse Regering conform artikel 18bis een beslissing heeft genomen over de punten, vermeld in het eerste lid, 1° en 3°, verstrekt de Raad voor die goederen enkel een bindend advies over de waarde van de aangeboden cultuurgoederen, vermeld in het eerste lid, 2°.&nbsp;<br>
+<br>
+De Vlaamse Regering beslist in het geval, vermeld in het vierde lid, over de waarde van de aangeboden cultuurgoederen, vermeld in het eerste lid, 2°, en over de aanvaarding van de inbetalinggeving van de cultuurgoederen die het voorwerp uitmaken van het verzoek tot inbetalinggeving, vermeld in het eerste lid.&nbsp;<br>
+<br>
+Na aanvaarding wordt de Vlaamse Gemeenschap eigenaar van die cultuur-goederen, met uitzondering van het aandeel dat in mede-eigendom is verworven door de erfgoedinstelling die het saldo heeft betaald met toepassing van artikel 18quater, tweede lid.
+
+### ART 18quater.
+
+Als de Vlaamse Regering conform artikel 18ter, derde of vijfde lid, van dit decreet beslist dat de cultuurgoederen worden aanvaard om de verschuldigde erfbelasting en toebehoren te voldoen, wordt de waarde van de cultuurgoederen, die is vastgesteld door de Vlaamse Regering conform artikel 18ter, derde of vijfde lid, van dit decreet, vermeerderd met 20 procent. Indien deze vermeerderde waarde met 20 procent meer bedraagt dan de verschuldigde erfbelasting en toebehoren, kan de Vlaamse Regering, in het geval het gaat om cultuurgoederen als vermeld in artikel 3.4.3.0.2, §1, eerste lid, 1°, van de Vlaamse Codex Fiscaliteit van 13 december 2013, beslissen om het saldo aan de aanvragers uit te betalen via het Topstukkenfonds, vermeld in hoofdstuk VI van dit decreet. De voormelde beslissing maakt onderdeel uit van de beslissing, vermeld in artikel 18ter, derde en vijfde lid, van dit decreet.&nbsp;<br>
+<br>
+In het geval het om cultuurgoederen gaat als vermeld in artikel 3.4.3.0.2, §1, eerste lid, 2°, 3° en 4°, van de voormelde codex, kan de erfgoedinstelling waarvoor de aangeboden cultuurgoederen als een sleutelwerk voor de collectie gelden, instaan voor de uitbetaling van het saldo. De erfgoedinstelling verwerft de mede-eigendom van die cultuurgoederen in verhouding tot haar bijdrage. De beslissing daartoe wordt genomen door de erfgoedinstelling of haar inrichtende macht en wordt meegedeeld aan de Vlaamse Regering.&nbsp;<br>
+<br>
+Indien de Vlaamse Gemeenschap de inrichtende macht is van de erf-goedinstelling waarvoor de aangeboden cultuurgoederen als een sleutelwerk voor de collectie gelden, dan worden die cultuurgoederen in volle eigendom verworven door de Vlaamse Gemeenschap. De beslissing daartoe wordt genomen door de Vlaamse Regering.&nbsp;<br>
+<br>
+De Vlaamse Regering kan aanvullende regels vastleggen voor de verwer-ving van deze cultuurgoederen en de uitbetaling van de saldi.
+
 ## HOOFDSTUK Vter RECHT VAN VOORKOOP
 
 ## HOOFDSTUK VI [TOPSTUKKENFONDS (verv. decr. 30 april 2009, art. 5)]
@@ -122,6 +161,7 @@ Dit Fonds heeft rechtspersoonlijkheid. Het wordt opgericht als een organisme beh
 3° overeenkomsten inzake publiek-private samenwerking met het oog op de verwerving van cultuurgoederen als vermeld in punt 1° en 2° af te sluiten en uit te voeren;<br>
 4° de kosten voor conservatie, behoud en restauratie van topstukken als vermeld in artikel 10, te subsidiëren;<br>
 5° het subsidiëren van en investeren in de verbetering van de bewaaromstandigheden van in de lijst van het roerend cultureel erfgoed van de Vlaamse Gemeenschap opgenomen topstukken.<br>
+6° de eigendom of mede-eigendom te verwerven van cultuurgoederen, die conform artikel 3.4.3.0.2 van de Vlaamse Codex Fiscaliteit van 13 december 2013 ter betaling zijn aangeboden, door de saldi, vermeld in hoofdstuk Vbis van dit decreet, uit te betalen.<br>
 <br>
 § 3. De middelen van het Fonds zijn :<br>
 1° dotaties ten laste van de algemene uitgavenbegroting van de Vlaamse Gemeenschap;<br>
