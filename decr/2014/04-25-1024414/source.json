@@ -2,16 +2,16 @@
   "codex_id": 1024414,
   "title": "Decreet van 2014-04-25 houdende de werk- en zorgtrajecten",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024414/VolledigDocument?datum=2022-01-01",
-  "source_sha256": "bbd620ce261fc5c839b3a919a8e0c2675f535c48bbcc4e619ea7844e269e3cb1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024414/VolledigDocument?datum=2023-07-01",
+  "source_sha256": "e62afada11f4a4909c06e67e5acd07550bef02513ff3b10931b6a0eb843e928f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024414&param=informatie",
-  "as_of": "2022-01-01",
+  "as_of": "2023-07-01",
   "made": "2014-04-25",
   "gazette": "2014-08-14",
   "numac": 2014035670,
   "document_start": "2018-02-01",
   "document_end": "2023-06-30",
-  "in_force": "2022-01-01",
+  "in_force": "2023-07-01",
   "article_versions": 50,
-  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-07-01; future article versions excluded; article text as the API gives it"
 }
