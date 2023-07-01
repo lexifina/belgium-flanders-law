@@ -465,7 +465,14 @@ WORDT HET VOLGENDE OVEREENGEKOMEN:
 23° dancings en discotheken: een uitgaansgelegenheid die bestaat uit een of meerdere zalen waar hoofdzakelijk gedanst wordt op muziek;<br>
 24° uitbater: de natuurlijke persoon of rechtspersoon die verantwoordelijk is en instaat voor de organisatie en de inrichting van de aangelegenheden en voorzieningen waarvoor het gebruik van het COVID Safe Ticket kan worden ingezet.<br>
 <br>
-§ 2.....
+§ 2. Voor de toepassing van dit samenwerkingsakkoord wordt overeenkomstig Verordening digitaal EU-COVID-certificaat verstaan onder:<br>
+1° houder: een persoon aan wie overeenkomstig Verordening digitaal EU-COVID-certificaat een interoperabel certificaat is afgegeven dat informatie bevat over zijn of haar COVID-19-vaccinatie, -testresultaat of -herstel;<br>
+2° digitaal EU-COVID-certificaat: een interoperabel certificaat op een papieren drager of een digitale drager met informatie over de vaccinatie-, test- en/of herstelstatus van de houder, afgegeven in de context van de COVID-19-pandemie;<br>
+3° NAAT-test: een moleculaire nucleïnezuuramplificatietest, op basis van technieken zoals reverse transcription polymerase chain reaction (RT-PCR), loop-mediated isothermal amplification (LAMP) en transcription-mediated amplification (TMA), die wordt gebruikt om de aanwezigheid van het ribonucleïnezuur (RNA) van SARS-CoV-2 te detecteren;<br>
+4° streepjescode: een methode voor het opslaan en weergeven van gegevens in een visueel machine leesbaar formaat;<br>
+5° unieke certificaatidentificatiecode: een unieke identificatiecode die overeenkomstig een gemeenschappelijke structuur aan elk overeenkomstig Verordening digitaal EU-COVID-certificaat afgegeven certificaat wordt toegekend;<br>
+6° erkende snelle antigeentest: een snelle antigeentest die voorkomt op de lijst opgenomen in de Aanbeveling 1475 van de Europese Raad betreffende een gemeenschappelijk kader voor het gebruik en de validering van snelle antigeentests en de wederzijdse erkenning van COVID-19-testresultaten in de EU en de Beslissing van de Europese Commissie van 17 februari 2021 waarin een lijst wordt opgenomen van de erkende snelle antigeentesten;<br>
+7° snelle antigeentest: ook wel RAT genoemd, een test die berust op de detectie van virale eiwitten (antigenen) met behulp van een lateral flow immunoassay die resultaten geeft in minder dan 30 minuten.
 
 ### ART 2.
 
@@ -473,6 +480,7 @@ WORDT HET VOLGENDE OVEREENGEKOMEN:
 1° de gegevensstromen met betrekking tot de opmaak en de afgifte van de vaccinatie-, test- en herstelcertificaten voor de opmaak en afgifte van het digitaal EU-COVID-certificaat;<br>
 2° de opmaak en afgifte van het digitaal EU-COVID-certificaat teneinde het vrije verkeer tijdens de COVID-19-pandemie te faciliteren voor de periode van 16 juni tot 30 juni 2021;<br>
 3° het generen van het COVID Safe Ticket op basis van het digitaal EU-COVID-certificaat.<br>
+4° de opmaak en afgifte van het digitaal EU-COVID-certificaat teneinde het vrije verkeer te faciliteren vanaf 1 juli 2023.<br>
 <br>
 § 2. Dit samenwerkingsakkoord bevat tevens een aantal aanvullende bepalingen inzake de verwerking van PLF-gegevens (zie Titel VIII) en regelt tevens de verwerking van persoonsgegevens van in het buitenland wonende of verblijvende werknemers en zelfstandigen die activiteiten uitvoeren in België (zie Titel IX).<br>
 <br>
@@ -486,7 +494,23 @@ WORDT HET VOLGENDE OVEREENGEKOMEN:
 
 ### ART 3.
 
-...
+§ 1. In afwachting van de inwerkingtreding van de Verordening digitaal EU-COVID-certificaat&nbsp;en na de buitenwerkingtreding van die verordening en overeenkomstig artikel 3, § 1 van die verordening, maakt het digitaal EU- COVID-certificaat de afgifte, de grensoverschrijdende verificatie en aanvaarding van de volgende certificaten mogelijk:<br>
+1° vaccinatiecertificaat;<br>
+2° testcertificaat;<br>
+3° herstelcertificaat;<br>
+<br>
+§ 2. In afwachting van de inwerkingtreding van de Verordening digitaal EU-COVID-certificaat&nbsp;en na de buitenwerkingtreding van die verordening en overeenkomstig artikel 3, § 2 van die verordening, worden de in § 1 bedoelde certificaten afgegeven in een beveiligd en interoperabel formaat, in digitale vorm, middels de COVIDSafe-applicatie en/of op papier en bevatten een streepjescode en naam aan de hand waarvan de echtheid, geldigheid en integriteit van het certificaat kunnen worden geverifieerd. De aspirant-houders hebben het recht de certificaten te ontvangen in de vorm van hun keuze. De informatie in de certificaten wordt ook in voor mensen leesbare vorm weergegeven. De streepjescode voldoet aan de technische specificaties zoals bepaald in een uitvoerend samenwerkingsakkoord.<br>
+<br>
+§ 3. In afwachting van de inwerkingtreding van de Verordening digitaal EU-COVID-certificaat&nbsp;en na de buitenwerkingtreding van die verordening en overeenkomstig artikel 3, § 4 van die verordening, worden de in § 1 bedoelde certificaten kosteloos verstrekt. De houder heeft het recht te verzoeken om afgifte van een nieuw certificaat indien de persoonsgegevens in het certificaat niet of niet meer nauwkeurig of actueel zijn, of indien de houder niet meer over het certificaat beschikt.<br>
+<br>
+§ 4. In afwachting van de inwerkingtreding van de Verordening digitaal EU-COVID-certificaat&nbsp;en na de buitenwerkingtreding van die verordening en overeenkomstig artikel 3, § 5 van die verordening, wordt op de in § 1 bedoelde certificaten de volgende tekst aangebracht:<br>
+"Dit certificaat is geen reisdocument. Het wetenschappelijk bewijs met betrekking tot COVID-19-vaccinaties, -tests en -herstel blijft zich verder ontwikkelen, ook met betrekking tot nieuwe zorgwekkende varianten. Gelieve alvorens een reis te maken, te controleren welke volksgezondheidsmaatregelen en bijbehorende beperkingen op de plaats van bestemming van toepassing zijn.".<br>
+<br>
+§ 5. In afwachting van de inwerkingtreding van de Verordening digitaal EU-COVID-certificaat en na de buitenwerkingtreding van die verordening en overeenkomstig artikel 3, § 6 van die verordening, is het bezit van de in § 1 bedoelde certificaten geen voorwaarde voor het uitoefenen van het recht van vrij verkeer.<br>
+<br>
+§ 6. In afwachting van de inwerkingtreding van de Verordening digitaal EU-COVID-certificaat en na de buitenwerkingtreding van die verordening en overeenkomstig artikel 3, § 7 van die verordening, leidt de afgifte van de certificaten op grond van § 1 van dit artikel niet tot discriminatie op basis van het bezit van een specifieke categorie certificaten als bedoeld in artikel 9, §§ 1, 2 en 3.<br>
+<br>
+§ 7. In afwachting van de inwerkingtreding van de Verordening digitaal EU-COVID-certificaat en overeenkomstig artikel 3, § 8 van die verordening, doet de afgifte van de in § 1 bedoelde certificaten geen afbreuk aan de geldigheid van andere vaccinatie-, testresultaat- of herstelbewijzen die vóór 16 juni 2021 of voor andere -met name medische - doeleinden zijn afgegeven.
 
 ### ART 4.
 
@@ -506,7 +530,7 @@ Sciensano, vermeld in artikel 2, § 4, van het samenwerkingsakkoord van 25 augus
 
 ### ART 7.
 
-§ 1. In afwachting van de inwerkingtreding van de verordening EU Digitaal COVID Certificaat en voor de periode van 16 juni tot en met 30 juni 2021, geven de entiteiten, vermeld in artikel 4 en 5, aan het agentschap Digitaal Vlaanderen de opdracht om de betrokkene inzage en toegang te geven in een officiële vorm tot zijn vaccinatiegegevens, vermeld in artikel 3, § 2, van het samenwerkingsakkoord van 12 maart 2021, en testgegevens, vermeld in artikel 6 van het samenwerkingsakkoord van 25 augustus 2020.<br>
+§ 1. In afwachting van de inwerkingtreding van de verordening EU Digitaal COVID Certificaat&nbsp;en na de buitenwerkingtreding van die Verordening en voor de periode van 16 juni tot en met 30 juni 2021, geven de entiteiten, vermeld in artikel 4 en 5, aan het agentschap Digitaal Vlaanderen de opdracht om de betrokkene inzage en toegang te geven in een officiële vorm tot zijn vaccinatiegegevens, vermeld in artikel 3, § 2, van het samenwerkingsakkoord van 12 maart 2021, en testgegevens, vermeld in artikel 6 van het samenwerkingsakkoord van 25 augustus 2020.<br>
 <br>
 § 2. De Vlaamse Gemeenschap kan als aankoopcentrale in de zin van artikel 2, 6°, a), van de wet van 17 juni 2016 inzake overheidsopdrachten gecentraliseerde aankoopactiviteiten en aanvullende aankoopactiviteiten verrichten die bestemd zijn voor de partijen bij dit samenwerkingsakkoord en dienen voor de operationele uitvoering van de opdrachten, vermeld in § 1.
 
@@ -520,17 +544,36 @@ Sciensano, vermeld in artikel 2, § 4, van het samenwerkingsakkoord van 25 augus
 
 ### ART 9.
 
-...
+§ 1. Overeenkomstig artikel 5, § 2 van de Verordening digitaal EU-COVID-certificaat, bevat een vaccinatiecertificaat zoals bedoeld in artikel 1, § 1, 5°, de volgende categorieën van persoonsgegevens van de houders ervan:<br>
+1° identiteit van de houder;<br>
+2° informatie over het aan de houder toegediende COVID-19-vaccin en over het aantal toegediende doses;<br>
+3° metagegevens van het certificaat, zoals de afgever van het certificaat of een unieke certificaatidentificatiecode.<br>
+<br>
+§ 2. Overeenkomstig artikel 6, § 2 van de Verordening digitaal EU-COVID-certificaat bevat een testcertificaat zoals bedoeld in artikel 1, § 1, 6°, de volgende categorieën van persoonsgegevens van de houders ervan:<br>
+1° de identiteit van de houder;<br>
+2° informatie over de erkende NAAT-test of de erkende snelle antigeentest die de houder heeft ondergaan;<br>
+3° metagegevens van het certificaat, zoals de afgever van het certificaat of een unieke certificaatidentificatiecode.<br>
+<br>
+§ 3. Overeenkomstig artikel 7, § 2 van de Verordening digitaal EU-COVID-certificaat bevat een herstelcertificaat zoals bedoeld in artikel 1, § 1, 7°, de volgende categorieën van persoonsgegevens van de houders ervan:<br>
+1° de identiteit van de houder;<br>
+2° informatie over de voorbije SARS-CoV-2-infectie van de houder na een positief testresultaat, dat evenwel niet ouder is dan 180 dagen;<br>
+3° metagegevens van het certificaat, zoals de afgever van het certificaat of een unieke certificaatidentificatiecode.<br>
+<br>
+§ 4. Teneinde de in artikel 8, § 3, genoemde doeleinden te bereiken, hebben medewerkers van de door de bevoegde gefedereerde entiteiten of door de agentschappen aangeduide contactcentra toegang tot en mogen zij de volgende gegevens verwerken tussen de periode van 16 juni 2021 tot de datum van de buitenwerkingtreding van dit samenwerkingsakkoord:<br>
+1° het bestaan van een test-of herstelcertificaat;<br>
+2° het feit of een test-of herstelcertificaat werd bezorgd.<br>
+<br>
+§ 5. Overeenkomstig artikel 5, § 3 van de Verordening digitaal EU-COVID-certificaat wordt het vaccinatiecertificaat na de toediening van elke dosis afgegeven in een beveiligd en interoperabel formaat in overeenstemming met artikel 3, § 2, en vermeldt duidelijk of de vaccinatiecyclus al dan niet voltooid is.
 
 ## Titel III: Opmaken, afgeven, verifiëren van het digitaal EU-COVID-certificaat
 
 ### ART 10.
 
-§ 1. ...<br>
+§ 1. Overeenkomstig artikel 3, § 1 van de Verordening digitaal EU-COVID-certificaat, beoogt de verwerking van de persoonsgegevens bedoeld in artikel 11, § 1 de opmaak, de afgifte en verificatie van het digitaal EU-COVID-certificaat met het oog op de toegang tot en de verificatie van de in het certificaat opgenomen informatie, teneinde de uitoefening van het recht van vrij verkeer binnen de Unie tijdens de COVID-19-pandemie te faciliteren.<br>
 <br>
-§ 2. ...<br>
+§ 2. Met uitzondering van hetgeen bepaald in artikel 12 van dit samenwerkingsakkoord, worden de categorieën van persoonsgegevens in de certificaten, zoals bepaald in artikel 1, § 1, 5°, 6° en 7° en artikel 1, § 2, 2°, van dit samenwerkingsakkoord en overeenkomstig artikel 10, § 2 van de Verordening digitaal EU-COVID-certificaat uitsluitend verwerkt met het oog op de toegang tot en de verificatie van de in het certificaat opgenomen informatie, teneinde de uitoefening van het recht van vrij verkeer binnen de Unie tijdens de COVID-19-pandemie te faciliteren.<br>
 <br>
-§ 3. ...<br>
+§ 3. Overeenkomstig artikel 1 van de Verordening digitaal EU-COVID-certificaat voor onderdanen derde landen, zijn de in dit artikel opgenomen verwerkingsdoeleinden niet enkel van toepassing op onderdanen van de Unie maar tevens op onderdanen van derde landen die legaal op het grondgebied van een lidstaat van de EU verblijven of wonen en overeenkomstig het Unierecht het recht hebben naar andere landen te reizen.<br>
 <br>
 § 4. De desgevallende verificatie teneinde de uitoefening van het recht van vrij verkeer binnen de Unie tijdens de COVID-19-pandemie te faciliteren en eventuele beperkingen te handhaven, gebeurt door de politiediensten bedoeld in artikel 3, 7°, van de wet op het politieambt en de exploitanten van grensoverschrijdende personenvervoersdiensten en vervoersinfrastructuur, bedoeld in artikel 3, 9 van de Verordening digitaal EU-COVID-certificaat.
 
@@ -576,7 +619,7 @@ Sciensano, vermeld in artikel 2, § 4, van het samenwerkingsakkoord van 25 augus
 
 ### ART 14.
 
-§ 1. ...<br>
+§ 1.De persoonsgegevens vermeld in artikel 9, §§ 1, 2 en 3, die met het oog op de afgifte van het digitaal EU-COVID-certificaat, met inbegrip van de afgifte van een nieuw digitaal EU-COVID-certificaat, worden verwerkt, worden door de afgever niet langer bewaard dan strikt noodzakelijk is voor het doel ervan en in geen geval langer dan een periode van vijftien dagen na de publicatie van het koninklijk besluit dat het einde van de toestand van het coronavirus COVID-19 epidemie afkondigt.<br>
 <br>
 § 2. ...<br>
 <br>
@@ -744,22 +787,22 @@ Het Overlegcomité houdt toezicht op de uitvoering en naleving van dit samenwerk
 
 ### ART 33.
 
-§ 1. De bepalingen van Titel I tem Titel VII van dit samenwerkingsakkoord hebben uitwerking met ingang van:<br>
-1° van 16 juni tot en met 30 juni 2021 voor wat betreft artikelen 1, § 2, artikel 3, artikel 9, artikelen 10, § 1 tot en met § 3 en artikel 14, § 1;<br>
+§1. De bepalingen van Titel I tem Titel VII van dit samenwerkingsakkoord hebben uitwerking met ingang van:<br>
+1° van 16 juni tot en met 30 juni 2021&nbsp;en vanaf 1 juli 2023 voor wat betreft artikelen 1, § 2, artikel 3, artikel 9, artikelen 10, § 1 tot en met § 3 en artikel 14, § 1;<br>
 2° van 16 juni 2021 voor wat betreft artikel 1, § 1, artikelen 2 tot en met 8, artikel 10, § 4, artikel 11, artikel 14, § 2 tot en met § 5, artikelen 15 tot en met 17;<br>
 3° van de inwerkingtreding van dit samenwerkingsakkoord tot 31 oktober 2021, de artikelen 12 en 13, tenzij de artikelen 12 en 13 overeenkomstig artikel 2bis en 13ter worden geactiveerd voor 30 juni 2022.<br>
 <br>
-§ 2. Behoudens uitdrukkelijk anders bepaald in § 1, 1° en 2°, treden de bepalingen van Titel I tot en met VII in werking op de datum van bekendmaking in het Belgisch Staatsblad van de laatste wetgevende handeling tot instemming met het samenwerkingsakkoord.<br>
+§2. Behoudens uitdrukkelijk anders bepaald in § 1, 1° en 2°, treden de bepalingen van Titel I tot en met VII in werking op de datum van bekendmaking in het Belgisch Staatsblad van de laatste wetgevende handeling tot instemming met het samenwerkingsakkoord.<br>
 <br>
-§ 3. Behoudens uitdrukkelijk anders bepaald in § 1, 1°, treden de bepalingen van Titel I tot en met VII buiten werking op de datum van de buitenwerkingtreding van de Verordening digitaal EU-COVID-certificaat en Verordening digitaal EU-COVID-certificaat voor onderdanen derde landen.<br>
+§3. Artikel 2bis (Titel I), alsook de bepalingen van Titel IV, de paragrafen 2, 3 en 5 van artikel 14 (Titel V) en artikel 16, §2 (Titel VI) treden buiten werking op 30 juni 2022. De overige bepalingen van Titel I tot en met III, alsook van paragraaf 4 van artikel 14 (Titel V) en de overige bepalingen van Titel VI treden buiten werking op de dag die door de partijen bij huidig samenwerkinsgakkoord bij wijze van een uitvoerend samenwerkingsakkoord is bepaald..<br>
 <br>
-§ 4. Onverminderd hetgeen bepaald in artikel 19, hebben de bepalingen van Titel VIII uitwerking met ingang van 10 juli 2020.<br>
+§4. Onverminderd hetgeen bepaald in artikel 19, hebben de bepalingen van Titel VIII uitwerking met ingang van 10 juli 2020.<br>
 <br>
-§ 5. De bepalingen van Titel IX treden in werking op de datum van bekendmaking in het Belgisch Staatsblad van de laatste wetgevende handeling tot instemming met het samenwerkingsakkoord.<br>
+§5. De bepalingen van Titel IX treden in werking op de datum van bekendmaking in het Belgisch Staatsblad van de laatste wetgevende handeling tot instemming met het samenwerkingsakkoord.<br>
 <br>
-§ 6. De bepalingen van Titel IX treden buiten werking uiterlijk op de datum van de publicatie van het koninklijk besluit dat het einde van de coronavirus COVID-19-pandemie afkondigt.<br>
+§6. De bepalingen van Titel IX treden buiten werking uiterlijk op de datum van de publicatie van het koninklijk besluit dat het einde van de coronavirus COVID-19-pandemie afkondigt.<br>
 <br>
-§ 7. De partijen kunnen voor iedere bepaling van Titel IX een datum van buitenwerkingtreding bepalen voorafgaand aan de datum bedoeld in § 6. In voorkomend geval, hebben de deze bepalingen uitwerking tot en met de datum waarop het Centrale Secretarie van het Overlegcomité het schriftelijke akkoord met de buitenwerkingtreding heeft ontvangen van alle partijen en na de bekendmaking van een bericht in het Belgisch Staatsblad met de bevestiging van dit schriftelijk akkoord.
+§7. De partijen kunnen voor iedere bepaling van Titel IX een datum van buitenwerkingtreding bepalen voorafgaand aan de datum bedoeld in § 6. In voorkomend geval, hebben de deze bepalingen uitwerking tot en met de datum waarop het Centrale Secretarie van het Overlegcomité het schriftelijke akkoord met de buitenwerkingtreding heeft ontvangen van alle partijen en na de bekendmaking van een bericht in het Belgisch Staatsblad met de bevestiging van dit schriftelijk akkoord.
 
 ### ART 33bis.
 
