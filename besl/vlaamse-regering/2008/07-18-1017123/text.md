@@ -13,12 +13,12 @@ In dit besluit wordt verstaan onder:<br>
 2° arbeidshandicap: een langdurig en belangrijk probleem van deelname aan het arbeidsleven dat te wijten is aan het samenspel tussen functiestoornissen van mentale, psychische, lichamelijke of zintuiglijke aard, beperkingen bij het uitvoeren van activiteiten en persoonlijke en externe factoren;<br>
 3° besluit van 5 juni 2009: het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding;<br>
 4° besluit van 17 februari 2017: het besluit van de Vlaamse Regering van 17 februari 2017 tot uitvoering van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling;<br>
-5° bijzondere tewerkstellingsondersteunende maatregelen: de maatregelen die tot doel hebben een persoon met een indicatie van een arbeidshandicap beter te integreren op de arbeidsmarkt door aanpassingen te ondersteunen die rechtstreeks gerelateerd zijn aan de uitoefening van zijn job, of zijn zelfstandige activiteit of aan de begeleiding op de werkplek voor leerlingen in alternerende opleidingen of werkzoekenden in werkplekinstrumenten. Het gaat om aanpassingen van en aan de arbeidsomgeving, tegemoetkomingen in de verplaatsings- en verblijfkosten voor personen met een arbeidshandicap met mobiliteitsproblemen, de ondersteuning door gebarentaal-, schrijf- en oraal tolken, en de VOP;<br>
+5° bijzondere tewerkstellingsondersteunende maatregelen: de maatregelen die tot doel hebben een persoon met een indicatie van een arbeidshandicap beter te integreren op de arbeidsmarkt door aanpassingen te ondersteunen die rechtstreeks gerelateerd zijn aan de uitoefening van zijn job, of zijn zelfstandige activiteit of aan de begeleiding op de werkplek voor leerlingen in alternerende opleidingen of werkzoekenden in werkplekinstrumenten. Het gaat om aanpassingen van en aan de arbeidsomgeving, tegemoetkomingen in de verplaatsings- en verblijfkosten voor personen met een arbeidshandicap met mobiliteitsproblemen en ondersteuning door gebarentaal-, schrijf- en oraaltolken;<br>
 6° gespecialiseerd vervoer: het niet-collectieve vervoer dat aangepast is en specifiek bedoeld is voor personen met een arbeidshandicap met mobiliteitsproblemen;<br>
 7° IBO: de individuele beroepsopleiding in de onderneming, vermeld in artikel 90 tot en met 97 van het besluit van 5 juni 2009;<br>
 6° K-IBO: de IBO voor kwetsbare werkzoekenden, vermeld in artikel 98/1 tot en met 98/4 van het besluit van 5 juni 2009;<br>
 7° persoon met een arbeidshandicap: de persoon met een indicatie van een arbeidshandicap voor wie de VDAB conform hoofdstuk II beslist dat hij recht heeft op een of meer bijzondere tewerkstellingsondersteunende maatregelen;<br>
-8° Vlaamse ondersteuningspremie, afgekort VOP: de tegemoetkoming aan een werkgever die een persoon met een arbeidshandicap aanwerft of heeft aangeworven, of aan een zelfstandige met een arbeidshandicap ter compensatie van de kosten van de inschakeling in het beroepsleven, de kosten van ondersteuning en van verminderde productiviteit die gerelateerd zijn aan de arbeidshandicap;<br>
+8° ...;<br>
 9° werkplekinstrumenten: de instrumenten van begeleiding op de werkvloer, namelijk:<br>
 a) de IBO;<br>
 b) de K-IBO;<br>
@@ -61,14 +61,7 @@ De VDAB kan aan een persoon met een indicatie van een arbeidshandicap een recht 
 2° of, een multidisciplinair arbeidsonderzoek waaruit blijkt dat de persoon met een indicatie van een arbeidshandicap voldoet aan een van de voorwaarden op een door de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, na advies van de door de raad van bestuur van de VDAB vastgestelde lijst;<br>
 3° en, de woon- en werklocatie van de persoon met een indicatie van een arbeidshandicap:<br>
 a) hij woont op het grondgebied van het Vlaamse Gewest of het Brusselse Hoofdstedelijke Gewest;<br>
-b) hij woont op het grondgebied van een van de andere lidstaten van de Europese Unie (EU) of van de Europese Economische Ruimte (EER) en werkt op het grondgebied van het Vlaamse Gewest of het Brusselse Hoofdstedelijke Gewest.<br>
-<br>
-Voor de toekenning van de VOP bepaalt de VDAB het recht en de duur van het recht op basis van een van de volgende documenten of onderzoeken:<br>
-1° een attest waaruit blijkt dat de persoon met een indicatie van een arbeidshandicap een aandoening of voorgeschiedenis heeft die voorkomt op een door de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, na advies van de raad van bestuur van de VDAB, vastgestelde lijst;<br>
-2° of, een multidisciplinair arbeidsonderzoek waaruit blijkt dat de persoon met een indicatie van een arbeidshandicap voldoet aan een van de voorwaarden op een door de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, na advies van de raad van bestuur van de VDAB, vastgestelde lijst;<br>
-3° en, de woon- en werklocatie van de persoon met een indicatie van een arbeidshandicap:<br>
-a) hij woont op het grondgebied van het Vlaamse Gewest;<br>
-b) hij woont op het grondgebied van een van de andere lidstaten van de Europese Unie (EU) of van de Europese Economische Ruimte (EER) en werkt op het grondgebied van het Vlaamse Gewest.
+b) hij woont op het grondgebied van een van de andere lidstaten van de Europese Unie (EU) of van de Europese Economische Ruimte (EER) en werkt op het grondgebied van het Vlaamse Gewest of het Brusselse Hoofdstedelijke Gewest.
 
 ## HOOFDSTUK III. Aanpassingen van en aan de arbeidsomgeving
 
@@ -360,95 +353,15 @@ De VDAB neemt de werkelijk gemaakte verplaatsingskosten van de tolk ten laste.
 
 ### ART. 28.
 
-In dit hoofdstuk wordt verstaan onder :<br>
-1° departement : het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie;<br>
-2° referteloon : het referteloon, vermeld in artikel 30, § 2;<br>
-3° werkgever : de werkgever die behoort tot een van de volgende categorieën :<br>
-a) een natuurlijke persoon of een privaatrechtelijke rechtspersoon;<br>
-b) een provincie, een gemeente, een OCMW, of een door een provincie, gemeente of OCMW opgericht verzelfstandigd agentschap of intergemeentelijk samenwerkingsverband als vermeld in deel 3, titel 3, van het decreet van 22 december 2017 over het lokaal bestuur, of de verenigingen waarin ze deelnemen met toepassing van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, die na 1 juli 2008 een werknemer met een arbeidshandicap hebben aangeworven;<br>
-c) een onderwijsinstelling als vermeld in artikel 127, § 1, eerste lid, 2°, van de Grondwet;<br>
-d) een maatwerkbedrijf als vermeld in artikel 3, 5°, van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling, dat een persoon aanwerft die aan een van de volgende voorwaarden voldoet :<br>
-1) de persoon is een werknemer met een arbeidshandicap die vanaf 1 januari 2015 door het maatwerkbedrijf is aangeworven of vanaf 1 januari 2015 een arbeidshandicap heeft gekregen;<br>
-2) de persoon is een werknemer die als doelgroepwerknemer als vermeld in artikel 3, 2°, van het voormelde decreet, na een evaluatie door de VDAB als vermeld in artikel 8 van het voormelde decreet, doorgestroomd is naar een aansluitende tewerkstelling in een betrekking met geheel zonder of met geringere ondersteuning dan vermeld in het voormelde decreet en die aan de volgende voorwaarde voldoet :<br>
-i) de functie van de werknemer is verschillend van de functie die hij heeft uitgeoefend als doelgroepwerknemer;<br>
-ii) ...;<br>
-4° werknemer met een arbeidshandicap : de persoon met een arbeidshandicap van wie de VDAB met toepassing van hoofdstuk II bepaalt dat hij in aanmerking komt voor een VOP, of de persoon die na een evaluatie door de VDAB als vermeld in artikel 8 van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling, kan doorstromen naar een aansluitende tewerkstelling in een betrekking met geheel zonder of met geringere ondersteuning als vermeld in het voormelde decreet.<br>
-<br>
-Voor de toepassing van dit besluit wordt met maatwerkbedrijf als vermeld in het eerste lid, 3°, d) gelijkgesteld :<br>
-1° de beschutte werkplaats, erkend conform artikel 79 van het decreet van 23 december 2005 houdende bepalingen tot begeleiding van de begroting 2006;<br>
-2° de sociale werkplaats, erkend conform het decreet van 14 juli 1998 inzake sociale werkplaatsen.
+...
 
 ### ART. 29.
 
-§ 1. Het departement kent de VOP toe aan de werkgever die een werknemer aanwerft die conform artikel 4, tweede lid, gerechtigd is op ondersteuning. Het departement kent de VOP toe op basis van:<br>
-1° het onderzoek van de VDAB, vermeld in paragraaf 3;<br>
-2° het onderzoek naar de arbeidsrelatie tussen de werkgever en de werknemer.<br>
-<br>
-Met het oog op de toekenning van de VOP, moet de werknemer aan een van de volgende voorwaarden voldoen:<br>
-1° hij woont op het grondgebied van het Vlaamse Gewest;<br>
-2° hij woont op het grondgebied van een van de andere lidstaten van de Europese Unie (EU) of van de Europese Economische Ruimte (EER) en werkt op het grondgebied van het Vlaamse Gewest.<br>
-<br>
-Het departement beëindigt de uitbetaling van de VOP als de werknemer niet langer aan de voorwaarden, vermeld in het tweede lid, voldoet. De betaling wordt stopgezet uiterlijk het kwartaal nadat de voorwaarden gewijzigd zijn.<br>
-<br>
-§ 2. De werkgever dient bij het departement een aanvraag van een VOP in. Het departement stelt daarvoor een model van elektronisch aanvraagformulier ter beschikking. De aanvraag vermeldt de volgende gegevens:<br>
-1° de identiteitsgegevens van de werkgever;<br>
-2° de identiteitsgegevens van de werknemer;<br>
-3° de datum van indiensttreding van de werknemer.<br>
-<br>
-Het departement beoordeelt de ontvankelijkheid van de aanvraag op basis van een volledig en correct ingevuld aanvraagformulier.<br>
-<br>
-Als de aanvraag ontvankelijk is, wordt de werkgever daarvan op de hoogte gebracht binnen zeven kalenderdagen na de dag van de ontvangst van de aanvraag. Die termijn van zeven kalenderdagen wordt geschorst als het departement de werkgever om aanvullende informatie heeft verzocht en het die informatie nog niet heeft ontvangen.<br>
-<br>
-De werkgever van wie de aanvraag niet ontvankelijk is, wordt daarvan op de hoogte gebracht binnen zeven kalenderdagen na de dag van de ontvangst van de aanvraag. Die kennisgeving vermeldt de motivering en de mogelijkheid om een nieuwe aanvraag in te dienen.<br>
-<br>
-De werkgever verklaart bij de aanvraag van de VOP dat de betrokken werknemer bij de VDAB een aanvraag tot vaststelling van het recht, vermeld in artikel 4, heeft ingediend en dat de werkgever geen beroep zal doen op het advies collectief maatwerk van de werknemer dat de VDAB toegekend heeft op basis van artikel 12 van het besluit van 17 februari 2017.<br>
-<br>
-§ 3. Het departement bezorgt het ontvankelijk verklaarde aanvraagdossier via elektronische weg aan de VDAB en peilt naar de status van het recht op een VOP voor de werknemer conform artikel 4.<br>
-<br>
-§ 4. Uiterlijk dertig dagen na de ontvankelijk verklaarde aanvraag brengt het departement de werkgever op de hoogte van, in voorkomend geval :<br>
-1° de beslissing tot toekenning van een VOP aan de werkgever;<br>
-2° de stand van zaken in het onderzoek, vermeld in paragraaf 3.<br>
-<br>
-De beslissing tot toekenning, vermeld in het eerste lid, 1°, omvat :<br>
-1° de identiteitsgegevens van de werknemer die recht heeft op een VOP;<br>
-2° de aanvangsdatum en de duurtijd van de toekenning van de VOP;<br>
-3° het bedrag van de VOP.<br>
-<br>
-§ 5. Als het onderzoek, vermeld in paragraaf 3, niet kan worden afgerond door de VDAB uiterlijk vier maanden na de datum van de ontvankelijkheidsverklaring, vervalt de aanvraag van de werkgever.<br>
-<br>
-In afwijking van eerste lid kan het departement die termijn verlengen als het onderzoek door de VDAB niet tijdig kan worden afgerond om redenen die vreemd zijn aan de wil van de werkgever of de werknemer.<br>
-<br>
-§ 6. Het departement betaalt de VOP uit vanaf het kwartaal van de aanvraag voor de duurtijd van het recht op ondersteuning, zoals dat conform artikel 4 door de VDAB is bepaald, maximaal gedurende de negentien daaropvolgende kwartalen.<br>
-<br>
-§ 7. De werkgever brengt het departement onmiddellijk en op eigen initiatief op de hoogte van elke wijziging op vlak van tewerkstelling van de werknemer die betrekking heeft of kan hebben op de toekenningsvoorwaarden van de VOP.
+...
 
 ### ART. 30.
 
-§ 1. Het bedrag van de tegemoetkoming bij een vastgesteld recht van onbepaalde duur is gelijk aan:<br>
-1° tijdens periode 1, die gelijk is aan het kwartaal van de eerste premieaanvraag vanaf 1 oktober 2020 en de vier daaropvolgende kwartalen van de tewerkstelling bij dezelfde werkgever: 40% van het geplafonneerde referteloon;<br>
-2° tijdens periode 2, die gelijk is aan het vijfde kwartaal na het kwartaal van de eerste premieaanvraag tot en met het achtste kwartaal na het kwartaal van de eerste premieaanvraag bij dezelfde werkgever: 30% van het geplafonneerde referteloon;<br>
-3° tijdens periode 3, die begint in het negende kwartaal na het kwartaal van de eerste premieaanvraag bij dezelfde werkgever: 20% van het geplafonneerde referteloon.<br>
-<br>
-Bij voltijdse tewerkstelling wordt het referteloon geplafonneerd tot het dubbele van het gewaarborgde gemiddelde minimummaandinkomen, vermeld in artikel 3, eerste lid, van de collectieve arbeidsovereenkomst nr. 43 van 2 mei 1988 betreffende de waarborg van een gemiddeld minimummaandinkomen.<br>
-<br>
-De tegemoetkoming kan voor een maximale duurtijd van twintig kwartalen worden toegekend.<br>
-<br>
-§ 1/1. Het bedrag van de tegemoetkoming bij een vastgesteld recht van bepaalde duur is gelijk aan 20% van het geplafonneerde referteloon. De tegemoetkoming start op het ogenblik van het kwartaal waarin de aanvraag is toegekend en loopt maximaal tijdens de zeven daaropvolgende kwartalen zonder de duurtijd van het recht te overschrijden.<br>
-<br>
-§ 2. Het referteloon, vermeld in paragraaf 1 en 1/1, is samengesteld uit de volgende bestanddelen die daadwerkelijk door de werkgever worden betaald voor de bezoldiging van de persoon met een arbeidshandicap :<br>
-1° het loon, vermeld in artikel 14 van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders en zoals als dusdanig gekwalificeerd door de Rijksdienst voor Sociale Zekerheid;<br>
-2° alle verplichte werkgeversbijdragen die verschuldigd zijn conform artikel 38, § 3, § 3bis, § 3quinquies en § 3undecies, van de wet van 29 juni 1981 houdende de algemene beginselen van de sociale zekerheid voor werknemers;<br>
-3° de verminderingen van socialezekerheidsbijdragen ten voordele van de werkgever, meer in het bijzonder de socialezekerheidsbijdragen, vermeld in titel IV, hoofdstuk 7, van de Programmawet (I) van 24 december 2002.<br>
-<br>
-Bij deeltijdse tewerkstelling wordt het plafond van het referteloon pro rata verrekend voor nieuwe aanvragen die worden ingediend vanaf de inwerkintreding van dit besluit. Voor de aanvragen die vóór de inwerkingtreding van dit besluit zijn goedgekeurd, wordt de tegemoetkoming bij een verlenging van de aanvraag of uiterlijk vanaf 1 januari 2019 toegekend op grond van een pro rata verrekening van het plafond van het referteloon.<br>
-<br>
-§ 3. Voor de vaststelling van de periodes, vermeld in paragraaf 1, wordt de periode tussen twee arbeidsovereenkomsten, als die korter is dan vier kwartalen, gelijkgesteld met een tewerkstelling voor de berekening van het bedrag van de VOP, conform paragraaf 1.<br>
-<br>
-§ 4. Tijdens het voorlaatste kwartaal van de toekenning van de VOP brengt het departement de werkgever op de hoogte van het einde van de betalingen van de VOP en van de mogelijkheid om bij het departement een gemotiveerde aanvraag tot behoud van de VOP in te dienen.<br>
-<br>
-Vanaf het voorlaatste kwartaal van de toekenning van de VOP kan de werkgever een gemotiveerde aanvraag indienen bij het departement tot behoud van de VOP. Het departement beslist op basis van de evaluatie door de VDAB, vermeld in artikel 32, over het bedrag en de duurtijd van de VOP.<br>
-<br>
-§ 5. Als de werknemer wordt ontslagen, kan de tegemoetkoming, vermeld in dit besluit, door de werkgever niet worden aangewend om de verbrekingsvergoeding uit te betalen.
+...
 
 ### ART. 30/1.
 
@@ -456,96 +369,29 @@ Vanaf het voorlaatste kwartaal van de toekenning van de VOP kan de werkgever een
 
 ### ART. 31.
 
-Het departement kan aan de werkgever die daarom gemotiveerd verzoekt, een hogere tegemoetkoming toekennen dan de tegemoetkoming, vermeld in artikel 30.<br>
-<br>
-De Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, stelt na het advies van de raad van bestuur van de VDAB de lijst met aandoeningen en voorgaande feiten van personen met een indicatie van een arbeidshandicap vast, die recht geven op een verhoogde tegemoetkoming.<br>
-<br>
-Het departement beslist over het bedrag en de duurtijd van de VOP op basis van een evaluatie door de VDAB als vermeld in artikel 32.<br>
-<br>
-Tijdens het voorlaatste kwartaal waarin de hogere tegemoetkoming wordt toegekend, brengt het departement de werkgever op de hoogte van het einde van de betalingen van de hogere tegemoetkoming en van de mogelijkheid om bij het departement een gemotiveerde aanvraag in te dienen tot behoud van de hogere tegemoetkoming.<br>
-<br>
-Vanaf het voorlaatste kwartaal waarin de hogere tegemoetkoming wordt toegekend, kan de werkgever een gemotiveerde aanvraag indienen bij het departement om die hogere tegemoetkoming te behouden. Het departement beslist op basis van een evaluatie door de VDAB over het bedrag en de duurtijd van de VOP.
+...
 
 ### ART. 32.
 
-Als de werkgever een aanvraag indient tot verlenging van de tegemoetkoming, vermeld in artikel 30, § 4, of tot een verhoging van de tegemoetkoming, vermeld in artikel 31, evalueert de VDAB de behoefte aan ondersteuning en de duurtijd van de ondersteuning ter plaatse bij de werkgever.<br>
-<br>
-De werkgever heeft recht op een verlenging of een verhoging van de VOP als de kosten van de inschakeling in het beroepsleven, de kosten van de ondersteuning en van de verminderde productiviteit tijdens de aanwezigheid op de werkvloer of tijdens de uitoefening van de job van de werknemer minimaal twintig procent van zijn referteloon bedragen.<br>
-<br>
-De VOP wordt maximaal gedurende twintig kwartalen toegekend. De VOP kan maximaal verhoogd worden tot 60 procent van het referteloon.<br>
-<br>
-Bij een verlenging van de tegemoetkoming bij een recht van onbepaalde duur van de werknemer dat conform artikel 4 is vastgesteld, betaalt het departement de tegemoetkoming aan de werkgever gedurende maximaal twintig kwartalen.<br>
-<br>
-Na afloop van de tegemoetkoming op basis van een recht van bepaalde duur van de werknemer kan het departement aan de werkgever een verlenging toekennen op basis van een nieuw recht van bepaalde duur dat conform artikel 4 is vastgesteld. Bij een verlenging op basis van een nieuw recht van bepaalde duur van de werknemer kent het departement de tegemoetkoming toe voor de duurtijd van het recht van de werknemer, voor maximaal acht kwartalen.
+...
 
 ### ART. 33.
 
-De werkgever aan wie de VOP wordt toegekend, kan geen werknemers ontslaan met de uitsluitende bedoeling :<br>
-1° hen te vervangen door een of meer werknemers met een arbeidshandicap, die recht geven op een VOP of op een hogere VOP;<br>
-2° hen daarna opnieuw aan te werven met het oog op de toekenning van een VOP of een hogere VOP.
+...
 
 ### ART. 34.
 
-De VOP voor dezelfde werknemer is niet cumuleerbaar met :<br>
-1° de vergoeding voor het inschakelingstraject van de doelgroepwerknemer, vermeld in artikel 25 van het decreet van 22 november 2013 betreffende de lokale diensteneconomie;<br>
-2° de premie, vermeld in het besluit van de Vlaamse regering van 27 oktober 1993 tot veralgemening van het stelsel van gesubsidieerde contractuelen;<br>
-3° de tegemoetkoming, vermeld in hoofdstuk III van het koninklijk besluit nr. 25 van 24 maart 1982 tot opzetting van een programma ter bevordering van de werkgelegenheid in de niet-commerciële sector;<br>
-4° het advies collectief maatwerk, vermeld in artikel 12 van het besluit van 17 februari 2017;<br>
-5° het loon dat wordt uitbetaald aan de personen die tewerkgesteld zijn met toepassing van artikel 60, § 7, en artikel 61 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn;<br>
-6° de loonpremie voor de invoegwerknemers, vermeld in artikel 11 van het besluit van de Vlaamse Regering van 15 juli 2005 betreffende de erkenning en financiering van de invoegbedrijven;<br>
-7° de subsidie van loon en sociale lasten voor gehandicapte werknemers, vermeld in hoofdstuk II van het besluit van de Vlaamse regering van 19 december 1996 houdende de subsidieregeling van het loon en van de sociale lasten van de werknemers in de beschutte werkplaatsen die erkend zijn door het Departement Werk en Sociale Economie;<br>
-8° de loonpremie voor een doelgroepwerknemer in een sociale werkplaats, vermeld in artikel 18 van het besluit van de Vlaamse Regering van 8 december 1998 tot uitvoering van het decreet inzake sociale werkplaatsen.<br>
-<br>
-Als de hoogste steunintensiteit of het hoogste steunbedrag, vermeld in verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard, wordt overschreden, worden de vergoedingen die buiten dit besluit zijn verworven, in mindering gebracht van de VOP.
+...
 
 ## Afdeling II. [... (opgeh. BVR 15 juli 2022, art. 75, I: 1 juli 2023)]
 
 ### ART. 35.
 
-Het departement kent de VOP toe aan de persoon met een arbeidshandicap die na 1 oktober 2008 zelfstandige in hoofdberoep of zelfstandige in bijberoep is geworden als vermeld in het koninklijk besluit nr. 38 van 27 juli 1967 houdende inrichting van het sociaal statuut der zelfstandigen.<br>
-<br>
-Het departement kent, na aanvraag van de zelfstandige, een VOP toe aan de zelfstandige in hoofdberoep&nbsp;of bijberoep die na 1 oktober 2008 een persoon met arbeidshandicap is geworden, als die personen recht hebben op bijzondere tewerkstellingsondersteunende maatregelen en voorheen geen erkenning hadden voor een tegemoetkoming om de tewerkstelling onder gewone arbeidsvoorwaarden te bevorderen van het Vlaams Agentschap voor Personen met een Handicap of een van zijn rechtsvoorgangers.<br>
-<br>
-De toekenning van een VOP aan de persoon, vermeld in het eerste&nbsp;en tweede lid is afhankelijk van een positieve beoordeling van de zelfstandige activiteit van de door de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, erkende organisatie. De erkende organisatie beoordeelt de zelfstandige activiteit positief voor zover het belastbare nettobedrijfsinkomen van de zelfstandige activiteit tijdens het kwartaal van de aanvraag en tijdens de vier volgende kwartalen hoger is dan 13.500 euro.<br>
-<br>
-De beoordeling, vermeld in het derde lid, is niet vereist voor de personen die met betrekking tot hun zelfstandige activiteit beschikken over een fiscaal aanslagbiljet voor het aanslagjaar dat voorafgaat aan de aanvraag van de VOP.<br>
-<br>
-Om een VOP te krijgen moet de zelfstandige aan een van de volgende voorwaarden voldoen:<br>
-1° hij woont op het grondgebied van het Vlaamse Gewest;<br>
-2° hij woont op het grondgebied van een van de andere lidstaten van de Europese Unie (EU) of van de Europese Economische Ruimte (EER) en werkt op het grondgebied van het Vlaamse Gewest.<br>
-&nbsp;
+...
 
 ### ART. 36.
 
-§ 1. Het gewaarborgd gemiddeld minimummaandinkomen, vermeld in artikel 3, eerste lid, van de collectieve arbeidsovereenkomst nr. 43 van 2 mei 1988 betreffende de waarborg van een gemiddeld minimummaandinkomen, wordt als basis genomen voor de berekening van de VOP.<br>
-<br>
-§ 2. Het bedrag van de tegemoetkoming bij een vastgesteld recht van onbepaalde duur is gelijk aan:<br>
-1° 40% gedurende het kwartaal van de aanvraag en de vier daaropvolgende kwartalen;<br>
-2° 20% vanaf het zesde kwartaal tot en met het twintigste kwartaal, op voorwaarde dat voldoende bedrijfsactiviteit kan worden aangetoond.<br>
-<br>
-Het bedrag van de tegemoetkoming bij een vastgesteld recht van bepaalde duur is gelijk aan 20%. De tegemoetkoming start op het ogenblik van het kwartaal waarin de aanvraag is toegekend en loopt maximaal tijdens de zeven daaropvolgende kwartalen zonder de duurtijd van het recht te overschrijden.<br>
-<br>
-Tijdens het voorlaatste kwartaal van de toekenning van de VOP brengt het departement de zelfstandige op de hoogte van het einde van de betalingen van de VOP en van de mogelijkheid om bij het departement een gemotiveerde aanvraag in te dienen tot behoud van het bedrag, vermeld in het eerste lid, 2°.<br>
-<br>
-Vanaf het voorlaatste kwartaal van de toekenning van de VOP kan de zelfstandige een gemotiveerde aanvraag indienen bij het departement tot behoud van de tegemoetkoming.<br>
-<br>
-Bij een verlenging van de tegemoetkoming bij een recht van onbepaalde duur van de zelfstandige dat conform artikel 4 is vastgesteld, beslist het departement op basis van een evaluatie door de VDAB over het bedrag en de periode van de VOP. Het departement bepaalt de tegemoetkoming gedurende maximaal twintig kwartalen.<br>
-<br>
-Na afloop van de tegemoetkoming op basis van een recht van bepaalde duur van de zelfstandige kan het departement aan de zelfstandige een verlenging toekennen op basis van een nieuw recht van bepaalde duur dat conform artikel 4 is vastgesteld. Bij een verlenging op basis van een nieuw recht van bepaalde duur van de zelfstandige kent het departement de tegemoetkoming toe voor de duurtijd van het recht van de zelfstandige, voor maximaal acht kwartalen.<br>
-<br>
-Het departement kan aan de zelfstandige met een arbeidshandicap die gedurende minimaal twee jaar zijn zelfstandige activiteiten uitoefent, een hoger bedrag van de VOP voor zelfstandigen toekennen, tot maximaal 60% van het gemiddelde gewaarborgd minimummaandinkomen. Om aanspraak te kunnen maken op de verhoging, toont de zelfstandige op gemotiveerde wijze aan dat de ernst van de arbeidshandicap hogere bijkomende kosten of een hoger rendementsverlies veroorzaakt. De VDAB evalueert de behoefte aan ondersteuning ter plaatse, namelijk:<br>
-1° de kosten van de inschakeling in het beroepsleven;<br>
-2° de kosten van de ondersteuning en van de verminderde productiviteit tijdens de uitoefening van de zelfstandige activiteiten..<br>
-<br>
-§ 3. Er is voldoende bedrijfsactiviteit zolang het belastbare nettobedrijfsinkomen hoger dan 13.500 euro is. Dat wordt aangetoond met een fiscaal aanslagbiljet voor het aanslagjaar dat voorafgaat aan de uitbetaling van de VOP. Via de gegevensstroom met de Rijksdienst voor de Sociale Verzekeringen der Zelfstandigen volgt het departement de zelfstandige activiteit op.<br>
-<br>
-Als de zelfstandige er niet in slaagt om voldoende bedrijfsactiviteit te realiseren door stopzetting of een volledige onderbreking van de zelfstandige activiteiten door ziekte, wordt de bedrijfsactiviteit pro rata berekend. De VOP wordt alleen uitbetaald voor de periode waarin de zelfstandige zijn activiteiten heeft uitgevoerd.<br>
-<br>
-Als de zelfstandige er niet in slaagt om voldoende bedrijfsresultaten te realiseren tijdens een crisis met een ernstige sociale en economische impact die de minister als dusdanig erkent, wordt met behoud van de toepassing van het eerste en tweede lid, de bedrijfsactiviteit pro rata berekend.<br>
-<br>
-§ 4. Als de zelfstandige niet voldoende bedrijfsactiviteit realiseert, worden de toekomstige betalingen van de VOP opgeschort. De zelfstandige kan, nadat hij aangetoond heeft dat hij voldoende bedrijfsactiviteit realiseert, een voortzetting van de betaling van de VOP vragen.<br>
-<br>
-§ 5. De zelfstandige brengt het departement onmiddellijk en op eigen initiatief op de hoogte van elke wijziging die betrekking heeft of kan hebben op het realiseren van voldoende bedrijfsactiviteit.
+...
 
 ## HOOFDSTUK VII. [... (opgeh. BVR 26 oktober 2018, art. 35, I: 1 januari 2019)]
 
