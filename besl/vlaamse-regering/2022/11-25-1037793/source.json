@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037793,
+  "title": "Besluit van de Vlaamse Regering van 2022-11-25 tot regeling van de organisatie, de samenstelling en de werking van de IBH",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037793/VolledigDocument?datum=2023-07-01",
+  "source_sha256": "725659a1727c0d83d13dd05f35bebb9d04a60224343408373b17d8dc7f760b91",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037793&param=informatie",
+  "as_of": "2023-07-01",
+  "made": "2022-11-25",
+  "gazette": "2022-12-21",
+  "numac": 2022034774,
+  "document_start": "2023-07-01",
+  "document_end": null,
+  "in_force": "2023-07-01",
+  "article_versions": 44,
+  "record_form": "consolidated version as in force on 2023-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
