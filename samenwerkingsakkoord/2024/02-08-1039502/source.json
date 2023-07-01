@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039502,
+  "title": "Samenwerkingsakkoord van 2024-02-08 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie strekkende tot wijziging van het samenwerkingsakkoord van 14 juli 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende de verwerking van gegevens met betrekking tot het digitaal EU-COVID-certificaat, het COVID Safe Ticket, het PLF en de verwerking van persoonsgegevens van in het buitenland wonende of verblijvende werknemers en zelfstandigen die activiteiten uitvoeren in België, gewijzigd bij de samenwerkingsakkoorden van 27 september 2021 en 28 oktober 2021",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039502/VolledigDocument?datum=2023-07-01",
+  "source_sha256": "64dc1273f2814df0e580c796983d7432e4bad37917a80160a305f76033a2b16f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039502&param=informatie",
+  "as_of": "2023-07-01",
+  "made": "2024-02-08",
+  "gazette": "2024-03-27",
+  "numac": 0,
+  "document_start": "2023-07-01",
+  "document_end": null,
+  "in_force": "2023-07-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2023-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
