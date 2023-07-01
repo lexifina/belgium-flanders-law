@@ -546,6 +546,10 @@ De dienstverleners die op de datum van de inwerkingtreding van dit besluit diens
 
 Dienstverleners kunnen tot 24 maanden na de datum van de inwerkingtreding van dit besluit kwaliteitsbewijzen indienen waarbij artikel 5, § 3 en § 4, niet van toepassing is.
 
+### ART 59bis.
+
+Met behoud van de toepassing van artikel 7, vijfde lid, lopen de geldigheid van het goedkeuringsbewijs dat is uitgereikt vóór 1 januari 2023 en de toepassingstermijn van artikel 5, tweede lid, 3° van het decreet van 29 maart 2019 af op 30 juni 2023 als maatwerkafdelingen en lokale diensteneconomieondernemingen met ingang van 1 juli 2023 hun dienstverlening heroriënteren overeenkomstig het decreet van 14 januari 2022 over maatwerk bij individuele inschakeling.
+
 ### ART 60.
 
 Het decreet van 29 maart 2019 treedt in werking op 2 september 2019.<br>
