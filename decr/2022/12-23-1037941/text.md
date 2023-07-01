@@ -40,4 +40,22 @@ De Vlaamse Regering bepaalt de bewaartermijnen voor de persoonsgegevens, vermeld
 
 ## Hoofdstuk 4. Wijzigingen van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming
 
+### ART 7.
+
+In artikel 49 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, gewijzigd bij de decreten van 18 juni 2021 en 24 juni 2022, worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 3/2 wordt vervangen door wat volgt:<br>
+“§3/2. Het agentschap kan de identificatiegegevens, opleidingsgegevens en tewerkstellingsgegevens verwerken van de medewerkers die ingezet worden in de zorgvoorzieningen en van de zelfstandigen die met een ondernemingscontract aan de zorgvoorziening verbonden zijn en die worden ingeschakeld in de werking van de zorgvoorzieningen. Die gegevens zijn noodzakelijk om:<br>
+1° de sociale akkoorden uit te voeren;<br>
+2° de financiering die toekomt aan de zorgvoorzieningen, te berekenen;<br>
+3° passende maatregelen te kunnen nemen die een kwalitatieve zorg en ondersteuning in de zorgvoorziening garanderen;<br>
+4° de overheidsfinanciering op een onderbouwde basis gericht te kunnen inzetten.<br>
+De Vlaamse Regering specificeert per doeleinde welke identificatie-, opleidings- of tewerkstellingsgegevens worden verwerkt.<br>
+Als dat noodzakelijk is, vraagt het agentschap de gegevens, vermeld in het eerste lid, aan de zorgvoorzieningen in kwestie.”;<br>
+2° in paragraaf 4, 1°, worden de woorden “die zorg verlenen in de zorgvoorzieningen” vervangen door de woorden “die met een ondernemingscontract aan de zorgvoorziening verbonden zijn en die worden ingeschakeld in de werking van de zorgvoorzieningen”.
+
+### ART 8.
+
+In artikel 53/1, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 18 juni 2021 en vervangen bij het decreet van 24 juni 2022, wordt punt 2° vervangen door wat volgt:<br>
+“2° de zelfstandigen die met een ondernemingscontract aan de zorgvoorziening verbonden zijn en die worden ingeschakeld in de werking van de zorgvoorzieningen;”.
+
 ## Hoofdstuk 5. Inwerkingtreding
