@@ -380,6 +380,143 @@ Wanneer een gerechtelijke procedure aanhangig is, wordt de vordering ingesteld m
 <br>
 § 2. De Vlaamse Regering is ertoe gemachtigd om in dit kader binnen de perken van de begroting financiering te voorzien voor het gedeelte van de gemeenschappelijke actie die onder haar bevoegdheid ressorteert.
 
+### ART 25bis.
+
+§ 1. In dit artikel wordt verstaan onder beveiligde zending:<br>
+1° een aangetekende brief;<br>
+2° een afgifte tegen ontvangstbewijs;<br>
+3° een e-mail;<br>
+4° elke andere door de Vlaamse Regering toegelaten betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld.<br>
+<br>
+§ 2. Er wordt een instantie opgericht met de naam Instantie voor de behandeling van havengeschillen, afgekort IBH, die klachten behandelt die voortvloeien uit de toepassing van verordening (EU) 2017/352.<br>
+<br>
+De klachten worden behandeld conform paragraaf 3 tot en met 14 en conform artikel 16 van verordening (EU) 2017/352.<br>
+<br>
+§ 3. Iedereen kan bij de IBH een klacht indienen over een mogelijke overtreding van verordening (EU) 2017/352.<br>
+<br>
+De IBH behandelt de klachten op de volgende wijze:<br>
+1° op een wijze die belangenconflicten voorkomt;<br>
+2° onpartijdig, transparant en functioneel onafhankelijk van havenbeheerders en aanbieders van havendiensten;<br>
+3° met inachtneming van de vrijheid van ondernemen.<br>
+<br>
+§ 4. De IBH is samengesteld uit de volgende leden:<br>
+1° een voorzitter;<br>
+2° een vaste bijzitter;<br>
+3° een tijdelijke bijzitter.<br>
+<br>
+De IBH beslist bij consensus of, bij gebreke daarvan, bij gewone meerderheid van stemmen.<br>
+<br>
+De voorzitter wordt door de Vlaamse Regering benoemd voor een periode van vijf jaar. De benoeming van de voorzitter kan twee keer worden verlengd voor de voormelde termijn.<br>
+<br>
+De gewestelijke havencommissaris treedt op als vaste bijzitter. Teneinde zijn onafhankelijkheid te waarborgen, wordt er bij het bepalen van zijn statuut op toe gezien dat hij geen instructies kan ontvangen aangaande de in zijn hoedanigheid van lid van de IBH te nemen beslissingen en die beslissingen kunnen geen aanleiding geven tot disciplinaire sancties.<br>
+<br>
+De tijdelijke bijzitter wordt bij het ontvangen van een klacht aangeduid door de voorzitter op grond van een lijst van deskundigen over het beheer en de exploitatie van havens die om de vijf jaar op voorstel van de bevoegde minister wordt vastgesteld door de Vlaamse Regering. De opname van een persoon op de lijst van tijdelijke bijzitters kan twee keer worden verlengd voor de voormelde termijn. Bij de aanduiding van tijdelijke bijzitters wordt erover gewaakt dat ze beschikken over de specifieke deskundigheid die nodig is om de ingediende klacht te behandelen.<br>
+<br>
+De leden van de IBH mogen geen belangen hebben bij het beheer van havens, het verrichten van havendiensten en het gebruik van havens. Als in verband met een te behandelen dossier blijkt dat een lid toch een belang heeft dat de onafhankelijkheid en onpartijdigheid van de behandeling zou kunnen schaden, als het lid onbeschikbaar is, of een ander lid vervangt, laat het lid zich vervangen conform de volgende regels:<br>
+1° de voorzitter laat zich vervangen door de gewestelijke havencommissaris;<br>
+2° de gewestelijke havencommissaris laat zich vervangen door een tijdelijke bijzitter;<br>
+3° de tijdelijke bijzitter laat zich vervangen door een andere tijdelijke bijzitter.<br>
+<br>
+Als noch de voorzitter, noch de gewestelijke havencommissaris kunnen zetelen, wordt de IBH samengesteld uit drie tijdelijke bijzitters, waaronder een plaatsvervangende voorzitter, die worden aangeduid door de bevoegde minister.<br>
+<br>
+§ 5. Op straffe van onontvankelijkheid worden de klachten bij de IBH, naargelang welk tijdstip het vroegste valt, ingediend binnen zestig dagen na een van de volgende dagen:<br>
+1° de dag waarop het feit of de beslissing die het voorwerp van de klacht vormt, is bekendgemaakt;<br>
+2° de dag waarop de klager kennis had, dan wel redelijkerwijze kennis had moeten hebben van dat feit, van die beslissing of, in geval van een voortdurende overtreding, van die overtreding.<br>
+<br>
+De klachten worden ingediend bij verzoekschrift. Op straffe van onontvankelijkheid wordt het verzoekschrift ondertekend en vermeldt het al de volgende informatie:<br>
+1° de naam, de voornaam, de woonplaats en het e-mailadres van de klager of, als de klager een rechtspersoon is, zijn benaming, zetel, e-mailadres en, als dat van toepassing is, zijn ondernemingsnummer, en de naam, de voornaam, de woonplaats, het e-mailadres en de hoedanigheid van de optredende wettelijke vertegenwoordiger;<br>
+2° de naam, de voornaam, de woonplaats en het e-mailadres van de aangeklaagde of, als de aangeklaagde een rechtspersoon is, zijn benaming, zetel, e-mail adres en, als dat van toepassing is, zijn ondernemingsnummer;<br>
+3° het voorwerp van de klacht, een uiteenzetting van de middelen en de bepalingen van verordening (EU) 2017/352 die naar het oordeel van de klager geschonden zijn, en de gevraagde beslissing;<br>
+4° de bewijsstukken waarover de klager beschikt.<br>
+<br>
+Als de klager een rechtspersoon is, voegt hij bij zijn verzoekschrift, op straffe van onontvankelijkheid, een voor eensluidend verklaard afschrift van zijn statuten en van de stukken waaruit de vertegenwoordigingsbevoegdheid van de ondertekenaar blijkt.<br>
+<br>
+De klager bezorgt het verzoekschrift aan het secretariaat van de IBH met een beveiligde zending.<br>
+<br>
+De voorzitter van de IBH kan de klager verzoeken om ontbrekende gegevens of stukken mee te delen binnen een termijn die hij vaststelt. Daarbij kan hij de termijn, vermeld in paragraaf 7, verlengen met ten hoogste dertig dagen.<br>
+<br>
+Aan de indiening en behandeling van een klacht bij de IBH zijn ten laste van de klager geen kosten verbonden.<br>
+<br>
+De indiening van een klacht bij de IBH verhindert niet dat de klager over de mogelijke overtreding van verordening (EU) 2017/352 een geschil aanhangig maakt bij de bevoegde rechter, die zijn uitspraak kan aanhouden tot de IBH of, in geval van een beroep, het Marktenhof een definitieve uitspraak heeft gedaan over de klacht.<br>
+<br>
+§ 6. De IBH registreert de ontvangen klacht en bevestigt de ontvangst zo snel mogelijk aan de klager met een beveiligde zending.<br>
+<br>
+§ 7. Binnen vijftien dagen na de dag waarop de IBH het verzoekschrift heeft geregistreerd conform paragraaf 6, beslist ze over de ontvankelijkheid. De IBH kan een klacht onontvankelijk verklaren omdat de op straffe van onontvankelijkheid bepaalde voorschriften, vermeld in paragraaf 5, niet zijn nageleefd of omdat de klacht kennelijk geen betrekking heeft op een overtreding van verordening (EU) 2017/352.<br>
+<br>
+De IBH deelt onmiddellijk de beslissing over de ontvankelijkheid met een beveiligde zending mee aan de klager en de aangeklaagde. De beslissing om de klacht onontvankelijk te verklaren, stelt een einde aan de klachtprocedure.<br>
+<br>
+§ 8. Als de klacht ontvankelijk is verklaard, deelt de IBH alle stukken onmiddellijk met een beveiligde zending mee aan de aangeklaagde. Tegelijk nodigt de IBH de aangeklaagde uit om een repliekmemorie in te dienen binnen dertig dagen na de datum van kennisgeving. De IBH kan de partijen uitnodigen om nadere memories in te dienen. De aangeklaagde heeft het laatste woord.<br>
+<br>
+De IBH kan in om het even welke stand van de klachtbehandeling een poging tot bemiddeling ondernemen.<br>
+<br>
+De IBH kan de havenbedrijven, de aanbieders van havendiensten en de haven gebruikers verplichten om haar binnen een termijn die ze vaststelt informatie over een klacht te verschaffen. Als de IBH een dergelijke verplichting oplegt, vermeldt ze daarbij dat het opleggen van die verplichting gebeurt conform dit lid.<br>
+<br>
+De IBH kan personen die betrokken zijn, getuigen en deskundigen verzoeken om een mondelinge of schriftelijke verklaring af te leggen. Ze kan ook een tegensprekelijke hoorzitting organiseren of ter plekke, binnen of buiten het havengebied, een onderzoek instellen.<br>
+<br>
+§ 9. De IBH beslist over de klacht binnen 120 dagen na de dag waarop ze de klacht heeft geregistreerd conform paragraaf 6. De IBH kan de voormelde termijn een keer met 60 dagen verlengen.<br>
+<br>
+De IBH neemt een bindende beslissing over de gegrondheid van de klacht en motiveert die beslissing. De IBH kan tussentijdse beslissingen nemen.<br>
+<br>
+De IBH kan beslissen dat de aangeklaagde een beslissing moet intrekken, een nieuwe beslissing moet nemen, de uitvoering van een beslissing moet opschorten, een bedrag moet kwijtschelden of een terugbetaling moet verrichten, een en ander al dan niet binnen een gestelde termijn.<br>
+<br>
+De IBH deelt de beslissing over de gegrondheid van de klacht onmiddellijk mee aan de klager en de aangeklaagde met een beveiligde zending.<br>
+<br>
+§ 10. De klager en de aangeklaagde kunnen tegen de beslissing van de IBH een beroep instellen bij het Marktenhof. Op straffe van onontvankelijkheid wordt dat beroep ingesteld binnen zestig dagen na de datum van ontvangst van de beveiligde zending waarmee de beslissing in kwestie aan de appellant is meegedeeld.<br>
+<br>
+Het beroep wordt ingesteld met een verzoekschrift gericht tegen de IBH. Het Marktenhof brengt de klager, de aangeklaagde en de IBH aangetekend op de hoogte van het beroep.<br>
+<br>
+Het beroep heeft geen opschortende werking, tenzij het Marktenhof de opschorting uitspreekt van de beslissing in kwestie. De opschorting van de uitvoering van de beslissing kan alleen bevolen worden als ernstige middelen worden ingeroepen die de vernietiging van de beslissing kunnen rechtvaardigen en op voorwaarde dat de onmiddellijke uitvoering van de beslissing ernstige en moeilijk te herstellen gevolgen kan hebben voor een van de betrokken partijen.<br>
+<br>
+Het Marktenhof zetelt zoals in kort geding. Het oordeelt evenwel met volle rechtsmacht. Het kan de beslissing van de IBH bevestigen of tenietdoen. In dat laatste geval neemt het een nieuwe beslissing over de klacht.<br>
+<br>
+§ 11. In deze paragraaf wordt verstaan onder:<br>
+1° algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
+2° functionaris voor gegevensbescherming: zoals bepaald in artikel 9 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevens verkeer.<br>
+<br>
+De IBH wordt aangewezen als de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van de persoonsgegevens in het kader van dit artikel.<br>
+<br>
+In het kader van de toepassing van dit artikel worden persoonsgegevens verwerkt inzake een wettelijke verplichting, vermeld in artikel 6, 1, c), van de algemene verordening gegevensbescherming, met als doel de toepassing en de handhaving van verordening (EU) 2017/352 en de uitvoering van de taken die door dit decreet aan de IBH worden toegewezen.<br>
+<br>
+Met toepassing van artikel 23, lid 1, e) en h), van de algemene verordening gegevensbescherming kan de IBH beslissen om de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerkingen van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan is aan de voorwaarden, vermeld in het vijfde tot en met het twaalfde lid.<br>
+<br>
+De afwijkingsmogelijkheid, vermeld in het vierde lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van de IBH, op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast. De duur van de voorbereidende werkzaamheden mag in voorkomend geval niet meer bedragen dan zes maanden vanaf de ontvangst van een verzoek tot uitoefening van een van de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening.<br>
+<br>
+De afwijkingsmogelijkheid, vermeld in het vierde lid, heeft geen betrekking op de gegevens die losstaan van het voorwerp van het onderzoek dat of van de controle die de weigering of beperking van de rechten, vermeld in het vierde lid, rechtvaardigt.<br>
+<br>
+Als de betrokkene in het geval, vermeld in het vierde lid, tijdens de periode, vermeld in het vijfde lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, bevestigt de bevoegde functionaris voor gegevensbescherming dat hij dat verzoek heeft ontvangen.<br>
+<br>
+De bevoegde functionaris voor gegevensbescherming brengt de betrokkene schriftelijk, zo snel mogelijk en in elk geval binnen dertig dagen vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van elke weigering of beperking van de rechten, vermeld in het vierde lid. De verdere informatie over de nadere redenen voor die weigering of die beperking hoeft niet te worden verstrekt als dat de decretale en reglementaire opdrachten van de IBH zou ondermijnen, met behoud van de toepassing van het elfde lid. Als het nodig is, kan de voormelde termijn met 60 dagen worden verlengd, rekening houdend met het aantal aanvragen en de complexiteit ervan. De verwerkingsverantwoordelijke brengt de betrokkene binnen dertig dagen vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van die verlenging en van de redenen voor het uitstel.<br>
+<br>
+De bevoegde functionaris voor gegevensbescherming informeert de betrokkene ook over de mogelijkheid om een verzoek in te dienen bij de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens conform artikel 10/5 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, en om een beroep in rechte in te stellen.<br>
+<br>
+De bevoegde functionaris voor gegevensbescherming noteert de feitelijke of juridische gronden waarop de beslissing is gebaseerd. Die informatie houdt hij ter beschikking van de voormelde Vlaamse Toezichtcommissie.<br>
+<br>
+Nadat het onderzoek is afgesloten, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval, conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
+<br>
+Als een dossier dat persoonsgegevens als vermeld in het vierde lid bevat, naar het Openbaar Ministerie is gestuurd en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mag de bevoegde functionaris voor gegevensbescherming op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval, de onderzoeksrechter heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.<br>
+<br>
+§ 12. In de volgende gevallen kan de IBH ambtshalve of op verzoek, commercieel of industrieel gevoelige informatie vertrouwelijk behandelen:<br>
+1° bij de uitwisseling van verzoekschriften, memories, gegevens en stukken;<br>
+2° bij het onderzoeken van een klacht;<br>
+3° bij de pogingen tot bemiddeling, vermeld in paragraaf 8, tweede lid;<br>
+4° bij de omgang met informatie en verklaringen, vermeld in paragraaf 8, derde en vierde lid;<br>
+5° bij de publicatie van beslissingen.<br>
+<br>
+§ 13. Het secretariaat van de IBH bewaart de klachtdossiers gedurende ten minste vijf jaar. De persoonsgegevens kunnen bewaard worden tot maximaal tien jaar:<br>
+1° na het ogenblik dat de IBH het onderzoek definitief zonder gevolg afsluit;<br>
+2° ingeval de IBH een beslissing neemt tot onontvankelijkheid of tot ongegrondheid van de klacht: nadat de beroepstermijn bedoeld in artikel 25bis, § 10, eerste lid, is afgelopen zonder dat een beroep werd ingesteld;<br>
+3° ingeval de IBH een beslissing neemt tot gegrondheid van de klacht, waartegen geen beroep werd ingesteld: na de kennisgeving van de eindbeslissing van de IBH;<br>
+4° ingeval tegen een beslissing van de IBH een beroep wordt ingesteld: na de betekening van het eindarrest van het Marktenhof, desgevallend na cassatie en verwijzing.<br>
+<br>
+Elk jaar dient de IBH bij de Vlaamse Regering een verslag over haar werking in.<br>
+<br>
+Tenzij de regels, vermeld in paragraaf 11 en 12, zich daartegen verzetten, maakt de IBH haar beslissingen integraal of bij uittreksel bekend op haar website of op een andere wijze.<br>
+<br>
+§ 14. De Vlaamse Regering:<br>
+1° stelt het adres van het secretariaat en de zetel van de IBH vast;<br>
+2° regelt de organisatie van het secretariaat van de IBH, de financiering van de IBH, en de vergoeding van haar leden;<br>
+3° regelt de organisatie van de IBH, haar samenstelling, haar werking, de klachtprocedure en de bewaring van dossiers.
+
 ### ART 25ter.
 
 Met een geldboete van 125 euro tot 31.250 euro wordt gestraft hij die zich schuldig maakt aan:<br>
