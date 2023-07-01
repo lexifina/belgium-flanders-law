@@ -55,7 +55,7 @@ b) de volgende werknemers in werkonzekerheid:<br>
 4) de werknemers in tijdelijke arbeid;<br>
 c) de werknemers in een van de volgende tewerkstellingsprogramma's:<br>
 1) een tewerkstellingsprogramma in het kader van collectief maatwerk als vermeld in het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling;<br>
-2) een tewerkstellingsprogramma in het kader van de lokale diensteneconomie, vermeld in artikel 3, 4°, van het decreet van 22 november 2013 betreffende de lokale diensteneconomie;<br>
+2) een tewerkstellingsprogramma in het kader van individueel maatwerk als vermeld in het decreet van 14 januari 2022 over maatwerk bij individuele inschakeling, als een loonpremie als vermeld in hoofdstuk 4, afdeling 2, van het voormelde decreet, en een begeleidingspremie als vermeld in hoofdstuk 4, afdeling 3, van het voormelde decreet, wordt toegekend;<br>
 3) een tewerkstellingsprogramma als vermeld in artikel 60, § 7, van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn;<br>
 4) een tewerkstellingsprogramma in het kader van het wijk-werken, vermeld in artikel 3, 9°, van het Wijk-werkendecreet van 7 juli 2017;<br>
 5) een tewerkstellingsprogramma in het kader van sociale inschakelingseconomie als vermeld in artikel 59 van de wet van 26 maart 1999 betreffende het Belgisch actieplan voor de werkgelegenheid 1998 en houdende diverse bepalingen;<br>
