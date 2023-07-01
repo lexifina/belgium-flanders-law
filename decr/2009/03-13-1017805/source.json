@@ -2,16 +2,16 @@
   "codex_id": 1017805,
   "title": "Decreet van 2009-03-13 betreffende de sectorconvenants in het raam van het Vlaamse werkgelegenheidsbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017805/VolledigDocument?datum=2010-01-01",
-  "source_sha256": "9fd8b2bab09031cfff3bcf10ef9fb8ab17a63d90fdb13bd3749ddbadf2f453f7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017805/VolledigDocument?datum=2023-07-01",
+  "source_sha256": "a0f11addf4ea3e9205dcdc16a5f334cc80d6d106cf4ea149f856a790657c73d8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017805&param=informatie",
-  "as_of": "2010-01-01",
+  "as_of": "2023-07-01",
   "made": "2009-03-13",
   "gazette": "2009-04-17",
   "numac": 2009201605,
   "document_start": "2010-01-01",
   "document_end": "2023-06-30",
-  "in_force": "2010-01-01",
+  "in_force": "2023-07-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-07-01; future article versions excluded; article text as the API gives it"
 }
