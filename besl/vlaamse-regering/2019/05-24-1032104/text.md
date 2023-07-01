@@ -116,6 +116,12 @@ In artikel 28 van hetzelfde besluit worden volgende wijzigingen aangebracht:<br>
 2° de volgende zin wordt toegevoegd:<br>
 "De regels uit hoofdstuk 3 zijn van overeenkomstige toepassing".
 
+### ART 14.
+
+Artikel 30 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 juli 2017, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 30. Kind en Gezin erkent één adoptiedienst."
+
 ### ART 15.
 
 In artikel 33 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
@@ -137,6 +143,10 @@ In artikel 37 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Re
 4° aan paragraaf 2 wordt een punt 4° toegevoegd dat luidt als volgt:<br>
 "4° het subsidiebedrag van 231.230 euro voor het laagdrempelig ondersteuningsaanbod, vermeld in artikel 22, eerste lid.";<br>
 5° in paragraaf 3 wordt de zinsnede "die een subsidie bekomt," opgeheven.
+
+### ART 17.
+
+Artikel 38 van hetzelfde besluit wordt opgeheven.
 
 ### ART 18.
 
