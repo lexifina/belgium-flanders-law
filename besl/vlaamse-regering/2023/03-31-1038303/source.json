@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038303,
+  "title": "Besluit van de Vlaamse Regering van 2023-03-31 tot wijziging van het besluit van de Vlaamse Regering van 27 april 2007 betreffende de kenmerken waartoe het onderzoek van bepaalde rassen van landbouw- en groentegewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek, wat betreft afwijkingen voor de biologische rassen van landbouw- en groentegewassen die geschikt zijn voor biologische teelt",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038303/VolledigDocument?datum=2023-07-01",
+  "source_sha256": "7ec95ab5147cf5e4a33ac2aa4f83b4eddc3af871a4bdb3f755950f8b6d3f53d7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038303&param=informatie",
+  "as_of": "2023-07-01",
+  "made": "2023-03-31",
+  "gazette": "2023-05-10",
+  "numac": 2023031070,
+  "document_start": "2023-07-01",
+  "document_end": null,
+  "in_force": "2023-07-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2023-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
