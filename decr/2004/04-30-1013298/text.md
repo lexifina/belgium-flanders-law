@@ -13,7 +13,7 @@ Dit decreet regelt zowel een gewest- als een gemeenschapsaangelegenheid.
 2° het decreet van 19 juli 1973 tot regeling van het gebruik van de talen voor de sociale betrekkingen tussen de werkgevers en de werknemers alsmede van de door de wet en de verordeningen voorgeschreven akten en bescheiden van de ondernemingen;<br>
 3° het koninklijk besluit nr. 25 van 24 maart 1982 tot opzetting van en programma ter bevordering van de werkgelegenheid in de niet-commerciële sector;<br>
 4° ...<br>
-5° ...<br>
+5° het decreet van 14 januari 2022 over maatwerk bij individuele inschakeling;<br>
 6° het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling;<br>
 7° het decreet van 10 december 2010 betreffende de private arbeidsbemiddeling;<br>
 8° ...<br>
@@ -43,8 +43,8 @@ Dit decreet regelt zowel een gewest- als een gemeenschapsaangelegenheid.
 32° het besluit van de Vlaamse Regering van 1 maart 2002 houdende hervorming van het stelsel van de aanmoedigingspremies in de privésector;<br>
 33° het besluit van de Vlaamse Regering van 3 mei 2002 tot instelling van de aanmoedigingspremies in de Vlaamse private sociale profitsector;<br>
 34° het besluit van de Vlaamse Regering van 8 september 2000 houdende een impuls- en ondersteuningsprogramma van de meerwaardeneconomie;<br>
-35° het decreet van 13 maart 2009 betreffende de sectorconvenants in het raam van het Vlaams Werkgelegenheidsbeleid;<br>
-36° het decreet van 25 april 2014 houdende de werk- en zorgtrajecten;<br>
+35° het decreet van 17 februari 2023 over de sectorconvenants en de intersectorale convenants in het kader van het Vlaamse werkgelegenheidsbeleid;<br>
+36° hoofdstuk 4, 5 en 7 van het decreet van 8 juli 2022 over de werk- en zorgtrajecten;<br>
 37° het hoofdstuk IV, afdeling 5 en afdeling 6, van de herstelwet van 22 januari 1985 houdende sociale bepalingen, met uitzondering van de bepalingen van artikel 113, 115, 118 en 119;<br>
 38° de wet van 19 juli 1983 op het leerlingwezen voor beroepen uitgeoefend door werknemers in loondienst;<br>
 39° hoofdstukken V en VII van de wet van 5 september 2001 tot de verbetering van de werkgelegenheidsgraad van de werknemers;<br>
@@ -68,7 +68,9 @@ Dit decreet regelt zowel een gewest- als een gemeenschapsaangelegenheid.
 57° de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers;<br>
 58° het decreet van 15 oktober 2021 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen;<br>
 59° de toekenning van transitiepremies voor ondernemers, vermeld in artikel 3 van het decreet van 22 december 2017 houdende een premie om de transitie van werkzoekenden naar ondernemerschap te stimuleren.<br>
-60° de opleidingscheques voor werknemers, vermeld in artikel 2 van het decreet van 22 maart 2019 betreffende de opleidingscheques voor werknemers, de invoering van een registratieverplichting voor sportmakelaars en tot wijziging van diverse andere bepalingen inzake het beleidsdomein Werk en Sociale Economie.<br>
+60° de opleidingscheques voor werknemers, vermeld in artikel 2 van het decreet van 22 maart 2019 betreffende de opleidingscheques voor werknemers, de invoering van een registratieverplichting voor sportmakelaars en tot wijziging van diverse andere bepalingen inzake het beleidsdomein Werk en Sociale Economie;<br>
+61° het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen;<br>
+62° het decreet van 25 maart 2022 tot regeling van bepaalde aspecten van duale opleidingen in het volwassenenonderwijs;<br>
 63° de toekenning van de jobbonus, vermeld in artikel 3 van het decreet van 20 mei 2022 tot regeling van de toekenning van een jobbonus;<br>
 64° de toekenning van de jobbonus plus, vermeld in artikel 4 en 5 van het decreet van 15 juli 2022 tot regeling van de toekenning van een jobbonus plus voor startende zelfstandigen.<br>
 <br>
@@ -346,13 +348,13 @@ e) tijdens de periode van vijf jaar, voor de aanvang van of gedurende de uitoefe
 
 § 1. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling, een administratieve geldboete opgelegd worden van 100 euro tot 1.000 euro aan :<br>
 1° het maatwerkbedrijf, zijn lasthebbers of aangestelden die nalaten om voor de doelgroepwerknemers een persoonlijk ontwikkelingsplan en competentieprofiel op te stellen en hen jaarlijks te evalueren;<br>
-2° de maatwerkafdeling, haar lasthebbers of aangestelden die nalaten om voor de doelgroepwerknemers een persoonlijk ontwikkelingsplan en competentieprofiel op te stellen en hen jaarlijks te evalueren.<br>
+2° ...<br>
 <br>
 § 2. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling, een administratieve geldboete opgelegd worden van 250 euro tot 2.500 euro aan :<br>
 1° personen die een subsidie aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de subsidie hebben verkregen;<br>
 2° personen die een subsidie hebben verkregen of behouden waarop ze geen of slechts gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
 3° het maatwerkbedrijf, zijn lasthebbers of aangestelden die niet voldoen aan de begeleidingsvoorwaarden, vermeld in artikel 15 van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling;<br>
-4° de maatwerkafdeling, haar lasthebbers of aangestelden die niet voldoen aan de begeleidingsvoorwaarden, vermeld in artikel 15 van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling;<br>
+4° ...<br>
 5° het maatwerkbedrijf, zijn lasthebbers of aangestelden die de bepalingen van artikel 32 tot en met 34 van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling niet naleven.<br>
 <br>
 § 3. Onder de voorwaarden vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling, een administratieve geldboete opgelegd worden van 500 euro tot 5.000 euro aan :<br>
@@ -461,6 +463,40 @@ b) zich bediend hebben van een valse akte of een vals stuk, terwijl ze weten dat
 a) bedrog hebben gepleegd door gegevens die worden opgeslagen, verwerkt of overgedragen via een informaticasysteem, in te brengen in een informaticasysteem, te wijzigen of te wissen, of met een ander technologisch middel de mogelijke aanwending van gegevens in een informaticasysteem te veranderen, waardoor de juridische draagwijdte van de gegevens verandert;<br>
 b) hebben gebruikgemaakt van die gegevens, terwijl ze weten dat de aldus verkregen gegevens vals zijn;<br>
 6° de personen die, om de toepassing van de regels van het Vlaams opleidingsverlof, vermeld in hoofdstuk IV, afdeling 6, van de voormelde wet, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden, hebben gebruikgemaakt van valse namen, valse hoedanigheden of valse adressen of die een andere frauduleuze handeling hebben gesteld om te doen geloven in het bestaan van een fictieve persoon, een fictieve onderneming of een fictieve gebeurtenis, of om op een andere wijze misbruik te maken van het vertrouwen.
+
+### ART 13/8.
+
+Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het decreet van 14 januari 2022 over maatwerk bij individuele inschakeling, een administratieve geldboete opgelegd worden van 100 euro tot 1000 euro aan:<br>
+1° de werkgever, zijn lasthebbers of aangestelden die nalaten om voor werknemers met een arbeidsbeperking een ondersteuningsplan te doen opstellen of te doen actualiseren conform artikel 23, eerste lid, van het voormelde decreet van 14 januari 2022;<br>
+2° de werkgever, zijn lasthebbers of aangestelden die voor de coaching van werknemers met een arbeidsbeperking werknemers inzetten die niet beantwoor den aan de voorwaarden, vastgesteld krachtens artikel 24, tweede lid, van het voormelde decreet van 14 januari 2022.<br>
+<br>
+Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het voormelde decreet van 14 januari 2022 een administratieve geldboete opgelegd worden van 250 euro tot 2500 euro aan:<br>
+1° personen die de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de premies hebben verkregen;<br>
+2° personen die een of meer van de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, hebben verkregen of die een premie behouden waarop ze geen of maar gedeeltelijk recht hebben,<br>
+door onjuiste of onvolledige verklaringen af te leggen, of door na te laten om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
+3° de werkgever, zijn lasthebbers of aangestelden die in strijd met de behoefte aan werkondersteunende maatregelen, vastgesteld conform artikel 32, eerste lid, van het voormelde decreet van 14 januari 2022 niet voorzien in een begeleiding op de werkvloer;<br>
+4° de werkgever, zijn lasthebbers of aangestelden die niet voorzien in een begeleiding en coaching die overeenstemmen met de voorwaarden, vermeld in hoofdstuk 4, afdeling 3, van het voormelde decreet van 14 januari 2022;<br>
+5° de werkgever, zijn lasthebbers of aangestelden die de correcte uitvoering van de begeleiding en coaching, vermeld in hoofdstuk 4, afdeling 3, van het voormelde decreet van 14 januari 2022, verhinderen;<br>
+6° de werkgever, zijn lasthebbers of aangestelden die voor de begeleiding van werknemers met een arbeidsbeperking werknemers aanstellen als begeleider die niet gekwalificeerd zijn conform artikel 23, tweede lid, van het voormelde decreet van 14 januari 2022;<br>
+7° de werkgever, zijn lasthebbers of aangestelden die werknemers ontslaan met de uitsluitende bedoeling om hen te vervangen door een of meer werknemers met een arbeidsbeperking die recht geven op werkondersteunende maatregelen of voordeligere werkondersteunende maatregelen of om hen daarna opnieuw aan te werven met het oog op de toekenning van werkondersteunende maatregelen of voordeligere werkondersteunende maatregelen;<br>
+8° de externe dienstverlener die, al dan niet met medeweten van of op verzoek van de werkgever in kwestie, niet voorziet in begeleiding die volledig in overeenstemming is met de voorwaarden, vermeld in hoofdstuk 4, afdeling 3, van het voormelde decreet van 14 januari 2022, of die de begeleiding niet correct of onvolledig uitvoert.<br>
+<br>
+Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het voormelde decreet van 14 januari 2022 een administratieve geldboete opgelegd worden van 500 euro tot 5000 euro aan:<br>
+1° personen die wetens en willens de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de premies hebben verkregen;<br>
+2° personen die wetens en willens onjuiste of onvolledige verklaringen hebben afgelegd om de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+3° personen die wetens en willens hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze moeten verstrekken, om de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
+4° personen die wetens en willens de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, ten onrechte hebben verkregen of behouden waarop ze geen of maar gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten of te weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
+5° personen die de volgende handelingen hebben gesteld om de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden:<br>
+a) ze hebben valsheid in geschrifte gepleegd op een van de volgende wijzen:<br>
+1) door valse handtekeningen;<br>
+2) door namaking of vervalsing van geschriften of handtekeningen;<br>
+3) door overeenkomsten, beschikkingen, verbintenissen of schuldbevrijdingen valselijk op te maken of in een akte in te voegen;<br>
+4) door toevoeging of vervalsing van bedingen, verklaringen of feiten die in de akte opgenomen of vastgesteld moeten worden;<br>
+b) ze hebben een valse akte of een vals stuk gebruikt, terwijl ze wisten dat de gebruikte akte of het gebruikte stuk vals was;<br>
+6° personen die de volgende handelingen hebben gesteld om de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden:<br>
+a) ze hebben bedrog gepleegd door gegevens die worden opgeslagen, verwerkt of overgedragen via een informaticasysteem, in te brengen in een informaticasysteem, te wijzigen of te wissen, of met een ander technologisch middel de mogelijke aanwending van gegevens in een informaticasysteem te veranderen, waardoor de juridische draagwijdte van de gegevens verandert;<br>
+b) ze hebben gegevens gebruikt waarvan ze wisten dat ze vals waren;<br>
+7° personen die, om de premies, vermeld in hoofdstuk 4, afdeling 2 en 3, en hoofdstuk 5 van het voormelde decreet van 14 januari 2022, ten onrechte te verkrijgen of te doen verkrijgen, te behouden of te doen behouden, valse namen, valse hoedanigheden of valse adressen hebben gebruikt, of die een andere frauduleuze handeling hebben gesteld om te doen geloven in het bestaan van een fictieve persoon, een fictieve onderneming, of een fictieve gebeurtenis, of om op een andere wijze misbruik te maken van het vertrouwen.
 
 ### ART. 14.
 
