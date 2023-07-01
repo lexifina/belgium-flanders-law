@@ -22,12 +22,12 @@ Besluit :
 
 ### ART. 1.
 
-Dit besluit is van toepassing op het Vlaams Ministerie van Financiën en Begroting.
+...
 
 ### ART. 2.
 
-De secretaris-generaal van het Departement Financiën en Begroting is gemachtigd om, overeenkomstig het besluit van de Vlaamse Regering van 1 september 2006 tot regeling van de procedure van beslaglegging op goederen van de Vlaamse Gemeenschap of het Vlaamse Gewest en de omzendbrief VR 2006/21 tot regeling van de procedure van beslaglegging op goederen van de Vlaamse Gemeenschap of het Vlaamse Gewest, in geval van uitvoerend beslag op tegoeden van de Vlaamse Gemeenschap of het Vlaamse Gewest, conform artikel 10bis van het besluit van de Vlaamse Regering van 27 juli 2004 tot bepaling van de bevoegdheden van de Vlaamse Regering, vastleggingen door te voeren.<br /><br />In geval van tijdelijke afwezigheid of verhindering van de secretaris-generaal worden de bevoegdheden, vermeld in het eerste lid, respectievelijk uitgeoefend door :<br />1° het afdelingshoofd van de afdeling Managementondersteunende Diensten van het Departement Financiën en Begroting;<br />2° het afdelingshoofd van de afdeling Financieel Management van het Departement Financiën en Begroting.
+...
 
 ### ART. 3.
 
-Dit besluit heeft uitwerking met ingang van 1 september 2006.
+...
