@@ -58,6 +58,15 @@ De Vlaamse Regering kan voor de vereniging, vermeld in artikel 6, de nadere rege
 
 ## Afdeling 2. Decreet van 23 december 2011 betreffende het duurzaam beheer van materialenkringlopen en afvalstoffen - OVAM-heffingen
 
+### ART 10.
+
+In artikel 46, §2, vijfde lid, van het decreet van 23 december 2011 betreffende het duurzaam beheer van materialenkringlopen en afvalstoffen, gewijzigd bij de decreten van 19 december 2014, 8 juli 2016 en 18 december 2020, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 8° wordt de zinsnede “in de heffingsjaren 2020, 2021 en 2022” vervangen door de zinsnede “in de heffingsjaren 2020 tot en met 2024”;<br>
+2° in punt 9° wordt het jaartal 2023 vervangen door het jaartal 2025;<br>
+3° in punt 10° wordt het jaartal 2024 vervangen door het jaartal 2026;<br>
+4° in punt 11° wordt het jaartal 2025 vervangen door het jaartal 2027.<br>
+&nbsp;
+
 ## Hoofdstuk 4. Onderwijs en Vorming
 
 ## Afdeling 1. Aanpassing aanvullende werkingsmiddelen voor centra voor volwassenenonderwijs in het kader van EVC-trajecten
