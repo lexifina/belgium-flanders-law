@@ -4,7 +4,21 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° decreet:   het decreet van 24 januari 2003 houdende bescherming van het roerend cultureel   erfgoed van uitzonderlijk belang;<BR>2° beschermd voorwerp: een topstuk dat in   de lijst van het roerend cultureel erfgoed van de Vlaamse Gemeenschap is   opgenomen;<BR>3° verzameling: een geheel van roerende goederen die vanuit   archeologisch, historisch, cultuurhistorisch, artistiek of wetenschappelijk   oogpunt bij elkaar horen;<BR>4° lijst: de lijst van het roerend cultureel   erfgoed van de Vlaamse Gemeenschap, samengesteld krachtens artikel 3, § 1, van   het decreet;<BR>5° Raad: de Raad voor het behoud van het roerend cultureel   erfgoed, opgericht krachtens artikel 4 van het decreet;<BR>6° binnen de Vlaamse   Gemeenschap: in het Nederlandse taalgebied of in instellingen gevestigd in het   tweetalig gebied Brussel-Hoofdstad, die wegens hun activiteiten moeten worden   beschouwd uitsluitend te behoren tot de Vlaamse Gemeenschap;<BR>7° minister: de   Vlaamse minister, bevoegd voor de Cultuur;<BR>8° administratie: de   administratieve dienst, bevoegd voor het roerend cultureel erfgoed;<BR>9°   certificaat: het certificaat, vermeld in artikel 3, § 3, tweede tot en met   vierde lid van het decreet, dat bevestigt dat een roerend goed of verzameling   geen topstuk is.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° decreet: het decreet van 24 januari 2003 houdende bescherming van het roerend cultureel erfgoed van uitzonderlijk belang;<br>
+2° beschermd voorwerp: een topstuk dat in de lijst van het roerend cultureel erfgoed van de Vlaamse Gemeenschap is opgenomen;<br>
+3° verzameling: een geheel van roerende goederen die vanuit archeologisch, historisch, cultuurhistorisch, artistiek of wetenschappelijk oogpunt bij elkaar horen;<br>
+4° lijst: de lijst van het roerend cultureel erfgoed van de Vlaamse Gemeenschap, samengesteld krachtens artikel 3, § 1, van het decreet;<br>
+5° Raad: de Raad voor het behoud van het roerend cultureel erfgoed, opgericht krachtens artikel 4 van het decreet;<br>
+6° binnen de Vlaamse Gemeenschap: in het Nederlandse taalgebied of in instellingen gevestigd in het tweetalig gebied Brussel-Hoofdstad, die wegens hun activiteiten moeten worden beschouwd uitsluitend te behoren tot de Vlaamse Gemeenschap;<br>
+7° minister: de Vlaamse minister, bevoegd voor de Cultuur;<br>
+8° administratie: de administratieve dienst, bevoegd voor het roerend cultureel erfgoed;<br>
+9° certificaat: het certificaat, vermeld in artikel 3, § 3, tweede tot en met vierde lid van het decreet, dat bevestigt dat een roerend goed of verzameling geen topstuk is;<br>
+10° sleutelwerk: een cultuurgoed dat een bijzondere verrijking kan betekenen voor de volgende collecties:<br>
+a)&nbsp;&nbsp; &nbsp;collecties van collectiebeherende cultureelerfgoedorganisaties die aangewezen zijn als cultureelerfgoedinstellingen met toepassing van artikel 17 van het Cultureelerfgoeddecreet van 23 december 2021;<br>
+b)&nbsp;&nbsp; &nbsp;collecties van collectiebeherende cultureelerfgoedorganisaties die met een kwaliteitslabel ingedeeld zijn bij het landelijke niveau met toepassing van artikel 24 van het Cultureelerfgoeddecreet van 23 december 2021;<br>
+c)&nbsp;&nbsp; &nbsp;collecties van universiteitsarchieven en universiteitsbibliotheken met een kwaliteitslabel met toepassing van artikel 7 van het Cultureelerfgoeddecreet van 23 december 2021;<br>
+11° Vlaamse Belastingdienst: het agentschap dat is opgericht bij het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het agentschap Vlaamse Belastingdienst.
 
 ## HOOFDSTUK II SAMENSTELLING EN ORGANISATIE VAN DE LIJST
 
@@ -280,7 +294,85 @@ De leidend ambtenaar van de administratie brengt jaarlijks bij de minister versl
 
 ## [AFDELING 1 VERZOEK TOT AANVAARDING VAN CULTUURGOEDEREN TOT BETALING VAN DE ERFBELASTING VOORAFGAAND AAN HET OPENVALLEN VAN EEN NALATENSCHAP (ing. BVR 30 juni 2023, art. 2; I: 1 juli 2023)]
 
+### ART 55/1.
+
+§1. Het verzoek, voorafgaand aan het openvallen van een nalatenschap, vermeld in artikel 18bis van het decreet, wordt met een brief of een e-mail ingediend bij de Raad.<br>
+<br>
+§2. Een verzoek als vermeld in paragraaf 1, is volledig als het al de volgende informatie bevat:<br>
+1°&nbsp;&nbsp; &nbsp;de naam, het adres en de contactgegevens van de aanvrager;<br>
+2°&nbsp;&nbsp; &nbsp;een toereikende identificatie van het cultuurgoed, met inbegrip van toereikend beeldmateriaal;<br>
+3°&nbsp;&nbsp; &nbsp;de herkomst- en eigendomsgeschiedenis van de cultuurgoederen als die bekend is;<br>
+4°&nbsp;&nbsp; &nbsp;een verklaring op erewoord dat, bij weten van de aanvrager, het cultuurgoed niet is uitgevoerd in overtreding met een beschermingswetgeving van een andere overheid.<br>
+<br>
+Als de aanvrager dat wil, kan hij in het verzoek, vermeld in paragraaf 1, de volgende bijkomende informatie opnemen:<br>
+1°&nbsp;&nbsp; &nbsp;de reden waarom hij meent dat het cultuurgoed een topstuk is als vermeld in artikel 2bis van het decreet, of een sleutelwerk;<br>
+2°&nbsp;&nbsp; &nbsp;welke bestemming hij voor het cultuurgoed voorstelt.<br>
+<br>
+Als een verzoek als vermeld in paragraaf 1, conform het eerste lid, onvolledig is, brengt de administratie de aanvrager daarvan op de hoogte en nodigt ze hem uit om alsnog de ontbrekende informatie te bezorgen.<br>
+<br>
+§3. Om het advies, vermeld in paragraaf 6, te formuleren, kan de Raad een beroep doen op externe deskundigen. De kosten van externe deskundigen zijn ten laste van de Vlaamse Gemeenschap.<br>
+<br>
+§4. Nadat de Raad het verzoek, vermeld in paragraaf 1, heeft ontvangen, kan de Raad vragen dat de cultuurgoederen worden getoond aan de Raad of ter beschikking worden gesteld van de externe deskundigen die de Raad heeft aangewezen, voor nader onderzoek naar de echtheid en naar de bewaartoestand ervan. De kosten die verbonden zijn aan het voormelde nader onderzoek, zijn ten laste van de Vlaamse Gemeenschap.<br>
+<br>
+§5. Als het verzoek, vermeld in paragraaf 1, verschillende individuele voorwerpen betreft, formuleert de Raad een advies over elk voorwerp afzonderlijk.<br>
+<br>
+Als het verzoek, vermeld in paragraaf 1, een verzameling betreft, geeft de Raad een advies over het geheel van de verzameling. Als de Raad van mening is dat de aangeboden verzameling geen topstuk of sleutelwerk is, maar wel een of meer topstukken als vermeld in artikel 2bis van het decreet, of een of meer sleutelwerken bevat, kan de Raad adviseren om niet de verzameling maar de cultuurgoederen te aanvaarden die de Raad als topstukken als vermeld in artikel 2bis van het decreet, of als sleutelwerken ïdentificeert.<br>
+<br>
+§6. De Raad formuleert een advies uiterlijk drie maanden na de dag waarop een volledig dossier is ingediend.<br>
+<br>
+Als de Raad van mening is dat het aangeboden cultuurgoed beschouwd moet worden als topstuk of als sleutelwerk, geeft de Raad ook een advies over de bestemming van dat cultuurgoed.<br>
+<br>
+De Raad brengt de minister en de Vlaamse minister, bevoegd voor de fiscaliteit, op de hoogte van zijn advies.<br>
+<br>
+De minister legt het verzoek, vermeld in paragraaf 1, samen met het voormelde advies van de Raad voor aan de Vlaamse Regering met het oog op een beslissing als vermeld in artikel 18bis, derde lid, van het decreet.<br>
+&nbsp;
+
+### ART 55/2.
+
+De Vlaamse Regering beslist of de aangeboden cultuurgoederen gelden als een topstuk of sleutelwerk en ook over de bestemming als de inbetalinggeving wordt aanvaard.<br>
+<br>
+De administratie brengt de aanvragers op de hoogte van de beslissing van de Vlaamse Regering.<br>
+&nbsp;
+
 ## [AFDELING 2 VERZOEK TOT AANVAARDING VAN CULTUURGOEDEREN TOT BETALING VAN DE ERFBELASTING NA HET OPENVALLEN VAN EEN NALATENSCHAP (ing. BVR 30 juni 2023, art. 2, I: 1 juli 2023)]
+
+### ART 55/3.
+
+§1. Ter uitvoering van artikel 18ter van het decreet formuleert de Raad een advies als vermeld in artikel 18ter van het decreet, na de kennisgeving aan de Raad door de Vlaamse Belastingdienst van het verzoek tot inbetalinggeving, vermeld in artikel 3.4.3.0.2, §3, van de Vlaamse Codex Fiscaliteit van 20 december 2013.<br>
+<br>
+§2. Om het advies, vermeld in paragraaf 1, te formuleren, kan de Raad een beroep doen op externe deskundigen. De kosten van de externe deskundigen zijn ten laste van de Vlaamse Gemeenschap.<br>
+<br>
+§3. De Raad kan de aanvragers van het verzoek tot inbetalinggeving, vermeld in paragraaf 1, vragen dat de cultuurgoederen worden getoond aan de Raad of ter beschikking worden gesteld van de externe deskundigen die de Raad heeft aangewezen, voor nader onderzoek naar de echtheid en naar de bewaartoestand ervan. De kosten die verbonden zijn aan het voormelde nader onderzoek, zijn ten laste van de Vlaamse Gemeenschap.<br>
+<br>
+§4. Als het verzoek tot inbetalinggeving, vermeld in paragraaf 1, verschillende individuele voorwerpen betreft, formuleert de Raad een advies over elk voorwerp afzonderlijk.<br>
+<br>
+Als het verzoek tot inbetalinggeving, vermeld in paragraaf 1, een verzameling betreft, geeft de Raad een advies over het geheel van de verzameling. Als de Raad van mening is dat de aangeboden verzameling geen topstuk als vermeld in artikel 2bis van het decreet, of sleutelwerk is, maar wel een of meer topstukken als vermeld in artikel 2bis van het decreet, of een of meer sleutelwerken bevat, kan de Raad adviseren om niet de verzameling maar de cultuurgoederen te aanvaarden die de Raad als topstukken als vermeld in artikel 2bis van het decreet, of sleutelwerken identificeert.<br>
+<br>
+§5. Om een advies als vermeld in artikel 55/4, te formuleren, kan de Raad in overleg treden met de aanvragers van het verzoek tot inbetalinggeving, vermeld in paragraaf 1.<br>
+<br>
+§6. De administratie kan met het oog op de mogelijke uitbetaling van het saldo, vermeld in artikel 18quater, tweede lid, van het decreet, ter voorbereiding van de beslissing van de Vlaamse Regering, vermeld in artikel 18ter, derde of vijfde lid, van het decreet, in onderhandeling treden met de erfgoedinstelling of haar inrichtende macht waarvoor de aangeboden cultuurgoederen als een sleutelwerk voor de collectie gelden.
+
+### ART 55/4.
+
+De Raad formuleert een advies uiterlijk drie maanden na de kennisgeving van het verzoek door de Vlaamse Belastingdienst.<br>
+<br>
+De Raad brengt de minister en de Vlaamse minister, bevoegd voor de fiscaliteit, op de hoogte van zijn advies.<br>
+<br>
+De minister en de Vlaamse minister, bevoegd voor de fiscaliteit, leggen het verzoek tot inbetalinggeving, vermeld in paragraaf 1, samen met het advies van de Raad, vermeld in het eerste lid, voor aan de Vlaamse Regering met het oog op een beslissing als vermeld in artikel 18ter, derde of vijfde lid, van het decreet.<br>
+&nbsp;
+
+### ART 55/5.
+
+De aanvragers leveren de cultuurgoederen aan de ontvanger die de administratie daarvoor heeft aangewezen, binnen twee maanden vanaf de datum van de beslissing van de Vlaamse Regering, vermeld in artikel 18ter, derde of vijfde lid, van het decreet. De voormelde ontvanger bevestigt schriftelijk de ontvangst van de cultuurgoederen.<br>
+<br>
+De eigendom en het risico van de in betaling gegeven cultuurgoederen gaan over op het moment dat de ontvanger, vermeld in het eerste lid, de cultuurgoederen heeft ontvangen.<br>
+<br>
+De kosten die verbonden zijn aan de levering, worden gedragen door de Vlaamse Gemeenschap.<br>
+<br>
+De ontvanger, vermeld in het eerste lid, bevestigt de levering van de cultuurgoederen aan de administratie.<br>
+<br>
+De administratie brengt de Vlaamse Belastingdienst op de hoogte van de levering of de niet tijdige levering van de cultuurgoederen en ook van een relevante wijziging of beschadiging van de cultuurgoederen.<br>
+&nbsp;
 
 ## HOOFDSTUK X TOEZICHTSBEPALING
 
