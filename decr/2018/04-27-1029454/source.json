@@ -2,16 +2,16 @@
   "codex_id": 1029454,
   "title": "Decreet van 2018-04-27 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029454/VolledigDocument?datum=2022-09-01",
-  "source_sha256": "a70c1507a57fbaf53142bd6b1ca9d582fad56ded4d0b06d4744d2de055d2b5de",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029454/VolledigDocument?datum=2023-07-01",
+  "source_sha256": "062a9110b88cfd2c304921ee11b73d8b3cc03a60d17e099c378408d718de8b51",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029454&param=informatie",
-  "as_of": "2022-09-01",
+  "as_of": "2023-07-01",
   "made": "2018-04-27",
   "gazette": "2018-06-25",
   "numac": 2018012790,
   "document_start": "2018-09-01",
   "document_end": null,
-  "in_force": "2022-09-01",
+  "in_force": "2023-07-01",
   "article_versions": 126,
-  "record_form": "consolidated version as in force on 2022-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-07-01; future article versions excluded; article text as the API gives it"
 }
