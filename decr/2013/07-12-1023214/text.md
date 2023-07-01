@@ -19,7 +19,7 @@ a) personen met een arbeidshandicap : de personen met een langdurig en belangrij
 b) personen met een psychosociale arbeidsbeperking : de personen met een langdurig en belangrijk probleem van deelname aan het arbeidsleven dat te wijten is aan het samenspel tussen psychosociale factoren, beperkingen bij het uitvoeren van activiteiten, en persoonlijke en externe factoren. De Vlaamse Regering bepaalt de voorwaarden voor de erkenning als persoon met een psychosociale arbeidsbeperking;<br>
 c) uiterst kwetsbare personen : de werkzoekenden die voorafgaand aan hun tewerkstelling gedurende minstens 24 maanden geen betaalde beroepsarbeid hebben verricht om persoonlijke redenen die een deelname aan het arbeidsleven verhinderen. De Vlaamse Regering bepaalt de voorwaarden voor de erkenning als uiterst kwetsbare personen;<br>
 3° doorstroom : de tewerkstelling van de doelgroepwerknemer, die aansluit op een tewerkstelling in het kader van dit decreet, in een betrekking geheel zonder of met een geringere ondersteuning dan bepaald in dit decreet;<br>
-4° maatwerkafdeling : de werking binnen een onderneming die voldoet aan de subsidievoorwaarden, vermeld in artikel 5;<br>
+4° ...<br>
 5° maatwerkbedrijf : de onderneming die voldoet aan de subsidievoorwaarden, vermeld in artikel 4;<br>
 6° persoonlijk ontwikkelingsplan : een opvolgbaar actieplan dat de te ontwikkelen competenties en het ontwikkelpad van een persoon bevat met als doel die persoon een stevige positie op de arbeidsmarkt te bezorgen;<br>
 7° subsidie : een voordeel, een toelage, steun of iedere andere financiële tegemoetkoming die verleend of toegekend wordt op grond van dit decreet en de uitvoeringsbesluiten ervan;<br>
@@ -36,7 +36,7 @@ c) uiterst kwetsbare personen : de werkzoekenden die voorafgaand aan hun tewerks
 1° op jaarbasis aan minimaal twintig gesubsidieerde voltijdsequivalente doelgroepwerknemers werk op maat verschaffen, voor wie ondersteuning overeenkomstig dit decreet wordt toegekend, door middel van nuttig, lonend en individueel passend werk;<br>
 2° de rechtsvorm van een vennootschap met een sociaal oogmerk of van een vereniging zonder winstoogmerk hebben;<br>
 3° als maatschappelijke hoofdactiviteit werk en begeleiding op maat aan doelgroepwerknemers verschaffen;<br>
-4° op jaarbasis een werknemersbestand hebben dat voor minstens 65 procent bestaat uit de doelgroepwerknemers, vermeld in artikel 3, 2°, a) en b);<br>
+4° op jaarbasis een werknemersbestand hebben dat voor minstens 55 procent bestaat uit de doelgroepwerknemers, vermeld in artikel 3, 2°, a) en b);<br>
 5° geregistreerd zijn als dienstverlener als vermeld in artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie;<br>
 6° jaarlijks over zijn prestaties in het kader van dit decreet en op vlak van maatschappelijke inbedding en maatschappelijk verantwoord ondernemen rapporteren.</p>
 
@@ -50,24 +50,11 @@ c) uiterst kwetsbare personen : de werkzoekenden die voorafgaand aan hun tewerks
 
 ### ART. 5.
 
-<p>§ 1. Binnen de perken van het jaarlijks goedgekeurde begrotingskrediet en volgens de voorwaarden, bepaald in dit decreet, kan de Vlaamse Regering ondersteuning bedoeld in hoofdstuk 4 toekennen aan maatwerkafdelingen.</p>
-
-<p>De maatwerkafdeling moet daarvoor :<br>
-1° op jaarbasis op eenzelfde tewerkstellingsplaats aan minimaal vijf gesubsidieerde voltijdsequivalente doelgroepwerknemers werk op maat verschaffen, voor wie ondersteuning overeenkomstig dit decreet wordt toegekend, door middel van nuttig, lonend en individueel passend werk;<br>
-2° de organisatie waartoe de maatwerkafdeling behoort, dient geregistreerd te zijn als dienstverlener als vermeld in artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie;<br>
-3° jaarlijks over zijn prestaties in het kader van dit decreet en op vlak van het maatschappelijk verantwoord ondernemen rapporteren.</p>
-
-<p>§ 2. In afwijking van paragraaf 1 moet de startende maatwerkafdeling binnen een redelijke termijn voldoen aan de voorwaarde, vermeld in paragraaf 1, 1°.</p>
-
-<p>De Vlaamse Regering bepaalt de termijn, vermeld in het eerste lid.</p>
-
-<p>Onder startende maatwerkafdeling als vermeld in het eerste lid, wordt de onderneming verstaan die voor de eerste keer een aanvraag voor ondersteuning indient.</p>
-
-<p>§ 3. De Vlaamse Regering kan de voorwaarden, vermeld in paragraaf 1, nader bepalen.</p>
+<p>...</p>
 
 ### ART. 6.
 
-<p>Het maatwerkbedrijf en de maatwerkafdelingen dienen een aanvraag voor ondersteuning in bij de dienst die daarvoor is aangewezen door de Vlaamse Regering.</p>
+<p>Het maatwerkbedrijf dient&nbsp;een aanvraag voor ondersteuning in bij de dienst die daarvoor is aangewezen door de Vlaamse Regering.</p>
 
 <p>De Vlaamse Regering bepaalt de procedure voor de aanvraag, goedkeuring en toekenning van de ondersteuning.</p>
 
@@ -75,7 +62,7 @@ c) uiterst kwetsbare personen : de werkzoekenden die voorafgaand aan hun tewerks
 
 ### ART. 7.
 
-<p>De maatwerkbedrijven en de maatwerkafdelingen bezorgen de vacatures voor doelgroepwerknemers aan de VDAB.</p>
+<p>De maatwerkbedrijven bezorgen de vacatures voor doelgroepwerknemers aan de VDAB.</p>
 
 <p>De VDAB stelt in functie van een vacature de individuele behoefte aan ondersteuning bij de werkzoekende vast voor de werkondersteunende maatregelen, vermeld in artikel 9, 1° tot en met 2°, op basis van een lijst met indicaties.</p>
 
@@ -87,13 +74,13 @@ c) uiterst kwetsbare personen : de werkzoekenden die voorafgaand aan hun tewerks
 
 <p>§ 1. De VDAB evalueert de behoefte aan werkondersteunende maatregelen tijdens de tewerkstelling van de doelgroepwerknemer.</p>
 
-<p>Die evaluatie vindt plaats op initiatief van de VDAB of op verzoek van de doelgroepwerknemer, het maatwerkbedrijf of de maatwerkafdeling naargelang de geïndiceerde problematiek en uiterlijk na vijf jaar.</p>
+<p>Die evaluatie vindt plaats op initiatief van de VDAB of op verzoek van de doelgroepwerknemer of&nbsp;het maatwerkbedrijf naargelang de geïndiceerde problematiek en uiterlijk na vijf jaar.</p>
 
 <p>De VDAB kan de periodiciteit van de evaluatie aanpassen naargelang de geïndiceerde problematiek.</p>
 
 <p>§ 2. De evaluatie vindt minimaal plaats aan de hand van :<br>
 1° het persoonlijk ontwikkelingsplan;<br>
-2° de informatie van het maatwerkbedrijf of de maatwerkafdeling;<br>
+2° de informatie van het maatwerkbedrijf;<br>
 3° een gesprek met de doelgroepwerknemer.</p>
 
 ## HOOFDSTUK 4. Ondersteuning op maat
@@ -102,15 +89,13 @@ c) uiterst kwetsbare personen : de werkzoekenden die voorafgaand aan hun tewerks
 
 ### ART. 9.
 
-Binnen de perken van het jaarlijks goedgekeurde begrotingskrediet en volgens de voorwaarden, bepaald in dit decreet, kan de Vlaamse Regering aan het maatwerkbedrijf of aan de maatwerkafdeling het geheel van de volgende werkondersteunende maatregelen toekennen :<br>
+Binnen de perken van het jaarlijks goedgekeurde begrotingskrediet en volgens de voorwaarden, bepaald in dit decreet, kan de Vlaamse Regering aan het maatwerkbedrijf het geheel van de volgende werkondersteunende maatregelen toekennen :<br>
 1° een loonpremie;<br>
 2° een vergoeding voor de begeleiding op de werkvloer.
 
 ### ART. 10.
 
 <p>De werkondersteunende maatregelen worden toegekend voor onbepaalde duur tenzij de evaluatie uitwijst dat ze niet meer nodig zijn, en tenzij in de gevallen bedoeld in artikel 8, § 1, derde lid.</p>
-
-<p>De werkondersteunende maatregelen zijn voor de doelgroepwerknemers, vermeld in artikel 3, 2°, c), beperkt in de tijd tot maximaal twee jaar.</p>
 
 ### ART. 11.
 
@@ -128,7 +113,7 @@ Binnen de perken van het jaarlijks goedgekeurde begrotingskrediet en volgens de 
 
 ### ART. 13.
 
-Voor de doelgroepwerknemer, vermeld in artikel 3, 2°, c), bestaat de   loonpremie uit maximaal vijftig procent van de loonkosten.
+...
 
 ### ART. 14.
 
@@ -138,7 +123,19 @@ Voor de doelgroepwerknemer, vermeld in artikel 3, 2°, c), bestaat de   loonprem
 
 ### ART. 15.
 
-<P>De maatregel begeleiding op de werkvloer ondersteunt de professionele   ontwikkeling van de doelgroepwerknemer.<BR></P>  <P>De begeleiding op de werkvloer wordt uitgevoerd door het maatwerkbedrijf of   de maatwerkafdeling en omvat minimaal : <BR>1° de opmaak en jaarlijkse evaluatie   van het persoonlijk ontwikkelingsplan en van het competentieprofiel van de   doelgroepwerknemer;<BR>2° de coaching van de doelgroepwerknemer door een   gekwalificeerde begeleider;<BR>3° de versterking van de competenties van de   doelgroepwerknemer in functie van zijn takenpakket;<BR>4° interne   informatiedoorstroom en doorverwijsfunctie bij problemen die verder reiken dan   de arbeidscontext;<BR>5° de aanlevering van informatie over het functioneren van   de doelgroepwerknemer met het oog op zijn doorstroom en externe evaluatie;<BR>6°   de preventieve en remediërende aanpassing van de arbeidsomgeving van de   doelgroepwerknemer.<BR></P>  <P>De competentieversterking, vermeld in het tweede lid, 3°, is gericht op de   ontwikkeling en verbetering van generieke en technische competenties. De   competentieversterking omvat minimaal een jaarlijkse individuele verbeteractie   op het vlak van een generieke en een technische competentie.<BR></P>  <P>De Vlaamse Regering kan de begeleiding, met inbegrip van de   kwalificatievereisten van de begeleider verder specificeren. Waarbij onder   kwalificatie het afgerond en ingeschaald geheel aan competenties wordt   verstaan.</P>
+<p>De maatregel begeleiding op de werkvloer ondersteunt de professionele ontwikkeling van de doelgroepwerknemer.</p>
+
+<p>De begeleiding op de werkvloer wordt uitgevoerd door het maatwerkbedrijf en omvat minimaal :<br>
+1° de opmaak en jaarlijkse evaluatie van het persoonlijk ontwikkelingsplan en van het competentieprofiel van de doelgroepwerknemer;<br>
+2° de coaching van de doelgroepwerknemer door een gekwalificeerde begeleider;<br>
+3° de versterking van de competenties van de doelgroepwerknemer in functie van zijn takenpakket;<br>
+4° interne informatiedoorstroom en doorverwijsfunctie bij problemen die verder reiken dan de arbeidscontext;<br>
+5° de aanlevering van informatie over het functioneren van de doelgroepwerknemer met het oog op zijn doorstroom en externe evaluatie;<br>
+6° de preventieve en remediërende aanpassing van de arbeidsomgeving van de doelgroepwerknemer.</p>
+
+<p>De competentieversterking, vermeld in het tweede lid, 3°, is gericht op de ontwikkeling en verbetering van generieke en technische competenties. De competentieversterking omvat minimaal een jaarlijkse individuele verbeteractie op het vlak van een generieke en een technische competentie.</p>
+
+<p>De Vlaamse Regering kan de begeleiding, met inbegrip van de kwalificatievereisten van de begeleider verder specificeren. Waarbij onder kwalificatie het afgerond en ingeschaald geheel aan competenties wordt verstaan.</p>
 
 ### ART. 16.
 
@@ -186,17 +183,19 @@ De Vlaamse Regering bepaalt de forfaitaire subsidie, de subsidievoorwaarden, en 
 
 ### ART. 22.
 
-Het maatwerkbedrijf en de maatwerkafdeling stimuleren de doorstroom van de individuele doelgroepwerknemer aan de hand van de werkondersteunende maatregel begeleiding op de werkvloer, vermeld in artikel 15.
+Het maatwerkbedrijf stimuleert de doorstroom van de individuele doelgroepwerknemer aan de hand van de werkondersteunende maatregel begeleiding op de werkvloer, vermeld in artikel 15.<br>
+<br>
+De Vlaamse Regering bepaalt de procedure en de voorwaarden voor de wedertewerkstelling van personen met een arbeidsbeperking bij een maatwerkbedrijf als ze na evaluatie van VDAB een reguliere tewerkstelling aanvatten die buiten hun wil om eindigt.
 
 ### ART. 23.
 
 <p>Binnen de perken van het jaarlijks goedgekeurde begrotingskrediet wordt een doorstroomtraject opgestart in een van de volgende gevallen :<br>
 1° de VDAB stelt na evaluatie als vermeld in artikel 8, vast dat de doelgroepwerknemer geen behoefte meer heeft aan de werkondersteunende maatregelen, vermeld in artikel 9, 1° en 2°;<br>
-2° de VDAB oordeelt na evaluatie op verzoek van de doelgroepwerknemer, het maatwerkbedrijf of de maatwerkafdeling als vermeld in artikel 8, § 1, tweede lid, dat de kansen op doorstroom van de doelgroepwerknemer gunstig zijn.</p>
+2° de VDAB oordeelt na evaluatie op verzoek van de doelgroepwerknemer of&nbsp;het maatwerkbedrijf als vermeld in artikel 8, § 1, tweede lid, dat de kansen op doorstroom van de doelgroepwerknemer gunstig zijn.</p>
 
 <p>Bij de beoordeling van de kansen op doorstroom houdt de VDAB rekening met :<br>
 a) de mogelijkheid van een duurzame reguliere tewerkstelling rekening houdend met de persoonlijke situatie van de doelgroepwerknemer;<br>
-b) de continuïteit van de werking van het maatwerkbedrijf of de maatwerkafdeling met het oog op het behoud van de tewerkstelling van de zwakste doelgroepwerknemers rekening houdend met de schaalgrootte van het maatwerkbedrijf of maatwerkafdeling.</p>
+b) de continuïteit van de werking van het maatwerkbedrijf met het oog op het behoud van de tewerkstelling van de zwakste doelgroepwerknemers, rekening houdend met de schaalgrootte van het maatwerkbedrijf..</p>
 
 <p>De Vlaamse Regering bepaalt die voorwaarden nader.<br>
 In functie van die beoordeling kan worden beslist om het doorstroomtraject op een latere datum een aanvang te laten nemen.</p>
@@ -211,15 +210,15 @@ In functie van die beoordeling kan worden beslist om het doorstroomtraject op ee
 
 ### ART. 25.
 
-Het maatwerkbedrijf of de maatwerkafdeling, de VDAB, de dienstverlener, vermeld in artikel 28, en de doelgroepwerknemer sluiten een schriftelijke overeenkomst over de uitvoering van het doorstroomtraject.
+Het maatwerkbedrijf, de VDAB, de dienstverlener, vermeld in artikel 28, en de doelgroepwerknemer sluiten een schriftelijke overeenkomst over de uitvoering van het doorstroomtraject.
 
 ### ART. 26.
 
-Het maatwerkbedrijf of de maatwerkafdeling stelt de doelgroepwerknemer geheel of gedeeltelijk vrij van arbeidsprestaties tijdens de duur van het doorstroomtraject om de doelgroepwerknemer op passende wijze het doorstroomtraject te laten doorlopen.
+Het maatwerkbedrijf stelt de doelgroepwerknemer geheel of gedeeltelijk vrij van arbeidsprestaties tijdens de duur van het doorstroomtraject om de doelgroepwerknemer op passende wijze het doorstroomtraject te laten doorlopen.
 
 ### ART. 27.
 
-<p>Binnen de perken van het jaarlijks goedgekeurde begrotingskrediet kan de Vlaamse Regering aan het maatwerkbedrijf en de maatwerkafdeling tijdens de duur van de doorstroomstage een tijdelijke vergoeding toekennen ter delging van de kosten die het maatwerkbedrijf of maatwerkafdeling heeft en waar ingevolge de niet-aanwezigheid van doelgroepwerknemer geen inkomsten tegenover staan. Deze vergoeding kan worden verhoogd met een tijdelijke loonpremie voor een vervangende doelgroepwerknemer.</p>
+<p>Binnen de perken van het jaarlijks goedgekeurde begrotingskrediet kan de Vlaamse Regering aan het maatwerkbedrijf tijdens de duur van de doorstroomstage een tijdelijke vergoeding toekennen ter delging van de kosten die het maatwerkbedrijf&nbsp;heeft en waar ingevolge de niet-aanwezigheid van doelgroepwerknemer geen inkomsten tegenover staan. Deze vergoeding kan worden verhoogd met een tijdelijke loonpremie voor een vervangende doelgroepwerknemer.</p>
 
 <p><br>
 De Vlaamse Regering bepaalt de voorwaarden en de invulling van de vergoeding nader.</p>
@@ -234,11 +233,11 @@ De Vlaamse Regering bepaalt de voorwaarden en de invulling van de vergoeding nad
 
 ### ART. 29.
 
-<p>De doelgroepwerknemer, het maatwerkbedrijf of de maatwerkafdeling, die de beslissing van de VDAB op het vlak van de vaststelling of evaluatie van werkondersteunende maatregelen betwisten, kunnen bij de VDAB een verzoek indienen tot heroverweging van de vaststelling van de behoefte aan werkondersteunende maatregelen.</p>
+<p>De doelgroepwerknemer of&nbsp;het maatwerkbedrijf&nbsp;die de beslissing van de VDAB op het vlak van de vaststelling of evaluatie van werkondersteunende maatregelen betwisten, kunnen bij de VDAB een verzoek indienen tot heroverweging van de vaststelling van de behoefte aan werkondersteunende maatregelen.</p>
 
 <p>De Vlaamse Regering bepaalt de termijn voor de indiening van het verzoek en de procedure voor de heroverweging.</p>
 
-<p>Het verzoek tot heroverweging heeft een schorsende werking.</p>
+<p>Het verzoek tot heroverweging heeft geen schorsende werking.</p>
 
 ### ART. 30.
 
@@ -249,9 +248,9 @@ De heroverweging van de VDAB moet, op straffe van nietigheid, met redenen worden
 
 ### ART. 31.
 
-<p>De doelgroepwerknemer, het maatwerkbedrijf of de maatwerkafdeling die de heroverweging van de VDAB, vermeld in artikel 30, betwisten, tekenen op straffe van verval binnen een termijn van drie maanden na de verzending van de kennisgeving van de heroverweging, door een verzoekschrift neer te leggen dat overeenstemt met de bepalingen van artikel 704 van het Gerechtelijk Wetboek, beroep aan bij de arbeidsrechtbank.</p>
+<p>De doelgroepwerknemer of&nbsp;het maatwerkbedrijf die de heroverweging van de VDAB, vermeld in artikel 30, betwisten, tekenen op straffe van verval binnen een termijn van drie maanden na de verzending van de kennisgeving van de heroverweging, door een verzoekschrift neer te leggen dat overeenstemt met de bepalingen van artikel 704 van het Gerechtelijk Wetboek, beroep aan bij de arbeidsrechtbank.</p>
 
-<p>Het beroep bij de arbeidsrechtbank heeft een schorsende werking.</p>
+<p>Het beroep bij de arbeidsrechtbank heeft geen schorsende werking.</p>
 
 ## HOOFDSTUK 7. Enclavewerking
 
@@ -305,7 +304,7 @@ Het toezicht en de controle op de uitvoering van dit decreet en de uitvoeringsbe
 
 Met behoud van de toepassing van artikel 269 tot en met 274 van het Strafwetboek worden de volgende personen gestraft met een gevangenisstraf van acht dagen tot een jaar en met een geldboete van 50 euro tot 500 euro, of met een van die straffen alleen :<br>
 1° het maatwerkbedrijf, zijn lasthebbers of aangestelden die nalaten om voor de doelgroepwerknemers een persoonlijk ontwikkelingsplan of competentieprofiel op te stellen en hen jaarlijks te evalueren;<br>
-2° de maatwerkafdeling, haar lasthebbers of aangestelden die nalaten om voor de doelgroepwerknemers een persoonlijk ontwikkelingsplan of competentieprofiel op te stellen en hen jaarlijks te evalueren.
+2° ...
 
 ### ART. 38.
 
@@ -313,7 +312,7 @@ Met behoud van de toepassing van artikel 269 tot en met 274 van het Strafwetboek
 1° personen die de subsidie aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de subsidie hebben verkregen;<br>
 2° personen die een subsidie hebben verkregen of die een subsidie behouden waarop ze geen of slechts gedeeltelijk recht hebben, door onjuiste of onvolledige verklaringen af te leggen, of door na te laten om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken;<br>
 3° het maatwerkbedrijf, zijn lasthebbers of aangestelden die niet voldoen aan de begeleidingsvoorwaarden, vermeld in artikel 15 van dit decreet;<br>
-4° de maatwerkafdeling, haar lasthebbers of aangestelden die niet voldoen aan de begeleidingsvoorwaarden, vermeld in artikel 15 van dit decreet;<br>
+4° ...<br>
 5° het maatwerkbedrijf, zijn lasthebbers of aangestelden die de bepalingen van artikel 32 tot en met 34 van dit decreet niet naleven.
 
 ### ART. 39.
