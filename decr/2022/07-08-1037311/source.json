@@ -2,16 +2,16 @@
   "codex_id": 1037311,
   "title": "Decreet van 2022-07-08 over de werk- en zorgtrajecten",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037311/VolledigDocument?datum=2023-02-16",
-  "source_sha256": "58b93b700d81b1742354d420cc11ea4ea390e3a4986c26ebbbd3487560988b48",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037311/VolledigDocument?datum=2023-07-01",
+  "source_sha256": "a25c7176da06bb68b327184828a7632f57275563b63f1915d035e4635540ce40",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037311&param=informatie",
-  "as_of": "2023-02-16",
+  "as_of": "2023-07-01",
   "made": "2022-07-08",
   "gazette": "2022-08-03",
   "numac": 2022032865,
   "document_start": "2023-07-01",
   "document_end": null,
-  "in_force": "2023-02-16",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2023-02-16; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-07-01",
+  "article_versions": 34,
+  "record_form": "consolidated version as in force on 2023-07-01; future article versions excluded; article text as the API gives it"
 }
