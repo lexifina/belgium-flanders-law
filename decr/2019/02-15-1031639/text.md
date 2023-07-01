@@ -220,14 +220,14 @@ Een dienst voor gezinszorg is een woonzorgvoorziening die als doelstelling heeft
 § 1. De dienst voor gezinszorg biedt de volgende zorg en ondersteuning aan:<br>
 1° persoonsverzorging;<br>
 2° huishoudelijke hulp;<br>
-3° schoonmaakhulp, al dan niet op basis van een samenwerkingsverband met een andere dienst voor gezinszorg of een lokale diensteneconomieonderneming als vermeld in artikel 3, 5°, van het decreet van 22 november 2013 betreffende de lokale diensteneconomie;<br>
+3° schoonmaakhulp, al dan niet op basis van een samenwerkingsverband met een andere dienst voor gezinszorg of een werkgever die werknemers met een arbeidsbeperking als vermeld in artikel 2, 12°, van het decreet van 14 januari 2022 over maatwerk bij individuele inschakeling, tewerkstelt;<br>
 4° algemene psychosociale en (ped)agogische ondersteuning, samenhangend met de geboden gezinszorg, vermeld in punten 1° tot en met 3° ;<br>
 5° in functie van de geboden gezinszorg, vermeld in punten 1° tot en met 4° : de ondersteuning en versterking van gebruikers en hun informele zorg- en ondersteuningsnetwerk bij het opnemen van de eigen zorgregie, het op aangeven van en in samenspraak met de gebruiker bepalen en opvolgen van zorg-, ondersteunings- en ontwikkelingsdoelen in het zorg- en ondersteuningsplan, en op verzoek van de gebruiker het coördineren van de integrale en geïntegreerde zorg en ondersteuning.<br>
 <br>
 In het eerste lid, 3°, wordt verstaan onder schoonmaakhulp: het aanbieden van activiteiten die tot doel hebben de woning van de gebruiker te reinigen en er de hygiëne te bevorderen.<br>
 <br>
 Met behoud van de toepassing van het eerste lid kan een dienst voor gezinszorg:<br>
-1° karweihulp en oppashulp aanbieden, al dan niet op basis van een samenwerkingsverband met andere thuiszorgvoorzieningen of een lokale diensteneconomieonderneming als vermeld in artikel 3, 5°, van het decreet van 22 november 2013 betreffende de lokale diensteneconomie;<br>
+1° karweihulp en oppashulp aanbieden, al dan niet op basis van een samenwerkingsverband met andere thuiszorgvoorzieningen of een werkgever die werknemers met een arbeidsbeperking als vermeld in artikel 2, 12°, van het decreet van 14 januari 2022 over maatwerk bij individuele inschakeling, tewerkstelt;<br>
 2° het zelfzorgvermogen van de gebruiker evalueren en objectiveren krachtens artikel 82 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming in functie van de toekenning van zorgbudgetten.<br>
 <br>
 In het derde lid, 1°, wordt verstaan onder karweihulp: kleinere technische handelingen die toelaten dat de nodige zorg en ondersteuning kan verleend worden binnen een aangepaste en veilige woonomgeving, gericht op het verbeteren van het welzijn van de gebruiker en passend in de realisatie van de beoogde zorg- en ondersteuningsdoelen.<br>
