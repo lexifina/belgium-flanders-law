@@ -20,7 +20,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Het aantal kandidaten dat gunstig gerangschikt kan worden, bedraagt 1424 voor het toelatingsexamen arts en 218 voor het toelatingsexamen tandarts.
+Het aantal kandidaten dat gunstig gerangschikt kan worden, bedraagt 1600 voor het toelatingsexamen arts en 218 voor het toelatingsexamen tandarts.
 
 ### ART 2.
 
