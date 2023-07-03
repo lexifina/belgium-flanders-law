@@ -901,23 +901,23 @@ In deze afdeling wordt verstaan onder Vlaamse ondersteuningspremie: de Vlaamse o
 
 ### ART 89.
 
-Het departement kent werkondersteunende maatregelen toe conform de voorwaarden, vermeld in dit besluit, aan werkgevers en zelfstandigen die een aanvraag tot verlenging van de Vlaamse ondersteuningspremie hebben ingediend in het kwartaal voor het kwartaal waarin dit besluit in werking treedt. De toekenning van de werkondersteunende maatregelen start vanaf de datum van de inwerkingtreding van dit besluit.<br>
+Het departement kent werkondersteunende maatregelen toe conform de voorwaarden, vermeld in dit besluit, aan werkgevers en zelfstandigen die een aanvraag tot verlenging van de Vlaamse ondersteuningspremie hebben ingediend in het kwartaal voor het tweede kwartaal van 2023. De toekenning van de werkondersteunende maatregelen start vanaf de datum van de inwerkingtreding van dit besluit.<br>
 <br>
 Met behoud van het eerste lid blijft het departement de betaling van de Vlaamse ondersteuningspremie verzekeren, ook na het verstrijken van de duurtijd ervan, zolang het departement geen beslissing heeft genomen over de ingediende aanvraag tot verlenging, als aan al de volgende voorwaarden is voldaan:<br>
 1° het departement heeft buiten de wil van de werkgever of de zelfstandige om voor het einde van de toekenning van de Vlaamse ondersteuningspremie geen beslissing genomen;<br>
 2° de werkgever of de zelfstandige heeft uiterlijk vijf maanden voor de afloop van de toekenning van de Vlaamse ondersteuningspremie een ontvankelijke aanvraag ingediend.<br>
 <br>
-De beslissing over de hoogte en de duurtijd van de werkondersteunende maatregelen die door het departement wordt genomen na het verstrijken van de toekenning van de Vlaamse ondersteuningspremie, ressorteert gevolgen vanaf de eerste dag van het kwartaal dat volgt op het kwartaal waarin de beslissing is genomen.
+De beslissing over de hoogte en de duurtijd van de werkondersteunende maatregelen die door het departement wordt genomen na het verstrijken van de toekenning van de Vlaamse ondersteuningspremie, ressorteert gevolgen vanaf de eerste dag van het kwartaal waarin de beslissing is genomen.
 
 ### ART 90.
 
-Het departement kent werkondersteunende maatregelen toe conform de voorwaarden, vermeld in dit besluit, aan werkgevers en zelfstandigen die een aanvraag tot verhoging van de Vlaamse ondersteuningspremie hebben ingediend in het kwartaal voor het kwartaal waarin dit besluit in werking treedt. De toekenning van de werkondersteunende maatregelen start vanaf de datum van de inwerkingtreding van dit besluit en kan de duurtijd van de initieel toegekende Vlaamse ondersteuningspremie overschrijden tot een periode van maximum van 20 kwartalen.<br>
+Het departement kent werkondersteunende maatregelen toe conform de voorwaarden, vermeld in dit besluit, aan werkgevers en zelfstandigen die een aanvraag tot verhoging van de Vlaamse ondersteuningspremie hebben ingediend in het tweede kwartaal van 2023. De toekenning van de werkondersteunende maatregelen start vanaf de datum van de inwerkingtreding van dit besluit en kan de duurtijd van de initieel toegekende Vlaamse ondersteuningspremie overschrijden tot een periode van maximum van 20 kwartalen.<br>
 <br>
 Als werkgevers of zelfstandigen een aanvraag van werkondersteunende maatregelen in het kader van dit besluit indienen binnen vier kwartalen na datum van de stopzetting van de uitbetaling van de Vlaamse ondersteuningspremie, behandelt het departement die aanvraag als een wijziging van de werkondersteunende maatregelen, vermeld in artikel 15 en 57.
 
 ### ART 91.
 
-De beslissing van het departement tot toekenning van de Vlaamse ondersteuningspremie heeft uitwerking vanaf het kwartaal waarin de aanvraag is ingediend, als de aanvraag door werkgevers en zelfstandigen is ingediend in het kwartaal voor het kwartaal waarin dit besluit in werking treedt.
+De beslissing van het departement tot toekenning van de Vlaamse ondersteuningspremie heeft uitwerking vanaf het kwartaal waarin de aanvraag is ingediend, als de aanvraag door werkgevers en zelfstandigen is ingediend in het tweede kwartaal van 2023.
 
 ## Afdeling 5. Maatwerkafdelingen
 
@@ -954,9 +954,9 @@ De minister kan een uiterste indieningstermijn bepalen voor het verzoek tot omze
 
 ### ART 95.
 
-Het decreet van 14 januari 2022 over maatwerk bij individuele inschakeling treedt in werking op 1 juli 2023, met uitzondering van artikel 23, artikel 25 en artikel 26, die in werking treden op 1 september 2022.<br>
+Het decreet van 14 januari 2022 over maatwerk bij individuele inschakeling treedt in werking op 1 juli 2023, met uitzondering van artikel 23, artikel 25 en artikel 26, die in werking treden op 1 september 2022 en artikel 87, §3, dat in werking treedt op 1 april 2023.<br>
 <br>
-Dit besluit treedt in werking op 1 juli 2023, met uitzondering van artikel 26 en artikel 28 tot en met artikel 48 die in werking treden op 1 september 2022.
+Dit besluit treedt in werking op 1 juli 2023, met uitzondering van artikel 26 en artikel 28 tot en met artikel 48 die in werking treden op 1 september 2022 en artikel 88 tot en met 91, die in werking treden op 1 april 2023.
 
 ## Afdeling 7. Uitvoeringsbepaling
 
