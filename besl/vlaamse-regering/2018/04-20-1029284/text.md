@@ -36,9 +36,9 @@ Naast de lijsten van besluiten en de besluiten, vermeld in artikel 285, § 1, ar
 6° de geactualiseerde en gecoördineerde versie van de deontologische codes van de gemeenteraad, het college van burgemeester en schepenen en het personeel;<br>
 7° de geactualiseerde samenstelling van de gemeenteraad en het college van burgemeester en schepenen;<br>
 8° het geactualiseerde overzicht van de gemeentelijke adviesraden en overlegstructuren, vermeld in artikel 304, § 3, van het voormelde decreet, en de samenstelling ervan;<br>
-9° de jaarrekeningen van de gemeentelijke extern verzelfstandigde agentschappen in privaatrechtelijke vorm;<br>
-10° de besluiten, en de inhoud ervan, van de raad van bestuur van de autonome gemeentebedrijven, waarbij wordt afgeweken van de rechtspositieregeling van het gemeentepersoneel;<br>
-11° de besluiten over retributies, en de inhoud ervan, van de raad van bestuur van de autonome gemeentebedrijven.<br>
+9° ...;<br>
+10° ...;<br>
+11° ...<br>
 <br>
 Naast de lijsten van besluiten en de besluiten, vermeld in artikel 285, § 2, artikel 286, § 2, en artikel 553 van het voormelde decreet, maakt de voorzitter van het vast bureau de volgende besluiten en stukken bekend via de webtoepassing van de gemeente:<br>
 1° de agenda van de raad voor maatschappelijk welzijn;<br>
@@ -60,40 +60,32 @@ Naast de lijsten van besluiten en de besluiten, vermeld in artikel 285, § 1, ar
 § 1. De lijsten van besluiten en de besluiten, vermeld in artikel 285 en 286, 132 en 553 van het decreet van 22 december 2017 over het lokaal bestuur, zijn raadpleegbaar via de webtoepassing van de gemeente gedurende:<br>
 1° minstens de tijd dat een maatregel van bestuurlijk toezicht als vermeld in deel 2, titel 7, van het voormelde decreet, mogelijk is op de besluiten die opgenomen zijn in de lijsten, vermeld in artikel 285, § 1 en § 2, eerste lid, van het voormelde decreet;<br>
 2° minstens de tijd dat het reglement of de verordening, vermeld in artikel 286, § 1, 1°, en § 2, 1°, van het voormelde decreet, geldig is;<br>
-3° minstens de tijd dat een maatregel van bestuurlijk toezicht als vermeld in deel 2, titel 7, van het voormelde decreet, mogelijk is op de besluiten, vermeld in artikel 286, § 1, 2° tot en met 11°, en § 2, 2° tot en met 5°, van het voormelde decreet.<br>
+3° minstens de tijd dat een maatregel van bestuurlijk toezicht als vermeld in deel 2, titel 7, van het voormelde decreet, mogelijk is op de besluiten, vermeld in artikel 286, § 1, 2° tot en met 14°, en §2, 2° tot en met 6°, van het voormelde decreet.<br>
 <br>
 § 2. De agenda van de raad, vermeld in artikel 1, eerste lid, 1°, tweede lid, 1°, en derde lid, 1°, is minstens tot aan de publicatie van de notulen raadpleegbaar via de webtoepassing van de gemeente.<br>
 <br>
 De notulen van de raad, vermeld in artikel 1, eerste lid, 2°, tweede lid, 2°, en derde lid, 2°, zijn gedurende minstens een jaar vanaf de datum van de zitting raadpleegbaar via de webtoepassing van de gemeente.<br>
 <br>
 De stukken, vermeld in artikel 1, eerste lid, 3° tot en met 8°, tweede lid, 3° tot en met 6°, en derde lid, 3° en 4°, blijven raadpleegbaar via de webtoepassing van de gemeente.<br>
-<br>
-De besluiten, vermeld in artikel 1, eerste lid, 9° tot en met 11°, van dit besluit, zijn minstens de tijd dat een maatregel van bestuurlijk toezicht als vermeld in deel 2, titel 7, van het decreet van 22 december 2017 over het lokaal bestuur, mogelijk is, raadpleegbaar via de webtoepassing van de gemeente.<br>
 &nbsp;
 
 ## HOOFDSTUK 2 Wijze van bijhouden van het register inzake de reglementen en verordeningen van het lokaal bestuur
 
 ### ART 3.
 
-De algemeen directeur noteert in een register dat speciaal daarvoor bijgehouden wordt, de bekendmaking en de datum van bekendmaking van de reglementen of verordeningen van de gemeente en van het openbaar centrum voor maatschappelijk welzijn, vermeld in artikel 286, § 1, 1° en 2°, en § 2, 1° en 2°, en artikel 553 van het decreet van 22 december 2017 over het lokaal bestuur. Die aantekening vindt plaats op de dag van de bekendmaking van het reglement of de verordening. De aantekeningen worden genummerd in de volgorde van de opeenvolgende bekendmakingen.<br>
+Het register, vermeld in artikel 288, tweede lid van het decreet van 22 december 2017 over het lokaal bestuur, bestaat uit een of meer systemen waaruit de volgende elementen blijken:<br>
+1°&nbsp;&nbsp; &nbsp;de unieke identificatie van het document dat wordt bekendgemaakt;<br>
+2°&nbsp;&nbsp; &nbsp;de datum waarop het document op de webtoepassing van de gemeente is geplaatst.<br>
 <br>
-De bekendmaking en de datum van bekendmaking van de reglementen en verordeningen van het district, vermeld in artikel 132 en 286, § 1, 1° en 2°, van het voormelde decreet, worden opgenomen op de wijze, vermeld in het eerste lid van dit artikel met dien verstande dat "algemeen directeur" wordt gelezen als "districtssecretaris".<br>
-&nbsp;
+Het systeem of de systemen, vermeld in het eerste lid, zijn zo opgezet dat onmerkbare wijziging van de gepubliceerde en gelogde gegevens redelijkerwijs kan worden uitgesloten.&nbsp;<br>
+<br>
+Het lokaal bestuur publiceert op de webtoepassing van de gemeente een beschrijving van de werking van het systeem of de systemen, vermeld in het eerste lid, die aantoont hoe het voormelde systeem of de voormelde systemen voldoen aan de voorwaarden, vermeld in het eerste en tweede lid.<br>
+<br>
+De Vlaamse minister, bevoegd voor het binnenlands bestuur en het stedenbeleid, kan nadere technische vereisten opleggen aan dat systeem.
 
 ### ART 4.
 
-De burgemeester en de algemeen directeur dateren en ondertekenen de aantekening van de reglementen en verordeningen van de gemeente, vermeld in artikel 286, § 1, 1° en 2°, en artikel 553 van het decreet van 22 december 2017 over het lokaal bestuur.<br>
-<br>
-De voorzitter van het vast bureau en de algemeen directeur dateren en ondertekenen de aantekening van de reglementen van het openbaar centrum voor maatschappelijk welzijn, vermeld in artikel 286, § 2, 1° en 2°, van het voormelde decreet.<br>
-<br>
-De districtsburgemeester en de districtssecretaris dateren en ondertekenen de aantekening van de reglementen en verordeningen van het district, vermeld in artikel 132 en 286, § 1, 1° en 2°, van het voormelde decreet.<br>
-<br>
-De aantekening, vermeld in het eerste tot en met het derde lid, vermeldt minstens:<br>
-1° het orgaan dat het reglement of de verordening heeft genomen, meer in het bijzonder de gemeenteraad, het college van burgemeester en schepenen, de burgemeester, de raad voor maatschappelijk welzijn, het vast bureau, de districtsraad, het districtscollege of de districtsburgemeester;<br>
-2° de datum van het reglement of de verordening;<br>
-3° het onderwerp van het reglement of de verordening;<br>
-4° de datum van bekendmaking van het reglement of de verordening.<br>
-&nbsp;
+....
 
 ## HOOFDSTUK 3 Raadpleegbaarheid van de lijst van de besluiten van de politieraad en de zoneraad
 
