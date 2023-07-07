@@ -2503,6 +2503,27 @@ Personen die op de datum van goedkeuring van het besluit van de Vlaamse   Regeri
 
 ## [Afdeling 4/2 Overgangsmaatregelen voor vergunningen met betrekking tot de programmatische aanpak stikstof (ing. decr. 9 juni 2023, art. 2, I: 7 juli 2023)])]
 
+### ART 394/2.
+
+§1. De vergunningstermijn van een milieuvergunning of een omgevingsvergunning die werd verleend voor de exploitatie van een ingedeelde inrichting of activiteit, wordt verlengd als voldaan is aan de volgende voorwaarden:<br>
+1° de vergunning heeft betrekking op een veehouderij of mestverwerkingsinstallatie;<br>
+2° ofwel is de vergunningstermijn verstreken in 2021 of 2022 en werd er een hernieuwingsaanvraag ingediend voor de inwerkingtreding van dit artikel en ten minste twaalf maanden voor de einddatum van de vergunning, ofwel is de vergunningstermijn verstreken of verstrijkt die in de loop van 2023;<br>
+3° er werd nog geen definitieve beslissing genomen over de laatste hernieuwingsaanvraag;<br>
+4° er wordt een verzoek tot verlenging van de vergunningstermijn bij de bevoegde overheid ingediend, die daar uitdrukkelijk akte van neemt conform dit artikel;<br>
+5° het verzoek tot verlenging van de vergunningstermijn wordt ingediend uiterlijk op de dag voor de lopende vergunningstermijn is verstreken. Voor de vergunningen waarvan de vergunningstermijn is verstreken voor de inwerkingtreding van dit artikel of waarvan de vergunningstermijn verstrijkt uiterlijk dertig dagen na de dag waarop dit artikel in werking treedt, kan het verzoek alsnog ingediend worden tot uiterlijk 1 september 2023.<br>
+<br>
+De vergunningstermijn wordt, conform dit artikel, verlengd tot en met 31 december 2023.<br>
+&nbsp;<br>
+§2. De bevoegde overheid, vermeld in artikel 15, neemt uitdrukkelijk akte van het verzoek als aan de voorwaarden van paragraaf 1 is voldaan.<br>
+<br>
+Als het verzoek is ingediend binnen de termijn, vermeld in paragraaf 1, 5°, mag de stedenbouwkundige handeling in stand worden gehouden of mag de ingedeelde inrichting of activiteit verder geëxploiteerd worden na de einddatum in afwachting van de aktename, vermeld in het eerste lid.<br>
+<br>
+De uitdrukkelijke aktename geldt als bevestiging dat de milieuvergunning of omgevingsvergunning is verlengd overeenkomstig paragraaf 1.<br>
+<br>
+§3. Dit artikel geldt met behoud van de toepassing van de bepalingen, vermeld in artikel 99, §2 en §3.<br>
+<br>
+§4. In afwijking van artikel 70, §1, tweede lid, mogen ingedeelde inrichtingen of activiteiten waarvan de vergunningstermijn wordt verlengd met toepassing van dit artikel, verder geëxploiteerd worden na de nieuwe einddatum van de vergunning in afwachting van een definitieve beslissing over een hernieuwingsaanvraag, op voorwaarde dat die uiterlijk één maand voor de voormelde nieuwe einddatum wordt ingediend.
+
 ## Afdeling 5 Evaluatie, uitvoering en inwerkingtreding
 
 ### ART. 395.
