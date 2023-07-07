@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038480,
+  "title": "Decreet van 2023-06-09 tot wijziging van het decreet van 25 april 2014 betreffende de omgevingsvergunning, wat het invoeren van overgangsmaatregelen voor vergunningen in het kader van de Programmatische Aanpak Stikstof betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038480/VolledigDocument?datum=2023-07-07",
+  "source_sha256": "17120024f66c06fa9bd72a389420e6b1796f83b93f90833da991d50b2abc0ea3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038480&param=informatie",
+  "as_of": "2023-07-07",
+  "made": "2023-06-09",
+  "gazette": "2023-07-06",
+  "numac": 2023042982,
+  "document_start": "2023-07-07",
+  "document_end": null,
+  "in_force": "2023-07-07",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2023-07-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
