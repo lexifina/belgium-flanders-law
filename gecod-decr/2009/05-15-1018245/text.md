@@ -62,7 +62,12 @@ d) het herkenbare onderdeel van een projectbesluit dat geldt als ruimtelijk uitv
 15° (sub)categorie van gebiedsaanduiding : een generieke gebiedsbestemming, vermeld in artikel 2.2.3, § 2;<br>
 16° Vlaamse Belastingdienst : de gewestelijke administratie, bevoegd voor de inning en invordering van de Vlaamse belastingen;<br>
 17° Vlaamse Grondenbank : afdeling van de Vlaamse Landmaatschappij, opgericht volgens het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen.<br>
-18° voorkeursbesluit : een besluit als vermeld in artikel 2, 19°, van het decreet van 25 april 2014 betreffende complexe projecten.<br>
+18° voorkeursbesluit : een besluit als vermeld in artikel 2, 19°, van het decreet van 25 april 2014 betreffende complexe projecten;<br>
+19° woonreservegebied: een gebied dat ressorteert onder:<br>
+a)&nbsp;&nbsp; &nbsp;de gebiedsbestemming woonuitbreidingsgebied, vermeld in artikel 5.1.1 van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en de gewestplannen;<br>
+b)&nbsp;&nbsp; &nbsp;het bijzonder bestemmingsvoorschrift reservegebied voor woonwijken van een gewestplan;<br>
+c)&nbsp;&nbsp; &nbsp;het bijzonder bestemmingsvoorschrift woonreservegebied van een ge- westplan;<br>
+d)&nbsp;&nbsp; &nbsp;het bijzonder bestemmingsvoorschrift woonaansnijdingsgebied van een gewestplan.<br>
 <br>
 &nbsp;
 
@@ -1232,7 +1237,7 @@ Wanneer een eigenaar toepassing maakt van deze aankoopplicht, kan hij jegens het
 <br>
 In de gevallen, vermeld in § 2 en § 3, kan een bouw- of verkavelingsverbod aanleiding geven tot een beperkte schadevergoeding, planschadevergoeding genaamd.<br>
 <br>
-§ 2. Planschadevergoeding wordt toegekend wanneer, op basis van een in werking getreden ruimtelijk uitvoeringsplan, een perceel niet meer in aanmerking komt voor een vergunning om te bouwen, vermeld in artikel 4.2.1, 1°, of voor het verkavelen van gronden, terwijl het de dag voorafgaand aan de inwerkingtreding van dat definitieve plan wel in aanmerking kwam voor een vergunning om te bouwen of voor het verkavelen van gronden.<br>
+§ 2. Planschadevergoeding wordt toegekend wanneer, op basis van een in werking getreden ruimtelijk uitvoeringsplan, een perceel niet meer in aanmerking komt voor een vergunning om te bouwen, vermeld in artikel 4.2.1, 1°, of voor het verkavelen van gronden, terwijl het de dag voorafgaand aan de inwerkingtreding van dat definitieve plan wel in aanmerking kwam voor een vergunning om te bouwen of voor het verkavelen van gronden, of voor een gemeenteraadsbesluit tot gehele of gedeeltelijke vrijgave van een woonreservegebied als vermeld in artikel 5.6.11.<br>
 <br>
 § 3. Voor de toepassing van planschadevergoeding moet bovendien aan volgende criteria samen worden voldaan op de dag voorafgaand aan de inwerkingtreding van het definitieve plan :<br>
 1° het perceel moet gelegen zijn aan een voldoende uitgeruste weg overeenkomstig artikel 4.3.5, § 1;<br>
@@ -2905,7 +2910,8 @@ Elk van de personen, vermeld in artikel 4.8.11, § 1, eerste lid, kan in de zaak
 5° de onteigeningsplannen;<br>
 6° de aanduiding van de gronden die conform artikel 5.6.8, § 1, van deze codex beschouwd worden als `watergevoelig openruimtegebied';<br>
 7° de aanduiding van de gronden waarvoor de reservatiestrook is opgeheven conform artikel 7.4.2/3 van deze codex;<br>
-8° de beslissing van de gemeenteraad inzake de afwijkingsmogelijkheid van een bijzonder plan van aanleg ouder dan vijftien jaar, conform artikel 4.4.9/1, laatste lid, van deze codex.<br>
+8° de beslissing van de gemeenteraad inzake de afwijkingsmogelijkheid van een bijzonder plan van aanleg ouder dan vijftien jaar, conform artikel 4.4.9/1, laatste lid, van deze codex;<br>
+9° de aanduiding van de gronden in woonreservegebied die overeenkomstig arti- kel 5.6.11 en 5.6.12 bij gemeenteraadsbesluit zijn vrijgegeven, en de voorwaarden en eventuele lasten van het vrijgavebesluit.<br>
 <br>
 De Vlaamse Regering kan de wijze bepalen waarop in het plannenregister ruimtelijk relevante beschermingsvoorschriften opgenomen worden ten gevolge van regelgeving binnen andere beleidsvelden dan de ruimtelijke ordening.<br>
 <br>
@@ -3202,36 +3208,15 @@ De krachtens het eerste lid, 2°, verleende ontheffingen gelden slechts gedurend
 
 ### ART. 5.6.4.
 
-Deze onderafdeling is van toepassing op de gebieden die ressorteren onder de gebiedsbestemming « woonuitbreidingsgebied », vermeld in artikel 5.1.1. van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerp-gewestplannen en gewestplannen.
+...
 
 ### ART. 5.6.5.
 
-Een gemeente kan een woonuitbreidingsgebied eerst omzetten naar woongebied door middel van een ruimtelijk uitvoeringsplan of een plan van aanleg, voor zover een toelichtingsnota bij dat bestemmingsplan een beleidsvisie op het gemeentelijk woonbeleid insluit of naar een bestaande beleidsvisie in het gemeentelijk ruimtelijk structuurplan verwijst. Een beleidsvisie bestaat ten minste uit een prioriteitenbepaling en een fasering met betrekking tot het ontwikkelen van de bijkomende ruimte voor woningbouw vanuit een globale visie op het wonen in de gemeente.<br /><br />Het eerste lid vindt toepassing ten aanzien van planningsprocessen waarbij de voorlopige vaststelling of de voorlopige aanneming geschiedt vanaf de inwerkingtreding van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid.
+...
 
 ### ART. 5.6.6.
 
-§ 1. In woonuitbreidingsgebieden, reservegebieden voor woonwijken en woonaansnijdingsgebieden wordt de aanvraag van een sociale woonorganisatie voor een omgevingsvergunning voor de verwezenlijking van een sociaal woonaanbod in de zin van&nbsp;artikel 1.3, § 1, eerste lid, 46°, van de Vlaamse Codex Wonen van 2021&nbsp;ingewilligd indien voldaan is aan alle hiernavolgende voorwaarden :<br>
-1° de gronden zijn niet gelegen in een overstromingsgebied, vermeld in artikel 1.1.2, 10°, a), 10) en het project doorstaat de watertoets;<br>
-2° de gronden palen aan woongebied, al dan niet met landelijk karakter of aan een reeds ontwikkeld deel van een woonuitbreidingsgebied;<br>
-3° de gronden worden niet belast door een bouwverbod ingevolge het decreet van 14 juli 1993 houdende maatregelen tot bescherming van de kustduinen;<br>
-4° het aangevraagde vormt geen betekenisvolle aantasting van de natuurlijke kenmerken van een speciale habitat- of vogelbeschermingszone, of komt ondanks het sociaal karakter van de geplande activiteit niet in aanmerking voor een afwijking, vermeld in artikel 36ter, § 5, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
-5° de inrichtingsaspecten van het bouw- of verkavelingsproject zijn in overeenstemming met de stedenbouwkundige voorschriften en de goede ruimtelijk ordening.<br>
-<br>
-Het eerste lid is van overeenkomstige toepassing op aanvragen van een woonmaatschappij voor een omgevingsvergunning voor de verwezenlijking van een bescheiden woonaanbod in de zin van artikel 1.3, § 1, eerste lid, 3°, van de Vlaamse Codex Wonen van 2021, waarbij de woonmaatschappij optreedt als enige opdrachtgever of verkavelaar, voor zover voornoemd bescheiden woonaanbod wordt verwezenlijkt op ten hoogste 20 procent van de gronden die eigendom zijn van de woonmaatschappij in de gebieden, vermeld in het eerste lid.<br>
-<br>
-De bepalingen van een ruimtelijk structuurplan kunnen nimmer worden ingeroepen om de afgifte van de vergunningen, vermeld in het eerste en het tweede lid, af te wijzen.<br>
-<br>
-§ 2. Buiten de gevallen, vermeld in § 1, en onverminderd de gevallen, toegelaten bij artikel 5.1.1 van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerp-gewestplannen en gewestplannen, kan een omgevingsvergunning voor het bouwen van woningen of voor het verkavelen van gronden in woonuitbreidingsgebied eerst worden afgeleverd, indien de aanvrager beschikt over een principieel akkoord van de deputatie.<br>
-<br>
-In een principieel akkoord bevestigt de deputatie dat de vooropgestelde ontwikkeling ingepast kan worden in het lokaal woonbeleid, zoals vormgegeven in het gemeentelijk ruimtelijk structuurplan en desgevallend in andere openbare beleidsdocumenten. De deputatie wint daaromtrent het voorafgaand advies van de gemeenteraad in. Dat advies is bindend in zoverre het negatief is. Indien de gemeenteraad geen advies aflevert binnen een termijn van negentig dagen, ingaande de dag na deze van de betekening van de adviesvraag, kan aan deze adviesverplichting worden voorbijgegaan.<br>
-<br>
-Een principieel akkoord verplicht de gemeente ertoe om binnen het jaar een voorontwerp van ruimtelijk uitvoeringsplan of plan van aanleg op te maken.<br>
-<br>
-De Vlaamse Regering kan nadere materiële en procedurele regelen bepalen voor de toepassing van deze paragraaf.<br>
-<br>
-§ 3. De bepalingen van § 1 en § 2 vinden toepassing ten aanzien van bouwprojecten of verkavelingen waarvoor de vergunningsaanvragen vanaf de inwerkingtreding van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid betekend worden bij het college van burgemeester en schepenen, of, bij toepassing van de procedure, vermeld in artikel 4.7.1, § 1, 2°, de Vlaamse Regering of de gewestelijke stedenbouwkundige ambtenaar.<br>
-<br>
-De deputaties leveren hun principiële akkoorden vanaf de inwerkingtreding van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid af met toepassing van § 2. Principiële akkoorden die voorheen werden afgeleverd op grond van de Omzendbrief RO/2002/03 van 25 oktober 2002 « in verband met het opmaken van een gemeentelijke woonbehoeftestudie en het ontwikkelen van woonuitbreidingsgebieden met of zonder woonbehoeftestudie » sorteren vanaf voormelde inwerkingtredingsdatum het gevolg, vermeld in § 2, eerste lid.
+...
 
 ## Afdeling 2 Bijzondere bepaling betreffende de toetsing aan stedenbouwkundige voorschriften binnen andere beleidsvelden
 
@@ -3314,11 +3299,121 @@ De Vlaamse Regering kan voor ruimtelijke uitvoeringsplannen die definitief zijn 
 
 ## [Onderafdeling 1 Algemene bepaling (ing. decr. 26 mei 2023, art. 7, I: 7 juli 2023)]
 
+### ART 5.6.10.
+
+§1. In woonreservegebieden kunnen stedenbouwkundige handelingen als vermeld in artikel 4.2.1 of het verkavelen van gronden, vermeld in artikel 4.2.15, alleen worden toegestaan in de volgende gevallen:<br>
+1° op grond van een voorafgaand gemeenteraadsbesluit als vermeld in onderafdeling 2, met toepassing van de voorwaarden en eventuele lasten van dat vrijgavebesluit;<br>
+2° &nbsp; op grond van de bepalingen, vermeld in artikel 5.6.14;<br>
+3° voor zover ze in overeenstemming zijn met de voorschriften van een algemeen plan van aanleg of een bijzonder plan van aanleg, met behoud van de toepassing van de bepalingen van hoofdstuk IV van titel IV.<br>
+<br>
+In afwijking van het eerste lid kunnen in woonreservegebieden omgevingsver- gunningen afgegeven worden voor aanvragen die zijn gesteund op afwijkingsmogelijkheden als vermeld in titel IV, hoofdstuk IV.<br>
+<br>
+§2. De mogelijkheden, vermeld in paragraaf 1, gelden niet in gebieden die zijn aangeduid als watergevoelige openruimtegebieden als vermeld in artikel 5.6.8, §3.
+
 ## [Onderafdeling 2 Gemeentelijke besluitvorming (ing. decr. 26 mei 2023, art. 9, I: 7 juli 2023)]
+
+### ART 5.6.11.
+
+§1. De gemeenteraad kan op initiatief van het college van burgemeester en schepenen beslissen dat een woonreservegebied volledig of gedeeltelijk vrijgegeven wordt voor wonen, en voor activiteiten en voorzieningen die aan het wonen verwant en ermee verweefbaar zijn, op maat van en inpasbaar in het woonreservegebied en de omgeving. Een gedeeltelijke vrijgave heeft betrekking op een samenhangend en ruimtelijk afzonderbaar onderdeel van het woonreservegebied.<br>
+<br>
+§2. Het al dan niet vrijgeven van een woonreservegebied of een deel ervan wordt beoordeeld aan de hand van:<br>
+1° de bepalingen van het gemeentelijk ruimtelijk structuurplan of het gemeentelijk of intergemeentelijk beleidsplan ruimte, of een ontwerp daarvan;<br>
+2° de bepalingen van het provinciaal beleidsplan ruimte en het Beleidsplan Ruim- te Vlaanderen, of een ontwerp daarvan;<br>
+3° de principes en doelstellingen vermeld in artikel 1.1.4;<br>
+4° de waterhuishouding, in het bijzonder de vrijwaring van het waterbergend vermogen waar dit relevant is;<br>
+5° het bindend sociaal objectief van de gemeente zoals bepaald overeenkomstig hoofdstuk 2 van titel 3 van de Vlaamse Codex Wonen van 2021, en de voort- gang van de realisatie ervan.<br>
+&nbsp;<br>
+Wordt de vrijgave van een deel van een woonreservegebied overwogen, dan wordt bovendien nagegaan of die vrijgave geen hypotheek legt op de latere invul- ling of herbestemming van de overige delen van het woonreservegebied.<br>
+<br>
+De gemeenteraad kan een woonreservegebied slechts volledig of gedeeltelijk vrijgeven als dat in overeenstemming is met het geldende gemeentelijk ruimtelijk structuurplan of het gemeentelijk of intergemeentelijk ruimtelijk beleidsplan.<br>
+<br>
+Als de gemeenteraad een woonreservegebied gedeeltelijk vrijgeeft, dan geeft zij de redenen aan waarom niet het volledige maar slechts het betrokken gedeelte van het woonreservegebied wordt vrijgegeven. Zij toont daarbij ook aan dat het een samenhangend en ruimtelijk afzonderbaar gedeelte betreft, waarvan de vrijgave geen hypotheek legt op de latere invulling of herbestemming van de overige delen van het woonreservegebied.<br>
+<br>
+§3. Een gemeenteraadsbesluit dat een woonreservegebied volledig of gedeeltelijk vrijgeeft, bepaalt de voorwaarden voor een ruimtelijk kwalitatieve ontwikke- ling van het vrijgegeven gebied. Deze voorwaarden hebben minstens betrekking op de woningtypologie en -dichtheid, op de vermenging van functies en op de groen- voorzieningen en de waterhuishouding. Het vrijgavebesluit en de voorwaarden gel- den als ordening in de zin van artikel 5.1.1 van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en de gewestplannen.<br>
+<br>
+De voorwaarden, vermeld in het eerste lid, garanderen een hoog ruimtelijk rendement en een zuinig ruimtegebruik door een minimale groepering van de woningen en door gedeelde voorzieningen.<br>
+<br>
+§4. Een gemeenteraadsbesluit dat een woonreservegebied volledig of gedeel- telijk vrijgeeft, kan gepaste lasten opleggen om de omgevingskwaliteit van een woonreservegebied en zijn omgeving te verhogen. Die lasten kunnen onder meer betrekking hebben op het versterken van de landschappelijke inpasbaarheid en de groenblauwe dooradering, de vrijwaring of de verwezenlijking van gemeenschappelijke ruimten en gemeenschappelijk groen, de integrale toegankelijkheid, klimaatbestendigheid, energetische optimalisatie, een kwaliteitsvolle verweving van functies, en zuinig en duurzaam ruimtegebruik. Zij kunnen geheel of gedeeltelijk de vorm aannemen van de storting van een bedrag dat bestemd wordt voor de uitvoering van de handelingen en werken, vermeld in dit lid.<br>
+<br>
+De lasten, vermeld in het eerste lid, voldoen aan de bepalingen voor lasten als vermeld in artikel 75 tot en met 77 van het decreet van 25 april 2014 betreffende de omgevingsvergunning.<br>
+<br>
+Lasten als vermeld in het eerste lid worden overgenomen in omgevingsver- gunningen in het woonreservegebied, of in overeenkomsten tussen de gemeente en de aanvrager van een omgevingsvergunning die voorafgaand aan de afgifte van een omgevingsvergunning worden gesloten.<br>
+<br>
+§5. Een gemeenteraadsbesluit dat een woonreservegebied volledig of gedeeltelijk vrijgeeft, bevat de conclusies van de op planniveau voorgeschreven milieubeoor- delingen, geeft aan hoe die geïntegreerd zijn in het besluit, en geeft in voorkomend geval de monitoringsmaatregelen aan die in het kader van de uitgevoerde effectenbeoordelingen worden genomen.
+
+### ART 5.6.12.
+
+§1. Het college van burgemeester en schepenen neemt het initiatief voor de gehele of gedeeltelijke vrijgave van een woonreservegebied.<br>
+<br>
+§2. De houder van zakelijke rechten op een of meer gronden in een woonreservegebied, of zijn gevolmachtigde, kan het college van burgemeester en schepenen verzoeken om over te gaan tot een initiatief als vermeld in paragraaf 1 door middel van een aanvraag tot overleg over een gehele of gedeeltelijke vrijgave. De aanvraag bevat een concrete omschrijving en duiding van de gewenste ontwikkeling en de inpasbaarheid ervan in de omgeving. De aanvrager toont ook aan dat hij in staat is om een maatschappelijk gewenst en kwaliteitsvol ruimtegebruik als vermeld in artikel 1.1.4 tot stand te brengen in het woonreservegebied of in een samenhangend onderdeel ervan.<br>
+<br>
+Het college van burgemeester en schepenen nodigt het departement en de instanties die zijn aangewezen krachtens artikel 7.4.4/1, §4, eerste lid, uit voor het overleg.<br>
+<br>
+Het verslag van het overleg bevat het standpunt van het college van burgemeester en schepenen over het al dan niet opstarten van een initiatief voor de vrijgave van het woonreservegebied, rekening houdende met de criteria en vereisten van artikel 5.6.11.<br>
+<br>
+Het verslag van het overleg wordt per beveiligde zending aan de aanvrager bezorgd.<br>
+<br>
+§3. Als het college van burgemeester en schepenen van oordeel is dat het woonreservegebied volledig of gedeeltelijk kan worden vrijgegeven, dan stelt de gemeenteraad een besluit tot vrijgave voorlopig vast, met inbegrip van de beoogde voorwaarden en eventuele lasten als vermeld in artikel 5.6.11, §3 en §4, en de norm, vermeld in artikel 5.97 van de Vlaamse Codex Wonen van 2021.<br>
+<br>
+De vrijgave van een woonreservegebied wordt onderworpen aan een openbaar onderzoek, met inachtneming van de volgende regelingen:<br>
+1°&nbsp;&nbsp; &nbsp;het openbaar onderzoek duurt zestig dagen;<br>
+2°&nbsp;&nbsp; &nbsp;iedere belanghebbende kan gedurende die termijn schriftelijk of digitaal opmerkingen en bezwaren indienen.<br>
+<br>
+De nadere regels voor het openbaar onderzoek, bepaald krachtens artikel 7.4.4/1, §3, tweede lid, zijn van overeenkomstige toepassing.<br>
+<br>
+§4. Het college van burgemeester en schepenen wint het voorafgaande advies in van het departement en van de instanties die zijn aangewezen krachtens artikel 7.4.4/1, §4, eerste lid.<br>
+<br>
+De adviezen worden uitgebracht binnen een vervaltermijn van zestig dagen, die ingaat op de dag na de ontvangst van de adviesvraag. Als er binnen die termijn geen advies is verleend, mag aan de adviesvereiste worden voorbijgegaan.<br>
+<br>
+§5. Het openbaar onderzoek, vermeld in paragraaf 3, en de adviesverlening, vermeld in paragraaf 4, kunnen volledig of gedeeltelijk samenvallen.<br>
+<br>
+Na het verstrijken van de onderzoeks- en adviesperiode is het college van burgemeester en schepenen belast met het bundelen en coördineren van alle advie- zen, opmerkingen en bezwaren ten behoeve van de gemeenteraad. Het college van burgemeester en schepenen kan de gemeentelijke commissie voor ruimtelijke ordening met die taak belasten.<br>
+<br>
+§6. De gemeenteraad beslist over de vrijgave van een woonreservegebied binnen een vervaltermijn van negentig dagen na het einde van het openbaar onderzoek, vermeld in paragraaf 3, dan wel na het einde van de adviesperiode, vermeld in paragraaf 4, waarbij gerekend wordt vanaf de meest recente datum.<br>
+<br>
+§7. Een gemeenteraadsbesluit tot vrijgave van een woonreservegebied wordt onmiddellijk met een beveiligde zending aan het departement bezorgd.<br>
+<br>
+De Vlaamse Regering beschikt over een termijn van vijfenveertig dagen, die ingaat op de dag na de betekening, vermeld in het eerste lid, om de uitvoering van het gemeenteraadsbesluit tot vrijgave te schorsen. Een schorsing kan niet gedeeltelijk zijn. Het gemeenteraadsbesluit tot vrijgave kan alleen worden geschorst:<br>
+1° wegens kennelijke onverenigbaarheid met de bepalingen van het gemeentelijk ruimtelijk structuurplan of het gemeentelijk of intergemeentelijk beleidsplan ruimte;<br>
+2° wegens strijdigheid met bekendgemaakte gewestelijke bestuurshandelingen of beleidsbeslissingen over ruimtelijke plannen, projecten of de vrijwaring van het waterbergend vermogen in bepaalde gebieden;<br>
+3° wegens de niet-naleving van substantiële vormvereisten of de vereisten van artikel 5.6.11.<br>
+<br>
+Een afschrift van het schorsingsbesluit wordt binnen een ordetermijn van tien dagen met een beveiligde zending aan het college van burgemeester en schepenen bezorgd.<br>
+<br>
+In geval van schorsing beschikt de gemeenteraad over een termijn van negentig dagen, die ingaat op de dag na de verzending van het schorsingsbesluit aan het college van burgemeester en schepenen, om een nieuw gemeenteraadsbesluit tot vrijgave van het woonreservegebied te nemen. In dat nieuwe gemeenteraadsbesluit kunnen ten opzichte van het geschorste gemeenteraadsbesluit alleen wijzigingen worden aangebracht die gebaseerd zijn op het schorsingsbesluit of die eruit voortvloeien.<br>
+<br>
+Als de gemeenteraad binnen de termijn van negentig dagen geen nieuw gemeenteraadsbesluit neemt, vervalt het geschorste gemeenteraadsbesluit.<br>
+<br>
+Een nieuw gemeenteraadsbesluit tot vrijgave van een woonreservegebied wordt onmiddellijk met een beveiligde zending aan het departement bezorgd.<br>
+<br>
+De Vlaamse Regering beschikt vervolgens over een termijn van vijfenveertig dagen, die ingaat op de dag na de betekening, vermeld in het vijfde lid, om het nieuwe gemeenteraadsbesluit te vernietigen. Het gemeenteraadsbesluit tot vrij- gave kan alleen vernietigd worden op basis van de redenen, vermeld in het tweede lid. Een vernietiging kan volledig of gedeeltelijk zijn.<br>
+<br>
+§8. Als een gemeenteraadsbesluit tot vrijgave van een woonreservegebied niet tijdig is geschorst of vernietigd, wordt het bij uittreksel bekendgemaakt in het Belgisch Staatsblad en wordt het opgenomen in het plannenregister, vermeld in artikel 5.1.1.<br>
+<br>
+Het gemeenteraadsbesluit treedt in werking veertien dagen na de bekendma- king bij uittreksel in het Belgisch Staatsblad.<br>
+&nbsp;<br>
+§9. De Vlaamse Regering kan nadere regels bepalen met betrekking tot:<br>
+1°&nbsp;&nbsp; &nbsp;de vorm en inhoud en de wijze van indienen van een aanvraag tot overleg over een gehele of gedeeltelijke vrijgave;<br>
+2°&nbsp;&nbsp; &nbsp;de uitnodiging tot dergelijk overleg;<br>
+3°&nbsp;&nbsp; &nbsp;de uitwisseling van dossierstukken en adviesvragen en adviezen.
+
+### ART 5.6.13.
+
+De voorwaarden en eventuele lasten van een gemeenteraadsbesluit tot vrijgave van een woonreservegebied kunnen worden gewijzigd met overeen- komstige toepassing van artikel 5.6.11 en 5.6.12.
 
 ## [Onderafdeling 3 Regeling voor woonreservegebieden die al volledig of gedeeltelijk ontwikkeld zijn (ing. decr. 26 mei 2023, art. 13, I: 7 juli 2023)]
 
+### ART 5.6.14.
+
+Voor gronden in woonreservegebied gelegen binnen het niet-vervallen gedeelte van een omgevingsvergunning voor het verkavelen van gronden of waarvoor een niet-vervallen vergunning voor groepswoningbouw is afgegeven, gelden de voorschriften van artikel 5.1.0 van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en de gewestplannen, met dien verstande dat de eventuele verkavelingsvoorschriften blijven bestaan. De verkavelingsvoorschriften kunnen bijgesteld worden met toepassing van artikel 84, 85 en 86 van het decreet van 25 april 2014 betreffende de omgevingsvergunning.
+
 ## [Onderafdeling 4 Opmaak van ruimtelijke uitvoeringsplannen (ing. decr. 26 mei 2023, art. 15, I: 7 juli 2023)]
+
+### ART 5.6.15.
+
+Gemeenten kunnen de bestemming, de inrichting of het beheer van het woonreservegebied vastleggen in een ruimtelijk uitvoeringsplan of in het herkenbare onderdeel van een projectbesluit dat geldt als ruimtelijk uitvoeringsplan.<br>
+<br>
+Voor gronden waarvoor op 1 januari 2040 geen gemeenteraadsbesluit tot vrijgave van een woonreservegebied is genomen overeenkomstig artikel 5.6.11 en 5.6.12 en die evenmin een herbestemming hebben gekregen via een ruimtelijk uitvoeringsplan, stelt de Vlaamse Regering uiterlijk op 31 december 2043 een ruimtelijk uitvoeringsplan waarin het gebied begrepen is, definitief vast.
 
 ## [HOOFDSTUK VII Gewestplanvoorschriften (ing. decr. 8 december 2017, art. 93, I: 30 december 2017)]
 
