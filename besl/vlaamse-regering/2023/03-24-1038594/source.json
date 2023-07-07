@@ -2,16 +2,16 @@
   "codex_id": 1038594,
   "title": "Besluit van de Vlaamse Regering van 2023-03-24 over tijdelijke projecten in het basis- en secundair onderwijs in het kader van de herwaardering van het lerarenambt",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038594/VolledigDocument?datum=2022-09-01",
-  "source_sha256": "be9639725bf3867697ebc1764a49695d9d009ee265346f229041eca286a2be0e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038594/VolledigDocument?datum=2023-07-07",
+  "source_sha256": "f58d69277d95db934a92783b5306a6b306163b2d6549fee18607a2f98cfcb3f0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038594&param=informatie",
-  "as_of": "2022-09-01",
+  "as_of": "2023-07-07",
   "made": "2023-03-24",
   "gazette": "2023-08-18",
   "numac": 2023043598,
   "document_start": null,
   "document_end": "2026-09-01",
-  "in_force": "2022-09-01",
-  "article_versions": 11,
-  "record_form": "consolidated version as in force on 2022-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-07-07",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2023-07-07; future article versions excluded; article text as the API gives it"
 }
