@@ -2,16 +2,16 @@
   "codex_id": 1028948,
   "title": "Besluit van de Vlaamse Regering van 2017-12-08 over de erkenning en subsidiëring van observatie-, diagnose- en behandelingsunits",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028948/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "58686a0758ed9a30c13bf4ef13100c94c92f5c84eb55150d48b604eaedf013e0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028948/VolledigDocument?datum=2023-07-09",
+  "source_sha256": "d1e902d495d993851859110a3d6d28e03d31286dc8b348e92ccdcc7287a1cf56",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028948&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2023-07-09",
   "made": "2017-12-08",
   "gazette": "2018-01-31",
   "numac": 2018030195,
   "document_start": "2017-01-01",
   "document_end": null,
-  "in_force": "2023-01-01",
+  "in_force": "2023-07-09",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-07-09; future article versions excluded; article text as the API gives it"
 }
