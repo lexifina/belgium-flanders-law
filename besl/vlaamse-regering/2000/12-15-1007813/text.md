@@ -180,7 +180,7 @@ De volgende handelingen komen niet in aanmerking voor vergoeding met het PAB:<br
 1° individuele materiële bijstand;<br>
 2° medische en paramedische behandelingen, onderzoeken of therapieën die tot bevoegdheid van het Rijksinstituut voor Ziekte- en Invaliditeitsverzekering behoren, ongeacht het feit of ze daadwerkelijk worden terugbetaald;<br>
 3° pedagogische en didactische begeleiding bij studies die overlapt met wat het gewoon onderwijs, het buitengewoon of het geïntegreerd onderwijs aanbieden;<br>
-4° ondersteuning bij tewerkstelling die overlapt met wat de arbeidstrajectbegeleiding of de Vlaamse inschakelingspremie aanbieden;<br>
+4° ondersteuning bij opleidings-, begeleidings- en bemiddelingsacties of bij tewerkstelling met werkondersteunende maatregelen in kader van maatwerk bij individuele of collectieve inschakeling of bijzondere tewerkstellingsondersteunende maatregelen;<br>
 5° budgetbegeleiding;<br>
 6° de kosten van verplaatsingen met de wagen van de persoonlijke assistent of de budgethouder met uitzondering van woon- werkverkeer van de persoonlijke assistent, die tewerkgesteld is met een arbeidsovereenkomst als vermeld in artikel 12, § 1,eerste lid, 1°.<br>
 <br>
@@ -200,7 +200,9 @@ Het agentschap bepaalt welke bewijsstukken de budgethouder op verzoek moet voorl
 <br>
 Het PAB kan gebruikt worden om 155 nachten woonondersteuning of 155 dagen dagondersteuning per kalenderjaar te vergoeden die wordt verleend door een van de volgende zorgaanbieders:<br>
 1° een zorgaanbieder die door het agentschap is vergund conform het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap;<br>
-2° een zorgaanbieder die geregistreerd is bij het agentschap conform artikel 7, eerste lid, 3°, van het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders.<br>
+2° een zorgaanbieder die geregistreerd is bij het agentschap conform artikel 7, eerste lid, 3°, van het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders;<br>
+3° een organisatie of dienst die erkend of vergund is door een andere overheidsdienst van het beleidsdomein Welzijn, Volksgezondheid en Gezin, die zorg en ondersteuning organiseert voor maximaal vijftien personen met een handicap die de &nbsp;voormelde ondersteuning vergoeden met een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning als vermeld in hoofdstuk 5 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap. De zorg en ondersteuning wordt geboden buiten de capaciteit waarvoor de organisatie of dienst is erkend of vergund;<br>
+4° een rechtspersoon die ondersteuning aanbiedt buiten het Belgische grondgebied en die aantoont dat hij volgens, in overeenstemming met de wetgeving van het land van vestiging ondersteuning kan bieden aan personen met een handicap.<br>
 <br>
 Het PAB kan ook worden aangewend om 155 dagen dagondersteuning per kalenderjaar te vergoeden die wordt geboden door bij het agentschap geregistreerde groene zorginitiatieven als vermeld in artikel 7, tweede lid, van het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders.<br>
 <br>
