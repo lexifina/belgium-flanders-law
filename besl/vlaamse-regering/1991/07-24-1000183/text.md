@@ -342,7 +342,7 @@ c) deskundige in de hulpmiddelentechniek;<br>
 6° een ervaringsdeskundige;<br>
 7° een ambtenaar van het agentschap.<br>
 <br>
-Elk lid heeft ten minste vijf jaar nuttige ervaring in de welzijnssector in het algemeen, en in de sector personen met een handicap in het bijzonder, met uitzondering van de leden, vermeld in het eerste lid, 1° en 6°.<br>
+Elk lid heeft ten minste vijf jaar nuttige ervaring in de welzijnssector in het algemeen, en in de sector personen met een handicap in het bijzonder, met uitzondering van de leden, vermeld in het eerste lid, 1° en 7°.<br>
 <br>
 In elke kamer zijn de specialisaties handicap, objectivering van de ondersteuningsnood als vermeld in artikel 8, eerste lid, 2°, van het decreet van 25 april 2014 houdende de persoonsvolgende financiering en tot hervorming van de wijze van financiering van de zorg en ondersteuning voor personen met een handicap, prioritering als vermeld in artikel 16, vierde lid, van het voormelde decreet, en individuele materiële bijstand, verenigd, waarbij een lid ten hoogste twee specialisaties kan vertegenwoordigen.<br>
 <br>
@@ -382,7 +382,7 @@ Elke kamer van de adviescommissie kan alle inlichtingen en adviezen inwinnen die
 
 ### ART. 38.
 
-Een kamer van de adviescommissie kan slechts advies uitbrengen als tenminste de voorzitter, drie van de leden bedoeld in artikel 30, § 2, eerste lid, 1°, 2°, 3° of 6° van dit besluit en de secretaris of hun plaatsvervangers aanwezig zijn. [ <span class="reference">(verv. B.V.R. 16 september 1997, art. 11, I: 18 november 1997)</span> ]
+Een kamer van de adviescommissie kan slechts advies uitbrengen als tenminste de voorzitter, drie van de leden bedoeld in artikel 30, § 2, eerste lid, 1°, 2°, 3° of 7° van dit besluit en de secretaris of hun plaatsvervangers aanwezig zijn.
 
 ### ART. 39.
 
