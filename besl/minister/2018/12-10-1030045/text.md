@@ -37,7 +37,8 @@ De hierna genoemde personeelsleden van de afdeling Handhaving van het Departemen
 12° Verheyden Elke;<br>
 13° Uten Yorne;<br>
 14° De Reu Margot;<br>
-15° Walgraeve Lynn.
+15° Walgraeve Lynn;<br>
+16° Caroline Van den bergh.
 
 ### ART 2.
 
