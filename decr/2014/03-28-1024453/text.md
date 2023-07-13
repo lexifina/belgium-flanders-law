@@ -353,7 +353,7 @@ De landcommissie duidt zo nodig de nieuwe kavels aan op het   terrein en brengt 
 
 ### ART. 2.1.61.
 
-Herverkaveling   uit kracht van wet kan gepaard gaan met een planologische ruil waarbij de   bestemmingsgebieden van kracht in de ruimtelijke ordening en de betrokken   eigenaars en gebruikers gelijktijdig worden omgewisseld. Herverkaveling uit   kracht van wet met planologische ruil beoogt een optimaler en evenwichtiger   grondgebruik. De gelijktijdige omwisseling van de bestemmingsgebieden en van de   betrokken eigenaars en gebruikers kan gebeuren volgens de bepalingen, vermeld in   onderafdeling 2.
+Herverkaveling uit kracht van wet kan gekoppeld worden aan de opmaak of de wijziging van een ruimtelijk uitvoeringsplan, waarbij de stedenbouwkundige voorschriften die in de ruimtelijke ordening van kracht zijn, en de eigendoms- en gebruikssituatie van de betrokken gronden gelijktijdig worden aangepast. Herverkaveling uit kracht van wet die gekoppeld is aan een ruimtelijk uitvoeringsplan, beoogt een optimaler en evenwichtiger grondgebruik. De stedenbouwkundige voorschriften en de eigendoms- en gebruikssituatie van de betrokken gronden kunnen gelijktijdig aangepast worden conform artikel 2.1.63 tot en met 2.1.66.
 
 ### ART. 2.1.62.
 
@@ -363,11 +363,17 @@ De definities, vermeld in artikel 2.1.21, gelden voor de   toepassing van deze a
 
 ### ART. 2.1.63.
 
-De   instantie die instaat voor de opmaak van een ruimtelijk uitvoeringsplan ter   uitvoering van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, bepaalt   het gebied binnen het plangebied van het ruimtelijk uitvoeringsplan dat in   aanmerking komt voor een herverkaveling uit kracht van wet met planologische   ruil. Voor dat gebied bepaalt de landcommissie het blok en de lijst van de   vroegere percelen en van rechthebbenden conform artikel 2.1.23, eerste tot en   met derde lid.
+De instantie die instaat voor de opmaak van een ruimtelijk uitvoeringsplan ter uitvoering van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, bepaalt het gebied binnen het plangebied van het ruimtelijk uitvoeringsplan dat in aanmerking komt voor een herverkaveling uit kracht van wet die gekoppeld is aan een ruimtelijk uitvoeringsplan. Voor dat gebied bepaalt de landcommissie het blok en de lijst van de vroegere percelen en van rechthebbenden conform artikel 2.1.23, eerste tot en met derde lid.
 
 ### ART. 2.1.64.
 
-<P>§ 1. Om de omwisseling van eigenaars en gebruikers uit kracht   van wet te realiseren, maakt de landcommissie voor de percelen die binnen het   blok liggen een grondruilplan op.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Het grondruilplan wordt gelijktijdig met het gewestelijk, provinciaal of   gemeentelijk uitvoeringsplan opgemaakt en wordt tegelijk met het ruimtelijk   uitvoeringsplan onderworpen aan de procedureregels voor het opmaken van dat   uitvoeringsplan, vermeld in de Vlaamse Codex Ruimtelijke Ordening van 15 mei   2009, voor zover in dit hoofdstuk niet wordt afgeweken van de voormelde   procedureregels.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   instantie die bevoegd is voor de voorlopige vaststelling van het ontwerp van   ruimtelijk uitvoeringsplan stelt tegelijk met de voorlopige vaststelling van het   ontwerp van ruimtelijk uitvoeringsplan het grondruilplan voorlopig   vast.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   instantie die bevoegd is voor de definitieve vaststelling van het ruimtelijk   uitvoeringsplan stelt tegelijk met de definitieve vaststelling van het   ruimtelijk uitvoeringsplan het grondruilplan definitief   vast.</P>
+<p>§ 1. Om de aanpassing van eigenaars en gebruikers uit kracht van wet te realiseren, maakt de landcommissie voor de percelen die binnen het blok liggen een grondruilplan op.</p>
+
+<p>§ 2. Het grondruilplan wordt gelijktijdig met het gewestelijk, provinciaal of gemeentelijk uitvoeringsplan opgemaakt en wordt tegelijk met het ruimtelijk uitvoeringsplan onderworpen aan de procedureregels voor het opmaken van dat uitvoeringsplan, vermeld in de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, voor zover in dit hoofdstuk niet wordt afgeweken van de voormelde procedureregels.</p>
+
+<p>De instantie die bevoegd is voor de voorlopige vaststelling van het ontwerp van ruimtelijk uitvoeringsplan stelt tegelijk met de voorlopige vaststelling van het ontwerp van ruimtelijk uitvoeringsplan het grondruilplan voorlopig vast.</p>
+
+<p>De instantie die bevoegd is voor de definitieve vaststelling van het ruimtelijk uitvoeringsplan stelt tegelijk met de definitieve vaststelling van het ruimtelijk uitvoeringsplan het grondruilplan definitief vast.</p>
 
 ### ART. 2.1.65.
 
@@ -377,39 +383,39 @@ De   instantie die instaat voor de opmaak van een ruimtelijk uitvoeringsplan ter
 3° de financiële regeling.</p>
 
 <p>§ 2. De landcommissie bepaalt de inbreng. De landcommissie maakt daarvoor de classificatie volgens hun ruilwaarde en volgens hun gebruikswaarde op van het geheel van de onroerende goederen die bij de herverkaveling zijn betrokken. De volgende lijsten en de volgende plannen worden opgemaakt op basis van de kadastrale gegevens en andere beschikbare gegevens:<br>
-1° een lijst van de vroegere percelen met voor elk perceel de oppervlakte, de eigenaars, de vruchtgebruikers en de gebruikers, de bestemmingsgebieden van kracht in de ruimtelijke ordening voor de wijziging van het bestemmingsgebied ten gevolge van de planologische ruil;<br>
+1° een lijst van de vroegere percelen met voor elk perceel de oppervlakte, de eigenaars, de vruchtgebruikers en de gebruikers, de bestemmingsgebieden van kracht in de ruimtelijke ordening voor de wijziging van de stedenbouwkundige voorschriften ten gevolge van de opmaak of de wijziging van het ruimtelijk uitvoeringsplan;<br>
 2° een lijst van de eigenaars en vruchtgebruikers met per eigenaar en per vruchtgebruiker:<br>
-a) de vroegere percelen met vermelding van het bestemmingsgebied van kracht in de ruimtelijke ordening voor de wijziging van het bestemmingsgebied ten gevolge van de planologische ruil;<br>
+a) de vroegere percelen met vermelding van de stedenbouwkundige voorschriften die in de ruimtelijke ordening van kracht zijn vóór de wijziging van de stedenbouwkundige voorschriften ten gevolge van de opmaak of de wijziging van het ruimtelijk uitvoeringsplan;<br>
 b) de ruilwaarde van elk vroeger perceel;<br>
 c) de totale ruilwaarde van alle vroegere percelen van de eigenaar en van de vruchtgebruiker;<br>
 3° een classificatieplan met aanduiding van de gebruikswaardezones, gevormd door het groeperen van percelen met dezelfde gebruikswaarde;<br>
 4° een lijst van de gebruikers met per gebruiker:<br>
-a) de vroegere percelen met vermelding van het bestemmingsgebied van kracht in de ruimtelijke ordening voor de wijziging van het bestemmingsgebied ten gevolge van de planologische ruil;<br>
+a) de vroegere percelen met vermelding van de stedenbouwkundige voorschriften die in de ruimtelijke ordening van kracht zijn vóór de wijziging van de stedenbouwkundige voorschriften ten gevolge van de opmaak of de wijziging van het ruimtelijk uitvoeringsplan;<br>
 b) de gebruikswaarde van elk vroeger perceel;<br>
 c) de totale gebruikswaarde van alle vroegere percelen van de gebruiker;<br>
 5° een plan met de vroegere percelen die met voorrechten, hypotheken, bevelen, onroerende beslagen of vorderingen of met erfpacht-, opstal-, gebruiks- of bewoningsrecht zijn bezwaard;<br>
 6° een lijst van de vroegere percelen met voor elk perceel de voorrechten, hypotheken, bevelen, onroerende beslagen of vorderingen, of erfpacht, opstal-, gebruiks- of bewoningsrecht.</p>
 
-<p>De ruilwaarde van de vroegere percelen wordt bepaald op basis van de oppervlakte, de ligging, het bestemmingsgebied van kracht in de ruimtelijke ordening, de aanwezige constructies en opstanden, de cultuurwaarde en het bestaan van pacht of van erfdienstbaarheden en de verwervingswaarde, namelijk de objectieve factoren die de waarde van een grond kunnen beïnvloeden.</p>
+<p>De ruilwaarde van de vroegere percelen wordt bepaald op basis van de oppervlakte, de ligging, de stedenbouwkundige voorschriften van kracht in de ruimtelijke ordening, de aanwezige constructies en opstanden, de cultuurwaarde en het bestaan van pacht of van erfdienstbaarheden en de verwervingswaarde, namelijk de objectieve factoren die de waarde van een grond kunnen beïnvloeden.</p>
 
 <p>De gebruikswaarde van de vroegere percelen wordt bepaald conform artikel 2.1.26, tweede lid.</p>
 
 <p>§ 3. De landcommissie bepaalt de toedeling. De landcommissie maakt daarvoor de classificatie volgens ruilwaarde en volgens gebruikswaarde op van het geheel van de onroerende goederen die bij de herverkaveling zijn betrokken. De volgende lijsten en de volgende plannen worden opgemaakt op basis van de kadastrale gegevens en andere beschikbare gegevens:<br>
 1° het herverkavelingsplan met de nieuwe percelen en het openbaar domein die behoren tot het blok;<br>
-2° een lijst van de nieuwe percelen met voor elk perceel de oppervlakte, de eigenaars, de vruchtgebruikers en de gebruikers, en het bestemmingsgebied dat aangewezen is in het voorontwerp van ruimtelijk uitvoeringsplan;<br>
+2° een lijst van de nieuwe percelen met voor elk perceel de oppervlakte, de eigenaars, de vruchtgebruikers en de gebruikers, en de stedenbouwkundige voorschriften die aangewezen zijn in het voorontwerp van ruimtelijk uitvoeringsplan;<br>
 3° een lijst van de eigenaars en de vruchtgebruikers met per eigenaar en per vruchtgebruiker:<br>
-a) de nieuwe percelen met vermelding van het bestemmingsgebied dat aangewezen is in het voorontwerp van ruimtelijk uitvoeringsplan;<br>
+a) de nieuwe percelen met vermelding van de stedenbouwkundige voorschriften die aangewezen zijn in het voorontwerp van ruimtelijk uitvoeringsplan;<br>
 b) de ruilwaarde van elk nieuw perceel;<br>
 c) de totale ruilwaarde van alle nieuwe percelen van de eigenaar en van de vruchtgebruiker;<br>
 4° een lijst van de gebruikers met per gebruiker:<br>
-a) de nieuwe percelen met vermelding van het bestemmingsgebied dat aangewezen is in het voorontwerp van ruimtelijk uitvoeringsplan;<br>
+a) de nieuwe percelen met vermelding van de stedenbouwkundige voorschriften die aangewezen zijn in het voorontwerp van ruimtelijk uitvoeringsplan;<br>
 b) de gebruikswaarde van elk nieuw perceel;<br>
 c) de totale gebruikswaarde van alle nieuwe percelen van de gebruiker;<br>
 5° een plan met de nieuwe percelen die met voorrechten, hypotheken, bevelen, onroerende beslagen of vorderingen of met erfpacht-, opstal-, gebruiks- of bewoningsrecht zullen worden bezwaard;<br>
 6° een lijst waarop voor iedere eigenaar en iedere vruchtgebruiker de volgende gegevens zijn vermeld: de voorrechten, hypotheken, bevelen, onroerende beslagen of vorderingen, de erfpacht-, opstal-, gebruiks- en bewoningsrechten, met vermelding van de vroegere percelen en van de nieuwe percelen die in de plaats daarvan komen;<br>
 7° het herverkavelingsplan met de erfdienstbaarheden die worden gevestigd en de erfdienstbaarheden die worden afgeschaft. De andere erfdienstbaarheden worden behouden.</p>
 
-<p>De ruilwaarde en de gebruikswaarde van de nieuwe percelen worden bepaald conform artikel 2.1.26. Bij het bepalen van die waarden wordt echter rekening gehouden met het bestemmingsgebied dat aangewezen is in het voorontwerp van ruimtelijk uitvoeringsplan.</p>
+<p>De ruilwaarde en de gebruikswaarde van de nieuwe percelen worden bepaald conform artikel 2.1.26. Bij het bepalen van die waarden wordt echter rekening gehouden met de stedenbouwkundige voorschriften die aangewezen zijn in het voorontwerp van ruimtelijk uitvoeringsplan.</p>
 
 <p>§ 4. De landcommissie bepaalt de financiële regeling conform artikel 2.1.27.</p>
 
@@ -423,13 +429,23 @@ c) de totale gebruikswaarde van alle nieuwe percelen van de gebruiker;<br>
 
 <p>De landcommissie brengt elke rechthebbende van wie de toestand die opgenomen is in het grondruilplan wijzigt ten gevolge van het openbaar onderzoek over het ontwerp van ruimtelijk uitvoeringsplan en grondruilplan, per beveiligde zending op de hoogte van die wijziging.</p>
 
-<p>§ 7. De instantie die instaat voor het opmaken van het ruimtelijk uitvoeringsplan bezorgt alle informatie aan de landcommissie die deze nodig heeft voor de uitvoering van haar taken in het kader van de herverkaveling uit kracht van wet met planologische ruil. De landcommissie bezorgt alle informatie aan de instantie die instaat voor de opmaak van het ruimtelijk uitvoeringsplan die deze nodig heeft voor de uitvoering van haar taken in het kader van de herverkaveling uit kracht van wet met planologische ruil.</p>
+<p>§ 7. De instantie die instaat voor het opmaken van het ruimtelijk uitvoeringsplan bezorgt alle informatie aan de landcommissie die deze nodig heeft voor de uitvoering van haar taken in het kader van de herverkaveling uit kracht van wet die gekoppeld is aan een ruimtelijk uitvoeringsplan. De landcommissie bezorgt alle informatie aan de instantie die instaat voor de opmaak van het ruimtelijk uitvoeringsplan die deze nodig heeft voor de uitvoering van haar taken in het kader van de herverkaveling uit kracht van wet die gekoppeld is aan een ruimtelijk uitvoeringsplan.</p>
 
 ### ART. 2.1.66.
 
 <P>Als   het grondruilplan definitief is vastgesteld, gaat de landcommissie zo nodig over   tot de afpaling van de nieuwe percelen. Hiernavolgend wordt de instrumenterende   ambtenaar belast met de opmaak van de herverkavelingsakte en het verlijden   ervan.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   herverkavelingsakte omvat:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de vaststelling van de rechten en plichten die voortvloeien uit de plannen, de   lijsten en de overeenkomsten, vermeld in artikel 2.1.65, § 2, § 3 en § 4, en   artikel 2.1.36 en 2.1.37;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de door de landcommissie vastgestelde data en voorwaarden van ingenottreding en   ingebruikneming van de nieuwe percelen;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de financiële afrekening die de financiële compensatie en de   gebruikersvergoeding bevat, alsook de tijdstippen voor de vereffening van die   vergoedingen.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   plannen, de lijsten en de overeenkomsten, vermeld in het tweede lid, 1°, en de   overeenkomsten en rechterlijke beslissingen, vermeld in artikel 2.1.32 en   2.1.35, worden aan de herverkavelingsakte gehecht.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Artikel   2.1.50, 2.1.51 en 2.1.52 zijn van toepassing op de   herverkavelingsakte.</P>
 
 ## [Afdeling 6. Recht van voorkeur (ing. decr. 26 mei 2023, art. 94, I: 13 juli 2023)]
+
+### ART 2.1.66/1.
+
+Om het doel van een landinrichtingsproject of een project, plan of programma te realiseren kan de Vlaamse Grondenbank een recht van voorkeur uit- oefenen. Het recht van voorkeur is van toepassing bij de verkoop van onroerende goederen die in de zones liggen die de Vlaamse Regering heeft aangeduid als een zone waar het recht van voorkeur geldt met toepassing van dit decreet. Het besluit dat de zone aanduidt waarbinnen het recht van voorkeur geldt, wordt bekendgemaakt in het Belgisch Staatsblad.<br>
+<br>
+De Vlaamse Regering stelt regels vast voor de totstandkoming van de aanduiding van de zones waar het recht van voorkeur geldt, de afbakening en de opheffing van het recht van voorkeur, en de wijze van bekendmaking van het recht van voorkeur.
+
+### ART 2.1.66/2.
+
+Artikel 19/1, artikel 19/2, tweede lid, artikel 19/3 en artikel 19/4 van het decreet van 16 juni 2006 betreffende het oprichten van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen zijn van toepassing op het recht van voorkeur, vermeld in artikel 2.1.66/1.
 
 ## Hoofdstuk 4. Andere instrumenten
 
@@ -501,7 +517,7 @@ De   vergoedingen, vermeld in deel 2, zijn onderling niet cumuleerbaar, tenzij h
 
 <p>De landcommissies vervullen de opdrachten die door dit decreet of de uitvoeringsbesluiten ervan aan hen zijn opgedragen in het kader van de volgende instrumenten, vermeld in deel 2:<br>
 1° de herverkaveling uit kracht van wet;<br>
-2° de herverkaveling uit kracht van wet met planologische ruil;<br>
+2° de herverkaveling uit kracht van wet die gekoppeld is aan een ruimtelijk uitvoeringsplan;<br>
 3° de vergoeding voor waardeverlies van gronden;<br>
 4° de vrijwillige bedrijfsverplaatsing, bedrijfsstopzetting, bedrijfsreconversie.</p>
 
@@ -517,7 +533,11 @@ De   vergoedingen, vermeld in deel 2, zijn onderling niet cumuleerbaar, tenzij h
 
 ### ART. 2.2.4.
 
-<P>Het agentschap voert het secretariaat van de landcommissies. Het   agentschap is verantwoordelijk voor de verwerking van alle informatie, met   inbegrip van persoonsgegevens als vermeld in artikel 2.2.5. Het agentschap is   rekenplichtig voor de uitgaven en ontvangsten waartoe de landcommissie heeft   besloten.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   Vlaamse Regering kan nadere regels vaststellen voor de werking en de taken van   het secretariaat van de landcommissies.</P>
+<p>Het agentschap voert het secretariaat van de landcommissies en vervult als zodanig de rol van verwerker. De landcommissies zijn verantwoordelijk voor de verwerking van alle informatie, met inbegrip van de persoonsgegevens, vermeld in artikel 2.2.5, alsook van de gegevens die ze verwerken bij het vervullen van de taken, vermeld in artikel 2.2.1.<br>
+<br>
+De landcommissies bewaren de persoonsgegevens gedurende de termijnen die noodzakelijk zijn om de taken, vermeld in artikel 2.2.1, te vervullen, overeenkomstig de regels die zijn opgenomen in het Bestuursdecreet van 7 december 2018 in verband met het beheren, bewaren en vernietigen van bestuursdocumenten.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen voor de werking en de taken van het secretariaat van de landcommissies.</p>
 
 ### ART. 2.2.5.
 
@@ -623,7 +643,11 @@ De Vlaamse Regering kan nadere regels vaststellen voor de   inhoud en de uitvoer
 
 ### ART. 4.1.1.
 
-<P>De   Vlaamse Regering kan beslissen een of meerdere instrumenten als vermeld in deel   2, toe te passen voor de realisatie van een project, plan of programma, als de   toepassing van de instrumenten bijdraagt tot de realisatie van het beleid dat ze   voert op het vlak van het behoud, het herstel en de ontwikkeling van functies en   kwaliteiten van de ruimte.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   provinciebestuur kan beslissen een of meer instrumenten als vermeld in deel 2,   toe te passen voor de realisatie van een project, plan of programma, als het een   project, plan of programma betreft dat door het provinciebestuur is goedgekeurd   en als de toepassing van de instrumenten bijdraagt tot de realisatie van het   beleid dat het voert op het vlak van het behoud, het herstel en de ontwikkeling   van functies en kwaliteiten van de ruimte. Voor de toepassing van de   instrumenten inrichtingswerken uit kracht van wet, vrijwillige   bedrijfsverplaatsing, bedrijfsreconversie, bedrijfsstopzetting, recht van   voorkoop, vestigen van erfdienstbaarheden tot openbaar nut, herverkaveling uit   kracht van wet, herverkaveling uit kracht van wet met planologische ruil en   vergoeding voor waardeverlies van gronden, is een machtiging van de Vlaamse   Regering vereist.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   gemeentebestuur kan beslissen een of meerdere instrumenten als vermeld in deel   2, toe te passen voor de realisatie van een project, plan of programma, als het   een project, plan of programma betreft dat door het gemeentebestuur is   goedgekeurd en als de toepassing van de instrumenten bijdraagt tot de realisatie   van het beleid dat het voert op het vlak van het behoud, het herstel en de   ontwikkeling van functies en kwaliteiten van de ruimte. Voor de toepassing van   de instrumenten inrichtingswerken uit kracht van wet, vrijwillige   bedrijfsverplaatsing, bedrijfsreconversie, bedrijfsstopzetting, recht van   voorkoop, vestigen van erfdienstbaarheden tot openbaar nut, herverkaveling uit   kracht van wet, herverkaveling uit kracht van wet met planologische ruil en   vergoeding voor waardeverlies van gronden, is een machtiging van de Vlaamse   Regering vereist.</P>
+<p>De Vlaamse Regering kan beslissen een of meerdere instrumenten als vermeld in deel 2, toe te passen voor de realisatie van een project, plan of programma, als de toepassing van de instrumenten bijdraagt tot de realisatie van het beleid dat ze voert op het vlak van het behoud, het herstel en de ontwikkeling van functies en kwaliteiten van de ruimte.</p>
+
+<p>Het provinciebestuur kan beslissen een of meer instrumenten als vermeld in deel 2, toe te passen voor de realisatie van een project, plan of programma, als het een project, plan of programma betreft dat door het provinciebestuur is goedgekeurd en als de toepassing van de instrumenten bijdraagt tot de realisatie van het beleid dat het voert op het vlak van het behoud, het herstel en de ontwikkeling van functies en kwaliteiten van de ruimte.</p>
+
+<p>Het gemeentebestuur kan beslissen een of meerdere instrumenten als vermeld in deel 2, toe te passen voor de realisatie van een project, plan of programma, als het een project, plan of programma betreft dat door het gemeentebestuur is goedgekeurd en als de toepassing van de instrumenten bijdraagt tot de realisatie van het beleid dat het voert op het vlak van het behoud, het herstel en de ontwikkeling van functies en kwaliteiten van de ruimte.&nbsp;</p>
 
 ## TITEL 2. De opmaak, de onderbouwing en uitvoering van inrichtingsnota's
 
