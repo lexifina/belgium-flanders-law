@@ -159,11 +159,45 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder beveiligde   zending: 
 
 ### ART. 19/2.
 
-De Vlaamse Grondenbank heeft een recht van voorkeur bij de verkoop door   een administratieve overheid van het Vlaamse Gewest van onroerende goederen die   in een gebied liggen dat valt onder de categorie `recreatie', `landbouw', `bos',   `overig groen', `reservaat en natuur', `gemeenschaps- en nutsvoorzieningen' of   `ontginning en waterwinning', vermeld in artikel 2.2.3 van de Vlaamse Codex   Ruimtelijke Ordening van 15 mei 2009.
+De Vlaamse Grondenbank heeft een recht van voorkeur bij de verkoop door een administratieve overheid van het Vlaamse Gewest van onroerende goederen die in een gebied liggen dat valt onder de categorie `recreatie', `landbouw', `bos', `overig groen', `reservaat en natuur', `gemeenschaps- en nutsvoorzieningen' of `ontginning en waterwinning', aangewezen op de plannen van aanleg of de ruimtelijke uitvoeringsplannen.<br>
+<br>
+Voor de toepassing van het eerste lid geldt dat een bestemmingsvoorschrift van een plan van aanleg in elk geval vergelijkbaar is met een subcategorie of categorie van gebiedsaanduiding, als die concordantie opgenomen is in de tabel, vermeld in artikel 7.4.13, eerste lid, van de Vlaamse Codex Ruimtelijke Ordening, of in de concordantielijst die bepaald is krachtens artikel 7.4.13, tweede lid, van de voormelde codex.<br>
+<br>
+Het recht van voorkeur geldt op het volledige onroerend goed zodra het onroerend goed voor meer dan 80% gelegen is in de bestemmingscategorieen, vermeld in het eerste lid.
 
 ### ART. 19/3.
 
-§ 1. De administratieve overheid van het Vlaamse Gewest doet, voorafgaand   aan de verkoop, een aanbod tot aankoop. Het aanbod tot aankoop wordt gedaan aan   de Vlaamse Grondenbank met een beveiligde zending. Het aanbod tot aankoop bevat   de vraagprijs en de verkoopsvoorwaarden. De vraagprijs mag niet hoger zijn dan   de venale waarde, zoals geschat door het aankoopcomité, een ontvanger van het   registratiekantoor of een beëdigde schatter.<BR><BR>§ 2. De Vlaamse Grondenbank   oefent het recht van voorkeur uit met een beveiligde zending binnen een termijn   van twee maanden na datum van de beveiligde zending, vermeld in paragraaf   1.<BR><BR>Als de Vlaamse Grondenbank het aanbod niet aanvaardt binnen de   termijn, vermeld in het eerste lid, kan de administratieve overheid van het   Vlaamse Gewest het goed vrij verkopen aan een derde gedurende een periode van   één jaar vanaf de datum van de beveiligde zending, vermeld in paragraaf 1, met   dien verstande dat het goed niet verkocht mag worden tegen een prijs en onder   voorwaarden die gunstiger zijn dan vermeld in het aanbod tot aankoop, vermeld in   paragraaf 1. Na verloop van de voormelde periode van één jaar wordt de procedure   vermeld in paragraaf 1, toegepast.<BR><BR>§ 3. De Vlaamse Regering kan nadere   regels vaststellen voor dit recht van voorkeur.
+§ 1. In dit artikel wordt verstaan onder ruimtelijk geheel: twee of meer kadastrale percelen of delen van kadastrale percelen die samen een gemeenschappelijke grens hebben.<br>
+<br>
+§ 1/1. De administratieve overheid van het Vlaamse Gewest doet, voorafgaand aan de verkoop, een aanbod tot aankoop. Het aanbod tot aankoop wordt gedaan aan de Vlaamse Grondenbank met een beveiligde zending. Het aanbod tot aankoop bevat de vraagprijs en de verkoopsvoorwaarden. De vraagprijs mag niet hoger zijn dan de venale waarde, zoals geschat door een Vlaamse commissaris als vermeld in artikel 2, 2°, van het decreet van 19 december 2014 houdende de Vlaamse vastgoedcodex, een ontvanger van het registratiekantoor of een beëdigde schatter.<br>
+<br>
+Het recht van voorkeur is op het te verkopen onroerend goed van toepassing, ook als het maar op een deel van het onroerend goed slaat. Als het onroerend goed waarop het recht van voorkeur van de Vlaamse Grondenbank van toepassing is, maar een deel van het te verkopen onroerend goed is, doet de administratieve overheid van het Vlaamse Gewest voor dat deel een afzonderlijk aanbod.<br>
+<br>
+Van het tweede lid kan worden afgeweken als het te verkopen onroerend goed waarvan maar op een deel het voorkeurrecht van de Vlaamse Grondenbank van toepassing is, een ruimtelijk geheel vormt dat de administratieve overheid van het Vlaamse Gewest niet wil splitsen. In dat geval wordt het geheel aangeboden voor één prijs en oefent de Vlaamse Grondenbank, als die het recht van voorkeur wil uitoefenen, het recht van voorkeur op het geheel uit.<br>
+<br>
+§ 2. De Vlaamse Grondenbank oefent het recht van voorkeur uit met een beveiligde zending binnen een termijn van zestig dagen na datum van de beveiligde zending, vermeld in paragraaf 1/1.<br>
+<br>
+De termijn, vermeld in het eerste lid, loopt van middernacht tot middernacht en begint te lopen vanaf de dag na de datum van de beveiligde zending, ver- meld in paragraaf 1/1. De termijn omvat alle dagen. Ook de vervaldag is in de termijn begrepen en wordt niet verplaatst als hij op een zaterdag, een zondag, of een wettelijke of decretale feestdag valt.<br>
+<br>
+Als de Vlaamse Grondenbank het aanbod niet aanvaardt binnen de termijn, vermeld in het eerste lid, kan de administratieve overheid van het Vlaamse Gewest het goed vrij verkopen aan een derde gedurende een periode van één jaar vanaf de dag na de datum van de beveiligde zending, vermeld in paragraaf 1/1, met dien verstande dat het goed niet verkocht mag worden tegen een prijs en onder voorwaarden die gunstiger zijn dan vermeld in het aanbod tot aankoop, vermeld in paragraaf 1/1. Na verloop van de voormelde periode van één jaar wordt de procedure vermeld in paragraaf 1/1, toegepast.<br>
+<br>
+§ 3. De Vlaamse Regering kan nadere regels vaststellen voor dit recht van voorkeur.
+
+### ART 19/4.
+
+§ 1. Bij een miskenning van het recht van voorkeur heeft de Vlaamse Grondenbank het recht om in de plaats van de koper te worden gesteld voor een prijs die niet hoger mag zijn dan de venale waarde, die geschat wordt door een Vlaamse commissaris als vermeld in artikel 2, 2°, van het decreet van 19 december 2014 houdende de Vlaamse vastgoedcodex of door een beëdigde schatter, of heeft ze het recht om een schadevergoeding te vorderen ten bedrage van 20% van de verkoopprijs.<br>
+<br>
+§ 2. De vordering wordt, op straffe van verval, ingesteld binnen een termijn van zes maanden vanaf de definitieve toewijzing of, bij verkoop uit de hand, binnen de termijn van een jaar nadat de akte is overgeschreven op het bevoegde kantoor van de Algemene Administratie van de Patrimoniumdocumentatie.<br>
+<br>
+§ 3. De vordering tot indeplaatsstelling wordt gelijktijdig tegen de verkoper en de koper ingesteld. De eis is pas ontvankelijk na inschrijving op de kant van de overschrijving van de betwiste akte en, in voorkomend geval, op de kant van de overschrijving van de laatst overgeschreven titel.<br>
+<br>
+De Vlaamse Grondenbank betaalt aan de koper de prijs terug die de koper heeft betaald. De verkoper is ertoe gehouden om aan de koper de kosten van de akte te vergoeden en, in voorkomend geval, aan de Vlaamse Grondenbank het deel van de prijs die de koper heeft betaald dat hoger is dan de venale waarde die een Vlaamse commissaris als vermeld in artikel 2, 2°, van het decreet van 19 december 2014 houdende de Vlaamse vastgoedcodex of een beëdigde schatter heeft bepaald.<br>
+<br>
+Als de rechter de vordering tot indeplaatsstelling inwilligt, geldt het vonnis als titel.<br>
+<br>
+Iedere uitspraak op een eis tot indeplaatsstelling wordt ingeschreven achter de inschrijving van de eis.<br>
+<br>
+§ 4. De vordering tot schadevergoeding wordt tegen de verkoper en de instrumenterende ambtenaar ingesteld. Ze kunnen hoofdelijk veroordeeld worden tot een schadevergoeding ten bedrage van 20% van de verkoopprijs.
 
 ## HOOFDSTUK VII KOOPPLICHT
 
