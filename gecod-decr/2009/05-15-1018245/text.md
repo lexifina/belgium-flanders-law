@@ -2982,7 +2982,7 @@ Het plannenregister, het vergunningenregister en de inhouden van beide registers
 <br>
 Beide registers zijn toegankelijk voor het publiek in het gemeentehuis.<br>
 <br>
-Onverminderd titel II, hoofdstuk 3, afdeling 4, van het Bestuursdecreet van 7 december 2018 krijgen de ambtenaren van ruimtelijke ordening,&nbsp;vermeld in de artikelen 1.4.3 en 1.4.9 van deze codex en de artikelen 9/1 en 10 van het decreet van 25 april 2014 betreffende de omgevingsvergunning op eerste verzoek, onmiddellijk een kosteloos uittreksel.
+Onverminderd titel II, hoofdstuk 3, afdeling 4, van het Bestuursdecreet van 7 december 2018 krijgen de ambtenaren van ruimtelijke ordening,&nbsp;vermeld in de artikelen 1.4.3 en 1.4.9 van deze codex en de artikelen 9/1 en 10 van het decreet van 25 april 2014 betreffende de omgevingsvergunning op eerste verzoek, onmiddellijk een kosteloos uittreksel.&nbsp;Hetzelfde geldt voor de landcommissies.
 
 ## HOOFDSTUK II Informatieplichten
 
