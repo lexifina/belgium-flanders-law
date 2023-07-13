@@ -2,16 +2,16 @@
   "codex_id": 1038527,
   "title": "Decreet van 2023-05-26 betreffende het realisatiegerichte instrumentarium (citeeropschrift: \"het Instrumentendecreet van 26 mei 2023\")",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038527/VolledigDocument?datum=2023-05-26",
-  "source_sha256": "507ebcc1dbbc01b04c51fd3bf0dfad3166af001dd3ff458fbd960073726f9715",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038527/VolledigDocument?datum=2023-07-13",
+  "source_sha256": "3dbc4bc97e6ba2b874b674646a30d76f4a64c1b0cba8d70c11f7d3297d21aea8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038527&param=informatie",
-  "as_of": "2023-05-26",
+  "as_of": "2023-07-13",
   "made": "2023-05-26",
   "gazette": "2023-07-03",
   "numac": 2023043236,
   "document_start": "2024-04-15",
   "document_end": null,
-  "in_force": "2023-05-26",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2023-05-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-07-13",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2023-07-13; future article versions excluded; article text as the API gives it"
 }
