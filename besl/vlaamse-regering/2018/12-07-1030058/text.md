@@ -453,7 +453,7 @@ In juli 2022 stort de administratie aan de voorzieningen, vermeld in artikel 16/
 <br>
 Het bedrag dat aan de voorzieningen wordt gestort, bedraagt maximaal de helft van het bedrag dat in juni 2022 aan de administratie wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
 <br>
-Het totaal van de bedragen die aan de voorzieningen worden gestort conform dit artikel en artikel 16/13, is niet hoger dan het hiervoor op basis van het vijfde en zesde Vlaamse Intersectorale Akkoord voorziene bedrag in de begroting 2022. In dit bedrag wordt ook de opbrengst van het deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf zoals bedoeld in artikel 16/12, tweede lid opgenomen.
+In dit bedrag wordt ook de opbrengst van het deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf zoals bedoeld in artikel 16/12, tweede lid opgenomen.
 
 ### ART 16/15.
 
@@ -461,13 +461,11 @@ Het totaal van de bedragen die aan de voorzieningen worden gestort conform dit a
 <br>
 Het bedrag dat aan de voorzieningen wordt gestort, wordt in mei 2023 aan de administratie meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
 <br>
-Het totaal van de bedragen die aan de voorzieningen worden gestort met toepassing van dit artikel en artikel 16/13 en 16/14, is niet hoger dan het hiervoor op basis van het vijfde en zesde Vlaamse Intersectorale Akkoord voorziene bedrag in de begroting 2022. In dit bedrag wordt ook de opbrengst van het deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf zoals bedoeld in artikel 16/12, tweede lid opgenomen.<br>
+In dit bedrag wordt ook de opbrengst van het deel M van de basistegemoetkoming voor zorg in woonzorgcentra en centra voor kortverblijf zoals bedoeld in artikel 16/12, tweede lid opgenomen.<br>
 <br>
 §2. Het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, te compenseren voor de rechten 2022, wordt in juni 2023 aan de administratie meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
 <br>
-In juni 2023 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2022, of vordert de administratie het te veel betaalde bedrag terug. Het saldo is het verschil tussen het bedrag dat door het orgaan of de instelling, conform het vorige lid, in mei 2023 aan de administratie meegedeeld wordt en het bedrag dat de administratie op basis van artikel 16/13, § 2, betaald heeft.<br>
-<br>
-Het totaal van de bedragen die aan de voorzieningen worden gestort conform deze paragraaf en artikel 16/13, § 2, is niet hoger dan het hiervoor op basis van het zesde Vlaamse Intersectorale Akkoord voorziene bedrag in de begroting 2022.
+In juni 2023 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 10°, het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2022, of vordert de administratie het te veel betaalde bedrag terug. Het saldo is het verschil tussen het bedrag dat door het orgaan of de instelling, conform het vorige lid, in mei 2023 aan de administratie meegedeeld wordt en het bedrag dat de administratie op basis van artikel 16/13, § 2, betaald heeft.
 
 ### ART 16/15/1.
 
@@ -477,9 +475,11 @@ Het bedrag dat aan de voorzieningen wordt gestort, is gelijk aan het bedrag dat 
 
 ### ART 16/15/2.
 
-In juni 2024 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 1° tot en met 9°, het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023 of vordert de administratie het te veel betaalde bedrag terug. Het saldo is het verschil tussen het bedrag dat in mei 2024 aan de administratie wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit en het bedrag dat de administratie op basis van artikel 16/15/1, betaald heeft.&nbsp;<br>
-<br>
-Het totaal van de bedragen die aan de voorzieningen worden gestort conform dit artikel en artikel 16/15/1 is niet hoger dan het bedrag dat daarvoor op basis van het vijfde en zesde Vlaams intersectoraal akkoord is vastgelegd in de begroting van 2023.
+In juni 2024 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 1° tot en met 9°, het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren, voor de rechten 2023 of vordert de administratie het te veel betaalde bedrag terug. Het saldo is het verschil tussen het bedrag dat in mei 2024 aan de administratie wordt meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit en het bedrag dat de administratie op basis van artikel 16/15/1, betaald heeft.&nbsp;
+
+### ART 16/15/3.
+
+Het totaal van de bedragen die aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 1° tot en met 9°, worden gestort conform artikel 16/13, 16/14, 16/15, 16/15/1 en 16/15/2, is niet hoger dan het totaal van de bedragen die daarvoor op basis van het vijfde en zesde Vlaams intersectoraal akkoord zijn vastgelegd in de begroting van 2022 en 2023.
 
 ### ART 16/16.
 
