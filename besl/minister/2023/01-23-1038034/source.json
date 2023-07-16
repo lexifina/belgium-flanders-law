@@ -2,16 +2,16 @@
   "codex_id": 1038034,
   "title": "Ministerieel besluit van 2023-01-23 tot goedkeuring van het compendium voor de monsterneming, meting en analyse van water (WAC) en tot wijziging van bijlage 4.2.5.2 bij het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038034/VolledigDocument?datum=2023-03-09",
-  "source_sha256": "a23eee458c7d57d80b57d8aac32ef2e8f512fd05ec0e3bc51324b05c16f02195",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038034/VolledigDocument?datum=2023-07-16",
+  "source_sha256": "5a856a70f52919b57260c06194a9189577cbbce21b377cddb778708eb8327b76",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038034&param=informatie",
-  "as_of": "2023-03-09",
+  "as_of": "2023-07-16",
   "made": "2023-01-23",
   "gazette": "2023-02-27",
   "numac": 2023015224,
   "document_start": "2023-03-09",
   "document_end": null,
-  "in_force": "2023-03-09",
+  "in_force": "2023-07-16",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2023-03-09; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-07-16; future article versions excluded; article text as the API gives it"
 }
