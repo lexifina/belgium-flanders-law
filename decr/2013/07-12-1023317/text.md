@@ -17,7 +17,7 @@ Dit decreet wordt aangehaald als : het Onroerenderfgoeddecreet van 12 juli   201
 In dit decreet wordt verstaan onder :<br>
 1° administratieve overheid : de federale overheidsbedrijven, het Vlaamse Gewest, de openbare instellingen die ervan afhangen, de publiekrechtelijke en privaatrechtelijke instellingen die belast zijn met taken van openbaar nut en de andere besturen die onderworpen zijn aan het administratief toezicht van het Vlaamse Gewest;<br>
 2° agentschap : de entiteit die door de Vlaamse Regering belast is met de beleidsvoorbereiding, de beleidsuitvoering, de beleidsmonitoring en de beleidsevaluatie inzake onroerend erfgoed;<br>
-3° algemene landschapszorg : het stimuleren van het behoud, het herstel en de ontwikkeling van cultuurhistorische, fysisch-geografische en esthetische landschapswaarden en van typische landschapskenmerken waaronder kleine landschapselementen;<br>
+3° ...;<br>
 4° archeologie : het bestuderen van overblijfselen en voorwerpen of een ander spoor van menselijk bestaan in het verleden, alsook de bestaansomgeving van de mens, waarvan het behoud en de bestudering bijdragen tot het reconstrueren van de bestaansgeschiedenis van de mensheid en haar relatie tot de natuurlijke omgeving en ten aanzien waarvan opgravingen, ontdekkingen en andere methoden van onderzoek betreffende de mensheid en haar omgeving betekenisvolle bronnen van informatie zijn;<br>
 5° archeologisch artefact : een roerend goed dat van algemeen belang is wegens de archeologische erfgoedwaarde;<br>
 6° archeologisch ensemble : het geheel van archeologische artefacten en onderzoeksdocumenten afkomstig van een archeologisch onderzoek;<br>
@@ -40,6 +40,7 @@ b) een afgifte tegen ontvangstbewijs;<br>
 c) elke andere door de Vlaamse Regering toegelaten betekeningswijze, waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
 21° code van goede praktijk : geschreven en publiek toegankelijke regels met betrekking tot de uitvoering van en de rapportering over archeologisch vooronderzoek en archeologische opgravingen en met betrekking tot het gebruik van detectoren en de bij de betrokken beroepscategorieën algemeen aanvaarde regels van goed vakmanschap;<br>
 21° /1 cultuurgoederen: roerende goederen die omwille van hun erfgoedwaarde van algemeen belang zijn, waarvan het samen voorkomen met het gebouw een bijzondere waarde heeft en die ofwel ontworpen zijn voor of vervaardigd met het beschermd goed ofwel gerelateerd zijn aan de functie van het beschermd goed en waarvoor historische verbondenheid met het beschermd goed aangetoond kan worden. Voor beschermde onroerende goederen in eigendom van privépersonen of -rechtspersonen moeten de cultuurgoederen opgenomen zijn in een beschermingsbesluit of een goedgekeurd beheersplan, of er moet voorheen voor het beheer ervan een premie verleend zijn, opdat ze als cultuurgoederen beschouwd kunnen worden;<br>
+21°/2 cultuurhistorische landschapszorg: het stimuleren van het behoud, het herstel en de ontwikkeling van cultuurhistorische, fysisch-geografische en esthetische landschapswaarden en van typische landschapskenmerken waaronder kleine landschapselementen;<br>
 22° cultuurhistorisch landschap : een begrensde grondoppervlakte met een geringe dichtheid van bebouwing en een onderlinge samenhang waarvan de verschijningsvorm en de samenhang het resultaat zijn van natuurlijke processen en van maatschappelijke ontwikkelingen van algemeen belang wegens de erfgoedwaarde;<br>
 22° /1 datum van kennisgeving: tenzij een kennisgeving is gedaan met een beveiligde zending, worden ten aanzien van de geadresseerde de termijnen die beginnen te lopen vanaf een kennisgeving berekend:<br>
 a) als de kennisgeving is gedaan met een gewone brief: vanaf de derde werkdag die volgt op de dag waarop de brief aan de postdiensten overhandigd werd, tenzij de geadresseerde het tegendeel bewijst;<br>
@@ -1224,7 +1225,7 @@ De onroerenderfgoedrichtplannen zijn de sectorale voorstellen voor   inrichtings
 3° ...<br>
 4° premies toekennen voor beheer van beschermd onroerend erfgoed en erfgoedlandschappen;<br>
 5° premies toekennen voor het beheer van onroerend erfgoed waarvoor een beheersplan is goedgekeurd overeenkomstig artikel 8.1.1;<br>
-6° premies toekennen voor maatregelen ten behoeve van de algemene landschapszorg, opgenomen in een goedgekeurd actieprogramma onroerend erfgoed;<br>
+6° premies toekennen voor maatregelen ten behoeve van de cultuurhistorische landschapszorg, opgenomen in een goedgekeurd actieprogramma onroerend erfgoed;<br>
 7° premies toekennen voor archeologisch vooronderzoek met ingreep in de bodem bij vergunningsplichtige ingrepen in de bodem;<br>
 8° premies toekennen bij een buitensporige directe kost van de verplicht uit te voeren archeologische opgraving zoals opgenomen in de archeologienota of de nota waarvan akte is genomen;<br>
 9° premies toekennen bij een buitensporige directe kost van het verplicht uit te voeren archeologisch onderzoek van menselijke inhumatieresten.</p>
