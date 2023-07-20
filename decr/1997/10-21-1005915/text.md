@@ -1284,7 +1284,7 @@ De maatregelen, vermeld in het tweede lid, kunnen alleen ambtshalve worden uitge
 
 ### ART. 54.
 
-<P>§ 1. Een regionaal landschap bevordert in hoofdzaak het streekeigen karakter,   de natuurrecreatie, het recreatief medegebruik, de natuureducatie, het draagvlak   voor natuur en het beheer in uitvoering van het decreet. Het regionaal landschap   stimuleert en coördineert ook het beheer, het herstel, de aanleg en de   ontwikkeling van kleine landschapselementen.<BR><BR>Bij het invullen van hun   taken zoeken de regionale landschappen naar optimale afstemming en synergiën met   andere actoren, in het bijzonder met de bosgroepen, vermeld in artikel 54bis van   dit decreet.<BR><BR>§ 2. Een regionaal landschap is een duurzaam   samenwerkingsverband tussen maatschappelijke en bestuurlijke actoren en heeft   het statuut van private rechtspersoonlijkheid, onder de vorm van een vereniging   zonder winstoogmerk.<BR><BR>§ 3. De provincies zijn bevoegd voor de erkenning,   subsidiëring en opvolging van de regionale landschappen.<BR><BR>§ 4. Naast   financiële middelen kunnen de provincies ook infrastructuur en personeel ter   beschikking stellen.</P>
+<p>...</p>
 
 ### ART. 54bis.
 
