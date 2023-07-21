@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038696,
+  "title": "Besluit van de Vlaamse Regering van 2023-07-14 tot vaststelling van de algemene erkennings- en subsidiëringsvoorwaarden voor Vlaamse Parken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038696/VolledigDocument?datum=2023-07-21",
+  "source_sha256": "854081712cd98250323407e38559c68fe30563e458662f48db3c7f1bf45eabb6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038696&param=informatie",
+  "as_of": "2023-07-21",
+  "made": "2023-07-14",
+  "gazette": "2023-08-18",
+  "numac": 2023044569,
+  "document_start": "2023-07-21",
+  "document_end": null,
+  "in_force": "2023-07-21",
+  "article_versions": 57,
+  "record_form": "consolidated version as in force on 2023-07-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
