@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038836,
+  "title": "Ministerieel besluit van 2023-09-06 tot verlenging van het ministerieel besluit van 17 oktober 2016 tot vaststelling van een soortenbeschermingsprogramma voor de gladde slang",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038836/VolledigDocument?datum=2023-07-22",
+  "source_sha256": "59af1f7766e39742bc226cd98b515938755a171aa654bef3f5b58dbb985192df",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038836&param=informatie",
+  "as_of": "2023-07-22",
+  "made": "2023-09-06",
+  "gazette": "2023-10-23",
+  "numac": 2023046011,
+  "document_start": "2023-07-22",
+  "document_end": null,
+  "in_force": "2023-07-22",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-07-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
