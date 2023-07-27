@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038579,
+  "title": "Ministerieel besluit van 2023-07-04 tot achtste verlenging van een situatie van overmacht inzake omgevingsvergunningen in de stad Antwerpen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038579/VolledigDocument?datum=2023-07-27",
+  "source_sha256": "ef4d69eaaa065d06ad8d3d6f2338dd4188f4708a8ffbb88bad0f8209403cac7a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038579&param=informatie",
+  "as_of": "2023-07-27",
+  "made": "2023-07-04",
+  "gazette": "2023-07-17",
+  "numac": 2023043533,
+  "document_start": "2023-07-27",
+  "document_end": null,
+  "in_force": "2023-07-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-07-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
