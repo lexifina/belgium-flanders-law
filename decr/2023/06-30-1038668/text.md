@@ -195,6 +195,24 @@ Met ingang van het begrotingsjaar 2023 wordt ieder jaar 1/7 van het bedrag bijzo
 
 ## Afdeling 16. Ondersteuning duaal leren door de regionale technologische centra (RTC’s)
 
+### ART 27.
+
+In artikel 3 van het decreet van 14 december 2007 houdende de organisatie en werking van de regionale technologische centra, vervangen bij het decreet van 8 juli 2022, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 3° wordt de zinsnede “/of” opgeheven;<br>
+2° in punt 4° worden tussen het woord “werkplekleren” en het woord “faciliteren” de woorden “inclusief duaal leren” ingevoegd.
+
+### ART 28.
+
+Aan hoofdstuk III, afdeling II, van hetzelfde decreet, gewijzigd bij de decreten van 13 mei 2011, 19 juni 2015 en 8 juli 2022, wordt een artikel 6/1 toegevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 6/1. In het kader van de beheersovereenkomst met de Vlaamse Regering en binnen de beschikbare begrotingskredieten heeft een RTC recht op specifieke werkingstoelagen ter ondersteuning van het duaal leren. De specifieke werkingstoelagen worden geïndexeerd.<br>
+<br>
+Deze specifieke werkingstoelagen worden per schooljaar per RTC bepaald zoals omschreven in artikel 6, §2, 2°. In afwijking hiervan gaat voor het schooljaar 2023-2024 de periode in op 1 oktober 2023.<br>
+<br>
+Naast het actieplan, vermeld in artikel 4, §2, eerste lid, 3°, maken de vijf RTC’s samen voor de periode 1 oktober 2023 tot 31 augustus 2024 een actieplan op met de concrete stappen ter ondersteuning van het duaal leren, inclusief een financieel plan per RTC. Het actieplan is complementair aan de activiteiten van het Vlaams Partnerschap Duaal Leren en de sectorale partnerschappen Duaal Leren. Het actieplan wordt voor advies voorgelegd aan het Vlaams Partnerschap Duaal Leren.<br>
+<br>
+De Vlaamse Regering bepaalt de rapporterings- en uitbetalingsmodaliteiten van de specifieke werkingstoelagen, vermeld in het eerste lid.”.
+
 ## Afdeling 17. Bijkomende omkadering voor de afstemming tussen school, internaat en sportfederatie voor topsportleerlingen
 
 ## Afdeling 18. Aanpassing van de nascholingsmiddelen voor de instellingen om het nascholingsplan uit te voeren in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs
