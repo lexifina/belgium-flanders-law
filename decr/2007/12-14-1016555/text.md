@@ -23,8 +23,8 @@ De werking van een RTC is erop gericht:<br>
 Een RTC neemt concrete initiatieven voor de volgende aspecten:<br>
 1° tussen onderwijsinstellingen en ondernemingen de vraag naar en het aanbod van infrastructuur, apparatuur en uitrusting voor onderwijs die een pedagogisch-didactische rol kan vervullen, door een of meer infrastructurele inbeddingen te ontwikkelen of te ondersteunen, op elkaar afstemmen; en<br>
 2° aanvullend op de nascholing in scholen professionalisering op het vlak van nieuwe technologieën en STEM faciliteren of coördineren; en<br>
-3° een platform creëren waarin onderwijsinstellingen en ondernemingen kennis en ervaring kunnen uitwisselen; en/of<br>
-4° tussen onderwijsinstellingen en ondernemingen de mogelijkheden tot werkplekleren faciliteren; en/of<br>
+3° een platform creëren waarin onderwijsinstellingen en ondernemingen kennis en ervaring kunnen uitwisselen;&nbsp;<br>
+4° tussen onderwijsinstellingen en ondernemingen de mogelijkheden tot werkplekleren inclusief duaal leren faciliteren; en/of<br>
 5° noden, behoeften en tendensen met betrekking tot materies op het snijvlak onderwijs-arbeidsmarkt signaleren aan en ontvangen van het Departement Onderwijs en Vorming.
 
 ## HOOFDSTUK III Beheersovereenkomst
@@ -85,6 +85,16 @@ b) het saldo van 20 percent wordt uitbetaald na de indiening en de goedkeuring v
 a) een voorschot van 80 percent wordt uitbetaald uiterlijk 28 februari van die periode;<br>
 b) het saldo van 20 percent wordt uitbetaald na de indiening en de goedkeuring van het werkings- en activiteitenverslag over het betrokken schooljaar en de toetsing van de realisaties aan de resultaats- en inspanningsverbintenissen, vermeld in de beheersovereenkomst en het actieplan per schooljaar, vermeld in artikel 4, § 2;<br>
 3° voor de toepassing van de bepalingen onder punt 1°, b), en 2°, b), geldt dat naast de goedkeuring van het werkings- en activiteitenverslag enkel de toetsing aan de resultaatsverbintenissen, vermeld in artikel 4, § 2, een vermindering van de uitbetaling van het saldo tot gevolg kan hebben, begrensd tot een maximum van 10 percent van de totale uit te betalen werkingstoelage. Als een resultaatsverbintenis niet wordt behaald, wordt de 10 percent a rato van het aantal behaalde resultaatsverbintenissen betaald.</p>
+
+### ART 6/1.
+
+In het kader van de beheersovereenkomst met de Vlaamse Regering en binnen de beschikbare begrotingskredieten heeft een RTC recht op specifieke werkingstoelagen ter ondersteuning van het duaal leren. De specifieke werkingstoelagen worden geïndexeerd.<br>
+<br>
+Deze specifieke werkingstoelagen worden per schooljaar per RTC bepaald zoals omschreven in artikel 6, §2, 2°. In afwijking hiervan gaat voor het schooljaar 2023-2024 de periode in op 1 oktober 2023.<br>
+<br>
+Naast het actieplan, vermeld in artikel 4, §2, eerste lid, 3°, maken de vijf RTC’s samen voor de periode 1 oktober 2023 tot 31 augustus 2024 een actieplan op met de concrete stappen ter ondersteuning van het duaal leren, inclusief een financieel plan per RTC. Het actieplan is complementair aan de activiteiten van het Vlaams Partnerschap Duaal Leren en de sectorale partnerschappen Duaal Leren. Het actieplan wordt voor advies voorgelegd aan het Vlaams Partnerschap Duaal Leren.<br>
+<br>
+De Vlaamse Regering bepaalt de rapporterings- en uitbetalingsmodaliteiten van de specifieke werkingstoelagen, vermeld in het eerste lid.
 
 ## Afdeling III Facilitair kader
 
