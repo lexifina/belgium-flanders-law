@@ -12,7 +12,7 @@ In het VEKA wordt een directieraad opgericht die de bevoegdheden inzake de recht
 ### ART. 2.
 
 De directieraad van het VEKA is samengesteld uit de volgende personen:<br>
-1° Luc Peeters, administrateur-generaal;<br>
+1° Samir Louenchi, administrateur-generaal;<br>
 2° Ann Collys;<br>
 3° Wim Buelens;<br>
 4° Tomas Velghe;<br>
