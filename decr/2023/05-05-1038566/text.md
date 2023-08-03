@@ -171,4 +171,53 @@ De inrichtende macht van de school voor buitengewoon onderwijs waar het personee
 
 ## Afdeling 10. Wijziging van het decreet tot het nemen van dringende maatregelen in het onderwijs naar aanleiding van de Oekraïnecrisis en tot wijziging van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs voor leerlingen en studenten die ressorteren onder richtlijn 2001/55/EG van de Raad van 20 juli 2001 betreffende minimumnormen voor het verlenen van tijdelijke bescherming in geval van massale toestroom van ontheemden en maatregelen ter bevordering van een evenwicht tussen de inspanning van de lidstaten voor de opvang en het dragen van de consequenties van de opvang van deze personen–(II) van 3 juni 2022
 
+### ART 189.
+
+Artikel 28 van het decreet van 3 juni 2022 tot het nemen van dringende maatregelen in het onderwijs naar aanleiding van de Oekraïnecrisis en tot wijziging van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs voor leerlingen en studenten die ressorteren onder richtlijn 2001/55/EG van de Raad van 20 juli 2001 betreffende minimumnormen voor het verlenen van tijdelijke bescherming in geval van massale toestroom van ontheemden en maatregelen ter bevordering van een evenwicht tussen de inspanning van de lidstaten voor de opvang en het dragen van de consequenties van de opvang van deze personen–(II) wordt opgeheven.
+
+### ART 190.
+
+Artikel 40 van hetzelfde decreet wordt opgeheven.
+
+### ART 191.
+
+In hetzelfde decreet wordt een nieuw hoofdstuk 12/1 ingevoegd, waarvan het opschrift luidt als volgt:<br>
+<br>
+“Hoofdstuk 12/1. Afwijkingen van het decreet van 5 mei 2023 over leersteun”.
+
+### ART 192.
+
+In hetzelfde decreet wordt in het nieuwe hoofdstuk 12/1, ingevoegd bij artikel 191, een artikel 45/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 45/1. §1. In aanvulling op artikel 42 en 43 van het decreet van 5 mei 2023 &nbsp;over leersteun wordt voor het schooljaar x-x+1 vanaf het schooljaar 2023-2024 bijkomende omkadering toegekend aan de leersteuncentra, vermeld in artikel 7, 8 en 9 van het decreet van 5 mei 2023 over leersteun, per leerling die een school voor gewoon onderwijs die aangesloten is bij het leersteuncentrum, op de eerste schooldag van oktober x meer telt dan op de teldag van de eerste schooldag van februari x, als die leerling aan de volgende voorwaarden voldoet:<br>
+1° ressorteren onder een uitvoeringsbesluit van de Raad van de Europese Unie tot vaststelling van het bestaan van een massale toestroom van ontheemden in de zin van artikel 5 van richtlijn 2001/55/EG, en tot invoering van tijdelijke bescherming naar aanleiding daarvan;<br>
+2° voor het basisonderwijs: beschikken over een GC-verslag als vermeld in artikel 16 van het decreet basisonderwijs van 25 februari 1997 of over een IAC-verslag als vermeld in artikel 15 van hetzelfde decreet, type basisaanbod, 3 en 9 als vermeld in respectievelijk artikel 10, §1, eerste lid, 1°, 3° en 8°, van hetzelfde decreet;<br>
+3° voor het secundair onderwijs: beschikken over een GC-verslag als vermeld in artikel 352 van de Codex Secundair Onderwijs van 17 december 2010 of over een IAC-verslag of OV4-verslag als vermeld in artikel 294 van dezelfde codex, type basisaanbod, 3 en 9 als vermeld in respectievelijk artikel 259, §1, 1°, 3° en 8°, van dezelfde codex.<br>
+<br>
+De bijkomende omkadering per leerling bedraagt:<br>
+1° 7,65 punten voor leerlingen met een GC-verslag of IAC-verslag type basisaanbod, 3 en 9 als vermeld in artikel 10, §1, eerste lid, 1°, 3° en 8°, van het decreet basisonderwijs van 25 februari 1997;<br>
+2° 8,2 punten voor leerlingen met een GC-verslag, IAC-verslag of OV4-verslag type basisaanbod, 3 en 9 als vermeld in artikel 259, §1, 1°, 3° en 8°, van de Codex Secundair Onderwijs van 17 december 2010.<br>
+&nbsp;<br>
+§2. In aanvulling op artikel 42 en 43 van het decreet van 5 mei 2023 over leersteun wordt voor het schooljaar x-x+1 vanaf het schooljaar 2023-2024 bijkomende omkadering toegekend aan de leersteuncentra, vermeld in artikel 7, 8 en 9 van het decreet van 5 mei 2023 over leersteun, per leerling die een school voor gewoon onderwijs die aangesloten is bij het leersteuncentrum, op de eerste schooldag van oktober x meer telt dan op de teldag van de eerste schooldag van februari x, als die leerling aan de volgende voorwaarden voldoet:<br>
+1° voor het basisonderwijs:<br>
+&nbsp; a) anderstalige nieuwkomer zijn als vermeld in artikel 3, 4°quater, van het decreet basisonderwijs van 25 februari 1997, met uitzondering van de leeftijdsvereisten, vermeld in artikel 3, 4°quater, a), van hetzelfde decreet, en niet ressorteren onder een uitvoeringsbesluit van de Raad van de Europese Unie tot vaststelling van het bestaan van een massale toestroom van ontheemden in de zin van artikel 5 van richtlijn 2001/55/ EG, en tot invoering van tijdelijke bescherming naar aanleiding daarvan;<br>
+&nbsp; b) beschikken over een GC-verslag als vermeld in artikel 16 van het decreet basisonderwijs van 25 februari 1997 of over een IAC-verslag als vermeld in artikel 15 van hetzelfde decreet, type basisaanbod, 3 en 9 als vermeld in respectievelijk artikel 10, §1, eerste lid, 1°, 3° en 8°, van hetzelfde decreet;<br>
+2° voor het secundair onderwijs:<br>
+&nbsp; a) anderstalige nieuwkomer zijn als vermeld in artikel 3, 2°/1, van dezelfde codex en niet ressorteren onder een uitvoeringsbesluit van de Raad van de Europese Unie tot vaststelling van het bestaan van een massale toestroom van ontheemden in de zin van artikel 5 van richtlijn 2001/55/ EG, en tot invoering van tijdelijke bescherming naar aanleiding daarvan;<br>
+&nbsp; b) beschikken over een GC-verslag als vermeld in artikel 352 van de Codex Secundair Onderwijs van 17 december 2010 of over een IAC-verslag of OV4-verslag als vermeld in artikel 294 van dezelfde codex, type basisaanbod, 3 en 9 als vermeld in respectievelijk artikel 259, §1, 1°, 3° en 8°, van dezelfde codex.<br>
+<br>
+De bijkomende omkadering per leerling bedraagt:<br>
+1° 7,65 punten voor leerlingen met een GC-verslag of IAC-verslag type basisaanbod, 3 en 9 als vermeld in artikel 10, §1, eerste lid, 1°, 3° en 8°, van het decreet basisonderwijs van 25 februari 1997;<br>
+2° 8,2 punten voor leerlingen met een GC-verslag, IAC-verslag of OV4-verslag type basisaanbod, 3 en 9 als vermeld in artikel 259, §1, 1°, 3° en 8°, van de Codex Secundair Onderwijs van 17 december 2010.<br>
+<br>
+§3. De bijkomende punten, berekend volgens paragraaf 1 en 2, worden over de scholen voor gewoon onderwijs heen die tot hetzelfde leersteuncentrum behoren, als volgt afgerond: als het eerste cijfer na de komma groter is dan vier, wordt er afgerond naar het hogere geheel getal en als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier, wordt er afgerond naar het lagere geheel getal.<br>
+<br>
+§4. De bijkomende punten, vermeld in paragraaf 1 tot en met 3, worden door de leersteuncentra aangewend conform de bepalingen van het decreet van 5 mei 2023 over leersteun. De betrekkingen die georganiseerd worden met de bijkomende punten komen niet in aanmerking voor vacantverklaring en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in die betrekkingen.<br>
+<br>
+§5. Voor de leerlingen, vermeld in paragraaf 1 en 2, wordt een bijkomend werkingsbudget toegekend met toepassing van artikel 51 van het decreet van 5 mei 2023 over leersteun.”.
+
+### ART 193.
+
+In hetzelfde decreet wordt in artikel 46, eerste lid, de zinsnede “Artikel 28, 40 en 45” vervangen door de zinsnede “Artikel 45 en 45/1”.
+
 ## Hoofdstuk 5. Inwerkingtreding
