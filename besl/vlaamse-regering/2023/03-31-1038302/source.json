@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038302,
+  "title": "Besluit van de Vlaamse Regering van 2023-03-31 over de uitvoering van het decreet van 3 mei 2019 houdende de havenkapiteinsdienst",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038302/VolledigDocument?datum=2023-08-05",
+  "source_sha256": "520563843edcf533c74e9bb2b40f7b44c988774a6d236952fdaf6f0f73a93569",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038302&param=informatie",
+  "as_of": "2023-08-05",
+  "made": "2023-03-31",
+  "gazette": "2023-07-26",
+  "numac": 2023031076,
+  "document_start": "2023-08-05",
+  "document_end": null,
+  "in_force": "2023-08-05",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2023-08-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
