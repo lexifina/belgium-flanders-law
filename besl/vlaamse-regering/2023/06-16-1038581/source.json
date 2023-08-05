@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038581,
+  "title": "Besluit van de Vlaamse Regering van 2023-06-16 tot wijziging van het koninklijk besluit van 22 mei 2014 betreffende het goederenvervoer over de weg en het koninklijk besluit van 22 mei 2014 betreffende het reizigersvervoer over de weg en tot opheffing van het besluit van de Vlaamse Regering van 23 december 2010 tot vaststelling van de voorwaarden voor de toegang tot het beroep van ondernemer van personenvervoer over de weg voor het geregeld vervoer en de bijzondere vormen van geregeld vervoer",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038581/VolledigDocument?datum=2023-08-05",
+  "source_sha256": "9689dc02b1c1e35ec31bf22829eb93d9afabb4ddda28e06381d499b56b75680f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038581&param=informatie",
+  "as_of": "2023-08-05",
+  "made": "2023-06-16",
+  "gazette": "2023-07-26",
+  "numac": 2023043561,
+  "document_start": "2023-08-05",
+  "document_end": null,
+  "in_force": "2023-08-05",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2023-08-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
