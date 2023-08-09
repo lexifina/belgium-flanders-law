@@ -1045,7 +1045,9 @@ De overheid bezorgt haar beslissing uiterlijk de dag van het verstrijken van de 
 
 <p>§ 3. Als de gevallen, vermeld in paragraaf 1, betrekking hebben op een gedeelte van het bouwproject, vervalt de omgevingsvergunning alleen voor het niet-afgewerkte gedeelte van een bouwproject. Een gedeelte is eerst afgewerkt als het, in voorkomend geval na de sloping van de niet-afgewerkte gedeelten, kan worden beschouwd als een afzonderlijke constructie die voldoet aan de bouwfysische vereisten.</p>
 
-<p>Als de gevallen, vermeld in paragraaf 1 of 2, alleen betrekking hebben op een gedeelte van de exploitatie van de ingedeelde inrichting of activiteit, vervalt de omgevingsvergunning alleen voor dat gedeelte.</p>
+<p>Als de gevallen, vermeld in paragraaf 1 of 2, alleen betrekking hebben op een gedeelte van de exploitatie van de ingedeelde inrichting of activiteit, vervalt de omgevingsvergunning alleen voor dat gedeelte.<br>
+<br>
+Als de gevallen, vermeld in paragraaf 1 of 2/1, alleen betrekking hebben op een gedeelte van de kleinhandelsactiviteiten, vervalt de omgevingsvergunning alleen voor dat gedeelte.</p>
 
 ### ART. 100.
 
