@@ -2,16 +2,16 @@
   "codex_id": 1027060,
   "title": "Decreet van 2016-07-15 betreffende het integraal handelsvestigingsbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027060/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "6ae69f30f7edf9b0275d06ccf9c17222f1d8dc4c40829d9c5e3bc7f58d07fdde",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027060/VolledigDocument?datum=2023-08-09",
+  "source_sha256": "742900c0eb351dfcf620477eb1bba7a34eaa0446b13097a1c9bb80cb7de667fc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027060&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2023-08-09",
   "made": "2016-07-15",
   "gazette": "2016-07-29",
   "numac": 2016036197,
   "document_start": "2016-07-29",
   "document_end": null,
-  "in_force": "2021-01-01",
+  "in_force": "2023-08-09",
   "article_versions": 57,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-08-09; future article versions excluded; article text as the API gives it"
 }

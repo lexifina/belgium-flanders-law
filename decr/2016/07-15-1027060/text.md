@@ -8,17 +8,17 @@
 
 ### ART 2.
 
-<span style="color: rgb(0, 0, 0);">Voor de toepassing van dit decreet wordt verstaan onder :</span><br>
-<span style="color: rgb(0, 0, 0);">1° bevoegde administratie : de entiteit binnen de Vlaamse administratie die door de Vlaamse Regering wordt belast met de uitvoering van de taken vermeld in dit decreet;</span><br>
-<span style="color: rgb(0, 0, 0);">2° handelsgeheel : een geheel van kleinhandelsbedrijven, ongeacht of deze zich in afzonderlijke gebouwen bevinden en of dezelfde persoon de projectontwikkelaar, de eigenaar of de uitbater is, waarbij de kleinhandelsbedrijven voldoen aan de volgende voorwaarden :</span><br>
-<span style="color: rgb(0, 0, 0);">a) ze vormen een ruimtelijk aaneengesloten geheel;</span><br>
-<span style="color: rgb(0, 0, 0);">b) ze zijn van rechtswege of feitelijk met elkaar verbonden, in het bijzonder op financieel, commercieel of ruimtelijk vlak;</span><br>
-<span style="color: rgb(0, 0, 0);">3° kernwinkelgebied : een gebied afgebakend in een gemeentelijke stedenbouwkundige verordening of een gemeentelijk ruimtelijk uitvoeringsplan waar via stedenbouwkundige voorschriften een stimulerend beleid inzake kleinhandel wordt gevoerd;</span><br>
-<span style="color: rgb(0, 0, 0);">4° kleinhandelsbedrijf : een distributie-eenheid waarvan de activiteit bestaat uit het te koop aanbieden of wederverkopen van goederen aan consumenten, zonder die goederen andere behandelingen te laten ondergaan dan de behandelingen die in de handel gebruikelijk zijn;</span><br>
-<span style="color: rgb(0, 0, 0);">5° kleinhandelslint : een opeenvolging van minstens drie kleinhandelsbedrijven langs een invals- of verbindingsweg zonder gemeenschappelijke parking of gemeenschappelijke in- en uitrit;</span><br>
-<span style="color: rgb(0, 0, 0);">6° kleinhandelszone : een specifiek door een plan van aanleg of een ruimtelijk uitvoeringsplan afgebakend gebied voor de vestiging van kleinhandelsbedrijven en handelsgehelen;</span><br>
-<span style="color: rgb(0, 0, 0);">7° netto handelsoppervlakte : de oppervlakte, bestemd voor het te koop aanbieden of de verkoop die toegankelijk is voor het publiek, met inbegrip van de niet-overdekte oppervlakten. Die oppervlakte omvat eveneens de kassazones, de zones die zich achter de kassa's bevinden en de inkomruimte;</span><br>
-<span style="color: rgb(0, 0, 0);">8° winkelarm gebied : een gebied afgebakend in een provinciale of gemeentelijke stedenbouwkundige verordening of een provinciaal of gemeentelijk ruimtelijk uitvoeringsplan waar via stedenbouwkundige voorschriften beperkingen aan de kleinhandel worden opgelegd.</span><br>
+Voor de toepassing van dit decreet wordt verstaan onder :<br>
+1° bevoegde administratie : de entiteit binnen de Vlaamse administratie die door de Vlaamse Regering wordt belast met de uitvoering van de taken vermeld in dit decreet;<br>
+2° handelsgeheel: een geheel van kleinhandelsbedrijven binnen eenzelfde gebouw of in aaneengesloten bebouwing waarvoor de omgevingsvergunning voor stedenbouwkundige handelingen samen verkregen werd, ongeacht of:<br>
+a)&nbsp;&nbsp; &nbsp;de kleinhandelsbedrijven zich op één perceel of op elkaar aansluitende percelen bevinden;<br>
+b)&nbsp;&nbsp; &nbsp;dezelfde persoon de ontwikkelaar, eigenaar of uitbater van de kleinhandelsbedrijven is;<br>
+3° kernwinkelgebied : een gebied afgebakend in een gemeentelijke stedenbouwkundige verordening of een gemeentelijk ruimtelijk uitvoeringsplan waar via stedenbouwkundige voorschriften een stimulerend beleid inzake kleinhandel wordt gevoerd;<br>
+4° kleinhandelsbedrijf : een distributie-eenheid waarvan de activiteit volledig of gedeeltelijk bestaat uit het te koop aanbieden of wederverkopen van goederen aan consumenten;<br>
+5° kleinhandelslint : een opeenvolging van minstens drie kleinhandelsbedrijven langs een invals- of verbindingsweg zonder gemeenschappelijke parking of gemeenschappelijke in- en uitrit;<br>
+6° kleinhandelszone : een specifiek door een plan van aanleg of een ruimtelijk uitvoeringsplan afgebakend gebied voor de vestiging van kleinhandelsbedrijven en handelsgehelen;<br>
+7° netto handelsoppervlakte : de oppervlakte, bestemd voor het te koop aanbieden of de verkoop die toegankelijk is voor het publiek, met inbegrip van de niet-overdekte oppervlakten. Die oppervlakte omvat eveneens de kassazones, de zones die zich achter de kassa's bevinden en de inkomruimte;<br>
+8° winkelarm gebied : een gebied afgebakend in een provinciale of gemeentelijke stedenbouwkundige verordening of een provinciaal of gemeentelijk ruimtelijk uitvoeringsplan waar via stedenbouwkundige voorschriften beperkingen aan de kleinhandel worden opgelegd.<br>
 &nbsp;
 
 ### ART 3.
@@ -68,12 +68,14 @@
 
 ### ART 8.
 
-<span style="color: rgb(0, 0, 0);">Het Comité voor Kleinhandel bestaat uit :</span><br>
-<span style="color: rgb(0, 0, 0);">1° vier vertegenwoordigers van de Vlaamse administratie, waaronder een vertegenwoordiger van de bevoegde administratie die de vergaderingen voorzit;</span><br>
-<span style="color: rgb(0, 0, 0);">2° een vertegenwoordiger van representatieve verbruikersorganisaties;</span><br>
-<span style="color: rgb(0, 0, 0);">3° vier vertegenwoordigers van representatieve werkgevers- en werknemersorganisaties.</span><br>
+Het Comité voor Kleinhandel bestaat uit :<br>
+1° vier vertegenwoordigers van de Vlaamse administratie, waaronder een vertegenwoordiger van de bevoegde administratie die de vergaderingen voorzit;<br>
+2° een vertegenwoordiger van representatieve verbruikersorganisaties;<br>
+3° vier vertegenwoordigers van representatieve werkgevers- en werknemersorganisaties.<br>
 <br>
-<span style="color: rgb(0, 0, 0);">De Vlaamse Regering bepaalt de nadere regelen omtrent de samenstelling en de werking van het Comité voor Kleinhandel.</span><br>
+De vertegenwoordigers, vermeld in het eerste lid, 2° en 3°, hebben binnen de organisatie een algemene functie of zijn actief op interprofessioneel vlak of voor het hele Vlaamse Gewest.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regelen omtrent de samenstelling en de werking van het Comité voor Kleinhandel.<br>
 &nbsp;
 
 ### ART 9.
@@ -176,23 +178,27 @@
 
 ### ART 15.
 
-<span style="color: rgb(0, 0, 0);">§ 1. De Vlaamse Regering wijst onder de personeelsleden van het departement en de agentschappen die behoren tot de een van de beleidsdomeinen, vermeld in artikel III.1, eerste lid, van het Bestuursdecreet van 7 december 2018, toezichthouders aan die toezien op de naleving van de vergunningsplicht voor kleinhandelsactiviteiten en van de voorwaarden van de verstrekte omgevingsvergunningen voor kleinhandelsactiviteiten. Zij worden gewestelijke toezichthouders genoemd.</span><br>
+§ 1. De Vlaamse Regering wijst onder de personeelsleden van het departement en de agentschappen die behoren tot de een van de beleidsdomeinen, vermeld in artikel III.1, eerste lid, van het Bestuursdecreet van 7 december 2018, toezichthouders aan die toezien op de naleving van de vergunningsplicht voor kleinhandelsactiviteiten en van de voorwaarden van de verstrekte omgevingsvergunningen voor kleinhandelsactiviteiten. Zij worden gewestelijke toezichthouders genoemd.<br>
 <br>
-<span style="color: rgb(0, 0, 0);">Personeelsleden van een politiezone die worden aangewezen door het bevoegde orgaan, kunnen eveneens toezichthouder zijn. Zij worden toezichthouders van politiezones genoemd. Zij kunnen enkel toezicht uitoefenen in de gemeenten die behoren tot de politiezone.</span><br>
+Personeelsleden van een politiezone die worden aangewezen door het bevoegde orgaan, kunnen eveneens toezichthouder zijn. Zij worden toezichthouders van politiezones genoemd. Zij kunnen enkel toezicht uitoefenen in de gemeenten die behoren tot de politiezone.<br>
 <br>
-<span style="color: rgb(0, 0, 0);">De toezichthouders oefenen het toezicht onafhankelijk en neutraal uit.</span><br>
+De volgende toezichthouders kunnen alleen toezicht uitoefenen op het grondgebied van de gemeente of gemeenten waarvoor ze zijn aangewezen:<br>
+1° gemeentelijke toezichthouders: de personeelsleden van een gemeente die door het college van burgemeester en schepenen worden aangewezen;<br>
+2° intergemeentelijke toezichthouders: de personeelsleden die door het bevoegde orgaan van een intergemeentelijk samenwerkingsverband worden aangewezen.<br>
 <br>
-<span style="color: rgb(0, 0, 0);">Bij de uitoefening van zijn taak draagt een toezichthouder een legitimatiebewijs bij zich, dat is uitgegeven door de Vlaamse Regering. Als hij daarom wordt verzocht, toont de toezichthouder zijn legitimatiebewijs onmiddellijk.</span><br>
+De toezichthouders oefenen het toezicht onafhankelijk en neutraal uit.<br>
 <br>
-<span style="color: rgb(0, 0, 0);">§ 2. Bij de vaststelling van een inbreuk omschreven in dit hoofdstuk kunnen de toezichthouders een verslag van vaststelling opstellen.</span><br>
+Bij de uitoefening van zijn taak draagt een toezichthouder een legitimatiebewijs bij zich, dat is uitgegeven door de Vlaamse Regering. Als hij daarom wordt verzocht, toont de toezichthouder zijn legitimatiebewijs onmiddellijk.<br>
 <br>
-<span style="color: rgb(0, 0, 0);">De toezichthouders bezorgen het verslag van vaststelling onmiddellijk aan de ambtenaar vermeld in artikel 19, eerste lid, alsook verzenden zij een kopie aan de vermoedelijke overtreder binnen een maand.</span><br>
+§ 2. Bij de vaststelling van een inbreuk omschreven in dit hoofdstuk kunnen de toezichthouders een verslag van vaststelling opstellen.<br>
 <br>
-<span style="color: rgb(0, 0, 0);">De Vlaamse Regering kan nadere regels bepalen voor het verslag van vaststelling.</span><br>
+De toezichthouders bezorgen het verslag van vaststelling onmiddellijk aan de ambtenaar vermeld in artikel 19, eerste lid, alsook verzenden zij een kopie aan de vermoedelijke overtreder binnen een maand.<br>
 <br>
-<span style="color: rgb(0, 0, 0);">§ 3. De toezichthouders beschikken over de toezichtrechten vermeld in de artikelen 16.3.10 tot en met 16.3.21 van het decreet van 5 april 1995 houdende algemene bepalingen milieubeleid.</span><br>
+De Vlaamse Regering kan nadere regels bepalen voor het verslag van vaststelling.<br>
 <br>
-<span style="color: rgb(0, 0, 0);">§ 4. Al de toezichthouders kunnen raadgevingen en aanmaningen geven conform de bepalingen van afdeling 2 en de gewestelijke toezichthouders kunnen conform de bepalingen van afdeling 4 bestuurlijke maatregelen opleggen.<br>
+§ 3. De toezichthouders beschikken over de toezichtrechten vermeld in de artikelen 16.3.10 tot en met 16.3.21 van het decreet van 5 april 1995 houdende algemene bepalingen milieubeleid.<br>
+<br>
+§ 4. Al de toezichthouders kunnen raadgevingen en aanmaningen geven conform de bepalingen van afdeling 2 en de gewestelijke toezichthouders kunnen conform de bepalingen van afdeling 4 bestuurlijke maatregelen opleggen.<br>
 <br>
 § 5. Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) kunnen de personeelsleden, vermeld in paragraaf 1, beslissen om de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerkingen van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan is aan de voorwaarden, vermeld in het tweede tot en met het tiende lid.<br>
 <br>
@@ -212,7 +218,7 @@ De bevoegde functionaris voor gegevensbescherming noteert de feitelijke of jurid
 <br>
 Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval, conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
 <br>
-Als een dossier dat persoonsgegevens als vermeld in het eerste lid, bevat, naar het Openbaar Ministerie is gestuurd en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mag de bevoegde functionaris voor gegevensbescherming op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval, de onderzoeksrechter heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.</span>
+Als een dossier dat persoonsgegevens als vermeld in het eerste lid, bevat, naar het Openbaar Ministerie is gestuurd en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mag de bevoegde functionaris voor gegevensbescherming op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval, de onderzoeksrechter heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.
 
 ## Afdeling 2 Raadgeving en aanmaning
 
