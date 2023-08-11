@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038652,
+  "title": "Decreet van 2023-06-23 tot bescherming van klokkenluiders in het onderwijs in de Vlaamse Gemeenschap",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038652/VolledigDocument?datum=2023-08-11",
+  "source_sha256": "5ba1a0ba41af7230309220d4164aee2fe77db9f20e0fbae899af2140d9d6833b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038652&param=informatie",
+  "as_of": "2023-08-11",
+  "made": "2023-06-23",
+  "gazette": "2023-08-10",
+  "numac": 2023044075,
+  "document_start": "2023-08-11",
+  "document_end": null,
+  "in_force": "2023-08-11",
+  "article_versions": 51,
+  "record_form": "consolidated version as in force on 2023-08-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
