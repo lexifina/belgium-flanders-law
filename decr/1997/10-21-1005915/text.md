@@ -1083,6 +1083,10 @@ Met inachtneming van die evaluatie wordt aansluitend een nieuw programma vastges
 <br>
 Indien het nieuwe definitief vastgestelde programma een of meer wijzigingen noodzaakt van een in uitvoering van het vorige programma vastgestelde programmatische aanpak als vermeld in artikel 50ter, § 4, dan wordt die programmatische aanpak opnieuw vastgesteld volgens de regels bepaald in artikel 50ter tot en met 50sexies. De bestaande programmatische aanpak blijft in ieder geval van kracht tot de bijgestelde programmatische aanpak definitief is vastgesteld.<br>
 <br>
+§4/1. Een definitief vastgestelde programmatische aanpak als vermeld in artikel 50decies/1, §6, tweede lid, kan ook om andere redenen dan deze vermeld in paragraaf 4, derde lid, op één of meer onderdelen gewijzigd worden voor zover de doelstelling van de programmatische aanpak, vermeld in artikel 50ter, §4, eerste lid, in acht wordt genomen. Als de wijziging betrekking heeft op de gebiedsgerichte analyse, vermeld in artikel 50ter, §4, tweede lid, 1°, worden ook de andere onder- delen gewijzigd in zoverre deze, gelet op de doelstelling van de programmatische aanpak, niet meer bestaanbaar zouden zijn met de gewijzigde gebiedsgerichte analyse.<br>
+<br>
+De bepalingen van artikel 50ter tot en met 50sexies met betrekking tot een programmatische aanpak zijn van overeenkomstige toepassing op een wijziging van een programmatische aanpak. De bestaande programmatische aanpak blijft in ieder geval van kracht tot de gewijzigde programmatische aanpak definitief is vastgesteld, conform artikel 50decies/1, §6, tweede lid.<br>
+<br>
 § 5. Ten minste om de twee jaar wordt een voortgangsrapport Vlaams Natura 2000-programma opgesteld. De instantie, vermeld in artikel 50quinquies, is belast met de opmaak van het voortgangsrapport.<br>
 <br>
 Het voortgangsrapport wordt bezorgd aan de door de Vlaamse Regering aangewezen instanties.
@@ -1211,6 +1215,8 @@ De opmerkingen en bezwaren kunnen alleen betrekking hebben op de volgende aspect
 2° bij een openbaar onderzoek met betrekking tot de voorlopig vastgestelde programmatische aanpak: de onderdelen als vermeld in artikel 50ter, § 4, tweede lid;<br>
 3° bij een openbaar onderzoek met betrekking tot het voorlopig vastgestelde managementplan Natura 2000 of, in voorkomend geval, elke voorlopig vastgestelde planversie: de onderdelen als vermeld in artikel 50septies, § 3 en § 4.<br>
 <br>
+Bij een openbaar onderzoek met betrekking tot een wijziging van een programmatische aanpak als vermeld in artikel 50quater, §4, derde lid, of §4/1, kunnen de opmerkingen en bezwaren alleen betrekking hebben op de wijziging.<br>
+<br>
 § 5. Het agentschap bundelt en coördineert alle opmerkingen en bezwaren met betrekking tot het Vlaams Natura 2000-programma, de managementplannen Natura 2000, de programmatische aanpakken en de managementplannen als vermeld in artikel 48, § 1, en maakt die binnen zestig dagen na het einde van het openbaar onderzoek over aan de gewestelijke overleginstantie, vermeld in artikel 50quinquies.<br>
 <br>
 De gewestelijke overleginstantie brengt binnen zestig dagen nadat zij de gebundelde opmerkingen en bezwaren heeft ontvangen een gemotiveerd advies uit over het Vlaams Natura 2000-programma, de managementplannen Natura 2000, de programmatische aanpakken en de managementplannen als vermeld in artikel 48, § 1, bij de Vlaamse Regering of desgevallend bij de gemachtigde.<br>
@@ -1227,7 +1233,7 @@ De definitief vastgestelde programmatische aanpak of het definitief vastgestelde
 <br>
 In deze gevallen geldt de voorlopige vaststelling van het plan, het programma of de programmatische aanpak als de definitieve vaststelling.<br>
 <br>
-In voorkomend geval is de inhoud van paragraaf 7 van overeenkomstige toepassing.
+In voorkomend geval is de inhoud van paragraaf 4, derde lid, en van paragraaf 7 van overeenkomstige toepassing.
 
 ## [Sectie 4 Monitoringprogramma's (ing. decr. 9 mei 2014, art. 49, I: 17 juli 2014)]
 
