@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038627,
+  "title": "Decreet van 2023-07-07 tot wijziging van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, wat de aanpassing van een programmatische aanpak betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038627/VolledigDocument?datum=2023-08-14",
+  "source_sha256": "8fa3c184b817027a4eef82592fee86a5165e988ba06b293b08615f67cf7af607",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038627&param=informatie",
+  "as_of": "2023-08-14",
+  "made": "2023-07-07",
+  "gazette": "2023-08-04",
+  "numac": 2023043881,
+  "document_start": "2023-08-14",
+  "document_end": null,
+  "in_force": "2023-08-14",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-08-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
