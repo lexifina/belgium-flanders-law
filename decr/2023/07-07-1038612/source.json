@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038612,
+  "title": "Decreet van 2023-07-07 tot instemming met het verdrag inzake de Internationale Organisatie voor Maritieme Navigatie Ondersteunende Dienstverlening en de bijlage, gedaan te Parijs op 27 januari 2021",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038612/VolledigDocument?datum=2023-08-14",
+  "source_sha256": "0a56b3608f9a13a4b5db6ee0a23e751206980abe0717bb8b86597d5d4a73e7ef",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038612&param=informatie",
+  "as_of": "2023-08-14",
+  "made": "2023-07-07",
+  "gazette": "2023-08-04",
+  "numac": 2023043724,
+  "document_start": "2023-08-14",
+  "document_end": null,
+  "in_force": "2023-08-14",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2023-08-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
