@@ -27,50 +27,55 @@ De persoon die houder is van een van de volgende diploma's of van gelijkwaardige
 6° bachelor in de toegepaste architectuur;<br>
 7° bachelor in de architectuur;<br>
 8° bachelor in de archeologie;<br>
-9° bachelor in de bio-ingenieurswetenschappen: land- en bosbeheer;<br>
-10° bachelor in de conservatie - restauratie;<br>
-11° bachelor in de geografie;<br>
-12° bachelor in de geologie;<br>
-13° bachelor in de industriële wetenschappen: bouwkunde;<br>
-14° bachelor in de ingenieurswetenschappen: architectuur;<br>
-15° bachelor in de ingenieurswetenschappen: bouwkunde;<br>
-16° bachelor in de interieurarchitectuur;<br>
-17° bachelor in de kunstwetenschappen;<br>
-18° bachelor in de kunstwetenschappen en archeologie;<br>
-19° bachelor in de landschapsontwikkeling;<br>
-20° licentiaat in de kunstgeschiedenis en oudheidkunde met specialisatie in de archeologie;<br>
-21° master in de archeologie;<br>
-22° master in architectural engineering;<br>
-23° master in architecture;<br>
-24° master in de architectuur;<br>
-25° master in de bio-ingenieurswetenschappen: bos- en natuurbeheer;<br>
-26° master in de bio-ingenieurswetenschappen: land- en waterbeheer;<br>
-27° master in de bio-ingenieurswetenschappen: landbeheer;<br>
-28° master in de conservatie - restauratie;<br>
-29° master in de erfgoedstudies;<br>
-30° master in de geografie;<br>
-31° master in geography;<br>
-32° master in de geologie;<br>
-33° master in geology;<br>
-34° master in de geschiedenis met een specialisatie in de oudste tijden;<br>
-35° master in de industriële wetenschappen: bouwkunde;<br>
-36° master in de ingenieurswetenschappen: architectuur;<br>
-37° master in de ingenieurswetenschappen architectuur: architectuurontwerp en bouwtechniek;<br>
-38° master in de ingenieurswetenschappen architectuur: stadsontwerp en architectuur;<br>
-39° master in de ingenieurswetenschappen: bouwkunde;<br>
-40° master in de interieurarchitectuur;<br>
-41° master in interior architecture;<br>
-42° master in de kunstwetenschappen;<br>
-43° master in de kunstwetenschappen en archeologie;<br>
-44° postgraduaat in renovatietechnieken en monumentenzorg;<br>
-45° een diploma of getuigschrift dat bij of krachtens een wet, decreet, Europese verordening of internationale overeenkomst als gelijkwaardig met een van de diploma's, vermeld in punt 1° tot en met 44°, is erkend, wat gestaafd kan worden met een gelijkwaardigheidserkenning van een buitenlands diploma of getuigschrift in Vlaanderen;<br>
-46° een diploma als vermeld in punt 1° tot en met 44°, van een opleiding waarvan de naam wijzigt of gewijzigd is.
+9° bachelor in de geschiedenis;<br>
+10° bachelor in de bio-ingenieurswetenschappen: land- en bosbeheer;<br>
+11° bachelor in de conservatie - restauratie;<br>
+12° bachelor in de geografie;<br>
+13° bachelor in de geologie;<br>
+14° bachelor in de industriële wetenschappen: bouwkunde;<br>
+15° bachelor in de ingenieurswetenschappen: architectuur;<br>
+16° bachelor in de ingenieurswetenschappen: bouwkunde;<br>
+17° bachelor in de interieurarchitectuur;<br>
+18° bachelor in de kunstwetenschappen;<br>
+19° bachelor in de kunstwetenschappen en archeologie;<br>
+20° bachelor in de landschapsontwikkeling;<br>
+21° licentiaat in de kunstgeschiedenis en oudheidkunde;<br>
+22° master in de archeologie;<br>
+23° master in architectural engineering;<br>
+24° master in architecture;<br>
+25° master in de architectuur;<br>
+26° master in de bio-ingenieurswetenschappen: bos- en natuurbeheer;<br>
+27° master in de bio-ingenieurswetenschappen: land- en waterbeheer;<br>
+28° master in de bio-ingenieurswetenschappen: landbeheer;<br>
+29° master in de bio-ingenieurswetenschappen: land, water en klimaat;<br>
+30° master in de conservatie - restauratie;<br>
+31° master of conservation of monuments and sites;<br>
+32° master in de erfgoedstudies;<br>
+33° master monumenten- en landschapszorg;<br>
+34° master in de geografie;<br>
+35° master in geography;<br>
+36° master in de geologie;<br>
+37° master in geology;<br>
+38° master in de geschiedenis;<br>
+39° master in de geschiedenis van de oudheid;<br>
+40° master in de industriële wetenschappen: bouwkunde;<br>
+41° master in de ingenieurswetenschappen: architectuur;<br>
+42° master in de ingenieurswetenschappen architectuur: architectuurontwerp en bouwtechniek;<br>
+43° master in de ingenieurswetenschappen architectuur: stadsontwerp en architectuur;<br>
+44° master in de ingenieurswetenschappen: bouwkunde;<br>
+45° master in de interieurarchitectuur;<br>
+46° master in interior architecture;<br>
+47° master in de kunstwetenschappen;<br>
+48° master in de kunstwetenschappen en archeologie;<br>
+49° postgraduaat in renovatietechnieken en monumentenzorg;<br>
+50° een diploma of getuigschrift dat bij of krachtens een wet, decreet, Europese verordening of internationale overeenkomst als gelijkwaardig met een van de diploma's, vermeld in punt 1° tot en met 49°, is erkend, wat gestaafd kan worden met een gelijkwaardigheidserkenning van een buitenlands diploma of getuigschrift in Vlaanderen;<br>
+51° een diploma als vermeld in punt 1° tot en met 49°, van een opleiding waarvan de naam wijzigt of gewijzigd is.
 
 ### ART 2.
 
 De personen die niet voldoen aan de voorwaarde, vermeld in artikel 1, komen toch in aanmerking om het bekwaamheidsbewijs voor gemeentelijke verbalisant te verkrijgen als ze voldoen aan al de volgende voorwaarden:<br>
-1° houder zijn van een diploma dat toegang geeft tot niveau A, B of C, of geslaagd zijn voor een overgangsexamen dat toegang geeft tot een van die niveaus;<br>
-2° op de datum van de inschrijving voor de opleiding, vermeld in artikel 4, minstens vijf jaar bij een gewestelijke, provinciale, intergemeentelijke of gemeentelijke administratie werken en relevante ervaring hebben in onroerend erfgoed of ruimtelijke ordening.
+1° houder zijn van een diploma dat toegang geeft tot niveau A of B, of geslaagd zijn voor een overgangsexamen dat toegang geeft tot een van die niveaus;<br>
+2° op de datum van de inschrijving voor de opleiding, vermeld in artikel 4, minstens drie jaar relevante ervaring hebben in onroerend erfgoed of ruimtelijke ordening bij een gewestelijke, provinciale, intergemeentelijke of gemeentelijke administratie.
 
 ### ART 3.
 
@@ -78,16 +83,14 @@ De personen die niet voldoen aan de voorwaarde, vermeld in artikel 1, komen toch
 
 ### ART 3.
 
-De personen die niet voldoen aan de voorwaarde, vermeld in artikel 1, komen toch in aanmerking om het bekwaamheidsbewijs voor gemeentelijke verbalisant te verkrijgen als ze voldoen aan al de volgende voorwaarden:<br>
-1° houder zijn van een diploma dat toegang geeft tot niveau A of B, of geslaagd zijn voor een overgangsexamen dat toegang geeft tot een van die niveaus;<br>
-2° op de datum van de inschrijving voor de opleiding, vermeld in artikel 4, minstens een jaar bij een erkende onroerenderfgoedgemeente werken en relevante ervaring hebben in onroerend erfgoed of ruimtelijke ordening.
+...
 
 ### ART 4.
 
-Om het bekwaamheidsbewijs te verkrijgen, volgen de personen die voldoen aan de opleidings- of ervaringsvereisten, vermeld in artikel 1 tot en met 3, een opleiding die wordt georganiseerd door het Vlaamse Gewest. De opleiding bestaat uit een theoretisch en een praktisch gedeelte. Na afloop ontvangen ze een bekwaamheidsbewijs voor gemeentelijke verbalisant.
+Om het bekwaamheidsbewijs te verkrijgen, volgen de personen die voldoen aan de opleidings- of ervaringsvereisten, vermeld in artikel 1 en 2, een opleiding die wordt georganiseerd door het Vlaamse Gewest. Na afloop ontvangen ze een bekwaamheidsbewijs voor gemeentelijke verbalisant.
 
 ### ART 5.
 
 De personen die de opleiding, vermeld in artikel 4, niet gevolgd hebben, komen toch in aanmerking om een bekwaamheidsbewijs te verkrijgen als ze voldoen aan al de volgende voorwaarden:<br>
-1° houder zijn van een diploma dat toegang geeft tot niveau A, B of C, of geslaagd zijn voor een overgangsexamen dat toegang geeft tot een van die niveaus;<br>
+1° houder zijn van een diploma dat toegang geeft tot niveau A of B, of geslaagd zijn voor een overgangsexamen dat toegang geeft tot een van die niveaus;<br>
 2° minstens twee jaar bij de gewestelijke administratie, bevoegd voor de handhaving van onroerend erfgoed, gewerkt hebben met als hoofdtaak handhaving onroerend erfgoed.

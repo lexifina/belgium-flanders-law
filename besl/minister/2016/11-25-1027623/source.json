@@ -2,16 +2,16 @@
   "codex_id": 1027623,
   "title": "Ministerieel besluit van 2016-11-25 tot vaststelling van de opleidings- of ervaringsvereisten voor het bekwaamheidsbewijs voor gemeentelijke verbalisanten voor onroerend erfgoed",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027623/VolledigDocument?datum=2016-12-19",
-  "source_sha256": "8de017903a4b4344f526dbfeb2365a5116019f497b2531f5058cdb1cd50fd799",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027623/VolledigDocument?datum=2023-08-16",
+  "source_sha256": "8f93c92e7a94ffb18685acb9514a814e8883b071675caabdd9ef51a2e69be339",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027623&param=informatie",
-  "as_of": "2016-12-19",
+  "as_of": "2023-08-16",
   "made": "2016-11-25",
   "gazette": "2016-12-09",
   "numac": 2016036615,
   "document_start": "2016-12-19",
   "document_end": null,
-  "in_force": "2016-12-19",
+  "in_force": "2023-08-16",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2016-12-19; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-08-16; future article versions excluded; article text as the API gives it"
 }
