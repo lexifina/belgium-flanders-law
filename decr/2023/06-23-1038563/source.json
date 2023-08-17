@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038563,
+  "title": "Decreet van 2023-06-23 over het gecoördineerd Vlaams vrijwilligersbeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038563/VolledigDocument?datum=2023-08-17",
+  "source_sha256": "01c6d830d7e552250abf0531219044fd906c927cf9418a7583b34f129bf49375",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038563&param=informatie",
+  "as_of": "2023-08-17",
+  "made": "2023-06-23",
+  "gazette": "2023-08-07",
+  "numac": 2023043424,
+  "document_start": "2023-08-17",
+  "document_end": null,
+  "in_force": "2023-08-17",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2023-08-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
