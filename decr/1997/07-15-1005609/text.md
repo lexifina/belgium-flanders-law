@@ -18,7 +18,8 @@ In dit decreet wordt verstaan onder:<br>
 a) de gemeenschapsinstellingen als bedoeld in artikel 40 van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
 b) de afdeling van een voorziening die de typemodule beveiligend verblijf aanbiedt waarvoor de voorziening erkend is overeenkomstig artikel 15 van het besluit van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp;<br>
 c) ...;<br>
-d) de Vlaamse detentiecentra als bedoeld in artikel 41 van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht.
+d) de Vlaamse detentiecentra als bedoeld in artikel 41 van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
+e) het aanbod voor ondersteuning van jongeren in de typemodule diagnostiek of de typemodule GES+ in de multifunctionele centra, vermeld in artikel 1, 6°, van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap.
 
 ## [HOOFDSTUK 2. Het Kinderrechtencommissariaat (ing. decr. 3 februari 2017, art. 5, I: 1 maart 2017)]
 
@@ -162,7 +163,7 @@ Bij het Kinderrechtencommissariaat wordt een Commissie van Toezicht voor jeugdin
 6° aanbevelingen formuleren met het oog op een verbetering van de bejegening van kinderen en jongeren in voorzieningen voor vrijheidsbenemende opvang van kinderen en jongeren;<br>
 7° jaarlijks verslag uitbrengen aan het Vlaams Parlement over de uitgevoerde opdrachten.<br>
 <br>
-§ 2. Het toezicht als bedoeld in paragraaf 1, 1°, wordt ter plaatse uitgeoefend door een persoon die de voorziening voor vrijheidsbenemende opvang van kinderen en jongeren minstens maandelijks onaangekondigd bezoekt, hierna maandcommissaris te noemen.<br>
+§2. Het toezicht, vermeld in paragraaf 1, 1°, wordt ter plaatse uitgeoefend door een persoon die de voorziening voor vrijheidsbenemende opvang van kinderen en jongeren minstens maandelijks bezoekt, hierna de maandcommissaris te noemen. Maandcommissarissen bezoeken een voorziening bij voorkeur onaangekondigd, maar ze kunnen hun bezoek ook vooraf aankondigen.<br>
 <br>
 § 3. Een grief kan mondeling, schriftelijk of digitaal geuit worden ten aanzien van de maandcommissaris. Een voorziening voor vrijheidsbenemende opvang van kinderen en jongeren stelt een vlot bereikbare en gesloten bus ter beschikking van de kinderen en jongeren die geopend wordt door de maandcommissaris.<br>
 <br>
@@ -250,7 +251,7 @@ Ten hoogste twee derde van de maandcommissarissen mag van hetzelfde geslacht zij
 § 2. De functie van maandcommissaris van de Commissie van toezicht is onverenigbaar met:<br>
 1° werkzaam zijn in een jeugdhulpvoorziening als bedoeld in artikel 2, § 1, 13°, van het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp en binnen het kader van het decreet betreffende het jeugddelinquentierecht;<br>
 2° de uitoefening van een bij verkiezing verleend openbaar mandaat;<br>
-3° een functie in overheidsdienst, behalve als leerkracht;<br>
+3° een functie in een overheidsdienst, ongeacht het bevoegdheidsniveau, waarvan de werkzaamheden betrekking hebben op de welzijnssector, de gezondheidszorg of justitie;<br>
 4° het ambt als magistraat van de rechterlijke orde die niet in rust gesteld is en die na de inruststelling niet het ambt van plaatsvervangend magistraat uitoefent als bedoeld in artikel 383 van het Gerechtelijk Wetboek;<br>
 5° het ambt van ambtenaar bij het Openbaar Ministerie bij de hoven en rechtbanken als bedoeld in artikel 154 van de Grondwet;<br>
 6° enige andere functie vervullen of activiteit uitvoeren waardoor de waardigheid van het mandaat van maandcommissaris of de Commissie van toezicht in opspraak kan worden gebracht.<br>
