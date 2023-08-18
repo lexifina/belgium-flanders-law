@@ -175,7 +175,11 @@ In afwijking van het tweede lid mogen deze&nbsp;dossiers analoog of digitaal wor
 <br>
 Als de bevoegde overheid vaststelt dat bepaalde stukken van een analoog ingediende aanvraag, verzoek, melding of administratief beroep digitaal zijn opgesteld, dan kan zij de aanvrager, verzoeker, melder of beroepsindiener verzoeken deze stukken digitaal te bezorgen. Dezen gaan onverwijld op een dergelijk verzoek in.<br>
 <br>
-De Vlaamse Regering kan de lijst, opgenomen in het tweede lid, wijzigen. Zij kan ook nadere regels uitwerken in geval van onbeschikbaarheid wegens technische storingen van het door Vlaanderen ter beschikking gestelde digitaal systeem, en hierbij de termijnen van de procedures, vermeld in dit decreet, opschorten of verlengen voor de duur van de technische storingen..
+De Vlaamse Regering kan de lijst, opgenomen in het tweede lid, wijzigen. Zij kan ook nadere regels uitwerken in geval van onbeschikbaarheid wegens technische storingen van het door Vlaanderen ter beschikking gestelde digitaal systeem, en hierbij de termijnen van de procedures, vermeld in dit decreet, opschorten of verlengen voor de duur van de technische storingen.<br>
+<br>
+De Vlaamse Regering kan nadere regels uitwerken in geval van onbeschikbaarheid wegens technische storingen van het interne digitale dossierbehandelingssysteem van een gemeente, een provincie of het Vlaamse Gewest, en hierbij de termijnen van de procedures, vermeld in dit decreet, opschorten of verlengen voor de duur van de technische storingen, voor een of meer gemeenten, voor een of meer provincies of voor het Vlaamse Gewest.<br>
+<br>
+In dit artikel wordt onder intern digitaal dossierbehandelingssysteem ve staan: het digitale systeem waarmee de beslissingen van de bevoegde overheid worden voorbereid, genomen en afgehandeld.
 
 ## HOOFDSTUK 2 De vergunningsprocedure in eerste administratieve aanleg
 
