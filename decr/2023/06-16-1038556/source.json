@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038556,
+  "title": "Decreet van 2023-06-16 tot wijziging van artikel 23 en 27/1 van de wet van 16 maart 1968 betreffende de politie over het wegverkeer",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038556/VolledigDocument?datum=2023-08-20",
+  "source_sha256": "a68fd8e5559ceae810812868374960d19b77371bf07345e621f601a61baa416a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038556&param=informatie",
+  "as_of": "2023-08-20",
+  "made": "2023-06-16",
+  "gazette": "2023-08-10",
+  "numac": 2023043401,
+  "document_start": "2023-08-20",
+  "document_end": null,
+  "in_force": "2023-08-20",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-08-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
