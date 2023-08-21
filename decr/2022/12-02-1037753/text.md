@@ -197,7 +197,9 @@ Deze afdeling geldt behoudens afwijkende regelgeving en zonder afbreuk te doen a
 1° de betrokken burger verzoekt om die gegevens, en heeft het Vlaams Datanutsbedrijf verzocht om dat verzoek namens hem door te geven;<br>
 2° de overheidsinstantie die geen Vlaamse instantie is, is gemachtigd tot gegevensdeling bij of krachtens een supranationale of wetskrachtige norm en de betrokken burger heeft het Vlaams Datanutsbedrijf verzocht om aan die gege vensdeling gevolg te geven.<br>
 <br>
-§3. Met behoud van de toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is gespecificeerd, kan een entiteit die geen overheidsinstantie is als vermeld in paragraaf 1 en 2, specifieke gegevens, inclusief persoonsgegevens, die ze verwerkt, meedelen aan het Vlaams Datanutsbedrijf, op voorwaarde dat de betrokken burger om die gegevens verzoekt en hij het Vlaams Datanutsbedrijf heeft verzocht om dat verzoek namens hem door te geven.
+§3. Met behoud van de toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is gespecificeerd, kan een entiteit die geen overheidsinstantie is als vermeld in paragraaf 1 en 2, specifieke gegevens, inclusief persoonsgegevens, die ze verwerkt, meedelen aan het Vlaams Datanutsbedrijf, op voorwaarde dat de betrokken burger om die gegevens verzoekt en hij het Vlaams Datanutsbedrijf heeft verzocht om dat verzoek namens hem door te geven.<br>
+<br>
+§4. De mededelingen, vermeld in paragraaf 1 tot en met 3, kunnen aan de hand van het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank van de Sociale Zekerheid verlopen.
 
 ### ART 14.
 
@@ -260,13 +262,26 @@ Deze afdeling geldt behoudens afwijkende regelgeving en zonder afbreuk te doen a
 
 ### ART 21.
 
-§1. Met behoud van de toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, deelt het Vlaams Datanutsbedrijf specifieke gegevens, inclusief persoonsgegevens, mee aan de ontvangende entiteit die de burger aanwijst, op voorwaarde dat de betrokken burger vraagt om die gegevens aan een bepaalde ontvangende entiteit mee te delen via het platform, vermeld in artikel 5, §1, 2°.<br>
+§1. Met behoud van de toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, deelt het Vlaams Datanutsbedrijf specifieke gegevens, inclusief persoonsgegevens, mee aan de ontvangende entiteit die de burger aanwijst, op voorwaarde dat de betrokken burger vraagt om die gegevens aan een bepaalde ontvangende entiteit mee te delen via het platform, vermeld in artikel 5, §1, 2°.&nbsp;&nbsp;Die mededeling kan aan de hand van het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank van de Sociale Zekerheid verlopen.<br>
 &nbsp;<br>
 §2. In het geval, vermeld in paragraaf 1, krijgen de ontvangende entiteiten alleen toegang tot de gegevens die noodzakelijk zijn om hun respectieve taken uit te oefenen.<br>
 <br>
 §3. Het Vlaams Datanutsbedrijf bezorgt de gevraagde gegevens, vermeld in paragraaf 1, via elektronische weg aan de ontvangende entiteit.<br>
 <br>
-Als de ontvangende entiteit een overheidsinstantie is, deelt het Vlaams Datanutsbedrijf de gegevens mee via het agentschap Digitaal Vlaanderen, dat de functie van dienstenintegrator vervult als vermeld in artikel 3, §1, van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator.
+Als de ontvangende entiteit een overheidsinstantie is, deelt het Vlaams Datanutsbedrijf de gegevens mee via het agentschap Digitaal Vlaanderen, dat de functie van dienstenintegrator vervult als vermeld in artikel 3, §1, van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator.<br>
+<br>
+De ontvangende entiteiten zijn ontvangers als vermeld in artikel 4 van de algemene verordening gegevensbescherming. De hierna volgende categorieën zijn ontvangers van de gevraagde gegevens, vermeld in paragraaf 1:<br>
+1° overheidsinstanties;<br>
+2° aanbieders van diensten binnen de humanresourcessector;<br>
+3° aanbieders van diensten binnen de financiële sector;<br>
+4° nutsbedrijven en andere aanbieders van diensten binnen de energiesector;<br>
+5° aanbieders van telecommunicatiediensten;<br>
+6° aanbieders van diensten binnen de gezondheidssector;<br>
+7° aanbieders van diensten binnen de mobiliteitssector;<br>
+8° aanbieders van diensten binnen de cultuur- en mediasector;<br>
+9° aanbieders van diensten binnen de vastgoedsector;<br>
+10° retailbedrijven;<br>
+11° het notariaat.
 
 ### ART 22.
 
@@ -289,6 +304,9 @@ Dit hoofdstuk geldt behoudens afwijkende regelgeving en zonder afbreuk te doen a
 6° het identificatienummer van de Kruispuntbank van de Sociale Zekerheid;<br>
 7° het ondernemingsnummer van de Kruispuntbank van Ondernemingen;<br>
 8° kadastrale gegevens.<br>
+9° gegevens over vrijetijdsbesteding;<br>
+10° mobiliteitsgegevens;<br>
+11° gezondheidsgegevens.<br>
 <br>
 §2. De persoonsgegevens die door het Vlaams Datanutsbedrijf worden verwerkt, hebben betrekking op de natuurlijke personen die hun datakluis, vermeld in artikel 5, §1, 2°, hebben geactiveerd.
 
@@ -334,7 +352,9 @@ Het Vlaams Datanutsbedrijf voert geen geautomatiseerde besluitvorming, waaronder
 <br>
 De inhoud van de toestemming van de burger blijft ongewijzigd in de loop van de tijd als de burger zijn toestemming niet wijzigt.<br>
 <br>
-§3. De toestemming, vermeld in paragraaf 1, geldt met behoud van de toepassing van de andere verwerkingsgronden van de aanleverende of ontvangende entiteiten, vermeld in artikel 6 van de algemene verordening gegevensbescherming.
+§3. De toestemming, vermeld in paragraaf 1, geldt met behoud van de toepassing van de andere verwerkingsgronden van de aanleverende of ontvangende entiteiten, vermeld in artikel 6 van de algemene verordening gegevensbescherming.<br>
+<br>
+§4. De burger kan de toestemming, vermeld in paragraaf 1, geven via het communicatiekanaal, vermeld in artikel II.7, eerste en zevende lid, van het Bestuursdecreet van 7 december 2018. In afwijking van artikel II.7, tweede lid, van het Bestuursdecreet van 7 december 2018, kan die toestemming ook betrekking hebben op het meedelen van gegevens aan niet-overheidsinstanties.
 
 ### ART 30.
 
