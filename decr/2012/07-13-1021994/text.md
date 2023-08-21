@@ -9,14 +9,15 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 ### ART. 2.
 
 In dit decreet wordt verstaan onder :<br>
-1° authentieke gegevensbron : een authentieke gegevensbron als vermeld in artikel III.66, § 1, van het Bestuursdecreet van 7 december 2018;<br>
+1° authentieke gegevensbron: een gegevensbron waarvan de opslag van de gegevens functioneel is opgedeeld overeenkomstig artikel 6/1;<br>
 2° de Vlaamse toezichtcommissie : de Vlaamse toezichtcommissie, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer;<br>
 3° dienstenintegrator : een instantie die bij of krachtens een wet, een decreet of een ordonnantie belast is, binnen een bepaald overheidsniveau of in een bepaalde sector, met een taak van algemeen belang, en meer bepaald met de organisatie van elektronische gegevensuitwisseling over instanties heen en met de geintegreerde ontsluiting van gegevens;<br>
 4° externe overheid : een overheid die tot het internationale of federale niveau behoort, een andere gemeenschap of een ander gewest, en de daarvan afhangende instellingen of rechtspersonen, alsook de privaatrechtelijke rechtspersonen die belast zijn met taken of opdrachten van algemeen belang;<br>
 5° het besluit van de Vlaamse Regering van 15 mei 2009 betreffende de veiligheidsconsulenten : het besluit van de Vlaamse Regering van 15 mei 2009 betreffende de veiligheidsconsulenten, vermeld in artikel 9 van het decreet van 18 juli 2008;<br>
 6° instanties : de instanties van de Vlaamse overheid, vermeld in artikel I.3, 1°, van het Bestuursdecreet van 7 december 2018, de instanties van de lokale overheden, vermeld in artikel I.3, 5°, van het Bestuursdecreet van 7 december 2018, de instellingen met een publieke taak, vermeld in artikel I.3, 6°, van het Bestuursdecreet van 7 december 2018 en de milieu-instanties, vermeld in artikel I.3, 7°, van het Bestuursdecreet van 7 december 2018;<br>
-7° ...<br>
-8° ...<br>
+7° gegevens: alle gegevens die nodig zijn voor de toepassing van de Vlaamse wet- en regelgeving;<br>
+8°&nbsp;&nbsp; &nbsp;persoonsgegevens: persoonsgegevens als vermeld in artikel 4, 1), van de algemene verordening gegevensbescherming;<br>
+8°/1 netwerk van de VDI: het geheel van de authentieke gegevensbronnendie beschikbaar zijn via de VDI;<br>
 9° VDI : de Vlaamse dienstenintegrator;<br>
 10° stuurorgaan Vlaams Informatie- en ICT-beleid: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74. van het Bestuursdecreet van 7 december 2018.<br>
 11° algemene verordening gegevensbescherming : verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming).
@@ -58,9 +59,10 @@ d) hoe ervoor wordt gezorgd dat bij onderzoek, op initiatief van een betrokken p
 10° programma's, projecten en diensten uitwerken die potentieel de instanties overkoepelen en die de gemeenschappelijke strategic, vermeld in punt 1°, ondersteunen;<br>
 11° de Verrijkte Kruispuntbank van Ondernemingen, afgekort VKBO, beheren. De VKBO is een gegevensbron waarin identificatiegegevens van ondernemingen uit de Kruispuntbank van Ondernemingen worden opgeslagen en verrijkt met ondernemingsgegevens uit verschillende gegevensbronnen, beheerd door andere instanties en externe overheden. De gegevens, opgeslagen in de VKBO, worden ter beschikking gesteld aan instanties en externe overheden om de opdrachten uit te voeren die hun door of krachtens een wet, een decreet of een ordonnantie zijn toegewezen, of om de taken van algemeen belang te vervullen die door of krachtens een wet, een decreet of een ordonnantie aan hen zijn toevertrouwd. De VKBO is complementair aan de Kruispuntbank van Ondernemingen. De VKBO bezorgt systematisch aan de Kruispuntbank van Ondernemingen en de respectieve gegevensbronnen alle ontvangen meldingen over onnauwkeurige, onvolledige of onjuiste gegevens;<br>
 12° indien nodig, alfanumerieke gegevens verzamelen en elektronisch opslaan, beheren en verwerken om ter beschikking te stellen aan de instanties en externe overheden die de gegevens nodig hebben om onderzoeken en opdrachten uit te voeren die hun door of krachtens een wet, een decreet of een ordonnantie zijn toegewezen, of om de taken van algemeen belang te vervullen die door of krachtens een wet, een decreet of een ordonnantie aan hen zijn toevertrouwd;<br>
-13° samenwerking met andere dienstenintegratoren organiseren;<br>
-14° gegevens inzamelen, samenvoegen, coderen of anonimiseren en ter beschikking stellen, als intermediaire organisatie als vermeld in het koninklijk besluit van 13 februari 2001 ter uitvoering van de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens. De VDI mag de persoonsgegevens die verwerkt worden in het kader van deze opdracht, alleen bijhouden zolang dat noodzakelijk is om ze te coderen of te anonimiseren. De VDI mag evenwel het verband tussen het reele identificatienummer van een persoon en het aan hem toegekend gecodeerd identificatienummer bijhouden als de bestemmeling van de gecodeerde persoonsgegevens daarom verzoekt op een gemotiveerde wijze, met toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd;<br>
-15° de naleving van de visie, de strategic, de functionele en technische normen, standaarden en specificaties, de basisarchitectuur, alsook het gebruik van het gegevensuitwisselingsplatform voor de veilige elektronische gegevensuitwisseling en de basisdiensten en de verwezenlijking van de programma's en de projecten door zoveel mogelijk instanties bevorderen.
+13° samenwerking met andere dienstenintegratoren organiseren;&nbsp;Daarbij kan voor het opnemen van de verbintenissen die in het kader van die samenwerking nodig zijn een beroep worden gedaan op de diverse opdrachten waarmee de VDI ingevolge artikel 4 al is belast.<br>
+14° gegevens inzamelen, samenvoegen, coderen of anonimiseren en ter beschikking stellen als verwerker als vermeld in artikel 4, 8), van de algemene verordening gegevensbescherming. De VDI mag de persoonsgegevens die verwerkt worden in het kader van deze opdracht, alleen bijhouden zolang dat noodzakelijk is om ze te coderen of te anonimiseren. De VDI mag evenwel het verband tussen het reele identificatienummer van een persoon en het aan hem toegekend gecodeerd identificatienummer bijhouden als de bestemmeling van de gecodeerde persoonsgegevens daarom verzoekt op een gemotiveerde wijze, met toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd;<br>
+15° de naleving van de visie, de strategic, de functionele en technische normen, standaarden en specificaties, de basisarchitectuur, alsook het gebruik van het gegevensuitwisselingsplatform voor de veilige elektronische gegevensuitwisseling en de basisdiensten en de verwezenlijking van de programma's en de projecten door zoveel mogelijk instanties bevorderen.<br>
+16° platformen ontwikkelen en beheren en diensten verlenen om metagegevens van overheidsinstanties geïntegreerd te delen en te raadplegen.
 
 ### ART. 5.
 
@@ -78,15 +80,64 @@ De VDI heeft, in permanente afstemming met de instanties en de andere dienstenin
 
 § 1. Bij de verwerking van gegevens met toepassing van dit decreet en de uitvoeringsbesluiten ervan worden uitsluitend de volgende identificatiemiddelen gebruikt :<br />1° het identificatienummer van het Rijksregister, als de gegevens betrekking hebben op een natuurlijke persoon die in het Rijksregister opgenomen is;<br />2° het identificatienummer van de Kruispuntbank van de Sociale Zekerheid, als de gegevens betrekking hebben op een natuurlijk persoon die niet in het Rijksregister is opgenomen;<br />3° het ondernemingsnummer, als de gegevens betrekking hebben op een onderneming die is opgenomen in de Kruispuntbank van Ondernemingen;<br />4° de identificator, vermeld in artikel 2, 9°, van het decreet van 8 mei 2009 betreffende het Centraal Referentieadressenbestand, als de gegevens betrekking hebben op adressen als vermeld in artikel 6 van het decreet van 8 mei 2009 betreffende het Centraal Referentieadressenbestand;<br />5° het kadastraal perceelsnummer, als de gegevens betrekking hebben op percelen;<br />6° de identificatoren van de geografische objecten van het Grootschalig Referentie Bestand, vermeld in punt 4.3 van de bijlage bij het ministerieel besluit van 11 maart 2005 houdende goedkeuring van de GRB-specificaties in uitvoering van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand, als de gegevens betrekking hebben op of verwijzen naar exemplaren van het GRB.<br /><br />§ 2. Voor de gegevens die niet onder de toepassing van paragraaf 1 vallen, kan de Vlaamse Regering het gebruik van andere identificatiemiddelen opleggen.
 
+### ART 6/1.
+
+§1. De VDI deelt, na advies van het stuurorgaan Vlaams Informatie- en ICT-beleid, de opslag van de gegevens functioneel op onder de instanties. De instanties zijn in dat geval beheerder van de betreffende authentieke gegevensbron. De instanties die authentieke gegevensbronnen beheren, zijn verantwoordelijk voor de instandhouding, de terbeschikkingstelling, de veiligheid, de toegang en het gebruik van de authentieke gegevensbron en van de gegevens van de authentieke gegevensbron in kwestie. Ze kunnen daarvoor zelf of via gegevensinitiatoren als vermeld in paragraaf 2 gegevens bij de burger opvragen.<br>
+<br>
+§2. De Vlaamse Regering kan de modaliteiten voor samenwerking tussen gegevensinitiatoren en de overheidsinstanties die authentieke gegevensbronnen beheren nader bepalen en daarbij verplichtingen opleggen.<br>
+<br>
+Onder gegevensinitiator wordt verstaan een instantie die exclusieve eindverantwoordelijkheid heeft voor het bijhouden van de levensloop of een of meer eigenschappen van een object.<br>
+<br>
+§3. Als de VDI afwijkt van het advies van het stuurorgaan, vermeld in paragraaf 1, verantwoordt de VDI dat schriftelijk aan het stuurorgaan. Op vraag van een instantie wordt het dossier ter beslissing aan de Vlaamse Regering voorgelegd. De beslissing van de VDI wordt dan opgeschort tot de Vlaamse Regering heeft beslist.<br>
+<br>
+§4. Er moeten voldoende garanties zijn op het vlak van de kwaliteit van de gegevens en de bruikbaarheid, het adequate beheer, de veiligheid, de financiering en de interoperabiliteit van de gegevensbron opdat de opslag van de gegevens functioneel kan worden opgedeeld en de gegevensbron aldus een authentieke gegevensbron wordt. De Vlaamse Regering kan de voormelde garanties nader specificeren en bijkomende voorwaarden bepalen voor geografische gegevensbronnen. De VDI bepaalt, na advies van het voormelde stuurorgaan, in welke mate de gegevensbron in kwestie aan de voormelde garanties moet voldoen. De Vlaamse Regering kan bepalen welke taken de beheersinstanties moeten vervullen opdat de voormelde garanties effectief worden gerealiseerd.<br>
+<br>
+§5. De gegevensbronnen die al zijn erkend als authentieke gegevensbronnen overeenkomstig artikel III.66, §1, van het Bestuursdecreet, worden gelijkgesteld met gegevensbronnen waarvan de opslag van de gegevens functioneel is opgedeeld overeenkomstig paragraaf 1.<br>
+<br>
+§6. De VDI bepaalt welke gegevens van gegevensbronnen die een externe overheid beheert, via de VDI beschikbaar zijn en ook gegevens van het netwerk van de VDI zijn. De Vlaamse Regering kan met de externe overheden de nodige akkoorden sluiten zodat de gegevens die opgenomen zijn in de gegevensbronnen die een externe overheid beheert, via de VDI kunnen worden geraadpleegd.<br>
+<br>
+De gegevens van gegevensbronnen beheerd door een externe overheid, die al overeenkomstig artikel III.68, tweede lid, van het Bestuursdecreet van 7 december 2018, gewijzigd bij het decreet van 2 juli 2021, moeten worden geraadpleegd, worden beschouwd als gegevens van het netwerk van de VDI.<br>
+<br>
+§7. Gegevens van het netwerk van de VDI worden meegedeeld door of aan instanties met tussenkomst van de VDI, behalve als het gaat om een mededeling respectievelijk aan of door de personen op wie de gegevens betrekking hebben, hun wettelijke vertegenwoordigers, alsook degenen die door hen uitdrukkelijk zijn gemachtigd om de gegevens te verwerken. In deze paragraaf wordt verstaan onder personen: natuurlijke personen, ondernemingen en verenigingen, al dan niet met rechtspersoonlijkheid.<br>
+<br>
+De VDI kan, na advies van het stuurorgaan Vlaams Informatie- en ICT-beleid, voorzien in een vrijstelling van de tussenkomst van de VDI, als die tussenkomst geen toegevoegde waarde biedt. Als de VDI afwijkt van het advies van het voormelde stuurorgaan, verantwoordt de VDI dat schriftelijk aan het stuurorgaan. Op vraag van een instantie wordt het dossier ter beslissing aan de Vlaamse Regering voorgelegd. De beslissing van de VDI wordt dan opgeschort tot de Vlaamse Regering heeft beslist.<br>
+<br>
+De instanties zijn vrijgesteld van de verplichting om een beroep te doen op de VDI als het gegevens betreft waarvan de opslag hun is toevertrouwd.
+
 ### ART. 7.
 
 § 1. De instanties delen aan de VDI langs elektronische weg alle elektronisch beschikbare gegevens mee die hij nodig heeft om zijn opdracht als dienstenintegrator uit te voeren.<br>
 <br>
 § 2. De VDI deelt aan de instanties, externe overheden en de andere dienstenintegratoren langs elektronische weg alle elektronisch beschikbare gegevens mee die deze nodig hebben om hun opdrachten uit te voeren.<br>
 <br>
-§ 3. Elke elektronische mededeling van persoonsgegevens door of aan de VDI gebeurt met toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd.<br>
+§3. Persoonsgegevens worden meegedeeld via de VDI met toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd.
+
+### ART 7/1.
+
+§1. De instanties winnen de gegevens in die ze nodig hebben voor de uitvoering van de taken van algemeen belang waarmee ze zijn belast, of voor de uitvoering van de verplichtingen die op hen rusten, via de VDI, bij de authentieke gegevensbronnen in het netwerk van de VDI. De instanties beschikken over een termijn van twee jaar om aan die verplichting te voldoen. Die termijn gaat in zodra de betreffende authentieke gegevensbron in het netwerk van de VDI beschikbaar is.<br>
 <br>
-§ 4. Een elektronische mededeling van persoonsgegevens gebeurt met toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd.
+De instanties doen in voorkomend geval een beroep op de VDI als ze de juistheid nagaan van de gegevens die in het netwerk van de VDI beschikbaar zijn.<br>
+<br>
+De instanties zamelen de gegevens waarover ze beschikken ter uitvoering van het eerste lid niet meer in bij de betrokkene, zijn lasthebber of zijn wettelijke vertegenwoordiger.<br>
+<br>
+§2. Zodra de betrokkene, zijn lasthebber of zijn wettelijke vertegenwoordiger vaststelt dat een instantie over onvolledige of onjuiste gegevens beschikt, meldt hij de nodige verbeteringen of aanvullingen onmiddellijk aan de betrokken instantie.
+
+### ART 7/2.
+
+§1. De VDI ontwikkelt, in overleg met de instanties waaraan het beheer van gegevens functioneel is toebedeeld en na advies van het stuurorgaan Vlaams Informatie- en ICT-beleid, de technische middelen om de gegevens te ontsluiten naar de instanties en overheden die ze nodig hebben om hun diensten aan de burgers te verlenen.<br>
+<br>
+§2. Als dat nodig is, kan de VDI, op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid, tijdelijk een kopie maken van de gegevens die worden beheerd door de instantie waaraan de opslag functioneel is toebedeeld, met louter als bedoeling de latere terbeschikkingstelling van die gegevens efficiënter te doen verlopen en daardoor die gegevens efficiënter en sneller ter beschikking te stellen van de instanties die ze nodig hebben om hun diensten te verlenen, op voorwaarde dat de VDI:<br>
+1° &nbsp; de gegevens niet wijzigt;<br>
+2° de gegevens bijwerkt conform de regels die bepaald zijn in overleg met de betrokken instanties en externe overheden;<br>
+3° onmiddellijk de opgeslagen gegevens verwijdert of de toegang ertoe onmogelijk maakt, zodra de VDI er daadwerkelijk van op de hoogte is dat de gegevens verwijderd zijn van de plaats waar ze zich oorspronkelijk bevonden, dat de toegang tot die gegevens onmogelijk is gemaakt, of zodra een administratieve of gerechtelijke autoriteit heeft bevolen de gegevens te verwijderen of de toegang ertoe onmogelijk te maken.<br>
+<br>
+De VDI evalueert op regelmatige basis de noodzaak van de kopie in overleg met de betrokken instanties en het stuurorgaan.
+
+### ART 7/3.
+
+Als de gegevens die nodig zijn om een aanvullend recht toe te kennen aan natuurlijke personen, in het netwerk van de VDI beschikbaar zijn, zijn de toekennende instanties verplicht ze uitsluitend bij de VDI op te vragen.<br>
+<br>
+Onder aanvullend recht wordt verstaan: een recht op een voordeel dat verstrekt is door een instantie, dat voor een natuurlijke persoon of zijn rechthebbenden geldt ingevolge een decretale of reglementaire bepaling als gevolg van het statuut van die natuurlijke persoon inzake sociale zekerheid.
 
 ### ART. 8.
 
@@ -130,10 +181,11 @@ Verzoeken tot aanpassing van onnauwkeurige, onvolledige of onjuiste gegevens kun
 <br>
 De VDI voorziet daartoe in de gepaste middelen overeenkomstig de voorwaarden en regels,&nbsp;geadviseerd door de Vlaamse toezichtcommissie.<br>
 <br>
-§ 3. Als dat nodig is kan de VDI, in overleg met de betrokken instanties en externe overheden, een kopie maken van de gegevens die hij als tussenpersoon verwerkt, met de loutere bedoeling de latere terbeschikkingstelling van die gegevens efficiënter te doen verlopen, op voorwaarde dat de VDI :<br>
+§ 3. Als dat nodig is kan de VDI, in overleg met de betrokken instanties en externe overheden, tijdelijk een kopie maken van de gegevens die hij als tussenpersoon verwerkt, met de loutere bedoeling de latere terbeschikkingstelling van die gegevens efficiënter te doen verlopen, op voorwaarde dat de VDI :<br>
 1° de gegevens niet wijzigt;<br>
 2° de gegevens bijwerkt conform de regels die bepaald zijn in overleg met de betrokken instanties en externe overheden;<br>
 3° onmiddellijk de opgeslagen gegevens verwijdert of de toegang ertoe onmogelijk maakt, zodra de VDI er daadwerkelijk kennis van heeft dat de gegevens verwijderd zijn van de plaats waar ze zich oorspronkelijk bevonden, dat de toegang tot die gegevens onmogelijk werd gemaakt, of zodra een administratieve of gerechtelijke autoriteit heeft bevolen de gegevens te verwijderen of de toegang ertoe onmogelijk te maken.<br>
+De VDI evalueert op regelmatige basis de noodzaak van de kopie in overleg met de betrokken instanties en externe overheden.<br>
 <br>
 § 4. De VDI kan voor het informeren van burgers over gegevens die op henzelf betrekking hebben, als dat nodig is, bij de instanties en externe overheden de nodige persoonsgegevens verzamelen en die gedurende een bepaalde periode opslaan, en alleen om ze mee te delen aan de burger.
 
@@ -152,6 +204,12 @@ Elke persoon die uit hoofde van zijn functie betrokken is bij de inzameling, raa
 ### ART. 18.
 
 De Vlaamse Regering wijst de personen aan die in oorlogstijd, in omstandigheden die daarmee gelijkgesteld zijn krachtens artikel 7 van de wet van 12 mei 1927 op de militaire opeisingen, of tijdens de bezetting van het grondgebied door de vijand ermee belast zijn om de toegang tot de gegevens en de gegevensbronnen bij de VDI te verhinderen of om de gegevensbronnen geheel of gedeeltelijk te vernietigen of te laten vernietigen. De Vlaamse Regering bepaalt de verhindering van de toegang of de vernietiging nader.
+
+### ART 18/1.
+
+Om het de instanties mogelijk te maken het hoofd te bieden aan de gevolgen van een noodsituatie, andere dan oorlogstijd als vermeld in artikel 18, kan de Vlaamse Regering, na advies van de Vlaamse toezichtcommissie, binnen een termijn van vijf werkdagen de VDI ermee belasten de nodige persoonsgegevens te verzamelen en op te slaan om ze ter beschikking te stellen van de instanties die ze nodig hebben voor de toekenning van een voordeel aan een burger, vermeld in artikel I.4, 7°, van het Bestuursdecreet van 7 december 2018. De Vlaamse Regering bepaalt die bevoegdheid en de verwerkingen van de betreffende persoonsgegevens nader. De bevoegdheid is altijd beperkt tot de periode van de betreffende noodsituatie.<br>
+<br>
+De besluiten die krachtens dit artikel worden vastgesteld, worden geacht nooit gevolg te hebben gehad als ze niet bij decreet zijn bekrachtigd zes maanden na de datum van de inwerkingtreding ervan. De bekrachtiging werkt terug tot die laatste datum.
 
 ## HOOFDSTUK 7. [Functionaris voor gegevensbescherming (verv. Decr. 8 juni 2018, art. 43, I: 25 mei 2018)]
 
