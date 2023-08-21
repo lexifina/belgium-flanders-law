@@ -79,7 +79,7 @@ b) de districten;<br>
 c) de provincies;<br>
 d) de openbare centra voor maatschappelijk welzijn;<br>
 e) de samenwerkingsvormen, vermeld in deel 3, titel 3, van het decreet van 22 december 2017 over het lokaal bestuur;<br>
-f) de intergemeentelijke onderwijsvereniging, vermeld in het decreet van 28 november 2008 betreffende de intergemeentelijke onderwijsvereniging;<br>
+f) de interlokale onderwijsvereniging, vermeld in het decreet van 28 november 2008 betreffende de interlokale onderwijsvereniging (ILOV);<br>
 g) de welzijnsverenigingen, vermeld in deel 3, titel 4, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur;<br>
 h) de autonome verzorgingsinstellingen, vermeld in deel 3, titel 4, hoofdstuk 3, van het decreet van 22 december 2017 over het lokaal bestuur;<br>
 i) de verzelfstandigde agentschappen die opgericht zijn door een provincie of een gemeente;<br>
@@ -142,7 +142,7 @@ Dit hoofdstuk is van toepassing op de volgende overheidsinstanties:<br>
 1° de Vlaamse overheid, met uitzondering van de investeringsmaatschappijen van de Vlaamse overheid;<br>
 2° de lokale overheden, behalve wat artikel II.4, II.8, II.9, II.11, eerste lid, en II.12 betreft.<br>
 <br>
-Artikel II.3, eerste lid, II.5, II.6, tweede, derde en vierde lid, II.16 en II.17 zijn ook van toepassing op de investeringsmaatschappijen van de Vlaamse overheid, op de instellingen met een publieke taak, wat hun publieke taak betreft, en op de milieu-instanties wat hun milieuverantwoordelijkheden, -functies of -diensten betreft.<br>
+Artikel II.3, eerste lid, II.5, II.6, tweede, derde en vierde lid,&nbsp;II.7,&nbsp;II.16 en II.17 zijn ook van toepassing op de investeringsmaatschappijen van de Vlaamse overheid, op de instellingen met een publieke taak, wat hun publieke taak betreft, en op de milieu-instanties wat hun milieuverantwoordelijkheden, -functies of -diensten betreft.<br>
 <br>
 In afwijking van het eerste lid, 1°, zijn artikel II.11, eerste lid, en II.12 niet van toepassing op de Vlaamse adviesorganen, op het Vlaams Parlement, zijn diensten, de instellingen die aan het Vlaams Parlement verbonden zijn en de autonome diensten die onder toezicht staan van het Vlaams Parlement.
 
@@ -196,12 +196,14 @@ Informatievragen worden kosteloos en binnen een redelijke termijn beantwoord, me
 
 ### ART II.7.
 
-De burger krijgt, zelf of via zijn gemandateerde, een geconsolideerde en burgergerichte toegang tot de gegevens die op hem betrekking hebben en waarover de overheidsinstanties, vermeld in artikel II.1, beschikken.<br>
+De burger krijgt, zelf of via zijn gemandateerde, een geconsolideerde en burgergerichte toegang tot de gegevens die op hem betrekking hebben en waarover de overheidsinstanties, vermeld in artikel II.1, beschikken.&nbsp;Via hetzelfde communicatiekanaal kan hij ook zijn gegevens verstrekken aan de overheidsinstanties, vermeld in artikel II.1, eerste en tweede lid.<br>
+<br>
+Behoudens decretale afwijking mag dat communicatiekanaal alleen gebruikt worden door de burger voor toegang tot zijn gegevens of voor de verstrekking van zijn gegevens aan de voormelde overheidsinstanties.<br>
 <br>
 Onder gegevens waarover de overheidsinstanties, vermeld in artikel II.1, beschikken wordt verstaan: gegevens die beheerd of verwerkt worden door een overheidsinstantie als vermeld in artikel II.1, of gegevens die beheerd of verwerkt worden door een externe overheid waartoe een overheidsinstantie als vermeld in artikel II.1, toegang heeft.<br>
 <br>
 Het gaat onder meer om:<br>
-1° gegevens over natuurlijke personen of rechtspersonen;<br>
+1° gegevens over natuurlijke personen of rechtspersonen of verenigingen als vermeld in artikel 4, derde lid, 1°, van het decreet van 18 juli 2008 betreffende het elektronische gegevensverkeer;<br>
 2° informatie over lopende dossiers;<br>
 3° informatie over rechten die voortvloeien uit regelgeving en die kunnen afgeleid worden uit de gegevens, vermeld in punt 1°.<br>
 <br>
@@ -209,13 +211,13 @@ Persoonsgegevens worden verwerkt met inachtneming van de regelgeving over de bes
 <br>
 De toegang, vermeld in het eerste lid, geldt niet ten aanzien van de overheidsinstanties en de externe overheden die met toepassing van artikel 23, lid 1, e) en h), van de algemene verordening gegevensbescherming hebben gebruikgemaakt van de mogelijkheid om de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerking van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon overeenkomstig de specifieke decretale bepalingen ter uitvoering van voormelde verordeningsbepaling.<br>
 <br>
-Deze toegang mag alleen gebruikt worden door de burger om toegang te krijgen tot zijn gegevens en mag voor geen enkel ander doeleinde worden gebruikt.<br>
+De manier en de nadere inhoud van de toegang&nbsp;en de verstrekking via het communicatiekanaal, vermeld in het eerste lid,&nbsp;wordt bepaald door het agentschap Digitaal Vlaanderen in overleg met de betrokken overheidsinstanties en externe overheden.<br>
 <br>
-De manier en de nadere inhoud van de toegang wordt bepaald door het agentschap Digitaal Vlaanderen in overleg met de betrokken overheidsinstanties en externe overheden.<br>
+In afwijking van het zevende lid, duidt de Vlaamse Regering aan welke overheidsinstantie de manier en de nadere inhoud van de toegang tot&nbsp;en de verstrekking van&nbsp;gegevens met betrekking tot rechtspersonen en natuurlijke personen in hun hoedanigheid van ondernemer bepaalt in overleg met de betrokken overheidsinstanties en externe overheden.<br>
 <br>
-In afwijking van het zevende lid, duidt de Vlaamse Regering aan welke overheidsinstantie de manier en de nadere inhoud van de toegang tot gegevens met betrekking tot rechtspersonen en natuurlijke personen in hun hoedanigheid van ondernemer bepaalt in overleg met de betrokken overheidsinstanties en externe overheden.<br>
+In afwijking van het zevende lid wijst de Vlaamse Regering aan welke overheidsinstantie de manier en de nadere inhoud van de toegang tot en de verstrekking van de gegevens over rechtspersonen en groeperingen van natuurlijke personen in hun hoedanigheid van vereniging als vermeld in artikel 4, derde lid, 1°, van het decreet van 18 juli 2008 betreffende het elektronische gegevensverkeer, bepaalt in overleg met de betrokken overheidsinstanties en externe overheden.<br>
 <br>
-De Vlaamse Regering kan overheidsinstanties als vermeld in artikel II.1, verplichten mee te werken aan het toegankelijk maken van gegevens, en kan ook andere verplichtingen opleggen voor de toegang, vermeld in het eerste lid.
+De Vlaamse Regering kan overheidsinstanties als vermeld in artikel II.1, verplichten mee te werken aan het toegankelijk maken van gegevens, en kan ook andere verplichtingen opleggen voor de toegang, vermeld in het eerste lid, en de ontvangst van de gegevens die de burger verstrekt, vermeld in het eerste lid.
 
 ### ART II.8.
 
@@ -311,8 +313,9 @@ Op vzw's of stichtingen is artikel II.16 alleen van toepassing als ze diensten v
 ### ART II.18.
 
 Dit hoofdstuk is van toepassing op de volgende overheidsinstanties:<br>
-1° de Vlaamse overheid, met uitzondering van de investeringsmaatschappijen van de Vlaamse overheid;<br>
-2° de lokale overheden.
+1° de Vlaamse overheid;<br>
+2° de lokale overheden.<br>
+3° instellingen met een publieke taak, wat hun publieke taak betreft.
 
 ## Afdeling 2. Uitwisseling van berichten
 
@@ -348,7 +351,7 @@ a) de stappen die gevolgd moeten worden;<br>
 b) de technieken die worden gebruikt;<br>
 c) de rechtsgevolgen van de elektronische uitwisseling;<br>
 2° de natuurlijke personen, niet in hun hoedanigheid van ondernemer, stemmen vooraf uitdrukkelijk in met de uitwisseling van berichten via elektronische weg;<br>
-3° de natuurlijke personen, niet in hun hoedanigheid van ondernemer, kunnen de instemming, vermeld in punt 2°, op elk moment intrekken.<br>
+3° de natuurlijke personen, niet in hun hoedanigheid van ondernemer, kunnen de instemming, vermeld in punt 2°, op elk moment intrekken voor toekomstige berichten.<br>
 <br>
 § 3. De overheidsinstanties, vermeld in artikel II.18, die berichten via elektronische weg uitwisselen, garanderen voor de elektronische communicatie een voldoende graad van informatieveiligheid en onweerlegbaarheid.<br>
 <br>
@@ -360,13 +363,19 @@ De Vlaamse Regering kan de minimumnormen bepalen waaraan de maatregelen, vermeld
 
 ### ART II.23.
 
-Tenzij het anders voorzien is in de toepasselijke regelgeving, geldt als tijdstip waarop een bericht door een overheidsinstantie als vermeld in artikel II.18, elektronisch is verzonden aan de geadresseerde, het tijdstip waarop het bericht het informatiesysteem verlaat dat de overheidsinstantie gebruikt. Als de overheidsinstantie en de geadresseerde gebruikmaken van hetzelfde informatiesysteem, geldt het tijdstip waarop het bericht toegankelijk wordt voor de geadresseerde als tijdstip van verzending door de overheidsinstantie en als tijdstip van ontvangst door de geadresseerde.<br>
+§1. Tenzij het anders bepaald is in de toepasselijke regelgeving, geldt als tijdstip waarop een bericht door een overheidsinstantie als vermeld in artikel II.18 elektronisch naar de geadresseerde is gestuurd, het tijdstip waarop het bericht het informatiesysteem verlaat dat de overheidsinstantie gebruikt.<br>
 <br>
-Tenzij het anders voorzien is in de toepasselijke regelgeving, geldt als tijdstip waarop een bericht elektronisch is ontvangen door een overheidsinstantie als vermeld in artikel II.18, het tijdstip waarop het bericht het informatiesysteem dat die overheidsinstantie gebruikt, bereikt.<br>
+Tenzij het anders bepaald is in de toepasselijke regelgeving, geldt als tijdstip waarop een bericht elektronisch is ontvangen door een overheidsinstantie als vermeld in artikel II.18 het tijdstip waarop het bericht het informatiesysteem bereikt dat die overheidsinstantie gebruikt.<br>
 <br>
-Als de overheidsinstantie, vermeld in artikel II.18, en de geadresseerde gebruikmaken van hetzelfde informatiesysteem geldt een elektronisch bericht als aangetekende zending.<br>
+Tenzij het anders bepaald is in de toepasselijke regelgeving, begint als de verzending of ontvangst van een bericht een termijn doet lopen, de termijn te lopen vanaf de eerste werkdag die volgt op het tijdstip van verzending, respectievelijk van ontvangst.<br>
 <br>
-In het eerste en het derde lid wordt verstaan onder hetzelfde informatiesysteem: een informatiesysteem of een combinatie van informatiesystemen waarbij de overheidsinstantie voldoende controle heeft over de logging van het tijdstip van verzending en ontvangst van een bericht.
+§2. In deze paragraaf wordt verstaan onder hetzelfde informatiesysteem: een informatiesysteem of een combinatie van informatiesystemen waarbij de overheidsinstantie voldoende controle heeft over de logging van het tijdstip van verzending en ontvangst van een bericht.<br>
+<br>
+Als bij de uitwisseling met de overheidsinstantie, vermeld in artikel II.18, gebruikgemaakt wordt van hetzelfde informatiesysteem, geldt een elektronisch bericht als aangetekende zending.<br>
+<br>
+Voor de uitwisseling, vermeld in het tweede lid, geldt, tenzij het anders bepaald is in de toepasselijke regelgeving, het tijdstip waarop het bericht toegankelijk wordt binnen hetzelfde informatiesysteem als tijdstip van verzending of tijdstip van ontvangst.<br>
+<br>
+Als de uitwisseling, vermeld in het tweede lid, een termijn doet lopen, begint de termijn te lopen vanaf de eerste werkdag die volgt op het tijdstip waarop het bericht toegankelijk wordt binnen hetzelfde informatiesysteem, tenzij het anders bepaald is in de toepasselijke regelgeving.
 
 ### ART II.23/1
 
@@ -374,7 +383,7 @@ In het eerste en het derde lid wordt verstaan onder hetzelfde informatiesysteem:
 <br>
 § 2. Overheidsinstanties als vermeld in artikel II.18, kunnen de eBox gebruiken voor de elektronische uitwisseling van berichten.<br>
 <br>
-De uitwisseling van berichten via de eBox geldt als een uitwisseling binnen hetzelfde informatiesysteem, vermeld in artikel II.23, derde en vierde lid.<br>
+De uitwisseling van berichten via de eBox geldt als een uitwisseling binnen hetzelfde informatiesysteem, vermeld in artikel II.23, §2, en wordt bijgevolg beschouwd als een aangetekende zending. Het tijdstip van verzending en ontvangst bij uitwisselingen via de eBox en de berekening van de termijnen worden, in afwijking van artikel II.23, §2, derde en vierde lid, bepaald overeenkomstig de wet van 27 februari 2019 inzake elektronische uitwisseling van berichten via de eBox.<br>
 <br>
 Als een systeemfout verhindert dat een bericht wordt verzonden of ontvangen, geldt de informatie die daarover, met toepassing van artikel 4, tweede lid, van de wet van 27 februari 2019 inzake de elektronische uitwisseling van berichten via de eBox, ter beschikking is gesteld, als bewijs van de systeemfout die kan worden ingeroepen als bewijs van overmacht.<br>
 <br>
@@ -517,11 +526,7 @@ Voor de uitzonderingsgronden, vermeld in paragraaf 1, tweede lid, 3°, 4°, 6°,
 
 ### ART II.37.
 
-Als de aanvraag tot openbaarmaking betrekking heeft op bestuursdocumenten die meer dan twintig jaar geleden opgemaakt of ontvangen zijn, kunnen de uitzonderingsgronden, vermeld in artikel II.34, 3°, 4° en 5°, artikel II.35, 1°, 4°, 5° en 6°, en artikel II.36, § 1, tweede lid, 2°, 3°, 4°, 8°, 9°, 10° en 11°, niet ingeroepen worden om de openbaarmaking te weigeren.<br>
-<br>
-Als de aanvraag tot openbaarmaking betrekking heeft op bestuursdocumenten die meer dan vijftig jaar geleden opgemaakt of ontvangen zijn, kunnen ook de uitzonderingsgronden, vermeld in artikel II.34, 1° en 6°, in artikel II.35, 2° en 3°, en in artikel II.36, § 1, tweede lid, 5°, 6° en 7°, niet ingeroepen worden om de openbaarmaking te weigeren.<br>
-<br>
-Als de aanvraag tot openbaarmaking betrekking heeft op bestuursdocumenten die meer dan honderdtwintig jaar geleden opgemaakt of ontvangen zijn of als de aanvraag betrekking heeft op persoonsgegevens van een persoon die meer dan twintig jaar geleden overleden is, kunnen ook de uitzonderingsgronden, vermeld in artikel II.34, 2°, en in artikel II.36, § 1, tweede lid, 1°, niet ingeroepen worden om de openbaarmaking te weigeren.
+Als de aanvraag tot openbaarmaking betrekking heeft op bestuursdocumenten die meer dan tien jaar geleden opgemaakt of ontvangen zijn, kunnen de overheidsinstanties, vermeld in artikel II.28, §1, de aanvraag alleen nog afwijzen als ze van oordeel zijn dat de belangen, vermeld in artikel II.34 tot en met II.36, ondanks het tijdsverloop nog geschaad worden door openbaarmaking.
 
 ### ART II.38.
 
@@ -568,7 +573,7 @@ Onder informatie van persoonlijke aard wordt verstaan: informatie die betrekking
 Het tweede lid is niet van toepassing als de aanvraag betrekking heeft op:<br>
 1° informatie van persoonlijke aard over de aanvrager zelf;<br>
 2° milieu-informatie;<br>
-3° bestuursdocumenten die meer dan dertig jaar geleden opgemaakt of ontvangen zijn;<br>
+3° ...<br>
 4° bestuursdocumenten die aangevraagd worden in het kader van wetenschappelijk onderzoek als vermeld in artikel II.38.<br>
 <br>
 § 4. Als de aanvraag betrekking heeft op milieu-informatie kan de aanvrager zelf een redelijke termijn voorstellen waarin hij de informatie wil ontvangen.<br>
@@ -718,9 +723,7 @@ De beroepsinstantie kan alle betrokken partijen en deskundigen horen en de perso
 
 ### ART II.52.
 
-Dit hoofdstuk regelt het recht van burgers om bestuursdocumenten te hergebruiken voor andere commerciële of niet-commerciële doeleinden dan het oorspronkelijke doel binnen de publieke taak waarvoor de bestuursdocumenten zijn geproduceerd.<br>
-<br>
-Het gebruik van bestuursdocumenten binnen de overheidsinstantie, vermeld in artikel II.53, § 1, uitsluitend voor andere doeleinden binnen de publieke taak en de uitwisseling van bestuursdocumenten tussen overheidsinstanties, vermeld in artikel II.53, § 1, uitsluitend met het oog op de vervulling van hun publieke taak zijn geen hergebruik. De uitwisseling van gegevens tussen overheidsinstanties wordt geregeld in titel III, hoofdstuk 3, afdeling 3.
+Dit hoofdstuk regelt het recht om bestuursdocumenten te hergebruiken voor andere commerciële of niet-commerciële doeleinden dan het oorspronkelijke doel van dienstverlening in het algemeen belang of binnen de publieke taak waarvoor de bestuursdocumenten zijn geproduceerd.
 
 ### ART II.53.
 
@@ -735,14 +738,13 @@ b) ze treden op als exploitant van openbare diensten als vermeld in artikel 2, d
 c) ze vervullen als luchtvaartmaatschappij openbaredienstverplichtingen op grond van artikel 16 van verordening (EG) nr. 1008/2008 van het Europees Parlement en de Raad van 24 september 2008 inzake gemeenschappelijke regels voor de exploitatie van luchtdiensten in de Gemeenschap;<br>
 d) ze verrichten als reder openbare diensten op grond van artikel 4 van verordening (EEG) nr. 3577/92 van de Raad van 7 december 1992 houdende toepassing van het beginsel van het vrij verrichten van diensten op het zeevervoer binnen de Lid-Staten (cabotage in het zeevervoer).<br>
 <br>
-Wat betreft de instellingen met een publieke taak die voldoen aan de voorwaarde, vermeld in artikel I.3, 6°, c), 1), maar niet aan de voorwaarden, vermeld in artikel I.3, 6°, c), 2) of 3), is dit hoofdstuk alleen van toepassing op de bestuursdocumenten die betrekking hebben op beslissingen die derden binden.<br>
-<br>
 § 2. Dit hoofdstuk is van toepassing op de bestuursdocumenten van de overheidsinstanties, vermeld in paragraaf 1, met uitzondering van:<br>
-1° de bestuursdocumenten waarvan de verstrekking een activiteit is die niet valt onder de publieke taak van de betrokken overheidsinstanties, op voorwaarde dat de omvang van de publieke taken transparant is en aan toetsing is onderworpen;<br>
-2° de bestuursdocumenten waarvoor een overheidsinstantie niet de nodige rechten heeft om hergebruik toe te staan;<br>
+1° de bestuursdocumenten waarvan de verstrekking een activiteit is die niet valt onder de publieke taak van de betrokken overheidsinstanties, vermeld in paragraaf 1, 1° tot en met 4°, op voorwaarde dat de omvang van de publieke taken transparant is en aan toetsing is onderworpen;<br>
+2° de bestuursdocumenten waarvan de intellectuele eigendomsrechten bij derden berusten;<br>
 3° de bestuursdocumenten of onderdelen ervan waarvoor de toegang is beperkt of uitgesloten op basis van de geldende bepalingen die de toegang tot bestuursdocumenten nader regelen;<br>
 4° de bestuursdocumenten die in het bezit zijn van openbare omroepen of hun dochterondernemingen en andere instellingen of hun dochterondernemingen om een publiekeomroeptaak te vervullen;<br>
 5° de bestuursdocumenten die in het bezit zijn van onderwijsinstellingen van het secundair of lager niveau, en, in geval van alle andere onderwijsinstellingen, andere dan onderzoeksgegevens, vermeld in paragraaf 3;<br>
+5°/1 andere bestuursdocumenten dan onderzoeksgegevens als vermeld in paragraaf 3 die in het bezit zijn van onderzoeksinstellingen en organisaties die onderzoek financieren, met inbegrip van organisaties die zijn opgericht voor de overdracht van onderzoeksresultaten;<br>
 6° de bestuursdocumenten die in het bezit zijn van andere culturele instellingen dan musea, bibliotheken en archiefinstellingen;<br>
 7° de gedeelten van bestuursdocumenten die alleen logo's, wapens en insignes bevatten;<br>
 8° de broncode van computerprogramma's;<br>
@@ -750,7 +752,7 @@ Wat betreft de instellingen met een publieke taak die voldoen aan de voorwaarde,
 a) ze zijn geproduceerd buiten de context van de levering van diensten van algemeen belang;<br>
 b) ze houden verband met activiteiten die rechtstreeks blootstaan aan concurrentie en bijgevolg niet onder aanbestedingsregels vallen op grond van artikel 116 van de wet van 17 juni 2016 inzake overheidsopdrachten.<br>
 <br>
-§ 3. Voor de toepassing van dit hoofdstuk worden onderzoekgegevens, al dan niet in het bezit van een overheidsinstantie, die met overheidsmiddelen zijn gefinancierd en die openbaar zijn gemaakt via een institutionele of thematische databank door onderzoekers, onderzoeksinstellingen of financierende organisaties, beschouwd als bestuursdocumenten. Daarbij wordt rekening gehouden met de gerechtvaardigde handelsbelangen, activiteiten inzake kennisoverdracht en al bestaande intellectuele eigendomsrechten.<br>
+§ 3. Voor de toepassing van dit hoofdstuk worden onderzoekgegevens, al dan niet in het bezit van een overheidsinstantie, die met overheidsmiddelen zijn gefinancierd en die openbaar zijn gemaakt via een institutionele of thematische databank door onderzoekers, onderzoeksinstellingen of organisaties die onderzoek financieren, beschouwd als bestuursdocumenten. Daarbij wordt rekening gehouden met de gerechtvaardigde handelsbelangen, activiteiten inzake kennisoverdracht en al bestaande intellectuele eigendomsrechten.<br>
 &nbsp;
 
 ### ART II.53/1.
@@ -779,7 +781,10 @@ In dit hoofdstuk wordt verstaan onder:<br>
 7° onderzoeksgegevens: andere documenten in digitale vorm dan wetenschappelijke publicaties, die worden verzameld of geproduceerd tijdens wetenschappelijke onderzoeksactiviteiten en die als bewijs in het onderzoeksproces worden gebruikt, of waarvan binnen de onderzoeksgemeenschap algemeen wordt erkend dat ze noodzakelijk zijn om onderzoeksresultaten te valideren;<br>
 8° hoogwaardige datasets: documenten waarvan het hergebruik belangrijke voor- delen biedt voor de samenleving, het milieu en de economie, namelijk doordat ze geschikt zijn om diensten met toegevoegde waarde en toepassingen te ontwikkelen, en om nieuwe, hoogwaardige en fatsoenlijke banen te scheppen, en door het aantal potentiële begunstigden van de diensten of toepassingen met toegevoegde waarde die op basis van die datasets ontwikkeld zijn;<br>
 9° API: een applicatieprogramma-interface, namelijk een reeks functies, procedures, definities en protocollen voor de communicatie van machine naar machine en de naadloze uitwisseling van gegevens;<br>
-10° richtlijn (EU) 2019/1024: richtlijn (EU) 2019/1024 van het Europees Parlement en de Raad van 20 juni 2019 inzake open data en het hergebruik vanoverheidsinformatie.
+10° richtlijn (EU) 2019/1024: richtlijn (EU) 2019/1024 van het Europees Parlement en de Raad van 20 juni 2019 inzake open data en het hergebruik vanoverheidsinformatie.<br>
+11° hergebruik: het gebruik door natuurlijke personen of rechtspersonen van documenten die in het bezit zijn van:<br>
+a)&nbsp;&nbsp; &nbsp;overheidsinstanties als vermeld in artikel II.53, §1, 1° tot en met 4°, voor andere commerciële of niet-commerciële doeleinden dan het oorspronkelijke doel binnen de publieke taak waarvoor de documenten zijn geproduceerd, met uitzondering van het gebruik van bestuursdocumenten binnen de overheidsinstantie, uitsluitend voor andere doeleinden binnen de publieke taak, en de uitwisseling van bestuursdocumenten tussen overheidsinstanties als vermeld in artikel II.53, §1, 1° tot en met 4°, uitsluitend met het oog op de vervulling van hun publieke taken;<br>
+b)&nbsp;&nbsp; &nbsp;overheidsondernemingen voor andere commerciële of niet-commerciële doeleinden dan het oorspronkelijke doel van dienstverlening in het algemeen belang waarvoor de documenten zijn geproduceerd, met uitzondering van het gebruik van bestuursdocumenten binnen de overheidsonderneming, uitsluitend voor andere doeleinden van dienstverlening in het algemeen belang, en de uitwisseling van bestuursdocumenten tussen overheidsondernemingen en overheidsinstanties als vermeld in artikel II.53, §1, 1° tot en met 4°, uitsluitend met het oog op de vervulling van publieke taken door die overheidsinstanties.
 
 ## Afdeling 2. Principes van hergebruik van bestuursdocumenten
 
@@ -789,7 +794,7 @@ Elke overheidsinstantie, vermeld in artikel II.53, § 1, staat het hergebruik va
 <br>
 In afwijking van het eerste lid bepalen&nbsp;de overheidsondernemingen, de bibliotheken, met inbegrip van de bibliotheken van instellingen voor hoger onderwijs, de musea en de archiefinstellingen, met betrekking tot de bestuursdocumenten die ze bezitten en waarop ze de nodige rechten hebben om hergebruik toe te staan, autonoom of het hergebruik van die bestuursdocumenten is toegestaan voor zowel commerciële als niet-commerciële doeleinden en onder welke voorwaarden.<br>
 <br>
-In geval van hergebruik stelt de overheidsinstantie, vermeld in artikel II.53, § 1, de bestuursdocumenten zo veel mogelijk via elektronische weg beschikbaar in de al bestaande formaten of talen en, als dat mogelijk en passend is, in een open en machinaal leesbaar formaat, samen met de metagegevens ervan. Zowel het formaat als de metagegevens voldoen zo veel mogelijk aan formele open standaarden.
+In geval van hergebruik stelt de overheidsinstantie, vermeld in artikel II.53, § 1, de bestuursdocumenten beschikbaar in de al bestaande formaten of talen en, als dat mogelijk en passend is, elektronisch in formaten die open, machinaal leesbaar, toegankelijk, vindbaar en herbruikbaar zijn, samen met de metagegevens ervan. Zowel het formaat als de metagegevens voldoen zo veel mogelijk aan formele open standaarden.
 
 ### ART II.56.
 
@@ -803,7 +808,7 @@ De overheidsinstanties, vermeld in artikel II.53, § 1, produceren bestuursdocum
 
 ### ART II.57.
 
-De verplichtingen, vermeld in artikel II.55 en II.56, brengen voor de overheidsinstanties, vermeld in artikel II.53, § 1, niet de verplichting mee om bestuursdocumenten te creëren of aan te passen om aan een aanvraag tot hergebruik te voldoen, of om uittreksels van bestuursdocumenten te verstrekken, als dat een onevenredige inspanning vereist die verder gaat dan een eenvoudige handeling.
+De verplichtingen, vermeld in artikel II.55, derde lid,&nbsp;en II.56, brengen voor de overheidsinstanties, vermeld in artikel II.53, § 1, niet de verplichting mee om bestuursdocumenten te creëren of aan te passen om aan een aanvraag tot hergebruik te voldoen, of om uittreksels van bestuursdocumenten te verstrekken, als dat een onevenredige inspanning vereist die verder gaat dan een eenvoudige handeling.
 
 ### ART II.58.
 
@@ -821,14 +826,14 @@ In dit artikel wordt verstaan onder dynamische gegevens: documenten in digitale 
 
 ### ART II.58/2.
 
-De overheidsinstanties, vermeld in artikel II.53, § 1, oefenen het recht van een fabrikant van een databank, verleend bij artikel XI.307, eerste lid, van het Wetboek van Economisch Recht van 28 februari 2013, niet uit om het hergebruik van bestuursdocumenten tegen te gaan of om het hergebruik buiten de grenzen, vastgelegd in dit hoofdstuk, te beperken.
+De overheidsinstanties, vermeld in artikel II.53, § 1, 1° tot en met 4°, oefenen het recht van een fabrikant van een databank, verleend bij artikel XI.307, eerste lid, van het Wetboek van Economisch Recht van 28 februari 2013, niet uit om het hergebruik van bestuursdocumenten tegen te gaan of om het hergebruik buiten de grenzen, vastgelegd in dit hoofdstuk, te beperken.
 
 ### ART II.59.
 
 Als een vergoeding wordt gevraagd voor het hergebruik van bestuursdocumenten, blijft deze vergoeding beperkt tot de marginale kosten voor de vermenigvuldiging, verstrekking en verspreiding ervan, en, als dat van toepassing is, voor de anonimisering van persoonsgegevens en voor maatregelen ter bescherming van commercieel vertrouwelijke informatie.<br>
 <br>
 Het eerste lid is niet van toepassing op:<br>
-1° de overheidsinstanties, vermeld in artikel II.53, § 1, die verplicht zijn inkomsten te genereren om een aanzienlijk deel van de kosten van de uitoefening van hun publieke taken te dekken;<br>
+1° de overheidsinstanties, vermeld in artikel II.53, § 1, 1° tot en met 4°, die verplicht zijn inkomsten te genereren om een aanzienlijk deel van de kosten van de uitoefening van hun publieke taken te dekken;<br>
 2° overheidsondernemingen;<br>
 3° bibliotheken, met inbegrip van bibliotheken van instellingen voor hoger onderwijs, musea en archiefinstellingen.<br>
 <br>
@@ -870,7 +875,7 @@ Om het zoeken naar bestuursdocumenten die voor hergebruik beschikbaar zijn, te v
 <br>
 De Vlaamse Regering stelt een lijst vast van de overheidsinstanties, vermeld in artikel II.59, tweede lid, 1°. Die lijst wordt online bekendgemaakt.<br>
 <br>
-Voor een eenvoudigere toegang tot datasets wordt gezorgd voor één enkel toegangspunt en voor de geleidelijke beschikbaarstelling van geschikte datasets die in het bezit zijn van de overheidsinstanties, vermeld in artikel II.53, § 1, met betrekking tot de bestuursdocumenten die voor hergebruik in aanmerking komen, in formaten die toegankelijk, gemakkelijk vindbaar en elektronisch toegankelijk zijn.<br>
+Voor een eenvoudigere toegang tot datasets wordt gezorgd voor één enkel toegangspunt en voor de geleidelijke beschikbaarstelling van geschikte datasets die in het bezit zijn van de overheidsinstanties, vermeld in artikel II.53, § 1, 1° tot en met 4°, met betrekking tot de bestuursdocumenten die voor hergebruik in aanmerking komen, in formaten die toegankelijk, gemakkelijk vindbaar en elektronisch herbruikbaar zijn.<br>
 <br>
 De Vlaamse Regering kan daarvoor de nadere bepalingen vastleggen.
 
@@ -904,15 +909,13 @@ De kosteloze beschikbaarstelling van hoogwaardige datasets, vermeld in artikel I
 
 ### ART II.62/7.
 
-Als de kosteloze beschikbaarstelling van hoogwaardige datasets door overheidsinstanties als vermeld in artikel II.53, § 1, van dit decreet, die verplicht zijn inkomsten te genereren om een aanzienlijk deel van de kosten voor de uitoefening van hun publieke taken te dekken, een belangrijk effect op de begroting van de betrokken overheidsinstanties heeft, zijn die overheidsinstanties vrijgesteld van de vereiste om die hoogwaardige datasets kosteloos beschikbaar te stellen voor een maximale duur van twee jaar na de inwerkingtreding van de relevante uitvoeringshandeling, vermeld in artikel 14, lid 1, van de richtlijn (EU) 2019/1024.
+Als de kosteloze beschikbaarstelling van hoogwaardige datasets door overheidsinstanties als vermeld in artikel II.53, § 1,&nbsp;1° tot en met 4°,&nbsp;van dit decreet, die verplicht zijn inkomsten te genereren om een aanzienlijk deel van de kosten voor de uitoefening van hun publieke taken te dekken, een belangrijk effect op de begroting van de betrokken overheidsinstanties heeft, zijn die overheidsinstanties vrijgesteld van de vereiste om die hoogwaardige datasets kosteloos beschikbaar te stellen voor een maximale duur van twee jaar na de inwerkingtreding van de relevante uitvoeringshandeling, vermeld in artikel 14, lid 1, van de richtlijn (EU) 2019/1024.
 
 ## Afdeling 3. Aanvraagprocedure
 
 ### ART II.62/8.
 
-Deze afdeling is niet van toepassing op:<br>
-1° overheidsondernemingen;<br>
-2° onderwijsinstellingen, onderzoeksinstellingen en organisaties die onderzoek financieren, als de bestuursdocumenten die worden aangevraagd, betrekking hebben op onderzoeksgegevens.
+Deze afdeling is van toepassing op de overheidsinstanties, vermeld in artikel II.53, §1, 1° tot en met 4°, met uitzondering van onderwijsinstellingen, onderzoeksinstellingen en organisaties die onderzoek financieren.
 
 ### ART II.63.
 
@@ -927,19 +930,19 @@ Als de aanvraag wordt ingediend bij een overheidsinstantie die het bestuursdocum
 
 ### ART II.64.
 
-De overheidsinstantie, vermeld in artikel II.53, § 1, die een aanvraag tot hergebruik ontvangt voor een bestuursdocument dat ze in haar bezit heeft, bevestigt de ontvangst van de aanvraag uiterlijk binnen tien kalenderdagen, als ze binnen die termijn de aanvraag nog niet heeft beantwoord.
+De overheidsinstantie, vermeld in artikel&nbsp;II.62/8, die een aanvraag tot hergebruik ontvangt voor een bestuursdocument dat ze in haar bezit heeft, bevestigt de ontvangst van de aanvraag uiterlijk binnen tien kalenderdagen, als ze binnen die termijn de aanvraag nog niet heeft beantwoord.
 
 ### ART II.64/1.
 
-Als de aanvraag kennelijk onredelijk is of op een te algemene wijze is geformuleerd, verzoekt de overheidsinstantie, vermeld in artikel II.53, § 1, zo spoedig mogelijk, en uiterlijk binnen twintig kalenderdagen, de aanvrager om zijn aanvraag te specificeren of te vervolledigen. De overheidsinstantie motiveert dat verzoek en geeft, als dat mogelijk is, aan welke bijkomende gegevens nodig zijn om de aanvraag te kunnen onderzoeken.
+Als de aanvraag kennelijk onredelijk is of op een te algemene wijze is geformuleerd, verzoekt de overheidsinstantie, vermeld in artikel III.62/8, zo spoedig mogelijk, en uiterlijk binnen twintig kalenderdagen, de aanvrager om zijn aanvraag te specificeren of te vervolledigen. De overheidsinstantie motiveert dat verzoek en geeft, als dat mogelijk is, aan welke bijkomende gegevens nodig zijn om de aanvraag te kunnen onderzoeken.
 
 ### ART II.64/2.
 
-§ 1. De overheidsinstantie, vermeld in artikel II.53, § 1, onderzoekt of de aanvraag ingewilligd kan worden conform de bepalingen van dit hoofdstuk.<br>
+§ 1. De overheidsinstantie, vermeld in artikel IIII.62/8, onderzoekt of de aanvraag ingewilligd kan worden conform de bepalingen van dit hoofdstuk.<br>
 <br>
 De aanvraag wordt zo snel mogelijk en uiterlijk binnen twintig kalenderdagen met een brief, met een e-mail of, in voorkomend geval, met een webformulier beantwoord.<br>
 <br>
-Bij de kennisgeving van de beslissing wordt vermeld dat beroep kan worden ingesteld bij de beroepsinstantie, vermeld in artikel III.90, binnen de termijn, vemeld in artikel II.69, § 2.<br>
+Bij de kennisgeving van de beslissing wordt vermeld dat beroep kan worden ingesteld bij de beroepsinstantie, vermeld in artikel III.90, binnen de termijn, vemeld in artikel II.69/1, §2.<br>
 <br>
 § 2. Als de aanvraag kennelijk onredelijk is als vermeld in artikel II.64/1, of op een te algemene wijze geformuleerd is, begint een nieuwe termijn van twintig kalenderdagen te lopen vanaf het moment dat de aanvrager zijn aanvraag gespecificeerd of vervolledigd heeft.<br>
 <br>
@@ -949,17 +952,17 @@ De verlengingsbeslissing, vermeld in het eerste lid, vermeldt de reden of de red
 
 ### ART II.65.
 
-Als de overheidsinstantie, vermeld in artikel II.53, § 1, de aanvraag tot hergebruik afwijst, deelt ze de aanvrager de gronden voor de afwijzing van het verzoek mee.<br>
+Als de overheidsinstantie, vermeld in artikel&nbsp;II.69/1, §2, de aanvraag tot hergebruik afwijst, deelt ze de aanvrager de gronden voor de afwijzing van het verzoek mee.<br>
 <br>
 Als de overheidsinstantie niet de nodige rechten heeft om hergebruik toe te staan, verwijst ze in haar beslissing naar de natuurlijke of rechtspersoon bij wie de intellectuele eigendomsrechten berusten, als die bekend is, of naar de licentiegever van wie de overheidsinstantie de gevraagde bestuursdocumenten heeft verkregen. Bibliotheken, met inbegrip van bibliotheken van instellingen voor hoger onderwijs, musea en archiefinstellingen zijn niet verplicht de aanvrager door te verwijzen.
 
 ### ART II.66.
 
-§ 1. Als de overheidsinstantie, vermeld in artikel II.53, § 1, beslist dat hergebruik toegestaan is, stelt ze in geval van onvoorwaardelijk hergebruik uiterlijk binnen de termijn van twintig kalenderdagen, vermeld in artikel II.64/2, § 1 en § 2, de bestuursdocumenten in kwestie ter beschikking van de aanvrager.<br>
+§ 1. Als de overheidsinstantie, vermeld in artikel&nbsp;II.69/1, §2, beslist dat hergebruik toegestaan is, stelt ze in geval van onvoorwaardelijk hergebruik uiterlijk binnen de termijn van twintig kalenderdagen, vermeld in artikel II.64/2, § 1 en § 2, de bestuursdocumenten in kwestie ter beschikking van de aanvrager.<br>
 <br>
-Als de overheidsinstantie, vermeld in artikel II.53, § 1, oordeelt dat ze de gevraagde bestuursdocumenten moeilijk tijdig kan verzamelen, wordt de termijn, vermeld in het eerste lid, op veertig kalenderdagen gebracht, conform artikel II.64/2, § 3.<br>
+Als de overheidsinstantie, vermeld in artikel II.69/1, §2, oordeelt dat ze de gevraagde bestuursdocumenten moeilijk tijdig kan verzamelen, wordt de termijn, vermeld in het eerste lid, op veertig kalenderdagen gebracht, conform artikel II.64/2, § 3.<br>
 <br>
-§ 2. In geval van voorwaardelijk hergebruik, bezorgt de overheidsinstantie, vermeld in artikel II.53, § 1, de bestuursdocumenten in kwestie aan de aanvrager, samen met een modellicentie als vermeld in artikel II.61, § 1, binnen de termijnen, vermeld in paragraaf 1.<br>
+§ 2. In geval van voorwaardelijk hergebruik, bezorgt de overheidsinstantie, vermeld in artikel II.69/1, §2, de bestuursdocumenten in kwestie aan de aanvrager, samen met een modellicentie als vermeld in artikel II.61, § 1, binnen de termijnen, vermeld in paragraaf 1.<br>
 <br>
 Als de overheidsinstantie afwijkt van de modellicenties, vermeld in artikel II.61, § 1, bezorgt ze de motivering van die afwijking aan de aanvrager, samen met de voorwaarden die van toepassing zijn, conform artikel II.61, § 2.
 
@@ -969,7 +972,7 @@ Als de overheidsinstantie afwijkt van de modellicenties, vermeld in artikel II.6
 
 De voorwaarden voor het hergebruik van bestuursdocumenten mogen niet discriminerend zijn voor vergelijkbare categorieën van hergebruik.<br>
 <br>
-Als een overheidsinstantie als vermeld in artikel II.53, § 1, bestuursdocumenten hergebruikt als basismateriaal voor activiteiten die buiten de publieke taak vallen, zijn op de verstrekking van die bestuursdocumenten voor de activiteiten dezelfde vergoedingen en voorwaarden van toepassing als die welke gelden voor andere gebruikers.
+Als een overheidsinstantie als vermeld in artikel II.53, § 1, 1° tot en met 4°, bestuursdocumenten hergebruikt als basismateriaal voor activiteiten die buiten de publieke taak vallen, zijn op de verstrekking van die bestuursdocumenten voor de activiteiten dezelfde vergoedingen en voorwaarden van toepassing als die welke gelden voor andere gebruikers.
 
 ### ART II.68.
 
@@ -987,7 +990,7 @@ Exclusiviteitsregelingen die op of na 17 juli 2021 zijn gesloten, worden minsten
 <br>
 De regelingen die exclusieve rechten toekennen, zijn transparant en worden openbaar gemaakt.<br>
 <br>
-In geval van een exclusief recht als vermeld in het eerste lid, wordt in de desbetreffende overeenkomst vastgesteld dat de desbetreffende overheidsinstantie kosteloos een kopie van de gedigitaliseerde culturele hulpbronnen krijgt. Die kopie is na afloop van de exclusiviteitsperiode beschikbaar voor hergebruik.<br>
+In geval van een exclusief recht als vermeld in het eerste lid, wordt in de desbetreffende overeenkomst vastgesteld dat de desbetreffende overheidsinstantie, vermeld in artikel II.53, §1, 1° tot en met 4°,&nbsp;kosteloos een kopie van de gedigitaliseerde culturele hulpbronnen krijgt. Die kopie is na afloop van de exclusiviteitsperiode beschikbaar voor hergebruik.<br>
 <br>
 § 4/1. Juridische of praktische regelingen die, zonder expliciet in de toekenning van exclusiviteitsrechten te voorzien, tot doel hebben of redelijkerwijs kunnen worden geacht de beschikbaarheid van documenten voor hergebruik door andere partijen dan de derde partij bij de regeling te beperken, worden minstens twee maanden voor de inwerkingtreding van die regeling online openbaar gemaakt. De gevolgen van die juridische of praktische regelingen voor de beschikbaarheid van gegevens voor hergebruik worden regelmatig, en in elk geval om de drie jaar, geëvalueerd. De uiteindelijke regelingen zijn transparant en worden online openbaar gemaakt.<br>
 <br>
@@ -998,6 +1001,10 @@ In deze paragraaf wordt verstaan onder derde partij: een natuurlijke of rechtspe
 Exclusiviteitsregelingen die door overheidsondernemingen zijn gesloten, die al bestaan op 16 juli 2019 en die niet voor een uitzondering als vermeld in paragraaf 2 en 4 in aanmerking komen, worden aan het eind van het contract en in elk geval uiterlijk op 17 juli 2049 beëindigd.
 
 ## Afdeling 5. Beroepsprocedure
+
+### ART II.69.
+
+Deze afdeling is van toepassing op de overheidsinstanties, vermeld in artikel II.53, §1, 1° tot en met 4°, met uitzondering van onderwijsinstellingen, onderzoeksinstellingen en organisaties die onderzoek financieren.
 
 ### ART II.69.
 
@@ -1042,7 +1049,7 @@ De beroepsinstantie brengt de betrokken overheidsinstantie tegelijkertijd op de 
 
 ### ART II.72.
 
-De overheidsinstantie, vermeld in artikel II.53, § 1, verricht, voor het individuele verzoek tot hergebruik, de nieuwe noodzakelijke bestuurshandelingen die in overeenstemming zijn met de elementen waarover de beroepsinstantie zich uitgesproken heeft, binnen vijftien kalenderdagen na de ontvangst van de beslissing van de beroepsinstantie.<br>
+De overheidsinstantie, vermeld in artikel II.69, verricht, voor het individuele verzoek tot hergebruik, de nieuwe noodzakelijke bestuurshandelingen die in overeenstemming zijn met de elementen waarover de beroepsinstantie zich uitgesproken heeft, binnen vijftien kalenderdagen na de ontvangst van de beslissing van de beroepsinstantie.<br>
 <br>
 Als de beroepsinstantie oordeelt dat een afwijzende beslissing die gebaseerd is op artikel II.53, § 2, ongegrond is en als de overheidsinstantie verzuimt om de noodzakelijke bestuurshandelingen te verrichten conform het eerste lid, kan de beroepsinstantie onvoorwaardelijk hergebruik als vermeld in artikel II.61, § 3, toestaan, als ze de gevraagde bestuursdocumenten bezit.
 
@@ -2061,45 +2068,30 @@ Artikel III.70 is ook van toepassing op de instellingen met een publieke taak, w
 § 3. In deze afdeling wordt verstaan onder:<br>
 1° metagegevens: documentatie die beschrijft wat de inhoud en de frequentie van actualisering van de authentieke gegevensbron is, en op welke technische wijze die bron benaderd en ontsloten kan worden;<br>
 2° testgegevens: een kopie van de authentieke gegevensbron waarvan de omvang beperkt is, die technisch dezelfde kenmerken als de authentieke gegevensbron heeft, maar die uit anonieme, geanonimiseerde of fictieve gegevens bestaat;<br>
-3° stuurorgaan: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74.
+3° stuurorgaan: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74.<br>
+4° authentieke gegevensbron: authentieke gegevensbron als vermeld in artikel 2, 1°, van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator.
 
 ## Onderafdeling 2. [... (opgeh. decr. 23 juni 2023, art. 93)]
 
 ### ART III.66.
 
-§ 1. De Vlaamse Regering erkent, op voorstel van het stuurorgaan, als authentieke gegevensbron de meest volledige, kwalitatief hoogstaande verzamelingen van gegevens die op elektronische wijze worden bijgehouden, en die voor de overheidsinstanties, vermeld in artikel III.65, § 2, nuttig of noodzakelijk zijn bij de uitvoering van de taken van algemeen belang waarmee ze zijn belast of bij de uitvoering van de verplichtingen die op hen rusten.<br>
-<br>
-De Vlaamse Regering bepaalt de voorwaarden om als een authentieke gegevensbron te worden erkend.<br>
-<br>
-§ 2. De Vlaamse Regering kan, op voorstel van het stuurorgaan, kandidaat authentieke gegevensbronnen aanwijzen. De Vlaamse Regering bepaalt de wijze waarop de aanpassingen die noodzakelijk zijn om te evolueren naar een erkende authentieke gegevensbron, worden gefinancierd.<br>
-<br>
-§ 3. De Vlaamse Regering kan nadere regels vastleggen voor de toepassing van dit artikel.
+...
 
 ### ART III.67.
 
-§ 1. Bij elke erkenning als authentieke gegevensbron bepaalt de Vlaamse Regering welke overheidsinstantie de betreffende gegevensbron beheert en kan ze bepalen onder welke voorwaarden en op welke wijze de gegevens worden verwerkt.<br>
-<br>
-De overheidsinstanties die authentieke gegevensbronnen beheren, zijn verantwoordelijk voor de instandhouding, de terbeschikkingstelling, de veiligheid, de toegang en het gebruik van de authentieke gegevensbron en van de gegevens van de authentieke gegevensbron in kwestie. Ze kunnen daarvoor zelf of via gegevensinitiatoren als vermeld in paragraaf 2, gegevens bij de burger opvragen.<br>
-<br>
-§ 2. De Vlaamse Regering kan de modaliteiten voor samenwerking tussen gegevensinitiatoren en de overheidsinstanties die authentieke gegevensbronnen beheren nader bepalen en daarbij verplichtingen opleggen.<br>
-<br>
-Onder gegevensinitiator wordt verstaan een overheidsinstantie, vermeld in artikel III.65, § 2, of een derde die exclusieve eindverantwoordelijkheid heeft voor het bijhouden van de levensloop of een of meer eigenschappen van een object.
+...
 
 ## Onderafdeling 3. Rechten en verplichtingen
 
 ### ART III.68.
 
-De overheidsinstanties, vermeld in artikel III.65, § 2,&nbsp;van dit decreet moeten de gegevens die ze nodig hebben voor de uitvoering van de taken van algemeen belang waarmee ze zijn belast of voor de uitvoering van de verplichtingen die op hen rusten,&nbsp;via de tussenkomst van de Vlaamse dienstenintegrator, vermeld in artikel 3, § 1, van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator, opvragen bij gegevensbronnen als vermeld in artikel III.66, § 1, van dit decreet. De Vlaamse Regering kan daarbij per voormelde gegevensbron en per overheidsinstantie of groep van overheidsinstanties een tijdschema vastleggen na advies van het stuurorgaan.<br>
-<br>
-De Vlaamse Regering stelt vast, op voorstel van het stuurorgaan, welke gegevensbronnen die een externe overheid beheert, de overheidsinstanties, vermeld in artikel III.65, § 2, moeten raadplegen voor de uitvoering van de taken van algemeen belang waarmee ze zijn belast, of voor de uitvoering van de verplichtingen die op hen rusten.&nbsp;In dat geval doen de overheidsinstanties, vermeld in artikel III.65, § 2, een beroep op de tussenkomst van de Vlaamse dienstenintegrator, vermeld in het eerste lid. De Vlaamse Regering kan daarbij per voormelde gegevensbron en per overheidsinstantie of groep van overheidsinstanties een tijdschema vastleggen na advies van het stuurorgaan.<br>
-<br>
-De Vlaamse Regering kan met de externe overheden de nodige akkoorden sluiten zodat de gegevens die in die voormelde gegevensbronnen opgenomen zijn, kunnen worden gebruikt.
+...
 
 ### ART III.69.
 
 Alleen als er geen verplicht te gebruiken gegevensbron bestaat, kunnen de overheidsinstanties, vermeld in artikel III.65, § 2, gegevens bij de burger opvragen.<br>
 <br>
-De Vlaamse Regering bepaalt, na advies van het stuurorgaan, de datum vanaf wanneer de burgers gerechtigd zijn om, zonder verlies van rechten, te weigeren bepaalde gegevens als vermeld in artikel III.68, eerste en tweede lid, ter beschikking te stellen van de overheidsinstantie. De Vlaamse Regering bepaalt daarbij telkens nader onder welke voorwaarden het weigeringsrecht wordt toegestaan en welke gevolgen het weigeringsrecht voor de betrokken burger en voor de betrokken overheidsinstantie heeft.
+De Vlaamse Regering bepaalt, na advies van het stuurorgaan, de datum vanaf wanneer de burgers gerechtigd zijn om, zonder verlies van rechten, te weigeren bepaalde gegevens&nbsp;van een authentieke gegevensbron&nbsp;ter beschikking te stellen van de overheidsinstantie. De Vlaamse Regering bepaalt daarbij telkens nader onder welke voorwaarden het weigeringsrecht wordt toegestaan en welke gevolgen het weigeringsrecht voor de betrokken burger en voor de betrokken overheidsinstantie heeft.
 
 ### ART III.70.
 
@@ -2108,13 +2100,13 @@ De Vlaamse Regering bepaalt, na advies van het stuurorgaan, de datum vanaf wanne
 2° bij iedere nieuwe toepassing van het elektronische bestuurlijke gegevensverkeer vooraf adequate technische en organisatorische maatregelen in te bouwen voor de naleving van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens;<br>
 3° op elk moment te waken over de kwaliteit en de veiligheid van gegevens en alle maatregelen te treffen om een perfecte bewaring van persoonsgegevens te garanderen.<br>
 <br>
-§ 2. De elektronische mededeling van gegevens uit gegevensbronnen als vermeld in artikel III.66, § 1, aan andere overheidsinstanties als vermeld in artikel III.65, § 2, is kosteloos.<br>
+§ 2. De elektronische mededeling van gegevens uit&nbsp;authentieke gegevensbronnen; aan andere overheidsinstanties als vermeld in artikel III.65, § 2, is kosteloos.<br>
 <br>
 De Vlaamse Regering kan regels bepalen om de kosten voor de elektronische mededeling van die gegevens aan externe overheden aan te rekenen.
 
 ### ART III.71.
 
-§ 1. De overheidsinstanties, vermeld in artikel III.65, § 2, stellen de metagegevens van de gegevensbronnen, vermeld in artikel III.66, § 1, kosteloos en publiekelijk open, zonder evenwel inbreuk te plegen op de intellectuele rechten en de confidentialiteitsverplichtingen die met die gegevensbronnen samenhangen, en zonder informatie bekend te maken die ongeoorloofde toegang of ongeoorloofd gebruik van de gegevensbronnen mogelijk maakt of de integriteit ervan in gevaar brengt.<br>
+§ 1. De overheidsinstanties, vermeld in artikel III.65, § 2, stellen de metagegevens van de&nbsp;authentieke gegevensbronnen kosteloos en publiekelijk open, zonder evenwel inbreuk te plegen op de intellectuele rechten en de confidentialiteitsverplichtingen die met die gegevensbronnen samenhangen, en zonder informatie bekend te maken die ongeoorloofde toegang of ongeoorloofd gebruik van de gegevensbronnen mogelijk maakt of de integriteit ervan in gevaar brengt.<br>
 <br>
 Ze stellen testgegevens ter beschikking overeenkomstig titel II, hoofdstuk 4.<br>
 <br>
@@ -2155,7 +2147,7 @@ Het stuurorgaan staat het agentschap Digitaal Vlaanderen in zijn hoedanigheid va
 <br>
 Het stuurorgaan brengt advies uit over:<br>
 1° de mogelijke ontsluiting via de Vlaamse dienstenintegrator, vermeld in artikel 3 van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator, en de geografische data-infrastructuur, vermeld in artikel 12 van het GDI-decreet van 20 februari 2009, van gegevensbronnen of authentieke gegevensbronnen en diensten;<br>
-2° de mogelijke aanpassing van de gegevensbronnen zodat, als dat mogelijk is, alleen authentieke gegevens worden ontsloten en als dusdanig kunnen worden erkend;<br>
+2° de mogelijke aanpassing van de gegevensbronnen zodat, als dat mogelijk is, alleen authentieke gegevens worden ontsloten;<br>
 3° de optimalisering binnen de Vlaamse overheid en de lokale overheden van de aanmaak, het gebruik, het beheer van en de uitwisseling tussen gegevensbronnen en authentieke gegevensbronnen;<br>
 4° een gestructureerde aanpak bij de uitbouw van een stelsel van Vlaamse authentieke gegevensbronnen, met inbegrip van het promoten, begeleiden en coördineren van Vlaamse authentieke gegevensbronnen bij de Vlaamse overheid en de lokale overheden;<br>
 5° het gebruik van verwijzingen naar het gegeven in de gegevensbron of de authentieke gegevensbron voor gegevens die geheel of gedeeltelijk overlappen met een authentiek gegeven in een authentieke gegevensbron;<br>
@@ -2211,6 +2203,8 @@ Het strategische plan kan de volgende informatie bevatten:<br>
 4° de Vlaamse openbare instellingen die niet behoren tot de Vlaamse administratie, behalve wat artikel III.84 betreft;<br>
 5° de lokale overheden, behalve wat artikel III.83, § 2, III.84 en III.88, § 2, betreft.<br>
 <br>
+De Vlaamse Regering kan bepalen welke instellingen met publieke taak onder het toepassingsgebied van deze afdeling vallen. De Vlaamse Regering kan daarbij per artikel een tijdschema vastleggen na advies van het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74 van het Bestuursdecreet van 7 december 2018.<br>
+<br>
 § 2. Deze afdeling is van toepassing op de bestuursdocumenten die de overheidsinstanties, vermeld in paragraaf 1, bezitten, met uitzondering van de bestuursdocumenten van de lokale overheden die geen intergemeentelijke samenwerkingsverbanden zijn, als die bestuursdocumenten geen nut meer hebben voor de administratie of als ze betrekking hebben op federale aangelegenheden.
 
 ## Onderafdeling 2. Zorg en beheer
@@ -2239,7 +2233,7 @@ Het eerste lid is ook van toepassing op de bestuursdocumenten die de overheidsin
 <br>
 § 2. De overheidsinstanties, vermeld in artikel III.79, § 1, publiceren de categorieën van bestuursdocumenten waarvoor ze de bestuurlijke verantwoordelijkheid dragen en de selectieregels in het centrale register van de Vlaamse overheid.<br>
 <br>
-§ 3. De Vlaamse Regering stelt de nadere regels vast voor dat register en kan bepalen onder welke voorwaarden afgeweken kan worden van de publicatie in het centrale register.
+§ 3. De Vlaamse Regering stelt de nadere regels vast voor dat register, de publieke raadpleegbaarheid ervan&nbsp;en kan bepalen onder welke voorwaarden afgeweken kan worden van de publicatie in het centrale register.
 
 ### ART III.83.
 
@@ -2286,14 +2280,23 @@ De Vlaamse Regering kan de taken, vermeld in het eerste lid, concretiseren of aa
 
 ### ART III.87.
 
-§ 1. Voor elke categorie van bestuursdocumenten worden selectieregels opgesteld die minstens de volgende gegevens bevatten:<br>
+§ 1.&nbsp;Voor elke categorie van bestuursdocumenten en voor de persoonsgegevens die erin zijn opgenomen, worden selectieregels opgesteld die minstens de vol- gende elementen bevatten:<br>
 1° een betekenisvolle naam en omschrijving;<br>
 2° het administratieve of juridische nut, verduidelijkt door een bewaartermijn met bijbehorende motivering;<br>
 3° de aanduiding van de waarde voor het algemeen belang, wetenschappelijk of historisch onderzoek of statistische doeleinden, verduidelijkt door de definitieve bestemming, die ofwel een vernietiging ofwel een permanente bewaring inhoudt, met bijbehorende motivering.<br>
 <br>
 De selectiecommissie, vermeld in artikel III.88, § 1, kan beslissen dat de selectieregels meer gegevens moeten bevatten.<br>
 <br>
-§ 2. De selectieregels hebben uitwerking vanaf de bekendmaking ervan in het register, vermeld in artikel III.82, § 2.<br>
+De selectiecommissie, vermeld in artikel III.88, §1, houdt bij de beoordeling van de selectieregels rekening met de volgende criteria:<br>
+1° de toepasselijke regelgeving met betrekking tot de verwerking van persoonsgegevens, in het bijzonder:<br>
+a)&nbsp;&nbsp; &nbsp;het doel van de verwerking van de persoonsgegevens;<br>
+b)&nbsp;&nbsp; &nbsp;de mate waarin een bewaartermijn van gegevens bij of krachtens een wet of decreet is bepaald, of de mate waarin er een voldoende substantieel verband bestaat met wettelijke, decretale of reglementaire termijnen;<br>
+c)&nbsp;&nbsp; &nbsp;de bewaartermijn gedurende welke bij gebrek aan een bewaartermijn als vermeld in punt b) de bewaring noodzakelijk is in functie van het doel van de verwerking;<br>
+d)&nbsp;&nbsp; &nbsp;de mate waarin kan worden voorzien in maatregelen die de identificatie van de betrokkene belemmeren;<br>
+2° &nbsp; de onderlinge consistentie tussen de selectieregels;<br>
+3° de motiveringen die de bewaartermijnen en de bestemmingen toelichten.<br>
+<br>
+§ 2. De selectieregels hebben uitwerking vanaf de bekendmaking ervan in het register, vermeld in artikel III.82, § 2, dat publiek raadpleegbaar is.<br>
 <br>
 § 3. De bekendgemaakte selectieregels zijn geldig voor de duur van ten hoogste vijf jaar of tot op het moment dat de bestuurlijke verantwoordelijkheid voor bestuursdocumenten overgedragen wordt conform artikel III.83.<br>
 <br>
@@ -2325,13 +2328,36 @@ De Vlaamse Regering stelt de nadere regels vast voor de inhoud en de bekendmakin
 
 ## [Onderafdeling 5. Scanning van bestuursdocumenten (ing. decr. 23 juni 2023, art. 102, I: 21 augustus 2023)]
 
+### ART III.89/1.
+
+§1. Dit artikel is van toepassing op de volgende instanties:<br>
+1°&nbsp;&nbsp; &nbsp;de overheidsinstanties, vermeld in artikel III.79, §1, 1° tot en met 4°;<br>
+2°&nbsp;&nbsp; &nbsp;de kabinetten van de leden van de Vlaamse Regering.<br>
+<br>
+§2. De door de Vlaamse Regering aan te wijzen entiteit, bevoegd voor het facilitair management en documentbeheer, hierna de entiteit te noemen, kan op verzoek van een instantie als vermeld in paragraaf 1 instaan voor de scanning en, in voorkomend geval, de vervanging van de volgende bestuursdocumenten door elektronische kopieën, met toepassing van artikel II.25 van het Bestuursdecreet van 7 december 2018:<br>
+1° de bestuursdocumenten die de instantie in kwestie via analoge weg ontvangt;<br>
+2° de bestuursdocumenten die de instantie in kwestie beheert overeenkomstig<br>
+onderafdeling 2.<br>
+<br>
+De entiteit kan op verzoek van een instantie als vermeld in paragraaf 1 instaan voor het openen en doorsturen van elektronische berichten die geadresseerd zijn aan bepaalde elektronische adressen van de instantie in kwestie.<br>
+<br>
+Bij de uitvoering van de opdrachten, vermeld in het eerste en tweede lid, is de entiteit gemachtigd om:<br>
+1° de berichten die geadresseerd zijn aan een andere instantie of aan een personeelslid van die instantie, te openen;<br>
+2° met toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens bestuursdocumenten die persoonsgegevens bevatten, te verwerken.<br>
+<br>
+De personeelsleden van de entiteit zijn bij de uitvoering van de opdrachten, vermeld in het eerste en tweede lid, gebonden aan een geheimhoudingsverplichting.<br>
+<br>
+De entiteit treedt voor de opdrachten, vermeld in het eerste, tweede en derde lid, op als verwerker als vermeld in artikel 4, 8), van de algemene verordening gegevensbescherming ten behoeve van de instanties.<br>
+<br>
+De Vlaamse Regering kan de instanties, vermeld in paragraaf 1, verplichten om gebruik te maken van de dienstverlening van de entiteit.
+
 ## Afdeling 6. Beroepsinstantie openbaarheid van bestuur en hergebruik van overheidsinformatie
 
 ### ART III.90.
 
 Er wordt een beroepsinstantie opgericht, samengesteld uit personeelsleden van de Vlaamse administratie of van de lokale overheden, die belast is met het behandelen van beroepen over:<br>
 1° de toegang tot bestuursdocumenten als vermeld in artikel II.48;<br>
-2° het hergebruik van overheidsinformatie als vermeld in artikel II.69.<br>
+2° het hergebruik van overheidsinformatie als vermeld in artikel II.69/1 en het hergebruik van gegevens als vermeld in artikel II.73/2.<br>
 <br>
 De Vlaamse Regering stelt de nadere regels vast met betrekking tot de samenstelling en de werkwijze van de beroepsinstantie.
 
