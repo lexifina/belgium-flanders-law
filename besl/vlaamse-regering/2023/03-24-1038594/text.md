@@ -247,6 +247,17 @@ De opvolging door het expertenpanel mondt uit in een eindevaluatie van de tijdel
 
 ## Hoofdstuk 5. Slotbepalingen
 
+### ART 11.
+
+Artikel 1 tot en met 6 en artikel 9 tot en met 10 van dit besluit hebben uitwerking met ingang van 1 september 2022 en treden buiten werking op 1 september 2025.<br>
+<br>
+Artikel 7 en 8 treden in werking op de dag van de bekrachtiging van dit besluit door de Vlaamse Regering volgend op de stemming ervan in het Vlaams parlement en treedt buiten werking op 1 september 2025.<br>
+&nbsp;
+
+### ART 12.
+
+De Vlaamse minister, bevoegd voor onderwijs en vorming, is belast met de uitvoering van dit besluit.
+
 ### BIJLAGE
 
 Bijlage 1 . Overzicht van tijdelijke projecten in het kader van de herwaardering van het lerarenambt in het basisonderwijs als vermeld in artikel 5, tweede lid<br>
