@@ -2,6 +2,13 @@
 
 ## Hoofdstuk 1. Wijziging van het besluit van de Vlaamse Regering van 8 december 2006 betreffende het onderhoud en het nazicht van centrale stooktoestellen voor de verwarming van gebouwen of voor de aanmaak van warm verbruikswater
 
+### ART 2.
+
+Artikel 31 van hetzelfde besluit, opgeheven bij het besluit van de Vlaamse Regering van 16 mei 2014, wordt opnieuw opgenomen in de volgende lezing.<br>
+&nbsp;&nbsp; &nbsp;<br>
+“Art. 31. In afwijking van artikel 15, §7, in fine, gebeurt de melding voor het eerst vanaf 1 september 2023.”.<br>
+&nbsp;
+
 ## Hoofdstuk 2. Wijziging van het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid
 
 ## Hoofdstuk 3. Wijzigingen van het Energiebesluit van 19 november 2010
@@ -146,3 +153,11 @@ In artikel 9.2.9 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse
 ## Hoofdstuk 5. Wijziging van het besluit van 4 februari 2022 van de Vlaamse Regering tot oprichting van een uniek loket voor de aanvraag en behandeling van bepaalde woon- en energiepremies en tot wijziging van het Energiebesluit van 19 november 2010 en het Besluit van de Vlaamse Codex Wonen van 2021
 
 ## Hoofdstuk 6. Overgangs- en slotbepalingen
+
+### ART 110.
+
+Artikel 12 van het decreet van 17 december 2021 tot wijziging van het Energiedecreet van 8 mei 2009, wat betreft toewijzingen aan het Energiefonds, wijzigingen betreffende flexibiliteit en energiedelen, de uitbouw van het energiedataplatform en de herziening van de administratieve geldboetes aangaande installatie-eisen treedt in werking op 1 oktober 2023.&nbsp;
+
+### ART 113.
+
+Artikel 6.4.1/5/2, §3, eerste lid, van het Energiebesluit van 19 november 2010, zoals gewijzigd bij artikel 24 van dit besluit, is van toepassing op aanvragen ingediend vanaf 1 januari 2023.
