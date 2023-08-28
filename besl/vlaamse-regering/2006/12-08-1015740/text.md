@@ -475,7 +475,7 @@ Een schoorsteenveger mag alleen een reinigingsattest opstellen voor het gedeelte
 
 ### ART. 31.
 
-<P>...</P>
+<p>In afwijking van artikel 15, §7, in fine, gebeurt de melding voor het eerst vanaf 1 september 2023.</p>
 
 ### ART. 32.
 
