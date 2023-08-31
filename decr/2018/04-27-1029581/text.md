@@ -586,15 +586,16 @@ Voor de toepassing van het tweede lid is artikel 25, eerste lid, van overeenkoms
 2° een gezin waarin de rechthebbende leerling ingevolge een gerechtelijke uitspraak of een tussenkomst van een publiekrechtelijke overheid of instelling zijn woonplaats heeft bij een andere natuurlijke persoon dan de ouders, of een gezin waarin de rechthebbende leerling op 31 augustus voorafgaand aan het schooljaar in kwestie zijn woonplaats heeft bij een andere natuurlijke persoon dan één ouder of beide ouders;<br>
 3° gehuwde leerlingen;<br>
 4° zelfstandige leerlingen;<br>
-5° alleenstaande leerlingen.<br>
+5° alleenstaande leerlingen;<br>
+6° de leerling die materiële ondersteuning krijgt als vermeld in artikel 68, §2/1.<br>
 <br>
 § 2. De categorie waartoe een gezin behoort, wordt voor elke rechthebbende leerling als vermeld in artikel 24, afzonderlijk bepaald.<br>
 <br>
 § 3. De Vlaamse Regering geeft een nadere begripsomschrijving van de verschillende categorieën van gezinnen op basis waarvan de selectieve participatietoeslag leerling wordt berekend, en bepaalt met welke inkomsten van welke personen rekening wordt gehouden om de gezinsinkomsten, vermeld in artikel 39, vast te stellen.<br>
 <br>
-§ 4. Om te bepalen tot welke categorie van gezin een rechthebbende leerling als vermeld in artikel 24, behoort, wordt eerst nagegaan of de leerling voldoet aan de voorwaarden voor de categorie van gehuwde leerlingen, vermeld in paragraaf 1, 3°, dan of de leerling voldoet aan de voorwaarden voor de categorie van zelfstandige leerlingen, vermeld in paragraaf 1, 4°, daarna of de leerling voldoet aan de voorwaarden van de categorie van het gezin waarin de leerling zijn woonplaats heeft, vermeld in paragraaf 1, 1°, vervolgens of de leerling voldoet aan de voorwaarden voor de categorie van het gezin, vermeld in paragraaf 1, 2°.<br>
+§ 4. Om te bepalen tot welke categorie van gezin een rechthebbende leerling als vermeld in artikel 24, behoort, wordt eerst nagegaan of de leerling voldoet aan de voorwaarden voor de categorie van gehuwde leerlingen, vermeld in paragraaf 1, 3°, dan of de leerling voldoet aan de voorwaarden voor de categorie van zelfstandige leerlingen, vermeld in paragraaf 1, 4°, daarna of de leerling voldoet aan de voorwaarden van de categorie van het gezin waarin de leerling zijn woonplaats heeft, vermeld in paragraaf 1, 1°, vervolgens of de leerling voldoet aan de voorwaarden voor de categorie van het gezin, vermeld in paragraaf 1, 2°, vervolgens of de leerling materiële ondersteuning krijgt als vermeld in para-graaf 1, 6°.<br>
 <br>
-Als wordt vastgesteld dat de leerling niet behoort tot een van de categorieën van gezinnen, vermeld in paragraaf 1, 1°, 2°, 3° of 4°, wordt nagegaan of de leerling voldoet aan de voorwaarden voor de categorie van alleenstaande leerling, vermeld in paragraaf 1, 5°.<br>
+Als wordt vastgesteld dat de leerling niet behoort tot een van de categorieën van gezinnen, vermeld in paragraaf 1, 1°, 2°, 3°, 4° of 6°, wordt nagegaan of de leerling voldoet aan de voorwaarden voor de categorie van alleenstaande leerling, vermeld in paragraaf 1, 5°.<br>
 <br>
 Als wordt vastgesteld dat de leerling niet behoort tot een van de categorieën van gezinnen, vermeld in paragraaf 1, wordt de leerling beschouwd als een persoon die behoort tot de categorie van gezin, vermeld in paragraaf 1, 1° of 2°, waarbij, in voorkomend geval, wordt uitgegaan van de laatste woonplaats van de leerling bij één ouder of bij een andere natuurlijke persoon als vermeld in paragraaf 1, 2°.
 
@@ -642,7 +643,7 @@ In afwijking van artikel 39 heeft een rechthebbende leerling als vermeld in arti
 1° elke persoon in het gezin die fiscaal ten laste is van personen van wie de gezinsinkomsten bij de berekening van de selectieve participatietoeslag in aanmerking worden genomen;<br>
 2° elke leerling of student in het gezin die niet meer fiscaal ten laste is van de personen van wie de gezinsinkomsten bij de berekening van de selectieve participatietoeslag in aanmerking worden genomen, omdat hij bestaansmiddelen heeft gehad, op voorwaarde dat hij niet in aanmerking komt voor het statuut van gehuwde, zelfstandige of alleenstaande leerling of student;<br>
 3° elke persoon van wie de gezinsinkomsten bij de berekening van de selectieve participatietoeslag in aanmerking worden genomen, en die op 31 december van het schooljaar in kwestie fiscaal als gehandicapt wordt aangemerkt;<br>
-4° de categorie van gezin die valt onder het toepassingsgebied van artikel 38, § 1, 1°, 2° of 3°. De categorie van gezin die valt onder het toepassingsgebied van artikel 38, § 1, 4° of 5°, levert een punt op, op voorwaarde dat de gezinsinkomsten van de zelfstandige, respectievelijk alleenstaande leerling in aanmerking genomen kunnen worden bij de berekening van de selectieve participatietoeslag van de persoon, vermeld in paragraaf 1, 1° of 2°.<br>
+4° de categorie van gezin die valt onder het toepassingsgebied van artikel 38, § 1, 1°, 2°, 3° of 6°. De categorie van gezin die valt onder het toepassingsgebied van artikel 38, § 1, 4° of 5°, levert een punt op, op voorwaarde dat de gezinsinkomsten van de zelfstandige, respectievelijk alleenstaande leerling in aanmerking genomen kunnen worden bij de berekening van de selectieve participatietoeslag van de persoon, vermeld in paragraaf 1, 1° of 2°.<br>
 <br>
 § 2. In afwijking van paragraaf 1 wordt elke persoon die valt onder paragraaf 1, 1° of 2°, en die op 31 december van het school- of academiejaar in kwestie fiscaal als gehandicapt wordt aangemerkt, met twee punten gelijkgesteld.<br>
 <br>
@@ -1071,13 +1072,14 @@ In afwijking daarvan worden, als een van de werkelijke opvoeders een pleegzorger
 § 1. De selectieve participatietoeslagen leerling, vermeld in boek 2, deel 2, titel 1, worden rechtstreeks uitbetaald aan de rechthebbende leerling:<br>
 1° als hij behoort tot een categorie van gezin als vermeld in artikel 38, § 1, 3°, 4° of 5° ;<br>
 2° als hij ontvoogd is of de leeftijd van zestien jaar bereikt heeft en zijn woonplaats niet bij de ouders of de werkelijke opvoeders heeft. Aan die laatste voorwaarde is voldaan als de leerling beschikt over een afzonderlijke woonplaats, die als hoofdverblijf is ingeschreven in de bevolkingsregisters overeenkomstig artikel 32, 3°, van het Gerechtelijk Wetboek, of als met officiële documenten wordt aangetoond dat de gegevens in de bevolkingsregisters niet of niet meer overeenstemmen met de realiteit;<br>
-3° als hij zelf begunstigde is van toelagen in het kader van het gezinsbeleid voor een of meer van zijn kinderen.<br>
+3° als hij zelf begunstigde is van toelagen in het kader van het gezinsbeleid voor een of meer van zijn kinderen;<br>
+4° als het een niet-begeleide minderjarige vreemdeling is als vermeld in titel XIII, hoofdstuk 6, van de Programmawet (I) van 24 december 2002, als er geen werkelijke opvoeder kan worden aangewezen.<br>
 <br>
 De leerling, vermeld in het eerste lid, kan evenwel in zijn eigen belang een andere persoon aanwijzen aan wie de selectieve participatietoeslagen leerling worden uitbetaald, op voorwaarde dat die persoon met de leerling verbonden is door verwantschap of aanverwantschap in de eerste graad. De verwantschap die verworven is door adoptie, wordt in aanmerking genomen.<br>
 <br>
 De Vlaamse Regering kan de wijze bepalen waarop de leerling, vermeld in het eerste lid, die andere persoon kan aanwijzen.<br>
 <br>
-De leerling, vermeld in het eerste lid, is rechtsbekwaam om zelf als eiser of verweerder in rechte op te treden in de geschillen over zijn rechten op selectieve participatietoeslagen leerling.<br>
+De leerling, vermeld in het eerste lid, is rechtsbekwaam om zelf als eiser of verweerder in rechte op te treden in de geschillen over zijn rechten op selectieve participatietoeslagen leerling, met behoud van de toepassing van artikel 9, §1, van titel XIII, hoofdstuk 6, van de Programmawet (I) van 24 december 2002.<br>
 <br>
 § 2. De leerling, vermeld in paragraaf 1, of de persoon die is aangewezen door de leerling, wijst een uitbetalingsactor naar keuze aan voor de uitbetaling van de selectieve participatietoeslagen leerling, en geeft een bankrekening op.<br>
 <br>
