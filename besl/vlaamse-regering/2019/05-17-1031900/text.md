@@ -121,7 +121,9 @@ De vorming van een feitelijk gezin kan niet weerlegd worden als de persoon aan w
 
 De leerling die als gehuwd kan worden beschouwd als vermeld in artikel 3, § 1, 16°, van het Groeipakketdecreet van 27 april 2018, wordt beschouwd als een gehuwde leerling als vermeld in artikel 38, § 1, 3°, van het voormelde decreet.<br>
 <br>
-Artikel 3, § 2, is van toepassing om de inkomsten te bepalen waarmee rekening wordt gehouden om het recht op een selectieve participatietoeslag vast te stellen.
+Artikel 3, § 2, is van toepassing om de inkomsten te bepalen waarmee rekening wordt gehouden om het recht op een selectieve participatietoeslag vast te stellen.<br>
+<br>
+In afwijking van het eerste lid wordt de leerling die materiële ondersteuning krijgt als vermeld in artikel 68, §2/1, van het Groeipakketdecreet van 2018, niet als gehuwde leerling beschouwd.
 
 ## Afdeling 3. Zelfstandige leerling
 
@@ -131,7 +133,9 @@ De leerling die ontvoogd is of de leeftijd van zestien jaar bereikt heeft, en zi
 <br>
 De voorwaarde dat de leerling zijn woonplaats niet bij zijn ouders of werkelijke opvoeders heeft, vermeld in het eerste lid, is vervuld als de leerling beschikt over een afzonderlijke woonplaats, namelijk de plaats die als hoofdverblijf is ingeschreven in de bevolkingsregisters conform artikel 32, 3°, van het Gerechtelijk Wetboek, of als met officiële documenten wordt aangetoond dat de gegevens in de bevolkingsregisters niet of niet meer overeenstemmen met de realiteit.<br>
 <br>
-Artikel 3, § 2, is van toepassing om de inkomsten te bepalen waarmee rekening wordt gehouden om het recht op een selectieve participatietoeslag vast te stellen.
+Artikel 3, § 2, is van toepassing om de inkomsten te bepalen waarmee rekening wordt gehouden om het recht op een selectieve participatietoeslag vast te stellen.<br>
+<br>
+In afwijking van het eerste lid wordt de leerling die materiële ondersteuning krijgt als vermeld in artikel 68, §2/1, van het Groeipakketdecreet van 2018, niet als zelfstandige leerling beschouwd.
 
 ## Afdeling 4. Alleenstaande leerling
 
@@ -147,8 +151,8 @@ Artikel 3, § 2, is van toepassing om de inkomsten te bepalen waarmee rekening w
 7° de leerling die uiterlijk op 31 december van het schooljaar in kwestie als gevolg van een beslissing van een jeugdrechter of publiekrechtelijke overheid opgenomen wordt in een multifunctioneel centrum dat erkend is door het Vlaams Agentschap voor Personen met een Handicap als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
 8° de leerling die in het verleden en uiterlijk op 31 december van het schooljaar in kwestie door een beslissing van een jeugdrechter of publiekrechtelijke overheid opgenomen is in een multifunctioneel centrum dat erkend is door het Vlaams Agentschap voor Personen met een Handicap als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
 9° de leerling die uiterlijk op 31 december van het schooljaar in kwestie onder het project voor maatschappelijke integratie, vermeld in artikel 11, § 2, eerste lid, a), van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie, valt en leefloon ontvangt conform artikel 14, § 1, 2°, 3° van de voormelde wet;<br>
-10° de leerling, vermeld in artikel 2, 1° en 2°, van dit besluit, en de leerling die vluchteling of subsidiair beschermde is conform respectievelijk artikel 48/3 en 48/4 van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
-11° de leerling voor wie met toepassing van artikel 68, § 3, van het decreet van 27 april 2018 de gezinsbijslagen worden uitbetaald op een rekeningnummer op naam van de leerling.<br>
+10° de leerling, vermeld in artikel 2, 1°, van dit besluit, en de leerling die vluchteling of subsidiair beschermde is conform respectievelijk artikel 48/3 en 48/4 van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
+11° ...<br>
 <br>
 In het eerste lid wordt verstaan onder besluit van 13 juli 1994: het besluit van de Vlaamse Regering van 13 juli 1994 inzake de erkenningsvoorwaarden en de subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand.<br>
 <br>
