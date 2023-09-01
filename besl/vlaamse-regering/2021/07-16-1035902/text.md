@@ -288,6 +288,10 @@ Op basis van de evaluatie, vermeld in het tweede lid, doet de stuurgroep beleids
 
 ## [Hoofdstuk 6/1. Afwijkingen van het Vergunningsbesluit van 22 november 2013 (ing. BVR 23 juni 2023, art. 1, I: 1 september 2023)]
 
+### ART 26/1.
+
+Om de doelstellingen en opdrachten, vermeld in artikel 5 en 10 van dit besluit, te realiseren, kan het lokale samenwerkingsverband afwijken van de normen, vermeld in artikel 14, 16 en 55 van het Vergunningsbesluit van 22 november 2013.
+
 ## Hoofdstuk 7. Slotbepalingen
 
 ### ART 27.
