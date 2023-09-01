@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037997,
+  "title": "Besluit van de Vlaamse Regering van 2023-01-13 tot erkenning van het graduaat in de werkvoorbereiding hout als nieuwe opleiding van de Katholieke Hogeschool Vives Zuid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037997/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "8d9a18ade80f9f2801d745f513bcd31b2b1af0d83700d8b92bfbaed937cca82b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037997&param=informatie",
+  "as_of": "2023-09-01",
+  "made": "2023-01-13",
+  "gazette": "2023-03-13",
+  "numac": 2023010138,
+  "document_start": "2023-09-01",
+  "document_end": null,
+  "in_force": "2023-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2023-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
