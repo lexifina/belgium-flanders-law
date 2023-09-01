@@ -34,7 +34,7 @@ Nadat de bevoegdheid van de Vlaamse Gemeenschap werd vastgesteld op basis van he
 9° decreet van 8 juni 2007: het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap, zoals tot op heden gewijzigd;<br>
 10° decreet van 7 juli 2017: het decreet van 7 juli 2017 tot oprichting van een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid, tot vaststelling van vergunningsnormen voor private uitbetalingsactoren en tot wijziging van het decreet van 30 april 2004 betreffende de oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
 11° erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor gewoon of buitengewoon basisonderwijs: een erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor gewoon of buitengewoon basisonderwijs als vermeld in hoofdstuk VII van het decreet basisonderwijs van 25 februari 1997;<br>
-12° erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor gewoon of buitengewoon secundair onderwijs: een instelling die structuuronderdelen inricht die voldoen aan het in het besluit van de Vlaamse Regering van 17 december 2010 houdende de codificatie betreffende het secundair onderwijs artikel 13 tot en met artikel 15 gestelde of een instelling die de opleiding Verpleegkunde van het hoger beroepsonderwijs inricht;<br>
+12° erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor gewoon of buitengewoon secundair onderwijs: een instelling die structuuronderdelen inricht die voldoen aan het in het besluit van de Vlaamse Regering van 17 december 2010 houdende de codificatie betreffende het secundair onderwijs artikel 13 tot en met artikel 15 gestelde of een instelling die de opleiding Verpleegkunde van het hoger beroepsonderwijs&nbsp;of die de opleiding Basisverpleegkunde van het hoger beroepsonderwijs inricht;<br>
 13° externe leerling: de leerling die geen interne leerling is als vermeld in artikel 3, § 1, 21° ;<br>
 14° fiscaal ten laste: ten laste volgens artikel 136 tot en met 145 van het Wetboek van de Inkomstenbelastingen 1992;<br>
 15° forfaitaire pleegzorgbijslag: de bijslag als een kind bij een particulier geplaatst is door bemiddeling of ten laste van een openbare overheid, vermeld in artikel 70ter van de Algemene kinderbijslagwet en het koninklijk besluit van 11 juni 2003 tot vaststelling van het bedrag en de toekenningsmodaliteiten van de forfaitaire bijslag, vermeld in artikel 70ter van de samengeordende wetten betreffende de kinderbijslag voor loonarbeiders;<br>
@@ -116,6 +116,8 @@ De bedragen van de toelagen in het kader van het gezinsbeleid, en in voorkomend 
 In afwijking van het voorgaande lid start de jaarlijkse verhoging met een index van 2 %, zoals opgenomen in het vorige lid, voor het bedrag voor het derde jongste kind en oudere kinderen, vermeld in artikel 210, § 2, tweede lid, en het bedrag van de leeftijdsbijslagen, vermeld in artikel 212, § 1 en § 2, en artikel 213, zoals die voor deze bedragen ingevolge de koppeling uit het eerste lid werden bekomen op 31 december 2019, vanaf 1 september 2025.<br>
 <br>
 In afwijking van het vierde lid wordt het basisbedrag, vermeld in artikel 13, en het bedrag voor het jongste kind en het tweede jongste kind, vermeld in artikel 210, § 2, tweede lid, waar de evolutie gekoppeld is aan de jaarlijkse verhoging met een index van 2%, zoals bepaald in het vierde lid,op 1 september 2022 en op 1 december 2022 verhoogd met een index van 1%.<br>
+<br>
+In afwijking van het vierde lid worden de inkomensgrenzen, vermeld in deel 1 van boek 2 en deel 2 van boek 5, die ingevolge de verhoging uit het vierde lid werden bekomen op 30 september 2022, vanaf 1 september 2023 jaarlijks geïndexeerd op 1 september. De indexering is gelijk aan de procentuele stijging van de gezondheidsindex, voor de maand december van het tweede kalenderjaar dat het jaar van de indexering voorafgaat, ten opzichte van de gezondheidsindex voor de maand december van het derde kalenderjaar dat het jaar van de indexering voorafgaat.<br>
 <br>
 § 2. Als ingevolge de toepassing van paragraaf 1 de bedragen van de toelagen eindigen op een gedeelte van een cent, wordt het uit te betalen bedrag vastgesteld zonder rekening te houden met het gedeelte van een cent als dat minder dan 0,5 cent bedraagt. Als het gedeelte 0,5 cent of meer bedraagt, wordt het voor een cent gerekend.<br>
 <br>
@@ -551,7 +553,7 @@ In afwijking van het tweede lid is een leerling die met een erkende leerovereenk
 
 Een selectieve participatietoeslag secundair onderwijs wordt toegekend aan een rechthebbende leerling als vermeld in artikel 24, tot en met het schooljaar waarin de leerling tweeëntwintig jaar wordt.<br>
 <br>
-In afwijking van het eerste lid kan voor leerlingen die ingeschreven zijn in het buitengewoon secundair onderwijs en in de opleiding Verpleegkunde van het hoger beroepsonderwijs, een selectieve participatietoeslag worden toegekend zonder dat daarbij een leeftijdsbeperking geldt.
+In afwijking van het eerste lid kan voor leerlingen die ingeschreven zijn in het buitengewoon secundair onderwijs, in de opleiding Verpleegkunde van het hoger beroepsonderwijs en in de opleiding Basisverpleegkunde van het hoger beroepsonderwijs, een selectieve participatietoeslag worden toegekend zonder dat daarbij een leeftijdsbeperking geldt.
 
 ### ART 36.
 
@@ -693,7 +695,7 @@ De minimale selectieve participatietoeslag bedraagt 121,01 euro.<br>
 
 ### ART 48.
 
-§ 1. Bij de berekening van het bedrag van de selectieve participatietoeslag in het secundair onderwijs wordt eerst nagegaan of de rechthebbende leerling in de opleiding Verpleegkunde van het hoger beroepsonderwijs zit, vervolgens of de rechthebbende leerling, vermeld in artikel 24, voldoet aan de voorwaarden voor de categorie van gehuwde, zelfstandige of alleenstaande leerling, vermeld in artikel 38, vervolgens of de leerling in het derde leerjaar van de derde graad van het technisch secundair onderwijs of beroepsonderwijs zit.<br>
+§ 1. Bij de berekening van het bedrag van de selectieve participatietoeslag in het secundair onderwijs wordt eerst nagegaan of de rechthebbende leerling in de opleiding Verpleegkunde van het hoger beroepsonderwijs&nbsp;of in de opleiding Basisverpleegkunde van het hoger beroepsonderwijs zit, vervolgens of de rechthebbende leerling, vermeld in artikel 24, voldoet aan de voorwaarden voor de categorie van gehuwde, zelfstandige of alleenstaande leerling, vermeld in artikel 38, vervolgens of de leerling in het derde leerjaar van de derde graad van het technisch secundair onderwijs of beroepsonderwijs zit.<br>
 <br>
 § 2. Voor gehuwde, zelfstandige of alleenstaande rechthebbende leerlingen als vermeld in artikel 24, in het voltijds secundair onderwijs is het bedrag van de volledige selectieve participatietoeslag gelijk aan 3.268,73 euro.<br>
 <br>
@@ -725,7 +727,7 @@ De uitzonderlijke selectieve participatietoeslag bedraagt 693,34 euro.<br>
 <br>
 De minimale selectieve participatietoeslag bedraagt 196,55 euro.<br>
 <br>
-§ 6. Voor rechthebbende leerlingen als vermeld in artikel 24, ingeschreven in de opleiding Verpleegkunde van het hoger beroepsonderwijs, bedraagt de volledige selectieve participatietoeslag:<br>
+§ 6. Voor rechthebbende leerlingen als vermeld in artikel 24, ingeschreven in de opleiding Verpleegkunde van het hoger beroepsonderwijs of in de opleiding Basisverpleegkunde van het hoger beroepsonderwijs, bedraagt de volledige selectieve participatietoeslag:<br>
 1° 3.640,66 euro voor interne leerlingen;<br>
 2° 1.212,27 euro voor externe leerlingen.<br>
 <br>
