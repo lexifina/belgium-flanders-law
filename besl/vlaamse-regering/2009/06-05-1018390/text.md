@@ -64,6 +64,8 @@ d) werknemers die om medische redenen, erkend door een arbeidsgeneesheer conform
 a) de wetgeving op de jaarlijkse vakantie van werknemers;<br>
 b) eventueel verhoogd met een aantal bijkomende vakantiedagen voorzien bij Koninklijk Besluit, algemeen verbindend verklaard krachtens artikel 6 van de Gecoördineerde wetten betreffende de jaarlijkse vakantie;<br>
 33° GGMMI: het gewaarborgd gemiddeld minimummaandinkomen, vermeld in artikel 3, eerste lid, van cao nr. 43 van 2 mei 1988 betreffende de waarborg van een gemiddeld minimum maandinkomen.<br>
+34° knelpuntopleiding: een opleiding waarvan het knelpuntkarakter bij de start van de opleidingsactie bepaald wordt. Als een beroepsgerichte opleiding toegang geeft tot ten minste één knelpuntberoep bij de start spreken we van een knelpuntopleiding;<br>
+35° tussentijdse kwalificatie: een kwalificatie die de cursist ontvangt nadat de cursist geslaagd is voor een deel van een knelpuntopleiding, die op zichzelf ook als knelpuntopleiding voor de knelpuntpremie in aanmerking komt.<br>
 <br>
 De Vlaamse minister, bevoegd voor het Tewerkstellingsbeleid, bepaalt, na advies van de raad van bestuur van de VDAB, wat moet worden verstaan onder onderneming in herstructurering als vermeld in het eerste lid, 17° en 18°.
 
@@ -123,9 +125,46 @@ a) de uitgaven zijn betaald aan een van de volgende instellingen:<br>
 4) kleuter- of lagere scholen, of instellingen of opvangvoorzieningen die verbonden zijn aan de school of de inrichtende macht;<br>
 b) de cursist verantwoordt het bedrag van de uitgaven met betalingsbewijzen.<br>
 <br>
-§ 3. ...<br>
+§3. Een cursist heeft recht op een knelpuntpremie voor niet-beroepsactieven als aan al de volgende voorwaarden is voldaan:<br>
+1° de cursist volgt een knelpuntopleiding waarvan de vastgestelde duurtijd minstens negentig kalenderdagen bedraagt;&nbsp;<br>
+2° de cursist is in de twee jaar voor de startdatum van de knelpuntopleiding niet tewerkgesteld voor een periode van minstens negentig kalenderdagen of heeft geen opleiding succesvol voltooid onder het stelsel van de Belgische leerplicht;<br>
+3° de cursist is ten minste twee jaar uitgeschreven uit het secundair onderwijs;&nbsp;<br>
+4° de cursist ontvangt geen inkomen op de startdatum van de knelpuntopleiding.<br>
+Met inkomen wordt bedoeld:<br>
+a)&nbsp;&nbsp; &nbsp;een loon als vermeld in de wet van 12 april 1965 betreffende de bescherming van het loon der werknemers;<br>
+b)&nbsp;&nbsp; &nbsp;een werkloosheidsuitkering als vermeld in het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering;<br>
+c)&nbsp;&nbsp; &nbsp;een RIZIV-uitkering als vermeld in de wet van 14 juli 1994 betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen;<br>
+d)&nbsp;&nbsp; &nbsp;een leefloon als vermeld in de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie of een equivalent van het leefloon als vermeld in artikel 60, §3, van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn;<br>
+e)&nbsp;&nbsp; &nbsp;een rustpensioen als vermeld in hoofdstuk II van het koninklijk besluit nr. 50 van 24 oktober 1967 betreffende het rust- en overlevingspensioen voor werknemers;<br>
+f)&nbsp;&nbsp; &nbsp; inkomen uit een zelfstandige activiteit.<br>
 <br>
-§ 4. De vergoedingen en de premie, vermeld in paragraaf 1 en 2, zijn ten laste van de VDAB.<br>
+De knelpuntpremie voor niet-beroepsactieven wordt als volgt uitbetaald:<br>
+1° de cursist ontvangt een eerste schijf van 750 euro als hij de knelpuntopleiding start. Het bedrag ontvangt de cursist vanaf de vierde week en op voorwaarde dat er voor die periode van de knelpuntopleiding prestaties geregistreerd zijn;<br>
+2° de cursist ontvangt een tweede schijf van 1000 euro als hij succesvol geslaagd is voor een van de volgende onderdelen:<br>
+&nbsp;&nbsp; &nbsp;a) de knelpuntopleiding;<br>
+&nbsp;&nbsp; &nbsp;b) een tussentijdse kwalificatie.<br>
+Als de knelpuntopleiding twee jaar of langer duurt, ontvangt de cursist ieder opleidingsjaar 1000 euro als hij het opleidingsjaar succesvol voltooid heeft.<br>
+Het bedrag ontvangt de cursist één maand na de beëindiging van de knelpuntopleiding of, als de knelpuntopleiding twee jaar of langer duurt, één maand na het einde van het opleidingsjaar.&nbsp;<br>
+De cursist heeft maar één keer per opleidingsjaar recht op de betaling van een tweede schijf van de knelpuntpremie;<br>
+3° de cursist ontvangt een derde schijf van 1500 euro na tewerkstelling als aan al de volgende voorwaarden voldaan is:<br>
+&nbsp;&nbsp; &nbsp;a) &nbsp; de cursist heeft de tweede schijf van de knelpuntpremie voor niet-beroepsactieven ontvangen;<br>
+&nbsp;&nbsp; &nbsp;b) de cursist is succesvol geslaagd voor een knelpuntopleiding of voor een &nbsp;tussentijdse kwalificatie;<br>
+&nbsp;&nbsp; &nbsp;c) &nbsp; de cursist heeft een tewerkstelling van minstens 28 werkdagen gedurende vier maanden nadat hij de knelpuntopleiding beëindigd heeft.<br>
+Onder tewerkgestelde werkdagen wordt verstaan:<br>
+&nbsp;&nbsp; &nbsp;a) &nbsp; dagen die gepresteerd zijn met een arbeidsovereenkomst of onder een ambtenarenstatuut;<br>
+&nbsp;&nbsp; &nbsp;b) &nbsp; dagen die gepresteerd zijn met een IBO-overeenkomst als vermeld in titel III, hoofdstuk III, van dit besluit;<br>
+&nbsp; &nbsp; c) &nbsp; &nbsp;dagen waarvoor de cursist als zelfstandige is ingeschreven.<br>
+Het bedrag ontvangt de cursist vijf maanden nadat hij de knelpuntopleiding beëindigd heeft.&nbsp;<br>
+<br>
+Als de knelpuntopleiding stopgezet wordt vanwege ziekte, overmacht of zwangerschapsverlof, en als de cursist nadien dezelfde knelpuntopleiding opnieuw voortzet uiterlijk één jaar na de stopzetting, behoudt hij het recht op de uitbetaling van de resterende schijven als aan de voorwaarden voldaan is.<br>
+<br>
+De cursist kan maar één opleiding volgen waarbij hij in aanmerking komt voor de volledige knelpuntpremie of een deel ervan.<br>
+<br>
+Overeenkomsten voor knelpuntopleidingen die ingaan vanaf 1 september 2023, komen in aanmerking voor een knelpuntpremie voor niet-beroepsactieven.<br>
+<br>
+De laatste dag waarop een traject voor een knelpuntopleiding, die recht geeft op een knelpuntpremie, kan ingaan, is 31 oktober 2024.<br>
+<br>
+§ 4. De vergoedingen en de premie, vermeld in paragraaf 1 tot en met 3, zijn ten laste van de VDAB.<br>
 <br>
 § 5. De vergoedingen en de premie, vermeld in dit artikel, worden één keer per maand betaald. Ze worden overgeschreven op een bankrekening.
 
