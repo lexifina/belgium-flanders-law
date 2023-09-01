@@ -19,7 +19,7 @@ Het agentschap heeft tot taak :<br>
 4. het meewerken aan de realisatie van het beleid en de beleidsevaluatie, in samenwerking met het departement en de andere agentschappen;<br>
 5. het bijdragen tot een correcte en tijdige toepassing van de financieringswet.<br>
 <br>
-Onder « scholen » wordt verstaan : alle actoren die samen « school » maken : onderwijsinstellingen en scholen voor basis-, secundair en deeltijds kunstonderwijs, leerlingen en ouders, inrichtende machten en schoolbesturen, schoolleiding, personeelsleden, onderwijsinspectie, pedagogische begeleidingsdiensten, centra voor leerlingenbegeleiding, lokale overlegplatforms.
+Onder « scholen » wordt verstaan : alle actoren die samen « school » maken : onderwijsinstellingen en scholen voor basis-, secundair en deeltijds kunstonderwijs, leerlingen en ouders, inrichtende machten en schoolbesturen, schoolleiding, personeelsleden, onderwijsinspectie, pedagogische begeleidingsdiensten, centra voor leerlingenbegeleiding, lokale overlegplatforms&nbsp;en onderwijsinternaten.
 
 ### ART. 4.
 
