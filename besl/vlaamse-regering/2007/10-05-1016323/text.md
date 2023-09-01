@@ -8,15 +8,45 @@ De Vlaamse Regering,<br /><br />Gelet op de wet van 29 mei 1959 tot wijziging va
 
 ### ART. 1.
 
-§ 1. Dit besluit is van toepassing op de door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde:<br />- instellingen van het gewoon en het buitengewoon kleuter-, lager en basisonderwijs;<br />- instellingen van het voltijds gewoon-, het buitengewoon- en het deeltijds gewoon secundair onderwijs;<br />- instellingen voor volwassenenonderwijs;<br />- instellingen voor deeltijds kunstonderwijs;<br />- centra voor leerlingenbegeleiding;<br />- internaten, met uitzondering van de internaten die gehecht zijn aan een gesubsidieerde instelling voor buitengewoon onderwijs en van de paramedische installaties van deze instellingen.<br /><br />§ 2. De normen van dit besluit zijn van toepassing op de vestigingsplaatsen van instellingen, centra of internaten waar de werken uitgevoerd worden.<br />
+§ 1. Dit besluit is van toepassing op de door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde:<br>
+- instellingen van het gewoon en het buitengewoon kleuter-, lager en basisonderwijs;<br>
+- instellingen van het voltijds gewoon-, het buitengewoon- en het deeltijds gewoon secundair onderwijs;<br>
+- instellingen voor volwassenenonderwijs;<br>
+- instellingen voor deeltijds kunstonderwijs;<br>
+- centra voor leerlingenbegeleiding;<br>
+- internaten, met uitzondering van de internaten die gehecht zijn aan een gesubsidieerde instelling voor buitengewoon onderwijs en van de paramedische installaties van deze instellingen;<br>
+- leersteuncentra.<br>
+<br>
+§ 2. De normen van dit besluit zijn van toepassing op de vestigingsplaatsen van instellingen, centra of internaten waar de werken uitgevoerd worden.
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° de wet: de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving, zoals gewijzigd;<br />2° AGIOn: het Agentschap voor Infrastructuur in het Onderwijs;<br />3° de commissie: de commissie van deskundigen zoals omschreven in artikel 6;<br />4° vestigingsplaats: alle gebouwde en ongebouwde onroerende goederen die ingeplant zijn op eenzelfde kadastraal perceel of op aaneengesloten kadastrale percelen en die volledig of gedeeltelijk door personeelsleden van de betrokken instelling gebruikt worden voor onderwijsactiviteiten, of als internaat of centrum voor leerlingenbegeleiding;<br />5° leerling: de regelmatige leerling, intern of cursist die in aanmerking komt voor financiering of subsidiëring;<br />6° omkaderingsgewicht: het omkaderingsgewicht bedoeld in artikel 67 van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding;<br />7° aankoop: de verwerving van een gebouw dat in aanmerking komt voor een bestemming in het onderwijs, voor een internaat of voor een centrum voor leerlingenbegeleiding;<br />8° nieuwbouw: alle werken die strekken tot de oprichting van nieuwe gebouwen, de uitbreiding van de bestaande gebouwen of verwezenlijking van de buiteninfrastructuren, exclusief de uitbreidingswerken zoals bepaald bij « verbouwingswerken »;<br />9° verbouwingswerken: alle werken die uitgevoerd worden aan bestaande gebouwen of buiteninfrastructuren, met inbegrip van kleine uitbreidingswerken met een maximale bruto-oppervlakte van 30 m2;<br />10° eerste uitrusting: de uitrusting die wordt aangebracht in een nieuw of aangepast gebouw, die onontbeerlijk is voor het gebruik van de infrastructuur en die onroerend is uit haar aard of door de bestemming;<br />11° VL 100: de permanente administratieve bijlage bij de bijzondere bestekken betreffende de overeenkomsten van bouwwerken, goedgekeurd door de Vlaamse Regering op 22 juli 1998;<br />12° Energiedecreet : het decreet van 8 mei 2009 houdende algemene bepalingen betreffende het energiebeleid.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° de wet: de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving, zoals gewijzigd;<br>
+2° AGIOn: het Agentschap voor Infrastructuur in het Onderwijs;<br>
+3° de commissie: de commissie van deskundigen zoals omschreven in artikel 6;<br>
+4° vestigingsplaats: alle gebouwde en ongebouwde onroerende goederen die ingeplant zijn op eenzelfde kadastraal perceel of op aaneengesloten kadastrale percelen en die volledig of gedeeltelijk door personeelsleden van de betrokken instelling gebruikt worden voor onderwijsactiviteiten, of als internaat of centrum voor leerlingenbegeleiding;<br>
+5° leerling: de regelmatige leerling, intern of cursist die in aanmerking komt voor financiering of subsidiëring;<br>
+6° omkaderingsgewicht: het omkaderingsgewicht bedoeld in artikel 67 van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding;<br>
+7° aankoop: de verwerving van een gebouw dat in aanmerking komt voor een bestemming in het onderwijs, voor een internaat of voor een centrum voor leerlingenbegeleiding;<br>
+8° nieuwbouw: alle werken die strekken tot de oprichting van nieuwe gebouwen, de uitbreiding van de bestaande gebouwen of verwezenlijking van de buiteninfrastructuren, exclusief de uitbreidingswerken zoals bepaald bij « verbouwingswerken »;<br>
+9° verbouwingswerken: alle werken die uitgevoerd worden aan bestaande gebouwen of buiteninfrastructuren, met inbegrip van kleine uitbreidingswerken met een maximale bruto-oppervlakte van 30 m2;<br>
+10° eerste uitrusting: de uitrusting die wordt aangebracht in een nieuw of aangepast gebouw, die onontbeerlijk is voor het gebruik van de infrastructuur en die onroerend is uit haar aard of door de bestemming;<br>
+11° VL 100: de permanente administratieve bijlage bij de bijzondere bestekken betreffende de overeenkomsten van bouwwerken, goedgekeurd door de Vlaamse Regering op 22 juli 1998;<br>
+12° Energiedecreet : het decreet van 8 mei 2009 houdende algemene bepalingen betreffende het energiebeleid;<br>
+13° punten leersteun: omkaderingseenheden die de leersteuncentra ontvangen om leersteun te bieden als vermeld in artikel 35 tot en met 43 van het decreet van 5 mei 2023 over leersteun.
 
 ### ART. 3.
 
-Voor de vaststelling van de maximale bruto-oppervlakte wordt rekening gehouden met de school- of internaatsbevolking en het overeenstemmend lestijdenpakket op de tellingsdatum die gebruikt wordt voor het vaststellen van het aantal ambten voor de school of het internaat volgens de wettelijke, decretale of reglementaire bepalingen.<br /><br />Deze tellingsdatum heeft betrekking op het schooljaar dat de principiële beslissing, waardoor het bevoegde bestuursorgaan van het Gemeenschapsonderwijs of AGION een bouwprogramma van werken goedkeurt, volledig voorafgaat of recenter.<br /><br />Voor de centra voor leerlingenbegeleiding wordt rekening gehouden met het omkaderingsgewicht.<br /><br />Ieder ander relevant element moet worden onderworpen aan het advies van de commissie.<br />
+Voor de vaststelling van de maximale bruto-oppervlakte wordt rekening gehouden met de school- of internaatsbevolking en het overeenstemmend lestijdenpakket op de tellingsdatum die gebruikt wordt voor het vaststellen van het aantal ambten voor de school of het internaat volgens de wettelijke, decretale of reglementaire bepalingen.<br>
+<br>
+Deze tellingsdatum heeft betrekking op het schooljaar dat de principiële beslissing, waardoor het bevoegde bestuursorgaan van het Gemeenschapsonderwijs of AGION een bouwprogramma van werken goedkeurt, volledig voorafgaat of recenter.<br>
+<br>
+Voor de centra voor leerlingenbegeleiding wordt rekening gehouden met het omkaderingsgewicht.<br>
+<br>
+Voor de leersteuncentra wordt rekening gehouden met het aantal ontvangen punten leersteun.<br>
+<br>
+Ieder ander relevant element moet worden onderworpen aan het advies van de commissie.
 
 ### ART. 4.
 
@@ -60,7 +90,13 @@ Het bevoegde bestuursorgaan van het Gemeenschapsonderwijs of AGIOn beslist over 
 
 ### ART. 12.
 
-De bepalingen van titel II, Hoofdstuk I, afdeling 1, zijn van toepassing op het buitengewoon kleuter-, lager of basisonderwijs, met dien verstande dat:<br />- de maximale bruto-oppervlakte berekend in overeenstemming met de bepalingen van artikel 10, §§ 1, 2 en 3 naargelang van de types van onderwijs, wordt vermenigvuldigd met:<br />- 1,5 voor de types 1 en 8;<br />- 1,8 voor de andere types.<br />- het aantal leerlingen voor het bepalen van de maximale bruto-oppervlakte in artikel 11, §§ 1, 2 en 3 wordt vermenigvuldigd met 2.<br /><br />Deze verkregen oppervlakten zijn met inbegrip van de paramedische lokalen.<br />
+De bepalingen van titel II, Hoofdstuk I, afdeling 1, zijn van toepassing op het buitengewoon kleuter-, lager of basisonderwijs, met dien verstande dat:<br>
+- de maximale bruto-oppervlakte berekend in overeenstemming met de bepalingen van artikel 10, §§ 1, 2 en 3 naargelang van de types van onderwijs, wordt vermenigvuldigd met:<br>
+- 1,5 voor type basisaanbod;<br>
+- 1,8 voor de andere types.<br>
+- het aantal leerlingen voor het bepalen van de maximale bruto-oppervlakte in artikel 11, §§ 1, 2 en 3 wordt vermenigvuldigd met 2.<br>
+<br>
+Deze verkregen oppervlakten zijn met inbegrip van de paramedische lokalen.
 
 ## HOOFDSTUK II. Secundair onderwijs
 
@@ -639,6 +675,12 @@ De maximale bruto-oppervlakte, uitgedrukt in vierkante meter, voor een centrum v
 
 ## [HOOFDSTUK IV/I. Leersteuncentra (ing. BVR 22 september 2023, art. 41, I: 1 september 2023)]
 
+### ART 27/1.
+
+De maximale bruto-oppervlakte, uitgedrukt in vierkante meter, voor een leersteuncentrum wordt verkregen door het aantal punten leersteun dat het leersteuncentrum ontvangt, te delen door 85 en te vermenigvuldigen met 3,5 vierkante meter.&nbsp;<br>
+<br>
+Voor de leersteuncentra die deel uitmaken van een school voor buitengewoon basisonderwijs of een school voor buitengewoon secundair onderwijs, geldt de regeling, vermeld in het eerste lid, en zijn de bepalingen van artikel 12 en artikel 20 tot en met 25 niet van toepassing.
+
 ## HOOFDSTUK V. Volwassenenonderwijs
 
 ### ART. 28.
@@ -683,11 +725,19 @@ De bedragen bedoeld in artikel 33 zijn exclusief de belasting op de toegevoegde 
 
 ### ART. 36.
 
-Deze titel is van toepassing op alle gebouwen of gebouwencomplexen bestemd voor onderwijsdoeleinden, voor centra voor leerlingenbegeleiding of internaten, die geheel of ten dele door tussenkomst van de Belgische Staat of van de Vlaamse Gemeenschap zijn opgericht, uitgezonderd op de scholenbouwprojecten in het kader van het decreet van 7 juli 2006 betreffende de inhaalbeweging voor schoolinfrastructuur.<br /><br />Wordt geacht beschikbaar te zijn in de zin van artikel 13, § 1, 1, b, van de wet, elk gebouw of gebouwencomplex :<br />1° dat volledig onbezet is, of door de inrichtende macht binnen de termijn van een schooljaar kan worden vrijgemaakt, en<br />2° waarvan de lokalen beantwoorden aan de voorwaarden inzake bewoonbaarheid en hygiëne of althans mits tegemoetkoming van het bevoegde bestuursorgaan van het Gemeenschapsonderwijs of van AGIOn in de vereiste staat kunnen worden gebracht.<br />
+Deze titel is van toepassing op alle gebouwen of gebouwencomplexen bestemd voor onderwijsdoeleinden, voor centra voor leerlingenbegeleiding, leersteuncentra of internaten, die geheel of ten dele door tussenkomst van de Belgische Staat of van de Vlaamse Gemeenschap zijn opgericht, uitgezonderd op de scholenbouwprojecten in het kader van het decreet van 7 juli 2006 betreffende de inhaalbeweging voor schoolinfrastructuur.<br>
+<br>
+Wordt geacht beschikbaar te zijn in de zin van artikel 13, § 1, 1, b, van de wet, elk gebouw of gebouwencomplex :<br>
+1° dat volledig onbezet is, of door de inrichtende macht binnen de termijn van een schooljaar kan worden vrijgemaakt, en<br>
+2° waarvan de lokalen beantwoorden aan de voorwaarden inzake bewoonbaarheid en hygiëne of althans mits tegemoetkoming van het bevoegde bestuursorgaan van het Gemeenschapsonderwijs of van AGIOn in de vereiste staat kunnen worden gebracht.
 
 ### ART. 37.
 
-De geografische zone die dient in acht te worden genomen wordt bepaald door :<br />1° de ruimte begrensd door een afstand van 1 km voor het basisonderwijs en 2 km voor het secundair onderwijs;<br />2° de ruimte begrensd door een afstand van 10 km voor de internaten en van 20 km voor de centra voor leerlingenbegeleiding.<br /><br />Onder afstand dient verstaan te worden de kortst mogelijke afstand gemeten over de rijbaan zoals beschreven in artikel 2.1 van het koninklijk besluit van 1 december 1975 houdende het algemeen reglement op de politie van het wegverkeer, zoals gewijzigd, zonder rekening te houden met omleidingen of eenrichtingsverkeer.<br />
+De geografische zone die dient in acht te worden genomen wordt bepaald door :<br>
+1° de ruimte begrensd door een afstand van 1 km voor het basisonderwijs en 2 km voor het secundair onderwijs;<br>
+2° de ruimte begrensd door een afstand van 10 kilometer voor de internaten en van 20 kilometer voor de centra voor leerlingenbegeleiding en de leersteuncentra.<br>
+<br>
+Onder afstand dient verstaan te worden de kortst mogelijke afstand gemeten over de rijbaan zoals beschreven in artikel 2.1 van het koninklijk besluit van 1 december 1975 houdende het algemeen reglement op de politie van het wegverkeer, zoals gewijzigd, zonder rekening te houden met omleidingen of eenrichtingsverkeer.
 
 ### ART. 38.
 

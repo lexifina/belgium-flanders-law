@@ -2,16 +2,16 @@
   "codex_id": 1016323,
   "title": "Besluit van de Vlaamse Regering van 2007-10-05 houdende vaststelling van de regels die de behoefte aan nieuwbouw of uitbreiding bepalen en van de fysische en financiële normen voor de schoolgebouwen, internaten [, centra voor leerlingenbegeleiding en leersteuncentra]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016323/VolledigDocument?datum=2011-01-01",
-  "source_sha256": "15d5d8ec81a3163db029c3f16733d64bf384206ba140eed18f12586ff53d0330",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016323/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "7b7fedbae06129d222379f7c43af699f274407587f46e3f3db390e3841ff550b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016323&param=informatie",
-  "as_of": "2011-01-01",
+  "as_of": "2023-09-01",
   "made": "2007-10-05",
   "gazette": "2007-11-09",
   "numac": 2007036961,
   "document_start": "2008-01-01",
   "document_end": null,
-  "in_force": "2011-01-01",
-  "article_versions": 48,
-  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-09-01",
+  "article_versions": 49,
+  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
 }
