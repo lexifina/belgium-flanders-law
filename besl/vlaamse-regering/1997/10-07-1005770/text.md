@@ -30,11 +30,11 @@ Voor het bepalen van de tijd die als nuttige ervaring wordt erkend, wordt evenee
 
 ### ART. 6.
 
-De diensten die voldoen aan de voorwaarden bepaald in de artikelen 3, 4 en   5 kunnen slechts als nuttige ervaring erkend worden indien ze wekelijkse   prestaties omvatten die ten minste de helft bedragen van een functie met   volledige prestaties.<BR><BR>De in het vorige lid bedoelde onvolledige diensten   worden als voltijds beschouwd.<BR><BR>Diensten kunnen als nuttige ervaring   worden erkend ongeacht de leeftijd van het betrokken personeelslid waarop ze   gepresteerd werden.<BR><BR>De in aanmerking komende diensten worden berekend per   dag en geteld van datum tot datum. De som van het aantal dagen wordt gedeeld   door dertig. Het quotiënt van deze deling vormt het aantal maanden die als   nuttige ervaring kunnen worden erkend.<BR><BR>Hierbij vormen twaalf maanden één   jaar. Het resterend aantal dagen wordt desgevallend overgedragen naar een   volgende periode.
-
-### ART. 7.
-
-De diensten die als nuttige ervaring erkend worden, gelden als bekwaamheidsbewijs of als een onderdeel van een bekwaamheidsbewijs voor een vak, een specialiteit, een module of een ambt in het onderwijs.<br /><br />Voor een ambt in het volwassenenonderwijs waarvoor de bekwaamheidsbewijzen op het niveau van een opleiding zijn vastgelegd, kunnen de diensten die als nuttige ervaring erkend worden slechts als bekwaamheidsbewijs gelden als deze diensten voor alle modules van die opleiding erkend worden.
+De diensten die voldoen aan de voorwaarden van de artikelen 3, 4 en 5 kunnen als nuttige ervaring worden erkend ongeacht de leeftijd van het betrokken personeelslid waarop ze gepresteerd werden.<br>
+<br>
+De in aanmerking komende diensten worden berekend per dag en geteld van datum tot datum. De som van het aantal dagen wordt gedeeld door dertig. Het quotiënt van deze deling vormt het aantal maanden die als nuttige ervaring kunnen worden erkend.<br>
+<br>
+Hierbij vormen twaalf maanden één jaar. Het resterend aantal dagen wordt desgevallend overgedragen naar een volgende periode.
 
 ### ART. 8.
 
@@ -45,13 +45,13 @@ b) als zelfstandige niet onderworpen aan de R.S.Z.-regeling;<br>
 c) als student;<br>
 d) onder leerovereenkomst;<br>
 e) als praktijkstages die een onderdeel zijn van een opleiding en die leiden tot het behalen van een studiebewijs;<br>
-f) indien deze diensten wekelijkse prestaties omvatten die minder dan de helft bedragen van een functie met volledige prestaties;<br>
+f) ...;<br>
 g) ...;<br>
 h) als lesgever;<br>
 i) op grond van het besluit van de Vlaamse regering van 11 mei 1999 betreffende de tewerkstelling buiten het onderwijs of de psycho-medisch-sociale centra;<br>
 2° diensten in het onderwijs:<br>
 a) in een door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde betrekking van de categorie van het bestuurs- en onderwijzend personeel;<br>
-b) indien deze diensten wekelijkse prestaties omvatten die minder dan de helft bedragen van een ambt met volledige prestaties;<br>
+b)...;<br>
 c) tegelijkertijd met een ander ambt met volledige prestaties in het onderwijs.<br>
 <br>
 Kunnen evenmin erkend worden als nuttige ervaring voor een bekwaamheidsbewijs of een onderdeel van een bekwaamheidsbewijs, de periodes:<br>
@@ -133,4 +133,4 @@ niet opgenomen<br /><br />stelt formulier vast
 
 ### BIJLAGE III
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2023/08/11_1.pdf#page=5">Bijlage 3</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2023/10/19_1.pdf#page=5">Bijlage III </a>
