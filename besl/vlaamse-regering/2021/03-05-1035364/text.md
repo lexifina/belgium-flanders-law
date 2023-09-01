@@ -64,6 +64,100 @@ Platteput 11<br>
 Opleidingsfase Schilderen en decoratie<br>
 Domein: STEM
 
+### ART 2.
+
+Aan de volgende onderwijsinstellingen wordt, met toepassing van artikel 289, § 3 van de Codex Secundair Onderwijs van 17 december 2010, voor het schooljaar 2023-2024 toestemming verleend om de volgende programmatie aan te bieden:<br>
+1° SBSO Ter Zee - GO school voor BuSO Aan Zee<br>
+Maurits Sabbestraat 8<br>
+8400 Oostende<br>
+Kwalificatiefase Fietshersteller<br>
+Domein: STEM<br>
+2° SBSO Ter Zee - GO school voor BuSO Aan Zee<br>
+Maurits Sabbestraat 8<br>
+8400 Oostende<br>
+Kwalificatiefase Plaatser soepele vloerbekleding<br>
+Domein: STEM<br>
+3° SBSO Ter Zee - GO school voor BuSO Aan Zee<br>
+Maurits Sabbestraat 8<br>
+8400 Oostende<br>
+Kwalificatiefase Plaatser wandbekleding<br>
+Domein: STEM<br>
+4° SBSO Ter Zee - GO school voor BuSO Aan Zee<br>
+Maurits Sabbestraat 8<br>
+8400 Oostende<br>
+Kwalificatiefase Medewerker fastfood<br>
+Domein: Voeding en horeca<br>
+5° SBSO Ter Zee - GO school voor BuSO Aan Zee<br>
+Maurits Sabbestraat 8<br>
+8400 Oostende<br>
+Kwalificatiefase Medewerker spoelkeuken<br>
+Domein: Voeding en horeca<br>
+6° BuSO Sint-Jan-Berchmansinstituut<br>
+Hof-ten-Berglaand 8<br>
+2870 Puurs - Sint-Amands<br>
+Kwalificatiefase Medewerker spoelkeuken<br>
+Domein: Voeding en horeca<br>
+7° BuSO Sint-Jan-Berchmansinstituut<br>
+Hof-ten-Berglaand 8<br>
+2870 Puurs - Sint-Amands<br>
+Kwalificatiefase Verpakker<br>
+Domein: Economie en organisatie<br>
+8° Provinciale School voor BuSO de Wissel<br>
+Arbeidsstraat 66<br>
+3600 Genk<br>
+Kwalificatiefase Medewerker kapper<br>
+Domein: Maatschappij en Welzijn<br>
+9° Buso Haverlo<br>
+Weidestraat 156<br>
+8310 Brugge<br>
+Kwalificatiefase Winkelmedewerker<br>
+Domein: Economie en organisatie<br>
+10° Buso Haverlo<br>
+Weidestraat 156<br>
+8310 Brugge<br>
+Kwalificatiefase Bestuurder interne transportmiddelen<br>
+Domein: Economie en organisatie<br>
+11° Buso Haverlo<br>
+Weidestraat 156<br>
+8310 Brugge<br>
+Kwalificatiefase Magazijnmedewerker<br>
+Domein: Economie en organisatie<br>
+12° Buso Haverlo<br>
+Weidestraat 156<br>
+8310 Brugge<br>
+Kwalificatiefase Fietshersteller<br>
+Domein: STEM<br>
+13° Buso De Ast<br>
+Boeschepestraat 46<br>
+8970 Poperinge<br>
+Kwalificatiefase Fietshersteller<br>
+Domein: STEM<br>
+14° Buso De Ast<br>
+Boeschepestraat 46<br>
+8970 Poperinge<br>
+Kwalificatiefase Hoeknaadlasser<br>
+Domein: STEM<br>
+15° Richtpunt campus Buggenhout<br>
+Platteput 5<br>
+9256 Buggenhout<br>
+Kwalificatiefase Werkplaatsbuitenschrijnwerker hout<br>
+Domein: STEM<br>
+16° Richtpunt campus Buggenhout<br>
+Platteput 6<br>
+9257 Buggenhout<br>
+Kwalificatiefase Machinaal Houtbewerker<br>
+Domein: STEM<br>
+17° Richtpunt campus Buggenhout<br>
+Platteput 7<br>
+9258 Buggenhout<br>
+Kwalificatiefase Voeger<br>
+Domein: STEM<br>
+18° Richtpunt campus Buggenhout<br>
+Platteput 9<br>
+9260 Buggenhout<br>
+Kwalificatiefase Schilder<br>
+Domein: STEM
+
 ### ART 4.
 
 Artikel 1 van dit besluit treedt in werking op 1 september 2021.
