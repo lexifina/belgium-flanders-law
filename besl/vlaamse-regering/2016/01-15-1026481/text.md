@@ -18,9 +18,9 @@ In dit besluit wordt verstaan onder :<br>
 
 ### ART. 2.
 
-<p>Bij de administratie wordt voor elk paramedisch beroep, vermeld in artikel 70 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, een erkenningscommissie opgericht.</p>
+<p>Bij de administratie kan voor elk paramedisch beroep op de lijst, vermeld in artikel 70 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, of voor verschillende paramedische beroepen op de voormelde lijst samen een erkenningscommissie worden opgericht..</p>
 
-<p>De erkenningscommissies hebben als taak om gemotiveerde adviezen te verstrekken aan de administratie over de aanvragen tot erkenning als beoefenaar van een paramedisch beroep als vermeld in artikel 72, § 1, en artikel 153 van de voormelde wet.</p>
+<p>De erkenningscommissies hebben als taak om gemotiveerde adviezen te verstrekken aan de administratie over de aanvragen tot erkenning als beoefenaar van een paramedisch beroep als vermeld in artikel 72, § 1, van de voormelde wet.</p>
 
 <p>Elke erkenningscommissie stelt een huishoudelijk reglement op.</p>
 
@@ -29,8 +29,11 @@ In dit besluit wordt verstaan onder :<br>
 ### ART. 3.
 
 <p>§ 1. Elke erkenningscommissie is samengesteld uit :<br>
-1° drie leden, beoefenaars van een paramedisch beroep, die sedert ten minste vijf jaar het beroep uitoefenen. Ze worden voorgedragen door hun beroepsverenigingen;<br>
-2° drie leden, beoefenaars van een paramedisch beroep, die ten minste vijf jaar onderwijservaring in een universitaire instelling of een hogeschool kunnen bewijzen en gekozen zijn wegens hun bevoegdheid op het gebied waarmee de erkenningscommissie is belast. Ze worden voorgedragen door de Vlaamse Universiteiten en Hogescholen Raad.</p>
+1° ten minste drie en maximaal vier leden die ten minste vijf jaar een paramedisch beroep uitoefenen. Ze worden voorgedragen door hun beroepsverenigingen;<br>
+2° ten minste drie en maximaal vier leden die worden voorgedragen door de Vlaamse Universiteiten en Hogescholen Raad en die aan al de volgende voorwaarden voldoen:<br>
+a)&nbsp;&nbsp; &nbsp;ze oefenen een paramedisch beroep uit;<br>
+b)&nbsp;&nbsp; &nbsp;ze kunnen ten minste vijf jaar onderwijservaring in een universitaire instelling of een hogeschool bewijzen;<br>
+c)&nbsp;&nbsp; &nbsp;ze worden gekozen wegens hun bevoegdheid op het gebied waarmee de erkenningscommissie is belast.</p>
 
 <p>§ 2. De leden van de erkenningscommissies worden door de secretaris-generaal benoemd voor een hernieuwbare termijn van zes jaar. Ze blijven in functie tot de secretaris-generaal over de hernieuwing van hun mandaten een beslissing heeft genomen.</p>
 
@@ -100,73 +103,19 @@ Als een aanvrager die voor de vergadering van de erkenningscommissie is uitgenod
 
 ### ART. 8.
 
-De erkenning wordt van rechtswege door de administratie toegekend aan de personen, vermeld in artikel 153, § 1, van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, die op het ogenblik van de inwerkingtreding van dit besluit in het bezit zijn van een geldig inschrijvingsnummer van het RIZIV van het paramedische beroep waarvoor ze door het RIZIV erkend zijn conform artikel 215 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1999.
+...
 
 ### ART. 9.
 
-<p>§ 1. De aanvrager, die een erkenning als beoefenaar van een paramedisch beroep als vermeld in artikel 153, § 2, van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, wil verkrijgen, dient daarvoor zijn aanvraag in bij de administratie. de administratie stelt daarvoor een aanvraagformulier ter beschikking.</p>
-
-<p>de administratie kan voor de indiening van de aanvragen, vermeld in het eerste lid, een digitaal platform ter beschikking stellen dat het aanvraagformulier, vermeld in het eerste lid, aanvult of vervangt.</p>
-
-<p>De aanvrager voegt bij zijn aanvraag de documenten waaruit blijkt dat hij aan de voorwaarden, vermeld in artikel 153, § 2, van de voormelde wet, voldoet.</p>
-
-<p>§ 2. Alleen volledige dossiers worden aan de erkenningscommissie voorgelegd.</p>
-
-<p>de administratie vraagt bij de aanvrager, in geval van onvolledigheid van het dossier, de ontbrekende documenten op. Als de aanvrager die documenten niet binnen drie maanden na de opvraging bezorgt, kan de aanvraag administratief worden afgesloten.</p>
-
-<p>De aanvrager kan worden uitgenodigd voor de vergadering van de erkenningscommissie waarbij hem gevraagd wordt om eventuele bijkomende inlichtingen te verstrekken.</p>
-
-<p>Als een aanvrager die voor de vergadering van de erkenningscommissie is uitgenodigd, niet aanwezig kan zijn, kan de erkenningscommissie adviseren op basis van het dossier.</p>
-
-<p>§ 3. de administratie beslist, na advies van de erkenningscommissie, over de aanvraag tot erkenning als beoefenaar van een paramedisch beroep. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.</p>
+<p>...</p>
 
 ### ART. 10.
 
-<p>§ 1. De persoon die het voordeel wil genieten, vermeld in artikel 153, § 3, eerste, derde of vierde lid, van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, dient daarvoor uiterlijk binnen een jaar na het moment, vermeld in artikel 153, § 3, eerste, derde of vierde lid, van de voormelde wet,&nbsp;zijn aanvraag in bij de administratie. de administratie stelt daarvoor een aanvraagformulier ter beschikking.</p>
-
-<p>de administratie kan voor de indiening van de aanvragen, vermeld in het eerste lid, een digitaal platform ter beschikking stellen dat het aanvraagformulier, vermeld in het eerste lid, aanvult of vervangt.</p>
-
-<p>De aanvrager vermeldt in een attest naast het paramedische beroep in kwestie, de werkzaamheden waarvoor hij het voordeel van de verkregen rechten inroept, alsook de periodes en plaatsen waar hij ze heeft uitgeoefend. Daaruit moet blijken dat de werkzaamheden in voldoende aantal en op duurzame wijze zijn uitgevoerd, hetzij als technische prestatie, voorgeschreven door bevoegde personen, hetzij als door bevoegde personen toevertrouwde handeling.</p>
-
-<p>Het attest moet ondertekend zijn door de persoon die bevoegd is om de opgave van de werkzaamheden in kwestie voor waar en echt te verklaren.</p>
-
-<p>De personen die bevoegd zijn om de opgave van de werkzaamheden waarvoor het voordeel van de verkregen rechten wordt ingeroepen, voor waar en echt te verklaren, zijn de artsen of apothekers die bevoegd zijn de werkzaamheden van het beroep in kwestie, hetzij als handeling toe te vertrouwen, hetzij als technische prestatie voor te schrijven.</p>
-
-<p>Uit de identificatie van de arts of apotheker moet blijken dat hij bevoegd is de werkzaamheden van het beroep in kwestie, hetzij als handeling toe te vertrouwen, hetzij als technische prestatie voor te schrijven.</p>
-
-<p>§ 2. Alleen volledige dossiers die tijdig zijn ingediend, worden aan de erkenningscommissie voorgelegd.</p>
-
-<p>de administratie vraagt bij de aanvrager, in geval van onvolledigheid van het dossier, de ontbrekende documenten op. Als de aanvrager die documenten niet binnen drie maanden na de opvraging bezorgt, kan de aanvraag administratief worden afgesloten.</p>
-
-<p>De aanvrager kan worden uitgenodigd voor de vergadering van de erkenningscommissie waarbij hem gevraagd wordt om eventuele bijkomende inlichtingen te verstrekken.</p>
-
-<p>Als een aanvrager die voor de vergadering van de erkenningscommissie is uitgenodigd, niet aanwezig kan zijn, kan de erkenningscommissie adviseren op basis van het dossier.</p>
-
-<p>§ 3. de administratie beslist, na advies van de erkenningscommissie, over de aanvraag. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.</p>
+<p>...</p>
 
 ### ART. 11.
 
-<p>§ 1. De persoon die het voordeel wil genieten, vermeld in artikel 153, § 3, tweede lid, van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, dient daarvoor uiterlijk binnen een jaar na het moment, vermeld in artikel 153, § 3, tweede lid, van de voormelde wet, zijn aanvraag in bij de administratie. de administratie stelt daarvoor een aanvraagformulier ter beschikking.</p>
-
-<p>de administratie kan voor de indiening van de aanvragen, vermeld in het eerste lid, een digitaal platform ter beschikking stellen dat het aanvraagformulier, vermeld in het eerste lid, aanvult of vervangt.</p>
-
-<p>De aanvrager moet vóór de dag, vermeld in artikel 153, § 3, tweede lid, van de voormelde wet, in een attest naast het paramedische beroep in kwestie de werkzaamheden vermelden waarvoor hij het voordeel van de verkregen rechten inroept, de plaats waar hij ze uitoefent, alsook de periodes en de plaatsen waar hij ze voorheen uitoefende. Daaruit moet blijken dat de werkzaamheden in voldoende aantal en op duurzame wijze zijn uitgevoerd, hetzij als technische prestatie, voorgeschreven door bevoegde personen, hetzij als door bevoegde personen toevertrouwde handeling.</p>
-
-<p>Het attest moet ondertekend zijn door de persoon die bevoegd is om de opgave van de werkzaamheden in kwestie voor waar en echt te verklaren.</p>
-
-<p>De personen die bevoegd zijn om de opgave van de werkzaamheden waarvoor het voordeel van de verkregen rechten wordt ingeroepen, voor waar en echt te verklaren, zijn de artsen of apothekers die bevoegd zijn de werkzaamheden van het beroep in kwestie, hetzij als handeling toe te vertrouwen, hetzij als technische prestatie voor te schrijven.</p>
-
-<p>Uit de identificatie van de apotheker of arts moet blijken dat hij bevoegd is de werkzaamheden van het beroep in kwestie, hetzij als handeling toe te vertrouwen, hetzij als technische prestatie voor te schrijven.</p>
-
-<p>§ 2. Alleen volledige dossiers die tijdig zijn ingediend, worden aan de erkenningscommissie voorgelegd.</p>
-
-<p>de administratie vraagt bij de aanvrager, in geval van onvolledigheid van het dossier, de ontbrekende documenten op. Als de aanvrager die documenten niet binnen drie maanden na de opvraging bezorgt, kan de aanvraag administratief worden afgesloten.</p>
-
-<p>De aanvrager kan worden uitgenodigd voor de vergadering van de erkenningscommissie waarbij hem gevraagd wordt om eventuele bijkomende inlichtingen te verstrekken.</p>
-
-<p>Als een aanvrager die voor de vergadering van de erkenningscommissie is uitgenodigd, niet aanwezig kan zijn, kan de erkenningscommissie adviseren op basis van het dossier.</p>
-
-<p>§ 3. de administratie beslist, na advies van de erkenningscommissie, over de aanvraag. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.</p>
+<p>...</p>
 
 ## HOOFDSTUK 4 De procedure tot heroverweging
 
@@ -218,7 +167,7 @@ Als de beoefenaar van een paramedisch beroep een erkenning die is verleend of ee
 
 ### ART. 16.
 
-De beoefenaar van een paramedisch beroep van wie de erkenning of het voordeel is ingetrokken conform artikel 14 of 15, kan altijd bij de administratie een nieuwe aanvraag indienen. In dat geval verloopt de erkenningsprocedure volgens de bepalingen van dit besluit.
+De beoefenaar van een paramedisch beroep van wie de erkenning is ingetrokken conform artikel 14 of 15, kan altijd bij de administratie een nieuwe aanvraag indienen. In dat geval verloopt de erkenningsprocedure volgens de bepalingen van dit besluit.
 
 ## HOOFDSTUK 6 Slotbepalingen
 

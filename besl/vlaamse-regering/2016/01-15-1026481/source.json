@@ -2,16 +2,16 @@
   "codex_id": 1026481,
   "title": "Besluit van de Vlaamse Regering van 2016-01-15 betreffende de erkenning van beoefenaars van paramedische beroepen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026481/VolledigDocument?datum=2023-06-01",
-  "source_sha256": "950cad7da17f094830a7c1a0a2126bd517b08d658e7c9f6ba0570a6cede7fccc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026481/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "58146343c082c79b980d75bb153f29b47ce4f71f09529a725ae0e7260e6067ba",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026481&param=informatie",
-  "as_of": "2023-06-01",
+  "as_of": "2023-09-01",
   "made": "2016-01-15",
   "gazette": "2016-02-15",
   "numac": 2016035163,
   "document_start": "2016-01-01",
   "document_end": null,
-  "in_force": "2023-06-01",
+  "in_force": "2023-09-01",
   "article_versions": 23,
-  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
 }
