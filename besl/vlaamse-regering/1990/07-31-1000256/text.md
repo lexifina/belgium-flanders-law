@@ -8,7 +8,19 @@
 
 ### ART. 2.
 
-§ 1. De bepalingen van dit besluit zijn van toepassing op:<BR>a) de leden   van het bestuurs- en onderwijzend personeel, van het beleids- en ondersteunend   personeel, van het ondersteunend personeel en van het opvoedend hulppersoneel   van de instellingen voor buitengewoon basis- en secundair onderwijs met volledig   leerplan, georganiseerd of gesubsidieerd door de Vlaamse Gemeenschap;<BR>b) de   leden van het paramedisch personeel, het sociaal personeel, het orthopedagogisch   personeel, het psychologisch personeel en het medisch personeel van de   instellingen voor buitengewoon basis- en secundair onderwijs, georganiseerd of   gesubsidieerd door de Vlaamse Gemeenschap; <BR>c) ...; <BR>d) ...; <BR>e) de   leden van het bestuurs- en onderwijzend personeel, het opvoedend hulppersoneel,   het paramedisch personeel, het sociaal, het medisch en het psychologisch   personeel van de medisch-pedagogische instituten, de internaten van het   Gemeenschapsonderwijs met permanente openstelling, semi-internaten, en de   internaten van de instituten van het buitengewoon secundair onderwijs van het   Gemeenschapsonderwijs, georganiseerd door de Vlaamse Gemeenschap. <BR><BR>§ 2.   ... <BR><BR>§ 3. Dit besluit is niet van toepassing op:<BR>1° de leermeesters   godsdienst en de godsdienstleraars;<BR>2° de personeelsleden, vermeld in artikel   2 van het besluit van de Vlaamse Regering van 21 december 1994 betreffende de   bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de   bezoldigingsregeling in het buitengewoon secundair onderwijs van opleidingsvorm   4.<BR>3° ...
+§ 1. De bepalingen van dit besluit zijn van toepassing op:<br>
+a) de leden van het bestuurs- en onderwijzend personeel, van het beleids- en ondersteunend personeel, van het ondersteunend personeel en van het opvoedend hulppersoneel van de instellingen voor buitengewoon basis- en secundair onderwijs met volledig leerplan, georganiseerd of gesubsidieerd door de Vlaamse Gemeenschap;<br>
+b) de leden van het paramedisch personeel, het sociaal personeel, het orthopedagogisch personeel, het psychologisch personeel en het medisch personeel van de instellingen voor buitengewoon basis- en secundair onderwijs, georganiseerd of gesubsidieerd door de Vlaamse Gemeenschap;<br>
+c) ...;<br>
+d) ...;<br>
+e) de leden van het opvoedend hulppersoneel, het paramedisch personeel, het administratief personeel en het psychologisch personeel van de semi-internaten.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. Dit besluit is niet van toepassing op:<br>
+1° de leermeesters godsdienst en de godsdienstleraars;<br>
+2° de personeelsleden, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 21 december 1994 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het buitengewoon secundair onderwijs van opleidingsvorm 4.<br>
+3° ...
 
 ### ART. 3.
 
@@ -460,13 +472,27 @@ Naargelang van deze gelijkstelling is het personeelslid in het bezit van een ver
 
 ### ART. 12.
 
-§ 1. De personeelsleden bedoeld in artikel 2, § 1 en § 2, van dit besluit, worden bezoldigd overeen-komstig de salarisschalen die in de bijlage I van dit besluit naast elk bekwaamheidsbewijs zijn vermeld.<br>
+§1. De personeelsleden bedoeld in artikel 2, § 1 en § 2, van dit besluit, worden bezoldigd overeen-komstig de salarisschalen die in de bijlage I van dit besluit naast elk bekwaamheidsbewijs zijn vermeld.<br>
 <br>
 Deze salarisschalen worden, met ingang van 1 september 2018, vastgesteld bij het besluit van de Vlaamse Regering van 5 oktober 2018 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.<br>
 <br>
-§ 2. De personeelsleden, belast met de opdrachten bedoeld in artikel 11, § 2 tot en met § 6, worden bezoldigd op basis van het bekwaamheidsbewijs dat zij bezitten voor het ambt of de specialiteit waarmede die opdrachten worden gelijkgesteld.<br>
+§2. De personeelsleden, belast met de opdrachten bedoeld in artikel 11, § 2 tot en met § 6, worden bezoldigd op basis van het bekwaamheidsbewijs dat zij bezitten voor het ambt of de specialiteit waarmede die opdrachten worden gelijkgesteld.<br>
 <br>
-§ 3. De personeelsleden die tijdelijk belast worden met een andere opdracht in een niet-vacante betrekking in een ambt waarvoor de titularis de salarisschaal 106 ontvangt, krijgen de toelage voor het uitoefenen van een beter bezoldigde opdracht.
+§3. De personeelsleden die tijdelijk belast worden met een andere opdracht in een niet-vacante betrekking in een ambt waarvoor de titularis de salarisschaal 106 ontvangt, krijgen de toelage voor het uitoefenen van een beter bezoldigde opdracht.<br>
+<br>
+§4. Met ingang van het schooljaar 2023-2024 kan het personeelslid dat op basis van een bekwaamheidsbewijs van de categorie ‘andere’ aangesteld is in het ambt van kleuteronderwijzer ASV of in het ambt van onderwijzer ASV, een hogere salarisschaal toegekend krijgen als het personeelslid dat aangesteld is in het ambt van kleuteronderwijzer ASV de opleiding educatieve bachelor in het kleuteronderwijs volgt en het personeelslid dat aangesteld is in het ambt van onderwijzer ASV de opleiding educatieve bachelor in het lager onderwijs volgt.&nbsp;<br>
+<br>
+De toekenning van de hogere salarisschaal, vermeld in het eerste lid, geldt uitsluitend tijdens de periode van maximaal vijf opeenvolgende kalenderjaren die begint op de eerste dag van de maand waarin het personeelslid de opleiding, vermeld in het eerste lid, effectief volgt en geldt voor alle opdrachten die het personeelslid in het ambt in kwestie vervult.<br>
+<br>
+Het personeelslid, vermeld in het eerste lid, levert bij de start van de opleiding, vermeld in het eerste lid, en bij elke nieuwe aanstelling aan het schoolbestuur het bewijs van inschrijving aan de lerarenopleiding, levert gedurende die opleiding alle nuttige informatie om de studievoortgang te kunnen opvolgen en meldt een eventueel stopzetten van de voormelde opleiding vóór de termijn van vijf jaren, vermeld in het tweede lid, is verstreken.&nbsp;<br>
+<br>
+Vanaf de volgende momenten heeft het personeelslid, vermeld in het eerste lid, niet langer recht op de verhoogde salarisschaal, vermeld in het eerste lid:<br>
+1° het personeelslid beëindigt de lerarenopleiding zonder het vereiste bekwaamheidsbewijs te behalen binnen de periode van vijf jaar, vermeld in het tweede lid;<br>
+2° de termijn van vijf jaar, vermeld in het tweede lid, loopt af.<br>
+<br>
+Het personeelslid, vermeld in het eerste lid, wordt na het verlies van het recht op de verhoogde salarisschaal bezoldigd in de laagste salarisschaal die verbonden is aan de categorie “andere” bekwaamheidsbewijzen.<br>
+<br>
+Het schoolbestuur brengt het Agentschap voor Onderwijsdiensten zo snel mogelijk op de hoogte van de ontvangst van de melding door het personeelslid dat het gestart is met de opleiding educatieve bachelor in het kleuteronderwijs of educatieve bachelor in het lager onderwijs of dat het die opleiding heeft stopgezet.
 
 ### ART. 13.
 
@@ -760,7 +786,7 @@ Worden opgeheven voorzover zij bekwaamheidsbewijzen vaststellen wat de instellin
 
 ### ART. 19bis.
 
-De bekwaamheidsbewijzen en salarisschalen, vermeld in bijlage I, die bij dit besluit is gevoegd, treden in werking op 1 maart 2022.
+De bekwaamheidsbewijzen en salarisschalen, vermeld in bijlage I, die bij dit besluit is gevoegd, treden in werking op 1 september 2023.
 
 ### ART. 20.
 
@@ -772,8 +798,8 @@ Onverminderd het bepaalde in artikel 13, § 3 treedt dit besluit in werking op 1
 
 ### BIJLAGE I.
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/14_2.pdf#page=1872">Bekwaamheidsbewijzen en salarisschalen in het buitengewoon secundair onderwijs vanaf 1 januari 2022</a><br>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2023/08/31_1.pdf#page=232">Bijlage I Bekwaamheidsbewijzen en salarisschalen in het buitengewoon onderwijs vanaf 1 september 2023</a><br>
 <br>
-<a href="https://www.ejustice.just.fgov.be/mopdf/2022/12/14_2.pdf#page=2010">Bekwaamheidsbewijzen en salarisschalen in het buitengewoon basisonderwijs vanaf 1 maart 2022</a><br>
+Bij besluit van de Vlaamse Regering van 15 september 2023, wordt met ingang van 1 september 2023 het deel&nbsp;“bekwaamheidsbewijzen buitengewoon basisonderwijs” vervangen door het volgen de deel:<br>
 <br>
-&nbsp;
+<a href="https://www.ejustice.just.fgov.be/mopdf/2023/12/01_1.pdf#page=317">Bekwaamheidsbewijzen buitengewoon basisonderwijs</a>
