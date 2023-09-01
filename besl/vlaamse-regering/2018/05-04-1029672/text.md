@@ -426,7 +426,7 @@ a) dramalab;<br>
 b) spreken en presenteren;<br>
 c) storytelling;<br>
 4° in de studierichting creërend acteur in de optie theatermaker:<br>
-a) cabaret en comedy;<br>
+a) ...;<br>
 b) dramalab;<br>
 c) dramaturgie;<br>
 d) procesdrama;<br>
@@ -460,7 +460,7 @@ e) theorie van de regie.<br>
 5° de vakken vermeld in artikel 4, 12°, in artikel 6 paragraaf 5, in artikel 10 paragraaf 5, 6 en 7.<br>
 <br>
 § 6. In de kortlopende studierichting schrijver kunnen de volgende vakken georganiseerd worden:<br>
-1° cabaret en comedy;<br>
+1° ...;<br>
 2° dramacultuur;<br>
 3° literaire facetten;<br>
 4° schrijven;<br>
@@ -1191,10 +1191,7 @@ Het eerste lid geldt niet voor extramurosactiviteiten die maar één dag duren.<
 <br>
 In deze paragraaf wordt verstaan onder extramurosactiviteit: een leeractiviteit die plaatsvindt buiten de academie en georganiseerd wordt voor een of meer leerlingengroepen.<br>
 <br>
-§ 6. Vanwege individuele artistieke redenen of vanwege deelname aan professionaliseringsactiviteiten kunnen leeractiviteiten op verzoek van de leraar verplaatst worden naar een ander tijdstip in de loop van het schooljaar als aan al de volgende voorwaarden is voldaan:<br>
-1° de academie beschikt over een beoordelingskader om aanvragen tot lesverplaatsing te weigeren of toe te staan;<br>
-2° de verplaatsing van de leeractiviteit wordt schriftelijk of elektronisch gemeld aan de leerlingen en betrokken personen;<br>
-3° de academie houdt een register bij met aanvragen en beslissingen over verplaatsingen van leeractiviteiten, dat ter inzage aan het Agentschap voor Onderwijsdiensten en de onderwijsinspectie kan worden voorgelegd.
+§ 6. Leeractiviteiten kunnen op verzoek van de leraar verplaatst worden naar een ander tijdstip in de loop van het schooljaar. Het schoolbestuur bepaalt om welke redenen leeractiviteiten verplaatst kunnen worden en garandeert daarbij de continuïteit van het leerproces van de leerling en de gelijke behandeling van de personeelsleden.
 
 ## Afdeling 2. Beeldende en audiovisuele kunsten
 
@@ -1529,7 +1526,7 @@ In het derde lid, 4°, wordt verstaan onder competentiedocument: een schriftelij
 <br>
 De leerling start in het eerste leerjaar van zijn opleiding, tenzij de directeur in samenspraak met de betrokken leerkrachten oordeelt dat de leerling in een hoger leerjaar kan starten. De leerling kan evenwel niet verplicht worden om in een hoger leerjaar te starten.<br>
 <br>
-§ 2. Een leerling die bij zijn inschrijving niet kan aantonen dat hij de vereiste basiscompetenties verworven heeft, kan voorlopig ingeschreven worden voor een toelatingsperiode in de opleiding van zijn keuze als hij voldoet aan&nbsp;de toelatingsvoorwaarden voor de leeftijd, vermeld in artikel 29 van het decreet van 9 maart 2018.<br>
+§ 2. Een leerling die bij zijn inschrijving niet kan aantonen dat hij de vereiste basiscompetenties verworven heeft, kan voorlopig ingeschreven worden voor een toelatingsperiode in de opleiding van zijn keuze als hij voldoet aan&nbsp;de toelatingsvoorwaarden voor de leeftijd, vermeld in artikel 29 tot en met 33 van het decreet van 9 maart 2018, met uitzondering van artikel 31, eerste lid, 1°, en derde lid, 2°, artikel 32, derde lid, 2°, en vierde lid, 1°, en artikel 33, §2, 2°, van het voormelde decreet.<br>
 <br>
 In het eerste lid wordt verstaan onder toelatingsperiode: periode van voorlopige toelating tot een opleiding om te bepalen of de leerling beschikt over de competenties om de opleiding in kwestie succesvol te volgen.<br>
 <br>
@@ -1537,9 +1534,7 @@ Uiterlijk twee maanden na de start van het schooljaar beoordeelt de directeur op
 <br>
 De academie houdt een register bij met de aanvragen en gemotiveerde beslissingen over de toelatingsperiodes, dat ter inzage aan het Agentschap voor Onderwijsdiensten en aan de onderwijsinspectie kan worden voorgelegd.<br>
 <br>
-Een leerling die niet voldoet aan de toelatingsvoorwaarden, vermeld in artikel 29 tot en met 36 van het decreet van 9 maart 2018, en voor wie de aanvraag en gemotiveerde beslissing over de toelatingsperiode ontbreekt, is niet regelmatig.<br>
-<br>
-Een leerling die niet voldoet aan de toelatingsvoorwaarde voor de leeftijd, vermeld in artikel 32, vijfde lid, van het decreet van 9 maart 2018, kan niet via een toelatingsperiode ingeschreven worden in de derde graad beeldende en audiovisuele kunsten voor volwassenen.
+Een leerling die niet voldoet aan de toelatingsvoorwaarden, vermeld in artikel 29 tot en met 36 van het decreet van 9 maart 2018, en voor wie de aanvraag en gemotiveerde beslissing over de toelatingsperiode ontbreekt, is niet regelmatig.
 
 ### ART 31.
 
@@ -1903,21 +1898,19 @@ Met de administratieve omkaderingseenheden organiseert de academie betrekkingen 
 
 ### ART 41.
 
-Het krediet voor voordrachtgevers wordt in het schooljaar 2018-2019 vastgesteld door het aantal lestijden dat de academie op die manier wil aanwenden, om te rekenen naar leeractiviteiten op schooljaarbasis, conform artikel 73, § 3 van het decreet van 9 maart 2018, en vervolgens te vermenigvuldigen met 58 euro.<br>
+Een academie kan lestijden aanwenden om een of meer gastleraren in te zetten als vermeld in artikel 73, §3, van het decreet van 9 maart 2018. De academie meldt daarvoor het aantal lestijden en de periode van aanwending aan het Agentschap voor Onderwijsdiensten, dat de lestijden omzet in een krediet.<br>
 <br>
-Vanaf het schooljaar 2019-2020 wordt het bedrag, vermeld in het&nbsp;eerste lid, vermenigvuldigd met de aanpassingscoëfficiënt A, die voor een schooljaar (X, X+1) berekend wordt met de volgende formule: A = (Cx-1/Cx-2), waarbij:<br>
-1° Cx-1: de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
-2° Cx-2: de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br>
+Het krediet voor gastleraren, vermeld in het eerste lid, wordt vastgesteld door het aantal gemelde lestijden te vermenigvuldigen met 73,61 euro. Het resultaat van de voormelde vermenigvuldiging wordt vermenigvuldigd met de aanpassingscoëfficiënt A, die voor een schooljaar (X, X+1) berekend wordt met de volgende formule: A = (Cx-1/Cx-2), waarbij:<br>
+1°&nbsp;&nbsp; &nbsp;Cx-1: de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
+2°&nbsp;&nbsp; &nbsp;Cx-2: de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br>
 <br>
-De A-coëfficiënt wordt voor 100% in rekening gebracht.<br>
+De A-coëfficiënt, vermeld in het tweede lid, wordt voor 100% in rekening gebracht.&nbsp;<br>
 <br>
-Het krediet wordt toegekend met een voorschot van 60% van het krediet in de loop van de maand november van het schooljaar in kwestie en het resterende saldo van 40% in de loop van de maand februari die daarop volgt. Maximaal de helft van de middelen kunnen overgedragen worden naar het krediet van het volgende schooljaar.<br>
-<br>
-Het schoolbestuur meldt uiterlijk op 31 oktober van het schooljaar in kwestie aan het Agentschap voor Onderwijsdiensten hoeveel lestijden omgezet worden naar een krediet voor voordrachtgevers.
+Het Agentschap voor Onderwijsdiensten kent het totale geïndexeerde krediet voor de aanwending van gastleraren, vermeld in het tweede en derde lid, toe aan de academie in de vorm van een voorschot van 60% van het krediet in de loop van de maand november van het schooljaar in kwestie en het resterende saldo van 40% in de loop van de maand februari die daarop volgt. De academie kan dit krediet alleen aanwenden voor het inzetten van gastleraren conform het eerste lid. Maximaal de helft van de middelen kunnen worden overgedragen naar het krediet van het volgende schooljaar.
 
 ### ART 42.
 
-Het schoolbestuur bepaalt met toepassing van de regelgeving inzake overleg en onderhandelingen de wijze waarop het een voordrachtgever in dienst neemt en bepaalt zijn vergoeding. De rechtspositieregeling in het onderwijs is niet van toepassing.<br>
+Het schoolbestuur bepaalt met toepassing van de regelgeving inzake overleg en onderhandelingen de wijze waarop het een gastleraar in dienst neemt en bepaalt zijn vergoeding. De rechtspositieregeling in het onderwijs is niet van toepassing.<br>
 <br>
 In het eerste lid wordt verstaan onder rechtspositieregeling in het onderwijs: het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding en het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs.
 

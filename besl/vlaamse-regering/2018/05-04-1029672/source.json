@@ -2,16 +2,16 @@
   "codex_id": 1029672,
   "title": "Besluit van de Vlaamse Regering van 2018-05-04 betreffende het opleidingsaanbod, de organisatie, de personeelsformatie, de inning van het inschrijvingsgeld en de certificering van het deeltijds kunstonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029672/VolledigDocument?datum=2022-09-01",
-  "source_sha256": "119b0feda5725d39bc11e15a716191993bb199520c0155dd4e60324c3e8bb61f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029672/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "8cd3a9e5fc55b3818d90fa324f15c81379b89667818e028ba74cfc17ba22e315",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029672&param=informatie",
-  "as_of": "2022-09-01",
+  "as_of": "2023-09-01",
   "made": "2018-05-04",
   "gazette": "2018-08-28",
   "numac": 2018040434,
   "document_start": "2018-09-01",
   "document_end": null,
-  "in_force": "2022-09-01",
+  "in_force": "2023-09-01",
   "article_versions": 84,
-  "record_form": "consolidated version as in force on 2022-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
 }
