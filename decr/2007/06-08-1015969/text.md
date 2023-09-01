@@ -302,7 +302,13 @@ Indien een student studiepunten opneemt voor een opleiding zoals bedoeld in arti
 
 ### ART. 26.
 
-§ 1. Indien de student een aanvraag indient voor een studietoelage maar voor het academiejaar in kwestie meer studiepunten opneemt dan hij beschikbaar heeft op zijn studietoelagekrediet, wordt het jokerkrediet aangesproken indien hij hiervoor een studietoelage kan ontvangen.<br /><br />Het jokerkrediet wordt aangesproken om het studietoelagekrediet aan te vullen voor zover en in de mate dat het aantal opgenomen studiepunten het studietoelagekrediet overschrijdt, met een maximum van zestig studiepunten.<br /><br />§ 2. Het jokerkrediet omvat zestig studiepunten, en geldt voor de hele studieduur.
+§ 1. Indien de student een aanvraag indient voor een studietoelage maar voor het academiejaar in kwestie meer studiepunten opneemt dan hij beschikbaar heeft op zijn studietoelagekrediet, wordt het jokerkrediet aangesproken indien hij hiervoor een studietoelage kan ontvangen.<br>
+<br>
+Het jokerkrediet wordt aangesproken om het studietoelagekrediet aan te vullen voor zover en in de mate dat het aantal opgenomen studiepunten het studietoelagekrediet overschrijdt, met een maximum van zestig studiepunten.<br>
+<br>
+§ 2. Het jokerkrediet omvat bij de eerste aanvraag voor een studietoelage zestig studiepunten. Het jokerkrediet wordt aangevuld met het aantal studiepunten dat aan een student die met een diplomacontract was ingeschreven werd teruggegeven conform de bepalingen, vermeld in artikel II.204, § 3, van de Codex Hoger Onderwijs van 11 oktober 2013.<br>
+<br>
+Het jokerkrediet geldt voor de hele studieduur.
 
 ### ART. 27.
 
