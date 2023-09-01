@@ -8,7 +8,26 @@
 
 ### ART. 1.
 
-<P>In dit besluit wordt verstaan onder:<BR>1° bestuursrechter: de effectieve,   aanvullende of plaatsvervangende bestuursrechter, vermeld in artikel 2, 3°, van   het decreet;<BR>2° beveiligde zending: een van de volgende betekeningswijzen,   vermeld in artikel 2, 8°, van het decreet:<BR>a) een aangetekende brief;<BR>b)   een afgifte tegen ontvangstbewijs;<BR>c) elke andere door de Vlaamse Regering   toegestane betekeningswijze waarbij de datum van kennisgeving met zekerheid kan   vastgesteld worden;<BR>3° decreet: het decreet van 4 april 2014 betreffende de   organisatie en de rechtspleging van sommige Vlaamse   bestuursrechtscolleges;<BR>4° dienst van de Bestuursrechtscolleges: de dienst   van de Bestuursrechtscolleges, vermeld in artikel 6 van het decreet;<BR>5°   eerste voorzitter: de voorzitter van de algemene vergadering, vermeld in artikel   2, 6°, van het decreet;<BR>6° tuchtoverheid: de instanties, vermeld in artikel   59 van het decreet;<BR>7° Vlaams bestuursrechtscollege: een van de volgende   instanties, vermeld in artikel 2, 1°, van het decreet:<BR>a) het   Milieuhandhavingscollege, opgericht bij artikel 16.4.19, § 1, eerste lid, van   het decreet van 5 april 1995 houdende algemene bepalingen inzake   milieubeleid;<BR>b) de Raad voor Vergunningsbetwistingen, opgericht bij artikel   4.8.1. van de Vlaamse Codex Ruimtelijke Ordening;<BR>c) de Raad voor   Verkiezingsbetwistingen, opgericht bij artikel 202 van het Lokaal en Provinciaal   Kiesdecreet van 8 juli 2011.<BR>8° voorzitter: de voorzitter van een Vlaams   bestuursrechtscollege, vermeld in artikel 2, 4°, van het decreet.<BR></P>  <P>Voor de toepassing van het VPS wordt:<BR>1° de entiteit dienst van de   Bestuursrechtscolleges beschouwd als een entiteit als vermeld in artikel I 2,   3°, van het VPS;<BR>2° de eerste voorzitter beschouwd als een lijnmanager als   vermeld in artikel I 2, 10°, van het VPS.<BR></P>
+<p>In dit besluit wordt verstaan onder:<br>
+1° bestuursrechter: de effectieve, aanvullende of plaatsvervangende bestuursrechter of de bijzitter, vermeld in artikel 2, 3°, van het decreet;<br>
+2° beveiligde zending: een van de volgende betekeningswijzen, vermeld in artikel 2, 8°, van het decreet:<br>
+a) een aangetekende brief;<br>
+b) een afgifte tegen ontvangstbewijs;<br>
+c) elke andere door de Vlaamse Regering toegestane betekeningswijze waarbij de datum van kennisgeving met zekerheid kan vastgesteld worden;<br>
+3° decreet: het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges;<br>
+4° dienst van de Bestuursrechtscolleges: de dienst van de Bestuursrechtscolleges, vermeld in artikel 6 van het decreet;<br>
+5° eerste voorzitter: de voorzitter van de algemene vergadering, vermeld in artikel 2, 6°, van het decreet;<br>
+6° tuchtoverheid: de instanties, vermeld in artikel 59 van het decreet;<br>
+7° Vlaams bestuursrechtscollege: een van de volgende instanties, vermeld in artikel 2, 1°, van het decreet:<br>
+a) het Milieuhandhavingscollege, opgericht bij artikel 16.4.19, § 1, eerste lid, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
+b) de Raad voor Vergunningsbetwistingen, opgericht bij artikel 4.8.1. van de Vlaamse Codex Ruimtelijke Ordening;<br>
+c) de Raad voor Verkiezingsbetwistingen, opgericht bij artikel 202 van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011;<br>
+d) de Raad voor betwistingen inzake studievoortgangsbeslissingen, opgericht bij artikel II.285 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
+8° voorzitter: de voorzitter van een Vlaams bestuursrechtscollege, vermeld in artikel 2, 4°, van het decreet.</p>
+
+<p>Voor de toepassing van het VPS wordt:<br>
+1° de entiteit dienst van de Bestuursrechtscolleges beschouwd als een entiteit als vermeld in artikel I 2, 3°, van het VPS;<br>
+2° de eerste voorzitter beschouwd als een lijnmanager als vermeld in artikel I 2, 10°, van het VPS.</p>
 
 ## HOOFDSTUK 2 Overdracht van de griffiers en het ondersteunend personeel van sommige Vlaamse bestuursrechtscolleges naar de dienst van de Bestuursrechtscolleges
 
@@ -64,7 +83,9 @@ De bestuursrechter mag, zelfs niet buiten zijn functie, noch rechtstreeks   noch
 
 ### ART. 11.
 
-De effectieve bestuursrechter vraagt de verloven, vermeld in deze   afdeling, aan bij de eerste voorzitter.<BR>
+De effectieve bestuursrechter vraagt de verloven, vermeld in deze afdeling, aan bij de eerste voorzitter.<br>
+<br>
+In afwijking van het eerste lid vraagt de effectieve bestuursrechter het verlof voor deeltijdse prestaties aan bij de voorzitter van het Vlaamse bestuursrechtscollege waarbij hij is benoemd, overeenkomstig artikel 63, eerste lid, van het decreet.
 
 ### ART. 12.
 
@@ -80,9 +101,12 @@ De effectieve bestuursrechter vraagt de verloven, vermeld in deze   afdeling, aa
 1° moederschapsrust en opvangverlof;<br>
 2° loopbaanonderbreking voor palliatieve zorgen, bijstand aan of verzorging van een zwaar ziek gezins- of familielid of ouderschapsverlof;<br>
 3° verlof wegens ziekte, arbeidsongeval of beroepsziekte;<br>
-4° zorgkrediet.</p>
+4° zorgkrediet;<br>
+5° verlof voor deeltijdse prestaties.</p>
 
-<p>Voor de langdurige verloven, vermeld in het eerste lid, zijn de bepalingen van het Vlaams personeelsstatuut van 13 januari 2006 van overeenkomstige toepassing.</p>
+<p>Voor de langdurige verloven, vermeld in het eerste lid, zijn de bepalingen van het Vlaams personeelsstatuut van 13 januari 2006 van overeenkomstige toepassing.<br>
+<br>
+In afwijking van het tweede lid kan de effectieve bestuursrechter, overeenkomstig artikel 63, eerste lid, van het decreet, gedurende zijn volledige loopbaan verlof voor deeltijdse prestaties krijgen als gunst en kunnen de arbeidsprestaties met toepassing van dat verlof ten hoogste worden verminderd tot 80% van een voltijdse betrekking.</p>
 
 ### ART. 15.
 
@@ -182,9 +206,23 @@ De vergoeding voor de aanvullende bestuursrechter van de Raad voor   Verkiezings
 
 ### ART. 34/1.
 
-<P>...</P>
+<p>§ 1. De vergoeding voor de aanvullende bestuursrechter, vermeld in artikel 52, vierde lid, van het decreet, die een zitting van de Raad voor betwistingen inzake studievoortgangsbeslissingen leidt, bedraagt forfaitair 125 euro (100%) per rechtstreeks beroep tot aanpassing van het leerkrediet, vermeld in artikel II.285, tweede lid, van de Codex Hoger Onderwijs van 11 oktober 2013, dat wordt behandeld tijdens die zitting.<br>
+<br>
+Voor alle andere beroepen ontvangt de aanvullende bestuursrechter die een zitting van de Raad voor betwistingen inzake studievoortgangsbeslissingen leidt, een forfaitaire vergoeding van 375 euro (100%) per beroep dat wordt behandeld tijdens die zitting.<br>
+<br>
+§ 2. De vergoeding voor de bijzitter, vermeld in artikel 52, vierde lid, van het decreet, die deelneemt aan een zitting van de Raad voor betwistingen inzake studievoortgangsbeslissingen bedraagt forfaitair 75 euro (100%) per beroep dat wordt behandeld tijdens die zitting.<br>
+<br>
+§ 3. Als een beroep wordt verdaagd of tijdens verschillende zittingen wordt behandeld, wordt maar één zitting in aanmerking genomen om de vergoedingen, vermeld in paragraaf 1 en 2, vast te stellen.<br>
+<br>
+De vergoedingen, vermeld in paragraaf 1 en 2, volgen de evolutie van het indexcijfer, vermeld in de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De vergoeding tegen 100% wordt gekoppeld aan het spilindexcijfer, zoals van toepassing op de datum van de inwerkingtreding van dit besluit.</p>
 
 ## [Afdeling 9. Beschikbaarheid van de bijzitter van de Raad voor betwistingen inzake studievoortgangsbeslissingen (ing. BVR 12 mei 2023, art. 17, I: 1 september 2023)]
+
+### ART 34/2.
+
+De bijzitter houdt zich beschikbaar voor de zittingen van de Raad voor betwistingen inzake studievoortgangsbeslissingen.<br>
+<br>
+De verplichting tot beschikbaarheid houdt ten minste in dat de bijzitter regelmatig deelneemt aan de zittingen van de Raad voor betwistingen inzake studievoortgangsbeslissingen.
 
 ## HOOFDSTUK 4 Slotbepalingen
 
