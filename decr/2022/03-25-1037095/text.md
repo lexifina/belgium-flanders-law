@@ -98,6 +98,14 @@ In artikel 44, tweede lid, van hetzelfde decreet wordt de zinsnede "richtlijn 80
 
 In artikel 45, derde lid, van hetzelfde decreet wordt de zinsnede "artikel 76 van de gecoördineerde wetten op de handelsvennootschappen" vervangen door de zinsnede "artikel 7:55 van het Wetboek van vennootschappen en verenigingen".
 
+### ART 15.
+
+In artikel 47 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid, 2°, worden de woorden "de gedelegeerd bestuurder" vervangen door de zinsnede "het ondernemingshoofd, dat als werknemer wordt tewerkgesteld";<br>
+2° in het eerste lid wordt punt 3° opgeheven;<br>
+3° aan het tweede lid wordt de volgende zin toegevoegd:<br>
+"Het ondernemingshoofd neemt met raadgevende stem deel aan de raad van bestuur.".
+
 ### ART 16.
 
 In artikel 49 van hetzelfde decreet worden de woorden "de gedelegeerd bestuurder" vervangen door de woorden "het ondernemingshoofd".

@@ -2,16 +2,16 @@
   "codex_id": 1037095,
   "title": "Decreet van 2022-03-25 tot wijziging van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037095/VolledigDocument?datum=2022-06-09",
-  "source_sha256": "b360fdcc299edcd97a329f2c598719f0e353a974eab09beb263ee03d00f69dae",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037095/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "86e12337529a57972d5c90ecd72b9d8225add34b0c9be32da3a7684963b0faa7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037095&param=informatie",
-  "as_of": "2022-06-09",
+  "as_of": "2023-09-01",
   "made": "2022-03-25",
   "gazette": "2022-05-30",
   "numac": 2022031632,
   "document_start": "2022-06-09",
   "document_end": null,
-  "in_force": "2022-06-09",
-  "article_versions": 31,
-  "record_form": "consolidated version as in force on 2022-06-09; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2023-09-01",
+  "article_versions": 32,
+  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
 }
