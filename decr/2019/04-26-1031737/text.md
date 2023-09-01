@@ -22,7 +22,7 @@ In dit decreet wordt verstaan onder:<br>
 3° beoordeling: evalueren van competenties op basis van een formeel referentiekader;<br>
 4° certificering: formeel erkennen van competenties, op basis van de resultaten van beoordeling van de competenties.<br>
 <br>
-Dit decreet is van toepassing op de beroepskwalificerende EVC-trajecten die de beoordeling en certificering van competenties uit een beroepskwalificatie omvatten.<br>
+Dit decreet is van toepassing op de beroepskwalificerende EVC-trajecten die de beoordeling en certificering van competenties uit een beroepskwalificatie of deelkwalificatie omvatten.<br>
 <br>
 § 2. Dit decreet is niet van toepassing op:<br>
 1° competentiebeoordelingen in het leerplichtonderwijs;<br>
@@ -34,13 +34,13 @@ Dit decreet is van toepassing op de beroepskwalificerende EVC-trajecten die de b
 
 ### ART 4.
 
-§ 1. Het referentiekader voor de beoordeling van de competenties van een individu zijn de beroepskwalificaties uit de kwalificatiestructuur.<br>
+§ 1. Het referentiekader voor de beoordeling van de competenties van een individu zijn de beroepskwalificaties en deelkwalificaties uit de kwalificatiestructuur.<br>
 <br>
 In het eerste lid wordt verstaan onder kwalificatiestructuur: de kwalificatiestructuur, vermeld in artikel 2, 14°, van het decreet van 30 april 2009.<br>
 <br>
 § 2. Het referentiekader, vermeld in paragraaf 1, is de basis voor de opmaak van EVC-standaarden.<br>
 <br>
-Een EVC-standaard geeft aan welke methodes aangewezen zijn om de competenties uit de beroepskwalificaties te beoordelen en bepaalt de randvoorwaarden voor een kwaliteitsvolle beoordeling.<br>
+Een EVC-standaard geeft aan welke methodes aangewezen zijn om de competenties uit de beroepskwalificaties en deelkwalificaties te beoordelen en bepaalt de randvoorwaarden voor een kwaliteitsvolle beoordeling.<br>
 <br>
 De bevoegde dienst van het Vlaamse Ministerie van Onderwijs en Vorming coördineert het opstellen van de EVC-standaarden. Daarbij doet hij een beroep op de belanghebbenden.<br>
 <br>
@@ -48,7 +48,7 @@ De Vlaamse Regering bepaalt de procedure voor het erkennen van een EVC-standaard
 
 ### ART 5.
 
-§ 1. Een individu dat zijn competenties wil laten beoordelen en certificeren, doorloopt een beroepskwalificerend EVC-traject in een geregistreerd EVC-testcentrum. Dat testcentrum biedt het individu de nodige informatie en begeleiding om het EVC-traject te kunnen doorlopen.<br>
+§ 1. Een individu dat zijn competenties wil laten beoordelen en certificeren, doorloopt een beroepskwalificerend EVC-traject in een geregistreerd EVC-testcentrum. Dat testcentrum biedt het individu de nodige informatie en begeleiding om het EVC-traject te kunnen doorlopen.&nbsp;Een geregistreerd EVC­testcentrum kan de bevoegdheid hebben om beroepskwalificerende trajecten op het niveau van de beroepskwalificatie aan te bieden of om alleen beroepskwalificerende trajecten op het niveau van de deelkwalificatie aan te bieden.<br>
 <br>
 § 2. Het EVC-testcentrum baseert zich voor de uitwerking van de beoordeling op een door de Vlaamse Gemeenschap erkende EVC-standaard.<br>
 <br>

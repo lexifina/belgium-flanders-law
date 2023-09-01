@@ -2,16 +2,16 @@
   "codex_id": 1031737,
   "title": "Decreet van 2019-04-26 betreffende een geïntegreerd beleid voor de erkenning van verworven competenties",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031737/VolledigDocument?datum=2019-06-13",
-  "source_sha256": "dfa65c1c412d6e3fddff0b32faf7b4d8f1a6c16e2b4f36a1fb8f50766e21da86",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031737/VolledigDocument?datum=2023-09-01",
+  "source_sha256": "2b0b5465dd4cf7d7359e2c99082886e722c41894f591a3f0511c2fa4704dde59",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031737&param=informatie",
-  "as_of": "2019-06-13",
+  "as_of": "2023-09-01",
   "made": "2019-04-26",
   "gazette": "2019-06-03",
   "numac": 2019012586,
   "document_start": "2019-06-13",
   "document_end": null,
-  "in_force": "2019-06-13",
+  "in_force": "2023-09-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2019-06-13; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
 }
