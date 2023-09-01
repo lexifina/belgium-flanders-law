@@ -39,6 +39,7 @@ In dit besluit wordt verstaan onder:<br>
 3° /1 afzondering: het verblijf van een minderjarige in een individuele afzonderingskamer die daarvoor speciaal voorzien is, of in een andere individuele ruimte, die de minderjarige niet zelfstandig kan verlaten;<br>
 3° /2 afzonderingskamer: een specifiek veilig ingerichte, hoog beveiligde ruimte die de minderjarige niet zelfstandig kan verlaten;<br>
 4° bemiddeling: de bemiddeling, vermeld in artikel 2, 1°, van het decreet van 15 februari 2019;<br>
+4°/1 besluit van 5 mei 2023: het besluit van de Vlaamse Regering van 5 mei 2023 over de uitvoering van een hulpprogramma geblokkeerde ontwikkelingstrajecten;<br>
 5° betrokken partij: de minderjarige, de ouders, en in voorkomend geval zijn opvoedingsverantwoordelijken, betrokken personen uit zijn leefomgeving en de betrokken jeugdhulpaanbieders;<br>
 6° capaciteit: het aantal minderjarigen dat een erkende voorziening mag opnemen of begeleiden;<br>
 7° centraal permanent crisismeldpunt: het centraal permanent crisismeldpunt, vermeld in artikel 44, § 2, 1°, van het decreet van 12 juli 2013;<br>
@@ -113,11 +114,11 @@ Een organisatie voor bijzondere jeugdzorg organiseert, al dan niet op beslissing
 <br>
 De hulpverlening die wordt georganiseerd door een organisatie voor bijzondere jeugdzorg heeft als finaliteit de ontwikkelings- en ontplooiingskansen van de minderjarige te vrijwaren en te versterken, en zijn maatschappelijke integratie te bevorderen. Daarbij worden zijn gezin en zijn ruimer familiaal, sociaal en professioneel netwerk betrokken.<br>
 <br>
-Een organisatie voor bijzondere jeugdzorg organiseert haar aanbod op basis van de typemodules verblijf voor -12-jarigen, verblijf voor +12-jarigen, verblijf voor 0-25-jarigen, beveiligend verblijf, contextbegeleiding kortdurend krachtgericht, contextbegeleiding laagintensief, contextbegeleiding breedsporig, contextbegeleiding kortdurend intensief, dagbegeleiding in groep, contextbegeleiding in functie van autonoom wonen basisintensiteit, contextbegeleiding in functie van autonoom wonen middenintensiteit, begeleiding in een kleinschalige wooneenheid, ondersteunende begeleiding en delictgerichte contextbegeleiding, vermeld in bijlage 1, die bij dit besluit is gevoegd.<br>
+Een organisatie voor bijzondere jeugdzorg organiseert haar aanbod op basis van de typemodules verblijf voor -12-jarigen, verblijf voor +12-jarigen, verblijf voor 0-25-jarigen, veilig verblijf, contextbegeleiding kortdurend krachtgericht, contextbegeleiding laagintensief, contextbegeleiding breedsporig, contextbegeleiding kortdurend intensief, dagbegeleiding in groep, contextbegeleiding in functie van autonoom wonen basisintensiteit, contextbegeleiding in functie van autonoom wonen middenintensiteit, begeleiding in een kleinschalige wooneenheid, ondersteunende begeleiding en delictgerichte contextbegeleiding, vermeld in bijlage 1, die bij dit besluit is gevoegd.<br>
 <br>
 Een organisatie voor bijzondere jeugdzorg die erkend is om modules contextbegeleiding en modules contextbegeleiding in functie van autonoom wonen aan te bieden, kan, op basis van de reële noden van de gebruikers, zelf de verhouding tussen het effectieve aantal ingezette modules contextbegeleiding en contextbegeleiding in functie van autonoom wonen bepalen.<br>
 <br>
-De administrateur-generaal kan bepalen dat een organisatie voor bijzondere jeugdzorg op jaarbasis een welbepaald aantal minderjarigen die in een gemeenschapsinstelling verblijven, moet begeleiden of opvangen.
+De administrateur-generaal kan bepalen dat een organisatie voor bijzondere jeugdzorg op jaarbasis een welbepaald aantal minderjarigen die in een gemeenschapsinstelling verblijven of die toegewezen zijn aan een typemodule veilig verblijf, moet begeleiden of opvangen.
 
 ### ART 4.
 
@@ -268,9 +269,9 @@ De administrateur-generaal kan een opnameplicht opleggen aan een voorziening van
 
 ### ART 15.
 
-Een voorziening van de categorie 1 die erkend is om de typemodule beveiligend verblijf aan te bieden, moet, met behoud van de toepassing van artikel 13, aan al de volgende bijzondere voorwaarden voldoen:<br>
-1° de voorziening neemt in de typemodule beveiligend verblijf uitsluitend minderjarigen op die zich aan de hulpverlening willen onttrekken en onder invloed van een negatieve context grensoverschrijdend gedrag stellen, en daarom tijdelijk uit hun omgeving weggehaald moeten worden;<br>
-2° de voorziening beschikt over onderbouwde vraagverhelderings- en risicotaxatie-instrumenten die bij de start van elke begeleiding ingezet worden opdat haar aanbod ingezet wordt op maat van de minderjarige en zijn noden;<br>
+Een voorziening van de categorie 1 die erkend is om de typemodule veilig verblijf aan te bieden, moet, met behoud van de toepassing van artikel 13, aan al de volgende bijzondere voorwaarden voldoen:<br>
+1° de voorziening neemt in de typemodule veilig verblijf uitsluitend minderjarigen op die in aanmerking komen voor het hulpprogramma geblokkeerde ontwikkelingstrajecten, vermeld in artikel 2 van het besluit van (datum aanvullen), en voor wie een vorm van geslotenheid tijdelijk noodzakelijk is voor de bescherming van de psychische of fysieke integriteit van de minderjarige;<br>
+2° ...;<br>
 3° de voorziening organiseert een permanente opvoedkundige aanwezigheid op maat van de minderjarige, die zich vertaalt in:<br>
 a) een doorgedreven individuele begeleiding met een invulling van de intensiteit van het verblijf naargelang van de noden en de veiligheid van de minderjarige;<br>
 b) een planmatige en op continuïteit gefocuste begeleiding met extra aandacht voor de veiligheid;<br>
@@ -294,12 +295,17 @@ d) jeugdrechters en sociale diensten;<br>
 e) onderwijs- en tewerkstellingsactoren;<br>
 f) vrijetijdsactoren;<br>
 g) partners uit de gezondheidszorg;<br>
-7° de voorziening neemt infrastructurele en personeelsmatige maatregelen die drempelverhogend zijn voor ontvluchtingen;<br>
-7/1° de voorziening die het noodzakelijk vindt om minderjarigen soms tijdelijk af te zonderen of andere vrijheidsbeperkende maatregelen te nemen, om hun eigen veiligheid, de veiligheid van andere minderjarigen of die van het personeel te verzekeren, beschikt daarvoor over een huishoudelijk reglement. Het huishoudelijk reglement wordt bij de opname bekendgemaakt aan de betrokken partijen. In het huishoudelijk reglement worden minstens de volgende elementen beschreven:<br>
-a) de inrichting van de afzonderingskamer;<br>
-b) de wijze van registratie van elke afzondering;<br>
-c) de duur van de afzondering;<br>
-d) het toezicht op en de mogelijkheden tot contact van de minderjarige in kwestie;<br>
+7° de voorziening is partner in een samenwerkingsverband om de doelstellingen van het hulpprogramma geblokkeerde ontwikkelingstrajecten te organiseren als vermeld in artikel 10 van het besluit van (datum aanvullen), en ontwikkelt, in afstemming en via regelmatige bijsturing met de andere partners van het hulpprogramma binnen het werkingsgebied, een pedagogisch beleid rond veiligheid dat is neergelegd in het huishoudelijk reglement van de voorziening en waarbij al de volgende elementen worden beschreven:<br>
+a)&nbsp;&nbsp; &nbsp;de visie op relationele veiligheid;<br>
+b)&nbsp;&nbsp; &nbsp;de visie op infrastructurele veiligheid die minstens de mogelijkheid tot geslotenheid omvat;<br>
+c)&nbsp;&nbsp; &nbsp;de modaliteiten waaronder geslotenheid op maat en individueel gedifferentieerd wordt in het traject van de minderjarige;<br>
+7°/1 de voorziening die het noodzakelijk vindt om minderjarigen soms tijdelijk af te zonderen of andere vrijheidsbeperkende maatregelen te nemen om de veiligheid te herstellen bij acuut en ernstig gevaar of om de veiligheid te behouden bij potentieel gevaar, ter preventie van acuut en ernstig gevaar voor de minderjarigen of anderen, ent zich daarvoor volledig op de modaliteiten van het decreet van 7 mei 2004. In het huishoudelijk reglement van de voorziening worden minstens de volgende elementen beschreven:<br>
+a)&nbsp;&nbsp; &nbsp;het preventiebeleid op afzondering;<br>
+b)&nbsp;&nbsp; &nbsp;de infrastructurele vertaling van de afzondering;<br>
+c)&nbsp;&nbsp; &nbsp;de wijze van registratie van elke afzondering;<br>
+d)&nbsp;&nbsp; &nbsp;de duur van de afzondering;<br>
+e)&nbsp;&nbsp; &nbsp;het toezicht op en de mogelijkheden tot contact van de minderjarige tijdens de afzondering;<br>
+f)&nbsp;&nbsp; &nbsp;de opvolging van de afzondering in het ruimere pedagogisch traject van de jongere;<br>
 8° de voorziening voert een duidelijk beleid rond de veiligheid van het personeel en de minderjarigen;<br>
 9° de voorziening zorgt voor een professionalisering door intensieve coaching, vorming en permanente ondersteuning van het personeel.
 
@@ -529,7 +535,8 @@ d) het toezicht op en de mogelijkheden tot contact van de minderjarige in kwesti
 6° de voorziening kan voorzien in een voltijdse residentiële ondersteuning als de problematiek van de minderjarige dat vereist;<br>
 7° de voorziening neemt deel aan het instroomoverleg dat de toegangspoort organiseert met het oog op een gepaste toewijzing;<br>
 8° de voorziening werkt met andere voorzieningen van de categorie 8 in de regio samen om ervoor te zorgen dat de helft van de totale capaciteit in de regio prioritair ingezet wordt voor uitstroom uit de gemeenschapsinstellingen;<br>
-9° de voorziening draagt specifieke knowhow over aan andere actoren die betrokken zijn bij de ondersteuning van minderjarigen met GES+.
+9° de voorziening draagt specifieke knowhow over aan andere actoren die betrokken zijn bij de ondersteuning van minderjarigen met GES+;<br>
+10° de voorziening zet haar aanbod uitsluitend in voor minderjarigen die in aanmerking komen voor het hulpprogramma geblokkeerde ontwikkelingstrajecten, vermeld in artikel 2 van het besluit van (datum aanvullen). De administrateur-generaal kan afwijkingen toestaan op organisatieniveau wegens de specificiteit van de doelgroep.
 
 ## [Onderafdeling 9. Centra voor kinderzorg en gezinsondersteuning (ing. BVR 27 oktober 2023, art. 5, I: 1 januari 2024)]
 
@@ -852,7 +859,7 @@ Alleen voor de toelating om minderjarigen op te nemen, worden de volgende voorzi
 2° de andere voorzieningen die erkend zijn in het kader van het decreet van 12 juli 2013;<br>
 3° de ziekenhuizen, vermeld in het koninklijk besluit van 7 augustus 1987 houdende coördinatie van de wet op de ziekenhuizen;<br>
 4° de voorzieningen die buiten het Nederlands taalgebied liggen en waarvoor een overeenkomst is gesloten met de Vlaamse Gemeenschap;<br>
-5° de schoolinternaten.<br>
+5° de onderwijsinternaten.<br>
 <br>
 De gelijkstelling, vermeld in het eerste lid, kan worden ingetrokken na advies van de inspectiedienst van de administratie of van de betrokken sector.
 
